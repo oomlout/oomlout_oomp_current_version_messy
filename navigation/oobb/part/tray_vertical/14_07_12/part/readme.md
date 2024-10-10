@@ -122,6 +122,18 @@ wild
 will
 salad
 february |  
+| bip_39_word_no_space_1 | jacket |  
+| bip_39_word_no_space_10 | jacketlampbuyerstomachdieselwildwillsaladfebruaryimpact |  
+| bip_39_word_no_space_11 | jacketlampbuyerstomachdieselwildwillsaladfebruaryimpactview |  
+| bip_39_word_no_space_12 | jacketlampbuyerstomachdieselwildwillsaladfebruaryimpactviewappear |  
+| bip_39_word_no_space_2 | jacketlamp |  
+| bip_39_word_no_space_3 | jacketlampbuyer |  
+| bip_39_word_no_space_4 | jacketlampbuyerstomach |  
+| bip_39_word_no_space_5 | jacketlampbuyerstomachdiesel |  
+| bip_39_word_no_space_6 | jacketlampbuyerstomachdieselwild |  
+| bip_39_word_no_space_7 | jacketlampbuyerstomachdieselwildwill |  
+| bip_39_word_no_space_8 | jacketlampbuyerstomachdieselwildwillsalad |  
+| bip_39_word_no_space_9 | jacketlampbuyerstomachdieselwildwillsaladfebruary |  
 | bip_39_word_space_0 | ['jacket', 'lamp', 'buyer', 'stomach', 'diesel', 'wild', 'will', 'salad', 'february', 'impact', 'view', 'appear'] |  
 | bip_39_word_space_1 | jacket |  
 | bip_39_word_space_10 | jacket lamp buyer stomach diesel wild will salad february impact |  

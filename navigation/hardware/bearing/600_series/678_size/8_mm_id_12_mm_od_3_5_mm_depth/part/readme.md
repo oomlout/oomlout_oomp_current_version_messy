@@ -122,6 +122,18 @@ glance
 strategy
 attract
 panther |  
+| bip_39_word_no_space_1 | drive |  
+| bip_39_word_no_space_10 | driveletteralienembodyloyalglancestrategyattractpanthersolar |  
+| bip_39_word_no_space_11 | driveletteralienembodyloyalglancestrategyattractpanthersolartower |  
+| bip_39_word_no_space_12 | driveletteralienembodyloyalglancestrategyattractpanthersolartoweradult |  
+| bip_39_word_no_space_2 | driveletter |  
+| bip_39_word_no_space_3 | driveletteralien |  
+| bip_39_word_no_space_4 | driveletteralienembody |  
+| bip_39_word_no_space_5 | driveletteralienembodyloyal |  
+| bip_39_word_no_space_6 | driveletteralienembodyloyalglance |  
+| bip_39_word_no_space_7 | driveletteralienembodyloyalglancestrategy |  
+| bip_39_word_no_space_8 | driveletteralienembodyloyalglancestrategyattract |  
+| bip_39_word_no_space_9 | driveletteralienembodyloyalglancestrategyattractpanther |  
 | bip_39_word_space_0 | ['drive', 'letter', 'alien', 'embody', 'loyal', 'glance', 'strategy', 'attract', 'panther', 'solar', 'tower', 'adult'] |  
 | bip_39_word_space_1 | drive |  
 | bip_39_word_space_10 | drive letter alien embody loyal glance strategy attract panther solar |  

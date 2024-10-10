@@ -122,6 +122,18 @@ merge
 sport
 chunk
 minute |  
+| bip_39_word_no_space_1 | blind |  
+| bip_39_word_no_space_10 | blindchildtinylegenddecademergesportchunkminuteexotic |  
+| bip_39_word_no_space_11 | blindchildtinylegenddecademergesportchunkminuteexoticmarble |  
+| bip_39_word_no_space_12 | blindchildtinylegenddecademergesportchunkminuteexoticmarbleanxiety |  
+| bip_39_word_no_space_2 | blindchild |  
+| bip_39_word_no_space_3 | blindchildtiny |  
+| bip_39_word_no_space_4 | blindchildtinylegend |  
+| bip_39_word_no_space_5 | blindchildtinylegenddecade |  
+| bip_39_word_no_space_6 | blindchildtinylegenddecademerge |  
+| bip_39_word_no_space_7 | blindchildtinylegenddecademergesport |  
+| bip_39_word_no_space_8 | blindchildtinylegenddecademergesportchunk |  
+| bip_39_word_no_space_9 | blindchildtinylegenddecademergesportchunkminute |  
 | bip_39_word_space_0 | ['blind', 'child', 'tiny', 'legend', 'decade', 'merge', 'sport', 'chunk', 'minute', 'exotic', 'marble', 'anxiety'] |  
 | bip_39_word_space_1 | blind |  
 | bip_39_word_space_10 | blind child tiny legend decade merge sport chunk minute exotic |  

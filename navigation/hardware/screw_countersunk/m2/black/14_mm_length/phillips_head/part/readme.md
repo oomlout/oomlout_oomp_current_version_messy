@@ -122,6 +122,18 @@ radar
 other
 economy
 sad |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbagepilottrendcancelstateradarothereconomysadalmost |  
+| bip_39_word_no_space_11 | cabbagepilottrendcancelstateradarothereconomysadalmostinhale |  
+| bip_39_word_no_space_12 | cabbagepilottrendcancelstateradarothereconomysadalmostinhaleassist |  
+| bip_39_word_no_space_2 | cabbagepilot |  
+| bip_39_word_no_space_3 | cabbagepilottrend |  
+| bip_39_word_no_space_4 | cabbagepilottrendcancel |  
+| bip_39_word_no_space_5 | cabbagepilottrendcancelstate |  
+| bip_39_word_no_space_6 | cabbagepilottrendcancelstateradar |  
+| bip_39_word_no_space_7 | cabbagepilottrendcancelstateradarother |  
+| bip_39_word_no_space_8 | cabbagepilottrendcancelstateradarothereconomy |  
+| bip_39_word_no_space_9 | cabbagepilottrendcancelstateradarothereconomysad |  
 | bip_39_word_space_0 | ['cabbage', 'pilot', 'trend', 'cancel', 'state', 'radar', 'other', 'economy', 'sad', 'almost', 'inhale', 'assist'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage pilot trend cancel state radar other economy sad almost |  

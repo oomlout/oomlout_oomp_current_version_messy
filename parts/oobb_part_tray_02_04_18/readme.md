@@ -122,6 +122,18 @@ grape
 ski
 bring
 miss |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deertextspraysecuritygymgrapeskibringmisseither |  
+| bip_39_word_no_space_11 | deertextspraysecuritygymgrapeskibringmisseitheraccess |  
+| bip_39_word_no_space_12 | deertextspraysecuritygymgrapeskibringmisseitheraccessankle |  
+| bip_39_word_no_space_2 | deertext |  
+| bip_39_word_no_space_3 | deertextspray |  
+| bip_39_word_no_space_4 | deertextspraysecurity |  
+| bip_39_word_no_space_5 | deertextspraysecuritygym |  
+| bip_39_word_no_space_6 | deertextspraysecuritygymgrape |  
+| bip_39_word_no_space_7 | deertextspraysecuritygymgrapeski |  
+| bip_39_word_no_space_8 | deertextspraysecuritygymgrapeskibring |  
+| bip_39_word_no_space_9 | deertextspraysecuritygymgrapeskibringmiss |  
 | bip_39_word_space_0 | ['deer', 'text', 'spray', 'security', 'gym', 'grape', 'ski', 'bring', 'miss', 'either', 'access', 'ankle'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer text spray security gym grape ski bring miss either |  

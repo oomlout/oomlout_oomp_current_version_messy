@@ -122,6 +122,18 @@ reopen
 item
 scatter
 chair |  
+| bip_39_word_no_space_1 | donate |  
+| bip_39_word_no_space_10 | donatetornadowarfareaffordvehiclereopenitemscatterchairfortune |  
+| bip_39_word_no_space_11 | donatetornadowarfareaffordvehiclereopenitemscatterchairfortunenominee |  
+| bip_39_word_no_space_12 | donatetornadowarfareaffordvehiclereopenitemscatterchairfortunenomineeafraid |  
+| bip_39_word_no_space_2 | donatetornado |  
+| bip_39_word_no_space_3 | donatetornadowarfare |  
+| bip_39_word_no_space_4 | donatetornadowarfareafford |  
+| bip_39_word_no_space_5 | donatetornadowarfareaffordvehicle |  
+| bip_39_word_no_space_6 | donatetornadowarfareaffordvehiclereopen |  
+| bip_39_word_no_space_7 | donatetornadowarfareaffordvehiclereopenitem |  
+| bip_39_word_no_space_8 | donatetornadowarfareaffordvehiclereopenitemscatter |  
+| bip_39_word_no_space_9 | donatetornadowarfareaffordvehiclereopenitemscatterchair |  
 | bip_39_word_space_0 | ['donate', 'tornado', 'warfare', 'afford', 'vehicle', 'reopen', 'item', 'scatter', 'chair', 'fortune', 'nominee', 'afraid'] |  
 | bip_39_word_space_1 | donate |  
 | bip_39_word_space_10 | donate tornado warfare afford vehicle reopen item scatter chair fortune |  

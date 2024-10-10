@@ -122,6 +122,18 @@ estate
 clever
 suffer
 parent |  
+| bip_39_word_no_space_1 | scan |  
+| bip_39_word_no_space_10 | scanmoveswiftsatoshiinstallestatecleversufferparentharbor |  
+| bip_39_word_no_space_11 | scanmoveswiftsatoshiinstallestatecleversufferparentharborwhale |  
+| bip_39_word_no_space_12 | scanmoveswiftsatoshiinstallestatecleversufferparentharborwhaleankle |  
+| bip_39_word_no_space_2 | scanmove |  
+| bip_39_word_no_space_3 | scanmoveswift |  
+| bip_39_word_no_space_4 | scanmoveswiftsatoshi |  
+| bip_39_word_no_space_5 | scanmoveswiftsatoshiinstall |  
+| bip_39_word_no_space_6 | scanmoveswiftsatoshiinstallestate |  
+| bip_39_word_no_space_7 | scanmoveswiftsatoshiinstallestateclever |  
+| bip_39_word_no_space_8 | scanmoveswiftsatoshiinstallestatecleversuffer |  
+| bip_39_word_no_space_9 | scanmoveswiftsatoshiinstallestatecleversufferparent |  
 | bip_39_word_space_0 | ['scan', 'move', 'swift', 'satoshi', 'install', 'estate', 'clever', 'suffer', 'parent', 'harbor', 'whale', 'ankle'] |  
 | bip_39_word_space_1 | scan |  
 | bip_39_word_space_10 | scan move swift satoshi install estate clever suffer parent harbor |  

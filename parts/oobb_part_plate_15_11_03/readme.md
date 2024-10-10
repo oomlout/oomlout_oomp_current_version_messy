@@ -122,6 +122,18 @@ fade
 caught
 expand
 boy |  
+| bip_39_word_no_space_1 | cotton |  
+| bip_39_word_no_space_10 | cottoncolordynamicreliefozonefadecaughtexpandboyspike |  
+| bip_39_word_no_space_11 | cottoncolordynamicreliefozonefadecaughtexpandboyspikecup |  
+| bip_39_word_no_space_12 | cottoncolordynamicreliefozonefadecaughtexpandboyspikecuparrow |  
+| bip_39_word_no_space_2 | cottoncolor |  
+| bip_39_word_no_space_3 | cottoncolordynamic |  
+| bip_39_word_no_space_4 | cottoncolordynamicrelief |  
+| bip_39_word_no_space_5 | cottoncolordynamicreliefozone |  
+| bip_39_word_no_space_6 | cottoncolordynamicreliefozonefade |  
+| bip_39_word_no_space_7 | cottoncolordynamicreliefozonefadecaught |  
+| bip_39_word_no_space_8 | cottoncolordynamicreliefozonefadecaughtexpand |  
+| bip_39_word_no_space_9 | cottoncolordynamicreliefozonefadecaughtexpandboy |  
 | bip_39_word_space_0 | ['cotton', 'color', 'dynamic', 'relief', 'ozone', 'fade', 'caught', 'expand', 'boy', 'spike', 'cup', 'arrow'] |  
 | bip_39_word_space_1 | cotton |  
 | bip_39_word_space_10 | cotton color dynamic relief ozone fade caught expand boy spike |  

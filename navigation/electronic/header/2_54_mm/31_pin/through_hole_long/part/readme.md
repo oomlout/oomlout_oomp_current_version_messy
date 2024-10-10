@@ -122,6 +122,18 @@ stem
 mixed
 sponsor
 tourist |  
+| bip_39_word_no_space_1 | property |  
+| bip_39_word_no_space_10 | propertyspecialrigidrotatesniffstemmixedsponsortouristclub |  
+| bip_39_word_no_space_11 | propertyspecialrigidrotatesniffstemmixedsponsortouristclubholiday |  
+| bip_39_word_no_space_12 | propertyspecialrigidrotatesniffstemmixedsponsortouristclubholidayapple |  
+| bip_39_word_no_space_2 | propertyspecial |  
+| bip_39_word_no_space_3 | propertyspecialrigid |  
+| bip_39_word_no_space_4 | propertyspecialrigidrotate |  
+| bip_39_word_no_space_5 | propertyspecialrigidrotatesniff |  
+| bip_39_word_no_space_6 | propertyspecialrigidrotatesniffstem |  
+| bip_39_word_no_space_7 | propertyspecialrigidrotatesniffstemmixed |  
+| bip_39_word_no_space_8 | propertyspecialrigidrotatesniffstemmixedsponsor |  
+| bip_39_word_no_space_9 | propertyspecialrigidrotatesniffstemmixedsponsortourist |  
 | bip_39_word_space_0 | ['property', 'special', 'rigid', 'rotate', 'sniff', 'stem', 'mixed', 'sponsor', 'tourist', 'club', 'holiday', 'apple'] |  
 | bip_39_word_space_1 | property |  
 | bip_39_word_space_10 | property special rigid rotate sniff stem mixed sponsor tourist club |  

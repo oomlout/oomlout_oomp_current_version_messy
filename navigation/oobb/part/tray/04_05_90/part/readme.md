@@ -122,6 +122,18 @@ increase
 hover
 mirror
 large |  
+| bip_39_word_no_space_1 | run |  
+| bip_39_word_no_space_10 | rundesignmountainjaraerobicincreasehovermirrorlargetopic |  
+| bip_39_word_no_space_11 | rundesignmountainjaraerobicincreasehovermirrorlargetopiccrime |  
+| bip_39_word_no_space_12 | rundesignmountainjaraerobicincreasehovermirrorlargetopiccrimeattitude |  
+| bip_39_word_no_space_2 | rundesign |  
+| bip_39_word_no_space_3 | rundesignmountain |  
+| bip_39_word_no_space_4 | rundesignmountainjar |  
+| bip_39_word_no_space_5 | rundesignmountainjaraerobic |  
+| bip_39_word_no_space_6 | rundesignmountainjaraerobicincrease |  
+| bip_39_word_no_space_7 | rundesignmountainjaraerobicincreasehover |  
+| bip_39_word_no_space_8 | rundesignmountainjaraerobicincreasehovermirror |  
+| bip_39_word_no_space_9 | rundesignmountainjaraerobicincreasehovermirrorlarge |  
 | bip_39_word_space_0 | ['run', 'design', 'mountain', 'jar', 'aerobic', 'increase', 'hover', 'mirror', 'large', 'topic', 'crime', 'attitude'] |  
 | bip_39_word_space_1 | run |  
 | bip_39_word_space_10 | run design mountain jar aerobic increase hover mirror large topic |  

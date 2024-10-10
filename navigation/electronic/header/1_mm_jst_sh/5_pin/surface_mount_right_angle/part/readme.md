@@ -122,6 +122,18 @@ cage
 evidence
 topic
 hunt |  
+| bip_39_word_no_space_1 | reduce |  
+| bip_39_word_no_space_10 | reducedistancebrothernobleaddictcageevidencetopichuntcustom |  
+| bip_39_word_no_space_11 | reducedistancebrothernobleaddictcageevidencetopichuntcustomprimary |  
+| bip_39_word_no_space_12 | reducedistancebrothernobleaddictcageevidencetopichuntcustomprimaryapril |  
+| bip_39_word_no_space_2 | reducedistance |  
+| bip_39_word_no_space_3 | reducedistancebrother |  
+| bip_39_word_no_space_4 | reducedistancebrothernoble |  
+| bip_39_word_no_space_5 | reducedistancebrothernobleaddict |  
+| bip_39_word_no_space_6 | reducedistancebrothernobleaddictcage |  
+| bip_39_word_no_space_7 | reducedistancebrothernobleaddictcageevidence |  
+| bip_39_word_no_space_8 | reducedistancebrothernobleaddictcageevidencetopic |  
+| bip_39_word_no_space_9 | reducedistancebrothernobleaddictcageevidencetopichunt |  
 | bip_39_word_space_0 | ['reduce', 'distance', 'brother', 'noble', 'addict', 'cage', 'evidence', 'topic', 'hunt', 'custom', 'primary', 'april'] |  
 | bip_39_word_space_1 | reduce |  
 | bip_39_word_space_10 | reduce distance brother noble addict cage evidence topic hunt custom |  

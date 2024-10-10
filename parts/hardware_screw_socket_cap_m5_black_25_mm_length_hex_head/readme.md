@@ -122,6 +122,18 @@ bus
 material
 already
 egg |  
+| bip_39_word_no_space_1 | farm |  
+| bip_39_word_no_space_10 | farmelseparadeoutputlendbusmaterialalreadyeggspike |  
+| bip_39_word_no_space_11 | farmelseparadeoutputlendbusmaterialalreadyeggspikegesture |  
+| bip_39_word_no_space_12 | farmelseparadeoutputlendbusmaterialalreadyeggspikegestureartist |  
+| bip_39_word_no_space_2 | farmelse |  
+| bip_39_word_no_space_3 | farmelseparade |  
+| bip_39_word_no_space_4 | farmelseparadeoutput |  
+| bip_39_word_no_space_5 | farmelseparadeoutputlend |  
+| bip_39_word_no_space_6 | farmelseparadeoutputlendbus |  
+| bip_39_word_no_space_7 | farmelseparadeoutputlendbusmaterial |  
+| bip_39_word_no_space_8 | farmelseparadeoutputlendbusmaterialalready |  
+| bip_39_word_no_space_9 | farmelseparadeoutputlendbusmaterialalreadyegg |  
 | bip_39_word_space_0 | ['farm', 'else', 'parade', 'output', 'lend', 'bus', 'material', 'already', 'egg', 'spike', 'gesture', 'artist'] |  
 | bip_39_word_space_1 | farm |  
 | bip_39_word_space_10 | farm else parade output lend bus material already egg spike |  

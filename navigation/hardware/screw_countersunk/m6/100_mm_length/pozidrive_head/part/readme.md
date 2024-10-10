@@ -122,6 +122,18 @@ common
 appear
 put
 skirt |  
+| bip_39_word_no_space_1 | cargo |  
+| bip_39_word_no_space_10 | cargofashionfederalskullcreekcommonappearputskirtfather |  
+| bip_39_word_no_space_11 | cargofashionfederalskullcreekcommonappearputskirtfathermixed |  
+| bip_39_word_no_space_12 | cargofashionfederalskullcreekcommonappearputskirtfathermixedamateur |  
+| bip_39_word_no_space_2 | cargofashion |  
+| bip_39_word_no_space_3 | cargofashionfederal |  
+| bip_39_word_no_space_4 | cargofashionfederalskull |  
+| bip_39_word_no_space_5 | cargofashionfederalskullcreek |  
+| bip_39_word_no_space_6 | cargofashionfederalskullcreekcommon |  
+| bip_39_word_no_space_7 | cargofashionfederalskullcreekcommonappear |  
+| bip_39_word_no_space_8 | cargofashionfederalskullcreekcommonappearput |  
+| bip_39_word_no_space_9 | cargofashionfederalskullcreekcommonappearputskirt |  
 | bip_39_word_space_0 | ['cargo', 'fashion', 'federal', 'skull', 'creek', 'common', 'appear', 'put', 'skirt', 'father', 'mixed', 'amateur'] |  
 | bip_39_word_space_1 | cargo |  
 | bip_39_word_space_10 | cargo fashion federal skull creek common appear put skirt father |  

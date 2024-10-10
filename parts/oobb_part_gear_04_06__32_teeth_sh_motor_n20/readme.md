@@ -122,6 +122,18 @@ seat
 cage
 silent
 answer |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddydangerdignityminutepermitseatcagesilentanswerdemise |  
+| bip_39_word_no_space_11 | buddydangerdignityminutepermitseatcagesilentanswerdemiseerode |  
+| bip_39_word_no_space_12 | buddydangerdignityminutepermitseatcagesilentanswerdemiseerodearrest |  
+| bip_39_word_no_space_2 | buddydanger |  
+| bip_39_word_no_space_3 | buddydangerdignity |  
+| bip_39_word_no_space_4 | buddydangerdignityminute |  
+| bip_39_word_no_space_5 | buddydangerdignityminutepermit |  
+| bip_39_word_no_space_6 | buddydangerdignityminutepermitseat |  
+| bip_39_word_no_space_7 | buddydangerdignityminutepermitseatcage |  
+| bip_39_word_no_space_8 | buddydangerdignityminutepermitseatcagesilent |  
+| bip_39_word_no_space_9 | buddydangerdignityminutepermitseatcagesilentanswer |  
 | bip_39_word_space_0 | ['buddy', 'danger', 'dignity', 'minute', 'permit', 'seat', 'cage', 'silent', 'answer', 'demise', 'erode', 'arrest'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy danger dignity minute permit seat cage silent answer demise |  

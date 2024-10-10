@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bless
   old
 
   old'
+bip_39_word_no_space_1: bless
+bip_39_word_no_space_10: blessvibrantoceantonefrownendlesstrophyoldoldgalaxy
+bip_39_word_no_space_11: blessvibrantoceantonefrownendlesstrophyoldoldgalaxycredit
+bip_39_word_no_space_12: blessvibrantoceantonefrownendlesstrophyoldoldgalaxycreditancient
+bip_39_word_no_space_2: blessvibrant
+bip_39_word_no_space_3: blessvibrantocean
+bip_39_word_no_space_4: blessvibrantoceantone
+bip_39_word_no_space_5: blessvibrantoceantonefrown
+bip_39_word_no_space_6: blessvibrantoceantonefrownendless
+bip_39_word_no_space_7: blessvibrantoceantonefrownendlesstrophy
+bip_39_word_no_space_8: blessvibrantoceantonefrownendlesstrophyold
+bip_39_word_no_space_9: blessvibrantoceantonefrownendlesstrophyoldold
 bip_39_word_space_0:
 - bless
 - vibrant

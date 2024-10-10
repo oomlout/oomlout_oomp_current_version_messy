@@ -122,6 +122,18 @@ buddy
 floor
 remind
 utility |  
+| bip_39_word_no_space_1 | museum |  
+| bip_39_word_no_space_10 | museumdragonsoontitleisolatebuddyfloorremindutilitymountain |  
+| bip_39_word_no_space_11 | museumdragonsoontitleisolatebuddyfloorremindutilitymountainuniform |  
+| bip_39_word_no_space_12 | museumdragonsoontitleisolatebuddyfloorremindutilitymountainuniformabout |  
+| bip_39_word_no_space_2 | museumdragon |  
+| bip_39_word_no_space_3 | museumdragonsoon |  
+| bip_39_word_no_space_4 | museumdragonsoontitle |  
+| bip_39_word_no_space_5 | museumdragonsoontitleisolate |  
+| bip_39_word_no_space_6 | museumdragonsoontitleisolatebuddy |  
+| bip_39_word_no_space_7 | museumdragonsoontitleisolatebuddyfloor |  
+| bip_39_word_no_space_8 | museumdragonsoontitleisolatebuddyfloorremind |  
+| bip_39_word_no_space_9 | museumdragonsoontitleisolatebuddyfloorremindutility |  
 | bip_39_word_space_0 | ['museum', 'dragon', 'soon', 'title', 'isolate', 'buddy', 'floor', 'remind', 'utility', 'mountain', 'uniform', 'about'] |  
 | bip_39_word_space_1 | museum |  
 | bip_39_word_space_10 | museum dragon soon title isolate buddy floor remind utility mountain |  

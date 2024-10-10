@@ -122,6 +122,18 @@ potato
 correct
 anger
 box |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubusefultryseminarglobepotatocorrectangerboxwreck |  
+| bip_39_word_no_space_11 | hubusefultryseminarglobepotatocorrectangerboxwreckurban |  
+| bip_39_word_no_space_12 | hubusefultryseminarglobepotatocorrectangerboxwreckurbanassault |  
+| bip_39_word_no_space_2 | hubuseful |  
+| bip_39_word_no_space_3 | hubusefultry |  
+| bip_39_word_no_space_4 | hubusefultryseminar |  
+| bip_39_word_no_space_5 | hubusefultryseminarglobe |  
+| bip_39_word_no_space_6 | hubusefultryseminarglobepotato |  
+| bip_39_word_no_space_7 | hubusefultryseminarglobepotatocorrect |  
+| bip_39_word_no_space_8 | hubusefultryseminarglobepotatocorrectanger |  
+| bip_39_word_no_space_9 | hubusefultryseminarglobepotatocorrectangerbox |  
 | bip_39_word_space_0 | ['hub', 'useful', 'try', 'seminar', 'globe', 'potato', 'correct', 'anger', 'box', 'wreck', 'urban', 'assault'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub useful try seminar globe potato correct anger box wreck |  

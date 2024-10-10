@@ -122,6 +122,18 @@ actor
 bean
 strong
 wire |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wiredepthnucleartenantbriskactorbeanstrongwiredesk |  
+| bip_39_word_no_space_11 | wiredepthnucleartenantbriskactorbeanstrongwiredesktiger |  
+| bip_39_word_no_space_12 | wiredepthnucleartenantbriskactorbeanstrongwiredesktigerabsent |  
+| bip_39_word_no_space_2 | wiredepth |  
+| bip_39_word_no_space_3 | wiredepthnuclear |  
+| bip_39_word_no_space_4 | wiredepthnucleartenant |  
+| bip_39_word_no_space_5 | wiredepthnucleartenantbrisk |  
+| bip_39_word_no_space_6 | wiredepthnucleartenantbriskactor |  
+| bip_39_word_no_space_7 | wiredepthnucleartenantbriskactorbean |  
+| bip_39_word_no_space_8 | wiredepthnucleartenantbriskactorbeanstrong |  
+| bip_39_word_no_space_9 | wiredepthnucleartenantbriskactorbeanstrongwire |  
 | bip_39_word_space_0 | ['wire', 'depth', 'nuclear', 'tenant', 'brisk', 'actor', 'bean', 'strong', 'wire', 'desk', 'tiger', 'absent'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire depth nuclear tenant brisk actor bean strong wire desk |  

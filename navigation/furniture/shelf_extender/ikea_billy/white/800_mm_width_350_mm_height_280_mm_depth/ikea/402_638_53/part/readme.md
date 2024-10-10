@@ -122,6 +122,18 @@ body
 baby
 magic
 tent |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | melthobbybarreljaguarhellobodybabymagictentready |  
+| bip_39_word_no_space_11 | melthobbybarreljaguarhellobodybabymagictentreadywant |  
+| bip_39_word_no_space_12 | melthobbybarreljaguarhellobodybabymagictentreadywantanswer |  
+| bip_39_word_no_space_2 | melthobby |  
+| bip_39_word_no_space_3 | melthobbybarrel |  
+| bip_39_word_no_space_4 | melthobbybarreljaguar |  
+| bip_39_word_no_space_5 | melthobbybarreljaguarhello |  
+| bip_39_word_no_space_6 | melthobbybarreljaguarhellobody |  
+| bip_39_word_no_space_7 | melthobbybarreljaguarhellobodybaby |  
+| bip_39_word_no_space_8 | melthobbybarreljaguarhellobodybabymagic |  
+| bip_39_word_no_space_9 | melthobbybarreljaguarhellobodybabymagictent |  
 | bip_39_word_space_0 | ['melt', 'hobby', 'barrel', 'jaguar', 'hello', 'body', 'baby', 'magic', 'tent', 'ready', 'want', 'answer'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt hobby barrel jaguar hello body baby magic tent ready |  

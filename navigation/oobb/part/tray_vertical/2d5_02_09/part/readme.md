@@ -122,6 +122,18 @@ gravity
 pill
 mirror
 ten |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospelautumnblousereopensurfacegravitypillmirrortenunfair |  
+| bip_39_word_no_space_11 | gospelautumnblousereopensurfacegravitypillmirrortenunfairsolve |  
+| bip_39_word_no_space_12 | gospelautumnblousereopensurfacegravitypillmirrortenunfairsolveagree |  
+| bip_39_word_no_space_2 | gospelautumn |  
+| bip_39_word_no_space_3 | gospelautumnblouse |  
+| bip_39_word_no_space_4 | gospelautumnblousereopen |  
+| bip_39_word_no_space_5 | gospelautumnblousereopensurface |  
+| bip_39_word_no_space_6 | gospelautumnblousereopensurfacegravity |  
+| bip_39_word_no_space_7 | gospelautumnblousereopensurfacegravitypill |  
+| bip_39_word_no_space_8 | gospelautumnblousereopensurfacegravitypillmirror |  
+| bip_39_word_no_space_9 | gospelautumnblousereopensurfacegravitypillmirrorten |  
 | bip_39_word_space_0 | ['gospel', 'autumn', 'blouse', 'reopen', 'surface', 'gravity', 'pill', 'mirror', 'ten', 'unfair', 'solve', 'agree'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel autumn blouse reopen surface gravity pill mirror ten unfair |  

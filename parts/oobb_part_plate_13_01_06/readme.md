@@ -122,6 +122,18 @@ warm
 science
 copper
 dutch |  
+| bip_39_word_no_space_1 | hill |  
+| bip_39_word_no_space_10 | hilltenantgreatrugcelerywarmsciencecopperdutchsing |  
+| bip_39_word_no_space_11 | hilltenantgreatrugcelerywarmsciencecopperdutchsingspatial |  
+| bip_39_word_no_space_12 | hilltenantgreatrugcelerywarmsciencecopperdutchsingspatialalert |  
+| bip_39_word_no_space_2 | hilltenant |  
+| bip_39_word_no_space_3 | hilltenantgreat |  
+| bip_39_word_no_space_4 | hilltenantgreatrug |  
+| bip_39_word_no_space_5 | hilltenantgreatrugcelery |  
+| bip_39_word_no_space_6 | hilltenantgreatrugcelerywarm |  
+| bip_39_word_no_space_7 | hilltenantgreatrugcelerywarmscience |  
+| bip_39_word_no_space_8 | hilltenantgreatrugcelerywarmsciencecopper |  
+| bip_39_word_no_space_9 | hilltenantgreatrugcelerywarmsciencecopperdutch |  
 | bip_39_word_space_0 | ['hill', 'tenant', 'great', 'rug', 'celery', 'warm', 'science', 'copper', 'dutch', 'sing', 'spatial', 'alert'] |  
 | bip_39_word_space_1 | hill |  
 | bip_39_word_space_10 | hill tenant great rug celery warm science copper dutch sing |  

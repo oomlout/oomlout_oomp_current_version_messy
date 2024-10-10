@@ -122,6 +122,18 @@ believe
 arena
 enrich
 private |  
+| bip_39_word_no_space_1 | arrest |  
+| bip_39_word_no_space_10 | arreststeelhalfsoundglobebelievearenaenrichprivateeducate |  
+| bip_39_word_no_space_11 | arreststeelhalfsoundglobebelievearenaenrichprivateeducatepanic |  
+| bip_39_word_no_space_12 | arreststeelhalfsoundglobebelievearenaenrichprivateeducatepanicangry |  
+| bip_39_word_no_space_2 | arreststeel |  
+| bip_39_word_no_space_3 | arreststeelhalf |  
+| bip_39_word_no_space_4 | arreststeelhalfsound |  
+| bip_39_word_no_space_5 | arreststeelhalfsoundglobe |  
+| bip_39_word_no_space_6 | arreststeelhalfsoundglobebelieve |  
+| bip_39_word_no_space_7 | arreststeelhalfsoundglobebelievearena |  
+| bip_39_word_no_space_8 | arreststeelhalfsoundglobebelievearenaenrich |  
+| bip_39_word_no_space_9 | arreststeelhalfsoundglobebelievearenaenrichprivate |  
 | bip_39_word_space_0 | ['arrest', 'steel', 'half', 'sound', 'globe', 'believe', 'arena', 'enrich', 'private', 'educate', 'panic', 'angry'] |  
 | bip_39_word_space_1 | arrest |  
 | bip_39_word_space_10 | arrest steel half sound globe believe arena enrich private educate |  

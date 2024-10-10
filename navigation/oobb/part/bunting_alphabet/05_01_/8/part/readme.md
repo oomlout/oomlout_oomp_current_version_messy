@@ -122,6 +122,18 @@ raccoon
 scatter
 property
 return |  
+| bip_39_word_no_space_1 | birth |  
+| bip_39_word_no_space_10 | birthsenseenforcequestioneightraccoonscatterpropertyreturnrecall |  
+| bip_39_word_no_space_11 | birthsenseenforcequestioneightraccoonscatterpropertyreturnrecalllumber |  
+| bip_39_word_no_space_12 | birthsenseenforcequestioneightraccoonscatterpropertyreturnrecalllumberaudit |  
+| bip_39_word_no_space_2 | birthsense |  
+| bip_39_word_no_space_3 | birthsenseenforce |  
+| bip_39_word_no_space_4 | birthsenseenforcequestion |  
+| bip_39_word_no_space_5 | birthsenseenforcequestioneight |  
+| bip_39_word_no_space_6 | birthsenseenforcequestioneightraccoon |  
+| bip_39_word_no_space_7 | birthsenseenforcequestioneightraccoonscatter |  
+| bip_39_word_no_space_8 | birthsenseenforcequestioneightraccoonscatterproperty |  
+| bip_39_word_no_space_9 | birthsenseenforcequestioneightraccoonscatterpropertyreturn |  
 | bip_39_word_space_0 | ['birth', 'sense', 'enforce', 'question', 'eight', 'raccoon', 'scatter', 'property', 'return', 'recall', 'lumber', 'audit'] |  
 | bip_39_word_space_1 | birth |  
 | bip_39_word_space_10 | birth sense enforce question eight raccoon scatter property return recall |  

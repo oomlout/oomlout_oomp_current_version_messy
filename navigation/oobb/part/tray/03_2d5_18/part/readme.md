@@ -122,6 +122,18 @@ cable
 arctic
 lemon
 laugh |  
+| bip_39_word_no_space_1 | creek |  
+| bip_39_word_no_space_10 | creekwestgraboutsideablecablearcticlemonlaughoutput |  
+| bip_39_word_no_space_11 | creekwestgraboutsideablecablearcticlemonlaughoutputexhibit |  
+| bip_39_word_no_space_12 | creekwestgraboutsideablecablearcticlemonlaughoutputexhibitarrange |  
+| bip_39_word_no_space_2 | creekwest |  
+| bip_39_word_no_space_3 | creekwestgrab |  
+| bip_39_word_no_space_4 | creekwestgraboutside |  
+| bip_39_word_no_space_5 | creekwestgraboutsideable |  
+| bip_39_word_no_space_6 | creekwestgraboutsideablecable |  
+| bip_39_word_no_space_7 | creekwestgraboutsideablecablearctic |  
+| bip_39_word_no_space_8 | creekwestgraboutsideablecablearcticlemon |  
+| bip_39_word_no_space_9 | creekwestgraboutsideablecablearcticlemonlaugh |  
 | bip_39_word_space_0 | ['creek', 'west', 'grab', 'outside', 'able', 'cable', 'arctic', 'lemon', 'laugh', 'output', 'exhibit', 'arrange'] |  
 | bip_39_word_space_1 | creek |  
 | bip_39_word_space_10 | creek west grab outside able cable arctic lemon laugh output |  

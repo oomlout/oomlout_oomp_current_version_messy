@@ -122,6 +122,18 @@ explain
 myth
 erode
 enroll |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | canbutterrejectdrawpositionexplainmytherodeenrollnetwork |  
+| bip_39_word_no_space_11 | canbutterrejectdrawpositionexplainmytherodeenrollnetworkhurry |  
+| bip_39_word_no_space_12 | canbutterrejectdrawpositionexplainmytherodeenrollnetworkhurryamazing |  
+| bip_39_word_no_space_2 | canbutter |  
+| bip_39_word_no_space_3 | canbutterreject |  
+| bip_39_word_no_space_4 | canbutterrejectdraw |  
+| bip_39_word_no_space_5 | canbutterrejectdrawposition |  
+| bip_39_word_no_space_6 | canbutterrejectdrawpositionexplain |  
+| bip_39_word_no_space_7 | canbutterrejectdrawpositionexplainmyth |  
+| bip_39_word_no_space_8 | canbutterrejectdrawpositionexplainmytherode |  
+| bip_39_word_no_space_9 | canbutterrejectdrawpositionexplainmytherodeenroll |  
 | bip_39_word_space_0 | ['can', 'butter', 'reject', 'draw', 'position', 'explain', 'myth', 'erode', 'enroll', 'network', 'hurry', 'amazing'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can butter reject draw position explain myth erode enroll network |  

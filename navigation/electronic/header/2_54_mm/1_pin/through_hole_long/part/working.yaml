@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'arrow
   wood
 
   audit'
+bip_39_word_no_space_1: arrow
+bip_39_word_no_space_10: arrowrallyquoteseaspellrunlegalwoodauditsoap
+bip_39_word_no_space_11: arrowrallyquoteseaspellrunlegalwoodauditsoapcensus
+bip_39_word_no_space_12: arrowrallyquoteseaspellrunlegalwoodauditsoapcensusacoustic
+bip_39_word_no_space_2: arrowrally
+bip_39_word_no_space_3: arrowrallyquote
+bip_39_word_no_space_4: arrowrallyquotesea
+bip_39_word_no_space_5: arrowrallyquoteseaspell
+bip_39_word_no_space_6: arrowrallyquoteseaspellrun
+bip_39_word_no_space_7: arrowrallyquoteseaspellrunlegal
+bip_39_word_no_space_8: arrowrallyquoteseaspellrunlegalwood
+bip_39_word_no_space_9: arrowrallyquoteseaspellrunlegalwoodaudit
 bip_39_word_space_0:
 - arrow
 - rally

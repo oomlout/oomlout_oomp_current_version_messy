@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'thing
   key
 
   veteran'
+bip_39_word_no_space_1: thing
+bip_39_word_no_space_10: thingritualwidthfaithfocusaisleharborkeyveterancasino
+bip_39_word_no_space_11: thingritualwidthfaithfocusaisleharborkeyveterancasinoperson
+bip_39_word_no_space_12: thingritualwidthfaithfocusaisleharborkeyveterancasinopersonassume
+bip_39_word_no_space_2: thingritual
+bip_39_word_no_space_3: thingritualwidth
+bip_39_word_no_space_4: thingritualwidthfaith
+bip_39_word_no_space_5: thingritualwidthfaithfocus
+bip_39_word_no_space_6: thingritualwidthfaithfocusaisle
+bip_39_word_no_space_7: thingritualwidthfaithfocusaisleharbor
+bip_39_word_no_space_8: thingritualwidthfaithfocusaisleharborkey
+bip_39_word_no_space_9: thingritualwidthfaithfocusaisleharborkeyveteran
 bip_39_word_space_0:
 - thing
 - ritual

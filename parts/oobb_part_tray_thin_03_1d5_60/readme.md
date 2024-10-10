@@ -122,6 +122,18 @@ relax
 define
 mutual
 impact |  
+| bip_39_word_no_space_1 | act |  
+| bip_39_word_no_space_10 | activoryboxwifebananarelaxdefinemutualimpactfragile |  
+| bip_39_word_no_space_11 | activoryboxwifebananarelaxdefinemutualimpactfragiletopic |  
+| bip_39_word_no_space_12 | activoryboxwifebananarelaxdefinemutualimpactfragiletopicable |  
+| bip_39_word_no_space_2 | activory |  
+| bip_39_word_no_space_3 | activorybox |  
+| bip_39_word_no_space_4 | activoryboxwife |  
+| bip_39_word_no_space_5 | activoryboxwifebanana |  
+| bip_39_word_no_space_6 | activoryboxwifebananarelax |  
+| bip_39_word_no_space_7 | activoryboxwifebananarelaxdefine |  
+| bip_39_word_no_space_8 | activoryboxwifebananarelaxdefinemutual |  
+| bip_39_word_no_space_9 | activoryboxwifebananarelaxdefinemutualimpact |  
 | bip_39_word_space_0 | ['act', 'ivory', 'box', 'wife', 'banana', 'relax', 'define', 'mutual', 'impact', 'fragile', 'topic', 'able'] |  
 | bip_39_word_space_1 | act |  
 | bip_39_word_space_10 | act ivory box wife banana relax define mutual impact fragile |  

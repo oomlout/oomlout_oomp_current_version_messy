@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'milk
   oxygen
 
   found'
+bip_39_word_no_space_1: milk
+bip_39_word_no_space_10: milkcerealwantfewsocialpioneeralsooxygenfoundreduce
+bip_39_word_no_space_11: milkcerealwantfewsocialpioneeralsooxygenfoundreducesniff
+bip_39_word_no_space_12: milkcerealwantfewsocialpioneeralsooxygenfoundreducesniffabove
+bip_39_word_no_space_2: milkcereal
+bip_39_word_no_space_3: milkcerealwant
+bip_39_word_no_space_4: milkcerealwantfew
+bip_39_word_no_space_5: milkcerealwantfewsocial
+bip_39_word_no_space_6: milkcerealwantfewsocialpioneer
+bip_39_word_no_space_7: milkcerealwantfewsocialpioneeralso
+bip_39_word_no_space_8: milkcerealwantfewsocialpioneeralsooxygen
+bip_39_word_no_space_9: milkcerealwantfewsocialpioneeralsooxygenfound
 bip_39_word_space_0:
 - milk
 - cereal

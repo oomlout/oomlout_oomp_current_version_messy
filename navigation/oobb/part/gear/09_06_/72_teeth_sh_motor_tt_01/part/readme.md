@@ -122,6 +122,18 @@ ignore
 slow
 wine
 carry |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | canclusterbenefitsoftarenaignoreslowwinecarryinherit |  
+| bip_39_word_no_space_11 | canclusterbenefitsoftarenaignoreslowwinecarryinheritdad |  
+| bip_39_word_no_space_12 | canclusterbenefitsoftarenaignoreslowwinecarryinheritdadartwork |  
+| bip_39_word_no_space_2 | cancluster |  
+| bip_39_word_no_space_3 | canclusterbenefit |  
+| bip_39_word_no_space_4 | canclusterbenefitsoft |  
+| bip_39_word_no_space_5 | canclusterbenefitsoftarena |  
+| bip_39_word_no_space_6 | canclusterbenefitsoftarenaignore |  
+| bip_39_word_no_space_7 | canclusterbenefitsoftarenaignoreslow |  
+| bip_39_word_no_space_8 | canclusterbenefitsoftarenaignoreslowwine |  
+| bip_39_word_no_space_9 | canclusterbenefitsoftarenaignoreslowwinecarry |  
 | bip_39_word_space_0 | ['can', 'cluster', 'benefit', 'soft', 'arena', 'ignore', 'slow', 'wine', 'carry', 'inherit', 'dad', 'artwork'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can cluster benefit soft arena ignore slow wine carry inherit |  

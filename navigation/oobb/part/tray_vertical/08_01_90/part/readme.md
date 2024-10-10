@@ -122,6 +122,18 @@ round
 can
 magnet
 clump |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiquetryindicateeastaffairroundcanmagnetclumpfind |  
+| bip_39_word_no_space_11 | antiquetryindicateeastaffairroundcanmagnetclumpfindalcohol |  
+| bip_39_word_no_space_12 | antiquetryindicateeastaffairroundcanmagnetclumpfindalcoholanalyst |  
+| bip_39_word_no_space_2 | antiquetry |  
+| bip_39_word_no_space_3 | antiquetryindicate |  
+| bip_39_word_no_space_4 | antiquetryindicateeast |  
+| bip_39_word_no_space_5 | antiquetryindicateeastaffair |  
+| bip_39_word_no_space_6 | antiquetryindicateeastaffairround |  
+| bip_39_word_no_space_7 | antiquetryindicateeastaffairroundcan |  
+| bip_39_word_no_space_8 | antiquetryindicateeastaffairroundcanmagnet |  
+| bip_39_word_no_space_9 | antiquetryindicateeastaffairroundcanmagnetclump |  
 | bip_39_word_space_0 | ['antique', 'try', 'indicate', 'east', 'affair', 'round', 'can', 'magnet', 'clump', 'find', 'alcohol', 'analyst'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique try indicate east affair round can magnet clump find |  

@@ -122,6 +122,18 @@ foster
 remove
 curious
 icon |  
+| bip_39_word_no_space_1 | debris |  
+| bip_39_word_no_space_10 | debrisclapcageremindfishfosterremovecuriousiconstock |  
+| bip_39_word_no_space_11 | debrisclapcageremindfishfosterremovecuriousiconstockstamp |  
+| bip_39_word_no_space_12 | debrisclapcageremindfishfosterremovecuriousiconstockstampabove |  
+| bip_39_word_no_space_2 | debrisclap |  
+| bip_39_word_no_space_3 | debrisclapcage |  
+| bip_39_word_no_space_4 | debrisclapcageremind |  
+| bip_39_word_no_space_5 | debrisclapcageremindfish |  
+| bip_39_word_no_space_6 | debrisclapcageremindfishfoster |  
+| bip_39_word_no_space_7 | debrisclapcageremindfishfosterremove |  
+| bip_39_word_no_space_8 | debrisclapcageremindfishfosterremovecurious |  
+| bip_39_word_no_space_9 | debrisclapcageremindfishfosterremovecuriousicon |  
 | bip_39_word_space_0 | ['debris', 'clap', 'cage', 'remind', 'fish', 'foster', 'remove', 'curious', 'icon', 'stock', 'stamp', 'above'] |  
 | bip_39_word_space_1 | debris |  
 | bip_39_word_space_10 | debris clap cage remind fish foster remove curious icon stock |  

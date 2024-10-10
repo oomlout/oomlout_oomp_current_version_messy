@@ -122,6 +122,18 @@ cake
 nuclear
 adult
 lobster |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displayplanetviolinblindsymbolcakenuclearadultlobsterbalcony |  
+| bip_39_word_no_space_11 | displayplanetviolinblindsymbolcakenuclearadultlobsterbalconyaisle |  
+| bip_39_word_no_space_12 | displayplanetviolinblindsymbolcakenuclearadultlobsterbalconyaislealmost |  
+| bip_39_word_no_space_2 | displayplanet |  
+| bip_39_word_no_space_3 | displayplanetviolin |  
+| bip_39_word_no_space_4 | displayplanetviolinblind |  
+| bip_39_word_no_space_5 | displayplanetviolinblindsymbol |  
+| bip_39_word_no_space_6 | displayplanetviolinblindsymbolcake |  
+| bip_39_word_no_space_7 | displayplanetviolinblindsymbolcakenuclear |  
+| bip_39_word_no_space_8 | displayplanetviolinblindsymbolcakenuclearadult |  
+| bip_39_word_no_space_9 | displayplanetviolinblindsymbolcakenuclearadultlobster |  
 | bip_39_word_space_0 | ['display', 'planet', 'violin', 'blind', 'symbol', 'cake', 'nuclear', 'adult', 'lobster', 'balcony', 'aisle', 'almost'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display planet violin blind symbol cake nuclear adult lobster balcony |  

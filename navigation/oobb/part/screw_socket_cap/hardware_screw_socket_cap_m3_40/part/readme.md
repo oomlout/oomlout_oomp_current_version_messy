@@ -122,6 +122,18 @@ focus
 flower
 finish
 twice |  
+| bip_39_word_no_space_1 | oven |  
+| bip_39_word_no_space_10 | ovenabandonsquaretripshiftfocusflowerfinishtwicewagon |  
+| bip_39_word_no_space_11 | ovenabandonsquaretripshiftfocusflowerfinishtwicewagonhammer |  
+| bip_39_word_no_space_12 | ovenabandonsquaretripshiftfocusflowerfinishtwicewagonhammerapprove |  
+| bip_39_word_no_space_2 | ovenabandon |  
+| bip_39_word_no_space_3 | ovenabandonsquare |  
+| bip_39_word_no_space_4 | ovenabandonsquaretrip |  
+| bip_39_word_no_space_5 | ovenabandonsquaretripshift |  
+| bip_39_word_no_space_6 | ovenabandonsquaretripshiftfocus |  
+| bip_39_word_no_space_7 | ovenabandonsquaretripshiftfocusflower |  
+| bip_39_word_no_space_8 | ovenabandonsquaretripshiftfocusflowerfinish |  
+| bip_39_word_no_space_9 | ovenabandonsquaretripshiftfocusflowerfinishtwice |  
 | bip_39_word_space_0 | ['oven', 'abandon', 'square', 'trip', 'shift', 'focus', 'flower', 'finish', 'twice', 'wagon', 'hammer', 'approve'] |  
 | bip_39_word_space_1 | oven |  
 | bip_39_word_space_10 | oven abandon square trip shift focus flower finish twice wagon |  

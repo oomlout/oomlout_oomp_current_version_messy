@@ -122,6 +122,18 @@ kiss
 session
 limb
 cube |  
+| bip_39_word_no_space_1 | limb |  
+| bip_39_word_no_space_10 | limbsuccesscolumngoodoptionkisssessionlimbcubedebate |  
+| bip_39_word_no_space_11 | limbsuccesscolumngoodoptionkisssessionlimbcubedebatefurnace |  
+| bip_39_word_no_space_12 | limbsuccesscolumngoodoptionkisssessionlimbcubedebatefurnaceable |  
+| bip_39_word_no_space_2 | limbsuccess |  
+| bip_39_word_no_space_3 | limbsuccesscolumn |  
+| bip_39_word_no_space_4 | limbsuccesscolumngood |  
+| bip_39_word_no_space_5 | limbsuccesscolumngoodoption |  
+| bip_39_word_no_space_6 | limbsuccesscolumngoodoptionkiss |  
+| bip_39_word_no_space_7 | limbsuccesscolumngoodoptionkisssession |  
+| bip_39_word_no_space_8 | limbsuccesscolumngoodoptionkisssessionlimb |  
+| bip_39_word_no_space_9 | limbsuccesscolumngoodoptionkisssessionlimbcube |  
 | bip_39_word_space_0 | ['limb', 'success', 'column', 'good', 'option', 'kiss', 'session', 'limb', 'cube', 'debate', 'furnace', 'able'] |  
 | bip_39_word_space_1 | limb |  
 | bip_39_word_space_10 | limb success column good option kiss session limb cube debate |  

@@ -122,6 +122,18 @@ hammer
 explain
 report
 educate |  
+| bip_39_word_no_space_1 | pupil |  
+| bip_39_word_no_space_10 | pupilcabbageupgradetinyhybridhammerexplainreporteducatebulb |  
+| bip_39_word_no_space_11 | pupilcabbageupgradetinyhybridhammerexplainreporteducatebulbemotion |  
+| bip_39_word_no_space_12 | pupilcabbageupgradetinyhybridhammerexplainreporteducatebulbemotionalways |  
+| bip_39_word_no_space_2 | pupilcabbage |  
+| bip_39_word_no_space_3 | pupilcabbageupgrade |  
+| bip_39_word_no_space_4 | pupilcabbageupgradetiny |  
+| bip_39_word_no_space_5 | pupilcabbageupgradetinyhybrid |  
+| bip_39_word_no_space_6 | pupilcabbageupgradetinyhybridhammer |  
+| bip_39_word_no_space_7 | pupilcabbageupgradetinyhybridhammerexplain |  
+| bip_39_word_no_space_8 | pupilcabbageupgradetinyhybridhammerexplainreport |  
+| bip_39_word_no_space_9 | pupilcabbageupgradetinyhybridhammerexplainreporteducate |  
 | bip_39_word_space_0 | ['pupil', 'cabbage', 'upgrade', 'tiny', 'hybrid', 'hammer', 'explain', 'report', 'educate', 'bulb', 'emotion', 'always'] |  
 | bip_39_word_space_1 | pupil |  
 | bip_39_word_space_10 | pupil cabbage upgrade tiny hybrid hammer explain report educate bulb |  

@@ -122,6 +122,18 @@ dog
 during
 tumble
 render |  
+| bip_39_word_no_space_1 | choice |  
+| bip_39_word_no_space_10 | choiceparentmechanicstablerepairdogduringtumblerenderduck |  
+| bip_39_word_no_space_11 | choiceparentmechanicstablerepairdogduringtumblerenderduckdelay |  
+| bip_39_word_no_space_12 | choiceparentmechanicstablerepairdogduringtumblerenderduckdelayamount |  
+| bip_39_word_no_space_2 | choiceparent |  
+| bip_39_word_no_space_3 | choiceparentmechanic |  
+| bip_39_word_no_space_4 | choiceparentmechanicstable |  
+| bip_39_word_no_space_5 | choiceparentmechanicstablerepair |  
+| bip_39_word_no_space_6 | choiceparentmechanicstablerepairdog |  
+| bip_39_word_no_space_7 | choiceparentmechanicstablerepairdogduring |  
+| bip_39_word_no_space_8 | choiceparentmechanicstablerepairdogduringtumble |  
+| bip_39_word_no_space_9 | choiceparentmechanicstablerepairdogduringtumblerender |  
 | bip_39_word_space_0 | ['choice', 'parent', 'mechanic', 'stable', 'repair', 'dog', 'during', 'tumble', 'render', 'duck', 'delay', 'amount'] |  
 | bip_39_word_space_1 | choice |  
 | bip_39_word_space_10 | choice parent mechanic stable repair dog during tumble render duck |  

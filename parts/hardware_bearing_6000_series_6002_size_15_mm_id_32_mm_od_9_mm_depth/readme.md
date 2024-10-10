@@ -122,6 +122,18 @@ canyon
 tilt
 title
 walk |  
+| bip_39_word_no_space_1 | glory |  
+| bip_39_word_no_space_10 | glorytowardstockenginemusclecanyontilttitlewalkcomic |  
+| bip_39_word_no_space_11 | glorytowardstockenginemusclecanyontilttitlewalkcomicoriginal |  
+| bip_39_word_no_space_12 | glorytowardstockenginemusclecanyontilttitlewalkcomicoriginaladdress |  
+| bip_39_word_no_space_2 | glorytoward |  
+| bip_39_word_no_space_3 | glorytowardstock |  
+| bip_39_word_no_space_4 | glorytowardstockengine |  
+| bip_39_word_no_space_5 | glorytowardstockenginemuscle |  
+| bip_39_word_no_space_6 | glorytowardstockenginemusclecanyon |  
+| bip_39_word_no_space_7 | glorytowardstockenginemusclecanyontilt |  
+| bip_39_word_no_space_8 | glorytowardstockenginemusclecanyontilttitle |  
+| bip_39_word_no_space_9 | glorytowardstockenginemusclecanyontilttitlewalk |  
 | bip_39_word_space_0 | ['glory', 'toward', 'stock', 'engine', 'muscle', 'canyon', 'tilt', 'title', 'walk', 'comic', 'original', 'address'] |  
 | bip_39_word_space_1 | glory |  
 | bip_39_word_space_10 | glory toward stock engine muscle canyon tilt title walk comic |  

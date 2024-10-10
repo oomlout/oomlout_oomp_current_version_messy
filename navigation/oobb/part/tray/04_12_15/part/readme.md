@@ -122,6 +122,18 @@ art
 eyebrow
 fault
 visa |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | arealovesuddencrashwallarteyebrowfaultvisasell |  
+| bip_39_word_no_space_11 | arealovesuddencrashwallarteyebrowfaultvisasellsurvey |  
+| bip_39_word_no_space_12 | arealovesuddencrashwallarteyebrowfaultvisasellsurveyarrive |  
+| bip_39_word_no_space_2 | arealove |  
+| bip_39_word_no_space_3 | arealovesudden |  
+| bip_39_word_no_space_4 | arealovesuddencrash |  
+| bip_39_word_no_space_5 | arealovesuddencrashwall |  
+| bip_39_word_no_space_6 | arealovesuddencrashwallart |  
+| bip_39_word_no_space_7 | arealovesuddencrashwallarteyebrow |  
+| bip_39_word_no_space_8 | arealovesuddencrashwallarteyebrowfault |  
+| bip_39_word_no_space_9 | arealovesuddencrashwallarteyebrowfaultvisa |  
 | bip_39_word_space_0 | ['area', 'love', 'sudden', 'crash', 'wall', 'art', 'eyebrow', 'fault', 'visa', 'sell', 'survey', 'arrive'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area love sudden crash wall art eyebrow fault visa sell |  

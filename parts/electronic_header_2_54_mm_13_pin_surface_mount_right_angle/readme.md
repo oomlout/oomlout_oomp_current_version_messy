@@ -122,6 +122,18 @@ pull
 away
 baby
 head |  
+| bip_39_word_no_space_1 | maze |  
+| bip_39_word_no_space_10 | mazeenableaverageabuseanklepullawaybabyheadswing |  
+| bip_39_word_no_space_11 | mazeenableaverageabuseanklepullawaybabyheadswingspend |  
+| bip_39_word_no_space_12 | mazeenableaverageabuseanklepullawaybabyheadswingspendaisle |  
+| bip_39_word_no_space_2 | mazeenable |  
+| bip_39_word_no_space_3 | mazeenableaverage |  
+| bip_39_word_no_space_4 | mazeenableaverageabuse |  
+| bip_39_word_no_space_5 | mazeenableaverageabuseankle |  
+| bip_39_word_no_space_6 | mazeenableaverageabuseanklepull |  
+| bip_39_word_no_space_7 | mazeenableaverageabuseanklepullaway |  
+| bip_39_word_no_space_8 | mazeenableaverageabuseanklepullawaybaby |  
+| bip_39_word_no_space_9 | mazeenableaverageabuseanklepullawaybabyhead |  
 | bip_39_word_space_0 | ['maze', 'enable', 'average', 'abuse', 'ankle', 'pull', 'away', 'baby', 'head', 'swing', 'spend', 'aisle'] |  
 | bip_39_word_space_1 | maze |  
 | bip_39_word_space_10 | maze enable average abuse ankle pull away baby head swing |  

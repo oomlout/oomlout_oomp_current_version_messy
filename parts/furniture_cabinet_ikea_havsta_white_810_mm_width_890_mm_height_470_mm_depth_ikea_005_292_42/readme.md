@@ -123,6 +123,18 @@ rebuild
 wisdom
 extend
 report |  
+| bip_39_word_no_space_1 | virus |  
+| bip_39_word_no_space_10 | virusvictoryfruitoffboringrebuildwisdomextendreportphysical |  
+| bip_39_word_no_space_11 | virusvictoryfruitoffboringrebuildwisdomextendreportphysicalstreet |  
+| bip_39_word_no_space_12 | virusvictoryfruitoffboringrebuildwisdomextendreportphysicalstreetasset |  
+| bip_39_word_no_space_2 | virusvictory |  
+| bip_39_word_no_space_3 | virusvictoryfruit |  
+| bip_39_word_no_space_4 | virusvictoryfruitoff |  
+| bip_39_word_no_space_5 | virusvictoryfruitoffboring |  
+| bip_39_word_no_space_6 | virusvictoryfruitoffboringrebuild |  
+| bip_39_word_no_space_7 | virusvictoryfruitoffboringrebuildwisdom |  
+| bip_39_word_no_space_8 | virusvictoryfruitoffboringrebuildwisdomextend |  
+| bip_39_word_no_space_9 | virusvictoryfruitoffboringrebuildwisdomextendreport |  
 | bip_39_word_space_0 | ['virus', 'victory', 'fruit', 'off', 'boring', 'rebuild', 'wisdom', 'extend', 'report', 'physical', 'street', 'asset'] |  
 | bip_39_word_space_1 | virus |  
 | bip_39_word_space_10 | virus victory fruit off boring rebuild wisdom extend report physical |  

@@ -122,6 +122,18 @@ jar
 pink
 rich
 joke |  
+| bip_39_word_no_space_1 | vague |  
+| bip_39_word_no_space_10 | vagueglobefrogtrialthreejarpinkrichjokefew |  
+| bip_39_word_no_space_11 | vagueglobefrogtrialthreejarpinkrichjokefewarmed |  
+| bip_39_word_no_space_12 | vagueglobefrogtrialthreejarpinkrichjokefewarmedalso |  
+| bip_39_word_no_space_2 | vagueglobe |  
+| bip_39_word_no_space_3 | vagueglobefrog |  
+| bip_39_word_no_space_4 | vagueglobefrogtrial |  
+| bip_39_word_no_space_5 | vagueglobefrogtrialthree |  
+| bip_39_word_no_space_6 | vagueglobefrogtrialthreejar |  
+| bip_39_word_no_space_7 | vagueglobefrogtrialthreejarpink |  
+| bip_39_word_no_space_8 | vagueglobefrogtrialthreejarpinkrich |  
+| bip_39_word_no_space_9 | vagueglobefrogtrialthreejarpinkrichjoke |  
 | bip_39_word_space_0 | ['vague', 'globe', 'frog', 'trial', 'three', 'jar', 'pink', 'rich', 'joke', 'few', 'armed', 'also'] |  
 | bip_39_word_space_1 | vague |  
 | bip_39_word_space_10 | vague globe frog trial three jar pink rich joke few |  

@@ -122,6 +122,18 @@ chronic
 rebel
 fever
 electric |  
+| bip_39_word_no_space_1 | orbit |  
+| bip_39_word_no_space_10 | orbitsurveytrashgovernfencechronicrebelfeverelectricconnect |  
+| bip_39_word_no_space_11 | orbitsurveytrashgovernfencechronicrebelfeverelectricconnectabout |  
+| bip_39_word_no_space_12 | orbitsurveytrashgovernfencechronicrebelfeverelectricconnectaboutaerobic |  
+| bip_39_word_no_space_2 | orbitsurvey |  
+| bip_39_word_no_space_3 | orbitsurveytrash |  
+| bip_39_word_no_space_4 | orbitsurveytrashgovern |  
+| bip_39_word_no_space_5 | orbitsurveytrashgovernfence |  
+| bip_39_word_no_space_6 | orbitsurveytrashgovernfencechronic |  
+| bip_39_word_no_space_7 | orbitsurveytrashgovernfencechronicrebel |  
+| bip_39_word_no_space_8 | orbitsurveytrashgovernfencechronicrebelfever |  
+| bip_39_word_no_space_9 | orbitsurveytrashgovernfencechronicrebelfeverelectric |  
 | bip_39_word_space_0 | ['orbit', 'survey', 'trash', 'govern', 'fence', 'chronic', 'rebel', 'fever', 'electric', 'connect', 'about', 'aerobic'] |  
 | bip_39_word_space_1 | orbit |  
 | bip_39_word_space_10 | orbit survey trash govern fence chronic rebel fever electric connect |  

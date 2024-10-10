@@ -122,6 +122,18 @@ awesome
 oval
 ramp
 best |  
+| bip_39_word_no_space_1 | sadness |  
+| bip_39_word_no_space_10 | sadnessawaregoldreveallongawesomeovalrampbesttissue |  
+| bip_39_word_no_space_11 | sadnessawaregoldreveallongawesomeovalrampbesttissuemechanic |  
+| bip_39_word_no_space_12 | sadnessawaregoldreveallongawesomeovalrampbesttissuemechanicanchor |  
+| bip_39_word_no_space_2 | sadnessaware |  
+| bip_39_word_no_space_3 | sadnessawaregold |  
+| bip_39_word_no_space_4 | sadnessawaregoldreveal |  
+| bip_39_word_no_space_5 | sadnessawaregoldreveallong |  
+| bip_39_word_no_space_6 | sadnessawaregoldreveallongawesome |  
+| bip_39_word_no_space_7 | sadnessawaregoldreveallongawesomeoval |  
+| bip_39_word_no_space_8 | sadnessawaregoldreveallongawesomeovalramp |  
+| bip_39_word_no_space_9 | sadnessawaregoldreveallongawesomeovalrampbest |  
 | bip_39_word_space_0 | ['sadness', 'aware', 'gold', 'reveal', 'long', 'awesome', 'oval', 'ramp', 'best', 'tissue', 'mechanic', 'anchor'] |  
 | bip_39_word_space_1 | sadness |  
 | bip_39_word_space_10 | sadness aware gold reveal long awesome oval ramp best tissue |  

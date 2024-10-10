@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'banner
   pear
 
   antenna'
+bip_39_word_no_space_1: banner
+bip_39_word_no_space_10: bannerpolarkneeflightmaidrhythmdolphinpearantennahorn
+bip_39_word_no_space_11: bannerpolarkneeflightmaidrhythmdolphinpearantennahornlobster
+bip_39_word_no_space_12: bannerpolarkneeflightmaidrhythmdolphinpearantennahornlobsterankle
+bip_39_word_no_space_2: bannerpolar
+bip_39_word_no_space_3: bannerpolarknee
+bip_39_word_no_space_4: bannerpolarkneeflight
+bip_39_word_no_space_5: bannerpolarkneeflightmaid
+bip_39_word_no_space_6: bannerpolarkneeflightmaidrhythm
+bip_39_word_no_space_7: bannerpolarkneeflightmaidrhythmdolphin
+bip_39_word_no_space_8: bannerpolarkneeflightmaidrhythmdolphinpear
+bip_39_word_no_space_9: bannerpolarkneeflightmaidrhythmdolphinpearantenna
 bip_39_word_space_0:
 - banner
 - polar

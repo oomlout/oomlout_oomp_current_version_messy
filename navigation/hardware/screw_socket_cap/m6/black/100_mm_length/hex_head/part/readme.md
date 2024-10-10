@@ -122,6 +122,18 @@ humble
 leisure
 smooth
 prison |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | nicedilemmadrillpilotbirthhumbleleisuresmoothprisonbetter |  
+| bip_39_word_no_space_11 | nicedilemmadrillpilotbirthhumbleleisuresmoothprisonbettercash |  
+| bip_39_word_no_space_12 | nicedilemmadrillpilotbirthhumbleleisuresmoothprisonbettercashairport |  
+| bip_39_word_no_space_2 | nicedilemma |  
+| bip_39_word_no_space_3 | nicedilemmadrill |  
+| bip_39_word_no_space_4 | nicedilemmadrillpilot |  
+| bip_39_word_no_space_5 | nicedilemmadrillpilotbirth |  
+| bip_39_word_no_space_6 | nicedilemmadrillpilotbirthhumble |  
+| bip_39_word_no_space_7 | nicedilemmadrillpilotbirthhumbleleisure |  
+| bip_39_word_no_space_8 | nicedilemmadrillpilotbirthhumbleleisuresmooth |  
+| bip_39_word_no_space_9 | nicedilemmadrillpilotbirthhumbleleisuresmoothprison |  
 | bip_39_word_space_0 | ['nice', 'dilemma', 'drill', 'pilot', 'birth', 'humble', 'leisure', 'smooth', 'prison', 'better', 'cash', 'airport'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice dilemma drill pilot birth humble leisure smooth prison better |  

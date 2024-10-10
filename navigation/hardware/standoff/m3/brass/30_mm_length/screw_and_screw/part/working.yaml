@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'devote
   lottery
 
   demise'
+bip_39_word_no_space_1: devote
+bip_39_word_no_space_10: devoteotheroncecrytinyeasywaitlotterydemiseneither
+bip_39_word_no_space_11: devoteotheroncecrytinyeasywaitlotterydemiseneithertruck
+bip_39_word_no_space_12: devoteotheroncecrytinyeasywaitlotterydemiseneithertruckall
+bip_39_word_no_space_2: devoteother
+bip_39_word_no_space_3: devoteotheronce
+bip_39_word_no_space_4: devoteotheroncecry
+bip_39_word_no_space_5: devoteotheroncecrytiny
+bip_39_word_no_space_6: devoteotheroncecrytinyeasy
+bip_39_word_no_space_7: devoteotheroncecrytinyeasywait
+bip_39_word_no_space_8: devoteotheroncecrytinyeasywaitlottery
+bip_39_word_no_space_9: devoteotheroncecrytinyeasywaitlotterydemise
 bip_39_word_space_0:
 - devote
 - other

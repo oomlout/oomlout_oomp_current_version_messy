@@ -122,6 +122,18 @@ nature
 cause
 mail
 any |  
+| bip_39_word_no_space_1 | barely |  
+| bip_39_word_no_space_10 | barelysupremesignanalystadaptnaturecausemailanybest |  
+| bip_39_word_no_space_11 | barelysupremesignanalystadaptnaturecausemailanybestdeputy |  
+| bip_39_word_no_space_12 | barelysupremesignanalystadaptnaturecausemailanybestdeputyaccount |  
+| bip_39_word_no_space_2 | barelysupreme |  
+| bip_39_word_no_space_3 | barelysupremesign |  
+| bip_39_word_no_space_4 | barelysupremesignanalyst |  
+| bip_39_word_no_space_5 | barelysupremesignanalystadapt |  
+| bip_39_word_no_space_6 | barelysupremesignanalystadaptnature |  
+| bip_39_word_no_space_7 | barelysupremesignanalystadaptnaturecause |  
+| bip_39_word_no_space_8 | barelysupremesignanalystadaptnaturecausemail |  
+| bip_39_word_no_space_9 | barelysupremesignanalystadaptnaturecausemailany |  
 | bip_39_word_space_0 | ['barely', 'supreme', 'sign', 'analyst', 'adapt', 'nature', 'cause', 'mail', 'any', 'best', 'deputy', 'account'] |  
 | bip_39_word_space_1 | barely |  
 | bip_39_word_space_10 | barely supreme sign analyst adapt nature cause mail any best |  

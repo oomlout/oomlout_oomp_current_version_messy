@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'laugh
   spice
 
   second'
+bip_39_word_no_space_1: laugh
+bip_39_word_no_space_10: laughtuitionrubberwasptaskunveilicespicesecondmemory
+bip_39_word_no_space_11: laughtuitionrubberwasptaskunveilicespicesecondmemorysplit
+bip_39_word_no_space_12: laughtuitionrubberwasptaskunveilicespicesecondmemorysplitanalyst
+bip_39_word_no_space_2: laughtuition
+bip_39_word_no_space_3: laughtuitionrubber
+bip_39_word_no_space_4: laughtuitionrubberwasp
+bip_39_word_no_space_5: laughtuitionrubberwasptask
+bip_39_word_no_space_6: laughtuitionrubberwasptaskunveil
+bip_39_word_no_space_7: laughtuitionrubberwasptaskunveilice
+bip_39_word_no_space_8: laughtuitionrubberwasptaskunveilicespice
+bip_39_word_no_space_9: laughtuitionrubberwasptaskunveilicespicesecond
 bip_39_word_space_0:
 - laugh
 - tuition

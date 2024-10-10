@@ -122,6 +122,18 @@ talk
 protect
 now
 tool |  
+| bip_39_word_no_space_1 | mansion |  
+| bip_39_word_no_space_10 | mansionpumpkintenantsignbustalkprotectnowtooltrack |  
+| bip_39_word_no_space_11 | mansionpumpkintenantsignbustalkprotectnowtooltrackroad |  
+| bip_39_word_no_space_12 | mansionpumpkintenantsignbustalkprotectnowtooltrackroadaffair |  
+| bip_39_word_no_space_2 | mansionpumpkin |  
+| bip_39_word_no_space_3 | mansionpumpkintenant |  
+| bip_39_word_no_space_4 | mansionpumpkintenantsign |  
+| bip_39_word_no_space_5 | mansionpumpkintenantsignbus |  
+| bip_39_word_no_space_6 | mansionpumpkintenantsignbustalk |  
+| bip_39_word_no_space_7 | mansionpumpkintenantsignbustalkprotect |  
+| bip_39_word_no_space_8 | mansionpumpkintenantsignbustalkprotectnow |  
+| bip_39_word_no_space_9 | mansionpumpkintenantsignbustalkprotectnowtool |  
 | bip_39_word_space_0 | ['mansion', 'pumpkin', 'tenant', 'sign', 'bus', 'talk', 'protect', 'now', 'tool', 'track', 'road', 'affair'] |  
 | bip_39_word_space_1 | mansion |  
 | bip_39_word_space_10 | mansion pumpkin tenant sign bus talk protect now tool track |  

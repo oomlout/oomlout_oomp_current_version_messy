@@ -122,6 +122,18 @@ answer
 call
 crane
 moon |  
+| bip_39_word_no_space_1 | mind |  
+| bip_39_word_no_space_10 | mindrainvoicestagebaseanswercallcranemoonillness |  
+| bip_39_word_no_space_11 | mindrainvoicestagebaseanswercallcranemoonillnesshurt |  
+| bip_39_word_no_space_12 | mindrainvoicestagebaseanswercallcranemoonillnesshurtagain |  
+| bip_39_word_no_space_2 | mindrain |  
+| bip_39_word_no_space_3 | mindrainvoice |  
+| bip_39_word_no_space_4 | mindrainvoicestage |  
+| bip_39_word_no_space_5 | mindrainvoicestagebase |  
+| bip_39_word_no_space_6 | mindrainvoicestagebaseanswer |  
+| bip_39_word_no_space_7 | mindrainvoicestagebaseanswercall |  
+| bip_39_word_no_space_8 | mindrainvoicestagebaseanswercallcrane |  
+| bip_39_word_no_space_9 | mindrainvoicestagebaseanswercallcranemoon |  
 | bip_39_word_space_0 | ['mind', 'rain', 'voice', 'stage', 'base', 'answer', 'call', 'crane', 'moon', 'illness', 'hurt', 'again'] |  
 | bip_39_word_space_1 | mind |  
 | bip_39_word_space_10 | mind rain voice stage base answer call crane moon illness |  

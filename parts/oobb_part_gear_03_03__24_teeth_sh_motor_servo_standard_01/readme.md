@@ -122,6 +122,18 @@ act
 mimic
 coconut
 raven |  
+| bip_39_word_no_space_1 | law |  
+| bip_39_word_no_space_10 | lawnephewhockeyleisurenastyactmimiccoconutravenpumpkin |  
+| bip_39_word_no_space_11 | lawnephewhockeyleisurenastyactmimiccoconutravenpumpkinsituate |  
+| bip_39_word_no_space_12 | lawnephewhockeyleisurenastyactmimiccoconutravenpumpkinsituatearound |  
+| bip_39_word_no_space_2 | lawnephew |  
+| bip_39_word_no_space_3 | lawnephewhockey |  
+| bip_39_word_no_space_4 | lawnephewhockeyleisure |  
+| bip_39_word_no_space_5 | lawnephewhockeyleisurenasty |  
+| bip_39_word_no_space_6 | lawnephewhockeyleisurenastyact |  
+| bip_39_word_no_space_7 | lawnephewhockeyleisurenastyactmimic |  
+| bip_39_word_no_space_8 | lawnephewhockeyleisurenastyactmimiccoconut |  
+| bip_39_word_no_space_9 | lawnephewhockeyleisurenastyactmimiccoconutraven |  
 | bip_39_word_space_0 | ['law', 'nephew', 'hockey', 'leisure', 'nasty', 'act', 'mimic', 'coconut', 'raven', 'pumpkin', 'situate', 'around'] |  
 | bip_39_word_space_1 | law |  
 | bip_39_word_space_10 | law nephew hockey leisure nasty act mimic coconut raven pumpkin |  

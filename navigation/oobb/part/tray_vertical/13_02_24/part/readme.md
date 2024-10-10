@@ -122,6 +122,18 @@ kit
 broken
 attitude
 want |  
+| bip_39_word_no_space_1 | gate |  
+| bip_39_word_no_space_10 | gateerosionbetterdietfrostkitbrokenattitudewantconnect |  
+| bip_39_word_no_space_11 | gateerosionbetterdietfrostkitbrokenattitudewantconnectnephew |  
+| bip_39_word_no_space_12 | gateerosionbetterdietfrostkitbrokenattitudewantconnectnephewantique |  
+| bip_39_word_no_space_2 | gateerosion |  
+| bip_39_word_no_space_3 | gateerosionbetter |  
+| bip_39_word_no_space_4 | gateerosionbetterdiet |  
+| bip_39_word_no_space_5 | gateerosionbetterdietfrost |  
+| bip_39_word_no_space_6 | gateerosionbetterdietfrostkit |  
+| bip_39_word_no_space_7 | gateerosionbetterdietfrostkitbroken |  
+| bip_39_word_no_space_8 | gateerosionbetterdietfrostkitbrokenattitude |  
+| bip_39_word_no_space_9 | gateerosionbetterdietfrostkitbrokenattitudewant |  
 | bip_39_word_space_0 | ['gate', 'erosion', 'better', 'diet', 'frost', 'kit', 'broken', 'attitude', 'want', 'connect', 'nephew', 'antique'] |  
 | bip_39_word_space_1 | gate |  
 | bip_39_word_space_10 | gate erosion better diet frost kit broken attitude want connect |  

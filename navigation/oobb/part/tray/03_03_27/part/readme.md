@@ -122,6 +122,18 @@ two
 quality
 denial
 valid |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideaclerkriflegrocerydescribetwoqualitydenialvalidelephant |  
+| bip_39_word_no_space_11 | ideaclerkriflegrocerydescribetwoqualitydenialvalidelephanttry |  
+| bip_39_word_no_space_12 | ideaclerkriflegrocerydescribetwoqualitydenialvalidelephanttryanswer |  
+| bip_39_word_no_space_2 | ideaclerk |  
+| bip_39_word_no_space_3 | ideaclerkrifle |  
+| bip_39_word_no_space_4 | ideaclerkriflegrocery |  
+| bip_39_word_no_space_5 | ideaclerkriflegrocerydescribe |  
+| bip_39_word_no_space_6 | ideaclerkriflegrocerydescribetwo |  
+| bip_39_word_no_space_7 | ideaclerkriflegrocerydescribetwoquality |  
+| bip_39_word_no_space_8 | ideaclerkriflegrocerydescribetwoqualitydenial |  
+| bip_39_word_no_space_9 | ideaclerkriflegrocerydescribetwoqualitydenialvalid |  
 | bip_39_word_space_0 | ['idea', 'clerk', 'rifle', 'grocery', 'describe', 'two', 'quality', 'denial', 'valid', 'elephant', 'try', 'answer'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea clerk rifle grocery describe two quality denial valid elephant |  

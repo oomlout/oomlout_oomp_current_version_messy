@@ -122,6 +122,18 @@ ability
 drop
 scheme
 tissue |  
+| bip_39_word_no_space_1 | miracle |  
+| bip_39_word_no_space_10 | miracleversionpeanutsiblingdressabilitydropschemetissuequote |  
+| bip_39_word_no_space_11 | miracleversionpeanutsiblingdressabilitydropschemetissuequoteneck |  
+| bip_39_word_no_space_12 | miracleversionpeanutsiblingdressabilitydropschemetissuequoteneckalone |  
+| bip_39_word_no_space_2 | miracleversion |  
+| bip_39_word_no_space_3 | miracleversionpeanut |  
+| bip_39_word_no_space_4 | miracleversionpeanutsibling |  
+| bip_39_word_no_space_5 | miracleversionpeanutsiblingdress |  
+| bip_39_word_no_space_6 | miracleversionpeanutsiblingdressability |  
+| bip_39_word_no_space_7 | miracleversionpeanutsiblingdressabilitydrop |  
+| bip_39_word_no_space_8 | miracleversionpeanutsiblingdressabilitydropscheme |  
+| bip_39_word_no_space_9 | miracleversionpeanutsiblingdressabilitydropschemetissue |  
 | bip_39_word_space_0 | ['miracle', 'version', 'peanut', 'sibling', 'dress', 'ability', 'drop', 'scheme', 'tissue', 'quote', 'neck', 'alone'] |  
 | bip_39_word_space_1 | miracle |  
 | bip_39_word_space_10 | miracle version peanut sibling dress ability drop scheme tissue quote |  

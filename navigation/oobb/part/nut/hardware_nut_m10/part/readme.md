@@ -122,6 +122,18 @@ office
 oppose
 tongue
 weird |  
+| bip_39_word_no_space_1 | beef |  
+| bip_39_word_no_space_10 | beefscreennursetraveldieselofficeopposetongueweirdmobile |  
+| bip_39_word_no_space_11 | beefscreennursetraveldieselofficeopposetongueweirdmobilevisa |  
+| bip_39_word_no_space_12 | beefscreennursetraveldieselofficeopposetongueweirdmobilevisaasset |  
+| bip_39_word_no_space_2 | beefscreen |  
+| bip_39_word_no_space_3 | beefscreennurse |  
+| bip_39_word_no_space_4 | beefscreennursetravel |  
+| bip_39_word_no_space_5 | beefscreennursetraveldiesel |  
+| bip_39_word_no_space_6 | beefscreennursetraveldieseloffice |  
+| bip_39_word_no_space_7 | beefscreennursetraveldieselofficeoppose |  
+| bip_39_word_no_space_8 | beefscreennursetraveldieselofficeopposetongue |  
+| bip_39_word_no_space_9 | beefscreennursetraveldieselofficeopposetongueweird |  
 | bip_39_word_space_0 | ['beef', 'screen', 'nurse', 'travel', 'diesel', 'office', 'oppose', 'tongue', 'weird', 'mobile', 'visa', 'asset'] |  
 | bip_39_word_space_1 | beef |  
 | bip_39_word_space_10 | beef screen nurse travel diesel office oppose tongue weird mobile |  

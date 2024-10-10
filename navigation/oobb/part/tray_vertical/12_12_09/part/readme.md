@@ -122,6 +122,18 @@ inquiry
 rack
 increase
 impose |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifechurnapprovefatiguemilkinquiryrackincreaseimposeminute |  
+| bip_39_word_no_space_11 | knifechurnapprovefatiguemilkinquiryrackincreaseimposeminutevolume |  
+| bip_39_word_no_space_12 | knifechurnapprovefatiguemilkinquiryrackincreaseimposeminutevolumeargue |  
+| bip_39_word_no_space_2 | knifechurn |  
+| bip_39_word_no_space_3 | knifechurnapprove |  
+| bip_39_word_no_space_4 | knifechurnapprovefatigue |  
+| bip_39_word_no_space_5 | knifechurnapprovefatiguemilk |  
+| bip_39_word_no_space_6 | knifechurnapprovefatiguemilkinquiry |  
+| bip_39_word_no_space_7 | knifechurnapprovefatiguemilkinquiryrack |  
+| bip_39_word_no_space_8 | knifechurnapprovefatiguemilkinquiryrackincrease |  
+| bip_39_word_no_space_9 | knifechurnapprovefatiguemilkinquiryrackincreaseimpose |  
 | bip_39_word_space_0 | ['knife', 'churn', 'approve', 'fatigue', 'milk', 'inquiry', 'rack', 'increase', 'impose', 'minute', 'volume', 'argue'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife churn approve fatigue milk inquiry rack increase impose minute |  

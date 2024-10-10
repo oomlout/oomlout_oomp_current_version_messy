@@ -122,6 +122,18 @@ wine
 coral
 train
 snow |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizemonitortripdrasticmimicwinecoraltrainsnowchalk |  
+| bip_39_word_no_space_11 | prizemonitortripdrasticmimicwinecoraltrainsnowchalkisolate |  
+| bip_39_word_no_space_12 | prizemonitortripdrasticmimicwinecoraltrainsnowchalkisolateaddress |  
+| bip_39_word_no_space_2 | prizemonitor |  
+| bip_39_word_no_space_3 | prizemonitortrip |  
+| bip_39_word_no_space_4 | prizemonitortripdrastic |  
+| bip_39_word_no_space_5 | prizemonitortripdrasticmimic |  
+| bip_39_word_no_space_6 | prizemonitortripdrasticmimicwine |  
+| bip_39_word_no_space_7 | prizemonitortripdrasticmimicwinecoral |  
+| bip_39_word_no_space_8 | prizemonitortripdrasticmimicwinecoraltrain |  
+| bip_39_word_no_space_9 | prizemonitortripdrasticmimicwinecoraltrainsnow |  
 | bip_39_word_space_0 | ['prize', 'monitor', 'trip', 'drastic', 'mimic', 'wine', 'coral', 'train', 'snow', 'chalk', 'isolate', 'address'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize monitor trip drastic mimic wine coral train snow chalk |  

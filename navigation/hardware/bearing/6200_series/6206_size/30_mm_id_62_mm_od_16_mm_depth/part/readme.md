@@ -122,6 +122,18 @@ cloth
 satoshi
 file
 fault |  
+| bip_39_word_no_space_1 | fortune |  
+| bip_39_word_no_space_10 | fortuneinsectlanguageavocadoprepareclothsatoshifilefaultbrass |  
+| bip_39_word_no_space_11 | fortuneinsectlanguageavocadoprepareclothsatoshifilefaultbrassaccident |  
+| bip_39_word_no_space_12 | fortuneinsectlanguageavocadoprepareclothsatoshifilefaultbrassaccidentagent |  
+| bip_39_word_no_space_2 | fortuneinsect |  
+| bip_39_word_no_space_3 | fortuneinsectlanguage |  
+| bip_39_word_no_space_4 | fortuneinsectlanguageavocado |  
+| bip_39_word_no_space_5 | fortuneinsectlanguageavocadoprepare |  
+| bip_39_word_no_space_6 | fortuneinsectlanguageavocadopreparecloth |  
+| bip_39_word_no_space_7 | fortuneinsectlanguageavocadoprepareclothsatoshi |  
+| bip_39_word_no_space_8 | fortuneinsectlanguageavocadoprepareclothsatoshifile |  
+| bip_39_word_no_space_9 | fortuneinsectlanguageavocadoprepareclothsatoshifilefault |  
 | bip_39_word_space_0 | ['fortune', 'insect', 'language', 'avocado', 'prepare', 'cloth', 'satoshi', 'file', 'fault', 'brass', 'accident', 'agent'] |  
 | bip_39_word_space_1 | fortune |  
 | bip_39_word_space_10 | fortune insect language avocado prepare cloth satoshi file fault brass |  

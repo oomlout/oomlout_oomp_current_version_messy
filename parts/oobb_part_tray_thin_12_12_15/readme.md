@@ -122,6 +122,18 @@ weasel
 unit
 glue
 sustain |  
+| bip_39_word_no_space_1 | exile |  
+| bip_39_word_no_space_10 | exileprofitmyselfpotatoneutralweaselunitgluesustainparade |  
+| bip_39_word_no_space_11 | exileprofitmyselfpotatoneutralweaselunitgluesustainparaderelief |  
+| bip_39_word_no_space_12 | exileprofitmyselfpotatoneutralweaselunitgluesustainparadereliefany |  
+| bip_39_word_no_space_2 | exileprofit |  
+| bip_39_word_no_space_3 | exileprofitmyself |  
+| bip_39_word_no_space_4 | exileprofitmyselfpotato |  
+| bip_39_word_no_space_5 | exileprofitmyselfpotatoneutral |  
+| bip_39_word_no_space_6 | exileprofitmyselfpotatoneutralweasel |  
+| bip_39_word_no_space_7 | exileprofitmyselfpotatoneutralweaselunit |  
+| bip_39_word_no_space_8 | exileprofitmyselfpotatoneutralweaselunitglue |  
+| bip_39_word_no_space_9 | exileprofitmyselfpotatoneutralweaselunitgluesustain |  
 | bip_39_word_space_0 | ['exile', 'profit', 'myself', 'potato', 'neutral', 'weasel', 'unit', 'glue', 'sustain', 'parade', 'relief', 'any'] |  
 | bip_39_word_space_1 | exile |  
 | bip_39_word_space_10 | exile profit myself potato neutral weasel unit glue sustain parade |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'save
   tomorrow
 
   radar'
+bip_39_word_no_space_1: save
+bip_39_word_no_space_10: savemonkeylimitvacantmovecruiseswifttomorrowradartown
+bip_39_word_no_space_11: savemonkeylimitvacantmovecruiseswifttomorrowradartownnature
+bip_39_word_no_space_12: savemonkeylimitvacantmovecruiseswifttomorrowradartownnaturealready
+bip_39_word_no_space_2: savemonkey
+bip_39_word_no_space_3: savemonkeylimit
+bip_39_word_no_space_4: savemonkeylimitvacant
+bip_39_word_no_space_5: savemonkeylimitvacantmove
+bip_39_word_no_space_6: savemonkeylimitvacantmovecruise
+bip_39_word_no_space_7: savemonkeylimitvacantmovecruiseswift
+bip_39_word_no_space_8: savemonkeylimitvacantmovecruiseswifttomorrow
+bip_39_word_no_space_9: savemonkeylimitvacantmovecruiseswifttomorrowradar
 bip_39_word_space_0:
 - save
 - monkey

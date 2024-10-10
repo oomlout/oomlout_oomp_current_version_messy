@@ -122,6 +122,18 @@ few
 street
 ask
 offer |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstsoulstablelumberrepairfewstreetaskofferwinter |  
+| bip_39_word_no_space_11 | burstsoulstablelumberrepairfewstreetaskofferwinteraccident |  
+| bip_39_word_no_space_12 | burstsoulstablelumberrepairfewstreetaskofferwinteraccidentanxiety |  
+| bip_39_word_no_space_2 | burstsoul |  
+| bip_39_word_no_space_3 | burstsoulstable |  
+| bip_39_word_no_space_4 | burstsoulstablelumber |  
+| bip_39_word_no_space_5 | burstsoulstablelumberrepair |  
+| bip_39_word_no_space_6 | burstsoulstablelumberrepairfew |  
+| bip_39_word_no_space_7 | burstsoulstablelumberrepairfewstreet |  
+| bip_39_word_no_space_8 | burstsoulstablelumberrepairfewstreetask |  
+| bip_39_word_no_space_9 | burstsoulstablelumberrepairfewstreetaskoffer |  
 | bip_39_word_space_0 | ['burst', 'soul', 'stable', 'lumber', 'repair', 'few', 'street', 'ask', 'offer', 'winter', 'accident', 'anxiety'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst soul stable lumber repair few street ask offer winter |  

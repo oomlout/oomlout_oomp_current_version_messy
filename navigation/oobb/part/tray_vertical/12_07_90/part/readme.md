@@ -122,6 +122,18 @@ divorce
 swift
 baby
 tattoo |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | glovedentistnextobligeviolindivorceswiftbabytattoosnap |  
+| bip_39_word_no_space_11 | glovedentistnextobligeviolindivorceswiftbabytattoosnapamong |  
+| bip_39_word_no_space_12 | glovedentistnextobligeviolindivorceswiftbabytattoosnapamongacoustic |  
+| bip_39_word_no_space_2 | glovedentist |  
+| bip_39_word_no_space_3 | glovedentistnext |  
+| bip_39_word_no_space_4 | glovedentistnextoblige |  
+| bip_39_word_no_space_5 | glovedentistnextobligeviolin |  
+| bip_39_word_no_space_6 | glovedentistnextobligeviolindivorce |  
+| bip_39_word_no_space_7 | glovedentistnextobligeviolindivorceswift |  
+| bip_39_word_no_space_8 | glovedentistnextobligeviolindivorceswiftbaby |  
+| bip_39_word_no_space_9 | glovedentistnextobligeviolindivorceswiftbabytattoo |  
 | bip_39_word_space_0 | ['glove', 'dentist', 'next', 'oblige', 'violin', 'divorce', 'swift', 'baby', 'tattoo', 'snap', 'among', 'acoustic'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove dentist next oblige violin divorce swift baby tattoo snap |  

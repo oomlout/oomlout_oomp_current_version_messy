@@ -122,6 +122,18 @@ dune
 someone
 wet
 clap |  
+| bip_39_word_no_space_1 | about |  
+| bip_39_word_no_space_10 | aboutmakevisitlittlenaivedunesomeonewetclapthrive |  
+| bip_39_word_no_space_11 | aboutmakevisitlittlenaivedunesomeonewetclapthrivebuild |  
+| bip_39_word_no_space_12 | aboutmakevisitlittlenaivedunesomeonewetclapthrivebuildappear |  
+| bip_39_word_no_space_2 | aboutmake |  
+| bip_39_word_no_space_3 | aboutmakevisit |  
+| bip_39_word_no_space_4 | aboutmakevisitlittle |  
+| bip_39_word_no_space_5 | aboutmakevisitlittlenaive |  
+| bip_39_word_no_space_6 | aboutmakevisitlittlenaivedune |  
+| bip_39_word_no_space_7 | aboutmakevisitlittlenaivedunesomeone |  
+| bip_39_word_no_space_8 | aboutmakevisitlittlenaivedunesomeonewet |  
+| bip_39_word_no_space_9 | aboutmakevisitlittlenaivedunesomeonewetclap |  
 | bip_39_word_space_0 | ['about', 'make', 'visit', 'little', 'naive', 'dune', 'someone', 'wet', 'clap', 'thrive', 'build', 'appear'] |  
 | bip_39_word_space_1 | about |  
 | bip_39_word_space_10 | about make visit little naive dune someone wet clap thrive |  

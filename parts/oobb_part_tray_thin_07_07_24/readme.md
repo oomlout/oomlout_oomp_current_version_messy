@@ -122,6 +122,18 @@ symbol
 solution
 exit
 jelly |  
+| bip_39_word_no_space_1 | excite |  
+| bip_39_word_no_space_10 | excitealreadyarmorillliquidsymbolsolutionexitjellygrass |  
+| bip_39_word_no_space_11 | excitealreadyarmorillliquidsymbolsolutionexitjellygrasstry |  
+| bip_39_word_no_space_12 | excitealreadyarmorillliquidsymbolsolutionexitjellygrasstryanalyst |  
+| bip_39_word_no_space_2 | excitealready |  
+| bip_39_word_no_space_3 | excitealreadyarmor |  
+| bip_39_word_no_space_4 | excitealreadyarmorill |  
+| bip_39_word_no_space_5 | excitealreadyarmorillliquid |  
+| bip_39_word_no_space_6 | excitealreadyarmorillliquidsymbol |  
+| bip_39_word_no_space_7 | excitealreadyarmorillliquidsymbolsolution |  
+| bip_39_word_no_space_8 | excitealreadyarmorillliquidsymbolsolutionexit |  
+| bip_39_word_no_space_9 | excitealreadyarmorillliquidsymbolsolutionexitjelly |  
 | bip_39_word_space_0 | ['excite', 'already', 'armor', 'ill', 'liquid', 'symbol', 'solution', 'exit', 'jelly', 'grass', 'try', 'analyst'] |  
 | bip_39_word_space_1 | excite |  
 | bip_39_word_space_10 | excite already armor ill liquid symbol solution exit jelly grass |  

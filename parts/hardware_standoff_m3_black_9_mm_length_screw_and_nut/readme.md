@@ -122,6 +122,18 @@ foam
 grunt
 cherry
 goddess |  
+| bip_39_word_no_space_1 | layer |  
+| bip_39_word_no_space_10 | layerironseatexpiremaskfoamgruntcherrygoddesswall |  
+| bip_39_word_no_space_11 | layerironseatexpiremaskfoamgruntcherrygoddesswallcentury |  
+| bip_39_word_no_space_12 | layerironseatexpiremaskfoamgruntcherrygoddesswallcenturyagree |  
+| bip_39_word_no_space_2 | layeriron |  
+| bip_39_word_no_space_3 | layerironseat |  
+| bip_39_word_no_space_4 | layerironseatexpire |  
+| bip_39_word_no_space_5 | layerironseatexpiremask |  
+| bip_39_word_no_space_6 | layerironseatexpiremaskfoam |  
+| bip_39_word_no_space_7 | layerironseatexpiremaskfoamgrunt |  
+| bip_39_word_no_space_8 | layerironseatexpiremaskfoamgruntcherry |  
+| bip_39_word_no_space_9 | layerironseatexpiremaskfoamgruntcherrygoddess |  
 | bip_39_word_space_0 | ['layer', 'iron', 'seat', 'expire', 'mask', 'foam', 'grunt', 'cherry', 'goddess', 'wall', 'century', 'agree'] |  
 | bip_39_word_space_1 | layer |  
 | bip_39_word_space_10 | layer iron seat expire mask foam grunt cherry goddess wall |  

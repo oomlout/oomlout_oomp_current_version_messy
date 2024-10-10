@@ -122,6 +122,18 @@ output
 song
 dry
 raven |  
+| bip_39_word_no_space_1 | replace |  
+| bip_39_word_no_space_10 | replacetideloanassistfalseoutputsongdryraventerm |  
+| bip_39_word_no_space_11 | replacetideloanassistfalseoutputsongdryraventermshine |  
+| bip_39_word_no_space_12 | replacetideloanassistfalseoutputsongdryraventermshineautumn |  
+| bip_39_word_no_space_2 | replacetide |  
+| bip_39_word_no_space_3 | replacetideloan |  
+| bip_39_word_no_space_4 | replacetideloanassist |  
+| bip_39_word_no_space_5 | replacetideloanassistfalse |  
+| bip_39_word_no_space_6 | replacetideloanassistfalseoutput |  
+| bip_39_word_no_space_7 | replacetideloanassistfalseoutputsong |  
+| bip_39_word_no_space_8 | replacetideloanassistfalseoutputsongdry |  
+| bip_39_word_no_space_9 | replacetideloanassistfalseoutputsongdryraven |  
 | bip_39_word_space_0 | ['replace', 'tide', 'loan', 'assist', 'false', 'output', 'song', 'dry', 'raven', 'term', 'shine', 'autumn'] |  
 | bip_39_word_space_1 | replace |  
 | bip_39_word_space_10 | replace tide loan assist false output song dry raven term |  

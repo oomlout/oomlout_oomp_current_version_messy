@@ -122,6 +122,18 @@ sting
 resemble
 imitate
 lens |  
+| bip_39_word_no_space_1 | abstract |  
+| bip_39_word_no_space_10 | abstractendbookalertbetterstingresembleimitatelensgrape |  
+| bip_39_word_no_space_11 | abstractendbookalertbetterstingresembleimitatelensgrapeenroll |  
+| bip_39_word_no_space_12 | abstractendbookalertbetterstingresembleimitatelensgrapeenrollargue |  
+| bip_39_word_no_space_2 | abstractend |  
+| bip_39_word_no_space_3 | abstractendbook |  
+| bip_39_word_no_space_4 | abstractendbookalert |  
+| bip_39_word_no_space_5 | abstractendbookalertbetter |  
+| bip_39_word_no_space_6 | abstractendbookalertbettersting |  
+| bip_39_word_no_space_7 | abstractendbookalertbetterstingresemble |  
+| bip_39_word_no_space_8 | abstractendbookalertbetterstingresembleimitate |  
+| bip_39_word_no_space_9 | abstractendbookalertbetterstingresembleimitatelens |  
 | bip_39_word_space_0 | ['abstract', 'end', 'book', 'alert', 'better', 'sting', 'resemble', 'imitate', 'lens', 'grape', 'enroll', 'argue'] |  
 | bip_39_word_space_1 | abstract |  
 | bip_39_word_space_10 | abstract end book alert better sting resemble imitate lens grape |  

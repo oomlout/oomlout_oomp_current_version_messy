@@ -122,6 +122,18 @@ inject
 vehicle
 silk
 canvas |  
+| bip_39_word_no_space_1 | now |  
+| bip_39_word_no_space_10 | nowtumbledonorcoincapableinjectvehiclesilkcanvasculture |  
+| bip_39_word_no_space_11 | nowtumbledonorcoincapableinjectvehiclesilkcanvasculturetoken |  
+| bip_39_word_no_space_12 | nowtumbledonorcoincapableinjectvehiclesilkcanvasculturetokenannual |  
+| bip_39_word_no_space_2 | nowtumble |  
+| bip_39_word_no_space_3 | nowtumbledonor |  
+| bip_39_word_no_space_4 | nowtumbledonorcoin |  
+| bip_39_word_no_space_5 | nowtumbledonorcoincapable |  
+| bip_39_word_no_space_6 | nowtumbledonorcoincapableinject |  
+| bip_39_word_no_space_7 | nowtumbledonorcoincapableinjectvehicle |  
+| bip_39_word_no_space_8 | nowtumbledonorcoincapableinjectvehiclesilk |  
+| bip_39_word_no_space_9 | nowtumbledonorcoincapableinjectvehiclesilkcanvas |  
 | bip_39_word_space_0 | ['now', 'tumble', 'donor', 'coin', 'capable', 'inject', 'vehicle', 'silk', 'canvas', 'culture', 'token', 'annual'] |  
 | bip_39_word_space_1 | now |  
 | bip_39_word_space_10 | now tumble donor coin capable inject vehicle silk canvas culture |  

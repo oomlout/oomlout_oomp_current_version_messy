@@ -122,6 +122,18 @@ silver
 student
 athlete
 unfold |  
+| bip_39_word_no_space_1 | already |  
+| bip_39_word_no_space_10 | alreadyaccountfishboneprospersilverstudentathleteunfoldhybrid |  
+| bip_39_word_no_space_11 | alreadyaccountfishboneprospersilverstudentathleteunfoldhybridstamp |  
+| bip_39_word_no_space_12 | alreadyaccountfishboneprospersilverstudentathleteunfoldhybridstampabsorb |  
+| bip_39_word_no_space_2 | alreadyaccount |  
+| bip_39_word_no_space_3 | alreadyaccountfish |  
+| bip_39_word_no_space_4 | alreadyaccountfishbone |  
+| bip_39_word_no_space_5 | alreadyaccountfishboneprosper |  
+| bip_39_word_no_space_6 | alreadyaccountfishboneprospersilver |  
+| bip_39_word_no_space_7 | alreadyaccountfishboneprospersilverstudent |  
+| bip_39_word_no_space_8 | alreadyaccountfishboneprospersilverstudentathlete |  
+| bip_39_word_no_space_9 | alreadyaccountfishboneprospersilverstudentathleteunfold |  
 | bip_39_word_space_0 | ['already', 'account', 'fish', 'bone', 'prosper', 'silver', 'student', 'athlete', 'unfold', 'hybrid', 'stamp', 'absorb'] |  
 | bip_39_word_space_1 | already |  
 | bip_39_word_space_10 | already account fish bone prosper silver student athlete unfold hybrid |  

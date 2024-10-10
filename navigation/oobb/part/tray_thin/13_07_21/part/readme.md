@@ -122,6 +122,18 @@ visual
 address
 fitness
 nurse |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holemessagesweetquitdishvisualaddressfitnessnursearch |  
+| bip_39_word_no_space_11 | holemessagesweetquitdishvisualaddressfitnessnursearchcotton |  
+| bip_39_word_no_space_12 | holemessagesweetquitdishvisualaddressfitnessnursearchcottonactor |  
+| bip_39_word_no_space_2 | holemessage |  
+| bip_39_word_no_space_3 | holemessagesweet |  
+| bip_39_word_no_space_4 | holemessagesweetquit |  
+| bip_39_word_no_space_5 | holemessagesweetquitdish |  
+| bip_39_word_no_space_6 | holemessagesweetquitdishvisual |  
+| bip_39_word_no_space_7 | holemessagesweetquitdishvisualaddress |  
+| bip_39_word_no_space_8 | holemessagesweetquitdishvisualaddressfitness |  
+| bip_39_word_no_space_9 | holemessagesweetquitdishvisualaddressfitnessnurse |  
 | bip_39_word_space_0 | ['hole', 'message', 'sweet', 'quit', 'dish', 'visual', 'address', 'fitness', 'nurse', 'arch', 'cotton', 'actor'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole message sweet quit dish visual address fitness nurse arch |  

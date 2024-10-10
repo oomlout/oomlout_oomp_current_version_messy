@@ -122,6 +122,18 @@ sleep
 camp
 erosion
 sniff |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slenderwheatabuseheadsizesleepcamperosionsniffcrisp |  
+| bip_39_word_no_space_11 | slenderwheatabuseheadsizesleepcamperosionsniffcrispbunker |  
+| bip_39_word_no_space_12 | slenderwheatabuseheadsizesleepcamperosionsniffcrispbunkeratom |  
+| bip_39_word_no_space_2 | slenderwheat |  
+| bip_39_word_no_space_3 | slenderwheatabuse |  
+| bip_39_word_no_space_4 | slenderwheatabusehead |  
+| bip_39_word_no_space_5 | slenderwheatabuseheadsize |  
+| bip_39_word_no_space_6 | slenderwheatabuseheadsizesleep |  
+| bip_39_word_no_space_7 | slenderwheatabuseheadsizesleepcamp |  
+| bip_39_word_no_space_8 | slenderwheatabuseheadsizesleepcamperosion |  
+| bip_39_word_no_space_9 | slenderwheatabuseheadsizesleepcamperosionsniff |  
 | bip_39_word_space_0 | ['slender', 'wheat', 'abuse', 'head', 'size', 'sleep', 'camp', 'erosion', 'sniff', 'crisp', 'bunker', 'atom'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender wheat abuse head size sleep camp erosion sniff crisp |  

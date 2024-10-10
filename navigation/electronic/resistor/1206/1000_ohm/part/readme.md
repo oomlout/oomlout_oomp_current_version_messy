@@ -122,6 +122,18 @@ bubble
 clay
 ahead
 patrol |  
+| bip_39_word_no_space_1 | tackle |  
+| bip_39_word_no_space_10 | tackleshinepulsepeacecrawlbubbleclayaheadpatrolaccident |  
+| bip_39_word_no_space_11 | tackleshinepulsepeacecrawlbubbleclayaheadpatrolaccidentvoice |  
+| bip_39_word_no_space_12 | tackleshinepulsepeacecrawlbubbleclayaheadpatrolaccidentvoicealone |  
+| bip_39_word_no_space_2 | tackleshine |  
+| bip_39_word_no_space_3 | tackleshinepulse |  
+| bip_39_word_no_space_4 | tackleshinepulsepeace |  
+| bip_39_word_no_space_5 | tackleshinepulsepeacecrawl |  
+| bip_39_word_no_space_6 | tackleshinepulsepeacecrawlbubble |  
+| bip_39_word_no_space_7 | tackleshinepulsepeacecrawlbubbleclay |  
+| bip_39_word_no_space_8 | tackleshinepulsepeacecrawlbubbleclayahead |  
+| bip_39_word_no_space_9 | tackleshinepulsepeacecrawlbubbleclayaheadpatrol |  
 | bip_39_word_space_0 | ['tackle', 'shine', 'pulse', 'peace', 'crawl', 'bubble', 'clay', 'ahead', 'patrol', 'accident', 'voice', 'alone'] |  
 | bip_39_word_space_1 | tackle |  
 | bip_39_word_space_10 | tackle shine pulse peace crawl bubble clay ahead patrol accident |  

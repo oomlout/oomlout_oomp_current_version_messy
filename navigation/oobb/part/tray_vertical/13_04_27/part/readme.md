@@ -122,6 +122,18 @@ teach
 blind
 victory
 arrest |  
+| bip_39_word_no_space_1 | unfold |  
+| bip_39_word_no_space_10 | unfoldadjustapologysummerfictionteachblindvictoryarrestavocado |  
+| bip_39_word_no_space_11 | unfoldadjustapologysummerfictionteachblindvictoryarrestavocadoboil |  
+| bip_39_word_no_space_12 | unfoldadjustapologysummerfictionteachblindvictoryarrestavocadoboilarrive |  
+| bip_39_word_no_space_2 | unfoldadjust |  
+| bip_39_word_no_space_3 | unfoldadjustapology |  
+| bip_39_word_no_space_4 | unfoldadjustapologysummer |  
+| bip_39_word_no_space_5 | unfoldadjustapologysummerfiction |  
+| bip_39_word_no_space_6 | unfoldadjustapologysummerfictionteach |  
+| bip_39_word_no_space_7 | unfoldadjustapologysummerfictionteachblind |  
+| bip_39_word_no_space_8 | unfoldadjustapologysummerfictionteachblindvictory |  
+| bip_39_word_no_space_9 | unfoldadjustapologysummerfictionteachblindvictoryarrest |  
 | bip_39_word_space_0 | ['unfold', 'adjust', 'apology', 'summer', 'fiction', 'teach', 'blind', 'victory', 'arrest', 'avocado', 'boil', 'arrive'] |  
 | bip_39_word_space_1 | unfold |  
 | bip_39_word_space_10 | unfold adjust apology summer fiction teach blind victory arrest avocado |  

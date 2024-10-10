@@ -122,6 +122,18 @@ family
 honey
 pink
 arrest |  
+| bip_39_word_no_space_1 | stairs |  
+| bip_39_word_no_space_10 | stairsempowersubjectpelicansufferfamilyhoneypinkarrestsight |  
+| bip_39_word_no_space_11 | stairsempowersubjectpelicansufferfamilyhoneypinkarrestsightnoise |  
+| bip_39_word_no_space_12 | stairsempowersubjectpelicansufferfamilyhoneypinkarrestsightnoiseair |  
+| bip_39_word_no_space_2 | stairsempower |  
+| bip_39_word_no_space_3 | stairsempowersubject |  
+| bip_39_word_no_space_4 | stairsempowersubjectpelican |  
+| bip_39_word_no_space_5 | stairsempowersubjectpelicansuffer |  
+| bip_39_word_no_space_6 | stairsempowersubjectpelicansufferfamily |  
+| bip_39_word_no_space_7 | stairsempowersubjectpelicansufferfamilyhoney |  
+| bip_39_word_no_space_8 | stairsempowersubjectpelicansufferfamilyhoneypink |  
+| bip_39_word_no_space_9 | stairsempowersubjectpelicansufferfamilyhoneypinkarrest |  
 | bip_39_word_space_0 | ['stairs', 'empower', 'subject', 'pelican', 'suffer', 'family', 'honey', 'pink', 'arrest', 'sight', 'noise', 'air'] |  
 | bip_39_word_space_1 | stairs |  
 | bip_39_word_space_10 | stairs empower subject pelican suffer family honey pink arrest sight |  

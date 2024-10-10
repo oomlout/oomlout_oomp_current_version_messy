@@ -122,6 +122,18 @@ calm
 fit
 ostrich
 ahead |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipmotorresemblechasestovecalmfitostrichaheadalso |  
+| bip_39_word_no_space_11 | clipmotorresemblechasestovecalmfitostrichaheadalsoboss |  
+| bip_39_word_no_space_12 | clipmotorresemblechasestovecalmfitostrichaheadalsobossamount |  
+| bip_39_word_no_space_2 | clipmotor |  
+| bip_39_word_no_space_3 | clipmotorresemble |  
+| bip_39_word_no_space_4 | clipmotorresemblechase |  
+| bip_39_word_no_space_5 | clipmotorresemblechasestove |  
+| bip_39_word_no_space_6 | clipmotorresemblechasestovecalm |  
+| bip_39_word_no_space_7 | clipmotorresemblechasestovecalmfit |  
+| bip_39_word_no_space_8 | clipmotorresemblechasestovecalmfitostrich |  
+| bip_39_word_no_space_9 | clipmotorresemblechasestovecalmfitostrichahead |  
 | bip_39_word_space_0 | ['clip', 'motor', 'resemble', 'chase', 'stove', 'calm', 'fit', 'ostrich', 'ahead', 'also', 'boss', 'amount'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip motor resemble chase stove calm fit ostrich ahead also |  

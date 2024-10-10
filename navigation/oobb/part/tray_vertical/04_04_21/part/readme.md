@@ -122,6 +122,18 @@ tell
 perfect
 boss
 when |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callwalktoddlerissuelizardtellperfectbosswhencradle |  
+| bip_39_word_no_space_11 | callwalktoddlerissuelizardtellperfectbosswhencradlenut |  
+| bip_39_word_no_space_12 | callwalktoddlerissuelizardtellperfectbosswhencradlenutamused |  
+| bip_39_word_no_space_2 | callwalk |  
+| bip_39_word_no_space_3 | callwalktoddler |  
+| bip_39_word_no_space_4 | callwalktoddlerissue |  
+| bip_39_word_no_space_5 | callwalktoddlerissuelizard |  
+| bip_39_word_no_space_6 | callwalktoddlerissuelizardtell |  
+| bip_39_word_no_space_7 | callwalktoddlerissuelizardtellperfect |  
+| bip_39_word_no_space_8 | callwalktoddlerissuelizardtellperfectboss |  
+| bip_39_word_no_space_9 | callwalktoddlerissuelizardtellperfectbosswhen |  
 | bip_39_word_space_0 | ['call', 'walk', 'toddler', 'issue', 'lizard', 'tell', 'perfect', 'boss', 'when', 'cradle', 'nut', 'amused'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call walk toddler issue lizard tell perfect boss when cradle |  

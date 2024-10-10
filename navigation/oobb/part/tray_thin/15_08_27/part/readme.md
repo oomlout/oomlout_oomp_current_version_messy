@@ -122,6 +122,18 @@ total
 analyst
 around
 zebra |  
+| bip_39_word_no_space_1 | end |  
+| bip_39_word_no_space_10 | endclockpondsalonbirthtotalanalystaroundzebrasplit |  
+| bip_39_word_no_space_11 | endclockpondsalonbirthtotalanalystaroundzebrasplitcupboard |  
+| bip_39_word_no_space_12 | endclockpondsalonbirthtotalanalystaroundzebrasplitcupboardachieve |  
+| bip_39_word_no_space_2 | endclock |  
+| bip_39_word_no_space_3 | endclockpond |  
+| bip_39_word_no_space_4 | endclockpondsalon |  
+| bip_39_word_no_space_5 | endclockpondsalonbirth |  
+| bip_39_word_no_space_6 | endclockpondsalonbirthtotal |  
+| bip_39_word_no_space_7 | endclockpondsalonbirthtotalanalyst |  
+| bip_39_word_no_space_8 | endclockpondsalonbirthtotalanalystaround |  
+| bip_39_word_no_space_9 | endclockpondsalonbirthtotalanalystaroundzebra |  
 | bip_39_word_space_0 | ['end', 'clock', 'pond', 'salon', 'birth', 'total', 'analyst', 'around', 'zebra', 'split', 'cupboard', 'achieve'] |  
 | bip_39_word_space_1 | end |  
 | bip_39_word_space_10 | end clock pond salon birth total analyst around zebra split |  

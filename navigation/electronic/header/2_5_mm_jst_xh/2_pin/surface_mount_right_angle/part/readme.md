@@ -122,6 +122,18 @@ between
 immense
 tumble
 lab |  
+| bip_39_word_no_space_1 | about |  
+| bip_39_word_no_space_10 | aboutgameexciteprotectbreezebetweenimmensetumblelabumbrella |  
+| bip_39_word_no_space_11 | aboutgameexciteprotectbreezebetweenimmensetumblelabumbrellawhisper |  
+| bip_39_word_no_space_12 | aboutgameexciteprotectbreezebetweenimmensetumblelabumbrellawhisperadult |  
+| bip_39_word_no_space_2 | aboutgame |  
+| bip_39_word_no_space_3 | aboutgameexcite |  
+| bip_39_word_no_space_4 | aboutgameexciteprotect |  
+| bip_39_word_no_space_5 | aboutgameexciteprotectbreeze |  
+| bip_39_word_no_space_6 | aboutgameexciteprotectbreezebetween |  
+| bip_39_word_no_space_7 | aboutgameexciteprotectbreezebetweenimmense |  
+| bip_39_word_no_space_8 | aboutgameexciteprotectbreezebetweenimmensetumble |  
+| bip_39_word_no_space_9 | aboutgameexciteprotectbreezebetweenimmensetumblelab |  
 | bip_39_word_space_0 | ['about', 'game', 'excite', 'protect', 'breeze', 'between', 'immense', 'tumble', 'lab', 'umbrella', 'whisper', 'adult'] |  
 | bip_39_word_space_1 | about |  
 | bip_39_word_space_10 | about game excite protect breeze between immense tumble lab umbrella |  

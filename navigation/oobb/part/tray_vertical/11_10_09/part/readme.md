@@ -122,6 +122,18 @@ birth
 ensure
 sadness
 pond |  
+| bip_39_word_no_space_1 | assist |  
+| bip_39_word_no_space_10 | assistpolarfencehurryorbitbirthensuresadnesspondbattle |  
+| bip_39_word_no_space_11 | assistpolarfencehurryorbitbirthensuresadnesspondbattlecharge |  
+| bip_39_word_no_space_12 | assistpolarfencehurryorbitbirthensuresadnesspondbattlechargeaddict |  
+| bip_39_word_no_space_2 | assistpolar |  
+| bip_39_word_no_space_3 | assistpolarfence |  
+| bip_39_word_no_space_4 | assistpolarfencehurry |  
+| bip_39_word_no_space_5 | assistpolarfencehurryorbit |  
+| bip_39_word_no_space_6 | assistpolarfencehurryorbitbirth |  
+| bip_39_word_no_space_7 | assistpolarfencehurryorbitbirthensure |  
+| bip_39_word_no_space_8 | assistpolarfencehurryorbitbirthensuresadness |  
+| bip_39_word_no_space_9 | assistpolarfencehurryorbitbirthensuresadnesspond |  
 | bip_39_word_space_0 | ['assist', 'polar', 'fence', 'hurry', 'orbit', 'birth', 'ensure', 'sadness', 'pond', 'battle', 'charge', 'addict'] |  
 | bip_39_word_space_1 | assist |  
 | bip_39_word_space_10 | assist polar fence hurry orbit birth ensure sadness pond battle |  

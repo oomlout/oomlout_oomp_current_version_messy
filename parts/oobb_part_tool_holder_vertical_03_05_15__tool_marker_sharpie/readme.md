@@ -122,6 +122,18 @@ change
 evidence
 choice
 game |  
+| bip_39_word_no_space_1 | throw |  
+| bip_39_word_no_space_10 | throwspynevermaterialkiwichangeevidencechoicegamerare |  
+| bip_39_word_no_space_11 | throwspynevermaterialkiwichangeevidencechoicegamerarelamp |  
+| bip_39_word_no_space_12 | throwspynevermaterialkiwichangeevidencechoicegamerarelampair |  
+| bip_39_word_no_space_2 | throwspy |  
+| bip_39_word_no_space_3 | throwspynever |  
+| bip_39_word_no_space_4 | throwspynevermaterial |  
+| bip_39_word_no_space_5 | throwspynevermaterialkiwi |  
+| bip_39_word_no_space_6 | throwspynevermaterialkiwichange |  
+| bip_39_word_no_space_7 | throwspynevermaterialkiwichangeevidence |  
+| bip_39_word_no_space_8 | throwspynevermaterialkiwichangeevidencechoice |  
+| bip_39_word_no_space_9 | throwspynevermaterialkiwichangeevidencechoicegame |  
 | bip_39_word_space_0 | ['throw', 'spy', 'never', 'material', 'kiwi', 'change', 'evidence', 'choice', 'game', 'rare', 'lamp', 'air'] |  
 | bip_39_word_space_1 | throw |  
 | bip_39_word_space_10 | throw spy never material kiwi change evidence choice game rare |  

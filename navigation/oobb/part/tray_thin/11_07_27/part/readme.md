@@ -122,6 +122,18 @@ blouse
 vacuum
 purity
 width |  
+| bip_39_word_no_space_1 | grid |  
+| bip_39_word_no_space_10 | gridleftdepthpostagainblousevacuumpuritywidthunaware |  
+| bip_39_word_no_space_11 | gridleftdepthpostagainblousevacuumpuritywidthunawareissue |  
+| bip_39_word_no_space_12 | gridleftdepthpostagainblousevacuumpuritywidthunawareissueability |  
+| bip_39_word_no_space_2 | gridleft |  
+| bip_39_word_no_space_3 | gridleftdepth |  
+| bip_39_word_no_space_4 | gridleftdepthpost |  
+| bip_39_word_no_space_5 | gridleftdepthpostagain |  
+| bip_39_word_no_space_6 | gridleftdepthpostagainblouse |  
+| bip_39_word_no_space_7 | gridleftdepthpostagainblousevacuum |  
+| bip_39_word_no_space_8 | gridleftdepthpostagainblousevacuumpurity |  
+| bip_39_word_no_space_9 | gridleftdepthpostagainblousevacuumpuritywidth |  
 | bip_39_word_space_0 | ['grid', 'left', 'depth', 'post', 'again', 'blouse', 'vacuum', 'purity', 'width', 'unaware', 'issue', 'ability'] |  
 | bip_39_word_space_1 | grid |  
 | bip_39_word_space_10 | grid left depth post again blouse vacuum purity width unaware |  

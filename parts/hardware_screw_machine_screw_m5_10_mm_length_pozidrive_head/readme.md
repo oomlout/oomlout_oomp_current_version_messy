@@ -122,6 +122,18 @@ art
 wife
 taxi
 play |  
+| bip_39_word_no_space_1 | dice |  
+| bip_39_word_no_space_10 | dicenesttoppleminimummanageartwifetaxiplayneck |  
+| bip_39_word_no_space_11 | dicenesttoppleminimummanageartwifetaxiplayneckplastic |  
+| bip_39_word_no_space_12 | dicenesttoppleminimummanageartwifetaxiplayneckplasticarrange |  
+| bip_39_word_no_space_2 | dicenest |  
+| bip_39_word_no_space_3 | dicenesttopple |  
+| bip_39_word_no_space_4 | dicenesttoppleminimum |  
+| bip_39_word_no_space_5 | dicenesttoppleminimummanage |  
+| bip_39_word_no_space_6 | dicenesttoppleminimummanageart |  
+| bip_39_word_no_space_7 | dicenesttoppleminimummanageartwife |  
+| bip_39_word_no_space_8 | dicenesttoppleminimummanageartwifetaxi |  
+| bip_39_word_no_space_9 | dicenesttoppleminimummanageartwifetaxiplay |  
 | bip_39_word_space_0 | ['dice', 'nest', 'topple', 'minimum', 'manage', 'art', 'wife', 'taxi', 'play', 'neck', 'plastic', 'arrange'] |  
 | bip_39_word_space_1 | dice |  
 | bip_39_word_space_10 | dice nest topple minimum manage art wife taxi play neck |  

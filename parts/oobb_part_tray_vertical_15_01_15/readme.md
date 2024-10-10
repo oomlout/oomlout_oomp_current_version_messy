@@ -122,6 +122,18 @@ essence
 siege
 wet
 almost |  
+| bip_39_word_no_space_1 | army |  
+| bip_39_word_no_space_10 | armyribbonsingbridgewayessencesiegewetalmostparty |  
+| bip_39_word_no_space_11 | armyribbonsingbridgewayessencesiegewetalmostpartylesson |  
+| bip_39_word_no_space_12 | armyribbonsingbridgewayessencesiegewetalmostpartylessonarm |  
+| bip_39_word_no_space_2 | armyribbon |  
+| bip_39_word_no_space_3 | armyribbonsing |  
+| bip_39_word_no_space_4 | armyribbonsingbridge |  
+| bip_39_word_no_space_5 | armyribbonsingbridgeway |  
+| bip_39_word_no_space_6 | armyribbonsingbridgewayessence |  
+| bip_39_word_no_space_7 | armyribbonsingbridgewayessencesiege |  
+| bip_39_word_no_space_8 | armyribbonsingbridgewayessencesiegewet |  
+| bip_39_word_no_space_9 | armyribbonsingbridgewayessencesiegewetalmost |  
 | bip_39_word_space_0 | ['army', 'ribbon', 'sing', 'bridge', 'way', 'essence', 'siege', 'wet', 'almost', 'party', 'lesson', 'arm'] |  
 | bip_39_word_space_1 | army |  
 | bip_39_word_space_10 | army ribbon sing bridge way essence siege wet almost party |  

@@ -122,6 +122,18 @@ position
 runway
 logic
 alter |  
+| bip_39_word_no_space_1 | object |  
+| bip_39_word_no_space_10 | objectflushpreferceilingwristpositionrunwaylogicalterroyal |  
+| bip_39_word_no_space_11 | objectflushpreferceilingwristpositionrunwaylogicalterroyalsilver |  
+| bip_39_word_no_space_12 | objectflushpreferceilingwristpositionrunwaylogicalterroyalsilverahead |  
+| bip_39_word_no_space_2 | objectflush |  
+| bip_39_word_no_space_3 | objectflushprefer |  
+| bip_39_word_no_space_4 | objectflushpreferceiling |  
+| bip_39_word_no_space_5 | objectflushpreferceilingwrist |  
+| bip_39_word_no_space_6 | objectflushpreferceilingwristposition |  
+| bip_39_word_no_space_7 | objectflushpreferceilingwristpositionrunway |  
+| bip_39_word_no_space_8 | objectflushpreferceilingwristpositionrunwaylogic |  
+| bip_39_word_no_space_9 | objectflushpreferceilingwristpositionrunwaylogicalter |  
 | bip_39_word_space_0 | ['object', 'flush', 'prefer', 'ceiling', 'wrist', 'position', 'runway', 'logic', 'alter', 'royal', 'silver', 'ahead'] |  
 | bip_39_word_space_1 | object |  
 | bip_39_word_space_10 | object flush prefer ceiling wrist position runway logic alter royal |  

@@ -122,6 +122,18 @@ pet
 deer
 maid
 employ |  
+| bip_39_word_no_space_1 | tobacco |  
+| bip_39_word_no_space_10 | tobaccophotozeromatrixvisitpetdeermaidemploylock |  
+| bip_39_word_no_space_11 | tobaccophotozeromatrixvisitpetdeermaidemploylocktenant |  
+| bip_39_word_no_space_12 | tobaccophotozeromatrixvisitpetdeermaidemploylocktenantact |  
+| bip_39_word_no_space_2 | tobaccophoto |  
+| bip_39_word_no_space_3 | tobaccophotozero |  
+| bip_39_word_no_space_4 | tobaccophotozeromatrix |  
+| bip_39_word_no_space_5 | tobaccophotozeromatrixvisit |  
+| bip_39_word_no_space_6 | tobaccophotozeromatrixvisitpet |  
+| bip_39_word_no_space_7 | tobaccophotozeromatrixvisitpetdeer |  
+| bip_39_word_no_space_8 | tobaccophotozeromatrixvisitpetdeermaid |  
+| bip_39_word_no_space_9 | tobaccophotozeromatrixvisitpetdeermaidemploy |  
 | bip_39_word_space_0 | ['tobacco', 'photo', 'zero', 'matrix', 'visit', 'pet', 'deer', 'maid', 'employ', 'lock', 'tenant', 'act'] |  
 | bip_39_word_space_1 | tobacco |  
 | bip_39_word_space_10 | tobacco photo zero matrix visit pet deer maid employ lock |  

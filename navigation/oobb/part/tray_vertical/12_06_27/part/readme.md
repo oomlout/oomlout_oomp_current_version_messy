@@ -122,6 +122,18 @@ seed
 disagree
 wife
 axis |  
+| bip_39_word_no_space_1 | weird |  
+| bip_39_word_no_space_10 | weirdresemblefinalsettleunfairseeddisagreewifeaxisgrid |  
+| bip_39_word_no_space_11 | weirdresemblefinalsettleunfairseeddisagreewifeaxisgridautumn |  
+| bip_39_word_no_space_12 | weirdresemblefinalsettleunfairseeddisagreewifeaxisgridautumnaerobic |  
+| bip_39_word_no_space_2 | weirdresemble |  
+| bip_39_word_no_space_3 | weirdresemblefinal |  
+| bip_39_word_no_space_4 | weirdresemblefinalsettle |  
+| bip_39_word_no_space_5 | weirdresemblefinalsettleunfair |  
+| bip_39_word_no_space_6 | weirdresemblefinalsettleunfairseed |  
+| bip_39_word_no_space_7 | weirdresemblefinalsettleunfairseeddisagree |  
+| bip_39_word_no_space_8 | weirdresemblefinalsettleunfairseeddisagreewife |  
+| bip_39_word_no_space_9 | weirdresemblefinalsettleunfairseeddisagreewifeaxis |  
 | bip_39_word_space_0 | ['weird', 'resemble', 'final', 'settle', 'unfair', 'seed', 'disagree', 'wife', 'axis', 'grid', 'autumn', 'aerobic'] |  
 | bip_39_word_space_1 | weird |  
 | bip_39_word_space_10 | weird resemble final settle unfair seed disagree wife axis grid |  

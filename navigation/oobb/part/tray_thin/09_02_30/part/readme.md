@@ -122,6 +122,18 @@ oval
 help
 era
 invite |  
+| bip_39_word_no_space_1 | north |  
+| bip_39_word_no_space_10 | northloansolidcolumnpurseovalhelperainvitefan |  
+| bip_39_word_no_space_11 | northloansolidcolumnpurseovalhelperainvitefanmyself |  
+| bip_39_word_no_space_12 | northloansolidcolumnpurseovalhelperainvitefanmyselfassume |  
+| bip_39_word_no_space_2 | northloan |  
+| bip_39_word_no_space_3 | northloansolid |  
+| bip_39_word_no_space_4 | northloansolidcolumn |  
+| bip_39_word_no_space_5 | northloansolidcolumnpurse |  
+| bip_39_word_no_space_6 | northloansolidcolumnpurseoval |  
+| bip_39_word_no_space_7 | northloansolidcolumnpurseovalhelp |  
+| bip_39_word_no_space_8 | northloansolidcolumnpurseovalhelpera |  
+| bip_39_word_no_space_9 | northloansolidcolumnpurseovalhelperainvite |  
 | bip_39_word_space_0 | ['north', 'loan', 'solid', 'column', 'purse', 'oval', 'help', 'era', 'invite', 'fan', 'myself', 'assume'] |  
 | bip_39_word_space_1 | north |  
 | bip_39_word_space_10 | north loan solid column purse oval help era invite fan |  

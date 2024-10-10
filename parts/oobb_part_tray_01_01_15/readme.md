@@ -122,6 +122,18 @@ valley
 armor
 advance
 bullet |  
+| bip_39_word_no_space_1 | local |  
+| bip_39_word_no_space_10 | localbonusproblembossdismissvalleyarmoradvancebulletcertain |  
+| bip_39_word_no_space_11 | localbonusproblembossdismissvalleyarmoradvancebulletcertainbook |  
+| bip_39_word_no_space_12 | localbonusproblembossdismissvalleyarmoradvancebulletcertainbookaffair |  
+| bip_39_word_no_space_2 | localbonus |  
+| bip_39_word_no_space_3 | localbonusproblem |  
+| bip_39_word_no_space_4 | localbonusproblemboss |  
+| bip_39_word_no_space_5 | localbonusproblembossdismiss |  
+| bip_39_word_no_space_6 | localbonusproblembossdismissvalley |  
+| bip_39_word_no_space_7 | localbonusproblembossdismissvalleyarmor |  
+| bip_39_word_no_space_8 | localbonusproblembossdismissvalleyarmoradvance |  
+| bip_39_word_no_space_9 | localbonusproblembossdismissvalleyarmoradvancebullet |  
 | bip_39_word_space_0 | ['local', 'bonus', 'problem', 'boss', 'dismiss', 'valley', 'armor', 'advance', 'bullet', 'certain', 'book', 'affair'] |  
 | bip_39_word_space_1 | local |  
 | bip_39_word_space_10 | local bonus problem boss dismiss valley armor advance bullet certain |  

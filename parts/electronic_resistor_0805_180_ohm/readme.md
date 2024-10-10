@@ -122,6 +122,18 @@ snow
 solid
 rival
 very |  
+| bip_39_word_no_space_1 | shine |  
+| bip_39_word_no_space_10 | shinepleaseemergesupremefleesnowsolidrivalveryrapid |  
+| bip_39_word_no_space_11 | shinepleaseemergesupremefleesnowsolidrivalveryrapidflavor |  
+| bip_39_word_no_space_12 | shinepleaseemergesupremefleesnowsolidrivalveryrapidflavoradvice |  
+| bip_39_word_no_space_2 | shineplease |  
+| bip_39_word_no_space_3 | shinepleaseemerge |  
+| bip_39_word_no_space_4 | shinepleaseemergesupreme |  
+| bip_39_word_no_space_5 | shinepleaseemergesupremeflee |  
+| bip_39_word_no_space_6 | shinepleaseemergesupremefleesnow |  
+| bip_39_word_no_space_7 | shinepleaseemergesupremefleesnowsolid |  
+| bip_39_word_no_space_8 | shinepleaseemergesupremefleesnowsolidrival |  
+| bip_39_word_no_space_9 | shinepleaseemergesupremefleesnowsolidrivalvery |  
 | bip_39_word_space_0 | ['shine', 'please', 'emerge', 'supreme', 'flee', 'snow', 'solid', 'rival', 'very', 'rapid', 'flavor', 'advice'] |  
 | bip_39_word_space_1 | shine |  
 | bip_39_word_space_10 | shine please emerge supreme flee snow solid rival very rapid |  

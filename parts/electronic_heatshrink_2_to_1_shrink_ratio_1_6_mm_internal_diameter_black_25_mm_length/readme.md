@@ -122,6 +122,18 @@ box
 elegant
 toward
 balance |  
+| bip_39_word_no_space_1 | leave |  
+| bip_39_word_no_space_10 | leaveamateurbuyerisolatewireboxeleganttowardbalanceinquiry |  
+| bip_39_word_no_space_11 | leaveamateurbuyerisolatewireboxeleganttowardbalanceinquirysection |  
+| bip_39_word_no_space_12 | leaveamateurbuyerisolatewireboxeleganttowardbalanceinquirysectionall |  
+| bip_39_word_no_space_2 | leaveamateur |  
+| bip_39_word_no_space_3 | leaveamateurbuyer |  
+| bip_39_word_no_space_4 | leaveamateurbuyerisolate |  
+| bip_39_word_no_space_5 | leaveamateurbuyerisolatewire |  
+| bip_39_word_no_space_6 | leaveamateurbuyerisolatewirebox |  
+| bip_39_word_no_space_7 | leaveamateurbuyerisolatewireboxelegant |  
+| bip_39_word_no_space_8 | leaveamateurbuyerisolatewireboxeleganttoward |  
+| bip_39_word_no_space_9 | leaveamateurbuyerisolatewireboxeleganttowardbalance |  
 | bip_39_word_space_0 | ['leave', 'amateur', 'buyer', 'isolate', 'wire', 'box', 'elegant', 'toward', 'balance', 'inquiry', 'section', 'all'] |  
 | bip_39_word_space_1 | leave |  
 | bip_39_word_space_10 | leave amateur buyer isolate wire box elegant toward balance inquiry |  

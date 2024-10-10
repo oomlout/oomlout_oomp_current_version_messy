@@ -122,6 +122,18 @@ return
 turtle
 method
 police |  
+| bip_39_word_no_space_1 | palm |  
+| bip_39_word_no_space_10 | palmcommonamateurextrabeforereturnturtlemethodpoliceuseful |  
+| bip_39_word_no_space_11 | palmcommonamateurextrabeforereturnturtlemethodpoliceusefullion |  
+| bip_39_word_no_space_12 | palmcommonamateurextrabeforereturnturtlemethodpoliceusefullionalarm |  
+| bip_39_word_no_space_2 | palmcommon |  
+| bip_39_word_no_space_3 | palmcommonamateur |  
+| bip_39_word_no_space_4 | palmcommonamateurextra |  
+| bip_39_word_no_space_5 | palmcommonamateurextrabefore |  
+| bip_39_word_no_space_6 | palmcommonamateurextrabeforereturn |  
+| bip_39_word_no_space_7 | palmcommonamateurextrabeforereturnturtle |  
+| bip_39_word_no_space_8 | palmcommonamateurextrabeforereturnturtlemethod |  
+| bip_39_word_no_space_9 | palmcommonamateurextrabeforereturnturtlemethodpolice |  
 | bip_39_word_space_0 | ['palm', 'common', 'amateur', 'extra', 'before', 'return', 'turtle', 'method', 'police', 'useful', 'lion', 'alarm'] |  
 | bip_39_word_space_1 | palm |  
 | bip_39_word_space_10 | palm common amateur extra before return turtle method police useful |  

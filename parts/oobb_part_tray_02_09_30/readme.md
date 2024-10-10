@@ -122,6 +122,18 @@ connect
 emotion
 stuff
 damage |  
+| bip_39_word_no_space_1 | corn |  
+| bip_39_word_no_space_10 | cornverifymarriagestockmatrixconnectemotionstuffdamageregular |  
+| bip_39_word_no_space_11 | cornverifymarriagestockmatrixconnectemotionstuffdamageregularmath |  
+| bip_39_word_no_space_12 | cornverifymarriagestockmatrixconnectemotionstuffdamageregularmathaverage |  
+| bip_39_word_no_space_2 | cornverify |  
+| bip_39_word_no_space_3 | cornverifymarriage |  
+| bip_39_word_no_space_4 | cornverifymarriagestock |  
+| bip_39_word_no_space_5 | cornverifymarriagestockmatrix |  
+| bip_39_word_no_space_6 | cornverifymarriagestockmatrixconnect |  
+| bip_39_word_no_space_7 | cornverifymarriagestockmatrixconnectemotion |  
+| bip_39_word_no_space_8 | cornverifymarriagestockmatrixconnectemotionstuff |  
+| bip_39_word_no_space_9 | cornverifymarriagestockmatrixconnectemotionstuffdamage |  
 | bip_39_word_space_0 | ['corn', 'verify', 'marriage', 'stock', 'matrix', 'connect', 'emotion', 'stuff', 'damage', 'regular', 'math', 'average'] |  
 | bip_39_word_space_1 | corn |  
 | bip_39_word_space_10 | corn verify marriage stock matrix connect emotion stuff damage regular |  

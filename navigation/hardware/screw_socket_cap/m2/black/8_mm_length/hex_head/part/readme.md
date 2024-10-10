@@ -122,6 +122,18 @@ snap
 twenty
 sentence
 enact |  
+| bip_39_word_no_space_1 | magnet |  
+| bip_39_word_no_space_10 | magnetinnocentsolveresponseassetsnaptwentysentenceenactwelcome |  
+| bip_39_word_no_space_11 | magnetinnocentsolveresponseassetsnaptwentysentenceenactwelcomeelbow |  
+| bip_39_word_no_space_12 | magnetinnocentsolveresponseassetsnaptwentysentenceenactwelcomeelbowalbum |  
+| bip_39_word_no_space_2 | magnetinnocent |  
+| bip_39_word_no_space_3 | magnetinnocentsolve |  
+| bip_39_word_no_space_4 | magnetinnocentsolveresponse |  
+| bip_39_word_no_space_5 | magnetinnocentsolveresponseasset |  
+| bip_39_word_no_space_6 | magnetinnocentsolveresponseassetsnap |  
+| bip_39_word_no_space_7 | magnetinnocentsolveresponseassetsnaptwenty |  
+| bip_39_word_no_space_8 | magnetinnocentsolveresponseassetsnaptwentysentence |  
+| bip_39_word_no_space_9 | magnetinnocentsolveresponseassetsnaptwentysentenceenact |  
 | bip_39_word_space_0 | ['magnet', 'innocent', 'solve', 'response', 'asset', 'snap', 'twenty', 'sentence', 'enact', 'welcome', 'elbow', 'album'] |  
 | bip_39_word_space_1 | magnet |  
 | bip_39_word_space_10 | magnet innocent solve response asset snap twenty sentence enact welcome |  

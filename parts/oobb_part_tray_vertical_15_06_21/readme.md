@@ -122,6 +122,18 @@ print
 sponsor
 mansion
 pause |  
+| bip_39_word_no_space_1 | next |  
+| bip_39_word_no_space_10 | nextglowtrophyborrowalreadyprintsponsormansionpauserabbit |  
+| bip_39_word_no_space_11 | nextglowtrophyborrowalreadyprintsponsormansionpauserabbitclog |  
+| bip_39_word_no_space_12 | nextglowtrophyborrowalreadyprintsponsormansionpauserabbitclogabout |  
+| bip_39_word_no_space_2 | nextglow |  
+| bip_39_word_no_space_3 | nextglowtrophy |  
+| bip_39_word_no_space_4 | nextglowtrophyborrow |  
+| bip_39_word_no_space_5 | nextglowtrophyborrowalready |  
+| bip_39_word_no_space_6 | nextglowtrophyborrowalreadyprint |  
+| bip_39_word_no_space_7 | nextglowtrophyborrowalreadyprintsponsor |  
+| bip_39_word_no_space_8 | nextglowtrophyborrowalreadyprintsponsormansion |  
+| bip_39_word_no_space_9 | nextglowtrophyborrowalreadyprintsponsormansionpause |  
 | bip_39_word_space_0 | ['next', 'glow', 'trophy', 'borrow', 'already', 'print', 'sponsor', 'mansion', 'pause', 'rabbit', 'clog', 'about'] |  
 | bip_39_word_space_1 | next |  
 | bip_39_word_space_10 | next glow trophy borrow already print sponsor mansion pause rabbit |  

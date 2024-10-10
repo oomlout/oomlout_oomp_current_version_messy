@@ -122,6 +122,18 @@ soldier
 august
 peasant
 video |  
+| bip_39_word_no_space_1 | fade |  
+| bip_39_word_no_space_10 | fadechestexcludetalenthawksoldieraugustpeasantvideotruth |  
+| bip_39_word_no_space_11 | fadechestexcludetalenthawksoldieraugustpeasantvideotruthfashion |  
+| bip_39_word_no_space_12 | fadechestexcludetalenthawksoldieraugustpeasantvideotruthfashionafford |  
+| bip_39_word_no_space_2 | fadechest |  
+| bip_39_word_no_space_3 | fadechestexclude |  
+| bip_39_word_no_space_4 | fadechestexcludetalent |  
+| bip_39_word_no_space_5 | fadechestexcludetalenthawk |  
+| bip_39_word_no_space_6 | fadechestexcludetalenthawksoldier |  
+| bip_39_word_no_space_7 | fadechestexcludetalenthawksoldieraugust |  
+| bip_39_word_no_space_8 | fadechestexcludetalenthawksoldieraugustpeasant |  
+| bip_39_word_no_space_9 | fadechestexcludetalenthawksoldieraugustpeasantvideo |  
 | bip_39_word_space_0 | ['fade', 'chest', 'exclude', 'talent', 'hawk', 'soldier', 'august', 'peasant', 'video', 'truth', 'fashion', 'afford'] |  
 | bip_39_word_space_1 | fade |  
 | bip_39_word_space_10 | fade chest exclude talent hawk soldier august peasant video truth |  

@@ -122,6 +122,18 @@ rate
 gauge
 lazy
 rebuild |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | deskbuyerfederalballunawarerategaugelazyrebuildmix |  
+| bip_39_word_no_space_11 | deskbuyerfederalballunawarerategaugelazyrebuildmixpatrol |  
+| bip_39_word_no_space_12 | deskbuyerfederalballunawarerategaugelazyrebuildmixpatrolabout |  
+| bip_39_word_no_space_2 | deskbuyer |  
+| bip_39_word_no_space_3 | deskbuyerfederal |  
+| bip_39_word_no_space_4 | deskbuyerfederalball |  
+| bip_39_word_no_space_5 | deskbuyerfederalballunaware |  
+| bip_39_word_no_space_6 | deskbuyerfederalballunawarerate |  
+| bip_39_word_no_space_7 | deskbuyerfederalballunawarerategauge |  
+| bip_39_word_no_space_8 | deskbuyerfederalballunawarerategaugelazy |  
+| bip_39_word_no_space_9 | deskbuyerfederalballunawarerategaugelazyrebuild |  
 | bip_39_word_space_0 | ['desk', 'buyer', 'federal', 'ball', 'unaware', 'rate', 'gauge', 'lazy', 'rebuild', 'mix', 'patrol', 'about'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk buyer federal ball unaware rate gauge lazy rebuild mix |  

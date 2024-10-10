@@ -122,6 +122,18 @@ coyote
 dawn
 camera
 grain |  
+| bip_39_word_no_space_1 | noise |  
+| bip_39_word_no_space_10 | noisepioneerachievelyricscerealcoyotedawncameragrainlanguage |  
+| bip_39_word_no_space_11 | noisepioneerachievelyricscerealcoyotedawncameragrainlanguagethat |  
+| bip_39_word_no_space_12 | noisepioneerachievelyricscerealcoyotedawncameragrainlanguagethatalley |  
+| bip_39_word_no_space_2 | noisepioneer |  
+| bip_39_word_no_space_3 | noisepioneerachieve |  
+| bip_39_word_no_space_4 | noisepioneerachievelyrics |  
+| bip_39_word_no_space_5 | noisepioneerachievelyricscereal |  
+| bip_39_word_no_space_6 | noisepioneerachievelyricscerealcoyote |  
+| bip_39_word_no_space_7 | noisepioneerachievelyricscerealcoyotedawn |  
+| bip_39_word_no_space_8 | noisepioneerachievelyricscerealcoyotedawncamera |  
+| bip_39_word_no_space_9 | noisepioneerachievelyricscerealcoyotedawncameragrain |  
 | bip_39_word_space_0 | ['noise', 'pioneer', 'achieve', 'lyrics', 'cereal', 'coyote', 'dawn', 'camera', 'grain', 'language', 'that', 'alley'] |  
 | bip_39_word_space_1 | noise |  
 | bip_39_word_space_10 | noise pioneer achieve lyrics cereal coyote dawn camera grain language |  

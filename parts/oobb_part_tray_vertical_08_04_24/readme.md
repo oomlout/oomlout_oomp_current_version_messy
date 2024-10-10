@@ -122,6 +122,18 @@ birth
 core
 tuition
 couch |  
+| bip_39_word_no_space_1 | pencil |  
+| bip_39_word_no_space_10 | pencilcountryvesselskirtmaximumbirthcoretuitioncouchawful |  
+| bip_39_word_no_space_11 | pencilcountryvesselskirtmaximumbirthcoretuitioncouchawfulbrain |  
+| bip_39_word_no_space_12 | pencilcountryvesselskirtmaximumbirthcoretuitioncouchawfulbrainall |  
+| bip_39_word_no_space_2 | pencilcountry |  
+| bip_39_word_no_space_3 | pencilcountryvessel |  
+| bip_39_word_no_space_4 | pencilcountryvesselskirt |  
+| bip_39_word_no_space_5 | pencilcountryvesselskirtmaximum |  
+| bip_39_word_no_space_6 | pencilcountryvesselskirtmaximumbirth |  
+| bip_39_word_no_space_7 | pencilcountryvesselskirtmaximumbirthcore |  
+| bip_39_word_no_space_8 | pencilcountryvesselskirtmaximumbirthcoretuition |  
+| bip_39_word_no_space_9 | pencilcountryvesselskirtmaximumbirthcoretuitioncouch |  
 | bip_39_word_space_0 | ['pencil', 'country', 'vessel', 'skirt', 'maximum', 'birth', 'core', 'tuition', 'couch', 'awful', 'brain', 'all'] |  
 | bip_39_word_space_1 | pencil |  
 | bip_39_word_space_10 | pencil country vessel skirt maximum birth core tuition couch awful |  

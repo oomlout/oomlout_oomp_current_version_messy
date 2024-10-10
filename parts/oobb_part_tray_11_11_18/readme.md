@@ -122,6 +122,18 @@ egg
 cute
 want
 artist |  
+| bip_39_word_no_space_1 | creek |  
+| bip_39_word_no_space_10 | creeksolargadgetmixturegossipeggcutewantartistsun |  
+| bip_39_word_no_space_11 | creeksolargadgetmixturegossipeggcutewantartistsunwheat |  
+| bip_39_word_no_space_12 | creeksolargadgetmixturegossipeggcutewantartistsunwheatartefact |  
+| bip_39_word_no_space_2 | creeksolar |  
+| bip_39_word_no_space_3 | creeksolargadget |  
+| bip_39_word_no_space_4 | creeksolargadgetmixture |  
+| bip_39_word_no_space_5 | creeksolargadgetmixturegossip |  
+| bip_39_word_no_space_6 | creeksolargadgetmixturegossipegg |  
+| bip_39_word_no_space_7 | creeksolargadgetmixturegossipeggcute |  
+| bip_39_word_no_space_8 | creeksolargadgetmixturegossipeggcutewant |  
+| bip_39_word_no_space_9 | creeksolargadgetmixturegossipeggcutewantartist |  
 | bip_39_word_space_0 | ['creek', 'solar', 'gadget', 'mixture', 'gossip', 'egg', 'cute', 'want', 'artist', 'sun', 'wheat', 'artefact'] |  
 | bip_39_word_space_1 | creek |  
 | bip_39_word_space_10 | creek solar gadget mixture gossip egg cute want artist sun |  

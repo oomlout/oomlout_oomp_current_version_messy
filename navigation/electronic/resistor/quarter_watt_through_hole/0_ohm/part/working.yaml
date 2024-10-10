@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ring
   yard
 
   hip'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringtigerpolegingerlawnnightstingyardhiptitle
+bip_39_word_no_space_11: ringtigerpolegingerlawnnightstingyardhiptitleremain
+bip_39_word_no_space_12: ringtigerpolegingerlawnnightstingyardhiptitleremainalways
+bip_39_word_no_space_2: ringtiger
+bip_39_word_no_space_3: ringtigerpole
+bip_39_word_no_space_4: ringtigerpoleginger
+bip_39_word_no_space_5: ringtigerpolegingerlawn
+bip_39_word_no_space_6: ringtigerpolegingerlawnnight
+bip_39_word_no_space_7: ringtigerpolegingerlawnnightsting
+bip_39_word_no_space_8: ringtigerpolegingerlawnnightstingyard
+bip_39_word_no_space_9: ringtigerpolegingerlawnnightstingyardhip
 bip_39_word_space_0:
 - ring
 - tiger

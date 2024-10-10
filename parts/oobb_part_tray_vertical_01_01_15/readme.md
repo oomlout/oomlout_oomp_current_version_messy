@@ -122,6 +122,18 @@ toe
 dash
 clutch
 need |  
+| bip_39_word_no_space_1 | differ |  
+| bip_39_word_no_space_10 | differagentostrichpleaseeagertoedashclutchneedsyrup |  
+| bip_39_word_no_space_11 | differagentostrichpleaseeagertoedashclutchneedsyrupmention |  
+| bip_39_word_no_space_12 | differagentostrichpleaseeagertoedashclutchneedsyrupmentionabout |  
+| bip_39_word_no_space_2 | differagent |  
+| bip_39_word_no_space_3 | differagentostrich |  
+| bip_39_word_no_space_4 | differagentostrichplease |  
+| bip_39_word_no_space_5 | differagentostrichpleaseeager |  
+| bip_39_word_no_space_6 | differagentostrichpleaseeagertoe |  
+| bip_39_word_no_space_7 | differagentostrichpleaseeagertoedash |  
+| bip_39_word_no_space_8 | differagentostrichpleaseeagertoedashclutch |  
+| bip_39_word_no_space_9 | differagentostrichpleaseeagertoedashclutchneed |  
 | bip_39_word_space_0 | ['differ', 'agent', 'ostrich', 'please', 'eager', 'toe', 'dash', 'clutch', 'need', 'syrup', 'mention', 'about'] |  
 | bip_39_word_space_1 | differ |  
 | bip_39_word_space_10 | differ agent ostrich please eager toe dash clutch need syrup |  

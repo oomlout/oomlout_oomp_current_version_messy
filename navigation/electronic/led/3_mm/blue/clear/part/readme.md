@@ -122,6 +122,18 @@ gate
 accuse
 viable
 sail |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagemimicarenaautumnweekendgateaccuseviablesailloop |  
+| bip_39_word_no_space_11 | cagemimicarenaautumnweekendgateaccuseviablesaillooplatin |  
+| bip_39_word_no_space_12 | cagemimicarenaautumnweekendgateaccuseviablesaillooplatinadmit |  
+| bip_39_word_no_space_2 | cagemimic |  
+| bip_39_word_no_space_3 | cagemimicarena |  
+| bip_39_word_no_space_4 | cagemimicarenaautumn |  
+| bip_39_word_no_space_5 | cagemimicarenaautumnweekend |  
+| bip_39_word_no_space_6 | cagemimicarenaautumnweekendgate |  
+| bip_39_word_no_space_7 | cagemimicarenaautumnweekendgateaccuse |  
+| bip_39_word_no_space_8 | cagemimicarenaautumnweekendgateaccuseviable |  
+| bip_39_word_no_space_9 | cagemimicarenaautumnweekendgateaccuseviablesail |  
 | bip_39_word_space_0 | ['cage', 'mimic', 'arena', 'autumn', 'weekend', 'gate', 'accuse', 'viable', 'sail', 'loop', 'latin', 'admit'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage mimic arena autumn weekend gate accuse viable sail loop |  

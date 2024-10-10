@@ -122,6 +122,18 @@ tower
 hospital
 lawn
 field |  
+| bip_39_word_no_space_1 | manual |  
+| bip_39_word_no_space_10 | manualmailsituatebleakrosetowerhospitallawnfieldnotice |  
+| bip_39_word_no_space_11 | manualmailsituatebleakrosetowerhospitallawnfieldnoticeextend |  
+| bip_39_word_no_space_12 | manualmailsituatebleakrosetowerhospitallawnfieldnoticeextendattack |  
+| bip_39_word_no_space_2 | manualmail |  
+| bip_39_word_no_space_3 | manualmailsituate |  
+| bip_39_word_no_space_4 | manualmailsituatebleak |  
+| bip_39_word_no_space_5 | manualmailsituatebleakrose |  
+| bip_39_word_no_space_6 | manualmailsituatebleakrosetower |  
+| bip_39_word_no_space_7 | manualmailsituatebleakrosetowerhospital |  
+| bip_39_word_no_space_8 | manualmailsituatebleakrosetowerhospitallawn |  
+| bip_39_word_no_space_9 | manualmailsituatebleakrosetowerhospitallawnfield |  
 | bip_39_word_space_0 | ['manual', 'mail', 'situate', 'bleak', 'rose', 'tower', 'hospital', 'lawn', 'field', 'notice', 'extend', 'attack'] |  
 | bip_39_word_space_1 | manual |  
 | bip_39_word_space_10 | manual mail situate bleak rose tower hospital lawn field notice |  

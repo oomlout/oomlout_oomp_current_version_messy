@@ -122,6 +122,18 @@ scene
 mask
 young
 nest |  
+| bip_39_word_no_space_1 | guess |  
+| bip_39_word_no_space_10 | guessfilegirlshieldgunscenemaskyoungnestcome |  
+| bip_39_word_no_space_11 | guessfilegirlshieldgunscenemaskyoungnestcomebreeze |  
+| bip_39_word_no_space_12 | guessfilegirlshieldgunscenemaskyoungnestcomebreezeancient |  
+| bip_39_word_no_space_2 | guessfile |  
+| bip_39_word_no_space_3 | guessfilegirl |  
+| bip_39_word_no_space_4 | guessfilegirlshield |  
+| bip_39_word_no_space_5 | guessfilegirlshieldgun |  
+| bip_39_word_no_space_6 | guessfilegirlshieldgunscene |  
+| bip_39_word_no_space_7 | guessfilegirlshieldgunscenemask |  
+| bip_39_word_no_space_8 | guessfilegirlshieldgunscenemaskyoung |  
+| bip_39_word_no_space_9 | guessfilegirlshieldgunscenemaskyoungnest |  
 | bip_39_word_space_0 | ['guess', 'file', 'girl', 'shield', 'gun', 'scene', 'mask', 'young', 'nest', 'come', 'breeze', 'ancient'] |  
 | bip_39_word_space_1 | guess |  
 | bip_39_word_space_10 | guess file girl shield gun scene mask young nest come |  

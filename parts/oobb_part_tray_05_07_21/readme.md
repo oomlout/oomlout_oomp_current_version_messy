@@ -122,6 +122,18 @@ stool
 chase
 above
 light |  
+| bip_39_word_no_space_1 | ice |  
+| bip_39_word_no_space_10 | iceremainrocketoliveeitherstoolchaseabovelighttrust |  
+| bip_39_word_no_space_11 | iceremainrocketoliveeitherstoolchaseabovelighttrustexpose |  
+| bip_39_word_no_space_12 | iceremainrocketoliveeitherstoolchaseabovelighttrustexposeattract |  
+| bip_39_word_no_space_2 | iceremain |  
+| bip_39_word_no_space_3 | iceremainrocket |  
+| bip_39_word_no_space_4 | iceremainrocketolive |  
+| bip_39_word_no_space_5 | iceremainrocketoliveeither |  
+| bip_39_word_no_space_6 | iceremainrocketoliveeitherstool |  
+| bip_39_word_no_space_7 | iceremainrocketoliveeitherstoolchase |  
+| bip_39_word_no_space_8 | iceremainrocketoliveeitherstoolchaseabove |  
+| bip_39_word_no_space_9 | iceremainrocketoliveeitherstoolchaseabovelight |  
 | bip_39_word_space_0 | ['ice', 'remain', 'rocket', 'olive', 'either', 'stool', 'chase', 'above', 'light', 'trust', 'expose', 'attract'] |  
 | bip_39_word_space_1 | ice |  
 | bip_39_word_space_10 | ice remain rocket olive either stool chase above light trust |  

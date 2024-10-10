@@ -122,6 +122,18 @@ notable
 abstract
 claw
 boil |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemsoccerpushpeanutpizzanotableabstractclawboilappear |  
+| bip_39_word_no_space_11 | itemsoccerpushpeanutpizzanotableabstractclawboilappearvapor |  
+| bip_39_word_no_space_12 | itemsoccerpushpeanutpizzanotableabstractclawboilappearvaporacross |  
+| bip_39_word_no_space_2 | itemsoccer |  
+| bip_39_word_no_space_3 | itemsoccerpush |  
+| bip_39_word_no_space_4 | itemsoccerpushpeanut |  
+| bip_39_word_no_space_5 | itemsoccerpushpeanutpizza |  
+| bip_39_word_no_space_6 | itemsoccerpushpeanutpizzanotable |  
+| bip_39_word_no_space_7 | itemsoccerpushpeanutpizzanotableabstract |  
+| bip_39_word_no_space_8 | itemsoccerpushpeanutpizzanotableabstractclaw |  
+| bip_39_word_no_space_9 | itemsoccerpushpeanutpizzanotableabstractclawboil |  
 | bip_39_word_space_0 | ['item', 'soccer', 'push', 'peanut', 'pizza', 'notable', 'abstract', 'claw', 'boil', 'appear', 'vapor', 'across'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item soccer push peanut pizza notable abstract claw boil appear |  

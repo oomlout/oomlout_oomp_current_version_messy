@@ -122,6 +122,18 @@ discover
 scale
 drastic
 happy |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountainbombtwentyvisawinnerdiscoverscaledrastichappycheese |  
+| bip_39_word_no_space_11 | mountainbombtwentyvisawinnerdiscoverscaledrastichappycheeseinhale |  
+| bip_39_word_no_space_12 | mountainbombtwentyvisawinnerdiscoverscaledrastichappycheeseinhaleaction |  
+| bip_39_word_no_space_2 | mountainbomb |  
+| bip_39_word_no_space_3 | mountainbombtwenty |  
+| bip_39_word_no_space_4 | mountainbombtwentyvisa |  
+| bip_39_word_no_space_5 | mountainbombtwentyvisawinner |  
+| bip_39_word_no_space_6 | mountainbombtwentyvisawinnerdiscover |  
+| bip_39_word_no_space_7 | mountainbombtwentyvisawinnerdiscoverscale |  
+| bip_39_word_no_space_8 | mountainbombtwentyvisawinnerdiscoverscaledrastic |  
+| bip_39_word_no_space_9 | mountainbombtwentyvisawinnerdiscoverscaledrastichappy |  
 | bip_39_word_space_0 | ['mountain', 'bomb', 'twenty', 'visa', 'winner', 'discover', 'scale', 'drastic', 'happy', 'cheese', 'inhale', 'action'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain bomb twenty visa winner discover scale drastic happy cheese |  

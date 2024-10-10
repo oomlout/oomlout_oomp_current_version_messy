@@ -122,6 +122,18 @@ circle
 zone
 chair
 situate |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jewelwristzooextralimbcirclezonechairsituateshove |  
+| bip_39_word_no_space_11 | jewelwristzooextralimbcirclezonechairsituateshovegaze |  
+| bip_39_word_no_space_12 | jewelwristzooextralimbcirclezonechairsituateshovegazeability |  
+| bip_39_word_no_space_2 | jewelwrist |  
+| bip_39_word_no_space_3 | jewelwristzoo |  
+| bip_39_word_no_space_4 | jewelwristzooextra |  
+| bip_39_word_no_space_5 | jewelwristzooextralimb |  
+| bip_39_word_no_space_6 | jewelwristzooextralimbcircle |  
+| bip_39_word_no_space_7 | jewelwristzooextralimbcirclezone |  
+| bip_39_word_no_space_8 | jewelwristzooextralimbcirclezonechair |  
+| bip_39_word_no_space_9 | jewelwristzooextralimbcirclezonechairsituate |  
 | bip_39_word_space_0 | ['jewel', 'wrist', 'zoo', 'extra', 'limb', 'circle', 'zone', 'chair', 'situate', 'shove', 'gaze', 'ability'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel wrist zoo extra limb circle zone chair situate shove |  

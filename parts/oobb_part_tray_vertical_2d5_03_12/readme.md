@@ -122,6 +122,18 @@ drill
 source
 exist
 bottom |  
+| bip_39_word_no_space_1 | renew |  
+| bip_39_word_no_space_10 | renewfoundsteelmusicdefydrillsourceexistbottomoutside |  
+| bip_39_word_no_space_11 | renewfoundsteelmusicdefydrillsourceexistbottomoutsideshort |  
+| bip_39_word_no_space_12 | renewfoundsteelmusicdefydrillsourceexistbottomoutsideshortapple |  
+| bip_39_word_no_space_2 | renewfound |  
+| bip_39_word_no_space_3 | renewfoundsteel |  
+| bip_39_word_no_space_4 | renewfoundsteelmusic |  
+| bip_39_word_no_space_5 | renewfoundsteelmusicdefy |  
+| bip_39_word_no_space_6 | renewfoundsteelmusicdefydrill |  
+| bip_39_word_no_space_7 | renewfoundsteelmusicdefydrillsource |  
+| bip_39_word_no_space_8 | renewfoundsteelmusicdefydrillsourceexist |  
+| bip_39_word_no_space_9 | renewfoundsteelmusicdefydrillsourceexistbottom |  
 | bip_39_word_space_0 | ['renew', 'found', 'steel', 'music', 'defy', 'drill', 'source', 'exist', 'bottom', 'outside', 'short', 'apple'] |  
 | bip_39_word_space_1 | renew |  
 | bip_39_word_space_10 | renew found steel music defy drill source exist bottom outside |  

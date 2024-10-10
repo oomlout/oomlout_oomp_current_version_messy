@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'field
   near
 
   twin'
+bip_39_word_no_space_1: field
+bip_39_word_no_space_10: fieldmethodunhappywrapretirefreshflashneartwinheart
+bip_39_word_no_space_11: fieldmethodunhappywrapretirefreshflashneartwinhearthand
+bip_39_word_no_space_12: fieldmethodunhappywrapretirefreshflashneartwinhearthandalready
+bip_39_word_no_space_2: fieldmethod
+bip_39_word_no_space_3: fieldmethodunhappy
+bip_39_word_no_space_4: fieldmethodunhappywrap
+bip_39_word_no_space_5: fieldmethodunhappywrapretire
+bip_39_word_no_space_6: fieldmethodunhappywrapretirefresh
+bip_39_word_no_space_7: fieldmethodunhappywrapretirefreshflash
+bip_39_word_no_space_8: fieldmethodunhappywrapretirefreshflashnear
+bip_39_word_no_space_9: fieldmethodunhappywrapretirefreshflashneartwin
 bip_39_word_space_0:
 - field
 - method

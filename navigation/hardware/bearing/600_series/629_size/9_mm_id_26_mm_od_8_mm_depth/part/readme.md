@@ -122,6 +122,18 @@ door
 minor
 eye
 flush |  
+| bip_39_word_no_space_1 | warm |  
+| bip_39_word_no_space_10 | warmnutvisitjeansradardoorminoreyeflushtown |  
+| bip_39_word_no_space_11 | warmnutvisitjeansradardoorminoreyeflushtownturn |  
+| bip_39_word_no_space_12 | warmnutvisitjeansradardoorminoreyeflushtownturnappear |  
+| bip_39_word_no_space_2 | warmnut |  
+| bip_39_word_no_space_3 | warmnutvisit |  
+| bip_39_word_no_space_4 | warmnutvisitjeans |  
+| bip_39_word_no_space_5 | warmnutvisitjeansradar |  
+| bip_39_word_no_space_6 | warmnutvisitjeansradardoor |  
+| bip_39_word_no_space_7 | warmnutvisitjeansradardoorminor |  
+| bip_39_word_no_space_8 | warmnutvisitjeansradardoorminoreye |  
+| bip_39_word_no_space_9 | warmnutvisitjeansradardoorminoreyeflush |  
 | bip_39_word_space_0 | ['warm', 'nut', 'visit', 'jeans', 'radar', 'door', 'minor', 'eye', 'flush', 'town', 'turn', 'appear'] |  
 | bip_39_word_space_1 | warm |  
 | bip_39_word_space_10 | warm nut visit jeans radar door minor eye flush town |  

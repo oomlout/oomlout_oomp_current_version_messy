@@ -122,6 +122,18 @@ verify
 gadget
 deputy
 winner |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitcoinharborfoxdecorateverifygadgetdeputywinnerexpose |  
+| bip_39_word_no_space_11 | limitcoinharborfoxdecorateverifygadgetdeputywinnerexposetortoise |  
+| bip_39_word_no_space_12 | limitcoinharborfoxdecorateverifygadgetdeputywinnerexposetortoiseabsorb |  
+| bip_39_word_no_space_2 | limitcoin |  
+| bip_39_word_no_space_3 | limitcoinharbor |  
+| bip_39_word_no_space_4 | limitcoinharborfox |  
+| bip_39_word_no_space_5 | limitcoinharborfoxdecorate |  
+| bip_39_word_no_space_6 | limitcoinharborfoxdecorateverify |  
+| bip_39_word_no_space_7 | limitcoinharborfoxdecorateverifygadget |  
+| bip_39_word_no_space_8 | limitcoinharborfoxdecorateverifygadgetdeputy |  
+| bip_39_word_no_space_9 | limitcoinharborfoxdecorateverifygadgetdeputywinner |  
 | bip_39_word_space_0 | ['limit', 'coin', 'harbor', 'fox', 'decorate', 'verify', 'gadget', 'deputy', 'winner', 'expose', 'tortoise', 'absorb'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit coin harbor fox decorate verify gadget deputy winner expose |  

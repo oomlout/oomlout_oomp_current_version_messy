@@ -122,6 +122,18 @@ eager
 solve
 dish
 debris |  
+| bip_39_word_no_space_1 | strong |  
+| bip_39_word_no_space_10 | strongseminarpeasantplanetafraideagersolvedishdebrispiece |  
+| bip_39_word_no_space_11 | strongseminarpeasantplanetafraideagersolvedishdebrispiecepencil |  
+| bip_39_word_no_space_12 | strongseminarpeasantplanetafraideagersolvedishdebrispiecepencilall |  
+| bip_39_word_no_space_2 | strongseminar |  
+| bip_39_word_no_space_3 | strongseminarpeasant |  
+| bip_39_word_no_space_4 | strongseminarpeasantplanet |  
+| bip_39_word_no_space_5 | strongseminarpeasantplanetafraid |  
+| bip_39_word_no_space_6 | strongseminarpeasantplanetafraideager |  
+| bip_39_word_no_space_7 | strongseminarpeasantplanetafraideagersolve |  
+| bip_39_word_no_space_8 | strongseminarpeasantplanetafraideagersolvedish |  
+| bip_39_word_no_space_9 | strongseminarpeasantplanetafraideagersolvedishdebris |  
 | bip_39_word_space_0 | ['strong', 'seminar', 'peasant', 'planet', 'afraid', 'eager', 'solve', 'dish', 'debris', 'piece', 'pencil', 'all'] |  
 | bip_39_word_space_1 | strong |  
 | bip_39_word_space_10 | strong seminar peasant planet afraid eager solve dish debris piece |  

@@ -122,6 +122,18 @@ then
 airport
 soon
 pulse |  
+| bip_39_word_no_space_1 | disorder |  
+| bip_39_word_no_space_10 | disordertunnelbracketchefthenthenairportsoonpulsepredict |  
+| bip_39_word_no_space_11 | disordertunnelbracketchefthenthenairportsoonpulsepredictdraft |  
+| bip_39_word_no_space_12 | disordertunnelbracketchefthenthenairportsoonpulsepredictdraftabsurd |  
+| bip_39_word_no_space_2 | disordertunnel |  
+| bip_39_word_no_space_3 | disordertunnelbracket |  
+| bip_39_word_no_space_4 | disordertunnelbracketchef |  
+| bip_39_word_no_space_5 | disordertunnelbracketchefthen |  
+| bip_39_word_no_space_6 | disordertunnelbracketchefthenthen |  
+| bip_39_word_no_space_7 | disordertunnelbracketchefthenthenairport |  
+| bip_39_word_no_space_8 | disordertunnelbracketchefthenthenairportsoon |  
+| bip_39_word_no_space_9 | disordertunnelbracketchefthenthenairportsoonpulse |  
 | bip_39_word_space_0 | ['disorder', 'tunnel', 'bracket', 'chef', 'then', 'then', 'airport', 'soon', 'pulse', 'predict', 'draft', 'absurd'] |  
 | bip_39_word_space_1 | disorder |  
 | bip_39_word_space_10 | disorder tunnel bracket chef then then airport soon pulse predict |  

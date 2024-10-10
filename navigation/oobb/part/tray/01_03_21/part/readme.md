@@ -122,6 +122,18 @@ essay
 cheap
 dilemma
 mail |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validshovelaundryprovidestickessaycheapdilemmamailopinion |  
+| bip_39_word_no_space_11 | validshovelaundryprovidestickessaycheapdilemmamailopinionvenue |  
+| bip_39_word_no_space_12 | validshovelaundryprovidestickessaycheapdilemmamailopinionvenueatom |  
+| bip_39_word_no_space_2 | validshove |  
+| bip_39_word_no_space_3 | validshovelaundry |  
+| bip_39_word_no_space_4 | validshovelaundryprovide |  
+| bip_39_word_no_space_5 | validshovelaundryprovidestick |  
+| bip_39_word_no_space_6 | validshovelaundryprovidestickessay |  
+| bip_39_word_no_space_7 | validshovelaundryprovidestickessaycheap |  
+| bip_39_word_no_space_8 | validshovelaundryprovidestickessaycheapdilemma |  
+| bip_39_word_no_space_9 | validshovelaundryprovidestickessaycheapdilemmamail |  
 | bip_39_word_space_0 | ['valid', 'shove', 'laundry', 'provide', 'stick', 'essay', 'cheap', 'dilemma', 'mail', 'opinion', 'venue', 'atom'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid shove laundry provide stick essay cheap dilemma mail opinion |  

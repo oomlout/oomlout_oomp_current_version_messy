@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'arm
   great
 
   endless'
+bip_39_word_no_space_1: arm
+bip_39_word_no_space_10: armdoorguiltsecrettrayfunnycurtaingreatendlessgiggle
+bip_39_word_no_space_11: armdoorguiltsecrettrayfunnycurtaingreatendlessgiggleearth
+bip_39_word_no_space_12: armdoorguiltsecrettrayfunnycurtaingreatendlessgiggleearthamazing
+bip_39_word_no_space_2: armdoor
+bip_39_word_no_space_3: armdoorguilt
+bip_39_word_no_space_4: armdoorguiltsecret
+bip_39_word_no_space_5: armdoorguiltsecrettray
+bip_39_word_no_space_6: armdoorguiltsecrettrayfunny
+bip_39_word_no_space_7: armdoorguiltsecrettrayfunnycurtain
+bip_39_word_no_space_8: armdoorguiltsecrettrayfunnycurtaingreat
+bip_39_word_no_space_9: armdoorguiltsecrettrayfunnycurtaingreatendless
 bip_39_word_space_0:
 - arm
 - door

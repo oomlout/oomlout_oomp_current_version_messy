@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'correct
   pond
 
   pen'
+bip_39_word_no_space_1: correct
+bip_39_word_no_space_10: correctnorthraresuccesspridebulbpatrolpondpenkid
+bip_39_word_no_space_11: correctnorthraresuccesspridebulbpatrolpondpenkidzoo
+bip_39_word_no_space_12: correctnorthraresuccesspridebulbpatrolpondpenkidzooarena
+bip_39_word_no_space_2: correctnorth
+bip_39_word_no_space_3: correctnorthrare
+bip_39_word_no_space_4: correctnorthraresuccess
+bip_39_word_no_space_5: correctnorthraresuccesspride
+bip_39_word_no_space_6: correctnorthraresuccesspridebulb
+bip_39_word_no_space_7: correctnorthraresuccesspridebulbpatrol
+bip_39_word_no_space_8: correctnorthraresuccesspridebulbpatrolpond
+bip_39_word_no_space_9: correctnorthraresuccesspridebulbpatrolpondpen
 bip_39_word_space_0:
 - correct
 - north

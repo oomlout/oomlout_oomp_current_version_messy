@@ -122,6 +122,18 @@ cloud
 cloth
 twenty
 price |  
+| bip_39_word_no_space_1 | magnet |  
+| bip_39_word_no_space_10 | magnetgentlecriticpraisearmcloudclothtwentypricemath |  
+| bip_39_word_no_space_11 | magnetgentlecriticpraisearmcloudclothtwentypricemathchild |  
+| bip_39_word_no_space_12 | magnetgentlecriticpraisearmcloudclothtwentypricemathchildaerobic |  
+| bip_39_word_no_space_2 | magnetgentle |  
+| bip_39_word_no_space_3 | magnetgentlecritic |  
+| bip_39_word_no_space_4 | magnetgentlecriticpraise |  
+| bip_39_word_no_space_5 | magnetgentlecriticpraisearm |  
+| bip_39_word_no_space_6 | magnetgentlecriticpraisearmcloud |  
+| bip_39_word_no_space_7 | magnetgentlecriticpraisearmcloudcloth |  
+| bip_39_word_no_space_8 | magnetgentlecriticpraisearmcloudclothtwenty |  
+| bip_39_word_no_space_9 | magnetgentlecriticpraisearmcloudclothtwentyprice |  
 | bip_39_word_space_0 | ['magnet', 'gentle', 'critic', 'praise', 'arm', 'cloud', 'cloth', 'twenty', 'price', 'math', 'child', 'aerobic'] |  
 | bip_39_word_space_1 | magnet |  
 | bip_39_word_space_10 | magnet gentle critic praise arm cloud cloth twenty price math |  

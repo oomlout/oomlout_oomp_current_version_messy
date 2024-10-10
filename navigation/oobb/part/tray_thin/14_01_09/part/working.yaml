@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'asthma
   possible
 
   mountain'
+bip_39_word_no_space_1: asthma
+bip_39_word_no_space_10: asthmacrushchatenjoywagesleeptrypossiblemountaindebris
+bip_39_word_no_space_11: asthmacrushchatenjoywagesleeptrypossiblemountaindebristoday
+bip_39_word_no_space_12: asthmacrushchatenjoywagesleeptrypossiblemountaindebristodayalien
+bip_39_word_no_space_2: asthmacrush
+bip_39_word_no_space_3: asthmacrushchat
+bip_39_word_no_space_4: asthmacrushchatenjoy
+bip_39_word_no_space_5: asthmacrushchatenjoywage
+bip_39_word_no_space_6: asthmacrushchatenjoywagesleep
+bip_39_word_no_space_7: asthmacrushchatenjoywagesleeptry
+bip_39_word_no_space_8: asthmacrushchatenjoywagesleeptrypossible
+bip_39_word_no_space_9: asthmacrushchatenjoywagesleeptrypossiblemountain
 bip_39_word_space_0:
 - asthma
 - crush

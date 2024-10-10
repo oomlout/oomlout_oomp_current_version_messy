@@ -122,6 +122,18 @@ prison
 electric
 raise
 wood |  
+| bip_39_word_no_space_1 | enroll |  
+| bip_39_word_no_space_10 | enrolltraytilttrainzooprisonelectricraisewoodcushion |  
+| bip_39_word_no_space_11 | enrolltraytilttrainzooprisonelectricraisewoodcushiongreen |  
+| bip_39_word_no_space_12 | enrolltraytilttrainzooprisonelectricraisewoodcushiongreenaverage |  
+| bip_39_word_no_space_2 | enrolltray |  
+| bip_39_word_no_space_3 | enrolltraytilt |  
+| bip_39_word_no_space_4 | enrolltraytilttrain |  
+| bip_39_word_no_space_5 | enrolltraytilttrainzoo |  
+| bip_39_word_no_space_6 | enrolltraytilttrainzooprison |  
+| bip_39_word_no_space_7 | enrolltraytilttrainzooprisonelectric |  
+| bip_39_word_no_space_8 | enrolltraytilttrainzooprisonelectricraise |  
+| bip_39_word_no_space_9 | enrolltraytilttrainzooprisonelectricraisewood |  
 | bip_39_word_space_0 | ['enroll', 'tray', 'tilt', 'train', 'zoo', 'prison', 'electric', 'raise', 'wood', 'cushion', 'green', 'average'] |  
 | bip_39_word_space_1 | enroll |  
 | bip_39_word_space_10 | enroll tray tilt train zoo prison electric raise wood cushion |  

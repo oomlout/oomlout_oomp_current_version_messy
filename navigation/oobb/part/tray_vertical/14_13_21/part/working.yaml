@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'render
   move
 
   tide'
+bip_39_word_no_space_1: render
+bip_39_word_no_space_10: renderwhipspatialboxacidfashionparentmovetideegg
+bip_39_word_no_space_11: renderwhipspatialboxacidfashionparentmovetideeggexcess
+bip_39_word_no_space_12: renderwhipspatialboxacidfashionparentmovetideeggexcessanchor
+bip_39_word_no_space_2: renderwhip
+bip_39_word_no_space_3: renderwhipspatial
+bip_39_word_no_space_4: renderwhipspatialbox
+bip_39_word_no_space_5: renderwhipspatialboxacid
+bip_39_word_no_space_6: renderwhipspatialboxacidfashion
+bip_39_word_no_space_7: renderwhipspatialboxacidfashionparent
+bip_39_word_no_space_8: renderwhipspatialboxacidfashionparentmove
+bip_39_word_no_space_9: renderwhipspatialboxacidfashionparentmovetide
 bip_39_word_space_0:
 - render
 - whip

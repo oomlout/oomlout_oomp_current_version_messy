@@ -122,6 +122,18 @@ brown
 dizzy
 latin
 february |  
+| bip_39_word_no_space_1 | tomorrow |  
+| bip_39_word_no_space_10 | tomorrowsuitcommonclocklivebrowndizzylatinfebruaryweapon |  
+| bip_39_word_no_space_11 | tomorrowsuitcommonclocklivebrowndizzylatinfebruaryweapononion |  
+| bip_39_word_no_space_12 | tomorrowsuitcommonclocklivebrowndizzylatinfebruaryweapononionauction |  
+| bip_39_word_no_space_2 | tomorrowsuit |  
+| bip_39_word_no_space_3 | tomorrowsuitcommon |  
+| bip_39_word_no_space_4 | tomorrowsuitcommonclock |  
+| bip_39_word_no_space_5 | tomorrowsuitcommonclocklive |  
+| bip_39_word_no_space_6 | tomorrowsuitcommonclocklivebrown |  
+| bip_39_word_no_space_7 | tomorrowsuitcommonclocklivebrowndizzy |  
+| bip_39_word_no_space_8 | tomorrowsuitcommonclocklivebrowndizzylatin |  
+| bip_39_word_no_space_9 | tomorrowsuitcommonclocklivebrowndizzylatinfebruary |  
 | bip_39_word_space_0 | ['tomorrow', 'suit', 'common', 'clock', 'live', 'brown', 'dizzy', 'latin', 'february', 'weapon', 'onion', 'auction'] |  
 | bip_39_word_space_1 | tomorrow |  
 | bip_39_word_space_10 | tomorrow suit common clock live brown dizzy latin february weapon |  

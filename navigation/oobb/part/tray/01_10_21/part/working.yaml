@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bridge
   element
 
   mix'
+bip_39_word_no_space_1: bridge
+bip_39_word_no_space_10: bridgecaselegconductunveilsentencecanelementmixartefact
+bip_39_word_no_space_11: bridgecaselegconductunveilsentencecanelementmixartefactcentury
+bip_39_word_no_space_12: bridgecaselegconductunveilsentencecanelementmixartefactcenturyarctic
+bip_39_word_no_space_2: bridgecase
+bip_39_word_no_space_3: bridgecaseleg
+bip_39_word_no_space_4: bridgecaselegconduct
+bip_39_word_no_space_5: bridgecaselegconductunveil
+bip_39_word_no_space_6: bridgecaselegconductunveilsentence
+bip_39_word_no_space_7: bridgecaselegconductunveilsentencecan
+bip_39_word_no_space_8: bridgecaselegconductunveilsentencecanelement
+bip_39_word_no_space_9: bridgecaselegconductunveilsentencecanelementmix
 bip_39_word_space_0:
 - bridge
 - case

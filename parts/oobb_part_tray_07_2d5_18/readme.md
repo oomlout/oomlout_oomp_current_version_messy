@@ -122,6 +122,18 @@ dumb
 elephant
 frost
 dish |  
+| bip_39_word_no_space_1 | strategy |  
+| bip_39_word_no_space_10 | strategysauceburdentackleintactdumbelephantfrostdishmorning |  
+| bip_39_word_no_space_11 | strategysauceburdentackleintactdumbelephantfrostdishmorningloop |  
+| bip_39_word_no_space_12 | strategysauceburdentackleintactdumbelephantfrostdishmorningloopabsorb |  
+| bip_39_word_no_space_2 | strategysauce |  
+| bip_39_word_no_space_3 | strategysauceburden |  
+| bip_39_word_no_space_4 | strategysauceburdentackle |  
+| bip_39_word_no_space_5 | strategysauceburdentackleintact |  
+| bip_39_word_no_space_6 | strategysauceburdentackleintactdumb |  
+| bip_39_word_no_space_7 | strategysauceburdentackleintactdumbelephant |  
+| bip_39_word_no_space_8 | strategysauceburdentackleintactdumbelephantfrost |  
+| bip_39_word_no_space_9 | strategysauceburdentackleintactdumbelephantfrostdish |  
 | bip_39_word_space_0 | ['strategy', 'sauce', 'burden', 'tackle', 'intact', 'dumb', 'elephant', 'frost', 'dish', 'morning', 'loop', 'absorb'] |  
 | bip_39_word_space_1 | strategy |  
 | bip_39_word_space_10 | strategy sauce burden tackle intact dumb elephant frost dish morning |  

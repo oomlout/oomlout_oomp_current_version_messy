@@ -122,6 +122,18 @@ catch
 suffer
 general
 black |  
+| bip_39_word_no_space_1 | buyer |  
+| bip_39_word_no_space_10 | buyerpencilorangeusualpuddingcatchsuffergeneralblacksymptom |  
+| bip_39_word_no_space_11 | buyerpencilorangeusualpuddingcatchsuffergeneralblacksymptomfind |  
+| bip_39_word_no_space_12 | buyerpencilorangeusualpuddingcatchsuffergeneralblacksymptomfindancient |  
+| bip_39_word_no_space_2 | buyerpencil |  
+| bip_39_word_no_space_3 | buyerpencilorange |  
+| bip_39_word_no_space_4 | buyerpencilorangeusual |  
+| bip_39_word_no_space_5 | buyerpencilorangeusualpudding |  
+| bip_39_word_no_space_6 | buyerpencilorangeusualpuddingcatch |  
+| bip_39_word_no_space_7 | buyerpencilorangeusualpuddingcatchsuffer |  
+| bip_39_word_no_space_8 | buyerpencilorangeusualpuddingcatchsuffergeneral |  
+| bip_39_word_no_space_9 | buyerpencilorangeusualpuddingcatchsuffergeneralblack |  
 | bip_39_word_space_0 | ['buyer', 'pencil', 'orange', 'usual', 'pudding', 'catch', 'suffer', 'general', 'black', 'symptom', 'find', 'ancient'] |  
 | bip_39_word_space_1 | buyer |  
 | bip_39_word_space_10 | buyer pencil orange usual pudding catch suffer general black symptom |  

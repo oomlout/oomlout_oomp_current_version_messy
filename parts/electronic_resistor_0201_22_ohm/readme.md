@@ -122,6 +122,18 @@ steak
 invite
 slide
 supreme |  
+| bip_39_word_no_space_1 | dignity |  
+| bip_39_word_no_space_10 | dignityfoammoraldebateluckysteakinviteslidesupremeraise |  
+| bip_39_word_no_space_11 | dignityfoammoraldebateluckysteakinviteslidesupremeraiseannual |  
+| bip_39_word_no_space_12 | dignityfoammoraldebateluckysteakinviteslidesupremeraiseannualamateur |  
+| bip_39_word_no_space_2 | dignityfoam |  
+| bip_39_word_no_space_3 | dignityfoammoral |  
+| bip_39_word_no_space_4 | dignityfoammoraldebate |  
+| bip_39_word_no_space_5 | dignityfoammoraldebatelucky |  
+| bip_39_word_no_space_6 | dignityfoammoraldebateluckysteak |  
+| bip_39_word_no_space_7 | dignityfoammoraldebateluckysteakinvite |  
+| bip_39_word_no_space_8 | dignityfoammoraldebateluckysteakinviteslide |  
+| bip_39_word_no_space_9 | dignityfoammoraldebateluckysteakinviteslidesupreme |  
 | bip_39_word_space_0 | ['dignity', 'foam', 'moral', 'debate', 'lucky', 'steak', 'invite', 'slide', 'supreme', 'raise', 'annual', 'amateur'] |  
 | bip_39_word_space_1 | dignity |  
 | bip_39_word_space_10 | dignity foam moral debate lucky steak invite slide supreme raise |  

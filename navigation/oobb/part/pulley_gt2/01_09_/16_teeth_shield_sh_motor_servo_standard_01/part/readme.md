@@ -122,6 +122,18 @@ scissors
 crater
 call
 debate |  
+| bip_39_word_no_space_1 | lumber |  
+| bip_39_word_no_space_10 | lumberwidthtuitionwalknursescissorscratercalldebatedrama |  
+| bip_39_word_no_space_11 | lumberwidthtuitionwalknursescissorscratercalldebatedramadial |  
+| bip_39_word_no_space_12 | lumberwidthtuitionwalknursescissorscratercalldebatedramadialask |  
+| bip_39_word_no_space_2 | lumberwidth |  
+| bip_39_word_no_space_3 | lumberwidthtuition |  
+| bip_39_word_no_space_4 | lumberwidthtuitionwalk |  
+| bip_39_word_no_space_5 | lumberwidthtuitionwalknurse |  
+| bip_39_word_no_space_6 | lumberwidthtuitionwalknursescissors |  
+| bip_39_word_no_space_7 | lumberwidthtuitionwalknursescissorscrater |  
+| bip_39_word_no_space_8 | lumberwidthtuitionwalknursescissorscratercall |  
+| bip_39_word_no_space_9 | lumberwidthtuitionwalknursescissorscratercalldebate |  
 | bip_39_word_space_0 | ['lumber', 'width', 'tuition', 'walk', 'nurse', 'scissors', 'crater', 'call', 'debate', 'drama', 'dial', 'ask'] |  
 | bip_39_word_space_1 | lumber |  
 | bip_39_word_space_10 | lumber width tuition walk nurse scissors crater call debate drama |  

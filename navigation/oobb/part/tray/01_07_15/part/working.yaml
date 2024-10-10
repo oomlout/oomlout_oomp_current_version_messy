@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'uniform
   sentence
 
   viable'
+bip_39_word_no_space_1: uniform
+bip_39_word_no_space_10: uniformcartexpresssolvenuthavephrasesentenceviableramp
+bip_39_word_no_space_11: uniformcartexpresssolvenuthavephrasesentenceviableramplive
+bip_39_word_no_space_12: uniformcartexpresssolvenuthavephrasesentenceviablerampliveall
+bip_39_word_no_space_2: uniformcart
+bip_39_word_no_space_3: uniformcartexpress
+bip_39_word_no_space_4: uniformcartexpresssolve
+bip_39_word_no_space_5: uniformcartexpresssolvenut
+bip_39_word_no_space_6: uniformcartexpresssolvenuthave
+bip_39_word_no_space_7: uniformcartexpresssolvenuthavephrase
+bip_39_word_no_space_8: uniformcartexpresssolvenuthavephrasesentence
+bip_39_word_no_space_9: uniformcartexpresssolvenuthavephrasesentenceviable
 bip_39_word_space_0:
 - uniform
 - cart

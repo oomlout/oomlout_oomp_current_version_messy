@@ -122,6 +122,18 @@ explain
 bright
 cover
 jaguar |  
+| bip_39_word_no_space_1 | robust |  
+| bip_39_word_no_space_10 | robustwoolpointviciousvisitexplainbrightcoverjaguarfantasy |  
+| bip_39_word_no_space_11 | robustwoolpointviciousvisitexplainbrightcoverjaguarfantasychild |  
+| bip_39_word_no_space_12 | robustwoolpointviciousvisitexplainbrightcoverjaguarfantasychildarmy |  
+| bip_39_word_no_space_2 | robustwool |  
+| bip_39_word_no_space_3 | robustwoolpoint |  
+| bip_39_word_no_space_4 | robustwoolpointvicious |  
+| bip_39_word_no_space_5 | robustwoolpointviciousvisit |  
+| bip_39_word_no_space_6 | robustwoolpointviciousvisitexplain |  
+| bip_39_word_no_space_7 | robustwoolpointviciousvisitexplainbright |  
+| bip_39_word_no_space_8 | robustwoolpointviciousvisitexplainbrightcover |  
+| bip_39_word_no_space_9 | robustwoolpointviciousvisitexplainbrightcoverjaguar |  
 | bip_39_word_space_0 | ['robust', 'wool', 'point', 'vicious', 'visit', 'explain', 'bright', 'cover', 'jaguar', 'fantasy', 'child', 'army'] |  
 | bip_39_word_space_1 | robust |  
 | bip_39_word_space_10 | robust wool point vicious visit explain bright cover jaguar fantasy |  

@@ -122,6 +122,18 @@ mention
 again
 want
 jeans |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenfancyswapapologypatternmentionagainwantjeanspost |  
+| bip_39_word_no_space_11 | brokenfancyswapapologypatternmentionagainwantjeanspostmystery |  
+| bip_39_word_no_space_12 | brokenfancyswapapologypatternmentionagainwantjeanspostmysteryage |  
+| bip_39_word_no_space_2 | brokenfancy |  
+| bip_39_word_no_space_3 | brokenfancyswap |  
+| bip_39_word_no_space_4 | brokenfancyswapapology |  
+| bip_39_word_no_space_5 | brokenfancyswapapologypattern |  
+| bip_39_word_no_space_6 | brokenfancyswapapologypatternmention |  
+| bip_39_word_no_space_7 | brokenfancyswapapologypatternmentionagain |  
+| bip_39_word_no_space_8 | brokenfancyswapapologypatternmentionagainwant |  
+| bip_39_word_no_space_9 | brokenfancyswapapologypatternmentionagainwantjeans |  
 | bip_39_word_space_0 | ['broken', 'fancy', 'swap', 'apology', 'pattern', 'mention', 'again', 'want', 'jeans', 'post', 'mystery', 'age'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken fancy swap apology pattern mention again want jeans post |  

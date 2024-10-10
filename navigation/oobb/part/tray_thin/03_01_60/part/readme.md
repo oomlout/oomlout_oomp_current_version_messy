@@ -122,6 +122,18 @@ apple
 bind
 media
 twin |  
+| bip_39_word_no_space_1 | artwork |  
+| bip_39_word_no_space_10 | artworksevenacrossdevicesunsetapplebindmediatwinvisa |  
+| bip_39_word_no_space_11 | artworksevenacrossdevicesunsetapplebindmediatwinvisaeasily |  
+| bip_39_word_no_space_12 | artworksevenacrossdevicesunsetapplebindmediatwinvisaeasilyalter |  
+| bip_39_word_no_space_2 | artworkseven |  
+| bip_39_word_no_space_3 | artworksevenacross |  
+| bip_39_word_no_space_4 | artworksevenacrossdevice |  
+| bip_39_word_no_space_5 | artworksevenacrossdevicesunset |  
+| bip_39_word_no_space_6 | artworksevenacrossdevicesunsetapple |  
+| bip_39_word_no_space_7 | artworksevenacrossdevicesunsetapplebind |  
+| bip_39_word_no_space_8 | artworksevenacrossdevicesunsetapplebindmedia |  
+| bip_39_word_no_space_9 | artworksevenacrossdevicesunsetapplebindmediatwin |  
 | bip_39_word_space_0 | ['artwork', 'seven', 'across', 'device', 'sunset', 'apple', 'bind', 'media', 'twin', 'visa', 'easily', 'alter'] |  
 | bip_39_word_space_1 | artwork |  
 | bip_39_word_space_10 | artwork seven across device sunset apple bind media twin visa |  

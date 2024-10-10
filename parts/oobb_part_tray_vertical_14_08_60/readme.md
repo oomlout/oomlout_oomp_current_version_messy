@@ -122,6 +122,18 @@ laptop
 step
 stairs
 biology |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehiclecrushcapabledreamhomelaptopstepstairsbiologyvenue |  
+| bip_39_word_no_space_11 | vehiclecrushcapabledreamhomelaptopstepstairsbiologyvenuemiddle |  
+| bip_39_word_no_space_12 | vehiclecrushcapabledreamhomelaptopstepstairsbiologyvenuemiddleassist |  
+| bip_39_word_no_space_2 | vehiclecrush |  
+| bip_39_word_no_space_3 | vehiclecrushcapable |  
+| bip_39_word_no_space_4 | vehiclecrushcapabledream |  
+| bip_39_word_no_space_5 | vehiclecrushcapabledreamhome |  
+| bip_39_word_no_space_6 | vehiclecrushcapabledreamhomelaptop |  
+| bip_39_word_no_space_7 | vehiclecrushcapabledreamhomelaptopstep |  
+| bip_39_word_no_space_8 | vehiclecrushcapabledreamhomelaptopstepstairs |  
+| bip_39_word_no_space_9 | vehiclecrushcapabledreamhomelaptopstepstairsbiology |  
 | bip_39_word_space_0 | ['vehicle', 'crush', 'capable', 'dream', 'home', 'laptop', 'step', 'stairs', 'biology', 'venue', 'middle', 'assist'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle crush capable dream home laptop step stairs biology venue |  

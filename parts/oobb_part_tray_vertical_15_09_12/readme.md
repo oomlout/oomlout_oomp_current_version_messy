@@ -122,6 +122,18 @@ laugh
 various
 cupboard
 dice |  
+| bip_39_word_no_space_1 | style |  
+| bip_39_word_no_space_10 | styletideskulldentistknocklaughvariouscupboarddicefluid |  
+| bip_39_word_no_space_11 | styletideskulldentistknocklaughvariouscupboarddicefluidfaith |  
+| bip_39_word_no_space_12 | styletideskulldentistknocklaughvariouscupboarddicefluidfaithannounce |  
+| bip_39_word_no_space_2 | styletide |  
+| bip_39_word_no_space_3 | styletideskull |  
+| bip_39_word_no_space_4 | styletideskulldentist |  
+| bip_39_word_no_space_5 | styletideskulldentistknock |  
+| bip_39_word_no_space_6 | styletideskulldentistknocklaugh |  
+| bip_39_word_no_space_7 | styletideskulldentistknocklaughvarious |  
+| bip_39_word_no_space_8 | styletideskulldentistknocklaughvariouscupboard |  
+| bip_39_word_no_space_9 | styletideskulldentistknocklaughvariouscupboarddice |  
 | bip_39_word_space_0 | ['style', 'tide', 'skull', 'dentist', 'knock', 'laugh', 'various', 'cupboard', 'dice', 'fluid', 'faith', 'announce'] |  
 | bip_39_word_space_1 | style |  
 | bip_39_word_space_10 | style tide skull dentist knock laugh various cupboard dice fluid |  

@@ -122,6 +122,18 @@ mountain
 shoulder
 recycle
 stamp |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectreformdepositfrontnormalmountainshoulderrecyclestamplonely |  
+| bip_39_word_no_space_11 | perfectreformdepositfrontnormalmountainshoulderrecyclestamplonelybiology |  
+| bip_39_word_no_space_12 | perfectreformdepositfrontnormalmountainshoulderrecyclestamplonelybiologyachieve |  
+| bip_39_word_no_space_2 | perfectreform |  
+| bip_39_word_no_space_3 | perfectreformdeposit |  
+| bip_39_word_no_space_4 | perfectreformdepositfront |  
+| bip_39_word_no_space_5 | perfectreformdepositfrontnormal |  
+| bip_39_word_no_space_6 | perfectreformdepositfrontnormalmountain |  
+| bip_39_word_no_space_7 | perfectreformdepositfrontnormalmountainshoulder |  
+| bip_39_word_no_space_8 | perfectreformdepositfrontnormalmountainshoulderrecycle |  
+| bip_39_word_no_space_9 | perfectreformdepositfrontnormalmountainshoulderrecyclestamp |  
 | bip_39_word_space_0 | ['perfect', 'reform', 'deposit', 'front', 'normal', 'mountain', 'shoulder', 'recycle', 'stamp', 'lonely', 'biology', 'achieve'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect reform deposit front normal mountain shoulder recycle stamp lonely |  

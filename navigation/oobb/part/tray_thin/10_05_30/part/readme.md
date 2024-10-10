@@ -122,6 +122,18 @@ taxi
 floor
 brief
 fee |  
+| bip_39_word_no_space_1 | loud |  
+| bip_39_word_no_space_10 | loudleavealcoholaheadlivetaxifloorbrieffeekangaroo |  
+| bip_39_word_no_space_11 | loudleavealcoholaheadlivetaxifloorbrieffeekangarooleopard |  
+| bip_39_word_no_space_12 | loudleavealcoholaheadlivetaxifloorbrieffeekangarooleopardassume |  
+| bip_39_word_no_space_2 | loudleave |  
+| bip_39_word_no_space_3 | loudleavealcohol |  
+| bip_39_word_no_space_4 | loudleavealcoholahead |  
+| bip_39_word_no_space_5 | loudleavealcoholaheadlive |  
+| bip_39_word_no_space_6 | loudleavealcoholaheadlivetaxi |  
+| bip_39_word_no_space_7 | loudleavealcoholaheadlivetaxifloor |  
+| bip_39_word_no_space_8 | loudleavealcoholaheadlivetaxifloorbrief |  
+| bip_39_word_no_space_9 | loudleavealcoholaheadlivetaxifloorbrieffee |  
 | bip_39_word_space_0 | ['loud', 'leave', 'alcohol', 'ahead', 'live', 'taxi', 'floor', 'brief', 'fee', 'kangaroo', 'leopard', 'assume'] |  
 | bip_39_word_space_1 | loud |  
 | bip_39_word_space_10 | loud leave alcohol ahead live taxi floor brief fee kangaroo |  

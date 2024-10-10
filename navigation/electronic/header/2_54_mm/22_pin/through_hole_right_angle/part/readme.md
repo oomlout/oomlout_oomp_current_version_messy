@@ -122,6 +122,18 @@ disagree
 horn
 quantum
 void |  
+| bip_39_word_no_space_1 | quarter |  
+| bip_39_word_no_space_10 | quarterdolphinreturnsymptompulsedisagreehornquantumvoiduse |  
+| bip_39_word_no_space_11 | quarterdolphinreturnsymptompulsedisagreehornquantumvoiduseactress |  
+| bip_39_word_no_space_12 | quarterdolphinreturnsymptompulsedisagreehornquantumvoiduseactressalert |  
+| bip_39_word_no_space_2 | quarterdolphin |  
+| bip_39_word_no_space_3 | quarterdolphinreturn |  
+| bip_39_word_no_space_4 | quarterdolphinreturnsymptom |  
+| bip_39_word_no_space_5 | quarterdolphinreturnsymptompulse |  
+| bip_39_word_no_space_6 | quarterdolphinreturnsymptompulsedisagree |  
+| bip_39_word_no_space_7 | quarterdolphinreturnsymptompulsedisagreehorn |  
+| bip_39_word_no_space_8 | quarterdolphinreturnsymptompulsedisagreehornquantum |  
+| bip_39_word_no_space_9 | quarterdolphinreturnsymptompulsedisagreehornquantumvoid |  
 | bip_39_word_space_0 | ['quarter', 'dolphin', 'return', 'symptom', 'pulse', 'disagree', 'horn', 'quantum', 'void', 'use', 'actress', 'alert'] |  
 | bip_39_word_space_1 | quarter |  
 | bip_39_word_space_10 | quarter dolphin return symptom pulse disagree horn quantum void use |  

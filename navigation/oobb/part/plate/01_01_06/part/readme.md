@@ -122,6 +122,18 @@ size
 mother
 donor
 trim |  
+| bip_39_word_no_space_1 | feed |  
+| bip_39_word_no_space_10 | feedonlinesymptomsoonexplainsizemotherdonortrimsomeone |  
+| bip_39_word_no_space_11 | feedonlinesymptomsoonexplainsizemotherdonortrimsomeonegun |  
+| bip_39_word_no_space_12 | feedonlinesymptomsoonexplainsizemotherdonortrimsomeonegunanimal |  
+| bip_39_word_no_space_2 | feedonline |  
+| bip_39_word_no_space_3 | feedonlinesymptom |  
+| bip_39_word_no_space_4 | feedonlinesymptomsoon |  
+| bip_39_word_no_space_5 | feedonlinesymptomsoonexplain |  
+| bip_39_word_no_space_6 | feedonlinesymptomsoonexplainsize |  
+| bip_39_word_no_space_7 | feedonlinesymptomsoonexplainsizemother |  
+| bip_39_word_no_space_8 | feedonlinesymptomsoonexplainsizemotherdonor |  
+| bip_39_word_no_space_9 | feedonlinesymptomsoonexplainsizemotherdonortrim |  
 | bip_39_word_space_0 | ['feed', 'online', 'symptom', 'soon', 'explain', 'size', 'mother', 'donor', 'trim', 'someone', 'gun', 'animal'] |  
 | bip_39_word_space_1 | feed |  
 | bip_39_word_space_10 | feed online symptom soon explain size mother donor trim someone |  

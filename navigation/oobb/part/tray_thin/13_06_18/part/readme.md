@@ -122,6 +122,18 @@ agent
 addict
 frog
 when |  
+| bip_39_word_no_space_1 | track |  
+| bip_39_word_no_space_10 | trackmythyellowmergetomorrowagentaddictfrogwhenduck |  
+| bip_39_word_no_space_11 | trackmythyellowmergetomorrowagentaddictfrogwhenduckpurpose |  
+| bip_39_word_no_space_12 | trackmythyellowmergetomorrowagentaddictfrogwhenduckpurposeacross |  
+| bip_39_word_no_space_2 | trackmyth |  
+| bip_39_word_no_space_3 | trackmythyellow |  
+| bip_39_word_no_space_4 | trackmythyellowmerge |  
+| bip_39_word_no_space_5 | trackmythyellowmergetomorrow |  
+| bip_39_word_no_space_6 | trackmythyellowmergetomorrowagent |  
+| bip_39_word_no_space_7 | trackmythyellowmergetomorrowagentaddict |  
+| bip_39_word_no_space_8 | trackmythyellowmergetomorrowagentaddictfrog |  
+| bip_39_word_no_space_9 | trackmythyellowmergetomorrowagentaddictfrogwhen |  
 | bip_39_word_space_0 | ['track', 'myth', 'yellow', 'merge', 'tomorrow', 'agent', 'addict', 'frog', 'when', 'duck', 'purpose', 'across'] |  
 | bip_39_word_space_1 | track |  
 | bip_39_word_space_10 | track myth yellow merge tomorrow agent addict frog when duck |  

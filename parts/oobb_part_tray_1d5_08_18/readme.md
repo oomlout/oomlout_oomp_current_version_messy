@@ -122,6 +122,18 @@ rescue
 group
 extend
 early |  
+| bip_39_word_no_space_1 | believe |  
+| bip_39_word_no_space_10 | believefleeprimaryreturnimpactrescuegroupextendearlysoldier |  
+| bip_39_word_no_space_11 | believefleeprimaryreturnimpactrescuegroupextendearlysoldierhope |  
+| bip_39_word_no_space_12 | believefleeprimaryreturnimpactrescuegroupextendearlysoldierhopealcohol |  
+| bip_39_word_no_space_2 | believeflee |  
+| bip_39_word_no_space_3 | believefleeprimary |  
+| bip_39_word_no_space_4 | believefleeprimaryreturn |  
+| bip_39_word_no_space_5 | believefleeprimaryreturnimpact |  
+| bip_39_word_no_space_6 | believefleeprimaryreturnimpactrescue |  
+| bip_39_word_no_space_7 | believefleeprimaryreturnimpactrescuegroup |  
+| bip_39_word_no_space_8 | believefleeprimaryreturnimpactrescuegroupextend |  
+| bip_39_word_no_space_9 | believefleeprimaryreturnimpactrescuegroupextendearly |  
 | bip_39_word_space_0 | ['believe', 'flee', 'primary', 'return', 'impact', 'rescue', 'group', 'extend', 'early', 'soldier', 'hope', 'alcohol'] |  
 | bip_39_word_space_1 | believe |  
 | bip_39_word_space_10 | believe flee primary return impact rescue group extend early soldier |  

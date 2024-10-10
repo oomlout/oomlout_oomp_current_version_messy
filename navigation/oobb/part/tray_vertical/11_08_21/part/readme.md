@@ -122,6 +122,18 @@ duty
 ridge
 manage
 culture |  
+| bip_39_word_no_space_1 | lyrics |  
+| bip_39_word_no_space_10 | lyricsdropdropsentencefaintdutyridgemanagecultureaccident |  
+| bip_39_word_no_space_11 | lyricsdropdropsentencefaintdutyridgemanagecultureaccidentgovern |  
+| bip_39_word_no_space_12 | lyricsdropdropsentencefaintdutyridgemanagecultureaccidentgovernaddress |  
+| bip_39_word_no_space_2 | lyricsdrop |  
+| bip_39_word_no_space_3 | lyricsdropdrop |  
+| bip_39_word_no_space_4 | lyricsdropdropsentence |  
+| bip_39_word_no_space_5 | lyricsdropdropsentencefaint |  
+| bip_39_word_no_space_6 | lyricsdropdropsentencefaintduty |  
+| bip_39_word_no_space_7 | lyricsdropdropsentencefaintdutyridge |  
+| bip_39_word_no_space_8 | lyricsdropdropsentencefaintdutyridgemanage |  
+| bip_39_word_no_space_9 | lyricsdropdropsentencefaintdutyridgemanageculture |  
 | bip_39_word_space_0 | ['lyrics', 'drop', 'drop', 'sentence', 'faint', 'duty', 'ridge', 'manage', 'culture', 'accident', 'govern', 'address'] |  
 | bip_39_word_space_1 | lyrics |  
 | bip_39_word_space_10 | lyrics drop drop sentence faint duty ridge manage culture accident |  

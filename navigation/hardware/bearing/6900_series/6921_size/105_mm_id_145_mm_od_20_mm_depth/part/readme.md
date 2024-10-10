@@ -122,6 +122,18 @@ trouble
 know
 keep
 vacant |  
+| bip_39_word_no_space_1 | nuclear |  
+| bip_39_word_no_space_10 | nuclearimprovezonetreatelsetroubleknowkeepvacantdisorder |  
+| bip_39_word_no_space_11 | nuclearimprovezonetreatelsetroubleknowkeepvacantdisordermath |  
+| bip_39_word_no_space_12 | nuclearimprovezonetreatelsetroubleknowkeepvacantdisordermatharrive |  
+| bip_39_word_no_space_2 | nuclearimprove |  
+| bip_39_word_no_space_3 | nuclearimprovezone |  
+| bip_39_word_no_space_4 | nuclearimprovezonetreat |  
+| bip_39_word_no_space_5 | nuclearimprovezonetreatelse |  
+| bip_39_word_no_space_6 | nuclearimprovezonetreatelsetrouble |  
+| bip_39_word_no_space_7 | nuclearimprovezonetreatelsetroubleknow |  
+| bip_39_word_no_space_8 | nuclearimprovezonetreatelsetroubleknowkeep |  
+| bip_39_word_no_space_9 | nuclearimprovezonetreatelsetroubleknowkeepvacant |  
 | bip_39_word_space_0 | ['nuclear', 'improve', 'zone', 'treat', 'else', 'trouble', 'know', 'keep', 'vacant', 'disorder', 'math', 'arrive'] |  
 | bip_39_word_space_1 | nuclear |  
 | bip_39_word_space_10 | nuclear improve zone treat else trouble know keep vacant disorder |  

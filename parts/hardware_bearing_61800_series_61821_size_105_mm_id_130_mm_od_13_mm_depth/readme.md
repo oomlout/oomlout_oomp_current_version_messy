@@ -122,6 +122,18 @@ hurt
 gesture
 gloom
 decorate |  
+| bip_39_word_no_space_1 | pond |  
+| bip_39_word_no_space_10 | pondwarrioroperaawesomeavocadohurtgesturegloomdecorateattitude |  
+| bip_39_word_no_space_11 | pondwarrioroperaawesomeavocadohurtgesturegloomdecorateattitudeluxury |  
+| bip_39_word_no_space_12 | pondwarrioroperaawesomeavocadohurtgesturegloomdecorateattitudeluxuryappear |  
+| bip_39_word_no_space_2 | pondwarrior |  
+| bip_39_word_no_space_3 | pondwarrioropera |  
+| bip_39_word_no_space_4 | pondwarrioroperaawesome |  
+| bip_39_word_no_space_5 | pondwarrioroperaawesomeavocado |  
+| bip_39_word_no_space_6 | pondwarrioroperaawesomeavocadohurt |  
+| bip_39_word_no_space_7 | pondwarrioroperaawesomeavocadohurtgesture |  
+| bip_39_word_no_space_8 | pondwarrioroperaawesomeavocadohurtgesturegloom |  
+| bip_39_word_no_space_9 | pondwarrioroperaawesomeavocadohurtgesturegloomdecorate |  
 | bip_39_word_space_0 | ['pond', 'warrior', 'opera', 'awesome', 'avocado', 'hurt', 'gesture', 'gloom', 'decorate', 'attitude', 'luxury', 'appear'] |  
 | bip_39_word_space_1 | pond |  
 | bip_39_word_space_10 | pond warrior opera awesome avocado hurt gesture gloom decorate attitude |  

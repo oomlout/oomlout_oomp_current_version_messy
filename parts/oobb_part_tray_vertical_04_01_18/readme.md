@@ -122,6 +122,18 @@ that
 fossil
 beef
 fruit |  
+| bip_39_word_no_space_1 | secret |  
+| bip_39_word_no_space_10 | secretfewmercyleafusethatfossilbeeffruitleave |  
+| bip_39_word_no_space_11 | secretfewmercyleafusethatfossilbeeffruitleavewill |  
+| bip_39_word_no_space_12 | secretfewmercyleafusethatfossilbeeffruitleavewillart |  
+| bip_39_word_no_space_2 | secretfew |  
+| bip_39_word_no_space_3 | secretfewmercy |  
+| bip_39_word_no_space_4 | secretfewmercyleaf |  
+| bip_39_word_no_space_5 | secretfewmercyleafuse |  
+| bip_39_word_no_space_6 | secretfewmercyleafusethat |  
+| bip_39_word_no_space_7 | secretfewmercyleafusethatfossil |  
+| bip_39_word_no_space_8 | secretfewmercyleafusethatfossilbeef |  
+| bip_39_word_no_space_9 | secretfewmercyleafusethatfossilbeeffruit |  
 | bip_39_word_space_0 | ['secret', 'few', 'mercy', 'leaf', 'use', 'that', 'fossil', 'beef', 'fruit', 'leave', 'will', 'art'] |  
 | bip_39_word_space_1 | secret |  
 | bip_39_word_space_10 | secret few mercy leaf use that fossil beef fruit leave |  

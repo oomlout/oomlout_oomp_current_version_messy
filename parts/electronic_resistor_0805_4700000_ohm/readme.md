@@ -122,6 +122,18 @@ subject
 pipe
 antenna
 school |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosionofferfederalhorrorsignsubjectpipeantennaschoolsix |  
+| bip_39_word_no_space_11 | erosionofferfederalhorrorsignsubjectpipeantennaschoolsixabandon |  
+| bip_39_word_no_space_12 | erosionofferfederalhorrorsignsubjectpipeantennaschoolsixabandonanimal |  
+| bip_39_word_no_space_2 | erosionoffer |  
+| bip_39_word_no_space_3 | erosionofferfederal |  
+| bip_39_word_no_space_4 | erosionofferfederalhorror |  
+| bip_39_word_no_space_5 | erosionofferfederalhorrorsign |  
+| bip_39_word_no_space_6 | erosionofferfederalhorrorsignsubject |  
+| bip_39_word_no_space_7 | erosionofferfederalhorrorsignsubjectpipe |  
+| bip_39_word_no_space_8 | erosionofferfederalhorrorsignsubjectpipeantenna |  
+| bip_39_word_no_space_9 | erosionofferfederalhorrorsignsubjectpipeantennaschool |  
 | bip_39_word_space_0 | ['erosion', 'offer', 'federal', 'horror', 'sign', 'subject', 'pipe', 'antenna', 'school', 'six', 'abandon', 'animal'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion offer federal horror sign subject pipe antenna school six |  

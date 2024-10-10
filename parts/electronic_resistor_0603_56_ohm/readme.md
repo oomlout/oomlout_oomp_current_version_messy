@@ -122,6 +122,18 @@ lava
 crime
 pilot
 fix |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radarneutraltagwristpoetlavacrimepilotfixcherry |  
+| bip_39_word_no_space_11 | radarneutraltagwristpoetlavacrimepilotfixcherryresist |  
+| bip_39_word_no_space_12 | radarneutraltagwristpoetlavacrimepilotfixcherryresistabuse |  
+| bip_39_word_no_space_2 | radarneutral |  
+| bip_39_word_no_space_3 | radarneutraltag |  
+| bip_39_word_no_space_4 | radarneutraltagwrist |  
+| bip_39_word_no_space_5 | radarneutraltagwristpoet |  
+| bip_39_word_no_space_6 | radarneutraltagwristpoetlava |  
+| bip_39_word_no_space_7 | radarneutraltagwristpoetlavacrime |  
+| bip_39_word_no_space_8 | radarneutraltagwristpoetlavacrimepilot |  
+| bip_39_word_no_space_9 | radarneutraltagwristpoetlavacrimepilotfix |  
 | bip_39_word_space_0 | ['radar', 'neutral', 'tag', 'wrist', 'poet', 'lava', 'crime', 'pilot', 'fix', 'cherry', 'resist', 'abuse'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar neutral tag wrist poet lava crime pilot fix cherry |  

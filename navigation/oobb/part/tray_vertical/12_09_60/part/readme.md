@@ -122,6 +122,18 @@ burger
 stone
 black
 mercy |  
+| bip_39_word_no_space_1 | vocal |  
+| bip_39_word_no_space_10 | vocalgingergoatcivilmechanicburgerstoneblackmercyslender |  
+| bip_39_word_no_space_11 | vocalgingergoatcivilmechanicburgerstoneblackmercyslenderring |  
+| bip_39_word_no_space_12 | vocalgingergoatcivilmechanicburgerstoneblackmercyslenderringalter |  
+| bip_39_word_no_space_2 | vocalginger |  
+| bip_39_word_no_space_3 | vocalgingergoat |  
+| bip_39_word_no_space_4 | vocalgingergoatcivil |  
+| bip_39_word_no_space_5 | vocalgingergoatcivilmechanic |  
+| bip_39_word_no_space_6 | vocalgingergoatcivilmechanicburger |  
+| bip_39_word_no_space_7 | vocalgingergoatcivilmechanicburgerstone |  
+| bip_39_word_no_space_8 | vocalgingergoatcivilmechanicburgerstoneblack |  
+| bip_39_word_no_space_9 | vocalgingergoatcivilmechanicburgerstoneblackmercy |  
 | bip_39_word_space_0 | ['vocal', 'ginger', 'goat', 'civil', 'mechanic', 'burger', 'stone', 'black', 'mercy', 'slender', 'ring', 'alter'] |  
 | bip_39_word_space_1 | vocal |  
 | bip_39_word_space_10 | vocal ginger goat civil mechanic burger stone black mercy slender |  

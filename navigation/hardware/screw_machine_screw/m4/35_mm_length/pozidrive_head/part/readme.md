@@ -122,6 +122,18 @@ tent
 harbor
 cherry
 task |  
+| bip_39_word_no_space_1 | job |  
+| bip_39_word_no_space_10 | jobmammalnaturetrapgaintentharborcherrytaskaisle |  
+| bip_39_word_no_space_11 | jobmammalnaturetrapgaintentharborcherrytaskaisleversion |  
+| bip_39_word_no_space_12 | jobmammalnaturetrapgaintentharborcherrytaskaisleversionacid |  
+| bip_39_word_no_space_2 | jobmammal |  
+| bip_39_word_no_space_3 | jobmammalnature |  
+| bip_39_word_no_space_4 | jobmammalnaturetrap |  
+| bip_39_word_no_space_5 | jobmammalnaturetrapgain |  
+| bip_39_word_no_space_6 | jobmammalnaturetrapgaintent |  
+| bip_39_word_no_space_7 | jobmammalnaturetrapgaintentharbor |  
+| bip_39_word_no_space_8 | jobmammalnaturetrapgaintentharborcherry |  
+| bip_39_word_no_space_9 | jobmammalnaturetrapgaintentharborcherrytask |  
 | bip_39_word_space_0 | ['job', 'mammal', 'nature', 'trap', 'gain', 'tent', 'harbor', 'cherry', 'task', 'aisle', 'version', 'acid'] |  
 | bip_39_word_space_1 | job |  
 | bip_39_word_space_10 | job mammal nature trap gain tent harbor cherry task aisle |  

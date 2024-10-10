@@ -122,6 +122,18 @@ service
 rocket
 want
 solve |  
+| bip_39_word_no_space_1 | job |  
+| bip_39_word_no_space_10 | jobfatalweekendtragicboxservicerocketwantsolvesnake |  
+| bip_39_word_no_space_11 | jobfatalweekendtragicboxservicerocketwantsolvesnakeequip |  
+| bip_39_word_no_space_12 | jobfatalweekendtragicboxservicerocketwantsolvesnakeequipactual |  
+| bip_39_word_no_space_2 | jobfatal |  
+| bip_39_word_no_space_3 | jobfatalweekend |  
+| bip_39_word_no_space_4 | jobfatalweekendtragic |  
+| bip_39_word_no_space_5 | jobfatalweekendtragicbox |  
+| bip_39_word_no_space_6 | jobfatalweekendtragicboxservice |  
+| bip_39_word_no_space_7 | jobfatalweekendtragicboxservicerocket |  
+| bip_39_word_no_space_8 | jobfatalweekendtragicboxservicerocketwant |  
+| bip_39_word_no_space_9 | jobfatalweekendtragicboxservicerocketwantsolve |  
 | bip_39_word_space_0 | ['job', 'fatal', 'weekend', 'tragic', 'box', 'service', 'rocket', 'want', 'solve', 'snake', 'equip', 'actual'] |  
 | bip_39_word_space_1 | job |  
 | bip_39_word_space_10 | job fatal weekend tragic box service rocket want solve snake |  

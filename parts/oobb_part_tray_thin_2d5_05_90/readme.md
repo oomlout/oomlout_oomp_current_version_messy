@@ -122,6 +122,18 @@ magic
 axis
 grass
 table |  
+| bip_39_word_no_space_1 | stay |  
+| bip_39_word_no_space_10 | staypraiseimageminortaskmagicaxisgrasstablerubber |  
+| bip_39_word_no_space_11 | staypraiseimageminortaskmagicaxisgrasstablerubbergarden |  
+| bip_39_word_no_space_12 | staypraiseimageminortaskmagicaxisgrasstablerubbergardenaccident |  
+| bip_39_word_no_space_2 | staypraise |  
+| bip_39_word_no_space_3 | staypraiseimage |  
+| bip_39_word_no_space_4 | staypraiseimageminor |  
+| bip_39_word_no_space_5 | staypraiseimageminortask |  
+| bip_39_word_no_space_6 | staypraiseimageminortaskmagic |  
+| bip_39_word_no_space_7 | staypraiseimageminortaskmagicaxis |  
+| bip_39_word_no_space_8 | staypraiseimageminortaskmagicaxisgrass |  
+| bip_39_word_no_space_9 | staypraiseimageminortaskmagicaxisgrasstable |  
 | bip_39_word_space_0 | ['stay', 'praise', 'image', 'minor', 'task', 'magic', 'axis', 'grass', 'table', 'rubber', 'garden', 'accident'] |  
 | bip_39_word_space_1 | stay |  
 | bip_39_word_space_10 | stay praise image minor task magic axis grass table rubber |  

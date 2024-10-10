@@ -122,6 +122,18 @@ proof
 bacon
 waste
 nut |  
+| bip_39_word_no_space_1 | opinion |  
+| bip_39_word_no_space_10 | opinionopenshadowobtaindreamproofbaconwastenutoil |  
+| bip_39_word_no_space_11 | opinionopenshadowobtaindreamproofbaconwastenutoilglance |  
+| bip_39_word_no_space_12 | opinionopenshadowobtaindreamproofbaconwastenutoilglancearrange |  
+| bip_39_word_no_space_2 | opinionopen |  
+| bip_39_word_no_space_3 | opinionopenshadow |  
+| bip_39_word_no_space_4 | opinionopenshadowobtain |  
+| bip_39_word_no_space_5 | opinionopenshadowobtaindream |  
+| bip_39_word_no_space_6 | opinionopenshadowobtaindreamproof |  
+| bip_39_word_no_space_7 | opinionopenshadowobtaindreamproofbacon |  
+| bip_39_word_no_space_8 | opinionopenshadowobtaindreamproofbaconwaste |  
+| bip_39_word_no_space_9 | opinionopenshadowobtaindreamproofbaconwastenut |  
 | bip_39_word_space_0 | ['opinion', 'open', 'shadow', 'obtain', 'dream', 'proof', 'bacon', 'waste', 'nut', 'oil', 'glance', 'arrange'] |  
 | bip_39_word_space_1 | opinion |  
 | bip_39_word_space_10 | opinion open shadow obtain dream proof bacon waste nut oil |  

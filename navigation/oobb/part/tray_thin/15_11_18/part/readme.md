@@ -122,6 +122,18 @@ eagle
 staff
 kind
 path |  
+| bip_39_word_no_space_1 | major |  
+| bip_39_word_no_space_10 | majorpowerbeautypyramidlanguageeaglestaffkindpathlike |  
+| bip_39_word_no_space_11 | majorpowerbeautypyramidlanguageeaglestaffkindpathliketrack |  
+| bip_39_word_no_space_12 | majorpowerbeautypyramidlanguageeaglestaffkindpathliketrackanchor |  
+| bip_39_word_no_space_2 | majorpower |  
+| bip_39_word_no_space_3 | majorpowerbeauty |  
+| bip_39_word_no_space_4 | majorpowerbeautypyramid |  
+| bip_39_word_no_space_5 | majorpowerbeautypyramidlanguage |  
+| bip_39_word_no_space_6 | majorpowerbeautypyramidlanguageeagle |  
+| bip_39_word_no_space_7 | majorpowerbeautypyramidlanguageeaglestaff |  
+| bip_39_word_no_space_8 | majorpowerbeautypyramidlanguageeaglestaffkind |  
+| bip_39_word_no_space_9 | majorpowerbeautypyramidlanguageeaglestaffkindpath |  
 | bip_39_word_space_0 | ['major', 'power', 'beauty', 'pyramid', 'language', 'eagle', 'staff', 'kind', 'path', 'like', 'track', 'anchor'] |  
 | bip_39_word_space_1 | major |  
 | bip_39_word_space_10 | major power beauty pyramid language eagle staff kind path like |  

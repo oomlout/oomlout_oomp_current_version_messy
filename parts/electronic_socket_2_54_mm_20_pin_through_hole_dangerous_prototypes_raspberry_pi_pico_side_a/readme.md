@@ -122,6 +122,18 @@ box
 cactus
 fire
 rocket |  
+| bip_39_word_no_space_1 | sheriff |  
+| bip_39_word_no_space_10 | sheriffletteraspectscalemaidboxcactusfirerockettop |  
+| bip_39_word_no_space_11 | sheriffletteraspectscalemaidboxcactusfirerockettopwindow |  
+| bip_39_word_no_space_12 | sheriffletteraspectscalemaidboxcactusfirerockettopwindowadapt |  
+| bip_39_word_no_space_2 | sheriffletter |  
+| bip_39_word_no_space_3 | sheriffletteraspect |  
+| bip_39_word_no_space_4 | sheriffletteraspectscale |  
+| bip_39_word_no_space_5 | sheriffletteraspectscalemaid |  
+| bip_39_word_no_space_6 | sheriffletteraspectscalemaidbox |  
+| bip_39_word_no_space_7 | sheriffletteraspectscalemaidboxcactus |  
+| bip_39_word_no_space_8 | sheriffletteraspectscalemaidboxcactusfire |  
+| bip_39_word_no_space_9 | sheriffletteraspectscalemaidboxcactusfirerocket |  
 | bip_39_word_space_0 | ['sheriff', 'letter', 'aspect', 'scale', 'maid', 'box', 'cactus', 'fire', 'rocket', 'top', 'window', 'adapt'] |  
 | bip_39_word_space_1 | sheriff |  
 | bip_39_word_space_10 | sheriff letter aspect scale maid box cactus fire rocket top |  

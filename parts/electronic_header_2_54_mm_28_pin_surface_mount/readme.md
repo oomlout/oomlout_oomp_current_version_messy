@@ -122,6 +122,18 @@ uphold
 economy
 yard
 fence |  
+| bip_39_word_no_space_1 | cry |  
+| bip_39_word_no_space_10 | cryyoucensusmergeenoughupholdeconomyyardfencetry |  
+| bip_39_word_no_space_11 | cryyoucensusmergeenoughupholdeconomyyardfencetryrug |  
+| bip_39_word_no_space_12 | cryyoucensusmergeenoughupholdeconomyyardfencetryrugaccuse |  
+| bip_39_word_no_space_2 | cryyou |  
+| bip_39_word_no_space_3 | cryyoucensus |  
+| bip_39_word_no_space_4 | cryyoucensusmerge |  
+| bip_39_word_no_space_5 | cryyoucensusmergeenough |  
+| bip_39_word_no_space_6 | cryyoucensusmergeenoughuphold |  
+| bip_39_word_no_space_7 | cryyoucensusmergeenoughupholdeconomy |  
+| bip_39_word_no_space_8 | cryyoucensusmergeenoughupholdeconomyyard |  
+| bip_39_word_no_space_9 | cryyoucensusmergeenoughupholdeconomyyardfence |  
 | bip_39_word_space_0 | ['cry', 'you', 'census', 'merge', 'enough', 'uphold', 'economy', 'yard', 'fence', 'try', 'rug', 'accuse'] |  
 | bip_39_word_space_1 | cry |  
 | bip_39_word_space_10 | cry you census merge enough uphold economy yard fence try |  

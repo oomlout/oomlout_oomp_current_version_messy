@@ -122,6 +122,18 @@ visit
 depth
 lounge
 own |  
+| bip_39_word_no_space_1 | rail |  
+| bip_39_word_no_space_10 | railcousinsaladhatstreetvisitdepthloungeowndraft |  
+| bip_39_word_no_space_11 | railcousinsaladhatstreetvisitdepthloungeowndraftpond |  
+| bip_39_word_no_space_12 | railcousinsaladhatstreetvisitdepthloungeowndraftpondafraid |  
+| bip_39_word_no_space_2 | railcousin |  
+| bip_39_word_no_space_3 | railcousinsalad |  
+| bip_39_word_no_space_4 | railcousinsaladhat |  
+| bip_39_word_no_space_5 | railcousinsaladhatstreet |  
+| bip_39_word_no_space_6 | railcousinsaladhatstreetvisit |  
+| bip_39_word_no_space_7 | railcousinsaladhatstreetvisitdepth |  
+| bip_39_word_no_space_8 | railcousinsaladhatstreetvisitdepthlounge |  
+| bip_39_word_no_space_9 | railcousinsaladhatstreetvisitdepthloungeown |  
 | bip_39_word_space_0 | ['rail', 'cousin', 'salad', 'hat', 'street', 'visit', 'depth', 'lounge', 'own', 'draft', 'pond', 'afraid'] |  
 | bip_39_word_space_1 | rail |  
 | bip_39_word_space_10 | rail cousin salad hat street visit depth lounge own draft |  

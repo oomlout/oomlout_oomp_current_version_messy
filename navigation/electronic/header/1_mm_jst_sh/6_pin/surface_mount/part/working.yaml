@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'human
   boil
 
   fortune'
+bip_39_word_no_space_1: human
+bip_39_word_no_space_10: humanretiredeveloplegendlockdroppetboilfortunecivil
+bip_39_word_no_space_11: humanretiredeveloplegendlockdroppetboilfortunecivilcourse
+bip_39_word_no_space_12: humanretiredeveloplegendlockdroppetboilfortunecivilcoursealcohol
+bip_39_word_no_space_2: humanretire
+bip_39_word_no_space_3: humanretiredevelop
+bip_39_word_no_space_4: humanretiredeveloplegend
+bip_39_word_no_space_5: humanretiredeveloplegendlock
+bip_39_word_no_space_6: humanretiredeveloplegendlockdrop
+bip_39_word_no_space_7: humanretiredeveloplegendlockdroppet
+bip_39_word_no_space_8: humanretiredeveloplegendlockdroppetboil
+bip_39_word_no_space_9: humanretiredeveloplegendlockdroppetboilfortune
 bip_39_word_space_0:
 - human
 - retire

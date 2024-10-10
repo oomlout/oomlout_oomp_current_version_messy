@@ -122,6 +122,18 @@ roof
 innocent
 ladder
 pen |  
+| bip_39_word_no_space_1 | render |  
+| bip_39_word_no_space_10 | renderbeyondmarriageonlinelittleroofinnocentladderpenpass |  
+| bip_39_word_no_space_11 | renderbeyondmarriageonlinelittleroofinnocentladderpenpassvirus |  
+| bip_39_word_no_space_12 | renderbeyondmarriageonlinelittleroofinnocentladderpenpassvirusanswer |  
+| bip_39_word_no_space_2 | renderbeyond |  
+| bip_39_word_no_space_3 | renderbeyondmarriage |  
+| bip_39_word_no_space_4 | renderbeyondmarriageonline |  
+| bip_39_word_no_space_5 | renderbeyondmarriageonlinelittle |  
+| bip_39_word_no_space_6 | renderbeyondmarriageonlinelittleroof |  
+| bip_39_word_no_space_7 | renderbeyondmarriageonlinelittleroofinnocent |  
+| bip_39_word_no_space_8 | renderbeyondmarriageonlinelittleroofinnocentladder |  
+| bip_39_word_no_space_9 | renderbeyondmarriageonlinelittleroofinnocentladderpen |  
 | bip_39_word_space_0 | ['render', 'beyond', 'marriage', 'online', 'little', 'roof', 'innocent', 'ladder', 'pen', 'pass', 'virus', 'answer'] |  
 | bip_39_word_space_1 | render |  
 | bip_39_word_space_10 | render beyond marriage online little roof innocent ladder pen pass |  

@@ -122,6 +122,18 @@ rice
 proof
 humble
 disease |  
+| bip_39_word_no_space_1 | version |  
+| bip_39_word_no_space_10 | versionunlockearlyservicewheatriceproofhumblediseasemonkey |  
+| bip_39_word_no_space_11 | versionunlockearlyservicewheatriceproofhumblediseasemonkeycry |  
+| bip_39_word_no_space_12 | versionunlockearlyservicewheatriceproofhumblediseasemonkeycryattract |  
+| bip_39_word_no_space_2 | versionunlock |  
+| bip_39_word_no_space_3 | versionunlockearly |  
+| bip_39_word_no_space_4 | versionunlockearlyservice |  
+| bip_39_word_no_space_5 | versionunlockearlyservicewheat |  
+| bip_39_word_no_space_6 | versionunlockearlyservicewheatrice |  
+| bip_39_word_no_space_7 | versionunlockearlyservicewheatriceproof |  
+| bip_39_word_no_space_8 | versionunlockearlyservicewheatriceproofhumble |  
+| bip_39_word_no_space_9 | versionunlockearlyservicewheatriceproofhumbledisease |  
 | bip_39_word_space_0 | ['version', 'unlock', 'early', 'service', 'wheat', 'rice', 'proof', 'humble', 'disease', 'monkey', 'cry', 'attract'] |  
 | bip_39_word_space_1 | version |  
 | bip_39_word_space_10 | version unlock early service wheat rice proof humble disease monkey |  

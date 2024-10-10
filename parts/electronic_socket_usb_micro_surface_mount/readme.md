@@ -122,6 +122,18 @@ pulp
 acoustic
 wild
 debris |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbagegiftdoubleweirdkeenpulpacousticwilddebrispeanut |  
+| bip_39_word_no_space_11 | cabbagegiftdoubleweirdkeenpulpacousticwilddebrispeanutimpose |  
+| bip_39_word_no_space_12 | cabbagegiftdoubleweirdkeenpulpacousticwilddebrispeanutimposeapple |  
+| bip_39_word_no_space_2 | cabbagegift |  
+| bip_39_word_no_space_3 | cabbagegiftdouble |  
+| bip_39_word_no_space_4 | cabbagegiftdoubleweird |  
+| bip_39_word_no_space_5 | cabbagegiftdoubleweirdkeen |  
+| bip_39_word_no_space_6 | cabbagegiftdoubleweirdkeenpulp |  
+| bip_39_word_no_space_7 | cabbagegiftdoubleweirdkeenpulpacoustic |  
+| bip_39_word_no_space_8 | cabbagegiftdoubleweirdkeenpulpacousticwild |  
+| bip_39_word_no_space_9 | cabbagegiftdoubleweirdkeenpulpacousticwilddebris |  
 | bip_39_word_space_0 | ['cabbage', 'gift', 'double', 'weird', 'keen', 'pulp', 'acoustic', 'wild', 'debris', 'peanut', 'impose', 'apple'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage gift double weird keen pulp acoustic wild debris peanut |  

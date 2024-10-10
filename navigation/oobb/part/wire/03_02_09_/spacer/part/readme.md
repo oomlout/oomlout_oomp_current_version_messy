@@ -122,6 +122,18 @@ figure
 fiber
 amount
 hard |  
+| bip_39_word_no_space_1 | spring |  
+| bip_39_word_no_space_10 | springinmatewrapannualelbowfigurefiberamounthardchuckle |  
+| bip_39_word_no_space_11 | springinmatewrapannualelbowfigurefiberamounthardchucklemask |  
+| bip_39_word_no_space_12 | springinmatewrapannualelbowfigurefiberamounthardchucklemaskattack |  
+| bip_39_word_no_space_2 | springinmate |  
+| bip_39_word_no_space_3 | springinmatewrap |  
+| bip_39_word_no_space_4 | springinmatewrapannual |  
+| bip_39_word_no_space_5 | springinmatewrapannualelbow |  
+| bip_39_word_no_space_6 | springinmatewrapannualelbowfigure |  
+| bip_39_word_no_space_7 | springinmatewrapannualelbowfigurefiber |  
+| bip_39_word_no_space_8 | springinmatewrapannualelbowfigurefiberamount |  
+| bip_39_word_no_space_9 | springinmatewrapannualelbowfigurefiberamounthard |  
 | bip_39_word_space_0 | ['spring', 'inmate', 'wrap', 'annual', 'elbow', 'figure', 'fiber', 'amount', 'hard', 'chuckle', 'mask', 'attack'] |  
 | bip_39_word_space_1 | spring |  
 | bip_39_word_space_10 | spring inmate wrap annual elbow figure fiber amount hard chuckle |  

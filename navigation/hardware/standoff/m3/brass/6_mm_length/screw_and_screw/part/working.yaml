@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'talk
   jealous
 
   fox'
+bip_39_word_no_space_1: talk
+bip_39_word_no_space_10: talkfriendriflenoodlebuddyclinicseasonjealousfoxreunion
+bip_39_word_no_space_11: talkfriendriflenoodlebuddyclinicseasonjealousfoxreunionhire
+bip_39_word_no_space_12: talkfriendriflenoodlebuddyclinicseasonjealousfoxreunionhireahead
+bip_39_word_no_space_2: talkfriend
+bip_39_word_no_space_3: talkfriendrifle
+bip_39_word_no_space_4: talkfriendriflenoodle
+bip_39_word_no_space_5: talkfriendriflenoodlebuddy
+bip_39_word_no_space_6: talkfriendriflenoodlebuddyclinic
+bip_39_word_no_space_7: talkfriendriflenoodlebuddyclinicseason
+bip_39_word_no_space_8: talkfriendriflenoodlebuddyclinicseasonjealous
+bip_39_word_no_space_9: talkfriendriflenoodlebuddyclinicseasonjealousfox
 bip_39_word_space_0:
 - talk
 - friend

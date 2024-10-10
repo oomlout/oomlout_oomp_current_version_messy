@@ -122,6 +122,18 @@ puppy
 obvious
 garden
 disagree |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchpriceawaregameawarepuppyobviousgardendisagreemean |  
+| bip_39_word_no_space_11 | patchpriceawaregameawarepuppyobviousgardendisagreemeanpurity |  
+| bip_39_word_no_space_12 | patchpriceawaregameawarepuppyobviousgardendisagreemeanpurityassault |  
+| bip_39_word_no_space_2 | patchprice |  
+| bip_39_word_no_space_3 | patchpriceaware |  
+| bip_39_word_no_space_4 | patchpriceawaregame |  
+| bip_39_word_no_space_5 | patchpriceawaregameaware |  
+| bip_39_word_no_space_6 | patchpriceawaregameawarepuppy |  
+| bip_39_word_no_space_7 | patchpriceawaregameawarepuppyobvious |  
+| bip_39_word_no_space_8 | patchpriceawaregameawarepuppyobviousgarden |  
+| bip_39_word_no_space_9 | patchpriceawaregameawarepuppyobviousgardendisagree |  
 | bip_39_word_space_0 | ['patch', 'price', 'aware', 'game', 'aware', 'puppy', 'obvious', 'garden', 'disagree', 'mean', 'purity', 'assault'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch price aware game aware puppy obvious garden disagree mean |  

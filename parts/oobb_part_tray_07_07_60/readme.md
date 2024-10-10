@@ -122,6 +122,18 @@ surge
 warm
 obvious
 phrase |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkmirrortorchgladobvioussurgewarmobviousphrasebrain |  
+| bip_39_word_no_space_11 | chalkmirrortorchgladobvioussurgewarmobviousphrasebrainfork |  
+| bip_39_word_no_space_12 | chalkmirrortorchgladobvioussurgewarmobviousphrasebrainforkattend |  
+| bip_39_word_no_space_2 | chalkmirror |  
+| bip_39_word_no_space_3 | chalkmirrortorch |  
+| bip_39_word_no_space_4 | chalkmirrortorchglad |  
+| bip_39_word_no_space_5 | chalkmirrortorchgladobvious |  
+| bip_39_word_no_space_6 | chalkmirrortorchgladobvioussurge |  
+| bip_39_word_no_space_7 | chalkmirrortorchgladobvioussurgewarm |  
+| bip_39_word_no_space_8 | chalkmirrortorchgladobvioussurgewarmobvious |  
+| bip_39_word_no_space_9 | chalkmirrortorchgladobvioussurgewarmobviousphrase |  
 | bip_39_word_space_0 | ['chalk', 'mirror', 'torch', 'glad', 'obvious', 'surge', 'warm', 'obvious', 'phrase', 'brain', 'fork', 'attend'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk mirror torch glad obvious surge warm obvious phrase brain |  

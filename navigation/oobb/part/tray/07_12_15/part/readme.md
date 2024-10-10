@@ -122,6 +122,18 @@ pistol
 neither
 nose
 umbrella |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockfoxluggagegiraffeentirepistolneithernoseumbrellalocal |  
+| bip_39_word_no_space_11 | flockfoxluggagegiraffeentirepistolneithernoseumbrellalocalpill |  
+| bip_39_word_no_space_12 | flockfoxluggagegiraffeentirepistolneithernoseumbrellalocalpillacoustic |  
+| bip_39_word_no_space_2 | flockfox |  
+| bip_39_word_no_space_3 | flockfoxluggage |  
+| bip_39_word_no_space_4 | flockfoxluggagegiraffe |  
+| bip_39_word_no_space_5 | flockfoxluggagegiraffeentire |  
+| bip_39_word_no_space_6 | flockfoxluggagegiraffeentirepistol |  
+| bip_39_word_no_space_7 | flockfoxluggagegiraffeentirepistolneither |  
+| bip_39_word_no_space_8 | flockfoxluggagegiraffeentirepistolneithernose |  
+| bip_39_word_no_space_9 | flockfoxluggagegiraffeentirepistolneithernoseumbrella |  
 | bip_39_word_space_0 | ['flock', 'fox', 'luggage', 'giraffe', 'entire', 'pistol', 'neither', 'nose', 'umbrella', 'local', 'pill', 'acoustic'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock fox luggage giraffe entire pistol neither nose umbrella local |  

@@ -122,6 +122,18 @@ loan
 breeze
 beauty
 install |  
+| bip_39_word_no_space_1 | require |  
+| bip_39_word_no_space_10 | requirecourseshinespinescapeloanbreezebeautyinstallmonster |  
+| bip_39_word_no_space_11 | requirecourseshinespinescapeloanbreezebeautyinstallmonsterstep |  
+| bip_39_word_no_space_12 | requirecourseshinespinescapeloanbreezebeautyinstallmonsterstepamount |  
+| bip_39_word_no_space_2 | requirecourse |  
+| bip_39_word_no_space_3 | requirecourseshine |  
+| bip_39_word_no_space_4 | requirecourseshinespin |  
+| bip_39_word_no_space_5 | requirecourseshinespinescape |  
+| bip_39_word_no_space_6 | requirecourseshinespinescapeloan |  
+| bip_39_word_no_space_7 | requirecourseshinespinescapeloanbreeze |  
+| bip_39_word_no_space_8 | requirecourseshinespinescapeloanbreezebeauty |  
+| bip_39_word_no_space_9 | requirecourseshinespinescapeloanbreezebeautyinstall |  
 | bip_39_word_space_0 | ['require', 'course', 'shine', 'spin', 'escape', 'loan', 'breeze', 'beauty', 'install', 'monster', 'step', 'amount'] |  
 | bip_39_word_space_1 | require |  
 | bip_39_word_space_10 | require course shine spin escape loan breeze beauty install monster |  

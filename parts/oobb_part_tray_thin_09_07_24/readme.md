@@ -122,6 +122,18 @@ answer
 jar
 resemble
 blanket |  
+| bip_39_word_no_space_1 | escape |  
+| bip_39_word_no_space_10 | escapeenrollresemblesightnephewanswerjarresembleblanketold |  
+| bip_39_word_no_space_11 | escapeenrollresemblesightnephewanswerjarresembleblanketoldcousin |  
+| bip_39_word_no_space_12 | escapeenrollresemblesightnephewanswerjarresembleblanketoldcousinassume |  
+| bip_39_word_no_space_2 | escapeenroll |  
+| bip_39_word_no_space_3 | escapeenrollresemble |  
+| bip_39_word_no_space_4 | escapeenrollresemblesight |  
+| bip_39_word_no_space_5 | escapeenrollresemblesightnephew |  
+| bip_39_word_no_space_6 | escapeenrollresemblesightnephewanswer |  
+| bip_39_word_no_space_7 | escapeenrollresemblesightnephewanswerjar |  
+| bip_39_word_no_space_8 | escapeenrollresemblesightnephewanswerjarresemble |  
+| bip_39_word_no_space_9 | escapeenrollresemblesightnephewanswerjarresembleblanket |  
 | bip_39_word_space_0 | ['escape', 'enroll', 'resemble', 'sight', 'nephew', 'answer', 'jar', 'resemble', 'blanket', 'old', 'cousin', 'assume'] |  
 | bip_39_word_space_1 | escape |  
 | bip_39_word_space_10 | escape enroll resemble sight nephew answer jar resemble blanket old |  

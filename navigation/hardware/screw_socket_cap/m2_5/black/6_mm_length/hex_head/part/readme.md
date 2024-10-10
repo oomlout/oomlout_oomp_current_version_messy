@@ -122,6 +122,18 @@ control
 armor
 habit
 unit |  
+| bip_39_word_no_space_1 | decade |  
+| bip_39_word_no_space_10 | decadehelpgridmergeelitecontrolarmorhabitunitdisease |  
+| bip_39_word_no_space_11 | decadehelpgridmergeelitecontrolarmorhabitunitdiseasesomeone |  
+| bip_39_word_no_space_12 | decadehelpgridmergeelitecontrolarmorhabitunitdiseasesomeoneagree |  
+| bip_39_word_no_space_2 | decadehelp |  
+| bip_39_word_no_space_3 | decadehelpgrid |  
+| bip_39_word_no_space_4 | decadehelpgridmerge |  
+| bip_39_word_no_space_5 | decadehelpgridmergeelite |  
+| bip_39_word_no_space_6 | decadehelpgridmergeelitecontrol |  
+| bip_39_word_no_space_7 | decadehelpgridmergeelitecontrolarmor |  
+| bip_39_word_no_space_8 | decadehelpgridmergeelitecontrolarmorhabit |  
+| bip_39_word_no_space_9 | decadehelpgridmergeelitecontrolarmorhabitunit |  
 | bip_39_word_space_0 | ['decade', 'help', 'grid', 'merge', 'elite', 'control', 'armor', 'habit', 'unit', 'disease', 'someone', 'agree'] |  
 | bip_39_word_space_1 | decade |  
 | bip_39_word_space_10 | decade help grid merge elite control armor habit unit disease |  

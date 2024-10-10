@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'swap
   someone
 
   used'
+bip_39_word_no_space_1: swap
+bip_39_word_no_space_10: swapremindtunnelinquirywhipovencrouchsomeoneusedlava
+bip_39_word_no_space_11: swapremindtunnelinquirywhipovencrouchsomeoneusedlavascout
+bip_39_word_no_space_12: swapremindtunnelinquirywhipovencrouchsomeoneusedlavascoutalmost
+bip_39_word_no_space_2: swapremind
+bip_39_word_no_space_3: swapremindtunnel
+bip_39_word_no_space_4: swapremindtunnelinquiry
+bip_39_word_no_space_5: swapremindtunnelinquirywhip
+bip_39_word_no_space_6: swapremindtunnelinquirywhipoven
+bip_39_word_no_space_7: swapremindtunnelinquirywhipovencrouch
+bip_39_word_no_space_8: swapremindtunnelinquirywhipovencrouchsomeone
+bip_39_word_no_space_9: swapremindtunnelinquirywhipovencrouchsomeoneused
 bip_39_word_space_0:
 - swap
 - remind

@@ -122,6 +122,18 @@ pink
 unknown
 rely
 feed |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legreduceringfriendcoursepinkunknownrelyfeedseries |  
+| bip_39_word_no_space_11 | legreduceringfriendcoursepinkunknownrelyfeedseriesvessel |  
+| bip_39_word_no_space_12 | legreduceringfriendcoursepinkunknownrelyfeedseriesvesselamateur |  
+| bip_39_word_no_space_2 | legreduce |  
+| bip_39_word_no_space_3 | legreducering |  
+| bip_39_word_no_space_4 | legreduceringfriend |  
+| bip_39_word_no_space_5 | legreduceringfriendcourse |  
+| bip_39_word_no_space_6 | legreduceringfriendcoursepink |  
+| bip_39_word_no_space_7 | legreduceringfriendcoursepinkunknown |  
+| bip_39_word_no_space_8 | legreduceringfriendcoursepinkunknownrely |  
+| bip_39_word_no_space_9 | legreduceringfriendcoursepinkunknownrelyfeed |  
 | bip_39_word_space_0 | ['leg', 'reduce', 'ring', 'friend', 'course', 'pink', 'unknown', 'rely', 'feed', 'series', 'vessel', 'amateur'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg reduce ring friend course pink unknown rely feed series |  

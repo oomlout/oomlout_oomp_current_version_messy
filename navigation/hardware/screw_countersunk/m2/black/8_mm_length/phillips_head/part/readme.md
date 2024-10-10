@@ -122,6 +122,18 @@ give
 similar
 gadget
 dial |  
+| bip_39_word_no_space_1 | endorse |  
+| bip_39_word_no_space_10 | endorseindoorsalonauditmeatgivesimilargadgetdialalbum |  
+| bip_39_word_no_space_11 | endorseindoorsalonauditmeatgivesimilargadgetdialalbumswear |  
+| bip_39_word_no_space_12 | endorseindoorsalonauditmeatgivesimilargadgetdialalbumswearabstract |  
+| bip_39_word_no_space_2 | endorseindoor |  
+| bip_39_word_no_space_3 | endorseindoorsalon |  
+| bip_39_word_no_space_4 | endorseindoorsalonaudit |  
+| bip_39_word_no_space_5 | endorseindoorsalonauditmeat |  
+| bip_39_word_no_space_6 | endorseindoorsalonauditmeatgive |  
+| bip_39_word_no_space_7 | endorseindoorsalonauditmeatgivesimilar |  
+| bip_39_word_no_space_8 | endorseindoorsalonauditmeatgivesimilargadget |  
+| bip_39_word_no_space_9 | endorseindoorsalonauditmeatgivesimilargadgetdial |  
 | bip_39_word_space_0 | ['endorse', 'indoor', 'salon', 'audit', 'meat', 'give', 'similar', 'gadget', 'dial', 'album', 'swear', 'abstract'] |  
 | bip_39_word_space_1 | endorse |  
 | bip_39_word_space_10 | endorse indoor salon audit meat give similar gadget dial album |  

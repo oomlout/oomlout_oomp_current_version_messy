@@ -122,6 +122,18 @@ science
 swarm
 sweet
 cloth |  
+| bip_39_word_no_space_1 | mystery |  
+| bip_39_word_no_space_10 | mysterypoolcollecttonguenoodlescienceswarmsweetclothupgrade |  
+| bip_39_word_no_space_11 | mysterypoolcollecttonguenoodlescienceswarmsweetclothupgrademistake |  
+| bip_39_word_no_space_12 | mysterypoolcollecttonguenoodlescienceswarmsweetclothupgrademistakeaverage |  
+| bip_39_word_no_space_2 | mysterypool |  
+| bip_39_word_no_space_3 | mysterypoolcollect |  
+| bip_39_word_no_space_4 | mysterypoolcollecttongue |  
+| bip_39_word_no_space_5 | mysterypoolcollecttonguenoodle |  
+| bip_39_word_no_space_6 | mysterypoolcollecttonguenoodlescience |  
+| bip_39_word_no_space_7 | mysterypoolcollecttonguenoodlescienceswarm |  
+| bip_39_word_no_space_8 | mysterypoolcollecttonguenoodlescienceswarmsweet |  
+| bip_39_word_no_space_9 | mysterypoolcollecttonguenoodlescienceswarmsweetcloth |  
 | bip_39_word_space_0 | ['mystery', 'pool', 'collect', 'tongue', 'noodle', 'science', 'swarm', 'sweet', 'cloth', 'upgrade', 'mistake', 'average'] |  
 | bip_39_word_space_1 | mystery |  
 | bip_39_word_space_10 | mystery pool collect tongue noodle science swarm sweet cloth upgrade |  

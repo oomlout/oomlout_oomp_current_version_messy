@@ -122,6 +122,18 @@ sausage
 census
 hobby
 gasp |  
+| bip_39_word_no_space_1 | subject |  
+| bip_39_word_no_space_10 | subjectbiologyurbanhugesweetsausagecensushobbygaspsubmit |  
+| bip_39_word_no_space_11 | subjectbiologyurbanhugesweetsausagecensushobbygaspsubmitsearch |  
+| bip_39_word_no_space_12 | subjectbiologyurbanhugesweetsausagecensushobbygaspsubmitsearchamount |  
+| bip_39_word_no_space_2 | subjectbiology |  
+| bip_39_word_no_space_3 | subjectbiologyurban |  
+| bip_39_word_no_space_4 | subjectbiologyurbanhuge |  
+| bip_39_word_no_space_5 | subjectbiologyurbanhugesweet |  
+| bip_39_word_no_space_6 | subjectbiologyurbanhugesweetsausage |  
+| bip_39_word_no_space_7 | subjectbiologyurbanhugesweetsausagecensus |  
+| bip_39_word_no_space_8 | subjectbiologyurbanhugesweetsausagecensushobby |  
+| bip_39_word_no_space_9 | subjectbiologyurbanhugesweetsausagecensushobbygasp |  
 | bip_39_word_space_0 | ['subject', 'biology', 'urban', 'huge', 'sweet', 'sausage', 'census', 'hobby', 'gasp', 'submit', 'search', 'amount'] |  
 | bip_39_word_space_1 | subject |  
 | bip_39_word_space_10 | subject biology urban huge sweet sausage census hobby gasp submit |  

@@ -122,6 +122,18 @@ layer
 corn
 supply
 unfair |  
+| bip_39_word_no_space_1 | shallow |  
+| bip_39_word_no_space_10 | shallowdicedenyfeedtelllayercornsupplyunfairindoor |  
+| bip_39_word_no_space_11 | shallowdicedenyfeedtelllayercornsupplyunfairindoorarch |  
+| bip_39_word_no_space_12 | shallowdicedenyfeedtelllayercornsupplyunfairindoorarchalmost |  
+| bip_39_word_no_space_2 | shallowdice |  
+| bip_39_word_no_space_3 | shallowdicedeny |  
+| bip_39_word_no_space_4 | shallowdicedenyfeed |  
+| bip_39_word_no_space_5 | shallowdicedenyfeedtell |  
+| bip_39_word_no_space_6 | shallowdicedenyfeedtelllayer |  
+| bip_39_word_no_space_7 | shallowdicedenyfeedtelllayercorn |  
+| bip_39_word_no_space_8 | shallowdicedenyfeedtelllayercornsupply |  
+| bip_39_word_no_space_9 | shallowdicedenyfeedtelllayercornsupplyunfair |  
 | bip_39_word_space_0 | ['shallow', 'dice', 'deny', 'feed', 'tell', 'layer', 'corn', 'supply', 'unfair', 'indoor', 'arch', 'almost'] |  
 | bip_39_word_space_1 | shallow |  
 | bip_39_word_space_10 | shallow dice deny feed tell layer corn supply unfair indoor |  

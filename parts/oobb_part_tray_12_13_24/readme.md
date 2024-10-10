@@ -122,6 +122,18 @@ correct
 sketch
 drastic
 impulse |  
+| bip_39_word_no_space_1 | begin |  
+| bip_39_word_no_space_10 | beginroyalsummerladyzonecorrectsketchdrasticimpulseguitar |  
+| bip_39_word_no_space_11 | beginroyalsummerladyzonecorrectsketchdrasticimpulseguitarclump |  
+| bip_39_word_no_space_12 | beginroyalsummerladyzonecorrectsketchdrasticimpulseguitarclumpadvice |  
+| bip_39_word_no_space_2 | beginroyal |  
+| bip_39_word_no_space_3 | beginroyalsummer |  
+| bip_39_word_no_space_4 | beginroyalsummerlady |  
+| bip_39_word_no_space_5 | beginroyalsummerladyzone |  
+| bip_39_word_no_space_6 | beginroyalsummerladyzonecorrect |  
+| bip_39_word_no_space_7 | beginroyalsummerladyzonecorrectsketch |  
+| bip_39_word_no_space_8 | beginroyalsummerladyzonecorrectsketchdrastic |  
+| bip_39_word_no_space_9 | beginroyalsummerladyzonecorrectsketchdrasticimpulse |  
 | bip_39_word_space_0 | ['begin', 'royal', 'summer', 'lady', 'zone', 'correct', 'sketch', 'drastic', 'impulse', 'guitar', 'clump', 'advice'] |  
 | bip_39_word_space_1 | begin |  
 | bip_39_word_space_10 | begin royal summer lady zone correct sketch drastic impulse guitar |  

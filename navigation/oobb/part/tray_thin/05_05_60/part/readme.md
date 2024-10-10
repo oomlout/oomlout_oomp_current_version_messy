@@ -122,6 +122,18 @@ split
 immense
 baby
 clean |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairgrocerymushroommyselfdonkeysplitimmensebabycleanspend |  
+| bip_39_word_no_space_11 | repairgrocerymushroommyselfdonkeysplitimmensebabycleanspendunusual |  
+| bip_39_word_no_space_12 | repairgrocerymushroommyselfdonkeysplitimmensebabycleanspendunusualage |  
+| bip_39_word_no_space_2 | repairgrocery |  
+| bip_39_word_no_space_3 | repairgrocerymushroom |  
+| bip_39_word_no_space_4 | repairgrocerymushroommyself |  
+| bip_39_word_no_space_5 | repairgrocerymushroommyselfdonkey |  
+| bip_39_word_no_space_6 | repairgrocerymushroommyselfdonkeysplit |  
+| bip_39_word_no_space_7 | repairgrocerymushroommyselfdonkeysplitimmense |  
+| bip_39_word_no_space_8 | repairgrocerymushroommyselfdonkeysplitimmensebaby |  
+| bip_39_word_no_space_9 | repairgrocerymushroommyselfdonkeysplitimmensebabyclean |  
 | bip_39_word_space_0 | ['repair', 'grocery', 'mushroom', 'myself', 'donkey', 'split', 'immense', 'baby', 'clean', 'spend', 'unusual', 'age'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair grocery mushroom myself donkey split immense baby clean spend |  

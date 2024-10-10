@@ -122,6 +122,18 @@ tribe
 main
 skirt
 place |  
+| bip_39_word_no_space_1 | pitch |  
+| bip_39_word_no_space_10 | pitchcoinhappylimbsoccertribemainskirtplacevirus |  
+| bip_39_word_no_space_11 | pitchcoinhappylimbsoccertribemainskirtplacevirusclaim |  
+| bip_39_word_no_space_12 | pitchcoinhappylimbsoccertribemainskirtplacevirusclaimactress |  
+| bip_39_word_no_space_2 | pitchcoin |  
+| bip_39_word_no_space_3 | pitchcoinhappy |  
+| bip_39_word_no_space_4 | pitchcoinhappylimb |  
+| bip_39_word_no_space_5 | pitchcoinhappylimbsoccer |  
+| bip_39_word_no_space_6 | pitchcoinhappylimbsoccertribe |  
+| bip_39_word_no_space_7 | pitchcoinhappylimbsoccertribemain |  
+| bip_39_word_no_space_8 | pitchcoinhappylimbsoccertribemainskirt |  
+| bip_39_word_no_space_9 | pitchcoinhappylimbsoccertribemainskirtplace |  
 | bip_39_word_space_0 | ['pitch', 'coin', 'happy', 'limb', 'soccer', 'tribe', 'main', 'skirt', 'place', 'virus', 'claim', 'actress'] |  
 | bip_39_word_space_1 | pitch |  
 | bip_39_word_space_10 | pitch coin happy limb soccer tribe main skirt place virus |  

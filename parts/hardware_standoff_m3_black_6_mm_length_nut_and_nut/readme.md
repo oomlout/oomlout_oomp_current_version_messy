@@ -122,6 +122,18 @@ fork
 over
 magic
 code |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialaboutaerobicmadairforkovermagiccodeescape |  
+| bip_39_word_no_space_11 | specialaboutaerobicmadairforkovermagiccodeescapeexpire |  
+| bip_39_word_no_space_12 | specialaboutaerobicmadairforkovermagiccodeescapeexpireactress |  
+| bip_39_word_no_space_2 | specialabout |  
+| bip_39_word_no_space_3 | specialaboutaerobic |  
+| bip_39_word_no_space_4 | specialaboutaerobicmad |  
+| bip_39_word_no_space_5 | specialaboutaerobicmadair |  
+| bip_39_word_no_space_6 | specialaboutaerobicmadairfork |  
+| bip_39_word_no_space_7 | specialaboutaerobicmadairforkover |  
+| bip_39_word_no_space_8 | specialaboutaerobicmadairforkovermagic |  
+| bip_39_word_no_space_9 | specialaboutaerobicmadairforkovermagiccode |  
 | bip_39_word_space_0 | ['special', 'about', 'aerobic', 'mad', 'air', 'fork', 'over', 'magic', 'code', 'escape', 'expire', 'actress'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special about aerobic mad air fork over magic code escape |  

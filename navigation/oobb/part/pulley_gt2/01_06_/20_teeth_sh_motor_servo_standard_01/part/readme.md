@@ -109,6 +109,17 @@ power
 frog
 absorb
 draft |  
+| bip_39_word_no_space_1 | ladder |  
+| bip_39_word_no_space_10 | laddermusicelevatorfaintdelaypowerfrogabsorbdrafttwelve |  
+| bip_39_word_no_space_11 | laddermusicelevatorfaintdelaypowerfrogabsorbdrafttwelvefound |  
+| bip_39_word_no_space_2 | laddermusic |  
+| bip_39_word_no_space_3 | laddermusicelevator |  
+| bip_39_word_no_space_4 | laddermusicelevatorfaint |  
+| bip_39_word_no_space_5 | laddermusicelevatorfaintdelay |  
+| bip_39_word_no_space_6 | laddermusicelevatorfaintdelaypower |  
+| bip_39_word_no_space_7 | laddermusicelevatorfaintdelaypowerfrog |  
+| bip_39_word_no_space_8 | laddermusicelevatorfaintdelaypowerfrogabsorb |  
+| bip_39_word_no_space_9 | laddermusicelevatorfaintdelaypowerfrogabsorbdraft |  
 | bip_39_word_space_0 | ['ladder', 'music', 'elevator', 'faint', 'delay', 'power', 'frog', 'absorb', 'draft', 'twelve', 'found'] |  
 | bip_39_word_space_1 | ladder |  
 | bip_39_word_space_10 | ladder music elevator faint delay power frog absorb draft twelve |  

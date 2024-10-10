@@ -122,6 +122,18 @@ goose
 throw
 increase
 drum |  
+| bip_39_word_no_space_1 | resource |  
+| bip_39_word_no_space_10 | resourcemaximumeffortswimtaxigoosethrowincreasedrummatch |  
+| bip_39_word_no_space_11 | resourcemaximumeffortswimtaxigoosethrowincreasedrummatchmaple |  
+| bip_39_word_no_space_12 | resourcemaximumeffortswimtaxigoosethrowincreasedrummatchmaplearmor |  
+| bip_39_word_no_space_2 | resourcemaximum |  
+| bip_39_word_no_space_3 | resourcemaximumeffort |  
+| bip_39_word_no_space_4 | resourcemaximumeffortswim |  
+| bip_39_word_no_space_5 | resourcemaximumeffortswimtaxi |  
+| bip_39_word_no_space_6 | resourcemaximumeffortswimtaxigoose |  
+| bip_39_word_no_space_7 | resourcemaximumeffortswimtaxigoosethrow |  
+| bip_39_word_no_space_8 | resourcemaximumeffortswimtaxigoosethrowincrease |  
+| bip_39_word_no_space_9 | resourcemaximumeffortswimtaxigoosethrowincreasedrum |  
 | bip_39_word_space_0 | ['resource', 'maximum', 'effort', 'swim', 'taxi', 'goose', 'throw', 'increase', 'drum', 'match', 'maple', 'armor'] |  
 | bip_39_word_space_1 | resource |  
 | bip_39_word_space_10 | resource maximum effort swim taxi goose throw increase drum match |  

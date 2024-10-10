@@ -122,6 +122,18 @@ topple
 crash
 town
 spare |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middlefanobscuretalkissuetopplecrashtownspareveteran |  
+| bip_39_word_no_space_11 | middlefanobscuretalkissuetopplecrashtownspareveteranzebra |  
+| bip_39_word_no_space_12 | middlefanobscuretalkissuetopplecrashtownspareveteranzebraaisle |  
+| bip_39_word_no_space_2 | middlefan |  
+| bip_39_word_no_space_3 | middlefanobscure |  
+| bip_39_word_no_space_4 | middlefanobscuretalk |  
+| bip_39_word_no_space_5 | middlefanobscuretalkissue |  
+| bip_39_word_no_space_6 | middlefanobscuretalkissuetopple |  
+| bip_39_word_no_space_7 | middlefanobscuretalkissuetopplecrash |  
+| bip_39_word_no_space_8 | middlefanobscuretalkissuetopplecrashtown |  
+| bip_39_word_no_space_9 | middlefanobscuretalkissuetopplecrashtownspare |  
 | bip_39_word_space_0 | ['middle', 'fan', 'obscure', 'talk', 'issue', 'topple', 'crash', 'town', 'spare', 'veteran', 'zebra', 'aisle'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle fan obscure talk issue topple crash town spare veteran |  

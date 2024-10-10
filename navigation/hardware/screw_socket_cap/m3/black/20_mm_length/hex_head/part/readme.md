@@ -122,6 +122,18 @@ domain
 air
 still
 cook |  
+| bip_39_word_no_space_1 | february |  
+| bip_39_word_no_space_10 | februaryexplainremovewitnesschairdomainairstillcookmarket |  
+| bip_39_word_no_space_11 | februaryexplainremovewitnesschairdomainairstillcookmarketdrink |  
+| bip_39_word_no_space_12 | februaryexplainremovewitnesschairdomainairstillcookmarketdrinkassault |  
+| bip_39_word_no_space_2 | februaryexplain |  
+| bip_39_word_no_space_3 | februaryexplainremove |  
+| bip_39_word_no_space_4 | februaryexplainremovewitness |  
+| bip_39_word_no_space_5 | februaryexplainremovewitnesschair |  
+| bip_39_word_no_space_6 | februaryexplainremovewitnesschairdomain |  
+| bip_39_word_no_space_7 | februaryexplainremovewitnesschairdomainair |  
+| bip_39_word_no_space_8 | februaryexplainremovewitnesschairdomainairstill |  
+| bip_39_word_no_space_9 | februaryexplainremovewitnesschairdomainairstillcook |  
 | bip_39_word_space_0 | ['february', 'explain', 'remove', 'witness', 'chair', 'domain', 'air', 'still', 'cook', 'market', 'drink', 'assault'] |  
 | bip_39_word_space_1 | february |  
 | bip_39_word_space_10 | february explain remove witness chair domain air still cook market |  

@@ -122,6 +122,18 @@ rebuild
 beef
 race
 shoe |  
+| bip_39_word_no_space_1 | clay |  
+| bip_39_word_no_space_10 | clayeasttoddlerpageburdenrebuildbeefraceshoebarely |  
+| bip_39_word_no_space_11 | clayeasttoddlerpageburdenrebuildbeefraceshoebarelymajor |  
+| bip_39_word_no_space_12 | clayeasttoddlerpageburdenrebuildbeefraceshoebarelymajorattitude |  
+| bip_39_word_no_space_2 | clayeast |  
+| bip_39_word_no_space_3 | clayeasttoddler |  
+| bip_39_word_no_space_4 | clayeasttoddlerpage |  
+| bip_39_word_no_space_5 | clayeasttoddlerpageburden |  
+| bip_39_word_no_space_6 | clayeasttoddlerpageburdenrebuild |  
+| bip_39_word_no_space_7 | clayeasttoddlerpageburdenrebuildbeef |  
+| bip_39_word_no_space_8 | clayeasttoddlerpageburdenrebuildbeefrace |  
+| bip_39_word_no_space_9 | clayeasttoddlerpageburdenrebuildbeefraceshoe |  
 | bip_39_word_space_0 | ['clay', 'east', 'toddler', 'page', 'burden', 'rebuild', 'beef', 'race', 'shoe', 'barely', 'major', 'attitude'] |  
 | bip_39_word_space_1 | clay |  
 | bip_39_word_space_10 | clay east toddler page burden rebuild beef race shoe barely |  

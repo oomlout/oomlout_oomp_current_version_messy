@@ -122,6 +122,18 @@ love
 bamboo
 corn
 advance |  
+| bip_39_word_no_space_1 | shy |  
+| bip_39_word_no_space_10 | shyexhaustapplekeepsaladlovebamboocornadvancewrong |  
+| bip_39_word_no_space_11 | shyexhaustapplekeepsaladlovebamboocornadvancewronghood |  
+| bip_39_word_no_space_12 | shyexhaustapplekeepsaladlovebamboocornadvancewronghoodalbum |  
+| bip_39_word_no_space_2 | shyexhaust |  
+| bip_39_word_no_space_3 | shyexhaustapple |  
+| bip_39_word_no_space_4 | shyexhaustapplekeep |  
+| bip_39_word_no_space_5 | shyexhaustapplekeepsalad |  
+| bip_39_word_no_space_6 | shyexhaustapplekeepsaladlove |  
+| bip_39_word_no_space_7 | shyexhaustapplekeepsaladlovebamboo |  
+| bip_39_word_no_space_8 | shyexhaustapplekeepsaladlovebamboocorn |  
+| bip_39_word_no_space_9 | shyexhaustapplekeepsaladlovebamboocornadvance |  
 | bip_39_word_space_0 | ['shy', 'exhaust', 'apple', 'keep', 'salad', 'love', 'bamboo', 'corn', 'advance', 'wrong', 'hood', 'album'] |  
 | bip_39_word_space_1 | shy |  
 | bip_39_word_space_10 | shy exhaust apple keep salad love bamboo corn advance wrong |  

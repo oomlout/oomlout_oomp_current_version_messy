@@ -122,6 +122,18 @@ cupboard
 obvious
 sock
 brown |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | areakangarooaccessdraftviolincupboardobvioussockbrownforget |  
+| bip_39_word_no_space_11 | areakangarooaccessdraftviolincupboardobvioussockbrownforgetseek |  
+| bip_39_word_no_space_12 | areakangarooaccessdraftviolincupboardobvioussockbrownforgetseekassume |  
+| bip_39_word_no_space_2 | areakangaroo |  
+| bip_39_word_no_space_3 | areakangarooaccess |  
+| bip_39_word_no_space_4 | areakangarooaccessdraft |  
+| bip_39_word_no_space_5 | areakangarooaccessdraftviolin |  
+| bip_39_word_no_space_6 | areakangarooaccessdraftviolincupboard |  
+| bip_39_word_no_space_7 | areakangarooaccessdraftviolincupboardobvious |  
+| bip_39_word_no_space_8 | areakangarooaccessdraftviolincupboardobvioussock |  
+| bip_39_word_no_space_9 | areakangarooaccessdraftviolincupboardobvioussockbrown |  
 | bip_39_word_space_0 | ['area', 'kangaroo', 'access', 'draft', 'violin', 'cupboard', 'obvious', 'sock', 'brown', 'forget', 'seek', 'assume'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area kangaroo access draft violin cupboard obvious sock brown forget |  

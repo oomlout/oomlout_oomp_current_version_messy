@@ -122,6 +122,18 @@ egg
 art
 sting
 adult |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddleloungesupplyechoarmeggartstingadultbacon |  
+| bip_39_word_no_space_11 | saddleloungesupplyechoarmeggartstingadultbaconshrimp |  
+| bip_39_word_no_space_12 | saddleloungesupplyechoarmeggartstingadultbaconshrimpanger |  
+| bip_39_word_no_space_2 | saddlelounge |  
+| bip_39_word_no_space_3 | saddleloungesupply |  
+| bip_39_word_no_space_4 | saddleloungesupplyecho |  
+| bip_39_word_no_space_5 | saddleloungesupplyechoarm |  
+| bip_39_word_no_space_6 | saddleloungesupplyechoarmegg |  
+| bip_39_word_no_space_7 | saddleloungesupplyechoarmeggart |  
+| bip_39_word_no_space_8 | saddleloungesupplyechoarmeggartsting |  
+| bip_39_word_no_space_9 | saddleloungesupplyechoarmeggartstingadult |  
 | bip_39_word_space_0 | ['saddle', 'lounge', 'supply', 'echo', 'arm', 'egg', 'art', 'sting', 'adult', 'bacon', 'shrimp', 'anger'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle lounge supply echo arm egg art sting adult bacon |  

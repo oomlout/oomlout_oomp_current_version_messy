@@ -122,6 +122,18 @@ vintage
 helmet
 key
 absent |  
+| bip_39_word_no_space_1 | bridge |  
+| bip_39_word_no_space_10 | bridgeshellchairhavenarrowvintagehelmetkeyabsentresource |  
+| bip_39_word_no_space_11 | bridgeshellchairhavenarrowvintagehelmetkeyabsentresourcefeature |  
+| bip_39_word_no_space_12 | bridgeshellchairhavenarrowvintagehelmetkeyabsentresourcefeatureage |  
+| bip_39_word_no_space_2 | bridgeshell |  
+| bip_39_word_no_space_3 | bridgeshellchair |  
+| bip_39_word_no_space_4 | bridgeshellchairhave |  
+| bip_39_word_no_space_5 | bridgeshellchairhavenarrow |  
+| bip_39_word_no_space_6 | bridgeshellchairhavenarrowvintage |  
+| bip_39_word_no_space_7 | bridgeshellchairhavenarrowvintagehelmet |  
+| bip_39_word_no_space_8 | bridgeshellchairhavenarrowvintagehelmetkey |  
+| bip_39_word_no_space_9 | bridgeshellchairhavenarrowvintagehelmetkeyabsent |  
 | bip_39_word_space_0 | ['bridge', 'shell', 'chair', 'have', 'narrow', 'vintage', 'helmet', 'key', 'absent', 'resource', 'feature', 'age'] |  
 | bip_39_word_space_1 | bridge |  
 | bip_39_word_space_10 | bridge shell chair have narrow vintage helmet key absent resource |  

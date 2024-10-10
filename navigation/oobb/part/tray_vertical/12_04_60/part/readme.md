@@ -122,6 +122,18 @@ picnic
 clerk
 hover
 minute |  
+| bip_39_word_no_space_1 | blur |  
+| bip_39_word_no_space_10 | blurundorunwayputaveragepicnicclerkhoverminuteobscure |  
+| bip_39_word_no_space_11 | blurundorunwayputaveragepicnicclerkhoverminuteobscureapple |  
+| bip_39_word_no_space_12 | blurundorunwayputaveragepicnicclerkhoverminuteobscureappleabout |  
+| bip_39_word_no_space_2 | blurundo |  
+| bip_39_word_no_space_3 | blurundorunway |  
+| bip_39_word_no_space_4 | blurundorunwayput |  
+| bip_39_word_no_space_5 | blurundorunwayputaverage |  
+| bip_39_word_no_space_6 | blurundorunwayputaveragepicnic |  
+| bip_39_word_no_space_7 | blurundorunwayputaveragepicnicclerk |  
+| bip_39_word_no_space_8 | blurundorunwayputaveragepicnicclerkhover |  
+| bip_39_word_no_space_9 | blurundorunwayputaveragepicnicclerkhoverminute |  
 | bip_39_word_space_0 | ['blur', 'undo', 'runway', 'put', 'average', 'picnic', 'clerk', 'hover', 'minute', 'obscure', 'apple', 'about'] |  
 | bip_39_word_space_1 | blur |  
 | bip_39_word_space_10 | blur undo runway put average picnic clerk hover minute obscure |  

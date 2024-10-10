@@ -122,6 +122,18 @@ cereal
 width
 police
 hero |  
+| bip_39_word_no_space_1 | inch |  
+| bip_39_word_no_space_10 | inchcerealbunkerhistorygapcerealwidthpoliceherobounce |  
+| bip_39_word_no_space_11 | inchcerealbunkerhistorygapcerealwidthpoliceherobouncestable |  
+| bip_39_word_no_space_12 | inchcerealbunkerhistorygapcerealwidthpoliceherobouncestablearound |  
+| bip_39_word_no_space_2 | inchcereal |  
+| bip_39_word_no_space_3 | inchcerealbunker |  
+| bip_39_word_no_space_4 | inchcerealbunkerhistory |  
+| bip_39_word_no_space_5 | inchcerealbunkerhistorygap |  
+| bip_39_word_no_space_6 | inchcerealbunkerhistorygapcereal |  
+| bip_39_word_no_space_7 | inchcerealbunkerhistorygapcerealwidth |  
+| bip_39_word_no_space_8 | inchcerealbunkerhistorygapcerealwidthpolice |  
+| bip_39_word_no_space_9 | inchcerealbunkerhistorygapcerealwidthpolicehero |  
 | bip_39_word_space_0 | ['inch', 'cereal', 'bunker', 'history', 'gap', 'cereal', 'width', 'police', 'hero', 'bounce', 'stable', 'around'] |  
 | bip_39_word_space_1 | inch |  
 | bip_39_word_space_10 | inch cereal bunker history gap cereal width police hero bounce |  

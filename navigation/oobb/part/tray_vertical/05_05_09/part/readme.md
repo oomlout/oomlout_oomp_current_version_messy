@@ -122,6 +122,18 @@ rocket
 point
 once
 gorilla |  
+| bip_39_word_no_space_1 | screen |  
+| bip_39_word_no_space_10 | screenmansioncorenicegadgetrocketpointoncegorilladebate |  
+| bip_39_word_no_space_11 | screenmansioncorenicegadgetrocketpointoncegorilladebatevan |  
+| bip_39_word_no_space_12 | screenmansioncorenicegadgetrocketpointoncegorilladebatevanaround |  
+| bip_39_word_no_space_2 | screenmansion |  
+| bip_39_word_no_space_3 | screenmansioncore |  
+| bip_39_word_no_space_4 | screenmansioncorenice |  
+| bip_39_word_no_space_5 | screenmansioncorenicegadget |  
+| bip_39_word_no_space_6 | screenmansioncorenicegadgetrocket |  
+| bip_39_word_no_space_7 | screenmansioncorenicegadgetrocketpoint |  
+| bip_39_word_no_space_8 | screenmansioncorenicegadgetrocketpointonce |  
+| bip_39_word_no_space_9 | screenmansioncorenicegadgetrocketpointoncegorilla |  
 | bip_39_word_space_0 | ['screen', 'mansion', 'core', 'nice', 'gadget', 'rocket', 'point', 'once', 'gorilla', 'debate', 'van', 'around'] |  
 | bip_39_word_space_1 | screen |  
 | bip_39_word_space_10 | screen mansion core nice gadget rocket point once gorilla debate |  

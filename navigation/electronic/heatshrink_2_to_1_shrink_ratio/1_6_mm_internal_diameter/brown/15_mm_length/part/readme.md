@@ -122,6 +122,18 @@ open
 program
 ripple
 bid |  
+| bip_39_word_no_space_1 | left |  
+| bip_39_word_no_space_10 | leftjustorientextendappleopenprogramripplebidact |  
+| bip_39_word_no_space_11 | leftjustorientextendappleopenprogramripplebidactcraft |  
+| bip_39_word_no_space_12 | leftjustorientextendappleopenprogramripplebidactcraftarmor |  
+| bip_39_word_no_space_2 | leftjust |  
+| bip_39_word_no_space_3 | leftjustorient |  
+| bip_39_word_no_space_4 | leftjustorientextend |  
+| bip_39_word_no_space_5 | leftjustorientextendapple |  
+| bip_39_word_no_space_6 | leftjustorientextendappleopen |  
+| bip_39_word_no_space_7 | leftjustorientextendappleopenprogram |  
+| bip_39_word_no_space_8 | leftjustorientextendappleopenprogramripple |  
+| bip_39_word_no_space_9 | leftjustorientextendappleopenprogramripplebid |  
 | bip_39_word_space_0 | ['left', 'just', 'orient', 'extend', 'apple', 'open', 'program', 'ripple', 'bid', 'act', 'craft', 'armor'] |  
 | bip_39_word_space_1 | left |  
 | bip_39_word_space_10 | left just orient extend apple open program ripple bid act |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'seminar
   chair
 
   dolphin'
+bip_39_word_no_space_1: seminar
+bip_39_word_no_space_10: seminarsnowwaitpowderaimcodecurtainchairdolphinkit
+bip_39_word_no_space_11: seminarsnowwaitpowderaimcodecurtainchairdolphinkitflip
+bip_39_word_no_space_12: seminarsnowwaitpowderaimcodecurtainchairdolphinkitflipadjust
+bip_39_word_no_space_2: seminarsnow
+bip_39_word_no_space_3: seminarsnowwait
+bip_39_word_no_space_4: seminarsnowwaitpowder
+bip_39_word_no_space_5: seminarsnowwaitpowderaim
+bip_39_word_no_space_6: seminarsnowwaitpowderaimcode
+bip_39_word_no_space_7: seminarsnowwaitpowderaimcodecurtain
+bip_39_word_no_space_8: seminarsnowwaitpowderaimcodecurtainchair
+bip_39_word_no_space_9: seminarsnowwaitpowderaimcodecurtainchairdolphin
 bip_39_word_space_0:
 - seminar
 - snow

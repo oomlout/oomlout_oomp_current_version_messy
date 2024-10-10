@@ -122,6 +122,18 @@ cash
 audit
 rifle
 asthma |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armvalvereceivegospelfaithcashauditrifleasthmaerror |  
+| bip_39_word_no_space_11 | armvalvereceivegospelfaithcashauditrifleasthmaerrororder |  
+| bip_39_word_no_space_12 | armvalvereceivegospelfaithcashauditrifleasthmaerrororderactress |  
+| bip_39_word_no_space_2 | armvalve |  
+| bip_39_word_no_space_3 | armvalvereceive |  
+| bip_39_word_no_space_4 | armvalvereceivegospel |  
+| bip_39_word_no_space_5 | armvalvereceivegospelfaith |  
+| bip_39_word_no_space_6 | armvalvereceivegospelfaithcash |  
+| bip_39_word_no_space_7 | armvalvereceivegospelfaithcashaudit |  
+| bip_39_word_no_space_8 | armvalvereceivegospelfaithcashauditrifle |  
+| bip_39_word_no_space_9 | armvalvereceivegospelfaithcashauditrifleasthma |  
 | bip_39_word_space_0 | ['arm', 'valve', 'receive', 'gospel', 'faith', 'cash', 'audit', 'rifle', 'asthma', 'error', 'order', 'actress'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm valve receive gospel faith cash audit rifle asthma error |  

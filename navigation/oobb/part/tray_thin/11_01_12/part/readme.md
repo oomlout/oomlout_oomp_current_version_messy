@@ -122,6 +122,18 @@ raw
 vast
 mammal
 anger |  
+| bip_39_word_no_space_1 | rather |  
+| bip_39_word_no_space_10 | ratherharborboatmoondegreerawvastmammalangerstone |  
+| bip_39_word_no_space_11 | ratherharborboatmoondegreerawvastmammalangerstonereplace |  
+| bip_39_word_no_space_12 | ratherharborboatmoondegreerawvastmammalangerstonereplaceabsurd |  
+| bip_39_word_no_space_2 | ratherharbor |  
+| bip_39_word_no_space_3 | ratherharborboat |  
+| bip_39_word_no_space_4 | ratherharborboatmoon |  
+| bip_39_word_no_space_5 | ratherharborboatmoondegree |  
+| bip_39_word_no_space_6 | ratherharborboatmoondegreeraw |  
+| bip_39_word_no_space_7 | ratherharborboatmoondegreerawvast |  
+| bip_39_word_no_space_8 | ratherharborboatmoondegreerawvastmammal |  
+| bip_39_word_no_space_9 | ratherharborboatmoondegreerawvastmammalanger |  
 | bip_39_word_space_0 | ['rather', 'harbor', 'boat', 'moon', 'degree', 'raw', 'vast', 'mammal', 'anger', 'stone', 'replace', 'absurd'] |  
 | bip_39_word_space_1 | rather |  
 | bip_39_word_space_10 | rather harbor boat moon degree raw vast mammal anger stone |  

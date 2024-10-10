@@ -122,6 +122,18 @@ brisk
 morning
 globe
 cloud |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policeattitudediarylanguagepinkbriskmorningglobecloudclip |  
+| bip_39_word_no_space_11 | policeattitudediarylanguagepinkbriskmorningglobecloudclipvalve |  
+| bip_39_word_no_space_12 | policeattitudediarylanguagepinkbriskmorningglobecloudclipvalveabsorb |  
+| bip_39_word_no_space_2 | policeattitude |  
+| bip_39_word_no_space_3 | policeattitudediary |  
+| bip_39_word_no_space_4 | policeattitudediarylanguage |  
+| bip_39_word_no_space_5 | policeattitudediarylanguagepink |  
+| bip_39_word_no_space_6 | policeattitudediarylanguagepinkbrisk |  
+| bip_39_word_no_space_7 | policeattitudediarylanguagepinkbriskmorning |  
+| bip_39_word_no_space_8 | policeattitudediarylanguagepinkbriskmorningglobe |  
+| bip_39_word_no_space_9 | policeattitudediarylanguagepinkbriskmorningglobecloud |  
 | bip_39_word_space_0 | ['police', 'attitude', 'diary', 'language', 'pink', 'brisk', 'morning', 'globe', 'cloud', 'clip', 'valve', 'absorb'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police attitude diary language pink brisk morning globe cloud clip |  

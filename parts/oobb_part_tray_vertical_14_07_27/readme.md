@@ -122,6 +122,18 @@ street
 gold
 venture
 ugly |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddypulldecreaseusedhumorstreetgoldventureuglysalad |  
+| bip_39_word_no_space_11 | buddypulldecreaseusedhumorstreetgoldventureuglysaladbulb |  
+| bip_39_word_no_space_12 | buddypulldecreaseusedhumorstreetgoldventureuglysaladbulbarmy |  
+| bip_39_word_no_space_2 | buddypull |  
+| bip_39_word_no_space_3 | buddypulldecrease |  
+| bip_39_word_no_space_4 | buddypulldecreaseused |  
+| bip_39_word_no_space_5 | buddypulldecreaseusedhumor |  
+| bip_39_word_no_space_6 | buddypulldecreaseusedhumorstreet |  
+| bip_39_word_no_space_7 | buddypulldecreaseusedhumorstreetgold |  
+| bip_39_word_no_space_8 | buddypulldecreaseusedhumorstreetgoldventure |  
+| bip_39_word_no_space_9 | buddypulldecreaseusedhumorstreetgoldventureugly |  
 | bip_39_word_space_0 | ['buddy', 'pull', 'decrease', 'used', 'humor', 'street', 'gold', 'venture', 'ugly', 'salad', 'bulb', 'army'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy pull decrease used humor street gold venture ugly salad |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'series
   math
 
   mountain'
+bip_39_word_no_space_1: series
+bip_39_word_no_space_10: seriesglobebeanwarmstaygadgeteyemathmountainhost
+bip_39_word_no_space_11: seriesglobebeanwarmstaygadgeteyemathmountainhostslab
+bip_39_word_no_space_12: seriesglobebeanwarmstaygadgeteyemathmountainhostslabaccess
+bip_39_word_no_space_2: seriesglobe
+bip_39_word_no_space_3: seriesglobebean
+bip_39_word_no_space_4: seriesglobebeanwarm
+bip_39_word_no_space_5: seriesglobebeanwarmstay
+bip_39_word_no_space_6: seriesglobebeanwarmstaygadget
+bip_39_word_no_space_7: seriesglobebeanwarmstaygadgeteye
+bip_39_word_no_space_8: seriesglobebeanwarmstaygadgeteyemath
+bip_39_word_no_space_9: seriesglobebeanwarmstaygadgeteyemathmountain
 bip_39_word_space_0:
 - series
 - globe

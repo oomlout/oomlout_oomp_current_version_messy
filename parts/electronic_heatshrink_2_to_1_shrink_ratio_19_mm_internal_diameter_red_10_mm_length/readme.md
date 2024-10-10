@@ -122,6 +122,18 @@ lemon
 salad
 open
 brave |  
+| bip_39_word_no_space_1 | stick |  
+| bip_39_word_no_space_10 | stickcanvaslyricsdumbunveillemonsaladopenbravetoken |  
+| bip_39_word_no_space_11 | stickcanvaslyricsdumbunveillemonsaladopenbravetokencorn |  
+| bip_39_word_no_space_12 | stickcanvaslyricsdumbunveillemonsaladopenbravetokencornathlete |  
+| bip_39_word_no_space_2 | stickcanvas |  
+| bip_39_word_no_space_3 | stickcanvaslyrics |  
+| bip_39_word_no_space_4 | stickcanvaslyricsdumb |  
+| bip_39_word_no_space_5 | stickcanvaslyricsdumbunveil |  
+| bip_39_word_no_space_6 | stickcanvaslyricsdumbunveillemon |  
+| bip_39_word_no_space_7 | stickcanvaslyricsdumbunveillemonsalad |  
+| bip_39_word_no_space_8 | stickcanvaslyricsdumbunveillemonsaladopen |  
+| bip_39_word_no_space_9 | stickcanvaslyricsdumbunveillemonsaladopenbrave |  
 | bip_39_word_space_0 | ['stick', 'canvas', 'lyrics', 'dumb', 'unveil', 'lemon', 'salad', 'open', 'brave', 'token', 'corn', 'athlete'] |  
 | bip_39_word_space_1 | stick |  
 | bip_39_word_space_10 | stick canvas lyrics dumb unveil lemon salad open brave token |  

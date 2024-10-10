@@ -122,6 +122,18 @@ menu
 blue
 retreat
 blame |  
+| bip_39_word_no_space_1 | rifle |  
+| bip_39_word_no_space_10 | rifleunclepromotefamilygoodmenublueretreatblameexplain |  
+| bip_39_word_no_space_11 | rifleunclepromotefamilygoodmenublueretreatblameexplainskate |  
+| bip_39_word_no_space_12 | rifleunclepromotefamilygoodmenublueretreatblameexplainskateahead |  
+| bip_39_word_no_space_2 | rifleuncle |  
+| bip_39_word_no_space_3 | rifleunclepromote |  
+| bip_39_word_no_space_4 | rifleunclepromotefamily |  
+| bip_39_word_no_space_5 | rifleunclepromotefamilygood |  
+| bip_39_word_no_space_6 | rifleunclepromotefamilygoodmenu |  
+| bip_39_word_no_space_7 | rifleunclepromotefamilygoodmenublue |  
+| bip_39_word_no_space_8 | rifleunclepromotefamilygoodmenublueretreat |  
+| bip_39_word_no_space_9 | rifleunclepromotefamilygoodmenublueretreatblame |  
 | bip_39_word_space_0 | ['rifle', 'uncle', 'promote', 'family', 'good', 'menu', 'blue', 'retreat', 'blame', 'explain', 'skate', 'ahead'] |  
 | bip_39_word_space_1 | rifle |  
 | bip_39_word_space_10 | rifle uncle promote family good menu blue retreat blame explain |  

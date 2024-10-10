@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rescue
   army
 
   auction'
+bip_39_word_no_space_1: rescue
+bip_39_word_no_space_10: rescuemotorvisadebaterivervalvenumberarmyauctionpayment
+bip_39_word_no_space_11: rescuemotorvisadebaterivervalvenumberarmyauctionpaymentterm
+bip_39_word_no_space_12: rescuemotorvisadebaterivervalvenumberarmyauctionpaymenttermallow
+bip_39_word_no_space_2: rescuemotor
+bip_39_word_no_space_3: rescuemotorvisa
+bip_39_word_no_space_4: rescuemotorvisadebate
+bip_39_word_no_space_5: rescuemotorvisadebateriver
+bip_39_word_no_space_6: rescuemotorvisadebaterivervalve
+bip_39_word_no_space_7: rescuemotorvisadebaterivervalvenumber
+bip_39_word_no_space_8: rescuemotorvisadebaterivervalvenumberarmy
+bip_39_word_no_space_9: rescuemotorvisadebaterivervalvenumberarmyauction
 bip_39_word_space_0:
 - rescue
 - motor

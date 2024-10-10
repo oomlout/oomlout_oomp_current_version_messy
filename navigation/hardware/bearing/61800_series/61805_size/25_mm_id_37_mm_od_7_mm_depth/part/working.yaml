@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'arctic
   butter
 
   praise'
+bip_39_word_no_space_1: arctic
+bip_39_word_no_space_10: arcticbonesouthslightcargoeggshadowbutterpraiseyou
+bip_39_word_no_space_11: arcticbonesouthslightcargoeggshadowbutterpraiseyoutarget
+bip_39_word_no_space_12: arcticbonesouthslightcargoeggshadowbutterpraiseyoutargetanchor
+bip_39_word_no_space_2: arcticbone
+bip_39_word_no_space_3: arcticbonesouth
+bip_39_word_no_space_4: arcticbonesouthslight
+bip_39_word_no_space_5: arcticbonesouthslightcargo
+bip_39_word_no_space_6: arcticbonesouthslightcargoegg
+bip_39_word_no_space_7: arcticbonesouthslightcargoeggshadow
+bip_39_word_no_space_8: arcticbonesouthslightcargoeggshadowbutter
+bip_39_word_no_space_9: arcticbonesouthslightcargoeggshadowbutterpraise
 bip_39_word_space_0:
 - arctic
 - bone

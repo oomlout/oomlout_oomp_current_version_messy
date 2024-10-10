@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'blossom
   tomato
 
   foil'
+bip_39_word_no_space_1: blossom
+bip_39_word_no_space_10: blossomsplitlengthotherloanmailmyselftomatofoilrate
+bip_39_word_no_space_11: blossomsplitlengthotherloanmailmyselftomatofoilratetrash
+bip_39_word_no_space_2: blossomsplit
+bip_39_word_no_space_3: blossomsplitlength
+bip_39_word_no_space_4: blossomsplitlengthother
+bip_39_word_no_space_5: blossomsplitlengthotherloan
+bip_39_word_no_space_6: blossomsplitlengthotherloanmail
+bip_39_word_no_space_7: blossomsplitlengthotherloanmailmyself
+bip_39_word_no_space_8: blossomsplitlengthotherloanmailmyselftomato
+bip_39_word_no_space_9: blossomsplitlengthotherloanmailmyselftomatofoil
 bip_39_word_space_0:
 - blossom
 - split

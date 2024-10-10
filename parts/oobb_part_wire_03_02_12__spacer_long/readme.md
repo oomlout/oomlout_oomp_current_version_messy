@@ -122,6 +122,18 @@ upon
 load
 social
 guard |  
+| bip_39_word_no_space_1 | beauty |  
+| bip_39_word_no_space_10 | beautyoriginaltokenvoidwooluponloadsocialguardcivil |  
+| bip_39_word_no_space_11 | beautyoriginaltokenvoidwooluponloadsocialguardcivilkind |  
+| bip_39_word_no_space_12 | beautyoriginaltokenvoidwooluponloadsocialguardcivilkindask |  
+| bip_39_word_no_space_2 | beautyoriginal |  
+| bip_39_word_no_space_3 | beautyoriginaltoken |  
+| bip_39_word_no_space_4 | beautyoriginaltokenvoid |  
+| bip_39_word_no_space_5 | beautyoriginaltokenvoidwool |  
+| bip_39_word_no_space_6 | beautyoriginaltokenvoidwoolupon |  
+| bip_39_word_no_space_7 | beautyoriginaltokenvoidwooluponload |  
+| bip_39_word_no_space_8 | beautyoriginaltokenvoidwooluponloadsocial |  
+| bip_39_word_no_space_9 | beautyoriginaltokenvoidwooluponloadsocialguard |  
 | bip_39_word_space_0 | ['beauty', 'original', 'token', 'void', 'wool', 'upon', 'load', 'social', 'guard', 'civil', 'kind', 'ask'] |  
 | bip_39_word_space_1 | beauty |  
 | bip_39_word_space_10 | beauty original token void wool upon load social guard civil |  

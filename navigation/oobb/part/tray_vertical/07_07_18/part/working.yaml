@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'patch
   train
 
   attend'
+bip_39_word_no_space_1: patch
+bip_39_word_no_space_10: patchassistduckedgeomitdashcritictrainattendexpand
+bip_39_word_no_space_11: patchassistduckedgeomitdashcritictrainattendexpandpoem
+bip_39_word_no_space_12: patchassistduckedgeomitdashcritictrainattendexpandpoemactress
+bip_39_word_no_space_2: patchassist
+bip_39_word_no_space_3: patchassistduck
+bip_39_word_no_space_4: patchassistduckedge
+bip_39_word_no_space_5: patchassistduckedgeomit
+bip_39_word_no_space_6: patchassistduckedgeomitdash
+bip_39_word_no_space_7: patchassistduckedgeomitdashcritic
+bip_39_word_no_space_8: patchassistduckedgeomitdashcritictrain
+bip_39_word_no_space_9: patchassistduckedgeomitdashcritictrainattend
 bip_39_word_space_0:
 - patch
 - assist

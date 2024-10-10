@@ -122,6 +122,18 @@ island
 bronze
 funny
 flat |  
+| bip_39_word_no_space_1 | noodle |  
+| bip_39_word_no_space_10 | noodledressadaptcartbeanislandbronzefunnyflathard |  
+| bip_39_word_no_space_11 | noodledressadaptcartbeanislandbronzefunnyflathardedit |  
+| bip_39_word_no_space_12 | noodledressadaptcartbeanislandbronzefunnyflathardeditact |  
+| bip_39_word_no_space_2 | noodledress |  
+| bip_39_word_no_space_3 | noodledressadapt |  
+| bip_39_word_no_space_4 | noodledressadaptcart |  
+| bip_39_word_no_space_5 | noodledressadaptcartbean |  
+| bip_39_word_no_space_6 | noodledressadaptcartbeanisland |  
+| bip_39_word_no_space_7 | noodledressadaptcartbeanislandbronze |  
+| bip_39_word_no_space_8 | noodledressadaptcartbeanislandbronzefunny |  
+| bip_39_word_no_space_9 | noodledressadaptcartbeanislandbronzefunnyflat |  
 | bip_39_word_space_0 | ['noodle', 'dress', 'adapt', 'cart', 'bean', 'island', 'bronze', 'funny', 'flat', 'hard', 'edit', 'act'] |  
 | bip_39_word_space_1 | noodle |  
 | bip_39_word_space_10 | noodle dress adapt cart bean island bronze funny flat hard |  

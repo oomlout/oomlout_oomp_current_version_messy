@@ -122,6 +122,18 @@ bulb
 negative
 illness
 choose |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildclerkeasilyfrowntigerbulbnegativeillnesschoosepig |  
+| bip_39_word_no_space_11 | rebuildclerkeasilyfrowntigerbulbnegativeillnesschoosepigclock |  
+| bip_39_word_no_space_12 | rebuildclerkeasilyfrowntigerbulbnegativeillnesschoosepigclockanchor |  
+| bip_39_word_no_space_2 | rebuildclerk |  
+| bip_39_word_no_space_3 | rebuildclerkeasily |  
+| bip_39_word_no_space_4 | rebuildclerkeasilyfrown |  
+| bip_39_word_no_space_5 | rebuildclerkeasilyfrowntiger |  
+| bip_39_word_no_space_6 | rebuildclerkeasilyfrowntigerbulb |  
+| bip_39_word_no_space_7 | rebuildclerkeasilyfrowntigerbulbnegative |  
+| bip_39_word_no_space_8 | rebuildclerkeasilyfrowntigerbulbnegativeillness |  
+| bip_39_word_no_space_9 | rebuildclerkeasilyfrowntigerbulbnegativeillnesschoose |  
 | bip_39_word_space_0 | ['rebuild', 'clerk', 'easily', 'frown', 'tiger', 'bulb', 'negative', 'illness', 'choose', 'pig', 'clock', 'anchor'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild clerk easily frown tiger bulb negative illness choose pig |  

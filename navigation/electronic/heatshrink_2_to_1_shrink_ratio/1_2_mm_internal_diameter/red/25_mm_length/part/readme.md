@@ -122,6 +122,18 @@ bring
 vintage
 brick
 spend |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorwinnerhamsterlatinfatiguebringvintagebrickspendduty |  
+| bip_39_word_no_space_11 | floorwinnerhamsterlatinfatiguebringvintagebrickspenddutycoffee |  
+| bip_39_word_no_space_12 | floorwinnerhamsterlatinfatiguebringvintagebrickspenddutycoffeeaerobic |  
+| bip_39_word_no_space_2 | floorwinner |  
+| bip_39_word_no_space_3 | floorwinnerhamster |  
+| bip_39_word_no_space_4 | floorwinnerhamsterlatin |  
+| bip_39_word_no_space_5 | floorwinnerhamsterlatinfatigue |  
+| bip_39_word_no_space_6 | floorwinnerhamsterlatinfatiguebring |  
+| bip_39_word_no_space_7 | floorwinnerhamsterlatinfatiguebringvintage |  
+| bip_39_word_no_space_8 | floorwinnerhamsterlatinfatiguebringvintagebrick |  
+| bip_39_word_no_space_9 | floorwinnerhamsterlatinfatiguebringvintagebrickspend |  
 | bip_39_word_space_0 | ['floor', 'winner', 'hamster', 'latin', 'fatigue', 'bring', 'vintage', 'brick', 'spend', 'duty', 'coffee', 'aerobic'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor winner hamster latin fatigue bring vintage brick spend duty |  

@@ -122,6 +122,18 @@ three
 rubber
 canoe
 visit |  
+| bip_39_word_no_space_1 | bulk |  
+| bip_39_word_no_space_10 | bulkexpressgunlizardborrowthreerubbercanoevisitguitar |  
+| bip_39_word_no_space_11 | bulkexpressgunlizardborrowthreerubbercanoevisitguitargrid |  
+| bip_39_word_no_space_12 | bulkexpressgunlizardborrowthreerubbercanoevisitguitargridabove |  
+| bip_39_word_no_space_2 | bulkexpress |  
+| bip_39_word_no_space_3 | bulkexpressgun |  
+| bip_39_word_no_space_4 | bulkexpressgunlizard |  
+| bip_39_word_no_space_5 | bulkexpressgunlizardborrow |  
+| bip_39_word_no_space_6 | bulkexpressgunlizardborrowthree |  
+| bip_39_word_no_space_7 | bulkexpressgunlizardborrowthreerubber |  
+| bip_39_word_no_space_8 | bulkexpressgunlizardborrowthreerubbercanoe |  
+| bip_39_word_no_space_9 | bulkexpressgunlizardborrowthreerubbercanoevisit |  
 | bip_39_word_space_0 | ['bulk', 'express', 'gun', 'lizard', 'borrow', 'three', 'rubber', 'canoe', 'visit', 'guitar', 'grid', 'above'] |  
 | bip_39_word_space_1 | bulk |  
 | bip_39_word_space_10 | bulk express gun lizard borrow three rubber canoe visit guitar |  

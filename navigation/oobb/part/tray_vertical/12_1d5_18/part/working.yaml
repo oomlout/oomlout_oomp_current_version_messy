@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'equal
   embark
 
   meat'
+bip_39_word_no_space_1: equal
+bip_39_word_no_space_10: equalwetseatfindcarryintochalkembarkmeatzone
+bip_39_word_no_space_11: equalwetseatfindcarryintochalkembarkmeatzonefile
+bip_39_word_no_space_12: equalwetseatfindcarryintochalkembarkmeatzonefileapart
+bip_39_word_no_space_2: equalwet
+bip_39_word_no_space_3: equalwetseat
+bip_39_word_no_space_4: equalwetseatfind
+bip_39_word_no_space_5: equalwetseatfindcarry
+bip_39_word_no_space_6: equalwetseatfindcarryinto
+bip_39_word_no_space_7: equalwetseatfindcarryintochalk
+bip_39_word_no_space_8: equalwetseatfindcarryintochalkembark
+bip_39_word_no_space_9: equalwetseatfindcarryintochalkembarkmeat
 bip_39_word_space_0:
 - equal
 - wet

@@ -122,6 +122,18 @@ left
 renew
 tail
 pupil |  
+| bip_39_word_no_space_1 | divorce |  
+| bip_39_word_no_space_10 | divorcebrickatomuppertalentleftrenewtailpupilmandate |  
+| bip_39_word_no_space_11 | divorcebrickatomuppertalentleftrenewtailpupilmandatebelow |  
+| bip_39_word_no_space_12 | divorcebrickatomuppertalentleftrenewtailpupilmandatebelowapprove |  
+| bip_39_word_no_space_2 | divorcebrick |  
+| bip_39_word_no_space_3 | divorcebrickatom |  
+| bip_39_word_no_space_4 | divorcebrickatomupper |  
+| bip_39_word_no_space_5 | divorcebrickatomuppertalent |  
+| bip_39_word_no_space_6 | divorcebrickatomuppertalentleft |  
+| bip_39_word_no_space_7 | divorcebrickatomuppertalentleftrenew |  
+| bip_39_word_no_space_8 | divorcebrickatomuppertalentleftrenewtail |  
+| bip_39_word_no_space_9 | divorcebrickatomuppertalentleftrenewtailpupil |  
 | bip_39_word_space_0 | ['divorce', 'brick', 'atom', 'upper', 'talent', 'left', 'renew', 'tail', 'pupil', 'mandate', 'below', 'approve'] |  
 | bip_39_word_space_1 | divorce |  
 | bip_39_word_space_10 | divorce brick atom upper talent left renew tail pupil mandate |  

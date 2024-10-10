@@ -122,6 +122,18 @@ claim
 fame
 clown
 sun |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hoursouptunaaffordfeelclaimfameclownsuncage |  
+| bip_39_word_no_space_11 | hoursouptunaaffordfeelclaimfameclownsuncageservice |  
+| bip_39_word_no_space_12 | hoursouptunaaffordfeelclaimfameclownsuncageserviceanother |  
+| bip_39_word_no_space_2 | hoursoup |  
+| bip_39_word_no_space_3 | hoursouptuna |  
+| bip_39_word_no_space_4 | hoursouptunaafford |  
+| bip_39_word_no_space_5 | hoursouptunaaffordfeel |  
+| bip_39_word_no_space_6 | hoursouptunaaffordfeelclaim |  
+| bip_39_word_no_space_7 | hoursouptunaaffordfeelclaimfame |  
+| bip_39_word_no_space_8 | hoursouptunaaffordfeelclaimfameclown |  
+| bip_39_word_no_space_9 | hoursouptunaaffordfeelclaimfameclownsun |  
 | bip_39_word_space_0 | ['hour', 'soup', 'tuna', 'afford', 'feel', 'claim', 'fame', 'clown', 'sun', 'cage', 'service', 'another'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour soup tuna afford feel claim fame clown sun cage |  

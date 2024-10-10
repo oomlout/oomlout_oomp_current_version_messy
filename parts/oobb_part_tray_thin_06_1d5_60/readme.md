@@ -122,6 +122,18 @@ waste
 release
 reform
 inject |  
+| bip_39_word_no_space_1 | alone |  
+| bip_39_word_no_space_10 | alonevalleymilkenlistsymbolwastereleasereforminjectancient |  
+| bip_39_word_no_space_11 | alonevalleymilkenlistsymbolwastereleasereforminjectancientadvance |  
+| bip_39_word_no_space_12 | alonevalleymilkenlistsymbolwastereleasereforminjectancientadvanceattitude |  
+| bip_39_word_no_space_2 | alonevalley |  
+| bip_39_word_no_space_3 | alonevalleymilk |  
+| bip_39_word_no_space_4 | alonevalleymilkenlist |  
+| bip_39_word_no_space_5 | alonevalleymilkenlistsymbol |  
+| bip_39_word_no_space_6 | alonevalleymilkenlistsymbolwaste |  
+| bip_39_word_no_space_7 | alonevalleymilkenlistsymbolwasterelease |  
+| bip_39_word_no_space_8 | alonevalleymilkenlistsymbolwastereleasereform |  
+| bip_39_word_no_space_9 | alonevalleymilkenlistsymbolwastereleasereforminject |  
 | bip_39_word_space_0 | ['alone', 'valley', 'milk', 'enlist', 'symbol', 'waste', 'release', 'reform', 'inject', 'ancient', 'advance', 'attitude'] |  
 | bip_39_word_space_1 | alone |  
 | bip_39_word_space_10 | alone valley milk enlist symbol waste release reform inject ancient |  

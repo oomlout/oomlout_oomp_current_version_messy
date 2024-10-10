@@ -122,6 +122,18 @@ erosion
 search
 agree
 phone |  
+| bip_39_word_no_space_1 | plug |  
+| bip_39_word_no_space_10 | plugtwouncleenvelopecycleerosionsearchagreephoneangle |  
+| bip_39_word_no_space_11 | plugtwouncleenvelopecycleerosionsearchagreephoneanglesalad |  
+| bip_39_word_no_space_12 | plugtwouncleenvelopecycleerosionsearchagreephoneanglesaladalbum |  
+| bip_39_word_no_space_2 | plugtwo |  
+| bip_39_word_no_space_3 | plugtwouncle |  
+| bip_39_word_no_space_4 | plugtwouncleenvelope |  
+| bip_39_word_no_space_5 | plugtwouncleenvelopecycle |  
+| bip_39_word_no_space_6 | plugtwouncleenvelopecycleerosion |  
+| bip_39_word_no_space_7 | plugtwouncleenvelopecycleerosionsearch |  
+| bip_39_word_no_space_8 | plugtwouncleenvelopecycleerosionsearchagree |  
+| bip_39_word_no_space_9 | plugtwouncleenvelopecycleerosionsearchagreephone |  
 | bip_39_word_space_0 | ['plug', 'two', 'uncle', 'envelope', 'cycle', 'erosion', 'search', 'agree', 'phone', 'angle', 'salad', 'album'] |  
 | bip_39_word_space_1 | plug |  
 | bip_39_word_space_10 | plug two uncle envelope cycle erosion search agree phone angle |  

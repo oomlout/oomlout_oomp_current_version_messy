@@ -122,6 +122,18 @@ street
 result
 fat
 until |  
+| bip_39_word_no_space_1 | rain |  
+| bip_39_word_no_space_10 | rainjokeembodysandclipstreetresultfatuntildeputy |  
+| bip_39_word_no_space_11 | rainjokeembodysandclipstreetresultfatuntildeputybleak |  
+| bip_39_word_no_space_12 | rainjokeembodysandclipstreetresultfatuntildeputybleakalpha |  
+| bip_39_word_no_space_2 | rainjoke |  
+| bip_39_word_no_space_3 | rainjokeembody |  
+| bip_39_word_no_space_4 | rainjokeembodysand |  
+| bip_39_word_no_space_5 | rainjokeembodysandclip |  
+| bip_39_word_no_space_6 | rainjokeembodysandclipstreet |  
+| bip_39_word_no_space_7 | rainjokeembodysandclipstreetresult |  
+| bip_39_word_no_space_8 | rainjokeembodysandclipstreetresultfat |  
+| bip_39_word_no_space_9 | rainjokeembodysandclipstreetresultfatuntil |  
 | bip_39_word_space_0 | ['rain', 'joke', 'embody', 'sand', 'clip', 'street', 'result', 'fat', 'until', 'deputy', 'bleak', 'alpha'] |  
 | bip_39_word_space_1 | rain |  
 | bip_39_word_space_10 | rain joke embody sand clip street result fat until deputy |  

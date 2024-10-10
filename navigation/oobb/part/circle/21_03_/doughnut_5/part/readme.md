@@ -122,6 +122,18 @@ auction
 dress
 opinion
 emotion |  
+| bip_39_word_no_space_1 | lecture |  
+| bip_39_word_no_space_10 | lecturebirtharrivedollfenceauctiondressopinionemotionvanish |  
+| bip_39_word_no_space_11 | lecturebirtharrivedollfenceauctiondressopinionemotionvanishbetween |  
+| bip_39_word_no_space_12 | lecturebirtharrivedollfenceauctiondressopinionemotionvanishbetweenachieve |  
+| bip_39_word_no_space_2 | lecturebirth |  
+| bip_39_word_no_space_3 | lecturebirtharrive |  
+| bip_39_word_no_space_4 | lecturebirtharrivedoll |  
+| bip_39_word_no_space_5 | lecturebirtharrivedollfence |  
+| bip_39_word_no_space_6 | lecturebirtharrivedollfenceauction |  
+| bip_39_word_no_space_7 | lecturebirtharrivedollfenceauctiondress |  
+| bip_39_word_no_space_8 | lecturebirtharrivedollfenceauctiondressopinion |  
+| bip_39_word_no_space_9 | lecturebirtharrivedollfenceauctiondressopinionemotion |  
 | bip_39_word_space_0 | ['lecture', 'birth', 'arrive', 'doll', 'fence', 'auction', 'dress', 'opinion', 'emotion', 'vanish', 'between', 'achieve'] |  
 | bip_39_word_space_1 | lecture |  
 | bip_39_word_space_10 | lecture birth arrive doll fence auction dress opinion emotion vanish |  

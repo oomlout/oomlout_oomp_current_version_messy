@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dog
   then
 
   acid'
+bip_39_word_no_space_1: dog
+bip_39_word_no_space_10: dogvoteoperapoolchargecruelupsetthenacidpurchase
+bip_39_word_no_space_11: dogvoteoperapoolchargecruelupsetthenacidpurchaseenemy
+bip_39_word_no_space_12: dogvoteoperapoolchargecruelupsetthenacidpurchaseenemyahead
+bip_39_word_no_space_2: dogvote
+bip_39_word_no_space_3: dogvoteopera
+bip_39_word_no_space_4: dogvoteoperapool
+bip_39_word_no_space_5: dogvoteoperapoolcharge
+bip_39_word_no_space_6: dogvoteoperapoolchargecruel
+bip_39_word_no_space_7: dogvoteoperapoolchargecruelupset
+bip_39_word_no_space_8: dogvoteoperapoolchargecruelupsetthen
+bip_39_word_no_space_9: dogvoteoperapoolchargecruelupsetthenacid
 bip_39_word_space_0:
 - dog
 - vote

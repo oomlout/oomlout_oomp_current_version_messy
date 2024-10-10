@@ -122,6 +122,18 @@ account
 split
 cook
 bean |  
+| bip_39_word_no_space_1 | giant |  
+| bip_39_word_no_space_10 | giantelseharshwildtogetheraccountsplitcookbeanawkward |  
+| bip_39_word_no_space_11 | giantelseharshwildtogetheraccountsplitcookbeanawkwardfall |  
+| bip_39_word_no_space_12 | giantelseharshwildtogetheraccountsplitcookbeanawkwardfallamused |  
+| bip_39_word_no_space_2 | giantelse |  
+| bip_39_word_no_space_3 | giantelseharsh |  
+| bip_39_word_no_space_4 | giantelseharshwild |  
+| bip_39_word_no_space_5 | giantelseharshwildtogether |  
+| bip_39_word_no_space_6 | giantelseharshwildtogetheraccount |  
+| bip_39_word_no_space_7 | giantelseharshwildtogetheraccountsplit |  
+| bip_39_word_no_space_8 | giantelseharshwildtogetheraccountsplitcook |  
+| bip_39_word_no_space_9 | giantelseharshwildtogetheraccountsplitcookbean |  
 | bip_39_word_space_0 | ['giant', 'else', 'harsh', 'wild', 'together', 'account', 'split', 'cook', 'bean', 'awkward', 'fall', 'amused'] |  
 | bip_39_word_space_1 | giant |  
 | bip_39_word_space_10 | giant else harsh wild together account split cook bean awkward |  

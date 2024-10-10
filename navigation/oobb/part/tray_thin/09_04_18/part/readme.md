@@ -122,6 +122,18 @@ begin
 soft
 bargain
 write |  
+| bip_39_word_no_space_1 | clarify |  
+| bip_39_word_no_space_10 | clarifydoorpalaceelevatordilemmabeginsoftbargainwriteframe |  
+| bip_39_word_no_space_11 | clarifydoorpalaceelevatordilemmabeginsoftbargainwriteframearea |  
+| bip_39_word_no_space_12 | clarifydoorpalaceelevatordilemmabeginsoftbargainwriteframeareaadd |  
+| bip_39_word_no_space_2 | clarifydoor |  
+| bip_39_word_no_space_3 | clarifydoorpalace |  
+| bip_39_word_no_space_4 | clarifydoorpalaceelevator |  
+| bip_39_word_no_space_5 | clarifydoorpalaceelevatordilemma |  
+| bip_39_word_no_space_6 | clarifydoorpalaceelevatordilemmabegin |  
+| bip_39_word_no_space_7 | clarifydoorpalaceelevatordilemmabeginsoft |  
+| bip_39_word_no_space_8 | clarifydoorpalaceelevatordilemmabeginsoftbargain |  
+| bip_39_word_no_space_9 | clarifydoorpalaceelevatordilemmabeginsoftbargainwrite |  
 | bip_39_word_space_0 | ['clarify', 'door', 'palace', 'elevator', 'dilemma', 'begin', 'soft', 'bargain', 'write', 'frame', 'area', 'add'] |  
 | bip_39_word_space_1 | clarify |  
 | bip_39_word_space_10 | clarify door palace elevator dilemma begin soft bargain write frame |  

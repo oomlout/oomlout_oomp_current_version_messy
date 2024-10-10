@@ -122,6 +122,18 @@ asthma
 crystal
 give
 camera |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energydrinkprimarycatinfantasthmacrystalgivecameragive |  
+| bip_39_word_no_space_11 | energydrinkprimarycatinfantasthmacrystalgivecameragivemiracle |  
+| bip_39_word_no_space_12 | energydrinkprimarycatinfantasthmacrystalgivecameragivemiraclearm |  
+| bip_39_word_no_space_2 | energydrink |  
+| bip_39_word_no_space_3 | energydrinkprimary |  
+| bip_39_word_no_space_4 | energydrinkprimarycat |  
+| bip_39_word_no_space_5 | energydrinkprimarycatinfant |  
+| bip_39_word_no_space_6 | energydrinkprimarycatinfantasthma |  
+| bip_39_word_no_space_7 | energydrinkprimarycatinfantasthmacrystal |  
+| bip_39_word_no_space_8 | energydrinkprimarycatinfantasthmacrystalgive |  
+| bip_39_word_no_space_9 | energydrinkprimarycatinfantasthmacrystalgivecamera |  
 | bip_39_word_space_0 | ['energy', 'drink', 'primary', 'cat', 'infant', 'asthma', 'crystal', 'give', 'camera', 'give', 'miracle', 'arm'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy drink primary cat infant asthma crystal give camera give |  

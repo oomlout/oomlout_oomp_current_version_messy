@@ -122,6 +122,18 @@ elder
 flag
 recycle
 tide |  
+| bip_39_word_no_space_1 | long |  
+| bip_39_word_no_space_10 | longeliteoctobersevenaisleelderflagrecycletideelse |  
+| bip_39_word_no_space_11 | longeliteoctobersevenaisleelderflagrecycletideelsesection |  
+| bip_39_word_no_space_12 | longeliteoctobersevenaisleelderflagrecycletideelsesectionable |  
+| bip_39_word_no_space_2 | longelite |  
+| bip_39_word_no_space_3 | longeliteoctober |  
+| bip_39_word_no_space_4 | longeliteoctoberseven |  
+| bip_39_word_no_space_5 | longeliteoctobersevenaisle |  
+| bip_39_word_no_space_6 | longeliteoctobersevenaisleelder |  
+| bip_39_word_no_space_7 | longeliteoctobersevenaisleelderflag |  
+| bip_39_word_no_space_8 | longeliteoctobersevenaisleelderflagrecycle |  
+| bip_39_word_no_space_9 | longeliteoctobersevenaisleelderflagrecycletide |  
 | bip_39_word_space_0 | ['long', 'elite', 'october', 'seven', 'aisle', 'elder', 'flag', 'recycle', 'tide', 'else', 'section', 'able'] |  
 | bip_39_word_space_1 | long |  
 | bip_39_word_space_10 | long elite october seven aisle elder flag recycle tide else |  

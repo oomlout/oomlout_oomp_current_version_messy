@@ -122,6 +122,18 @@ ill
 camera
 garbage
 dutch |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampcraterhabitenergythingillcameragarbagedutchblade |  
+| bip_39_word_no_space_11 | stampcraterhabitenergythingillcameragarbagedutchbladediamond |  
+| bip_39_word_no_space_12 | stampcraterhabitenergythingillcameragarbagedutchbladediamondankle |  
+| bip_39_word_no_space_2 | stampcrater |  
+| bip_39_word_no_space_3 | stampcraterhabit |  
+| bip_39_word_no_space_4 | stampcraterhabitenergy |  
+| bip_39_word_no_space_5 | stampcraterhabitenergything |  
+| bip_39_word_no_space_6 | stampcraterhabitenergythingill |  
+| bip_39_word_no_space_7 | stampcraterhabitenergythingillcamera |  
+| bip_39_word_no_space_8 | stampcraterhabitenergythingillcameragarbage |  
+| bip_39_word_no_space_9 | stampcraterhabitenergythingillcameragarbagedutch |  
 | bip_39_word_space_0 | ['stamp', 'crater', 'habit', 'energy', 'thing', 'ill', 'camera', 'garbage', 'dutch', 'blade', 'diamond', 'ankle'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp crater habit energy thing ill camera garbage dutch blade |  

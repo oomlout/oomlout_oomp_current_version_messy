@@ -122,6 +122,18 @@ avocado
 strike
 mix
 thumb |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | desknetsegmentstampphysicalavocadostrikemixthumbfrog |  
+| bip_39_word_no_space_11 | desknetsegmentstampphysicalavocadostrikemixthumbfroggalaxy |  
+| bip_39_word_no_space_12 | desknetsegmentstampphysicalavocadostrikemixthumbfroggalaxyadult |  
+| bip_39_word_no_space_2 | desknet |  
+| bip_39_word_no_space_3 | desknetsegment |  
+| bip_39_word_no_space_4 | desknetsegmentstamp |  
+| bip_39_word_no_space_5 | desknetsegmentstampphysical |  
+| bip_39_word_no_space_6 | desknetsegmentstampphysicalavocado |  
+| bip_39_word_no_space_7 | desknetsegmentstampphysicalavocadostrike |  
+| bip_39_word_no_space_8 | desknetsegmentstampphysicalavocadostrikemix |  
+| bip_39_word_no_space_9 | desknetsegmentstampphysicalavocadostrikemixthumb |  
 | bip_39_word_space_0 | ['desk', 'net', 'segment', 'stamp', 'physical', 'avocado', 'strike', 'mix', 'thumb', 'frog', 'galaxy', 'adult'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk net segment stamp physical avocado strike mix thumb frog |  

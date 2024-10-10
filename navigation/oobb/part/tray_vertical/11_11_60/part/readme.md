@@ -122,6 +122,18 @@ flock
 orange
 position
 enforce |  
+| bip_39_word_no_space_1 | exact |  
+| bip_39_word_no_space_10 | exactcanoecouchauctionharshflockorangepositionenforceslot |  
+| bip_39_word_no_space_11 | exactcanoecouchauctionharshflockorangepositionenforceslotpass |  
+| bip_39_word_no_space_12 | exactcanoecouchauctionharshflockorangepositionenforceslotpassaccess |  
+| bip_39_word_no_space_2 | exactcanoe |  
+| bip_39_word_no_space_3 | exactcanoecouch |  
+| bip_39_word_no_space_4 | exactcanoecouchauction |  
+| bip_39_word_no_space_5 | exactcanoecouchauctionharsh |  
+| bip_39_word_no_space_6 | exactcanoecouchauctionharshflock |  
+| bip_39_word_no_space_7 | exactcanoecouchauctionharshflockorange |  
+| bip_39_word_no_space_8 | exactcanoecouchauctionharshflockorangeposition |  
+| bip_39_word_no_space_9 | exactcanoecouchauctionharshflockorangepositionenforce |  
 | bip_39_word_space_0 | ['exact', 'canoe', 'couch', 'auction', 'harsh', 'flock', 'orange', 'position', 'enforce', 'slot', 'pass', 'access'] |  
 | bip_39_word_space_1 | exact |  
 | bip_39_word_space_10 | exact canoe couch auction harsh flock orange position enforce slot |  

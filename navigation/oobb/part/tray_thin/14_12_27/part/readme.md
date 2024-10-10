@@ -122,6 +122,18 @@ attitude
 budget
 elevator
 erode |  
+| bip_39_word_no_space_1 | myth |  
+| bip_39_word_no_space_10 | mythproudoutputrudehuntattitudebudgetelevatorerodematter |  
+| bip_39_word_no_space_11 | mythproudoutputrudehuntattitudebudgetelevatorerodematterlemon |  
+| bip_39_word_no_space_12 | mythproudoutputrudehuntattitudebudgetelevatorerodematterlemonany |  
+| bip_39_word_no_space_2 | mythproud |  
+| bip_39_word_no_space_3 | mythproudoutput |  
+| bip_39_word_no_space_4 | mythproudoutputrude |  
+| bip_39_word_no_space_5 | mythproudoutputrudehunt |  
+| bip_39_word_no_space_6 | mythproudoutputrudehuntattitude |  
+| bip_39_word_no_space_7 | mythproudoutputrudehuntattitudebudget |  
+| bip_39_word_no_space_8 | mythproudoutputrudehuntattitudebudgetelevator |  
+| bip_39_word_no_space_9 | mythproudoutputrudehuntattitudebudgetelevatorerode |  
 | bip_39_word_space_0 | ['myth', 'proud', 'output', 'rude', 'hunt', 'attitude', 'budget', 'elevator', 'erode', 'matter', 'lemon', 'any'] |  
 | bip_39_word_space_1 | myth |  
 | bip_39_word_space_10 | myth proud output rude hunt attitude budget elevator erode matter |  

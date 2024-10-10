@@ -122,6 +122,18 @@ impose
 taxi
 when
 mad |  
+| bip_39_word_no_space_1 | find |  
+| bip_39_word_no_space_10 | findsicksegmentokaylunarimposetaxiwhenmadfirm |  
+| bip_39_word_no_space_11 | findsicksegmentokaylunarimposetaxiwhenmadfirmscience |  
+| bip_39_word_no_space_12 | findsicksegmentokaylunarimposetaxiwhenmadfirmsciencealready |  
+| bip_39_word_no_space_2 | findsick |  
+| bip_39_word_no_space_3 | findsicksegment |  
+| bip_39_word_no_space_4 | findsicksegmentokay |  
+| bip_39_word_no_space_5 | findsicksegmentokaylunar |  
+| bip_39_word_no_space_6 | findsicksegmentokaylunarimpose |  
+| bip_39_word_no_space_7 | findsicksegmentokaylunarimposetaxi |  
+| bip_39_word_no_space_8 | findsicksegmentokaylunarimposetaxiwhen |  
+| bip_39_word_no_space_9 | findsicksegmentokaylunarimposetaxiwhenmad |  
 | bip_39_word_space_0 | ['find', 'sick', 'segment', 'okay', 'lunar', 'impose', 'taxi', 'when', 'mad', 'firm', 'science', 'already'] |  
 | bip_39_word_space_1 | find |  
 | bip_39_word_space_10 | find sick segment okay lunar impose taxi when mad firm |  

@@ -123,6 +123,18 @@ decorate
 sword
 impact
 cube |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportbreadwindowdeertennisdecorateswordimpactcubeunveil |  
+| bip_39_word_no_space_11 | sportbreadwindowdeertennisdecorateswordimpactcubeunveilallow |  
+| bip_39_word_no_space_12 | sportbreadwindowdeertennisdecorateswordimpactcubeunveilallowalmost |  
+| bip_39_word_no_space_2 | sportbread |  
+| bip_39_word_no_space_3 | sportbreadwindow |  
+| bip_39_word_no_space_4 | sportbreadwindowdeer |  
+| bip_39_word_no_space_5 | sportbreadwindowdeertennis |  
+| bip_39_word_no_space_6 | sportbreadwindowdeertennisdecorate |  
+| bip_39_word_no_space_7 | sportbreadwindowdeertennisdecoratesword |  
+| bip_39_word_no_space_8 | sportbreadwindowdeertennisdecorateswordimpact |  
+| bip_39_word_no_space_9 | sportbreadwindowdeertennisdecorateswordimpactcube |  
 | bip_39_word_space_0 | ['sport', 'bread', 'window', 'deer', 'tennis', 'decorate', 'sword', 'impact', 'cube', 'unveil', 'allow', 'almost'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport bread window deer tennis decorate sword impact cube unveil |  

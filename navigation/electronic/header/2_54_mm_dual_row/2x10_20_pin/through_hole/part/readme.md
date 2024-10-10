@@ -122,6 +122,18 @@ sorry
 session
 fun
 toy |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyhardresemblelakenuclearsorrysessionfuntoymath |  
+| bip_39_word_no_space_11 | hobbyhardresemblelakenuclearsorrysessionfuntoymathstaff |  
+| bip_39_word_no_space_12 | hobbyhardresemblelakenuclearsorrysessionfuntoymathstaffact |  
+| bip_39_word_no_space_2 | hobbyhard |  
+| bip_39_word_no_space_3 | hobbyhardresemble |  
+| bip_39_word_no_space_4 | hobbyhardresemblelake |  
+| bip_39_word_no_space_5 | hobbyhardresemblelakenuclear |  
+| bip_39_word_no_space_6 | hobbyhardresemblelakenuclearsorry |  
+| bip_39_word_no_space_7 | hobbyhardresemblelakenuclearsorrysession |  
+| bip_39_word_no_space_8 | hobbyhardresemblelakenuclearsorrysessionfun |  
+| bip_39_word_no_space_9 | hobbyhardresemblelakenuclearsorrysessionfuntoy |  
 | bip_39_word_space_0 | ['hobby', 'hard', 'resemble', 'lake', 'nuclear', 'sorry', 'session', 'fun', 'toy', 'math', 'staff', 'act'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby hard resemble lake nuclear sorry session fun toy math |  

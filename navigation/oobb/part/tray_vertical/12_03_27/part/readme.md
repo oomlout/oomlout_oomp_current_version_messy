@@ -122,6 +122,18 @@ veteran
 scissors
 knee
 essay |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famousunawarereunionsymbolbeefveteranscissorskneeessaytown |  
+| bip_39_word_no_space_11 | famousunawarereunionsymbolbeefveteranscissorskneeessaytownwink |  
+| bip_39_word_no_space_12 | famousunawarereunionsymbolbeefveteranscissorskneeessaytownwinkacross |  
+| bip_39_word_no_space_2 | famousunaware |  
+| bip_39_word_no_space_3 | famousunawarereunion |  
+| bip_39_word_no_space_4 | famousunawarereunionsymbol |  
+| bip_39_word_no_space_5 | famousunawarereunionsymbolbeef |  
+| bip_39_word_no_space_6 | famousunawarereunionsymbolbeefveteran |  
+| bip_39_word_no_space_7 | famousunawarereunionsymbolbeefveteranscissors |  
+| bip_39_word_no_space_8 | famousunawarereunionsymbolbeefveteranscissorsknee |  
+| bip_39_word_no_space_9 | famousunawarereunionsymbolbeefveteranscissorskneeessay |  
 | bip_39_word_space_0 | ['famous', 'unaware', 'reunion', 'symbol', 'beef', 'veteran', 'scissors', 'knee', 'essay', 'town', 'wink', 'across'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous unaware reunion symbol beef veteran scissors knee essay town |  

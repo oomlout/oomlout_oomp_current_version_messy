@@ -122,6 +122,18 @@ leave
 kick
 peace
 worry |  
+| bip_39_word_no_space_1 | reunion |  
+| bip_39_word_no_space_10 | reunionpalmeruptsunketchupleavekickpeaceworrytwice |  
+| bip_39_word_no_space_11 | reunionpalmeruptsunketchupleavekickpeaceworrytwiceflock |  
+| bip_39_word_no_space_12 | reunionpalmeruptsunketchupleavekickpeaceworrytwiceflockargue |  
+| bip_39_word_no_space_2 | reunionpalm |  
+| bip_39_word_no_space_3 | reunionpalmerupt |  
+| bip_39_word_no_space_4 | reunionpalmeruptsun |  
+| bip_39_word_no_space_5 | reunionpalmeruptsunketchup |  
+| bip_39_word_no_space_6 | reunionpalmeruptsunketchupleave |  
+| bip_39_word_no_space_7 | reunionpalmeruptsunketchupleavekick |  
+| bip_39_word_no_space_8 | reunionpalmeruptsunketchupleavekickpeace |  
+| bip_39_word_no_space_9 | reunionpalmeruptsunketchupleavekickpeaceworry |  
 | bip_39_word_space_0 | ['reunion', 'palm', 'erupt', 'sun', 'ketchup', 'leave', 'kick', 'peace', 'worry', 'twice', 'flock', 'argue'] |  
 | bip_39_word_space_1 | reunion |  
 | bip_39_word_space_10 | reunion palm erupt sun ketchup leave kick peace worry twice |  

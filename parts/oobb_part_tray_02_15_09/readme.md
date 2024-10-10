@@ -122,6 +122,18 @@ since
 feel
 spoon
 word |  
+| bip_39_word_no_space_1 | concert |  
+| bip_39_word_no_space_10 | concertwisemorningsettledescribesincefeelspoonwordfee |  
+| bip_39_word_no_space_11 | concertwisemorningsettledescribesincefeelspoonwordfeeankle |  
+| bip_39_word_no_space_12 | concertwisemorningsettledescribesincefeelspoonwordfeeankleannual |  
+| bip_39_word_no_space_2 | concertwise |  
+| bip_39_word_no_space_3 | concertwisemorning |  
+| bip_39_word_no_space_4 | concertwisemorningsettle |  
+| bip_39_word_no_space_5 | concertwisemorningsettledescribe |  
+| bip_39_word_no_space_6 | concertwisemorningsettledescribesince |  
+| bip_39_word_no_space_7 | concertwisemorningsettledescribesincefeel |  
+| bip_39_word_no_space_8 | concertwisemorningsettledescribesincefeelspoon |  
+| bip_39_word_no_space_9 | concertwisemorningsettledescribesincefeelspoonword |  
 | bip_39_word_space_0 | ['concert', 'wise', 'morning', 'settle', 'describe', 'since', 'feel', 'spoon', 'word', 'fee', 'ankle', 'annual'] |  
 | bip_39_word_space_1 | concert |  
 | bip_39_word_space_10 | concert wise morning settle describe since feel spoon word fee |  

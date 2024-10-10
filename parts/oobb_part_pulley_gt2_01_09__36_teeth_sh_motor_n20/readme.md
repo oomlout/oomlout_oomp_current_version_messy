@@ -122,6 +122,18 @@ priority
 destroy
 dutch
 jazz |  
+| bip_39_word_no_space_1 | diary |  
+| bip_39_word_no_space_10 | diarychargegeniuslocklibraryprioritydestroydutchjazzhumor |  
+| bip_39_word_no_space_11 | diarychargegeniuslocklibraryprioritydestroydutchjazzhumorfeed |  
+| bip_39_word_no_space_12 | diarychargegeniuslocklibraryprioritydestroydutchjazzhumorfeedarrive |  
+| bip_39_word_no_space_2 | diarycharge |  
+| bip_39_word_no_space_3 | diarychargegenius |  
+| bip_39_word_no_space_4 | diarychargegeniuslock |  
+| bip_39_word_no_space_5 | diarychargegeniuslocklibrary |  
+| bip_39_word_no_space_6 | diarychargegeniuslocklibrarypriority |  
+| bip_39_word_no_space_7 | diarychargegeniuslocklibraryprioritydestroy |  
+| bip_39_word_no_space_8 | diarychargegeniuslocklibraryprioritydestroydutch |  
+| bip_39_word_no_space_9 | diarychargegeniuslocklibraryprioritydestroydutchjazz |  
 | bip_39_word_space_0 | ['diary', 'charge', 'genius', 'lock', 'library', 'priority', 'destroy', 'dutch', 'jazz', 'humor', 'feed', 'arrive'] |  
 | bip_39_word_space_1 | diary |  
 | bip_39_word_space_10 | diary charge genius lock library priority destroy dutch jazz humor |  

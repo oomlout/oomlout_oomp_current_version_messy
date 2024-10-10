@@ -122,6 +122,18 @@ car
 exact
 double
 saddle |  
+| bip_39_word_no_space_1 | hollow |  
+| bip_39_word_no_space_10 | hollowcricketrallyautumnservicecarexactdoublesaddleshadow |  
+| bip_39_word_no_space_11 | hollowcricketrallyautumnservicecarexactdoublesaddleshadowslight |  
+| bip_39_word_no_space_12 | hollowcricketrallyautumnservicecarexactdoublesaddleshadowslightarmed |  
+| bip_39_word_no_space_2 | hollowcricket |  
+| bip_39_word_no_space_3 | hollowcricketrally |  
+| bip_39_word_no_space_4 | hollowcricketrallyautumn |  
+| bip_39_word_no_space_5 | hollowcricketrallyautumnservice |  
+| bip_39_word_no_space_6 | hollowcricketrallyautumnservicecar |  
+| bip_39_word_no_space_7 | hollowcricketrallyautumnservicecarexact |  
+| bip_39_word_no_space_8 | hollowcricketrallyautumnservicecarexactdouble |  
+| bip_39_word_no_space_9 | hollowcricketrallyautumnservicecarexactdoublesaddle |  
 | bip_39_word_space_0 | ['hollow', 'cricket', 'rally', 'autumn', 'service', 'car', 'exact', 'double', 'saddle', 'shadow', 'slight', 'armed'] |  
 | bip_39_word_space_1 | hollow |  
 | bip_39_word_space_10 | hollow cricket rally autumn service car exact double saddle shadow |  

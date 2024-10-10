@@ -122,6 +122,18 @@ retire
 shuffle
 shrimp
 assault |  
+| bip_39_word_no_space_1 | ice |  
+| bip_39_word_no_space_10 | iceroughstockexhibitallretireshuffleshrimpassaultliar |  
+| bip_39_word_no_space_11 | iceroughstockexhibitallretireshuffleshrimpassaultliardisorder |  
+| bip_39_word_no_space_12 | iceroughstockexhibitallretireshuffleshrimpassaultliardisorderarrest |  
+| bip_39_word_no_space_2 | icerough |  
+| bip_39_word_no_space_3 | iceroughstock |  
+| bip_39_word_no_space_4 | iceroughstockexhibit |  
+| bip_39_word_no_space_5 | iceroughstockexhibitall |  
+| bip_39_word_no_space_6 | iceroughstockexhibitallretire |  
+| bip_39_word_no_space_7 | iceroughstockexhibitallretireshuffle |  
+| bip_39_word_no_space_8 | iceroughstockexhibitallretireshuffleshrimp |  
+| bip_39_word_no_space_9 | iceroughstockexhibitallretireshuffleshrimpassault |  
 | bip_39_word_space_0 | ['ice', 'rough', 'stock', 'exhibit', 'all', 'retire', 'shuffle', 'shrimp', 'assault', 'liar', 'disorder', 'arrest'] |  
 | bip_39_word_space_1 | ice |  
 | bip_39_word_space_10 | ice rough stock exhibit all retire shuffle shrimp assault liar |  

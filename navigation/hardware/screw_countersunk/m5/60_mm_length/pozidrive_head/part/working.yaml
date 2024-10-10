@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fabric
   weapon
 
   better'
+bip_39_word_no_space_1: fabric
+bip_39_word_no_space_10: fabriceviltankearlyavoidtideankleweaponbetterhurdle
+bip_39_word_no_space_11: fabriceviltankearlyavoidtideankleweaponbetterhurdlecatch
+bip_39_word_no_space_12: fabriceviltankearlyavoidtideankleweaponbetterhurdlecatchanchor
+bip_39_word_no_space_2: fabricevil
+bip_39_word_no_space_3: fabriceviltank
+bip_39_word_no_space_4: fabriceviltankearly
+bip_39_word_no_space_5: fabriceviltankearlyavoid
+bip_39_word_no_space_6: fabriceviltankearlyavoidtide
+bip_39_word_no_space_7: fabriceviltankearlyavoidtideankle
+bip_39_word_no_space_8: fabriceviltankearlyavoidtideankleweapon
+bip_39_word_no_space_9: fabriceviltankearlyavoidtideankleweaponbetter
 bip_39_word_space_0:
 - fabric
 - evil

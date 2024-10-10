@@ -122,6 +122,18 @@ swamp
 cannon
 woman
 bean |  
+| bip_39_word_no_space_1 | atom |  
+| bip_39_word_no_space_10 | atomcramclaimspeakinstallswampcannonwomanbeanlesson |  
+| bip_39_word_no_space_11 | atomcramclaimspeakinstallswampcannonwomanbeanlessontwenty |  
+| bip_39_word_no_space_12 | atomcramclaimspeakinstallswampcannonwomanbeanlessontwentyadvice |  
+| bip_39_word_no_space_2 | atomcram |  
+| bip_39_word_no_space_3 | atomcramclaim |  
+| bip_39_word_no_space_4 | atomcramclaimspeak |  
+| bip_39_word_no_space_5 | atomcramclaimspeakinstall |  
+| bip_39_word_no_space_6 | atomcramclaimspeakinstallswamp |  
+| bip_39_word_no_space_7 | atomcramclaimspeakinstallswampcannon |  
+| bip_39_word_no_space_8 | atomcramclaimspeakinstallswampcannonwoman |  
+| bip_39_word_no_space_9 | atomcramclaimspeakinstallswampcannonwomanbean |  
 | bip_39_word_space_0 | ['atom', 'cram', 'claim', 'speak', 'install', 'swamp', 'cannon', 'woman', 'bean', 'lesson', 'twenty', 'advice'] |  
 | bip_39_word_space_1 | atom |  
 | bip_39_word_space_10 | atom cram claim speak install swamp cannon woman bean lesson |  

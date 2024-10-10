@@ -122,6 +122,18 @@ face
 episode
 obvious
 ring |  
+| bip_39_word_no_space_1 | bottom |  
+| bip_39_word_no_space_10 | bottomanglefuelaislelaundryfaceepisodeobviousringpen |  
+| bip_39_word_no_space_11 | bottomanglefuelaislelaundryfaceepisodeobviousringpenlater |  
+| bip_39_word_no_space_12 | bottomanglefuelaislelaundryfaceepisodeobviousringpenlaterannual |  
+| bip_39_word_no_space_2 | bottomangle |  
+| bip_39_word_no_space_3 | bottomanglefuel |  
+| bip_39_word_no_space_4 | bottomanglefuelaisle |  
+| bip_39_word_no_space_5 | bottomanglefuelaislelaundry |  
+| bip_39_word_no_space_6 | bottomanglefuelaislelaundryface |  
+| bip_39_word_no_space_7 | bottomanglefuelaislelaundryfaceepisode |  
+| bip_39_word_no_space_8 | bottomanglefuelaislelaundryfaceepisodeobvious |  
+| bip_39_word_no_space_9 | bottomanglefuelaislelaundryfaceepisodeobviousring |  
 | bip_39_word_space_0 | ['bottom', 'angle', 'fuel', 'aisle', 'laundry', 'face', 'episode', 'obvious', 'ring', 'pen', 'later', 'annual'] |  
 | bip_39_word_space_1 | bottom |  
 | bip_39_word_space_10 | bottom angle fuel aisle laundry face episode obvious ring pen |  

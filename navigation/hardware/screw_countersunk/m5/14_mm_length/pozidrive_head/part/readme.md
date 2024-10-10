@@ -122,6 +122,18 @@ person
 lunar
 praise
 toss |  
+| bip_39_word_no_space_1 | surface |  
+| bip_39_word_no_space_10 | surfacelargeunablesubjectcapitalpersonlunarpraisetosshorror |  
+| bip_39_word_no_space_11 | surfacelargeunablesubjectcapitalpersonlunarpraisetosshorrorhat |  
+| bip_39_word_no_space_12 | surfacelargeunablesubjectcapitalpersonlunarpraisetosshorrorhatamateur |  
+| bip_39_word_no_space_2 | surfacelarge |  
+| bip_39_word_no_space_3 | surfacelargeunable |  
+| bip_39_word_no_space_4 | surfacelargeunablesubject |  
+| bip_39_word_no_space_5 | surfacelargeunablesubjectcapital |  
+| bip_39_word_no_space_6 | surfacelargeunablesubjectcapitalperson |  
+| bip_39_word_no_space_7 | surfacelargeunablesubjectcapitalpersonlunar |  
+| bip_39_word_no_space_8 | surfacelargeunablesubjectcapitalpersonlunarpraise |  
+| bip_39_word_no_space_9 | surfacelargeunablesubjectcapitalpersonlunarpraisetoss |  
 | bip_39_word_space_0 | ['surface', 'large', 'unable', 'subject', 'capital', 'person', 'lunar', 'praise', 'toss', 'horror', 'hat', 'amateur'] |  
 | bip_39_word_space_1 | surface |  
 | bip_39_word_space_10 | surface large unable subject capital person lunar praise toss horror |  

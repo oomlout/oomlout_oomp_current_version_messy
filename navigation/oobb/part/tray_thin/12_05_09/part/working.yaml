@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blast
   during
 
   foil'
+bip_39_word_no_space_1: blast
+bip_39_word_no_space_10: blastnaturebonecasualhairyellowenrichduringfoilsuper
+bip_39_word_no_space_11: blastnaturebonecasualhairyellowenrichduringfoilsuperbridge
+bip_39_word_no_space_12: blastnaturebonecasualhairyellowenrichduringfoilsuperbridgeactress
+bip_39_word_no_space_2: blastnature
+bip_39_word_no_space_3: blastnaturebone
+bip_39_word_no_space_4: blastnaturebonecasual
+bip_39_word_no_space_5: blastnaturebonecasualhair
+bip_39_word_no_space_6: blastnaturebonecasualhairyellow
+bip_39_word_no_space_7: blastnaturebonecasualhairyellowenrich
+bip_39_word_no_space_8: blastnaturebonecasualhairyellowenrichduring
+bip_39_word_no_space_9: blastnaturebonecasualhairyellowenrichduringfoil
 bip_39_word_space_0:
 - blast
 - nature

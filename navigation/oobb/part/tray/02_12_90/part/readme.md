@@ -122,6 +122,18 @@ stamp
 fix
 bronze
 race |  
+| bip_39_word_no_space_1 | devote |  
+| bip_39_word_no_space_10 | devoteenforcemansionrandommushroomstampfixbronzeraceblush |  
+| bip_39_word_no_space_11 | devoteenforcemansionrandommushroomstampfixbronzeraceblushyard |  
+| bip_39_word_no_space_12 | devoteenforcemansionrandommushroomstampfixbronzeraceblushyardartefact |  
+| bip_39_word_no_space_2 | devoteenforce |  
+| bip_39_word_no_space_3 | devoteenforcemansion |  
+| bip_39_word_no_space_4 | devoteenforcemansionrandom |  
+| bip_39_word_no_space_5 | devoteenforcemansionrandommushroom |  
+| bip_39_word_no_space_6 | devoteenforcemansionrandommushroomstamp |  
+| bip_39_word_no_space_7 | devoteenforcemansionrandommushroomstampfix |  
+| bip_39_word_no_space_8 | devoteenforcemansionrandommushroomstampfixbronze |  
+| bip_39_word_no_space_9 | devoteenforcemansionrandommushroomstampfixbronzerace |  
 | bip_39_word_space_0 | ['devote', 'enforce', 'mansion', 'random', 'mushroom', 'stamp', 'fix', 'bronze', 'race', 'blush', 'yard', 'artefact'] |  
 | bip_39_word_space_1 | devote |  
 | bip_39_word_space_10 | devote enforce mansion random mushroom stamp fix bronze race blush |  

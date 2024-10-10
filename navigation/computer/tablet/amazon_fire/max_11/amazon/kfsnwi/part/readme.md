@@ -122,6 +122,18 @@ resist
 sell
 now
 differ |  
+| bip_39_word_no_space_1 | turkey |  
+| bip_39_word_no_space_10 | turkeyendorsemythunclestadiumresistsellnowdifferantique |  
+| bip_39_word_no_space_11 | turkeyendorsemythunclestadiumresistsellnowdifferantiquecoach |  
+| bip_39_word_no_space_12 | turkeyendorsemythunclestadiumresistsellnowdifferantiquecoachadvice |  
+| bip_39_word_no_space_2 | turkeyendorse |  
+| bip_39_word_no_space_3 | turkeyendorsemyth |  
+| bip_39_word_no_space_4 | turkeyendorsemythuncle |  
+| bip_39_word_no_space_5 | turkeyendorsemythunclestadium |  
+| bip_39_word_no_space_6 | turkeyendorsemythunclestadiumresist |  
+| bip_39_word_no_space_7 | turkeyendorsemythunclestadiumresistsell |  
+| bip_39_word_no_space_8 | turkeyendorsemythunclestadiumresistsellnow |  
+| bip_39_word_no_space_9 | turkeyendorsemythunclestadiumresistsellnowdiffer |  
 | bip_39_word_space_0 | ['turkey', 'endorse', 'myth', 'uncle', 'stadium', 'resist', 'sell', 'now', 'differ', 'antique', 'coach', 'advice'] |  
 | bip_39_word_space_1 | turkey |  
 | bip_39_word_space_10 | turkey endorse myth uncle stadium resist sell now differ antique |  

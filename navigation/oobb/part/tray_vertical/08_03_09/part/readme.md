@@ -122,6 +122,18 @@ person
 before
 alert
 sustain |  
+| bip_39_word_no_space_1 | blood |  
+| bip_39_word_no_space_10 | bloodbrokenpuppyvoyagegrowpersonbeforealertsustainwaste |  
+| bip_39_word_no_space_11 | bloodbrokenpuppyvoyagegrowpersonbeforealertsustainwastesupply |  
+| bip_39_word_no_space_12 | bloodbrokenpuppyvoyagegrowpersonbeforealertsustainwastesupplyaddict |  
+| bip_39_word_no_space_2 | bloodbroken |  
+| bip_39_word_no_space_3 | bloodbrokenpuppy |  
+| bip_39_word_no_space_4 | bloodbrokenpuppyvoyage |  
+| bip_39_word_no_space_5 | bloodbrokenpuppyvoyagegrow |  
+| bip_39_word_no_space_6 | bloodbrokenpuppyvoyagegrowperson |  
+| bip_39_word_no_space_7 | bloodbrokenpuppyvoyagegrowpersonbefore |  
+| bip_39_word_no_space_8 | bloodbrokenpuppyvoyagegrowpersonbeforealert |  
+| bip_39_word_no_space_9 | bloodbrokenpuppyvoyagegrowpersonbeforealertsustain |  
 | bip_39_word_space_0 | ['blood', 'broken', 'puppy', 'voyage', 'grow', 'person', 'before', 'alert', 'sustain', 'waste', 'supply', 'addict'] |  
 | bip_39_word_space_1 | blood |  
 | bip_39_word_space_10 | blood broken puppy voyage grow person before alert sustain waste |  

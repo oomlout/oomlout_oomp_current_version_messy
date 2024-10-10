@@ -122,6 +122,18 @@ woman
 canvas
 abstract
 turkey |  
+| bip_39_word_no_space_1 | cable |  
+| bip_39_word_no_space_10 | cablegospelfostermuscleraccoonwomancanvasabstractturkeypresent |  
+| bip_39_word_no_space_11 | cablegospelfostermuscleraccoonwomancanvasabstractturkeypresentmaximum |  
+| bip_39_word_no_space_12 | cablegospelfostermuscleraccoonwomancanvasabstractturkeypresentmaximumartwork |  
+| bip_39_word_no_space_2 | cablegospel |  
+| bip_39_word_no_space_3 | cablegospelfoster |  
+| bip_39_word_no_space_4 | cablegospelfostermuscle |  
+| bip_39_word_no_space_5 | cablegospelfostermuscleraccoon |  
+| bip_39_word_no_space_6 | cablegospelfostermuscleraccoonwoman |  
+| bip_39_word_no_space_7 | cablegospelfostermuscleraccoonwomancanvas |  
+| bip_39_word_no_space_8 | cablegospelfostermuscleraccoonwomancanvasabstract |  
+| bip_39_word_no_space_9 | cablegospelfostermuscleraccoonwomancanvasabstractturkey |  
 | bip_39_word_space_0 | ['cable', 'gospel', 'foster', 'muscle', 'raccoon', 'woman', 'canvas', 'abstract', 'turkey', 'present', 'maximum', 'artwork'] |  
 | bip_39_word_space_1 | cable |  
 | bip_39_word_space_10 | cable gospel foster muscle raccoon woman canvas abstract turkey present |  

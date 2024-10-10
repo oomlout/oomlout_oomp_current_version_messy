@@ -122,6 +122,18 @@ lonely
 slam
 aunt
 artefact |  
+| bip_39_word_no_space_1 | slot |  
+| bip_39_word_no_space_10 | slotsoulpaymentwreckskatelonelyslamauntartefactengage |  
+| bip_39_word_no_space_11 | slotsoulpaymentwreckskatelonelyslamauntartefactengagewall |  
+| bip_39_word_no_space_12 | slotsoulpaymentwreckskatelonelyslamauntartefactengagewallarmy |  
+| bip_39_word_no_space_2 | slotsoul |  
+| bip_39_word_no_space_3 | slotsoulpayment |  
+| bip_39_word_no_space_4 | slotsoulpaymentwreck |  
+| bip_39_word_no_space_5 | slotsoulpaymentwreckskate |  
+| bip_39_word_no_space_6 | slotsoulpaymentwreckskatelonely |  
+| bip_39_word_no_space_7 | slotsoulpaymentwreckskatelonelyslam |  
+| bip_39_word_no_space_8 | slotsoulpaymentwreckskatelonelyslamaunt |  
+| bip_39_word_no_space_9 | slotsoulpaymentwreckskatelonelyslamauntartefact |  
 | bip_39_word_space_0 | ['slot', 'soul', 'payment', 'wreck', 'skate', 'lonely', 'slam', 'aunt', 'artefact', 'engage', 'wall', 'army'] |  
 | bip_39_word_space_1 | slot |  
 | bip_39_word_space_10 | slot soul payment wreck skate lonely slam aunt artefact engage |  

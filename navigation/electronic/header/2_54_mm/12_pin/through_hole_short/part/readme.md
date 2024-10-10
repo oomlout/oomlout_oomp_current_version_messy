@@ -122,6 +122,18 @@ peanut
 genius
 blast
 outer |  
+| bip_39_word_no_space_1 | income |  
+| bip_39_word_no_space_10 | incomewarfaredressgianthurrypeanutgeniusblastoutercompany |  
+| bip_39_word_no_space_11 | incomewarfaredressgianthurrypeanutgeniusblastoutercompanysleep |  
+| bip_39_word_no_space_12 | incomewarfaredressgianthurrypeanutgeniusblastoutercompanysleepamused |  
+| bip_39_word_no_space_2 | incomewarfare |  
+| bip_39_word_no_space_3 | incomewarfaredress |  
+| bip_39_word_no_space_4 | incomewarfaredressgiant |  
+| bip_39_word_no_space_5 | incomewarfaredressgianthurry |  
+| bip_39_word_no_space_6 | incomewarfaredressgianthurrypeanut |  
+| bip_39_word_no_space_7 | incomewarfaredressgianthurrypeanutgenius |  
+| bip_39_word_no_space_8 | incomewarfaredressgianthurrypeanutgeniusblast |  
+| bip_39_word_no_space_9 | incomewarfaredressgianthurrypeanutgeniusblastouter |  
 | bip_39_word_space_0 | ['income', 'warfare', 'dress', 'giant', 'hurry', 'peanut', 'genius', 'blast', 'outer', 'company', 'sleep', 'amused'] |  
 | bip_39_word_space_1 | income |  
 | bip_39_word_space_10 | income warfare dress giant hurry peanut genius blast outer company |  

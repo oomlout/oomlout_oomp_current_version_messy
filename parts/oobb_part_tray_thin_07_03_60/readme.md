@@ -122,6 +122,18 @@ forum
 hour
 layer
 abstract |  
+| bip_39_word_no_space_1 | zebra |  
+| bip_39_word_no_space_10 | zebrasuresilentframejuiceforumhourlayerabstracthard |  
+| bip_39_word_no_space_11 | zebrasuresilentframejuiceforumhourlayerabstracthardstory |  
+| bip_39_word_no_space_12 | zebrasuresilentframejuiceforumhourlayerabstracthardstoryannual |  
+| bip_39_word_no_space_2 | zebrasure |  
+| bip_39_word_no_space_3 | zebrasuresilent |  
+| bip_39_word_no_space_4 | zebrasuresilentframe |  
+| bip_39_word_no_space_5 | zebrasuresilentframejuice |  
+| bip_39_word_no_space_6 | zebrasuresilentframejuiceforum |  
+| bip_39_word_no_space_7 | zebrasuresilentframejuiceforumhour |  
+| bip_39_word_no_space_8 | zebrasuresilentframejuiceforumhourlayer |  
+| bip_39_word_no_space_9 | zebrasuresilentframejuiceforumhourlayerabstract |  
 | bip_39_word_space_0 | ['zebra', 'sure', 'silent', 'frame', 'juice', 'forum', 'hour', 'layer', 'abstract', 'hard', 'story', 'annual'] |  
 | bip_39_word_space_1 | zebra |  
 | bip_39_word_space_10 | zebra sure silent frame juice forum hour layer abstract hard |  

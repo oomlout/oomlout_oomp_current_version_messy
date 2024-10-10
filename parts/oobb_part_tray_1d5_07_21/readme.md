@@ -122,6 +122,18 @@ tree
 double
 cost
 this |  
+| bip_39_word_no_space_1 | opinion |  
+| bip_39_word_no_space_10 | opinionupperseedswiftblindtreedoublecostthisgrab |  
+| bip_39_word_no_space_11 | opinionupperseedswiftblindtreedoublecostthisgrablaw |  
+| bip_39_word_no_space_12 | opinionupperseedswiftblindtreedoublecostthisgrablawabsurd |  
+| bip_39_word_no_space_2 | opinionupper |  
+| bip_39_word_no_space_3 | opinionupperseed |  
+| bip_39_word_no_space_4 | opinionupperseedswift |  
+| bip_39_word_no_space_5 | opinionupperseedswiftblind |  
+| bip_39_word_no_space_6 | opinionupperseedswiftblindtree |  
+| bip_39_word_no_space_7 | opinionupperseedswiftblindtreedouble |  
+| bip_39_word_no_space_8 | opinionupperseedswiftblindtreedoublecost |  
+| bip_39_word_no_space_9 | opinionupperseedswiftblindtreedoublecostthis |  
 | bip_39_word_space_0 | ['opinion', 'upper', 'seed', 'swift', 'blind', 'tree', 'double', 'cost', 'this', 'grab', 'law', 'absurd'] |  
 | bip_39_word_space_1 | opinion |  
 | bip_39_word_space_10 | opinion upper seed swift blind tree double cost this grab |  

@@ -122,6 +122,18 @@ boy
 miracle
 inherit
 rude |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magiccanyonprojectannualquoteboymiracleinheritrudereport |  
+| bip_39_word_no_space_11 | magiccanyonprojectannualquoteboymiracleinheritrudereportvisa |  
+| bip_39_word_no_space_12 | magiccanyonprojectannualquoteboymiracleinheritrudereportvisaaction |  
+| bip_39_word_no_space_2 | magiccanyon |  
+| bip_39_word_no_space_3 | magiccanyonproject |  
+| bip_39_word_no_space_4 | magiccanyonprojectannual |  
+| bip_39_word_no_space_5 | magiccanyonprojectannualquote |  
+| bip_39_word_no_space_6 | magiccanyonprojectannualquoteboy |  
+| bip_39_word_no_space_7 | magiccanyonprojectannualquoteboymiracle |  
+| bip_39_word_no_space_8 | magiccanyonprojectannualquoteboymiracleinherit |  
+| bip_39_word_no_space_9 | magiccanyonprojectannualquoteboymiracleinheritrude |  
 | bip_39_word_space_0 | ['magic', 'canyon', 'project', 'annual', 'quote', 'boy', 'miracle', 'inherit', 'rude', 'report', 'visa', 'action'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic canyon project annual quote boy miracle inherit rude report |  

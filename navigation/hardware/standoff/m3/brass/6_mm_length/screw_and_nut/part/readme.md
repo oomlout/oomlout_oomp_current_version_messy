@@ -122,6 +122,18 @@ radio
 meadow
 tumble
 problem |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendcoffeeboilvaguewinradiomeadowtumbleproblemembark |  
+| bip_39_word_no_space_11 | legendcoffeeboilvaguewinradiomeadowtumbleproblemembarkguilt |  
+| bip_39_word_no_space_12 | legendcoffeeboilvaguewinradiomeadowtumbleproblemembarkguiltathlete |  
+| bip_39_word_no_space_2 | legendcoffee |  
+| bip_39_word_no_space_3 | legendcoffeeboil |  
+| bip_39_word_no_space_4 | legendcoffeeboilvague |  
+| bip_39_word_no_space_5 | legendcoffeeboilvaguewin |  
+| bip_39_word_no_space_6 | legendcoffeeboilvaguewinradio |  
+| bip_39_word_no_space_7 | legendcoffeeboilvaguewinradiomeadow |  
+| bip_39_word_no_space_8 | legendcoffeeboilvaguewinradiomeadowtumble |  
+| bip_39_word_no_space_9 | legendcoffeeboilvaguewinradiomeadowtumbleproblem |  
 | bip_39_word_space_0 | ['legend', 'coffee', 'boil', 'vague', 'win', 'radio', 'meadow', 'tumble', 'problem', 'embark', 'guilt', 'athlete'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend coffee boil vague win radio meadow tumble problem embark |  

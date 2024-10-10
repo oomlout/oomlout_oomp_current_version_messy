@@ -122,6 +122,18 @@ forest
 window
 milk
 awkward |  
+| bip_39_word_no_space_1 | chimney |  
+| bip_39_word_no_space_10 | chimneygrabentrytrashdoorforestwindowmilkawkwardawkward |  
+| bip_39_word_no_space_11 | chimneygrabentrytrashdoorforestwindowmilkawkwardawkwardenter |  
+| bip_39_word_no_space_12 | chimneygrabentrytrashdoorforestwindowmilkawkwardawkwardenteranother |  
+| bip_39_word_no_space_2 | chimneygrab |  
+| bip_39_word_no_space_3 | chimneygrabentry |  
+| bip_39_word_no_space_4 | chimneygrabentrytrash |  
+| bip_39_word_no_space_5 | chimneygrabentrytrashdoor |  
+| bip_39_word_no_space_6 | chimneygrabentrytrashdoorforest |  
+| bip_39_word_no_space_7 | chimneygrabentrytrashdoorforestwindow |  
+| bip_39_word_no_space_8 | chimneygrabentrytrashdoorforestwindowmilk |  
+| bip_39_word_no_space_9 | chimneygrabentrytrashdoorforestwindowmilkawkward |  
 | bip_39_word_space_0 | ['chimney', 'grab', 'entry', 'trash', 'door', 'forest', 'window', 'milk', 'awkward', 'awkward', 'enter', 'another'] |  
 | bip_39_word_space_1 | chimney |  
 | bip_39_word_space_10 | chimney grab entry trash door forest window milk awkward awkward |  

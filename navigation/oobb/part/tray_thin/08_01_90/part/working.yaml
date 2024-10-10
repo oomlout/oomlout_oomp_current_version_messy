@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'coast
   tent
 
   drip'
+bip_39_word_no_space_1: coast
+bip_39_word_no_space_10: coastgasbidmythanswerwastecheesetentdripginger
+bip_39_word_no_space_11: coastgasbidmythanswerwastecheesetentdripgingerclub
+bip_39_word_no_space_12: coastgasbidmythanswerwastecheesetentdripgingerclubafraid
+bip_39_word_no_space_2: coastgas
+bip_39_word_no_space_3: coastgasbid
+bip_39_word_no_space_4: coastgasbidmyth
+bip_39_word_no_space_5: coastgasbidmythanswer
+bip_39_word_no_space_6: coastgasbidmythanswerwaste
+bip_39_word_no_space_7: coastgasbidmythanswerwastecheese
+bip_39_word_no_space_8: coastgasbidmythanswerwastecheesetent
+bip_39_word_no_space_9: coastgasbidmythanswerwastecheesetentdrip
 bip_39_word_space_0:
 - coast
 - gas

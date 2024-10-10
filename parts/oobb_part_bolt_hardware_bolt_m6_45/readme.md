@@ -122,6 +122,18 @@ civil
 neglect
 error
 crater |  
+| bip_39_word_no_space_1 | fringe |  
+| bip_39_word_no_space_10 | fringedieselpencilslablearncivilneglecterrorcraterwindow |  
+| bip_39_word_no_space_11 | fringedieselpencilslablearncivilneglecterrorcraterwindowglobe |  
+| bip_39_word_no_space_12 | fringedieselpencilslablearncivilneglecterrorcraterwindowglobearound |  
+| bip_39_word_no_space_2 | fringediesel |  
+| bip_39_word_no_space_3 | fringedieselpencil |  
+| bip_39_word_no_space_4 | fringedieselpencilslab |  
+| bip_39_word_no_space_5 | fringedieselpencilslablearn |  
+| bip_39_word_no_space_6 | fringedieselpencilslablearncivil |  
+| bip_39_word_no_space_7 | fringedieselpencilslablearncivilneglect |  
+| bip_39_word_no_space_8 | fringedieselpencilslablearncivilneglecterror |  
+| bip_39_word_no_space_9 | fringedieselpencilslablearncivilneglecterrorcrater |  
 | bip_39_word_space_0 | ['fringe', 'diesel', 'pencil', 'slab', 'learn', 'civil', 'neglect', 'error', 'crater', 'window', 'globe', 'around'] |  
 | bip_39_word_space_1 | fringe |  
 | bip_39_word_space_10 | fringe diesel pencil slab learn civil neglect error crater window |  

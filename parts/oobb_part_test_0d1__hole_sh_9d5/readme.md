@@ -122,6 +122,18 @@ turn
 brave
 sword
 lava |  
+| bip_39_word_no_space_1 | grit |  
+| bip_39_word_no_space_10 | gritcloudrulelifeaheadturnbraveswordlavasubmit |  
+| bip_39_word_no_space_11 | gritcloudrulelifeaheadturnbraveswordlavasubmitrack |  
+| bip_39_word_no_space_12 | gritcloudrulelifeaheadturnbraveswordlavasubmitrackaction |  
+| bip_39_word_no_space_2 | gritcloud |  
+| bip_39_word_no_space_3 | gritcloudrule |  
+| bip_39_word_no_space_4 | gritcloudrulelife |  
+| bip_39_word_no_space_5 | gritcloudrulelifeahead |  
+| bip_39_word_no_space_6 | gritcloudrulelifeaheadturn |  
+| bip_39_word_no_space_7 | gritcloudrulelifeaheadturnbrave |  
+| bip_39_word_no_space_8 | gritcloudrulelifeaheadturnbravesword |  
+| bip_39_word_no_space_9 | gritcloudrulelifeaheadturnbraveswordlava |  
 | bip_39_word_space_0 | ['grit', 'cloud', 'rule', 'life', 'ahead', 'turn', 'brave', 'sword', 'lava', 'submit', 'rack', 'action'] |  
 | bip_39_word_space_1 | grit |  
 | bip_39_word_space_10 | grit cloud rule life ahead turn brave sword lava submit |  

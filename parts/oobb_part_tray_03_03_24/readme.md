@@ -122,6 +122,18 @@ salad
 odor
 hire
 equip |  
+| bip_39_word_no_space_1 | caution |  
+| bip_39_word_no_space_10 | cautiontrashfogladytogethersaladodorhireequipera |  
+| bip_39_word_no_space_11 | cautiontrashfogladytogethersaladodorhireequiperadish |  
+| bip_39_word_no_space_12 | cautiontrashfogladytogethersaladodorhireequiperadishankle |  
+| bip_39_word_no_space_2 | cautiontrash |  
+| bip_39_word_no_space_3 | cautiontrashfog |  
+| bip_39_word_no_space_4 | cautiontrashfoglady |  
+| bip_39_word_no_space_5 | cautiontrashfogladytogether |  
+| bip_39_word_no_space_6 | cautiontrashfogladytogethersalad |  
+| bip_39_word_no_space_7 | cautiontrashfogladytogethersaladodor |  
+| bip_39_word_no_space_8 | cautiontrashfogladytogethersaladodorhire |  
+| bip_39_word_no_space_9 | cautiontrashfogladytogethersaladodorhireequip |  
 | bip_39_word_space_0 | ['caution', 'trash', 'fog', 'lady', 'together', 'salad', 'odor', 'hire', 'equip', 'era', 'dish', 'ankle'] |  
 | bip_39_word_space_1 | caution |  
 | bip_39_word_space_10 | caution trash fog lady together salad odor hire equip era |  

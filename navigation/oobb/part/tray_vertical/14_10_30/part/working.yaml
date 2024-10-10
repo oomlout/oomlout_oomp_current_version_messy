@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'work
   vanish
 
   exotic'
+bip_39_word_no_space_1: work
+bip_39_word_no_space_10: workacrosspracticeoftentipcriticdiaryvanishexoticlecture
+bip_39_word_no_space_11: workacrosspracticeoftentipcriticdiaryvanishexoticlectureheight
+bip_39_word_no_space_12: workacrosspracticeoftentipcriticdiaryvanishexoticlectureheightafraid
+bip_39_word_no_space_2: workacross
+bip_39_word_no_space_3: workacrosspractice
+bip_39_word_no_space_4: workacrosspracticeoften
+bip_39_word_no_space_5: workacrosspracticeoftentip
+bip_39_word_no_space_6: workacrosspracticeoftentipcritic
+bip_39_word_no_space_7: workacrosspracticeoftentipcriticdiary
+bip_39_word_no_space_8: workacrosspracticeoftentipcriticdiaryvanish
+bip_39_word_no_space_9: workacrosspracticeoftentipcriticdiaryvanishexotic
 bip_39_word_space_0:
 - work
 - across

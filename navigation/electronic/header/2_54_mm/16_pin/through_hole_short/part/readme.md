@@ -122,6 +122,18 @@ roast
 token
 sure
 brother |  
+| bip_39_word_no_space_1 | chapter |  
+| bip_39_word_no_space_10 | chaptermovepapermainbadgeroasttokensurebrothertortoise |  
+| bip_39_word_no_space_11 | chaptermovepapermainbadgeroasttokensurebrothertortoiseaverage |  
+| bip_39_word_no_space_12 | chaptermovepapermainbadgeroasttokensurebrothertortoiseaverageacross |  
+| bip_39_word_no_space_2 | chaptermove |  
+| bip_39_word_no_space_3 | chaptermovepaper |  
+| bip_39_word_no_space_4 | chaptermovepapermain |  
+| bip_39_word_no_space_5 | chaptermovepapermainbadge |  
+| bip_39_word_no_space_6 | chaptermovepapermainbadgeroast |  
+| bip_39_word_no_space_7 | chaptermovepapermainbadgeroasttoken |  
+| bip_39_word_no_space_8 | chaptermovepapermainbadgeroasttokensure |  
+| bip_39_word_no_space_9 | chaptermovepapermainbadgeroasttokensurebrother |  
 | bip_39_word_space_0 | ['chapter', 'move', 'paper', 'main', 'badge', 'roast', 'token', 'sure', 'brother', 'tortoise', 'average', 'across'] |  
 | bip_39_word_space_1 | chapter |  
 | bip_39_word_space_10 | chapter move paper main badge roast token sure brother tortoise |  

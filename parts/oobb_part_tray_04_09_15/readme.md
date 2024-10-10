@@ -122,6 +122,18 @@ romance
 curious
 idle
 cute |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenanxietyscienceexplainsoapromancecuriousidlecutemisery |  
+| bip_39_word_no_space_11 | burdenanxietyscienceexplainsoapromancecuriousidlecutemiseryarmy |  
+| bip_39_word_no_space_12 | burdenanxietyscienceexplainsoapromancecuriousidlecutemiseryarmyaffair |  
+| bip_39_word_no_space_2 | burdenanxiety |  
+| bip_39_word_no_space_3 | burdenanxietyscience |  
+| bip_39_word_no_space_4 | burdenanxietyscienceexplain |  
+| bip_39_word_no_space_5 | burdenanxietyscienceexplainsoap |  
+| bip_39_word_no_space_6 | burdenanxietyscienceexplainsoapromance |  
+| bip_39_word_no_space_7 | burdenanxietyscienceexplainsoapromancecurious |  
+| bip_39_word_no_space_8 | burdenanxietyscienceexplainsoapromancecuriousidle |  
+| bip_39_word_no_space_9 | burdenanxietyscienceexplainsoapromancecuriousidlecute |  
 | bip_39_word_space_0 | ['burden', 'anxiety', 'science', 'explain', 'soap', 'romance', 'curious', 'idle', 'cute', 'misery', 'army', 'affair'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden anxiety science explain soap romance curious idle cute misery |  

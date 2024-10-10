@@ -122,6 +122,18 @@ chest
 ill
 property
 lion |  
+| bip_39_word_no_space_1 | hill |  
+| bip_39_word_no_space_10 | hilldivertpalmawaredadchestillpropertylionshy |  
+| bip_39_word_no_space_11 | hilldivertpalmawaredadchestillpropertylionshydemand |  
+| bip_39_word_no_space_12 | hilldivertpalmawaredadchestillpropertylionshydemandanalyst |  
+| bip_39_word_no_space_2 | hilldivert |  
+| bip_39_word_no_space_3 | hilldivertpalm |  
+| bip_39_word_no_space_4 | hilldivertpalmaware |  
+| bip_39_word_no_space_5 | hilldivertpalmawaredad |  
+| bip_39_word_no_space_6 | hilldivertpalmawaredadchest |  
+| bip_39_word_no_space_7 | hilldivertpalmawaredadchestill |  
+| bip_39_word_no_space_8 | hilldivertpalmawaredadchestillproperty |  
+| bip_39_word_no_space_9 | hilldivertpalmawaredadchestillpropertylion |  
 | bip_39_word_space_0 | ['hill', 'divert', 'palm', 'aware', 'dad', 'chest', 'ill', 'property', 'lion', 'shy', 'demand', 'analyst'] |  
 | bip_39_word_space_1 | hill |  
 | bip_39_word_space_10 | hill divert palm aware dad chest ill property lion shy |  

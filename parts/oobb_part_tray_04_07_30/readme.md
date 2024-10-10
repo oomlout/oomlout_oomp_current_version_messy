@@ -109,6 +109,17 @@ range
 odor
 waste
 soul |  
+| bip_39_word_no_space_1 | crime |  
+| bip_39_word_no_space_10 | crimecomfortdoctormachineriotrangeodorwastesoulsurround |  
+| bip_39_word_no_space_11 | crimecomfortdoctormachineriotrangeodorwastesoulsurroundwaste |  
+| bip_39_word_no_space_2 | crimecomfort |  
+| bip_39_word_no_space_3 | crimecomfortdoctor |  
+| bip_39_word_no_space_4 | crimecomfortdoctormachine |  
+| bip_39_word_no_space_5 | crimecomfortdoctormachineriot |  
+| bip_39_word_no_space_6 | crimecomfortdoctormachineriotrange |  
+| bip_39_word_no_space_7 | crimecomfortdoctormachineriotrangeodor |  
+| bip_39_word_no_space_8 | crimecomfortdoctormachineriotrangeodorwaste |  
+| bip_39_word_no_space_9 | crimecomfortdoctormachineriotrangeodorwastesoul |  
 | bip_39_word_space_0 | ['crime', 'comfort', 'doctor', 'machine', 'riot', 'range', 'odor', 'waste', 'soul', 'surround', 'waste'] |  
 | bip_39_word_space_1 | crime |  
 | bip_39_word_space_10 | crime comfort doctor machine riot range odor waste soul surround |  

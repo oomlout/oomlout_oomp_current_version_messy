@@ -122,6 +122,18 @@ ahead
 melody
 fitness
 tone |  
+| bip_39_word_no_space_1 | stick |  
+| bip_39_word_no_space_10 | stickbeforethreesubjectgridaheadmelodyfitnesstonecolumn |  
+| bip_39_word_no_space_11 | stickbeforethreesubjectgridaheadmelodyfitnesstonecolumnadapt |  
+| bip_39_word_no_space_12 | stickbeforethreesubjectgridaheadmelodyfitnesstonecolumnadaptannual |  
+| bip_39_word_no_space_2 | stickbefore |  
+| bip_39_word_no_space_3 | stickbeforethree |  
+| bip_39_word_no_space_4 | stickbeforethreesubject |  
+| bip_39_word_no_space_5 | stickbeforethreesubjectgrid |  
+| bip_39_word_no_space_6 | stickbeforethreesubjectgridahead |  
+| bip_39_word_no_space_7 | stickbeforethreesubjectgridaheadmelody |  
+| bip_39_word_no_space_8 | stickbeforethreesubjectgridaheadmelodyfitness |  
+| bip_39_word_no_space_9 | stickbeforethreesubjectgridaheadmelodyfitnesstone |  
 | bip_39_word_space_0 | ['stick', 'before', 'three', 'subject', 'grid', 'ahead', 'melody', 'fitness', 'tone', 'column', 'adapt', 'annual'] |  
 | bip_39_word_space_1 | stick |  
 | bip_39_word_space_10 | stick before three subject grid ahead melody fitness tone column |  

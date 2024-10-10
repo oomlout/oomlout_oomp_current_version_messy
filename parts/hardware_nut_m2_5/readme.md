@@ -122,6 +122,18 @@ hub
 novel
 garment
 surprise |  
+| bip_39_word_no_space_1 | hurdle |  
+| bip_39_word_no_space_10 | hurdleinjectvoyagetopplesloganhubnovelgarmentsurpriseodor |  
+| bip_39_word_no_space_11 | hurdleinjectvoyagetopplesloganhubnovelgarmentsurpriseodortimber |  
+| bip_39_word_no_space_12 | hurdleinjectvoyagetopplesloganhubnovelgarmentsurpriseodortimberaccount |  
+| bip_39_word_no_space_2 | hurdleinject |  
+| bip_39_word_no_space_3 | hurdleinjectvoyage |  
+| bip_39_word_no_space_4 | hurdleinjectvoyagetopple |  
+| bip_39_word_no_space_5 | hurdleinjectvoyagetoppleslogan |  
+| bip_39_word_no_space_6 | hurdleinjectvoyagetopplesloganhub |  
+| bip_39_word_no_space_7 | hurdleinjectvoyagetopplesloganhubnovel |  
+| bip_39_word_no_space_8 | hurdleinjectvoyagetopplesloganhubnovelgarment |  
+| bip_39_word_no_space_9 | hurdleinjectvoyagetopplesloganhubnovelgarmentsurprise |  
 | bip_39_word_space_0 | ['hurdle', 'inject', 'voyage', 'topple', 'slogan', 'hub', 'novel', 'garment', 'surprise', 'odor', 'timber', 'account'] |  
 | bip_39_word_space_1 | hurdle |  
 | bip_39_word_space_10 | hurdle inject voyage topple slogan hub novel garment surprise odor |  

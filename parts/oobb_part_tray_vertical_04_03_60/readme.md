@@ -122,6 +122,18 @@ chair
 inform
 message
 boil |  
+| bip_39_word_no_space_1 | suspect |  
+| bip_39_word_no_space_10 | suspectannualspoilchroniceaglechairinformmessageboilvelvet |  
+| bip_39_word_no_space_11 | suspectannualspoilchroniceaglechairinformmessageboilvelvetcurrent |  
+| bip_39_word_no_space_12 | suspectannualspoilchroniceaglechairinformmessageboilvelvetcurrentalter |  
+| bip_39_word_no_space_2 | suspectannual |  
+| bip_39_word_no_space_3 | suspectannualspoil |  
+| bip_39_word_no_space_4 | suspectannualspoilchronic |  
+| bip_39_word_no_space_5 | suspectannualspoilchroniceagle |  
+| bip_39_word_no_space_6 | suspectannualspoilchroniceaglechair |  
+| bip_39_word_no_space_7 | suspectannualspoilchroniceaglechairinform |  
+| bip_39_word_no_space_8 | suspectannualspoilchroniceaglechairinformmessage |  
+| bip_39_word_no_space_9 | suspectannualspoilchroniceaglechairinformmessageboil |  
 | bip_39_word_space_0 | ['suspect', 'annual', 'spoil', 'chronic', 'eagle', 'chair', 'inform', 'message', 'boil', 'velvet', 'current', 'alter'] |  
 | bip_39_word_space_1 | suspect |  
 | bip_39_word_space_10 | suspect annual spoil chronic eagle chair inform message boil velvet |  

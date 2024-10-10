@@ -122,6 +122,18 @@ grab
 trip
 ankle
 permit |  
+| bip_39_word_no_space_1 | language |  
+| bip_39_word_no_space_10 | languagegloomeducatepupiluselessgrabtripanklepermitshop |  
+| bip_39_word_no_space_11 | languagegloomeducatepupiluselessgrabtripanklepermitshopordinary |  
+| bip_39_word_no_space_12 | languagegloomeducatepupiluselessgrabtripanklepermitshopordinaryacid |  
+| bip_39_word_no_space_2 | languagegloom |  
+| bip_39_word_no_space_3 | languagegloomeducate |  
+| bip_39_word_no_space_4 | languagegloomeducatepupil |  
+| bip_39_word_no_space_5 | languagegloomeducatepupiluseless |  
+| bip_39_word_no_space_6 | languagegloomeducatepupiluselessgrab |  
+| bip_39_word_no_space_7 | languagegloomeducatepupiluselessgrabtrip |  
+| bip_39_word_no_space_8 | languagegloomeducatepupiluselessgrabtripankle |  
+| bip_39_word_no_space_9 | languagegloomeducatepupiluselessgrabtripanklepermit |  
 | bip_39_word_space_0 | ['language', 'gloom', 'educate', 'pupil', 'useless', 'grab', 'trip', 'ankle', 'permit', 'shop', 'ordinary', 'acid'] |  
 | bip_39_word_space_1 | language |  
 | bip_39_word_space_10 | language gloom educate pupil useless grab trip ankle permit shop |  

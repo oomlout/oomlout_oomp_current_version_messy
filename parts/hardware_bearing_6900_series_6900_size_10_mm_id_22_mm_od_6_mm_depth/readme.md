@@ -122,6 +122,18 @@ ready
 pulse
 drink
 skirt |  
+| bip_39_word_no_space_1 | stool |  
+| bip_39_word_no_space_10 | stoolincreasesmartinsanegreatreadypulsedrinkskirtresist |  
+| bip_39_word_no_space_11 | stoolincreasesmartinsanegreatreadypulsedrinkskirtresistcheap |  
+| bip_39_word_no_space_12 | stoolincreasesmartinsanegreatreadypulsedrinkskirtresistcheapabove |  
+| bip_39_word_no_space_2 | stoolincrease |  
+| bip_39_word_no_space_3 | stoolincreasesmart |  
+| bip_39_word_no_space_4 | stoolincreasesmartinsane |  
+| bip_39_word_no_space_5 | stoolincreasesmartinsanegreat |  
+| bip_39_word_no_space_6 | stoolincreasesmartinsanegreatready |  
+| bip_39_word_no_space_7 | stoolincreasesmartinsanegreatreadypulse |  
+| bip_39_word_no_space_8 | stoolincreasesmartinsanegreatreadypulsedrink |  
+| bip_39_word_no_space_9 | stoolincreasesmartinsanegreatreadypulsedrinkskirt |  
 | bip_39_word_space_0 | ['stool', 'increase', 'smart', 'insane', 'great', 'ready', 'pulse', 'drink', 'skirt', 'resist', 'cheap', 'above'] |  
 | bip_39_word_space_1 | stool |  
 | bip_39_word_space_10 | stool increase smart insane great ready pulse drink skirt resist |  

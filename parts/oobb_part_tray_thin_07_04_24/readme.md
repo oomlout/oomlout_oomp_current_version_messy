@@ -122,6 +122,18 @@ genius
 isolate
 melody
 edge |  
+| bip_39_word_no_space_1 | rapid |  
+| bip_39_word_no_space_10 | rapidwrapcategoryjaguarrulegeniusisolatemelodyedgemodify |  
+| bip_39_word_no_space_11 | rapidwrapcategoryjaguarrulegeniusisolatemelodyedgemodifytrim |  
+| bip_39_word_no_space_12 | rapidwrapcategoryjaguarrulegeniusisolatemelodyedgemodifytrimany |  
+| bip_39_word_no_space_2 | rapidwrap |  
+| bip_39_word_no_space_3 | rapidwrapcategory |  
+| bip_39_word_no_space_4 | rapidwrapcategoryjaguar |  
+| bip_39_word_no_space_5 | rapidwrapcategoryjaguarrule |  
+| bip_39_word_no_space_6 | rapidwrapcategoryjaguarrulegenius |  
+| bip_39_word_no_space_7 | rapidwrapcategoryjaguarrulegeniusisolate |  
+| bip_39_word_no_space_8 | rapidwrapcategoryjaguarrulegeniusisolatemelody |  
+| bip_39_word_no_space_9 | rapidwrapcategoryjaguarrulegeniusisolatemelodyedge |  
 | bip_39_word_space_0 | ['rapid', 'wrap', 'category', 'jaguar', 'rule', 'genius', 'isolate', 'melody', 'edge', 'modify', 'trim', 'any'] |  
 | bip_39_word_space_1 | rapid |  
 | bip_39_word_space_10 | rapid wrap category jaguar rule genius isolate melody edge modify |  

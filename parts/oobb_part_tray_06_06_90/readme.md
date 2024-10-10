@@ -122,6 +122,18 @@ cool
 term
 inform
 enlist |  
+| bip_39_word_no_space_1 | rival |  
+| bip_39_word_no_space_10 | rivaltenpitchfameglowcoolterminformenlistblind |  
+| bip_39_word_no_space_11 | rivaltenpitchfameglowcoolterminformenlistblindenroll |  
+| bip_39_word_no_space_12 | rivaltenpitchfameglowcoolterminformenlistblindenrollabout |  
+| bip_39_word_no_space_2 | rivalten |  
+| bip_39_word_no_space_3 | rivaltenpitch |  
+| bip_39_word_no_space_4 | rivaltenpitchfame |  
+| bip_39_word_no_space_5 | rivaltenpitchfameglow |  
+| bip_39_word_no_space_6 | rivaltenpitchfameglowcool |  
+| bip_39_word_no_space_7 | rivaltenpitchfameglowcoolterm |  
+| bip_39_word_no_space_8 | rivaltenpitchfameglowcoolterminform |  
+| bip_39_word_no_space_9 | rivaltenpitchfameglowcoolterminformenlist |  
 | bip_39_word_space_0 | ['rival', 'ten', 'pitch', 'fame', 'glow', 'cool', 'term', 'inform', 'enlist', 'blind', 'enroll', 'about'] |  
 | bip_39_word_space_1 | rival |  
 | bip_39_word_space_10 | rival ten pitch fame glow cool term inform enlist blind |  

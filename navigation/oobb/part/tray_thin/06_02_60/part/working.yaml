@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lava
   fire
 
   resist'
+bip_39_word_no_space_1: lava
+bip_39_word_no_space_10: lavaverbdilemmaliftgownovenescapefireresistmyth
+bip_39_word_no_space_11: lavaverbdilemmaliftgownovenescapefireresistmythinto
+bip_39_word_no_space_12: lavaverbdilemmaliftgownovenescapefireresistmythintoalways
+bip_39_word_no_space_2: lavaverb
+bip_39_word_no_space_3: lavaverbdilemma
+bip_39_word_no_space_4: lavaverbdilemmalift
+bip_39_word_no_space_5: lavaverbdilemmaliftgown
+bip_39_word_no_space_6: lavaverbdilemmaliftgownoven
+bip_39_word_no_space_7: lavaverbdilemmaliftgownovenescape
+bip_39_word_no_space_8: lavaverbdilemmaliftgownovenescapefire
+bip_39_word_no_space_9: lavaverbdilemmaliftgownovenescapefireresist
 bip_39_word_space_0:
 - lava
 - verb

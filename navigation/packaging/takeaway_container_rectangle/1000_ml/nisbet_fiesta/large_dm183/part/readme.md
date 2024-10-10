@@ -124,6 +124,18 @@ wreck
 grocery
 swarm
 cloth |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendcasinooftencastlepoetwreckgroceryswarmclothliberty |  
+| bip_39_word_no_space_11 | attendcasinooftencastlepoetwreckgroceryswarmclothlibertyoven |  
+| bip_39_word_no_space_12 | attendcasinooftencastlepoetwreckgroceryswarmclothlibertyovenafraid |  
+| bip_39_word_no_space_2 | attendcasino |  
+| bip_39_word_no_space_3 | attendcasinooften |  
+| bip_39_word_no_space_4 | attendcasinooftencastle |  
+| bip_39_word_no_space_5 | attendcasinooftencastlepoet |  
+| bip_39_word_no_space_6 | attendcasinooftencastlepoetwreck |  
+| bip_39_word_no_space_7 | attendcasinooftencastlepoetwreckgrocery |  
+| bip_39_word_no_space_8 | attendcasinooftencastlepoetwreckgroceryswarm |  
+| bip_39_word_no_space_9 | attendcasinooftencastlepoetwreckgroceryswarmcloth |  
 | bip_39_word_space_0 | ['attend', 'casino', 'often', 'castle', 'poet', 'wreck', 'grocery', 'swarm', 'cloth', 'liberty', 'oven', 'afraid'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend casino often castle poet wreck grocery swarm cloth liberty |  

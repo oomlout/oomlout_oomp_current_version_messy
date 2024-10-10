@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'decline
   book
 
   cover'
+bip_39_word_no_space_1: decline
+bip_39_word_no_space_10: declineswamptoastscenetoothhopeseabookcovercaution
+bip_39_word_no_space_11: declineswamptoastscenetoothhopeseabookcovercautiongesture
+bip_39_word_no_space_12: declineswamptoastscenetoothhopeseabookcovercautiongestureamused
+bip_39_word_no_space_2: declineswamp
+bip_39_word_no_space_3: declineswamptoast
+bip_39_word_no_space_4: declineswamptoastscene
+bip_39_word_no_space_5: declineswamptoastscenetooth
+bip_39_word_no_space_6: declineswamptoastscenetoothhope
+bip_39_word_no_space_7: declineswamptoastscenetoothhopesea
+bip_39_word_no_space_8: declineswamptoastscenetoothhopeseabook
+bip_39_word_no_space_9: declineswamptoastscenetoothhopeseabookcover
 bip_39_word_space_0:
 - decline
 - swamp

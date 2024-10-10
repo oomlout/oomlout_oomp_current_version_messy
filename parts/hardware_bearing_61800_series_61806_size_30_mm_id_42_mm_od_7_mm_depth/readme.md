@@ -122,6 +122,18 @@ burst
 invest
 buzz
 man |  
+| bip_39_word_no_space_1 | wink |  
+| bip_39_word_no_space_10 | winkgospelpulpcrossroadburstinvestbuzzmansolution |  
+| bip_39_word_no_space_11 | winkgospelpulpcrossroadburstinvestbuzzmansolutionstory |  
+| bip_39_word_no_space_12 | winkgospelpulpcrossroadburstinvestbuzzmansolutionstoryanimal |  
+| bip_39_word_no_space_2 | winkgospel |  
+| bip_39_word_no_space_3 | winkgospelpulp |  
+| bip_39_word_no_space_4 | winkgospelpulpcross |  
+| bip_39_word_no_space_5 | winkgospelpulpcrossroad |  
+| bip_39_word_no_space_6 | winkgospelpulpcrossroadburst |  
+| bip_39_word_no_space_7 | winkgospelpulpcrossroadburstinvest |  
+| bip_39_word_no_space_8 | winkgospelpulpcrossroadburstinvestbuzz |  
+| bip_39_word_no_space_9 | winkgospelpulpcrossroadburstinvestbuzzman |  
 | bip_39_word_space_0 | ['wink', 'gospel', 'pulp', 'cross', 'road', 'burst', 'invest', 'buzz', 'man', 'solution', 'story', 'animal'] |  
 | bip_39_word_space_1 | wink |  
 | bip_39_word_space_10 | wink gospel pulp cross road burst invest buzz man solution |  

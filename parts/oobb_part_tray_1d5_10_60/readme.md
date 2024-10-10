@@ -122,6 +122,18 @@ planet
 grape
 close
 weasel |  
+| bip_39_word_no_space_1 | basket |  
+| bip_39_word_no_space_10 | basketonioncooldilemmaenterplanetgrapecloseweaselstove |  
+| bip_39_word_no_space_11 | basketonioncooldilemmaenterplanetgrapecloseweaselstoveanimal |  
+| bip_39_word_no_space_12 | basketonioncooldilemmaenterplanetgrapecloseweaselstoveanimalamused |  
+| bip_39_word_no_space_2 | basketonion |  
+| bip_39_word_no_space_3 | basketonioncool |  
+| bip_39_word_no_space_4 | basketonioncooldilemma |  
+| bip_39_word_no_space_5 | basketonioncooldilemmaenter |  
+| bip_39_word_no_space_6 | basketonioncooldilemmaenterplanet |  
+| bip_39_word_no_space_7 | basketonioncooldilemmaenterplanetgrape |  
+| bip_39_word_no_space_8 | basketonioncooldilemmaenterplanetgrapeclose |  
+| bip_39_word_no_space_9 | basketonioncooldilemmaenterplanetgrapecloseweasel |  
 | bip_39_word_space_0 | ['basket', 'onion', 'cool', 'dilemma', 'enter', 'planet', 'grape', 'close', 'weasel', 'stove', 'animal', 'amused'] |  
 | bip_39_word_space_1 | basket |  
 | bip_39_word_space_10 | basket onion cool dilemma enter planet grape close weasel stove |  

@@ -122,6 +122,18 @@ execute
 little
 economy
 small |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmentwristurbangridprofitexecutelittleeconomysmalljealous |  
+| bip_39_word_no_space_11 | segmentwristurbangridprofitexecutelittleeconomysmalljealousgrit |  
+| bip_39_word_no_space_12 | segmentwristurbangridprofitexecutelittleeconomysmalljealousgritanother |  
+| bip_39_word_no_space_2 | segmentwrist |  
+| bip_39_word_no_space_3 | segmentwristurban |  
+| bip_39_word_no_space_4 | segmentwristurbangrid |  
+| bip_39_word_no_space_5 | segmentwristurbangridprofit |  
+| bip_39_word_no_space_6 | segmentwristurbangridprofitexecute |  
+| bip_39_word_no_space_7 | segmentwristurbangridprofitexecutelittle |  
+| bip_39_word_no_space_8 | segmentwristurbangridprofitexecutelittleeconomy |  
+| bip_39_word_no_space_9 | segmentwristurbangridprofitexecutelittleeconomysmall |  
 | bip_39_word_space_0 | ['segment', 'wrist', 'urban', 'grid', 'profit', 'execute', 'little', 'economy', 'small', 'jealous', 'grit', 'another'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment wrist urban grid profit execute little economy small jealous |  

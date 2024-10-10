@@ -122,6 +122,18 @@ unfair
 version
 flag
 art |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyloadtenanttubealleyunfairversionflagartattitude |  
+| bip_39_word_no_space_11 | hobbyloadtenanttubealleyunfairversionflagartattitudeanswer |  
+| bip_39_word_no_space_12 | hobbyloadtenanttubealleyunfairversionflagartattitudeansweradmit |  
+| bip_39_word_no_space_2 | hobbyload |  
+| bip_39_word_no_space_3 | hobbyloadtenant |  
+| bip_39_word_no_space_4 | hobbyloadtenanttube |  
+| bip_39_word_no_space_5 | hobbyloadtenanttubealley |  
+| bip_39_word_no_space_6 | hobbyloadtenanttubealleyunfair |  
+| bip_39_word_no_space_7 | hobbyloadtenanttubealleyunfairversion |  
+| bip_39_word_no_space_8 | hobbyloadtenanttubealleyunfairversionflag |  
+| bip_39_word_no_space_9 | hobbyloadtenanttubealleyunfairversionflagart |  
 | bip_39_word_space_0 | ['hobby', 'load', 'tenant', 'tube', 'alley', 'unfair', 'version', 'flag', 'art', 'attitude', 'answer', 'admit'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby load tenant tube alley unfair version flag art attitude |  

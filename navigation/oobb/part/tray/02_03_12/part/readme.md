@@ -122,6 +122,18 @@ tilt
 patch
 bounce
 live |  
+| bip_39_word_no_space_1 | echo |  
+| bip_39_word_no_space_10 | echoinnocentloadsoonweapontiltpatchbouncelivewhat |  
+| bip_39_word_no_space_11 | echoinnocentloadsoonweapontiltpatchbouncelivewhatpizza |  
+| bip_39_word_no_space_12 | echoinnocentloadsoonweapontiltpatchbouncelivewhatpizzaalarm |  
+| bip_39_word_no_space_2 | echoinnocent |  
+| bip_39_word_no_space_3 | echoinnocentload |  
+| bip_39_word_no_space_4 | echoinnocentloadsoon |  
+| bip_39_word_no_space_5 | echoinnocentloadsoonweapon |  
+| bip_39_word_no_space_6 | echoinnocentloadsoonweapontilt |  
+| bip_39_word_no_space_7 | echoinnocentloadsoonweapontiltpatch |  
+| bip_39_word_no_space_8 | echoinnocentloadsoonweapontiltpatchbounce |  
+| bip_39_word_no_space_9 | echoinnocentloadsoonweapontiltpatchbouncelive |  
 | bip_39_word_space_0 | ['echo', 'innocent', 'load', 'soon', 'weapon', 'tilt', 'patch', 'bounce', 'live', 'what', 'pizza', 'alarm'] |  
 | bip_39_word_space_1 | echo |  
 | bip_39_word_space_10 | echo innocent load soon weapon tilt patch bounce live what |  

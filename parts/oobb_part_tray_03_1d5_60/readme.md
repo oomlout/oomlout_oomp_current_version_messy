@@ -122,6 +122,18 @@ sentence
 sphere
 size
 sister |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmcannonfinebrokenclosesentencespheresizesisterlava |  
+| bip_39_word_no_space_11 | rhythmcannonfinebrokenclosesentencespheresizesisterlavafat |  
+| bip_39_word_no_space_12 | rhythmcannonfinebrokenclosesentencespheresizesisterlavafatalcohol |  
+| bip_39_word_no_space_2 | rhythmcannon |  
+| bip_39_word_no_space_3 | rhythmcannonfine |  
+| bip_39_word_no_space_4 | rhythmcannonfinebroken |  
+| bip_39_word_no_space_5 | rhythmcannonfinebrokenclose |  
+| bip_39_word_no_space_6 | rhythmcannonfinebrokenclosesentence |  
+| bip_39_word_no_space_7 | rhythmcannonfinebrokenclosesentencesphere |  
+| bip_39_word_no_space_8 | rhythmcannonfinebrokenclosesentencespheresize |  
+| bip_39_word_no_space_9 | rhythmcannonfinebrokenclosesentencespheresizesister |  
 | bip_39_word_space_0 | ['rhythm', 'cannon', 'fine', 'broken', 'close', 'sentence', 'sphere', 'size', 'sister', 'lava', 'fat', 'alcohol'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm cannon fine broken close sentence sphere size sister lava |  

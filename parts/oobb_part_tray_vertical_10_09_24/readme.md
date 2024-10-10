@@ -122,6 +122,18 @@ degree
 excess
 depart
 table |  
+| bip_39_word_no_space_1 | trend |  
+| bip_39_word_no_space_10 | trendwalnutrandomantiquefalldegreeexcessdeparttablehorse |  
+| bip_39_word_no_space_11 | trendwalnutrandomantiquefalldegreeexcessdeparttablehorseketchup |  
+| bip_39_word_no_space_12 | trendwalnutrandomantiquefalldegreeexcessdeparttablehorseketchupaverage |  
+| bip_39_word_no_space_2 | trendwalnut |  
+| bip_39_word_no_space_3 | trendwalnutrandom |  
+| bip_39_word_no_space_4 | trendwalnutrandomantique |  
+| bip_39_word_no_space_5 | trendwalnutrandomantiquefall |  
+| bip_39_word_no_space_6 | trendwalnutrandomantiquefalldegree |  
+| bip_39_word_no_space_7 | trendwalnutrandomantiquefalldegreeexcess |  
+| bip_39_word_no_space_8 | trendwalnutrandomantiquefalldegreeexcessdepart |  
+| bip_39_word_no_space_9 | trendwalnutrandomantiquefalldegreeexcessdeparttable |  
 | bip_39_word_space_0 | ['trend', 'walnut', 'random', 'antique', 'fall', 'degree', 'excess', 'depart', 'table', 'horse', 'ketchup', 'average'] |  
 | bip_39_word_space_1 | trend |  
 | bip_39_word_space_10 | trend walnut random antique fall degree excess depart table horse |  

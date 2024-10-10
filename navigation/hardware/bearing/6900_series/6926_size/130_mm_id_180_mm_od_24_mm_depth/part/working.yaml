@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'frost
   hire
 
   used'
+bip_39_word_no_space_1: frost
+bip_39_word_no_space_10: frostsisterpuppyconductablecattlehollowhireuseddeliver
+bip_39_word_no_space_11: frostsisterpuppyconductablecattlehollowhireuseddeliversniff
+bip_39_word_no_space_12: frostsisterpuppyconductablecattlehollowhireuseddeliversniffallow
+bip_39_word_no_space_2: frostsister
+bip_39_word_no_space_3: frostsisterpuppy
+bip_39_word_no_space_4: frostsisterpuppyconduct
+bip_39_word_no_space_5: frostsisterpuppyconductable
+bip_39_word_no_space_6: frostsisterpuppyconductablecattle
+bip_39_word_no_space_7: frostsisterpuppyconductablecattlehollow
+bip_39_word_no_space_8: frostsisterpuppyconductablecattlehollowhire
+bip_39_word_no_space_9: frostsisterpuppyconductablecattlehollowhireused
 bip_39_word_space_0:
 - frost
 - sister

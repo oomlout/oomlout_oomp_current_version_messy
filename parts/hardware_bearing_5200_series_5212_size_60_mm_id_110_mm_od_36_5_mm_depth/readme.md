@@ -122,6 +122,18 @@ orbit
 gain
 opera
 measure |  
+| bip_39_word_no_space_1 | person |  
+| bip_39_word_no_space_10 | persondinosaurforgetbelowgazeorbitgainoperameasureskill |  
+| bip_39_word_no_space_11 | persondinosaurforgetbelowgazeorbitgainoperameasureskillrely |  
+| bip_39_word_no_space_12 | persondinosaurforgetbelowgazeorbitgainoperameasureskillrelyabsent |  
+| bip_39_word_no_space_2 | persondinosaur |  
+| bip_39_word_no_space_3 | persondinosaurforget |  
+| bip_39_word_no_space_4 | persondinosaurforgetbelow |  
+| bip_39_word_no_space_5 | persondinosaurforgetbelowgaze |  
+| bip_39_word_no_space_6 | persondinosaurforgetbelowgazeorbit |  
+| bip_39_word_no_space_7 | persondinosaurforgetbelowgazeorbitgain |  
+| bip_39_word_no_space_8 | persondinosaurforgetbelowgazeorbitgainopera |  
+| bip_39_word_no_space_9 | persondinosaurforgetbelowgazeorbitgainoperameasure |  
 | bip_39_word_space_0 | ['person', 'dinosaur', 'forget', 'below', 'gaze', 'orbit', 'gain', 'opera', 'measure', 'skill', 'rely', 'absent'] |  
 | bip_39_word_space_1 | person |  
 | bip_39_word_space_10 | person dinosaur forget below gaze orbit gain opera measure skill |  

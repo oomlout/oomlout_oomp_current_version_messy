@@ -122,6 +122,18 @@ glad
 fitness
 spice
 trap |  
+| bip_39_word_no_space_1 | shallow |  
+| bip_39_word_no_space_10 | shallowmoonrejectcattleunawaregladfitnessspicetrapday |  
+| bip_39_word_no_space_11 | shallowmoonrejectcattleunawaregladfitnessspicetrapdaytent |  
+| bip_39_word_no_space_12 | shallowmoonrejectcattleunawaregladfitnessspicetrapdaytentadvance |  
+| bip_39_word_no_space_2 | shallowmoon |  
+| bip_39_word_no_space_3 | shallowmoonreject |  
+| bip_39_word_no_space_4 | shallowmoonrejectcattle |  
+| bip_39_word_no_space_5 | shallowmoonrejectcattleunaware |  
+| bip_39_word_no_space_6 | shallowmoonrejectcattleunawareglad |  
+| bip_39_word_no_space_7 | shallowmoonrejectcattleunawaregladfitness |  
+| bip_39_word_no_space_8 | shallowmoonrejectcattleunawaregladfitnessspice |  
+| bip_39_word_no_space_9 | shallowmoonrejectcattleunawaregladfitnessspicetrap |  
 | bip_39_word_space_0 | ['shallow', 'moon', 'reject', 'cattle', 'unaware', 'glad', 'fitness', 'spice', 'trap', 'day', 'tent', 'advance'] |  
 | bip_39_word_space_1 | shallow |  
 | bip_39_word_space_10 | shallow moon reject cattle unaware glad fitness spice trap day |  

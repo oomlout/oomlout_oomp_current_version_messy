@@ -122,6 +122,18 @@ obscure
 camera
 way
 spike |  
+| bip_39_word_no_space_1 | breeze |  
+| bip_39_word_no_space_10 | breezecitizenpillcategorycraftobscurecamerawayspikevirus |  
+| bip_39_word_no_space_11 | breezecitizenpillcategorycraftobscurecamerawayspikevirusanxiety |  
+| bip_39_word_no_space_12 | breezecitizenpillcategorycraftobscurecamerawayspikevirusanxietyalbum |  
+| bip_39_word_no_space_2 | breezecitizen |  
+| bip_39_word_no_space_3 | breezecitizenpill |  
+| bip_39_word_no_space_4 | breezecitizenpillcategory |  
+| bip_39_word_no_space_5 | breezecitizenpillcategorycraft |  
+| bip_39_word_no_space_6 | breezecitizenpillcategorycraftobscure |  
+| bip_39_word_no_space_7 | breezecitizenpillcategorycraftobscurecamera |  
+| bip_39_word_no_space_8 | breezecitizenpillcategorycraftobscurecameraway |  
+| bip_39_word_no_space_9 | breezecitizenpillcategorycraftobscurecamerawayspike |  
 | bip_39_word_space_0 | ['breeze', 'citizen', 'pill', 'category', 'craft', 'obscure', 'camera', 'way', 'spike', 'virus', 'anxiety', 'album'] |  
 | bip_39_word_space_1 | breeze |  
 | bip_39_word_space_10 | breeze citizen pill category craft obscure camera way spike virus |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sense
   deputy
 
   crouch'
+bip_39_word_no_space_1: sense
+bip_39_word_no_space_10: sensefortunelumberalmostpullrangecropdeputycrouchorbit
+bip_39_word_no_space_11: sensefortunelumberalmostpullrangecropdeputycrouchorbitdeny
+bip_39_word_no_space_12: sensefortunelumberalmostpullrangecropdeputycrouchorbitdenyauto
+bip_39_word_no_space_2: sensefortune
+bip_39_word_no_space_3: sensefortunelumber
+bip_39_word_no_space_4: sensefortunelumberalmost
+bip_39_word_no_space_5: sensefortunelumberalmostpull
+bip_39_word_no_space_6: sensefortunelumberalmostpullrange
+bip_39_word_no_space_7: sensefortunelumberalmostpullrangecrop
+bip_39_word_no_space_8: sensefortunelumberalmostpullrangecropdeputy
+bip_39_word_no_space_9: sensefortunelumberalmostpullrangecropdeputycrouch
 bip_39_word_space_0:
 - sense
 - fortune

@@ -122,6 +122,18 @@ use
 always
 vast
 allow |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepbubbleshoptrickpenaltyusealwaysvastallowstuff |  
+| bip_39_word_no_space_11 | sleepbubbleshoptrickpenaltyusealwaysvastallowstuffexecute |  
+| bip_39_word_no_space_12 | sleepbubbleshoptrickpenaltyusealwaysvastallowstuffexecutealbum |  
+| bip_39_word_no_space_2 | sleepbubble |  
+| bip_39_word_no_space_3 | sleepbubbleshop |  
+| bip_39_word_no_space_4 | sleepbubbleshoptrick |  
+| bip_39_word_no_space_5 | sleepbubbleshoptrickpenalty |  
+| bip_39_word_no_space_6 | sleepbubbleshoptrickpenaltyuse |  
+| bip_39_word_no_space_7 | sleepbubbleshoptrickpenaltyusealways |  
+| bip_39_word_no_space_8 | sleepbubbleshoptrickpenaltyusealwaysvast |  
+| bip_39_word_no_space_9 | sleepbubbleshoptrickpenaltyusealwaysvastallow |  
 | bip_39_word_space_0 | ['sleep', 'bubble', 'shop', 'trick', 'penalty', 'use', 'always', 'vast', 'allow', 'stuff', 'execute', 'album'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep bubble shop trick penalty use always vast allow stuff |  

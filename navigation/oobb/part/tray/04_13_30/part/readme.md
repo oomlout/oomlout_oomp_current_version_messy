@@ -122,6 +122,18 @@ reunion
 pumpkin
 insect
 inhale |  
+| bip_39_word_no_space_1 | rotate |  
+| bip_39_word_no_space_10 | rotatepotatorugoystertitlereunionpumpkininsectinhalevoyage |  
+| bip_39_word_no_space_11 | rotatepotatorugoystertitlereunionpumpkininsectinhalevoyagewage |  
+| bip_39_word_no_space_12 | rotatepotatorugoystertitlereunionpumpkininsectinhalevoyagewagealien |  
+| bip_39_word_no_space_2 | rotatepotato |  
+| bip_39_word_no_space_3 | rotatepotatorug |  
+| bip_39_word_no_space_4 | rotatepotatorugoyster |  
+| bip_39_word_no_space_5 | rotatepotatorugoystertitle |  
+| bip_39_word_no_space_6 | rotatepotatorugoystertitlereunion |  
+| bip_39_word_no_space_7 | rotatepotatorugoystertitlereunionpumpkin |  
+| bip_39_word_no_space_8 | rotatepotatorugoystertitlereunionpumpkininsect |  
+| bip_39_word_no_space_9 | rotatepotatorugoystertitlereunionpumpkininsectinhale |  
 | bip_39_word_space_0 | ['rotate', 'potato', 'rug', 'oyster', 'title', 'reunion', 'pumpkin', 'insect', 'inhale', 'voyage', 'wage', 'alien'] |  
 | bip_39_word_space_1 | rotate |  
 | bip_39_word_space_10 | rotate potato rug oyster title reunion pumpkin insect inhale voyage |  

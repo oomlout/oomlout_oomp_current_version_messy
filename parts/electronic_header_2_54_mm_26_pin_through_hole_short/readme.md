@@ -122,6 +122,18 @@ tenant
 chunk
 tell
 core |  
+| bip_39_word_no_space_1 | bubble |  
+| bip_39_word_no_space_10 | bubbleclerkmythtinymonitortenantchunktellcorepatch |  
+| bip_39_word_no_space_11 | bubbleclerkmythtinymonitortenantchunktellcorepatchroast |  
+| bip_39_word_no_space_12 | bubbleclerkmythtinymonitortenantchunktellcorepatchroastassist |  
+| bip_39_word_no_space_2 | bubbleclerk |  
+| bip_39_word_no_space_3 | bubbleclerkmyth |  
+| bip_39_word_no_space_4 | bubbleclerkmythtiny |  
+| bip_39_word_no_space_5 | bubbleclerkmythtinymonitor |  
+| bip_39_word_no_space_6 | bubbleclerkmythtinymonitortenant |  
+| bip_39_word_no_space_7 | bubbleclerkmythtinymonitortenantchunk |  
+| bip_39_word_no_space_8 | bubbleclerkmythtinymonitortenantchunktell |  
+| bip_39_word_no_space_9 | bubbleclerkmythtinymonitortenantchunktellcore |  
 | bip_39_word_space_0 | ['bubble', 'clerk', 'myth', 'tiny', 'monitor', 'tenant', 'chunk', 'tell', 'core', 'patch', 'roast', 'assist'] |  
 | bip_39_word_space_1 | bubble |  
 | bip_39_word_space_10 | bubble clerk myth tiny monitor tenant chunk tell core patch |  

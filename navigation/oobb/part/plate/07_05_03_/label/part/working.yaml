@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'demise
   bar
 
   fever'
+bip_39_word_no_space_1: demise
+bip_39_word_no_space_10: demiseslicefitcapitaldaughtersomeonefacebarfevermobile
+bip_39_word_no_space_11: demiseslicefitcapitaldaughtersomeonefacebarfevermobileradio
+bip_39_word_no_space_12: demiseslicefitcapitaldaughtersomeonefacebarfevermobileradioarmed
+bip_39_word_no_space_2: demiseslice
+bip_39_word_no_space_3: demiseslicefit
+bip_39_word_no_space_4: demiseslicefitcapital
+bip_39_word_no_space_5: demiseslicefitcapitaldaughter
+bip_39_word_no_space_6: demiseslicefitcapitaldaughtersomeone
+bip_39_word_no_space_7: demiseslicefitcapitaldaughtersomeoneface
+bip_39_word_no_space_8: demiseslicefitcapitaldaughtersomeonefacebar
+bip_39_word_no_space_9: demiseslicefitcapitaldaughtersomeonefacebarfever
 bip_39_word_space_0:
 - demise
 - slice

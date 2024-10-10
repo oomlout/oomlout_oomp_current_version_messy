@@ -122,6 +122,18 @@ win
 bridge
 trial
 scrap |  
+| bip_39_word_no_space_1 | cupboard |  
+| bip_39_word_no_space_10 | cupboardsadnessopposevanepisodewinbridgetrialscrapprimary |  
+| bip_39_word_no_space_11 | cupboardsadnessopposevanepisodewinbridgetrialscrapprimaryoppose |  
+| bip_39_word_no_space_12 | cupboardsadnessopposevanepisodewinbridgetrialscrapprimaryopposealready |  
+| bip_39_word_no_space_2 | cupboardsadness |  
+| bip_39_word_no_space_3 | cupboardsadnessoppose |  
+| bip_39_word_no_space_4 | cupboardsadnessopposevan |  
+| bip_39_word_no_space_5 | cupboardsadnessopposevanepisode |  
+| bip_39_word_no_space_6 | cupboardsadnessopposevanepisodewin |  
+| bip_39_word_no_space_7 | cupboardsadnessopposevanepisodewinbridge |  
+| bip_39_word_no_space_8 | cupboardsadnessopposevanepisodewinbridgetrial |  
+| bip_39_word_no_space_9 | cupboardsadnessopposevanepisodewinbridgetrialscrap |  
 | bip_39_word_space_0 | ['cupboard', 'sadness', 'oppose', 'van', 'episode', 'win', 'bridge', 'trial', 'scrap', 'primary', 'oppose', 'already'] |  
 | bip_39_word_space_1 | cupboard |  
 | bip_39_word_space_10 | cupboard sadness oppose van episode win bridge trial scrap primary |  

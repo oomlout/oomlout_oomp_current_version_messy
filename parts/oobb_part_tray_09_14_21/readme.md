@@ -122,6 +122,18 @@ brother
 right
 anchor
 spin |  
+| bip_39_word_no_space_1 | keep |  
+| bip_39_word_no_space_10 | keepdefinefingertheorycorrectbrotherrightanchorspinmansion |  
+| bip_39_word_no_space_11 | keepdefinefingertheorycorrectbrotherrightanchorspinmansionwindow |  
+| bip_39_word_no_space_12 | keepdefinefingertheorycorrectbrotherrightanchorspinmansionwindowable |  
+| bip_39_word_no_space_2 | keepdefine |  
+| bip_39_word_no_space_3 | keepdefinefinger |  
+| bip_39_word_no_space_4 | keepdefinefingertheory |  
+| bip_39_word_no_space_5 | keepdefinefingertheorycorrect |  
+| bip_39_word_no_space_6 | keepdefinefingertheorycorrectbrother |  
+| bip_39_word_no_space_7 | keepdefinefingertheorycorrectbrotherright |  
+| bip_39_word_no_space_8 | keepdefinefingertheorycorrectbrotherrightanchor |  
+| bip_39_word_no_space_9 | keepdefinefingertheorycorrectbrotherrightanchorspin |  
 | bip_39_word_space_0 | ['keep', 'define', 'finger', 'theory', 'correct', 'brother', 'right', 'anchor', 'spin', 'mansion', 'window', 'able'] |  
 | bip_39_word_space_1 | keep |  
 | bip_39_word_space_10 | keep define finger theory correct brother right anchor spin mansion |  

@@ -122,6 +122,18 @@ river
 swap
 satoshi
 wasp |  
+| bip_39_word_no_space_1 | capable |  
+| bip_39_word_no_space_10 | capablebalanceadvanceallowveryriverswapsatoshiwaspearn |  
+| bip_39_word_no_space_11 | capablebalanceadvanceallowveryriverswapsatoshiwaspearnroad |  
+| bip_39_word_no_space_12 | capablebalanceadvanceallowveryriverswapsatoshiwaspearnroadalcohol |  
+| bip_39_word_no_space_2 | capablebalance |  
+| bip_39_word_no_space_3 | capablebalanceadvance |  
+| bip_39_word_no_space_4 | capablebalanceadvanceallow |  
+| bip_39_word_no_space_5 | capablebalanceadvanceallowvery |  
+| bip_39_word_no_space_6 | capablebalanceadvanceallowveryriver |  
+| bip_39_word_no_space_7 | capablebalanceadvanceallowveryriverswap |  
+| bip_39_word_no_space_8 | capablebalanceadvanceallowveryriverswapsatoshi |  
+| bip_39_word_no_space_9 | capablebalanceadvanceallowveryriverswapsatoshiwasp |  
 | bip_39_word_space_0 | ['capable', 'balance', 'advance', 'allow', 'very', 'river', 'swap', 'satoshi', 'wasp', 'earn', 'road', 'alcohol'] |  
 | bip_39_word_space_1 | capable |  
 | bip_39_word_space_10 | capable balance advance allow very river swap satoshi wasp earn |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'neglect
   glow
 
   sting'
+bip_39_word_no_space_1: neglect
+bip_39_word_no_space_10: neglecthenlaboralerttraincolumnstayglowstingstay
+bip_39_word_no_space_11: neglecthenlaboralerttraincolumnstayglowstingstaywish
+bip_39_word_no_space_12: neglecthenlaboralerttraincolumnstayglowstingstaywishalbum
+bip_39_word_no_space_2: neglecthen
+bip_39_word_no_space_3: neglecthenlabor
+bip_39_word_no_space_4: neglecthenlaboralert
+bip_39_word_no_space_5: neglecthenlaboralerttrain
+bip_39_word_no_space_6: neglecthenlaboralerttraincolumn
+bip_39_word_no_space_7: neglecthenlaboralerttraincolumnstay
+bip_39_word_no_space_8: neglecthenlaboralerttraincolumnstayglow
+bip_39_word_no_space_9: neglecthenlaboralerttraincolumnstayglowsting
 bip_39_word_space_0:
 - neglect
 - hen

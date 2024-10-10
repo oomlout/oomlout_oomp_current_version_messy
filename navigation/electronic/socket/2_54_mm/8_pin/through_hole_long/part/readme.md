@@ -122,6 +122,18 @@ hidden
 swamp
 ladder
 kitchen |  
+| bip_39_word_no_space_1 | actor |  
+| bip_39_word_no_space_10 | actorassistjokepraisedividehiddenswampladderkitchenidle |  
+| bip_39_word_no_space_11 | actorassistjokepraisedividehiddenswampladderkitchenidlesweet |  
+| bip_39_word_no_space_12 | actorassistjokepraisedividehiddenswampladderkitchenidlesweetabstract |  
+| bip_39_word_no_space_2 | actorassist |  
+| bip_39_word_no_space_3 | actorassistjoke |  
+| bip_39_word_no_space_4 | actorassistjokepraise |  
+| bip_39_word_no_space_5 | actorassistjokepraisedivide |  
+| bip_39_word_no_space_6 | actorassistjokepraisedividehidden |  
+| bip_39_word_no_space_7 | actorassistjokepraisedividehiddenswamp |  
+| bip_39_word_no_space_8 | actorassistjokepraisedividehiddenswampladder |  
+| bip_39_word_no_space_9 | actorassistjokepraisedividehiddenswampladderkitchen |  
 | bip_39_word_space_0 | ['actor', 'assist', 'joke', 'praise', 'divide', 'hidden', 'swamp', 'ladder', 'kitchen', 'idle', 'sweet', 'abstract'] |  
 | bip_39_word_space_1 | actor |  
 | bip_39_word_space_10 | actor assist joke praise divide hidden swamp ladder kitchen idle |  

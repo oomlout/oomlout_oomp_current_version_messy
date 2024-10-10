@@ -122,6 +122,18 @@ armor
 gallery
 very
 team |  
+| bip_39_word_no_space_1 | emerge |  
+| bip_39_word_no_space_10 | emergecakeattendnoodlebusarmorgalleryveryteamcorn |  
+| bip_39_word_no_space_11 | emergecakeattendnoodlebusarmorgalleryveryteamcornlittle |  
+| bip_39_word_no_space_12 | emergecakeattendnoodlebusarmorgalleryveryteamcornlittleanswer |  
+| bip_39_word_no_space_2 | emergecake |  
+| bip_39_word_no_space_3 | emergecakeattend |  
+| bip_39_word_no_space_4 | emergecakeattendnoodle |  
+| bip_39_word_no_space_5 | emergecakeattendnoodlebus |  
+| bip_39_word_no_space_6 | emergecakeattendnoodlebusarmor |  
+| bip_39_word_no_space_7 | emergecakeattendnoodlebusarmorgallery |  
+| bip_39_word_no_space_8 | emergecakeattendnoodlebusarmorgalleryvery |  
+| bip_39_word_no_space_9 | emergecakeattendnoodlebusarmorgalleryveryteam |  
 | bip_39_word_space_0 | ['emerge', 'cake', 'attend', 'noodle', 'bus', 'armor', 'gallery', 'very', 'team', 'corn', 'little', 'answer'] |  
 | bip_39_word_space_1 | emerge |  
 | bip_39_word_space_10 | emerge cake attend noodle bus armor gallery very team corn |  

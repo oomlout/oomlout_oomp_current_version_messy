@@ -122,6 +122,18 @@ glory
 skin
 system
 illegal |  
+| bip_39_word_no_space_1 | achieve |  
+| bip_39_word_no_space_10 | achievelicensecardneedsourcegloryskinsystemillegalcelery |  
+| bip_39_word_no_space_11 | achievelicensecardneedsourcegloryskinsystemillegalceleryrobot |  
+| bip_39_word_no_space_12 | achievelicensecardneedsourcegloryskinsystemillegalceleryrobotalien |  
+| bip_39_word_no_space_2 | achievelicense |  
+| bip_39_word_no_space_3 | achievelicensecard |  
+| bip_39_word_no_space_4 | achievelicensecardneed |  
+| bip_39_word_no_space_5 | achievelicensecardneedsource |  
+| bip_39_word_no_space_6 | achievelicensecardneedsourceglory |  
+| bip_39_word_no_space_7 | achievelicensecardneedsourcegloryskin |  
+| bip_39_word_no_space_8 | achievelicensecardneedsourcegloryskinsystem |  
+| bip_39_word_no_space_9 | achievelicensecardneedsourcegloryskinsystemillegal |  
 | bip_39_word_space_0 | ['achieve', 'license', 'card', 'need', 'source', 'glory', 'skin', 'system', 'illegal', 'celery', 'robot', 'alien'] |  
 | bip_39_word_space_1 | achieve |  
 | bip_39_word_space_10 | achieve license card need source glory skin system illegal celery |  

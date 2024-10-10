@@ -122,6 +122,18 @@ soul
 gloom
 symbol
 vacant |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltimpulsechoosestonelumbersoulgloomsymbolvacantmerge |  
+| bip_39_word_no_space_11 | beltimpulsechoosestonelumbersoulgloomsymbolvacantmergesibling |  
+| bip_39_word_no_space_12 | beltimpulsechoosestonelumbersoulgloomsymbolvacantmergesiblingarrange |  
+| bip_39_word_no_space_2 | beltimpulse |  
+| bip_39_word_no_space_3 | beltimpulsechoose |  
+| bip_39_word_no_space_4 | beltimpulsechoosestone |  
+| bip_39_word_no_space_5 | beltimpulsechoosestonelumber |  
+| bip_39_word_no_space_6 | beltimpulsechoosestonelumbersoul |  
+| bip_39_word_no_space_7 | beltimpulsechoosestonelumbersoulgloom |  
+| bip_39_word_no_space_8 | beltimpulsechoosestonelumbersoulgloomsymbol |  
+| bip_39_word_no_space_9 | beltimpulsechoosestonelumbersoulgloomsymbolvacant |  
 | bip_39_word_space_0 | ['belt', 'impulse', 'choose', 'stone', 'lumber', 'soul', 'gloom', 'symbol', 'vacant', 'merge', 'sibling', 'arrange'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt impulse choose stone lumber soul gloom symbol vacant merge |  

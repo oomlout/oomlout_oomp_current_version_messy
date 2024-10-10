@@ -122,6 +122,18 @@ ketchup
 remember
 error
 idea |  
+| bip_39_word_no_space_1 | budget |  
+| bip_39_word_no_space_10 | budgetworlddaringdepartgazeketchupremembererrorideademand |  
+| bip_39_word_no_space_11 | budgetworlddaringdepartgazeketchupremembererrorideademandinvite |  
+| bip_39_word_no_space_12 | budgetworlddaringdepartgazeketchupremembererrorideademandinviteabsent |  
+| bip_39_word_no_space_2 | budgetworld |  
+| bip_39_word_no_space_3 | budgetworlddaring |  
+| bip_39_word_no_space_4 | budgetworlddaringdepart |  
+| bip_39_word_no_space_5 | budgetworlddaringdepartgaze |  
+| bip_39_word_no_space_6 | budgetworlddaringdepartgazeketchup |  
+| bip_39_word_no_space_7 | budgetworlddaringdepartgazeketchupremember |  
+| bip_39_word_no_space_8 | budgetworlddaringdepartgazeketchupremembererror |  
+| bip_39_word_no_space_9 | budgetworlddaringdepartgazeketchupremembererroridea |  
 | bip_39_word_space_0 | ['budget', 'world', 'daring', 'depart', 'gaze', 'ketchup', 'remember', 'error', 'idea', 'demand', 'invite', 'absent'] |  
 | bip_39_word_space_1 | budget |  
 | bip_39_word_space_10 | budget world daring depart gaze ketchup remember error idea demand |  

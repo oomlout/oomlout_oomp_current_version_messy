@@ -122,6 +122,18 @@ situate
 ten
 wreck
 antique |  
+| bip_39_word_no_space_1 | fix |  
+| bip_39_word_no_space_10 | fixswiftmethodrebeloystersituatetenwreckantiqueswallow |  
+| bip_39_word_no_space_11 | fixswiftmethodrebeloystersituatetenwreckantiqueswallowjob |  
+| bip_39_word_no_space_12 | fixswiftmethodrebeloystersituatetenwreckantiqueswallowjobabsurd |  
+| bip_39_word_no_space_2 | fixswift |  
+| bip_39_word_no_space_3 | fixswiftmethod |  
+| bip_39_word_no_space_4 | fixswiftmethodrebel |  
+| bip_39_word_no_space_5 | fixswiftmethodrebeloyster |  
+| bip_39_word_no_space_6 | fixswiftmethodrebeloystersituate |  
+| bip_39_word_no_space_7 | fixswiftmethodrebeloystersituateten |  
+| bip_39_word_no_space_8 | fixswiftmethodrebeloystersituatetenwreck |  
+| bip_39_word_no_space_9 | fixswiftmethodrebeloystersituatetenwreckantique |  
 | bip_39_word_space_0 | ['fix', 'swift', 'method', 'rebel', 'oyster', 'situate', 'ten', 'wreck', 'antique', 'swallow', 'job', 'absurd'] |  
 | bip_39_word_space_1 | fix |  
 | bip_39_word_space_10 | fix swift method rebel oyster situate ten wreck antique swallow |  

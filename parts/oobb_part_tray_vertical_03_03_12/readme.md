@@ -122,6 +122,18 @@ coil
 fragile
 moment
 route |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalquantumhalflyricsrealcoilfragilemomentroutetorch |  
+| bip_39_word_no_space_11 | federalquantumhalflyricsrealcoilfragilemomentroutetorchlibrary |  
+| bip_39_word_no_space_12 | federalquantumhalflyricsrealcoilfragilemomentroutetorchlibraryall |  
+| bip_39_word_no_space_2 | federalquantum |  
+| bip_39_word_no_space_3 | federalquantumhalf |  
+| bip_39_word_no_space_4 | federalquantumhalflyrics |  
+| bip_39_word_no_space_5 | federalquantumhalflyricsreal |  
+| bip_39_word_no_space_6 | federalquantumhalflyricsrealcoil |  
+| bip_39_word_no_space_7 | federalquantumhalflyricsrealcoilfragile |  
+| bip_39_word_no_space_8 | federalquantumhalflyricsrealcoilfragilemoment |  
+| bip_39_word_no_space_9 | federalquantumhalflyricsrealcoilfragilemomentroute |  
 | bip_39_word_space_0 | ['federal', 'quantum', 'half', 'lyrics', 'real', 'coil', 'fragile', 'moment', 'route', 'torch', 'library', 'all'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal quantum half lyrics real coil fragile moment route torch |  

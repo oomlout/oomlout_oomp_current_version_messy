@@ -122,6 +122,18 @@ script
 skull
 gospel
 happy |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naiveblousecouchenactimpulsescriptskullgospelhappyplunge |  
+| bip_39_word_no_space_11 | naiveblousecouchenactimpulsescriptskullgospelhappyplungemotor |  
+| bip_39_word_no_space_12 | naiveblousecouchenactimpulsescriptskullgospelhappyplungemotorannounce |  
+| bip_39_word_no_space_2 | naiveblouse |  
+| bip_39_word_no_space_3 | naiveblousecouch |  
+| bip_39_word_no_space_4 | naiveblousecouchenact |  
+| bip_39_word_no_space_5 | naiveblousecouchenactimpulse |  
+| bip_39_word_no_space_6 | naiveblousecouchenactimpulsescript |  
+| bip_39_word_no_space_7 | naiveblousecouchenactimpulsescriptskull |  
+| bip_39_word_no_space_8 | naiveblousecouchenactimpulsescriptskullgospel |  
+| bip_39_word_no_space_9 | naiveblousecouchenactimpulsescriptskullgospelhappy |  
 | bip_39_word_space_0 | ['naive', 'blouse', 'couch', 'enact', 'impulse', 'script', 'skull', 'gospel', 'happy', 'plunge', 'motor', 'announce'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive blouse couch enact impulse script skull gospel happy plunge |  

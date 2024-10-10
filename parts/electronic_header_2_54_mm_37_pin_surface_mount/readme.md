@@ -122,6 +122,18 @@ spatial
 digital
 ahead
 high |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinnightheightaddvictoryspatialdigitalaheadhightumble |  
+| bip_39_word_no_space_11 | dolphinnightheightaddvictoryspatialdigitalaheadhightumbleoff |  
+| bip_39_word_no_space_12 | dolphinnightheightaddvictoryspatialdigitalaheadhightumbleoffalter |  
+| bip_39_word_no_space_2 | dolphinnight |  
+| bip_39_word_no_space_3 | dolphinnightheight |  
+| bip_39_word_no_space_4 | dolphinnightheightadd |  
+| bip_39_word_no_space_5 | dolphinnightheightaddvictory |  
+| bip_39_word_no_space_6 | dolphinnightheightaddvictoryspatial |  
+| bip_39_word_no_space_7 | dolphinnightheightaddvictoryspatialdigital |  
+| bip_39_word_no_space_8 | dolphinnightheightaddvictoryspatialdigitalahead |  
+| bip_39_word_no_space_9 | dolphinnightheightaddvictoryspatialdigitalaheadhigh |  
 | bip_39_word_space_0 | ['dolphin', 'night', 'height', 'add', 'victory', 'spatial', 'digital', 'ahead', 'high', 'tumble', 'off', 'alter'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin night height add victory spatial digital ahead high tumble |  

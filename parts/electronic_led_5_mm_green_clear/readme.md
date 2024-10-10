@@ -122,6 +122,18 @@ deny
 junior
 village
 army |  
+| bip_39_word_no_space_1 | liberty |  
+| bip_39_word_no_space_10 | libertyseainhalestonebuyerdenyjuniorvillagearmytaxi |  
+| bip_39_word_no_space_11 | libertyseainhalestonebuyerdenyjuniorvillagearmytaxipepper |  
+| bip_39_word_no_space_12 | libertyseainhalestonebuyerdenyjuniorvillagearmytaxipepperaccess |  
+| bip_39_word_no_space_2 | libertysea |  
+| bip_39_word_no_space_3 | libertyseainhale |  
+| bip_39_word_no_space_4 | libertyseainhalestone |  
+| bip_39_word_no_space_5 | libertyseainhalestonebuyer |  
+| bip_39_word_no_space_6 | libertyseainhalestonebuyerdeny |  
+| bip_39_word_no_space_7 | libertyseainhalestonebuyerdenyjunior |  
+| bip_39_word_no_space_8 | libertyseainhalestonebuyerdenyjuniorvillage |  
+| bip_39_word_no_space_9 | libertyseainhalestonebuyerdenyjuniorvillagearmy |  
 | bip_39_word_space_0 | ['liberty', 'sea', 'inhale', 'stone', 'buyer', 'deny', 'junior', 'village', 'army', 'taxi', 'pepper', 'access'] |  
 | bip_39_word_space_1 | liberty |  
 | bip_39_word_space_10 | liberty sea inhale stone buyer deny junior village army taxi |  

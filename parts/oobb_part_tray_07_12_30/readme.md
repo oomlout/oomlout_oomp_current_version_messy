@@ -122,6 +122,18 @@ artist
 desert
 try
 genius |  
+| bip_39_word_no_space_1 | spy |  
+| bip_39_word_no_space_10 | spyreducereunionlaptopawareartistdeserttrygeniustarget |  
+| bip_39_word_no_space_11 | spyreducereunionlaptopawareartistdeserttrygeniustargetmember |  
+| bip_39_word_no_space_12 | spyreducereunionlaptopawareartistdeserttrygeniustargetmemberabuse |  
+| bip_39_word_no_space_2 | spyreduce |  
+| bip_39_word_no_space_3 | spyreducereunion |  
+| bip_39_word_no_space_4 | spyreducereunionlaptop |  
+| bip_39_word_no_space_5 | spyreducereunionlaptopaware |  
+| bip_39_word_no_space_6 | spyreducereunionlaptopawareartist |  
+| bip_39_word_no_space_7 | spyreducereunionlaptopawareartistdesert |  
+| bip_39_word_no_space_8 | spyreducereunionlaptopawareartistdeserttry |  
+| bip_39_word_no_space_9 | spyreducereunionlaptopawareartistdeserttrygenius |  
 | bip_39_word_space_0 | ['spy', 'reduce', 'reunion', 'laptop', 'aware', 'artist', 'desert', 'try', 'genius', 'target', 'member', 'abuse'] |  
 | bip_39_word_space_1 | spy |  
 | bip_39_word_space_10 | spy reduce reunion laptop aware artist desert try genius target |  

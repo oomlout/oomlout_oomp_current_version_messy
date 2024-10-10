@@ -122,6 +122,18 @@ laundry
 original
 where
 harbor |  
+| bip_39_word_no_space_1 | hunt |  
+| bip_39_word_no_space_10 | huntdegreenoseaboutexcitelaundryoriginalwhereharbormaximum |  
+| bip_39_word_no_space_11 | huntdegreenoseaboutexcitelaundryoriginalwhereharbormaximumstyle |  
+| bip_39_word_no_space_12 | huntdegreenoseaboutexcitelaundryoriginalwhereharbormaximumstyleasthma |  
+| bip_39_word_no_space_2 | huntdegree |  
+| bip_39_word_no_space_3 | huntdegreenose |  
+| bip_39_word_no_space_4 | huntdegreenoseabout |  
+| bip_39_word_no_space_5 | huntdegreenoseaboutexcite |  
+| bip_39_word_no_space_6 | huntdegreenoseaboutexcitelaundry |  
+| bip_39_word_no_space_7 | huntdegreenoseaboutexcitelaundryoriginal |  
+| bip_39_word_no_space_8 | huntdegreenoseaboutexcitelaundryoriginalwhere |  
+| bip_39_word_no_space_9 | huntdegreenoseaboutexcitelaundryoriginalwhereharbor |  
 | bip_39_word_space_0 | ['hunt', 'degree', 'nose', 'about', 'excite', 'laundry', 'original', 'where', 'harbor', 'maximum', 'style', 'asthma'] |  
 | bip_39_word_space_1 | hunt |  
 | bip_39_word_space_10 | hunt degree nose about excite laundry original where harbor maximum |  

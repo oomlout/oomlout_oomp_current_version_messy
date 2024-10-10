@@ -122,6 +122,18 @@ history
 early
 crack
 fresh |  
+| bip_39_word_no_space_1 | flower |  
+| bip_39_word_no_space_10 | flowermiserysiblingballmonsterhistoryearlycrackfreshgoose |  
+| bip_39_word_no_space_11 | flowermiserysiblingballmonsterhistoryearlycrackfreshgoosecage |  
+| bip_39_word_no_space_12 | flowermiserysiblingballmonsterhistoryearlycrackfreshgoosecageabuse |  
+| bip_39_word_no_space_2 | flowermisery |  
+| bip_39_word_no_space_3 | flowermiserysibling |  
+| bip_39_word_no_space_4 | flowermiserysiblingball |  
+| bip_39_word_no_space_5 | flowermiserysiblingballmonster |  
+| bip_39_word_no_space_6 | flowermiserysiblingballmonsterhistory |  
+| bip_39_word_no_space_7 | flowermiserysiblingballmonsterhistoryearly |  
+| bip_39_word_no_space_8 | flowermiserysiblingballmonsterhistoryearlycrack |  
+| bip_39_word_no_space_9 | flowermiserysiblingballmonsterhistoryearlycrackfresh |  
 | bip_39_word_space_0 | ['flower', 'misery', 'sibling', 'ball', 'monster', 'history', 'early', 'crack', 'fresh', 'goose', 'cage', 'abuse'] |  
 | bip_39_word_space_1 | flower |  
 | bip_39_word_space_10 | flower misery sibling ball monster history early crack fresh goose |  

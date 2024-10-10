@@ -122,6 +122,18 @@ clever
 all
 cattle
 cram |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companywonderbidstrikedirectcleverallcattlecrammember |  
+| bip_39_word_no_space_11 | companywonderbidstrikedirectcleverallcattlecrammembershed |  
+| bip_39_word_no_space_12 | companywonderbidstrikedirectcleverallcattlecrammembershedamateur |  
+| bip_39_word_no_space_2 | companywonder |  
+| bip_39_word_no_space_3 | companywonderbid |  
+| bip_39_word_no_space_4 | companywonderbidstrike |  
+| bip_39_word_no_space_5 | companywonderbidstrikedirect |  
+| bip_39_word_no_space_6 | companywonderbidstrikedirectclever |  
+| bip_39_word_no_space_7 | companywonderbidstrikedirectcleverall |  
+| bip_39_word_no_space_8 | companywonderbidstrikedirectcleverallcattle |  
+| bip_39_word_no_space_9 | companywonderbidstrikedirectcleverallcattlecram |  
 | bip_39_word_space_0 | ['company', 'wonder', 'bid', 'strike', 'direct', 'clever', 'all', 'cattle', 'cram', 'member', 'shed', 'amateur'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company wonder bid strike direct clever all cattle cram member |  

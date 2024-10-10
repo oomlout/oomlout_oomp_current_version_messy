@@ -122,6 +122,18 @@ silent
 room
 never
 blade |  
+| bip_39_word_no_space_1 | gentle |  
+| bip_39_word_no_space_10 | gentlemidnightwayvariousindexsilentroomneverbladestill |  
+| bip_39_word_no_space_11 | gentlemidnightwayvariousindexsilentroomneverbladestillload |  
+| bip_39_word_no_space_12 | gentlemidnightwayvariousindexsilentroomneverbladestillloadathlete |  
+| bip_39_word_no_space_2 | gentlemidnight |  
+| bip_39_word_no_space_3 | gentlemidnightway |  
+| bip_39_word_no_space_4 | gentlemidnightwayvarious |  
+| bip_39_word_no_space_5 | gentlemidnightwayvariousindex |  
+| bip_39_word_no_space_6 | gentlemidnightwayvariousindexsilent |  
+| bip_39_word_no_space_7 | gentlemidnightwayvariousindexsilentroom |  
+| bip_39_word_no_space_8 | gentlemidnightwayvariousindexsilentroomnever |  
+| bip_39_word_no_space_9 | gentlemidnightwayvariousindexsilentroomneverblade |  
 | bip_39_word_space_0 | ['gentle', 'midnight', 'way', 'various', 'index', 'silent', 'room', 'never', 'blade', 'still', 'load', 'athlete'] |  
 | bip_39_word_space_1 | gentle |  
 | bip_39_word_space_10 | gentle midnight way various index silent room never blade still |  

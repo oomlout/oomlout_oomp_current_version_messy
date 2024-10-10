@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'disease
   property
 
   syrup'
+bip_39_word_no_space_1: disease
+bip_39_word_no_space_10: diseasewinturnbannerdryprogramspringpropertysyrupauction
+bip_39_word_no_space_11: diseasewinturnbannerdryprogramspringpropertysyrupauctionawful
+bip_39_word_no_space_12: diseasewinturnbannerdryprogramspringpropertysyrupauctionawfulancient
+bip_39_word_no_space_2: diseasewin
+bip_39_word_no_space_3: diseasewinturn
+bip_39_word_no_space_4: diseasewinturnbanner
+bip_39_word_no_space_5: diseasewinturnbannerdry
+bip_39_word_no_space_6: diseasewinturnbannerdryprogram
+bip_39_word_no_space_7: diseasewinturnbannerdryprogramspring
+bip_39_word_no_space_8: diseasewinturnbannerdryprogramspringproperty
+bip_39_word_no_space_9: diseasewinturnbannerdryprogramspringpropertysyrup
 bip_39_word_space_0:
 - disease
 - win

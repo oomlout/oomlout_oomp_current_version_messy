@@ -122,6 +122,18 @@ pull
 artist
 easy
 layer |  
+| bip_39_word_no_space_1 | dose |  
+| bip_39_word_no_space_10 | doseanimalcheapmarinelavapullartisteasylayercup |  
+| bip_39_word_no_space_11 | doseanimalcheapmarinelavapullartisteasylayercuptongue |  
+| bip_39_word_no_space_12 | doseanimalcheapmarinelavapullartisteasylayercuptonguearrange |  
+| bip_39_word_no_space_2 | doseanimal |  
+| bip_39_word_no_space_3 | doseanimalcheap |  
+| bip_39_word_no_space_4 | doseanimalcheapmarine |  
+| bip_39_word_no_space_5 | doseanimalcheapmarinelava |  
+| bip_39_word_no_space_6 | doseanimalcheapmarinelavapull |  
+| bip_39_word_no_space_7 | doseanimalcheapmarinelavapullartist |  
+| bip_39_word_no_space_8 | doseanimalcheapmarinelavapullartisteasy |  
+| bip_39_word_no_space_9 | doseanimalcheapmarinelavapullartisteasylayer |  
 | bip_39_word_space_0 | ['dose', 'animal', 'cheap', 'marine', 'lava', 'pull', 'artist', 'easy', 'layer', 'cup', 'tongue', 'arrange'] |  
 | bip_39_word_space_1 | dose |  
 | bip_39_word_space_10 | dose animal cheap marine lava pull artist easy layer cup |  

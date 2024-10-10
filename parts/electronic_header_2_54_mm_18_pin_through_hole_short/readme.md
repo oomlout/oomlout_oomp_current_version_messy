@@ -122,6 +122,18 @@ aerobic
 sense
 trade
 solution |  
+| bip_39_word_no_space_1 | endorse |  
+| bip_39_word_no_space_10 | endorsesevenmoonwildlegendaerobicsensetradesolutioncoil |  
+| bip_39_word_no_space_11 | endorsesevenmoonwildlegendaerobicsensetradesolutioncoilsession |  
+| bip_39_word_no_space_12 | endorsesevenmoonwildlegendaerobicsensetradesolutioncoilsessionaspect |  
+| bip_39_word_no_space_2 | endorseseven |  
+| bip_39_word_no_space_3 | endorsesevenmoon |  
+| bip_39_word_no_space_4 | endorsesevenmoonwild |  
+| bip_39_word_no_space_5 | endorsesevenmoonwildlegend |  
+| bip_39_word_no_space_6 | endorsesevenmoonwildlegendaerobic |  
+| bip_39_word_no_space_7 | endorsesevenmoonwildlegendaerobicsense |  
+| bip_39_word_no_space_8 | endorsesevenmoonwildlegendaerobicsensetrade |  
+| bip_39_word_no_space_9 | endorsesevenmoonwildlegendaerobicsensetradesolution |  
 | bip_39_word_space_0 | ['endorse', 'seven', 'moon', 'wild', 'legend', 'aerobic', 'sense', 'trade', 'solution', 'coil', 'session', 'aspect'] |  
 | bip_39_word_space_1 | endorse |  
 | bip_39_word_space_10 | endorse seven moon wild legend aerobic sense trade solution coil |  

@@ -122,6 +122,18 @@ inherit
 broom
 kid
 sorry |  
+| bip_39_word_no_space_1 | pig |  
+| bip_39_word_no_space_10 | pighurtpathtubebelowinheritbroomkidsorryapart |  
+| bip_39_word_no_space_11 | pighurtpathtubebelowinheritbroomkidsorryapartnever |  
+| bip_39_word_no_space_12 | pighurtpathtubebelowinheritbroomkidsorryapartneverable |  
+| bip_39_word_no_space_2 | pighurt |  
+| bip_39_word_no_space_3 | pighurtpath |  
+| bip_39_word_no_space_4 | pighurtpathtube |  
+| bip_39_word_no_space_5 | pighurtpathtubebelow |  
+| bip_39_word_no_space_6 | pighurtpathtubebelowinherit |  
+| bip_39_word_no_space_7 | pighurtpathtubebelowinheritbroom |  
+| bip_39_word_no_space_8 | pighurtpathtubebelowinheritbroomkid |  
+| bip_39_word_no_space_9 | pighurtpathtubebelowinheritbroomkidsorry |  
 | bip_39_word_space_0 | ['pig', 'hurt', 'path', 'tube', 'below', 'inherit', 'broom', 'kid', 'sorry', 'apart', 'never', 'able'] |  
 | bip_39_word_space_1 | pig |  
 | bip_39_word_space_10 | pig hurt path tube below inherit broom kid sorry apart |  

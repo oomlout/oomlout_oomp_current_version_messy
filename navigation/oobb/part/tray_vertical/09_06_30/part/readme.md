@@ -122,6 +122,18 @@ relax
 salute
 ramp
 dolphin |  
+| bip_39_word_no_space_1 | pull |  
+| bip_39_word_no_space_10 | pullentryswitchcombineoptionrelaxsaluterampdolphinmass |  
+| bip_39_word_no_space_11 | pullentryswitchcombineoptionrelaxsaluterampdolphinmassclinic |  
+| bip_39_word_no_space_12 | pullentryswitchcombineoptionrelaxsaluterampdolphinmassclinicartefact |  
+| bip_39_word_no_space_2 | pullentry |  
+| bip_39_word_no_space_3 | pullentryswitch |  
+| bip_39_word_no_space_4 | pullentryswitchcombine |  
+| bip_39_word_no_space_5 | pullentryswitchcombineoption |  
+| bip_39_word_no_space_6 | pullentryswitchcombineoptionrelax |  
+| bip_39_word_no_space_7 | pullentryswitchcombineoptionrelaxsalute |  
+| bip_39_word_no_space_8 | pullentryswitchcombineoptionrelaxsaluteramp |  
+| bip_39_word_no_space_9 | pullentryswitchcombineoptionrelaxsaluterampdolphin |  
 | bip_39_word_space_0 | ['pull', 'entry', 'switch', 'combine', 'option', 'relax', 'salute', 'ramp', 'dolphin', 'mass', 'clinic', 'artefact'] |  
 | bip_39_word_space_1 | pull |  
 | bip_39_word_space_10 | pull entry switch combine option relax salute ramp dolphin mass |  

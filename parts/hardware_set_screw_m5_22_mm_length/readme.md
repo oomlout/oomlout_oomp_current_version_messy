@@ -122,6 +122,18 @@ park
 attitude
 young
 vintage |  
+| bip_39_word_no_space_1 | sound |  
+| bip_39_word_no_space_10 | soundcolumnovalcatchgiftparkattitudeyoungvintageclip |  
+| bip_39_word_no_space_11 | soundcolumnovalcatchgiftparkattitudeyoungvintageclipsail |  
+| bip_39_word_no_space_12 | soundcolumnovalcatchgiftparkattitudeyoungvintageclipsailamount |  
+| bip_39_word_no_space_2 | soundcolumn |  
+| bip_39_word_no_space_3 | soundcolumnoval |  
+| bip_39_word_no_space_4 | soundcolumnovalcatch |  
+| bip_39_word_no_space_5 | soundcolumnovalcatchgift |  
+| bip_39_word_no_space_6 | soundcolumnovalcatchgiftpark |  
+| bip_39_word_no_space_7 | soundcolumnovalcatchgiftparkattitude |  
+| bip_39_word_no_space_8 | soundcolumnovalcatchgiftparkattitudeyoung |  
+| bip_39_word_no_space_9 | soundcolumnovalcatchgiftparkattitudeyoungvintage |  
 | bip_39_word_space_0 | ['sound', 'column', 'oval', 'catch', 'gift', 'park', 'attitude', 'young', 'vintage', 'clip', 'sail', 'amount'] |  
 | bip_39_word_space_1 | sound |  
 | bip_39_word_space_10 | sound column oval catch gift park attitude young vintage clip |  

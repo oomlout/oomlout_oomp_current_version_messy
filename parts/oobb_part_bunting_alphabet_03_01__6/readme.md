@@ -122,6 +122,18 @@ brief
 waste
 patrol
 ecology |  
+| bip_39_word_no_space_1 | inspire |  
+| bip_39_word_no_space_10 | inspirelayerrhythmerodemonthbriefwastepatrolecologyfrown |  
+| bip_39_word_no_space_11 | inspirelayerrhythmerodemonthbriefwastepatrolecologyfrownenjoy |  
+| bip_39_word_no_space_12 | inspirelayerrhythmerodemonthbriefwastepatrolecologyfrownenjoyamount |  
+| bip_39_word_no_space_2 | inspirelayer |  
+| bip_39_word_no_space_3 | inspirelayerrhythm |  
+| bip_39_word_no_space_4 | inspirelayerrhythmerode |  
+| bip_39_word_no_space_5 | inspirelayerrhythmerodemonth |  
+| bip_39_word_no_space_6 | inspirelayerrhythmerodemonthbrief |  
+| bip_39_word_no_space_7 | inspirelayerrhythmerodemonthbriefwaste |  
+| bip_39_word_no_space_8 | inspirelayerrhythmerodemonthbriefwastepatrol |  
+| bip_39_word_no_space_9 | inspirelayerrhythmerodemonthbriefwastepatrolecology |  
 | bip_39_word_space_0 | ['inspire', 'layer', 'rhythm', 'erode', 'month', 'brief', 'waste', 'patrol', 'ecology', 'frown', 'enjoy', 'amount'] |  
 | bip_39_word_space_1 | inspire |  
 | bip_39_word_space_10 | inspire layer rhythm erode month brief waste patrol ecology frown |  

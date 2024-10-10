@@ -122,6 +122,18 @@ royal
 suspect
 steak
 town |  
+| bip_39_word_no_space_1 | clean |  
+| bip_39_word_no_space_10 | cleanemotionloveassethelmetroyalsuspectsteaktowncall |  
+| bip_39_word_no_space_11 | cleanemotionloveassethelmetroyalsuspectsteaktowncallsuggest |  
+| bip_39_word_no_space_12 | cleanemotionloveassethelmetroyalsuspectsteaktowncallsuggestankle |  
+| bip_39_word_no_space_2 | cleanemotion |  
+| bip_39_word_no_space_3 | cleanemotionlove |  
+| bip_39_word_no_space_4 | cleanemotionloveasset |  
+| bip_39_word_no_space_5 | cleanemotionloveassethelmet |  
+| bip_39_word_no_space_6 | cleanemotionloveassethelmetroyal |  
+| bip_39_word_no_space_7 | cleanemotionloveassethelmetroyalsuspect |  
+| bip_39_word_no_space_8 | cleanemotionloveassethelmetroyalsuspectsteak |  
+| bip_39_word_no_space_9 | cleanemotionloveassethelmetroyalsuspectsteaktown |  
 | bip_39_word_space_0 | ['clean', 'emotion', 'love', 'asset', 'helmet', 'royal', 'suspect', 'steak', 'town', 'call', 'suggest', 'ankle'] |  
 | bip_39_word_space_1 | clean |  
 | bip_39_word_space_10 | clean emotion love asset helmet royal suspect steak town call |  

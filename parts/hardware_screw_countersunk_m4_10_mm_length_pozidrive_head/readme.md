@@ -122,6 +122,18 @@ empty
 fortune
 toe
 remind |  
+| bip_39_word_no_space_1 | zone |  
+| bip_39_word_no_space_10 | zonesillysituatemythbrainemptyfortunetoeremindglance |  
+| bip_39_word_no_space_11 | zonesillysituatemythbrainemptyfortunetoeremindglancecrouch |  
+| bip_39_word_no_space_12 | zonesillysituatemythbrainemptyfortunetoeremindglancecrouchabsurd |  
+| bip_39_word_no_space_2 | zonesilly |  
+| bip_39_word_no_space_3 | zonesillysituate |  
+| bip_39_word_no_space_4 | zonesillysituatemyth |  
+| bip_39_word_no_space_5 | zonesillysituatemythbrain |  
+| bip_39_word_no_space_6 | zonesillysituatemythbrainempty |  
+| bip_39_word_no_space_7 | zonesillysituatemythbrainemptyfortune |  
+| bip_39_word_no_space_8 | zonesillysituatemythbrainemptyfortunetoe |  
+| bip_39_word_no_space_9 | zonesillysituatemythbrainemptyfortunetoeremind |  
 | bip_39_word_space_0 | ['zone', 'silly', 'situate', 'myth', 'brain', 'empty', 'fortune', 'toe', 'remind', 'glance', 'crouch', 'absurd'] |  
 | bip_39_word_space_1 | zone |  
 | bip_39_word_space_10 | zone silly situate myth brain empty fortune toe remind glance |  

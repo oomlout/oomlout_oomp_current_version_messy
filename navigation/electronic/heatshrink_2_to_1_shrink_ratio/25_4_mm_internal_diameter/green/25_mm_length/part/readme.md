@@ -122,6 +122,18 @@ term
 motion
 resist
 maze |  
+| bip_39_word_no_space_1 | just |  
+| bip_39_word_no_space_10 | justdivorcejeansuselesssaucetermmotionresistmazechimney |  
+| bip_39_word_no_space_11 | justdivorcejeansuselesssaucetermmotionresistmazechimneyown |  
+| bip_39_word_no_space_12 | justdivorcejeansuselesssaucetermmotionresistmazechimneyownaddress |  
+| bip_39_word_no_space_2 | justdivorce |  
+| bip_39_word_no_space_3 | justdivorcejeans |  
+| bip_39_word_no_space_4 | justdivorcejeansuseless |  
+| bip_39_word_no_space_5 | justdivorcejeansuselesssauce |  
+| bip_39_word_no_space_6 | justdivorcejeansuselesssauceterm |  
+| bip_39_word_no_space_7 | justdivorcejeansuselesssaucetermmotion |  
+| bip_39_word_no_space_8 | justdivorcejeansuselesssaucetermmotionresist |  
+| bip_39_word_no_space_9 | justdivorcejeansuselesssaucetermmotionresistmaze |  
 | bip_39_word_space_0 | ['just', 'divorce', 'jeans', 'useless', 'sauce', 'term', 'motion', 'resist', 'maze', 'chimney', 'own', 'address'] |  
 | bip_39_word_space_1 | just |  
 | bip_39_word_space_10 | just divorce jeans useless sauce term motion resist maze chimney |  

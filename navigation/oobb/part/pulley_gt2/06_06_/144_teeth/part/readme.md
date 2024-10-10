@@ -122,6 +122,18 @@ tongue
 sure
 bounce
 gift |  
+| bip_39_word_no_space_1 | aunt |  
+| bip_39_word_no_space_10 | auntfrequentthundercushionarrangetonguesurebouncegiftpill |  
+| bip_39_word_no_space_11 | auntfrequentthundercushionarrangetonguesurebouncegiftpillpeople |  
+| bip_39_word_no_space_12 | auntfrequentthundercushionarrangetonguesurebouncegiftpillpeopleangry |  
+| bip_39_word_no_space_2 | auntfrequent |  
+| bip_39_word_no_space_3 | auntfrequentthunder |  
+| bip_39_word_no_space_4 | auntfrequentthundercushion |  
+| bip_39_word_no_space_5 | auntfrequentthundercushionarrange |  
+| bip_39_word_no_space_6 | auntfrequentthundercushionarrangetongue |  
+| bip_39_word_no_space_7 | auntfrequentthundercushionarrangetonguesure |  
+| bip_39_word_no_space_8 | auntfrequentthundercushionarrangetonguesurebounce |  
+| bip_39_word_no_space_9 | auntfrequentthundercushionarrangetonguesurebouncegift |  
 | bip_39_word_space_0 | ['aunt', 'frequent', 'thunder', 'cushion', 'arrange', 'tongue', 'sure', 'bounce', 'gift', 'pill', 'people', 'angry'] |  
 | bip_39_word_space_1 | aunt |  
 | bip_39_word_space_10 | aunt frequent thunder cushion arrange tongue sure bounce gift pill |  

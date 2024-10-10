@@ -122,6 +122,18 @@ happy
 impose
 write
 ignore |  
+| bip_39_word_no_space_1 | ritual |  
+| bip_39_word_no_space_10 | ritualworrysiblingincomewomanhappyimposewriteignoretoy |  
+| bip_39_word_no_space_11 | ritualworrysiblingincomewomanhappyimposewriteignoretoyshell |  
+| bip_39_word_no_space_12 | ritualworrysiblingincomewomanhappyimposewriteignoretoyshellallow |  
+| bip_39_word_no_space_2 | ritualworry |  
+| bip_39_word_no_space_3 | ritualworrysibling |  
+| bip_39_word_no_space_4 | ritualworrysiblingincome |  
+| bip_39_word_no_space_5 | ritualworrysiblingincomewoman |  
+| bip_39_word_no_space_6 | ritualworrysiblingincomewomanhappy |  
+| bip_39_word_no_space_7 | ritualworrysiblingincomewomanhappyimpose |  
+| bip_39_word_no_space_8 | ritualworrysiblingincomewomanhappyimposewrite |  
+| bip_39_word_no_space_9 | ritualworrysiblingincomewomanhappyimposewriteignore |  
 | bip_39_word_space_0 | ['ritual', 'worry', 'sibling', 'income', 'woman', 'happy', 'impose', 'write', 'ignore', 'toy', 'shell', 'allow'] |  
 | bip_39_word_space_1 | ritual |  
 | bip_39_word_space_10 | ritual worry sibling income woman happy impose write ignore toy |  

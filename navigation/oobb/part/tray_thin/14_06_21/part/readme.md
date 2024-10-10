@@ -122,6 +122,18 @@ business
 deposit
 camera
 sample |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagerosedolphindomainokaybusinessdepositcamerasamplevenue |  
+| bip_39_word_no_space_11 | cagerosedolphindomainokaybusinessdepositcamerasamplevenuedial |  
+| bip_39_word_no_space_12 | cagerosedolphindomainokaybusinessdepositcamerasamplevenuedialarrange |  
+| bip_39_word_no_space_2 | cagerose |  
+| bip_39_word_no_space_3 | cagerosedolphin |  
+| bip_39_word_no_space_4 | cagerosedolphindomain |  
+| bip_39_word_no_space_5 | cagerosedolphindomainokay |  
+| bip_39_word_no_space_6 | cagerosedolphindomainokaybusiness |  
+| bip_39_word_no_space_7 | cagerosedolphindomainokaybusinessdeposit |  
+| bip_39_word_no_space_8 | cagerosedolphindomainokaybusinessdepositcamera |  
+| bip_39_word_no_space_9 | cagerosedolphindomainokaybusinessdepositcamerasample |  
 | bip_39_word_space_0 | ['cage', 'rose', 'dolphin', 'domain', 'okay', 'business', 'deposit', 'camera', 'sample', 'venue', 'dial', 'arrange'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage rose dolphin domain okay business deposit camera sample venue |  

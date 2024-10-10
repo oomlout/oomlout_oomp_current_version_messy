@@ -122,6 +122,18 @@ merge
 dwarf
 palace
 suit |  
+| bip_39_word_no_space_1 | uncover |  
+| bip_39_word_no_space_10 | uncoverclerkclipsunsetskillmergedwarfpalacesuityoung |  
+| bip_39_word_no_space_11 | uncoverclerkclipsunsetskillmergedwarfpalacesuityoungtennis |  
+| bip_39_word_no_space_12 | uncoverclerkclipsunsetskillmergedwarfpalacesuityoungtennisapprove |  
+| bip_39_word_no_space_2 | uncoverclerk |  
+| bip_39_word_no_space_3 | uncoverclerkclip |  
+| bip_39_word_no_space_4 | uncoverclerkclipsunset |  
+| bip_39_word_no_space_5 | uncoverclerkclipsunsetskill |  
+| bip_39_word_no_space_6 | uncoverclerkclipsunsetskillmerge |  
+| bip_39_word_no_space_7 | uncoverclerkclipsunsetskillmergedwarf |  
+| bip_39_word_no_space_8 | uncoverclerkclipsunsetskillmergedwarfpalace |  
+| bip_39_word_no_space_9 | uncoverclerkclipsunsetskillmergedwarfpalacesuit |  
 | bip_39_word_space_0 | ['uncover', 'clerk', 'clip', 'sunset', 'skill', 'merge', 'dwarf', 'palace', 'suit', 'young', 'tennis', 'approve'] |  
 | bip_39_word_space_1 | uncover |  
 | bip_39_word_space_10 | uncover clerk clip sunset skill merge dwarf palace suit young |  

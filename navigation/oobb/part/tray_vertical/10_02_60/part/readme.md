@@ -122,6 +122,18 @@ venue
 try
 agent
 federal |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playtryshaftmaththeyvenuetryagentfederalvillage |  
+| bip_39_word_no_space_11 | playtryshaftmaththeyvenuetryagentfederalvillageembark |  
+| bip_39_word_no_space_12 | playtryshaftmaththeyvenuetryagentfederalvillageembarkannual |  
+| bip_39_word_no_space_2 | playtry |  
+| bip_39_word_no_space_3 | playtryshaft |  
+| bip_39_word_no_space_4 | playtryshaftmath |  
+| bip_39_word_no_space_5 | playtryshaftmaththey |  
+| bip_39_word_no_space_6 | playtryshaftmaththeyvenue |  
+| bip_39_word_no_space_7 | playtryshaftmaththeyvenuetry |  
+| bip_39_word_no_space_8 | playtryshaftmaththeyvenuetryagent |  
+| bip_39_word_no_space_9 | playtryshaftmaththeyvenuetryagentfederal |  
 | bip_39_word_space_0 | ['play', 'try', 'shaft', 'math', 'they', 'venue', 'try', 'agent', 'federal', 'village', 'embark', 'annual'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play try shaft math they venue try agent federal village |  

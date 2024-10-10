@@ -122,6 +122,18 @@ start
 knee
 depend
 arrest |  
+| bip_39_word_no_space_1 | pill |  
+| bip_39_word_no_space_10 | pillhamsterskirtnapkinpigstartkneedependarrestclerk |  
+| bip_39_word_no_space_11 | pillhamsterskirtnapkinpigstartkneedependarrestclerklayer |  
+| bip_39_word_no_space_12 | pillhamsterskirtnapkinpigstartkneedependarrestclerklayerask |  
+| bip_39_word_no_space_2 | pillhamster |  
+| bip_39_word_no_space_3 | pillhamsterskirt |  
+| bip_39_word_no_space_4 | pillhamsterskirtnapkin |  
+| bip_39_word_no_space_5 | pillhamsterskirtnapkinpig |  
+| bip_39_word_no_space_6 | pillhamsterskirtnapkinpigstart |  
+| bip_39_word_no_space_7 | pillhamsterskirtnapkinpigstartknee |  
+| bip_39_word_no_space_8 | pillhamsterskirtnapkinpigstartkneedepend |  
+| bip_39_word_no_space_9 | pillhamsterskirtnapkinpigstartkneedependarrest |  
 | bip_39_word_space_0 | ['pill', 'hamster', 'skirt', 'napkin', 'pig', 'start', 'knee', 'depend', 'arrest', 'clerk', 'layer', 'ask'] |  
 | bip_39_word_space_1 | pill |  
 | bip_39_word_space_10 | pill hamster skirt napkin pig start knee depend arrest clerk |  

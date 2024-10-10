@@ -122,6 +122,18 @@ memory
 quantum
 arrest
 paddle |  
+| bip_39_word_no_space_1 | about |  
+| bip_39_word_no_space_10 | aboutpillownervalvesincememoryquantumarrestpaddleinherit |  
+| bip_39_word_no_space_11 | aboutpillownervalvesincememoryquantumarrestpaddleinheritbasic |  
+| bip_39_word_no_space_12 | aboutpillownervalvesincememoryquantumarrestpaddleinheritbasicacquire |  
+| bip_39_word_no_space_2 | aboutpill |  
+| bip_39_word_no_space_3 | aboutpillowner |  
+| bip_39_word_no_space_4 | aboutpillownervalve |  
+| bip_39_word_no_space_5 | aboutpillownervalvesince |  
+| bip_39_word_no_space_6 | aboutpillownervalvesincememory |  
+| bip_39_word_no_space_7 | aboutpillownervalvesincememoryquantum |  
+| bip_39_word_no_space_8 | aboutpillownervalvesincememoryquantumarrest |  
+| bip_39_word_no_space_9 | aboutpillownervalvesincememoryquantumarrestpaddle |  
 | bip_39_word_space_0 | ['about', 'pill', 'owner', 'valve', 'since', 'memory', 'quantum', 'arrest', 'paddle', 'inherit', 'basic', 'acquire'] |  
 | bip_39_word_space_1 | about |  
 | bip_39_word_space_10 | about pill owner valve since memory quantum arrest paddle inherit |  

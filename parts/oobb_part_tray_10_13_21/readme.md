@@ -122,6 +122,18 @@ famous
 agent
 dignity
 gloom |  
+| bip_39_word_no_space_1 | kitten |  
+| bip_39_word_no_space_10 | kittentopcopperdawncenturyfamousagentdignitygloomnoodle |  
+| bip_39_word_no_space_11 | kittentopcopperdawncenturyfamousagentdignitygloomnoodleskill |  
+| bip_39_word_no_space_12 | kittentopcopperdawncenturyfamousagentdignitygloomnoodleskillappear |  
+| bip_39_word_no_space_2 | kittentop |  
+| bip_39_word_no_space_3 | kittentopcopper |  
+| bip_39_word_no_space_4 | kittentopcopperdawn |  
+| bip_39_word_no_space_5 | kittentopcopperdawncentury |  
+| bip_39_word_no_space_6 | kittentopcopperdawncenturyfamous |  
+| bip_39_word_no_space_7 | kittentopcopperdawncenturyfamousagent |  
+| bip_39_word_no_space_8 | kittentopcopperdawncenturyfamousagentdignity |  
+| bip_39_word_no_space_9 | kittentopcopperdawncenturyfamousagentdignitygloom |  
 | bip_39_word_space_0 | ['kitten', 'top', 'copper', 'dawn', 'century', 'famous', 'agent', 'dignity', 'gloom', 'noodle', 'skill', 'appear'] |  
 | bip_39_word_space_1 | kitten |  
 | bip_39_word_space_10 | kitten top copper dawn century famous agent dignity gloom noodle |  

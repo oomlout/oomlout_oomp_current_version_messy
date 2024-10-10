@@ -122,6 +122,18 @@ thumb
 axis
 shift
 glimpse |  
+| bip_39_word_no_space_1 | enrich |  
+| bip_39_word_no_space_10 | enrichodorumbrellaspymonkeythumbaxisshiftglimpsedamp |  
+| bip_39_word_no_space_11 | enrichodorumbrellaspymonkeythumbaxisshiftglimpsedampbundle |  
+| bip_39_word_no_space_12 | enrichodorumbrellaspymonkeythumbaxisshiftglimpsedampbundlearch |  
+| bip_39_word_no_space_2 | enrichodor |  
+| bip_39_word_no_space_3 | enrichodorumbrella |  
+| bip_39_word_no_space_4 | enrichodorumbrellaspy |  
+| bip_39_word_no_space_5 | enrichodorumbrellaspymonkey |  
+| bip_39_word_no_space_6 | enrichodorumbrellaspymonkeythumb |  
+| bip_39_word_no_space_7 | enrichodorumbrellaspymonkeythumbaxis |  
+| bip_39_word_no_space_8 | enrichodorumbrellaspymonkeythumbaxisshift |  
+| bip_39_word_no_space_9 | enrichodorumbrellaspymonkeythumbaxisshiftglimpse |  
 | bip_39_word_space_0 | ['enrich', 'odor', 'umbrella', 'spy', 'monkey', 'thumb', 'axis', 'shift', 'glimpse', 'damp', 'bundle', 'arch'] |  
 | bip_39_word_space_1 | enrich |  
 | bip_39_word_space_10 | enrich odor umbrella spy monkey thumb axis shift glimpse damp |  

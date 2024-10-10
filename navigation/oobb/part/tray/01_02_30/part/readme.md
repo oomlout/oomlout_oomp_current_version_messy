@@ -122,6 +122,18 @@ rotate
 soft
 whisper
 exact |  
+| bip_39_word_no_space_1 | kitchen |  
+| bip_39_word_no_space_10 | kitcheneasilyusualeliteagainrotatesoftwhisperexactearly |  
+| bip_39_word_no_space_11 | kitcheneasilyusualeliteagainrotatesoftwhisperexactearlyfruit |  
+| bip_39_word_no_space_12 | kitcheneasilyusualeliteagainrotatesoftwhisperexactearlyfruitabsurd |  
+| bip_39_word_no_space_2 | kitcheneasily |  
+| bip_39_word_no_space_3 | kitcheneasilyusual |  
+| bip_39_word_no_space_4 | kitcheneasilyusualelite |  
+| bip_39_word_no_space_5 | kitcheneasilyusualeliteagain |  
+| bip_39_word_no_space_6 | kitcheneasilyusualeliteagainrotate |  
+| bip_39_word_no_space_7 | kitcheneasilyusualeliteagainrotatesoft |  
+| bip_39_word_no_space_8 | kitcheneasilyusualeliteagainrotatesoftwhisper |  
+| bip_39_word_no_space_9 | kitcheneasilyusualeliteagainrotatesoftwhisperexact |  
 | bip_39_word_space_0 | ['kitchen', 'easily', 'usual', 'elite', 'again', 'rotate', 'soft', 'whisper', 'exact', 'early', 'fruit', 'absurd'] |  
 | bip_39_word_space_1 | kitchen |  
 | bip_39_word_space_10 | kitchen easily usual elite again rotate soft whisper exact early |  

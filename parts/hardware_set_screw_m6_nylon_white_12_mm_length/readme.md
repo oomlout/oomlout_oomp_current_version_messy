@@ -122,6 +122,18 @@ decrease
 struggle
 suggest
 flower |  
+| bip_39_word_no_space_1 | license |  
+| bip_39_word_no_space_10 | licensebrotherfetchableeternaldecreasestrugglesuggestflowergenre |  
+| bip_39_word_no_space_11 | licensebrotherfetchableeternaldecreasestrugglesuggestflowergenretwin |  
+| bip_39_word_no_space_12 | licensebrotherfetchableeternaldecreasestrugglesuggestflowergenretwinartwork |  
+| bip_39_word_no_space_2 | licensebrother |  
+| bip_39_word_no_space_3 | licensebrotherfetch |  
+| bip_39_word_no_space_4 | licensebrotherfetchable |  
+| bip_39_word_no_space_5 | licensebrotherfetchableeternal |  
+| bip_39_word_no_space_6 | licensebrotherfetchableeternaldecrease |  
+| bip_39_word_no_space_7 | licensebrotherfetchableeternaldecreasestruggle |  
+| bip_39_word_no_space_8 | licensebrotherfetchableeternaldecreasestrugglesuggest |  
+| bip_39_word_no_space_9 | licensebrotherfetchableeternaldecreasestrugglesuggestflower |  
 | bip_39_word_space_0 | ['license', 'brother', 'fetch', 'able', 'eternal', 'decrease', 'struggle', 'suggest', 'flower', 'genre', 'twin', 'artwork'] |  
 | bip_39_word_space_1 | license |  
 | bip_39_word_space_10 | license brother fetch able eternal decrease struggle suggest flower genre |  

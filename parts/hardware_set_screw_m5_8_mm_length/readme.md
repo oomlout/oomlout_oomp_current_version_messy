@@ -122,6 +122,18 @@ slender
 senior
 sniff
 gadget |  
+| bip_39_word_no_space_1 | castle |  
+| bip_39_word_no_space_10 | castletheoryordinaryalarmfameslenderseniorsniffgadgetwalk |  
+| bip_39_word_no_space_11 | castletheoryordinaryalarmfameslenderseniorsniffgadgetwalkprofit |  
+| bip_39_word_no_space_12 | castletheoryordinaryalarmfameslenderseniorsniffgadgetwalkprofitasthma |  
+| bip_39_word_no_space_2 | castletheory |  
+| bip_39_word_no_space_3 | castletheoryordinary |  
+| bip_39_word_no_space_4 | castletheoryordinaryalarm |  
+| bip_39_word_no_space_5 | castletheoryordinaryalarmfame |  
+| bip_39_word_no_space_6 | castletheoryordinaryalarmfameslender |  
+| bip_39_word_no_space_7 | castletheoryordinaryalarmfameslendersenior |  
+| bip_39_word_no_space_8 | castletheoryordinaryalarmfameslenderseniorsniff |  
+| bip_39_word_no_space_9 | castletheoryordinaryalarmfameslenderseniorsniffgadget |  
 | bip_39_word_space_0 | ['castle', 'theory', 'ordinary', 'alarm', 'fame', 'slender', 'senior', 'sniff', 'gadget', 'walk', 'profit', 'asthma'] |  
 | bip_39_word_space_1 | castle |  
 | bip_39_word_space_10 | castle theory ordinary alarm fame slender senior sniff gadget walk |  

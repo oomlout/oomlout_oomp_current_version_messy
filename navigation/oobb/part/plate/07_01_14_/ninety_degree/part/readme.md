@@ -122,6 +122,18 @@ cattle
 devote
 tiger
 wood |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtlepuzzlepricemountainliquidcattledevotetigerwoodride |  
+| bip_39_word_no_space_11 | turtlepuzzlepricemountainliquidcattledevotetigerwoodrideuntil |  
+| bip_39_word_no_space_12 | turtlepuzzlepricemountainliquidcattledevotetigerwoodrideuntilarea |  
+| bip_39_word_no_space_2 | turtlepuzzle |  
+| bip_39_word_no_space_3 | turtlepuzzleprice |  
+| bip_39_word_no_space_4 | turtlepuzzlepricemountain |  
+| bip_39_word_no_space_5 | turtlepuzzlepricemountainliquid |  
+| bip_39_word_no_space_6 | turtlepuzzlepricemountainliquidcattle |  
+| bip_39_word_no_space_7 | turtlepuzzlepricemountainliquidcattledevote |  
+| bip_39_word_no_space_8 | turtlepuzzlepricemountainliquidcattledevotetiger |  
+| bip_39_word_no_space_9 | turtlepuzzlepricemountainliquidcattledevotetigerwood |  
 | bip_39_word_space_0 | ['turtle', 'puzzle', 'price', 'mountain', 'liquid', 'cattle', 'devote', 'tiger', 'wood', 'ride', 'until', 'area'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle puzzle price mountain liquid cattle devote tiger wood ride |  

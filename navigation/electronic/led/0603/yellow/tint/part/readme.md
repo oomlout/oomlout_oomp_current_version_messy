@@ -122,6 +122,18 @@ suggest
 monitor
 surround
 cycle |  
+| bip_39_word_no_space_1 | initial |  
+| bip_39_word_no_space_10 | initialvalvewhereglobetrashsuggestmonitorsurroundcycledetect |  
+| bip_39_word_no_space_11 | initialvalvewhereglobetrashsuggestmonitorsurroundcycledetectplug |  
+| bip_39_word_no_space_12 | initialvalvewhereglobetrashsuggestmonitorsurroundcycledetectplugadvice |  
+| bip_39_word_no_space_2 | initialvalve |  
+| bip_39_word_no_space_3 | initialvalvewhere |  
+| bip_39_word_no_space_4 | initialvalvewhereglobe |  
+| bip_39_word_no_space_5 | initialvalvewhereglobetrash |  
+| bip_39_word_no_space_6 | initialvalvewhereglobetrashsuggest |  
+| bip_39_word_no_space_7 | initialvalvewhereglobetrashsuggestmonitor |  
+| bip_39_word_no_space_8 | initialvalvewhereglobetrashsuggestmonitorsurround |  
+| bip_39_word_no_space_9 | initialvalvewhereglobetrashsuggestmonitorsurroundcycle |  
 | bip_39_word_space_0 | ['initial', 'valve', 'where', 'globe', 'trash', 'suggest', 'monitor', 'surround', 'cycle', 'detect', 'plug', 'advice'] |  
 | bip_39_word_space_1 | initial |  
 | bip_39_word_space_10 | initial valve where globe trash suggest monitor surround cycle detect |  

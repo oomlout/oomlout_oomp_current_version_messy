@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mechanic
   hand
 
   mule'
+bip_39_word_no_space_1: mechanic
+bip_39_word_no_space_10: mechanicloadpinkanklehelpactionusehandmuleobtain
+bip_39_word_no_space_11: mechanicloadpinkanklehelpactionusehandmuleobtaincraft
+bip_39_word_no_space_12: mechanicloadpinkanklehelpactionusehandmuleobtaincraftaugust
+bip_39_word_no_space_2: mechanicload
+bip_39_word_no_space_3: mechanicloadpink
+bip_39_word_no_space_4: mechanicloadpinkankle
+bip_39_word_no_space_5: mechanicloadpinkanklehelp
+bip_39_word_no_space_6: mechanicloadpinkanklehelpaction
+bip_39_word_no_space_7: mechanicloadpinkanklehelpactionuse
+bip_39_word_no_space_8: mechanicloadpinkanklehelpactionusehand
+bip_39_word_no_space_9: mechanicloadpinkanklehelpactionusehandmule
 bip_39_word_space_0:
 - mechanic
 - load

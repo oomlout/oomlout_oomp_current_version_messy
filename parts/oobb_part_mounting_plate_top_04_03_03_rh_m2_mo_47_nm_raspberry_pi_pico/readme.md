@@ -122,6 +122,18 @@ expose
 mandate
 arrow
 fog |  
+| bip_39_word_no_space_1 | fish |  
+| bip_39_word_no_space_10 | fishpropertyteachstandfallexposemandatearrowfogremind |  
+| bip_39_word_no_space_11 | fishpropertyteachstandfallexposemandatearrowfogreminddivorce |  
+| bip_39_word_no_space_12 | fishpropertyteachstandfallexposemandatearrowfogreminddivorceassault |  
+| bip_39_word_no_space_2 | fishproperty |  
+| bip_39_word_no_space_3 | fishpropertyteach |  
+| bip_39_word_no_space_4 | fishpropertyteachstand |  
+| bip_39_word_no_space_5 | fishpropertyteachstandfall |  
+| bip_39_word_no_space_6 | fishpropertyteachstandfallexpose |  
+| bip_39_word_no_space_7 | fishpropertyteachstandfallexposemandate |  
+| bip_39_word_no_space_8 | fishpropertyteachstandfallexposemandatearrow |  
+| bip_39_word_no_space_9 | fishpropertyteachstandfallexposemandatearrowfog |  
 | bip_39_word_space_0 | ['fish', 'property', 'teach', 'stand', 'fall', 'expose', 'mandate', 'arrow', 'fog', 'remind', 'divorce', 'assault'] |  
 | bip_39_word_space_1 | fish |  
 | bip_39_word_space_10 | fish property teach stand fall expose mandate arrow fog remind |  

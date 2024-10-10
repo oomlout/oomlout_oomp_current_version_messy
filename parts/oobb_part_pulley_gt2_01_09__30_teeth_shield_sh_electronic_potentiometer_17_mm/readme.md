@@ -122,6 +122,18 @@ radar
 milk
 pattern
 blossom |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magicbrightpropertydepositpinkradarmilkpatternblossomsimple |  
+| bip_39_word_no_space_11 | magicbrightpropertydepositpinkradarmilkpatternblossomsimpledaring |  
+| bip_39_word_no_space_12 | magicbrightpropertydepositpinkradarmilkpatternblossomsimpledaringarch |  
+| bip_39_word_no_space_2 | magicbright |  
+| bip_39_word_no_space_3 | magicbrightproperty |  
+| bip_39_word_no_space_4 | magicbrightpropertydeposit |  
+| bip_39_word_no_space_5 | magicbrightpropertydepositpink |  
+| bip_39_word_no_space_6 | magicbrightpropertydepositpinkradar |  
+| bip_39_word_no_space_7 | magicbrightpropertydepositpinkradarmilk |  
+| bip_39_word_no_space_8 | magicbrightpropertydepositpinkradarmilkpattern |  
+| bip_39_word_no_space_9 | magicbrightpropertydepositpinkradarmilkpatternblossom |  
 | bip_39_word_space_0 | ['magic', 'bright', 'property', 'deposit', 'pink', 'radar', 'milk', 'pattern', 'blossom', 'simple', 'daring', 'arch'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic bright property deposit pink radar milk pattern blossom simple |  

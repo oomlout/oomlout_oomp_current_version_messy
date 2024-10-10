@@ -122,6 +122,18 @@ breeze
 tank
 thing
 trim |  
+| bip_39_word_no_space_1 | reduce |  
+| bip_39_word_no_space_10 | reducegoosecoolpalmaffairbreezetankthingtrimdoor |  
+| bip_39_word_no_space_11 | reducegoosecoolpalmaffairbreezetankthingtrimdoorlucky |  
+| bip_39_word_no_space_12 | reducegoosecoolpalmaffairbreezetankthingtrimdoorluckyalready |  
+| bip_39_word_no_space_2 | reducegoose |  
+| bip_39_word_no_space_3 | reducegoosecool |  
+| bip_39_word_no_space_4 | reducegoosecoolpalm |  
+| bip_39_word_no_space_5 | reducegoosecoolpalmaffair |  
+| bip_39_word_no_space_6 | reducegoosecoolpalmaffairbreeze |  
+| bip_39_word_no_space_7 | reducegoosecoolpalmaffairbreezetank |  
+| bip_39_word_no_space_8 | reducegoosecoolpalmaffairbreezetankthing |  
+| bip_39_word_no_space_9 | reducegoosecoolpalmaffairbreezetankthingtrim |  
 | bip_39_word_space_0 | ['reduce', 'goose', 'cool', 'palm', 'affair', 'breeze', 'tank', 'thing', 'trim', 'door', 'lucky', 'already'] |  
 | bip_39_word_space_1 | reduce |  
 | bip_39_word_space_10 | reduce goose cool palm affair breeze tank thing trim door |  

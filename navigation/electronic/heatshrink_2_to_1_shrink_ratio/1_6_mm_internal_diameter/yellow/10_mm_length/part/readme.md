@@ -122,6 +122,18 @@ emotion
 prize
 useless
 cave |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofthriveuntilrivercoffeeemotionprizeuselesscavestove |  
+| bip_39_word_no_space_11 | proofthriveuntilrivercoffeeemotionprizeuselesscavestovevivid |  
+| bip_39_word_no_space_12 | proofthriveuntilrivercoffeeemotionprizeuselesscavestovevividacquire |  
+| bip_39_word_no_space_2 | proofthrive |  
+| bip_39_word_no_space_3 | proofthriveuntil |  
+| bip_39_word_no_space_4 | proofthriveuntilriver |  
+| bip_39_word_no_space_5 | proofthriveuntilrivercoffee |  
+| bip_39_word_no_space_6 | proofthriveuntilrivercoffeeemotion |  
+| bip_39_word_no_space_7 | proofthriveuntilrivercoffeeemotionprize |  
+| bip_39_word_no_space_8 | proofthriveuntilrivercoffeeemotionprizeuseless |  
+| bip_39_word_no_space_9 | proofthriveuntilrivercoffeeemotionprizeuselesscave |  
 | bip_39_word_space_0 | ['proof', 'thrive', 'until', 'river', 'coffee', 'emotion', 'prize', 'useless', 'cave', 'stove', 'vivid', 'acquire'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof thrive until river coffee emotion prize useless cave stove |  

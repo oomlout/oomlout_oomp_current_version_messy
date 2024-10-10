@@ -122,6 +122,18 @@ enough
 rubber
 blame
 road |  
+| bip_39_word_no_space_1 | thought |  
+| bip_39_word_no_space_10 | thoughtholecropbecauseomitenoughrubberblameroadpatch |  
+| bip_39_word_no_space_11 | thoughtholecropbecauseomitenoughrubberblameroadpatchnotable |  
+| bip_39_word_no_space_12 | thoughtholecropbecauseomitenoughrubberblameroadpatchnotableaccuse |  
+| bip_39_word_no_space_2 | thoughthole |  
+| bip_39_word_no_space_3 | thoughtholecrop |  
+| bip_39_word_no_space_4 | thoughtholecropbecause |  
+| bip_39_word_no_space_5 | thoughtholecropbecauseomit |  
+| bip_39_word_no_space_6 | thoughtholecropbecauseomitenough |  
+| bip_39_word_no_space_7 | thoughtholecropbecauseomitenoughrubber |  
+| bip_39_word_no_space_8 | thoughtholecropbecauseomitenoughrubberblame |  
+| bip_39_word_no_space_9 | thoughtholecropbecauseomitenoughrubberblameroad |  
 | bip_39_word_space_0 | ['thought', 'hole', 'crop', 'because', 'omit', 'enough', 'rubber', 'blame', 'road', 'patch', 'notable', 'accuse'] |  
 | bip_39_word_space_1 | thought |  
 | bip_39_word_space_10 | thought hole crop because omit enough rubber blame road patch |  

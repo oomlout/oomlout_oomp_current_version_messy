@@ -122,6 +122,18 @@ type
 case
 bundle
 permit |  
+| bip_39_word_no_space_1 | fit |  
+| bip_39_word_no_space_10 | fitdisagreephrasecouplebooktypecasebundlepermitattend |  
+| bip_39_word_no_space_11 | fitdisagreephrasecouplebooktypecasebundlepermitattendobey |  
+| bip_39_word_no_space_12 | fitdisagreephrasecouplebooktypecasebundlepermitattendobeyaffair |  
+| bip_39_word_no_space_2 | fitdisagree |  
+| bip_39_word_no_space_3 | fitdisagreephrase |  
+| bip_39_word_no_space_4 | fitdisagreephrasecouple |  
+| bip_39_word_no_space_5 | fitdisagreephrasecouplebook |  
+| bip_39_word_no_space_6 | fitdisagreephrasecouplebooktype |  
+| bip_39_word_no_space_7 | fitdisagreephrasecouplebooktypecase |  
+| bip_39_word_no_space_8 | fitdisagreephrasecouplebooktypecasebundle |  
+| bip_39_word_no_space_9 | fitdisagreephrasecouplebooktypecasebundlepermit |  
 | bip_39_word_space_0 | ['fit', 'disagree', 'phrase', 'couple', 'book', 'type', 'case', 'bundle', 'permit', 'attend', 'obey', 'affair'] |  
 | bip_39_word_space_1 | fit |  
 | bip_39_word_space_10 | fit disagree phrase couple book type case bundle permit attend |  

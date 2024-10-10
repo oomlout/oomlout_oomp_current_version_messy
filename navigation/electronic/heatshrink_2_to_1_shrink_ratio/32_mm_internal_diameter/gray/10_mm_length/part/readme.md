@@ -122,6 +122,18 @@ name
 beach
 equip
 identify |  
+| bip_39_word_no_space_1 | artwork |  
+| bip_39_word_no_space_10 | artworkarcticotherobscureyellownamebeachequipidentifyhero |  
+| bip_39_word_no_space_11 | artworkarcticotherobscureyellownamebeachequipidentifyherowalnut |  
+| bip_39_word_no_space_12 | artworkarcticotherobscureyellownamebeachequipidentifyherowalnutarch |  
+| bip_39_word_no_space_2 | artworkarctic |  
+| bip_39_word_no_space_3 | artworkarcticother |  
+| bip_39_word_no_space_4 | artworkarcticotherobscure |  
+| bip_39_word_no_space_5 | artworkarcticotherobscureyellow |  
+| bip_39_word_no_space_6 | artworkarcticotherobscureyellowname |  
+| bip_39_word_no_space_7 | artworkarcticotherobscureyellownamebeach |  
+| bip_39_word_no_space_8 | artworkarcticotherobscureyellownamebeachequip |  
+| bip_39_word_no_space_9 | artworkarcticotherobscureyellownamebeachequipidentify |  
 | bip_39_word_space_0 | ['artwork', 'arctic', 'other', 'obscure', 'yellow', 'name', 'beach', 'equip', 'identify', 'hero', 'walnut', 'arch'] |  
 | bip_39_word_space_1 | artwork |  
 | bip_39_word_space_10 | artwork arctic other obscure yellow name beach equip identify hero |  

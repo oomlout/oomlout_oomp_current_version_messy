@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'pass
   athlete
 
   basket'
+bip_39_word_no_space_1: pass
+bip_39_word_no_space_10: passpartykickkingdomlamplionbrandathletebasketbrick
+bip_39_word_no_space_11: passpartykickkingdomlamplionbrandathletebasketbrickcost
+bip_39_word_no_space_2: passparty
+bip_39_word_no_space_3: passpartykick
+bip_39_word_no_space_4: passpartykickkingdom
+bip_39_word_no_space_5: passpartykickkingdomlamp
+bip_39_word_no_space_6: passpartykickkingdomlamplion
+bip_39_word_no_space_7: passpartykickkingdomlamplionbrand
+bip_39_word_no_space_8: passpartykickkingdomlamplionbrandathlete
+bip_39_word_no_space_9: passpartykickkingdomlamplionbrandathletebasket
 bip_39_word_space_0:
 - pass
 - party

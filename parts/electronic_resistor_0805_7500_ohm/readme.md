@@ -122,6 +122,18 @@ asset
 disorder
 network
 mind |  
+| bip_39_word_no_space_1 | reopen |  
+| bip_39_word_no_space_10 | reopenlinksuspecthumorperfectassetdisordernetworkmindlevel |  
+| bip_39_word_no_space_11 | reopenlinksuspecthumorperfectassetdisordernetworkmindlevelabstract |  
+| bip_39_word_no_space_12 | reopenlinksuspecthumorperfectassetdisordernetworkmindlevelabstractaccess |  
+| bip_39_word_no_space_2 | reopenlink |  
+| bip_39_word_no_space_3 | reopenlinksuspect |  
+| bip_39_word_no_space_4 | reopenlinksuspecthumor |  
+| bip_39_word_no_space_5 | reopenlinksuspecthumorperfect |  
+| bip_39_word_no_space_6 | reopenlinksuspecthumorperfectasset |  
+| bip_39_word_no_space_7 | reopenlinksuspecthumorperfectassetdisorder |  
+| bip_39_word_no_space_8 | reopenlinksuspecthumorperfectassetdisordernetwork |  
+| bip_39_word_no_space_9 | reopenlinksuspecthumorperfectassetdisordernetworkmind |  
 | bip_39_word_space_0 | ['reopen', 'link', 'suspect', 'humor', 'perfect', 'asset', 'disorder', 'network', 'mind', 'level', 'abstract', 'access'] |  
 | bip_39_word_space_1 | reopen |  
 | bip_39_word_space_10 | reopen link suspect humor perfect asset disorder network mind level |  

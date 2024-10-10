@@ -122,6 +122,18 @@ mouse
 tree
 split
 gather |  
+| bip_39_word_no_space_1 | zero |  
+| bip_39_word_no_space_10 | zeropurityclockacrossconvincemousetreesplitgatherrefuse |  
+| bip_39_word_no_space_11 | zeropurityclockacrossconvincemousetreesplitgatherrefuseplace |  
+| bip_39_word_no_space_12 | zeropurityclockacrossconvincemousetreesplitgatherrefuseplaceaudit |  
+| bip_39_word_no_space_2 | zeropurity |  
+| bip_39_word_no_space_3 | zeropurityclock |  
+| bip_39_word_no_space_4 | zeropurityclockacross |  
+| bip_39_word_no_space_5 | zeropurityclockacrossconvince |  
+| bip_39_word_no_space_6 | zeropurityclockacrossconvincemouse |  
+| bip_39_word_no_space_7 | zeropurityclockacrossconvincemousetree |  
+| bip_39_word_no_space_8 | zeropurityclockacrossconvincemousetreesplit |  
+| bip_39_word_no_space_9 | zeropurityclockacrossconvincemousetreesplitgather |  
 | bip_39_word_space_0 | ['zero', 'purity', 'clock', 'across', 'convince', 'mouse', 'tree', 'split', 'gather', 'refuse', 'place', 'audit'] |  
 | bip_39_word_space_1 | zero |  
 | bip_39_word_space_10 | zero purity clock across convince mouse tree split gather refuse |  

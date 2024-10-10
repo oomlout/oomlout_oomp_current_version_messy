@@ -122,6 +122,18 @@ fragile
 clip
 duck
 shadow |  
+| bip_39_word_no_space_1 | valley |  
+| bip_39_word_no_space_10 | valleyscaleorchardstandhumanfragileclipduckshadowmesh |  
+| bip_39_word_no_space_11 | valleyscaleorchardstandhumanfragileclipduckshadowmeshkidney |  
+| bip_39_word_no_space_12 | valleyscaleorchardstandhumanfragileclipduckshadowmeshkidneyaugust |  
+| bip_39_word_no_space_2 | valleyscale |  
+| bip_39_word_no_space_3 | valleyscaleorchard |  
+| bip_39_word_no_space_4 | valleyscaleorchardstand |  
+| bip_39_word_no_space_5 | valleyscaleorchardstandhuman |  
+| bip_39_word_no_space_6 | valleyscaleorchardstandhumanfragile |  
+| bip_39_word_no_space_7 | valleyscaleorchardstandhumanfragileclip |  
+| bip_39_word_no_space_8 | valleyscaleorchardstandhumanfragileclipduck |  
+| bip_39_word_no_space_9 | valleyscaleorchardstandhumanfragileclipduckshadow |  
 | bip_39_word_space_0 | ['valley', 'scale', 'orchard', 'stand', 'human', 'fragile', 'clip', 'duck', 'shadow', 'mesh', 'kidney', 'august'] |  
 | bip_39_word_space_1 | valley |  
 | bip_39_word_space_10 | valley scale orchard stand human fragile clip duck shadow mesh |  

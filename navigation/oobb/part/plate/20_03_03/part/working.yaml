@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sing
   inside
 
   midnight'
+bip_39_word_no_space_1: sing
+bip_39_word_no_space_10: singaislerepairstoolsummergritbasicinsidemidnightmonitor
+bip_39_word_no_space_11: singaislerepairstoolsummergritbasicinsidemidnightmonitorfruit
+bip_39_word_no_space_12: singaislerepairstoolsummergritbasicinsidemidnightmonitorfruitarea
+bip_39_word_no_space_2: singaisle
+bip_39_word_no_space_3: singaislerepair
+bip_39_word_no_space_4: singaislerepairstool
+bip_39_word_no_space_5: singaislerepairstoolsummer
+bip_39_word_no_space_6: singaislerepairstoolsummergrit
+bip_39_word_no_space_7: singaislerepairstoolsummergritbasic
+bip_39_word_no_space_8: singaislerepairstoolsummergritbasicinside
+bip_39_word_no_space_9: singaislerepairstoolsummergritbasicinsidemidnight
 bip_39_word_space_0:
 - sing
 - aisle

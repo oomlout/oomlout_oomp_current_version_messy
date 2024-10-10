@@ -122,6 +122,18 @@ bridge
 travel
 change
 hotel |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attackmosquitohintearlyarrowbridgetravelchangehotelgarment |  
+| bip_39_word_no_space_11 | attackmosquitohintearlyarrowbridgetravelchangehotelgarmentfollow |  
+| bip_39_word_no_space_12 | attackmosquitohintearlyarrowbridgetravelchangehotelgarmentfollowafford |  
+| bip_39_word_no_space_2 | attackmosquito |  
+| bip_39_word_no_space_3 | attackmosquitohint |  
+| bip_39_word_no_space_4 | attackmosquitohintearly |  
+| bip_39_word_no_space_5 | attackmosquitohintearlyarrow |  
+| bip_39_word_no_space_6 | attackmosquitohintearlyarrowbridge |  
+| bip_39_word_no_space_7 | attackmosquitohintearlyarrowbridgetravel |  
+| bip_39_word_no_space_8 | attackmosquitohintearlyarrowbridgetravelchange |  
+| bip_39_word_no_space_9 | attackmosquitohintearlyarrowbridgetravelchangehotel |  
 | bip_39_word_space_0 | ['attack', 'mosquito', 'hint', 'early', 'arrow', 'bridge', 'travel', 'change', 'hotel', 'garment', 'follow', 'afford'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack mosquito hint early arrow bridge travel change hotel garment |  

@@ -122,6 +122,18 @@ neck
 rich
 dream
 actual |  
+| bip_39_word_no_space_1 | tenant |  
+| bip_39_word_no_space_10 | tenantzonebonusfoodoperaneckrichdreamactualpulse |  
+| bip_39_word_no_space_11 | tenantzonebonusfoodoperaneckrichdreamactualpulsetopic |  
+| bip_39_word_no_space_12 | tenantzonebonusfoodoperaneckrichdreamactualpulsetopicactual |  
+| bip_39_word_no_space_2 | tenantzone |  
+| bip_39_word_no_space_3 | tenantzonebonus |  
+| bip_39_word_no_space_4 | tenantzonebonusfood |  
+| bip_39_word_no_space_5 | tenantzonebonusfoodopera |  
+| bip_39_word_no_space_6 | tenantzonebonusfoodoperaneck |  
+| bip_39_word_no_space_7 | tenantzonebonusfoodoperaneckrich |  
+| bip_39_word_no_space_8 | tenantzonebonusfoodoperaneckrichdream |  
+| bip_39_word_no_space_9 | tenantzonebonusfoodoperaneckrichdreamactual |  
 | bip_39_word_space_0 | ['tenant', 'zone', 'bonus', 'food', 'opera', 'neck', 'rich', 'dream', 'actual', 'pulse', 'topic', 'actual'] |  
 | bip_39_word_space_1 | tenant |  
 | bip_39_word_space_10 | tenant zone bonus food opera neck rich dream actual pulse |  

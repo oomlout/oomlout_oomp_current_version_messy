@@ -122,6 +122,18 @@ snake
 horse
 name
 asthma |  
+| bip_39_word_no_space_1 | please |  
+| bip_39_word_no_space_10 | pleaseroughtrainshinedustsnakehorsenameasthmaivory |  
+| bip_39_word_no_space_11 | pleaseroughtrainshinedustsnakehorsenameasthmaivorydiet |  
+| bip_39_word_no_space_12 | pleaseroughtrainshinedustsnakehorsenameasthmaivorydietabsorb |  
+| bip_39_word_no_space_2 | pleaserough |  
+| bip_39_word_no_space_3 | pleaseroughtrain |  
+| bip_39_word_no_space_4 | pleaseroughtrainshine |  
+| bip_39_word_no_space_5 | pleaseroughtrainshinedust |  
+| bip_39_word_no_space_6 | pleaseroughtrainshinedustsnake |  
+| bip_39_word_no_space_7 | pleaseroughtrainshinedustsnakehorse |  
+| bip_39_word_no_space_8 | pleaseroughtrainshinedustsnakehorsename |  
+| bip_39_word_no_space_9 | pleaseroughtrainshinedustsnakehorsenameasthma |  
 | bip_39_word_space_0 | ['please', 'rough', 'train', 'shine', 'dust', 'snake', 'horse', 'name', 'asthma', 'ivory', 'diet', 'absorb'] |  
 | bip_39_word_space_1 | please |  
 | bip_39_word_space_10 | please rough train shine dust snake horse name asthma ivory |  

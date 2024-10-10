@@ -122,6 +122,18 @@ flat
 agree
 nasty
 slogan |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | cheflicensegatherslimchickenflatagreenastysloganmove |  
+| bip_39_word_no_space_11 | cheflicensegatherslimchickenflatagreenastysloganmovegood |  
+| bip_39_word_no_space_12 | cheflicensegatherslimchickenflatagreenastysloganmovegoodaddress |  
+| bip_39_word_no_space_2 | cheflicense |  
+| bip_39_word_no_space_3 | cheflicensegather |  
+| bip_39_word_no_space_4 | cheflicensegatherslim |  
+| bip_39_word_no_space_5 | cheflicensegatherslimchicken |  
+| bip_39_word_no_space_6 | cheflicensegatherslimchickenflat |  
+| bip_39_word_no_space_7 | cheflicensegatherslimchickenflatagree |  
+| bip_39_word_no_space_8 | cheflicensegatherslimchickenflatagreenasty |  
+| bip_39_word_no_space_9 | cheflicensegatherslimchickenflatagreenastyslogan |  
 | bip_39_word_space_0 | ['chef', 'license', 'gather', 'slim', 'chicken', 'flat', 'agree', 'nasty', 'slogan', 'move', 'good', 'address'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef license gather slim chicken flat agree nasty slogan move |  

@@ -122,6 +122,18 @@ scrub
 upper
 melt
 stadium |  
+| bip_39_word_no_space_1 | filter |  
+| bip_39_word_no_space_10 | filteredgereopenforktragicscrubuppermeltstadiumumbrella |  
+| bip_39_word_no_space_11 | filteredgereopenforktragicscrubuppermeltstadiumumbrellamonster |  
+| bip_39_word_no_space_12 | filteredgereopenforktragicscrubuppermeltstadiumumbrellamonsteraddict |  
+| bip_39_word_no_space_2 | filteredge |  
+| bip_39_word_no_space_3 | filteredgereopen |  
+| bip_39_word_no_space_4 | filteredgereopenfork |  
+| bip_39_word_no_space_5 | filteredgereopenforktragic |  
+| bip_39_word_no_space_6 | filteredgereopenforktragicscrub |  
+| bip_39_word_no_space_7 | filteredgereopenforktragicscrubupper |  
+| bip_39_word_no_space_8 | filteredgereopenforktragicscrubuppermelt |  
+| bip_39_word_no_space_9 | filteredgereopenforktragicscrubuppermeltstadium |  
 | bip_39_word_space_0 | ['filter', 'edge', 'reopen', 'fork', 'tragic', 'scrub', 'upper', 'melt', 'stadium', 'umbrella', 'monster', 'addict'] |  
 | bip_39_word_space_1 | filter |  
 | bip_39_word_space_10 | filter edge reopen fork tragic scrub upper melt stadium umbrella |  

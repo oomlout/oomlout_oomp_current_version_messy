@@ -122,6 +122,18 @@ spend
 outside
 found
 arrest |  
+| bip_39_word_no_space_1 | duty |  
+| bip_39_word_no_space_10 | dutyalltorchphrasereflectspendoutsidefoundarresttopic |  
+| bip_39_word_no_space_11 | dutyalltorchphrasereflectspendoutsidefoundarresttopicexecute |  
+| bip_39_word_no_space_12 | dutyalltorchphrasereflectspendoutsidefoundarresttopicexecuteafford |  
+| bip_39_word_no_space_2 | dutyall |  
+| bip_39_word_no_space_3 | dutyalltorch |  
+| bip_39_word_no_space_4 | dutyalltorchphrase |  
+| bip_39_word_no_space_5 | dutyalltorchphrasereflect |  
+| bip_39_word_no_space_6 | dutyalltorchphrasereflectspend |  
+| bip_39_word_no_space_7 | dutyalltorchphrasereflectspendoutside |  
+| bip_39_word_no_space_8 | dutyalltorchphrasereflectspendoutsidefound |  
+| bip_39_word_no_space_9 | dutyalltorchphrasereflectspendoutsidefoundarrest |  
 | bip_39_word_space_0 | ['duty', 'all', 'torch', 'phrase', 'reflect', 'spend', 'outside', 'found', 'arrest', 'topic', 'execute', 'afford'] |  
 | bip_39_word_space_1 | duty |  
 | bip_39_word_space_10 | duty all torch phrase reflect spend outside found arrest topic |  

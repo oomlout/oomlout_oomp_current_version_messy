@@ -122,6 +122,18 @@ slide
 aim
 supply
 cake |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armlisttreemyselfimposeslideaimsupplycakecake |  
+| bip_39_word_no_space_11 | armlisttreemyselfimposeslideaimsupplycakecakecouple |  
+| bip_39_word_no_space_12 | armlisttreemyselfimposeslideaimsupplycakecakecoupleanother |  
+| bip_39_word_no_space_2 | armlist |  
+| bip_39_word_no_space_3 | armlisttree |  
+| bip_39_word_no_space_4 | armlisttreemyself |  
+| bip_39_word_no_space_5 | armlisttreemyselfimpose |  
+| bip_39_word_no_space_6 | armlisttreemyselfimposeslide |  
+| bip_39_word_no_space_7 | armlisttreemyselfimposeslideaim |  
+| bip_39_word_no_space_8 | armlisttreemyselfimposeslideaimsupply |  
+| bip_39_word_no_space_9 | armlisttreemyselfimposeslideaimsupplycake |  
 | bip_39_word_space_0 | ['arm', 'list', 'tree', 'myself', 'impose', 'slide', 'aim', 'supply', 'cake', 'cake', 'couple', 'another'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm list tree myself impose slide aim supply cake cake |  

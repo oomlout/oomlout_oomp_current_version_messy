@@ -122,6 +122,18 @@ junior
 infant
 glue
 else |  
+| bip_39_word_no_space_1 | view |  
+| bip_39_word_no_space_10 | viewfitnessswearexcludecoconutjuniorinfantglueelsepaper |  
+| bip_39_word_no_space_11 | viewfitnessswearexcludecoconutjuniorinfantglueelsepapernorth |  
+| bip_39_word_no_space_12 | viewfitnessswearexcludecoconutjuniorinfantglueelsepapernorthamazing |  
+| bip_39_word_no_space_2 | viewfitness |  
+| bip_39_word_no_space_3 | viewfitnessswear |  
+| bip_39_word_no_space_4 | viewfitnessswearexclude |  
+| bip_39_word_no_space_5 | viewfitnessswearexcludecoconut |  
+| bip_39_word_no_space_6 | viewfitnessswearexcludecoconutjunior |  
+| bip_39_word_no_space_7 | viewfitnessswearexcludecoconutjuniorinfant |  
+| bip_39_word_no_space_8 | viewfitnessswearexcludecoconutjuniorinfantglue |  
+| bip_39_word_no_space_9 | viewfitnessswearexcludecoconutjuniorinfantglueelse |  
 | bip_39_word_space_0 | ['view', 'fitness', 'swear', 'exclude', 'coconut', 'junior', 'infant', 'glue', 'else', 'paper', 'north', 'amazing'] |  
 | bip_39_word_space_1 | view |  
 | bip_39_word_space_10 | view fitness swear exclude coconut junior infant glue else paper |  

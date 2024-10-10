@@ -122,6 +122,18 @@ purse
 forum
 turn
 furnace |  
+| bip_39_word_no_space_1 | city |  
+| bip_39_word_no_space_10 | cityantiquegeniusmirrorportionpurseforumturnfurnacefury |  
+| bip_39_word_no_space_11 | cityantiquegeniusmirrorportionpurseforumturnfurnacefurynotable |  
+| bip_39_word_no_space_12 | cityantiquegeniusmirrorportionpurseforumturnfurnacefurynotableadapt |  
+| bip_39_word_no_space_2 | cityantique |  
+| bip_39_word_no_space_3 | cityantiquegenius |  
+| bip_39_word_no_space_4 | cityantiquegeniusmirror |  
+| bip_39_word_no_space_5 | cityantiquegeniusmirrorportion |  
+| bip_39_word_no_space_6 | cityantiquegeniusmirrorportionpurse |  
+| bip_39_word_no_space_7 | cityantiquegeniusmirrorportionpurseforum |  
+| bip_39_word_no_space_8 | cityantiquegeniusmirrorportionpurseforumturn |  
+| bip_39_word_no_space_9 | cityantiquegeniusmirrorportionpurseforumturnfurnace |  
 | bip_39_word_space_0 | ['city', 'antique', 'genius', 'mirror', 'portion', 'purse', 'forum', 'turn', 'furnace', 'fury', 'notable', 'adapt'] |  
 | bip_39_word_space_1 | city |  
 | bip_39_word_space_10 | city antique genius mirror portion purse forum turn furnace fury |  

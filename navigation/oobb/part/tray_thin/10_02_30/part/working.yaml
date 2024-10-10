@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spin
   matter
 
   flag'
+bip_39_word_no_space_1: spin
+bip_39_word_no_space_10: spinwagonlivetubeframeinmatesecondmatterflagpicnic
+bip_39_word_no_space_11: spinwagonlivetubeframeinmatesecondmatterflagpicnicsell
+bip_39_word_no_space_12: spinwagonlivetubeframeinmatesecondmatterflagpicnicsellarrange
+bip_39_word_no_space_2: spinwagon
+bip_39_word_no_space_3: spinwagonlive
+bip_39_word_no_space_4: spinwagonlivetube
+bip_39_word_no_space_5: spinwagonlivetubeframe
+bip_39_word_no_space_6: spinwagonlivetubeframeinmate
+bip_39_word_no_space_7: spinwagonlivetubeframeinmatesecond
+bip_39_word_no_space_8: spinwagonlivetubeframeinmatesecondmatter
+bip_39_word_no_space_9: spinwagonlivetubeframeinmatesecondmatterflag
 bip_39_word_space_0:
 - spin
 - wagon

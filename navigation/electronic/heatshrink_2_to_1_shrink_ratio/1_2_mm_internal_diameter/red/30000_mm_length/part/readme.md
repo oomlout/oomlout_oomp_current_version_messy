@@ -122,6 +122,18 @@ glove
 wood
 kiss
 angry |  
+| bip_39_word_no_space_1 | dragon |  
+| bip_39_word_no_space_10 | dragonempowerboostmistakebarelyglovewoodkissangryradar |  
+| bip_39_word_no_space_11 | dragonempowerboostmistakebarelyglovewoodkissangryradaredit |  
+| bip_39_word_no_space_12 | dragonempowerboostmistakebarelyglovewoodkissangryradareditavocado |  
+| bip_39_word_no_space_2 | dragonempower |  
+| bip_39_word_no_space_3 | dragonempowerboost |  
+| bip_39_word_no_space_4 | dragonempowerboostmistake |  
+| bip_39_word_no_space_5 | dragonempowerboostmistakebarely |  
+| bip_39_word_no_space_6 | dragonempowerboostmistakebarelyglove |  
+| bip_39_word_no_space_7 | dragonempowerboostmistakebarelyglovewood |  
+| bip_39_word_no_space_8 | dragonempowerboostmistakebarelyglovewoodkiss |  
+| bip_39_word_no_space_9 | dragonempowerboostmistakebarelyglovewoodkissangry |  
 | bip_39_word_space_0 | ['dragon', 'empower', 'boost', 'mistake', 'barely', 'glove', 'wood', 'kiss', 'angry', 'radar', 'edit', 'avocado'] |  
 | bip_39_word_space_1 | dragon |  
 | bip_39_word_space_10 | dragon empower boost mistake barely glove wood kiss angry radar |  

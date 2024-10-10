@@ -122,6 +122,18 @@ again
 expand
 ritual
 resemble |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usageaffordinfanthoodleaveagainexpandritualresembledraw |  
+| bip_39_word_no_space_11 | usageaffordinfanthoodleaveagainexpandritualresembledrawmonth |  
+| bip_39_word_no_space_12 | usageaffordinfanthoodleaveagainexpandritualresembledrawmonthartefact |  
+| bip_39_word_no_space_2 | usageafford |  
+| bip_39_word_no_space_3 | usageaffordinfant |  
+| bip_39_word_no_space_4 | usageaffordinfanthood |  
+| bip_39_word_no_space_5 | usageaffordinfanthoodleave |  
+| bip_39_word_no_space_6 | usageaffordinfanthoodleaveagain |  
+| bip_39_word_no_space_7 | usageaffordinfanthoodleaveagainexpand |  
+| bip_39_word_no_space_8 | usageaffordinfanthoodleaveagainexpandritual |  
+| bip_39_word_no_space_9 | usageaffordinfanthoodleaveagainexpandritualresemble |  
 | bip_39_word_space_0 | ['usage', 'afford', 'infant', 'hood', 'leave', 'again', 'expand', 'ritual', 'resemble', 'draw', 'month', 'artefact'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage afford infant hood leave again expand ritual resemble draw |  

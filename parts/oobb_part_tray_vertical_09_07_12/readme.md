@@ -122,6 +122,18 @@ family
 sick
 predict
 finger |  
+| bip_39_word_no_space_1 | space |  
+| bip_39_word_no_space_10 | spacenextacousticlanguageidentifyfamilysickpredictfingerfat |  
+| bip_39_word_no_space_11 | spacenextacousticlanguageidentifyfamilysickpredictfingerfatwhen |  
+| bip_39_word_no_space_12 | spacenextacousticlanguageidentifyfamilysickpredictfingerfatwhenalmost |  
+| bip_39_word_no_space_2 | spacenext |  
+| bip_39_word_no_space_3 | spacenextacoustic |  
+| bip_39_word_no_space_4 | spacenextacousticlanguage |  
+| bip_39_word_no_space_5 | spacenextacousticlanguageidentify |  
+| bip_39_word_no_space_6 | spacenextacousticlanguageidentifyfamily |  
+| bip_39_word_no_space_7 | spacenextacousticlanguageidentifyfamilysick |  
+| bip_39_word_no_space_8 | spacenextacousticlanguageidentifyfamilysickpredict |  
+| bip_39_word_no_space_9 | spacenextacousticlanguageidentifyfamilysickpredictfinger |  
 | bip_39_word_space_0 | ['space', 'next', 'acoustic', 'language', 'identify', 'family', 'sick', 'predict', 'finger', 'fat', 'when', 'almost'] |  
 | bip_39_word_space_1 | space |  
 | bip_39_word_space_10 | space next acoustic language identify family sick predict finger fat |  

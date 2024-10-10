@@ -122,6 +122,18 @@ peasant
 pill
 shy
 weapon |  
+| bip_39_word_no_space_1 | extra |  
+| bip_39_word_no_space_10 | extrashrugtorchunablecleverpeasantpillshyweaponworth |  
+| bip_39_word_no_space_11 | extrashrugtorchunablecleverpeasantpillshyweaponworthbulb |  
+| bip_39_word_no_space_12 | extrashrugtorchunablecleverpeasantpillshyweaponworthbulbassist |  
+| bip_39_word_no_space_2 | extrashrug |  
+| bip_39_word_no_space_3 | extrashrugtorch |  
+| bip_39_word_no_space_4 | extrashrugtorchunable |  
+| bip_39_word_no_space_5 | extrashrugtorchunableclever |  
+| bip_39_word_no_space_6 | extrashrugtorchunablecleverpeasant |  
+| bip_39_word_no_space_7 | extrashrugtorchunablecleverpeasantpill |  
+| bip_39_word_no_space_8 | extrashrugtorchunablecleverpeasantpillshy |  
+| bip_39_word_no_space_9 | extrashrugtorchunablecleverpeasantpillshyweapon |  
 | bip_39_word_space_0 | ['extra', 'shrug', 'torch', 'unable', 'clever', 'peasant', 'pill', 'shy', 'weapon', 'worth', 'bulb', 'assist'] |  
 | bip_39_word_space_1 | extra |  
 | bip_39_word_space_10 | extra shrug torch unable clever peasant pill shy weapon worth |  

@@ -122,6 +122,18 @@ cave
 champion
 suggest
 dutch |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscuremilliontonguethatwifecavechampionsuggestdutchrural |  
+| bip_39_word_no_space_11 | obscuremilliontonguethatwifecavechampionsuggestdutchruraljob |  
+| bip_39_word_no_space_12 | obscuremilliontonguethatwifecavechampionsuggestdutchruraljobankle |  
+| bip_39_word_no_space_2 | obscuremillion |  
+| bip_39_word_no_space_3 | obscuremilliontongue |  
+| bip_39_word_no_space_4 | obscuremilliontonguethat |  
+| bip_39_word_no_space_5 | obscuremilliontonguethatwife |  
+| bip_39_word_no_space_6 | obscuremilliontonguethatwifecave |  
+| bip_39_word_no_space_7 | obscuremilliontonguethatwifecavechampion |  
+| bip_39_word_no_space_8 | obscuremilliontonguethatwifecavechampionsuggest |  
+| bip_39_word_no_space_9 | obscuremilliontonguethatwifecavechampionsuggestdutch |  
 | bip_39_word_space_0 | ['obscure', 'million', 'tongue', 'that', 'wife', 'cave', 'champion', 'suggest', 'dutch', 'rural', 'job', 'ankle'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure million tongue that wife cave champion suggest dutch rural |  

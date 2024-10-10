@@ -122,6 +122,18 @@ ancient
 seminar
 crush
 chuckle |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyaldistancesleeptravelaccountancientseminarcrushchuckleten |  
+| bip_39_word_no_space_11 | loyaldistancesleeptravelaccountancientseminarcrushchuckletenfoot |  
+| bip_39_word_no_space_12 | loyaldistancesleeptravelaccountancientseminarcrushchuckletenfootargue |  
+| bip_39_word_no_space_2 | loyaldistance |  
+| bip_39_word_no_space_3 | loyaldistancesleep |  
+| bip_39_word_no_space_4 | loyaldistancesleeptravel |  
+| bip_39_word_no_space_5 | loyaldistancesleeptravelaccount |  
+| bip_39_word_no_space_6 | loyaldistancesleeptravelaccountancient |  
+| bip_39_word_no_space_7 | loyaldistancesleeptravelaccountancientseminar |  
+| bip_39_word_no_space_8 | loyaldistancesleeptravelaccountancientseminarcrush |  
+| bip_39_word_no_space_9 | loyaldistancesleeptravelaccountancientseminarcrushchuckle |  
 | bip_39_word_space_0 | ['loyal', 'distance', 'sleep', 'travel', 'account', 'ancient', 'seminar', 'crush', 'chuckle', 'ten', 'foot', 'argue'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal distance sleep travel account ancient seminar crush chuckle ten |  

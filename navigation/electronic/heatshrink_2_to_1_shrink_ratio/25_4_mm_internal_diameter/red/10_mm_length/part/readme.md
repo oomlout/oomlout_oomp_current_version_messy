@@ -122,6 +122,18 @@ blast
 tunnel
 fruit
 nasty |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familypartytodayjeweltransferblasttunnelfruitnastyproject |  
+| bip_39_word_no_space_11 | familypartytodayjeweltransferblasttunnelfruitnastyprojectshoot |  
+| bip_39_word_no_space_12 | familypartytodayjeweltransferblasttunnelfruitnastyprojectshootalready |  
+| bip_39_word_no_space_2 | familyparty |  
+| bip_39_word_no_space_3 | familypartytoday |  
+| bip_39_word_no_space_4 | familypartytodayjewel |  
+| bip_39_word_no_space_5 | familypartytodayjeweltransfer |  
+| bip_39_word_no_space_6 | familypartytodayjeweltransferblast |  
+| bip_39_word_no_space_7 | familypartytodayjeweltransferblasttunnel |  
+| bip_39_word_no_space_8 | familypartytodayjeweltransferblasttunnelfruit |  
+| bip_39_word_no_space_9 | familypartytodayjeweltransferblasttunnelfruitnasty |  
 | bip_39_word_space_0 | ['family', 'party', 'today', 'jewel', 'transfer', 'blast', 'tunnel', 'fruit', 'nasty', 'project', 'shoot', 'already'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family party today jewel transfer blast tunnel fruit nasty project |  

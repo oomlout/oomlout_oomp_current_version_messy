@@ -122,6 +122,18 @@ bar
 refuse
 guess
 diagram |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstblanketpeacecolumnbadgebarrefuseguessdiagramgenius |  
+| bip_39_word_no_space_11 | burstblanketpeacecolumnbadgebarrefuseguessdiagramgeniusmirror |  
+| bip_39_word_no_space_12 | burstblanketpeacecolumnbadgebarrefuseguessdiagramgeniusmirroravocado |  
+| bip_39_word_no_space_2 | burstblanket |  
+| bip_39_word_no_space_3 | burstblanketpeace |  
+| bip_39_word_no_space_4 | burstblanketpeacecolumn |  
+| bip_39_word_no_space_5 | burstblanketpeacecolumnbadge |  
+| bip_39_word_no_space_6 | burstblanketpeacecolumnbadgebar |  
+| bip_39_word_no_space_7 | burstblanketpeacecolumnbadgebarrefuse |  
+| bip_39_word_no_space_8 | burstblanketpeacecolumnbadgebarrefuseguess |  
+| bip_39_word_no_space_9 | burstblanketpeacecolumnbadgebarrefuseguessdiagram |  
 | bip_39_word_space_0 | ['burst', 'blanket', 'peace', 'column', 'badge', 'bar', 'refuse', 'guess', 'diagram', 'genius', 'mirror', 'avocado'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst blanket peace column badge bar refuse guess diagram genius |  

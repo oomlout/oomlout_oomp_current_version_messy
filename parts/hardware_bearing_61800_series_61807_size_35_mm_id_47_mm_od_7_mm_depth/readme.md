@@ -122,6 +122,18 @@ opera
 accident
 enemy
 room |  
+| bip_39_word_no_space_1 | slam |  
+| bip_39_word_no_space_10 | slamvoyageabsentsnapallowoperaaccidentenemyroomkitchen |  
+| bip_39_word_no_space_11 | slamvoyageabsentsnapallowoperaaccidentenemyroomkitchenwife |  
+| bip_39_word_no_space_12 | slamvoyageabsentsnapallowoperaaccidentenemyroomkitchenwifeabuse |  
+| bip_39_word_no_space_2 | slamvoyage |  
+| bip_39_word_no_space_3 | slamvoyageabsent |  
+| bip_39_word_no_space_4 | slamvoyageabsentsnap |  
+| bip_39_word_no_space_5 | slamvoyageabsentsnapallow |  
+| bip_39_word_no_space_6 | slamvoyageabsentsnapallowopera |  
+| bip_39_word_no_space_7 | slamvoyageabsentsnapallowoperaaccident |  
+| bip_39_word_no_space_8 | slamvoyageabsentsnapallowoperaaccidentenemy |  
+| bip_39_word_no_space_9 | slamvoyageabsentsnapallowoperaaccidentenemyroom |  
 | bip_39_word_space_0 | ['slam', 'voyage', 'absent', 'snap', 'allow', 'opera', 'accident', 'enemy', 'room', 'kitchen', 'wife', 'abuse'] |  
 | bip_39_word_space_1 | slam |  
 | bip_39_word_space_10 | slam voyage absent snap allow opera accident enemy room kitchen |  

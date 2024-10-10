@@ -122,6 +122,18 @@ wheat
 jealous
 diagram
 cage |  
+| bip_39_word_no_space_1 | raven |  
+| bip_39_word_no_space_10 | ravenflyteachenrollarmywheatjealousdiagramcageyear |  
+| bip_39_word_no_space_11 | ravenflyteachenrollarmywheatjealousdiagramcageyearopen |  
+| bip_39_word_no_space_12 | ravenflyteachenrollarmywheatjealousdiagramcageyearopenapril |  
+| bip_39_word_no_space_2 | ravenfly |  
+| bip_39_word_no_space_3 | ravenflyteach |  
+| bip_39_word_no_space_4 | ravenflyteachenroll |  
+| bip_39_word_no_space_5 | ravenflyteachenrollarmy |  
+| bip_39_word_no_space_6 | ravenflyteachenrollarmywheat |  
+| bip_39_word_no_space_7 | ravenflyteachenrollarmywheatjealous |  
+| bip_39_word_no_space_8 | ravenflyteachenrollarmywheatjealousdiagram |  
+| bip_39_word_no_space_9 | ravenflyteachenrollarmywheatjealousdiagramcage |  
 | bip_39_word_space_0 | ['raven', 'fly', 'teach', 'enroll', 'army', 'wheat', 'jealous', 'diagram', 'cage', 'year', 'open', 'april'] |  
 | bip_39_word_space_1 | raven |  
 | bip_39_word_space_10 | raven fly teach enroll army wheat jealous diagram cage year |  

@@ -122,6 +122,18 @@ improve
 oppose
 guess
 dynamic |  
+| bip_39_word_no_space_1 | wreck |  
+| bip_39_word_no_space_10 | wrecksolutionfuryinvitebookimproveopposeguessdynamiccarpet |  
+| bip_39_word_no_space_11 | wrecksolutionfuryinvitebookimproveopposeguessdynamiccarpetwish |  
+| bip_39_word_no_space_12 | wrecksolutionfuryinvitebookimproveopposeguessdynamiccarpetwishafford |  
+| bip_39_word_no_space_2 | wrecksolution |  
+| bip_39_word_no_space_3 | wrecksolutionfury |  
+| bip_39_word_no_space_4 | wrecksolutionfuryinvite |  
+| bip_39_word_no_space_5 | wrecksolutionfuryinvitebook |  
+| bip_39_word_no_space_6 | wrecksolutionfuryinvitebookimprove |  
+| bip_39_word_no_space_7 | wrecksolutionfuryinvitebookimproveoppose |  
+| bip_39_word_no_space_8 | wrecksolutionfuryinvitebookimproveopposeguess |  
+| bip_39_word_no_space_9 | wrecksolutionfuryinvitebookimproveopposeguessdynamic |  
 | bip_39_word_space_0 | ['wreck', 'solution', 'fury', 'invite', 'book', 'improve', 'oppose', 'guess', 'dynamic', 'carpet', 'wish', 'afford'] |  
 | bip_39_word_space_1 | wreck |  
 | bip_39_word_space_10 | wreck solution fury invite book improve oppose guess dynamic carpet |  

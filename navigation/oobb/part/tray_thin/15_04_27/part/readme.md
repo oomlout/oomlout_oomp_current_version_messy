@@ -122,6 +122,18 @@ muffin
 reunion
 steak
 worth |  
+| bip_39_word_no_space_1 | barely |  
+| bip_39_word_no_space_10 | barelyloungehotelpanthercaughtmuffinreunionsteakworthexplain |  
+| bip_39_word_no_space_11 | barelyloungehotelpanthercaughtmuffinreunionsteakworthexplaintail |  
+| bip_39_word_no_space_12 | barelyloungehotelpanthercaughtmuffinreunionsteakworthexplaintailabstract |  
+| bip_39_word_no_space_2 | barelylounge |  
+| bip_39_word_no_space_3 | barelyloungehotel |  
+| bip_39_word_no_space_4 | barelyloungehotelpanther |  
+| bip_39_word_no_space_5 | barelyloungehotelpanthercaught |  
+| bip_39_word_no_space_6 | barelyloungehotelpanthercaughtmuffin |  
+| bip_39_word_no_space_7 | barelyloungehotelpanthercaughtmuffinreunion |  
+| bip_39_word_no_space_8 | barelyloungehotelpanthercaughtmuffinreunionsteak |  
+| bip_39_word_no_space_9 | barelyloungehotelpanthercaughtmuffinreunionsteakworth |  
 | bip_39_word_space_0 | ['barely', 'lounge', 'hotel', 'panther', 'caught', 'muffin', 'reunion', 'steak', 'worth', 'explain', 'tail', 'abstract'] |  
 | bip_39_word_space_1 | barely |  
 | bip_39_word_space_10 | barely lounge hotel panther caught muffin reunion steak worth explain |  

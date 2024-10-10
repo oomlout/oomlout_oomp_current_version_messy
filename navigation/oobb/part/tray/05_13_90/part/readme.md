@@ -122,6 +122,18 @@ grunt
 ordinary
 eye
 shuffle |  
+| bip_39_word_no_space_1 | love |  
+| bip_39_word_no_space_10 | lovecabbagewhisperuniversegymgruntordinaryeyeshuffleessence |  
+| bip_39_word_no_space_11 | lovecabbagewhisperuniversegymgruntordinaryeyeshuffleessencejoy |  
+| bip_39_word_no_space_12 | lovecabbagewhisperuniversegymgruntordinaryeyeshuffleessencejoyage |  
+| bip_39_word_no_space_2 | lovecabbage |  
+| bip_39_word_no_space_3 | lovecabbagewhisper |  
+| bip_39_word_no_space_4 | lovecabbagewhisperuniverse |  
+| bip_39_word_no_space_5 | lovecabbagewhisperuniversegym |  
+| bip_39_word_no_space_6 | lovecabbagewhisperuniversegymgrunt |  
+| bip_39_word_no_space_7 | lovecabbagewhisperuniversegymgruntordinary |  
+| bip_39_word_no_space_8 | lovecabbagewhisperuniversegymgruntordinaryeye |  
+| bip_39_word_no_space_9 | lovecabbagewhisperuniversegymgruntordinaryeyeshuffle |  
 | bip_39_word_space_0 | ['love', 'cabbage', 'whisper', 'universe', 'gym', 'grunt', 'ordinary', 'eye', 'shuffle', 'essence', 'joy', 'age'] |  
 | bip_39_word_space_1 | love |  
 | bip_39_word_space_10 | love cabbage whisper universe gym grunt ordinary eye shuffle essence |  

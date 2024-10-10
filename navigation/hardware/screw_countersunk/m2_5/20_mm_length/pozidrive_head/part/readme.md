@@ -122,6 +122,18 @@ yellow
 medal
 skill
 hockey |  
+| bip_39_word_no_space_1 | upper |  
+| bip_39_word_no_space_10 | uppergaingrainhusbandphotoyellowmedalskillhockeyquantum |  
+| bip_39_word_no_space_11 | uppergaingrainhusbandphotoyellowmedalskillhockeyquantumhungry |  
+| bip_39_word_no_space_12 | uppergaingrainhusbandphotoyellowmedalskillhockeyquantumhungryappear |  
+| bip_39_word_no_space_2 | uppergain |  
+| bip_39_word_no_space_3 | uppergaingrain |  
+| bip_39_word_no_space_4 | uppergaingrainhusband |  
+| bip_39_word_no_space_5 | uppergaingrainhusbandphoto |  
+| bip_39_word_no_space_6 | uppergaingrainhusbandphotoyellow |  
+| bip_39_word_no_space_7 | uppergaingrainhusbandphotoyellowmedal |  
+| bip_39_word_no_space_8 | uppergaingrainhusbandphotoyellowmedalskill |  
+| bip_39_word_no_space_9 | uppergaingrainhusbandphotoyellowmedalskillhockey |  
 | bip_39_word_space_0 | ['upper', 'gain', 'grain', 'husband', 'photo', 'yellow', 'medal', 'skill', 'hockey', 'quantum', 'hungry', 'appear'] |  
 | bip_39_word_space_1 | upper |  
 | bip_39_word_space_10 | upper gain grain husband photo yellow medal skill hockey quantum |  

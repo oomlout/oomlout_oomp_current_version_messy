@@ -122,6 +122,18 @@ lamp
 quiz
 scorpion
 quarter |  
+| bip_39_word_no_space_1 | keep |  
+| bip_39_word_no_space_10 | keephopeclaimgingerimmenselampquizscorpionquarterproperty |  
+| bip_39_word_no_space_11 | keephopeclaimgingerimmenselampquizscorpionquarterpropertyisland |  
+| bip_39_word_no_space_12 | keephopeclaimgingerimmenselampquizscorpionquarterpropertyislandairport |  
+| bip_39_word_no_space_2 | keephope |  
+| bip_39_word_no_space_3 | keephopeclaim |  
+| bip_39_word_no_space_4 | keephopeclaimginger |  
+| bip_39_word_no_space_5 | keephopeclaimgingerimmense |  
+| bip_39_word_no_space_6 | keephopeclaimgingerimmenselamp |  
+| bip_39_word_no_space_7 | keephopeclaimgingerimmenselampquiz |  
+| bip_39_word_no_space_8 | keephopeclaimgingerimmenselampquizscorpion |  
+| bip_39_word_no_space_9 | keephopeclaimgingerimmenselampquizscorpionquarter |  
 | bip_39_word_space_0 | ['keep', 'hope', 'claim', 'ginger', 'immense', 'lamp', 'quiz', 'scorpion', 'quarter', 'property', 'island', 'airport'] |  
 | bip_39_word_space_1 | keep |  
 | bip_39_word_space_10 | keep hope claim ginger immense lamp quiz scorpion quarter property |  

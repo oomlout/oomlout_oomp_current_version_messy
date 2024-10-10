@@ -122,6 +122,18 @@ trap
 upset
 auto
 must |  
+| bip_39_word_no_space_1 | body |  
+| bip_39_word_no_space_10 | bodyrazorloadeyevoyagetrapupsetautomustmoon |  
+| bip_39_word_no_space_11 | bodyrazorloadeyevoyagetrapupsetautomustmooncradle |  
+| bip_39_word_no_space_12 | bodyrazorloadeyevoyagetrapupsetautomustmooncradleasset |  
+| bip_39_word_no_space_2 | bodyrazor |  
+| bip_39_word_no_space_3 | bodyrazorload |  
+| bip_39_word_no_space_4 | bodyrazorloadeye |  
+| bip_39_word_no_space_5 | bodyrazorloadeyevoyage |  
+| bip_39_word_no_space_6 | bodyrazorloadeyevoyagetrap |  
+| bip_39_word_no_space_7 | bodyrazorloadeyevoyagetrapupset |  
+| bip_39_word_no_space_8 | bodyrazorloadeyevoyagetrapupsetauto |  
+| bip_39_word_no_space_9 | bodyrazorloadeyevoyagetrapupsetautomust |  
 | bip_39_word_space_0 | ['body', 'razor', 'load', 'eye', 'voyage', 'trap', 'upset', 'auto', 'must', 'moon', 'cradle', 'asset'] |  
 | bip_39_word_space_1 | body |  
 | bip_39_word_space_10 | body razor load eye voyage trap upset auto must moon |  

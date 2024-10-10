@@ -122,6 +122,18 @@ inch
 skirt
 follow
 board |  
+| bip_39_word_no_space_1 | crumble |  
+| bip_39_word_no_space_10 | crumbleslicefindbuddycourseinchskirtfollowboardgiraffe |  
+| bip_39_word_no_space_11 | crumbleslicefindbuddycourseinchskirtfollowboardgiraffefringe |  
+| bip_39_word_no_space_12 | crumbleslicefindbuddycourseinchskirtfollowboardgiraffefringeangry |  
+| bip_39_word_no_space_2 | crumbleslice |  
+| bip_39_word_no_space_3 | crumbleslicefind |  
+| bip_39_word_no_space_4 | crumbleslicefindbuddy |  
+| bip_39_word_no_space_5 | crumbleslicefindbuddycourse |  
+| bip_39_word_no_space_6 | crumbleslicefindbuddycourseinch |  
+| bip_39_word_no_space_7 | crumbleslicefindbuddycourseinchskirt |  
+| bip_39_word_no_space_8 | crumbleslicefindbuddycourseinchskirtfollow |  
+| bip_39_word_no_space_9 | crumbleslicefindbuddycourseinchskirtfollowboard |  
 | bip_39_word_space_0 | ['crumble', 'slice', 'find', 'buddy', 'course', 'inch', 'skirt', 'follow', 'board', 'giraffe', 'fringe', 'angry'] |  
 | bip_39_word_space_1 | crumble |  
 | bip_39_word_space_10 | crumble slice find buddy course inch skirt follow board giraffe |  

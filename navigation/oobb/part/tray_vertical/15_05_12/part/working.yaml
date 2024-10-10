@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'buzz
   urge
 
   setup'
+bip_39_word_no_space_1: buzz
+bip_39_word_no_space_10: buzzoncepoolacrosszebraacidhearturgesetupforest
+bip_39_word_no_space_11: buzzoncepoolacrosszebraacidhearturgesetupforestmixture
+bip_39_word_no_space_12: buzzoncepoolacrosszebraacidhearturgesetupforestmixtureacid
+bip_39_word_no_space_2: buzzonce
+bip_39_word_no_space_3: buzzoncepool
+bip_39_word_no_space_4: buzzoncepoolacross
+bip_39_word_no_space_5: buzzoncepoolacrosszebra
+bip_39_word_no_space_6: buzzoncepoolacrosszebraacid
+bip_39_word_no_space_7: buzzoncepoolacrosszebraacidheart
+bip_39_word_no_space_8: buzzoncepoolacrosszebraacidhearturge
+bip_39_word_no_space_9: buzzoncepoolacrosszebraacidhearturgesetup
 bip_39_word_space_0:
 - buzz
 - once

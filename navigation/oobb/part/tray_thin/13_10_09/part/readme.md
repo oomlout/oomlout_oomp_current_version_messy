@@ -122,6 +122,18 @@ valid
 cream
 cloth
 oven |  
+| bip_39_word_no_space_1 | account |  
+| bip_39_word_no_space_10 | accountdifferlovenoselegalvalidcreamclothovencupboard |  
+| bip_39_word_no_space_11 | accountdifferlovenoselegalvalidcreamclothovencupboardoyster |  
+| bip_39_word_no_space_12 | accountdifferlovenoselegalvalidcreamclothovencupboardoysterauto |  
+| bip_39_word_no_space_2 | accountdiffer |  
+| bip_39_word_no_space_3 | accountdifferlove |  
+| bip_39_word_no_space_4 | accountdifferlovenose |  
+| bip_39_word_no_space_5 | accountdifferlovenoselegal |  
+| bip_39_word_no_space_6 | accountdifferlovenoselegalvalid |  
+| bip_39_word_no_space_7 | accountdifferlovenoselegalvalidcream |  
+| bip_39_word_no_space_8 | accountdifferlovenoselegalvalidcreamcloth |  
+| bip_39_word_no_space_9 | accountdifferlovenoselegalvalidcreamclothoven |  
 | bip_39_word_space_0 | ['account', 'differ', 'love', 'nose', 'legal', 'valid', 'cream', 'cloth', 'oven', 'cupboard', 'oyster', 'auto'] |  
 | bip_39_word_space_1 | account |  
 | bip_39_word_space_10 | account differ love nose legal valid cream cloth oven cupboard |  

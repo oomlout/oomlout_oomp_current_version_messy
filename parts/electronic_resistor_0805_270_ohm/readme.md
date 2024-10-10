@@ -122,6 +122,18 @@ job
 leopard
 divert
 battle |  
+| bip_39_word_no_space_1 | blush |  
+| bip_39_word_no_space_10 | blushrealrailpatientwingjobleoparddivertbattlethumb |  
+| bip_39_word_no_space_11 | blushrealrailpatientwingjobleoparddivertbattlethumbthrow |  
+| bip_39_word_no_space_12 | blushrealrailpatientwingjobleoparddivertbattlethumbthrowaunt |  
+| bip_39_word_no_space_2 | blushreal |  
+| bip_39_word_no_space_3 | blushrealrail |  
+| bip_39_word_no_space_4 | blushrealrailpatient |  
+| bip_39_word_no_space_5 | blushrealrailpatientwing |  
+| bip_39_word_no_space_6 | blushrealrailpatientwingjob |  
+| bip_39_word_no_space_7 | blushrealrailpatientwingjobleopard |  
+| bip_39_word_no_space_8 | blushrealrailpatientwingjobleoparddivert |  
+| bip_39_word_no_space_9 | blushrealrailpatientwingjobleoparddivertbattle |  
 | bip_39_word_space_0 | ['blush', 'real', 'rail', 'patient', 'wing', 'job', 'leopard', 'divert', 'battle', 'thumb', 'throw', 'aunt'] |  
 | bip_39_word_space_1 | blush |  
 | bip_39_word_space_10 | blush real rail patient wing job leopard divert battle thumb |  

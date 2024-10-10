@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tide
   mind
 
   cotton'
+bip_39_word_no_space_1: tide
+bip_39_word_no_space_10: tidevaguemangivebasetoddlerreleasemindcottonowner
+bip_39_word_no_space_11: tidevaguemangivebasetoddlerreleasemindcottonownerlab
+bip_39_word_no_space_12: tidevaguemangivebasetoddlerreleasemindcottonownerlabarrow
+bip_39_word_no_space_2: tidevague
+bip_39_word_no_space_3: tidevagueman
+bip_39_word_no_space_4: tidevaguemangive
+bip_39_word_no_space_5: tidevaguemangivebase
+bip_39_word_no_space_6: tidevaguemangivebasetoddler
+bip_39_word_no_space_7: tidevaguemangivebasetoddlerrelease
+bip_39_word_no_space_8: tidevaguemangivebasetoddlerreleasemind
+bip_39_word_no_space_9: tidevaguemangivebasetoddlerreleasemindcotton
 bip_39_word_space_0:
 - tide
 - vague

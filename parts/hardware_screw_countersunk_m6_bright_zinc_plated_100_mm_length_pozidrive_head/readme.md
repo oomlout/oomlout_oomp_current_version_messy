@@ -122,6 +122,18 @@ pottery
 rude
 art
 account |  
+| bip_39_word_no_space_1 | predict |  
+| bip_39_word_no_space_10 | predictcatchpillspinspiderpotteryrudeartaccountnest |  
+| bip_39_word_no_space_11 | predictcatchpillspinspiderpotteryrudeartaccountnestterm |  
+| bip_39_word_no_space_12 | predictcatchpillspinspiderpotteryrudeartaccountnesttermasset |  
+| bip_39_word_no_space_2 | predictcatch |  
+| bip_39_word_no_space_3 | predictcatchpill |  
+| bip_39_word_no_space_4 | predictcatchpillspin |  
+| bip_39_word_no_space_5 | predictcatchpillspinspider |  
+| bip_39_word_no_space_6 | predictcatchpillspinspiderpottery |  
+| bip_39_word_no_space_7 | predictcatchpillspinspiderpotteryrude |  
+| bip_39_word_no_space_8 | predictcatchpillspinspiderpotteryrudeart |  
+| bip_39_word_no_space_9 | predictcatchpillspinspiderpotteryrudeartaccount |  
 | bip_39_word_space_0 | ['predict', 'catch', 'pill', 'spin', 'spider', 'pottery', 'rude', 'art', 'account', 'nest', 'term', 'asset'] |  
 | bip_39_word_space_1 | predict |  
 | bip_39_word_space_10 | predict catch pill spin spider pottery rude art account nest |  

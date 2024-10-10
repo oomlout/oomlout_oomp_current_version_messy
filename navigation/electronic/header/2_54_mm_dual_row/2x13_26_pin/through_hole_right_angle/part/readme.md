@@ -122,6 +122,18 @@ noodle
 quarter
 wrestle
 assault |  
+| bip_39_word_no_space_1 | lava |  
+| bip_39_word_no_space_10 | lavaclerksparemovejealousnoodlequarterwrestleassaultscript |  
+| bip_39_word_no_space_11 | lavaclerksparemovejealousnoodlequarterwrestleassaultscriptsenior |  
+| bip_39_word_no_space_12 | lavaclerksparemovejealousnoodlequarterwrestleassaultscriptsenioraddress |  
+| bip_39_word_no_space_2 | lavaclerk |  
+| bip_39_word_no_space_3 | lavaclerkspare |  
+| bip_39_word_no_space_4 | lavaclerksparemove |  
+| bip_39_word_no_space_5 | lavaclerksparemovejealous |  
+| bip_39_word_no_space_6 | lavaclerksparemovejealousnoodle |  
+| bip_39_word_no_space_7 | lavaclerksparemovejealousnoodlequarter |  
+| bip_39_word_no_space_8 | lavaclerksparemovejealousnoodlequarterwrestle |  
+| bip_39_word_no_space_9 | lavaclerksparemovejealousnoodlequarterwrestleassault |  
 | bip_39_word_space_0 | ['lava', 'clerk', 'spare', 'move', 'jealous', 'noodle', 'quarter', 'wrestle', 'assault', 'script', 'senior', 'address'] |  
 | bip_39_word_space_1 | lava |  
 | bip_39_word_space_10 | lava clerk spare move jealous noodle quarter wrestle assault script |  

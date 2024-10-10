@@ -122,6 +122,18 @@ notable
 record
 cook
 surface |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotterynosefinebuddyunfairnotablerecordcooksurfaceunfair |  
+| bip_39_word_no_space_11 | lotterynosefinebuddyunfairnotablerecordcooksurfaceunfairempower |  
+| bip_39_word_no_space_12 | lotterynosefinebuddyunfairnotablerecordcooksurfaceunfairempoweranimal |  
+| bip_39_word_no_space_2 | lotterynose |  
+| bip_39_word_no_space_3 | lotterynosefine |  
+| bip_39_word_no_space_4 | lotterynosefinebuddy |  
+| bip_39_word_no_space_5 | lotterynosefinebuddyunfair |  
+| bip_39_word_no_space_6 | lotterynosefinebuddyunfairnotable |  
+| bip_39_word_no_space_7 | lotterynosefinebuddyunfairnotablerecord |  
+| bip_39_word_no_space_8 | lotterynosefinebuddyunfairnotablerecordcook |  
+| bip_39_word_no_space_9 | lotterynosefinebuddyunfairnotablerecordcooksurface |  
 | bip_39_word_space_0 | ['lottery', 'nose', 'fine', 'buddy', 'unfair', 'notable', 'record', 'cook', 'surface', 'unfair', 'empower', 'animal'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery nose fine buddy unfair notable record cook surface unfair |  

@@ -122,6 +122,18 @@ doll
 bargain
 traffic
 gown |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relymuseumbroccolistablevariousdollbargaintrafficgowndocument |  
+| bip_39_word_no_space_11 | relymuseumbroccolistablevariousdollbargaintrafficgowndocumentjacket |  
+| bip_39_word_no_space_12 | relymuseumbroccolistablevariousdollbargaintrafficgowndocumentjacketarena |  
+| bip_39_word_no_space_2 | relymuseum |  
+| bip_39_word_no_space_3 | relymuseumbroccoli |  
+| bip_39_word_no_space_4 | relymuseumbroccolistable |  
+| bip_39_word_no_space_5 | relymuseumbroccolistablevarious |  
+| bip_39_word_no_space_6 | relymuseumbroccolistablevariousdoll |  
+| bip_39_word_no_space_7 | relymuseumbroccolistablevariousdollbargain |  
+| bip_39_word_no_space_8 | relymuseumbroccolistablevariousdollbargaintraffic |  
+| bip_39_word_no_space_9 | relymuseumbroccolistablevariousdollbargaintrafficgown |  
 | bip_39_word_space_0 | ['rely', 'museum', 'broccoli', 'stable', 'various', 'doll', 'bargain', 'traffic', 'gown', 'document', 'jacket', 'arena'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely museum broccoli stable various doll bargain traffic gown document |  

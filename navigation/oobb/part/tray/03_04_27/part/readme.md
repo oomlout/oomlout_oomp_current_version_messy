@@ -122,6 +122,18 @@ tribe
 system
 milk
 unfair |  
+| bip_39_word_no_space_1 | deposit |  
+| bip_39_word_no_space_10 | deposithugeheightimitatebegintribesystemmilkunfairwear |  
+| bip_39_word_no_space_11 | deposithugeheightimitatebegintribesystemmilkunfairwearstrategy |  
+| bip_39_word_no_space_12 | deposithugeheightimitatebegintribesystemmilkunfairwearstrategyalways |  
+| bip_39_word_no_space_2 | deposithuge |  
+| bip_39_word_no_space_3 | deposithugeheight |  
+| bip_39_word_no_space_4 | deposithugeheightimitate |  
+| bip_39_word_no_space_5 | deposithugeheightimitatebegin |  
+| bip_39_word_no_space_6 | deposithugeheightimitatebegintribe |  
+| bip_39_word_no_space_7 | deposithugeheightimitatebegintribesystem |  
+| bip_39_word_no_space_8 | deposithugeheightimitatebegintribesystemmilk |  
+| bip_39_word_no_space_9 | deposithugeheightimitatebegintribesystemmilkunfair |  
 | bip_39_word_space_0 | ['deposit', 'huge', 'height', 'imitate', 'begin', 'tribe', 'system', 'milk', 'unfair', 'wear', 'strategy', 'always'] |  
 | bip_39_word_space_1 | deposit |  
 | bip_39_word_space_10 | deposit huge height imitate begin tribe system milk unfair wear |  

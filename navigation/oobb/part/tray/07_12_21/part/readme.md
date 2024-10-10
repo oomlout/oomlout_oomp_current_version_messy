@@ -122,6 +122,18 @@ genre
 finger
 catch
 pyramid |  
+| bip_39_word_no_space_1 | talk |  
+| bip_39_word_no_space_10 | talkpostargueouterwhengenrefingercatchpyramidrazor |  
+| bip_39_word_no_space_11 | talkpostargueouterwhengenrefingercatchpyramidrazoragree |  
+| bip_39_word_no_space_12 | talkpostargueouterwhengenrefingercatchpyramidrazoragreeapple |  
+| bip_39_word_no_space_2 | talkpost |  
+| bip_39_word_no_space_3 | talkpostargue |  
+| bip_39_word_no_space_4 | talkpostargueouter |  
+| bip_39_word_no_space_5 | talkpostargueouterwhen |  
+| bip_39_word_no_space_6 | talkpostargueouterwhengenre |  
+| bip_39_word_no_space_7 | talkpostargueouterwhengenrefinger |  
+| bip_39_word_no_space_8 | talkpostargueouterwhengenrefingercatch |  
+| bip_39_word_no_space_9 | talkpostargueouterwhengenrefingercatchpyramid |  
 | bip_39_word_space_0 | ['talk', 'post', 'argue', 'outer', 'when', 'genre', 'finger', 'catch', 'pyramid', 'razor', 'agree', 'apple'] |  
 | bip_39_word_space_1 | talk |  
 | bip_39_word_space_10 | talk post argue outer when genre finger catch pyramid razor |  

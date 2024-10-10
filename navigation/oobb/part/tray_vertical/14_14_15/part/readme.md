@@ -122,6 +122,18 @@ company
 today
 pause
 ship |  
+| bip_39_word_no_space_1 | parent |  
+| bip_39_word_no_space_10 | parentskullpovertybachelorfinishcompanytodaypauseshipliquid |  
+| bip_39_word_no_space_11 | parentskullpovertybachelorfinishcompanytodaypauseshipliquidhole |  
+| bip_39_word_no_space_12 | parentskullpovertybachelorfinishcompanytodaypauseshipliquidholealways |  
+| bip_39_word_no_space_2 | parentskull |  
+| bip_39_word_no_space_3 | parentskullpoverty |  
+| bip_39_word_no_space_4 | parentskullpovertybachelor |  
+| bip_39_word_no_space_5 | parentskullpovertybachelorfinish |  
+| bip_39_word_no_space_6 | parentskullpovertybachelorfinishcompany |  
+| bip_39_word_no_space_7 | parentskullpovertybachelorfinishcompanytoday |  
+| bip_39_word_no_space_8 | parentskullpovertybachelorfinishcompanytodaypause |  
+| bip_39_word_no_space_9 | parentskullpovertybachelorfinishcompanytodaypauseship |  
 | bip_39_word_space_0 | ['parent', 'skull', 'poverty', 'bachelor', 'finish', 'company', 'today', 'pause', 'ship', 'liquid', 'hole', 'always'] |  
 | bip_39_word_space_1 | parent |  
 | bip_39_word_space_10 | parent skull poverty bachelor finish company today pause ship liquid |  

@@ -122,6 +122,18 @@ dish
 lock
 garlic
 capital |  
+| bip_39_word_no_space_1 | trial |  
+| bip_39_word_no_space_10 | trialvisualimmensedrydaddishlockgarliccapitalbubble |  
+| bip_39_word_no_space_11 | trialvisualimmensedrydaddishlockgarliccapitalbubblebonus |  
+| bip_39_word_no_space_12 | trialvisualimmensedrydaddishlockgarliccapitalbubblebonusalcohol |  
+| bip_39_word_no_space_2 | trialvisual |  
+| bip_39_word_no_space_3 | trialvisualimmense |  
+| bip_39_word_no_space_4 | trialvisualimmensedry |  
+| bip_39_word_no_space_5 | trialvisualimmensedrydad |  
+| bip_39_word_no_space_6 | trialvisualimmensedrydaddish |  
+| bip_39_word_no_space_7 | trialvisualimmensedrydaddishlock |  
+| bip_39_word_no_space_8 | trialvisualimmensedrydaddishlockgarlic |  
+| bip_39_word_no_space_9 | trialvisualimmensedrydaddishlockgarliccapital |  
 | bip_39_word_space_0 | ['trial', 'visual', 'immense', 'dry', 'dad', 'dish', 'lock', 'garlic', 'capital', 'bubble', 'bonus', 'alcohol'] |  
 | bip_39_word_space_1 | trial |  
 | bip_39_word_space_10 | trial visual immense dry dad dish lock garlic capital bubble |  

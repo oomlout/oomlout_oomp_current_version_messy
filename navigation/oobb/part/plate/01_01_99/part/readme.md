@@ -122,6 +122,18 @@ another
 salon
 volume
 autumn |  
+| bip_39_word_no_space_1 | ensure |  
+| bip_39_word_no_space_10 | ensurehappystingreviewguessanothersalonvolumeautumndoll |  
+| bip_39_word_no_space_11 | ensurehappystingreviewguessanothersalonvolumeautumndollprivate |  
+| bip_39_word_no_space_12 | ensurehappystingreviewguessanothersalonvolumeautumndollprivateachieve |  
+| bip_39_word_no_space_2 | ensurehappy |  
+| bip_39_word_no_space_3 | ensurehappysting |  
+| bip_39_word_no_space_4 | ensurehappystingreview |  
+| bip_39_word_no_space_5 | ensurehappystingreviewguess |  
+| bip_39_word_no_space_6 | ensurehappystingreviewguessanother |  
+| bip_39_word_no_space_7 | ensurehappystingreviewguessanothersalon |  
+| bip_39_word_no_space_8 | ensurehappystingreviewguessanothersalonvolume |  
+| bip_39_word_no_space_9 | ensurehappystingreviewguessanothersalonvolumeautumn |  
 | bip_39_word_space_0 | ['ensure', 'happy', 'sting', 'review', 'guess', 'another', 'salon', 'volume', 'autumn', 'doll', 'private', 'achieve'] |  
 | bip_39_word_space_1 | ensure |  
 | bip_39_word_space_10 | ensure happy sting review guess another salon volume autumn doll |  

@@ -122,6 +122,18 @@ loop
 devote
 autumn
 cruel |  
+| bip_39_word_no_space_1 | field |  
+| bip_39_word_no_space_10 | fieldholdholdtuitionquickloopdevoteautumncruelonion |  
+| bip_39_word_no_space_11 | fieldholdholdtuitionquickloopdevoteautumncruelonionnow |  
+| bip_39_word_no_space_12 | fieldholdholdtuitionquickloopdevoteautumncruelonionnowapart |  
+| bip_39_word_no_space_2 | fieldhold |  
+| bip_39_word_no_space_3 | fieldholdhold |  
+| bip_39_word_no_space_4 | fieldholdholdtuition |  
+| bip_39_word_no_space_5 | fieldholdholdtuitionquick |  
+| bip_39_word_no_space_6 | fieldholdholdtuitionquickloop |  
+| bip_39_word_no_space_7 | fieldholdholdtuitionquickloopdevote |  
+| bip_39_word_no_space_8 | fieldholdholdtuitionquickloopdevoteautumn |  
+| bip_39_word_no_space_9 | fieldholdholdtuitionquickloopdevoteautumncruel |  
 | bip_39_word_space_0 | ['field', 'hold', 'hold', 'tuition', 'quick', 'loop', 'devote', 'autumn', 'cruel', 'onion', 'now', 'apart'] |  
 | bip_39_word_space_1 | field |  
 | bip_39_word_space_10 | field hold hold tuition quick loop devote autumn cruel onion |  

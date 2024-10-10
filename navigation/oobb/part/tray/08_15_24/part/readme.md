@@ -122,6 +122,18 @@ hair
 valley
 unit
 decline |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldgiantcushionconcertbrownhairvalleyunitdeclinerocket |  
+| bip_39_word_no_space_11 | oldgiantcushionconcertbrownhairvalleyunitdeclinerocketreopen |  
+| bip_39_word_no_space_12 | oldgiantcushionconcertbrownhairvalleyunitdeclinerocketreopenabstract |  
+| bip_39_word_no_space_2 | oldgiant |  
+| bip_39_word_no_space_3 | oldgiantcushion |  
+| bip_39_word_no_space_4 | oldgiantcushionconcert |  
+| bip_39_word_no_space_5 | oldgiantcushionconcertbrown |  
+| bip_39_word_no_space_6 | oldgiantcushionconcertbrownhair |  
+| bip_39_word_no_space_7 | oldgiantcushionconcertbrownhairvalley |  
+| bip_39_word_no_space_8 | oldgiantcushionconcertbrownhairvalleyunit |  
+| bip_39_word_no_space_9 | oldgiantcushionconcertbrownhairvalleyunitdecline |  
 | bip_39_word_space_0 | ['old', 'giant', 'cushion', 'concert', 'brown', 'hair', 'valley', 'unit', 'decline', 'rocket', 'reopen', 'abstract'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old giant cushion concert brown hair valley unit decline rocket |  

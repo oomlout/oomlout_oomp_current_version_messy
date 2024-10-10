@@ -122,6 +122,18 @@ work
 rack
 analyst
 thank |  
+| bip_39_word_no_space_1 | rough |  
+| bip_39_word_no_space_10 | roughyearmonsterbrandmillionworkrackanalystthankhamster |  
+| bip_39_word_no_space_11 | roughyearmonsterbrandmillionworkrackanalystthankhamsterhumble |  
+| bip_39_word_no_space_12 | roughyearmonsterbrandmillionworkrackanalystthankhamsterhumbleavocado |  
+| bip_39_word_no_space_2 | roughyear |  
+| bip_39_word_no_space_3 | roughyearmonster |  
+| bip_39_word_no_space_4 | roughyearmonsterbrand |  
+| bip_39_word_no_space_5 | roughyearmonsterbrandmillion |  
+| bip_39_word_no_space_6 | roughyearmonsterbrandmillionwork |  
+| bip_39_word_no_space_7 | roughyearmonsterbrandmillionworkrack |  
+| bip_39_word_no_space_8 | roughyearmonsterbrandmillionworkrackanalyst |  
+| bip_39_word_no_space_9 | roughyearmonsterbrandmillionworkrackanalystthank |  
 | bip_39_word_space_0 | ['rough', 'year', 'monster', 'brand', 'million', 'work', 'rack', 'analyst', 'thank', 'hamster', 'humble', 'avocado'] |  
 | bip_39_word_space_1 | rough |  
 | bip_39_word_space_10 | rough year monster brand million work rack analyst thank hamster |  

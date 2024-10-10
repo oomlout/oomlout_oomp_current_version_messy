@@ -122,6 +122,18 @@ east
 safe
 famous
 crouch |  
+| bip_39_word_no_space_1 | spike |  
+| bip_39_word_no_space_10 | spikebridgedilemmawheatcableeastsafefamouscrouchlobster |  
+| bip_39_word_no_space_11 | spikebridgedilemmawheatcableeastsafefamouscrouchlobsterbusiness |  
+| bip_39_word_no_space_12 | spikebridgedilemmawheatcableeastsafefamouscrouchlobsterbusinessamong |  
+| bip_39_word_no_space_2 | spikebridge |  
+| bip_39_word_no_space_3 | spikebridgedilemma |  
+| bip_39_word_no_space_4 | spikebridgedilemmawheat |  
+| bip_39_word_no_space_5 | spikebridgedilemmawheatcable |  
+| bip_39_word_no_space_6 | spikebridgedilemmawheatcableeast |  
+| bip_39_word_no_space_7 | spikebridgedilemmawheatcableeastsafe |  
+| bip_39_word_no_space_8 | spikebridgedilemmawheatcableeastsafefamous |  
+| bip_39_word_no_space_9 | spikebridgedilemmawheatcableeastsafefamouscrouch |  
 | bip_39_word_space_0 | ['spike', 'bridge', 'dilemma', 'wheat', 'cable', 'east', 'safe', 'famous', 'crouch', 'lobster', 'business', 'among'] |  
 | bip_39_word_space_1 | spike |  
 | bip_39_word_space_10 | spike bridge dilemma wheat cable east safe famous crouch lobster |  

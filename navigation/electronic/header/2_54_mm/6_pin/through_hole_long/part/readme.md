@@ -122,6 +122,18 @@ initial
 auction
 patch
 cousin |  
+| bip_39_word_no_space_1 | surface |  
+| bip_39_word_no_space_10 | surfacebrassscissorsdutyticketinitialauctionpatchcousintiger |  
+| bip_39_word_no_space_11 | surfacebrassscissorsdutyticketinitialauctionpatchcousintigerwork |  
+| bip_39_word_no_space_12 | surfacebrassscissorsdutyticketinitialauctionpatchcousintigerworkauction |  
+| bip_39_word_no_space_2 | surfacebrass |  
+| bip_39_word_no_space_3 | surfacebrassscissors |  
+| bip_39_word_no_space_4 | surfacebrassscissorsduty |  
+| bip_39_word_no_space_5 | surfacebrassscissorsdutyticket |  
+| bip_39_word_no_space_6 | surfacebrassscissorsdutyticketinitial |  
+| bip_39_word_no_space_7 | surfacebrassscissorsdutyticketinitialauction |  
+| bip_39_word_no_space_8 | surfacebrassscissorsdutyticketinitialauctionpatch |  
+| bip_39_word_no_space_9 | surfacebrassscissorsdutyticketinitialauctionpatchcousin |  
 | bip_39_word_space_0 | ['surface', 'brass', 'scissors', 'duty', 'ticket', 'initial', 'auction', 'patch', 'cousin', 'tiger', 'work', 'auction'] |  
 | bip_39_word_space_1 | surface |  
 | bip_39_word_space_10 | surface brass scissors duty ticket initial auction patch cousin tiger |  

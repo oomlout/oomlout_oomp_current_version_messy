@@ -122,6 +122,18 @@ edge
 novel
 must
 address |  
+| bip_39_word_no_space_1 | lock |  
+| bip_39_word_no_space_10 | lockpushframecaveangleedgenovelmustaddresspath |  
+| bip_39_word_no_space_11 | lockpushframecaveangleedgenovelmustaddresspathbubble |  
+| bip_39_word_no_space_12 | lockpushframecaveangleedgenovelmustaddresspathbubbleartefact |  
+| bip_39_word_no_space_2 | lockpush |  
+| bip_39_word_no_space_3 | lockpushframe |  
+| bip_39_word_no_space_4 | lockpushframecave |  
+| bip_39_word_no_space_5 | lockpushframecaveangle |  
+| bip_39_word_no_space_6 | lockpushframecaveangleedge |  
+| bip_39_word_no_space_7 | lockpushframecaveangleedgenovel |  
+| bip_39_word_no_space_8 | lockpushframecaveangleedgenovelmust |  
+| bip_39_word_no_space_9 | lockpushframecaveangleedgenovelmustaddress |  
 | bip_39_word_space_0 | ['lock', 'push', 'frame', 'cave', 'angle', 'edge', 'novel', 'must', 'address', 'path', 'bubble', 'artefact'] |  
 | bip_39_word_space_1 | lock |  
 | bip_39_word_space_10 | lock push frame cave angle edge novel must address path |  

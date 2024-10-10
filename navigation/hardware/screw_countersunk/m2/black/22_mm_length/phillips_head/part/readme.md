@@ -122,6 +122,18 @@ angle
 defense
 street
 void |  
+| bip_39_word_no_space_1 | risk |  
+| bip_39_word_no_space_10 | riskjustroomignoregridangledefensestreetvoidauthor |  
+| bip_39_word_no_space_11 | riskjustroomignoregridangledefensestreetvoidauthorsock |  
+| bip_39_word_no_space_12 | riskjustroomignoregridangledefensestreetvoidauthorsockaspect |  
+| bip_39_word_no_space_2 | riskjust |  
+| bip_39_word_no_space_3 | riskjustroom |  
+| bip_39_word_no_space_4 | riskjustroomignore |  
+| bip_39_word_no_space_5 | riskjustroomignoregrid |  
+| bip_39_word_no_space_6 | riskjustroomignoregridangle |  
+| bip_39_word_no_space_7 | riskjustroomignoregridangledefense |  
+| bip_39_word_no_space_8 | riskjustroomignoregridangledefensestreet |  
+| bip_39_word_no_space_9 | riskjustroomignoregridangledefensestreetvoid |  
 | bip_39_word_space_0 | ['risk', 'just', 'room', 'ignore', 'grid', 'angle', 'defense', 'street', 'void', 'author', 'sock', 'aspect'] |  
 | bip_39_word_space_1 | risk |  
 | bip_39_word_space_10 | risk just room ignore grid angle defense street void author |  

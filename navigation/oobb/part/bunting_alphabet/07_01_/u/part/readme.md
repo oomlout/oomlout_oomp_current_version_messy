@@ -122,6 +122,18 @@ cycle
 quarter
 kidney
 choice |  
+| bip_39_word_no_space_1 | true |  
+| bip_39_word_no_space_10 | truemenujunknapkinwhalecyclequarterkidneychoiceinjury |  
+| bip_39_word_no_space_11 | truemenujunknapkinwhalecyclequarterkidneychoiceinjuryoil |  
+| bip_39_word_no_space_12 | truemenujunknapkinwhalecyclequarterkidneychoiceinjuryoilaim |  
+| bip_39_word_no_space_2 | truemenu |  
+| bip_39_word_no_space_3 | truemenujunk |  
+| bip_39_word_no_space_4 | truemenujunknapkin |  
+| bip_39_word_no_space_5 | truemenujunknapkinwhale |  
+| bip_39_word_no_space_6 | truemenujunknapkinwhalecycle |  
+| bip_39_word_no_space_7 | truemenujunknapkinwhalecyclequarter |  
+| bip_39_word_no_space_8 | truemenujunknapkinwhalecyclequarterkidney |  
+| bip_39_word_no_space_9 | truemenujunknapkinwhalecyclequarterkidneychoice |  
 | bip_39_word_space_0 | ['true', 'menu', 'junk', 'napkin', 'whale', 'cycle', 'quarter', 'kidney', 'choice', 'injury', 'oil', 'aim'] |  
 | bip_39_word_space_1 | true |  
 | bip_39_word_space_10 | true menu junk napkin whale cycle quarter kidney choice injury |  

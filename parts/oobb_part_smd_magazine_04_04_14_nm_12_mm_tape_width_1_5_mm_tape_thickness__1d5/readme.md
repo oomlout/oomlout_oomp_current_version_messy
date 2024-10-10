@@ -122,6 +122,18 @@ sponsor
 inhale
 wisdom
 urge |  
+| bip_39_word_no_space_1 | mad |  
+| bip_39_word_no_space_10 | madanimalpoemruglabsponsorinhalewisdomurgeobey |  
+| bip_39_word_no_space_11 | madanimalpoemruglabsponsorinhalewisdomurgeobeyroute |  
+| bip_39_word_no_space_12 | madanimalpoemruglabsponsorinhalewisdomurgeobeyroutealso |  
+| bip_39_word_no_space_2 | madanimal |  
+| bip_39_word_no_space_3 | madanimalpoem |  
+| bip_39_word_no_space_4 | madanimalpoemrug |  
+| bip_39_word_no_space_5 | madanimalpoemruglab |  
+| bip_39_word_no_space_6 | madanimalpoemruglabsponsor |  
+| bip_39_word_no_space_7 | madanimalpoemruglabsponsorinhale |  
+| bip_39_word_no_space_8 | madanimalpoemruglabsponsorinhalewisdom |  
+| bip_39_word_no_space_9 | madanimalpoemruglabsponsorinhalewisdomurge |  
 | bip_39_word_space_0 | ['mad', 'animal', 'poem', 'rug', 'lab', 'sponsor', 'inhale', 'wisdom', 'urge', 'obey', 'route', 'also'] |  
 | bip_39_word_space_1 | mad |  
 | bip_39_word_space_10 | mad animal poem rug lab sponsor inhale wisdom urge obey |  

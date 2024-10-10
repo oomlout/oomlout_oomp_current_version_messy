@@ -122,6 +122,18 @@ machine
 ball
 dance
 vanish |  
+| bip_39_word_no_space_1 | afford |  
+| bip_39_word_no_space_10 | affordpianoslightmanyardmachineballdancevanishtarget |  
+| bip_39_word_no_space_11 | affordpianoslightmanyardmachineballdancevanishtargetfall |  
+| bip_39_word_no_space_12 | affordpianoslightmanyardmachineballdancevanishtargetfallattack |  
+| bip_39_word_no_space_2 | affordpiano |  
+| bip_39_word_no_space_3 | affordpianoslight |  
+| bip_39_word_no_space_4 | affordpianoslightman |  
+| bip_39_word_no_space_5 | affordpianoslightmanyard |  
+| bip_39_word_no_space_6 | affordpianoslightmanyardmachine |  
+| bip_39_word_no_space_7 | affordpianoslightmanyardmachineball |  
+| bip_39_word_no_space_8 | affordpianoslightmanyardmachineballdance |  
+| bip_39_word_no_space_9 | affordpianoslightmanyardmachineballdancevanish |  
 | bip_39_word_space_0 | ['afford', 'piano', 'slight', 'man', 'yard', 'machine', 'ball', 'dance', 'vanish', 'target', 'fall', 'attack'] |  
 | bip_39_word_space_1 | afford |  
 | bip_39_word_space_10 | afford piano slight man yard machine ball dance vanish target |  

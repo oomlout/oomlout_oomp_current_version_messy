@@ -122,6 +122,18 @@ potato
 urge
 amused
 vanish |  
+| bip_39_word_no_space_1 | talk |  
+| bip_39_word_no_space_10 | talklaborprettymountainoxygenpotatourgeamusedvanishorient |  
+| bip_39_word_no_space_11 | talklaborprettymountainoxygenpotatourgeamusedvanishorienttravel |  
+| bip_39_word_no_space_12 | talklaborprettymountainoxygenpotatourgeamusedvanishorienttraveladvice |  
+| bip_39_word_no_space_2 | talklabor |  
+| bip_39_word_no_space_3 | talklaborpretty |  
+| bip_39_word_no_space_4 | talklaborprettymountain |  
+| bip_39_word_no_space_5 | talklaborprettymountainoxygen |  
+| bip_39_word_no_space_6 | talklaborprettymountainoxygenpotato |  
+| bip_39_word_no_space_7 | talklaborprettymountainoxygenpotatourge |  
+| bip_39_word_no_space_8 | talklaborprettymountainoxygenpotatourgeamused |  
+| bip_39_word_no_space_9 | talklaborprettymountainoxygenpotatourgeamusedvanish |  
 | bip_39_word_space_0 | ['talk', 'labor', 'pretty', 'mountain', 'oxygen', 'potato', 'urge', 'amused', 'vanish', 'orient', 'travel', 'advice'] |  
 | bip_39_word_space_1 | talk |  
 | bip_39_word_space_10 | talk labor pretty mountain oxygen potato urge amused vanish orient |  

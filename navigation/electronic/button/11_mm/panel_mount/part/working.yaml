@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vessel
   sock
 
   eight'
+bip_39_word_no_space_1: vessel
+bip_39_word_no_space_10: vesselcomicmeasureminutecutethisoffersockeightrecall
+bip_39_word_no_space_11: vesselcomicmeasureminutecutethisoffersockeightrecalltumble
+bip_39_word_no_space_12: vesselcomicmeasureminutecutethisoffersockeightrecalltumblealert
+bip_39_word_no_space_2: vesselcomic
+bip_39_word_no_space_3: vesselcomicmeasure
+bip_39_word_no_space_4: vesselcomicmeasureminute
+bip_39_word_no_space_5: vesselcomicmeasureminutecute
+bip_39_word_no_space_6: vesselcomicmeasureminutecutethis
+bip_39_word_no_space_7: vesselcomicmeasureminutecutethisoffer
+bip_39_word_no_space_8: vesselcomicmeasureminutecutethisoffersock
+bip_39_word_no_space_9: vesselcomicmeasureminutecutethisoffersockeight
 bip_39_word_space_0:
 - vessel
 - comic

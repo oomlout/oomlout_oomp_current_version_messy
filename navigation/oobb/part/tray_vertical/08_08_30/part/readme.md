@@ -122,6 +122,18 @@ unfair
 rude
 dwarf
 identify |  
+| bip_39_word_no_space_1 | piece |  
+| bip_39_word_no_space_10 | piecewriteaspectsoonallowunfairrudedwarfidentifytrade |  
+| bip_39_word_no_space_11 | piecewriteaspectsoonallowunfairrudedwarfidentifytradegift |  
+| bip_39_word_no_space_12 | piecewriteaspectsoonallowunfairrudedwarfidentifytradegiftagree |  
+| bip_39_word_no_space_2 | piecewrite |  
+| bip_39_word_no_space_3 | piecewriteaspect |  
+| bip_39_word_no_space_4 | piecewriteaspectsoon |  
+| bip_39_word_no_space_5 | piecewriteaspectsoonallow |  
+| bip_39_word_no_space_6 | piecewriteaspectsoonallowunfair |  
+| bip_39_word_no_space_7 | piecewriteaspectsoonallowunfairrude |  
+| bip_39_word_no_space_8 | piecewriteaspectsoonallowunfairrudedwarf |  
+| bip_39_word_no_space_9 | piecewriteaspectsoonallowunfairrudedwarfidentify |  
 | bip_39_word_space_0 | ['piece', 'write', 'aspect', 'soon', 'allow', 'unfair', 'rude', 'dwarf', 'identify', 'trade', 'gift', 'agree'] |  
 | bip_39_word_space_1 | piece |  
 | bip_39_word_space_10 | piece write aspect soon allow unfair rude dwarf identify trade |  

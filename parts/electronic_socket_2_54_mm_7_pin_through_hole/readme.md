@@ -122,6 +122,18 @@ hope
 news
 corn
 opera |  
+| bip_39_word_no_space_1 | civil |  
+| bip_39_word_no_space_10 | civilrapidnumbersilkcoasthopenewscornoperabest |  
+| bip_39_word_no_space_11 | civilrapidnumbersilkcoasthopenewscornoperabestorgan |  
+| bip_39_word_no_space_12 | civilrapidnumbersilkcoasthopenewscornoperabestorganalpha |  
+| bip_39_word_no_space_2 | civilrapid |  
+| bip_39_word_no_space_3 | civilrapidnumber |  
+| bip_39_word_no_space_4 | civilrapidnumbersilk |  
+| bip_39_word_no_space_5 | civilrapidnumbersilkcoast |  
+| bip_39_word_no_space_6 | civilrapidnumbersilkcoasthope |  
+| bip_39_word_no_space_7 | civilrapidnumbersilkcoasthopenews |  
+| bip_39_word_no_space_8 | civilrapidnumbersilkcoasthopenewscorn |  
+| bip_39_word_no_space_9 | civilrapidnumbersilkcoasthopenewscornopera |  
 | bip_39_word_space_0 | ['civil', 'rapid', 'number', 'silk', 'coast', 'hope', 'news', 'corn', 'opera', 'best', 'organ', 'alpha'] |  
 | bip_39_word_space_1 | civil |  
 | bip_39_word_space_10 | civil rapid number silk coast hope news corn opera best |  

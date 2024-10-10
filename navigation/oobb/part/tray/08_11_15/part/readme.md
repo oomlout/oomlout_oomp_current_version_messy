@@ -122,6 +122,18 @@ shock
 hamster
 peace
 educate |  
+| bip_39_word_no_space_1 | diesel |  
+| bip_39_word_no_space_10 | dieselcandyskillsituateproduceshockhamsterpeaceeducategrit |  
+| bip_39_word_no_space_11 | dieselcandyskillsituateproduceshockhamsterpeaceeducategritstep |  
+| bip_39_word_no_space_12 | dieselcandyskillsituateproduceshockhamsterpeaceeducategritstepaisle |  
+| bip_39_word_no_space_2 | dieselcandy |  
+| bip_39_word_no_space_3 | dieselcandyskill |  
+| bip_39_word_no_space_4 | dieselcandyskillsituate |  
+| bip_39_word_no_space_5 | dieselcandyskillsituateproduce |  
+| bip_39_word_no_space_6 | dieselcandyskillsituateproduceshock |  
+| bip_39_word_no_space_7 | dieselcandyskillsituateproduceshockhamster |  
+| bip_39_word_no_space_8 | dieselcandyskillsituateproduceshockhamsterpeace |  
+| bip_39_word_no_space_9 | dieselcandyskillsituateproduceshockhamsterpeaceeducate |  
 | bip_39_word_space_0 | ['diesel', 'candy', 'skill', 'situate', 'produce', 'shock', 'hamster', 'peace', 'educate', 'grit', 'step', 'aisle'] |  
 | bip_39_word_space_1 | diesel |  
 | bip_39_word_space_10 | diesel candy skill situate produce shock hamster peace educate grit |  

@@ -122,6 +122,18 @@ wall
 employ
 flag
 patch |  
+| bip_39_word_no_space_1 | dwarf |  
+| bip_39_word_no_space_10 | dwarffragilebrushketchupshoulderwallemployflagpatchdove |  
+| bip_39_word_no_space_11 | dwarffragilebrushketchupshoulderwallemployflagpatchdovestreet |  
+| bip_39_word_no_space_12 | dwarffragilebrushketchupshoulderwallemployflagpatchdovestreetartist |  
+| bip_39_word_no_space_2 | dwarffragile |  
+| bip_39_word_no_space_3 | dwarffragilebrush |  
+| bip_39_word_no_space_4 | dwarffragilebrushketchup |  
+| bip_39_word_no_space_5 | dwarffragilebrushketchupshoulder |  
+| bip_39_word_no_space_6 | dwarffragilebrushketchupshoulderwall |  
+| bip_39_word_no_space_7 | dwarffragilebrushketchupshoulderwallemploy |  
+| bip_39_word_no_space_8 | dwarffragilebrushketchupshoulderwallemployflag |  
+| bip_39_word_no_space_9 | dwarffragilebrushketchupshoulderwallemployflagpatch |  
 | bip_39_word_space_0 | ['dwarf', 'fragile', 'brush', 'ketchup', 'shoulder', 'wall', 'employ', 'flag', 'patch', 'dove', 'street', 'artist'] |  
 | bip_39_word_space_1 | dwarf |  
 | bip_39_word_space_10 | dwarf fragile brush ketchup shoulder wall employ flag patch dove |  

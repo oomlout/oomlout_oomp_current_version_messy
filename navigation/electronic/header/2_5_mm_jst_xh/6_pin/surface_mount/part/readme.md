@@ -122,6 +122,18 @@ effort
 fiscal
 bag
 govern |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raiseclimboverprintwagoneffortfiscalbaggovernfuel |  
+| bip_39_word_no_space_11 | raiseclimboverprintwagoneffortfiscalbaggovernfuelharsh |  
+| bip_39_word_no_space_12 | raiseclimboverprintwagoneffortfiscalbaggovernfuelharshaverage |  
+| bip_39_word_no_space_2 | raiseclimb |  
+| bip_39_word_no_space_3 | raiseclimbover |  
+| bip_39_word_no_space_4 | raiseclimboverprint |  
+| bip_39_word_no_space_5 | raiseclimboverprintwagon |  
+| bip_39_word_no_space_6 | raiseclimboverprintwagoneffort |  
+| bip_39_word_no_space_7 | raiseclimboverprintwagoneffortfiscal |  
+| bip_39_word_no_space_8 | raiseclimboverprintwagoneffortfiscalbag |  
+| bip_39_word_no_space_9 | raiseclimboverprintwagoneffortfiscalbaggovern |  
 | bip_39_word_space_0 | ['raise', 'climb', 'over', 'print', 'wagon', 'effort', 'fiscal', 'bag', 'govern', 'fuel', 'harsh', 'average'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise climb over print wagon effort fiscal bag govern fuel |  

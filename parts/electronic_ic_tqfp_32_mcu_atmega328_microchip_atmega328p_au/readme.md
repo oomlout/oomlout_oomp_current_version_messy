@@ -122,6 +122,18 @@ cruise
 cute
 razor
 tool |  
+| bip_39_word_no_space_1 | galaxy |  
+| bip_39_word_no_space_10 | galaxyrebelyouthsilvereternalcruisecuterazortoolsalute |  
+| bip_39_word_no_space_11 | galaxyrebelyouthsilvereternalcruisecuterazortoolsalutearctic |  
+| bip_39_word_no_space_12 | galaxyrebelyouthsilvereternalcruisecuterazortoolsalutearcticaccident |  
+| bip_39_word_no_space_2 | galaxyrebel |  
+| bip_39_word_no_space_3 | galaxyrebelyouth |  
+| bip_39_word_no_space_4 | galaxyrebelyouthsilver |  
+| bip_39_word_no_space_5 | galaxyrebelyouthsilvereternal |  
+| bip_39_word_no_space_6 | galaxyrebelyouthsilvereternalcruise |  
+| bip_39_word_no_space_7 | galaxyrebelyouthsilvereternalcruisecute |  
+| bip_39_word_no_space_8 | galaxyrebelyouthsilvereternalcruisecuterazor |  
+| bip_39_word_no_space_9 | galaxyrebelyouthsilvereternalcruisecuterazortool |  
 | bip_39_word_space_0 | ['galaxy', 'rebel', 'youth', 'silver', 'eternal', 'cruise', 'cute', 'razor', 'tool', 'salute', 'arctic', 'accident'] |  
 | bip_39_word_space_1 | galaxy |  
 | bip_39_word_space_10 | galaxy rebel youth silver eternal cruise cute razor tool salute |  

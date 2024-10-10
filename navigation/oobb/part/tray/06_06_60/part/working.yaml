@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fit
   enough
 
   magnet'
+bip_39_word_no_space_1: fit
+bip_39_word_no_space_10: fitrawmyselfshrugsnapblurbrassenoughmagnethurry
+bip_39_word_no_space_11: fitrawmyselfshrugsnapblurbrassenoughmagnethurrywash
+bip_39_word_no_space_12: fitrawmyselfshrugsnapblurbrassenoughmagnethurrywashasset
+bip_39_word_no_space_2: fitraw
+bip_39_word_no_space_3: fitrawmyself
+bip_39_word_no_space_4: fitrawmyselfshrug
+bip_39_word_no_space_5: fitrawmyselfshrugsnap
+bip_39_word_no_space_6: fitrawmyselfshrugsnapblur
+bip_39_word_no_space_7: fitrawmyselfshrugsnapblurbrass
+bip_39_word_no_space_8: fitrawmyselfshrugsnapblurbrassenough
+bip_39_word_no_space_9: fitrawmyselfshrugsnapblurbrassenoughmagnet
 bip_39_word_space_0:
 - fit
 - raw

@@ -122,6 +122,18 @@ ethics
 void
 legend
 garment |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displaybreezerhythmspellsecondethicsvoidlegendgarmentshell |  
+| bip_39_word_no_space_11 | displaybreezerhythmspellsecondethicsvoidlegendgarmentshellmelt |  
+| bip_39_word_no_space_12 | displaybreezerhythmspellsecondethicsvoidlegendgarmentshellmeltankle |  
+| bip_39_word_no_space_2 | displaybreeze |  
+| bip_39_word_no_space_3 | displaybreezerhythm |  
+| bip_39_word_no_space_4 | displaybreezerhythmspell |  
+| bip_39_word_no_space_5 | displaybreezerhythmspellsecond |  
+| bip_39_word_no_space_6 | displaybreezerhythmspellsecondethics |  
+| bip_39_word_no_space_7 | displaybreezerhythmspellsecondethicsvoid |  
+| bip_39_word_no_space_8 | displaybreezerhythmspellsecondethicsvoidlegend |  
+| bip_39_word_no_space_9 | displaybreezerhythmspellsecondethicsvoidlegendgarment |  
 | bip_39_word_space_0 | ['display', 'breeze', 'rhythm', 'spell', 'second', 'ethics', 'void', 'legend', 'garment', 'shell', 'melt', 'ankle'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display breeze rhythm spell second ethics void legend garment shell |  

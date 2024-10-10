@@ -122,6 +122,18 @@ muffin
 mouse
 borrow
 dinner |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmentnorthpeopleblastlinkmuffinmouseborrowdinnersearch |  
+| bip_39_word_no_space_11 | segmentnorthpeopleblastlinkmuffinmouseborrowdinnersearchillness |  
+| bip_39_word_no_space_12 | segmentnorthpeopleblastlinkmuffinmouseborrowdinnersearchillnessalarm |  
+| bip_39_word_no_space_2 | segmentnorth |  
+| bip_39_word_no_space_3 | segmentnorthpeople |  
+| bip_39_word_no_space_4 | segmentnorthpeopleblast |  
+| bip_39_word_no_space_5 | segmentnorthpeopleblastlink |  
+| bip_39_word_no_space_6 | segmentnorthpeopleblastlinkmuffin |  
+| bip_39_word_no_space_7 | segmentnorthpeopleblastlinkmuffinmouse |  
+| bip_39_word_no_space_8 | segmentnorthpeopleblastlinkmuffinmouseborrow |  
+| bip_39_word_no_space_9 | segmentnorthpeopleblastlinkmuffinmouseborrowdinner |  
 | bip_39_word_space_0 | ['segment', 'north', 'people', 'blast', 'link', 'muffin', 'mouse', 'borrow', 'dinner', 'search', 'illness', 'alarm'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment north people blast link muffin mouse borrow dinner search |  

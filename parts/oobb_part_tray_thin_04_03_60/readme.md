@@ -122,6 +122,18 @@ system
 track
 step
 noise |  
+| bip_39_word_no_space_1 | latin |  
+| bip_39_word_no_space_10 | latinsightreallivecausesystemtrackstepnoiseexecute |  
+| bip_39_word_no_space_11 | latinsightreallivecausesystemtrackstepnoiseexecutevan |  
+| bip_39_word_no_space_12 | latinsightreallivecausesystemtrackstepnoiseexecutevanapril |  
+| bip_39_word_no_space_2 | latinsight |  
+| bip_39_word_no_space_3 | latinsightreal |  
+| bip_39_word_no_space_4 | latinsightreallive |  
+| bip_39_word_no_space_5 | latinsightreallivecause |  
+| bip_39_word_no_space_6 | latinsightreallivecausesystem |  
+| bip_39_word_no_space_7 | latinsightreallivecausesystemtrack |  
+| bip_39_word_no_space_8 | latinsightreallivecausesystemtrackstep |  
+| bip_39_word_no_space_9 | latinsightreallivecausesystemtrackstepnoise |  
 | bip_39_word_space_0 | ['latin', 'sight', 'real', 'live', 'cause', 'system', 'track', 'step', 'noise', 'execute', 'van', 'april'] |  
 | bip_39_word_space_1 | latin |  
 | bip_39_word_space_10 | latin sight real live cause system track step noise execute |  

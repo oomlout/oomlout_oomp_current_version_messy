@@ -122,6 +122,18 @@ craft
 page
 cheap
 lonely |  
+| bip_39_word_no_space_1 | liberty |  
+| bip_39_word_no_space_10 | libertyblackupdateexcesscoilcraftpagecheaplonelyicon |  
+| bip_39_word_no_space_11 | libertyblackupdateexcesscoilcraftpagecheaplonelyiconradio |  
+| bip_39_word_no_space_12 | libertyblackupdateexcesscoilcraftpagecheaplonelyiconradioaudit |  
+| bip_39_word_no_space_2 | libertyblack |  
+| bip_39_word_no_space_3 | libertyblackupdate |  
+| bip_39_word_no_space_4 | libertyblackupdateexcess |  
+| bip_39_word_no_space_5 | libertyblackupdateexcesscoil |  
+| bip_39_word_no_space_6 | libertyblackupdateexcesscoilcraft |  
+| bip_39_word_no_space_7 | libertyblackupdateexcesscoilcraftpage |  
+| bip_39_word_no_space_8 | libertyblackupdateexcesscoilcraftpagecheap |  
+| bip_39_word_no_space_9 | libertyblackupdateexcesscoilcraftpagecheaplonely |  
 | bip_39_word_space_0 | ['liberty', 'black', 'update', 'excess', 'coil', 'craft', 'page', 'cheap', 'lonely', 'icon', 'radio', 'audit'] |  
 | bip_39_word_space_1 | liberty |  
 | bip_39_word_space_10 | liberty black update excess coil craft page cheap lonely icon |  

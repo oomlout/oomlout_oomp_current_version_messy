@@ -122,6 +122,18 @@ siren
 excuse
 enhance
 hour |  
+| bip_39_word_no_space_1 | small |  
+| bip_39_word_no_space_10 | smallslamsurgearrangegirlsirenexcuseenhancehourarrest |  
+| bip_39_word_no_space_11 | smallslamsurgearrangegirlsirenexcuseenhancehourarrestknock |  
+| bip_39_word_no_space_12 | smallslamsurgearrangegirlsirenexcuseenhancehourarrestknockadult |  
+| bip_39_word_no_space_2 | smallslam |  
+| bip_39_word_no_space_3 | smallslamsurge |  
+| bip_39_word_no_space_4 | smallslamsurgearrange |  
+| bip_39_word_no_space_5 | smallslamsurgearrangegirl |  
+| bip_39_word_no_space_6 | smallslamsurgearrangegirlsiren |  
+| bip_39_word_no_space_7 | smallslamsurgearrangegirlsirenexcuse |  
+| bip_39_word_no_space_8 | smallslamsurgearrangegirlsirenexcuseenhance |  
+| bip_39_word_no_space_9 | smallslamsurgearrangegirlsirenexcuseenhancehour |  
 | bip_39_word_space_0 | ['small', 'slam', 'surge', 'arrange', 'girl', 'siren', 'excuse', 'enhance', 'hour', 'arrest', 'knock', 'adult'] |  
 | bip_39_word_space_1 | small |  
 | bip_39_word_space_10 | small slam surge arrange girl siren excuse enhance hour arrest |  

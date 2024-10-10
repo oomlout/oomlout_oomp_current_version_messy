@@ -122,6 +122,18 @@ hold
 february
 security
 gate |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officeobscureinvitespeedreplaceholdfebruarysecuritygatedetect |  
+| bip_39_word_no_space_11 | officeobscureinvitespeedreplaceholdfebruarysecuritygatedetectside |  
+| bip_39_word_no_space_12 | officeobscureinvitespeedreplaceholdfebruarysecuritygatedetectsideaddress |  
+| bip_39_word_no_space_2 | officeobscure |  
+| bip_39_word_no_space_3 | officeobscureinvite |  
+| bip_39_word_no_space_4 | officeobscureinvitespeed |  
+| bip_39_word_no_space_5 | officeobscureinvitespeedreplace |  
+| bip_39_word_no_space_6 | officeobscureinvitespeedreplacehold |  
+| bip_39_word_no_space_7 | officeobscureinvitespeedreplaceholdfebruary |  
+| bip_39_word_no_space_8 | officeobscureinvitespeedreplaceholdfebruarysecurity |  
+| bip_39_word_no_space_9 | officeobscureinvitespeedreplaceholdfebruarysecuritygate |  
 | bip_39_word_space_0 | ['office', 'obscure', 'invite', 'speed', 'replace', 'hold', 'february', 'security', 'gate', 'detect', 'side', 'address'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office obscure invite speed replace hold february security gate detect |  

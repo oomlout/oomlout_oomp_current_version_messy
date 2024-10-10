@@ -122,6 +122,18 @@ patch
 pattern
 october
 flash |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizefloatevilmixeddoorpatchpatternoctoberflashslab |  
+| bip_39_word_no_space_11 | prizefloatevilmixeddoorpatchpatternoctoberflashslabtrick |  
+| bip_39_word_no_space_12 | prizefloatevilmixeddoorpatchpatternoctoberflashslabtrickaim |  
+| bip_39_word_no_space_2 | prizefloat |  
+| bip_39_word_no_space_3 | prizefloatevil |  
+| bip_39_word_no_space_4 | prizefloatevilmixed |  
+| bip_39_word_no_space_5 | prizefloatevilmixeddoor |  
+| bip_39_word_no_space_6 | prizefloatevilmixeddoorpatch |  
+| bip_39_word_no_space_7 | prizefloatevilmixeddoorpatchpattern |  
+| bip_39_word_no_space_8 | prizefloatevilmixeddoorpatchpatternoctober |  
+| bip_39_word_no_space_9 | prizefloatevilmixeddoorpatchpatternoctoberflash |  
 | bip_39_word_space_0 | ['prize', 'float', 'evil', 'mixed', 'door', 'patch', 'pattern', 'october', 'flash', 'slab', 'trick', 'aim'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize float evil mixed door patch pattern october flash slab |  

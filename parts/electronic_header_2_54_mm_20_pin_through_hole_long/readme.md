@@ -122,6 +122,18 @@ chief
 air
 peasant
 raven |  
+| bip_39_word_no_space_1 | dinner |  
+| bip_39_word_no_space_10 | dinnerinformviewawesomelimbchiefairpeasantravenprefer |  
+| bip_39_word_no_space_11 | dinnerinformviewawesomelimbchiefairpeasantravenpreferelbow |  
+| bip_39_word_no_space_12 | dinnerinformviewawesomelimbchiefairpeasantravenpreferelbowarctic |  
+| bip_39_word_no_space_2 | dinnerinform |  
+| bip_39_word_no_space_3 | dinnerinformview |  
+| bip_39_word_no_space_4 | dinnerinformviewawesome |  
+| bip_39_word_no_space_5 | dinnerinformviewawesomelimb |  
+| bip_39_word_no_space_6 | dinnerinformviewawesomelimbchief |  
+| bip_39_word_no_space_7 | dinnerinformviewawesomelimbchiefair |  
+| bip_39_word_no_space_8 | dinnerinformviewawesomelimbchiefairpeasant |  
+| bip_39_word_no_space_9 | dinnerinformviewawesomelimbchiefairpeasantraven |  
 | bip_39_word_space_0 | ['dinner', 'inform', 'view', 'awesome', 'limb', 'chief', 'air', 'peasant', 'raven', 'prefer', 'elbow', 'arctic'] |  
 | bip_39_word_space_1 | dinner |  
 | bip_39_word_space_10 | dinner inform view awesome limb chief air peasant raven prefer |  

@@ -122,6 +122,18 @@ few
 make
 review
 capital |  
+| bip_39_word_no_space_1 | language |  
+| bip_39_word_no_space_10 | languagemaplerubberpipecruelfewmakereviewcapitalvacuum |  
+| bip_39_word_no_space_11 | languagemaplerubberpipecruelfewmakereviewcapitalvacuumshare |  
+| bip_39_word_no_space_12 | languagemaplerubberpipecruelfewmakereviewcapitalvacuumshareacid |  
+| bip_39_word_no_space_2 | languagemaple |  
+| bip_39_word_no_space_3 | languagemaplerubber |  
+| bip_39_word_no_space_4 | languagemaplerubberpipe |  
+| bip_39_word_no_space_5 | languagemaplerubberpipecruel |  
+| bip_39_word_no_space_6 | languagemaplerubberpipecruelfew |  
+| bip_39_word_no_space_7 | languagemaplerubberpipecruelfewmake |  
+| bip_39_word_no_space_8 | languagemaplerubberpipecruelfewmakereview |  
+| bip_39_word_no_space_9 | languagemaplerubberpipecruelfewmakereviewcapital |  
 | bip_39_word_space_0 | ['language', 'maple', 'rubber', 'pipe', 'cruel', 'few', 'make', 'review', 'capital', 'vacuum', 'share', 'acid'] |  
 | bip_39_word_space_1 | language |  
 | bip_39_word_space_10 | language maple rubber pipe cruel few make review capital vacuum |  

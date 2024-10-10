@@ -122,6 +122,18 @@ crumble
 repeat
 fat
 cattle |  
+| bip_39_word_no_space_1 | barrel |  
+| bip_39_word_no_space_10 | barrelprideloyalquickpreventcrumblerepeatfatcattleinterest |  
+| bip_39_word_no_space_11 | barrelprideloyalquickpreventcrumblerepeatfatcattleinterestlong |  
+| bip_39_word_no_space_12 | barrelprideloyalquickpreventcrumblerepeatfatcattleinterestlongaround |  
+| bip_39_word_no_space_2 | barrelpride |  
+| bip_39_word_no_space_3 | barrelprideloyal |  
+| bip_39_word_no_space_4 | barrelprideloyalquick |  
+| bip_39_word_no_space_5 | barrelprideloyalquickprevent |  
+| bip_39_word_no_space_6 | barrelprideloyalquickpreventcrumble |  
+| bip_39_word_no_space_7 | barrelprideloyalquickpreventcrumblerepeat |  
+| bip_39_word_no_space_8 | barrelprideloyalquickpreventcrumblerepeatfat |  
+| bip_39_word_no_space_9 | barrelprideloyalquickpreventcrumblerepeatfatcattle |  
 | bip_39_word_space_0 | ['barrel', 'pride', 'loyal', 'quick', 'prevent', 'crumble', 'repeat', 'fat', 'cattle', 'interest', 'long', 'around'] |  
 | bip_39_word_space_1 | barrel |  
 | bip_39_word_space_10 | barrel pride loyal quick prevent crumble repeat fat cattle interest |  

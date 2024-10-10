@@ -122,6 +122,18 @@ buddy
 era
 control
 sauce |  
+| bip_39_word_no_space_1 | spread |  
+| bip_39_word_no_space_10 | spreadsixpracticemasterfirmbuddyeracontrolsaucesmooth |  
+| bip_39_word_no_space_11 | spreadsixpracticemasterfirmbuddyeracontrolsaucesmoothdecline |  
+| bip_39_word_no_space_12 | spreadsixpracticemasterfirmbuddyeracontrolsaucesmoothdeclineapology |  
+| bip_39_word_no_space_2 | spreadsix |  
+| bip_39_word_no_space_3 | spreadsixpractice |  
+| bip_39_word_no_space_4 | spreadsixpracticemaster |  
+| bip_39_word_no_space_5 | spreadsixpracticemasterfirm |  
+| bip_39_word_no_space_6 | spreadsixpracticemasterfirmbuddy |  
+| bip_39_word_no_space_7 | spreadsixpracticemasterfirmbuddyera |  
+| bip_39_word_no_space_8 | spreadsixpracticemasterfirmbuddyeracontrol |  
+| bip_39_word_no_space_9 | spreadsixpracticemasterfirmbuddyeracontrolsauce |  
 | bip_39_word_space_0 | ['spread', 'six', 'practice', 'master', 'firm', 'buddy', 'era', 'control', 'sauce', 'smooth', 'decline', 'apology'] |  
 | bip_39_word_space_1 | spread |  
 | bip_39_word_space_10 | spread six practice master firm buddy era control sauce smooth |  

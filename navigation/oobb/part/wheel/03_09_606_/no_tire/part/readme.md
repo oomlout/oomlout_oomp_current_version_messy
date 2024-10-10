@@ -122,6 +122,18 @@ image
 cricket
 cross
 misery |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennisputchairmastersettleimagecricketcrossmiserysample |  
+| bip_39_word_no_space_11 | tennisputchairmastersettleimagecricketcrossmiserysamplearmy |  
+| bip_39_word_no_space_12 | tennisputchairmastersettleimagecricketcrossmiserysamplearmyattract |  
+| bip_39_word_no_space_2 | tennisput |  
+| bip_39_word_no_space_3 | tennisputchair |  
+| bip_39_word_no_space_4 | tennisputchairmaster |  
+| bip_39_word_no_space_5 | tennisputchairmastersettle |  
+| bip_39_word_no_space_6 | tennisputchairmastersettleimage |  
+| bip_39_word_no_space_7 | tennisputchairmastersettleimagecricket |  
+| bip_39_word_no_space_8 | tennisputchairmastersettleimagecricketcross |  
+| bip_39_word_no_space_9 | tennisputchairmastersettleimagecricketcrossmisery |  
 | bip_39_word_space_0 | ['tennis', 'put', 'chair', 'master', 'settle', 'image', 'cricket', 'cross', 'misery', 'sample', 'army', 'attract'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis put chair master settle image cricket cross misery sample |  

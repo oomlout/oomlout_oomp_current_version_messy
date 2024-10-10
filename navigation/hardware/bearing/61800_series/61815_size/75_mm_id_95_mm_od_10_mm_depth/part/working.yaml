@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'good
   shift
 
   sound'
+bip_39_word_no_space_1: good
+bip_39_word_no_space_10: goodangrypaveanalystcommonsquirrelcommonshiftsoundaccount
+bip_39_word_no_space_11: goodangrypaveanalystcommonsquirrelcommonshiftsoundaccountsort
+bip_39_word_no_space_12: goodangrypaveanalystcommonsquirrelcommonshiftsoundaccountsortantique
+bip_39_word_no_space_2: goodangry
+bip_39_word_no_space_3: goodangrypave
+bip_39_word_no_space_4: goodangrypaveanalyst
+bip_39_word_no_space_5: goodangrypaveanalystcommon
+bip_39_word_no_space_6: goodangrypaveanalystcommonsquirrel
+bip_39_word_no_space_7: goodangrypaveanalystcommonsquirrelcommon
+bip_39_word_no_space_8: goodangrypaveanalystcommonsquirrelcommonshift
+bip_39_word_no_space_9: goodangrypaveanalystcommonsquirrelcommonshiftsound
 bip_39_word_space_0:
 - good
 - angry

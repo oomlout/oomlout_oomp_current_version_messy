@@ -122,6 +122,18 @@ can
 stadium
 hotel
 sponsor |  
+| bip_39_word_no_space_1 | auto |  
+| bip_39_word_no_space_10 | autoearnbirthviewbargaincanstadiumhotelsponsorwide |  
+| bip_39_word_no_space_11 | autoearnbirthviewbargaincanstadiumhotelsponsorwideplug |  
+| bip_39_word_no_space_12 | autoearnbirthviewbargaincanstadiumhotelsponsorwideplugaccount |  
+| bip_39_word_no_space_2 | autoearn |  
+| bip_39_word_no_space_3 | autoearnbirth |  
+| bip_39_word_no_space_4 | autoearnbirthview |  
+| bip_39_word_no_space_5 | autoearnbirthviewbargain |  
+| bip_39_word_no_space_6 | autoearnbirthviewbargaincan |  
+| bip_39_word_no_space_7 | autoearnbirthviewbargaincanstadium |  
+| bip_39_word_no_space_8 | autoearnbirthviewbargaincanstadiumhotel |  
+| bip_39_word_no_space_9 | autoearnbirthviewbargaincanstadiumhotelsponsor |  
 | bip_39_word_space_0 | ['auto', 'earn', 'birth', 'view', 'bargain', 'can', 'stadium', 'hotel', 'sponsor', 'wide', 'plug', 'account'] |  
 | bip_39_word_space_1 | auto |  
 | bip_39_word_space_10 | auto earn birth view bargain can stadium hotel sponsor wide |  

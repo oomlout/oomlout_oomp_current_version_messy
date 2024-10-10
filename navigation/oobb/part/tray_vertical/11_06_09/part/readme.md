@@ -122,6 +122,18 @@ bounce
 warfare
 cricket
 trigger |  
+| bip_39_word_no_space_1 | basket |  
+| bip_39_word_no_space_10 | baskethusbanddescribetornadofamebouncewarfarecrickettriggeroff |  
+| bip_39_word_no_space_11 | baskethusbanddescribetornadofamebouncewarfarecrickettriggeroffart |  
+| bip_39_word_no_space_12 | baskethusbanddescribetornadofamebouncewarfarecrickettriggeroffartabsurd |  
+| bip_39_word_no_space_2 | baskethusband |  
+| bip_39_word_no_space_3 | baskethusbanddescribe |  
+| bip_39_word_no_space_4 | baskethusbanddescribetornado |  
+| bip_39_word_no_space_5 | baskethusbanddescribetornadofame |  
+| bip_39_word_no_space_6 | baskethusbanddescribetornadofamebounce |  
+| bip_39_word_no_space_7 | baskethusbanddescribetornadofamebouncewarfare |  
+| bip_39_word_no_space_8 | baskethusbanddescribetornadofamebouncewarfarecricket |  
+| bip_39_word_no_space_9 | baskethusbanddescribetornadofamebouncewarfarecrickettrigger |  
 | bip_39_word_space_0 | ['basket', 'husband', 'describe', 'tornado', 'fame', 'bounce', 'warfare', 'cricket', 'trigger', 'off', 'art', 'absurd'] |  
 | bip_39_word_space_1 | basket |  
 | bip_39_word_space_10 | basket husband describe tornado fame bounce warfare cricket trigger off |  

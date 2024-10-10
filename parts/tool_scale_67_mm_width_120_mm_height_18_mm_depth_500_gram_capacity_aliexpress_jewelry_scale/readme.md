@@ -122,6 +122,18 @@ steel
 noble
 beyond
 wonder |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famoustalkphonehiddendoublesteelnoblebeyondwondercopper |  
+| bip_39_word_no_space_11 | famoustalkphonehiddendoublesteelnoblebeyondwondercopperquality |  
+| bip_39_word_no_space_12 | famoustalkphonehiddendoublesteelnoblebeyondwondercopperqualityalien |  
+| bip_39_word_no_space_2 | famoustalk |  
+| bip_39_word_no_space_3 | famoustalkphone |  
+| bip_39_word_no_space_4 | famoustalkphonehidden |  
+| bip_39_word_no_space_5 | famoustalkphonehiddendouble |  
+| bip_39_word_no_space_6 | famoustalkphonehiddendoublesteel |  
+| bip_39_word_no_space_7 | famoustalkphonehiddendoublesteelnoble |  
+| bip_39_word_no_space_8 | famoustalkphonehiddendoublesteelnoblebeyond |  
+| bip_39_word_no_space_9 | famoustalkphonehiddendoublesteelnoblebeyondwonder |  
 | bip_39_word_space_0 | ['famous', 'talk', 'phone', 'hidden', 'double', 'steel', 'noble', 'beyond', 'wonder', 'copper', 'quality', 'alien'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous talk phone hidden double steel noble beyond wonder copper |  

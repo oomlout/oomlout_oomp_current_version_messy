@@ -122,6 +122,18 @@ ill
 warrior
 color
 hybrid |  
+| bip_39_word_no_space_1 | chat |  
+| bip_39_word_no_space_10 | chatsaladbonedramalaborillwarriorcolorhybridslim |  
+| bip_39_word_no_space_11 | chatsaladbonedramalaborillwarriorcolorhybridslimvibrant |  
+| bip_39_word_no_space_12 | chatsaladbonedramalaborillwarriorcolorhybridslimvibrantathlete |  
+| bip_39_word_no_space_2 | chatsalad |  
+| bip_39_word_no_space_3 | chatsaladbone |  
+| bip_39_word_no_space_4 | chatsaladbonedrama |  
+| bip_39_word_no_space_5 | chatsaladbonedramalabor |  
+| bip_39_word_no_space_6 | chatsaladbonedramalaborill |  
+| bip_39_word_no_space_7 | chatsaladbonedramalaborillwarrior |  
+| bip_39_word_no_space_8 | chatsaladbonedramalaborillwarriorcolor |  
+| bip_39_word_no_space_9 | chatsaladbonedramalaborillwarriorcolorhybrid |  
 | bip_39_word_space_0 | ['chat', 'salad', 'bone', 'drama', 'labor', 'ill', 'warrior', 'color', 'hybrid', 'slim', 'vibrant', 'athlete'] |  
 | bip_39_word_space_1 | chat |  
 | bip_39_word_space_10 | chat salad bone drama labor ill warrior color hybrid slim |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'high
   vote
 
   safe'
+bip_39_word_no_space_1: high
+bip_39_word_no_space_10: highcattlefollowalterordergainhazardvotesafesheriff
+bip_39_word_no_space_11: highcattlefollowalterordergainhazardvotesafesherifftuition
+bip_39_word_no_space_12: highcattlefollowalterordergainhazardvotesafesherifftuitionabstract
+bip_39_word_no_space_2: highcattle
+bip_39_word_no_space_3: highcattlefollow
+bip_39_word_no_space_4: highcattlefollowalter
+bip_39_word_no_space_5: highcattlefollowalterorder
+bip_39_word_no_space_6: highcattlefollowalterordergain
+bip_39_word_no_space_7: highcattlefollowalterordergainhazard
+bip_39_word_no_space_8: highcattlefollowalterordergainhazardvote
+bip_39_word_no_space_9: highcattlefollowalterordergainhazardvotesafe
 bip_39_word_space_0:
 - high
 - cattle

@@ -122,6 +122,18 @@ island
 exhaust
 cliff
 mobile |  
+| bip_39_word_no_space_1 | lend |  
+| bip_39_word_no_space_10 | lendgroupspeedblushtasteislandexhaustcliffmobileahead |  
+| bip_39_word_no_space_11 | lendgroupspeedblushtasteislandexhaustcliffmobileaheaddraft |  
+| bip_39_word_no_space_12 | lendgroupspeedblushtasteislandexhaustcliffmobileaheaddraftappear |  
+| bip_39_word_no_space_2 | lendgroup |  
+| bip_39_word_no_space_3 | lendgroupspeed |  
+| bip_39_word_no_space_4 | lendgroupspeedblush |  
+| bip_39_word_no_space_5 | lendgroupspeedblushtaste |  
+| bip_39_word_no_space_6 | lendgroupspeedblushtasteisland |  
+| bip_39_word_no_space_7 | lendgroupspeedblushtasteislandexhaust |  
+| bip_39_word_no_space_8 | lendgroupspeedblushtasteislandexhaustcliff |  
+| bip_39_word_no_space_9 | lendgroupspeedblushtasteislandexhaustcliffmobile |  
 | bip_39_word_space_0 | ['lend', 'group', 'speed', 'blush', 'taste', 'island', 'exhaust', 'cliff', 'mobile', 'ahead', 'draft', 'appear'] |  
 | bip_39_word_space_1 | lend |  
 | bip_39_word_space_10 | lend group speed blush taste island exhaust cliff mobile ahead |  

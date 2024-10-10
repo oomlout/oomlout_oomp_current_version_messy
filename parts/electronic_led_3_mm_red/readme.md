@@ -122,6 +122,18 @@ ball
 quick
 rifle
 language |  
+| bip_39_word_no_space_1 | crew |  
+| bip_39_word_no_space_10 | crewidlemedalvoidparkballquickriflelanguageacoustic |  
+| bip_39_word_no_space_11 | crewidlemedalvoidparkballquickriflelanguageacousticalien |  
+| bip_39_word_no_space_12 | crewidlemedalvoidparkballquickriflelanguageacousticalienanother |  
+| bip_39_word_no_space_2 | crewidle |  
+| bip_39_word_no_space_3 | crewidlemedal |  
+| bip_39_word_no_space_4 | crewidlemedalvoid |  
+| bip_39_word_no_space_5 | crewidlemedalvoidpark |  
+| bip_39_word_no_space_6 | crewidlemedalvoidparkball |  
+| bip_39_word_no_space_7 | crewidlemedalvoidparkballquick |  
+| bip_39_word_no_space_8 | crewidlemedalvoidparkballquickrifle |  
+| bip_39_word_no_space_9 | crewidlemedalvoidparkballquickriflelanguage |  
 | bip_39_word_space_0 | ['crew', 'idle', 'medal', 'void', 'park', 'ball', 'quick', 'rifle', 'language', 'acoustic', 'alien', 'another'] |  
 | bip_39_word_space_1 | crew |  
 | bip_39_word_space_10 | crew idle medal void park ball quick rifle language acoustic |  

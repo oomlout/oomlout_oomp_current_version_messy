@@ -122,6 +122,18 @@ rack
 sunny
 fiber
 chat |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicedetailbasiceliteclinicracksunnyfiberchattrack |  
+| bip_39_word_no_space_11 | spicedetailbasiceliteclinicracksunnyfiberchattracktrial |  
+| bip_39_word_no_space_12 | spicedetailbasiceliteclinicracksunnyfiberchattracktrialacoustic |  
+| bip_39_word_no_space_2 | spicedetail |  
+| bip_39_word_no_space_3 | spicedetailbasic |  
+| bip_39_word_no_space_4 | spicedetailbasicelite |  
+| bip_39_word_no_space_5 | spicedetailbasiceliteclinic |  
+| bip_39_word_no_space_6 | spicedetailbasiceliteclinicrack |  
+| bip_39_word_no_space_7 | spicedetailbasiceliteclinicracksunny |  
+| bip_39_word_no_space_8 | spicedetailbasiceliteclinicracksunnyfiber |  
+| bip_39_word_no_space_9 | spicedetailbasiceliteclinicracksunnyfiberchat |  
 | bip_39_word_space_0 | ['spice', 'detail', 'basic', 'elite', 'clinic', 'rack', 'sunny', 'fiber', 'chat', 'track', 'trial', 'acoustic'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice detail basic elite clinic rack sunny fiber chat track |  

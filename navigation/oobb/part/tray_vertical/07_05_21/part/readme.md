@@ -122,6 +122,18 @@ galaxy
 census
 fitness
 foster |  
+| bip_39_word_no_space_1 | piano |  
+| bip_39_word_no_space_10 | pianograinfarmpitchcactusgalaxycensusfitnessfosterend |  
+| bip_39_word_no_space_11 | pianograinfarmpitchcactusgalaxycensusfitnessfosterendbelieve |  
+| bip_39_word_no_space_12 | pianograinfarmpitchcactusgalaxycensusfitnessfosterendbelieveask |  
+| bip_39_word_no_space_2 | pianograin |  
+| bip_39_word_no_space_3 | pianograinfarm |  
+| bip_39_word_no_space_4 | pianograinfarmpitch |  
+| bip_39_word_no_space_5 | pianograinfarmpitchcactus |  
+| bip_39_word_no_space_6 | pianograinfarmpitchcactusgalaxy |  
+| bip_39_word_no_space_7 | pianograinfarmpitchcactusgalaxycensus |  
+| bip_39_word_no_space_8 | pianograinfarmpitchcactusgalaxycensusfitness |  
+| bip_39_word_no_space_9 | pianograinfarmpitchcactusgalaxycensusfitnessfoster |  
 | bip_39_word_space_0 | ['piano', 'grain', 'farm', 'pitch', 'cactus', 'galaxy', 'census', 'fitness', 'foster', 'end', 'believe', 'ask'] |  
 | bip_39_word_space_1 | piano |  
 | bip_39_word_space_10 | piano grain farm pitch cactus galaxy census fitness foster end |  

@@ -122,6 +122,18 @@ endorse
 join
 dolphin
 cinnamon |  
+| bip_39_word_no_space_1 | include |  
+| bip_39_word_no_space_10 | includeshouldergreensciencemajorendorsejoindolphincinnamonmaster |  
+| bip_39_word_no_space_11 | includeshouldergreensciencemajorendorsejoindolphincinnamonmastermuffin |  
+| bip_39_word_no_space_12 | includeshouldergreensciencemajorendorsejoindolphincinnamonmastermuffinacross |  
+| bip_39_word_no_space_2 | includeshoulder |  
+| bip_39_word_no_space_3 | includeshouldergreen |  
+| bip_39_word_no_space_4 | includeshouldergreenscience |  
+| bip_39_word_no_space_5 | includeshouldergreensciencemajor |  
+| bip_39_word_no_space_6 | includeshouldergreensciencemajorendorse |  
+| bip_39_word_no_space_7 | includeshouldergreensciencemajorendorsejoin |  
+| bip_39_word_no_space_8 | includeshouldergreensciencemajorendorsejoindolphin |  
+| bip_39_word_no_space_9 | includeshouldergreensciencemajorendorsejoindolphincinnamon |  
 | bip_39_word_space_0 | ['include', 'shoulder', 'green', 'science', 'major', 'endorse', 'join', 'dolphin', 'cinnamon', 'master', 'muffin', 'across'] |  
 | bip_39_word_space_1 | include |  
 | bip_39_word_space_10 | include shoulder green science major endorse join dolphin cinnamon master |  

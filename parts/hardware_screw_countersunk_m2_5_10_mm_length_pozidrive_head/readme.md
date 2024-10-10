@@ -122,6 +122,18 @@ deposit
 hair
 wine
 tobacco |  
+| bip_39_word_no_space_1 | inhale |  
+| bip_39_word_no_space_10 | inhalesuggestpermitpoempredictdeposithairwinetobaccospy |  
+| bip_39_word_no_space_11 | inhalesuggestpermitpoempredictdeposithairwinetobaccospytackle |  
+| bip_39_word_no_space_12 | inhalesuggestpermitpoempredictdeposithairwinetobaccospytacklealways |  
+| bip_39_word_no_space_2 | inhalesuggest |  
+| bip_39_word_no_space_3 | inhalesuggestpermit |  
+| bip_39_word_no_space_4 | inhalesuggestpermitpoem |  
+| bip_39_word_no_space_5 | inhalesuggestpermitpoempredict |  
+| bip_39_word_no_space_6 | inhalesuggestpermitpoempredictdeposit |  
+| bip_39_word_no_space_7 | inhalesuggestpermitpoempredictdeposithair |  
+| bip_39_word_no_space_8 | inhalesuggestpermitpoempredictdeposithairwine |  
+| bip_39_word_no_space_9 | inhalesuggestpermitpoempredictdeposithairwinetobacco |  
 | bip_39_word_space_0 | ['inhale', 'suggest', 'permit', 'poem', 'predict', 'deposit', 'hair', 'wine', 'tobacco', 'spy', 'tackle', 'always'] |  
 | bip_39_word_space_1 | inhale |  
 | bip_39_word_space_10 | inhale suggest permit poem predict deposit hair wine tobacco spy |  

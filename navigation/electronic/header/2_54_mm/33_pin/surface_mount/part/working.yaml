@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'critic
   hospital
 
   between'
+bip_39_word_no_space_1: critic
+bip_39_word_no_space_10: criticboxarmseatwingracefeaturehospitalbetweenleg
+bip_39_word_no_space_11: criticboxarmseatwingracefeaturehospitalbetweenlegparty
+bip_39_word_no_space_12: criticboxarmseatwingracefeaturehospitalbetweenlegpartyarctic
+bip_39_word_no_space_2: criticbox
+bip_39_word_no_space_3: criticboxarm
+bip_39_word_no_space_4: criticboxarmseat
+bip_39_word_no_space_5: criticboxarmseatwing
+bip_39_word_no_space_6: criticboxarmseatwingrace
+bip_39_word_no_space_7: criticboxarmseatwingracefeature
+bip_39_word_no_space_8: criticboxarmseatwingracefeaturehospital
+bip_39_word_no_space_9: criticboxarmseatwingracefeaturehospitalbetween
 bip_39_word_space_0:
 - critic
 - box

@@ -122,6 +122,18 @@ slogan
 unable
 female
 connect |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | providemombarrelpilothorrorsloganunablefemaleconnectearly |  
+| bip_39_word_no_space_11 | providemombarrelpilothorrorsloganunablefemaleconnectearlyoccur |  
+| bip_39_word_no_space_12 | providemombarrelpilothorrorsloganunablefemaleconnectearlyoccuralter |  
+| bip_39_word_no_space_2 | providemom |  
+| bip_39_word_no_space_3 | providemombarrel |  
+| bip_39_word_no_space_4 | providemombarrelpilot |  
+| bip_39_word_no_space_5 | providemombarrelpilothorror |  
+| bip_39_word_no_space_6 | providemombarrelpilothorrorslogan |  
+| bip_39_word_no_space_7 | providemombarrelpilothorrorsloganunable |  
+| bip_39_word_no_space_8 | providemombarrelpilothorrorsloganunablefemale |  
+| bip_39_word_no_space_9 | providemombarrelpilothorrorsloganunablefemaleconnect |  
 | bip_39_word_space_0 | ['provide', 'mom', 'barrel', 'pilot', 'horror', 'slogan', 'unable', 'female', 'connect', 'early', 'occur', 'alter'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide mom barrel pilot horror slogan unable female connect early |  

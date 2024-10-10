@@ -122,6 +122,18 @@ fork
 rent
 cupboard
 small |  
+| bip_39_word_no_space_1 | miracle |  
+| bip_39_word_no_space_10 | miracletouristrawmadsoonforkrentcupboardsmallshed |  
+| bip_39_word_no_space_11 | miracletouristrawmadsoonforkrentcupboardsmallshedagent |  
+| bip_39_word_no_space_12 | miracletouristrawmadsoonforkrentcupboardsmallshedagentarmed |  
+| bip_39_word_no_space_2 | miracletourist |  
+| bip_39_word_no_space_3 | miracletouristraw |  
+| bip_39_word_no_space_4 | miracletouristrawmad |  
+| bip_39_word_no_space_5 | miracletouristrawmadsoon |  
+| bip_39_word_no_space_6 | miracletouristrawmadsoonfork |  
+| bip_39_word_no_space_7 | miracletouristrawmadsoonforkrent |  
+| bip_39_word_no_space_8 | miracletouristrawmadsoonforkrentcupboard |  
+| bip_39_word_no_space_9 | miracletouristrawmadsoonforkrentcupboardsmall |  
 | bip_39_word_space_0 | ['miracle', 'tourist', 'raw', 'mad', 'soon', 'fork', 'rent', 'cupboard', 'small', 'shed', 'agent', 'armed'] |  
 | bip_39_word_space_1 | miracle |  
 | bip_39_word_space_10 | miracle tourist raw mad soon fork rent cupboard small shed |  

@@ -122,6 +122,18 @@ tragic
 garlic
 salt
 leisure |  
+| bip_39_word_no_space_1 | duty |  
+| bip_39_word_no_space_10 | dutylendfindraccoonexhibittragicgarlicsaltleisurecar |  
+| bip_39_word_no_space_11 | dutylendfindraccoonexhibittragicgarlicsaltleisurecarplace |  
+| bip_39_word_no_space_12 | dutylendfindraccoonexhibittragicgarlicsaltleisurecarplaceadd |  
+| bip_39_word_no_space_2 | dutylend |  
+| bip_39_word_no_space_3 | dutylendfind |  
+| bip_39_word_no_space_4 | dutylendfindraccoon |  
+| bip_39_word_no_space_5 | dutylendfindraccoonexhibit |  
+| bip_39_word_no_space_6 | dutylendfindraccoonexhibittragic |  
+| bip_39_word_no_space_7 | dutylendfindraccoonexhibittragicgarlic |  
+| bip_39_word_no_space_8 | dutylendfindraccoonexhibittragicgarlicsalt |  
+| bip_39_word_no_space_9 | dutylendfindraccoonexhibittragicgarlicsaltleisure |  
 | bip_39_word_space_0 | ['duty', 'lend', 'find', 'raccoon', 'exhibit', 'tragic', 'garlic', 'salt', 'leisure', 'car', 'place', 'add'] |  
 | bip_39_word_space_1 | duty |  
 | bip_39_word_space_10 | duty lend find raccoon exhibit tragic garlic salt leisure car |  

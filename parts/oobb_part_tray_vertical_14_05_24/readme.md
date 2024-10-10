@@ -122,6 +122,18 @@ venue
 until
 charge
 true |  
+| bip_39_word_no_space_1 | all |  
+| bip_39_word_no_space_10 | allheadrevealfiltersavevenueuntilchargetrueobscure |  
+| bip_39_word_no_space_11 | allheadrevealfiltersavevenueuntilchargetrueobscuretackle |  
+| bip_39_word_no_space_12 | allheadrevealfiltersavevenueuntilchargetrueobscuretackleable |  
+| bip_39_word_no_space_2 | allhead |  
+| bip_39_word_no_space_3 | allheadreveal |  
+| bip_39_word_no_space_4 | allheadrevealfilter |  
+| bip_39_word_no_space_5 | allheadrevealfiltersave |  
+| bip_39_word_no_space_6 | allheadrevealfiltersavevenue |  
+| bip_39_word_no_space_7 | allheadrevealfiltersavevenueuntil |  
+| bip_39_word_no_space_8 | allheadrevealfiltersavevenueuntilcharge |  
+| bip_39_word_no_space_9 | allheadrevealfiltersavevenueuntilchargetrue |  
 | bip_39_word_space_0 | ['all', 'head', 'reveal', 'filter', 'save', 'venue', 'until', 'charge', 'true', 'obscure', 'tackle', 'able'] |  
 | bip_39_word_space_1 | all |  
 | bip_39_word_space_10 | all head reveal filter save venue until charge true obscure |  

@@ -122,6 +122,18 @@ mind
 cigar
 replace
 again |  
+| bip_39_word_no_space_1 | swarm |  
+| bip_39_word_no_space_10 | swarmfootdoginvolveelementmindcigarreplaceagainarrest |  
+| bip_39_word_no_space_11 | swarmfootdoginvolveelementmindcigarreplaceagainarrestbasket |  
+| bip_39_word_no_space_12 | swarmfootdoginvolveelementmindcigarreplaceagainarrestbasketaim |  
+| bip_39_word_no_space_2 | swarmfoot |  
+| bip_39_word_no_space_3 | swarmfootdog |  
+| bip_39_word_no_space_4 | swarmfootdoginvolve |  
+| bip_39_word_no_space_5 | swarmfootdoginvolveelement |  
+| bip_39_word_no_space_6 | swarmfootdoginvolveelementmind |  
+| bip_39_word_no_space_7 | swarmfootdoginvolveelementmindcigar |  
+| bip_39_word_no_space_8 | swarmfootdoginvolveelementmindcigarreplace |  
+| bip_39_word_no_space_9 | swarmfootdoginvolveelementmindcigarreplaceagain |  
 | bip_39_word_space_0 | ['swarm', 'foot', 'dog', 'involve', 'element', 'mind', 'cigar', 'replace', 'again', 'arrest', 'basket', 'aim'] |  
 | bip_39_word_space_1 | swarm |  
 | bip_39_word_space_10 | swarm foot dog involve element mind cigar replace again arrest |  

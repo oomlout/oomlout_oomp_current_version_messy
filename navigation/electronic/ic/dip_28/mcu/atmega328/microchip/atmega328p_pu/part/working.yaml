@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grid
   canal
 
   swear'
+bip_39_word_no_space_1: grid
+bip_39_word_no_space_10: gridfashionopencancelsubmitwildcanyoncanalswearjealous
+bip_39_word_no_space_11: gridfashionopencancelsubmitwildcanyoncanalswearjealousnoble
+bip_39_word_no_space_12: gridfashionopencancelsubmitwildcanyoncanalswearjealousnobleaisle
+bip_39_word_no_space_2: gridfashion
+bip_39_word_no_space_3: gridfashionopen
+bip_39_word_no_space_4: gridfashionopencancel
+bip_39_word_no_space_5: gridfashionopencancelsubmit
+bip_39_word_no_space_6: gridfashionopencancelsubmitwild
+bip_39_word_no_space_7: gridfashionopencancelsubmitwildcanyon
+bip_39_word_no_space_8: gridfashionopencancelsubmitwildcanyoncanal
+bip_39_word_no_space_9: gridfashionopencancelsubmitwildcanyoncanalswear
 bip_39_word_space_0:
 - grid
 - fashion

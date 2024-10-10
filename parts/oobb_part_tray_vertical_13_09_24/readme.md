@@ -122,6 +122,18 @@ garage
 business
 lemon
 bounce |  
+| bip_39_word_no_space_1 | round |  
+| bip_39_word_no_space_10 | roundallowcrushdetecttobaccogaragebusinesslemonbounceexpect |  
+| bip_39_word_no_space_11 | roundallowcrushdetecttobaccogaragebusinesslemonbounceexpectribbon |  
+| bip_39_word_no_space_12 | roundallowcrushdetecttobaccogaragebusinesslemonbounceexpectribbonanother |  
+| bip_39_word_no_space_2 | roundallow |  
+| bip_39_word_no_space_3 | roundallowcrush |  
+| bip_39_word_no_space_4 | roundallowcrushdetect |  
+| bip_39_word_no_space_5 | roundallowcrushdetecttobacco |  
+| bip_39_word_no_space_6 | roundallowcrushdetecttobaccogarage |  
+| bip_39_word_no_space_7 | roundallowcrushdetecttobaccogaragebusiness |  
+| bip_39_word_no_space_8 | roundallowcrushdetecttobaccogaragebusinesslemon |  
+| bip_39_word_no_space_9 | roundallowcrushdetecttobaccogaragebusinesslemonbounce |  
 | bip_39_word_space_0 | ['round', 'allow', 'crush', 'detect', 'tobacco', 'garage', 'business', 'lemon', 'bounce', 'expect', 'ribbon', 'another'] |  
 | bip_39_word_space_1 | round |  
 | bip_39_word_space_10 | round allow crush detect tobacco garage business lemon bounce expect |  

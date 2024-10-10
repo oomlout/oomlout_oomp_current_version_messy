@@ -122,6 +122,18 @@ display
 expire
 quit
 rich |  
+| bip_39_word_no_space_1 | south |  
+| bip_39_word_no_space_10 | southderivearoundgymglovedisplayexpirequitrichoption |  
+| bip_39_word_no_space_11 | southderivearoundgymglovedisplayexpirequitrichoptionsunset |  
+| bip_39_word_no_space_12 | southderivearoundgymglovedisplayexpirequitrichoptionsunsetalbum |  
+| bip_39_word_no_space_2 | southderive |  
+| bip_39_word_no_space_3 | southderivearound |  
+| bip_39_word_no_space_4 | southderivearoundgym |  
+| bip_39_word_no_space_5 | southderivearoundgymglove |  
+| bip_39_word_no_space_6 | southderivearoundgymglovedisplay |  
+| bip_39_word_no_space_7 | southderivearoundgymglovedisplayexpire |  
+| bip_39_word_no_space_8 | southderivearoundgymglovedisplayexpirequit |  
+| bip_39_word_no_space_9 | southderivearoundgymglovedisplayexpirequitrich |  
 | bip_39_word_space_0 | ['south', 'derive', 'around', 'gym', 'glove', 'display', 'expire', 'quit', 'rich', 'option', 'sunset', 'album'] |  
 | bip_39_word_space_1 | south |  
 | bip_39_word_space_10 | south derive around gym glove display expire quit rich option |  

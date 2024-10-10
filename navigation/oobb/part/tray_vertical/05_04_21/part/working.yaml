@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'model
   indoor
 
   cruise'
+bip_39_word_no_space_1: model
+bip_39_word_no_space_10: modelglancerugspysaucelicensecrawlindoorcruisesick
+bip_39_word_no_space_11: modelglancerugspysaucelicensecrawlindoorcruisesickenroll
+bip_39_word_no_space_12: modelglancerugspysaucelicensecrawlindoorcruisesickenrollanalyst
+bip_39_word_no_space_2: modelglance
+bip_39_word_no_space_3: modelglancerug
+bip_39_word_no_space_4: modelglancerugspy
+bip_39_word_no_space_5: modelglancerugspysauce
+bip_39_word_no_space_6: modelglancerugspysaucelicense
+bip_39_word_no_space_7: modelglancerugspysaucelicensecrawl
+bip_39_word_no_space_8: modelglancerugspysaucelicensecrawlindoor
+bip_39_word_no_space_9: modelglancerugspysaucelicensecrawlindoorcruise
 bip_39_word_space_0:
 - model
 - glance

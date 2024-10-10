@@ -122,6 +122,18 @@ riot
 boost
 tent
 laptop |  
+| bip_39_word_no_space_1 | fun |  
+| bip_39_word_no_space_10 | funobligecrackillnessdayriotboosttentlaptopkitchen |  
+| bip_39_word_no_space_11 | funobligecrackillnessdayriotboosttentlaptopkitchenunfold |  
+| bip_39_word_no_space_12 | funobligecrackillnessdayriotboosttentlaptopkitchenunfoldalmost |  
+| bip_39_word_no_space_2 | funoblige |  
+| bip_39_word_no_space_3 | funobligecrack |  
+| bip_39_word_no_space_4 | funobligecrackillness |  
+| bip_39_word_no_space_5 | funobligecrackillnessday |  
+| bip_39_word_no_space_6 | funobligecrackillnessdayriot |  
+| bip_39_word_no_space_7 | funobligecrackillnessdayriotboost |  
+| bip_39_word_no_space_8 | funobligecrackillnessdayriotboosttent |  
+| bip_39_word_no_space_9 | funobligecrackillnessdayriotboosttentlaptop |  
 | bip_39_word_space_0 | ['fun', 'oblige', 'crack', 'illness', 'day', 'riot', 'boost', 'tent', 'laptop', 'kitchen', 'unfold', 'almost'] |  
 | bip_39_word_space_1 | fun |  
 | bip_39_word_space_10 | fun oblige crack illness day riot boost tent laptop kitchen |  

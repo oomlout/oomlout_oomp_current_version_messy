@@ -122,6 +122,18 @@ public
 tattoo
 blanket
 sadness |  
+| bip_39_word_no_space_1 | humble |  
+| bip_39_word_no_space_10 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkin |  
+| bip_39_word_no_space_11 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibit |  
+| bip_39_word_no_space_12 | humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibitassume |  
+| bip_39_word_no_space_2 | humbleclerk |  
+| bip_39_word_no_space_3 | humbleclerkhockey |  
+| bip_39_word_no_space_4 | humbleclerkhockeypeace |  
+| bip_39_word_no_space_5 | humbleclerkhockeypeaceahead |  
+| bip_39_word_no_space_6 | humbleclerkhockeypeaceaheadpublic |  
+| bip_39_word_no_space_7 | humbleclerkhockeypeaceaheadpublictattoo |  
+| bip_39_word_no_space_8 | humbleclerkhockeypeaceaheadpublictattooblanket |  
+| bip_39_word_no_space_9 | humbleclerkhockeypeaceaheadpublictattooblanketsadness |  
 | bip_39_word_space_0 | ['humble', 'clerk', 'hockey', 'peace', 'ahead', 'public', 'tattoo', 'blanket', 'sadness', 'pumpkin', 'exhibit', 'assume'] |  
 | bip_39_word_space_1 | humble |  
 | bip_39_word_space_10 | humble clerk hockey peace ahead public tattoo blanket sadness pumpkin |  

@@ -122,6 +122,18 @@ dismiss
 want
 awkward
 cage |  
+| bip_39_word_no_space_1 | travel |  
+| bip_39_word_no_space_10 | travelspeedflushtypeindoordismisswantawkwardcagecongress |  
+| bip_39_word_no_space_11 | travelspeedflushtypeindoordismisswantawkwardcagecongressmanage |  
+| bip_39_word_no_space_12 | travelspeedflushtypeindoordismisswantawkwardcagecongressmanageair |  
+| bip_39_word_no_space_2 | travelspeed |  
+| bip_39_word_no_space_3 | travelspeedflush |  
+| bip_39_word_no_space_4 | travelspeedflushtype |  
+| bip_39_word_no_space_5 | travelspeedflushtypeindoor |  
+| bip_39_word_no_space_6 | travelspeedflushtypeindoordismiss |  
+| bip_39_word_no_space_7 | travelspeedflushtypeindoordismisswant |  
+| bip_39_word_no_space_8 | travelspeedflushtypeindoordismisswantawkward |  
+| bip_39_word_no_space_9 | travelspeedflushtypeindoordismisswantawkwardcage |  
 | bip_39_word_space_0 | ['travel', 'speed', 'flush', 'type', 'indoor', 'dismiss', 'want', 'awkward', 'cage', 'congress', 'manage', 'air'] |  
 | bip_39_word_space_1 | travel |  
 | bip_39_word_space_10 | travel speed flush type indoor dismiss want awkward cage congress |  

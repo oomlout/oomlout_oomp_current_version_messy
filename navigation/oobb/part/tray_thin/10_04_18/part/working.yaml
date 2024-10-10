@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mix
   result
 
   child'
+bip_39_word_no_space_1: mix
+bip_39_word_no_space_10: mixvelvetwindowabandonhireraiseburstresultchildautumn
+bip_39_word_no_space_11: mixvelvetwindowabandonhireraiseburstresultchildautumnusual
+bip_39_word_no_space_12: mixvelvetwindowabandonhireraiseburstresultchildautumnusualalready
+bip_39_word_no_space_2: mixvelvet
+bip_39_word_no_space_3: mixvelvetwindow
+bip_39_word_no_space_4: mixvelvetwindowabandon
+bip_39_word_no_space_5: mixvelvetwindowabandonhire
+bip_39_word_no_space_6: mixvelvetwindowabandonhireraise
+bip_39_word_no_space_7: mixvelvetwindowabandonhireraiseburst
+bip_39_word_no_space_8: mixvelvetwindowabandonhireraiseburstresult
+bip_39_word_no_space_9: mixvelvetwindowabandonhireraiseburstresultchild
 bip_39_word_space_0:
 - mix
 - velvet

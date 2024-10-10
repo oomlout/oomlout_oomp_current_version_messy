@@ -122,6 +122,18 @@ side
 spoil
 bamboo
 gift |  
+| bip_39_word_no_space_1 | rose |  
+| bip_39_word_no_space_10 | rosecongresshomeordinarymonitorsidespoilbamboogiftdegree |  
+| bip_39_word_no_space_11 | rosecongresshomeordinarymonitorsidespoilbamboogiftdegreeplease |  
+| bip_39_word_no_space_12 | rosecongresshomeordinarymonitorsidespoilbamboogiftdegreepleaseantique |  
+| bip_39_word_no_space_2 | rosecongress |  
+| bip_39_word_no_space_3 | rosecongresshome |  
+| bip_39_word_no_space_4 | rosecongresshomeordinary |  
+| bip_39_word_no_space_5 | rosecongresshomeordinarymonitor |  
+| bip_39_word_no_space_6 | rosecongresshomeordinarymonitorside |  
+| bip_39_word_no_space_7 | rosecongresshomeordinarymonitorsidespoil |  
+| bip_39_word_no_space_8 | rosecongresshomeordinarymonitorsidespoilbamboo |  
+| bip_39_word_no_space_9 | rosecongresshomeordinarymonitorsidespoilbamboogift |  
 | bip_39_word_space_0 | ['rose', 'congress', 'home', 'ordinary', 'monitor', 'side', 'spoil', 'bamboo', 'gift', 'degree', 'please', 'antique'] |  
 | bip_39_word_space_1 | rose |  
 | bip_39_word_space_10 | rose congress home ordinary monitor side spoil bamboo gift degree |  

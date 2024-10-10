@@ -122,6 +122,18 @@ camp
 olive
 have
 world |  
+| bip_39_word_no_space_1 | recall |  
+| bip_39_word_no_space_10 | recallsiblingextrapartymillioncampolivehaveworldtitle |  
+| bip_39_word_no_space_11 | recallsiblingextrapartymillioncampolivehaveworldtitlevirtual |  
+| bip_39_word_no_space_12 | recallsiblingextrapartymillioncampolivehaveworldtitlevirtualactual |  
+| bip_39_word_no_space_2 | recallsibling |  
+| bip_39_word_no_space_3 | recallsiblingextra |  
+| bip_39_word_no_space_4 | recallsiblingextraparty |  
+| bip_39_word_no_space_5 | recallsiblingextrapartymillion |  
+| bip_39_word_no_space_6 | recallsiblingextrapartymillioncamp |  
+| bip_39_word_no_space_7 | recallsiblingextrapartymillioncampolive |  
+| bip_39_word_no_space_8 | recallsiblingextrapartymillioncampolivehave |  
+| bip_39_word_no_space_9 | recallsiblingextrapartymillioncampolivehaveworld |  
 | bip_39_word_space_0 | ['recall', 'sibling', 'extra', 'party', 'million', 'camp', 'olive', 'have', 'world', 'title', 'virtual', 'actual'] |  
 | bip_39_word_space_1 | recall |  
 | bip_39_word_space_10 | recall sibling extra party million camp olive have world title |  

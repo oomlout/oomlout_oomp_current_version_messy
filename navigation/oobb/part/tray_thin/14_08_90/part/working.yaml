@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fan
   confirm
 
   royal'
+bip_39_word_no_space_1: fan
+bip_39_word_no_space_10: fanfatalvillagemailactressgarmentawareconfirmroyalreveal
+bip_39_word_no_space_11: fanfatalvillagemailactressgarmentawareconfirmroyalrevealrose
+bip_39_word_no_space_12: fanfatalvillagemailactressgarmentawareconfirmroyalrevealroseaerobic
+bip_39_word_no_space_2: fanfatal
+bip_39_word_no_space_3: fanfatalvillage
+bip_39_word_no_space_4: fanfatalvillagemail
+bip_39_word_no_space_5: fanfatalvillagemailactress
+bip_39_word_no_space_6: fanfatalvillagemailactressgarment
+bip_39_word_no_space_7: fanfatalvillagemailactressgarmentaware
+bip_39_word_no_space_8: fanfatalvillagemailactressgarmentawareconfirm
+bip_39_word_no_space_9: fanfatalvillagemailactressgarmentawareconfirmroyal
 bip_39_word_space_0:
 - fan
 - fatal

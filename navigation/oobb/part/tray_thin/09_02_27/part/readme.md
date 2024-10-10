@@ -122,6 +122,18 @@ hungry
 height
 way
 pet |  
+| bip_39_word_no_space_1 | occur |  
+| bip_39_word_no_space_10 | occurtubeenginetrophydonkeyhungryheightwaypetexhibit |  
+| bip_39_word_no_space_11 | occurtubeenginetrophydonkeyhungryheightwaypetexhibitobvious |  
+| bip_39_word_no_space_12 | occurtubeenginetrophydonkeyhungryheightwaypetexhibitobviousability |  
+| bip_39_word_no_space_2 | occurtube |  
+| bip_39_word_no_space_3 | occurtubeengine |  
+| bip_39_word_no_space_4 | occurtubeenginetrophy |  
+| bip_39_word_no_space_5 | occurtubeenginetrophydonkey |  
+| bip_39_word_no_space_6 | occurtubeenginetrophydonkeyhungry |  
+| bip_39_word_no_space_7 | occurtubeenginetrophydonkeyhungryheight |  
+| bip_39_word_no_space_8 | occurtubeenginetrophydonkeyhungryheightway |  
+| bip_39_word_no_space_9 | occurtubeenginetrophydonkeyhungryheightwaypet |  
 | bip_39_word_space_0 | ['occur', 'tube', 'engine', 'trophy', 'donkey', 'hungry', 'height', 'way', 'pet', 'exhibit', 'obvious', 'ability'] |  
 | bip_39_word_space_1 | occur |  
 | bip_39_word_space_10 | occur tube engine trophy donkey hungry height way pet exhibit |  

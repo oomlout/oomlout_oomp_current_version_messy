@@ -122,6 +122,18 @@ decline
 melt
 drum
 shell |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | gunfluidhistorymodeldividedeclinemeltdrumshellsick |  
+| bip_39_word_no_space_11 | gunfluidhistorymodeldividedeclinemeltdrumshellsickweekend |  
+| bip_39_word_no_space_12 | gunfluidhistorymodeldividedeclinemeltdrumshellsickweekendancient |  
+| bip_39_word_no_space_2 | gunfluid |  
+| bip_39_word_no_space_3 | gunfluidhistory |  
+| bip_39_word_no_space_4 | gunfluidhistorymodel |  
+| bip_39_word_no_space_5 | gunfluidhistorymodeldivide |  
+| bip_39_word_no_space_6 | gunfluidhistorymodeldividedecline |  
+| bip_39_word_no_space_7 | gunfluidhistorymodeldividedeclinemelt |  
+| bip_39_word_no_space_8 | gunfluidhistorymodeldividedeclinemeltdrum |  
+| bip_39_word_no_space_9 | gunfluidhistorymodeldividedeclinemeltdrumshell |  
 | bip_39_word_space_0 | ['gun', 'fluid', 'history', 'model', 'divide', 'decline', 'melt', 'drum', 'shell', 'sick', 'weekend', 'ancient'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun fluid history model divide decline melt drum shell sick |  

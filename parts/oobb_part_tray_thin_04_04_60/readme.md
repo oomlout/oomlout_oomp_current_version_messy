@@ -122,6 +122,18 @@ anchor
 execute
 cluster
 license |  
+| bip_39_word_no_space_1 | wing |  
+| bip_39_word_no_space_10 | wingphotoparrothockeylegendanchorexecuteclusterlicensedish |  
+| bip_39_word_no_space_11 | wingphotoparrothockeylegendanchorexecuteclusterlicensedishwealth |  
+| bip_39_word_no_space_12 | wingphotoparrothockeylegendanchorexecuteclusterlicensedishwealtharena |  
+| bip_39_word_no_space_2 | wingphoto |  
+| bip_39_word_no_space_3 | wingphotoparrot |  
+| bip_39_word_no_space_4 | wingphotoparrothockey |  
+| bip_39_word_no_space_5 | wingphotoparrothockeylegend |  
+| bip_39_word_no_space_6 | wingphotoparrothockeylegendanchor |  
+| bip_39_word_no_space_7 | wingphotoparrothockeylegendanchorexecute |  
+| bip_39_word_no_space_8 | wingphotoparrothockeylegendanchorexecutecluster |  
+| bip_39_word_no_space_9 | wingphotoparrothockeylegendanchorexecuteclusterlicense |  
 | bip_39_word_space_0 | ['wing', 'photo', 'parrot', 'hockey', 'legend', 'anchor', 'execute', 'cluster', 'license', 'dish', 'wealth', 'arena'] |  
 | bip_39_word_space_1 | wing |  
 | bip_39_word_space_10 | wing photo parrot hockey legend anchor execute cluster license dish |  

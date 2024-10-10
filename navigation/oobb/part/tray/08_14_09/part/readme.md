@@ -122,6 +122,18 @@ able
 defy
 series
 eagle |  
+| bip_39_word_no_space_1 | twice |  
+| bip_39_word_no_space_10 | twicetaskpicnicfinehiddenabledefyserieseagletrap |  
+| bip_39_word_no_space_11 | twicetaskpicnicfinehiddenabledefyserieseagletrapweather |  
+| bip_39_word_no_space_12 | twicetaskpicnicfinehiddenabledefyserieseagletrapweatheracquire |  
+| bip_39_word_no_space_2 | twicetask |  
+| bip_39_word_no_space_3 | twicetaskpicnic |  
+| bip_39_word_no_space_4 | twicetaskpicnicfine |  
+| bip_39_word_no_space_5 | twicetaskpicnicfinehidden |  
+| bip_39_word_no_space_6 | twicetaskpicnicfinehiddenable |  
+| bip_39_word_no_space_7 | twicetaskpicnicfinehiddenabledefy |  
+| bip_39_word_no_space_8 | twicetaskpicnicfinehiddenabledefyseries |  
+| bip_39_word_no_space_9 | twicetaskpicnicfinehiddenabledefyserieseagle |  
 | bip_39_word_space_0 | ['twice', 'task', 'picnic', 'fine', 'hidden', 'able', 'defy', 'series', 'eagle', 'trap', 'weather', 'acquire'] |  
 | bip_39_word_space_1 | twice |  
 | bip_39_word_space_10 | twice task picnic fine hidden able defy series eagle trap |  

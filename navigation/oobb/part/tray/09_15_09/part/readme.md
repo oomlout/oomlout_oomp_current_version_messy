@@ -122,6 +122,18 @@ force
 fence
 black
 inherit |  
+| bip_39_word_no_space_1 | toilet |  
+| bip_39_word_no_space_10 | toilethorrortongueshellbrickforcefenceblackinheritexist |  
+| bip_39_word_no_space_11 | toilethorrortongueshellbrickforcefenceblackinheritexiststage |  
+| bip_39_word_no_space_12 | toilethorrortongueshellbrickforcefenceblackinheritexiststageadjust |  
+| bip_39_word_no_space_2 | toilethorror |  
+| bip_39_word_no_space_3 | toilethorrortongue |  
+| bip_39_word_no_space_4 | toilethorrortongueshell |  
+| bip_39_word_no_space_5 | toilethorrortongueshellbrick |  
+| bip_39_word_no_space_6 | toilethorrortongueshellbrickforce |  
+| bip_39_word_no_space_7 | toilethorrortongueshellbrickforcefence |  
+| bip_39_word_no_space_8 | toilethorrortongueshellbrickforcefenceblack |  
+| bip_39_word_no_space_9 | toilethorrortongueshellbrickforcefenceblackinherit |  
 | bip_39_word_space_0 | ['toilet', 'horror', 'tongue', 'shell', 'brick', 'force', 'fence', 'black', 'inherit', 'exist', 'stage', 'adjust'] |  
 | bip_39_word_space_1 | toilet |  
 | bip_39_word_space_10 | toilet horror tongue shell brick force fence black inherit exist |  

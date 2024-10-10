@@ -122,6 +122,18 @@ code
 fresh
 negative
 basic |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinpotterydisplaymagicinsanecodefreshnegativebasictail |  
+| bip_39_word_no_space_11 | dolphinpotterydisplaymagicinsanecodefreshnegativebasictailsource |  
+| bip_39_word_no_space_12 | dolphinpotterydisplaymagicinsanecodefreshnegativebasictailsourceatom |  
+| bip_39_word_no_space_2 | dolphinpottery |  
+| bip_39_word_no_space_3 | dolphinpotterydisplay |  
+| bip_39_word_no_space_4 | dolphinpotterydisplaymagic |  
+| bip_39_word_no_space_5 | dolphinpotterydisplaymagicinsane |  
+| bip_39_word_no_space_6 | dolphinpotterydisplaymagicinsanecode |  
+| bip_39_word_no_space_7 | dolphinpotterydisplaymagicinsanecodefresh |  
+| bip_39_word_no_space_8 | dolphinpotterydisplaymagicinsanecodefreshnegative |  
+| bip_39_word_no_space_9 | dolphinpotterydisplaymagicinsanecodefreshnegativebasic |  
 | bip_39_word_space_0 | ['dolphin', 'pottery', 'display', 'magic', 'insane', 'code', 'fresh', 'negative', 'basic', 'tail', 'source', 'atom'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin pottery display magic insane code fresh negative basic tail |  

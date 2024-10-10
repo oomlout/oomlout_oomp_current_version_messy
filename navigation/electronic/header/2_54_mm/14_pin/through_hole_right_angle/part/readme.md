@@ -122,6 +122,18 @@ hero
 offer
 endorse
 symptom |  
+| bip_39_word_no_space_1 | critic |  
+| bip_39_word_no_space_10 | criticgazefoamhoneybachelorheroofferendorsesymptomcrowd |  
+| bip_39_word_no_space_11 | criticgazefoamhoneybachelorheroofferendorsesymptomcrowdpurity |  
+| bip_39_word_no_space_12 | criticgazefoamhoneybachelorheroofferendorsesymptomcrowdpurityair |  
+| bip_39_word_no_space_2 | criticgaze |  
+| bip_39_word_no_space_3 | criticgazefoam |  
+| bip_39_word_no_space_4 | criticgazefoamhoney |  
+| bip_39_word_no_space_5 | criticgazefoamhoneybachelor |  
+| bip_39_word_no_space_6 | criticgazefoamhoneybachelorhero |  
+| bip_39_word_no_space_7 | criticgazefoamhoneybachelorherooffer |  
+| bip_39_word_no_space_8 | criticgazefoamhoneybachelorheroofferendorse |  
+| bip_39_word_no_space_9 | criticgazefoamhoneybachelorheroofferendorsesymptom |  
 | bip_39_word_space_0 | ['critic', 'gaze', 'foam', 'honey', 'bachelor', 'hero', 'offer', 'endorse', 'symptom', 'crowd', 'purity', 'air'] |  
 | bip_39_word_space_1 | critic |  
 | bip_39_word_space_10 | critic gaze foam honey bachelor hero offer endorse symptom crowd |  

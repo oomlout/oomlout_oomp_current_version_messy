@@ -122,6 +122,18 @@ whip
 tone
 convince
 require |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondtitlesalmonhugedoorwhiptoneconvincerequiresnap |  
+| bip_39_word_no_space_11 | secondtitlesalmonhugedoorwhiptoneconvincerequiresnapsand |  
+| bip_39_word_no_space_12 | secondtitlesalmonhugedoorwhiptoneconvincerequiresnapsandamateur |  
+| bip_39_word_no_space_2 | secondtitle |  
+| bip_39_word_no_space_3 | secondtitlesalmon |  
+| bip_39_word_no_space_4 | secondtitlesalmonhuge |  
+| bip_39_word_no_space_5 | secondtitlesalmonhugedoor |  
+| bip_39_word_no_space_6 | secondtitlesalmonhugedoorwhip |  
+| bip_39_word_no_space_7 | secondtitlesalmonhugedoorwhiptone |  
+| bip_39_word_no_space_8 | secondtitlesalmonhugedoorwhiptoneconvince |  
+| bip_39_word_no_space_9 | secondtitlesalmonhugedoorwhiptoneconvincerequire |  
 | bip_39_word_space_0 | ['second', 'title', 'salmon', 'huge', 'door', 'whip', 'tone', 'convince', 'require', 'snap', 'sand', 'amateur'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second title salmon huge door whip tone convince require snap |  

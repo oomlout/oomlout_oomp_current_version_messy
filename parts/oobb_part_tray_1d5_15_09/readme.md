@@ -122,6 +122,18 @@ evolve
 print
 quality
 glass |  
+| bip_39_word_no_space_1 | castle |  
+| bip_39_word_no_space_10 | castleknifeaccountparrotmeasureevolveprintqualityglassbean |  
+| bip_39_word_no_space_11 | castleknifeaccountparrotmeasureevolveprintqualityglassbeancastle |  
+| bip_39_word_no_space_12 | castleknifeaccountparrotmeasureevolveprintqualityglassbeancastleattract |  
+| bip_39_word_no_space_2 | castleknife |  
+| bip_39_word_no_space_3 | castleknifeaccount |  
+| bip_39_word_no_space_4 | castleknifeaccountparrot |  
+| bip_39_word_no_space_5 | castleknifeaccountparrotmeasure |  
+| bip_39_word_no_space_6 | castleknifeaccountparrotmeasureevolve |  
+| bip_39_word_no_space_7 | castleknifeaccountparrotmeasureevolveprint |  
+| bip_39_word_no_space_8 | castleknifeaccountparrotmeasureevolveprintquality |  
+| bip_39_word_no_space_9 | castleknifeaccountparrotmeasureevolveprintqualityglass |  
 | bip_39_word_space_0 | ['castle', 'knife', 'account', 'parrot', 'measure', 'evolve', 'print', 'quality', 'glass', 'bean', 'castle', 'attract'] |  
 | bip_39_word_space_1 | castle |  
 | bip_39_word_space_10 | castle knife account parrot measure evolve print quality glass bean |  

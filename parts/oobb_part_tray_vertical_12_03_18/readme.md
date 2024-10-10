@@ -122,6 +122,18 @@ real
 power
 amount
 mule |  
+| bip_39_word_no_space_1 | right |  
+| bip_39_word_no_space_10 | rightenlistoutdoorrefusefrownrealpoweramountmulethat |  
+| bip_39_word_no_space_11 | rightenlistoutdoorrefusefrownrealpoweramountmulethatreal |  
+| bip_39_word_no_space_12 | rightenlistoutdoorrefusefrownrealpoweramountmulethatrealaccount |  
+| bip_39_word_no_space_2 | rightenlist |  
+| bip_39_word_no_space_3 | rightenlistoutdoor |  
+| bip_39_word_no_space_4 | rightenlistoutdoorrefuse |  
+| bip_39_word_no_space_5 | rightenlistoutdoorrefusefrown |  
+| bip_39_word_no_space_6 | rightenlistoutdoorrefusefrownreal |  
+| bip_39_word_no_space_7 | rightenlistoutdoorrefusefrownrealpower |  
+| bip_39_word_no_space_8 | rightenlistoutdoorrefusefrownrealpoweramount |  
+| bip_39_word_no_space_9 | rightenlistoutdoorrefusefrownrealpoweramountmule |  
 | bip_39_word_space_0 | ['right', 'enlist', 'outdoor', 'refuse', 'frown', 'real', 'power', 'amount', 'mule', 'that', 'real', 'account'] |  
 | bip_39_word_space_1 | right |  
 | bip_39_word_space_10 | right enlist outdoor refuse frown real power amount mule that |  

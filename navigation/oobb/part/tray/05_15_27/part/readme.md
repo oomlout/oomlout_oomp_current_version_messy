@@ -122,6 +122,18 @@ wool
 clutch
 bar
 bind |  
+| bip_39_word_no_space_1 | fruit |  
+| bip_39_word_no_space_10 | fruithawktomatotheresolidwoolclutchbarbindmushroom |  
+| bip_39_word_no_space_11 | fruithawktomatotheresolidwoolclutchbarbindmushroomsay |  
+| bip_39_word_no_space_12 | fruithawktomatotheresolidwoolclutchbarbindmushroomsayagree |  
+| bip_39_word_no_space_2 | fruithawk |  
+| bip_39_word_no_space_3 | fruithawktomato |  
+| bip_39_word_no_space_4 | fruithawktomatothere |  
+| bip_39_word_no_space_5 | fruithawktomatotheresolid |  
+| bip_39_word_no_space_6 | fruithawktomatotheresolidwool |  
+| bip_39_word_no_space_7 | fruithawktomatotheresolidwoolclutch |  
+| bip_39_word_no_space_8 | fruithawktomatotheresolidwoolclutchbar |  
+| bip_39_word_no_space_9 | fruithawktomatotheresolidwoolclutchbarbind |  
 | bip_39_word_space_0 | ['fruit', 'hawk', 'tomato', 'there', 'solid', 'wool', 'clutch', 'bar', 'bind', 'mushroom', 'say', 'agree'] |  
 | bip_39_word_space_1 | fruit |  
 | bip_39_word_space_10 | fruit hawk tomato there solid wool clutch bar bind mushroom |  

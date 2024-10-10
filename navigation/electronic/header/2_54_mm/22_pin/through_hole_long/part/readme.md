@@ -122,6 +122,18 @@ evil
 result
 bind
 fiber |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitothreewolffirststickevilresultbindfiberfeature |  
+| bip_39_word_no_space_11 | mosquitothreewolffirststickevilresultbindfiberfeaturelibrary |  
+| bip_39_word_no_space_12 | mosquitothreewolffirststickevilresultbindfiberfeaturelibraryadvice |  
+| bip_39_word_no_space_2 | mosquitothree |  
+| bip_39_word_no_space_3 | mosquitothreewolf |  
+| bip_39_word_no_space_4 | mosquitothreewolffirst |  
+| bip_39_word_no_space_5 | mosquitothreewolffirststick |  
+| bip_39_word_no_space_6 | mosquitothreewolffirststickevil |  
+| bip_39_word_no_space_7 | mosquitothreewolffirststickevilresult |  
+| bip_39_word_no_space_8 | mosquitothreewolffirststickevilresultbind |  
+| bip_39_word_no_space_9 | mosquitothreewolffirststickevilresultbindfiber |  
 | bip_39_word_space_0 | ['mosquito', 'three', 'wolf', 'first', 'stick', 'evil', 'result', 'bind', 'fiber', 'feature', 'library', 'advice'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito three wolf first stick evil result bind fiber feature |  

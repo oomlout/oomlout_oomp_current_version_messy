@@ -122,6 +122,18 @@ dad
 noise
 culture
 bonus |  
+| bip_39_word_no_space_1 | scale |  
+| bip_39_word_no_space_10 | scaleabilityalphabrasslibertydadnoiseculturebonusaerobic |  
+| bip_39_word_no_space_11 | scaleabilityalphabrasslibertydadnoiseculturebonusaerobicsibling |  
+| bip_39_word_no_space_12 | scaleabilityalphabrasslibertydadnoiseculturebonusaerobicsiblingamazing |  
+| bip_39_word_no_space_2 | scaleability |  
+| bip_39_word_no_space_3 | scaleabilityalpha |  
+| bip_39_word_no_space_4 | scaleabilityalphabrass |  
+| bip_39_word_no_space_5 | scaleabilityalphabrassliberty |  
+| bip_39_word_no_space_6 | scaleabilityalphabrasslibertydad |  
+| bip_39_word_no_space_7 | scaleabilityalphabrasslibertydadnoise |  
+| bip_39_word_no_space_8 | scaleabilityalphabrasslibertydadnoiseculture |  
+| bip_39_word_no_space_9 | scaleabilityalphabrasslibertydadnoiseculturebonus |  
 | bip_39_word_space_0 | ['scale', 'ability', 'alpha', 'brass', 'liberty', 'dad', 'noise', 'culture', 'bonus', 'aerobic', 'sibling', 'amazing'] |  
 | bip_39_word_space_1 | scale |  
 | bip_39_word_space_10 | scale ability alpha brass liberty dad noise culture bonus aerobic |  

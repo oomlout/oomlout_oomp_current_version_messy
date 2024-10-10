@@ -122,6 +122,18 @@ female
 pitch
 buzz
 west |  
+| bip_39_word_no_space_1 | bicycle |  
+| bip_39_word_no_space_10 | bicycleheavyphonesecretcraftfemalepitchbuzzwestprevent |  
+| bip_39_word_no_space_11 | bicycleheavyphonesecretcraftfemalepitchbuzzwestpreventecology |  
+| bip_39_word_no_space_12 | bicycleheavyphonesecretcraftfemalepitchbuzzwestpreventecologyalert |  
+| bip_39_word_no_space_2 | bicycleheavy |  
+| bip_39_word_no_space_3 | bicycleheavyphone |  
+| bip_39_word_no_space_4 | bicycleheavyphonesecret |  
+| bip_39_word_no_space_5 | bicycleheavyphonesecretcraft |  
+| bip_39_word_no_space_6 | bicycleheavyphonesecretcraftfemale |  
+| bip_39_word_no_space_7 | bicycleheavyphonesecretcraftfemalepitch |  
+| bip_39_word_no_space_8 | bicycleheavyphonesecretcraftfemalepitchbuzz |  
+| bip_39_word_no_space_9 | bicycleheavyphonesecretcraftfemalepitchbuzzwest |  
 | bip_39_word_space_0 | ['bicycle', 'heavy', 'phone', 'secret', 'craft', 'female', 'pitch', 'buzz', 'west', 'prevent', 'ecology', 'alert'] |  
 | bip_39_word_space_1 | bicycle |  
 | bip_39_word_space_10 | bicycle heavy phone secret craft female pitch buzz west prevent |  

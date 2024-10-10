@@ -122,6 +122,18 @@ range
 juice
 proof
 survey |  
+| bip_39_word_no_space_1 | loud |  
+| bip_39_word_no_space_10 | loudescapemiddlenosedeerrangejuiceproofsurveyurge |  
+| bip_39_word_no_space_11 | loudescapemiddlenosedeerrangejuiceproofsurveyurgebarrel |  
+| bip_39_word_no_space_12 | loudescapemiddlenosedeerrangejuiceproofsurveyurgebarrelartist |  
+| bip_39_word_no_space_2 | loudescape |  
+| bip_39_word_no_space_3 | loudescapemiddle |  
+| bip_39_word_no_space_4 | loudescapemiddlenose |  
+| bip_39_word_no_space_5 | loudescapemiddlenosedeer |  
+| bip_39_word_no_space_6 | loudescapemiddlenosedeerrange |  
+| bip_39_word_no_space_7 | loudescapemiddlenosedeerrangejuice |  
+| bip_39_word_no_space_8 | loudescapemiddlenosedeerrangejuiceproof |  
+| bip_39_word_no_space_9 | loudescapemiddlenosedeerrangejuiceproofsurvey |  
 | bip_39_word_space_0 | ['loud', 'escape', 'middle', 'nose', 'deer', 'range', 'juice', 'proof', 'survey', 'urge', 'barrel', 'artist'] |  
 | bip_39_word_space_1 | loud |  
 | bip_39_word_space_10 | loud escape middle nose deer range juice proof survey urge |  

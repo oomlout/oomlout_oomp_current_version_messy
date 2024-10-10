@@ -122,6 +122,18 @@ foot
 pact
 cruel
 orange |  
+| bip_39_word_no_space_1 | lyrics |  
+| bip_39_word_no_space_10 | lyricspointengagechaosmoralfootpactcruelorangeshrimp |  
+| bip_39_word_no_space_11 | lyricspointengagechaosmoralfootpactcruelorangeshrimptragic |  
+| bip_39_word_no_space_12 | lyricspointengagechaosmoralfootpactcruelorangeshrimptragicantenna |  
+| bip_39_word_no_space_2 | lyricspoint |  
+| bip_39_word_no_space_3 | lyricspointengage |  
+| bip_39_word_no_space_4 | lyricspointengagechaos |  
+| bip_39_word_no_space_5 | lyricspointengagechaosmoral |  
+| bip_39_word_no_space_6 | lyricspointengagechaosmoralfoot |  
+| bip_39_word_no_space_7 | lyricspointengagechaosmoralfootpact |  
+| bip_39_word_no_space_8 | lyricspointengagechaosmoralfootpactcruel |  
+| bip_39_word_no_space_9 | lyricspointengagechaosmoralfootpactcruelorange |  
 | bip_39_word_space_0 | ['lyrics', 'point', 'engage', 'chaos', 'moral', 'foot', 'pact', 'cruel', 'orange', 'shrimp', 'tragic', 'antenna'] |  
 | bip_39_word_space_1 | lyrics |  
 | bip_39_word_space_10 | lyrics point engage chaos moral foot pact cruel orange shrimp |  

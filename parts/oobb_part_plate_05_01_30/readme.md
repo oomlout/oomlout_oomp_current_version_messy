@@ -122,6 +122,18 @@ barely
 daughter
 glove
 open |  
+| bip_39_word_no_space_1 | rival |  
+| bip_39_word_no_space_10 | rivalcabbageslowrarefoodbarelydaughtergloveopenmad |  
+| bip_39_word_no_space_11 | rivalcabbageslowrarefoodbarelydaughtergloveopenmadidentify |  
+| bip_39_word_no_space_12 | rivalcabbageslowrarefoodbarelydaughtergloveopenmadidentifyapart |  
+| bip_39_word_no_space_2 | rivalcabbage |  
+| bip_39_word_no_space_3 | rivalcabbageslow |  
+| bip_39_word_no_space_4 | rivalcabbageslowrare |  
+| bip_39_word_no_space_5 | rivalcabbageslowrarefood |  
+| bip_39_word_no_space_6 | rivalcabbageslowrarefoodbarely |  
+| bip_39_word_no_space_7 | rivalcabbageslowrarefoodbarelydaughter |  
+| bip_39_word_no_space_8 | rivalcabbageslowrarefoodbarelydaughterglove |  
+| bip_39_word_no_space_9 | rivalcabbageslowrarefoodbarelydaughtergloveopen |  
 | bip_39_word_space_0 | ['rival', 'cabbage', 'slow', 'rare', 'food', 'barely', 'daughter', 'glove', 'open', 'mad', 'identify', 'apart'] |  
 | bip_39_word_space_1 | rival |  
 | bip_39_word_space_10 | rival cabbage slow rare food barely daughter glove open mad |  

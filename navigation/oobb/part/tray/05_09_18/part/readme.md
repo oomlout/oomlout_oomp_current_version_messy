@@ -122,6 +122,18 @@ stool
 balance
 degree
 door |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchslidecoasttissuebeefstoolbalancedegreedoorboost |  
+| bip_39_word_no_space_11 | crouchslidecoasttissuebeefstoolbalancedegreedoorboostcart |  
+| bip_39_word_no_space_12 | crouchslidecoasttissuebeefstoolbalancedegreedoorboostcartadvice |  
+| bip_39_word_no_space_2 | crouchslide |  
+| bip_39_word_no_space_3 | crouchslidecoast |  
+| bip_39_word_no_space_4 | crouchslidecoasttissue |  
+| bip_39_word_no_space_5 | crouchslidecoasttissuebeef |  
+| bip_39_word_no_space_6 | crouchslidecoasttissuebeefstool |  
+| bip_39_word_no_space_7 | crouchslidecoasttissuebeefstoolbalance |  
+| bip_39_word_no_space_8 | crouchslidecoasttissuebeefstoolbalancedegree |  
+| bip_39_word_no_space_9 | crouchslidecoasttissuebeefstoolbalancedegreedoor |  
 | bip_39_word_space_0 | ['crouch', 'slide', 'coast', 'tissue', 'beef', 'stool', 'balance', 'degree', 'door', 'boost', 'cart', 'advice'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch slide coast tissue beef stool balance degree door boost |  

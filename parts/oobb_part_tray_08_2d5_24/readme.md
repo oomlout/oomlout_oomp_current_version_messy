@@ -122,6 +122,18 @@ brother
 sweet
 opinion
 sugar |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilesecurityvoidrecordharshbrothersweetopinionsugarfew |  
+| bip_39_word_no_space_11 | mobilesecurityvoidrecordharshbrothersweetopinionsugarfewsolar |  
+| bip_39_word_no_space_12 | mobilesecurityvoidrecordharshbrothersweetopinionsugarfewsolaradd |  
+| bip_39_word_no_space_2 | mobilesecurity |  
+| bip_39_word_no_space_3 | mobilesecurityvoid |  
+| bip_39_word_no_space_4 | mobilesecurityvoidrecord |  
+| bip_39_word_no_space_5 | mobilesecurityvoidrecordharsh |  
+| bip_39_word_no_space_6 | mobilesecurityvoidrecordharshbrother |  
+| bip_39_word_no_space_7 | mobilesecurityvoidrecordharshbrothersweet |  
+| bip_39_word_no_space_8 | mobilesecurityvoidrecordharshbrothersweetopinion |  
+| bip_39_word_no_space_9 | mobilesecurityvoidrecordharshbrothersweetopinionsugar |  
 | bip_39_word_space_0 | ['mobile', 'security', 'void', 'record', 'harsh', 'brother', 'sweet', 'opinion', 'sugar', 'few', 'solar', 'add'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile security void record harsh brother sweet opinion sugar few |  

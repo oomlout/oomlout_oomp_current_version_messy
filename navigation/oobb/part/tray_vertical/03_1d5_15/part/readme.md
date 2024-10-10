@@ -122,6 +122,18 @@ family
 deputy
 sleep
 absorb |  
+| bip_39_word_no_space_1 | bundle |  
+| bip_39_word_no_space_10 | bundlejeansspeedattitudegarmentfamilydeputysleepabsorbverb |  
+| bip_39_word_no_space_11 | bundlejeansspeedattitudegarmentfamilydeputysleepabsorbverbmaterial |  
+| bip_39_word_no_space_12 | bundlejeansspeedattitudegarmentfamilydeputysleepabsorbverbmaterialalert |  
+| bip_39_word_no_space_2 | bundlejeans |  
+| bip_39_word_no_space_3 | bundlejeansspeed |  
+| bip_39_word_no_space_4 | bundlejeansspeedattitude |  
+| bip_39_word_no_space_5 | bundlejeansspeedattitudegarment |  
+| bip_39_word_no_space_6 | bundlejeansspeedattitudegarmentfamily |  
+| bip_39_word_no_space_7 | bundlejeansspeedattitudegarmentfamilydeputy |  
+| bip_39_word_no_space_8 | bundlejeansspeedattitudegarmentfamilydeputysleep |  
+| bip_39_word_no_space_9 | bundlejeansspeedattitudegarmentfamilydeputysleepabsorb |  
 | bip_39_word_space_0 | ['bundle', 'jeans', 'speed', 'attitude', 'garment', 'family', 'deputy', 'sleep', 'absorb', 'verb', 'material', 'alert'] |  
 | bip_39_word_space_1 | bundle |  
 | bip_39_word_space_10 | bundle jeans speed attitude garment family deputy sleep absorb verb |  

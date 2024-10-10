@@ -122,6 +122,18 @@ arrive
 kite
 pigeon
 tower |  
+| bip_39_word_no_space_1 | pluck |  
+| bip_39_word_no_space_10 | pluckbetterhubantiquefindarrivekitepigeontowerfault |  
+| bip_39_word_no_space_11 | pluckbetterhubantiquefindarrivekitepigeontowerfaultseven |  
+| bip_39_word_no_space_12 | pluckbetterhubantiquefindarrivekitepigeontowerfaultsevenadvance |  
+| bip_39_word_no_space_2 | pluckbetter |  
+| bip_39_word_no_space_3 | pluckbetterhub |  
+| bip_39_word_no_space_4 | pluckbetterhubantique |  
+| bip_39_word_no_space_5 | pluckbetterhubantiquefind |  
+| bip_39_word_no_space_6 | pluckbetterhubantiquefindarrive |  
+| bip_39_word_no_space_7 | pluckbetterhubantiquefindarrivekite |  
+| bip_39_word_no_space_8 | pluckbetterhubantiquefindarrivekitepigeon |  
+| bip_39_word_no_space_9 | pluckbetterhubantiquefindarrivekitepigeontower |  
 | bip_39_word_space_0 | ['pluck', 'better', 'hub', 'antique', 'find', 'arrive', 'kite', 'pigeon', 'tower', 'fault', 'seven', 'advance'] |  
 | bip_39_word_space_1 | pluck |  
 | bip_39_word_space_10 | pluck better hub antique find arrive kite pigeon tower fault |  

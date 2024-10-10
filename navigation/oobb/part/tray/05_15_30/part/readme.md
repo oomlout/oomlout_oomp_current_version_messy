@@ -122,6 +122,18 @@ timber
 okay
 reward
 soft |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinseaeagleorientaddicttimberokayrewardsoftsunset |  
+| bip_39_word_no_space_11 | dolphinseaeagleorientaddicttimberokayrewardsoftsunsetsoul |  
+| bip_39_word_no_space_12 | dolphinseaeagleorientaddicttimberokayrewardsoftsunsetsoulairport |  
+| bip_39_word_no_space_2 | dolphinsea |  
+| bip_39_word_no_space_3 | dolphinseaeagle |  
+| bip_39_word_no_space_4 | dolphinseaeagleorient |  
+| bip_39_word_no_space_5 | dolphinseaeagleorientaddict |  
+| bip_39_word_no_space_6 | dolphinseaeagleorientaddicttimber |  
+| bip_39_word_no_space_7 | dolphinseaeagleorientaddicttimberokay |  
+| bip_39_word_no_space_8 | dolphinseaeagleorientaddicttimberokayreward |  
+| bip_39_word_no_space_9 | dolphinseaeagleorientaddicttimberokayrewardsoft |  
 | bip_39_word_space_0 | ['dolphin', 'sea', 'eagle', 'orient', 'addict', 'timber', 'okay', 'reward', 'soft', 'sunset', 'soul', 'airport'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin sea eagle orient addict timber okay reward soft sunset |  

@@ -122,6 +122,18 @@ hamster
 method
 swim
 choose |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachblesscorephysicalmerithamstermethodswimchoosesort |  
+| bip_39_word_no_space_11 | stomachblesscorephysicalmerithamstermethodswimchoosesortsimilar |  
+| bip_39_word_no_space_12 | stomachblesscorephysicalmerithamstermethodswimchoosesortsimilaraccess |  
+| bip_39_word_no_space_2 | stomachbless |  
+| bip_39_word_no_space_3 | stomachblesscore |  
+| bip_39_word_no_space_4 | stomachblesscorephysical |  
+| bip_39_word_no_space_5 | stomachblesscorephysicalmerit |  
+| bip_39_word_no_space_6 | stomachblesscorephysicalmerithamster |  
+| bip_39_word_no_space_7 | stomachblesscorephysicalmerithamstermethod |  
+| bip_39_word_no_space_8 | stomachblesscorephysicalmerithamstermethodswim |  
+| bip_39_word_no_space_9 | stomachblesscorephysicalmerithamstermethodswimchoose |  
 | bip_39_word_space_0 | ['stomach', 'bless', 'core', 'physical', 'merit', 'hamster', 'method', 'swim', 'choose', 'sort', 'similar', 'access'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach bless core physical merit hamster method swim choose sort |  

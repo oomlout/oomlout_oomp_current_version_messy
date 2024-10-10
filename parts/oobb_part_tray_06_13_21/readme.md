@@ -122,6 +122,18 @@ like
 enter
 ethics
 chapter |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactfishyellowfeelkidneylikeenterethicschaptertourist |  
+| bip_39_word_no_space_11 | pactfishyellowfeelkidneylikeenterethicschaptertouristinquiry |  
+| bip_39_word_no_space_12 | pactfishyellowfeelkidneylikeenterethicschaptertouristinquiryarmy |  
+| bip_39_word_no_space_2 | pactfish |  
+| bip_39_word_no_space_3 | pactfishyellow |  
+| bip_39_word_no_space_4 | pactfishyellowfeel |  
+| bip_39_word_no_space_5 | pactfishyellowfeelkidney |  
+| bip_39_word_no_space_6 | pactfishyellowfeelkidneylike |  
+| bip_39_word_no_space_7 | pactfishyellowfeelkidneylikeenter |  
+| bip_39_word_no_space_8 | pactfishyellowfeelkidneylikeenterethics |  
+| bip_39_word_no_space_9 | pactfishyellowfeelkidneylikeenterethicschapter |  
 | bip_39_word_space_0 | ['pact', 'fish', 'yellow', 'feel', 'kidney', 'like', 'enter', 'ethics', 'chapter', 'tourist', 'inquiry', 'army'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact fish yellow feel kidney like enter ethics chapter tourist |  

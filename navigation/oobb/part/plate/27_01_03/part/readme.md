@@ -122,6 +122,18 @@ hotel
 material
 canvas
 exchange |  
+| bip_39_word_no_space_1 | income |  
+| bip_39_word_no_space_10 | incomebecomeweatherpathgatherhotelmaterialcanvasexchangeworld |  
+| bip_39_word_no_space_11 | incomebecomeweatherpathgatherhotelmaterialcanvasexchangeworldcattle |  
+| bip_39_word_no_space_12 | incomebecomeweatherpathgatherhotelmaterialcanvasexchangeworldcattleabstract |  
+| bip_39_word_no_space_2 | incomebecome |  
+| bip_39_word_no_space_3 | incomebecomeweather |  
+| bip_39_word_no_space_4 | incomebecomeweatherpath |  
+| bip_39_word_no_space_5 | incomebecomeweatherpathgather |  
+| bip_39_word_no_space_6 | incomebecomeweatherpathgatherhotel |  
+| bip_39_word_no_space_7 | incomebecomeweatherpathgatherhotelmaterial |  
+| bip_39_word_no_space_8 | incomebecomeweatherpathgatherhotelmaterialcanvas |  
+| bip_39_word_no_space_9 | incomebecomeweatherpathgatherhotelmaterialcanvasexchange |  
 | bip_39_word_space_0 | ['income', 'become', 'weather', 'path', 'gather', 'hotel', 'material', 'canvas', 'exchange', 'world', 'cattle', 'abstract'] |  
 | bip_39_word_space_1 | income |  
 | bip_39_word_space_10 | income become weather path gather hotel material canvas exchange world |  

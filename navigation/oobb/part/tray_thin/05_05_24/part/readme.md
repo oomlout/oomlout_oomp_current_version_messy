@@ -122,6 +122,18 @@ merge
 what
 gentle
 genius |  
+| bip_39_word_no_space_1 | grab |  
+| bip_39_word_no_space_10 | grabscoutsqueezeskullgoldmergewhatgentlegeniuscentury |  
+| bip_39_word_no_space_11 | grabscoutsqueezeskullgoldmergewhatgentlegeniuscenturyaccount |  
+| bip_39_word_no_space_12 | grabscoutsqueezeskullgoldmergewhatgentlegeniuscenturyaccountadmit |  
+| bip_39_word_no_space_2 | grabscout |  
+| bip_39_word_no_space_3 | grabscoutsqueeze |  
+| bip_39_word_no_space_4 | grabscoutsqueezeskull |  
+| bip_39_word_no_space_5 | grabscoutsqueezeskullgold |  
+| bip_39_word_no_space_6 | grabscoutsqueezeskullgoldmerge |  
+| bip_39_word_no_space_7 | grabscoutsqueezeskullgoldmergewhat |  
+| bip_39_word_no_space_8 | grabscoutsqueezeskullgoldmergewhatgentle |  
+| bip_39_word_no_space_9 | grabscoutsqueezeskullgoldmergewhatgentlegenius |  
 | bip_39_word_space_0 | ['grab', 'scout', 'squeeze', 'skull', 'gold', 'merge', 'what', 'gentle', 'genius', 'century', 'account', 'admit'] |  
 | bip_39_word_space_1 | grab |  
 | bip_39_word_space_10 | grab scout squeeze skull gold merge what gentle genius century |  

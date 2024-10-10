@@ -122,6 +122,18 @@ awkward
 budget
 season
 roof |  
+| bip_39_word_no_space_1 | pond |  
+| bip_39_word_no_space_10 | pondcarpetmarriagerotatepointawkwardbudgetseasonroofchalk |  
+| bip_39_word_no_space_11 | pondcarpetmarriagerotatepointawkwardbudgetseasonroofchalkecho |  
+| bip_39_word_no_space_12 | pondcarpetmarriagerotatepointawkwardbudgetseasonroofchalkechoarrange |  
+| bip_39_word_no_space_2 | pondcarpet |  
+| bip_39_word_no_space_3 | pondcarpetmarriage |  
+| bip_39_word_no_space_4 | pondcarpetmarriagerotate |  
+| bip_39_word_no_space_5 | pondcarpetmarriagerotatepoint |  
+| bip_39_word_no_space_6 | pondcarpetmarriagerotatepointawkward |  
+| bip_39_word_no_space_7 | pondcarpetmarriagerotatepointawkwardbudget |  
+| bip_39_word_no_space_8 | pondcarpetmarriagerotatepointawkwardbudgetseason |  
+| bip_39_word_no_space_9 | pondcarpetmarriagerotatepointawkwardbudgetseasonroof |  
 | bip_39_word_space_0 | ['pond', 'carpet', 'marriage', 'rotate', 'point', 'awkward', 'budget', 'season', 'roof', 'chalk', 'echo', 'arrange'] |  
 | bip_39_word_space_1 | pond |  
 | bip_39_word_space_10 | pond carpet marriage rotate point awkward budget season roof chalk |  

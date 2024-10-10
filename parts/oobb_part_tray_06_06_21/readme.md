@@ -122,6 +122,18 @@ hungry
 fashion
 drip
 toward |  
+| bip_39_word_no_space_1 | mind |  
+| bip_39_word_no_space_10 | mindsisterbetteranchordocumenthungryfashiondriptowardmango |  
+| bip_39_word_no_space_11 | mindsisterbetteranchordocumenthungryfashiondriptowardmangouse |  
+| bip_39_word_no_space_12 | mindsisterbetteranchordocumenthungryfashiondriptowardmangousearm |  
+| bip_39_word_no_space_2 | mindsister |  
+| bip_39_word_no_space_3 | mindsisterbetter |  
+| bip_39_word_no_space_4 | mindsisterbetteranchor |  
+| bip_39_word_no_space_5 | mindsisterbetteranchordocument |  
+| bip_39_word_no_space_6 | mindsisterbetteranchordocumenthungry |  
+| bip_39_word_no_space_7 | mindsisterbetteranchordocumenthungryfashion |  
+| bip_39_word_no_space_8 | mindsisterbetteranchordocumenthungryfashiondrip |  
+| bip_39_word_no_space_9 | mindsisterbetteranchordocumenthungryfashiondriptoward |  
 | bip_39_word_space_0 | ['mind', 'sister', 'better', 'anchor', 'document', 'hungry', 'fashion', 'drip', 'toward', 'mango', 'use', 'arm'] |  
 | bip_39_word_space_1 | mind |  
 | bip_39_word_space_10 | mind sister better anchor document hungry fashion drip toward mango |  

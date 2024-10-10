@@ -122,6 +122,18 @@ pony
 viable
 uniform
 canal |  
+| bip_39_word_no_space_1 | snap |  
+| bip_39_word_no_space_10 | snapdishorchardfenceexactponyviableuniformcanalhistory |  
+| bip_39_word_no_space_11 | snapdishorchardfenceexactponyviableuniformcanalhistoryblame |  
+| bip_39_word_no_space_12 | snapdishorchardfenceexactponyviableuniformcanalhistoryblameanger |  
+| bip_39_word_no_space_2 | snapdish |  
+| bip_39_word_no_space_3 | snapdishorchard |  
+| bip_39_word_no_space_4 | snapdishorchardfence |  
+| bip_39_word_no_space_5 | snapdishorchardfenceexact |  
+| bip_39_word_no_space_6 | snapdishorchardfenceexactpony |  
+| bip_39_word_no_space_7 | snapdishorchardfenceexactponyviable |  
+| bip_39_word_no_space_8 | snapdishorchardfenceexactponyviableuniform |  
+| bip_39_word_no_space_9 | snapdishorchardfenceexactponyviableuniformcanal |  
 | bip_39_word_space_0 | ['snap', 'dish', 'orchard', 'fence', 'exact', 'pony', 'viable', 'uniform', 'canal', 'history', 'blame', 'anger'] |  
 | bip_39_word_space_1 | snap |  
 | bip_39_word_space_10 | snap dish orchard fence exact pony viable uniform canal history |  

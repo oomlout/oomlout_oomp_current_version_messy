@@ -122,6 +122,18 @@ hire
 kid
 quit
 spider |  
+| bip_39_word_no_space_1 | radio |  
+| bip_39_word_no_space_10 | radiobroccolicheapgrapegasphirekidquitspiderremove |  
+| bip_39_word_no_space_11 | radiobroccolicheapgrapegasphirekidquitspiderremovesince |  
+| bip_39_word_no_space_12 | radiobroccolicheapgrapegasphirekidquitspiderremovesinceagain |  
+| bip_39_word_no_space_2 | radiobroccoli |  
+| bip_39_word_no_space_3 | radiobroccolicheap |  
+| bip_39_word_no_space_4 | radiobroccolicheapgrape |  
+| bip_39_word_no_space_5 | radiobroccolicheapgrapegasp |  
+| bip_39_word_no_space_6 | radiobroccolicheapgrapegasphire |  
+| bip_39_word_no_space_7 | radiobroccolicheapgrapegasphirekid |  
+| bip_39_word_no_space_8 | radiobroccolicheapgrapegasphirekidquit |  
+| bip_39_word_no_space_9 | radiobroccolicheapgrapegasphirekidquitspider |  
 | bip_39_word_space_0 | ['radio', 'broccoli', 'cheap', 'grape', 'gasp', 'hire', 'kid', 'quit', 'spider', 'remove', 'since', 'again'] |  
 | bip_39_word_space_1 | radio |  
 | bip_39_word_space_10 | radio broccoli cheap grape gasp hire kid quit spider remove |  

@@ -122,6 +122,18 @@ catalog
 debate
 keen
 boss |  
+| bip_39_word_no_space_1 | render |  
+| bip_39_word_no_space_10 | rendersnowlendsherifftrophycatalogdebatekeenbossonce |  
+| bip_39_word_no_space_11 | rendersnowlendsherifftrophycatalogdebatekeenbossonceneutral |  
+| bip_39_word_no_space_12 | rendersnowlendsherifftrophycatalogdebatekeenbossonceneutraladjust |  
+| bip_39_word_no_space_2 | rendersnow |  
+| bip_39_word_no_space_3 | rendersnowlend |  
+| bip_39_word_no_space_4 | rendersnowlendsheriff |  
+| bip_39_word_no_space_5 | rendersnowlendsherifftrophy |  
+| bip_39_word_no_space_6 | rendersnowlendsherifftrophycatalog |  
+| bip_39_word_no_space_7 | rendersnowlendsherifftrophycatalogdebate |  
+| bip_39_word_no_space_8 | rendersnowlendsherifftrophycatalogdebatekeen |  
+| bip_39_word_no_space_9 | rendersnowlendsherifftrophycatalogdebatekeenboss |  
 | bip_39_word_space_0 | ['render', 'snow', 'lend', 'sheriff', 'trophy', 'catalog', 'debate', 'keen', 'boss', 'once', 'neutral', 'adjust'] |  
 | bip_39_word_space_1 | render |  
 | bip_39_word_space_10 | render snow lend sheriff trophy catalog debate keen boss once |  

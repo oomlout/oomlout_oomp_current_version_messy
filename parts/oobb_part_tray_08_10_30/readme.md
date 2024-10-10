@@ -122,6 +122,18 @@ demand
 make
 mass
 build |  
+| bip_39_word_no_space_1 | expire |  
+| bip_39_word_no_space_10 | expirewhalenarrowalertlearndemandmakemassbuildrude |  
+| bip_39_word_no_space_11 | expirewhalenarrowalertlearndemandmakemassbuildrudeviolin |  
+| bip_39_word_no_space_12 | expirewhalenarrowalertlearndemandmakemassbuildrudeviolinability |  
+| bip_39_word_no_space_2 | expirewhale |  
+| bip_39_word_no_space_3 | expirewhalenarrow |  
+| bip_39_word_no_space_4 | expirewhalenarrowalert |  
+| bip_39_word_no_space_5 | expirewhalenarrowalertlearn |  
+| bip_39_word_no_space_6 | expirewhalenarrowalertlearndemand |  
+| bip_39_word_no_space_7 | expirewhalenarrowalertlearndemandmake |  
+| bip_39_word_no_space_8 | expirewhalenarrowalertlearndemandmakemass |  
+| bip_39_word_no_space_9 | expirewhalenarrowalertlearndemandmakemassbuild |  
 | bip_39_word_space_0 | ['expire', 'whale', 'narrow', 'alert', 'learn', 'demand', 'make', 'mass', 'build', 'rude', 'violin', 'ability'] |  
 | bip_39_word_space_1 | expire |  
 | bip_39_word_space_10 | expire whale narrow alert learn demand make mass build rude |  

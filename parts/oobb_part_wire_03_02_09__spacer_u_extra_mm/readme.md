@@ -122,6 +122,18 @@ nice
 nothing
 perfect
 unfold |  
+| bip_39_word_no_space_1 | conduct |  
+| bip_39_word_no_space_10 | conductblastdoormushroomokaynicenothingperfectunfoldkey |  
+| bip_39_word_no_space_11 | conductblastdoormushroomokaynicenothingperfectunfoldkeyshift |  
+| bip_39_word_no_space_12 | conductblastdoormushroomokaynicenothingperfectunfoldkeyshiftactor |  
+| bip_39_word_no_space_2 | conductblast |  
+| bip_39_word_no_space_3 | conductblastdoor |  
+| bip_39_word_no_space_4 | conductblastdoormushroom |  
+| bip_39_word_no_space_5 | conductblastdoormushroomokay |  
+| bip_39_word_no_space_6 | conductblastdoormushroomokaynice |  
+| bip_39_word_no_space_7 | conductblastdoormushroomokaynicenothing |  
+| bip_39_word_no_space_8 | conductblastdoormushroomokaynicenothingperfect |  
+| bip_39_word_no_space_9 | conductblastdoormushroomokaynicenothingperfectunfold |  
 | bip_39_word_space_0 | ['conduct', 'blast', 'door', 'mushroom', 'okay', 'nice', 'nothing', 'perfect', 'unfold', 'key', 'shift', 'actor'] |  
 | bip_39_word_space_1 | conduct |  
 | bip_39_word_space_10 | conduct blast door mushroom okay nice nothing perfect unfold key |  

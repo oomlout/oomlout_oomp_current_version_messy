@@ -122,6 +122,18 @@ aunt
 kidney
 wide
 welcome |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furysolidmillionnicenetworkauntkidneywidewelcomenow |  
+| bip_39_word_no_space_11 | furysolidmillionnicenetworkauntkidneywidewelcomenowglue |  
+| bip_39_word_no_space_12 | furysolidmillionnicenetworkauntkidneywidewelcomenowgluearctic |  
+| bip_39_word_no_space_2 | furysolid |  
+| bip_39_word_no_space_3 | furysolidmillion |  
+| bip_39_word_no_space_4 | furysolidmillionnice |  
+| bip_39_word_no_space_5 | furysolidmillionnicenetwork |  
+| bip_39_word_no_space_6 | furysolidmillionnicenetworkaunt |  
+| bip_39_word_no_space_7 | furysolidmillionnicenetworkauntkidney |  
+| bip_39_word_no_space_8 | furysolidmillionnicenetworkauntkidneywide |  
+| bip_39_word_no_space_9 | furysolidmillionnicenetworkauntkidneywidewelcome |  
 | bip_39_word_space_0 | ['fury', 'solid', 'million', 'nice', 'network', 'aunt', 'kidney', 'wide', 'welcome', 'now', 'glue', 'arctic'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury solid million nice network aunt kidney wide welcome now |  

@@ -122,6 +122,18 @@ advice
 bitter
 provide
 soup |  
+| bip_39_word_no_space_1 | balcony |  
+| bip_39_word_no_space_10 | balconycauseabusetimedepthadvicebitterprovidesoupinfant |  
+| bip_39_word_no_space_11 | balconycauseabusetimedepthadvicebitterprovidesoupinfantglory |  
+| bip_39_word_no_space_12 | balconycauseabusetimedepthadvicebitterprovidesoupinfantgloryact |  
+| bip_39_word_no_space_2 | balconycause |  
+| bip_39_word_no_space_3 | balconycauseabuse |  
+| bip_39_word_no_space_4 | balconycauseabusetime |  
+| bip_39_word_no_space_5 | balconycauseabusetimedepth |  
+| bip_39_word_no_space_6 | balconycauseabusetimedepthadvice |  
+| bip_39_word_no_space_7 | balconycauseabusetimedepthadvicebitter |  
+| bip_39_word_no_space_8 | balconycauseabusetimedepthadvicebitterprovide |  
+| bip_39_word_no_space_9 | balconycauseabusetimedepthadvicebitterprovidesoup |  
 | bip_39_word_space_0 | ['balcony', 'cause', 'abuse', 'time', 'depth', 'advice', 'bitter', 'provide', 'soup', 'infant', 'glory', 'act'] |  
 | bip_39_word_space_1 | balcony |  
 | bip_39_word_space_10 | balcony cause abuse time depth advice bitter provide soup infant |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'exclude
   junk
 
   burger'
+bip_39_word_no_space_1: exclude
+bip_39_word_no_space_10: excludewhiptokenablewordseniorvisajunkburgertotal
+bip_39_word_no_space_11: excludewhiptokenablewordseniorvisajunkburgertotalrobust
+bip_39_word_no_space_12: excludewhiptokenablewordseniorvisajunkburgertotalrobustasset
+bip_39_word_no_space_2: excludewhip
+bip_39_word_no_space_3: excludewhiptoken
+bip_39_word_no_space_4: excludewhiptokenable
+bip_39_word_no_space_5: excludewhiptokenableword
+bip_39_word_no_space_6: excludewhiptokenablewordsenior
+bip_39_word_no_space_7: excludewhiptokenablewordseniorvisa
+bip_39_word_no_space_8: excludewhiptokenablewordseniorvisajunk
+bip_39_word_no_space_9: excludewhiptokenablewordseniorvisajunkburger
 bip_39_word_space_0:
 - exclude
 - whip

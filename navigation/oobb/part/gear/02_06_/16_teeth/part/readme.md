@@ -122,6 +122,18 @@ response
 defense
 together
 laundry |  
+| bip_39_word_no_space_1 | material |  
+| bip_39_word_no_space_10 | materialnaturepurchasecerealsouthresponsedefensetogetherlaundryblast |  
+| bip_39_word_no_space_11 | materialnaturepurchasecerealsouthresponsedefensetogetherlaundryblastblade |  
+| bip_39_word_no_space_12 | materialnaturepurchasecerealsouthresponsedefensetogetherlaundryblastbladeaddress |  
+| bip_39_word_no_space_2 | materialnature |  
+| bip_39_word_no_space_3 | materialnaturepurchase |  
+| bip_39_word_no_space_4 | materialnaturepurchasecereal |  
+| bip_39_word_no_space_5 | materialnaturepurchasecerealsouth |  
+| bip_39_word_no_space_6 | materialnaturepurchasecerealsouthresponse |  
+| bip_39_word_no_space_7 | materialnaturepurchasecerealsouthresponsedefense |  
+| bip_39_word_no_space_8 | materialnaturepurchasecerealsouthresponsedefensetogether |  
+| bip_39_word_no_space_9 | materialnaturepurchasecerealsouthresponsedefensetogetherlaundry |  
 | bip_39_word_space_0 | ['material', 'nature', 'purchase', 'cereal', 'south', 'response', 'defense', 'together', 'laundry', 'blast', 'blade', 'address'] |  
 | bip_39_word_space_1 | material |  
 | bip_39_word_space_10 | material nature purchase cereal south response defense together laundry blast |  

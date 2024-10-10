@@ -122,6 +122,18 @@ tape
 coin
 nothing
 lecture |  
+| bip_39_word_no_space_1 | phone |  
+| bip_39_word_no_space_10 | phonechucklechasezebraofftapecoinnothinglectureglass |  
+| bip_39_word_no_space_11 | phonechucklechasezebraofftapecoinnothinglectureglassgasp |  
+| bip_39_word_no_space_12 | phonechucklechasezebraofftapecoinnothinglectureglassgaspalley |  
+| bip_39_word_no_space_2 | phonechuckle |  
+| bip_39_word_no_space_3 | phonechucklechase |  
+| bip_39_word_no_space_4 | phonechucklechasezebra |  
+| bip_39_word_no_space_5 | phonechucklechasezebraoff |  
+| bip_39_word_no_space_6 | phonechucklechasezebraofftape |  
+| bip_39_word_no_space_7 | phonechucklechasezebraofftapecoin |  
+| bip_39_word_no_space_8 | phonechucklechasezebraofftapecoinnothing |  
+| bip_39_word_no_space_9 | phonechucklechasezebraofftapecoinnothinglecture |  
 | bip_39_word_space_0 | ['phone', 'chuckle', 'chase', 'zebra', 'off', 'tape', 'coin', 'nothing', 'lecture', 'glass', 'gasp', 'alley'] |  
 | bip_39_word_space_1 | phone |  
 | bip_39_word_space_10 | phone chuckle chase zebra off tape coin nothing lecture glass |  

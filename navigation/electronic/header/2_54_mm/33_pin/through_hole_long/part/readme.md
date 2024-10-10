@@ -122,6 +122,18 @@ emotion
 roast
 obtain
 gown |  
+| bip_39_word_no_space_1 | clump |  
+| bip_39_word_no_space_10 | clumptickettitleworthuniverseemotionroastobtaingowncradle |  
+| bip_39_word_no_space_11 | clumptickettitleworthuniverseemotionroastobtaingowncradleorange |  
+| bip_39_word_no_space_12 | clumptickettitleworthuniverseemotionroastobtaingowncradleorangeaudit |  
+| bip_39_word_no_space_2 | clumpticket |  
+| bip_39_word_no_space_3 | clumptickettitle |  
+| bip_39_word_no_space_4 | clumptickettitleworth |  
+| bip_39_word_no_space_5 | clumptickettitleworthuniverse |  
+| bip_39_word_no_space_6 | clumptickettitleworthuniverseemotion |  
+| bip_39_word_no_space_7 | clumptickettitleworthuniverseemotionroast |  
+| bip_39_word_no_space_8 | clumptickettitleworthuniverseemotionroastobtain |  
+| bip_39_word_no_space_9 | clumptickettitleworthuniverseemotionroastobtaingown |  
 | bip_39_word_space_0 | ['clump', 'ticket', 'title', 'worth', 'universe', 'emotion', 'roast', 'obtain', 'gown', 'cradle', 'orange', 'audit'] |  
 | bip_39_word_space_1 | clump |  
 | bip_39_word_space_10 | clump ticket title worth universe emotion roast obtain gown cradle |  

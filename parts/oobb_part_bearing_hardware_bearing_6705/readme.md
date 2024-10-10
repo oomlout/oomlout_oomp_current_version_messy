@@ -122,6 +122,18 @@ sign
 grape
 huge
 ankle |  
+| bip_39_word_no_space_1 | green |  
+| bip_39_word_no_space_10 | greenfuturesoundkittenthatsigngrapehugeanklechicken |  
+| bip_39_word_no_space_11 | greenfuturesoundkittenthatsigngrapehugeanklechickenunhappy |  
+| bip_39_word_no_space_12 | greenfuturesoundkittenthatsigngrapehugeanklechickenunhappyangry |  
+| bip_39_word_no_space_2 | greenfuture |  
+| bip_39_word_no_space_3 | greenfuturesound |  
+| bip_39_word_no_space_4 | greenfuturesoundkitten |  
+| bip_39_word_no_space_5 | greenfuturesoundkittenthat |  
+| bip_39_word_no_space_6 | greenfuturesoundkittenthatsign |  
+| bip_39_word_no_space_7 | greenfuturesoundkittenthatsigngrape |  
+| bip_39_word_no_space_8 | greenfuturesoundkittenthatsigngrapehuge |  
+| bip_39_word_no_space_9 | greenfuturesoundkittenthatsigngrapehugeankle |  
 | bip_39_word_space_0 | ['green', 'future', 'sound', 'kitten', 'that', 'sign', 'grape', 'huge', 'ankle', 'chicken', 'unhappy', 'angry'] |  
 | bip_39_word_space_1 | green |  
 | bip_39_word_space_10 | green future sound kitten that sign grape huge ankle chicken |  

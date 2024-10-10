@@ -122,6 +122,18 @@ youth
 shiver
 identify
 bunker |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spiderparentticketcashgrapeyouthshiveridentifybunkeritem |  
+| bip_39_word_no_space_11 | spiderparentticketcashgrapeyouthshiveridentifybunkeritemcoyote |  
+| bip_39_word_no_space_12 | spiderparentticketcashgrapeyouthshiveridentifybunkeritemcoyoteafraid |  
+| bip_39_word_no_space_2 | spiderparent |  
+| bip_39_word_no_space_3 | spiderparentticket |  
+| bip_39_word_no_space_4 | spiderparentticketcash |  
+| bip_39_word_no_space_5 | spiderparentticketcashgrape |  
+| bip_39_word_no_space_6 | spiderparentticketcashgrapeyouth |  
+| bip_39_word_no_space_7 | spiderparentticketcashgrapeyouthshiver |  
+| bip_39_word_no_space_8 | spiderparentticketcashgrapeyouthshiveridentify |  
+| bip_39_word_no_space_9 | spiderparentticketcashgrapeyouthshiveridentifybunker |  
 | bip_39_word_space_0 | ['spider', 'parent', 'ticket', 'cash', 'grape', 'youth', 'shiver', 'identify', 'bunker', 'item', 'coyote', 'afraid'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider parent ticket cash grape youth shiver identify bunker item |  

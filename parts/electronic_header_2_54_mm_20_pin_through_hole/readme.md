@@ -122,6 +122,18 @@ general
 oppose
 defense
 enroll |  
+| bip_39_word_no_space_1 | custom |  
+| bip_39_word_no_space_10 | customlabdeskplucktreegeneralopposedefenseenrollblast |  
+| bip_39_word_no_space_11 | customlabdeskplucktreegeneralopposedefenseenrollblastfurnace |  
+| bip_39_word_no_space_12 | customlabdeskplucktreegeneralopposedefenseenrollblastfurnaceattitude |  
+| bip_39_word_no_space_2 | customlab |  
+| bip_39_word_no_space_3 | customlabdesk |  
+| bip_39_word_no_space_4 | customlabdeskpluck |  
+| bip_39_word_no_space_5 | customlabdeskplucktree |  
+| bip_39_word_no_space_6 | customlabdeskplucktreegeneral |  
+| bip_39_word_no_space_7 | customlabdeskplucktreegeneraloppose |  
+| bip_39_word_no_space_8 | customlabdeskplucktreegeneralopposedefense |  
+| bip_39_word_no_space_9 | customlabdeskplucktreegeneralopposedefenseenroll |  
 | bip_39_word_space_0 | ['custom', 'lab', 'desk', 'pluck', 'tree', 'general', 'oppose', 'defense', 'enroll', 'blast', 'furnace', 'attitude'] |  
 | bip_39_word_space_1 | custom |  
 | bip_39_word_space_10 | custom lab desk pluck tree general oppose defense enroll blast |  

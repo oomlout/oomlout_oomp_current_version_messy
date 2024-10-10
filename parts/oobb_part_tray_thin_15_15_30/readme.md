@@ -122,6 +122,18 @@ tuition
 gold
 priority
 gadget |  
+| bip_39_word_no_space_1 | swim |  
+| bip_39_word_no_space_10 | swimslotstampdangerdecoratetuitiongoldprioritygadgetearly |  
+| bip_39_word_no_space_11 | swimslotstampdangerdecoratetuitiongoldprioritygadgetearlystem |  
+| bip_39_word_no_space_12 | swimslotstampdangerdecoratetuitiongoldprioritygadgetearlystemaddress |  
+| bip_39_word_no_space_2 | swimslot |  
+| bip_39_word_no_space_3 | swimslotstamp |  
+| bip_39_word_no_space_4 | swimslotstampdanger |  
+| bip_39_word_no_space_5 | swimslotstampdangerdecorate |  
+| bip_39_word_no_space_6 | swimslotstampdangerdecoratetuition |  
+| bip_39_word_no_space_7 | swimslotstampdangerdecoratetuitiongold |  
+| bip_39_word_no_space_8 | swimslotstampdangerdecoratetuitiongoldpriority |  
+| bip_39_word_no_space_9 | swimslotstampdangerdecoratetuitiongoldprioritygadget |  
 | bip_39_word_space_0 | ['swim', 'slot', 'stamp', 'danger', 'decorate', 'tuition', 'gold', 'priority', 'gadget', 'early', 'stem', 'address'] |  
 | bip_39_word_space_1 | swim |  
 | bip_39_word_space_10 | swim slot stamp danger decorate tuition gold priority gadget early |  

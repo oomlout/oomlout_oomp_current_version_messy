@@ -122,6 +122,18 @@ future
 simple
 ramp
 purpose |  
+| bip_39_word_no_space_1 | struggle |  
+| bip_39_word_no_space_10 | struggleviruscreekgentletribefuturesimpleramppurposereview |  
+| bip_39_word_no_space_11 | struggleviruscreekgentletribefuturesimpleramppurposereviewembark |  
+| bip_39_word_no_space_12 | struggleviruscreekgentletribefuturesimpleramppurposereviewembarkaisle |  
+| bip_39_word_no_space_2 | strugglevirus |  
+| bip_39_word_no_space_3 | struggleviruscreek |  
+| bip_39_word_no_space_4 | struggleviruscreekgentle |  
+| bip_39_word_no_space_5 | struggleviruscreekgentletribe |  
+| bip_39_word_no_space_6 | struggleviruscreekgentletribefuture |  
+| bip_39_word_no_space_7 | struggleviruscreekgentletribefuturesimple |  
+| bip_39_word_no_space_8 | struggleviruscreekgentletribefuturesimpleramp |  
+| bip_39_word_no_space_9 | struggleviruscreekgentletribefuturesimpleramppurpose |  
 | bip_39_word_space_0 | ['struggle', 'virus', 'creek', 'gentle', 'tribe', 'future', 'simple', 'ramp', 'purpose', 'review', 'embark', 'aisle'] |  
 | bip_39_word_space_1 | struggle |  
 | bip_39_word_space_10 | struggle virus creek gentle tribe future simple ramp purpose review |  

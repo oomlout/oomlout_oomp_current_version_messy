@@ -122,6 +122,18 @@ horror
 place
 quote
 poet |  
+| bip_39_word_no_space_1 | lock |  
+| bip_39_word_no_space_10 | locktermusefulupholdflamehorrorplacequotepoetdescribe |  
+| bip_39_word_no_space_11 | locktermusefulupholdflamehorrorplacequotepoetdescribeleg |  
+| bip_39_word_no_space_12 | locktermusefulupholdflamehorrorplacequotepoetdescribelegaim |  
+| bip_39_word_no_space_2 | lockterm |  
+| bip_39_word_no_space_3 | locktermuseful |  
+| bip_39_word_no_space_4 | locktermusefuluphold |  
+| bip_39_word_no_space_5 | locktermusefulupholdflame |  
+| bip_39_word_no_space_6 | locktermusefulupholdflamehorror |  
+| bip_39_word_no_space_7 | locktermusefulupholdflamehorrorplace |  
+| bip_39_word_no_space_8 | locktermusefulupholdflamehorrorplacequote |  
+| bip_39_word_no_space_9 | locktermusefulupholdflamehorrorplacequotepoet |  
 | bip_39_word_space_0 | ['lock', 'term', 'useful', 'uphold', 'flame', 'horror', 'place', 'quote', 'poet', 'describe', 'leg', 'aim'] |  
 | bip_39_word_space_1 | lock |  
 | bip_39_word_space_10 | lock term useful uphold flame horror place quote poet describe |  

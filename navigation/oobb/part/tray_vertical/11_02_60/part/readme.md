@@ -122,6 +122,18 @@ parrot
 ozone
 plug
 music |  
+| bip_39_word_no_space_1 | sword |  
+| bip_39_word_no_space_10 | swordhappysuchbelowpoetparrotozoneplugmusiccool |  
+| bip_39_word_no_space_11 | swordhappysuchbelowpoetparrotozoneplugmusiccoolprimary |  
+| bip_39_word_no_space_12 | swordhappysuchbelowpoetparrotozoneplugmusiccoolprimaryamazing |  
+| bip_39_word_no_space_2 | swordhappy |  
+| bip_39_word_no_space_3 | swordhappysuch |  
+| bip_39_word_no_space_4 | swordhappysuchbelow |  
+| bip_39_word_no_space_5 | swordhappysuchbelowpoet |  
+| bip_39_word_no_space_6 | swordhappysuchbelowpoetparrot |  
+| bip_39_word_no_space_7 | swordhappysuchbelowpoetparrotozone |  
+| bip_39_word_no_space_8 | swordhappysuchbelowpoetparrotozoneplug |  
+| bip_39_word_no_space_9 | swordhappysuchbelowpoetparrotozoneplugmusic |  
 | bip_39_word_space_0 | ['sword', 'happy', 'such', 'below', 'poet', 'parrot', 'ozone', 'plug', 'music', 'cool', 'primary', 'amazing'] |  
 | bip_39_word_space_1 | sword |  
 | bip_39_word_space_10 | sword happy such below poet parrot ozone plug music cool |  

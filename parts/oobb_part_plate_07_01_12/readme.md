@@ -122,6 +122,18 @@ snake
 fit
 lawn
 twenty |  
+| bip_39_word_no_space_1 | right |  
+| bip_39_word_no_space_10 | rightairportbarelystomachbelievesnakefitlawntwentyobserve |  
+| bip_39_word_no_space_11 | rightairportbarelystomachbelievesnakefitlawntwentyobserverecord |  
+| bip_39_word_no_space_12 | rightairportbarelystomachbelievesnakefitlawntwentyobserverecordaction |  
+| bip_39_word_no_space_2 | rightairport |  
+| bip_39_word_no_space_3 | rightairportbarely |  
+| bip_39_word_no_space_4 | rightairportbarelystomach |  
+| bip_39_word_no_space_5 | rightairportbarelystomachbelieve |  
+| bip_39_word_no_space_6 | rightairportbarelystomachbelievesnake |  
+| bip_39_word_no_space_7 | rightairportbarelystomachbelievesnakefit |  
+| bip_39_word_no_space_8 | rightairportbarelystomachbelievesnakefitlawn |  
+| bip_39_word_no_space_9 | rightairportbarelystomachbelievesnakefitlawntwenty |  
 | bip_39_word_space_0 | ['right', 'airport', 'barely', 'stomach', 'believe', 'snake', 'fit', 'lawn', 'twenty', 'observe', 'record', 'action'] |  
 | bip_39_word_space_1 | right |  
 | bip_39_word_space_10 | right airport barely stomach believe snake fit lawn twenty observe |  

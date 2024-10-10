@@ -122,6 +122,18 @@ acid
 debate
 pencil
 grace |  
+| bip_39_word_no_space_1 | acoustic |  
+| bip_39_word_no_space_10 | acousticpursebloodcountrypauseaciddebatepencilgraceflavor |  
+| bip_39_word_no_space_11 | acousticpursebloodcountrypauseaciddebatepencilgraceflavorbetween |  
+| bip_39_word_no_space_12 | acousticpursebloodcountrypauseaciddebatepencilgraceflavorbetweenalarm |  
+| bip_39_word_no_space_2 | acousticpurse |  
+| bip_39_word_no_space_3 | acousticpurseblood |  
+| bip_39_word_no_space_4 | acousticpursebloodcountry |  
+| bip_39_word_no_space_5 | acousticpursebloodcountrypause |  
+| bip_39_word_no_space_6 | acousticpursebloodcountrypauseacid |  
+| bip_39_word_no_space_7 | acousticpursebloodcountrypauseaciddebate |  
+| bip_39_word_no_space_8 | acousticpursebloodcountrypauseaciddebatepencil |  
+| bip_39_word_no_space_9 | acousticpursebloodcountrypauseaciddebatepencilgrace |  
 | bip_39_word_space_0 | ['acoustic', 'purse', 'blood', 'country', 'pause', 'acid', 'debate', 'pencil', 'grace', 'flavor', 'between', 'alarm'] |  
 | bip_39_word_space_1 | acoustic |  
 | bip_39_word_space_10 | acoustic purse blood country pause acid debate pencil grace flavor |  

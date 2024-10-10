@@ -122,6 +122,18 @@ wheel
 timber
 tenant
 smart |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntil |  
+| bip_39_word_no_space_11 | oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntilsnow |  
+| bip_39_word_no_space_12 | oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntilsnowartefact |  
+| bip_39_word_no_space_2 | oxygenrate |  
+| bip_39_word_no_space_3 | oxygenrateimpulse |  
+| bip_39_word_no_space_4 | oxygenrateimpulsesuccess |  
+| bip_39_word_no_space_5 | oxygenrateimpulsesuccessgenuine |  
+| bip_39_word_no_space_6 | oxygenrateimpulsesuccessgenuinewheel |  
+| bip_39_word_no_space_7 | oxygenrateimpulsesuccessgenuinewheeltimber |  
+| bip_39_word_no_space_8 | oxygenrateimpulsesuccessgenuinewheeltimbertenant |  
+| bip_39_word_no_space_9 | oxygenrateimpulsesuccessgenuinewheeltimbertenantsmart |  
 | bip_39_word_space_0 | ['oxygen', 'rate', 'impulse', 'success', 'genuine', 'wheel', 'timber', 'tenant', 'smart', 'until', 'snow', 'artefact'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen rate impulse success genuine wheel timber tenant smart until |  

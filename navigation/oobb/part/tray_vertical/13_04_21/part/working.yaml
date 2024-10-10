@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bike
   sister
 
   artwork'
+bip_39_word_no_space_1: bike
+bip_39_word_no_space_10: bikepumpkingoldknockmythexoticinchsisterartworksilly
+bip_39_word_no_space_11: bikepumpkingoldknockmythexoticinchsisterartworksillyboss
+bip_39_word_no_space_12: bikepumpkingoldknockmythexoticinchsisterartworksillybossability
+bip_39_word_no_space_2: bikepumpkin
+bip_39_word_no_space_3: bikepumpkingold
+bip_39_word_no_space_4: bikepumpkingoldknock
+bip_39_word_no_space_5: bikepumpkingoldknockmyth
+bip_39_word_no_space_6: bikepumpkingoldknockmythexotic
+bip_39_word_no_space_7: bikepumpkingoldknockmythexoticinch
+bip_39_word_no_space_8: bikepumpkingoldknockmythexoticinchsister
+bip_39_word_no_space_9: bikepumpkingoldknockmythexoticinchsisterartwork
 bip_39_word_space_0:
 - bike
 - pumpkin

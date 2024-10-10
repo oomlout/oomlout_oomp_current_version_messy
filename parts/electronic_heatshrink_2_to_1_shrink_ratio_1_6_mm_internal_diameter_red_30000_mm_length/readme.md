@@ -122,6 +122,18 @@ early
 bullet
 remind
 address |  
+| bip_39_word_no_space_1 | teach |  
+| bip_39_word_no_space_10 | teachsuddenpetsquirrelsurgeearlybulletremindaddressreplace |  
+| bip_39_word_no_space_11 | teachsuddenpetsquirrelsurgeearlybulletremindaddressreplacecargo |  
+| bip_39_word_no_space_12 | teachsuddenpetsquirrelsurgeearlybulletremindaddressreplacecargoamount |  
+| bip_39_word_no_space_2 | teachsudden |  
+| bip_39_word_no_space_3 | teachsuddenpet |  
+| bip_39_word_no_space_4 | teachsuddenpetsquirrel |  
+| bip_39_word_no_space_5 | teachsuddenpetsquirrelsurge |  
+| bip_39_word_no_space_6 | teachsuddenpetsquirrelsurgeearly |  
+| bip_39_word_no_space_7 | teachsuddenpetsquirrelsurgeearlybullet |  
+| bip_39_word_no_space_8 | teachsuddenpetsquirrelsurgeearlybulletremind |  
+| bip_39_word_no_space_9 | teachsuddenpetsquirrelsurgeearlybulletremindaddress |  
 | bip_39_word_space_0 | ['teach', 'sudden', 'pet', 'squirrel', 'surge', 'early', 'bullet', 'remind', 'address', 'replace', 'cargo', 'amount'] |  
 | bip_39_word_space_1 | teach |  
 | bip_39_word_space_10 | teach sudden pet squirrel surge early bullet remind address replace |  

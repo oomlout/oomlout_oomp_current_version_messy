@@ -122,6 +122,18 @@ shoulder
 awful
 loyal
 where |  
+| bip_39_word_no_space_1 | suggest |  
+| bip_39_word_no_space_10 | suggestrigidclimbinsanepermitshoulderawfulloyalwhereput |  
+| bip_39_word_no_space_11 | suggestrigidclimbinsanepermitshoulderawfulloyalwhereputhen |  
+| bip_39_word_no_space_12 | suggestrigidclimbinsanepermitshoulderawfulloyalwhereputhenagree |  
+| bip_39_word_no_space_2 | suggestrigid |  
+| bip_39_word_no_space_3 | suggestrigidclimb |  
+| bip_39_word_no_space_4 | suggestrigidclimbinsane |  
+| bip_39_word_no_space_5 | suggestrigidclimbinsanepermit |  
+| bip_39_word_no_space_6 | suggestrigidclimbinsanepermitshoulder |  
+| bip_39_word_no_space_7 | suggestrigidclimbinsanepermitshoulderawful |  
+| bip_39_word_no_space_8 | suggestrigidclimbinsanepermitshoulderawfulloyal |  
+| bip_39_word_no_space_9 | suggestrigidclimbinsanepermitshoulderawfulloyalwhere |  
 | bip_39_word_space_0 | ['suggest', 'rigid', 'climb', 'insane', 'permit', 'shoulder', 'awful', 'loyal', 'where', 'put', 'hen', 'agree'] |  
 | bip_39_word_space_1 | suggest |  
 | bip_39_word_space_10 | suggest rigid climb insane permit shoulder awful loyal where put |  

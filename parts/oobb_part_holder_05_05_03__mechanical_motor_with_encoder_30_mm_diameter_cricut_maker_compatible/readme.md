@@ -122,6 +122,18 @@ you
 wear
 butter
 above |  
+| bip_39_word_no_space_1 | iron |  
+| bip_39_word_no_space_10 | ironcrawlmovewhaleunfoldyouwearbutterabovebroccoli |  
+| bip_39_word_no_space_11 | ironcrawlmovewhaleunfoldyouwearbutterabovebroccolifix |  
+| bip_39_word_no_space_12 | ironcrawlmovewhaleunfoldyouwearbutterabovebroccolifixantique |  
+| bip_39_word_no_space_2 | ironcrawl |  
+| bip_39_word_no_space_3 | ironcrawlmove |  
+| bip_39_word_no_space_4 | ironcrawlmovewhale |  
+| bip_39_word_no_space_5 | ironcrawlmovewhaleunfold |  
+| bip_39_word_no_space_6 | ironcrawlmovewhaleunfoldyou |  
+| bip_39_word_no_space_7 | ironcrawlmovewhaleunfoldyouwear |  
+| bip_39_word_no_space_8 | ironcrawlmovewhaleunfoldyouwearbutter |  
+| bip_39_word_no_space_9 | ironcrawlmovewhaleunfoldyouwearbutterabove |  
 | bip_39_word_space_0 | ['iron', 'crawl', 'move', 'whale', 'unfold', 'you', 'wear', 'butter', 'above', 'broccoli', 'fix', 'antique'] |  
 | bip_39_word_space_1 | iron |  
 | bip_39_word_space_10 | iron crawl move whale unfold you wear butter above broccoli |  

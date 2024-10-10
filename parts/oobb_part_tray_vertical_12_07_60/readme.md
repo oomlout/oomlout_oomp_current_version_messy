@@ -122,6 +122,18 @@ swarm
 account
 insect
 chat |  
+| bip_39_word_no_space_1 | solve |  
+| bip_39_word_no_space_10 | solvepondeagerworrynormalswarmaccountinsectchatculture |  
+| bip_39_word_no_space_11 | solvepondeagerworrynormalswarmaccountinsectchatculturerepair |  
+| bip_39_word_no_space_12 | solvepondeagerworrynormalswarmaccountinsectchatculturerepairaspect |  
+| bip_39_word_no_space_2 | solvepond |  
+| bip_39_word_no_space_3 | solvepondeager |  
+| bip_39_word_no_space_4 | solvepondeagerworry |  
+| bip_39_word_no_space_5 | solvepondeagerworrynormal |  
+| bip_39_word_no_space_6 | solvepondeagerworrynormalswarm |  
+| bip_39_word_no_space_7 | solvepondeagerworrynormalswarmaccount |  
+| bip_39_word_no_space_8 | solvepondeagerworrynormalswarmaccountinsect |  
+| bip_39_word_no_space_9 | solvepondeagerworrynormalswarmaccountinsectchat |  
 | bip_39_word_space_0 | ['solve', 'pond', 'eager', 'worry', 'normal', 'swarm', 'account', 'insect', 'chat', 'culture', 'repair', 'aspect'] |  
 | bip_39_word_space_1 | solve |  
 | bip_39_word_space_10 | solve pond eager worry normal swarm account insect chat culture |  

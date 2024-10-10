@@ -122,6 +122,18 @@ stamp
 sense
 cover
 grocery |  
+| bip_39_word_no_space_1 | exotic |  
+| bip_39_word_no_space_10 | exotictobaccogapbelievesickstampsensecovergrocerywhere |  
+| bip_39_word_no_space_11 | exotictobaccogapbelievesickstampsensecovergrocerywherechapter |  
+| bip_39_word_no_space_12 | exotictobaccogapbelievesickstampsensecovergrocerywherechapteraerobic |  
+| bip_39_word_no_space_2 | exotictobacco |  
+| bip_39_word_no_space_3 | exotictobaccogap |  
+| bip_39_word_no_space_4 | exotictobaccogapbelieve |  
+| bip_39_word_no_space_5 | exotictobaccogapbelievesick |  
+| bip_39_word_no_space_6 | exotictobaccogapbelievesickstamp |  
+| bip_39_word_no_space_7 | exotictobaccogapbelievesickstampsense |  
+| bip_39_word_no_space_8 | exotictobaccogapbelievesickstampsensecover |  
+| bip_39_word_no_space_9 | exotictobaccogapbelievesickstampsensecovergrocery |  
 | bip_39_word_space_0 | ['exotic', 'tobacco', 'gap', 'believe', 'sick', 'stamp', 'sense', 'cover', 'grocery', 'where', 'chapter', 'aerobic'] |  
 | bip_39_word_space_1 | exotic |  
 | bip_39_word_space_10 | exotic tobacco gap believe sick stamp sense cover grocery where |  

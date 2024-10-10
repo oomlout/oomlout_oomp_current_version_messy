@@ -122,6 +122,18 @@ theory
 history
 upon
 stem |  
+| bip_39_word_no_space_1 | dream |  
+| bip_39_word_no_space_10 | dreamcraftcoyotetasteclinictheoryhistoryuponstemnature |  
+| bip_39_word_no_space_11 | dreamcraftcoyotetasteclinictheoryhistoryuponstemnaturedamp |  
+| bip_39_word_no_space_12 | dreamcraftcoyotetasteclinictheoryhistoryuponstemnaturedampattract |  
+| bip_39_word_no_space_2 | dreamcraft |  
+| bip_39_word_no_space_3 | dreamcraftcoyote |  
+| bip_39_word_no_space_4 | dreamcraftcoyotetaste |  
+| bip_39_word_no_space_5 | dreamcraftcoyotetasteclinic |  
+| bip_39_word_no_space_6 | dreamcraftcoyotetasteclinictheory |  
+| bip_39_word_no_space_7 | dreamcraftcoyotetasteclinictheoryhistory |  
+| bip_39_word_no_space_8 | dreamcraftcoyotetasteclinictheoryhistoryupon |  
+| bip_39_word_no_space_9 | dreamcraftcoyotetasteclinictheoryhistoryuponstem |  
 | bip_39_word_space_0 | ['dream', 'craft', 'coyote', 'taste', 'clinic', 'theory', 'history', 'upon', 'stem', 'nature', 'damp', 'attract'] |  
 | bip_39_word_space_1 | dream |  
 | bip_39_word_space_10 | dream craft coyote taste clinic theory history upon stem nature |  

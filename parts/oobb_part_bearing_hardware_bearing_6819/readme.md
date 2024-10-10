@@ -122,6 +122,18 @@ say
 marriage
 over
 tag |  
+| bip_39_word_no_space_1 | copper |  
+| bip_39_word_no_space_10 | coppercranemuffinautoquestionsaymarriageovertaggasp |  
+| bip_39_word_no_space_11 | coppercranemuffinautoquestionsaymarriageovertaggasplabor |  
+| bip_39_word_no_space_12 | coppercranemuffinautoquestionsaymarriageovertaggasplaborassault |  
+| bip_39_word_no_space_2 | coppercrane |  
+| bip_39_word_no_space_3 | coppercranemuffin |  
+| bip_39_word_no_space_4 | coppercranemuffinauto |  
+| bip_39_word_no_space_5 | coppercranemuffinautoquestion |  
+| bip_39_word_no_space_6 | coppercranemuffinautoquestionsay |  
+| bip_39_word_no_space_7 | coppercranemuffinautoquestionsaymarriage |  
+| bip_39_word_no_space_8 | coppercranemuffinautoquestionsaymarriageover |  
+| bip_39_word_no_space_9 | coppercranemuffinautoquestionsaymarriageovertag |  
 | bip_39_word_space_0 | ['copper', 'crane', 'muffin', 'auto', 'question', 'say', 'marriage', 'over', 'tag', 'gasp', 'labor', 'assault'] |  
 | bip_39_word_space_1 | copper |  
 | bip_39_word_space_10 | copper crane muffin auto question say marriage over tag gasp |  

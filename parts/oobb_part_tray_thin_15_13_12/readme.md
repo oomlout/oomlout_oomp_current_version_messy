@@ -122,6 +122,18 @@ talent
 this
 trust
 horn |  
+| bip_39_word_no_space_1 | ranch |  
+| bip_39_word_no_space_10 | ranchsilkendlesspoliceboiltalentthistrusthorncanoe |  
+| bip_39_word_no_space_11 | ranchsilkendlesspoliceboiltalentthistrusthorncanoepredict |  
+| bip_39_word_no_space_12 | ranchsilkendlesspoliceboiltalentthistrusthorncanoepredictattract |  
+| bip_39_word_no_space_2 | ranchsilk |  
+| bip_39_word_no_space_3 | ranchsilkendless |  
+| bip_39_word_no_space_4 | ranchsilkendlesspolice |  
+| bip_39_word_no_space_5 | ranchsilkendlesspoliceboil |  
+| bip_39_word_no_space_6 | ranchsilkendlesspoliceboiltalent |  
+| bip_39_word_no_space_7 | ranchsilkendlesspoliceboiltalentthis |  
+| bip_39_word_no_space_8 | ranchsilkendlesspoliceboiltalentthistrust |  
+| bip_39_word_no_space_9 | ranchsilkendlesspoliceboiltalentthistrusthorn |  
 | bip_39_word_space_0 | ['ranch', 'silk', 'endless', 'police', 'boil', 'talent', 'this', 'trust', 'horn', 'canoe', 'predict', 'attract'] |  
 | bip_39_word_space_1 | ranch |  
 | bip_39_word_space_10 | ranch silk endless police boil talent this trust horn canoe |  

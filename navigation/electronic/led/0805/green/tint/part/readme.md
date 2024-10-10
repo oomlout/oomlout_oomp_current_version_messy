@@ -122,6 +122,18 @@ despair
 job
 toast
 visual |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worrywarfaremobilewrestleslogandespairjobtoastvisualfound |  
+| bip_39_word_no_space_11 | worrywarfaremobilewrestleslogandespairjobtoastvisualfoundcannon |  
+| bip_39_word_no_space_12 | worrywarfaremobilewrestleslogandespairjobtoastvisualfoundcannonacid |  
+| bip_39_word_no_space_2 | worrywarfare |  
+| bip_39_word_no_space_3 | worrywarfaremobile |  
+| bip_39_word_no_space_4 | worrywarfaremobilewrestle |  
+| bip_39_word_no_space_5 | worrywarfaremobilewrestleslogan |  
+| bip_39_word_no_space_6 | worrywarfaremobilewrestleslogandespair |  
+| bip_39_word_no_space_7 | worrywarfaremobilewrestleslogandespairjob |  
+| bip_39_word_no_space_8 | worrywarfaremobilewrestleslogandespairjobtoast |  
+| bip_39_word_no_space_9 | worrywarfaremobilewrestleslogandespairjobtoastvisual |  
 | bip_39_word_space_0 | ['worry', 'warfare', 'mobile', 'wrestle', 'slogan', 'despair', 'job', 'toast', 'visual', 'found', 'cannon', 'acid'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry warfare mobile wrestle slogan despair job toast visual found |  

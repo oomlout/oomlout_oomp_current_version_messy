@@ -122,6 +122,18 @@ alien
 render
 media
 scrap |  
+| bip_39_word_no_space_1 | razor |  
+| bip_39_word_no_space_10 | razormodelspikestyleabstractalienrendermediascrapritual |  
+| bip_39_word_no_space_11 | razormodelspikestyleabstractalienrendermediascrapritualabstract |  
+| bip_39_word_no_space_12 | razormodelspikestyleabstractalienrendermediascrapritualabstractalso |  
+| bip_39_word_no_space_2 | razormodel |  
+| bip_39_word_no_space_3 | razormodelspike |  
+| bip_39_word_no_space_4 | razormodelspikestyle |  
+| bip_39_word_no_space_5 | razormodelspikestyleabstract |  
+| bip_39_word_no_space_6 | razormodelspikestyleabstractalien |  
+| bip_39_word_no_space_7 | razormodelspikestyleabstractalienrender |  
+| bip_39_word_no_space_8 | razormodelspikestyleabstractalienrendermedia |  
+| bip_39_word_no_space_9 | razormodelspikestyleabstractalienrendermediascrap |  
 | bip_39_word_space_0 | ['razor', 'model', 'spike', 'style', 'abstract', 'alien', 'render', 'media', 'scrap', 'ritual', 'abstract', 'also'] |  
 | bip_39_word_space_1 | razor |  
 | bip_39_word_space_10 | razor model spike style abstract alien render media scrap ritual |  

@@ -122,6 +122,18 @@ radar
 pelican
 describe
 simple |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settleawkwardfathercapitaltruckradarpelicandescribesimpleuniform |  
+| bip_39_word_no_space_11 | settleawkwardfathercapitaltruckradarpelicandescribesimpleuniformhorror |  
+| bip_39_word_no_space_12 | settleawkwardfathercapitaltruckradarpelicandescribesimpleuniformhorrorabstract |  
+| bip_39_word_no_space_2 | settleawkward |  
+| bip_39_word_no_space_3 | settleawkwardfather |  
+| bip_39_word_no_space_4 | settleawkwardfathercapital |  
+| bip_39_word_no_space_5 | settleawkwardfathercapitaltruck |  
+| bip_39_word_no_space_6 | settleawkwardfathercapitaltruckradar |  
+| bip_39_word_no_space_7 | settleawkwardfathercapitaltruckradarpelican |  
+| bip_39_word_no_space_8 | settleawkwardfathercapitaltruckradarpelicandescribe |  
+| bip_39_word_no_space_9 | settleawkwardfathercapitaltruckradarpelicandescribesimple |  
 | bip_39_word_space_0 | ['settle', 'awkward', 'father', 'capital', 'truck', 'radar', 'pelican', 'describe', 'simple', 'uniform', 'horror', 'abstract'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle awkward father capital truck radar pelican describe simple uniform |  

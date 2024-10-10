@@ -122,6 +122,18 @@ flee
 guide
 find
 real |  
+| bip_39_word_no_space_1 | mom |  
+| bip_39_word_no_space_10 | momuniformacousticlawsuitgatefleeguidefindreallaugh |  
+| bip_39_word_no_space_11 | momuniformacousticlawsuitgatefleeguidefindreallaughasset |  
+| bip_39_word_no_space_12 | momuniformacousticlawsuitgatefleeguidefindreallaughassetalbum |  
+| bip_39_word_no_space_2 | momuniform |  
+| bip_39_word_no_space_3 | momuniformacoustic |  
+| bip_39_word_no_space_4 | momuniformacousticlawsuit |  
+| bip_39_word_no_space_5 | momuniformacousticlawsuitgate |  
+| bip_39_word_no_space_6 | momuniformacousticlawsuitgateflee |  
+| bip_39_word_no_space_7 | momuniformacousticlawsuitgatefleeguide |  
+| bip_39_word_no_space_8 | momuniformacousticlawsuitgatefleeguidefind |  
+| bip_39_word_no_space_9 | momuniformacousticlawsuitgatefleeguidefindreal |  
 | bip_39_word_space_0 | ['mom', 'uniform', 'acoustic', 'lawsuit', 'gate', 'flee', 'guide', 'find', 'real', 'laugh', 'asset', 'album'] |  
 | bip_39_word_space_1 | mom |  
 | bip_39_word_space_10 | mom uniform acoustic lawsuit gate flee guide find real laugh |  

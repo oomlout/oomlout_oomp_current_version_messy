@@ -122,6 +122,18 @@ hand
 burden
 mule
 worry |  
+| bip_39_word_no_space_1 | choice |  
+| bip_39_word_no_space_10 | choiceregionspikeromancekickhandburdenmuleworrysight |  
+| bip_39_word_no_space_11 | choiceregionspikeromancekickhandburdenmuleworrysightpost |  
+| bip_39_word_no_space_12 | choiceregionspikeromancekickhandburdenmuleworrysightpostadd |  
+| bip_39_word_no_space_2 | choiceregion |  
+| bip_39_word_no_space_3 | choiceregionspike |  
+| bip_39_word_no_space_4 | choiceregionspikeromance |  
+| bip_39_word_no_space_5 | choiceregionspikeromancekick |  
+| bip_39_word_no_space_6 | choiceregionspikeromancekickhand |  
+| bip_39_word_no_space_7 | choiceregionspikeromancekickhandburden |  
+| bip_39_word_no_space_8 | choiceregionspikeromancekickhandburdenmule |  
+| bip_39_word_no_space_9 | choiceregionspikeromancekickhandburdenmuleworry |  
 | bip_39_word_space_0 | ['choice', 'region', 'spike', 'romance', 'kick', 'hand', 'burden', 'mule', 'worry', 'sight', 'post', 'add'] |  
 | bip_39_word_space_1 | choice |  
 | bip_39_word_space_10 | choice region spike romance kick hand burden mule worry sight |  

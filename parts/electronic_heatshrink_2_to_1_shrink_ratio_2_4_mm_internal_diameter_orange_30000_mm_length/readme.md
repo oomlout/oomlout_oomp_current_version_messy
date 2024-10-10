@@ -122,6 +122,18 @@ review
 moon
 infant
 love |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblefeverceilingillegalgatereviewmooninfantlovemedal |  
+| bip_39_word_no_space_11 | marblefeverceilingillegalgatereviewmooninfantlovemedalfind |  
+| bip_39_word_no_space_12 | marblefeverceilingillegalgatereviewmooninfantlovemedalfindaim |  
+| bip_39_word_no_space_2 | marblefever |  
+| bip_39_word_no_space_3 | marblefeverceiling |  
+| bip_39_word_no_space_4 | marblefeverceilingillegal |  
+| bip_39_word_no_space_5 | marblefeverceilingillegalgate |  
+| bip_39_word_no_space_6 | marblefeverceilingillegalgatereview |  
+| bip_39_word_no_space_7 | marblefeverceilingillegalgatereviewmoon |  
+| bip_39_word_no_space_8 | marblefeverceilingillegalgatereviewmooninfant |  
+| bip_39_word_no_space_9 | marblefeverceilingillegalgatereviewmooninfantlove |  
 | bip_39_word_space_0 | ['marble', 'fever', 'ceiling', 'illegal', 'gate', 'review', 'moon', 'infant', 'love', 'medal', 'find', 'aim'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble fever ceiling illegal gate review moon infant love medal |  

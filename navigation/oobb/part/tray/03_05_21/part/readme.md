@@ -122,6 +122,18 @@ pull
 chair
 alone
 enlist |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmentfancyincludehawkobviouspullchairaloneenlistmarriage |  
+| bip_39_word_no_space_11 | segmentfancyincludehawkobviouspullchairaloneenlistmarriageyear |  
+| bip_39_word_no_space_12 | segmentfancyincludehawkobviouspullchairaloneenlistmarriageyearaisle |  
+| bip_39_word_no_space_2 | segmentfancy |  
+| bip_39_word_no_space_3 | segmentfancyinclude |  
+| bip_39_word_no_space_4 | segmentfancyincludehawk |  
+| bip_39_word_no_space_5 | segmentfancyincludehawkobvious |  
+| bip_39_word_no_space_6 | segmentfancyincludehawkobviouspull |  
+| bip_39_word_no_space_7 | segmentfancyincludehawkobviouspullchair |  
+| bip_39_word_no_space_8 | segmentfancyincludehawkobviouspullchairalone |  
+| bip_39_word_no_space_9 | segmentfancyincludehawkobviouspullchairaloneenlist |  
 | bip_39_word_space_0 | ['segment', 'fancy', 'include', 'hawk', 'obvious', 'pull', 'chair', 'alone', 'enlist', 'marriage', 'year', 'aisle'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment fancy include hawk obvious pull chair alone enlist marriage |  

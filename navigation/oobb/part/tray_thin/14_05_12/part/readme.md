@@ -122,6 +122,18 @@ animal
 south
 blossom
 ten |  
+| bip_39_word_no_space_1 | choose |  
+| bip_39_word_no_space_10 | choosedelaymanualorphanlatinanimalsouthblossomtenemploy |  
+| bip_39_word_no_space_11 | choosedelaymanualorphanlatinanimalsouthblossomtenemployprovide |  
+| bip_39_word_no_space_12 | choosedelaymanualorphanlatinanimalsouthblossomtenemployprovideamazing |  
+| bip_39_word_no_space_2 | choosedelay |  
+| bip_39_word_no_space_3 | choosedelaymanual |  
+| bip_39_word_no_space_4 | choosedelaymanualorphan |  
+| bip_39_word_no_space_5 | choosedelaymanualorphanlatin |  
+| bip_39_word_no_space_6 | choosedelaymanualorphanlatinanimal |  
+| bip_39_word_no_space_7 | choosedelaymanualorphanlatinanimalsouth |  
+| bip_39_word_no_space_8 | choosedelaymanualorphanlatinanimalsouthblossom |  
+| bip_39_word_no_space_9 | choosedelaymanualorphanlatinanimalsouthblossomten |  
 | bip_39_word_space_0 | ['choose', 'delay', 'manual', 'orphan', 'latin', 'animal', 'south', 'blossom', 'ten', 'employ', 'provide', 'amazing'] |  
 | bip_39_word_space_1 | choose |  
 | bip_39_word_space_10 | choose delay manual orphan latin animal south blossom ten employ |  

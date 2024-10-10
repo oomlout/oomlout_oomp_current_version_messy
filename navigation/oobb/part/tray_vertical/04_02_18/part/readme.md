@@ -122,6 +122,18 @@ luggage
 asthma
 energy
 toe |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderalarmcapitalknowhoverluggageasthmaenergytoeclose |  
+| bip_39_word_no_space_11 | powderalarmcapitalknowhoverluggageasthmaenergytoecloseblue |  
+| bip_39_word_no_space_12 | powderalarmcapitalknowhoverluggageasthmaenergytoecloseblueask |  
+| bip_39_word_no_space_2 | powderalarm |  
+| bip_39_word_no_space_3 | powderalarmcapital |  
+| bip_39_word_no_space_4 | powderalarmcapitalknow |  
+| bip_39_word_no_space_5 | powderalarmcapitalknowhover |  
+| bip_39_word_no_space_6 | powderalarmcapitalknowhoverluggage |  
+| bip_39_word_no_space_7 | powderalarmcapitalknowhoverluggageasthma |  
+| bip_39_word_no_space_8 | powderalarmcapitalknowhoverluggageasthmaenergy |  
+| bip_39_word_no_space_9 | powderalarmcapitalknowhoverluggageasthmaenergytoe |  
 | bip_39_word_space_0 | ['powder', 'alarm', 'capital', 'know', 'hover', 'luggage', 'asthma', 'energy', 'toe', 'close', 'blue', 'ask'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder alarm capital know hover luggage asthma energy toe close |  

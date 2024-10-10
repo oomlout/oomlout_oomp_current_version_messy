@@ -122,6 +122,18 @@ current
 abstract
 mom
 radio |  
+| bip_39_word_no_space_1 | valley |  
+| bip_39_word_no_space_10 | valleycrackdescribeswiftadaptcurrentabstractmomradiofragile |  
+| bip_39_word_no_space_11 | valleycrackdescribeswiftadaptcurrentabstractmomradiofragilescare |  
+| bip_39_word_no_space_12 | valleycrackdescribeswiftadaptcurrentabstractmomradiofragilescareadvance |  
+| bip_39_word_no_space_2 | valleycrack |  
+| bip_39_word_no_space_3 | valleycrackdescribe |  
+| bip_39_word_no_space_4 | valleycrackdescribeswift |  
+| bip_39_word_no_space_5 | valleycrackdescribeswiftadapt |  
+| bip_39_word_no_space_6 | valleycrackdescribeswiftadaptcurrent |  
+| bip_39_word_no_space_7 | valleycrackdescribeswiftadaptcurrentabstract |  
+| bip_39_word_no_space_8 | valleycrackdescribeswiftadaptcurrentabstractmom |  
+| bip_39_word_no_space_9 | valleycrackdescribeswiftadaptcurrentabstractmomradio |  
 | bip_39_word_space_0 | ['valley', 'crack', 'describe', 'swift', 'adapt', 'current', 'abstract', 'mom', 'radio', 'fragile', 'scare', 'advance'] |  
 | bip_39_word_space_1 | valley |  
 | bip_39_word_space_10 | valley crack describe swift adapt current abstract mom radio fragile |  

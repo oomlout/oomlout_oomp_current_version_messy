@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mouse
   seat
 
   stamp'
+bip_39_word_no_space_1: mouse
+bip_39_word_no_space_10: mousequitslimbeforedescribeseminarexchangeseatstampwheel
+bip_39_word_no_space_11: mousequitslimbeforedescribeseminarexchangeseatstampwheelneither
+bip_39_word_no_space_12: mousequitslimbeforedescribeseminarexchangeseatstampwheelneitherargue
+bip_39_word_no_space_2: mousequit
+bip_39_word_no_space_3: mousequitslim
+bip_39_word_no_space_4: mousequitslimbefore
+bip_39_word_no_space_5: mousequitslimbeforedescribe
+bip_39_word_no_space_6: mousequitslimbeforedescribeseminar
+bip_39_word_no_space_7: mousequitslimbeforedescribeseminarexchange
+bip_39_word_no_space_8: mousequitslimbeforedescribeseminarexchangeseat
+bip_39_word_no_space_9: mousequitslimbeforedescribeseminarexchangeseatstamp
 bip_39_word_space_0:
 - mouse
 - quit

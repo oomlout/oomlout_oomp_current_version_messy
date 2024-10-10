@@ -122,6 +122,18 @@ common
 lottery
 great
 render |  
+| bip_39_word_no_space_1 | hold |  
+| bip_39_word_no_space_10 | holdcoffeediamondacousticacquirecommonlotterygreatrenderlive |  
+| bip_39_word_no_space_11 | holdcoffeediamondacousticacquirecommonlotterygreatrenderliveclay |  
+| bip_39_word_no_space_12 | holdcoffeediamondacousticacquirecommonlotterygreatrenderliveclayalways |  
+| bip_39_word_no_space_2 | holdcoffee |  
+| bip_39_word_no_space_3 | holdcoffeediamond |  
+| bip_39_word_no_space_4 | holdcoffeediamondacoustic |  
+| bip_39_word_no_space_5 | holdcoffeediamondacousticacquire |  
+| bip_39_word_no_space_6 | holdcoffeediamondacousticacquirecommon |  
+| bip_39_word_no_space_7 | holdcoffeediamondacousticacquirecommonlottery |  
+| bip_39_word_no_space_8 | holdcoffeediamondacousticacquirecommonlotterygreat |  
+| bip_39_word_no_space_9 | holdcoffeediamondacousticacquirecommonlotterygreatrender |  
 | bip_39_word_space_0 | ['hold', 'coffee', 'diamond', 'acoustic', 'acquire', 'common', 'lottery', 'great', 'render', 'live', 'clay', 'always'] |  
 | bip_39_word_space_1 | hold |  
 | bip_39_word_space_10 | hold coffee diamond acoustic acquire common lottery great render live |  

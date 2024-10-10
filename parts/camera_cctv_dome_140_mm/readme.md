@@ -122,6 +122,18 @@ mango
 once
 armor
 load |  
+| bip_39_word_no_space_1 | nut |  
+| bip_39_word_no_space_10 | nutblindvacantevilsurroundmangooncearmorloadsad |  
+| bip_39_word_no_space_11 | nutblindvacantevilsurroundmangooncearmorloadsadglue |  
+| bip_39_word_no_space_12 | nutblindvacantevilsurroundmangooncearmorloadsadglueaffair |  
+| bip_39_word_no_space_2 | nutblind |  
+| bip_39_word_no_space_3 | nutblindvacant |  
+| bip_39_word_no_space_4 | nutblindvacantevil |  
+| bip_39_word_no_space_5 | nutblindvacantevilsurround |  
+| bip_39_word_no_space_6 | nutblindvacantevilsurroundmango |  
+| bip_39_word_no_space_7 | nutblindvacantevilsurroundmangoonce |  
+| bip_39_word_no_space_8 | nutblindvacantevilsurroundmangooncearmor |  
+| bip_39_word_no_space_9 | nutblindvacantevilsurroundmangooncearmorload |  
 | bip_39_word_space_0 | ['nut', 'blind', 'vacant', 'evil', 'surround', 'mango', 'once', 'armor', 'load', 'sad', 'glue', 'affair'] |  
 | bip_39_word_space_1 | nut |  
 | bip_39_word_space_10 | nut blind vacant evil surround mango once armor load sad |  

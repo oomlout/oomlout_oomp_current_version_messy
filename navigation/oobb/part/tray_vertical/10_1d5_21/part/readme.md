@@ -122,6 +122,18 @@ basket
 student
 over
 happy |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubtreatflatcreekstadiumbasketstudentoverhappytip |  
+| bip_39_word_no_space_11 | hubtreatflatcreekstadiumbasketstudentoverhappytipundo |  
+| bip_39_word_no_space_12 | hubtreatflatcreekstadiumbasketstudentoverhappytipundoadjust |  
+| bip_39_word_no_space_2 | hubtreat |  
+| bip_39_word_no_space_3 | hubtreatflat |  
+| bip_39_word_no_space_4 | hubtreatflatcreek |  
+| bip_39_word_no_space_5 | hubtreatflatcreekstadium |  
+| bip_39_word_no_space_6 | hubtreatflatcreekstadiumbasket |  
+| bip_39_word_no_space_7 | hubtreatflatcreekstadiumbasketstudent |  
+| bip_39_word_no_space_8 | hubtreatflatcreekstadiumbasketstudentover |  
+| bip_39_word_no_space_9 | hubtreatflatcreekstadiumbasketstudentoverhappy |  
 | bip_39_word_space_0 | ['hub', 'treat', 'flat', 'creek', 'stadium', 'basket', 'student', 'over', 'happy', 'tip', 'undo', 'adjust'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub treat flat creek stadium basket student over happy tip |  

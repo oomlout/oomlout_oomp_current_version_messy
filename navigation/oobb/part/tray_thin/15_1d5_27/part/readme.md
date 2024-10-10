@@ -122,6 +122,18 @@ town
 near
 opera
 power |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armbiologyalphaisolatecroptownnearoperapowerfat |  
+| bip_39_word_no_space_11 | armbiologyalphaisolatecroptownnearoperapowerfatsubject |  
+| bip_39_word_no_space_12 | armbiologyalphaisolatecroptownnearoperapowerfatsubjectadapt |  
+| bip_39_word_no_space_2 | armbiology |  
+| bip_39_word_no_space_3 | armbiologyalpha |  
+| bip_39_word_no_space_4 | armbiologyalphaisolate |  
+| bip_39_word_no_space_5 | armbiologyalphaisolatecrop |  
+| bip_39_word_no_space_6 | armbiologyalphaisolatecroptown |  
+| bip_39_word_no_space_7 | armbiologyalphaisolatecroptownnear |  
+| bip_39_word_no_space_8 | armbiologyalphaisolatecroptownnearopera |  
+| bip_39_word_no_space_9 | armbiologyalphaisolatecroptownnearoperapower |  
 | bip_39_word_space_0 | ['arm', 'biology', 'alpha', 'isolate', 'crop', 'town', 'near', 'opera', 'power', 'fat', 'subject', 'adapt'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm biology alpha isolate crop town near opera power fat |  

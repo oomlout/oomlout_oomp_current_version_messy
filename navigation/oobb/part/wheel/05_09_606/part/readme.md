@@ -122,6 +122,18 @@ ready
 toddler
 cinnamon
 enemy |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holecruisecramgalaxycablereadytoddlercinnamonenemyglimpse |  
+| bip_39_word_no_space_11 | holecruisecramgalaxycablereadytoddlercinnamonenemyglimpseusual |  
+| bip_39_word_no_space_12 | holecruisecramgalaxycablereadytoddlercinnamonenemyglimpseusualavocado |  
+| bip_39_word_no_space_2 | holecruise |  
+| bip_39_word_no_space_3 | holecruisecram |  
+| bip_39_word_no_space_4 | holecruisecramgalaxy |  
+| bip_39_word_no_space_5 | holecruisecramgalaxycable |  
+| bip_39_word_no_space_6 | holecruisecramgalaxycableready |  
+| bip_39_word_no_space_7 | holecruisecramgalaxycablereadytoddler |  
+| bip_39_word_no_space_8 | holecruisecramgalaxycablereadytoddlercinnamon |  
+| bip_39_word_no_space_9 | holecruisecramgalaxycablereadytoddlercinnamonenemy |  
 | bip_39_word_space_0 | ['hole', 'cruise', 'cram', 'galaxy', 'cable', 'ready', 'toddler', 'cinnamon', 'enemy', 'glimpse', 'usual', 'avocado'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole cruise cram galaxy cable ready toddler cinnamon enemy glimpse |  

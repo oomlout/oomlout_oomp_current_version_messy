@@ -122,6 +122,18 @@ draft
 force
 oblige
 sweet |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | providecityboringimageharshdraftforceobligesweetworld |  
+| bip_39_word_no_space_11 | providecityboringimageharshdraftforceobligesweetworldsquare |  
+| bip_39_word_no_space_12 | providecityboringimageharshdraftforceobligesweetworldsquarearmor |  
+| bip_39_word_no_space_2 | providecity |  
+| bip_39_word_no_space_3 | providecityboring |  
+| bip_39_word_no_space_4 | providecityboringimage |  
+| bip_39_word_no_space_5 | providecityboringimageharsh |  
+| bip_39_word_no_space_6 | providecityboringimageharshdraft |  
+| bip_39_word_no_space_7 | providecityboringimageharshdraftforce |  
+| bip_39_word_no_space_8 | providecityboringimageharshdraftforceoblige |  
+| bip_39_word_no_space_9 | providecityboringimageharshdraftforceobligesweet |  
 | bip_39_word_space_0 | ['provide', 'city', 'boring', 'image', 'harsh', 'draft', 'force', 'oblige', 'sweet', 'world', 'square', 'armor'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide city boring image harsh draft force oblige sweet world |  

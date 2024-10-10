@@ -122,6 +122,18 @@ library
 pudding
 anxiety
 around |  
+| bip_39_word_no_space_1 | defense |  
+| bip_39_word_no_space_10 | defensereducemaximumdollgorillalibrarypuddinganxietyaroundcode |  
+| bip_39_word_no_space_11 | defensereducemaximumdollgorillalibrarypuddinganxietyaroundcodeobvious |  
+| bip_39_word_no_space_12 | defensereducemaximumdollgorillalibrarypuddinganxietyaroundcodeobviousadapt |  
+| bip_39_word_no_space_2 | defensereduce |  
+| bip_39_word_no_space_3 | defensereducemaximum |  
+| bip_39_word_no_space_4 | defensereducemaximumdoll |  
+| bip_39_word_no_space_5 | defensereducemaximumdollgorilla |  
+| bip_39_word_no_space_6 | defensereducemaximumdollgorillalibrary |  
+| bip_39_word_no_space_7 | defensereducemaximumdollgorillalibrarypudding |  
+| bip_39_word_no_space_8 | defensereducemaximumdollgorillalibrarypuddinganxiety |  
+| bip_39_word_no_space_9 | defensereducemaximumdollgorillalibrarypuddinganxietyaround |  
 | bip_39_word_space_0 | ['defense', 'reduce', 'maximum', 'doll', 'gorilla', 'library', 'pudding', 'anxiety', 'around', 'code', 'obvious', 'adapt'] |  
 | bip_39_word_space_1 | defense |  
 | bip_39_word_space_10 | defense reduce maximum doll gorilla library pudding anxiety around code |  

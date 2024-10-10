@@ -122,6 +122,18 @@ bottom
 lobster
 pond
 bounce |  
+| bip_39_word_no_space_1 | melody |  
+| bip_39_word_no_space_10 | melodyvalleyillnesssparesourcebottomlobsterpondbouncestill |  
+| bip_39_word_no_space_11 | melodyvalleyillnesssparesourcebottomlobsterpondbouncestillstill |  
+| bip_39_word_no_space_12 | melodyvalleyillnesssparesourcebottomlobsterpondbouncestillstillaccess |  
+| bip_39_word_no_space_2 | melodyvalley |  
+| bip_39_word_no_space_3 | melodyvalleyillness |  
+| bip_39_word_no_space_4 | melodyvalleyillnessspare |  
+| bip_39_word_no_space_5 | melodyvalleyillnesssparesource |  
+| bip_39_word_no_space_6 | melodyvalleyillnesssparesourcebottom |  
+| bip_39_word_no_space_7 | melodyvalleyillnesssparesourcebottomlobster |  
+| bip_39_word_no_space_8 | melodyvalleyillnesssparesourcebottomlobsterpond |  
+| bip_39_word_no_space_9 | melodyvalleyillnesssparesourcebottomlobsterpondbounce |  
 | bip_39_word_space_0 | ['melody', 'valley', 'illness', 'spare', 'source', 'bottom', 'lobster', 'pond', 'bounce', 'still', 'still', 'access'] |  
 | bip_39_word_space_1 | melody |  
 | bip_39_word_space_10 | melody valley illness spare source bottom lobster pond bounce still |  

@@ -122,6 +122,18 @@ merry
 cloth
 usual
 forest |  
+| bip_39_word_no_space_1 | kiwi |  
+| bip_39_word_no_space_10 | kiwicastleuglyevidencelearnmerryclothusualforestsick |  
+| bip_39_word_no_space_11 | kiwicastleuglyevidencelearnmerryclothusualforestsickerupt |  
+| bip_39_word_no_space_12 | kiwicastleuglyevidencelearnmerryclothusualforestsickeruptactor |  
+| bip_39_word_no_space_2 | kiwicastle |  
+| bip_39_word_no_space_3 | kiwicastleugly |  
+| bip_39_word_no_space_4 | kiwicastleuglyevidence |  
+| bip_39_word_no_space_5 | kiwicastleuglyevidencelearn |  
+| bip_39_word_no_space_6 | kiwicastleuglyevidencelearnmerry |  
+| bip_39_word_no_space_7 | kiwicastleuglyevidencelearnmerrycloth |  
+| bip_39_word_no_space_8 | kiwicastleuglyevidencelearnmerryclothusual |  
+| bip_39_word_no_space_9 | kiwicastleuglyevidencelearnmerryclothusualforest |  
 | bip_39_word_space_0 | ['kiwi', 'castle', 'ugly', 'evidence', 'learn', 'merry', 'cloth', 'usual', 'forest', 'sick', 'erupt', 'actor'] |  
 | bip_39_word_space_1 | kiwi |  
 | bip_39_word_space_10 | kiwi castle ugly evidence learn merry cloth usual forest sick |  

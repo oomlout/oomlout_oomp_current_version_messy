@@ -122,6 +122,18 @@ scene
 bracket
 captain
 outside |  
+| bip_39_word_no_space_1 | history |  
+| bip_39_word_no_space_10 | historymarinebuildnextmilkscenebracketcaptainoutsideyellow |  
+| bip_39_word_no_space_11 | historymarinebuildnextmilkscenebracketcaptainoutsideyellowevil |  
+| bip_39_word_no_space_12 | historymarinebuildnextmilkscenebracketcaptainoutsideyellowevilattend |  
+| bip_39_word_no_space_2 | historymarine |  
+| bip_39_word_no_space_3 | historymarinebuild |  
+| bip_39_word_no_space_4 | historymarinebuildnext |  
+| bip_39_word_no_space_5 | historymarinebuildnextmilk |  
+| bip_39_word_no_space_6 | historymarinebuildnextmilkscene |  
+| bip_39_word_no_space_7 | historymarinebuildnextmilkscenebracket |  
+| bip_39_word_no_space_8 | historymarinebuildnextmilkscenebracketcaptain |  
+| bip_39_word_no_space_9 | historymarinebuildnextmilkscenebracketcaptainoutside |  
 | bip_39_word_space_0 | ['history', 'marine', 'build', 'next', 'milk', 'scene', 'bracket', 'captain', 'outside', 'yellow', 'evil', 'attend'] |  
 | bip_39_word_space_1 | history |  
 | bip_39_word_space_10 | history marine build next milk scene bracket captain outside yellow |  

@@ -122,6 +122,18 @@ more
 diagram
 hope
 middle |  
+| bip_39_word_no_space_1 | reason |  
+| bip_39_word_no_space_10 | reasonlectureslicefoildonkeymorediagramhopemiddlechapter |  
+| bip_39_word_no_space_11 | reasonlectureslicefoildonkeymorediagramhopemiddlechaptermovie |  
+| bip_39_word_no_space_12 | reasonlectureslicefoildonkeymorediagramhopemiddlechaptermovieabout |  
+| bip_39_word_no_space_2 | reasonlecture |  
+| bip_39_word_no_space_3 | reasonlectureslice |  
+| bip_39_word_no_space_4 | reasonlectureslicefoil |  
+| bip_39_word_no_space_5 | reasonlectureslicefoildonkey |  
+| bip_39_word_no_space_6 | reasonlectureslicefoildonkeymore |  
+| bip_39_word_no_space_7 | reasonlectureslicefoildonkeymorediagram |  
+| bip_39_word_no_space_8 | reasonlectureslicefoildonkeymorediagramhope |  
+| bip_39_word_no_space_9 | reasonlectureslicefoildonkeymorediagramhopemiddle |  
 | bip_39_word_space_0 | ['reason', 'lecture', 'slice', 'foil', 'donkey', 'more', 'diagram', 'hope', 'middle', 'chapter', 'movie', 'about'] |  
 | bip_39_word_space_1 | reason |  
 | bip_39_word_space_10 | reason lecture slice foil donkey more diagram hope middle chapter |  

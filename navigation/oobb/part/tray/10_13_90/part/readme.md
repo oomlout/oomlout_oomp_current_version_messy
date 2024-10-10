@@ -109,6 +109,17 @@ move
 axis
 add
 subject |  
+| bip_39_word_no_space_1 | symptom |  
+| bip_39_word_no_space_10 | symptomcoyotepencilseminartinymoveaxisaddsubjectcable |  
+| bip_39_word_no_space_11 | symptomcoyotepencilseminartinymoveaxisaddsubjectcablephrase |  
+| bip_39_word_no_space_2 | symptomcoyote |  
+| bip_39_word_no_space_3 | symptomcoyotepencil |  
+| bip_39_word_no_space_4 | symptomcoyotepencilseminar |  
+| bip_39_word_no_space_5 | symptomcoyotepencilseminartiny |  
+| bip_39_word_no_space_6 | symptomcoyotepencilseminartinymove |  
+| bip_39_word_no_space_7 | symptomcoyotepencilseminartinymoveaxis |  
+| bip_39_word_no_space_8 | symptomcoyotepencilseminartinymoveaxisadd |  
+| bip_39_word_no_space_9 | symptomcoyotepencilseminartinymoveaxisaddsubject |  
 | bip_39_word_space_0 | ['symptom', 'coyote', 'pencil', 'seminar', 'tiny', 'move', 'axis', 'add', 'subject', 'cable', 'phrase'] |  
 | bip_39_word_space_1 | symptom |  
 | bip_39_word_space_10 | symptom coyote pencil seminar tiny move axis add subject cable |  

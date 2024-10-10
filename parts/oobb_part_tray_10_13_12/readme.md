@@ -122,6 +122,18 @@ code
 flush
 flavor
 reopen |  
+| bip_39_word_no_space_1 | trumpet |  
+| bip_39_word_no_space_10 | trumpettreepeopletraindenycodeflushflavorreopenreal |  
+| bip_39_word_no_space_11 | trumpettreepeopletraindenycodeflushflavorreopenrealillegal |  
+| bip_39_word_no_space_12 | trumpettreepeopletraindenycodeflushflavorreopenrealillegalactual |  
+| bip_39_word_no_space_2 | trumpettree |  
+| bip_39_word_no_space_3 | trumpettreepeople |  
+| bip_39_word_no_space_4 | trumpettreepeopletrain |  
+| bip_39_word_no_space_5 | trumpettreepeopletraindeny |  
+| bip_39_word_no_space_6 | trumpettreepeopletraindenycode |  
+| bip_39_word_no_space_7 | trumpettreepeopletraindenycodeflush |  
+| bip_39_word_no_space_8 | trumpettreepeopletraindenycodeflushflavor |  
+| bip_39_word_no_space_9 | trumpettreepeopletraindenycodeflushflavorreopen |  
 | bip_39_word_space_0 | ['trumpet', 'tree', 'people', 'train', 'deny', 'code', 'flush', 'flavor', 'reopen', 'real', 'illegal', 'actual'] |  
 | bip_39_word_space_1 | trumpet |  
 | bip_39_word_space_10 | trumpet tree people train deny code flush flavor reopen real |  

@@ -122,6 +122,18 @@ special
 begin
 purity
 creek |  
+| bip_39_word_no_space_1 | clump |  
+| bip_39_word_no_space_10 | clumpswarmpausewagontuitionspecialbeginpuritycreeksalon |  
+| bip_39_word_no_space_11 | clumpswarmpausewagontuitionspecialbeginpuritycreeksalonmeasure |  
+| bip_39_word_no_space_12 | clumpswarmpausewagontuitionspecialbeginpuritycreeksalonmeasureangle |  
+| bip_39_word_no_space_2 | clumpswarm |  
+| bip_39_word_no_space_3 | clumpswarmpause |  
+| bip_39_word_no_space_4 | clumpswarmpausewagon |  
+| bip_39_word_no_space_5 | clumpswarmpausewagontuition |  
+| bip_39_word_no_space_6 | clumpswarmpausewagontuitionspecial |  
+| bip_39_word_no_space_7 | clumpswarmpausewagontuitionspecialbegin |  
+| bip_39_word_no_space_8 | clumpswarmpausewagontuitionspecialbeginpurity |  
+| bip_39_word_no_space_9 | clumpswarmpausewagontuitionspecialbeginpuritycreek |  
 | bip_39_word_space_0 | ['clump', 'swarm', 'pause', 'wagon', 'tuition', 'special', 'begin', 'purity', 'creek', 'salon', 'measure', 'angle'] |  
 | bip_39_word_space_1 | clump |  
 | bip_39_word_space_10 | clump swarm pause wagon tuition special begin purity creek salon |  

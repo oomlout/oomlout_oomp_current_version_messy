@@ -122,6 +122,18 @@ legal
 topple
 envelope
 anchor |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jeweldonatesuitelderdriplegaltoppleenvelopeanchorvocal |  
+| bip_39_word_no_space_11 | jeweldonatesuitelderdriplegaltoppleenvelopeanchorvocalcanoe |  
+| bip_39_word_no_space_12 | jeweldonatesuitelderdriplegaltoppleenvelopeanchorvocalcanoearrow |  
+| bip_39_word_no_space_2 | jeweldonate |  
+| bip_39_word_no_space_3 | jeweldonatesuit |  
+| bip_39_word_no_space_4 | jeweldonatesuitelder |  
+| bip_39_word_no_space_5 | jeweldonatesuitelderdrip |  
+| bip_39_word_no_space_6 | jeweldonatesuitelderdriplegal |  
+| bip_39_word_no_space_7 | jeweldonatesuitelderdriplegaltopple |  
+| bip_39_word_no_space_8 | jeweldonatesuitelderdriplegaltoppleenvelope |  
+| bip_39_word_no_space_9 | jeweldonatesuitelderdriplegaltoppleenvelopeanchor |  
 | bip_39_word_space_0 | ['jewel', 'donate', 'suit', 'elder', 'drip', 'legal', 'topple', 'envelope', 'anchor', 'vocal', 'canoe', 'arrow'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel donate suit elder drip legal topple envelope anchor vocal |  

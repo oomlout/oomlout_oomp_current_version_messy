@@ -122,6 +122,18 @@ swear
 relax
 club
 marriage |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logicearthbutteralphaproofswearrelaxclubmarriageoutdoor |  
+| bip_39_word_no_space_11 | logicearthbutteralphaproofswearrelaxclubmarriageoutdoorescape |  
+| bip_39_word_no_space_12 | logicearthbutteralphaproofswearrelaxclubmarriageoutdoorescapeannounce |  
+| bip_39_word_no_space_2 | logicearth |  
+| bip_39_word_no_space_3 | logicearthbutter |  
+| bip_39_word_no_space_4 | logicearthbutteralpha |  
+| bip_39_word_no_space_5 | logicearthbutteralphaproof |  
+| bip_39_word_no_space_6 | logicearthbutteralphaproofswear |  
+| bip_39_word_no_space_7 | logicearthbutteralphaproofswearrelax |  
+| bip_39_word_no_space_8 | logicearthbutteralphaproofswearrelaxclub |  
+| bip_39_word_no_space_9 | logicearthbutteralphaproofswearrelaxclubmarriage |  
 | bip_39_word_space_0 | ['logic', 'earth', 'butter', 'alpha', 'proof', 'swear', 'relax', 'club', 'marriage', 'outdoor', 'escape', 'announce'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic earth butter alpha proof swear relax club marriage outdoor |  

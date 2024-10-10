@@ -122,6 +122,18 @@ tone
 night
 forward
 lava |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | samplemergefanadjustpersontonenightforwardlavaroom |  
+| bip_39_word_no_space_11 | samplemergefanadjustpersontonenightforwardlavaroomsing |  
+| bip_39_word_no_space_12 | samplemergefanadjustpersontonenightforwardlavaroomsingart |  
+| bip_39_word_no_space_2 | samplemerge |  
+| bip_39_word_no_space_3 | samplemergefan |  
+| bip_39_word_no_space_4 | samplemergefanadjust |  
+| bip_39_word_no_space_5 | samplemergefanadjustperson |  
+| bip_39_word_no_space_6 | samplemergefanadjustpersontone |  
+| bip_39_word_no_space_7 | samplemergefanadjustpersontonenight |  
+| bip_39_word_no_space_8 | samplemergefanadjustpersontonenightforward |  
+| bip_39_word_no_space_9 | samplemergefanadjustpersontonenightforwardlava |  
 | bip_39_word_space_0 | ['sample', 'merge', 'fan', 'adjust', 'person', 'tone', 'night', 'forward', 'lava', 'room', 'sing', 'art'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample merge fan adjust person tone night forward lava room |  

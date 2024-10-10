@@ -122,6 +122,18 @@ burger
 wall
 tag
 era |  
+| bip_39_word_no_space_1 | okay |  
+| bip_39_word_no_space_10 | okayrabbithelpdiffergooseburgerwalltageraplanet |  
+| bip_39_word_no_space_11 | okayrabbithelpdiffergooseburgerwalltageraplanetdog |  
+| bip_39_word_no_space_12 | okayrabbithelpdiffergooseburgerwalltageraplanetdogaugust |  
+| bip_39_word_no_space_2 | okayrabbit |  
+| bip_39_word_no_space_3 | okayrabbithelp |  
+| bip_39_word_no_space_4 | okayrabbithelpdiffer |  
+| bip_39_word_no_space_5 | okayrabbithelpdiffergoose |  
+| bip_39_word_no_space_6 | okayrabbithelpdiffergooseburger |  
+| bip_39_word_no_space_7 | okayrabbithelpdiffergooseburgerwall |  
+| bip_39_word_no_space_8 | okayrabbithelpdiffergooseburgerwalltag |  
+| bip_39_word_no_space_9 | okayrabbithelpdiffergooseburgerwalltagera |  
 | bip_39_word_space_0 | ['okay', 'rabbit', 'help', 'differ', 'goose', 'burger', 'wall', 'tag', 'era', 'planet', 'dog', 'august'] |  
 | bip_39_word_space_1 | okay |  
 | bip_39_word_space_10 | okay rabbit help differ goose burger wall tag era planet |  

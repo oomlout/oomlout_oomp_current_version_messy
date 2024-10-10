@@ -122,6 +122,18 @@ renew
 leaf
 address
 again |  
+| bip_39_word_no_space_1 | venue |  
+| bip_39_word_no_space_10 | venueexhaustnursejazzrazorrenewleafaddressagainleave |  
+| bip_39_word_no_space_11 | venueexhaustnursejazzrazorrenewleafaddressagainleavehybrid |  
+| bip_39_word_no_space_12 | venueexhaustnursejazzrazorrenewleafaddressagainleavehybridaccuse |  
+| bip_39_word_no_space_2 | venueexhaust |  
+| bip_39_word_no_space_3 | venueexhaustnurse |  
+| bip_39_word_no_space_4 | venueexhaustnursejazz |  
+| bip_39_word_no_space_5 | venueexhaustnursejazzrazor |  
+| bip_39_word_no_space_6 | venueexhaustnursejazzrazorrenew |  
+| bip_39_word_no_space_7 | venueexhaustnursejazzrazorrenewleaf |  
+| bip_39_word_no_space_8 | venueexhaustnursejazzrazorrenewleafaddress |  
+| bip_39_word_no_space_9 | venueexhaustnursejazzrazorrenewleafaddressagain |  
 | bip_39_word_space_0 | ['venue', 'exhaust', 'nurse', 'jazz', 'razor', 'renew', 'leaf', 'address', 'again', 'leave', 'hybrid', 'accuse'] |  
 | bip_39_word_space_1 | venue |  
 | bip_39_word_space_10 | venue exhaust nurse jazz razor renew leaf address again leave |  

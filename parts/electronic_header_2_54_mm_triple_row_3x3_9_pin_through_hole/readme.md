@@ -122,6 +122,18 @@ wrong
 solve
 bar
 rent |  
+| bip_39_word_no_space_1 | timber |  
+| bip_39_word_no_space_10 | timberlonelyleftamountmercywrongsolvebarrentwhisper |  
+| bip_39_word_no_space_11 | timberlonelyleftamountmercywrongsolvebarrentwhisperrice |  
+| bip_39_word_no_space_12 | timberlonelyleftamountmercywrongsolvebarrentwhisperriceangle |  
+| bip_39_word_no_space_2 | timberlonely |  
+| bip_39_word_no_space_3 | timberlonelyleft |  
+| bip_39_word_no_space_4 | timberlonelyleftamount |  
+| bip_39_word_no_space_5 | timberlonelyleftamountmercy |  
+| bip_39_word_no_space_6 | timberlonelyleftamountmercywrong |  
+| bip_39_word_no_space_7 | timberlonelyleftamountmercywrongsolve |  
+| bip_39_word_no_space_8 | timberlonelyleftamountmercywrongsolvebar |  
+| bip_39_word_no_space_9 | timberlonelyleftamountmercywrongsolvebarrent |  
 | bip_39_word_space_0 | ['timber', 'lonely', 'left', 'amount', 'mercy', 'wrong', 'solve', 'bar', 'rent', 'whisper', 'rice', 'angle'] |  
 | bip_39_word_space_1 | timber |  
 | bip_39_word_space_10 | timber lonely left amount mercy wrong solve bar rent whisper |  

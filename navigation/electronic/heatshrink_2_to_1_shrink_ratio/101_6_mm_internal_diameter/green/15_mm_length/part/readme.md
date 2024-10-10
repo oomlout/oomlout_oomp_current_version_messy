@@ -122,6 +122,18 @@ notice
 welcome
 pride
 swallow |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousmailhairsadunfoldnoticewelcomeprideswallowmajor |  
+| bip_39_word_no_space_11 | viciousmailhairsadunfoldnoticewelcomeprideswallowmajorsoup |  
+| bip_39_word_no_space_12 | viciousmailhairsadunfoldnoticewelcomeprideswallowmajorsoupapple |  
+| bip_39_word_no_space_2 | viciousmail |  
+| bip_39_word_no_space_3 | viciousmailhair |  
+| bip_39_word_no_space_4 | viciousmailhairsad |  
+| bip_39_word_no_space_5 | viciousmailhairsadunfold |  
+| bip_39_word_no_space_6 | viciousmailhairsadunfoldnotice |  
+| bip_39_word_no_space_7 | viciousmailhairsadunfoldnoticewelcome |  
+| bip_39_word_no_space_8 | viciousmailhairsadunfoldnoticewelcomepride |  
+| bip_39_word_no_space_9 | viciousmailhairsadunfoldnoticewelcomeprideswallow |  
 | bip_39_word_space_0 | ['vicious', 'mail', 'hair', 'sad', 'unfold', 'notice', 'welcome', 'pride', 'swallow', 'major', 'soup', 'apple'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious mail hair sad unfold notice welcome pride swallow major |  

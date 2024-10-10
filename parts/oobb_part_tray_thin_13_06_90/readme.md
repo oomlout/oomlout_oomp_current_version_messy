@@ -122,6 +122,18 @@ achieve
 toe
 story
 little |  
+| bip_39_word_no_space_1 | destroy |  
+| bip_39_word_no_space_10 | destroyorphanreformsickpageachievetoestorylittlescare |  
+| bip_39_word_no_space_11 | destroyorphanreformsickpageachievetoestorylittlescaregarage |  
+| bip_39_word_no_space_12 | destroyorphanreformsickpageachievetoestorylittlescaregaragearmed |  
+| bip_39_word_no_space_2 | destroyorphan |  
+| bip_39_word_no_space_3 | destroyorphanreform |  
+| bip_39_word_no_space_4 | destroyorphanreformsick |  
+| bip_39_word_no_space_5 | destroyorphanreformsickpage |  
+| bip_39_word_no_space_6 | destroyorphanreformsickpageachieve |  
+| bip_39_word_no_space_7 | destroyorphanreformsickpageachievetoe |  
+| bip_39_word_no_space_8 | destroyorphanreformsickpageachievetoestory |  
+| bip_39_word_no_space_9 | destroyorphanreformsickpageachievetoestorylittle |  
 | bip_39_word_space_0 | ['destroy', 'orphan', 'reform', 'sick', 'page', 'achieve', 'toe', 'story', 'little', 'scare', 'garage', 'armed'] |  
 | bip_39_word_space_1 | destroy |  
 | bip_39_word_space_10 | destroy orphan reform sick page achieve toe story little scare |  

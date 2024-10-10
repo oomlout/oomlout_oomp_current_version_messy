@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'awful
   decade
 
   print'
+bip_39_word_no_space_1: awful
+bip_39_word_no_space_10: awfulmatchunitunlockamateurcraterdishdecadeprintromance
+bip_39_word_no_space_11: awfulmatchunitunlockamateurcraterdishdecadeprintromancefigure
+bip_39_word_no_space_12: awfulmatchunitunlockamateurcraterdishdecadeprintromancefigureadvance
+bip_39_word_no_space_2: awfulmatch
+bip_39_word_no_space_3: awfulmatchunit
+bip_39_word_no_space_4: awfulmatchunitunlock
+bip_39_word_no_space_5: awfulmatchunitunlockamateur
+bip_39_word_no_space_6: awfulmatchunitunlockamateurcrater
+bip_39_word_no_space_7: awfulmatchunitunlockamateurcraterdish
+bip_39_word_no_space_8: awfulmatchunitunlockamateurcraterdishdecade
+bip_39_word_no_space_9: awfulmatchunitunlockamateurcraterdishdecadeprint
 bip_39_word_space_0:
 - awful
 - match

@@ -122,6 +122,18 @@ victory
 cradle
 mammal
 dance |  
+| bip_39_word_no_space_1 | young |  
+| bip_39_word_no_space_10 | youngreplacebikeinflicttipvictorycradlemammaldanceelephant |  
+| bip_39_word_no_space_11 | youngreplacebikeinflicttipvictorycradlemammaldanceelephantpig |  
+| bip_39_word_no_space_12 | youngreplacebikeinflicttipvictorycradlemammaldanceelephantpigamused |  
+| bip_39_word_no_space_2 | youngreplace |  
+| bip_39_word_no_space_3 | youngreplacebike |  
+| bip_39_word_no_space_4 | youngreplacebikeinflict |  
+| bip_39_word_no_space_5 | youngreplacebikeinflicttip |  
+| bip_39_word_no_space_6 | youngreplacebikeinflicttipvictory |  
+| bip_39_word_no_space_7 | youngreplacebikeinflicttipvictorycradle |  
+| bip_39_word_no_space_8 | youngreplacebikeinflicttipvictorycradlemammal |  
+| bip_39_word_no_space_9 | youngreplacebikeinflicttipvictorycradlemammaldance |  
 | bip_39_word_space_0 | ['young', 'replace', 'bike', 'inflict', 'tip', 'victory', 'cradle', 'mammal', 'dance', 'elephant', 'pig', 'amused'] |  
 | bip_39_word_space_1 | young |  
 | bip_39_word_space_10 | young replace bike inflict tip victory cradle mammal dance elephant |  

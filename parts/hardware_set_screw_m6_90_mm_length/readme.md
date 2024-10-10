@@ -122,6 +122,18 @@ powder
 undo
 fat
 general |  
+| bip_39_word_no_space_1 | kitchen |  
+| bip_39_word_no_space_10 | kitchencruelbelowhellogospelpowderundofatgeneralfoot |  
+| bip_39_word_no_space_11 | kitchencruelbelowhellogospelpowderundofatgeneralfootexact |  
+| bip_39_word_no_space_12 | kitchencruelbelowhellogospelpowderundofatgeneralfootexactacross |  
+| bip_39_word_no_space_2 | kitchencruel |  
+| bip_39_word_no_space_3 | kitchencruelbelow |  
+| bip_39_word_no_space_4 | kitchencruelbelowhello |  
+| bip_39_word_no_space_5 | kitchencruelbelowhellogospel |  
+| bip_39_word_no_space_6 | kitchencruelbelowhellogospelpowder |  
+| bip_39_word_no_space_7 | kitchencruelbelowhellogospelpowderundo |  
+| bip_39_word_no_space_8 | kitchencruelbelowhellogospelpowderundofat |  
+| bip_39_word_no_space_9 | kitchencruelbelowhellogospelpowderundofatgeneral |  
 | bip_39_word_space_0 | ['kitchen', 'cruel', 'below', 'hello', 'gospel', 'powder', 'undo', 'fat', 'general', 'foot', 'exact', 'across'] |  
 | bip_39_word_space_1 | kitchen |  
 | bip_39_word_space_10 | kitchen cruel below hello gospel powder undo fat general foot |  

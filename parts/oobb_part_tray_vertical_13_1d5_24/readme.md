@@ -122,6 +122,18 @@ display
 fiscal
 grant
 announce |  
+| bip_39_word_no_space_1 | quiz |  
+| bip_39_word_no_space_10 | quizuniquevolumenapkincousindisplayfiscalgrantannounceraven |  
+| bip_39_word_no_space_11 | quizuniquevolumenapkincousindisplayfiscalgrantannounceravenorgan |  
+| bip_39_word_no_space_12 | quizuniquevolumenapkincousindisplayfiscalgrantannounceravenorganaisle |  
+| bip_39_word_no_space_2 | quizunique |  
+| bip_39_word_no_space_3 | quizuniquevolume |  
+| bip_39_word_no_space_4 | quizuniquevolumenapkin |  
+| bip_39_word_no_space_5 | quizuniquevolumenapkincousin |  
+| bip_39_word_no_space_6 | quizuniquevolumenapkincousindisplay |  
+| bip_39_word_no_space_7 | quizuniquevolumenapkincousindisplayfiscal |  
+| bip_39_word_no_space_8 | quizuniquevolumenapkincousindisplayfiscalgrant |  
+| bip_39_word_no_space_9 | quizuniquevolumenapkincousindisplayfiscalgrantannounce |  
 | bip_39_word_space_0 | ['quiz', 'unique', 'volume', 'napkin', 'cousin', 'display', 'fiscal', 'grant', 'announce', 'raven', 'organ', 'aisle'] |  
 | bip_39_word_space_1 | quiz |  
 | bip_39_word_space_10 | quiz unique volume napkin cousin display fiscal grant announce raven |  

@@ -122,6 +122,18 @@ exact
 retreat
 practice
 camp |  
+| bip_39_word_no_space_1 | fire |  
+| bip_39_word_no_space_10 | fireenforcebridgefloorgardenexactretreatpracticecamplimit |  
+| bip_39_word_no_space_11 | fireenforcebridgefloorgardenexactretreatpracticecamplimitpact |  
+| bip_39_word_no_space_12 | fireenforcebridgefloorgardenexactretreatpracticecamplimitpactarena |  
+| bip_39_word_no_space_2 | fireenforce |  
+| bip_39_word_no_space_3 | fireenforcebridge |  
+| bip_39_word_no_space_4 | fireenforcebridgefloor |  
+| bip_39_word_no_space_5 | fireenforcebridgefloorgarden |  
+| bip_39_word_no_space_6 | fireenforcebridgefloorgardenexact |  
+| bip_39_word_no_space_7 | fireenforcebridgefloorgardenexactretreat |  
+| bip_39_word_no_space_8 | fireenforcebridgefloorgardenexactretreatpractice |  
+| bip_39_word_no_space_9 | fireenforcebridgefloorgardenexactretreatpracticecamp |  
 | bip_39_word_space_0 | ['fire', 'enforce', 'bridge', 'floor', 'garden', 'exact', 'retreat', 'practice', 'camp', 'limit', 'pact', 'arena'] |  
 | bip_39_word_space_1 | fire |  
 | bip_39_word_space_10 | fire enforce bridge floor garden exact retreat practice camp limit |  

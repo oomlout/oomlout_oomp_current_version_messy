@@ -122,6 +122,18 @@ theme
 melt
 resource
 flee |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandembracesurgetitlevalidthememeltresourcefleeseek |  
+| bip_39_word_no_space_11 | sandembracesurgetitlevalidthememeltresourcefleeseekpeasant |  
+| bip_39_word_no_space_12 | sandembracesurgetitlevalidthememeltresourcefleeseekpeasantassault |  
+| bip_39_word_no_space_2 | sandembrace |  
+| bip_39_word_no_space_3 | sandembracesurge |  
+| bip_39_word_no_space_4 | sandembracesurgetitle |  
+| bip_39_word_no_space_5 | sandembracesurgetitlevalid |  
+| bip_39_word_no_space_6 | sandembracesurgetitlevalidtheme |  
+| bip_39_word_no_space_7 | sandembracesurgetitlevalidthememelt |  
+| bip_39_word_no_space_8 | sandembracesurgetitlevalidthememeltresource |  
+| bip_39_word_no_space_9 | sandembracesurgetitlevalidthememeltresourceflee |  
 | bip_39_word_space_0 | ['sand', 'embrace', 'surge', 'title', 'valid', 'theme', 'melt', 'resource', 'flee', 'seek', 'peasant', 'assault'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand embrace surge title valid theme melt resource flee seek |  

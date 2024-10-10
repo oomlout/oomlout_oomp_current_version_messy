@@ -122,6 +122,18 @@ spray
 drama
 work
 grunt |  
+| bip_39_word_no_space_1 | water |  
+| bip_39_word_no_space_10 | watersupremefilmnerveslidespraydramaworkgruntrally |  
+| bip_39_word_no_space_11 | watersupremefilmnerveslidespraydramaworkgruntrallydemise |  
+| bip_39_word_no_space_12 | watersupremefilmnerveslidespraydramaworkgruntrallydemiseacid |  
+| bip_39_word_no_space_2 | watersupreme |  
+| bip_39_word_no_space_3 | watersupremefilm |  
+| bip_39_word_no_space_4 | watersupremefilmnerve |  
+| bip_39_word_no_space_5 | watersupremefilmnerveslide |  
+| bip_39_word_no_space_6 | watersupremefilmnerveslidespray |  
+| bip_39_word_no_space_7 | watersupremefilmnerveslidespraydrama |  
+| bip_39_word_no_space_8 | watersupremefilmnerveslidespraydramawork |  
+| bip_39_word_no_space_9 | watersupremefilmnerveslidespraydramaworkgrunt |  
 | bip_39_word_space_0 | ['water', 'supreme', 'film', 'nerve', 'slide', 'spray', 'drama', 'work', 'grunt', 'rally', 'demise', 'acid'] |  
 | bip_39_word_space_1 | water |  
 | bip_39_word_space_10 | water supreme film nerve slide spray drama work grunt rally |  

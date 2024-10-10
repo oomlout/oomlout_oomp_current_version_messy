@@ -122,6 +122,18 @@ enlist
 derive
 yellow
 mention |  
+| bip_39_word_no_space_1 | music |  
+| bip_39_word_no_space_10 | musicwaterfavoritegenrejacketenlistderiveyellowmentionsecond |  
+| bip_39_word_no_space_11 | musicwaterfavoritegenrejacketenlistderiveyellowmentionsecondillegal |  
+| bip_39_word_no_space_12 | musicwaterfavoritegenrejacketenlistderiveyellowmentionsecondillegalancient |  
+| bip_39_word_no_space_2 | musicwater |  
+| bip_39_word_no_space_3 | musicwaterfavorite |  
+| bip_39_word_no_space_4 | musicwaterfavoritegenre |  
+| bip_39_word_no_space_5 | musicwaterfavoritegenrejacket |  
+| bip_39_word_no_space_6 | musicwaterfavoritegenrejacketenlist |  
+| bip_39_word_no_space_7 | musicwaterfavoritegenrejacketenlistderive |  
+| bip_39_word_no_space_8 | musicwaterfavoritegenrejacketenlistderiveyellow |  
+| bip_39_word_no_space_9 | musicwaterfavoritegenrejacketenlistderiveyellowmention |  
 | bip_39_word_space_0 | ['music', 'water', 'favorite', 'genre', 'jacket', 'enlist', 'derive', 'yellow', 'mention', 'second', 'illegal', 'ancient'] |  
 | bip_39_word_space_1 | music |  
 | bip_39_word_space_10 | music water favorite genre jacket enlist derive yellow mention second |  

@@ -122,6 +122,18 @@ gesture
 eye
 bag
 agent |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guiltcitizenpersoneyeanglegestureeyebagagentembody |  
+| bip_39_word_no_space_11 | guiltcitizenpersoneyeanglegestureeyebagagentembodyrare |  
+| bip_39_word_no_space_12 | guiltcitizenpersoneyeanglegestureeyebagagentembodyrareadapt |  
+| bip_39_word_no_space_2 | guiltcitizen |  
+| bip_39_word_no_space_3 | guiltcitizenperson |  
+| bip_39_word_no_space_4 | guiltcitizenpersoneye |  
+| bip_39_word_no_space_5 | guiltcitizenpersoneyeangle |  
+| bip_39_word_no_space_6 | guiltcitizenpersoneyeanglegesture |  
+| bip_39_word_no_space_7 | guiltcitizenpersoneyeanglegestureeye |  
+| bip_39_word_no_space_8 | guiltcitizenpersoneyeanglegestureeyebag |  
+| bip_39_word_no_space_9 | guiltcitizenpersoneyeanglegestureeyebagagent |  
 | bip_39_word_space_0 | ['guilt', 'citizen', 'person', 'eye', 'angle', 'gesture', 'eye', 'bag', 'agent', 'embody', 'rare', 'adapt'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt citizen person eye angle gesture eye bag agent embody |  

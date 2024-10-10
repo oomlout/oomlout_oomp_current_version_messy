@@ -122,6 +122,18 @@ reason
 permit
 museum
 purpose |  
+| bip_39_word_no_space_1 | ride |  
+| bip_39_word_no_space_10 | riderocketliquidalonemerryreasonpermitmuseumpurposeoffice |  
+| bip_39_word_no_space_11 | riderocketliquidalonemerryreasonpermitmuseumpurposeofficereject |  
+| bip_39_word_no_space_12 | riderocketliquidalonemerryreasonpermitmuseumpurposeofficerejectaddress |  
+| bip_39_word_no_space_2 | riderocket |  
+| bip_39_word_no_space_3 | riderocketliquid |  
+| bip_39_word_no_space_4 | riderocketliquidalone |  
+| bip_39_word_no_space_5 | riderocketliquidalonemerry |  
+| bip_39_word_no_space_6 | riderocketliquidalonemerryreason |  
+| bip_39_word_no_space_7 | riderocketliquidalonemerryreasonpermit |  
+| bip_39_word_no_space_8 | riderocketliquidalonemerryreasonpermitmuseum |  
+| bip_39_word_no_space_9 | riderocketliquidalonemerryreasonpermitmuseumpurpose |  
 | bip_39_word_space_0 | ['ride', 'rocket', 'liquid', 'alone', 'merry', 'reason', 'permit', 'museum', 'purpose', 'office', 'reject', 'address'] |  
 | bip_39_word_space_1 | ride |  
 | bip_39_word_space_10 | ride rocket liquid alone merry reason permit museum purpose office |  

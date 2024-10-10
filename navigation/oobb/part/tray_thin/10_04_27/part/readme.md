@@ -122,6 +122,18 @@ bulk
 clerk
 jealous
 mirror |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefit |  
+| bip_39_word_no_space_11 | seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefituseful |  
+| bip_39_word_no_space_12 | seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefitusefulactress |  
+| bip_39_word_no_space_2 | seriesexclude |  
+| bip_39_word_no_space_3 | seriesexcludelemon |  
+| bip_39_word_no_space_4 | seriesexcludelemonlight |  
+| bip_39_word_no_space_5 | seriesexcludelemonlightcrime |  
+| bip_39_word_no_space_6 | seriesexcludelemonlightcrimebulk |  
+| bip_39_word_no_space_7 | seriesexcludelemonlightcrimebulkclerk |  
+| bip_39_word_no_space_8 | seriesexcludelemonlightcrimebulkclerkjealous |  
+| bip_39_word_no_space_9 | seriesexcludelemonlightcrimebulkclerkjealousmirror |  
 | bip_39_word_space_0 | ['series', 'exclude', 'lemon', 'light', 'crime', 'bulk', 'clerk', 'jealous', 'mirror', 'benefit', 'useful', 'actress'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series exclude lemon light crime bulk clerk jealous mirror benefit |  

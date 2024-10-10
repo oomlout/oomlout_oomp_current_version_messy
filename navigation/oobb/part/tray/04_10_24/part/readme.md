@@ -122,6 +122,18 @@ ripple
 melody
 figure
 endorse |  
+| bip_39_word_no_space_1 | reduce |  
+| bip_39_word_no_space_10 | reduceladderillnessutilityticketripplemelodyfigureendorsescript |  
+| bip_39_word_no_space_11 | reduceladderillnessutilityticketripplemelodyfigureendorsescriptinvite |  
+| bip_39_word_no_space_12 | reduceladderillnessutilityticketripplemelodyfigureendorsescriptinvitearound |  
+| bip_39_word_no_space_2 | reduceladder |  
+| bip_39_word_no_space_3 | reduceladderillness |  
+| bip_39_word_no_space_4 | reduceladderillnessutility |  
+| bip_39_word_no_space_5 | reduceladderillnessutilityticket |  
+| bip_39_word_no_space_6 | reduceladderillnessutilityticketripple |  
+| bip_39_word_no_space_7 | reduceladderillnessutilityticketripplemelody |  
+| bip_39_word_no_space_8 | reduceladderillnessutilityticketripplemelodyfigure |  
+| bip_39_word_no_space_9 | reduceladderillnessutilityticketripplemelodyfigureendorse |  
 | bip_39_word_space_0 | ['reduce', 'ladder', 'illness', 'utility', 'ticket', 'ripple', 'melody', 'figure', 'endorse', 'script', 'invite', 'around'] |  
 | bip_39_word_space_1 | reduce |  
 | bip_39_word_space_10 | reduce ladder illness utility ticket ripple melody figure endorse script |  

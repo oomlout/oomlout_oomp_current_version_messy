@@ -122,6 +122,18 @@ slim
 fortune
 knife
 ring |  
+| bip_39_word_no_space_1 | climb |  
+| bip_39_word_no_space_10 | climbsponsorweekendbundleshoeslimfortunekniferingpoem |  
+| bip_39_word_no_space_11 | climbsponsorweekendbundleshoeslimfortunekniferingpoemleader |  
+| bip_39_word_no_space_12 | climbsponsorweekendbundleshoeslimfortunekniferingpoemleaderact |  
+| bip_39_word_no_space_2 | climbsponsor |  
+| bip_39_word_no_space_3 | climbsponsorweekend |  
+| bip_39_word_no_space_4 | climbsponsorweekendbundle |  
+| bip_39_word_no_space_5 | climbsponsorweekendbundleshoe |  
+| bip_39_word_no_space_6 | climbsponsorweekendbundleshoeslim |  
+| bip_39_word_no_space_7 | climbsponsorweekendbundleshoeslimfortune |  
+| bip_39_word_no_space_8 | climbsponsorweekendbundleshoeslimfortuneknife |  
+| bip_39_word_no_space_9 | climbsponsorweekendbundleshoeslimfortuneknifering |  
 | bip_39_word_space_0 | ['climb', 'sponsor', 'weekend', 'bundle', 'shoe', 'slim', 'fortune', 'knife', 'ring', 'poem', 'leader', 'act'] |  
 | bip_39_word_space_1 | climb |  
 | bip_39_word_space_10 | climb sponsor weekend bundle shoe slim fortune knife ring poem |  

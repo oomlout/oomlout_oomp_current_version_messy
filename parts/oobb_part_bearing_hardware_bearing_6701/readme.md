@@ -122,6 +122,18 @@ sausage
 stairs
 evil
 expect |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhaustovenstrategyslotfringesausagestairsevilexpectclick |  
+| bip_39_word_no_space_11 | exhaustovenstrategyslotfringesausagestairsevilexpectclicktrigger |  
+| bip_39_word_no_space_12 | exhaustovenstrategyslotfringesausagestairsevilexpectclicktriggerangle |  
+| bip_39_word_no_space_2 | exhaustoven |  
+| bip_39_word_no_space_3 | exhaustovenstrategy |  
+| bip_39_word_no_space_4 | exhaustovenstrategyslot |  
+| bip_39_word_no_space_5 | exhaustovenstrategyslotfringe |  
+| bip_39_word_no_space_6 | exhaustovenstrategyslotfringesausage |  
+| bip_39_word_no_space_7 | exhaustovenstrategyslotfringesausagestairs |  
+| bip_39_word_no_space_8 | exhaustovenstrategyslotfringesausagestairsevil |  
+| bip_39_word_no_space_9 | exhaustovenstrategyslotfringesausagestairsevilexpect |  
 | bip_39_word_space_0 | ['exhaust', 'oven', 'strategy', 'slot', 'fringe', 'sausage', 'stairs', 'evil', 'expect', 'click', 'trigger', 'angle'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust oven strategy slot fringe sausage stairs evil expect click |  

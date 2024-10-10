@@ -122,6 +122,18 @@ sorry
 wife
 dragon
 never |  
+| bip_39_word_no_space_1 | island |  
+| bip_39_word_no_space_10 | islandorchardgowntrapcreeksorrywifedragonnevercapable |  
+| bip_39_word_no_space_11 | islandorchardgowntrapcreeksorrywifedragonnevercapableathlete |  
+| bip_39_word_no_space_12 | islandorchardgowntrapcreeksorrywifedragonnevercapableathleteabove |  
+| bip_39_word_no_space_2 | islandorchard |  
+| bip_39_word_no_space_3 | islandorchardgown |  
+| bip_39_word_no_space_4 | islandorchardgowntrap |  
+| bip_39_word_no_space_5 | islandorchardgowntrapcreek |  
+| bip_39_word_no_space_6 | islandorchardgowntrapcreeksorry |  
+| bip_39_word_no_space_7 | islandorchardgowntrapcreeksorrywife |  
+| bip_39_word_no_space_8 | islandorchardgowntrapcreeksorrywifedragon |  
+| bip_39_word_no_space_9 | islandorchardgowntrapcreeksorrywifedragonnever |  
 | bip_39_word_space_0 | ['island', 'orchard', 'gown', 'trap', 'creek', 'sorry', 'wife', 'dragon', 'never', 'capable', 'athlete', 'above'] |  
 | bip_39_word_space_1 | island |  
 | bip_39_word_space_10 | island orchard gown trap creek sorry wife dragon never capable |  

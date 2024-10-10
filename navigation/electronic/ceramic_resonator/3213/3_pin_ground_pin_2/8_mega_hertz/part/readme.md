@@ -122,6 +122,18 @@ shoot
 bundle
 meadow
 random |  
+| bip_39_word_no_space_1 | wait |  
+| bip_39_word_no_space_10 | waitskientiremixedsortshootbundlemeadowrandomsustain |  
+| bip_39_word_no_space_11 | waitskientiremixedsortshootbundlemeadowrandomsustainwhip |  
+| bip_39_word_no_space_12 | waitskientiremixedsortshootbundlemeadowrandomsustainwhipautumn |  
+| bip_39_word_no_space_2 | waitski |  
+| bip_39_word_no_space_3 | waitskientire |  
+| bip_39_word_no_space_4 | waitskientiremixed |  
+| bip_39_word_no_space_5 | waitskientiremixedsort |  
+| bip_39_word_no_space_6 | waitskientiremixedsortshoot |  
+| bip_39_word_no_space_7 | waitskientiremixedsortshootbundle |  
+| bip_39_word_no_space_8 | waitskientiremixedsortshootbundlemeadow |  
+| bip_39_word_no_space_9 | waitskientiremixedsortshootbundlemeadowrandom |  
 | bip_39_word_space_0 | ['wait', 'ski', 'entire', 'mixed', 'sort', 'shoot', 'bundle', 'meadow', 'random', 'sustain', 'whip', 'autumn'] |  
 | bip_39_word_space_1 | wait |  
 | bip_39_word_space_10 | wait ski entire mixed sort shoot bundle meadow random sustain |  

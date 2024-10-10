@@ -122,6 +122,18 @@ regret
 digital
 rely
 elephant |  
+| bip_39_word_no_space_1 | ladder |  
+| bip_39_word_no_space_10 | ladderbroccolidisplaytreeinflictregretdigitalrelyelephantpizza |  
+| bip_39_word_no_space_11 | ladderbroccolidisplaytreeinflictregretdigitalrelyelephantpizzadrift |  
+| bip_39_word_no_space_12 | ladderbroccolidisplaytreeinflictregretdigitalrelyelephantpizzadriftargue |  
+| bip_39_word_no_space_2 | ladderbroccoli |  
+| bip_39_word_no_space_3 | ladderbroccolidisplay |  
+| bip_39_word_no_space_4 | ladderbroccolidisplaytree |  
+| bip_39_word_no_space_5 | ladderbroccolidisplaytreeinflict |  
+| bip_39_word_no_space_6 | ladderbroccolidisplaytreeinflictregret |  
+| bip_39_word_no_space_7 | ladderbroccolidisplaytreeinflictregretdigital |  
+| bip_39_word_no_space_8 | ladderbroccolidisplaytreeinflictregretdigitalrely |  
+| bip_39_word_no_space_9 | ladderbroccolidisplaytreeinflictregretdigitalrelyelephant |  
 | bip_39_word_space_0 | ['ladder', 'broccoli', 'display', 'tree', 'inflict', 'regret', 'digital', 'rely', 'elephant', 'pizza', 'drift', 'argue'] |  
 | bip_39_word_space_1 | ladder |  
 | bip_39_word_space_10 | ladder broccoli display tree inflict regret digital rely elephant pizza |  

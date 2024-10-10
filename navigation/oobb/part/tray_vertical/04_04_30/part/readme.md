@@ -122,6 +122,18 @@ bid
 art
 erupt
 kick |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policerewardcementjourneywitnessbidarteruptkickmedal |  
+| bip_39_word_no_space_11 | policerewardcementjourneywitnessbidarteruptkickmedalwarm |  
+| bip_39_word_no_space_12 | policerewardcementjourneywitnessbidarteruptkickmedalwarmassist |  
+| bip_39_word_no_space_2 | policereward |  
+| bip_39_word_no_space_3 | policerewardcement |  
+| bip_39_word_no_space_4 | policerewardcementjourney |  
+| bip_39_word_no_space_5 | policerewardcementjourneywitness |  
+| bip_39_word_no_space_6 | policerewardcementjourneywitnessbid |  
+| bip_39_word_no_space_7 | policerewardcementjourneywitnessbidart |  
+| bip_39_word_no_space_8 | policerewardcementjourneywitnessbidarterupt |  
+| bip_39_word_no_space_9 | policerewardcementjourneywitnessbidarteruptkick |  
 | bip_39_word_space_0 | ['police', 'reward', 'cement', 'journey', 'witness', 'bid', 'art', 'erupt', 'kick', 'medal', 'warm', 'assist'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police reward cement journey witness bid art erupt kick medal |  

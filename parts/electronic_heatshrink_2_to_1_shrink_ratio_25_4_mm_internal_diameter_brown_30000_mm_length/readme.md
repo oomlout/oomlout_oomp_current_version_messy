@@ -122,6 +122,18 @@ armor
 always
 master
 report |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshspinwhalereunionobligearmoralwaysmasterreportwhale |  
+| bip_39_word_no_space_11 | freshspinwhalereunionobligearmoralwaysmasterreportwhaledove |  
+| bip_39_word_no_space_12 | freshspinwhalereunionobligearmoralwaysmasterreportwhaledoveabsent |  
+| bip_39_word_no_space_2 | freshspin |  
+| bip_39_word_no_space_3 | freshspinwhale |  
+| bip_39_word_no_space_4 | freshspinwhalereunion |  
+| bip_39_word_no_space_5 | freshspinwhalereunionoblige |  
+| bip_39_word_no_space_6 | freshspinwhalereunionobligearmor |  
+| bip_39_word_no_space_7 | freshspinwhalereunionobligearmoralways |  
+| bip_39_word_no_space_8 | freshspinwhalereunionobligearmoralwaysmaster |  
+| bip_39_word_no_space_9 | freshspinwhalereunionobligearmoralwaysmasterreport |  
 | bip_39_word_space_0 | ['fresh', 'spin', 'whale', 'reunion', 'oblige', 'armor', 'always', 'master', 'report', 'whale', 'dove', 'absent'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh spin whale reunion oblige armor always master report whale |  

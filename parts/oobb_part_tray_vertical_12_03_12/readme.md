@@ -122,6 +122,18 @@ very
 inhale
 pet
 drastic |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchvalidputmomusefulveryinhalepetdrasticcute |  
+| bip_39_word_no_space_11 | fetchvalidputmomusefulveryinhalepetdrasticcutespring |  
+| bip_39_word_no_space_12 | fetchvalidputmomusefulveryinhalepetdrasticcutespringamazing |  
+| bip_39_word_no_space_2 | fetchvalid |  
+| bip_39_word_no_space_3 | fetchvalidput |  
+| bip_39_word_no_space_4 | fetchvalidputmom |  
+| bip_39_word_no_space_5 | fetchvalidputmomuseful |  
+| bip_39_word_no_space_6 | fetchvalidputmomusefulvery |  
+| bip_39_word_no_space_7 | fetchvalidputmomusefulveryinhale |  
+| bip_39_word_no_space_8 | fetchvalidputmomusefulveryinhalepet |  
+| bip_39_word_no_space_9 | fetchvalidputmomusefulveryinhalepetdrastic |  
 | bip_39_word_space_0 | ['fetch', 'valid', 'put', 'mom', 'useful', 'very', 'inhale', 'pet', 'drastic', 'cute', 'spring', 'amazing'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch valid put mom useful very inhale pet drastic cute |  

@@ -122,6 +122,18 @@ saddle
 aim
 used
 chat |  
+| bip_39_word_no_space_1 | random |  
+| bip_39_word_no_space_10 | randomappearcrashundermeritsaddleaimusedchatsoup |  
+| bip_39_word_no_space_11 | randomappearcrashundermeritsaddleaimusedchatsoupfatigue |  
+| bip_39_word_no_space_12 | randomappearcrashundermeritsaddleaimusedchatsoupfatigueantenna |  
+| bip_39_word_no_space_2 | randomappear |  
+| bip_39_word_no_space_3 | randomappearcrash |  
+| bip_39_word_no_space_4 | randomappearcrashunder |  
+| bip_39_word_no_space_5 | randomappearcrashundermerit |  
+| bip_39_word_no_space_6 | randomappearcrashundermeritsaddle |  
+| bip_39_word_no_space_7 | randomappearcrashundermeritsaddleaim |  
+| bip_39_word_no_space_8 | randomappearcrashundermeritsaddleaimused |  
+| bip_39_word_no_space_9 | randomappearcrashundermeritsaddleaimusedchat |  
 | bip_39_word_space_0 | ['random', 'appear', 'crash', 'under', 'merit', 'saddle', 'aim', 'used', 'chat', 'soup', 'fatigue', 'antenna'] |  
 | bip_39_word_space_1 | random |  
 | bip_39_word_space_10 | random appear crash under merit saddle aim used chat soup |  

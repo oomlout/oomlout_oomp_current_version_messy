@@ -122,6 +122,18 @@ fine
 pony
 police
 zoo |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingnatureplateregionstampfineponypolicezooold |  
+| bip_39_word_no_space_11 | nothingnatureplateregionstampfineponypolicezoooldmovie |  
+| bip_39_word_no_space_12 | nothingnatureplateregionstampfineponypolicezoooldmovieairport |  
+| bip_39_word_no_space_2 | nothingnature |  
+| bip_39_word_no_space_3 | nothingnatureplate |  
+| bip_39_word_no_space_4 | nothingnatureplateregion |  
+| bip_39_word_no_space_5 | nothingnatureplateregionstamp |  
+| bip_39_word_no_space_6 | nothingnatureplateregionstampfine |  
+| bip_39_word_no_space_7 | nothingnatureplateregionstampfinepony |  
+| bip_39_word_no_space_8 | nothingnatureplateregionstampfineponypolice |  
+| bip_39_word_no_space_9 | nothingnatureplateregionstampfineponypolicezoo |  
 | bip_39_word_space_0 | ['nothing', 'nature', 'plate', 'region', 'stamp', 'fine', 'pony', 'police', 'zoo', 'old', 'movie', 'airport'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing nature plate region stamp fine pony police zoo old |  

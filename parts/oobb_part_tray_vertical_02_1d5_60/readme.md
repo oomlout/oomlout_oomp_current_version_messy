@@ -122,6 +122,18 @@ forget
 recipe
 glass
 blood |  
+| bip_39_word_no_space_1 | bracket |  
+| bip_39_word_no_space_10 | bracketromancealphasimplewaterforgetrecipeglassbloodlaw |  
+| bip_39_word_no_space_11 | bracketromancealphasimplewaterforgetrecipeglassbloodlawinnocent |  
+| bip_39_word_no_space_12 | bracketromancealphasimplewaterforgetrecipeglassbloodlawinnocentabsurd |  
+| bip_39_word_no_space_2 | bracketromance |  
+| bip_39_word_no_space_3 | bracketromancealpha |  
+| bip_39_word_no_space_4 | bracketromancealphasimple |  
+| bip_39_word_no_space_5 | bracketromancealphasimplewater |  
+| bip_39_word_no_space_6 | bracketromancealphasimplewaterforget |  
+| bip_39_word_no_space_7 | bracketromancealphasimplewaterforgetrecipe |  
+| bip_39_word_no_space_8 | bracketromancealphasimplewaterforgetrecipeglass |  
+| bip_39_word_no_space_9 | bracketromancealphasimplewaterforgetrecipeglassblood |  
 | bip_39_word_space_0 | ['bracket', 'romance', 'alpha', 'simple', 'water', 'forget', 'recipe', 'glass', 'blood', 'law', 'innocent', 'absurd'] |  
 | bip_39_word_space_1 | bracket |  
 | bip_39_word_space_10 | bracket romance alpha simple water forget recipe glass blood law |  

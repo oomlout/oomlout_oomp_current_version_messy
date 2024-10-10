@@ -122,6 +122,18 @@ street
 since
 plug
 know |  
+| bip_39_word_no_space_1 | assist |  
+| bip_39_word_no_space_10 | assistskinessayanotherjazzstreetsinceplugknowfragile |  
+| bip_39_word_no_space_11 | assistskinessayanotherjazzstreetsinceplugknowfragileeye |  
+| bip_39_word_no_space_12 | assistskinessayanotherjazzstreetsinceplugknowfragileeyeafraid |  
+| bip_39_word_no_space_2 | assistskin |  
+| bip_39_word_no_space_3 | assistskinessay |  
+| bip_39_word_no_space_4 | assistskinessayanother |  
+| bip_39_word_no_space_5 | assistskinessayanotherjazz |  
+| bip_39_word_no_space_6 | assistskinessayanotherjazzstreet |  
+| bip_39_word_no_space_7 | assistskinessayanotherjazzstreetsince |  
+| bip_39_word_no_space_8 | assistskinessayanotherjazzstreetsinceplug |  
+| bip_39_word_no_space_9 | assistskinessayanotherjazzstreetsinceplugknow |  
 | bip_39_word_space_0 | ['assist', 'skin', 'essay', 'another', 'jazz', 'street', 'since', 'plug', 'know', 'fragile', 'eye', 'afraid'] |  
 | bip_39_word_space_1 | assist |  
 | bip_39_word_space_10 | assist skin essay another jazz street since plug know fragile |  

@@ -122,6 +122,18 @@ prison
 orbit
 ethics
 hole |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westworldaffordreleaseauntprisonorbitethicsholegreen |  
+| bip_39_word_no_space_11 | westworldaffordreleaseauntprisonorbitethicsholegreenroute |  
+| bip_39_word_no_space_12 | westworldaffordreleaseauntprisonorbitethicsholegreenrouteaccess |  
+| bip_39_word_no_space_2 | westworld |  
+| bip_39_word_no_space_3 | westworldafford |  
+| bip_39_word_no_space_4 | westworldaffordrelease |  
+| bip_39_word_no_space_5 | westworldaffordreleaseaunt |  
+| bip_39_word_no_space_6 | westworldaffordreleaseauntprison |  
+| bip_39_word_no_space_7 | westworldaffordreleaseauntprisonorbit |  
+| bip_39_word_no_space_8 | westworldaffordreleaseauntprisonorbitethics |  
+| bip_39_word_no_space_9 | westworldaffordreleaseauntprisonorbitethicshole |  
 | bip_39_word_space_0 | ['west', 'world', 'afford', 'release', 'aunt', 'prison', 'orbit', 'ethics', 'hole', 'green', 'route', 'access'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west world afford release aunt prison orbit ethics hole green |  

@@ -122,6 +122,18 @@ acquire
 duty
 antique
 purity |  
+| bip_39_word_no_space_1 | salmon |  
+| bip_39_word_no_space_10 | salmoncousinvoidsummerhoneyacquiredutyantiquepurityunusual |  
+| bip_39_word_no_space_11 | salmoncousinvoidsummerhoneyacquiredutyantiquepurityunusualbelow |  
+| bip_39_word_no_space_12 | salmoncousinvoidsummerhoneyacquiredutyantiquepurityunusualbelowact |  
+| bip_39_word_no_space_2 | salmoncousin |  
+| bip_39_word_no_space_3 | salmoncousinvoid |  
+| bip_39_word_no_space_4 | salmoncousinvoidsummer |  
+| bip_39_word_no_space_5 | salmoncousinvoidsummerhoney |  
+| bip_39_word_no_space_6 | salmoncousinvoidsummerhoneyacquire |  
+| bip_39_word_no_space_7 | salmoncousinvoidsummerhoneyacquireduty |  
+| bip_39_word_no_space_8 | salmoncousinvoidsummerhoneyacquiredutyantique |  
+| bip_39_word_no_space_9 | salmoncousinvoidsummerhoneyacquiredutyantiquepurity |  
 | bip_39_word_space_0 | ['salmon', 'cousin', 'void', 'summer', 'honey', 'acquire', 'duty', 'antique', 'purity', 'unusual', 'below', 'act'] |  
 | bip_39_word_space_1 | salmon |  
 | bip_39_word_space_10 | salmon cousin void summer honey acquire duty antique purity unusual |  

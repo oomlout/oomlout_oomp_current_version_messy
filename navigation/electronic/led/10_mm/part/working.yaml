@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hour
   friend
 
   toy'
+bip_39_word_no_space_1: hour
+bip_39_word_no_space_10: hourcanmanagemosquitogridawakefuryfriendtoyostrich
+bip_39_word_no_space_11: hourcanmanagemosquitogridawakefuryfriendtoyostrichfog
+bip_39_word_no_space_12: hourcanmanagemosquitogridawakefuryfriendtoyostrichfogarm
+bip_39_word_no_space_2: hourcan
+bip_39_word_no_space_3: hourcanmanage
+bip_39_word_no_space_4: hourcanmanagemosquito
+bip_39_word_no_space_5: hourcanmanagemosquitogrid
+bip_39_word_no_space_6: hourcanmanagemosquitogridawake
+bip_39_word_no_space_7: hourcanmanagemosquitogridawakefury
+bip_39_word_no_space_8: hourcanmanagemosquitogridawakefuryfriend
+bip_39_word_no_space_9: hourcanmanagemosquitogridawakefuryfriendtoy
 bip_39_word_space_0:
 - hour
 - can

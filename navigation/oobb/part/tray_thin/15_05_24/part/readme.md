@@ -122,6 +122,18 @@ orbit
 assault
 dune
 helmet |  
+| bip_39_word_no_space_1 | image |  
+| bip_39_word_no_space_10 | imagefloormarchmulewristorbitassaultdunehelmetfoil |  
+| bip_39_word_no_space_11 | imagefloormarchmulewristorbitassaultdunehelmetfoilwasp |  
+| bip_39_word_no_space_12 | imagefloormarchmulewristorbitassaultdunehelmetfoilwasparound |  
+| bip_39_word_no_space_2 | imagefloor |  
+| bip_39_word_no_space_3 | imagefloormarch |  
+| bip_39_word_no_space_4 | imagefloormarchmule |  
+| bip_39_word_no_space_5 | imagefloormarchmulewrist |  
+| bip_39_word_no_space_6 | imagefloormarchmulewristorbit |  
+| bip_39_word_no_space_7 | imagefloormarchmulewristorbitassault |  
+| bip_39_word_no_space_8 | imagefloormarchmulewristorbitassaultdune |  
+| bip_39_word_no_space_9 | imagefloormarchmulewristorbitassaultdunehelmet |  
 | bip_39_word_space_0 | ['image', 'floor', 'march', 'mule', 'wrist', 'orbit', 'assault', 'dune', 'helmet', 'foil', 'wasp', 'around'] |  
 | bip_39_word_space_1 | image |  
 | bip_39_word_space_10 | image floor march mule wrist orbit assault dune helmet foil |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sunny
   alter
 
   sausage'
+bip_39_word_no_space_1: sunny
+bip_39_word_no_space_10: sunnydefypipevoidrescueabandonlovealtersausageclub
+bip_39_word_no_space_11: sunnydefypipevoidrescueabandonlovealtersausageclubshare
+bip_39_word_no_space_12: sunnydefypipevoidrescueabandonlovealtersausageclubshareaspect
+bip_39_word_no_space_2: sunnydefy
+bip_39_word_no_space_3: sunnydefypipe
+bip_39_word_no_space_4: sunnydefypipevoid
+bip_39_word_no_space_5: sunnydefypipevoidrescue
+bip_39_word_no_space_6: sunnydefypipevoidrescueabandon
+bip_39_word_no_space_7: sunnydefypipevoidrescueabandonlove
+bip_39_word_no_space_8: sunnydefypipevoidrescueabandonlovealter
+bip_39_word_no_space_9: sunnydefypipevoidrescueabandonlovealtersausage
 bip_39_word_space_0:
 - sunny
 - defy

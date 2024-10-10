@@ -122,6 +122,18 @@ glad
 monitor
 panda
 spoon |  
+| bip_39_word_no_space_1 | two |  
+| bip_39_word_no_space_10 | twovendorunveilkeyautumngladmonitorpandaspoonlizard |  
+| bip_39_word_no_space_11 | twovendorunveilkeyautumngladmonitorpandaspoonlizardindoor |  
+| bip_39_word_no_space_12 | twovendorunveilkeyautumngladmonitorpandaspoonlizardindoorattack |  
+| bip_39_word_no_space_2 | twovendor |  
+| bip_39_word_no_space_3 | twovendorunveil |  
+| bip_39_word_no_space_4 | twovendorunveilkey |  
+| bip_39_word_no_space_5 | twovendorunveilkeyautumn |  
+| bip_39_word_no_space_6 | twovendorunveilkeyautumnglad |  
+| bip_39_word_no_space_7 | twovendorunveilkeyautumngladmonitor |  
+| bip_39_word_no_space_8 | twovendorunveilkeyautumngladmonitorpanda |  
+| bip_39_word_no_space_9 | twovendorunveilkeyautumngladmonitorpandaspoon |  
 | bip_39_word_space_0 | ['two', 'vendor', 'unveil', 'key', 'autumn', 'glad', 'monitor', 'panda', 'spoon', 'lizard', 'indoor', 'attack'] |  
 | bip_39_word_space_1 | two |  
 | bip_39_word_space_10 | two vendor unveil key autumn glad monitor panda spoon lizard |  

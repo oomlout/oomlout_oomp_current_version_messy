@@ -122,6 +122,18 @@ nice
 aspect
 trip
 benefit |  
+| bip_39_word_no_space_1 | gown |  
+| bip_39_word_no_space_10 | gownponyexistgracedesignniceaspecttripbenefitprovide |  
+| bip_39_word_no_space_11 | gownponyexistgracedesignniceaspecttripbenefitprovideblame |  
+| bip_39_word_no_space_12 | gownponyexistgracedesignniceaspecttripbenefitprovideblameact |  
+| bip_39_word_no_space_2 | gownpony |  
+| bip_39_word_no_space_3 | gownponyexist |  
+| bip_39_word_no_space_4 | gownponyexistgrace |  
+| bip_39_word_no_space_5 | gownponyexistgracedesign |  
+| bip_39_word_no_space_6 | gownponyexistgracedesignnice |  
+| bip_39_word_no_space_7 | gownponyexistgracedesignniceaspect |  
+| bip_39_word_no_space_8 | gownponyexistgracedesignniceaspecttrip |  
+| bip_39_word_no_space_9 | gownponyexistgracedesignniceaspecttripbenefit |  
 | bip_39_word_space_0 | ['gown', 'pony', 'exist', 'grace', 'design', 'nice', 'aspect', 'trip', 'benefit', 'provide', 'blame', 'act'] |  
 | bip_39_word_space_1 | gown |  
 | bip_39_word_space_10 | gown pony exist grace design nice aspect trip benefit provide |  

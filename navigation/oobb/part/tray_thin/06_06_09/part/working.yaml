@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'try
   gift
 
   pair'
+bip_39_word_no_space_1: try
+bip_39_word_no_space_10: tryhillleopardabstractkneericeprocessgiftpairswift
+bip_39_word_no_space_11: tryhillleopardabstractkneericeprocessgiftpairswiftdose
+bip_39_word_no_space_12: tryhillleopardabstractkneericeprocessgiftpairswiftdoseatom
+bip_39_word_no_space_2: tryhill
+bip_39_word_no_space_3: tryhillleopard
+bip_39_word_no_space_4: tryhillleopardabstract
+bip_39_word_no_space_5: tryhillleopardabstractknee
+bip_39_word_no_space_6: tryhillleopardabstractkneerice
+bip_39_word_no_space_7: tryhillleopardabstractkneericeprocess
+bip_39_word_no_space_8: tryhillleopardabstractkneericeprocessgift
+bip_39_word_no_space_9: tryhillleopardabstractkneericeprocessgiftpair
 bip_39_word_space_0:
 - try
 - hill

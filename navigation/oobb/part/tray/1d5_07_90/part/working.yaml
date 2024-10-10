@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'provide
   dignity
 
   boil'
+bip_39_word_no_space_1: provide
+bip_39_word_no_space_10: providemazethingvitalonionleaveribbondignityboilfence
+bip_39_word_no_space_11: providemazethingvitalonionleaveribbondignityboilfencepush
+bip_39_word_no_space_12: providemazethingvitalonionleaveribbondignityboilfencepushannual
+bip_39_word_no_space_2: providemaze
+bip_39_word_no_space_3: providemazething
+bip_39_word_no_space_4: providemazethingvital
+bip_39_word_no_space_5: providemazethingvitalonion
+bip_39_word_no_space_6: providemazethingvitalonionleave
+bip_39_word_no_space_7: providemazethingvitalonionleaveribbon
+bip_39_word_no_space_8: providemazethingvitalonionleaveribbondignity
+bip_39_word_no_space_9: providemazethingvitalonionleaveribbondignityboil
 bip_39_word_space_0:
 - provide
 - maze

@@ -122,6 +122,18 @@ sadness
 another
 margin
 upon |  
+| bip_39_word_no_space_1 | anxiety |  
+| bip_39_word_no_space_10 | anxietyrunpepperstrongtoothsadnessanothermarginupondismiss |  
+| bip_39_word_no_space_11 | anxietyrunpepperstrongtoothsadnessanothermarginupondismisswing |  
+| bip_39_word_no_space_12 | anxietyrunpepperstrongtoothsadnessanothermarginupondismisswingaddress |  
+| bip_39_word_no_space_2 | anxietyrun |  
+| bip_39_word_no_space_3 | anxietyrunpepper |  
+| bip_39_word_no_space_4 | anxietyrunpepperstrong |  
+| bip_39_word_no_space_5 | anxietyrunpepperstrongtooth |  
+| bip_39_word_no_space_6 | anxietyrunpepperstrongtoothsadness |  
+| bip_39_word_no_space_7 | anxietyrunpepperstrongtoothsadnessanother |  
+| bip_39_word_no_space_8 | anxietyrunpepperstrongtoothsadnessanothermargin |  
+| bip_39_word_no_space_9 | anxietyrunpepperstrongtoothsadnessanothermarginupon |  
 | bip_39_word_space_0 | ['anxiety', 'run', 'pepper', 'strong', 'tooth', 'sadness', 'another', 'margin', 'upon', 'dismiss', 'wing', 'address'] |  
 | bip_39_word_space_1 | anxiety |  
 | bip_39_word_space_10 | anxiety run pepper strong tooth sadness another margin upon dismiss |  

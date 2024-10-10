@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lunar
   hurdle
 
   helmet'
+bip_39_word_no_space_1: lunar
+bip_39_word_no_space_10: lunarneckexpireassumepushadvanceverifyhurdlehelmetattend
+bip_39_word_no_space_11: lunarneckexpireassumepushadvanceverifyhurdlehelmetattendalone
+bip_39_word_no_space_12: lunarneckexpireassumepushadvanceverifyhurdlehelmetattendaloneartwork
+bip_39_word_no_space_2: lunarneck
+bip_39_word_no_space_3: lunarneckexpire
+bip_39_word_no_space_4: lunarneckexpireassume
+bip_39_word_no_space_5: lunarneckexpireassumepush
+bip_39_word_no_space_6: lunarneckexpireassumepushadvance
+bip_39_word_no_space_7: lunarneckexpireassumepushadvanceverify
+bip_39_word_no_space_8: lunarneckexpireassumepushadvanceverifyhurdle
+bip_39_word_no_space_9: lunarneckexpireassumepushadvanceverifyhurdlehelmet
 bip_39_word_space_0:
 - lunar
 - neck

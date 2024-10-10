@@ -122,6 +122,18 @@ soap
 mention
 divorce
 hurdle |  
+| bip_39_word_no_space_1 | pizza |  
+| bip_39_word_no_space_10 | pizzahobbysmallacidcurvesoapmentiondivorcehurdledecide |  
+| bip_39_word_no_space_11 | pizzahobbysmallacidcurvesoapmentiondivorcehurdledecideeast |  
+| bip_39_word_no_space_12 | pizzahobbysmallacidcurvesoapmentiondivorcehurdledecideeastachieve |  
+| bip_39_word_no_space_2 | pizzahobby |  
+| bip_39_word_no_space_3 | pizzahobbysmall |  
+| bip_39_word_no_space_4 | pizzahobbysmallacid |  
+| bip_39_word_no_space_5 | pizzahobbysmallacidcurve |  
+| bip_39_word_no_space_6 | pizzahobbysmallacidcurvesoap |  
+| bip_39_word_no_space_7 | pizzahobbysmallacidcurvesoapmention |  
+| bip_39_word_no_space_8 | pizzahobbysmallacidcurvesoapmentiondivorce |  
+| bip_39_word_no_space_9 | pizzahobbysmallacidcurvesoapmentiondivorcehurdle |  
 | bip_39_word_space_0 | ['pizza', 'hobby', 'small', 'acid', 'curve', 'soap', 'mention', 'divorce', 'hurdle', 'decide', 'east', 'achieve'] |  
 | bip_39_word_space_1 | pizza |  
 | bip_39_word_space_10 | pizza hobby small acid curve soap mention divorce hurdle decide |  

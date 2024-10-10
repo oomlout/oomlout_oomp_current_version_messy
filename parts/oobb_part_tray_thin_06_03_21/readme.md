@@ -122,6 +122,18 @@ stay
 gadget
 nest
 kingdom |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagefatherflushfragilementionstaygadgetnestkingdomgrace |  
+| bip_39_word_no_space_11 | vintagefatherflushfragilementionstaygadgetnestkingdomgracepigeon |  
+| bip_39_word_no_space_12 | vintagefatherflushfragilementionstaygadgetnestkingdomgracepigeonabsurd |  
+| bip_39_word_no_space_2 | vintagefather |  
+| bip_39_word_no_space_3 | vintagefatherflush |  
+| bip_39_word_no_space_4 | vintagefatherflushfragile |  
+| bip_39_word_no_space_5 | vintagefatherflushfragilemention |  
+| bip_39_word_no_space_6 | vintagefatherflushfragilementionstay |  
+| bip_39_word_no_space_7 | vintagefatherflushfragilementionstaygadget |  
+| bip_39_word_no_space_8 | vintagefatherflushfragilementionstaygadgetnest |  
+| bip_39_word_no_space_9 | vintagefatherflushfragilementionstaygadgetnestkingdom |  
 | bip_39_word_space_0 | ['vintage', 'father', 'flush', 'fragile', 'mention', 'stay', 'gadget', 'nest', 'kingdom', 'grace', 'pigeon', 'absurd'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage father flush fragile mention stay gadget nest kingdom grace |  

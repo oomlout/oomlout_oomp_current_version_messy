@@ -122,6 +122,18 @@ tourist
 crane
 left
 green |  
+| bip_39_word_no_space_1 | void |  
+| bip_39_word_no_space_10 | voidplanetsaddlecorrecteyebrowtouristcraneleftgreenhint |  
+| bip_39_word_no_space_11 | voidplanetsaddlecorrecteyebrowtouristcraneleftgreenhintcopper |  
+| bip_39_word_no_space_12 | voidplanetsaddlecorrecteyebrowtouristcraneleftgreenhintcopperadvance |  
+| bip_39_word_no_space_2 | voidplanet |  
+| bip_39_word_no_space_3 | voidplanetsaddle |  
+| bip_39_word_no_space_4 | voidplanetsaddlecorrect |  
+| bip_39_word_no_space_5 | voidplanetsaddlecorrecteyebrow |  
+| bip_39_word_no_space_6 | voidplanetsaddlecorrecteyebrowtourist |  
+| bip_39_word_no_space_7 | voidplanetsaddlecorrecteyebrowtouristcrane |  
+| bip_39_word_no_space_8 | voidplanetsaddlecorrecteyebrowtouristcraneleft |  
+| bip_39_word_no_space_9 | voidplanetsaddlecorrecteyebrowtouristcraneleftgreen |  
 | bip_39_word_space_0 | ['void', 'planet', 'saddle', 'correct', 'eyebrow', 'tourist', 'crane', 'left', 'green', 'hint', 'copper', 'advance'] |  
 | bip_39_word_space_1 | void |  
 | bip_39_word_space_10 | void planet saddle correct eyebrow tourist crane left green hint |  

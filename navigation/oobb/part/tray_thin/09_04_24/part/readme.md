@@ -122,6 +122,18 @@ athlete
 stock
 place
 palm |  
+| bip_39_word_no_space_1 | enforce |  
+| bip_39_word_no_space_10 | enforcevirusembarkcraftcliffathletestockplacepalmecho |  
+| bip_39_word_no_space_11 | enforcevirusembarkcraftcliffathletestockplacepalmechoraccoon |  
+| bip_39_word_no_space_12 | enforcevirusembarkcraftcliffathletestockplacepalmechoraccoonantenna |  
+| bip_39_word_no_space_2 | enforcevirus |  
+| bip_39_word_no_space_3 | enforcevirusembark |  
+| bip_39_word_no_space_4 | enforcevirusembarkcraft |  
+| bip_39_word_no_space_5 | enforcevirusembarkcraftcliff |  
+| bip_39_word_no_space_6 | enforcevirusembarkcraftcliffathlete |  
+| bip_39_word_no_space_7 | enforcevirusembarkcraftcliffathletestock |  
+| bip_39_word_no_space_8 | enforcevirusembarkcraftcliffathletestockplace |  
+| bip_39_word_no_space_9 | enforcevirusembarkcraftcliffathletestockplacepalm |  
 | bip_39_word_space_0 | ['enforce', 'virus', 'embark', 'craft', 'cliff', 'athlete', 'stock', 'place', 'palm', 'echo', 'raccoon', 'antenna'] |  
 | bip_39_word_space_1 | enforce |  
 | bip_39_word_space_10 | enforce virus embark craft cliff athlete stock place palm echo |  

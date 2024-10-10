@@ -122,6 +122,18 @@ nose
 jump
 lab
 barrel |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguarjudgeslicekeepwebnosejumplabbarrelethics |  
+| bip_39_word_no_space_11 | jaguarjudgeslicekeepwebnosejumplabbarrelethicsgather |  
+| bip_39_word_no_space_12 | jaguarjudgeslicekeepwebnosejumplabbarrelethicsgatherannounce |  
+| bip_39_word_no_space_2 | jaguarjudge |  
+| bip_39_word_no_space_3 | jaguarjudgeslice |  
+| bip_39_word_no_space_4 | jaguarjudgeslicekeep |  
+| bip_39_word_no_space_5 | jaguarjudgeslicekeepweb |  
+| bip_39_word_no_space_6 | jaguarjudgeslicekeepwebnose |  
+| bip_39_word_no_space_7 | jaguarjudgeslicekeepwebnosejump |  
+| bip_39_word_no_space_8 | jaguarjudgeslicekeepwebnosejumplab |  
+| bip_39_word_no_space_9 | jaguarjudgeslicekeepwebnosejumplabbarrel |  
 | bip_39_word_space_0 | ['jaguar', 'judge', 'slice', 'keep', 'web', 'nose', 'jump', 'lab', 'barrel', 'ethics', 'gather', 'announce'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar judge slice keep web nose jump lab barrel ethics |  

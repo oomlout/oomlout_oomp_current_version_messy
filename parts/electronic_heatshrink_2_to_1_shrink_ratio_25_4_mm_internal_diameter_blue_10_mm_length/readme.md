@@ -122,6 +122,18 @@ elephant
 afford
 tennis
 clog |  
+| bip_39_word_no_space_1 | talk |  
+| bip_39_word_no_space_10 | talkethicsownbrasstoppleelephantaffordtennisclogridge |  
+| bip_39_word_no_space_11 | talkethicsownbrasstoppleelephantaffordtennisclogridgecasual |  
+| bip_39_word_no_space_12 | talkethicsownbrasstoppleelephantaffordtennisclogridgecasualafraid |  
+| bip_39_word_no_space_2 | talkethics |  
+| bip_39_word_no_space_3 | talkethicsown |  
+| bip_39_word_no_space_4 | talkethicsownbrass |  
+| bip_39_word_no_space_5 | talkethicsownbrasstopple |  
+| bip_39_word_no_space_6 | talkethicsownbrasstoppleelephant |  
+| bip_39_word_no_space_7 | talkethicsownbrasstoppleelephantafford |  
+| bip_39_word_no_space_8 | talkethicsownbrasstoppleelephantaffordtennis |  
+| bip_39_word_no_space_9 | talkethicsownbrasstoppleelephantaffordtennisclog |  
 | bip_39_word_space_0 | ['talk', 'ethics', 'own', 'brass', 'topple', 'elephant', 'afford', 'tennis', 'clog', 'ridge', 'casual', 'afraid'] |  
 | bip_39_word_space_1 | talk |  
 | bip_39_word_space_10 | talk ethics own brass topple elephant afford tennis clog ridge |  

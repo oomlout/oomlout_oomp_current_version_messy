@@ -122,6 +122,18 @@ analyst
 skull
 family
 letter |  
+| bip_39_word_no_space_1 | clay |  
+| bip_39_word_no_space_10 | clayembarkitemsprayshoeanalystskullfamilylettergravity |  
+| bip_39_word_no_space_11 | clayembarkitemsprayshoeanalystskullfamilylettergravityremember |  
+| bip_39_word_no_space_12 | clayembarkitemsprayshoeanalystskullfamilylettergravityrememberamazing |  
+| bip_39_word_no_space_2 | clayembark |  
+| bip_39_word_no_space_3 | clayembarkitem |  
+| bip_39_word_no_space_4 | clayembarkitemspray |  
+| bip_39_word_no_space_5 | clayembarkitemsprayshoe |  
+| bip_39_word_no_space_6 | clayembarkitemsprayshoeanalyst |  
+| bip_39_word_no_space_7 | clayembarkitemsprayshoeanalystskull |  
+| bip_39_word_no_space_8 | clayembarkitemsprayshoeanalystskullfamily |  
+| bip_39_word_no_space_9 | clayembarkitemsprayshoeanalystskullfamilyletter |  
 | bip_39_word_space_0 | ['clay', 'embark', 'item', 'spray', 'shoe', 'analyst', 'skull', 'family', 'letter', 'gravity', 'remember', 'amazing'] |  
 | bip_39_word_space_1 | clay |  
 | bip_39_word_space_10 | clay embark item spray shoe analyst skull family letter gravity |  

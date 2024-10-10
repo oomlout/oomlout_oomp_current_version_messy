@@ -122,6 +122,18 @@ section
 spray
 spare
 exile |  
+| bip_39_word_no_space_1 | this |  
+| bip_39_word_no_space_10 | thiseasybelowdisorderaheadsectionsprayspareexileshrug |  
+| bip_39_word_no_space_11 | thiseasybelowdisorderaheadsectionsprayspareexileshrughope |  
+| bip_39_word_no_space_12 | thiseasybelowdisorderaheadsectionsprayspareexileshrughopeannual |  
+| bip_39_word_no_space_2 | thiseasy |  
+| bip_39_word_no_space_3 | thiseasybelow |  
+| bip_39_word_no_space_4 | thiseasybelowdisorder |  
+| bip_39_word_no_space_5 | thiseasybelowdisorderahead |  
+| bip_39_word_no_space_6 | thiseasybelowdisorderaheadsection |  
+| bip_39_word_no_space_7 | thiseasybelowdisorderaheadsectionspray |  
+| bip_39_word_no_space_8 | thiseasybelowdisorderaheadsectionsprayspare |  
+| bip_39_word_no_space_9 | thiseasybelowdisorderaheadsectionsprayspareexile |  
 | bip_39_word_space_0 | ['this', 'easy', 'below', 'disorder', 'ahead', 'section', 'spray', 'spare', 'exile', 'shrug', 'hope', 'annual'] |  
 | bip_39_word_space_1 | this |  
 | bip_39_word_space_10 | this easy below disorder ahead section spray spare exile shrug |  

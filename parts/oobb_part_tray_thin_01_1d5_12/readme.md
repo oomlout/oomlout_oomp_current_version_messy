@@ -122,6 +122,18 @@ nephew
 antenna
 cart
 occur |  
+| bip_39_word_no_space_1 | parrot |  
+| bip_39_word_no_space_10 | parrotleganotherpatrolneutralnephewantennacartoccurinto |  
+| bip_39_word_no_space_11 | parrotleganotherpatrolneutralnephewantennacartoccurintoretreat |  
+| bip_39_word_no_space_12 | parrotleganotherpatrolneutralnephewantennacartoccurintoretreatacross |  
+| bip_39_word_no_space_2 | parrotleg |  
+| bip_39_word_no_space_3 | parrotleganother |  
+| bip_39_word_no_space_4 | parrotleganotherpatrol |  
+| bip_39_word_no_space_5 | parrotleganotherpatrolneutral |  
+| bip_39_word_no_space_6 | parrotleganotherpatrolneutralnephew |  
+| bip_39_word_no_space_7 | parrotleganotherpatrolneutralnephewantenna |  
+| bip_39_word_no_space_8 | parrotleganotherpatrolneutralnephewantennacart |  
+| bip_39_word_no_space_9 | parrotleganotherpatrolneutralnephewantennacartoccur |  
 | bip_39_word_space_0 | ['parrot', 'leg', 'another', 'patrol', 'neutral', 'nephew', 'antenna', 'cart', 'occur', 'into', 'retreat', 'across'] |  
 | bip_39_word_space_1 | parrot |  
 | bip_39_word_space_10 | parrot leg another patrol neutral nephew antenna cart occur into |  

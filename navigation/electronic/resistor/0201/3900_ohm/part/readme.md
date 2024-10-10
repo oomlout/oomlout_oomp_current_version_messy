@@ -122,6 +122,18 @@ dawn
 siren
 govern
 animal |  
+| bip_39_word_no_space_1 | taxi |  
+| bip_39_word_no_space_10 | taxiawfulpricereunionclumpdawnsirengovernanimalaware |  
+| bip_39_word_no_space_11 | taxiawfulpricereunionclumpdawnsirengovernanimalawarequit |  
+| bip_39_word_no_space_12 | taxiawfulpricereunionclumpdawnsirengovernanimalawarequitadult |  
+| bip_39_word_no_space_2 | taxiawful |  
+| bip_39_word_no_space_3 | taxiawfulprice |  
+| bip_39_word_no_space_4 | taxiawfulpricereunion |  
+| bip_39_word_no_space_5 | taxiawfulpricereunionclump |  
+| bip_39_word_no_space_6 | taxiawfulpricereunionclumpdawn |  
+| bip_39_word_no_space_7 | taxiawfulpricereunionclumpdawnsiren |  
+| bip_39_word_no_space_8 | taxiawfulpricereunionclumpdawnsirengovern |  
+| bip_39_word_no_space_9 | taxiawfulpricereunionclumpdawnsirengovernanimal |  
 | bip_39_word_space_0 | ['taxi', 'awful', 'price', 'reunion', 'clump', 'dawn', 'siren', 'govern', 'animal', 'aware', 'quit', 'adult'] |  
 | bip_39_word_space_1 | taxi |  
 | bip_39_word_space_10 | taxi awful price reunion clump dawn siren govern animal aware |  

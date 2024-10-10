@@ -122,6 +122,18 @@ cruise
 daring
 animal
 ginger |  
+| bip_39_word_no_space_1 | pink |  
+| bip_39_word_no_space_10 | pinkfestivalgoodspringtissuecruisedaringanimalgingermodify |  
+| bip_39_word_no_space_11 | pinkfestivalgoodspringtissuecruisedaringanimalgingermodifytwo |  
+| bip_39_word_no_space_12 | pinkfestivalgoodspringtissuecruisedaringanimalgingermodifytwoartist |  
+| bip_39_word_no_space_2 | pinkfestival |  
+| bip_39_word_no_space_3 | pinkfestivalgood |  
+| bip_39_word_no_space_4 | pinkfestivalgoodspring |  
+| bip_39_word_no_space_5 | pinkfestivalgoodspringtissue |  
+| bip_39_word_no_space_6 | pinkfestivalgoodspringtissuecruise |  
+| bip_39_word_no_space_7 | pinkfestivalgoodspringtissuecruisedaring |  
+| bip_39_word_no_space_8 | pinkfestivalgoodspringtissuecruisedaringanimal |  
+| bip_39_word_no_space_9 | pinkfestivalgoodspringtissuecruisedaringanimalginger |  
 | bip_39_word_space_0 | ['pink', 'festival', 'good', 'spring', 'tissue', 'cruise', 'daring', 'animal', 'ginger', 'modify', 'two', 'artist'] |  
 | bip_39_word_space_1 | pink |  
 | bip_39_word_space_10 | pink festival good spring tissue cruise daring animal ginger modify |  

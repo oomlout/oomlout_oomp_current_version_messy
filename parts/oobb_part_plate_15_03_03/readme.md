@@ -122,6 +122,18 @@ tank
 novel
 peasant
 journey |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slenderherogoddesstransferdisplaytanknovelpeasantjourneysuffer |  
+| bip_39_word_no_space_11 | slenderherogoddesstransferdisplaytanknovelpeasantjourneysuffertravel |  
+| bip_39_word_no_space_12 | slenderherogoddesstransferdisplaytanknovelpeasantjourneysuffertravelarmor |  
+| bip_39_word_no_space_2 | slenderhero |  
+| bip_39_word_no_space_3 | slenderherogoddess |  
+| bip_39_word_no_space_4 | slenderherogoddesstransfer |  
+| bip_39_word_no_space_5 | slenderherogoddesstransferdisplay |  
+| bip_39_word_no_space_6 | slenderherogoddesstransferdisplaytank |  
+| bip_39_word_no_space_7 | slenderherogoddesstransferdisplaytanknovel |  
+| bip_39_word_no_space_8 | slenderherogoddesstransferdisplaytanknovelpeasant |  
+| bip_39_word_no_space_9 | slenderherogoddesstransferdisplaytanknovelpeasantjourney |  
 | bip_39_word_space_0 | ['slender', 'hero', 'goddess', 'transfer', 'display', 'tank', 'novel', 'peasant', 'journey', 'suffer', 'travel', 'armor'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender hero goddess transfer display tank novel peasant journey suffer |  

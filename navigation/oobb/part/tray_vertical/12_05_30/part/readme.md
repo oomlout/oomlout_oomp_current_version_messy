@@ -122,6 +122,18 @@ until
 mule
 organ
 sphere |  
+| bip_39_word_no_space_1 | weasel |  
+| bip_39_word_no_space_10 | weaselcarrypigeonrealclawuntilmuleorganspheregrant |  
+| bip_39_word_no_space_11 | weaselcarrypigeonrealclawuntilmuleorganspheregrantsquirrel |  
+| bip_39_word_no_space_12 | weaselcarrypigeonrealclawuntilmuleorganspheregrantsquirrelalcohol |  
+| bip_39_word_no_space_2 | weaselcarry |  
+| bip_39_word_no_space_3 | weaselcarrypigeon |  
+| bip_39_word_no_space_4 | weaselcarrypigeonreal |  
+| bip_39_word_no_space_5 | weaselcarrypigeonrealclaw |  
+| bip_39_word_no_space_6 | weaselcarrypigeonrealclawuntil |  
+| bip_39_word_no_space_7 | weaselcarrypigeonrealclawuntilmule |  
+| bip_39_word_no_space_8 | weaselcarrypigeonrealclawuntilmuleorgan |  
+| bip_39_word_no_space_9 | weaselcarrypigeonrealclawuntilmuleorgansphere |  
 | bip_39_word_space_0 | ['weasel', 'carry', 'pigeon', 'real', 'claw', 'until', 'mule', 'organ', 'sphere', 'grant', 'squirrel', 'alcohol'] |  
 | bip_39_word_space_1 | weasel |  
 | bip_39_word_space_10 | weasel carry pigeon real claw until mule organ sphere grant |  

@@ -122,6 +122,18 @@ velvet
 circle
 forward
 whale |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemymessagemulecorrectepisodevelvetcircleforwardwhalearrive |  
+| bip_39_word_no_space_11 | enemymessagemulecorrectepisodevelvetcircleforwardwhalearriveexit |  
+| bip_39_word_no_space_12 | enemymessagemulecorrectepisodevelvetcircleforwardwhalearriveexitaction |  
+| bip_39_word_no_space_2 | enemymessage |  
+| bip_39_word_no_space_3 | enemymessagemule |  
+| bip_39_word_no_space_4 | enemymessagemulecorrect |  
+| bip_39_word_no_space_5 | enemymessagemulecorrectepisode |  
+| bip_39_word_no_space_6 | enemymessagemulecorrectepisodevelvet |  
+| bip_39_word_no_space_7 | enemymessagemulecorrectepisodevelvetcircle |  
+| bip_39_word_no_space_8 | enemymessagemulecorrectepisodevelvetcircleforward |  
+| bip_39_word_no_space_9 | enemymessagemulecorrectepisodevelvetcircleforwardwhale |  
 | bip_39_word_space_0 | ['enemy', 'message', 'mule', 'correct', 'episode', 'velvet', 'circle', 'forward', 'whale', 'arrive', 'exit', 'action'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy message mule correct episode velvet circle forward whale arrive |  

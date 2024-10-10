@@ -122,6 +122,18 @@ also
 dumb
 spirit
 orange |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipcementdefineillnessswarmalsodumbspiritorangegenuine |  
+| bip_39_word_no_space_11 | clipcementdefineillnessswarmalsodumbspiritorangegenuineveteran |  
+| bip_39_word_no_space_12 | clipcementdefineillnessswarmalsodumbspiritorangegenuineveteranauction |  
+| bip_39_word_no_space_2 | clipcement |  
+| bip_39_word_no_space_3 | clipcementdefine |  
+| bip_39_word_no_space_4 | clipcementdefineillness |  
+| bip_39_word_no_space_5 | clipcementdefineillnessswarm |  
+| bip_39_word_no_space_6 | clipcementdefineillnessswarmalso |  
+| bip_39_word_no_space_7 | clipcementdefineillnessswarmalsodumb |  
+| bip_39_word_no_space_8 | clipcementdefineillnessswarmalsodumbspirit |  
+| bip_39_word_no_space_9 | clipcementdefineillnessswarmalsodumbspiritorange |  
 | bip_39_word_space_0 | ['clip', 'cement', 'define', 'illness', 'swarm', 'also', 'dumb', 'spirit', 'orange', 'genuine', 'veteran', 'auction'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip cement define illness swarm also dumb spirit orange genuine |  

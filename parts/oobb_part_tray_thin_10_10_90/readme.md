@@ -122,6 +122,18 @@ craft
 city
 coconut
 better |  
+| bip_39_word_no_space_1 | wage |  
+| bip_39_word_no_space_10 | wageawayalsomothersilvercraftcitycoconutbetterbroccoli |  
+| bip_39_word_no_space_11 | wageawayalsomothersilvercraftcitycoconutbetterbroccoliclinic |  
+| bip_39_word_no_space_12 | wageawayalsomothersilvercraftcitycoconutbetterbroccoliclinicacquire |  
+| bip_39_word_no_space_2 | wageaway |  
+| bip_39_word_no_space_3 | wageawayalso |  
+| bip_39_word_no_space_4 | wageawayalsomother |  
+| bip_39_word_no_space_5 | wageawayalsomothersilver |  
+| bip_39_word_no_space_6 | wageawayalsomothersilvercraft |  
+| bip_39_word_no_space_7 | wageawayalsomothersilvercraftcity |  
+| bip_39_word_no_space_8 | wageawayalsomothersilvercraftcitycoconut |  
+| bip_39_word_no_space_9 | wageawayalsomothersilvercraftcitycoconutbetter |  
 | bip_39_word_space_0 | ['wage', 'away', 'also', 'mother', 'silver', 'craft', 'city', 'coconut', 'better', 'broccoli', 'clinic', 'acquire'] |  
 | bip_39_word_space_1 | wage |  
 | bip_39_word_space_10 | wage away also mother silver craft city coconut better broccoli |  

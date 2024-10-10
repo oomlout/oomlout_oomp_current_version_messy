@@ -122,6 +122,18 @@ library
 sentence
 success
 liar |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programbuffalopartytownsetuplibrarysentencesuccessliarbullet |  
+| bip_39_word_no_space_11 | programbuffalopartytownsetuplibrarysentencesuccessliarbulletwinner |  
+| bip_39_word_no_space_12 | programbuffalopartytownsetuplibrarysentencesuccessliarbulletwinneranswer |  
+| bip_39_word_no_space_2 | programbuffalo |  
+| bip_39_word_no_space_3 | programbuffaloparty |  
+| bip_39_word_no_space_4 | programbuffalopartytown |  
+| bip_39_word_no_space_5 | programbuffalopartytownsetup |  
+| bip_39_word_no_space_6 | programbuffalopartytownsetuplibrary |  
+| bip_39_word_no_space_7 | programbuffalopartytownsetuplibrarysentence |  
+| bip_39_word_no_space_8 | programbuffalopartytownsetuplibrarysentencesuccess |  
+| bip_39_word_no_space_9 | programbuffalopartytownsetuplibrarysentencesuccessliar |  
 | bip_39_word_space_0 | ['program', 'buffalo', 'party', 'town', 'setup', 'library', 'sentence', 'success', 'liar', 'bullet', 'winner', 'answer'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program buffalo party town setup library sentence success liar bullet |  

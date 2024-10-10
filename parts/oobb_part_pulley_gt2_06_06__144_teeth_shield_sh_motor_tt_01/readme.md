@@ -122,6 +122,18 @@ prize
 obey
 pottery
 cable |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldtossaxishubscanprizeobeypotterycableindicate |  
+| bip_39_word_no_space_11 | oldtossaxishubscanprizeobeypotterycableindicatejewel |  
+| bip_39_word_no_space_12 | oldtossaxishubscanprizeobeypotterycableindicatejewelassist |  
+| bip_39_word_no_space_2 | oldtoss |  
+| bip_39_word_no_space_3 | oldtossaxis |  
+| bip_39_word_no_space_4 | oldtossaxishub |  
+| bip_39_word_no_space_5 | oldtossaxishubscan |  
+| bip_39_word_no_space_6 | oldtossaxishubscanprize |  
+| bip_39_word_no_space_7 | oldtossaxishubscanprizeobey |  
+| bip_39_word_no_space_8 | oldtossaxishubscanprizeobeypottery |  
+| bip_39_word_no_space_9 | oldtossaxishubscanprizeobeypotterycable |  
 | bip_39_word_space_0 | ['old', 'toss', 'axis', 'hub', 'scan', 'prize', 'obey', 'pottery', 'cable', 'indicate', 'jewel', 'assist'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old toss axis hub scan prize obey pottery cable indicate |  

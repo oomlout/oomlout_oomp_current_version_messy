@@ -122,6 +122,18 @@ stick
 hollow
 stool
 chronic |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firsthelloassetborderalleystickhollowstoolchronicturkey |  
+| bip_39_word_no_space_11 | firsthelloassetborderalleystickhollowstoolchronicturkeynotice |  
+| bip_39_word_no_space_12 | firsthelloassetborderalleystickhollowstoolchronicturkeynoticeaccident |  
+| bip_39_word_no_space_2 | firsthello |  
+| bip_39_word_no_space_3 | firsthelloasset |  
+| bip_39_word_no_space_4 | firsthelloassetborder |  
+| bip_39_word_no_space_5 | firsthelloassetborderalley |  
+| bip_39_word_no_space_6 | firsthelloassetborderalleystick |  
+| bip_39_word_no_space_7 | firsthelloassetborderalleystickhollow |  
+| bip_39_word_no_space_8 | firsthelloassetborderalleystickhollowstool |  
+| bip_39_word_no_space_9 | firsthelloassetborderalleystickhollowstoolchronic |  
 | bip_39_word_space_0 | ['first', 'hello', 'asset', 'border', 'alley', 'stick', 'hollow', 'stool', 'chronic', 'turkey', 'notice', 'accident'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first hello asset border alley stick hollow stool chronic turkey |  

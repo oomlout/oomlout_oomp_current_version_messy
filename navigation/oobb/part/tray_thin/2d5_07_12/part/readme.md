@@ -122,6 +122,18 @@ crater
 plate
 brand
 smart |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffcoinaffairafraidbuffalocraterplatebrandsmartrotate |  
+| bip_39_word_no_space_11 | staffcoinaffairafraidbuffalocraterplatebrandsmartrotatesatisfy |  
+| bip_39_word_no_space_12 | staffcoinaffairafraidbuffalocraterplatebrandsmartrotatesatisfyadmit |  
+| bip_39_word_no_space_2 | staffcoin |  
+| bip_39_word_no_space_3 | staffcoinaffair |  
+| bip_39_word_no_space_4 | staffcoinaffairafraid |  
+| bip_39_word_no_space_5 | staffcoinaffairafraidbuffalo |  
+| bip_39_word_no_space_6 | staffcoinaffairafraidbuffalocrater |  
+| bip_39_word_no_space_7 | staffcoinaffairafraidbuffalocraterplate |  
+| bip_39_word_no_space_8 | staffcoinaffairafraidbuffalocraterplatebrand |  
+| bip_39_word_no_space_9 | staffcoinaffairafraidbuffalocraterplatebrandsmart |  
 | bip_39_word_space_0 | ['staff', 'coin', 'affair', 'afraid', 'buffalo', 'crater', 'plate', 'brand', 'smart', 'rotate', 'satisfy', 'admit'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff coin affair afraid buffalo crater plate brand smart rotate |  

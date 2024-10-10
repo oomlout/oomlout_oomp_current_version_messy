@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sunny
   paddle
 
   dynamic'
+bip_39_word_no_space_1: sunny
+bip_39_word_no_space_10: sunnyrelywoodcancelsmokephoneawkwardpaddledynamictwist
+bip_39_word_no_space_11: sunnyrelywoodcancelsmokephoneawkwardpaddledynamictwistsmall
+bip_39_word_no_space_12: sunnyrelywoodcancelsmokephoneawkwardpaddledynamictwistsmallamount
+bip_39_word_no_space_2: sunnyrely
+bip_39_word_no_space_3: sunnyrelywood
+bip_39_word_no_space_4: sunnyrelywoodcancel
+bip_39_word_no_space_5: sunnyrelywoodcancelsmoke
+bip_39_word_no_space_6: sunnyrelywoodcancelsmokephone
+bip_39_word_no_space_7: sunnyrelywoodcancelsmokephoneawkward
+bip_39_word_no_space_8: sunnyrelywoodcancelsmokephoneawkwardpaddle
+bip_39_word_no_space_9: sunnyrelywoodcancelsmokephoneawkwardpaddledynamic
 bip_39_word_space_0:
 - sunny
 - rely

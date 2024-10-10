@@ -122,6 +122,18 @@ edit
 gasp
 chaos
 room |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalrebuildshoulderconvincejudgeeditgaspchaosroomfiber |  
+| bip_39_word_no_space_11 | loyalrebuildshoulderconvincejudgeeditgaspchaosroomfibersheriff |  
+| bip_39_word_no_space_12 | loyalrebuildshoulderconvincejudgeeditgaspchaosroomfibersheriffarmor |  
+| bip_39_word_no_space_2 | loyalrebuild |  
+| bip_39_word_no_space_3 | loyalrebuildshoulder |  
+| bip_39_word_no_space_4 | loyalrebuildshoulderconvince |  
+| bip_39_word_no_space_5 | loyalrebuildshoulderconvincejudge |  
+| bip_39_word_no_space_6 | loyalrebuildshoulderconvincejudgeedit |  
+| bip_39_word_no_space_7 | loyalrebuildshoulderconvincejudgeeditgasp |  
+| bip_39_word_no_space_8 | loyalrebuildshoulderconvincejudgeeditgaspchaos |  
+| bip_39_word_no_space_9 | loyalrebuildshoulderconvincejudgeeditgaspchaosroom |  
 | bip_39_word_space_0 | ['loyal', 'rebuild', 'shoulder', 'convince', 'judge', 'edit', 'gasp', 'chaos', 'room', 'fiber', 'sheriff', 'armor'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal rebuild shoulder convince judge edit gasp chaos room fiber |  

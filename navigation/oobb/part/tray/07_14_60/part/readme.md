@@ -122,6 +122,18 @@ stem
 friend
 hole
 reduce |  
+| bip_39_word_no_space_1 | town |  
+| bip_39_word_no_space_10 | townbouncehavehammermaplestemfriendholereducesword |  
+| bip_39_word_no_space_11 | townbouncehavehammermaplestemfriendholereduceswordsound |  
+| bip_39_word_no_space_12 | townbouncehavehammermaplestemfriendholereduceswordsoundage |  
+| bip_39_word_no_space_2 | townbounce |  
+| bip_39_word_no_space_3 | townbouncehave |  
+| bip_39_word_no_space_4 | townbouncehavehammer |  
+| bip_39_word_no_space_5 | townbouncehavehammermaple |  
+| bip_39_word_no_space_6 | townbouncehavehammermaplestem |  
+| bip_39_word_no_space_7 | townbouncehavehammermaplestemfriend |  
+| bip_39_word_no_space_8 | townbouncehavehammermaplestemfriendhole |  
+| bip_39_word_no_space_9 | townbouncehavehammermaplestemfriendholereduce |  
 | bip_39_word_space_0 | ['town', 'bounce', 'have', 'hammer', 'maple', 'stem', 'friend', 'hole', 'reduce', 'sword', 'sound', 'age'] |  
 | bip_39_word_space_1 | town |  
 | bip_39_word_space_10 | town bounce have hammer maple stem friend hole reduce sword |  

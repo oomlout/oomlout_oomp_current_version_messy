@@ -122,6 +122,18 @@ monkey
 turn
 giraffe
 flag |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentglassunknowneagergallerymonkeyturngiraffeflagfrog |  
+| bip_39_word_no_space_11 | rentglassunknowneagergallerymonkeyturngiraffeflagfroganger |  
+| bip_39_word_no_space_12 | rentglassunknowneagergallerymonkeyturngiraffeflagfrogangeraim |  
+| bip_39_word_no_space_2 | rentglass |  
+| bip_39_word_no_space_3 | rentglassunknown |  
+| bip_39_word_no_space_4 | rentglassunknowneager |  
+| bip_39_word_no_space_5 | rentglassunknowneagergallery |  
+| bip_39_word_no_space_6 | rentglassunknowneagergallerymonkey |  
+| bip_39_word_no_space_7 | rentglassunknowneagergallerymonkeyturn |  
+| bip_39_word_no_space_8 | rentglassunknowneagergallerymonkeyturngiraffe |  
+| bip_39_word_no_space_9 | rentglassunknowneagergallerymonkeyturngiraffeflag |  
 | bip_39_word_space_0 | ['rent', 'glass', 'unknown', 'eager', 'gallery', 'monkey', 'turn', 'giraffe', 'flag', 'frog', 'anger', 'aim'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent glass unknown eager gallery monkey turn giraffe flag frog |  

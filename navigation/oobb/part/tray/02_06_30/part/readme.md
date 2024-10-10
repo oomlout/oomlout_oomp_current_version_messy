@@ -122,6 +122,18 @@ decade
 jaguar
 travel
 cage |  
+| bip_39_word_no_space_1 | gap |  
+| bip_39_word_no_space_10 | gapfootscatterbouncecashdecadejaguartravelcagecool |  
+| bip_39_word_no_space_11 | gapfootscatterbouncecashdecadejaguartravelcagecooldespair |  
+| bip_39_word_no_space_12 | gapfootscatterbouncecashdecadejaguartravelcagecooldespairarctic |  
+| bip_39_word_no_space_2 | gapfoot |  
+| bip_39_word_no_space_3 | gapfootscatter |  
+| bip_39_word_no_space_4 | gapfootscatterbounce |  
+| bip_39_word_no_space_5 | gapfootscatterbouncecash |  
+| bip_39_word_no_space_6 | gapfootscatterbouncecashdecade |  
+| bip_39_word_no_space_7 | gapfootscatterbouncecashdecadejaguar |  
+| bip_39_word_no_space_8 | gapfootscatterbouncecashdecadejaguartravel |  
+| bip_39_word_no_space_9 | gapfootscatterbouncecashdecadejaguartravelcage |  
 | bip_39_word_space_0 | ['gap', 'foot', 'scatter', 'bounce', 'cash', 'decade', 'jaguar', 'travel', 'cage', 'cool', 'despair', 'arctic'] |  
 | bip_39_word_space_1 | gap |  
 | bip_39_word_space_10 | gap foot scatter bounce cash decade jaguar travel cage cool |  

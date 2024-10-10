@@ -122,6 +122,18 @@ ritual
 ask
 risk
 jelly |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangaroofilmchampiondebrispetritualaskriskjellyrelief |  
+| bip_39_word_no_space_11 | kangaroofilmchampiondebrispetritualaskriskjellyreliefmore |  
+| bip_39_word_no_space_12 | kangaroofilmchampiondebrispetritualaskriskjellyreliefmoreadmit |  
+| bip_39_word_no_space_2 | kangaroofilm |  
+| bip_39_word_no_space_3 | kangaroofilmchampion |  
+| bip_39_word_no_space_4 | kangaroofilmchampiondebris |  
+| bip_39_word_no_space_5 | kangaroofilmchampiondebrispet |  
+| bip_39_word_no_space_6 | kangaroofilmchampiondebrispetritual |  
+| bip_39_word_no_space_7 | kangaroofilmchampiondebrispetritualask |  
+| bip_39_word_no_space_8 | kangaroofilmchampiondebrispetritualaskrisk |  
+| bip_39_word_no_space_9 | kangaroofilmchampiondebrispetritualaskriskjelly |  
 | bip_39_word_space_0 | ['kangaroo', 'film', 'champion', 'debris', 'pet', 'ritual', 'ask', 'risk', 'jelly', 'relief', 'more', 'admit'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo film champion debris pet ritual ask risk jelly relief |  

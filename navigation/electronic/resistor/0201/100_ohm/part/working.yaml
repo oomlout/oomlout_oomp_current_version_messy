@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ask
   symbol
 
   feature'
+bip_39_word_no_space_1: ask
+bip_39_word_no_space_10: askaisleridgemuscletoothsaladtwentysymbolfeaturemust
+bip_39_word_no_space_11: askaisleridgemuscletoothsaladtwentysymbolfeaturemustabuse
+bip_39_word_no_space_12: askaisleridgemuscletoothsaladtwentysymbolfeaturemustabuseaugust
+bip_39_word_no_space_2: askaisle
+bip_39_word_no_space_3: askaisleridge
+bip_39_word_no_space_4: askaisleridgemuscle
+bip_39_word_no_space_5: askaisleridgemuscletooth
+bip_39_word_no_space_6: askaisleridgemuscletoothsalad
+bip_39_word_no_space_7: askaisleridgemuscletoothsaladtwenty
+bip_39_word_no_space_8: askaisleridgemuscletoothsaladtwentysymbol
+bip_39_word_no_space_9: askaisleridgemuscletoothsaladtwentysymbolfeature
 bip_39_word_space_0:
 - ask
 - aisle

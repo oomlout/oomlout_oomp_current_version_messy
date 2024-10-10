@@ -122,6 +122,18 @@ large
 brisk
 scheme
 second |  
+| bip_39_word_no_space_1 | horror |  
+| bip_39_word_no_space_10 | horrorwonderfiscalclawneutrallargebriskschemesecondcrew |  
+| bip_39_word_no_space_11 | horrorwonderfiscalclawneutrallargebriskschemesecondcrewaverage |  
+| bip_39_word_no_space_12 | horrorwonderfiscalclawneutrallargebriskschemesecondcrewaverageapple |  
+| bip_39_word_no_space_2 | horrorwonder |  
+| bip_39_word_no_space_3 | horrorwonderfiscal |  
+| bip_39_word_no_space_4 | horrorwonderfiscalclaw |  
+| bip_39_word_no_space_5 | horrorwonderfiscalclawneutral |  
+| bip_39_word_no_space_6 | horrorwonderfiscalclawneutrallarge |  
+| bip_39_word_no_space_7 | horrorwonderfiscalclawneutrallargebrisk |  
+| bip_39_word_no_space_8 | horrorwonderfiscalclawneutrallargebriskscheme |  
+| bip_39_word_no_space_9 | horrorwonderfiscalclawneutrallargebriskschemesecond |  
 | bip_39_word_space_0 | ['horror', 'wonder', 'fiscal', 'claw', 'neutral', 'large', 'brisk', 'scheme', 'second', 'crew', 'average', 'apple'] |  
 | bip_39_word_space_1 | horror |  
 | bip_39_word_space_10 | horror wonder fiscal claw neutral large brisk scheme second crew |  

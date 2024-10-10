@@ -122,6 +122,18 @@ matter
 float
 dentist
 mass |  
+| bip_39_word_no_space_1 | squeeze |  
+| bip_39_word_no_space_10 | squeezestrugglelaughinjuryaffordmatterfloatdentistmassapprove |  
+| bip_39_word_no_space_11 | squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponse |  
+| bip_39_word_no_space_12 | squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponseanalyst |  
+| bip_39_word_no_space_2 | squeezestruggle |  
+| bip_39_word_no_space_3 | squeezestrugglelaugh |  
+| bip_39_word_no_space_4 | squeezestrugglelaughinjury |  
+| bip_39_word_no_space_5 | squeezestrugglelaughinjuryafford |  
+| bip_39_word_no_space_6 | squeezestrugglelaughinjuryaffordmatter |  
+| bip_39_word_no_space_7 | squeezestrugglelaughinjuryaffordmatterfloat |  
+| bip_39_word_no_space_8 | squeezestrugglelaughinjuryaffordmatterfloatdentist |  
+| bip_39_word_no_space_9 | squeezestrugglelaughinjuryaffordmatterfloatdentistmass |  
 | bip_39_word_space_0 | ['squeeze', 'struggle', 'laugh', 'injury', 'afford', 'matter', 'float', 'dentist', 'mass', 'approve', 'response', 'analyst'] |  
 | bip_39_word_space_1 | squeeze |  
 | bip_39_word_space_10 | squeeze struggle laugh injury afford matter float dentist mass approve |  

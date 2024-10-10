@@ -122,6 +122,18 @@ arrow
 village
 eager
 illegal |  
+| bip_39_word_no_space_1 | state |  
+| bip_39_word_no_space_10 | statelazysyrupgoodintactarrowvillageeagerillegalbamboo |  
+| bip_39_word_no_space_11 | statelazysyrupgoodintactarrowvillageeagerillegalbambooretire |  
+| bip_39_word_no_space_12 | statelazysyrupgoodintactarrowvillageeagerillegalbambooretireapart |  
+| bip_39_word_no_space_2 | statelazy |  
+| bip_39_word_no_space_3 | statelazysyrup |  
+| bip_39_word_no_space_4 | statelazysyrupgood |  
+| bip_39_word_no_space_5 | statelazysyrupgoodintact |  
+| bip_39_word_no_space_6 | statelazysyrupgoodintactarrow |  
+| bip_39_word_no_space_7 | statelazysyrupgoodintactarrowvillage |  
+| bip_39_word_no_space_8 | statelazysyrupgoodintactarrowvillageeager |  
+| bip_39_word_no_space_9 | statelazysyrupgoodintactarrowvillageeagerillegal |  
 | bip_39_word_space_0 | ['state', 'lazy', 'syrup', 'good', 'intact', 'arrow', 'village', 'eager', 'illegal', 'bamboo', 'retire', 'apart'] |  
 | bip_39_word_space_1 | state |  
 | bip_39_word_space_10 | state lazy syrup good intact arrow village eager illegal bamboo |  

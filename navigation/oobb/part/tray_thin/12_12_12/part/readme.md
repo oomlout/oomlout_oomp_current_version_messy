@@ -122,6 +122,18 @@ turn
 use
 call
 meat |  
+| bip_39_word_no_space_1 | doctor |  
+| bip_39_word_no_space_10 | doctormuchbuyereasilycallturnusecallmeatearn |  
+| bip_39_word_no_space_11 | doctormuchbuyereasilycallturnusecallmeatearnheavy |  
+| bip_39_word_no_space_12 | doctormuchbuyereasilycallturnusecallmeatearnheavyanimal |  
+| bip_39_word_no_space_2 | doctormuch |  
+| bip_39_word_no_space_3 | doctormuchbuyer |  
+| bip_39_word_no_space_4 | doctormuchbuyereasily |  
+| bip_39_word_no_space_5 | doctormuchbuyereasilycall |  
+| bip_39_word_no_space_6 | doctormuchbuyereasilycallturn |  
+| bip_39_word_no_space_7 | doctormuchbuyereasilycallturnuse |  
+| bip_39_word_no_space_8 | doctormuchbuyereasilycallturnusecall |  
+| bip_39_word_no_space_9 | doctormuchbuyereasilycallturnusecallmeat |  
 | bip_39_word_space_0 | ['doctor', 'much', 'buyer', 'easily', 'call', 'turn', 'use', 'call', 'meat', 'earn', 'heavy', 'animal'] |  
 | bip_39_word_space_1 | doctor |  
 | bip_39_word_space_10 | doctor much buyer easily call turn use call meat earn |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'few
   estate
 
   actual'
+bip_39_word_no_space_1: few
+bip_39_word_no_space_10: fewrejectdealreportwarfareshiftcoralestateactualcloth
+bip_39_word_no_space_11: fewrejectdealreportwarfareshiftcoralestateactualclothbelieve
+bip_39_word_no_space_12: fewrejectdealreportwarfareshiftcoralestateactualclothbelieveamount
+bip_39_word_no_space_2: fewreject
+bip_39_word_no_space_3: fewrejectdeal
+bip_39_word_no_space_4: fewrejectdealreport
+bip_39_word_no_space_5: fewrejectdealreportwarfare
+bip_39_word_no_space_6: fewrejectdealreportwarfareshift
+bip_39_word_no_space_7: fewrejectdealreportwarfareshiftcoral
+bip_39_word_no_space_8: fewrejectdealreportwarfareshiftcoralestate
+bip_39_word_no_space_9: fewrejectdealreportwarfareshiftcoralestateactual
 bip_39_word_space_0:
 - few
 - reject

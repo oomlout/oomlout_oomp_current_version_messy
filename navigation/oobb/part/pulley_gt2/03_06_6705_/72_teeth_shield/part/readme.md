@@ -122,6 +122,18 @@ oil
 unhappy
 foster
 hover |  
+| bip_39_word_no_space_1 | fiction |  
+| bip_39_word_no_space_10 | fictionpoetsaltoldvolumeoilunhappyfosterhoversize |  
+| bip_39_word_no_space_11 | fictionpoetsaltoldvolumeoilunhappyfosterhoversizepear |  
+| bip_39_word_no_space_12 | fictionpoetsaltoldvolumeoilunhappyfosterhoversizepearangle |  
+| bip_39_word_no_space_2 | fictionpoet |  
+| bip_39_word_no_space_3 | fictionpoetsalt |  
+| bip_39_word_no_space_4 | fictionpoetsaltold |  
+| bip_39_word_no_space_5 | fictionpoetsaltoldvolume |  
+| bip_39_word_no_space_6 | fictionpoetsaltoldvolumeoil |  
+| bip_39_word_no_space_7 | fictionpoetsaltoldvolumeoilunhappy |  
+| bip_39_word_no_space_8 | fictionpoetsaltoldvolumeoilunhappyfoster |  
+| bip_39_word_no_space_9 | fictionpoetsaltoldvolumeoilunhappyfosterhover |  
 | bip_39_word_space_0 | ['fiction', 'poet', 'salt', 'old', 'volume', 'oil', 'unhappy', 'foster', 'hover', 'size', 'pear', 'angle'] |  
 | bip_39_word_space_1 | fiction |  
 | bip_39_word_space_10 | fiction poet salt old volume oil unhappy foster hover size |  

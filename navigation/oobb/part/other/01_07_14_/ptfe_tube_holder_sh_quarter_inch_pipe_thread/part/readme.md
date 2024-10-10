@@ -122,6 +122,18 @@ inner
 argue
 like
 lobster |  
+| bip_39_word_no_space_1 | kind |  
+| bip_39_word_no_space_10 | kindmatrixregretgirlaugustinnerarguelikelobsteradapt |  
+| bip_39_word_no_space_11 | kindmatrixregretgirlaugustinnerarguelikelobsteradaptgym |  
+| bip_39_word_no_space_12 | kindmatrixregretgirlaugustinnerarguelikelobsteradaptgymacoustic |  
+| bip_39_word_no_space_2 | kindmatrix |  
+| bip_39_word_no_space_3 | kindmatrixregret |  
+| bip_39_word_no_space_4 | kindmatrixregretgirl |  
+| bip_39_word_no_space_5 | kindmatrixregretgirlaugust |  
+| bip_39_word_no_space_6 | kindmatrixregretgirlaugustinner |  
+| bip_39_word_no_space_7 | kindmatrixregretgirlaugustinnerargue |  
+| bip_39_word_no_space_8 | kindmatrixregretgirlaugustinnerarguelike |  
+| bip_39_word_no_space_9 | kindmatrixregretgirlaugustinnerarguelikelobster |  
 | bip_39_word_space_0 | ['kind', 'matrix', 'regret', 'girl', 'august', 'inner', 'argue', 'like', 'lobster', 'adapt', 'gym', 'acoustic'] |  
 | bip_39_word_space_1 | kind |  
 | bip_39_word_space_10 | kind matrix regret girl august inner argue like lobster adapt |  

@@ -122,6 +122,18 @@ silk
 jar
 milk
 kitten |  
+| bip_39_word_no_space_1 | monitor |  
+| bip_39_word_no_space_10 | monitorparadebuzzwideenrichsilkjarmilkkittenalmost |  
+| bip_39_word_no_space_11 | monitorparadebuzzwideenrichsilkjarmilkkittenalmostcrisp |  
+| bip_39_word_no_space_12 | monitorparadebuzzwideenrichsilkjarmilkkittenalmostcrispavocado |  
+| bip_39_word_no_space_2 | monitorparade |  
+| bip_39_word_no_space_3 | monitorparadebuzz |  
+| bip_39_word_no_space_4 | monitorparadebuzzwide |  
+| bip_39_word_no_space_5 | monitorparadebuzzwideenrich |  
+| bip_39_word_no_space_6 | monitorparadebuzzwideenrichsilk |  
+| bip_39_word_no_space_7 | monitorparadebuzzwideenrichsilkjar |  
+| bip_39_word_no_space_8 | monitorparadebuzzwideenrichsilkjarmilk |  
+| bip_39_word_no_space_9 | monitorparadebuzzwideenrichsilkjarmilkkitten |  
 | bip_39_word_space_0 | ['monitor', 'parade', 'buzz', 'wide', 'enrich', 'silk', 'jar', 'milk', 'kitten', 'almost', 'crisp', 'avocado'] |  
 | bip_39_word_space_1 | monitor |  
 | bip_39_word_space_10 | monitor parade buzz wide enrich silk jar milk kitten almost |  

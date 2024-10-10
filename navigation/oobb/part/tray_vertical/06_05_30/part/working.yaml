@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sun
   area
 
   cigar'
+bip_39_word_no_space_1: sun
+bip_39_word_no_space_10: sunjuicesuggestpridedreamsisterlabareacigarsustain
+bip_39_word_no_space_11: sunjuicesuggestpridedreamsisterlabareacigarsustaintop
+bip_39_word_no_space_12: sunjuicesuggestpridedreamsisterlabareacigarsustaintopactress
+bip_39_word_no_space_2: sunjuice
+bip_39_word_no_space_3: sunjuicesuggest
+bip_39_word_no_space_4: sunjuicesuggestpride
+bip_39_word_no_space_5: sunjuicesuggestpridedream
+bip_39_word_no_space_6: sunjuicesuggestpridedreamsister
+bip_39_word_no_space_7: sunjuicesuggestpridedreamsisterlab
+bip_39_word_no_space_8: sunjuicesuggestpridedreamsisterlabarea
+bip_39_word_no_space_9: sunjuicesuggestpridedreamsisterlabareacigar
 bip_39_word_space_0:
 - sun
 - juice

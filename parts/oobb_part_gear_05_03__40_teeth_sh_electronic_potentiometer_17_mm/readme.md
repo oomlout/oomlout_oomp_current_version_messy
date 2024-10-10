@@ -122,6 +122,18 @@ august
 arrow
 table
 avocado |  
+| bip_39_word_no_space_1 | gather |  
+| bip_39_word_no_space_10 | gatherreduceequipgatherwaitaugustarrowtableavocadovalid |  
+| bip_39_word_no_space_11 | gatherreduceequipgatherwaitaugustarrowtableavocadovalidstick |  
+| bip_39_word_no_space_12 | gatherreduceequipgatherwaitaugustarrowtableavocadovalidstickamused |  
+| bip_39_word_no_space_2 | gatherreduce |  
+| bip_39_word_no_space_3 | gatherreduceequip |  
+| bip_39_word_no_space_4 | gatherreduceequipgather |  
+| bip_39_word_no_space_5 | gatherreduceequipgatherwait |  
+| bip_39_word_no_space_6 | gatherreduceequipgatherwaitaugust |  
+| bip_39_word_no_space_7 | gatherreduceequipgatherwaitaugustarrow |  
+| bip_39_word_no_space_8 | gatherreduceequipgatherwaitaugustarrowtable |  
+| bip_39_word_no_space_9 | gatherreduceequipgatherwaitaugustarrowtableavocado |  
 | bip_39_word_space_0 | ['gather', 'reduce', 'equip', 'gather', 'wait', 'august', 'arrow', 'table', 'avocado', 'valid', 'stick', 'amused'] |  
 | bip_39_word_space_1 | gather |  
 | bip_39_word_space_10 | gather reduce equip gather wait august arrow table avocado valid |  

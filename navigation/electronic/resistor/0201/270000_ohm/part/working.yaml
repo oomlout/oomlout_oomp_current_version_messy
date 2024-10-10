@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cash
   cheap
 
   celery'
+bip_39_word_no_space_1: cash
+bip_39_word_no_space_10: cashclickarmycouplebindaccuseunawarecheapcelerycannon
+bip_39_word_no_space_11: cashclickarmycouplebindaccuseunawarecheapcelerycannonpulse
+bip_39_word_no_space_12: cashclickarmycouplebindaccuseunawarecheapcelerycannonpulsealso
+bip_39_word_no_space_2: cashclick
+bip_39_word_no_space_3: cashclickarmy
+bip_39_word_no_space_4: cashclickarmycouple
+bip_39_word_no_space_5: cashclickarmycouplebind
+bip_39_word_no_space_6: cashclickarmycouplebindaccuse
+bip_39_word_no_space_7: cashclickarmycouplebindaccuseunaware
+bip_39_word_no_space_8: cashclickarmycouplebindaccuseunawarecheap
+bip_39_word_no_space_9: cashclickarmycouplebindaccuseunawarecheapcelery
 bip_39_word_space_0:
 - cash
 - click

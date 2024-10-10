@@ -122,6 +122,18 @@ spell
 there
 prison
 exchange |  
+| bip_39_word_no_space_1 | adult |  
+| bip_39_word_no_space_10 | adulteruptgloomglowawesomespellthereprisonexchangeanalyst |  
+| bip_39_word_no_space_11 | adulteruptgloomglowawesomespellthereprisonexchangeanalystcrazy |  
+| bip_39_word_no_space_12 | adulteruptgloomglowawesomespellthereprisonexchangeanalystcrazyapart |  
+| bip_39_word_no_space_2 | adulterupt |  
+| bip_39_word_no_space_3 | adulteruptgloom |  
+| bip_39_word_no_space_4 | adulteruptgloomglow |  
+| bip_39_word_no_space_5 | adulteruptgloomglowawesome |  
+| bip_39_word_no_space_6 | adulteruptgloomglowawesomespell |  
+| bip_39_word_no_space_7 | adulteruptgloomglowawesomespellthere |  
+| bip_39_word_no_space_8 | adulteruptgloomglowawesomespellthereprison |  
+| bip_39_word_no_space_9 | adulteruptgloomglowawesomespellthereprisonexchange |  
 | bip_39_word_space_0 | ['adult', 'erupt', 'gloom', 'glow', 'awesome', 'spell', 'there', 'prison', 'exchange', 'analyst', 'crazy', 'apart'] |  
 | bip_39_word_space_1 | adult |  
 | bip_39_word_space_10 | adult erupt gloom glow awesome spell there prison exchange analyst |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'glow
   job
 
   other'
+bip_39_word_no_space_1: glow
+bip_39_word_no_space_10: glowfixproudjealoushybridyouthbottomjobotherbird
+bip_39_word_no_space_11: glowfixproudjealoushybridyouthbottomjobotherbirdexcuse
+bip_39_word_no_space_12: glowfixproudjealoushybridyouthbottomjobotherbirdexcuseaunt
+bip_39_word_no_space_2: glowfix
+bip_39_word_no_space_3: glowfixproud
+bip_39_word_no_space_4: glowfixproudjealous
+bip_39_word_no_space_5: glowfixproudjealoushybrid
+bip_39_word_no_space_6: glowfixproudjealoushybridyouth
+bip_39_word_no_space_7: glowfixproudjealoushybridyouthbottom
+bip_39_word_no_space_8: glowfixproudjealoushybridyouthbottomjob
+bip_39_word_no_space_9: glowfixproudjealoushybridyouthbottomjobother
 bip_39_word_space_0:
 - glow
 - fix

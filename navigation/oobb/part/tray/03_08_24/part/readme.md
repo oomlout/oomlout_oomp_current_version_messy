@@ -109,6 +109,17 @@ rough
 try
 rough
 jelly |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountainavoidslimabsentpicnicroughtryroughjellybusiness |  
+| bip_39_word_no_space_11 | mountainavoidslimabsentpicnicroughtryroughjellybusinessafraid |  
+| bip_39_word_no_space_2 | mountainavoid |  
+| bip_39_word_no_space_3 | mountainavoidslim |  
+| bip_39_word_no_space_4 | mountainavoidslimabsent |  
+| bip_39_word_no_space_5 | mountainavoidslimabsentpicnic |  
+| bip_39_word_no_space_6 | mountainavoidslimabsentpicnicrough |  
+| bip_39_word_no_space_7 | mountainavoidslimabsentpicnicroughtry |  
+| bip_39_word_no_space_8 | mountainavoidslimabsentpicnicroughtryrough |  
+| bip_39_word_no_space_9 | mountainavoidslimabsentpicnicroughtryroughjelly |  
 | bip_39_word_space_0 | ['mountain', 'avoid', 'slim', 'absent', 'picnic', 'rough', 'try', 'rough', 'jelly', 'business', 'afraid'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain avoid slim absent picnic rough try rough jelly business |  

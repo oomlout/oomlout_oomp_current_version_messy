@@ -122,6 +122,18 @@ fall
 identify
 regular
 decline |  
+| bip_39_word_no_space_1 | yellow |  
+| bip_39_word_no_space_10 | yellowmorningeditscanskillfallidentifyregulardeclinetruck |  
+| bip_39_word_no_space_11 | yellowmorningeditscanskillfallidentifyregulardeclinetruckhusband |  
+| bip_39_word_no_space_12 | yellowmorningeditscanskillfallidentifyregulardeclinetruckhusbandall |  
+| bip_39_word_no_space_2 | yellowmorning |  
+| bip_39_word_no_space_3 | yellowmorningedit |  
+| bip_39_word_no_space_4 | yellowmorningeditscan |  
+| bip_39_word_no_space_5 | yellowmorningeditscanskill |  
+| bip_39_word_no_space_6 | yellowmorningeditscanskillfall |  
+| bip_39_word_no_space_7 | yellowmorningeditscanskillfallidentify |  
+| bip_39_word_no_space_8 | yellowmorningeditscanskillfallidentifyregular |  
+| bip_39_word_no_space_9 | yellowmorningeditscanskillfallidentifyregulardecline |  
 | bip_39_word_space_0 | ['yellow', 'morning', 'edit', 'scan', 'skill', 'fall', 'identify', 'regular', 'decline', 'truck', 'husband', 'all'] |  
 | bip_39_word_space_1 | yellow |  
 | bip_39_word_space_10 | yellow morning edit scan skill fall identify regular decline truck |  

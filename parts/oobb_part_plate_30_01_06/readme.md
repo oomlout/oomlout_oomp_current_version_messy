@@ -122,6 +122,18 @@ fox
 atom
 artwork
 blind |  
+| bip_39_word_no_space_1 | strike |  
+| bip_39_word_no_space_10 | strikeimmensesuffertodaycricketfoxatomartworkblindpottery |  
+| bip_39_word_no_space_11 | strikeimmensesuffertodaycricketfoxatomartworkblindpotterylabor |  
+| bip_39_word_no_space_12 | strikeimmensesuffertodaycricketfoxatomartworkblindpotterylaborasset |  
+| bip_39_word_no_space_2 | strikeimmense |  
+| bip_39_word_no_space_3 | strikeimmensesuffer |  
+| bip_39_word_no_space_4 | strikeimmensesuffertoday |  
+| bip_39_word_no_space_5 | strikeimmensesuffertodaycricket |  
+| bip_39_word_no_space_6 | strikeimmensesuffertodaycricketfox |  
+| bip_39_word_no_space_7 | strikeimmensesuffertodaycricketfoxatom |  
+| bip_39_word_no_space_8 | strikeimmensesuffertodaycricketfoxatomartwork |  
+| bip_39_word_no_space_9 | strikeimmensesuffertodaycricketfoxatomartworkblind |  
 | bip_39_word_space_0 | ['strike', 'immense', 'suffer', 'today', 'cricket', 'fox', 'atom', 'artwork', 'blind', 'pottery', 'labor', 'asset'] |  
 | bip_39_word_space_1 | strike |  
 | bip_39_word_space_10 | strike immense suffer today cricket fox atom artwork blind pottery |  

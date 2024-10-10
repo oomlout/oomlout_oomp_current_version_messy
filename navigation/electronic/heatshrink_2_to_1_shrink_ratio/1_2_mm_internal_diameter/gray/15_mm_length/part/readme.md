@@ -122,6 +122,18 @@ excess
 inflict
 minor
 fitness |  
+| bip_39_word_no_space_1 | utility |  
+| bip_39_word_no_space_10 | utilityimposeattractundoimproveexcessinflictminorfitnesspet |  
+| bip_39_word_no_space_11 | utilityimposeattractundoimproveexcessinflictminorfitnesspetsearch |  
+| bip_39_word_no_space_12 | utilityimposeattractundoimproveexcessinflictminorfitnesspetsearchankle |  
+| bip_39_word_no_space_2 | utilityimpose |  
+| bip_39_word_no_space_3 | utilityimposeattract |  
+| bip_39_word_no_space_4 | utilityimposeattractundo |  
+| bip_39_word_no_space_5 | utilityimposeattractundoimprove |  
+| bip_39_word_no_space_6 | utilityimposeattractundoimproveexcess |  
+| bip_39_word_no_space_7 | utilityimposeattractundoimproveexcessinflict |  
+| bip_39_word_no_space_8 | utilityimposeattractundoimproveexcessinflictminor |  
+| bip_39_word_no_space_9 | utilityimposeattractundoimproveexcessinflictminorfitness |  
 | bip_39_word_space_0 | ['utility', 'impose', 'attract', 'undo', 'improve', 'excess', 'inflict', 'minor', 'fitness', 'pet', 'search', 'ankle'] |  
 | bip_39_word_space_1 | utility |  
 | bip_39_word_space_10 | utility impose attract undo improve excess inflict minor fitness pet |  

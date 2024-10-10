@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'human
   miracle
 
   trend'
+bip_39_word_no_space_1: human
+bip_39_word_no_space_10: humanmechanicaskarmedmixedsizenamemiracletrendbaby
+bip_39_word_no_space_11: humanmechanicaskarmedmixedsizenamemiracletrendbabydaughter
+bip_39_word_no_space_12: humanmechanicaskarmedmixedsizenamemiracletrendbabydaughteracquire
+bip_39_word_no_space_2: humanmechanic
+bip_39_word_no_space_3: humanmechanicask
+bip_39_word_no_space_4: humanmechanicaskarmed
+bip_39_word_no_space_5: humanmechanicaskarmedmixed
+bip_39_word_no_space_6: humanmechanicaskarmedmixedsize
+bip_39_word_no_space_7: humanmechanicaskarmedmixedsizename
+bip_39_word_no_space_8: humanmechanicaskarmedmixedsizenamemiracle
+bip_39_word_no_space_9: humanmechanicaskarmedmixedsizenamemiracletrend
 bip_39_word_space_0:
 - human
 - mechanic

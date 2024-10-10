@@ -122,6 +122,18 @@ rigid
 mesh
 egg
 tone |  
+| bip_39_word_no_space_1 | enough |  
+| bip_39_word_no_space_10 | enoughsailnaturewrongtestrigidmesheggtonebubble |  
+| bip_39_word_no_space_11 | enoughsailnaturewrongtestrigidmesheggtonebubbleonion |  
+| bip_39_word_no_space_12 | enoughsailnaturewrongtestrigidmesheggtonebubbleonionapple |  
+| bip_39_word_no_space_2 | enoughsail |  
+| bip_39_word_no_space_3 | enoughsailnature |  
+| bip_39_word_no_space_4 | enoughsailnaturewrong |  
+| bip_39_word_no_space_5 | enoughsailnaturewrongtest |  
+| bip_39_word_no_space_6 | enoughsailnaturewrongtestrigid |  
+| bip_39_word_no_space_7 | enoughsailnaturewrongtestrigidmesh |  
+| bip_39_word_no_space_8 | enoughsailnaturewrongtestrigidmeshegg |  
+| bip_39_word_no_space_9 | enoughsailnaturewrongtestrigidmesheggtone |  
 | bip_39_word_space_0 | ['enough', 'sail', 'nature', 'wrong', 'test', 'rigid', 'mesh', 'egg', 'tone', 'bubble', 'onion', 'apple'] |  
 | bip_39_word_space_1 | enough |  
 | bip_39_word_space_10 | enough sail nature wrong test rigid mesh egg tone bubble |  

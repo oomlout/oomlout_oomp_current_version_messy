@@ -122,6 +122,18 @@ sister
 suit
 pond
 north |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usagemindwantabandonuniformsistersuitpondnorthbudget |  
+| bip_39_word_no_space_11 | usagemindwantabandonuniformsistersuitpondnorthbudgetmaze |  
+| bip_39_word_no_space_12 | usagemindwantabandonuniformsistersuitpondnorthbudgetmazeapology |  
+| bip_39_word_no_space_2 | usagemind |  
+| bip_39_word_no_space_3 | usagemindwant |  
+| bip_39_word_no_space_4 | usagemindwantabandon |  
+| bip_39_word_no_space_5 | usagemindwantabandonuniform |  
+| bip_39_word_no_space_6 | usagemindwantabandonuniformsister |  
+| bip_39_word_no_space_7 | usagemindwantabandonuniformsistersuit |  
+| bip_39_word_no_space_8 | usagemindwantabandonuniformsistersuitpond |  
+| bip_39_word_no_space_9 | usagemindwantabandonuniformsistersuitpondnorth |  
 | bip_39_word_space_0 | ['usage', 'mind', 'want', 'abandon', 'uniform', 'sister', 'suit', 'pond', 'north', 'budget', 'maze', 'apology'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage mind want abandon uniform sister suit pond north budget |  

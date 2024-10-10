@@ -122,6 +122,18 @@ weird
 island
 entry
 romance |  
+| bip_39_word_no_space_1 | anchor |  
+| bip_39_word_no_space_10 | anchorpeppermatrixregulardivorceweirdislandentryromanceaverage |  
+| bip_39_word_no_space_11 | anchorpeppermatrixregulardivorceweirdislandentryromanceaverageflip |  
+| bip_39_word_no_space_12 | anchorpeppermatrixregulardivorceweirdislandentryromanceaverageflipaccess |  
+| bip_39_word_no_space_2 | anchorpepper |  
+| bip_39_word_no_space_3 | anchorpeppermatrix |  
+| bip_39_word_no_space_4 | anchorpeppermatrixregular |  
+| bip_39_word_no_space_5 | anchorpeppermatrixregulardivorce |  
+| bip_39_word_no_space_6 | anchorpeppermatrixregulardivorceweird |  
+| bip_39_word_no_space_7 | anchorpeppermatrixregulardivorceweirdisland |  
+| bip_39_word_no_space_8 | anchorpeppermatrixregulardivorceweirdislandentry |  
+| bip_39_word_no_space_9 | anchorpeppermatrixregulardivorceweirdislandentryromance |  
 | bip_39_word_space_0 | ['anchor', 'pepper', 'matrix', 'regular', 'divorce', 'weird', 'island', 'entry', 'romance', 'average', 'flip', 'access'] |  
 | bip_39_word_space_1 | anchor |  
 | bip_39_word_space_10 | anchor pepper matrix regular divorce weird island entry romance average |  

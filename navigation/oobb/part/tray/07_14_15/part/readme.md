@@ -122,6 +122,18 @@ spring
 tragic
 turkey
 dash |  
+| bip_39_word_no_space_1 | claw |  
+| bip_39_word_no_space_10 | clawarchjoinoceanhappyspringtragicturkeydashcloth |  
+| bip_39_word_no_space_11 | clawarchjoinoceanhappyspringtragicturkeydashclothparty |  
+| bip_39_word_no_space_12 | clawarchjoinoceanhappyspringtragicturkeydashclothpartyarrow |  
+| bip_39_word_no_space_2 | clawarch |  
+| bip_39_word_no_space_3 | clawarchjoin |  
+| bip_39_word_no_space_4 | clawarchjoinocean |  
+| bip_39_word_no_space_5 | clawarchjoinoceanhappy |  
+| bip_39_word_no_space_6 | clawarchjoinoceanhappyspring |  
+| bip_39_word_no_space_7 | clawarchjoinoceanhappyspringtragic |  
+| bip_39_word_no_space_8 | clawarchjoinoceanhappyspringtragicturkey |  
+| bip_39_word_no_space_9 | clawarchjoinoceanhappyspringtragicturkeydash |  
 | bip_39_word_space_0 | ['claw', 'arch', 'join', 'ocean', 'happy', 'spring', 'tragic', 'turkey', 'dash', 'cloth', 'party', 'arrow'] |  
 | bip_39_word_space_1 | claw |  
 | bip_39_word_space_10 | claw arch join ocean happy spring tragic turkey dash cloth |  

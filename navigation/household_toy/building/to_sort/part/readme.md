@@ -122,6 +122,18 @@ trap
 hello
 spread
 tray |  
+| bip_39_word_no_space_1 | book |  
+| bip_39_word_no_space_10 | bookborrowmazesniffsigntraphellospreadtrayacross |  
+| bip_39_word_no_space_11 | bookborrowmazesniffsigntraphellospreadtrayacrosseasily |  
+| bip_39_word_no_space_12 | bookborrowmazesniffsigntraphellospreadtrayacrosseasilyaspect |  
+| bip_39_word_no_space_2 | bookborrow |  
+| bip_39_word_no_space_3 | bookborrowmaze |  
+| bip_39_word_no_space_4 | bookborrowmazesniff |  
+| bip_39_word_no_space_5 | bookborrowmazesniffsign |  
+| bip_39_word_no_space_6 | bookborrowmazesniffsigntrap |  
+| bip_39_word_no_space_7 | bookborrowmazesniffsigntraphello |  
+| bip_39_word_no_space_8 | bookborrowmazesniffsigntraphellospread |  
+| bip_39_word_no_space_9 | bookborrowmazesniffsigntraphellospreadtray |  
 | bip_39_word_space_0 | ['book', 'borrow', 'maze', 'sniff', 'sign', 'trap', 'hello', 'spread', 'tray', 'across', 'easily', 'aspect'] |  
 | bip_39_word_space_1 | book |  
 | bip_39_word_space_10 | book borrow maze sniff sign trap hello spread tray across |  

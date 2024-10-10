@@ -122,6 +122,18 @@ praise
 simple
 sort
 prevent |  
+| bip_39_word_no_space_1 | foam |  
+| bip_39_word_no_space_10 | foampropertysaltdilemmaactpraisesimplesortpreventcargo |  
+| bip_39_word_no_space_11 | foampropertysaltdilemmaactpraisesimplesortpreventcargoten |  
+| bip_39_word_no_space_12 | foampropertysaltdilemmaactpraisesimplesortpreventcargotenarctic |  
+| bip_39_word_no_space_2 | foamproperty |  
+| bip_39_word_no_space_3 | foampropertysalt |  
+| bip_39_word_no_space_4 | foampropertysaltdilemma |  
+| bip_39_word_no_space_5 | foampropertysaltdilemmaact |  
+| bip_39_word_no_space_6 | foampropertysaltdilemmaactpraise |  
+| bip_39_word_no_space_7 | foampropertysaltdilemmaactpraisesimple |  
+| bip_39_word_no_space_8 | foampropertysaltdilemmaactpraisesimplesort |  
+| bip_39_word_no_space_9 | foampropertysaltdilemmaactpraisesimplesortprevent |  
 | bip_39_word_space_0 | ['foam', 'property', 'salt', 'dilemma', 'act', 'praise', 'simple', 'sort', 'prevent', 'cargo', 'ten', 'arctic'] |  
 | bip_39_word_space_1 | foam |  
 | bip_39_word_space_10 | foam property salt dilemma act praise simple sort prevent cargo |  

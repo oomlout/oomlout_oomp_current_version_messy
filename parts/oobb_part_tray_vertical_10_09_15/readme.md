@@ -122,6 +122,18 @@ crouch
 romance
 law
 trust |  
+| bip_39_word_no_space_1 | volcano |  
+| bip_39_word_no_space_10 | volcanosatoshitrickbriefrepaircrouchromancelawtrustjeans |  
+| bip_39_word_no_space_11 | volcanosatoshitrickbriefrepaircrouchromancelawtrustjeansmobile |  
+| bip_39_word_no_space_12 | volcanosatoshitrickbriefrepaircrouchromancelawtrustjeansmobilealpha |  
+| bip_39_word_no_space_2 | volcanosatoshi |  
+| bip_39_word_no_space_3 | volcanosatoshitrick |  
+| bip_39_word_no_space_4 | volcanosatoshitrickbrief |  
+| bip_39_word_no_space_5 | volcanosatoshitrickbriefrepair |  
+| bip_39_word_no_space_6 | volcanosatoshitrickbriefrepaircrouch |  
+| bip_39_word_no_space_7 | volcanosatoshitrickbriefrepaircrouchromance |  
+| bip_39_word_no_space_8 | volcanosatoshitrickbriefrepaircrouchromancelaw |  
+| bip_39_word_no_space_9 | volcanosatoshitrickbriefrepaircrouchromancelawtrust |  
 | bip_39_word_space_0 | ['volcano', 'satoshi', 'trick', 'brief', 'repair', 'crouch', 'romance', 'law', 'trust', 'jeans', 'mobile', 'alpha'] |  
 | bip_39_word_space_1 | volcano |  
 | bip_39_word_space_10 | volcano satoshi trick brief repair crouch romance law trust jeans |  

@@ -122,6 +122,18 @@ knife
 squeeze
 castle
 roast |  
+| bip_39_word_no_space_1 | bottom |  
+| bip_39_word_no_space_10 | bottomstampcushionupsetneedknifesqueezecastleroastbargain |  
+| bip_39_word_no_space_11 | bottomstampcushionupsetneedknifesqueezecastleroastbargaindash |  
+| bip_39_word_no_space_12 | bottomstampcushionupsetneedknifesqueezecastleroastbargaindashassume |  
+| bip_39_word_no_space_2 | bottomstamp |  
+| bip_39_word_no_space_3 | bottomstampcushion |  
+| bip_39_word_no_space_4 | bottomstampcushionupset |  
+| bip_39_word_no_space_5 | bottomstampcushionupsetneed |  
+| bip_39_word_no_space_6 | bottomstampcushionupsetneedknife |  
+| bip_39_word_no_space_7 | bottomstampcushionupsetneedknifesqueeze |  
+| bip_39_word_no_space_8 | bottomstampcushionupsetneedknifesqueezecastle |  
+| bip_39_word_no_space_9 | bottomstampcushionupsetneedknifesqueezecastleroast |  
 | bip_39_word_space_0 | ['bottom', 'stamp', 'cushion', 'upset', 'need', 'knife', 'squeeze', 'castle', 'roast', 'bargain', 'dash', 'assume'] |  
 | bip_39_word_space_1 | bottom |  
 | bip_39_word_space_10 | bottom stamp cushion upset need knife squeeze castle roast bargain |  

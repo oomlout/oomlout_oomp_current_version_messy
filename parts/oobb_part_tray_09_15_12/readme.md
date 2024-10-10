@@ -122,6 +122,18 @@ member
 discover
 disease
 sleep |  
+| bip_39_word_no_space_1 | swarm |  
+| bip_39_word_no_space_10 | swarmbiologypostclogbluememberdiscoverdiseasesleepcolor |  
+| bip_39_word_no_space_11 | swarmbiologypostclogbluememberdiscoverdiseasesleepcolordevelop |  
+| bip_39_word_no_space_12 | swarmbiologypostclogbluememberdiscoverdiseasesleepcolordevelopaffair |  
+| bip_39_word_no_space_2 | swarmbiology |  
+| bip_39_word_no_space_3 | swarmbiologypost |  
+| bip_39_word_no_space_4 | swarmbiologypostclog |  
+| bip_39_word_no_space_5 | swarmbiologypostclogblue |  
+| bip_39_word_no_space_6 | swarmbiologypostclogbluemember |  
+| bip_39_word_no_space_7 | swarmbiologypostclogbluememberdiscover |  
+| bip_39_word_no_space_8 | swarmbiologypostclogbluememberdiscoverdisease |  
+| bip_39_word_no_space_9 | swarmbiologypostclogbluememberdiscoverdiseasesleep |  
 | bip_39_word_space_0 | ['swarm', 'biology', 'post', 'clog', 'blue', 'member', 'discover', 'disease', 'sleep', 'color', 'develop', 'affair'] |  
 | bip_39_word_space_1 | swarm |  
 | bip_39_word_space_10 | swarm biology post clog blue member discover disease sleep color |  

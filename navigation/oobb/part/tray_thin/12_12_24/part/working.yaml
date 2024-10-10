@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shiver
   job
 
   wool'
+bip_39_word_no_space_1: shiver
+bip_39_word_no_space_10: shiverableopposefliphostluckytopjobwoolalbum
+bip_39_word_no_space_11: shiverableopposefliphostluckytopjobwoolalbumokay
+bip_39_word_no_space_12: shiverableopposefliphostluckytopjobwoolalbumokayangle
+bip_39_word_no_space_2: shiverable
+bip_39_word_no_space_3: shiverableoppose
+bip_39_word_no_space_4: shiverableopposeflip
+bip_39_word_no_space_5: shiverableopposefliphost
+bip_39_word_no_space_6: shiverableopposefliphostlucky
+bip_39_word_no_space_7: shiverableopposefliphostluckytop
+bip_39_word_no_space_8: shiverableopposefliphostluckytopjob
+bip_39_word_no_space_9: shiverableopposefliphostluckytopjobwool
 bip_39_word_space_0:
 - shiver
 - able

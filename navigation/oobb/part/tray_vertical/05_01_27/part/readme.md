@@ -122,6 +122,18 @@ minimum
 obscure
 december
 treat |  
+| bip_39_word_no_space_1 | chest |  
+| bip_39_word_no_space_10 | chestendlesshabitquizreadyminimumobscuredecembertreatuntil |  
+| bip_39_word_no_space_11 | chestendlesshabitquizreadyminimumobscuredecembertreatuntilpenalty |  
+| bip_39_word_no_space_12 | chestendlesshabitquizreadyminimumobscuredecembertreatuntilpenaltyartist |  
+| bip_39_word_no_space_2 | chestendless |  
+| bip_39_word_no_space_3 | chestendlesshabit |  
+| bip_39_word_no_space_4 | chestendlesshabitquiz |  
+| bip_39_word_no_space_5 | chestendlesshabitquizready |  
+| bip_39_word_no_space_6 | chestendlesshabitquizreadyminimum |  
+| bip_39_word_no_space_7 | chestendlesshabitquizreadyminimumobscure |  
+| bip_39_word_no_space_8 | chestendlesshabitquizreadyminimumobscuredecember |  
+| bip_39_word_no_space_9 | chestendlesshabitquizreadyminimumobscuredecembertreat |  
 | bip_39_word_space_0 | ['chest', 'endless', 'habit', 'quiz', 'ready', 'minimum', 'obscure', 'december', 'treat', 'until', 'penalty', 'artist'] |  
 | bip_39_word_space_1 | chest |  
 | bip_39_word_space_10 | chest endless habit quiz ready minimum obscure december treat until |  

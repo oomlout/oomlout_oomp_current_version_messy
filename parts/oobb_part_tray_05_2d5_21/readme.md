@@ -122,6 +122,18 @@ joy
 aisle
 happy
 advice |  
+| bip_39_word_no_space_1 | spot |  
+| bip_39_word_no_space_10 | spotsymptomaccusecasinofamousjoyaislehappyadvicelab |  
+| bip_39_word_no_space_11 | spotsymptomaccusecasinofamousjoyaislehappyadvicelabaway |  
+| bip_39_word_no_space_12 | spotsymptomaccusecasinofamousjoyaislehappyadvicelabawayarmy |  
+| bip_39_word_no_space_2 | spotsymptom |  
+| bip_39_word_no_space_3 | spotsymptomaccuse |  
+| bip_39_word_no_space_4 | spotsymptomaccusecasino |  
+| bip_39_word_no_space_5 | spotsymptomaccusecasinofamous |  
+| bip_39_word_no_space_6 | spotsymptomaccusecasinofamousjoy |  
+| bip_39_word_no_space_7 | spotsymptomaccusecasinofamousjoyaisle |  
+| bip_39_word_no_space_8 | spotsymptomaccusecasinofamousjoyaislehappy |  
+| bip_39_word_no_space_9 | spotsymptomaccusecasinofamousjoyaislehappyadvice |  
 | bip_39_word_space_0 | ['spot', 'symptom', 'accuse', 'casino', 'famous', 'joy', 'aisle', 'happy', 'advice', 'lab', 'away', 'army'] |  
 | bip_39_word_space_1 | spot |  
 | bip_39_word_space_10 | spot symptom accuse casino famous joy aisle happy advice lab |  

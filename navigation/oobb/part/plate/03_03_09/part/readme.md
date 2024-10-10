@@ -122,6 +122,18 @@ tray
 bracket
 spend
 veteran |  
+| bip_39_word_no_space_1 | tone |  
+| bip_39_word_no_space_10 | toneravenwashmandeserttraybracketspendveteranlife |  
+| bip_39_word_no_space_11 | toneravenwashmandeserttraybracketspendveteranlifelucky |  
+| bip_39_word_no_space_12 | toneravenwashmandeserttraybracketspendveteranlifeluckyadvice |  
+| bip_39_word_no_space_2 | toneraven |  
+| bip_39_word_no_space_3 | toneravenwash |  
+| bip_39_word_no_space_4 | toneravenwashman |  
+| bip_39_word_no_space_5 | toneravenwashmandesert |  
+| bip_39_word_no_space_6 | toneravenwashmandeserttray |  
+| bip_39_word_no_space_7 | toneravenwashmandeserttraybracket |  
+| bip_39_word_no_space_8 | toneravenwashmandeserttraybracketspend |  
+| bip_39_word_no_space_9 | toneravenwashmandeserttraybracketspendveteran |  
 | bip_39_word_space_0 | ['tone', 'raven', 'wash', 'man', 'desert', 'tray', 'bracket', 'spend', 'veteran', 'life', 'lucky', 'advice'] |  
 | bip_39_word_space_1 | tone |  
 | bip_39_word_space_10 | tone raven wash man desert tray bracket spend veteran life |  

@@ -122,6 +122,18 @@ mango
 face
 embrace
 notable |  
+| bip_39_word_no_space_1 | debate |  
+| bip_39_word_no_space_10 | debatewallweddingaloneshivermangofaceembracenotableunder |  
+| bip_39_word_no_space_11 | debatewallweddingaloneshivermangofaceembracenotableunderpurchase |  
+| bip_39_word_no_space_12 | debatewallweddingaloneshivermangofaceembracenotableunderpurchaseart |  
+| bip_39_word_no_space_2 | debatewall |  
+| bip_39_word_no_space_3 | debatewallwedding |  
+| bip_39_word_no_space_4 | debatewallweddingalone |  
+| bip_39_word_no_space_5 | debatewallweddingaloneshiver |  
+| bip_39_word_no_space_6 | debatewallweddingaloneshivermango |  
+| bip_39_word_no_space_7 | debatewallweddingaloneshivermangoface |  
+| bip_39_word_no_space_8 | debatewallweddingaloneshivermangofaceembrace |  
+| bip_39_word_no_space_9 | debatewallweddingaloneshivermangofaceembracenotable |  
 | bip_39_word_space_0 | ['debate', 'wall', 'wedding', 'alone', 'shiver', 'mango', 'face', 'embrace', 'notable', 'under', 'purchase', 'art'] |  
 | bip_39_word_space_1 | debate |  
 | bip_39_word_space_10 | debate wall wedding alone shiver mango face embrace notable under |  

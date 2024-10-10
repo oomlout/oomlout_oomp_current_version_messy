@@ -122,6 +122,18 @@ mirror
 destroy
 ginger
 level |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultlampfuelpagegrowmirrordestroygingerlevelsuffer |  
+| bip_39_word_no_space_11 | resultlampfuelpagegrowmirrordestroygingerlevelsufferglass |  
+| bip_39_word_no_space_12 | resultlampfuelpagegrowmirrordestroygingerlevelsufferglassall |  
+| bip_39_word_no_space_2 | resultlamp |  
+| bip_39_word_no_space_3 | resultlampfuel |  
+| bip_39_word_no_space_4 | resultlampfuelpage |  
+| bip_39_word_no_space_5 | resultlampfuelpagegrow |  
+| bip_39_word_no_space_6 | resultlampfuelpagegrowmirror |  
+| bip_39_word_no_space_7 | resultlampfuelpagegrowmirrordestroy |  
+| bip_39_word_no_space_8 | resultlampfuelpagegrowmirrordestroyginger |  
+| bip_39_word_no_space_9 | resultlampfuelpagegrowmirrordestroygingerlevel |  
 | bip_39_word_space_0 | ['result', 'lamp', 'fuel', 'page', 'grow', 'mirror', 'destroy', 'ginger', 'level', 'suffer', 'glass', 'all'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result lamp fuel page grow mirror destroy ginger level suffer |  

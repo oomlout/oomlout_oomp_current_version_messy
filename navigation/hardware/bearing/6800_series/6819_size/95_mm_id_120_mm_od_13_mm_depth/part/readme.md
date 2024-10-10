@@ -122,6 +122,18 @@ steel
 erode
 quiz
 since |  
+| bip_39_word_no_space_1 | response |  
+| bip_39_word_no_space_10 | responseempowercountrycorntrumpetsteelerodequizsincefirst |  
+| bip_39_word_no_space_11 | responseempowercountrycorntrumpetsteelerodequizsincefirstglare |  
+| bip_39_word_no_space_12 | responseempowercountrycorntrumpetsteelerodequizsincefirstglareafraid |  
+| bip_39_word_no_space_2 | responseempower |  
+| bip_39_word_no_space_3 | responseempowercountry |  
+| bip_39_word_no_space_4 | responseempowercountrycorn |  
+| bip_39_word_no_space_5 | responseempowercountrycorntrumpet |  
+| bip_39_word_no_space_6 | responseempowercountrycorntrumpetsteel |  
+| bip_39_word_no_space_7 | responseempowercountrycorntrumpetsteelerode |  
+| bip_39_word_no_space_8 | responseempowercountrycorntrumpetsteelerodequiz |  
+| bip_39_word_no_space_9 | responseempowercountrycorntrumpetsteelerodequizsince |  
 | bip_39_word_space_0 | ['response', 'empower', 'country', 'corn', 'trumpet', 'steel', 'erode', 'quiz', 'since', 'first', 'glare', 'afraid'] |  
 | bip_39_word_space_1 | response |  
 | bip_39_word_space_10 | response empower country corn trumpet steel erode quiz since first |  

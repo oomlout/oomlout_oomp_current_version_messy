@@ -122,6 +122,18 @@ acquire
 van
 truck
 various |  
+| bip_39_word_no_space_1 | setup |  
+| bip_39_word_no_space_10 | setupbachelorproducetrickhamsteracquirevantruckvariousstone |  
+| bip_39_word_no_space_11 | setupbachelorproducetrickhamsteracquirevantruckvariousstonegift |  
+| bip_39_word_no_space_12 | setupbachelorproducetrickhamsteracquirevantruckvariousstonegiftany |  
+| bip_39_word_no_space_2 | setupbachelor |  
+| bip_39_word_no_space_3 | setupbachelorproduce |  
+| bip_39_word_no_space_4 | setupbachelorproducetrick |  
+| bip_39_word_no_space_5 | setupbachelorproducetrickhamster |  
+| bip_39_word_no_space_6 | setupbachelorproducetrickhamsteracquire |  
+| bip_39_word_no_space_7 | setupbachelorproducetrickhamsteracquirevan |  
+| bip_39_word_no_space_8 | setupbachelorproducetrickhamsteracquirevantruck |  
+| bip_39_word_no_space_9 | setupbachelorproducetrickhamsteracquirevantruckvarious |  
 | bip_39_word_space_0 | ['setup', 'bachelor', 'produce', 'trick', 'hamster', 'acquire', 'van', 'truck', 'various', 'stone', 'gift', 'any'] |  
 | bip_39_word_space_1 | setup |  
 | bip_39_word_space_10 | setup bachelor produce trick hamster acquire van truck various stone |  

@@ -122,6 +122,18 @@ toe
 stumble
 design
 assist |  
+| bip_39_word_no_space_1 | task |  
+| bip_39_word_no_space_10 | taskvitalerasefosternapkintoestumbledesignassistengage |  
+| bip_39_word_no_space_11 | taskvitalerasefosternapkintoestumbledesignassistengagemilk |  
+| bip_39_word_no_space_12 | taskvitalerasefosternapkintoestumbledesignassistengagemilkapril |  
+| bip_39_word_no_space_2 | taskvital |  
+| bip_39_word_no_space_3 | taskvitalerase |  
+| bip_39_word_no_space_4 | taskvitalerasefoster |  
+| bip_39_word_no_space_5 | taskvitalerasefosternapkin |  
+| bip_39_word_no_space_6 | taskvitalerasefosternapkintoe |  
+| bip_39_word_no_space_7 | taskvitalerasefosternapkintoestumble |  
+| bip_39_word_no_space_8 | taskvitalerasefosternapkintoestumbledesign |  
+| bip_39_word_no_space_9 | taskvitalerasefosternapkintoestumbledesignassist |  
 | bip_39_word_space_0 | ['task', 'vital', 'erase', 'foster', 'napkin', 'toe', 'stumble', 'design', 'assist', 'engage', 'milk', 'april'] |  
 | bip_39_word_space_1 | task |  
 | bip_39_word_space_10 | task vital erase foster napkin toe stumble design assist engage |  

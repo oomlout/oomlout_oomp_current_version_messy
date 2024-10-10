@@ -122,6 +122,18 @@ table
 neutral
 staff
 forward |  
+| bip_39_word_no_space_1 | sort |  
+| bip_39_word_no_space_10 | sortpledgelaterstoryalonetableneutralstaffforwardconvince |  
+| bip_39_word_no_space_11 | sortpledgelaterstoryalonetableneutralstaffforwardconvincevisual |  
+| bip_39_word_no_space_12 | sortpledgelaterstoryalonetableneutralstaffforwardconvincevisualage |  
+| bip_39_word_no_space_2 | sortpledge |  
+| bip_39_word_no_space_3 | sortpledgelater |  
+| bip_39_word_no_space_4 | sortpledgelaterstory |  
+| bip_39_word_no_space_5 | sortpledgelaterstoryalone |  
+| bip_39_word_no_space_6 | sortpledgelaterstoryalonetable |  
+| bip_39_word_no_space_7 | sortpledgelaterstoryalonetableneutral |  
+| bip_39_word_no_space_8 | sortpledgelaterstoryalonetableneutralstaff |  
+| bip_39_word_no_space_9 | sortpledgelaterstoryalonetableneutralstaffforward |  
 | bip_39_word_space_0 | ['sort', 'pledge', 'later', 'story', 'alone', 'table', 'neutral', 'staff', 'forward', 'convince', 'visual', 'age'] |  
 | bip_39_word_space_1 | sort |  
 | bip_39_word_space_10 | sort pledge later story alone table neutral staff forward convince |  

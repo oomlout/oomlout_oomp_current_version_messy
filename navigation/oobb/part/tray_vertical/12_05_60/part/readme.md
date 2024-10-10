@@ -122,6 +122,18 @@ inflict
 toy
 blast
 sorry |  
+| bip_39_word_no_space_1 | follow |  
+| bip_39_word_no_space_10 | followfaceeruptsurroundmarketinflicttoyblastsorryedit |  
+| bip_39_word_no_space_11 | followfaceeruptsurroundmarketinflicttoyblastsorryeditright |  
+| bip_39_word_no_space_12 | followfaceeruptsurroundmarketinflicttoyblastsorryeditrightaddict |  
+| bip_39_word_no_space_2 | followface |  
+| bip_39_word_no_space_3 | followfaceerupt |  
+| bip_39_word_no_space_4 | followfaceeruptsurround |  
+| bip_39_word_no_space_5 | followfaceeruptsurroundmarket |  
+| bip_39_word_no_space_6 | followfaceeruptsurroundmarketinflict |  
+| bip_39_word_no_space_7 | followfaceeruptsurroundmarketinflicttoy |  
+| bip_39_word_no_space_8 | followfaceeruptsurroundmarketinflicttoyblast |  
+| bip_39_word_no_space_9 | followfaceeruptsurroundmarketinflicttoyblastsorry |  
 | bip_39_word_space_0 | ['follow', 'face', 'erupt', 'surround', 'market', 'inflict', 'toy', 'blast', 'sorry', 'edit', 'right', 'addict'] |  
 | bip_39_word_space_1 | follow |  
 | bip_39_word_space_10 | follow face erupt surround market inflict toy blast sorry edit |  

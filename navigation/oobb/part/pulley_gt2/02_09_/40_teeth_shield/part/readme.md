@@ -122,6 +122,18 @@ genuine
 suffer
 material
 tumble |  
+| bip_39_word_no_space_1 | chuckle |  
+| bip_39_word_no_space_10 | chucklespinhiddenreunioncablegenuinesuffermaterialtumblelawn |  
+| bip_39_word_no_space_11 | chucklespinhiddenreunioncablegenuinesuffermaterialtumblelawnpoem |  
+| bip_39_word_no_space_12 | chucklespinhiddenreunioncablegenuinesuffermaterialtumblelawnpoemauthor |  
+| bip_39_word_no_space_2 | chucklespin |  
+| bip_39_word_no_space_3 | chucklespinhidden |  
+| bip_39_word_no_space_4 | chucklespinhiddenreunion |  
+| bip_39_word_no_space_5 | chucklespinhiddenreunioncable |  
+| bip_39_word_no_space_6 | chucklespinhiddenreunioncablegenuine |  
+| bip_39_word_no_space_7 | chucklespinhiddenreunioncablegenuinesuffer |  
+| bip_39_word_no_space_8 | chucklespinhiddenreunioncablegenuinesuffermaterial |  
+| bip_39_word_no_space_9 | chucklespinhiddenreunioncablegenuinesuffermaterialtumble |  
 | bip_39_word_space_0 | ['chuckle', 'spin', 'hidden', 'reunion', 'cable', 'genuine', 'suffer', 'material', 'tumble', 'lawn', 'poem', 'author'] |  
 | bip_39_word_space_1 | chuckle |  
 | bip_39_word_space_10 | chuckle spin hidden reunion cable genuine suffer material tumble lawn |  

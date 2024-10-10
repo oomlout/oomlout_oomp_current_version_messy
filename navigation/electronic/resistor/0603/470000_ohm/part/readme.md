@@ -122,6 +122,18 @@ common
 curtain
 spin
 retreat |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offanotherarrestrebeltrendcommoncurtainspinretreatabout |  
+| bip_39_word_no_space_11 | offanotherarrestrebeltrendcommoncurtainspinretreataboutcross |  
+| bip_39_word_no_space_12 | offanotherarrestrebeltrendcommoncurtainspinretreataboutcrossautumn |  
+| bip_39_word_no_space_2 | offanother |  
+| bip_39_word_no_space_3 | offanotherarrest |  
+| bip_39_word_no_space_4 | offanotherarrestrebel |  
+| bip_39_word_no_space_5 | offanotherarrestrebeltrend |  
+| bip_39_word_no_space_6 | offanotherarrestrebeltrendcommon |  
+| bip_39_word_no_space_7 | offanotherarrestrebeltrendcommoncurtain |  
+| bip_39_word_no_space_8 | offanotherarrestrebeltrendcommoncurtainspin |  
+| bip_39_word_no_space_9 | offanotherarrestrebeltrendcommoncurtainspinretreat |  
 | bip_39_word_space_0 | ['off', 'another', 'arrest', 'rebel', 'trend', 'common', 'curtain', 'spin', 'retreat', 'about', 'cross', 'autumn'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off another arrest rebel trend common curtain spin retreat about |  

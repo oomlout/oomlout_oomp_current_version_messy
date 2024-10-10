@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'latin
   phone
 
   weird'
+bip_39_word_no_space_1: latin
+bip_39_word_no_space_10: latineageryellowrecalljuicepagefuelphoneweirdliberty
+bip_39_word_no_space_11: latineageryellowrecalljuicepagefuelphoneweirdlibertysleep
+bip_39_word_no_space_12: latineageryellowrecalljuicepagefuelphoneweirdlibertysleepatom
+bip_39_word_no_space_2: latineager
+bip_39_word_no_space_3: latineageryellow
+bip_39_word_no_space_4: latineageryellowrecall
+bip_39_word_no_space_5: latineageryellowrecalljuice
+bip_39_word_no_space_6: latineageryellowrecalljuicepage
+bip_39_word_no_space_7: latineageryellowrecalljuicepagefuel
+bip_39_word_no_space_8: latineageryellowrecalljuicepagefuelphone
+bip_39_word_no_space_9: latineageryellowrecalljuicepagefuelphoneweird
 bip_39_word_space_0:
 - latin
 - eager

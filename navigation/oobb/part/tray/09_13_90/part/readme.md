@@ -122,6 +122,18 @@ claw
 ski
 make
 staff |  
+| bip_39_word_no_space_1 | brand |  
+| bip_39_word_no_space_10 | brandempowerwhalecoastcomicclawskimakestaffwhisper |  
+| bip_39_word_no_space_11 | brandempowerwhalecoastcomicclawskimakestaffwhispergloom |  
+| bip_39_word_no_space_12 | brandempowerwhalecoastcomicclawskimakestaffwhispergloomaddict |  
+| bip_39_word_no_space_2 | brandempower |  
+| bip_39_word_no_space_3 | brandempowerwhale |  
+| bip_39_word_no_space_4 | brandempowerwhalecoast |  
+| bip_39_word_no_space_5 | brandempowerwhalecoastcomic |  
+| bip_39_word_no_space_6 | brandempowerwhalecoastcomicclaw |  
+| bip_39_word_no_space_7 | brandempowerwhalecoastcomicclawski |  
+| bip_39_word_no_space_8 | brandempowerwhalecoastcomicclawskimake |  
+| bip_39_word_no_space_9 | brandempowerwhalecoastcomicclawskimakestaff |  
 | bip_39_word_space_0 | ['brand', 'empower', 'whale', 'coast', 'comic', 'claw', 'ski', 'make', 'staff', 'whisper', 'gloom', 'addict'] |  
 | bip_39_word_space_1 | brand |  
 | bip_39_word_space_10 | brand empower whale coast comic claw ski make staff whisper |  

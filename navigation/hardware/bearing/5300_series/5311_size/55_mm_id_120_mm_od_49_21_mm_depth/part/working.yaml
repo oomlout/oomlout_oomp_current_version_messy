@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'odor
   settle
 
   wear'
+bip_39_word_no_space_1: odor
+bip_39_word_no_space_10: odorbottomcauseorangesystemimitatecubesettlewearsocial
+bip_39_word_no_space_11: odorbottomcauseorangesystemimitatecubesettlewearsocialmelody
+bip_39_word_no_space_12: odorbottomcauseorangesystemimitatecubesettlewearsocialmelodyair
+bip_39_word_no_space_2: odorbottom
+bip_39_word_no_space_3: odorbottomcause
+bip_39_word_no_space_4: odorbottomcauseorange
+bip_39_word_no_space_5: odorbottomcauseorangesystem
+bip_39_word_no_space_6: odorbottomcauseorangesystemimitate
+bip_39_word_no_space_7: odorbottomcauseorangesystemimitatecube
+bip_39_word_no_space_8: odorbottomcauseorangesystemimitatecubesettle
+bip_39_word_no_space_9: odorbottomcauseorangesystemimitatecubesettlewear
 bip_39_word_space_0:
 - odor
 - bottom

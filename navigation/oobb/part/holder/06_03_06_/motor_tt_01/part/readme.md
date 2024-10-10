@@ -122,6 +122,18 @@ accuse
 horse
 reason
 bullet |  
+| bip_39_word_no_space_1 | shiver |  
+| bip_39_word_no_space_10 | shiverswallownumberenterdayaccusehorsereasonbulletorgan |  
+| bip_39_word_no_space_11 | shiverswallownumberenterdayaccusehorsereasonbulletorgansibling |  
+| bip_39_word_no_space_12 | shiverswallownumberenterdayaccusehorsereasonbulletorgansiblingattitude |  
+| bip_39_word_no_space_2 | shiverswallow |  
+| bip_39_word_no_space_3 | shiverswallownumber |  
+| bip_39_word_no_space_4 | shiverswallownumberenter |  
+| bip_39_word_no_space_5 | shiverswallownumberenterday |  
+| bip_39_word_no_space_6 | shiverswallownumberenterdayaccuse |  
+| bip_39_word_no_space_7 | shiverswallownumberenterdayaccusehorse |  
+| bip_39_word_no_space_8 | shiverswallownumberenterdayaccusehorsereason |  
+| bip_39_word_no_space_9 | shiverswallownumberenterdayaccusehorsereasonbullet |  
 | bip_39_word_space_0 | ['shiver', 'swallow', 'number', 'enter', 'day', 'accuse', 'horse', 'reason', 'bullet', 'organ', 'sibling', 'attitude'] |  
 | bip_39_word_space_1 | shiver |  
 | bip_39_word_space_10 | shiver swallow number enter day accuse horse reason bullet organ |  

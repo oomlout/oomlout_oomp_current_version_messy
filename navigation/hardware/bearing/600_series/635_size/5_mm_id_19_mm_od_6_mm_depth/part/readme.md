@@ -122,6 +122,18 @@ month
 bulb
 kangaroo
 brain |  
+| bip_39_word_no_space_1 | scrub |  
+| bip_39_word_no_space_10 | scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoney |  
+| bip_39_word_no_space_11 | scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoneywife |  
+| bip_39_word_no_space_12 | scrubjaguarderiveavocadoeaglemonthbulbkangaroobrainhoneywifeappear |  
+| bip_39_word_no_space_2 | scrubjaguar |  
+| bip_39_word_no_space_3 | scrubjaguarderive |  
+| bip_39_word_no_space_4 | scrubjaguarderiveavocado |  
+| bip_39_word_no_space_5 | scrubjaguarderiveavocadoeagle |  
+| bip_39_word_no_space_6 | scrubjaguarderiveavocadoeaglemonth |  
+| bip_39_word_no_space_7 | scrubjaguarderiveavocadoeaglemonthbulb |  
+| bip_39_word_no_space_8 | scrubjaguarderiveavocadoeaglemonthbulbkangaroo |  
+| bip_39_word_no_space_9 | scrubjaguarderiveavocadoeaglemonthbulbkangaroobrain |  
 | bip_39_word_space_0 | ['scrub', 'jaguar', 'derive', 'avocado', 'eagle', 'month', 'bulb', 'kangaroo', 'brain', 'honey', 'wife', 'appear'] |  
 | bip_39_word_space_1 | scrub |  
 | bip_39_word_space_10 | scrub jaguar derive avocado eagle month bulb kangaroo brain honey |  

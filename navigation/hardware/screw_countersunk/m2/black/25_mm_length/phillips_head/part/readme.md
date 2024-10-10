@@ -122,6 +122,18 @@ will
 couch
 water
 try |  
+| bip_39_word_no_space_1 | away |  
+| bip_39_word_no_space_10 | awaynowmathgridjumpwillcouchwatertryspray |  
+| bip_39_word_no_space_11 | awaynowmathgridjumpwillcouchwatertryspraymarble |  
+| bip_39_word_no_space_12 | awaynowmathgridjumpwillcouchwatertryspraymarbleabuse |  
+| bip_39_word_no_space_2 | awaynow |  
+| bip_39_word_no_space_3 | awaynowmath |  
+| bip_39_word_no_space_4 | awaynowmathgrid |  
+| bip_39_word_no_space_5 | awaynowmathgridjump |  
+| bip_39_word_no_space_6 | awaynowmathgridjumpwill |  
+| bip_39_word_no_space_7 | awaynowmathgridjumpwillcouch |  
+| bip_39_word_no_space_8 | awaynowmathgridjumpwillcouchwater |  
+| bip_39_word_no_space_9 | awaynowmathgridjumpwillcouchwatertry |  
 | bip_39_word_space_0 | ['away', 'now', 'math', 'grid', 'jump', 'will', 'couch', 'water', 'try', 'spray', 'marble', 'abuse'] |  
 | bip_39_word_space_1 | away |  
 | bip_39_word_space_10 | away now math grid jump will couch water try spray |  

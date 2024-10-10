@@ -109,6 +109,17 @@ upgrade
 nurse
 near
 exit |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipslushgadgettimewinkupgradenursenearexitcouch |  
+| bip_39_word_no_space_11 | shipslushgadgettimewinkupgradenursenearexitcouchvast |  
+| bip_39_word_no_space_2 | shipslush |  
+| bip_39_word_no_space_3 | shipslushgadget |  
+| bip_39_word_no_space_4 | shipslushgadgettime |  
+| bip_39_word_no_space_5 | shipslushgadgettimewink |  
+| bip_39_word_no_space_6 | shipslushgadgettimewinkupgrade |  
+| bip_39_word_no_space_7 | shipslushgadgettimewinkupgradenurse |  
+| bip_39_word_no_space_8 | shipslushgadgettimewinkupgradenursenear |  
+| bip_39_word_no_space_9 | shipslushgadgettimewinkupgradenursenearexit |  
 | bip_39_word_space_0 | ['ship', 'slush', 'gadget', 'time', 'wink', 'upgrade', 'nurse', 'near', 'exit', 'couch', 'vast'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship slush gadget time wink upgrade nurse near exit couch |  

@@ -122,6 +122,18 @@ champion
 dice
 helmet
 path |  
+| bip_39_word_no_space_1 | quote |  
+| bip_39_word_no_space_10 | quotepiginfantroofmuseumchampiondicehelmetpathincrease |  
+| bip_39_word_no_space_11 | quotepiginfantroofmuseumchampiondicehelmetpathincreaseimprove |  
+| bip_39_word_no_space_12 | quotepiginfantroofmuseumchampiondicehelmetpathincreaseimproveapart |  
+| bip_39_word_no_space_2 | quotepig |  
+| bip_39_word_no_space_3 | quotepiginfant |  
+| bip_39_word_no_space_4 | quotepiginfantroof |  
+| bip_39_word_no_space_5 | quotepiginfantroofmuseum |  
+| bip_39_word_no_space_6 | quotepiginfantroofmuseumchampion |  
+| bip_39_word_no_space_7 | quotepiginfantroofmuseumchampiondice |  
+| bip_39_word_no_space_8 | quotepiginfantroofmuseumchampiondicehelmet |  
+| bip_39_word_no_space_9 | quotepiginfantroofmuseumchampiondicehelmetpath |  
 | bip_39_word_space_0 | ['quote', 'pig', 'infant', 'roof', 'museum', 'champion', 'dice', 'helmet', 'path', 'increase', 'improve', 'apart'] |  
 | bip_39_word_space_1 | quote |  
 | bip_39_word_space_10 | quote pig infant roof museum champion dice helmet path increase |  

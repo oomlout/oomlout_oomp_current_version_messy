@@ -122,6 +122,18 @@ anger
 fit
 afraid
 draw |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairflatvelvetcrunchableangerfitafraiddrawharbor |  
+| bip_39_word_no_space_11 | repairflatvelvetcrunchableangerfitafraiddrawharbordust |  
+| bip_39_word_no_space_12 | repairflatvelvetcrunchableangerfitafraiddrawharbordustarrange |  
+| bip_39_word_no_space_2 | repairflat |  
+| bip_39_word_no_space_3 | repairflatvelvet |  
+| bip_39_word_no_space_4 | repairflatvelvetcrunch |  
+| bip_39_word_no_space_5 | repairflatvelvetcrunchable |  
+| bip_39_word_no_space_6 | repairflatvelvetcrunchableanger |  
+| bip_39_word_no_space_7 | repairflatvelvetcrunchableangerfit |  
+| bip_39_word_no_space_8 | repairflatvelvetcrunchableangerfitafraid |  
+| bip_39_word_no_space_9 | repairflatvelvetcrunchableangerfitafraiddraw |  
 | bip_39_word_space_0 | ['repair', 'flat', 'velvet', 'crunch', 'able', 'anger', 'fit', 'afraid', 'draw', 'harbor', 'dust', 'arrange'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair flat velvet crunch able anger fit afraid draw harbor |  

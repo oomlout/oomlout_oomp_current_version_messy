@@ -122,6 +122,18 @@ cloud
 misery
 owner
 giggle |  
+| bip_39_word_no_space_1 | march |  
+| bip_39_word_no_space_10 | marchstaffrecallpulpeggcloudmiseryownergiggleecho |  
+| bip_39_word_no_space_11 | marchstaffrecallpulpeggcloudmiseryownergiggleechosystem |  
+| bip_39_word_no_space_12 | marchstaffrecallpulpeggcloudmiseryownergiggleechosystemalter |  
+| bip_39_word_no_space_2 | marchstaff |  
+| bip_39_word_no_space_3 | marchstaffrecall |  
+| bip_39_word_no_space_4 | marchstaffrecallpulp |  
+| bip_39_word_no_space_5 | marchstaffrecallpulpegg |  
+| bip_39_word_no_space_6 | marchstaffrecallpulpeggcloud |  
+| bip_39_word_no_space_7 | marchstaffrecallpulpeggcloudmisery |  
+| bip_39_word_no_space_8 | marchstaffrecallpulpeggcloudmiseryowner |  
+| bip_39_word_no_space_9 | marchstaffrecallpulpeggcloudmiseryownergiggle |  
 | bip_39_word_space_0 | ['march', 'staff', 'recall', 'pulp', 'egg', 'cloud', 'misery', 'owner', 'giggle', 'echo', 'system', 'alter'] |  
 | bip_39_word_space_1 | march |  
 | bip_39_word_space_10 | march staff recall pulp egg cloud misery owner giggle echo |  

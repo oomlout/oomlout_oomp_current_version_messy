@@ -122,6 +122,18 @@ acid
 visual
 same
 mad |  
+| bip_39_word_no_space_1 | menu |  
+| bip_39_word_no_space_10 | menutermshipstudentaimacidvisualsamemadfirm |  
+| bip_39_word_no_space_11 | menutermshipstudentaimacidvisualsamemadfirmfound |  
+| bip_39_word_no_space_12 | menutermshipstudentaimacidvisualsamemadfirmfoundanxiety |  
+| bip_39_word_no_space_2 | menuterm |  
+| bip_39_word_no_space_3 | menutermship |  
+| bip_39_word_no_space_4 | menutermshipstudent |  
+| bip_39_word_no_space_5 | menutermshipstudentaim |  
+| bip_39_word_no_space_6 | menutermshipstudentaimacid |  
+| bip_39_word_no_space_7 | menutermshipstudentaimacidvisual |  
+| bip_39_word_no_space_8 | menutermshipstudentaimacidvisualsame |  
+| bip_39_word_no_space_9 | menutermshipstudentaimacidvisualsamemad |  
 | bip_39_word_space_0 | ['menu', 'term', 'ship', 'student', 'aim', 'acid', 'visual', 'same', 'mad', 'firm', 'found', 'anxiety'] |  
 | bip_39_word_space_1 | menu |  
 | bip_39_word_space_10 | menu term ship student aim acid visual same mad firm |  

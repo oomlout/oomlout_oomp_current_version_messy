@@ -122,6 +122,18 @@ split
 stomach
 now
 thrive |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistshopreunioncampsweetsplitstomachnowthriveice |  
+| bip_39_word_no_space_11 | resistshopreunioncampsweetsplitstomachnowthriveiceshoulder |  
+| bip_39_word_no_space_12 | resistshopreunioncampsweetsplitstomachnowthriveiceshoulderankle |  
+| bip_39_word_no_space_2 | resistshop |  
+| bip_39_word_no_space_3 | resistshopreunion |  
+| bip_39_word_no_space_4 | resistshopreunioncamp |  
+| bip_39_word_no_space_5 | resistshopreunioncampsweet |  
+| bip_39_word_no_space_6 | resistshopreunioncampsweetsplit |  
+| bip_39_word_no_space_7 | resistshopreunioncampsweetsplitstomach |  
+| bip_39_word_no_space_8 | resistshopreunioncampsweetsplitstomachnow |  
+| bip_39_word_no_space_9 | resistshopreunioncampsweetsplitstomachnowthrive |  
 | bip_39_word_space_0 | ['resist', 'shop', 'reunion', 'camp', 'sweet', 'split', 'stomach', 'now', 'thrive', 'ice', 'shoulder', 'ankle'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist shop reunion camp sweet split stomach now thrive ice |  

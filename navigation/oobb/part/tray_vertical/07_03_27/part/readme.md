@@ -122,6 +122,18 @@ burden
 chair
 olympic
 reduce |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directsessionshipsnacktennisburdenchairolympicreducehour |  
+| bip_39_word_no_space_11 | directsessionshipsnacktennisburdenchairolympicreducehournasty |  
+| bip_39_word_no_space_12 | directsessionshipsnacktennisburdenchairolympicreducehournastyapprove |  
+| bip_39_word_no_space_2 | directsession |  
+| bip_39_word_no_space_3 | directsessionship |  
+| bip_39_word_no_space_4 | directsessionshipsnack |  
+| bip_39_word_no_space_5 | directsessionshipsnacktennis |  
+| bip_39_word_no_space_6 | directsessionshipsnacktennisburden |  
+| bip_39_word_no_space_7 | directsessionshipsnacktennisburdenchair |  
+| bip_39_word_no_space_8 | directsessionshipsnacktennisburdenchairolympic |  
+| bip_39_word_no_space_9 | directsessionshipsnacktennisburdenchairolympicreduce |  
 | bip_39_word_space_0 | ['direct', 'session', 'ship', 'snack', 'tennis', 'burden', 'chair', 'olympic', 'reduce', 'hour', 'nasty', 'approve'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct session ship snack tennis burden chair olympic reduce hour |  

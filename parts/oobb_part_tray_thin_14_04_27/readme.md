@@ -122,6 +122,18 @@ joke
 favorite
 team
 silly |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | canepisodedemisebrownacquirejokefavoriteteamsillycross |  
+| bip_39_word_no_space_11 | canepisodedemisebrownacquirejokefavoriteteamsillycrosswest |  
+| bip_39_word_no_space_12 | canepisodedemisebrownacquirejokefavoriteteamsillycrosswestarea |  
+| bip_39_word_no_space_2 | canepisode |  
+| bip_39_word_no_space_3 | canepisodedemise |  
+| bip_39_word_no_space_4 | canepisodedemisebrown |  
+| bip_39_word_no_space_5 | canepisodedemisebrownacquire |  
+| bip_39_word_no_space_6 | canepisodedemisebrownacquirejoke |  
+| bip_39_word_no_space_7 | canepisodedemisebrownacquirejokefavorite |  
+| bip_39_word_no_space_8 | canepisodedemisebrownacquirejokefavoriteteam |  
+| bip_39_word_no_space_9 | canepisodedemisebrownacquirejokefavoriteteamsilly |  
 | bip_39_word_space_0 | ['can', 'episode', 'demise', 'brown', 'acquire', 'joke', 'favorite', 'team', 'silly', 'cross', 'west', 'area'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can episode demise brown acquire joke favorite team silly cross |  

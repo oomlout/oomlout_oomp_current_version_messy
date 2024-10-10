@@ -122,6 +122,18 @@ ready
 satoshi
 pear
 staff |  
+| bip_39_word_no_space_1 | protect |  
+| bip_39_word_no_space_10 | protectcoraliceratetermreadysatoshipearstaffathlete |  
+| bip_39_word_no_space_11 | protectcoraliceratetermreadysatoshipearstaffathleteanalyst |  
+| bip_39_word_no_space_12 | protectcoraliceratetermreadysatoshipearstaffathleteanalystannounce |  
+| bip_39_word_no_space_2 | protectcoral |  
+| bip_39_word_no_space_3 | protectcoralice |  
+| bip_39_word_no_space_4 | protectcoralicerate |  
+| bip_39_word_no_space_5 | protectcoralicerateterm |  
+| bip_39_word_no_space_6 | protectcoraliceratetermready |  
+| bip_39_word_no_space_7 | protectcoraliceratetermreadysatoshi |  
+| bip_39_word_no_space_8 | protectcoraliceratetermreadysatoshipear |  
+| bip_39_word_no_space_9 | protectcoraliceratetermreadysatoshipearstaff |  
 | bip_39_word_space_0 | ['protect', 'coral', 'ice', 'rate', 'term', 'ready', 'satoshi', 'pear', 'staff', 'athlete', 'analyst', 'announce'] |  
 | bip_39_word_space_1 | protect |  
 | bip_39_word_space_10 | protect coral ice rate term ready satoshi pear staff athlete |  

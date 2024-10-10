@@ -122,6 +122,18 @@ sight
 earn
 main
 meat |  
+| bip_39_word_no_space_1 | release |  
+| bip_39_word_no_space_10 | releaseevilsplitclogliftsightearnmainmeatuniform |  
+| bip_39_word_no_space_11 | releaseevilsplitclogliftsightearnmainmeatuniformcricket |  
+| bip_39_word_no_space_12 | releaseevilsplitclogliftsightearnmainmeatuniformcricketadult |  
+| bip_39_word_no_space_2 | releaseevil |  
+| bip_39_word_no_space_3 | releaseevilsplit |  
+| bip_39_word_no_space_4 | releaseevilsplitclog |  
+| bip_39_word_no_space_5 | releaseevilsplitcloglift |  
+| bip_39_word_no_space_6 | releaseevilsplitclogliftsight |  
+| bip_39_word_no_space_7 | releaseevilsplitclogliftsightearn |  
+| bip_39_word_no_space_8 | releaseevilsplitclogliftsightearnmain |  
+| bip_39_word_no_space_9 | releaseevilsplitclogliftsightearnmainmeat |  
 | bip_39_word_space_0 | ['release', 'evil', 'split', 'clog', 'lift', 'sight', 'earn', 'main', 'meat', 'uniform', 'cricket', 'adult'] |  
 | bip_39_word_space_1 | release |  
 | bip_39_word_space_10 | release evil split clog lift sight earn main meat uniform |  

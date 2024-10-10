@@ -122,6 +122,18 @@ urge
 strategy
 history
 valid |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bosstravelriskelevatorstereourgestrategyhistoryvalidabsorb |  
+| bip_39_word_no_space_11 | bosstravelriskelevatorstereourgestrategyhistoryvalidabsorbbubble |  
+| bip_39_word_no_space_12 | bosstravelriskelevatorstereourgestrategyhistoryvalidabsorbbubbleaddress |  
+| bip_39_word_no_space_2 | bosstravel |  
+| bip_39_word_no_space_3 | bosstravelrisk |  
+| bip_39_word_no_space_4 | bosstravelriskelevator |  
+| bip_39_word_no_space_5 | bosstravelriskelevatorstereo |  
+| bip_39_word_no_space_6 | bosstravelriskelevatorstereourge |  
+| bip_39_word_no_space_7 | bosstravelriskelevatorstereourgestrategy |  
+| bip_39_word_no_space_8 | bosstravelriskelevatorstereourgestrategyhistory |  
+| bip_39_word_no_space_9 | bosstravelriskelevatorstereourgestrategyhistoryvalid |  
 | bip_39_word_space_0 | ['boss', 'travel', 'risk', 'elevator', 'stereo', 'urge', 'strategy', 'history', 'valid', 'absorb', 'bubble', 'address'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss travel risk elevator stereo urge strategy history valid absorb |  

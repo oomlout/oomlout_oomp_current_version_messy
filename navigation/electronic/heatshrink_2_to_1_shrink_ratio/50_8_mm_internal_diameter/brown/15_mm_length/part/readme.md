@@ -122,6 +122,18 @@ author
 famous
 tackle
 animal |  
+| bip_39_word_no_space_1 | amused |  
+| bip_39_word_no_space_10 | amusedfitdadbulletcriticauthorfamoustackleanimalspace |  
+| bip_39_word_no_space_11 | amusedfitdadbulletcriticauthorfamoustackleanimalspaceamong |  
+| bip_39_word_no_space_12 | amusedfitdadbulletcriticauthorfamoustackleanimalspaceamongapple |  
+| bip_39_word_no_space_2 | amusedfit |  
+| bip_39_word_no_space_3 | amusedfitdad |  
+| bip_39_word_no_space_4 | amusedfitdadbullet |  
+| bip_39_word_no_space_5 | amusedfitdadbulletcritic |  
+| bip_39_word_no_space_6 | amusedfitdadbulletcriticauthor |  
+| bip_39_word_no_space_7 | amusedfitdadbulletcriticauthorfamous |  
+| bip_39_word_no_space_8 | amusedfitdadbulletcriticauthorfamoustackle |  
+| bip_39_word_no_space_9 | amusedfitdadbulletcriticauthorfamoustackleanimal |  
 | bip_39_word_space_0 | ['amused', 'fit', 'dad', 'bullet', 'critic', 'author', 'famous', 'tackle', 'animal', 'space', 'among', 'apple'] |  
 | bip_39_word_space_1 | amused |  
 | bip_39_word_space_10 | amused fit dad bullet critic author famous tackle animal space |  

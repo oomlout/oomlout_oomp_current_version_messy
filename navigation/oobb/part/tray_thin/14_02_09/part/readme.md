@@ -122,6 +122,18 @@ crucial
 hope
 want
 ginger |  
+| bip_39_word_no_space_1 | rack |  
+| bip_39_word_no_space_10 | rackeruptinmateinneractorcrucialhopewantgingerunknown |  
+| bip_39_word_no_space_11 | rackeruptinmateinneractorcrucialhopewantgingerunknownfine |  
+| bip_39_word_no_space_12 | rackeruptinmateinneractorcrucialhopewantgingerunknownfineaction |  
+| bip_39_word_no_space_2 | rackerupt |  
+| bip_39_word_no_space_3 | rackeruptinmate |  
+| bip_39_word_no_space_4 | rackeruptinmateinner |  
+| bip_39_word_no_space_5 | rackeruptinmateinneractor |  
+| bip_39_word_no_space_6 | rackeruptinmateinneractorcrucial |  
+| bip_39_word_no_space_7 | rackeruptinmateinneractorcrucialhope |  
+| bip_39_word_no_space_8 | rackeruptinmateinneractorcrucialhopewant |  
+| bip_39_word_no_space_9 | rackeruptinmateinneractorcrucialhopewantginger |  
 | bip_39_word_space_0 | ['rack', 'erupt', 'inmate', 'inner', 'actor', 'crucial', 'hope', 'want', 'ginger', 'unknown', 'fine', 'action'] |  
 | bip_39_word_space_1 | rack |  
 | bip_39_word_space_10 | rack erupt inmate inner actor crucial hope want ginger unknown |  

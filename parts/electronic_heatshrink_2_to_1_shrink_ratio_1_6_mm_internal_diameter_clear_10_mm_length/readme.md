@@ -122,6 +122,18 @@ able
 foam
 problem
 certain |  
+| bip_39_word_no_space_1 | domain |  
+| bip_39_word_no_space_10 | domainabsentzonetrappenablefoamproblemcertainjeans |  
+| bip_39_word_no_space_11 | domainabsentzonetrappenablefoamproblemcertainjeansyear |  
+| bip_39_word_no_space_12 | domainabsentzonetrappenablefoamproblemcertainjeansyearanalyst |  
+| bip_39_word_no_space_2 | domainabsent |  
+| bip_39_word_no_space_3 | domainabsentzone |  
+| bip_39_word_no_space_4 | domainabsentzonetrap |  
+| bip_39_word_no_space_5 | domainabsentzonetrappen |  
+| bip_39_word_no_space_6 | domainabsentzonetrappenable |  
+| bip_39_word_no_space_7 | domainabsentzonetrappenablefoam |  
+| bip_39_word_no_space_8 | domainabsentzonetrappenablefoamproblem |  
+| bip_39_word_no_space_9 | domainabsentzonetrappenablefoamproblemcertain |  
 | bip_39_word_space_0 | ['domain', 'absent', 'zone', 'trap', 'pen', 'able', 'foam', 'problem', 'certain', 'jeans', 'year', 'analyst'] |  
 | bip_39_word_space_1 | domain |  
 | bip_39_word_space_10 | domain absent zone trap pen able foam problem certain jeans |  

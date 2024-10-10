@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'raven
   verify
 
   divorce'
+bip_39_word_no_space_1: raven
+bip_39_word_no_space_10: ravendrillsixcrashamateurchatactorverifydivorcedaughter
+bip_39_word_no_space_11: ravendrillsixcrashamateurchatactorverifydivorcedaughterend
+bip_39_word_no_space_12: ravendrillsixcrashamateurchatactorverifydivorcedaughterendachieve
+bip_39_word_no_space_2: ravendrill
+bip_39_word_no_space_3: ravendrillsix
+bip_39_word_no_space_4: ravendrillsixcrash
+bip_39_word_no_space_5: ravendrillsixcrashamateur
+bip_39_word_no_space_6: ravendrillsixcrashamateurchat
+bip_39_word_no_space_7: ravendrillsixcrashamateurchatactor
+bip_39_word_no_space_8: ravendrillsixcrashamateurchatactorverify
+bip_39_word_no_space_9: ravendrillsixcrashamateurchatactorverifydivorce
 bip_39_word_space_0:
 - raven
 - drill

@@ -122,6 +122,18 @@ escape
 axis
 cup
 energy |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | musttheoryprocesssiegeneedescapeaxiscupenergymention |  
+| bip_39_word_no_space_11 | musttheoryprocesssiegeneedescapeaxiscupenergymentionbar |  
+| bip_39_word_no_space_12 | musttheoryprocesssiegeneedescapeaxiscupenergymentionbaramused |  
+| bip_39_word_no_space_2 | musttheory |  
+| bip_39_word_no_space_3 | musttheoryprocess |  
+| bip_39_word_no_space_4 | musttheoryprocesssiege |  
+| bip_39_word_no_space_5 | musttheoryprocesssiegeneed |  
+| bip_39_word_no_space_6 | musttheoryprocesssiegeneedescape |  
+| bip_39_word_no_space_7 | musttheoryprocesssiegeneedescapeaxis |  
+| bip_39_word_no_space_8 | musttheoryprocesssiegeneedescapeaxiscup |  
+| bip_39_word_no_space_9 | musttheoryprocesssiegeneedescapeaxiscupenergy |  
 | bip_39_word_space_0 | ['must', 'theory', 'process', 'siege', 'need', 'escape', 'axis', 'cup', 'energy', 'mention', 'bar', 'amused'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must theory process siege need escape axis cup energy mention |  

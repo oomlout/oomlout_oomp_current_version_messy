@@ -122,6 +122,18 @@ kid
 winter
 slight
 cruise |  
+| bip_39_word_no_space_1 | meat |  
+| bip_39_word_no_space_10 | meatplatesoondicemuchkidwinterslightcruisespread |  
+| bip_39_word_no_space_11 | meatplatesoondicemuchkidwinterslightcruisespreadbacon |  
+| bip_39_word_no_space_12 | meatplatesoondicemuchkidwinterslightcruisespreadbaconask |  
+| bip_39_word_no_space_2 | meatplate |  
+| bip_39_word_no_space_3 | meatplatesoon |  
+| bip_39_word_no_space_4 | meatplatesoondice |  
+| bip_39_word_no_space_5 | meatplatesoondicemuch |  
+| bip_39_word_no_space_6 | meatplatesoondicemuchkid |  
+| bip_39_word_no_space_7 | meatplatesoondicemuchkidwinter |  
+| bip_39_word_no_space_8 | meatplatesoondicemuchkidwinterslight |  
+| bip_39_word_no_space_9 | meatplatesoondicemuchkidwinterslightcruise |  
 | bip_39_word_space_0 | ['meat', 'plate', 'soon', 'dice', 'much', 'kid', 'winter', 'slight', 'cruise', 'spread', 'bacon', 'ask'] |  
 | bip_39_word_space_1 | meat |  
 | bip_39_word_space_10 | meat plate soon dice much kid winter slight cruise spread |  

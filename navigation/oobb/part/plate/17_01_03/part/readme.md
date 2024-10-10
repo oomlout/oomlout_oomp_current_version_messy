@@ -122,6 +122,18 @@ kitchen
 long
 drive
 gentle |  
+| bip_39_word_no_space_1 | spy |  
+| bip_39_word_no_space_10 | spyfishguessfronteastkitchenlongdrivegentlecontrol |  
+| bip_39_word_no_space_11 | spyfishguessfronteastkitchenlongdrivegentlecontrolpeasant |  
+| bip_39_word_no_space_12 | spyfishguessfronteastkitchenlongdrivegentlecontrolpeasantacid |  
+| bip_39_word_no_space_2 | spyfish |  
+| bip_39_word_no_space_3 | spyfishguess |  
+| bip_39_word_no_space_4 | spyfishguessfront |  
+| bip_39_word_no_space_5 | spyfishguessfronteast |  
+| bip_39_word_no_space_6 | spyfishguessfronteastkitchen |  
+| bip_39_word_no_space_7 | spyfishguessfronteastkitchenlong |  
+| bip_39_word_no_space_8 | spyfishguessfronteastkitchenlongdrive |  
+| bip_39_word_no_space_9 | spyfishguessfronteastkitchenlongdrivegentle |  
 | bip_39_word_space_0 | ['spy', 'fish', 'guess', 'front', 'east', 'kitchen', 'long', 'drive', 'gentle', 'control', 'peasant', 'acid'] |  
 | bip_39_word_space_1 | spy |  
 | bip_39_word_space_10 | spy fish guess front east kitchen long drive gentle control |  

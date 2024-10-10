@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'page
   repair
 
   shop'
+bip_39_word_no_space_1: page
+bip_39_word_no_space_10: pagehardmountaintrafficscenewindowplungerepairshoptable
+bip_39_word_no_space_11: pagehardmountaintrafficscenewindowplungerepairshoptablecaptain
+bip_39_word_no_space_12: pagehardmountaintrafficscenewindowplungerepairshoptablecaptainassist
+bip_39_word_no_space_2: pagehard
+bip_39_word_no_space_3: pagehardmountain
+bip_39_word_no_space_4: pagehardmountaintraffic
+bip_39_word_no_space_5: pagehardmountaintrafficscene
+bip_39_word_no_space_6: pagehardmountaintrafficscenewindow
+bip_39_word_no_space_7: pagehardmountaintrafficscenewindowplunge
+bip_39_word_no_space_8: pagehardmountaintrafficscenewindowplungerepair
+bip_39_word_no_space_9: pagehardmountaintrafficscenewindowplungerepairshop
 bip_39_word_space_0:
 - page
 - hard

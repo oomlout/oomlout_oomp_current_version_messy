@@ -122,6 +122,18 @@ snake
 engine
 arrest
 fluid |  
+| bip_39_word_no_space_1 | thrive |  
+| bip_39_word_no_space_10 | thriveapartbleaknationducksnakeenginearrestfluidunveil |  
+| bip_39_word_no_space_11 | thriveapartbleaknationducksnakeenginearrestfluidunveilfront |  
+| bip_39_word_no_space_12 | thriveapartbleaknationducksnakeenginearrestfluidunveilfrontattend |  
+| bip_39_word_no_space_2 | thriveapart |  
+| bip_39_word_no_space_3 | thriveapartbleak |  
+| bip_39_word_no_space_4 | thriveapartbleaknation |  
+| bip_39_word_no_space_5 | thriveapartbleaknationduck |  
+| bip_39_word_no_space_6 | thriveapartbleaknationducksnake |  
+| bip_39_word_no_space_7 | thriveapartbleaknationducksnakeengine |  
+| bip_39_word_no_space_8 | thriveapartbleaknationducksnakeenginearrest |  
+| bip_39_word_no_space_9 | thriveapartbleaknationducksnakeenginearrestfluid |  
 | bip_39_word_space_0 | ['thrive', 'apart', 'bleak', 'nation', 'duck', 'snake', 'engine', 'arrest', 'fluid', 'unveil', 'front', 'attend'] |  
 | bip_39_word_space_1 | thrive |  
 | bip_39_word_space_10 | thrive apart bleak nation duck snake engine arrest fluid unveil |  

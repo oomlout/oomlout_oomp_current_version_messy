@@ -122,6 +122,18 @@ blind
 cheese
 flat
 armed |  
+| bip_39_word_no_space_1 | bunker |  
+| bip_39_word_no_space_10 | bunkerloungesortgaspcaughtblindcheeseflatarmedhole |  
+| bip_39_word_no_space_11 | bunkerloungesortgaspcaughtblindcheeseflatarmedholecan |  
+| bip_39_word_no_space_12 | bunkerloungesortgaspcaughtblindcheeseflatarmedholecananimal |  
+| bip_39_word_no_space_2 | bunkerlounge |  
+| bip_39_word_no_space_3 | bunkerloungesort |  
+| bip_39_word_no_space_4 | bunkerloungesortgasp |  
+| bip_39_word_no_space_5 | bunkerloungesortgaspcaught |  
+| bip_39_word_no_space_6 | bunkerloungesortgaspcaughtblind |  
+| bip_39_word_no_space_7 | bunkerloungesortgaspcaughtblindcheese |  
+| bip_39_word_no_space_8 | bunkerloungesortgaspcaughtblindcheeseflat |  
+| bip_39_word_no_space_9 | bunkerloungesortgaspcaughtblindcheeseflatarmed |  
 | bip_39_word_space_0 | ['bunker', 'lounge', 'sort', 'gasp', 'caught', 'blind', 'cheese', 'flat', 'armed', 'hole', 'can', 'animal'] |  
 | bip_39_word_space_1 | bunker |  
 | bip_39_word_space_10 | bunker lounge sort gasp caught blind cheese flat armed hole |  

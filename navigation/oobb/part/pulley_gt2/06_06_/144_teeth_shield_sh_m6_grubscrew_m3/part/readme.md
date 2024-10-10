@@ -122,6 +122,18 @@ enjoy
 nuclear
 drill
 drill |  
+| bip_39_word_no_space_1 | fold |  
+| bip_39_word_no_space_10 | foldmoveumbrellachunkfaithenjoynucleardrilldrillscare |  
+| bip_39_word_no_space_11 | foldmoveumbrellachunkfaithenjoynucleardrilldrillscarevictory |  
+| bip_39_word_no_space_12 | foldmoveumbrellachunkfaithenjoynucleardrilldrillscarevictoryabsurd |  
+| bip_39_word_no_space_2 | foldmove |  
+| bip_39_word_no_space_3 | foldmoveumbrella |  
+| bip_39_word_no_space_4 | foldmoveumbrellachunk |  
+| bip_39_word_no_space_5 | foldmoveumbrellachunkfaith |  
+| bip_39_word_no_space_6 | foldmoveumbrellachunkfaithenjoy |  
+| bip_39_word_no_space_7 | foldmoveumbrellachunkfaithenjoynuclear |  
+| bip_39_word_no_space_8 | foldmoveumbrellachunkfaithenjoynucleardrill |  
+| bip_39_word_no_space_9 | foldmoveumbrellachunkfaithenjoynucleardrilldrill |  
 | bip_39_word_space_0 | ['fold', 'move', 'umbrella', 'chunk', 'faith', 'enjoy', 'nuclear', 'drill', 'drill', 'scare', 'victory', 'absurd'] |  
 | bip_39_word_space_1 | fold |  
 | bip_39_word_space_10 | fold move umbrella chunk faith enjoy nuclear drill drill scare |  

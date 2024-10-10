@@ -122,6 +122,18 @@ goat
 lava
 labor
 avocado |  
+| bip_39_word_no_space_1 | beach |  
+| bip_39_word_no_space_10 | beachcigarlightgoosepanelgoatlavalaboravocadoyou |  
+| bip_39_word_no_space_11 | beachcigarlightgoosepanelgoatlavalaboravocadoyouwhat |  
+| bip_39_word_no_space_12 | beachcigarlightgoosepanelgoatlavalaboravocadoyouwhatactress |  
+| bip_39_word_no_space_2 | beachcigar |  
+| bip_39_word_no_space_3 | beachcigarlight |  
+| bip_39_word_no_space_4 | beachcigarlightgoose |  
+| bip_39_word_no_space_5 | beachcigarlightgoosepanel |  
+| bip_39_word_no_space_6 | beachcigarlightgoosepanelgoat |  
+| bip_39_word_no_space_7 | beachcigarlightgoosepanelgoatlava |  
+| bip_39_word_no_space_8 | beachcigarlightgoosepanelgoatlavalabor |  
+| bip_39_word_no_space_9 | beachcigarlightgoosepanelgoatlavalaboravocado |  
 | bip_39_word_space_0 | ['beach', 'cigar', 'light', 'goose', 'panel', 'goat', 'lava', 'labor', 'avocado', 'you', 'what', 'actress'] |  
 | bip_39_word_space_1 | beach |  
 | bip_39_word_space_10 | beach cigar light goose panel goat lava labor avocado you |  

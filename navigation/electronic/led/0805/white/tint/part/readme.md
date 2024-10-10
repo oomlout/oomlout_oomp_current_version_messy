@@ -122,6 +122,18 @@ script
 salute
 bachelor
 diet |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbywisdomtissuesausagemetalscriptsalutebachelordietelbow |  
+| bip_39_word_no_space_11 | hobbywisdomtissuesausagemetalscriptsalutebachelordietelbowelbow |  
+| bip_39_word_no_space_12 | hobbywisdomtissuesausagemetalscriptsalutebachelordietelbowelbowarena |  
+| bip_39_word_no_space_2 | hobbywisdom |  
+| bip_39_word_no_space_3 | hobbywisdomtissue |  
+| bip_39_word_no_space_4 | hobbywisdomtissuesausage |  
+| bip_39_word_no_space_5 | hobbywisdomtissuesausagemetal |  
+| bip_39_word_no_space_6 | hobbywisdomtissuesausagemetalscript |  
+| bip_39_word_no_space_7 | hobbywisdomtissuesausagemetalscriptsalute |  
+| bip_39_word_no_space_8 | hobbywisdomtissuesausagemetalscriptsalutebachelor |  
+| bip_39_word_no_space_9 | hobbywisdomtissuesausagemetalscriptsalutebachelordiet |  
 | bip_39_word_space_0 | ['hobby', 'wisdom', 'tissue', 'sausage', 'metal', 'script', 'salute', 'bachelor', 'diet', 'elbow', 'elbow', 'arena'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby wisdom tissue sausage metal script salute bachelor diet elbow |  

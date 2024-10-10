@@ -122,6 +122,18 @@ vessel
 drastic
 catch
 witness |  
+| bip_39_word_no_space_1 | vital |  
+| bip_39_word_no_space_10 | vitalpassthankfaintretirevesseldrasticcatchwitnessburden |  
+| bip_39_word_no_space_11 | vitalpassthankfaintretirevesseldrasticcatchwitnessburdencheese |  
+| bip_39_word_no_space_12 | vitalpassthankfaintretirevesseldrasticcatchwitnessburdencheesealter |  
+| bip_39_word_no_space_2 | vitalpass |  
+| bip_39_word_no_space_3 | vitalpassthank |  
+| bip_39_word_no_space_4 | vitalpassthankfaint |  
+| bip_39_word_no_space_5 | vitalpassthankfaintretire |  
+| bip_39_word_no_space_6 | vitalpassthankfaintretirevessel |  
+| bip_39_word_no_space_7 | vitalpassthankfaintretirevesseldrastic |  
+| bip_39_word_no_space_8 | vitalpassthankfaintretirevesseldrasticcatch |  
+| bip_39_word_no_space_9 | vitalpassthankfaintretirevesseldrasticcatchwitness |  
 | bip_39_word_space_0 | ['vital', 'pass', 'thank', 'faint', 'retire', 'vessel', 'drastic', 'catch', 'witness', 'burden', 'cheese', 'alter'] |  
 | bip_39_word_space_1 | vital |  
 | bip_39_word_space_10 | vital pass thank faint retire vessel drastic catch witness burden |  

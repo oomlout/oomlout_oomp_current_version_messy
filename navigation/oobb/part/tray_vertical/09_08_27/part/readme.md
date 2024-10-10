@@ -122,6 +122,18 @@ genuine
 police
 depart
 mercy |  
+| bip_39_word_no_space_1 | awake |  
+| bip_39_word_no_space_10 | awakeplayhotelcrashbestgenuinepolicedepartmercyvault |  
+| bip_39_word_no_space_11 | awakeplayhotelcrashbestgenuinepolicedepartmercyvaultgirl |  
+| bip_39_word_no_space_12 | awakeplayhotelcrashbestgenuinepolicedepartmercyvaultgirlarm |  
+| bip_39_word_no_space_2 | awakeplay |  
+| bip_39_word_no_space_3 | awakeplayhotel |  
+| bip_39_word_no_space_4 | awakeplayhotelcrash |  
+| bip_39_word_no_space_5 | awakeplayhotelcrashbest |  
+| bip_39_word_no_space_6 | awakeplayhotelcrashbestgenuine |  
+| bip_39_word_no_space_7 | awakeplayhotelcrashbestgenuinepolice |  
+| bip_39_word_no_space_8 | awakeplayhotelcrashbestgenuinepolicedepart |  
+| bip_39_word_no_space_9 | awakeplayhotelcrashbestgenuinepolicedepartmercy |  
 | bip_39_word_space_0 | ['awake', 'play', 'hotel', 'crash', 'best', 'genuine', 'police', 'depart', 'mercy', 'vault', 'girl', 'arm'] |  
 | bip_39_word_space_1 | awake |  
 | bip_39_word_space_10 | awake play hotel crash best genuine police depart mercy vault |  

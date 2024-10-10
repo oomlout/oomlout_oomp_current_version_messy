@@ -122,6 +122,18 @@ defense
 pupil
 few
 actual |  
+| bip_39_word_no_space_1 | cute |  
+| bip_39_word_no_space_10 | cutekingdomnoblefilmglorydefensepupilfewactualalcohol |  
+| bip_39_word_no_space_11 | cutekingdomnoblefilmglorydefensepupilfewactualalcoholstyle |  
+| bip_39_word_no_space_12 | cutekingdomnoblefilmglorydefensepupilfewactualalcoholstyleartefact |  
+| bip_39_word_no_space_2 | cutekingdom |  
+| bip_39_word_no_space_3 | cutekingdomnoble |  
+| bip_39_word_no_space_4 | cutekingdomnoblefilm |  
+| bip_39_word_no_space_5 | cutekingdomnoblefilmglory |  
+| bip_39_word_no_space_6 | cutekingdomnoblefilmglorydefense |  
+| bip_39_word_no_space_7 | cutekingdomnoblefilmglorydefensepupil |  
+| bip_39_word_no_space_8 | cutekingdomnoblefilmglorydefensepupilfew |  
+| bip_39_word_no_space_9 | cutekingdomnoblefilmglorydefensepupilfewactual |  
 | bip_39_word_space_0 | ['cute', 'kingdom', 'noble', 'film', 'glory', 'defense', 'pupil', 'few', 'actual', 'alcohol', 'style', 'artefact'] |  
 | bip_39_word_space_1 | cute |  
 | bip_39_word_space_10 | cute kingdom noble film glory defense pupil few actual alcohol |  

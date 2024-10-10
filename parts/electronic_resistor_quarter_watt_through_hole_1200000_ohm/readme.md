@@ -122,6 +122,18 @@ notice
 mobile
 find
 travel |  
+| bip_39_word_no_space_1 | green |  
+| bip_39_word_no_space_10 | greendisordervariousostrichgeniusnoticemobilefindtravelturn |  
+| bip_39_word_no_space_11 | greendisordervariousostrichgeniusnoticemobilefindtravelturnicon |  
+| bip_39_word_no_space_12 | greendisordervariousostrichgeniusnoticemobilefindtravelturniconable |  
+| bip_39_word_no_space_2 | greendisorder |  
+| bip_39_word_no_space_3 | greendisordervarious |  
+| bip_39_word_no_space_4 | greendisordervariousostrich |  
+| bip_39_word_no_space_5 | greendisordervariousostrichgenius |  
+| bip_39_word_no_space_6 | greendisordervariousostrichgeniusnotice |  
+| bip_39_word_no_space_7 | greendisordervariousostrichgeniusnoticemobile |  
+| bip_39_word_no_space_8 | greendisordervariousostrichgeniusnoticemobilefind |  
+| bip_39_word_no_space_9 | greendisordervariousostrichgeniusnoticemobilefindtravel |  
 | bip_39_word_space_0 | ['green', 'disorder', 'various', 'ostrich', 'genius', 'notice', 'mobile', 'find', 'travel', 'turn', 'icon', 'able'] |  
 | bip_39_word_space_1 | green |  
 | bip_39_word_space_10 | green disorder various ostrich genius notice mobile find travel turn |  

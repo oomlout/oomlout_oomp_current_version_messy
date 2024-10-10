@@ -122,6 +122,18 @@ picture
 catch
 force
 drama |  
+| bip_39_word_no_space_1 | quarter |  
+| bip_39_word_no_space_10 | quarterfemalepigeonwoolblackpicturecatchforcedramapupil |  
+| bip_39_word_no_space_11 | quarterfemalepigeonwoolblackpicturecatchforcedramapupilski |  
+| bip_39_word_no_space_12 | quarterfemalepigeonwoolblackpicturecatchforcedramapupilskiacid |  
+| bip_39_word_no_space_2 | quarterfemale |  
+| bip_39_word_no_space_3 | quarterfemalepigeon |  
+| bip_39_word_no_space_4 | quarterfemalepigeonwool |  
+| bip_39_word_no_space_5 | quarterfemalepigeonwoolblack |  
+| bip_39_word_no_space_6 | quarterfemalepigeonwoolblackpicture |  
+| bip_39_word_no_space_7 | quarterfemalepigeonwoolblackpicturecatch |  
+| bip_39_word_no_space_8 | quarterfemalepigeonwoolblackpicturecatchforce |  
+| bip_39_word_no_space_9 | quarterfemalepigeonwoolblackpicturecatchforcedrama |  
 | bip_39_word_space_0 | ['quarter', 'female', 'pigeon', 'wool', 'black', 'picture', 'catch', 'force', 'drama', 'pupil', 'ski', 'acid'] |  
 | bip_39_word_space_1 | quarter |  
 | bip_39_word_space_10 | quarter female pigeon wool black picture catch force drama pupil |  

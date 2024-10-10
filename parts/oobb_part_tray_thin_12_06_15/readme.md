@@ -122,6 +122,18 @@ journey
 drink
 spring
 core |  
+| bip_39_word_no_space_1 | oyster |  
+| bip_39_word_no_space_10 | oysteryounggaspgravitystartjourneydrinkspringcorecritic |  
+| bip_39_word_no_space_11 | oysteryounggaspgravitystartjourneydrinkspringcorecriticgirl |  
+| bip_39_word_no_space_12 | oysteryounggaspgravitystartjourneydrinkspringcorecriticgirlapart |  
+| bip_39_word_no_space_2 | oysteryoung |  
+| bip_39_word_no_space_3 | oysteryounggasp |  
+| bip_39_word_no_space_4 | oysteryounggaspgravity |  
+| bip_39_word_no_space_5 | oysteryounggaspgravitystart |  
+| bip_39_word_no_space_6 | oysteryounggaspgravitystartjourney |  
+| bip_39_word_no_space_7 | oysteryounggaspgravitystartjourneydrink |  
+| bip_39_word_no_space_8 | oysteryounggaspgravitystartjourneydrinkspring |  
+| bip_39_word_no_space_9 | oysteryounggaspgravitystartjourneydrinkspringcore |  
 | bip_39_word_space_0 | ['oyster', 'young', 'gasp', 'gravity', 'start', 'journey', 'drink', 'spring', 'core', 'critic', 'girl', 'apart'] |  
 | bip_39_word_space_1 | oyster |  
 | bip_39_word_space_10 | oyster young gasp gravity start journey drink spring core critic |  

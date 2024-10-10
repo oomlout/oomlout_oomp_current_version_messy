@@ -122,6 +122,18 @@ raise
 tunnel
 tell
 finger |  
+| bip_39_word_no_space_1 | sibling |  
+| bip_39_word_no_space_10 | siblingobeyvillageawareabsentraisetunneltellfingerenergy |  
+| bip_39_word_no_space_11 | siblingobeyvillageawareabsentraisetunneltellfingerenergyarmor |  
+| bip_39_word_no_space_12 | siblingobeyvillageawareabsentraisetunneltellfingerenergyarmorair |  
+| bip_39_word_no_space_2 | siblingobey |  
+| bip_39_word_no_space_3 | siblingobeyvillage |  
+| bip_39_word_no_space_4 | siblingobeyvillageaware |  
+| bip_39_word_no_space_5 | siblingobeyvillageawareabsent |  
+| bip_39_word_no_space_6 | siblingobeyvillageawareabsentraise |  
+| bip_39_word_no_space_7 | siblingobeyvillageawareabsentraisetunnel |  
+| bip_39_word_no_space_8 | siblingobeyvillageawareabsentraisetunneltell |  
+| bip_39_word_no_space_9 | siblingobeyvillageawareabsentraisetunneltellfinger |  
 | bip_39_word_space_0 | ['sibling', 'obey', 'village', 'aware', 'absent', 'raise', 'tunnel', 'tell', 'finger', 'energy', 'armor', 'air'] |  
 | bip_39_word_space_1 | sibling |  
 | bip_39_word_space_10 | sibling obey village aware absent raise tunnel tell finger energy |  

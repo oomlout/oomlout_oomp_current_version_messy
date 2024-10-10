@@ -122,6 +122,18 @@ treat
 truck
 action
 comfort |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasure |  
+| bip_39_word_no_space_11 | rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasurestock |  
+| bip_39_word_no_space_12 | rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasurestockautumn |  
+| bip_39_word_no_space_2 | rhythmarrange |  
+| bip_39_word_no_space_3 | rhythmarrangecontrol |  
+| bip_39_word_no_space_4 | rhythmarrangecontrolanxiety |  
+| bip_39_word_no_space_5 | rhythmarrangecontrolanxietydemise |  
+| bip_39_word_no_space_6 | rhythmarrangecontrolanxietydemisetreat |  
+| bip_39_word_no_space_7 | rhythmarrangecontrolanxietydemisetreattruck |  
+| bip_39_word_no_space_8 | rhythmarrangecontrolanxietydemisetreattruckaction |  
+| bip_39_word_no_space_9 | rhythmarrangecontrolanxietydemisetreattruckactioncomfort |  
 | bip_39_word_space_0 | ['rhythm', 'arrange', 'control', 'anxiety', 'demise', 'treat', 'truck', 'action', 'comfort', 'measure', 'stock', 'autumn'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm arrange control anxiety demise treat truck action comfort measure |  

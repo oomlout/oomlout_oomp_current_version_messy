@@ -122,6 +122,18 @@ hero
 name
 cute
 crop |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavetrapveteranoutputthunderheronamecutecroppeasant |  
+| bip_39_word_no_space_11 | cavetrapveteranoutputthunderheronamecutecroppeasanthood |  
+| bip_39_word_no_space_12 | cavetrapveteranoutputthunderheronamecutecroppeasanthoodangle |  
+| bip_39_word_no_space_2 | cavetrap |  
+| bip_39_word_no_space_3 | cavetrapveteran |  
+| bip_39_word_no_space_4 | cavetrapveteranoutput |  
+| bip_39_word_no_space_5 | cavetrapveteranoutputthunder |  
+| bip_39_word_no_space_6 | cavetrapveteranoutputthunderhero |  
+| bip_39_word_no_space_7 | cavetrapveteranoutputthunderheroname |  
+| bip_39_word_no_space_8 | cavetrapveteranoutputthunderheronamecute |  
+| bip_39_word_no_space_9 | cavetrapveteranoutputthunderheronamecutecrop |  
 | bip_39_word_space_0 | ['cave', 'trap', 'veteran', 'output', 'thunder', 'hero', 'name', 'cute', 'crop', 'peasant', 'hood', 'angle'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave trap veteran output thunder hero name cute crop peasant |  

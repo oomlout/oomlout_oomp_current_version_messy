@@ -122,6 +122,18 @@ gloom
 double
 craft
 meadow |  
+| bip_39_word_no_space_1 | make |  
+| bip_39_word_no_space_10 | makeblameraccoonswallowfirmgloomdoublecraftmeadowexercise |  
+| bip_39_word_no_space_11 | makeblameraccoonswallowfirmgloomdoublecraftmeadowexercisepayment |  
+| bip_39_word_no_space_12 | makeblameraccoonswallowfirmgloomdoublecraftmeadowexercisepaymentarmor |  
+| bip_39_word_no_space_2 | makeblame |  
+| bip_39_word_no_space_3 | makeblameraccoon |  
+| bip_39_word_no_space_4 | makeblameraccoonswallow |  
+| bip_39_word_no_space_5 | makeblameraccoonswallowfirm |  
+| bip_39_word_no_space_6 | makeblameraccoonswallowfirmgloom |  
+| bip_39_word_no_space_7 | makeblameraccoonswallowfirmgloomdouble |  
+| bip_39_word_no_space_8 | makeblameraccoonswallowfirmgloomdoublecraft |  
+| bip_39_word_no_space_9 | makeblameraccoonswallowfirmgloomdoublecraftmeadow |  
 | bip_39_word_space_0 | ['make', 'blame', 'raccoon', 'swallow', 'firm', 'gloom', 'double', 'craft', 'meadow', 'exercise', 'payment', 'armor'] |  
 | bip_39_word_space_1 | make |  
 | bip_39_word_space_10 | make blame raccoon swallow firm gloom double craft meadow exercise |  

@@ -122,6 +122,18 @@ roof
 melody
 wish
 diagram |  
+| bip_39_word_no_space_1 | exist |  
+| bip_39_word_no_space_10 | existabsorbdependbuddydrumroofmelodywishdiagramsolution |  
+| bip_39_word_no_space_11 | existabsorbdependbuddydrumroofmelodywishdiagramsolutionarrange |  
+| bip_39_word_no_space_12 | existabsorbdependbuddydrumroofmelodywishdiagramsolutionarrangeage |  
+| bip_39_word_no_space_2 | existabsorb |  
+| bip_39_word_no_space_3 | existabsorbdepend |  
+| bip_39_word_no_space_4 | existabsorbdependbuddy |  
+| bip_39_word_no_space_5 | existabsorbdependbuddydrum |  
+| bip_39_word_no_space_6 | existabsorbdependbuddydrumroof |  
+| bip_39_word_no_space_7 | existabsorbdependbuddydrumroofmelody |  
+| bip_39_word_no_space_8 | existabsorbdependbuddydrumroofmelodywish |  
+| bip_39_word_no_space_9 | existabsorbdependbuddydrumroofmelodywishdiagram |  
 | bip_39_word_space_0 | ['exist', 'absorb', 'depend', 'buddy', 'drum', 'roof', 'melody', 'wish', 'diagram', 'solution', 'arrange', 'age'] |  
 | bip_39_word_space_1 | exist |  
 | bip_39_word_space_10 | exist absorb depend buddy drum roof melody wish diagram solution |  

@@ -122,6 +122,18 @@ crane
 liquid
 special
 alley |  
+| bip_39_word_no_space_1 | deny |  
+| bip_39_word_no_space_10 | denysincewastenoticeozonecraneliquidspecialalleycoral |  
+| bip_39_word_no_space_11 | denysincewastenoticeozonecraneliquidspecialalleycoraltruth |  
+| bip_39_word_no_space_12 | denysincewastenoticeozonecraneliquidspecialalleycoraltruthalert |  
+| bip_39_word_no_space_2 | denysince |  
+| bip_39_word_no_space_3 | denysincewaste |  
+| bip_39_word_no_space_4 | denysincewastenotice |  
+| bip_39_word_no_space_5 | denysincewastenoticeozone |  
+| bip_39_word_no_space_6 | denysincewastenoticeozonecrane |  
+| bip_39_word_no_space_7 | denysincewastenoticeozonecraneliquid |  
+| bip_39_word_no_space_8 | denysincewastenoticeozonecraneliquidspecial |  
+| bip_39_word_no_space_9 | denysincewastenoticeozonecraneliquidspecialalley |  
 | bip_39_word_space_0 | ['deny', 'since', 'waste', 'notice', 'ozone', 'crane', 'liquid', 'special', 'alley', 'coral', 'truth', 'alert'] |  
 | bip_39_word_space_1 | deny |  
 | bip_39_word_space_10 | deny since waste notice ozone crane liquid special alley coral |  

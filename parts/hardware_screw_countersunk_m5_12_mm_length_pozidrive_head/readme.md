@@ -122,6 +122,18 @@ law
 radio
 item
 flock |  
+| bip_39_word_no_space_1 | catalog |  
+| bip_39_word_no_space_10 | catalogrecycletherewavespawnlawradioitemflockbright |  
+| bip_39_word_no_space_11 | catalogrecycletherewavespawnlawradioitemflockbrightdevelop |  
+| bip_39_word_no_space_12 | catalogrecycletherewavespawnlawradioitemflockbrightdevelopauthor |  
+| bip_39_word_no_space_2 | catalogrecycle |  
+| bip_39_word_no_space_3 | catalogrecyclethere |  
+| bip_39_word_no_space_4 | catalogrecycletherewave |  
+| bip_39_word_no_space_5 | catalogrecycletherewavespawn |  
+| bip_39_word_no_space_6 | catalogrecycletherewavespawnlaw |  
+| bip_39_word_no_space_7 | catalogrecycletherewavespawnlawradio |  
+| bip_39_word_no_space_8 | catalogrecycletherewavespawnlawradioitem |  
+| bip_39_word_no_space_9 | catalogrecycletherewavespawnlawradioitemflock |  
 | bip_39_word_space_0 | ['catalog', 'recycle', 'there', 'wave', 'spawn', 'law', 'radio', 'item', 'flock', 'bright', 'develop', 'author'] |  
 | bip_39_word_space_1 | catalog |  
 | bip_39_word_space_10 | catalog recycle there wave spawn law radio item flock bright |  

@@ -122,6 +122,18 @@ bar
 ring
 forget
 safe |  
+| bip_39_word_no_space_1 | example |  
+| bip_39_word_no_space_10 | examplefatherincomesupplyfitnessbarringforgetsafepause |  
+| bip_39_word_no_space_11 | examplefatherincomesupplyfitnessbarringforgetsafepauseresource |  
+| bip_39_word_no_space_12 | examplefatherincomesupplyfitnessbarringforgetsafepauseresourceannual |  
+| bip_39_word_no_space_2 | examplefather |  
+| bip_39_word_no_space_3 | examplefatherincome |  
+| bip_39_word_no_space_4 | examplefatherincomesupply |  
+| bip_39_word_no_space_5 | examplefatherincomesupplyfitness |  
+| bip_39_word_no_space_6 | examplefatherincomesupplyfitnessbar |  
+| bip_39_word_no_space_7 | examplefatherincomesupplyfitnessbarring |  
+| bip_39_word_no_space_8 | examplefatherincomesupplyfitnessbarringforget |  
+| bip_39_word_no_space_9 | examplefatherincomesupplyfitnessbarringforgetsafe |  
 | bip_39_word_space_0 | ['example', 'father', 'income', 'supply', 'fitness', 'bar', 'ring', 'forget', 'safe', 'pause', 'resource', 'annual'] |  
 | bip_39_word_space_1 | example |  
 | bip_39_word_space_10 | example father income supply fitness bar ring forget safe pause |  

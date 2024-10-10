@@ -122,6 +122,18 @@ blood
 gasp
 clog
 swap |  
+| bip_39_word_no_space_1 | end |  
+| bip_39_word_no_space_10 | endreciperingcruelwrongbloodgaspclogswapfilm |  
+| bip_39_word_no_space_11 | endreciperingcruelwrongbloodgaspclogswapfilmtaxi |  
+| bip_39_word_no_space_12 | endreciperingcruelwrongbloodgaspclogswapfilmtaxiagent |  
+| bip_39_word_no_space_2 | endrecipe |  
+| bip_39_word_no_space_3 | endrecipering |  
+| bip_39_word_no_space_4 | endreciperingcruel |  
+| bip_39_word_no_space_5 | endreciperingcruelwrong |  
+| bip_39_word_no_space_6 | endreciperingcruelwrongblood |  
+| bip_39_word_no_space_7 | endreciperingcruelwrongbloodgasp |  
+| bip_39_word_no_space_8 | endreciperingcruelwrongbloodgaspclog |  
+| bip_39_word_no_space_9 | endreciperingcruelwrongbloodgaspclogswap |  
 | bip_39_word_space_0 | ['end', 'recipe', 'ring', 'cruel', 'wrong', 'blood', 'gasp', 'clog', 'swap', 'film', 'taxi', 'agent'] |  
 | bip_39_word_space_1 | end |  
 | bip_39_word_space_10 | end recipe ring cruel wrong blood gasp clog swap film |  

@@ -122,6 +122,18 @@ battle
 amazing
 lumber
 elbow |  
+| bip_39_word_no_space_1 | timber |  
+| bip_39_word_no_space_10 | timberdevoteboostvillageseniorbattleamazinglumberelbowdry |  
+| bip_39_word_no_space_11 | timberdevoteboostvillageseniorbattleamazinglumberelbowdrydilemma |  
+| bip_39_word_no_space_12 | timberdevoteboostvillageseniorbattleamazinglumberelbowdrydilemmaaverage |  
+| bip_39_word_no_space_2 | timberdevote |  
+| bip_39_word_no_space_3 | timberdevoteboost |  
+| bip_39_word_no_space_4 | timberdevoteboostvillage |  
+| bip_39_word_no_space_5 | timberdevoteboostvillagesenior |  
+| bip_39_word_no_space_6 | timberdevoteboostvillageseniorbattle |  
+| bip_39_word_no_space_7 | timberdevoteboostvillageseniorbattleamazing |  
+| bip_39_word_no_space_8 | timberdevoteboostvillageseniorbattleamazinglumber |  
+| bip_39_word_no_space_9 | timberdevoteboostvillageseniorbattleamazinglumberelbow |  
 | bip_39_word_space_0 | ['timber', 'devote', 'boost', 'village', 'senior', 'battle', 'amazing', 'lumber', 'elbow', 'dry', 'dilemma', 'average'] |  
 | bip_39_word_space_1 | timber |  
 | bip_39_word_space_10 | timber devote boost village senior battle amazing lumber elbow dry |  

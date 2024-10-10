@@ -122,6 +122,18 @@ tide
 nose
 pond
 chicken |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccertobaccomonkeymangodelaytidenosepondchickenprison |  
+| bip_39_word_no_space_11 | soccertobaccomonkeymangodelaytidenosepondchickenprisonwant |  
+| bip_39_word_no_space_12 | soccertobaccomonkeymangodelaytidenosepondchickenprisonwantarrest |  
+| bip_39_word_no_space_2 | soccertobacco |  
+| bip_39_word_no_space_3 | soccertobaccomonkey |  
+| bip_39_word_no_space_4 | soccertobaccomonkeymango |  
+| bip_39_word_no_space_5 | soccertobaccomonkeymangodelay |  
+| bip_39_word_no_space_6 | soccertobaccomonkeymangodelaytide |  
+| bip_39_word_no_space_7 | soccertobaccomonkeymangodelaytidenose |  
+| bip_39_word_no_space_8 | soccertobaccomonkeymangodelaytidenosepond |  
+| bip_39_word_no_space_9 | soccertobaccomonkeymangodelaytidenosepondchicken |  
 | bip_39_word_space_0 | ['soccer', 'tobacco', 'monkey', 'mango', 'delay', 'tide', 'nose', 'pond', 'chicken', 'prison', 'want', 'arrest'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer tobacco monkey mango delay tide nose pond chicken prison |  

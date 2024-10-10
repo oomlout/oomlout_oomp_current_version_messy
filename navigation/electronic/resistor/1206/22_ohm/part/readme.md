@@ -122,6 +122,18 @@ hero
 crash
 bundle
 mystery |  
+| bip_39_word_no_space_1 | brand |  
+| bip_39_word_no_space_10 | brandboardpotatomarketobligeherocrashbundlemysterymaterial |  
+| bip_39_word_no_space_11 | brandboardpotatomarketobligeherocrashbundlemysterymaterialtheory |  
+| bip_39_word_no_space_12 | brandboardpotatomarketobligeherocrashbundlemysterymaterialtheoryannounce |  
+| bip_39_word_no_space_2 | brandboard |  
+| bip_39_word_no_space_3 | brandboardpotato |  
+| bip_39_word_no_space_4 | brandboardpotatomarket |  
+| bip_39_word_no_space_5 | brandboardpotatomarketoblige |  
+| bip_39_word_no_space_6 | brandboardpotatomarketobligehero |  
+| bip_39_word_no_space_7 | brandboardpotatomarketobligeherocrash |  
+| bip_39_word_no_space_8 | brandboardpotatomarketobligeherocrashbundle |  
+| bip_39_word_no_space_9 | brandboardpotatomarketobligeherocrashbundlemystery |  
 | bip_39_word_space_0 | ['brand', 'board', 'potato', 'market', 'oblige', 'hero', 'crash', 'bundle', 'mystery', 'material', 'theory', 'announce'] |  
 | bip_39_word_space_1 | brand |  
 | bip_39_word_space_10 | brand board potato market oblige hero crash bundle mystery material |  

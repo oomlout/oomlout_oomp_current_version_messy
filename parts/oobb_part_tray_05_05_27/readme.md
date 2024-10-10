@@ -122,6 +122,18 @@ order
 blame
 industry
 arrange |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | deskcreekreleasedisagreedressorderblameindustryarrangealley |  
+| bip_39_word_no_space_11 | deskcreekreleasedisagreedressorderblameindustryarrangealleyprocess |  
+| bip_39_word_no_space_12 | deskcreekreleasedisagreedressorderblameindustryarrangealleyprocessasthma |  
+| bip_39_word_no_space_2 | deskcreek |  
+| bip_39_word_no_space_3 | deskcreekrelease |  
+| bip_39_word_no_space_4 | deskcreekreleasedisagree |  
+| bip_39_word_no_space_5 | deskcreekreleasedisagreedress |  
+| bip_39_word_no_space_6 | deskcreekreleasedisagreedressorder |  
+| bip_39_word_no_space_7 | deskcreekreleasedisagreedressorderblame |  
+| bip_39_word_no_space_8 | deskcreekreleasedisagreedressorderblameindustry |  
+| bip_39_word_no_space_9 | deskcreekreleasedisagreedressorderblameindustryarrange |  
 | bip_39_word_space_0 | ['desk', 'creek', 'release', 'disagree', 'dress', 'order', 'blame', 'industry', 'arrange', 'alley', 'process', 'asthma'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk creek release disagree dress order blame industry arrange alley |  

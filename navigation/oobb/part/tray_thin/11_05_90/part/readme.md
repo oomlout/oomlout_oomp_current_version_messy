@@ -122,6 +122,18 @@ proud
 stove
 example
 praise |  
+| bip_39_word_no_space_1 | plastic |  
+| bip_39_word_no_space_10 | plasticstooldivorcebusyreadyproudstoveexamplepraisemansion |  
+| bip_39_word_no_space_11 | plasticstooldivorcebusyreadyproudstoveexamplepraisemansioncompany |  
+| bip_39_word_no_space_12 | plasticstooldivorcebusyreadyproudstoveexamplepraisemansioncompanyattitude |  
+| bip_39_word_no_space_2 | plasticstool |  
+| bip_39_word_no_space_3 | plasticstooldivorce |  
+| bip_39_word_no_space_4 | plasticstooldivorcebusy |  
+| bip_39_word_no_space_5 | plasticstooldivorcebusyready |  
+| bip_39_word_no_space_6 | plasticstooldivorcebusyreadyproud |  
+| bip_39_word_no_space_7 | plasticstooldivorcebusyreadyproudstove |  
+| bip_39_word_no_space_8 | plasticstooldivorcebusyreadyproudstoveexample |  
+| bip_39_word_no_space_9 | plasticstooldivorcebusyreadyproudstoveexamplepraise |  
 | bip_39_word_space_0 | ['plastic', 'stool', 'divorce', 'busy', 'ready', 'proud', 'stove', 'example', 'praise', 'mansion', 'company', 'attitude'] |  
 | bip_39_word_space_1 | plastic |  
 | bip_39_word_space_10 | plastic stool divorce busy ready proud stove example praise mansion |  

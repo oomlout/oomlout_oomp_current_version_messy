@@ -122,6 +122,18 @@ want
 uphold
 fluid
 danger |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimnursebonusskirtpreventwantupholdfluiddangerinput |  
+| bip_39_word_no_space_11 | trimnursebonusskirtpreventwantupholdfluiddangerinputlake |  
+| bip_39_word_no_space_12 | trimnursebonusskirtpreventwantupholdfluiddangerinputlakeartist |  
+| bip_39_word_no_space_2 | trimnurse |  
+| bip_39_word_no_space_3 | trimnursebonus |  
+| bip_39_word_no_space_4 | trimnursebonusskirt |  
+| bip_39_word_no_space_5 | trimnursebonusskirtprevent |  
+| bip_39_word_no_space_6 | trimnursebonusskirtpreventwant |  
+| bip_39_word_no_space_7 | trimnursebonusskirtpreventwantuphold |  
+| bip_39_word_no_space_8 | trimnursebonusskirtpreventwantupholdfluid |  
+| bip_39_word_no_space_9 | trimnursebonusskirtpreventwantupholdfluiddanger |  
 | bip_39_word_space_0 | ['trim', 'nurse', 'bonus', 'skirt', 'prevent', 'want', 'uphold', 'fluid', 'danger', 'input', 'lake', 'artist'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim nurse bonus skirt prevent want uphold fluid danger input |  

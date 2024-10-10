@@ -122,6 +122,18 @@ engage
 wolf
 pottery
 okay |  
+| bip_39_word_no_space_1 | strong |  
+| bip_39_word_no_space_10 | strongrightridetattoooneengagewolfpotteryokayarena |  
+| bip_39_word_no_space_11 | strongrightridetattoooneengagewolfpotteryokayarenacarpet |  
+| bip_39_word_no_space_12 | strongrightridetattoooneengagewolfpotteryokayarenacarpetanother |  
+| bip_39_word_no_space_2 | strongright |  
+| bip_39_word_no_space_3 | strongrightride |  
+| bip_39_word_no_space_4 | strongrightridetattoo |  
+| bip_39_word_no_space_5 | strongrightridetattooone |  
+| bip_39_word_no_space_6 | strongrightridetattoooneengage |  
+| bip_39_word_no_space_7 | strongrightridetattoooneengagewolf |  
+| bip_39_word_no_space_8 | strongrightridetattoooneengagewolfpottery |  
+| bip_39_word_no_space_9 | strongrightridetattoooneengagewolfpotteryokay |  
 | bip_39_word_space_0 | ['strong', 'right', 'ride', 'tattoo', 'one', 'engage', 'wolf', 'pottery', 'okay', 'arena', 'carpet', 'another'] |  
 | bip_39_word_space_1 | strong |  
 | bip_39_word_space_10 | strong right ride tattoo one engage wolf pottery okay arena |  

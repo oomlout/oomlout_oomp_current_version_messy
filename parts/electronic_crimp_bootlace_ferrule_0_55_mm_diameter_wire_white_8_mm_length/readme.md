@@ -122,6 +122,18 @@ elbow
 engage
 clown
 spend |  
+| bip_39_word_no_space_1 | clean |  
+| bip_39_word_no_space_10 | cleanoncesocialworrywisdomelbowengageclownspendpolar |  
+| bip_39_word_no_space_11 | cleanoncesocialworrywisdomelbowengageclownspendpolarhave |  
+| bip_39_word_no_space_12 | cleanoncesocialworrywisdomelbowengageclownspendpolarhaveagain |  
+| bip_39_word_no_space_2 | cleanonce |  
+| bip_39_word_no_space_3 | cleanoncesocial |  
+| bip_39_word_no_space_4 | cleanoncesocialworry |  
+| bip_39_word_no_space_5 | cleanoncesocialworrywisdom |  
+| bip_39_word_no_space_6 | cleanoncesocialworrywisdomelbow |  
+| bip_39_word_no_space_7 | cleanoncesocialworrywisdomelbowengage |  
+| bip_39_word_no_space_8 | cleanoncesocialworrywisdomelbowengageclown |  
+| bip_39_word_no_space_9 | cleanoncesocialworrywisdomelbowengageclownspend |  
 | bip_39_word_space_0 | ['clean', 'once', 'social', 'worry', 'wisdom', 'elbow', 'engage', 'clown', 'spend', 'polar', 'have', 'again'] |  
 | bip_39_word_space_1 | clean |  
 | bip_39_word_space_10 | clean once social worry wisdom elbow engage clown spend polar |  

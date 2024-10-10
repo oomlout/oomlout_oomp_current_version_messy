@@ -122,6 +122,18 @@ just
 rely
 cream
 secret |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footenginecrouchokaythingjustrelycreamsecretenjoy |  
+| bip_39_word_no_space_11 | footenginecrouchokaythingjustrelycreamsecretenjoymatrix |  
+| bip_39_word_no_space_12 | footenginecrouchokaythingjustrelycreamsecretenjoymatrixanchor |  
+| bip_39_word_no_space_2 | footengine |  
+| bip_39_word_no_space_3 | footenginecrouch |  
+| bip_39_word_no_space_4 | footenginecrouchokay |  
+| bip_39_word_no_space_5 | footenginecrouchokaything |  
+| bip_39_word_no_space_6 | footenginecrouchokaythingjust |  
+| bip_39_word_no_space_7 | footenginecrouchokaythingjustrely |  
+| bip_39_word_no_space_8 | footenginecrouchokaythingjustrelycream |  
+| bip_39_word_no_space_9 | footenginecrouchokaythingjustrelycreamsecret |  
 | bip_39_word_space_0 | ['foot', 'engine', 'crouch', 'okay', 'thing', 'just', 'rely', 'cream', 'secret', 'enjoy', 'matrix', 'anchor'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot engine crouch okay thing just rely cream secret enjoy |  

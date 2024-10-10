@@ -122,6 +122,18 @@ artefact
 like
 oven
 fancy |  
+| bip_39_word_no_space_1 | town |  
+| bip_39_word_no_space_10 | townattitudeheadgenrehorseartefactlikeovenfancybehind |  
+| bip_39_word_no_space_11 | townattitudeheadgenrehorseartefactlikeovenfancybehindicon |  
+| bip_39_word_no_space_12 | townattitudeheadgenrehorseartefactlikeovenfancybehindiconartist |  
+| bip_39_word_no_space_2 | townattitude |  
+| bip_39_word_no_space_3 | townattitudehead |  
+| bip_39_word_no_space_4 | townattitudeheadgenre |  
+| bip_39_word_no_space_5 | townattitudeheadgenrehorse |  
+| bip_39_word_no_space_6 | townattitudeheadgenrehorseartefact |  
+| bip_39_word_no_space_7 | townattitudeheadgenrehorseartefactlike |  
+| bip_39_word_no_space_8 | townattitudeheadgenrehorseartefactlikeoven |  
+| bip_39_word_no_space_9 | townattitudeheadgenrehorseartefactlikeovenfancy |  
 | bip_39_word_space_0 | ['town', 'attitude', 'head', 'genre', 'horse', 'artefact', 'like', 'oven', 'fancy', 'behind', 'icon', 'artist'] |  
 | bip_39_word_space_1 | town |  
 | bip_39_word_space_10 | town attitude head genre horse artefact like oven fancy behind |  

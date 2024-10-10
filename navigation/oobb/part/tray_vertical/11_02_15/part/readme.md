@@ -122,6 +122,18 @@ chuckle
 balance
 margin
 seven |  
+| bip_39_word_no_space_1 | pride |  
+| bip_39_word_no_space_10 | prideattendinjurychestsetupchucklebalancemarginsevenweasel |  
+| bip_39_word_no_space_11 | prideattendinjurychestsetupchucklebalancemarginsevenweaselmelt |  
+| bip_39_word_no_space_12 | prideattendinjurychestsetupchucklebalancemarginsevenweaselmeltattract |  
+| bip_39_word_no_space_2 | prideattend |  
+| bip_39_word_no_space_3 | prideattendinjury |  
+| bip_39_word_no_space_4 | prideattendinjurychest |  
+| bip_39_word_no_space_5 | prideattendinjurychestsetup |  
+| bip_39_word_no_space_6 | prideattendinjurychestsetupchuckle |  
+| bip_39_word_no_space_7 | prideattendinjurychestsetupchucklebalance |  
+| bip_39_word_no_space_8 | prideattendinjurychestsetupchucklebalancemargin |  
+| bip_39_word_no_space_9 | prideattendinjurychestsetupchucklebalancemarginseven |  
 | bip_39_word_space_0 | ['pride', 'attend', 'injury', 'chest', 'setup', 'chuckle', 'balance', 'margin', 'seven', 'weasel', 'melt', 'attract'] |  
 | bip_39_word_space_1 | pride |  
 | bip_39_word_space_10 | pride attend injury chest setup chuckle balance margin seven weasel |  

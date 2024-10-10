@@ -122,6 +122,18 @@ range
 tongue
 decade
 uniform |  
+| bip_39_word_no_space_1 | trend |  
+| bip_39_word_no_space_10 | trendshineringflipforestrangetonguedecadeuniformimmense |  
+| bip_39_word_no_space_11 | trendshineringflipforestrangetonguedecadeuniformimmensemention |  
+| bip_39_word_no_space_12 | trendshineringflipforestrangetonguedecadeuniformimmensementionalert |  
+| bip_39_word_no_space_2 | trendshine |  
+| bip_39_word_no_space_3 | trendshinering |  
+| bip_39_word_no_space_4 | trendshineringflip |  
+| bip_39_word_no_space_5 | trendshineringflipforest |  
+| bip_39_word_no_space_6 | trendshineringflipforestrange |  
+| bip_39_word_no_space_7 | trendshineringflipforestrangetongue |  
+| bip_39_word_no_space_8 | trendshineringflipforestrangetonguedecade |  
+| bip_39_word_no_space_9 | trendshineringflipforestrangetonguedecadeuniform |  
 | bip_39_word_space_0 | ['trend', 'shine', 'ring', 'flip', 'forest', 'range', 'tongue', 'decade', 'uniform', 'immense', 'mention', 'alert'] |  
 | bip_39_word_space_1 | trend |  
 | bip_39_word_space_10 | trend shine ring flip forest range tongue decade uniform immense |  

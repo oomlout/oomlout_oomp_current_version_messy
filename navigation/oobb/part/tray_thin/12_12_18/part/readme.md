@@ -122,6 +122,18 @@ you
 case
 hover
 shadow |  
+| bip_39_word_no_space_1 | wheat |  
+| bip_39_word_no_space_10 | wheatsaypopularunlockexciteyoucasehovershadowreward |  
+| bip_39_word_no_space_11 | wheatsaypopularunlockexciteyoucasehovershadowrewardaxis |  
+| bip_39_word_no_space_12 | wheatsaypopularunlockexciteyoucasehovershadowrewardaxisauction |  
+| bip_39_word_no_space_2 | wheatsay |  
+| bip_39_word_no_space_3 | wheatsaypopular |  
+| bip_39_word_no_space_4 | wheatsaypopularunlock |  
+| bip_39_word_no_space_5 | wheatsaypopularunlockexcite |  
+| bip_39_word_no_space_6 | wheatsaypopularunlockexciteyou |  
+| bip_39_word_no_space_7 | wheatsaypopularunlockexciteyoucase |  
+| bip_39_word_no_space_8 | wheatsaypopularunlockexciteyoucasehover |  
+| bip_39_word_no_space_9 | wheatsaypopularunlockexciteyoucasehovershadow |  
 | bip_39_word_space_0 | ['wheat', 'say', 'popular', 'unlock', 'excite', 'you', 'case', 'hover', 'shadow', 'reward', 'axis', 'auction'] |  
 | bip_39_word_space_1 | wheat |  
 | bip_39_word_space_10 | wheat say popular unlock excite you case hover shadow reward |  

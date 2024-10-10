@@ -122,6 +122,18 @@ together
 popular
 job
 illness |  
+| bip_39_word_no_space_1 | alley |  
+| bip_39_word_no_space_10 | alleyshoulderoldgenuinecasinotogetherpopularjobillnesscoral |  
+| bip_39_word_no_space_11 | alleyshoulderoldgenuinecasinotogetherpopularjobillnesscoralawesome |  
+| bip_39_word_no_space_12 | alleyshoulderoldgenuinecasinotogetherpopularjobillnesscoralawesomeallow |  
+| bip_39_word_no_space_2 | alleyshoulder |  
+| bip_39_word_no_space_3 | alleyshoulderold |  
+| bip_39_word_no_space_4 | alleyshoulderoldgenuine |  
+| bip_39_word_no_space_5 | alleyshoulderoldgenuinecasino |  
+| bip_39_word_no_space_6 | alleyshoulderoldgenuinecasinotogether |  
+| bip_39_word_no_space_7 | alleyshoulderoldgenuinecasinotogetherpopular |  
+| bip_39_word_no_space_8 | alleyshoulderoldgenuinecasinotogetherpopularjob |  
+| bip_39_word_no_space_9 | alleyshoulderoldgenuinecasinotogetherpopularjobillness |  
 | bip_39_word_space_0 | ['alley', 'shoulder', 'old', 'genuine', 'casino', 'together', 'popular', 'job', 'illness', 'coral', 'awesome', 'allow'] |  
 | bip_39_word_space_1 | alley |  
 | bip_39_word_space_10 | alley shoulder old genuine casino together popular job illness coral |  

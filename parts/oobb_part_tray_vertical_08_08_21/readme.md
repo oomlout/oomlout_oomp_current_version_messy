@@ -122,6 +122,18 @@ property
 hidden
 drum
 year |  
+| bip_39_word_no_space_1 | update |  
+| bip_39_word_no_space_10 | updateartistnorthfeelclogpropertyhiddendrumyearsource |  
+| bip_39_word_no_space_11 | updateartistnorthfeelclogpropertyhiddendrumyearsourceexpose |  
+| bip_39_word_no_space_12 | updateartistnorthfeelclogpropertyhiddendrumyearsourceexposeaim |  
+| bip_39_word_no_space_2 | updateartist |  
+| bip_39_word_no_space_3 | updateartistnorth |  
+| bip_39_word_no_space_4 | updateartistnorthfeel |  
+| bip_39_word_no_space_5 | updateartistnorthfeelclog |  
+| bip_39_word_no_space_6 | updateartistnorthfeelclogproperty |  
+| bip_39_word_no_space_7 | updateartistnorthfeelclogpropertyhidden |  
+| bip_39_word_no_space_8 | updateartistnorthfeelclogpropertyhiddendrum |  
+| bip_39_word_no_space_9 | updateartistnorthfeelclogpropertyhiddendrumyear |  
 | bip_39_word_space_0 | ['update', 'artist', 'north', 'feel', 'clog', 'property', 'hidden', 'drum', 'year', 'source', 'expose', 'aim'] |  
 | bip_39_word_space_1 | update |  
 | bip_39_word_space_10 | update artist north feel clog property hidden drum year source |  

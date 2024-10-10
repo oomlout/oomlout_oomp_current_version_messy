@@ -122,6 +122,18 @@ frozen
 pumpkin
 weekend
 loud |  
+| bip_39_word_no_space_1 | lecture |  
+| bip_39_word_no_space_10 | lecturebreezerivernormaldawnfrozenpumpkinweekendloudknee |  
+| bip_39_word_no_space_11 | lecturebreezerivernormaldawnfrozenpumpkinweekendloudkneesouth |  
+| bip_39_word_no_space_12 | lecturebreezerivernormaldawnfrozenpumpkinweekendloudkneesouthadult |  
+| bip_39_word_no_space_2 | lecturebreeze |  
+| bip_39_word_no_space_3 | lecturebreezeriver |  
+| bip_39_word_no_space_4 | lecturebreezerivernormal |  
+| bip_39_word_no_space_5 | lecturebreezerivernormaldawn |  
+| bip_39_word_no_space_6 | lecturebreezerivernormaldawnfrozen |  
+| bip_39_word_no_space_7 | lecturebreezerivernormaldawnfrozenpumpkin |  
+| bip_39_word_no_space_8 | lecturebreezerivernormaldawnfrozenpumpkinweekend |  
+| bip_39_word_no_space_9 | lecturebreezerivernormaldawnfrozenpumpkinweekendloud |  
 | bip_39_word_space_0 | ['lecture', 'breeze', 'river', 'normal', 'dawn', 'frozen', 'pumpkin', 'weekend', 'loud', 'knee', 'south', 'adult'] |  
 | bip_39_word_space_1 | lecture |  
 | bip_39_word_space_10 | lecture breeze river normal dawn frozen pumpkin weekend loud knee |  

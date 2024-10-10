@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'quick
   leaf
 
   develop'
+bip_39_word_no_space_1: quick
+bip_39_word_no_space_10: quickfictionunveilclumprepairquitcubeleafdevelopmuscle
+bip_39_word_no_space_11: quickfictionunveilclumprepairquitcubeleafdevelopmusclefork
+bip_39_word_no_space_12: quickfictionunveilclumprepairquitcubeleafdevelopmuscleforkacoustic
+bip_39_word_no_space_2: quickfiction
+bip_39_word_no_space_3: quickfictionunveil
+bip_39_word_no_space_4: quickfictionunveilclump
+bip_39_word_no_space_5: quickfictionunveilclumprepair
+bip_39_word_no_space_6: quickfictionunveilclumprepairquit
+bip_39_word_no_space_7: quickfictionunveilclumprepairquitcube
+bip_39_word_no_space_8: quickfictionunveilclumprepairquitcubeleaf
+bip_39_word_no_space_9: quickfictionunveilclumprepairquitcubeleafdevelop
 bip_39_word_space_0:
 - quick
 - fiction

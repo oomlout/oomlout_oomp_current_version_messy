@@ -122,6 +122,18 @@ pretty
 impact
 afford
 someone |  
+| bip_39_word_no_space_1 | book |  
+| bip_39_word_no_space_10 | booktacklemonthpatterncoinprettyimpactaffordsomeoneonce |  
+| bip_39_word_no_space_11 | booktacklemonthpatterncoinprettyimpactaffordsomeoneonceaccount |  
+| bip_39_word_no_space_12 | booktacklemonthpatterncoinprettyimpactaffordsomeoneonceaccountannual |  
+| bip_39_word_no_space_2 | booktackle |  
+| bip_39_word_no_space_3 | booktacklemonth |  
+| bip_39_word_no_space_4 | booktacklemonthpattern |  
+| bip_39_word_no_space_5 | booktacklemonthpatterncoin |  
+| bip_39_word_no_space_6 | booktacklemonthpatterncoinpretty |  
+| bip_39_word_no_space_7 | booktacklemonthpatterncoinprettyimpact |  
+| bip_39_word_no_space_8 | booktacklemonthpatterncoinprettyimpactafford |  
+| bip_39_word_no_space_9 | booktacklemonthpatterncoinprettyimpactaffordsomeone |  
 | bip_39_word_space_0 | ['book', 'tackle', 'month', 'pattern', 'coin', 'pretty', 'impact', 'afford', 'someone', 'once', 'account', 'annual'] |  
 | bip_39_word_space_1 | book |  
 | bip_39_word_space_10 | book tackle month pattern coin pretty impact afford someone once |  

@@ -122,6 +122,18 @@ elbow
 write
 suspect
 dentist |  
+| bip_39_word_no_space_1 | question |  
+| bip_39_word_no_space_10 | questionclaimcameranurseyouelbowwritesuspectdentistrubber |  
+| bip_39_word_no_space_11 | questionclaimcameranurseyouelbowwritesuspectdentistrubberminor |  
+| bip_39_word_no_space_12 | questionclaimcameranurseyouelbowwritesuspectdentistrubberminoractor |  
+| bip_39_word_no_space_2 | questionclaim |  
+| bip_39_word_no_space_3 | questionclaimcamera |  
+| bip_39_word_no_space_4 | questionclaimcameranurse |  
+| bip_39_word_no_space_5 | questionclaimcameranurseyou |  
+| bip_39_word_no_space_6 | questionclaimcameranurseyouelbow |  
+| bip_39_word_no_space_7 | questionclaimcameranurseyouelbowwrite |  
+| bip_39_word_no_space_8 | questionclaimcameranurseyouelbowwritesuspect |  
+| bip_39_word_no_space_9 | questionclaimcameranurseyouelbowwritesuspectdentist |  
 | bip_39_word_space_0 | ['question', 'claim', 'camera', 'nurse', 'you', 'elbow', 'write', 'suspect', 'dentist', 'rubber', 'minor', 'actor'] |  
 | bip_39_word_space_1 | question |  
 | bip_39_word_space_10 | question claim camera nurse you elbow write suspect dentist rubber |  

@@ -122,6 +122,18 @@ bargain
 rug
 approve
 beauty |  
+| bip_39_word_no_space_1 | husband |  
+| bip_39_word_no_space_10 | husbandsingsustainactualbonusbargainrugapprovebeautybalance |  
+| bip_39_word_no_space_11 | husbandsingsustainactualbonusbargainrugapprovebeautybalanceillegal |  
+| bip_39_word_no_space_12 | husbandsingsustainactualbonusbargainrugapprovebeautybalanceillegalaccess |  
+| bip_39_word_no_space_2 | husbandsing |  
+| bip_39_word_no_space_3 | husbandsingsustain |  
+| bip_39_word_no_space_4 | husbandsingsustainactual |  
+| bip_39_word_no_space_5 | husbandsingsustainactualbonus |  
+| bip_39_word_no_space_6 | husbandsingsustainactualbonusbargain |  
+| bip_39_word_no_space_7 | husbandsingsustainactualbonusbargainrug |  
+| bip_39_word_no_space_8 | husbandsingsustainactualbonusbargainrugapprove |  
+| bip_39_word_no_space_9 | husbandsingsustainactualbonusbargainrugapprovebeauty |  
 | bip_39_word_space_0 | ['husband', 'sing', 'sustain', 'actual', 'bonus', 'bargain', 'rug', 'approve', 'beauty', 'balance', 'illegal', 'access'] |  
 | bip_39_word_space_1 | husband |  
 | bip_39_word_space_10 | husband sing sustain actual bonus bargain rug approve beauty balance |  

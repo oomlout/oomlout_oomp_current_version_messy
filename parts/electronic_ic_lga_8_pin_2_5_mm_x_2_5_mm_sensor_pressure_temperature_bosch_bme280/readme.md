@@ -122,6 +122,18 @@ grow
 tide
 loop
 else |  
+| bip_39_word_no_space_1 | usual |  
+| bip_39_word_no_space_10 | usualladderwreckcoconutwhispergrowtideloopelsefly |  
+| bip_39_word_no_space_11 | usualladderwreckcoconutwhispergrowtideloopelseflydanger |  
+| bip_39_word_no_space_12 | usualladderwreckcoconutwhispergrowtideloopelseflydangeradult |  
+| bip_39_word_no_space_2 | usualladder |  
+| bip_39_word_no_space_3 | usualladderwreck |  
+| bip_39_word_no_space_4 | usualladderwreckcoconut |  
+| bip_39_word_no_space_5 | usualladderwreckcoconutwhisper |  
+| bip_39_word_no_space_6 | usualladderwreckcoconutwhispergrow |  
+| bip_39_word_no_space_7 | usualladderwreckcoconutwhispergrowtide |  
+| bip_39_word_no_space_8 | usualladderwreckcoconutwhispergrowtideloop |  
+| bip_39_word_no_space_9 | usualladderwreckcoconutwhispergrowtideloopelse |  
 | bip_39_word_space_0 | ['usual', 'ladder', 'wreck', 'coconut', 'whisper', 'grow', 'tide', 'loop', 'else', 'fly', 'danger', 'adult'] |  
 | bip_39_word_space_1 | usual |  
 | bip_39_word_space_10 | usual ladder wreck coconut whisper grow tide loop else fly |  

@@ -122,6 +122,18 @@ imitate
 spice
 suggest
 middle |  
+| bip_39_word_no_space_1 | actress |  
+| bip_39_word_no_space_10 | actresselbowdisharguenoseimitatespicesuggestmiddlevoice |  
+| bip_39_word_no_space_11 | actresselbowdisharguenoseimitatespicesuggestmiddlevoicenoble |  
+| bip_39_word_no_space_12 | actresselbowdisharguenoseimitatespicesuggestmiddlevoicenoblealone |  
+| bip_39_word_no_space_2 | actresselbow |  
+| bip_39_word_no_space_3 | actresselbowdish |  
+| bip_39_word_no_space_4 | actresselbowdishargue |  
+| bip_39_word_no_space_5 | actresselbowdisharguenose |  
+| bip_39_word_no_space_6 | actresselbowdisharguenoseimitate |  
+| bip_39_word_no_space_7 | actresselbowdisharguenoseimitatespice |  
+| bip_39_word_no_space_8 | actresselbowdisharguenoseimitatespicesuggest |  
+| bip_39_word_no_space_9 | actresselbowdisharguenoseimitatespicesuggestmiddle |  
 | bip_39_word_space_0 | ['actress', 'elbow', 'dish', 'argue', 'nose', 'imitate', 'spice', 'suggest', 'middle', 'voice', 'noble', 'alone'] |  
 | bip_39_word_space_1 | actress |  
 | bip_39_word_space_10 | actress elbow dish argue nose imitate spice suggest middle voice |  

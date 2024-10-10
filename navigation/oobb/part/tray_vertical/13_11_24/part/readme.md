@@ -122,6 +122,18 @@ choice
 divide
 insane
 elevator |  
+| bip_39_word_no_space_1 | cheap |  
+| bip_39_word_no_space_10 | cheapnegativestementerstagechoicedivideinsaneelevatordry |  
+| bip_39_word_no_space_11 | cheapnegativestementerstagechoicedivideinsaneelevatordrypave |  
+| bip_39_word_no_space_12 | cheapnegativestementerstagechoicedivideinsaneelevatordrypaveapple |  
+| bip_39_word_no_space_2 | cheapnegative |  
+| bip_39_word_no_space_3 | cheapnegativestem |  
+| bip_39_word_no_space_4 | cheapnegativestementer |  
+| bip_39_word_no_space_5 | cheapnegativestementerstage |  
+| bip_39_word_no_space_6 | cheapnegativestementerstagechoice |  
+| bip_39_word_no_space_7 | cheapnegativestementerstagechoicedivide |  
+| bip_39_word_no_space_8 | cheapnegativestementerstagechoicedivideinsane |  
+| bip_39_word_no_space_9 | cheapnegativestementerstagechoicedivideinsaneelevator |  
 | bip_39_word_space_0 | ['cheap', 'negative', 'stem', 'enter', 'stage', 'choice', 'divide', 'insane', 'elevator', 'dry', 'pave', 'apple'] |  
 | bip_39_word_space_1 | cheap |  
 | bip_39_word_space_10 | cheap negative stem enter stage choice divide insane elevator dry |  

@@ -122,6 +122,18 @@ retire
 man
 path
 skill |  
+| bip_39_word_no_space_1 | simple |  
+| bip_39_word_no_space_10 | simplesuccessvanishtellworkretiremanpathskillverify |  
+| bip_39_word_no_space_11 | simplesuccessvanishtellworkretiremanpathskillverifyeagle |  
+| bip_39_word_no_space_12 | simplesuccessvanishtellworkretiremanpathskillverifyeagleaim |  
+| bip_39_word_no_space_2 | simplesuccess |  
+| bip_39_word_no_space_3 | simplesuccessvanish |  
+| bip_39_word_no_space_4 | simplesuccessvanishtell |  
+| bip_39_word_no_space_5 | simplesuccessvanishtellwork |  
+| bip_39_word_no_space_6 | simplesuccessvanishtellworkretire |  
+| bip_39_word_no_space_7 | simplesuccessvanishtellworkretireman |  
+| bip_39_word_no_space_8 | simplesuccessvanishtellworkretiremanpath |  
+| bip_39_word_no_space_9 | simplesuccessvanishtellworkretiremanpathskill |  
 | bip_39_word_space_0 | ['simple', 'success', 'vanish', 'tell', 'work', 'retire', 'man', 'path', 'skill', 'verify', 'eagle', 'aim'] |  
 | bip_39_word_space_1 | simple |  
 | bip_39_word_space_10 | simple success vanish tell work retire man path skill verify |  

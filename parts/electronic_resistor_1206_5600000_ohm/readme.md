@@ -122,6 +122,18 @@ tomorrow
 mom
 program
 tail |  
+| bip_39_word_no_space_1 | daring |  
+| bip_39_word_no_space_10 | daringvisitsessionbarchieftomorrowmomprogramtailjeans |  
+| bip_39_word_no_space_11 | daringvisitsessionbarchieftomorrowmomprogramtailjeansfish |  
+| bip_39_word_no_space_12 | daringvisitsessionbarchieftomorrowmomprogramtailjeansfishadvance |  
+| bip_39_word_no_space_2 | daringvisit |  
+| bip_39_word_no_space_3 | daringvisitsession |  
+| bip_39_word_no_space_4 | daringvisitsessionbar |  
+| bip_39_word_no_space_5 | daringvisitsessionbarchief |  
+| bip_39_word_no_space_6 | daringvisitsessionbarchieftomorrow |  
+| bip_39_word_no_space_7 | daringvisitsessionbarchieftomorrowmom |  
+| bip_39_word_no_space_8 | daringvisitsessionbarchieftomorrowmomprogram |  
+| bip_39_word_no_space_9 | daringvisitsessionbarchieftomorrowmomprogramtail |  
 | bip_39_word_space_0 | ['daring', 'visit', 'session', 'bar', 'chief', 'tomorrow', 'mom', 'program', 'tail', 'jeans', 'fish', 'advance'] |  
 | bip_39_word_space_1 | daring |  
 | bip_39_word_space_10 | daring visit session bar chief tomorrow mom program tail jeans |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'actor
   time
 
   phrase'
+bip_39_word_no_space_1: actor
+bip_39_word_no_space_10: actorfavoritelooptermliquidtrulynastytimephrasebusiness
+bip_39_word_no_space_11: actorfavoritelooptermliquidtrulynastytimephrasebusinessable
+bip_39_word_no_space_12: actorfavoritelooptermliquidtrulynastytimephrasebusinessablealpha
+bip_39_word_no_space_2: actorfavorite
+bip_39_word_no_space_3: actorfavoriteloop
+bip_39_word_no_space_4: actorfavoriteloopterm
+bip_39_word_no_space_5: actorfavoritelooptermliquid
+bip_39_word_no_space_6: actorfavoritelooptermliquidtruly
+bip_39_word_no_space_7: actorfavoritelooptermliquidtrulynasty
+bip_39_word_no_space_8: actorfavoritelooptermliquidtrulynastytime
+bip_39_word_no_space_9: actorfavoritelooptermliquidtrulynastytimephrase
 bip_39_word_space_0:
 - actor
 - favorite

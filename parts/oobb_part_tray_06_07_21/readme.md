@@ -122,6 +122,18 @@ census
 spin
 amazing
 bargain |  
+| bip_39_word_no_space_1 | unknown |  
+| bip_39_word_no_space_10 | unknownrosescienceabovewordcensusspinamazingbargainmake |  
+| bip_39_word_no_space_11 | unknownrosescienceabovewordcensusspinamazingbargainmakefoster |  
+| bip_39_word_no_space_12 | unknownrosescienceabovewordcensusspinamazingbargainmakefosterart |  
+| bip_39_word_no_space_2 | unknownrose |  
+| bip_39_word_no_space_3 | unknownrosescience |  
+| bip_39_word_no_space_4 | unknownrosescienceabove |  
+| bip_39_word_no_space_5 | unknownrosescienceaboveword |  
+| bip_39_word_no_space_6 | unknownrosescienceabovewordcensus |  
+| bip_39_word_no_space_7 | unknownrosescienceabovewordcensusspin |  
+| bip_39_word_no_space_8 | unknownrosescienceabovewordcensusspinamazing |  
+| bip_39_word_no_space_9 | unknownrosescienceabovewordcensusspinamazingbargain |  
 | bip_39_word_space_0 | ['unknown', 'rose', 'science', 'above', 'word', 'census', 'spin', 'amazing', 'bargain', 'make', 'foster', 'art'] |  
 | bip_39_word_space_1 | unknown |  
 | bip_39_word_space_10 | unknown rose science above word census spin amazing bargain make |  

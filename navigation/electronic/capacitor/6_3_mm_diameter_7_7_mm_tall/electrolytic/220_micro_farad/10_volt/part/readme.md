@@ -122,6 +122,18 @@ addict
 dizzy
 giraffe
 art |  
+| bip_39_word_no_space_1 | observe |  
+| bip_39_word_no_space_10 | observeborderarcticbuildpriorityaddictdizzygiraffeartacoustic |  
+| bip_39_word_no_space_11 | observeborderarcticbuildpriorityaddictdizzygiraffeartacousticride |  
+| bip_39_word_no_space_12 | observeborderarcticbuildpriorityaddictdizzygiraffeartacousticrideaverage |  
+| bip_39_word_no_space_2 | observeborder |  
+| bip_39_word_no_space_3 | observeborderarctic |  
+| bip_39_word_no_space_4 | observeborderarcticbuild |  
+| bip_39_word_no_space_5 | observeborderarcticbuildpriority |  
+| bip_39_word_no_space_6 | observeborderarcticbuildpriorityaddict |  
+| bip_39_word_no_space_7 | observeborderarcticbuildpriorityaddictdizzy |  
+| bip_39_word_no_space_8 | observeborderarcticbuildpriorityaddictdizzygiraffe |  
+| bip_39_word_no_space_9 | observeborderarcticbuildpriorityaddictdizzygiraffeart |  
 | bip_39_word_space_0 | ['observe', 'border', 'arctic', 'build', 'priority', 'addict', 'dizzy', 'giraffe', 'art', 'acoustic', 'ride', 'average'] |  
 | bip_39_word_space_1 | observe |  
 | bip_39_word_space_10 | observe border arctic build priority addict dizzy giraffe art acoustic |  

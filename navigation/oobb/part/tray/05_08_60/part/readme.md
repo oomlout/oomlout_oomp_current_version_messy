@@ -122,6 +122,18 @@ scrub
 meat
 assault
 report |  
+| bip_39_word_no_space_1 | entry |  
+| bip_39_word_no_space_10 | entryheightghostbossobjectscrubmeatassaultreportfee |  
+| bip_39_word_no_space_11 | entryheightghostbossobjectscrubmeatassaultreportfeeviable |  
+| bip_39_word_no_space_12 | entryheightghostbossobjectscrubmeatassaultreportfeeviableasthma |  
+| bip_39_word_no_space_2 | entryheight |  
+| bip_39_word_no_space_3 | entryheightghost |  
+| bip_39_word_no_space_4 | entryheightghostboss |  
+| bip_39_word_no_space_5 | entryheightghostbossobject |  
+| bip_39_word_no_space_6 | entryheightghostbossobjectscrub |  
+| bip_39_word_no_space_7 | entryheightghostbossobjectscrubmeat |  
+| bip_39_word_no_space_8 | entryheightghostbossobjectscrubmeatassault |  
+| bip_39_word_no_space_9 | entryheightghostbossobjectscrubmeatassaultreport |  
 | bip_39_word_space_0 | ['entry', 'height', 'ghost', 'boss', 'object', 'scrub', 'meat', 'assault', 'report', 'fee', 'viable', 'asthma'] |  
 | bip_39_word_space_1 | entry |  
 | bip_39_word_space_10 | entry height ghost boss object scrub meat assault report fee |  

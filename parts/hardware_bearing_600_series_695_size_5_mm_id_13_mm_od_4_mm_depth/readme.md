@@ -122,6 +122,18 @@ bottom
 grunt
 oil
 struggle |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeyshinecatalogotherbelowbottomgruntoilstrugglebrass |  
+| bip_39_word_no_space_11 | monkeyshinecatalogotherbelowbottomgruntoilstrugglebrasswonder |  
+| bip_39_word_no_space_12 | monkeyshinecatalogotherbelowbottomgruntoilstrugglebrasswonderadapt |  
+| bip_39_word_no_space_2 | monkeyshine |  
+| bip_39_word_no_space_3 | monkeyshinecatalog |  
+| bip_39_word_no_space_4 | monkeyshinecatalogother |  
+| bip_39_word_no_space_5 | monkeyshinecatalogotherbelow |  
+| bip_39_word_no_space_6 | monkeyshinecatalogotherbelowbottom |  
+| bip_39_word_no_space_7 | monkeyshinecatalogotherbelowbottomgrunt |  
+| bip_39_word_no_space_8 | monkeyshinecatalogotherbelowbottomgruntoil |  
+| bip_39_word_no_space_9 | monkeyshinecatalogotherbelowbottomgruntoilstruggle |  
 | bip_39_word_space_0 | ['monkey', 'shine', 'catalog', 'other', 'below', 'bottom', 'grunt', 'oil', 'struggle', 'brass', 'wonder', 'adapt'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey shine catalog other below bottom grunt oil struggle brass |  

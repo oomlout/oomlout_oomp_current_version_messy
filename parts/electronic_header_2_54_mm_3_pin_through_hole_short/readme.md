@@ -122,6 +122,18 @@ retreat
 dawn
 mass
 taxi |  
+| bip_39_word_no_space_1 | fence |  
+| bip_39_word_no_space_10 | fencecleverdebrisstereoartistretreatdawnmasstaxifloor |  
+| bip_39_word_no_space_11 | fencecleverdebrisstereoartistretreatdawnmasstaxifloorlounge |  
+| bip_39_word_no_space_12 | fencecleverdebrisstereoartistretreatdawnmasstaxifloorloungearrange |  
+| bip_39_word_no_space_2 | fenceclever |  
+| bip_39_word_no_space_3 | fencecleverdebris |  
+| bip_39_word_no_space_4 | fencecleverdebrisstereo |  
+| bip_39_word_no_space_5 | fencecleverdebrisstereoartist |  
+| bip_39_word_no_space_6 | fencecleverdebrisstereoartistretreat |  
+| bip_39_word_no_space_7 | fencecleverdebrisstereoartistretreatdawn |  
+| bip_39_word_no_space_8 | fencecleverdebrisstereoartistretreatdawnmass |  
+| bip_39_word_no_space_9 | fencecleverdebrisstereoartistretreatdawnmasstaxi |  
 | bip_39_word_space_0 | ['fence', 'clever', 'debris', 'stereo', 'artist', 'retreat', 'dawn', 'mass', 'taxi', 'floor', 'lounge', 'arrange'] |  
 | bip_39_word_space_1 | fence |  
 | bip_39_word_space_10 | fence clever debris stereo artist retreat dawn mass taxi floor |  

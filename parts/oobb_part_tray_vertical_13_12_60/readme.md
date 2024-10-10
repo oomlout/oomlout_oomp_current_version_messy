@@ -122,6 +122,18 @@ provide
 rival
 argue
 hollow |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detectgadgettomorrowcoinhospitalproviderivalarguehollowpopular |  
+| bip_39_word_no_space_11 | detectgadgettomorrowcoinhospitalproviderivalarguehollowpopulargiraffe |  
+| bip_39_word_no_space_12 | detectgadgettomorrowcoinhospitalproviderivalarguehollowpopulargiraffeagain |  
+| bip_39_word_no_space_2 | detectgadget |  
+| bip_39_word_no_space_3 | detectgadgettomorrow |  
+| bip_39_word_no_space_4 | detectgadgettomorrowcoin |  
+| bip_39_word_no_space_5 | detectgadgettomorrowcoinhospital |  
+| bip_39_word_no_space_6 | detectgadgettomorrowcoinhospitalprovide |  
+| bip_39_word_no_space_7 | detectgadgettomorrowcoinhospitalproviderival |  
+| bip_39_word_no_space_8 | detectgadgettomorrowcoinhospitalproviderivalargue |  
+| bip_39_word_no_space_9 | detectgadgettomorrowcoinhospitalproviderivalarguehollow |  
 | bip_39_word_space_0 | ['detect', 'gadget', 'tomorrow', 'coin', 'hospital', 'provide', 'rival', 'argue', 'hollow', 'popular', 'giraffe', 'again'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect gadget tomorrow coin hospital provide rival argue hollow popular |  

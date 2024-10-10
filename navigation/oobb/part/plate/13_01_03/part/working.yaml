@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'paddle
   better
 
   sing'
+bip_39_word_no_space_1: paddle
+bip_39_word_no_space_10: paddlefewspatialscanepisodetoolclientbettersingladder
+bip_39_word_no_space_11: paddlefewspatialscanepisodetoolclientbettersingladderscan
+bip_39_word_no_space_12: paddlefewspatialscanepisodetoolclientbettersingladderscanapology
+bip_39_word_no_space_2: paddlefew
+bip_39_word_no_space_3: paddlefewspatial
+bip_39_word_no_space_4: paddlefewspatialscan
+bip_39_word_no_space_5: paddlefewspatialscanepisode
+bip_39_word_no_space_6: paddlefewspatialscanepisodetool
+bip_39_word_no_space_7: paddlefewspatialscanepisodetoolclient
+bip_39_word_no_space_8: paddlefewspatialscanepisodetoolclientbetter
+bip_39_word_no_space_9: paddlefewspatialscanepisodetoolclientbettersing
 bip_39_word_space_0:
 - paddle
 - few

@@ -122,6 +122,18 @@ still
 stand
 master
 oxygen |  
+| bip_39_word_no_space_1 | build |  
+| bip_39_word_no_space_10 | buildlaborcooltalkfunnystillstandmasteroxygenmedia |  
+| bip_39_word_no_space_11 | buildlaborcooltalkfunnystillstandmasteroxygenmediaincome |  
+| bip_39_word_no_space_12 | buildlaborcooltalkfunnystillstandmasteroxygenmediaincomearea |  
+| bip_39_word_no_space_2 | buildlabor |  
+| bip_39_word_no_space_3 | buildlaborcool |  
+| bip_39_word_no_space_4 | buildlaborcooltalk |  
+| bip_39_word_no_space_5 | buildlaborcooltalkfunny |  
+| bip_39_word_no_space_6 | buildlaborcooltalkfunnystill |  
+| bip_39_word_no_space_7 | buildlaborcooltalkfunnystillstand |  
+| bip_39_word_no_space_8 | buildlaborcooltalkfunnystillstandmaster |  
+| bip_39_word_no_space_9 | buildlaborcooltalkfunnystillstandmasteroxygen |  
 | bip_39_word_space_0 | ['build', 'labor', 'cool', 'talk', 'funny', 'still', 'stand', 'master', 'oxygen', 'media', 'income', 'area'] |  
 | bip_39_word_space_1 | build |  
 | bip_39_word_space_10 | build labor cool talk funny still stand master oxygen media |  

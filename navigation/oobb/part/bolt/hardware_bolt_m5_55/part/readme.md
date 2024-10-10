@@ -122,6 +122,18 @@ early
 near
 ensure
 want |  
+| bip_39_word_no_space_1 | brown |  
+| bip_39_word_no_space_10 | brownobtainfriendintactsweetearlynearensurewantproblem |  
+| bip_39_word_no_space_11 | brownobtainfriendintactsweetearlynearensurewantproblemauthor |  
+| bip_39_word_no_space_12 | brownobtainfriendintactsweetearlynearensurewantproblemauthoracross |  
+| bip_39_word_no_space_2 | brownobtain |  
+| bip_39_word_no_space_3 | brownobtainfriend |  
+| bip_39_word_no_space_4 | brownobtainfriendintact |  
+| bip_39_word_no_space_5 | brownobtainfriendintactsweet |  
+| bip_39_word_no_space_6 | brownobtainfriendintactsweetearly |  
+| bip_39_word_no_space_7 | brownobtainfriendintactsweetearlynear |  
+| bip_39_word_no_space_8 | brownobtainfriendintactsweetearlynearensure |  
+| bip_39_word_no_space_9 | brownobtainfriendintactsweetearlynearensurewant |  
 | bip_39_word_space_0 | ['brown', 'obtain', 'friend', 'intact', 'sweet', 'early', 'near', 'ensure', 'want', 'problem', 'author', 'across'] |  
 | bip_39_word_space_1 | brown |  
 | bip_39_word_space_10 | brown obtain friend intact sweet early near ensure want problem |  

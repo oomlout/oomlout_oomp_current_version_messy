@@ -122,6 +122,18 @@ drill
 visit
 require
 same |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisuretopictragicexposevisualdrillvisitrequiresamecombine |  
+| bip_39_word_no_space_11 | leisuretopictragicexposevisualdrillvisitrequiresamecombineboy |  
+| bip_39_word_no_space_12 | leisuretopictragicexposevisualdrillvisitrequiresamecombineboyadjust |  
+| bip_39_word_no_space_2 | leisuretopic |  
+| bip_39_word_no_space_3 | leisuretopictragic |  
+| bip_39_word_no_space_4 | leisuretopictragicexpose |  
+| bip_39_word_no_space_5 | leisuretopictragicexposevisual |  
+| bip_39_word_no_space_6 | leisuretopictragicexposevisualdrill |  
+| bip_39_word_no_space_7 | leisuretopictragicexposevisualdrillvisit |  
+| bip_39_word_no_space_8 | leisuretopictragicexposevisualdrillvisitrequire |  
+| bip_39_word_no_space_9 | leisuretopictragicexposevisualdrillvisitrequiresame |  
 | bip_39_word_space_0 | ['leisure', 'topic', 'tragic', 'expose', 'visual', 'drill', 'visit', 'require', 'same', 'combine', 'boy', 'adjust'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure topic tragic expose visual drill visit require same combine |  

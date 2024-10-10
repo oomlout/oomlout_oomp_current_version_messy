@@ -122,6 +122,18 @@ priority
 hub
 glove
 tired |  
+| bip_39_word_no_space_1 | such |  
+| bip_39_word_no_space_10 | suchtaxierosionseminarbrokenpriorityhubglovetiredsiege |  
+| bip_39_word_no_space_11 | suchtaxierosionseminarbrokenpriorityhubglovetiredsiegeasthma |  
+| bip_39_word_no_space_12 | suchtaxierosionseminarbrokenpriorityhubglovetiredsiegeasthmaantenna |  
+| bip_39_word_no_space_2 | suchtaxi |  
+| bip_39_word_no_space_3 | suchtaxierosion |  
+| bip_39_word_no_space_4 | suchtaxierosionseminar |  
+| bip_39_word_no_space_5 | suchtaxierosionseminarbroken |  
+| bip_39_word_no_space_6 | suchtaxierosionseminarbrokenpriority |  
+| bip_39_word_no_space_7 | suchtaxierosionseminarbrokenpriorityhub |  
+| bip_39_word_no_space_8 | suchtaxierosionseminarbrokenpriorityhubglove |  
+| bip_39_word_no_space_9 | suchtaxierosionseminarbrokenpriorityhubglovetired |  
 | bip_39_word_space_0 | ['such', 'taxi', 'erosion', 'seminar', 'broken', 'priority', 'hub', 'glove', 'tired', 'siege', 'asthma', 'antenna'] |  
 | bip_39_word_space_1 | such |  
 | bip_39_word_space_10 | such taxi erosion seminar broken priority hub glove tired siege |  

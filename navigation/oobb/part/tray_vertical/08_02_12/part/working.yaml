@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'net
   wave
 
   crisp'
+bip_39_word_no_space_1: net
+bip_39_word_no_space_10: netdetectvacantdilemmagridgasspiritwavecrispmerry
+bip_39_word_no_space_11: netdetectvacantdilemmagridgasspiritwavecrispmerryfather
+bip_39_word_no_space_12: netdetectvacantdilemmagridgasspiritwavecrispmerryfatheragain
+bip_39_word_no_space_2: netdetect
+bip_39_word_no_space_3: netdetectvacant
+bip_39_word_no_space_4: netdetectvacantdilemma
+bip_39_word_no_space_5: netdetectvacantdilemmagrid
+bip_39_word_no_space_6: netdetectvacantdilemmagridgas
+bip_39_word_no_space_7: netdetectvacantdilemmagridgasspirit
+bip_39_word_no_space_8: netdetectvacantdilemmagridgasspiritwave
+bip_39_word_no_space_9: netdetectvacantdilemmagridgasspiritwavecrisp
 bip_39_word_space_0:
 - net
 - detect

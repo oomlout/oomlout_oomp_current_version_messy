@@ -122,6 +122,18 @@ cable
 slim
 arctic
 raccoon |  
+| bip_39_word_no_space_1 | dynamic |  
+| bip_39_word_no_space_10 | dynamicacrossquiztraythoughtcableslimarcticraccoonreflect |  
+| bip_39_word_no_space_11 | dynamicacrossquiztraythoughtcableslimarcticraccoonreflectgiant |  
+| bip_39_word_no_space_12 | dynamicacrossquiztraythoughtcableslimarcticraccoonreflectgiantarena |  
+| bip_39_word_no_space_2 | dynamicacross |  
+| bip_39_word_no_space_3 | dynamicacrossquiz |  
+| bip_39_word_no_space_4 | dynamicacrossquiztray |  
+| bip_39_word_no_space_5 | dynamicacrossquiztraythought |  
+| bip_39_word_no_space_6 | dynamicacrossquiztraythoughtcable |  
+| bip_39_word_no_space_7 | dynamicacrossquiztraythoughtcableslim |  
+| bip_39_word_no_space_8 | dynamicacrossquiztraythoughtcableslimarctic |  
+| bip_39_word_no_space_9 | dynamicacrossquiztraythoughtcableslimarcticraccoon |  
 | bip_39_word_space_0 | ['dynamic', 'across', 'quiz', 'tray', 'thought', 'cable', 'slim', 'arctic', 'raccoon', 'reflect', 'giant', 'arena'] |  
 | bip_39_word_space_1 | dynamic |  
 | bip_39_word_space_10 | dynamic across quiz tray thought cable slim arctic raccoon reflect |  

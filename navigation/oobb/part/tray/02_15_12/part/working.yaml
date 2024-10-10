@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lemon
   bag
 
   naive'
+bip_39_word_no_space_1: lemon
+bip_39_word_no_space_10: lemonstoolgeneralvirusenjoysightscrapbagnaivelearn
+bip_39_word_no_space_11: lemonstoolgeneralvirusenjoysightscrapbagnaivelearngiraffe
+bip_39_word_no_space_12: lemonstoolgeneralvirusenjoysightscrapbagnaivelearngiraffeadult
+bip_39_word_no_space_2: lemonstool
+bip_39_word_no_space_3: lemonstoolgeneral
+bip_39_word_no_space_4: lemonstoolgeneralvirus
+bip_39_word_no_space_5: lemonstoolgeneralvirusenjoy
+bip_39_word_no_space_6: lemonstoolgeneralvirusenjoysight
+bip_39_word_no_space_7: lemonstoolgeneralvirusenjoysightscrap
+bip_39_word_no_space_8: lemonstoolgeneralvirusenjoysightscrapbag
+bip_39_word_no_space_9: lemonstoolgeneralvirusenjoysightscrapbagnaive
 bip_39_word_space_0:
 - lemon
 - stool

@@ -122,6 +122,18 @@ winner
 village
 version
 scrub |  
+| bip_39_word_no_space_1 | dial |  
+| bip_39_word_no_space_10 | dialembarknumberalertnationwinnervillageversionscrubcastle |  
+| bip_39_word_no_space_11 | dialembarknumberalertnationwinnervillageversionscrubcastlescience |  
+| bip_39_word_no_space_12 | dialembarknumberalertnationwinnervillageversionscrubcastlesciencearmy |  
+| bip_39_word_no_space_2 | dialembark |  
+| bip_39_word_no_space_3 | dialembarknumber |  
+| bip_39_word_no_space_4 | dialembarknumberalert |  
+| bip_39_word_no_space_5 | dialembarknumberalertnation |  
+| bip_39_word_no_space_6 | dialembarknumberalertnationwinner |  
+| bip_39_word_no_space_7 | dialembarknumberalertnationwinnervillage |  
+| bip_39_word_no_space_8 | dialembarknumberalertnationwinnervillageversion |  
+| bip_39_word_no_space_9 | dialembarknumberalertnationwinnervillageversionscrub |  
 | bip_39_word_space_0 | ['dial', 'embark', 'number', 'alert', 'nation', 'winner', 'village', 'version', 'scrub', 'castle', 'science', 'army'] |  
 | bip_39_word_space_1 | dial |  
 | bip_39_word_space_10 | dial embark number alert nation winner village version scrub castle |  

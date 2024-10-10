@@ -122,6 +122,18 @@ orphan
 situate
 category
 violin |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | loopswiftreopenhostimpulseorphansituatecategoryviolinhurdle |  
+| bip_39_word_no_space_11 | loopswiftreopenhostimpulseorphansituatecategoryviolinhurdleangle |  
+| bip_39_word_no_space_12 | loopswiftreopenhostimpulseorphansituatecategoryviolinhurdleangleadult |  
+| bip_39_word_no_space_2 | loopswift |  
+| bip_39_word_no_space_3 | loopswiftreopen |  
+| bip_39_word_no_space_4 | loopswiftreopenhost |  
+| bip_39_word_no_space_5 | loopswiftreopenhostimpulse |  
+| bip_39_word_no_space_6 | loopswiftreopenhostimpulseorphan |  
+| bip_39_word_no_space_7 | loopswiftreopenhostimpulseorphansituate |  
+| bip_39_word_no_space_8 | loopswiftreopenhostimpulseorphansituatecategory |  
+| bip_39_word_no_space_9 | loopswiftreopenhostimpulseorphansituatecategoryviolin |  
 | bip_39_word_space_0 | ['loop', 'swift', 'reopen', 'host', 'impulse', 'orphan', 'situate', 'category', 'violin', 'hurdle', 'angle', 'adult'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop swift reopen host impulse orphan situate category violin hurdle |  

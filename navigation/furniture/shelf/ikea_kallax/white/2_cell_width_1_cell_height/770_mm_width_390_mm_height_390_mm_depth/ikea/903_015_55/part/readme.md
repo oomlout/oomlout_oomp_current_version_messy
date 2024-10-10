@@ -122,6 +122,18 @@ borrow
 december
 damage
 narrow |  
+| bip_39_word_no_space_1 | inmate |  
+| bip_39_word_no_space_10 | inmaterepairholdregularhabitborrowdecemberdamagenarrowmaze |  
+| bip_39_word_no_space_11 | inmaterepairholdregularhabitborrowdecemberdamagenarrowmazeaisle |  
+| bip_39_word_no_space_12 | inmaterepairholdregularhabitborrowdecemberdamagenarrowmazeaislealpha |  
+| bip_39_word_no_space_2 | inmaterepair |  
+| bip_39_word_no_space_3 | inmaterepairhold |  
+| bip_39_word_no_space_4 | inmaterepairholdregular |  
+| bip_39_word_no_space_5 | inmaterepairholdregularhabit |  
+| bip_39_word_no_space_6 | inmaterepairholdregularhabitborrow |  
+| bip_39_word_no_space_7 | inmaterepairholdregularhabitborrowdecember |  
+| bip_39_word_no_space_8 | inmaterepairholdregularhabitborrowdecemberdamage |  
+| bip_39_word_no_space_9 | inmaterepairholdregularhabitborrowdecemberdamagenarrow |  
 | bip_39_word_space_0 | ['inmate', 'repair', 'hold', 'regular', 'habit', 'borrow', 'december', 'damage', 'narrow', 'maze', 'aisle', 'alpha'] |  
 | bip_39_word_space_1 | inmate |  
 | bip_39_word_space_10 | inmate repair hold regular habit borrow december damage narrow maze |  

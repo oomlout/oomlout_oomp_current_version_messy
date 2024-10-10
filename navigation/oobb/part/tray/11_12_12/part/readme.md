@@ -122,6 +122,18 @@ pause
 beauty
 pumpkin
 sorry |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualwidthsuddenagainthemepausebeautypumpkinsorryflower |  
+| bip_39_word_no_space_11 | visualwidthsuddenagainthemepausebeautypumpkinsorryflowerintact |  
+| bip_39_word_no_space_12 | visualwidthsuddenagainthemepausebeautypumpkinsorryflowerintactabuse |  
+| bip_39_word_no_space_2 | visualwidth |  
+| bip_39_word_no_space_3 | visualwidthsudden |  
+| bip_39_word_no_space_4 | visualwidthsuddenagain |  
+| bip_39_word_no_space_5 | visualwidthsuddenagaintheme |  
+| bip_39_word_no_space_6 | visualwidthsuddenagainthemepause |  
+| bip_39_word_no_space_7 | visualwidthsuddenagainthemepausebeauty |  
+| bip_39_word_no_space_8 | visualwidthsuddenagainthemepausebeautypumpkin |  
+| bip_39_word_no_space_9 | visualwidthsuddenagainthemepausebeautypumpkinsorry |  
 | bip_39_word_space_0 | ['visual', 'width', 'sudden', 'again', 'theme', 'pause', 'beauty', 'pumpkin', 'sorry', 'flower', 'intact', 'abuse'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual width sudden again theme pause beauty pumpkin sorry flower |  

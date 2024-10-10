@@ -122,6 +122,18 @@ chat
 egg
 robust
 element |  
+| bip_39_word_no_space_1 | plastic |  
+| bip_39_word_no_space_10 | plasticcardwetpartydemisechateggrobustelementaccident |  
+| bip_39_word_no_space_11 | plasticcardwetpartydemisechateggrobustelementaccidentfine |  
+| bip_39_word_no_space_12 | plasticcardwetpartydemisechateggrobustelementaccidentfinealcohol |  
+| bip_39_word_no_space_2 | plasticcard |  
+| bip_39_word_no_space_3 | plasticcardwet |  
+| bip_39_word_no_space_4 | plasticcardwetparty |  
+| bip_39_word_no_space_5 | plasticcardwetpartydemise |  
+| bip_39_word_no_space_6 | plasticcardwetpartydemisechat |  
+| bip_39_word_no_space_7 | plasticcardwetpartydemisechategg |  
+| bip_39_word_no_space_8 | plasticcardwetpartydemisechateggrobust |  
+| bip_39_word_no_space_9 | plasticcardwetpartydemisechateggrobustelement |  
 | bip_39_word_space_0 | ['plastic', 'card', 'wet', 'party', 'demise', 'chat', 'egg', 'robust', 'element', 'accident', 'fine', 'alcohol'] |  
 | bip_39_word_space_1 | plastic |  
 | bip_39_word_space_10 | plastic card wet party demise chat egg robust element accident |  

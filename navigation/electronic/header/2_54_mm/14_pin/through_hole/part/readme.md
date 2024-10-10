@@ -122,6 +122,18 @@ bicycle
 awake
 say
 universe |  
+| bip_39_word_no_space_1 | render |  
+| bip_39_word_no_space_10 | renderleaderguidecrumblestockbicycleawakesayuniverseevidence |  
+| bip_39_word_no_space_11 | renderleaderguidecrumblestockbicycleawakesayuniverseevidencecute |  
+| bip_39_word_no_space_12 | renderleaderguidecrumblestockbicycleawakesayuniverseevidencecutealcohol |  
+| bip_39_word_no_space_2 | renderleader |  
+| bip_39_word_no_space_3 | renderleaderguide |  
+| bip_39_word_no_space_4 | renderleaderguidecrumble |  
+| bip_39_word_no_space_5 | renderleaderguidecrumblestock |  
+| bip_39_word_no_space_6 | renderleaderguidecrumblestockbicycle |  
+| bip_39_word_no_space_7 | renderleaderguidecrumblestockbicycleawake |  
+| bip_39_word_no_space_8 | renderleaderguidecrumblestockbicycleawakesay |  
+| bip_39_word_no_space_9 | renderleaderguidecrumblestockbicycleawakesayuniverse |  
 | bip_39_word_space_0 | ['render', 'leader', 'guide', 'crumble', 'stock', 'bicycle', 'awake', 'say', 'universe', 'evidence', 'cute', 'alcohol'] |  
 | bip_39_word_space_1 | render |  
 | bip_39_word_space_10 | render leader guide crumble stock bicycle awake say universe evidence |  

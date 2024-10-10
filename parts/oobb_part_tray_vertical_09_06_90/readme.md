@@ -122,6 +122,18 @@ blossom
 child
 copy
 loan |  
+| bip_39_word_no_space_1 | make |  
+| bip_39_word_no_space_10 | makeglorywagoneradesertblossomchildcopyloanfabric |  
+| bip_39_word_no_space_11 | makeglorywagoneradesertblossomchildcopyloanfabricmember |  
+| bip_39_word_no_space_12 | makeglorywagoneradesertblossomchildcopyloanfabricmemberabsorb |  
+| bip_39_word_no_space_2 | makeglory |  
+| bip_39_word_no_space_3 | makeglorywagon |  
+| bip_39_word_no_space_4 | makeglorywagonera |  
+| bip_39_word_no_space_5 | makeglorywagoneradesert |  
+| bip_39_word_no_space_6 | makeglorywagoneradesertblossom |  
+| bip_39_word_no_space_7 | makeglorywagoneradesertblossomchild |  
+| bip_39_word_no_space_8 | makeglorywagoneradesertblossomchildcopy |  
+| bip_39_word_no_space_9 | makeglorywagoneradesertblossomchildcopyloan |  
 | bip_39_word_space_0 | ['make', 'glory', 'wagon', 'era', 'desert', 'blossom', 'child', 'copy', 'loan', 'fabric', 'member', 'absorb'] |  
 | bip_39_word_space_1 | make |  
 | bip_39_word_space_10 | make glory wagon era desert blossom child copy loan fabric |  

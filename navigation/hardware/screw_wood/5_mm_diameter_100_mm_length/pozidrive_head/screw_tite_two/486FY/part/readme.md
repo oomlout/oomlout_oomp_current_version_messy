@@ -122,6 +122,18 @@ grief
 beach
 vocal
 current |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tossmomthumbmomentcarpetgriefbeachvocalcurrenthorror |  
+| bip_39_word_no_space_11 | tossmomthumbmomentcarpetgriefbeachvocalcurrenthorrorship |  
+| bip_39_word_no_space_12 | tossmomthumbmomentcarpetgriefbeachvocalcurrenthorrorshiparmor |  
+| bip_39_word_no_space_2 | tossmom |  
+| bip_39_word_no_space_3 | tossmomthumb |  
+| bip_39_word_no_space_4 | tossmomthumbmoment |  
+| bip_39_word_no_space_5 | tossmomthumbmomentcarpet |  
+| bip_39_word_no_space_6 | tossmomthumbmomentcarpetgrief |  
+| bip_39_word_no_space_7 | tossmomthumbmomentcarpetgriefbeach |  
+| bip_39_word_no_space_8 | tossmomthumbmomentcarpetgriefbeachvocal |  
+| bip_39_word_no_space_9 | tossmomthumbmomentcarpetgriefbeachvocalcurrent |  
 | bip_39_word_space_0 | ['toss', 'mom', 'thumb', 'moment', 'carpet', 'grief', 'beach', 'vocal', 'current', 'horror', 'ship', 'armor'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss mom thumb moment carpet grief beach vocal current horror |  

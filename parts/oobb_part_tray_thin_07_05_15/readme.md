@@ -122,6 +122,18 @@ venue
 real
 ski
 game |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policealarmrendergeneralsteakvenuerealskigamecanal |  
+| bip_39_word_no_space_11 | policealarmrendergeneralsteakvenuerealskigamecanalthat |  
+| bip_39_word_no_space_12 | policealarmrendergeneralsteakvenuerealskigamecanalthatabove |  
+| bip_39_word_no_space_2 | policealarm |  
+| bip_39_word_no_space_3 | policealarmrender |  
+| bip_39_word_no_space_4 | policealarmrendergeneral |  
+| bip_39_word_no_space_5 | policealarmrendergeneralsteak |  
+| bip_39_word_no_space_6 | policealarmrendergeneralsteakvenue |  
+| bip_39_word_no_space_7 | policealarmrendergeneralsteakvenuereal |  
+| bip_39_word_no_space_8 | policealarmrendergeneralsteakvenuerealski |  
+| bip_39_word_no_space_9 | policealarmrendergeneralsteakvenuerealskigame |  
 | bip_39_word_space_0 | ['police', 'alarm', 'render', 'general', 'steak', 'venue', 'real', 'ski', 'game', 'canal', 'that', 'above'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police alarm render general steak venue real ski game canal |  

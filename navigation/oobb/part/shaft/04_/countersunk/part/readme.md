@@ -122,6 +122,18 @@ athlete
 side
 damp
 regular |  
+| bip_39_word_no_space_1 | door |  
+| bip_39_word_no_space_10 | doorunknownhipzoodecorateathletesidedampregularavoid |  
+| bip_39_word_no_space_11 | doorunknownhipzoodecorateathletesidedampregularavoidgauge |  
+| bip_39_word_no_space_12 | doorunknownhipzoodecorateathletesidedampregularavoidgaugeacross |  
+| bip_39_word_no_space_2 | doorunknown |  
+| bip_39_word_no_space_3 | doorunknownhip |  
+| bip_39_word_no_space_4 | doorunknownhipzoo |  
+| bip_39_word_no_space_5 | doorunknownhipzoodecorate |  
+| bip_39_word_no_space_6 | doorunknownhipzoodecorateathlete |  
+| bip_39_word_no_space_7 | doorunknownhipzoodecorateathleteside |  
+| bip_39_word_no_space_8 | doorunknownhipzoodecorateathletesidedamp |  
+| bip_39_word_no_space_9 | doorunknownhipzoodecorateathletesidedampregular |  
 | bip_39_word_space_0 | ['door', 'unknown', 'hip', 'zoo', 'decorate', 'athlete', 'side', 'damp', 'regular', 'avoid', 'gauge', 'across'] |  
 | bip_39_word_space_1 | door |  
 | bip_39_word_space_10 | door unknown hip zoo decorate athlete side damp regular avoid |  

@@ -122,6 +122,18 @@ bread
 doll
 flag
 upset |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actionlaughpanicsidetextbreaddollflagupsetdismiss |  
+| bip_39_word_no_space_11 | actionlaughpanicsidetextbreaddollflagupsetdismissphone |  
+| bip_39_word_no_space_12 | actionlaughpanicsidetextbreaddollflagupsetdismissphoneamazing |  
+| bip_39_word_no_space_2 | actionlaugh |  
+| bip_39_word_no_space_3 | actionlaughpanic |  
+| bip_39_word_no_space_4 | actionlaughpanicside |  
+| bip_39_word_no_space_5 | actionlaughpanicsidetext |  
+| bip_39_word_no_space_6 | actionlaughpanicsidetextbread |  
+| bip_39_word_no_space_7 | actionlaughpanicsidetextbreaddoll |  
+| bip_39_word_no_space_8 | actionlaughpanicsidetextbreaddollflag |  
+| bip_39_word_no_space_9 | actionlaughpanicsidetextbreaddollflagupset |  
 | bip_39_word_space_0 | ['action', 'laugh', 'panic', 'side', 'text', 'bread', 'doll', 'flag', 'upset', 'dismiss', 'phone', 'amazing'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action laugh panic side text bread doll flag upset dismiss |  

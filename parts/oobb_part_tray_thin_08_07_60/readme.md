@@ -122,6 +122,18 @@ stone
 blue
 battle
 occur |  
+| bip_39_word_no_space_1 | eternal |  
+| bip_39_word_no_space_10 | eternalbirthtentstaffopposestonebluebattleoccursnap |  
+| bip_39_word_no_space_11 | eternalbirthtentstaffopposestonebluebattleoccursnapdistance |  
+| bip_39_word_no_space_12 | eternalbirthtentstaffopposestonebluebattleoccursnapdistancearm |  
+| bip_39_word_no_space_2 | eternalbirth |  
+| bip_39_word_no_space_3 | eternalbirthtent |  
+| bip_39_word_no_space_4 | eternalbirthtentstaff |  
+| bip_39_word_no_space_5 | eternalbirthtentstaffoppose |  
+| bip_39_word_no_space_6 | eternalbirthtentstaffopposestone |  
+| bip_39_word_no_space_7 | eternalbirthtentstaffopposestoneblue |  
+| bip_39_word_no_space_8 | eternalbirthtentstaffopposestonebluebattle |  
+| bip_39_word_no_space_9 | eternalbirthtentstaffopposestonebluebattleoccur |  
 | bip_39_word_space_0 | ['eternal', 'birth', 'tent', 'staff', 'oppose', 'stone', 'blue', 'battle', 'occur', 'snap', 'distance', 'arm'] |  
 | bip_39_word_space_1 | eternal |  
 | bip_39_word_space_10 | eternal birth tent staff oppose stone blue battle occur snap |  

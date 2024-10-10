@@ -122,6 +122,18 @@ shallow
 town
 clip
 iron |  
+| bip_39_word_no_space_1 | suggest |  
+| bip_39_word_no_space_10 | suggestcakecaughttubeskillshallowtownclipironnasty |  
+| bip_39_word_no_space_11 | suggestcakecaughttubeskillshallowtownclipironnastyborrow |  
+| bip_39_word_no_space_12 | suggestcakecaughttubeskillshallowtownclipironnastyborrowanswer |  
+| bip_39_word_no_space_2 | suggestcake |  
+| bip_39_word_no_space_3 | suggestcakecaught |  
+| bip_39_word_no_space_4 | suggestcakecaughttube |  
+| bip_39_word_no_space_5 | suggestcakecaughttubeskill |  
+| bip_39_word_no_space_6 | suggestcakecaughttubeskillshallow |  
+| bip_39_word_no_space_7 | suggestcakecaughttubeskillshallowtown |  
+| bip_39_word_no_space_8 | suggestcakecaughttubeskillshallowtownclip |  
+| bip_39_word_no_space_9 | suggestcakecaughttubeskillshallowtownclipiron |  
 | bip_39_word_space_0 | ['suggest', 'cake', 'caught', 'tube', 'skill', 'shallow', 'town', 'clip', 'iron', 'nasty', 'borrow', 'answer'] |  
 | bip_39_word_space_1 | suggest |  
 | bip_39_word_space_10 | suggest cake caught tube skill shallow town clip iron nasty |  

@@ -122,6 +122,18 @@ prefer
 silk
 alone
 shadow |  
+| bip_39_word_no_space_1 | flash |  
+| bip_39_word_no_space_10 | flashquarterfacewarmsampleprefersilkaloneshadowcaptain |  
+| bip_39_word_no_space_11 | flashquarterfacewarmsampleprefersilkaloneshadowcaptaincome |  
+| bip_39_word_no_space_12 | flashquarterfacewarmsampleprefersilkaloneshadowcaptaincomealone |  
+| bip_39_word_no_space_2 | flashquarter |  
+| bip_39_word_no_space_3 | flashquarterface |  
+| bip_39_word_no_space_4 | flashquarterfacewarm |  
+| bip_39_word_no_space_5 | flashquarterfacewarmsample |  
+| bip_39_word_no_space_6 | flashquarterfacewarmsampleprefer |  
+| bip_39_word_no_space_7 | flashquarterfacewarmsampleprefersilk |  
+| bip_39_word_no_space_8 | flashquarterfacewarmsampleprefersilkalone |  
+| bip_39_word_no_space_9 | flashquarterfacewarmsampleprefersilkaloneshadow |  
 | bip_39_word_space_0 | ['flash', 'quarter', 'face', 'warm', 'sample', 'prefer', 'silk', 'alone', 'shadow', 'captain', 'come', 'alone'] |  
 | bip_39_word_space_1 | flash |  
 | bip_39_word_space_10 | flash quarter face warm sample prefer silk alone shadow captain |  

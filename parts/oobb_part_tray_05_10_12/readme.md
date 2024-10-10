@@ -122,6 +122,18 @@ exit
 basket
 observe
 harvest |  
+| bip_39_word_no_space_1 | filter |  
+| bip_39_word_no_space_10 | filterjungletomatogroupsafeexitbasketobserveharvesttrack |  
+| bip_39_word_no_space_11 | filterjungletomatogroupsafeexitbasketobserveharvesttrackmodify |  
+| bip_39_word_no_space_12 | filterjungletomatogroupsafeexitbasketobserveharvesttrackmodifyarch |  
+| bip_39_word_no_space_2 | filterjungle |  
+| bip_39_word_no_space_3 | filterjungletomato |  
+| bip_39_word_no_space_4 | filterjungletomatogroup |  
+| bip_39_word_no_space_5 | filterjungletomatogroupsafe |  
+| bip_39_word_no_space_6 | filterjungletomatogroupsafeexit |  
+| bip_39_word_no_space_7 | filterjungletomatogroupsafeexitbasket |  
+| bip_39_word_no_space_8 | filterjungletomatogroupsafeexitbasketobserve |  
+| bip_39_word_no_space_9 | filterjungletomatogroupsafeexitbasketobserveharvest |  
 | bip_39_word_space_0 | ['filter', 'jungle', 'tomato', 'group', 'safe', 'exit', 'basket', 'observe', 'harvest', 'track', 'modify', 'arch'] |  
 | bip_39_word_space_1 | filter |  
 | bip_39_word_space_10 | filter jungle tomato group safe exit basket observe harvest track |  

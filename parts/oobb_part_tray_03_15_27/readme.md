@@ -122,6 +122,18 @@ term
 mail
 fog
 forward |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetfrontrabbitfeverciviltermmailfogforwardloop |  
+| bip_39_word_no_space_11 | wetfrontrabbitfeverciviltermmailfogforwardlooprender |  
+| bip_39_word_no_space_12 | wetfrontrabbitfeverciviltermmailfogforwardlooprenderamazing |  
+| bip_39_word_no_space_2 | wetfront |  
+| bip_39_word_no_space_3 | wetfrontrabbit |  
+| bip_39_word_no_space_4 | wetfrontrabbitfever |  
+| bip_39_word_no_space_5 | wetfrontrabbitfevercivil |  
+| bip_39_word_no_space_6 | wetfrontrabbitfevercivilterm |  
+| bip_39_word_no_space_7 | wetfrontrabbitfeverciviltermmail |  
+| bip_39_word_no_space_8 | wetfrontrabbitfeverciviltermmailfog |  
+| bip_39_word_no_space_9 | wetfrontrabbitfeverciviltermmailfogforward |  
 | bip_39_word_space_0 | ['wet', 'front', 'rabbit', 'fever', 'civil', 'term', 'mail', 'fog', 'forward', 'loop', 'render', 'amazing'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet front rabbit fever civil term mail fog forward loop |  

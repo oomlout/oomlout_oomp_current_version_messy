@@ -122,6 +122,18 @@ annual
 dish
 funny
 crazy |  
+| bip_39_word_no_space_1 | absorb |  
+| bip_39_word_no_space_10 | absorboriginalsodaglidelaborannualdishfunnycrazysecond |  
+| bip_39_word_no_space_11 | absorboriginalsodaglidelaborannualdishfunnycrazysecondtop |  
+| bip_39_word_no_space_12 | absorboriginalsodaglidelaborannualdishfunnycrazysecondtopabsurd |  
+| bip_39_word_no_space_2 | absorboriginal |  
+| bip_39_word_no_space_3 | absorboriginalsoda |  
+| bip_39_word_no_space_4 | absorboriginalsodaglide |  
+| bip_39_word_no_space_5 | absorboriginalsodaglidelabor |  
+| bip_39_word_no_space_6 | absorboriginalsodaglidelaborannual |  
+| bip_39_word_no_space_7 | absorboriginalsodaglidelaborannualdish |  
+| bip_39_word_no_space_8 | absorboriginalsodaglidelaborannualdishfunny |  
+| bip_39_word_no_space_9 | absorboriginalsodaglidelaborannualdishfunnycrazy |  
 | bip_39_word_space_0 | ['absorb', 'original', 'soda', 'glide', 'labor', 'annual', 'dish', 'funny', 'crazy', 'second', 'top', 'absurd'] |  
 | bip_39_word_space_1 | absorb |  
 | bip_39_word_space_10 | absorb original soda glide labor annual dish funny crazy second |  

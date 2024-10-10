@@ -122,6 +122,18 @@ degree
 under
 tortoise
 exhibit |  
+| bip_39_word_no_space_1 | bounce |  
+| bip_39_word_no_space_10 | bounceuselessdenyrejectvalvedegreeundertortoiseexhibitsteak |  
+| bip_39_word_no_space_11 | bounceuselessdenyrejectvalvedegreeundertortoiseexhibitsteakguard |  
+| bip_39_word_no_space_12 | bounceuselessdenyrejectvalvedegreeundertortoiseexhibitsteakguardarena |  
+| bip_39_word_no_space_2 | bounceuseless |  
+| bip_39_word_no_space_3 | bounceuselessdeny |  
+| bip_39_word_no_space_4 | bounceuselessdenyreject |  
+| bip_39_word_no_space_5 | bounceuselessdenyrejectvalve |  
+| bip_39_word_no_space_6 | bounceuselessdenyrejectvalvedegree |  
+| bip_39_word_no_space_7 | bounceuselessdenyrejectvalvedegreeunder |  
+| bip_39_word_no_space_8 | bounceuselessdenyrejectvalvedegreeundertortoise |  
+| bip_39_word_no_space_9 | bounceuselessdenyrejectvalvedegreeundertortoiseexhibit |  
 | bip_39_word_space_0 | ['bounce', 'useless', 'deny', 'reject', 'valve', 'degree', 'under', 'tortoise', 'exhibit', 'steak', 'guard', 'arena'] |  
 | bip_39_word_space_1 | bounce |  
 | bip_39_word_space_10 | bounce useless deny reject valve degree under tortoise exhibit steak |  

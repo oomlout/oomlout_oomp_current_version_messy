@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'notice
   today
 
   ahead'
+bip_39_word_no_space_1: notice
+bip_39_word_no_space_10: noticeblueparrotfatherhornurbanbrasstodayaheadslogan
+bip_39_word_no_space_11: noticeblueparrotfatherhornurbanbrasstodayaheadsloganglass
+bip_39_word_no_space_12: noticeblueparrotfatherhornurbanbrasstodayaheadsloganglassasset
+bip_39_word_no_space_2: noticeblue
+bip_39_word_no_space_3: noticeblueparrot
+bip_39_word_no_space_4: noticeblueparrotfather
+bip_39_word_no_space_5: noticeblueparrotfatherhorn
+bip_39_word_no_space_6: noticeblueparrotfatherhornurban
+bip_39_word_no_space_7: noticeblueparrotfatherhornurbanbrass
+bip_39_word_no_space_8: noticeblueparrotfatherhornurbanbrasstoday
+bip_39_word_no_space_9: noticeblueparrotfatherhornurbanbrasstodayahead
 bip_39_word_space_0:
 - notice
 - blue

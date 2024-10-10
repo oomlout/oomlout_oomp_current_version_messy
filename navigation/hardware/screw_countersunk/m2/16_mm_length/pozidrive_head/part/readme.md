@@ -122,6 +122,18 @@ skin
 expect
 gossip
 text |  
+| bip_39_word_no_space_1 | list |  
+| bip_39_word_no_space_10 | listmatchsquirrelcannonoceanskinexpectgossiptextidle |  
+| bip_39_word_no_space_11 | listmatchsquirrelcannonoceanskinexpectgossiptextidlebuzz |  
+| bip_39_word_no_space_12 | listmatchsquirrelcannonoceanskinexpectgossiptextidlebuzzabsurd |  
+| bip_39_word_no_space_2 | listmatch |  
+| bip_39_word_no_space_3 | listmatchsquirrel |  
+| bip_39_word_no_space_4 | listmatchsquirrelcannon |  
+| bip_39_word_no_space_5 | listmatchsquirrelcannonocean |  
+| bip_39_word_no_space_6 | listmatchsquirrelcannonoceanskin |  
+| bip_39_word_no_space_7 | listmatchsquirrelcannonoceanskinexpect |  
+| bip_39_word_no_space_8 | listmatchsquirrelcannonoceanskinexpectgossip |  
+| bip_39_word_no_space_9 | listmatchsquirrelcannonoceanskinexpectgossiptext |  
 | bip_39_word_space_0 | ['list', 'match', 'squirrel', 'cannon', 'ocean', 'skin', 'expect', 'gossip', 'text', 'idle', 'buzz', 'absurd'] |  
 | bip_39_word_space_1 | list |  
 | bip_39_word_space_10 | list match squirrel cannon ocean skin expect gossip text idle |  

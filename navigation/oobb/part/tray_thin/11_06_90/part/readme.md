@@ -122,6 +122,18 @@ friend
 canoe
 put
 hurdle |  
+| bip_39_word_no_space_1 | always |  
+| bip_39_word_no_space_10 | alwayspanelselectvintagerigidfriendcanoeputhurdlerender |  
+| bip_39_word_no_space_11 | alwayspanelselectvintagerigidfriendcanoeputhurdlerenderbike |  
+| bip_39_word_no_space_12 | alwayspanelselectvintagerigidfriendcanoeputhurdlerenderbikeantique |  
+| bip_39_word_no_space_2 | alwayspanel |  
+| bip_39_word_no_space_3 | alwayspanelselect |  
+| bip_39_word_no_space_4 | alwayspanelselectvintage |  
+| bip_39_word_no_space_5 | alwayspanelselectvintagerigid |  
+| bip_39_word_no_space_6 | alwayspanelselectvintagerigidfriend |  
+| bip_39_word_no_space_7 | alwayspanelselectvintagerigidfriendcanoe |  
+| bip_39_word_no_space_8 | alwayspanelselectvintagerigidfriendcanoeput |  
+| bip_39_word_no_space_9 | alwayspanelselectvintagerigidfriendcanoeputhurdle |  
 | bip_39_word_space_0 | ['always', 'panel', 'select', 'vintage', 'rigid', 'friend', 'canoe', 'put', 'hurdle', 'render', 'bike', 'antique'] |  
 | bip_39_word_space_1 | always |  
 | bip_39_word_space_10 | always panel select vintage rigid friend canoe put hurdle render |  

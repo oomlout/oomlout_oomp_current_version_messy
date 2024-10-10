@@ -122,6 +122,18 @@ desert
 mutual
 certain
 undo |  
+| bip_39_word_no_space_1 | consider |  
+| bip_39_word_no_space_10 | considerjourneyfacenamefamousdesertmutualcertainundoattend |  
+| bip_39_word_no_space_11 | considerjourneyfacenamefamousdesertmutualcertainundoattendchimney |  
+| bip_39_word_no_space_12 | considerjourneyfacenamefamousdesertmutualcertainundoattendchimneyarmor |  
+| bip_39_word_no_space_2 | considerjourney |  
+| bip_39_word_no_space_3 | considerjourneyface |  
+| bip_39_word_no_space_4 | considerjourneyfacename |  
+| bip_39_word_no_space_5 | considerjourneyfacenamefamous |  
+| bip_39_word_no_space_6 | considerjourneyfacenamefamousdesert |  
+| bip_39_word_no_space_7 | considerjourneyfacenamefamousdesertmutual |  
+| bip_39_word_no_space_8 | considerjourneyfacenamefamousdesertmutualcertain |  
+| bip_39_word_no_space_9 | considerjourneyfacenamefamousdesertmutualcertainundo |  
 | bip_39_word_space_0 | ['consider', 'journey', 'face', 'name', 'famous', 'desert', 'mutual', 'certain', 'undo', 'attend', 'chimney', 'armor'] |  
 | bip_39_word_space_1 | consider |  
 | bip_39_word_space_10 | consider journey face name famous desert mutual certain undo attend |  

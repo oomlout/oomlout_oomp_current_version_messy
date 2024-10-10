@@ -122,6 +122,18 @@ sentence
 way
 smart
 believe |  
+| bip_39_word_no_space_1 | punch |  
+| bip_39_word_no_space_10 | punchkitelevelawaresetupsentencewaysmartbelievenegative |  
+| bip_39_word_no_space_11 | punchkitelevelawaresetupsentencewaysmartbelievenegativeyellow |  
+| bip_39_word_no_space_12 | punchkitelevelawaresetupsentencewaysmartbelievenegativeyellowatom |  
+| bip_39_word_no_space_2 | punchkite |  
+| bip_39_word_no_space_3 | punchkitelevel |  
+| bip_39_word_no_space_4 | punchkitelevelaware |  
+| bip_39_word_no_space_5 | punchkitelevelawaresetup |  
+| bip_39_word_no_space_6 | punchkitelevelawaresetupsentence |  
+| bip_39_word_no_space_7 | punchkitelevelawaresetupsentenceway |  
+| bip_39_word_no_space_8 | punchkitelevelawaresetupsentencewaysmart |  
+| bip_39_word_no_space_9 | punchkitelevelawaresetupsentencewaysmartbelieve |  
 | bip_39_word_space_0 | ['punch', 'kite', 'level', 'aware', 'setup', 'sentence', 'way', 'smart', 'believe', 'negative', 'yellow', 'atom'] |  
 | bip_39_word_space_1 | punch |  
 | bip_39_word_space_10 | punch kite level aware setup sentence way smart believe negative |  

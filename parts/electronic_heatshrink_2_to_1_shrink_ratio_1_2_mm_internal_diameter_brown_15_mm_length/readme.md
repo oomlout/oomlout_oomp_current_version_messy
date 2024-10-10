@@ -122,6 +122,18 @@ keep
 wide
 little
 rate |  
+| bip_39_word_no_space_1 | opinion |  
+| bip_39_word_no_space_10 | opinionmythdonorlanguagelendkeepwidelittleratecabbage |  
+| bip_39_word_no_space_11 | opinionmythdonorlanguagelendkeepwidelittleratecabbagemillion |  
+| bip_39_word_no_space_12 | opinionmythdonorlanguagelendkeepwidelittleratecabbagemillionattend |  
+| bip_39_word_no_space_2 | opinionmyth |  
+| bip_39_word_no_space_3 | opinionmythdonor |  
+| bip_39_word_no_space_4 | opinionmythdonorlanguage |  
+| bip_39_word_no_space_5 | opinionmythdonorlanguagelend |  
+| bip_39_word_no_space_6 | opinionmythdonorlanguagelendkeep |  
+| bip_39_word_no_space_7 | opinionmythdonorlanguagelendkeepwide |  
+| bip_39_word_no_space_8 | opinionmythdonorlanguagelendkeepwidelittle |  
+| bip_39_word_no_space_9 | opinionmythdonorlanguagelendkeepwidelittlerate |  
 | bip_39_word_space_0 | ['opinion', 'myth', 'donor', 'language', 'lend', 'keep', 'wide', 'little', 'rate', 'cabbage', 'million', 'attend'] |  
 | bip_39_word_space_1 | opinion |  
 | bip_39_word_space_10 | opinion myth donor language lend keep wide little rate cabbage |  

@@ -122,6 +122,18 @@ mercy
 again
 lizard
 supreme |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchhamsterprocessarrowspinmercyagainlizardsupremeproject |  
+| bip_39_word_no_space_11 | fetchhamsterprocessarrowspinmercyagainlizardsupremeprojectsimple |  
+| bip_39_word_no_space_12 | fetchhamsterprocessarrowspinmercyagainlizardsupremeprojectsimplealert |  
+| bip_39_word_no_space_2 | fetchhamster |  
+| bip_39_word_no_space_3 | fetchhamsterprocess |  
+| bip_39_word_no_space_4 | fetchhamsterprocessarrow |  
+| bip_39_word_no_space_5 | fetchhamsterprocessarrowspin |  
+| bip_39_word_no_space_6 | fetchhamsterprocessarrowspinmercy |  
+| bip_39_word_no_space_7 | fetchhamsterprocessarrowspinmercyagain |  
+| bip_39_word_no_space_8 | fetchhamsterprocessarrowspinmercyagainlizard |  
+| bip_39_word_no_space_9 | fetchhamsterprocessarrowspinmercyagainlizardsupreme |  
 | bip_39_word_space_0 | ['fetch', 'hamster', 'process', 'arrow', 'spin', 'mercy', 'again', 'lizard', 'supreme', 'project', 'simple', 'alert'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch hamster process arrow spin mercy again lizard supreme project |  

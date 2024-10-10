@@ -122,6 +122,18 @@ unveil
 pig
 knock
 bracket |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approveculturecoraltoothpelicanunveilpigknockbracketride |  
+| bip_39_word_no_space_11 | approveculturecoraltoothpelicanunveilpigknockbracketridebomb |  
+| bip_39_word_no_space_12 | approveculturecoraltoothpelicanunveilpigknockbracketridebombalways |  
+| bip_39_word_no_space_2 | approveculture |  
+| bip_39_word_no_space_3 | approveculturecoral |  
+| bip_39_word_no_space_4 | approveculturecoraltooth |  
+| bip_39_word_no_space_5 | approveculturecoraltoothpelican |  
+| bip_39_word_no_space_6 | approveculturecoraltoothpelicanunveil |  
+| bip_39_word_no_space_7 | approveculturecoraltoothpelicanunveilpig |  
+| bip_39_word_no_space_8 | approveculturecoraltoothpelicanunveilpigknock |  
+| bip_39_word_no_space_9 | approveculturecoraltoothpelicanunveilpigknockbracket |  
 | bip_39_word_space_0 | ['approve', 'culture', 'coral', 'tooth', 'pelican', 'unveil', 'pig', 'knock', 'bracket', 'ride', 'bomb', 'always'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve culture coral tooth pelican unveil pig knock bracket ride |  

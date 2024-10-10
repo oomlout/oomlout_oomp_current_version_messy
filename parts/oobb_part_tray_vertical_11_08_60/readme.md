@@ -122,6 +122,18 @@ glue
 earn
 afraid
 wagon |  
+| bip_39_word_no_space_1 | tunnel |  
+| bip_39_word_no_space_10 | tunneldrawgracechatpatchglueearnafraidwagonrabbit |  
+| bip_39_word_no_space_11 | tunneldrawgracechatpatchglueearnafraidwagonrabbitactress |  
+| bip_39_word_no_space_12 | tunneldrawgracechatpatchglueearnafraidwagonrabbitactressactual |  
+| bip_39_word_no_space_2 | tunneldraw |  
+| bip_39_word_no_space_3 | tunneldrawgrace |  
+| bip_39_word_no_space_4 | tunneldrawgracechat |  
+| bip_39_word_no_space_5 | tunneldrawgracechatpatch |  
+| bip_39_word_no_space_6 | tunneldrawgracechatpatchglue |  
+| bip_39_word_no_space_7 | tunneldrawgracechatpatchglueearn |  
+| bip_39_word_no_space_8 | tunneldrawgracechatpatchglueearnafraid |  
+| bip_39_word_no_space_9 | tunneldrawgracechatpatchglueearnafraidwagon |  
 | bip_39_word_space_0 | ['tunnel', 'draw', 'grace', 'chat', 'patch', 'glue', 'earn', 'afraid', 'wagon', 'rabbit', 'actress', 'actual'] |  
 | bip_39_word_space_1 | tunnel |  
 | bip_39_word_space_10 | tunnel draw grace chat patch glue earn afraid wagon rabbit |  

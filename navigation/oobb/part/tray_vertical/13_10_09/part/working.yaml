@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rebel
   alarm
 
   sugar'
+bip_39_word_no_space_1: rebel
+bip_39_word_no_space_10: rebelhurdlemediaswordtwentynoseclinicalarmsugarobtain
+bip_39_word_no_space_11: rebelhurdlemediaswordtwentynoseclinicalarmsugarobtainmonster
+bip_39_word_no_space_12: rebelhurdlemediaswordtwentynoseclinicalarmsugarobtainmonsterartist
+bip_39_word_no_space_2: rebelhurdle
+bip_39_word_no_space_3: rebelhurdlemedia
+bip_39_word_no_space_4: rebelhurdlemediasword
+bip_39_word_no_space_5: rebelhurdlemediaswordtwenty
+bip_39_word_no_space_6: rebelhurdlemediaswordtwentynose
+bip_39_word_no_space_7: rebelhurdlemediaswordtwentynoseclinic
+bip_39_word_no_space_8: rebelhurdlemediaswordtwentynoseclinicalarm
+bip_39_word_no_space_9: rebelhurdlemediaswordtwentynoseclinicalarmsugar
 bip_39_word_space_0:
 - rebel
 - hurdle

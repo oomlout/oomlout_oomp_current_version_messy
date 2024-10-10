@@ -122,6 +122,18 @@ toast
 honey
 taste
 lab |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniquetrippencilmeadowcoretoasthoneytastelabdemand |  
+| bip_39_word_no_space_11 | uniquetrippencilmeadowcoretoasthoneytastelabdemandginger |  
+| bip_39_word_no_space_12 | uniquetrippencilmeadowcoretoasthoneytastelabdemandgingeralter |  
+| bip_39_word_no_space_2 | uniquetrip |  
+| bip_39_word_no_space_3 | uniquetrippencil |  
+| bip_39_word_no_space_4 | uniquetrippencilmeadow |  
+| bip_39_word_no_space_5 | uniquetrippencilmeadowcore |  
+| bip_39_word_no_space_6 | uniquetrippencilmeadowcoretoast |  
+| bip_39_word_no_space_7 | uniquetrippencilmeadowcoretoasthoney |  
+| bip_39_word_no_space_8 | uniquetrippencilmeadowcoretoasthoneytaste |  
+| bip_39_word_no_space_9 | uniquetrippencilmeadowcoretoasthoneytastelab |  
 | bip_39_word_space_0 | ['unique', 'trip', 'pencil', 'meadow', 'core', 'toast', 'honey', 'taste', 'lab', 'demand', 'ginger', 'alter'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique trip pencil meadow core toast honey taste lab demand |  

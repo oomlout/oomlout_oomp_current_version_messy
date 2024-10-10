@@ -122,6 +122,18 @@ genius
 soup
 dismiss
 own |  
+| bip_39_word_no_space_1 | license |  
+| bip_39_word_no_space_10 | licenseswearfieldexplainforkgeniussoupdismissownwrap |  
+| bip_39_word_no_space_11 | licenseswearfieldexplainforkgeniussoupdismissownwrapfilm |  
+| bip_39_word_no_space_12 | licenseswearfieldexplainforkgeniussoupdismissownwrapfilmask |  
+| bip_39_word_no_space_2 | licenseswear |  
+| bip_39_word_no_space_3 | licenseswearfield |  
+| bip_39_word_no_space_4 | licenseswearfieldexplain |  
+| bip_39_word_no_space_5 | licenseswearfieldexplainfork |  
+| bip_39_word_no_space_6 | licenseswearfieldexplainforkgenius |  
+| bip_39_word_no_space_7 | licenseswearfieldexplainforkgeniussoup |  
+| bip_39_word_no_space_8 | licenseswearfieldexplainforkgeniussoupdismiss |  
+| bip_39_word_no_space_9 | licenseswearfieldexplainforkgeniussoupdismissown |  
 | bip_39_word_space_0 | ['license', 'swear', 'field', 'explain', 'fork', 'genius', 'soup', 'dismiss', 'own', 'wrap', 'film', 'ask'] |  
 | bip_39_word_space_1 | license |  
 | bip_39_word_space_10 | license swear field explain fork genius soup dismiss own wrap |  

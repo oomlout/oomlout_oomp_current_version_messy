@@ -122,6 +122,18 @@ poem
 ethics
 romance
 south |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospelgrowspellbehindsunpoemethicsromancesouthrecipe |  
+| bip_39_word_no_space_11 | gospelgrowspellbehindsunpoemethicsromancesouthrecipebleak |  
+| bip_39_word_no_space_12 | gospelgrowspellbehindsunpoemethicsromancesouthrecipebleakannual |  
+| bip_39_word_no_space_2 | gospelgrow |  
+| bip_39_word_no_space_3 | gospelgrowspell |  
+| bip_39_word_no_space_4 | gospelgrowspellbehind |  
+| bip_39_word_no_space_5 | gospelgrowspellbehindsun |  
+| bip_39_word_no_space_6 | gospelgrowspellbehindsunpoem |  
+| bip_39_word_no_space_7 | gospelgrowspellbehindsunpoemethics |  
+| bip_39_word_no_space_8 | gospelgrowspellbehindsunpoemethicsromance |  
+| bip_39_word_no_space_9 | gospelgrowspellbehindsunpoemethicsromancesouth |  
 | bip_39_word_space_0 | ['gospel', 'grow', 'spell', 'behind', 'sun', 'poem', 'ethics', 'romance', 'south', 'recipe', 'bleak', 'annual'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel grow spell behind sun poem ethics romance south recipe |  

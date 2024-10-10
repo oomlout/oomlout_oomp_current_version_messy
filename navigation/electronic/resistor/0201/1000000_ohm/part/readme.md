@@ -122,6 +122,18 @@ narrow
 debate
 poem
 episode |  
+| bip_39_word_no_space_1 | purpose |  
+| bip_39_word_no_space_10 | purposefeedeasilyarrivepulsenarrowdebatepoemepisodenarrow |  
+| bip_39_word_no_space_11 | purposefeedeasilyarrivepulsenarrowdebatepoemepisodenarrowlevel |  
+| bip_39_word_no_space_12 | purposefeedeasilyarrivepulsenarrowdebatepoemepisodenarrowlevelarmed |  
+| bip_39_word_no_space_2 | purposefeed |  
+| bip_39_word_no_space_3 | purposefeedeasily |  
+| bip_39_word_no_space_4 | purposefeedeasilyarrive |  
+| bip_39_word_no_space_5 | purposefeedeasilyarrivepulse |  
+| bip_39_word_no_space_6 | purposefeedeasilyarrivepulsenarrow |  
+| bip_39_word_no_space_7 | purposefeedeasilyarrivepulsenarrowdebate |  
+| bip_39_word_no_space_8 | purposefeedeasilyarrivepulsenarrowdebatepoem |  
+| bip_39_word_no_space_9 | purposefeedeasilyarrivepulsenarrowdebatepoemepisode |  
 | bip_39_word_space_0 | ['purpose', 'feed', 'easily', 'arrive', 'pulse', 'narrow', 'debate', 'poem', 'episode', 'narrow', 'level', 'armed'] |  
 | bip_39_word_space_1 | purpose |  
 | bip_39_word_space_10 | purpose feed easily arrive pulse narrow debate poem episode narrow |  

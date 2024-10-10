@@ -122,6 +122,18 @@ pitch
 half
 achieve
 there |  
+| bip_39_word_no_space_1 | door |  
+| bip_39_word_no_space_10 | doorembarkprosperdollautumnpitchhalfachievetheretoward |  
+| bip_39_word_no_space_11 | doorembarkprosperdollautumnpitchhalfachievetheretowardrent |  
+| bip_39_word_no_space_12 | doorembarkprosperdollautumnpitchhalfachievetheretowardrentarrest |  
+| bip_39_word_no_space_2 | doorembark |  
+| bip_39_word_no_space_3 | doorembarkprosper |  
+| bip_39_word_no_space_4 | doorembarkprosperdoll |  
+| bip_39_word_no_space_5 | doorembarkprosperdollautumn |  
+| bip_39_word_no_space_6 | doorembarkprosperdollautumnpitch |  
+| bip_39_word_no_space_7 | doorembarkprosperdollautumnpitchhalf |  
+| bip_39_word_no_space_8 | doorembarkprosperdollautumnpitchhalfachieve |  
+| bip_39_word_no_space_9 | doorembarkprosperdollautumnpitchhalfachievethere |  
 | bip_39_word_space_0 | ['door', 'embark', 'prosper', 'doll', 'autumn', 'pitch', 'half', 'achieve', 'there', 'toward', 'rent', 'arrest'] |  
 | bip_39_word_space_1 | door |  
 | bip_39_word_space_10 | door embark prosper doll autumn pitch half achieve there toward |  

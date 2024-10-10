@@ -122,6 +122,18 @@ worth
 inmate
 lunch
 kitten |  
+| bip_39_word_no_space_1 | hawk |  
+| bip_39_word_no_space_10 | hawkorientcannondoubleveteranworthinmatelunchkitteninform |  
+| bip_39_word_no_space_11 | hawkorientcannondoubleveteranworthinmatelunchkitteninformcustom |  
+| bip_39_word_no_space_12 | hawkorientcannondoubleveteranworthinmatelunchkitteninformcustomall |  
+| bip_39_word_no_space_2 | hawkorient |  
+| bip_39_word_no_space_3 | hawkorientcannon |  
+| bip_39_word_no_space_4 | hawkorientcannondouble |  
+| bip_39_word_no_space_5 | hawkorientcannondoubleveteran |  
+| bip_39_word_no_space_6 | hawkorientcannondoubleveteranworth |  
+| bip_39_word_no_space_7 | hawkorientcannondoubleveteranworthinmate |  
+| bip_39_word_no_space_8 | hawkorientcannondoubleveteranworthinmatelunch |  
+| bip_39_word_no_space_9 | hawkorientcannondoubleveteranworthinmatelunchkitten |  
 | bip_39_word_space_0 | ['hawk', 'orient', 'cannon', 'double', 'veteran', 'worth', 'inmate', 'lunch', 'kitten', 'inform', 'custom', 'all'] |  
 | bip_39_word_space_1 | hawk |  
 | bip_39_word_space_10 | hawk orient cannon double veteran worth inmate lunch kitten inform |  

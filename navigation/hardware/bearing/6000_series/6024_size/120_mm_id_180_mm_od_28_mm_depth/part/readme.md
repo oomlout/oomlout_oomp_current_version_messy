@@ -122,6 +122,18 @@ work
 seminar
 seminar
 horror |  
+| bip_39_word_no_space_1 | erode |  
+| bip_39_word_no_space_10 | erodewolfshyrecordarchworkseminarseminarhorrorcable |  
+| bip_39_word_no_space_11 | erodewolfshyrecordarchworkseminarseminarhorrorcablealter |  
+| bip_39_word_no_space_12 | erodewolfshyrecordarchworkseminarseminarhorrorcablealteralone |  
+| bip_39_word_no_space_2 | erodewolf |  
+| bip_39_word_no_space_3 | erodewolfshy |  
+| bip_39_word_no_space_4 | erodewolfshyrecord |  
+| bip_39_word_no_space_5 | erodewolfshyrecordarch |  
+| bip_39_word_no_space_6 | erodewolfshyrecordarchwork |  
+| bip_39_word_no_space_7 | erodewolfshyrecordarchworkseminar |  
+| bip_39_word_no_space_8 | erodewolfshyrecordarchworkseminarseminar |  
+| bip_39_word_no_space_9 | erodewolfshyrecordarchworkseminarseminarhorror |  
 | bip_39_word_space_0 | ['erode', 'wolf', 'shy', 'record', 'arch', 'work', 'seminar', 'seminar', 'horror', 'cable', 'alter', 'alone'] |  
 | bip_39_word_space_1 | erode |  
 | bip_39_word_space_10 | erode wolf shy record arch work seminar seminar horror cable |  

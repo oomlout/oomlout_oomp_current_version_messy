@@ -122,6 +122,18 @@ flip
 clog
 jacket
 divorce |  
+| bip_39_word_no_space_1 | ignore |  
+| bip_39_word_no_space_10 | ignoreslogansoupcattledamageflipclogjacketdivorcegorilla |  
+| bip_39_word_no_space_11 | ignoreslogansoupcattledamageflipclogjacketdivorcegorillainject |  
+| bip_39_word_no_space_12 | ignoreslogansoupcattledamageflipclogjacketdivorcegorillainjectangry |  
+| bip_39_word_no_space_2 | ignoreslogan |  
+| bip_39_word_no_space_3 | ignoreslogansoup |  
+| bip_39_word_no_space_4 | ignoreslogansoupcattle |  
+| bip_39_word_no_space_5 | ignoreslogansoupcattledamage |  
+| bip_39_word_no_space_6 | ignoreslogansoupcattledamageflip |  
+| bip_39_word_no_space_7 | ignoreslogansoupcattledamageflipclog |  
+| bip_39_word_no_space_8 | ignoreslogansoupcattledamageflipclogjacket |  
+| bip_39_word_no_space_9 | ignoreslogansoupcattledamageflipclogjacketdivorce |  
 | bip_39_word_space_0 | ['ignore', 'slogan', 'soup', 'cattle', 'damage', 'flip', 'clog', 'jacket', 'divorce', 'gorilla', 'inject', 'angry'] |  
 | bip_39_word_space_1 | ignore |  
 | bip_39_word_space_10 | ignore slogan soup cattle damage flip clog jacket divorce gorilla |  

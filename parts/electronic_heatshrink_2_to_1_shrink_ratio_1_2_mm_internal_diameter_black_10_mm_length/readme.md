@@ -122,6 +122,18 @@ into
 cupboard
 monster
 arrive |  
+| bip_39_word_no_space_1 | replace |  
+| bip_39_word_no_space_10 | replacedrawlegsciencesquirrelintocupboardmonsterarriveplanet |  
+| bip_39_word_no_space_11 | replacedrawlegsciencesquirrelintocupboardmonsterarriveplanetfeature |  
+| bip_39_word_no_space_12 | replacedrawlegsciencesquirrelintocupboardmonsterarriveplanetfeaturearmor |  
+| bip_39_word_no_space_2 | replacedraw |  
+| bip_39_word_no_space_3 | replacedrawleg |  
+| bip_39_word_no_space_4 | replacedrawlegscience |  
+| bip_39_word_no_space_5 | replacedrawlegsciencesquirrel |  
+| bip_39_word_no_space_6 | replacedrawlegsciencesquirrelinto |  
+| bip_39_word_no_space_7 | replacedrawlegsciencesquirrelintocupboard |  
+| bip_39_word_no_space_8 | replacedrawlegsciencesquirrelintocupboardmonster |  
+| bip_39_word_no_space_9 | replacedrawlegsciencesquirrelintocupboardmonsterarrive |  
 | bip_39_word_space_0 | ['replace', 'draw', 'leg', 'science', 'squirrel', 'into', 'cupboard', 'monster', 'arrive', 'planet', 'feature', 'armor'] |  
 | bip_39_word_space_1 | replace |  
 | bip_39_word_space_10 | replace draw leg science squirrel into cupboard monster arrive planet |  

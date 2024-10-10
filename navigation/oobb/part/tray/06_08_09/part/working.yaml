@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'owner
   move
 
   bronze'
+bip_39_word_no_space_1: owner
+bip_39_word_no_space_10: ownerarmordoctordrinkkickpaymentbaconmovebronzehead
+bip_39_word_no_space_11: ownerarmordoctordrinkkickpaymentbaconmovebronzeheadspoon
+bip_39_word_no_space_12: ownerarmordoctordrinkkickpaymentbaconmovebronzeheadspoonarm
+bip_39_word_no_space_2: ownerarmor
+bip_39_word_no_space_3: ownerarmordoctor
+bip_39_word_no_space_4: ownerarmordoctordrink
+bip_39_word_no_space_5: ownerarmordoctordrinkkick
+bip_39_word_no_space_6: ownerarmordoctordrinkkickpayment
+bip_39_word_no_space_7: ownerarmordoctordrinkkickpaymentbacon
+bip_39_word_no_space_8: ownerarmordoctordrinkkickpaymentbaconmove
+bip_39_word_no_space_9: ownerarmordoctordrinkkickpaymentbaconmovebronze
 bip_39_word_space_0:
 - owner
 - armor

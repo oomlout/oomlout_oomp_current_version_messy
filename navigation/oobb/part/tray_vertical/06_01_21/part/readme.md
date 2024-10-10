@@ -122,6 +122,18 @@ dream
 clip
 swing
 small |  
+| bip_39_word_no_space_1 | odor |  
+| bip_39_word_no_space_10 | odorforwarddiarymasterflatdreamclipswingsmallcurve |  
+| bip_39_word_no_space_11 | odorforwarddiarymasterflatdreamclipswingsmallcurveunusual |  
+| bip_39_word_no_space_12 | odorforwarddiarymasterflatdreamclipswingsmallcurveunusualattend |  
+| bip_39_word_no_space_2 | odorforward |  
+| bip_39_word_no_space_3 | odorforwarddiary |  
+| bip_39_word_no_space_4 | odorforwarddiarymaster |  
+| bip_39_word_no_space_5 | odorforwarddiarymasterflat |  
+| bip_39_word_no_space_6 | odorforwarddiarymasterflatdream |  
+| bip_39_word_no_space_7 | odorforwarddiarymasterflatdreamclip |  
+| bip_39_word_no_space_8 | odorforwarddiarymasterflatdreamclipswing |  
+| bip_39_word_no_space_9 | odorforwarddiarymasterflatdreamclipswingsmall |  
 | bip_39_word_space_0 | ['odor', 'forward', 'diary', 'master', 'flat', 'dream', 'clip', 'swing', 'small', 'curve', 'unusual', 'attend'] |  
 | bip_39_word_space_1 | odor |  
 | bip_39_word_space_10 | odor forward diary master flat dream clip swing small curve |  

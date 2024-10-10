@@ -122,6 +122,18 @@ truck
 sand
 duty
 motor |  
+| bip_39_word_no_space_1 | system |  
+| bip_39_word_no_space_10 | systemsamplebelowhurtvanishtrucksanddutymotorlaw |  
+| bip_39_word_no_space_11 | systemsamplebelowhurtvanishtrucksanddutymotorlawcountry |  
+| bip_39_word_no_space_12 | systemsamplebelowhurtvanishtrucksanddutymotorlawcountryassume |  
+| bip_39_word_no_space_2 | systemsample |  
+| bip_39_word_no_space_3 | systemsamplebelow |  
+| bip_39_word_no_space_4 | systemsamplebelowhurt |  
+| bip_39_word_no_space_5 | systemsamplebelowhurtvanish |  
+| bip_39_word_no_space_6 | systemsamplebelowhurtvanishtruck |  
+| bip_39_word_no_space_7 | systemsamplebelowhurtvanishtrucksand |  
+| bip_39_word_no_space_8 | systemsamplebelowhurtvanishtrucksandduty |  
+| bip_39_word_no_space_9 | systemsamplebelowhurtvanishtrucksanddutymotor |  
 | bip_39_word_space_0 | ['system', 'sample', 'below', 'hurt', 'vanish', 'truck', 'sand', 'duty', 'motor', 'law', 'country', 'assume'] |  
 | bip_39_word_space_1 | system |  
 | bip_39_word_space_10 | system sample below hurt vanish truck sand duty motor law |  

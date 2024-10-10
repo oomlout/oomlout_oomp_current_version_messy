@@ -122,6 +122,18 @@ gaze
 again
 brush
 gym |  
+| bip_39_word_no_space_1 | hockey |  
+| bip_39_word_no_space_10 | hockeybrokensentenceabstracttipgazeagainbrushgymlocal |  
+| bip_39_word_no_space_11 | hockeybrokensentenceabstracttipgazeagainbrushgymlocalsuccess |  
+| bip_39_word_no_space_12 | hockeybrokensentenceabstracttipgazeagainbrushgymlocalsuccessauthor |  
+| bip_39_word_no_space_2 | hockeybroken |  
+| bip_39_word_no_space_3 | hockeybrokensentence |  
+| bip_39_word_no_space_4 | hockeybrokensentenceabstract |  
+| bip_39_word_no_space_5 | hockeybrokensentenceabstracttip |  
+| bip_39_word_no_space_6 | hockeybrokensentenceabstracttipgaze |  
+| bip_39_word_no_space_7 | hockeybrokensentenceabstracttipgazeagain |  
+| bip_39_word_no_space_8 | hockeybrokensentenceabstracttipgazeagainbrush |  
+| bip_39_word_no_space_9 | hockeybrokensentenceabstracttipgazeagainbrushgym |  
 | bip_39_word_space_0 | ['hockey', 'broken', 'sentence', 'abstract', 'tip', 'gaze', 'again', 'brush', 'gym', 'local', 'success', 'author'] |  
 | bip_39_word_space_1 | hockey |  
 | bip_39_word_space_10 | hockey broken sentence abstract tip gaze again brush gym local |  

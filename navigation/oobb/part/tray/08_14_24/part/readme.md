@@ -122,6 +122,18 @@ tuna
 elder
 fall
 truly |  
+| bip_39_word_no_space_1 | similar |  
+| bip_39_word_no_space_10 | similarspikesafeindustryapprovetunaelderfalltrulytimber |  
+| bip_39_word_no_space_11 | similarspikesafeindustryapprovetunaelderfalltrulytimbertitle |  
+| bip_39_word_no_space_12 | similarspikesafeindustryapprovetunaelderfalltrulytimbertitleantique |  
+| bip_39_word_no_space_2 | similarspike |  
+| bip_39_word_no_space_3 | similarspikesafe |  
+| bip_39_word_no_space_4 | similarspikesafeindustry |  
+| bip_39_word_no_space_5 | similarspikesafeindustryapprove |  
+| bip_39_word_no_space_6 | similarspikesafeindustryapprovetuna |  
+| bip_39_word_no_space_7 | similarspikesafeindustryapprovetunaelder |  
+| bip_39_word_no_space_8 | similarspikesafeindustryapprovetunaelderfall |  
+| bip_39_word_no_space_9 | similarspikesafeindustryapprovetunaelderfalltruly |  
 | bip_39_word_space_0 | ['similar', 'spike', 'safe', 'industry', 'approve', 'tuna', 'elder', 'fall', 'truly', 'timber', 'title', 'antique'] |  
 | bip_39_word_space_1 | similar |  
 | bip_39_word_space_10 | similar spike safe industry approve tuna elder fall truly timber |  

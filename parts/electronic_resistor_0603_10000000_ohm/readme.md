@@ -122,6 +122,18 @@ bar
 middle
 tonight
 pitch |  
+| bip_39_word_no_space_1 | ramp |  
+| bip_39_word_no_space_10 | ramproundharboronepatientbarmiddletonightpitchvisual |  
+| bip_39_word_no_space_11 | ramproundharboronepatientbarmiddletonightpitchvisualchase |  
+| bip_39_word_no_space_12 | ramproundharboronepatientbarmiddletonightpitchvisualchasealpha |  
+| bip_39_word_no_space_2 | rampround |  
+| bip_39_word_no_space_3 | ramproundharbor |  
+| bip_39_word_no_space_4 | ramproundharborone |  
+| bip_39_word_no_space_5 | ramproundharboronepatient |  
+| bip_39_word_no_space_6 | ramproundharboronepatientbar |  
+| bip_39_word_no_space_7 | ramproundharboronepatientbarmiddle |  
+| bip_39_word_no_space_8 | ramproundharboronepatientbarmiddletonight |  
+| bip_39_word_no_space_9 | ramproundharboronepatientbarmiddletonightpitch |  
 | bip_39_word_space_0 | ['ramp', 'round', 'harbor', 'one', 'patient', 'bar', 'middle', 'tonight', 'pitch', 'visual', 'chase', 'alpha'] |  
 | bip_39_word_space_1 | ramp |  
 | bip_39_word_space_10 | ramp round harbor one patient bar middle tonight pitch visual |  

@@ -122,6 +122,18 @@ scorpion
 news
 twin
 shoe |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removeexcludemixedavocadoinfantscorpionnewstwinshoequick |  
+| bip_39_word_no_space_11 | removeexcludemixedavocadoinfantscorpionnewstwinshoequickbanana |  
+| bip_39_word_no_space_12 | removeexcludemixedavocadoinfantscorpionnewstwinshoequickbananaaugust |  
+| bip_39_word_no_space_2 | removeexclude |  
+| bip_39_word_no_space_3 | removeexcludemixed |  
+| bip_39_word_no_space_4 | removeexcludemixedavocado |  
+| bip_39_word_no_space_5 | removeexcludemixedavocadoinfant |  
+| bip_39_word_no_space_6 | removeexcludemixedavocadoinfantscorpion |  
+| bip_39_word_no_space_7 | removeexcludemixedavocadoinfantscorpionnews |  
+| bip_39_word_no_space_8 | removeexcludemixedavocadoinfantscorpionnewstwin |  
+| bip_39_word_no_space_9 | removeexcludemixedavocadoinfantscorpionnewstwinshoe |  
 | bip_39_word_space_0 | ['remove', 'exclude', 'mixed', 'avocado', 'infant', 'scorpion', 'news', 'twin', 'shoe', 'quick', 'banana', 'august'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove exclude mixed avocado infant scorpion news twin shoe quick |  

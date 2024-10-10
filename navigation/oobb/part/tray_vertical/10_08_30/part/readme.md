@@ -122,6 +122,18 @@ green
 catch
 attract
 copy |  
+| bip_39_word_no_space_1 | noise |  
+| bip_39_word_no_space_10 | noisepantherdecreasesingshouldergreencatchattractcopyboy |  
+| bip_39_word_no_space_11 | noisepantherdecreasesingshouldergreencatchattractcopyboytired |  
+| bip_39_word_no_space_12 | noisepantherdecreasesingshouldergreencatchattractcopyboytiredanalyst |  
+| bip_39_word_no_space_2 | noisepanther |  
+| bip_39_word_no_space_3 | noisepantherdecrease |  
+| bip_39_word_no_space_4 | noisepantherdecreasesing |  
+| bip_39_word_no_space_5 | noisepantherdecreasesingshoulder |  
+| bip_39_word_no_space_6 | noisepantherdecreasesingshouldergreen |  
+| bip_39_word_no_space_7 | noisepantherdecreasesingshouldergreencatch |  
+| bip_39_word_no_space_8 | noisepantherdecreasesingshouldergreencatchattract |  
+| bip_39_word_no_space_9 | noisepantherdecreasesingshouldergreencatchattractcopy |  
 | bip_39_word_space_0 | ['noise', 'panther', 'decrease', 'sing', 'shoulder', 'green', 'catch', 'attract', 'copy', 'boy', 'tired', 'analyst'] |  
 | bip_39_word_space_1 | noise |  
 | bip_39_word_space_10 | noise panther decrease sing shoulder green catch attract copy boy |  

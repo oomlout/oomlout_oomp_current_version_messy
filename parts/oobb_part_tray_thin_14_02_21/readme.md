@@ -122,6 +122,18 @@ apology
 skin
 suspect
 reopen |  
+| bip_39_word_no_space_1 | maid |  
+| bip_39_word_no_space_10 | maiderasespoonflyraiseapologyskinsuspectreopenwall |  
+| bip_39_word_no_space_11 | maiderasespoonflyraiseapologyskinsuspectreopenwallasthma |  
+| bip_39_word_no_space_12 | maiderasespoonflyraiseapologyskinsuspectreopenwallasthmaangry |  
+| bip_39_word_no_space_2 | maiderase |  
+| bip_39_word_no_space_3 | maiderasespoon |  
+| bip_39_word_no_space_4 | maiderasespoonfly |  
+| bip_39_word_no_space_5 | maiderasespoonflyraise |  
+| bip_39_word_no_space_6 | maiderasespoonflyraiseapology |  
+| bip_39_word_no_space_7 | maiderasespoonflyraiseapologyskin |  
+| bip_39_word_no_space_8 | maiderasespoonflyraiseapologyskinsuspect |  
+| bip_39_word_no_space_9 | maiderasespoonflyraiseapologyskinsuspectreopen |  
 | bip_39_word_space_0 | ['maid', 'erase', 'spoon', 'fly', 'raise', 'apology', 'skin', 'suspect', 'reopen', 'wall', 'asthma', 'angry'] |  
 | bip_39_word_space_1 | maid |  
 | bip_39_word_space_10 | maid erase spoon fly raise apology skin suspect reopen wall |  

@@ -122,6 +122,18 @@ vault
 seminar
 infant
 wash |  
+| bip_39_word_no_space_1 | error |  
+| bip_39_word_no_space_10 | errorbusinessgorillaantennamushroomvaultseminarinfantwashseminar |  
+| bip_39_word_no_space_11 | errorbusinessgorillaantennamushroomvaultseminarinfantwashseminarwash |  
+| bip_39_word_no_space_12 | errorbusinessgorillaantennamushroomvaultseminarinfantwashseminarwashart |  
+| bip_39_word_no_space_2 | errorbusiness |  
+| bip_39_word_no_space_3 | errorbusinessgorilla |  
+| bip_39_word_no_space_4 | errorbusinessgorillaantenna |  
+| bip_39_word_no_space_5 | errorbusinessgorillaantennamushroom |  
+| bip_39_word_no_space_6 | errorbusinessgorillaantennamushroomvault |  
+| bip_39_word_no_space_7 | errorbusinessgorillaantennamushroomvaultseminar |  
+| bip_39_word_no_space_8 | errorbusinessgorillaantennamushroomvaultseminarinfant |  
+| bip_39_word_no_space_9 | errorbusinessgorillaantennamushroomvaultseminarinfantwash |  
 | bip_39_word_space_0 | ['error', 'business', 'gorilla', 'antenna', 'mushroom', 'vault', 'seminar', 'infant', 'wash', 'seminar', 'wash', 'art'] |  
 | bip_39_word_space_1 | error |  
 | bip_39_word_space_10 | error business gorilla antenna mushroom vault seminar infant wash seminar |  

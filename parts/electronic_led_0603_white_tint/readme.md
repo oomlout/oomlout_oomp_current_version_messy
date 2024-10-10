@@ -122,6 +122,18 @@ prosper
 window
 child
 swamp |  
+| bip_39_word_no_space_1 | about |  
+| bip_39_word_no_space_10 | abouttopspareeasyfilterprosperwindowchildswamppolice |  
+| bip_39_word_no_space_11 | abouttopspareeasyfilterprosperwindowchildswamppolicecereal |  
+| bip_39_word_no_space_12 | abouttopspareeasyfilterprosperwindowchildswamppolicecerealahead |  
+| bip_39_word_no_space_2 | abouttop |  
+| bip_39_word_no_space_3 | abouttopspare |  
+| bip_39_word_no_space_4 | abouttopspareeasy |  
+| bip_39_word_no_space_5 | abouttopspareeasyfilter |  
+| bip_39_word_no_space_6 | abouttopspareeasyfilterprosper |  
+| bip_39_word_no_space_7 | abouttopspareeasyfilterprosperwindow |  
+| bip_39_word_no_space_8 | abouttopspareeasyfilterprosperwindowchild |  
+| bip_39_word_no_space_9 | abouttopspareeasyfilterprosperwindowchildswamp |  
 | bip_39_word_space_0 | ['about', 'top', 'spare', 'easy', 'filter', 'prosper', 'window', 'child', 'swamp', 'police', 'cereal', 'ahead'] |  
 | bip_39_word_space_1 | about |  
 | bip_39_word_space_10 | about top spare easy filter prosper window child swamp police |  

@@ -122,6 +122,18 @@ cycle
 pool
 acoustic
 awake |  
+| bip_39_word_no_space_1 | leaf |  
+| bip_39_word_no_space_10 | leafimmensestreetnotablesoccercyclepoolacousticawakeunlock |  
+| bip_39_word_no_space_11 | leafimmensestreetnotablesoccercyclepoolacousticawakeunlockbind |  
+| bip_39_word_no_space_12 | leafimmensestreetnotablesoccercyclepoolacousticawakeunlockbindarrest |  
+| bip_39_word_no_space_2 | leafimmense |  
+| bip_39_word_no_space_3 | leafimmensestreet |  
+| bip_39_word_no_space_4 | leafimmensestreetnotable |  
+| bip_39_word_no_space_5 | leafimmensestreetnotablesoccer |  
+| bip_39_word_no_space_6 | leafimmensestreetnotablesoccercycle |  
+| bip_39_word_no_space_7 | leafimmensestreetnotablesoccercyclepool |  
+| bip_39_word_no_space_8 | leafimmensestreetnotablesoccercyclepoolacoustic |  
+| bip_39_word_no_space_9 | leafimmensestreetnotablesoccercyclepoolacousticawake |  
 | bip_39_word_space_0 | ['leaf', 'immense', 'street', 'notable', 'soccer', 'cycle', 'pool', 'acoustic', 'awake', 'unlock', 'bind', 'arrest'] |  
 | bip_39_word_space_1 | leaf |  
 | bip_39_word_space_10 | leaf immense street notable soccer cycle pool acoustic awake unlock |  

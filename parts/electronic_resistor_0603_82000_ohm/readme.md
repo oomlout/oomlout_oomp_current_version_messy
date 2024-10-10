@@ -122,6 +122,18 @@ blast
 chicken
 finish
 just |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shopglanceclaphomechestblastchickenfinishjustlab |  
+| bip_39_word_no_space_11 | shopglanceclaphomechestblastchickenfinishjustlabfuel |  
+| bip_39_word_no_space_12 | shopglanceclaphomechestblastchickenfinishjustlabfueladvice |  
+| bip_39_word_no_space_2 | shopglance |  
+| bip_39_word_no_space_3 | shopglanceclap |  
+| bip_39_word_no_space_4 | shopglanceclaphome |  
+| bip_39_word_no_space_5 | shopglanceclaphomechest |  
+| bip_39_word_no_space_6 | shopglanceclaphomechestblast |  
+| bip_39_word_no_space_7 | shopglanceclaphomechestblastchicken |  
+| bip_39_word_no_space_8 | shopglanceclaphomechestblastchickenfinish |  
+| bip_39_word_no_space_9 | shopglanceclaphomechestblastchickenfinishjust |  
 | bip_39_word_space_0 | ['shop', 'glance', 'clap', 'home', 'chest', 'blast', 'chicken', 'finish', 'just', 'lab', 'fuel', 'advice'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop glance clap home chest blast chicken finish just lab |  

@@ -122,6 +122,18 @@ clog
 news
 act
 swamp |  
+| bip_39_word_no_space_1 | talk |  
+| bip_39_word_no_space_10 | talkivoryharvestlendvelvetclognewsactswampdiffer |  
+| bip_39_word_no_space_11 | talkivoryharvestlendvelvetclognewsactswampdifferroad |  
+| bip_39_word_no_space_12 | talkivoryharvestlendvelvetclognewsactswampdifferroadamount |  
+| bip_39_word_no_space_2 | talkivory |  
+| bip_39_word_no_space_3 | talkivoryharvest |  
+| bip_39_word_no_space_4 | talkivoryharvestlend |  
+| bip_39_word_no_space_5 | talkivoryharvestlendvelvet |  
+| bip_39_word_no_space_6 | talkivoryharvestlendvelvetclog |  
+| bip_39_word_no_space_7 | talkivoryharvestlendvelvetclognews |  
+| bip_39_word_no_space_8 | talkivoryharvestlendvelvetclognewsact |  
+| bip_39_word_no_space_9 | talkivoryharvestlendvelvetclognewsactswamp |  
 | bip_39_word_space_0 | ['talk', 'ivory', 'harvest', 'lend', 'velvet', 'clog', 'news', 'act', 'swamp', 'differ', 'road', 'amount'] |  
 | bip_39_word_space_1 | talk |  
 | bip_39_word_space_10 | talk ivory harvest lend velvet clog news act swamp differ |  

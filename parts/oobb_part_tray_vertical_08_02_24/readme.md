@@ -122,6 +122,18 @@ raise
 blouse
 pledge
 already |  
+| bip_39_word_no_space_1 | twelve |  
+| bip_39_word_no_space_10 | twelvemodeljustfruitgraceraiseblousepledgealreadyopinion |  
+| bip_39_word_no_space_11 | twelvemodeljustfruitgraceraiseblousepledgealreadyopiniontwelve |  
+| bip_39_word_no_space_12 | twelvemodeljustfruitgraceraiseblousepledgealreadyopiniontwelveankle |  
+| bip_39_word_no_space_2 | twelvemodel |  
+| bip_39_word_no_space_3 | twelvemodeljust |  
+| bip_39_word_no_space_4 | twelvemodeljustfruit |  
+| bip_39_word_no_space_5 | twelvemodeljustfruitgrace |  
+| bip_39_word_no_space_6 | twelvemodeljustfruitgraceraise |  
+| bip_39_word_no_space_7 | twelvemodeljustfruitgraceraiseblouse |  
+| bip_39_word_no_space_8 | twelvemodeljustfruitgraceraiseblousepledge |  
+| bip_39_word_no_space_9 | twelvemodeljustfruitgraceraiseblousepledgealready |  
 | bip_39_word_space_0 | ['twelve', 'model', 'just', 'fruit', 'grace', 'raise', 'blouse', 'pledge', 'already', 'opinion', 'twelve', 'ankle'] |  
 | bip_39_word_space_1 | twelve |  
 | bip_39_word_space_10 | twelve model just fruit grace raise blouse pledge already opinion |  

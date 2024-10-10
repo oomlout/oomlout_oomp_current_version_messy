@@ -122,6 +122,18 @@ trumpet
 journey
 chaos
 photo |  
+| bip_39_word_no_space_1 | round |  
+| bip_39_word_no_space_10 | roundunablechurnwoodoldtrumpetjourneychaosphotohelp |  
+| bip_39_word_no_space_11 | roundunablechurnwoodoldtrumpetjourneychaosphotohelpintact |  
+| bip_39_word_no_space_12 | roundunablechurnwoodoldtrumpetjourneychaosphotohelpintactartwork |  
+| bip_39_word_no_space_2 | roundunable |  
+| bip_39_word_no_space_3 | roundunablechurn |  
+| bip_39_word_no_space_4 | roundunablechurnwood |  
+| bip_39_word_no_space_5 | roundunablechurnwoodold |  
+| bip_39_word_no_space_6 | roundunablechurnwoodoldtrumpet |  
+| bip_39_word_no_space_7 | roundunablechurnwoodoldtrumpetjourney |  
+| bip_39_word_no_space_8 | roundunablechurnwoodoldtrumpetjourneychaos |  
+| bip_39_word_no_space_9 | roundunablechurnwoodoldtrumpetjourneychaosphoto |  
 | bip_39_word_space_0 | ['round', 'unable', 'churn', 'wood', 'old', 'trumpet', 'journey', 'chaos', 'photo', 'help', 'intact', 'artwork'] |  
 | bip_39_word_space_1 | round |  
 | bip_39_word_space_10 | round unable churn wood old trumpet journey chaos photo help |  

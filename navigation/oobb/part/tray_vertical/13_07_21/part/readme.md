@@ -122,6 +122,18 @@ vote
 now
 frog
 doctor |  
+| bip_39_word_no_space_1 | mother |  
+| bip_39_word_no_space_10 | motherpearwhalepreferamountvotenowfrogdoctorweb |  
+| bip_39_word_no_space_11 | motherpearwhalepreferamountvotenowfrogdoctorwebmeasure |  
+| bip_39_word_no_space_12 | motherpearwhalepreferamountvotenowfrogdoctorwebmeasureamong |  
+| bip_39_word_no_space_2 | motherpear |  
+| bip_39_word_no_space_3 | motherpearwhale |  
+| bip_39_word_no_space_4 | motherpearwhaleprefer |  
+| bip_39_word_no_space_5 | motherpearwhalepreferamount |  
+| bip_39_word_no_space_6 | motherpearwhalepreferamountvote |  
+| bip_39_word_no_space_7 | motherpearwhalepreferamountvotenow |  
+| bip_39_word_no_space_8 | motherpearwhalepreferamountvotenowfrog |  
+| bip_39_word_no_space_9 | motherpearwhalepreferamountvotenowfrogdoctor |  
 | bip_39_word_space_0 | ['mother', 'pear', 'whale', 'prefer', 'amount', 'vote', 'now', 'frog', 'doctor', 'web', 'measure', 'among'] |  
 | bip_39_word_space_1 | mother |  
 | bip_39_word_space_10 | mother pear whale prefer amount vote now frog doctor web |  

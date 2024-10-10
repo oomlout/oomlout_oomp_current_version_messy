@@ -122,6 +122,18 @@ illness
 chat
 attend
 relief |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | envelopecousinisolateasthmarabbitillnesschatattendreliefdevice |  
+| bip_39_word_no_space_11 | envelopecousinisolateasthmarabbitillnesschatattendreliefdeviceisland |  
+| bip_39_word_no_space_12 | envelopecousinisolateasthmarabbitillnesschatattendreliefdeviceislandaddict |  
+| bip_39_word_no_space_2 | envelopecousin |  
+| bip_39_word_no_space_3 | envelopecousinisolate |  
+| bip_39_word_no_space_4 | envelopecousinisolateasthma |  
+| bip_39_word_no_space_5 | envelopecousinisolateasthmarabbit |  
+| bip_39_word_no_space_6 | envelopecousinisolateasthmarabbitillness |  
+| bip_39_word_no_space_7 | envelopecousinisolateasthmarabbitillnesschat |  
+| bip_39_word_no_space_8 | envelopecousinisolateasthmarabbitillnesschatattend |  
+| bip_39_word_no_space_9 | envelopecousinisolateasthmarabbitillnesschatattendrelief |  
 | bip_39_word_space_0 | ['envelope', 'cousin', 'isolate', 'asthma', 'rabbit', 'illness', 'chat', 'attend', 'relief', 'device', 'island', 'addict'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope cousin isolate asthma rabbit illness chat attend relief device |  

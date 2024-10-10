@@ -122,6 +122,18 @@ fame
 glow
 receive
 clay |  
+| bip_39_word_no_space_1 | traffic |  
+| bip_39_word_no_space_10 | trafficglobeparrotthankwantfameglowreceiveclayaudit |  
+| bip_39_word_no_space_11 | trafficglobeparrotthankwantfameglowreceiveclayauditslush |  
+| bip_39_word_no_space_12 | trafficglobeparrotthankwantfameglowreceiveclayauditslushadapt |  
+| bip_39_word_no_space_2 | trafficglobe |  
+| bip_39_word_no_space_3 | trafficglobeparrot |  
+| bip_39_word_no_space_4 | trafficglobeparrotthank |  
+| bip_39_word_no_space_5 | trafficglobeparrotthankwant |  
+| bip_39_word_no_space_6 | trafficglobeparrotthankwantfame |  
+| bip_39_word_no_space_7 | trafficglobeparrotthankwantfameglow |  
+| bip_39_word_no_space_8 | trafficglobeparrotthankwantfameglowreceive |  
+| bip_39_word_no_space_9 | trafficglobeparrotthankwantfameglowreceiveclay |  
 | bip_39_word_space_0 | ['traffic', 'globe', 'parrot', 'thank', 'want', 'fame', 'glow', 'receive', 'clay', 'audit', 'slush', 'adapt'] |  
 | bip_39_word_space_1 | traffic |  
 | bip_39_word_space_10 | traffic globe parrot thank want fame glow receive clay audit |  

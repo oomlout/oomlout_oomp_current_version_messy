@@ -122,6 +122,18 @@ brief
 enhance
 always
 believe |  
+| bip_39_word_no_space_1 | inner |  
+| bip_39_word_no_space_10 | innervoiceviolinattractpillbriefenhancealwaysbelievestrong |  
+| bip_39_word_no_space_11 | innervoiceviolinattractpillbriefenhancealwaysbelievestrongaccuse |  
+| bip_39_word_no_space_12 | innervoiceviolinattractpillbriefenhancealwaysbelievestrongaccuseattend |  
+| bip_39_word_no_space_2 | innervoice |  
+| bip_39_word_no_space_3 | innervoiceviolin |  
+| bip_39_word_no_space_4 | innervoiceviolinattract |  
+| bip_39_word_no_space_5 | innervoiceviolinattractpill |  
+| bip_39_word_no_space_6 | innervoiceviolinattractpillbrief |  
+| bip_39_word_no_space_7 | innervoiceviolinattractpillbriefenhance |  
+| bip_39_word_no_space_8 | innervoiceviolinattractpillbriefenhancealways |  
+| bip_39_word_no_space_9 | innervoiceviolinattractpillbriefenhancealwaysbelieve |  
 | bip_39_word_space_0 | ['inner', 'voice', 'violin', 'attract', 'pill', 'brief', 'enhance', 'always', 'believe', 'strong', 'accuse', 'attend'] |  
 | bip_39_word_space_1 | inner |  
 | bip_39_word_space_10 | inner voice violin attract pill brief enhance always believe strong |  

@@ -122,6 +122,18 @@ bike
 topic
 donkey
 guilt |  
+| bip_39_word_no_space_1 | core |  
+| bip_39_word_no_space_10 | corefloatwolfhappyresultbiketopicdonkeyguiltundo |  
+| bip_39_word_no_space_11 | corefloatwolfhappyresultbiketopicdonkeyguiltundoclay |  
+| bip_39_word_no_space_12 | corefloatwolfhappyresultbiketopicdonkeyguiltundoclayadd |  
+| bip_39_word_no_space_2 | corefloat |  
+| bip_39_word_no_space_3 | corefloatwolf |  
+| bip_39_word_no_space_4 | corefloatwolfhappy |  
+| bip_39_word_no_space_5 | corefloatwolfhappyresult |  
+| bip_39_word_no_space_6 | corefloatwolfhappyresultbike |  
+| bip_39_word_no_space_7 | corefloatwolfhappyresultbiketopic |  
+| bip_39_word_no_space_8 | corefloatwolfhappyresultbiketopicdonkey |  
+| bip_39_word_no_space_9 | corefloatwolfhappyresultbiketopicdonkeyguilt |  
 | bip_39_word_space_0 | ['core', 'float', 'wolf', 'happy', 'result', 'bike', 'topic', 'donkey', 'guilt', 'undo', 'clay', 'add'] |  
 | bip_39_word_space_1 | core |  
 | bip_39_word_space_10 | core float wolf happy result bike topic donkey guilt undo |  

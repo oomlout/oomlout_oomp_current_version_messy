@@ -122,6 +122,18 @@ tribe
 adjust
 tail
 liberty |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joininheritautumnsniffgrasstribeadjusttaillibertyrender |  
+| bip_39_word_no_space_11 | joininheritautumnsniffgrasstribeadjusttaillibertyrendernasty |  
+| bip_39_word_no_space_12 | joininheritautumnsniffgrasstribeadjusttaillibertyrendernastyagain |  
+| bip_39_word_no_space_2 | joininherit |  
+| bip_39_word_no_space_3 | joininheritautumn |  
+| bip_39_word_no_space_4 | joininheritautumnsniff |  
+| bip_39_word_no_space_5 | joininheritautumnsniffgrass |  
+| bip_39_word_no_space_6 | joininheritautumnsniffgrasstribe |  
+| bip_39_word_no_space_7 | joininheritautumnsniffgrasstribeadjust |  
+| bip_39_word_no_space_8 | joininheritautumnsniffgrasstribeadjusttail |  
+| bip_39_word_no_space_9 | joininheritautumnsniffgrasstribeadjusttailliberty |  
 | bip_39_word_space_0 | ['join', 'inherit', 'autumn', 'sniff', 'grass', 'tribe', 'adjust', 'tail', 'liberty', 'render', 'nasty', 'again'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join inherit autumn sniff grass tribe adjust tail liberty render |  

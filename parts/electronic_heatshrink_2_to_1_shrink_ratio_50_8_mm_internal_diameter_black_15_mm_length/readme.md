@@ -122,6 +122,18 @@ bright
 spoon
 end
 dismiss |  
+| bip_39_word_no_space_1 | target |  
+| bip_39_word_no_space_10 | targetcaughtdoctorrangecanalbrightspoonenddismissscissors |  
+| bip_39_word_no_space_11 | targetcaughtdoctorrangecanalbrightspoonenddismissscissorscollect |  
+| bip_39_word_no_space_12 | targetcaughtdoctorrangecanalbrightspoonenddismissscissorscollectapple |  
+| bip_39_word_no_space_2 | targetcaught |  
+| bip_39_word_no_space_3 | targetcaughtdoctor |  
+| bip_39_word_no_space_4 | targetcaughtdoctorrange |  
+| bip_39_word_no_space_5 | targetcaughtdoctorrangecanal |  
+| bip_39_word_no_space_6 | targetcaughtdoctorrangecanalbright |  
+| bip_39_word_no_space_7 | targetcaughtdoctorrangecanalbrightspoon |  
+| bip_39_word_no_space_8 | targetcaughtdoctorrangecanalbrightspoonend |  
+| bip_39_word_no_space_9 | targetcaughtdoctorrangecanalbrightspoonenddismiss |  
 | bip_39_word_space_0 | ['target', 'caught', 'doctor', 'range', 'canal', 'bright', 'spoon', 'end', 'dismiss', 'scissors', 'collect', 'apple'] |  
 | bip_39_word_space_1 | target |  
 | bip_39_word_space_10 | target caught doctor range canal bright spoon end dismiss scissors |  

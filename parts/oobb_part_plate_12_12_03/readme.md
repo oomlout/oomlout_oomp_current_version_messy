@@ -122,6 +122,18 @@ february
 ramp
 demand
 curve |  
+| bip_39_word_no_space_1 | require |  
+| bip_39_word_no_space_10 | requirepalmsmokeislandwalkfebruaryrampdemandcurveattract |  
+| bip_39_word_no_space_11 | requirepalmsmokeislandwalkfebruaryrampdemandcurveattractpatrol |  
+| bip_39_word_no_space_12 | requirepalmsmokeislandwalkfebruaryrampdemandcurveattractpatroladvance |  
+| bip_39_word_no_space_2 | requirepalm |  
+| bip_39_word_no_space_3 | requirepalmsmoke |  
+| bip_39_word_no_space_4 | requirepalmsmokeisland |  
+| bip_39_word_no_space_5 | requirepalmsmokeislandwalk |  
+| bip_39_word_no_space_6 | requirepalmsmokeislandwalkfebruary |  
+| bip_39_word_no_space_7 | requirepalmsmokeislandwalkfebruaryramp |  
+| bip_39_word_no_space_8 | requirepalmsmokeislandwalkfebruaryrampdemand |  
+| bip_39_word_no_space_9 | requirepalmsmokeislandwalkfebruaryrampdemandcurve |  
 | bip_39_word_space_0 | ['require', 'palm', 'smoke', 'island', 'walk', 'february', 'ramp', 'demand', 'curve', 'attract', 'patrol', 'advance'] |  
 | bip_39_word_space_1 | require |  
 | bip_39_word_space_10 | require palm smoke island walk february ramp demand curve attract |  

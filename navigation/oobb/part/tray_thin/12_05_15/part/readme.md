@@ -122,6 +122,18 @@ diesel
 diagram
 panther
 humble |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenfixfuryoakcoffeedieseldiagrampantherhumblesecret |  
+| bip_39_word_no_space_11 | oftenfixfuryoakcoffeedieseldiagrampantherhumblesecreteither |  
+| bip_39_word_no_space_12 | oftenfixfuryoakcoffeedieseldiagrampantherhumblesecreteitheralmost |  
+| bip_39_word_no_space_2 | oftenfix |  
+| bip_39_word_no_space_3 | oftenfixfury |  
+| bip_39_word_no_space_4 | oftenfixfuryoak |  
+| bip_39_word_no_space_5 | oftenfixfuryoakcoffee |  
+| bip_39_word_no_space_6 | oftenfixfuryoakcoffeediesel |  
+| bip_39_word_no_space_7 | oftenfixfuryoakcoffeedieseldiagram |  
+| bip_39_word_no_space_8 | oftenfixfuryoakcoffeedieseldiagrampanther |  
+| bip_39_word_no_space_9 | oftenfixfuryoakcoffeedieseldiagrampantherhumble |  
 | bip_39_word_space_0 | ['often', 'fix', 'fury', 'oak', 'coffee', 'diesel', 'diagram', 'panther', 'humble', 'secret', 'either', 'almost'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often fix fury oak coffee diesel diagram panther humble secret |  

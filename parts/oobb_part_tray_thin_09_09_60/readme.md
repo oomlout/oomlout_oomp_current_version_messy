@@ -122,6 +122,18 @@ unknown
 valve
 insane
 light |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefseekroadeconomyslowunknownvalveinsanelightwhale |  
+| bip_39_word_no_space_11 | chefseekroadeconomyslowunknownvalveinsanelightwhalesame |  
+| bip_39_word_no_space_12 | chefseekroadeconomyslowunknownvalveinsanelightwhalesameany |  
+| bip_39_word_no_space_2 | chefseek |  
+| bip_39_word_no_space_3 | chefseekroad |  
+| bip_39_word_no_space_4 | chefseekroadeconomy |  
+| bip_39_word_no_space_5 | chefseekroadeconomyslow |  
+| bip_39_word_no_space_6 | chefseekroadeconomyslowunknown |  
+| bip_39_word_no_space_7 | chefseekroadeconomyslowunknownvalve |  
+| bip_39_word_no_space_8 | chefseekroadeconomyslowunknownvalveinsane |  
+| bip_39_word_no_space_9 | chefseekroadeconomyslowunknownvalveinsanelight |  
 | bip_39_word_space_0 | ['chef', 'seek', 'road', 'economy', 'slow', 'unknown', 'valve', 'insane', 'light', 'whale', 'same', 'any'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef seek road economy slow unknown valve insane light whale |  

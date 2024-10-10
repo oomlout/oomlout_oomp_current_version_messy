@@ -122,6 +122,18 @@ timber
 twist
 cheap
 super |  
+| bip_39_word_no_space_1 | until |  
+| bip_39_word_no_space_10 | untilsocialdampbusinessgeneraltimbertwistcheapsuperecology |  
+| bip_39_word_no_space_11 | untilsocialdampbusinessgeneraltimbertwistcheapsuperecologyupdate |  
+| bip_39_word_no_space_12 | untilsocialdampbusinessgeneraltimbertwistcheapsuperecologyupdateactress |  
+| bip_39_word_no_space_2 | untilsocial |  
+| bip_39_word_no_space_3 | untilsocialdamp |  
+| bip_39_word_no_space_4 | untilsocialdampbusiness |  
+| bip_39_word_no_space_5 | untilsocialdampbusinessgeneral |  
+| bip_39_word_no_space_6 | untilsocialdampbusinessgeneraltimber |  
+| bip_39_word_no_space_7 | untilsocialdampbusinessgeneraltimbertwist |  
+| bip_39_word_no_space_8 | untilsocialdampbusinessgeneraltimbertwistcheap |  
+| bip_39_word_no_space_9 | untilsocialdampbusinessgeneraltimbertwistcheapsuper |  
 | bip_39_word_space_0 | ['until', 'social', 'damp', 'business', 'general', 'timber', 'twist', 'cheap', 'super', 'ecology', 'update', 'actress'] |  
 | bip_39_word_space_1 | until |  
 | bip_39_word_space_10 | until social damp business general timber twist cheap super ecology |  

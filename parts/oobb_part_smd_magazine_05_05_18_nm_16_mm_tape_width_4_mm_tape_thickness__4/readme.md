@@ -122,6 +122,18 @@ hazard
 inherit
 odor
 stay |  
+| bip_39_word_no_space_1 | improve |  
+| bip_39_word_no_space_10 | improveclarifytonebouncesymptomhazardinheritodorstayscience |  
+| bip_39_word_no_space_11 | improveclarifytonebouncesymptomhazardinheritodorstaysciencehunt |  
+| bip_39_word_no_space_12 | improveclarifytonebouncesymptomhazardinheritodorstaysciencehuntacross |  
+| bip_39_word_no_space_2 | improveclarify |  
+| bip_39_word_no_space_3 | improveclarifytone |  
+| bip_39_word_no_space_4 | improveclarifytonebounce |  
+| bip_39_word_no_space_5 | improveclarifytonebouncesymptom |  
+| bip_39_word_no_space_6 | improveclarifytonebouncesymptomhazard |  
+| bip_39_word_no_space_7 | improveclarifytonebouncesymptomhazardinherit |  
+| bip_39_word_no_space_8 | improveclarifytonebouncesymptomhazardinheritodor |  
+| bip_39_word_no_space_9 | improveclarifytonebouncesymptomhazardinheritodorstay |  
 | bip_39_word_space_0 | ['improve', 'clarify', 'tone', 'bounce', 'symptom', 'hazard', 'inherit', 'odor', 'stay', 'science', 'hunt', 'across'] |  
 | bip_39_word_space_1 | improve |  
 | bip_39_word_space_10 | improve clarify tone bounce symptom hazard inherit odor stay science |  

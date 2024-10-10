@@ -122,6 +122,18 @@ kit
 broken
 column
 armor |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | henlakemeanunusualsecondkitbrokencolumnarmorlittle |  
+| bip_39_word_no_space_11 | henlakemeanunusualsecondkitbrokencolumnarmorlittleadmit |  
+| bip_39_word_no_space_12 | henlakemeanunusualsecondkitbrokencolumnarmorlittleadmitalcohol |  
+| bip_39_word_no_space_2 | henlake |  
+| bip_39_word_no_space_3 | henlakemean |  
+| bip_39_word_no_space_4 | henlakemeanunusual |  
+| bip_39_word_no_space_5 | henlakemeanunusualsecond |  
+| bip_39_word_no_space_6 | henlakemeanunusualsecondkit |  
+| bip_39_word_no_space_7 | henlakemeanunusualsecondkitbroken |  
+| bip_39_word_no_space_8 | henlakemeanunusualsecondkitbrokencolumn |  
+| bip_39_word_no_space_9 | henlakemeanunusualsecondkitbrokencolumnarmor |  
 | bip_39_word_space_0 | ['hen', 'lake', 'mean', 'unusual', 'second', 'kit', 'broken', 'column', 'armor', 'little', 'admit', 'alcohol'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen lake mean unusual second kit broken column armor little |  

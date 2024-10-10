@@ -122,6 +122,18 @@ loyal
 cargo
 jungle
 toss |  
+| bip_39_word_no_space_1 | wood |  
+| bip_39_word_no_space_10 | woodladyessaycanalincomeloyalcargojungletossinner |  
+| bip_39_word_no_space_11 | woodladyessaycanalincomeloyalcargojungletossinnerkeen |  
+| bip_39_word_no_space_12 | woodladyessaycanalincomeloyalcargojungletossinnerkeenagent |  
+| bip_39_word_no_space_2 | woodlady |  
+| bip_39_word_no_space_3 | woodladyessay |  
+| bip_39_word_no_space_4 | woodladyessaycanal |  
+| bip_39_word_no_space_5 | woodladyessaycanalincome |  
+| bip_39_word_no_space_6 | woodladyessaycanalincomeloyal |  
+| bip_39_word_no_space_7 | woodladyessaycanalincomeloyalcargo |  
+| bip_39_word_no_space_8 | woodladyessaycanalincomeloyalcargojungle |  
+| bip_39_word_no_space_9 | woodladyessaycanalincomeloyalcargojungletoss |  
 | bip_39_word_space_0 | ['wood', 'lady', 'essay', 'canal', 'income', 'loyal', 'cargo', 'jungle', 'toss', 'inner', 'keen', 'agent'] |  
 | bip_39_word_space_1 | wood |  
 | bip_39_word_space_10 | wood lady essay canal income loyal cargo jungle toss inner |  

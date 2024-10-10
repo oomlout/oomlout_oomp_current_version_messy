@@ -122,6 +122,18 @@ soon
 soul
 view
 sphere |  
+| bip_39_word_no_space_1 | crumble |  
+| bip_39_word_no_space_10 | crumblevolcanotubecameraolympicsoonsoulviewspherepaddle |  
+| bip_39_word_no_space_11 | crumblevolcanotubecameraolympicsoonsoulviewspherepaddleliberty |  
+| bip_39_word_no_space_12 | crumblevolcanotubecameraolympicsoonsoulviewspherepaddlelibertyauction |  
+| bip_39_word_no_space_2 | crumblevolcano |  
+| bip_39_word_no_space_3 | crumblevolcanotube |  
+| bip_39_word_no_space_4 | crumblevolcanotubecamera |  
+| bip_39_word_no_space_5 | crumblevolcanotubecameraolympic |  
+| bip_39_word_no_space_6 | crumblevolcanotubecameraolympicsoon |  
+| bip_39_word_no_space_7 | crumblevolcanotubecameraolympicsoonsoul |  
+| bip_39_word_no_space_8 | crumblevolcanotubecameraolympicsoonsoulview |  
+| bip_39_word_no_space_9 | crumblevolcanotubecameraolympicsoonsoulviewsphere |  
 | bip_39_word_space_0 | ['crumble', 'volcano', 'tube', 'camera', 'olympic', 'soon', 'soul', 'view', 'sphere', 'paddle', 'liberty', 'auction'] |  
 | bip_39_word_space_1 | crumble |  
 | bip_39_word_space_10 | crumble volcano tube camera olympic soon soul view sphere paddle |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'buddy
   crunch
 
   album'
+bip_39_word_no_space_1: buddy
+bip_39_word_no_space_10: buddyentryvacantankleskatecoconutselectcrunchalbummeat
+bip_39_word_no_space_11: buddyentryvacantankleskatecoconutselectcrunchalbummeatcruise
+bip_39_word_no_space_12: buddyentryvacantankleskatecoconutselectcrunchalbummeatcruisealso
+bip_39_word_no_space_2: buddyentry
+bip_39_word_no_space_3: buddyentryvacant
+bip_39_word_no_space_4: buddyentryvacantankle
+bip_39_word_no_space_5: buddyentryvacantankleskate
+bip_39_word_no_space_6: buddyentryvacantankleskatecoconut
+bip_39_word_no_space_7: buddyentryvacantankleskatecoconutselect
+bip_39_word_no_space_8: buddyentryvacantankleskatecoconutselectcrunch
+bip_39_word_no_space_9: buddyentryvacantankleskatecoconutselectcrunchalbum
 bip_39_word_space_0:
 - buddy
 - entry

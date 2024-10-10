@@ -122,6 +122,18 @@ gold
 fresh
 heart
 alter |  
+| bip_39_word_no_space_1 | own |  
+| bip_39_word_no_space_10 | ownlockattitudeteachinputgoldfreshheartalterauto |  
+| bip_39_word_no_space_11 | ownlockattitudeteachinputgoldfreshheartalterautosize |  
+| bip_39_word_no_space_12 | ownlockattitudeteachinputgoldfreshheartalterautosizeaccount |  
+| bip_39_word_no_space_2 | ownlock |  
+| bip_39_word_no_space_3 | ownlockattitude |  
+| bip_39_word_no_space_4 | ownlockattitudeteach |  
+| bip_39_word_no_space_5 | ownlockattitudeteachinput |  
+| bip_39_word_no_space_6 | ownlockattitudeteachinputgold |  
+| bip_39_word_no_space_7 | ownlockattitudeteachinputgoldfresh |  
+| bip_39_word_no_space_8 | ownlockattitudeteachinputgoldfreshheart |  
+| bip_39_word_no_space_9 | ownlockattitudeteachinputgoldfreshheartalter |  
 | bip_39_word_space_0 | ['own', 'lock', 'attitude', 'teach', 'input', 'gold', 'fresh', 'heart', 'alter', 'auto', 'size', 'account'] |  
 | bip_39_word_space_1 | own |  
 | bip_39_word_space_10 | own lock attitude teach input gold fresh heart alter auto |  

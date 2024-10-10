@@ -122,6 +122,18 @@ test
 loop
 crazy
 shell |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotterypracticequitodorwhiptestloopcrazyshellregular |  
+| bip_39_word_no_space_11 | lotterypracticequitodorwhiptestloopcrazyshellregularstruggle |  
+| bip_39_word_no_space_12 | lotterypracticequitodorwhiptestloopcrazyshellregularstruggleacoustic |  
+| bip_39_word_no_space_2 | lotterypractice |  
+| bip_39_word_no_space_3 | lotterypracticequit |  
+| bip_39_word_no_space_4 | lotterypracticequitodor |  
+| bip_39_word_no_space_5 | lotterypracticequitodorwhip |  
+| bip_39_word_no_space_6 | lotterypracticequitodorwhiptest |  
+| bip_39_word_no_space_7 | lotterypracticequitodorwhiptestloop |  
+| bip_39_word_no_space_8 | lotterypracticequitodorwhiptestloopcrazy |  
+| bip_39_word_no_space_9 | lotterypracticequitodorwhiptestloopcrazyshell |  
 | bip_39_word_space_0 | ['lottery', 'practice', 'quit', 'odor', 'whip', 'test', 'loop', 'crazy', 'shell', 'regular', 'struggle', 'acoustic'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery practice quit odor whip test loop crazy shell regular |  

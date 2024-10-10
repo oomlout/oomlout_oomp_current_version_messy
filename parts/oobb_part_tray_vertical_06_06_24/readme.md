@@ -122,6 +122,18 @@ lazy
 series
 exist
 travel |  
+| bip_39_word_no_space_1 | truck |  
+| bip_39_word_no_space_10 | truckdenymathcamerabarlazyseriesexisttravelelephant |  
+| bip_39_word_no_space_11 | truckdenymathcamerabarlazyseriesexisttravelelephantfabric |  
+| bip_39_word_no_space_12 | truckdenymathcamerabarlazyseriesexisttravelelephantfabricaccuse |  
+| bip_39_word_no_space_2 | truckdeny |  
+| bip_39_word_no_space_3 | truckdenymath |  
+| bip_39_word_no_space_4 | truckdenymathcamera |  
+| bip_39_word_no_space_5 | truckdenymathcamerabar |  
+| bip_39_word_no_space_6 | truckdenymathcamerabarlazy |  
+| bip_39_word_no_space_7 | truckdenymathcamerabarlazyseries |  
+| bip_39_word_no_space_8 | truckdenymathcamerabarlazyseriesexist |  
+| bip_39_word_no_space_9 | truckdenymathcamerabarlazyseriesexisttravel |  
 | bip_39_word_space_0 | ['truck', 'deny', 'math', 'camera', 'bar', 'lazy', 'series', 'exist', 'travel', 'elephant', 'fabric', 'accuse'] |  
 | bip_39_word_space_1 | truck |  
 | bip_39_word_space_10 | truck deny math camera bar lazy series exist travel elephant |  

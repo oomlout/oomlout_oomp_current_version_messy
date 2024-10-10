@@ -122,6 +122,18 @@ umbrella
 picture
 doll
 surface |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | platescreenunfoldmammalcakeumbrellapicturedollsurfacestumble |  
+| bip_39_word_no_space_11 | platescreenunfoldmammalcakeumbrellapicturedollsurfacestumbleplanet |  
+| bip_39_word_no_space_12 | platescreenunfoldmammalcakeumbrellapicturedollsurfacestumbleplanetautumn |  
+| bip_39_word_no_space_2 | platescreen |  
+| bip_39_word_no_space_3 | platescreenunfold |  
+| bip_39_word_no_space_4 | platescreenunfoldmammal |  
+| bip_39_word_no_space_5 | platescreenunfoldmammalcake |  
+| bip_39_word_no_space_6 | platescreenunfoldmammalcakeumbrella |  
+| bip_39_word_no_space_7 | platescreenunfoldmammalcakeumbrellapicture |  
+| bip_39_word_no_space_8 | platescreenunfoldmammalcakeumbrellapicturedoll |  
+| bip_39_word_no_space_9 | platescreenunfoldmammalcakeumbrellapicturedollsurface |  
 | bip_39_word_space_0 | ['plate', 'screen', 'unfold', 'mammal', 'cake', 'umbrella', 'picture', 'doll', 'surface', 'stumble', 'planet', 'autumn'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate screen unfold mammal cake umbrella picture doll surface stumble |  

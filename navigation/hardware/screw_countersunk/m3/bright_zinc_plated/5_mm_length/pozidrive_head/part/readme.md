@@ -122,6 +122,18 @@ kick
 axis
 sustain
 news |  
+| bip_39_word_no_space_1 | world |  
+| bip_39_word_no_space_10 | worldprospermidnightpropertyfindkickaxissustainnewsbottom |  
+| bip_39_word_no_space_11 | worldprospermidnightpropertyfindkickaxissustainnewsbottomgoddess |  
+| bip_39_word_no_space_12 | worldprospermidnightpropertyfindkickaxissustainnewsbottomgoddessarrange |  
+| bip_39_word_no_space_2 | worldprosper |  
+| bip_39_word_no_space_3 | worldprospermidnight |  
+| bip_39_word_no_space_4 | worldprospermidnightproperty |  
+| bip_39_word_no_space_5 | worldprospermidnightpropertyfind |  
+| bip_39_word_no_space_6 | worldprospermidnightpropertyfindkick |  
+| bip_39_word_no_space_7 | worldprospermidnightpropertyfindkickaxis |  
+| bip_39_word_no_space_8 | worldprospermidnightpropertyfindkickaxissustain |  
+| bip_39_word_no_space_9 | worldprospermidnightpropertyfindkickaxissustainnews |  
 | bip_39_word_space_0 | ['world', 'prosper', 'midnight', 'property', 'find', 'kick', 'axis', 'sustain', 'news', 'bottom', 'goddess', 'arrange'] |  
 | bip_39_word_space_1 | world |  
 | bip_39_word_space_10 | world prosper midnight property find kick axis sustain news bottom |  

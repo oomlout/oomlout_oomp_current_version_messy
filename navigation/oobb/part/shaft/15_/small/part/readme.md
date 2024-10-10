@@ -122,6 +122,18 @@ puzzle
 runway
 sentence
 regret |  
+| bip_39_word_no_space_1 | vapor |  
+| bip_39_word_no_space_10 | vaporhumbleobtainsilkreopenpuzzlerunwaysentenceregretunfold |  
+| bip_39_word_no_space_11 | vaporhumbleobtainsilkreopenpuzzlerunwaysentenceregretunfolddecorate |  
+| bip_39_word_no_space_12 | vaporhumbleobtainsilkreopenpuzzlerunwaysentenceregretunfolddecoratealready |  
+| bip_39_word_no_space_2 | vaporhumble |  
+| bip_39_word_no_space_3 | vaporhumbleobtain |  
+| bip_39_word_no_space_4 | vaporhumbleobtainsilk |  
+| bip_39_word_no_space_5 | vaporhumbleobtainsilkreopen |  
+| bip_39_word_no_space_6 | vaporhumbleobtainsilkreopenpuzzle |  
+| bip_39_word_no_space_7 | vaporhumbleobtainsilkreopenpuzzlerunway |  
+| bip_39_word_no_space_8 | vaporhumbleobtainsilkreopenpuzzlerunwaysentence |  
+| bip_39_word_no_space_9 | vaporhumbleobtainsilkreopenpuzzlerunwaysentenceregret |  
 | bip_39_word_space_0 | ['vapor', 'humble', 'obtain', 'silk', 'reopen', 'puzzle', 'runway', 'sentence', 'regret', 'unfold', 'decorate', 'already'] |  
 | bip_39_word_space_1 | vapor |  
 | bip_39_word_space_10 | vapor humble obtain silk reopen puzzle runway sentence regret unfold |  

@@ -122,6 +122,18 @@ badge
 track
 feed
 violin |  
+| bip_39_word_no_space_1 | spend |  
+| bip_39_word_no_space_10 | spendnotecarbonfemaletankbadgetrackfeedviolinreject |  
+| bip_39_word_no_space_11 | spendnotecarbonfemaletankbadgetrackfeedviolinrejectsphere |  
+| bip_39_word_no_space_12 | spendnotecarbonfemaletankbadgetrackfeedviolinrejectsphereair |  
+| bip_39_word_no_space_2 | spendnote |  
+| bip_39_word_no_space_3 | spendnotecarbon |  
+| bip_39_word_no_space_4 | spendnotecarbonfemale |  
+| bip_39_word_no_space_5 | spendnotecarbonfemaletank |  
+| bip_39_word_no_space_6 | spendnotecarbonfemaletankbadge |  
+| bip_39_word_no_space_7 | spendnotecarbonfemaletankbadgetrack |  
+| bip_39_word_no_space_8 | spendnotecarbonfemaletankbadgetrackfeed |  
+| bip_39_word_no_space_9 | spendnotecarbonfemaletankbadgetrackfeedviolin |  
 | bip_39_word_space_0 | ['spend', 'note', 'carbon', 'female', 'tank', 'badge', 'track', 'feed', 'violin', 'reject', 'sphere', 'air'] |  
 | bip_39_word_space_1 | spend |  
 | bip_39_word_space_10 | spend note carbon female tank badge track feed violin reject |  

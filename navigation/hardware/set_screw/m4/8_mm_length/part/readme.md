@@ -122,6 +122,18 @@ kangaroo
 caution
 rally
 clog |  
+| bip_39_word_no_space_1 | hard |  
+| bip_39_word_no_space_10 | harddrasticcactusdecreasefitnesskangaroocautionrallyclogangry |  
+| bip_39_word_no_space_11 | harddrasticcactusdecreasefitnesskangaroocautionrallyclogangryspoon |  
+| bip_39_word_no_space_12 | harddrasticcactusdecreasefitnesskangaroocautionrallyclogangryspoonaugust |  
+| bip_39_word_no_space_2 | harddrastic |  
+| bip_39_word_no_space_3 | harddrasticcactus |  
+| bip_39_word_no_space_4 | harddrasticcactusdecrease |  
+| bip_39_word_no_space_5 | harddrasticcactusdecreasefitness |  
+| bip_39_word_no_space_6 | harddrasticcactusdecreasefitnesskangaroo |  
+| bip_39_word_no_space_7 | harddrasticcactusdecreasefitnesskangaroocaution |  
+| bip_39_word_no_space_8 | harddrasticcactusdecreasefitnesskangaroocautionrally |  
+| bip_39_word_no_space_9 | harddrasticcactusdecreasefitnesskangaroocautionrallyclog |  
 | bip_39_word_space_0 | ['hard', 'drastic', 'cactus', 'decrease', 'fitness', 'kangaroo', 'caution', 'rally', 'clog', 'angry', 'spoon', 'august'] |  
 | bip_39_word_space_1 | hard |  
 | bip_39_word_space_10 | hard drastic cactus decrease fitness kangaroo caution rally clog angry |  

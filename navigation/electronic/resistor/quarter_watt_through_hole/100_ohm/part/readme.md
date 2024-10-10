@@ -122,6 +122,18 @@ ordinary
 card
 check
 zoo |  
+| bip_39_word_no_space_1 | annual |  
+| bip_39_word_no_space_10 | annualflavordovebursterosionordinarycardcheckzootrain |  
+| bip_39_word_no_space_11 | annualflavordovebursterosionordinarycardcheckzootrainskirt |  
+| bip_39_word_no_space_12 | annualflavordovebursterosionordinarycardcheckzootrainskirtangry |  
+| bip_39_word_no_space_2 | annualflavor |  
+| bip_39_word_no_space_3 | annualflavordove |  
+| bip_39_word_no_space_4 | annualflavordoveburst |  
+| bip_39_word_no_space_5 | annualflavordovebursterosion |  
+| bip_39_word_no_space_6 | annualflavordovebursterosionordinary |  
+| bip_39_word_no_space_7 | annualflavordovebursterosionordinarycard |  
+| bip_39_word_no_space_8 | annualflavordovebursterosionordinarycardcheck |  
+| bip_39_word_no_space_9 | annualflavordovebursterosionordinarycardcheckzoo |  
 | bip_39_word_space_0 | ['annual', 'flavor', 'dove', 'burst', 'erosion', 'ordinary', 'card', 'check', 'zoo', 'train', 'skirt', 'angry'] |  
 | bip_39_word_space_1 | annual |  
 | bip_39_word_space_10 | annual flavor dove burst erosion ordinary card check zoo train |  

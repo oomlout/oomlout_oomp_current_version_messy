@@ -122,6 +122,18 @@ rich
 slender
 fever
 heart |  
+| bip_39_word_no_space_1 | subway |  
+| bip_39_word_no_space_10 | subwaytennisgeneralnutcrimerichslenderfeverheartall |  
+| bip_39_word_no_space_11 | subwaytennisgeneralnutcrimerichslenderfeverheartallwealth |  
+| bip_39_word_no_space_12 | subwaytennisgeneralnutcrimerichslenderfeverheartallwealthanger |  
+| bip_39_word_no_space_2 | subwaytennis |  
+| bip_39_word_no_space_3 | subwaytennisgeneral |  
+| bip_39_word_no_space_4 | subwaytennisgeneralnut |  
+| bip_39_word_no_space_5 | subwaytennisgeneralnutcrime |  
+| bip_39_word_no_space_6 | subwaytennisgeneralnutcrimerich |  
+| bip_39_word_no_space_7 | subwaytennisgeneralnutcrimerichslender |  
+| bip_39_word_no_space_8 | subwaytennisgeneralnutcrimerichslenderfever |  
+| bip_39_word_no_space_9 | subwaytennisgeneralnutcrimerichslenderfeverheart |  
 | bip_39_word_space_0 | ['subway', 'tennis', 'general', 'nut', 'crime', 'rich', 'slender', 'fever', 'heart', 'all', 'wealth', 'anger'] |  
 | bip_39_word_space_1 | subway |  
 | bip_39_word_space_10 | subway tennis general nut crime rich slender fever heart all |  

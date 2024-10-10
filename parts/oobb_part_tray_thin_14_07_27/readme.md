@@ -122,6 +122,18 @@ silent
 machine
 behave
 history |  
+| bip_39_word_no_space_1 | seven |  
+| bip_39_word_no_space_10 | sevendresswhisperoverbananasilentmachinebehavehistorykangaroo |  
+| bip_39_word_no_space_11 | sevendresswhisperoverbananasilentmachinebehavehistorykangaroowrap |  
+| bip_39_word_no_space_12 | sevendresswhisperoverbananasilentmachinebehavehistorykangaroowrapall |  
+| bip_39_word_no_space_2 | sevendress |  
+| bip_39_word_no_space_3 | sevendresswhisper |  
+| bip_39_word_no_space_4 | sevendresswhisperover |  
+| bip_39_word_no_space_5 | sevendresswhisperoverbanana |  
+| bip_39_word_no_space_6 | sevendresswhisperoverbananasilent |  
+| bip_39_word_no_space_7 | sevendresswhisperoverbananasilentmachine |  
+| bip_39_word_no_space_8 | sevendresswhisperoverbananasilentmachinebehave |  
+| bip_39_word_no_space_9 | sevendresswhisperoverbananasilentmachinebehavehistory |  
 | bip_39_word_space_0 | ['seven', 'dress', 'whisper', 'over', 'banana', 'silent', 'machine', 'behave', 'history', 'kangaroo', 'wrap', 'all'] |  
 | bip_39_word_space_1 | seven |  
 | bip_39_word_space_10 | seven dress whisper over banana silent machine behave history kangaroo |  

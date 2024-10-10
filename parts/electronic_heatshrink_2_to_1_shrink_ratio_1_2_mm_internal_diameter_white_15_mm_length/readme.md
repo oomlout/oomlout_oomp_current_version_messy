@@ -122,6 +122,18 @@ romance
 coconut
 sting
 magnet |  
+| bip_39_word_no_space_1 | render |  
+| bip_39_word_no_space_10 | renderurgethumborienttaxiromancecoconutstingmagnetbacon |  
+| bip_39_word_no_space_11 | renderurgethumborienttaxiromancecoconutstingmagnetbaconknife |  
+| bip_39_word_no_space_12 | renderurgethumborienttaxiromancecoconutstingmagnetbaconknifeanimal |  
+| bip_39_word_no_space_2 | renderurge |  
+| bip_39_word_no_space_3 | renderurgethumb |  
+| bip_39_word_no_space_4 | renderurgethumborient |  
+| bip_39_word_no_space_5 | renderurgethumborienttaxi |  
+| bip_39_word_no_space_6 | renderurgethumborienttaxiromance |  
+| bip_39_word_no_space_7 | renderurgethumborienttaxiromancecoconut |  
+| bip_39_word_no_space_8 | renderurgethumborienttaxiromancecoconutsting |  
+| bip_39_word_no_space_9 | renderurgethumborienttaxiromancecoconutstingmagnet |  
 | bip_39_word_space_0 | ['render', 'urge', 'thumb', 'orient', 'taxi', 'romance', 'coconut', 'sting', 'magnet', 'bacon', 'knife', 'animal'] |  
 | bip_39_word_space_1 | render |  
 | bip_39_word_space_10 | render urge thumb orient taxi romance coconut sting magnet bacon |  

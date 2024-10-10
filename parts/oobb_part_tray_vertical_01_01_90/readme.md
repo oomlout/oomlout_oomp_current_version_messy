@@ -122,6 +122,18 @@ craft
 injury
 mad
 fly |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefordinaryresistcorneaglecraftinjurymadflyimmune |  
+| bip_39_word_no_space_11 | griefordinaryresistcorneaglecraftinjurymadflyimmuneearn |  
+| bip_39_word_no_space_12 | griefordinaryresistcorneaglecraftinjurymadflyimmuneearnargue |  
+| bip_39_word_no_space_2 | griefordinary |  
+| bip_39_word_no_space_3 | griefordinaryresist |  
+| bip_39_word_no_space_4 | griefordinaryresistcorn |  
+| bip_39_word_no_space_5 | griefordinaryresistcorneagle |  
+| bip_39_word_no_space_6 | griefordinaryresistcorneaglecraft |  
+| bip_39_word_no_space_7 | griefordinaryresistcorneaglecraftinjury |  
+| bip_39_word_no_space_8 | griefordinaryresistcorneaglecraftinjurymad |  
+| bip_39_word_no_space_9 | griefordinaryresistcorneaglecraftinjurymadfly |  
 | bip_39_word_space_0 | ['grief', 'ordinary', 'resist', 'corn', 'eagle', 'craft', 'injury', 'mad', 'fly', 'immune', 'earn', 'argue'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief ordinary resist corn eagle craft injury mad fly immune |  

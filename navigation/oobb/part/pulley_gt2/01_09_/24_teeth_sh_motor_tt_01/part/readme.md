@@ -122,6 +122,18 @@ average
 custom
 labor
 sick |  
+| bip_39_word_no_space_1 | wage |  
+| bip_39_word_no_space_10 | wageretreatbananachestbounceaveragecustomlaborsickdentist |  
+| bip_39_word_no_space_11 | wageretreatbananachestbounceaveragecustomlaborsickdentistcook |  
+| bip_39_word_no_space_12 | wageretreatbananachestbounceaveragecustomlaborsickdentistcookairport |  
+| bip_39_word_no_space_2 | wageretreat |  
+| bip_39_word_no_space_3 | wageretreatbanana |  
+| bip_39_word_no_space_4 | wageretreatbananachest |  
+| bip_39_word_no_space_5 | wageretreatbananachestbounce |  
+| bip_39_word_no_space_6 | wageretreatbananachestbounceaverage |  
+| bip_39_word_no_space_7 | wageretreatbananachestbounceaveragecustom |  
+| bip_39_word_no_space_8 | wageretreatbananachestbounceaveragecustomlabor |  
+| bip_39_word_no_space_9 | wageretreatbananachestbounceaveragecustomlaborsick |  
 | bip_39_word_space_0 | ['wage', 'retreat', 'banana', 'chest', 'bounce', 'average', 'custom', 'labor', 'sick', 'dentist', 'cook', 'airport'] |  
 | bip_39_word_space_1 | wage |  
 | bip_39_word_space_10 | wage retreat banana chest bounce average custom labor sick dentist |  

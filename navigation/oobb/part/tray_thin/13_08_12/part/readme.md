@@ -122,6 +122,18 @@ creek
 arctic
 domain
 clown |  
+| bip_39_word_no_space_1 | prosper |  
+| bip_39_word_no_space_10 | prosperbeanhumbleraintriggercreekarcticdomainclownspare |  
+| bip_39_word_no_space_11 | prosperbeanhumbleraintriggercreekarcticdomainclownsparedumb |  
+| bip_39_word_no_space_12 | prosperbeanhumbleraintriggercreekarcticdomainclownsparedumbagent |  
+| bip_39_word_no_space_2 | prosperbean |  
+| bip_39_word_no_space_3 | prosperbeanhumble |  
+| bip_39_word_no_space_4 | prosperbeanhumblerain |  
+| bip_39_word_no_space_5 | prosperbeanhumbleraintrigger |  
+| bip_39_word_no_space_6 | prosperbeanhumbleraintriggercreek |  
+| bip_39_word_no_space_7 | prosperbeanhumbleraintriggercreekarctic |  
+| bip_39_word_no_space_8 | prosperbeanhumbleraintriggercreekarcticdomain |  
+| bip_39_word_no_space_9 | prosperbeanhumbleraintriggercreekarcticdomainclown |  
 | bip_39_word_space_0 | ['prosper', 'bean', 'humble', 'rain', 'trigger', 'creek', 'arctic', 'domain', 'clown', 'spare', 'dumb', 'agent'] |  
 | bip_39_word_space_1 | prosper |  
 | bip_39_word_space_10 | prosper bean humble rain trigger creek arctic domain clown spare |  

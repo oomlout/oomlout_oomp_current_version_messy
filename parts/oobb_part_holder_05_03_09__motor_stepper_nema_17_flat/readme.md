@@ -122,6 +122,18 @@ ball
 brick
 lyrics
 sound |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employcombineregularmailcleverballbricklyricssoundscript |  
+| bip_39_word_no_space_11 | employcombineregularmailcleverballbricklyricssoundscriptrival |  
+| bip_39_word_no_space_12 | employcombineregularmailcleverballbricklyricssoundscriptrivalaerobic |  
+| bip_39_word_no_space_2 | employcombine |  
+| bip_39_word_no_space_3 | employcombineregular |  
+| bip_39_word_no_space_4 | employcombineregularmail |  
+| bip_39_word_no_space_5 | employcombineregularmailclever |  
+| bip_39_word_no_space_6 | employcombineregularmailcleverball |  
+| bip_39_word_no_space_7 | employcombineregularmailcleverballbrick |  
+| bip_39_word_no_space_8 | employcombineregularmailcleverballbricklyrics |  
+| bip_39_word_no_space_9 | employcombineregularmailcleverballbricklyricssound |  
 | bip_39_word_space_0 | ['employ', 'combine', 'regular', 'mail', 'clever', 'ball', 'brick', 'lyrics', 'sound', 'script', 'rival', 'aerobic'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ combine regular mail clever ball brick lyrics sound script |  

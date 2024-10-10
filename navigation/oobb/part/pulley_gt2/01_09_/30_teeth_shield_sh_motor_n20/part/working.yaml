@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chase
   found
 
   salt'
+bip_39_word_no_space_1: chase
+bip_39_word_no_space_10: chaseendlessclutchautohandalltokenfoundsaltroom
+bip_39_word_no_space_11: chaseendlessclutchautohandalltokenfoundsaltroomvivid
+bip_39_word_no_space_12: chaseendlessclutchautohandalltokenfoundsaltroomvividability
+bip_39_word_no_space_2: chaseendless
+bip_39_word_no_space_3: chaseendlessclutch
+bip_39_word_no_space_4: chaseendlessclutchauto
+bip_39_word_no_space_5: chaseendlessclutchautohand
+bip_39_word_no_space_6: chaseendlessclutchautohandall
+bip_39_word_no_space_7: chaseendlessclutchautohandalltoken
+bip_39_word_no_space_8: chaseendlessclutchautohandalltokenfound
+bip_39_word_no_space_9: chaseendlessclutchautohandalltokenfoundsalt
 bip_39_word_space_0:
 - chase
 - endless

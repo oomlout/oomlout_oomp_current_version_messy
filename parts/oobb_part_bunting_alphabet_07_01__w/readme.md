@@ -122,6 +122,18 @@ marriage
 control
 achieve
 slide |  
+| bip_39_word_no_space_1 | shiver |  
+| bip_39_word_no_space_10 | shiverwreckribmakeaprilmarriagecontrolachieveslideaddress |  
+| bip_39_word_no_space_11 | shiverwreckribmakeaprilmarriagecontrolachieveslideaddressslogan |  
+| bip_39_word_no_space_12 | shiverwreckribmakeaprilmarriagecontrolachieveslideaddresssloganaround |  
+| bip_39_word_no_space_2 | shiverwreck |  
+| bip_39_word_no_space_3 | shiverwreckrib |  
+| bip_39_word_no_space_4 | shiverwreckribmake |  
+| bip_39_word_no_space_5 | shiverwreckribmakeapril |  
+| bip_39_word_no_space_6 | shiverwreckribmakeaprilmarriage |  
+| bip_39_word_no_space_7 | shiverwreckribmakeaprilmarriagecontrol |  
+| bip_39_word_no_space_8 | shiverwreckribmakeaprilmarriagecontrolachieve |  
+| bip_39_word_no_space_9 | shiverwreckribmakeaprilmarriagecontrolachieveslide |  
 | bip_39_word_space_0 | ['shiver', 'wreck', 'rib', 'make', 'april', 'marriage', 'control', 'achieve', 'slide', 'address', 'slogan', 'around'] |  
 | bip_39_word_space_1 | shiver |  
 | bip_39_word_space_10 | shiver wreck rib make april marriage control achieve slide address |  

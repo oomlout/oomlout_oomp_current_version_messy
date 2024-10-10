@@ -122,6 +122,18 @@ process
 parent
 they
 next |  
+| bip_39_word_no_space_1 | clump |  
+| bip_39_word_no_space_10 | clumpsightcitizenexhibittowerprocessparenttheynexthappy |  
+| bip_39_word_no_space_11 | clumpsightcitizenexhibittowerprocessparenttheynexthappydesk |  
+| bip_39_word_no_space_12 | clumpsightcitizenexhibittowerprocessparenttheynexthappydeskabout |  
+| bip_39_word_no_space_2 | clumpsight |  
+| bip_39_word_no_space_3 | clumpsightcitizen |  
+| bip_39_word_no_space_4 | clumpsightcitizenexhibit |  
+| bip_39_word_no_space_5 | clumpsightcitizenexhibittower |  
+| bip_39_word_no_space_6 | clumpsightcitizenexhibittowerprocess |  
+| bip_39_word_no_space_7 | clumpsightcitizenexhibittowerprocessparent |  
+| bip_39_word_no_space_8 | clumpsightcitizenexhibittowerprocessparentthey |  
+| bip_39_word_no_space_9 | clumpsightcitizenexhibittowerprocessparenttheynext |  
 | bip_39_word_space_0 | ['clump', 'sight', 'citizen', 'exhibit', 'tower', 'process', 'parent', 'they', 'next', 'happy', 'desk', 'about'] |  
 | bip_39_word_space_1 | clump |  
 | bip_39_word_space_10 | clump sight citizen exhibit tower process parent they next happy |  

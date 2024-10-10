@@ -122,6 +122,18 @@ steak
 burden
 file
 palm |  
+| bip_39_word_no_space_1 | current |  
+| bip_39_word_no_space_10 | currentsceneclumpribvesselsteakburdenfilepalmcity |  
+| bip_39_word_no_space_11 | currentsceneclumpribvesselsteakburdenfilepalmcitymedal |  
+| bip_39_word_no_space_12 | currentsceneclumpribvesselsteakburdenfilepalmcitymedalall |  
+| bip_39_word_no_space_2 | currentscene |  
+| bip_39_word_no_space_3 | currentsceneclump |  
+| bip_39_word_no_space_4 | currentsceneclumprib |  
+| bip_39_word_no_space_5 | currentsceneclumpribvessel |  
+| bip_39_word_no_space_6 | currentsceneclumpribvesselsteak |  
+| bip_39_word_no_space_7 | currentsceneclumpribvesselsteakburden |  
+| bip_39_word_no_space_8 | currentsceneclumpribvesselsteakburdenfile |  
+| bip_39_word_no_space_9 | currentsceneclumpribvesselsteakburdenfilepalm |  
 | bip_39_word_space_0 | ['current', 'scene', 'clump', 'rib', 'vessel', 'steak', 'burden', 'file', 'palm', 'city', 'medal', 'all'] |  
 | bip_39_word_space_1 | current |  
 | bip_39_word_space_10 | current scene clump rib vessel steak burden file palm city |  

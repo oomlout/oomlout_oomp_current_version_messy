@@ -122,6 +122,18 @@ trim
 fog
 farm
 film |  
+| bip_39_word_no_space_1 | web |  
+| bip_39_word_no_space_10 | webtiltmistakewildnuttrimfogfarmfilmoccur |  
+| bip_39_word_no_space_11 | webtiltmistakewildnuttrimfogfarmfilmoccurtalent |  
+| bip_39_word_no_space_12 | webtiltmistakewildnuttrimfogfarmfilmoccurtalentaction |  
+| bip_39_word_no_space_2 | webtilt |  
+| bip_39_word_no_space_3 | webtiltmistake |  
+| bip_39_word_no_space_4 | webtiltmistakewild |  
+| bip_39_word_no_space_5 | webtiltmistakewildnut |  
+| bip_39_word_no_space_6 | webtiltmistakewildnuttrim |  
+| bip_39_word_no_space_7 | webtiltmistakewildnuttrimfog |  
+| bip_39_word_no_space_8 | webtiltmistakewildnuttrimfogfarm |  
+| bip_39_word_no_space_9 | webtiltmistakewildnuttrimfogfarmfilm |  
 | bip_39_word_space_0 | ['web', 'tilt', 'mistake', 'wild', 'nut', 'trim', 'fog', 'farm', 'film', 'occur', 'talent', 'action'] |  
 | bip_39_word_space_1 | web |  
 | bip_39_word_space_10 | web tilt mistake wild nut trim fog farm film occur |  

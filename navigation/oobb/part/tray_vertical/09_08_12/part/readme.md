@@ -122,6 +122,18 @@ cat
 nasty
 tilt
 federal |  
+| bip_39_word_no_space_1 | advice |  
+| bip_39_word_no_space_10 | advicecapableweaponsymptomvancatnastytiltfederallocal |  
+| bip_39_word_no_space_11 | advicecapableweaponsymptomvancatnastytiltfederallocalfat |  
+| bip_39_word_no_space_12 | advicecapableweaponsymptomvancatnastytiltfederallocalfataim |  
+| bip_39_word_no_space_2 | advicecapable |  
+| bip_39_word_no_space_3 | advicecapableweapon |  
+| bip_39_word_no_space_4 | advicecapableweaponsymptom |  
+| bip_39_word_no_space_5 | advicecapableweaponsymptomvan |  
+| bip_39_word_no_space_6 | advicecapableweaponsymptomvancat |  
+| bip_39_word_no_space_7 | advicecapableweaponsymptomvancatnasty |  
+| bip_39_word_no_space_8 | advicecapableweaponsymptomvancatnastytilt |  
+| bip_39_word_no_space_9 | advicecapableweaponsymptomvancatnastytiltfederal |  
 | bip_39_word_space_0 | ['advice', 'capable', 'weapon', 'symptom', 'van', 'cat', 'nasty', 'tilt', 'federal', 'local', 'fat', 'aim'] |  
 | bip_39_word_space_1 | advice |  
 | bip_39_word_space_10 | advice capable weapon symptom van cat nasty tilt federal local |  

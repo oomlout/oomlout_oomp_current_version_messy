@@ -122,6 +122,18 @@ side
 lens
 camp
 innocent |  
+| bip_39_word_no_space_1 | siren |  
+| bip_39_word_no_space_10 | sirenreasonpoetcuriousbridgesidelenscampinnocentenforce |  
+| bip_39_word_no_space_11 | sirenreasonpoetcuriousbridgesidelenscampinnocentenforcetiger |  
+| bip_39_word_no_space_12 | sirenreasonpoetcuriousbridgesidelenscampinnocentenforcetigerall |  
+| bip_39_word_no_space_2 | sirenreason |  
+| bip_39_word_no_space_3 | sirenreasonpoet |  
+| bip_39_word_no_space_4 | sirenreasonpoetcurious |  
+| bip_39_word_no_space_5 | sirenreasonpoetcuriousbridge |  
+| bip_39_word_no_space_6 | sirenreasonpoetcuriousbridgeside |  
+| bip_39_word_no_space_7 | sirenreasonpoetcuriousbridgesidelens |  
+| bip_39_word_no_space_8 | sirenreasonpoetcuriousbridgesidelenscamp |  
+| bip_39_word_no_space_9 | sirenreasonpoetcuriousbridgesidelenscampinnocent |  
 | bip_39_word_space_0 | ['siren', 'reason', 'poet', 'curious', 'bridge', 'side', 'lens', 'camp', 'innocent', 'enforce', 'tiger', 'all'] |  
 | bip_39_word_space_1 | siren |  
 | bip_39_word_space_10 | siren reason poet curious bridge side lens camp innocent enforce |  

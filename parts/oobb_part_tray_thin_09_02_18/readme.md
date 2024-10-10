@@ -122,6 +122,18 @@ crash
 rival
 buffalo
 copper |  
+| bip_39_word_no_space_1 | inspire |  
+| bip_39_word_no_space_10 | inspiretaxiwitnessspellcaptaincrashrivalbuffalocoppersock |  
+| bip_39_word_no_space_11 | inspiretaxiwitnessspellcaptaincrashrivalbuffalocoppersockmaterial |  
+| bip_39_word_no_space_12 | inspiretaxiwitnessspellcaptaincrashrivalbuffalocoppersockmaterialalien |  
+| bip_39_word_no_space_2 | inspiretaxi |  
+| bip_39_word_no_space_3 | inspiretaxiwitness |  
+| bip_39_word_no_space_4 | inspiretaxiwitnessspell |  
+| bip_39_word_no_space_5 | inspiretaxiwitnessspellcaptain |  
+| bip_39_word_no_space_6 | inspiretaxiwitnessspellcaptaincrash |  
+| bip_39_word_no_space_7 | inspiretaxiwitnessspellcaptaincrashrival |  
+| bip_39_word_no_space_8 | inspiretaxiwitnessspellcaptaincrashrivalbuffalo |  
+| bip_39_word_no_space_9 | inspiretaxiwitnessspellcaptaincrashrivalbuffalocopper |  
 | bip_39_word_space_0 | ['inspire', 'taxi', 'witness', 'spell', 'captain', 'crash', 'rival', 'buffalo', 'copper', 'sock', 'material', 'alien'] |  
 | bip_39_word_space_1 | inspire |  
 | bip_39_word_space_10 | inspire taxi witness spell captain crash rival buffalo copper sock |  

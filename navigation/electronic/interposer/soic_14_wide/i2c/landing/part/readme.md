@@ -122,6 +122,18 @@ syrup
 throw
 chest
 build |  
+| bip_39_word_no_space_1 | broccoli |  
+| bip_39_word_no_space_10 | broccolireplacepepperdepositregularsyrupthrowchestbuildkick |  
+| bip_39_word_no_space_11 | broccolireplacepepperdepositregularsyrupthrowchestbuildkickkite |  
+| bip_39_word_no_space_12 | broccolireplacepepperdepositregularsyrupthrowchestbuildkickkiteadult |  
+| bip_39_word_no_space_2 | broccolireplace |  
+| bip_39_word_no_space_3 | broccolireplacepepper |  
+| bip_39_word_no_space_4 | broccolireplacepepperdeposit |  
+| bip_39_word_no_space_5 | broccolireplacepepperdepositregular |  
+| bip_39_word_no_space_6 | broccolireplacepepperdepositregularsyrup |  
+| bip_39_word_no_space_7 | broccolireplacepepperdepositregularsyrupthrow |  
+| bip_39_word_no_space_8 | broccolireplacepepperdepositregularsyrupthrowchest |  
+| bip_39_word_no_space_9 | broccolireplacepepperdepositregularsyrupthrowchestbuild |  
 | bip_39_word_space_0 | ['broccoli', 'replace', 'pepper', 'deposit', 'regular', 'syrup', 'throw', 'chest', 'build', 'kick', 'kite', 'adult'] |  
 | bip_39_word_space_1 | broccoli |  
 | bip_39_word_space_10 | broccoli replace pepper deposit regular syrup throw chest build kick |  

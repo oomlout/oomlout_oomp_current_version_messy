@@ -122,6 +122,18 @@ wire
 glimpse
 fever
 hobby |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wrongprocessstonegaspexactwireglimpsefeverhobbynasty |  
+| bip_39_word_no_space_11 | wrongprocessstonegaspexactwireglimpsefeverhobbynastytaxi |  
+| bip_39_word_no_space_12 | wrongprocessstonegaspexactwireglimpsefeverhobbynastytaxiairport |  
+| bip_39_word_no_space_2 | wrongprocess |  
+| bip_39_word_no_space_3 | wrongprocessstone |  
+| bip_39_word_no_space_4 | wrongprocessstonegasp |  
+| bip_39_word_no_space_5 | wrongprocessstonegaspexact |  
+| bip_39_word_no_space_6 | wrongprocessstonegaspexactwire |  
+| bip_39_word_no_space_7 | wrongprocessstonegaspexactwireglimpse |  
+| bip_39_word_no_space_8 | wrongprocessstonegaspexactwireglimpsefever |  
+| bip_39_word_no_space_9 | wrongprocessstonegaspexactwireglimpsefeverhobby |  
 | bip_39_word_space_0 | ['wrong', 'process', 'stone', 'gasp', 'exact', 'wire', 'glimpse', 'fever', 'hobby', 'nasty', 'taxi', 'airport'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong process stone gasp exact wire glimpse fever hobby nasty |  

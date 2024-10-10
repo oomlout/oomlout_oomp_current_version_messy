@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'suggest
   flame
 
   approve'
+bip_39_word_no_space_1: suggest
+bip_39_word_no_space_10: suggestrailjokewrongguitarnoodlebringflameapprovebracket
+bip_39_word_no_space_11: suggestrailjokewrongguitarnoodlebringflameapprovebrackettent
+bip_39_word_no_space_12: suggestrailjokewrongguitarnoodlebringflameapprovebrackettentagain
+bip_39_word_no_space_2: suggestrail
+bip_39_word_no_space_3: suggestrailjoke
+bip_39_word_no_space_4: suggestrailjokewrong
+bip_39_word_no_space_5: suggestrailjokewrongguitar
+bip_39_word_no_space_6: suggestrailjokewrongguitarnoodle
+bip_39_word_no_space_7: suggestrailjokewrongguitarnoodlebring
+bip_39_word_no_space_8: suggestrailjokewrongguitarnoodlebringflame
+bip_39_word_no_space_9: suggestrailjokewrongguitarnoodlebringflameapprove
 bip_39_word_space_0:
 - suggest
 - rail

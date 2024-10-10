@@ -122,6 +122,18 @@ poverty
 tattoo
 increase
 immense |  
+| bip_39_word_no_space_1 | require |  
+| bip_39_word_no_space_10 | requireluckyforwardprimaryextrapovertytattooincreaseimmensegroup |  
+| bip_39_word_no_space_11 | requireluckyforwardprimaryextrapovertytattooincreaseimmensegroupcotton |  
+| bip_39_word_no_space_12 | requireluckyforwardprimaryextrapovertytattooincreaseimmensegroupcottonarrange |  
+| bip_39_word_no_space_2 | requirelucky |  
+| bip_39_word_no_space_3 | requireluckyforward |  
+| bip_39_word_no_space_4 | requireluckyforwardprimary |  
+| bip_39_word_no_space_5 | requireluckyforwardprimaryextra |  
+| bip_39_word_no_space_6 | requireluckyforwardprimaryextrapoverty |  
+| bip_39_word_no_space_7 | requireluckyforwardprimaryextrapovertytattoo |  
+| bip_39_word_no_space_8 | requireluckyforwardprimaryextrapovertytattooincrease |  
+| bip_39_word_no_space_9 | requireluckyforwardprimaryextrapovertytattooincreaseimmense |  
 | bip_39_word_space_0 | ['require', 'lucky', 'forward', 'primary', 'extra', 'poverty', 'tattoo', 'increase', 'immense', 'group', 'cotton', 'arrange'] |  
 | bip_39_word_space_1 | require |  
 | bip_39_word_space_10 | require lucky forward primary extra poverty tattoo increase immense group |  

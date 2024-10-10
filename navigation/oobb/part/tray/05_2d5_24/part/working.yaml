@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shock
   rough
 
   when'
+bip_39_word_no_space_1: shock
+bip_39_word_no_space_10: shockgoatleisuresausageforceblurwashroughwhencurious
+bip_39_word_no_space_11: shockgoatleisuresausageforceblurwashroughwhencuriousoffice
+bip_39_word_no_space_12: shockgoatleisuresausageforceblurwashroughwhencuriousofficeasthma
+bip_39_word_no_space_2: shockgoat
+bip_39_word_no_space_3: shockgoatleisure
+bip_39_word_no_space_4: shockgoatleisuresausage
+bip_39_word_no_space_5: shockgoatleisuresausageforce
+bip_39_word_no_space_6: shockgoatleisuresausageforceblur
+bip_39_word_no_space_7: shockgoatleisuresausageforceblurwash
+bip_39_word_no_space_8: shockgoatleisuresausageforceblurwashrough
+bip_39_word_no_space_9: shockgoatleisuresausageforceblurwashroughwhen
 bip_39_word_space_0:
 - shock
 - goat

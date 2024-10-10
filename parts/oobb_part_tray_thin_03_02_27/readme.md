@@ -122,6 +122,18 @@ benefit
 walk
 lobster
 orchard |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungegastravelnetworkexposebenefitwalklobsterorchardflock |  
+| bip_39_word_no_space_11 | plungegastravelnetworkexposebenefitwalklobsterorchardflockallow |  
+| bip_39_word_no_space_12 | plungegastravelnetworkexposebenefitwalklobsterorchardflockallowalone |  
+| bip_39_word_no_space_2 | plungegas |  
+| bip_39_word_no_space_3 | plungegastravel |  
+| bip_39_word_no_space_4 | plungegastravelnetwork |  
+| bip_39_word_no_space_5 | plungegastravelnetworkexpose |  
+| bip_39_word_no_space_6 | plungegastravelnetworkexposebenefit |  
+| bip_39_word_no_space_7 | plungegastravelnetworkexposebenefitwalk |  
+| bip_39_word_no_space_8 | plungegastravelnetworkexposebenefitwalklobster |  
+| bip_39_word_no_space_9 | plungegastravelnetworkexposebenefitwalklobsterorchard |  
 | bip_39_word_space_0 | ['plunge', 'gas', 'travel', 'network', 'expose', 'benefit', 'walk', 'lobster', 'orchard', 'flock', 'allow', 'alone'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge gas travel network expose benefit walk lobster orchard flock |  

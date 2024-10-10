@@ -122,6 +122,18 @@ correct
 bottom
 mom
 biology |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discoverkitefanovalvibrantcorrectbottommombiologyearn |  
+| bip_39_word_no_space_11 | discoverkitefanovalvibrantcorrectbottommombiologyearnpelican |  
+| bip_39_word_no_space_12 | discoverkitefanovalvibrantcorrectbottommombiologyearnpelicananother |  
+| bip_39_word_no_space_2 | discoverkite |  
+| bip_39_word_no_space_3 | discoverkitefan |  
+| bip_39_word_no_space_4 | discoverkitefanoval |  
+| bip_39_word_no_space_5 | discoverkitefanovalvibrant |  
+| bip_39_word_no_space_6 | discoverkitefanovalvibrantcorrect |  
+| bip_39_word_no_space_7 | discoverkitefanovalvibrantcorrectbottom |  
+| bip_39_word_no_space_8 | discoverkitefanovalvibrantcorrectbottommom |  
+| bip_39_word_no_space_9 | discoverkitefanovalvibrantcorrectbottommombiology |  
 | bip_39_word_space_0 | ['discover', 'kite', 'fan', 'oval', 'vibrant', 'correct', 'bottom', 'mom', 'biology', 'earn', 'pelican', 'another'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover kite fan oval vibrant correct bottom mom biology earn |  

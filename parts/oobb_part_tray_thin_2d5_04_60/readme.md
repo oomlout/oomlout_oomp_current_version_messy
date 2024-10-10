@@ -122,6 +122,18 @@ bunker
 math
 risk
 guard |  
+| bip_39_word_no_space_1 | price |  
+| bip_39_word_no_space_10 | pricedraftthatbrownfringebunkermathriskguardweird |  
+| bip_39_word_no_space_11 | pricedraftthatbrownfringebunkermathriskguardweirdmountain |  
+| bip_39_word_no_space_12 | pricedraftthatbrownfringebunkermathriskguardweirdmountainabsent |  
+| bip_39_word_no_space_2 | pricedraft |  
+| bip_39_word_no_space_3 | pricedraftthat |  
+| bip_39_word_no_space_4 | pricedraftthatbrown |  
+| bip_39_word_no_space_5 | pricedraftthatbrownfringe |  
+| bip_39_word_no_space_6 | pricedraftthatbrownfringebunker |  
+| bip_39_word_no_space_7 | pricedraftthatbrownfringebunkermath |  
+| bip_39_word_no_space_8 | pricedraftthatbrownfringebunkermathrisk |  
+| bip_39_word_no_space_9 | pricedraftthatbrownfringebunkermathriskguard |  
 | bip_39_word_space_0 | ['price', 'draft', 'that', 'brown', 'fringe', 'bunker', 'math', 'risk', 'guard', 'weird', 'mountain', 'absent'] |  
 | bip_39_word_space_1 | price |  
 | bip_39_word_space_10 | price draft that brown fringe bunker math risk guard weird |  

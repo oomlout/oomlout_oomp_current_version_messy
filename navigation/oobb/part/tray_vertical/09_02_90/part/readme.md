@@ -122,6 +122,18 @@ field
 hollow
 purchase
 myth |  
+| bip_39_word_no_space_1 | act |  
+| bip_39_word_no_space_10 | actdignitylavabudgetreformfieldhollowpurchasemythoff |  
+| bip_39_word_no_space_11 | actdignitylavabudgetreformfieldhollowpurchasemythoffstep |  
+| bip_39_word_no_space_12 | actdignitylavabudgetreformfieldhollowpurchasemythoffsteparrange |  
+| bip_39_word_no_space_2 | actdignity |  
+| bip_39_word_no_space_3 | actdignitylava |  
+| bip_39_word_no_space_4 | actdignitylavabudget |  
+| bip_39_word_no_space_5 | actdignitylavabudgetreform |  
+| bip_39_word_no_space_6 | actdignitylavabudgetreformfield |  
+| bip_39_word_no_space_7 | actdignitylavabudgetreformfieldhollow |  
+| bip_39_word_no_space_8 | actdignitylavabudgetreformfieldhollowpurchase |  
+| bip_39_word_no_space_9 | actdignitylavabudgetreformfieldhollowpurchasemyth |  
 | bip_39_word_space_0 | ['act', 'dignity', 'lava', 'budget', 'reform', 'field', 'hollow', 'purchase', 'myth', 'off', 'step', 'arrange'] |  
 | bip_39_word_space_1 | act |  
 | bip_39_word_space_10 | act dignity lava budget reform field hollow purchase myth off |  

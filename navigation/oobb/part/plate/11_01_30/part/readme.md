@@ -122,6 +122,18 @@ hard
 silk
 hurry
 photo |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkoperausedsortvisithardsilkhurryphotofire |  
+| bip_39_word_no_space_11 | chalkoperausedsortvisithardsilkhurryphotofiresure |  
+| bip_39_word_no_space_12 | chalkoperausedsortvisithardsilkhurryphotofiresureanother |  
+| bip_39_word_no_space_2 | chalkopera |  
+| bip_39_word_no_space_3 | chalkoperaused |  
+| bip_39_word_no_space_4 | chalkoperausedsort |  
+| bip_39_word_no_space_5 | chalkoperausedsortvisit |  
+| bip_39_word_no_space_6 | chalkoperausedsortvisithard |  
+| bip_39_word_no_space_7 | chalkoperausedsortvisithardsilk |  
+| bip_39_word_no_space_8 | chalkoperausedsortvisithardsilkhurry |  
+| bip_39_word_no_space_9 | chalkoperausedsortvisithardsilkhurryphoto |  
 | bip_39_word_space_0 | ['chalk', 'opera', 'used', 'sort', 'visit', 'hard', 'silk', 'hurry', 'photo', 'fire', 'sure', 'another'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk opera used sort visit hard silk hurry photo fire |  

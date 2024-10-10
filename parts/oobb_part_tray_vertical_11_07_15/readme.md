@@ -122,6 +122,18 @@ bird
 today
 elite
 mammal |  
+| bip_39_word_no_space_1 | train |  
+| bip_39_word_no_space_10 | trainmixturefilterdecreasewantbirdtodayelitemammaltennis |  
+| bip_39_word_no_space_11 | trainmixturefilterdecreasewantbirdtodayelitemammaltennisclub |  
+| bip_39_word_no_space_12 | trainmixturefilterdecreasewantbirdtodayelitemammaltennisclubabsent |  
+| bip_39_word_no_space_2 | trainmixture |  
+| bip_39_word_no_space_3 | trainmixturefilter |  
+| bip_39_word_no_space_4 | trainmixturefilterdecrease |  
+| bip_39_word_no_space_5 | trainmixturefilterdecreasewant |  
+| bip_39_word_no_space_6 | trainmixturefilterdecreasewantbird |  
+| bip_39_word_no_space_7 | trainmixturefilterdecreasewantbirdtoday |  
+| bip_39_word_no_space_8 | trainmixturefilterdecreasewantbirdtodayelite |  
+| bip_39_word_no_space_9 | trainmixturefilterdecreasewantbirdtodayelitemammal |  
 | bip_39_word_space_0 | ['train', 'mixture', 'filter', 'decrease', 'want', 'bird', 'today', 'elite', 'mammal', 'tennis', 'club', 'absent'] |  
 | bip_39_word_space_1 | train |  
 | bip_39_word_space_10 | train mixture filter decrease want bird today elite mammal tennis |  

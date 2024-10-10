@@ -122,6 +122,18 @@ angle
 race
 funny
 bag |  
+| bip_39_word_no_space_1 | piano |  
+| bip_39_word_no_space_10 | pianohundredbouncehighrunwayangleracefunnybagsolid |  
+| bip_39_word_no_space_11 | pianohundredbouncehighrunwayangleracefunnybagsolidcarbon |  
+| bip_39_word_no_space_12 | pianohundredbouncehighrunwayangleracefunnybagsolidcarbonarctic |  
+| bip_39_word_no_space_2 | pianohundred |  
+| bip_39_word_no_space_3 | pianohundredbounce |  
+| bip_39_word_no_space_4 | pianohundredbouncehigh |  
+| bip_39_word_no_space_5 | pianohundredbouncehighrunway |  
+| bip_39_word_no_space_6 | pianohundredbouncehighrunwayangle |  
+| bip_39_word_no_space_7 | pianohundredbouncehighrunwayanglerace |  
+| bip_39_word_no_space_8 | pianohundredbouncehighrunwayangleracefunny |  
+| bip_39_word_no_space_9 | pianohundredbouncehighrunwayangleracefunnybag |  
 | bip_39_word_space_0 | ['piano', 'hundred', 'bounce', 'high', 'runway', 'angle', 'race', 'funny', 'bag', 'solid', 'carbon', 'arctic'] |  
 | bip_39_word_space_1 | piano |  
 | bip_39_word_space_10 | piano hundred bounce high runway angle race funny bag solid |  

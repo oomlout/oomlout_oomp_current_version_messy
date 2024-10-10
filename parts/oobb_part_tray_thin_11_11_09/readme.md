@@ -122,6 +122,18 @@ quarter
 online
 secret
 resist |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemheavydetecteconomyalphaquarteronlinesecretresistriver |  
+| bip_39_word_no_space_11 | itemheavydetecteconomyalphaquarteronlinesecretresistriverblouse |  
+| bip_39_word_no_space_12 | itemheavydetecteconomyalphaquarteronlinesecretresistriverblouseavocado |  
+| bip_39_word_no_space_2 | itemheavy |  
+| bip_39_word_no_space_3 | itemheavydetect |  
+| bip_39_word_no_space_4 | itemheavydetecteconomy |  
+| bip_39_word_no_space_5 | itemheavydetecteconomyalpha |  
+| bip_39_word_no_space_6 | itemheavydetecteconomyalphaquarter |  
+| bip_39_word_no_space_7 | itemheavydetecteconomyalphaquarteronline |  
+| bip_39_word_no_space_8 | itemheavydetecteconomyalphaquarteronlinesecret |  
+| bip_39_word_no_space_9 | itemheavydetecteconomyalphaquarteronlinesecretresist |  
 | bip_39_word_space_0 | ['item', 'heavy', 'detect', 'economy', 'alpha', 'quarter', 'online', 'secret', 'resist', 'river', 'blouse', 'avocado'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item heavy detect economy alpha quarter online secret resist river |  

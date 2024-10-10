@@ -122,6 +122,18 @@ clay
 car
 submit
 royal |  
+| bip_39_word_no_space_1 | own |  
+| bip_39_word_no_space_10 | ownhumormailtruthtongueclaycarsubmitroyalconcert |  
+| bip_39_word_no_space_11 | ownhumormailtruthtongueclaycarsubmitroyalconcertselect |  
+| bip_39_word_no_space_12 | ownhumormailtruthtongueclaycarsubmitroyalconcertselectarch |  
+| bip_39_word_no_space_2 | ownhumor |  
+| bip_39_word_no_space_3 | ownhumormail |  
+| bip_39_word_no_space_4 | ownhumormailtruth |  
+| bip_39_word_no_space_5 | ownhumormailtruthtongue |  
+| bip_39_word_no_space_6 | ownhumormailtruthtongueclay |  
+| bip_39_word_no_space_7 | ownhumormailtruthtongueclaycar |  
+| bip_39_word_no_space_8 | ownhumormailtruthtongueclaycarsubmit |  
+| bip_39_word_no_space_9 | ownhumormailtruthtongueclaycarsubmitroyal |  
 | bip_39_word_space_0 | ['own', 'humor', 'mail', 'truth', 'tongue', 'clay', 'car', 'submit', 'royal', 'concert', 'select', 'arch'] |  
 | bip_39_word_space_1 | own |  
 | bip_39_word_space_10 | own humor mail truth tongue clay car submit royal concert |  

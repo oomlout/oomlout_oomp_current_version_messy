@@ -122,6 +122,18 @@ chimney
 board
 cross
 little |  
+| bip_39_word_no_space_1 | abandon |  
+| bip_39_word_no_space_10 | abandontripcautionskillfiberchimneyboardcrosslittleoyster |  
+| bip_39_word_no_space_11 | abandontripcautionskillfiberchimneyboardcrosslittleoysterlounge |  
+| bip_39_word_no_space_12 | abandontripcautionskillfiberchimneyboardcrosslittleoysterloungeaim |  
+| bip_39_word_no_space_2 | abandontrip |  
+| bip_39_word_no_space_3 | abandontripcaution |  
+| bip_39_word_no_space_4 | abandontripcautionskill |  
+| bip_39_word_no_space_5 | abandontripcautionskillfiber |  
+| bip_39_word_no_space_6 | abandontripcautionskillfiberchimney |  
+| bip_39_word_no_space_7 | abandontripcautionskillfiberchimneyboard |  
+| bip_39_word_no_space_8 | abandontripcautionskillfiberchimneyboardcross |  
+| bip_39_word_no_space_9 | abandontripcautionskillfiberchimneyboardcrosslittle |  
 | bip_39_word_space_0 | ['abandon', 'trip', 'caution', 'skill', 'fiber', 'chimney', 'board', 'cross', 'little', 'oyster', 'lounge', 'aim'] |  
 | bip_39_word_space_1 | abandon |  
 | bip_39_word_space_10 | abandon trip caution skill fiber chimney board cross little oyster |  

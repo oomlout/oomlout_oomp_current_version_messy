@@ -122,6 +122,18 @@ absurd
 couch
 age
 proof |  
+| bip_39_word_no_space_1 | melody |  
+| bip_39_word_no_space_10 | melodymomentghostaskriceabsurdcouchageproofhybrid |  
+| bip_39_word_no_space_11 | melodymomentghostaskriceabsurdcouchageproofhybridbecome |  
+| bip_39_word_no_space_12 | melodymomentghostaskriceabsurdcouchageproofhybridbecomeactress |  
+| bip_39_word_no_space_2 | melodymoment |  
+| bip_39_word_no_space_3 | melodymomentghost |  
+| bip_39_word_no_space_4 | melodymomentghostask |  
+| bip_39_word_no_space_5 | melodymomentghostaskrice |  
+| bip_39_word_no_space_6 | melodymomentghostaskriceabsurd |  
+| bip_39_word_no_space_7 | melodymomentghostaskriceabsurdcouch |  
+| bip_39_word_no_space_8 | melodymomentghostaskriceabsurdcouchage |  
+| bip_39_word_no_space_9 | melodymomentghostaskriceabsurdcouchageproof |  
 | bip_39_word_space_0 | ['melody', 'moment', 'ghost', 'ask', 'rice', 'absurd', 'couch', 'age', 'proof', 'hybrid', 'become', 'actress'] |  
 | bip_39_word_space_1 | melody |  
 | bip_39_word_space_10 | melody moment ghost ask rice absurd couch age proof hybrid |  

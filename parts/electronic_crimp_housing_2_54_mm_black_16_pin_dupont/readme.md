@@ -122,6 +122,18 @@ nothing
 debate
 adjust
 hello |  
+| bip_39_word_no_space_1 | corn |  
+| bip_39_word_no_space_10 | corntrackfewhalfaerobicnothingdebateadjusthellomember |  
+| bip_39_word_no_space_11 | corntrackfewhalfaerobicnothingdebateadjusthellomemberknife |  
+| bip_39_word_no_space_12 | corntrackfewhalfaerobicnothingdebateadjusthellomemberknifeable |  
+| bip_39_word_no_space_2 | corntrack |  
+| bip_39_word_no_space_3 | corntrackfew |  
+| bip_39_word_no_space_4 | corntrackfewhalf |  
+| bip_39_word_no_space_5 | corntrackfewhalfaerobic |  
+| bip_39_word_no_space_6 | corntrackfewhalfaerobicnothing |  
+| bip_39_word_no_space_7 | corntrackfewhalfaerobicnothingdebate |  
+| bip_39_word_no_space_8 | corntrackfewhalfaerobicnothingdebateadjust |  
+| bip_39_word_no_space_9 | corntrackfewhalfaerobicnothingdebateadjusthello |  
 | bip_39_word_space_0 | ['corn', 'track', 'few', 'half', 'aerobic', 'nothing', 'debate', 'adjust', 'hello', 'member', 'knife', 'able'] |  
 | bip_39_word_space_1 | corn |  
 | bip_39_word_space_10 | corn track few half aerobic nothing debate adjust hello member |  

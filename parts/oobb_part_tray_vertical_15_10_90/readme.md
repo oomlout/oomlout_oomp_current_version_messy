@@ -122,6 +122,18 @@ pen
 twice
 cliff
 marble |  
+| bip_39_word_no_space_1 | wheel |  
+| bip_39_word_no_space_10 | wheelnumbermeadowonionchasepentwicecliffmarbleman |  
+| bip_39_word_no_space_11 | wheelnumbermeadowonionchasepentwicecliffmarblemanretire |  
+| bip_39_word_no_space_12 | wheelnumbermeadowonionchasepentwicecliffmarblemanretireagent |  
+| bip_39_word_no_space_2 | wheelnumber |  
+| bip_39_word_no_space_3 | wheelnumbermeadow |  
+| bip_39_word_no_space_4 | wheelnumbermeadowonion |  
+| bip_39_word_no_space_5 | wheelnumbermeadowonionchase |  
+| bip_39_word_no_space_6 | wheelnumbermeadowonionchasepen |  
+| bip_39_word_no_space_7 | wheelnumbermeadowonionchasepentwice |  
+| bip_39_word_no_space_8 | wheelnumbermeadowonionchasepentwicecliff |  
+| bip_39_word_no_space_9 | wheelnumbermeadowonionchasepentwicecliffmarble |  
 | bip_39_word_space_0 | ['wheel', 'number', 'meadow', 'onion', 'chase', 'pen', 'twice', 'cliff', 'marble', 'man', 'retire', 'agent'] |  
 | bip_39_word_space_1 | wheel |  
 | bip_39_word_space_10 | wheel number meadow onion chase pen twice cliff marble man |  

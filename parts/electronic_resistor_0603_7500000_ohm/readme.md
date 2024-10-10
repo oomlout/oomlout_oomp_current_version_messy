@@ -122,6 +122,18 @@ swap
 live
 vapor
 crop |  
+| bip_39_word_no_space_1 | poverty |  
+| bip_39_word_no_space_10 | povertyangryuponopenlaterswaplivevaporcroppulse |  
+| bip_39_word_no_space_11 | povertyangryuponopenlaterswaplivevaporcroppulsehybrid |  
+| bip_39_word_no_space_12 | povertyangryuponopenlaterswaplivevaporcroppulsehybridaccount |  
+| bip_39_word_no_space_2 | povertyangry |  
+| bip_39_word_no_space_3 | povertyangryupon |  
+| bip_39_word_no_space_4 | povertyangryuponopen |  
+| bip_39_word_no_space_5 | povertyangryuponopenlater |  
+| bip_39_word_no_space_6 | povertyangryuponopenlaterswap |  
+| bip_39_word_no_space_7 | povertyangryuponopenlaterswaplive |  
+| bip_39_word_no_space_8 | povertyangryuponopenlaterswaplivevapor |  
+| bip_39_word_no_space_9 | povertyangryuponopenlaterswaplivevaporcrop |  
 | bip_39_word_space_0 | ['poverty', 'angry', 'upon', 'open', 'later', 'swap', 'live', 'vapor', 'crop', 'pulse', 'hybrid', 'account'] |  
 | bip_39_word_space_1 | poverty |  
 | bip_39_word_space_10 | poverty angry upon open later swap live vapor crop pulse |  

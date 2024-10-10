@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gather
   interest
 
   process'
+bip_39_word_no_space_1: gather
+bip_39_word_no_space_10: gatherentryhillstampwhenfeverlaughinterestprocessexpress
+bip_39_word_no_space_11: gatherentryhillstampwhenfeverlaughinterestprocessexpressmonkey
+bip_39_word_no_space_12: gatherentryhillstampwhenfeverlaughinterestprocessexpressmonkeyabove
+bip_39_word_no_space_2: gatherentry
+bip_39_word_no_space_3: gatherentryhill
+bip_39_word_no_space_4: gatherentryhillstamp
+bip_39_word_no_space_5: gatherentryhillstampwhen
+bip_39_word_no_space_6: gatherentryhillstampwhenfever
+bip_39_word_no_space_7: gatherentryhillstampwhenfeverlaugh
+bip_39_word_no_space_8: gatherentryhillstampwhenfeverlaughinterest
+bip_39_word_no_space_9: gatherentryhillstampwhenfeverlaughinterestprocess
 bip_39_word_space_0:
 - gather
 - entry

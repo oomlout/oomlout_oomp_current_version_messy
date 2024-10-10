@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'utility
   laptop
 
   short'
+bip_39_word_no_space_1: utility
+bip_39_word_no_space_10: utilitynormaldayshadowpointballpactlaptopshortbottom
+bip_39_word_no_space_11: utilitynormaldayshadowpointballpactlaptopshortbottomspatial
+bip_39_word_no_space_12: utilitynormaldayshadowpointballpactlaptopshortbottomspatialalarm
+bip_39_word_no_space_2: utilitynormal
+bip_39_word_no_space_3: utilitynormalday
+bip_39_word_no_space_4: utilitynormaldayshadow
+bip_39_word_no_space_5: utilitynormaldayshadowpoint
+bip_39_word_no_space_6: utilitynormaldayshadowpointball
+bip_39_word_no_space_7: utilitynormaldayshadowpointballpact
+bip_39_word_no_space_8: utilitynormaldayshadowpointballpactlaptop
+bip_39_word_no_space_9: utilitynormaldayshadowpointballpactlaptopshort
 bip_39_word_space_0:
 - utility
 - normal

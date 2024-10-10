@@ -122,6 +122,18 @@ nurse
 equal
 limb
 hill |  
+| bip_39_word_no_space_1 | bonus |  
+| bip_39_word_no_space_10 | bonuswarfareerosionchargeblushnurseequallimbhillprotect |  
+| bip_39_word_no_space_11 | bonuswarfareerosionchargeblushnurseequallimbhillprotectodor |  
+| bip_39_word_no_space_12 | bonuswarfareerosionchargeblushnurseequallimbhillprotectodorarctic |  
+| bip_39_word_no_space_2 | bonuswarfare |  
+| bip_39_word_no_space_3 | bonuswarfareerosion |  
+| bip_39_word_no_space_4 | bonuswarfareerosioncharge |  
+| bip_39_word_no_space_5 | bonuswarfareerosionchargeblush |  
+| bip_39_word_no_space_6 | bonuswarfareerosionchargeblushnurse |  
+| bip_39_word_no_space_7 | bonuswarfareerosionchargeblushnurseequal |  
+| bip_39_word_no_space_8 | bonuswarfareerosionchargeblushnurseequallimb |  
+| bip_39_word_no_space_9 | bonuswarfareerosionchargeblushnurseequallimbhill |  
 | bip_39_word_space_0 | ['bonus', 'warfare', 'erosion', 'charge', 'blush', 'nurse', 'equal', 'limb', 'hill', 'protect', 'odor', 'arctic'] |  
 | bip_39_word_space_1 | bonus |  
 | bip_39_word_space_10 | bonus warfare erosion charge blush nurse equal limb hill protect |  

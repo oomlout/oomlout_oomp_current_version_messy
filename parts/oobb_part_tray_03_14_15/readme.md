@@ -122,6 +122,18 @@ genuine
 analyst
 already
 common |  
+| bip_39_word_no_space_1 | ladder |  
+| bip_39_word_no_space_10 | ladderpactfruitbrotherstablegenuineanalystalreadycommonwool |  
+| bip_39_word_no_space_11 | ladderpactfruitbrotherstablegenuineanalystalreadycommonwoolstrategy |  
+| bip_39_word_no_space_12 | ladderpactfruitbrotherstablegenuineanalystalreadycommonwoolstrategyapple |  
+| bip_39_word_no_space_2 | ladderpact |  
+| bip_39_word_no_space_3 | ladderpactfruit |  
+| bip_39_word_no_space_4 | ladderpactfruitbrother |  
+| bip_39_word_no_space_5 | ladderpactfruitbrotherstable |  
+| bip_39_word_no_space_6 | ladderpactfruitbrotherstablegenuine |  
+| bip_39_word_no_space_7 | ladderpactfruitbrotherstablegenuineanalyst |  
+| bip_39_word_no_space_8 | ladderpactfruitbrotherstablegenuineanalystalready |  
+| bip_39_word_no_space_9 | ladderpactfruitbrotherstablegenuineanalystalreadycommon |  
 | bip_39_word_space_0 | ['ladder', 'pact', 'fruit', 'brother', 'stable', 'genuine', 'analyst', 'already', 'common', 'wool', 'strategy', 'apple'] |  
 | bip_39_word_space_1 | ladder |  
 | bip_39_word_space_10 | ladder pact fruit brother stable genuine analyst already common wool |  

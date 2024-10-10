@@ -122,6 +122,18 @@ eye
 stove
 approve
 fuel |  
+| bip_39_word_no_space_1 | click |  
+| bip_39_word_no_space_10 | clickluxurythriverivalzooeyestoveapprovefuelwasp |  
+| bip_39_word_no_space_11 | clickluxurythriverivalzooeyestoveapprovefuelwasphead |  
+| bip_39_word_no_space_12 | clickluxurythriverivalzooeyestoveapprovefuelwaspheadahead |  
+| bip_39_word_no_space_2 | clickluxury |  
+| bip_39_word_no_space_3 | clickluxurythrive |  
+| bip_39_word_no_space_4 | clickluxurythriverival |  
+| bip_39_word_no_space_5 | clickluxurythriverivalzoo |  
+| bip_39_word_no_space_6 | clickluxurythriverivalzooeye |  
+| bip_39_word_no_space_7 | clickluxurythriverivalzooeyestove |  
+| bip_39_word_no_space_8 | clickluxurythriverivalzooeyestoveapprove |  
+| bip_39_word_no_space_9 | clickluxurythriverivalzooeyestoveapprovefuel |  
 | bip_39_word_space_0 | ['click', 'luxury', 'thrive', 'rival', 'zoo', 'eye', 'stove', 'approve', 'fuel', 'wasp', 'head', 'ahead'] |  
 | bip_39_word_space_1 | click |  
 | bip_39_word_space_10 | click luxury thrive rival zoo eye stove approve fuel wasp |  

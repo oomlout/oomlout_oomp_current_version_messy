@@ -122,6 +122,18 @@ depart
 hill
 soul
 slush |  
+| bip_39_word_no_space_1 | youth |  
+| bip_39_word_no_space_10 | youthcropyouthomitquotedeparthillsoulslushbulk |  
+| bip_39_word_no_space_11 | youthcropyouthomitquotedeparthillsoulslushbulkseminar |  
+| bip_39_word_no_space_12 | youthcropyouthomitquotedeparthillsoulslushbulkseminaraccuse |  
+| bip_39_word_no_space_2 | youthcrop |  
+| bip_39_word_no_space_3 | youthcropyouth |  
+| bip_39_word_no_space_4 | youthcropyouthomit |  
+| bip_39_word_no_space_5 | youthcropyouthomitquote |  
+| bip_39_word_no_space_6 | youthcropyouthomitquotedepart |  
+| bip_39_word_no_space_7 | youthcropyouthomitquotedeparthill |  
+| bip_39_word_no_space_8 | youthcropyouthomitquotedeparthillsoul |  
+| bip_39_word_no_space_9 | youthcropyouthomitquotedeparthillsoulslush |  
 | bip_39_word_space_0 | ['youth', 'crop', 'youth', 'omit', 'quote', 'depart', 'hill', 'soul', 'slush', 'bulk', 'seminar', 'accuse'] |  
 | bip_39_word_space_1 | youth |  
 | bip_39_word_space_10 | youth crop youth omit quote depart hill soul slush bulk |  

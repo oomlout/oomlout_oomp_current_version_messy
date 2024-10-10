@@ -122,6 +122,18 @@ expire
 hunt
 despair
 reward |  
+| bip_39_word_no_space_1 | curtain |  
+| bip_39_word_no_space_10 | curtainroyalmovesoonjarexpirehuntdespairrewardsecret |  
+| bip_39_word_no_space_11 | curtainroyalmovesoonjarexpirehuntdespairrewardsecretobscure |  
+| bip_39_word_no_space_12 | curtainroyalmovesoonjarexpirehuntdespairrewardsecretobscurearrow |  
+| bip_39_word_no_space_2 | curtainroyal |  
+| bip_39_word_no_space_3 | curtainroyalmove |  
+| bip_39_word_no_space_4 | curtainroyalmovesoon |  
+| bip_39_word_no_space_5 | curtainroyalmovesoonjar |  
+| bip_39_word_no_space_6 | curtainroyalmovesoonjarexpire |  
+| bip_39_word_no_space_7 | curtainroyalmovesoonjarexpirehunt |  
+| bip_39_word_no_space_8 | curtainroyalmovesoonjarexpirehuntdespair |  
+| bip_39_word_no_space_9 | curtainroyalmovesoonjarexpirehuntdespairreward |  
 | bip_39_word_space_0 | ['curtain', 'royal', 'move', 'soon', 'jar', 'expire', 'hunt', 'despair', 'reward', 'secret', 'obscure', 'arrow'] |  
 | bip_39_word_space_1 | curtain |  
 | bip_39_word_space_10 | curtain royal move soon jar expire hunt despair reward secret |  

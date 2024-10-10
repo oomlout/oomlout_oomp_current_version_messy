@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cook
   oven
 
   symptom'
+bip_39_word_no_space_1: cook
+bip_39_word_no_space_10: cooksearchicewisekingdomturkeywheelovensymptommilk
+bip_39_word_no_space_11: cooksearchicewisekingdomturkeywheelovensymptommilkathlete
+bip_39_word_no_space_12: cooksearchicewisekingdomturkeywheelovensymptommilkathleteafraid
+bip_39_word_no_space_2: cooksearch
+bip_39_word_no_space_3: cooksearchice
+bip_39_word_no_space_4: cooksearchicewise
+bip_39_word_no_space_5: cooksearchicewisekingdom
+bip_39_word_no_space_6: cooksearchicewisekingdomturkey
+bip_39_word_no_space_7: cooksearchicewisekingdomturkeywheel
+bip_39_word_no_space_8: cooksearchicewisekingdomturkeywheeloven
+bip_39_word_no_space_9: cooksearchicewisekingdomturkeywheelovensymptom
 bip_39_word_space_0:
 - cook
 - search

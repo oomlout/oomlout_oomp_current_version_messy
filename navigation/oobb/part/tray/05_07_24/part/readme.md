@@ -122,6 +122,18 @@ spice
 evidence
 vague
 disease |  
+| bip_39_word_no_space_1 | atom |  
+| bip_39_word_no_space_10 | atombehindbrickstufflemonspiceevidencevaguediseasemixture |  
+| bip_39_word_no_space_11 | atombehindbrickstufflemonspiceevidencevaguediseasemixturescare |  
+| bip_39_word_no_space_12 | atombehindbrickstufflemonspiceevidencevaguediseasemixturescareagree |  
+| bip_39_word_no_space_2 | atombehind |  
+| bip_39_word_no_space_3 | atombehindbrick |  
+| bip_39_word_no_space_4 | atombehindbrickstuff |  
+| bip_39_word_no_space_5 | atombehindbrickstufflemon |  
+| bip_39_word_no_space_6 | atombehindbrickstufflemonspice |  
+| bip_39_word_no_space_7 | atombehindbrickstufflemonspiceevidence |  
+| bip_39_word_no_space_8 | atombehindbrickstufflemonspiceevidencevague |  
+| bip_39_word_no_space_9 | atombehindbrickstufflemonspiceevidencevaguedisease |  
 | bip_39_word_space_0 | ['atom', 'behind', 'brick', 'stuff', 'lemon', 'spice', 'evidence', 'vague', 'disease', 'mixture', 'scare', 'agree'] |  
 | bip_39_word_space_1 | atom |  
 | bip_39_word_space_10 | atom behind brick stuff lemon spice evidence vague disease mixture |  

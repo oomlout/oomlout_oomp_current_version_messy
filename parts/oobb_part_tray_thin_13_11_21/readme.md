@@ -122,6 +122,18 @@ sauce
 alter
 battle
 intact |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelsiblingtraintiredodorsaucealterbattleintactmatch |  
+| bip_39_word_no_space_11 | modelsiblingtraintiredodorsaucealterbattleintactmatchactual |  
+| bip_39_word_no_space_12 | modelsiblingtraintiredodorsaucealterbattleintactmatchactualarmor |  
+| bip_39_word_no_space_2 | modelsibling |  
+| bip_39_word_no_space_3 | modelsiblingtrain |  
+| bip_39_word_no_space_4 | modelsiblingtraintired |  
+| bip_39_word_no_space_5 | modelsiblingtraintiredodor |  
+| bip_39_word_no_space_6 | modelsiblingtraintiredodorsauce |  
+| bip_39_word_no_space_7 | modelsiblingtraintiredodorsaucealter |  
+| bip_39_word_no_space_8 | modelsiblingtraintiredodorsaucealterbattle |  
+| bip_39_word_no_space_9 | modelsiblingtraintiredodorsaucealterbattleintact |  
 | bip_39_word_space_0 | ['model', 'sibling', 'train', 'tired', 'odor', 'sauce', 'alter', 'battle', 'intact', 'match', 'actual', 'armor'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model sibling train tired odor sauce alter battle intact match |  

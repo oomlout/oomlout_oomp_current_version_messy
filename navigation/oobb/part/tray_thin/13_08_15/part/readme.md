@@ -122,6 +122,18 @@ dragon
 lounge
 chalk
 novel |  
+| bip_39_word_no_space_1 | inch |  
+| bip_39_word_no_space_10 | inchtogetherdinosaurfestivalreturndragonloungechalknovelsoup |  
+| bip_39_word_no_space_11 | inchtogetherdinosaurfestivalreturndragonloungechalknovelsoupclient |  
+| bip_39_word_no_space_12 | inchtogetherdinosaurfestivalreturndragonloungechalknovelsoupclientauthor |  
+| bip_39_word_no_space_2 | inchtogether |  
+| bip_39_word_no_space_3 | inchtogetherdinosaur |  
+| bip_39_word_no_space_4 | inchtogetherdinosaurfestival |  
+| bip_39_word_no_space_5 | inchtogetherdinosaurfestivalreturn |  
+| bip_39_word_no_space_6 | inchtogetherdinosaurfestivalreturndragon |  
+| bip_39_word_no_space_7 | inchtogetherdinosaurfestivalreturndragonlounge |  
+| bip_39_word_no_space_8 | inchtogetherdinosaurfestivalreturndragonloungechalk |  
+| bip_39_word_no_space_9 | inchtogetherdinosaurfestivalreturndragonloungechalknovel |  
 | bip_39_word_space_0 | ['inch', 'together', 'dinosaur', 'festival', 'return', 'dragon', 'lounge', 'chalk', 'novel', 'soup', 'client', 'author'] |  
 | bip_39_word_space_1 | inch |  
 | bip_39_word_space_10 | inch together dinosaur festival return dragon lounge chalk novel soup |  

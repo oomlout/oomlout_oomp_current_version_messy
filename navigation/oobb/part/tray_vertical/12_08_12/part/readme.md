@@ -122,6 +122,18 @@ cannon
 lottery
 plate
 blush |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | gooddoublegracestadiumdizzycannonlotteryplateblushsleep |  
+| bip_39_word_no_space_11 | gooddoublegracestadiumdizzycannonlotteryplateblushsleepspray |  
+| bip_39_word_no_space_12 | gooddoublegracestadiumdizzycannonlotteryplateblushsleepsprayalso |  
+| bip_39_word_no_space_2 | gooddouble |  
+| bip_39_word_no_space_3 | gooddoublegrace |  
+| bip_39_word_no_space_4 | gooddoublegracestadium |  
+| bip_39_word_no_space_5 | gooddoublegracestadiumdizzy |  
+| bip_39_word_no_space_6 | gooddoublegracestadiumdizzycannon |  
+| bip_39_word_no_space_7 | gooddoublegracestadiumdizzycannonlottery |  
+| bip_39_word_no_space_8 | gooddoublegracestadiumdizzycannonlotteryplate |  
+| bip_39_word_no_space_9 | gooddoublegracestadiumdizzycannonlotteryplateblush |  
 | bip_39_word_space_0 | ['good', 'double', 'grace', 'stadium', 'dizzy', 'cannon', 'lottery', 'plate', 'blush', 'sleep', 'spray', 'also'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good double grace stadium dizzy cannon lottery plate blush sleep |  

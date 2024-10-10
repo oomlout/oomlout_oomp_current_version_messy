@@ -122,6 +122,18 @@ abandon
 riot
 remind
 mobile |  
+| bip_39_word_no_space_1 | gaze |  
+| bip_39_word_no_space_10 | gazerewardmustmediaputabandonriotremindmobilespatial |  
+| bip_39_word_no_space_11 | gazerewardmustmediaputabandonriotremindmobilespatialflock |  
+| bip_39_word_no_space_12 | gazerewardmustmediaputabandonriotremindmobilespatialflockarena |  
+| bip_39_word_no_space_2 | gazereward |  
+| bip_39_word_no_space_3 | gazerewardmust |  
+| bip_39_word_no_space_4 | gazerewardmustmedia |  
+| bip_39_word_no_space_5 | gazerewardmustmediaput |  
+| bip_39_word_no_space_6 | gazerewardmustmediaputabandon |  
+| bip_39_word_no_space_7 | gazerewardmustmediaputabandonriot |  
+| bip_39_word_no_space_8 | gazerewardmustmediaputabandonriotremind |  
+| bip_39_word_no_space_9 | gazerewardmustmediaputabandonriotremindmobile |  
 | bip_39_word_space_0 | ['gaze', 'reward', 'must', 'media', 'put', 'abandon', 'riot', 'remind', 'mobile', 'spatial', 'flock', 'arena'] |  
 | bip_39_word_space_1 | gaze |  
 | bip_39_word_space_10 | gaze reward must media put abandon riot remind mobile spatial |  

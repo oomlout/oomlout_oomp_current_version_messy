@@ -122,6 +122,18 @@ wasp
 fiscal
 people
 deal |  
+| bip_39_word_no_space_1 | argue |  
+| bip_39_word_no_space_10 | argueelementfoamheightkeywaspfiscalpeopledealexit |  
+| bip_39_word_no_space_11 | argueelementfoamheightkeywaspfiscalpeopledealexitpig |  
+| bip_39_word_no_space_12 | argueelementfoamheightkeywaspfiscalpeopledealexitpigaverage |  
+| bip_39_word_no_space_2 | argueelement |  
+| bip_39_word_no_space_3 | argueelementfoam |  
+| bip_39_word_no_space_4 | argueelementfoamheight |  
+| bip_39_word_no_space_5 | argueelementfoamheightkey |  
+| bip_39_word_no_space_6 | argueelementfoamheightkeywasp |  
+| bip_39_word_no_space_7 | argueelementfoamheightkeywaspfiscal |  
+| bip_39_word_no_space_8 | argueelementfoamheightkeywaspfiscalpeople |  
+| bip_39_word_no_space_9 | argueelementfoamheightkeywaspfiscalpeopledeal |  
 | bip_39_word_space_0 | ['argue', 'element', 'foam', 'height', 'key', 'wasp', 'fiscal', 'people', 'deal', 'exit', 'pig', 'average'] |  
 | bip_39_word_space_1 | argue |  
 | bip_39_word_space_10 | argue element foam height key wasp fiscal people deal exit |  

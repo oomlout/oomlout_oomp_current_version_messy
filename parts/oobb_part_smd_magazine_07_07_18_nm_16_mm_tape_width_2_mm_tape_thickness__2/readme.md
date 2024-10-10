@@ -122,6 +122,18 @@ bike
 frost
 business
 wear |  
+| bip_39_word_no_space_1 | mammal |  
+| bip_39_word_no_space_10 | mammalstruggledonkeyturnrawbikefrostbusinesswearconsider |  
+| bip_39_word_no_space_11 | mammalstruggledonkeyturnrawbikefrostbusinesswearconsiderbehind |  
+| bip_39_word_no_space_12 | mammalstruggledonkeyturnrawbikefrostbusinesswearconsiderbehindapril |  
+| bip_39_word_no_space_2 | mammalstruggle |  
+| bip_39_word_no_space_3 | mammalstruggledonkey |  
+| bip_39_word_no_space_4 | mammalstruggledonkeyturn |  
+| bip_39_word_no_space_5 | mammalstruggledonkeyturnraw |  
+| bip_39_word_no_space_6 | mammalstruggledonkeyturnrawbike |  
+| bip_39_word_no_space_7 | mammalstruggledonkeyturnrawbikefrost |  
+| bip_39_word_no_space_8 | mammalstruggledonkeyturnrawbikefrostbusiness |  
+| bip_39_word_no_space_9 | mammalstruggledonkeyturnrawbikefrostbusinesswear |  
 | bip_39_word_space_0 | ['mammal', 'struggle', 'donkey', 'turn', 'raw', 'bike', 'frost', 'business', 'wear', 'consider', 'behind', 'april'] |  
 | bip_39_word_space_1 | mammal |  
 | bip_39_word_space_10 | mammal struggle donkey turn raw bike frost business wear consider |  

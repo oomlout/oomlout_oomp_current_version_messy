@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'six
   pretty
 
   limit'
+bip_39_word_no_space_1: six
+bip_39_word_no_space_10: sixeyebrowprovidepupilboostforestbadgeprettylimituseless
+bip_39_word_no_space_11: sixeyebrowprovidepupilboostforestbadgeprettylimituselessmethod
+bip_39_word_no_space_12: sixeyebrowprovidepupilboostforestbadgeprettylimituselessmethodaerobic
+bip_39_word_no_space_2: sixeyebrow
+bip_39_word_no_space_3: sixeyebrowprovide
+bip_39_word_no_space_4: sixeyebrowprovidepupil
+bip_39_word_no_space_5: sixeyebrowprovidepupilboost
+bip_39_word_no_space_6: sixeyebrowprovidepupilboostforest
+bip_39_word_no_space_7: sixeyebrowprovidepupilboostforestbadge
+bip_39_word_no_space_8: sixeyebrowprovidepupilboostforestbadgepretty
+bip_39_word_no_space_9: sixeyebrowprovidepupilboostforestbadgeprettylimit
 bip_39_word_space_0:
 - six
 - eyebrow

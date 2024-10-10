@@ -122,6 +122,18 @@ problem
 boost
 plate
 neutral |  
+| bip_39_word_no_space_1 | bubble |  
+| bip_39_word_no_space_10 | bubblequarterreformsunnyfatigueproblemboostplateneutralvan |  
+| bip_39_word_no_space_11 | bubblequarterreformsunnyfatigueproblemboostplateneutralvanmore |  
+| bip_39_word_no_space_12 | bubblequarterreformsunnyfatigueproblemboostplateneutralvanmorealone |  
+| bip_39_word_no_space_2 | bubblequarter |  
+| bip_39_word_no_space_3 | bubblequarterreform |  
+| bip_39_word_no_space_4 | bubblequarterreformsunny |  
+| bip_39_word_no_space_5 | bubblequarterreformsunnyfatigue |  
+| bip_39_word_no_space_6 | bubblequarterreformsunnyfatigueproblem |  
+| bip_39_word_no_space_7 | bubblequarterreformsunnyfatigueproblemboost |  
+| bip_39_word_no_space_8 | bubblequarterreformsunnyfatigueproblemboostplate |  
+| bip_39_word_no_space_9 | bubblequarterreformsunnyfatigueproblemboostplateneutral |  
 | bip_39_word_space_0 | ['bubble', 'quarter', 'reform', 'sunny', 'fatigue', 'problem', 'boost', 'plate', 'neutral', 'van', 'more', 'alone'] |  
 | bip_39_word_space_1 | bubble |  
 | bip_39_word_space_10 | bubble quarter reform sunny fatigue problem boost plate neutral van |  

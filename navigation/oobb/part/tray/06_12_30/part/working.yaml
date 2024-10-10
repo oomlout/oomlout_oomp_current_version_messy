@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'ahead
   bamboo
 
   trust'
+bip_39_word_no_space_1: ahead
+bip_39_word_no_space_10: aheadrugmediasilverhockeycrashacquirebambootrusttry
+bip_39_word_no_space_11: aheadrugmediasilverhockeycrashacquirebambootrusttrybroccoli
+bip_39_word_no_space_2: aheadrug
+bip_39_word_no_space_3: aheadrugmedia
+bip_39_word_no_space_4: aheadrugmediasilver
+bip_39_word_no_space_5: aheadrugmediasilverhockey
+bip_39_word_no_space_6: aheadrugmediasilverhockeycrash
+bip_39_word_no_space_7: aheadrugmediasilverhockeycrashacquire
+bip_39_word_no_space_8: aheadrugmediasilverhockeycrashacquirebamboo
+bip_39_word_no_space_9: aheadrugmediasilverhockeycrashacquirebambootrust
 bip_39_word_space_0:
 - ahead
 - rug

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'piece
   tongue
 
   wife'
+bip_39_word_no_space_1: piece
+bip_39_word_no_space_10: piecenovelloyalivoryimmensebrainrefusetonguewifeneed
+bip_39_word_no_space_11: piecenovelloyalivoryimmensebrainrefusetonguewifeneedalone
+bip_39_word_no_space_12: piecenovelloyalivoryimmensebrainrefusetonguewifeneedaloneartwork
+bip_39_word_no_space_2: piecenovel
+bip_39_word_no_space_3: piecenovelloyal
+bip_39_word_no_space_4: piecenovelloyalivory
+bip_39_word_no_space_5: piecenovelloyalivoryimmense
+bip_39_word_no_space_6: piecenovelloyalivoryimmensebrain
+bip_39_word_no_space_7: piecenovelloyalivoryimmensebrainrefuse
+bip_39_word_no_space_8: piecenovelloyalivoryimmensebrainrefusetongue
+bip_39_word_no_space_9: piecenovelloyalivoryimmensebrainrefusetonguewife
 bip_39_word_space_0:
 - piece
 - novel

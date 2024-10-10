@@ -122,6 +122,18 @@ media
 multiply
 police
 endless |  
+| bip_39_word_no_space_1 | suffer |  
+| bip_39_word_no_space_10 | sufferdancedefyworthdefymediamultiplypoliceendlessurge |  
+| bip_39_word_no_space_11 | sufferdancedefyworthdefymediamultiplypoliceendlessurgeaspect |  
+| bip_39_word_no_space_12 | sufferdancedefyworthdefymediamultiplypoliceendlessurgeaspectannual |  
+| bip_39_word_no_space_2 | sufferdance |  
+| bip_39_word_no_space_3 | sufferdancedefy |  
+| bip_39_word_no_space_4 | sufferdancedefyworth |  
+| bip_39_word_no_space_5 | sufferdancedefyworthdefy |  
+| bip_39_word_no_space_6 | sufferdancedefyworthdefymedia |  
+| bip_39_word_no_space_7 | sufferdancedefyworthdefymediamultiply |  
+| bip_39_word_no_space_8 | sufferdancedefyworthdefymediamultiplypolice |  
+| bip_39_word_no_space_9 | sufferdancedefyworthdefymediamultiplypoliceendless |  
 | bip_39_word_space_0 | ['suffer', 'dance', 'defy', 'worth', 'defy', 'media', 'multiply', 'police', 'endless', 'urge', 'aspect', 'annual'] |  
 | bip_39_word_space_1 | suffer |  
 | bip_39_word_space_10 | suffer dance defy worth defy media multiply police endless urge |  

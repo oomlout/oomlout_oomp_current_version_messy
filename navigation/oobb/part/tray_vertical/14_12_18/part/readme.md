@@ -122,6 +122,18 @@ myth
 require
 beyond
 cabin |  
+| bip_39_word_no_space_1 | hammer |  
+| bip_39_word_no_space_10 | hammerkissacidcrushshinemythrequirebeyondcabinoutdoor |  
+| bip_39_word_no_space_11 | hammerkissacidcrushshinemythrequirebeyondcabinoutdoorstable |  
+| bip_39_word_no_space_12 | hammerkissacidcrushshinemythrequirebeyondcabinoutdoorstableanchor |  
+| bip_39_word_no_space_2 | hammerkiss |  
+| bip_39_word_no_space_3 | hammerkissacid |  
+| bip_39_word_no_space_4 | hammerkissacidcrush |  
+| bip_39_word_no_space_5 | hammerkissacidcrushshine |  
+| bip_39_word_no_space_6 | hammerkissacidcrushshinemyth |  
+| bip_39_word_no_space_7 | hammerkissacidcrushshinemythrequire |  
+| bip_39_word_no_space_8 | hammerkissacidcrushshinemythrequirebeyond |  
+| bip_39_word_no_space_9 | hammerkissacidcrushshinemythrequirebeyondcabin |  
 | bip_39_word_space_0 | ['hammer', 'kiss', 'acid', 'crush', 'shine', 'myth', 'require', 'beyond', 'cabin', 'outdoor', 'stable', 'anchor'] |  
 | bip_39_word_space_1 | hammer |  
 | bip_39_word_space_10 | hammer kiss acid crush shine myth require beyond cabin outdoor |  

@@ -122,6 +122,18 @@ coconut
 own
 climb
 sunset |  
+| bip_39_word_no_space_1 | witness |  
+| bip_39_word_no_space_10 | witnesssnaptwosourcepunchcoconutownclimbsunsetmatrix |  
+| bip_39_word_no_space_11 | witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixreveal |  
+| bip_39_word_no_space_12 | witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixrevealany |  
+| bip_39_word_no_space_2 | witnesssnap |  
+| bip_39_word_no_space_3 | witnesssnaptwo |  
+| bip_39_word_no_space_4 | witnesssnaptwosource |  
+| bip_39_word_no_space_5 | witnesssnaptwosourcepunch |  
+| bip_39_word_no_space_6 | witnesssnaptwosourcepunchcoconut |  
+| bip_39_word_no_space_7 | witnesssnaptwosourcepunchcoconutown |  
+| bip_39_word_no_space_8 | witnesssnaptwosourcepunchcoconutownclimb |  
+| bip_39_word_no_space_9 | witnesssnaptwosourcepunchcoconutownclimbsunset |  
 | bip_39_word_space_0 | ['witness', 'snap', 'two', 'source', 'punch', 'coconut', 'own', 'climb', 'sunset', 'matrix', 'reveal', 'any'] |  
 | bip_39_word_space_1 | witness |  
 | bip_39_word_space_10 | witness snap two source punch coconut own climb sunset matrix |  

@@ -122,6 +122,18 @@ road
 uncle
 gold
 sample |  
+| bip_39_word_no_space_1 | check |  
+| bip_39_word_no_space_10 | checkknockoctoberuponroofroadunclegoldsamplefiscal |  
+| bip_39_word_no_space_11 | checkknockoctoberuponroofroadunclegoldsamplefiscalhoney |  
+| bip_39_word_no_space_12 | checkknockoctoberuponroofroadunclegoldsamplefiscalhoneyability |  
+| bip_39_word_no_space_2 | checkknock |  
+| bip_39_word_no_space_3 | checkknockoctober |  
+| bip_39_word_no_space_4 | checkknockoctoberupon |  
+| bip_39_word_no_space_5 | checkknockoctoberuponroof |  
+| bip_39_word_no_space_6 | checkknockoctoberuponroofroad |  
+| bip_39_word_no_space_7 | checkknockoctoberuponroofroaduncle |  
+| bip_39_word_no_space_8 | checkknockoctoberuponroofroadunclegold |  
+| bip_39_word_no_space_9 | checkknockoctoberuponroofroadunclegoldsample |  
 | bip_39_word_space_0 | ['check', 'knock', 'october', 'upon', 'roof', 'road', 'uncle', 'gold', 'sample', 'fiscal', 'honey', 'ability'] |  
 | bip_39_word_space_1 | check |  
 | bip_39_word_space_10 | check knock october upon roof road uncle gold sample fiscal |  

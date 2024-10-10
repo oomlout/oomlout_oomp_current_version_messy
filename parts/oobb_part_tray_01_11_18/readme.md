@@ -122,6 +122,18 @@ genuine
 envelope
 oxygen
 icon |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | sellchampionbicycleworthreopengenuineenvelopeoxygeniconinhale |  
+| bip_39_word_no_space_11 | sellchampionbicycleworthreopengenuineenvelopeoxygeniconinhalesound |  
+| bip_39_word_no_space_12 | sellchampionbicycleworthreopengenuineenvelopeoxygeniconinhalesoundadvice |  
+| bip_39_word_no_space_2 | sellchampion |  
+| bip_39_word_no_space_3 | sellchampionbicycle |  
+| bip_39_word_no_space_4 | sellchampionbicycleworth |  
+| bip_39_word_no_space_5 | sellchampionbicycleworthreopen |  
+| bip_39_word_no_space_6 | sellchampionbicycleworthreopengenuine |  
+| bip_39_word_no_space_7 | sellchampionbicycleworthreopengenuineenvelope |  
+| bip_39_word_no_space_8 | sellchampionbicycleworthreopengenuineenvelopeoxygen |  
+| bip_39_word_no_space_9 | sellchampionbicycleworthreopengenuineenvelopeoxygenicon |  
 | bip_39_word_space_0 | ['sell', 'champion', 'bicycle', 'worth', 'reopen', 'genuine', 'envelope', 'oxygen', 'icon', 'inhale', 'sound', 'advice'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell champion bicycle worth reopen genuine envelope oxygen icon inhale |  

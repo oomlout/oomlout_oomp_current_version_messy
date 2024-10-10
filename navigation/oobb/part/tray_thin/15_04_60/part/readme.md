@@ -122,6 +122,18 @@ stereo
 forward
 river
 wait |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sideponybluefeelgarlicstereoforwardriverwaitgadget |  
+| bip_39_word_no_space_11 | sideponybluefeelgarlicstereoforwardriverwaitgadgetinject |  
+| bip_39_word_no_space_12 | sideponybluefeelgarlicstereoforwardriverwaitgadgetinjectable |  
+| bip_39_word_no_space_2 | sidepony |  
+| bip_39_word_no_space_3 | sideponyblue |  
+| bip_39_word_no_space_4 | sideponybluefeel |  
+| bip_39_word_no_space_5 | sideponybluefeelgarlic |  
+| bip_39_word_no_space_6 | sideponybluefeelgarlicstereo |  
+| bip_39_word_no_space_7 | sideponybluefeelgarlicstereoforward |  
+| bip_39_word_no_space_8 | sideponybluefeelgarlicstereoforwardriver |  
+| bip_39_word_no_space_9 | sideponybluefeelgarlicstereoforwardriverwait |  
 | bip_39_word_space_0 | ['side', 'pony', 'blue', 'feel', 'garlic', 'stereo', 'forward', 'river', 'wait', 'gadget', 'inject', 'able'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side pony blue feel garlic stereo forward river wait gadget |  

@@ -122,6 +122,18 @@ cabbage
 belt
 stick
 note |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spidereternalbelieveundocrimecabbagebeltsticknoteglue |  
+| bip_39_word_no_space_11 | spidereternalbelieveundocrimecabbagebeltsticknotegluemiddle |  
+| bip_39_word_no_space_12 | spidereternalbelieveundocrimecabbagebeltsticknotegluemiddleattack |  
+| bip_39_word_no_space_2 | spidereternal |  
+| bip_39_word_no_space_3 | spidereternalbelieve |  
+| bip_39_word_no_space_4 | spidereternalbelieveundo |  
+| bip_39_word_no_space_5 | spidereternalbelieveundocrime |  
+| bip_39_word_no_space_6 | spidereternalbelieveundocrimecabbage |  
+| bip_39_word_no_space_7 | spidereternalbelieveundocrimecabbagebelt |  
+| bip_39_word_no_space_8 | spidereternalbelieveundocrimecabbagebeltstick |  
+| bip_39_word_no_space_9 | spidereternalbelieveundocrimecabbagebeltsticknote |  
 | bip_39_word_space_0 | ['spider', 'eternal', 'believe', 'undo', 'crime', 'cabbage', 'belt', 'stick', 'note', 'glue', 'middle', 'attack'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider eternal believe undo crime cabbage belt stick note glue |  

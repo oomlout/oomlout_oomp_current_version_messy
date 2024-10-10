@@ -122,6 +122,18 @@ involve
 surface
 situate
 useless |  
+| bip_39_word_no_space_1 | lucky |  
+| bip_39_word_no_space_10 | luckyecologygeniusfavoriteopposeinvolvesurfacesituateuselessgather |  
+| bip_39_word_no_space_11 | luckyecologygeniusfavoriteopposeinvolvesurfacesituateuselessgathermorning |  
+| bip_39_word_no_space_12 | luckyecologygeniusfavoriteopposeinvolvesurfacesituateuselessgathermorningalone |  
+| bip_39_word_no_space_2 | luckyecology |  
+| bip_39_word_no_space_3 | luckyecologygenius |  
+| bip_39_word_no_space_4 | luckyecologygeniusfavorite |  
+| bip_39_word_no_space_5 | luckyecologygeniusfavoriteoppose |  
+| bip_39_word_no_space_6 | luckyecologygeniusfavoriteopposeinvolve |  
+| bip_39_word_no_space_7 | luckyecologygeniusfavoriteopposeinvolvesurface |  
+| bip_39_word_no_space_8 | luckyecologygeniusfavoriteopposeinvolvesurfacesituate |  
+| bip_39_word_no_space_9 | luckyecologygeniusfavoriteopposeinvolvesurfacesituateuseless |  
 | bip_39_word_space_0 | ['lucky', 'ecology', 'genius', 'favorite', 'oppose', 'involve', 'surface', 'situate', 'useless', 'gather', 'morning', 'alone'] |  
 | bip_39_word_space_1 | lucky |  
 | bip_39_word_space_10 | lucky ecology genius favorite oppose involve surface situate useless gather |  

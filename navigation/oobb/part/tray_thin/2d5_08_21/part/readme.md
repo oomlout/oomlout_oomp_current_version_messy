@@ -122,6 +122,18 @@ wing
 impact
 grab
 match |  
+| bip_39_word_no_space_1 | visa |  
+| bip_39_word_no_space_10 | visapeasantkindwallauntwingimpactgrabmatchurban |  
+| bip_39_word_no_space_11 | visapeasantkindwallauntwingimpactgrabmatchurbanrelease |  
+| bip_39_word_no_space_12 | visapeasantkindwallauntwingimpactgrabmatchurbanreleaseassume |  
+| bip_39_word_no_space_2 | visapeasant |  
+| bip_39_word_no_space_3 | visapeasantkind |  
+| bip_39_word_no_space_4 | visapeasantkindwall |  
+| bip_39_word_no_space_5 | visapeasantkindwallaunt |  
+| bip_39_word_no_space_6 | visapeasantkindwallauntwing |  
+| bip_39_word_no_space_7 | visapeasantkindwallauntwingimpact |  
+| bip_39_word_no_space_8 | visapeasantkindwallauntwingimpactgrab |  
+| bip_39_word_no_space_9 | visapeasantkindwallauntwingimpactgrabmatch |  
 | bip_39_word_space_0 | ['visa', 'peasant', 'kind', 'wall', 'aunt', 'wing', 'impact', 'grab', 'match', 'urban', 'release', 'assume'] |  
 | bip_39_word_space_1 | visa |  
 | bip_39_word_space_10 | visa peasant kind wall aunt wing impact grab match urban |  

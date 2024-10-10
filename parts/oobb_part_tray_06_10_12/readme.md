@@ -122,6 +122,18 @@ stable
 rocket
 sail
 deny |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangarooshootcrimeexhibitbusstablerocketsaildenyordinary |  
+| bip_39_word_no_space_11 | kangarooshootcrimeexhibitbusstablerocketsaildenyordinaryregular |  
+| bip_39_word_no_space_12 | kangarooshootcrimeexhibitbusstablerocketsaildenyordinaryregularanger |  
+| bip_39_word_no_space_2 | kangarooshoot |  
+| bip_39_word_no_space_3 | kangarooshootcrime |  
+| bip_39_word_no_space_4 | kangarooshootcrimeexhibit |  
+| bip_39_word_no_space_5 | kangarooshootcrimeexhibitbus |  
+| bip_39_word_no_space_6 | kangarooshootcrimeexhibitbusstable |  
+| bip_39_word_no_space_7 | kangarooshootcrimeexhibitbusstablerocket |  
+| bip_39_word_no_space_8 | kangarooshootcrimeexhibitbusstablerocketsail |  
+| bip_39_word_no_space_9 | kangarooshootcrimeexhibitbusstablerocketsaildeny |  
 | bip_39_word_space_0 | ['kangaroo', 'shoot', 'crime', 'exhibit', 'bus', 'stable', 'rocket', 'sail', 'deny', 'ordinary', 'regular', 'anger'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo shoot crime exhibit bus stable rocket sail deny ordinary |  

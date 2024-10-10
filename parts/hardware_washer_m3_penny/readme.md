@@ -122,6 +122,18 @@ vault
 treat
 digital
 remind |  
+| bip_39_word_no_space_1 | carry |  
+| bip_39_word_no_space_10 | carrywaspexecutemessageovalvaulttreatdigitalremindridge |  
+| bip_39_word_no_space_11 | carrywaspexecutemessageovalvaulttreatdigitalremindridgedivide |  
+| bip_39_word_no_space_12 | carrywaspexecutemessageovalvaulttreatdigitalremindridgedivideanimal |  
+| bip_39_word_no_space_2 | carrywasp |  
+| bip_39_word_no_space_3 | carrywaspexecute |  
+| bip_39_word_no_space_4 | carrywaspexecutemessage |  
+| bip_39_word_no_space_5 | carrywaspexecutemessageoval |  
+| bip_39_word_no_space_6 | carrywaspexecutemessageovalvault |  
+| bip_39_word_no_space_7 | carrywaspexecutemessageovalvaulttreat |  
+| bip_39_word_no_space_8 | carrywaspexecutemessageovalvaulttreatdigital |  
+| bip_39_word_no_space_9 | carrywaspexecutemessageovalvaulttreatdigitalremind |  
 | bip_39_word_space_0 | ['carry', 'wasp', 'execute', 'message', 'oval', 'vault', 'treat', 'digital', 'remind', 'ridge', 'divide', 'animal'] |  
 | bip_39_word_space_1 | carry |  
 | bip_39_word_space_10 | carry wasp execute message oval vault treat digital remind ridge |  

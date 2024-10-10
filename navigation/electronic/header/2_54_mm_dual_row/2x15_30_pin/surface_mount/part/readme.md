@@ -122,6 +122,18 @@ topic
 please
 situate
 slow |  
+| bip_39_word_no_space_1 | mansion |  
+| bip_39_word_no_space_10 | mansionpartyknifetypicalaheadtopicpleasesituateslowmargin |  
+| bip_39_word_no_space_11 | mansionpartyknifetypicalaheadtopicpleasesituateslowmargindrama |  
+| bip_39_word_no_space_12 | mansionpartyknifetypicalaheadtopicpleasesituateslowmargindramaankle |  
+| bip_39_word_no_space_2 | mansionparty |  
+| bip_39_word_no_space_3 | mansionpartyknife |  
+| bip_39_word_no_space_4 | mansionpartyknifetypical |  
+| bip_39_word_no_space_5 | mansionpartyknifetypicalahead |  
+| bip_39_word_no_space_6 | mansionpartyknifetypicalaheadtopic |  
+| bip_39_word_no_space_7 | mansionpartyknifetypicalaheadtopicplease |  
+| bip_39_word_no_space_8 | mansionpartyknifetypicalaheadtopicpleasesituate |  
+| bip_39_word_no_space_9 | mansionpartyknifetypicalaheadtopicpleasesituateslow |  
 | bip_39_word_space_0 | ['mansion', 'party', 'knife', 'typical', 'ahead', 'topic', 'please', 'situate', 'slow', 'margin', 'drama', 'ankle'] |  
 | bip_39_word_space_1 | mansion |  
 | bip_39_word_space_10 | mansion party knife typical ahead topic please situate slow margin |  

@@ -122,6 +122,18 @@ ostrich
 hip
 ribbon
 neck |  
+| bip_39_word_no_space_1 | together |  
+| bip_39_word_no_space_10 | togetherelbowcardsunsetonceostrichhipribbonneckloop |  
+| bip_39_word_no_space_11 | togetherelbowcardsunsetonceostrichhipribbonneckloopillness |  
+| bip_39_word_no_space_12 | togetherelbowcardsunsetonceostrichhipribbonneckloopillnessauthor |  
+| bip_39_word_no_space_2 | togetherelbow |  
+| bip_39_word_no_space_3 | togetherelbowcard |  
+| bip_39_word_no_space_4 | togetherelbowcardsunset |  
+| bip_39_word_no_space_5 | togetherelbowcardsunsetonce |  
+| bip_39_word_no_space_6 | togetherelbowcardsunsetonceostrich |  
+| bip_39_word_no_space_7 | togetherelbowcardsunsetonceostrichhip |  
+| bip_39_word_no_space_8 | togetherelbowcardsunsetonceostrichhipribbon |  
+| bip_39_word_no_space_9 | togetherelbowcardsunsetonceostrichhipribbonneck |  
 | bip_39_word_space_0 | ['together', 'elbow', 'card', 'sunset', 'once', 'ostrich', 'hip', 'ribbon', 'neck', 'loop', 'illness', 'author'] |  
 | bip_39_word_space_1 | together |  
 | bip_39_word_space_10 | together elbow card sunset once ostrich hip ribbon neck loop |  

@@ -122,6 +122,18 @@ fine
 top
 robust
 sibling |  
+| bip_39_word_no_space_1 | apple |  
+| bip_39_word_no_space_10 | applelimbsufferprosperhorsefinetoprobustsiblingall |  
+| bip_39_word_no_space_11 | applelimbsufferprosperhorsefinetoprobustsiblingalllemon |  
+| bip_39_word_no_space_12 | applelimbsufferprosperhorsefinetoprobustsiblingalllemonalso |  
+| bip_39_word_no_space_2 | applelimb |  
+| bip_39_word_no_space_3 | applelimbsuffer |  
+| bip_39_word_no_space_4 | applelimbsufferprosper |  
+| bip_39_word_no_space_5 | applelimbsufferprosperhorse |  
+| bip_39_word_no_space_6 | applelimbsufferprosperhorsefine |  
+| bip_39_word_no_space_7 | applelimbsufferprosperhorsefinetop |  
+| bip_39_word_no_space_8 | applelimbsufferprosperhorsefinetoprobust |  
+| bip_39_word_no_space_9 | applelimbsufferprosperhorsefinetoprobustsibling |  
 | bip_39_word_space_0 | ['apple', 'limb', 'suffer', 'prosper', 'horse', 'fine', 'top', 'robust', 'sibling', 'all', 'lemon', 'also'] |  
 | bip_39_word_space_1 | apple |  
 | bip_39_word_space_10 | apple limb suffer prosper horse fine top robust sibling all |  

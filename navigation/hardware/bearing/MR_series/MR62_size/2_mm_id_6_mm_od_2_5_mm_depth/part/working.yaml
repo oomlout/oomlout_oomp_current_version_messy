@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cup
   general
 
   zone'
+bip_39_word_no_space_1: cup
+bip_39_word_no_space_10: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeast
+bip_39_word_no_space_11: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeastpicture
+bip_39_word_no_space_12: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeastpictureacross
+bip_39_word_no_space_2: cupelbow
+bip_39_word_no_space_3: cupelbowneglect
+bip_39_word_no_space_4: cupelbowneglecttower
+bip_39_word_no_space_5: cupelbowneglecttowerrail
+bip_39_word_no_space_6: cupelbowneglecttowerrailcrumble
+bip_39_word_no_space_7: cupelbowneglecttowerrailcrumblesomeone
+bip_39_word_no_space_8: cupelbowneglecttowerrailcrumblesomeonegeneral
+bip_39_word_no_space_9: cupelbowneglecttowerrailcrumblesomeonegeneralzone
 bip_39_word_space_0:
 - cup
 - elbow

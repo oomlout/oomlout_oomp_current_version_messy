@@ -122,6 +122,18 @@ true
 real
 laptop
 dragon |  
+| bip_39_word_no_space_1 | virtual |  
+| bip_39_word_no_space_10 | virtualblindarrowdecemberquotetruereallaptopdragonsoap |  
+| bip_39_word_no_space_11 | virtualblindarrowdecemberquotetruereallaptopdragonsoaplimb |  
+| bip_39_word_no_space_12 | virtualblindarrowdecemberquotetruereallaptopdragonsoaplimbattract |  
+| bip_39_word_no_space_2 | virtualblind |  
+| bip_39_word_no_space_3 | virtualblindarrow |  
+| bip_39_word_no_space_4 | virtualblindarrowdecember |  
+| bip_39_word_no_space_5 | virtualblindarrowdecemberquote |  
+| bip_39_word_no_space_6 | virtualblindarrowdecemberquotetrue |  
+| bip_39_word_no_space_7 | virtualblindarrowdecemberquotetruereal |  
+| bip_39_word_no_space_8 | virtualblindarrowdecemberquotetruereallaptop |  
+| bip_39_word_no_space_9 | virtualblindarrowdecemberquotetruereallaptopdragon |  
 | bip_39_word_space_0 | ['virtual', 'blind', 'arrow', 'december', 'quote', 'true', 'real', 'laptop', 'dragon', 'soap', 'limb', 'attract'] |  
 | bip_39_word_space_1 | virtual |  
 | bip_39_word_space_10 | virtual blind arrow december quote true real laptop dragon soap |  

@@ -122,6 +122,18 @@ tackle
 orbit
 morning
 chef |  
+| bip_39_word_no_space_1 | artefact |  
+| bip_39_word_no_space_10 | artefactarrestlimitlawnawaretackleorbitmorningchefketchup |  
+| bip_39_word_no_space_11 | artefactarrestlimitlawnawaretackleorbitmorningchefketchupstreet |  
+| bip_39_word_no_space_12 | artefactarrestlimitlawnawaretackleorbitmorningchefketchupstreetamount |  
+| bip_39_word_no_space_2 | artefactarrest |  
+| bip_39_word_no_space_3 | artefactarrestlimit |  
+| bip_39_word_no_space_4 | artefactarrestlimitlawn |  
+| bip_39_word_no_space_5 | artefactarrestlimitlawnaware |  
+| bip_39_word_no_space_6 | artefactarrestlimitlawnawaretackle |  
+| bip_39_word_no_space_7 | artefactarrestlimitlawnawaretackleorbit |  
+| bip_39_word_no_space_8 | artefactarrestlimitlawnawaretackleorbitmorning |  
+| bip_39_word_no_space_9 | artefactarrestlimitlawnawaretackleorbitmorningchef |  
 | bip_39_word_space_0 | ['artefact', 'arrest', 'limit', 'lawn', 'aware', 'tackle', 'orbit', 'morning', 'chef', 'ketchup', 'street', 'amount'] |  
 | bip_39_word_space_1 | artefact |  
 | bip_39_word_space_10 | artefact arrest limit lawn aware tackle orbit morning chef ketchup |  

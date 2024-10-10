@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'off
   gesture
 
   tip'
+bip_39_word_no_space_1: 'off'
+bip_39_word_no_space_10: offcanvastrafficevilpurchaserainrecipegesturetipsilk
+bip_39_word_no_space_11: offcanvastrafficevilpurchaserainrecipegesturetipsilkgossip
+bip_39_word_no_space_12: offcanvastrafficevilpurchaserainrecipegesturetipsilkgossipautumn
+bip_39_word_no_space_2: offcanvas
+bip_39_word_no_space_3: offcanvastraffic
+bip_39_word_no_space_4: offcanvastrafficevil
+bip_39_word_no_space_5: offcanvastrafficevilpurchase
+bip_39_word_no_space_6: offcanvastrafficevilpurchaserain
+bip_39_word_no_space_7: offcanvastrafficevilpurchaserainrecipe
+bip_39_word_no_space_8: offcanvastrafficevilpurchaserainrecipegesture
+bip_39_word_no_space_9: offcanvastrafficevilpurchaserainrecipegesturetip
 bip_39_word_space_0:
 - 'off'
 - canvas

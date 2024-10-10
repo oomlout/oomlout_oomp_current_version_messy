@@ -122,6 +122,18 @@ fall
 divorce
 monitor
 illness |  
+| bip_39_word_no_space_1 | expect |  
+| bip_39_word_no_space_10 | expectratewolfrepairincreasefalldivorcemonitorillnesscrowd |  
+| bip_39_word_no_space_11 | expectratewolfrepairincreasefalldivorcemonitorillnesscrowdchoice |  
+| bip_39_word_no_space_12 | expectratewolfrepairincreasefalldivorcemonitorillnesscrowdchoiceasset |  
+| bip_39_word_no_space_2 | expectrate |  
+| bip_39_word_no_space_3 | expectratewolf |  
+| bip_39_word_no_space_4 | expectratewolfrepair |  
+| bip_39_word_no_space_5 | expectratewolfrepairincrease |  
+| bip_39_word_no_space_6 | expectratewolfrepairincreasefall |  
+| bip_39_word_no_space_7 | expectratewolfrepairincreasefalldivorce |  
+| bip_39_word_no_space_8 | expectratewolfrepairincreasefalldivorcemonitor |  
+| bip_39_word_no_space_9 | expectratewolfrepairincreasefalldivorcemonitorillness |  
 | bip_39_word_space_0 | ['expect', 'rate', 'wolf', 'repair', 'increase', 'fall', 'divorce', 'monitor', 'illness', 'crowd', 'choice', 'asset'] |  
 | bip_39_word_space_1 | expect |  
 | bip_39_word_space_10 | expect rate wolf repair increase fall divorce monitor illness crowd |  

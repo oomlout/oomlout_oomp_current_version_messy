@@ -122,6 +122,18 @@ wall
 apart
 nuclear
 man |  
+| bip_39_word_no_space_1 | seven |  
+| bip_39_word_no_space_10 | sevenalarmstudenthumanhealthwallapartnuclearmanmechanic |  
+| bip_39_word_no_space_11 | sevenalarmstudenthumanhealthwallapartnuclearmanmechanicpilot |  
+| bip_39_word_no_space_12 | sevenalarmstudenthumanhealthwallapartnuclearmanmechanicpilotanswer |  
+| bip_39_word_no_space_2 | sevenalarm |  
+| bip_39_word_no_space_3 | sevenalarmstudent |  
+| bip_39_word_no_space_4 | sevenalarmstudenthuman |  
+| bip_39_word_no_space_5 | sevenalarmstudenthumanhealth |  
+| bip_39_word_no_space_6 | sevenalarmstudenthumanhealthwall |  
+| bip_39_word_no_space_7 | sevenalarmstudenthumanhealthwallapart |  
+| bip_39_word_no_space_8 | sevenalarmstudenthumanhealthwallapartnuclear |  
+| bip_39_word_no_space_9 | sevenalarmstudenthumanhealthwallapartnuclearman |  
 | bip_39_word_space_0 | ['seven', 'alarm', 'student', 'human', 'health', 'wall', 'apart', 'nuclear', 'man', 'mechanic', 'pilot', 'answer'] |  
 | bip_39_word_space_1 | seven |  
 | bip_39_word_space_10 | seven alarm student human health wall apart nuclear man mechanic |  

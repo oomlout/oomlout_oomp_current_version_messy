@@ -122,6 +122,18 @@ beach
 faint
 visual
 useful |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulmultiplygiraffepowdergunbeachfaintvisualusefulcluster |  
+| bip_39_word_no_space_11 | usefulmultiplygiraffepowdergunbeachfaintvisualusefulclusterdaring |  
+| bip_39_word_no_space_12 | usefulmultiplygiraffepowdergunbeachfaintvisualusefulclusterdaringadd |  
+| bip_39_word_no_space_2 | usefulmultiply |  
+| bip_39_word_no_space_3 | usefulmultiplygiraffe |  
+| bip_39_word_no_space_4 | usefulmultiplygiraffepowder |  
+| bip_39_word_no_space_5 | usefulmultiplygiraffepowdergun |  
+| bip_39_word_no_space_6 | usefulmultiplygiraffepowdergunbeach |  
+| bip_39_word_no_space_7 | usefulmultiplygiraffepowdergunbeachfaint |  
+| bip_39_word_no_space_8 | usefulmultiplygiraffepowdergunbeachfaintvisual |  
+| bip_39_word_no_space_9 | usefulmultiplygiraffepowdergunbeachfaintvisualuseful |  
 | bip_39_word_space_0 | ['useful', 'multiply', 'giraffe', 'powder', 'gun', 'beach', 'faint', 'visual', 'useful', 'cluster', 'daring', 'add'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful multiply giraffe powder gun beach faint visual useful cluster |  

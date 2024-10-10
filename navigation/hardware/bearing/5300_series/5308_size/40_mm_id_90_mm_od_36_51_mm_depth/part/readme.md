@@ -122,6 +122,18 @@ fade
 oyster
 spatial
 elder |  
+| bip_39_word_no_space_1 | breeze |  
+| bip_39_word_no_space_10 | breezetheoryguideauditstandfadeoysterspatialeldervalve |  
+| bip_39_word_no_space_11 | breezetheoryguideauditstandfadeoysterspatialeldervalvesoda |  
+| bip_39_word_no_space_12 | breezetheoryguideauditstandfadeoysterspatialeldervalvesodaactor |  
+| bip_39_word_no_space_2 | breezetheory |  
+| bip_39_word_no_space_3 | breezetheoryguide |  
+| bip_39_word_no_space_4 | breezetheoryguideaudit |  
+| bip_39_word_no_space_5 | breezetheoryguideauditstand |  
+| bip_39_word_no_space_6 | breezetheoryguideauditstandfade |  
+| bip_39_word_no_space_7 | breezetheoryguideauditstandfadeoyster |  
+| bip_39_word_no_space_8 | breezetheoryguideauditstandfadeoysterspatial |  
+| bip_39_word_no_space_9 | breezetheoryguideauditstandfadeoysterspatialelder |  
 | bip_39_word_space_0 | ['breeze', 'theory', 'guide', 'audit', 'stand', 'fade', 'oyster', 'spatial', 'elder', 'valve', 'soda', 'actor'] |  
 | bip_39_word_space_1 | breeze |  
 | bip_39_word_space_10 | breeze theory guide audit stand fade oyster spatial elder valve |  

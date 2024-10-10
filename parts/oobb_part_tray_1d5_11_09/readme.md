@@ -122,6 +122,18 @@ now
 repeat
 silly
 demise |  
+| bip_39_word_no_space_1 | east |  
+| bip_39_word_no_space_10 | eastdrippictureedgeappearnowrepeatsillydemisenaive |  
+| bip_39_word_no_space_11 | eastdrippictureedgeappearnowrepeatsillydemisenaiveseminar |  
+| bip_39_word_no_space_12 | eastdrippictureedgeappearnowrepeatsillydemisenaiveseminaradult |  
+| bip_39_word_no_space_2 | eastdrip |  
+| bip_39_word_no_space_3 | eastdrippicture |  
+| bip_39_word_no_space_4 | eastdrippictureedge |  
+| bip_39_word_no_space_5 | eastdrippictureedgeappear |  
+| bip_39_word_no_space_6 | eastdrippictureedgeappearnow |  
+| bip_39_word_no_space_7 | eastdrippictureedgeappearnowrepeat |  
+| bip_39_word_no_space_8 | eastdrippictureedgeappearnowrepeatsilly |  
+| bip_39_word_no_space_9 | eastdrippictureedgeappearnowrepeatsillydemise |  
 | bip_39_word_space_0 | ['east', 'drip', 'picture', 'edge', 'appear', 'now', 'repeat', 'silly', 'demise', 'naive', 'seminar', 'adult'] |  
 | bip_39_word_space_1 | east |  
 | bip_39_word_space_10 | east drip picture edge appear now repeat silly demise naive |  

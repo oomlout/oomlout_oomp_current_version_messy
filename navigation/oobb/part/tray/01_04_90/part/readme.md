@@ -122,6 +122,18 @@ dune
 edge
 cabin
 fetch |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tosstackleevidenceguessvintageduneedgecabinfetchdeputy |  
+| bip_39_word_no_space_11 | tosstackleevidenceguessvintageduneedgecabinfetchdeputyunder |  
+| bip_39_word_no_space_12 | tosstackleevidenceguessvintageduneedgecabinfetchdeputyunderalter |  
+| bip_39_word_no_space_2 | tosstackle |  
+| bip_39_word_no_space_3 | tosstackleevidence |  
+| bip_39_word_no_space_4 | tosstackleevidenceguess |  
+| bip_39_word_no_space_5 | tosstackleevidenceguessvintage |  
+| bip_39_word_no_space_6 | tosstackleevidenceguessvintagedune |  
+| bip_39_word_no_space_7 | tosstackleevidenceguessvintageduneedge |  
+| bip_39_word_no_space_8 | tosstackleevidenceguessvintageduneedgecabin |  
+| bip_39_word_no_space_9 | tosstackleevidenceguessvintageduneedgecabinfetch |  
 | bip_39_word_space_0 | ['toss', 'tackle', 'evidence', 'guess', 'vintage', 'dune', 'edge', 'cabin', 'fetch', 'deputy', 'under', 'alter'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss tackle evidence guess vintage dune edge cabin fetch deputy |  

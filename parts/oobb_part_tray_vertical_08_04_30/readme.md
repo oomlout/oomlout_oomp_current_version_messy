@@ -122,6 +122,18 @@ pass
 decrease
 initial
 pencil |  
+| bip_39_word_no_space_1 | siege |  
+| bip_39_word_no_space_10 | siegeblaststartorangedonatepassdecreaseinitialpencilrenew |  
+| bip_39_word_no_space_11 | siegeblaststartorangedonatepassdecreaseinitialpencilrenewvacant |  
+| bip_39_word_no_space_12 | siegeblaststartorangedonatepassdecreaseinitialpencilrenewvacantarrive |  
+| bip_39_word_no_space_2 | siegeblast |  
+| bip_39_word_no_space_3 | siegeblaststart |  
+| bip_39_word_no_space_4 | siegeblaststartorange |  
+| bip_39_word_no_space_5 | siegeblaststartorangedonate |  
+| bip_39_word_no_space_6 | siegeblaststartorangedonatepass |  
+| bip_39_word_no_space_7 | siegeblaststartorangedonatepassdecrease |  
+| bip_39_word_no_space_8 | siegeblaststartorangedonatepassdecreaseinitial |  
+| bip_39_word_no_space_9 | siegeblaststartorangedonatepassdecreaseinitialpencil |  
 | bip_39_word_space_0 | ['siege', 'blast', 'start', 'orange', 'donate', 'pass', 'decrease', 'initial', 'pencil', 'renew', 'vacant', 'arrive'] |  
 | bip_39_word_space_1 | siege |  
 | bip_39_word_space_10 | siege blast start orange donate pass decrease initial pencil renew |  

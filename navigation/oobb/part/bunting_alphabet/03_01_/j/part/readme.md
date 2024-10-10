@@ -122,6 +122,18 @@ fever
 extend
 stairs
 predict |  
+| bip_39_word_no_space_1 | safe |  
+| bip_39_word_no_space_10 | safeabsentchatexilesubmitfeverextendstairspredictball |  
+| bip_39_word_no_space_11 | safeabsentchatexilesubmitfeverextendstairspredictballexcuse |  
+| bip_39_word_no_space_12 | safeabsentchatexilesubmitfeverextendstairspredictballexcuseanger |  
+| bip_39_word_no_space_2 | safeabsent |  
+| bip_39_word_no_space_3 | safeabsentchat |  
+| bip_39_word_no_space_4 | safeabsentchatexile |  
+| bip_39_word_no_space_5 | safeabsentchatexilesubmit |  
+| bip_39_word_no_space_6 | safeabsentchatexilesubmitfever |  
+| bip_39_word_no_space_7 | safeabsentchatexilesubmitfeverextend |  
+| bip_39_word_no_space_8 | safeabsentchatexilesubmitfeverextendstairs |  
+| bip_39_word_no_space_9 | safeabsentchatexilesubmitfeverextendstairspredict |  
 | bip_39_word_space_0 | ['safe', 'absent', 'chat', 'exile', 'submit', 'fever', 'extend', 'stairs', 'predict', 'ball', 'excuse', 'anger'] |  
 | bip_39_word_space_1 | safe |  
 | bip_39_word_space_10 | safe absent chat exile submit fever extend stairs predict ball |  

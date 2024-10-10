@@ -122,6 +122,18 @@ voice
 number
 mercy
 pass |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemmemorybestagreedripvoicenumbermercypasssoul |  
+| bip_39_word_no_space_11 | itemmemorybestagreedripvoicenumbermercypasssoulmargin |  
+| bip_39_word_no_space_12 | itemmemorybestagreedripvoicenumbermercypasssoulmarginadvice |  
+| bip_39_word_no_space_2 | itemmemory |  
+| bip_39_word_no_space_3 | itemmemorybest |  
+| bip_39_word_no_space_4 | itemmemorybestagree |  
+| bip_39_word_no_space_5 | itemmemorybestagreedrip |  
+| bip_39_word_no_space_6 | itemmemorybestagreedripvoice |  
+| bip_39_word_no_space_7 | itemmemorybestagreedripvoicenumber |  
+| bip_39_word_no_space_8 | itemmemorybestagreedripvoicenumbermercy |  
+| bip_39_word_no_space_9 | itemmemorybestagreedripvoicenumbermercypass |  
 | bip_39_word_space_0 | ['item', 'memory', 'best', 'agree', 'drip', 'voice', 'number', 'mercy', 'pass', 'soul', 'margin', 'advice'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item memory best agree drip voice number mercy pass soul |  

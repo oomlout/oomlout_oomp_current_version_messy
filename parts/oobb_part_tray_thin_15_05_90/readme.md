@@ -122,6 +122,18 @@ obtain
 dune
 valve
 vital |  
+| bip_39_word_no_space_1 | duck |  
+| bip_39_word_no_space_10 | duckpursebattlepredictsurgeobtaindunevalvevitaldinner |  
+| bip_39_word_no_space_11 | duckpursebattlepredictsurgeobtaindunevalvevitaldinnerorgan |  
+| bip_39_word_no_space_12 | duckpursebattlepredictsurgeobtaindunevalvevitaldinnerorganactress |  
+| bip_39_word_no_space_2 | duckpurse |  
+| bip_39_word_no_space_3 | duckpursebattle |  
+| bip_39_word_no_space_4 | duckpursebattlepredict |  
+| bip_39_word_no_space_5 | duckpursebattlepredictsurge |  
+| bip_39_word_no_space_6 | duckpursebattlepredictsurgeobtain |  
+| bip_39_word_no_space_7 | duckpursebattlepredictsurgeobtaindune |  
+| bip_39_word_no_space_8 | duckpursebattlepredictsurgeobtaindunevalve |  
+| bip_39_word_no_space_9 | duckpursebattlepredictsurgeobtaindunevalvevital |  
 | bip_39_word_space_0 | ['duck', 'purse', 'battle', 'predict', 'surge', 'obtain', 'dune', 'valve', 'vital', 'dinner', 'organ', 'actress'] |  
 | bip_39_word_space_1 | duck |  
 | bip_39_word_space_10 | duck purse battle predict surge obtain dune valve vital dinner |  

@@ -122,6 +122,18 @@ ticket
 produce
 ugly
 autumn |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismiss |  
+| bip_39_word_no_space_11 | discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismisswrap |  
+| bip_39_word_no_space_12 | discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismisswrapagent |  
+| bip_39_word_no_space_2 | discoverdilemma |  
+| bip_39_word_no_space_3 | discoverdilemmaluggage |  
+| bip_39_word_no_space_4 | discoverdilemmaluggageepisode |  
+| bip_39_word_no_space_5 | discoverdilemmaluggageepisodelucky |  
+| bip_39_word_no_space_6 | discoverdilemmaluggageepisodeluckyticket |  
+| bip_39_word_no_space_7 | discoverdilemmaluggageepisodeluckyticketproduce |  
+| bip_39_word_no_space_8 | discoverdilemmaluggageepisodeluckyticketproduceugly |  
+| bip_39_word_no_space_9 | discoverdilemmaluggageepisodeluckyticketproduceuglyautumn |  
 | bip_39_word_space_0 | ['discover', 'dilemma', 'luggage', 'episode', 'lucky', 'ticket', 'produce', 'ugly', 'autumn', 'dismiss', 'wrap', 'agent'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover dilemma luggage episode lucky ticket produce ugly autumn dismiss |  

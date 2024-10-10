@@ -122,6 +122,18 @@ offer
 ramp
 female
 elite |  
+| bip_39_word_no_space_1 | conduct |  
+| bip_39_word_no_space_10 | conductcageritualablefederalofferrampfemaleelitetank |  
+| bip_39_word_no_space_11 | conductcageritualablefederalofferrampfemaleelitetanktown |  
+| bip_39_word_no_space_12 | conductcageritualablefederalofferrampfemaleelitetanktownanchor |  
+| bip_39_word_no_space_2 | conductcage |  
+| bip_39_word_no_space_3 | conductcageritual |  
+| bip_39_word_no_space_4 | conductcageritualable |  
+| bip_39_word_no_space_5 | conductcageritualablefederal |  
+| bip_39_word_no_space_6 | conductcageritualablefederaloffer |  
+| bip_39_word_no_space_7 | conductcageritualablefederalofferramp |  
+| bip_39_word_no_space_8 | conductcageritualablefederalofferrampfemale |  
+| bip_39_word_no_space_9 | conductcageritualablefederalofferrampfemaleelite |  
 | bip_39_word_space_0 | ['conduct', 'cage', 'ritual', 'able', 'federal', 'offer', 'ramp', 'female', 'elite', 'tank', 'town', 'anchor'] |  
 | bip_39_word_space_1 | conduct |  
 | bip_39_word_space_10 | conduct cage ritual able federal offer ramp female elite tank |  

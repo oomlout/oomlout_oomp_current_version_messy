@@ -122,6 +122,18 @@ repeat
 dinosaur
 oyster
 cherry |  
+| bip_39_word_no_space_1 | scissors |  
+| bip_39_word_no_space_10 | scissorskneebachelorinnersaddlerepeatdinosauroystercherrywage |  
+| bip_39_word_no_space_11 | scissorskneebachelorinnersaddlerepeatdinosauroystercherrywagerisk |  
+| bip_39_word_no_space_12 | scissorskneebachelorinnersaddlerepeatdinosauroystercherrywageriskalone |  
+| bip_39_word_no_space_2 | scissorsknee |  
+| bip_39_word_no_space_3 | scissorskneebachelor |  
+| bip_39_word_no_space_4 | scissorskneebachelorinner |  
+| bip_39_word_no_space_5 | scissorskneebachelorinnersaddle |  
+| bip_39_word_no_space_6 | scissorskneebachelorinnersaddlerepeat |  
+| bip_39_word_no_space_7 | scissorskneebachelorinnersaddlerepeatdinosaur |  
+| bip_39_word_no_space_8 | scissorskneebachelorinnersaddlerepeatdinosauroyster |  
+| bip_39_word_no_space_9 | scissorskneebachelorinnersaddlerepeatdinosauroystercherry |  
 | bip_39_word_space_0 | ['scissors', 'knee', 'bachelor', 'inner', 'saddle', 'repeat', 'dinosaur', 'oyster', 'cherry', 'wage', 'risk', 'alone'] |  
 | bip_39_word_space_1 | scissors |  
 | bip_39_word_space_10 | scissors knee bachelor inner saddle repeat dinosaur oyster cherry wage |  

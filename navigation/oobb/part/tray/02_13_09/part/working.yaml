@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'adjust
   carry
 
   speak'
+bip_39_word_no_space_1: adjust
+bip_39_word_no_space_10: adjustnamegossipbabypagequiztacklecarryspeakfront
+bip_39_word_no_space_11: adjustnamegossipbabypagequiztacklecarryspeakfrontkeep
+bip_39_word_no_space_12: adjustnamegossipbabypagequiztacklecarryspeakfrontkeepamount
+bip_39_word_no_space_2: adjustname
+bip_39_word_no_space_3: adjustnamegossip
+bip_39_word_no_space_4: adjustnamegossipbaby
+bip_39_word_no_space_5: adjustnamegossipbabypage
+bip_39_word_no_space_6: adjustnamegossipbabypagequiz
+bip_39_word_no_space_7: adjustnamegossipbabypagequiztackle
+bip_39_word_no_space_8: adjustnamegossipbabypagequiztacklecarry
+bip_39_word_no_space_9: adjustnamegossipbabypagequiztacklecarryspeak
 bip_39_word_space_0:
 - adjust
 - name

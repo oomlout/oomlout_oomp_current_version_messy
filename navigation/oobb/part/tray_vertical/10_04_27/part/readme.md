@@ -122,6 +122,18 @@ place
 science
 smile
 lazy |  
+| bip_39_word_no_space_1 | blossom |  
+| bip_39_word_no_space_10 | blossomkidneybleakbagleaveplacesciencesmilelazyjeans |  
+| bip_39_word_no_space_11 | blossomkidneybleakbagleaveplacesciencesmilelazyjeansmuseum |  
+| bip_39_word_no_space_12 | blossomkidneybleakbagleaveplacesciencesmilelazyjeansmuseumabove |  
+| bip_39_word_no_space_2 | blossomkidney |  
+| bip_39_word_no_space_3 | blossomkidneybleak |  
+| bip_39_word_no_space_4 | blossomkidneybleakbag |  
+| bip_39_word_no_space_5 | blossomkidneybleakbagleave |  
+| bip_39_word_no_space_6 | blossomkidneybleakbagleaveplace |  
+| bip_39_word_no_space_7 | blossomkidneybleakbagleaveplacescience |  
+| bip_39_word_no_space_8 | blossomkidneybleakbagleaveplacesciencesmile |  
+| bip_39_word_no_space_9 | blossomkidneybleakbagleaveplacesciencesmilelazy |  
 | bip_39_word_space_0 | ['blossom', 'kidney', 'bleak', 'bag', 'leave', 'place', 'science', 'smile', 'lazy', 'jeans', 'museum', 'above'] |  
 | bip_39_word_space_1 | blossom |  
 | bip_39_word_space_10 | blossom kidney bleak bag leave place science smile lazy jeans |  

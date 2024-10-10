@@ -122,6 +122,18 @@ twelve
 search
 portion
 print |  
+| bip_39_word_no_space_1 | plastic |  
+| bip_39_word_no_space_10 | plasticstinginquirywingswarmtwelvesearchportionprintalbum |  
+| bip_39_word_no_space_11 | plasticstinginquirywingswarmtwelvesearchportionprintalbummaze |  
+| bip_39_word_no_space_12 | plasticstinginquirywingswarmtwelvesearchportionprintalbummazealien |  
+| bip_39_word_no_space_2 | plasticsting |  
+| bip_39_word_no_space_3 | plasticstinginquiry |  
+| bip_39_word_no_space_4 | plasticstinginquirywing |  
+| bip_39_word_no_space_5 | plasticstinginquirywingswarm |  
+| bip_39_word_no_space_6 | plasticstinginquirywingswarmtwelve |  
+| bip_39_word_no_space_7 | plasticstinginquirywingswarmtwelvesearch |  
+| bip_39_word_no_space_8 | plasticstinginquirywingswarmtwelvesearchportion |  
+| bip_39_word_no_space_9 | plasticstinginquirywingswarmtwelvesearchportionprint |  
 | bip_39_word_space_0 | ['plastic', 'sting', 'inquiry', 'wing', 'swarm', 'twelve', 'search', 'portion', 'print', 'album', 'maze', 'alien'] |  
 | bip_39_word_space_1 | plastic |  
 | bip_39_word_space_10 | plastic sting inquiry wing swarm twelve search portion print album |  

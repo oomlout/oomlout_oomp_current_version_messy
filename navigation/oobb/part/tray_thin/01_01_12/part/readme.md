@@ -122,6 +122,18 @@ meat
 father
 song
 ahead |  
+| bip_39_word_no_space_1 | elite |  
+| bip_39_word_no_space_10 | elitetoeclientslushmaskmeatfathersongaheadantique |  
+| bip_39_word_no_space_11 | elitetoeclientslushmaskmeatfathersongaheadantiquejust |  
+| bip_39_word_no_space_12 | elitetoeclientslushmaskmeatfathersongaheadantiquejustatom |  
+| bip_39_word_no_space_2 | elitetoe |  
+| bip_39_word_no_space_3 | elitetoeclient |  
+| bip_39_word_no_space_4 | elitetoeclientslush |  
+| bip_39_word_no_space_5 | elitetoeclientslushmask |  
+| bip_39_word_no_space_6 | elitetoeclientslushmaskmeat |  
+| bip_39_word_no_space_7 | elitetoeclientslushmaskmeatfather |  
+| bip_39_word_no_space_8 | elitetoeclientslushmaskmeatfathersong |  
+| bip_39_word_no_space_9 | elitetoeclientslushmaskmeatfathersongahead |  
 | bip_39_word_space_0 | ['elite', 'toe', 'client', 'slush', 'mask', 'meat', 'father', 'song', 'ahead', 'antique', 'just', 'atom'] |  
 | bip_39_word_space_1 | elite |  
 | bip_39_word_space_10 | elite toe client slush mask meat father song ahead antique |  

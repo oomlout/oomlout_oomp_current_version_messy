@@ -122,6 +122,18 @@ arch
 scout
 sketch
 siege |  
+| bip_39_word_no_space_1 | piano |  
+| bip_39_word_no_space_10 | pianosupertwiceecologyhobbyarchscoutsketchsiegedelay |  
+| bip_39_word_no_space_11 | pianosupertwiceecologyhobbyarchscoutsketchsiegedelayhorn |  
+| bip_39_word_no_space_12 | pianosupertwiceecologyhobbyarchscoutsketchsiegedelayhornattract |  
+| bip_39_word_no_space_2 | pianosuper |  
+| bip_39_word_no_space_3 | pianosupertwice |  
+| bip_39_word_no_space_4 | pianosupertwiceecology |  
+| bip_39_word_no_space_5 | pianosupertwiceecologyhobby |  
+| bip_39_word_no_space_6 | pianosupertwiceecologyhobbyarch |  
+| bip_39_word_no_space_7 | pianosupertwiceecologyhobbyarchscout |  
+| bip_39_word_no_space_8 | pianosupertwiceecologyhobbyarchscoutsketch |  
+| bip_39_word_no_space_9 | pianosupertwiceecologyhobbyarchscoutsketchsiege |  
 | bip_39_word_space_0 | ['piano', 'super', 'twice', 'ecology', 'hobby', 'arch', 'scout', 'sketch', 'siege', 'delay', 'horn', 'attract'] |  
 | bip_39_word_space_1 | piano |  
 | bip_39_word_space_10 | piano super twice ecology hobby arch scout sketch siege delay |  

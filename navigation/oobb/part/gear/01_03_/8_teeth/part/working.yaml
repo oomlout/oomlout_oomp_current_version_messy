@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hair
   obvious
 
   dog'
+bip_39_word_no_space_1: hair
+bip_39_word_no_space_10: hairdecoratecolorhappyexpirelistignoreobviousdogdesert
+bip_39_word_no_space_11: hairdecoratecolorhappyexpirelistignoreobviousdogdeserttest
+bip_39_word_no_space_12: hairdecoratecolorhappyexpirelistignoreobviousdogdeserttestadapt
+bip_39_word_no_space_2: hairdecorate
+bip_39_word_no_space_3: hairdecoratecolor
+bip_39_word_no_space_4: hairdecoratecolorhappy
+bip_39_word_no_space_5: hairdecoratecolorhappyexpire
+bip_39_word_no_space_6: hairdecoratecolorhappyexpirelist
+bip_39_word_no_space_7: hairdecoratecolorhappyexpirelistignore
+bip_39_word_no_space_8: hairdecoratecolorhappyexpirelistignoreobvious
+bip_39_word_no_space_9: hairdecoratecolorhappyexpirelistignoreobviousdog
 bip_39_word_space_0:
 - hair
 - decorate

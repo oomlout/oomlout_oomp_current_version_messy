@@ -122,6 +122,18 @@ jelly
 spot
 little
 gas |  
+| bip_39_word_no_space_1 | switch |  
+| bip_39_word_no_space_10 | switchoftensciencepatterndovejellyspotlittlegasmedal |  
+| bip_39_word_no_space_11 | switchoftensciencepatterndovejellyspotlittlegasmedalexotic |  
+| bip_39_word_no_space_12 | switchoftensciencepatterndovejellyspotlittlegasmedalexoticarctic |  
+| bip_39_word_no_space_2 | switchoften |  
+| bip_39_word_no_space_3 | switchoftenscience |  
+| bip_39_word_no_space_4 | switchoftensciencepattern |  
+| bip_39_word_no_space_5 | switchoftensciencepatterndove |  
+| bip_39_word_no_space_6 | switchoftensciencepatterndovejelly |  
+| bip_39_word_no_space_7 | switchoftensciencepatterndovejellyspot |  
+| bip_39_word_no_space_8 | switchoftensciencepatterndovejellyspotlittle |  
+| bip_39_word_no_space_9 | switchoftensciencepatterndovejellyspotlittlegas |  
 | bip_39_word_space_0 | ['switch', 'often', 'science', 'pattern', 'dove', 'jelly', 'spot', 'little', 'gas', 'medal', 'exotic', 'arctic'] |  
 | bip_39_word_space_1 | switch |  
 | bip_39_word_space_10 | switch often science pattern dove jelly spot little gas medal |  

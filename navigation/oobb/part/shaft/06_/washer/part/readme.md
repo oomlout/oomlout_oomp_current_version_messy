@@ -122,6 +122,18 @@ view
 cool
 venue
 eternal |  
+| bip_39_word_no_space_1 | ability |  
+| bip_39_word_no_space_10 | abilitynightatompaddleinflictviewcoolvenueeternalsand |  
+| bip_39_word_no_space_11 | abilitynightatompaddleinflictviewcoolvenueeternalsandload |  
+| bip_39_word_no_space_12 | abilitynightatompaddleinflictviewcoolvenueeternalsandloadapple |  
+| bip_39_word_no_space_2 | abilitynight |  
+| bip_39_word_no_space_3 | abilitynightatom |  
+| bip_39_word_no_space_4 | abilitynightatompaddle |  
+| bip_39_word_no_space_5 | abilitynightatompaddleinflict |  
+| bip_39_word_no_space_6 | abilitynightatompaddleinflictview |  
+| bip_39_word_no_space_7 | abilitynightatompaddleinflictviewcool |  
+| bip_39_word_no_space_8 | abilitynightatompaddleinflictviewcoolvenue |  
+| bip_39_word_no_space_9 | abilitynightatompaddleinflictviewcoolvenueeternal |  
 | bip_39_word_space_0 | ['ability', 'night', 'atom', 'paddle', 'inflict', 'view', 'cool', 'venue', 'eternal', 'sand', 'load', 'apple'] |  
 | bip_39_word_space_1 | ability |  
 | bip_39_word_space_10 | ability night atom paddle inflict view cool venue eternal sand |  

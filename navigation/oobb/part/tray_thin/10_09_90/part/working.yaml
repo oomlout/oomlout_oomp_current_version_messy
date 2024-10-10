@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'install
   high
 
   knee'
+bip_39_word_no_space_1: install
+bip_39_word_no_space_10: installchieffaithcruelcouchbasicmessagehighkneemoon
+bip_39_word_no_space_11: installchieffaithcruelcouchbasicmessagehighkneemoonlaw
+bip_39_word_no_space_12: installchieffaithcruelcouchbasicmessagehighkneemoonlawatom
+bip_39_word_no_space_2: installchief
+bip_39_word_no_space_3: installchieffaith
+bip_39_word_no_space_4: installchieffaithcruel
+bip_39_word_no_space_5: installchieffaithcruelcouch
+bip_39_word_no_space_6: installchieffaithcruelcouchbasic
+bip_39_word_no_space_7: installchieffaithcruelcouchbasicmessage
+bip_39_word_no_space_8: installchieffaithcruelcouchbasicmessagehigh
+bip_39_word_no_space_9: installchieffaithcruelcouchbasicmessagehighknee
 bip_39_word_space_0:
 - install
 - chief

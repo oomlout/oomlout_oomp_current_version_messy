@@ -122,6 +122,18 @@ that
 edit
 bamboo
 anger |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideamorningpanelenergyusagethateditbambooangerclimb |  
+| bip_39_word_no_space_11 | ideamorningpanelenergyusagethateditbambooangerclimbdonkey |  
+| bip_39_word_no_space_12 | ideamorningpanelenergyusagethateditbambooangerclimbdonkeyabove |  
+| bip_39_word_no_space_2 | ideamorning |  
+| bip_39_word_no_space_3 | ideamorningpanel |  
+| bip_39_word_no_space_4 | ideamorningpanelenergy |  
+| bip_39_word_no_space_5 | ideamorningpanelenergyusage |  
+| bip_39_word_no_space_6 | ideamorningpanelenergyusagethat |  
+| bip_39_word_no_space_7 | ideamorningpanelenergyusagethatedit |  
+| bip_39_word_no_space_8 | ideamorningpanelenergyusagethateditbamboo |  
+| bip_39_word_no_space_9 | ideamorningpanelenergyusagethateditbambooanger |  
 | bip_39_word_space_0 | ['idea', 'morning', 'panel', 'energy', 'usage', 'that', 'edit', 'bamboo', 'anger', 'climb', 'donkey', 'above'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea morning panel energy usage that edit bamboo anger climb |  

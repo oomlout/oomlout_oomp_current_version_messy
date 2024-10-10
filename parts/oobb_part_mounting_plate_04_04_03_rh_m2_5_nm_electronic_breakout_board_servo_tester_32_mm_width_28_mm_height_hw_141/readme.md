@@ -122,6 +122,18 @@ quarter
 indicate
 advance
 humor |  
+| bip_39_word_no_space_1 | width |  
+| bip_39_word_no_space_10 | widthfloatretirerecycleswearquarterindicateadvancehumorprosper |  
+| bip_39_word_no_space_11 | widthfloatretirerecycleswearquarterindicateadvancehumorprosperdream |  
+| bip_39_word_no_space_12 | widthfloatretirerecycleswearquarterindicateadvancehumorprosperdreamable |  
+| bip_39_word_no_space_2 | widthfloat |  
+| bip_39_word_no_space_3 | widthfloatretire |  
+| bip_39_word_no_space_4 | widthfloatretirerecycle |  
+| bip_39_word_no_space_5 | widthfloatretirerecycleswear |  
+| bip_39_word_no_space_6 | widthfloatretirerecycleswearquarter |  
+| bip_39_word_no_space_7 | widthfloatretirerecycleswearquarterindicate |  
+| bip_39_word_no_space_8 | widthfloatretirerecycleswearquarterindicateadvance |  
+| bip_39_word_no_space_9 | widthfloatretirerecycleswearquarterindicateadvancehumor |  
 | bip_39_word_space_0 | ['width', 'float', 'retire', 'recycle', 'swear', 'quarter', 'indicate', 'advance', 'humor', 'prosper', 'dream', 'able'] |  
 | bip_39_word_space_1 | width |  
 | bip_39_word_space_10 | width float retire recycle swear quarter indicate advance humor prosper |  

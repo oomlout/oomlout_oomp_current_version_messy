@@ -122,6 +122,18 @@ dice
 poverty
 number
 jaguar |  
+| bip_39_word_no_space_1 | word |  
+| bip_39_word_no_space_10 | wordketchupcoastdeerundodicepovertynumberjaguarensure |  
+| bip_39_word_no_space_11 | wordketchupcoastdeerundodicepovertynumberjaguarensureinput |  
+| bip_39_word_no_space_12 | wordketchupcoastdeerundodicepovertynumberjaguarensureinputangle |  
+| bip_39_word_no_space_2 | wordketchup |  
+| bip_39_word_no_space_3 | wordketchupcoast |  
+| bip_39_word_no_space_4 | wordketchupcoastdeer |  
+| bip_39_word_no_space_5 | wordketchupcoastdeerundo |  
+| bip_39_word_no_space_6 | wordketchupcoastdeerundodice |  
+| bip_39_word_no_space_7 | wordketchupcoastdeerundodicepoverty |  
+| bip_39_word_no_space_8 | wordketchupcoastdeerundodicepovertynumber |  
+| bip_39_word_no_space_9 | wordketchupcoastdeerundodicepovertynumberjaguar |  
 | bip_39_word_space_0 | ['word', 'ketchup', 'coast', 'deer', 'undo', 'dice', 'poverty', 'number', 'jaguar', 'ensure', 'input', 'angle'] |  
 | bip_39_word_space_1 | word |  
 | bip_39_word_space_10 | word ketchup coast deer undo dice poverty number jaguar ensure |  

@@ -122,6 +122,18 @@ photo
 light
 frequent
 trend |  
+| bip_39_word_no_space_1 | lab |  
+| bip_39_word_no_space_10 | labharshdollnastyguessphotolightfrequenttrendjoin |  
+| bip_39_word_no_space_11 | labharshdollnastyguessphotolightfrequenttrendjointrick |  
+| bip_39_word_no_space_12 | labharshdollnastyguessphotolightfrequenttrendjointrickaunt |  
+| bip_39_word_no_space_2 | labharsh |  
+| bip_39_word_no_space_3 | labharshdoll |  
+| bip_39_word_no_space_4 | labharshdollnasty |  
+| bip_39_word_no_space_5 | labharshdollnastyguess |  
+| bip_39_word_no_space_6 | labharshdollnastyguessphoto |  
+| bip_39_word_no_space_7 | labharshdollnastyguessphotolight |  
+| bip_39_word_no_space_8 | labharshdollnastyguessphotolightfrequent |  
+| bip_39_word_no_space_9 | labharshdollnastyguessphotolightfrequenttrend |  
 | bip_39_word_space_0 | ['lab', 'harsh', 'doll', 'nasty', 'guess', 'photo', 'light', 'frequent', 'trend', 'join', 'trick', 'aunt'] |  
 | bip_39_word_space_1 | lab |  
 | bip_39_word_space_10 | lab harsh doll nasty guess photo light frequent trend join |  

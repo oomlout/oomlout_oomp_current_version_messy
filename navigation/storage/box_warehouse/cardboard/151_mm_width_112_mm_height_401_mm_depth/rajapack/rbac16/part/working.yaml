@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'canoe
   nice
 
   fiction'
+bip_39_word_no_space_1: canoe
+bip_39_word_no_space_10: canoeremovedripstreetpleasestreetleisurenicefictiontell
+bip_39_word_no_space_11: canoeremovedripstreetpleasestreetleisurenicefictiontellwage
+bip_39_word_no_space_12: canoeremovedripstreetpleasestreetleisurenicefictiontellwageabstract
+bip_39_word_no_space_2: canoeremove
+bip_39_word_no_space_3: canoeremovedrip
+bip_39_word_no_space_4: canoeremovedripstreet
+bip_39_word_no_space_5: canoeremovedripstreetplease
+bip_39_word_no_space_6: canoeremovedripstreetpleasestreet
+bip_39_word_no_space_7: canoeremovedripstreetpleasestreetleisure
+bip_39_word_no_space_8: canoeremovedripstreetpleasestreetleisurenice
+bip_39_word_no_space_9: canoeremovedripstreetpleasestreetleisurenicefiction
 bip_39_word_space_0:
 - canoe
 - remove

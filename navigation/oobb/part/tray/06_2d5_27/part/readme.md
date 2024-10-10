@@ -122,6 +122,18 @@ advance
 original
 bean
 anger |  
+| bip_39_word_no_space_1 | assault |  
+| bip_39_word_no_space_10 | assaultsurgeinjuryenhanceremainadvanceoriginalbeanangercentury |  
+| bip_39_word_no_space_11 | assaultsurgeinjuryenhanceremainadvanceoriginalbeanangercenturydefine |  
+| bip_39_word_no_space_12 | assaultsurgeinjuryenhanceremainadvanceoriginalbeanangercenturydefineattack |  
+| bip_39_word_no_space_2 | assaultsurge |  
+| bip_39_word_no_space_3 | assaultsurgeinjury |  
+| bip_39_word_no_space_4 | assaultsurgeinjuryenhance |  
+| bip_39_word_no_space_5 | assaultsurgeinjuryenhanceremain |  
+| bip_39_word_no_space_6 | assaultsurgeinjuryenhanceremainadvance |  
+| bip_39_word_no_space_7 | assaultsurgeinjuryenhanceremainadvanceoriginal |  
+| bip_39_word_no_space_8 | assaultsurgeinjuryenhanceremainadvanceoriginalbean |  
+| bip_39_word_no_space_9 | assaultsurgeinjuryenhanceremainadvanceoriginalbeananger |  
 | bip_39_word_space_0 | ['assault', 'surge', 'injury', 'enhance', 'remain', 'advance', 'original', 'bean', 'anger', 'century', 'define', 'attack'] |  
 | bip_39_word_space_1 | assault |  
 | bip_39_word_space_10 | assault surge injury enhance remain advance original bean anger century |  

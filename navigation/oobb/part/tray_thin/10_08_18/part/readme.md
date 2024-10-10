@@ -122,6 +122,18 @@ black
 album
 march
 pave |  
+| bip_39_word_no_space_1 | success |  
+| bip_39_word_no_space_10 | successfunimitatechatfinishblackalbummarchpaveinmate |  
+| bip_39_word_no_space_11 | successfunimitatechatfinishblackalbummarchpaveinmateterm |  
+| bip_39_word_no_space_12 | successfunimitatechatfinishblackalbummarchpaveinmatetermapril |  
+| bip_39_word_no_space_2 | successfun |  
+| bip_39_word_no_space_3 | successfunimitate |  
+| bip_39_word_no_space_4 | successfunimitatechat |  
+| bip_39_word_no_space_5 | successfunimitatechatfinish |  
+| bip_39_word_no_space_6 | successfunimitatechatfinishblack |  
+| bip_39_word_no_space_7 | successfunimitatechatfinishblackalbum |  
+| bip_39_word_no_space_8 | successfunimitatechatfinishblackalbummarch |  
+| bip_39_word_no_space_9 | successfunimitatechatfinishblackalbummarchpave |  
 | bip_39_word_space_0 | ['success', 'fun', 'imitate', 'chat', 'finish', 'black', 'album', 'march', 'pave', 'inmate', 'term', 'april'] |  
 | bip_39_word_space_1 | success |  
 | bip_39_word_space_10 | success fun imitate chat finish black album march pave inmate |  

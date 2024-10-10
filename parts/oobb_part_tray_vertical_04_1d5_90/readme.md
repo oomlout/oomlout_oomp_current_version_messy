@@ -122,6 +122,18 @@ fabric
 kick
 empower
 duty |  
+| bip_39_word_no_space_1 | angle |  
+| bip_39_word_no_space_10 | anglefrequentdividelavasixfabrickickempowerdutyinhale |  
+| bip_39_word_no_space_11 | anglefrequentdividelavasixfabrickickempowerdutyinhalelottery |  
+| bip_39_word_no_space_12 | anglefrequentdividelavasixfabrickickempowerdutyinhalelotteryaccident |  
+| bip_39_word_no_space_2 | anglefrequent |  
+| bip_39_word_no_space_3 | anglefrequentdivide |  
+| bip_39_word_no_space_4 | anglefrequentdividelava |  
+| bip_39_word_no_space_5 | anglefrequentdividelavasix |  
+| bip_39_word_no_space_6 | anglefrequentdividelavasixfabric |  
+| bip_39_word_no_space_7 | anglefrequentdividelavasixfabrickick |  
+| bip_39_word_no_space_8 | anglefrequentdividelavasixfabrickickempower |  
+| bip_39_word_no_space_9 | anglefrequentdividelavasixfabrickickempowerduty |  
 | bip_39_word_space_0 | ['angle', 'frequent', 'divide', 'lava', 'six', 'fabric', 'kick', 'empower', 'duty', 'inhale', 'lottery', 'accident'] |  
 | bip_39_word_space_1 | angle |  
 | bip_39_word_space_10 | angle frequent divide lava six fabric kick empower duty inhale |  

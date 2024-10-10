@@ -122,6 +122,18 @@ school
 ship
 alcohol
 chief |  
+| bip_39_word_no_space_1 | swear |  
+| bip_39_word_no_space_10 | swearalsomarginchaosgravityschoolshipalcoholchiefleader |  
+| bip_39_word_no_space_11 | swearalsomarginchaosgravityschoolshipalcoholchiefleaderexpose |  
+| bip_39_word_no_space_12 | swearalsomarginchaosgravityschoolshipalcoholchiefleaderexposeargue |  
+| bip_39_word_no_space_2 | swearalso |  
+| bip_39_word_no_space_3 | swearalsomargin |  
+| bip_39_word_no_space_4 | swearalsomarginchaos |  
+| bip_39_word_no_space_5 | swearalsomarginchaosgravity |  
+| bip_39_word_no_space_6 | swearalsomarginchaosgravityschool |  
+| bip_39_word_no_space_7 | swearalsomarginchaosgravityschoolship |  
+| bip_39_word_no_space_8 | swearalsomarginchaosgravityschoolshipalcohol |  
+| bip_39_word_no_space_9 | swearalsomarginchaosgravityschoolshipalcoholchief |  
 | bip_39_word_space_0 | ['swear', 'also', 'margin', 'chaos', 'gravity', 'school', 'ship', 'alcohol', 'chief', 'leader', 'expose', 'argue'] |  
 | bip_39_word_space_1 | swear |  
 | bip_39_word_space_10 | swear also margin chaos gravity school ship alcohol chief leader |  

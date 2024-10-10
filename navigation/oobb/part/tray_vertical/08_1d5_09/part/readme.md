@@ -122,6 +122,18 @@ portion
 employ
 curve
 safe |  
+| bip_39_word_no_space_1 | spoil |  
+| bip_39_word_no_space_10 | spoilhurtleftraccoonflowerportionemploycurvesafeticket |  
+| bip_39_word_no_space_11 | spoilhurtleftraccoonflowerportionemploycurvesafeticketreveal |  
+| bip_39_word_no_space_12 | spoilhurtleftraccoonflowerportionemploycurvesafeticketrevealalley |  
+| bip_39_word_no_space_2 | spoilhurt |  
+| bip_39_word_no_space_3 | spoilhurtleft |  
+| bip_39_word_no_space_4 | spoilhurtleftraccoon |  
+| bip_39_word_no_space_5 | spoilhurtleftraccoonflower |  
+| bip_39_word_no_space_6 | spoilhurtleftraccoonflowerportion |  
+| bip_39_word_no_space_7 | spoilhurtleftraccoonflowerportionemploy |  
+| bip_39_word_no_space_8 | spoilhurtleftraccoonflowerportionemploycurve |  
+| bip_39_word_no_space_9 | spoilhurtleftraccoonflowerportionemploycurvesafe |  
 | bip_39_word_space_0 | ['spoil', 'hurt', 'left', 'raccoon', 'flower', 'portion', 'employ', 'curve', 'safe', 'ticket', 'reveal', 'alley'] |  
 | bip_39_word_space_1 | spoil |  
 | bip_39_word_space_10 | spoil hurt left raccoon flower portion employ curve safe ticket |  

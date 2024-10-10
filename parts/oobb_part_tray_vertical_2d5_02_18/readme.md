@@ -122,6 +122,18 @@ super
 quick
 setup
 enforce |  
+| bip_39_word_no_space_1 | wolf |  
+| bip_39_word_no_space_10 | wolfelephantpipesmartpurposesuperquicksetupenforcecatalog |  
+| bip_39_word_no_space_11 | wolfelephantpipesmartpurposesuperquicksetupenforcecatalogleaf |  
+| bip_39_word_no_space_12 | wolfelephantpipesmartpurposesuperquicksetupenforcecatalogleafactor |  
+| bip_39_word_no_space_2 | wolfelephant |  
+| bip_39_word_no_space_3 | wolfelephantpipe |  
+| bip_39_word_no_space_4 | wolfelephantpipesmart |  
+| bip_39_word_no_space_5 | wolfelephantpipesmartpurpose |  
+| bip_39_word_no_space_6 | wolfelephantpipesmartpurposesuper |  
+| bip_39_word_no_space_7 | wolfelephantpipesmartpurposesuperquick |  
+| bip_39_word_no_space_8 | wolfelephantpipesmartpurposesuperquicksetup |  
+| bip_39_word_no_space_9 | wolfelephantpipesmartpurposesuperquicksetupenforce |  
 | bip_39_word_space_0 | ['wolf', 'elephant', 'pipe', 'smart', 'purpose', 'super', 'quick', 'setup', 'enforce', 'catalog', 'leaf', 'actor'] |  
 | bip_39_word_space_1 | wolf |  
 | bip_39_word_space_10 | wolf elephant pipe smart purpose super quick setup enforce catalog |  

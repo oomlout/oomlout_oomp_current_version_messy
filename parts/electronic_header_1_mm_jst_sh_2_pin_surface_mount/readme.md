@@ -122,6 +122,18 @@ photo
 pony
 repair
 rude |  
+| bip_39_word_no_space_1 | course |  
+| bip_39_word_no_space_10 | courseimmensebasicpowershortphotoponyrepairrudetown |  
+| bip_39_word_no_space_11 | courseimmensebasicpowershortphotoponyrepairrudetownonce |  
+| bip_39_word_no_space_12 | courseimmensebasicpowershortphotoponyrepairrudetownonceact |  
+| bip_39_word_no_space_2 | courseimmense |  
+| bip_39_word_no_space_3 | courseimmensebasic |  
+| bip_39_word_no_space_4 | courseimmensebasicpower |  
+| bip_39_word_no_space_5 | courseimmensebasicpowershort |  
+| bip_39_word_no_space_6 | courseimmensebasicpowershortphoto |  
+| bip_39_word_no_space_7 | courseimmensebasicpowershortphotopony |  
+| bip_39_word_no_space_8 | courseimmensebasicpowershortphotoponyrepair |  
+| bip_39_word_no_space_9 | courseimmensebasicpowershortphotoponyrepairrude |  
 | bip_39_word_space_0 | ['course', 'immense', 'basic', 'power', 'short', 'photo', 'pony', 'repair', 'rude', 'town', 'once', 'act'] |  
 | bip_39_word_space_1 | course |  
 | bip_39_word_space_10 | course immense basic power short photo pony repair rude town |  

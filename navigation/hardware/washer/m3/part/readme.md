@@ -122,6 +122,18 @@ couple
 snap
 antenna
 shrug |  
+| bip_39_word_no_space_1 | strategy |  
+| bip_39_word_no_space_10 | strategypaymentburstbladestrikecouplesnapantennashrugswallow |  
+| bip_39_word_no_space_11 | strategypaymentburstbladestrikecouplesnapantennashrugswallowbubble |  
+| bip_39_word_no_space_12 | strategypaymentburstbladestrikecouplesnapantennashrugswallowbubblealready |  
+| bip_39_word_no_space_2 | strategypayment |  
+| bip_39_word_no_space_3 | strategypaymentburst |  
+| bip_39_word_no_space_4 | strategypaymentburstblade |  
+| bip_39_word_no_space_5 | strategypaymentburstbladestrike |  
+| bip_39_word_no_space_6 | strategypaymentburstbladestrikecouple |  
+| bip_39_word_no_space_7 | strategypaymentburstbladestrikecouplesnap |  
+| bip_39_word_no_space_8 | strategypaymentburstbladestrikecouplesnapantenna |  
+| bip_39_word_no_space_9 | strategypaymentburstbladestrikecouplesnapantennashrug |  
 | bip_39_word_space_0 | ['strategy', 'payment', 'burst', 'blade', 'strike', 'couple', 'snap', 'antenna', 'shrug', 'swallow', 'bubble', 'already'] |  
 | bip_39_word_space_1 | strategy |  
 | bip_39_word_space_10 | strategy payment burst blade strike couple snap antenna shrug swallow |  

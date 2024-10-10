@@ -122,6 +122,18 @@ helmet
 shoulder
 sort
 pistol |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagesworddashsessionsaucehelmetshouldersortpistolhat |  
+| bip_39_word_no_space_11 | vintagesworddashsessionsaucehelmetshouldersortpistolhatrange |  
+| bip_39_word_no_space_12 | vintagesworddashsessionsaucehelmetshouldersortpistolhatrangeany |  
+| bip_39_word_no_space_2 | vintagesword |  
+| bip_39_word_no_space_3 | vintagesworddash |  
+| bip_39_word_no_space_4 | vintagesworddashsession |  
+| bip_39_word_no_space_5 | vintagesworddashsessionsauce |  
+| bip_39_word_no_space_6 | vintagesworddashsessionsaucehelmet |  
+| bip_39_word_no_space_7 | vintagesworddashsessionsaucehelmetshoulder |  
+| bip_39_word_no_space_8 | vintagesworddashsessionsaucehelmetshouldersort |  
+| bip_39_word_no_space_9 | vintagesworddashsessionsaucehelmetshouldersortpistol |  
 | bip_39_word_space_0 | ['vintage', 'sword', 'dash', 'session', 'sauce', 'helmet', 'shoulder', 'sort', 'pistol', 'hat', 'range', 'any'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage sword dash session sauce helmet shoulder sort pistol hat |  

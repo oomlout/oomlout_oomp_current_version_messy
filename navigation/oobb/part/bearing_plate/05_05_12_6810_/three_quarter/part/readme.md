@@ -122,6 +122,18 @@ pepper
 brave
 paper
 syrup |  
+| bip_39_word_no_space_1 | mansion |  
+| bip_39_word_no_space_10 | mansionborrowqualitywildarmedpepperbravepapersyrupvoid |  
+| bip_39_word_no_space_11 | mansionborrowqualitywildarmedpepperbravepapersyrupvoidslender |  
+| bip_39_word_no_space_12 | mansionborrowqualitywildarmedpepperbravepapersyrupvoidslenderarmor |  
+| bip_39_word_no_space_2 | mansionborrow |  
+| bip_39_word_no_space_3 | mansionborrowquality |  
+| bip_39_word_no_space_4 | mansionborrowqualitywild |  
+| bip_39_word_no_space_5 | mansionborrowqualitywildarmed |  
+| bip_39_word_no_space_6 | mansionborrowqualitywildarmedpepper |  
+| bip_39_word_no_space_7 | mansionborrowqualitywildarmedpepperbrave |  
+| bip_39_word_no_space_8 | mansionborrowqualitywildarmedpepperbravepaper |  
+| bip_39_word_no_space_9 | mansionborrowqualitywildarmedpepperbravepapersyrup |  
 | bip_39_word_space_0 | ['mansion', 'borrow', 'quality', 'wild', 'armed', 'pepper', 'brave', 'paper', 'syrup', 'void', 'slender', 'armor'] |  
 | bip_39_word_space_1 | mansion |  
 | bip_39_word_space_10 | mansion borrow quality wild armed pepper brave paper syrup void |  

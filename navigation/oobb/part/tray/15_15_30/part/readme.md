@@ -122,6 +122,18 @@ alarm
 bless
 sort
 canoe |  
+| bip_39_word_no_space_1 | put |  
+| bip_39_word_no_space_10 | puttwistfrownuniqueerasealarmblesssortcanoechunk |  
+| bip_39_word_no_space_11 | puttwistfrownuniqueerasealarmblesssortcanoechunkvolcano |  
+| bip_39_word_no_space_12 | puttwistfrownuniqueerasealarmblesssortcanoechunkvolcanoanalyst |  
+| bip_39_word_no_space_2 | puttwist |  
+| bip_39_word_no_space_3 | puttwistfrown |  
+| bip_39_word_no_space_4 | puttwistfrownunique |  
+| bip_39_word_no_space_5 | puttwistfrownuniqueerase |  
+| bip_39_word_no_space_6 | puttwistfrownuniqueerasealarm |  
+| bip_39_word_no_space_7 | puttwistfrownuniqueerasealarmbless |  
+| bip_39_word_no_space_8 | puttwistfrownuniqueerasealarmblesssort |  
+| bip_39_word_no_space_9 | puttwistfrownuniqueerasealarmblesssortcanoe |  
 | bip_39_word_space_0 | ['put', 'twist', 'frown', 'unique', 'erase', 'alarm', 'bless', 'sort', 'canoe', 'chunk', 'volcano', 'analyst'] |  
 | bip_39_word_space_1 | put |  
 | bip_39_word_space_10 | put twist frown unique erase alarm bless sort canoe chunk |  

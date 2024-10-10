@@ -122,6 +122,18 @@ library
 regular
 creek
 snake |  
+| bip_39_word_no_space_1 | celery |  
+| bip_39_word_no_space_10 | celerymeritsameboilfrownlibraryregularcreeksnakereopen |  
+| bip_39_word_no_space_11 | celerymeritsameboilfrownlibraryregularcreeksnakereopenwidth |  
+| bip_39_word_no_space_12 | celerymeritsameboilfrownlibraryregularcreeksnakereopenwidthabove |  
+| bip_39_word_no_space_2 | celerymerit |  
+| bip_39_word_no_space_3 | celerymeritsame |  
+| bip_39_word_no_space_4 | celerymeritsameboil |  
+| bip_39_word_no_space_5 | celerymeritsameboilfrown |  
+| bip_39_word_no_space_6 | celerymeritsameboilfrownlibrary |  
+| bip_39_word_no_space_7 | celerymeritsameboilfrownlibraryregular |  
+| bip_39_word_no_space_8 | celerymeritsameboilfrownlibraryregularcreek |  
+| bip_39_word_no_space_9 | celerymeritsameboilfrownlibraryregularcreeksnake |  
 | bip_39_word_space_0 | ['celery', 'merit', 'same', 'boil', 'frown', 'library', 'regular', 'creek', 'snake', 'reopen', 'width', 'above'] |  
 | bip_39_word_space_1 | celery |  
 | bip_39_word_space_10 | celery merit same boil frown library regular creek snake reopen |  

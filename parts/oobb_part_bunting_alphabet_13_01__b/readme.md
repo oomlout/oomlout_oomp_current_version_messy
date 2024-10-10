@@ -122,6 +122,18 @@ arrange
 near
 invite
 defense |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildmosquitostockshedswimarrangenearinvitedefensefit |  
+| bip_39_word_no_space_11 | rebuildmosquitostockshedswimarrangenearinvitedefensefitindustry |  
+| bip_39_word_no_space_12 | rebuildmosquitostockshedswimarrangenearinvitedefensefitindustryalcohol |  
+| bip_39_word_no_space_2 | rebuildmosquito |  
+| bip_39_word_no_space_3 | rebuildmosquitostock |  
+| bip_39_word_no_space_4 | rebuildmosquitostockshed |  
+| bip_39_word_no_space_5 | rebuildmosquitostockshedswim |  
+| bip_39_word_no_space_6 | rebuildmosquitostockshedswimarrange |  
+| bip_39_word_no_space_7 | rebuildmosquitostockshedswimarrangenear |  
+| bip_39_word_no_space_8 | rebuildmosquitostockshedswimarrangenearinvite |  
+| bip_39_word_no_space_9 | rebuildmosquitostockshedswimarrangenearinvitedefense |  
 | bip_39_word_space_0 | ['rebuild', 'mosquito', 'stock', 'shed', 'swim', 'arrange', 'near', 'invite', 'defense', 'fit', 'industry', 'alcohol'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild mosquito stock shed swim arrange near invite defense fit |  

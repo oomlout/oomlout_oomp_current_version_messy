@@ -122,6 +122,18 @@ below
 cricket
 medal
 thrive |  
+| bip_39_word_no_space_1 | coral |  
+| bip_39_word_no_space_10 | coraltossprovideintofieldbelowcricketmedalthrivewood |  
+| bip_39_word_no_space_11 | coraltossprovideintofieldbelowcricketmedalthrivewoodact |  
+| bip_39_word_no_space_12 | coraltossprovideintofieldbelowcricketmedalthrivewoodactarmed |  
+| bip_39_word_no_space_2 | coraltoss |  
+| bip_39_word_no_space_3 | coraltossprovide |  
+| bip_39_word_no_space_4 | coraltossprovideinto |  
+| bip_39_word_no_space_5 | coraltossprovideintofield |  
+| bip_39_word_no_space_6 | coraltossprovideintofieldbelow |  
+| bip_39_word_no_space_7 | coraltossprovideintofieldbelowcricket |  
+| bip_39_word_no_space_8 | coraltossprovideintofieldbelowcricketmedal |  
+| bip_39_word_no_space_9 | coraltossprovideintofieldbelowcricketmedalthrive |  
 | bip_39_word_space_0 | ['coral', 'toss', 'provide', 'into', 'field', 'below', 'cricket', 'medal', 'thrive', 'wood', 'act', 'armed'] |  
 | bip_39_word_space_1 | coral |  
 | bip_39_word_space_10 | coral toss provide into field below cricket medal thrive wood |  

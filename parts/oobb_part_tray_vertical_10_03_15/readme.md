@@ -122,6 +122,18 @@ benefit
 diary
 memory
 letter |  
+| bip_39_word_no_space_1 | antenna |  
+| bip_39_word_no_space_10 | antennavicioussaddlespraypaperbenefitdiarymemorylettergrape |  
+| bip_39_word_no_space_11 | antennavicioussaddlespraypaperbenefitdiarymemorylettergrapeimpulse |  
+| bip_39_word_no_space_12 | antennavicioussaddlespraypaperbenefitdiarymemorylettergrapeimpulsearmor |  
+| bip_39_word_no_space_2 | antennavicious |  
+| bip_39_word_no_space_3 | antennavicioussaddle |  
+| bip_39_word_no_space_4 | antennavicioussaddlespray |  
+| bip_39_word_no_space_5 | antennavicioussaddlespraypaper |  
+| bip_39_word_no_space_6 | antennavicioussaddlespraypaperbenefit |  
+| bip_39_word_no_space_7 | antennavicioussaddlespraypaperbenefitdiary |  
+| bip_39_word_no_space_8 | antennavicioussaddlespraypaperbenefitdiarymemory |  
+| bip_39_word_no_space_9 | antennavicioussaddlespraypaperbenefitdiarymemoryletter |  
 | bip_39_word_space_0 | ['antenna', 'vicious', 'saddle', 'spray', 'paper', 'benefit', 'diary', 'memory', 'letter', 'grape', 'impulse', 'armor'] |  
 | bip_39_word_space_1 | antenna |  
 | bip_39_word_space_10 | antenna vicious saddle spray paper benefit diary memory letter grape |  

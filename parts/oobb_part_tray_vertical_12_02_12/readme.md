@@ -122,6 +122,18 @@ trip
 record
 pulse
 pony |  
+| bip_39_word_no_space_1 | labor |  
+| bip_39_word_no_space_10 | laborsafecouplehenbittertriprecordpulseponyslender |  
+| bip_39_word_no_space_11 | laborsafecouplehenbittertriprecordpulseponyslendernoodle |  
+| bip_39_word_no_space_12 | laborsafecouplehenbittertriprecordpulseponyslendernoodlealmost |  
+| bip_39_word_no_space_2 | laborsafe |  
+| bip_39_word_no_space_3 | laborsafecouple |  
+| bip_39_word_no_space_4 | laborsafecouplehen |  
+| bip_39_word_no_space_5 | laborsafecouplehenbitter |  
+| bip_39_word_no_space_6 | laborsafecouplehenbittertrip |  
+| bip_39_word_no_space_7 | laborsafecouplehenbittertriprecord |  
+| bip_39_word_no_space_8 | laborsafecouplehenbittertriprecordpulse |  
+| bip_39_word_no_space_9 | laborsafecouplehenbittertriprecordpulsepony |  
 | bip_39_word_space_0 | ['labor', 'safe', 'couple', 'hen', 'bitter', 'trip', 'record', 'pulse', 'pony', 'slender', 'noodle', 'almost'] |  
 | bip_39_word_space_1 | labor |  
 | bip_39_word_space_10 | labor safe couple hen bitter trip record pulse pony slender |  

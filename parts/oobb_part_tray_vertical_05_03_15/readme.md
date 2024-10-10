@@ -122,6 +122,18 @@ reunion
 cattle
 struggle
 gaze |  
+| bip_39_word_no_space_1 | gallery |  
+| bip_39_word_no_space_10 | gallerywolfuntilneedbannerreunioncattlestrugglegazetrade |  
+| bip_39_word_no_space_11 | gallerywolfuntilneedbannerreunioncattlestrugglegazetradedouble |  
+| bip_39_word_no_space_12 | gallerywolfuntilneedbannerreunioncattlestrugglegazetradedoubleauction |  
+| bip_39_word_no_space_2 | gallerywolf |  
+| bip_39_word_no_space_3 | gallerywolfuntil |  
+| bip_39_word_no_space_4 | gallerywolfuntilneed |  
+| bip_39_word_no_space_5 | gallerywolfuntilneedbanner |  
+| bip_39_word_no_space_6 | gallerywolfuntilneedbannerreunion |  
+| bip_39_word_no_space_7 | gallerywolfuntilneedbannerreunioncattle |  
+| bip_39_word_no_space_8 | gallerywolfuntilneedbannerreunioncattlestruggle |  
+| bip_39_word_no_space_9 | gallerywolfuntilneedbannerreunioncattlestrugglegaze |  
 | bip_39_word_space_0 | ['gallery', 'wolf', 'until', 'need', 'banner', 'reunion', 'cattle', 'struggle', 'gaze', 'trade', 'double', 'auction'] |  
 | bip_39_word_space_1 | gallery |  
 | bip_39_word_space_10 | gallery wolf until need banner reunion cattle struggle gaze trade |  

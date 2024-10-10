@@ -122,6 +122,18 @@ torch
 school
 high
 able |  
+| bip_39_word_no_space_1 | erupt |  
+| bip_39_word_no_space_10 | eruptdivorceburgertuitionobservetorchschoolhighablespider |  
+| bip_39_word_no_space_11 | eruptdivorceburgertuitionobservetorchschoolhighablespiderbrave |  
+| bip_39_word_no_space_12 | eruptdivorceburgertuitionobservetorchschoolhighablespiderbravealways |  
+| bip_39_word_no_space_2 | eruptdivorce |  
+| bip_39_word_no_space_3 | eruptdivorceburger |  
+| bip_39_word_no_space_4 | eruptdivorceburgertuition |  
+| bip_39_word_no_space_5 | eruptdivorceburgertuitionobserve |  
+| bip_39_word_no_space_6 | eruptdivorceburgertuitionobservetorch |  
+| bip_39_word_no_space_7 | eruptdivorceburgertuitionobservetorchschool |  
+| bip_39_word_no_space_8 | eruptdivorceburgertuitionobservetorchschoolhigh |  
+| bip_39_word_no_space_9 | eruptdivorceburgertuitionobservetorchschoolhighable |  
 | bip_39_word_space_0 | ['erupt', 'divorce', 'burger', 'tuition', 'observe', 'torch', 'school', 'high', 'able', 'spider', 'brave', 'always'] |  
 | bip_39_word_space_1 | erupt |  
 | bip_39_word_space_10 | erupt divorce burger tuition observe torch school high able spider |  

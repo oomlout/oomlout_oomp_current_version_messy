@@ -122,6 +122,18 @@ idle
 inspire
 document
 people |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circlegrassdisplayboardgainidleinspiredocumentpeoplelive |  
+| bip_39_word_no_space_11 | circlegrassdisplayboardgainidleinspiredocumentpeopleliveresemble |  
+| bip_39_word_no_space_12 | circlegrassdisplayboardgainidleinspiredocumentpeopleliveresembleatom |  
+| bip_39_word_no_space_2 | circlegrass |  
+| bip_39_word_no_space_3 | circlegrassdisplay |  
+| bip_39_word_no_space_4 | circlegrassdisplayboard |  
+| bip_39_word_no_space_5 | circlegrassdisplayboardgain |  
+| bip_39_word_no_space_6 | circlegrassdisplayboardgainidle |  
+| bip_39_word_no_space_7 | circlegrassdisplayboardgainidleinspire |  
+| bip_39_word_no_space_8 | circlegrassdisplayboardgainidleinspiredocument |  
+| bip_39_word_no_space_9 | circlegrassdisplayboardgainidleinspiredocumentpeople |  
 | bip_39_word_space_0 | ['circle', 'grass', 'display', 'board', 'gain', 'idle', 'inspire', 'document', 'people', 'live', 'resemble', 'atom'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle grass display board gain idle inspire document people live |  

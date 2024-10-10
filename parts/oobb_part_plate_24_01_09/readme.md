@@ -122,6 +122,18 @@ repeat
 clutch
 company
 shoot |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moonrubberdevotetokencityrepeatclutchcompanyshoothub |  
+| bip_39_word_no_space_11 | moonrubberdevotetokencityrepeatclutchcompanyshoothubfix |  
+| bip_39_word_no_space_12 | moonrubberdevotetokencityrepeatclutchcompanyshoothubfixalbum |  
+| bip_39_word_no_space_2 | moonrubber |  
+| bip_39_word_no_space_3 | moonrubberdevote |  
+| bip_39_word_no_space_4 | moonrubberdevotetoken |  
+| bip_39_word_no_space_5 | moonrubberdevotetokencity |  
+| bip_39_word_no_space_6 | moonrubberdevotetokencityrepeat |  
+| bip_39_word_no_space_7 | moonrubberdevotetokencityrepeatclutch |  
+| bip_39_word_no_space_8 | moonrubberdevotetokencityrepeatclutchcompany |  
+| bip_39_word_no_space_9 | moonrubberdevotetokencityrepeatclutchcompanyshoot |  
 | bip_39_word_space_0 | ['moon', 'rubber', 'devote', 'token', 'city', 'repeat', 'clutch', 'company', 'shoot', 'hub', 'fix', 'album'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon rubber devote token city repeat clutch company shoot hub |  

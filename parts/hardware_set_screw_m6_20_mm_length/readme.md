@@ -122,6 +122,18 @@ include
 angry
 shallow
 bracket |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshdetectenterviciousclerkincludeangryshallowbracketshallow |  
+| bip_39_word_no_space_11 | freshdetectenterviciousclerkincludeangryshallowbracketshallowvivid |  
+| bip_39_word_no_space_12 | freshdetectenterviciousclerkincludeangryshallowbracketshallowvividarrive |  
+| bip_39_word_no_space_2 | freshdetect |  
+| bip_39_word_no_space_3 | freshdetectenter |  
+| bip_39_word_no_space_4 | freshdetectentervicious |  
+| bip_39_word_no_space_5 | freshdetectenterviciousclerk |  
+| bip_39_word_no_space_6 | freshdetectenterviciousclerkinclude |  
+| bip_39_word_no_space_7 | freshdetectenterviciousclerkincludeangry |  
+| bip_39_word_no_space_8 | freshdetectenterviciousclerkincludeangryshallow |  
+| bip_39_word_no_space_9 | freshdetectenterviciousclerkincludeangryshallowbracket |  
 | bip_39_word_space_0 | ['fresh', 'detect', 'enter', 'vicious', 'clerk', 'include', 'angry', 'shallow', 'bracket', 'shallow', 'vivid', 'arrive'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh detect enter vicious clerk include angry shallow bracket shallow |  

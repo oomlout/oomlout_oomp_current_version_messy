@@ -122,6 +122,18 @@ attack
 gas
 sheriff
 math |  
+| bip_39_word_no_space_1 | expand |  
+| bip_39_word_no_space_10 | expandpeoplecrunchevilviolinattackgassheriffmathrender |  
+| bip_39_word_no_space_11 | expandpeoplecrunchevilviolinattackgassheriffmathrenderpenalty |  
+| bip_39_word_no_space_12 | expandpeoplecrunchevilviolinattackgassheriffmathrenderpenaltyagain |  
+| bip_39_word_no_space_2 | expandpeople |  
+| bip_39_word_no_space_3 | expandpeoplecrunch |  
+| bip_39_word_no_space_4 | expandpeoplecrunchevil |  
+| bip_39_word_no_space_5 | expandpeoplecrunchevilviolin |  
+| bip_39_word_no_space_6 | expandpeoplecrunchevilviolinattack |  
+| bip_39_word_no_space_7 | expandpeoplecrunchevilviolinattackgas |  
+| bip_39_word_no_space_8 | expandpeoplecrunchevilviolinattackgassheriff |  
+| bip_39_word_no_space_9 | expandpeoplecrunchevilviolinattackgassheriffmath |  
 | bip_39_word_space_0 | ['expand', 'people', 'crunch', 'evil', 'violin', 'attack', 'gas', 'sheriff', 'math', 'render', 'penalty', 'again'] |  
 | bip_39_word_space_1 | expand |  
 | bip_39_word_space_10 | expand people crunch evil violin attack gas sheriff math render |  

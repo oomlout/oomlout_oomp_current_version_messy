@@ -122,6 +122,18 @@ visa
 exercise
 extra
 present |  
+| bip_39_word_no_space_1 | vibrant |  
+| bip_39_word_no_space_10 | vibrantindoorminutegolduppervisaexerciseextrapresentjunk |  
+| bip_39_word_no_space_11 | vibrantindoorminutegolduppervisaexerciseextrapresentjunkarrange |  
+| bip_39_word_no_space_12 | vibrantindoorminutegolduppervisaexerciseextrapresentjunkarrangearrest |  
+| bip_39_word_no_space_2 | vibrantindoor |  
+| bip_39_word_no_space_3 | vibrantindoorminute |  
+| bip_39_word_no_space_4 | vibrantindoorminutegold |  
+| bip_39_word_no_space_5 | vibrantindoorminutegoldupper |  
+| bip_39_word_no_space_6 | vibrantindoorminutegolduppervisa |  
+| bip_39_word_no_space_7 | vibrantindoorminutegolduppervisaexercise |  
+| bip_39_word_no_space_8 | vibrantindoorminutegolduppervisaexerciseextra |  
+| bip_39_word_no_space_9 | vibrantindoorminutegolduppervisaexerciseextrapresent |  
 | bip_39_word_space_0 | ['vibrant', 'indoor', 'minute', 'gold', 'upper', 'visa', 'exercise', 'extra', 'present', 'junk', 'arrange', 'arrest'] |  
 | bip_39_word_space_1 | vibrant |  
 | bip_39_word_space_10 | vibrant indoor minute gold upper visa exercise extra present junk |  

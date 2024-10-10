@@ -122,6 +122,18 @@ surprise
 attend
 void
 convince |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | hensummerobeyrepaircruelsurpriseattendvoidconvinceconnect |  
+| bip_39_word_no_space_11 | hensummerobeyrepaircruelsurpriseattendvoidconvinceconnecttissue |  
+| bip_39_word_no_space_12 | hensummerobeyrepaircruelsurpriseattendvoidconvinceconnecttissueair |  
+| bip_39_word_no_space_2 | hensummer |  
+| bip_39_word_no_space_3 | hensummerobey |  
+| bip_39_word_no_space_4 | hensummerobeyrepair |  
+| bip_39_word_no_space_5 | hensummerobeyrepaircruel |  
+| bip_39_word_no_space_6 | hensummerobeyrepaircruelsurprise |  
+| bip_39_word_no_space_7 | hensummerobeyrepaircruelsurpriseattend |  
+| bip_39_word_no_space_8 | hensummerobeyrepaircruelsurpriseattendvoid |  
+| bip_39_word_no_space_9 | hensummerobeyrepaircruelsurpriseattendvoidconvince |  
 | bip_39_word_space_0 | ['hen', 'summer', 'obey', 'repair', 'cruel', 'surprise', 'attend', 'void', 'convince', 'connect', 'tissue', 'air'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen summer obey repair cruel surprise attend void convince connect |  

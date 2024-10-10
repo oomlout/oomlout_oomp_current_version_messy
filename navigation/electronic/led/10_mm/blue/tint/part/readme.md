@@ -122,6 +122,18 @@ define
 attract
 dismiss
 combine |  
+| bip_39_word_no_space_1 | space |  
+| bip_39_word_no_space_10 | spacevacantsiegespeedcategorydefineattractdismisscombineaverage |  
+| bip_39_word_no_space_11 | spacevacantsiegespeedcategorydefineattractdismisscombineaveragelawn |  
+| bip_39_word_no_space_12 | spacevacantsiegespeedcategorydefineattractdismisscombineaveragelawnart |  
+| bip_39_word_no_space_2 | spacevacant |  
+| bip_39_word_no_space_3 | spacevacantsiege |  
+| bip_39_word_no_space_4 | spacevacantsiegespeed |  
+| bip_39_word_no_space_5 | spacevacantsiegespeedcategory |  
+| bip_39_word_no_space_6 | spacevacantsiegespeedcategorydefine |  
+| bip_39_word_no_space_7 | spacevacantsiegespeedcategorydefineattract |  
+| bip_39_word_no_space_8 | spacevacantsiegespeedcategorydefineattractdismiss |  
+| bip_39_word_no_space_9 | spacevacantsiegespeedcategorydefineattractdismisscombine |  
 | bip_39_word_space_0 | ['space', 'vacant', 'siege', 'speed', 'category', 'define', 'attract', 'dismiss', 'combine', 'average', 'lawn', 'art'] |  
 | bip_39_word_space_1 | space |  
 | bip_39_word_space_10 | space vacant siege speed category define attract dismiss combine average |  

@@ -122,6 +122,18 @@ force
 depth
 vibrant
 bacon |  
+| bip_39_word_no_space_1 | inquiry |  
+| bip_39_word_no_space_10 | inquiryfogaccountalertsuspectforcedepthvibrantbaconapril |  
+| bip_39_word_no_space_11 | inquiryfogaccountalertsuspectforcedepthvibrantbaconaprilstairs |  
+| bip_39_word_no_space_12 | inquiryfogaccountalertsuspectforcedepthvibrantbaconaprilstairsartist |  
+| bip_39_word_no_space_2 | inquiryfog |  
+| bip_39_word_no_space_3 | inquiryfogaccount |  
+| bip_39_word_no_space_4 | inquiryfogaccountalert |  
+| bip_39_word_no_space_5 | inquiryfogaccountalertsuspect |  
+| bip_39_word_no_space_6 | inquiryfogaccountalertsuspectforce |  
+| bip_39_word_no_space_7 | inquiryfogaccountalertsuspectforcedepth |  
+| bip_39_word_no_space_8 | inquiryfogaccountalertsuspectforcedepthvibrant |  
+| bip_39_word_no_space_9 | inquiryfogaccountalertsuspectforcedepthvibrantbacon |  
 | bip_39_word_space_0 | ['inquiry', 'fog', 'account', 'alert', 'suspect', 'force', 'depth', 'vibrant', 'bacon', 'april', 'stairs', 'artist'] |  
 | bip_39_word_space_1 | inquiry |  
 | bip_39_word_space_10 | inquiry fog account alert suspect force depth vibrant bacon april |  

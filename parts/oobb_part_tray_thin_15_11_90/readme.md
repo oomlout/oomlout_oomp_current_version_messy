@@ -122,6 +122,18 @@ story
 use
 cement
 urban |  
+| bip_39_word_no_space_1 | practice |  
+| bip_39_word_no_space_10 | practicejunglechecksubwaytherestoryusecementurbanjacket |  
+| bip_39_word_no_space_11 | practicejunglechecksubwaytherestoryusecementurbanjacketvapor |  
+| bip_39_word_no_space_12 | practicejunglechecksubwaytherestoryusecementurbanjacketvaporalone |  
+| bip_39_word_no_space_2 | practicejungle |  
+| bip_39_word_no_space_3 | practicejunglecheck |  
+| bip_39_word_no_space_4 | practicejunglechecksubway |  
+| bip_39_word_no_space_5 | practicejunglechecksubwaythere |  
+| bip_39_word_no_space_6 | practicejunglechecksubwaytherestory |  
+| bip_39_word_no_space_7 | practicejunglechecksubwaytherestoryuse |  
+| bip_39_word_no_space_8 | practicejunglechecksubwaytherestoryusecement |  
+| bip_39_word_no_space_9 | practicejunglechecksubwaytherestoryusecementurban |  
 | bip_39_word_space_0 | ['practice', 'jungle', 'check', 'subway', 'there', 'story', 'use', 'cement', 'urban', 'jacket', 'vapor', 'alone'] |  
 | bip_39_word_space_1 | practice |  
 | bip_39_word_space_10 | practice jungle check subway there story use cement urban jacket |  

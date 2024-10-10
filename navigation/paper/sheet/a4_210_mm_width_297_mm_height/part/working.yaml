@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grief
   game
 
   close'
+bip_39_word_no_space_1: grief
+bip_39_word_no_space_10: griefcloudwastelearnwideankleknifegameclosefatigue
+bip_39_word_no_space_11: griefcloudwastelearnwideankleknifegameclosefatiguehidden
+bip_39_word_no_space_12: griefcloudwastelearnwideankleknifegameclosefatiguehiddenanxiety
+bip_39_word_no_space_2: griefcloud
+bip_39_word_no_space_3: griefcloudwaste
+bip_39_word_no_space_4: griefcloudwastelearn
+bip_39_word_no_space_5: griefcloudwastelearnwide
+bip_39_word_no_space_6: griefcloudwastelearnwideankle
+bip_39_word_no_space_7: griefcloudwastelearnwideankleknife
+bip_39_word_no_space_8: griefcloudwastelearnwideankleknifegame
+bip_39_word_no_space_9: griefcloudwastelearnwideankleknifegameclose
 bip_39_word_space_0:
 - grief
 - cloud

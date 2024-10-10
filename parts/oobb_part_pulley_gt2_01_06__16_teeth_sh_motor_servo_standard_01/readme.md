@@ -122,6 +122,18 @@ wrap
 rib
 rare
 dwarf |  
+| bip_39_word_no_space_1 | stick |  
+| bip_39_word_no_space_10 | stickmatrixdenywingopenwrapribraredwarfsystem |  
+| bip_39_word_no_space_11 | stickmatrixdenywingopenwrapribraredwarfsystemsister |  
+| bip_39_word_no_space_12 | stickmatrixdenywingopenwrapribraredwarfsystemsisterarmed |  
+| bip_39_word_no_space_2 | stickmatrix |  
+| bip_39_word_no_space_3 | stickmatrixdeny |  
+| bip_39_word_no_space_4 | stickmatrixdenywing |  
+| bip_39_word_no_space_5 | stickmatrixdenywingopen |  
+| bip_39_word_no_space_6 | stickmatrixdenywingopenwrap |  
+| bip_39_word_no_space_7 | stickmatrixdenywingopenwraprib |  
+| bip_39_word_no_space_8 | stickmatrixdenywingopenwrapribrare |  
+| bip_39_word_no_space_9 | stickmatrixdenywingopenwrapribraredwarf |  
 | bip_39_word_space_0 | ['stick', 'matrix', 'deny', 'wing', 'open', 'wrap', 'rib', 'rare', 'dwarf', 'system', 'sister', 'armed'] |  
 | bip_39_word_space_1 | stick |  
 | bip_39_word_space_10 | stick matrix deny wing open wrap rib rare dwarf system |  

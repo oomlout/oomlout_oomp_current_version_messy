@@ -122,6 +122,18 @@ leopard
 portion
 hurry
 kingdom |  
+| bip_39_word_no_space_1 | blanket |  
+| bip_39_word_no_space_10 | blanketcoursemerrymixedrunleopardportionhurrykingdomfeel |  
+| bip_39_word_no_space_11 | blanketcoursemerrymixedrunleopardportionhurrykingdomfeellayer |  
+| bip_39_word_no_space_12 | blanketcoursemerrymixedrunleopardportionhurrykingdomfeellayeractual |  
+| bip_39_word_no_space_2 | blanketcourse |  
+| bip_39_word_no_space_3 | blanketcoursemerry |  
+| bip_39_word_no_space_4 | blanketcoursemerrymixed |  
+| bip_39_word_no_space_5 | blanketcoursemerrymixedrun |  
+| bip_39_word_no_space_6 | blanketcoursemerrymixedrunleopard |  
+| bip_39_word_no_space_7 | blanketcoursemerrymixedrunleopardportion |  
+| bip_39_word_no_space_8 | blanketcoursemerrymixedrunleopardportionhurry |  
+| bip_39_word_no_space_9 | blanketcoursemerrymixedrunleopardportionhurrykingdom |  
 | bip_39_word_space_0 | ['blanket', 'course', 'merry', 'mixed', 'run', 'leopard', 'portion', 'hurry', 'kingdom', 'feel', 'layer', 'actual'] |  
 | bip_39_word_space_1 | blanket |  
 | bip_39_word_space_10 | blanket course merry mixed run leopard portion hurry kingdom feel |  

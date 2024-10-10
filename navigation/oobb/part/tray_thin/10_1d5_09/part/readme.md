@@ -122,6 +122,18 @@ twenty
 shop
 anchor
 vivid |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyelensbloodcreamlaketwentyshopanchorvividsubway |  
+| bip_39_word_no_space_11 | eyelensbloodcreamlaketwentyshopanchorvividsubwaykingdom |  
+| bip_39_word_no_space_12 | eyelensbloodcreamlaketwentyshopanchorvividsubwaykingdomacquire |  
+| bip_39_word_no_space_2 | eyelens |  
+| bip_39_word_no_space_3 | eyelensblood |  
+| bip_39_word_no_space_4 | eyelensbloodcream |  
+| bip_39_word_no_space_5 | eyelensbloodcreamlake |  
+| bip_39_word_no_space_6 | eyelensbloodcreamlaketwenty |  
+| bip_39_word_no_space_7 | eyelensbloodcreamlaketwentyshop |  
+| bip_39_word_no_space_8 | eyelensbloodcreamlaketwentyshopanchor |  
+| bip_39_word_no_space_9 | eyelensbloodcreamlaketwentyshopanchorvivid |  
 | bip_39_word_space_0 | ['eye', 'lens', 'blood', 'cream', 'lake', 'twenty', 'shop', 'anchor', 'vivid', 'subway', 'kingdom', 'acquire'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye lens blood cream lake twenty shop anchor vivid subway |  

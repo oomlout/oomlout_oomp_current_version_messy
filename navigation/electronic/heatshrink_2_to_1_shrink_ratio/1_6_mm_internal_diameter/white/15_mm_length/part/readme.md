@@ -122,6 +122,18 @@ mask
 three
 seminar
 century |  
+| bip_39_word_no_space_1 | diesel |  
+| bip_39_word_no_space_10 | dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalid |  
+| bip_39_word_no_space_11 | dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalidover |  
+| bip_39_word_no_space_12 | dieselbronzerabbitearlyelectricmaskthreeseminarcenturyvalidoverattitude |  
+| bip_39_word_no_space_2 | dieselbronze |  
+| bip_39_word_no_space_3 | dieselbronzerabbit |  
+| bip_39_word_no_space_4 | dieselbronzerabbitearly |  
+| bip_39_word_no_space_5 | dieselbronzerabbitearlyelectric |  
+| bip_39_word_no_space_6 | dieselbronzerabbitearlyelectricmask |  
+| bip_39_word_no_space_7 | dieselbronzerabbitearlyelectricmaskthree |  
+| bip_39_word_no_space_8 | dieselbronzerabbitearlyelectricmaskthreeseminar |  
+| bip_39_word_no_space_9 | dieselbronzerabbitearlyelectricmaskthreeseminarcentury |  
 | bip_39_word_space_0 | ['diesel', 'bronze', 'rabbit', 'early', 'electric', 'mask', 'three', 'seminar', 'century', 'valid', 'over', 'attitude'] |  
 | bip_39_word_space_1 | diesel |  
 | bip_39_word_space_10 | diesel bronze rabbit early electric mask three seminar century valid |  

@@ -122,6 +122,18 @@ move
 monster
 flush
 tattoo |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announceecologyfalserecipebarrelmovemonsterflushtattoofan |  
+| bip_39_word_no_space_11 | announceecologyfalserecipebarrelmovemonsterflushtattoofancliff |  
+| bip_39_word_no_space_12 | announceecologyfalserecipebarrelmovemonsterflushtattoofancliffamount |  
+| bip_39_word_no_space_2 | announceecology |  
+| bip_39_word_no_space_3 | announceecologyfalse |  
+| bip_39_word_no_space_4 | announceecologyfalserecipe |  
+| bip_39_word_no_space_5 | announceecologyfalserecipebarrel |  
+| bip_39_word_no_space_6 | announceecologyfalserecipebarrelmove |  
+| bip_39_word_no_space_7 | announceecologyfalserecipebarrelmovemonster |  
+| bip_39_word_no_space_8 | announceecologyfalserecipebarrelmovemonsterflush |  
+| bip_39_word_no_space_9 | announceecologyfalserecipebarrelmovemonsterflushtattoo |  
 | bip_39_word_space_0 | ['announce', 'ecology', 'false', 'recipe', 'barrel', 'move', 'monster', 'flush', 'tattoo', 'fan', 'cliff', 'amount'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce ecology false recipe barrel move monster flush tattoo fan |  

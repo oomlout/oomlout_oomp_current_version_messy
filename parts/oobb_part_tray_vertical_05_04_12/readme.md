@@ -122,6 +122,18 @@ bus
 cruise
 top
 basket |  
+| bip_39_word_no_space_1 | dose |  
+| bip_39_word_no_space_10 | dosefilterlatinstoolmethodbuscruisetopbasketboat |  
+| bip_39_word_no_space_11 | dosefilterlatinstoolmethodbuscruisetopbasketboattruck |  
+| bip_39_word_no_space_12 | dosefilterlatinstoolmethodbuscruisetopbasketboattruckacquire |  
+| bip_39_word_no_space_2 | dosefilter |  
+| bip_39_word_no_space_3 | dosefilterlatin |  
+| bip_39_word_no_space_4 | dosefilterlatinstool |  
+| bip_39_word_no_space_5 | dosefilterlatinstoolmethod |  
+| bip_39_word_no_space_6 | dosefilterlatinstoolmethodbus |  
+| bip_39_word_no_space_7 | dosefilterlatinstoolmethodbuscruise |  
+| bip_39_word_no_space_8 | dosefilterlatinstoolmethodbuscruisetop |  
+| bip_39_word_no_space_9 | dosefilterlatinstoolmethodbuscruisetopbasket |  
 | bip_39_word_space_0 | ['dose', 'filter', 'latin', 'stool', 'method', 'bus', 'cruise', 'top', 'basket', 'boat', 'truck', 'acquire'] |  
 | bip_39_word_space_1 | dose |  
 | bip_39_word_space_10 | dose filter latin stool method bus cruise top basket boat |  

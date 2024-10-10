@@ -122,6 +122,18 @@ wasp
 omit
 pencil
 market |  
+| bip_39_word_no_space_1 | grab |  
+| bip_39_word_no_space_10 | grabzebramilkcruelfinewaspomitpencilmarketleopard |  
+| bip_39_word_no_space_11 | grabzebramilkcruelfinewaspomitpencilmarketleopardfitness |  
+| bip_39_word_no_space_12 | grabzebramilkcruelfinewaspomitpencilmarketleopardfitnessarrow |  
+| bip_39_word_no_space_2 | grabzebra |  
+| bip_39_word_no_space_3 | grabzebramilk |  
+| bip_39_word_no_space_4 | grabzebramilkcruel |  
+| bip_39_word_no_space_5 | grabzebramilkcruelfine |  
+| bip_39_word_no_space_6 | grabzebramilkcruelfinewasp |  
+| bip_39_word_no_space_7 | grabzebramilkcruelfinewaspomit |  
+| bip_39_word_no_space_8 | grabzebramilkcruelfinewaspomitpencil |  
+| bip_39_word_no_space_9 | grabzebramilkcruelfinewaspomitpencilmarket |  
 | bip_39_word_space_0 | ['grab', 'zebra', 'milk', 'cruel', 'fine', 'wasp', 'omit', 'pencil', 'market', 'leopard', 'fitness', 'arrow'] |  
 | bip_39_word_space_1 | grab |  
 | bip_39_word_space_10 | grab zebra milk cruel fine wasp omit pencil market leopard |  

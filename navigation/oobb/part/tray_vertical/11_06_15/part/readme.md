@@ -122,6 +122,18 @@ test
 roast
 lion
 radio |  
+| bip_39_word_no_space_1 | insect |  
+| bip_39_word_no_space_10 | insectgiraffegoldfencespecialtestroastlionradiomushroom |  
+| bip_39_word_no_space_11 | insectgiraffegoldfencespecialtestroastlionradiomushroomgreat |  
+| bip_39_word_no_space_12 | insectgiraffegoldfencespecialtestroastlionradiomushroomgreatalready |  
+| bip_39_word_no_space_2 | insectgiraffe |  
+| bip_39_word_no_space_3 | insectgiraffegold |  
+| bip_39_word_no_space_4 | insectgiraffegoldfence |  
+| bip_39_word_no_space_5 | insectgiraffegoldfencespecial |  
+| bip_39_word_no_space_6 | insectgiraffegoldfencespecialtest |  
+| bip_39_word_no_space_7 | insectgiraffegoldfencespecialtestroast |  
+| bip_39_word_no_space_8 | insectgiraffegoldfencespecialtestroastlion |  
+| bip_39_word_no_space_9 | insectgiraffegoldfencespecialtestroastlionradio |  
 | bip_39_word_space_0 | ['insect', 'giraffe', 'gold', 'fence', 'special', 'test', 'roast', 'lion', 'radio', 'mushroom', 'great', 'already'] |  
 | bip_39_word_space_1 | insect |  
 | bip_39_word_space_10 | insect giraffe gold fence special test roast lion radio mushroom |  

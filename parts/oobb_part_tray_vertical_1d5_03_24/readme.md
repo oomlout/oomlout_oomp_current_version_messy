@@ -122,6 +122,18 @@ spare
 scare
 input
 list |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragileclutchskicabbagedialsparescareinputlistfeel |  
+| bip_39_word_no_space_11 | fragileclutchskicabbagedialsparescareinputlistfeelevidence |  
+| bip_39_word_no_space_12 | fragileclutchskicabbagedialsparescareinputlistfeelevidencearrange |  
+| bip_39_word_no_space_2 | fragileclutch |  
+| bip_39_word_no_space_3 | fragileclutchski |  
+| bip_39_word_no_space_4 | fragileclutchskicabbage |  
+| bip_39_word_no_space_5 | fragileclutchskicabbagedial |  
+| bip_39_word_no_space_6 | fragileclutchskicabbagedialspare |  
+| bip_39_word_no_space_7 | fragileclutchskicabbagedialsparescare |  
+| bip_39_word_no_space_8 | fragileclutchskicabbagedialsparescareinput |  
+| bip_39_word_no_space_9 | fragileclutchskicabbagedialsparescareinputlist |  
 | bip_39_word_space_0 | ['fragile', 'clutch', 'ski', 'cabbage', 'dial', 'spare', 'scare', 'input', 'list', 'feel', 'evidence', 'arrange'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile clutch ski cabbage dial spare scare input list feel |  

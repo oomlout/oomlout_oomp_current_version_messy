@@ -122,6 +122,18 @@ female
 pudding
 anchor
 dutch |  
+| bip_39_word_no_space_1 | inform |  
+| bip_39_word_no_space_10 | informlawsuitcostparadelawfemalepuddinganchordutchsell |  
+| bip_39_word_no_space_11 | informlawsuitcostparadelawfemalepuddinganchordutchsellpink |  
+| bip_39_word_no_space_12 | informlawsuitcostparadelawfemalepuddinganchordutchsellpinkappear |  
+| bip_39_word_no_space_2 | informlawsuit |  
+| bip_39_word_no_space_3 | informlawsuitcost |  
+| bip_39_word_no_space_4 | informlawsuitcostparade |  
+| bip_39_word_no_space_5 | informlawsuitcostparadelaw |  
+| bip_39_word_no_space_6 | informlawsuitcostparadelawfemale |  
+| bip_39_word_no_space_7 | informlawsuitcostparadelawfemalepudding |  
+| bip_39_word_no_space_8 | informlawsuitcostparadelawfemalepuddinganchor |  
+| bip_39_word_no_space_9 | informlawsuitcostparadelawfemalepuddinganchordutch |  
 | bip_39_word_space_0 | ['inform', 'lawsuit', 'cost', 'parade', 'law', 'female', 'pudding', 'anchor', 'dutch', 'sell', 'pink', 'appear'] |  
 | bip_39_word_space_1 | inform |  
 | bip_39_word_space_10 | inform lawsuit cost parade law female pudding anchor dutch sell |  

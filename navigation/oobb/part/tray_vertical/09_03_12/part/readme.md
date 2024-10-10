@@ -122,6 +122,18 @@ cigar
 spy
 tobacco
 sound |  
+| bip_39_word_no_space_1 | mimic |  
+| bip_39_word_no_space_10 | mimicamountpointconfirmdecidecigarspytobaccosoundsolution |  
+| bip_39_word_no_space_11 | mimicamountpointconfirmdecidecigarspytobaccosoundsolutiondonor |  
+| bip_39_word_no_space_12 | mimicamountpointconfirmdecidecigarspytobaccosoundsolutiondonoraim |  
+| bip_39_word_no_space_2 | mimicamount |  
+| bip_39_word_no_space_3 | mimicamountpoint |  
+| bip_39_word_no_space_4 | mimicamountpointconfirm |  
+| bip_39_word_no_space_5 | mimicamountpointconfirmdecide |  
+| bip_39_word_no_space_6 | mimicamountpointconfirmdecidecigar |  
+| bip_39_word_no_space_7 | mimicamountpointconfirmdecidecigarspy |  
+| bip_39_word_no_space_8 | mimicamountpointconfirmdecidecigarspytobacco |  
+| bip_39_word_no_space_9 | mimicamountpointconfirmdecidecigarspytobaccosound |  
 | bip_39_word_space_0 | ['mimic', 'amount', 'point', 'confirm', 'decide', 'cigar', 'spy', 'tobacco', 'sound', 'solution', 'donor', 'aim'] |  
 | bip_39_word_space_1 | mimic |  
 | bip_39_word_space_10 | mimic amount point confirm decide cigar spy tobacco sound solution |  

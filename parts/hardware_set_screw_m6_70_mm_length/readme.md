@@ -122,6 +122,18 @@ sentence
 daughter
 around
 father |  
+| bip_39_word_no_space_1 | search |  
+| bip_39_word_no_space_10 | searchnumberroommilkcagesentencedaughteraroundfatherneither |  
+| bip_39_word_no_space_11 | searchnumberroommilkcagesentencedaughteraroundfatherneitherexit |  
+| bip_39_word_no_space_12 | searchnumberroommilkcagesentencedaughteraroundfatherneitherexitaccuse |  
+| bip_39_word_no_space_2 | searchnumber |  
+| bip_39_word_no_space_3 | searchnumberroom |  
+| bip_39_word_no_space_4 | searchnumberroommilk |  
+| bip_39_word_no_space_5 | searchnumberroommilkcage |  
+| bip_39_word_no_space_6 | searchnumberroommilkcagesentence |  
+| bip_39_word_no_space_7 | searchnumberroommilkcagesentencedaughter |  
+| bip_39_word_no_space_8 | searchnumberroommilkcagesentencedaughteraround |  
+| bip_39_word_no_space_9 | searchnumberroommilkcagesentencedaughteraroundfather |  
 | bip_39_word_space_0 | ['search', 'number', 'room', 'milk', 'cage', 'sentence', 'daughter', 'around', 'father', 'neither', 'exit', 'accuse'] |  
 | bip_39_word_space_1 | search |  
 | bip_39_word_space_10 | search number room milk cage sentence daughter around father neither |  

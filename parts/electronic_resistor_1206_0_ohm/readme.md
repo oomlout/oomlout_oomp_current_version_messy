@@ -122,6 +122,18 @@ solid
 joy
 mother
 cactus |  
+| bip_39_word_no_space_1 | emotion |  
+| bip_39_word_no_space_10 | emotionprogramjudgeartefactovensolidjoymothercactuswhale |  
+| bip_39_word_no_space_11 | emotionprogramjudgeartefactovensolidjoymothercactuswhalescatter |  
+| bip_39_word_no_space_12 | emotionprogramjudgeartefactovensolidjoymothercactuswhalescatterarrow |  
+| bip_39_word_no_space_2 | emotionprogram |  
+| bip_39_word_no_space_3 | emotionprogramjudge |  
+| bip_39_word_no_space_4 | emotionprogramjudgeartefact |  
+| bip_39_word_no_space_5 | emotionprogramjudgeartefactoven |  
+| bip_39_word_no_space_6 | emotionprogramjudgeartefactovensolid |  
+| bip_39_word_no_space_7 | emotionprogramjudgeartefactovensolidjoy |  
+| bip_39_word_no_space_8 | emotionprogramjudgeartefactovensolidjoymother |  
+| bip_39_word_no_space_9 | emotionprogramjudgeartefactovensolidjoymothercactus |  
 | bip_39_word_space_0 | ['emotion', 'program', 'judge', 'artefact', 'oven', 'solid', 'joy', 'mother', 'cactus', 'whale', 'scatter', 'arrow'] |  
 | bip_39_word_space_1 | emotion |  
 | bip_39_word_space_10 | emotion program judge artefact oven solid joy mother cactus whale |  

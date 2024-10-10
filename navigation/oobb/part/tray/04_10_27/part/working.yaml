@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'swamp
   educate
 
   mutual'
+bip_39_word_no_space_1: swamp
+bip_39_word_no_space_10: swampsplitelderhelpwarfareworrywhaleeducatemutualmuffin
+bip_39_word_no_space_11: swampsplitelderhelpwarfareworrywhaleeducatemutualmuffininject
+bip_39_word_no_space_12: swampsplitelderhelpwarfareworrywhaleeducatemutualmuffininjectafraid
+bip_39_word_no_space_2: swampsplit
+bip_39_word_no_space_3: swampsplitelder
+bip_39_word_no_space_4: swampsplitelderhelp
+bip_39_word_no_space_5: swampsplitelderhelpwarfare
+bip_39_word_no_space_6: swampsplitelderhelpwarfareworry
+bip_39_word_no_space_7: swampsplitelderhelpwarfareworrywhale
+bip_39_word_no_space_8: swampsplitelderhelpwarfareworrywhaleeducate
+bip_39_word_no_space_9: swampsplitelderhelpwarfareworrywhaleeducatemutual
 bip_39_word_space_0:
 - swamp
 - split

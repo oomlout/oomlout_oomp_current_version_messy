@@ -122,6 +122,18 @@ clog
 general
 quality
 outer |  
+| bip_39_word_no_space_1 | track |  
+| bip_39_word_no_space_10 | trackendraiseregionflipcloggeneralqualityouterjunk |  
+| bip_39_word_no_space_11 | trackendraiseregionflipcloggeneralqualityouterjunkbuyer |  
+| bip_39_word_no_space_12 | trackendraiseregionflipcloggeneralqualityouterjunkbuyeramused |  
+| bip_39_word_no_space_2 | trackend |  
+| bip_39_word_no_space_3 | trackendraise |  
+| bip_39_word_no_space_4 | trackendraiseregion |  
+| bip_39_word_no_space_5 | trackendraiseregionflip |  
+| bip_39_word_no_space_6 | trackendraiseregionflipclog |  
+| bip_39_word_no_space_7 | trackendraiseregionflipcloggeneral |  
+| bip_39_word_no_space_8 | trackendraiseregionflipcloggeneralquality |  
+| bip_39_word_no_space_9 | trackendraiseregionflipcloggeneralqualityouter |  
 | bip_39_word_space_0 | ['track', 'end', 'raise', 'region', 'flip', 'clog', 'general', 'quality', 'outer', 'junk', 'buyer', 'amused'] |  
 | bip_39_word_space_1 | track |  
 | bip_39_word_space_10 | track end raise region flip clog general quality outer junk |  

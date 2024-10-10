@@ -122,6 +122,18 @@ wage
 tip
 letter
 road |  
+| bip_39_word_no_space_1 | fashion |  
+| bip_39_word_no_space_10 | fashionalphachickendonatetoolwagetipletterroadplastic |  
+| bip_39_word_no_space_11 | fashionalphachickendonatetoolwagetipletterroadplasticprotect |  
+| bip_39_word_no_space_12 | fashionalphachickendonatetoolwagetipletterroadplasticprotectagent |  
+| bip_39_word_no_space_2 | fashionalpha |  
+| bip_39_word_no_space_3 | fashionalphachicken |  
+| bip_39_word_no_space_4 | fashionalphachickendonate |  
+| bip_39_word_no_space_5 | fashionalphachickendonatetool |  
+| bip_39_word_no_space_6 | fashionalphachickendonatetoolwage |  
+| bip_39_word_no_space_7 | fashionalphachickendonatetoolwagetip |  
+| bip_39_word_no_space_8 | fashionalphachickendonatetoolwagetipletter |  
+| bip_39_word_no_space_9 | fashionalphachickendonatetoolwagetipletterroad |  
 | bip_39_word_space_0 | ['fashion', 'alpha', 'chicken', 'donate', 'tool', 'wage', 'tip', 'letter', 'road', 'plastic', 'protect', 'agent'] |  
 | bip_39_word_space_1 | fashion |  
 | bip_39_word_space_10 | fashion alpha chicken donate tool wage tip letter road plastic |  

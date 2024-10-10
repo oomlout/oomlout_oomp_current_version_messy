@@ -122,6 +122,18 @@ cannon
 season
 hammer
 egg |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programhusbandchildupgradetraincannonseasonhammereggpair |  
+| bip_39_word_no_space_11 | programhusbandchildupgradetraincannonseasonhammereggpairactor |  
+| bip_39_word_no_space_12 | programhusbandchildupgradetraincannonseasonhammereggpairactorabout |  
+| bip_39_word_no_space_2 | programhusband |  
+| bip_39_word_no_space_3 | programhusbandchild |  
+| bip_39_word_no_space_4 | programhusbandchildupgrade |  
+| bip_39_word_no_space_5 | programhusbandchildupgradetrain |  
+| bip_39_word_no_space_6 | programhusbandchildupgradetraincannon |  
+| bip_39_word_no_space_7 | programhusbandchildupgradetraincannonseason |  
+| bip_39_word_no_space_8 | programhusbandchildupgradetraincannonseasonhammer |  
+| bip_39_word_no_space_9 | programhusbandchildupgradetraincannonseasonhammeregg |  
 | bip_39_word_space_0 | ['program', 'husband', 'child', 'upgrade', 'train', 'cannon', 'season', 'hammer', 'egg', 'pair', 'actor', 'about'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program husband child upgrade train cannon season hammer egg pair |  

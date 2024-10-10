@@ -122,6 +122,18 @@ taxi
 spin
 pond
 obey |  
+| bip_39_word_no_space_1 | comic |  
+| bip_39_word_no_space_10 | comiccrimeseriestrainvibranttaxispinpondobeykiwi |  
+| bip_39_word_no_space_11 | comiccrimeseriestrainvibranttaxispinpondobeykiwiend |  
+| bip_39_word_no_space_12 | comiccrimeseriestrainvibranttaxispinpondobeykiwiendany |  
+| bip_39_word_no_space_2 | comiccrime |  
+| bip_39_word_no_space_3 | comiccrimeseries |  
+| bip_39_word_no_space_4 | comiccrimeseriestrain |  
+| bip_39_word_no_space_5 | comiccrimeseriestrainvibrant |  
+| bip_39_word_no_space_6 | comiccrimeseriestrainvibranttaxi |  
+| bip_39_word_no_space_7 | comiccrimeseriestrainvibranttaxispin |  
+| bip_39_word_no_space_8 | comiccrimeseriestrainvibranttaxispinpond |  
+| bip_39_word_no_space_9 | comiccrimeseriestrainvibranttaxispinpondobey |  
 | bip_39_word_space_0 | ['comic', 'crime', 'series', 'train', 'vibrant', 'taxi', 'spin', 'pond', 'obey', 'kiwi', 'end', 'any'] |  
 | bip_39_word_space_1 | comic |  
 | bip_39_word_space_10 | comic crime series train vibrant taxi spin pond obey kiwi |  

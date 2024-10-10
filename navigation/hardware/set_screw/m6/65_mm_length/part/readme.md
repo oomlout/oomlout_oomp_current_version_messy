@@ -122,6 +122,18 @@ horn
 apology
 baby
 stock |  
+| bip_39_word_no_space_1 | table |  
+| bip_39_word_no_space_10 | tabledonordevelopinformhandhornapologybabystockspace |  
+| bip_39_word_no_space_11 | tabledonordevelopinformhandhornapologybabystockspacearrest |  
+| bip_39_word_no_space_12 | tabledonordevelopinformhandhornapologybabystockspacearrestabuse |  
+| bip_39_word_no_space_2 | tabledonor |  
+| bip_39_word_no_space_3 | tabledonordevelop |  
+| bip_39_word_no_space_4 | tabledonordevelopinform |  
+| bip_39_word_no_space_5 | tabledonordevelopinformhand |  
+| bip_39_word_no_space_6 | tabledonordevelopinformhandhorn |  
+| bip_39_word_no_space_7 | tabledonordevelopinformhandhornapology |  
+| bip_39_word_no_space_8 | tabledonordevelopinformhandhornapologybaby |  
+| bip_39_word_no_space_9 | tabledonordevelopinformhandhornapologybabystock |  
 | bip_39_word_space_0 | ['table', 'donor', 'develop', 'inform', 'hand', 'horn', 'apology', 'baby', 'stock', 'space', 'arrest', 'abuse'] |  
 | bip_39_word_space_1 | table |  
 | bip_39_word_space_10 | table donor develop inform hand horn apology baby stock space |  

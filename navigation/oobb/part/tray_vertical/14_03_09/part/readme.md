@@ -122,6 +122,18 @@ top
 relief
 goddess
 celery |  
+| bip_39_word_no_space_1 | solve |  
+| bip_39_word_no_space_10 | solvezebraproofwhentissuetopreliefgoddesscelerywhen |  
+| bip_39_word_no_space_11 | solvezebraproofwhentissuetopreliefgoddesscelerywhenupgrade |  
+| bip_39_word_no_space_12 | solvezebraproofwhentissuetopreliefgoddesscelerywhenupgradeannual |  
+| bip_39_word_no_space_2 | solvezebra |  
+| bip_39_word_no_space_3 | solvezebraproof |  
+| bip_39_word_no_space_4 | solvezebraproofwhen |  
+| bip_39_word_no_space_5 | solvezebraproofwhentissue |  
+| bip_39_word_no_space_6 | solvezebraproofwhentissuetop |  
+| bip_39_word_no_space_7 | solvezebraproofwhentissuetoprelief |  
+| bip_39_word_no_space_8 | solvezebraproofwhentissuetopreliefgoddess |  
+| bip_39_word_no_space_9 | solvezebraproofwhentissuetopreliefgoddesscelery |  
 | bip_39_word_space_0 | ['solve', 'zebra', 'proof', 'when', 'tissue', 'top', 'relief', 'goddess', 'celery', 'when', 'upgrade', 'annual'] |  
 | bip_39_word_space_1 | solve |  
 | bip_39_word_space_10 | solve zebra proof when tissue top relief goddess celery when |  

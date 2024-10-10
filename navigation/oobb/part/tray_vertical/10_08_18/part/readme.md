@@ -122,6 +122,18 @@ worry
 sister
 dress
 response |  
+| bip_39_word_no_space_1 | dirt |  
+| bip_39_word_no_space_10 | dirtactualwearpursecloudworrysisterdressresponsereceive |  
+| bip_39_word_no_space_11 | dirtactualwearpursecloudworrysisterdressresponsereceiveripple |  
+| bip_39_word_no_space_12 | dirtactualwearpursecloudworrysisterdressresponsereceiverippleabsurd |  
+| bip_39_word_no_space_2 | dirtactual |  
+| bip_39_word_no_space_3 | dirtactualwear |  
+| bip_39_word_no_space_4 | dirtactualwearpurse |  
+| bip_39_word_no_space_5 | dirtactualwearpursecloud |  
+| bip_39_word_no_space_6 | dirtactualwearpursecloudworry |  
+| bip_39_word_no_space_7 | dirtactualwearpursecloudworrysister |  
+| bip_39_word_no_space_8 | dirtactualwearpursecloudworrysisterdress |  
+| bip_39_word_no_space_9 | dirtactualwearpursecloudworrysisterdressresponse |  
 | bip_39_word_space_0 | ['dirt', 'actual', 'wear', 'purse', 'cloud', 'worry', 'sister', 'dress', 'response', 'receive', 'ripple', 'absurd'] |  
 | bip_39_word_space_1 | dirt |  
 | bip_39_word_space_10 | dirt actual wear purse cloud worry sister dress response receive |  

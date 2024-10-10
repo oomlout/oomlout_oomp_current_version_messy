@@ -122,6 +122,18 @@ horse
 poet
 tip
 midnight |  
+| bip_39_word_no_space_1 | rib |  
+| bip_39_word_no_space_10 | ribregionradiobroomonionhorsepoettipmidnightokay |  
+| bip_39_word_no_space_11 | ribregionradiobroomonionhorsepoettipmidnightokaychimney |  
+| bip_39_word_no_space_12 | ribregionradiobroomonionhorsepoettipmidnightokaychimneyarrest |  
+| bip_39_word_no_space_2 | ribregion |  
+| bip_39_word_no_space_3 | ribregionradio |  
+| bip_39_word_no_space_4 | ribregionradiobroom |  
+| bip_39_word_no_space_5 | ribregionradiobroomonion |  
+| bip_39_word_no_space_6 | ribregionradiobroomonionhorse |  
+| bip_39_word_no_space_7 | ribregionradiobroomonionhorsepoet |  
+| bip_39_word_no_space_8 | ribregionradiobroomonionhorsepoettip |  
+| bip_39_word_no_space_9 | ribregionradiobroomonionhorsepoettipmidnight |  
 | bip_39_word_space_0 | ['rib', 'region', 'radio', 'broom', 'onion', 'horse', 'poet', 'tip', 'midnight', 'okay', 'chimney', 'arrest'] |  
 | bip_39_word_space_1 | rib |  
 | bip_39_word_space_10 | rib region radio broom onion horse poet tip midnight okay |  

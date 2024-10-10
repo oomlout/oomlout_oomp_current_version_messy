@@ -122,6 +122,18 @@ floor
 august
 weather
 stool |  
+| bip_39_word_no_space_1 | extend |  
+| bip_39_word_no_space_10 | extendprovideobserveeducateverbflooraugustweatherstoolprint |  
+| bip_39_word_no_space_11 | extendprovideobserveeducateverbflooraugustweatherstoolprintusage |  
+| bip_39_word_no_space_12 | extendprovideobserveeducateverbflooraugustweatherstoolprintusageadmit |  
+| bip_39_word_no_space_2 | extendprovide |  
+| bip_39_word_no_space_3 | extendprovideobserve |  
+| bip_39_word_no_space_4 | extendprovideobserveeducate |  
+| bip_39_word_no_space_5 | extendprovideobserveeducateverb |  
+| bip_39_word_no_space_6 | extendprovideobserveeducateverbfloor |  
+| bip_39_word_no_space_7 | extendprovideobserveeducateverbflooraugust |  
+| bip_39_word_no_space_8 | extendprovideobserveeducateverbflooraugustweather |  
+| bip_39_word_no_space_9 | extendprovideobserveeducateverbflooraugustweatherstool |  
 | bip_39_word_space_0 | ['extend', 'provide', 'observe', 'educate', 'verb', 'floor', 'august', 'weather', 'stool', 'print', 'usage', 'admit'] |  
 | bip_39_word_space_1 | extend |  
 | bip_39_word_space_10 | extend provide observe educate verb floor august weather stool print |  

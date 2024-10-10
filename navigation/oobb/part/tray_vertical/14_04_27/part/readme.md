@@ -122,6 +122,18 @@ allow
 purchase
 exit
 such |  
+| bip_39_word_no_space_1 | salad |  
+| bip_39_word_no_space_10 | saladsmoothpatchvitalanswerallowpurchaseexitsuchdonkey |  
+| bip_39_word_no_space_11 | saladsmoothpatchvitalanswerallowpurchaseexitsuchdonkeyhusband |  
+| bip_39_word_no_space_12 | saladsmoothpatchvitalanswerallowpurchaseexitsuchdonkeyhusbandarrest |  
+| bip_39_word_no_space_2 | saladsmooth |  
+| bip_39_word_no_space_3 | saladsmoothpatch |  
+| bip_39_word_no_space_4 | saladsmoothpatchvital |  
+| bip_39_word_no_space_5 | saladsmoothpatchvitalanswer |  
+| bip_39_word_no_space_6 | saladsmoothpatchvitalanswerallow |  
+| bip_39_word_no_space_7 | saladsmoothpatchvitalanswerallowpurchase |  
+| bip_39_word_no_space_8 | saladsmoothpatchvitalanswerallowpurchaseexit |  
+| bip_39_word_no_space_9 | saladsmoothpatchvitalanswerallowpurchaseexitsuch |  
 | bip_39_word_space_0 | ['salad', 'smooth', 'patch', 'vital', 'answer', 'allow', 'purchase', 'exit', 'such', 'donkey', 'husband', 'arrest'] |  
 | bip_39_word_space_1 | salad |  
 | bip_39_word_space_10 | salad smooth patch vital answer allow purchase exit such donkey |  

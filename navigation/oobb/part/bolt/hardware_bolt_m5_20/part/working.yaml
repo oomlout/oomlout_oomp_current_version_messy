@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gasp
   movie
 
   soda'
+bip_39_word_no_space_1: gasp
+bip_39_word_no_space_10: gaspbulkphraseleaderbroccolimathcheapmoviesodaedge
+bip_39_word_no_space_11: gaspbulkphraseleaderbroccolimathcheapmoviesodaedgecram
+bip_39_word_no_space_12: gaspbulkphraseleaderbroccolimathcheapmoviesodaedgecramalmost
+bip_39_word_no_space_2: gaspbulk
+bip_39_word_no_space_3: gaspbulkphrase
+bip_39_word_no_space_4: gaspbulkphraseleader
+bip_39_word_no_space_5: gaspbulkphraseleaderbroccoli
+bip_39_word_no_space_6: gaspbulkphraseleaderbroccolimath
+bip_39_word_no_space_7: gaspbulkphraseleaderbroccolimathcheap
+bip_39_word_no_space_8: gaspbulkphraseleaderbroccolimathcheapmovie
+bip_39_word_no_space_9: gaspbulkphraseleaderbroccolimathcheapmoviesoda
 bip_39_word_space_0:
 - gasp
 - bulk

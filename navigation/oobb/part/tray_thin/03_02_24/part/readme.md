@@ -122,6 +122,18 @@ ask
 tenant
 figure
 scale |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatstomachprotectrobotvagueasktenantfigurescalegym |  
+| bip_39_word_no_space_11 | whatstomachprotectrobotvagueasktenantfigurescalegymvital |  
+| bip_39_word_no_space_12 | whatstomachprotectrobotvagueasktenantfigurescalegymvitalautumn |  
+| bip_39_word_no_space_2 | whatstomach |  
+| bip_39_word_no_space_3 | whatstomachprotect |  
+| bip_39_word_no_space_4 | whatstomachprotectrobot |  
+| bip_39_word_no_space_5 | whatstomachprotectrobotvague |  
+| bip_39_word_no_space_6 | whatstomachprotectrobotvagueask |  
+| bip_39_word_no_space_7 | whatstomachprotectrobotvagueasktenant |  
+| bip_39_word_no_space_8 | whatstomachprotectrobotvagueasktenantfigure |  
+| bip_39_word_no_space_9 | whatstomachprotectrobotvagueasktenantfigurescale |  
 | bip_39_word_space_0 | ['what', 'stomach', 'protect', 'robot', 'vague', 'ask', 'tenant', 'figure', 'scale', 'gym', 'vital', 'autumn'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what stomach protect robot vague ask tenant figure scale gym |  

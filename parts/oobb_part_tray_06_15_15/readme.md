@@ -122,6 +122,18 @@ weapon
 talk
 jeans
 close |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentlegbrightflushsoonweapontalkjeansclosedeposit |  
+| bip_39_word_no_space_11 | accidentlegbrightflushsoonweapontalkjeansclosedepositlounge |  
+| bip_39_word_no_space_12 | accidentlegbrightflushsoonweapontalkjeansclosedepositloungeauthor |  
+| bip_39_word_no_space_2 | accidentleg |  
+| bip_39_word_no_space_3 | accidentlegbright |  
+| bip_39_word_no_space_4 | accidentlegbrightflush |  
+| bip_39_word_no_space_5 | accidentlegbrightflushsoon |  
+| bip_39_word_no_space_6 | accidentlegbrightflushsoonweapon |  
+| bip_39_word_no_space_7 | accidentlegbrightflushsoonweapontalk |  
+| bip_39_word_no_space_8 | accidentlegbrightflushsoonweapontalkjeans |  
+| bip_39_word_no_space_9 | accidentlegbrightflushsoonweapontalkjeansclose |  
 | bip_39_word_space_0 | ['accident', 'leg', 'bright', 'flush', 'soon', 'weapon', 'talk', 'jeans', 'close', 'deposit', 'lounge', 'author'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident leg bright flush soon weapon talk jeans close deposit |  

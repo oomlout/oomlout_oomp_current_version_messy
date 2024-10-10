@@ -122,6 +122,18 @@ helmet
 robot
 into
 ribbon |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brassdesertemployfostergoodhelmetrobotintoribbondamage |  
+| bip_39_word_no_space_11 | brassdesertemployfostergoodhelmetrobotintoribbondamagemagnet |  
+| bip_39_word_no_space_12 | brassdesertemployfostergoodhelmetrobotintoribbondamagemagnetair |  
+| bip_39_word_no_space_2 | brassdesert |  
+| bip_39_word_no_space_3 | brassdesertemploy |  
+| bip_39_word_no_space_4 | brassdesertemployfoster |  
+| bip_39_word_no_space_5 | brassdesertemployfostergood |  
+| bip_39_word_no_space_6 | brassdesertemployfostergoodhelmet |  
+| bip_39_word_no_space_7 | brassdesertemployfostergoodhelmetrobot |  
+| bip_39_word_no_space_8 | brassdesertemployfostergoodhelmetrobotinto |  
+| bip_39_word_no_space_9 | brassdesertemployfostergoodhelmetrobotintoribbon |  
 | bip_39_word_space_0 | ['brass', 'desert', 'employ', 'foster', 'good', 'helmet', 'robot', 'into', 'ribbon', 'damage', 'magnet', 'air'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass desert employ foster good helmet robot into ribbon damage |  

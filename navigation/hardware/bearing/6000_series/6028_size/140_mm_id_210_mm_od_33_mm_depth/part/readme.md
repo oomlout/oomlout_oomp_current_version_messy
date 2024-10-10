@@ -122,6 +122,18 @@ piece
 husband
 traffic
 half |  
+| bip_39_word_no_space_1 | soup |  
+| bip_39_word_no_space_10 | souppalacemiddletapeketchuppiecehusbandtraffichalfhub |  
+| bip_39_word_no_space_11 | souppalacemiddletapeketchuppiecehusbandtraffichalfhubdescribe |  
+| bip_39_word_no_space_12 | souppalacemiddletapeketchuppiecehusbandtraffichalfhubdescribeautumn |  
+| bip_39_word_no_space_2 | souppalace |  
+| bip_39_word_no_space_3 | souppalacemiddle |  
+| bip_39_word_no_space_4 | souppalacemiddletape |  
+| bip_39_word_no_space_5 | souppalacemiddletapeketchup |  
+| bip_39_word_no_space_6 | souppalacemiddletapeketchuppiece |  
+| bip_39_word_no_space_7 | souppalacemiddletapeketchuppiecehusband |  
+| bip_39_word_no_space_8 | souppalacemiddletapeketchuppiecehusbandtraffic |  
+| bip_39_word_no_space_9 | souppalacemiddletapeketchuppiecehusbandtraffichalf |  
 | bip_39_word_space_0 | ['soup', 'palace', 'middle', 'tape', 'ketchup', 'piece', 'husband', 'traffic', 'half', 'hub', 'describe', 'autumn'] |  
 | bip_39_word_space_1 | soup |  
 | bip_39_word_space_10 | soup palace middle tape ketchup piece husband traffic half hub |  

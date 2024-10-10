@@ -122,6 +122,18 @@ october
 capital
 banana
 process |  
+| bip_39_word_no_space_1 | elegant |  
+| bip_39_word_no_space_10 | elegantcashcriticeconomyfeatureoctobercapitalbananaprocessginger |  
+| bip_39_word_no_space_11 | elegantcashcriticeconomyfeatureoctobercapitalbananaprocessgingerviable |  
+| bip_39_word_no_space_12 | elegantcashcriticeconomyfeatureoctobercapitalbananaprocessgingerviablearctic |  
+| bip_39_word_no_space_2 | elegantcash |  
+| bip_39_word_no_space_3 | elegantcashcritic |  
+| bip_39_word_no_space_4 | elegantcashcriticeconomy |  
+| bip_39_word_no_space_5 | elegantcashcriticeconomyfeature |  
+| bip_39_word_no_space_6 | elegantcashcriticeconomyfeatureoctober |  
+| bip_39_word_no_space_7 | elegantcashcriticeconomyfeatureoctobercapital |  
+| bip_39_word_no_space_8 | elegantcashcriticeconomyfeatureoctobercapitalbanana |  
+| bip_39_word_no_space_9 | elegantcashcriticeconomyfeatureoctobercapitalbananaprocess |  
 | bip_39_word_space_0 | ['elegant', 'cash', 'critic', 'economy', 'feature', 'october', 'capital', 'banana', 'process', 'ginger', 'viable', 'arctic'] |  
 | bip_39_word_space_1 | elegant |  
 | bip_39_word_space_10 | elegant cash critic economy feature october capital banana process ginger |  

@@ -122,6 +122,18 @@ tree
 intact
 december
 monster |  
+| bip_39_word_no_space_1 | twice |  
+| bip_39_word_no_space_10 | twicefibervideobrassprojecttreeintactdecembermonsterforest |  
+| bip_39_word_no_space_11 | twicefibervideobrassprojecttreeintactdecembermonsterforestfalse |  
+| bip_39_word_no_space_12 | twicefibervideobrassprojecttreeintactdecembermonsterforestfalseauthor |  
+| bip_39_word_no_space_2 | twicefiber |  
+| bip_39_word_no_space_3 | twicefibervideo |  
+| bip_39_word_no_space_4 | twicefibervideobrass |  
+| bip_39_word_no_space_5 | twicefibervideobrassproject |  
+| bip_39_word_no_space_6 | twicefibervideobrassprojecttree |  
+| bip_39_word_no_space_7 | twicefibervideobrassprojecttreeintact |  
+| bip_39_word_no_space_8 | twicefibervideobrassprojecttreeintactdecember |  
+| bip_39_word_no_space_9 | twicefibervideobrassprojecttreeintactdecembermonster |  
 | bip_39_word_space_0 | ['twice', 'fiber', 'video', 'brass', 'project', 'tree', 'intact', 'december', 'monster', 'forest', 'false', 'author'] |  
 | bip_39_word_space_1 | twice |  
 | bip_39_word_space_10 | twice fiber video brass project tree intact december monster forest |  

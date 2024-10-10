@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'symptom
   donor
 
   silly'
+bip_39_word_no_space_1: symptom
+bip_39_word_no_space_10: symptomtrickdependaspectrugcaveclaimdonorsillyfinger
+bip_39_word_no_space_11: symptomtrickdependaspectrugcaveclaimdonorsillyfingersad
+bip_39_word_no_space_12: symptomtrickdependaspectrugcaveclaimdonorsillyfingersadamong
+bip_39_word_no_space_2: symptomtrick
+bip_39_word_no_space_3: symptomtrickdepend
+bip_39_word_no_space_4: symptomtrickdependaspect
+bip_39_word_no_space_5: symptomtrickdependaspectrug
+bip_39_word_no_space_6: symptomtrickdependaspectrugcave
+bip_39_word_no_space_7: symptomtrickdependaspectrugcaveclaim
+bip_39_word_no_space_8: symptomtrickdependaspectrugcaveclaimdonor
+bip_39_word_no_space_9: symptomtrickdependaspectrugcaveclaimdonorsilly
 bip_39_word_space_0:
 - symptom
 - trick

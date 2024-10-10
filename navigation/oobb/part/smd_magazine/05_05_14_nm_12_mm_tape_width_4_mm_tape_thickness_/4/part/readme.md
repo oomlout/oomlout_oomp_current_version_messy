@@ -122,6 +122,18 @@ wine
 shallow
 friend
 settle |  
+| bip_39_word_no_space_1 | eternal |  
+| bip_39_word_no_space_10 | eternalflavorpurposecapabletoastwineshallowfriendsettleboard |  
+| bip_39_word_no_space_11 | eternalflavorpurposecapabletoastwineshallowfriendsettleboardfilter |  
+| bip_39_word_no_space_12 | eternalflavorpurposecapabletoastwineshallowfriendsettleboardfilterarmed |  
+| bip_39_word_no_space_2 | eternalflavor |  
+| bip_39_word_no_space_3 | eternalflavorpurpose |  
+| bip_39_word_no_space_4 | eternalflavorpurposecapable |  
+| bip_39_word_no_space_5 | eternalflavorpurposecapabletoast |  
+| bip_39_word_no_space_6 | eternalflavorpurposecapabletoastwine |  
+| bip_39_word_no_space_7 | eternalflavorpurposecapabletoastwineshallow |  
+| bip_39_word_no_space_8 | eternalflavorpurposecapabletoastwineshallowfriend |  
+| bip_39_word_no_space_9 | eternalflavorpurposecapabletoastwineshallowfriendsettle |  
 | bip_39_word_space_0 | ['eternal', 'flavor', 'purpose', 'capable', 'toast', 'wine', 'shallow', 'friend', 'settle', 'board', 'filter', 'armed'] |  
 | bip_39_word_space_1 | eternal |  
 | bip_39_word_space_10 | eternal flavor purpose capable toast wine shallow friend settle board |  

@@ -122,6 +122,18 @@ car
 stool
 tiger
 boss |  
+| bip_39_word_no_space_1 | rude |  
+| bip_39_word_no_space_10 | rudeattitudeslidestudentstablecarstooltigerbossbalcony |  
+| bip_39_word_no_space_11 | rudeattitudeslidestudentstablecarstooltigerbossbalconyagree |  
+| bip_39_word_no_space_12 | rudeattitudeslidestudentstablecarstooltigerbossbalconyagreeauthor |  
+| bip_39_word_no_space_2 | rudeattitude |  
+| bip_39_word_no_space_3 | rudeattitudeslide |  
+| bip_39_word_no_space_4 | rudeattitudeslidestudent |  
+| bip_39_word_no_space_5 | rudeattitudeslidestudentstable |  
+| bip_39_word_no_space_6 | rudeattitudeslidestudentstablecar |  
+| bip_39_word_no_space_7 | rudeattitudeslidestudentstablecarstool |  
+| bip_39_word_no_space_8 | rudeattitudeslidestudentstablecarstooltiger |  
+| bip_39_word_no_space_9 | rudeattitudeslidestudentstablecarstooltigerboss |  
 | bip_39_word_space_0 | ['rude', 'attitude', 'slide', 'student', 'stable', 'car', 'stool', 'tiger', 'boss', 'balcony', 'agree', 'author'] |  
 | bip_39_word_space_1 | rude |  
 | bip_39_word_space_10 | rude attitude slide student stable car stool tiger boss balcony |  

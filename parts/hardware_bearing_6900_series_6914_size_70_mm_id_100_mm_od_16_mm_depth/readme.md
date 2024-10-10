@@ -122,6 +122,18 @@ swing
 verify
 gun
 exotic |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bosshotelstayexpireborderswingverifygunexoticrecord |  
+| bip_39_word_no_space_11 | bosshotelstayexpireborderswingverifygunexoticrecordwrist |  
+| bip_39_word_no_space_12 | bosshotelstayexpireborderswingverifygunexoticrecordwristallow |  
+| bip_39_word_no_space_2 | bosshotel |  
+| bip_39_word_no_space_3 | bosshotelstay |  
+| bip_39_word_no_space_4 | bosshotelstayexpire |  
+| bip_39_word_no_space_5 | bosshotelstayexpireborder |  
+| bip_39_word_no_space_6 | bosshotelstayexpireborderswing |  
+| bip_39_word_no_space_7 | bosshotelstayexpireborderswingverify |  
+| bip_39_word_no_space_8 | bosshotelstayexpireborderswingverifygun |  
+| bip_39_word_no_space_9 | bosshotelstayexpireborderswingverifygunexotic |  
 | bip_39_word_space_0 | ['boss', 'hotel', 'stay', 'expire', 'border', 'swing', 'verify', 'gun', 'exotic', 'record', 'wrist', 'allow'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss hotel stay expire border swing verify gun exotic record |  

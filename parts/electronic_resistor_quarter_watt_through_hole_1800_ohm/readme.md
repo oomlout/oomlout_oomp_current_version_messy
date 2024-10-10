@@ -122,6 +122,18 @@ pumpkin
 people
 stumble
 rice |  
+| bip_39_word_no_space_1 | crime |  
+| bip_39_word_no_space_10 | crimecushioncryhellosharepumpkinpeoplestumblericemetal |  
+| bip_39_word_no_space_11 | crimecushioncryhellosharepumpkinpeoplestumblericemetalkind |  
+| bip_39_word_no_space_12 | crimecushioncryhellosharepumpkinpeoplestumblericemetalkindalmost |  
+| bip_39_word_no_space_2 | crimecushion |  
+| bip_39_word_no_space_3 | crimecushioncry |  
+| bip_39_word_no_space_4 | crimecushioncryhello |  
+| bip_39_word_no_space_5 | crimecushioncryhelloshare |  
+| bip_39_word_no_space_6 | crimecushioncryhellosharepumpkin |  
+| bip_39_word_no_space_7 | crimecushioncryhellosharepumpkinpeople |  
+| bip_39_word_no_space_8 | crimecushioncryhellosharepumpkinpeoplestumble |  
+| bip_39_word_no_space_9 | crimecushioncryhellosharepumpkinpeoplestumblerice |  
 | bip_39_word_space_0 | ['crime', 'cushion', 'cry', 'hello', 'share', 'pumpkin', 'people', 'stumble', 'rice', 'metal', 'kind', 'almost'] |  
 | bip_39_word_space_1 | crime |  
 | bip_39_word_space_10 | crime cushion cry hello share pumpkin people stumble rice metal |  

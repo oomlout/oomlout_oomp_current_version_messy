@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'unit
   lunch
 
   mystery'
+bip_39_word_no_space_1: unit
+bip_39_word_no_space_10: unitabandondustupsetproudturkeygaugelunchmysteryfront
+bip_39_word_no_space_11: unitabandondustupsetproudturkeygaugelunchmysteryfronteducate
+bip_39_word_no_space_12: unitabandondustupsetproudturkeygaugelunchmysteryfronteducateaddict
+bip_39_word_no_space_2: unitabandon
+bip_39_word_no_space_3: unitabandondust
+bip_39_word_no_space_4: unitabandondustupset
+bip_39_word_no_space_5: unitabandondustupsetproud
+bip_39_word_no_space_6: unitabandondustupsetproudturkey
+bip_39_word_no_space_7: unitabandondustupsetproudturkeygauge
+bip_39_word_no_space_8: unitabandondustupsetproudturkeygaugelunch
+bip_39_word_no_space_9: unitabandondustupsetproudturkeygaugelunchmystery
 bip_39_word_space_0:
 - unit
 - abandon

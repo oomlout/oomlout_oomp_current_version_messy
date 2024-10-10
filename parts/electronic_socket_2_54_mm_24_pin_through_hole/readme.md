@@ -122,6 +122,18 @@ poet
 dilemma
 record
 six |  
+| bip_39_word_no_space_1 | hotel |  
+| bip_39_word_no_space_10 | hoteliceglowcatchwheatpoetdilemmarecordsixrapid |  
+| bip_39_word_no_space_11 | hoteliceglowcatchwheatpoetdilemmarecordsixrapidclown |  
+| bip_39_word_no_space_12 | hoteliceglowcatchwheatpoetdilemmarecordsixrapidclownassault |  
+| bip_39_word_no_space_2 | hotelice |  
+| bip_39_word_no_space_3 | hoteliceglow |  
+| bip_39_word_no_space_4 | hoteliceglowcatch |  
+| bip_39_word_no_space_5 | hoteliceglowcatchwheat |  
+| bip_39_word_no_space_6 | hoteliceglowcatchwheatpoet |  
+| bip_39_word_no_space_7 | hoteliceglowcatchwheatpoetdilemma |  
+| bip_39_word_no_space_8 | hoteliceglowcatchwheatpoetdilemmarecord |  
+| bip_39_word_no_space_9 | hoteliceglowcatchwheatpoetdilemmarecordsix |  
 | bip_39_word_space_0 | ['hotel', 'ice', 'glow', 'catch', 'wheat', 'poet', 'dilemma', 'record', 'six', 'rapid', 'clown', 'assault'] |  
 | bip_39_word_space_1 | hotel |  
 | bip_39_word_space_10 | hotel ice glow catch wheat poet dilemma record six rapid |  

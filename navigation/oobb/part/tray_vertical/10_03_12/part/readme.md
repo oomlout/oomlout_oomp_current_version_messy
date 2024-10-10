@@ -122,6 +122,18 @@ hard
 rapid
 wrestle
 person |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietpioneerbusygarbagedesignhardrapidwrestlepersoninherit |  
+| bip_39_word_no_space_11 | dietpioneerbusygarbagedesignhardrapidwrestlepersoninherittired |  
+| bip_39_word_no_space_12 | dietpioneerbusygarbagedesignhardrapidwrestlepersoninherittiredadjust |  
+| bip_39_word_no_space_2 | dietpioneer |  
+| bip_39_word_no_space_3 | dietpioneerbusy |  
+| bip_39_word_no_space_4 | dietpioneerbusygarbage |  
+| bip_39_word_no_space_5 | dietpioneerbusygarbagedesign |  
+| bip_39_word_no_space_6 | dietpioneerbusygarbagedesignhard |  
+| bip_39_word_no_space_7 | dietpioneerbusygarbagedesignhardrapid |  
+| bip_39_word_no_space_8 | dietpioneerbusygarbagedesignhardrapidwrestle |  
+| bip_39_word_no_space_9 | dietpioneerbusygarbagedesignhardrapidwrestleperson |  
 | bip_39_word_space_0 | ['diet', 'pioneer', 'busy', 'garbage', 'design', 'hard', 'rapid', 'wrestle', 'person', 'inherit', 'tired', 'adjust'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet pioneer busy garbage design hard rapid wrestle person inherit |  

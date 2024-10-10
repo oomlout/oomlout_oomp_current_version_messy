@@ -122,6 +122,18 @@ panther
 march
 vessel
 boil |  
+| bip_39_word_no_space_1 | engage |  
+| bip_39_word_no_space_10 | engagemoreduneriotemptypanthermarchvesselboilroof |  
+| bip_39_word_no_space_11 | engagemoreduneriotemptypanthermarchvesselboilroofcase |  
+| bip_39_word_no_space_12 | engagemoreduneriotemptypanthermarchvesselboilroofcaseaudit |  
+| bip_39_word_no_space_2 | engagemore |  
+| bip_39_word_no_space_3 | engagemoredune |  
+| bip_39_word_no_space_4 | engagemoreduneriot |  
+| bip_39_word_no_space_5 | engagemoreduneriotempty |  
+| bip_39_word_no_space_6 | engagemoreduneriotemptypanther |  
+| bip_39_word_no_space_7 | engagemoreduneriotemptypanthermarch |  
+| bip_39_word_no_space_8 | engagemoreduneriotemptypanthermarchvessel |  
+| bip_39_word_no_space_9 | engagemoreduneriotemptypanthermarchvesselboil |  
 | bip_39_word_space_0 | ['engage', 'more', 'dune', 'riot', 'empty', 'panther', 'march', 'vessel', 'boil', 'roof', 'case', 'audit'] |  
 | bip_39_word_space_1 | engage |  
 | bip_39_word_space_10 | engage more dune riot empty panther march vessel boil roof |  

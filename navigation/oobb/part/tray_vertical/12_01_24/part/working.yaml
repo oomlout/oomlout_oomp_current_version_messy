@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'talent
   economy
 
   still'
+bip_39_word_no_space_1: talent
+bip_39_word_no_space_10: talentplaynaivepandapuzzlelogicsalmoneconomystillgesture
+bip_39_word_no_space_11: talentplaynaivepandapuzzlelogicsalmoneconomystillgesturemango
+bip_39_word_no_space_12: talentplaynaivepandapuzzlelogicsalmoneconomystillgesturemangoassume
+bip_39_word_no_space_2: talentplay
+bip_39_word_no_space_3: talentplaynaive
+bip_39_word_no_space_4: talentplaynaivepanda
+bip_39_word_no_space_5: talentplaynaivepandapuzzle
+bip_39_word_no_space_6: talentplaynaivepandapuzzlelogic
+bip_39_word_no_space_7: talentplaynaivepandapuzzlelogicsalmon
+bip_39_word_no_space_8: talentplaynaivepandapuzzlelogicsalmoneconomy
+bip_39_word_no_space_9: talentplaynaivepandapuzzlelogicsalmoneconomystill
 bip_39_word_space_0:
 - talent
 - play

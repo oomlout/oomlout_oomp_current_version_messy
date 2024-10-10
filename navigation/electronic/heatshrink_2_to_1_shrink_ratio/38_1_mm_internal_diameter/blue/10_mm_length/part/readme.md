@@ -122,6 +122,18 @@ basic
 point
 limb
 two |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westpatrolfestivalcleverhawkbasicpointlimbtwowrap |  
+| bip_39_word_no_space_11 | westpatrolfestivalcleverhawkbasicpointlimbtwowrapbike |  
+| bip_39_word_no_space_12 | westpatrolfestivalcleverhawkbasicpointlimbtwowrapbikeadd |  
+| bip_39_word_no_space_2 | westpatrol |  
+| bip_39_word_no_space_3 | westpatrolfestival |  
+| bip_39_word_no_space_4 | westpatrolfestivalclever |  
+| bip_39_word_no_space_5 | westpatrolfestivalcleverhawk |  
+| bip_39_word_no_space_6 | westpatrolfestivalcleverhawkbasic |  
+| bip_39_word_no_space_7 | westpatrolfestivalcleverhawkbasicpoint |  
+| bip_39_word_no_space_8 | westpatrolfestivalcleverhawkbasicpointlimb |  
+| bip_39_word_no_space_9 | westpatrolfestivalcleverhawkbasicpointlimbtwo |  
 | bip_39_word_space_0 | ['west', 'patrol', 'festival', 'clever', 'hawk', 'basic', 'point', 'limb', 'two', 'wrap', 'bike', 'add'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west patrol festival clever hawk basic point limb two wrap |  

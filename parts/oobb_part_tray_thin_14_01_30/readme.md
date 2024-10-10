@@ -122,6 +122,18 @@ verify
 ladder
 bomb
 energy |  
+| bip_39_word_no_space_1 | ordinary |  
+| bip_39_word_no_space_10 | ordinaryinputtoymarriagesimilarverifyladderbombenergysetup |  
+| bip_39_word_no_space_11 | ordinaryinputtoymarriagesimilarverifyladderbombenergysetuptissue |  
+| bip_39_word_no_space_12 | ordinaryinputtoymarriagesimilarverifyladderbombenergysetuptissueattack |  
+| bip_39_word_no_space_2 | ordinaryinput |  
+| bip_39_word_no_space_3 | ordinaryinputtoy |  
+| bip_39_word_no_space_4 | ordinaryinputtoymarriage |  
+| bip_39_word_no_space_5 | ordinaryinputtoymarriagesimilar |  
+| bip_39_word_no_space_6 | ordinaryinputtoymarriagesimilarverify |  
+| bip_39_word_no_space_7 | ordinaryinputtoymarriagesimilarverifyladder |  
+| bip_39_word_no_space_8 | ordinaryinputtoymarriagesimilarverifyladderbomb |  
+| bip_39_word_no_space_9 | ordinaryinputtoymarriagesimilarverifyladderbombenergy |  
 | bip_39_word_space_0 | ['ordinary', 'input', 'toy', 'marriage', 'similar', 'verify', 'ladder', 'bomb', 'energy', 'setup', 'tissue', 'attack'] |  
 | bip_39_word_space_1 | ordinary |  
 | bip_39_word_space_10 | ordinary input toy marriage similar verify ladder bomb energy setup |  

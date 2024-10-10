@@ -122,6 +122,18 @@ early
 scatter
 mirror
 spy |  
+| bip_39_word_no_space_1 | crack |  
+| bip_39_word_no_space_10 | crackpistolengageheightchooseearlyscattermirrorspytiger |  
+| bip_39_word_no_space_11 | crackpistolengageheightchooseearlyscattermirrorspytigerbook |  
+| bip_39_word_no_space_12 | crackpistolengageheightchooseearlyscattermirrorspytigerbookabout |  
+| bip_39_word_no_space_2 | crackpistol |  
+| bip_39_word_no_space_3 | crackpistolengage |  
+| bip_39_word_no_space_4 | crackpistolengageheight |  
+| bip_39_word_no_space_5 | crackpistolengageheightchoose |  
+| bip_39_word_no_space_6 | crackpistolengageheightchooseearly |  
+| bip_39_word_no_space_7 | crackpistolengageheightchooseearlyscatter |  
+| bip_39_word_no_space_8 | crackpistolengageheightchooseearlyscattermirror |  
+| bip_39_word_no_space_9 | crackpistolengageheightchooseearlyscattermirrorspy |  
 | bip_39_word_space_0 | ['crack', 'pistol', 'engage', 'height', 'choose', 'early', 'scatter', 'mirror', 'spy', 'tiger', 'book', 'about'] |  
 | bip_39_word_space_1 | crack |  
 | bip_39_word_space_10 | crack pistol engage height choose early scatter mirror spy tiger |  

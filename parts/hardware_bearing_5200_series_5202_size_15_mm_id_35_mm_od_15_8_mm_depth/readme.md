@@ -122,6 +122,18 @@ art
 trumpet
 mix
 bunker |  
+| bip_39_word_no_space_1 | hint |  
+| bip_39_word_no_space_10 | hintlegendcrazyintacttwoarttrumpetmixbunkerspell |  
+| bip_39_word_no_space_11 | hintlegendcrazyintacttwoarttrumpetmixbunkerspellswarm |  
+| bip_39_word_no_space_12 | hintlegendcrazyintacttwoarttrumpetmixbunkerspellswarmartefact |  
+| bip_39_word_no_space_2 | hintlegend |  
+| bip_39_word_no_space_3 | hintlegendcrazy |  
+| bip_39_word_no_space_4 | hintlegendcrazyintact |  
+| bip_39_word_no_space_5 | hintlegendcrazyintacttwo |  
+| bip_39_word_no_space_6 | hintlegendcrazyintacttwoart |  
+| bip_39_word_no_space_7 | hintlegendcrazyintacttwoarttrumpet |  
+| bip_39_word_no_space_8 | hintlegendcrazyintacttwoarttrumpetmix |  
+| bip_39_word_no_space_9 | hintlegendcrazyintacttwoarttrumpetmixbunker |  
 | bip_39_word_space_0 | ['hint', 'legend', 'crazy', 'intact', 'two', 'art', 'trumpet', 'mix', 'bunker', 'spell', 'swarm', 'artefact'] |  
 | bip_39_word_space_1 | hint |  
 | bip_39_word_space_10 | hint legend crazy intact two art trumpet mix bunker spell |  

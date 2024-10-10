@@ -122,6 +122,18 @@ alert
 initial
 pony
 twice |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectrunwayshoulderrallybehavealertinitialponytwicesmart |  
+| bip_39_word_no_space_11 | selectrunwayshoulderrallybehavealertinitialponytwicesmartceiling |  
+| bip_39_word_no_space_12 | selectrunwayshoulderrallybehavealertinitialponytwicesmartceilingarrest |  
+| bip_39_word_no_space_2 | selectrunway |  
+| bip_39_word_no_space_3 | selectrunwayshoulder |  
+| bip_39_word_no_space_4 | selectrunwayshoulderrally |  
+| bip_39_word_no_space_5 | selectrunwayshoulderrallybehave |  
+| bip_39_word_no_space_6 | selectrunwayshoulderrallybehavealert |  
+| bip_39_word_no_space_7 | selectrunwayshoulderrallybehavealertinitial |  
+| bip_39_word_no_space_8 | selectrunwayshoulderrallybehavealertinitialpony |  
+| bip_39_word_no_space_9 | selectrunwayshoulderrallybehavealertinitialponytwice |  
 | bip_39_word_space_0 | ['select', 'runway', 'shoulder', 'rally', 'behave', 'alert', 'initial', 'pony', 'twice', 'smart', 'ceiling', 'arrest'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select runway shoulder rally behave alert initial pony twice smart |  

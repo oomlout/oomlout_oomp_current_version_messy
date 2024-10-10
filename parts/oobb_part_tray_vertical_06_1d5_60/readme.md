@@ -122,6 +122,18 @@ tomato
 horn
 betray
 dynamic |  
+| bip_39_word_no_space_1 | caught |  
+| bip_39_word_no_space_10 | caughteconomyventureseminarmothertomatohornbetraydynamictackle |  
+| bip_39_word_no_space_11 | caughteconomyventureseminarmothertomatohornbetraydynamictackleperfect |  
+| bip_39_word_no_space_12 | caughteconomyventureseminarmothertomatohornbetraydynamictackleperfectagain |  
+| bip_39_word_no_space_2 | caughteconomy |  
+| bip_39_word_no_space_3 | caughteconomyventure |  
+| bip_39_word_no_space_4 | caughteconomyventureseminar |  
+| bip_39_word_no_space_5 | caughteconomyventureseminarmother |  
+| bip_39_word_no_space_6 | caughteconomyventureseminarmothertomato |  
+| bip_39_word_no_space_7 | caughteconomyventureseminarmothertomatohorn |  
+| bip_39_word_no_space_8 | caughteconomyventureseminarmothertomatohornbetray |  
+| bip_39_word_no_space_9 | caughteconomyventureseminarmothertomatohornbetraydynamic |  
 | bip_39_word_space_0 | ['caught', 'economy', 'venture', 'seminar', 'mother', 'tomato', 'horn', 'betray', 'dynamic', 'tackle', 'perfect', 'again'] |  
 | bip_39_word_space_1 | caught |  
 | bip_39_word_space_10 | caught economy venture seminar mother tomato horn betray dynamic tackle |  

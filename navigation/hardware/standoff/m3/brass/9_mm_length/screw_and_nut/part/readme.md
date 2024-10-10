@@ -122,6 +122,18 @@ upper
 reject
 wage
 height |  
+| bip_39_word_no_space_1 | assist |  
+| bip_39_word_no_space_10 | assistpigcastleadultsickupperrejectwageheighttoilet |  
+| bip_39_word_no_space_11 | assistpigcastleadultsickupperrejectwageheighttoilettip |  
+| bip_39_word_no_space_12 | assistpigcastleadultsickupperrejectwageheighttoilettipalarm |  
+| bip_39_word_no_space_2 | assistpig |  
+| bip_39_word_no_space_3 | assistpigcastle |  
+| bip_39_word_no_space_4 | assistpigcastleadult |  
+| bip_39_word_no_space_5 | assistpigcastleadultsick |  
+| bip_39_word_no_space_6 | assistpigcastleadultsickupper |  
+| bip_39_word_no_space_7 | assistpigcastleadultsickupperreject |  
+| bip_39_word_no_space_8 | assistpigcastleadultsickupperrejectwage |  
+| bip_39_word_no_space_9 | assistpigcastleadultsickupperrejectwageheight |  
 | bip_39_word_space_0 | ['assist', 'pig', 'castle', 'adult', 'sick', 'upper', 'reject', 'wage', 'height', 'toilet', 'tip', 'alarm'] |  
 | bip_39_word_space_1 | assist |  
 | bip_39_word_space_10 | assist pig castle adult sick upper reject wage height toilet |  

@@ -122,6 +122,18 @@ wisdom
 cricket
 panther
 onion |  
+| bip_39_word_no_space_1 | butter |  
+| bip_39_word_no_space_10 | buttercurrentunlockgarbageonlywisdomcricketpantheroniontrap |  
+| bip_39_word_no_space_11 | buttercurrentunlockgarbageonlywisdomcricketpantheroniontrapbottom |  
+| bip_39_word_no_space_12 | buttercurrentunlockgarbageonlywisdomcricketpantheroniontrapbottomacoustic |  
+| bip_39_word_no_space_2 | buttercurrent |  
+| bip_39_word_no_space_3 | buttercurrentunlock |  
+| bip_39_word_no_space_4 | buttercurrentunlockgarbage |  
+| bip_39_word_no_space_5 | buttercurrentunlockgarbageonly |  
+| bip_39_word_no_space_6 | buttercurrentunlockgarbageonlywisdom |  
+| bip_39_word_no_space_7 | buttercurrentunlockgarbageonlywisdomcricket |  
+| bip_39_word_no_space_8 | buttercurrentunlockgarbageonlywisdomcricketpanther |  
+| bip_39_word_no_space_9 | buttercurrentunlockgarbageonlywisdomcricketpantheronion |  
 | bip_39_word_space_0 | ['butter', 'current', 'unlock', 'garbage', 'only', 'wisdom', 'cricket', 'panther', 'onion', 'trap', 'bottom', 'acoustic'] |  
 | bip_39_word_space_1 | butter |  
 | bip_39_word_space_10 | butter current unlock garbage only wisdom cricket panther onion trap |  

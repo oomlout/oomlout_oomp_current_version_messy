@@ -122,6 +122,18 @@ fine
 canoe
 soccer
 enable |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | hendinosaurcornenjoystagefinecanoesoccerenableframe |  
+| bip_39_word_no_space_11 | hendinosaurcornenjoystagefinecanoesoccerenableframeenforce |  
+| bip_39_word_no_space_12 | hendinosaurcornenjoystagefinecanoesoccerenableframeenforceaerobic |  
+| bip_39_word_no_space_2 | hendinosaur |  
+| bip_39_word_no_space_3 | hendinosaurcorn |  
+| bip_39_word_no_space_4 | hendinosaurcornenjoy |  
+| bip_39_word_no_space_5 | hendinosaurcornenjoystage |  
+| bip_39_word_no_space_6 | hendinosaurcornenjoystagefine |  
+| bip_39_word_no_space_7 | hendinosaurcornenjoystagefinecanoe |  
+| bip_39_word_no_space_8 | hendinosaurcornenjoystagefinecanoesoccer |  
+| bip_39_word_no_space_9 | hendinosaurcornenjoystagefinecanoesoccerenable |  
 | bip_39_word_space_0 | ['hen', 'dinosaur', 'corn', 'enjoy', 'stage', 'fine', 'canoe', 'soccer', 'enable', 'frame', 'enforce', 'aerobic'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen dinosaur corn enjoy stage fine canoe soccer enable frame |  

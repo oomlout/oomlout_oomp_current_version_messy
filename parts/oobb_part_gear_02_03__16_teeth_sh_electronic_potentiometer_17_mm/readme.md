@@ -122,6 +122,18 @@ success
 tail
 fame
 custom |  
+| bip_39_word_no_space_1 | expose |  
+| bip_39_word_no_space_10 | exposecashdebrisdrivehandsuccesstailfamecustomcolor |  
+| bip_39_word_no_space_11 | exposecashdebrisdrivehandsuccesstailfamecustomcolorfollow |  
+| bip_39_word_no_space_12 | exposecashdebrisdrivehandsuccesstailfamecustomcolorfollowamateur |  
+| bip_39_word_no_space_2 | exposecash |  
+| bip_39_word_no_space_3 | exposecashdebris |  
+| bip_39_word_no_space_4 | exposecashdebrisdrive |  
+| bip_39_word_no_space_5 | exposecashdebrisdrivehand |  
+| bip_39_word_no_space_6 | exposecashdebrisdrivehandsuccess |  
+| bip_39_word_no_space_7 | exposecashdebrisdrivehandsuccesstail |  
+| bip_39_word_no_space_8 | exposecashdebrisdrivehandsuccesstailfame |  
+| bip_39_word_no_space_9 | exposecashdebrisdrivehandsuccesstailfamecustom |  
 | bip_39_word_space_0 | ['expose', 'cash', 'debris', 'drive', 'hand', 'success', 'tail', 'fame', 'custom', 'color', 'follow', 'amateur'] |  
 | bip_39_word_space_1 | expose |  
 | bip_39_word_space_10 | expose cash debris drive hand success tail fame custom color |  

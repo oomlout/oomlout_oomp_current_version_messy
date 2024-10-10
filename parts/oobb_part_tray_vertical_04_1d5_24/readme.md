@@ -122,6 +122,18 @@ swim
 island
 defense
 capable |  
+| bip_39_word_no_space_1 | rifle |  
+| bip_39_word_no_space_10 | riflevillageharshcallcancelswimislanddefensecapableassume |  
+| bip_39_word_no_space_11 | riflevillageharshcallcancelswimislanddefensecapableassumeduck |  
+| bip_39_word_no_space_12 | riflevillageharshcallcancelswimislanddefensecapableassumeduckadmit |  
+| bip_39_word_no_space_2 | riflevillage |  
+| bip_39_word_no_space_3 | riflevillageharsh |  
+| bip_39_word_no_space_4 | riflevillageharshcall |  
+| bip_39_word_no_space_5 | riflevillageharshcallcancel |  
+| bip_39_word_no_space_6 | riflevillageharshcallcancelswim |  
+| bip_39_word_no_space_7 | riflevillageharshcallcancelswimisland |  
+| bip_39_word_no_space_8 | riflevillageharshcallcancelswimislanddefense |  
+| bip_39_word_no_space_9 | riflevillageharshcallcancelswimislanddefensecapable |  
 | bip_39_word_space_0 | ['rifle', 'village', 'harsh', 'call', 'cancel', 'swim', 'island', 'defense', 'capable', 'assume', 'duck', 'admit'] |  
 | bip_39_word_space_1 | rifle |  
 | bip_39_word_space_10 | rifle village harsh call cancel swim island defense capable assume |  

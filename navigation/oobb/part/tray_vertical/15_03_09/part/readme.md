@@ -122,6 +122,18 @@ action
 combine
 sniff
 history |  
+| bip_39_word_no_space_1 | purpose |  
+| bip_39_word_no_space_10 | purposeducksamepersonmoralactioncombinesniffhistorypredict |  
+| bip_39_word_no_space_11 | purposeducksamepersonmoralactioncombinesniffhistorypredictrecycle |  
+| bip_39_word_no_space_12 | purposeducksamepersonmoralactioncombinesniffhistorypredictrecyclearmed |  
+| bip_39_word_no_space_2 | purposeduck |  
+| bip_39_word_no_space_3 | purposeducksame |  
+| bip_39_word_no_space_4 | purposeducksameperson |  
+| bip_39_word_no_space_5 | purposeducksamepersonmoral |  
+| bip_39_word_no_space_6 | purposeducksamepersonmoralaction |  
+| bip_39_word_no_space_7 | purposeducksamepersonmoralactioncombine |  
+| bip_39_word_no_space_8 | purposeducksamepersonmoralactioncombinesniff |  
+| bip_39_word_no_space_9 | purposeducksamepersonmoralactioncombinesniffhistory |  
 | bip_39_word_space_0 | ['purpose', 'duck', 'same', 'person', 'moral', 'action', 'combine', 'sniff', 'history', 'predict', 'recycle', 'armed'] |  
 | bip_39_word_space_1 | purpose |  
 | bip_39_word_space_10 | purpose duck same person moral action combine sniff history predict |  

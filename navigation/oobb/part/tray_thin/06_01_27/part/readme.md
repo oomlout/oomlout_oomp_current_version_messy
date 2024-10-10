@@ -122,6 +122,18 @@ crack
 leaf
 kite
 bless |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialdepositlakegloomivorycrackleafkiteblessfeel |  
+| bip_39_word_no_space_11 | specialdepositlakegloomivorycrackleafkiteblessfeelbehave |  
+| bip_39_word_no_space_12 | specialdepositlakegloomivorycrackleafkiteblessfeelbehaveantenna |  
+| bip_39_word_no_space_2 | specialdeposit |  
+| bip_39_word_no_space_3 | specialdepositlake |  
+| bip_39_word_no_space_4 | specialdepositlakegloom |  
+| bip_39_word_no_space_5 | specialdepositlakegloomivory |  
+| bip_39_word_no_space_6 | specialdepositlakegloomivorycrack |  
+| bip_39_word_no_space_7 | specialdepositlakegloomivorycrackleaf |  
+| bip_39_word_no_space_8 | specialdepositlakegloomivorycrackleafkite |  
+| bip_39_word_no_space_9 | specialdepositlakegloomivorycrackleafkitebless |  
 | bip_39_word_space_0 | ['special', 'deposit', 'lake', 'gloom', 'ivory', 'crack', 'leaf', 'kite', 'bless', 'feel', 'behave', 'antenna'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special deposit lake gloom ivory crack leaf kite bless feel |  

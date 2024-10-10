@@ -122,6 +122,18 @@ mammal
 town
 behave
 message |  
+| bip_39_word_no_space_1 | milk |  
+| bip_39_word_no_space_10 | milkglassfilmplungewintermammaltownbehavemessagescan |  
+| bip_39_word_no_space_11 | milkglassfilmplungewintermammaltownbehavemessagescansmooth |  
+| bip_39_word_no_space_12 | milkglassfilmplungewintermammaltownbehavemessagescansmoothattract |  
+| bip_39_word_no_space_2 | milkglass |  
+| bip_39_word_no_space_3 | milkglassfilm |  
+| bip_39_word_no_space_4 | milkglassfilmplunge |  
+| bip_39_word_no_space_5 | milkglassfilmplungewinter |  
+| bip_39_word_no_space_6 | milkglassfilmplungewintermammal |  
+| bip_39_word_no_space_7 | milkglassfilmplungewintermammaltown |  
+| bip_39_word_no_space_8 | milkglassfilmplungewintermammaltownbehave |  
+| bip_39_word_no_space_9 | milkglassfilmplungewintermammaltownbehavemessage |  
 | bip_39_word_space_0 | ['milk', 'glass', 'film', 'plunge', 'winter', 'mammal', 'town', 'behave', 'message', 'scan', 'smooth', 'attract'] |  
 | bip_39_word_space_1 | milk |  
 | bip_39_word_space_10 | milk glass film plunge winter mammal town behave message scan |  

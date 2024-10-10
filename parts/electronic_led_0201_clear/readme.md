@@ -122,6 +122,18 @@ dash
 harsh
 desk
 flame |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandquartertentacousticdespairdashharshdeskflameapart |  
+| bip_39_word_no_space_11 | sandquartertentacousticdespairdashharshdeskflameapartsight |  
+| bip_39_word_no_space_12 | sandquartertentacousticdespairdashharshdeskflameapartsightanimal |  
+| bip_39_word_no_space_2 | sandquarter |  
+| bip_39_word_no_space_3 | sandquartertent |  
+| bip_39_word_no_space_4 | sandquartertentacoustic |  
+| bip_39_word_no_space_5 | sandquartertentacousticdespair |  
+| bip_39_word_no_space_6 | sandquartertentacousticdespairdash |  
+| bip_39_word_no_space_7 | sandquartertentacousticdespairdashharsh |  
+| bip_39_word_no_space_8 | sandquartertentacousticdespairdashharshdesk |  
+| bip_39_word_no_space_9 | sandquartertentacousticdespairdashharshdeskflame |  
 | bip_39_word_space_0 | ['sand', 'quarter', 'tent', 'acoustic', 'despair', 'dash', 'harsh', 'desk', 'flame', 'apart', 'sight', 'animal'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand quarter tent acoustic despair dash harsh desk flame apart |  

@@ -122,6 +122,18 @@ lonely
 spider
 lesson
 diary |  
+| bip_39_word_no_space_1 | equal |  
+| bip_39_word_no_space_10 | equaltomatosailcoinsimilarlonelyspiderlessondiarycave |  
+| bip_39_word_no_space_11 | equaltomatosailcoinsimilarlonelyspiderlessondiarycaveresponse |  
+| bip_39_word_no_space_12 | equaltomatosailcoinsimilarlonelyspiderlessondiarycaveresponseappear |  
+| bip_39_word_no_space_2 | equaltomato |  
+| bip_39_word_no_space_3 | equaltomatosail |  
+| bip_39_word_no_space_4 | equaltomatosailcoin |  
+| bip_39_word_no_space_5 | equaltomatosailcoinsimilar |  
+| bip_39_word_no_space_6 | equaltomatosailcoinsimilarlonely |  
+| bip_39_word_no_space_7 | equaltomatosailcoinsimilarlonelyspider |  
+| bip_39_word_no_space_8 | equaltomatosailcoinsimilarlonelyspiderlesson |  
+| bip_39_word_no_space_9 | equaltomatosailcoinsimilarlonelyspiderlessondiary |  
 | bip_39_word_space_0 | ['equal', 'tomato', 'sail', 'coin', 'similar', 'lonely', 'spider', 'lesson', 'diary', 'cave', 'response', 'appear'] |  
 | bip_39_word_space_1 | equal |  
 | bip_39_word_space_10 | equal tomato sail coin similar lonely spider lesson diary cave |  

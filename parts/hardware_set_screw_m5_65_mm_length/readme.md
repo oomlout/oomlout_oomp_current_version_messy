@@ -122,6 +122,18 @@ immense
 seminar
 example
 choose |  
+| bip_39_word_no_space_1 | group |  
+| bip_39_word_no_space_10 | groupcruisebroomgownessenceimmenseseminarexamplechoosestock |  
+| bip_39_word_no_space_11 | groupcruisebroomgownessenceimmenseseminarexamplechoosestockwage |  
+| bip_39_word_no_space_12 | groupcruisebroomgownessenceimmenseseminarexamplechoosestockwagealmost |  
+| bip_39_word_no_space_2 | groupcruise |  
+| bip_39_word_no_space_3 | groupcruisebroom |  
+| bip_39_word_no_space_4 | groupcruisebroomgown |  
+| bip_39_word_no_space_5 | groupcruisebroomgownessence |  
+| bip_39_word_no_space_6 | groupcruisebroomgownessenceimmense |  
+| bip_39_word_no_space_7 | groupcruisebroomgownessenceimmenseseminar |  
+| bip_39_word_no_space_8 | groupcruisebroomgownessenceimmenseseminarexample |  
+| bip_39_word_no_space_9 | groupcruisebroomgownessenceimmenseseminarexamplechoose |  
 | bip_39_word_space_0 | ['group', 'cruise', 'broom', 'gown', 'essence', 'immense', 'seminar', 'example', 'choose', 'stock', 'wage', 'almost'] |  
 | bip_39_word_space_1 | group |  
 | bip_39_word_space_10 | group cruise broom gown essence immense seminar example choose stock |  

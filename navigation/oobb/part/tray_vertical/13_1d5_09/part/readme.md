@@ -122,6 +122,18 @@ vanish
 media
 amateur
 heavy |  
+| bip_39_word_no_space_1 | trigger |  
+| bip_39_word_no_space_10 | triggerflightslicepropertyvanishvanishmediaamateurheavystruggle |  
+| bip_39_word_no_space_11 | triggerflightslicepropertyvanishvanishmediaamateurheavystruggleceiling |  
+| bip_39_word_no_space_12 | triggerflightslicepropertyvanishvanishmediaamateurheavystruggleceilingappear |  
+| bip_39_word_no_space_2 | triggerflight |  
+| bip_39_word_no_space_3 | triggerflightslice |  
+| bip_39_word_no_space_4 | triggerflightsliceproperty |  
+| bip_39_word_no_space_5 | triggerflightslicepropertyvanish |  
+| bip_39_word_no_space_6 | triggerflightslicepropertyvanishvanish |  
+| bip_39_word_no_space_7 | triggerflightslicepropertyvanishvanishmedia |  
+| bip_39_word_no_space_8 | triggerflightslicepropertyvanishvanishmediaamateur |  
+| bip_39_word_no_space_9 | triggerflightslicepropertyvanishvanishmediaamateurheavy |  
 | bip_39_word_space_0 | ['trigger', 'flight', 'slice', 'property', 'vanish', 'vanish', 'media', 'amateur', 'heavy', 'struggle', 'ceiling', 'appear'] |  
 | bip_39_word_space_1 | trigger |  
 | bip_39_word_space_10 | trigger flight slice property vanish vanish media amateur heavy struggle |  

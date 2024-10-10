@@ -122,6 +122,18 @@ visit
 fluid
 announce
 arrest |  
+| bip_39_word_no_space_1 | useless |  
+| bip_39_word_no_space_10 | uselesspianoorganstilljewelvisitfluidannouncearrestcraft |  
+| bip_39_word_no_space_11 | uselesspianoorganstilljewelvisitfluidannouncearrestcraftrazor |  
+| bip_39_word_no_space_12 | uselesspianoorganstilljewelvisitfluidannouncearrestcraftrazorabove |  
+| bip_39_word_no_space_2 | uselesspiano |  
+| bip_39_word_no_space_3 | uselesspianoorgan |  
+| bip_39_word_no_space_4 | uselesspianoorganstill |  
+| bip_39_word_no_space_5 | uselesspianoorganstilljewel |  
+| bip_39_word_no_space_6 | uselesspianoorganstilljewelvisit |  
+| bip_39_word_no_space_7 | uselesspianoorganstilljewelvisitfluid |  
+| bip_39_word_no_space_8 | uselesspianoorganstilljewelvisitfluidannounce |  
+| bip_39_word_no_space_9 | uselesspianoorganstilljewelvisitfluidannouncearrest |  
 | bip_39_word_space_0 | ['useless', 'piano', 'organ', 'still', 'jewel', 'visit', 'fluid', 'announce', 'arrest', 'craft', 'razor', 'above'] |  
 | bip_39_word_space_1 | useless |  
 | bip_39_word_space_10 | useless piano organ still jewel visit fluid announce arrest craft |  

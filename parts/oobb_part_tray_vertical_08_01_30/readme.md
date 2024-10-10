@@ -122,6 +122,18 @@ because
 spatial
 leg
 canoe |  
+| bip_39_word_no_space_1 | ring |  
+| bip_39_word_no_space_10 | ringspareoutdoordrivemiddlebecausespatiallegcanoesuper |  
+| bip_39_word_no_space_11 | ringspareoutdoordrivemiddlebecausespatiallegcanoesuperowner |  
+| bip_39_word_no_space_12 | ringspareoutdoordrivemiddlebecausespatiallegcanoesuperownerargue |  
+| bip_39_word_no_space_2 | ringspare |  
+| bip_39_word_no_space_3 | ringspareoutdoor |  
+| bip_39_word_no_space_4 | ringspareoutdoordrive |  
+| bip_39_word_no_space_5 | ringspareoutdoordrivemiddle |  
+| bip_39_word_no_space_6 | ringspareoutdoordrivemiddlebecause |  
+| bip_39_word_no_space_7 | ringspareoutdoordrivemiddlebecausespatial |  
+| bip_39_word_no_space_8 | ringspareoutdoordrivemiddlebecausespatialleg |  
+| bip_39_word_no_space_9 | ringspareoutdoordrivemiddlebecausespatiallegcanoe |  
 | bip_39_word_space_0 | ['ring', 'spare', 'outdoor', 'drive', 'middle', 'because', 'spatial', 'leg', 'canoe', 'super', 'owner', 'argue'] |  
 | bip_39_word_space_1 | ring |  
 | bip_39_word_space_10 | ring spare outdoor drive middle because spatial leg canoe super |  

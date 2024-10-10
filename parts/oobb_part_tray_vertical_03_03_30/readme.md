@@ -122,6 +122,18 @@ welcome
 taxi
 canvas
 verb |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavefruitsniffsongbouncewelcometaxicanvasverbdose |  
+| bip_39_word_no_space_11 | cavefruitsniffsongbouncewelcometaxicanvasverbdosescrap |  
+| bip_39_word_no_space_12 | cavefruitsniffsongbouncewelcometaxicanvasverbdosescrapage |  
+| bip_39_word_no_space_2 | cavefruit |  
+| bip_39_word_no_space_3 | cavefruitsniff |  
+| bip_39_word_no_space_4 | cavefruitsniffsong |  
+| bip_39_word_no_space_5 | cavefruitsniffsongbounce |  
+| bip_39_word_no_space_6 | cavefruitsniffsongbouncewelcome |  
+| bip_39_word_no_space_7 | cavefruitsniffsongbouncewelcometaxi |  
+| bip_39_word_no_space_8 | cavefruitsniffsongbouncewelcometaxicanvas |  
+| bip_39_word_no_space_9 | cavefruitsniffsongbouncewelcometaxicanvasverb |  
 | bip_39_word_space_0 | ['cave', 'fruit', 'sniff', 'song', 'bounce', 'welcome', 'taxi', 'canvas', 'verb', 'dose', 'scrap', 'age'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave fruit sniff song bounce welcome taxi canvas verb dose |  

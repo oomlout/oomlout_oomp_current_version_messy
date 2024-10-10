@@ -122,6 +122,18 @@ swim
 firm
 spring
 fly |  
+| bip_39_word_no_space_1 | cactus |  
+| bip_39_word_no_space_10 | cactusmediafederalmindweaselswimfirmspringflywant |  
+| bip_39_word_no_space_11 | cactusmediafederalmindweaselswimfirmspringflywantsilk |  
+| bip_39_word_no_space_12 | cactusmediafederalmindweaselswimfirmspringflywantsilkaddict |  
+| bip_39_word_no_space_2 | cactusmedia |  
+| bip_39_word_no_space_3 | cactusmediafederal |  
+| bip_39_word_no_space_4 | cactusmediafederalmind |  
+| bip_39_word_no_space_5 | cactusmediafederalmindweasel |  
+| bip_39_word_no_space_6 | cactusmediafederalmindweaselswim |  
+| bip_39_word_no_space_7 | cactusmediafederalmindweaselswimfirm |  
+| bip_39_word_no_space_8 | cactusmediafederalmindweaselswimfirmspring |  
+| bip_39_word_no_space_9 | cactusmediafederalmindweaselswimfirmspringfly |  
 | bip_39_word_space_0 | ['cactus', 'media', 'federal', 'mind', 'weasel', 'swim', 'firm', 'spring', 'fly', 'want', 'silk', 'addict'] |  
 | bip_39_word_space_1 | cactus |  
 | bip_39_word_space_10 | cactus media federal mind weasel swim firm spring fly want |  

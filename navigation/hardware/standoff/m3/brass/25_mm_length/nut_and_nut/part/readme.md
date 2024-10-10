@@ -122,6 +122,18 @@ chest
 tape
 solid
 embark |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondexpandforksugarsportchesttapesolidembarkboss |  
+| bip_39_word_no_space_11 | secondexpandforksugarsportchesttapesolidembarkbossvillage |  
+| bip_39_word_no_space_12 | secondexpandforksugarsportchesttapesolidembarkbossvillageabsent |  
+| bip_39_word_no_space_2 | secondexpand |  
+| bip_39_word_no_space_3 | secondexpandfork |  
+| bip_39_word_no_space_4 | secondexpandforksugar |  
+| bip_39_word_no_space_5 | secondexpandforksugarsport |  
+| bip_39_word_no_space_6 | secondexpandforksugarsportchest |  
+| bip_39_word_no_space_7 | secondexpandforksugarsportchesttape |  
+| bip_39_word_no_space_8 | secondexpandforksugarsportchesttapesolid |  
+| bip_39_word_no_space_9 | secondexpandforksugarsportchesttapesolidembark |  
 | bip_39_word_space_0 | ['second', 'expand', 'fork', 'sugar', 'sport', 'chest', 'tape', 'solid', 'embark', 'boss', 'village', 'absent'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second expand fork sugar sport chest tape solid embark boss |  

@@ -122,6 +122,18 @@ zebra
 parade
 name
 salt |  
+| bip_39_word_no_space_1 | pull |  
+| bip_39_word_no_space_10 | pullpenladygritwrestlezebraparadenamesaltturkey |  
+| bip_39_word_no_space_11 | pullpenladygritwrestlezebraparadenamesaltturkeysaddle |  
+| bip_39_word_no_space_12 | pullpenladygritwrestlezebraparadenamesaltturkeysaddleaisle |  
+| bip_39_word_no_space_2 | pullpen |  
+| bip_39_word_no_space_3 | pullpenlady |  
+| bip_39_word_no_space_4 | pullpenladygrit |  
+| bip_39_word_no_space_5 | pullpenladygritwrestle |  
+| bip_39_word_no_space_6 | pullpenladygritwrestlezebra |  
+| bip_39_word_no_space_7 | pullpenladygritwrestlezebraparade |  
+| bip_39_word_no_space_8 | pullpenladygritwrestlezebraparadename |  
+| bip_39_word_no_space_9 | pullpenladygritwrestlezebraparadenamesalt |  
 | bip_39_word_space_0 | ['pull', 'pen', 'lady', 'grit', 'wrestle', 'zebra', 'parade', 'name', 'salt', 'turkey', 'saddle', 'aisle'] |  
 | bip_39_word_space_1 | pull |  
 | bip_39_word_space_10 | pull pen lady grit wrestle zebra parade name salt turkey |  

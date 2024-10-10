@@ -122,6 +122,18 @@ survey
 lizard
 spare
 young |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparewalnutwoodpelicanfaultsurveylizardspareyounghundred |  
+| bip_39_word_no_space_11 | preparewalnutwoodpelicanfaultsurveylizardspareyounghundredreport |  
+| bip_39_word_no_space_12 | preparewalnutwoodpelicanfaultsurveylizardspareyounghundredreportabstract |  
+| bip_39_word_no_space_2 | preparewalnut |  
+| bip_39_word_no_space_3 | preparewalnutwood |  
+| bip_39_word_no_space_4 | preparewalnutwoodpelican |  
+| bip_39_word_no_space_5 | preparewalnutwoodpelicanfault |  
+| bip_39_word_no_space_6 | preparewalnutwoodpelicanfaultsurvey |  
+| bip_39_word_no_space_7 | preparewalnutwoodpelicanfaultsurveylizard |  
+| bip_39_word_no_space_8 | preparewalnutwoodpelicanfaultsurveylizardspare |  
+| bip_39_word_no_space_9 | preparewalnutwoodpelicanfaultsurveylizardspareyoung |  
 | bip_39_word_space_0 | ['prepare', 'walnut', 'wood', 'pelican', 'fault', 'survey', 'lizard', 'spare', 'young', 'hundred', 'report', 'abstract'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare walnut wood pelican fault survey lizard spare young hundred |  

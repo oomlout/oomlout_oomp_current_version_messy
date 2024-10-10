@@ -122,6 +122,18 @@ crash
 shiver
 art
 home |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thatanalystwebbonepiececrashshiverarthomemotor |  
+| bip_39_word_no_space_11 | thatanalystwebbonepiececrashshiverarthomemotormonkey |  
+| bip_39_word_no_space_12 | thatanalystwebbonepiececrashshiverarthomemotormonkeyagent |  
+| bip_39_word_no_space_2 | thatanalyst |  
+| bip_39_word_no_space_3 | thatanalystweb |  
+| bip_39_word_no_space_4 | thatanalystwebbone |  
+| bip_39_word_no_space_5 | thatanalystwebbonepiece |  
+| bip_39_word_no_space_6 | thatanalystwebbonepiececrash |  
+| bip_39_word_no_space_7 | thatanalystwebbonepiececrashshiver |  
+| bip_39_word_no_space_8 | thatanalystwebbonepiececrashshiverart |  
+| bip_39_word_no_space_9 | thatanalystwebbonepiececrashshiverarthome |  
 | bip_39_word_space_0 | ['that', 'analyst', 'web', 'bone', 'piece', 'crash', 'shiver', 'art', 'home', 'motor', 'monkey', 'agent'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that analyst web bone piece crash shiver art home motor |  

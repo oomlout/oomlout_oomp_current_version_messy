@@ -122,6 +122,18 @@ north
 pair
 fan
 cheap |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstvaultyouneardutynorthpairfancheapimage |  
+| bip_39_word_no_space_11 | firstvaultyouneardutynorthpairfancheapimagecalm |  
+| bip_39_word_no_space_12 | firstvaultyouneardutynorthpairfancheapimagecalmadapt |  
+| bip_39_word_no_space_2 | firstvault |  
+| bip_39_word_no_space_3 | firstvaultyou |  
+| bip_39_word_no_space_4 | firstvaultyounear |  
+| bip_39_word_no_space_5 | firstvaultyounearduty |  
+| bip_39_word_no_space_6 | firstvaultyouneardutynorth |  
+| bip_39_word_no_space_7 | firstvaultyouneardutynorthpair |  
+| bip_39_word_no_space_8 | firstvaultyouneardutynorthpairfan |  
+| bip_39_word_no_space_9 | firstvaultyouneardutynorthpairfancheap |  
 | bip_39_word_space_0 | ['first', 'vault', 'you', 'near', 'duty', 'north', 'pair', 'fan', 'cheap', 'image', 'calm', 'adapt'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first vault you near duty north pair fan cheap image |  

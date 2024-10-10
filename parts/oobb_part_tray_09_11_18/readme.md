@@ -122,6 +122,18 @@ pact
 birth
 price
 loyal |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchpandalobsterpublicquotepactbirthpriceloyalbelt |  
+| bip_39_word_no_space_11 | matchpandalobsterpublicquotepactbirthpriceloyalbeltdirt |  
+| bip_39_word_no_space_12 | matchpandalobsterpublicquotepactbirthpriceloyalbeltdirtaccount |  
+| bip_39_word_no_space_2 | matchpanda |  
+| bip_39_word_no_space_3 | matchpandalobster |  
+| bip_39_word_no_space_4 | matchpandalobsterpublic |  
+| bip_39_word_no_space_5 | matchpandalobsterpublicquote |  
+| bip_39_word_no_space_6 | matchpandalobsterpublicquotepact |  
+| bip_39_word_no_space_7 | matchpandalobsterpublicquotepactbirth |  
+| bip_39_word_no_space_8 | matchpandalobsterpublicquotepactbirthprice |  
+| bip_39_word_no_space_9 | matchpandalobsterpublicquotepactbirthpriceloyal |  
 | bip_39_word_space_0 | ['match', 'panda', 'lobster', 'public', 'quote', 'pact', 'birth', 'price', 'loyal', 'belt', 'dirt', 'account'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match panda lobster public quote pact birth price loyal belt |  

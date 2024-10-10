@@ -122,6 +122,18 @@ dress
 gadget
 shop
 cargo |  
+| bip_39_word_no_space_1 | volcano |  
+| bip_39_word_no_space_10 | volcanochangehurrygenrepowerdressgadgetshopcargocalm |  
+| bip_39_word_no_space_11 | volcanochangehurrygenrepowerdressgadgetshopcargocalmforward |  
+| bip_39_word_no_space_12 | volcanochangehurrygenrepowerdressgadgetshopcargocalmforwardabstract |  
+| bip_39_word_no_space_2 | volcanochange |  
+| bip_39_word_no_space_3 | volcanochangehurry |  
+| bip_39_word_no_space_4 | volcanochangehurrygenre |  
+| bip_39_word_no_space_5 | volcanochangehurrygenrepower |  
+| bip_39_word_no_space_6 | volcanochangehurrygenrepowerdress |  
+| bip_39_word_no_space_7 | volcanochangehurrygenrepowerdressgadget |  
+| bip_39_word_no_space_8 | volcanochangehurrygenrepowerdressgadgetshop |  
+| bip_39_word_no_space_9 | volcanochangehurrygenrepowerdressgadgetshopcargo |  
 | bip_39_word_space_0 | ['volcano', 'change', 'hurry', 'genre', 'power', 'dress', 'gadget', 'shop', 'cargo', 'calm', 'forward', 'abstract'] |  
 | bip_39_word_space_1 | volcano |  
 | bip_39_word_space_10 | volcano change hurry genre power dress gadget shop cargo calm |  

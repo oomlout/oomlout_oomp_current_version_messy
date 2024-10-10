@@ -122,6 +122,18 @@ mean
 wagon
 report
 seed |  
+| bip_39_word_no_space_1 | breeze |  
+| bip_39_word_no_space_10 | breezebeltaparticonswimmeanwagonreportseedattract |  
+| bip_39_word_no_space_11 | breezebeltaparticonswimmeanwagonreportseedattractpill |  
+| bip_39_word_no_space_12 | breezebeltaparticonswimmeanwagonreportseedattractpillavocado |  
+| bip_39_word_no_space_2 | breezebelt |  
+| bip_39_word_no_space_3 | breezebeltapart |  
+| bip_39_word_no_space_4 | breezebeltaparticon |  
+| bip_39_word_no_space_5 | breezebeltaparticonswim |  
+| bip_39_word_no_space_6 | breezebeltaparticonswimmean |  
+| bip_39_word_no_space_7 | breezebeltaparticonswimmeanwagon |  
+| bip_39_word_no_space_8 | breezebeltaparticonswimmeanwagonreport |  
+| bip_39_word_no_space_9 | breezebeltaparticonswimmeanwagonreportseed |  
 | bip_39_word_space_0 | ['breeze', 'belt', 'apart', 'icon', 'swim', 'mean', 'wagon', 'report', 'seed', 'attract', 'pill', 'avocado'] |  
 | bip_39_word_space_1 | breeze |  
 | bip_39_word_space_10 | breeze belt apart icon swim mean wagon report seed attract |  

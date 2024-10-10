@@ -122,6 +122,18 @@ dizzy
 wire
 clerk
 can |  
+| bip_39_word_no_space_1 | depth |  
+| bip_39_word_no_space_10 | depthiceconfirmnoteafforddizzywireclerkcanangry |  
+| bip_39_word_no_space_11 | depthiceconfirmnoteafforddizzywireclerkcanangrynose |  
+| bip_39_word_no_space_12 | depthiceconfirmnoteafforddizzywireclerkcanangrynoseargue |  
+| bip_39_word_no_space_2 | depthice |  
+| bip_39_word_no_space_3 | depthiceconfirm |  
+| bip_39_word_no_space_4 | depthiceconfirmnote |  
+| bip_39_word_no_space_5 | depthiceconfirmnoteafford |  
+| bip_39_word_no_space_6 | depthiceconfirmnoteafforddizzy |  
+| bip_39_word_no_space_7 | depthiceconfirmnoteafforddizzywire |  
+| bip_39_word_no_space_8 | depthiceconfirmnoteafforddizzywireclerk |  
+| bip_39_word_no_space_9 | depthiceconfirmnoteafforddizzywireclerkcan |  
 | bip_39_word_space_0 | ['depth', 'ice', 'confirm', 'note', 'afford', 'dizzy', 'wire', 'clerk', 'can', 'angry', 'nose', 'argue'] |  
 | bip_39_word_space_1 | depth |  
 | bip_39_word_space_10 | depth ice confirm note afford dizzy wire clerk can angry |  

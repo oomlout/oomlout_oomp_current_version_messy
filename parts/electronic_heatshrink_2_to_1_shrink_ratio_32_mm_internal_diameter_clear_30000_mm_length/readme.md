@@ -122,6 +122,18 @@ extra
 general
 electric
 crane |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmacommonaccusegreeninfantextrageneralelectriccraneexist |  
+| bip_39_word_no_space_11 | dilemmacommonaccusegreeninfantextrageneralelectriccraneexistnoble |  
+| bip_39_word_no_space_12 | dilemmacommonaccusegreeninfantextrageneralelectriccraneexistnobleathlete |  
+| bip_39_word_no_space_2 | dilemmacommon |  
+| bip_39_word_no_space_3 | dilemmacommonaccuse |  
+| bip_39_word_no_space_4 | dilemmacommonaccusegreen |  
+| bip_39_word_no_space_5 | dilemmacommonaccusegreeninfant |  
+| bip_39_word_no_space_6 | dilemmacommonaccusegreeninfantextra |  
+| bip_39_word_no_space_7 | dilemmacommonaccusegreeninfantextrageneral |  
+| bip_39_word_no_space_8 | dilemmacommonaccusegreeninfantextrageneralelectric |  
+| bip_39_word_no_space_9 | dilemmacommonaccusegreeninfantextrageneralelectriccrane |  
 | bip_39_word_space_0 | ['dilemma', 'common', 'accuse', 'green', 'infant', 'extra', 'general', 'electric', 'crane', 'exist', 'noble', 'athlete'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma common accuse green infant extra general electric crane exist |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'glance
   object
 
   front'
+bip_39_word_no_space_1: glance
+bip_39_word_no_space_10: glanceofferchampionbuseyerebuildcraneobjectfrontshove
+bip_39_word_no_space_11: glanceofferchampionbuseyerebuildcraneobjectfrontshovedraft
+bip_39_word_no_space_12: glanceofferchampionbuseyerebuildcraneobjectfrontshovedraftargue
+bip_39_word_no_space_2: glanceoffer
+bip_39_word_no_space_3: glanceofferchampion
+bip_39_word_no_space_4: glanceofferchampionbus
+bip_39_word_no_space_5: glanceofferchampionbuseye
+bip_39_word_no_space_6: glanceofferchampionbuseyerebuild
+bip_39_word_no_space_7: glanceofferchampionbuseyerebuildcrane
+bip_39_word_no_space_8: glanceofferchampionbuseyerebuildcraneobject
+bip_39_word_no_space_9: glanceofferchampionbuseyerebuildcraneobjectfront
 bip_39_word_space_0:
 - glance
 - offer

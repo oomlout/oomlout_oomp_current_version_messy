@@ -122,6 +122,18 @@ enroll
 table
 basket
 sibling |  
+| bip_39_word_no_space_1 | negative |  
+| bip_39_word_no_space_10 | negativegoattonguebargainrecipeenrolltablebasketsiblingcountry |  
+| bip_39_word_no_space_11 | negativegoattonguebargainrecipeenrolltablebasketsiblingcountrycart |  
+| bip_39_word_no_space_12 | negativegoattonguebargainrecipeenrolltablebasketsiblingcountrycartaction |  
+| bip_39_word_no_space_2 | negativegoat |  
+| bip_39_word_no_space_3 | negativegoattongue |  
+| bip_39_word_no_space_4 | negativegoattonguebargain |  
+| bip_39_word_no_space_5 | negativegoattonguebargainrecipe |  
+| bip_39_word_no_space_6 | negativegoattonguebargainrecipeenroll |  
+| bip_39_word_no_space_7 | negativegoattonguebargainrecipeenrolltable |  
+| bip_39_word_no_space_8 | negativegoattonguebargainrecipeenrolltablebasket |  
+| bip_39_word_no_space_9 | negativegoattonguebargainrecipeenrolltablebasketsibling |  
 | bip_39_word_space_0 | ['negative', 'goat', 'tongue', 'bargain', 'recipe', 'enroll', 'table', 'basket', 'sibling', 'country', 'cart', 'action'] |  
 | bip_39_word_space_1 | negative |  
 | bip_39_word_space_10 | negative goat tongue bargain recipe enroll table basket sibling country |  

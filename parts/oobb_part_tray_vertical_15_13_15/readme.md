@@ -122,6 +122,18 @@ sight
 resemble
 monkey
 kingdom |  
+| bip_39_word_no_space_1 | foster |  
+| bip_39_word_no_space_10 | fosterenablearguebonuskidneysightresemblemonkeykingdombarrel |  
+| bip_39_word_no_space_11 | fosterenablearguebonuskidneysightresemblemonkeykingdombarrelpolice |  
+| bip_39_word_no_space_12 | fosterenablearguebonuskidneysightresemblemonkeykingdombarrelpoliceanchor |  
+| bip_39_word_no_space_2 | fosterenable |  
+| bip_39_word_no_space_3 | fosterenableargue |  
+| bip_39_word_no_space_4 | fosterenablearguebonus |  
+| bip_39_word_no_space_5 | fosterenablearguebonuskidney |  
+| bip_39_word_no_space_6 | fosterenablearguebonuskidneysight |  
+| bip_39_word_no_space_7 | fosterenablearguebonuskidneysightresemble |  
+| bip_39_word_no_space_8 | fosterenablearguebonuskidneysightresemblemonkey |  
+| bip_39_word_no_space_9 | fosterenablearguebonuskidneysightresemblemonkeykingdom |  
 | bip_39_word_space_0 | ['foster', 'enable', 'argue', 'bonus', 'kidney', 'sight', 'resemble', 'monkey', 'kingdom', 'barrel', 'police', 'anchor'] |  
 | bip_39_word_space_1 | foster |  
 | bip_39_word_space_10 | foster enable argue bonus kidney sight resemble monkey kingdom barrel |  

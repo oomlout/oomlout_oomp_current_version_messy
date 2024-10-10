@@ -122,6 +122,18 @@ lend
 beyond
 violin
 crystal |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shopmeancuriousexoticinspirelendbeyondviolincrystaljaguar |  
+| bip_39_word_no_space_11 | shopmeancuriousexoticinspirelendbeyondviolincrystaljaguarlabor |  
+| bip_39_word_no_space_12 | shopmeancuriousexoticinspirelendbeyondviolincrystaljaguarlaboraunt |  
+| bip_39_word_no_space_2 | shopmean |  
+| bip_39_word_no_space_3 | shopmeancurious |  
+| bip_39_word_no_space_4 | shopmeancuriousexotic |  
+| bip_39_word_no_space_5 | shopmeancuriousexoticinspire |  
+| bip_39_word_no_space_6 | shopmeancuriousexoticinspirelend |  
+| bip_39_word_no_space_7 | shopmeancuriousexoticinspirelendbeyond |  
+| bip_39_word_no_space_8 | shopmeancuriousexoticinspirelendbeyondviolin |  
+| bip_39_word_no_space_9 | shopmeancuriousexoticinspirelendbeyondviolincrystal |  
 | bip_39_word_space_0 | ['shop', 'mean', 'curious', 'exotic', 'inspire', 'lend', 'beyond', 'violin', 'crystal', 'jaguar', 'labor', 'aunt'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop mean curious exotic inspire lend beyond violin crystal jaguar |  

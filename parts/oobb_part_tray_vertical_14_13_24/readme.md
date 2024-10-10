@@ -122,6 +122,18 @@ front
 evolve
 family
 nerve |  
+| bip_39_word_no_space_1 | amount |  
+| bip_39_word_no_space_10 | amountdriftseasontankwoolfrontevolvefamilynerveaunt |  
+| bip_39_word_no_space_11 | amountdriftseasontankwoolfrontevolvefamilynerveauntdeal |  
+| bip_39_word_no_space_12 | amountdriftseasontankwoolfrontevolvefamilynerveauntdealaccount |  
+| bip_39_word_no_space_2 | amountdrift |  
+| bip_39_word_no_space_3 | amountdriftseason |  
+| bip_39_word_no_space_4 | amountdriftseasontank |  
+| bip_39_word_no_space_5 | amountdriftseasontankwool |  
+| bip_39_word_no_space_6 | amountdriftseasontankwoolfront |  
+| bip_39_word_no_space_7 | amountdriftseasontankwoolfrontevolve |  
+| bip_39_word_no_space_8 | amountdriftseasontankwoolfrontevolvefamily |  
+| bip_39_word_no_space_9 | amountdriftseasontankwoolfrontevolvefamilynerve |  
 | bip_39_word_space_0 | ['amount', 'drift', 'season', 'tank', 'wool', 'front', 'evolve', 'family', 'nerve', 'aunt', 'deal', 'account'] |  
 | bip_39_word_space_1 | amount |  
 | bip_39_word_space_10 | amount drift season tank wool front evolve family nerve aunt |  

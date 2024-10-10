@@ -122,6 +122,18 @@ olympic
 fetch
 holiday
 endless |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardsharestairshungrycryolympicfetchholidayendlesspotato |  
+| bip_39_word_no_space_11 | rewardsharestairshungrycryolympicfetchholidayendlesspotatowin |  
+| bip_39_word_no_space_12 | rewardsharestairshungrycryolympicfetchholidayendlesspotatowinautumn |  
+| bip_39_word_no_space_2 | rewardshare |  
+| bip_39_word_no_space_3 | rewardsharestairs |  
+| bip_39_word_no_space_4 | rewardsharestairshungry |  
+| bip_39_word_no_space_5 | rewardsharestairshungrycry |  
+| bip_39_word_no_space_6 | rewardsharestairshungrycryolympic |  
+| bip_39_word_no_space_7 | rewardsharestairshungrycryolympicfetch |  
+| bip_39_word_no_space_8 | rewardsharestairshungrycryolympicfetchholiday |  
+| bip_39_word_no_space_9 | rewardsharestairshungrycryolympicfetchholidayendless |  
 | bip_39_word_space_0 | ['reward', 'share', 'stairs', 'hungry', 'cry', 'olympic', 'fetch', 'holiday', 'endless', 'potato', 'win', 'autumn'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward share stairs hungry cry olympic fetch holiday endless potato |  

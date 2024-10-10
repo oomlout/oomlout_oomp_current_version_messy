@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'real
   elephant
 
   turkey'
+bip_39_word_no_space_1: real
+bip_39_word_no_space_10: realenergygladlargeneverpreventfebruaryelephantturkeystreet
+bip_39_word_no_space_11: realenergygladlargeneverpreventfebruaryelephantturkeystreetkid
+bip_39_word_no_space_12: realenergygladlargeneverpreventfebruaryelephantturkeystreetkidauto
+bip_39_word_no_space_2: realenergy
+bip_39_word_no_space_3: realenergyglad
+bip_39_word_no_space_4: realenergygladlarge
+bip_39_word_no_space_5: realenergygladlargenever
+bip_39_word_no_space_6: realenergygladlargeneverprevent
+bip_39_word_no_space_7: realenergygladlargeneverpreventfebruary
+bip_39_word_no_space_8: realenergygladlargeneverpreventfebruaryelephant
+bip_39_word_no_space_9: realenergygladlargeneverpreventfebruaryelephantturkey
 bip_39_word_space_0:
 - real
 - energy

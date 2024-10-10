@@ -122,6 +122,18 @@ glove
 invite
 fantasy
 wink |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmacaserevealuponenergygloveinvitefantasywinkscrub |  
+| bip_39_word_no_space_11 | asthmacaserevealuponenergygloveinvitefantasywinkscrubpalm |  
+| bip_39_word_no_space_12 | asthmacaserevealuponenergygloveinvitefantasywinkscrubpalmair |  
+| bip_39_word_no_space_2 | asthmacase |  
+| bip_39_word_no_space_3 | asthmacasereveal |  
+| bip_39_word_no_space_4 | asthmacaserevealupon |  
+| bip_39_word_no_space_5 | asthmacaserevealuponenergy |  
+| bip_39_word_no_space_6 | asthmacaserevealuponenergyglove |  
+| bip_39_word_no_space_7 | asthmacaserevealuponenergygloveinvite |  
+| bip_39_word_no_space_8 | asthmacaserevealuponenergygloveinvitefantasy |  
+| bip_39_word_no_space_9 | asthmacaserevealuponenergygloveinvitefantasywink |  
 | bip_39_word_space_0 | ['asthma', 'case', 'reveal', 'upon', 'energy', 'glove', 'invite', 'fantasy', 'wink', 'scrub', 'palm', 'air'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma case reveal upon energy glove invite fantasy wink scrub |  

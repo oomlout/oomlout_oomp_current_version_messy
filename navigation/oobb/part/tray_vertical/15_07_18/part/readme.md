@@ -122,6 +122,18 @@ enrich
 point
 outside
 quit |  
+| bip_39_word_no_space_1 | evidence |  
+| bip_39_word_no_space_10 | evidencesketchgiraffewearsustainenrichpointoutsidequitessence |  
+| bip_39_word_no_space_11 | evidencesketchgiraffewearsustainenrichpointoutsidequitessenceevoke |  
+| bip_39_word_no_space_12 | evidencesketchgiraffewearsustainenrichpointoutsidequitessenceevokeatom |  
+| bip_39_word_no_space_2 | evidencesketch |  
+| bip_39_word_no_space_3 | evidencesketchgiraffe |  
+| bip_39_word_no_space_4 | evidencesketchgiraffewear |  
+| bip_39_word_no_space_5 | evidencesketchgiraffewearsustain |  
+| bip_39_word_no_space_6 | evidencesketchgiraffewearsustainenrich |  
+| bip_39_word_no_space_7 | evidencesketchgiraffewearsustainenrichpoint |  
+| bip_39_word_no_space_8 | evidencesketchgiraffewearsustainenrichpointoutside |  
+| bip_39_word_no_space_9 | evidencesketchgiraffewearsustainenrichpointoutsidequit |  
 | bip_39_word_space_0 | ['evidence', 'sketch', 'giraffe', 'wear', 'sustain', 'enrich', 'point', 'outside', 'quit', 'essence', 'evoke', 'atom'] |  
 | bip_39_word_space_1 | evidence |  
 | bip_39_word_space_10 | evidence sketch giraffe wear sustain enrich point outside quit essence |  

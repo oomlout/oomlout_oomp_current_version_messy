@@ -122,6 +122,18 @@ immune
 rabbit
 fluid
 female |  
+| bip_39_word_no_space_1 | heavy |  
+| bip_39_word_no_space_10 | heavyupdatecoralclimbtrulyimmunerabbitfluidfemaletoddler |  
+| bip_39_word_no_space_11 | heavyupdatecoralclimbtrulyimmunerabbitfluidfemaletoddlercustom |  
+| bip_39_word_no_space_12 | heavyupdatecoralclimbtrulyimmunerabbitfluidfemaletoddlercustomarrive |  
+| bip_39_word_no_space_2 | heavyupdate |  
+| bip_39_word_no_space_3 | heavyupdatecoral |  
+| bip_39_word_no_space_4 | heavyupdatecoralclimb |  
+| bip_39_word_no_space_5 | heavyupdatecoralclimbtruly |  
+| bip_39_word_no_space_6 | heavyupdatecoralclimbtrulyimmune |  
+| bip_39_word_no_space_7 | heavyupdatecoralclimbtrulyimmunerabbit |  
+| bip_39_word_no_space_8 | heavyupdatecoralclimbtrulyimmunerabbitfluid |  
+| bip_39_word_no_space_9 | heavyupdatecoralclimbtrulyimmunerabbitfluidfemale |  
 | bip_39_word_space_0 | ['heavy', 'update', 'coral', 'climb', 'truly', 'immune', 'rabbit', 'fluid', 'female', 'toddler', 'custom', 'arrive'] |  
 | bip_39_word_space_1 | heavy |  
 | bip_39_word_space_10 | heavy update coral climb truly immune rabbit fluid female toddler |  

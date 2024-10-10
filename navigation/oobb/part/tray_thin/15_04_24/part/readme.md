@@ -122,6 +122,18 @@ taste
 grape
 catalog
 box |  
+| bip_39_word_no_space_1 | remain |  
+| bip_39_word_no_space_10 | remainschemeoffvibrantcapitaltastegrapecatalogboxvital |  
+| bip_39_word_no_space_11 | remainschemeoffvibrantcapitaltastegrapecatalogboxvitalseries |  
+| bip_39_word_no_space_12 | remainschemeoffvibrantcapitaltastegrapecatalogboxvitalseriesadvice |  
+| bip_39_word_no_space_2 | remainscheme |  
+| bip_39_word_no_space_3 | remainschemeoff |  
+| bip_39_word_no_space_4 | remainschemeoffvibrant |  
+| bip_39_word_no_space_5 | remainschemeoffvibrantcapital |  
+| bip_39_word_no_space_6 | remainschemeoffvibrantcapitaltaste |  
+| bip_39_word_no_space_7 | remainschemeoffvibrantcapitaltastegrape |  
+| bip_39_word_no_space_8 | remainschemeoffvibrantcapitaltastegrapecatalog |  
+| bip_39_word_no_space_9 | remainschemeoffvibrantcapitaltastegrapecatalogbox |  
 | bip_39_word_space_0 | ['remain', 'scheme', 'off', 'vibrant', 'capital', 'taste', 'grape', 'catalog', 'box', 'vital', 'series', 'advice'] |  
 | bip_39_word_space_1 | remain |  
 | bip_39_word_space_10 | remain scheme off vibrant capital taste grape catalog box vital |  

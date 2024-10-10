@@ -122,6 +122,18 @@ wrestle
 audit
 drop
 solve |  
+| bip_39_word_no_space_1 | tube |  
+| bip_39_word_no_space_10 | tubenegativeprotectlicensesuddenwrestleauditdropsolvesoccer |  
+| bip_39_word_no_space_11 | tubenegativeprotectlicensesuddenwrestleauditdropsolvesoccerloyal |  
+| bip_39_word_no_space_12 | tubenegativeprotectlicensesuddenwrestleauditdropsolvesoccerloyalangle |  
+| bip_39_word_no_space_2 | tubenegative |  
+| bip_39_word_no_space_3 | tubenegativeprotect |  
+| bip_39_word_no_space_4 | tubenegativeprotectlicense |  
+| bip_39_word_no_space_5 | tubenegativeprotectlicensesudden |  
+| bip_39_word_no_space_6 | tubenegativeprotectlicensesuddenwrestle |  
+| bip_39_word_no_space_7 | tubenegativeprotectlicensesuddenwrestleaudit |  
+| bip_39_word_no_space_8 | tubenegativeprotectlicensesuddenwrestleauditdrop |  
+| bip_39_word_no_space_9 | tubenegativeprotectlicensesuddenwrestleauditdropsolve |  
 | bip_39_word_space_0 | ['tube', 'negative', 'protect', 'license', 'sudden', 'wrestle', 'audit', 'drop', 'solve', 'soccer', 'loyal', 'angle'] |  
 | bip_39_word_space_1 | tube |  
 | bip_39_word_space_10 | tube negative protect license sudden wrestle audit drop solve soccer |  

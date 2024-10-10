@@ -122,6 +122,18 @@ tired
 mushroom
 material
 rare |  
+| bip_39_word_no_space_1 | witness |  
+| bip_39_word_no_space_10 | witnesstentrapidblacklibrarytiredmushroommaterialrareupset |  
+| bip_39_word_no_space_11 | witnesstentrapidblacklibrarytiredmushroommaterialrareupsetbeef |  
+| bip_39_word_no_space_12 | witnesstentrapidblacklibrarytiredmushroommaterialrareupsetbeefaround |  
+| bip_39_word_no_space_2 | witnesstent |  
+| bip_39_word_no_space_3 | witnesstentrapid |  
+| bip_39_word_no_space_4 | witnesstentrapidblack |  
+| bip_39_word_no_space_5 | witnesstentrapidblacklibrary |  
+| bip_39_word_no_space_6 | witnesstentrapidblacklibrarytired |  
+| bip_39_word_no_space_7 | witnesstentrapidblacklibrarytiredmushroom |  
+| bip_39_word_no_space_8 | witnesstentrapidblacklibrarytiredmushroommaterial |  
+| bip_39_word_no_space_9 | witnesstentrapidblacklibrarytiredmushroommaterialrare |  
 | bip_39_word_space_0 | ['witness', 'tent', 'rapid', 'black', 'library', 'tired', 'mushroom', 'material', 'rare', 'upset', 'beef', 'around'] |  
 | bip_39_word_space_1 | witness |  
 | bip_39_word_space_10 | witness tent rapid black library tired mushroom material rare upset |  

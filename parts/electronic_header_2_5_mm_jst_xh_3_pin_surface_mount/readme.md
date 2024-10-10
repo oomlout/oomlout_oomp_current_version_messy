@@ -122,6 +122,18 @@ fine
 planet
 buzz
 slight |  
+| bip_39_word_no_space_1 | basic |  
+| bip_39_word_no_space_10 | basicdisorderokaycodedealfineplanetbuzzslightnut |  
+| bip_39_word_no_space_11 | basicdisorderokaycodedealfineplanetbuzzslightnutcanyon |  
+| bip_39_word_no_space_12 | basicdisorderokaycodedealfineplanetbuzzslightnutcanyonanxiety |  
+| bip_39_word_no_space_2 | basicdisorder |  
+| bip_39_word_no_space_3 | basicdisorderokay |  
+| bip_39_word_no_space_4 | basicdisorderokaycode |  
+| bip_39_word_no_space_5 | basicdisorderokaycodedeal |  
+| bip_39_word_no_space_6 | basicdisorderokaycodedealfine |  
+| bip_39_word_no_space_7 | basicdisorderokaycodedealfineplanet |  
+| bip_39_word_no_space_8 | basicdisorderokaycodedealfineplanetbuzz |  
+| bip_39_word_no_space_9 | basicdisorderokaycodedealfineplanetbuzzslight |  
 | bip_39_word_space_0 | ['basic', 'disorder', 'okay', 'code', 'deal', 'fine', 'planet', 'buzz', 'slight', 'nut', 'canyon', 'anxiety'] |  
 | bip_39_word_space_1 | basic |  
 | bip_39_word_space_10 | basic disorder okay code deal fine planet buzz slight nut |  

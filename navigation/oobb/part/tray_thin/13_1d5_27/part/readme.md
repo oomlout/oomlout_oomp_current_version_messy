@@ -122,6 +122,18 @@ broken
 vicious
 chase
 advance |  
+| bip_39_word_no_space_1 | cute |  
+| bip_39_word_no_space_10 | cutefishmoveengagethunderbrokenviciouschaseadvancelabor |  
+| bip_39_word_no_space_11 | cutefishmoveengagethunderbrokenviciouschaseadvancelaborcasual |  
+| bip_39_word_no_space_12 | cutefishmoveengagethunderbrokenviciouschaseadvancelaborcasualaudit |  
+| bip_39_word_no_space_2 | cutefish |  
+| bip_39_word_no_space_3 | cutefishmove |  
+| bip_39_word_no_space_4 | cutefishmoveengage |  
+| bip_39_word_no_space_5 | cutefishmoveengagethunder |  
+| bip_39_word_no_space_6 | cutefishmoveengagethunderbroken |  
+| bip_39_word_no_space_7 | cutefishmoveengagethunderbrokenvicious |  
+| bip_39_word_no_space_8 | cutefishmoveengagethunderbrokenviciouschase |  
+| bip_39_word_no_space_9 | cutefishmoveengagethunderbrokenviciouschaseadvance |  
 | bip_39_word_space_0 | ['cute', 'fish', 'move', 'engage', 'thunder', 'broken', 'vicious', 'chase', 'advance', 'labor', 'casual', 'audit'] |  
 | bip_39_word_space_1 | cute |  
 | bip_39_word_space_10 | cute fish move engage thunder broken vicious chase advance labor |  

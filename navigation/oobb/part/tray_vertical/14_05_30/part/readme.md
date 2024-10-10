@@ -122,6 +122,18 @@ still
 asset
 hybrid
 disorder |  
+| bip_39_word_no_space_1 | bean |  
+| bip_39_word_no_space_10 | beansortriceownbeanstillassethybriddisorderknow |  
+| bip_39_word_no_space_11 | beansortriceownbeanstillassethybriddisorderknowdad |  
+| bip_39_word_no_space_12 | beansortriceownbeanstillassethybriddisorderknowdadachieve |  
+| bip_39_word_no_space_2 | beansort |  
+| bip_39_word_no_space_3 | beansortrice |  
+| bip_39_word_no_space_4 | beansortriceown |  
+| bip_39_word_no_space_5 | beansortriceownbean |  
+| bip_39_word_no_space_6 | beansortriceownbeanstill |  
+| bip_39_word_no_space_7 | beansortriceownbeanstillasset |  
+| bip_39_word_no_space_8 | beansortriceownbeanstillassethybrid |  
+| bip_39_word_no_space_9 | beansortriceownbeanstillassethybriddisorder |  
 | bip_39_word_space_0 | ['bean', 'sort', 'rice', 'own', 'bean', 'still', 'asset', 'hybrid', 'disorder', 'know', 'dad', 'achieve'] |  
 | bip_39_word_space_1 | bean |  
 | bip_39_word_space_10 | bean sort rice own bean still asset hybrid disorder know |  

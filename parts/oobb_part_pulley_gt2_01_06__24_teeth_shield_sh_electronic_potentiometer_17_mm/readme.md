@@ -122,6 +122,18 @@ easy
 teach
 smooth
 canoe |  
+| bip_39_word_no_space_1 | dog |  
+| bip_39_word_no_space_10 | dogsuchsymbolharborobserveeasyteachsmoothcanoealter |  
+| bip_39_word_no_space_11 | dogsuchsymbolharborobserveeasyteachsmoothcanoealterpatrol |  
+| bip_39_word_no_space_12 | dogsuchsymbolharborobserveeasyteachsmoothcanoealterpatrolarea |  
+| bip_39_word_no_space_2 | dogsuch |  
+| bip_39_word_no_space_3 | dogsuchsymbol |  
+| bip_39_word_no_space_4 | dogsuchsymbolharbor |  
+| bip_39_word_no_space_5 | dogsuchsymbolharborobserve |  
+| bip_39_word_no_space_6 | dogsuchsymbolharborobserveeasy |  
+| bip_39_word_no_space_7 | dogsuchsymbolharborobserveeasyteach |  
+| bip_39_word_no_space_8 | dogsuchsymbolharborobserveeasyteachsmooth |  
+| bip_39_word_no_space_9 | dogsuchsymbolharborobserveeasyteachsmoothcanoe |  
 | bip_39_word_space_0 | ['dog', 'such', 'symbol', 'harbor', 'observe', 'easy', 'teach', 'smooth', 'canoe', 'alter', 'patrol', 'area'] |  
 | bip_39_word_space_1 | dog |  
 | bip_39_word_space_10 | dog such symbol harbor observe easy teach smooth canoe alter |  

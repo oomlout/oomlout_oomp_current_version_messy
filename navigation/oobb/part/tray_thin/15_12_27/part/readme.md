@@ -122,6 +122,18 @@ mad
 song
 park
 fee |  
+| bip_39_word_no_space_1 | harbor |  
+| bip_39_word_no_space_10 | harborpledgetrashpatrolneutralmadsongparkfeeworth |  
+| bip_39_word_no_space_11 | harborpledgetrashpatrolneutralmadsongparkfeeworthfinger |  
+| bip_39_word_no_space_12 | harborpledgetrashpatrolneutralmadsongparkfeeworthfingeraugust |  
+| bip_39_word_no_space_2 | harborpledge |  
+| bip_39_word_no_space_3 | harborpledgetrash |  
+| bip_39_word_no_space_4 | harborpledgetrashpatrol |  
+| bip_39_word_no_space_5 | harborpledgetrashpatrolneutral |  
+| bip_39_word_no_space_6 | harborpledgetrashpatrolneutralmad |  
+| bip_39_word_no_space_7 | harborpledgetrashpatrolneutralmadsong |  
+| bip_39_word_no_space_8 | harborpledgetrashpatrolneutralmadsongpark |  
+| bip_39_word_no_space_9 | harborpledgetrashpatrolneutralmadsongparkfee |  
 | bip_39_word_space_0 | ['harbor', 'pledge', 'trash', 'patrol', 'neutral', 'mad', 'song', 'park', 'fee', 'worth', 'finger', 'august'] |  
 | bip_39_word_space_1 | harbor |  
 | bip_39_word_space_10 | harbor pledge trash patrol neutral mad song park fee worth |  

@@ -122,6 +122,18 @@ clown
 boss
 naive
 together |  
+| bip_39_word_no_space_1 | carry |  
+| bip_39_word_no_space_10 | carryinsanewhisperlionfoilclownbossnaivetogethersunny |  
+| bip_39_word_no_space_11 | carryinsanewhisperlionfoilclownbossnaivetogethersunnyboy |  
+| bip_39_word_no_space_12 | carryinsanewhisperlionfoilclownbossnaivetogethersunnyboyallow |  
+| bip_39_word_no_space_2 | carryinsane |  
+| bip_39_word_no_space_3 | carryinsanewhisper |  
+| bip_39_word_no_space_4 | carryinsanewhisperlion |  
+| bip_39_word_no_space_5 | carryinsanewhisperlionfoil |  
+| bip_39_word_no_space_6 | carryinsanewhisperlionfoilclown |  
+| bip_39_word_no_space_7 | carryinsanewhisperlionfoilclownboss |  
+| bip_39_word_no_space_8 | carryinsanewhisperlionfoilclownbossnaive |  
+| bip_39_word_no_space_9 | carryinsanewhisperlionfoilclownbossnaivetogether |  
 | bip_39_word_space_0 | ['carry', 'insane', 'whisper', 'lion', 'foil', 'clown', 'boss', 'naive', 'together', 'sunny', 'boy', 'allow'] |  
 | bip_39_word_space_1 | carry |  
 | bip_39_word_space_10 | carry insane whisper lion foil clown boss naive together sunny |  

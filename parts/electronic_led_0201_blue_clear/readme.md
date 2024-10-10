@@ -122,6 +122,18 @@ soldier
 arena
 chicken
 bounce |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockneteagerrelyimprovesoldierarenachickenbounceacid |  
+| bip_39_word_no_space_11 | flockneteagerrelyimprovesoldierarenachickenbounceacidfestival |  
+| bip_39_word_no_space_12 | flockneteagerrelyimprovesoldierarenachickenbounceacidfestivaladmit |  
+| bip_39_word_no_space_2 | flocknet |  
+| bip_39_word_no_space_3 | flockneteager |  
+| bip_39_word_no_space_4 | flockneteagerrely |  
+| bip_39_word_no_space_5 | flockneteagerrelyimprove |  
+| bip_39_word_no_space_6 | flockneteagerrelyimprovesoldier |  
+| bip_39_word_no_space_7 | flockneteagerrelyimprovesoldierarena |  
+| bip_39_word_no_space_8 | flockneteagerrelyimprovesoldierarenachicken |  
+| bip_39_word_no_space_9 | flockneteagerrelyimprovesoldierarenachickenbounce |  
 | bip_39_word_space_0 | ['flock', 'net', 'eager', 'rely', 'improve', 'soldier', 'arena', 'chicken', 'bounce', 'acid', 'festival', 'admit'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock net eager rely improve soldier arena chicken bounce acid |  

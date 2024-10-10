@@ -122,6 +122,18 @@ scatter
 picture
 safe
 dry |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skiunknownvalleycoolmobilescatterpicturesafedryreturn |  
+| bip_39_word_no_space_11 | skiunknownvalleycoolmobilescatterpicturesafedryreturnexact |  
+| bip_39_word_no_space_12 | skiunknownvalleycoolmobilescatterpicturesafedryreturnexactact |  
+| bip_39_word_no_space_2 | skiunknown |  
+| bip_39_word_no_space_3 | skiunknownvalley |  
+| bip_39_word_no_space_4 | skiunknownvalleycool |  
+| bip_39_word_no_space_5 | skiunknownvalleycoolmobile |  
+| bip_39_word_no_space_6 | skiunknownvalleycoolmobilescatter |  
+| bip_39_word_no_space_7 | skiunknownvalleycoolmobilescatterpicture |  
+| bip_39_word_no_space_8 | skiunknownvalleycoolmobilescatterpicturesafe |  
+| bip_39_word_no_space_9 | skiunknownvalleycoolmobilescatterpicturesafedry |  
 | bip_39_word_space_0 | ['ski', 'unknown', 'valley', 'cool', 'mobile', 'scatter', 'picture', 'safe', 'dry', 'return', 'exact', 'act'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski unknown valley cool mobile scatter picture safe dry return |  

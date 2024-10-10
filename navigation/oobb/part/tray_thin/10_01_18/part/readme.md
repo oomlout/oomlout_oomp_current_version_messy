@@ -122,6 +122,18 @@ envelope
 elephant
 uphold
 sick |  
+| bip_39_word_no_space_1 | today |  
+| bip_39_word_no_space_10 | todaycatchshoveparksubmitenvelopeelephantupholdsickpass |  
+| bip_39_word_no_space_11 | todaycatchshoveparksubmitenvelopeelephantupholdsickpassfather |  
+| bip_39_word_no_space_12 | todaycatchshoveparksubmitenvelopeelephantupholdsickpassfatheralarm |  
+| bip_39_word_no_space_2 | todaycatch |  
+| bip_39_word_no_space_3 | todaycatchshove |  
+| bip_39_word_no_space_4 | todaycatchshovepark |  
+| bip_39_word_no_space_5 | todaycatchshoveparksubmit |  
+| bip_39_word_no_space_6 | todaycatchshoveparksubmitenvelope |  
+| bip_39_word_no_space_7 | todaycatchshoveparksubmitenvelopeelephant |  
+| bip_39_word_no_space_8 | todaycatchshoveparksubmitenvelopeelephantuphold |  
+| bip_39_word_no_space_9 | todaycatchshoveparksubmitenvelopeelephantupholdsick |  
 | bip_39_word_space_0 | ['today', 'catch', 'shove', 'park', 'submit', 'envelope', 'elephant', 'uphold', 'sick', 'pass', 'father', 'alarm'] |  
 | bip_39_word_space_1 | today |  
 | bip_39_word_space_10 | today catch shove park submit envelope elephant uphold sick pass |  

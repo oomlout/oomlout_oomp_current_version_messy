@@ -122,6 +122,18 @@ major
 flight
 slogan
 help |  
+| bip_39_word_no_space_1 | fatal |  
+| bip_39_word_no_space_10 | fatalchangeuglycricketdiffermajorflightsloganhelpmom |  
+| bip_39_word_no_space_11 | fatalchangeuglycricketdiffermajorflightsloganhelpmomlanguage |  
+| bip_39_word_no_space_12 | fatalchangeuglycricketdiffermajorflightsloganhelpmomlanguagealso |  
+| bip_39_word_no_space_2 | fatalchange |  
+| bip_39_word_no_space_3 | fatalchangeugly |  
+| bip_39_word_no_space_4 | fatalchangeuglycricket |  
+| bip_39_word_no_space_5 | fatalchangeuglycricketdiffer |  
+| bip_39_word_no_space_6 | fatalchangeuglycricketdiffermajor |  
+| bip_39_word_no_space_7 | fatalchangeuglycricketdiffermajorflight |  
+| bip_39_word_no_space_8 | fatalchangeuglycricketdiffermajorflightslogan |  
+| bip_39_word_no_space_9 | fatalchangeuglycricketdiffermajorflightsloganhelp |  
 | bip_39_word_space_0 | ['fatal', 'change', 'ugly', 'cricket', 'differ', 'major', 'flight', 'slogan', 'help', 'mom', 'language', 'also'] |  
 | bip_39_word_space_1 | fatal |  
 | bip_39_word_space_10 | fatal change ugly cricket differ major flight slogan help mom |  

@@ -122,6 +122,18 @@ brother
 cousin
 blur
 fox |  
+| bip_39_word_no_space_1 | else |  
+| bip_39_word_no_space_10 | elsetouristtidesenseclapbrothercousinblurfoxgrass |  
+| bip_39_word_no_space_11 | elsetouristtidesenseclapbrothercousinblurfoxgrassagain |  
+| bip_39_word_no_space_12 | elsetouristtidesenseclapbrothercousinblurfoxgrassagainaunt |  
+| bip_39_word_no_space_2 | elsetourist |  
+| bip_39_word_no_space_3 | elsetouristtide |  
+| bip_39_word_no_space_4 | elsetouristtidesense |  
+| bip_39_word_no_space_5 | elsetouristtidesenseclap |  
+| bip_39_word_no_space_6 | elsetouristtidesenseclapbrother |  
+| bip_39_word_no_space_7 | elsetouristtidesenseclapbrothercousin |  
+| bip_39_word_no_space_8 | elsetouristtidesenseclapbrothercousinblur |  
+| bip_39_word_no_space_9 | elsetouristtidesenseclapbrothercousinblurfox |  
 | bip_39_word_space_0 | ['else', 'tourist', 'tide', 'sense', 'clap', 'brother', 'cousin', 'blur', 'fox', 'grass', 'again', 'aunt'] |  
 | bip_39_word_space_1 | else |  
 | bip_39_word_space_10 | else tourist tide sense clap brother cousin blur fox grass |  

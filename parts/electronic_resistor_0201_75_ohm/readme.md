@@ -122,6 +122,18 @@ update
 drill
 globe
 idle |  
+| bip_39_word_no_space_1 | tell |  
+| bip_39_word_no_space_10 | tellbehaveretiretankbecomeupdatedrillglobeidleenact |  
+| bip_39_word_no_space_11 | tellbehaveretiretankbecomeupdatedrillglobeidleenactdawn |  
+| bip_39_word_no_space_12 | tellbehaveretiretankbecomeupdatedrillglobeidleenactdawnathlete |  
+| bip_39_word_no_space_2 | tellbehave |  
+| bip_39_word_no_space_3 | tellbehaveretire |  
+| bip_39_word_no_space_4 | tellbehaveretiretank |  
+| bip_39_word_no_space_5 | tellbehaveretiretankbecome |  
+| bip_39_word_no_space_6 | tellbehaveretiretankbecomeupdate |  
+| bip_39_word_no_space_7 | tellbehaveretiretankbecomeupdatedrill |  
+| bip_39_word_no_space_8 | tellbehaveretiretankbecomeupdatedrillglobe |  
+| bip_39_word_no_space_9 | tellbehaveretiretankbecomeupdatedrillglobeidle |  
 | bip_39_word_space_0 | ['tell', 'behave', 'retire', 'tank', 'become', 'update', 'drill', 'globe', 'idle', 'enact', 'dawn', 'athlete'] |  
 | bip_39_word_space_1 | tell |  
 | bip_39_word_space_10 | tell behave retire tank become update drill globe idle enact |  

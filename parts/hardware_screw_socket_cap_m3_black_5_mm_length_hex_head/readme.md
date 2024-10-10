@@ -122,6 +122,18 @@ advice
 wonder
 index
 obey |  
+| bip_39_word_no_space_1 | story |  
+| bip_39_word_no_space_10 | storypossiblefixlumberantennaadvicewonderindexobeywet |  
+| bip_39_word_no_space_11 | storypossiblefixlumberantennaadvicewonderindexobeywetfee |  
+| bip_39_word_no_space_12 | storypossiblefixlumberantennaadvicewonderindexobeywetfeeartwork |  
+| bip_39_word_no_space_2 | storypossible |  
+| bip_39_word_no_space_3 | storypossiblefix |  
+| bip_39_word_no_space_4 | storypossiblefixlumber |  
+| bip_39_word_no_space_5 | storypossiblefixlumberantenna |  
+| bip_39_word_no_space_6 | storypossiblefixlumberantennaadvice |  
+| bip_39_word_no_space_7 | storypossiblefixlumberantennaadvicewonder |  
+| bip_39_word_no_space_8 | storypossiblefixlumberantennaadvicewonderindex |  
+| bip_39_word_no_space_9 | storypossiblefixlumberantennaadvicewonderindexobey |  
 | bip_39_word_space_0 | ['story', 'possible', 'fix', 'lumber', 'antenna', 'advice', 'wonder', 'index', 'obey', 'wet', 'fee', 'artwork'] |  
 | bip_39_word_space_1 | story |  
 | bip_39_word_space_10 | story possible fix lumber antenna advice wonder index obey wet |  

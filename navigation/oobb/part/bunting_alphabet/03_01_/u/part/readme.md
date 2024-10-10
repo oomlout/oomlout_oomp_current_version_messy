@@ -122,6 +122,18 @@ benefit
 boss
 title
 inmate |  
+| bip_39_word_no_space_1 | potato |  
+| bip_39_word_no_space_10 | potatodraftgloryspoontoddlerbenefitbosstitleinmatecliff |  
+| bip_39_word_no_space_11 | potatodraftgloryspoontoddlerbenefitbosstitleinmatecliffsetup |  
+| bip_39_word_no_space_12 | potatodraftgloryspoontoddlerbenefitbosstitleinmatecliffsetuparmy |  
+| bip_39_word_no_space_2 | potatodraft |  
+| bip_39_word_no_space_3 | potatodraftglory |  
+| bip_39_word_no_space_4 | potatodraftgloryspoon |  
+| bip_39_word_no_space_5 | potatodraftgloryspoontoddler |  
+| bip_39_word_no_space_6 | potatodraftgloryspoontoddlerbenefit |  
+| bip_39_word_no_space_7 | potatodraftgloryspoontoddlerbenefitboss |  
+| bip_39_word_no_space_8 | potatodraftgloryspoontoddlerbenefitbosstitle |  
+| bip_39_word_no_space_9 | potatodraftgloryspoontoddlerbenefitbosstitleinmate |  
 | bip_39_word_space_0 | ['potato', 'draft', 'glory', 'spoon', 'toddler', 'benefit', 'boss', 'title', 'inmate', 'cliff', 'setup', 'army'] |  
 | bip_39_word_space_1 | potato |  
 | bip_39_word_space_10 | potato draft glory spoon toddler benefit boss title inmate cliff |  

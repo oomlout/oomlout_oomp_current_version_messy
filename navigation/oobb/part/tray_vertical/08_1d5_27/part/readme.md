@@ -122,6 +122,18 @@ march
 stereo
 purpose
 face |  
+| bip_39_word_no_space_1 | box |  
+| bip_39_word_no_space_10 | boxpuzzleclowndaringfossilmarchstereopurposefaceglove |  
+| bip_39_word_no_space_11 | boxpuzzleclowndaringfossilmarchstereopurposefacegloveround |  
+| bip_39_word_no_space_12 | boxpuzzleclowndaringfossilmarchstereopurposefacegloveroundactor |  
+| bip_39_word_no_space_2 | boxpuzzle |  
+| bip_39_word_no_space_3 | boxpuzzleclown |  
+| bip_39_word_no_space_4 | boxpuzzleclowndaring |  
+| bip_39_word_no_space_5 | boxpuzzleclowndaringfossil |  
+| bip_39_word_no_space_6 | boxpuzzleclowndaringfossilmarch |  
+| bip_39_word_no_space_7 | boxpuzzleclowndaringfossilmarchstereo |  
+| bip_39_word_no_space_8 | boxpuzzleclowndaringfossilmarchstereopurpose |  
+| bip_39_word_no_space_9 | boxpuzzleclowndaringfossilmarchstereopurposeface |  
 | bip_39_word_space_0 | ['box', 'puzzle', 'clown', 'daring', 'fossil', 'march', 'stereo', 'purpose', 'face', 'glove', 'round', 'actor'] |  
 | bip_39_word_space_1 | box |  
 | bip_39_word_space_10 | box puzzle clown daring fossil march stereo purpose face glove |  

@@ -122,6 +122,18 @@ ridge
 front
 column
 pause |  
+| bip_39_word_no_space_1 | eager |  
+| bip_39_word_no_space_10 | eagerrepeatpalmrecyclebetrayridgefrontcolumnpausehundred |  
+| bip_39_word_no_space_11 | eagerrepeatpalmrecyclebetrayridgefrontcolumnpausehundrededge |  
+| bip_39_word_no_space_12 | eagerrepeatpalmrecyclebetrayridgefrontcolumnpausehundrededgeassist |  
+| bip_39_word_no_space_2 | eagerrepeat |  
+| bip_39_word_no_space_3 | eagerrepeatpalm |  
+| bip_39_word_no_space_4 | eagerrepeatpalmrecycle |  
+| bip_39_word_no_space_5 | eagerrepeatpalmrecyclebetray |  
+| bip_39_word_no_space_6 | eagerrepeatpalmrecyclebetrayridge |  
+| bip_39_word_no_space_7 | eagerrepeatpalmrecyclebetrayridgefront |  
+| bip_39_word_no_space_8 | eagerrepeatpalmrecyclebetrayridgefrontcolumn |  
+| bip_39_word_no_space_9 | eagerrepeatpalmrecyclebetrayridgefrontcolumnpause |  
 | bip_39_word_space_0 | ['eager', 'repeat', 'palm', 'recycle', 'betray', 'ridge', 'front', 'column', 'pause', 'hundred', 'edge', 'assist'] |  
 | bip_39_word_space_1 | eager |  
 | bip_39_word_space_10 | eager repeat palm recycle betray ridge front column pause hundred |  

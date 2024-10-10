@@ -122,6 +122,18 @@ huge
 panel
 card
 miracle |  
+| bip_39_word_no_space_1 | then |  
+| bip_39_word_no_space_10 | thensuchparentguesstitlehugepanelcardmiracleozone |  
+| bip_39_word_no_space_11 | thensuchparentguesstitlehugepanelcardmiracleozonebroom |  
+| bip_39_word_no_space_12 | thensuchparentguesstitlehugepanelcardmiracleozonebroomaugust |  
+| bip_39_word_no_space_2 | thensuch |  
+| bip_39_word_no_space_3 | thensuchparent |  
+| bip_39_word_no_space_4 | thensuchparentguess |  
+| bip_39_word_no_space_5 | thensuchparentguesstitle |  
+| bip_39_word_no_space_6 | thensuchparentguesstitlehuge |  
+| bip_39_word_no_space_7 | thensuchparentguesstitlehugepanel |  
+| bip_39_word_no_space_8 | thensuchparentguesstitlehugepanelcard |  
+| bip_39_word_no_space_9 | thensuchparentguesstitlehugepanelcardmiracle |  
 | bip_39_word_space_0 | ['then', 'such', 'parent', 'guess', 'title', 'huge', 'panel', 'card', 'miracle', 'ozone', 'broom', 'august'] |  
 | bip_39_word_space_1 | then |  
 | bip_39_word_space_10 | then such parent guess title huge panel card miracle ozone |  

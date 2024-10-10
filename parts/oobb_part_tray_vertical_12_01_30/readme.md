@@ -122,6 +122,18 @@ chicken
 kit
 gallery
 mother |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sideplanetharshindoorchronicchickenkitgallerymothersupreme |  
+| bip_39_word_no_space_11 | sideplanetharshindoorchronicchickenkitgallerymothersupremesolar |  
+| bip_39_word_no_space_12 | sideplanetharshindoorchronicchickenkitgallerymothersupremesolarapple |  
+| bip_39_word_no_space_2 | sideplanet |  
+| bip_39_word_no_space_3 | sideplanetharsh |  
+| bip_39_word_no_space_4 | sideplanetharshindoor |  
+| bip_39_word_no_space_5 | sideplanetharshindoorchronic |  
+| bip_39_word_no_space_6 | sideplanetharshindoorchronicchicken |  
+| bip_39_word_no_space_7 | sideplanetharshindoorchronicchickenkit |  
+| bip_39_word_no_space_8 | sideplanetharshindoorchronicchickenkitgallery |  
+| bip_39_word_no_space_9 | sideplanetharshindoorchronicchickenkitgallerymother |  
 | bip_39_word_space_0 | ['side', 'planet', 'harsh', 'indoor', 'chronic', 'chicken', 'kit', 'gallery', 'mother', 'supreme', 'solar', 'apple'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side planet harsh indoor chronic chicken kit gallery mother supreme |  

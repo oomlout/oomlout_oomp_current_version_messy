@@ -122,6 +122,18 @@ satoshi
 voyage
 market
 repair |  
+| bip_39_word_no_space_1 | border |  
+| bip_39_word_no_space_10 | bordermosquitobrushcrunchexistsatoshivoyagemarketrepairready |  
+| bip_39_word_no_space_11 | bordermosquitobrushcrunchexistsatoshivoyagemarketrepairreadyfuel |  
+| bip_39_word_no_space_12 | bordermosquitobrushcrunchexistsatoshivoyagemarketrepairreadyfuelassault |  
+| bip_39_word_no_space_2 | bordermosquito |  
+| bip_39_word_no_space_3 | bordermosquitobrush |  
+| bip_39_word_no_space_4 | bordermosquitobrushcrunch |  
+| bip_39_word_no_space_5 | bordermosquitobrushcrunchexist |  
+| bip_39_word_no_space_6 | bordermosquitobrushcrunchexistsatoshi |  
+| bip_39_word_no_space_7 | bordermosquitobrushcrunchexistsatoshivoyage |  
+| bip_39_word_no_space_8 | bordermosquitobrushcrunchexistsatoshivoyagemarket |  
+| bip_39_word_no_space_9 | bordermosquitobrushcrunchexistsatoshivoyagemarketrepair |  
 | bip_39_word_space_0 | ['border', 'mosquito', 'brush', 'crunch', 'exist', 'satoshi', 'voyage', 'market', 'repair', 'ready', 'fuel', 'assault'] |  
 | bip_39_word_space_1 | border |  
 | bip_39_word_space_10 | border mosquito brush crunch exist satoshi voyage market repair ready |  

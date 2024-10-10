@@ -122,6 +122,18 @@ else
 auction
 pottery
 laugh |  
+| bip_39_word_no_space_1 | pizza |  
+| bip_39_word_no_space_10 | pizzatobaccoeasilychestarmedelseauctionpotterylaughfrost |  
+| bip_39_word_no_space_11 | pizzatobaccoeasilychestarmedelseauctionpotterylaughfrostpower |  
+| bip_39_word_no_space_12 | pizzatobaccoeasilychestarmedelseauctionpotterylaughfrostpoweralbum |  
+| bip_39_word_no_space_2 | pizzatobacco |  
+| bip_39_word_no_space_3 | pizzatobaccoeasily |  
+| bip_39_word_no_space_4 | pizzatobaccoeasilychest |  
+| bip_39_word_no_space_5 | pizzatobaccoeasilychestarmed |  
+| bip_39_word_no_space_6 | pizzatobaccoeasilychestarmedelse |  
+| bip_39_word_no_space_7 | pizzatobaccoeasilychestarmedelseauction |  
+| bip_39_word_no_space_8 | pizzatobaccoeasilychestarmedelseauctionpottery |  
+| bip_39_word_no_space_9 | pizzatobaccoeasilychestarmedelseauctionpotterylaugh |  
 | bip_39_word_space_0 | ['pizza', 'tobacco', 'easily', 'chest', 'armed', 'else', 'auction', 'pottery', 'laugh', 'frost', 'power', 'album'] |  
 | bip_39_word_space_1 | pizza |  
 | bip_39_word_space_10 | pizza tobacco easily chest armed else auction pottery laugh frost |  

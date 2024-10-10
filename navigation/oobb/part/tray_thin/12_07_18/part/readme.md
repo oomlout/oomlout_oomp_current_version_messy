@@ -122,6 +122,18 @@ tobacco
 depth
 perfect
 tone |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | seriesstickrazorgaseasilytobaccodepthperfecttoneskull |  
+| bip_39_word_no_space_11 | seriesstickrazorgaseasilytobaccodepthperfecttoneskulldepart |  
+| bip_39_word_no_space_12 | seriesstickrazorgaseasilytobaccodepthperfecttoneskulldepartadd |  
+| bip_39_word_no_space_2 | seriesstick |  
+| bip_39_word_no_space_3 | seriesstickrazor |  
+| bip_39_word_no_space_4 | seriesstickrazorgas |  
+| bip_39_word_no_space_5 | seriesstickrazorgaseasily |  
+| bip_39_word_no_space_6 | seriesstickrazorgaseasilytobacco |  
+| bip_39_word_no_space_7 | seriesstickrazorgaseasilytobaccodepth |  
+| bip_39_word_no_space_8 | seriesstickrazorgaseasilytobaccodepthperfect |  
+| bip_39_word_no_space_9 | seriesstickrazorgaseasilytobaccodepthperfecttone |  
 | bip_39_word_space_0 | ['series', 'stick', 'razor', 'gas', 'easily', 'tobacco', 'depth', 'perfect', 'tone', 'skull', 'depart', 'add'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series stick razor gas easily tobacco depth perfect tone skull |  

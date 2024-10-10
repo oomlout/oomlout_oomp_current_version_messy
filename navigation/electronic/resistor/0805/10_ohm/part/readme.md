@@ -122,6 +122,18 @@ assist
 rain
 vocal
 sail |  
+| bip_39_word_no_space_1 | weekend |  
+| bip_39_word_no_space_10 | weekendholdinstallpicturetenassistrainvocalsailhorror |  
+| bip_39_word_no_space_11 | weekendholdinstallpicturetenassistrainvocalsailhorrorfilter |  
+| bip_39_word_no_space_12 | weekendholdinstallpicturetenassistrainvocalsailhorrorfilterarm |  
+| bip_39_word_no_space_2 | weekendhold |  
+| bip_39_word_no_space_3 | weekendholdinstall |  
+| bip_39_word_no_space_4 | weekendholdinstallpicture |  
+| bip_39_word_no_space_5 | weekendholdinstallpictureten |  
+| bip_39_word_no_space_6 | weekendholdinstallpicturetenassist |  
+| bip_39_word_no_space_7 | weekendholdinstallpicturetenassistrain |  
+| bip_39_word_no_space_8 | weekendholdinstallpicturetenassistrainvocal |  
+| bip_39_word_no_space_9 | weekendholdinstallpicturetenassistrainvocalsail |  
 | bip_39_word_space_0 | ['weekend', 'hold', 'install', 'picture', 'ten', 'assist', 'rain', 'vocal', 'sail', 'horror', 'filter', 'arm'] |  
 | bip_39_word_space_1 | weekend |  
 | bip_39_word_space_10 | weekend hold install picture ten assist rain vocal sail horror |  

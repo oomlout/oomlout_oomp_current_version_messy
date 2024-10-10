@@ -122,6 +122,18 @@ spot
 concert
 aisle
 visa |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotteryreceivepalmhanddivorcespotconcertaislevisaunit |  
+| bip_39_word_no_space_11 | lotteryreceivepalmhanddivorcespotconcertaislevisaunitblack |  
+| bip_39_word_no_space_12 | lotteryreceivepalmhanddivorcespotconcertaislevisaunitblackanswer |  
+| bip_39_word_no_space_2 | lotteryreceive |  
+| bip_39_word_no_space_3 | lotteryreceivepalm |  
+| bip_39_word_no_space_4 | lotteryreceivepalmhand |  
+| bip_39_word_no_space_5 | lotteryreceivepalmhanddivorce |  
+| bip_39_word_no_space_6 | lotteryreceivepalmhanddivorcespot |  
+| bip_39_word_no_space_7 | lotteryreceivepalmhanddivorcespotconcert |  
+| bip_39_word_no_space_8 | lotteryreceivepalmhanddivorcespotconcertaisle |  
+| bip_39_word_no_space_9 | lotteryreceivepalmhanddivorcespotconcertaislevisa |  
 | bip_39_word_space_0 | ['lottery', 'receive', 'palm', 'hand', 'divorce', 'spot', 'concert', 'aisle', 'visa', 'unit', 'black', 'answer'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery receive palm hand divorce spot concert aisle visa unit |  

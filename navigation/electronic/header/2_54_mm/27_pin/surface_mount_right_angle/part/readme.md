@@ -109,6 +109,17 @@ earn
 grab
 link
 vote |  
+| bip_39_word_no_space_1 | shallow |  
+| bip_39_word_no_space_10 | shallowplaceschoolorangefiberearngrablinkvoteprice |  
+| bip_39_word_no_space_11 | shallowplaceschoolorangefiberearngrablinkvotepriceevolve |  
+| bip_39_word_no_space_2 | shallowplace |  
+| bip_39_word_no_space_3 | shallowplaceschool |  
+| bip_39_word_no_space_4 | shallowplaceschoolorange |  
+| bip_39_word_no_space_5 | shallowplaceschoolorangefiber |  
+| bip_39_word_no_space_6 | shallowplaceschoolorangefiberearn |  
+| bip_39_word_no_space_7 | shallowplaceschoolorangefiberearngrab |  
+| bip_39_word_no_space_8 | shallowplaceschoolorangefiberearngrablink |  
+| bip_39_word_no_space_9 | shallowplaceschoolorangefiberearngrablinkvote |  
 | bip_39_word_space_0 | ['shallow', 'place', 'school', 'orange', 'fiber', 'earn', 'grab', 'link', 'vote', 'price', 'evolve'] |  
 | bip_39_word_space_1 | shallow |  
 | bip_39_word_space_10 | shallow place school orange fiber earn grab link vote price |  

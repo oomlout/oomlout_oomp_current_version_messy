@@ -122,6 +122,18 @@ shrimp
 desk
 hurdle
 close |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehicleatomsilentforwardnevershrimpdeskhurdleclosesouth |  
+| bip_39_word_no_space_11 | vehicleatomsilentforwardnevershrimpdeskhurdleclosesouthtide |  
+| bip_39_word_no_space_12 | vehicleatomsilentforwardnevershrimpdeskhurdleclosesouthtideanimal |  
+| bip_39_word_no_space_2 | vehicleatom |  
+| bip_39_word_no_space_3 | vehicleatomsilent |  
+| bip_39_word_no_space_4 | vehicleatomsilentforward |  
+| bip_39_word_no_space_5 | vehicleatomsilentforwardnever |  
+| bip_39_word_no_space_6 | vehicleatomsilentforwardnevershrimp |  
+| bip_39_word_no_space_7 | vehicleatomsilentforwardnevershrimpdesk |  
+| bip_39_word_no_space_8 | vehicleatomsilentforwardnevershrimpdeskhurdle |  
+| bip_39_word_no_space_9 | vehicleatomsilentforwardnevershrimpdeskhurdleclose |  
 | bip_39_word_space_0 | ['vehicle', 'atom', 'silent', 'forward', 'never', 'shrimp', 'desk', 'hurdle', 'close', 'south', 'tide', 'animal'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle atom silent forward never shrimp desk hurdle close south |  

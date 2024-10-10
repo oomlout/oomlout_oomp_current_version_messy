@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'visa
   potato
 
   talk'
+bip_39_word_no_space_1: visa
+bip_39_word_no_space_10: visaunhappyturkeyaxisoffersuggestunfoldpotatotalkcave
+bip_39_word_no_space_11: visaunhappyturkeyaxisoffersuggestunfoldpotatotalkcaverotate
+bip_39_word_no_space_2: visaunhappy
+bip_39_word_no_space_3: visaunhappyturkey
+bip_39_word_no_space_4: visaunhappyturkeyaxis
+bip_39_word_no_space_5: visaunhappyturkeyaxisoffer
+bip_39_word_no_space_6: visaunhappyturkeyaxisoffersuggest
+bip_39_word_no_space_7: visaunhappyturkeyaxisoffersuggestunfold
+bip_39_word_no_space_8: visaunhappyturkeyaxisoffersuggestunfoldpotato
+bip_39_word_no_space_9: visaunhappyturkeyaxisoffersuggestunfoldpotatotalk
 bip_39_word_space_0:
 - visa
 - unhappy

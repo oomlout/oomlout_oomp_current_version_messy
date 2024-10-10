@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'limb
   shrug
 
   shrug'
+bip_39_word_no_space_1: limb
+bip_39_word_no_space_10: limbhusbandcapitalhoodflashbrickdenialshrugshrugcanyon
+bip_39_word_no_space_11: limbhusbandcapitalhoodflashbrickdenialshrugshrugcanyonwinner
+bip_39_word_no_space_12: limbhusbandcapitalhoodflashbrickdenialshrugshrugcanyonwinnerarrange
+bip_39_word_no_space_2: limbhusband
+bip_39_word_no_space_3: limbhusbandcapital
+bip_39_word_no_space_4: limbhusbandcapitalhood
+bip_39_word_no_space_5: limbhusbandcapitalhoodflash
+bip_39_word_no_space_6: limbhusbandcapitalhoodflashbrick
+bip_39_word_no_space_7: limbhusbandcapitalhoodflashbrickdenial
+bip_39_word_no_space_8: limbhusbandcapitalhoodflashbrickdenialshrug
+bip_39_word_no_space_9: limbhusbandcapitalhoodflashbrickdenialshrugshrug
 bip_39_word_space_0:
 - limb
 - husband

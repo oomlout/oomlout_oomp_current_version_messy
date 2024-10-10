@@ -122,6 +122,18 @@ tuna
 shift
 amount
 asthma |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | seamuleuniquepolarannualtunashiftamountasthmaage |  
+| bip_39_word_no_space_11 | seamuleuniquepolarannualtunashiftamountasthmaagebracket |  
+| bip_39_word_no_space_12 | seamuleuniquepolarannualtunashiftamountasthmaagebracketanswer |  
+| bip_39_word_no_space_2 | seamule |  
+| bip_39_word_no_space_3 | seamuleunique |  
+| bip_39_word_no_space_4 | seamuleuniquepolar |  
+| bip_39_word_no_space_5 | seamuleuniquepolarannual |  
+| bip_39_word_no_space_6 | seamuleuniquepolarannualtuna |  
+| bip_39_word_no_space_7 | seamuleuniquepolarannualtunashift |  
+| bip_39_word_no_space_8 | seamuleuniquepolarannualtunashiftamount |  
+| bip_39_word_no_space_9 | seamuleuniquepolarannualtunashiftamountasthma |  
 | bip_39_word_space_0 | ['sea', 'mule', 'unique', 'polar', 'annual', 'tuna', 'shift', 'amount', 'asthma', 'age', 'bracket', 'answer'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea mule unique polar annual tuna shift amount asthma age |  

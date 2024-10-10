@@ -122,6 +122,18 @@ actor
 paddle
 cry
 embark |  
+| bip_39_word_no_space_1 | jazz |  
+| bip_39_word_no_space_10 | jazzconducttapevintagedeviceactorpaddlecryembarkbarrel |  
+| bip_39_word_no_space_11 | jazzconducttapevintagedeviceactorpaddlecryembarkbarrelrequire |  
+| bip_39_word_no_space_12 | jazzconducttapevintagedeviceactorpaddlecryembarkbarrelrequirearm |  
+| bip_39_word_no_space_2 | jazzconduct |  
+| bip_39_word_no_space_3 | jazzconducttape |  
+| bip_39_word_no_space_4 | jazzconducttapevintage |  
+| bip_39_word_no_space_5 | jazzconducttapevintagedevice |  
+| bip_39_word_no_space_6 | jazzconducttapevintagedeviceactor |  
+| bip_39_word_no_space_7 | jazzconducttapevintagedeviceactorpaddle |  
+| bip_39_word_no_space_8 | jazzconducttapevintagedeviceactorpaddlecry |  
+| bip_39_word_no_space_9 | jazzconducttapevintagedeviceactorpaddlecryembark |  
 | bip_39_word_space_0 | ['jazz', 'conduct', 'tape', 'vintage', 'device', 'actor', 'paddle', 'cry', 'embark', 'barrel', 'require', 'arm'] |  
 | bip_39_word_space_1 | jazz |  
 | bip_39_word_space_10 | jazz conduct tape vintage device actor paddle cry embark barrel |  

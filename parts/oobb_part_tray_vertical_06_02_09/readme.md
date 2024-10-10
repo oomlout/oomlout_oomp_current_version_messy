@@ -122,6 +122,18 @@ pluck
 meadow
 final
 elevator |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removeinputpowdergooseforkpluckmeadowfinalelevatorblind |  
+| bip_39_word_no_space_11 | removeinputpowdergooseforkpluckmeadowfinalelevatorblindcorn |  
+| bip_39_word_no_space_12 | removeinputpowdergooseforkpluckmeadowfinalelevatorblindcornaunt |  
+| bip_39_word_no_space_2 | removeinput |  
+| bip_39_word_no_space_3 | removeinputpowder |  
+| bip_39_word_no_space_4 | removeinputpowdergoose |  
+| bip_39_word_no_space_5 | removeinputpowdergoosefork |  
+| bip_39_word_no_space_6 | removeinputpowdergooseforkpluck |  
+| bip_39_word_no_space_7 | removeinputpowdergooseforkpluckmeadow |  
+| bip_39_word_no_space_8 | removeinputpowdergooseforkpluckmeadowfinal |  
+| bip_39_word_no_space_9 | removeinputpowdergooseforkpluckmeadowfinalelevator |  
 | bip_39_word_space_0 | ['remove', 'input', 'powder', 'goose', 'fork', 'pluck', 'meadow', 'final', 'elevator', 'blind', 'corn', 'aunt'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove input powder goose fork pluck meadow final elevator blind |  

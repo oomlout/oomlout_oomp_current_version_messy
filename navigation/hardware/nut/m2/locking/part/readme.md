@@ -122,6 +122,18 @@ tomorrow
 border
 balance
 slight |  
+| bip_39_word_no_space_1 | school |  
+| bip_39_word_no_space_10 | schoolworthbossremovevirustomorrowborderbalanceslightwidth |  
+| bip_39_word_no_space_11 | schoolworthbossremovevirustomorrowborderbalanceslightwidthspare |  
+| bip_39_word_no_space_12 | schoolworthbossremovevirustomorrowborderbalanceslightwidthsparearrive |  
+| bip_39_word_no_space_2 | schoolworth |  
+| bip_39_word_no_space_3 | schoolworthboss |  
+| bip_39_word_no_space_4 | schoolworthbossremove |  
+| bip_39_word_no_space_5 | schoolworthbossremovevirus |  
+| bip_39_word_no_space_6 | schoolworthbossremovevirustomorrow |  
+| bip_39_word_no_space_7 | schoolworthbossremovevirustomorrowborder |  
+| bip_39_word_no_space_8 | schoolworthbossremovevirustomorrowborderbalance |  
+| bip_39_word_no_space_9 | schoolworthbossremovevirustomorrowborderbalanceslight |  
 | bip_39_word_space_0 | ['school', 'worth', 'boss', 'remove', 'virus', 'tomorrow', 'border', 'balance', 'slight', 'width', 'spare', 'arrive'] |  
 | bip_39_word_space_1 | school |  
 | bip_39_word_space_10 | school worth boss remove virus tomorrow border balance slight width |  

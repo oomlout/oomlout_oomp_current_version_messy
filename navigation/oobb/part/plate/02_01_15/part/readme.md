@@ -122,6 +122,18 @@ joy
 casual
 when
 fox |  
+| bip_39_word_no_space_1 | lecture |  
+| bip_39_word_no_space_10 | lecturestampcupabsenthobbyjoycasualwhenfoxgrass |  
+| bip_39_word_no_space_11 | lecturestampcupabsenthobbyjoycasualwhenfoxgrasswant |  
+| bip_39_word_no_space_12 | lecturestampcupabsenthobbyjoycasualwhenfoxgrasswantalbum |  
+| bip_39_word_no_space_2 | lecturestamp |  
+| bip_39_word_no_space_3 | lecturestampcup |  
+| bip_39_word_no_space_4 | lecturestampcupabsent |  
+| bip_39_word_no_space_5 | lecturestampcupabsenthobby |  
+| bip_39_word_no_space_6 | lecturestampcupabsenthobbyjoy |  
+| bip_39_word_no_space_7 | lecturestampcupabsenthobbyjoycasual |  
+| bip_39_word_no_space_8 | lecturestampcupabsenthobbyjoycasualwhen |  
+| bip_39_word_no_space_9 | lecturestampcupabsenthobbyjoycasualwhenfox |  
 | bip_39_word_space_0 | ['lecture', 'stamp', 'cup', 'absent', 'hobby', 'joy', 'casual', 'when', 'fox', 'grass', 'want', 'album'] |  
 | bip_39_word_space_1 | lecture |  
 | bip_39_word_space_10 | lecture stamp cup absent hobby joy casual when fox grass |  

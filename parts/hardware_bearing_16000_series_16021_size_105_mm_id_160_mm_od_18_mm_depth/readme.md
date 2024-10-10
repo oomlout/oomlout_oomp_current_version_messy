@@ -122,6 +122,18 @@ awful
 habit
 tower
 kitchen |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragicsweartogethertunnelmilkawfulhabittowerkitchenfirst |  
+| bip_39_word_no_space_11 | tragicsweartogethertunnelmilkawfulhabittowerkitchenfirstweekend |  
+| bip_39_word_no_space_12 | tragicsweartogethertunnelmilkawfulhabittowerkitchenfirstweekendarmed |  
+| bip_39_word_no_space_2 | tragicswear |  
+| bip_39_word_no_space_3 | tragicsweartogether |  
+| bip_39_word_no_space_4 | tragicsweartogethertunnel |  
+| bip_39_word_no_space_5 | tragicsweartogethertunnelmilk |  
+| bip_39_word_no_space_6 | tragicsweartogethertunnelmilkawful |  
+| bip_39_word_no_space_7 | tragicsweartogethertunnelmilkawfulhabit |  
+| bip_39_word_no_space_8 | tragicsweartogethertunnelmilkawfulhabittower |  
+| bip_39_word_no_space_9 | tragicsweartogethertunnelmilkawfulhabittowerkitchen |  
 | bip_39_word_space_0 | ['tragic', 'swear', 'together', 'tunnel', 'milk', 'awful', 'habit', 'tower', 'kitchen', 'first', 'weekend', 'armed'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic swear together tunnel milk awful habit tower kitchen first |  

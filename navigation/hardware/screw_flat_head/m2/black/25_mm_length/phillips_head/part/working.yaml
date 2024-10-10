@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clutch
   sand
 
   frown'
+bip_39_word_no_space_1: clutch
+bip_39_word_no_space_10: clutchfetchlawnselectmousehooddashsandfrownguide
+bip_39_word_no_space_11: clutchfetchlawnselectmousehooddashsandfrownguidecanal
+bip_39_word_no_space_12: clutchfetchlawnselectmousehooddashsandfrownguidecanalask
+bip_39_word_no_space_2: clutchfetch
+bip_39_word_no_space_3: clutchfetchlawn
+bip_39_word_no_space_4: clutchfetchlawnselect
+bip_39_word_no_space_5: clutchfetchlawnselectmouse
+bip_39_word_no_space_6: clutchfetchlawnselectmousehood
+bip_39_word_no_space_7: clutchfetchlawnselectmousehooddash
+bip_39_word_no_space_8: clutchfetchlawnselectmousehooddashsand
+bip_39_word_no_space_9: clutchfetchlawnselectmousehooddashsandfrown
 bip_39_word_space_0:
 - clutch
 - fetch

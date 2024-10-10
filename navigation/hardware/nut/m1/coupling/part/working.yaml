@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shuffle
   myself
 
   crowd'
+bip_39_word_no_space_1: shuffle
+bip_39_word_no_space_10: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkin
+bip_39_word_no_space_11: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocal
+bip_39_word_no_space_12: shufflehoodseaoccurbulletpizzagrabmyselfcrowdpumpkinvocalabuse
+bip_39_word_no_space_2: shufflehood
+bip_39_word_no_space_3: shufflehoodsea
+bip_39_word_no_space_4: shufflehoodseaoccur
+bip_39_word_no_space_5: shufflehoodseaoccurbullet
+bip_39_word_no_space_6: shufflehoodseaoccurbulletpizza
+bip_39_word_no_space_7: shufflehoodseaoccurbulletpizzagrab
+bip_39_word_no_space_8: shufflehoodseaoccurbulletpizzagrabmyself
+bip_39_word_no_space_9: shufflehoodseaoccurbulletpizzagrabmyselfcrowd
 bip_39_word_space_0:
 - shuffle
 - hood

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'emotion
   grab
 
   strike'
+bip_39_word_no_space_1: emotion
+bip_39_word_no_space_10: emotionpoledelivercanartistarctictripgrabstrikebrain
+bip_39_word_no_space_11: emotionpoledelivercanartistarctictripgrabstrikebrainrifle
+bip_39_word_no_space_12: emotionpoledelivercanartistarctictripgrabstrikebrainrifleauto
+bip_39_word_no_space_2: emotionpole
+bip_39_word_no_space_3: emotionpoledeliver
+bip_39_word_no_space_4: emotionpoledelivercan
+bip_39_word_no_space_5: emotionpoledelivercanartist
+bip_39_word_no_space_6: emotionpoledelivercanartistarctic
+bip_39_word_no_space_7: emotionpoledelivercanartistarctictrip
+bip_39_word_no_space_8: emotionpoledelivercanartistarctictripgrab
+bip_39_word_no_space_9: emotionpoledelivercanartistarctictripgrabstrike
 bip_39_word_space_0:
 - emotion
 - pole

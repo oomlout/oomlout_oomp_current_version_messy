@@ -122,6 +122,18 @@ deliver
 engage
 master
 grunt |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintstillcrawlfunnyfictiondeliverengagemastergruntsilk |  
+| bip_39_word_no_space_11 | faintstillcrawlfunnyfictiondeliverengagemastergruntsilknow |  
+| bip_39_word_no_space_12 | faintstillcrawlfunnyfictiondeliverengagemastergruntsilknowafraid |  
+| bip_39_word_no_space_2 | faintstill |  
+| bip_39_word_no_space_3 | faintstillcrawl |  
+| bip_39_word_no_space_4 | faintstillcrawlfunny |  
+| bip_39_word_no_space_5 | faintstillcrawlfunnyfiction |  
+| bip_39_word_no_space_6 | faintstillcrawlfunnyfictiondeliver |  
+| bip_39_word_no_space_7 | faintstillcrawlfunnyfictiondeliverengage |  
+| bip_39_word_no_space_8 | faintstillcrawlfunnyfictiondeliverengagemaster |  
+| bip_39_word_no_space_9 | faintstillcrawlfunnyfictiondeliverengagemastergrunt |  
 | bip_39_word_space_0 | ['faint', 'still', 'crawl', 'funny', 'fiction', 'deliver', 'engage', 'master', 'grunt', 'silk', 'now', 'afraid'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint still crawl funny fiction deliver engage master grunt silk |  

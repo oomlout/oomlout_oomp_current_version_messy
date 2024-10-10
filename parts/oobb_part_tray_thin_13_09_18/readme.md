@@ -122,6 +122,18 @@ mechanic
 reveal
 corn
 humble |  
+| bip_39_word_no_space_1 | orange |  
+| bip_39_word_no_space_10 | orangemosquitopanicvastpuzzlemechanicrevealcornhumbleheavy |  
+| bip_39_word_no_space_11 | orangemosquitopanicvastpuzzlemechanicrevealcornhumbleheavysnow |  
+| bip_39_word_no_space_12 | orangemosquitopanicvastpuzzlemechanicrevealcornhumbleheavysnowamused |  
+| bip_39_word_no_space_2 | orangemosquito |  
+| bip_39_word_no_space_3 | orangemosquitopanic |  
+| bip_39_word_no_space_4 | orangemosquitopanicvast |  
+| bip_39_word_no_space_5 | orangemosquitopanicvastpuzzle |  
+| bip_39_word_no_space_6 | orangemosquitopanicvastpuzzlemechanic |  
+| bip_39_word_no_space_7 | orangemosquitopanicvastpuzzlemechanicreveal |  
+| bip_39_word_no_space_8 | orangemosquitopanicvastpuzzlemechanicrevealcorn |  
+| bip_39_word_no_space_9 | orangemosquitopanicvastpuzzlemechanicrevealcornhumble |  
 | bip_39_word_space_0 | ['orange', 'mosquito', 'panic', 'vast', 'puzzle', 'mechanic', 'reveal', 'corn', 'humble', 'heavy', 'snow', 'amused'] |  
 | bip_39_word_space_1 | orange |  
 | bip_39_word_space_10 | orange mosquito panic vast puzzle mechanic reveal corn humble heavy |  

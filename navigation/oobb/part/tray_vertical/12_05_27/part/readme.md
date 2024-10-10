@@ -122,6 +122,18 @@ table
 hope
 silent
 refuse |  
+| bip_39_word_no_space_1 | gallery |  
+| bip_39_word_no_space_10 | gallerydripwomandisplayshoptablehopesilentrefusetube |  
+| bip_39_word_no_space_11 | gallerydripwomandisplayshoptablehopesilentrefusetubeoutdoor |  
+| bip_39_word_no_space_12 | gallerydripwomandisplayshoptablehopesilentrefusetubeoutdoorabstract |  
+| bip_39_word_no_space_2 | gallerydrip |  
+| bip_39_word_no_space_3 | gallerydripwoman |  
+| bip_39_word_no_space_4 | gallerydripwomandisplay |  
+| bip_39_word_no_space_5 | gallerydripwomandisplayshop |  
+| bip_39_word_no_space_6 | gallerydripwomandisplayshoptable |  
+| bip_39_word_no_space_7 | gallerydripwomandisplayshoptablehope |  
+| bip_39_word_no_space_8 | gallerydripwomandisplayshoptablehopesilent |  
+| bip_39_word_no_space_9 | gallerydripwomandisplayshoptablehopesilentrefuse |  
 | bip_39_word_space_0 | ['gallery', 'drip', 'woman', 'display', 'shop', 'table', 'hope', 'silent', 'refuse', 'tube', 'outdoor', 'abstract'] |  
 | bip_39_word_space_1 | gallery |  
 | bip_39_word_space_10 | gallery drip woman display shop table hope silent refuse tube |  

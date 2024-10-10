@@ -122,6 +122,18 @@ thumb
 supreme
 street
 city |  
+| bip_39_word_no_space_1 | silk |  
+| bip_39_word_no_space_10 | silkbirdsafevendorcheckthumbsupremestreetcityspread |  
+| bip_39_word_no_space_11 | silkbirdsafevendorcheckthumbsupremestreetcityspreadcongress |  
+| bip_39_word_no_space_12 | silkbirdsafevendorcheckthumbsupremestreetcityspreadcongressagree |  
+| bip_39_word_no_space_2 | silkbird |  
+| bip_39_word_no_space_3 | silkbirdsafe |  
+| bip_39_word_no_space_4 | silkbirdsafevendor |  
+| bip_39_word_no_space_5 | silkbirdsafevendorcheck |  
+| bip_39_word_no_space_6 | silkbirdsafevendorcheckthumb |  
+| bip_39_word_no_space_7 | silkbirdsafevendorcheckthumbsupreme |  
+| bip_39_word_no_space_8 | silkbirdsafevendorcheckthumbsupremestreet |  
+| bip_39_word_no_space_9 | silkbirdsafevendorcheckthumbsupremestreetcity |  
 | bip_39_word_space_0 | ['silk', 'bird', 'safe', 'vendor', 'check', 'thumb', 'supreme', 'street', 'city', 'spread', 'congress', 'agree'] |  
 | bip_39_word_space_1 | silk |  
 | bip_39_word_space_10 | silk bird safe vendor check thumb supreme street city spread |  

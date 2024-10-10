@@ -122,6 +122,18 @@ paddle
 orphan
 choice
 parrot |  
+| bip_39_word_no_space_1 | behind |  
+| bip_39_word_no_space_10 | behindmerrytouristalertdiseasepaddleorphanchoiceparrotspot |  
+| bip_39_word_no_space_11 | behindmerrytouristalertdiseasepaddleorphanchoiceparrotspotroom |  
+| bip_39_word_no_space_12 | behindmerrytouristalertdiseasepaddleorphanchoiceparrotspotroomagain |  
+| bip_39_word_no_space_2 | behindmerry |  
+| bip_39_word_no_space_3 | behindmerrytourist |  
+| bip_39_word_no_space_4 | behindmerrytouristalert |  
+| bip_39_word_no_space_5 | behindmerrytouristalertdisease |  
+| bip_39_word_no_space_6 | behindmerrytouristalertdiseasepaddle |  
+| bip_39_word_no_space_7 | behindmerrytouristalertdiseasepaddleorphan |  
+| bip_39_word_no_space_8 | behindmerrytouristalertdiseasepaddleorphanchoice |  
+| bip_39_word_no_space_9 | behindmerrytouristalertdiseasepaddleorphanchoiceparrot |  
 | bip_39_word_space_0 | ['behind', 'merry', 'tourist', 'alert', 'disease', 'paddle', 'orphan', 'choice', 'parrot', 'spot', 'room', 'again'] |  
 | bip_39_word_space_1 | behind |  
 | bip_39_word_space_10 | behind merry tourist alert disease paddle orphan choice parrot spot |  

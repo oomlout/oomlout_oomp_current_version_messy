@@ -122,6 +122,18 @@ analyst
 inner
 lucky
 elegant |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blacknoblecottoneightcircleanalystinnerluckyelegantunfold |  
+| bip_39_word_no_space_11 | blacknoblecottoneightcircleanalystinnerluckyelegantunfoldreplace |  
+| bip_39_word_no_space_12 | blacknoblecottoneightcircleanalystinnerluckyelegantunfoldreplacealpha |  
+| bip_39_word_no_space_2 | blacknoble |  
+| bip_39_word_no_space_3 | blacknoblecotton |  
+| bip_39_word_no_space_4 | blacknoblecottoneight |  
+| bip_39_word_no_space_5 | blacknoblecottoneightcircle |  
+| bip_39_word_no_space_6 | blacknoblecottoneightcircleanalyst |  
+| bip_39_word_no_space_7 | blacknoblecottoneightcircleanalystinner |  
+| bip_39_word_no_space_8 | blacknoblecottoneightcircleanalystinnerlucky |  
+| bip_39_word_no_space_9 | blacknoblecottoneightcircleanalystinnerluckyelegant |  
 | bip_39_word_space_0 | ['black', 'noble', 'cotton', 'eight', 'circle', 'analyst', 'inner', 'lucky', 'elegant', 'unfold', 'replace', 'alpha'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black noble cotton eight circle analyst inner lucky elegant unfold |  

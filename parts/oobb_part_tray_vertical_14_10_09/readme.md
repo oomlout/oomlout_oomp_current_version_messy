@@ -122,6 +122,18 @@ cost
 clerk
 deer
 fatal |  
+| bip_39_word_no_space_1 | mail |  
+| bip_39_word_no_space_10 | mailstoverainboxwhalecostclerkdeerfatallunch |  
+| bip_39_word_no_space_11 | mailstoverainboxwhalecostclerkdeerfatallunchmerry |  
+| bip_39_word_no_space_12 | mailstoverainboxwhalecostclerkdeerfatallunchmerryaudit |  
+| bip_39_word_no_space_2 | mailstove |  
+| bip_39_word_no_space_3 | mailstoverain |  
+| bip_39_word_no_space_4 | mailstoverainbox |  
+| bip_39_word_no_space_5 | mailstoverainboxwhale |  
+| bip_39_word_no_space_6 | mailstoverainboxwhalecost |  
+| bip_39_word_no_space_7 | mailstoverainboxwhalecostclerk |  
+| bip_39_word_no_space_8 | mailstoverainboxwhalecostclerkdeer |  
+| bip_39_word_no_space_9 | mailstoverainboxwhalecostclerkdeerfatal |  
 | bip_39_word_space_0 | ['mail', 'stove', 'rain', 'box', 'whale', 'cost', 'clerk', 'deer', 'fatal', 'lunch', 'merry', 'audit'] |  
 | bip_39_word_space_1 | mail |  
 | bip_39_word_space_10 | mail stove rain box whale cost clerk deer fatal lunch |  

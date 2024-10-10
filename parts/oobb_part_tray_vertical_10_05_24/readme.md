@@ -122,6 +122,18 @@ south
 blast
 spice
 state |  
+| bip_39_word_no_space_1 | author |  
+| bip_39_word_no_space_10 | authormethodthingsoccerskatesouthblastspicestatediesel |  
+| bip_39_word_no_space_11 | authormethodthingsoccerskatesouthblastspicestatedieseltattoo |  
+| bip_39_word_no_space_12 | authormethodthingsoccerskatesouthblastspicestatedieseltattooalarm |  
+| bip_39_word_no_space_2 | authormethod |  
+| bip_39_word_no_space_3 | authormethodthing |  
+| bip_39_word_no_space_4 | authormethodthingsoccer |  
+| bip_39_word_no_space_5 | authormethodthingsoccerskate |  
+| bip_39_word_no_space_6 | authormethodthingsoccerskatesouth |  
+| bip_39_word_no_space_7 | authormethodthingsoccerskatesouthblast |  
+| bip_39_word_no_space_8 | authormethodthingsoccerskatesouthblastspice |  
+| bip_39_word_no_space_9 | authormethodthingsoccerskatesouthblastspicestate |  
 | bip_39_word_space_0 | ['author', 'method', 'thing', 'soccer', 'skate', 'south', 'blast', 'spice', 'state', 'diesel', 'tattoo', 'alarm'] |  
 | bip_39_word_space_1 | author |  
 | bip_39_word_space_10 | author method thing soccer skate south blast spice state diesel |  

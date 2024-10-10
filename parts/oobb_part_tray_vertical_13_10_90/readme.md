@@ -122,6 +122,18 @@ song
 giant
 behave
 ramp |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenromancedevicepianoimpulsesonggiantbehaverampexpect |  
+| bip_39_word_no_space_11 | oftenromancedevicepianoimpulsesonggiantbehaverampexpectgrab |  
+| bip_39_word_no_space_12 | oftenromancedevicepianoimpulsesonggiantbehaverampexpectgrabarrest |  
+| bip_39_word_no_space_2 | oftenromance |  
+| bip_39_word_no_space_3 | oftenromancedevice |  
+| bip_39_word_no_space_4 | oftenromancedevicepiano |  
+| bip_39_word_no_space_5 | oftenromancedevicepianoimpulse |  
+| bip_39_word_no_space_6 | oftenromancedevicepianoimpulsesong |  
+| bip_39_word_no_space_7 | oftenromancedevicepianoimpulsesonggiant |  
+| bip_39_word_no_space_8 | oftenromancedevicepianoimpulsesonggiantbehave |  
+| bip_39_word_no_space_9 | oftenromancedevicepianoimpulsesonggiantbehaveramp |  
 | bip_39_word_space_0 | ['often', 'romance', 'device', 'piano', 'impulse', 'song', 'giant', 'behave', 'ramp', 'expect', 'grab', 'arrest'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often romance device piano impulse song giant behave ramp expect |  

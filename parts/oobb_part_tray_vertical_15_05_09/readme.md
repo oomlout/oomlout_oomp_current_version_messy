@@ -122,6 +122,18 @@ arrange
 dust
 video
 bitter |  
+| bip_39_word_no_space_1 | chase |  
+| bip_39_word_no_space_10 | chasefaultinterestrainmeasurearrangedustvideobitterdream |  
+| bip_39_word_no_space_11 | chasefaultinterestrainmeasurearrangedustvideobitterdreamfrost |  
+| bip_39_word_no_space_12 | chasefaultinterestrainmeasurearrangedustvideobitterdreamfrostalso |  
+| bip_39_word_no_space_2 | chasefault |  
+| bip_39_word_no_space_3 | chasefaultinterest |  
+| bip_39_word_no_space_4 | chasefaultinterestrain |  
+| bip_39_word_no_space_5 | chasefaultinterestrainmeasure |  
+| bip_39_word_no_space_6 | chasefaultinterestrainmeasurearrange |  
+| bip_39_word_no_space_7 | chasefaultinterestrainmeasurearrangedust |  
+| bip_39_word_no_space_8 | chasefaultinterestrainmeasurearrangedustvideo |  
+| bip_39_word_no_space_9 | chasefaultinterestrainmeasurearrangedustvideobitter |  
 | bip_39_word_space_0 | ['chase', 'fault', 'interest', 'rain', 'measure', 'arrange', 'dust', 'video', 'bitter', 'dream', 'frost', 'also'] |  
 | bip_39_word_space_1 | chase |  
 | bip_39_word_space_10 | chase fault interest rain measure arrange dust video bitter dream |  

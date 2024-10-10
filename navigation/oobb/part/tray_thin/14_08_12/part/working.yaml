@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'become
   ramp
 
   loop'
+bip_39_word_no_space_1: become
+bip_39_word_no_space_10: becomethoughtpullspotclubassistlotteryramploopgrief
+bip_39_word_no_space_11: becomethoughtpullspotclubassistlotteryramploopgrieflight
+bip_39_word_no_space_12: becomethoughtpullspotclubassistlotteryramploopgrieflightaccident
+bip_39_word_no_space_2: becomethought
+bip_39_word_no_space_3: becomethoughtpull
+bip_39_word_no_space_4: becomethoughtpullspot
+bip_39_word_no_space_5: becomethoughtpullspotclub
+bip_39_word_no_space_6: becomethoughtpullspotclubassist
+bip_39_word_no_space_7: becomethoughtpullspotclubassistlottery
+bip_39_word_no_space_8: becomethoughtpullspotclubassistlotteryramp
+bip_39_word_no_space_9: becomethoughtpullspotclubassistlotteryramploop
 bip_39_word_space_0:
 - become
 - thought

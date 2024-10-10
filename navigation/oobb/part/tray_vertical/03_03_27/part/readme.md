@@ -122,6 +122,18 @@ mixture
 eight
 mirror
 fruit |  
+| bip_39_word_no_space_1 | mirror |  
+| bip_39_word_no_space_10 | mirrorfollowchronicorbityellowmixtureeightmirrorfruitinhale |  
+| bip_39_word_no_space_11 | mirrorfollowchronicorbityellowmixtureeightmirrorfruitinhaleidea |  
+| bip_39_word_no_space_12 | mirrorfollowchronicorbityellowmixtureeightmirrorfruitinhaleideaartwork |  
+| bip_39_word_no_space_2 | mirrorfollow |  
+| bip_39_word_no_space_3 | mirrorfollowchronic |  
+| bip_39_word_no_space_4 | mirrorfollowchronicorbit |  
+| bip_39_word_no_space_5 | mirrorfollowchronicorbityellow |  
+| bip_39_word_no_space_6 | mirrorfollowchronicorbityellowmixture |  
+| bip_39_word_no_space_7 | mirrorfollowchronicorbityellowmixtureeight |  
+| bip_39_word_no_space_8 | mirrorfollowchronicorbityellowmixtureeightmirror |  
+| bip_39_word_no_space_9 | mirrorfollowchronicorbityellowmixtureeightmirrorfruit |  
 | bip_39_word_space_0 | ['mirror', 'follow', 'chronic', 'orbit', 'yellow', 'mixture', 'eight', 'mirror', 'fruit', 'inhale', 'idea', 'artwork'] |  
 | bip_39_word_space_1 | mirror |  
 | bip_39_word_space_10 | mirror follow chronic orbit yellow mixture eight mirror fruit inhale |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spike
   patch
 
   order'
+bip_39_word_no_space_1: spike
+bip_39_word_no_space_10: spikecakeversionfloorsameskillrequirepatchordercontrol
+bip_39_word_no_space_11: spikecakeversionfloorsameskillrequirepatchordercontrolcage
+bip_39_word_no_space_12: spikecakeversionfloorsameskillrequirepatchordercontrolcageaugust
+bip_39_word_no_space_2: spikecake
+bip_39_word_no_space_3: spikecakeversion
+bip_39_word_no_space_4: spikecakeversionfloor
+bip_39_word_no_space_5: spikecakeversionfloorsame
+bip_39_word_no_space_6: spikecakeversionfloorsameskill
+bip_39_word_no_space_7: spikecakeversionfloorsameskillrequire
+bip_39_word_no_space_8: spikecakeversionfloorsameskillrequirepatch
+bip_39_word_no_space_9: spikecakeversionfloorsameskillrequirepatchorder
 bip_39_word_space_0:
 - spike
 - cake

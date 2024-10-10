@@ -122,6 +122,18 @@ gasp
 dinner
 defy
 hair |  
+| bip_39_word_no_space_1 | thrive |  
+| bip_39_word_no_space_10 | thrivegenuinedashexchangeinvitegaspdinnerdefyhairexpire |  
+| bip_39_word_no_space_11 | thrivegenuinedashexchangeinvitegaspdinnerdefyhairexpireclient |  
+| bip_39_word_no_space_12 | thrivegenuinedashexchangeinvitegaspdinnerdefyhairexpireclientalpha |  
+| bip_39_word_no_space_2 | thrivegenuine |  
+| bip_39_word_no_space_3 | thrivegenuinedash |  
+| bip_39_word_no_space_4 | thrivegenuinedashexchange |  
+| bip_39_word_no_space_5 | thrivegenuinedashexchangeinvite |  
+| bip_39_word_no_space_6 | thrivegenuinedashexchangeinvitegasp |  
+| bip_39_word_no_space_7 | thrivegenuinedashexchangeinvitegaspdinner |  
+| bip_39_word_no_space_8 | thrivegenuinedashexchangeinvitegaspdinnerdefy |  
+| bip_39_word_no_space_9 | thrivegenuinedashexchangeinvitegaspdinnerdefyhair |  
 | bip_39_word_space_0 | ['thrive', 'genuine', 'dash', 'exchange', 'invite', 'gasp', 'dinner', 'defy', 'hair', 'expire', 'client', 'alpha'] |  
 | bip_39_word_space_1 | thrive |  
 | bip_39_word_space_10 | thrive genuine dash exchange invite gasp dinner defy hair expire |  

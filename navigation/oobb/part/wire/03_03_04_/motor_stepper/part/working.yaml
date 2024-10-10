@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'also
   since
 
   matter'
+bip_39_word_no_space_1: also
+bip_39_word_no_space_10: alsoaheadpraisegospelinchpurseanxietysincematterwheel
+bip_39_word_no_space_11: alsoaheadpraisegospelinchpurseanxietysincematterwheelsystem
+bip_39_word_no_space_12: alsoaheadpraisegospelinchpurseanxietysincematterwheelsystemachieve
+bip_39_word_no_space_2: alsoahead
+bip_39_word_no_space_3: alsoaheadpraise
+bip_39_word_no_space_4: alsoaheadpraisegospel
+bip_39_word_no_space_5: alsoaheadpraisegospelinch
+bip_39_word_no_space_6: alsoaheadpraisegospelinchpurse
+bip_39_word_no_space_7: alsoaheadpraisegospelinchpurseanxiety
+bip_39_word_no_space_8: alsoaheadpraisegospelinchpurseanxietysince
+bip_39_word_no_space_9: alsoaheadpraisegospelinchpurseanxietysincematter
 bip_39_word_space_0:
 - also
 - ahead

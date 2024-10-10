@@ -122,6 +122,18 @@ memory
 boss
 drive
 consider |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discoverdeputybronzejudgepromotememorybossdriveconsidertext |  
+| bip_39_word_no_space_11 | discoverdeputybronzejudgepromotememorybossdriveconsidertextbirth |  
+| bip_39_word_no_space_12 | discoverdeputybronzejudgepromotememorybossdriveconsidertextbirthalone |  
+| bip_39_word_no_space_2 | discoverdeputy |  
+| bip_39_word_no_space_3 | discoverdeputybronze |  
+| bip_39_word_no_space_4 | discoverdeputybronzejudge |  
+| bip_39_word_no_space_5 | discoverdeputybronzejudgepromote |  
+| bip_39_word_no_space_6 | discoverdeputybronzejudgepromotememory |  
+| bip_39_word_no_space_7 | discoverdeputybronzejudgepromotememoryboss |  
+| bip_39_word_no_space_8 | discoverdeputybronzejudgepromotememorybossdrive |  
+| bip_39_word_no_space_9 | discoverdeputybronzejudgepromotememorybossdriveconsider |  
 | bip_39_word_space_0 | ['discover', 'deputy', 'bronze', 'judge', 'promote', 'memory', 'boss', 'drive', 'consider', 'text', 'birth', 'alone'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover deputy bronze judge promote memory boss drive consider text |  

@@ -122,6 +122,18 @@ apart
 soldier
 inherit
 aim |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guiltlaptopunawarekeencancelapartsoldierinheritaimdecline |  
+| bip_39_word_no_space_11 | guiltlaptopunawarekeencancelapartsoldierinheritaimdeclinedrink |  
+| bip_39_word_no_space_12 | guiltlaptopunawarekeencancelapartsoldierinheritaimdeclinedrinkarmor |  
+| bip_39_word_no_space_2 | guiltlaptop |  
+| bip_39_word_no_space_3 | guiltlaptopunaware |  
+| bip_39_word_no_space_4 | guiltlaptopunawarekeen |  
+| bip_39_word_no_space_5 | guiltlaptopunawarekeencancel |  
+| bip_39_word_no_space_6 | guiltlaptopunawarekeencancelapart |  
+| bip_39_word_no_space_7 | guiltlaptopunawarekeencancelapartsoldier |  
+| bip_39_word_no_space_8 | guiltlaptopunawarekeencancelapartsoldierinherit |  
+| bip_39_word_no_space_9 | guiltlaptopunawarekeencancelapartsoldierinheritaim |  
 | bip_39_word_space_0 | ['guilt', 'laptop', 'unaware', 'keen', 'cancel', 'apart', 'soldier', 'inherit', 'aim', 'decline', 'drink', 'armor'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt laptop unaware keen cancel apart soldier inherit aim decline |  

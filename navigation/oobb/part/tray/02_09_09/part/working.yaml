@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'noodle
   repeat
 
   quick'
+bip_39_word_no_space_1: noodle
+bip_39_word_no_space_10: noodlefallbuildlimitfirstfigureborderrepeatquickneed
+bip_39_word_no_space_11: noodlefallbuildlimitfirstfigureborderrepeatquickneeddust
+bip_39_word_no_space_12: noodlefallbuildlimitfirstfigureborderrepeatquickneeddustassume
+bip_39_word_no_space_2: noodlefall
+bip_39_word_no_space_3: noodlefallbuild
+bip_39_word_no_space_4: noodlefallbuildlimit
+bip_39_word_no_space_5: noodlefallbuildlimitfirst
+bip_39_word_no_space_6: noodlefallbuildlimitfirstfigure
+bip_39_word_no_space_7: noodlefallbuildlimitfirstfigureborder
+bip_39_word_no_space_8: noodlefallbuildlimitfirstfigureborderrepeat
+bip_39_word_no_space_9: noodlefallbuildlimitfirstfigureborderrepeatquick
 bip_39_word_space_0:
 - noodle
 - fall

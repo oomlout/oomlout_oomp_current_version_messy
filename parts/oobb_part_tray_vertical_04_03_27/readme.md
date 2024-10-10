@@ -122,6 +122,18 @@ salute
 mention
 disagree
 shrimp |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenflagdiffermusicoutersalutementiondisagreeshrimpfantasy |  
+| bip_39_word_no_space_11 | burdenflagdiffermusicoutersalutementiondisagreeshrimpfantasydecember |  
+| bip_39_word_no_space_12 | burdenflagdiffermusicoutersalutementiondisagreeshrimpfantasydecemberacoustic |  
+| bip_39_word_no_space_2 | burdenflag |  
+| bip_39_word_no_space_3 | burdenflagdiffer |  
+| bip_39_word_no_space_4 | burdenflagdiffermusic |  
+| bip_39_word_no_space_5 | burdenflagdiffermusicouter |  
+| bip_39_word_no_space_6 | burdenflagdiffermusicoutersalute |  
+| bip_39_word_no_space_7 | burdenflagdiffermusicoutersalutemention |  
+| bip_39_word_no_space_8 | burdenflagdiffermusicoutersalutementiondisagree |  
+| bip_39_word_no_space_9 | burdenflagdiffermusicoutersalutementiondisagreeshrimp |  
 | bip_39_word_space_0 | ['burden', 'flag', 'differ', 'music', 'outer', 'salute', 'mention', 'disagree', 'shrimp', 'fantasy', 'december', 'acoustic'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden flag differ music outer salute mention disagree shrimp fantasy |  

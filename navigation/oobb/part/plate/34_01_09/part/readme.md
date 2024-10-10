@@ -122,6 +122,18 @@ lobster
 amazing
 oak
 skirt |  
+| bip_39_word_no_space_1 | suffer |  
+| bip_39_word_no_space_10 | sufferaheadfemaletomatoalertlobsteramazingoakskirtlaugh |  
+| bip_39_word_no_space_11 | sufferaheadfemaletomatoalertlobsteramazingoakskirtlaughsurvey |  
+| bip_39_word_no_space_12 | sufferaheadfemaletomatoalertlobsteramazingoakskirtlaughsurveyasthma |  
+| bip_39_word_no_space_2 | sufferahead |  
+| bip_39_word_no_space_3 | sufferaheadfemale |  
+| bip_39_word_no_space_4 | sufferaheadfemaletomato |  
+| bip_39_word_no_space_5 | sufferaheadfemaletomatoalert |  
+| bip_39_word_no_space_6 | sufferaheadfemaletomatoalertlobster |  
+| bip_39_word_no_space_7 | sufferaheadfemaletomatoalertlobsteramazing |  
+| bip_39_word_no_space_8 | sufferaheadfemaletomatoalertlobsteramazingoak |  
+| bip_39_word_no_space_9 | sufferaheadfemaletomatoalertlobsteramazingoakskirt |  
 | bip_39_word_space_0 | ['suffer', 'ahead', 'female', 'tomato', 'alert', 'lobster', 'amazing', 'oak', 'skirt', 'laugh', 'survey', 'asthma'] |  
 | bip_39_word_space_1 | suffer |  
 | bip_39_word_space_10 | suffer ahead female tomato alert lobster amazing oak skirt laugh |  

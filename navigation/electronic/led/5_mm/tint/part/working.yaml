@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bag
   morning
 
   sing'
+bip_39_word_no_space_1: bag
+bip_39_word_no_space_10: bagenhancechatsingfrogteamholemorningsingasset
+bip_39_word_no_space_11: bagenhancechatsingfrogteamholemorningsingassetmethod
+bip_39_word_no_space_12: bagenhancechatsingfrogteamholemorningsingassetmethodaccess
+bip_39_word_no_space_2: bagenhance
+bip_39_word_no_space_3: bagenhancechat
+bip_39_word_no_space_4: bagenhancechatsing
+bip_39_word_no_space_5: bagenhancechatsingfrog
+bip_39_word_no_space_6: bagenhancechatsingfrogteam
+bip_39_word_no_space_7: bagenhancechatsingfrogteamhole
+bip_39_word_no_space_8: bagenhancechatsingfrogteamholemorning
+bip_39_word_no_space_9: bagenhancechatsingfrogteamholemorningsing
 bip_39_word_space_0:
 - bag
 - enhance

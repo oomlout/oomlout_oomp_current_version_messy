@@ -122,6 +122,18 @@ betray
 ice
 example
 twin |  
+| bip_39_word_no_space_1 | effort |  
+| bip_39_word_no_space_10 | effortventurecliffcastleedgebetrayiceexampletwinday |  
+| bip_39_word_no_space_11 | effortventurecliffcastleedgebetrayiceexampletwindayrude |  
+| bip_39_word_no_space_12 | effortventurecliffcastleedgebetrayiceexampletwindayrudearctic |  
+| bip_39_word_no_space_2 | effortventure |  
+| bip_39_word_no_space_3 | effortventurecliff |  
+| bip_39_word_no_space_4 | effortventurecliffcastle |  
+| bip_39_word_no_space_5 | effortventurecliffcastleedge |  
+| bip_39_word_no_space_6 | effortventurecliffcastleedgebetray |  
+| bip_39_word_no_space_7 | effortventurecliffcastleedgebetrayice |  
+| bip_39_word_no_space_8 | effortventurecliffcastleedgebetrayiceexample |  
+| bip_39_word_no_space_9 | effortventurecliffcastleedgebetrayiceexampletwin |  
 | bip_39_word_space_0 | ['effort', 'venture', 'cliff', 'castle', 'edge', 'betray', 'ice', 'example', 'twin', 'day', 'rude', 'arctic'] |  
 | bip_39_word_space_1 | effort |  
 | bip_39_word_space_10 | effort venture cliff castle edge betray ice example twin day |  

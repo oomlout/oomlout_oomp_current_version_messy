@@ -122,6 +122,18 @@ night
 check
 top
 benefit |  
+| bip_39_word_no_space_1 | cattle |  
+| bip_39_word_no_space_10 | cattlepleasedifferexotictubenightchecktopbenefiteducate |  
+| bip_39_word_no_space_11 | cattlepleasedifferexotictubenightchecktopbenefiteducateitem |  
+| bip_39_word_no_space_12 | cattlepleasedifferexotictubenightchecktopbenefiteducateitemaccess |  
+| bip_39_word_no_space_2 | cattleplease |  
+| bip_39_word_no_space_3 | cattlepleasediffer |  
+| bip_39_word_no_space_4 | cattlepleasedifferexotic |  
+| bip_39_word_no_space_5 | cattlepleasedifferexotictube |  
+| bip_39_word_no_space_6 | cattlepleasedifferexotictubenight |  
+| bip_39_word_no_space_7 | cattlepleasedifferexotictubenightcheck |  
+| bip_39_word_no_space_8 | cattlepleasedifferexotictubenightchecktop |  
+| bip_39_word_no_space_9 | cattlepleasedifferexotictubenightchecktopbenefit |  
 | bip_39_word_space_0 | ['cattle', 'please', 'differ', 'exotic', 'tube', 'night', 'check', 'top', 'benefit', 'educate', 'item', 'access'] |  
 | bip_39_word_space_1 | cattle |  
 | bip_39_word_space_10 | cattle please differ exotic tube night check top benefit educate |  

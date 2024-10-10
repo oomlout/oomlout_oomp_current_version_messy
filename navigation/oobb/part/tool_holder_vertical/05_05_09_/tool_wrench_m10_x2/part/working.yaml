@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'animal
   slow
 
   battle'
+bip_39_word_no_space_1: animal
+bip_39_word_no_space_10: animalhockeynutshelldiscovercoveruglyslowbattlecan
+bip_39_word_no_space_11: animalhockeynutshelldiscovercoveruglyslowbattlecanreason
+bip_39_word_no_space_12: animalhockeynutshelldiscovercoveruglyslowbattlecanreasonaccuse
+bip_39_word_no_space_2: animalhockey
+bip_39_word_no_space_3: animalhockeynut
+bip_39_word_no_space_4: animalhockeynutshell
+bip_39_word_no_space_5: animalhockeynutshelldiscover
+bip_39_word_no_space_6: animalhockeynutshelldiscovercover
+bip_39_word_no_space_7: animalhockeynutshelldiscovercoverugly
+bip_39_word_no_space_8: animalhockeynutshelldiscovercoveruglyslow
+bip_39_word_no_space_9: animalhockeynutshelldiscovercoveruglyslowbattle
 bip_39_word_space_0:
 - animal
 - hockey

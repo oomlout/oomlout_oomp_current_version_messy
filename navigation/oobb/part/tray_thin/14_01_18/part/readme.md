@@ -122,6 +122,18 @@ caught
 canvas
 gun
 uncle |  
+| bip_39_word_no_space_1 | ten |  
+| bip_39_word_no_space_10 | tenweathertasksnapmodifycaughtcanvasgununclepond |  
+| bip_39_word_no_space_11 | tenweathertasksnapmodifycaughtcanvasgununclepondart |  
+| bip_39_word_no_space_12 | tenweathertasksnapmodifycaughtcanvasgununclepondartarm |  
+| bip_39_word_no_space_2 | tenweather |  
+| bip_39_word_no_space_3 | tenweathertask |  
+| bip_39_word_no_space_4 | tenweathertasksnap |  
+| bip_39_word_no_space_5 | tenweathertasksnapmodify |  
+| bip_39_word_no_space_6 | tenweathertasksnapmodifycaught |  
+| bip_39_word_no_space_7 | tenweathertasksnapmodifycaughtcanvas |  
+| bip_39_word_no_space_8 | tenweathertasksnapmodifycaughtcanvasgun |  
+| bip_39_word_no_space_9 | tenweathertasksnapmodifycaughtcanvasgununcle |  
 | bip_39_word_space_0 | ['ten', 'weather', 'task', 'snap', 'modify', 'caught', 'canvas', 'gun', 'uncle', 'pond', 'art', 'arm'] |  
 | bip_39_word_space_1 | ten |  
 | bip_39_word_space_10 | ten weather task snap modify caught canvas gun uncle pond |  

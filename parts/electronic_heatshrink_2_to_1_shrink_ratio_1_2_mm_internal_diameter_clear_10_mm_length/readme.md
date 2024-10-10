@@ -122,6 +122,18 @@ make
 sauce
 pave
 input |  
+| bip_39_word_no_space_1 | romance |  
+| bip_39_word_no_space_10 | romancebeltcoralaccidentgreatmakesaucepaveinputgoose |  
+| bip_39_word_no_space_11 | romancebeltcoralaccidentgreatmakesaucepaveinputgoosemilk |  
+| bip_39_word_no_space_12 | romancebeltcoralaccidentgreatmakesaucepaveinputgoosemilkafford |  
+| bip_39_word_no_space_2 | romancebelt |  
+| bip_39_word_no_space_3 | romancebeltcoral |  
+| bip_39_word_no_space_4 | romancebeltcoralaccident |  
+| bip_39_word_no_space_5 | romancebeltcoralaccidentgreat |  
+| bip_39_word_no_space_6 | romancebeltcoralaccidentgreatmake |  
+| bip_39_word_no_space_7 | romancebeltcoralaccidentgreatmakesauce |  
+| bip_39_word_no_space_8 | romancebeltcoralaccidentgreatmakesaucepave |  
+| bip_39_word_no_space_9 | romancebeltcoralaccidentgreatmakesaucepaveinput |  
 | bip_39_word_space_0 | ['romance', 'belt', 'coral', 'accident', 'great', 'make', 'sauce', 'pave', 'input', 'goose', 'milk', 'afford'] |  
 | bip_39_word_space_1 | romance |  
 | bip_39_word_space_10 | romance belt coral accident great make sauce pave input goose |  

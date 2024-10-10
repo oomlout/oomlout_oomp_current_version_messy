@@ -122,6 +122,18 @@ acid
 abstract
 boost
 try |  
+| bip_39_word_no_space_1 | present |  
+| bip_39_word_no_space_10 | presentfollowcompanywaitarriveacidabstractboosttrywhat |  
+| bip_39_word_no_space_11 | presentfollowcompanywaitarriveacidabstractboosttrywhattank |  
+| bip_39_word_no_space_12 | presentfollowcompanywaitarriveacidabstractboosttrywhattankahead |  
+| bip_39_word_no_space_2 | presentfollow |  
+| bip_39_word_no_space_3 | presentfollowcompany |  
+| bip_39_word_no_space_4 | presentfollowcompanywait |  
+| bip_39_word_no_space_5 | presentfollowcompanywaitarrive |  
+| bip_39_word_no_space_6 | presentfollowcompanywaitarriveacid |  
+| bip_39_word_no_space_7 | presentfollowcompanywaitarriveacidabstract |  
+| bip_39_word_no_space_8 | presentfollowcompanywaitarriveacidabstractboost |  
+| bip_39_word_no_space_9 | presentfollowcompanywaitarriveacidabstractboosttry |  
 | bip_39_word_space_0 | ['present', 'follow', 'company', 'wait', 'arrive', 'acid', 'abstract', 'boost', 'try', 'what', 'tank', 'ahead'] |  
 | bip_39_word_space_1 | present |  
 | bip_39_word_space_10 | present follow company wait arrive acid abstract boost try what |  

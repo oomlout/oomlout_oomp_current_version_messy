@@ -122,6 +122,18 @@ property
 zebra
 stamp
 spread |  
+| bip_39_word_no_space_1 | gate |  
+| bip_39_word_no_space_10 | gatecuteforkchesteruptpropertyzebrastampspreadveteran |  
+| bip_39_word_no_space_11 | gatecuteforkchesteruptpropertyzebrastampspreadveteranarmed |  
+| bip_39_word_no_space_12 | gatecuteforkchesteruptpropertyzebrastampspreadveteranarmedaccuse |  
+| bip_39_word_no_space_2 | gatecute |  
+| bip_39_word_no_space_3 | gatecutefork |  
+| bip_39_word_no_space_4 | gatecuteforkchest |  
+| bip_39_word_no_space_5 | gatecuteforkchesterupt |  
+| bip_39_word_no_space_6 | gatecuteforkchesteruptproperty |  
+| bip_39_word_no_space_7 | gatecuteforkchesteruptpropertyzebra |  
+| bip_39_word_no_space_8 | gatecuteforkchesteruptpropertyzebrastamp |  
+| bip_39_word_no_space_9 | gatecuteforkchesteruptpropertyzebrastampspread |  
 | bip_39_word_space_0 | ['gate', 'cute', 'fork', 'chest', 'erupt', 'property', 'zebra', 'stamp', 'spread', 'veteran', 'armed', 'accuse'] |  
 | bip_39_word_space_1 | gate |  
 | bip_39_word_space_10 | gate cute fork chest erupt property zebra stamp spread veteran |  

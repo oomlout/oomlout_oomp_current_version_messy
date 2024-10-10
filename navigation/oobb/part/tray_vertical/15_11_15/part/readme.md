@@ -122,6 +122,18 @@ usual
 gloom
 decorate
 where |  
+| bip_39_word_no_space_1 | time |  
+| bip_39_word_no_space_10 | timeprotectarealoungemarchusualgloomdecoratewhereexpire |  
+| bip_39_word_no_space_11 | timeprotectarealoungemarchusualgloomdecoratewhereexpireguard |  
+| bip_39_word_no_space_12 | timeprotectarealoungemarchusualgloomdecoratewhereexpireguardaround |  
+| bip_39_word_no_space_2 | timeprotect |  
+| bip_39_word_no_space_3 | timeprotectarea |  
+| bip_39_word_no_space_4 | timeprotectarealounge |  
+| bip_39_word_no_space_5 | timeprotectarealoungemarch |  
+| bip_39_word_no_space_6 | timeprotectarealoungemarchusual |  
+| bip_39_word_no_space_7 | timeprotectarealoungemarchusualgloom |  
+| bip_39_word_no_space_8 | timeprotectarealoungemarchusualgloomdecorate |  
+| bip_39_word_no_space_9 | timeprotectarealoungemarchusualgloomdecoratewhere |  
 | bip_39_word_space_0 | ['time', 'protect', 'area', 'lounge', 'march', 'usual', 'gloom', 'decorate', 'where', 'expire', 'guard', 'around'] |  
 | bip_39_word_space_1 | time |  
 | bip_39_word_space_10 | time protect area lounge march usual gloom decorate where expire |  

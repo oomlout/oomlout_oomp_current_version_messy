@@ -122,6 +122,18 @@ sniff
 neck
 twenty
 mountain |  
+| bip_39_word_no_space_1 | amazing |  
+| bip_39_word_no_space_10 | amazingplayinhalesouthresponsesniffnecktwentymountainhunt |  
+| bip_39_word_no_space_11 | amazingplayinhalesouthresponsesniffnecktwentymountainhuntrifle |  
+| bip_39_word_no_space_12 | amazingplayinhalesouthresponsesniffnecktwentymountainhuntriflealso |  
+| bip_39_word_no_space_2 | amazingplay |  
+| bip_39_word_no_space_3 | amazingplayinhale |  
+| bip_39_word_no_space_4 | amazingplayinhalesouth |  
+| bip_39_word_no_space_5 | amazingplayinhalesouthresponse |  
+| bip_39_word_no_space_6 | amazingplayinhalesouthresponsesniff |  
+| bip_39_word_no_space_7 | amazingplayinhalesouthresponsesniffneck |  
+| bip_39_word_no_space_8 | amazingplayinhalesouthresponsesniffnecktwenty |  
+| bip_39_word_no_space_9 | amazingplayinhalesouthresponsesniffnecktwentymountain |  
 | bip_39_word_space_0 | ['amazing', 'play', 'inhale', 'south', 'response', 'sniff', 'neck', 'twenty', 'mountain', 'hunt', 'rifle', 'also'] |  
 | bip_39_word_space_1 | amazing |  
 | bip_39_word_space_10 | amazing play inhale south response sniff neck twenty mountain hunt |  

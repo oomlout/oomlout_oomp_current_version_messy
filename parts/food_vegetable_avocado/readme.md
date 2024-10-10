@@ -122,6 +122,18 @@ rabbit
 carry
 garment
 hello |  
+| bip_39_word_no_space_1 | vacuum |  
+| bip_39_word_no_space_10 | vacuumgirltrophyfirmpowderrabbitcarrygarmenthellotwin |  
+| bip_39_word_no_space_11 | vacuumgirltrophyfirmpowderrabbitcarrygarmenthellotwinarmed |  
+| bip_39_word_no_space_12 | vacuumgirltrophyfirmpowderrabbitcarrygarmenthellotwinarmedassist |  
+| bip_39_word_no_space_2 | vacuumgirl |  
+| bip_39_word_no_space_3 | vacuumgirltrophy |  
+| bip_39_word_no_space_4 | vacuumgirltrophyfirm |  
+| bip_39_word_no_space_5 | vacuumgirltrophyfirmpowder |  
+| bip_39_word_no_space_6 | vacuumgirltrophyfirmpowderrabbit |  
+| bip_39_word_no_space_7 | vacuumgirltrophyfirmpowderrabbitcarry |  
+| bip_39_word_no_space_8 | vacuumgirltrophyfirmpowderrabbitcarrygarment |  
+| bip_39_word_no_space_9 | vacuumgirltrophyfirmpowderrabbitcarrygarmenthello |  
 | bip_39_word_space_0 | ['vacuum', 'girl', 'trophy', 'firm', 'powder', 'rabbit', 'carry', 'garment', 'hello', 'twin', 'armed', 'assist'] |  
 | bip_39_word_space_1 | vacuum |  
 | bip_39_word_space_10 | vacuum girl trophy firm powder rabbit carry garment hello twin |  

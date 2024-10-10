@@ -122,6 +122,18 @@ wine
 flash
 universe
 tunnel |  
+| bip_39_word_no_space_1 | lounge |  
+| bip_39_word_no_space_10 | loungevaporstagerudedriftwineflashuniversetunnelsad |  
+| bip_39_word_no_space_11 | loungevaporstagerudedriftwineflashuniversetunnelsadcollect |  
+| bip_39_word_no_space_12 | loungevaporstagerudedriftwineflashuniversetunnelsadcollectalcohol |  
+| bip_39_word_no_space_2 | loungevapor |  
+| bip_39_word_no_space_3 | loungevaporstage |  
+| bip_39_word_no_space_4 | loungevaporstagerude |  
+| bip_39_word_no_space_5 | loungevaporstagerudedrift |  
+| bip_39_word_no_space_6 | loungevaporstagerudedriftwine |  
+| bip_39_word_no_space_7 | loungevaporstagerudedriftwineflash |  
+| bip_39_word_no_space_8 | loungevaporstagerudedriftwineflashuniverse |  
+| bip_39_word_no_space_9 | loungevaporstagerudedriftwineflashuniversetunnel |  
 | bip_39_word_space_0 | ['lounge', 'vapor', 'stage', 'rude', 'drift', 'wine', 'flash', 'universe', 'tunnel', 'sad', 'collect', 'alcohol'] |  
 | bip_39_word_space_1 | lounge |  
 | bip_39_word_space_10 | lounge vapor stage rude drift wine flash universe tunnel sad |  

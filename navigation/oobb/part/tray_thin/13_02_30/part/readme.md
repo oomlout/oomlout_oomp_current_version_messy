@@ -122,6 +122,18 @@ ugly
 short
 burger
 rubber |  
+| bip_39_word_no_space_1 | supply |  
+| bip_39_word_no_space_10 | supplydashscriptequalcategoryuglyshortburgerrubbermove |  
+| bip_39_word_no_space_11 | supplydashscriptequalcategoryuglyshortburgerrubbermoveintact |  
+| bip_39_word_no_space_12 | supplydashscriptequalcategoryuglyshortburgerrubbermoveintactadmit |  
+| bip_39_word_no_space_2 | supplydash |  
+| bip_39_word_no_space_3 | supplydashscript |  
+| bip_39_word_no_space_4 | supplydashscriptequal |  
+| bip_39_word_no_space_5 | supplydashscriptequalcategory |  
+| bip_39_word_no_space_6 | supplydashscriptequalcategoryugly |  
+| bip_39_word_no_space_7 | supplydashscriptequalcategoryuglyshort |  
+| bip_39_word_no_space_8 | supplydashscriptequalcategoryuglyshortburger |  
+| bip_39_word_no_space_9 | supplydashscriptequalcategoryuglyshortburgerrubber |  
 | bip_39_word_space_0 | ['supply', 'dash', 'script', 'equal', 'category', 'ugly', 'short', 'burger', 'rubber', 'move', 'intact', 'admit'] |  
 | bip_39_word_space_1 | supply |  
 | bip_39_word_space_10 | supply dash script equal category ugly short burger rubber move |  

@@ -122,6 +122,18 @@ clog
 wrap
 orbit
 dignity |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoonfiscalslotozonetoddlerclogwraporbitdignitytortoise |  
+| bip_39_word_no_space_11 | spoonfiscalslotozonetoddlerclogwraporbitdignitytortoiseouter |  
+| bip_39_word_no_space_12 | spoonfiscalslotozonetoddlerclogwraporbitdignitytortoiseouteralbum |  
+| bip_39_word_no_space_2 | spoonfiscal |  
+| bip_39_word_no_space_3 | spoonfiscalslot |  
+| bip_39_word_no_space_4 | spoonfiscalslotozone |  
+| bip_39_word_no_space_5 | spoonfiscalslotozonetoddler |  
+| bip_39_word_no_space_6 | spoonfiscalslotozonetoddlerclog |  
+| bip_39_word_no_space_7 | spoonfiscalslotozonetoddlerclogwrap |  
+| bip_39_word_no_space_8 | spoonfiscalslotozonetoddlerclogwraporbit |  
+| bip_39_word_no_space_9 | spoonfiscalslotozonetoddlerclogwraporbitdignity |  
 | bip_39_word_space_0 | ['spoon', 'fiscal', 'slot', 'ozone', 'toddler', 'clog', 'wrap', 'orbit', 'dignity', 'tortoise', 'outer', 'album'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon fiscal slot ozone toddler clog wrap orbit dignity tortoise |  

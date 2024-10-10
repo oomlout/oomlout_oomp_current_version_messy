@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'flee
   craft
 
   effort'
+bip_39_word_no_space_1: flee
+bip_39_word_no_space_10: fleecardretreatissuejellysunnylotterycrafteffortknife
+bip_39_word_no_space_11: fleecardretreatissuejellysunnylotterycrafteffortknifeanalyst
+bip_39_word_no_space_12: fleecardretreatissuejellysunnylotterycrafteffortknifeanalystair
+bip_39_word_no_space_2: fleecard
+bip_39_word_no_space_3: fleecardretreat
+bip_39_word_no_space_4: fleecardretreatissue
+bip_39_word_no_space_5: fleecardretreatissuejelly
+bip_39_word_no_space_6: fleecardretreatissuejellysunny
+bip_39_word_no_space_7: fleecardretreatissuejellysunnylottery
+bip_39_word_no_space_8: fleecardretreatissuejellysunnylotterycraft
+bip_39_word_no_space_9: fleecardretreatissuejellysunnylotterycrafteffort
 bip_39_word_space_0:
 - flee
 - card

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'despair
   desk
 
   evoke'
+bip_39_word_no_space_1: despair
+bip_39_word_no_space_10: despairovenslotinheritalsoautumnwarriordeskevokevalid
+bip_39_word_no_space_11: despairovenslotinheritalsoautumnwarriordeskevokevalidraccoon
+bip_39_word_no_space_12: despairovenslotinheritalsoautumnwarriordeskevokevalidraccoonapology
+bip_39_word_no_space_2: despairoven
+bip_39_word_no_space_3: despairovenslot
+bip_39_word_no_space_4: despairovenslotinherit
+bip_39_word_no_space_5: despairovenslotinheritalso
+bip_39_word_no_space_6: despairovenslotinheritalsoautumn
+bip_39_word_no_space_7: despairovenslotinheritalsoautumnwarrior
+bip_39_word_no_space_8: despairovenslotinheritalsoautumnwarriordesk
+bip_39_word_no_space_9: despairovenslotinheritalsoautumnwarriordeskevoke
 bip_39_word_space_0:
 - despair
 - oven

@@ -122,6 +122,18 @@ episode
 talent
 wait
 assist |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinichospitalrocketarchsmartepisodetalentwaitassistchase |  
+| bip_39_word_no_space_11 | clinichospitalrocketarchsmartepisodetalentwaitassistchaseone |  
+| bip_39_word_no_space_12 | clinichospitalrocketarchsmartepisodetalentwaitassistchaseoneaudit |  
+| bip_39_word_no_space_2 | clinichospital |  
+| bip_39_word_no_space_3 | clinichospitalrocket |  
+| bip_39_word_no_space_4 | clinichospitalrocketarch |  
+| bip_39_word_no_space_5 | clinichospitalrocketarchsmart |  
+| bip_39_word_no_space_6 | clinichospitalrocketarchsmartepisode |  
+| bip_39_word_no_space_7 | clinichospitalrocketarchsmartepisodetalent |  
+| bip_39_word_no_space_8 | clinichospitalrocketarchsmartepisodetalentwait |  
+| bip_39_word_no_space_9 | clinichospitalrocketarchsmartepisodetalentwaitassist |  
 | bip_39_word_space_0 | ['clinic', 'hospital', 'rocket', 'arch', 'smart', 'episode', 'talent', 'wait', 'assist', 'chase', 'one', 'audit'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic hospital rocket arch smart episode talent wait assist chase |  

@@ -122,6 +122,18 @@ casual
 focus
 name
 atom |  
+| bip_39_word_no_space_1 | once |  
+| bip_39_word_no_space_10 | oncechapterwingcasinodebatecasualfocusnameatommilk |  
+| bip_39_word_no_space_11 | oncechapterwingcasinodebatecasualfocusnameatommilkauction |  
+| bip_39_word_no_space_12 | oncechapterwingcasinodebatecasualfocusnameatommilkauctionany |  
+| bip_39_word_no_space_2 | oncechapter |  
+| bip_39_word_no_space_3 | oncechapterwing |  
+| bip_39_word_no_space_4 | oncechapterwingcasino |  
+| bip_39_word_no_space_5 | oncechapterwingcasinodebate |  
+| bip_39_word_no_space_6 | oncechapterwingcasinodebatecasual |  
+| bip_39_word_no_space_7 | oncechapterwingcasinodebatecasualfocus |  
+| bip_39_word_no_space_8 | oncechapterwingcasinodebatecasualfocusname |  
+| bip_39_word_no_space_9 | oncechapterwingcasinodebatecasualfocusnameatom |  
 | bip_39_word_space_0 | ['once', 'chapter', 'wing', 'casino', 'debate', 'casual', 'focus', 'name', 'atom', 'milk', 'auction', 'any'] |  
 | bip_39_word_space_1 | once |  
 | bip_39_word_space_10 | once chapter wing casino debate casual focus name atom milk |  

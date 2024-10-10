@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'slim
   text
 
   candy'
+bip_39_word_no_space_1: slim
+bip_39_word_no_space_10: slimjustevilsketchtitlejuniorrabbittextcandyexchange
+bip_39_word_no_space_11: slimjustevilsketchtitlejuniorrabbittextcandyexchangepriority
+bip_39_word_no_space_12: slimjustevilsketchtitlejuniorrabbittextcandyexchangepriorityattract
+bip_39_word_no_space_2: slimjust
+bip_39_word_no_space_3: slimjustevil
+bip_39_word_no_space_4: slimjustevilsketch
+bip_39_word_no_space_5: slimjustevilsketchtitle
+bip_39_word_no_space_6: slimjustevilsketchtitlejunior
+bip_39_word_no_space_7: slimjustevilsketchtitlejuniorrabbit
+bip_39_word_no_space_8: slimjustevilsketchtitlejuniorrabbittext
+bip_39_word_no_space_9: slimjustevilsketchtitlejuniorrabbittextcandy
 bip_39_word_space_0:
 - slim
 - just

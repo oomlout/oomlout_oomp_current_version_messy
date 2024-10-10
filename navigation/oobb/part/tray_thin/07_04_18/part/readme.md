@@ -122,6 +122,18 @@ debris
 connect
 decline
 opinion |  
+| bip_39_word_no_space_1 | leave |  
+| bip_39_word_no_space_10 | leaveamountsirenlaptophalfdebrisconnectdeclineopiniondragon |  
+| bip_39_word_no_space_11 | leaveamountsirenlaptophalfdebrisconnectdeclineopiniondragontime |  
+| bip_39_word_no_space_12 | leaveamountsirenlaptophalfdebrisconnectdeclineopiniondragontimeask |  
+| bip_39_word_no_space_2 | leaveamount |  
+| bip_39_word_no_space_3 | leaveamountsiren |  
+| bip_39_word_no_space_4 | leaveamountsirenlaptop |  
+| bip_39_word_no_space_5 | leaveamountsirenlaptophalf |  
+| bip_39_word_no_space_6 | leaveamountsirenlaptophalfdebris |  
+| bip_39_word_no_space_7 | leaveamountsirenlaptophalfdebrisconnect |  
+| bip_39_word_no_space_8 | leaveamountsirenlaptophalfdebrisconnectdecline |  
+| bip_39_word_no_space_9 | leaveamountsirenlaptophalfdebrisconnectdeclineopinion |  
 | bip_39_word_space_0 | ['leave', 'amount', 'siren', 'laptop', 'half', 'debris', 'connect', 'decline', 'opinion', 'dragon', 'time', 'ask'] |  
 | bip_39_word_space_1 | leave |  
 | bip_39_word_space_10 | leave amount siren laptop half debris connect decline opinion dragon |  

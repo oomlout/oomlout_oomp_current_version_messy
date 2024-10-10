@@ -122,6 +122,18 @@ champion
 earth
 session
 pigeon |  
+| bip_39_word_no_space_1 | initial |  
+| bip_39_word_no_space_10 | initialallfallapprovehoverchampionearthsessionpigeonfiction |  
+| bip_39_word_no_space_11 | initialallfallapprovehoverchampionearthsessionpigeonfictionsearch |  
+| bip_39_word_no_space_12 | initialallfallapprovehoverchampionearthsessionpigeonfictionsearchantenna |  
+| bip_39_word_no_space_2 | initialall |  
+| bip_39_word_no_space_3 | initialallfall |  
+| bip_39_word_no_space_4 | initialallfallapprove |  
+| bip_39_word_no_space_5 | initialallfallapprovehover |  
+| bip_39_word_no_space_6 | initialallfallapprovehoverchampion |  
+| bip_39_word_no_space_7 | initialallfallapprovehoverchampionearth |  
+| bip_39_word_no_space_8 | initialallfallapprovehoverchampionearthsession |  
+| bip_39_word_no_space_9 | initialallfallapprovehoverchampionearthsessionpigeon |  
 | bip_39_word_space_0 | ['initial', 'all', 'fall', 'approve', 'hover', 'champion', 'earth', 'session', 'pigeon', 'fiction', 'search', 'antenna'] |  
 | bip_39_word_space_1 | initial |  
 | bip_39_word_space_10 | initial all fall approve hover champion earth session pigeon fiction |  

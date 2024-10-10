@@ -122,6 +122,18 @@ aim
 worth
 actual
 night |  
+| bip_39_word_no_space_1 | burger |  
+| bip_39_word_no_space_10 | burgerrendersituateelegantmercyaimworthactualnightcloud |  
+| bip_39_word_no_space_11 | burgerrendersituateelegantmercyaimworthactualnightcloudnews |  
+| bip_39_word_no_space_12 | burgerrendersituateelegantmercyaimworthactualnightcloudnewsabsurd |  
+| bip_39_word_no_space_2 | burgerrender |  
+| bip_39_word_no_space_3 | burgerrendersituate |  
+| bip_39_word_no_space_4 | burgerrendersituateelegant |  
+| bip_39_word_no_space_5 | burgerrendersituateelegantmercy |  
+| bip_39_word_no_space_6 | burgerrendersituateelegantmercyaim |  
+| bip_39_word_no_space_7 | burgerrendersituateelegantmercyaimworth |  
+| bip_39_word_no_space_8 | burgerrendersituateelegantmercyaimworthactual |  
+| bip_39_word_no_space_9 | burgerrendersituateelegantmercyaimworthactualnight |  
 | bip_39_word_space_0 | ['burger', 'render', 'situate', 'elegant', 'mercy', 'aim', 'worth', 'actual', 'night', 'cloud', 'news', 'absurd'] |  
 | bip_39_word_space_1 | burger |  
 | bip_39_word_space_10 | burger render situate elegant mercy aim worth actual night cloud |  

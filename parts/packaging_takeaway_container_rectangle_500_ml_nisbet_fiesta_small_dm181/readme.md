@@ -124,6 +124,18 @@ column
 swim
 pyramid
 crawl |  
+| bip_39_word_no_space_1 | reopen |  
+| bip_39_word_no_space_10 | reopenhardlegenddecidefarmcolumnswimpyramidcrawlshove |  
+| bip_39_word_no_space_11 | reopenhardlegenddecidefarmcolumnswimpyramidcrawlshovemansion |  
+| bip_39_word_no_space_12 | reopenhardlegenddecidefarmcolumnswimpyramidcrawlshovemansionancient |  
+| bip_39_word_no_space_2 | reopenhard |  
+| bip_39_word_no_space_3 | reopenhardlegend |  
+| bip_39_word_no_space_4 | reopenhardlegenddecide |  
+| bip_39_word_no_space_5 | reopenhardlegenddecidefarm |  
+| bip_39_word_no_space_6 | reopenhardlegenddecidefarmcolumn |  
+| bip_39_word_no_space_7 | reopenhardlegenddecidefarmcolumnswim |  
+| bip_39_word_no_space_8 | reopenhardlegenddecidefarmcolumnswimpyramid |  
+| bip_39_word_no_space_9 | reopenhardlegenddecidefarmcolumnswimpyramidcrawl |  
 | bip_39_word_space_0 | ['reopen', 'hard', 'legend', 'decide', 'farm', 'column', 'swim', 'pyramid', 'crawl', 'shove', 'mansion', 'ancient'] |  
 | bip_39_word_space_1 | reopen |  
 | bip_39_word_space_10 | reopen hard legend decide farm column swim pyramid crawl shove |  

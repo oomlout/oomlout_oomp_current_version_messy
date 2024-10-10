@@ -122,6 +122,18 @@ bird
 history
 then
 intact |  
+| bip_39_word_no_space_1 | stage |  
+| bip_39_word_no_space_10 | stagegiggleapprovealertendorsebirdhistorythenintactmechanic |  
+| bip_39_word_no_space_11 | stagegiggleapprovealertendorsebirdhistorythenintactmechanicglad |  
+| bip_39_word_no_space_12 | stagegiggleapprovealertendorsebirdhistorythenintactmechanicgladapology |  
+| bip_39_word_no_space_2 | stagegiggle |  
+| bip_39_word_no_space_3 | stagegiggleapprove |  
+| bip_39_word_no_space_4 | stagegiggleapprovealert |  
+| bip_39_word_no_space_5 | stagegiggleapprovealertendorse |  
+| bip_39_word_no_space_6 | stagegiggleapprovealertendorsebird |  
+| bip_39_word_no_space_7 | stagegiggleapprovealertendorsebirdhistory |  
+| bip_39_word_no_space_8 | stagegiggleapprovealertendorsebirdhistorythen |  
+| bip_39_word_no_space_9 | stagegiggleapprovealertendorsebirdhistorythenintact |  
 | bip_39_word_space_0 | ['stage', 'giggle', 'approve', 'alert', 'endorse', 'bird', 'history', 'then', 'intact', 'mechanic', 'glad', 'apology'] |  
 | bip_39_word_space_1 | stage |  
 | bip_39_word_space_10 | stage giggle approve alert endorse bird history then intact mechanic |  

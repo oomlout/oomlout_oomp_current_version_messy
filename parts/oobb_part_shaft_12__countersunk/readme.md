@@ -122,6 +122,18 @@ trim
 coast
 view
 bulk |  
+| bip_39_word_no_space_1 | future |  
+| bip_39_word_no_space_10 | futurefindphonefictionmeantrimcoastviewbulkvolume |  
+| bip_39_word_no_space_11 | futurefindphonefictionmeantrimcoastviewbulkvolumelabor |  
+| bip_39_word_no_space_12 | futurefindphonefictionmeantrimcoastviewbulkvolumelaborabuse |  
+| bip_39_word_no_space_2 | futurefind |  
+| bip_39_word_no_space_3 | futurefindphone |  
+| bip_39_word_no_space_4 | futurefindphonefiction |  
+| bip_39_word_no_space_5 | futurefindphonefictionmean |  
+| bip_39_word_no_space_6 | futurefindphonefictionmeantrim |  
+| bip_39_word_no_space_7 | futurefindphonefictionmeantrimcoast |  
+| bip_39_word_no_space_8 | futurefindphonefictionmeantrimcoastview |  
+| bip_39_word_no_space_9 | futurefindphonefictionmeantrimcoastviewbulk |  
 | bip_39_word_space_0 | ['future', 'find', 'phone', 'fiction', 'mean', 'trim', 'coast', 'view', 'bulk', 'volume', 'labor', 'abuse'] |  
 | bip_39_word_space_1 | future |  
 | bip_39_word_space_10 | future find phone fiction mean trim coast view bulk volume |  

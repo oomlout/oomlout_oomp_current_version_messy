@@ -122,6 +122,18 @@ helmet
 daughter
 chalk
 solar |  
+| bip_39_word_no_space_1 | swallow |  
+| bip_39_word_no_space_10 | swallowinchcompanyenforceokayhelmetdaughterchalksolargold |  
+| bip_39_word_no_space_11 | swallowinchcompanyenforceokayhelmetdaughterchalksolargoldunlock |  
+| bip_39_word_no_space_12 | swallowinchcompanyenforceokayhelmetdaughterchalksolargoldunlockapple |  
+| bip_39_word_no_space_2 | swallowinch |  
+| bip_39_word_no_space_3 | swallowinchcompany |  
+| bip_39_word_no_space_4 | swallowinchcompanyenforce |  
+| bip_39_word_no_space_5 | swallowinchcompanyenforceokay |  
+| bip_39_word_no_space_6 | swallowinchcompanyenforceokayhelmet |  
+| bip_39_word_no_space_7 | swallowinchcompanyenforceokayhelmetdaughter |  
+| bip_39_word_no_space_8 | swallowinchcompanyenforceokayhelmetdaughterchalk |  
+| bip_39_word_no_space_9 | swallowinchcompanyenforceokayhelmetdaughterchalksolar |  
 | bip_39_word_space_0 | ['swallow', 'inch', 'company', 'enforce', 'okay', 'helmet', 'daughter', 'chalk', 'solar', 'gold', 'unlock', 'apple'] |  
 | bip_39_word_space_1 | swallow |  
 | bip_39_word_space_10 | swallow inch company enforce okay helmet daughter chalk solar gold |  

@@ -122,6 +122,18 @@ filter
 cruise
 wealth
 cloud |  
+| bip_39_word_no_space_1 | fox |  
+| bip_39_word_no_space_10 | foxfeverrescuebrassloyalfiltercruisewealthcloudoften |  
+| bip_39_word_no_space_11 | foxfeverrescuebrassloyalfiltercruisewealthcloudoftenembrace |  
+| bip_39_word_no_space_12 | foxfeverrescuebrassloyalfiltercruisewealthcloudoftenembraceasthma |  
+| bip_39_word_no_space_2 | foxfever |  
+| bip_39_word_no_space_3 | foxfeverrescue |  
+| bip_39_word_no_space_4 | foxfeverrescuebrass |  
+| bip_39_word_no_space_5 | foxfeverrescuebrassloyal |  
+| bip_39_word_no_space_6 | foxfeverrescuebrassloyalfilter |  
+| bip_39_word_no_space_7 | foxfeverrescuebrassloyalfiltercruise |  
+| bip_39_word_no_space_8 | foxfeverrescuebrassloyalfiltercruisewealth |  
+| bip_39_word_no_space_9 | foxfeverrescuebrassloyalfiltercruisewealthcloud |  
 | bip_39_word_space_0 | ['fox', 'fever', 'rescue', 'brass', 'loyal', 'filter', 'cruise', 'wealth', 'cloud', 'often', 'embrace', 'asthma'] |  
 | bip_39_word_space_1 | fox |  
 | bip_39_word_space_10 | fox fever rescue brass loyal filter cruise wealth cloud often |  

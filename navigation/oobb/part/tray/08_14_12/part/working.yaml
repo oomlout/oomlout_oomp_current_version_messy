@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'area
   finger
 
   candy'
+bip_39_word_no_space_1: area
+bip_39_word_no_space_10: areaseatsecondkitwinfavoritetryfingercandyessence
+bip_39_word_no_space_11: areaseatsecondkitwinfavoritetryfingercandyessencearmed
+bip_39_word_no_space_12: areaseatsecondkitwinfavoritetryfingercandyessencearmedauthor
+bip_39_word_no_space_2: areaseat
+bip_39_word_no_space_3: areaseatsecond
+bip_39_word_no_space_4: areaseatsecondkit
+bip_39_word_no_space_5: areaseatsecondkitwin
+bip_39_word_no_space_6: areaseatsecondkitwinfavorite
+bip_39_word_no_space_7: areaseatsecondkitwinfavoritetry
+bip_39_word_no_space_8: areaseatsecondkitwinfavoritetryfinger
+bip_39_word_no_space_9: areaseatsecondkitwinfavoritetryfingercandy
 bip_39_word_space_0:
 - area
 - seat

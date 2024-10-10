@@ -122,6 +122,18 @@ hover
 more
 cargo
 rule |  
+| bip_39_word_no_space_1 | already |  
+| bip_39_word_no_space_10 | alreadybeforetestcarbonloungehovermorecargoruleinch |  
+| bip_39_word_no_space_11 | alreadybeforetestcarbonloungehovermorecargoruleinchimitate |  
+| bip_39_word_no_space_12 | alreadybeforetestcarbonloungehovermorecargoruleinchimitateamateur |  
+| bip_39_word_no_space_2 | alreadybefore |  
+| bip_39_word_no_space_3 | alreadybeforetest |  
+| bip_39_word_no_space_4 | alreadybeforetestcarbon |  
+| bip_39_word_no_space_5 | alreadybeforetestcarbonlounge |  
+| bip_39_word_no_space_6 | alreadybeforetestcarbonloungehover |  
+| bip_39_word_no_space_7 | alreadybeforetestcarbonloungehovermore |  
+| bip_39_word_no_space_8 | alreadybeforetestcarbonloungehovermorecargo |  
+| bip_39_word_no_space_9 | alreadybeforetestcarbonloungehovermorecargorule |  
 | bip_39_word_space_0 | ['already', 'before', 'test', 'carbon', 'lounge', 'hover', 'more', 'cargo', 'rule', 'inch', 'imitate', 'amateur'] |  
 | bip_39_word_space_1 | already |  
 | bip_39_word_space_10 | already before test carbon lounge hover more cargo rule inch |  

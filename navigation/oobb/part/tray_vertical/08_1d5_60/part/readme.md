@@ -122,6 +122,18 @@ color
 sun
 script
 embody |  
+| bip_39_word_no_space_1 | soldier |  
+| bip_39_word_no_space_10 | soldierdraworderinformcarrycolorsunscriptembodylaw |  
+| bip_39_word_no_space_11 | soldierdraworderinformcarrycolorsunscriptembodylawshove |  
+| bip_39_word_no_space_12 | soldierdraworderinformcarrycolorsunscriptembodylawshoveacross |  
+| bip_39_word_no_space_2 | soldierdraw |  
+| bip_39_word_no_space_3 | soldierdraworder |  
+| bip_39_word_no_space_4 | soldierdraworderinform |  
+| bip_39_word_no_space_5 | soldierdraworderinformcarry |  
+| bip_39_word_no_space_6 | soldierdraworderinformcarrycolor |  
+| bip_39_word_no_space_7 | soldierdraworderinformcarrycolorsun |  
+| bip_39_word_no_space_8 | soldierdraworderinformcarrycolorsunscript |  
+| bip_39_word_no_space_9 | soldierdraworderinformcarrycolorsunscriptembody |  
 | bip_39_word_space_0 | ['soldier', 'draw', 'order', 'inform', 'carry', 'color', 'sun', 'script', 'embody', 'law', 'shove', 'across'] |  
 | bip_39_word_space_1 | soldier |  
 | bip_39_word_space_10 | soldier draw order inform carry color sun script embody law |  

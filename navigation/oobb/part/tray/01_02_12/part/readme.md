@@ -122,6 +122,18 @@ lawsuit
 sphere
 lottery
 gas |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobileautumnvarioustriggerresourcelawsuitspherelotterygaslimb |  
+| bip_39_word_no_space_11 | mobileautumnvarioustriggerresourcelawsuitspherelotterygaslimbplace |  
+| bip_39_word_no_space_12 | mobileautumnvarioustriggerresourcelawsuitspherelotterygaslimbplaceacid |  
+| bip_39_word_no_space_2 | mobileautumn |  
+| bip_39_word_no_space_3 | mobileautumnvarious |  
+| bip_39_word_no_space_4 | mobileautumnvarioustrigger |  
+| bip_39_word_no_space_5 | mobileautumnvarioustriggerresource |  
+| bip_39_word_no_space_6 | mobileautumnvarioustriggerresourcelawsuit |  
+| bip_39_word_no_space_7 | mobileautumnvarioustriggerresourcelawsuitsphere |  
+| bip_39_word_no_space_8 | mobileautumnvarioustriggerresourcelawsuitspherelottery |  
+| bip_39_word_no_space_9 | mobileautumnvarioustriggerresourcelawsuitspherelotterygas |  
 | bip_39_word_space_0 | ['mobile', 'autumn', 'various', 'trigger', 'resource', 'lawsuit', 'sphere', 'lottery', 'gas', 'limb', 'place', 'acid'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile autumn various trigger resource lawsuit sphere lottery gas limb |  

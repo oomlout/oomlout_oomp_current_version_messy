@@ -122,6 +122,18 @@ thought
 drum
 exclude
 hazard |  
+| bip_39_word_no_space_1 | when |  
+| bip_39_word_no_space_10 | whengathersnackplayenforcethoughtdrumexcludehazardlunar |  
+| bip_39_word_no_space_11 | whengathersnackplayenforcethoughtdrumexcludehazardlunarnature |  
+| bip_39_word_no_space_12 | whengathersnackplayenforcethoughtdrumexcludehazardlunarnatureadd |  
+| bip_39_word_no_space_2 | whengather |  
+| bip_39_word_no_space_3 | whengathersnack |  
+| bip_39_word_no_space_4 | whengathersnackplay |  
+| bip_39_word_no_space_5 | whengathersnackplayenforce |  
+| bip_39_word_no_space_6 | whengathersnackplayenforcethought |  
+| bip_39_word_no_space_7 | whengathersnackplayenforcethoughtdrum |  
+| bip_39_word_no_space_8 | whengathersnackplayenforcethoughtdrumexclude |  
+| bip_39_word_no_space_9 | whengathersnackplayenforcethoughtdrumexcludehazard |  
 | bip_39_word_space_0 | ['when', 'gather', 'snack', 'play', 'enforce', 'thought', 'drum', 'exclude', 'hazard', 'lunar', 'nature', 'add'] |  
 | bip_39_word_space_1 | when |  
 | bip_39_word_space_10 | when gather snack play enforce thought drum exclude hazard lunar |  

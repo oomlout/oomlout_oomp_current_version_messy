@@ -122,6 +122,18 @@ benefit
 mass
 short
 net |  
+| bip_39_word_no_space_1 | session |  
+| bip_39_word_no_space_10 | sessiontimbernettrustthingbenefitmassshortnetlink |  
+| bip_39_word_no_space_11 | sessiontimbernettrustthingbenefitmassshortnetlinktrip |  
+| bip_39_word_no_space_12 | sessiontimbernettrustthingbenefitmassshortnetlinktripaudit |  
+| bip_39_word_no_space_2 | sessiontimber |  
+| bip_39_word_no_space_3 | sessiontimbernet |  
+| bip_39_word_no_space_4 | sessiontimbernettrust |  
+| bip_39_word_no_space_5 | sessiontimbernettrustthing |  
+| bip_39_word_no_space_6 | sessiontimbernettrustthingbenefit |  
+| bip_39_word_no_space_7 | sessiontimbernettrustthingbenefitmass |  
+| bip_39_word_no_space_8 | sessiontimbernettrustthingbenefitmassshort |  
+| bip_39_word_no_space_9 | sessiontimbernettrustthingbenefitmassshortnet |  
 | bip_39_word_space_0 | ['session', 'timber', 'net', 'trust', 'thing', 'benefit', 'mass', 'short', 'net', 'link', 'trip', 'audit'] |  
 | bip_39_word_space_1 | session |  
 | bip_39_word_space_10 | session timber net trust thing benefit mass short net link |  

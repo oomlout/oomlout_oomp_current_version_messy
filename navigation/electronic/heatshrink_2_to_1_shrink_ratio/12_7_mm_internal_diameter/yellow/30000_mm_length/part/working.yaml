@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'broken
   library
 
   domain'
+bip_39_word_no_space_1: broken
+bip_39_word_no_space_10: brokeneasyturnattackblouseprogramcoinlibrarydomainecho
+bip_39_word_no_space_11: brokeneasyturnattackblouseprogramcoinlibrarydomainechopowder
+bip_39_word_no_space_12: brokeneasyturnattackblouseprogramcoinlibrarydomainechopowderaccuse
+bip_39_word_no_space_2: brokeneasy
+bip_39_word_no_space_3: brokeneasyturn
+bip_39_word_no_space_4: brokeneasyturnattack
+bip_39_word_no_space_5: brokeneasyturnattackblouse
+bip_39_word_no_space_6: brokeneasyturnattackblouseprogram
+bip_39_word_no_space_7: brokeneasyturnattackblouseprogramcoin
+bip_39_word_no_space_8: brokeneasyturnattackblouseprogramcoinlibrary
+bip_39_word_no_space_9: brokeneasyturnattackblouseprogramcoinlibrarydomain
 bip_39_word_space_0:
 - broken
 - easy

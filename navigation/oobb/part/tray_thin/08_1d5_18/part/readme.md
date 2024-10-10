@@ -122,6 +122,18 @@ obey
 mouse
 melt
 advance |  
+| bip_39_word_no_space_1 | social |  
+| bip_39_word_no_space_10 | socialcarryenvelopeaprilspyobeymousemeltadvancegoose |  
+| bip_39_word_no_space_11 | socialcarryenvelopeaprilspyobeymousemeltadvancegoosemountain |  
+| bip_39_word_no_space_12 | socialcarryenvelopeaprilspyobeymousemeltadvancegoosemountainaffair |  
+| bip_39_word_no_space_2 | socialcarry |  
+| bip_39_word_no_space_3 | socialcarryenvelope |  
+| bip_39_word_no_space_4 | socialcarryenvelopeapril |  
+| bip_39_word_no_space_5 | socialcarryenvelopeaprilspy |  
+| bip_39_word_no_space_6 | socialcarryenvelopeaprilspyobey |  
+| bip_39_word_no_space_7 | socialcarryenvelopeaprilspyobeymouse |  
+| bip_39_word_no_space_8 | socialcarryenvelopeaprilspyobeymousemelt |  
+| bip_39_word_no_space_9 | socialcarryenvelopeaprilspyobeymousemeltadvance |  
 | bip_39_word_space_0 | ['social', 'carry', 'envelope', 'april', 'spy', 'obey', 'mouse', 'melt', 'advance', 'goose', 'mountain', 'affair'] |  
 | bip_39_word_space_1 | social |  
 | bip_39_word_space_10 | social carry envelope april spy obey mouse melt advance goose |  

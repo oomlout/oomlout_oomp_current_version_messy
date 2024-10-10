@@ -122,6 +122,18 @@ icon
 buffalo
 blood
 nerve |  
+| bip_39_word_no_space_1 | final |  
+| bip_39_word_no_space_10 | finallegprogramsilkcatalogiconbuffalobloodnerveearth |  
+| bip_39_word_no_space_11 | finallegprogramsilkcatalogiconbuffalobloodnerveearthsolid |  
+| bip_39_word_no_space_12 | finallegprogramsilkcatalogiconbuffalobloodnerveearthsolidany |  
+| bip_39_word_no_space_2 | finalleg |  
+| bip_39_word_no_space_3 | finallegprogram |  
+| bip_39_word_no_space_4 | finallegprogramsilk |  
+| bip_39_word_no_space_5 | finallegprogramsilkcatalog |  
+| bip_39_word_no_space_6 | finallegprogramsilkcatalogicon |  
+| bip_39_word_no_space_7 | finallegprogramsilkcatalogiconbuffalo |  
+| bip_39_word_no_space_8 | finallegprogramsilkcatalogiconbuffaloblood |  
+| bip_39_word_no_space_9 | finallegprogramsilkcatalogiconbuffalobloodnerve |  
 | bip_39_word_space_0 | ['final', 'leg', 'program', 'silk', 'catalog', 'icon', 'buffalo', 'blood', 'nerve', 'earth', 'solid', 'any'] |  
 | bip_39_word_space_1 | final |  
 | bip_39_word_space_10 | final leg program silk catalog icon buffalo blood nerve earth |  

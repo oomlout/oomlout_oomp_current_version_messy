@@ -122,6 +122,18 @@ consider
 soap
 code
 ripple |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidnextbuzzdealacousticconsidersoapcoderipplethis |  
+| bip_39_word_no_space_11 | afraidnextbuzzdealacousticconsidersoapcoderipplethisball |  
+| bip_39_word_no_space_12 | afraidnextbuzzdealacousticconsidersoapcoderipplethisballabstract |  
+| bip_39_word_no_space_2 | afraidnext |  
+| bip_39_word_no_space_3 | afraidnextbuzz |  
+| bip_39_word_no_space_4 | afraidnextbuzzdeal |  
+| bip_39_word_no_space_5 | afraidnextbuzzdealacoustic |  
+| bip_39_word_no_space_6 | afraidnextbuzzdealacousticconsider |  
+| bip_39_word_no_space_7 | afraidnextbuzzdealacousticconsidersoap |  
+| bip_39_word_no_space_8 | afraidnextbuzzdealacousticconsidersoapcode |  
+| bip_39_word_no_space_9 | afraidnextbuzzdealacousticconsidersoapcoderipple |  
 | bip_39_word_space_0 | ['afraid', 'next', 'buzz', 'deal', 'acoustic', 'consider', 'soap', 'code', 'ripple', 'this', 'ball', 'abstract'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid next buzz deal acoustic consider soap code ripple this |  

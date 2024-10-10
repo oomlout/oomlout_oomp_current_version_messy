@@ -122,6 +122,18 @@ blouse
 vibrant
 jelly
 abandon |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallhurryspherevendoryardblousevibrantjellyabandoninsane |  
+| bip_39_word_no_space_11 | wallhurryspherevendoryardblousevibrantjellyabandoninsaneswing |  
+| bip_39_word_no_space_12 | wallhurryspherevendoryardblousevibrantjellyabandoninsaneswingadvice |  
+| bip_39_word_no_space_2 | wallhurry |  
+| bip_39_word_no_space_3 | wallhurrysphere |  
+| bip_39_word_no_space_4 | wallhurryspherevendor |  
+| bip_39_word_no_space_5 | wallhurryspherevendoryard |  
+| bip_39_word_no_space_6 | wallhurryspherevendoryardblouse |  
+| bip_39_word_no_space_7 | wallhurryspherevendoryardblousevibrant |  
+| bip_39_word_no_space_8 | wallhurryspherevendoryardblousevibrantjelly |  
+| bip_39_word_no_space_9 | wallhurryspherevendoryardblousevibrantjellyabandon |  
 | bip_39_word_space_0 | ['wall', 'hurry', 'sphere', 'vendor', 'yard', 'blouse', 'vibrant', 'jelly', 'abandon', 'insane', 'swing', 'advice'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall hurry sphere vendor yard blouse vibrant jelly abandon insane |  

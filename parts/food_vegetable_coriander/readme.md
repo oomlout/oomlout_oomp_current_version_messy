@@ -122,6 +122,18 @@ pill
 fringe
 tape
 slim |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarrapidsailtwelveclarifypillfringetapeslimtrial |  
+| bip_39_word_no_space_11 | liarrapidsailtwelveclarifypillfringetapeslimtrialfloat |  
+| bip_39_word_no_space_12 | liarrapidsailtwelveclarifypillfringetapeslimtrialfloatanxiety |  
+| bip_39_word_no_space_2 | liarrapid |  
+| bip_39_word_no_space_3 | liarrapidsail |  
+| bip_39_word_no_space_4 | liarrapidsailtwelve |  
+| bip_39_word_no_space_5 | liarrapidsailtwelveclarify |  
+| bip_39_word_no_space_6 | liarrapidsailtwelveclarifypill |  
+| bip_39_word_no_space_7 | liarrapidsailtwelveclarifypillfringe |  
+| bip_39_word_no_space_8 | liarrapidsailtwelveclarifypillfringetape |  
+| bip_39_word_no_space_9 | liarrapidsailtwelveclarifypillfringetapeslim |  
 | bip_39_word_space_0 | ['liar', 'rapid', 'sail', 'twelve', 'clarify', 'pill', 'fringe', 'tape', 'slim', 'trial', 'float', 'anxiety'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar rapid sail twelve clarify pill fringe tape slim trial |  

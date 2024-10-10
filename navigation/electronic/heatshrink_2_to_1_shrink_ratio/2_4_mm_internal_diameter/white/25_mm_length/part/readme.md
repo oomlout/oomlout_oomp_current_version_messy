@@ -122,6 +122,18 @@ dynamic
 science
 twist
 laugh |  
+| bip_39_word_no_space_1 | parrot |  
+| bip_39_word_no_space_10 | parrotalbumdutyfarmsweardynamicsciencetwistlaughidea |  
+| bip_39_word_no_space_11 | parrotalbumdutyfarmsweardynamicsciencetwistlaughideafade |  
+| bip_39_word_no_space_12 | parrotalbumdutyfarmsweardynamicsciencetwistlaughideafadeartefact |  
+| bip_39_word_no_space_2 | parrotalbum |  
+| bip_39_word_no_space_3 | parrotalbumduty |  
+| bip_39_word_no_space_4 | parrotalbumdutyfarm |  
+| bip_39_word_no_space_5 | parrotalbumdutyfarmswear |  
+| bip_39_word_no_space_6 | parrotalbumdutyfarmsweardynamic |  
+| bip_39_word_no_space_7 | parrotalbumdutyfarmsweardynamicscience |  
+| bip_39_word_no_space_8 | parrotalbumdutyfarmsweardynamicsciencetwist |  
+| bip_39_word_no_space_9 | parrotalbumdutyfarmsweardynamicsciencetwistlaugh |  
 | bip_39_word_space_0 | ['parrot', 'album', 'duty', 'farm', 'swear', 'dynamic', 'science', 'twist', 'laugh', 'idea', 'fade', 'artefact'] |  
 | bip_39_word_space_1 | parrot |  
 | bip_39_word_space_10 | parrot album duty farm swear dynamic science twist laugh idea |  

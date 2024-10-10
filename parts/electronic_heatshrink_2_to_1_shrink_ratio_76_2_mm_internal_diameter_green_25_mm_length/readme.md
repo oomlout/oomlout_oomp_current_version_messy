@@ -122,6 +122,18 @@ chair
 swift
 drum
 deer |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highfollowsportintactbronzechairswiftdrumdeercream |  
+| bip_39_word_no_space_11 | highfollowsportintactbronzechairswiftdrumdeercreambone |  
+| bip_39_word_no_space_12 | highfollowsportintactbronzechairswiftdrumdeercreamboneair |  
+| bip_39_word_no_space_2 | highfollow |  
+| bip_39_word_no_space_3 | highfollowsport |  
+| bip_39_word_no_space_4 | highfollowsportintact |  
+| bip_39_word_no_space_5 | highfollowsportintactbronze |  
+| bip_39_word_no_space_6 | highfollowsportintactbronzechair |  
+| bip_39_word_no_space_7 | highfollowsportintactbronzechairswift |  
+| bip_39_word_no_space_8 | highfollowsportintactbronzechairswiftdrum |  
+| bip_39_word_no_space_9 | highfollowsportintactbronzechairswiftdrumdeer |  
 | bip_39_word_space_0 | ['high', 'follow', 'sport', 'intact', 'bronze', 'chair', 'swift', 'drum', 'deer', 'cream', 'bone', 'air'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high follow sport intact bronze chair swift drum deer cream |  

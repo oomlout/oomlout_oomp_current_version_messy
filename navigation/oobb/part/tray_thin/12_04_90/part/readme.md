@@ -122,6 +122,18 @@ interest
 brand
 magic
 crystal |  
+| bip_39_word_no_space_1 | design |  
+| bip_39_word_no_space_10 | designbestflashextracoreinterestbrandmagiccrystalregret |  
+| bip_39_word_no_space_11 | designbestflashextracoreinterestbrandmagiccrystalregrettable |  
+| bip_39_word_no_space_12 | designbestflashextracoreinterestbrandmagiccrystalregrettableabuse |  
+| bip_39_word_no_space_2 | designbest |  
+| bip_39_word_no_space_3 | designbestflash |  
+| bip_39_word_no_space_4 | designbestflashextra |  
+| bip_39_word_no_space_5 | designbestflashextracore |  
+| bip_39_word_no_space_6 | designbestflashextracoreinterest |  
+| bip_39_word_no_space_7 | designbestflashextracoreinterestbrand |  
+| bip_39_word_no_space_8 | designbestflashextracoreinterestbrandmagic |  
+| bip_39_word_no_space_9 | designbestflashextracoreinterestbrandmagiccrystal |  
 | bip_39_word_space_0 | ['design', 'best', 'flash', 'extra', 'core', 'interest', 'brand', 'magic', 'crystal', 'regret', 'table', 'abuse'] |  
 | bip_39_word_space_1 | design |  
 | bip_39_word_space_10 | design best flash extra core interest brand magic crystal regret |  

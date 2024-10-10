@@ -122,6 +122,18 @@ ribbon
 celery
 minute
 stairs |  
+| bip_39_word_no_space_1 | firm |  
+| bip_39_word_no_space_10 | firmclientslowrallyremindribbonceleryminutestairsitem |  
+| bip_39_word_no_space_11 | firmclientslowrallyremindribbonceleryminutestairsitemmeadow |  
+| bip_39_word_no_space_12 | firmclientslowrallyremindribbonceleryminutestairsitemmeadowactress |  
+| bip_39_word_no_space_2 | firmclient |  
+| bip_39_word_no_space_3 | firmclientslow |  
+| bip_39_word_no_space_4 | firmclientslowrally |  
+| bip_39_word_no_space_5 | firmclientslowrallyremind |  
+| bip_39_word_no_space_6 | firmclientslowrallyremindribbon |  
+| bip_39_word_no_space_7 | firmclientslowrallyremindribboncelery |  
+| bip_39_word_no_space_8 | firmclientslowrallyremindribbonceleryminute |  
+| bip_39_word_no_space_9 | firmclientslowrallyremindribbonceleryminutestairs |  
 | bip_39_word_space_0 | ['firm', 'client', 'slow', 'rally', 'remind', 'ribbon', 'celery', 'minute', 'stairs', 'item', 'meadow', 'actress'] |  
 | bip_39_word_space_1 | firm |  
 | bip_39_word_space_10 | firm client slow rally remind ribbon celery minute stairs item |  

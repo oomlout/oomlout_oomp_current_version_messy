@@ -122,6 +122,18 @@ sustain
 decline
 ecology
 play |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairmountainwestpilotcertainsustaindeclineecologyplaydraw |  
+| bip_39_word_no_space_11 | chairmountainwestpilotcertainsustaindeclineecologyplaydrawwarrior |  
+| bip_39_word_no_space_12 | chairmountainwestpilotcertainsustaindeclineecologyplaydrawwarriorable |  
+| bip_39_word_no_space_2 | chairmountain |  
+| bip_39_word_no_space_3 | chairmountainwest |  
+| bip_39_word_no_space_4 | chairmountainwestpilot |  
+| bip_39_word_no_space_5 | chairmountainwestpilotcertain |  
+| bip_39_word_no_space_6 | chairmountainwestpilotcertainsustain |  
+| bip_39_word_no_space_7 | chairmountainwestpilotcertainsustaindecline |  
+| bip_39_word_no_space_8 | chairmountainwestpilotcertainsustaindeclineecology |  
+| bip_39_word_no_space_9 | chairmountainwestpilotcertainsustaindeclineecologyplay |  
 | bip_39_word_space_0 | ['chair', 'mountain', 'west', 'pilot', 'certain', 'sustain', 'decline', 'ecology', 'play', 'draw', 'warrior', 'able'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair mountain west pilot certain sustain decline ecology play draw |  

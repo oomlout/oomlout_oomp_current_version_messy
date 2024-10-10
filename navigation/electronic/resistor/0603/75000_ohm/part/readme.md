@@ -122,6 +122,18 @@ reflect
 crush
 tribe
 begin |  
+| bip_39_word_no_space_1 | imitate |  
+| bip_39_word_no_space_10 | imitatecaseivoryvariousleavereflectcrushtribebeginradar |  
+| bip_39_word_no_space_11 | imitatecaseivoryvariousleavereflectcrushtribebeginradarclog |  
+| bip_39_word_no_space_12 | imitatecaseivoryvariousleavereflectcrushtribebeginradarclogaspect |  
+| bip_39_word_no_space_2 | imitatecase |  
+| bip_39_word_no_space_3 | imitatecaseivory |  
+| bip_39_word_no_space_4 | imitatecaseivoryvarious |  
+| bip_39_word_no_space_5 | imitatecaseivoryvariousleave |  
+| bip_39_word_no_space_6 | imitatecaseivoryvariousleavereflect |  
+| bip_39_word_no_space_7 | imitatecaseivoryvariousleavereflectcrush |  
+| bip_39_word_no_space_8 | imitatecaseivoryvariousleavereflectcrushtribe |  
+| bip_39_word_no_space_9 | imitatecaseivoryvariousleavereflectcrushtribebegin |  
 | bip_39_word_space_0 | ['imitate', 'case', 'ivory', 'various', 'leave', 'reflect', 'crush', 'tribe', 'begin', 'radar', 'clog', 'aspect'] |  
 | bip_39_word_space_1 | imitate |  
 | bip_39_word_space_10 | imitate case ivory various leave reflect crush tribe begin radar |  

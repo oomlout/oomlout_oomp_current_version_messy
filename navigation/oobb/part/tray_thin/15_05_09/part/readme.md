@@ -122,6 +122,18 @@ kiwi
 toy
 orchard
 long |  
+| bip_39_word_no_space_1 | rotate |  
+| bip_39_word_no_space_10 | rotatematchbaseloyalhirekiwitoyorchardlongelephant |  
+| bip_39_word_no_space_11 | rotatematchbaseloyalhirekiwitoyorchardlongelephantmom |  
+| bip_39_word_no_space_12 | rotatematchbaseloyalhirekiwitoyorchardlongelephantmomalien |  
+| bip_39_word_no_space_2 | rotatematch |  
+| bip_39_word_no_space_3 | rotatematchbase |  
+| bip_39_word_no_space_4 | rotatematchbaseloyal |  
+| bip_39_word_no_space_5 | rotatematchbaseloyalhire |  
+| bip_39_word_no_space_6 | rotatematchbaseloyalhirekiwi |  
+| bip_39_word_no_space_7 | rotatematchbaseloyalhirekiwitoy |  
+| bip_39_word_no_space_8 | rotatematchbaseloyalhirekiwitoyorchard |  
+| bip_39_word_no_space_9 | rotatematchbaseloyalhirekiwitoyorchardlong |  
 | bip_39_word_space_0 | ['rotate', 'match', 'base', 'loyal', 'hire', 'kiwi', 'toy', 'orchard', 'long', 'elephant', 'mom', 'alien'] |  
 | bip_39_word_space_1 | rotate |  
 | bip_39_word_space_10 | rotate match base loyal hire kiwi toy orchard long elephant |  

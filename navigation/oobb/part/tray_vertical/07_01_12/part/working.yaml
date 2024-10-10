@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'reduce
   polar
 
   endorse'
+bip_39_word_no_space_1: reduce
+bip_39_word_no_space_10: reducegloveboardfetchcookcongressanklepolarendorsemember
+bip_39_word_no_space_11: reducegloveboardfetchcookcongressanklepolarendorsemembererror
+bip_39_word_no_space_12: reducegloveboardfetchcookcongressanklepolarendorsemembererroradvice
+bip_39_word_no_space_2: reduceglove
+bip_39_word_no_space_3: reducegloveboard
+bip_39_word_no_space_4: reducegloveboardfetch
+bip_39_word_no_space_5: reducegloveboardfetchcook
+bip_39_word_no_space_6: reducegloveboardfetchcookcongress
+bip_39_word_no_space_7: reducegloveboardfetchcookcongressankle
+bip_39_word_no_space_8: reducegloveboardfetchcookcongressanklepolar
+bip_39_word_no_space_9: reducegloveboardfetchcookcongressanklepolarendorse
 bip_39_word_space_0:
 - reduce
 - glove

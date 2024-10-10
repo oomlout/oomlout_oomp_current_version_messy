@@ -122,6 +122,18 @@ will
 jelly
 airport
 lesson |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelykangaroofarmtackleactionwilljellyairportlessonmiracle |  
+| bip_39_word_no_space_11 | lonelykangaroofarmtackleactionwilljellyairportlessonmiracleglobe |  
+| bip_39_word_no_space_12 | lonelykangaroofarmtackleactionwilljellyairportlessonmiracleglobeallow |  
+| bip_39_word_no_space_2 | lonelykangaroo |  
+| bip_39_word_no_space_3 | lonelykangaroofarm |  
+| bip_39_word_no_space_4 | lonelykangaroofarmtackle |  
+| bip_39_word_no_space_5 | lonelykangaroofarmtackleaction |  
+| bip_39_word_no_space_6 | lonelykangaroofarmtackleactionwill |  
+| bip_39_word_no_space_7 | lonelykangaroofarmtackleactionwilljelly |  
+| bip_39_word_no_space_8 | lonelykangaroofarmtackleactionwilljellyairport |  
+| bip_39_word_no_space_9 | lonelykangaroofarmtackleactionwilljellyairportlesson |  
 | bip_39_word_space_0 | ['lonely', 'kangaroo', 'farm', 'tackle', 'action', 'will', 'jelly', 'airport', 'lesson', 'miracle', 'globe', 'allow'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely kangaroo farm tackle action will jelly airport lesson miracle |  

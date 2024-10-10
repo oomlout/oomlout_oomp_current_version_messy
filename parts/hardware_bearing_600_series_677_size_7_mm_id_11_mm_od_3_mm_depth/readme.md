@@ -122,6 +122,18 @@ patch
 aspect
 bean
 gallery |  
+| bip_39_word_no_space_1 | bargain |  
+| bip_39_word_no_space_10 | bargainuselessawakevaporbrainpatchaspectbeangallerysense |  
+| bip_39_word_no_space_11 | bargainuselessawakevaporbrainpatchaspectbeangallerysensenormal |  
+| bip_39_word_no_space_12 | bargainuselessawakevaporbrainpatchaspectbeangallerysensenormalarm |  
+| bip_39_word_no_space_2 | bargainuseless |  
+| bip_39_word_no_space_3 | bargainuselessawake |  
+| bip_39_word_no_space_4 | bargainuselessawakevapor |  
+| bip_39_word_no_space_5 | bargainuselessawakevaporbrain |  
+| bip_39_word_no_space_6 | bargainuselessawakevaporbrainpatch |  
+| bip_39_word_no_space_7 | bargainuselessawakevaporbrainpatchaspect |  
+| bip_39_word_no_space_8 | bargainuselessawakevaporbrainpatchaspectbean |  
+| bip_39_word_no_space_9 | bargainuselessawakevaporbrainpatchaspectbeangallery |  
 | bip_39_word_space_0 | ['bargain', 'useless', 'awake', 'vapor', 'brain', 'patch', 'aspect', 'bean', 'gallery', 'sense', 'normal', 'arm'] |  
 | bip_39_word_space_1 | bargain |  
 | bip_39_word_space_10 | bargain useless awake vapor brain patch aspect bean gallery sense |  

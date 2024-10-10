@@ -122,6 +122,18 @@ equip
 oppose
 virtual
 planet |  
+| bip_39_word_no_space_1 | enact |  
+| bip_39_word_no_space_10 | enactonlyrunwayslendercensusequipopposevirtualplanetgirl |  
+| bip_39_word_no_space_11 | enactonlyrunwayslendercensusequipopposevirtualplanetgirlsolid |  
+| bip_39_word_no_space_12 | enactonlyrunwayslendercensusequipopposevirtualplanetgirlsolidalter |  
+| bip_39_word_no_space_2 | enactonly |  
+| bip_39_word_no_space_3 | enactonlyrunway |  
+| bip_39_word_no_space_4 | enactonlyrunwayslender |  
+| bip_39_word_no_space_5 | enactonlyrunwayslendercensus |  
+| bip_39_word_no_space_6 | enactonlyrunwayslendercensusequip |  
+| bip_39_word_no_space_7 | enactonlyrunwayslendercensusequipoppose |  
+| bip_39_word_no_space_8 | enactonlyrunwayslendercensusequipopposevirtual |  
+| bip_39_word_no_space_9 | enactonlyrunwayslendercensusequipopposevirtualplanet |  
 | bip_39_word_space_0 | ['enact', 'only', 'runway', 'slender', 'census', 'equip', 'oppose', 'virtual', 'planet', 'girl', 'solid', 'alter'] |  
 | bip_39_word_space_1 | enact |  
 | bip_39_word_space_10 | enact only runway slender census equip oppose virtual planet girl |  

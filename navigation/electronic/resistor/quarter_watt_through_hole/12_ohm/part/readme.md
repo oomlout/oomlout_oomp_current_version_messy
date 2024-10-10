@@ -122,6 +122,18 @@ language
 wet
 bullet
 health |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betraypatternrigidcalmbomblanguagewetbullethealthwrestle |  
+| bip_39_word_no_space_11 | betraypatternrigidcalmbomblanguagewetbullethealthwrestlecarry |  
+| bip_39_word_no_space_12 | betraypatternrigidcalmbomblanguagewetbullethealthwrestlecarryacid |  
+| bip_39_word_no_space_2 | betraypattern |  
+| bip_39_word_no_space_3 | betraypatternrigid |  
+| bip_39_word_no_space_4 | betraypatternrigidcalm |  
+| bip_39_word_no_space_5 | betraypatternrigidcalmbomb |  
+| bip_39_word_no_space_6 | betraypatternrigidcalmbomblanguage |  
+| bip_39_word_no_space_7 | betraypatternrigidcalmbomblanguagewet |  
+| bip_39_word_no_space_8 | betraypatternrigidcalmbomblanguagewetbullet |  
+| bip_39_word_no_space_9 | betraypatternrigidcalmbomblanguagewetbullethealth |  
 | bip_39_word_space_0 | ['betray', 'pattern', 'rigid', 'calm', 'bomb', 'language', 'wet', 'bullet', 'health', 'wrestle', 'carry', 'acid'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray pattern rigid calm bomb language wet bullet health wrestle |  

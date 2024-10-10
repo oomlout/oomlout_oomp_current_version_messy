@@ -122,6 +122,18 @@ time
 bomb
 summer
 bunker |  
+| bip_39_word_no_space_1 | seat |  
+| bip_39_word_no_space_10 | seatskidistancelumbercointimebombsummerbunkertank |  
+| bip_39_word_no_space_11 | seatskidistancelumbercointimebombsummerbunkertankwisdom |  
+| bip_39_word_no_space_12 | seatskidistancelumbercointimebombsummerbunkertankwisdomattack |  
+| bip_39_word_no_space_2 | seatski |  
+| bip_39_word_no_space_3 | seatskidistance |  
+| bip_39_word_no_space_4 | seatskidistancelumber |  
+| bip_39_word_no_space_5 | seatskidistancelumbercoin |  
+| bip_39_word_no_space_6 | seatskidistancelumbercointime |  
+| bip_39_word_no_space_7 | seatskidistancelumbercointimebomb |  
+| bip_39_word_no_space_8 | seatskidistancelumbercointimebombsummer |  
+| bip_39_word_no_space_9 | seatskidistancelumbercointimebombsummerbunker |  
 | bip_39_word_space_0 | ['seat', 'ski', 'distance', 'lumber', 'coin', 'time', 'bomb', 'summer', 'bunker', 'tank', 'wisdom', 'attack'] |  
 | bip_39_word_space_1 | seat |  
 | bip_39_word_space_10 | seat ski distance lumber coin time bomb summer bunker tank |  

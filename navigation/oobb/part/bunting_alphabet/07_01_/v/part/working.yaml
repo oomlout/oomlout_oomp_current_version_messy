@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hybrid
   lottery
 
   void'
+bip_39_word_no_space_1: hybrid
+bip_39_word_no_space_10: hybridamountmilkvaguemulecradlebosslotteryvoidtest
+bip_39_word_no_space_11: hybridamountmilkvaguemulecradlebosslotteryvoidtestenable
+bip_39_word_no_space_12: hybridamountmilkvaguemulecradlebosslotteryvoidtestenableadvance
+bip_39_word_no_space_2: hybridamount
+bip_39_word_no_space_3: hybridamountmilk
+bip_39_word_no_space_4: hybridamountmilkvague
+bip_39_word_no_space_5: hybridamountmilkvaguemule
+bip_39_word_no_space_6: hybridamountmilkvaguemulecradle
+bip_39_word_no_space_7: hybridamountmilkvaguemulecradleboss
+bip_39_word_no_space_8: hybridamountmilkvaguemulecradlebosslottery
+bip_39_word_no_space_9: hybridamountmilkvaguemulecradlebosslotteryvoid
 bip_39_word_space_0:
 - hybrid
 - amount

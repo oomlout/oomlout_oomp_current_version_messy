@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soap
   sense
 
   remember'
+bip_39_word_no_space_1: soap
+bip_39_word_no_space_10: soapinspireeggdoubleprospertomatoclaimsenserememberslush
+bip_39_word_no_space_11: soapinspireeggdoubleprospertomatoclaimsenserememberslushquiz
+bip_39_word_no_space_12: soapinspireeggdoubleprospertomatoclaimsenserememberslushquizalley
+bip_39_word_no_space_2: soapinspire
+bip_39_word_no_space_3: soapinspireegg
+bip_39_word_no_space_4: soapinspireeggdouble
+bip_39_word_no_space_5: soapinspireeggdoubleprosper
+bip_39_word_no_space_6: soapinspireeggdoubleprospertomato
+bip_39_word_no_space_7: soapinspireeggdoubleprospertomatoclaim
+bip_39_word_no_space_8: soapinspireeggdoubleprospertomatoclaimsense
+bip_39_word_no_space_9: soapinspireeggdoubleprospertomatoclaimsenseremember
 bip_39_word_space_0:
 - soap
 - inspire

@@ -122,6 +122,18 @@ property
 despair
 person
 trophy |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accesssausagevoterookieinsectpropertydespairpersontrophyonly |  
+| bip_39_word_no_space_11 | accesssausagevoterookieinsectpropertydespairpersontrophyonlydiet |  
+| bip_39_word_no_space_12 | accesssausagevoterookieinsectpropertydespairpersontrophyonlydietagain |  
+| bip_39_word_no_space_2 | accesssausage |  
+| bip_39_word_no_space_3 | accesssausagevote |  
+| bip_39_word_no_space_4 | accesssausagevoterookie |  
+| bip_39_word_no_space_5 | accesssausagevoterookieinsect |  
+| bip_39_word_no_space_6 | accesssausagevoterookieinsectproperty |  
+| bip_39_word_no_space_7 | accesssausagevoterookieinsectpropertydespair |  
+| bip_39_word_no_space_8 | accesssausagevoterookieinsectpropertydespairperson |  
+| bip_39_word_no_space_9 | accesssausagevoterookieinsectpropertydespairpersontrophy |  
 | bip_39_word_space_0 | ['access', 'sausage', 'vote', 'rookie', 'insect', 'property', 'despair', 'person', 'trophy', 'only', 'diet', 'again'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access sausage vote rookie insect property despair person trophy only |  

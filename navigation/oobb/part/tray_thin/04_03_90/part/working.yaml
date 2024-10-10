@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spike
   pill
 
   shy'
+bip_39_word_no_space_1: spike
+bip_39_word_no_space_10: spikecruiseobeykithollowpicnicrevealpillshycoral
+bip_39_word_no_space_11: spikecruiseobeykithollowpicnicrevealpillshycoralhold
+bip_39_word_no_space_12: spikecruiseobeykithollowpicnicrevealpillshycoralholdattend
+bip_39_word_no_space_2: spikecruise
+bip_39_word_no_space_3: spikecruiseobey
+bip_39_word_no_space_4: spikecruiseobeykit
+bip_39_word_no_space_5: spikecruiseobeykithollow
+bip_39_word_no_space_6: spikecruiseobeykithollowpicnic
+bip_39_word_no_space_7: spikecruiseobeykithollowpicnicreveal
+bip_39_word_no_space_8: spikecruiseobeykithollowpicnicrevealpill
+bip_39_word_no_space_9: spikecruiseobeykithollowpicnicrevealpillshy
 bip_39_word_space_0:
 - spike
 - cruise

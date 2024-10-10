@@ -122,6 +122,18 @@ possible
 stove
 indoor
 shed |  
+| bip_39_word_no_space_1 | file |  
+| bip_39_word_no_space_10 | filefishmuseumgossipbonuspossiblestoveindoorshedsiren |  
+| bip_39_word_no_space_11 | filefishmuseumgossipbonuspossiblestoveindoorshedsirenslot |  
+| bip_39_word_no_space_12 | filefishmuseumgossipbonuspossiblestoveindoorshedsirenslotamateur |  
+| bip_39_word_no_space_2 | filefish |  
+| bip_39_word_no_space_3 | filefishmuseum |  
+| bip_39_word_no_space_4 | filefishmuseumgossip |  
+| bip_39_word_no_space_5 | filefishmuseumgossipbonus |  
+| bip_39_word_no_space_6 | filefishmuseumgossipbonuspossible |  
+| bip_39_word_no_space_7 | filefishmuseumgossipbonuspossiblestove |  
+| bip_39_word_no_space_8 | filefishmuseumgossipbonuspossiblestoveindoor |  
+| bip_39_word_no_space_9 | filefishmuseumgossipbonuspossiblestoveindoorshed |  
 | bip_39_word_space_0 | ['file', 'fish', 'museum', 'gossip', 'bonus', 'possible', 'stove', 'indoor', 'shed', 'siren', 'slot', 'amateur'] |  
 | bip_39_word_space_1 | file |  
 | bip_39_word_space_10 | file fish museum gossip bonus possible stove indoor shed siren |  

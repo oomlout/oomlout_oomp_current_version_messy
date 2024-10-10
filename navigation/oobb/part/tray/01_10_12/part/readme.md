@@ -122,6 +122,18 @@ maze
 hole
 ugly
 indicate |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectcoreruleframefatalmazeholeuglyindicatecarpet |  
+| bip_39_word_no_space_11 | selectcoreruleframefatalmazeholeuglyindicatecarpetwhisper |  
+| bip_39_word_no_space_12 | selectcoreruleframefatalmazeholeuglyindicatecarpetwhisperarctic |  
+| bip_39_word_no_space_2 | selectcore |  
+| bip_39_word_no_space_3 | selectcorerule |  
+| bip_39_word_no_space_4 | selectcoreruleframe |  
+| bip_39_word_no_space_5 | selectcoreruleframefatal |  
+| bip_39_word_no_space_6 | selectcoreruleframefatalmaze |  
+| bip_39_word_no_space_7 | selectcoreruleframefatalmazehole |  
+| bip_39_word_no_space_8 | selectcoreruleframefatalmazeholeugly |  
+| bip_39_word_no_space_9 | selectcoreruleframefatalmazeholeuglyindicate |  
 | bip_39_word_space_0 | ['select', 'core', 'rule', 'frame', 'fatal', 'maze', 'hole', 'ugly', 'indicate', 'carpet', 'whisper', 'arctic'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select core rule frame fatal maze hole ugly indicate carpet |  

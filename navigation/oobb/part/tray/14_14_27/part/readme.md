@@ -122,6 +122,18 @@ what
 sport
 flame
 ball |  
+| bip_39_word_no_space_1 | regret |  
+| bip_39_word_no_space_10 | regretloudawayalreadyupdatewhatsportflameballmuch |  
+| bip_39_word_no_space_11 | regretloudawayalreadyupdatewhatsportflameballmuchcute |  
+| bip_39_word_no_space_12 | regretloudawayalreadyupdatewhatsportflameballmuchcutearch |  
+| bip_39_word_no_space_2 | regretloud |  
+| bip_39_word_no_space_3 | regretloudaway |  
+| bip_39_word_no_space_4 | regretloudawayalready |  
+| bip_39_word_no_space_5 | regretloudawayalreadyupdate |  
+| bip_39_word_no_space_6 | regretloudawayalreadyupdatewhat |  
+| bip_39_word_no_space_7 | regretloudawayalreadyupdatewhatsport |  
+| bip_39_word_no_space_8 | regretloudawayalreadyupdatewhatsportflame |  
+| bip_39_word_no_space_9 | regretloudawayalreadyupdatewhatsportflameball |  
 | bip_39_word_space_0 | ['regret', 'loud', 'away', 'already', 'update', 'what', 'sport', 'flame', 'ball', 'much', 'cute', 'arch'] |  
 | bip_39_word_space_1 | regret |  
 | bip_39_word_space_10 | regret loud away already update what sport flame ball much |  

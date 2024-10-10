@@ -122,6 +122,18 @@ cabbage
 until
 warfare
 sport |  
+| bip_39_word_no_space_1 | flavor |  
+| bip_39_word_no_space_10 | flavorfaithteachsuspectpeanutcabbageuntilwarfaresportpopular |  
+| bip_39_word_no_space_11 | flavorfaithteachsuspectpeanutcabbageuntilwarfaresportpopularlawn |  
+| bip_39_word_no_space_12 | flavorfaithteachsuspectpeanutcabbageuntilwarfaresportpopularlawnaugust |  
+| bip_39_word_no_space_2 | flavorfaith |  
+| bip_39_word_no_space_3 | flavorfaithteach |  
+| bip_39_word_no_space_4 | flavorfaithteachsuspect |  
+| bip_39_word_no_space_5 | flavorfaithteachsuspectpeanut |  
+| bip_39_word_no_space_6 | flavorfaithteachsuspectpeanutcabbage |  
+| bip_39_word_no_space_7 | flavorfaithteachsuspectpeanutcabbageuntil |  
+| bip_39_word_no_space_8 | flavorfaithteachsuspectpeanutcabbageuntilwarfare |  
+| bip_39_word_no_space_9 | flavorfaithteachsuspectpeanutcabbageuntilwarfaresport |  
 | bip_39_word_space_0 | ['flavor', 'faith', 'teach', 'suspect', 'peanut', 'cabbage', 'until', 'warfare', 'sport', 'popular', 'lawn', 'august'] |  
 | bip_39_word_space_1 | flavor |  
 | bip_39_word_space_10 | flavor faith teach suspect peanut cabbage until warfare sport popular |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'knee
   february
 
   movie'
+bip_39_word_no_space_1: knee
+bip_39_word_no_space_10: kneehighalarmgunpetthissunfebruarymoviecrowd
+bip_39_word_no_space_11: kneehighalarmgunpetthissunfebruarymoviecrowdmerry
+bip_39_word_no_space_12: kneehighalarmgunpetthissunfebruarymoviecrowdmerryagain
+bip_39_word_no_space_2: kneehigh
+bip_39_word_no_space_3: kneehighalarm
+bip_39_word_no_space_4: kneehighalarmgun
+bip_39_word_no_space_5: kneehighalarmgunpet
+bip_39_word_no_space_6: kneehighalarmgunpetthis
+bip_39_word_no_space_7: kneehighalarmgunpetthissun
+bip_39_word_no_space_8: kneehighalarmgunpetthissunfebruary
+bip_39_word_no_space_9: kneehighalarmgunpetthissunfebruarymovie
 bip_39_word_space_0:
 - knee
 - high

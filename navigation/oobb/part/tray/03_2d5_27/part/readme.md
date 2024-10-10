@@ -122,6 +122,18 @@ arrange
 suspect
 put
 first |  
+| bip_39_word_no_space_1 | obey |  
+| bip_39_word_no_space_10 | obeypenenforceuselessmuseumarrangesuspectputfirstpayment |  
+| bip_39_word_no_space_11 | obeypenenforceuselessmuseumarrangesuspectputfirstpaymentlove |  
+| bip_39_word_no_space_12 | obeypenenforceuselessmuseumarrangesuspectputfirstpaymentlovealbum |  
+| bip_39_word_no_space_2 | obeypen |  
+| bip_39_word_no_space_3 | obeypenenforce |  
+| bip_39_word_no_space_4 | obeypenenforceuseless |  
+| bip_39_word_no_space_5 | obeypenenforceuselessmuseum |  
+| bip_39_word_no_space_6 | obeypenenforceuselessmuseumarrange |  
+| bip_39_word_no_space_7 | obeypenenforceuselessmuseumarrangesuspect |  
+| bip_39_word_no_space_8 | obeypenenforceuselessmuseumarrangesuspectput |  
+| bip_39_word_no_space_9 | obeypenenforceuselessmuseumarrangesuspectputfirst |  
 | bip_39_word_space_0 | ['obey', 'pen', 'enforce', 'useless', 'museum', 'arrange', 'suspect', 'put', 'first', 'payment', 'love', 'album'] |  
 | bip_39_word_space_1 | obey |  
 | bip_39_word_space_10 | obey pen enforce useless museum arrange suspect put first payment |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'join
   radio
 
   other'
+bip_39_word_no_space_1: join
+bip_39_word_no_space_10: joinverifyprivatemiddleacrosscallpupilradioothersouth
+bip_39_word_no_space_11: joinverifyprivatemiddleacrosscallpupilradioothersouthspecial
+bip_39_word_no_space_12: joinverifyprivatemiddleacrosscallpupilradioothersouthspecialadmit
+bip_39_word_no_space_2: joinverify
+bip_39_word_no_space_3: joinverifyprivate
+bip_39_word_no_space_4: joinverifyprivatemiddle
+bip_39_word_no_space_5: joinverifyprivatemiddleacross
+bip_39_word_no_space_6: joinverifyprivatemiddleacrosscall
+bip_39_word_no_space_7: joinverifyprivatemiddleacrosscallpupil
+bip_39_word_no_space_8: joinverifyprivatemiddleacrosscallpupilradio
+bip_39_word_no_space_9: joinverifyprivatemiddleacrosscallpupilradioother
 bip_39_word_space_0:
 - join
 - verify

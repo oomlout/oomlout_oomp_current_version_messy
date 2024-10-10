@@ -122,6 +122,18 @@ what
 grace
 swap
 sword |  
+| bip_39_word_no_space_1 | broccoli |  
+| bip_39_word_no_space_10 | broccoliphraseheightclarifyearnwhatgraceswapswordshuffle |  
+| bip_39_word_no_space_11 | broccoliphraseheightclarifyearnwhatgraceswapswordshufflecivil |  
+| bip_39_word_no_space_12 | broccoliphraseheightclarifyearnwhatgraceswapswordshufflecivilaccuse |  
+| bip_39_word_no_space_2 | broccoliphrase |  
+| bip_39_word_no_space_3 | broccoliphraseheight |  
+| bip_39_word_no_space_4 | broccoliphraseheightclarify |  
+| bip_39_word_no_space_5 | broccoliphraseheightclarifyearn |  
+| bip_39_word_no_space_6 | broccoliphraseheightclarifyearnwhat |  
+| bip_39_word_no_space_7 | broccoliphraseheightclarifyearnwhatgrace |  
+| bip_39_word_no_space_8 | broccoliphraseheightclarifyearnwhatgraceswap |  
+| bip_39_word_no_space_9 | broccoliphraseheightclarifyearnwhatgraceswapsword |  
 | bip_39_word_space_0 | ['broccoli', 'phrase', 'height', 'clarify', 'earn', 'what', 'grace', 'swap', 'sword', 'shuffle', 'civil', 'accuse'] |  
 | bip_39_word_space_1 | broccoli |  
 | bip_39_word_space_10 | broccoli phrase height clarify earn what grace swap sword shuffle |  

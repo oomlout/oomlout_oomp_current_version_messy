@@ -122,6 +122,18 @@ struggle
 wave
 region
 cotton |  
+| bip_39_word_no_space_1 | jealous |  
+| bip_39_word_no_space_10 | jealousnoisemotorcreekchasestrugglewaveregioncottonsoccer |  
+| bip_39_word_no_space_11 | jealousnoisemotorcreekchasestrugglewaveregioncottonsoccersolar |  
+| bip_39_word_no_space_12 | jealousnoisemotorcreekchasestrugglewaveregioncottonsoccersolaraffair |  
+| bip_39_word_no_space_2 | jealousnoise |  
+| bip_39_word_no_space_3 | jealousnoisemotor |  
+| bip_39_word_no_space_4 | jealousnoisemotorcreek |  
+| bip_39_word_no_space_5 | jealousnoisemotorcreekchase |  
+| bip_39_word_no_space_6 | jealousnoisemotorcreekchasestruggle |  
+| bip_39_word_no_space_7 | jealousnoisemotorcreekchasestrugglewave |  
+| bip_39_word_no_space_8 | jealousnoisemotorcreekchasestrugglewaveregion |  
+| bip_39_word_no_space_9 | jealousnoisemotorcreekchasestrugglewaveregioncotton |  
 | bip_39_word_space_0 | ['jealous', 'noise', 'motor', 'creek', 'chase', 'struggle', 'wave', 'region', 'cotton', 'soccer', 'solar', 'affair'] |  
 | bip_39_word_space_1 | jealous |  
 | bip_39_word_space_10 | jealous noise motor creek chase struggle wave region cotton soccer |  

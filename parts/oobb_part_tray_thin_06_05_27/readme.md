@@ -122,6 +122,18 @@ special
 where
 oak
 wire |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistoldigitalcargoeasybuyerspecialwhereoakwireobey |  
+| bip_39_word_no_space_11 | pistoldigitalcargoeasybuyerspecialwhereoakwireobeymimic |  
+| bip_39_word_no_space_12 | pistoldigitalcargoeasybuyerspecialwhereoakwireobeymimicacquire |  
+| bip_39_word_no_space_2 | pistoldigital |  
+| bip_39_word_no_space_3 | pistoldigitalcargo |  
+| bip_39_word_no_space_4 | pistoldigitalcargoeasy |  
+| bip_39_word_no_space_5 | pistoldigitalcargoeasybuyer |  
+| bip_39_word_no_space_6 | pistoldigitalcargoeasybuyerspecial |  
+| bip_39_word_no_space_7 | pistoldigitalcargoeasybuyerspecialwhere |  
+| bip_39_word_no_space_8 | pistoldigitalcargoeasybuyerspecialwhereoak |  
+| bip_39_word_no_space_9 | pistoldigitalcargoeasybuyerspecialwhereoakwire |  
 | bip_39_word_space_0 | ['pistol', 'digital', 'cargo', 'easy', 'buyer', 'special', 'where', 'oak', 'wire', 'obey', 'mimic', 'acquire'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol digital cargo easy buyer special where oak wire obey |  

@@ -122,6 +122,18 @@ drill
 margin
 outer
 remind |  
+| bip_39_word_no_space_1 | curious |  
+| bip_39_word_no_space_10 | curioushamstertablevesselselectdrillmarginouterremindpicnic |  
+| bip_39_word_no_space_11 | curioushamstertablevesselselectdrillmarginouterremindpicnicunknown |  
+| bip_39_word_no_space_12 | curioushamstertablevesselselectdrillmarginouterremindpicnicunknownabuse |  
+| bip_39_word_no_space_2 | curioushamster |  
+| bip_39_word_no_space_3 | curioushamstertable |  
+| bip_39_word_no_space_4 | curioushamstertablevessel |  
+| bip_39_word_no_space_5 | curioushamstertablevesselselect |  
+| bip_39_word_no_space_6 | curioushamstertablevesselselectdrill |  
+| bip_39_word_no_space_7 | curioushamstertablevesselselectdrillmargin |  
+| bip_39_word_no_space_8 | curioushamstertablevesselselectdrillmarginouter |  
+| bip_39_word_no_space_9 | curioushamstertablevesselselectdrillmarginouterremind |  
 | bip_39_word_space_0 | ['curious', 'hamster', 'table', 'vessel', 'select', 'drill', 'margin', 'outer', 'remind', 'picnic', 'unknown', 'abuse'] |  
 | bip_39_word_space_1 | curious |  
 | bip_39_word_space_10 | curious hamster table vessel select drill margin outer remind picnic |  

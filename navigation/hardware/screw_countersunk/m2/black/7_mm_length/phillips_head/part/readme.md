@@ -122,6 +122,18 @@ cereal
 kangaroo
 coyote
 improve |  
+| bip_39_word_no_space_1 | tiny |  
+| bip_39_word_no_space_10 | tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergy |  
+| bip_39_word_no_space_11 | tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergyshove |  
+| bip_39_word_no_space_12 | tinyfloatcastlevitalmiddlecerealkangaroocoyoteimproveenergyshovealready |  
+| bip_39_word_no_space_2 | tinyfloat |  
+| bip_39_word_no_space_3 | tinyfloatcastle |  
+| bip_39_word_no_space_4 | tinyfloatcastlevital |  
+| bip_39_word_no_space_5 | tinyfloatcastlevitalmiddle |  
+| bip_39_word_no_space_6 | tinyfloatcastlevitalmiddlecereal |  
+| bip_39_word_no_space_7 | tinyfloatcastlevitalmiddlecerealkangaroo |  
+| bip_39_word_no_space_8 | tinyfloatcastlevitalmiddlecerealkangaroocoyote |  
+| bip_39_word_no_space_9 | tinyfloatcastlevitalmiddlecerealkangaroocoyoteimprove |  
 | bip_39_word_space_0 | ['tiny', 'float', 'castle', 'vital', 'middle', 'cereal', 'kangaroo', 'coyote', 'improve', 'energy', 'shove', 'already'] |  
 | bip_39_word_space_1 | tiny |  
 | bip_39_word_space_10 | tiny float castle vital middle cereal kangaroo coyote improve energy |  

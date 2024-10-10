@@ -122,6 +122,18 @@ tunnel
 broccoli
 decline
 fossil |  
+| bip_39_word_no_space_1 | concert |  
+| bip_39_word_no_space_10 | concertbriskabandonvalleyindicatetunnelbroccolideclinefossilslogan |  
+| bip_39_word_no_space_11 | concertbriskabandonvalleyindicatetunnelbroccolideclinefossilsloganpotato |  
+| bip_39_word_no_space_12 | concertbriskabandonvalleyindicatetunnelbroccolideclinefossilsloganpotatoalcohol |  
+| bip_39_word_no_space_2 | concertbrisk |  
+| bip_39_word_no_space_3 | concertbriskabandon |  
+| bip_39_word_no_space_4 | concertbriskabandonvalley |  
+| bip_39_word_no_space_5 | concertbriskabandonvalleyindicate |  
+| bip_39_word_no_space_6 | concertbriskabandonvalleyindicatetunnel |  
+| bip_39_word_no_space_7 | concertbriskabandonvalleyindicatetunnelbroccoli |  
+| bip_39_word_no_space_8 | concertbriskabandonvalleyindicatetunnelbroccolidecline |  
+| bip_39_word_no_space_9 | concertbriskabandonvalleyindicatetunnelbroccolideclinefossil |  
 | bip_39_word_space_0 | ['concert', 'brisk', 'abandon', 'valley', 'indicate', 'tunnel', 'broccoli', 'decline', 'fossil', 'slogan', 'potato', 'alcohol'] |  
 | bip_39_word_space_1 | concert |  
 | bip_39_word_space_10 | concert brisk abandon valley indicate tunnel broccoli decline fossil slogan |  

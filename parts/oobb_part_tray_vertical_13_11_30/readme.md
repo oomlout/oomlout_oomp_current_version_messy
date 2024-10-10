@@ -122,6 +122,18 @@ before
 raccoon
 edge
 once |  
+| bip_39_word_no_space_1 | inflict |  
+| bip_39_word_no_space_10 | inflictsubwaytradeexampleindoorbeforeraccoonedgeoncebattle |  
+| bip_39_word_no_space_11 | inflictsubwaytradeexampleindoorbeforeraccoonedgeoncebattlemind |  
+| bip_39_word_no_space_12 | inflictsubwaytradeexampleindoorbeforeraccoonedgeoncebattlemindartist |  
+| bip_39_word_no_space_2 | inflictsubway |  
+| bip_39_word_no_space_3 | inflictsubwaytrade |  
+| bip_39_word_no_space_4 | inflictsubwaytradeexample |  
+| bip_39_word_no_space_5 | inflictsubwaytradeexampleindoor |  
+| bip_39_word_no_space_6 | inflictsubwaytradeexampleindoorbefore |  
+| bip_39_word_no_space_7 | inflictsubwaytradeexampleindoorbeforeraccoon |  
+| bip_39_word_no_space_8 | inflictsubwaytradeexampleindoorbeforeraccoonedge |  
+| bip_39_word_no_space_9 | inflictsubwaytradeexampleindoorbeforeraccoonedgeonce |  
 | bip_39_word_space_0 | ['inflict', 'subway', 'trade', 'example', 'indoor', 'before', 'raccoon', 'edge', 'once', 'battle', 'mind', 'artist'] |  
 | bip_39_word_space_1 | inflict |  
 | bip_39_word_space_10 | inflict subway trade example indoor before raccoon edge once battle |  

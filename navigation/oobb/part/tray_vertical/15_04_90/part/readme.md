@@ -122,6 +122,18 @@ plate
 drink
 junior
 girl |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelypledgeelectricclinicsilentplatedrinkjuniorgirlpistol |  
+| bip_39_word_no_space_11 | lonelypledgeelectricclinicsilentplatedrinkjuniorgirlpistolwarfare |  
+| bip_39_word_no_space_12 | lonelypledgeelectricclinicsilentplatedrinkjuniorgirlpistolwarfareaim |  
+| bip_39_word_no_space_2 | lonelypledge |  
+| bip_39_word_no_space_3 | lonelypledgeelectric |  
+| bip_39_word_no_space_4 | lonelypledgeelectricclinic |  
+| bip_39_word_no_space_5 | lonelypledgeelectricclinicsilent |  
+| bip_39_word_no_space_6 | lonelypledgeelectricclinicsilentplate |  
+| bip_39_word_no_space_7 | lonelypledgeelectricclinicsilentplatedrink |  
+| bip_39_word_no_space_8 | lonelypledgeelectricclinicsilentplatedrinkjunior |  
+| bip_39_word_no_space_9 | lonelypledgeelectricclinicsilentplatedrinkjuniorgirl |  
 | bip_39_word_space_0 | ['lonely', 'pledge', 'electric', 'clinic', 'silent', 'plate', 'drink', 'junior', 'girl', 'pistol', 'warfare', 'aim'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely pledge electric clinic silent plate drink junior girl pistol |  

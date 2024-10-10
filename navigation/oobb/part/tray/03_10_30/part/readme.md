@@ -122,6 +122,18 @@ vital
 clown
 april
 tooth |  
+| bip_39_word_no_space_1 | awkward |  
+| bip_39_word_no_space_10 | awkwardnaivebehavewallfiscalvitalclownapriltoothpoverty |  
+| bip_39_word_no_space_11 | awkwardnaivebehavewallfiscalvitalclownapriltoothpovertyscene |  
+| bip_39_word_no_space_12 | awkwardnaivebehavewallfiscalvitalclownapriltoothpovertysceneabsurd |  
+| bip_39_word_no_space_2 | awkwardnaive |  
+| bip_39_word_no_space_3 | awkwardnaivebehave |  
+| bip_39_word_no_space_4 | awkwardnaivebehavewall |  
+| bip_39_word_no_space_5 | awkwardnaivebehavewallfiscal |  
+| bip_39_word_no_space_6 | awkwardnaivebehavewallfiscalvital |  
+| bip_39_word_no_space_7 | awkwardnaivebehavewallfiscalvitalclown |  
+| bip_39_word_no_space_8 | awkwardnaivebehavewallfiscalvitalclownapril |  
+| bip_39_word_no_space_9 | awkwardnaivebehavewallfiscalvitalclownapriltooth |  
 | bip_39_word_space_0 | ['awkward', 'naive', 'behave', 'wall', 'fiscal', 'vital', 'clown', 'april', 'tooth', 'poverty', 'scene', 'absurd'] |  
 | bip_39_word_space_1 | awkward |  
 | bip_39_word_space_10 | awkward naive behave wall fiscal vital clown april tooth poverty |  

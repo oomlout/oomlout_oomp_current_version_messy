@@ -122,6 +122,18 @@ solution
 sudden
 used
 special |  
+| bip_39_word_no_space_1 | destroy |  
+| bip_39_word_no_space_10 | destroywashstovealmostcupboardsolutionsuddenusedspecialbean |  
+| bip_39_word_no_space_11 | destroywashstovealmostcupboardsolutionsuddenusedspecialbeansong |  
+| bip_39_word_no_space_12 | destroywashstovealmostcupboardsolutionsuddenusedspecialbeansongaction |  
+| bip_39_word_no_space_2 | destroywash |  
+| bip_39_word_no_space_3 | destroywashstove |  
+| bip_39_word_no_space_4 | destroywashstovealmost |  
+| bip_39_word_no_space_5 | destroywashstovealmostcupboard |  
+| bip_39_word_no_space_6 | destroywashstovealmostcupboardsolution |  
+| bip_39_word_no_space_7 | destroywashstovealmostcupboardsolutionsudden |  
+| bip_39_word_no_space_8 | destroywashstovealmostcupboardsolutionsuddenused |  
+| bip_39_word_no_space_9 | destroywashstovealmostcupboardsolutionsuddenusedspecial |  
 | bip_39_word_space_0 | ['destroy', 'wash', 'stove', 'almost', 'cupboard', 'solution', 'sudden', 'used', 'special', 'bean', 'song', 'action'] |  
 | bip_39_word_space_1 | destroy |  
 | bip_39_word_space_10 | destroy wash stove almost cupboard solution sudden used special bean |  

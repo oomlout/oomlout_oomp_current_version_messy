@@ -122,6 +122,18 @@ bean
 sorry
 scrap
 blood |  
+| bip_39_word_no_space_1 | exercise |  
+| bip_39_word_no_space_10 | exerciseglimpsebeyondcaughtsecuritybeansorryscrapbloodspeed |  
+| bip_39_word_no_space_11 | exerciseglimpsebeyondcaughtsecuritybeansorryscrapbloodspeedtable |  
+| bip_39_word_no_space_12 | exerciseglimpsebeyondcaughtsecuritybeansorryscrapbloodspeedtablealso |  
+| bip_39_word_no_space_2 | exerciseglimpse |  
+| bip_39_word_no_space_3 | exerciseglimpsebeyond |  
+| bip_39_word_no_space_4 | exerciseglimpsebeyondcaught |  
+| bip_39_word_no_space_5 | exerciseglimpsebeyondcaughtsecurity |  
+| bip_39_word_no_space_6 | exerciseglimpsebeyondcaughtsecuritybean |  
+| bip_39_word_no_space_7 | exerciseglimpsebeyondcaughtsecuritybeansorry |  
+| bip_39_word_no_space_8 | exerciseglimpsebeyondcaughtsecuritybeansorryscrap |  
+| bip_39_word_no_space_9 | exerciseglimpsebeyondcaughtsecuritybeansorryscrapblood |  
 | bip_39_word_space_0 | ['exercise', 'glimpse', 'beyond', 'caught', 'security', 'bean', 'sorry', 'scrap', 'blood', 'speed', 'table', 'also'] |  
 | bip_39_word_space_1 | exercise |  
 | bip_39_word_space_10 | exercise glimpse beyond caught security bean sorry scrap blood speed |  

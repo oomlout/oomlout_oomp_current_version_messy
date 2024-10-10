@@ -122,6 +122,18 @@ leg
 vicious
 shaft
 journey |  
+| bip_39_word_no_space_1 | supply |  
+| bip_39_word_no_space_10 | supplytunapanicyouthfanlegviciousshaftjourneymatter |  
+| bip_39_word_no_space_11 | supplytunapanicyouthfanlegviciousshaftjourneymattercoast |  
+| bip_39_word_no_space_12 | supplytunapanicyouthfanlegviciousshaftjourneymattercoastalbum |  
+| bip_39_word_no_space_2 | supplytuna |  
+| bip_39_word_no_space_3 | supplytunapanic |  
+| bip_39_word_no_space_4 | supplytunapanicyouth |  
+| bip_39_word_no_space_5 | supplytunapanicyouthfan |  
+| bip_39_word_no_space_6 | supplytunapanicyouthfanleg |  
+| bip_39_word_no_space_7 | supplytunapanicyouthfanlegvicious |  
+| bip_39_word_no_space_8 | supplytunapanicyouthfanlegviciousshaft |  
+| bip_39_word_no_space_9 | supplytunapanicyouthfanlegviciousshaftjourney |  
 | bip_39_word_space_0 | ['supply', 'tuna', 'panic', 'youth', 'fan', 'leg', 'vicious', 'shaft', 'journey', 'matter', 'coast', 'album'] |  
 | bip_39_word_space_1 | supply |  
 | bip_39_word_space_10 | supply tuna panic youth fan leg vicious shaft journey matter |  

@@ -122,6 +122,18 @@ transfer
 amazing
 distance
 spring |  
+| bip_39_word_no_space_1 | art |  
+| bip_39_word_no_space_10 | artexpandtradebehavewhentransferamazingdistancespringwin |  
+| bip_39_word_no_space_11 | artexpandtradebehavewhentransferamazingdistancespringwindivorce |  
+| bip_39_word_no_space_12 | artexpandtradebehavewhentransferamazingdistancespringwindivorcealpha |  
+| bip_39_word_no_space_2 | artexpand |  
+| bip_39_word_no_space_3 | artexpandtrade |  
+| bip_39_word_no_space_4 | artexpandtradebehave |  
+| bip_39_word_no_space_5 | artexpandtradebehavewhen |  
+| bip_39_word_no_space_6 | artexpandtradebehavewhentransfer |  
+| bip_39_word_no_space_7 | artexpandtradebehavewhentransferamazing |  
+| bip_39_word_no_space_8 | artexpandtradebehavewhentransferamazingdistance |  
+| bip_39_word_no_space_9 | artexpandtradebehavewhentransferamazingdistancespring |  
 | bip_39_word_space_0 | ['art', 'expand', 'trade', 'behave', 'when', 'transfer', 'amazing', 'distance', 'spring', 'win', 'divorce', 'alpha'] |  
 | bip_39_word_space_1 | art |  
 | bip_39_word_space_10 | art expand trade behave when transfer amazing distance spring win |  

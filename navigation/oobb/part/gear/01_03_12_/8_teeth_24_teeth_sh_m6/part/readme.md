@@ -122,6 +122,18 @@ else
 orphan
 sauce
 rain |  
+| bip_39_word_no_space_1 | spread |  
+| bip_39_word_no_space_10 | spreadrugdevoteorangescreenelseorphansauceraincentury |  
+| bip_39_word_no_space_11 | spreadrugdevoteorangescreenelseorphansauceraincenturyfossil |  
+| bip_39_word_no_space_12 | spreadrugdevoteorangescreenelseorphansauceraincenturyfossilalien |  
+| bip_39_word_no_space_2 | spreadrug |  
+| bip_39_word_no_space_3 | spreadrugdevote |  
+| bip_39_word_no_space_4 | spreadrugdevoteorange |  
+| bip_39_word_no_space_5 | spreadrugdevoteorangescreen |  
+| bip_39_word_no_space_6 | spreadrugdevoteorangescreenelse |  
+| bip_39_word_no_space_7 | spreadrugdevoteorangescreenelseorphan |  
+| bip_39_word_no_space_8 | spreadrugdevoteorangescreenelseorphansauce |  
+| bip_39_word_no_space_9 | spreadrugdevoteorangescreenelseorphansaucerain |  
 | bip_39_word_space_0 | ['spread', 'rug', 'devote', 'orange', 'screen', 'else', 'orphan', 'sauce', 'rain', 'century', 'fossil', 'alien'] |  
 | bip_39_word_space_1 | spread |  
 | bip_39_word_space_10 | spread rug devote orange screen else orphan sauce rain century |  

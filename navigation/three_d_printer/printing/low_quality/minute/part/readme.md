@@ -122,6 +122,18 @@ notice
 west
 hood
 lawn |  
+| bip_39_word_no_space_1 | physical |  
+| bip_39_word_no_space_10 | physicaleagerhungryvirusfingernoticewesthoodlawnphrase |  
+| bip_39_word_no_space_11 | physicaleagerhungryvirusfingernoticewesthoodlawnphrasechoose |  
+| bip_39_word_no_space_12 | physicaleagerhungryvirusfingernoticewesthoodlawnphrasechooseangry |  
+| bip_39_word_no_space_2 | physicaleager |  
+| bip_39_word_no_space_3 | physicaleagerhungry |  
+| bip_39_word_no_space_4 | physicaleagerhungryvirus |  
+| bip_39_word_no_space_5 | physicaleagerhungryvirusfinger |  
+| bip_39_word_no_space_6 | physicaleagerhungryvirusfingernotice |  
+| bip_39_word_no_space_7 | physicaleagerhungryvirusfingernoticewest |  
+| bip_39_word_no_space_8 | physicaleagerhungryvirusfingernoticewesthood |  
+| bip_39_word_no_space_9 | physicaleagerhungryvirusfingernoticewesthoodlawn |  
 | bip_39_word_space_0 | ['physical', 'eager', 'hungry', 'virus', 'finger', 'notice', 'west', 'hood', 'lawn', 'phrase', 'choose', 'angry'] |  
 | bip_39_word_space_1 | physical |  
 | bip_39_word_space_10 | physical eager hungry virus finger notice west hood lawn phrase |  

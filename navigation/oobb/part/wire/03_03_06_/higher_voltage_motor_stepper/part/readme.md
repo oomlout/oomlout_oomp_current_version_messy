@@ -122,6 +122,18 @@ thing
 month
 hero
 sting |  
+| bip_39_word_no_space_1 | toy |  
+| bip_39_word_no_space_10 | toyfostercatalogprofitmagicthingmonthherostingshove |  
+| bip_39_word_no_space_11 | toyfostercatalogprofitmagicthingmonthherostingshovecanyon |  
+| bip_39_word_no_space_12 | toyfostercatalogprofitmagicthingmonthherostingshovecanyonalley |  
+| bip_39_word_no_space_2 | toyfoster |  
+| bip_39_word_no_space_3 | toyfostercatalog |  
+| bip_39_word_no_space_4 | toyfostercatalogprofit |  
+| bip_39_word_no_space_5 | toyfostercatalogprofitmagic |  
+| bip_39_word_no_space_6 | toyfostercatalogprofitmagicthing |  
+| bip_39_word_no_space_7 | toyfostercatalogprofitmagicthingmonth |  
+| bip_39_word_no_space_8 | toyfostercatalogprofitmagicthingmonthhero |  
+| bip_39_word_no_space_9 | toyfostercatalogprofitmagicthingmonthherosting |  
 | bip_39_word_space_0 | ['toy', 'foster', 'catalog', 'profit', 'magic', 'thing', 'month', 'hero', 'sting', 'shove', 'canyon', 'alley'] |  
 | bip_39_word_space_1 | toy |  
 | bip_39_word_space_10 | toy foster catalog profit magic thing month hero sting shove |  

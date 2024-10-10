@@ -122,6 +122,18 @@ embody
 now
 era
 change |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinstaffzonemobilesmoothembodynowerachangeentry |  
+| bip_39_word_no_space_11 | dolphinstaffzonemobilesmoothembodynowerachangeentryprovide |  
+| bip_39_word_no_space_12 | dolphinstaffzonemobilesmoothembodynowerachangeentryprovideargue |  
+| bip_39_word_no_space_2 | dolphinstaff |  
+| bip_39_word_no_space_3 | dolphinstaffzone |  
+| bip_39_word_no_space_4 | dolphinstaffzonemobile |  
+| bip_39_word_no_space_5 | dolphinstaffzonemobilesmooth |  
+| bip_39_word_no_space_6 | dolphinstaffzonemobilesmoothembody |  
+| bip_39_word_no_space_7 | dolphinstaffzonemobilesmoothembodynow |  
+| bip_39_word_no_space_8 | dolphinstaffzonemobilesmoothembodynowera |  
+| bip_39_word_no_space_9 | dolphinstaffzonemobilesmoothembodynowerachange |  
 | bip_39_word_space_0 | ['dolphin', 'staff', 'zone', 'mobile', 'smooth', 'embody', 'now', 'era', 'change', 'entry', 'provide', 'argue'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin staff zone mobile smooth embody now era change entry |  

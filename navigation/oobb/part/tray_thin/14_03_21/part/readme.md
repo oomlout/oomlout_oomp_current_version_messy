@@ -122,6 +122,18 @@ bulb
 inquiry
 trip
 school |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printcomeunfairadaptpresentbulbinquirytripschoolmango |  
+| bip_39_word_no_space_11 | printcomeunfairadaptpresentbulbinquirytripschoolmangolens |  
+| bip_39_word_no_space_12 | printcomeunfairadaptpresentbulbinquirytripschoolmangolensask |  
+| bip_39_word_no_space_2 | printcome |  
+| bip_39_word_no_space_3 | printcomeunfair |  
+| bip_39_word_no_space_4 | printcomeunfairadapt |  
+| bip_39_word_no_space_5 | printcomeunfairadaptpresent |  
+| bip_39_word_no_space_6 | printcomeunfairadaptpresentbulb |  
+| bip_39_word_no_space_7 | printcomeunfairadaptpresentbulbinquiry |  
+| bip_39_word_no_space_8 | printcomeunfairadaptpresentbulbinquirytrip |  
+| bip_39_word_no_space_9 | printcomeunfairadaptpresentbulbinquirytripschool |  
 | bip_39_word_space_0 | ['print', 'come', 'unfair', 'adapt', 'present', 'bulb', 'inquiry', 'trip', 'school', 'mango', 'lens', 'ask'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print come unfair adapt present bulb inquiry trip school mango |  

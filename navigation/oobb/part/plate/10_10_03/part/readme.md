@@ -122,6 +122,18 @@ climb
 follow
 nice
 foster |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printfederalhenwoodnearclimbfollownicefosterfire |  
+| bip_39_word_no_space_11 | printfederalhenwoodnearclimbfollownicefosterfiretrap |  
+| bip_39_word_no_space_12 | printfederalhenwoodnearclimbfollownicefosterfiretrapachieve |  
+| bip_39_word_no_space_2 | printfederal |  
+| bip_39_word_no_space_3 | printfederalhen |  
+| bip_39_word_no_space_4 | printfederalhenwood |  
+| bip_39_word_no_space_5 | printfederalhenwoodnear |  
+| bip_39_word_no_space_6 | printfederalhenwoodnearclimb |  
+| bip_39_word_no_space_7 | printfederalhenwoodnearclimbfollow |  
+| bip_39_word_no_space_8 | printfederalhenwoodnearclimbfollownice |  
+| bip_39_word_no_space_9 | printfederalhenwoodnearclimbfollownicefoster |  
 | bip_39_word_space_0 | ['print', 'federal', 'hen', 'wood', 'near', 'climb', 'follow', 'nice', 'foster', 'fire', 'trap', 'achieve'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print federal hen wood near climb follow nice foster fire |  

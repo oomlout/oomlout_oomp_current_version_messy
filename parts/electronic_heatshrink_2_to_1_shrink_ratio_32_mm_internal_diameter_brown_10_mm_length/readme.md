@@ -122,6 +122,18 @@ rally
 vapor
 almost
 kiss |  
+| bip_39_word_no_space_1 | test |  
+| bip_39_word_no_space_10 | testnowvancopperacidrallyvaporalmostkissbrown |  
+| bip_39_word_no_space_11 | testnowvancopperacidrallyvaporalmostkissbrowntheory |  
+| bip_39_word_no_space_12 | testnowvancopperacidrallyvaporalmostkissbrowntheoryantique |  
+| bip_39_word_no_space_2 | testnow |  
+| bip_39_word_no_space_3 | testnowvan |  
+| bip_39_word_no_space_4 | testnowvancopper |  
+| bip_39_word_no_space_5 | testnowvancopperacid |  
+| bip_39_word_no_space_6 | testnowvancopperacidrally |  
+| bip_39_word_no_space_7 | testnowvancopperacidrallyvapor |  
+| bip_39_word_no_space_8 | testnowvancopperacidrallyvaporalmost |  
+| bip_39_word_no_space_9 | testnowvancopperacidrallyvaporalmostkiss |  
 | bip_39_word_space_0 | ['test', 'now', 'van', 'copper', 'acid', 'rally', 'vapor', 'almost', 'kiss', 'brown', 'theory', 'antique'] |  
 | bip_39_word_space_1 | test |  
 | bip_39_word_space_10 | test now van copper acid rally vapor almost kiss brown |  

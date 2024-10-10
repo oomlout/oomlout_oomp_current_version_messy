@@ -122,6 +122,18 @@ almost
 hip
 depend
 weird |  
+| bip_39_word_no_space_1 | genius |  
+| bip_39_word_no_space_10 | geniusbachelorhooddirttomorrowalmosthipdependweirdwing |  
+| bip_39_word_no_space_11 | geniusbachelorhooddirttomorrowalmosthipdependweirdwingforce |  
+| bip_39_word_no_space_12 | geniusbachelorhooddirttomorrowalmosthipdependweirdwingforceability |  
+| bip_39_word_no_space_2 | geniusbachelor |  
+| bip_39_word_no_space_3 | geniusbachelorhood |  
+| bip_39_word_no_space_4 | geniusbachelorhooddirt |  
+| bip_39_word_no_space_5 | geniusbachelorhooddirttomorrow |  
+| bip_39_word_no_space_6 | geniusbachelorhooddirttomorrowalmost |  
+| bip_39_word_no_space_7 | geniusbachelorhooddirttomorrowalmosthip |  
+| bip_39_word_no_space_8 | geniusbachelorhooddirttomorrowalmosthipdepend |  
+| bip_39_word_no_space_9 | geniusbachelorhooddirttomorrowalmosthipdependweird |  
 | bip_39_word_space_0 | ['genius', 'bachelor', 'hood', 'dirt', 'tomorrow', 'almost', 'hip', 'depend', 'weird', 'wing', 'force', 'ability'] |  
 | bip_39_word_space_1 | genius |  
 | bip_39_word_space_10 | genius bachelor hood dirt tomorrow almost hip depend weird wing |  

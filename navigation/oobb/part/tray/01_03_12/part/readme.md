@@ -122,6 +122,18 @@ bitter
 identify
 turn
 market |  
+| bip_39_word_no_space_1 | flight |  
+| bip_39_word_no_space_10 | flightbeginregiontodayancientbitteridentifyturnmarketwhip |  
+| bip_39_word_no_space_11 | flightbeginregiontodayancientbitteridentifyturnmarketwhiparrow |  
+| bip_39_word_no_space_12 | flightbeginregiontodayancientbitteridentifyturnmarketwhiparrowabsent |  
+| bip_39_word_no_space_2 | flightbegin |  
+| bip_39_word_no_space_3 | flightbeginregion |  
+| bip_39_word_no_space_4 | flightbeginregiontoday |  
+| bip_39_word_no_space_5 | flightbeginregiontodayancient |  
+| bip_39_word_no_space_6 | flightbeginregiontodayancientbitter |  
+| bip_39_word_no_space_7 | flightbeginregiontodayancientbitteridentify |  
+| bip_39_word_no_space_8 | flightbeginregiontodayancientbitteridentifyturn |  
+| bip_39_word_no_space_9 | flightbeginregiontodayancientbitteridentifyturnmarket |  
 | bip_39_word_space_0 | ['flight', 'begin', 'region', 'today', 'ancient', 'bitter', 'identify', 'turn', 'market', 'whip', 'arrow', 'absent'] |  
 | bip_39_word_space_1 | flight |  
 | bip_39_word_space_10 | flight begin region today ancient bitter identify turn market whip |  

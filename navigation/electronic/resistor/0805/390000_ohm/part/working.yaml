@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'metal
   profit
 
   walk'
+bip_39_word_no_space_1: metal
+bip_39_word_no_space_10: metalsnaketagarmorsoftprideletterprofitwalkdecline
+bip_39_word_no_space_11: metalsnaketagarmorsoftprideletterprofitwalkdeclineseminar
+bip_39_word_no_space_12: metalsnaketagarmorsoftprideletterprofitwalkdeclineseminarafraid
+bip_39_word_no_space_2: metalsnake
+bip_39_word_no_space_3: metalsnaketag
+bip_39_word_no_space_4: metalsnaketagarmor
+bip_39_word_no_space_5: metalsnaketagarmorsoft
+bip_39_word_no_space_6: metalsnaketagarmorsoftpride
+bip_39_word_no_space_7: metalsnaketagarmorsoftprideletter
+bip_39_word_no_space_8: metalsnaketagarmorsoftprideletterprofit
+bip_39_word_no_space_9: metalsnaketagarmorsoftprideletterprofitwalk
 bip_39_word_space_0:
 - metal
 - snake

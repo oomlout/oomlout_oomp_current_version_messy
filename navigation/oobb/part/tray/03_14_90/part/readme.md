@@ -122,6 +122,18 @@ auto
 rally
 that
 onion |  
+| bip_39_word_no_space_1 | chat |  
+| bip_39_word_no_space_10 | chatinjuryriskagainvehicleautorallythatonionbrown |  
+| bip_39_word_no_space_11 | chatinjuryriskagainvehicleautorallythatonionbrownwreck |  
+| bip_39_word_no_space_12 | chatinjuryriskagainvehicleautorallythatonionbrownwreckamused |  
+| bip_39_word_no_space_2 | chatinjury |  
+| bip_39_word_no_space_3 | chatinjuryrisk |  
+| bip_39_word_no_space_4 | chatinjuryriskagain |  
+| bip_39_word_no_space_5 | chatinjuryriskagainvehicle |  
+| bip_39_word_no_space_6 | chatinjuryriskagainvehicleauto |  
+| bip_39_word_no_space_7 | chatinjuryriskagainvehicleautorally |  
+| bip_39_word_no_space_8 | chatinjuryriskagainvehicleautorallythat |  
+| bip_39_word_no_space_9 | chatinjuryriskagainvehicleautorallythatonion |  
 | bip_39_word_space_0 | ['chat', 'injury', 'risk', 'again', 'vehicle', 'auto', 'rally', 'that', 'onion', 'brown', 'wreck', 'amused'] |  
 | bip_39_word_space_1 | chat |  
 | bip_39_word_space_10 | chat injury risk again vehicle auto rally that onion brown |  

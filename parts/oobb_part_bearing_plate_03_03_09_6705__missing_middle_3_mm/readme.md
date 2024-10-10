@@ -122,6 +122,18 @@ august
 define
 mimic
 mercy |  
+| bip_39_word_no_space_1 | away |  
+| bip_39_word_no_space_10 | awaybabyzoosurroundeliteaugustdefinemimicmercyenergy |  
+| bip_39_word_no_space_11 | awaybabyzoosurroundeliteaugustdefinemimicmercyenergymorning |  
+| bip_39_word_no_space_12 | awaybabyzoosurroundeliteaugustdefinemimicmercyenergymorningaccount |  
+| bip_39_word_no_space_2 | awaybaby |  
+| bip_39_word_no_space_3 | awaybabyzoo |  
+| bip_39_word_no_space_4 | awaybabyzoosurround |  
+| bip_39_word_no_space_5 | awaybabyzoosurroundelite |  
+| bip_39_word_no_space_6 | awaybabyzoosurroundeliteaugust |  
+| bip_39_word_no_space_7 | awaybabyzoosurroundeliteaugustdefine |  
+| bip_39_word_no_space_8 | awaybabyzoosurroundeliteaugustdefinemimic |  
+| bip_39_word_no_space_9 | awaybabyzoosurroundeliteaugustdefinemimicmercy |  
 | bip_39_word_space_0 | ['away', 'baby', 'zoo', 'surround', 'elite', 'august', 'define', 'mimic', 'mercy', 'energy', 'morning', 'account'] |  
 | bip_39_word_space_1 | away |  
 | bip_39_word_space_10 | away baby zoo surround elite august define mimic mercy energy |  

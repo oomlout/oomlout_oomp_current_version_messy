@@ -122,6 +122,18 @@ simple
 narrow
 pupil
 library |  
+| bip_39_word_no_space_1 | monitor |  
+| bip_39_word_no_space_10 | monitornephewkiddancecategorysimplenarrowpupillibrarymath |  
+| bip_39_word_no_space_11 | monitornephewkiddancecategorysimplenarrowpupillibrarymathcouch |  
+| bip_39_word_no_space_12 | monitornephewkiddancecategorysimplenarrowpupillibrarymathcouchalone |  
+| bip_39_word_no_space_2 | monitornephew |  
+| bip_39_word_no_space_3 | monitornephewkid |  
+| bip_39_word_no_space_4 | monitornephewkiddance |  
+| bip_39_word_no_space_5 | monitornephewkiddancecategory |  
+| bip_39_word_no_space_6 | monitornephewkiddancecategorysimple |  
+| bip_39_word_no_space_7 | monitornephewkiddancecategorysimplenarrow |  
+| bip_39_word_no_space_8 | monitornephewkiddancecategorysimplenarrowpupil |  
+| bip_39_word_no_space_9 | monitornephewkiddancecategorysimplenarrowpupillibrary |  
 | bip_39_word_space_0 | ['monitor', 'nephew', 'kid', 'dance', 'category', 'simple', 'narrow', 'pupil', 'library', 'math', 'couch', 'alone'] |  
 | bip_39_word_space_1 | monitor |  
 | bip_39_word_space_10 | monitor nephew kid dance category simple narrow pupil library math |  

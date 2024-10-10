@@ -122,6 +122,18 @@ grape
 sunny
 february
 gather |  
+| bip_39_word_no_space_1 | debate |  
+| bip_39_word_no_space_10 | debatedonkeyindoorconnectdiseasegrapesunnyfebruarygatherfarm |  
+| bip_39_word_no_space_11 | debatedonkeyindoorconnectdiseasegrapesunnyfebruarygatherfarmpilot |  
+| bip_39_word_no_space_12 | debatedonkeyindoorconnectdiseasegrapesunnyfebruarygatherfarmpilotaffair |  
+| bip_39_word_no_space_2 | debatedonkey |  
+| bip_39_word_no_space_3 | debatedonkeyindoor |  
+| bip_39_word_no_space_4 | debatedonkeyindoorconnect |  
+| bip_39_word_no_space_5 | debatedonkeyindoorconnectdisease |  
+| bip_39_word_no_space_6 | debatedonkeyindoorconnectdiseasegrape |  
+| bip_39_word_no_space_7 | debatedonkeyindoorconnectdiseasegrapesunny |  
+| bip_39_word_no_space_8 | debatedonkeyindoorconnectdiseasegrapesunnyfebruary |  
+| bip_39_word_no_space_9 | debatedonkeyindoorconnectdiseasegrapesunnyfebruarygather |  
 | bip_39_word_space_0 | ['debate', 'donkey', 'indoor', 'connect', 'disease', 'grape', 'sunny', 'february', 'gather', 'farm', 'pilot', 'affair'] |  
 | bip_39_word_space_1 | debate |  
 | bip_39_word_space_10 | debate donkey indoor connect disease grape sunny february gather farm |  

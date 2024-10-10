@@ -122,6 +122,18 @@ review
 lizard
 lady
 wish |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | codeawayjeansvideoalertreviewlizardladywishbecause |  
+| bip_39_word_no_space_11 | codeawayjeansvideoalertreviewlizardladywishbecausetruth |  
+| bip_39_word_no_space_12 | codeawayjeansvideoalertreviewlizardladywishbecausetruthangry |  
+| bip_39_word_no_space_2 | codeaway |  
+| bip_39_word_no_space_3 | codeawayjeans |  
+| bip_39_word_no_space_4 | codeawayjeansvideo |  
+| bip_39_word_no_space_5 | codeawayjeansvideoalert |  
+| bip_39_word_no_space_6 | codeawayjeansvideoalertreview |  
+| bip_39_word_no_space_7 | codeawayjeansvideoalertreviewlizard |  
+| bip_39_word_no_space_8 | codeawayjeansvideoalertreviewlizardlady |  
+| bip_39_word_no_space_9 | codeawayjeansvideoalertreviewlizardladywish |  
 | bip_39_word_space_0 | ['code', 'away', 'jeans', 'video', 'alert', 'review', 'lizard', 'lady', 'wish', 'because', 'truth', 'angry'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code away jeans video alert review lizard lady wish because |  

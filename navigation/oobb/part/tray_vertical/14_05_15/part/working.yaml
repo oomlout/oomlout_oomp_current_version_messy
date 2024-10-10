@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'job
   swear
 
   benefit'
+bip_39_word_no_space_1: job
+bip_39_word_no_space_10: jobslideuntilartworkarcticmarbleplugswearbenefitvague
+bip_39_word_no_space_11: jobslideuntilartworkarcticmarbleplugswearbenefitvagueseminar
+bip_39_word_no_space_12: jobslideuntilartworkarcticmarbleplugswearbenefitvagueseminaranger
+bip_39_word_no_space_2: jobslide
+bip_39_word_no_space_3: jobslideuntil
+bip_39_word_no_space_4: jobslideuntilartwork
+bip_39_word_no_space_5: jobslideuntilartworkarctic
+bip_39_word_no_space_6: jobslideuntilartworkarcticmarble
+bip_39_word_no_space_7: jobslideuntilartworkarcticmarbleplug
+bip_39_word_no_space_8: jobslideuntilartworkarcticmarbleplugswear
+bip_39_word_no_space_9: jobslideuntilartworkarcticmarbleplugswearbenefit
 bip_39_word_space_0:
 - job
 - slide

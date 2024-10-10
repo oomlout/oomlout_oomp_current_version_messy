@@ -122,6 +122,18 @@ love
 mosquito
 silent
 wait |  
+| bip_39_word_no_space_1 | toilet |  
+| bip_39_word_no_space_10 | toiletsensecigarwhaleaddresslovemosquitosilentwaitfield |  
+| bip_39_word_no_space_11 | toiletsensecigarwhaleaddresslovemosquitosilentwaitfieldknow |  
+| bip_39_word_no_space_12 | toiletsensecigarwhaleaddresslovemosquitosilentwaitfieldknowact |  
+| bip_39_word_no_space_2 | toiletsense |  
+| bip_39_word_no_space_3 | toiletsensecigar |  
+| bip_39_word_no_space_4 | toiletsensecigarwhale |  
+| bip_39_word_no_space_5 | toiletsensecigarwhaleaddress |  
+| bip_39_word_no_space_6 | toiletsensecigarwhaleaddresslove |  
+| bip_39_word_no_space_7 | toiletsensecigarwhaleaddresslovemosquito |  
+| bip_39_word_no_space_8 | toiletsensecigarwhaleaddresslovemosquitosilent |  
+| bip_39_word_no_space_9 | toiletsensecigarwhaleaddresslovemosquitosilentwait |  
 | bip_39_word_space_0 | ['toilet', 'sense', 'cigar', 'whale', 'address', 'love', 'mosquito', 'silent', 'wait', 'field', 'know', 'act'] |  
 | bip_39_word_space_1 | toilet |  
 | bip_39_word_space_10 | toilet sense cigar whale address love mosquito silent wait field |  

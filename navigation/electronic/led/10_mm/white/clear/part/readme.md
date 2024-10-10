@@ -122,6 +122,18 @@ fashion
 area
 smoke
 vessel |  
+| bip_39_word_no_space_1 | ocean |  
+| bip_39_word_no_space_10 | oceanmadprideavoidsymbolfashionareasmokevesseltuition |  
+| bip_39_word_no_space_11 | oceanmadprideavoidsymbolfashionareasmokevesseltuitionleader |  
+| bip_39_word_no_space_12 | oceanmadprideavoidsymbolfashionareasmokevesseltuitionleaderadd |  
+| bip_39_word_no_space_2 | oceanmad |  
+| bip_39_word_no_space_3 | oceanmadpride |  
+| bip_39_word_no_space_4 | oceanmadprideavoid |  
+| bip_39_word_no_space_5 | oceanmadprideavoidsymbol |  
+| bip_39_word_no_space_6 | oceanmadprideavoidsymbolfashion |  
+| bip_39_word_no_space_7 | oceanmadprideavoidsymbolfashionarea |  
+| bip_39_word_no_space_8 | oceanmadprideavoidsymbolfashionareasmoke |  
+| bip_39_word_no_space_9 | oceanmadprideavoidsymbolfashionareasmokevessel |  
 | bip_39_word_space_0 | ['ocean', 'mad', 'pride', 'avoid', 'symbol', 'fashion', 'area', 'smoke', 'vessel', 'tuition', 'leader', 'add'] |  
 | bip_39_word_space_1 | ocean |  
 | bip_39_word_space_10 | ocean mad pride avoid symbol fashion area smoke vessel tuition |  

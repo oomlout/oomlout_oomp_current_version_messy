@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'music
   gentle
 
   drive'
+bip_39_word_no_space_1: music
+bip_39_word_no_space_10: musichybridrunwaycradlenastyrudetypegentledrivehair
+bip_39_word_no_space_11: musichybridrunwaycradlenastyrudetypegentledrivehairimage
+bip_39_word_no_space_12: musichybridrunwaycradlenastyrudetypegentledrivehairimageability
+bip_39_word_no_space_2: musichybrid
+bip_39_word_no_space_3: musichybridrunway
+bip_39_word_no_space_4: musichybridrunwaycradle
+bip_39_word_no_space_5: musichybridrunwaycradlenasty
+bip_39_word_no_space_6: musichybridrunwaycradlenastyrude
+bip_39_word_no_space_7: musichybridrunwaycradlenastyrudetype
+bip_39_word_no_space_8: musichybridrunwaycradlenastyrudetypegentle
+bip_39_word_no_space_9: musichybridrunwaycradlenastyrudetypegentledrive
 bip_39_word_space_0:
 - music
 - hybrid

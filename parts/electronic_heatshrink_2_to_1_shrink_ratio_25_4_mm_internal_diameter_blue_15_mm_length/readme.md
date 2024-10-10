@@ -122,6 +122,18 @@ genuine
 attack
 rare
 three |  
+| bip_39_word_no_space_1 | machine |  
+| bip_39_word_no_space_10 | machinelampdawnarmorsubmitgenuineattackrarethreecountry |  
+| bip_39_word_no_space_11 | machinelampdawnarmorsubmitgenuineattackrarethreecountryblack |  
+| bip_39_word_no_space_12 | machinelampdawnarmorsubmitgenuineattackrarethreecountryblackautumn |  
+| bip_39_word_no_space_2 | machinelamp |  
+| bip_39_word_no_space_3 | machinelampdawn |  
+| bip_39_word_no_space_4 | machinelampdawnarmor |  
+| bip_39_word_no_space_5 | machinelampdawnarmorsubmit |  
+| bip_39_word_no_space_6 | machinelampdawnarmorsubmitgenuine |  
+| bip_39_word_no_space_7 | machinelampdawnarmorsubmitgenuineattack |  
+| bip_39_word_no_space_8 | machinelampdawnarmorsubmitgenuineattackrare |  
+| bip_39_word_no_space_9 | machinelampdawnarmorsubmitgenuineattackrarethree |  
 | bip_39_word_space_0 | ['machine', 'lamp', 'dawn', 'armor', 'submit', 'genuine', 'attack', 'rare', 'three', 'country', 'black', 'autumn'] |  
 | bip_39_word_space_1 | machine |  
 | bip_39_word_space_10 | machine lamp dawn armor submit genuine attack rare three country |  

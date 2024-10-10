@@ -122,6 +122,18 @@ priority
 december
 iron
 affair |  
+| bip_39_word_no_space_1 | stereo |  
+| bip_39_word_no_space_10 | stereodoorsteakhoverlunchprioritydecemberironaffairrice |  
+| bip_39_word_no_space_11 | stereodoorsteakhoverlunchprioritydecemberironaffairricegrain |  
+| bip_39_word_no_space_12 | stereodoorsteakhoverlunchprioritydecemberironaffairricegrainalpha |  
+| bip_39_word_no_space_2 | stereodoor |  
+| bip_39_word_no_space_3 | stereodoorsteak |  
+| bip_39_word_no_space_4 | stereodoorsteakhover |  
+| bip_39_word_no_space_5 | stereodoorsteakhoverlunch |  
+| bip_39_word_no_space_6 | stereodoorsteakhoverlunchpriority |  
+| bip_39_word_no_space_7 | stereodoorsteakhoverlunchprioritydecember |  
+| bip_39_word_no_space_8 | stereodoorsteakhoverlunchprioritydecemberiron |  
+| bip_39_word_no_space_9 | stereodoorsteakhoverlunchprioritydecemberironaffair |  
 | bip_39_word_space_0 | ['stereo', 'door', 'steak', 'hover', 'lunch', 'priority', 'december', 'iron', 'affair', 'rice', 'grain', 'alpha'] |  
 | bip_39_word_space_1 | stereo |  
 | bip_39_word_space_10 | stereo door steak hover lunch priority december iron affair rice |  

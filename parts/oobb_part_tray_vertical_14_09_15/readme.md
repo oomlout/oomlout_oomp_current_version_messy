@@ -122,6 +122,18 @@ prize
 slender
 cube
 length |  
+| bip_39_word_no_space_1 | spray |  
+| bip_39_word_no_space_10 | spraysecurityinputfirmrangeprizeslendercubelengthloop |  
+| bip_39_word_no_space_11 | spraysecurityinputfirmrangeprizeslendercubelengthlooptourist |  
+| bip_39_word_no_space_12 | spraysecurityinputfirmrangeprizeslendercubelengthlooptouristaugust |  
+| bip_39_word_no_space_2 | spraysecurity |  
+| bip_39_word_no_space_3 | spraysecurityinput |  
+| bip_39_word_no_space_4 | spraysecurityinputfirm |  
+| bip_39_word_no_space_5 | spraysecurityinputfirmrange |  
+| bip_39_word_no_space_6 | spraysecurityinputfirmrangeprize |  
+| bip_39_word_no_space_7 | spraysecurityinputfirmrangeprizeslender |  
+| bip_39_word_no_space_8 | spraysecurityinputfirmrangeprizeslendercube |  
+| bip_39_word_no_space_9 | spraysecurityinputfirmrangeprizeslendercubelength |  
 | bip_39_word_space_0 | ['spray', 'security', 'input', 'firm', 'range', 'prize', 'slender', 'cube', 'length', 'loop', 'tourist', 'august'] |  
 | bip_39_word_space_1 | spray |  
 | bip_39_word_space_10 | spray security input firm range prize slender cube length loop |  

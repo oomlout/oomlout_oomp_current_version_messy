@@ -122,6 +122,18 @@ frame
 embody
 rough
 chief |  
+| bip_39_word_no_space_1 | absorb |  
+| bip_39_word_no_space_10 | absorbcenturyreducereviewavoidframeembodyroughchiefover |  
+| bip_39_word_no_space_11 | absorbcenturyreducereviewavoidframeembodyroughchiefoveremerge |  
+| bip_39_word_no_space_12 | absorbcenturyreducereviewavoidframeembodyroughchiefoveremergeaction |  
+| bip_39_word_no_space_2 | absorbcentury |  
+| bip_39_word_no_space_3 | absorbcenturyreduce |  
+| bip_39_word_no_space_4 | absorbcenturyreducereview |  
+| bip_39_word_no_space_5 | absorbcenturyreducereviewavoid |  
+| bip_39_word_no_space_6 | absorbcenturyreducereviewavoidframe |  
+| bip_39_word_no_space_7 | absorbcenturyreducereviewavoidframeembody |  
+| bip_39_word_no_space_8 | absorbcenturyreducereviewavoidframeembodyrough |  
+| bip_39_word_no_space_9 | absorbcenturyreducereviewavoidframeembodyroughchief |  
 | bip_39_word_space_0 | ['absorb', 'century', 'reduce', 'review', 'avoid', 'frame', 'embody', 'rough', 'chief', 'over', 'emerge', 'action'] |  
 | bip_39_word_space_1 | absorb |  
 | bip_39_word_space_10 | absorb century reduce review avoid frame embody rough chief over |  

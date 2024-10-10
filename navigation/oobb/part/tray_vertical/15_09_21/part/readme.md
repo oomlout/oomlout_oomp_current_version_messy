@@ -122,6 +122,18 @@ mouse
 family
 track
 ski |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marbleservicecuteshortdaughtermousefamilytrackskihedgehog |  
+| bip_39_word_no_space_11 | marbleservicecuteshortdaughtermousefamilytrackskihedgehogcousin |  
+| bip_39_word_no_space_12 | marbleservicecuteshortdaughtermousefamilytrackskihedgehogcousinantique |  
+| bip_39_word_no_space_2 | marbleservice |  
+| bip_39_word_no_space_3 | marbleservicecute |  
+| bip_39_word_no_space_4 | marbleservicecuteshort |  
+| bip_39_word_no_space_5 | marbleservicecuteshortdaughter |  
+| bip_39_word_no_space_6 | marbleservicecuteshortdaughtermouse |  
+| bip_39_word_no_space_7 | marbleservicecuteshortdaughtermousefamily |  
+| bip_39_word_no_space_8 | marbleservicecuteshortdaughtermousefamilytrack |  
+| bip_39_word_no_space_9 | marbleservicecuteshortdaughtermousefamilytrackski |  
 | bip_39_word_space_0 | ['marble', 'service', 'cute', 'short', 'daughter', 'mouse', 'family', 'track', 'ski', 'hedgehog', 'cousin', 'antique'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble service cute short daughter mouse family track ski hedgehog |  

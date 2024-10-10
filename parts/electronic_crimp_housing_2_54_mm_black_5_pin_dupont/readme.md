@@ -122,6 +122,18 @@ loan
 cruel
 foam
 grunt |  
+| bip_39_word_no_space_1 | arrive |  
+| bip_39_word_no_space_10 | arriveerodesaladgamemissloancruelfoamgruntfoster |  
+| bip_39_word_no_space_11 | arriveerodesaladgamemissloancruelfoamgruntfosteradjust |  
+| bip_39_word_no_space_12 | arriveerodesaladgamemissloancruelfoamgruntfosteradjustacid |  
+| bip_39_word_no_space_2 | arriveerode |  
+| bip_39_word_no_space_3 | arriveerodesalad |  
+| bip_39_word_no_space_4 | arriveerodesaladgame |  
+| bip_39_word_no_space_5 | arriveerodesaladgamemiss |  
+| bip_39_word_no_space_6 | arriveerodesaladgamemissloan |  
+| bip_39_word_no_space_7 | arriveerodesaladgamemissloancruel |  
+| bip_39_word_no_space_8 | arriveerodesaladgamemissloancruelfoam |  
+| bip_39_word_no_space_9 | arriveerodesaladgamemissloancruelfoamgrunt |  
 | bip_39_word_space_0 | ['arrive', 'erode', 'salad', 'game', 'miss', 'loan', 'cruel', 'foam', 'grunt', 'foster', 'adjust', 'acid'] |  
 | bip_39_word_space_1 | arrive |  
 | bip_39_word_space_10 | arrive erode salad game miss loan cruel foam grunt foster |  

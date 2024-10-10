@@ -122,6 +122,18 @@ random
 choose
 must
 notice |  
+| bip_39_word_no_space_1 | minor |  
+| bip_39_word_no_space_10 | minorlimittotalhumblelegendrandomchoosemustnoticeuseful |  
+| bip_39_word_no_space_11 | minorlimittotalhumblelegendrandomchoosemustnoticeusefulerosion |  
+| bip_39_word_no_space_12 | minorlimittotalhumblelegendrandomchoosemustnoticeusefulerosionannual |  
+| bip_39_word_no_space_2 | minorlimit |  
+| bip_39_word_no_space_3 | minorlimittotal |  
+| bip_39_word_no_space_4 | minorlimittotalhumble |  
+| bip_39_word_no_space_5 | minorlimittotalhumblelegend |  
+| bip_39_word_no_space_6 | minorlimittotalhumblelegendrandom |  
+| bip_39_word_no_space_7 | minorlimittotalhumblelegendrandomchoose |  
+| bip_39_word_no_space_8 | minorlimittotalhumblelegendrandomchoosemust |  
+| bip_39_word_no_space_9 | minorlimittotalhumblelegendrandomchoosemustnotice |  
 | bip_39_word_space_0 | ['minor', 'limit', 'total', 'humble', 'legend', 'random', 'choose', 'must', 'notice', 'useful', 'erosion', 'annual'] |  
 | bip_39_word_space_1 | minor |  
 | bip_39_word_space_10 | minor limit total humble legend random choose must notice useful |  

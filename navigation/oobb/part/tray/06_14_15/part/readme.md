@@ -122,6 +122,18 @@ pony
 badge
 almost
 push |  
+| bip_39_word_no_space_1 | rack |  
+| bip_39_word_no_space_10 | rackcountryrubberinputjourneyponybadgealmostpushchuckle |  
+| bip_39_word_no_space_11 | rackcountryrubberinputjourneyponybadgealmostpushchuckleamount |  
+| bip_39_word_no_space_12 | rackcountryrubberinputjourneyponybadgealmostpushchuckleamountapart |  
+| bip_39_word_no_space_2 | rackcountry |  
+| bip_39_word_no_space_3 | rackcountryrubber |  
+| bip_39_word_no_space_4 | rackcountryrubberinput |  
+| bip_39_word_no_space_5 | rackcountryrubberinputjourney |  
+| bip_39_word_no_space_6 | rackcountryrubberinputjourneypony |  
+| bip_39_word_no_space_7 | rackcountryrubberinputjourneyponybadge |  
+| bip_39_word_no_space_8 | rackcountryrubberinputjourneyponybadgealmost |  
+| bip_39_word_no_space_9 | rackcountryrubberinputjourneyponybadgealmostpush |  
 | bip_39_word_space_0 | ['rack', 'country', 'rubber', 'input', 'journey', 'pony', 'badge', 'almost', 'push', 'chuckle', 'amount', 'apart'] |  
 | bip_39_word_space_1 | rack |  
 | bip_39_word_space_10 | rack country rubber input journey pony badge almost push chuckle |  

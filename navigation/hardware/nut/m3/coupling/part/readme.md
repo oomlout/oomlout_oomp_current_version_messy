@@ -122,6 +122,18 @@ other
 mushroom
 captain
 atom |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeyribturkeyprofittogetherothermushroomcaptainatomharvest |  
+| bip_39_word_no_space_11 | monkeyribturkeyprofittogetherothermushroomcaptainatomharvestkidney |  
+| bip_39_word_no_space_12 | monkeyribturkeyprofittogetherothermushroomcaptainatomharvestkidneyabsorb |  
+| bip_39_word_no_space_2 | monkeyrib |  
+| bip_39_word_no_space_3 | monkeyribturkey |  
+| bip_39_word_no_space_4 | monkeyribturkeyprofit |  
+| bip_39_word_no_space_5 | monkeyribturkeyprofittogether |  
+| bip_39_word_no_space_6 | monkeyribturkeyprofittogetherother |  
+| bip_39_word_no_space_7 | monkeyribturkeyprofittogetherothermushroom |  
+| bip_39_word_no_space_8 | monkeyribturkeyprofittogetherothermushroomcaptain |  
+| bip_39_word_no_space_9 | monkeyribturkeyprofittogetherothermushroomcaptainatom |  
 | bip_39_word_space_0 | ['monkey', 'rib', 'turkey', 'profit', 'together', 'other', 'mushroom', 'captain', 'atom', 'harvest', 'kidney', 'absorb'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey rib turkey profit together other mushroom captain atom harvest |  

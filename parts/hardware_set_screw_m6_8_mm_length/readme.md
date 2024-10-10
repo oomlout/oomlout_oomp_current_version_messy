@@ -122,6 +122,18 @@ trophy
 roof
 top
 guard |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printscissorsenlistartworkmovetrophyrooftopguardgospel |  
+| bip_39_word_no_space_11 | printscissorsenlistartworkmovetrophyrooftopguardgospelwest |  
+| bip_39_word_no_space_12 | printscissorsenlistartworkmovetrophyrooftopguardgospelwestact |  
+| bip_39_word_no_space_2 | printscissors |  
+| bip_39_word_no_space_3 | printscissorsenlist |  
+| bip_39_word_no_space_4 | printscissorsenlistartwork |  
+| bip_39_word_no_space_5 | printscissorsenlistartworkmove |  
+| bip_39_word_no_space_6 | printscissorsenlistartworkmovetrophy |  
+| bip_39_word_no_space_7 | printscissorsenlistartworkmovetrophyroof |  
+| bip_39_word_no_space_8 | printscissorsenlistartworkmovetrophyrooftop |  
+| bip_39_word_no_space_9 | printscissorsenlistartworkmovetrophyrooftopguard |  
 | bip_39_word_space_0 | ['print', 'scissors', 'enlist', 'artwork', 'move', 'trophy', 'roof', 'top', 'guard', 'gospel', 'west', 'act'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print scissors enlist artwork move trophy roof top guard gospel |  

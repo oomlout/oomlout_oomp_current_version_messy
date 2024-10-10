@@ -122,6 +122,18 @@ upgrade
 confirm
 crystal
 endorse |  
+| bip_39_word_no_space_1 | below |  
+| bip_39_word_no_space_10 | belowislandexistwindowsnowupgradeconfirmcrystalendorsebanner |  
+| bip_39_word_no_space_11 | belowislandexistwindowsnowupgradeconfirmcrystalendorsebannermirror |  
+| bip_39_word_no_space_12 | belowislandexistwindowsnowupgradeconfirmcrystalendorsebannermirroralways |  
+| bip_39_word_no_space_2 | belowisland |  
+| bip_39_word_no_space_3 | belowislandexist |  
+| bip_39_word_no_space_4 | belowislandexistwindow |  
+| bip_39_word_no_space_5 | belowislandexistwindowsnow |  
+| bip_39_word_no_space_6 | belowislandexistwindowsnowupgrade |  
+| bip_39_word_no_space_7 | belowislandexistwindowsnowupgradeconfirm |  
+| bip_39_word_no_space_8 | belowislandexistwindowsnowupgradeconfirmcrystal |  
+| bip_39_word_no_space_9 | belowislandexistwindowsnowupgradeconfirmcrystalendorse |  
 | bip_39_word_space_0 | ['below', 'island', 'exist', 'window', 'snow', 'upgrade', 'confirm', 'crystal', 'endorse', 'banner', 'mirror', 'always'] |  
 | bip_39_word_space_1 | below |  
 | bip_39_word_space_10 | below island exist window snow upgrade confirm crystal endorse banner |  

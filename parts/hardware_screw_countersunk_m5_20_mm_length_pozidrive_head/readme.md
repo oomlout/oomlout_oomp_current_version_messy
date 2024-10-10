@@ -122,6 +122,18 @@ this
 cruel
 duck
 early |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenbetterhundredemptybenefitthiscruelduckearlylesson |  
+| bip_39_word_no_space_11 | citizenbetterhundredemptybenefitthiscruelduckearlylessonfalse |  
+| bip_39_word_no_space_12 | citizenbetterhundredemptybenefitthiscruelduckearlylessonfalsealmost |  
+| bip_39_word_no_space_2 | citizenbetter |  
+| bip_39_word_no_space_3 | citizenbetterhundred |  
+| bip_39_word_no_space_4 | citizenbetterhundredempty |  
+| bip_39_word_no_space_5 | citizenbetterhundredemptybenefit |  
+| bip_39_word_no_space_6 | citizenbetterhundredemptybenefitthis |  
+| bip_39_word_no_space_7 | citizenbetterhundredemptybenefitthiscruel |  
+| bip_39_word_no_space_8 | citizenbetterhundredemptybenefitthiscruelduck |  
+| bip_39_word_no_space_9 | citizenbetterhundredemptybenefitthiscruelduckearly |  
 | bip_39_word_space_0 | ['citizen', 'better', 'hundred', 'empty', 'benefit', 'this', 'cruel', 'duck', 'early', 'lesson', 'false', 'almost'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen better hundred empty benefit this cruel duck early lesson |  

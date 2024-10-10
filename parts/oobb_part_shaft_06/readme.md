@@ -122,6 +122,18 @@ limit
 length
 rice
 oxygen |  
+| bip_39_word_no_space_1 | echo |  
+| bip_39_word_no_space_10 | echocabinwealthreplacemonsterlimitlengthriceoxygentreat |  
+| bip_39_word_no_space_11 | echocabinwealthreplacemonsterlimitlengthriceoxygentreatill |  
+| bip_39_word_no_space_12 | echocabinwealthreplacemonsterlimitlengthriceoxygentreatillaction |  
+| bip_39_word_no_space_2 | echocabin |  
+| bip_39_word_no_space_3 | echocabinwealth |  
+| bip_39_word_no_space_4 | echocabinwealthreplace |  
+| bip_39_word_no_space_5 | echocabinwealthreplacemonster |  
+| bip_39_word_no_space_6 | echocabinwealthreplacemonsterlimit |  
+| bip_39_word_no_space_7 | echocabinwealthreplacemonsterlimitlength |  
+| bip_39_word_no_space_8 | echocabinwealthreplacemonsterlimitlengthrice |  
+| bip_39_word_no_space_9 | echocabinwealthreplacemonsterlimitlengthriceoxygen |  
 | bip_39_word_space_0 | ['echo', 'cabin', 'wealth', 'replace', 'monster', 'limit', 'length', 'rice', 'oxygen', 'treat', 'ill', 'action'] |  
 | bip_39_word_space_1 | echo |  
 | bip_39_word_space_10 | echo cabin wealth replace monster limit length rice oxygen treat |  

@@ -122,6 +122,18 @@ ripple
 range
 able
 ship |  
+| bip_39_word_no_space_1 | quit |  
+| bip_39_word_no_space_10 | quitarenamansiongamefabricripplerangeableshipmarriage |  
+| bip_39_word_no_space_11 | quitarenamansiongamefabricripplerangeableshipmarriageenact |  
+| bip_39_word_no_space_12 | quitarenamansiongamefabricripplerangeableshipmarriageenactallow |  
+| bip_39_word_no_space_2 | quitarena |  
+| bip_39_word_no_space_3 | quitarenamansion |  
+| bip_39_word_no_space_4 | quitarenamansiongame |  
+| bip_39_word_no_space_5 | quitarenamansiongamefabric |  
+| bip_39_word_no_space_6 | quitarenamansiongamefabricripple |  
+| bip_39_word_no_space_7 | quitarenamansiongamefabricripplerange |  
+| bip_39_word_no_space_8 | quitarenamansiongamefabricripplerangeable |  
+| bip_39_word_no_space_9 | quitarenamansiongamefabricripplerangeableship |  
 | bip_39_word_space_0 | ['quit', 'arena', 'mansion', 'game', 'fabric', 'ripple', 'range', 'able', 'ship', 'marriage', 'enact', 'allow'] |  
 | bip_39_word_space_1 | quit |  
 | bip_39_word_space_10 | quit arena mansion game fabric ripple range able ship marriage |  

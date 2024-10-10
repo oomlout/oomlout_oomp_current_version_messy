@@ -122,6 +122,18 @@ jungle
 step
 road
 afraid |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validawesomevisitexpresssugarjunglesteproadafraidmuseum |  
+| bip_39_word_no_space_11 | validawesomevisitexpresssugarjunglesteproadafraidmuseumapril |  
+| bip_39_word_no_space_12 | validawesomevisitexpresssugarjunglesteproadafraidmuseumapriladd |  
+| bip_39_word_no_space_2 | validawesome |  
+| bip_39_word_no_space_3 | validawesomevisit |  
+| bip_39_word_no_space_4 | validawesomevisitexpress |  
+| bip_39_word_no_space_5 | validawesomevisitexpresssugar |  
+| bip_39_word_no_space_6 | validawesomevisitexpresssugarjungle |  
+| bip_39_word_no_space_7 | validawesomevisitexpresssugarjunglestep |  
+| bip_39_word_no_space_8 | validawesomevisitexpresssugarjunglesteproad |  
+| bip_39_word_no_space_9 | validawesomevisitexpresssugarjunglesteproadafraid |  
 | bip_39_word_space_0 | ['valid', 'awesome', 'visit', 'express', 'sugar', 'jungle', 'step', 'road', 'afraid', 'museum', 'april', 'add'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid awesome visit express sugar jungle step road afraid museum |  

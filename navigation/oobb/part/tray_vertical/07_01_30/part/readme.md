@@ -122,6 +122,18 @@ trend
 short
 thing
 debris |  
+| bip_39_word_no_space_1 | leave |  
+| bip_39_word_no_space_10 | leavevaguemodifyphysicalfetchtrendshortthingdebrisover |  
+| bip_39_word_no_space_11 | leavevaguemodifyphysicalfetchtrendshortthingdebrisovervote |  
+| bip_39_word_no_space_12 | leavevaguemodifyphysicalfetchtrendshortthingdebrisovervotealien |  
+| bip_39_word_no_space_2 | leavevague |  
+| bip_39_word_no_space_3 | leavevaguemodify |  
+| bip_39_word_no_space_4 | leavevaguemodifyphysical |  
+| bip_39_word_no_space_5 | leavevaguemodifyphysicalfetch |  
+| bip_39_word_no_space_6 | leavevaguemodifyphysicalfetchtrend |  
+| bip_39_word_no_space_7 | leavevaguemodifyphysicalfetchtrendshort |  
+| bip_39_word_no_space_8 | leavevaguemodifyphysicalfetchtrendshortthing |  
+| bip_39_word_no_space_9 | leavevaguemodifyphysicalfetchtrendshortthingdebris |  
 | bip_39_word_space_0 | ['leave', 'vague', 'modify', 'physical', 'fetch', 'trend', 'short', 'thing', 'debris', 'over', 'vote', 'alien'] |  
 | bip_39_word_space_1 | leave |  
 | bip_39_word_space_10 | leave vague modify physical fetch trend short thing debris over |  

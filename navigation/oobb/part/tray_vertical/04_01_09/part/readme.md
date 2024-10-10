@@ -122,6 +122,18 @@ mushroom
 decorate
 awful
 pistol |  
+| bip_39_word_no_space_1 | deputy |  
+| bip_39_word_no_space_10 | deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbanana |  
+| bip_39_word_no_space_11 | deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbananastage |  
+| bip_39_word_no_space_12 | deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbananastageamount |  
+| bip_39_word_no_space_2 | deputyimpact |  
+| bip_39_word_no_space_3 | deputyimpactsuper |  
+| bip_39_word_no_space_4 | deputyimpactsuperscience |  
+| bip_39_word_no_space_5 | deputyimpactsupersciencevibrant |  
+| bip_39_word_no_space_6 | deputyimpactsupersciencevibrantmushroom |  
+| bip_39_word_no_space_7 | deputyimpactsupersciencevibrantmushroomdecorate |  
+| bip_39_word_no_space_8 | deputyimpactsupersciencevibrantmushroomdecorateawful |  
+| bip_39_word_no_space_9 | deputyimpactsupersciencevibrantmushroomdecorateawfulpistol |  
 | bip_39_word_space_0 | ['deputy', 'impact', 'super', 'science', 'vibrant', 'mushroom', 'decorate', 'awful', 'pistol', 'banana', 'stage', 'amount'] |  
 | bip_39_word_space_1 | deputy |  
 | bip_39_word_space_10 | deputy impact super science vibrant mushroom decorate awful pistol banana |  

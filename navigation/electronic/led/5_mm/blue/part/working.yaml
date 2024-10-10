@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ankle
   prosper
 
   menu'
+bip_39_word_no_space_1: ankle
+bip_39_word_no_space_10: anklefrogheighttrumpetcarbonsolvepandaprospermenuafford
+bip_39_word_no_space_11: anklefrogheighttrumpetcarbonsolvepandaprospermenuaffordboss
+bip_39_word_no_space_12: anklefrogheighttrumpetcarbonsolvepandaprospermenuaffordbossartefact
+bip_39_word_no_space_2: anklefrog
+bip_39_word_no_space_3: anklefrogheight
+bip_39_word_no_space_4: anklefrogheighttrumpet
+bip_39_word_no_space_5: anklefrogheighttrumpetcarbon
+bip_39_word_no_space_6: anklefrogheighttrumpetcarbonsolve
+bip_39_word_no_space_7: anklefrogheighttrumpetcarbonsolvepanda
+bip_39_word_no_space_8: anklefrogheighttrumpetcarbonsolvepandaprosper
+bip_39_word_no_space_9: anklefrogheighttrumpetcarbonsolvepandaprospermenu
 bip_39_word_space_0:
 - ankle
 - frog

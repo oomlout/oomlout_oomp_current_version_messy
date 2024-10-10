@@ -122,6 +122,18 @@ pear
 float
 unit
 brother |  
+| bip_39_word_no_space_1 | ridge |  
+| bip_39_word_no_space_10 | ridgehoverdraftgigglesteppearfloatunitbrotherwild |  
+| bip_39_word_no_space_11 | ridgehoverdraftgigglesteppearfloatunitbrotherwildclap |  
+| bip_39_word_no_space_12 | ridgehoverdraftgigglesteppearfloatunitbrotherwildclaparmy |  
+| bip_39_word_no_space_2 | ridgehover |  
+| bip_39_word_no_space_3 | ridgehoverdraft |  
+| bip_39_word_no_space_4 | ridgehoverdraftgiggle |  
+| bip_39_word_no_space_5 | ridgehoverdraftgigglestep |  
+| bip_39_word_no_space_6 | ridgehoverdraftgigglesteppear |  
+| bip_39_word_no_space_7 | ridgehoverdraftgigglesteppearfloat |  
+| bip_39_word_no_space_8 | ridgehoverdraftgigglesteppearfloatunit |  
+| bip_39_word_no_space_9 | ridgehoverdraftgigglesteppearfloatunitbrother |  
 | bip_39_word_space_0 | ['ridge', 'hover', 'draft', 'giggle', 'step', 'pear', 'float', 'unit', 'brother', 'wild', 'clap', 'army'] |  
 | bip_39_word_space_1 | ridge |  
 | bip_39_word_space_10 | ridge hover draft giggle step pear float unit brother wild |  

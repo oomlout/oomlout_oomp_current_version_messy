@@ -122,6 +122,18 @@ illness
 fly
 assume
 put |  
+| bip_39_word_no_space_1 | cycle |  
+| bip_39_word_no_space_10 | cyclesituatearmorpovertyimpactillnessflyassumeputbenefit |  
+| bip_39_word_no_space_11 | cyclesituatearmorpovertyimpactillnessflyassumeputbenefitskirt |  
+| bip_39_word_no_space_12 | cyclesituatearmorpovertyimpactillnessflyassumeputbenefitskirtahead |  
+| bip_39_word_no_space_2 | cyclesituate |  
+| bip_39_word_no_space_3 | cyclesituatearmor |  
+| bip_39_word_no_space_4 | cyclesituatearmorpoverty |  
+| bip_39_word_no_space_5 | cyclesituatearmorpovertyimpact |  
+| bip_39_word_no_space_6 | cyclesituatearmorpovertyimpactillness |  
+| bip_39_word_no_space_7 | cyclesituatearmorpovertyimpactillnessfly |  
+| bip_39_word_no_space_8 | cyclesituatearmorpovertyimpactillnessflyassume |  
+| bip_39_word_no_space_9 | cyclesituatearmorpovertyimpactillnessflyassumeput |  
 | bip_39_word_space_0 | ['cycle', 'situate', 'armor', 'poverty', 'impact', 'illness', 'fly', 'assume', 'put', 'benefit', 'skirt', 'ahead'] |  
 | bip_39_word_space_1 | cycle |  
 | bip_39_word_space_10 | cycle situate armor poverty impact illness fly assume put benefit |  

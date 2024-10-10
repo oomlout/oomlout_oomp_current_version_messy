@@ -122,6 +122,18 @@ simple
 measure
 music
 increase |  
+| bip_39_word_no_space_1 | satoshi |  
+| bip_39_word_no_space_10 | satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushion |  
+| bip_39_word_no_space_11 | satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushionscout |  
+| bip_39_word_no_space_12 | satoshimethodoutdoorstingviablesimplemeasuremusicincreasecushionscoutaffair |  
+| bip_39_word_no_space_2 | satoshimethod |  
+| bip_39_word_no_space_3 | satoshimethodoutdoor |  
+| bip_39_word_no_space_4 | satoshimethodoutdoorsting |  
+| bip_39_word_no_space_5 | satoshimethodoutdoorstingviable |  
+| bip_39_word_no_space_6 | satoshimethodoutdoorstingviablesimple |  
+| bip_39_word_no_space_7 | satoshimethodoutdoorstingviablesimplemeasure |  
+| bip_39_word_no_space_8 | satoshimethodoutdoorstingviablesimplemeasuremusic |  
+| bip_39_word_no_space_9 | satoshimethodoutdoorstingviablesimplemeasuremusicincrease |  
 | bip_39_word_space_0 | ['satoshi', 'method', 'outdoor', 'sting', 'viable', 'simple', 'measure', 'music', 'increase', 'cushion', 'scout', 'affair'] |  
 | bip_39_word_space_1 | satoshi |  
 | bip_39_word_space_10 | satoshi method outdoor sting viable simple measure music increase cushion |  

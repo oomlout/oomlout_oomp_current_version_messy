@@ -122,6 +122,18 @@ mutual
 swim
 spend
 bitter |  
+| bip_39_word_no_space_1 | expand |  
+| bip_39_word_no_space_10 | expandpigeonlistnurseobligemutualswimspendbitterunit |  
+| bip_39_word_no_space_11 | expandpigeonlistnurseobligemutualswimspendbitterunitcredit |  
+| bip_39_word_no_space_12 | expandpigeonlistnurseobligemutualswimspendbitterunitcreditactress |  
+| bip_39_word_no_space_2 | expandpigeon |  
+| bip_39_word_no_space_3 | expandpigeonlist |  
+| bip_39_word_no_space_4 | expandpigeonlistnurse |  
+| bip_39_word_no_space_5 | expandpigeonlistnurseoblige |  
+| bip_39_word_no_space_6 | expandpigeonlistnurseobligemutual |  
+| bip_39_word_no_space_7 | expandpigeonlistnurseobligemutualswim |  
+| bip_39_word_no_space_8 | expandpigeonlistnurseobligemutualswimspend |  
+| bip_39_word_no_space_9 | expandpigeonlistnurseobligemutualswimspendbitter |  
 | bip_39_word_space_0 | ['expand', 'pigeon', 'list', 'nurse', 'oblige', 'mutual', 'swim', 'spend', 'bitter', 'unit', 'credit', 'actress'] |  
 | bip_39_word_space_1 | expand |  
 | bip_39_word_space_10 | expand pigeon list nurse oblige mutual swim spend bitter unit |  

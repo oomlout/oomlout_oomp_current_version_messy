@@ -122,6 +122,18 @@ dragon
 scale
 choose
 arch |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicaprilclimbpaymentinvolvedragonscalechoosearchsketch |  
+| bip_39_word_no_space_11 | picnicaprilclimbpaymentinvolvedragonscalechoosearchsketchcradle |  
+| bip_39_word_no_space_12 | picnicaprilclimbpaymentinvolvedragonscalechoosearchsketchcradlearmor |  
+| bip_39_word_no_space_2 | picnicapril |  
+| bip_39_word_no_space_3 | picnicaprilclimb |  
+| bip_39_word_no_space_4 | picnicaprilclimbpayment |  
+| bip_39_word_no_space_5 | picnicaprilclimbpaymentinvolve |  
+| bip_39_word_no_space_6 | picnicaprilclimbpaymentinvolvedragon |  
+| bip_39_word_no_space_7 | picnicaprilclimbpaymentinvolvedragonscale |  
+| bip_39_word_no_space_8 | picnicaprilclimbpaymentinvolvedragonscalechoose |  
+| bip_39_word_no_space_9 | picnicaprilclimbpaymentinvolvedragonscalechoosearch |  
 | bip_39_word_space_0 | ['picnic', 'april', 'climb', 'payment', 'involve', 'dragon', 'scale', 'choose', 'arch', 'sketch', 'cradle', 'armor'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic april climb payment involve dragon scale choose arch sketch |  

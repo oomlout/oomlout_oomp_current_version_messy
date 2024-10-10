@@ -122,6 +122,18 @@ advance
 grow
 lounge
 access |  
+| bip_39_word_no_space_1 | purpose |  
+| bip_39_word_no_space_10 | purposelampstagenormalgladadvancegrowloungeaccesscarry |  
+| bip_39_word_no_space_11 | purposelampstagenormalgladadvancegrowloungeaccesscarryfaint |  
+| bip_39_word_no_space_12 | purposelampstagenormalgladadvancegrowloungeaccesscarryfaintartefact |  
+| bip_39_word_no_space_2 | purposelamp |  
+| bip_39_word_no_space_3 | purposelampstage |  
+| bip_39_word_no_space_4 | purposelampstagenormal |  
+| bip_39_word_no_space_5 | purposelampstagenormalglad |  
+| bip_39_word_no_space_6 | purposelampstagenormalgladadvance |  
+| bip_39_word_no_space_7 | purposelampstagenormalgladadvancegrow |  
+| bip_39_word_no_space_8 | purposelampstagenormalgladadvancegrowlounge |  
+| bip_39_word_no_space_9 | purposelampstagenormalgladadvancegrowloungeaccess |  
 | bip_39_word_space_0 | ['purpose', 'lamp', 'stage', 'normal', 'glad', 'advance', 'grow', 'lounge', 'access', 'carry', 'faint', 'artefact'] |  
 | bip_39_word_space_1 | purpose |  
 | bip_39_word_space_10 | purpose lamp stage normal glad advance grow lounge access carry |  

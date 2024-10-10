@@ -122,6 +122,18 @@ power
 grape
 mesh
 indoor |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armawfulabstractbrightdenypowergrapemeshindoorbonus |  
+| bip_39_word_no_space_11 | armawfulabstractbrightdenypowergrapemeshindoorbonusgarden |  
+| bip_39_word_no_space_12 | armawfulabstractbrightdenypowergrapemeshindoorbonusgardenarrow |  
+| bip_39_word_no_space_2 | armawful |  
+| bip_39_word_no_space_3 | armawfulabstract |  
+| bip_39_word_no_space_4 | armawfulabstractbright |  
+| bip_39_word_no_space_5 | armawfulabstractbrightdeny |  
+| bip_39_word_no_space_6 | armawfulabstractbrightdenypower |  
+| bip_39_word_no_space_7 | armawfulabstractbrightdenypowergrape |  
+| bip_39_word_no_space_8 | armawfulabstractbrightdenypowergrapemesh |  
+| bip_39_word_no_space_9 | armawfulabstractbrightdenypowergrapemeshindoor |  
 | bip_39_word_space_0 | ['arm', 'awful', 'abstract', 'bright', 'deny', 'power', 'grape', 'mesh', 'indoor', 'bonus', 'garden', 'arrow'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm awful abstract bright deny power grape mesh indoor bonus |  

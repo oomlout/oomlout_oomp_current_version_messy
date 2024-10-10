@@ -122,6 +122,18 @@ ensure
 nature
 maximum
 install |  
+| bip_39_word_no_space_1 | neither |  
+| bip_39_word_no_space_10 | neithercasinolegendliardonkeyensurenaturemaximuminstallconduct |  
+| bip_39_word_no_space_11 | neithercasinolegendliardonkeyensurenaturemaximuminstallconductbanner |  
+| bip_39_word_no_space_12 | neithercasinolegendliardonkeyensurenaturemaximuminstallconductbannerabove |  
+| bip_39_word_no_space_2 | neithercasino |  
+| bip_39_word_no_space_3 | neithercasinolegend |  
+| bip_39_word_no_space_4 | neithercasinolegendliar |  
+| bip_39_word_no_space_5 | neithercasinolegendliardonkey |  
+| bip_39_word_no_space_6 | neithercasinolegendliardonkeyensure |  
+| bip_39_word_no_space_7 | neithercasinolegendliardonkeyensurenature |  
+| bip_39_word_no_space_8 | neithercasinolegendliardonkeyensurenaturemaximum |  
+| bip_39_word_no_space_9 | neithercasinolegendliardonkeyensurenaturemaximuminstall |  
 | bip_39_word_space_0 | ['neither', 'casino', 'legend', 'liar', 'donkey', 'ensure', 'nature', 'maximum', 'install', 'conduct', 'banner', 'above'] |  
 | bip_39_word_space_1 | neither |  
 | bip_39_word_space_10 | neither casino legend liar donkey ensure nature maximum install conduct |  

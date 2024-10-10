@@ -109,6 +109,17 @@ eyebrow
 journey
 human
 hockey |  
+| bip_39_word_no_space_1 | mammal |  
+| bip_39_word_no_space_10 | mammalautumnkeyburgeramateureyebrowjourneyhumanhockeyforest |  
+| bip_39_word_no_space_11 | mammalautumnkeyburgeramateureyebrowjourneyhumanhockeyforestchaos |  
+| bip_39_word_no_space_2 | mammalautumn |  
+| bip_39_word_no_space_3 | mammalautumnkey |  
+| bip_39_word_no_space_4 | mammalautumnkeyburger |  
+| bip_39_word_no_space_5 | mammalautumnkeyburgeramateur |  
+| bip_39_word_no_space_6 | mammalautumnkeyburgeramateureyebrow |  
+| bip_39_word_no_space_7 | mammalautumnkeyburgeramateureyebrowjourney |  
+| bip_39_word_no_space_8 | mammalautumnkeyburgeramateureyebrowjourneyhuman |  
+| bip_39_word_no_space_9 | mammalautumnkeyburgeramateureyebrowjourneyhumanhockey |  
 | bip_39_word_space_0 | ['mammal', 'autumn', 'key', 'burger', 'amateur', 'eyebrow', 'journey', 'human', 'hockey', 'forest', 'chaos'] |  
 | bip_39_word_space_1 | mammal |  
 | bip_39_word_space_10 | mammal autumn key burger amateur eyebrow journey human hockey forest |  

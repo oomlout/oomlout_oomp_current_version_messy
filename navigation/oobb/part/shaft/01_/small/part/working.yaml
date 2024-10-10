@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'usage
   cause
 
   dignity'
+bip_39_word_no_space_1: usage
+bip_39_word_no_space_10: usageeyepointequipseriesmonsterstoolcausedignityswitch
+bip_39_word_no_space_11: usageeyepointequipseriesmonsterstoolcausedignityswitchsock
+bip_39_word_no_space_12: usageeyepointequipseriesmonsterstoolcausedignityswitchsockairport
+bip_39_word_no_space_2: usageeye
+bip_39_word_no_space_3: usageeyepoint
+bip_39_word_no_space_4: usageeyepointequip
+bip_39_word_no_space_5: usageeyepointequipseries
+bip_39_word_no_space_6: usageeyepointequipseriesmonster
+bip_39_word_no_space_7: usageeyepointequipseriesmonsterstool
+bip_39_word_no_space_8: usageeyepointequipseriesmonsterstoolcause
+bip_39_word_no_space_9: usageeyepointequipseriesmonsterstoolcausedignity
 bip_39_word_space_0:
 - usage
 - eye

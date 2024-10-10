@@ -122,6 +122,18 @@ stable
 second
 various
 ostrich |  
+| bip_39_word_no_space_1 | diamond |  
+| bip_39_word_no_space_10 | diamondenterborrowswamphoststablesecondvariousostrichpatient |  
+| bip_39_word_no_space_11 | diamondenterborrowswamphoststablesecondvariousostrichpatientactual |  
+| bip_39_word_no_space_12 | diamondenterborrowswamphoststablesecondvariousostrichpatientactualalert |  
+| bip_39_word_no_space_2 | diamondenter |  
+| bip_39_word_no_space_3 | diamondenterborrow |  
+| bip_39_word_no_space_4 | diamondenterborrowswamp |  
+| bip_39_word_no_space_5 | diamondenterborrowswamphost |  
+| bip_39_word_no_space_6 | diamondenterborrowswamphoststable |  
+| bip_39_word_no_space_7 | diamondenterborrowswamphoststablesecond |  
+| bip_39_word_no_space_8 | diamondenterborrowswamphoststablesecondvarious |  
+| bip_39_word_no_space_9 | diamondenterborrowswamphoststablesecondvariousostrich |  
 | bip_39_word_space_0 | ['diamond', 'enter', 'borrow', 'swamp', 'host', 'stable', 'second', 'various', 'ostrich', 'patient', 'actual', 'alert'] |  
 | bip_39_word_space_1 | diamond |  
 | bip_39_word_space_10 | diamond enter borrow swamp host stable second various ostrich patient |  

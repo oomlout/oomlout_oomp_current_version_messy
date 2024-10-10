@@ -122,6 +122,18 @@ member
 expose
 myth
 federal |  
+| bip_39_word_no_space_1 | blood |  
+| bip_39_word_no_space_10 | bloodwaitimposeartworkillegalmemberexposemythfederalgreat |  
+| bip_39_word_no_space_11 | bloodwaitimposeartworkillegalmemberexposemythfederalgreatspy |  
+| bip_39_word_no_space_12 | bloodwaitimposeartworkillegalmemberexposemythfederalgreatspyancient |  
+| bip_39_word_no_space_2 | bloodwait |  
+| bip_39_word_no_space_3 | bloodwaitimpose |  
+| bip_39_word_no_space_4 | bloodwaitimposeartwork |  
+| bip_39_word_no_space_5 | bloodwaitimposeartworkillegal |  
+| bip_39_word_no_space_6 | bloodwaitimposeartworkillegalmember |  
+| bip_39_word_no_space_7 | bloodwaitimposeartworkillegalmemberexpose |  
+| bip_39_word_no_space_8 | bloodwaitimposeartworkillegalmemberexposemyth |  
+| bip_39_word_no_space_9 | bloodwaitimposeartworkillegalmemberexposemythfederal |  
 | bip_39_word_space_0 | ['blood', 'wait', 'impose', 'artwork', 'illegal', 'member', 'expose', 'myth', 'federal', 'great', 'spy', 'ancient'] |  
 | bip_39_word_space_1 | blood |  
 | bip_39_word_space_10 | blood wait impose artwork illegal member expose myth federal great |  

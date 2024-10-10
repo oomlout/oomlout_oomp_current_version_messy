@@ -122,6 +122,18 @@ ship
 battle
 giraffe
 oil |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | serieswillsystembracketairportshipbattlegiraffeoilnumber |  
+| bip_39_word_no_space_11 | serieswillsystembracketairportshipbattlegiraffeoilnumberchair |  
+| bip_39_word_no_space_12 | serieswillsystembracketairportshipbattlegiraffeoilnumberchairact |  
+| bip_39_word_no_space_2 | serieswill |  
+| bip_39_word_no_space_3 | serieswillsystem |  
+| bip_39_word_no_space_4 | serieswillsystembracket |  
+| bip_39_word_no_space_5 | serieswillsystembracketairport |  
+| bip_39_word_no_space_6 | serieswillsystembracketairportship |  
+| bip_39_word_no_space_7 | serieswillsystembracketairportshipbattle |  
+| bip_39_word_no_space_8 | serieswillsystembracketairportshipbattlegiraffe |  
+| bip_39_word_no_space_9 | serieswillsystembracketairportshipbattlegiraffeoil |  
 | bip_39_word_space_0 | ['series', 'will', 'system', 'bracket', 'airport', 'ship', 'battle', 'giraffe', 'oil', 'number', 'chair', 'act'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series will system bracket airport ship battle giraffe oil number |  

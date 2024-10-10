@@ -122,6 +122,18 @@ peace
 system
 supply
 talent |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingscenecultureactualfallpeacesystemsupplytalentusual |  
+| bip_39_word_no_space_11 | weddingscenecultureactualfallpeacesystemsupplytalentusualevoke |  
+| bip_39_word_no_space_12 | weddingscenecultureactualfallpeacesystemsupplytalentusualevokeamount |  
+| bip_39_word_no_space_2 | weddingscene |  
+| bip_39_word_no_space_3 | weddingsceneculture |  
+| bip_39_word_no_space_4 | weddingscenecultureactual |  
+| bip_39_word_no_space_5 | weddingscenecultureactualfall |  
+| bip_39_word_no_space_6 | weddingscenecultureactualfallpeace |  
+| bip_39_word_no_space_7 | weddingscenecultureactualfallpeacesystem |  
+| bip_39_word_no_space_8 | weddingscenecultureactualfallpeacesystemsupply |  
+| bip_39_word_no_space_9 | weddingscenecultureactualfallpeacesystemsupplytalent |  
 | bip_39_word_space_0 | ['wedding', 'scene', 'culture', 'actual', 'fall', 'peace', 'system', 'supply', 'talent', 'usual', 'evoke', 'amount'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding scene culture actual fall peace system supply talent usual |  

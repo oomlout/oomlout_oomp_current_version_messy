@@ -122,6 +122,18 @@ sentence
 sell
 trigger
 control |  
+| bip_39_word_no_space_1 | goose |  
+| bip_39_word_no_space_10 | goosecruisealsonarrowscrapsentenceselltriggercontrolalways |  
+| bip_39_word_no_space_11 | goosecruisealsonarrowscrapsentenceselltriggercontrolalwayscancel |  
+| bip_39_word_no_space_12 | goosecruisealsonarrowscrapsentenceselltriggercontrolalwayscancelachieve |  
+| bip_39_word_no_space_2 | goosecruise |  
+| bip_39_word_no_space_3 | goosecruisealso |  
+| bip_39_word_no_space_4 | goosecruisealsonarrow |  
+| bip_39_word_no_space_5 | goosecruisealsonarrowscrap |  
+| bip_39_word_no_space_6 | goosecruisealsonarrowscrapsentence |  
+| bip_39_word_no_space_7 | goosecruisealsonarrowscrapsentencesell |  
+| bip_39_word_no_space_8 | goosecruisealsonarrowscrapsentenceselltrigger |  
+| bip_39_word_no_space_9 | goosecruisealsonarrowscrapsentenceselltriggercontrol |  
 | bip_39_word_space_0 | ['goose', 'cruise', 'also', 'narrow', 'scrap', 'sentence', 'sell', 'trigger', 'control', 'always', 'cancel', 'achieve'] |  
 | bip_39_word_space_1 | goose |  
 | bip_39_word_space_10 | goose cruise also narrow scrap sentence sell trigger control always |  

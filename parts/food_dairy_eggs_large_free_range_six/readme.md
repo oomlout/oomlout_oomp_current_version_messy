@@ -122,6 +122,18 @@ jealous
 spend
 easy
 improve |  
+| bip_39_word_no_space_1 | shuffle |  
+| bip_39_word_no_space_10 | shufflejarcarrynotetossjealousspendeasyimproveworld |  
+| bip_39_word_no_space_11 | shufflejarcarrynotetossjealousspendeasyimproveworldclub |  
+| bip_39_word_no_space_12 | shufflejarcarrynotetossjealousspendeasyimproveworldclubadmit |  
+| bip_39_word_no_space_2 | shufflejar |  
+| bip_39_word_no_space_3 | shufflejarcarry |  
+| bip_39_word_no_space_4 | shufflejarcarrynote |  
+| bip_39_word_no_space_5 | shufflejarcarrynotetoss |  
+| bip_39_word_no_space_6 | shufflejarcarrynotetossjealous |  
+| bip_39_word_no_space_7 | shufflejarcarrynotetossjealousspend |  
+| bip_39_word_no_space_8 | shufflejarcarrynotetossjealousspendeasy |  
+| bip_39_word_no_space_9 | shufflejarcarrynotetossjealousspendeasyimprove |  
 | bip_39_word_space_0 | ['shuffle', 'jar', 'carry', 'note', 'toss', 'jealous', 'spend', 'easy', 'improve', 'world', 'club', 'admit'] |  
 | bip_39_word_space_1 | shuffle |  
 | bip_39_word_space_10 | shuffle jar carry note toss jealous spend easy improve world |  

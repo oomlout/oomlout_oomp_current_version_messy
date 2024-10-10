@@ -122,6 +122,18 @@ basic
 own
 luggage
 double |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bulletchalkmaneggscrapbasicownluggagedoublenarrow |  
+| bip_39_word_no_space_11 | bulletchalkmaneggscrapbasicownluggagedoublenarrowcorrect |  
+| bip_39_word_no_space_12 | bulletchalkmaneggscrapbasicownluggagedoublenarrowcorrectattend |  
+| bip_39_word_no_space_2 | bulletchalk |  
+| bip_39_word_no_space_3 | bulletchalkman |  
+| bip_39_word_no_space_4 | bulletchalkmanegg |  
+| bip_39_word_no_space_5 | bulletchalkmaneggscrap |  
+| bip_39_word_no_space_6 | bulletchalkmaneggscrapbasic |  
+| bip_39_word_no_space_7 | bulletchalkmaneggscrapbasicown |  
+| bip_39_word_no_space_8 | bulletchalkmaneggscrapbasicownluggage |  
+| bip_39_word_no_space_9 | bulletchalkmaneggscrapbasicownluggagedouble |  
 | bip_39_word_space_0 | ['bullet', 'chalk', 'man', 'egg', 'scrap', 'basic', 'own', 'luggage', 'double', 'narrow', 'correct', 'attend'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet chalk man egg scrap basic own luggage double narrow |  

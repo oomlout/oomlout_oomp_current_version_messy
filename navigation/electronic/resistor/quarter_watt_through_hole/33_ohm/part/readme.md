@@ -122,6 +122,18 @@ huge
 clerk
 pyramid
 already |  
+| bip_39_word_no_space_1 | cook |  
+| bip_39_word_no_space_10 | cooktypewasteexistillnesshugeclerkpyramidalreadycave |  
+| bip_39_word_no_space_11 | cooktypewasteexistillnesshugeclerkpyramidalreadycaveunusual |  
+| bip_39_word_no_space_12 | cooktypewasteexistillnesshugeclerkpyramidalreadycaveunusualaspect |  
+| bip_39_word_no_space_2 | cooktype |  
+| bip_39_word_no_space_3 | cooktypewaste |  
+| bip_39_word_no_space_4 | cooktypewasteexist |  
+| bip_39_word_no_space_5 | cooktypewasteexistillness |  
+| bip_39_word_no_space_6 | cooktypewasteexistillnesshuge |  
+| bip_39_word_no_space_7 | cooktypewasteexistillnesshugeclerk |  
+| bip_39_word_no_space_8 | cooktypewasteexistillnesshugeclerkpyramid |  
+| bip_39_word_no_space_9 | cooktypewasteexistillnesshugeclerkpyramidalready |  
 | bip_39_word_space_0 | ['cook', 'type', 'waste', 'exist', 'illness', 'huge', 'clerk', 'pyramid', 'already', 'cave', 'unusual', 'aspect'] |  
 | bip_39_word_space_1 | cook |  
 | bip_39_word_space_10 | cook type waste exist illness huge clerk pyramid already cave |  

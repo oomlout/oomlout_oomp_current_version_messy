@@ -122,6 +122,18 @@ put
 another
 grain
 protect |  
+| bip_39_word_no_space_1 | leader |  
+| bip_39_word_no_space_10 | leaderpanelbeansymptomfriendputanothergrainprotectribbon |  
+| bip_39_word_no_space_11 | leaderpanelbeansymptomfriendputanothergrainprotectribbongarage |  
+| bip_39_word_no_space_12 | leaderpanelbeansymptomfriendputanothergrainprotectribbongaragealpha |  
+| bip_39_word_no_space_2 | leaderpanel |  
+| bip_39_word_no_space_3 | leaderpanelbean |  
+| bip_39_word_no_space_4 | leaderpanelbeansymptom |  
+| bip_39_word_no_space_5 | leaderpanelbeansymptomfriend |  
+| bip_39_word_no_space_6 | leaderpanelbeansymptomfriendput |  
+| bip_39_word_no_space_7 | leaderpanelbeansymptomfriendputanother |  
+| bip_39_word_no_space_8 | leaderpanelbeansymptomfriendputanothergrain |  
+| bip_39_word_no_space_9 | leaderpanelbeansymptomfriendputanothergrainprotect |  
 | bip_39_word_space_0 | ['leader', 'panel', 'bean', 'symptom', 'friend', 'put', 'another', 'grain', 'protect', 'ribbon', 'garage', 'alpha'] |  
 | bip_39_word_space_1 | leader |  
 | bip_39_word_space_10 | leader panel bean symptom friend put another grain protect ribbon |  

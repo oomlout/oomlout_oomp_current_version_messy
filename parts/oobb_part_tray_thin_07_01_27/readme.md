@@ -122,6 +122,18 @@ smile
 minimum
 achieve
 stereo |  
+| bip_39_word_no_space_1 | father |  
+| bip_39_word_no_space_10 | fatherimmunepublicpicnicblossomsmileminimumachievestereogain |  
+| bip_39_word_no_space_11 | fatherimmunepublicpicnicblossomsmileminimumachievestereogainpicture |  
+| bip_39_word_no_space_12 | fatherimmunepublicpicnicblossomsmileminimumachievestereogainpictureahead |  
+| bip_39_word_no_space_2 | fatherimmune |  
+| bip_39_word_no_space_3 | fatherimmunepublic |  
+| bip_39_word_no_space_4 | fatherimmunepublicpicnic |  
+| bip_39_word_no_space_5 | fatherimmunepublicpicnicblossom |  
+| bip_39_word_no_space_6 | fatherimmunepublicpicnicblossomsmile |  
+| bip_39_word_no_space_7 | fatherimmunepublicpicnicblossomsmileminimum |  
+| bip_39_word_no_space_8 | fatherimmunepublicpicnicblossomsmileminimumachieve |  
+| bip_39_word_no_space_9 | fatherimmunepublicpicnicblossomsmileminimumachievestereo |  
 | bip_39_word_space_0 | ['father', 'immune', 'public', 'picnic', 'blossom', 'smile', 'minimum', 'achieve', 'stereo', 'gain', 'picture', 'ahead'] |  
 | bip_39_word_space_1 | father |  
 | bip_39_word_space_10 | father immune public picnic blossom smile minimum achieve stereo gain |  

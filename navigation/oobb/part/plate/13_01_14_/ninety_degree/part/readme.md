@@ -122,6 +122,18 @@ reveal
 million
 normal
 story |  
+| bip_39_word_no_space_1 | defy |  
+| bip_39_word_no_space_10 | defydealsolidlooppupilrevealmillionnormalstorycoil |  
+| bip_39_word_no_space_11 | defydealsolidlooppupilrevealmillionnormalstorycoilnotable |  
+| bip_39_word_no_space_12 | defydealsolidlooppupilrevealmillionnormalstorycoilnotableability |  
+| bip_39_word_no_space_2 | defydeal |  
+| bip_39_word_no_space_3 | defydealsolid |  
+| bip_39_word_no_space_4 | defydealsolidloop |  
+| bip_39_word_no_space_5 | defydealsolidlooppupil |  
+| bip_39_word_no_space_6 | defydealsolidlooppupilreveal |  
+| bip_39_word_no_space_7 | defydealsolidlooppupilrevealmillion |  
+| bip_39_word_no_space_8 | defydealsolidlooppupilrevealmillionnormal |  
+| bip_39_word_no_space_9 | defydealsolidlooppupilrevealmillionnormalstory |  
 | bip_39_word_space_0 | ['defy', 'deal', 'solid', 'loop', 'pupil', 'reveal', 'million', 'normal', 'story', 'coil', 'notable', 'ability'] |  
 | bip_39_word_space_1 | defy |  
 | bip_39_word_space_10 | defy deal solid loop pupil reveal million normal story coil |  

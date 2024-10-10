@@ -122,6 +122,18 @@ surprise
 vacuum
 head
 omit |  
+| bip_39_word_no_space_1 | token |  
+| bip_39_word_no_space_10 | tokendescribeathletesatoshitheresurprisevacuumheadomittrouble |  
+| bip_39_word_no_space_11 | tokendescribeathletesatoshitheresurprisevacuumheadomittroubleopinion |  
+| bip_39_word_no_space_12 | tokendescribeathletesatoshitheresurprisevacuumheadomittroubleopinionannounce |  
+| bip_39_word_no_space_2 | tokendescribe |  
+| bip_39_word_no_space_3 | tokendescribeathlete |  
+| bip_39_word_no_space_4 | tokendescribeathletesatoshi |  
+| bip_39_word_no_space_5 | tokendescribeathletesatoshithere |  
+| bip_39_word_no_space_6 | tokendescribeathletesatoshitheresurprise |  
+| bip_39_word_no_space_7 | tokendescribeathletesatoshitheresurprisevacuum |  
+| bip_39_word_no_space_8 | tokendescribeathletesatoshitheresurprisevacuumhead |  
+| bip_39_word_no_space_9 | tokendescribeathletesatoshitheresurprisevacuumheadomit |  
 | bip_39_word_space_0 | ['token', 'describe', 'athlete', 'satoshi', 'there', 'surprise', 'vacuum', 'head', 'omit', 'trouble', 'opinion', 'announce'] |  
 | bip_39_word_space_1 | token |  
 | bip_39_word_space_10 | token describe athlete satoshi there surprise vacuum head omit trouble |  

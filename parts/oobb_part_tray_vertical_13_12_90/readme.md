@@ -122,6 +122,18 @@ sure
 vessel
 joy
 pet |  
+| bip_39_word_no_space_1 | wife |  
+| bip_39_word_no_space_10 | wifeaislepermitmarchquantumsurevesseljoypetillness |  
+| bip_39_word_no_space_11 | wifeaislepermitmarchquantumsurevesseljoypetillnesspurchase |  
+| bip_39_word_no_space_12 | wifeaislepermitmarchquantumsurevesseljoypetillnesspurchasealso |  
+| bip_39_word_no_space_2 | wifeaisle |  
+| bip_39_word_no_space_3 | wifeaislepermit |  
+| bip_39_word_no_space_4 | wifeaislepermitmarch |  
+| bip_39_word_no_space_5 | wifeaislepermitmarchquantum |  
+| bip_39_word_no_space_6 | wifeaislepermitmarchquantumsure |  
+| bip_39_word_no_space_7 | wifeaislepermitmarchquantumsurevessel |  
+| bip_39_word_no_space_8 | wifeaislepermitmarchquantumsurevesseljoy |  
+| bip_39_word_no_space_9 | wifeaislepermitmarchquantumsurevesseljoypet |  
 | bip_39_word_space_0 | ['wife', 'aisle', 'permit', 'march', 'quantum', 'sure', 'vessel', 'joy', 'pet', 'illness', 'purchase', 'also'] |  
 | bip_39_word_space_1 | wife |  
 | bip_39_word_space_10 | wife aisle permit march quantum sure vessel joy pet illness |  

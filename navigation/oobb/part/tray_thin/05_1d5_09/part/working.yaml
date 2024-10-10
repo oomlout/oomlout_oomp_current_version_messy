@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'front
   exist
 
   already'
+bip_39_word_no_space_1: front
+bip_39_word_no_space_10: frontfantasyillhumanhollowvirusmobileexistalreadyempower
+bip_39_word_no_space_11: frontfantasyillhumanhollowvirusmobileexistalreadyempowerwage
+bip_39_word_no_space_12: frontfantasyillhumanhollowvirusmobileexistalreadyempowerwageadd
+bip_39_word_no_space_2: frontfantasy
+bip_39_word_no_space_3: frontfantasyill
+bip_39_word_no_space_4: frontfantasyillhuman
+bip_39_word_no_space_5: frontfantasyillhumanhollow
+bip_39_word_no_space_6: frontfantasyillhumanhollowvirus
+bip_39_word_no_space_7: frontfantasyillhumanhollowvirusmobile
+bip_39_word_no_space_8: frontfantasyillhumanhollowvirusmobileexist
+bip_39_word_no_space_9: frontfantasyillhumanhollowvirusmobileexistalready
 bip_39_word_space_0:
 - front
 - fantasy

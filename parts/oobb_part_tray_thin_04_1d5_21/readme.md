@@ -122,6 +122,18 @@ erosion
 devote
 hand
 tourist |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sidepuppyfunnywheretriggererosiondevotehandtouristbelieve |  
+| bip_39_word_no_space_11 | sidepuppyfunnywheretriggererosiondevotehandtouristbelievelove |  
+| bip_39_word_no_space_12 | sidepuppyfunnywheretriggererosiondevotehandtouristbelieveloveaudit |  
+| bip_39_word_no_space_2 | sidepuppy |  
+| bip_39_word_no_space_3 | sidepuppyfunny |  
+| bip_39_word_no_space_4 | sidepuppyfunnywhere |  
+| bip_39_word_no_space_5 | sidepuppyfunnywheretrigger |  
+| bip_39_word_no_space_6 | sidepuppyfunnywheretriggererosion |  
+| bip_39_word_no_space_7 | sidepuppyfunnywheretriggererosiondevote |  
+| bip_39_word_no_space_8 | sidepuppyfunnywheretriggererosiondevotehand |  
+| bip_39_word_no_space_9 | sidepuppyfunnywheretriggererosiondevotehandtourist |  
 | bip_39_word_space_0 | ['side', 'puppy', 'funny', 'where', 'trigger', 'erosion', 'devote', 'hand', 'tourist', 'believe', 'love', 'audit'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side puppy funny where trigger erosion devote hand tourist believe |  

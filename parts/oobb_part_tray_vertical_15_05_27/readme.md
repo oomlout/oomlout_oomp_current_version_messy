@@ -122,6 +122,18 @@ member
 bundle
 desk
 sugar |  
+| bip_39_word_no_space_1 | doctor |  
+| bip_39_word_no_space_10 | doctorgracejoinflowermagnetmemberbundledesksugarcoyote |  
+| bip_39_word_no_space_11 | doctorgracejoinflowermagnetmemberbundledesksugarcoyoteevil |  
+| bip_39_word_no_space_12 | doctorgracejoinflowermagnetmemberbundledesksugarcoyoteeviladvance |  
+| bip_39_word_no_space_2 | doctorgrace |  
+| bip_39_word_no_space_3 | doctorgracejoin |  
+| bip_39_word_no_space_4 | doctorgracejoinflower |  
+| bip_39_word_no_space_5 | doctorgracejoinflowermagnet |  
+| bip_39_word_no_space_6 | doctorgracejoinflowermagnetmember |  
+| bip_39_word_no_space_7 | doctorgracejoinflowermagnetmemberbundle |  
+| bip_39_word_no_space_8 | doctorgracejoinflowermagnetmemberbundledesk |  
+| bip_39_word_no_space_9 | doctorgracejoinflowermagnetmemberbundledesksugar |  
 | bip_39_word_space_0 | ['doctor', 'grace', 'join', 'flower', 'magnet', 'member', 'bundle', 'desk', 'sugar', 'coyote', 'evil', 'advance'] |  
 | bip_39_word_space_1 | doctor |  
 | bip_39_word_space_10 | doctor grace join flower magnet member bundle desk sugar coyote |  

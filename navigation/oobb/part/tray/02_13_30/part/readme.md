@@ -122,6 +122,18 @@ march
 obscure
 garbage
 churn |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewwhatcriticorangeseniormarchobscuregarbagechurnrubber |  
+| bip_39_word_no_space_11 | fewwhatcriticorangeseniormarchobscuregarbagechurnrubbermaze |  
+| bip_39_word_no_space_12 | fewwhatcriticorangeseniormarchobscuregarbagechurnrubbermazeabsorb |  
+| bip_39_word_no_space_2 | fewwhat |  
+| bip_39_word_no_space_3 | fewwhatcritic |  
+| bip_39_word_no_space_4 | fewwhatcriticorange |  
+| bip_39_word_no_space_5 | fewwhatcriticorangesenior |  
+| bip_39_word_no_space_6 | fewwhatcriticorangeseniormarch |  
+| bip_39_word_no_space_7 | fewwhatcriticorangeseniormarchobscure |  
+| bip_39_word_no_space_8 | fewwhatcriticorangeseniormarchobscuregarbage |  
+| bip_39_word_no_space_9 | fewwhatcriticorangeseniormarchobscuregarbagechurn |  
 | bip_39_word_space_0 | ['few', 'what', 'critic', 'orange', 'senior', 'march', 'obscure', 'garbage', 'churn', 'rubber', 'maze', 'absorb'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few what critic orange senior march obscure garbage churn rubber |  

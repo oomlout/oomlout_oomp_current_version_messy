@@ -122,6 +122,18 @@ lab
 anxiety
 planet
 glove |  
+| bip_39_word_no_space_1 | slow |  
+| bip_39_word_no_space_10 | slowkeenpredictwealthdirectlabanxietyplanetglovelaptop |  
+| bip_39_word_no_space_11 | slowkeenpredictwealthdirectlabanxietyplanetglovelaptopcheck |  
+| bip_39_word_no_space_12 | slowkeenpredictwealthdirectlabanxietyplanetglovelaptopcheckacquire |  
+| bip_39_word_no_space_2 | slowkeen |  
+| bip_39_word_no_space_3 | slowkeenpredict |  
+| bip_39_word_no_space_4 | slowkeenpredictwealth |  
+| bip_39_word_no_space_5 | slowkeenpredictwealthdirect |  
+| bip_39_word_no_space_6 | slowkeenpredictwealthdirectlab |  
+| bip_39_word_no_space_7 | slowkeenpredictwealthdirectlabanxiety |  
+| bip_39_word_no_space_8 | slowkeenpredictwealthdirectlabanxietyplanet |  
+| bip_39_word_no_space_9 | slowkeenpredictwealthdirectlabanxietyplanetglove |  
 | bip_39_word_space_0 | ['slow', 'keen', 'predict', 'wealth', 'direct', 'lab', 'anxiety', 'planet', 'glove', 'laptop', 'check', 'acquire'] |  
 | bip_39_word_space_1 | slow |  
 | bip_39_word_space_10 | slow keen predict wealth direct lab anxiety planet glove laptop |  

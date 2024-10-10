@@ -122,6 +122,18 @@ voice
 genre
 tourist
 army |  
+| bip_39_word_no_space_1 | slogan |  
+| bip_39_word_no_space_10 | sloganmetaldecadedolphinrobustvoicegenretouristarmypanel |  
+| bip_39_word_no_space_11 | sloganmetaldecadedolphinrobustvoicegenretouristarmypanelpudding |  
+| bip_39_word_no_space_12 | sloganmetaldecadedolphinrobustvoicegenretouristarmypanelpuddingair |  
+| bip_39_word_no_space_2 | sloganmetal |  
+| bip_39_word_no_space_3 | sloganmetaldecade |  
+| bip_39_word_no_space_4 | sloganmetaldecadedolphin |  
+| bip_39_word_no_space_5 | sloganmetaldecadedolphinrobust |  
+| bip_39_word_no_space_6 | sloganmetaldecadedolphinrobustvoice |  
+| bip_39_word_no_space_7 | sloganmetaldecadedolphinrobustvoicegenre |  
+| bip_39_word_no_space_8 | sloganmetaldecadedolphinrobustvoicegenretourist |  
+| bip_39_word_no_space_9 | sloganmetaldecadedolphinrobustvoicegenretouristarmy |  
 | bip_39_word_space_0 | ['slogan', 'metal', 'decade', 'dolphin', 'robust', 'voice', 'genre', 'tourist', 'army', 'panel', 'pudding', 'air'] |  
 | bip_39_word_space_1 | slogan |  
 | bip_39_word_space_10 | slogan metal decade dolphin robust voice genre tourist army panel |  

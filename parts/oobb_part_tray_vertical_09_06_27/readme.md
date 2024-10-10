@@ -122,6 +122,18 @@ science
 donor
 chief
 abandon |  
+| bip_39_word_no_space_1 | place |  
+| bip_39_word_no_space_10 | placetitlestadiumplungedepositsciencedonorchiefabandoncrystal |  
+| bip_39_word_no_space_11 | placetitlestadiumplungedepositsciencedonorchiefabandoncrystalmosquito |  
+| bip_39_word_no_space_12 | placetitlestadiumplungedepositsciencedonorchiefabandoncrystalmosquitoadvice |  
+| bip_39_word_no_space_2 | placetitle |  
+| bip_39_word_no_space_3 | placetitlestadium |  
+| bip_39_word_no_space_4 | placetitlestadiumplunge |  
+| bip_39_word_no_space_5 | placetitlestadiumplungedeposit |  
+| bip_39_word_no_space_6 | placetitlestadiumplungedepositscience |  
+| bip_39_word_no_space_7 | placetitlestadiumplungedepositsciencedonor |  
+| bip_39_word_no_space_8 | placetitlestadiumplungedepositsciencedonorchief |  
+| bip_39_word_no_space_9 | placetitlestadiumplungedepositsciencedonorchiefabandon |  
 | bip_39_word_space_0 | ['place', 'title', 'stadium', 'plunge', 'deposit', 'science', 'donor', 'chief', 'abandon', 'crystal', 'mosquito', 'advice'] |  
 | bip_39_word_space_1 | place |  
 | bip_39_word_space_10 | place title stadium plunge deposit science donor chief abandon crystal |  

@@ -122,6 +122,18 @@ town
 solid
 pretty
 public |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aisleslotbulletpushsketchtownsolidprettypublicturtle |  
+| bip_39_word_no_space_11 | aisleslotbulletpushsketchtownsolidprettypublicturtlepaper |  
+| bip_39_word_no_space_12 | aisleslotbulletpushsketchtownsolidprettypublicturtlepaperact |  
+| bip_39_word_no_space_2 | aisleslot |  
+| bip_39_word_no_space_3 | aisleslotbullet |  
+| bip_39_word_no_space_4 | aisleslotbulletpush |  
+| bip_39_word_no_space_5 | aisleslotbulletpushsketch |  
+| bip_39_word_no_space_6 | aisleslotbulletpushsketchtown |  
+| bip_39_word_no_space_7 | aisleslotbulletpushsketchtownsolid |  
+| bip_39_word_no_space_8 | aisleslotbulletpushsketchtownsolidpretty |  
+| bip_39_word_no_space_9 | aisleslotbulletpushsketchtownsolidprettypublic |  
 | bip_39_word_space_0 | ['aisle', 'slot', 'bullet', 'push', 'sketch', 'town', 'solid', 'pretty', 'public', 'turtle', 'paper', 'act'] |  
 | bip_39_word_space_1 | aisle |  
 | bip_39_word_space_10 | aisle slot bullet push sketch town solid pretty public turtle |  

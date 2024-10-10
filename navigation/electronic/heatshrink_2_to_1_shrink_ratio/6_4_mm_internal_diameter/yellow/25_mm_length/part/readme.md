@@ -122,6 +122,18 @@ learn
 imitate
 across
 laundry |  
+| bip_39_word_no_space_1 | borrow |  
+| bip_39_word_no_space_10 | borrowpigsausagepyramidpeanutlearnimitateacrosslaundrymust |  
+| bip_39_word_no_space_11 | borrowpigsausagepyramidpeanutlearnimitateacrosslaundrymustwolf |  
+| bip_39_word_no_space_12 | borrowpigsausagepyramidpeanutlearnimitateacrosslaundrymustwolfadvice |  
+| bip_39_word_no_space_2 | borrowpig |  
+| bip_39_word_no_space_3 | borrowpigsausage |  
+| bip_39_word_no_space_4 | borrowpigsausagepyramid |  
+| bip_39_word_no_space_5 | borrowpigsausagepyramidpeanut |  
+| bip_39_word_no_space_6 | borrowpigsausagepyramidpeanutlearn |  
+| bip_39_word_no_space_7 | borrowpigsausagepyramidpeanutlearnimitate |  
+| bip_39_word_no_space_8 | borrowpigsausagepyramidpeanutlearnimitateacross |  
+| bip_39_word_no_space_9 | borrowpigsausagepyramidpeanutlearnimitateacrosslaundry |  
 | bip_39_word_space_0 | ['borrow', 'pig', 'sausage', 'pyramid', 'peanut', 'learn', 'imitate', 'across', 'laundry', 'must', 'wolf', 'advice'] |  
 | bip_39_word_space_1 | borrow |  
 | bip_39_word_space_10 | borrow pig sausage pyramid peanut learn imitate across laundry must |  

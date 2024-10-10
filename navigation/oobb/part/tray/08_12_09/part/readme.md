@@ -122,6 +122,18 @@ lumber
 assault
 saddle
 bullet |  
+| bip_39_word_no_space_1 | border |  
+| bip_39_word_no_space_10 | borderdoublesoonmagnetmarblelumberassaultsaddlebullettopic |  
+| bip_39_word_no_space_11 | borderdoublesoonmagnetmarblelumberassaultsaddlebullettopicmix |  
+| bip_39_word_no_space_12 | borderdoublesoonmagnetmarblelumberassaultsaddlebullettopicmixanchor |  
+| bip_39_word_no_space_2 | borderdouble |  
+| bip_39_word_no_space_3 | borderdoublesoon |  
+| bip_39_word_no_space_4 | borderdoublesoonmagnet |  
+| bip_39_word_no_space_5 | borderdoublesoonmagnetmarble |  
+| bip_39_word_no_space_6 | borderdoublesoonmagnetmarblelumber |  
+| bip_39_word_no_space_7 | borderdoublesoonmagnetmarblelumberassault |  
+| bip_39_word_no_space_8 | borderdoublesoonmagnetmarblelumberassaultsaddle |  
+| bip_39_word_no_space_9 | borderdoublesoonmagnetmarblelumberassaultsaddlebullet |  
 | bip_39_word_space_0 | ['border', 'double', 'soon', 'magnet', 'marble', 'lumber', 'assault', 'saddle', 'bullet', 'topic', 'mix', 'anchor'] |  
 | bip_39_word_space_1 | border |  
 | bip_39_word_space_10 | border double soon magnet marble lumber assault saddle bullet topic |  

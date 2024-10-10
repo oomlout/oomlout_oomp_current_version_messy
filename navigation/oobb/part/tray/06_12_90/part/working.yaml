@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pig
   pulp
 
   plunge'
+bip_39_word_no_space_1: pig
+bip_39_word_no_space_10: pigdemandenoughvolumespringfunwinnerpulpplungecat
+bip_39_word_no_space_11: pigdemandenoughvolumespringfunwinnerpulpplungecatseed
+bip_39_word_no_space_12: pigdemandenoughvolumespringfunwinnerpulpplungecatseedavocado
+bip_39_word_no_space_2: pigdemand
+bip_39_word_no_space_3: pigdemandenough
+bip_39_word_no_space_4: pigdemandenoughvolume
+bip_39_word_no_space_5: pigdemandenoughvolumespring
+bip_39_word_no_space_6: pigdemandenoughvolumespringfun
+bip_39_word_no_space_7: pigdemandenoughvolumespringfunwinner
+bip_39_word_no_space_8: pigdemandenoughvolumespringfunwinnerpulp
+bip_39_word_no_space_9: pigdemandenoughvolumespringfunwinnerpulpplunge
 bip_39_word_space_0:
 - pig
 - demand

@@ -122,6 +122,18 @@ trash
 suggest
 wall
 whip |  
+| bip_39_word_no_space_1 | essence |  
+| bip_39_word_no_space_10 | essencesnapmiserybelowfieldtrashsuggestwallwhipmodel |  
+| bip_39_word_no_space_11 | essencesnapmiserybelowfieldtrashsuggestwallwhipmodelleave |  
+| bip_39_word_no_space_12 | essencesnapmiserybelowfieldtrashsuggestwallwhipmodelleaveamong |  
+| bip_39_word_no_space_2 | essencesnap |  
+| bip_39_word_no_space_3 | essencesnapmisery |  
+| bip_39_word_no_space_4 | essencesnapmiserybelow |  
+| bip_39_word_no_space_5 | essencesnapmiserybelowfield |  
+| bip_39_word_no_space_6 | essencesnapmiserybelowfieldtrash |  
+| bip_39_word_no_space_7 | essencesnapmiserybelowfieldtrashsuggest |  
+| bip_39_word_no_space_8 | essencesnapmiserybelowfieldtrashsuggestwall |  
+| bip_39_word_no_space_9 | essencesnapmiserybelowfieldtrashsuggestwallwhip |  
 | bip_39_word_space_0 | ['essence', 'snap', 'misery', 'below', 'field', 'trash', 'suggest', 'wall', 'whip', 'model', 'leave', 'among'] |  
 | bip_39_word_space_1 | essence |  
 | bip_39_word_space_10 | essence snap misery below field trash suggest wall whip model |  

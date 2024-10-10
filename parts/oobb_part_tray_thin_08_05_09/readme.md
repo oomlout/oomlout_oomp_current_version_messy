@@ -122,6 +122,18 @@ join
 dove
 blush
 chimney |  
+| bip_39_word_no_space_1 | spy |  
+| bip_39_word_no_space_10 | spyfluidresistfloorenlistjoindoveblushchimneyeast |  
+| bip_39_word_no_space_11 | spyfluidresistfloorenlistjoindoveblushchimneyeastprivate |  
+| bip_39_word_no_space_12 | spyfluidresistfloorenlistjoindoveblushchimneyeastprivatearm |  
+| bip_39_word_no_space_2 | spyfluid |  
+| bip_39_word_no_space_3 | spyfluidresist |  
+| bip_39_word_no_space_4 | spyfluidresistfloor |  
+| bip_39_word_no_space_5 | spyfluidresistfloorenlist |  
+| bip_39_word_no_space_6 | spyfluidresistfloorenlistjoin |  
+| bip_39_word_no_space_7 | spyfluidresistfloorenlistjoindove |  
+| bip_39_word_no_space_8 | spyfluidresistfloorenlistjoindoveblush |  
+| bip_39_word_no_space_9 | spyfluidresistfloorenlistjoindoveblushchimney |  
 | bip_39_word_space_0 | ['spy', 'fluid', 'resist', 'floor', 'enlist', 'join', 'dove', 'blush', 'chimney', 'east', 'private', 'arm'] |  
 | bip_39_word_space_1 | spy |  
 | bip_39_word_space_10 | spy fluid resist floor enlist join dove blush chimney east |  

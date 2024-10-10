@@ -122,6 +122,18 @@ latin
 citizen
 bind
 phrase |  
+| bip_39_word_no_space_1 | predict |  
+| bip_39_word_no_space_10 | predictsolidmodifybikeautumnlatincitizenbindphraseuseful |  
+| bip_39_word_no_space_11 | predictsolidmodifybikeautumnlatincitizenbindphraseusefulrhythm |  
+| bip_39_word_no_space_12 | predictsolidmodifybikeautumnlatincitizenbindphraseusefulrhythmaction |  
+| bip_39_word_no_space_2 | predictsolid |  
+| bip_39_word_no_space_3 | predictsolidmodify |  
+| bip_39_word_no_space_4 | predictsolidmodifybike |  
+| bip_39_word_no_space_5 | predictsolidmodifybikeautumn |  
+| bip_39_word_no_space_6 | predictsolidmodifybikeautumnlatin |  
+| bip_39_word_no_space_7 | predictsolidmodifybikeautumnlatincitizen |  
+| bip_39_word_no_space_8 | predictsolidmodifybikeautumnlatincitizenbind |  
+| bip_39_word_no_space_9 | predictsolidmodifybikeautumnlatincitizenbindphrase |  
 | bip_39_word_space_0 | ['predict', 'solid', 'modify', 'bike', 'autumn', 'latin', 'citizen', 'bind', 'phrase', 'useful', 'rhythm', 'action'] |  
 | bip_39_word_space_1 | predict |  
 | bip_39_word_space_10 | predict solid modify bike autumn latin citizen bind phrase useful |  

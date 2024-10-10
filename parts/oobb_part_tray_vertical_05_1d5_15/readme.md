@@ -122,6 +122,18 @@ trip
 celery
 program
 ski |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmaanchorthisprivateblankettripceleryprogramskisituate |  
+| bip_39_word_no_space_11 | dilemmaanchorthisprivateblankettripceleryprogramskisituatesugar |  
+| bip_39_word_no_space_12 | dilemmaanchorthisprivateblankettripceleryprogramskisituatesugarattitude |  
+| bip_39_word_no_space_2 | dilemmaanchor |  
+| bip_39_word_no_space_3 | dilemmaanchorthis |  
+| bip_39_word_no_space_4 | dilemmaanchorthisprivate |  
+| bip_39_word_no_space_5 | dilemmaanchorthisprivateblanket |  
+| bip_39_word_no_space_6 | dilemmaanchorthisprivateblankettrip |  
+| bip_39_word_no_space_7 | dilemmaanchorthisprivateblankettripcelery |  
+| bip_39_word_no_space_8 | dilemmaanchorthisprivateblankettripceleryprogram |  
+| bip_39_word_no_space_9 | dilemmaanchorthisprivateblankettripceleryprogramski |  
 | bip_39_word_space_0 | ['dilemma', 'anchor', 'this', 'private', 'blanket', 'trip', 'celery', 'program', 'ski', 'situate', 'sugar', 'attitude'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma anchor this private blanket trip celery program ski situate |  

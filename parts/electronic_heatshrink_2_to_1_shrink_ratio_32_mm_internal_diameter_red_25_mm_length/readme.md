@@ -122,6 +122,18 @@ blade
 gasp
 outside
 love |  
+| bip_39_word_no_space_1 | media |  
+| bip_39_word_no_space_10 | medianextillportioncreambladegaspoutsideloveplease |  
+| bip_39_word_no_space_11 | medianextillportioncreambladegaspoutsidelovepleasehub |  
+| bip_39_word_no_space_12 | medianextillportioncreambladegaspoutsidelovepleasehubarrest |  
+| bip_39_word_no_space_2 | medianext |  
+| bip_39_word_no_space_3 | medianextill |  
+| bip_39_word_no_space_4 | medianextillportion |  
+| bip_39_word_no_space_5 | medianextillportioncream |  
+| bip_39_word_no_space_6 | medianextillportioncreamblade |  
+| bip_39_word_no_space_7 | medianextillportioncreambladegasp |  
+| bip_39_word_no_space_8 | medianextillportioncreambladegaspoutside |  
+| bip_39_word_no_space_9 | medianextillportioncreambladegaspoutsidelove |  
 | bip_39_word_space_0 | ['media', 'next', 'ill', 'portion', 'cream', 'blade', 'gasp', 'outside', 'love', 'please', 'hub', 'arrest'] |  
 | bip_39_word_space_1 | media |  
 | bip_39_word_space_10 | media next ill portion cream blade gasp outside love please |  

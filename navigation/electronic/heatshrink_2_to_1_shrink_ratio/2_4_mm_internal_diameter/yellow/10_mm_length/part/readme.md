@@ -122,6 +122,18 @@ mask
 outside
 wedding
 physical |  
+| bip_39_word_no_space_1 | praise |  
+| bip_39_word_no_space_10 | praisetheoryflysoundpuzzlemaskoutsideweddingphysicalscheme |  
+| bip_39_word_no_space_11 | praisetheoryflysoundpuzzlemaskoutsideweddingphysicalschemecanal |  
+| bip_39_word_no_space_12 | praisetheoryflysoundpuzzlemaskoutsideweddingphysicalschemecanalabsurd |  
+| bip_39_word_no_space_2 | praisetheory |  
+| bip_39_word_no_space_3 | praisetheoryfly |  
+| bip_39_word_no_space_4 | praisetheoryflysound |  
+| bip_39_word_no_space_5 | praisetheoryflysoundpuzzle |  
+| bip_39_word_no_space_6 | praisetheoryflysoundpuzzlemask |  
+| bip_39_word_no_space_7 | praisetheoryflysoundpuzzlemaskoutside |  
+| bip_39_word_no_space_8 | praisetheoryflysoundpuzzlemaskoutsidewedding |  
+| bip_39_word_no_space_9 | praisetheoryflysoundpuzzlemaskoutsideweddingphysical |  
 | bip_39_word_space_0 | ['praise', 'theory', 'fly', 'sound', 'puzzle', 'mask', 'outside', 'wedding', 'physical', 'scheme', 'canal', 'absurd'] |  
 | bip_39_word_space_1 | praise |  
 | bip_39_word_space_10 | praise theory fly sound puzzle mask outside wedding physical scheme |  

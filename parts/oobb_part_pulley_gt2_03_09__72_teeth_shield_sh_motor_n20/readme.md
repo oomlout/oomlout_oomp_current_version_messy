@@ -122,6 +122,18 @@ area
 gorilla
 lunar
 cargo |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampratherdemandpencildoseareagorillalunarcargoedit |  
+| bip_39_word_no_space_11 | stampratherdemandpencildoseareagorillalunarcargoeditaugust |  
+| bip_39_word_no_space_12 | stampratherdemandpencildoseareagorillalunarcargoeditaugustartwork |  
+| bip_39_word_no_space_2 | stamprather |  
+| bip_39_word_no_space_3 | stampratherdemand |  
+| bip_39_word_no_space_4 | stampratherdemandpencil |  
+| bip_39_word_no_space_5 | stampratherdemandpencildose |  
+| bip_39_word_no_space_6 | stampratherdemandpencildosearea |  
+| bip_39_word_no_space_7 | stampratherdemandpencildoseareagorilla |  
+| bip_39_word_no_space_8 | stampratherdemandpencildoseareagorillalunar |  
+| bip_39_word_no_space_9 | stampratherdemandpencildoseareagorillalunarcargo |  
 | bip_39_word_space_0 | ['stamp', 'rather', 'demand', 'pencil', 'dose', 'area', 'gorilla', 'lunar', 'cargo', 'edit', 'august', 'artwork'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp rather demand pencil dose area gorilla lunar cargo edit |  

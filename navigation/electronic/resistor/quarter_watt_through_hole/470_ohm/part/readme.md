@@ -122,6 +122,18 @@ identify
 check
 engage
 aisle |  
+| bip_39_word_no_space_1 | year |  
+| bip_39_word_no_space_10 | yearrackduringairportproofidentifycheckengageaisledeputy |  
+| bip_39_word_no_space_11 | yearrackduringairportproofidentifycheckengageaisledeputystool |  
+| bip_39_word_no_space_12 | yearrackduringairportproofidentifycheckengageaisledeputystoolagain |  
+| bip_39_word_no_space_2 | yearrack |  
+| bip_39_word_no_space_3 | yearrackduring |  
+| bip_39_word_no_space_4 | yearrackduringairport |  
+| bip_39_word_no_space_5 | yearrackduringairportproof |  
+| bip_39_word_no_space_6 | yearrackduringairportproofidentify |  
+| bip_39_word_no_space_7 | yearrackduringairportproofidentifycheck |  
+| bip_39_word_no_space_8 | yearrackduringairportproofidentifycheckengage |  
+| bip_39_word_no_space_9 | yearrackduringairportproofidentifycheckengageaisle |  
 | bip_39_word_space_0 | ['year', 'rack', 'during', 'airport', 'proof', 'identify', 'check', 'engage', 'aisle', 'deputy', 'stool', 'again'] |  
 | bip_39_word_space_1 | year |  
 | bip_39_word_space_10 | year rack during airport proof identify check engage aisle deputy |  

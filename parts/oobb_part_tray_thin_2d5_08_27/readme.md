@@ -122,6 +122,18 @@ warfare
 auction
 engage
 cover |  
+| bip_39_word_no_space_1 | teach |  
+| bip_39_word_no_space_10 | teachponychangemysteryrallywarfareauctionengagecoverpiece |  
+| bip_39_word_no_space_11 | teachponychangemysteryrallywarfareauctionengagecoverpiecepublic |  
+| bip_39_word_no_space_12 | teachponychangemysteryrallywarfareauctionengagecoverpiecepublicamount |  
+| bip_39_word_no_space_2 | teachpony |  
+| bip_39_word_no_space_3 | teachponychange |  
+| bip_39_word_no_space_4 | teachponychangemystery |  
+| bip_39_word_no_space_5 | teachponychangemysteryrally |  
+| bip_39_word_no_space_6 | teachponychangemysteryrallywarfare |  
+| bip_39_word_no_space_7 | teachponychangemysteryrallywarfareauction |  
+| bip_39_word_no_space_8 | teachponychangemysteryrallywarfareauctionengage |  
+| bip_39_word_no_space_9 | teachponychangemysteryrallywarfareauctionengagecover |  
 | bip_39_word_space_0 | ['teach', 'pony', 'change', 'mystery', 'rally', 'warfare', 'auction', 'engage', 'cover', 'piece', 'public', 'amount'] |  
 | bip_39_word_space_1 | teach |  
 | bip_39_word_space_10 | teach pony change mystery rally warfare auction engage cover piece |  

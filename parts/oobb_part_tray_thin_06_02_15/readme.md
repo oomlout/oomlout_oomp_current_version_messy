@@ -122,6 +122,18 @@ derive
 social
 exotic
 very |  
+| bip_39_word_no_space_1 | pledge |  
+| bip_39_word_no_space_10 | pledgeregularepisodebegingaspderivesocialexoticveryimage |  
+| bip_39_word_no_space_11 | pledgeregularepisodebegingaspderivesocialexoticveryimagedirect |  
+| bip_39_word_no_space_12 | pledgeregularepisodebegingaspderivesocialexoticveryimagedirectacid |  
+| bip_39_word_no_space_2 | pledgeregular |  
+| bip_39_word_no_space_3 | pledgeregularepisode |  
+| bip_39_word_no_space_4 | pledgeregularepisodebegin |  
+| bip_39_word_no_space_5 | pledgeregularepisodebegingasp |  
+| bip_39_word_no_space_6 | pledgeregularepisodebegingaspderive |  
+| bip_39_word_no_space_7 | pledgeregularepisodebegingaspderivesocial |  
+| bip_39_word_no_space_8 | pledgeregularepisodebegingaspderivesocialexotic |  
+| bip_39_word_no_space_9 | pledgeregularepisodebegingaspderivesocialexoticvery |  
 | bip_39_word_space_0 | ['pledge', 'regular', 'episode', 'begin', 'gasp', 'derive', 'social', 'exotic', 'very', 'image', 'direct', 'acid'] |  
 | bip_39_word_space_1 | pledge |  
 | bip_39_word_space_10 | pledge regular episode begin gasp derive social exotic very image |  

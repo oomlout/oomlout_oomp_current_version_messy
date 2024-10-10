@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'give
   price
 
   say'
+bip_39_word_no_space_1: give
+bip_39_word_no_space_10: givedogcreammonsternobledeskbreadpricesaysunset
+bip_39_word_no_space_11: givedogcreammonsternobledeskbreadpricesaysunsetvalid
+bip_39_word_no_space_12: givedogcreammonsternobledeskbreadpricesaysunsetvalidaccount
+bip_39_word_no_space_2: givedog
+bip_39_word_no_space_3: givedogcream
+bip_39_word_no_space_4: givedogcreammonster
+bip_39_word_no_space_5: givedogcreammonsternoble
+bip_39_word_no_space_6: givedogcreammonsternobledesk
+bip_39_word_no_space_7: givedogcreammonsternobledeskbread
+bip_39_word_no_space_8: givedogcreammonsternobledeskbreadprice
+bip_39_word_no_space_9: givedogcreammonsternobledeskbreadpricesay
 bip_39_word_space_0:
 - give
 - dog

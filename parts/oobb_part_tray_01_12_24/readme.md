@@ -122,6 +122,18 @@ debate
 cinnamon
 morning
 believe |  
+| bip_39_word_no_space_1 | example |  
+| bip_39_word_no_space_10 | examplemobileseedpullaffairdebatecinnamonmorningbelievecorrect |  
+| bip_39_word_no_space_11 | examplemobileseedpullaffairdebatecinnamonmorningbelievecorrectpanda |  
+| bip_39_word_no_space_12 | examplemobileseedpullaffairdebatecinnamonmorningbelievecorrectpandaaspect |  
+| bip_39_word_no_space_2 | examplemobile |  
+| bip_39_word_no_space_3 | examplemobileseed |  
+| bip_39_word_no_space_4 | examplemobileseedpull |  
+| bip_39_word_no_space_5 | examplemobileseedpullaffair |  
+| bip_39_word_no_space_6 | examplemobileseedpullaffairdebate |  
+| bip_39_word_no_space_7 | examplemobileseedpullaffairdebatecinnamon |  
+| bip_39_word_no_space_8 | examplemobileseedpullaffairdebatecinnamonmorning |  
+| bip_39_word_no_space_9 | examplemobileseedpullaffairdebatecinnamonmorningbelieve |  
 | bip_39_word_space_0 | ['example', 'mobile', 'seed', 'pull', 'affair', 'debate', 'cinnamon', 'morning', 'believe', 'correct', 'panda', 'aspect'] |  
 | bip_39_word_space_1 | example |  
 | bip_39_word_space_10 | example mobile seed pull affair debate cinnamon morning believe correct |  

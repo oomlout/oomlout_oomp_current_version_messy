@@ -122,6 +122,18 @@ token
 engage
 frequent
 mystery |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandfetchdismissclothenjoytokenengagefrequentmysteryaccident |  
+| bip_39_word_no_space_11 | sandfetchdismissclothenjoytokenengagefrequentmysteryaccidentgift |  
+| bip_39_word_no_space_12 | sandfetchdismissclothenjoytokenengagefrequentmysteryaccidentgiftaccess |  
+| bip_39_word_no_space_2 | sandfetch |  
+| bip_39_word_no_space_3 | sandfetchdismiss |  
+| bip_39_word_no_space_4 | sandfetchdismisscloth |  
+| bip_39_word_no_space_5 | sandfetchdismissclothenjoy |  
+| bip_39_word_no_space_6 | sandfetchdismissclothenjoytoken |  
+| bip_39_word_no_space_7 | sandfetchdismissclothenjoytokenengage |  
+| bip_39_word_no_space_8 | sandfetchdismissclothenjoytokenengagefrequent |  
+| bip_39_word_no_space_9 | sandfetchdismissclothenjoytokenengagefrequentmystery |  
 | bip_39_word_space_0 | ['sand', 'fetch', 'dismiss', 'cloth', 'enjoy', 'token', 'engage', 'frequent', 'mystery', 'accident', 'gift', 'access'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand fetch dismiss cloth enjoy token engage frequent mystery accident |  

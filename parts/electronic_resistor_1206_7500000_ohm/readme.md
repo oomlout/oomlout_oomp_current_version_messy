@@ -122,6 +122,18 @@ wet
 home
 tip
 earth |  
+| bip_39_word_no_space_1 | wrestle |  
+| bip_39_word_no_space_10 | wrestlealertrepeatpermitunawarewethometipearthparade |  
+| bip_39_word_no_space_11 | wrestlealertrepeatpermitunawarewethometipearthparadeloud |  
+| bip_39_word_no_space_12 | wrestlealertrepeatpermitunawarewethometipearthparadeloudaccident |  
+| bip_39_word_no_space_2 | wrestlealert |  
+| bip_39_word_no_space_3 | wrestlealertrepeat |  
+| bip_39_word_no_space_4 | wrestlealertrepeatpermit |  
+| bip_39_word_no_space_5 | wrestlealertrepeatpermitunaware |  
+| bip_39_word_no_space_6 | wrestlealertrepeatpermitunawarewet |  
+| bip_39_word_no_space_7 | wrestlealertrepeatpermitunawarewethome |  
+| bip_39_word_no_space_8 | wrestlealertrepeatpermitunawarewethometip |  
+| bip_39_word_no_space_9 | wrestlealertrepeatpermitunawarewethometipearth |  
 | bip_39_word_space_0 | ['wrestle', 'alert', 'repeat', 'permit', 'unaware', 'wet', 'home', 'tip', 'earth', 'parade', 'loud', 'accident'] |  
 | bip_39_word_space_1 | wrestle |  
 | bip_39_word_space_10 | wrestle alert repeat permit unaware wet home tip earth parade |  

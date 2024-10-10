@@ -122,6 +122,18 @@ dumb
 siren
 venture
 process |  
+| bip_39_word_no_space_1 | annual |  
+| bip_39_word_no_space_10 | annualpathindexoniontriggerdumbsirenventureprocesscoil |  
+| bip_39_word_no_space_11 | annualpathindexoniontriggerdumbsirenventureprocesscoilvisit |  
+| bip_39_word_no_space_12 | annualpathindexoniontriggerdumbsirenventureprocesscoilvisitachieve |  
+| bip_39_word_no_space_2 | annualpath |  
+| bip_39_word_no_space_3 | annualpathindex |  
+| bip_39_word_no_space_4 | annualpathindexonion |  
+| bip_39_word_no_space_5 | annualpathindexoniontrigger |  
+| bip_39_word_no_space_6 | annualpathindexoniontriggerdumb |  
+| bip_39_word_no_space_7 | annualpathindexoniontriggerdumbsiren |  
+| bip_39_word_no_space_8 | annualpathindexoniontriggerdumbsirenventure |  
+| bip_39_word_no_space_9 | annualpathindexoniontriggerdumbsirenventureprocess |  
 | bip_39_word_space_0 | ['annual', 'path', 'index', 'onion', 'trigger', 'dumb', 'siren', 'venture', 'process', 'coil', 'visit', 'achieve'] |  
 | bip_39_word_space_1 | annual |  
 | bip_39_word_space_10 | annual path index onion trigger dumb siren venture process coil |  

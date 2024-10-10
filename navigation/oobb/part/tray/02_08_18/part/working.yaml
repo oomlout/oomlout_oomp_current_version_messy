@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lounge
   release
 
   lawn'
+bip_39_word_no_space_1: lounge
+bip_39_word_no_space_10: loungeholdwiseenactmixemptybriefreleaselawnbundle
+bip_39_word_no_space_11: loungeholdwiseenactmixemptybriefreleaselawnbundlepeace
+bip_39_word_no_space_12: loungeholdwiseenactmixemptybriefreleaselawnbundlepeacearrange
+bip_39_word_no_space_2: loungehold
+bip_39_word_no_space_3: loungeholdwise
+bip_39_word_no_space_4: loungeholdwiseenact
+bip_39_word_no_space_5: loungeholdwiseenactmix
+bip_39_word_no_space_6: loungeholdwiseenactmixempty
+bip_39_word_no_space_7: loungeholdwiseenactmixemptybrief
+bip_39_word_no_space_8: loungeholdwiseenactmixemptybriefrelease
+bip_39_word_no_space_9: loungeholdwiseenactmixemptybriefreleaselawn
 bip_39_word_space_0:
 - lounge
 - hold

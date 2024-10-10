@@ -122,6 +122,18 @@ curious
 pupil
 fury
 quick |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragilesidecopperbelieveblackcuriouspupilfuryquickcapable |  
+| bip_39_word_no_space_11 | fragilesidecopperbelieveblackcuriouspupilfuryquickcapablegreat |  
+| bip_39_word_no_space_12 | fragilesidecopperbelieveblackcuriouspupilfuryquickcapablegreatangry |  
+| bip_39_word_no_space_2 | fragileside |  
+| bip_39_word_no_space_3 | fragilesidecopper |  
+| bip_39_word_no_space_4 | fragilesidecopperbelieve |  
+| bip_39_word_no_space_5 | fragilesidecopperbelieveblack |  
+| bip_39_word_no_space_6 | fragilesidecopperbelieveblackcurious |  
+| bip_39_word_no_space_7 | fragilesidecopperbelieveblackcuriouspupil |  
+| bip_39_word_no_space_8 | fragilesidecopperbelieveblackcuriouspupilfury |  
+| bip_39_word_no_space_9 | fragilesidecopperbelieveblackcuriouspupilfuryquick |  
 | bip_39_word_space_0 | ['fragile', 'side', 'copper', 'believe', 'black', 'curious', 'pupil', 'fury', 'quick', 'capable', 'great', 'angry'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile side copper believe black curious pupil fury quick capable |  

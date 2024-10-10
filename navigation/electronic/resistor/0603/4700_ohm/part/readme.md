@@ -122,6 +122,18 @@ giant
 orchard
 rescue
 camera |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | briskswapswordequipridgegiantorchardrescuecamerasweet |  
+| bip_39_word_no_space_11 | briskswapswordequipridgegiantorchardrescuecamerasweetscan |  
+| bip_39_word_no_space_12 | briskswapswordequipridgegiantorchardrescuecamerasweetscanalter |  
+| bip_39_word_no_space_2 | briskswap |  
+| bip_39_word_no_space_3 | briskswapsword |  
+| bip_39_word_no_space_4 | briskswapswordequip |  
+| bip_39_word_no_space_5 | briskswapswordequipridge |  
+| bip_39_word_no_space_6 | briskswapswordequipridgegiant |  
+| bip_39_word_no_space_7 | briskswapswordequipridgegiantorchard |  
+| bip_39_word_no_space_8 | briskswapswordequipridgegiantorchardrescue |  
+| bip_39_word_no_space_9 | briskswapswordequipridgegiantorchardrescuecamera |  
 | bip_39_word_space_0 | ['brisk', 'swap', 'sword', 'equip', 'ridge', 'giant', 'orchard', 'rescue', 'camera', 'sweet', 'scan', 'alter'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk swap sword equip ridge giant orchard rescue camera sweet |  

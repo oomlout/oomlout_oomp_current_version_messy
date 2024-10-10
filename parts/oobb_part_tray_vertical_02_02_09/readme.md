@@ -122,6 +122,18 @@ family
 jeans
 later
 price |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shaftbeltsufferblastpraisefamilyjeanslaterpricesleep |  
+| bip_39_word_no_space_11 | shaftbeltsufferblastpraisefamilyjeanslaterpricesleepjeans |  
+| bip_39_word_no_space_12 | shaftbeltsufferblastpraisefamilyjeanslaterpricesleepjeansairport |  
+| bip_39_word_no_space_2 | shaftbelt |  
+| bip_39_word_no_space_3 | shaftbeltsuffer |  
+| bip_39_word_no_space_4 | shaftbeltsufferblast |  
+| bip_39_word_no_space_5 | shaftbeltsufferblastpraise |  
+| bip_39_word_no_space_6 | shaftbeltsufferblastpraisefamily |  
+| bip_39_word_no_space_7 | shaftbeltsufferblastpraisefamilyjeans |  
+| bip_39_word_no_space_8 | shaftbeltsufferblastpraisefamilyjeanslater |  
+| bip_39_word_no_space_9 | shaftbeltsufferblastpraisefamilyjeanslaterprice |  
 | bip_39_word_space_0 | ['shaft', 'belt', 'suffer', 'blast', 'praise', 'family', 'jeans', 'later', 'price', 'sleep', 'jeans', 'airport'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft belt suffer blast praise family jeans later price sleep |  

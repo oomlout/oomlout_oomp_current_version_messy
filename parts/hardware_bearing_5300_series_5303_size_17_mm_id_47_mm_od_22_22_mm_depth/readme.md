@@ -122,6 +122,18 @@ wall
 rescue
 police
 version |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetprocessfoldslamsurveywallrescuepoliceversiongarment |  
+| bip_39_word_no_space_11 | wetprocessfoldslamsurveywallrescuepoliceversiongarmentunable |  
+| bip_39_word_no_space_12 | wetprocessfoldslamsurveywallrescuepoliceversiongarmentunableaccuse |  
+| bip_39_word_no_space_2 | wetprocess |  
+| bip_39_word_no_space_3 | wetprocessfold |  
+| bip_39_word_no_space_4 | wetprocessfoldslam |  
+| bip_39_word_no_space_5 | wetprocessfoldslamsurvey |  
+| bip_39_word_no_space_6 | wetprocessfoldslamsurveywall |  
+| bip_39_word_no_space_7 | wetprocessfoldslamsurveywallrescue |  
+| bip_39_word_no_space_8 | wetprocessfoldslamsurveywallrescuepolice |  
+| bip_39_word_no_space_9 | wetprocessfoldslamsurveywallrescuepoliceversion |  
 | bip_39_word_space_0 | ['wet', 'process', 'fold', 'slam', 'survey', 'wall', 'rescue', 'police', 'version', 'garment', 'unable', 'accuse'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet process fold slam survey wall rescue police version garment |  

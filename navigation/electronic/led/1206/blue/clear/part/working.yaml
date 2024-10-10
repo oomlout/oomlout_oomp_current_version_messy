@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'news
   torch
 
   cake'
+bip_39_word_no_space_1: news
+bip_39_word_no_space_10: newssincefirelizardsnapblackcoraltorchcakewood
+bip_39_word_no_space_11: newssincefirelizardsnapblackcoraltorchcakewoodwise
+bip_39_word_no_space_12: newssincefirelizardsnapblackcoraltorchcakewoodwiseaverage
+bip_39_word_no_space_2: newssince
+bip_39_word_no_space_3: newssincefire
+bip_39_word_no_space_4: newssincefirelizard
+bip_39_word_no_space_5: newssincefirelizardsnap
+bip_39_word_no_space_6: newssincefirelizardsnapblack
+bip_39_word_no_space_7: newssincefirelizardsnapblackcoral
+bip_39_word_no_space_8: newssincefirelizardsnapblackcoraltorch
+bip_39_word_no_space_9: newssincefirelizardsnapblackcoraltorchcake
 bip_39_word_space_0:
 - news
 - since

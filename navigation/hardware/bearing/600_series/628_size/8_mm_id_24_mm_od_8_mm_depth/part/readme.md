@@ -122,6 +122,18 @@ close
 cost
 kiwi
 interest |  
+| bip_39_word_no_space_1 | juice |  
+| bip_39_word_no_space_10 | juicegridopenignorebidclosecostkiwiinterestversion |  
+| bip_39_word_no_space_11 | juicegridopenignorebidclosecostkiwiinterestversionenable |  
+| bip_39_word_no_space_12 | juicegridopenignorebidclosecostkiwiinterestversionenableaim |  
+| bip_39_word_no_space_2 | juicegrid |  
+| bip_39_word_no_space_3 | juicegridopen |  
+| bip_39_word_no_space_4 | juicegridopenignore |  
+| bip_39_word_no_space_5 | juicegridopenignorebid |  
+| bip_39_word_no_space_6 | juicegridopenignorebidclose |  
+| bip_39_word_no_space_7 | juicegridopenignorebidclosecost |  
+| bip_39_word_no_space_8 | juicegridopenignorebidclosecostkiwi |  
+| bip_39_word_no_space_9 | juicegridopenignorebidclosecostkiwiinterest |  
 | bip_39_word_space_0 | ['juice', 'grid', 'open', 'ignore', 'bid', 'close', 'cost', 'kiwi', 'interest', 'version', 'enable', 'aim'] |  
 | bip_39_word_space_1 | juice |  
 | bip_39_word_space_10 | juice grid open ignore bid close cost kiwi interest version |  

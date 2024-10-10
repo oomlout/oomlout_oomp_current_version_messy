@@ -122,6 +122,18 @@ mango
 ugly
 soda
 toy |  
+| bip_39_word_no_space_1 | armed |  
+| bip_39_word_no_space_10 | armedflavorbrandhumbledriftmangouglysodatoyfire |  
+| bip_39_word_no_space_11 | armedflavorbrandhumbledriftmangouglysodatoyfireroom |  
+| bip_39_word_no_space_12 | armedflavorbrandhumbledriftmangouglysodatoyfireroomaccount |  
+| bip_39_word_no_space_2 | armedflavor |  
+| bip_39_word_no_space_3 | armedflavorbrand |  
+| bip_39_word_no_space_4 | armedflavorbrandhumble |  
+| bip_39_word_no_space_5 | armedflavorbrandhumbledrift |  
+| bip_39_word_no_space_6 | armedflavorbrandhumbledriftmango |  
+| bip_39_word_no_space_7 | armedflavorbrandhumbledriftmangougly |  
+| bip_39_word_no_space_8 | armedflavorbrandhumbledriftmangouglysoda |  
+| bip_39_word_no_space_9 | armedflavorbrandhumbledriftmangouglysodatoy |  
 | bip_39_word_space_0 | ['armed', 'flavor', 'brand', 'humble', 'drift', 'mango', 'ugly', 'soda', 'toy', 'fire', 'room', 'account'] |  
 | bip_39_word_space_1 | armed |  
 | bip_39_word_space_10 | armed flavor brand humble drift mango ugly soda toy fire |  

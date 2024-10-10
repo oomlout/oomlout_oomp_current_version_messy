@@ -122,6 +122,18 @@ choose
 doctor
 find
 awake |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blouseattractcanceltermstagechoosedoctorfindawakematerial |  
+| bip_39_word_no_space_11 | blouseattractcanceltermstagechoosedoctorfindawakematerialabove |  
+| bip_39_word_no_space_12 | blouseattractcanceltermstagechoosedoctorfindawakematerialabovearrow |  
+| bip_39_word_no_space_2 | blouseattract |  
+| bip_39_word_no_space_3 | blouseattractcancel |  
+| bip_39_word_no_space_4 | blouseattractcancelterm |  
+| bip_39_word_no_space_5 | blouseattractcanceltermstage |  
+| bip_39_word_no_space_6 | blouseattractcanceltermstagechoose |  
+| bip_39_word_no_space_7 | blouseattractcanceltermstagechoosedoctor |  
+| bip_39_word_no_space_8 | blouseattractcanceltermstagechoosedoctorfind |  
+| bip_39_word_no_space_9 | blouseattractcanceltermstagechoosedoctorfindawake |  
 | bip_39_word_space_0 | ['blouse', 'attract', 'cancel', 'term', 'stage', 'choose', 'doctor', 'find', 'awake', 'material', 'above', 'arrow'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse attract cancel term stage choose doctor find awake material |  

@@ -122,6 +122,18 @@ certain
 woman
 mandate
 retire |  
+| bip_39_word_no_space_1 | crater |  
+| bip_39_word_no_space_10 | craterexpressenoughspidersmoothcertainwomanmandateretiremillion |  
+| bip_39_word_no_space_11 | craterexpressenoughspidersmoothcertainwomanmandateretiremillionexercise |  
+| bip_39_word_no_space_12 | craterexpressenoughspidersmoothcertainwomanmandateretiremillionexerciseassault |  
+| bip_39_word_no_space_2 | craterexpress |  
+| bip_39_word_no_space_3 | craterexpressenough |  
+| bip_39_word_no_space_4 | craterexpressenoughspider |  
+| bip_39_word_no_space_5 | craterexpressenoughspidersmooth |  
+| bip_39_word_no_space_6 | craterexpressenoughspidersmoothcertain |  
+| bip_39_word_no_space_7 | craterexpressenoughspidersmoothcertainwoman |  
+| bip_39_word_no_space_8 | craterexpressenoughspidersmoothcertainwomanmandate |  
+| bip_39_word_no_space_9 | craterexpressenoughspidersmoothcertainwomanmandateretire |  
 | bip_39_word_space_0 | ['crater', 'express', 'enough', 'spider', 'smooth', 'certain', 'woman', 'mandate', 'retire', 'million', 'exercise', 'assault'] |  
 | bip_39_word_space_1 | crater |  
 | bip_39_word_space_10 | crater express enough spider smooth certain woman mandate retire million |  

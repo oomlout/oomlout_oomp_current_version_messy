@@ -122,6 +122,18 @@ potato
 surface
 caught
 equal |  
+| bip_39_word_no_space_1 | woman |  
+| bip_39_word_no_space_10 | womanmoonbreadlavamethodpotatosurfacecaughtequaleye |  
+| bip_39_word_no_space_11 | womanmoonbreadlavamethodpotatosurfacecaughtequaleyediffer |  
+| bip_39_word_no_space_12 | womanmoonbreadlavamethodpotatosurfacecaughtequaleyedifferanxiety |  
+| bip_39_word_no_space_2 | womanmoon |  
+| bip_39_word_no_space_3 | womanmoonbread |  
+| bip_39_word_no_space_4 | womanmoonbreadlava |  
+| bip_39_word_no_space_5 | womanmoonbreadlavamethod |  
+| bip_39_word_no_space_6 | womanmoonbreadlavamethodpotato |  
+| bip_39_word_no_space_7 | womanmoonbreadlavamethodpotatosurface |  
+| bip_39_word_no_space_8 | womanmoonbreadlavamethodpotatosurfacecaught |  
+| bip_39_word_no_space_9 | womanmoonbreadlavamethodpotatosurfacecaughtequal |  
 | bip_39_word_space_0 | ['woman', 'moon', 'bread', 'lava', 'method', 'potato', 'surface', 'caught', 'equal', 'eye', 'differ', 'anxiety'] |  
 | bip_39_word_space_1 | woman |  
 | bip_39_word_space_10 | woman moon bread lava method potato surface caught equal eye |  

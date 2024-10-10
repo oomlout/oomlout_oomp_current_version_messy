@@ -122,6 +122,18 @@ monster
 valve
 bottom
 faculty |  
+| bip_39_word_no_space_1 | reason |  
+| bip_39_word_no_space_10 | reasonedgeprocesstalkmodifymonstervalvebottomfacultystill |  
+| bip_39_word_no_space_11 | reasonedgeprocesstalkmodifymonstervalvebottomfacultystilljelly |  
+| bip_39_word_no_space_12 | reasonedgeprocesstalkmodifymonstervalvebottomfacultystilljellyattitude |  
+| bip_39_word_no_space_2 | reasonedge |  
+| bip_39_word_no_space_3 | reasonedgeprocess |  
+| bip_39_word_no_space_4 | reasonedgeprocesstalk |  
+| bip_39_word_no_space_5 | reasonedgeprocesstalkmodify |  
+| bip_39_word_no_space_6 | reasonedgeprocesstalkmodifymonster |  
+| bip_39_word_no_space_7 | reasonedgeprocesstalkmodifymonstervalve |  
+| bip_39_word_no_space_8 | reasonedgeprocesstalkmodifymonstervalvebottom |  
+| bip_39_word_no_space_9 | reasonedgeprocesstalkmodifymonstervalvebottomfaculty |  
 | bip_39_word_space_0 | ['reason', 'edge', 'process', 'talk', 'modify', 'monster', 'valve', 'bottom', 'faculty', 'still', 'jelly', 'attitude'] |  
 | bip_39_word_space_1 | reason |  
 | bip_39_word_space_10 | reason edge process talk modify monster valve bottom faculty still |  

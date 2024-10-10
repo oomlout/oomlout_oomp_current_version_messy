@@ -122,6 +122,18 @@ october
 nature
 casual
 trumpet |  
+| bip_39_word_no_space_1 | paddle |  
+| bip_39_word_no_space_10 | paddleblueflighthotelauditoctobernaturecasualtrumpetfence |  
+| bip_39_word_no_space_11 | paddleblueflighthotelauditoctobernaturecasualtrumpetfencedecrease |  
+| bip_39_word_no_space_12 | paddleblueflighthotelauditoctobernaturecasualtrumpetfencedecreasealbum |  
+| bip_39_word_no_space_2 | paddleblue |  
+| bip_39_word_no_space_3 | paddleblueflight |  
+| bip_39_word_no_space_4 | paddleblueflighthotel |  
+| bip_39_word_no_space_5 | paddleblueflighthotelaudit |  
+| bip_39_word_no_space_6 | paddleblueflighthotelauditoctober |  
+| bip_39_word_no_space_7 | paddleblueflighthotelauditoctobernature |  
+| bip_39_word_no_space_8 | paddleblueflighthotelauditoctobernaturecasual |  
+| bip_39_word_no_space_9 | paddleblueflighthotelauditoctobernaturecasualtrumpet |  
 | bip_39_word_space_0 | ['paddle', 'blue', 'flight', 'hotel', 'audit', 'october', 'nature', 'casual', 'trumpet', 'fence', 'decrease', 'album'] |  
 | bip_39_word_space_1 | paddle |  
 | bip_39_word_space_10 | paddle blue flight hotel audit october nature casual trumpet fence |  

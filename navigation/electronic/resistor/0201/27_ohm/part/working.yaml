@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'whale
   crowd
 
   bike'
+bip_39_word_no_space_1: whale
+bip_39_word_no_space_10: whalewarmemployskillbarrelclipprivatecrowdbikeearth
+bip_39_word_no_space_11: whalewarmemployskillbarrelclipprivatecrowdbikeearthannounce
+bip_39_word_no_space_12: whalewarmemployskillbarrelclipprivatecrowdbikeearthannounceattitude
+bip_39_word_no_space_2: whalewarm
+bip_39_word_no_space_3: whalewarmemploy
+bip_39_word_no_space_4: whalewarmemployskill
+bip_39_word_no_space_5: whalewarmemployskillbarrel
+bip_39_word_no_space_6: whalewarmemployskillbarrelclip
+bip_39_word_no_space_7: whalewarmemployskillbarrelclipprivate
+bip_39_word_no_space_8: whalewarmemployskillbarrelclipprivatecrowd
+bip_39_word_no_space_9: whalewarmemployskillbarrelclipprivatecrowdbike
 bip_39_word_space_0:
 - whale
 - warm

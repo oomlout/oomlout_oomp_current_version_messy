@@ -122,6 +122,18 @@ stairs
 castle
 scout
 ill |  
+| bip_39_word_no_space_1 | ugly |  
+| bip_39_word_no_space_10 | uglyhospitalrugrenewwheatstairscastlescoutillhead |  
+| bip_39_word_no_space_11 | uglyhospitalrugrenewwheatstairscastlescoutillheadexplain |  
+| bip_39_word_no_space_12 | uglyhospitalrugrenewwheatstairscastlescoutillheadexplainabsurd |  
+| bip_39_word_no_space_2 | uglyhospital |  
+| bip_39_word_no_space_3 | uglyhospitalrug |  
+| bip_39_word_no_space_4 | uglyhospitalrugrenew |  
+| bip_39_word_no_space_5 | uglyhospitalrugrenewwheat |  
+| bip_39_word_no_space_6 | uglyhospitalrugrenewwheatstairs |  
+| bip_39_word_no_space_7 | uglyhospitalrugrenewwheatstairscastle |  
+| bip_39_word_no_space_8 | uglyhospitalrugrenewwheatstairscastlescout |  
+| bip_39_word_no_space_9 | uglyhospitalrugrenewwheatstairscastlescoutill |  
 | bip_39_word_space_0 | ['ugly', 'hospital', 'rug', 'renew', 'wheat', 'stairs', 'castle', 'scout', 'ill', 'head', 'explain', 'absurd'] |  
 | bip_39_word_space_1 | ugly |  
 | bip_39_word_space_10 | ugly hospital rug renew wheat stairs castle scout ill head |  

@@ -122,6 +122,18 @@ tree
 hire
 more
 unfair |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenhumblemistakesymptomuglytreehiremoreunfairpigeon |  
+| bip_39_word_no_space_11 | burdenhumblemistakesymptomuglytreehiremoreunfairpigeondismiss |  
+| bip_39_word_no_space_12 | burdenhumblemistakesymptomuglytreehiremoreunfairpigeondismissask |  
+| bip_39_word_no_space_2 | burdenhumble |  
+| bip_39_word_no_space_3 | burdenhumblemistake |  
+| bip_39_word_no_space_4 | burdenhumblemistakesymptom |  
+| bip_39_word_no_space_5 | burdenhumblemistakesymptomugly |  
+| bip_39_word_no_space_6 | burdenhumblemistakesymptomuglytree |  
+| bip_39_word_no_space_7 | burdenhumblemistakesymptomuglytreehire |  
+| bip_39_word_no_space_8 | burdenhumblemistakesymptomuglytreehiremore |  
+| bip_39_word_no_space_9 | burdenhumblemistakesymptomuglytreehiremoreunfair |  
 | bip_39_word_space_0 | ['burden', 'humble', 'mistake', 'symptom', 'ugly', 'tree', 'hire', 'more', 'unfair', 'pigeon', 'dismiss', 'ask'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden humble mistake symptom ugly tree hire more unfair pigeon |  

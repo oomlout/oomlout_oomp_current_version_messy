@@ -122,6 +122,18 @@ tribe
 silent
 surge
 sign |  
+| bip_39_word_no_space_1 | tissue |  
+| bip_39_word_no_space_10 | tissueinquirycatbriefseattribesilentsurgesignritual |  
+| bip_39_word_no_space_11 | tissueinquirycatbriefseattribesilentsurgesignritualsalad |  
+| bip_39_word_no_space_12 | tissueinquirycatbriefseattribesilentsurgesignritualsaladafford |  
+| bip_39_word_no_space_2 | tissueinquiry |  
+| bip_39_word_no_space_3 | tissueinquirycat |  
+| bip_39_word_no_space_4 | tissueinquirycatbrief |  
+| bip_39_word_no_space_5 | tissueinquirycatbriefseat |  
+| bip_39_word_no_space_6 | tissueinquirycatbriefseattribe |  
+| bip_39_word_no_space_7 | tissueinquirycatbriefseattribesilent |  
+| bip_39_word_no_space_8 | tissueinquirycatbriefseattribesilentsurge |  
+| bip_39_word_no_space_9 | tissueinquirycatbriefseattribesilentsurgesign |  
 | bip_39_word_space_0 | ['tissue', 'inquiry', 'cat', 'brief', 'seat', 'tribe', 'silent', 'surge', 'sign', 'ritual', 'salad', 'afford'] |  
 | bip_39_word_space_1 | tissue |  
 | bip_39_word_space_10 | tissue inquiry cat brief seat tribe silent surge sign ritual |  

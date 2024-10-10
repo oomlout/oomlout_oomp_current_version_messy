@@ -122,6 +122,18 @@ fossil
 change
 distance
 country |  
+| bip_39_word_no_space_1 | adapt |  
+| bip_39_word_no_space_10 | adaptincomechickentribecopyfossilchangedistancecountrysafe |  
+| bip_39_word_no_space_11 | adaptincomechickentribecopyfossilchangedistancecountrysafeevoke |  
+| bip_39_word_no_space_12 | adaptincomechickentribecopyfossilchangedistancecountrysafeevokeair |  
+| bip_39_word_no_space_2 | adaptincome |  
+| bip_39_word_no_space_3 | adaptincomechicken |  
+| bip_39_word_no_space_4 | adaptincomechickentribe |  
+| bip_39_word_no_space_5 | adaptincomechickentribecopy |  
+| bip_39_word_no_space_6 | adaptincomechickentribecopyfossil |  
+| bip_39_word_no_space_7 | adaptincomechickentribecopyfossilchange |  
+| bip_39_word_no_space_8 | adaptincomechickentribecopyfossilchangedistance |  
+| bip_39_word_no_space_9 | adaptincomechickentribecopyfossilchangedistancecountry |  
 | bip_39_word_space_0 | ['adapt', 'income', 'chicken', 'tribe', 'copy', 'fossil', 'change', 'distance', 'country', 'safe', 'evoke', 'air'] |  
 | bip_39_word_space_1 | adapt |  
 | bip_39_word_space_10 | adapt income chicken tribe copy fossil change distance country safe |  

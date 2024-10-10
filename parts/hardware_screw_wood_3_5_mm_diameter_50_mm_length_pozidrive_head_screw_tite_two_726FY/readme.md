@@ -122,6 +122,18 @@ flee
 stage
 you
 erupt |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountainsearchseedbusradarfleestageyoueruptrun |  
+| bip_39_word_no_space_11 | mountainsearchseedbusradarfleestageyoueruptrunbrass |  
+| bip_39_word_no_space_12 | mountainsearchseedbusradarfleestageyoueruptrunbrassadvance |  
+| bip_39_word_no_space_2 | mountainsearch |  
+| bip_39_word_no_space_3 | mountainsearchseed |  
+| bip_39_word_no_space_4 | mountainsearchseedbus |  
+| bip_39_word_no_space_5 | mountainsearchseedbusradar |  
+| bip_39_word_no_space_6 | mountainsearchseedbusradarflee |  
+| bip_39_word_no_space_7 | mountainsearchseedbusradarfleestage |  
+| bip_39_word_no_space_8 | mountainsearchseedbusradarfleestageyou |  
+| bip_39_word_no_space_9 | mountainsearchseedbusradarfleestageyouerupt |  
 | bip_39_word_space_0 | ['mountain', 'search', 'seed', 'bus', 'radar', 'flee', 'stage', 'you', 'erupt', 'run', 'brass', 'advance'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain search seed bus radar flee stage you erupt run |  

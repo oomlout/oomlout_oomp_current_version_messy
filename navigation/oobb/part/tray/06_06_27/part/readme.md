@@ -122,6 +122,18 @@ brick
 giggle
 crush
 now |  
+| bip_39_word_no_space_1 | peace |  
+| bip_39_word_no_space_10 | peacenaivecrouchdreammusicbrickgigglecrushnowsmall |  
+| bip_39_word_no_space_11 | peacenaivecrouchdreammusicbrickgigglecrushnowsmalldesert |  
+| bip_39_word_no_space_12 | peacenaivecrouchdreammusicbrickgigglecrushnowsmalldesertarrive |  
+| bip_39_word_no_space_2 | peacenaive |  
+| bip_39_word_no_space_3 | peacenaivecrouch |  
+| bip_39_word_no_space_4 | peacenaivecrouchdream |  
+| bip_39_word_no_space_5 | peacenaivecrouchdreammusic |  
+| bip_39_word_no_space_6 | peacenaivecrouchdreammusicbrick |  
+| bip_39_word_no_space_7 | peacenaivecrouchdreammusicbrickgiggle |  
+| bip_39_word_no_space_8 | peacenaivecrouchdreammusicbrickgigglecrush |  
+| bip_39_word_no_space_9 | peacenaivecrouchdreammusicbrickgigglecrushnow |  
 | bip_39_word_space_0 | ['peace', 'naive', 'crouch', 'dream', 'music', 'brick', 'giggle', 'crush', 'now', 'small', 'desert', 'arrive'] |  
 | bip_39_word_space_1 | peace |  
 | bip_39_word_space_10 | peace naive crouch dream music brick giggle crush now small |  

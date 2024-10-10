@@ -122,6 +122,18 @@ step
 produce
 route
 sibling |  
+| bip_39_word_no_space_1 | expose |  
+| bip_39_word_no_space_10 | exposedecidepuzzleyouthozonestepproduceroutesiblingmushroom |  
+| bip_39_word_no_space_11 | exposedecidepuzzleyouthozonestepproduceroutesiblingmushroomfilm |  
+| bip_39_word_no_space_12 | exposedecidepuzzleyouthozonestepproduceroutesiblingmushroomfilmalcohol |  
+| bip_39_word_no_space_2 | exposedecide |  
+| bip_39_word_no_space_3 | exposedecidepuzzle |  
+| bip_39_word_no_space_4 | exposedecidepuzzleyouth |  
+| bip_39_word_no_space_5 | exposedecidepuzzleyouthozone |  
+| bip_39_word_no_space_6 | exposedecidepuzzleyouthozonestep |  
+| bip_39_word_no_space_7 | exposedecidepuzzleyouthozonestepproduce |  
+| bip_39_word_no_space_8 | exposedecidepuzzleyouthozonestepproduceroute |  
+| bip_39_word_no_space_9 | exposedecidepuzzleyouthozonestepproduceroutesibling |  
 | bip_39_word_space_0 | ['expose', 'decide', 'puzzle', 'youth', 'ozone', 'step', 'produce', 'route', 'sibling', 'mushroom', 'film', 'alcohol'] |  
 | bip_39_word_space_1 | expose |  
 | bip_39_word_space_10 | expose decide puzzle youth ozone step produce route sibling mushroom |  

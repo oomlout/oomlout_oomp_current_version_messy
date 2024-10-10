@@ -122,6 +122,18 @@ unhappy
 jewel
 velvet
 gown |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudeaddresstimberrejectlabelunhappyjewelvelvetgownvalve |  
+| bip_39_word_no_space_11 | attitudeaddresstimberrejectlabelunhappyjewelvelvetgownvalvetell |  
+| bip_39_word_no_space_12 | attitudeaddresstimberrejectlabelunhappyjewelvelvetgownvalvetellauthor |  
+| bip_39_word_no_space_2 | attitudeaddress |  
+| bip_39_word_no_space_3 | attitudeaddresstimber |  
+| bip_39_word_no_space_4 | attitudeaddresstimberreject |  
+| bip_39_word_no_space_5 | attitudeaddresstimberrejectlabel |  
+| bip_39_word_no_space_6 | attitudeaddresstimberrejectlabelunhappy |  
+| bip_39_word_no_space_7 | attitudeaddresstimberrejectlabelunhappyjewel |  
+| bip_39_word_no_space_8 | attitudeaddresstimberrejectlabelunhappyjewelvelvet |  
+| bip_39_word_no_space_9 | attitudeaddresstimberrejectlabelunhappyjewelvelvetgown |  
 | bip_39_word_space_0 | ['attitude', 'address', 'timber', 'reject', 'label', 'unhappy', 'jewel', 'velvet', 'gown', 'valve', 'tell', 'author'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude address timber reject label unhappy jewel velvet gown valve |  

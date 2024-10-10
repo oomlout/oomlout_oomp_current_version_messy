@@ -122,6 +122,18 @@ fatigue
 ketchup
 wink
 art |  
+| bip_39_word_no_space_1 | soon |  
+| bip_39_word_no_space_10 | soonindustryrelyforgetswordfatigueketchupwinkartfocus |  
+| bip_39_word_no_space_11 | soonindustryrelyforgetswordfatigueketchupwinkartfocusevoke |  
+| bip_39_word_no_space_12 | soonindustryrelyforgetswordfatigueketchupwinkartfocusevokeallow |  
+| bip_39_word_no_space_2 | soonindustry |  
+| bip_39_word_no_space_3 | soonindustryrely |  
+| bip_39_word_no_space_4 | soonindustryrelyforget |  
+| bip_39_word_no_space_5 | soonindustryrelyforgetsword |  
+| bip_39_word_no_space_6 | soonindustryrelyforgetswordfatigue |  
+| bip_39_word_no_space_7 | soonindustryrelyforgetswordfatigueketchup |  
+| bip_39_word_no_space_8 | soonindustryrelyforgetswordfatigueketchupwink |  
+| bip_39_word_no_space_9 | soonindustryrelyforgetswordfatigueketchupwinkart |  
 | bip_39_word_space_0 | ['soon', 'industry', 'rely', 'forget', 'sword', 'fatigue', 'ketchup', 'wink', 'art', 'focus', 'evoke', 'allow'] |  
 | bip_39_word_space_1 | soon |  
 | bip_39_word_space_10 | soon industry rely forget sword fatigue ketchup wink art focus |  

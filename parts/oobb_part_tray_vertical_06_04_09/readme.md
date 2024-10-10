@@ -122,6 +122,18 @@ erase
 welcome
 soon
 horn |  
+| bip_39_word_no_space_1 | elder |  
+| bip_39_word_no_space_10 | eldersizejustexposepositionerasewelcomesoonhornlabel |  
+| bip_39_word_no_space_11 | eldersizejustexposepositionerasewelcomesoonhornlabelride |  
+| bip_39_word_no_space_12 | eldersizejustexposepositionerasewelcomesoonhornlabelridealbum |  
+| bip_39_word_no_space_2 | eldersize |  
+| bip_39_word_no_space_3 | eldersizejust |  
+| bip_39_word_no_space_4 | eldersizejustexpose |  
+| bip_39_word_no_space_5 | eldersizejustexposeposition |  
+| bip_39_word_no_space_6 | eldersizejustexposepositionerase |  
+| bip_39_word_no_space_7 | eldersizejustexposepositionerasewelcome |  
+| bip_39_word_no_space_8 | eldersizejustexposepositionerasewelcomesoon |  
+| bip_39_word_no_space_9 | eldersizejustexposepositionerasewelcomesoonhorn |  
 | bip_39_word_space_0 | ['elder', 'size', 'just', 'expose', 'position', 'erase', 'welcome', 'soon', 'horn', 'label', 'ride', 'album'] |  
 | bip_39_word_space_1 | elder |  
 | bip_39_word_space_10 | elder size just expose position erase welcome soon horn label |  

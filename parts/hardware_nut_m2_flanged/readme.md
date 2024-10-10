@@ -122,6 +122,18 @@ volcano
 tent
 nature
 spray |  
+| bip_39_word_no_space_1 | rookie |  
+| bip_39_word_no_space_10 | rookiegrasswantwildflavorvolcanotentnaturespraysniff |  
+| bip_39_word_no_space_11 | rookiegrasswantwildflavorvolcanotentnaturespraysnifferupt |  
+| bip_39_word_no_space_12 | rookiegrasswantwildflavorvolcanotentnaturespraysnifferuptalien |  
+| bip_39_word_no_space_2 | rookiegrass |  
+| bip_39_word_no_space_3 | rookiegrasswant |  
+| bip_39_word_no_space_4 | rookiegrasswantwild |  
+| bip_39_word_no_space_5 | rookiegrasswantwildflavor |  
+| bip_39_word_no_space_6 | rookiegrasswantwildflavorvolcano |  
+| bip_39_word_no_space_7 | rookiegrasswantwildflavorvolcanotent |  
+| bip_39_word_no_space_8 | rookiegrasswantwildflavorvolcanotentnature |  
+| bip_39_word_no_space_9 | rookiegrasswantwildflavorvolcanotentnaturespray |  
 | bip_39_word_space_0 | ['rookie', 'grass', 'want', 'wild', 'flavor', 'volcano', 'tent', 'nature', 'spray', 'sniff', 'erupt', 'alien'] |  
 | bip_39_word_space_1 | rookie |  
 | bip_39_word_space_10 | rookie grass want wild flavor volcano tent nature spray sniff |  

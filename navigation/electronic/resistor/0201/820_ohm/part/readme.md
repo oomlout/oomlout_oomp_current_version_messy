@@ -122,6 +122,18 @@ grab
 alien
 horse
 setup |  
+| bip_39_word_no_space_1 | pipe |  
+| bip_39_word_no_space_10 | pipefictionmazealoneabilitygrabalienhorsesetupsymptom |  
+| bip_39_word_no_space_11 | pipefictionmazealoneabilitygrabalienhorsesetupsymptomcarbon |  
+| bip_39_word_no_space_12 | pipefictionmazealoneabilitygrabalienhorsesetupsymptomcarbonattitude |  
+| bip_39_word_no_space_2 | pipefiction |  
+| bip_39_word_no_space_3 | pipefictionmaze |  
+| bip_39_word_no_space_4 | pipefictionmazealone |  
+| bip_39_word_no_space_5 | pipefictionmazealoneability |  
+| bip_39_word_no_space_6 | pipefictionmazealoneabilitygrab |  
+| bip_39_word_no_space_7 | pipefictionmazealoneabilitygrabalien |  
+| bip_39_word_no_space_8 | pipefictionmazealoneabilitygrabalienhorse |  
+| bip_39_word_no_space_9 | pipefictionmazealoneabilitygrabalienhorsesetup |  
 | bip_39_word_space_0 | ['pipe', 'fiction', 'maze', 'alone', 'ability', 'grab', 'alien', 'horse', 'setup', 'symptom', 'carbon', 'attitude'] |  
 | bip_39_word_space_1 | pipe |  
 | bip_39_word_space_10 | pipe fiction maze alone ability grab alien horse setup symptom |  

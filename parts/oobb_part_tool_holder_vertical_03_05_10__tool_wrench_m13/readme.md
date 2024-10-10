@@ -122,6 +122,18 @@ stairs
 spray
 maple
 define |  
+| bip_39_word_no_space_1 | innocent |  
+| bip_39_word_no_space_10 | innocentswingeyecheesefalsestairsspraymapledefinemethod |  
+| bip_39_word_no_space_11 | innocentswingeyecheesefalsestairsspraymapledefinemethodclump |  
+| bip_39_word_no_space_12 | innocentswingeyecheesefalsestairsspraymapledefinemethodclumpavocado |  
+| bip_39_word_no_space_2 | innocentswing |  
+| bip_39_word_no_space_3 | innocentswingeye |  
+| bip_39_word_no_space_4 | innocentswingeyecheese |  
+| bip_39_word_no_space_5 | innocentswingeyecheesefalse |  
+| bip_39_word_no_space_6 | innocentswingeyecheesefalsestairs |  
+| bip_39_word_no_space_7 | innocentswingeyecheesefalsestairsspray |  
+| bip_39_word_no_space_8 | innocentswingeyecheesefalsestairsspraymaple |  
+| bip_39_word_no_space_9 | innocentswingeyecheesefalsestairsspraymapledefine |  
 | bip_39_word_space_0 | ['innocent', 'swing', 'eye', 'cheese', 'false', 'stairs', 'spray', 'maple', 'define', 'method', 'clump', 'avocado'] |  
 | bip_39_word_space_1 | innocent |  
 | bip_39_word_space_10 | innocent swing eye cheese false stairs spray maple define method |  

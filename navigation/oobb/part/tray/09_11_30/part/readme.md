@@ -122,6 +122,18 @@ wedding
 gas
 loyal
 city |  
+| bip_39_word_no_space_1 | learn |  
+| bip_39_word_no_space_10 | learnweekendrarechooseradioweddinggasloyalcityroast |  
+| bip_39_word_no_space_11 | learnweekendrarechooseradioweddinggasloyalcityroastenergy |  
+| bip_39_word_no_space_12 | learnweekendrarechooseradioweddinggasloyalcityroastenergyaisle |  
+| bip_39_word_no_space_2 | learnweekend |  
+| bip_39_word_no_space_3 | learnweekendrare |  
+| bip_39_word_no_space_4 | learnweekendrarechoose |  
+| bip_39_word_no_space_5 | learnweekendrarechooseradio |  
+| bip_39_word_no_space_6 | learnweekendrarechooseradiowedding |  
+| bip_39_word_no_space_7 | learnweekendrarechooseradioweddinggas |  
+| bip_39_word_no_space_8 | learnweekendrarechooseradioweddinggasloyal |  
+| bip_39_word_no_space_9 | learnweekendrarechooseradioweddinggasloyalcity |  
 | bip_39_word_space_0 | ['learn', 'weekend', 'rare', 'choose', 'radio', 'wedding', 'gas', 'loyal', 'city', 'roast', 'energy', 'aisle'] |  
 | bip_39_word_space_1 | learn |  
 | bip_39_word_space_10 | learn weekend rare choose radio wedding gas loyal city roast |  

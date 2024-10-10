@@ -122,6 +122,18 @@ gossip
 foil
 total
 mystery |  
+| bip_39_word_no_space_1 | unable |  
+| bip_39_word_no_space_10 | unableregionjudgeeasydangergossipfoiltotalmysteryfield |  
+| bip_39_word_no_space_11 | unableregionjudgeeasydangergossipfoiltotalmysteryfieldissue |  
+| bip_39_word_no_space_12 | unableregionjudgeeasydangergossipfoiltotalmysteryfieldissueacross |  
+| bip_39_word_no_space_2 | unableregion |  
+| bip_39_word_no_space_3 | unableregionjudge |  
+| bip_39_word_no_space_4 | unableregionjudgeeasy |  
+| bip_39_word_no_space_5 | unableregionjudgeeasydanger |  
+| bip_39_word_no_space_6 | unableregionjudgeeasydangergossip |  
+| bip_39_word_no_space_7 | unableregionjudgeeasydangergossipfoil |  
+| bip_39_word_no_space_8 | unableregionjudgeeasydangergossipfoiltotal |  
+| bip_39_word_no_space_9 | unableregionjudgeeasydangergossipfoiltotalmystery |  
 | bip_39_word_space_0 | ['unable', 'region', 'judge', 'easy', 'danger', 'gossip', 'foil', 'total', 'mystery', 'field', 'issue', 'across'] |  
 | bip_39_word_space_1 | unable |  
 | bip_39_word_space_10 | unable region judge easy danger gossip foil total mystery field |  

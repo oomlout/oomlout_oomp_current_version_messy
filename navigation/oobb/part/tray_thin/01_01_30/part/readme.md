@@ -122,6 +122,18 @@ wing
 finish
 argue
 donate |  
+| bip_39_word_no_space_1 | fly |  
+| bip_39_word_no_space_10 | flydolphindeliverpriorityshoulderwingfinisharguedonatehundred |  
+| bip_39_word_no_space_11 | flydolphindeliverpriorityshoulderwingfinisharguedonatehundredsyrup |  
+| bip_39_word_no_space_12 | flydolphindeliverpriorityshoulderwingfinisharguedonatehundredsyrupadapt |  
+| bip_39_word_no_space_2 | flydolphin |  
+| bip_39_word_no_space_3 | flydolphindeliver |  
+| bip_39_word_no_space_4 | flydolphindeliverpriority |  
+| bip_39_word_no_space_5 | flydolphindeliverpriorityshoulder |  
+| bip_39_word_no_space_6 | flydolphindeliverpriorityshoulderwing |  
+| bip_39_word_no_space_7 | flydolphindeliverpriorityshoulderwingfinish |  
+| bip_39_word_no_space_8 | flydolphindeliverpriorityshoulderwingfinishargue |  
+| bip_39_word_no_space_9 | flydolphindeliverpriorityshoulderwingfinisharguedonate |  
 | bip_39_word_space_0 | ['fly', 'dolphin', 'deliver', 'priority', 'shoulder', 'wing', 'finish', 'argue', 'donate', 'hundred', 'syrup', 'adapt'] |  
 | bip_39_word_space_1 | fly |  
 | bip_39_word_space_10 | fly dolphin deliver priority shoulder wing finish argue donate hundred |  

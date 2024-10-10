@@ -122,6 +122,18 @@ eagle
 suit
 beef
 ignore |  
+| bip_39_word_no_space_1 | damp |  
+| bip_39_word_no_space_10 | dampuglyheartgroupcakeeaglesuitbeefignorehoney |  
+| bip_39_word_no_space_11 | dampuglyheartgroupcakeeaglesuitbeefignorehoneypiano |  
+| bip_39_word_no_space_12 | dampuglyheartgroupcakeeaglesuitbeefignorehoneypianoattitude |  
+| bip_39_word_no_space_2 | dampugly |  
+| bip_39_word_no_space_3 | dampuglyheart |  
+| bip_39_word_no_space_4 | dampuglyheartgroup |  
+| bip_39_word_no_space_5 | dampuglyheartgroupcake |  
+| bip_39_word_no_space_6 | dampuglyheartgroupcakeeagle |  
+| bip_39_word_no_space_7 | dampuglyheartgroupcakeeaglesuit |  
+| bip_39_word_no_space_8 | dampuglyheartgroupcakeeaglesuitbeef |  
+| bip_39_word_no_space_9 | dampuglyheartgroupcakeeaglesuitbeefignore |  
 | bip_39_word_space_0 | ['damp', 'ugly', 'heart', 'group', 'cake', 'eagle', 'suit', 'beef', 'ignore', 'honey', 'piano', 'attitude'] |  
 | bip_39_word_space_1 | damp |  
 | bip_39_word_space_10 | damp ugly heart group cake eagle suit beef ignore honey |  

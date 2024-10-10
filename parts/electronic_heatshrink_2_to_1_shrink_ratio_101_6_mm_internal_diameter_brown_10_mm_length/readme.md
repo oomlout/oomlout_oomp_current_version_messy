@@ -122,6 +122,18 @@ hybrid
 give
 make
 fee |  
+| bip_39_word_no_space_1 | rookie |  
+| bip_39_word_no_space_10 | rookievotetinyfebruaryupholdhybridgivemakefeecome |  
+| bip_39_word_no_space_11 | rookievotetinyfebruaryupholdhybridgivemakefeecomeutility |  
+| bip_39_word_no_space_12 | rookievotetinyfebruaryupholdhybridgivemakefeecomeutilityany |  
+| bip_39_word_no_space_2 | rookievote |  
+| bip_39_word_no_space_3 | rookievotetiny |  
+| bip_39_word_no_space_4 | rookievotetinyfebruary |  
+| bip_39_word_no_space_5 | rookievotetinyfebruaryuphold |  
+| bip_39_word_no_space_6 | rookievotetinyfebruaryupholdhybrid |  
+| bip_39_word_no_space_7 | rookievotetinyfebruaryupholdhybridgive |  
+| bip_39_word_no_space_8 | rookievotetinyfebruaryupholdhybridgivemake |  
+| bip_39_word_no_space_9 | rookievotetinyfebruaryupholdhybridgivemakefee |  
 | bip_39_word_space_0 | ['rookie', 'vote', 'tiny', 'february', 'uphold', 'hybrid', 'give', 'make', 'fee', 'come', 'utility', 'any'] |  
 | bip_39_word_space_1 | rookie |  
 | bip_39_word_space_10 | rookie vote tiny february uphold hybrid give make fee come |  

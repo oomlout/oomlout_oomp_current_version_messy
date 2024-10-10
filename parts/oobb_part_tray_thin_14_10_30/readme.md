@@ -122,6 +122,18 @@ erode
 act
 diesel
 credit |  
+| bip_39_word_no_space_1 | stuff |  
+| bip_39_word_no_space_10 | stuffpandasuggestwagoncomeerodeactdieselcreditsubway |  
+| bip_39_word_no_space_11 | stuffpandasuggestwagoncomeerodeactdieselcreditsubwaygiggle |  
+| bip_39_word_no_space_12 | stuffpandasuggestwagoncomeerodeactdieselcreditsubwaygigglealready |  
+| bip_39_word_no_space_2 | stuffpanda |  
+| bip_39_word_no_space_3 | stuffpandasuggest |  
+| bip_39_word_no_space_4 | stuffpandasuggestwagon |  
+| bip_39_word_no_space_5 | stuffpandasuggestwagoncome |  
+| bip_39_word_no_space_6 | stuffpandasuggestwagoncomeerode |  
+| bip_39_word_no_space_7 | stuffpandasuggestwagoncomeerodeact |  
+| bip_39_word_no_space_8 | stuffpandasuggestwagoncomeerodeactdiesel |  
+| bip_39_word_no_space_9 | stuffpandasuggestwagoncomeerodeactdieselcredit |  
 | bip_39_word_space_0 | ['stuff', 'panda', 'suggest', 'wagon', 'come', 'erode', 'act', 'diesel', 'credit', 'subway', 'giggle', 'already'] |  
 | bip_39_word_space_1 | stuff |  
 | bip_39_word_space_10 | stuff panda suggest wagon come erode act diesel credit subway |  

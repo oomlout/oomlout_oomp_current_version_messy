@@ -122,6 +122,18 @@ indicate
 wash
 orphan
 raven |  
+| bip_39_word_no_space_1 | pigeon |  
+| bip_39_word_no_space_10 | pigeongownloadfetchduringindicatewashorphanravenboil |  
+| bip_39_word_no_space_11 | pigeongownloadfetchduringindicatewashorphanravenboilconcert |  
+| bip_39_word_no_space_12 | pigeongownloadfetchduringindicatewashorphanravenboilconcertatom |  
+| bip_39_word_no_space_2 | pigeongown |  
+| bip_39_word_no_space_3 | pigeongownload |  
+| bip_39_word_no_space_4 | pigeongownloadfetch |  
+| bip_39_word_no_space_5 | pigeongownloadfetchduring |  
+| bip_39_word_no_space_6 | pigeongownloadfetchduringindicate |  
+| bip_39_word_no_space_7 | pigeongownloadfetchduringindicatewash |  
+| bip_39_word_no_space_8 | pigeongownloadfetchduringindicatewashorphan |  
+| bip_39_word_no_space_9 | pigeongownloadfetchduringindicatewashorphanraven |  
 | bip_39_word_space_0 | ['pigeon', 'gown', 'load', 'fetch', 'during', 'indicate', 'wash', 'orphan', 'raven', 'boil', 'concert', 'atom'] |  
 | bip_39_word_space_1 | pigeon |  
 | bip_39_word_space_10 | pigeon gown load fetch during indicate wash orphan raven boil |  

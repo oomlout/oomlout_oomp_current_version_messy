@@ -122,6 +122,18 @@ agree
 verb
 lottery
 long |  
+| bip_39_word_no_space_1 | cushion |  
+| bip_39_word_no_space_10 | cushionwrongyellowsleepgruntagreeverblotterylongresponse |  
+| bip_39_word_no_space_11 | cushionwrongyellowsleepgruntagreeverblotterylongresponsemilk |  
+| bip_39_word_no_space_12 | cushionwrongyellowsleepgruntagreeverblotterylongresponsemilkarch |  
+| bip_39_word_no_space_2 | cushionwrong |  
+| bip_39_word_no_space_3 | cushionwrongyellow |  
+| bip_39_word_no_space_4 | cushionwrongyellowsleep |  
+| bip_39_word_no_space_5 | cushionwrongyellowsleepgrunt |  
+| bip_39_word_no_space_6 | cushionwrongyellowsleepgruntagree |  
+| bip_39_word_no_space_7 | cushionwrongyellowsleepgruntagreeverb |  
+| bip_39_word_no_space_8 | cushionwrongyellowsleepgruntagreeverblottery |  
+| bip_39_word_no_space_9 | cushionwrongyellowsleepgruntagreeverblotterylong |  
 | bip_39_word_space_0 | ['cushion', 'wrong', 'yellow', 'sleep', 'grunt', 'agree', 'verb', 'lottery', 'long', 'response', 'milk', 'arch'] |  
 | bip_39_word_space_1 | cushion |  
 | bip_39_word_space_10 | cushion wrong yellow sleep grunt agree verb lottery long response |  

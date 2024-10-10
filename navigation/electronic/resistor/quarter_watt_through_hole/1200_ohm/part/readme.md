@@ -122,6 +122,18 @@ large
 find
 gap
 sunny |  
+| bip_39_word_no_space_1 | flee |  
+| bip_39_word_no_space_10 | fleeclientcallfirstbecauselargefindgapsunnyunhappy |  
+| bip_39_word_no_space_11 | fleeclientcallfirstbecauselargefindgapsunnyunhappycustom |  
+| bip_39_word_no_space_12 | fleeclientcallfirstbecauselargefindgapsunnyunhappycustomarrive |  
+| bip_39_word_no_space_2 | fleeclient |  
+| bip_39_word_no_space_3 | fleeclientcall |  
+| bip_39_word_no_space_4 | fleeclientcallfirst |  
+| bip_39_word_no_space_5 | fleeclientcallfirstbecause |  
+| bip_39_word_no_space_6 | fleeclientcallfirstbecauselarge |  
+| bip_39_word_no_space_7 | fleeclientcallfirstbecauselargefind |  
+| bip_39_word_no_space_8 | fleeclientcallfirstbecauselargefindgap |  
+| bip_39_word_no_space_9 | fleeclientcallfirstbecauselargefindgapsunny |  
 | bip_39_word_space_0 | ['flee', 'client', 'call', 'first', 'because', 'large', 'find', 'gap', 'sunny', 'unhappy', 'custom', 'arrive'] |  
 | bip_39_word_space_1 | flee |  
 | bip_39_word_space_10 | flee client call first because large find gap sunny unhappy |  

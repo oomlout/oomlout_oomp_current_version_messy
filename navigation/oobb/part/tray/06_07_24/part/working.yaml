@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'velvet
   auction
 
   slim'
+bip_39_word_no_space_1: velvet
+bip_39_word_no_space_10: velvetthisscaresciencenorthexiletermauctionslimchurn
+bip_39_word_no_space_11: velvetthisscaresciencenorthexiletermauctionslimchurnpanel
+bip_39_word_no_space_12: velvetthisscaresciencenorthexiletermauctionslimchurnpanelage
+bip_39_word_no_space_2: velvetthis
+bip_39_word_no_space_3: velvetthisscare
+bip_39_word_no_space_4: velvetthisscarescience
+bip_39_word_no_space_5: velvetthisscaresciencenorth
+bip_39_word_no_space_6: velvetthisscaresciencenorthexile
+bip_39_word_no_space_7: velvetthisscaresciencenorthexileterm
+bip_39_word_no_space_8: velvetthisscaresciencenorthexiletermauction
+bip_39_word_no_space_9: velvetthisscaresciencenorthexiletermauctionslim
 bip_39_word_space_0:
 - velvet
 - this

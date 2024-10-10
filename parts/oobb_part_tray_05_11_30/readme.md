@@ -122,6 +122,18 @@ salmon
 also
 suspect
 about |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewfebruarywintercementstablesalmonalsosuspectaboutcolumn |  
+| bip_39_word_no_space_11 | fewfebruarywintercementstablesalmonalsosuspectaboutcolumndragon |  
+| bip_39_word_no_space_12 | fewfebruarywintercementstablesalmonalsosuspectaboutcolumndragonaugust |  
+| bip_39_word_no_space_2 | fewfebruary |  
+| bip_39_word_no_space_3 | fewfebruarywinter |  
+| bip_39_word_no_space_4 | fewfebruarywintercement |  
+| bip_39_word_no_space_5 | fewfebruarywintercementstable |  
+| bip_39_word_no_space_6 | fewfebruarywintercementstablesalmon |  
+| bip_39_word_no_space_7 | fewfebruarywintercementstablesalmonalso |  
+| bip_39_word_no_space_8 | fewfebruarywintercementstablesalmonalsosuspect |  
+| bip_39_word_no_space_9 | fewfebruarywintercementstablesalmonalsosuspectabout |  
 | bip_39_word_space_0 | ['few', 'february', 'winter', 'cement', 'stable', 'salmon', 'also', 'suspect', 'about', 'column', 'dragon', 'august'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few february winter cement stable salmon also suspect about column |  

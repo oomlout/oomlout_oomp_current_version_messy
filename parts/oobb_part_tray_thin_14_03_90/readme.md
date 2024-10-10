@@ -122,6 +122,18 @@ success
 choose
 final
 bomb |  
+| bip_39_word_no_space_1 | rare |  
+| bip_39_word_no_space_10 | rarestoryvalidbeachmoviesuccesschoosefinalbombquarter |  
+| bip_39_word_no_space_11 | rarestoryvalidbeachmoviesuccesschoosefinalbombquarterglide |  
+| bip_39_word_no_space_12 | rarestoryvalidbeachmoviesuccesschoosefinalbombquarterglideagree |  
+| bip_39_word_no_space_2 | rarestory |  
+| bip_39_word_no_space_3 | rarestoryvalid |  
+| bip_39_word_no_space_4 | rarestoryvalidbeach |  
+| bip_39_word_no_space_5 | rarestoryvalidbeachmovie |  
+| bip_39_word_no_space_6 | rarestoryvalidbeachmoviesuccess |  
+| bip_39_word_no_space_7 | rarestoryvalidbeachmoviesuccesschoose |  
+| bip_39_word_no_space_8 | rarestoryvalidbeachmoviesuccesschoosefinal |  
+| bip_39_word_no_space_9 | rarestoryvalidbeachmoviesuccesschoosefinalbomb |  
 | bip_39_word_space_0 | ['rare', 'story', 'valid', 'beach', 'movie', 'success', 'choose', 'final', 'bomb', 'quarter', 'glide', 'agree'] |  
 | bip_39_word_space_1 | rare |  
 | bip_39_word_space_10 | rare story valid beach movie success choose final bomb quarter |  

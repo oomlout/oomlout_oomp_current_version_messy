@@ -122,6 +122,18 @@ mixture
 toddler
 march
 inch |  
+| bip_39_word_no_space_1 | lesson |  
+| bip_39_word_no_space_10 | lessonhoneydieselradartruemixturetoddlermarchinchleaf |  
+| bip_39_word_no_space_11 | lessonhoneydieselradartruemixturetoddlermarchinchleaftooth |  
+| bip_39_word_no_space_12 | lessonhoneydieselradartruemixturetoddlermarchinchleaftoothaugust |  
+| bip_39_word_no_space_2 | lessonhoney |  
+| bip_39_word_no_space_3 | lessonhoneydiesel |  
+| bip_39_word_no_space_4 | lessonhoneydieselradar |  
+| bip_39_word_no_space_5 | lessonhoneydieselradartrue |  
+| bip_39_word_no_space_6 | lessonhoneydieselradartruemixture |  
+| bip_39_word_no_space_7 | lessonhoneydieselradartruemixturetoddler |  
+| bip_39_word_no_space_8 | lessonhoneydieselradartruemixturetoddlermarch |  
+| bip_39_word_no_space_9 | lessonhoneydieselradartruemixturetoddlermarchinch |  
 | bip_39_word_space_0 | ['lesson', 'honey', 'diesel', 'radar', 'true', 'mixture', 'toddler', 'march', 'inch', 'leaf', 'tooth', 'august'] |  
 | bip_39_word_space_1 | lesson |  
 | bip_39_word_space_10 | lesson honey diesel radar true mixture toddler march inch leaf |  

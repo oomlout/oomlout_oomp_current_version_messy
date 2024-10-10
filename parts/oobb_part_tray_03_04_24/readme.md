@@ -122,6 +122,18 @@ pelican
 feature
 dance
 glare |  
+| bip_39_word_no_space_1 | wreck |  
+| bip_39_word_no_space_10 | wreckbluelaptopflamedestroypelicanfeaturedanceglareinch |  
+| bip_39_word_no_space_11 | wreckbluelaptopflamedestroypelicanfeaturedanceglareinchchef |  
+| bip_39_word_no_space_12 | wreckbluelaptopflamedestroypelicanfeaturedanceglareinchchefanimal |  
+| bip_39_word_no_space_2 | wreckblue |  
+| bip_39_word_no_space_3 | wreckbluelaptop |  
+| bip_39_word_no_space_4 | wreckbluelaptopflame |  
+| bip_39_word_no_space_5 | wreckbluelaptopflamedestroy |  
+| bip_39_word_no_space_6 | wreckbluelaptopflamedestroypelican |  
+| bip_39_word_no_space_7 | wreckbluelaptopflamedestroypelicanfeature |  
+| bip_39_word_no_space_8 | wreckbluelaptopflamedestroypelicanfeaturedance |  
+| bip_39_word_no_space_9 | wreckbluelaptopflamedestroypelicanfeaturedanceglare |  
 | bip_39_word_space_0 | ['wreck', 'blue', 'laptop', 'flame', 'destroy', 'pelican', 'feature', 'dance', 'glare', 'inch', 'chef', 'animal'] |  
 | bip_39_word_space_1 | wreck |  
 | bip_39_word_space_10 | wreck blue laptop flame destroy pelican feature dance glare inch |  

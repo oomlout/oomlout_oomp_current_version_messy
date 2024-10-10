@@ -122,6 +122,18 @@ long
 pulse
 belt
 payment |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangaroodialplanetholidaytrimlongpulsebeltpaymentorphan |  
+| bip_39_word_no_space_11 | kangaroodialplanetholidaytrimlongpulsebeltpaymentorphanokay |  
+| bip_39_word_no_space_12 | kangaroodialplanetholidaytrimlongpulsebeltpaymentorphanokayapology |  
+| bip_39_word_no_space_2 | kangaroodial |  
+| bip_39_word_no_space_3 | kangaroodialplanet |  
+| bip_39_word_no_space_4 | kangaroodialplanetholiday |  
+| bip_39_word_no_space_5 | kangaroodialplanetholidaytrim |  
+| bip_39_word_no_space_6 | kangaroodialplanetholidaytrimlong |  
+| bip_39_word_no_space_7 | kangaroodialplanetholidaytrimlongpulse |  
+| bip_39_word_no_space_8 | kangaroodialplanetholidaytrimlongpulsebelt |  
+| bip_39_word_no_space_9 | kangaroodialplanetholidaytrimlongpulsebeltpayment |  
 | bip_39_word_space_0 | ['kangaroo', 'dial', 'planet', 'holiday', 'trim', 'long', 'pulse', 'belt', 'payment', 'orphan', 'okay', 'apology'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo dial planet holiday trim long pulse belt payment orphan |  

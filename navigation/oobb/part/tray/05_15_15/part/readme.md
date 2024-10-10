@@ -122,6 +122,18 @@ intact
 scan
 goddess
 effort |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | sealoungemakecrushjuniorintactscangoddessefforttissue |  
+| bip_39_word_no_space_11 | sealoungemakecrushjuniorintactscangoddessefforttissuestudent |  
+| bip_39_word_no_space_12 | sealoungemakecrushjuniorintactscangoddessefforttissuestudentalbum |  
+| bip_39_word_no_space_2 | sealounge |  
+| bip_39_word_no_space_3 | sealoungemake |  
+| bip_39_word_no_space_4 | sealoungemakecrush |  
+| bip_39_word_no_space_5 | sealoungemakecrushjunior |  
+| bip_39_word_no_space_6 | sealoungemakecrushjuniorintact |  
+| bip_39_word_no_space_7 | sealoungemakecrushjuniorintactscan |  
+| bip_39_word_no_space_8 | sealoungemakecrushjuniorintactscangoddess |  
+| bip_39_word_no_space_9 | sealoungemakecrushjuniorintactscangoddesseffort |  
 | bip_39_word_space_0 | ['sea', 'lounge', 'make', 'crush', 'junior', 'intact', 'scan', 'goddess', 'effort', 'tissue', 'student', 'album'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea lounge make crush junior intact scan goddess effort tissue |  

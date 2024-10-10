@@ -122,6 +122,18 @@ argue
 track
 kingdom
 hurdle |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | clapsweardemisetypicaltheoryarguetrackkingdomhurdleflower |  
+| bip_39_word_no_space_11 | clapsweardemisetypicaltheoryarguetrackkingdomhurdleflowersubway |  
+| bip_39_word_no_space_12 | clapsweardemisetypicaltheoryarguetrackkingdomhurdleflowersubwayaccident |  
+| bip_39_word_no_space_2 | clapswear |  
+| bip_39_word_no_space_3 | clapsweardemise |  
+| bip_39_word_no_space_4 | clapsweardemisetypical |  
+| bip_39_word_no_space_5 | clapsweardemisetypicaltheory |  
+| bip_39_word_no_space_6 | clapsweardemisetypicaltheoryargue |  
+| bip_39_word_no_space_7 | clapsweardemisetypicaltheoryarguetrack |  
+| bip_39_word_no_space_8 | clapsweardemisetypicaltheoryarguetrackkingdom |  
+| bip_39_word_no_space_9 | clapsweardemisetypicaltheoryarguetrackkingdomhurdle |  
 | bip_39_word_space_0 | ['clap', 'swear', 'demise', 'typical', 'theory', 'argue', 'track', 'kingdom', 'hurdle', 'flower', 'subway', 'accident'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap swear demise typical theory argue track kingdom hurdle flower |  

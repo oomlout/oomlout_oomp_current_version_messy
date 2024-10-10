@@ -122,6 +122,18 @@ include
 agree
 anxiety
 win |  
+| bip_39_word_no_space_1 | rocket |  
+| bip_39_word_no_space_10 | rocketenoughmansionmobilepeopleincludeagreeanxietywinaware |  
+| bip_39_word_no_space_11 | rocketenoughmansionmobilepeopleincludeagreeanxietywinawarethumb |  
+| bip_39_word_no_space_12 | rocketenoughmansionmobilepeopleincludeagreeanxietywinawarethumbarrive |  
+| bip_39_word_no_space_2 | rocketenough |  
+| bip_39_word_no_space_3 | rocketenoughmansion |  
+| bip_39_word_no_space_4 | rocketenoughmansionmobile |  
+| bip_39_word_no_space_5 | rocketenoughmansionmobilepeople |  
+| bip_39_word_no_space_6 | rocketenoughmansionmobilepeopleinclude |  
+| bip_39_word_no_space_7 | rocketenoughmansionmobilepeopleincludeagree |  
+| bip_39_word_no_space_8 | rocketenoughmansionmobilepeopleincludeagreeanxiety |  
+| bip_39_word_no_space_9 | rocketenoughmansionmobilepeopleincludeagreeanxietywin |  
 | bip_39_word_space_0 | ['rocket', 'enough', 'mansion', 'mobile', 'people', 'include', 'agree', 'anxiety', 'win', 'aware', 'thumb', 'arrive'] |  
 | bip_39_word_space_1 | rocket |  
 | bip_39_word_space_10 | rocket enough mansion mobile people include agree anxiety win aware |  

@@ -122,6 +122,18 @@ company
 swarm
 century
 cigar |  
+| bip_39_word_no_space_1 | trophy |  
+| bip_39_word_no_space_10 | trophyseatketchupblurseniorcompanyswarmcenturycigarfix |  
+| bip_39_word_no_space_11 | trophyseatketchupblurseniorcompanyswarmcenturycigarfixmain |  
+| bip_39_word_no_space_12 | trophyseatketchupblurseniorcompanyswarmcenturycigarfixmainattack |  
+| bip_39_word_no_space_2 | trophyseat |  
+| bip_39_word_no_space_3 | trophyseatketchup |  
+| bip_39_word_no_space_4 | trophyseatketchupblur |  
+| bip_39_word_no_space_5 | trophyseatketchupblursenior |  
+| bip_39_word_no_space_6 | trophyseatketchupblurseniorcompany |  
+| bip_39_word_no_space_7 | trophyseatketchupblurseniorcompanyswarm |  
+| bip_39_word_no_space_8 | trophyseatketchupblurseniorcompanyswarmcentury |  
+| bip_39_word_no_space_9 | trophyseatketchupblurseniorcompanyswarmcenturycigar |  
 | bip_39_word_space_0 | ['trophy', 'seat', 'ketchup', 'blur', 'senior', 'company', 'swarm', 'century', 'cigar', 'fix', 'main', 'attack'] |  
 | bip_39_word_space_1 | trophy |  
 | bip_39_word_space_10 | trophy seat ketchup blur senior company swarm century cigar fix |  

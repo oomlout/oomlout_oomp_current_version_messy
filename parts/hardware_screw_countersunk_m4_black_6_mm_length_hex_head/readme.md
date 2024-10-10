@@ -122,6 +122,18 @@ friend
 hobby
 good
 tomato |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingpurseupperbittertonguefriendhobbygoodtomatokangaroo |  
+| bip_39_word_no_space_11 | nothingpurseupperbittertonguefriendhobbygoodtomatokangaroocactus |  
+| bip_39_word_no_space_12 | nothingpurseupperbittertonguefriendhobbygoodtomatokangaroocactusantenna |  
+| bip_39_word_no_space_2 | nothingpurse |  
+| bip_39_word_no_space_3 | nothingpurseupper |  
+| bip_39_word_no_space_4 | nothingpurseupperbitter |  
+| bip_39_word_no_space_5 | nothingpurseupperbittertongue |  
+| bip_39_word_no_space_6 | nothingpurseupperbittertonguefriend |  
+| bip_39_word_no_space_7 | nothingpurseupperbittertonguefriendhobby |  
+| bip_39_word_no_space_8 | nothingpurseupperbittertonguefriendhobbygood |  
+| bip_39_word_no_space_9 | nothingpurseupperbittertonguefriendhobbygoodtomato |  
 | bip_39_word_space_0 | ['nothing', 'purse', 'upper', 'bitter', 'tongue', 'friend', 'hobby', 'good', 'tomato', 'kangaroo', 'cactus', 'antenna'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing purse upper bitter tongue friend hobby good tomato kangaroo |  

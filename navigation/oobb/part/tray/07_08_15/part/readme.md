@@ -122,6 +122,18 @@ search
 deliver
 draw
 dumb |  
+| bip_39_word_no_space_1 | weird |  
+| bip_39_word_no_space_10 | weirdhelptoastvillagetoddlersearchdeliverdrawdumbcargo |  
+| bip_39_word_no_space_11 | weirdhelptoastvillagetoddlersearchdeliverdrawdumbcargosick |  
+| bip_39_word_no_space_12 | weirdhelptoastvillagetoddlersearchdeliverdrawdumbcargosickauthor |  
+| bip_39_word_no_space_2 | weirdhelp |  
+| bip_39_word_no_space_3 | weirdhelptoast |  
+| bip_39_word_no_space_4 | weirdhelptoastvillage |  
+| bip_39_word_no_space_5 | weirdhelptoastvillagetoddler |  
+| bip_39_word_no_space_6 | weirdhelptoastvillagetoddlersearch |  
+| bip_39_word_no_space_7 | weirdhelptoastvillagetoddlersearchdeliver |  
+| bip_39_word_no_space_8 | weirdhelptoastvillagetoddlersearchdeliverdraw |  
+| bip_39_word_no_space_9 | weirdhelptoastvillagetoddlersearchdeliverdrawdumb |  
 | bip_39_word_space_0 | ['weird', 'help', 'toast', 'village', 'toddler', 'search', 'deliver', 'draw', 'dumb', 'cargo', 'sick', 'author'] |  
 | bip_39_word_space_1 | weird |  
 | bip_39_word_space_10 | weird help toast village toddler search deliver draw dumb cargo |  

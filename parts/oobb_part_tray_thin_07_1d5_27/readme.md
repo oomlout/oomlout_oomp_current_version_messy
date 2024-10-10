@@ -122,6 +122,18 @@ bulb
 neither
 husband
 stairs |  
+| bip_39_word_no_space_1 | possible |  
+| bip_39_word_no_space_10 | possibleindustrycrushinviteoffbulbneitherhusbandstairsquiz |  
+| bip_39_word_no_space_11 | possibleindustrycrushinviteoffbulbneitherhusbandstairsquizbag |  
+| bip_39_word_no_space_12 | possibleindustrycrushinviteoffbulbneitherhusbandstairsquizbagalone |  
+| bip_39_word_no_space_2 | possibleindustry |  
+| bip_39_word_no_space_3 | possibleindustrycrush |  
+| bip_39_word_no_space_4 | possibleindustrycrushinvite |  
+| bip_39_word_no_space_5 | possibleindustrycrushinviteoff |  
+| bip_39_word_no_space_6 | possibleindustrycrushinviteoffbulb |  
+| bip_39_word_no_space_7 | possibleindustrycrushinviteoffbulbneither |  
+| bip_39_word_no_space_8 | possibleindustrycrushinviteoffbulbneitherhusband |  
+| bip_39_word_no_space_9 | possibleindustrycrushinviteoffbulbneitherhusbandstairs |  
 | bip_39_word_space_0 | ['possible', 'industry', 'crush', 'invite', 'off', 'bulb', 'neither', 'husband', 'stairs', 'quiz', 'bag', 'alone'] |  
 | bip_39_word_space_1 | possible |  
 | bip_39_word_space_10 | possible industry crush invite off bulb neither husband stairs quiz |  

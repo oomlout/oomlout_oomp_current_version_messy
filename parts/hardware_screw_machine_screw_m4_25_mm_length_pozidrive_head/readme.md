@@ -122,6 +122,18 @@ rocket
 enhance
 owner
 crack |  
+| bip_39_word_no_space_1 | shell |  
+| bip_39_word_no_space_10 | shellsustaindelivernumberwasterocketenhanceownercrackshield |  
+| bip_39_word_no_space_11 | shellsustaindelivernumberwasterocketenhanceownercrackshieldabsent |  
+| bip_39_word_no_space_12 | shellsustaindelivernumberwasterocketenhanceownercrackshieldabsentamazing |  
+| bip_39_word_no_space_2 | shellsustain |  
+| bip_39_word_no_space_3 | shellsustaindeliver |  
+| bip_39_word_no_space_4 | shellsustaindelivernumber |  
+| bip_39_word_no_space_5 | shellsustaindelivernumberwaste |  
+| bip_39_word_no_space_6 | shellsustaindelivernumberwasterocket |  
+| bip_39_word_no_space_7 | shellsustaindelivernumberwasterocketenhance |  
+| bip_39_word_no_space_8 | shellsustaindelivernumberwasterocketenhanceowner |  
+| bip_39_word_no_space_9 | shellsustaindelivernumberwasterocketenhanceownercrack |  
 | bip_39_word_space_0 | ['shell', 'sustain', 'deliver', 'number', 'waste', 'rocket', 'enhance', 'owner', 'crack', 'shield', 'absent', 'amazing'] |  
 | bip_39_word_space_1 | shell |  
 | bip_39_word_space_10 | shell sustain deliver number waste rocket enhance owner crack shield |  

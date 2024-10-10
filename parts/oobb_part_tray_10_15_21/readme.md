@@ -122,6 +122,18 @@ harbor
 iron
 news
 blast |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzepipenaturecriticblossomharborironnewsblastsand |  
+| bip_39_word_no_space_11 | bronzepipenaturecriticblossomharborironnewsblastsandshoe |  
+| bip_39_word_no_space_12 | bronzepipenaturecriticblossomharborironnewsblastsandshoeamount |  
+| bip_39_word_no_space_2 | bronzepipe |  
+| bip_39_word_no_space_3 | bronzepipenature |  
+| bip_39_word_no_space_4 | bronzepipenaturecritic |  
+| bip_39_word_no_space_5 | bronzepipenaturecriticblossom |  
+| bip_39_word_no_space_6 | bronzepipenaturecriticblossomharbor |  
+| bip_39_word_no_space_7 | bronzepipenaturecriticblossomharboriron |  
+| bip_39_word_no_space_8 | bronzepipenaturecriticblossomharborironnews |  
+| bip_39_word_no_space_9 | bronzepipenaturecriticblossomharborironnewsblast |  
 | bip_39_word_space_0 | ['bronze', 'pipe', 'nature', 'critic', 'blossom', 'harbor', 'iron', 'news', 'blast', 'sand', 'shoe', 'amount'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze pipe nature critic blossom harbor iron news blast sand |  

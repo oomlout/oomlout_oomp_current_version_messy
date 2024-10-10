@@ -122,6 +122,18 @@ kind
 drop
 label
 tongue |  
+| bip_39_word_no_space_1 | raccoon |  
+| bip_39_word_no_space_10 | raccoonventurepathensurewoodkinddroplabeltonguesoccer |  
+| bip_39_word_no_space_11 | raccoonventurepathensurewoodkinddroplabeltonguesoccerresult |  
+| bip_39_word_no_space_12 | raccoonventurepathensurewoodkinddroplabeltonguesoccerresultalien |  
+| bip_39_word_no_space_2 | raccoonventure |  
+| bip_39_word_no_space_3 | raccoonventurepath |  
+| bip_39_word_no_space_4 | raccoonventurepathensure |  
+| bip_39_word_no_space_5 | raccoonventurepathensurewood |  
+| bip_39_word_no_space_6 | raccoonventurepathensurewoodkind |  
+| bip_39_word_no_space_7 | raccoonventurepathensurewoodkinddrop |  
+| bip_39_word_no_space_8 | raccoonventurepathensurewoodkinddroplabel |  
+| bip_39_word_no_space_9 | raccoonventurepathensurewoodkinddroplabeltongue |  
 | bip_39_word_space_0 | ['raccoon', 'venture', 'path', 'ensure', 'wood', 'kind', 'drop', 'label', 'tongue', 'soccer', 'result', 'alien'] |  
 | bip_39_word_space_1 | raccoon |  
 | bip_39_word_space_10 | raccoon venture path ensure wood kind drop label tongue soccer |  

@@ -122,6 +122,18 @@ regular
 dirt
 enough
 timber |  
+| bip_39_word_no_space_1 | viable |  
+| bip_39_word_no_space_10 | viablevaguemediaorientruleregulardirtenoughtimbertrouble |  
+| bip_39_word_no_space_11 | viablevaguemediaorientruleregulardirtenoughtimbertroubletomato |  
+| bip_39_word_no_space_12 | viablevaguemediaorientruleregulardirtenoughtimbertroubletomatoarmed |  
+| bip_39_word_no_space_2 | viablevague |  
+| bip_39_word_no_space_3 | viablevaguemedia |  
+| bip_39_word_no_space_4 | viablevaguemediaorient |  
+| bip_39_word_no_space_5 | viablevaguemediaorientrule |  
+| bip_39_word_no_space_6 | viablevaguemediaorientruleregular |  
+| bip_39_word_no_space_7 | viablevaguemediaorientruleregulardirt |  
+| bip_39_word_no_space_8 | viablevaguemediaorientruleregulardirtenough |  
+| bip_39_word_no_space_9 | viablevaguemediaorientruleregulardirtenoughtimber |  
 | bip_39_word_space_0 | ['viable', 'vague', 'media', 'orient', 'rule', 'regular', 'dirt', 'enough', 'timber', 'trouble', 'tomato', 'armed'] |  
 | bip_39_word_space_1 | viable |  
 | bip_39_word_space_10 | viable vague media orient rule regular dirt enough timber trouble |  

@@ -122,6 +122,18 @@ cheap
 viable
 earth
 place |  
+| bip_39_word_no_space_1 | popular |  
+| bip_39_word_no_space_10 | popularreunionfebruarygingernoticecheapviableearthplaceinfant |  
+| bip_39_word_no_space_11 | popularreunionfebruarygingernoticecheapviableearthplaceinfantdefense |  
+| bip_39_word_no_space_12 | popularreunionfebruarygingernoticecheapviableearthplaceinfantdefenseamateur |  
+| bip_39_word_no_space_2 | popularreunion |  
+| bip_39_word_no_space_3 | popularreunionfebruary |  
+| bip_39_word_no_space_4 | popularreunionfebruaryginger |  
+| bip_39_word_no_space_5 | popularreunionfebruarygingernotice |  
+| bip_39_word_no_space_6 | popularreunionfebruarygingernoticecheap |  
+| bip_39_word_no_space_7 | popularreunionfebruarygingernoticecheapviable |  
+| bip_39_word_no_space_8 | popularreunionfebruarygingernoticecheapviableearth |  
+| bip_39_word_no_space_9 | popularreunionfebruarygingernoticecheapviableearthplace |  
 | bip_39_word_space_0 | ['popular', 'reunion', 'february', 'ginger', 'notice', 'cheap', 'viable', 'earth', 'place', 'infant', 'defense', 'amateur'] |  
 | bip_39_word_space_1 | popular |  
 | bip_39_word_space_10 | popular reunion february ginger notice cheap viable earth place infant |  

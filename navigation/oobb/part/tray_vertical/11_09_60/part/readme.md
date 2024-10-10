@@ -122,6 +122,18 @@ spirit
 sentence
 dish
 absorb |  
+| bip_39_word_no_space_1 | critic |  
+| bip_39_word_no_space_10 | criticshallowozonerecipejunkspiritsentencedishabsorbbridge |  
+| bip_39_word_no_space_11 | criticshallowozonerecipejunkspiritsentencedishabsorbbridgeenrich |  
+| bip_39_word_no_space_12 | criticshallowozonerecipejunkspiritsentencedishabsorbbridgeenrichaddict |  
+| bip_39_word_no_space_2 | criticshallow |  
+| bip_39_word_no_space_3 | criticshallowozone |  
+| bip_39_word_no_space_4 | criticshallowozonerecipe |  
+| bip_39_word_no_space_5 | criticshallowozonerecipejunk |  
+| bip_39_word_no_space_6 | criticshallowozonerecipejunkspirit |  
+| bip_39_word_no_space_7 | criticshallowozonerecipejunkspiritsentence |  
+| bip_39_word_no_space_8 | criticshallowozonerecipejunkspiritsentencedish |  
+| bip_39_word_no_space_9 | criticshallowozonerecipejunkspiritsentencedishabsorb |  
 | bip_39_word_space_0 | ['critic', 'shallow', 'ozone', 'recipe', 'junk', 'spirit', 'sentence', 'dish', 'absorb', 'bridge', 'enrich', 'addict'] |  
 | bip_39_word_space_1 | critic |  
 | bip_39_word_space_10 | critic shallow ozone recipe junk spirit sentence dish absorb bridge |  

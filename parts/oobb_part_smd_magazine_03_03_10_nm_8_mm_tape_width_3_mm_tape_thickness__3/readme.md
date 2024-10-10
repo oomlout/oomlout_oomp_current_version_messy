@@ -122,6 +122,18 @@ wait
 swim
 document
 ride |  
+| bip_39_word_no_space_1 | feed |  
+| bip_39_word_no_space_10 | feedtrialclawgigglevelvetwaitswimdocumentridecrystal |  
+| bip_39_word_no_space_11 | feedtrialclawgigglevelvetwaitswimdocumentridecrystalpilot |  
+| bip_39_word_no_space_12 | feedtrialclawgigglevelvetwaitswimdocumentridecrystalpilotabout |  
+| bip_39_word_no_space_2 | feedtrial |  
+| bip_39_word_no_space_3 | feedtrialclaw |  
+| bip_39_word_no_space_4 | feedtrialclawgiggle |  
+| bip_39_word_no_space_5 | feedtrialclawgigglevelvet |  
+| bip_39_word_no_space_6 | feedtrialclawgigglevelvetwait |  
+| bip_39_word_no_space_7 | feedtrialclawgigglevelvetwaitswim |  
+| bip_39_word_no_space_8 | feedtrialclawgigglevelvetwaitswimdocument |  
+| bip_39_word_no_space_9 | feedtrialclawgigglevelvetwaitswimdocumentride |  
 | bip_39_word_space_0 | ['feed', 'trial', 'claw', 'giggle', 'velvet', 'wait', 'swim', 'document', 'ride', 'crystal', 'pilot', 'about'] |  
 | bip_39_word_space_1 | feed |  
 | bip_39_word_space_10 | feed trial claw giggle velvet wait swim document ride crystal |  

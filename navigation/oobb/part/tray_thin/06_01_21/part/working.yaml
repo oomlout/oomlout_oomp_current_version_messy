@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'powder
   circle
 
   first'
+bip_39_word_no_space_1: powder
+bip_39_word_no_space_10: powderfoamblessthenswiftslushamusedcirclefirstsphere
+bip_39_word_no_space_11: powderfoamblessthenswiftslushamusedcirclefirstsphereignore
+bip_39_word_no_space_12: powderfoamblessthenswiftslushamusedcirclefirstsphereignoreapprove
+bip_39_word_no_space_2: powderfoam
+bip_39_word_no_space_3: powderfoambless
+bip_39_word_no_space_4: powderfoamblessthen
+bip_39_word_no_space_5: powderfoamblessthenswift
+bip_39_word_no_space_6: powderfoamblessthenswiftslush
+bip_39_word_no_space_7: powderfoamblessthenswiftslushamused
+bip_39_word_no_space_8: powderfoamblessthenswiftslushamusedcircle
+bip_39_word_no_space_9: powderfoamblessthenswiftslushamusedcirclefirst
 bip_39_word_space_0:
 - powder
 - foam

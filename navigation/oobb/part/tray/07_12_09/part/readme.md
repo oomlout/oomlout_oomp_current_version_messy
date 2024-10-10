@@ -122,6 +122,18 @@ excess
 mail
 hero
 frost |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancecupsecurityyoungghostexcessmailherofrostbest |  
+| bip_39_word_no_space_11 | dancecupsecurityyoungghostexcessmailherofrostbesttravel |  
+| bip_39_word_no_space_12 | dancecupsecurityyoungghostexcessmailherofrostbesttravelatom |  
+| bip_39_word_no_space_2 | dancecup |  
+| bip_39_word_no_space_3 | dancecupsecurity |  
+| bip_39_word_no_space_4 | dancecupsecurityyoung |  
+| bip_39_word_no_space_5 | dancecupsecurityyoungghost |  
+| bip_39_word_no_space_6 | dancecupsecurityyoungghostexcess |  
+| bip_39_word_no_space_7 | dancecupsecurityyoungghostexcessmail |  
+| bip_39_word_no_space_8 | dancecupsecurityyoungghostexcessmailhero |  
+| bip_39_word_no_space_9 | dancecupsecurityyoungghostexcessmailherofrost |  
 | bip_39_word_space_0 | ['dance', 'cup', 'security', 'young', 'ghost', 'excess', 'mail', 'hero', 'frost', 'best', 'travel', 'atom'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance cup security young ghost excess mail hero frost best |  

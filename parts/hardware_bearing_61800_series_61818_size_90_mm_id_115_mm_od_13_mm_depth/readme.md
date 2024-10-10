@@ -122,6 +122,18 @@ close
 where
 merry
 reason |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectwantbonesixawakeclosewheremerryreasonpurpose |  
+| bip_39_word_no_space_11 | selectwantbonesixawakeclosewheremerryreasonpurposedeer |  
+| bip_39_word_no_space_12 | selectwantbonesixawakeclosewheremerryreasonpurposedeerantique |  
+| bip_39_word_no_space_2 | selectwant |  
+| bip_39_word_no_space_3 | selectwantbone |  
+| bip_39_word_no_space_4 | selectwantbonesix |  
+| bip_39_word_no_space_5 | selectwantbonesixawake |  
+| bip_39_word_no_space_6 | selectwantbonesixawakeclose |  
+| bip_39_word_no_space_7 | selectwantbonesixawakeclosewhere |  
+| bip_39_word_no_space_8 | selectwantbonesixawakeclosewheremerry |  
+| bip_39_word_no_space_9 | selectwantbonesixawakeclosewheremerryreason |  
 | bip_39_word_space_0 | ['select', 'want', 'bone', 'six', 'awake', 'close', 'where', 'merry', 'reason', 'purpose', 'deer', 'antique'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select want bone six awake close where merry reason purpose |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fine
   task
 
   grant'
+bip_39_word_no_space_1: fine
+bip_39_word_no_space_10: fineweaselapartlearndevotehireboardtaskgrantany
+bip_39_word_no_space_11: fineweaselapartlearndevotehireboardtaskgrantanyallow
+bip_39_word_no_space_12: fineweaselapartlearndevotehireboardtaskgrantanyallowauthor
+bip_39_word_no_space_2: fineweasel
+bip_39_word_no_space_3: fineweaselapart
+bip_39_word_no_space_4: fineweaselapartlearn
+bip_39_word_no_space_5: fineweaselapartlearndevote
+bip_39_word_no_space_6: fineweaselapartlearndevotehire
+bip_39_word_no_space_7: fineweaselapartlearndevotehireboard
+bip_39_word_no_space_8: fineweaselapartlearndevotehireboardtask
+bip_39_word_no_space_9: fineweaselapartlearndevotehireboardtaskgrant
 bip_39_word_space_0:
 - fine
 - weasel

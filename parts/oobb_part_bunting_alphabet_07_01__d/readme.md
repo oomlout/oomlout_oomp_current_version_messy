@@ -122,6 +122,18 @@ toward
 angle
 prize
 pumpkin |  
+| bip_39_word_no_space_1 | night |  
+| bip_39_word_no_space_10 | nightspringproblemfaultsuchtowardangleprizepumpkinglad |  
+| bip_39_word_no_space_11 | nightspringproblemfaultsuchtowardangleprizepumpkingladbehave |  
+| bip_39_word_no_space_12 | nightspringproblemfaultsuchtowardangleprizepumpkingladbehaveassault |  
+| bip_39_word_no_space_2 | nightspring |  
+| bip_39_word_no_space_3 | nightspringproblem |  
+| bip_39_word_no_space_4 | nightspringproblemfault |  
+| bip_39_word_no_space_5 | nightspringproblemfaultsuch |  
+| bip_39_word_no_space_6 | nightspringproblemfaultsuchtoward |  
+| bip_39_word_no_space_7 | nightspringproblemfaultsuchtowardangle |  
+| bip_39_word_no_space_8 | nightspringproblemfaultsuchtowardangleprize |  
+| bip_39_word_no_space_9 | nightspringproblemfaultsuchtowardangleprizepumpkin |  
 | bip_39_word_space_0 | ['night', 'spring', 'problem', 'fault', 'such', 'toward', 'angle', 'prize', 'pumpkin', 'glad', 'behave', 'assault'] |  
 | bip_39_word_space_1 | night |  
 | bip_39_word_space_10 | night spring problem fault such toward angle prize pumpkin glad |  

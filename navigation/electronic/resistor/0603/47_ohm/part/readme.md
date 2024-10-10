@@ -122,6 +122,18 @@ success
 path
 reveal
 expose |  
+| bip_39_word_no_space_1 | arrow |  
+| bip_39_word_no_space_10 | arrowjardeliveradultturnsuccesspathrevealexposerecipe |  
+| bip_39_word_no_space_11 | arrowjardeliveradultturnsuccesspathrevealexposerecipestomach |  
+| bip_39_word_no_space_12 | arrowjardeliveradultturnsuccesspathrevealexposerecipestomachapology |  
+| bip_39_word_no_space_2 | arrowjar |  
+| bip_39_word_no_space_3 | arrowjardeliver |  
+| bip_39_word_no_space_4 | arrowjardeliveradult |  
+| bip_39_word_no_space_5 | arrowjardeliveradultturn |  
+| bip_39_word_no_space_6 | arrowjardeliveradultturnsuccess |  
+| bip_39_word_no_space_7 | arrowjardeliveradultturnsuccesspath |  
+| bip_39_word_no_space_8 | arrowjardeliveradultturnsuccesspathreveal |  
+| bip_39_word_no_space_9 | arrowjardeliveradultturnsuccesspathrevealexpose |  
 | bip_39_word_space_0 | ['arrow', 'jar', 'deliver', 'adult', 'turn', 'success', 'path', 'reveal', 'expose', 'recipe', 'stomach', 'apology'] |  
 | bip_39_word_space_1 | arrow |  
 | bip_39_word_space_10 | arrow jar deliver adult turn success path reveal expose recipe |  

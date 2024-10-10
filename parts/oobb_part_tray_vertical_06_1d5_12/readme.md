@@ -122,6 +122,18 @@ vast
 immune
 miss
 city |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagegladburstlifestayvastimmunemisscityfence |  
+| bip_39_word_no_space_11 | vintagegladburstlifestayvastimmunemisscityfencequarter |  
+| bip_39_word_no_space_12 | vintagegladburstlifestayvastimmunemisscityfencequarteracoustic |  
+| bip_39_word_no_space_2 | vintageglad |  
+| bip_39_word_no_space_3 | vintagegladburst |  
+| bip_39_word_no_space_4 | vintagegladburstlife |  
+| bip_39_word_no_space_5 | vintagegladburstlifestay |  
+| bip_39_word_no_space_6 | vintagegladburstlifestayvast |  
+| bip_39_word_no_space_7 | vintagegladburstlifestayvastimmune |  
+| bip_39_word_no_space_8 | vintagegladburstlifestayvastimmunemiss |  
+| bip_39_word_no_space_9 | vintagegladburstlifestayvastimmunemisscity |  
 | bip_39_word_space_0 | ['vintage', 'glad', 'burst', 'life', 'stay', 'vast', 'immune', 'miss', 'city', 'fence', 'quarter', 'acoustic'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage glad burst life stay vast immune miss city fence |  

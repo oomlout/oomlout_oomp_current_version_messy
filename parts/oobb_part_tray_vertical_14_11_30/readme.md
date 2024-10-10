@@ -122,6 +122,18 @@ bread
 shallow
 rent
 rough |  
+| bip_39_word_no_space_1 | else |  
+| bip_39_word_no_space_10 | elsemosquitoonlygloryindexbreadshallowrentroughvalid |  
+| bip_39_word_no_space_11 | elsemosquitoonlygloryindexbreadshallowrentroughvalidmelt |  
+| bip_39_word_no_space_12 | elsemosquitoonlygloryindexbreadshallowrentroughvalidmeltask |  
+| bip_39_word_no_space_2 | elsemosquito |  
+| bip_39_word_no_space_3 | elsemosquitoonly |  
+| bip_39_word_no_space_4 | elsemosquitoonlyglory |  
+| bip_39_word_no_space_5 | elsemosquitoonlygloryindex |  
+| bip_39_word_no_space_6 | elsemosquitoonlygloryindexbread |  
+| bip_39_word_no_space_7 | elsemosquitoonlygloryindexbreadshallow |  
+| bip_39_word_no_space_8 | elsemosquitoonlygloryindexbreadshallowrent |  
+| bip_39_word_no_space_9 | elsemosquitoonlygloryindexbreadshallowrentrough |  
 | bip_39_word_space_0 | ['else', 'mosquito', 'only', 'glory', 'index', 'bread', 'shallow', 'rent', 'rough', 'valid', 'melt', 'ask'] |  
 | bip_39_word_space_1 | else |  
 | bip_39_word_space_10 | else mosquito only glory index bread shallow rent rough valid |  

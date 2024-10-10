@@ -122,6 +122,18 @@ begin
 theory
 install
 border |  
+| bip_39_word_no_space_1 | because |  
+| bip_39_word_no_space_10 | becausetrimlazydoubledoorbegintheoryinstallbordersurvey |  
+| bip_39_word_no_space_11 | becausetrimlazydoubledoorbegintheoryinstallbordersurveysoon |  
+| bip_39_word_no_space_12 | becausetrimlazydoubledoorbegintheoryinstallbordersurveysoonaddict |  
+| bip_39_word_no_space_2 | becausetrim |  
+| bip_39_word_no_space_3 | becausetrimlazy |  
+| bip_39_word_no_space_4 | becausetrimlazydouble |  
+| bip_39_word_no_space_5 | becausetrimlazydoubledoor |  
+| bip_39_word_no_space_6 | becausetrimlazydoubledoorbegin |  
+| bip_39_word_no_space_7 | becausetrimlazydoubledoorbegintheory |  
+| bip_39_word_no_space_8 | becausetrimlazydoubledoorbegintheoryinstall |  
+| bip_39_word_no_space_9 | becausetrimlazydoubledoorbegintheoryinstallborder |  
 | bip_39_word_space_0 | ['because', 'trim', 'lazy', 'double', 'door', 'begin', 'theory', 'install', 'border', 'survey', 'soon', 'addict'] |  
 | bip_39_word_space_1 | because |  
 | bip_39_word_space_10 | because trim lazy double door begin theory install border survey |  

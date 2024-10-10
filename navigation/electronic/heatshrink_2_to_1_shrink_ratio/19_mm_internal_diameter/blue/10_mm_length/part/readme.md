@@ -122,6 +122,18 @@ pigeon
 deal
 attract
 chalk |  
+| bip_39_word_no_space_1 | measure |  
+| bip_39_word_no_space_10 | measurefieldscalebrotherstuffpigeondealattractchalkspin |  
+| bip_39_word_no_space_11 | measurefieldscalebrotherstuffpigeondealattractchalkspinsplit |  
+| bip_39_word_no_space_12 | measurefieldscalebrotherstuffpigeondealattractchalkspinsplitautumn |  
+| bip_39_word_no_space_2 | measurefield |  
+| bip_39_word_no_space_3 | measurefieldscale |  
+| bip_39_word_no_space_4 | measurefieldscalebrother |  
+| bip_39_word_no_space_5 | measurefieldscalebrotherstuff |  
+| bip_39_word_no_space_6 | measurefieldscalebrotherstuffpigeon |  
+| bip_39_word_no_space_7 | measurefieldscalebrotherstuffpigeondeal |  
+| bip_39_word_no_space_8 | measurefieldscalebrotherstuffpigeondealattract |  
+| bip_39_word_no_space_9 | measurefieldscalebrotherstuffpigeondealattractchalk |  
 | bip_39_word_space_0 | ['measure', 'field', 'scale', 'brother', 'stuff', 'pigeon', 'deal', 'attract', 'chalk', 'spin', 'split', 'autumn'] |  
 | bip_39_word_space_1 | measure |  
 | bip_39_word_space_10 | measure field scale brother stuff pigeon deal attract chalk spin |  

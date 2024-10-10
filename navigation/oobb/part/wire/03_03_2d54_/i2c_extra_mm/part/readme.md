@@ -122,6 +122,18 @@ cushion
 old
 notice
 tourist |  
+| bip_39_word_no_space_1 | pause |  
+| bip_39_word_no_space_10 | pausebloodsmoothpracticeimprovecushionoldnoticetouristwhat |  
+| bip_39_word_no_space_11 | pausebloodsmoothpracticeimprovecushionoldnoticetouristwhatscout |  
+| bip_39_word_no_space_12 | pausebloodsmoothpracticeimprovecushionoldnoticetouristwhatscoutarrest |  
+| bip_39_word_no_space_2 | pauseblood |  
+| bip_39_word_no_space_3 | pausebloodsmooth |  
+| bip_39_word_no_space_4 | pausebloodsmoothpractice |  
+| bip_39_word_no_space_5 | pausebloodsmoothpracticeimprove |  
+| bip_39_word_no_space_6 | pausebloodsmoothpracticeimprovecushion |  
+| bip_39_word_no_space_7 | pausebloodsmoothpracticeimprovecushionold |  
+| bip_39_word_no_space_8 | pausebloodsmoothpracticeimprovecushionoldnotice |  
+| bip_39_word_no_space_9 | pausebloodsmoothpracticeimprovecushionoldnoticetourist |  
 | bip_39_word_space_0 | ['pause', 'blood', 'smooth', 'practice', 'improve', 'cushion', 'old', 'notice', 'tourist', 'what', 'scout', 'arrest'] |  
 | bip_39_word_space_1 | pause |  
 | bip_39_word_space_10 | pause blood smooth practice improve cushion old notice tourist what |  

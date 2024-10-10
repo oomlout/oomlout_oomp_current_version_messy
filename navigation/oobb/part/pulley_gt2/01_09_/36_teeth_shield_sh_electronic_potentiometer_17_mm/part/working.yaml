@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'double
   now
 
   duty'
+bip_39_word_no_space_1: double
+bip_39_word_no_space_10: doublegospelselectdamponcewasperuptnowdutyreward
+bip_39_word_no_space_11: doublegospelselectdamponcewasperuptnowdutyrewardattack
+bip_39_word_no_space_12: doublegospelselectdamponcewasperuptnowdutyrewardattackactual
+bip_39_word_no_space_2: doublegospel
+bip_39_word_no_space_3: doublegospelselect
+bip_39_word_no_space_4: doublegospelselectdamp
+bip_39_word_no_space_5: doublegospelselectdamponce
+bip_39_word_no_space_6: doublegospelselectdamponcewasp
+bip_39_word_no_space_7: doublegospelselectdamponcewasperupt
+bip_39_word_no_space_8: doublegospelselectdamponcewasperuptnow
+bip_39_word_no_space_9: doublegospelselectdamponcewasperuptnowduty
 bip_39_word_space_0:
 - double
 - gospel

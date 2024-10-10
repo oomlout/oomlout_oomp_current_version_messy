@@ -122,6 +122,18 @@ tourist
 member
 demand
 farm |  
+| bip_39_word_no_space_1 | orange |  
+| bip_39_word_no_space_10 | orangehubfamousmailverifytouristmemberdemandfarmsnap |  
+| bip_39_word_no_space_11 | orangehubfamousmailverifytouristmemberdemandfarmsnappledge |  
+| bip_39_word_no_space_12 | orangehubfamousmailverifytouristmemberdemandfarmsnappledgeaerobic |  
+| bip_39_word_no_space_2 | orangehub |  
+| bip_39_word_no_space_3 | orangehubfamous |  
+| bip_39_word_no_space_4 | orangehubfamousmail |  
+| bip_39_word_no_space_5 | orangehubfamousmailverify |  
+| bip_39_word_no_space_6 | orangehubfamousmailverifytourist |  
+| bip_39_word_no_space_7 | orangehubfamousmailverifytouristmember |  
+| bip_39_word_no_space_8 | orangehubfamousmailverifytouristmemberdemand |  
+| bip_39_word_no_space_9 | orangehubfamousmailverifytouristmemberdemandfarm |  
 | bip_39_word_space_0 | ['orange', 'hub', 'famous', 'mail', 'verify', 'tourist', 'member', 'demand', 'farm', 'snap', 'pledge', 'aerobic'] |  
 | bip_39_word_space_1 | orange |  
 | bip_39_word_space_10 | orange hub famous mail verify tourist member demand farm snap |  

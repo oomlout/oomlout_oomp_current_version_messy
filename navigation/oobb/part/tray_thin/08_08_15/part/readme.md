@@ -122,6 +122,18 @@ pink
 december
 liquid
 cable |  
+| bip_39_word_no_space_1 | expect |  
+| bip_39_word_no_space_10 | expectlikeboardjunglesomeonepinkdecemberliquidcablekick |  
+| bip_39_word_no_space_11 | expectlikeboardjunglesomeonepinkdecemberliquidcablekicksentence |  
+| bip_39_word_no_space_12 | expectlikeboardjunglesomeonepinkdecemberliquidcablekicksentenceaerobic |  
+| bip_39_word_no_space_2 | expectlike |  
+| bip_39_word_no_space_3 | expectlikeboard |  
+| bip_39_word_no_space_4 | expectlikeboardjungle |  
+| bip_39_word_no_space_5 | expectlikeboardjunglesomeone |  
+| bip_39_word_no_space_6 | expectlikeboardjunglesomeonepink |  
+| bip_39_word_no_space_7 | expectlikeboardjunglesomeonepinkdecember |  
+| bip_39_word_no_space_8 | expectlikeboardjunglesomeonepinkdecemberliquid |  
+| bip_39_word_no_space_9 | expectlikeboardjunglesomeonepinkdecemberliquidcable |  
 | bip_39_word_space_0 | ['expect', 'like', 'board', 'jungle', 'someone', 'pink', 'december', 'liquid', 'cable', 'kick', 'sentence', 'aerobic'] |  
 | bip_39_word_space_1 | expect |  
 | bip_39_word_space_10 | expect like board jungle someone pink december liquid cable kick |  

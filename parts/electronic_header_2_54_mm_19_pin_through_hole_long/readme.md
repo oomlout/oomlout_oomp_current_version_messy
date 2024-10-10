@@ -122,6 +122,18 @@ chronic
 aspect
 cave
 sign |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenratherfriendcigarkidneychronicaspectcavesigndirect |  
+| bip_39_word_no_space_11 | oftenratherfriendcigarkidneychronicaspectcavesigndirectbomb |  
+| bip_39_word_no_space_12 | oftenratherfriendcigarkidneychronicaspectcavesigndirectbombarrive |  
+| bip_39_word_no_space_2 | oftenrather |  
+| bip_39_word_no_space_3 | oftenratherfriend |  
+| bip_39_word_no_space_4 | oftenratherfriendcigar |  
+| bip_39_word_no_space_5 | oftenratherfriendcigarkidney |  
+| bip_39_word_no_space_6 | oftenratherfriendcigarkidneychronic |  
+| bip_39_word_no_space_7 | oftenratherfriendcigarkidneychronicaspect |  
+| bip_39_word_no_space_8 | oftenratherfriendcigarkidneychronicaspectcave |  
+| bip_39_word_no_space_9 | oftenratherfriendcigarkidneychronicaspectcavesign |  
 | bip_39_word_space_0 | ['often', 'rather', 'friend', 'cigar', 'kidney', 'chronic', 'aspect', 'cave', 'sign', 'direct', 'bomb', 'arrive'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often rather friend cigar kidney chronic aspect cave sign direct |  

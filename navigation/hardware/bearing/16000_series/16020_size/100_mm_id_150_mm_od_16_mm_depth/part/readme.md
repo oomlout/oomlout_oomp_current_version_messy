@@ -122,6 +122,18 @@ bid
 pistol
 industry
 young |  
+| bip_39_word_no_space_1 | august |  
+| bip_39_word_no_space_10 | augustromanceacquiremasterusualbidpistolindustryyoungnerve |  
+| bip_39_word_no_space_11 | augustromanceacquiremasterusualbidpistolindustryyoungnerveclerk |  
+| bip_39_word_no_space_12 | augustromanceacquiremasterusualbidpistolindustryyoungnerveclerkauction |  
+| bip_39_word_no_space_2 | augustromance |  
+| bip_39_word_no_space_3 | augustromanceacquire |  
+| bip_39_word_no_space_4 | augustromanceacquiremaster |  
+| bip_39_word_no_space_5 | augustromanceacquiremasterusual |  
+| bip_39_word_no_space_6 | augustromanceacquiremasterusualbid |  
+| bip_39_word_no_space_7 | augustromanceacquiremasterusualbidpistol |  
+| bip_39_word_no_space_8 | augustromanceacquiremasterusualbidpistolindustry |  
+| bip_39_word_no_space_9 | augustromanceacquiremasterusualbidpistolindustryyoung |  
 | bip_39_word_space_0 | ['august', 'romance', 'acquire', 'master', 'usual', 'bid', 'pistol', 'industry', 'young', 'nerve', 'clerk', 'auction'] |  
 | bip_39_word_space_1 | august |  
 | bip_39_word_space_10 | august romance acquire master usual bid pistol industry young nerve |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wait
   jelly
 
   punch'
+bip_39_word_no_space_1: wait
+bip_39_word_no_space_10: waitlionallstatemarchunhappycruisejellypunchribbon
+bip_39_word_no_space_11: waitlionallstatemarchunhappycruisejellypunchribbontext
+bip_39_word_no_space_12: waitlionallstatemarchunhappycruisejellypunchribbontextachieve
+bip_39_word_no_space_2: waitlion
+bip_39_word_no_space_3: waitlionall
+bip_39_word_no_space_4: waitlionallstate
+bip_39_word_no_space_5: waitlionallstatemarch
+bip_39_word_no_space_6: waitlionallstatemarchunhappy
+bip_39_word_no_space_7: waitlionallstatemarchunhappycruise
+bip_39_word_no_space_8: waitlionallstatemarchunhappycruisejelly
+bip_39_word_no_space_9: waitlionallstatemarchunhappycruisejellypunch
 bip_39_word_space_0:
 - wait
 - lion

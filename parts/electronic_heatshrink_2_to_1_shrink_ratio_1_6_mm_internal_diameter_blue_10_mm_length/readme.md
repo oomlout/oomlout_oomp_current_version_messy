@@ -122,6 +122,18 @@ duck
 pudding
 repeat
 erupt |  
+| bip_39_word_no_space_1 | charge |  
+| bip_39_word_no_space_10 | chargelisteconomycementweaponduckpuddingrepeateruptfather |  
+| bip_39_word_no_space_11 | chargelisteconomycementweaponduckpuddingrepeateruptfathernaive |  
+| bip_39_word_no_space_12 | chargelisteconomycementweaponduckpuddingrepeateruptfathernaivearrow |  
+| bip_39_word_no_space_2 | chargelist |  
+| bip_39_word_no_space_3 | chargelisteconomy |  
+| bip_39_word_no_space_4 | chargelisteconomycement |  
+| bip_39_word_no_space_5 | chargelisteconomycementweapon |  
+| bip_39_word_no_space_6 | chargelisteconomycementweaponduck |  
+| bip_39_word_no_space_7 | chargelisteconomycementweaponduckpudding |  
+| bip_39_word_no_space_8 | chargelisteconomycementweaponduckpuddingrepeat |  
+| bip_39_word_no_space_9 | chargelisteconomycementweaponduckpuddingrepeaterupt |  
 | bip_39_word_space_0 | ['charge', 'list', 'economy', 'cement', 'weapon', 'duck', 'pudding', 'repeat', 'erupt', 'father', 'naive', 'arrow'] |  
 | bip_39_word_space_1 | charge |  
 | bip_39_word_space_10 | charge list economy cement weapon duck pudding repeat erupt father |  

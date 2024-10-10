@@ -122,6 +122,18 @@ eye
 people
 soccer
 crucial |  
+| bip_39_word_no_space_1 | cute |  
+| bip_39_word_no_space_10 | cutetoolancientcertaincoloreyepeoplesoccercrucialflower |  
+| bip_39_word_no_space_11 | cutetoolancientcertaincoloreyepeoplesoccercrucialfloweramong |  
+| bip_39_word_no_space_12 | cutetoolancientcertaincoloreyepeoplesoccercrucialfloweramongact |  
+| bip_39_word_no_space_2 | cutetool |  
+| bip_39_word_no_space_3 | cutetoolancient |  
+| bip_39_word_no_space_4 | cutetoolancientcertain |  
+| bip_39_word_no_space_5 | cutetoolancientcertaincolor |  
+| bip_39_word_no_space_6 | cutetoolancientcertaincoloreye |  
+| bip_39_word_no_space_7 | cutetoolancientcertaincoloreyepeople |  
+| bip_39_word_no_space_8 | cutetoolancientcertaincoloreyepeoplesoccer |  
+| bip_39_word_no_space_9 | cutetoolancientcertaincoloreyepeoplesoccercrucial |  
 | bip_39_word_space_0 | ['cute', 'tool', 'ancient', 'certain', 'color', 'eye', 'people', 'soccer', 'crucial', 'flower', 'among', 'act'] |  
 | bip_39_word_space_1 | cute |  
 | bip_39_word_space_10 | cute tool ancient certain color eye people soccer crucial flower |  

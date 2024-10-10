@@ -122,6 +122,18 @@ picnic
 drip
 wheel
 ticket |  
+| bip_39_word_no_space_1 | climb |  
+| bip_39_word_no_space_10 | climbtribeglancenutwebpicnicdripwheelticketforest |  
+| bip_39_word_no_space_11 | climbtribeglancenutwebpicnicdripwheelticketforestundo |  
+| bip_39_word_no_space_12 | climbtribeglancenutwebpicnicdripwheelticketforestundoaerobic |  
+| bip_39_word_no_space_2 | climbtribe |  
+| bip_39_word_no_space_3 | climbtribeglance |  
+| bip_39_word_no_space_4 | climbtribeglancenut |  
+| bip_39_word_no_space_5 | climbtribeglancenutweb |  
+| bip_39_word_no_space_6 | climbtribeglancenutwebpicnic |  
+| bip_39_word_no_space_7 | climbtribeglancenutwebpicnicdrip |  
+| bip_39_word_no_space_8 | climbtribeglancenutwebpicnicdripwheel |  
+| bip_39_word_no_space_9 | climbtribeglancenutwebpicnicdripwheelticket |  
 | bip_39_word_space_0 | ['climb', 'tribe', 'glance', 'nut', 'web', 'picnic', 'drip', 'wheel', 'ticket', 'forest', 'undo', 'aerobic'] |  
 | bip_39_word_space_1 | climb |  
 | bip_39_word_space_10 | climb tribe glance nut web picnic drip wheel ticket forest |  

@@ -122,6 +122,18 @@ stick
 supreme
 view
 please |  
+| bip_39_word_no_space_1 | industry |  
+| bip_39_word_no_space_10 | industryillegalgenrelegalasksticksupremeviewpleaseexplain |  
+| bip_39_word_no_space_11 | industryillegalgenrelegalasksticksupremeviewpleaseexplainaware |  
+| bip_39_word_no_space_12 | industryillegalgenrelegalasksticksupremeviewpleaseexplainawareactor |  
+| bip_39_word_no_space_2 | industryillegal |  
+| bip_39_word_no_space_3 | industryillegalgenre |  
+| bip_39_word_no_space_4 | industryillegalgenrelegal |  
+| bip_39_word_no_space_5 | industryillegalgenrelegalask |  
+| bip_39_word_no_space_6 | industryillegalgenrelegalaskstick |  
+| bip_39_word_no_space_7 | industryillegalgenrelegalasksticksupreme |  
+| bip_39_word_no_space_8 | industryillegalgenrelegalasksticksupremeview |  
+| bip_39_word_no_space_9 | industryillegalgenrelegalasksticksupremeviewplease |  
 | bip_39_word_space_0 | ['industry', 'illegal', 'genre', 'legal', 'ask', 'stick', 'supreme', 'view', 'please', 'explain', 'aware', 'actor'] |  
 | bip_39_word_space_1 | industry |  
 | bip_39_word_space_10 | industry illegal genre legal ask stick supreme view please explain |  

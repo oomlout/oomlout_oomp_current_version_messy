@@ -122,6 +122,18 @@ mimic
 east
 unique
 time |  
+| bip_39_word_no_space_1 | insect |  
+| bip_39_word_no_space_10 | insectcarrazorjuiceexamplemimiceastuniquetimemyself |  
+| bip_39_word_no_space_11 | insectcarrazorjuiceexamplemimiceastuniquetimemyselfrotate |  
+| bip_39_word_no_space_12 | insectcarrazorjuiceexamplemimiceastuniquetimemyselfrotateassault |  
+| bip_39_word_no_space_2 | insectcar |  
+| bip_39_word_no_space_3 | insectcarrazor |  
+| bip_39_word_no_space_4 | insectcarrazorjuice |  
+| bip_39_word_no_space_5 | insectcarrazorjuiceexample |  
+| bip_39_word_no_space_6 | insectcarrazorjuiceexamplemimic |  
+| bip_39_word_no_space_7 | insectcarrazorjuiceexamplemimiceast |  
+| bip_39_word_no_space_8 | insectcarrazorjuiceexamplemimiceastunique |  
+| bip_39_word_no_space_9 | insectcarrazorjuiceexamplemimiceastuniquetime |  
 | bip_39_word_space_0 | ['insect', 'car', 'razor', 'juice', 'example', 'mimic', 'east', 'unique', 'time', 'myself', 'rotate', 'assault'] |  
 | bip_39_word_space_1 | insect |  
 | bip_39_word_space_10 | insect car razor juice example mimic east unique time myself |  

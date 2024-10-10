@@ -122,6 +122,18 @@ about
 uncle
 divert
 knife |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radarglueblindprivatereopenaboutuncledivertknifeamazing |  
+| bip_39_word_no_space_11 | radarglueblindprivatereopenaboutuncledivertknifeamazingcasino |  
+| bip_39_word_no_space_12 | radarglueblindprivatereopenaboutuncledivertknifeamazingcasinoafraid |  
+| bip_39_word_no_space_2 | radarglue |  
+| bip_39_word_no_space_3 | radarglueblind |  
+| bip_39_word_no_space_4 | radarglueblindprivate |  
+| bip_39_word_no_space_5 | radarglueblindprivatereopen |  
+| bip_39_word_no_space_6 | radarglueblindprivatereopenabout |  
+| bip_39_word_no_space_7 | radarglueblindprivatereopenaboutuncle |  
+| bip_39_word_no_space_8 | radarglueblindprivatereopenaboutuncledivert |  
+| bip_39_word_no_space_9 | radarglueblindprivatereopenaboutuncledivertknife |  
 | bip_39_word_space_0 | ['radar', 'glue', 'blind', 'private', 'reopen', 'about', 'uncle', 'divert', 'knife', 'amazing', 'casino', 'afraid'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar glue blind private reopen about uncle divert knife amazing |  

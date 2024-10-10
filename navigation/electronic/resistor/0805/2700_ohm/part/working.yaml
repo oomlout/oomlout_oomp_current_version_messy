@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'morning
   april
 
   aim'
+bip_39_word_no_space_1: morning
+bip_39_word_no_space_10: morningnegativehenvastranchalleychunkaprilaimcoach
+bip_39_word_no_space_11: morningnegativehenvastranchalleychunkaprilaimcoachfat
+bip_39_word_no_space_12: morningnegativehenvastranchalleychunkaprilaimcoachfatathlete
+bip_39_word_no_space_2: morningnegative
+bip_39_word_no_space_3: morningnegativehen
+bip_39_word_no_space_4: morningnegativehenvast
+bip_39_word_no_space_5: morningnegativehenvastranch
+bip_39_word_no_space_6: morningnegativehenvastranchalley
+bip_39_word_no_space_7: morningnegativehenvastranchalleychunk
+bip_39_word_no_space_8: morningnegativehenvastranchalleychunkapril
+bip_39_word_no_space_9: morningnegativehenvastranchalleychunkaprilaim
 bip_39_word_space_0:
 - morning
 - negative

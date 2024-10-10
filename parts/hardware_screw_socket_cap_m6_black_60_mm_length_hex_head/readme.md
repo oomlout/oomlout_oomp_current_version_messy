@@ -122,6 +122,18 @@ liberty
 fall
 pill
 glove |  
+| bip_39_word_no_space_1 | enter |  
+| bip_39_word_no_space_10 | entercasehalfkidneyblanketlibertyfallpillglovespawn |  
+| bip_39_word_no_space_11 | entercasehalfkidneyblanketlibertyfallpillglovespawncinnamon |  
+| bip_39_word_no_space_12 | entercasehalfkidneyblanketlibertyfallpillglovespawncinnamonarena |  
+| bip_39_word_no_space_2 | entercase |  
+| bip_39_word_no_space_3 | entercasehalf |  
+| bip_39_word_no_space_4 | entercasehalfkidney |  
+| bip_39_word_no_space_5 | entercasehalfkidneyblanket |  
+| bip_39_word_no_space_6 | entercasehalfkidneyblanketliberty |  
+| bip_39_word_no_space_7 | entercasehalfkidneyblanketlibertyfall |  
+| bip_39_word_no_space_8 | entercasehalfkidneyblanketlibertyfallpill |  
+| bip_39_word_no_space_9 | entercasehalfkidneyblanketlibertyfallpillglove |  
 | bip_39_word_space_0 | ['enter', 'case', 'half', 'kidney', 'blanket', 'liberty', 'fall', 'pill', 'glove', 'spawn', 'cinnamon', 'arena'] |  
 | bip_39_word_space_1 | enter |  
 | bip_39_word_space_10 | enter case half kidney blanket liberty fall pill glove spawn |  

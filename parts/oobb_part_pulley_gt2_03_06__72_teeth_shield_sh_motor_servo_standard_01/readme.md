@@ -122,6 +122,18 @@ zebra
 symptom
 crash
 develop |  
+| bip_39_word_no_space_1 | eyebrow |  
+| bip_39_word_no_space_10 | eyebrowumbrellasaltavocadoelsezebrasymptomcrashdeveloppatrol |  
+| bip_39_word_no_space_11 | eyebrowumbrellasaltavocadoelsezebrasymptomcrashdeveloppatrolsquirrel |  
+| bip_39_word_no_space_12 | eyebrowumbrellasaltavocadoelsezebrasymptomcrashdeveloppatrolsquirrelactor |  
+| bip_39_word_no_space_2 | eyebrowumbrella |  
+| bip_39_word_no_space_3 | eyebrowumbrellasalt |  
+| bip_39_word_no_space_4 | eyebrowumbrellasaltavocado |  
+| bip_39_word_no_space_5 | eyebrowumbrellasaltavocadoelse |  
+| bip_39_word_no_space_6 | eyebrowumbrellasaltavocadoelsezebra |  
+| bip_39_word_no_space_7 | eyebrowumbrellasaltavocadoelsezebrasymptom |  
+| bip_39_word_no_space_8 | eyebrowumbrellasaltavocadoelsezebrasymptomcrash |  
+| bip_39_word_no_space_9 | eyebrowumbrellasaltavocadoelsezebrasymptomcrashdevelop |  
 | bip_39_word_space_0 | ['eyebrow', 'umbrella', 'salt', 'avocado', 'else', 'zebra', 'symptom', 'crash', 'develop', 'patrol', 'squirrel', 'actor'] |  
 | bip_39_word_space_1 | eyebrow |  
 | bip_39_word_space_10 | eyebrow umbrella salt avocado else zebra symptom crash develop patrol |  

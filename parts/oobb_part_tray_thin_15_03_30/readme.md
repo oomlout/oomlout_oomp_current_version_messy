@@ -122,6 +122,18 @@ secret
 forget
 deny
 mirror |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolfeefoilsessiondefensesecretforgetdenymirrorlaundry |  
+| bip_39_word_no_space_11 | patrolfeefoilsessiondefensesecretforgetdenymirrorlaundryask |  
+| bip_39_word_no_space_12 | patrolfeefoilsessiondefensesecretforgetdenymirrorlaundryaskalbum |  
+| bip_39_word_no_space_2 | patrolfee |  
+| bip_39_word_no_space_3 | patrolfeefoil |  
+| bip_39_word_no_space_4 | patrolfeefoilsession |  
+| bip_39_word_no_space_5 | patrolfeefoilsessiondefense |  
+| bip_39_word_no_space_6 | patrolfeefoilsessiondefensesecret |  
+| bip_39_word_no_space_7 | patrolfeefoilsessiondefensesecretforget |  
+| bip_39_word_no_space_8 | patrolfeefoilsessiondefensesecretforgetdeny |  
+| bip_39_word_no_space_9 | patrolfeefoilsessiondefensesecretforgetdenymirror |  
 | bip_39_word_space_0 | ['patrol', 'fee', 'foil', 'session', 'defense', 'secret', 'forget', 'deny', 'mirror', 'laundry', 'ask', 'album'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol fee foil session defense secret forget deny mirror laundry |  

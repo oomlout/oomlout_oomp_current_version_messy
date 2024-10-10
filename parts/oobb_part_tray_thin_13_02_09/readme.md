@@ -122,6 +122,18 @@ ship
 fee
 they
 sugar |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | plateritualorganbasecongressshipfeetheysugaraway |  
+| bip_39_word_no_space_11 | plateritualorganbasecongressshipfeetheysugarawaynut |  
+| bip_39_word_no_space_12 | plateritualorganbasecongressshipfeetheysugarawaynutarena |  
+| bip_39_word_no_space_2 | plateritual |  
+| bip_39_word_no_space_3 | plateritualorgan |  
+| bip_39_word_no_space_4 | plateritualorganbase |  
+| bip_39_word_no_space_5 | plateritualorganbasecongress |  
+| bip_39_word_no_space_6 | plateritualorganbasecongressship |  
+| bip_39_word_no_space_7 | plateritualorganbasecongressshipfee |  
+| bip_39_word_no_space_8 | plateritualorganbasecongressshipfeethey |  
+| bip_39_word_no_space_9 | plateritualorganbasecongressshipfeetheysugar |  
 | bip_39_word_space_0 | ['plate', 'ritual', 'organ', 'base', 'congress', 'ship', 'fee', 'they', 'sugar', 'away', 'nut', 'arena'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate ritual organ base congress ship fee they sugar away |  

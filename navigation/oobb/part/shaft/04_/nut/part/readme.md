@@ -122,6 +122,18 @@ above
 drill
 artist
 tomorrow |  
+| bip_39_word_no_space_1 | inside |  
+| bip_39_word_no_space_10 | insideactionpactsilkquantumabovedrillartisttomorrowgesture |  
+| bip_39_word_no_space_11 | insideactionpactsilkquantumabovedrillartisttomorrowgestureasset |  
+| bip_39_word_no_space_12 | insideactionpactsilkquantumabovedrillartisttomorrowgestureassetauthor |  
+| bip_39_word_no_space_2 | insideaction |  
+| bip_39_word_no_space_3 | insideactionpact |  
+| bip_39_word_no_space_4 | insideactionpactsilk |  
+| bip_39_word_no_space_5 | insideactionpactsilkquantum |  
+| bip_39_word_no_space_6 | insideactionpactsilkquantumabove |  
+| bip_39_word_no_space_7 | insideactionpactsilkquantumabovedrill |  
+| bip_39_word_no_space_8 | insideactionpactsilkquantumabovedrillartist |  
+| bip_39_word_no_space_9 | insideactionpactsilkquantumabovedrillartisttomorrow |  
 | bip_39_word_space_0 | ['inside', 'action', 'pact', 'silk', 'quantum', 'above', 'drill', 'artist', 'tomorrow', 'gesture', 'asset', 'author'] |  
 | bip_39_word_space_1 | inside |  
 | bip_39_word_space_10 | inside action pact silk quantum above drill artist tomorrow gesture |  

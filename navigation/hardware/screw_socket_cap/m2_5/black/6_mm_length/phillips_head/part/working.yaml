@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'acquire
   raw
 
   iron'
+bip_39_word_no_space_1: acquire
+bip_39_word_no_space_10: acquiredizzysuspectplungesharehumansalonrawironmajor
+bip_39_word_no_space_11: acquiredizzysuspectplungesharehumansalonrawironmajorscrub
+bip_39_word_no_space_12: acquiredizzysuspectplungesharehumansalonrawironmajorscrubarrest
+bip_39_word_no_space_2: acquiredizzy
+bip_39_word_no_space_3: acquiredizzysuspect
+bip_39_word_no_space_4: acquiredizzysuspectplunge
+bip_39_word_no_space_5: acquiredizzysuspectplungeshare
+bip_39_word_no_space_6: acquiredizzysuspectplungesharehuman
+bip_39_word_no_space_7: acquiredizzysuspectplungesharehumansalon
+bip_39_word_no_space_8: acquiredizzysuspectplungesharehumansalonraw
+bip_39_word_no_space_9: acquiredizzysuspectplungesharehumansalonrawiron
 bip_39_word_space_0:
 - acquire
 - dizzy

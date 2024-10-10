@@ -122,6 +122,18 @@ female
 theory
 ozone
 sense |  
+| bip_39_word_no_space_1 | dad |  
+| bip_39_word_no_space_10 | dadfoldnumberdirectgaspfemaletheoryozonesensepanic |  
+| bip_39_word_no_space_11 | dadfoldnumberdirectgaspfemaletheoryozonesensepanicpiece |  
+| bip_39_word_no_space_12 | dadfoldnumberdirectgaspfemaletheoryozonesensepanicpiecearena |  
+| bip_39_word_no_space_2 | dadfold |  
+| bip_39_word_no_space_3 | dadfoldnumber |  
+| bip_39_word_no_space_4 | dadfoldnumberdirect |  
+| bip_39_word_no_space_5 | dadfoldnumberdirectgasp |  
+| bip_39_word_no_space_6 | dadfoldnumberdirectgaspfemale |  
+| bip_39_word_no_space_7 | dadfoldnumberdirectgaspfemaletheory |  
+| bip_39_word_no_space_8 | dadfoldnumberdirectgaspfemaletheoryozone |  
+| bip_39_word_no_space_9 | dadfoldnumberdirectgaspfemaletheoryozonesense |  
 | bip_39_word_space_0 | ['dad', 'fold', 'number', 'direct', 'gasp', 'female', 'theory', 'ozone', 'sense', 'panic', 'piece', 'arena'] |  
 | bip_39_word_space_1 | dad |  
 | bip_39_word_space_10 | dad fold number direct gasp female theory ozone sense panic |  

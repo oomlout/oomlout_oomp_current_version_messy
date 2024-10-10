@@ -122,6 +122,18 @@ cream
 resist
 drop
 draft |  
+| bip_39_word_no_space_1 | raw |  
+| bip_39_word_no_space_10 | rawendorsediscoverrivaljokecreamresistdropdraftsurge |  
+| bip_39_word_no_space_11 | rawendorsediscoverrivaljokecreamresistdropdraftsurgeflee |  
+| bip_39_word_no_space_12 | rawendorsediscoverrivaljokecreamresistdropdraftsurgefleeact |  
+| bip_39_word_no_space_2 | rawendorse |  
+| bip_39_word_no_space_3 | rawendorsediscover |  
+| bip_39_word_no_space_4 | rawendorsediscoverrival |  
+| bip_39_word_no_space_5 | rawendorsediscoverrivaljoke |  
+| bip_39_word_no_space_6 | rawendorsediscoverrivaljokecream |  
+| bip_39_word_no_space_7 | rawendorsediscoverrivaljokecreamresist |  
+| bip_39_word_no_space_8 | rawendorsediscoverrivaljokecreamresistdrop |  
+| bip_39_word_no_space_9 | rawendorsediscoverrivaljokecreamresistdropdraft |  
 | bip_39_word_space_0 | ['raw', 'endorse', 'discover', 'rival', 'joke', 'cream', 'resist', 'drop', 'draft', 'surge', 'flee', 'act'] |  
 | bip_39_word_space_1 | raw |  
 | bip_39_word_space_10 | raw endorse discover rival joke cream resist drop draft surge |  

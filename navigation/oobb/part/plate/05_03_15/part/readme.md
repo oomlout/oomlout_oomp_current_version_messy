@@ -122,6 +122,18 @@ lion
 receive
 tooth
 between |  
+| bip_39_word_no_space_1 | survey |  
+| bip_39_word_no_space_10 | surveybrushcopperpaymentoillionreceivetoothbetweenbulb |  
+| bip_39_word_no_space_11 | surveybrushcopperpaymentoillionreceivetoothbetweenbulbplay |  
+| bip_39_word_no_space_12 | surveybrushcopperpaymentoillionreceivetoothbetweenbulbplayanimal |  
+| bip_39_word_no_space_2 | surveybrush |  
+| bip_39_word_no_space_3 | surveybrushcopper |  
+| bip_39_word_no_space_4 | surveybrushcopperpayment |  
+| bip_39_word_no_space_5 | surveybrushcopperpaymentoil |  
+| bip_39_word_no_space_6 | surveybrushcopperpaymentoillion |  
+| bip_39_word_no_space_7 | surveybrushcopperpaymentoillionreceive |  
+| bip_39_word_no_space_8 | surveybrushcopperpaymentoillionreceivetooth |  
+| bip_39_word_no_space_9 | surveybrushcopperpaymentoillionreceivetoothbetween |  
 | bip_39_word_space_0 | ['survey', 'brush', 'copper', 'payment', 'oil', 'lion', 'receive', 'tooth', 'between', 'bulb', 'play', 'animal'] |  
 | bip_39_word_space_1 | survey |  
 | bip_39_word_space_10 | survey brush copper payment oil lion receive tooth between bulb |  

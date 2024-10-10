@@ -122,6 +122,18 @@ ivory
 unfold
 fortune
 midnight |  
+| bip_39_word_no_space_1 | puzzle |  
+| bip_39_word_no_space_10 | puzzlefrozeninterestupdategloveivoryunfoldfortunemidnightperson |  
+| bip_39_word_no_space_11 | puzzlefrozeninterestupdategloveivoryunfoldfortunemidnightpersonpeanut |  
+| bip_39_word_no_space_12 | puzzlefrozeninterestupdategloveivoryunfoldfortunemidnightpersonpeanutanxiety |  
+| bip_39_word_no_space_2 | puzzlefrozen |  
+| bip_39_word_no_space_3 | puzzlefrozeninterest |  
+| bip_39_word_no_space_4 | puzzlefrozeninterestupdate |  
+| bip_39_word_no_space_5 | puzzlefrozeninterestupdateglove |  
+| bip_39_word_no_space_6 | puzzlefrozeninterestupdategloveivory |  
+| bip_39_word_no_space_7 | puzzlefrozeninterestupdategloveivoryunfold |  
+| bip_39_word_no_space_8 | puzzlefrozeninterestupdategloveivoryunfoldfortune |  
+| bip_39_word_no_space_9 | puzzlefrozeninterestupdategloveivoryunfoldfortunemidnight |  
 | bip_39_word_space_0 | ['puzzle', 'frozen', 'interest', 'update', 'glove', 'ivory', 'unfold', 'fortune', 'midnight', 'person', 'peanut', 'anxiety'] |  
 | bip_39_word_space_1 | puzzle |  
 | bip_39_word_space_10 | puzzle frozen interest update glove ivory unfold fortune midnight person |  

@@ -122,6 +122,18 @@ subject
 pudding
 system
 cover |  
+| bip_39_word_no_space_1 | flight |  
+| bip_39_word_no_space_10 | flightabusebasicravenbasketsubjectpuddingsystemcoverbullet |  
+| bip_39_word_no_space_11 | flightabusebasicravenbasketsubjectpuddingsystemcoverbulletdraft |  
+| bip_39_word_no_space_12 | flightabusebasicravenbasketsubjectpuddingsystemcoverbulletdraftauction |  
+| bip_39_word_no_space_2 | flightabuse |  
+| bip_39_word_no_space_3 | flightabusebasic |  
+| bip_39_word_no_space_4 | flightabusebasicraven |  
+| bip_39_word_no_space_5 | flightabusebasicravenbasket |  
+| bip_39_word_no_space_6 | flightabusebasicravenbasketsubject |  
+| bip_39_word_no_space_7 | flightabusebasicravenbasketsubjectpudding |  
+| bip_39_word_no_space_8 | flightabusebasicravenbasketsubjectpuddingsystem |  
+| bip_39_word_no_space_9 | flightabusebasicravenbasketsubjectpuddingsystemcover |  
 | bip_39_word_space_0 | ['flight', 'abuse', 'basic', 'raven', 'basket', 'subject', 'pudding', 'system', 'cover', 'bullet', 'draft', 'auction'] |  
 | bip_39_word_space_1 | flight |  
 | bip_39_word_space_10 | flight abuse basic raven basket subject pudding system cover bullet |  

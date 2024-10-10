@@ -122,6 +122,18 @@ hammer
 question
 surface
 find |  
+| bip_39_word_no_space_1 | later |  
+| bip_39_word_no_space_10 | lateractresssocialswordbiologyhammerquestionsurfacefindseat |  
+| bip_39_word_no_space_11 | lateractresssocialswordbiologyhammerquestionsurfacefindseatprofit |  
+| bip_39_word_no_space_12 | lateractresssocialswordbiologyhammerquestionsurfacefindseatprofitangry |  
+| bip_39_word_no_space_2 | lateractress |  
+| bip_39_word_no_space_3 | lateractresssocial |  
+| bip_39_word_no_space_4 | lateractresssocialsword |  
+| bip_39_word_no_space_5 | lateractresssocialswordbiology |  
+| bip_39_word_no_space_6 | lateractresssocialswordbiologyhammer |  
+| bip_39_word_no_space_7 | lateractresssocialswordbiologyhammerquestion |  
+| bip_39_word_no_space_8 | lateractresssocialswordbiologyhammerquestionsurface |  
+| bip_39_word_no_space_9 | lateractresssocialswordbiologyhammerquestionsurfacefind |  
 | bip_39_word_space_0 | ['later', 'actress', 'social', 'sword', 'biology', 'hammer', 'question', 'surface', 'find', 'seat', 'profit', 'angry'] |  
 | bip_39_word_space_1 | later |  
 | bip_39_word_space_10 | later actress social sword biology hammer question surface find seat |  

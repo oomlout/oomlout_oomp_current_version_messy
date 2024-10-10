@@ -122,6 +122,18 @@ prosper
 endless
 bottom
 canyon |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgecricketkingdomeasybottomprosperendlessbottomcanyontooth |  
+| bip_39_word_no_space_11 | judgecricketkingdomeasybottomprosperendlessbottomcanyontoothissue |  
+| bip_39_word_no_space_12 | judgecricketkingdomeasybottomprosperendlessbottomcanyontoothissuearrest |  
+| bip_39_word_no_space_2 | judgecricket |  
+| bip_39_word_no_space_3 | judgecricketkingdom |  
+| bip_39_word_no_space_4 | judgecricketkingdomeasy |  
+| bip_39_word_no_space_5 | judgecricketkingdomeasybottom |  
+| bip_39_word_no_space_6 | judgecricketkingdomeasybottomprosper |  
+| bip_39_word_no_space_7 | judgecricketkingdomeasybottomprosperendless |  
+| bip_39_word_no_space_8 | judgecricketkingdomeasybottomprosperendlessbottom |  
+| bip_39_word_no_space_9 | judgecricketkingdomeasybottomprosperendlessbottomcanyon |  
 | bip_39_word_space_0 | ['judge', 'cricket', 'kingdom', 'easy', 'bottom', 'prosper', 'endless', 'bottom', 'canyon', 'tooth', 'issue', 'arrest'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge cricket kingdom easy bottom prosper endless bottom canyon tooth |  

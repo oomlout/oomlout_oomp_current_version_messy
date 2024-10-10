@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'awake
   lecture
 
   vanish'
+bip_39_word_no_space_1: awake
+bip_39_word_no_space_10: awakeexactgovernfloatfeaturecarpepperlecturevanishcaptain
+bip_39_word_no_space_11: awakeexactgovernfloatfeaturecarpepperlecturevanishcaptaindrip
+bip_39_word_no_space_12: awakeexactgovernfloatfeaturecarpepperlecturevanishcaptaindripankle
+bip_39_word_no_space_2: awakeexact
+bip_39_word_no_space_3: awakeexactgovern
+bip_39_word_no_space_4: awakeexactgovernfloat
+bip_39_word_no_space_5: awakeexactgovernfloatfeature
+bip_39_word_no_space_6: awakeexactgovernfloatfeaturecar
+bip_39_word_no_space_7: awakeexactgovernfloatfeaturecarpepper
+bip_39_word_no_space_8: awakeexactgovernfloatfeaturecarpepperlecture
+bip_39_word_no_space_9: awakeexactgovernfloatfeaturecarpepperlecturevanish
 bip_39_word_space_0:
 - awake
 - exact

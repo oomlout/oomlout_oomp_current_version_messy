@@ -122,6 +122,18 @@ remain
 creek
 display
 benefit |  
+| bip_39_word_no_space_1 | joke |  
+| bip_39_word_no_space_10 | joketwicevisualdawnmanualremaincreekdisplaybenefitbonus |  
+| bip_39_word_no_space_11 | joketwicevisualdawnmanualremaincreekdisplaybenefitbonuseagle |  
+| bip_39_word_no_space_12 | joketwicevisualdawnmanualremaincreekdisplaybenefitbonuseagleassault |  
+| bip_39_word_no_space_2 | joketwice |  
+| bip_39_word_no_space_3 | joketwicevisual |  
+| bip_39_word_no_space_4 | joketwicevisualdawn |  
+| bip_39_word_no_space_5 | joketwicevisualdawnmanual |  
+| bip_39_word_no_space_6 | joketwicevisualdawnmanualremain |  
+| bip_39_word_no_space_7 | joketwicevisualdawnmanualremaincreek |  
+| bip_39_word_no_space_8 | joketwicevisualdawnmanualremaincreekdisplay |  
+| bip_39_word_no_space_9 | joketwicevisualdawnmanualremaincreekdisplaybenefit |  
 | bip_39_word_space_0 | ['joke', 'twice', 'visual', 'dawn', 'manual', 'remain', 'creek', 'display', 'benefit', 'bonus', 'eagle', 'assault'] |  
 | bip_39_word_space_1 | joke |  
 | bip_39_word_space_10 | joke twice visual dawn manual remain creek display benefit bonus |  

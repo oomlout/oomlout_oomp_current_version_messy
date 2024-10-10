@@ -122,6 +122,18 @@ room
 blade
 orchard
 praise |  
+| bip_39_word_no_space_1 | electric |  
+| bip_39_word_no_space_10 | electricuncleelderhistoryminimumroombladeorchardpraiseevil |  
+| bip_39_word_no_space_11 | electricuncleelderhistoryminimumroombladeorchardpraiseevilmean |  
+| bip_39_word_no_space_12 | electricuncleelderhistoryminimumroombladeorchardpraiseevilmeanarch |  
+| bip_39_word_no_space_2 | electricuncle |  
+| bip_39_word_no_space_3 | electricuncleelder |  
+| bip_39_word_no_space_4 | electricuncleelderhistory |  
+| bip_39_word_no_space_5 | electricuncleelderhistoryminimum |  
+| bip_39_word_no_space_6 | electricuncleelderhistoryminimumroom |  
+| bip_39_word_no_space_7 | electricuncleelderhistoryminimumroomblade |  
+| bip_39_word_no_space_8 | electricuncleelderhistoryminimumroombladeorchard |  
+| bip_39_word_no_space_9 | electricuncleelderhistoryminimumroombladeorchardpraise |  
 | bip_39_word_space_0 | ['electric', 'uncle', 'elder', 'history', 'minimum', 'room', 'blade', 'orchard', 'praise', 'evil', 'mean', 'arch'] |  
 | bip_39_word_space_1 | electric |  
 | bip_39_word_space_10 | electric uncle elder history minimum room blade orchard praise evil |  

@@ -122,6 +122,18 @@ pave
 produce
 cat
 keep |  
+| bip_39_word_no_space_1 | dream |  
+| bip_39_word_no_space_10 | dreamhubsubwaysiblingcaughtpaveproducecatkeepeternal |  
+| bip_39_word_no_space_11 | dreamhubsubwaysiblingcaughtpaveproducecatkeepeternalchaos |  
+| bip_39_word_no_space_12 | dreamhubsubwaysiblingcaughtpaveproducecatkeepeternalchaosarch |  
+| bip_39_word_no_space_2 | dreamhub |  
+| bip_39_word_no_space_3 | dreamhubsubway |  
+| bip_39_word_no_space_4 | dreamhubsubwaysibling |  
+| bip_39_word_no_space_5 | dreamhubsubwaysiblingcaught |  
+| bip_39_word_no_space_6 | dreamhubsubwaysiblingcaughtpave |  
+| bip_39_word_no_space_7 | dreamhubsubwaysiblingcaughtpaveproduce |  
+| bip_39_word_no_space_8 | dreamhubsubwaysiblingcaughtpaveproducecat |  
+| bip_39_word_no_space_9 | dreamhubsubwaysiblingcaughtpaveproducecatkeep |  
 | bip_39_word_space_0 | ['dream', 'hub', 'subway', 'sibling', 'caught', 'pave', 'produce', 'cat', 'keep', 'eternal', 'chaos', 'arch'] |  
 | bip_39_word_space_1 | dream |  
 | bip_39_word_space_10 | dream hub subway sibling caught pave produce cat keep eternal |  

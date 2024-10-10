@@ -122,6 +122,18 @@ rotate
 cook
 fade
 woman |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementdiscoverbalconyhawktrumpetrotatecookfadewomanhurdle |  
+| bip_39_word_no_space_11 | elementdiscoverbalconyhawktrumpetrotatecookfadewomanhurdlepudding |  
+| bip_39_word_no_space_12 | elementdiscoverbalconyhawktrumpetrotatecookfadewomanhurdlepuddingassist |  
+| bip_39_word_no_space_2 | elementdiscover |  
+| bip_39_word_no_space_3 | elementdiscoverbalcony |  
+| bip_39_word_no_space_4 | elementdiscoverbalconyhawk |  
+| bip_39_word_no_space_5 | elementdiscoverbalconyhawktrumpet |  
+| bip_39_word_no_space_6 | elementdiscoverbalconyhawktrumpetrotate |  
+| bip_39_word_no_space_7 | elementdiscoverbalconyhawktrumpetrotatecook |  
+| bip_39_word_no_space_8 | elementdiscoverbalconyhawktrumpetrotatecookfade |  
+| bip_39_word_no_space_9 | elementdiscoverbalconyhawktrumpetrotatecookfadewoman |  
 | bip_39_word_space_0 | ['element', 'discover', 'balcony', 'hawk', 'trumpet', 'rotate', 'cook', 'fade', 'woman', 'hurdle', 'pudding', 'assist'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element discover balcony hawk trumpet rotate cook fade woman hurdle |  

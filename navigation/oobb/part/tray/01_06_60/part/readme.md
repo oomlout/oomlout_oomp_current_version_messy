@@ -122,6 +122,18 @@ intact
 permit
 syrup
 hill |  
+| bip_39_word_no_space_1 | reopen |  
+| bip_39_word_no_space_10 | reopenclaygarbagesaddleozoneintactpermitsyruphillword |  
+| bip_39_word_no_space_11 | reopenclaygarbagesaddleozoneintactpermitsyruphillwordhard |  
+| bip_39_word_no_space_12 | reopenclaygarbagesaddleozoneintactpermitsyruphillwordhardapple |  
+| bip_39_word_no_space_2 | reopenclay |  
+| bip_39_word_no_space_3 | reopenclaygarbage |  
+| bip_39_word_no_space_4 | reopenclaygarbagesaddle |  
+| bip_39_word_no_space_5 | reopenclaygarbagesaddleozone |  
+| bip_39_word_no_space_6 | reopenclaygarbagesaddleozoneintact |  
+| bip_39_word_no_space_7 | reopenclaygarbagesaddleozoneintactpermit |  
+| bip_39_word_no_space_8 | reopenclaygarbagesaddleozoneintactpermitsyrup |  
+| bip_39_word_no_space_9 | reopenclaygarbagesaddleozoneintactpermitsyruphill |  
 | bip_39_word_space_0 | ['reopen', 'clay', 'garbage', 'saddle', 'ozone', 'intact', 'permit', 'syrup', 'hill', 'word', 'hard', 'apple'] |  
 | bip_39_word_space_1 | reopen |  
 | bip_39_word_space_10 | reopen clay garbage saddle ozone intact permit syrup hill word |  

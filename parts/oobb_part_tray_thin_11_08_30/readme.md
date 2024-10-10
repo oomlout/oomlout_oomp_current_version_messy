@@ -122,6 +122,18 @@ dawn
 thrive
 secret
 discover |  
+| bip_39_word_no_space_1 | exercise |  
+| bip_39_word_no_space_10 | exercisestablestorywingfamilydawnthrivesecretdiscoverwarfare |  
+| bip_39_word_no_space_11 | exercisestablestorywingfamilydawnthrivesecretdiscoverwarfarehat |  
+| bip_39_word_no_space_12 | exercisestablestorywingfamilydawnthrivesecretdiscoverwarfarehatalarm |  
+| bip_39_word_no_space_2 | exercisestable |  
+| bip_39_word_no_space_3 | exercisestablestory |  
+| bip_39_word_no_space_4 | exercisestablestorywing |  
+| bip_39_word_no_space_5 | exercisestablestorywingfamily |  
+| bip_39_word_no_space_6 | exercisestablestorywingfamilydawn |  
+| bip_39_word_no_space_7 | exercisestablestorywingfamilydawnthrive |  
+| bip_39_word_no_space_8 | exercisestablestorywingfamilydawnthrivesecret |  
+| bip_39_word_no_space_9 | exercisestablestorywingfamilydawnthrivesecretdiscover |  
 | bip_39_word_space_0 | ['exercise', 'stable', 'story', 'wing', 'family', 'dawn', 'thrive', 'secret', 'discover', 'warfare', 'hat', 'alarm'] |  
 | bip_39_word_space_1 | exercise |  
 | bip_39_word_space_10 | exercise stable story wing family dawn thrive secret discover warfare |  

@@ -122,6 +122,18 @@ around
 wheat
 churn
 birth |  
+| bip_39_word_no_space_1 | giggle |  
+| bip_39_word_no_space_10 | gigglechampionexchangebreadarrowaroundwheatchurnbirthpermit |  
+| bip_39_word_no_space_11 | gigglechampionexchangebreadarrowaroundwheatchurnbirthpermitspread |  
+| bip_39_word_no_space_12 | gigglechampionexchangebreadarrowaroundwheatchurnbirthpermitspreadanchor |  
+| bip_39_word_no_space_2 | gigglechampion |  
+| bip_39_word_no_space_3 | gigglechampionexchange |  
+| bip_39_word_no_space_4 | gigglechampionexchangebread |  
+| bip_39_word_no_space_5 | gigglechampionexchangebreadarrow |  
+| bip_39_word_no_space_6 | gigglechampionexchangebreadarrowaround |  
+| bip_39_word_no_space_7 | gigglechampionexchangebreadarrowaroundwheat |  
+| bip_39_word_no_space_8 | gigglechampionexchangebreadarrowaroundwheatchurn |  
+| bip_39_word_no_space_9 | gigglechampionexchangebreadarrowaroundwheatchurnbirth |  
 | bip_39_word_space_0 | ['giggle', 'champion', 'exchange', 'bread', 'arrow', 'around', 'wheat', 'churn', 'birth', 'permit', 'spread', 'anchor'] |  
 | bip_39_word_space_1 | giggle |  
 | bip_39_word_space_10 | giggle champion exchange bread arrow around wheat churn birth permit |  

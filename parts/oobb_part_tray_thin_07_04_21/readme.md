@@ -122,6 +122,18 @@ collect
 wonder
 argue
 system |  
+| bip_39_word_no_space_1 | faith |  
+| bip_39_word_no_space_10 | faithresourceneithertorchnervecollectwonderarguesystemsilly |  
+| bip_39_word_no_space_11 | faithresourceneithertorchnervecollectwonderarguesystemsillyartefact |  
+| bip_39_word_no_space_12 | faithresourceneithertorchnervecollectwonderarguesystemsillyartefactalpha |  
+| bip_39_word_no_space_2 | faithresource |  
+| bip_39_word_no_space_3 | faithresourceneither |  
+| bip_39_word_no_space_4 | faithresourceneithertorch |  
+| bip_39_word_no_space_5 | faithresourceneithertorchnerve |  
+| bip_39_word_no_space_6 | faithresourceneithertorchnervecollect |  
+| bip_39_word_no_space_7 | faithresourceneithertorchnervecollectwonder |  
+| bip_39_word_no_space_8 | faithresourceneithertorchnervecollectwonderargue |  
+| bip_39_word_no_space_9 | faithresourceneithertorchnervecollectwonderarguesystem |  
 | bip_39_word_space_0 | ['faith', 'resource', 'neither', 'torch', 'nerve', 'collect', 'wonder', 'argue', 'system', 'silly', 'artefact', 'alpha'] |  
 | bip_39_word_space_1 | faith |  
 | bip_39_word_space_10 | faith resource neither torch nerve collect wonder argue system silly |  

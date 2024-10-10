@@ -122,6 +122,18 @@ twice
 season
 exercise
 thank |  
+| bip_39_word_no_space_1 | network |  
+| bip_39_word_no_space_10 | networkpopularblousetopstamptwiceseasonexercisethankcrucial |  
+| bip_39_word_no_space_11 | networkpopularblousetopstamptwiceseasonexercisethankcrucialsiege |  
+| bip_39_word_no_space_12 | networkpopularblousetopstamptwiceseasonexercisethankcrucialsiegeamong |  
+| bip_39_word_no_space_2 | networkpopular |  
+| bip_39_word_no_space_3 | networkpopularblouse |  
+| bip_39_word_no_space_4 | networkpopularblousetop |  
+| bip_39_word_no_space_5 | networkpopularblousetopstamp |  
+| bip_39_word_no_space_6 | networkpopularblousetopstamptwice |  
+| bip_39_word_no_space_7 | networkpopularblousetopstamptwiceseason |  
+| bip_39_word_no_space_8 | networkpopularblousetopstamptwiceseasonexercise |  
+| bip_39_word_no_space_9 | networkpopularblousetopstamptwiceseasonexercisethank |  
 | bip_39_word_space_0 | ['network', 'popular', 'blouse', 'top', 'stamp', 'twice', 'season', 'exercise', 'thank', 'crucial', 'siege', 'among'] |  
 | bip_39_word_space_1 | network |  
 | bip_39_word_space_10 | network popular blouse top stamp twice season exercise thank crucial |  

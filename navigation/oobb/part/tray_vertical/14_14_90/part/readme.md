@@ -122,6 +122,18 @@ street
 return
 camp
 omit |  
+| bip_39_word_no_space_1 | focus |  
+| bip_39_word_no_space_10 | focusreunionbriskcupscorpionstreetreturncampomitwash |  
+| bip_39_word_no_space_11 | focusreunionbriskcupscorpionstreetreturncampomitwashtarget |  
+| bip_39_word_no_space_12 | focusreunionbriskcupscorpionstreetreturncampomitwashtargetarch |  
+| bip_39_word_no_space_2 | focusreunion |  
+| bip_39_word_no_space_3 | focusreunionbrisk |  
+| bip_39_word_no_space_4 | focusreunionbriskcup |  
+| bip_39_word_no_space_5 | focusreunionbriskcupscorpion |  
+| bip_39_word_no_space_6 | focusreunionbriskcupscorpionstreet |  
+| bip_39_word_no_space_7 | focusreunionbriskcupscorpionstreetreturn |  
+| bip_39_word_no_space_8 | focusreunionbriskcupscorpionstreetreturncamp |  
+| bip_39_word_no_space_9 | focusreunionbriskcupscorpionstreetreturncampomit |  
 | bip_39_word_space_0 | ['focus', 'reunion', 'brisk', 'cup', 'scorpion', 'street', 'return', 'camp', 'omit', 'wash', 'target', 'arch'] |  
 | bip_39_word_space_1 | focus |  
 | bip_39_word_space_10 | focus reunion brisk cup scorpion street return camp omit wash |  

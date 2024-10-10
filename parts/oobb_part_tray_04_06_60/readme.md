@@ -122,6 +122,18 @@ elbow
 resist
 sibling
 guess |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoonvehiclemultiplyexposestoneelbowresistsiblingguesscancel |  
+| bip_39_word_no_space_11 | spoonvehiclemultiplyexposestoneelbowresistsiblingguesscancelvital |  
+| bip_39_word_no_space_12 | spoonvehiclemultiplyexposestoneelbowresistsiblingguesscancelvitalaerobic |  
+| bip_39_word_no_space_2 | spoonvehicle |  
+| bip_39_word_no_space_3 | spoonvehiclemultiply |  
+| bip_39_word_no_space_4 | spoonvehiclemultiplyexpose |  
+| bip_39_word_no_space_5 | spoonvehiclemultiplyexposestone |  
+| bip_39_word_no_space_6 | spoonvehiclemultiplyexposestoneelbow |  
+| bip_39_word_no_space_7 | spoonvehiclemultiplyexposestoneelbowresist |  
+| bip_39_word_no_space_8 | spoonvehiclemultiplyexposestoneelbowresistsibling |  
+| bip_39_word_no_space_9 | spoonvehiclemultiplyexposestoneelbowresistsiblingguess |  
 | bip_39_word_space_0 | ['spoon', 'vehicle', 'multiply', 'expose', 'stone', 'elbow', 'resist', 'sibling', 'guess', 'cancel', 'vital', 'aerobic'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon vehicle multiply expose stone elbow resist sibling guess cancel |  

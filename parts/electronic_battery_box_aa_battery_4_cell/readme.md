@@ -122,6 +122,18 @@ summer
 outside
 junior
 pond |  
+| bip_39_word_no_space_1 | solve |  
+| bip_39_word_no_space_10 | solvebloodbraveseedmethodsummeroutsidejuniorpondmouse |  
+| bip_39_word_no_space_11 | solvebloodbraveseedmethodsummeroutsidejuniorpondmouseverb |  
+| bip_39_word_no_space_12 | solvebloodbraveseedmethodsummeroutsidejuniorpondmouseverbaccount |  
+| bip_39_word_no_space_2 | solveblood |  
+| bip_39_word_no_space_3 | solvebloodbrave |  
+| bip_39_word_no_space_4 | solvebloodbraveseed |  
+| bip_39_word_no_space_5 | solvebloodbraveseedmethod |  
+| bip_39_word_no_space_6 | solvebloodbraveseedmethodsummer |  
+| bip_39_word_no_space_7 | solvebloodbraveseedmethodsummeroutside |  
+| bip_39_word_no_space_8 | solvebloodbraveseedmethodsummeroutsidejunior |  
+| bip_39_word_no_space_9 | solvebloodbraveseedmethodsummeroutsidejuniorpond |  
 | bip_39_word_space_0 | ['solve', 'blood', 'brave', 'seed', 'method', 'summer', 'outside', 'junior', 'pond', 'mouse', 'verb', 'account'] |  
 | bip_39_word_space_1 | solve |  
 | bip_39_word_space_10 | solve blood brave seed method summer outside junior pond mouse |  

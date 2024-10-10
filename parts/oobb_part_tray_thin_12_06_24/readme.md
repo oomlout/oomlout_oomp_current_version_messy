@@ -122,6 +122,18 @@ educate
 hollow
 century
 float |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approvearoundchargeagentdramaeducatehollowcenturyfloatwife |  
+| bip_39_word_no_space_11 | approvearoundchargeagentdramaeducatehollowcenturyfloatwifedirt |  
+| bip_39_word_no_space_12 | approvearoundchargeagentdramaeducatehollowcenturyfloatwifedirtartist |  
+| bip_39_word_no_space_2 | approvearound |  
+| bip_39_word_no_space_3 | approvearoundcharge |  
+| bip_39_word_no_space_4 | approvearoundchargeagent |  
+| bip_39_word_no_space_5 | approvearoundchargeagentdrama |  
+| bip_39_word_no_space_6 | approvearoundchargeagentdramaeducate |  
+| bip_39_word_no_space_7 | approvearoundchargeagentdramaeducatehollow |  
+| bip_39_word_no_space_8 | approvearoundchargeagentdramaeducatehollowcentury |  
+| bip_39_word_no_space_9 | approvearoundchargeagentdramaeducatehollowcenturyfloat |  
 | bip_39_word_space_0 | ['approve', 'around', 'charge', 'agent', 'drama', 'educate', 'hollow', 'century', 'float', 'wife', 'dirt', 'artist'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve around charge agent drama educate hollow century float wife |  

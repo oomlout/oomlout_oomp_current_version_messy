@@ -122,6 +122,18 @@ essay
 sniff
 summer
 fashion |  
+| bip_39_word_no_space_1 | smile |  
+| bip_39_word_no_space_10 | smilewagebestloudfoilessaysniffsummerfashionvery |  
+| bip_39_word_no_space_11 | smilewagebestloudfoilessaysniffsummerfashionverymercy |  
+| bip_39_word_no_space_12 | smilewagebestloudfoilessaysniffsummerfashionverymercyalter |  
+| bip_39_word_no_space_2 | smilewage |  
+| bip_39_word_no_space_3 | smilewagebest |  
+| bip_39_word_no_space_4 | smilewagebestloud |  
+| bip_39_word_no_space_5 | smilewagebestloudfoil |  
+| bip_39_word_no_space_6 | smilewagebestloudfoilessay |  
+| bip_39_word_no_space_7 | smilewagebestloudfoilessaysniff |  
+| bip_39_word_no_space_8 | smilewagebestloudfoilessaysniffsummer |  
+| bip_39_word_no_space_9 | smilewagebestloudfoilessaysniffsummerfashion |  
 | bip_39_word_space_0 | ['smile', 'wage', 'best', 'loud', 'foil', 'essay', 'sniff', 'summer', 'fashion', 'very', 'mercy', 'alter'] |  
 | bip_39_word_space_1 | smile |  
 | bip_39_word_space_10 | smile wage best loud foil essay sniff summer fashion very |  

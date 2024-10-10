@@ -122,6 +122,18 @@ topple
 arctic
 laundry
 inch |  
+| bip_39_word_no_space_1 | eagle |  
+| bip_39_word_no_space_10 | eaglearoundkissrejecttanktopplearcticlaundryinchsniff |  
+| bip_39_word_no_space_11 | eaglearoundkissrejecttanktopplearcticlaundryinchsniffcotton |  
+| bip_39_word_no_space_12 | eaglearoundkissrejecttanktopplearcticlaundryinchsniffcottonamount |  
+| bip_39_word_no_space_2 | eaglearound |  
+| bip_39_word_no_space_3 | eaglearoundkiss |  
+| bip_39_word_no_space_4 | eaglearoundkissreject |  
+| bip_39_word_no_space_5 | eaglearoundkissrejecttank |  
+| bip_39_word_no_space_6 | eaglearoundkissrejecttanktopple |  
+| bip_39_word_no_space_7 | eaglearoundkissrejecttanktopplearctic |  
+| bip_39_word_no_space_8 | eaglearoundkissrejecttanktopplearcticlaundry |  
+| bip_39_word_no_space_9 | eaglearoundkissrejecttanktopplearcticlaundryinch |  
 | bip_39_word_space_0 | ['eagle', 'around', 'kiss', 'reject', 'tank', 'topple', 'arctic', 'laundry', 'inch', 'sniff', 'cotton', 'amount'] |  
 | bip_39_word_space_1 | eagle |  
 | bip_39_word_space_10 | eagle around kiss reject tank topple arctic laundry inch sniff |  

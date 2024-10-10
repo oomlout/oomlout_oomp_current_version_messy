@@ -122,6 +122,18 @@ appear
 limb
 credit
 clerk |  
+| bip_39_word_no_space_1 | topple |  
+| bip_39_word_no_space_10 | toppleshopunknownsparehireappearlimbcreditclerkupset |  
+| bip_39_word_no_space_11 | toppleshopunknownsparehireappearlimbcreditclerkupsetalbum |  
+| bip_39_word_no_space_12 | toppleshopunknownsparehireappearlimbcreditclerkupsetalbumarrest |  
+| bip_39_word_no_space_2 | toppleshop |  
+| bip_39_word_no_space_3 | toppleshopunknown |  
+| bip_39_word_no_space_4 | toppleshopunknownspare |  
+| bip_39_word_no_space_5 | toppleshopunknownsparehire |  
+| bip_39_word_no_space_6 | toppleshopunknownsparehireappear |  
+| bip_39_word_no_space_7 | toppleshopunknownsparehireappearlimb |  
+| bip_39_word_no_space_8 | toppleshopunknownsparehireappearlimbcredit |  
+| bip_39_word_no_space_9 | toppleshopunknownsparehireappearlimbcreditclerk |  
 | bip_39_word_space_0 | ['topple', 'shop', 'unknown', 'spare', 'hire', 'appear', 'limb', 'credit', 'clerk', 'upset', 'album', 'arrest'] |  
 | bip_39_word_space_1 | topple |  
 | bip_39_word_space_10 | topple shop unknown spare hire appear limb credit clerk upset |  

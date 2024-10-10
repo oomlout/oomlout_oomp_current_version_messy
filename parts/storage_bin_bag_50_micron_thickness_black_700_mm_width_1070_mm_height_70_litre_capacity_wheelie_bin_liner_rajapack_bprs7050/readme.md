@@ -122,6 +122,18 @@ blast
 electric
 pink
 during |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentpillbeginsunsetthereblastelectricpinkduringopen |  
+| bip_39_word_no_space_11 | rentpillbeginsunsetthereblastelectricpinkduringopentip |  
+| bip_39_word_no_space_12 | rentpillbeginsunsetthereblastelectricpinkduringopentipasthma |  
+| bip_39_word_no_space_2 | rentpill |  
+| bip_39_word_no_space_3 | rentpillbegin |  
+| bip_39_word_no_space_4 | rentpillbeginsunset |  
+| bip_39_word_no_space_5 | rentpillbeginsunsetthere |  
+| bip_39_word_no_space_6 | rentpillbeginsunsetthereblast |  
+| bip_39_word_no_space_7 | rentpillbeginsunsetthereblastelectric |  
+| bip_39_word_no_space_8 | rentpillbeginsunsetthereblastelectricpink |  
+| bip_39_word_no_space_9 | rentpillbeginsunsetthereblastelectricpinkduring |  
 | bip_39_word_space_0 | ['rent', 'pill', 'begin', 'sunset', 'there', 'blast', 'electric', 'pink', 'during', 'open', 'tip', 'asthma'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent pill begin sunset there blast electric pink during open |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'quick
   phone
 
   discover'
+bip_39_word_no_space_1: quick
+bip_39_word_no_space_10: quicktoybriefbravefreshfigureedgephonediscoverwoman
+bip_39_word_no_space_11: quicktoybriefbravefreshfigureedgephonediscoverwomancurve
+bip_39_word_no_space_12: quicktoybriefbravefreshfigureedgephonediscoverwomancurveamused
+bip_39_word_no_space_2: quicktoy
+bip_39_word_no_space_3: quicktoybrief
+bip_39_word_no_space_4: quicktoybriefbrave
+bip_39_word_no_space_5: quicktoybriefbravefresh
+bip_39_word_no_space_6: quicktoybriefbravefreshfigure
+bip_39_word_no_space_7: quicktoybriefbravefreshfigureedge
+bip_39_word_no_space_8: quicktoybriefbravefreshfigureedgephone
+bip_39_word_no_space_9: quicktoybriefbravefreshfigureedgephonediscover
 bip_39_word_space_0:
 - quick
 - toy

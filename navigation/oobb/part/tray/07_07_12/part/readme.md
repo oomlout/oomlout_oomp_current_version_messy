@@ -122,6 +122,18 @@ umbrella
 swift
 wonder
 shadow |  
+| bip_39_word_no_space_1 | truth |  
+| bip_39_word_no_space_10 | truthhotelfrogboxsoonumbrellaswiftwondershadowclaim |  
+| bip_39_word_no_space_11 | truthhotelfrogboxsoonumbrellaswiftwondershadowclaimpeace |  
+| bip_39_word_no_space_12 | truthhotelfrogboxsoonumbrellaswiftwondershadowclaimpeaceadmit |  
+| bip_39_word_no_space_2 | truthhotel |  
+| bip_39_word_no_space_3 | truthhotelfrog |  
+| bip_39_word_no_space_4 | truthhotelfrogbox |  
+| bip_39_word_no_space_5 | truthhotelfrogboxsoon |  
+| bip_39_word_no_space_6 | truthhotelfrogboxsoonumbrella |  
+| bip_39_word_no_space_7 | truthhotelfrogboxsoonumbrellaswift |  
+| bip_39_word_no_space_8 | truthhotelfrogboxsoonumbrellaswiftwonder |  
+| bip_39_word_no_space_9 | truthhotelfrogboxsoonumbrellaswiftwondershadow |  
 | bip_39_word_space_0 | ['truth', 'hotel', 'frog', 'box', 'soon', 'umbrella', 'swift', 'wonder', 'shadow', 'claim', 'peace', 'admit'] |  
 | bip_39_word_space_1 | truth |  
 | bip_39_word_space_10 | truth hotel frog box soon umbrella swift wonder shadow claim |  

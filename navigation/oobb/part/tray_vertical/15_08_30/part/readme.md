@@ -122,6 +122,18 @@ outer
 cattle
 toward
 primary |  
+| bip_39_word_no_space_1 | cook |  
+| bip_39_word_no_space_10 | cooklegalskillnotableretireoutercattletowardprimarytwice |  
+| bip_39_word_no_space_11 | cooklegalskillnotableretireoutercattletowardprimarytwicedevote |  
+| bip_39_word_no_space_12 | cooklegalskillnotableretireoutercattletowardprimarytwicedevoteagain |  
+| bip_39_word_no_space_2 | cooklegal |  
+| bip_39_word_no_space_3 | cooklegalskill |  
+| bip_39_word_no_space_4 | cooklegalskillnotable |  
+| bip_39_word_no_space_5 | cooklegalskillnotableretire |  
+| bip_39_word_no_space_6 | cooklegalskillnotableretireouter |  
+| bip_39_word_no_space_7 | cooklegalskillnotableretireoutercattle |  
+| bip_39_word_no_space_8 | cooklegalskillnotableretireoutercattletoward |  
+| bip_39_word_no_space_9 | cooklegalskillnotableretireoutercattletowardprimary |  
 | bip_39_word_space_0 | ['cook', 'legal', 'skill', 'notable', 'retire', 'outer', 'cattle', 'toward', 'primary', 'twice', 'devote', 'again'] |  
 | bip_39_word_space_1 | cook |  
 | bip_39_word_space_10 | cook legal skill notable retire outer cattle toward primary twice |  

@@ -122,6 +122,18 @@ same
 wool
 more
 object |  
+| bip_39_word_no_space_1 | library |  
+| bip_39_word_no_space_10 | librarybookartefactwristconvincesamewoolmoreobjectrun |  
+| bip_39_word_no_space_11 | librarybookartefactwristconvincesamewoolmoreobjectrunmenu |  
+| bip_39_word_no_space_12 | librarybookartefactwristconvincesamewoolmoreobjectrunmenuairport |  
+| bip_39_word_no_space_2 | librarybook |  
+| bip_39_word_no_space_3 | librarybookartefact |  
+| bip_39_word_no_space_4 | librarybookartefactwrist |  
+| bip_39_word_no_space_5 | librarybookartefactwristconvince |  
+| bip_39_word_no_space_6 | librarybookartefactwristconvincesame |  
+| bip_39_word_no_space_7 | librarybookartefactwristconvincesamewool |  
+| bip_39_word_no_space_8 | librarybookartefactwristconvincesamewoolmore |  
+| bip_39_word_no_space_9 | librarybookartefactwristconvincesamewoolmoreobject |  
 | bip_39_word_space_0 | ['library', 'book', 'artefact', 'wrist', 'convince', 'same', 'wool', 'more', 'object', 'run', 'menu', 'airport'] |  
 | bip_39_word_space_1 | library |  
 | bip_39_word_space_10 | library book artefact wrist convince same wool more object run |  

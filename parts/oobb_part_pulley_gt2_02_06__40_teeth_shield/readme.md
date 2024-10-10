@@ -122,6 +122,18 @@ whale
 whip
 inch
 security |  
+| bip_39_word_no_space_1 | fluid |  
+| bip_39_word_no_space_10 | fluidsavesoupweekendagreewhalewhipinchsecuritylake |  
+| bip_39_word_no_space_11 | fluidsavesoupweekendagreewhalewhipinchsecuritylakeprevent |  
+| bip_39_word_no_space_12 | fluidsavesoupweekendagreewhalewhipinchsecuritylakepreventaugust |  
+| bip_39_word_no_space_2 | fluidsave |  
+| bip_39_word_no_space_3 | fluidsavesoup |  
+| bip_39_word_no_space_4 | fluidsavesoupweekend |  
+| bip_39_word_no_space_5 | fluidsavesoupweekendagree |  
+| bip_39_word_no_space_6 | fluidsavesoupweekendagreewhale |  
+| bip_39_word_no_space_7 | fluidsavesoupweekendagreewhalewhip |  
+| bip_39_word_no_space_8 | fluidsavesoupweekendagreewhalewhipinch |  
+| bip_39_word_no_space_9 | fluidsavesoupweekendagreewhalewhipinchsecurity |  
 | bip_39_word_space_0 | ['fluid', 'save', 'soup', 'weekend', 'agree', 'whale', 'whip', 'inch', 'security', 'lake', 'prevent', 'august'] |  
 | bip_39_word_space_1 | fluid |  
 | bip_39_word_space_10 | fluid save soup weekend agree whale whip inch security lake |  

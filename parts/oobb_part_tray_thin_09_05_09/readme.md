@@ -122,6 +122,18 @@ response
 prosper
 hamster
 equal |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchgrasslifeinterestbeautyresponseprosperhamsterequalblur |  
+| bip_39_word_no_space_11 | crouchgrasslifeinterestbeautyresponseprosperhamsterequalblurfiber |  
+| bip_39_word_no_space_12 | crouchgrasslifeinterestbeautyresponseprosperhamsterequalblurfiberargue |  
+| bip_39_word_no_space_2 | crouchgrass |  
+| bip_39_word_no_space_3 | crouchgrasslife |  
+| bip_39_word_no_space_4 | crouchgrasslifeinterest |  
+| bip_39_word_no_space_5 | crouchgrasslifeinterestbeauty |  
+| bip_39_word_no_space_6 | crouchgrasslifeinterestbeautyresponse |  
+| bip_39_word_no_space_7 | crouchgrasslifeinterestbeautyresponseprosper |  
+| bip_39_word_no_space_8 | crouchgrasslifeinterestbeautyresponseprosperhamster |  
+| bip_39_word_no_space_9 | crouchgrasslifeinterestbeautyresponseprosperhamsterequal |  
 | bip_39_word_space_0 | ['crouch', 'grass', 'life', 'interest', 'beauty', 'response', 'prosper', 'hamster', 'equal', 'blur', 'fiber', 'argue'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch grass life interest beauty response prosper hamster equal blur |  

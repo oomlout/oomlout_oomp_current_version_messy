@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'seat
   act
 
   two'
+bip_39_word_no_space_1: seat
+bip_39_word_no_space_10: seatteachvaguevibrantslushdaypraiseacttwoutility
+bip_39_word_no_space_11: seatteachvaguevibrantslushdaypraiseacttwoutilityquote
+bip_39_word_no_space_12: seatteachvaguevibrantslushdaypraiseacttwoutilityquoteapril
+bip_39_word_no_space_2: seatteach
+bip_39_word_no_space_3: seatteachvague
+bip_39_word_no_space_4: seatteachvaguevibrant
+bip_39_word_no_space_5: seatteachvaguevibrantslush
+bip_39_word_no_space_6: seatteachvaguevibrantslushday
+bip_39_word_no_space_7: seatteachvaguevibrantslushdaypraise
+bip_39_word_no_space_8: seatteachvaguevibrantslushdaypraiseact
+bip_39_word_no_space_9: seatteachvaguevibrantslushdaypraiseacttwo
 bip_39_word_space_0:
 - seat
 - teach

@@ -122,6 +122,18 @@ vacant
 tenant
 crisp
 damp |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipfacultyenforcebetweenswearvacanttenantcrispdampwater |  
+| bip_39_word_no_space_11 | clipfacultyenforcebetweenswearvacanttenantcrispdampwaterwedding |  
+| bip_39_word_no_space_12 | clipfacultyenforcebetweenswearvacanttenantcrispdampwaterweddingadmit |  
+| bip_39_word_no_space_2 | clipfaculty |  
+| bip_39_word_no_space_3 | clipfacultyenforce |  
+| bip_39_word_no_space_4 | clipfacultyenforcebetween |  
+| bip_39_word_no_space_5 | clipfacultyenforcebetweenswear |  
+| bip_39_word_no_space_6 | clipfacultyenforcebetweenswearvacant |  
+| bip_39_word_no_space_7 | clipfacultyenforcebetweenswearvacanttenant |  
+| bip_39_word_no_space_8 | clipfacultyenforcebetweenswearvacanttenantcrisp |  
+| bip_39_word_no_space_9 | clipfacultyenforcebetweenswearvacanttenantcrispdamp |  
 | bip_39_word_space_0 | ['clip', 'faculty', 'enforce', 'between', 'swear', 'vacant', 'tenant', 'crisp', 'damp', 'water', 'wedding', 'admit'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip faculty enforce between swear vacant tenant crisp damp water |  

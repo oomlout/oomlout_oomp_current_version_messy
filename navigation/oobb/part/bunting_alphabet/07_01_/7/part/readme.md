@@ -122,6 +122,18 @@ panic
 thing
 chase
 boost |  
+| bip_39_word_no_space_1 | sponsor |  
+| bip_39_word_no_space_10 | sponsorcopylifegoosetenantpanicthingchaseboostwear |  
+| bip_39_word_no_space_11 | sponsorcopylifegoosetenantpanicthingchaseboostwearall |  
+| bip_39_word_no_space_12 | sponsorcopylifegoosetenantpanicthingchaseboostwearallabove |  
+| bip_39_word_no_space_2 | sponsorcopy |  
+| bip_39_word_no_space_3 | sponsorcopylife |  
+| bip_39_word_no_space_4 | sponsorcopylifegoose |  
+| bip_39_word_no_space_5 | sponsorcopylifegoosetenant |  
+| bip_39_word_no_space_6 | sponsorcopylifegoosetenantpanic |  
+| bip_39_word_no_space_7 | sponsorcopylifegoosetenantpanicthing |  
+| bip_39_word_no_space_8 | sponsorcopylifegoosetenantpanicthingchase |  
+| bip_39_word_no_space_9 | sponsorcopylifegoosetenantpanicthingchaseboost |  
 | bip_39_word_space_0 | ['sponsor', 'copy', 'life', 'goose', 'tenant', 'panic', 'thing', 'chase', 'boost', 'wear', 'all', 'above'] |  
 | bip_39_word_space_1 | sponsor |  
 | bip_39_word_space_10 | sponsor copy life goose tenant panic thing chase boost wear |  

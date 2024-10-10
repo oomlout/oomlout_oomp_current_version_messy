@@ -122,6 +122,18 @@ media
 clarify
 toward
 jacket |  
+| bip_39_word_no_space_1 | sunset |  
+| bip_39_word_no_space_10 | sunsetgingerequipwolfsandmediaclarifytowardjacketmemory |  
+| bip_39_word_no_space_11 | sunsetgingerequipwolfsandmediaclarifytowardjacketmemorytoast |  
+| bip_39_word_no_space_12 | sunsetgingerequipwolfsandmediaclarifytowardjacketmemorytoastaround |  
+| bip_39_word_no_space_2 | sunsetginger |  
+| bip_39_word_no_space_3 | sunsetgingerequip |  
+| bip_39_word_no_space_4 | sunsetgingerequipwolf |  
+| bip_39_word_no_space_5 | sunsetgingerequipwolfsand |  
+| bip_39_word_no_space_6 | sunsetgingerequipwolfsandmedia |  
+| bip_39_word_no_space_7 | sunsetgingerequipwolfsandmediaclarify |  
+| bip_39_word_no_space_8 | sunsetgingerequipwolfsandmediaclarifytoward |  
+| bip_39_word_no_space_9 | sunsetgingerequipwolfsandmediaclarifytowardjacket |  
 | bip_39_word_space_0 | ['sunset', 'ginger', 'equip', 'wolf', 'sand', 'media', 'clarify', 'toward', 'jacket', 'memory', 'toast', 'around'] |  
 | bip_39_word_space_1 | sunset |  
 | bip_39_word_space_10 | sunset ginger equip wolf sand media clarify toward jacket memory |  

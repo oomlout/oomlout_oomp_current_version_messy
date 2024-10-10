@@ -122,6 +122,18 @@ canvas
 slide
 surround
 chest |  
+| bip_39_word_no_space_1 | busy |  
+| bip_39_word_no_space_10 | busycrispclimbpaperduckcanvasslidesurroundchesttool |  
+| bip_39_word_no_space_11 | busycrispclimbpaperduckcanvasslidesurroundchesttoolweb |  
+| bip_39_word_no_space_12 | busycrispclimbpaperduckcanvasslidesurroundchesttoolwebalone |  
+| bip_39_word_no_space_2 | busycrisp |  
+| bip_39_word_no_space_3 | busycrispclimb |  
+| bip_39_word_no_space_4 | busycrispclimbpaper |  
+| bip_39_word_no_space_5 | busycrispclimbpaperduck |  
+| bip_39_word_no_space_6 | busycrispclimbpaperduckcanvas |  
+| bip_39_word_no_space_7 | busycrispclimbpaperduckcanvasslide |  
+| bip_39_word_no_space_8 | busycrispclimbpaperduckcanvasslidesurround |  
+| bip_39_word_no_space_9 | busycrispclimbpaperduckcanvasslidesurroundchest |  
 | bip_39_word_space_0 | ['busy', 'crisp', 'climb', 'paper', 'duck', 'canvas', 'slide', 'surround', 'chest', 'tool', 'web', 'alone'] |  
 | bip_39_word_space_1 | busy |  
 | bip_39_word_space_10 | busy crisp climb paper duck canvas slide surround chest tool |  

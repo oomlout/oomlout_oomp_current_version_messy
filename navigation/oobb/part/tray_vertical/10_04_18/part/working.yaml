@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rely
   tornado
 
   damp'
+bip_39_word_no_space_1: rely
+bip_39_word_no_space_10: relynameangernoisebronzecautionmistaketornadodampforce
+bip_39_word_no_space_11: relynameangernoisebronzecautionmistaketornadodampforcenetwork
+bip_39_word_no_space_12: relynameangernoisebronzecautionmistaketornadodampforcenetworkapril
+bip_39_word_no_space_2: relyname
+bip_39_word_no_space_3: relynameanger
+bip_39_word_no_space_4: relynameangernoise
+bip_39_word_no_space_5: relynameangernoisebronze
+bip_39_word_no_space_6: relynameangernoisebronzecaution
+bip_39_word_no_space_7: relynameangernoisebronzecautionmistake
+bip_39_word_no_space_8: relynameangernoisebronzecautionmistaketornado
+bip_39_word_no_space_9: relynameangernoisebronzecautionmistaketornadodamp
 bip_39_word_space_0:
 - rely
 - name

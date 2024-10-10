@@ -122,6 +122,18 @@ frequent
 valley
 banner
 illegal |  
+| bip_39_word_no_space_1 | dentist |  
+| bip_39_word_no_space_10 | dentistadvancesixfrozenhumorfrequentvalleybannerillegalcry |  
+| bip_39_word_no_space_11 | dentistadvancesixfrozenhumorfrequentvalleybannerillegalcryblue |  
+| bip_39_word_no_space_12 | dentistadvancesixfrozenhumorfrequentvalleybannerillegalcryblueapril |  
+| bip_39_word_no_space_2 | dentistadvance |  
+| bip_39_word_no_space_3 | dentistadvancesix |  
+| bip_39_word_no_space_4 | dentistadvancesixfrozen |  
+| bip_39_word_no_space_5 | dentistadvancesixfrozenhumor |  
+| bip_39_word_no_space_6 | dentistadvancesixfrozenhumorfrequent |  
+| bip_39_word_no_space_7 | dentistadvancesixfrozenhumorfrequentvalley |  
+| bip_39_word_no_space_8 | dentistadvancesixfrozenhumorfrequentvalleybanner |  
+| bip_39_word_no_space_9 | dentistadvancesixfrozenhumorfrequentvalleybannerillegal |  
 | bip_39_word_space_0 | ['dentist', 'advance', 'six', 'frozen', 'humor', 'frequent', 'valley', 'banner', 'illegal', 'cry', 'blue', 'april'] |  
 | bip_39_word_space_1 | dentist |  
 | bip_39_word_space_10 | dentist advance six frozen humor frequent valley banner illegal cry |  

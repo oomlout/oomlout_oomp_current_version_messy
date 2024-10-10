@@ -122,6 +122,18 @@ also
 common
 media
 label |  
+| bip_39_word_no_space_1 | parrot |  
+| bip_39_word_no_space_10 | parrotthoughtsillytexterasealsocommonmedialabelarrange |  
+| bip_39_word_no_space_11 | parrotthoughtsillytexterasealsocommonmedialabelarrangevalid |  
+| bip_39_word_no_space_12 | parrotthoughtsillytexterasealsocommonmedialabelarrangevalidachieve |  
+| bip_39_word_no_space_2 | parrotthought |  
+| bip_39_word_no_space_3 | parrotthoughtsilly |  
+| bip_39_word_no_space_4 | parrotthoughtsillytext |  
+| bip_39_word_no_space_5 | parrotthoughtsillytexterase |  
+| bip_39_word_no_space_6 | parrotthoughtsillytexterasealso |  
+| bip_39_word_no_space_7 | parrotthoughtsillytexterasealsocommon |  
+| bip_39_word_no_space_8 | parrotthoughtsillytexterasealsocommonmedia |  
+| bip_39_word_no_space_9 | parrotthoughtsillytexterasealsocommonmedialabel |  
 | bip_39_word_space_0 | ['parrot', 'thought', 'silly', 'text', 'erase', 'also', 'common', 'media', 'label', 'arrange', 'valid', 'achieve'] |  
 | bip_39_word_space_1 | parrot |  
 | bip_39_word_space_10 | parrot thought silly text erase also common media label arrange |  

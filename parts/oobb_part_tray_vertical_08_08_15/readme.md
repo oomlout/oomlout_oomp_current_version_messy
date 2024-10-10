@@ -122,6 +122,18 @@ breeze
 fatal
 blush
 reform |  
+| bip_39_word_no_space_1 | rate |  
+| bip_39_word_no_space_10 | ratedwarffruitlizarddunebreezefatalblushreformfew |  
+| bip_39_word_no_space_11 | ratedwarffruitlizarddunebreezefatalblushreformfewvivid |  
+| bip_39_word_no_space_12 | ratedwarffruitlizarddunebreezefatalblushreformfewvividattract |  
+| bip_39_word_no_space_2 | ratedwarf |  
+| bip_39_word_no_space_3 | ratedwarffruit |  
+| bip_39_word_no_space_4 | ratedwarffruitlizard |  
+| bip_39_word_no_space_5 | ratedwarffruitlizarddune |  
+| bip_39_word_no_space_6 | ratedwarffruitlizarddunebreeze |  
+| bip_39_word_no_space_7 | ratedwarffruitlizarddunebreezefatal |  
+| bip_39_word_no_space_8 | ratedwarffruitlizarddunebreezefatalblush |  
+| bip_39_word_no_space_9 | ratedwarffruitlizarddunebreezefatalblushreform |  
 | bip_39_word_space_0 | ['rate', 'dwarf', 'fruit', 'lizard', 'dune', 'breeze', 'fatal', 'blush', 'reform', 'few', 'vivid', 'attract'] |  
 | bip_39_word_space_1 | rate |  
 | bip_39_word_space_10 | rate dwarf fruit lizard dune breeze fatal blush reform few |  

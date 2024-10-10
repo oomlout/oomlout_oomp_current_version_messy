@@ -122,6 +122,18 @@ radar
 truth
 paper
 edge |  
+| bip_39_word_no_space_1 | prefer |  
+| bip_39_word_no_space_10 | prefertreebraincountrylocalradartruthpaperedgeblossom |  
+| bip_39_word_no_space_11 | prefertreebraincountrylocalradartruthpaperedgeblossomsubway |  
+| bip_39_word_no_space_12 | prefertreebraincountrylocalradartruthpaperedgeblossomsubwayaccount |  
+| bip_39_word_no_space_2 | prefertree |  
+| bip_39_word_no_space_3 | prefertreebrain |  
+| bip_39_word_no_space_4 | prefertreebraincountry |  
+| bip_39_word_no_space_5 | prefertreebraincountrylocal |  
+| bip_39_word_no_space_6 | prefertreebraincountrylocalradar |  
+| bip_39_word_no_space_7 | prefertreebraincountrylocalradartruth |  
+| bip_39_word_no_space_8 | prefertreebraincountrylocalradartruthpaper |  
+| bip_39_word_no_space_9 | prefertreebraincountrylocalradartruthpaperedge |  
 | bip_39_word_space_0 | ['prefer', 'tree', 'brain', 'country', 'local', 'radar', 'truth', 'paper', 'edge', 'blossom', 'subway', 'account'] |  
 | bip_39_word_space_1 | prefer |  
 | bip_39_word_space_10 | prefer tree brain country local radar truth paper edge blossom |  

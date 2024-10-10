@@ -122,6 +122,18 @@ retreat
 mirror
 reason
 muscle |  
+| bip_39_word_no_space_1 | goat |  
+| bip_39_word_no_space_10 | goatsentencerebuilddropoptionretreatmirrorreasonmusclestick |  
+| bip_39_word_no_space_11 | goatsentencerebuilddropoptionretreatmirrorreasonmusclestickguilt |  
+| bip_39_word_no_space_12 | goatsentencerebuilddropoptionretreatmirrorreasonmusclestickguiltantique |  
+| bip_39_word_no_space_2 | goatsentence |  
+| bip_39_word_no_space_3 | goatsentencerebuild |  
+| bip_39_word_no_space_4 | goatsentencerebuilddrop |  
+| bip_39_word_no_space_5 | goatsentencerebuilddropoption |  
+| bip_39_word_no_space_6 | goatsentencerebuilddropoptionretreat |  
+| bip_39_word_no_space_7 | goatsentencerebuilddropoptionretreatmirror |  
+| bip_39_word_no_space_8 | goatsentencerebuilddropoptionretreatmirrorreason |  
+| bip_39_word_no_space_9 | goatsentencerebuilddropoptionretreatmirrorreasonmuscle |  
 | bip_39_word_space_0 | ['goat', 'sentence', 'rebuild', 'drop', 'option', 'retreat', 'mirror', 'reason', 'muscle', 'stick', 'guilt', 'antique'] |  
 | bip_39_word_space_1 | goat |  
 | bip_39_word_space_10 | goat sentence rebuild drop option retreat mirror reason muscle stick |  

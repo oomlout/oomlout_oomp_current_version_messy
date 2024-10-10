@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'risk
   taste
 
   slot'
+bip_39_word_no_space_1: risk
+bip_39_word_no_space_10: riskamountbrightonionabusemonthpovertytasteslotartefact
+bip_39_word_no_space_11: riskamountbrightonionabusemonthpovertytasteslotartefactpudding
+bip_39_word_no_space_12: riskamountbrightonionabusemonthpovertytasteslotartefactpuddingarrange
+bip_39_word_no_space_2: riskamount
+bip_39_word_no_space_3: riskamountbright
+bip_39_word_no_space_4: riskamountbrightonion
+bip_39_word_no_space_5: riskamountbrightonionabuse
+bip_39_word_no_space_6: riskamountbrightonionabusemonth
+bip_39_word_no_space_7: riskamountbrightonionabusemonthpoverty
+bip_39_word_no_space_8: riskamountbrightonionabusemonthpovertytaste
+bip_39_word_no_space_9: riskamountbrightonionabusemonthpovertytasteslot
 bip_39_word_space_0:
 - risk
 - amount

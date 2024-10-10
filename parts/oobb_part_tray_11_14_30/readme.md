@@ -122,6 +122,18 @@ voice
 size
 when
 render |  
+| bip_39_word_no_space_1 | best |  
+| bip_39_word_no_space_10 | bestkittennastysyrupfictionvoicesizewhenrendercertain |  
+| bip_39_word_no_space_11 | bestkittennastysyrupfictionvoicesizewhenrendercertainamateur |  
+| bip_39_word_no_space_12 | bestkittennastysyrupfictionvoicesizewhenrendercertainamateuratom |  
+| bip_39_word_no_space_2 | bestkitten |  
+| bip_39_word_no_space_3 | bestkittennasty |  
+| bip_39_word_no_space_4 | bestkittennastysyrup |  
+| bip_39_word_no_space_5 | bestkittennastysyrupfiction |  
+| bip_39_word_no_space_6 | bestkittennastysyrupfictionvoice |  
+| bip_39_word_no_space_7 | bestkittennastysyrupfictionvoicesize |  
+| bip_39_word_no_space_8 | bestkittennastysyrupfictionvoicesizewhen |  
+| bip_39_word_no_space_9 | bestkittennastysyrupfictionvoicesizewhenrender |  
 | bip_39_word_space_0 | ['best', 'kitten', 'nasty', 'syrup', 'fiction', 'voice', 'size', 'when', 'render', 'certain', 'amateur', 'atom'] |  
 | bip_39_word_space_1 | best |  
 | bip_39_word_space_10 | best kitten nasty syrup fiction voice size when render certain |  

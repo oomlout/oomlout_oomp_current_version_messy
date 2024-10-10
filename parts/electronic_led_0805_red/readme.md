@@ -122,6 +122,18 @@ crack
 shed
 bounce
 act |  
+| bip_39_word_no_space_1 | gesture |  
+| bip_39_word_no_space_10 | gestureactionsyrupslimatomcrackshedbounceactwork |  
+| bip_39_word_no_space_11 | gestureactionsyrupslimatomcrackshedbounceactworkslide |  
+| bip_39_word_no_space_12 | gestureactionsyrupslimatomcrackshedbounceactworkslideautumn |  
+| bip_39_word_no_space_2 | gestureaction |  
+| bip_39_word_no_space_3 | gestureactionsyrup |  
+| bip_39_word_no_space_4 | gestureactionsyrupslim |  
+| bip_39_word_no_space_5 | gestureactionsyrupslimatom |  
+| bip_39_word_no_space_6 | gestureactionsyrupslimatomcrack |  
+| bip_39_word_no_space_7 | gestureactionsyrupslimatomcrackshed |  
+| bip_39_word_no_space_8 | gestureactionsyrupslimatomcrackshedbounce |  
+| bip_39_word_no_space_9 | gestureactionsyrupslimatomcrackshedbounceact |  
 | bip_39_word_space_0 | ['gesture', 'action', 'syrup', 'slim', 'atom', 'crack', 'shed', 'bounce', 'act', 'work', 'slide', 'autumn'] |  
 | bip_39_word_space_1 | gesture |  
 | bip_39_word_space_10 | gesture action syrup slim atom crack shed bounce act work |  

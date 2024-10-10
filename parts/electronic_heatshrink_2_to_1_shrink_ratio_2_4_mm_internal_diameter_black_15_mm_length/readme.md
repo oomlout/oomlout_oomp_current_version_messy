@@ -122,6 +122,18 @@ also
 garment
 denial
 audit |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomebeltmusicstemsoonalsogarmentdenialauditunit |  
+| bip_39_word_no_space_11 | welcomebeltmusicstemsoonalsogarmentdenialauditunitexclude |  
+| bip_39_word_no_space_12 | welcomebeltmusicstemsoonalsogarmentdenialauditunitexcludeaction |  
+| bip_39_word_no_space_2 | welcomebelt |  
+| bip_39_word_no_space_3 | welcomebeltmusic |  
+| bip_39_word_no_space_4 | welcomebeltmusicstem |  
+| bip_39_word_no_space_5 | welcomebeltmusicstemsoon |  
+| bip_39_word_no_space_6 | welcomebeltmusicstemsoonalso |  
+| bip_39_word_no_space_7 | welcomebeltmusicstemsoonalsogarment |  
+| bip_39_word_no_space_8 | welcomebeltmusicstemsoonalsogarmentdenial |  
+| bip_39_word_no_space_9 | welcomebeltmusicstemsoonalsogarmentdenialaudit |  
 | bip_39_word_space_0 | ['welcome', 'belt', 'music', 'stem', 'soon', 'also', 'garment', 'denial', 'audit', 'unit', 'exclude', 'action'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome belt music stem soon also garment denial audit unit |  

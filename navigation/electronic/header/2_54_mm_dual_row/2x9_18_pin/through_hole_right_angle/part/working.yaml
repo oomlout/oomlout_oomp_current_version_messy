@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'drive
   apple
 
   matter'
+bip_39_word_no_space_1: drive
+bip_39_word_no_space_10: drivetapenaivegritsafedishsyrupapplematterfashion
+bip_39_word_no_space_11: drivetapenaivegritsafedishsyrupapplematterfashionrich
+bip_39_word_no_space_12: drivetapenaivegritsafedishsyrupapplematterfashionrichannual
+bip_39_word_no_space_2: drivetape
+bip_39_word_no_space_3: drivetapenaive
+bip_39_word_no_space_4: drivetapenaivegrit
+bip_39_word_no_space_5: drivetapenaivegritsafe
+bip_39_word_no_space_6: drivetapenaivegritsafedish
+bip_39_word_no_space_7: drivetapenaivegritsafedishsyrup
+bip_39_word_no_space_8: drivetapenaivegritsafedishsyrupapple
+bip_39_word_no_space_9: drivetapenaivegritsafedishsyrupapplematter
 bip_39_word_space_0:
 - drive
 - tape

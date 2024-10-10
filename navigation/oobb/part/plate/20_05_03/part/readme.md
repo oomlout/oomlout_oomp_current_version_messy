@@ -122,6 +122,18 @@ unique
 raven
 immense
 razor |  
+| bip_39_word_no_space_1 | smart |  
+| bip_39_word_no_space_10 | smartwealthemotionmanloveuniqueravenimmenserazorspoil |  
+| bip_39_word_no_space_11 | smartwealthemotionmanloveuniqueravenimmenserazorspoilchampion |  
+| bip_39_word_no_space_12 | smartwealthemotionmanloveuniqueravenimmenserazorspoilchampionaspect |  
+| bip_39_word_no_space_2 | smartwealth |  
+| bip_39_word_no_space_3 | smartwealthemotion |  
+| bip_39_word_no_space_4 | smartwealthemotionman |  
+| bip_39_word_no_space_5 | smartwealthemotionmanlove |  
+| bip_39_word_no_space_6 | smartwealthemotionmanloveunique |  
+| bip_39_word_no_space_7 | smartwealthemotionmanloveuniqueraven |  
+| bip_39_word_no_space_8 | smartwealthemotionmanloveuniqueravenimmense |  
+| bip_39_word_no_space_9 | smartwealthemotionmanloveuniqueravenimmenserazor |  
 | bip_39_word_space_0 | ['smart', 'wealth', 'emotion', 'man', 'love', 'unique', 'raven', 'immense', 'razor', 'spoil', 'champion', 'aspect'] |  
 | bip_39_word_space_1 | smart |  
 | bip_39_word_space_10 | smart wealth emotion man love unique raven immense razor spoil |  

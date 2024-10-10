@@ -122,6 +122,18 @@ hundred
 secret
 strong
 museum |  
+| bip_39_word_no_space_1 | grit |  
+| bip_39_word_no_space_10 | gritsilenthorseexamplealwayshundredsecretstrongmuseumneed |  
+| bip_39_word_no_space_11 | gritsilenthorseexamplealwayshundredsecretstrongmuseumneedcurtain |  
+| bip_39_word_no_space_12 | gritsilenthorseexamplealwayshundredsecretstrongmuseumneedcurtainatom |  
+| bip_39_word_no_space_2 | gritsilent |  
+| bip_39_word_no_space_3 | gritsilenthorse |  
+| bip_39_word_no_space_4 | gritsilenthorseexample |  
+| bip_39_word_no_space_5 | gritsilenthorseexamplealways |  
+| bip_39_word_no_space_6 | gritsilenthorseexamplealwayshundred |  
+| bip_39_word_no_space_7 | gritsilenthorseexamplealwayshundredsecret |  
+| bip_39_word_no_space_8 | gritsilenthorseexamplealwayshundredsecretstrong |  
+| bip_39_word_no_space_9 | gritsilenthorseexamplealwayshundredsecretstrongmuseum |  
 | bip_39_word_space_0 | ['grit', 'silent', 'horse', 'example', 'always', 'hundred', 'secret', 'strong', 'museum', 'need', 'curtain', 'atom'] |  
 | bip_39_word_space_1 | grit |  
 | bip_39_word_space_10 | grit silent horse example always hundred secret strong museum need |  

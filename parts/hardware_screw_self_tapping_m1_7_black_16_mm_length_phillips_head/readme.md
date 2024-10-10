@@ -122,6 +122,18 @@ discover
 design
 super
 this |  
+| bip_39_word_no_space_1 | donor |  
+| bip_39_word_no_space_10 | donorduckundojoybrassdiscoverdesignsuperthisinform |  
+| bip_39_word_no_space_11 | donorduckundojoybrassdiscoverdesignsuperthisinformweekend |  
+| bip_39_word_no_space_12 | donorduckundojoybrassdiscoverdesignsuperthisinformweekendantique |  
+| bip_39_word_no_space_2 | donorduck |  
+| bip_39_word_no_space_3 | donorduckundo |  
+| bip_39_word_no_space_4 | donorduckundojoy |  
+| bip_39_word_no_space_5 | donorduckundojoybrass |  
+| bip_39_word_no_space_6 | donorduckundojoybrassdiscover |  
+| bip_39_word_no_space_7 | donorduckundojoybrassdiscoverdesign |  
+| bip_39_word_no_space_8 | donorduckundojoybrassdiscoverdesignsuper |  
+| bip_39_word_no_space_9 | donorduckundojoybrassdiscoverdesignsuperthis |  
 | bip_39_word_space_0 | ['donor', 'duck', 'undo', 'joy', 'brass', 'discover', 'design', 'super', 'this', 'inform', 'weekend', 'antique'] |  
 | bip_39_word_space_1 | donor |  
 | bip_39_word_space_10 | donor duck undo joy brass discover design super this inform |  

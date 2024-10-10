@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'asthma
   oxygen
 
   razor'
+bip_39_word_no_space_1: asthma
+bip_39_word_no_space_10: asthmaevolvegrouponlyaxisalarmartworkoxygenrazorshove
+bip_39_word_no_space_11: asthmaevolvegrouponlyaxisalarmartworkoxygenrazorshovelunar
+bip_39_word_no_space_12: asthmaevolvegrouponlyaxisalarmartworkoxygenrazorshovelunaradvice
+bip_39_word_no_space_2: asthmaevolve
+bip_39_word_no_space_3: asthmaevolvegroup
+bip_39_word_no_space_4: asthmaevolvegrouponly
+bip_39_word_no_space_5: asthmaevolvegrouponlyaxis
+bip_39_word_no_space_6: asthmaevolvegrouponlyaxisalarm
+bip_39_word_no_space_7: asthmaevolvegrouponlyaxisalarmartwork
+bip_39_word_no_space_8: asthmaevolvegrouponlyaxisalarmartworkoxygen
+bip_39_word_no_space_9: asthmaevolvegrouponlyaxisalarmartworkoxygenrazor
 bip_39_word_space_0:
 - asthma
 - evolve

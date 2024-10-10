@@ -122,6 +122,18 @@ snack
 hurry
 home
 trick |  
+| bip_39_word_no_space_1 | local |  
+| bip_39_word_no_space_10 | localsleepcompanysellactualsnackhurryhometrickcereal |  
+| bip_39_word_no_space_11 | localsleepcompanysellactualsnackhurryhometrickcerealclinic |  
+| bip_39_word_no_space_12 | localsleepcompanysellactualsnackhurryhometrickcerealclinicagent |  
+| bip_39_word_no_space_2 | localsleep |  
+| bip_39_word_no_space_3 | localsleepcompany |  
+| bip_39_word_no_space_4 | localsleepcompanysell |  
+| bip_39_word_no_space_5 | localsleepcompanysellactual |  
+| bip_39_word_no_space_6 | localsleepcompanysellactualsnack |  
+| bip_39_word_no_space_7 | localsleepcompanysellactualsnackhurry |  
+| bip_39_word_no_space_8 | localsleepcompanysellactualsnackhurryhome |  
+| bip_39_word_no_space_9 | localsleepcompanysellactualsnackhurryhometrick |  
 | bip_39_word_space_0 | ['local', 'sleep', 'company', 'sell', 'actual', 'snack', 'hurry', 'home', 'trick', 'cereal', 'clinic', 'agent'] |  
 | bip_39_word_space_1 | local |  
 | bip_39_word_space_10 | local sleep company sell actual snack hurry home trick cereal |  

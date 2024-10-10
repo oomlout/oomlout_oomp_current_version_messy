@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'super
   book
 
   rather'
+bip_39_word_no_space_1: super
+bip_39_word_no_space_10: superspeedchestcolumnisolatesorryvanishbookratherdemand
+bip_39_word_no_space_11: superspeedchestcolumnisolatesorryvanishbookratherdemandpet
+bip_39_word_no_space_12: superspeedchestcolumnisolatesorryvanishbookratherdemandpetadvice
+bip_39_word_no_space_2: superspeed
+bip_39_word_no_space_3: superspeedchest
+bip_39_word_no_space_4: superspeedchestcolumn
+bip_39_word_no_space_5: superspeedchestcolumnisolate
+bip_39_word_no_space_6: superspeedchestcolumnisolatesorry
+bip_39_word_no_space_7: superspeedchestcolumnisolatesorryvanish
+bip_39_word_no_space_8: superspeedchestcolumnisolatesorryvanishbook
+bip_39_word_no_space_9: superspeedchestcolumnisolatesorryvanishbookrather
 bip_39_word_space_0:
 - super
 - speed

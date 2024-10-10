@@ -122,6 +122,18 @@ bronze
 leopard
 apart
 nice |  
+| bip_39_word_no_space_1 | sing |  
+| bip_39_word_no_space_10 | singbitterportionjoinelitebronzeleopardapartniceweasel |  
+| bip_39_word_no_space_11 | singbitterportionjoinelitebronzeleopardapartniceweaseltag |  
+| bip_39_word_no_space_12 | singbitterportionjoinelitebronzeleopardapartniceweaseltagangle |  
+| bip_39_word_no_space_2 | singbitter |  
+| bip_39_word_no_space_3 | singbitterportion |  
+| bip_39_word_no_space_4 | singbitterportionjoin |  
+| bip_39_word_no_space_5 | singbitterportionjoinelite |  
+| bip_39_word_no_space_6 | singbitterportionjoinelitebronze |  
+| bip_39_word_no_space_7 | singbitterportionjoinelitebronzeleopard |  
+| bip_39_word_no_space_8 | singbitterportionjoinelitebronzeleopardapart |  
+| bip_39_word_no_space_9 | singbitterportionjoinelitebronzeleopardapartnice |  
 | bip_39_word_space_0 | ['sing', 'bitter', 'portion', 'join', 'elite', 'bronze', 'leopard', 'apart', 'nice', 'weasel', 'tag', 'angle'] |  
 | bip_39_word_space_1 | sing |  
 | bip_39_word_space_10 | sing bitter portion join elite bronze leopard apart nice weasel |  

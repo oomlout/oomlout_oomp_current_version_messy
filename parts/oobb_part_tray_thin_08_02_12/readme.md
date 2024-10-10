@@ -122,6 +122,18 @@ staff
 oppose
 onion
 talent |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitpencilbrassarmarreststaffopposeoniontalentenemy |  
+| bip_39_word_no_space_11 | habitpencilbrassarmarreststaffopposeoniontalentenemyexpand |  
+| bip_39_word_no_space_12 | habitpencilbrassarmarreststaffopposeoniontalentenemyexpandasthma |  
+| bip_39_word_no_space_2 | habitpencil |  
+| bip_39_word_no_space_3 | habitpencilbrass |  
+| bip_39_word_no_space_4 | habitpencilbrassarm |  
+| bip_39_word_no_space_5 | habitpencilbrassarmarrest |  
+| bip_39_word_no_space_6 | habitpencilbrassarmarreststaff |  
+| bip_39_word_no_space_7 | habitpencilbrassarmarreststaffoppose |  
+| bip_39_word_no_space_8 | habitpencilbrassarmarreststaffopposeonion |  
+| bip_39_word_no_space_9 | habitpencilbrassarmarreststaffopposeoniontalent |  
 | bip_39_word_space_0 | ['habit', 'pencil', 'brass', 'arm', 'arrest', 'staff', 'oppose', 'onion', 'talent', 'enemy', 'expand', 'asthma'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit pencil brass arm arrest staff oppose onion talent enemy |  

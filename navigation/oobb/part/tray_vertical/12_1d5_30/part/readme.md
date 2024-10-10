@@ -122,6 +122,18 @@ upon
 civil
 lunch
 clinic |  
+| bip_39_word_no_space_1 | anger |  
+| bip_39_word_no_space_10 | angerfirmridgewearproblemuponcivillunchclinicearly |  
+| bip_39_word_no_space_11 | angerfirmridgewearproblemuponcivillunchclinicearlygarden |  
+| bip_39_word_no_space_12 | angerfirmridgewearproblemuponcivillunchclinicearlygardenauction |  
+| bip_39_word_no_space_2 | angerfirm |  
+| bip_39_word_no_space_3 | angerfirmridge |  
+| bip_39_word_no_space_4 | angerfirmridgewear |  
+| bip_39_word_no_space_5 | angerfirmridgewearproblem |  
+| bip_39_word_no_space_6 | angerfirmridgewearproblemupon |  
+| bip_39_word_no_space_7 | angerfirmridgewearproblemuponcivil |  
+| bip_39_word_no_space_8 | angerfirmridgewearproblemuponcivillunch |  
+| bip_39_word_no_space_9 | angerfirmridgewearproblemuponcivillunchclinic |  
 | bip_39_word_space_0 | ['anger', 'firm', 'ridge', 'wear', 'problem', 'upon', 'civil', 'lunch', 'clinic', 'early', 'garden', 'auction'] |  
 | bip_39_word_space_1 | anger |  
 | bip_39_word_space_10 | anger firm ridge wear problem upon civil lunch clinic early |  

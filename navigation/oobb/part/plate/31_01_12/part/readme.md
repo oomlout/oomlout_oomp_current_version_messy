@@ -122,6 +122,18 @@ exhibit
 crumble
 guide
 flame |  
+| bip_39_word_no_space_1 | soon |  
+| bip_39_word_no_space_10 | sooncrowdhurtsilkalarmexhibitcrumbleguideflamecrouch |  
+| bip_39_word_no_space_11 | sooncrowdhurtsilkalarmexhibitcrumbleguideflamecrouchmountain |  
+| bip_39_word_no_space_12 | sooncrowdhurtsilkalarmexhibitcrumbleguideflamecrouchmountainaudit |  
+| bip_39_word_no_space_2 | sooncrowd |  
+| bip_39_word_no_space_3 | sooncrowdhurt |  
+| bip_39_word_no_space_4 | sooncrowdhurtsilk |  
+| bip_39_word_no_space_5 | sooncrowdhurtsilkalarm |  
+| bip_39_word_no_space_6 | sooncrowdhurtsilkalarmexhibit |  
+| bip_39_word_no_space_7 | sooncrowdhurtsilkalarmexhibitcrumble |  
+| bip_39_word_no_space_8 | sooncrowdhurtsilkalarmexhibitcrumbleguide |  
+| bip_39_word_no_space_9 | sooncrowdhurtsilkalarmexhibitcrumbleguideflame |  
 | bip_39_word_space_0 | ['soon', 'crowd', 'hurt', 'silk', 'alarm', 'exhibit', 'crumble', 'guide', 'flame', 'crouch', 'mountain', 'audit'] |  
 | bip_39_word_space_1 | soon |  
 | bip_39_word_space_10 | soon crowd hurt silk alarm exhibit crumble guide flame crouch |  

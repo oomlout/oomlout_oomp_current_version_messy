@@ -122,6 +122,18 @@ power
 nest
 reunion
 govern |  
+| bip_39_word_no_space_1 | assist |  
+| bip_39_word_no_space_10 | assistdefineengineravenwhippowernestreuniongovernexecute |  
+| bip_39_word_no_space_11 | assistdefineengineravenwhippowernestreuniongovernexecutelayer |  
+| bip_39_word_no_space_12 | assistdefineengineravenwhippowernestreuniongovernexecutelayerabstract |  
+| bip_39_word_no_space_2 | assistdefine |  
+| bip_39_word_no_space_3 | assistdefineengine |  
+| bip_39_word_no_space_4 | assistdefineengineraven |  
+| bip_39_word_no_space_5 | assistdefineengineravenwhip |  
+| bip_39_word_no_space_6 | assistdefineengineravenwhippower |  
+| bip_39_word_no_space_7 | assistdefineengineravenwhippowernest |  
+| bip_39_word_no_space_8 | assistdefineengineravenwhippowernestreunion |  
+| bip_39_word_no_space_9 | assistdefineengineravenwhippowernestreuniongovern |  
 | bip_39_word_space_0 | ['assist', 'define', 'engine', 'raven', 'whip', 'power', 'nest', 'reunion', 'govern', 'execute', 'layer', 'abstract'] |  
 | bip_39_word_space_1 | assist |  
 | bip_39_word_space_10 | assist define engine raven whip power nest reunion govern execute |  

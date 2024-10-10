@@ -122,6 +122,18 @@ meat
 edge
 six
 way |  
+| bip_39_word_no_space_1 | sheriff |  
+| bip_39_word_no_space_10 | sherifflessonpermitgesturefiscalmeatedgesixwayera |  
+| bip_39_word_no_space_11 | sherifflessonpermitgesturefiscalmeatedgesixwayeraemploy |  
+| bip_39_word_no_space_12 | sherifflessonpermitgesturefiscalmeatedgesixwayeraemployaccuse |  
+| bip_39_word_no_space_2 | sherifflesson |  
+| bip_39_word_no_space_3 | sherifflessonpermit |  
+| bip_39_word_no_space_4 | sherifflessonpermitgesture |  
+| bip_39_word_no_space_5 | sherifflessonpermitgesturefiscal |  
+| bip_39_word_no_space_6 | sherifflessonpermitgesturefiscalmeat |  
+| bip_39_word_no_space_7 | sherifflessonpermitgesturefiscalmeatedge |  
+| bip_39_word_no_space_8 | sherifflessonpermitgesturefiscalmeatedgesix |  
+| bip_39_word_no_space_9 | sherifflessonpermitgesturefiscalmeatedgesixway |  
 | bip_39_word_space_0 | ['sheriff', 'lesson', 'permit', 'gesture', 'fiscal', 'meat', 'edge', 'six', 'way', 'era', 'employ', 'accuse'] |  
 | bip_39_word_space_1 | sheriff |  
 | bip_39_word_space_10 | sheriff lesson permit gesture fiscal meat edge six way era |  

@@ -122,6 +122,18 @@ guilt
 bubble
 cash
 rapid |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printkeepivoryobservemelodyguiltbubblecashrapidpeanut |  
+| bip_39_word_no_space_11 | printkeepivoryobservemelodyguiltbubblecashrapidpeanutclog |  
+| bip_39_word_no_space_12 | printkeepivoryobservemelodyguiltbubblecashrapidpeanutclogasthma |  
+| bip_39_word_no_space_2 | printkeep |  
+| bip_39_word_no_space_3 | printkeepivory |  
+| bip_39_word_no_space_4 | printkeepivoryobserve |  
+| bip_39_word_no_space_5 | printkeepivoryobservemelody |  
+| bip_39_word_no_space_6 | printkeepivoryobservemelodyguilt |  
+| bip_39_word_no_space_7 | printkeepivoryobservemelodyguiltbubble |  
+| bip_39_word_no_space_8 | printkeepivoryobservemelodyguiltbubblecash |  
+| bip_39_word_no_space_9 | printkeepivoryobservemelodyguiltbubblecashrapid |  
 | bip_39_word_space_0 | ['print', 'keep', 'ivory', 'observe', 'melody', 'guilt', 'bubble', 'cash', 'rapid', 'peanut', 'clog', 'asthma'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print keep ivory observe melody guilt bubble cash rapid peanut |  

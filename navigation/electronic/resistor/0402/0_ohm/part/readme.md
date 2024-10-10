@@ -122,6 +122,18 @@ alien
 siege
 garlic
 feed |  
+| bip_39_word_no_space_1 | smooth |  
+| bip_39_word_no_space_10 | smoothrelyartefacttigernetworkaliensiegegarlicfeedflash |  
+| bip_39_word_no_space_11 | smoothrelyartefacttigernetworkaliensiegegarlicfeedflashassist |  
+| bip_39_word_no_space_12 | smoothrelyartefacttigernetworkaliensiegegarlicfeedflashassistauthor |  
+| bip_39_word_no_space_2 | smoothrely |  
+| bip_39_word_no_space_3 | smoothrelyartefact |  
+| bip_39_word_no_space_4 | smoothrelyartefacttiger |  
+| bip_39_word_no_space_5 | smoothrelyartefacttigernetwork |  
+| bip_39_word_no_space_6 | smoothrelyartefacttigernetworkalien |  
+| bip_39_word_no_space_7 | smoothrelyartefacttigernetworkaliensiege |  
+| bip_39_word_no_space_8 | smoothrelyartefacttigernetworkaliensiegegarlic |  
+| bip_39_word_no_space_9 | smoothrelyartefacttigernetworkaliensiegegarlicfeed |  
 | bip_39_word_space_0 | ['smooth', 'rely', 'artefact', 'tiger', 'network', 'alien', 'siege', 'garlic', 'feed', 'flash', 'assist', 'author'] |  
 | bip_39_word_space_1 | smooth |  
 | bip_39_word_space_10 | smooth rely artefact tiger network alien siege garlic feed flash |  

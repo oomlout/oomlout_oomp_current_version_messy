@@ -122,6 +122,18 @@ pigeon
 frequent
 theory
 rate |  
+| bip_39_word_no_space_1 | crush |  
+| bip_39_word_no_space_10 | crushcruciallyricswalnutbecausepigeonfrequenttheoryraterather |  
+| bip_39_word_no_space_11 | crushcruciallyricswalnutbecausepigeonfrequenttheoryrateratherspy |  
+| bip_39_word_no_space_12 | crushcruciallyricswalnutbecausepigeonfrequenttheoryrateratherspyact |  
+| bip_39_word_no_space_2 | crushcrucial |  
+| bip_39_word_no_space_3 | crushcruciallyrics |  
+| bip_39_word_no_space_4 | crushcruciallyricswalnut |  
+| bip_39_word_no_space_5 | crushcruciallyricswalnutbecause |  
+| bip_39_word_no_space_6 | crushcruciallyricswalnutbecausepigeon |  
+| bip_39_word_no_space_7 | crushcruciallyricswalnutbecausepigeonfrequent |  
+| bip_39_word_no_space_8 | crushcruciallyricswalnutbecausepigeonfrequenttheory |  
+| bip_39_word_no_space_9 | crushcruciallyricswalnutbecausepigeonfrequenttheoryrate |  
 | bip_39_word_space_0 | ['crush', 'crucial', 'lyrics', 'walnut', 'because', 'pigeon', 'frequent', 'theory', 'rate', 'rather', 'spy', 'act'] |  
 | bip_39_word_space_1 | crush |  
 | bip_39_word_space_10 | crush crucial lyrics walnut because pigeon frequent theory rate rather |  

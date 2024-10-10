@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'camp
   dove
 
   chair'
+bip_39_word_no_space_1: camp
+bip_39_word_no_space_10: campstoolbeachdizzydirectrepeatloungedovechairwrestle
+bip_39_word_no_space_11: campstoolbeachdizzydirectrepeatloungedovechairwrestleepisode
+bip_39_word_no_space_12: campstoolbeachdizzydirectrepeatloungedovechairwrestleepisodealone
+bip_39_word_no_space_2: campstool
+bip_39_word_no_space_3: campstoolbeach
+bip_39_word_no_space_4: campstoolbeachdizzy
+bip_39_word_no_space_5: campstoolbeachdizzydirect
+bip_39_word_no_space_6: campstoolbeachdizzydirectrepeat
+bip_39_word_no_space_7: campstoolbeachdizzydirectrepeatlounge
+bip_39_word_no_space_8: campstoolbeachdizzydirectrepeatloungedove
+bip_39_word_no_space_9: campstoolbeachdizzydirectrepeatloungedovechair
 bip_39_word_space_0:
 - camp
 - stool

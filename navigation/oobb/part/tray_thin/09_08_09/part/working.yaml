@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'praise
   fiscal
 
   entry'
+bip_39_word_no_space_1: praise
+bip_39_word_no_space_10: praisefrogdomainscansafewhalesituatefiscalentrykick
+bip_39_word_no_space_11: praisefrogdomainscansafewhalesituatefiscalentrykickdaughter
+bip_39_word_no_space_12: praisefrogdomainscansafewhalesituatefiscalentrykickdaughteranimal
+bip_39_word_no_space_2: praisefrog
+bip_39_word_no_space_3: praisefrogdomain
+bip_39_word_no_space_4: praisefrogdomainscan
+bip_39_word_no_space_5: praisefrogdomainscansafe
+bip_39_word_no_space_6: praisefrogdomainscansafewhale
+bip_39_word_no_space_7: praisefrogdomainscansafewhalesituate
+bip_39_word_no_space_8: praisefrogdomainscansafewhalesituatefiscal
+bip_39_word_no_space_9: praisefrogdomainscansafewhalesituatefiscalentry
 bip_39_word_space_0:
 - praise
 - frog

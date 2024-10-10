@@ -122,6 +122,18 @@ relax
 common
 apology
 begin |  
+| bip_39_word_no_space_1 | reason |  
+| bip_39_word_no_space_10 | reasonranchrealcoyoteuniverserelaxcommonapologybeginpermit |  
+| bip_39_word_no_space_11 | reasonranchrealcoyoteuniverserelaxcommonapologybeginpermitpage |  
+| bip_39_word_no_space_12 | reasonranchrealcoyoteuniverserelaxcommonapologybeginpermitpageacquire |  
+| bip_39_word_no_space_2 | reasonranch |  
+| bip_39_word_no_space_3 | reasonranchreal |  
+| bip_39_word_no_space_4 | reasonranchrealcoyote |  
+| bip_39_word_no_space_5 | reasonranchrealcoyoteuniverse |  
+| bip_39_word_no_space_6 | reasonranchrealcoyoteuniverserelax |  
+| bip_39_word_no_space_7 | reasonranchrealcoyoteuniverserelaxcommon |  
+| bip_39_word_no_space_8 | reasonranchrealcoyoteuniverserelaxcommonapology |  
+| bip_39_word_no_space_9 | reasonranchrealcoyoteuniverserelaxcommonapologybegin |  
 | bip_39_word_space_0 | ['reason', 'ranch', 'real', 'coyote', 'universe', 'relax', 'common', 'apology', 'begin', 'permit', 'page', 'acquire'] |  
 | bip_39_word_space_1 | reason |  
 | bip_39_word_space_10 | reason ranch real coyote universe relax common apology begin permit |  

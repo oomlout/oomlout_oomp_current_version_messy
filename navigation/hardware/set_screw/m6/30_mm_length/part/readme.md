@@ -122,6 +122,18 @@ bone
 job
 relax
 hero |  
+| bip_39_word_no_space_1 | alien |  
+| bip_39_word_no_space_10 | alienborrowglimpseroadaddictbonejobrelaxherodiet |  
+| bip_39_word_no_space_11 | alienborrowglimpseroadaddictbonejobrelaxherodietbroccoli |  
+| bip_39_word_no_space_12 | alienborrowglimpseroadaddictbonejobrelaxherodietbroccolianchor |  
+| bip_39_word_no_space_2 | alienborrow |  
+| bip_39_word_no_space_3 | alienborrowglimpse |  
+| bip_39_word_no_space_4 | alienborrowglimpseroad |  
+| bip_39_word_no_space_5 | alienborrowglimpseroadaddict |  
+| bip_39_word_no_space_6 | alienborrowglimpseroadaddictbone |  
+| bip_39_word_no_space_7 | alienborrowglimpseroadaddictbonejob |  
+| bip_39_word_no_space_8 | alienborrowglimpseroadaddictbonejobrelax |  
+| bip_39_word_no_space_9 | alienborrowglimpseroadaddictbonejobrelaxhero |  
 | bip_39_word_space_0 | ['alien', 'borrow', 'glimpse', 'road', 'addict', 'bone', 'job', 'relax', 'hero', 'diet', 'broccoli', 'anchor'] |  
 | bip_39_word_space_1 | alien |  
 | bip_39_word_space_10 | alien borrow glimpse road addict bone job relax hero diet |  

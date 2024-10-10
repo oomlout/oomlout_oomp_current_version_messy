@@ -122,6 +122,18 @@ parade
 reason
 acoustic
 fiber |  
+| bip_39_word_no_space_1 | canoe |  
+| bip_39_word_no_space_10 | canoedieselworldhandactualparadereasonacousticfiberdecorate |  
+| bip_39_word_no_space_11 | canoedieselworldhandactualparadereasonacousticfiberdecoratebetween |  
+| bip_39_word_no_space_12 | canoedieselworldhandactualparadereasonacousticfiberdecoratebetweenaddict |  
+| bip_39_word_no_space_2 | canoediesel |  
+| bip_39_word_no_space_3 | canoedieselworld |  
+| bip_39_word_no_space_4 | canoedieselworldhand |  
+| bip_39_word_no_space_5 | canoedieselworldhandactual |  
+| bip_39_word_no_space_6 | canoedieselworldhandactualparade |  
+| bip_39_word_no_space_7 | canoedieselworldhandactualparadereason |  
+| bip_39_word_no_space_8 | canoedieselworldhandactualparadereasonacoustic |  
+| bip_39_word_no_space_9 | canoedieselworldhandactualparadereasonacousticfiber |  
 | bip_39_word_space_0 | ['canoe', 'diesel', 'world', 'hand', 'actual', 'parade', 'reason', 'acoustic', 'fiber', 'decorate', 'between', 'addict'] |  
 | bip_39_word_space_1 | canoe |  
 | bip_39_word_space_10 | canoe diesel world hand actual parade reason acoustic fiber decorate |  

@@ -122,6 +122,18 @@ dream
 pink
 piece
 rug |  
+| bip_39_word_no_space_1 | heavy |  
+| bip_39_word_no_space_10 | heavytermcageescapefiscaldreampinkpiecerugblood |  
+| bip_39_word_no_space_11 | heavytermcageescapefiscaldreampinkpiecerugblooddirect |  
+| bip_39_word_no_space_12 | heavytermcageescapefiscaldreampinkpiecerugblooddirectabuse |  
+| bip_39_word_no_space_2 | heavyterm |  
+| bip_39_word_no_space_3 | heavytermcage |  
+| bip_39_word_no_space_4 | heavytermcageescape |  
+| bip_39_word_no_space_5 | heavytermcageescapefiscal |  
+| bip_39_word_no_space_6 | heavytermcageescapefiscaldream |  
+| bip_39_word_no_space_7 | heavytermcageescapefiscaldreampink |  
+| bip_39_word_no_space_8 | heavytermcageescapefiscaldreampinkpiece |  
+| bip_39_word_no_space_9 | heavytermcageescapefiscaldreampinkpiecerug |  
 | bip_39_word_space_0 | ['heavy', 'term', 'cage', 'escape', 'fiscal', 'dream', 'pink', 'piece', 'rug', 'blood', 'direct', 'abuse'] |  
 | bip_39_word_space_1 | heavy |  
 | bip_39_word_space_10 | heavy term cage escape fiscal dream pink piece rug blood |  

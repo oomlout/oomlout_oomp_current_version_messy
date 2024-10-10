@@ -122,6 +122,18 @@ rifle
 rack
 feel
 manage |  
+| bip_39_word_no_space_1 | number |  
+| bip_39_word_no_space_10 | numbersupplysoundoutdoorusedriflerackfeelmanagesudden |  
+| bip_39_word_no_space_11 | numbersupplysoundoutdoorusedriflerackfeelmanagesuddenpriority |  
+| bip_39_word_no_space_12 | numbersupplysoundoutdoorusedriflerackfeelmanagesuddenpriorityattitude |  
+| bip_39_word_no_space_2 | numbersupply |  
+| bip_39_word_no_space_3 | numbersupplysound |  
+| bip_39_word_no_space_4 | numbersupplysoundoutdoor |  
+| bip_39_word_no_space_5 | numbersupplysoundoutdoorused |  
+| bip_39_word_no_space_6 | numbersupplysoundoutdoorusedrifle |  
+| bip_39_word_no_space_7 | numbersupplysoundoutdoorusedriflerack |  
+| bip_39_word_no_space_8 | numbersupplysoundoutdoorusedriflerackfeel |  
+| bip_39_word_no_space_9 | numbersupplysoundoutdoorusedriflerackfeelmanage |  
 | bip_39_word_space_0 | ['number', 'supply', 'sound', 'outdoor', 'used', 'rifle', 'rack', 'feel', 'manage', 'sudden', 'priority', 'attitude'] |  
 | bip_39_word_space_1 | number |  
 | bip_39_word_space_10 | number supply sound outdoor used rifle rack feel manage sudden |  

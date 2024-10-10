@@ -122,6 +122,18 @@ doctor
 pact
 amused
 feature |  
+| bip_39_word_no_space_1 | biology |  
+| bip_39_word_no_space_10 | biologypatchfutureflavorprotectdoctorpactamusedfeatureskill |  
+| bip_39_word_no_space_11 | biologypatchfutureflavorprotectdoctorpactamusedfeatureskillexplain |  
+| bip_39_word_no_space_12 | biologypatchfutureflavorprotectdoctorpactamusedfeatureskillexplainaction |  
+| bip_39_word_no_space_2 | biologypatch |  
+| bip_39_word_no_space_3 | biologypatchfuture |  
+| bip_39_word_no_space_4 | biologypatchfutureflavor |  
+| bip_39_word_no_space_5 | biologypatchfutureflavorprotect |  
+| bip_39_word_no_space_6 | biologypatchfutureflavorprotectdoctor |  
+| bip_39_word_no_space_7 | biologypatchfutureflavorprotectdoctorpact |  
+| bip_39_word_no_space_8 | biologypatchfutureflavorprotectdoctorpactamused |  
+| bip_39_word_no_space_9 | biologypatchfutureflavorprotectdoctorpactamusedfeature |  
 | bip_39_word_space_0 | ['biology', 'patch', 'future', 'flavor', 'protect', 'doctor', 'pact', 'amused', 'feature', 'skill', 'explain', 'action'] |  
 | bip_39_word_space_1 | biology |  
 | bip_39_word_space_10 | biology patch future flavor protect doctor pact amused feature skill |  

@@ -122,6 +122,18 @@ busy
 couple
 yellow
 catch |  
+| bip_39_word_no_space_1 | stable |  
+| bip_39_word_no_space_10 | stablechickenextrarequireanimalbusycoupleyellowcatchsubject |  
+| bip_39_word_no_space_11 | stablechickenextrarequireanimalbusycoupleyellowcatchsubjectloan |  
+| bip_39_word_no_space_12 | stablechickenextrarequireanimalbusycoupleyellowcatchsubjectloanankle |  
+| bip_39_word_no_space_2 | stablechicken |  
+| bip_39_word_no_space_3 | stablechickenextra |  
+| bip_39_word_no_space_4 | stablechickenextrarequire |  
+| bip_39_word_no_space_5 | stablechickenextrarequireanimal |  
+| bip_39_word_no_space_6 | stablechickenextrarequireanimalbusy |  
+| bip_39_word_no_space_7 | stablechickenextrarequireanimalbusycouple |  
+| bip_39_word_no_space_8 | stablechickenextrarequireanimalbusycoupleyellow |  
+| bip_39_word_no_space_9 | stablechickenextrarequireanimalbusycoupleyellowcatch |  
 | bip_39_word_space_0 | ['stable', 'chicken', 'extra', 'require', 'animal', 'busy', 'couple', 'yellow', 'catch', 'subject', 'loan', 'ankle'] |  
 | bip_39_word_space_1 | stable |  
 | bip_39_word_space_10 | stable chicken extra require animal busy couple yellow catch subject |  

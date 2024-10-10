@@ -122,6 +122,18 @@ wall
 vacant
 nephew
 believe |  
+| bip_39_word_no_space_1 | primary |  
+| bip_39_word_no_space_10 | primaryinformoncepulphelmetwallvacantnephewbelieveslice |  
+| bip_39_word_no_space_11 | primaryinformoncepulphelmetwallvacantnephewbelieveslicestairs |  
+| bip_39_word_no_space_12 | primaryinformoncepulphelmetwallvacantnephewbelieveslicestairsarea |  
+| bip_39_word_no_space_2 | primaryinform |  
+| bip_39_word_no_space_3 | primaryinformonce |  
+| bip_39_word_no_space_4 | primaryinformoncepulp |  
+| bip_39_word_no_space_5 | primaryinformoncepulphelmet |  
+| bip_39_word_no_space_6 | primaryinformoncepulphelmetwall |  
+| bip_39_word_no_space_7 | primaryinformoncepulphelmetwallvacant |  
+| bip_39_word_no_space_8 | primaryinformoncepulphelmetwallvacantnephew |  
+| bip_39_word_no_space_9 | primaryinformoncepulphelmetwallvacantnephewbelieve |  
 | bip_39_word_space_0 | ['primary', 'inform', 'once', 'pulp', 'helmet', 'wall', 'vacant', 'nephew', 'believe', 'slice', 'stairs', 'area'] |  
 | bip_39_word_space_1 | primary |  
 | bip_39_word_space_10 | primary inform once pulp helmet wall vacant nephew believe slice |  

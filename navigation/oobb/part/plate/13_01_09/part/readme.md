@@ -122,6 +122,18 @@ mansion
 pair
 insane
 refuse |  
+| bip_39_word_no_space_1 | ranch |  
+| bip_39_word_no_space_10 | ranchbuildbannerwonderwidemansionpairinsanerefusetrap |  
+| bip_39_word_no_space_11 | ranchbuildbannerwonderwidemansionpairinsanerefusetrapolympic |  
+| bip_39_word_no_space_12 | ranchbuildbannerwonderwidemansionpairinsanerefusetrapolympicamong |  
+| bip_39_word_no_space_2 | ranchbuild |  
+| bip_39_word_no_space_3 | ranchbuildbanner |  
+| bip_39_word_no_space_4 | ranchbuildbannerwonder |  
+| bip_39_word_no_space_5 | ranchbuildbannerwonderwide |  
+| bip_39_word_no_space_6 | ranchbuildbannerwonderwidemansion |  
+| bip_39_word_no_space_7 | ranchbuildbannerwonderwidemansionpair |  
+| bip_39_word_no_space_8 | ranchbuildbannerwonderwidemansionpairinsane |  
+| bip_39_word_no_space_9 | ranchbuildbannerwonderwidemansionpairinsanerefuse |  
 | bip_39_word_space_0 | ['ranch', 'build', 'banner', 'wonder', 'wide', 'mansion', 'pair', 'insane', 'refuse', 'trap', 'olympic', 'among'] |  
 | bip_39_word_space_1 | ranch |  
 | bip_39_word_space_10 | ranch build banner wonder wide mansion pair insane refuse trap |  

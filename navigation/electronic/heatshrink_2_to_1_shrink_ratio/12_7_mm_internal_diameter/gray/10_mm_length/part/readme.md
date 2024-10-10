@@ -122,6 +122,18 @@ token
 brain
 uncle
 sniff |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discovercostfeedbidhoneytokenbrainunclesniffyou |  
+| bip_39_word_no_space_11 | discovercostfeedbidhoneytokenbrainunclesniffyoupredict |  
+| bip_39_word_no_space_12 | discovercostfeedbidhoneytokenbrainunclesniffyoupredictamount |  
+| bip_39_word_no_space_2 | discovercost |  
+| bip_39_word_no_space_3 | discovercostfeed |  
+| bip_39_word_no_space_4 | discovercostfeedbid |  
+| bip_39_word_no_space_5 | discovercostfeedbidhoney |  
+| bip_39_word_no_space_6 | discovercostfeedbidhoneytoken |  
+| bip_39_word_no_space_7 | discovercostfeedbidhoneytokenbrain |  
+| bip_39_word_no_space_8 | discovercostfeedbidhoneytokenbrainuncle |  
+| bip_39_word_no_space_9 | discovercostfeedbidhoneytokenbrainunclesniff |  
 | bip_39_word_space_0 | ['discover', 'cost', 'feed', 'bid', 'honey', 'token', 'brain', 'uncle', 'sniff', 'you', 'predict', 'amount'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover cost feed bid honey token brain uncle sniff you |  

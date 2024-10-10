@@ -122,6 +122,18 @@ raccoon
 river
 load
 grab |  
+| bip_39_word_no_space_1 | cattle |  
+| bip_39_word_no_space_10 | cattlefilmemotionpositionallraccoonriverloadgrabomit |  
+| bip_39_word_no_space_11 | cattlefilmemotionpositionallraccoonriverloadgrabomitadvice |  
+| bip_39_word_no_space_12 | cattlefilmemotionpositionallraccoonriverloadgrabomitadviceamount |  
+| bip_39_word_no_space_2 | cattlefilm |  
+| bip_39_word_no_space_3 | cattlefilmemotion |  
+| bip_39_word_no_space_4 | cattlefilmemotionposition |  
+| bip_39_word_no_space_5 | cattlefilmemotionpositionall |  
+| bip_39_word_no_space_6 | cattlefilmemotionpositionallraccoon |  
+| bip_39_word_no_space_7 | cattlefilmemotionpositionallraccoonriver |  
+| bip_39_word_no_space_8 | cattlefilmemotionpositionallraccoonriverload |  
+| bip_39_word_no_space_9 | cattlefilmemotionpositionallraccoonriverloadgrab |  
 | bip_39_word_space_0 | ['cattle', 'film', 'emotion', 'position', 'all', 'raccoon', 'river', 'load', 'grab', 'omit', 'advice', 'amount'] |  
 | bip_39_word_space_1 | cattle |  
 | bip_39_word_space_10 | cattle film emotion position all raccoon river load grab omit |  

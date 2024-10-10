@@ -122,6 +122,18 @@ jacket
 top
 erupt
 notice |  
+| bip_39_word_no_space_1 | foam |  
+| bip_39_word_no_space_10 | foamtoastlotterywetscriptjackettoperuptnoticeobscure |  
+| bip_39_word_no_space_11 | foamtoastlotterywetscriptjackettoperuptnoticeobscuretopic |  
+| bip_39_word_no_space_12 | foamtoastlotterywetscriptjackettoperuptnoticeobscuretopicabout |  
+| bip_39_word_no_space_2 | foamtoast |  
+| bip_39_word_no_space_3 | foamtoastlottery |  
+| bip_39_word_no_space_4 | foamtoastlotterywet |  
+| bip_39_word_no_space_5 | foamtoastlotterywetscript |  
+| bip_39_word_no_space_6 | foamtoastlotterywetscriptjacket |  
+| bip_39_word_no_space_7 | foamtoastlotterywetscriptjackettop |  
+| bip_39_word_no_space_8 | foamtoastlotterywetscriptjackettoperupt |  
+| bip_39_word_no_space_9 | foamtoastlotterywetscriptjackettoperuptnotice |  
 | bip_39_word_space_0 | ['foam', 'toast', 'lottery', 'wet', 'script', 'jacket', 'top', 'erupt', 'notice', 'obscure', 'topic', 'about'] |  
 | bip_39_word_space_1 | foam |  
 | bip_39_word_space_10 | foam toast lottery wet script jacket top erupt notice obscure |  

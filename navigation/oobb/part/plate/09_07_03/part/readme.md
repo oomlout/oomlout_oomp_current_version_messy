@@ -122,6 +122,18 @@ fury
 tooth
 tragic
 real |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultgentleignorefictiontoefurytoothtragicrealscorpion |  
+| bip_39_word_no_space_11 | resultgentleignorefictiontoefurytoothtragicrealscorpionenhance |  
+| bip_39_word_no_space_12 | resultgentleignorefictiontoefurytoothtragicrealscorpionenhanceabsurd |  
+| bip_39_word_no_space_2 | resultgentle |  
+| bip_39_word_no_space_3 | resultgentleignore |  
+| bip_39_word_no_space_4 | resultgentleignorefiction |  
+| bip_39_word_no_space_5 | resultgentleignorefictiontoe |  
+| bip_39_word_no_space_6 | resultgentleignorefictiontoefury |  
+| bip_39_word_no_space_7 | resultgentleignorefictiontoefurytooth |  
+| bip_39_word_no_space_8 | resultgentleignorefictiontoefurytoothtragic |  
+| bip_39_word_no_space_9 | resultgentleignorefictiontoefurytoothtragicreal |  
 | bip_39_word_space_0 | ['result', 'gentle', 'ignore', 'fiction', 'toe', 'fury', 'tooth', 'tragic', 'real', 'scorpion', 'enhance', 'absurd'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result gentle ignore fiction toe fury tooth tragic real scorpion |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wet
   anchor
 
   rude'
+bip_39_word_no_space_1: wet
+bip_39_word_no_space_10: wetrewardglowmelodyridelyricsopinionanchorrudeactor
+bip_39_word_no_space_11: wetrewardglowmelodyridelyricsopinionanchorrudeactorzoo
+bip_39_word_no_space_12: wetrewardglowmelodyridelyricsopinionanchorrudeactorzooapple
+bip_39_word_no_space_2: wetreward
+bip_39_word_no_space_3: wetrewardglow
+bip_39_word_no_space_4: wetrewardglowmelody
+bip_39_word_no_space_5: wetrewardglowmelodyride
+bip_39_word_no_space_6: wetrewardglowmelodyridelyrics
+bip_39_word_no_space_7: wetrewardglowmelodyridelyricsopinion
+bip_39_word_no_space_8: wetrewardglowmelodyridelyricsopinionanchor
+bip_39_word_no_space_9: wetrewardglowmelodyridelyricsopinionanchorrude
 bip_39_word_space_0:
 - wet
 - reward

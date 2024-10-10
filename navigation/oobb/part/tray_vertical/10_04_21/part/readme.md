@@ -122,6 +122,18 @@ hill
 damage
 pear
 wall |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relyauntpredictattackskatehilldamagepearwallabsent |  
+| bip_39_word_no_space_11 | relyauntpredictattackskatehilldamagepearwallabsentbleak |  
+| bip_39_word_no_space_12 | relyauntpredictattackskatehilldamagepearwallabsentbleakarrow |  
+| bip_39_word_no_space_2 | relyaunt |  
+| bip_39_word_no_space_3 | relyauntpredict |  
+| bip_39_word_no_space_4 | relyauntpredictattack |  
+| bip_39_word_no_space_5 | relyauntpredictattackskate |  
+| bip_39_word_no_space_6 | relyauntpredictattackskatehill |  
+| bip_39_word_no_space_7 | relyauntpredictattackskatehilldamage |  
+| bip_39_word_no_space_8 | relyauntpredictattackskatehilldamagepear |  
+| bip_39_word_no_space_9 | relyauntpredictattackskatehilldamagepearwall |  
 | bip_39_word_space_0 | ['rely', 'aunt', 'predict', 'attack', 'skate', 'hill', 'damage', 'pear', 'wall', 'absent', 'bleak', 'arrow'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely aunt predict attack skate hill damage pear wall absent |  

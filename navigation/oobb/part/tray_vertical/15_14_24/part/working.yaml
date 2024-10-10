@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'oyster
   joke
 
   manual'
+bip_39_word_no_space_1: oyster
+bip_39_word_no_space_10: oystertownpotteryvacantboxawarerosejokemanualfrog
+bip_39_word_no_space_11: oystertownpotteryvacantboxawarerosejokemanualfrogdoor
+bip_39_word_no_space_12: oystertownpotteryvacantboxawarerosejokemanualfrogdoorangry
+bip_39_word_no_space_2: oystertown
+bip_39_word_no_space_3: oystertownpottery
+bip_39_word_no_space_4: oystertownpotteryvacant
+bip_39_word_no_space_5: oystertownpotteryvacantbox
+bip_39_word_no_space_6: oystertownpotteryvacantboxaware
+bip_39_word_no_space_7: oystertownpotteryvacantboxawarerose
+bip_39_word_no_space_8: oystertownpotteryvacantboxawarerosejoke
+bip_39_word_no_space_9: oystertownpotteryvacantboxawarerosejokemanual
 bip_39_word_space_0:
 - oyster
 - town

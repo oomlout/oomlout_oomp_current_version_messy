@@ -122,6 +122,18 @@ similar
 frog
 since
 marble |  
+| bip_39_word_no_space_1 | achieve |  
+| bip_39_word_no_space_10 | achievenobleimprovepinkpracticesimilarfrogsincemarbleunit |  
+| bip_39_word_no_space_11 | achievenobleimprovepinkpracticesimilarfrogsincemarbleunitforest |  
+| bip_39_word_no_space_12 | achievenobleimprovepinkpracticesimilarfrogsincemarbleunitforestattitude |  
+| bip_39_word_no_space_2 | achievenoble |  
+| bip_39_word_no_space_3 | achievenobleimprove |  
+| bip_39_word_no_space_4 | achievenobleimprovepink |  
+| bip_39_word_no_space_5 | achievenobleimprovepinkpractice |  
+| bip_39_word_no_space_6 | achievenobleimprovepinkpracticesimilar |  
+| bip_39_word_no_space_7 | achievenobleimprovepinkpracticesimilarfrog |  
+| bip_39_word_no_space_8 | achievenobleimprovepinkpracticesimilarfrogsince |  
+| bip_39_word_no_space_9 | achievenobleimprovepinkpracticesimilarfrogsincemarble |  
 | bip_39_word_space_0 | ['achieve', 'noble', 'improve', 'pink', 'practice', 'similar', 'frog', 'since', 'marble', 'unit', 'forest', 'attitude'] |  
 | bip_39_word_space_1 | achieve |  
 | bip_39_word_space_10 | achieve noble improve pink practice similar frog since marble unit |  

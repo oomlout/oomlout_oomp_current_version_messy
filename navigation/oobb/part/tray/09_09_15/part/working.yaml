@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'menu
   purity
 
   source'
+bip_39_word_no_space_1: menu
+bip_39_word_no_space_10: menunarrowmotorroseozonelaundrybeanpuritysourcebase
+bip_39_word_no_space_11: menunarrowmotorroseozonelaundrybeanpuritysourcebaseperson
+bip_39_word_no_space_12: menunarrowmotorroseozonelaundrybeanpuritysourcebasepersonaugust
+bip_39_word_no_space_2: menunarrow
+bip_39_word_no_space_3: menunarrowmotor
+bip_39_word_no_space_4: menunarrowmotorrose
+bip_39_word_no_space_5: menunarrowmotorroseozone
+bip_39_word_no_space_6: menunarrowmotorroseozonelaundry
+bip_39_word_no_space_7: menunarrowmotorroseozonelaundrybean
+bip_39_word_no_space_8: menunarrowmotorroseozonelaundrybeanpurity
+bip_39_word_no_space_9: menunarrowmotorroseozonelaundrybeanpuritysource
 bip_39_word_space_0:
 - menu
 - narrow

@@ -122,6 +122,18 @@ guide
 make
 fix
 absorb |  
+| bip_39_word_no_space_1 | pipe |  
+| bip_39_word_no_space_10 | pipesausagequitbadgecupguidemakefixabsorbcombine |  
+| bip_39_word_no_space_11 | pipesausagequitbadgecupguidemakefixabsorbcombinesurge |  
+| bip_39_word_no_space_12 | pipesausagequitbadgecupguidemakefixabsorbcombinesurgeanimal |  
+| bip_39_word_no_space_2 | pipesausage |  
+| bip_39_word_no_space_3 | pipesausagequit |  
+| bip_39_word_no_space_4 | pipesausagequitbadge |  
+| bip_39_word_no_space_5 | pipesausagequitbadgecup |  
+| bip_39_word_no_space_6 | pipesausagequitbadgecupguide |  
+| bip_39_word_no_space_7 | pipesausagequitbadgecupguidemake |  
+| bip_39_word_no_space_8 | pipesausagequitbadgecupguidemakefix |  
+| bip_39_word_no_space_9 | pipesausagequitbadgecupguidemakefixabsorb |  
 | bip_39_word_space_0 | ['pipe', 'sausage', 'quit', 'badge', 'cup', 'guide', 'make', 'fix', 'absorb', 'combine', 'surge', 'animal'] |  
 | bip_39_word_space_1 | pipe |  
 | bip_39_word_space_10 | pipe sausage quit badge cup guide make fix absorb combine |  

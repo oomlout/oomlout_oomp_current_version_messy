@@ -122,6 +122,18 @@ acoustic
 melody
 rule
 unlock |  
+| bip_39_word_no_space_1 | globe |  
+| bip_39_word_no_space_10 | globepuppygritnetworkhobbyacousticmelodyruleunlockeyebrow |  
+| bip_39_word_no_space_11 | globepuppygritnetworkhobbyacousticmelodyruleunlockeyebrowrely |  
+| bip_39_word_no_space_12 | globepuppygritnetworkhobbyacousticmelodyruleunlockeyebrowrelyactual |  
+| bip_39_word_no_space_2 | globepuppy |  
+| bip_39_word_no_space_3 | globepuppygrit |  
+| bip_39_word_no_space_4 | globepuppygritnetwork |  
+| bip_39_word_no_space_5 | globepuppygritnetworkhobby |  
+| bip_39_word_no_space_6 | globepuppygritnetworkhobbyacoustic |  
+| bip_39_word_no_space_7 | globepuppygritnetworkhobbyacousticmelody |  
+| bip_39_word_no_space_8 | globepuppygritnetworkhobbyacousticmelodyrule |  
+| bip_39_word_no_space_9 | globepuppygritnetworkhobbyacousticmelodyruleunlock |  
 | bip_39_word_space_0 | ['globe', 'puppy', 'grit', 'network', 'hobby', 'acoustic', 'melody', 'rule', 'unlock', 'eyebrow', 'rely', 'actual'] |  
 | bip_39_word_space_1 | globe |  
 | bip_39_word_space_10 | globe puppy grit network hobby acoustic melody rule unlock eyebrow |  

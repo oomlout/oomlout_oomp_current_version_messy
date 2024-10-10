@@ -122,6 +122,18 @@ wealth
 margin
 quiz
 basic |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetimmunealertkangarooexilewealthmarginquizbasicthey |  
+| bip_39_word_no_space_11 | wetimmunealertkangarooexilewealthmarginquizbasictheyreceive |  
+| bip_39_word_no_space_12 | wetimmunealertkangarooexilewealthmarginquizbasictheyreceiveabout |  
+| bip_39_word_no_space_2 | wetimmune |  
+| bip_39_word_no_space_3 | wetimmunealert |  
+| bip_39_word_no_space_4 | wetimmunealertkangaroo |  
+| bip_39_word_no_space_5 | wetimmunealertkangarooexile |  
+| bip_39_word_no_space_6 | wetimmunealertkangarooexilewealth |  
+| bip_39_word_no_space_7 | wetimmunealertkangarooexilewealthmargin |  
+| bip_39_word_no_space_8 | wetimmunealertkangarooexilewealthmarginquiz |  
+| bip_39_word_no_space_9 | wetimmunealertkangarooexilewealthmarginquizbasic |  
 | bip_39_word_space_0 | ['wet', 'immune', 'alert', 'kangaroo', 'exile', 'wealth', 'margin', 'quiz', 'basic', 'they', 'receive', 'about'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet immune alert kangaroo exile wealth margin quiz basic they |  

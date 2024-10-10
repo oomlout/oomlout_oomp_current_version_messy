@@ -122,6 +122,18 @@ great
 include
 pig
 garage |  
+| bip_39_word_no_space_1 | grant |  
+| bip_39_word_no_space_10 | grantsubmitvacantbagcrackgreatincludepiggarageleader |  
+| bip_39_word_no_space_11 | grantsubmitvacantbagcrackgreatincludepiggarageleaderinvest |  
+| bip_39_word_no_space_12 | grantsubmitvacantbagcrackgreatincludepiggarageleaderinvestacquire |  
+| bip_39_word_no_space_2 | grantsubmit |  
+| bip_39_word_no_space_3 | grantsubmitvacant |  
+| bip_39_word_no_space_4 | grantsubmitvacantbag |  
+| bip_39_word_no_space_5 | grantsubmitvacantbagcrack |  
+| bip_39_word_no_space_6 | grantsubmitvacantbagcrackgreat |  
+| bip_39_word_no_space_7 | grantsubmitvacantbagcrackgreatinclude |  
+| bip_39_word_no_space_8 | grantsubmitvacantbagcrackgreatincludepig |  
+| bip_39_word_no_space_9 | grantsubmitvacantbagcrackgreatincludepiggarage |  
 | bip_39_word_space_0 | ['grant', 'submit', 'vacant', 'bag', 'crack', 'great', 'include', 'pig', 'garage', 'leader', 'invest', 'acquire'] |  
 | bip_39_word_space_1 | grant |  
 | bip_39_word_space_10 | grant submit vacant bag crack great include pig garage leader |  

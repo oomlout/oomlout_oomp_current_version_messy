@@ -122,6 +122,18 @@ traffic
 typical
 rabbit
 remove |  
+| bip_39_word_no_space_1 | throw |  
+| bip_39_word_no_space_10 | throwtokenunfoldaccuserooftraffictypicalrabbitremovepiece |  
+| bip_39_word_no_space_11 | throwtokenunfoldaccuserooftraffictypicalrabbitremovepieceleaf |  
+| bip_39_word_no_space_12 | throwtokenunfoldaccuserooftraffictypicalrabbitremovepieceleafantique |  
+| bip_39_word_no_space_2 | throwtoken |  
+| bip_39_word_no_space_3 | throwtokenunfold |  
+| bip_39_word_no_space_4 | throwtokenunfoldaccuse |  
+| bip_39_word_no_space_5 | throwtokenunfoldaccuseroof |  
+| bip_39_word_no_space_6 | throwtokenunfoldaccuserooftraffic |  
+| bip_39_word_no_space_7 | throwtokenunfoldaccuserooftraffictypical |  
+| bip_39_word_no_space_8 | throwtokenunfoldaccuserooftraffictypicalrabbit |  
+| bip_39_word_no_space_9 | throwtokenunfoldaccuserooftraffictypicalrabbitremove |  
 | bip_39_word_space_0 | ['throw', 'token', 'unfold', 'accuse', 'roof', 'traffic', 'typical', 'rabbit', 'remove', 'piece', 'leaf', 'antique'] |  
 | bip_39_word_space_1 | throw |  
 | bip_39_word_space_10 | throw token unfold accuse roof traffic typical rabbit remove piece |  

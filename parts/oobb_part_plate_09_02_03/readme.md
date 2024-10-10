@@ -122,6 +122,18 @@ book
 pear
 wild
 put |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actionpatchseniorromancechiefbookpearwildputprize |  
+| bip_39_word_no_space_11 | actionpatchseniorromancechiefbookpearwildputprizefoil |  
+| bip_39_word_no_space_12 | actionpatchseniorromancechiefbookpearwildputprizefoilalmost |  
+| bip_39_word_no_space_2 | actionpatch |  
+| bip_39_word_no_space_3 | actionpatchsenior |  
+| bip_39_word_no_space_4 | actionpatchseniorromance |  
+| bip_39_word_no_space_5 | actionpatchseniorromancechief |  
+| bip_39_word_no_space_6 | actionpatchseniorromancechiefbook |  
+| bip_39_word_no_space_7 | actionpatchseniorromancechiefbookpear |  
+| bip_39_word_no_space_8 | actionpatchseniorromancechiefbookpearwild |  
+| bip_39_word_no_space_9 | actionpatchseniorromancechiefbookpearwildput |  
 | bip_39_word_space_0 | ['action', 'patch', 'senior', 'romance', 'chief', 'book', 'pear', 'wild', 'put', 'prize', 'foil', 'almost'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action patch senior romance chief book pear wild put prize |  

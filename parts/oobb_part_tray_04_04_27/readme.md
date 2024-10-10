@@ -122,6 +122,18 @@ diet
 that
 wish
 long |  
+| bip_39_word_no_space_1 | awesome |  
+| bip_39_word_no_space_10 | awesomeclusterfronterosionruledietthatwishlongcube |  
+| bip_39_word_no_space_11 | awesomeclusterfronterosionruledietthatwishlongcubefantasy |  
+| bip_39_word_no_space_12 | awesomeclusterfronterosionruledietthatwishlongcubefantasyanalyst |  
+| bip_39_word_no_space_2 | awesomecluster |  
+| bip_39_word_no_space_3 | awesomeclusterfront |  
+| bip_39_word_no_space_4 | awesomeclusterfronterosion |  
+| bip_39_word_no_space_5 | awesomeclusterfronterosionrule |  
+| bip_39_word_no_space_6 | awesomeclusterfronterosionrulediet |  
+| bip_39_word_no_space_7 | awesomeclusterfronterosionruledietthat |  
+| bip_39_word_no_space_8 | awesomeclusterfronterosionruledietthatwish |  
+| bip_39_word_no_space_9 | awesomeclusterfronterosionruledietthatwishlong |  
 | bip_39_word_space_0 | ['awesome', 'cluster', 'front', 'erosion', 'rule', 'diet', 'that', 'wish', 'long', 'cube', 'fantasy', 'analyst'] |  
 | bip_39_word_space_1 | awesome |  
 | bip_39_word_space_10 | awesome cluster front erosion rule diet that wish long cube |  

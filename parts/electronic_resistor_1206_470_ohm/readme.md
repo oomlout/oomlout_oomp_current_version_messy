@@ -122,6 +122,18 @@ wedding
 basic
 grocery
 sick |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brassreliefcannonfarmgatherweddingbasicgrocerysickenergy |  
+| bip_39_word_no_space_11 | brassreliefcannonfarmgatherweddingbasicgrocerysickenergytumble |  
+| bip_39_word_no_space_12 | brassreliefcannonfarmgatherweddingbasicgrocerysickenergytumbleartefact |  
+| bip_39_word_no_space_2 | brassrelief |  
+| bip_39_word_no_space_3 | brassreliefcannon |  
+| bip_39_word_no_space_4 | brassreliefcannonfarm |  
+| bip_39_word_no_space_5 | brassreliefcannonfarmgather |  
+| bip_39_word_no_space_6 | brassreliefcannonfarmgatherwedding |  
+| bip_39_word_no_space_7 | brassreliefcannonfarmgatherweddingbasic |  
+| bip_39_word_no_space_8 | brassreliefcannonfarmgatherweddingbasicgrocery |  
+| bip_39_word_no_space_9 | brassreliefcannonfarmgatherweddingbasicgrocerysick |  
 | bip_39_word_space_0 | ['brass', 'relief', 'cannon', 'farm', 'gather', 'wedding', 'basic', 'grocery', 'sick', 'energy', 'tumble', 'artefact'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass relief cannon farm gather wedding basic grocery sick energy |  

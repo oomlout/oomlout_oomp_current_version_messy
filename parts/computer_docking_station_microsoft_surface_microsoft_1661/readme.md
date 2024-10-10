@@ -122,6 +122,18 @@ own
 army
 dial
 penalty |  
+| bip_39_word_no_space_1 | process |  
+| bip_39_word_no_space_10 | processentryextendhedgehogsimilarownarmydialpenaltycactus |  
+| bip_39_word_no_space_11 | processentryextendhedgehogsimilarownarmydialpenaltycactushello |  
+| bip_39_word_no_space_12 | processentryextendhedgehogsimilarownarmydialpenaltycactushelloact |  
+| bip_39_word_no_space_2 | processentry |  
+| bip_39_word_no_space_3 | processentryextend |  
+| bip_39_word_no_space_4 | processentryextendhedgehog |  
+| bip_39_word_no_space_5 | processentryextendhedgehogsimilar |  
+| bip_39_word_no_space_6 | processentryextendhedgehogsimilarown |  
+| bip_39_word_no_space_7 | processentryextendhedgehogsimilarownarmy |  
+| bip_39_word_no_space_8 | processentryextendhedgehogsimilarownarmydial |  
+| bip_39_word_no_space_9 | processentryextendhedgehogsimilarownarmydialpenalty |  
 | bip_39_word_space_0 | ['process', 'entry', 'extend', 'hedgehog', 'similar', 'own', 'army', 'dial', 'penalty', 'cactus', 'hello', 'act'] |  
 | bip_39_word_space_1 | process |  
 | bip_39_word_space_10 | process entry extend hedgehog similar own army dial penalty cactus |  

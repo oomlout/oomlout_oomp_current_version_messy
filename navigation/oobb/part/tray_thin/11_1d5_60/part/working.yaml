@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'car
   fault
 
   tribe'
+bip_39_word_no_space_1: car
+bip_39_word_no_space_10: carcomicforcejuniorgalaxyflatalertfaulttribearea
+bip_39_word_no_space_11: carcomicforcejuniorgalaxyflatalertfaulttribeareause
+bip_39_word_no_space_12: carcomicforcejuniorgalaxyflatalertfaulttribeareauseanxiety
+bip_39_word_no_space_2: carcomic
+bip_39_word_no_space_3: carcomicforce
+bip_39_word_no_space_4: carcomicforcejunior
+bip_39_word_no_space_5: carcomicforcejuniorgalaxy
+bip_39_word_no_space_6: carcomicforcejuniorgalaxyflat
+bip_39_word_no_space_7: carcomicforcejuniorgalaxyflatalert
+bip_39_word_no_space_8: carcomicforcejuniorgalaxyflatalertfault
+bip_39_word_no_space_9: carcomicforcejuniorgalaxyflatalertfaulttribe
 bip_39_word_space_0:
 - car
 - comic

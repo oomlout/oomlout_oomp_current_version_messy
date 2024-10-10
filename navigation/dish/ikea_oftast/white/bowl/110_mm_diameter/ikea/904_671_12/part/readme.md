@@ -122,6 +122,18 @@ zebra
 because
 truth
 movie |  
+| bip_39_word_no_space_1 | sphere |  
+| bip_39_word_no_space_10 | sphereoriginalcheapindustryfilterzebrabecausetruthmoviecandy |  
+| bip_39_word_no_space_11 | sphereoriginalcheapindustryfilterzebrabecausetruthmoviecandyrisk |  
+| bip_39_word_no_space_12 | sphereoriginalcheapindustryfilterzebrabecausetruthmoviecandyriskautumn |  
+| bip_39_word_no_space_2 | sphereoriginal |  
+| bip_39_word_no_space_3 | sphereoriginalcheap |  
+| bip_39_word_no_space_4 | sphereoriginalcheapindustry |  
+| bip_39_word_no_space_5 | sphereoriginalcheapindustryfilter |  
+| bip_39_word_no_space_6 | sphereoriginalcheapindustryfilterzebra |  
+| bip_39_word_no_space_7 | sphereoriginalcheapindustryfilterzebrabecause |  
+| bip_39_word_no_space_8 | sphereoriginalcheapindustryfilterzebrabecausetruth |  
+| bip_39_word_no_space_9 | sphereoriginalcheapindustryfilterzebrabecausetruthmovie |  
 | bip_39_word_space_0 | ['sphere', 'original', 'cheap', 'industry', 'filter', 'zebra', 'because', 'truth', 'movie', 'candy', 'risk', 'autumn'] |  
 | bip_39_word_space_1 | sphere |  
 | bip_39_word_space_10 | sphere original cheap industry filter zebra because truth movie candy |  

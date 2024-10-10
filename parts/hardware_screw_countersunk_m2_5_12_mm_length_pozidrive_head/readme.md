@@ -122,6 +122,18 @@ depart
 endorse
 idea
 all |  
+| bip_39_word_no_space_1 | gravity |  
+| bip_39_word_no_space_10 | gravityusagetestcreeksigndepartendorseideaallalley |  
+| bip_39_word_no_space_11 | gravityusagetestcreeksigndepartendorseideaallalleyflock |  
+| bip_39_word_no_space_12 | gravityusagetestcreeksigndepartendorseideaallalleyflockangry |  
+| bip_39_word_no_space_2 | gravityusage |  
+| bip_39_word_no_space_3 | gravityusagetest |  
+| bip_39_word_no_space_4 | gravityusagetestcreek |  
+| bip_39_word_no_space_5 | gravityusagetestcreeksign |  
+| bip_39_word_no_space_6 | gravityusagetestcreeksigndepart |  
+| bip_39_word_no_space_7 | gravityusagetestcreeksigndepartendorse |  
+| bip_39_word_no_space_8 | gravityusagetestcreeksigndepartendorseidea |  
+| bip_39_word_no_space_9 | gravityusagetestcreeksigndepartendorseideaall |  
 | bip_39_word_space_0 | ['gravity', 'usage', 'test', 'creek', 'sign', 'depart', 'endorse', 'idea', 'all', 'alley', 'flock', 'angry'] |  
 | bip_39_word_space_1 | gravity |  
 | bip_39_word_space_10 | gravity usage test creek sign depart endorse idea all alley |  

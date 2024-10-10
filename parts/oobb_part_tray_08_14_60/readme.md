@@ -122,6 +122,18 @@ pet
 minimum
 almost
 divorce |  
+| bip_39_word_no_space_1 | link |  
+| bip_39_word_no_space_10 | linkvirusshedwinridgepetminimumalmostdivorcecan |  
+| bip_39_word_no_space_11 | linkvirusshedwinridgepetminimumalmostdivorcecanfield |  
+| bip_39_word_no_space_12 | linkvirusshedwinridgepetminimumalmostdivorcecanfieldanalyst |  
+| bip_39_word_no_space_2 | linkvirus |  
+| bip_39_word_no_space_3 | linkvirusshed |  
+| bip_39_word_no_space_4 | linkvirusshedwin |  
+| bip_39_word_no_space_5 | linkvirusshedwinridge |  
+| bip_39_word_no_space_6 | linkvirusshedwinridgepet |  
+| bip_39_word_no_space_7 | linkvirusshedwinridgepetminimum |  
+| bip_39_word_no_space_8 | linkvirusshedwinridgepetminimumalmost |  
+| bip_39_word_no_space_9 | linkvirusshedwinridgepetminimumalmostdivorce |  
 | bip_39_word_space_0 | ['link', 'virus', 'shed', 'win', 'ridge', 'pet', 'minimum', 'almost', 'divorce', 'can', 'field', 'analyst'] |  
 | bip_39_word_space_1 | link |  
 | bip_39_word_space_10 | link virus shed win ridge pet minimum almost divorce can |  

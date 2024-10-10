@@ -122,6 +122,18 @@ identify
 tooth
 magnet
 subject |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blouserepairspecialiconclaimidentifytoothmagnetsubjectsqueeze |  
+| bip_39_word_no_space_11 | blouserepairspecialiconclaimidentifytoothmagnetsubjectsqueezeinterest |  
+| bip_39_word_no_space_12 | blouserepairspecialiconclaimidentifytoothmagnetsubjectsqueezeinterestalso |  
+| bip_39_word_no_space_2 | blouserepair |  
+| bip_39_word_no_space_3 | blouserepairspecial |  
+| bip_39_word_no_space_4 | blouserepairspecialicon |  
+| bip_39_word_no_space_5 | blouserepairspecialiconclaim |  
+| bip_39_word_no_space_6 | blouserepairspecialiconclaimidentify |  
+| bip_39_word_no_space_7 | blouserepairspecialiconclaimidentifytooth |  
+| bip_39_word_no_space_8 | blouserepairspecialiconclaimidentifytoothmagnet |  
+| bip_39_word_no_space_9 | blouserepairspecialiconclaimidentifytoothmagnetsubject |  
 | bip_39_word_space_0 | ['blouse', 'repair', 'special', 'icon', 'claim', 'identify', 'tooth', 'magnet', 'subject', 'squeeze', 'interest', 'also'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse repair special icon claim identify tooth magnet subject squeeze |  

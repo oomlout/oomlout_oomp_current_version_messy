@@ -122,6 +122,18 @@ foam
 blind
 search
 rule |  
+| bip_39_word_no_space_1 | tell |  
+| bip_39_word_no_space_10 | tellkeencleanliarsportfoamblindsearchrulenation |  
+| bip_39_word_no_space_11 | tellkeencleanliarsportfoamblindsearchrulenationfix |  
+| bip_39_word_no_space_12 | tellkeencleanliarsportfoamblindsearchrulenationfixaffair |  
+| bip_39_word_no_space_2 | tellkeen |  
+| bip_39_word_no_space_3 | tellkeenclean |  
+| bip_39_word_no_space_4 | tellkeencleanliar |  
+| bip_39_word_no_space_5 | tellkeencleanliarsport |  
+| bip_39_word_no_space_6 | tellkeencleanliarsportfoam |  
+| bip_39_word_no_space_7 | tellkeencleanliarsportfoamblind |  
+| bip_39_word_no_space_8 | tellkeencleanliarsportfoamblindsearch |  
+| bip_39_word_no_space_9 | tellkeencleanliarsportfoamblindsearchrule |  
 | bip_39_word_space_0 | ['tell', 'keen', 'clean', 'liar', 'sport', 'foam', 'blind', 'search', 'rule', 'nation', 'fix', 'affair'] |  
 | bip_39_word_space_1 | tell |  
 | bip_39_word_space_10 | tell keen clean liar sport foam blind search rule nation |  

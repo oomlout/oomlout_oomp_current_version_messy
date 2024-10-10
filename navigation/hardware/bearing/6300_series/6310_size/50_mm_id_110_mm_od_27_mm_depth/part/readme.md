@@ -122,6 +122,18 @@ laugh
 shove
 domain
 gain |  
+| bip_39_word_no_space_1 | hungry |  
+| bip_39_word_no_space_10 | hungrysmokewhereculturefilmlaughshovedomaingaincaptain |  
+| bip_39_word_no_space_11 | hungrysmokewhereculturefilmlaughshovedomaingaincaptainevil |  
+| bip_39_word_no_space_12 | hungrysmokewhereculturefilmlaughshovedomaingaincaptainevilancient |  
+| bip_39_word_no_space_2 | hungrysmoke |  
+| bip_39_word_no_space_3 | hungrysmokewhere |  
+| bip_39_word_no_space_4 | hungrysmokewhereculture |  
+| bip_39_word_no_space_5 | hungrysmokewhereculturefilm |  
+| bip_39_word_no_space_6 | hungrysmokewhereculturefilmlaugh |  
+| bip_39_word_no_space_7 | hungrysmokewhereculturefilmlaughshove |  
+| bip_39_word_no_space_8 | hungrysmokewhereculturefilmlaughshovedomain |  
+| bip_39_word_no_space_9 | hungrysmokewhereculturefilmlaughshovedomaingain |  
 | bip_39_word_space_0 | ['hungry', 'smoke', 'where', 'culture', 'film', 'laugh', 'shove', 'domain', 'gain', 'captain', 'evil', 'ancient'] |  
 | bip_39_word_space_1 | hungry |  
 | bip_39_word_space_10 | hungry smoke where culture film laugh shove domain gain captain |  

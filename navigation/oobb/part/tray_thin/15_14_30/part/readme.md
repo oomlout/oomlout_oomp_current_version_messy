@@ -122,6 +122,18 @@ amused
 face
 life
 economy |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisureangerobligejunglepelicanamusedfacelifeeconomyenrich |  
+| bip_39_word_no_space_11 | leisureangerobligejunglepelicanamusedfacelifeeconomyenrichbelieve |  
+| bip_39_word_no_space_12 | leisureangerobligejunglepelicanamusedfacelifeeconomyenrichbelieveaffair |  
+| bip_39_word_no_space_2 | leisureanger |  
+| bip_39_word_no_space_3 | leisureangeroblige |  
+| bip_39_word_no_space_4 | leisureangerobligejungle |  
+| bip_39_word_no_space_5 | leisureangerobligejunglepelican |  
+| bip_39_word_no_space_6 | leisureangerobligejunglepelicanamused |  
+| bip_39_word_no_space_7 | leisureangerobligejunglepelicanamusedface |  
+| bip_39_word_no_space_8 | leisureangerobligejunglepelicanamusedfacelife |  
+| bip_39_word_no_space_9 | leisureangerobligejunglepelicanamusedfacelifeeconomy |  
 | bip_39_word_space_0 | ['leisure', 'anger', 'oblige', 'jungle', 'pelican', 'amused', 'face', 'life', 'economy', 'enrich', 'believe', 'affair'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure anger oblige jungle pelican amused face life economy enrich |  

@@ -122,6 +122,18 @@ toward
 display
 slab
 decide |  
+| bip_39_word_no_space_1 | trumpet |  
+| bip_39_word_no_space_10 | trumpettribesiblingletterwiretowarddisplayslabdecidefix |  
+| bip_39_word_no_space_11 | trumpettribesiblingletterwiretowarddisplayslabdecidefixsession |  
+| bip_39_word_no_space_12 | trumpettribesiblingletterwiretowarddisplayslabdecidefixsessionadvance |  
+| bip_39_word_no_space_2 | trumpettribe |  
+| bip_39_word_no_space_3 | trumpettribesibling |  
+| bip_39_word_no_space_4 | trumpettribesiblingletter |  
+| bip_39_word_no_space_5 | trumpettribesiblingletterwire |  
+| bip_39_word_no_space_6 | trumpettribesiblingletterwiretoward |  
+| bip_39_word_no_space_7 | trumpettribesiblingletterwiretowarddisplay |  
+| bip_39_word_no_space_8 | trumpettribesiblingletterwiretowarddisplayslab |  
+| bip_39_word_no_space_9 | trumpettribesiblingletterwiretowarddisplayslabdecide |  
 | bip_39_word_space_0 | ['trumpet', 'tribe', 'sibling', 'letter', 'wire', 'toward', 'display', 'slab', 'decide', 'fix', 'session', 'advance'] |  
 | bip_39_word_space_1 | trumpet |  
 | bip_39_word_space_10 | trumpet tribe sibling letter wire toward display slab decide fix |  

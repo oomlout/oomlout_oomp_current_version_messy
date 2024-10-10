@@ -122,6 +122,18 @@ elbow
 pact
 dress
 trade |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturecuriouscyclekitchenfosterelbowpactdresstradesustain |  
+| bip_39_word_no_space_11 | naturecuriouscyclekitchenfosterelbowpactdresstradesustainweekend |  
+| bip_39_word_no_space_12 | naturecuriouscyclekitchenfosterelbowpactdresstradesustainweekendancient |  
+| bip_39_word_no_space_2 | naturecurious |  
+| bip_39_word_no_space_3 | naturecuriouscycle |  
+| bip_39_word_no_space_4 | naturecuriouscyclekitchen |  
+| bip_39_word_no_space_5 | naturecuriouscyclekitchenfoster |  
+| bip_39_word_no_space_6 | naturecuriouscyclekitchenfosterelbow |  
+| bip_39_word_no_space_7 | naturecuriouscyclekitchenfosterelbowpact |  
+| bip_39_word_no_space_8 | naturecuriouscyclekitchenfosterelbowpactdress |  
+| bip_39_word_no_space_9 | naturecuriouscyclekitchenfosterelbowpactdresstrade |  
 | bip_39_word_space_0 | ['nature', 'curious', 'cycle', 'kitchen', 'foster', 'elbow', 'pact', 'dress', 'trade', 'sustain', 'weekend', 'ancient'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature curious cycle kitchen foster elbow pact dress trade sustain |  

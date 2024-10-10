@@ -122,6 +122,18 @@ foster
 exhaust
 rival
 stamp |  
+| bip_39_word_no_space_1 | post |  
+| bip_39_word_no_space_10 | postdutyawesomecinnamongentlefosterexhaustrivalstampthat |  
+| bip_39_word_no_space_11 | postdutyawesomecinnamongentlefosterexhaustrivalstampthatgravity |  
+| bip_39_word_no_space_12 | postdutyawesomecinnamongentlefosterexhaustrivalstampthatgravityapart |  
+| bip_39_word_no_space_2 | postduty |  
+| bip_39_word_no_space_3 | postdutyawesome |  
+| bip_39_word_no_space_4 | postdutyawesomecinnamon |  
+| bip_39_word_no_space_5 | postdutyawesomecinnamongentle |  
+| bip_39_word_no_space_6 | postdutyawesomecinnamongentlefoster |  
+| bip_39_word_no_space_7 | postdutyawesomecinnamongentlefosterexhaust |  
+| bip_39_word_no_space_8 | postdutyawesomecinnamongentlefosterexhaustrival |  
+| bip_39_word_no_space_9 | postdutyawesomecinnamongentlefosterexhaustrivalstamp |  
 | bip_39_word_space_0 | ['post', 'duty', 'awesome', 'cinnamon', 'gentle', 'foster', 'exhaust', 'rival', 'stamp', 'that', 'gravity', 'apart'] |  
 | bip_39_word_space_1 | post |  
 | bip_39_word_space_10 | post duty awesome cinnamon gentle foster exhaust rival stamp that |  

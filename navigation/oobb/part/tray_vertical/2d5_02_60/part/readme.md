@@ -122,6 +122,18 @@ force
 circle
 gun
 orphan |  
+| bip_39_word_no_space_1 | casino |  
+| bip_39_word_no_space_10 | casinovictorybeanhurdlecanoeforcecirclegunorphanopen |  
+| bip_39_word_no_space_11 | casinovictorybeanhurdlecanoeforcecirclegunorphanopenduty |  
+| bip_39_word_no_space_12 | casinovictorybeanhurdlecanoeforcecirclegunorphanopendutyamazing |  
+| bip_39_word_no_space_2 | casinovictory |  
+| bip_39_word_no_space_3 | casinovictorybean |  
+| bip_39_word_no_space_4 | casinovictorybeanhurdle |  
+| bip_39_word_no_space_5 | casinovictorybeanhurdlecanoe |  
+| bip_39_word_no_space_6 | casinovictorybeanhurdlecanoeforce |  
+| bip_39_word_no_space_7 | casinovictorybeanhurdlecanoeforcecircle |  
+| bip_39_word_no_space_8 | casinovictorybeanhurdlecanoeforcecirclegun |  
+| bip_39_word_no_space_9 | casinovictorybeanhurdlecanoeforcecirclegunorphan |  
 | bip_39_word_space_0 | ['casino', 'victory', 'bean', 'hurdle', 'canoe', 'force', 'circle', 'gun', 'orphan', 'open', 'duty', 'amazing'] |  
 | bip_39_word_space_1 | casino |  
 | bip_39_word_space_10 | casino victory bean hurdle canoe force circle gun orphan open |  

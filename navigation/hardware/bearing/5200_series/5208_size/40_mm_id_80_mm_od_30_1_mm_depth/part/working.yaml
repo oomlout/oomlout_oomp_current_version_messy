@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'note
   limb
 
   crowd'
+bip_39_word_no_space_1: note
+bip_39_word_no_space_10: notegenretokencartwishmutualtonelimbcrowdroyal
+bip_39_word_no_space_11: notegenretokencartwishmutualtonelimbcrowdroyalwish
+bip_39_word_no_space_12: notegenretokencartwishmutualtonelimbcrowdroyalwishalcohol
+bip_39_word_no_space_2: notegenre
+bip_39_word_no_space_3: notegenretoken
+bip_39_word_no_space_4: notegenretokencart
+bip_39_word_no_space_5: notegenretokencartwish
+bip_39_word_no_space_6: notegenretokencartwishmutual
+bip_39_word_no_space_7: notegenretokencartwishmutualtone
+bip_39_word_no_space_8: notegenretokencartwishmutualtonelimb
+bip_39_word_no_space_9: notegenretokencartwishmutualtonelimbcrowd
 bip_39_word_space_0:
 - note
 - genre

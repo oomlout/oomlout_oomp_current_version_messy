@@ -122,6 +122,18 @@ indicate
 near
 loyal
 galaxy |  
+| bip_39_word_no_space_1 | seed |  
+| bip_39_word_no_space_10 | seedoceanartistassistbikeindicatenearloyalgalaxychimney |  
+| bip_39_word_no_space_11 | seedoceanartistassistbikeindicatenearloyalgalaxychimneyenforce |  
+| bip_39_word_no_space_12 | seedoceanartistassistbikeindicatenearloyalgalaxychimneyenforcealone |  
+| bip_39_word_no_space_2 | seedocean |  
+| bip_39_word_no_space_3 | seedoceanartist |  
+| bip_39_word_no_space_4 | seedoceanartistassist |  
+| bip_39_word_no_space_5 | seedoceanartistassistbike |  
+| bip_39_word_no_space_6 | seedoceanartistassistbikeindicate |  
+| bip_39_word_no_space_7 | seedoceanartistassistbikeindicatenear |  
+| bip_39_word_no_space_8 | seedoceanartistassistbikeindicatenearloyal |  
+| bip_39_word_no_space_9 | seedoceanartistassistbikeindicatenearloyalgalaxy |  
 | bip_39_word_space_0 | ['seed', 'ocean', 'artist', 'assist', 'bike', 'indicate', 'near', 'loyal', 'galaxy', 'chimney', 'enforce', 'alone'] |  
 | bip_39_word_space_1 | seed |  
 | bip_39_word_space_10 | seed ocean artist assist bike indicate near loyal galaxy chimney |  

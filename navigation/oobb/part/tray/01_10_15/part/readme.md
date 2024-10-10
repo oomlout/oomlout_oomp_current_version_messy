@@ -122,6 +122,18 @@ news
 library
 reunion
 farm |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramhammerstatequizdonornewslibraryreunionfarmblast |  
+| bip_39_word_no_space_11 | cramhammerstatequizdonornewslibraryreunionfarmblastforum |  
+| bip_39_word_no_space_12 | cramhammerstatequizdonornewslibraryreunionfarmblastforumatom |  
+| bip_39_word_no_space_2 | cramhammer |  
+| bip_39_word_no_space_3 | cramhammerstate |  
+| bip_39_word_no_space_4 | cramhammerstatequiz |  
+| bip_39_word_no_space_5 | cramhammerstatequizdonor |  
+| bip_39_word_no_space_6 | cramhammerstatequizdonornews |  
+| bip_39_word_no_space_7 | cramhammerstatequizdonornewslibrary |  
+| bip_39_word_no_space_8 | cramhammerstatequizdonornewslibraryreunion |  
+| bip_39_word_no_space_9 | cramhammerstatequizdonornewslibraryreunionfarm |  
 | bip_39_word_space_0 | ['cram', 'hammer', 'state', 'quiz', 'donor', 'news', 'library', 'reunion', 'farm', 'blast', 'forum', 'atom'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram hammer state quiz donor news library reunion farm blast |  

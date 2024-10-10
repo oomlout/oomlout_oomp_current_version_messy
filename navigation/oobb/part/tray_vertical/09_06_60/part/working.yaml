@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'snap
   easy
 
   erode'
+bip_39_word_no_space_1: snap
+bip_39_word_no_space_10: snapprizesignsisterivoryessencespiriteasyerodewing
+bip_39_word_no_space_11: snapprizesignsisterivoryessencespiriteasyerodewingblush
+bip_39_word_no_space_12: snapprizesignsisterivoryessencespiriteasyerodewingblushanimal
+bip_39_word_no_space_2: snapprize
+bip_39_word_no_space_3: snapprizesign
+bip_39_word_no_space_4: snapprizesignsister
+bip_39_word_no_space_5: snapprizesignsisterivory
+bip_39_word_no_space_6: snapprizesignsisterivoryessence
+bip_39_word_no_space_7: snapprizesignsisterivoryessencespirit
+bip_39_word_no_space_8: snapprizesignsisterivoryessencespiriteasy
+bip_39_word_no_space_9: snapprizesignsisterivoryessencespiriteasyerode
 bip_39_word_space_0:
 - snap
 - prize

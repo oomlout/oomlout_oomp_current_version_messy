@@ -122,6 +122,18 @@ update
 famous
 setup
 hair |  
+| bip_39_word_no_space_1 | celery |  
+| bip_39_word_no_space_10 | celeryscoutstonedramafiscalupdatefamoussetuphairfigure |  
+| bip_39_word_no_space_11 | celeryscoutstonedramafiscalupdatefamoussetuphairfigureski |  
+| bip_39_word_no_space_12 | celeryscoutstonedramafiscalupdatefamoussetuphairfigureskianger |  
+| bip_39_word_no_space_2 | celeryscout |  
+| bip_39_word_no_space_3 | celeryscoutstone |  
+| bip_39_word_no_space_4 | celeryscoutstonedrama |  
+| bip_39_word_no_space_5 | celeryscoutstonedramafiscal |  
+| bip_39_word_no_space_6 | celeryscoutstonedramafiscalupdate |  
+| bip_39_word_no_space_7 | celeryscoutstonedramafiscalupdatefamous |  
+| bip_39_word_no_space_8 | celeryscoutstonedramafiscalupdatefamoussetup |  
+| bip_39_word_no_space_9 | celeryscoutstonedramafiscalupdatefamoussetuphair |  
 | bip_39_word_space_0 | ['celery', 'scout', 'stone', 'drama', 'fiscal', 'update', 'famous', 'setup', 'hair', 'figure', 'ski', 'anger'] |  
 | bip_39_word_space_1 | celery |  
 | bip_39_word_space_10 | celery scout stone drama fiscal update famous setup hair figure |  

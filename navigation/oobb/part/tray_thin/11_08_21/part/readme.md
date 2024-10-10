@@ -122,6 +122,18 @@ dutch
 settle
 lady
 cost |  
+| bip_39_word_no_space_1 | push |  
+| bip_39_word_no_space_10 | pushantiquequotejazzdolldutchsettleladycostlike |  
+| bip_39_word_no_space_11 | pushantiquequotejazzdolldutchsettleladycostlikevehicle |  
+| bip_39_word_no_space_12 | pushantiquequotejazzdolldutchsettleladycostlikevehicleadjust |  
+| bip_39_word_no_space_2 | pushantique |  
+| bip_39_word_no_space_3 | pushantiquequote |  
+| bip_39_word_no_space_4 | pushantiquequotejazz |  
+| bip_39_word_no_space_5 | pushantiquequotejazzdoll |  
+| bip_39_word_no_space_6 | pushantiquequotejazzdolldutch |  
+| bip_39_word_no_space_7 | pushantiquequotejazzdolldutchsettle |  
+| bip_39_word_no_space_8 | pushantiquequotejazzdolldutchsettlelady |  
+| bip_39_word_no_space_9 | pushantiquequotejazzdolldutchsettleladycost |  
 | bip_39_word_space_0 | ['push', 'antique', 'quote', 'jazz', 'doll', 'dutch', 'settle', 'lady', 'cost', 'like', 'vehicle', 'adjust'] |  
 | bip_39_word_space_1 | push |  
 | bip_39_word_space_10 | push antique quote jazz doll dutch settle lady cost like |  

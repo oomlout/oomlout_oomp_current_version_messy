@@ -122,6 +122,18 @@ door
 august
 husband
 nut |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furyriotinhaledressawakedooraugusthusbandnutwolf |  
+| bip_39_word_no_space_11 | furyriotinhaledressawakedooraugusthusbandnutwolfgrow |  
+| bip_39_word_no_space_12 | furyriotinhaledressawakedooraugusthusbandnutwolfgrowachieve |  
+| bip_39_word_no_space_2 | furyriot |  
+| bip_39_word_no_space_3 | furyriotinhale |  
+| bip_39_word_no_space_4 | furyriotinhaledress |  
+| bip_39_word_no_space_5 | furyriotinhaledressawake |  
+| bip_39_word_no_space_6 | furyriotinhaledressawakedoor |  
+| bip_39_word_no_space_7 | furyriotinhaledressawakedooraugust |  
+| bip_39_word_no_space_8 | furyriotinhaledressawakedooraugusthusband |  
+| bip_39_word_no_space_9 | furyriotinhaledressawakedooraugusthusbandnut |  
 | bip_39_word_space_0 | ['fury', 'riot', 'inhale', 'dress', 'awake', 'door', 'august', 'husband', 'nut', 'wolf', 'grow', 'achieve'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury riot inhale dress awake door august husband nut wolf |  

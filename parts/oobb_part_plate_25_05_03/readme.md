@@ -122,6 +122,18 @@ sweet
 drip
 village
 child |  
+| bip_39_word_no_space_1 | offer |  
+| bip_39_word_no_space_10 | offershrimpgloommovetogethersweetdripvillagechildcrater |  
+| bip_39_word_no_space_11 | offershrimpgloommovetogethersweetdripvillagechildcraterapril |  
+| bip_39_word_no_space_12 | offershrimpgloommovetogethersweetdripvillagechildcrateraprilage |  
+| bip_39_word_no_space_2 | offershrimp |  
+| bip_39_word_no_space_3 | offershrimpgloom |  
+| bip_39_word_no_space_4 | offershrimpgloommove |  
+| bip_39_word_no_space_5 | offershrimpgloommovetogether |  
+| bip_39_word_no_space_6 | offershrimpgloommovetogethersweet |  
+| bip_39_word_no_space_7 | offershrimpgloommovetogethersweetdrip |  
+| bip_39_word_no_space_8 | offershrimpgloommovetogethersweetdripvillage |  
+| bip_39_word_no_space_9 | offershrimpgloommovetogethersweetdripvillagechild |  
 | bip_39_word_space_0 | ['offer', 'shrimp', 'gloom', 'move', 'together', 'sweet', 'drip', 'village', 'child', 'crater', 'april', 'age'] |  
 | bip_39_word_space_1 | offer |  
 | bip_39_word_space_10 | offer shrimp gloom move together sweet drip village child crater |  

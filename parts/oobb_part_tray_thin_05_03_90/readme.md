@@ -122,6 +122,18 @@ lottery
 idea
 group
 torch |  
+| bip_39_word_no_space_1 | egg |  
+| bip_39_word_no_space_10 | eggarrivemaskprospergarliclotteryideagrouptorchlive |  
+| bip_39_word_no_space_11 | eggarrivemaskprospergarliclotteryideagrouptorchlivebrown |  
+| bip_39_word_no_space_12 | eggarrivemaskprospergarliclotteryideagrouptorchlivebrownaccident |  
+| bip_39_word_no_space_2 | eggarrive |  
+| bip_39_word_no_space_3 | eggarrivemask |  
+| bip_39_word_no_space_4 | eggarrivemaskprosper |  
+| bip_39_word_no_space_5 | eggarrivemaskprospergarlic |  
+| bip_39_word_no_space_6 | eggarrivemaskprospergarliclottery |  
+| bip_39_word_no_space_7 | eggarrivemaskprospergarliclotteryidea |  
+| bip_39_word_no_space_8 | eggarrivemaskprospergarliclotteryideagroup |  
+| bip_39_word_no_space_9 | eggarrivemaskprospergarliclotteryideagrouptorch |  
 | bip_39_word_space_0 | ['egg', 'arrive', 'mask', 'prosper', 'garlic', 'lottery', 'idea', 'group', 'torch', 'live', 'brown', 'accident'] |  
 | bip_39_word_space_1 | egg |  
 | bip_39_word_space_10 | egg arrive mask prosper garlic lottery idea group torch live |  

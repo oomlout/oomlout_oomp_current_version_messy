@@ -122,6 +122,18 @@ grass
 gold
 picture
 cheese |  
+| bip_39_word_no_space_1 | rose |  
+| bip_39_word_no_space_10 | rosedollcopymiserychiefgrassgoldpicturecheesesettle |  
+| bip_39_word_no_space_11 | rosedollcopymiserychiefgrassgoldpicturecheesesettlereflect |  
+| bip_39_word_no_space_12 | rosedollcopymiserychiefgrassgoldpicturecheesesettlereflectaisle |  
+| bip_39_word_no_space_2 | rosedoll |  
+| bip_39_word_no_space_3 | rosedollcopy |  
+| bip_39_word_no_space_4 | rosedollcopymisery |  
+| bip_39_word_no_space_5 | rosedollcopymiserychief |  
+| bip_39_word_no_space_6 | rosedollcopymiserychiefgrass |  
+| bip_39_word_no_space_7 | rosedollcopymiserychiefgrassgold |  
+| bip_39_word_no_space_8 | rosedollcopymiserychiefgrassgoldpicture |  
+| bip_39_word_no_space_9 | rosedollcopymiserychiefgrassgoldpicturecheese |  
 | bip_39_word_space_0 | ['rose', 'doll', 'copy', 'misery', 'chief', 'grass', 'gold', 'picture', 'cheese', 'settle', 'reflect', 'aisle'] |  
 | bip_39_word_space_1 | rose |  
 | bip_39_word_space_10 | rose doll copy misery chief grass gold picture cheese settle |  

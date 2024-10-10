@@ -122,6 +122,18 @@ danger
 sister
 village
 neglect |  
+| bip_39_word_no_space_1 | treat |  
+| bip_39_word_no_space_10 | treatflooranalysttenantdevicedangersistervillageneglectglue |  
+| bip_39_word_no_space_11 | treatflooranalysttenantdevicedangersistervillageneglectgluehistory |  
+| bip_39_word_no_space_12 | treatflooranalysttenantdevicedangersistervillageneglectgluehistoryabsurd |  
+| bip_39_word_no_space_2 | treatfloor |  
+| bip_39_word_no_space_3 | treatflooranalyst |  
+| bip_39_word_no_space_4 | treatflooranalysttenant |  
+| bip_39_word_no_space_5 | treatflooranalysttenantdevice |  
+| bip_39_word_no_space_6 | treatflooranalysttenantdevicedanger |  
+| bip_39_word_no_space_7 | treatflooranalysttenantdevicedangersister |  
+| bip_39_word_no_space_8 | treatflooranalysttenantdevicedangersistervillage |  
+| bip_39_word_no_space_9 | treatflooranalysttenantdevicedangersistervillageneglect |  
 | bip_39_word_space_0 | ['treat', 'floor', 'analyst', 'tenant', 'device', 'danger', 'sister', 'village', 'neglect', 'glue', 'history', 'absurd'] |  
 | bip_39_word_space_1 | treat |  
 | bip_39_word_space_10 | treat floor analyst tenant device danger sister village neglect glue |  

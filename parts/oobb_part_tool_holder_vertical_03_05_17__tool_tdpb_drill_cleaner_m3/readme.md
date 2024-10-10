@@ -122,6 +122,18 @@ head
 match
 october
 seek |  
+| bip_39_word_no_space_1 | venture |  
+| bip_39_word_no_space_10 | venturenationkitdefenseswapheadmatchoctoberseekbrisk |  
+| bip_39_word_no_space_11 | venturenationkitdefenseswapheadmatchoctoberseekbriskunit |  
+| bip_39_word_no_space_12 | venturenationkitdefenseswapheadmatchoctoberseekbriskunitarmy |  
+| bip_39_word_no_space_2 | venturenation |  
+| bip_39_word_no_space_3 | venturenationkit |  
+| bip_39_word_no_space_4 | venturenationkitdefense |  
+| bip_39_word_no_space_5 | venturenationkitdefenseswap |  
+| bip_39_word_no_space_6 | venturenationkitdefenseswaphead |  
+| bip_39_word_no_space_7 | venturenationkitdefenseswapheadmatch |  
+| bip_39_word_no_space_8 | venturenationkitdefenseswapheadmatchoctober |  
+| bip_39_word_no_space_9 | venturenationkitdefenseswapheadmatchoctoberseek |  
 | bip_39_word_space_0 | ['venture', 'nation', 'kit', 'defense', 'swap', 'head', 'match', 'october', 'seek', 'brisk', 'unit', 'army'] |  
 | bip_39_word_space_1 | venture |  
 | bip_39_word_space_10 | venture nation kit defense swap head match october seek brisk |  

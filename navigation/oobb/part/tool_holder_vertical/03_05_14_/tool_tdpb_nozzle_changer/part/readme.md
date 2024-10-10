@@ -122,6 +122,18 @@ adjust
 plate
 story
 turtle |  
+| bip_39_word_no_space_1 | erase |  
+| bip_39_word_no_space_10 | eraseemptyglovejealousabandonadjustplatestoryturtlepyramid |  
+| bip_39_word_no_space_11 | eraseemptyglovejealousabandonadjustplatestoryturtlepyramidsoda |  
+| bip_39_word_no_space_12 | eraseemptyglovejealousabandonadjustplatestoryturtlepyramidsodaagent |  
+| bip_39_word_no_space_2 | eraseempty |  
+| bip_39_word_no_space_3 | eraseemptyglove |  
+| bip_39_word_no_space_4 | eraseemptyglovejealous |  
+| bip_39_word_no_space_5 | eraseemptyglovejealousabandon |  
+| bip_39_word_no_space_6 | eraseemptyglovejealousabandonadjust |  
+| bip_39_word_no_space_7 | eraseemptyglovejealousabandonadjustplate |  
+| bip_39_word_no_space_8 | eraseemptyglovejealousabandonadjustplatestory |  
+| bip_39_word_no_space_9 | eraseemptyglovejealousabandonadjustplatestoryturtle |  
 | bip_39_word_space_0 | ['erase', 'empty', 'glove', 'jealous', 'abandon', 'adjust', 'plate', 'story', 'turtle', 'pyramid', 'soda', 'agent'] |  
 | bip_39_word_space_1 | erase |  
 | bip_39_word_space_10 | erase empty glove jealous abandon adjust plate story turtle pyramid |  

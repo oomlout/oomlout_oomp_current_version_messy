@@ -122,6 +122,18 @@ derive
 gather
 depend
 drift |  
+| bip_39_word_no_space_1 | addict |  
+| bip_39_word_no_space_10 | addictsaddlewhipresourcesuddenderivegatherdependdriftbreeze |  
+| bip_39_word_no_space_11 | addictsaddlewhipresourcesuddenderivegatherdependdriftbreezeedge |  
+| bip_39_word_no_space_12 | addictsaddlewhipresourcesuddenderivegatherdependdriftbreezeedgeagree |  
+| bip_39_word_no_space_2 | addictsaddle |  
+| bip_39_word_no_space_3 | addictsaddlewhip |  
+| bip_39_word_no_space_4 | addictsaddlewhipresource |  
+| bip_39_word_no_space_5 | addictsaddlewhipresourcesudden |  
+| bip_39_word_no_space_6 | addictsaddlewhipresourcesuddenderive |  
+| bip_39_word_no_space_7 | addictsaddlewhipresourcesuddenderivegather |  
+| bip_39_word_no_space_8 | addictsaddlewhipresourcesuddenderivegatherdepend |  
+| bip_39_word_no_space_9 | addictsaddlewhipresourcesuddenderivegatherdependdrift |  
 | bip_39_word_space_0 | ['addict', 'saddle', 'whip', 'resource', 'sudden', 'derive', 'gather', 'depend', 'drift', 'breeze', 'edge', 'agree'] |  
 | bip_39_word_space_1 | addict |  
 | bip_39_word_space_10 | addict saddle whip resource sudden derive gather depend drift breeze |  

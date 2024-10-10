@@ -122,6 +122,18 @@ left
 okay
 science
 remember |  
+| bip_39_word_no_space_1 | dog |  
+| bip_39_word_no_space_10 | dogcruisegritharvestrookieleftokayscienceremembercrush |  
+| bip_39_word_no_space_11 | dogcruisegritharvestrookieleftokayscienceremembercrushelevator |  
+| bip_39_word_no_space_12 | dogcruisegritharvestrookieleftokayscienceremembercrushelevatoralready |  
+| bip_39_word_no_space_2 | dogcruise |  
+| bip_39_word_no_space_3 | dogcruisegrit |  
+| bip_39_word_no_space_4 | dogcruisegritharvest |  
+| bip_39_word_no_space_5 | dogcruisegritharvestrookie |  
+| bip_39_word_no_space_6 | dogcruisegritharvestrookieleft |  
+| bip_39_word_no_space_7 | dogcruisegritharvestrookieleftokay |  
+| bip_39_word_no_space_8 | dogcruisegritharvestrookieleftokayscience |  
+| bip_39_word_no_space_9 | dogcruisegritharvestrookieleftokayscienceremember |  
 | bip_39_word_space_0 | ['dog', 'cruise', 'grit', 'harvest', 'rookie', 'left', 'okay', 'science', 'remember', 'crush', 'elevator', 'already'] |  
 | bip_39_word_space_1 | dog |  
 | bip_39_word_space_10 | dog cruise grit harvest rookie left okay science remember crush |  

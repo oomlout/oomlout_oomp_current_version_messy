@@ -122,6 +122,18 @@ label
 pony
 novel
 artist |  
+| bip_39_word_no_space_1 | advice |  
+| bip_39_word_no_space_10 | advicerangeconductfunpanellabelponynovelartisttrust |  
+| bip_39_word_no_space_11 | advicerangeconductfunpanellabelponynovelartisttrustborder |  
+| bip_39_word_no_space_12 | advicerangeconductfunpanellabelponynovelartisttrustborderabuse |  
+| bip_39_word_no_space_2 | advicerange |  
+| bip_39_word_no_space_3 | advicerangeconduct |  
+| bip_39_word_no_space_4 | advicerangeconductfun |  
+| bip_39_word_no_space_5 | advicerangeconductfunpanel |  
+| bip_39_word_no_space_6 | advicerangeconductfunpanellabel |  
+| bip_39_word_no_space_7 | advicerangeconductfunpanellabelpony |  
+| bip_39_word_no_space_8 | advicerangeconductfunpanellabelponynovel |  
+| bip_39_word_no_space_9 | advicerangeconductfunpanellabelponynovelartist |  
 | bip_39_word_space_0 | ['advice', 'range', 'conduct', 'fun', 'panel', 'label', 'pony', 'novel', 'artist', 'trust', 'border', 'abuse'] |  
 | bip_39_word_space_1 | advice |  
 | bip_39_word_space_10 | advice range conduct fun panel label pony novel artist trust |  

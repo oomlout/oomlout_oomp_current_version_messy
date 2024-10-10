@@ -122,6 +122,18 @@ soccer
 edge
 cupboard
 room |  
+| bip_39_word_no_space_1 | input |  
+| bip_39_word_no_space_10 | inputsoapdosepointautumnsocceredgecupboardroombonus |  
+| bip_39_word_no_space_11 | inputsoapdosepointautumnsocceredgecupboardroombonussand |  
+| bip_39_word_no_space_12 | inputsoapdosepointautumnsocceredgecupboardroombonussandanimal |  
+| bip_39_word_no_space_2 | inputsoap |  
+| bip_39_word_no_space_3 | inputsoapdose |  
+| bip_39_word_no_space_4 | inputsoapdosepoint |  
+| bip_39_word_no_space_5 | inputsoapdosepointautumn |  
+| bip_39_word_no_space_6 | inputsoapdosepointautumnsoccer |  
+| bip_39_word_no_space_7 | inputsoapdosepointautumnsocceredge |  
+| bip_39_word_no_space_8 | inputsoapdosepointautumnsocceredgecupboard |  
+| bip_39_word_no_space_9 | inputsoapdosepointautumnsocceredgecupboardroom |  
 | bip_39_word_space_0 | ['input', 'soap', 'dose', 'point', 'autumn', 'soccer', 'edge', 'cupboard', 'room', 'bonus', 'sand', 'animal'] |  
 | bip_39_word_space_1 | input |  
 | bip_39_word_space_10 | input soap dose point autumn soccer edge cupboard room bonus |  

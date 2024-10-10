@@ -122,6 +122,18 @@ term
 general
 dad
 adult |  
+| bip_39_word_no_space_1 | glow |  
+| bip_39_word_no_space_10 | glowgamepitchhorsejunktermgeneraldadadultsuggest |  
+| bip_39_word_no_space_11 | glowgamepitchhorsejunktermgeneraldadadultsuggesteight |  
+| bip_39_word_no_space_12 | glowgamepitchhorsejunktermgeneraldadadultsuggesteightafraid |  
+| bip_39_word_no_space_2 | glowgame |  
+| bip_39_word_no_space_3 | glowgamepitch |  
+| bip_39_word_no_space_4 | glowgamepitchhorse |  
+| bip_39_word_no_space_5 | glowgamepitchhorsejunk |  
+| bip_39_word_no_space_6 | glowgamepitchhorsejunkterm |  
+| bip_39_word_no_space_7 | glowgamepitchhorsejunktermgeneral |  
+| bip_39_word_no_space_8 | glowgamepitchhorsejunktermgeneraldad |  
+| bip_39_word_no_space_9 | glowgamepitchhorsejunktermgeneraldadadult |  
 | bip_39_word_space_0 | ['glow', 'game', 'pitch', 'horse', 'junk', 'term', 'general', 'dad', 'adult', 'suggest', 'eight', 'afraid'] |  
 | bip_39_word_space_1 | glow |  
 | bip_39_word_space_10 | glow game pitch horse junk term general dad adult suggest |  

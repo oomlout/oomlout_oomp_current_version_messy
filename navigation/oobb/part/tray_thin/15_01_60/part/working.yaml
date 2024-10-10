@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'toss
   budget
 
   mobile'
+bip_39_word_no_space_1: toss
+bip_39_word_no_space_10: tosshelpexhibitcaughtmaineramomentbudgetmobileimpact
+bip_39_word_no_space_11: tosshelpexhibitcaughtmaineramomentbudgetmobileimpactmango
+bip_39_word_no_space_12: tosshelpexhibitcaughtmaineramomentbudgetmobileimpactmangoability
+bip_39_word_no_space_2: tosshelp
+bip_39_word_no_space_3: tosshelpexhibit
+bip_39_word_no_space_4: tosshelpexhibitcaught
+bip_39_word_no_space_5: tosshelpexhibitcaughtmain
+bip_39_word_no_space_6: tosshelpexhibitcaughtmainera
+bip_39_word_no_space_7: tosshelpexhibitcaughtmaineramoment
+bip_39_word_no_space_8: tosshelpexhibitcaughtmaineramomentbudget
+bip_39_word_no_space_9: tosshelpexhibitcaughtmaineramomentbudgetmobile
 bip_39_word_space_0:
 - toss
 - help

@@ -122,6 +122,18 @@ cushion
 letter
 turn
 impose |  
+| bip_39_word_no_space_1 | believe |  
+| bip_39_word_no_space_10 | believejudgeribretreatviciouscushionletterturnimposeowner |  
+| bip_39_word_no_space_11 | believejudgeribretreatviciouscushionletterturnimposeownersilver |  
+| bip_39_word_no_space_12 | believejudgeribretreatviciouscushionletterturnimposeownersilveracoustic |  
+| bip_39_word_no_space_2 | believejudge |  
+| bip_39_word_no_space_3 | believejudgerib |  
+| bip_39_word_no_space_4 | believejudgeribretreat |  
+| bip_39_word_no_space_5 | believejudgeribretreatvicious |  
+| bip_39_word_no_space_6 | believejudgeribretreatviciouscushion |  
+| bip_39_word_no_space_7 | believejudgeribretreatviciouscushionletter |  
+| bip_39_word_no_space_8 | believejudgeribretreatviciouscushionletterturn |  
+| bip_39_word_no_space_9 | believejudgeribretreatviciouscushionletterturnimpose |  
 | bip_39_word_space_0 | ['believe', 'judge', 'rib', 'retreat', 'vicious', 'cushion', 'letter', 'turn', 'impose', 'owner', 'silver', 'acoustic'] |  
 | bip_39_word_space_1 | believe |  
 | bip_39_word_space_10 | believe judge rib retreat vicious cushion letter turn impose owner |  

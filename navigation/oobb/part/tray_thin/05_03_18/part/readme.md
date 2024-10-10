@@ -122,6 +122,18 @@ error
 judge
 turkey
 sport |  
+| bip_39_word_no_space_1 | regular |  
+| bip_39_word_no_space_10 | regularcensusfeelstadiumspawnerrorjudgeturkeysportnight |  
+| bip_39_word_no_space_11 | regularcensusfeelstadiumspawnerrorjudgeturkeysportnightswarm |  
+| bip_39_word_no_space_12 | regularcensusfeelstadiumspawnerrorjudgeturkeysportnightswarmamused |  
+| bip_39_word_no_space_2 | regularcensus |  
+| bip_39_word_no_space_3 | regularcensusfeel |  
+| bip_39_word_no_space_4 | regularcensusfeelstadium |  
+| bip_39_word_no_space_5 | regularcensusfeelstadiumspawn |  
+| bip_39_word_no_space_6 | regularcensusfeelstadiumspawnerror |  
+| bip_39_word_no_space_7 | regularcensusfeelstadiumspawnerrorjudge |  
+| bip_39_word_no_space_8 | regularcensusfeelstadiumspawnerrorjudgeturkey |  
+| bip_39_word_no_space_9 | regularcensusfeelstadiumspawnerrorjudgeturkeysport |  
 | bip_39_word_space_0 | ['regular', 'census', 'feel', 'stadium', 'spawn', 'error', 'judge', 'turkey', 'sport', 'night', 'swarm', 'amused'] |  
 | bip_39_word_space_1 | regular |  
 | bip_39_word_space_10 | regular census feel stadium spawn error judge turkey sport night |  

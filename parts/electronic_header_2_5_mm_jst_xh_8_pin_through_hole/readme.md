@@ -122,6 +122,18 @@ annual
 magic
 raven
 doll |  
+| bip_39_word_no_space_1 | elephant |  
+| bip_39_word_no_space_10 | elephantbenchcrafteraseafraidannualmagicravendollbreeze |  
+| bip_39_word_no_space_11 | elephantbenchcrafteraseafraidannualmagicravendollbreezemandate |  
+| bip_39_word_no_space_12 | elephantbenchcrafteraseafraidannualmagicravendollbreezemandateaddict |  
+| bip_39_word_no_space_2 | elephantbench |  
+| bip_39_word_no_space_3 | elephantbenchcraft |  
+| bip_39_word_no_space_4 | elephantbenchcrafterase |  
+| bip_39_word_no_space_5 | elephantbenchcrafteraseafraid |  
+| bip_39_word_no_space_6 | elephantbenchcrafteraseafraidannual |  
+| bip_39_word_no_space_7 | elephantbenchcrafteraseafraidannualmagic |  
+| bip_39_word_no_space_8 | elephantbenchcrafteraseafraidannualmagicraven |  
+| bip_39_word_no_space_9 | elephantbenchcrafteraseafraidannualmagicravendoll |  
 | bip_39_word_space_0 | ['elephant', 'bench', 'craft', 'erase', 'afraid', 'annual', 'magic', 'raven', 'doll', 'breeze', 'mandate', 'addict'] |  
 | bip_39_word_space_1 | elephant |  
 | bip_39_word_space_10 | elephant bench craft erase afraid annual magic raven doll breeze |  

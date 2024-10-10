@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'truth
   true
 
   renew'
+bip_39_word_no_space_1: truth
+bip_39_word_no_space_10: truthdumbshaftcostextendgalaxytalenttruerenewexact
+bip_39_word_no_space_11: truthdumbshaftcostextendgalaxytalenttruerenewexactvelvet
+bip_39_word_no_space_12: truthdumbshaftcostextendgalaxytalenttruerenewexactvelvetapart
+bip_39_word_no_space_2: truthdumb
+bip_39_word_no_space_3: truthdumbshaft
+bip_39_word_no_space_4: truthdumbshaftcost
+bip_39_word_no_space_5: truthdumbshaftcostextend
+bip_39_word_no_space_6: truthdumbshaftcostextendgalaxy
+bip_39_word_no_space_7: truthdumbshaftcostextendgalaxytalent
+bip_39_word_no_space_8: truthdumbshaftcostextendgalaxytalenttrue
+bip_39_word_no_space_9: truthdumbshaftcostextendgalaxytalenttruerenew
 bip_39_word_space_0:
 - truth
 - dumb

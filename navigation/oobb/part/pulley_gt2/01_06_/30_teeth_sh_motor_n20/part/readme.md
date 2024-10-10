@@ -122,6 +122,18 @@ train
 glare
 trigger
 into |  
+| bip_39_word_no_space_1 | slim |  
+| bip_39_word_no_space_10 | slimgunfadelevelchunktrainglaretriggerintobetray |  
+| bip_39_word_no_space_11 | slimgunfadelevelchunktrainglaretriggerintobetrayblanket |  
+| bip_39_word_no_space_12 | slimgunfadelevelchunktrainglaretriggerintobetrayblanketalbum |  
+| bip_39_word_no_space_2 | slimgun |  
+| bip_39_word_no_space_3 | slimgunfade |  
+| bip_39_word_no_space_4 | slimgunfadelevel |  
+| bip_39_word_no_space_5 | slimgunfadelevelchunk |  
+| bip_39_word_no_space_6 | slimgunfadelevelchunktrain |  
+| bip_39_word_no_space_7 | slimgunfadelevelchunktrainglare |  
+| bip_39_word_no_space_8 | slimgunfadelevelchunktrainglaretrigger |  
+| bip_39_word_no_space_9 | slimgunfadelevelchunktrainglaretriggerinto |  
 | bip_39_word_space_0 | ['slim', 'gun', 'fade', 'level', 'chunk', 'train', 'glare', 'trigger', 'into', 'betray', 'blanket', 'album'] |  
 | bip_39_word_space_1 | slim |  
 | bip_39_word_space_10 | slim gun fade level chunk train glare trigger into betray |  

@@ -122,6 +122,18 @@ oval
 cruise
 trick
 north |  
+| bip_39_word_no_space_1 | battle |  
+| bip_39_word_no_space_10 | battlewomanvividselectboardovalcruisetricknorthonion |  
+| bip_39_word_no_space_11 | battlewomanvividselectboardovalcruisetricknorthonionreject |  
+| bip_39_word_no_space_12 | battlewomanvividselectboardovalcruisetricknorthonionrejectanimal |  
+| bip_39_word_no_space_2 | battlewoman |  
+| bip_39_word_no_space_3 | battlewomanvivid |  
+| bip_39_word_no_space_4 | battlewomanvividselect |  
+| bip_39_word_no_space_5 | battlewomanvividselectboard |  
+| bip_39_word_no_space_6 | battlewomanvividselectboardoval |  
+| bip_39_word_no_space_7 | battlewomanvividselectboardovalcruise |  
+| bip_39_word_no_space_8 | battlewomanvividselectboardovalcruisetrick |  
+| bip_39_word_no_space_9 | battlewomanvividselectboardovalcruisetricknorth |  
 | bip_39_word_space_0 | ['battle', 'woman', 'vivid', 'select', 'board', 'oval', 'cruise', 'trick', 'north', 'onion', 'reject', 'animal'] |  
 | bip_39_word_space_1 | battle |  
 | bip_39_word_space_10 | battle woman vivid select board oval cruise trick north onion |  

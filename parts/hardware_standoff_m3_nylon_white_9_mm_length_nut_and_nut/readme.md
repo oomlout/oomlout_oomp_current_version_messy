@@ -122,6 +122,18 @@ cream
 mask
 weather
 donate |  
+| bip_39_word_no_space_1 | goddess |  
+| bip_39_word_no_space_10 | goddessaxisnobletonightpolarcreammaskweatherdonatedelay |  
+| bip_39_word_no_space_11 | goddessaxisnobletonightpolarcreammaskweatherdonatedelayfound |  
+| bip_39_word_no_space_12 | goddessaxisnobletonightpolarcreammaskweatherdonatedelayfoundasthma |  
+| bip_39_word_no_space_2 | goddessaxis |  
+| bip_39_word_no_space_3 | goddessaxisnoble |  
+| bip_39_word_no_space_4 | goddessaxisnobletonight |  
+| bip_39_word_no_space_5 | goddessaxisnobletonightpolar |  
+| bip_39_word_no_space_6 | goddessaxisnobletonightpolarcream |  
+| bip_39_word_no_space_7 | goddessaxisnobletonightpolarcreammask |  
+| bip_39_word_no_space_8 | goddessaxisnobletonightpolarcreammaskweather |  
+| bip_39_word_no_space_9 | goddessaxisnobletonightpolarcreammaskweatherdonate |  
 | bip_39_word_space_0 | ['goddess', 'axis', 'noble', 'tonight', 'polar', 'cream', 'mask', 'weather', 'donate', 'delay', 'found', 'asthma'] |  
 | bip_39_word_space_1 | goddess |  
 | bip_39_word_space_10 | goddess axis noble tonight polar cream mask weather donate delay |  

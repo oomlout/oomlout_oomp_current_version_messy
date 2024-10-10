@@ -122,6 +122,18 @@ clump
 bulb
 affair
 endorse |  
+| bip_39_word_no_space_1 | length |  
+| bip_39_word_no_space_10 | lengthfebruarywarfarealwaysplaceclumpbulbaffairendorsejuice |  
+| bip_39_word_no_space_11 | lengthfebruarywarfarealwaysplaceclumpbulbaffairendorsejuicebrave |  
+| bip_39_word_no_space_12 | lengthfebruarywarfarealwaysplaceclumpbulbaffairendorsejuicebraveattend |  
+| bip_39_word_no_space_2 | lengthfebruary |  
+| bip_39_word_no_space_3 | lengthfebruarywarfare |  
+| bip_39_word_no_space_4 | lengthfebruarywarfarealways |  
+| bip_39_word_no_space_5 | lengthfebruarywarfarealwaysplace |  
+| bip_39_word_no_space_6 | lengthfebruarywarfarealwaysplaceclump |  
+| bip_39_word_no_space_7 | lengthfebruarywarfarealwaysplaceclumpbulb |  
+| bip_39_word_no_space_8 | lengthfebruarywarfarealwaysplaceclumpbulbaffair |  
+| bip_39_word_no_space_9 | lengthfebruarywarfarealwaysplaceclumpbulbaffairendorse |  
 | bip_39_word_space_0 | ['length', 'february', 'warfare', 'always', 'place', 'clump', 'bulb', 'affair', 'endorse', 'juice', 'brave', 'attend'] |  
 | bip_39_word_space_1 | length |  
 | bip_39_word_space_10 | length february warfare always place clump bulb affair endorse juice |  

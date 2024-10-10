@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'margin
   iron
 
   knee'
+bip_39_word_no_space_1: margin
+bip_39_word_no_space_10: marginartefactmanhairbarrelscrubtomorrowironkneevote
+bip_39_word_no_space_11: marginartefactmanhairbarrelscrubtomorrowironkneevoteartefact
+bip_39_word_no_space_12: marginartefactmanhairbarrelscrubtomorrowironkneevoteartefactacross
+bip_39_word_no_space_2: marginartefact
+bip_39_word_no_space_3: marginartefactman
+bip_39_word_no_space_4: marginartefactmanhair
+bip_39_word_no_space_5: marginartefactmanhairbarrel
+bip_39_word_no_space_6: marginartefactmanhairbarrelscrub
+bip_39_word_no_space_7: marginartefactmanhairbarrelscrubtomorrow
+bip_39_word_no_space_8: marginartefactmanhairbarrelscrubtomorrowiron
+bip_39_word_no_space_9: marginartefactmanhairbarrelscrubtomorrowironknee
 bip_39_word_space_0:
 - margin
 - artefact

@@ -122,6 +122,18 @@ dignity
 answer
 behave
 champion |  
+| bip_39_word_no_space_1 | mom |  
+| bip_39_word_no_space_10 | momquickluxuryvastsweardignityanswerbehavechampionsnow |  
+| bip_39_word_no_space_11 | momquickluxuryvastsweardignityanswerbehavechampionsnowseed |  
+| bip_39_word_no_space_12 | momquickluxuryvastsweardignityanswerbehavechampionsnowseedafraid |  
+| bip_39_word_no_space_2 | momquick |  
+| bip_39_word_no_space_3 | momquickluxury |  
+| bip_39_word_no_space_4 | momquickluxuryvast |  
+| bip_39_word_no_space_5 | momquickluxuryvastswear |  
+| bip_39_word_no_space_6 | momquickluxuryvastsweardignity |  
+| bip_39_word_no_space_7 | momquickluxuryvastsweardignityanswer |  
+| bip_39_word_no_space_8 | momquickluxuryvastsweardignityanswerbehave |  
+| bip_39_word_no_space_9 | momquickluxuryvastsweardignityanswerbehavechampion |  
 | bip_39_word_space_0 | ['mom', 'quick', 'luxury', 'vast', 'swear', 'dignity', 'answer', 'behave', 'champion', 'snow', 'seed', 'afraid'] |  
 | bip_39_word_space_1 | mom |  
 | bip_39_word_space_10 | mom quick luxury vast swear dignity answer behave champion snow |  

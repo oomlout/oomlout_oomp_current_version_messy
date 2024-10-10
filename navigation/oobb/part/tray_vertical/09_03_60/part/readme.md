@@ -122,6 +122,18 @@ spike
 when
 gravity
 object |  
+| bip_39_word_no_space_1 | practice |  
+| bip_39_word_no_space_10 | practicedigitalsalonkidneyupsetspikewhengravityobjectdinner |  
+| bip_39_word_no_space_11 | practicedigitalsalonkidneyupsetspikewhengravityobjectdinnermilk |  
+| bip_39_word_no_space_12 | practicedigitalsalonkidneyupsetspikewhengravityobjectdinnermilkaccuse |  
+| bip_39_word_no_space_2 | practicedigital |  
+| bip_39_word_no_space_3 | practicedigitalsalon |  
+| bip_39_word_no_space_4 | practicedigitalsalonkidney |  
+| bip_39_word_no_space_5 | practicedigitalsalonkidneyupset |  
+| bip_39_word_no_space_6 | practicedigitalsalonkidneyupsetspike |  
+| bip_39_word_no_space_7 | practicedigitalsalonkidneyupsetspikewhen |  
+| bip_39_word_no_space_8 | practicedigitalsalonkidneyupsetspikewhengravity |  
+| bip_39_word_no_space_9 | practicedigitalsalonkidneyupsetspikewhengravityobject |  
 | bip_39_word_space_0 | ['practice', 'digital', 'salon', 'kidney', 'upset', 'spike', 'when', 'gravity', 'object', 'dinner', 'milk', 'accuse'] |  
 | bip_39_word_space_1 | practice |  
 | bip_39_word_space_10 | practice digital salon kidney upset spike when gravity object dinner |  

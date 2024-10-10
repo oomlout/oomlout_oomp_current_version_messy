@@ -122,6 +122,18 @@ bird
 bright
 later
 attack |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalsaladincomepathalarmbirdbrightlaterattackbubble |  
+| bip_39_word_no_space_11 | federalsaladincomepathalarmbirdbrightlaterattackbubbleseven |  
+| bip_39_word_no_space_12 | federalsaladincomepathalarmbirdbrightlaterattackbubblesevenaspect |  
+| bip_39_word_no_space_2 | federalsalad |  
+| bip_39_word_no_space_3 | federalsaladincome |  
+| bip_39_word_no_space_4 | federalsaladincomepath |  
+| bip_39_word_no_space_5 | federalsaladincomepathalarm |  
+| bip_39_word_no_space_6 | federalsaladincomepathalarmbird |  
+| bip_39_word_no_space_7 | federalsaladincomepathalarmbirdbright |  
+| bip_39_word_no_space_8 | federalsaladincomepathalarmbirdbrightlater |  
+| bip_39_word_no_space_9 | federalsaladincomepathalarmbirdbrightlaterattack |  
 | bip_39_word_space_0 | ['federal', 'salad', 'income', 'path', 'alarm', 'bird', 'bright', 'later', 'attack', 'bubble', 'seven', 'aspect'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal salad income path alarm bird bright later attack bubble |  

@@ -122,6 +122,18 @@ prefer
 nature
 mammal
 clinic |  
+| bip_39_word_no_space_1 | treat |  
+| bip_39_word_no_space_10 | treatdawnpavetestbeginprefernaturemammalclinicbrief |  
+| bip_39_word_no_space_11 | treatdawnpavetestbeginprefernaturemammalclinicbriefiron |  
+| bip_39_word_no_space_12 | treatdawnpavetestbeginprefernaturemammalclinicbriefironauthor |  
+| bip_39_word_no_space_2 | treatdawn |  
+| bip_39_word_no_space_3 | treatdawnpave |  
+| bip_39_word_no_space_4 | treatdawnpavetest |  
+| bip_39_word_no_space_5 | treatdawnpavetestbegin |  
+| bip_39_word_no_space_6 | treatdawnpavetestbeginprefer |  
+| bip_39_word_no_space_7 | treatdawnpavetestbeginprefernature |  
+| bip_39_word_no_space_8 | treatdawnpavetestbeginprefernaturemammal |  
+| bip_39_word_no_space_9 | treatdawnpavetestbeginprefernaturemammalclinic |  
 | bip_39_word_space_0 | ['treat', 'dawn', 'pave', 'test', 'begin', 'prefer', 'nature', 'mammal', 'clinic', 'brief', 'iron', 'author'] |  
 | bip_39_word_space_1 | treat |  
 | bip_39_word_space_10 | treat dawn pave test begin prefer nature mammal clinic brief |  

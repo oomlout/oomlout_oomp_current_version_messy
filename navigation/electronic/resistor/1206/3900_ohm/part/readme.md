@@ -122,6 +122,18 @@ corn
 early
 travel
 crucial |  
+| bip_39_word_no_space_1 | still |  
+| bip_39_word_no_space_10 | stilldreamcamerawomanmodelcornearlytravelcrucialeager |  
+| bip_39_word_no_space_11 | stilldreamcamerawomanmodelcornearlytravelcrucialeagerclock |  
+| bip_39_word_no_space_12 | stilldreamcamerawomanmodelcornearlytravelcrucialeagerclockadapt |  
+| bip_39_word_no_space_2 | stilldream |  
+| bip_39_word_no_space_3 | stilldreamcamera |  
+| bip_39_word_no_space_4 | stilldreamcamerawoman |  
+| bip_39_word_no_space_5 | stilldreamcamerawomanmodel |  
+| bip_39_word_no_space_6 | stilldreamcamerawomanmodelcorn |  
+| bip_39_word_no_space_7 | stilldreamcamerawomanmodelcornearly |  
+| bip_39_word_no_space_8 | stilldreamcamerawomanmodelcornearlytravel |  
+| bip_39_word_no_space_9 | stilldreamcamerawomanmodelcornearlytravelcrucial |  
 | bip_39_word_space_0 | ['still', 'dream', 'camera', 'woman', 'model', 'corn', 'early', 'travel', 'crucial', 'eager', 'clock', 'adapt'] |  
 | bip_39_word_space_1 | still |  
 | bip_39_word_space_10 | still dream camera woman model corn early travel crucial eager |  

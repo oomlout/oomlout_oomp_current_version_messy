@@ -122,6 +122,18 @@ wash
 cannon
 uncle
 satoshi |  
+| bip_39_word_no_space_1 | left |  
+| bip_39_word_no_space_10 | leftmountaintopevokesortwashcannonunclesatoshiunaware |  
+| bip_39_word_no_space_11 | leftmountaintopevokesortwashcannonunclesatoshiunawarecrew |  
+| bip_39_word_no_space_12 | leftmountaintopevokesortwashcannonunclesatoshiunawarecrewalready |  
+| bip_39_word_no_space_2 | leftmountain |  
+| bip_39_word_no_space_3 | leftmountaintop |  
+| bip_39_word_no_space_4 | leftmountaintopevoke |  
+| bip_39_word_no_space_5 | leftmountaintopevokesort |  
+| bip_39_word_no_space_6 | leftmountaintopevokesortwash |  
+| bip_39_word_no_space_7 | leftmountaintopevokesortwashcannon |  
+| bip_39_word_no_space_8 | leftmountaintopevokesortwashcannonuncle |  
+| bip_39_word_no_space_9 | leftmountaintopevokesortwashcannonunclesatoshi |  
 | bip_39_word_space_0 | ['left', 'mountain', 'top', 'evoke', 'sort', 'wash', 'cannon', 'uncle', 'satoshi', 'unaware', 'crew', 'already'] |  
 | bip_39_word_space_1 | left |  
 | bip_39_word_space_10 | left mountain top evoke sort wash cannon uncle satoshi unaware |  

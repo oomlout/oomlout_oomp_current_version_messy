@@ -122,6 +122,18 @@ daughter
 forest
 sense
 rich |  
+| bip_39_word_no_space_1 | split |  
+| bip_39_word_no_space_10 | splitdemisetrapdoorelsedaughterforestsenserichpet |  
+| bip_39_word_no_space_11 | splitdemisetrapdoorelsedaughterforestsenserichpettenant |  
+| bip_39_word_no_space_12 | splitdemisetrapdoorelsedaughterforestsenserichpettenantantique |  
+| bip_39_word_no_space_2 | splitdemise |  
+| bip_39_word_no_space_3 | splitdemisetrap |  
+| bip_39_word_no_space_4 | splitdemisetrapdoor |  
+| bip_39_word_no_space_5 | splitdemisetrapdoorelse |  
+| bip_39_word_no_space_6 | splitdemisetrapdoorelsedaughter |  
+| bip_39_word_no_space_7 | splitdemisetrapdoorelsedaughterforest |  
+| bip_39_word_no_space_8 | splitdemisetrapdoorelsedaughterforestsense |  
+| bip_39_word_no_space_9 | splitdemisetrapdoorelsedaughterforestsenserich |  
 | bip_39_word_space_0 | ['split', 'demise', 'trap', 'door', 'else', 'daughter', 'forest', 'sense', 'rich', 'pet', 'tenant', 'antique'] |  
 | bip_39_word_space_1 | split |  
 | bip_39_word_space_10 | split demise trap door else daughter forest sense rich pet |  

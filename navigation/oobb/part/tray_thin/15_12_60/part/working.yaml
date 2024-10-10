@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spread
   law
 
   walnut'
+bip_39_word_no_space_1: spread
+bip_39_word_no_space_10: spreadtrashharborswingpuppyillseatlawwalnutshort
+bip_39_word_no_space_11: spreadtrashharborswingpuppyillseatlawwalnutshortopen
+bip_39_word_no_space_12: spreadtrashharborswingpuppyillseatlawwalnutshortopenartefact
+bip_39_word_no_space_2: spreadtrash
+bip_39_word_no_space_3: spreadtrashharbor
+bip_39_word_no_space_4: spreadtrashharborswing
+bip_39_word_no_space_5: spreadtrashharborswingpuppy
+bip_39_word_no_space_6: spreadtrashharborswingpuppyill
+bip_39_word_no_space_7: spreadtrashharborswingpuppyillseat
+bip_39_word_no_space_8: spreadtrashharborswingpuppyillseatlaw
+bip_39_word_no_space_9: spreadtrashharborswingpuppyillseatlawwalnut
 bip_39_word_space_0:
 - spread
 - trash

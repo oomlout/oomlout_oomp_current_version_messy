@@ -122,6 +122,18 @@ emerge
 peanut
 expose
 smooth |  
+| bip_39_word_no_space_1 | couple |  
+| bip_39_word_no_space_10 | couplebusyvisameatprepareemergepeanutexposesmoothaccident |  
+| bip_39_word_no_space_11 | couplebusyvisameatprepareemergepeanutexposesmoothaccidenttrim |  
+| bip_39_word_no_space_12 | couplebusyvisameatprepareemergepeanutexposesmoothaccidenttrimalso |  
+| bip_39_word_no_space_2 | couplebusy |  
+| bip_39_word_no_space_3 | couplebusyvisa |  
+| bip_39_word_no_space_4 | couplebusyvisameat |  
+| bip_39_word_no_space_5 | couplebusyvisameatprepare |  
+| bip_39_word_no_space_6 | couplebusyvisameatprepareemerge |  
+| bip_39_word_no_space_7 | couplebusyvisameatprepareemergepeanut |  
+| bip_39_word_no_space_8 | couplebusyvisameatprepareemergepeanutexpose |  
+| bip_39_word_no_space_9 | couplebusyvisameatprepareemergepeanutexposesmooth |  
 | bip_39_word_space_0 | ['couple', 'busy', 'visa', 'meat', 'prepare', 'emerge', 'peanut', 'expose', 'smooth', 'accident', 'trim', 'also'] |  
 | bip_39_word_space_1 | couple |  
 | bip_39_word_space_10 | couple busy visa meat prepare emerge peanut expose smooth accident |  

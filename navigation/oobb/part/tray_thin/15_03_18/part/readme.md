@@ -122,6 +122,18 @@ toast
 mango
 disease
 festival |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatvillagesoccerartefactjuicetoastmangodiseasefestivalclip |  
+| bip_39_word_no_space_11 | boatvillagesoccerartefactjuicetoastmangodiseasefestivalclipmerit |  
+| bip_39_word_no_space_12 | boatvillagesoccerartefactjuicetoastmangodiseasefestivalclipmeritalmost |  
+| bip_39_word_no_space_2 | boatvillage |  
+| bip_39_word_no_space_3 | boatvillagesoccer |  
+| bip_39_word_no_space_4 | boatvillagesoccerartefact |  
+| bip_39_word_no_space_5 | boatvillagesoccerartefactjuice |  
+| bip_39_word_no_space_6 | boatvillagesoccerartefactjuicetoast |  
+| bip_39_word_no_space_7 | boatvillagesoccerartefactjuicetoastmango |  
+| bip_39_word_no_space_8 | boatvillagesoccerartefactjuicetoastmangodisease |  
+| bip_39_word_no_space_9 | boatvillagesoccerartefactjuicetoastmangodiseasefestival |  
 | bip_39_word_space_0 | ['boat', 'village', 'soccer', 'artefact', 'juice', 'toast', 'mango', 'disease', 'festival', 'clip', 'merit', 'almost'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat village soccer artefact juice toast mango disease festival clip |  

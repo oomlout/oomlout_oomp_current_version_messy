@@ -122,6 +122,18 @@ broken
 prepare
 pepper
 lift |  
+| bip_39_word_no_space_1 | initial |  
+| bip_39_word_no_space_10 | initialreceivetermrailcivilbrokenpreparepepperliftspy |  
+| bip_39_word_no_space_11 | initialreceivetermrailcivilbrokenpreparepepperliftspydebate |  
+| bip_39_word_no_space_12 | initialreceivetermrailcivilbrokenpreparepepperliftspydebatearrow |  
+| bip_39_word_no_space_2 | initialreceive |  
+| bip_39_word_no_space_3 | initialreceiveterm |  
+| bip_39_word_no_space_4 | initialreceivetermrail |  
+| bip_39_word_no_space_5 | initialreceivetermrailcivil |  
+| bip_39_word_no_space_6 | initialreceivetermrailcivilbroken |  
+| bip_39_word_no_space_7 | initialreceivetermrailcivilbrokenprepare |  
+| bip_39_word_no_space_8 | initialreceivetermrailcivilbrokenpreparepepper |  
+| bip_39_word_no_space_9 | initialreceivetermrailcivilbrokenpreparepepperlift |  
 | bip_39_word_space_0 | ['initial', 'receive', 'term', 'rail', 'civil', 'broken', 'prepare', 'pepper', 'lift', 'spy', 'debate', 'arrow'] |  
 | bip_39_word_space_1 | initial |  
 | bip_39_word_space_10 | initial receive term rail civil broken prepare pepper lift spy |  

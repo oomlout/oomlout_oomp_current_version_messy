@@ -122,6 +122,18 @@ appear
 safe
 erosion
 cotton |  
+| bip_39_word_no_space_1 | intact |  
+| bip_39_word_no_space_10 | intacttransferlocalwrestlestandappearsafeerosioncottonhip |  
+| bip_39_word_no_space_11 | intacttransferlocalwrestlestandappearsafeerosioncottonhipunfair |  
+| bip_39_word_no_space_12 | intacttransferlocalwrestlestandappearsafeerosioncottonhipunfairauction |  
+| bip_39_word_no_space_2 | intacttransfer |  
+| bip_39_word_no_space_3 | intacttransferlocal |  
+| bip_39_word_no_space_4 | intacttransferlocalwrestle |  
+| bip_39_word_no_space_5 | intacttransferlocalwrestlestand |  
+| bip_39_word_no_space_6 | intacttransferlocalwrestlestandappear |  
+| bip_39_word_no_space_7 | intacttransferlocalwrestlestandappearsafe |  
+| bip_39_word_no_space_8 | intacttransferlocalwrestlestandappearsafeerosion |  
+| bip_39_word_no_space_9 | intacttransferlocalwrestlestandappearsafeerosioncotton |  
 | bip_39_word_space_0 | ['intact', 'transfer', 'local', 'wrestle', 'stand', 'appear', 'safe', 'erosion', 'cotton', 'hip', 'unfair', 'auction'] |  
 | bip_39_word_space_1 | intact |  
 | bip_39_word_space_10 | intact transfer local wrestle stand appear safe erosion cotton hip |  

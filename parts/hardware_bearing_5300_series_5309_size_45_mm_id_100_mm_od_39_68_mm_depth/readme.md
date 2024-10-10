@@ -122,6 +122,18 @@ whisper
 deposit
 stick
 remember |  
+| bip_39_word_no_space_1 | danger |  
+| bip_39_word_no_space_10 | dangerincreasesunsetdestroyseatwhisperdepositstickremembershoulder |  
+| bip_39_word_no_space_11 | dangerincreasesunsetdestroyseatwhisperdepositstickremembershoulderflat |  
+| bip_39_word_no_space_12 | dangerincreasesunsetdestroyseatwhisperdepositstickremembershoulderflatarrest |  
+| bip_39_word_no_space_2 | dangerincrease |  
+| bip_39_word_no_space_3 | dangerincreasesunset |  
+| bip_39_word_no_space_4 | dangerincreasesunsetdestroy |  
+| bip_39_word_no_space_5 | dangerincreasesunsetdestroyseat |  
+| bip_39_word_no_space_6 | dangerincreasesunsetdestroyseatwhisper |  
+| bip_39_word_no_space_7 | dangerincreasesunsetdestroyseatwhisperdeposit |  
+| bip_39_word_no_space_8 | dangerincreasesunsetdestroyseatwhisperdepositstick |  
+| bip_39_word_no_space_9 | dangerincreasesunsetdestroyseatwhisperdepositstickremember |  
 | bip_39_word_space_0 | ['danger', 'increase', 'sunset', 'destroy', 'seat', 'whisper', 'deposit', 'stick', 'remember', 'shoulder', 'flat', 'arrest'] |  
 | bip_39_word_space_1 | danger |  
 | bip_39_word_space_10 | danger increase sunset destroy seat whisper deposit stick remember shoulder |  

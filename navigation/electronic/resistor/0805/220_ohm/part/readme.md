@@ -122,6 +122,18 @@ again
 license
 lobster
 transfer |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalfamilycrushsquirrelmammalagainlicenselobstertransferprogram |  
+| bip_39_word_no_space_11 | federalfamilycrushsquirrelmammalagainlicenselobstertransferprogrammention |  
+| bip_39_word_no_space_12 | federalfamilycrushsquirrelmammalagainlicenselobstertransferprogrammentionaisle |  
+| bip_39_word_no_space_2 | federalfamily |  
+| bip_39_word_no_space_3 | federalfamilycrush |  
+| bip_39_word_no_space_4 | federalfamilycrushsquirrel |  
+| bip_39_word_no_space_5 | federalfamilycrushsquirrelmammal |  
+| bip_39_word_no_space_6 | federalfamilycrushsquirrelmammalagain |  
+| bip_39_word_no_space_7 | federalfamilycrushsquirrelmammalagainlicense |  
+| bip_39_word_no_space_8 | federalfamilycrushsquirrelmammalagainlicenselobster |  
+| bip_39_word_no_space_9 | federalfamilycrushsquirrelmammalagainlicenselobstertransfer |  
 | bip_39_word_space_0 | ['federal', 'family', 'crush', 'squirrel', 'mammal', 'again', 'license', 'lobster', 'transfer', 'program', 'mention', 'aisle'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal family crush squirrel mammal again license lobster transfer program |  

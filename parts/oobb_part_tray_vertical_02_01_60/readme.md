@@ -122,6 +122,18 @@ elephant
 hurdle
 health
 west |  
+| bip_39_word_no_space_1 | wonder |  
+| bip_39_word_no_space_10 | wonderpenbindblankettreatelephanthurdlehealthwestgreat |  
+| bip_39_word_no_space_11 | wonderpenbindblankettreatelephanthurdlehealthwestgreatcrunch |  
+| bip_39_word_no_space_12 | wonderpenbindblankettreatelephanthurdlehealthwestgreatcrunchalley |  
+| bip_39_word_no_space_2 | wonderpen |  
+| bip_39_word_no_space_3 | wonderpenbind |  
+| bip_39_word_no_space_4 | wonderpenbindblanket |  
+| bip_39_word_no_space_5 | wonderpenbindblankettreat |  
+| bip_39_word_no_space_6 | wonderpenbindblankettreatelephant |  
+| bip_39_word_no_space_7 | wonderpenbindblankettreatelephanthurdle |  
+| bip_39_word_no_space_8 | wonderpenbindblankettreatelephanthurdlehealth |  
+| bip_39_word_no_space_9 | wonderpenbindblankettreatelephanthurdlehealthwest |  
 | bip_39_word_space_0 | ['wonder', 'pen', 'bind', 'blanket', 'treat', 'elephant', 'hurdle', 'health', 'west', 'great', 'crunch', 'alley'] |  
 | bip_39_word_space_1 | wonder |  
 | bip_39_word_space_10 | wonder pen bind blanket treat elephant hurdle health west great |  

@@ -122,6 +122,18 @@ page
 funny
 waste
 winner |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchcomforteducateoutsideslimpagefunnywastewinnervital |  
+| bip_39_word_no_space_11 | fetchcomforteducateoutsideslimpagefunnywastewinnervitalpossible |  
+| bip_39_word_no_space_12 | fetchcomforteducateoutsideslimpagefunnywastewinnervitalpossiblealone |  
+| bip_39_word_no_space_2 | fetchcomfort |  
+| bip_39_word_no_space_3 | fetchcomforteducate |  
+| bip_39_word_no_space_4 | fetchcomforteducateoutside |  
+| bip_39_word_no_space_5 | fetchcomforteducateoutsideslim |  
+| bip_39_word_no_space_6 | fetchcomforteducateoutsideslimpage |  
+| bip_39_word_no_space_7 | fetchcomforteducateoutsideslimpagefunny |  
+| bip_39_word_no_space_8 | fetchcomforteducateoutsideslimpagefunnywaste |  
+| bip_39_word_no_space_9 | fetchcomforteducateoutsideslimpagefunnywastewinner |  
 | bip_39_word_space_0 | ['fetch', 'comfort', 'educate', 'outside', 'slim', 'page', 'funny', 'waste', 'winner', 'vital', 'possible', 'alone'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch comfort educate outside slim page funny waste winner vital |  

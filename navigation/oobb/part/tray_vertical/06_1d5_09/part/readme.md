@@ -122,6 +122,18 @@ host
 kiwi
 toddler
 shift |  
+| bip_39_word_no_space_1 | lesson |  
+| bip_39_word_no_space_10 | lessonwomandonkeybreezeguardhostkiwitoddlershiftadvice |  
+| bip_39_word_no_space_11 | lessonwomandonkeybreezeguardhostkiwitoddlershiftadvicejelly |  
+| bip_39_word_no_space_12 | lessonwomandonkeybreezeguardhostkiwitoddlershiftadvicejellyamong |  
+| bip_39_word_no_space_2 | lessonwoman |  
+| bip_39_word_no_space_3 | lessonwomandonkey |  
+| bip_39_word_no_space_4 | lessonwomandonkeybreeze |  
+| bip_39_word_no_space_5 | lessonwomandonkeybreezeguard |  
+| bip_39_word_no_space_6 | lessonwomandonkeybreezeguardhost |  
+| bip_39_word_no_space_7 | lessonwomandonkeybreezeguardhostkiwi |  
+| bip_39_word_no_space_8 | lessonwomandonkeybreezeguardhostkiwitoddler |  
+| bip_39_word_no_space_9 | lessonwomandonkeybreezeguardhostkiwitoddlershift |  
 | bip_39_word_space_0 | ['lesson', 'woman', 'donkey', 'breeze', 'guard', 'host', 'kiwi', 'toddler', 'shift', 'advice', 'jelly', 'among'] |  
 | bip_39_word_space_1 | lesson |  
 | bip_39_word_space_10 | lesson woman donkey breeze guard host kiwi toddler shift advice |  

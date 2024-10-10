@@ -122,6 +122,18 @@ canoe
 wave
 market
 toss |  
+| bip_39_word_no_space_1 | cheese |  
+| bip_39_word_no_space_10 | cheesesteakobviousprocessbunkercanoewavemarkettossski |  
+| bip_39_word_no_space_11 | cheesesteakobviousprocessbunkercanoewavemarkettossskiuse |  
+| bip_39_word_no_space_12 | cheesesteakobviousprocessbunkercanoewavemarkettossskiuseabuse |  
+| bip_39_word_no_space_2 | cheesesteak |  
+| bip_39_word_no_space_3 | cheesesteakobvious |  
+| bip_39_word_no_space_4 | cheesesteakobviousprocess |  
+| bip_39_word_no_space_5 | cheesesteakobviousprocessbunker |  
+| bip_39_word_no_space_6 | cheesesteakobviousprocessbunkercanoe |  
+| bip_39_word_no_space_7 | cheesesteakobviousprocessbunkercanoewave |  
+| bip_39_word_no_space_8 | cheesesteakobviousprocessbunkercanoewavemarket |  
+| bip_39_word_no_space_9 | cheesesteakobviousprocessbunkercanoewavemarkettoss |  
 | bip_39_word_space_0 | ['cheese', 'steak', 'obvious', 'process', 'bunker', 'canoe', 'wave', 'market', 'toss', 'ski', 'use', 'abuse'] |  
 | bip_39_word_space_1 | cheese |  
 | bip_39_word_space_10 | cheese steak obvious process bunker canoe wave market toss ski |  

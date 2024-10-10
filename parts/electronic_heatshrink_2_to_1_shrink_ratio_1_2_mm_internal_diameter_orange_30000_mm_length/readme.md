@@ -122,6 +122,18 @@ drama
 eternal
 toward
 address |  
+| bip_39_word_no_space_1 | sign |  
+| bip_39_word_no_space_10 | signsatoshihistorylionvictorydramaeternaltowardaddresskitten |  
+| bip_39_word_no_space_11 | signsatoshihistorylionvictorydramaeternaltowardaddresskittenemerge |  
+| bip_39_word_no_space_12 | signsatoshihistorylionvictorydramaeternaltowardaddresskittenemergeallow |  
+| bip_39_word_no_space_2 | signsatoshi |  
+| bip_39_word_no_space_3 | signsatoshihistory |  
+| bip_39_word_no_space_4 | signsatoshihistorylion |  
+| bip_39_word_no_space_5 | signsatoshihistorylionvictory |  
+| bip_39_word_no_space_6 | signsatoshihistorylionvictorydrama |  
+| bip_39_word_no_space_7 | signsatoshihistorylionvictorydramaeternal |  
+| bip_39_word_no_space_8 | signsatoshihistorylionvictorydramaeternaltoward |  
+| bip_39_word_no_space_9 | signsatoshihistorylionvictorydramaeternaltowardaddress |  
 | bip_39_word_space_0 | ['sign', 'satoshi', 'history', 'lion', 'victory', 'drama', 'eternal', 'toward', 'address', 'kitten', 'emerge', 'allow'] |  
 | bip_39_word_space_1 | sign |  
 | bip_39_word_space_10 | sign satoshi history lion victory drama eternal toward address kitten |  

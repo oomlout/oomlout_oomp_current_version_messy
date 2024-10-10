@@ -122,6 +122,18 @@ luxury
 aisle
 win
 skirt |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blackroundshadowcriticguitarluxuryaislewinskirtcrop |  
+| bip_39_word_no_space_11 | blackroundshadowcriticguitarluxuryaislewinskirtcroporiginal |  
+| bip_39_word_no_space_12 | blackroundshadowcriticguitarluxuryaislewinskirtcroporiginalanger |  
+| bip_39_word_no_space_2 | blackround |  
+| bip_39_word_no_space_3 | blackroundshadow |  
+| bip_39_word_no_space_4 | blackroundshadowcritic |  
+| bip_39_word_no_space_5 | blackroundshadowcriticguitar |  
+| bip_39_word_no_space_6 | blackroundshadowcriticguitarluxury |  
+| bip_39_word_no_space_7 | blackroundshadowcriticguitarluxuryaisle |  
+| bip_39_word_no_space_8 | blackroundshadowcriticguitarluxuryaislewin |  
+| bip_39_word_no_space_9 | blackroundshadowcriticguitarluxuryaislewinskirt |  
 | bip_39_word_space_0 | ['black', 'round', 'shadow', 'critic', 'guitar', 'luxury', 'aisle', 'win', 'skirt', 'crop', 'original', 'anger'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black round shadow critic guitar luxury aisle win skirt crop |  

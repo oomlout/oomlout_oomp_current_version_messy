@@ -122,6 +122,18 @@ vessel
 grace
 dentist
 pass |  
+| bip_39_word_no_space_1 | ability |  
+| bip_39_word_no_space_10 | abilitygrocerylicensefewpatrolvesselgracedentistpasspride |  
+| bip_39_word_no_space_11 | abilitygrocerylicensefewpatrolvesselgracedentistpasspridescrub |  
+| bip_39_word_no_space_12 | abilitygrocerylicensefewpatrolvesselgracedentistpasspridescrubachieve |  
+| bip_39_word_no_space_2 | abilitygrocery |  
+| bip_39_word_no_space_3 | abilitygrocerylicense |  
+| bip_39_word_no_space_4 | abilitygrocerylicensefew |  
+| bip_39_word_no_space_5 | abilitygrocerylicensefewpatrol |  
+| bip_39_word_no_space_6 | abilitygrocerylicensefewpatrolvessel |  
+| bip_39_word_no_space_7 | abilitygrocerylicensefewpatrolvesselgrace |  
+| bip_39_word_no_space_8 | abilitygrocerylicensefewpatrolvesselgracedentist |  
+| bip_39_word_no_space_9 | abilitygrocerylicensefewpatrolvesselgracedentistpass |  
 | bip_39_word_space_0 | ['ability', 'grocery', 'license', 'few', 'patrol', 'vessel', 'grace', 'dentist', 'pass', 'pride', 'scrub', 'achieve'] |  
 | bip_39_word_space_1 | ability |  
 | bip_39_word_space_10 | ability grocery license few patrol vessel grace dentist pass pride |  

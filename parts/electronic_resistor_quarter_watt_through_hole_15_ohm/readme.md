@@ -122,6 +122,18 @@ hair
 hire
 that
 tape |  
+| bip_39_word_no_space_1 | hurdle |  
+| bip_39_word_no_space_10 | hurdleabouteviltopicbeanhairhirethattapelogic |  
+| bip_39_word_no_space_11 | hurdleabouteviltopicbeanhairhirethattapelogiclady |  
+| bip_39_word_no_space_12 | hurdleabouteviltopicbeanhairhirethattapelogicladyage |  
+| bip_39_word_no_space_2 | hurdleabout |  
+| bip_39_word_no_space_3 | hurdleaboutevil |  
+| bip_39_word_no_space_4 | hurdleabouteviltopic |  
+| bip_39_word_no_space_5 | hurdleabouteviltopicbean |  
+| bip_39_word_no_space_6 | hurdleabouteviltopicbeanhair |  
+| bip_39_word_no_space_7 | hurdleabouteviltopicbeanhairhire |  
+| bip_39_word_no_space_8 | hurdleabouteviltopicbeanhairhirethat |  
+| bip_39_word_no_space_9 | hurdleabouteviltopicbeanhairhirethattape |  
 | bip_39_word_space_0 | ['hurdle', 'about', 'evil', 'topic', 'bean', 'hair', 'hire', 'that', 'tape', 'logic', 'lady', 'age'] |  
 | bip_39_word_space_1 | hurdle |  
 | bip_39_word_space_10 | hurdle about evil topic bean hair hire that tape logic |  

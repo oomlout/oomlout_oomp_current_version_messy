@@ -122,6 +122,18 @@ crane
 position
 flower
 pupil |  
+| bip_39_word_no_space_1 | bless |  
+| bip_39_word_no_space_10 | blessnervepurposefamilylibertycranepositionflowerpupilgossip |  
+| bip_39_word_no_space_11 | blessnervepurposefamilylibertycranepositionflowerpupilgossipcall |  
+| bip_39_word_no_space_12 | blessnervepurposefamilylibertycranepositionflowerpupilgossipcalladd |  
+| bip_39_word_no_space_2 | blessnerve |  
+| bip_39_word_no_space_3 | blessnervepurpose |  
+| bip_39_word_no_space_4 | blessnervepurposefamily |  
+| bip_39_word_no_space_5 | blessnervepurposefamilyliberty |  
+| bip_39_word_no_space_6 | blessnervepurposefamilylibertycrane |  
+| bip_39_word_no_space_7 | blessnervepurposefamilylibertycraneposition |  
+| bip_39_word_no_space_8 | blessnervepurposefamilylibertycranepositionflower |  
+| bip_39_word_no_space_9 | blessnervepurposefamilylibertycranepositionflowerpupil |  
 | bip_39_word_space_0 | ['bless', 'nerve', 'purpose', 'family', 'liberty', 'crane', 'position', 'flower', 'pupil', 'gossip', 'call', 'add'] |  
 | bip_39_word_space_1 | bless |  
 | bip_39_word_space_10 | bless nerve purpose family liberty crane position flower pupil gossip |  

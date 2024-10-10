@@ -122,6 +122,18 @@ bubble
 brain
 believe
 lizard |  
+| bip_39_word_no_space_1 | street |  
+| bip_39_word_no_space_10 | streetmuseumsolvecitymixedbubblebrainbelievelizardbag |  
+| bip_39_word_no_space_11 | streetmuseumsolvecitymixedbubblebrainbelievelizardbagmodify |  
+| bip_39_word_no_space_12 | streetmuseumsolvecitymixedbubblebrainbelievelizardbagmodifyattract |  
+| bip_39_word_no_space_2 | streetmuseum |  
+| bip_39_word_no_space_3 | streetmuseumsolve |  
+| bip_39_word_no_space_4 | streetmuseumsolvecity |  
+| bip_39_word_no_space_5 | streetmuseumsolvecitymixed |  
+| bip_39_word_no_space_6 | streetmuseumsolvecitymixedbubble |  
+| bip_39_word_no_space_7 | streetmuseumsolvecitymixedbubblebrain |  
+| bip_39_word_no_space_8 | streetmuseumsolvecitymixedbubblebrainbelieve |  
+| bip_39_word_no_space_9 | streetmuseumsolvecitymixedbubblebrainbelievelizard |  
 | bip_39_word_space_0 | ['street', 'museum', 'solve', 'city', 'mixed', 'bubble', 'brain', 'believe', 'lizard', 'bag', 'modify', 'attract'] |  
 | bip_39_word_space_1 | street |  
 | bip_39_word_space_10 | street museum solve city mixed bubble brain believe lizard bag |  

@@ -122,6 +122,18 @@ fire
 music
 fury
 guess |  
+| bip_39_word_no_space_1 | submit |  
+| bip_39_word_no_space_10 | submitlayersamebraveslimfiremusicfuryguesskick |  
+| bip_39_word_no_space_11 | submitlayersamebraveslimfiremusicfuryguesskickprepare |  
+| bip_39_word_no_space_12 | submitlayersamebraveslimfiremusicfuryguesskickprepareairport |  
+| bip_39_word_no_space_2 | submitlayer |  
+| bip_39_word_no_space_3 | submitlayersame |  
+| bip_39_word_no_space_4 | submitlayersamebrave |  
+| bip_39_word_no_space_5 | submitlayersamebraveslim |  
+| bip_39_word_no_space_6 | submitlayersamebraveslimfire |  
+| bip_39_word_no_space_7 | submitlayersamebraveslimfiremusic |  
+| bip_39_word_no_space_8 | submitlayersamebraveslimfiremusicfury |  
+| bip_39_word_no_space_9 | submitlayersamebraveslimfiremusicfuryguess |  
 | bip_39_word_space_0 | ['submit', 'layer', 'same', 'brave', 'slim', 'fire', 'music', 'fury', 'guess', 'kick', 'prepare', 'airport'] |  
 | bip_39_word_space_1 | submit |  
 | bip_39_word_space_10 | submit layer same brave slim fire music fury guess kick |  

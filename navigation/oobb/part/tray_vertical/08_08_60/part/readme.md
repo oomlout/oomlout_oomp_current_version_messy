@@ -122,6 +122,18 @@ infant
 advice
 bullet
 street |  
+| bip_39_word_no_space_1 | tell |  
+| bip_39_word_no_space_10 | tellchoicemanagejacketdonorinfantadvicebulletstreetstand |  
+| bip_39_word_no_space_11 | tellchoicemanagejacketdonorinfantadvicebulletstreetstandpony |  
+| bip_39_word_no_space_12 | tellchoicemanagejacketdonorinfantadvicebulletstreetstandponyask |  
+| bip_39_word_no_space_2 | tellchoice |  
+| bip_39_word_no_space_3 | tellchoicemanage |  
+| bip_39_word_no_space_4 | tellchoicemanagejacket |  
+| bip_39_word_no_space_5 | tellchoicemanagejacketdonor |  
+| bip_39_word_no_space_6 | tellchoicemanagejacketdonorinfant |  
+| bip_39_word_no_space_7 | tellchoicemanagejacketdonorinfantadvice |  
+| bip_39_word_no_space_8 | tellchoicemanagejacketdonorinfantadvicebullet |  
+| bip_39_word_no_space_9 | tellchoicemanagejacketdonorinfantadvicebulletstreet |  
 | bip_39_word_space_0 | ['tell', 'choice', 'manage', 'jacket', 'donor', 'infant', 'advice', 'bullet', 'street', 'stand', 'pony', 'ask'] |  
 | bip_39_word_space_1 | tell |  
 | bip_39_word_space_10 | tell choice manage jacket donor infant advice bullet street stand |  

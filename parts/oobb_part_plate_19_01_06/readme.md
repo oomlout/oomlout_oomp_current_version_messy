@@ -122,6 +122,18 @@ abstract
 hollow
 angry
 pride |  
+| bip_39_word_no_space_1 | since |  
+| bip_39_word_no_space_10 | sinceidentifytoetrapforceabstracthollowangryprideenact |  
+| bip_39_word_no_space_11 | sinceidentifytoetrapforceabstracthollowangryprideenactexecute |  
+| bip_39_word_no_space_12 | sinceidentifytoetrapforceabstracthollowangryprideenactexecuteantique |  
+| bip_39_word_no_space_2 | sinceidentify |  
+| bip_39_word_no_space_3 | sinceidentifytoe |  
+| bip_39_word_no_space_4 | sinceidentifytoetrap |  
+| bip_39_word_no_space_5 | sinceidentifytoetrapforce |  
+| bip_39_word_no_space_6 | sinceidentifytoetrapforceabstract |  
+| bip_39_word_no_space_7 | sinceidentifytoetrapforceabstracthollow |  
+| bip_39_word_no_space_8 | sinceidentifytoetrapforceabstracthollowangry |  
+| bip_39_word_no_space_9 | sinceidentifytoetrapforceabstracthollowangrypride |  
 | bip_39_word_space_0 | ['since', 'identify', 'toe', 'trap', 'force', 'abstract', 'hollow', 'angry', 'pride', 'enact', 'execute', 'antique'] |  
 | bip_39_word_space_1 | since |  
 | bip_39_word_space_10 | since identify toe trap force abstract hollow angry pride enact |  

@@ -122,6 +122,18 @@ play
 rare
 miss
 food |  
+| bip_39_word_no_space_1 | lobster |  
+| bip_39_word_no_space_10 | lobsterhipresemblesunnycolorplayraremissfooddog |  
+| bip_39_word_no_space_11 | lobsterhipresemblesunnycolorplayraremissfooddogprocess |  
+| bip_39_word_no_space_12 | lobsterhipresemblesunnycolorplayraremissfooddogprocessaerobic |  
+| bip_39_word_no_space_2 | lobsterhip |  
+| bip_39_word_no_space_3 | lobsterhipresemble |  
+| bip_39_word_no_space_4 | lobsterhipresemblesunny |  
+| bip_39_word_no_space_5 | lobsterhipresemblesunnycolor |  
+| bip_39_word_no_space_6 | lobsterhipresemblesunnycolorplay |  
+| bip_39_word_no_space_7 | lobsterhipresemblesunnycolorplayrare |  
+| bip_39_word_no_space_8 | lobsterhipresemblesunnycolorplayraremiss |  
+| bip_39_word_no_space_9 | lobsterhipresemblesunnycolorplayraremissfood |  
 | bip_39_word_space_0 | ['lobster', 'hip', 'resemble', 'sunny', 'color', 'play', 'rare', 'miss', 'food', 'dog', 'process', 'aerobic'] |  
 | bip_39_word_space_1 | lobster |  
 | bip_39_word_space_10 | lobster hip resemble sunny color play rare miss food dog |  

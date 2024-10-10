@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'put
   valley
 
   switch'
+bip_39_word_no_space_1: put
+bip_39_word_no_space_10: putmulemythplungeriboperacollectvalleyswitchinvest
+bip_39_word_no_space_11: putmulemythplungeriboperacollectvalleyswitchinvestblur
+bip_39_word_no_space_12: putmulemythplungeriboperacollectvalleyswitchinvestblurabove
+bip_39_word_no_space_2: putmule
+bip_39_word_no_space_3: putmulemyth
+bip_39_word_no_space_4: putmulemythplunge
+bip_39_word_no_space_5: putmulemythplungerib
+bip_39_word_no_space_6: putmulemythplungeribopera
+bip_39_word_no_space_7: putmulemythplungeriboperacollect
+bip_39_word_no_space_8: putmulemythplungeriboperacollectvalley
+bip_39_word_no_space_9: putmulemythplungeriboperacollectvalleyswitch
 bip_39_word_space_0:
 - put
 - mule

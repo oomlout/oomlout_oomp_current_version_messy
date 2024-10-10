@@ -122,6 +122,18 @@ own
 split
 fall
 inch |  
+| bip_39_word_no_space_1 | boring |  
+| bip_39_word_no_space_10 | boringdespairroadnastybroccoliownsplitfallinchvoice |  
+| bip_39_word_no_space_11 | boringdespairroadnastybroccoliownsplitfallinchvoicemaster |  
+| bip_39_word_no_space_12 | boringdespairroadnastybroccoliownsplitfallinchvoicemasteranger |  
+| bip_39_word_no_space_2 | boringdespair |  
+| bip_39_word_no_space_3 | boringdespairroad |  
+| bip_39_word_no_space_4 | boringdespairroadnasty |  
+| bip_39_word_no_space_5 | boringdespairroadnastybroccoli |  
+| bip_39_word_no_space_6 | boringdespairroadnastybroccoliown |  
+| bip_39_word_no_space_7 | boringdespairroadnastybroccoliownsplit |  
+| bip_39_word_no_space_8 | boringdespairroadnastybroccoliownsplitfall |  
+| bip_39_word_no_space_9 | boringdespairroadnastybroccoliownsplitfallinch |  
 | bip_39_word_space_0 | ['boring', 'despair', 'road', 'nasty', 'broccoli', 'own', 'split', 'fall', 'inch', 'voice', 'master', 'anger'] |  
 | bip_39_word_space_1 | boring |  
 | bip_39_word_space_10 | boring despair road nasty broccoli own split fall inch voice |  

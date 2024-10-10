@@ -122,6 +122,18 @@ surge
 soon
 length
 multiply |  
+| bip_39_word_no_space_1 | walk |  
+| bip_39_word_no_space_10 | walkhighcrucialapplemultiplysurgesoonlengthmultiplyrace |  
+| bip_39_word_no_space_11 | walkhighcrucialapplemultiplysurgesoonlengthmultiplyracelaundry |  
+| bip_39_word_no_space_12 | walkhighcrucialapplemultiplysurgesoonlengthmultiplyracelaundryapart |  
+| bip_39_word_no_space_2 | walkhigh |  
+| bip_39_word_no_space_3 | walkhighcrucial |  
+| bip_39_word_no_space_4 | walkhighcrucialapple |  
+| bip_39_word_no_space_5 | walkhighcrucialapplemultiply |  
+| bip_39_word_no_space_6 | walkhighcrucialapplemultiplysurge |  
+| bip_39_word_no_space_7 | walkhighcrucialapplemultiplysurgesoon |  
+| bip_39_word_no_space_8 | walkhighcrucialapplemultiplysurgesoonlength |  
+| bip_39_word_no_space_9 | walkhighcrucialapplemultiplysurgesoonlengthmultiply |  
 | bip_39_word_space_0 | ['walk', 'high', 'crucial', 'apple', 'multiply', 'surge', 'soon', 'length', 'multiply', 'race', 'laundry', 'apart'] |  
 | bip_39_word_space_1 | walk |  
 | bip_39_word_space_10 | walk high crucial apple multiply surge soon length multiply race |  

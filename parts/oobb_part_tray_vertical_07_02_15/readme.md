@@ -122,6 +122,18 @@ frequent
 danger
 term
 portion |  
+| bip_39_word_no_space_1 | now |  
+| bip_39_word_no_space_10 | nowrenderdevoteadmitquantumfrequentdangertermportionimmune |  
+| bip_39_word_no_space_11 | nowrenderdevoteadmitquantumfrequentdangertermportionimmuneabsurd |  
+| bip_39_word_no_space_12 | nowrenderdevoteadmitquantumfrequentdangertermportionimmuneabsurdanchor |  
+| bip_39_word_no_space_2 | nowrender |  
+| bip_39_word_no_space_3 | nowrenderdevote |  
+| bip_39_word_no_space_4 | nowrenderdevoteadmit |  
+| bip_39_word_no_space_5 | nowrenderdevoteadmitquantum |  
+| bip_39_word_no_space_6 | nowrenderdevoteadmitquantumfrequent |  
+| bip_39_word_no_space_7 | nowrenderdevoteadmitquantumfrequentdanger |  
+| bip_39_word_no_space_8 | nowrenderdevoteadmitquantumfrequentdangerterm |  
+| bip_39_word_no_space_9 | nowrenderdevoteadmitquantumfrequentdangertermportion |  
 | bip_39_word_space_0 | ['now', 'render', 'devote', 'admit', 'quantum', 'frequent', 'danger', 'term', 'portion', 'immune', 'absurd', 'anchor'] |  
 | bip_39_word_space_1 | now |  
 | bip_39_word_space_10 | now render devote admit quantum frequent danger term portion immune |  

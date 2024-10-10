@@ -122,6 +122,18 @@ faculty
 seat
 gossip
 crumble |  
+| bip_39_word_no_space_1 | during |  
+| bip_39_word_no_space_10 | duringlawchampionobligetopicfacultyseatgossipcrumblechest |  
+| bip_39_word_no_space_11 | duringlawchampionobligetopicfacultyseatgossipcrumblecheststill |  
+| bip_39_word_no_space_12 | duringlawchampionobligetopicfacultyseatgossipcrumblecheststillachieve |  
+| bip_39_word_no_space_2 | duringlaw |  
+| bip_39_word_no_space_3 | duringlawchampion |  
+| bip_39_word_no_space_4 | duringlawchampionoblige |  
+| bip_39_word_no_space_5 | duringlawchampionobligetopic |  
+| bip_39_word_no_space_6 | duringlawchampionobligetopicfaculty |  
+| bip_39_word_no_space_7 | duringlawchampionobligetopicfacultyseat |  
+| bip_39_word_no_space_8 | duringlawchampionobligetopicfacultyseatgossip |  
+| bip_39_word_no_space_9 | duringlawchampionobligetopicfacultyseatgossipcrumble |  
 | bip_39_word_space_0 | ['during', 'law', 'champion', 'oblige', 'topic', 'faculty', 'seat', 'gossip', 'crumble', 'chest', 'still', 'achieve'] |  
 | bip_39_word_space_1 | during |  
 | bip_39_word_space_10 | during law champion oblige topic faculty seat gossip crumble chest |  

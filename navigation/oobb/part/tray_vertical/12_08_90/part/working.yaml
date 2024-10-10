@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sure
   zebra
 
   rigid'
+bip_39_word_no_space_1: sure
+bip_39_word_no_space_10: sureforgetstickmeshweathergarbagefinalzebrarigidawesome
+bip_39_word_no_space_11: sureforgetstickmeshweathergarbagefinalzebrarigidawesomedwarf
+bip_39_word_no_space_12: sureforgetstickmeshweathergarbagefinalzebrarigidawesomedwarfamount
+bip_39_word_no_space_2: sureforget
+bip_39_word_no_space_3: sureforgetstick
+bip_39_word_no_space_4: sureforgetstickmesh
+bip_39_word_no_space_5: sureforgetstickmeshweather
+bip_39_word_no_space_6: sureforgetstickmeshweathergarbage
+bip_39_word_no_space_7: sureforgetstickmeshweathergarbagefinal
+bip_39_word_no_space_8: sureforgetstickmeshweathergarbagefinalzebra
+bip_39_word_no_space_9: sureforgetstickmeshweathergarbagefinalzebrarigid
 bip_39_word_space_0:
 - sure
 - forget

@@ -122,6 +122,18 @@ real
 suffer
 churn
 expect |  
+| bip_39_word_no_space_1 | left |  
+| bip_39_word_no_space_10 | leftshoeislandcradlefeverrealsufferchurnexpectfigure |  
+| bip_39_word_no_space_11 | leftshoeislandcradlefeverrealsufferchurnexpectfigureglide |  
+| bip_39_word_no_space_12 | leftshoeislandcradlefeverrealsufferchurnexpectfigureglideadmit |  
+| bip_39_word_no_space_2 | leftshoe |  
+| bip_39_word_no_space_3 | leftshoeisland |  
+| bip_39_word_no_space_4 | leftshoeislandcradle |  
+| bip_39_word_no_space_5 | leftshoeislandcradlefever |  
+| bip_39_word_no_space_6 | leftshoeislandcradlefeverreal |  
+| bip_39_word_no_space_7 | leftshoeislandcradlefeverrealsuffer |  
+| bip_39_word_no_space_8 | leftshoeislandcradlefeverrealsufferchurn |  
+| bip_39_word_no_space_9 | leftshoeislandcradlefeverrealsufferchurnexpect |  
 | bip_39_word_space_0 | ['left', 'shoe', 'island', 'cradle', 'fever', 'real', 'suffer', 'churn', 'expect', 'figure', 'glide', 'admit'] |  
 | bip_39_word_space_1 | left |  
 | bip_39_word_space_10 | left shoe island cradle fever real suffer churn expect figure |  

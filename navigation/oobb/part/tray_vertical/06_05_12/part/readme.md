@@ -122,6 +122,18 @@ vivid
 august
 essay
 mimic |  
+| bip_39_word_no_space_1 | roof |  
+| bip_39_word_no_space_10 | roofpalmmistakeselllayervividaugustessaymimicsport |  
+| bip_39_word_no_space_11 | roofpalmmistakeselllayervividaugustessaymimicsportkit |  
+| bip_39_word_no_space_12 | roofpalmmistakeselllayervividaugustessaymimicsportkitaccuse |  
+| bip_39_word_no_space_2 | roofpalm |  
+| bip_39_word_no_space_3 | roofpalmmistake |  
+| bip_39_word_no_space_4 | roofpalmmistakesell |  
+| bip_39_word_no_space_5 | roofpalmmistakeselllayer |  
+| bip_39_word_no_space_6 | roofpalmmistakeselllayervivid |  
+| bip_39_word_no_space_7 | roofpalmmistakeselllayervividaugust |  
+| bip_39_word_no_space_8 | roofpalmmistakeselllayervividaugustessay |  
+| bip_39_word_no_space_9 | roofpalmmistakeselllayervividaugustessaymimic |  
 | bip_39_word_space_0 | ['roof', 'palm', 'mistake', 'sell', 'layer', 'vivid', 'august', 'essay', 'mimic', 'sport', 'kit', 'accuse'] |  
 | bip_39_word_space_1 | roof |  
 | bip_39_word_space_10 | roof palm mistake sell layer vivid august essay mimic sport |  

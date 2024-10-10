@@ -122,6 +122,18 @@ text
 uncover
 top
 fortune |  
+| bip_39_word_no_space_1 | tail |  
+| bip_39_word_no_space_10 | tailromanceviciouscactusmaximumtextuncovertopfortunealarm |  
+| bip_39_word_no_space_11 | tailromanceviciouscactusmaximumtextuncovertopfortunealarmroom |  
+| bip_39_word_no_space_12 | tailromanceviciouscactusmaximumtextuncovertopfortunealarmroomattitude |  
+| bip_39_word_no_space_2 | tailromance |  
+| bip_39_word_no_space_3 | tailromancevicious |  
+| bip_39_word_no_space_4 | tailromanceviciouscactus |  
+| bip_39_word_no_space_5 | tailromanceviciouscactusmaximum |  
+| bip_39_word_no_space_6 | tailromanceviciouscactusmaximumtext |  
+| bip_39_word_no_space_7 | tailromanceviciouscactusmaximumtextuncover |  
+| bip_39_word_no_space_8 | tailromanceviciouscactusmaximumtextuncovertop |  
+| bip_39_word_no_space_9 | tailromanceviciouscactusmaximumtextuncovertopfortune |  
 | bip_39_word_space_0 | ['tail', 'romance', 'vicious', 'cactus', 'maximum', 'text', 'uncover', 'top', 'fortune', 'alarm', 'room', 'attitude'] |  
 | bip_39_word_space_1 | tail |  
 | bip_39_word_space_10 | tail romance vicious cactus maximum text uncover top fortune alarm |  

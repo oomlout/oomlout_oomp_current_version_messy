@@ -122,6 +122,18 @@ roast
 junior
 heavy
 tuition |  
+| bip_39_word_no_space_1 | any |  
+| bip_39_word_no_space_10 | anyafraidremainsyrupsolveroastjuniorheavytuitionjoin |  
+| bip_39_word_no_space_11 | anyafraidremainsyrupsolveroastjuniorheavytuitionjoinsnow |  
+| bip_39_word_no_space_12 | anyafraidremainsyrupsolveroastjuniorheavytuitionjoinsnowadd |  
+| bip_39_word_no_space_2 | anyafraid |  
+| bip_39_word_no_space_3 | anyafraidremain |  
+| bip_39_word_no_space_4 | anyafraidremainsyrup |  
+| bip_39_word_no_space_5 | anyafraidremainsyrupsolve |  
+| bip_39_word_no_space_6 | anyafraidremainsyrupsolveroast |  
+| bip_39_word_no_space_7 | anyafraidremainsyrupsolveroastjunior |  
+| bip_39_word_no_space_8 | anyafraidremainsyrupsolveroastjuniorheavy |  
+| bip_39_word_no_space_9 | anyafraidremainsyrupsolveroastjuniorheavytuition |  
 | bip_39_word_space_0 | ['any', 'afraid', 'remain', 'syrup', 'solve', 'roast', 'junior', 'heavy', 'tuition', 'join', 'snow', 'add'] |  
 | bip_39_word_space_1 | any |  
 | bip_39_word_space_10 | any afraid remain syrup solve roast junior heavy tuition join |  

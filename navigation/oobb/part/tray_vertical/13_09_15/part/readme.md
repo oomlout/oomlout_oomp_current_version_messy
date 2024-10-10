@@ -122,6 +122,18 @@ month
 horse
 cradle
 fiscal |  
+| bip_39_word_no_space_1 | kid |  
+| bip_39_word_no_space_10 | kiddadquestionbeautybonusmonthhorsecradlefiscalsuper |  
+| bip_39_word_no_space_11 | kiddadquestionbeautybonusmonthhorsecradlefiscalsuperagain |  
+| bip_39_word_no_space_12 | kiddadquestionbeautybonusmonthhorsecradlefiscalsuperagainaround |  
+| bip_39_word_no_space_2 | kiddad |  
+| bip_39_word_no_space_3 | kiddadquestion |  
+| bip_39_word_no_space_4 | kiddadquestionbeauty |  
+| bip_39_word_no_space_5 | kiddadquestionbeautybonus |  
+| bip_39_word_no_space_6 | kiddadquestionbeautybonusmonth |  
+| bip_39_word_no_space_7 | kiddadquestionbeautybonusmonthhorse |  
+| bip_39_word_no_space_8 | kiddadquestionbeautybonusmonthhorsecradle |  
+| bip_39_word_no_space_9 | kiddadquestionbeautybonusmonthhorsecradlefiscal |  
 | bip_39_word_space_0 | ['kid', 'dad', 'question', 'beauty', 'bonus', 'month', 'horse', 'cradle', 'fiscal', 'super', 'again', 'around'] |  
 | bip_39_word_space_1 | kid |  
 | bip_39_word_space_10 | kid dad question beauty bonus month horse cradle fiscal super |  

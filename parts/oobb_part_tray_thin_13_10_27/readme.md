@@ -122,6 +122,18 @@ blue
 decide
 dry
 casino |  
+| bip_39_word_no_space_1 | latin |  
+| bip_39_word_no_space_10 | latinflagearthsolideffortbluedecidedrycasinowealth |  
+| bip_39_word_no_space_11 | latinflagearthsolideffortbluedecidedrycasinowealthbarely |  
+| bip_39_word_no_space_12 | latinflagearthsolideffortbluedecidedrycasinowealthbarelyall |  
+| bip_39_word_no_space_2 | latinflag |  
+| bip_39_word_no_space_3 | latinflagearth |  
+| bip_39_word_no_space_4 | latinflagearthsolid |  
+| bip_39_word_no_space_5 | latinflagearthsolideffort |  
+| bip_39_word_no_space_6 | latinflagearthsolideffortblue |  
+| bip_39_word_no_space_7 | latinflagearthsolideffortbluedecide |  
+| bip_39_word_no_space_8 | latinflagearthsolideffortbluedecidedry |  
+| bip_39_word_no_space_9 | latinflagearthsolideffortbluedecidedrycasino |  
 | bip_39_word_space_0 | ['latin', 'flag', 'earth', 'solid', 'effort', 'blue', 'decide', 'dry', 'casino', 'wealth', 'barely', 'all'] |  
 | bip_39_word_space_1 | latin |  
 | bip_39_word_space_10 | latin flag earth solid effort blue decide dry casino wealth |  

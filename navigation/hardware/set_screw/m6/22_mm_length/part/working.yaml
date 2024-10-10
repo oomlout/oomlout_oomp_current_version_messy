@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'leisure
   waste
 
   concert'
+bip_39_word_no_space_1: leisure
+bip_39_word_no_space_10: leisurecanroomprimarywagontalkloudwasteconcertsuccess
+bip_39_word_no_space_11: leisurecanroomprimarywagontalkloudwasteconcertsuccessreason
+bip_39_word_no_space_12: leisurecanroomprimarywagontalkloudwasteconcertsuccessreasonadult
+bip_39_word_no_space_2: leisurecan
+bip_39_word_no_space_3: leisurecanroom
+bip_39_word_no_space_4: leisurecanroomprimary
+bip_39_word_no_space_5: leisurecanroomprimarywagon
+bip_39_word_no_space_6: leisurecanroomprimarywagontalk
+bip_39_word_no_space_7: leisurecanroomprimarywagontalkloud
+bip_39_word_no_space_8: leisurecanroomprimarywagontalkloudwaste
+bip_39_word_no_space_9: leisurecanroomprimarywagontalkloudwasteconcert
 bip_39_word_space_0:
 - leisure
 - can

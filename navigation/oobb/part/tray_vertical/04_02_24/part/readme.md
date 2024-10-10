@@ -122,6 +122,18 @@ stay
 ozone
 doll
 sea |  
+| bip_39_word_no_space_1 | unfold |  
+| bip_39_word_no_space_10 | unfoldmatrixdangerdonorprizestayozonedollseaplastic |  
+| bip_39_word_no_space_11 | unfoldmatrixdangerdonorprizestayozonedollseaplasticseed |  
+| bip_39_word_no_space_12 | unfoldmatrixdangerdonorprizestayozonedollseaplasticseedallow |  
+| bip_39_word_no_space_2 | unfoldmatrix |  
+| bip_39_word_no_space_3 | unfoldmatrixdanger |  
+| bip_39_word_no_space_4 | unfoldmatrixdangerdonor |  
+| bip_39_word_no_space_5 | unfoldmatrixdangerdonorprize |  
+| bip_39_word_no_space_6 | unfoldmatrixdangerdonorprizestay |  
+| bip_39_word_no_space_7 | unfoldmatrixdangerdonorprizestayozone |  
+| bip_39_word_no_space_8 | unfoldmatrixdangerdonorprizestayozonedoll |  
+| bip_39_word_no_space_9 | unfoldmatrixdangerdonorprizestayozonedollsea |  
 | bip_39_word_space_0 | ['unfold', 'matrix', 'danger', 'donor', 'prize', 'stay', 'ozone', 'doll', 'sea', 'plastic', 'seed', 'allow'] |  
 | bip_39_word_space_1 | unfold |  
 | bip_39_word_space_10 | unfold matrix danger donor prize stay ozone doll sea plastic |  

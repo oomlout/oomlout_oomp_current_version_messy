@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'warfare
   slot
 
   world'
+bip_39_word_no_space_1: warfare
+bip_39_word_no_space_10: warfarespiritproudhostchaoshourunawareslotworldfurnace
+bip_39_word_no_space_11: warfarespiritproudhostchaoshourunawareslotworldfurnacegesture
+bip_39_word_no_space_12: warfarespiritproudhostchaoshourunawareslotworldfurnacegestureaunt
+bip_39_word_no_space_2: warfarespirit
+bip_39_word_no_space_3: warfarespiritproud
+bip_39_word_no_space_4: warfarespiritproudhost
+bip_39_word_no_space_5: warfarespiritproudhostchaos
+bip_39_word_no_space_6: warfarespiritproudhostchaoshour
+bip_39_word_no_space_7: warfarespiritproudhostchaoshourunaware
+bip_39_word_no_space_8: warfarespiritproudhostchaoshourunawareslot
+bip_39_word_no_space_9: warfarespiritproudhostchaoshourunawareslotworld
 bip_39_word_space_0:
 - warfare
 - spirit

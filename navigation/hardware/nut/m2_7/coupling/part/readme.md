@@ -122,6 +122,18 @@ sudden
 law
 mirror
 hello |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validfrozenhospitaltaskhornsuddenlawmirrorhelloboost |  
+| bip_39_word_no_space_11 | validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggest |  
+| bip_39_word_no_space_12 | validfrozenhospitaltaskhornsuddenlawmirrorhelloboostsuggestadmit |  
+| bip_39_word_no_space_2 | validfrozen |  
+| bip_39_word_no_space_3 | validfrozenhospital |  
+| bip_39_word_no_space_4 | validfrozenhospitaltask |  
+| bip_39_word_no_space_5 | validfrozenhospitaltaskhorn |  
+| bip_39_word_no_space_6 | validfrozenhospitaltaskhornsudden |  
+| bip_39_word_no_space_7 | validfrozenhospitaltaskhornsuddenlaw |  
+| bip_39_word_no_space_8 | validfrozenhospitaltaskhornsuddenlawmirror |  
+| bip_39_word_no_space_9 | validfrozenhospitaltaskhornsuddenlawmirrorhello |  
 | bip_39_word_space_0 | ['valid', 'frozen', 'hospital', 'task', 'horn', 'sudden', 'law', 'mirror', 'hello', 'boost', 'suggest', 'admit'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid frozen hospital task horn sudden law mirror hello boost |  

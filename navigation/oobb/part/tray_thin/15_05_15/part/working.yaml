@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'put
   prize
 
   foster'
+bip_39_word_no_space_1: put
+bip_39_word_no_space_10: putelbowpenaltydancetentcivilsegmentprizefosterengine
+bip_39_word_no_space_11: putelbowpenaltydancetentcivilsegmentprizefosterenginetoe
+bip_39_word_no_space_2: putelbow
+bip_39_word_no_space_3: putelbowpenalty
+bip_39_word_no_space_4: putelbowpenaltydance
+bip_39_word_no_space_5: putelbowpenaltydancetent
+bip_39_word_no_space_6: putelbowpenaltydancetentcivil
+bip_39_word_no_space_7: putelbowpenaltydancetentcivilsegment
+bip_39_word_no_space_8: putelbowpenaltydancetentcivilsegmentprize
+bip_39_word_no_space_9: putelbowpenaltydancetentcivilsegmentprizefoster
 bip_39_word_space_0:
 - put
 - elbow

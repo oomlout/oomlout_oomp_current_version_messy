@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ginger
   dice
 
   ski'
+bip_39_word_no_space_1: ginger
+bip_39_word_no_space_10: gingertumbleonionlearnpaymentscareflagdiceskisize
+bip_39_word_no_space_11: gingertumbleonionlearnpaymentscareflagdiceskisizetree
+bip_39_word_no_space_12: gingertumbleonionlearnpaymentscareflagdiceskisizetreeacross
+bip_39_word_no_space_2: gingertumble
+bip_39_word_no_space_3: gingertumbleonion
+bip_39_word_no_space_4: gingertumbleonionlearn
+bip_39_word_no_space_5: gingertumbleonionlearnpayment
+bip_39_word_no_space_6: gingertumbleonionlearnpaymentscare
+bip_39_word_no_space_7: gingertumbleonionlearnpaymentscareflag
+bip_39_word_no_space_8: gingertumbleonionlearnpaymentscareflagdice
+bip_39_word_no_space_9: gingertumbleonionlearnpaymentscareflagdiceski
 bip_39_word_space_0:
 - ginger
 - tumble

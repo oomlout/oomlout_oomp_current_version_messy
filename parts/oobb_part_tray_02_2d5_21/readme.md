@@ -122,6 +122,18 @@ humor
 blind
 soon
 photo |  
+| bip_39_word_no_space_1 | nation |  
+| bip_39_word_no_space_10 | nationbroomcradlechoosefigurehumorblindsoonphotoprice |  
+| bip_39_word_no_space_11 | nationbroomcradlechoosefigurehumorblindsoonphotopricefame |  
+| bip_39_word_no_space_12 | nationbroomcradlechoosefigurehumorblindsoonphotopricefameassist |  
+| bip_39_word_no_space_2 | nationbroom |  
+| bip_39_word_no_space_3 | nationbroomcradle |  
+| bip_39_word_no_space_4 | nationbroomcradlechoose |  
+| bip_39_word_no_space_5 | nationbroomcradlechoosefigure |  
+| bip_39_word_no_space_6 | nationbroomcradlechoosefigurehumor |  
+| bip_39_word_no_space_7 | nationbroomcradlechoosefigurehumorblind |  
+| bip_39_word_no_space_8 | nationbroomcradlechoosefigurehumorblindsoon |  
+| bip_39_word_no_space_9 | nationbroomcradlechoosefigurehumorblindsoonphoto |  
 | bip_39_word_space_0 | ['nation', 'broom', 'cradle', 'choose', 'figure', 'humor', 'blind', 'soon', 'photo', 'price', 'fame', 'assist'] |  
 | bip_39_word_space_1 | nation |  
 | bip_39_word_space_10 | nation broom cradle choose figure humor blind soon photo price |  

@@ -122,6 +122,18 @@ cup
 surprise
 capital
 private |  
+| bip_39_word_no_space_1 | panther |  
+| bip_39_word_no_space_10 | pantherintoartworkcirclecallcupsurprisecapitalprivatecolumn |  
+| bip_39_word_no_space_11 | pantherintoartworkcirclecallcupsurprisecapitalprivatecolumnrazor |  
+| bip_39_word_no_space_12 | pantherintoartworkcirclecallcupsurprisecapitalprivatecolumnrazoract |  
+| bip_39_word_no_space_2 | pantherinto |  
+| bip_39_word_no_space_3 | pantherintoartwork |  
+| bip_39_word_no_space_4 | pantherintoartworkcircle |  
+| bip_39_word_no_space_5 | pantherintoartworkcirclecall |  
+| bip_39_word_no_space_6 | pantherintoartworkcirclecallcup |  
+| bip_39_word_no_space_7 | pantherintoartworkcirclecallcupsurprise |  
+| bip_39_word_no_space_8 | pantherintoartworkcirclecallcupsurprisecapital |  
+| bip_39_word_no_space_9 | pantherintoartworkcirclecallcupsurprisecapitalprivate |  
 | bip_39_word_space_0 | ['panther', 'into', 'artwork', 'circle', 'call', 'cup', 'surprise', 'capital', 'private', 'column', 'razor', 'act'] |  
 | bip_39_word_space_1 | panther |  
 | bip_39_word_space_10 | panther into artwork circle call cup surprise capital private column |  

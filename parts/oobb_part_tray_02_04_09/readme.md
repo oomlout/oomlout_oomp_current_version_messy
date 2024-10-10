@@ -122,6 +122,18 @@ clean
 fork
 excuse
 play |  
+| bip_39_word_no_space_1 | horse |  
+| bip_39_word_no_space_10 | horsefathermadskullslushcleanforkexcuseplaymarine |  
+| bip_39_word_no_space_11 | horsefathermadskullslushcleanforkexcuseplaymarinesmart |  
+| bip_39_word_no_space_12 | horsefathermadskullslushcleanforkexcuseplaymarinesmartarrest |  
+| bip_39_word_no_space_2 | horsefather |  
+| bip_39_word_no_space_3 | horsefathermad |  
+| bip_39_word_no_space_4 | horsefathermadskull |  
+| bip_39_word_no_space_5 | horsefathermadskullslush |  
+| bip_39_word_no_space_6 | horsefathermadskullslushclean |  
+| bip_39_word_no_space_7 | horsefathermadskullslushcleanfork |  
+| bip_39_word_no_space_8 | horsefathermadskullslushcleanforkexcuse |  
+| bip_39_word_no_space_9 | horsefathermadskullslushcleanforkexcuseplay |  
 | bip_39_word_space_0 | ['horse', 'father', 'mad', 'skull', 'slush', 'clean', 'fork', 'excuse', 'play', 'marine', 'smart', 'arrest'] |  
 | bip_39_word_space_1 | horse |  
 | bip_39_word_space_10 | horse father mad skull slush clean fork excuse play marine |  

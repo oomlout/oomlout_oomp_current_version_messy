@@ -122,6 +122,18 @@ drum
 degree
 clinic
 pipe |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewindustryscarecouplenoodledrumdegreeclinicpipedesert |  
+| bip_39_word_no_space_11 | fewindustryscarecouplenoodledrumdegreeclinicpipedesertfancy |  
+| bip_39_word_no_space_12 | fewindustryscarecouplenoodledrumdegreeclinicpipedesertfancyarea |  
+| bip_39_word_no_space_2 | fewindustry |  
+| bip_39_word_no_space_3 | fewindustryscare |  
+| bip_39_word_no_space_4 | fewindustryscarecouple |  
+| bip_39_word_no_space_5 | fewindustryscarecouplenoodle |  
+| bip_39_word_no_space_6 | fewindustryscarecouplenoodledrum |  
+| bip_39_word_no_space_7 | fewindustryscarecouplenoodledrumdegree |  
+| bip_39_word_no_space_8 | fewindustryscarecouplenoodledrumdegreeclinic |  
+| bip_39_word_no_space_9 | fewindustryscarecouplenoodledrumdegreeclinicpipe |  
 | bip_39_word_space_0 | ['few', 'industry', 'scare', 'couple', 'noodle', 'drum', 'degree', 'clinic', 'pipe', 'desert', 'fancy', 'area'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few industry scare couple noodle drum degree clinic pipe desert |  

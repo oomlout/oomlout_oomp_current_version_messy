@@ -122,6 +122,18 @@ garage
 uncover
 live
 amount |  
+| bip_39_word_no_space_1 | custom |  
+| bip_39_word_no_space_10 | customenergywolfaspectanalystgarageuncoverliveamountbread |  
+| bip_39_word_no_space_11 | customenergywolfaspectanalystgarageuncoverliveamountbreadjar |  
+| bip_39_word_no_space_12 | customenergywolfaspectanalystgarageuncoverliveamountbreadjarabout |  
+| bip_39_word_no_space_2 | customenergy |  
+| bip_39_word_no_space_3 | customenergywolf |  
+| bip_39_word_no_space_4 | customenergywolfaspect |  
+| bip_39_word_no_space_5 | customenergywolfaspectanalyst |  
+| bip_39_word_no_space_6 | customenergywolfaspectanalystgarage |  
+| bip_39_word_no_space_7 | customenergywolfaspectanalystgarageuncover |  
+| bip_39_word_no_space_8 | customenergywolfaspectanalystgarageuncoverlive |  
+| bip_39_word_no_space_9 | customenergywolfaspectanalystgarageuncoverliveamount |  
 | bip_39_word_space_0 | ['custom', 'energy', 'wolf', 'aspect', 'analyst', 'garage', 'uncover', 'live', 'amount', 'bread', 'jar', 'about'] |  
 | bip_39_word_space_1 | custom |  
 | bip_39_word_space_10 | custom energy wolf aspect analyst garage uncover live amount bread |  

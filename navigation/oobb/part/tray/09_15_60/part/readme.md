@@ -122,6 +122,18 @@ brisk
 tennis
 smoke
 shed |  
+| bip_39_word_no_space_1 | hawk |  
+| bip_39_word_no_space_10 | hawkthrowpatientviewneglectbrisktennissmokeshedstill |  
+| bip_39_word_no_space_11 | hawkthrowpatientviewneglectbrisktennissmokeshedstilljump |  
+| bip_39_word_no_space_12 | hawkthrowpatientviewneglectbrisktennissmokeshedstilljumpact |  
+| bip_39_word_no_space_2 | hawkthrow |  
+| bip_39_word_no_space_3 | hawkthrowpatient |  
+| bip_39_word_no_space_4 | hawkthrowpatientview |  
+| bip_39_word_no_space_5 | hawkthrowpatientviewneglect |  
+| bip_39_word_no_space_6 | hawkthrowpatientviewneglectbrisk |  
+| bip_39_word_no_space_7 | hawkthrowpatientviewneglectbrisktennis |  
+| bip_39_word_no_space_8 | hawkthrowpatientviewneglectbrisktennissmoke |  
+| bip_39_word_no_space_9 | hawkthrowpatientviewneglectbrisktennissmokeshed |  
 | bip_39_word_space_0 | ['hawk', 'throw', 'patient', 'view', 'neglect', 'brisk', 'tennis', 'smoke', 'shed', 'still', 'jump', 'act'] |  
 | bip_39_word_space_1 | hawk |  
 | bip_39_word_space_10 | hawk throw patient view neglect brisk tennis smoke shed still |  

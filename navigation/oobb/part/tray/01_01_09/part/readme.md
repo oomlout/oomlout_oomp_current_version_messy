@@ -122,6 +122,18 @@ decade
 mention
 mandate
 bomb |  
+| bip_39_word_no_space_1 | force |  
+| bip_39_word_no_space_10 | forceeastradioendgarlicdecadementionmandatebombcabin |  
+| bip_39_word_no_space_11 | forceeastradioendgarlicdecadementionmandatebombcabinfalse |  
+| bip_39_word_no_space_12 | forceeastradioendgarlicdecadementionmandatebombcabinfalseartist |  
+| bip_39_word_no_space_2 | forceeast |  
+| bip_39_word_no_space_3 | forceeastradio |  
+| bip_39_word_no_space_4 | forceeastradioend |  
+| bip_39_word_no_space_5 | forceeastradioendgarlic |  
+| bip_39_word_no_space_6 | forceeastradioendgarlicdecade |  
+| bip_39_word_no_space_7 | forceeastradioendgarlicdecademention |  
+| bip_39_word_no_space_8 | forceeastradioendgarlicdecadementionmandate |  
+| bip_39_word_no_space_9 | forceeastradioendgarlicdecadementionmandatebomb |  
 | bip_39_word_space_0 | ['force', 'east', 'radio', 'end', 'garlic', 'decade', 'mention', 'mandate', 'bomb', 'cabin', 'false', 'artist'] |  
 | bip_39_word_space_1 | force |  
 | bip_39_word_space_10 | force east radio end garlic decade mention mandate bomb cabin |  

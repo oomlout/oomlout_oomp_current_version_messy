@@ -122,6 +122,18 @@ pink
 rent
 round
 fitness |  
+| bip_39_word_no_space_1 | width |  
+| bip_39_word_no_space_10 | widthpredictsoundquotedebrispinkrentroundfitnesschase |  
+| bip_39_word_no_space_11 | widthpredictsoundquotedebrispinkrentroundfitnesschaseoyster |  
+| bip_39_word_no_space_12 | widthpredictsoundquotedebrispinkrentroundfitnesschaseoysterapprove |  
+| bip_39_word_no_space_2 | widthpredict |  
+| bip_39_word_no_space_3 | widthpredictsound |  
+| bip_39_word_no_space_4 | widthpredictsoundquote |  
+| bip_39_word_no_space_5 | widthpredictsoundquotedebris |  
+| bip_39_word_no_space_6 | widthpredictsoundquotedebrispink |  
+| bip_39_word_no_space_7 | widthpredictsoundquotedebrispinkrent |  
+| bip_39_word_no_space_8 | widthpredictsoundquotedebrispinkrentround |  
+| bip_39_word_no_space_9 | widthpredictsoundquotedebrispinkrentroundfitness |  
 | bip_39_word_space_0 | ['width', 'predict', 'sound', 'quote', 'debris', 'pink', 'rent', 'round', 'fitness', 'chase', 'oyster', 'approve'] |  
 | bip_39_word_space_1 | width |  
 | bip_39_word_space_10 | width predict sound quote debris pink rent round fitness chase |  

@@ -122,6 +122,18 @@ viable
 rocket
 deposit
 private |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffkitwoodstomachcarbonviablerocketdepositprivateelectric |  
+| bip_39_word_no_space_11 | staffkitwoodstomachcarbonviablerocketdepositprivateelectricprefer |  
+| bip_39_word_no_space_12 | staffkitwoodstomachcarbonviablerocketdepositprivateelectricpreferapology |  
+| bip_39_word_no_space_2 | staffkit |  
+| bip_39_word_no_space_3 | staffkitwood |  
+| bip_39_word_no_space_4 | staffkitwoodstomach |  
+| bip_39_word_no_space_5 | staffkitwoodstomachcarbon |  
+| bip_39_word_no_space_6 | staffkitwoodstomachcarbonviable |  
+| bip_39_word_no_space_7 | staffkitwoodstomachcarbonviablerocket |  
+| bip_39_word_no_space_8 | staffkitwoodstomachcarbonviablerocketdeposit |  
+| bip_39_word_no_space_9 | staffkitwoodstomachcarbonviablerocketdepositprivate |  
 | bip_39_word_space_0 | ['staff', 'kit', 'wood', 'stomach', 'carbon', 'viable', 'rocket', 'deposit', 'private', 'electric', 'prefer', 'apology'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff kit wood stomach carbon viable rocket deposit private electric |  

@@ -122,6 +122,18 @@ lunch
 oppose
 zero
 crack |  
+| bip_39_word_no_space_1 | sorry |  
+| bip_39_word_no_space_10 | sorryperfectverifyguessnapkinlunchopposezerocrackdress |  
+| bip_39_word_no_space_11 | sorryperfectverifyguessnapkinlunchopposezerocrackdressswallow |  
+| bip_39_word_no_space_12 | sorryperfectverifyguessnapkinlunchopposezerocrackdressswallowapology |  
+| bip_39_word_no_space_2 | sorryperfect |  
+| bip_39_word_no_space_3 | sorryperfectverify |  
+| bip_39_word_no_space_4 | sorryperfectverifyguess |  
+| bip_39_word_no_space_5 | sorryperfectverifyguessnapkin |  
+| bip_39_word_no_space_6 | sorryperfectverifyguessnapkinlunch |  
+| bip_39_word_no_space_7 | sorryperfectverifyguessnapkinlunchoppose |  
+| bip_39_word_no_space_8 | sorryperfectverifyguessnapkinlunchopposezero |  
+| bip_39_word_no_space_9 | sorryperfectverifyguessnapkinlunchopposezerocrack |  
 | bip_39_word_space_0 | ['sorry', 'perfect', 'verify', 'guess', 'napkin', 'lunch', 'oppose', 'zero', 'crack', 'dress', 'swallow', 'apology'] |  
 | bip_39_word_space_1 | sorry |  
 | bip_39_word_space_10 | sorry perfect verify guess napkin lunch oppose zero crack dress |  

@@ -122,6 +122,18 @@ nation
 junior
 hazard
 draft |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brassensurebattleladdercranenationjuniorhazarddraftcinnamon |  
+| bip_39_word_no_space_11 | brassensurebattleladdercranenationjuniorhazarddraftcinnamonrazor |  
+| bip_39_word_no_space_12 | brassensurebattleladdercranenationjuniorhazarddraftcinnamonrazorauto |  
+| bip_39_word_no_space_2 | brassensure |  
+| bip_39_word_no_space_3 | brassensurebattle |  
+| bip_39_word_no_space_4 | brassensurebattleladder |  
+| bip_39_word_no_space_5 | brassensurebattleladdercrane |  
+| bip_39_word_no_space_6 | brassensurebattleladdercranenation |  
+| bip_39_word_no_space_7 | brassensurebattleladdercranenationjunior |  
+| bip_39_word_no_space_8 | brassensurebattleladdercranenationjuniorhazard |  
+| bip_39_word_no_space_9 | brassensurebattleladdercranenationjuniorhazarddraft |  
 | bip_39_word_space_0 | ['brass', 'ensure', 'battle', 'ladder', 'crane', 'nation', 'junior', 'hazard', 'draft', 'cinnamon', 'razor', 'auto'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass ensure battle ladder crane nation junior hazard draft cinnamon |  

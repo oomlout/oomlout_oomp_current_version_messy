@@ -122,6 +122,18 @@ belt
 priority
 exclude
 come |  
+| bip_39_word_no_space_1 | nose |  
+| bip_39_word_no_space_10 | nosehardcousinvesselgunbeltpriorityexcludecomeagent |  
+| bip_39_word_no_space_11 | nosehardcousinvesselgunbeltpriorityexcludecomeagentexcite |  
+| bip_39_word_no_space_12 | nosehardcousinvesselgunbeltpriorityexcludecomeagentexciteanimal |  
+| bip_39_word_no_space_2 | nosehard |  
+| bip_39_word_no_space_3 | nosehardcousin |  
+| bip_39_word_no_space_4 | nosehardcousinvessel |  
+| bip_39_word_no_space_5 | nosehardcousinvesselgun |  
+| bip_39_word_no_space_6 | nosehardcousinvesselgunbelt |  
+| bip_39_word_no_space_7 | nosehardcousinvesselgunbeltpriority |  
+| bip_39_word_no_space_8 | nosehardcousinvesselgunbeltpriorityexclude |  
+| bip_39_word_no_space_9 | nosehardcousinvesselgunbeltpriorityexcludecome |  
 | bip_39_word_space_0 | ['nose', 'hard', 'cousin', 'vessel', 'gun', 'belt', 'priority', 'exclude', 'come', 'agent', 'excite', 'animal'] |  
 | bip_39_word_space_1 | nose |  
 | bip_39_word_space_10 | nose hard cousin vessel gun belt priority exclude come agent |  

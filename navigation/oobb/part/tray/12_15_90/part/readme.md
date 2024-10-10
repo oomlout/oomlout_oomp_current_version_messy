@@ -122,6 +122,18 @@ evolve
 impose
 public
 cruise |  
+| bip_39_word_no_space_1 | involve |  
+| bip_39_word_no_space_10 | involvealtermechanicchoosearmevolveimposepubliccruiseclerk |  
+| bip_39_word_no_space_11 | involvealtermechanicchoosearmevolveimposepubliccruiseclerkpole |  
+| bip_39_word_no_space_12 | involvealtermechanicchoosearmevolveimposepubliccruiseclerkpoleanalyst |  
+| bip_39_word_no_space_2 | involvealter |  
+| bip_39_word_no_space_3 | involvealtermechanic |  
+| bip_39_word_no_space_4 | involvealtermechanicchoose |  
+| bip_39_word_no_space_5 | involvealtermechanicchoosearm |  
+| bip_39_word_no_space_6 | involvealtermechanicchoosearmevolve |  
+| bip_39_word_no_space_7 | involvealtermechanicchoosearmevolveimpose |  
+| bip_39_word_no_space_8 | involvealtermechanicchoosearmevolveimposepublic |  
+| bip_39_word_no_space_9 | involvealtermechanicchoosearmevolveimposepubliccruise |  
 | bip_39_word_space_0 | ['involve', 'alter', 'mechanic', 'choose', 'arm', 'evolve', 'impose', 'public', 'cruise', 'clerk', 'pole', 'analyst'] |  
 | bip_39_word_space_1 | involve |  
 | bip_39_word_space_10 | involve alter mechanic choose arm evolve impose public cruise clerk |  

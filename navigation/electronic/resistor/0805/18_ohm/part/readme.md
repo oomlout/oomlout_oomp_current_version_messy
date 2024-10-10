@@ -122,6 +122,18 @@ panel
 solar
 dismiss
 want |  
+| bip_39_word_no_space_1 | interest |  
+| bip_39_word_no_space_10 | interestrebelmiseryfoilbeefpanelsolardismisswantcomfort |  
+| bip_39_word_no_space_11 | interestrebelmiseryfoilbeefpanelsolardismisswantcomfortbar |  
+| bip_39_word_no_space_12 | interestrebelmiseryfoilbeefpanelsolardismisswantcomfortbaraccuse |  
+| bip_39_word_no_space_2 | interestrebel |  
+| bip_39_word_no_space_3 | interestrebelmisery |  
+| bip_39_word_no_space_4 | interestrebelmiseryfoil |  
+| bip_39_word_no_space_5 | interestrebelmiseryfoilbeef |  
+| bip_39_word_no_space_6 | interestrebelmiseryfoilbeefpanel |  
+| bip_39_word_no_space_7 | interestrebelmiseryfoilbeefpanelsolar |  
+| bip_39_word_no_space_8 | interestrebelmiseryfoilbeefpanelsolardismiss |  
+| bip_39_word_no_space_9 | interestrebelmiseryfoilbeefpanelsolardismisswant |  
 | bip_39_word_space_0 | ['interest', 'rebel', 'misery', 'foil', 'beef', 'panel', 'solar', 'dismiss', 'want', 'comfort', 'bar', 'accuse'] |  
 | bip_39_word_space_1 | interest |  
 | bip_39_word_space_10 | interest rebel misery foil beef panel solar dismiss want comfort |  

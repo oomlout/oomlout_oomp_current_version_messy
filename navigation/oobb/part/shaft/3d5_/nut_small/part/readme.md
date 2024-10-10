@@ -122,6 +122,18 @@ foam
 answer
 dog
 pen |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | henpurposedizzyraventribefoamanswerdogpenpurchase |  
+| bip_39_word_no_space_11 | henpurposedizzyraventribefoamanswerdogpenpurchasevalley |  
+| bip_39_word_no_space_12 | henpurposedizzyraventribefoamanswerdogpenpurchasevalleyattitude |  
+| bip_39_word_no_space_2 | henpurpose |  
+| bip_39_word_no_space_3 | henpurposedizzy |  
+| bip_39_word_no_space_4 | henpurposedizzyraven |  
+| bip_39_word_no_space_5 | henpurposedizzyraventribe |  
+| bip_39_word_no_space_6 | henpurposedizzyraventribefoam |  
+| bip_39_word_no_space_7 | henpurposedizzyraventribefoamanswer |  
+| bip_39_word_no_space_8 | henpurposedizzyraventribefoamanswerdog |  
+| bip_39_word_no_space_9 | henpurposedizzyraventribefoamanswerdogpen |  
 | bip_39_word_space_0 | ['hen', 'purpose', 'dizzy', 'raven', 'tribe', 'foam', 'answer', 'dog', 'pen', 'purchase', 'valley', 'attitude'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen purpose dizzy raven tribe foam answer dog pen purchase |  

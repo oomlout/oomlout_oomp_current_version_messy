@@ -122,6 +122,18 @@ early
 shallow
 wagon
 service |  
+| bip_39_word_no_space_1 | pipe |  
+| bip_39_word_no_space_10 | pipekissjumpsweetskateearlyshallowwagonservicewide |  
+| bip_39_word_no_space_11 | pipekissjumpsweetskateearlyshallowwagonservicewidemom |  
+| bip_39_word_no_space_12 | pipekissjumpsweetskateearlyshallowwagonservicewidemomantique |  
+| bip_39_word_no_space_2 | pipekiss |  
+| bip_39_word_no_space_3 | pipekissjump |  
+| bip_39_word_no_space_4 | pipekissjumpsweet |  
+| bip_39_word_no_space_5 | pipekissjumpsweetskate |  
+| bip_39_word_no_space_6 | pipekissjumpsweetskateearly |  
+| bip_39_word_no_space_7 | pipekissjumpsweetskateearlyshallow |  
+| bip_39_word_no_space_8 | pipekissjumpsweetskateearlyshallowwagon |  
+| bip_39_word_no_space_9 | pipekissjumpsweetskateearlyshallowwagonservice |  
 | bip_39_word_space_0 | ['pipe', 'kiss', 'jump', 'sweet', 'skate', 'early', 'shallow', 'wagon', 'service', 'wide', 'mom', 'antique'] |  
 | bip_39_word_space_1 | pipe |  
 | bip_39_word_space_10 | pipe kiss jump sweet skate early shallow wagon service wide |  

@@ -122,6 +122,18 @@ scissors
 universe
 century
 refuse |  
+| bip_39_word_no_space_1 | bachelor |  
+| bip_39_word_no_space_10 | bachelorhybridclimbproblemcatscissorsuniversecenturyrefuseantenna |  
+| bip_39_word_no_space_11 | bachelorhybridclimbproblemcatscissorsuniversecenturyrefuseantennasafe |  
+| bip_39_word_no_space_12 | bachelorhybridclimbproblemcatscissorsuniversecenturyrefuseantennasafealley |  
+| bip_39_word_no_space_2 | bachelorhybrid |  
+| bip_39_word_no_space_3 | bachelorhybridclimb |  
+| bip_39_word_no_space_4 | bachelorhybridclimbproblem |  
+| bip_39_word_no_space_5 | bachelorhybridclimbproblemcat |  
+| bip_39_word_no_space_6 | bachelorhybridclimbproblemcatscissors |  
+| bip_39_word_no_space_7 | bachelorhybridclimbproblemcatscissorsuniverse |  
+| bip_39_word_no_space_8 | bachelorhybridclimbproblemcatscissorsuniversecentury |  
+| bip_39_word_no_space_9 | bachelorhybridclimbproblemcatscissorsuniversecenturyrefuse |  
 | bip_39_word_space_0 | ['bachelor', 'hybrid', 'climb', 'problem', 'cat', 'scissors', 'universe', 'century', 'refuse', 'antenna', 'safe', 'alley'] |  
 | bip_39_word_space_1 | bachelor |  
 | bip_39_word_space_10 | bachelor hybrid climb problem cat scissors universe century refuse antenna |  

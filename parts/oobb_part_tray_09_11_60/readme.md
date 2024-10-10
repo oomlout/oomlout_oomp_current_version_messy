@@ -122,6 +122,18 @@ clever
 agree
 crucial
 switch |  
+| bip_39_word_no_space_1 | add |  
+| bip_39_word_no_space_10 | addimposedecemberorangevillagecleveragreecrucialswitchtoday |  
+| bip_39_word_no_space_11 | addimposedecemberorangevillagecleveragreecrucialswitchtodayspecial |  
+| bip_39_word_no_space_12 | addimposedecemberorangevillagecleveragreecrucialswitchtodayspecialaccuse |  
+| bip_39_word_no_space_2 | addimpose |  
+| bip_39_word_no_space_3 | addimposedecember |  
+| bip_39_word_no_space_4 | addimposedecemberorange |  
+| bip_39_word_no_space_5 | addimposedecemberorangevillage |  
+| bip_39_word_no_space_6 | addimposedecemberorangevillageclever |  
+| bip_39_word_no_space_7 | addimposedecemberorangevillagecleveragree |  
+| bip_39_word_no_space_8 | addimposedecemberorangevillagecleveragreecrucial |  
+| bip_39_word_no_space_9 | addimposedecemberorangevillagecleveragreecrucialswitch |  
 | bip_39_word_space_0 | ['add', 'impose', 'december', 'orange', 'village', 'clever', 'agree', 'crucial', 'switch', 'today', 'special', 'accuse'] |  
 | bip_39_word_space_1 | add |  
 | bip_39_word_space_10 | add impose december orange village clever agree crucial switch today |  

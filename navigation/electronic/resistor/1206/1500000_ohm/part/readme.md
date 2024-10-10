@@ -122,6 +122,18 @@ cloth
 prison
 tongue
 unable |  
+| bip_39_word_no_space_1 | apology |  
+| bip_39_word_no_space_10 | apologyelementspyentryspringclothprisontongueunableoccur |  
+| bip_39_word_no_space_11 | apologyelementspyentryspringclothprisontongueunableoccurshadow |  
+| bip_39_word_no_space_12 | apologyelementspyentryspringclothprisontongueunableoccurshadowaudit |  
+| bip_39_word_no_space_2 | apologyelement |  
+| bip_39_word_no_space_3 | apologyelementspy |  
+| bip_39_word_no_space_4 | apologyelementspyentry |  
+| bip_39_word_no_space_5 | apologyelementspyentryspring |  
+| bip_39_word_no_space_6 | apologyelementspyentryspringcloth |  
+| bip_39_word_no_space_7 | apologyelementspyentryspringclothprison |  
+| bip_39_word_no_space_8 | apologyelementspyentryspringclothprisontongue |  
+| bip_39_word_no_space_9 | apologyelementspyentryspringclothprisontongueunable |  
 | bip_39_word_space_0 | ['apology', 'element', 'spy', 'entry', 'spring', 'cloth', 'prison', 'tongue', 'unable', 'occur', 'shadow', 'audit'] |  
 | bip_39_word_space_1 | apology |  
 | bip_39_word_space_10 | apology element spy entry spring cloth prison tongue unable occur |  

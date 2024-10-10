@@ -122,6 +122,18 @@ cube
 furnace
 suspect
 spread |  
+| bip_39_word_no_space_1 | device |  
+| bip_39_word_no_space_10 | devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundry |  
+| bip_39_word_no_space_11 | devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundrydivorce |  
+| bip_39_word_no_space_12 | devicetargetplanetyouthfluidcubefurnacesuspectspreadlaundrydivorceamateur |  
+| bip_39_word_no_space_2 | devicetarget |  
+| bip_39_word_no_space_3 | devicetargetplanet |  
+| bip_39_word_no_space_4 | devicetargetplanetyouth |  
+| bip_39_word_no_space_5 | devicetargetplanetyouthfluid |  
+| bip_39_word_no_space_6 | devicetargetplanetyouthfluidcube |  
+| bip_39_word_no_space_7 | devicetargetplanetyouthfluidcubefurnace |  
+| bip_39_word_no_space_8 | devicetargetplanetyouthfluidcubefurnacesuspect |  
+| bip_39_word_no_space_9 | devicetargetplanetyouthfluidcubefurnacesuspectspread |  
 | bip_39_word_space_0 | ['device', 'target', 'planet', 'youth', 'fluid', 'cube', 'furnace', 'suspect', 'spread', 'laundry', 'divorce', 'amateur'] |  
 | bip_39_word_space_1 | device |  
 | bip_39_word_space_10 | device target planet youth fluid cube furnace suspect spread laundry |  

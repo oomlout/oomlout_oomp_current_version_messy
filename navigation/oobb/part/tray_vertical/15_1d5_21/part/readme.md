@@ -122,6 +122,18 @@ dose
 stable
 grow
 knock |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagekiwibalanceaccusementiondosestablegrowknockcomic |  
+| bip_39_word_no_space_11 | cagekiwibalanceaccusementiondosestablegrowknockcomicstumble |  
+| bip_39_word_no_space_12 | cagekiwibalanceaccusementiondosestablegrowknockcomicstumbleanalyst |  
+| bip_39_word_no_space_2 | cagekiwi |  
+| bip_39_word_no_space_3 | cagekiwibalance |  
+| bip_39_word_no_space_4 | cagekiwibalanceaccuse |  
+| bip_39_word_no_space_5 | cagekiwibalanceaccusemention |  
+| bip_39_word_no_space_6 | cagekiwibalanceaccusementiondose |  
+| bip_39_word_no_space_7 | cagekiwibalanceaccusementiondosestable |  
+| bip_39_word_no_space_8 | cagekiwibalanceaccusementiondosestablegrow |  
+| bip_39_word_no_space_9 | cagekiwibalanceaccusementiondosestablegrowknock |  
 | bip_39_word_space_0 | ['cage', 'kiwi', 'balance', 'accuse', 'mention', 'dose', 'stable', 'grow', 'knock', 'comic', 'stumble', 'analyst'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage kiwi balance accuse mention dose stable grow knock comic |  

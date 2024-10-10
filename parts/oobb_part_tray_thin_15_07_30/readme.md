@@ -122,6 +122,18 @@ boil
 lecture
 wish
 forget |  
+| bip_39_word_no_space_1 | vacant |  
+| bip_39_word_no_space_10 | vacantselectdestroydietmythboillecturewishforgetperson |  
+| bip_39_word_no_space_11 | vacantselectdestroydietmythboillecturewishforgetpersondirect |  
+| bip_39_word_no_space_12 | vacantselectdestroydietmythboillecturewishforgetpersondirectalmost |  
+| bip_39_word_no_space_2 | vacantselect |  
+| bip_39_word_no_space_3 | vacantselectdestroy |  
+| bip_39_word_no_space_4 | vacantselectdestroydiet |  
+| bip_39_word_no_space_5 | vacantselectdestroydietmyth |  
+| bip_39_word_no_space_6 | vacantselectdestroydietmythboil |  
+| bip_39_word_no_space_7 | vacantselectdestroydietmythboillecture |  
+| bip_39_word_no_space_8 | vacantselectdestroydietmythboillecturewish |  
+| bip_39_word_no_space_9 | vacantselectdestroydietmythboillecturewishforget |  
 | bip_39_word_space_0 | ['vacant', 'select', 'destroy', 'diet', 'myth', 'boil', 'lecture', 'wish', 'forget', 'person', 'direct', 'almost'] |  
 | bip_39_word_space_1 | vacant |  
 | bip_39_word_space_10 | vacant select destroy diet myth boil lecture wish forget person |  

@@ -122,6 +122,18 @@ island
 hint
 claw
 term |  
+| bip_39_word_no_space_1 | junk |  
+| bip_39_word_no_space_10 | junkhobbycrackchargemasterislandhintclawtermvery |  
+| bip_39_word_no_space_11 | junkhobbycrackchargemasterislandhintclawtermveryswim |  
+| bip_39_word_no_space_12 | junkhobbycrackchargemasterislandhintclawtermveryswimanalyst |  
+| bip_39_word_no_space_2 | junkhobby |  
+| bip_39_word_no_space_3 | junkhobbycrack |  
+| bip_39_word_no_space_4 | junkhobbycrackcharge |  
+| bip_39_word_no_space_5 | junkhobbycrackchargemaster |  
+| bip_39_word_no_space_6 | junkhobbycrackchargemasterisland |  
+| bip_39_word_no_space_7 | junkhobbycrackchargemasterislandhint |  
+| bip_39_word_no_space_8 | junkhobbycrackchargemasterislandhintclaw |  
+| bip_39_word_no_space_9 | junkhobbycrackchargemasterislandhintclawterm |  
 | bip_39_word_space_0 | ['junk', 'hobby', 'crack', 'charge', 'master', 'island', 'hint', 'claw', 'term', 'very', 'swim', 'analyst'] |  
 | bip_39_word_space_1 | junk |  
 | bip_39_word_space_10 | junk hobby crack charge master island hint claw term very |  

@@ -122,6 +122,18 @@ spell
 omit
 laundry
 damage |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallyloudwashbaconlecturespellomitlaundrydamagechampion |  
+| bip_39_word_no_space_11 | rallyloudwashbaconlecturespellomitlaundrydamagechampionfigure |  
+| bip_39_word_no_space_12 | rallyloudwashbaconlecturespellomitlaundrydamagechampionfigureankle |  
+| bip_39_word_no_space_2 | rallyloud |  
+| bip_39_word_no_space_3 | rallyloudwash |  
+| bip_39_word_no_space_4 | rallyloudwashbacon |  
+| bip_39_word_no_space_5 | rallyloudwashbaconlecture |  
+| bip_39_word_no_space_6 | rallyloudwashbaconlecturespell |  
+| bip_39_word_no_space_7 | rallyloudwashbaconlecturespellomit |  
+| bip_39_word_no_space_8 | rallyloudwashbaconlecturespellomitlaundry |  
+| bip_39_word_no_space_9 | rallyloudwashbaconlecturespellomitlaundrydamage |  
 | bip_39_word_space_0 | ['rally', 'loud', 'wash', 'bacon', 'lecture', 'spell', 'omit', 'laundry', 'damage', 'champion', 'figure', 'ankle'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally loud wash bacon lecture spell omit laundry damage champion |  

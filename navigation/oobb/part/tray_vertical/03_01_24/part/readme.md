@@ -122,6 +122,18 @@ then
 lava
 focus
 rice |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatconductdignityacidhammerthenlavafocusricepanel |  
+| bip_39_word_no_space_11 | boatconductdignityacidhammerthenlavafocusricepaneltravel |  
+| bip_39_word_no_space_12 | boatconductdignityacidhammerthenlavafocusricepaneltravelacross |  
+| bip_39_word_no_space_2 | boatconduct |  
+| bip_39_word_no_space_3 | boatconductdignity |  
+| bip_39_word_no_space_4 | boatconductdignityacid |  
+| bip_39_word_no_space_5 | boatconductdignityacidhammer |  
+| bip_39_word_no_space_6 | boatconductdignityacidhammerthen |  
+| bip_39_word_no_space_7 | boatconductdignityacidhammerthenlava |  
+| bip_39_word_no_space_8 | boatconductdignityacidhammerthenlavafocus |  
+| bip_39_word_no_space_9 | boatconductdignityacidhammerthenlavafocusrice |  
 | bip_39_word_space_0 | ['boat', 'conduct', 'dignity', 'acid', 'hammer', 'then', 'lava', 'focus', 'rice', 'panel', 'travel', 'across'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat conduct dignity acid hammer then lava focus rice panel |  

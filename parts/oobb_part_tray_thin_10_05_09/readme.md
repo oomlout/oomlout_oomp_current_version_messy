@@ -122,6 +122,18 @@ obscure
 solution
 pretty
 relief |  
+| bip_39_word_no_space_1 | parent |  
+| bip_39_word_no_space_10 | parentworkbaconcatalogsupremeobscuresolutionprettyreliefresist |  
+| bip_39_word_no_space_11 | parentworkbaconcatalogsupremeobscuresolutionprettyreliefresistfoster |  
+| bip_39_word_no_space_12 | parentworkbaconcatalogsupremeobscuresolutionprettyreliefresistfosterabove |  
+| bip_39_word_no_space_2 | parentwork |  
+| bip_39_word_no_space_3 | parentworkbacon |  
+| bip_39_word_no_space_4 | parentworkbaconcatalog |  
+| bip_39_word_no_space_5 | parentworkbaconcatalogsupreme |  
+| bip_39_word_no_space_6 | parentworkbaconcatalogsupremeobscure |  
+| bip_39_word_no_space_7 | parentworkbaconcatalogsupremeobscuresolution |  
+| bip_39_word_no_space_8 | parentworkbaconcatalogsupremeobscuresolutionpretty |  
+| bip_39_word_no_space_9 | parentworkbaconcatalogsupremeobscuresolutionprettyrelief |  
 | bip_39_word_space_0 | ['parent', 'work', 'bacon', 'catalog', 'supreme', 'obscure', 'solution', 'pretty', 'relief', 'resist', 'foster', 'above'] |  
 | bip_39_word_space_1 | parent |  
 | bip_39_word_space_10 | parent work bacon catalog supreme obscure solution pretty relief resist |  

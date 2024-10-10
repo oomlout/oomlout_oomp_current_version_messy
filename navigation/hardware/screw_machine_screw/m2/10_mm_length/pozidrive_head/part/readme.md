@@ -122,6 +122,18 @@ observe
 run
 void
 call |  
+| bip_39_word_no_space_1 | pupil |  
+| bip_39_word_no_space_10 | pupilabstractseatcheckcrushobserverunvoidcallsecurity |  
+| bip_39_word_no_space_11 | pupilabstractseatcheckcrushobserverunvoidcallsecurityupon |  
+| bip_39_word_no_space_12 | pupilabstractseatcheckcrushobserverunvoidcallsecurityuponafraid |  
+| bip_39_word_no_space_2 | pupilabstract |  
+| bip_39_word_no_space_3 | pupilabstractseat |  
+| bip_39_word_no_space_4 | pupilabstractseatcheck |  
+| bip_39_word_no_space_5 | pupilabstractseatcheckcrush |  
+| bip_39_word_no_space_6 | pupilabstractseatcheckcrushobserve |  
+| bip_39_word_no_space_7 | pupilabstractseatcheckcrushobserverun |  
+| bip_39_word_no_space_8 | pupilabstractseatcheckcrushobserverunvoid |  
+| bip_39_word_no_space_9 | pupilabstractseatcheckcrushobserverunvoidcall |  
 | bip_39_word_space_0 | ['pupil', 'abstract', 'seat', 'check', 'crush', 'observe', 'run', 'void', 'call', 'security', 'upon', 'afraid'] |  
 | bip_39_word_space_1 | pupil |  
 | bip_39_word_space_10 | pupil abstract seat check crush observe run void call security |  

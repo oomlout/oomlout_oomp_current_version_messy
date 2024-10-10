@@ -122,6 +122,18 @@ patch
 subway
 obvious
 trust |  
+| bip_39_word_no_space_1 | range |  
+| bip_39_word_no_space_10 | rangedicebusglovegeniuspatchsubwayobvioustrustbarrel |  
+| bip_39_word_no_space_11 | rangedicebusglovegeniuspatchsubwayobvioustrustbarrelinjury |  
+| bip_39_word_no_space_12 | rangedicebusglovegeniuspatchsubwayobvioustrustbarrelinjuryadd |  
+| bip_39_word_no_space_2 | rangedice |  
+| bip_39_word_no_space_3 | rangedicebus |  
+| bip_39_word_no_space_4 | rangedicebusglove |  
+| bip_39_word_no_space_5 | rangedicebusglovegenius |  
+| bip_39_word_no_space_6 | rangedicebusglovegeniuspatch |  
+| bip_39_word_no_space_7 | rangedicebusglovegeniuspatchsubway |  
+| bip_39_word_no_space_8 | rangedicebusglovegeniuspatchsubwayobvious |  
+| bip_39_word_no_space_9 | rangedicebusglovegeniuspatchsubwayobvioustrust |  
 | bip_39_word_space_0 | ['range', 'dice', 'bus', 'glove', 'genius', 'patch', 'subway', 'obvious', 'trust', 'barrel', 'injury', 'add'] |  
 | bip_39_word_space_1 | range |  
 | bip_39_word_space_10 | range dice bus glove genius patch subway obvious trust barrel |  

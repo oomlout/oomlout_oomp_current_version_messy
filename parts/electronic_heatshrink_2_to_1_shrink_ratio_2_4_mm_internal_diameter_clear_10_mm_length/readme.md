@@ -122,6 +122,18 @@ vanish
 lemon
 virus
 raise |  
+| bip_39_word_no_space_1 | capital |  
+| bip_39_word_no_space_10 | capitalzonestrategysevensilvervanishlemonvirusraisewonder |  
+| bip_39_word_no_space_11 | capitalzonestrategysevensilvervanishlemonvirusraisewondertoy |  
+| bip_39_word_no_space_12 | capitalzonestrategysevensilvervanishlemonvirusraisewondertoyable |  
+| bip_39_word_no_space_2 | capitalzone |  
+| bip_39_word_no_space_3 | capitalzonestrategy |  
+| bip_39_word_no_space_4 | capitalzonestrategyseven |  
+| bip_39_word_no_space_5 | capitalzonestrategysevensilver |  
+| bip_39_word_no_space_6 | capitalzonestrategysevensilvervanish |  
+| bip_39_word_no_space_7 | capitalzonestrategysevensilvervanishlemon |  
+| bip_39_word_no_space_8 | capitalzonestrategysevensilvervanishlemonvirus |  
+| bip_39_word_no_space_9 | capitalzonestrategysevensilvervanishlemonvirusraise |  
 | bip_39_word_space_0 | ['capital', 'zone', 'strategy', 'seven', 'silver', 'vanish', 'lemon', 'virus', 'raise', 'wonder', 'toy', 'able'] |  
 | bip_39_word_space_1 | capital |  
 | bip_39_word_space_10 | capital zone strategy seven silver vanish lemon virus raise wonder |  

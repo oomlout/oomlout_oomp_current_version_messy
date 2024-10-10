@@ -122,6 +122,18 @@ quality
 portion
 private
 target |  
+| bip_39_word_no_space_1 | prevent |  
+| bip_39_word_no_space_10 | preventclickfreshloopdinosaurqualityportionprivatetargetbuild |  
+| bip_39_word_no_space_11 | preventclickfreshloopdinosaurqualityportionprivatetargetbuildsafe |  
+| bip_39_word_no_space_12 | preventclickfreshloopdinosaurqualityportionprivatetargetbuildsafearmed |  
+| bip_39_word_no_space_2 | preventclick |  
+| bip_39_word_no_space_3 | preventclickfresh |  
+| bip_39_word_no_space_4 | preventclickfreshloop |  
+| bip_39_word_no_space_5 | preventclickfreshloopdinosaur |  
+| bip_39_word_no_space_6 | preventclickfreshloopdinosaurquality |  
+| bip_39_word_no_space_7 | preventclickfreshloopdinosaurqualityportion |  
+| bip_39_word_no_space_8 | preventclickfreshloopdinosaurqualityportionprivate |  
+| bip_39_word_no_space_9 | preventclickfreshloopdinosaurqualityportionprivatetarget |  
 | bip_39_word_space_0 | ['prevent', 'click', 'fresh', 'loop', 'dinosaur', 'quality', 'portion', 'private', 'target', 'build', 'safe', 'armed'] |  
 | bip_39_word_space_1 | prevent |  
 | bip_39_word_space_10 | prevent click fresh loop dinosaur quality portion private target build |  

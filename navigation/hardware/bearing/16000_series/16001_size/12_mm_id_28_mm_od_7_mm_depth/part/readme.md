@@ -122,6 +122,18 @@ notable
 rose
 globe
 wisdom |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | sampleviciousmarinecaughtluckynotableroseglobewisdomblack |  
+| bip_39_word_no_space_11 | sampleviciousmarinecaughtluckynotableroseglobewisdomblackcluster |  
+| bip_39_word_no_space_12 | sampleviciousmarinecaughtluckynotableroseglobewisdomblackclusteralpha |  
+| bip_39_word_no_space_2 | samplevicious |  
+| bip_39_word_no_space_3 | sampleviciousmarine |  
+| bip_39_word_no_space_4 | sampleviciousmarinecaught |  
+| bip_39_word_no_space_5 | sampleviciousmarinecaughtlucky |  
+| bip_39_word_no_space_6 | sampleviciousmarinecaughtluckynotable |  
+| bip_39_word_no_space_7 | sampleviciousmarinecaughtluckynotablerose |  
+| bip_39_word_no_space_8 | sampleviciousmarinecaughtluckynotableroseglobe |  
+| bip_39_word_no_space_9 | sampleviciousmarinecaughtluckynotableroseglobewisdom |  
 | bip_39_word_space_0 | ['sample', 'vicious', 'marine', 'caught', 'lucky', 'notable', 'rose', 'globe', 'wisdom', 'black', 'cluster', 'alpha'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample vicious marine caught lucky notable rose globe wisdom black |  

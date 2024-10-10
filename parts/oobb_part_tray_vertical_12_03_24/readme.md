@@ -122,6 +122,18 @@ devote
 table
 cactus
 between |  
+| bip_39_word_no_space_1 | load |  
+| bip_39_word_no_space_10 | loadtonightstuffarguebraindevotetablecactusbetweenboil |  
+| bip_39_word_no_space_11 | loadtonightstuffarguebraindevotetablecactusbetweenboilkey |  
+| bip_39_word_no_space_12 | loadtonightstuffarguebraindevotetablecactusbetweenboilkeyaccuse |  
+| bip_39_word_no_space_2 | loadtonight |  
+| bip_39_word_no_space_3 | loadtonightstuff |  
+| bip_39_word_no_space_4 | loadtonightstuffargue |  
+| bip_39_word_no_space_5 | loadtonightstuffarguebrain |  
+| bip_39_word_no_space_6 | loadtonightstuffarguebraindevote |  
+| bip_39_word_no_space_7 | loadtonightstuffarguebraindevotetable |  
+| bip_39_word_no_space_8 | loadtonightstuffarguebraindevotetablecactus |  
+| bip_39_word_no_space_9 | loadtonightstuffarguebraindevotetablecactusbetween |  
 | bip_39_word_space_0 | ['load', 'tonight', 'stuff', 'argue', 'brain', 'devote', 'table', 'cactus', 'between', 'boil', 'key', 'accuse'] |  
 | bip_39_word_space_1 | load |  
 | bip_39_word_space_10 | load tonight stuff argue brain devote table cactus between boil |  

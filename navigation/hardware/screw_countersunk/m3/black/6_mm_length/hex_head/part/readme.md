@@ -122,6 +122,18 @@ swamp
 immune
 silent
 satisfy |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccerteamprettytroubleembodyswampimmunesilentsatisfycoyote |  
+| bip_39_word_no_space_11 | soccerteamprettytroubleembodyswampimmunesilentsatisfycoyotetent |  
+| bip_39_word_no_space_12 | soccerteamprettytroubleembodyswampimmunesilentsatisfycoyotetentarrange |  
+| bip_39_word_no_space_2 | soccerteam |  
+| bip_39_word_no_space_3 | soccerteampretty |  
+| bip_39_word_no_space_4 | soccerteamprettytrouble |  
+| bip_39_word_no_space_5 | soccerteamprettytroubleembody |  
+| bip_39_word_no_space_6 | soccerteamprettytroubleembodyswamp |  
+| bip_39_word_no_space_7 | soccerteamprettytroubleembodyswampimmune |  
+| bip_39_word_no_space_8 | soccerteamprettytroubleembodyswampimmunesilent |  
+| bip_39_word_no_space_9 | soccerteamprettytroubleembodyswampimmunesilentsatisfy |  
 | bip_39_word_space_0 | ['soccer', 'team', 'pretty', 'trouble', 'embody', 'swamp', 'immune', 'silent', 'satisfy', 'coyote', 'tent', 'arrange'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer team pretty trouble embody swamp immune silent satisfy coyote |  

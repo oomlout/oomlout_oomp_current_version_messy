@@ -122,6 +122,18 @@ dune
 kangaroo
 ensure
 elite |  
+| bip_39_word_no_space_1 | supply |  
+| bip_39_word_no_space_10 | supplycactusoffacrossgamedunekangarooensureeliteguitar |  
+| bip_39_word_no_space_11 | supplycactusoffacrossgamedunekangarooensureeliteguitarelephant |  
+| bip_39_word_no_space_12 | supplycactusoffacrossgamedunekangarooensureeliteguitarelephantadapt |  
+| bip_39_word_no_space_2 | supplycactus |  
+| bip_39_word_no_space_3 | supplycactusoff |  
+| bip_39_word_no_space_4 | supplycactusoffacross |  
+| bip_39_word_no_space_5 | supplycactusoffacrossgame |  
+| bip_39_word_no_space_6 | supplycactusoffacrossgamedune |  
+| bip_39_word_no_space_7 | supplycactusoffacrossgamedunekangaroo |  
+| bip_39_word_no_space_8 | supplycactusoffacrossgamedunekangarooensure |  
+| bip_39_word_no_space_9 | supplycactusoffacrossgamedunekangarooensureelite |  
 | bip_39_word_space_0 | ['supply', 'cactus', 'off', 'across', 'game', 'dune', 'kangaroo', 'ensure', 'elite', 'guitar', 'elephant', 'adapt'] |  
 | bip_39_word_space_1 | supply |  
 | bip_39_word_space_10 | supply cactus off across game dune kangaroo ensure elite guitar |  

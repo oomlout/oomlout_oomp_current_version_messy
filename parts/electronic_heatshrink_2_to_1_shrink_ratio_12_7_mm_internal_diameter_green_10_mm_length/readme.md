@@ -122,6 +122,18 @@ marriage
 disorder
 stool
 only |  
+| bip_39_word_no_space_1 | beauty |  
+| bip_39_word_no_space_10 | beautyfrostfloorkisswarmmarriagedisorderstoolonlymoment |  
+| bip_39_word_no_space_11 | beautyfrostfloorkisswarmmarriagedisorderstoolonlymomentgrass |  
+| bip_39_word_no_space_12 | beautyfrostfloorkisswarmmarriagedisorderstoolonlymomentgrassapple |  
+| bip_39_word_no_space_2 | beautyfrost |  
+| bip_39_word_no_space_3 | beautyfrostfloor |  
+| bip_39_word_no_space_4 | beautyfrostfloorkiss |  
+| bip_39_word_no_space_5 | beautyfrostfloorkisswarm |  
+| bip_39_word_no_space_6 | beautyfrostfloorkisswarmmarriage |  
+| bip_39_word_no_space_7 | beautyfrostfloorkisswarmmarriagedisorder |  
+| bip_39_word_no_space_8 | beautyfrostfloorkisswarmmarriagedisorderstool |  
+| bip_39_word_no_space_9 | beautyfrostfloorkisswarmmarriagedisorderstoolonly |  
 | bip_39_word_space_0 | ['beauty', 'frost', 'floor', 'kiss', 'warm', 'marriage', 'disorder', 'stool', 'only', 'moment', 'grass', 'apple'] |  
 | bip_39_word_space_1 | beauty |  
 | bip_39_word_space_10 | beauty frost floor kiss warm marriage disorder stool only moment |  

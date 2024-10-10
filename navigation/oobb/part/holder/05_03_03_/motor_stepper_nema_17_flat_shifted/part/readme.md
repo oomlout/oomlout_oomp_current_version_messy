@@ -122,6 +122,18 @@ chuckle
 pass
 puzzle
 tilt |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | seabulletdefenselifedivertchucklepasspuzzletiltarena |  
+| bip_39_word_no_space_11 | seabulletdefenselifedivertchucklepasspuzzletiltarenaupon |  
+| bip_39_word_no_space_12 | seabulletdefenselifedivertchucklepasspuzzletiltarenauponalready |  
+| bip_39_word_no_space_2 | seabullet |  
+| bip_39_word_no_space_3 | seabulletdefense |  
+| bip_39_word_no_space_4 | seabulletdefenselife |  
+| bip_39_word_no_space_5 | seabulletdefenselifedivert |  
+| bip_39_word_no_space_6 | seabulletdefenselifedivertchuckle |  
+| bip_39_word_no_space_7 | seabulletdefenselifedivertchucklepass |  
+| bip_39_word_no_space_8 | seabulletdefenselifedivertchucklepasspuzzle |  
+| bip_39_word_no_space_9 | seabulletdefenselifedivertchucklepasspuzzletilt |  
 | bip_39_word_space_0 | ['sea', 'bullet', 'defense', 'life', 'divert', 'chuckle', 'pass', 'puzzle', 'tilt', 'arena', 'upon', 'already'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea bullet defense life divert chuckle pass puzzle tilt arena |  

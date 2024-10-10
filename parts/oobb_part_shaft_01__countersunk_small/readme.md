@@ -122,6 +122,18 @@ shift
 use
 next
 dignity |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportarmedsodafigureuseshiftusenextdignityextra |  
+| bip_39_word_no_space_11 | reportarmedsodafigureuseshiftusenextdignityextraleisure |  
+| bip_39_word_no_space_12 | reportarmedsodafigureuseshiftusenextdignityextraleisurearch |  
+| bip_39_word_no_space_2 | reportarmed |  
+| bip_39_word_no_space_3 | reportarmedsoda |  
+| bip_39_word_no_space_4 | reportarmedsodafigure |  
+| bip_39_word_no_space_5 | reportarmedsodafigureuse |  
+| bip_39_word_no_space_6 | reportarmedsodafigureuseshift |  
+| bip_39_word_no_space_7 | reportarmedsodafigureuseshiftuse |  
+| bip_39_word_no_space_8 | reportarmedsodafigureuseshiftusenext |  
+| bip_39_word_no_space_9 | reportarmedsodafigureuseshiftusenextdignity |  
 | bip_39_word_space_0 | ['report', 'armed', 'soda', 'figure', 'use', 'shift', 'use', 'next', 'dignity', 'extra', 'leisure', 'arch'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report armed soda figure use shift use next dignity extra |  

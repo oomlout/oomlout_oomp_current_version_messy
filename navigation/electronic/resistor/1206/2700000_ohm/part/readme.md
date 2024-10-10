@@ -122,6 +122,18 @@ core
 scrap
 exist
 direct |  
+| bip_39_word_no_space_1 | clay |  
+| bip_39_word_no_space_10 | clayriotwreckadapturbancorescrapexistdirectalbum |  
+| bip_39_word_no_space_11 | clayriotwreckadapturbancorescrapexistdirectalbumunfair |  
+| bip_39_word_no_space_12 | clayriotwreckadapturbancorescrapexistdirectalbumunfairanger |  
+| bip_39_word_no_space_2 | clayriot |  
+| bip_39_word_no_space_3 | clayriotwreck |  
+| bip_39_word_no_space_4 | clayriotwreckadapt |  
+| bip_39_word_no_space_5 | clayriotwreckadapturban |  
+| bip_39_word_no_space_6 | clayriotwreckadapturbancore |  
+| bip_39_word_no_space_7 | clayriotwreckadapturbancorescrap |  
+| bip_39_word_no_space_8 | clayriotwreckadapturbancorescrapexist |  
+| bip_39_word_no_space_9 | clayriotwreckadapturbancorescrapexistdirect |  
 | bip_39_word_space_0 | ['clay', 'riot', 'wreck', 'adapt', 'urban', 'core', 'scrap', 'exist', 'direct', 'album', 'unfair', 'anger'] |  
 | bip_39_word_space_1 | clay |  
 | bip_39_word_space_10 | clay riot wreck adapt urban core scrap exist direct album |  

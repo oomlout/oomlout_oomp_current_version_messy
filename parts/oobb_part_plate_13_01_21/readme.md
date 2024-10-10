@@ -122,6 +122,18 @@ normal
 attitude
 rebuild
 biology |  
+| bip_39_word_no_space_1 | corn |  
+| bip_39_word_no_space_10 | cornbrassartistfluidorangenormalattituderebuildbiologyupper |  
+| bip_39_word_no_space_11 | cornbrassartistfluidorangenormalattituderebuildbiologyupperroyal |  
+| bip_39_word_no_space_12 | cornbrassartistfluidorangenormalattituderebuildbiologyupperroyalabsorb |  
+| bip_39_word_no_space_2 | cornbrass |  
+| bip_39_word_no_space_3 | cornbrassartist |  
+| bip_39_word_no_space_4 | cornbrassartistfluid |  
+| bip_39_word_no_space_5 | cornbrassartistfluidorange |  
+| bip_39_word_no_space_6 | cornbrassartistfluidorangenormal |  
+| bip_39_word_no_space_7 | cornbrassartistfluidorangenormalattitude |  
+| bip_39_word_no_space_8 | cornbrassartistfluidorangenormalattituderebuild |  
+| bip_39_word_no_space_9 | cornbrassartistfluidorangenormalattituderebuildbiology |  
 | bip_39_word_space_0 | ['corn', 'brass', 'artist', 'fluid', 'orange', 'normal', 'attitude', 'rebuild', 'biology', 'upper', 'royal', 'absorb'] |  
 | bip_39_word_space_1 | corn |  
 | bip_39_word_space_10 | corn brass artist fluid orange normal attitude rebuild biology upper |  

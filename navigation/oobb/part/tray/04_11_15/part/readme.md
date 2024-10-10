@@ -122,6 +122,18 @@ exotic
 abandon
 school
 bitter |  
+| bip_39_word_no_space_1 | coil |  
+| bip_39_word_no_space_10 | coilsuitpointchronicsaluteexoticabandonschoolbittermeasure |  
+| bip_39_word_no_space_11 | coilsuitpointchronicsaluteexoticabandonschoolbittermeasurefaith |  
+| bip_39_word_no_space_12 | coilsuitpointchronicsaluteexoticabandonschoolbittermeasurefaithamateur |  
+| bip_39_word_no_space_2 | coilsuit |  
+| bip_39_word_no_space_3 | coilsuitpoint |  
+| bip_39_word_no_space_4 | coilsuitpointchronic |  
+| bip_39_word_no_space_5 | coilsuitpointchronicsalute |  
+| bip_39_word_no_space_6 | coilsuitpointchronicsaluteexotic |  
+| bip_39_word_no_space_7 | coilsuitpointchronicsaluteexoticabandon |  
+| bip_39_word_no_space_8 | coilsuitpointchronicsaluteexoticabandonschool |  
+| bip_39_word_no_space_9 | coilsuitpointchronicsaluteexoticabandonschoolbitter |  
 | bip_39_word_space_0 | ['coil', 'suit', 'point', 'chronic', 'salute', 'exotic', 'abandon', 'school', 'bitter', 'measure', 'faith', 'amateur'] |  
 | bip_39_word_space_1 | coil |  
 | bip_39_word_space_10 | coil suit point chronic salute exotic abandon school bitter measure |  

@@ -122,6 +122,18 @@ speak
 peanut
 best
 item |  
+| bip_39_word_no_space_1 | pencil |  
+| bip_39_word_no_space_10 | pencilprofitenrichbasealreadyspeakpeanutbestitemunveil |  
+| bip_39_word_no_space_11 | pencilprofitenrichbasealreadyspeakpeanutbestitemunveiltunnel |  
+| bip_39_word_no_space_12 | pencilprofitenrichbasealreadyspeakpeanutbestitemunveiltunnelalcohol |  
+| bip_39_word_no_space_2 | pencilprofit |  
+| bip_39_word_no_space_3 | pencilprofitenrich |  
+| bip_39_word_no_space_4 | pencilprofitenrichbase |  
+| bip_39_word_no_space_5 | pencilprofitenrichbasealready |  
+| bip_39_word_no_space_6 | pencilprofitenrichbasealreadyspeak |  
+| bip_39_word_no_space_7 | pencilprofitenrichbasealreadyspeakpeanut |  
+| bip_39_word_no_space_8 | pencilprofitenrichbasealreadyspeakpeanutbest |  
+| bip_39_word_no_space_9 | pencilprofitenrichbasealreadyspeakpeanutbestitem |  
 | bip_39_word_space_0 | ['pencil', 'profit', 'enrich', 'base', 'already', 'speak', 'peanut', 'best', 'item', 'unveil', 'tunnel', 'alcohol'] |  
 | bip_39_word_space_1 | pencil |  
 | bip_39_word_space_10 | pencil profit enrich base already speak peanut best item unveil |  

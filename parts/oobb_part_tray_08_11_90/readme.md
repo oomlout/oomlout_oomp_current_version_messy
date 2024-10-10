@@ -122,6 +122,18 @@ increase
 flat
 witness
 punch |  
+| bip_39_word_no_space_1 | clerk |  
+| bip_39_word_no_space_10 | clerkhairflushinmateentireincreaseflatwitnesspunchreport |  
+| bip_39_word_no_space_11 | clerkhairflushinmateentireincreaseflatwitnesspunchreportshallow |  
+| bip_39_word_no_space_12 | clerkhairflushinmateentireincreaseflatwitnesspunchreportshallowalert |  
+| bip_39_word_no_space_2 | clerkhair |  
+| bip_39_word_no_space_3 | clerkhairflush |  
+| bip_39_word_no_space_4 | clerkhairflushinmate |  
+| bip_39_word_no_space_5 | clerkhairflushinmateentire |  
+| bip_39_word_no_space_6 | clerkhairflushinmateentireincrease |  
+| bip_39_word_no_space_7 | clerkhairflushinmateentireincreaseflat |  
+| bip_39_word_no_space_8 | clerkhairflushinmateentireincreaseflatwitness |  
+| bip_39_word_no_space_9 | clerkhairflushinmateentireincreaseflatwitnesspunch |  
 | bip_39_word_space_0 | ['clerk', 'hair', 'flush', 'inmate', 'entire', 'increase', 'flat', 'witness', 'punch', 'report', 'shallow', 'alert'] |  
 | bip_39_word_space_1 | clerk |  
 | bip_39_word_space_10 | clerk hair flush inmate entire increase flat witness punch report |  

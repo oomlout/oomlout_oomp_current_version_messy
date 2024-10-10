@@ -122,6 +122,18 @@ swallow
 oil
 little
 enact |  
+| bip_39_word_no_space_1 | exit |  
+| bip_39_word_no_space_10 | exitouterobeysuitupdateswallowoillittleenactreject |  
+| bip_39_word_no_space_11 | exitouterobeysuitupdateswallowoillittleenactrejectmodify |  
+| bip_39_word_no_space_12 | exitouterobeysuitupdateswallowoillittleenactrejectmodifyalmost |  
+| bip_39_word_no_space_2 | exitouter |  
+| bip_39_word_no_space_3 | exitouterobey |  
+| bip_39_word_no_space_4 | exitouterobeysuit |  
+| bip_39_word_no_space_5 | exitouterobeysuitupdate |  
+| bip_39_word_no_space_6 | exitouterobeysuitupdateswallow |  
+| bip_39_word_no_space_7 | exitouterobeysuitupdateswallowoil |  
+| bip_39_word_no_space_8 | exitouterobeysuitupdateswallowoillittle |  
+| bip_39_word_no_space_9 | exitouterobeysuitupdateswallowoillittleenact |  
 | bip_39_word_space_0 | ['exit', 'outer', 'obey', 'suit', 'update', 'swallow', 'oil', 'little', 'enact', 'reject', 'modify', 'almost'] |  
 | bip_39_word_space_1 | exit |  
 | bip_39_word_space_10 | exit outer obey suit update swallow oil little enact reject |  

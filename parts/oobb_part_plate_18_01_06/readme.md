@@ -122,6 +122,18 @@ mutual
 board
 dwarf
 nominee |  
+| bip_39_word_no_space_1 | gravity |  
+| bip_39_word_no_space_10 | gravityinmatepulpwraphardmutualboarddwarfnomineeflush |  
+| bip_39_word_no_space_11 | gravityinmatepulpwraphardmutualboarddwarfnomineeflushexpect |  
+| bip_39_word_no_space_12 | gravityinmatepulpwraphardmutualboarddwarfnomineeflushexpectarctic |  
+| bip_39_word_no_space_2 | gravityinmate |  
+| bip_39_word_no_space_3 | gravityinmatepulp |  
+| bip_39_word_no_space_4 | gravityinmatepulpwrap |  
+| bip_39_word_no_space_5 | gravityinmatepulpwraphard |  
+| bip_39_word_no_space_6 | gravityinmatepulpwraphardmutual |  
+| bip_39_word_no_space_7 | gravityinmatepulpwraphardmutualboard |  
+| bip_39_word_no_space_8 | gravityinmatepulpwraphardmutualboarddwarf |  
+| bip_39_word_no_space_9 | gravityinmatepulpwraphardmutualboarddwarfnominee |  
 | bip_39_word_space_0 | ['gravity', 'inmate', 'pulp', 'wrap', 'hard', 'mutual', 'board', 'dwarf', 'nominee', 'flush', 'expect', 'arctic'] |  
 | bip_39_word_space_1 | gravity |  
 | bip_39_word_space_10 | gravity inmate pulp wrap hard mutual board dwarf nominee flush |  

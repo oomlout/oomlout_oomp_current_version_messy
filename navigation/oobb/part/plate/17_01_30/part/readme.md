@@ -122,6 +122,18 @@ gift
 junk
 sugar
 obvious |  
+| bip_39_word_no_space_1 | mechanic |  
+| bip_39_word_no_space_10 | mechanicpausevolcanogirlfemalegiftjunksugarobvioussponsor |  
+| bip_39_word_no_space_11 | mechanicpausevolcanogirlfemalegiftjunksugarobvioussponsordrop |  
+| bip_39_word_no_space_12 | mechanicpausevolcanogirlfemalegiftjunksugarobvioussponsordropautumn |  
+| bip_39_word_no_space_2 | mechanicpause |  
+| bip_39_word_no_space_3 | mechanicpausevolcano |  
+| bip_39_word_no_space_4 | mechanicpausevolcanogirl |  
+| bip_39_word_no_space_5 | mechanicpausevolcanogirlfemale |  
+| bip_39_word_no_space_6 | mechanicpausevolcanogirlfemalegift |  
+| bip_39_word_no_space_7 | mechanicpausevolcanogirlfemalegiftjunk |  
+| bip_39_word_no_space_8 | mechanicpausevolcanogirlfemalegiftjunksugar |  
+| bip_39_word_no_space_9 | mechanicpausevolcanogirlfemalegiftjunksugarobvious |  
 | bip_39_word_space_0 | ['mechanic', 'pause', 'volcano', 'girl', 'female', 'gift', 'junk', 'sugar', 'obvious', 'sponsor', 'drop', 'autumn'] |  
 | bip_39_word_space_1 | mechanic |  
 | bip_39_word_space_10 | mechanic pause volcano girl female gift junk sugar obvious sponsor |  

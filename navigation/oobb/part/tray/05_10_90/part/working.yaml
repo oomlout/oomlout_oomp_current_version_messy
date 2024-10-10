@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'used
   upgrade
 
   saddle'
+bip_39_word_no_space_1: used
+bip_39_word_no_space_10: usedsilentfeedsticksickpolicefoxupgradesaddlegown
+bip_39_word_no_space_11: usedsilentfeedsticksickpolicefoxupgradesaddlegownarch
+bip_39_word_no_space_12: usedsilentfeedsticksickpolicefoxupgradesaddlegownarchattack
+bip_39_word_no_space_2: usedsilent
+bip_39_word_no_space_3: usedsilentfeed
+bip_39_word_no_space_4: usedsilentfeedstick
+bip_39_word_no_space_5: usedsilentfeedsticksick
+bip_39_word_no_space_6: usedsilentfeedsticksickpolice
+bip_39_word_no_space_7: usedsilentfeedsticksickpolicefox
+bip_39_word_no_space_8: usedsilentfeedsticksickpolicefoxupgrade
+bip_39_word_no_space_9: usedsilentfeedsticksickpolicefoxupgradesaddle
 bip_39_word_space_0:
 - used
 - silent

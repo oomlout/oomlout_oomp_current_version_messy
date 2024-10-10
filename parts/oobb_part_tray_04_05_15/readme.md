@@ -122,6 +122,18 @@ wish
 token
 panda
 decide |  
+| bip_39_word_no_space_1 | pet |  
+| bip_39_word_no_space_10 | pethenheartabsentmilkwishtokenpandadecidepark |  
+| bip_39_word_no_space_11 | pethenheartabsentmilkwishtokenpandadecideparkweird |  
+| bip_39_word_no_space_12 | pethenheartabsentmilkwishtokenpandadecideparkweirdaddress |  
+| bip_39_word_no_space_2 | pethen |  
+| bip_39_word_no_space_3 | pethenheart |  
+| bip_39_word_no_space_4 | pethenheartabsent |  
+| bip_39_word_no_space_5 | pethenheartabsentmilk |  
+| bip_39_word_no_space_6 | pethenheartabsentmilkwish |  
+| bip_39_word_no_space_7 | pethenheartabsentmilkwishtoken |  
+| bip_39_word_no_space_8 | pethenheartabsentmilkwishtokenpanda |  
+| bip_39_word_no_space_9 | pethenheartabsentmilkwishtokenpandadecide |  
 | bip_39_word_space_0 | ['pet', 'hen', 'heart', 'absent', 'milk', 'wish', 'token', 'panda', 'decide', 'park', 'weird', 'address'] |  
 | bip_39_word_space_1 | pet |  
 | bip_39_word_space_10 | pet hen heart absent milk wish token panda decide park |  

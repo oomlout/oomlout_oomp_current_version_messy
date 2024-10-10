@@ -122,6 +122,18 @@ scene
 gauge
 delay
 shy |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofcancelmaterialmirrorsentencescenegaugedelayshyvan |  
+| bip_39_word_no_space_11 | proofcancelmaterialmirrorsentencescenegaugedelayshyvanvicious |  
+| bip_39_word_no_space_12 | proofcancelmaterialmirrorsentencescenegaugedelayshyvanviciousarrow |  
+| bip_39_word_no_space_2 | proofcancel |  
+| bip_39_word_no_space_3 | proofcancelmaterial |  
+| bip_39_word_no_space_4 | proofcancelmaterialmirror |  
+| bip_39_word_no_space_5 | proofcancelmaterialmirrorsentence |  
+| bip_39_word_no_space_6 | proofcancelmaterialmirrorsentencescene |  
+| bip_39_word_no_space_7 | proofcancelmaterialmirrorsentencescenegauge |  
+| bip_39_word_no_space_8 | proofcancelmaterialmirrorsentencescenegaugedelay |  
+| bip_39_word_no_space_9 | proofcancelmaterialmirrorsentencescenegaugedelayshy |  
 | bip_39_word_space_0 | ['proof', 'cancel', 'material', 'mirror', 'sentence', 'scene', 'gauge', 'delay', 'shy', 'van', 'vicious', 'arrow'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof cancel material mirror sentence scene gauge delay shy van |  

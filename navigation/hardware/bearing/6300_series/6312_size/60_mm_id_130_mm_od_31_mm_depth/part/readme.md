@@ -122,6 +122,18 @@ adapt
 will
 april
 alien |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relywashquitpoolvehicleadaptwillaprilaliensteak |  
+| bip_39_word_no_space_11 | relywashquitpoolvehicleadaptwillaprilaliensteakfrown |  
+| bip_39_word_no_space_12 | relywashquitpoolvehicleadaptwillaprilaliensteakfrownanxiety |  
+| bip_39_word_no_space_2 | relywash |  
+| bip_39_word_no_space_3 | relywashquit |  
+| bip_39_word_no_space_4 | relywashquitpool |  
+| bip_39_word_no_space_5 | relywashquitpoolvehicle |  
+| bip_39_word_no_space_6 | relywashquitpoolvehicleadapt |  
+| bip_39_word_no_space_7 | relywashquitpoolvehicleadaptwill |  
+| bip_39_word_no_space_8 | relywashquitpoolvehicleadaptwillapril |  
+| bip_39_word_no_space_9 | relywashquitpoolvehicleadaptwillaprilalien |  
 | bip_39_word_space_0 | ['rely', 'wash', 'quit', 'pool', 'vehicle', 'adapt', 'will', 'april', 'alien', 'steak', 'frown', 'anxiety'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely wash quit pool vehicle adapt will april alien steak |  

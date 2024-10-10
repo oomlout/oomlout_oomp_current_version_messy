@@ -122,6 +122,18 @@ feature
 bright
 amateur
 still |  
+| bip_39_word_no_space_1 | practice |  
+| bip_39_word_no_space_10 | practicemethodthreelocalsoulfeaturebrightamateurstillcolor |  
+| bip_39_word_no_space_11 | practicemethodthreelocalsoulfeaturebrightamateurstillcoloradapt |  
+| bip_39_word_no_space_12 | practicemethodthreelocalsoulfeaturebrightamateurstillcoloradaptarm |  
+| bip_39_word_no_space_2 | practicemethod |  
+| bip_39_word_no_space_3 | practicemethodthree |  
+| bip_39_word_no_space_4 | practicemethodthreelocal |  
+| bip_39_word_no_space_5 | practicemethodthreelocalsoul |  
+| bip_39_word_no_space_6 | practicemethodthreelocalsoulfeature |  
+| bip_39_word_no_space_7 | practicemethodthreelocalsoulfeaturebright |  
+| bip_39_word_no_space_8 | practicemethodthreelocalsoulfeaturebrightamateur |  
+| bip_39_word_no_space_9 | practicemethodthreelocalsoulfeaturebrightamateurstill |  
 | bip_39_word_space_0 | ['practice', 'method', 'three', 'local', 'soul', 'feature', 'bright', 'amateur', 'still', 'color', 'adapt', 'arm'] |  
 | bip_39_word_space_1 | practice |  
 | bip_39_word_space_10 | practice method three local soul feature bright amateur still color |  

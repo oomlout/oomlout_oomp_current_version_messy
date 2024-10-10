@@ -122,6 +122,18 @@ present
 silk
 damp
 floor |  
+| bip_39_word_no_space_1 | brother |  
+| bip_39_word_no_space_10 | brotherskinalphascareswamppresentsilkdampfloorskirt |  
+| bip_39_word_no_space_11 | brotherskinalphascareswamppresentsilkdampfloorskirtglobe |  
+| bip_39_word_no_space_12 | brotherskinalphascareswamppresentsilkdampfloorskirtglobeaddict |  
+| bip_39_word_no_space_2 | brotherskin |  
+| bip_39_word_no_space_3 | brotherskinalpha |  
+| bip_39_word_no_space_4 | brotherskinalphascare |  
+| bip_39_word_no_space_5 | brotherskinalphascareswamp |  
+| bip_39_word_no_space_6 | brotherskinalphascareswamppresent |  
+| bip_39_word_no_space_7 | brotherskinalphascareswamppresentsilk |  
+| bip_39_word_no_space_8 | brotherskinalphascareswamppresentsilkdamp |  
+| bip_39_word_no_space_9 | brotherskinalphascareswamppresentsilkdampfloor |  
 | bip_39_word_space_0 | ['brother', 'skin', 'alpha', 'scare', 'swamp', 'present', 'silk', 'damp', 'floor', 'skirt', 'globe', 'addict'] |  
 | bip_39_word_space_1 | brother |  
 | bip_39_word_space_10 | brother skin alpha scare swamp present silk damp floor skirt |  

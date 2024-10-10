@@ -122,6 +122,18 @@ ceiling
 ignore
 farm
 faint |  
+| bip_39_word_no_space_1 | rough |  
+| bip_39_word_no_space_10 | roughventurebundleaccidentbunkerceilingignorefarmfaintflame |  
+| bip_39_word_no_space_11 | roughventurebundleaccidentbunkerceilingignorefarmfaintflamecorrect |  
+| bip_39_word_no_space_12 | roughventurebundleaccidentbunkerceilingignorefarmfaintflamecorrectadvice |  
+| bip_39_word_no_space_2 | roughventure |  
+| bip_39_word_no_space_3 | roughventurebundle |  
+| bip_39_word_no_space_4 | roughventurebundleaccident |  
+| bip_39_word_no_space_5 | roughventurebundleaccidentbunker |  
+| bip_39_word_no_space_6 | roughventurebundleaccidentbunkerceiling |  
+| bip_39_word_no_space_7 | roughventurebundleaccidentbunkerceilingignore |  
+| bip_39_word_no_space_8 | roughventurebundleaccidentbunkerceilingignorefarm |  
+| bip_39_word_no_space_9 | roughventurebundleaccidentbunkerceilingignorefarmfaint |  
 | bip_39_word_space_0 | ['rough', 'venture', 'bundle', 'accident', 'bunker', 'ceiling', 'ignore', 'farm', 'faint', 'flame', 'correct', 'advice'] |  
 | bip_39_word_space_1 | rough |  
 | bip_39_word_space_10 | rough venture bundle accident bunker ceiling ignore farm faint flame |  

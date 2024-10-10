@@ -122,6 +122,18 @@ jelly
 snake
 border
 divorce |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flameorbitmonitorfeeauditjellysnakeborderdivorceelite |  
+| bip_39_word_no_space_11 | flameorbitmonitorfeeauditjellysnakeborderdivorceeliteforward |  
+| bip_39_word_no_space_12 | flameorbitmonitorfeeauditjellysnakeborderdivorceeliteforwardahead |  
+| bip_39_word_no_space_2 | flameorbit |  
+| bip_39_word_no_space_3 | flameorbitmonitor |  
+| bip_39_word_no_space_4 | flameorbitmonitorfee |  
+| bip_39_word_no_space_5 | flameorbitmonitorfeeaudit |  
+| bip_39_word_no_space_6 | flameorbitmonitorfeeauditjelly |  
+| bip_39_word_no_space_7 | flameorbitmonitorfeeauditjellysnake |  
+| bip_39_word_no_space_8 | flameorbitmonitorfeeauditjellysnakeborder |  
+| bip_39_word_no_space_9 | flameorbitmonitorfeeauditjellysnakeborderdivorce |  
 | bip_39_word_space_0 | ['flame', 'orbit', 'monitor', 'fee', 'audit', 'jelly', 'snake', 'border', 'divorce', 'elite', 'forward', 'ahead'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame orbit monitor fee audit jelly snake border divorce elite |  

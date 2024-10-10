@@ -122,6 +122,18 @@ melt
 ill
 cool
 warm |  
+| bip_39_word_no_space_1 | lawsuit |  
+| bip_39_word_no_space_10 | lawsuitmonkeybulkolympicsausagemeltillcoolwarmlist |  
+| bip_39_word_no_space_11 | lawsuitmonkeybulkolympicsausagemeltillcoolwarmlistbrave |  
+| bip_39_word_no_space_12 | lawsuitmonkeybulkolympicsausagemeltillcoolwarmlistbraveacross |  
+| bip_39_word_no_space_2 | lawsuitmonkey |  
+| bip_39_word_no_space_3 | lawsuitmonkeybulk |  
+| bip_39_word_no_space_4 | lawsuitmonkeybulkolympic |  
+| bip_39_word_no_space_5 | lawsuitmonkeybulkolympicsausage |  
+| bip_39_word_no_space_6 | lawsuitmonkeybulkolympicsausagemelt |  
+| bip_39_word_no_space_7 | lawsuitmonkeybulkolympicsausagemeltill |  
+| bip_39_word_no_space_8 | lawsuitmonkeybulkolympicsausagemeltillcool |  
+| bip_39_word_no_space_9 | lawsuitmonkeybulkolympicsausagemeltillcoolwarm |  
 | bip_39_word_space_0 | ['lawsuit', 'monkey', 'bulk', 'olympic', 'sausage', 'melt', 'ill', 'cool', 'warm', 'list', 'brave', 'across'] |  
 | bip_39_word_space_1 | lawsuit |  
 | bip_39_word_space_10 | lawsuit monkey bulk olympic sausage melt ill cool warm list |  

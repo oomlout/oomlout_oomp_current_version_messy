@@ -122,6 +122,18 @@ lawsuit
 area
 crunch
 burden |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffmeasurefootsmokepledgelawsuitareacrunchburdensign |  
+| bip_39_word_no_space_11 | sniffmeasurefootsmokepledgelawsuitareacrunchburdensigndress |  
+| bip_39_word_no_space_12 | sniffmeasurefootsmokepledgelawsuitareacrunchburdensigndressattend |  
+| bip_39_word_no_space_2 | sniffmeasure |  
+| bip_39_word_no_space_3 | sniffmeasurefoot |  
+| bip_39_word_no_space_4 | sniffmeasurefootsmoke |  
+| bip_39_word_no_space_5 | sniffmeasurefootsmokepledge |  
+| bip_39_word_no_space_6 | sniffmeasurefootsmokepledgelawsuit |  
+| bip_39_word_no_space_7 | sniffmeasurefootsmokepledgelawsuitarea |  
+| bip_39_word_no_space_8 | sniffmeasurefootsmokepledgelawsuitareacrunch |  
+| bip_39_word_no_space_9 | sniffmeasurefootsmokepledgelawsuitareacrunchburden |  
 | bip_39_word_space_0 | ['sniff', 'measure', 'foot', 'smoke', 'pledge', 'lawsuit', 'area', 'crunch', 'burden', 'sign', 'dress', 'attend'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff measure foot smoke pledge lawsuit area crunch burden sign |  

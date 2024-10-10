@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rent
   fork
 
   quote'
+bip_39_word_no_space_1: rent
+bip_39_word_no_space_10: rentwhisperladdertastedefensechaselawnforkquotecram
+bip_39_word_no_space_11: rentwhisperladdertastedefensechaselawnforkquotecramregret
+bip_39_word_no_space_12: rentwhisperladdertastedefensechaselawnforkquotecramregretair
+bip_39_word_no_space_2: rentwhisper
+bip_39_word_no_space_3: rentwhisperladder
+bip_39_word_no_space_4: rentwhisperladdertaste
+bip_39_word_no_space_5: rentwhisperladdertastedefense
+bip_39_word_no_space_6: rentwhisperladdertastedefensechase
+bip_39_word_no_space_7: rentwhisperladdertastedefensechaselawn
+bip_39_word_no_space_8: rentwhisperladdertastedefensechaselawnfork
+bip_39_word_no_space_9: rentwhisperladdertastedefensechaselawnforkquote
 bip_39_word_space_0:
 - rent
 - whisper

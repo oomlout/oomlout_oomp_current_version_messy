@@ -122,6 +122,18 @@ boring
 party
 episode
 ancient |  
+| bip_39_word_no_space_1 | weapon |  
+| bip_39_word_no_space_10 | weaponcranemiserysidevisualboringpartyepisodeancientfirst |  
+| bip_39_word_no_space_11 | weaponcranemiserysidevisualboringpartyepisodeancientfirstunveil |  
+| bip_39_word_no_space_12 | weaponcranemiserysidevisualboringpartyepisodeancientfirstunveiladmit |  
+| bip_39_word_no_space_2 | weaponcrane |  
+| bip_39_word_no_space_3 | weaponcranemisery |  
+| bip_39_word_no_space_4 | weaponcranemiseryside |  
+| bip_39_word_no_space_5 | weaponcranemiserysidevisual |  
+| bip_39_word_no_space_6 | weaponcranemiserysidevisualboring |  
+| bip_39_word_no_space_7 | weaponcranemiserysidevisualboringparty |  
+| bip_39_word_no_space_8 | weaponcranemiserysidevisualboringpartyepisode |  
+| bip_39_word_no_space_9 | weaponcranemiserysidevisualboringpartyepisodeancient |  
 | bip_39_word_space_0 | ['weapon', 'crane', 'misery', 'side', 'visual', 'boring', 'party', 'episode', 'ancient', 'first', 'unveil', 'admit'] |  
 | bip_39_word_space_1 | weapon |  
 | bip_39_word_space_10 | weapon crane misery side visual boring party episode ancient first |  

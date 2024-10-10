@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'round
   host
 
   rival'
+bip_39_word_no_space_1: round
+bip_39_word_no_space_10: roundflowercrispframeepisodepetequalhostrivalskirt
+bip_39_word_no_space_11: roundflowercrispframeepisodepetequalhostrivalskirtuncover
+bip_39_word_no_space_12: roundflowercrispframeepisodepetequalhostrivalskirtuncoverachieve
+bip_39_word_no_space_2: roundflower
+bip_39_word_no_space_3: roundflowercrisp
+bip_39_word_no_space_4: roundflowercrispframe
+bip_39_word_no_space_5: roundflowercrispframeepisode
+bip_39_word_no_space_6: roundflowercrispframeepisodepet
+bip_39_word_no_space_7: roundflowercrispframeepisodepetequal
+bip_39_word_no_space_8: roundflowercrispframeepisodepetequalhost
+bip_39_word_no_space_9: roundflowercrispframeepisodepetequalhostrival
 bip_39_word_space_0:
 - round
 - flower

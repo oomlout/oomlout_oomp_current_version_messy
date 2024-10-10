@@ -122,6 +122,18 @@ ability
 dawn
 upon
 gift |  
+| bip_39_word_no_space_1 | share |  
+| bip_39_word_no_space_10 | shareoakneglectlawsuitpeaceabilitydawnupongifttheory |  
+| bip_39_word_no_space_11 | shareoakneglectlawsuitpeaceabilitydawnupongifttheoryvessel |  
+| bip_39_word_no_space_12 | shareoakneglectlawsuitpeaceabilitydawnupongifttheoryvesselamong |  
+| bip_39_word_no_space_2 | shareoak |  
+| bip_39_word_no_space_3 | shareoakneglect |  
+| bip_39_word_no_space_4 | shareoakneglectlawsuit |  
+| bip_39_word_no_space_5 | shareoakneglectlawsuitpeace |  
+| bip_39_word_no_space_6 | shareoakneglectlawsuitpeaceability |  
+| bip_39_word_no_space_7 | shareoakneglectlawsuitpeaceabilitydawn |  
+| bip_39_word_no_space_8 | shareoakneglectlawsuitpeaceabilitydawnupon |  
+| bip_39_word_no_space_9 | shareoakneglectlawsuitpeaceabilitydawnupongift |  
 | bip_39_word_space_0 | ['share', 'oak', 'neglect', 'lawsuit', 'peace', 'ability', 'dawn', 'upon', 'gift', 'theory', 'vessel', 'among'] |  
 | bip_39_word_space_1 | share |  
 | bip_39_word_space_10 | share oak neglect lawsuit peace ability dawn upon gift theory |  

@@ -122,6 +122,18 @@ junk
 dry
 rich
 silly |  
+| bip_39_word_no_space_1 | future |  
+| bip_39_word_no_space_10 | futureletterheartsuperwitnessjunkdryrichsillyinhale |  
+| bip_39_word_no_space_11 | futureletterheartsuperwitnessjunkdryrichsillyinhalemixture |  
+| bip_39_word_no_space_12 | futureletterheartsuperwitnessjunkdryrichsillyinhalemixtureattitude |  
+| bip_39_word_no_space_2 | futureletter |  
+| bip_39_word_no_space_3 | futureletterheart |  
+| bip_39_word_no_space_4 | futureletterheartsuper |  
+| bip_39_word_no_space_5 | futureletterheartsuperwitness |  
+| bip_39_word_no_space_6 | futureletterheartsuperwitnessjunk |  
+| bip_39_word_no_space_7 | futureletterheartsuperwitnessjunkdry |  
+| bip_39_word_no_space_8 | futureletterheartsuperwitnessjunkdryrich |  
+| bip_39_word_no_space_9 | futureletterheartsuperwitnessjunkdryrichsilly |  
 | bip_39_word_space_0 | ['future', 'letter', 'heart', 'super', 'witness', 'junk', 'dry', 'rich', 'silly', 'inhale', 'mixture', 'attitude'] |  
 | bip_39_word_space_1 | future |  
 | bip_39_word_space_10 | future letter heart super witness junk dry rich silly inhale |  

@@ -122,6 +122,18 @@ blind
 hurdle
 tank
 visual |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wronghourmaterialmenudecorateblindhurdletankvisualdeputy |  
+| bip_39_word_no_space_11 | wronghourmaterialmenudecorateblindhurdletankvisualdeputyslight |  
+| bip_39_word_no_space_12 | wronghourmaterialmenudecorateblindhurdletankvisualdeputyslightacid |  
+| bip_39_word_no_space_2 | wronghour |  
+| bip_39_word_no_space_3 | wronghourmaterial |  
+| bip_39_word_no_space_4 | wronghourmaterialmenu |  
+| bip_39_word_no_space_5 | wronghourmaterialmenudecorate |  
+| bip_39_word_no_space_6 | wronghourmaterialmenudecorateblind |  
+| bip_39_word_no_space_7 | wronghourmaterialmenudecorateblindhurdle |  
+| bip_39_word_no_space_8 | wronghourmaterialmenudecorateblindhurdletank |  
+| bip_39_word_no_space_9 | wronghourmaterialmenudecorateblindhurdletankvisual |  
 | bip_39_word_space_0 | ['wrong', 'hour', 'material', 'menu', 'decorate', 'blind', 'hurdle', 'tank', 'visual', 'deputy', 'slight', 'acid'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong hour material menu decorate blind hurdle tank visual deputy |  

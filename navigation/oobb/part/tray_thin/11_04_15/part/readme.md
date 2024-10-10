@@ -122,6 +122,18 @@ security
 end
 thought
 skirt |  
+| bip_39_word_no_space_1 | solar |  
+| bip_39_word_no_space_10 | solarguessfishskirtluxurysecurityendthoughtskirtremember |  
+| bip_39_word_no_space_11 | solarguessfishskirtluxurysecurityendthoughtskirtrememberbetter |  
+| bip_39_word_no_space_12 | solarguessfishskirtluxurysecurityendthoughtskirtrememberbetterarm |  
+| bip_39_word_no_space_2 | solarguess |  
+| bip_39_word_no_space_3 | solarguessfish |  
+| bip_39_word_no_space_4 | solarguessfishskirt |  
+| bip_39_word_no_space_5 | solarguessfishskirtluxury |  
+| bip_39_word_no_space_6 | solarguessfishskirtluxurysecurity |  
+| bip_39_word_no_space_7 | solarguessfishskirtluxurysecurityend |  
+| bip_39_word_no_space_8 | solarguessfishskirtluxurysecurityendthought |  
+| bip_39_word_no_space_9 | solarguessfishskirtluxurysecurityendthoughtskirt |  
 | bip_39_word_space_0 | ['solar', 'guess', 'fish', 'skirt', 'luxury', 'security', 'end', 'thought', 'skirt', 'remember', 'better', 'arm'] |  
 | bip_39_word_space_1 | solar |  
 | bip_39_word_space_10 | solar guess fish skirt luxury security end thought skirt remember |  

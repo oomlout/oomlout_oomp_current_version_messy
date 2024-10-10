@@ -122,6 +122,18 @@ ball
 limit
 panel
 panda |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wronginnocentfiscalcigarbombballlimitpanelpandastock |  
+| bip_39_word_no_space_11 | wronginnocentfiscalcigarbombballlimitpanelpandastockmushroom |  
+| bip_39_word_no_space_12 | wronginnocentfiscalcigarbombballlimitpanelpandastockmushroomacquire |  
+| bip_39_word_no_space_2 | wronginnocent |  
+| bip_39_word_no_space_3 | wronginnocentfiscal |  
+| bip_39_word_no_space_4 | wronginnocentfiscalcigar |  
+| bip_39_word_no_space_5 | wronginnocentfiscalcigarbomb |  
+| bip_39_word_no_space_6 | wronginnocentfiscalcigarbombball |  
+| bip_39_word_no_space_7 | wronginnocentfiscalcigarbombballlimit |  
+| bip_39_word_no_space_8 | wronginnocentfiscalcigarbombballlimitpanel |  
+| bip_39_word_no_space_9 | wronginnocentfiscalcigarbombballlimitpanelpanda |  
 | bip_39_word_space_0 | ['wrong', 'innocent', 'fiscal', 'cigar', 'bomb', 'ball', 'limit', 'panel', 'panda', 'stock', 'mushroom', 'acquire'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong innocent fiscal cigar bomb ball limit panel panda stock |  

@@ -122,6 +122,18 @@ crater
 luxury
 vacant
 enemy |  
+| bip_39_word_no_space_1 | torch |  
+| bip_39_word_no_space_10 | torchgreatwaterbrightdealcraterluxuryvacantenemyduring |  
+| bip_39_word_no_space_11 | torchgreatwaterbrightdealcraterluxuryvacantenemyduringskill |  
+| bip_39_word_no_space_12 | torchgreatwaterbrightdealcraterluxuryvacantenemyduringskillauction |  
+| bip_39_word_no_space_2 | torchgreat |  
+| bip_39_word_no_space_3 | torchgreatwater |  
+| bip_39_word_no_space_4 | torchgreatwaterbright |  
+| bip_39_word_no_space_5 | torchgreatwaterbrightdeal |  
+| bip_39_word_no_space_6 | torchgreatwaterbrightdealcrater |  
+| bip_39_word_no_space_7 | torchgreatwaterbrightdealcraterluxury |  
+| bip_39_word_no_space_8 | torchgreatwaterbrightdealcraterluxuryvacant |  
+| bip_39_word_no_space_9 | torchgreatwaterbrightdealcraterluxuryvacantenemy |  
 | bip_39_word_space_0 | ['torch', 'great', 'water', 'bright', 'deal', 'crater', 'luxury', 'vacant', 'enemy', 'during', 'skill', 'auction'] |  
 | bip_39_word_space_1 | torch |  
 | bip_39_word_space_10 | torch great water bright deal crater luxury vacant enemy during |  

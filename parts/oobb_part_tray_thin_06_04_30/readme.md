@@ -122,6 +122,18 @@ bundle
 indoor
 velvet
 walk |  
+| bip_39_word_no_space_1 | wink |  
+| bip_39_word_no_space_10 | winkphysicalemptypondphysicalbundleindoorvelvetwalkviolin |  
+| bip_39_word_no_space_11 | winkphysicalemptypondphysicalbundleindoorvelvetwalkviolintrust |  
+| bip_39_word_no_space_12 | winkphysicalemptypondphysicalbundleindoorvelvetwalkviolintrustarmy |  
+| bip_39_word_no_space_2 | winkphysical |  
+| bip_39_word_no_space_3 | winkphysicalempty |  
+| bip_39_word_no_space_4 | winkphysicalemptypond |  
+| bip_39_word_no_space_5 | winkphysicalemptypondphysical |  
+| bip_39_word_no_space_6 | winkphysicalemptypondphysicalbundle |  
+| bip_39_word_no_space_7 | winkphysicalemptypondphysicalbundleindoor |  
+| bip_39_word_no_space_8 | winkphysicalemptypondphysicalbundleindoorvelvet |  
+| bip_39_word_no_space_9 | winkphysicalemptypondphysicalbundleindoorvelvetwalk |  
 | bip_39_word_space_0 | ['wink', 'physical', 'empty', 'pond', 'physical', 'bundle', 'indoor', 'velvet', 'walk', 'violin', 'trust', 'army'] |  
 | bip_39_word_space_1 | wink |  
 | bip_39_word_space_10 | wink physical empty pond physical bundle indoor velvet walk violin |  

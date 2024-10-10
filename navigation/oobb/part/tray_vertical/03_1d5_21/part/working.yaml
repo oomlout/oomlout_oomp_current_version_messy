@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'husband
   raise
 
   drip'
+bip_39_word_no_space_1: husband
+bip_39_word_no_space_10: husbandovallawnteamsecondgiverepairraisedripobserve
+bip_39_word_no_space_11: husbandovallawnteamsecondgiverepairraisedripobserverug
+bip_39_word_no_space_12: husbandovallawnteamsecondgiverepairraisedripobserverugaddress
+bip_39_word_no_space_2: husbandoval
+bip_39_word_no_space_3: husbandovallawn
+bip_39_word_no_space_4: husbandovallawnteam
+bip_39_word_no_space_5: husbandovallawnteamsecond
+bip_39_word_no_space_6: husbandovallawnteamsecondgive
+bip_39_word_no_space_7: husbandovallawnteamsecondgiverepair
+bip_39_word_no_space_8: husbandovallawnteamsecondgiverepairraise
+bip_39_word_no_space_9: husbandovallawnteamsecondgiverepairraisedrip
 bip_39_word_space_0:
 - husband
 - oval

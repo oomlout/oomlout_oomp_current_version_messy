@@ -109,6 +109,17 @@ virtual
 rebel
 claim
 december |  
+| bip_39_word_no_space_1 | wash |  
+| bip_39_word_no_space_10 | washstuffonlinecashslicevirtualrebelclaimdecemberivory |  
+| bip_39_word_no_space_11 | washstuffonlinecashslicevirtualrebelclaimdecemberivorydumb |  
+| bip_39_word_no_space_2 | washstuff |  
+| bip_39_word_no_space_3 | washstuffonline |  
+| bip_39_word_no_space_4 | washstuffonlinecash |  
+| bip_39_word_no_space_5 | washstuffonlinecashslice |  
+| bip_39_word_no_space_6 | washstuffonlinecashslicevirtual |  
+| bip_39_word_no_space_7 | washstuffonlinecashslicevirtualrebel |  
+| bip_39_word_no_space_8 | washstuffonlinecashslicevirtualrebelclaim |  
+| bip_39_word_no_space_9 | washstuffonlinecashslicevirtualrebelclaimdecember |  
 | bip_39_word_space_0 | ['wash', 'stuff', 'online', 'cash', 'slice', 'virtual', 'rebel', 'claim', 'december', 'ivory', 'dumb'] |  
 | bip_39_word_space_1 | wash |  
 | bip_39_word_space_10 | wash stuff online cash slice virtual rebel claim december ivory |  

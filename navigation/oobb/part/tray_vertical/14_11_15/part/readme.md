@@ -122,6 +122,18 @@ winter
 wasp
 kick
 salad |  
+| bip_39_word_no_space_1 | crane |  
+| bip_39_word_no_space_10 | cranequoteorientpatterndividewinterwaspkicksaladhorse |  
+| bip_39_word_no_space_11 | cranequoteorientpatterndividewinterwaspkicksaladhorseglue |  
+| bip_39_word_no_space_12 | cranequoteorientpatterndividewinterwaspkicksaladhorsegluearmed |  
+| bip_39_word_no_space_2 | cranequote |  
+| bip_39_word_no_space_3 | cranequoteorient |  
+| bip_39_word_no_space_4 | cranequoteorientpattern |  
+| bip_39_word_no_space_5 | cranequoteorientpatterndivide |  
+| bip_39_word_no_space_6 | cranequoteorientpatterndividewinter |  
+| bip_39_word_no_space_7 | cranequoteorientpatterndividewinterwasp |  
+| bip_39_word_no_space_8 | cranequoteorientpatterndividewinterwaspkick |  
+| bip_39_word_no_space_9 | cranequoteorientpatterndividewinterwaspkicksalad |  
 | bip_39_word_space_0 | ['crane', 'quote', 'orient', 'pattern', 'divide', 'winter', 'wasp', 'kick', 'salad', 'horse', 'glue', 'armed'] |  
 | bip_39_word_space_1 | crane |  
 | bip_39_word_space_10 | crane quote orient pattern divide winter wasp kick salad horse |  

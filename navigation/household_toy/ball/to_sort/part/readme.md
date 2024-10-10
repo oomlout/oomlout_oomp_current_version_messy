@@ -122,6 +122,18 @@ pudding
 episode
 want
 curve |  
+| bip_39_word_no_space_1 | unfold |  
+| bip_39_word_no_space_10 | unfoldacquirefoldminutegympuddingepisodewantcurveaccount |  
+| bip_39_word_no_space_11 | unfoldacquirefoldminutegympuddingepisodewantcurveaccountsatoshi |  
+| bip_39_word_no_space_12 | unfoldacquirefoldminutegympuddingepisodewantcurveaccountsatoshiattack |  
+| bip_39_word_no_space_2 | unfoldacquire |  
+| bip_39_word_no_space_3 | unfoldacquirefold |  
+| bip_39_word_no_space_4 | unfoldacquirefoldminute |  
+| bip_39_word_no_space_5 | unfoldacquirefoldminutegym |  
+| bip_39_word_no_space_6 | unfoldacquirefoldminutegympudding |  
+| bip_39_word_no_space_7 | unfoldacquirefoldminutegympuddingepisode |  
+| bip_39_word_no_space_8 | unfoldacquirefoldminutegympuddingepisodewant |  
+| bip_39_word_no_space_9 | unfoldacquirefoldminutegympuddingepisodewantcurve |  
 | bip_39_word_space_0 | ['unfold', 'acquire', 'fold', 'minute', 'gym', 'pudding', 'episode', 'want', 'curve', 'account', 'satoshi', 'attack'] |  
 | bip_39_word_space_1 | unfold |  
 | bip_39_word_space_10 | unfold acquire fold minute gym pudding episode want curve account |  

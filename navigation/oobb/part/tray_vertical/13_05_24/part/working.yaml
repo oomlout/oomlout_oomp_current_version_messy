@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'junk
   law
 
   trick'
+bip_39_word_no_space_1: junk
+bip_39_word_no_space_10: junktribefingerraccoonfashionwingsnowlawtricktop
+bip_39_word_no_space_11: junktribefingerraccoonfashionwingsnowlawtricktoperase
+bip_39_word_no_space_12: junktribefingerraccoonfashionwingsnowlawtricktoperaseartwork
+bip_39_word_no_space_2: junktribe
+bip_39_word_no_space_3: junktribefinger
+bip_39_word_no_space_4: junktribefingerraccoon
+bip_39_word_no_space_5: junktribefingerraccoonfashion
+bip_39_word_no_space_6: junktribefingerraccoonfashionwing
+bip_39_word_no_space_7: junktribefingerraccoonfashionwingsnow
+bip_39_word_no_space_8: junktribefingerraccoonfashionwingsnowlaw
+bip_39_word_no_space_9: junktribefingerraccoonfashionwingsnowlawtrick
 bip_39_word_space_0:
 - junk
 - tribe

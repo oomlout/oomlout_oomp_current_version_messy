@@ -122,6 +122,18 @@ whale
 history
 insane
 measure |  
+| bip_39_word_no_space_1 | gravity |  
+| bip_39_word_no_space_10 | gravitypracticewinterdolphindigitalwhalehistoryinsanemeasuresalad |  
+| bip_39_word_no_space_11 | gravitypracticewinterdolphindigitalwhalehistoryinsanemeasuresaladsupply |  
+| bip_39_word_no_space_12 | gravitypracticewinterdolphindigitalwhalehistoryinsanemeasuresaladsupplyadd |  
+| bip_39_word_no_space_2 | gravitypractice |  
+| bip_39_word_no_space_3 | gravitypracticewinter |  
+| bip_39_word_no_space_4 | gravitypracticewinterdolphin |  
+| bip_39_word_no_space_5 | gravitypracticewinterdolphindigital |  
+| bip_39_word_no_space_6 | gravitypracticewinterdolphindigitalwhale |  
+| bip_39_word_no_space_7 | gravitypracticewinterdolphindigitalwhalehistory |  
+| bip_39_word_no_space_8 | gravitypracticewinterdolphindigitalwhalehistoryinsane |  
+| bip_39_word_no_space_9 | gravitypracticewinterdolphindigitalwhalehistoryinsanemeasure |  
 | bip_39_word_space_0 | ['gravity', 'practice', 'winter', 'dolphin', 'digital', 'whale', 'history', 'insane', 'measure', 'salad', 'supply', 'add'] |  
 | bip_39_word_space_1 | gravity |  
 | bip_39_word_space_10 | gravity practice winter dolphin digital whale history insane measure salad |  

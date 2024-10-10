@@ -122,6 +122,18 @@ embark
 benefit
 believe
 curve |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportstylescoutinvolveactembarkbenefitbelievecurveliberty |  
+| bip_39_word_no_space_11 | sportstylescoutinvolveactembarkbenefitbelievecurvelibertytoe |  
+| bip_39_word_no_space_12 | sportstylescoutinvolveactembarkbenefitbelievecurvelibertytoeagree |  
+| bip_39_word_no_space_2 | sportstyle |  
+| bip_39_word_no_space_3 | sportstylescout |  
+| bip_39_word_no_space_4 | sportstylescoutinvolve |  
+| bip_39_word_no_space_5 | sportstylescoutinvolveact |  
+| bip_39_word_no_space_6 | sportstylescoutinvolveactembark |  
+| bip_39_word_no_space_7 | sportstylescoutinvolveactembarkbenefit |  
+| bip_39_word_no_space_8 | sportstylescoutinvolveactembarkbenefitbelieve |  
+| bip_39_word_no_space_9 | sportstylescoutinvolveactembarkbenefitbelievecurve |  
 | bip_39_word_space_0 | ['sport', 'style', 'scout', 'involve', 'act', 'embark', 'benefit', 'believe', 'curve', 'liberty', 'toe', 'agree'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport style scout involve act embark benefit believe curve liberty |  

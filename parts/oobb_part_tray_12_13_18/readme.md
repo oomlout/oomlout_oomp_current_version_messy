@@ -122,6 +122,18 @@ devote
 leg
 much
 wear |  
+| bip_39_word_no_space_1 | extend |  
+| bip_39_word_no_space_10 | extenddaringprogramfictionskulldevotelegmuchweargrit |  
+| bip_39_word_no_space_11 | extenddaringprogramfictionskulldevotelegmuchweargrittitle |  
+| bip_39_word_no_space_12 | extenddaringprogramfictionskulldevotelegmuchweargrittitleamazing |  
+| bip_39_word_no_space_2 | extenddaring |  
+| bip_39_word_no_space_3 | extenddaringprogram |  
+| bip_39_word_no_space_4 | extenddaringprogramfiction |  
+| bip_39_word_no_space_5 | extenddaringprogramfictionskull |  
+| bip_39_word_no_space_6 | extenddaringprogramfictionskulldevote |  
+| bip_39_word_no_space_7 | extenddaringprogramfictionskulldevoteleg |  
+| bip_39_word_no_space_8 | extenddaringprogramfictionskulldevotelegmuch |  
+| bip_39_word_no_space_9 | extenddaringprogramfictionskulldevotelegmuchwear |  
 | bip_39_word_space_0 | ['extend', 'daring', 'program', 'fiction', 'skull', 'devote', 'leg', 'much', 'wear', 'grit', 'title', 'amazing'] |  
 | bip_39_word_space_1 | extend |  
 | bip_39_word_space_10 | extend daring program fiction skull devote leg much wear grit |  

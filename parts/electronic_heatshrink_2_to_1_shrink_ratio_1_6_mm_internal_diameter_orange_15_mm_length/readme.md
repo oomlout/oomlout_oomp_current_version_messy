@@ -122,6 +122,18 @@ public
 olympic
 dose
 bacon |  
+| bip_39_word_no_space_1 | snow |  
+| bip_39_word_no_space_10 | snowdonkeycutehostteachpublicolympicdosebaconclock |  
+| bip_39_word_no_space_11 | snowdonkeycutehostteachpublicolympicdosebaconclockcash |  
+| bip_39_word_no_space_12 | snowdonkeycutehostteachpublicolympicdosebaconclockcashact |  
+| bip_39_word_no_space_2 | snowdonkey |  
+| bip_39_word_no_space_3 | snowdonkeycute |  
+| bip_39_word_no_space_4 | snowdonkeycutehost |  
+| bip_39_word_no_space_5 | snowdonkeycutehostteach |  
+| bip_39_word_no_space_6 | snowdonkeycutehostteachpublic |  
+| bip_39_word_no_space_7 | snowdonkeycutehostteachpublicolympic |  
+| bip_39_word_no_space_8 | snowdonkeycutehostteachpublicolympicdose |  
+| bip_39_word_no_space_9 | snowdonkeycutehostteachpublicolympicdosebacon |  
 | bip_39_word_space_0 | ['snow', 'donkey', 'cute', 'host', 'teach', 'public', 'olympic', 'dose', 'bacon', 'clock', 'cash', 'act'] |  
 | bip_39_word_space_1 | snow |  
 | bip_39_word_space_10 | snow donkey cute host teach public olympic dose bacon clock |  

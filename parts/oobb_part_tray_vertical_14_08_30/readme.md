@@ -122,6 +122,18 @@ crane
 chair
 museum
 razor |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldexecuteunhappyarcticwinkcranechairmuseumrazorpulp |  
+| bip_39_word_no_space_11 | oldexecuteunhappyarcticwinkcranechairmuseumrazorpulparmed |  
+| bip_39_word_no_space_12 | oldexecuteunhappyarcticwinkcranechairmuseumrazorpulparmedankle |  
+| bip_39_word_no_space_2 | oldexecute |  
+| bip_39_word_no_space_3 | oldexecuteunhappy |  
+| bip_39_word_no_space_4 | oldexecuteunhappyarctic |  
+| bip_39_word_no_space_5 | oldexecuteunhappyarcticwink |  
+| bip_39_word_no_space_6 | oldexecuteunhappyarcticwinkcrane |  
+| bip_39_word_no_space_7 | oldexecuteunhappyarcticwinkcranechair |  
+| bip_39_word_no_space_8 | oldexecuteunhappyarcticwinkcranechairmuseum |  
+| bip_39_word_no_space_9 | oldexecuteunhappyarcticwinkcranechairmuseumrazor |  
 | bip_39_word_space_0 | ['old', 'execute', 'unhappy', 'arctic', 'wink', 'crane', 'chair', 'museum', 'razor', 'pulp', 'armed', 'ankle'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old execute unhappy arctic wink crane chair museum razor pulp |  

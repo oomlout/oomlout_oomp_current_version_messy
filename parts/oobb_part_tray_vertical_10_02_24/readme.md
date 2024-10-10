@@ -122,6 +122,18 @@ proof
 apple
 spare
 blanket |  
+| bip_39_word_no_space_1 | rural |  
+| bip_39_word_no_space_10 | ruraldecadebronzeremembervaporproofapplespareblanketknife |  
+| bip_39_word_no_space_11 | ruraldecadebronzeremembervaporproofapplespareblanketknifeforget |  
+| bip_39_word_no_space_12 | ruraldecadebronzeremembervaporproofapplespareblanketknifeforgetadmit |  
+| bip_39_word_no_space_2 | ruraldecade |  
+| bip_39_word_no_space_3 | ruraldecadebronze |  
+| bip_39_word_no_space_4 | ruraldecadebronzeremember |  
+| bip_39_word_no_space_5 | ruraldecadebronzeremembervapor |  
+| bip_39_word_no_space_6 | ruraldecadebronzeremembervaporproof |  
+| bip_39_word_no_space_7 | ruraldecadebronzeremembervaporproofapple |  
+| bip_39_word_no_space_8 | ruraldecadebronzeremembervaporproofapplespare |  
+| bip_39_word_no_space_9 | ruraldecadebronzeremembervaporproofapplespareblanket |  
 | bip_39_word_space_0 | ['rural', 'decade', 'bronze', 'remember', 'vapor', 'proof', 'apple', 'spare', 'blanket', 'knife', 'forget', 'admit'] |  
 | bip_39_word_space_1 | rural |  
 | bip_39_word_space_10 | rural decade bronze remember vapor proof apple spare blanket knife |  

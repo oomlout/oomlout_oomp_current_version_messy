@@ -122,6 +122,18 @@ island
 false
 rapid
 nuclear |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furygeneralpossiblecanvastextislandfalserapidnuclearscatter |  
+| bip_39_word_no_space_11 | furygeneralpossiblecanvastextislandfalserapidnuclearscattermaid |  
+| bip_39_word_no_space_12 | furygeneralpossiblecanvastextislandfalserapidnuclearscattermaidaspect |  
+| bip_39_word_no_space_2 | furygeneral |  
+| bip_39_word_no_space_3 | furygeneralpossible |  
+| bip_39_word_no_space_4 | furygeneralpossiblecanvas |  
+| bip_39_word_no_space_5 | furygeneralpossiblecanvastext |  
+| bip_39_word_no_space_6 | furygeneralpossiblecanvastextisland |  
+| bip_39_word_no_space_7 | furygeneralpossiblecanvastextislandfalse |  
+| bip_39_word_no_space_8 | furygeneralpossiblecanvastextislandfalserapid |  
+| bip_39_word_no_space_9 | furygeneralpossiblecanvastextislandfalserapidnuclear |  
 | bip_39_word_space_0 | ['fury', 'general', 'possible', 'canvas', 'text', 'island', 'false', 'rapid', 'nuclear', 'scatter', 'maid', 'aspect'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury general possible canvas text island false rapid nuclear scatter |  

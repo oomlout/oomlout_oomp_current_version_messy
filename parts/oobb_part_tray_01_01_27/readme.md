@@ -122,6 +122,18 @@ boost
 lake
 figure
 bright |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolflashupgradepreparecoolboostlakefigurebrightrandom |  
+| bip_39_word_no_space_11 | patrolflashupgradepreparecoolboostlakefigurebrightrandomjungle |  
+| bip_39_word_no_space_12 | patrolflashupgradepreparecoolboostlakefigurebrightrandomjungleair |  
+| bip_39_word_no_space_2 | patrolflash |  
+| bip_39_word_no_space_3 | patrolflashupgrade |  
+| bip_39_word_no_space_4 | patrolflashupgradeprepare |  
+| bip_39_word_no_space_5 | patrolflashupgradepreparecool |  
+| bip_39_word_no_space_6 | patrolflashupgradepreparecoolboost |  
+| bip_39_word_no_space_7 | patrolflashupgradepreparecoolboostlake |  
+| bip_39_word_no_space_8 | patrolflashupgradepreparecoolboostlakefigure |  
+| bip_39_word_no_space_9 | patrolflashupgradepreparecoolboostlakefigurebright |  
 | bip_39_word_space_0 | ['patrol', 'flash', 'upgrade', 'prepare', 'cool', 'boost', 'lake', 'figure', 'bright', 'random', 'jungle', 'air'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol flash upgrade prepare cool boost lake figure bright random |  

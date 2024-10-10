@@ -122,6 +122,18 @@ balcony
 essence
 blouse
 divert |  
+| bip_39_word_no_space_1 | duck |  
+| bip_39_word_no_space_10 | duckcitysearoundknowbalconyessenceblousedivertmultiply |  
+| bip_39_word_no_space_11 | duckcitysearoundknowbalconyessenceblousedivertmultiplyestate |  
+| bip_39_word_no_space_12 | duckcitysearoundknowbalconyessenceblousedivertmultiplyestateapril |  
+| bip_39_word_no_space_2 | duckcity |  
+| bip_39_word_no_space_3 | duckcitysea |  
+| bip_39_word_no_space_4 | duckcitysearound |  
+| bip_39_word_no_space_5 | duckcitysearoundknow |  
+| bip_39_word_no_space_6 | duckcitysearoundknowbalcony |  
+| bip_39_word_no_space_7 | duckcitysearoundknowbalconyessence |  
+| bip_39_word_no_space_8 | duckcitysearoundknowbalconyessenceblouse |  
+| bip_39_word_no_space_9 | duckcitysearoundknowbalconyessenceblousedivert |  
 | bip_39_word_space_0 | ['duck', 'city', 'sea', 'round', 'know', 'balcony', 'essence', 'blouse', 'divert', 'multiply', 'estate', 'april'] |  
 | bip_39_word_space_1 | duck |  
 | bip_39_word_space_10 | duck city sea round know balcony essence blouse divert multiply |  

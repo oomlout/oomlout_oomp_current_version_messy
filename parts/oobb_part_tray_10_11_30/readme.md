@@ -122,6 +122,18 @@ thought
 worry
 clean
 foot |  
+| bip_39_word_no_space_1 | lava |  
+| bip_39_word_no_space_10 | lavacricketfruiteldersuggestthoughtworrycleanfootgreen |  
+| bip_39_word_no_space_11 | lavacricketfruiteldersuggestthoughtworrycleanfootgreensmile |  
+| bip_39_word_no_space_12 | lavacricketfruiteldersuggestthoughtworrycleanfootgreensmileassume |  
+| bip_39_word_no_space_2 | lavacricket |  
+| bip_39_word_no_space_3 | lavacricketfruit |  
+| bip_39_word_no_space_4 | lavacricketfruitelder |  
+| bip_39_word_no_space_5 | lavacricketfruiteldersuggest |  
+| bip_39_word_no_space_6 | lavacricketfruiteldersuggestthought |  
+| bip_39_word_no_space_7 | lavacricketfruiteldersuggestthoughtworry |  
+| bip_39_word_no_space_8 | lavacricketfruiteldersuggestthoughtworryclean |  
+| bip_39_word_no_space_9 | lavacricketfruiteldersuggestthoughtworrycleanfoot |  
 | bip_39_word_space_0 | ['lava', 'cricket', 'fruit', 'elder', 'suggest', 'thought', 'worry', 'clean', 'foot', 'green', 'smile', 'assume'] |  
 | bip_39_word_space_1 | lava |  
 | bip_39_word_space_10 | lava cricket fruit elder suggest thought worry clean foot green |  

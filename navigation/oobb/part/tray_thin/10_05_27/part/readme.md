@@ -122,6 +122,18 @@ response
 cement
 clutch
 skull |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feelfiscalhorrorfireextendresponsecementclutchskullembark |  
+| bip_39_word_no_space_11 | feelfiscalhorrorfireextendresponsecementclutchskullembarkshuffle |  
+| bip_39_word_no_space_12 | feelfiscalhorrorfireextendresponsecementclutchskullembarkshuffleairport |  
+| bip_39_word_no_space_2 | feelfiscal |  
+| bip_39_word_no_space_3 | feelfiscalhorror |  
+| bip_39_word_no_space_4 | feelfiscalhorrorfire |  
+| bip_39_word_no_space_5 | feelfiscalhorrorfireextend |  
+| bip_39_word_no_space_6 | feelfiscalhorrorfireextendresponse |  
+| bip_39_word_no_space_7 | feelfiscalhorrorfireextendresponsecement |  
+| bip_39_word_no_space_8 | feelfiscalhorrorfireextendresponsecementclutch |  
+| bip_39_word_no_space_9 | feelfiscalhorrorfireextendresponsecementclutchskull |  
 | bip_39_word_space_0 | ['feel', 'fiscal', 'horror', 'fire', 'extend', 'response', 'cement', 'clutch', 'skull', 'embark', 'shuffle', 'airport'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel fiscal horror fire extend response cement clutch skull embark |  

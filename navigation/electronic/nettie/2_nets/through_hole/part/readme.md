@@ -122,6 +122,18 @@ trouble
 dolphin
 eight
 lottery |  
+| bip_39_word_no_space_1 | knee |  
+| bip_39_word_no_space_10 | kneehelphintcramchieftroubledolphineightlotterylawn |  
+| bip_39_word_no_space_11 | kneehelphintcramchieftroubledolphineightlotterylawncurious |  
+| bip_39_word_no_space_12 | kneehelphintcramchieftroubledolphineightlotterylawncuriousarrive |  
+| bip_39_word_no_space_2 | kneehelp |  
+| bip_39_word_no_space_3 | kneehelphint |  
+| bip_39_word_no_space_4 | kneehelphintcram |  
+| bip_39_word_no_space_5 | kneehelphintcramchief |  
+| bip_39_word_no_space_6 | kneehelphintcramchieftrouble |  
+| bip_39_word_no_space_7 | kneehelphintcramchieftroubledolphin |  
+| bip_39_word_no_space_8 | kneehelphintcramchieftroubledolphineight |  
+| bip_39_word_no_space_9 | kneehelphintcramchieftroubledolphineightlottery |  
 | bip_39_word_space_0 | ['knee', 'help', 'hint', 'cram', 'chief', 'trouble', 'dolphin', 'eight', 'lottery', 'lawn', 'curious', 'arrive'] |  
 | bip_39_word_space_1 | knee |  
 | bip_39_word_space_10 | knee help hint cram chief trouble dolphin eight lottery lawn |  

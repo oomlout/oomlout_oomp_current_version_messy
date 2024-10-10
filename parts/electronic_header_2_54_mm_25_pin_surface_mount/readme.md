@@ -122,6 +122,18 @@ right
 shove
 surge
 once |  
+| bip_39_word_no_space_1 | airport |  
+| bip_39_word_no_space_10 | airportuntilcabinrathergracerightshovesurgeonceodor |  
+| bip_39_word_no_space_11 | airportuntilcabinrathergracerightshovesurgeonceodorneglect |  
+| bip_39_word_no_space_12 | airportuntilcabinrathergracerightshovesurgeonceodorneglectattract |  
+| bip_39_word_no_space_2 | airportuntil |  
+| bip_39_word_no_space_3 | airportuntilcabin |  
+| bip_39_word_no_space_4 | airportuntilcabinrather |  
+| bip_39_word_no_space_5 | airportuntilcabinrathergrace |  
+| bip_39_word_no_space_6 | airportuntilcabinrathergraceright |  
+| bip_39_word_no_space_7 | airportuntilcabinrathergracerightshove |  
+| bip_39_word_no_space_8 | airportuntilcabinrathergracerightshovesurge |  
+| bip_39_word_no_space_9 | airportuntilcabinrathergracerightshovesurgeonce |  
 | bip_39_word_space_0 | ['airport', 'until', 'cabin', 'rather', 'grace', 'right', 'shove', 'surge', 'once', 'odor', 'neglect', 'attract'] |  
 | bip_39_word_space_1 | airport |  
 | bip_39_word_space_10 | airport until cabin rather grace right shove surge once odor |  

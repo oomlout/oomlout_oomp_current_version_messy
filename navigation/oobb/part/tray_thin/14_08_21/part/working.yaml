@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'idle
   glare
 
   mistake'
+bip_39_word_no_space_1: idle
+bip_39_word_no_space_10: idleeasyvaguemustmushroompromotesizeglaremistakedanger
+bip_39_word_no_space_11: idleeasyvaguemustmushroompromotesizeglaremistakedangerreflect
+bip_39_word_no_space_12: idleeasyvaguemustmushroompromotesizeglaremistakedangerreflectaugust
+bip_39_word_no_space_2: idleeasy
+bip_39_word_no_space_3: idleeasyvague
+bip_39_word_no_space_4: idleeasyvaguemust
+bip_39_word_no_space_5: idleeasyvaguemustmushroom
+bip_39_word_no_space_6: idleeasyvaguemustmushroompromote
+bip_39_word_no_space_7: idleeasyvaguemustmushroompromotesize
+bip_39_word_no_space_8: idleeasyvaguemustmushroompromotesizeglare
+bip_39_word_no_space_9: idleeasyvaguemustmushroompromotesizeglaremistake
 bip_39_word_space_0:
 - idle
 - easy

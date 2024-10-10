@@ -122,6 +122,18 @@ spoil
 industry
 sun
 direct |  
+| bip_39_word_no_space_1 | camera |  
+| bip_39_word_no_space_10 | cameragoldeldermailparkspoilindustrysundirectactress |  
+| bip_39_word_no_space_11 | cameragoldeldermailparkspoilindustrysundirectactressball |  
+| bip_39_word_no_space_12 | cameragoldeldermailparkspoilindustrysundirectactressballartefact |  
+| bip_39_word_no_space_2 | cameragold |  
+| bip_39_word_no_space_3 | cameragoldelder |  
+| bip_39_word_no_space_4 | cameragoldeldermail |  
+| bip_39_word_no_space_5 | cameragoldeldermailpark |  
+| bip_39_word_no_space_6 | cameragoldeldermailparkspoil |  
+| bip_39_word_no_space_7 | cameragoldeldermailparkspoilindustry |  
+| bip_39_word_no_space_8 | cameragoldeldermailparkspoilindustrysun |  
+| bip_39_word_no_space_9 | cameragoldeldermailparkspoilindustrysundirect |  
 | bip_39_word_space_0 | ['camera', 'gold', 'elder', 'mail', 'park', 'spoil', 'industry', 'sun', 'direct', 'actress', 'ball', 'artefact'] |  
 | bip_39_word_space_1 | camera |  
 | bip_39_word_space_10 | camera gold elder mail park spoil industry sun direct actress |  

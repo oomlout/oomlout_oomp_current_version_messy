@@ -122,6 +122,18 @@ trim
 borrow
 rate
 remind |  
+| bip_39_word_no_space_1 | choice |  
+| bip_39_word_no_space_10 | choicefittrafficdemandoutputtrimborrowrateremindhappy |  
+| bip_39_word_no_space_11 | choicefittrafficdemandoutputtrimborrowrateremindhappywing |  
+| bip_39_word_no_space_12 | choicefittrafficdemandoutputtrimborrowrateremindhappywingalarm |  
+| bip_39_word_no_space_2 | choicefit |  
+| bip_39_word_no_space_3 | choicefittraffic |  
+| bip_39_word_no_space_4 | choicefittrafficdemand |  
+| bip_39_word_no_space_5 | choicefittrafficdemandoutput |  
+| bip_39_word_no_space_6 | choicefittrafficdemandoutputtrim |  
+| bip_39_word_no_space_7 | choicefittrafficdemandoutputtrimborrow |  
+| bip_39_word_no_space_8 | choicefittrafficdemandoutputtrimborrowrate |  
+| bip_39_word_no_space_9 | choicefittrafficdemandoutputtrimborrowrateremind |  
 | bip_39_word_space_0 | ['choice', 'fit', 'traffic', 'demand', 'output', 'trim', 'borrow', 'rate', 'remind', 'happy', 'wing', 'alarm'] |  
 | bip_39_word_space_1 | choice |  
 | bip_39_word_space_10 | choice fit traffic demand output trim borrow rate remind happy |  

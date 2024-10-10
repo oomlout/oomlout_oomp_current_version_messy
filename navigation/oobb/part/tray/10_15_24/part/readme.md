@@ -122,6 +122,18 @@ tuna
 upon
 property
 decline |  
+| bip_39_word_no_space_1 | coconut |  
+| bip_39_word_no_space_10 | coconutfrontprimaryobjectpenaltytunauponpropertydeclinedetail |  
+| bip_39_word_no_space_11 | coconutfrontprimaryobjectpenaltytunauponpropertydeclinedetailslow |  
+| bip_39_word_no_space_12 | coconutfrontprimaryobjectpenaltytunauponpropertydeclinedetailslowahead |  
+| bip_39_word_no_space_2 | coconutfront |  
+| bip_39_word_no_space_3 | coconutfrontprimary |  
+| bip_39_word_no_space_4 | coconutfrontprimaryobject |  
+| bip_39_word_no_space_5 | coconutfrontprimaryobjectpenalty |  
+| bip_39_word_no_space_6 | coconutfrontprimaryobjectpenaltytuna |  
+| bip_39_word_no_space_7 | coconutfrontprimaryobjectpenaltytunaupon |  
+| bip_39_word_no_space_8 | coconutfrontprimaryobjectpenaltytunauponproperty |  
+| bip_39_word_no_space_9 | coconutfrontprimaryobjectpenaltytunauponpropertydecline |  
 | bip_39_word_space_0 | ['coconut', 'front', 'primary', 'object', 'penalty', 'tuna', 'upon', 'property', 'decline', 'detail', 'slow', 'ahead'] |  
 | bip_39_word_space_1 | coconut |  
 | bip_39_word_space_10 | coconut front primary object penalty tuna upon property decline detail |  

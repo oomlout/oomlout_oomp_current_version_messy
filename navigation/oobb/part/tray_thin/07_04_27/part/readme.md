@@ -122,6 +122,18 @@ they
 glue
 harbor
 egg |  
+| bip_39_word_no_space_1 | swim |  
+| bip_39_word_no_space_10 | swimwillcitizencrouchramptheyglueharboregghazard |  
+| bip_39_word_no_space_11 | swimwillcitizencrouchramptheyglueharboregghazarddizzy |  
+| bip_39_word_no_space_12 | swimwillcitizencrouchramptheyglueharboregghazarddizzyactor |  
+| bip_39_word_no_space_2 | swimwill |  
+| bip_39_word_no_space_3 | swimwillcitizen |  
+| bip_39_word_no_space_4 | swimwillcitizencrouch |  
+| bip_39_word_no_space_5 | swimwillcitizencrouchramp |  
+| bip_39_word_no_space_6 | swimwillcitizencrouchrampthey |  
+| bip_39_word_no_space_7 | swimwillcitizencrouchramptheyglue |  
+| bip_39_word_no_space_8 | swimwillcitizencrouchramptheyglueharbor |  
+| bip_39_word_no_space_9 | swimwillcitizencrouchramptheyglueharboregg |  
 | bip_39_word_space_0 | ['swim', 'will', 'citizen', 'crouch', 'ramp', 'they', 'glue', 'harbor', 'egg', 'hazard', 'dizzy', 'actor'] |  
 | bip_39_word_space_1 | swim |  
 | bip_39_word_space_10 | swim will citizen crouch ramp they glue harbor egg hazard |  

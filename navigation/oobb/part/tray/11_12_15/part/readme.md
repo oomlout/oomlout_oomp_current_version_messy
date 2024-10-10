@@ -122,6 +122,18 @@ jazz
 other
 deputy
 armed |  
+| bip_39_word_no_space_1 | book |  
+| bip_39_word_no_space_10 | bookpenciltacklevaporgarlicjazzotherdeputyarmedcentury |  
+| bip_39_word_no_space_11 | bookpenciltacklevaporgarlicjazzotherdeputyarmedcenturyclap |  
+| bip_39_word_no_space_12 | bookpenciltacklevaporgarlicjazzotherdeputyarmedcenturyclapabuse |  
+| bip_39_word_no_space_2 | bookpencil |  
+| bip_39_word_no_space_3 | bookpenciltackle |  
+| bip_39_word_no_space_4 | bookpenciltacklevapor |  
+| bip_39_word_no_space_5 | bookpenciltacklevaporgarlic |  
+| bip_39_word_no_space_6 | bookpenciltacklevaporgarlicjazz |  
+| bip_39_word_no_space_7 | bookpenciltacklevaporgarlicjazzother |  
+| bip_39_word_no_space_8 | bookpenciltacklevaporgarlicjazzotherdeputy |  
+| bip_39_word_no_space_9 | bookpenciltacklevaporgarlicjazzotherdeputyarmed |  
 | bip_39_word_space_0 | ['book', 'pencil', 'tackle', 'vapor', 'garlic', 'jazz', 'other', 'deputy', 'armed', 'century', 'clap', 'abuse'] |  
 | bip_39_word_space_1 | book |  
 | bip_39_word_space_10 | book pencil tackle vapor garlic jazz other deputy armed century |  

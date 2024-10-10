@@ -122,6 +122,18 @@ business
 pyramid
 define
 fiscal |  
+| bip_39_word_no_space_1 | oval |  
+| bip_39_word_no_space_10 | ovallaughstinghumorsoccerbusinesspyramiddefinefiscaldevelop |  
+| bip_39_word_no_space_11 | ovallaughstinghumorsoccerbusinesspyramiddefinefiscaldevelopexpire |  
+| bip_39_word_no_space_12 | ovallaughstinghumorsoccerbusinesspyramiddefinefiscaldevelopexpireask |  
+| bip_39_word_no_space_2 | ovallaugh |  
+| bip_39_word_no_space_3 | ovallaughsting |  
+| bip_39_word_no_space_4 | ovallaughstinghumor |  
+| bip_39_word_no_space_5 | ovallaughstinghumorsoccer |  
+| bip_39_word_no_space_6 | ovallaughstinghumorsoccerbusiness |  
+| bip_39_word_no_space_7 | ovallaughstinghumorsoccerbusinesspyramid |  
+| bip_39_word_no_space_8 | ovallaughstinghumorsoccerbusinesspyramiddefine |  
+| bip_39_word_no_space_9 | ovallaughstinghumorsoccerbusinesspyramiddefinefiscal |  
 | bip_39_word_space_0 | ['oval', 'laugh', 'sting', 'humor', 'soccer', 'business', 'pyramid', 'define', 'fiscal', 'develop', 'expire', 'ask'] |  
 | bip_39_word_space_1 | oval |  
 | bip_39_word_space_10 | oval laugh sting humor soccer business pyramid define fiscal develop |  

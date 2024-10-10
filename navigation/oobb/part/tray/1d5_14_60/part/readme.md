@@ -122,6 +122,18 @@ feature
 tower
 vacant
 panic |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepmangocrunchfinefadefeaturetowervacantpanicnarrow |  
+| bip_39_word_no_space_11 | sleepmangocrunchfinefadefeaturetowervacantpanicnarrowbetray |  
+| bip_39_word_no_space_12 | sleepmangocrunchfinefadefeaturetowervacantpanicnarrowbetrayadd |  
+| bip_39_word_no_space_2 | sleepmango |  
+| bip_39_word_no_space_3 | sleepmangocrunch |  
+| bip_39_word_no_space_4 | sleepmangocrunchfine |  
+| bip_39_word_no_space_5 | sleepmangocrunchfinefade |  
+| bip_39_word_no_space_6 | sleepmangocrunchfinefadefeature |  
+| bip_39_word_no_space_7 | sleepmangocrunchfinefadefeaturetower |  
+| bip_39_word_no_space_8 | sleepmangocrunchfinefadefeaturetowervacant |  
+| bip_39_word_no_space_9 | sleepmangocrunchfinefadefeaturetowervacantpanic |  
 | bip_39_word_space_0 | ['sleep', 'mango', 'crunch', 'fine', 'fade', 'feature', 'tower', 'vacant', 'panic', 'narrow', 'betray', 'add'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep mango crunch fine fade feature tower vacant panic narrow |  

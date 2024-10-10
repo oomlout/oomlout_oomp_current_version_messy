@@ -122,6 +122,18 @@ angry
 year
 invite
 fence |  
+| bip_39_word_no_space_1 | tenant |  
+| bip_39_word_no_space_10 | tenantfilefinishpondbuyerangryyearinvitefencesuit |  
+| bip_39_word_no_space_11 | tenantfilefinishpondbuyerangryyearinvitefencesuitcommon |  
+| bip_39_word_no_space_12 | tenantfilefinishpondbuyerangryyearinvitefencesuitcommonaccount |  
+| bip_39_word_no_space_2 | tenantfile |  
+| bip_39_word_no_space_3 | tenantfilefinish |  
+| bip_39_word_no_space_4 | tenantfilefinishpond |  
+| bip_39_word_no_space_5 | tenantfilefinishpondbuyer |  
+| bip_39_word_no_space_6 | tenantfilefinishpondbuyerangry |  
+| bip_39_word_no_space_7 | tenantfilefinishpondbuyerangryyear |  
+| bip_39_word_no_space_8 | tenantfilefinishpondbuyerangryyearinvite |  
+| bip_39_word_no_space_9 | tenantfilefinishpondbuyerangryyearinvitefence |  
 | bip_39_word_space_0 | ['tenant', 'file', 'finish', 'pond', 'buyer', 'angry', 'year', 'invite', 'fence', 'suit', 'common', 'account'] |  
 | bip_39_word_space_1 | tenant |  
 | bip_39_word_space_10 | tenant file finish pond buyer angry year invite fence suit |  

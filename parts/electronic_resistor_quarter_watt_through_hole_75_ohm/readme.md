@@ -122,6 +122,18 @@ submit
 turkey
 crash
 language |  
+| bip_39_word_no_space_1 | among |  
+| bip_39_word_no_space_10 | amonghurrymatterrideeggsubmitturkeycrashlanguagepoem |  
+| bip_39_word_no_space_11 | amonghurrymatterrideeggsubmitturkeycrashlanguagepoemdecrease |  
+| bip_39_word_no_space_12 | amonghurrymatterrideeggsubmitturkeycrashlanguagepoemdecreaseapple |  
+| bip_39_word_no_space_2 | amonghurry |  
+| bip_39_word_no_space_3 | amonghurrymatter |  
+| bip_39_word_no_space_4 | amonghurrymatterride |  
+| bip_39_word_no_space_5 | amonghurrymatterrideegg |  
+| bip_39_word_no_space_6 | amonghurrymatterrideeggsubmit |  
+| bip_39_word_no_space_7 | amonghurrymatterrideeggsubmitturkey |  
+| bip_39_word_no_space_8 | amonghurrymatterrideeggsubmitturkeycrash |  
+| bip_39_word_no_space_9 | amonghurrymatterrideeggsubmitturkeycrashlanguage |  
 | bip_39_word_space_0 | ['among', 'hurry', 'matter', 'ride', 'egg', 'submit', 'turkey', 'crash', 'language', 'poem', 'decrease', 'apple'] |  
 | bip_39_word_space_1 | among |  
 | bip_39_word_space_10 | among hurry matter ride egg submit turkey crash language poem |  

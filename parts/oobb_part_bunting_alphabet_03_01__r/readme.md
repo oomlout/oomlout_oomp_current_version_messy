@@ -122,6 +122,18 @@ teach
 art
 lift
 best |  
+| bip_39_word_no_space_1 | frequent |  
+| bip_39_word_no_space_10 | frequentdefylikewealthfrontteachartliftbestranch |  
+| bip_39_word_no_space_11 | frequentdefylikewealthfrontteachartliftbestranchhen |  
+| bip_39_word_no_space_12 | frequentdefylikewealthfrontteachartliftbestranchhenartefact |  
+| bip_39_word_no_space_2 | frequentdefy |  
+| bip_39_word_no_space_3 | frequentdefylike |  
+| bip_39_word_no_space_4 | frequentdefylikewealth |  
+| bip_39_word_no_space_5 | frequentdefylikewealthfront |  
+| bip_39_word_no_space_6 | frequentdefylikewealthfrontteach |  
+| bip_39_word_no_space_7 | frequentdefylikewealthfrontteachart |  
+| bip_39_word_no_space_8 | frequentdefylikewealthfrontteachartlift |  
+| bip_39_word_no_space_9 | frequentdefylikewealthfrontteachartliftbest |  
 | bip_39_word_space_0 | ['frequent', 'defy', 'like', 'wealth', 'front', 'teach', 'art', 'lift', 'best', 'ranch', 'hen', 'artefact'] |  
 | bip_39_word_space_1 | frequent |  
 | bip_39_word_space_10 | frequent defy like wealth front teach art lift best ranch |  

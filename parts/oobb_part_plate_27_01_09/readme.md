@@ -122,6 +122,18 @@ rally
 bread
 swallow
 cook |  
+| bip_39_word_no_space_1 | dad |  
+| bip_39_word_no_space_10 | dadcustomsloganburgercivilrallybreadswallowcooklottery |  
+| bip_39_word_no_space_11 | dadcustomsloganburgercivilrallybreadswallowcooklotterygoat |  
+| bip_39_word_no_space_12 | dadcustomsloganburgercivilrallybreadswallowcooklotterygoatabsent |  
+| bip_39_word_no_space_2 | dadcustom |  
+| bip_39_word_no_space_3 | dadcustomslogan |  
+| bip_39_word_no_space_4 | dadcustomsloganburger |  
+| bip_39_word_no_space_5 | dadcustomsloganburgercivil |  
+| bip_39_word_no_space_6 | dadcustomsloganburgercivilrally |  
+| bip_39_word_no_space_7 | dadcustomsloganburgercivilrallybread |  
+| bip_39_word_no_space_8 | dadcustomsloganburgercivilrallybreadswallow |  
+| bip_39_word_no_space_9 | dadcustomsloganburgercivilrallybreadswallowcook |  
 | bip_39_word_space_0 | ['dad', 'custom', 'slogan', 'burger', 'civil', 'rally', 'bread', 'swallow', 'cook', 'lottery', 'goat', 'absent'] |  
 | bip_39_word_space_1 | dad |  
 | bip_39_word_space_10 | dad custom slogan burger civil rally bread swallow cook lottery |  

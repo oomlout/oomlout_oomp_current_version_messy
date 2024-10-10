@@ -122,6 +122,18 @@ able
 letter
 love
 climb |  
+| bip_39_word_no_space_1 | prevent |  
+| bip_39_word_no_space_10 | preventquoteabsurdbookquantumableletterloveclimbpromote |  
+| bip_39_word_no_space_11 | preventquoteabsurdbookquantumableletterloveclimbpromoteumbrella |  
+| bip_39_word_no_space_12 | preventquoteabsurdbookquantumableletterloveclimbpromoteumbrellaamong |  
+| bip_39_word_no_space_2 | preventquote |  
+| bip_39_word_no_space_3 | preventquoteabsurd |  
+| bip_39_word_no_space_4 | preventquoteabsurdbook |  
+| bip_39_word_no_space_5 | preventquoteabsurdbookquantum |  
+| bip_39_word_no_space_6 | preventquoteabsurdbookquantumable |  
+| bip_39_word_no_space_7 | preventquoteabsurdbookquantumableletter |  
+| bip_39_word_no_space_8 | preventquoteabsurdbookquantumableletterlove |  
+| bip_39_word_no_space_9 | preventquoteabsurdbookquantumableletterloveclimb |  
 | bip_39_word_space_0 | ['prevent', 'quote', 'absurd', 'book', 'quantum', 'able', 'letter', 'love', 'climb', 'promote', 'umbrella', 'among'] |  
 | bip_39_word_space_1 | prevent |  
 | bip_39_word_space_10 | prevent quote absurd book quantum able letter love climb promote |  

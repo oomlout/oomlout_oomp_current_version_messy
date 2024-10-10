@@ -122,6 +122,18 @@ enough
 love
 dial
 business |  
+| bip_39_word_no_space_1 | layer |  
+| bip_39_word_no_space_10 | layercramrememberconnectagentenoughlovedialbusinesscrop |  
+| bip_39_word_no_space_11 | layercramrememberconnectagentenoughlovedialbusinesscropsmoke |  
+| bip_39_word_no_space_12 | layercramrememberconnectagentenoughlovedialbusinesscropsmokeapril |  
+| bip_39_word_no_space_2 | layercram |  
+| bip_39_word_no_space_3 | layercramremember |  
+| bip_39_word_no_space_4 | layercramrememberconnect |  
+| bip_39_word_no_space_5 | layercramrememberconnectagent |  
+| bip_39_word_no_space_6 | layercramrememberconnectagentenough |  
+| bip_39_word_no_space_7 | layercramrememberconnectagentenoughlove |  
+| bip_39_word_no_space_8 | layercramrememberconnectagentenoughlovedial |  
+| bip_39_word_no_space_9 | layercramrememberconnectagentenoughlovedialbusiness |  
 | bip_39_word_space_0 | ['layer', 'cram', 'remember', 'connect', 'agent', 'enough', 'love', 'dial', 'business', 'crop', 'smoke', 'april'] |  
 | bip_39_word_space_1 | layer |  
 | bip_39_word_space_10 | layer cram remember connect agent enough love dial business crop |  

@@ -122,6 +122,18 @@ decorate
 decade
 blanket
 oval |  
+| bip_39_word_no_space_1 | dial |  
+| bip_39_word_no_space_10 | dialbikedutchtastelunchdecoratedecadeblanketovalmaze |  
+| bip_39_word_no_space_11 | dialbikedutchtastelunchdecoratedecadeblanketovalmazetruly |  
+| bip_39_word_no_space_12 | dialbikedutchtastelunchdecoratedecadeblanketovalmazetrulyappear |  
+| bip_39_word_no_space_2 | dialbike |  
+| bip_39_word_no_space_3 | dialbikedutch |  
+| bip_39_word_no_space_4 | dialbikedutchtaste |  
+| bip_39_word_no_space_5 | dialbikedutchtastelunch |  
+| bip_39_word_no_space_6 | dialbikedutchtastelunchdecorate |  
+| bip_39_word_no_space_7 | dialbikedutchtastelunchdecoratedecade |  
+| bip_39_word_no_space_8 | dialbikedutchtastelunchdecoratedecadeblanket |  
+| bip_39_word_no_space_9 | dialbikedutchtastelunchdecoratedecadeblanketoval |  
 | bip_39_word_space_0 | ['dial', 'bike', 'dutch', 'taste', 'lunch', 'decorate', 'decade', 'blanket', 'oval', 'maze', 'truly', 'appear'] |  
 | bip_39_word_space_1 | dial |  
 | bip_39_word_space_10 | dial bike dutch taste lunch decorate decade blanket oval maze |  

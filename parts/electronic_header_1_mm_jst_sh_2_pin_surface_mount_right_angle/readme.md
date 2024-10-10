@@ -122,6 +122,18 @@ vault
 blast
 devote
 book |  
+| bip_39_word_no_space_1 | abstract |  
+| bip_39_word_no_space_10 | abstractcarslogansaladcramvaultblastdevotebookkey |  
+| bip_39_word_no_space_11 | abstractcarslogansaladcramvaultblastdevotebookkeyjeans |  
+| bip_39_word_no_space_12 | abstractcarslogansaladcramvaultblastdevotebookkeyjeansarctic |  
+| bip_39_word_no_space_2 | abstractcar |  
+| bip_39_word_no_space_3 | abstractcarslogan |  
+| bip_39_word_no_space_4 | abstractcarslogansalad |  
+| bip_39_word_no_space_5 | abstractcarslogansaladcram |  
+| bip_39_word_no_space_6 | abstractcarslogansaladcramvault |  
+| bip_39_word_no_space_7 | abstractcarslogansaladcramvaultblast |  
+| bip_39_word_no_space_8 | abstractcarslogansaladcramvaultblastdevote |  
+| bip_39_word_no_space_9 | abstractcarslogansaladcramvaultblastdevotebook |  
 | bip_39_word_space_0 | ['abstract', 'car', 'slogan', 'salad', 'cram', 'vault', 'blast', 'devote', 'book', 'key', 'jeans', 'arctic'] |  
 | bip_39_word_space_1 | abstract |  
 | bip_39_word_space_10 | abstract car slogan salad cram vault blast devote book key |  

@@ -122,6 +122,18 @@ snap
 flush
 client
 twist |  
+| bip_39_word_no_space_1 | senior |  
+| bip_39_word_no_space_10 | seniorupgradedriftsymptomoutputsnapflushclienttwistmonkey |  
+| bip_39_word_no_space_11 | seniorupgradedriftsymptomoutputsnapflushclienttwistmonkeyblue |  
+| bip_39_word_no_space_12 | seniorupgradedriftsymptomoutputsnapflushclienttwistmonkeyblueasthma |  
+| bip_39_word_no_space_2 | seniorupgrade |  
+| bip_39_word_no_space_3 | seniorupgradedrift |  
+| bip_39_word_no_space_4 | seniorupgradedriftsymptom |  
+| bip_39_word_no_space_5 | seniorupgradedriftsymptomoutput |  
+| bip_39_word_no_space_6 | seniorupgradedriftsymptomoutputsnap |  
+| bip_39_word_no_space_7 | seniorupgradedriftsymptomoutputsnapflush |  
+| bip_39_word_no_space_8 | seniorupgradedriftsymptomoutputsnapflushclient |  
+| bip_39_word_no_space_9 | seniorupgradedriftsymptomoutputsnapflushclienttwist |  
 | bip_39_word_space_0 | ['senior', 'upgrade', 'drift', 'symptom', 'output', 'snap', 'flush', 'client', 'twist', 'monkey', 'blue', 'asthma'] |  
 | bip_39_word_space_1 | senior |  
 | bip_39_word_space_10 | senior upgrade drift symptom output snap flush client twist monkey |  

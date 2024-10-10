@@ -122,6 +122,18 @@ evolve
 frost
 essay
 online |  
+| bip_39_word_no_space_1 | project |  
+| bip_39_word_no_space_10 | projectmediarivaleducatefuelevolvefrostessayonlinespread |  
+| bip_39_word_no_space_11 | projectmediarivaleducatefuelevolvefrostessayonlinespreadhard |  
+| bip_39_word_no_space_12 | projectmediarivaleducatefuelevolvefrostessayonlinespreadhardanswer |  
+| bip_39_word_no_space_2 | projectmedia |  
+| bip_39_word_no_space_3 | projectmediarival |  
+| bip_39_word_no_space_4 | projectmediarivaleducate |  
+| bip_39_word_no_space_5 | projectmediarivaleducatefuel |  
+| bip_39_word_no_space_6 | projectmediarivaleducatefuelevolve |  
+| bip_39_word_no_space_7 | projectmediarivaleducatefuelevolvefrost |  
+| bip_39_word_no_space_8 | projectmediarivaleducatefuelevolvefrostessay |  
+| bip_39_word_no_space_9 | projectmediarivaleducatefuelevolvefrostessayonline |  
 | bip_39_word_space_0 | ['project', 'media', 'rival', 'educate', 'fuel', 'evolve', 'frost', 'essay', 'online', 'spread', 'hard', 'answer'] |  
 | bip_39_word_space_1 | project |  
 | bip_39_word_space_10 | project media rival educate fuel evolve frost essay online spread |  

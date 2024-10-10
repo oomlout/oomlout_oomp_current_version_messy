@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bracket
   spot
 
   border'
+bip_39_word_no_space_1: bracket
+bip_39_word_no_space_10: bracketjokeeliteaimostrichtopreformspotbordercomfort
+bip_39_word_no_space_11: bracketjokeeliteaimostrichtopreformspotbordercomfortdeal
+bip_39_word_no_space_12: bracketjokeeliteaimostrichtopreformspotbordercomfortdealaerobic
+bip_39_word_no_space_2: bracketjoke
+bip_39_word_no_space_3: bracketjokeelite
+bip_39_word_no_space_4: bracketjokeeliteaim
+bip_39_word_no_space_5: bracketjokeeliteaimostrich
+bip_39_word_no_space_6: bracketjokeeliteaimostrichtop
+bip_39_word_no_space_7: bracketjokeeliteaimostrichtopreform
+bip_39_word_no_space_8: bracketjokeeliteaimostrichtopreformspot
+bip_39_word_no_space_9: bracketjokeeliteaimostrichtopreformspotborder
 bip_39_word_space_0:
 - bracket
 - joke

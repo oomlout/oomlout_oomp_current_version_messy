@@ -122,6 +122,18 @@ topple
 patch
 inmate
 audit |  
+| bip_39_word_no_space_1 | hood |  
+| bip_39_word_no_space_10 | hoodgroceryborrowjokeeasttopplepatchinmateauditeagle |  
+| bip_39_word_no_space_11 | hoodgroceryborrowjokeeasttopplepatchinmateauditeaglearrange |  
+| bip_39_word_no_space_12 | hoodgroceryborrowjokeeasttopplepatchinmateauditeaglearrangeassist |  
+| bip_39_word_no_space_2 | hoodgrocery |  
+| bip_39_word_no_space_3 | hoodgroceryborrow |  
+| bip_39_word_no_space_4 | hoodgroceryborrowjoke |  
+| bip_39_word_no_space_5 | hoodgroceryborrowjokeeast |  
+| bip_39_word_no_space_6 | hoodgroceryborrowjokeeasttopple |  
+| bip_39_word_no_space_7 | hoodgroceryborrowjokeeasttopplepatch |  
+| bip_39_word_no_space_8 | hoodgroceryborrowjokeeasttopplepatchinmate |  
+| bip_39_word_no_space_9 | hoodgroceryborrowjokeeasttopplepatchinmateaudit |  
 | bip_39_word_space_0 | ['hood', 'grocery', 'borrow', 'joke', 'east', 'topple', 'patch', 'inmate', 'audit', 'eagle', 'arrange', 'assist'] |  
 | bip_39_word_space_1 | hood |  
 | bip_39_word_space_10 | hood grocery borrow joke east topple patch inmate audit eagle |  

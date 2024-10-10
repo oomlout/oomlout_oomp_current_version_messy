@@ -122,6 +122,18 @@ dirt
 alcohol
 daring
 parrot |  
+| bip_39_word_no_space_1 | wise |  
+| bip_39_word_no_space_10 | wisecoolappearleavedivertdirtalcoholdaringparrotseat |  
+| bip_39_word_no_space_11 | wisecoolappearleavedivertdirtalcoholdaringparrotseatuntil |  
+| bip_39_word_no_space_12 | wisecoolappearleavedivertdirtalcoholdaringparrotseatuntilany |  
+| bip_39_word_no_space_2 | wisecool |  
+| bip_39_word_no_space_3 | wisecoolappear |  
+| bip_39_word_no_space_4 | wisecoolappearleave |  
+| bip_39_word_no_space_5 | wisecoolappearleavedivert |  
+| bip_39_word_no_space_6 | wisecoolappearleavedivertdirt |  
+| bip_39_word_no_space_7 | wisecoolappearleavedivertdirtalcohol |  
+| bip_39_word_no_space_8 | wisecoolappearleavedivertdirtalcoholdaring |  
+| bip_39_word_no_space_9 | wisecoolappearleavedivertdirtalcoholdaringparrot |  
 | bip_39_word_space_0 | ['wise', 'cool', 'appear', 'leave', 'divert', 'dirt', 'alcohol', 'daring', 'parrot', 'seat', 'until', 'any'] |  
 | bip_39_word_space_1 | wise |  
 | bip_39_word_space_10 | wise cool appear leave divert dirt alcohol daring parrot seat |  

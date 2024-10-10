@@ -122,6 +122,18 @@ elite
 crop
 such
 canal |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | mustunveilcasualcashkiwielitecropsuchcanalgarden |  
+| bip_39_word_no_space_11 | mustunveilcasualcashkiwielitecropsuchcanalgardenoven |  
+| bip_39_word_no_space_12 | mustunveilcasualcashkiwielitecropsuchcanalgardenovenable |  
+| bip_39_word_no_space_2 | mustunveil |  
+| bip_39_word_no_space_3 | mustunveilcasual |  
+| bip_39_word_no_space_4 | mustunveilcasualcash |  
+| bip_39_word_no_space_5 | mustunveilcasualcashkiwi |  
+| bip_39_word_no_space_6 | mustunveilcasualcashkiwielite |  
+| bip_39_word_no_space_7 | mustunveilcasualcashkiwielitecrop |  
+| bip_39_word_no_space_8 | mustunveilcasualcashkiwielitecropsuch |  
+| bip_39_word_no_space_9 | mustunveilcasualcashkiwielitecropsuchcanal |  
 | bip_39_word_space_0 | ['must', 'unveil', 'casual', 'cash', 'kiwi', 'elite', 'crop', 'such', 'canal', 'garden', 'oven', 'able'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must unveil casual cash kiwi elite crop such canal garden |  

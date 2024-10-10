@@ -122,6 +122,18 @@ second
 roast
 betray
 correct |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstshineempowerexisthabitsecondroastbetraycorrectthrive |  
+| bip_39_word_no_space_11 | burstshineempowerexisthabitsecondroastbetraycorrectthrivejazz |  
+| bip_39_word_no_space_12 | burstshineempowerexisthabitsecondroastbetraycorrectthrivejazzannual |  
+| bip_39_word_no_space_2 | burstshine |  
+| bip_39_word_no_space_3 | burstshineempower |  
+| bip_39_word_no_space_4 | burstshineempowerexist |  
+| bip_39_word_no_space_5 | burstshineempowerexisthabit |  
+| bip_39_word_no_space_6 | burstshineempowerexisthabitsecond |  
+| bip_39_word_no_space_7 | burstshineempowerexisthabitsecondroast |  
+| bip_39_word_no_space_8 | burstshineempowerexisthabitsecondroastbetray |  
+| bip_39_word_no_space_9 | burstshineempowerexisthabitsecondroastbetraycorrect |  
 | bip_39_word_space_0 | ['burst', 'shine', 'empower', 'exist', 'habit', 'second', 'roast', 'betray', 'correct', 'thrive', 'jazz', 'annual'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst shine empower exist habit second roast betray correct thrive |  

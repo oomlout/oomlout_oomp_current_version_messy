@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chat
   sunset
 
   response'
+bip_39_word_no_space_1: chat
+bip_39_word_no_space_10: chatsearchdelaysadtownzeroglancesunsetresponseglory
+bip_39_word_no_space_11: chatsearchdelaysadtownzeroglancesunsetresponseglorylink
+bip_39_word_no_space_12: chatsearchdelaysadtownzeroglancesunsetresponseglorylinkacquire
+bip_39_word_no_space_2: chatsearch
+bip_39_word_no_space_3: chatsearchdelay
+bip_39_word_no_space_4: chatsearchdelaysad
+bip_39_word_no_space_5: chatsearchdelaysadtown
+bip_39_word_no_space_6: chatsearchdelaysadtownzero
+bip_39_word_no_space_7: chatsearchdelaysadtownzeroglance
+bip_39_word_no_space_8: chatsearchdelaysadtownzeroglancesunset
+bip_39_word_no_space_9: chatsearchdelaysadtownzeroglancesunsetresponse
 bip_39_word_space_0:
 - chat
 - search

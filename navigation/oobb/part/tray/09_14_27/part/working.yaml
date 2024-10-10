@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cushion
   gossip
 
   off'
+bip_39_word_no_space_1: cushion
+bip_39_word_no_space_10: cushiongridhobbybiologystagemainrulegossipoffsweet
+bip_39_word_no_space_11: cushiongridhobbybiologystagemainrulegossipoffsweetskull
+bip_39_word_no_space_12: cushiongridhobbybiologystagemainrulegossipoffsweetskullall
+bip_39_word_no_space_2: cushiongrid
+bip_39_word_no_space_3: cushiongridhobby
+bip_39_word_no_space_4: cushiongridhobbybiology
+bip_39_word_no_space_5: cushiongridhobbybiologystage
+bip_39_word_no_space_6: cushiongridhobbybiologystagemain
+bip_39_word_no_space_7: cushiongridhobbybiologystagemainrule
+bip_39_word_no_space_8: cushiongridhobbybiologystagemainrulegossip
+bip_39_word_no_space_9: cushiongridhobbybiologystagemainrulegossipoff
 bip_39_word_space_0:
 - cushion
 - grid

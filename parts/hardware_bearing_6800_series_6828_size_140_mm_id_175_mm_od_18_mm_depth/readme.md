@@ -122,6 +122,18 @@ quality
 year
 visa
 advance |  
+| bip_39_word_no_space_1 | motor |  
+| bip_39_word_no_space_10 | motorsickadultcasinothingqualityyearvisaadvanceroyal |  
+| bip_39_word_no_space_11 | motorsickadultcasinothingqualityyearvisaadvanceroyalelbow |  
+| bip_39_word_no_space_12 | motorsickadultcasinothingqualityyearvisaadvanceroyalelbowasset |  
+| bip_39_word_no_space_2 | motorsick |  
+| bip_39_word_no_space_3 | motorsickadult |  
+| bip_39_word_no_space_4 | motorsickadultcasino |  
+| bip_39_word_no_space_5 | motorsickadultcasinothing |  
+| bip_39_word_no_space_6 | motorsickadultcasinothingquality |  
+| bip_39_word_no_space_7 | motorsickadultcasinothingqualityyear |  
+| bip_39_word_no_space_8 | motorsickadultcasinothingqualityyearvisa |  
+| bip_39_word_no_space_9 | motorsickadultcasinothingqualityyearvisaadvance |  
 | bip_39_word_space_0 | ['motor', 'sick', 'adult', 'casino', 'thing', 'quality', 'year', 'visa', 'advance', 'royal', 'elbow', 'asset'] |  
 | bip_39_word_space_1 | motor |  
 | bip_39_word_space_10 | motor sick adult casino thing quality year visa advance royal |  

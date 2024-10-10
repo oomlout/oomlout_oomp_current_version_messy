@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cube
   grocery
 
   decide'
+bip_39_word_no_space_1: cube
+bip_39_word_no_space_10: cubeoperatrendcarneglectscaleclapgrocerydecideiron
+bip_39_word_no_space_11: cubeoperatrendcarneglectscaleclapgrocerydecideironpizza
+bip_39_word_no_space_12: cubeoperatrendcarneglectscaleclapgrocerydecideironpizzaautumn
+bip_39_word_no_space_2: cubeopera
+bip_39_word_no_space_3: cubeoperatrend
+bip_39_word_no_space_4: cubeoperatrendcar
+bip_39_word_no_space_5: cubeoperatrendcarneglect
+bip_39_word_no_space_6: cubeoperatrendcarneglectscale
+bip_39_word_no_space_7: cubeoperatrendcarneglectscaleclap
+bip_39_word_no_space_8: cubeoperatrendcarneglectscaleclapgrocery
+bip_39_word_no_space_9: cubeoperatrendcarneglectscaleclapgrocerydecide
 bip_39_word_space_0:
 - cube
 - opera

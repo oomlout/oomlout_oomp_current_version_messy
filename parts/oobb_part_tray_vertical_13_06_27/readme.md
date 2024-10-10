@@ -122,6 +122,18 @@ merry
 nothing
 laugh
 cherry |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefslogantoebulbcleanmerrynothinglaughcherrymeasure |  
+| bip_39_word_no_space_11 | chefslogantoebulbcleanmerrynothinglaughcherrymeasuremonitor |  
+| bip_39_word_no_space_12 | chefslogantoebulbcleanmerrynothinglaughcherrymeasuremonitoragain |  
+| bip_39_word_no_space_2 | chefslogan |  
+| bip_39_word_no_space_3 | chefslogantoe |  
+| bip_39_word_no_space_4 | chefslogantoebulb |  
+| bip_39_word_no_space_5 | chefslogantoebulbclean |  
+| bip_39_word_no_space_6 | chefslogantoebulbcleanmerry |  
+| bip_39_word_no_space_7 | chefslogantoebulbcleanmerrynothing |  
+| bip_39_word_no_space_8 | chefslogantoebulbcleanmerrynothinglaugh |  
+| bip_39_word_no_space_9 | chefslogantoebulbcleanmerrynothinglaughcherry |  
 | bip_39_word_space_0 | ['chef', 'slogan', 'toe', 'bulb', 'clean', 'merry', 'nothing', 'laugh', 'cherry', 'measure', 'monitor', 'again'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef slogan toe bulb clean merry nothing laugh cherry measure |  

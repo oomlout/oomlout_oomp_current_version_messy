@@ -122,6 +122,18 @@ remain
 explain
 vague
 retreat |  
+| bip_39_word_no_space_1 | tenant |  
+| bip_39_word_no_space_10 | tenantdynamiccatchremembershiverremainexplainvagueretreattip |  
+| bip_39_word_no_space_11 | tenantdynamiccatchremembershiverremainexplainvagueretreattipkiwi |  
+| bip_39_word_no_space_12 | tenantdynamiccatchremembershiverremainexplainvagueretreattipkiwiadvance |  
+| bip_39_word_no_space_2 | tenantdynamic |  
+| bip_39_word_no_space_3 | tenantdynamiccatch |  
+| bip_39_word_no_space_4 | tenantdynamiccatchremember |  
+| bip_39_word_no_space_5 | tenantdynamiccatchremembershiver |  
+| bip_39_word_no_space_6 | tenantdynamiccatchremembershiverremain |  
+| bip_39_word_no_space_7 | tenantdynamiccatchremembershiverremainexplain |  
+| bip_39_word_no_space_8 | tenantdynamiccatchremembershiverremainexplainvague |  
+| bip_39_word_no_space_9 | tenantdynamiccatchremembershiverremainexplainvagueretreat |  
 | bip_39_word_space_0 | ['tenant', 'dynamic', 'catch', 'remember', 'shiver', 'remain', 'explain', 'vague', 'retreat', 'tip', 'kiwi', 'advance'] |  
 | bip_39_word_space_1 | tenant |  
 | bip_39_word_space_10 | tenant dynamic catch remember shiver remain explain vague retreat tip |  

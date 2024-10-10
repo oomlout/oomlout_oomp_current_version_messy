@@ -122,6 +122,18 @@ birth
 arrest
 board
 play |  
+| bip_39_word_no_space_1 | squirrel |  
+| bip_39_word_no_space_10 | squirrelappearshinegravityabsorbbirtharrestboardplaysoda |  
+| bip_39_word_no_space_11 | squirrelappearshinegravityabsorbbirtharrestboardplaysodaabout |  
+| bip_39_word_no_space_12 | squirrelappearshinegravityabsorbbirtharrestboardplaysodaaboutabuse |  
+| bip_39_word_no_space_2 | squirrelappear |  
+| bip_39_word_no_space_3 | squirrelappearshine |  
+| bip_39_word_no_space_4 | squirrelappearshinegravity |  
+| bip_39_word_no_space_5 | squirrelappearshinegravityabsorb |  
+| bip_39_word_no_space_6 | squirrelappearshinegravityabsorbbirth |  
+| bip_39_word_no_space_7 | squirrelappearshinegravityabsorbbirtharrest |  
+| bip_39_word_no_space_8 | squirrelappearshinegravityabsorbbirtharrestboard |  
+| bip_39_word_no_space_9 | squirrelappearshinegravityabsorbbirtharrestboardplay |  
 | bip_39_word_space_0 | ['squirrel', 'appear', 'shine', 'gravity', 'absorb', 'birth', 'arrest', 'board', 'play', 'soda', 'about', 'abuse'] |  
 | bip_39_word_space_1 | squirrel |  
 | bip_39_word_space_10 | squirrel appear shine gravity absorb birth arrest board play soda |  

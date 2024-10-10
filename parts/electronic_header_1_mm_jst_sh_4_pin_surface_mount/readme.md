@@ -122,6 +122,18 @@ muffin
 romance
 bone
 bench |  
+| bip_39_word_no_space_1 | document |  
+| bip_39_word_no_space_10 | documentoxygenaboutsnapfrequentmuffinromancebonebenchpave |  
+| bip_39_word_no_space_11 | documentoxygenaboutsnapfrequentmuffinromancebonebenchpavediagram |  
+| bip_39_word_no_space_12 | documentoxygenaboutsnapfrequentmuffinromancebonebenchpavediagramapology |  
+| bip_39_word_no_space_2 | documentoxygen |  
+| bip_39_word_no_space_3 | documentoxygenabout |  
+| bip_39_word_no_space_4 | documentoxygenaboutsnap |  
+| bip_39_word_no_space_5 | documentoxygenaboutsnapfrequent |  
+| bip_39_word_no_space_6 | documentoxygenaboutsnapfrequentmuffin |  
+| bip_39_word_no_space_7 | documentoxygenaboutsnapfrequentmuffinromance |  
+| bip_39_word_no_space_8 | documentoxygenaboutsnapfrequentmuffinromancebone |  
+| bip_39_word_no_space_9 | documentoxygenaboutsnapfrequentmuffinromancebonebench |  
 | bip_39_word_space_0 | ['document', 'oxygen', 'about', 'snap', 'frequent', 'muffin', 'romance', 'bone', 'bench', 'pave', 'diagram', 'apology'] |  
 | bip_39_word_space_1 | document |  
 | bip_39_word_space_10 | document oxygen about snap frequent muffin romance bone bench pave |  

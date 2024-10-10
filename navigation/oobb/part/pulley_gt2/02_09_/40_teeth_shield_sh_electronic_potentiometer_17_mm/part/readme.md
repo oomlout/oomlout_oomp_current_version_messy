@@ -122,6 +122,18 @@ hen
 stumble
 shy
 olympic |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | tryknownoblesmoothghosthenstumbleshyolympiccurve |  
+| bip_39_word_no_space_11 | tryknownoblesmoothghosthenstumbleshyolympiccurveraven |  
+| bip_39_word_no_space_12 | tryknownoblesmoothghosthenstumbleshyolympiccurveravenanother |  
+| bip_39_word_no_space_2 | tryknow |  
+| bip_39_word_no_space_3 | tryknownoble |  
+| bip_39_word_no_space_4 | tryknownoblesmooth |  
+| bip_39_word_no_space_5 | tryknownoblesmoothghost |  
+| bip_39_word_no_space_6 | tryknownoblesmoothghosthen |  
+| bip_39_word_no_space_7 | tryknownoblesmoothghosthenstumble |  
+| bip_39_word_no_space_8 | tryknownoblesmoothghosthenstumbleshy |  
+| bip_39_word_no_space_9 | tryknownoblesmoothghosthenstumbleshyolympic |  
 | bip_39_word_space_0 | ['try', 'know', 'noble', 'smooth', 'ghost', 'hen', 'stumble', 'shy', 'olympic', 'curve', 'raven', 'another'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try know noble smooth ghost hen stumble shy olympic curve |  

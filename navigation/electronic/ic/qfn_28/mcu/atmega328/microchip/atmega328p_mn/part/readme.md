@@ -122,6 +122,18 @@ gravity
 release
 slice
 page |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | ruleceilingrunnutpalmgravityreleaseslicepagequality |  
+| bip_39_word_no_space_11 | ruleceilingrunnutpalmgravityreleaseslicepagequalitybunker |  
+| bip_39_word_no_space_12 | ruleceilingrunnutpalmgravityreleaseslicepagequalitybunkeragent |  
+| bip_39_word_no_space_2 | ruleceiling |  
+| bip_39_word_no_space_3 | ruleceilingrun |  
+| bip_39_word_no_space_4 | ruleceilingrunnut |  
+| bip_39_word_no_space_5 | ruleceilingrunnutpalm |  
+| bip_39_word_no_space_6 | ruleceilingrunnutpalmgravity |  
+| bip_39_word_no_space_7 | ruleceilingrunnutpalmgravityrelease |  
+| bip_39_word_no_space_8 | ruleceilingrunnutpalmgravityreleaseslice |  
+| bip_39_word_no_space_9 | ruleceilingrunnutpalmgravityreleaseslicepage |  
 | bip_39_word_space_0 | ['rule', 'ceiling', 'run', 'nut', 'palm', 'gravity', 'release', 'slice', 'page', 'quality', 'bunker', 'agent'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule ceiling run nut palm gravity release slice page quality |  

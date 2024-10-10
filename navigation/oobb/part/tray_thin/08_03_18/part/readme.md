@@ -122,6 +122,18 @@ scout
 buzz
 receive
 cube |  
+| bip_39_word_no_space_1 | ozone |  
+| bip_39_word_no_space_10 | ozoneolympicstudentpairthemescoutbuzzreceivecubeblade |  
+| bip_39_word_no_space_11 | ozoneolympicstudentpairthemescoutbuzzreceivecubebladerecycle |  
+| bip_39_word_no_space_12 | ozoneolympicstudentpairthemescoutbuzzreceivecubebladerecycleair |  
+| bip_39_word_no_space_2 | ozoneolympic |  
+| bip_39_word_no_space_3 | ozoneolympicstudent |  
+| bip_39_word_no_space_4 | ozoneolympicstudentpair |  
+| bip_39_word_no_space_5 | ozoneolympicstudentpairtheme |  
+| bip_39_word_no_space_6 | ozoneolympicstudentpairthemescout |  
+| bip_39_word_no_space_7 | ozoneolympicstudentpairthemescoutbuzz |  
+| bip_39_word_no_space_8 | ozoneolympicstudentpairthemescoutbuzzreceive |  
+| bip_39_word_no_space_9 | ozoneolympicstudentpairthemescoutbuzzreceivecube |  
 | bip_39_word_space_0 | ['ozone', 'olympic', 'student', 'pair', 'theme', 'scout', 'buzz', 'receive', 'cube', 'blade', 'recycle', 'air'] |  
 | bip_39_word_space_1 | ozone |  
 | bip_39_word_space_10 | ozone olympic student pair theme scout buzz receive cube blade |  

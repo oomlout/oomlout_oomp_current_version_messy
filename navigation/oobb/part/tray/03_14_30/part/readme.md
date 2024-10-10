@@ -122,6 +122,18 @@ view
 taste
 roast
 fluid |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtlejarstartrewardmandateviewtasteroastfluidriot |  
+| bip_39_word_no_space_11 | turtlejarstartrewardmandateviewtasteroastfluidriotdanger |  
+| bip_39_word_no_space_12 | turtlejarstartrewardmandateviewtasteroastfluidriotdangerattend |  
+| bip_39_word_no_space_2 | turtlejar |  
+| bip_39_word_no_space_3 | turtlejarstart |  
+| bip_39_word_no_space_4 | turtlejarstartreward |  
+| bip_39_word_no_space_5 | turtlejarstartrewardmandate |  
+| bip_39_word_no_space_6 | turtlejarstartrewardmandateview |  
+| bip_39_word_no_space_7 | turtlejarstartrewardmandateviewtaste |  
+| bip_39_word_no_space_8 | turtlejarstartrewardmandateviewtasteroast |  
+| bip_39_word_no_space_9 | turtlejarstartrewardmandateviewtasteroastfluid |  
 | bip_39_word_space_0 | ['turtle', 'jar', 'start', 'reward', 'mandate', 'view', 'taste', 'roast', 'fluid', 'riot', 'danger', 'attend'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle jar start reward mandate view taste roast fluid riot |  

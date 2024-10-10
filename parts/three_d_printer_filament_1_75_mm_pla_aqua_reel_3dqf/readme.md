@@ -122,6 +122,18 @@ scale
 ribbon
 labor
 uniform |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatbachelorbehindboneicescaleribbonlaboruniformlens |  
+| bip_39_word_no_space_11 | whatbachelorbehindboneicescaleribbonlaboruniformlensown |  
+| bip_39_word_no_space_12 | whatbachelorbehindboneicescaleribbonlaboruniformlensownadd |  
+| bip_39_word_no_space_2 | whatbachelor |  
+| bip_39_word_no_space_3 | whatbachelorbehind |  
+| bip_39_word_no_space_4 | whatbachelorbehindbone |  
+| bip_39_word_no_space_5 | whatbachelorbehindboneice |  
+| bip_39_word_no_space_6 | whatbachelorbehindboneicescale |  
+| bip_39_word_no_space_7 | whatbachelorbehindboneicescaleribbon |  
+| bip_39_word_no_space_8 | whatbachelorbehindboneicescaleribbonlabor |  
+| bip_39_word_no_space_9 | whatbachelorbehindboneicescaleribbonlaboruniform |  
 | bip_39_word_space_0 | ['what', 'bachelor', 'behind', 'bone', 'ice', 'scale', 'ribbon', 'labor', 'uniform', 'lens', 'own', 'add'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what bachelor behind bone ice scale ribbon labor uniform lens |  

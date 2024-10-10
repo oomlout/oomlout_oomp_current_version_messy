@@ -122,6 +122,18 @@ toast
 gown
 betray
 direct |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palacedogtermmovemuscletoastgownbetraydirectbetter |  
+| bip_39_word_no_space_11 | palacedogtermmovemuscletoastgownbetraydirectbetterhire |  
+| bip_39_word_no_space_12 | palacedogtermmovemuscletoastgownbetraydirectbetterhirealmost |  
+| bip_39_word_no_space_2 | palacedog |  
+| bip_39_word_no_space_3 | palacedogterm |  
+| bip_39_word_no_space_4 | palacedogtermmove |  
+| bip_39_word_no_space_5 | palacedogtermmovemuscle |  
+| bip_39_word_no_space_6 | palacedogtermmovemuscletoast |  
+| bip_39_word_no_space_7 | palacedogtermmovemuscletoastgown |  
+| bip_39_word_no_space_8 | palacedogtermmovemuscletoastgownbetray |  
+| bip_39_word_no_space_9 | palacedogtermmovemuscletoastgownbetraydirect |  
 | bip_39_word_space_0 | ['palace', 'dog', 'term', 'move', 'muscle', 'toast', 'gown', 'betray', 'direct', 'better', 'hire', 'almost'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace dog term move muscle toast gown betray direct better |  

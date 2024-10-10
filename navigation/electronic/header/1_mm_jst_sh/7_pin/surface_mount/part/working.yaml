@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vague
   wealth
 
   thrive'
+bip_39_word_no_space_1: vague
+bip_39_word_no_space_10: vaguedutchfloorfetchgrasslyricsclothwealththrivedial
+bip_39_word_no_space_11: vaguedutchfloorfetchgrasslyricsclothwealththrivedialsalad
+bip_39_word_no_space_12: vaguedutchfloorfetchgrasslyricsclothwealththrivedialsaladaccount
+bip_39_word_no_space_2: vaguedutch
+bip_39_word_no_space_3: vaguedutchfloor
+bip_39_word_no_space_4: vaguedutchfloorfetch
+bip_39_word_no_space_5: vaguedutchfloorfetchgrass
+bip_39_word_no_space_6: vaguedutchfloorfetchgrasslyrics
+bip_39_word_no_space_7: vaguedutchfloorfetchgrasslyricscloth
+bip_39_word_no_space_8: vaguedutchfloorfetchgrasslyricsclothwealth
+bip_39_word_no_space_9: vaguedutchfloorfetchgrasslyricsclothwealththrive
 bip_39_word_space_0:
 - vague
 - dutch

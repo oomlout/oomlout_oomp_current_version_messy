@@ -122,6 +122,18 @@ repair
 chase
 wear
 space |  
+| bip_39_word_no_space_1 | away |  
+| bip_39_word_no_space_10 | awaysaybesteducatetrimrepairchasewearspaceuniverse |  
+| bip_39_word_no_space_11 | awaysaybesteducatetrimrepairchasewearspaceuniverseobey |  
+| bip_39_word_no_space_12 | awaysaybesteducatetrimrepairchasewearspaceuniverseobeyagain |  
+| bip_39_word_no_space_2 | awaysay |  
+| bip_39_word_no_space_3 | awaysaybest |  
+| bip_39_word_no_space_4 | awaysaybesteducate |  
+| bip_39_word_no_space_5 | awaysaybesteducatetrim |  
+| bip_39_word_no_space_6 | awaysaybesteducatetrimrepair |  
+| bip_39_word_no_space_7 | awaysaybesteducatetrimrepairchase |  
+| bip_39_word_no_space_8 | awaysaybesteducatetrimrepairchasewear |  
+| bip_39_word_no_space_9 | awaysaybesteducatetrimrepairchasewearspace |  
 | bip_39_word_space_0 | ['away', 'say', 'best', 'educate', 'trim', 'repair', 'chase', 'wear', 'space', 'universe', 'obey', 'again'] |  
 | bip_39_word_space_1 | away |  
 | bip_39_word_space_10 | away say best educate trim repair chase wear space universe |  

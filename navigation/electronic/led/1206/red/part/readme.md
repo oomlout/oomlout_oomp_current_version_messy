@@ -122,6 +122,18 @@ cradle
 father
 unit
 almost |  
+| bip_39_word_no_space_1 | fame |  
+| bip_39_word_no_space_10 | fameachieverescuenothingtheycradlefatherunitalmostimmune |  
+| bip_39_word_no_space_11 | fameachieverescuenothingtheycradlefatherunitalmostimmunequarter |  
+| bip_39_word_no_space_12 | fameachieverescuenothingtheycradlefatherunitalmostimmunequarterarea |  
+| bip_39_word_no_space_2 | fameachieve |  
+| bip_39_word_no_space_3 | fameachieverescue |  
+| bip_39_word_no_space_4 | fameachieverescuenothing |  
+| bip_39_word_no_space_5 | fameachieverescuenothingthey |  
+| bip_39_word_no_space_6 | fameachieverescuenothingtheycradle |  
+| bip_39_word_no_space_7 | fameachieverescuenothingtheycradlefather |  
+| bip_39_word_no_space_8 | fameachieverescuenothingtheycradlefatherunit |  
+| bip_39_word_no_space_9 | fameachieverescuenothingtheycradlefatherunitalmost |  
 | bip_39_word_space_0 | ['fame', 'achieve', 'rescue', 'nothing', 'they', 'cradle', 'father', 'unit', 'almost', 'immune', 'quarter', 'area'] |  
 | bip_39_word_space_1 | fame |  
 | bip_39_word_space_10 | fame achieve rescue nothing they cradle father unit almost immune |  

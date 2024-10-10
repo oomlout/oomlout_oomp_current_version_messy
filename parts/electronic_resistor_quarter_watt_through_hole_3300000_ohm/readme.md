@@ -122,6 +122,18 @@ gift
 parade
 fan
 already |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shaftjumppuritydutchchasegiftparadefanalreadyhalf |  
+| bip_39_word_no_space_11 | shaftjumppuritydutchchasegiftparadefanalreadyhalfhospital |  
+| bip_39_word_no_space_12 | shaftjumppuritydutchchasegiftparadefanalreadyhalfhospitalaccount |  
+| bip_39_word_no_space_2 | shaftjump |  
+| bip_39_word_no_space_3 | shaftjumppurity |  
+| bip_39_word_no_space_4 | shaftjumppuritydutch |  
+| bip_39_word_no_space_5 | shaftjumppuritydutchchase |  
+| bip_39_word_no_space_6 | shaftjumppuritydutchchasegift |  
+| bip_39_word_no_space_7 | shaftjumppuritydutchchasegiftparade |  
+| bip_39_word_no_space_8 | shaftjumppuritydutchchasegiftparadefan |  
+| bip_39_word_no_space_9 | shaftjumppuritydutchchasegiftparadefanalready |  
 | bip_39_word_space_0 | ['shaft', 'jump', 'purity', 'dutch', 'chase', 'gift', 'parade', 'fan', 'already', 'half', 'hospital', 'account'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft jump purity dutch chase gift parade fan already half |  

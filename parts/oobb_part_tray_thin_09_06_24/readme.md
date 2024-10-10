@@ -122,6 +122,18 @@ jelly
 indicate
 thunder
 olympic |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportsubwaybidlatincousinjellyindicatethunderolympiccastle |  
+| bip_39_word_no_space_11 | reportsubwaybidlatincousinjellyindicatethunderolympiccastlerebuild |  
+| bip_39_word_no_space_12 | reportsubwaybidlatincousinjellyindicatethunderolympiccastlerebuildact |  
+| bip_39_word_no_space_2 | reportsubway |  
+| bip_39_word_no_space_3 | reportsubwaybid |  
+| bip_39_word_no_space_4 | reportsubwaybidlatin |  
+| bip_39_word_no_space_5 | reportsubwaybidlatincousin |  
+| bip_39_word_no_space_6 | reportsubwaybidlatincousinjelly |  
+| bip_39_word_no_space_7 | reportsubwaybidlatincousinjellyindicate |  
+| bip_39_word_no_space_8 | reportsubwaybidlatincousinjellyindicatethunder |  
+| bip_39_word_no_space_9 | reportsubwaybidlatincousinjellyindicatethunderolympic |  
 | bip_39_word_space_0 | ['report', 'subway', 'bid', 'latin', 'cousin', 'jelly', 'indicate', 'thunder', 'olympic', 'castle', 'rebuild', 'act'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report subway bid latin cousin jelly indicate thunder olympic castle |  

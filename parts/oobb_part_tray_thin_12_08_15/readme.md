@@ -109,6 +109,17 @@ entry
 exhaust
 inflict
 marriage |  
+| bip_39_word_no_space_1 | ancient |  
+| bip_39_word_no_space_10 | ancienttoastgrapeflatcheeseentryexhaustinflictmarriagerain |  
+| bip_39_word_no_space_11 | ancienttoastgrapeflatcheeseentryexhaustinflictmarriagerainsoup |  
+| bip_39_word_no_space_2 | ancienttoast |  
+| bip_39_word_no_space_3 | ancienttoastgrape |  
+| bip_39_word_no_space_4 | ancienttoastgrapeflat |  
+| bip_39_word_no_space_5 | ancienttoastgrapeflatcheese |  
+| bip_39_word_no_space_6 | ancienttoastgrapeflatcheeseentry |  
+| bip_39_word_no_space_7 | ancienttoastgrapeflatcheeseentryexhaust |  
+| bip_39_word_no_space_8 | ancienttoastgrapeflatcheeseentryexhaustinflict |  
+| bip_39_word_no_space_9 | ancienttoastgrapeflatcheeseentryexhaustinflictmarriage |  
 | bip_39_word_space_0 | ['ancient', 'toast', 'grape', 'flat', 'cheese', 'entry', 'exhaust', 'inflict', 'marriage', 'rain', 'soup'] |  
 | bip_39_word_space_1 | ancient |  
 | bip_39_word_space_10 | ancient toast grape flat cheese entry exhaust inflict marriage rain |  

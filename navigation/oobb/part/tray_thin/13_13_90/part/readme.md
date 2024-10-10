@@ -122,6 +122,18 @@ echo
 nature
 work
 faith |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radarbroomshiftpracticemushroomechonatureworkfaithmodify |  
+| bip_39_word_no_space_11 | radarbroomshiftpracticemushroomechonatureworkfaithmodifygame |  
+| bip_39_word_no_space_12 | radarbroomshiftpracticemushroomechonatureworkfaithmodifygamealmost |  
+| bip_39_word_no_space_2 | radarbroom |  
+| bip_39_word_no_space_3 | radarbroomshift |  
+| bip_39_word_no_space_4 | radarbroomshiftpractice |  
+| bip_39_word_no_space_5 | radarbroomshiftpracticemushroom |  
+| bip_39_word_no_space_6 | radarbroomshiftpracticemushroomecho |  
+| bip_39_word_no_space_7 | radarbroomshiftpracticemushroomechonature |  
+| bip_39_word_no_space_8 | radarbroomshiftpracticemushroomechonaturework |  
+| bip_39_word_no_space_9 | radarbroomshiftpracticemushroomechonatureworkfaith |  
 | bip_39_word_space_0 | ['radar', 'broom', 'shift', 'practice', 'mushroom', 'echo', 'nature', 'work', 'faith', 'modify', 'game', 'almost'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar broom shift practice mushroom echo nature work faith modify |  

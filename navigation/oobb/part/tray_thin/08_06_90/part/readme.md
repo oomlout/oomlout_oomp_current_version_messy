@@ -122,6 +122,18 @@ enter
 just
 speed
 absorb |  
+| bip_39_word_no_space_1 | harsh |  
+| bip_39_word_no_space_10 | harshwhensegmentfingerwiseenterjustspeedabsorbborder |  
+| bip_39_word_no_space_11 | harshwhensegmentfingerwiseenterjustspeedabsorbbordertilt |  
+| bip_39_word_no_space_12 | harshwhensegmentfingerwiseenterjustspeedabsorbbordertiltalways |  
+| bip_39_word_no_space_2 | harshwhen |  
+| bip_39_word_no_space_3 | harshwhensegment |  
+| bip_39_word_no_space_4 | harshwhensegmentfinger |  
+| bip_39_word_no_space_5 | harshwhensegmentfingerwise |  
+| bip_39_word_no_space_6 | harshwhensegmentfingerwiseenter |  
+| bip_39_word_no_space_7 | harshwhensegmentfingerwiseenterjust |  
+| bip_39_word_no_space_8 | harshwhensegmentfingerwiseenterjustspeed |  
+| bip_39_word_no_space_9 | harshwhensegmentfingerwiseenterjustspeedabsorb |  
 | bip_39_word_space_0 | ['harsh', 'when', 'segment', 'finger', 'wise', 'enter', 'just', 'speed', 'absorb', 'border', 'tilt', 'always'] |  
 | bip_39_word_space_1 | harsh |  
 | bip_39_word_space_10 | harsh when segment finger wise enter just speed absorb border |  

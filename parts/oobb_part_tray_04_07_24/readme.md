@@ -122,6 +122,18 @@ town
 behave
 bring
 alley |  
+| bip_39_word_no_space_1 | news |  
+| bip_39_word_no_space_10 | newsknockengineorderglidetownbehavebringalleyarrange |  
+| bip_39_word_no_space_11 | newsknockengineorderglidetownbehavebringalleyarrangelike |  
+| bip_39_word_no_space_12 | newsknockengineorderglidetownbehavebringalleyarrangelikeaccount |  
+| bip_39_word_no_space_2 | newsknock |  
+| bip_39_word_no_space_3 | newsknockengine |  
+| bip_39_word_no_space_4 | newsknockengineorder |  
+| bip_39_word_no_space_5 | newsknockengineorderglide |  
+| bip_39_word_no_space_6 | newsknockengineorderglidetown |  
+| bip_39_word_no_space_7 | newsknockengineorderglidetownbehave |  
+| bip_39_word_no_space_8 | newsknockengineorderglidetownbehavebring |  
+| bip_39_word_no_space_9 | newsknockengineorderglidetownbehavebringalley |  
 | bip_39_word_space_0 | ['news', 'knock', 'engine', 'order', 'glide', 'town', 'behave', 'bring', 'alley', 'arrange', 'like', 'account'] |  
 | bip_39_word_space_1 | news |  
 | bip_39_word_space_10 | news knock engine order glide town behave bring alley arrange |  

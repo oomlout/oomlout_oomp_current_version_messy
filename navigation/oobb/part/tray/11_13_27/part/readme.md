@@ -122,6 +122,18 @@ push
 scare
 note
 once |  
+| bip_39_word_no_space_1 | peace |  
+| bip_39_word_no_space_10 | peacelegalbestopinioncablepushscarenoteoncemimic |  
+| bip_39_word_no_space_11 | peacelegalbestopinioncablepushscarenoteoncemimicatom |  
+| bip_39_word_no_space_12 | peacelegalbestopinioncablepushscarenoteoncemimicatomachieve |  
+| bip_39_word_no_space_2 | peacelegal |  
+| bip_39_word_no_space_3 | peacelegalbest |  
+| bip_39_word_no_space_4 | peacelegalbestopinion |  
+| bip_39_word_no_space_5 | peacelegalbestopinioncable |  
+| bip_39_word_no_space_6 | peacelegalbestopinioncablepush |  
+| bip_39_word_no_space_7 | peacelegalbestopinioncablepushscare |  
+| bip_39_word_no_space_8 | peacelegalbestopinioncablepushscarenote |  
+| bip_39_word_no_space_9 | peacelegalbestopinioncablepushscarenoteonce |  
 | bip_39_word_space_0 | ['peace', 'legal', 'best', 'opinion', 'cable', 'push', 'scare', 'note', 'once', 'mimic', 'atom', 'achieve'] |  
 | bip_39_word_space_1 | peace |  
 | bip_39_word_space_10 | peace legal best opinion cable push scare note once mimic |  

@@ -122,6 +122,18 @@ chaos
 market
 spatial
 usual |  
+| bip_39_word_no_space_1 | reform |  
+| bip_39_word_no_space_10 | reformspeedkangaroolatindutchchaosmarketspatialusualimage |  
+| bip_39_word_no_space_11 | reformspeedkangaroolatindutchchaosmarketspatialusualimagehumble |  
+| bip_39_word_no_space_12 | reformspeedkangaroolatindutchchaosmarketspatialusualimagehumblearctic |  
+| bip_39_word_no_space_2 | reformspeed |  
+| bip_39_word_no_space_3 | reformspeedkangaroo |  
+| bip_39_word_no_space_4 | reformspeedkangaroolatin |  
+| bip_39_word_no_space_5 | reformspeedkangaroolatindutch |  
+| bip_39_word_no_space_6 | reformspeedkangaroolatindutchchaos |  
+| bip_39_word_no_space_7 | reformspeedkangaroolatindutchchaosmarket |  
+| bip_39_word_no_space_8 | reformspeedkangaroolatindutchchaosmarketspatial |  
+| bip_39_word_no_space_9 | reformspeedkangaroolatindutchchaosmarketspatialusual |  
 | bip_39_word_space_0 | ['reform', 'speed', 'kangaroo', 'latin', 'dutch', 'chaos', 'market', 'spatial', 'usual', 'image', 'humble', 'arctic'] |  
 | bip_39_word_space_1 | reform |  
 | bip_39_word_space_10 | reform speed kangaroo latin dutch chaos market spatial usual image |  

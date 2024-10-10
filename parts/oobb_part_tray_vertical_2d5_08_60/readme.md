@@ -122,6 +122,18 @@ future
 crisp
 when
 stable |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raiseshadowtoiletcolumnensurefuturecrispwhenstableenlist |  
+| bip_39_word_no_space_11 | raiseshadowtoiletcolumnensurefuturecrispwhenstableenlistpoet |  
+| bip_39_word_no_space_12 | raiseshadowtoiletcolumnensurefuturecrispwhenstableenlistpoetancient |  
+| bip_39_word_no_space_2 | raiseshadow |  
+| bip_39_word_no_space_3 | raiseshadowtoilet |  
+| bip_39_word_no_space_4 | raiseshadowtoiletcolumn |  
+| bip_39_word_no_space_5 | raiseshadowtoiletcolumnensure |  
+| bip_39_word_no_space_6 | raiseshadowtoiletcolumnensurefuture |  
+| bip_39_word_no_space_7 | raiseshadowtoiletcolumnensurefuturecrisp |  
+| bip_39_word_no_space_8 | raiseshadowtoiletcolumnensurefuturecrispwhen |  
+| bip_39_word_no_space_9 | raiseshadowtoiletcolumnensurefuturecrispwhenstable |  
 | bip_39_word_space_0 | ['raise', 'shadow', 'toilet', 'column', 'ensure', 'future', 'crisp', 'when', 'stable', 'enlist', 'poet', 'ancient'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise shadow toilet column ensure future crisp when stable enlist |  

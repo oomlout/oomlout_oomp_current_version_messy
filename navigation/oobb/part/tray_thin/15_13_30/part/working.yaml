@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'snake
   family
 
   wall'
+bip_39_word_no_space_1: snake
+bip_39_word_no_space_10: snakememberplugduringgaragedadanchorfamilywallpalm
+bip_39_word_no_space_11: snakememberplugduringgaragedadanchorfamilywallpalmshort
+bip_39_word_no_space_12: snakememberplugduringgaragedadanchorfamilywallpalmshortaverage
+bip_39_word_no_space_2: snakemember
+bip_39_word_no_space_3: snakememberplug
+bip_39_word_no_space_4: snakememberplugduring
+bip_39_word_no_space_5: snakememberplugduringgarage
+bip_39_word_no_space_6: snakememberplugduringgaragedad
+bip_39_word_no_space_7: snakememberplugduringgaragedadanchor
+bip_39_word_no_space_8: snakememberplugduringgaragedadanchorfamily
+bip_39_word_no_space_9: snakememberplugduringgaragedadanchorfamilywall
 bip_39_word_space_0:
 - snake
 - member

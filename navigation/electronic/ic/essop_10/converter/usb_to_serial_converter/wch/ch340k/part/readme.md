@@ -122,6 +122,18 @@ foot
 visa
 squirrel
 write |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policemuffinlevelretreatbelievefootvisasquirrelwritefirm |  
+| bip_39_word_no_space_11 | policemuffinlevelretreatbelievefootvisasquirrelwritefirmfall |  
+| bip_39_word_no_space_12 | policemuffinlevelretreatbelievefootvisasquirrelwritefirmfallaround |  
+| bip_39_word_no_space_2 | policemuffin |  
+| bip_39_word_no_space_3 | policemuffinlevel |  
+| bip_39_word_no_space_4 | policemuffinlevelretreat |  
+| bip_39_word_no_space_5 | policemuffinlevelretreatbelieve |  
+| bip_39_word_no_space_6 | policemuffinlevelretreatbelievefoot |  
+| bip_39_word_no_space_7 | policemuffinlevelretreatbelievefootvisa |  
+| bip_39_word_no_space_8 | policemuffinlevelretreatbelievefootvisasquirrel |  
+| bip_39_word_no_space_9 | policemuffinlevelretreatbelievefootvisasquirrelwrite |  
 | bip_39_word_space_0 | ['police', 'muffin', 'level', 'retreat', 'believe', 'foot', 'visa', 'squirrel', 'write', 'firm', 'fall', 'around'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police muffin level retreat believe foot visa squirrel write firm |  

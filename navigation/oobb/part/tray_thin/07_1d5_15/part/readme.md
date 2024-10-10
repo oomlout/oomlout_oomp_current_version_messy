@@ -122,6 +122,18 @@ agent
 solar
 state
 tube |  
+| bip_39_word_no_space_1 | throw |  
+| bip_39_word_no_space_10 | throwmindhorsedinnerriskagentsolarstatetubeframe |  
+| bip_39_word_no_space_11 | throwmindhorsedinnerriskagentsolarstatetubeframeboil |  
+| bip_39_word_no_space_12 | throwmindhorsedinnerriskagentsolarstatetubeframeboilattitude |  
+| bip_39_word_no_space_2 | throwmind |  
+| bip_39_word_no_space_3 | throwmindhorse |  
+| bip_39_word_no_space_4 | throwmindhorsedinner |  
+| bip_39_word_no_space_5 | throwmindhorsedinnerrisk |  
+| bip_39_word_no_space_6 | throwmindhorsedinnerriskagent |  
+| bip_39_word_no_space_7 | throwmindhorsedinnerriskagentsolar |  
+| bip_39_word_no_space_8 | throwmindhorsedinnerriskagentsolarstate |  
+| bip_39_word_no_space_9 | throwmindhorsedinnerriskagentsolarstatetube |  
 | bip_39_word_space_0 | ['throw', 'mind', 'horse', 'dinner', 'risk', 'agent', 'solar', 'state', 'tube', 'frame', 'boil', 'attitude'] |  
 | bip_39_word_space_1 | throw |  
 | bip_39_word_space_10 | throw mind horse dinner risk agent solar state tube frame |  

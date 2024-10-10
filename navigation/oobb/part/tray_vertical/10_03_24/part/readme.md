@@ -122,6 +122,18 @@ flag
 initial
 chimney
 run |  
+| bip_39_word_no_space_1 | plug |  
+| bip_39_word_no_space_10 | plugnetworkwarriorbamboopoemflaginitialchimneyrunnothing |  
+| bip_39_word_no_space_11 | plugnetworkwarriorbamboopoemflaginitialchimneyrunnothingmiss |  
+| bip_39_word_no_space_12 | plugnetworkwarriorbamboopoemflaginitialchimneyrunnothingmissartist |  
+| bip_39_word_no_space_2 | plugnetwork |  
+| bip_39_word_no_space_3 | plugnetworkwarrior |  
+| bip_39_word_no_space_4 | plugnetworkwarriorbamboo |  
+| bip_39_word_no_space_5 | plugnetworkwarriorbamboopoem |  
+| bip_39_word_no_space_6 | plugnetworkwarriorbamboopoemflag |  
+| bip_39_word_no_space_7 | plugnetworkwarriorbamboopoemflaginitial |  
+| bip_39_word_no_space_8 | plugnetworkwarriorbamboopoemflaginitialchimney |  
+| bip_39_word_no_space_9 | plugnetworkwarriorbamboopoemflaginitialchimneyrun |  
 | bip_39_word_space_0 | ['plug', 'network', 'warrior', 'bamboo', 'poem', 'flag', 'initial', 'chimney', 'run', 'nothing', 'miss', 'artist'] |  
 | bip_39_word_space_1 | plug |  
 | bip_39_word_space_10 | plug network warrior bamboo poem flag initial chimney run nothing |  

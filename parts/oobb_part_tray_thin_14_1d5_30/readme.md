@@ -122,6 +122,18 @@ spell
 scrap
 margin
 garage |  
+| bip_39_word_no_space_1 | steak |  
+| bip_39_word_no_space_10 | steakskinpagejewelflamespellscrapmargingaragesoda |  
+| bip_39_word_no_space_11 | steakskinpagejewelflamespellscrapmargingaragesodaspot |  
+| bip_39_word_no_space_12 | steakskinpagejewelflamespellscrapmargingaragesodaspotable |  
+| bip_39_word_no_space_2 | steakskin |  
+| bip_39_word_no_space_3 | steakskinpage |  
+| bip_39_word_no_space_4 | steakskinpagejewel |  
+| bip_39_word_no_space_5 | steakskinpagejewelflame |  
+| bip_39_word_no_space_6 | steakskinpagejewelflamespell |  
+| bip_39_word_no_space_7 | steakskinpagejewelflamespellscrap |  
+| bip_39_word_no_space_8 | steakskinpagejewelflamespellscrapmargin |  
+| bip_39_word_no_space_9 | steakskinpagejewelflamespellscrapmargingarage |  
 | bip_39_word_space_0 | ['steak', 'skin', 'page', 'jewel', 'flame', 'spell', 'scrap', 'margin', 'garage', 'soda', 'spot', 'able'] |  
 | bip_39_word_space_1 | steak |  
 | bip_39_word_space_10 | steak skin page jewel flame spell scrap margin garage soda |  

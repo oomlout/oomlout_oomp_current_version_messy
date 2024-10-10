@@ -122,6 +122,18 @@ weasel
 kiwi
 join
 they |  
+| bip_39_word_no_space_1 | coach |  
+| bip_39_word_no_space_10 | coachgospelfalsecaveinnerweaselkiwijointheycaptain |  
+| bip_39_word_no_space_11 | coachgospelfalsecaveinnerweaselkiwijointheycaptainsuggest |  
+| bip_39_word_no_space_12 | coachgospelfalsecaveinnerweaselkiwijointheycaptainsuggestalley |  
+| bip_39_word_no_space_2 | coachgospel |  
+| bip_39_word_no_space_3 | coachgospelfalse |  
+| bip_39_word_no_space_4 | coachgospelfalsecave |  
+| bip_39_word_no_space_5 | coachgospelfalsecaveinner |  
+| bip_39_word_no_space_6 | coachgospelfalsecaveinnerweasel |  
+| bip_39_word_no_space_7 | coachgospelfalsecaveinnerweaselkiwi |  
+| bip_39_word_no_space_8 | coachgospelfalsecaveinnerweaselkiwijoin |  
+| bip_39_word_no_space_9 | coachgospelfalsecaveinnerweaselkiwijointhey |  
 | bip_39_word_space_0 | ['coach', 'gospel', 'false', 'cave', 'inner', 'weasel', 'kiwi', 'join', 'they', 'captain', 'suggest', 'alley'] |  
 | bip_39_word_space_1 | coach |  
 | bip_39_word_space_10 | coach gospel false cave inner weasel kiwi join they captain |  

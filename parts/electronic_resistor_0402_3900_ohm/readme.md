@@ -122,6 +122,18 @@ wolf
 hurry
 aim
 figure |  
+| bip_39_word_no_space_1 | tumble |  
+| bip_39_word_no_space_10 | tumbleethicsjeanswarfareinjurywolfhurryaimfiguremonitor |  
+| bip_39_word_no_space_11 | tumbleethicsjeanswarfareinjurywolfhurryaimfiguremonitorsolution |  
+| bip_39_word_no_space_12 | tumbleethicsjeanswarfareinjurywolfhurryaimfiguremonitorsolutionany |  
+| bip_39_word_no_space_2 | tumbleethics |  
+| bip_39_word_no_space_3 | tumbleethicsjeans |  
+| bip_39_word_no_space_4 | tumbleethicsjeanswarfare |  
+| bip_39_word_no_space_5 | tumbleethicsjeanswarfareinjury |  
+| bip_39_word_no_space_6 | tumbleethicsjeanswarfareinjurywolf |  
+| bip_39_word_no_space_7 | tumbleethicsjeanswarfareinjurywolfhurry |  
+| bip_39_word_no_space_8 | tumbleethicsjeanswarfareinjurywolfhurryaim |  
+| bip_39_word_no_space_9 | tumbleethicsjeanswarfareinjurywolfhurryaimfigure |  
 | bip_39_word_space_0 | ['tumble', 'ethics', 'jeans', 'warfare', 'injury', 'wolf', 'hurry', 'aim', 'figure', 'monitor', 'solution', 'any'] |  
 | bip_39_word_space_1 | tumble |  
 | bip_39_word_space_10 | tumble ethics jeans warfare injury wolf hurry aim figure monitor |  

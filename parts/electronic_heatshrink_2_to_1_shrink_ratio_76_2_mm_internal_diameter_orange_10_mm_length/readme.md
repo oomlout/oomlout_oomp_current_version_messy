@@ -122,6 +122,18 @@ shrimp
 rice
 claim
 harvest |  
+| bip_39_word_no_space_1 | fence |  
+| bip_39_word_no_space_10 | fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalcony |  
+| bip_39_word_no_space_11 | fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalconyspike |  
+| bip_39_word_no_space_12 | fencedismissdecreasewrestlesurroundshrimpriceclaimharvestbalconyspikeauction |  
+| bip_39_word_no_space_2 | fencedismiss |  
+| bip_39_word_no_space_3 | fencedismissdecrease |  
+| bip_39_word_no_space_4 | fencedismissdecreasewrestle |  
+| bip_39_word_no_space_5 | fencedismissdecreasewrestlesurround |  
+| bip_39_word_no_space_6 | fencedismissdecreasewrestlesurroundshrimp |  
+| bip_39_word_no_space_7 | fencedismissdecreasewrestlesurroundshrimprice |  
+| bip_39_word_no_space_8 | fencedismissdecreasewrestlesurroundshrimpriceclaim |  
+| bip_39_word_no_space_9 | fencedismissdecreasewrestlesurroundshrimpriceclaimharvest |  
 | bip_39_word_space_0 | ['fence', 'dismiss', 'decrease', 'wrestle', 'surround', 'shrimp', 'rice', 'claim', 'harvest', 'balcony', 'spike', 'auction'] |  
 | bip_39_word_space_1 | fence |  
 | bip_39_word_space_10 | fence dismiss decrease wrestle surround shrimp rice claim harvest balcony |  

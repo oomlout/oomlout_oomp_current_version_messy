@@ -122,6 +122,18 @@ awake
 fall
 visit
 discover |  
+| bip_39_word_no_space_1 | huge |  
+| bip_39_word_no_space_10 | hugeasktrippresentonlyawakefallvisitdiscoverput |  
+| bip_39_word_no_space_11 | hugeasktrippresentonlyawakefallvisitdiscoverputclick |  
+| bip_39_word_no_space_12 | hugeasktrippresentonlyawakefallvisitdiscoverputclickathlete |  
+| bip_39_word_no_space_2 | hugeask |  
+| bip_39_word_no_space_3 | hugeasktrip |  
+| bip_39_word_no_space_4 | hugeasktrippresent |  
+| bip_39_word_no_space_5 | hugeasktrippresentonly |  
+| bip_39_word_no_space_6 | hugeasktrippresentonlyawake |  
+| bip_39_word_no_space_7 | hugeasktrippresentonlyawakefall |  
+| bip_39_word_no_space_8 | hugeasktrippresentonlyawakefallvisit |  
+| bip_39_word_no_space_9 | hugeasktrippresentonlyawakefallvisitdiscover |  
 | bip_39_word_space_0 | ['huge', 'ask', 'trip', 'present', 'only', 'awake', 'fall', 'visit', 'discover', 'put', 'click', 'athlete'] |  
 | bip_39_word_space_1 | huge |  
 | bip_39_word_space_10 | huge ask trip present only awake fall visit discover put |  

@@ -122,6 +122,18 @@ leisure
 neglect
 angry
 figure |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentattitudeduringsolutionunableleisureneglectangryfigurestruggle |  
+| bip_39_word_no_space_11 | rentattitudeduringsolutionunableleisureneglectangryfigurestruggledial |  
+| bip_39_word_no_space_12 | rentattitudeduringsolutionunableleisureneglectangryfigurestruggledialassault |  
+| bip_39_word_no_space_2 | rentattitude |  
+| bip_39_word_no_space_3 | rentattitudeduring |  
+| bip_39_word_no_space_4 | rentattitudeduringsolution |  
+| bip_39_word_no_space_5 | rentattitudeduringsolutionunable |  
+| bip_39_word_no_space_6 | rentattitudeduringsolutionunableleisure |  
+| bip_39_word_no_space_7 | rentattitudeduringsolutionunableleisureneglect |  
+| bip_39_word_no_space_8 | rentattitudeduringsolutionunableleisureneglectangry |  
+| bip_39_word_no_space_9 | rentattitudeduringsolutionunableleisureneglectangryfigure |  
 | bip_39_word_space_0 | ['rent', 'attitude', 'during', 'solution', 'unable', 'leisure', 'neglect', 'angry', 'figure', 'struggle', 'dial', 'assault'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent attitude during solution unable leisure neglect angry figure struggle |  

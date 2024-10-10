@@ -122,6 +122,18 @@ divide
 clarify
 hello
 alcohol |  
+| bip_39_word_no_space_1 | creek |  
+| bip_39_word_no_space_10 | creekpilotpondseasoncatalogdivideclarifyhelloalcoholawful |  
+| bip_39_word_no_space_11 | creekpilotpondseasoncatalogdivideclarifyhelloalcoholawfulfind |  
+| bip_39_word_no_space_12 | creekpilotpondseasoncatalogdivideclarifyhelloalcoholawfulfindabsorb |  
+| bip_39_word_no_space_2 | creekpilot |  
+| bip_39_word_no_space_3 | creekpilotpond |  
+| bip_39_word_no_space_4 | creekpilotpondseason |  
+| bip_39_word_no_space_5 | creekpilotpondseasoncatalog |  
+| bip_39_word_no_space_6 | creekpilotpondseasoncatalogdivide |  
+| bip_39_word_no_space_7 | creekpilotpondseasoncatalogdivideclarify |  
+| bip_39_word_no_space_8 | creekpilotpondseasoncatalogdivideclarifyhello |  
+| bip_39_word_no_space_9 | creekpilotpondseasoncatalogdivideclarifyhelloalcohol |  
 | bip_39_word_space_0 | ['creek', 'pilot', 'pond', 'season', 'catalog', 'divide', 'clarify', 'hello', 'alcohol', 'awful', 'find', 'absorb'] |  
 | bip_39_word_space_1 | creek |  
 | bip_39_word_space_10 | creek pilot pond season catalog divide clarify hello alcohol awful |  

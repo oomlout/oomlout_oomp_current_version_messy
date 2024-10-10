@@ -109,6 +109,17 @@ legal
 canyon
 guide
 crouch |  
+| bip_39_word_no_space_1 | away |  
+| bip_39_word_no_space_10 | awayfoguncovertotalprocesslegalcanyonguidecrouchquit |  
+| bip_39_word_no_space_11 | awayfoguncovertotalprocesslegalcanyonguidecrouchquitstyle |  
+| bip_39_word_no_space_2 | awayfog |  
+| bip_39_word_no_space_3 | awayfoguncover |  
+| bip_39_word_no_space_4 | awayfoguncovertotal |  
+| bip_39_word_no_space_5 | awayfoguncovertotalprocess |  
+| bip_39_word_no_space_6 | awayfoguncovertotalprocesslegal |  
+| bip_39_word_no_space_7 | awayfoguncovertotalprocesslegalcanyon |  
+| bip_39_word_no_space_8 | awayfoguncovertotalprocesslegalcanyonguide |  
+| bip_39_word_no_space_9 | awayfoguncovertotalprocesslegalcanyonguidecrouch |  
 | bip_39_word_space_0 | ['away', 'fog', 'uncover', 'total', 'process', 'legal', 'canyon', 'guide', 'crouch', 'quit', 'style'] |  
 | bip_39_word_space_1 | away |  
 | bip_39_word_space_10 | away fog uncover total process legal canyon guide crouch quit |  

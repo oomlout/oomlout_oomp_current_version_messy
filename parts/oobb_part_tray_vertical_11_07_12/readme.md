@@ -122,6 +122,18 @@ slow
 fiscal
 purity
 law |  
+| bip_39_word_no_space_1 | brush |  
+| bip_39_word_no_space_10 | brushmaidcheckvaultawareslowfiscalpuritylawcanal |  
+| bip_39_word_no_space_11 | brushmaidcheckvaultawareslowfiscalpuritylawcanalfire |  
+| bip_39_word_no_space_12 | brushmaidcheckvaultawareslowfiscalpuritylawcanalfireamount |  
+| bip_39_word_no_space_2 | brushmaid |  
+| bip_39_word_no_space_3 | brushmaidcheck |  
+| bip_39_word_no_space_4 | brushmaidcheckvault |  
+| bip_39_word_no_space_5 | brushmaidcheckvaultaware |  
+| bip_39_word_no_space_6 | brushmaidcheckvaultawareslow |  
+| bip_39_word_no_space_7 | brushmaidcheckvaultawareslowfiscal |  
+| bip_39_word_no_space_8 | brushmaidcheckvaultawareslowfiscalpurity |  
+| bip_39_word_no_space_9 | brushmaidcheckvaultawareslowfiscalpuritylaw |  
 | bip_39_word_space_0 | ['brush', 'maid', 'check', 'vault', 'aware', 'slow', 'fiscal', 'purity', 'law', 'canal', 'fire', 'amount'] |  
 | bip_39_word_space_1 | brush |  
 | bip_39_word_space_10 | brush maid check vault aware slow fiscal purity law canal |  

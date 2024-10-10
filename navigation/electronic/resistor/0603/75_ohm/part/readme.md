@@ -122,6 +122,18 @@ clean
 drama
 wide
 half |  
+| bip_39_word_no_space_1 | day |  
+| bip_39_word_no_space_10 | daysortrefuseturtleblamecleandramawidehalffatal |  
+| bip_39_word_no_space_11 | daysortrefuseturtleblamecleandramawidehalffatalsnow |  
+| bip_39_word_no_space_12 | daysortrefuseturtleblamecleandramawidehalffatalsnowaspect |  
+| bip_39_word_no_space_2 | daysort |  
+| bip_39_word_no_space_3 | daysortrefuse |  
+| bip_39_word_no_space_4 | daysortrefuseturtle |  
+| bip_39_word_no_space_5 | daysortrefuseturtleblame |  
+| bip_39_word_no_space_6 | daysortrefuseturtleblameclean |  
+| bip_39_word_no_space_7 | daysortrefuseturtleblamecleandrama |  
+| bip_39_word_no_space_8 | daysortrefuseturtleblamecleandramawide |  
+| bip_39_word_no_space_9 | daysortrefuseturtleblamecleandramawidehalf |  
 | bip_39_word_space_0 | ['day', 'sort', 'refuse', 'turtle', 'blame', 'clean', 'drama', 'wide', 'half', 'fatal', 'snow', 'aspect'] |  
 | bip_39_word_space_1 | day |  
 | bip_39_word_space_10 | day sort refuse turtle blame clean drama wide half fatal |  

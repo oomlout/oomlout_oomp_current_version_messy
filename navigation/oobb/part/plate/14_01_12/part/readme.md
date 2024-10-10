@@ -122,6 +122,18 @@ slide
 disease
 insane
 wine |  
+| bip_39_word_no_space_1 | awful |  
+| bip_39_word_no_space_10 | awfulbulletguardswarmneverslidediseaseinsanewineattack |  
+| bip_39_word_no_space_11 | awfulbulletguardswarmneverslidediseaseinsanewineattackartwork |  
+| bip_39_word_no_space_12 | awfulbulletguardswarmneverslidediseaseinsanewineattackartworkabout |  
+| bip_39_word_no_space_2 | awfulbullet |  
+| bip_39_word_no_space_3 | awfulbulletguard |  
+| bip_39_word_no_space_4 | awfulbulletguardswarm |  
+| bip_39_word_no_space_5 | awfulbulletguardswarmnever |  
+| bip_39_word_no_space_6 | awfulbulletguardswarmneverslide |  
+| bip_39_word_no_space_7 | awfulbulletguardswarmneverslidedisease |  
+| bip_39_word_no_space_8 | awfulbulletguardswarmneverslidediseaseinsane |  
+| bip_39_word_no_space_9 | awfulbulletguardswarmneverslidediseaseinsanewine |  
 | bip_39_word_space_0 | ['awful', 'bullet', 'guard', 'swarm', 'never', 'slide', 'disease', 'insane', 'wine', 'attack', 'artwork', 'about'] |  
 | bip_39_word_space_1 | awful |  
 | bip_39_word_space_10 | awful bullet guard swarm never slide disease insane wine attack |  

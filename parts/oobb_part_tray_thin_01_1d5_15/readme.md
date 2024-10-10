@@ -122,6 +122,18 @@ identify
 tongue
 common
 cloud |  
+| bip_39_word_no_space_1 | crater |  
+| bip_39_word_no_space_10 | craterjudgesmokeniceconvinceidentifytonguecommoncloudoval |  
+| bip_39_word_no_space_11 | craterjudgesmokeniceconvinceidentifytonguecommoncloudovaldrastic |  
+| bip_39_word_no_space_12 | craterjudgesmokeniceconvinceidentifytonguecommoncloudovaldrasticaction |  
+| bip_39_word_no_space_2 | craterjudge |  
+| bip_39_word_no_space_3 | craterjudgesmoke |  
+| bip_39_word_no_space_4 | craterjudgesmokenice |  
+| bip_39_word_no_space_5 | craterjudgesmokeniceconvince |  
+| bip_39_word_no_space_6 | craterjudgesmokeniceconvinceidentify |  
+| bip_39_word_no_space_7 | craterjudgesmokeniceconvinceidentifytongue |  
+| bip_39_word_no_space_8 | craterjudgesmokeniceconvinceidentifytonguecommon |  
+| bip_39_word_no_space_9 | craterjudgesmokeniceconvinceidentifytonguecommoncloud |  
 | bip_39_word_space_0 | ['crater', 'judge', 'smoke', 'nice', 'convince', 'identify', 'tongue', 'common', 'cloud', 'oval', 'drastic', 'action'] |  
 | bip_39_word_space_1 | crater |  
 | bip_39_word_space_10 | crater judge smoke nice convince identify tongue common cloud oval |  

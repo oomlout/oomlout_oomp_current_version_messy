@@ -122,6 +122,18 @@ glove
 physical
 erupt
 alter |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photowitnessobeyiconcaptainglovephysicaleruptalterwhisper |  
+| bip_39_word_no_space_11 | photowitnessobeyiconcaptainglovephysicaleruptalterwhisperaccident |  
+| bip_39_word_no_space_12 | photowitnessobeyiconcaptainglovephysicaleruptalterwhisperaccidentalready |  
+| bip_39_word_no_space_2 | photowitness |  
+| bip_39_word_no_space_3 | photowitnessobey |  
+| bip_39_word_no_space_4 | photowitnessobeyicon |  
+| bip_39_word_no_space_5 | photowitnessobeyiconcaptain |  
+| bip_39_word_no_space_6 | photowitnessobeyiconcaptainglove |  
+| bip_39_word_no_space_7 | photowitnessobeyiconcaptainglovephysical |  
+| bip_39_word_no_space_8 | photowitnessobeyiconcaptainglovephysicalerupt |  
+| bip_39_word_no_space_9 | photowitnessobeyiconcaptainglovephysicaleruptalter |  
 | bip_39_word_space_0 | ['photo', 'witness', 'obey', 'icon', 'captain', 'glove', 'physical', 'erupt', 'alter', 'whisper', 'accident', 'already'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo witness obey icon captain glove physical erupt alter whisper |  

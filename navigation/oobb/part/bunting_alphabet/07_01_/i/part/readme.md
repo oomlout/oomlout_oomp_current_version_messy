@@ -122,6 +122,18 @@ cabin
 horror
 anger
 response |  
+| bip_39_word_no_space_1 | master |  
+| bip_39_word_no_space_10 | masterpulltapepointflowercabinhorrorangerresponseonion |  
+| bip_39_word_no_space_11 | masterpulltapepointflowercabinhorrorangerresponseonionshuffle |  
+| bip_39_word_no_space_12 | masterpulltapepointflowercabinhorrorangerresponseonionshuffleaddress |  
+| bip_39_word_no_space_2 | masterpull |  
+| bip_39_word_no_space_3 | masterpulltape |  
+| bip_39_word_no_space_4 | masterpulltapepoint |  
+| bip_39_word_no_space_5 | masterpulltapepointflower |  
+| bip_39_word_no_space_6 | masterpulltapepointflowercabin |  
+| bip_39_word_no_space_7 | masterpulltapepointflowercabinhorror |  
+| bip_39_word_no_space_8 | masterpulltapepointflowercabinhorroranger |  
+| bip_39_word_no_space_9 | masterpulltapepointflowercabinhorrorangerresponse |  
 | bip_39_word_space_0 | ['master', 'pull', 'tape', 'point', 'flower', 'cabin', 'horror', 'anger', 'response', 'onion', 'shuffle', 'address'] |  
 | bip_39_word_space_1 | master |  
 | bip_39_word_space_10 | master pull tape point flower cabin horror anger response onion |  

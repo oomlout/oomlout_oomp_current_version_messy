@@ -122,6 +122,18 @@ wedding
 damage
 pupil
 used |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | brisklovetrustlegalcactusweddingdamagepupilusedalbum |  
+| bip_39_word_no_space_11 | brisklovetrustlegalcactusweddingdamagepupilusedalbumbuild |  
+| bip_39_word_no_space_12 | brisklovetrustlegalcactusweddingdamagepupilusedalbumbuildasset |  
+| bip_39_word_no_space_2 | brisklove |  
+| bip_39_word_no_space_3 | brisklovetrust |  
+| bip_39_word_no_space_4 | brisklovetrustlegal |  
+| bip_39_word_no_space_5 | brisklovetrustlegalcactus |  
+| bip_39_word_no_space_6 | brisklovetrustlegalcactuswedding |  
+| bip_39_word_no_space_7 | brisklovetrustlegalcactusweddingdamage |  
+| bip_39_word_no_space_8 | brisklovetrustlegalcactusweddingdamagepupil |  
+| bip_39_word_no_space_9 | brisklovetrustlegalcactusweddingdamagepupilused |  
 | bip_39_word_space_0 | ['brisk', 'love', 'trust', 'legal', 'cactus', 'wedding', 'damage', 'pupil', 'used', 'album', 'build', 'asset'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk love trust legal cactus wedding damage pupil used album |  

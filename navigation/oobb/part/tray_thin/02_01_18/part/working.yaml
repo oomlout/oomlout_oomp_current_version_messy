@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'quote
   cycle
 
   sugar'
+bip_39_word_no_space_1: quote
+bip_39_word_no_space_10: quoteclumpguiderainkangaroogatepumpkincyclesugarcart
+bip_39_word_no_space_11: quoteclumpguiderainkangaroogatepumpkincyclesugarcartjewel
+bip_39_word_no_space_12: quoteclumpguiderainkangaroogatepumpkincyclesugarcartjewelabsent
+bip_39_word_no_space_2: quoteclump
+bip_39_word_no_space_3: quoteclumpguide
+bip_39_word_no_space_4: quoteclumpguiderain
+bip_39_word_no_space_5: quoteclumpguiderainkangaroo
+bip_39_word_no_space_6: quoteclumpguiderainkangaroogate
+bip_39_word_no_space_7: quoteclumpguiderainkangaroogatepumpkin
+bip_39_word_no_space_8: quoteclumpguiderainkangaroogatepumpkincycle
+bip_39_word_no_space_9: quoteclumpguiderainkangaroogatepumpkincyclesugar
 bip_39_word_space_0:
 - quote
 - clump

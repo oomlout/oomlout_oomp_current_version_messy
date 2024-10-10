@@ -122,6 +122,18 @@ trumpet
 pony
 purity
 prison |  
+| bip_39_word_no_space_1 | truck |  
+| bip_39_word_no_space_10 | truckjudgediarytumbledisordertrumpetponypurityprisondream |  
+| bip_39_word_no_space_11 | truckjudgediarytumbledisordertrumpetponypurityprisondreamstock |  
+| bip_39_word_no_space_12 | truckjudgediarytumbledisordertrumpetponypurityprisondreamstockantenna |  
+| bip_39_word_no_space_2 | truckjudge |  
+| bip_39_word_no_space_3 | truckjudgediary |  
+| bip_39_word_no_space_4 | truckjudgediarytumble |  
+| bip_39_word_no_space_5 | truckjudgediarytumbledisorder |  
+| bip_39_word_no_space_6 | truckjudgediarytumbledisordertrumpet |  
+| bip_39_word_no_space_7 | truckjudgediarytumbledisordertrumpetpony |  
+| bip_39_word_no_space_8 | truckjudgediarytumbledisordertrumpetponypurity |  
+| bip_39_word_no_space_9 | truckjudgediarytumbledisordertrumpetponypurityprison |  
 | bip_39_word_space_0 | ['truck', 'judge', 'diary', 'tumble', 'disorder', 'trumpet', 'pony', 'purity', 'prison', 'dream', 'stock', 'antenna'] |  
 | bip_39_word_space_1 | truck |  
 | bip_39_word_space_10 | truck judge diary tumble disorder trumpet pony purity prison dream |  

@@ -122,6 +122,18 @@ nominee
 teach
 inner
 sad |  
+| bip_39_word_no_space_1 | marriage |  
+| bip_39_word_no_space_10 | marriagepublicskateblastfalsenomineeteachinnersadcrumble |  
+| bip_39_word_no_space_11 | marriagepublicskateblastfalsenomineeteachinnersadcrumblegovern |  
+| bip_39_word_no_space_12 | marriagepublicskateblastfalsenomineeteachinnersadcrumblegovernalarm |  
+| bip_39_word_no_space_2 | marriagepublic |  
+| bip_39_word_no_space_3 | marriagepublicskate |  
+| bip_39_word_no_space_4 | marriagepublicskateblast |  
+| bip_39_word_no_space_5 | marriagepublicskateblastfalse |  
+| bip_39_word_no_space_6 | marriagepublicskateblastfalsenominee |  
+| bip_39_word_no_space_7 | marriagepublicskateblastfalsenomineeteach |  
+| bip_39_word_no_space_8 | marriagepublicskateblastfalsenomineeteachinner |  
+| bip_39_word_no_space_9 | marriagepublicskateblastfalsenomineeteachinnersad |  
 | bip_39_word_space_0 | ['marriage', 'public', 'skate', 'blast', 'false', 'nominee', 'teach', 'inner', 'sad', 'crumble', 'govern', 'alarm'] |  
 | bip_39_word_space_1 | marriage |  
 | bip_39_word_space_10 | marriage public skate blast false nominee teach inner sad crumble |  

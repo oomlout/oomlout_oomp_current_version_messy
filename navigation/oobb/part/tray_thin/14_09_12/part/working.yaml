@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tiny
   cereal
 
   alcohol'
+bip_39_word_no_space_1: tiny
+bip_39_word_no_space_10: tinyborrowsolvebabybleakfeaturebusinesscerealalcoholtwenty
+bip_39_word_no_space_11: tinyborrowsolvebabybleakfeaturebusinesscerealalcoholtwentymain
+bip_39_word_no_space_12: tinyborrowsolvebabybleakfeaturebusinesscerealalcoholtwentymainarmor
+bip_39_word_no_space_2: tinyborrow
+bip_39_word_no_space_3: tinyborrowsolve
+bip_39_word_no_space_4: tinyborrowsolvebaby
+bip_39_word_no_space_5: tinyborrowsolvebabybleak
+bip_39_word_no_space_6: tinyborrowsolvebabybleakfeature
+bip_39_word_no_space_7: tinyborrowsolvebabybleakfeaturebusiness
+bip_39_word_no_space_8: tinyborrowsolvebabybleakfeaturebusinesscereal
+bip_39_word_no_space_9: tinyborrowsolvebabybleakfeaturebusinesscerealalcohol
 bip_39_word_space_0:
 - tiny
 - borrow

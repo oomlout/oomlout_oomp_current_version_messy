@@ -122,6 +122,18 @@ feel
 pony
 brain
 media |  
+| bip_39_word_no_space_1 | smart |  
+| bip_39_word_no_space_10 | smarthumblebecomepromoteshrugfeelponybrainmediacloth |  
+| bip_39_word_no_space_11 | smarthumblebecomepromoteshrugfeelponybrainmediaclothdawn |  
+| bip_39_word_no_space_12 | smarthumblebecomepromoteshrugfeelponybrainmediaclothdawnamong |  
+| bip_39_word_no_space_2 | smarthumble |  
+| bip_39_word_no_space_3 | smarthumblebecome |  
+| bip_39_word_no_space_4 | smarthumblebecomepromote |  
+| bip_39_word_no_space_5 | smarthumblebecomepromoteshrug |  
+| bip_39_word_no_space_6 | smarthumblebecomepromoteshrugfeel |  
+| bip_39_word_no_space_7 | smarthumblebecomepromoteshrugfeelpony |  
+| bip_39_word_no_space_8 | smarthumblebecomepromoteshrugfeelponybrain |  
+| bip_39_word_no_space_9 | smarthumblebecomepromoteshrugfeelponybrainmedia |  
 | bip_39_word_space_0 | ['smart', 'humble', 'become', 'promote', 'shrug', 'feel', 'pony', 'brain', 'media', 'cloth', 'dawn', 'among'] |  
 | bip_39_word_space_1 | smart |  
 | bip_39_word_space_10 | smart humble become promote shrug feel pony brain media cloth |  

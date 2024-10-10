@@ -122,6 +122,18 @@ draw
 guilt
 access
 occur |  
+| bip_39_word_no_space_1 | rescue |  
+| bip_39_word_no_space_10 | rescuenutprideneutralmatchdrawguiltaccessoccuraccuse |  
+| bip_39_word_no_space_11 | rescuenutprideneutralmatchdrawguiltaccessoccuraccusetoken |  
+| bip_39_word_no_space_12 | rescuenutprideneutralmatchdrawguiltaccessoccuraccusetokenacid |  
+| bip_39_word_no_space_2 | rescuenut |  
+| bip_39_word_no_space_3 | rescuenutpride |  
+| bip_39_word_no_space_4 | rescuenutprideneutral |  
+| bip_39_word_no_space_5 | rescuenutprideneutralmatch |  
+| bip_39_word_no_space_6 | rescuenutprideneutralmatchdraw |  
+| bip_39_word_no_space_7 | rescuenutprideneutralmatchdrawguilt |  
+| bip_39_word_no_space_8 | rescuenutprideneutralmatchdrawguiltaccess |  
+| bip_39_word_no_space_9 | rescuenutprideneutralmatchdrawguiltaccessoccur |  
 | bip_39_word_space_0 | ['rescue', 'nut', 'pride', 'neutral', 'match', 'draw', 'guilt', 'access', 'occur', 'accuse', 'token', 'acid'] |  
 | bip_39_word_space_1 | rescue |  
 | bip_39_word_space_10 | rescue nut pride neutral match draw guilt access occur accuse |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'custom
   youth
 
   tunnel'
+bip_39_word_no_space_1: custom
+bip_39_word_no_space_10: custommemberawakeelsephotoadmitallyouthtunnelnice
+bip_39_word_no_space_11: custommemberawakeelsephotoadmitallyouthtunnelnicehorn
+bip_39_word_no_space_12: custommemberawakeelsephotoadmitallyouthtunnelnicehornaim
+bip_39_word_no_space_2: custommember
+bip_39_word_no_space_3: custommemberawake
+bip_39_word_no_space_4: custommemberawakeelse
+bip_39_word_no_space_5: custommemberawakeelsephoto
+bip_39_word_no_space_6: custommemberawakeelsephotoadmit
+bip_39_word_no_space_7: custommemberawakeelsephotoadmitall
+bip_39_word_no_space_8: custommemberawakeelsephotoadmitallyouth
+bip_39_word_no_space_9: custommemberawakeelsephotoadmitallyouthtunnel
 bip_39_word_space_0:
 - custom
 - member

@@ -122,6 +122,18 @@ that
 adult
 example
 vendor |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approverandomensurementioncertainthatadultexamplevendorthank |  
+| bip_39_word_no_space_11 | approverandomensurementioncertainthatadultexamplevendorthankritual |  
+| bip_39_word_no_space_12 | approverandomensurementioncertainthatadultexamplevendorthankritualalmost |  
+| bip_39_word_no_space_2 | approverandom |  
+| bip_39_word_no_space_3 | approverandomensure |  
+| bip_39_word_no_space_4 | approverandomensuremention |  
+| bip_39_word_no_space_5 | approverandomensurementioncertain |  
+| bip_39_word_no_space_6 | approverandomensurementioncertainthat |  
+| bip_39_word_no_space_7 | approverandomensurementioncertainthatadult |  
+| bip_39_word_no_space_8 | approverandomensurementioncertainthatadultexample |  
+| bip_39_word_no_space_9 | approverandomensurementioncertainthatadultexamplevendor |  
 | bip_39_word_space_0 | ['approve', 'random', 'ensure', 'mention', 'certain', 'that', 'adult', 'example', 'vendor', 'thank', 'ritual', 'almost'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve random ensure mention certain that adult example vendor thank |  

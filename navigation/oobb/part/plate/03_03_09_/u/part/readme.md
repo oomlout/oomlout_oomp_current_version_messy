@@ -122,6 +122,18 @@ happy
 page
 length
 follow |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilelongpepperpavelockhappypagelengthfollowswing |  
+| bip_39_word_no_space_11 | mobilelongpepperpavelockhappypagelengthfollowswinginfant |  
+| bip_39_word_no_space_12 | mobilelongpepperpavelockhappypagelengthfollowswinginfantabove |  
+| bip_39_word_no_space_2 | mobilelong |  
+| bip_39_word_no_space_3 | mobilelongpepper |  
+| bip_39_word_no_space_4 | mobilelongpepperpave |  
+| bip_39_word_no_space_5 | mobilelongpepperpavelock |  
+| bip_39_word_no_space_6 | mobilelongpepperpavelockhappy |  
+| bip_39_word_no_space_7 | mobilelongpepperpavelockhappypage |  
+| bip_39_word_no_space_8 | mobilelongpepperpavelockhappypagelength |  
+| bip_39_word_no_space_9 | mobilelongpepperpavelockhappypagelengthfollow |  
 | bip_39_word_space_0 | ['mobile', 'long', 'pepper', 'pave', 'lock', 'happy', 'page', 'length', 'follow', 'swing', 'infant', 'above'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile long pepper pave lock happy page length follow swing |  

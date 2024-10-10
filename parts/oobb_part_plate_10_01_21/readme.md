@@ -122,6 +122,18 @@ dance
 model
 frame
 enhance |  
+| bip_39_word_no_space_1 | add |  
+| bip_39_word_no_space_10 | addamateurchucklejealousfilmdancemodelframeenhancenews |  
+| bip_39_word_no_space_11 | addamateurchucklejealousfilmdancemodelframeenhancenewspelican |  
+| bip_39_word_no_space_12 | addamateurchucklejealousfilmdancemodelframeenhancenewspelicanany |  
+| bip_39_word_no_space_2 | addamateur |  
+| bip_39_word_no_space_3 | addamateurchuckle |  
+| bip_39_word_no_space_4 | addamateurchucklejealous |  
+| bip_39_word_no_space_5 | addamateurchucklejealousfilm |  
+| bip_39_word_no_space_6 | addamateurchucklejealousfilmdance |  
+| bip_39_word_no_space_7 | addamateurchucklejealousfilmdancemodel |  
+| bip_39_word_no_space_8 | addamateurchucklejealousfilmdancemodelframe |  
+| bip_39_word_no_space_9 | addamateurchucklejealousfilmdancemodelframeenhance |  
 | bip_39_word_space_0 | ['add', 'amateur', 'chuckle', 'jealous', 'film', 'dance', 'model', 'frame', 'enhance', 'news', 'pelican', 'any'] |  
 | bip_39_word_space_1 | add |  
 | bip_39_word_space_10 | add amateur chuckle jealous film dance model frame enhance news |  

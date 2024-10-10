@@ -122,6 +122,18 @@ month
 nose
 window
 grow |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisurelimitreopengravityneckmonthnosewindowgrowborrow |  
+| bip_39_word_no_space_11 | leisurelimitreopengravityneckmonthnosewindowgrowborrowunable |  
+| bip_39_word_no_space_12 | leisurelimitreopengravityneckmonthnosewindowgrowborrowunableantenna |  
+| bip_39_word_no_space_2 | leisurelimit |  
+| bip_39_word_no_space_3 | leisurelimitreopen |  
+| bip_39_word_no_space_4 | leisurelimitreopengravity |  
+| bip_39_word_no_space_5 | leisurelimitreopengravityneck |  
+| bip_39_word_no_space_6 | leisurelimitreopengravityneckmonth |  
+| bip_39_word_no_space_7 | leisurelimitreopengravityneckmonthnose |  
+| bip_39_word_no_space_8 | leisurelimitreopengravityneckmonthnosewindow |  
+| bip_39_word_no_space_9 | leisurelimitreopengravityneckmonthnosewindowgrow |  
 | bip_39_word_space_0 | ['leisure', 'limit', 'reopen', 'gravity', 'neck', 'month', 'nose', 'window', 'grow', 'borrow', 'unable', 'antenna'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure limit reopen gravity neck month nose window grow borrow |  

@@ -122,6 +122,18 @@ axis
 tag
 lucky
 way |  
+| bip_39_word_no_space_1 | mixture |  
+| bip_39_word_no_space_10 | mixturedollliferivalrouteaxistagluckywaypanda |  
+| bip_39_word_no_space_11 | mixturedollliferivalrouteaxistagluckywaypandarally |  
+| bip_39_word_no_space_12 | mixturedollliferivalrouteaxistagluckywaypandarallyagain |  
+| bip_39_word_no_space_2 | mixturedoll |  
+| bip_39_word_no_space_3 | mixturedolllife |  
+| bip_39_word_no_space_4 | mixturedollliferival |  
+| bip_39_word_no_space_5 | mixturedollliferivalroute |  
+| bip_39_word_no_space_6 | mixturedollliferivalrouteaxis |  
+| bip_39_word_no_space_7 | mixturedollliferivalrouteaxistag |  
+| bip_39_word_no_space_8 | mixturedollliferivalrouteaxistaglucky |  
+| bip_39_word_no_space_9 | mixturedollliferivalrouteaxistagluckyway |  
 | bip_39_word_space_0 | ['mixture', 'doll', 'life', 'rival', 'route', 'axis', 'tag', 'lucky', 'way', 'panda', 'rally', 'again'] |  
 | bip_39_word_space_1 | mixture |  
 | bip_39_word_space_10 | mixture doll life rival route axis tag lucky way panda |  

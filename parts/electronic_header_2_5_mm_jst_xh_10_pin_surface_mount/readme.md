@@ -122,6 +122,18 @@ liberty
 giraffe
 wheel
 clerk |  
+| bip_39_word_no_space_1 | develop |  
+| bip_39_word_no_space_10 | developblankettrappotteryjaguarlibertygiraffewheelclerklumber |  
+| bip_39_word_no_space_11 | developblankettrappotteryjaguarlibertygiraffewheelclerklumberparent |  
+| bip_39_word_no_space_12 | developblankettrappotteryjaguarlibertygiraffewheelclerklumberparentalarm |  
+| bip_39_word_no_space_2 | developblanket |  
+| bip_39_word_no_space_3 | developblankettrap |  
+| bip_39_word_no_space_4 | developblankettrappottery |  
+| bip_39_word_no_space_5 | developblankettrappotteryjaguar |  
+| bip_39_word_no_space_6 | developblankettrappotteryjaguarliberty |  
+| bip_39_word_no_space_7 | developblankettrappotteryjaguarlibertygiraffe |  
+| bip_39_word_no_space_8 | developblankettrappotteryjaguarlibertygiraffewheel |  
+| bip_39_word_no_space_9 | developblankettrappotteryjaguarlibertygiraffewheelclerk |  
 | bip_39_word_space_0 | ['develop', 'blanket', 'trap', 'pottery', 'jaguar', 'liberty', 'giraffe', 'wheel', 'clerk', 'lumber', 'parent', 'alarm'] |  
 | bip_39_word_space_1 | develop |  
 | bip_39_word_space_10 | develop blanket trap pottery jaguar liberty giraffe wheel clerk lumber |  

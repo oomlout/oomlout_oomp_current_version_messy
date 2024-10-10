@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stick
   state
 
   present'
+bip_39_word_no_space_1: stick
+bip_39_word_no_space_10: sticktheyoakroadnoseodorweddingstatepresentquit
+bip_39_word_no_space_11: sticktheyoakroadnoseodorweddingstatepresentquitwisdom
+bip_39_word_no_space_12: sticktheyoakroadnoseodorweddingstatepresentquitwisdomamateur
+bip_39_word_no_space_2: stickthey
+bip_39_word_no_space_3: sticktheyoak
+bip_39_word_no_space_4: sticktheyoakroad
+bip_39_word_no_space_5: sticktheyoakroadnose
+bip_39_word_no_space_6: sticktheyoakroadnoseodor
+bip_39_word_no_space_7: sticktheyoakroadnoseodorwedding
+bip_39_word_no_space_8: sticktheyoakroadnoseodorweddingstate
+bip_39_word_no_space_9: sticktheyoakroadnoseodorweddingstatepresent
 bip_39_word_space_0:
 - stick
 - they

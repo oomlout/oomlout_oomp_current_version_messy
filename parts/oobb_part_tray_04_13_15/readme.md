@@ -122,6 +122,18 @@ team
 melt
 arch
 donor |  
+| bip_39_word_no_space_1 | brief |  
+| bip_39_word_no_space_10 | briefcancelviolinfollowexhaustteammeltarchdonorathlete |  
+| bip_39_word_no_space_11 | briefcancelviolinfollowexhaustteammeltarchdonorathleteround |  
+| bip_39_word_no_space_12 | briefcancelviolinfollowexhaustteammeltarchdonorathleteroundarrange |  
+| bip_39_word_no_space_2 | briefcancel |  
+| bip_39_word_no_space_3 | briefcancelviolin |  
+| bip_39_word_no_space_4 | briefcancelviolinfollow |  
+| bip_39_word_no_space_5 | briefcancelviolinfollowexhaust |  
+| bip_39_word_no_space_6 | briefcancelviolinfollowexhaustteam |  
+| bip_39_word_no_space_7 | briefcancelviolinfollowexhaustteammelt |  
+| bip_39_word_no_space_8 | briefcancelviolinfollowexhaustteammeltarch |  
+| bip_39_word_no_space_9 | briefcancelviolinfollowexhaustteammeltarchdonor |  
 | bip_39_word_space_0 | ['brief', 'cancel', 'violin', 'follow', 'exhaust', 'team', 'melt', 'arch', 'donor', 'athlete', 'round', 'arrange'] |  
 | bip_39_word_space_1 | brief |  
 | bip_39_word_space_10 | brief cancel violin follow exhaust team melt arch donor athlete |  

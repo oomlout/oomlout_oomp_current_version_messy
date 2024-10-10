@@ -122,6 +122,18 @@ rose
 dirt
 glove
 crop |  
+| bip_39_word_no_space_1 | tumble |  
+| bip_39_word_no_space_10 | tumblenosepeasantmeatwearrosedirtglovecropseed |  
+| bip_39_word_no_space_11 | tumblenosepeasantmeatwearrosedirtglovecropseedslot |  
+| bip_39_word_no_space_12 | tumblenosepeasantmeatwearrosedirtglovecropseedslotable |  
+| bip_39_word_no_space_2 | tumblenose |  
+| bip_39_word_no_space_3 | tumblenosepeasant |  
+| bip_39_word_no_space_4 | tumblenosepeasantmeat |  
+| bip_39_word_no_space_5 | tumblenosepeasantmeatwear |  
+| bip_39_word_no_space_6 | tumblenosepeasantmeatwearrose |  
+| bip_39_word_no_space_7 | tumblenosepeasantmeatwearrosedirt |  
+| bip_39_word_no_space_8 | tumblenosepeasantmeatwearrosedirtglove |  
+| bip_39_word_no_space_9 | tumblenosepeasantmeatwearrosedirtglovecrop |  
 | bip_39_word_space_0 | ['tumble', 'nose', 'peasant', 'meat', 'wear', 'rose', 'dirt', 'glove', 'crop', 'seed', 'slot', 'able'] |  
 | bip_39_word_space_1 | tumble |  
 | bip_39_word_space_10 | tumble nose peasant meat wear rose dirt glove crop seed |  

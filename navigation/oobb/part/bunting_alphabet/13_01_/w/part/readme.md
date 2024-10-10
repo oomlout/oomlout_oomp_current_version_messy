@@ -122,6 +122,18 @@ once
 erupt
 you
 narrow |  
+| bip_39_word_no_space_1 | mind |  
+| bip_39_word_no_space_10 | mindcartviableelementmaterialonceeruptyounarrowburger |  
+| bip_39_word_no_space_11 | mindcartviableelementmaterialonceeruptyounarrowburgerfiber |  
+| bip_39_word_no_space_12 | mindcartviableelementmaterialonceeruptyounarrowburgerfiberaudit |  
+| bip_39_word_no_space_2 | mindcart |  
+| bip_39_word_no_space_3 | mindcartviable |  
+| bip_39_word_no_space_4 | mindcartviableelement |  
+| bip_39_word_no_space_5 | mindcartviableelementmaterial |  
+| bip_39_word_no_space_6 | mindcartviableelementmaterialonce |  
+| bip_39_word_no_space_7 | mindcartviableelementmaterialonceerupt |  
+| bip_39_word_no_space_8 | mindcartviableelementmaterialonceeruptyou |  
+| bip_39_word_no_space_9 | mindcartviableelementmaterialonceeruptyounarrow |  
 | bip_39_word_space_0 | ['mind', 'cart', 'viable', 'element', 'material', 'once', 'erupt', 'you', 'narrow', 'burger', 'fiber', 'audit'] |  
 | bip_39_word_space_1 | mind |  
 | bip_39_word_space_10 | mind cart viable element material once erupt you narrow burger |  

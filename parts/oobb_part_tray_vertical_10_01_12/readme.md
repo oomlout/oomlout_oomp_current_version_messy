@@ -122,6 +122,18 @@ media
 peasant
 shuffle
 smile |  
+| bip_39_word_no_space_1 | emotion |  
+| bip_39_word_no_space_10 | emotionchangedecideaffairchalkmediapeasantshufflesmilesoda |  
+| bip_39_word_no_space_11 | emotionchangedecideaffairchalkmediapeasantshufflesmilesodatypical |  
+| bip_39_word_no_space_12 | emotionchangedecideaffairchalkmediapeasantshufflesmilesodatypicalarm |  
+| bip_39_word_no_space_2 | emotionchange |  
+| bip_39_word_no_space_3 | emotionchangedecide |  
+| bip_39_word_no_space_4 | emotionchangedecideaffair |  
+| bip_39_word_no_space_5 | emotionchangedecideaffairchalk |  
+| bip_39_word_no_space_6 | emotionchangedecideaffairchalkmedia |  
+| bip_39_word_no_space_7 | emotionchangedecideaffairchalkmediapeasant |  
+| bip_39_word_no_space_8 | emotionchangedecideaffairchalkmediapeasantshuffle |  
+| bip_39_word_no_space_9 | emotionchangedecideaffairchalkmediapeasantshufflesmile |  
 | bip_39_word_space_0 | ['emotion', 'change', 'decide', 'affair', 'chalk', 'media', 'peasant', 'shuffle', 'smile', 'soda', 'typical', 'arm'] |  
 | bip_39_word_space_1 | emotion |  
 | bip_39_word_space_10 | emotion change decide affair chalk media peasant shuffle smile soda |  

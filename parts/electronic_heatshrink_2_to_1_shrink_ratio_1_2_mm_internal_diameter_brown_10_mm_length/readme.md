@@ -122,6 +122,18 @@ brass
 cry
 notable
 spin |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdentablelenderrorcanyonbrasscrynotablespinaxis |  
+| bip_39_word_no_space_11 | burdentablelenderrorcanyonbrasscrynotablespinaxisthought |  
+| bip_39_word_no_space_12 | burdentablelenderrorcanyonbrasscrynotablespinaxisthoughtability |  
+| bip_39_word_no_space_2 | burdentable |  
+| bip_39_word_no_space_3 | burdentablelend |  
+| bip_39_word_no_space_4 | burdentablelenderror |  
+| bip_39_word_no_space_5 | burdentablelenderrorcanyon |  
+| bip_39_word_no_space_6 | burdentablelenderrorcanyonbrass |  
+| bip_39_word_no_space_7 | burdentablelenderrorcanyonbrasscry |  
+| bip_39_word_no_space_8 | burdentablelenderrorcanyonbrasscrynotable |  
+| bip_39_word_no_space_9 | burdentablelenderrorcanyonbrasscrynotablespin |  
 | bip_39_word_space_0 | ['burden', 'table', 'lend', 'error', 'canyon', 'brass', 'cry', 'notable', 'spin', 'axis', 'thought', 'ability'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden table lend error canyon brass cry notable spin axis |  

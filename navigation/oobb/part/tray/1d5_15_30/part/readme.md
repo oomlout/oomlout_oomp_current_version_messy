@@ -122,6 +122,18 @@ remain
 pave
 beach
 melt |  
+| bip_39_word_no_space_1 | trap |  
+| bip_39_word_no_space_10 | trappairriotguardgridremainpavebeachmeltcluster |  
+| bip_39_word_no_space_11 | trappairriotguardgridremainpavebeachmeltclustertrain |  
+| bip_39_word_no_space_12 | trappairriotguardgridremainpavebeachmeltclustertrainalbum |  
+| bip_39_word_no_space_2 | trappair |  
+| bip_39_word_no_space_3 | trappairriot |  
+| bip_39_word_no_space_4 | trappairriotguard |  
+| bip_39_word_no_space_5 | trappairriotguardgrid |  
+| bip_39_word_no_space_6 | trappairriotguardgridremain |  
+| bip_39_word_no_space_7 | trappairriotguardgridremainpave |  
+| bip_39_word_no_space_8 | trappairriotguardgridremainpavebeach |  
+| bip_39_word_no_space_9 | trappairriotguardgridremainpavebeachmelt |  
 | bip_39_word_space_0 | ['trap', 'pair', 'riot', 'guard', 'grid', 'remain', 'pave', 'beach', 'melt', 'cluster', 'train', 'album'] |  
 | bip_39_word_space_1 | trap |  
 | bip_39_word_space_10 | trap pair riot guard grid remain pave beach melt cluster |  

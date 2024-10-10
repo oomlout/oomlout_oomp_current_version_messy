@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tank
   bless
 
   sword'
+bip_39_word_no_space_1: tank
+bip_39_word_no_space_10: tankgigglebindabovebusydeputycustomblessswordwild
+bip_39_word_no_space_11: tankgigglebindabovebusydeputycustomblessswordwildinjury
+bip_39_word_no_space_12: tankgigglebindabovebusydeputycustomblessswordwildinjuryadvance
+bip_39_word_no_space_2: tankgiggle
+bip_39_word_no_space_3: tankgigglebind
+bip_39_word_no_space_4: tankgigglebindabove
+bip_39_word_no_space_5: tankgigglebindabovebusy
+bip_39_word_no_space_6: tankgigglebindabovebusydeputy
+bip_39_word_no_space_7: tankgigglebindabovebusydeputycustom
+bip_39_word_no_space_8: tankgigglebindabovebusydeputycustombless
+bip_39_word_no_space_9: tankgigglebindabovebusydeputycustomblesssword
 bip_39_word_space_0:
 - tank
 - giggle

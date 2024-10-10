@@ -122,6 +122,18 @@ citizen
 barely
 ride
 pencil |  
+| bip_39_word_no_space_1 | swamp |  
+| bip_39_word_no_space_10 | swampsockthoughtitemdrinkcitizenbarelyridepencilpowder |  
+| bip_39_word_no_space_11 | swampsockthoughtitemdrinkcitizenbarelyridepencilpowderhusband |  
+| bip_39_word_no_space_12 | swampsockthoughtitemdrinkcitizenbarelyridepencilpowderhusbandarrange |  
+| bip_39_word_no_space_2 | swampsock |  
+| bip_39_word_no_space_3 | swampsockthought |  
+| bip_39_word_no_space_4 | swampsockthoughtitem |  
+| bip_39_word_no_space_5 | swampsockthoughtitemdrink |  
+| bip_39_word_no_space_6 | swampsockthoughtitemdrinkcitizen |  
+| bip_39_word_no_space_7 | swampsockthoughtitemdrinkcitizenbarely |  
+| bip_39_word_no_space_8 | swampsockthoughtitemdrinkcitizenbarelyride |  
+| bip_39_word_no_space_9 | swampsockthoughtitemdrinkcitizenbarelyridepencil |  
 | bip_39_word_space_0 | ['swamp', 'sock', 'thought', 'item', 'drink', 'citizen', 'barely', 'ride', 'pencil', 'powder', 'husband', 'arrange'] |  
 | bip_39_word_space_1 | swamp |  
 | bip_39_word_space_10 | swamp sock thought item drink citizen barely ride pencil powder |  

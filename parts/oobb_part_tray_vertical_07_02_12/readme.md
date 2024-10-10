@@ -122,6 +122,18 @@ crop
 thought
 meat
 siege |  
+| bip_39_word_no_space_1 | quote |  
+| bip_39_word_no_space_10 | quoteimmunehorsejumpeconomycropthoughtmeatsiegeassume |  
+| bip_39_word_no_space_11 | quoteimmunehorsejumpeconomycropthoughtmeatsiegeassumemixed |  
+| bip_39_word_no_space_12 | quoteimmunehorsejumpeconomycropthoughtmeatsiegeassumemixedaerobic |  
+| bip_39_word_no_space_2 | quoteimmune |  
+| bip_39_word_no_space_3 | quoteimmunehorse |  
+| bip_39_word_no_space_4 | quoteimmunehorsejump |  
+| bip_39_word_no_space_5 | quoteimmunehorsejumpeconomy |  
+| bip_39_word_no_space_6 | quoteimmunehorsejumpeconomycrop |  
+| bip_39_word_no_space_7 | quoteimmunehorsejumpeconomycropthought |  
+| bip_39_word_no_space_8 | quoteimmunehorsejumpeconomycropthoughtmeat |  
+| bip_39_word_no_space_9 | quoteimmunehorsejumpeconomycropthoughtmeatsiege |  
 | bip_39_word_space_0 | ['quote', 'immune', 'horse', 'jump', 'economy', 'crop', 'thought', 'meat', 'siege', 'assume', 'mixed', 'aerobic'] |  
 | bip_39_word_space_1 | quote |  
 | bip_39_word_space_10 | quote immune horse jump economy crop thought meat siege assume |  

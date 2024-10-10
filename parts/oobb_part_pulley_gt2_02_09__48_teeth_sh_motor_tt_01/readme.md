@@ -122,6 +122,18 @@ slush
 spend
 riot
 walk |  
+| bip_39_word_no_space_1 | fence |  
+| bip_39_word_no_space_10 | fencetankrejectthankcreekslushspendriotwalksteel |  
+| bip_39_word_no_space_11 | fencetankrejectthankcreekslushspendriotwalksteelelder |  
+| bip_39_word_no_space_12 | fencetankrejectthankcreekslushspendriotwalksteelelderalpha |  
+| bip_39_word_no_space_2 | fencetank |  
+| bip_39_word_no_space_3 | fencetankreject |  
+| bip_39_word_no_space_4 | fencetankrejectthank |  
+| bip_39_word_no_space_5 | fencetankrejectthankcreek |  
+| bip_39_word_no_space_6 | fencetankrejectthankcreekslush |  
+| bip_39_word_no_space_7 | fencetankrejectthankcreekslushspend |  
+| bip_39_word_no_space_8 | fencetankrejectthankcreekslushspendriot |  
+| bip_39_word_no_space_9 | fencetankrejectthankcreekslushspendriotwalk |  
 | bip_39_word_space_0 | ['fence', 'tank', 'reject', 'thank', 'creek', 'slush', 'spend', 'riot', 'walk', 'steel', 'elder', 'alpha'] |  
 | bip_39_word_space_1 | fence |  
 | bip_39_word_space_10 | fence tank reject thank creek slush spend riot walk steel |  

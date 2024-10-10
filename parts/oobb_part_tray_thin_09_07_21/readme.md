@@ -122,6 +122,18 @@ prefer
 decrease
 rescue
 syrup |  
+| bip_39_word_no_space_1 | wave |  
+| bip_39_word_no_space_10 | wavecerealgatedetailcactuspreferdecreaserescuesyruppretty |  
+| bip_39_word_no_space_11 | wavecerealgatedetailcactuspreferdecreaserescuesyrupprettyelbow |  
+| bip_39_word_no_space_12 | wavecerealgatedetailcactuspreferdecreaserescuesyrupprettyelbowattend |  
+| bip_39_word_no_space_2 | wavecereal |  
+| bip_39_word_no_space_3 | wavecerealgate |  
+| bip_39_word_no_space_4 | wavecerealgatedetail |  
+| bip_39_word_no_space_5 | wavecerealgatedetailcactus |  
+| bip_39_word_no_space_6 | wavecerealgatedetailcactusprefer |  
+| bip_39_word_no_space_7 | wavecerealgatedetailcactuspreferdecrease |  
+| bip_39_word_no_space_8 | wavecerealgatedetailcactuspreferdecreaserescue |  
+| bip_39_word_no_space_9 | wavecerealgatedetailcactuspreferdecreaserescuesyrup |  
 | bip_39_word_space_0 | ['wave', 'cereal', 'gate', 'detail', 'cactus', 'prefer', 'decrease', 'rescue', 'syrup', 'pretty', 'elbow', 'attend'] |  
 | bip_39_word_space_1 | wave |  
 | bip_39_word_space_10 | wave cereal gate detail cactus prefer decrease rescue syrup pretty |  

@@ -122,6 +122,18 @@ print
 shy
 lava
 road |  
+| bip_39_word_no_space_1 | regret |  
+| bip_39_word_no_space_10 | regrethenstereostingpulpprintshylavaroadfog |  
+| bip_39_word_no_space_11 | regrethenstereostingpulpprintshylavaroadfogwelcome |  
+| bip_39_word_no_space_12 | regrethenstereostingpulpprintshylavaroadfogwelcomeaspect |  
+| bip_39_word_no_space_2 | regrethen |  
+| bip_39_word_no_space_3 | regrethenstereo |  
+| bip_39_word_no_space_4 | regrethenstereosting |  
+| bip_39_word_no_space_5 | regrethenstereostingpulp |  
+| bip_39_word_no_space_6 | regrethenstereostingpulpprint |  
+| bip_39_word_no_space_7 | regrethenstereostingpulpprintshy |  
+| bip_39_word_no_space_8 | regrethenstereostingpulpprintshylava |  
+| bip_39_word_no_space_9 | regrethenstereostingpulpprintshylavaroad |  
 | bip_39_word_space_0 | ['regret', 'hen', 'stereo', 'sting', 'pulp', 'print', 'shy', 'lava', 'road', 'fog', 'welcome', 'aspect'] |  
 | bip_39_word_space_1 | regret |  
 | bip_39_word_space_10 | regret hen stereo sting pulp print shy lava road fog |  

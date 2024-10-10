@@ -122,6 +122,18 @@ vital
 green
 cannon
 little |  
+| bip_39_word_no_space_1 | salon |  
+| bip_39_word_no_space_10 | salonobligedignitynowwhalevitalgreencannonlittletrouble |  
+| bip_39_word_no_space_11 | salonobligedignitynowwhalevitalgreencannonlittletroublebind |  
+| bip_39_word_no_space_12 | salonobligedignitynowwhalevitalgreencannonlittletroublebindasset |  
+| bip_39_word_no_space_2 | salonoblige |  
+| bip_39_word_no_space_3 | salonobligedignity |  
+| bip_39_word_no_space_4 | salonobligedignitynow |  
+| bip_39_word_no_space_5 | salonobligedignitynowwhale |  
+| bip_39_word_no_space_6 | salonobligedignitynowwhalevital |  
+| bip_39_word_no_space_7 | salonobligedignitynowwhalevitalgreen |  
+| bip_39_word_no_space_8 | salonobligedignitynowwhalevitalgreencannon |  
+| bip_39_word_no_space_9 | salonobligedignitynowwhalevitalgreencannonlittle |  
 | bip_39_word_space_0 | ['salon', 'oblige', 'dignity', 'now', 'whale', 'vital', 'green', 'cannon', 'little', 'trouble', 'bind', 'asset'] |  
 | bip_39_word_space_1 | salon |  
 | bip_39_word_space_10 | salon oblige dignity now whale vital green cannon little trouble |  

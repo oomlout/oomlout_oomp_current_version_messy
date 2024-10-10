@@ -122,6 +122,18 @@ coffee
 crush
 hover
 life |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderstorytaxibiologyvendorcoffeecrushhoverliferule |  
+| bip_39_word_no_space_11 | powderstorytaxibiologyvendorcoffeecrushhoverliferuleeasily |  
+| bip_39_word_no_space_12 | powderstorytaxibiologyvendorcoffeecrushhoverliferuleeasilyarmor |  
+| bip_39_word_no_space_2 | powderstory |  
+| bip_39_word_no_space_3 | powderstorytaxi |  
+| bip_39_word_no_space_4 | powderstorytaxibiology |  
+| bip_39_word_no_space_5 | powderstorytaxibiologyvendor |  
+| bip_39_word_no_space_6 | powderstorytaxibiologyvendorcoffee |  
+| bip_39_word_no_space_7 | powderstorytaxibiologyvendorcoffeecrush |  
+| bip_39_word_no_space_8 | powderstorytaxibiologyvendorcoffeecrushhover |  
+| bip_39_word_no_space_9 | powderstorytaxibiologyvendorcoffeecrushhoverlife |  
 | bip_39_word_space_0 | ['powder', 'story', 'taxi', 'biology', 'vendor', 'coffee', 'crush', 'hover', 'life', 'rule', 'easily', 'armor'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder story taxi biology vendor coffee crush hover life rule |  

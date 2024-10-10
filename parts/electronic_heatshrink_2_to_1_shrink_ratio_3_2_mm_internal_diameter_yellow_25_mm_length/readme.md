@@ -122,6 +122,18 @@ insane
 rose
 laptop
 busy |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legsprayindexdropsubjectinsaneroselaptopbusyahead |  
+| bip_39_word_no_space_11 | legsprayindexdropsubjectinsaneroselaptopbusyaheadpeople |  
+| bip_39_word_no_space_12 | legsprayindexdropsubjectinsaneroselaptopbusyaheadpeopleargue |  
+| bip_39_word_no_space_2 | legspray |  
+| bip_39_word_no_space_3 | legsprayindex |  
+| bip_39_word_no_space_4 | legsprayindexdrop |  
+| bip_39_word_no_space_5 | legsprayindexdropsubject |  
+| bip_39_word_no_space_6 | legsprayindexdropsubjectinsane |  
+| bip_39_word_no_space_7 | legsprayindexdropsubjectinsanerose |  
+| bip_39_word_no_space_8 | legsprayindexdropsubjectinsaneroselaptop |  
+| bip_39_word_no_space_9 | legsprayindexdropsubjectinsaneroselaptopbusy |  
 | bip_39_word_space_0 | ['leg', 'spray', 'index', 'drop', 'subject', 'insane', 'rose', 'laptop', 'busy', 'ahead', 'people', 'argue'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg spray index drop subject insane rose laptop busy ahead |  

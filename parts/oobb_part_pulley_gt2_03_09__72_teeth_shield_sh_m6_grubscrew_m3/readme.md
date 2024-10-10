@@ -122,6 +122,18 @@ alter
 laundry
 weapon
 crater |  
+| bip_39_word_no_space_1 | adult |  
+| bip_39_word_no_space_10 | adultsyrupslabstafftennisalterlaundryweaponcratergas |  
+| bip_39_word_no_space_11 | adultsyrupslabstafftennisalterlaundryweaponcratergashelp |  
+| bip_39_word_no_space_12 | adultsyrupslabstafftennisalterlaundryweaponcratergashelpaudit |  
+| bip_39_word_no_space_2 | adultsyrup |  
+| bip_39_word_no_space_3 | adultsyrupslab |  
+| bip_39_word_no_space_4 | adultsyrupslabstaff |  
+| bip_39_word_no_space_5 | adultsyrupslabstafftennis |  
+| bip_39_word_no_space_6 | adultsyrupslabstafftennisalter |  
+| bip_39_word_no_space_7 | adultsyrupslabstafftennisalterlaundry |  
+| bip_39_word_no_space_8 | adultsyrupslabstafftennisalterlaundryweapon |  
+| bip_39_word_no_space_9 | adultsyrupslabstafftennisalterlaundryweaponcrater |  
 | bip_39_word_space_0 | ['adult', 'syrup', 'slab', 'staff', 'tennis', 'alter', 'laundry', 'weapon', 'crater', 'gas', 'help', 'audit'] |  
 | bip_39_word_space_1 | adult |  
 | bip_39_word_space_10 | adult syrup slab staff tennis alter laundry weapon crater gas |  

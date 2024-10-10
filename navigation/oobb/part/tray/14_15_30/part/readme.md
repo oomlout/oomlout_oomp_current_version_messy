@@ -122,6 +122,18 @@ twelve
 swamp
 rule
 drift |  
+| bip_39_word_no_space_1 | layer |  
+| bip_39_word_no_space_10 | layerrecallafraiddinosaurfeetwelveswampruledriftpulp |  
+| bip_39_word_no_space_11 | layerrecallafraiddinosaurfeetwelveswampruledriftpulpwest |  
+| bip_39_word_no_space_12 | layerrecallafraiddinosaurfeetwelveswampruledriftpulpwestalready |  
+| bip_39_word_no_space_2 | layerrecall |  
+| bip_39_word_no_space_3 | layerrecallafraid |  
+| bip_39_word_no_space_4 | layerrecallafraiddinosaur |  
+| bip_39_word_no_space_5 | layerrecallafraiddinosaurfee |  
+| bip_39_word_no_space_6 | layerrecallafraiddinosaurfeetwelve |  
+| bip_39_word_no_space_7 | layerrecallafraiddinosaurfeetwelveswamp |  
+| bip_39_word_no_space_8 | layerrecallafraiddinosaurfeetwelveswamprule |  
+| bip_39_word_no_space_9 | layerrecallafraiddinosaurfeetwelveswampruledrift |  
 | bip_39_word_space_0 | ['layer', 'recall', 'afraid', 'dinosaur', 'fee', 'twelve', 'swamp', 'rule', 'drift', 'pulp', 'west', 'already'] |  
 | bip_39_word_space_1 | layer |  
 | bip_39_word_space_10 | layer recall afraid dinosaur fee twelve swamp rule drift pulp |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sweet
   era
 
   law'
+bip_39_word_no_space_1: sweet
+bip_39_word_no_space_10: sweettestpaddleceilingdefineinmateprogrameralawtrust
+bip_39_word_no_space_11: sweettestpaddleceilingdefineinmateprogrameralawtrustplunge
+bip_39_word_no_space_12: sweettestpaddleceilingdefineinmateprogrameralawtrustplungeabsurd
+bip_39_word_no_space_2: sweettest
+bip_39_word_no_space_3: sweettestpaddle
+bip_39_word_no_space_4: sweettestpaddleceiling
+bip_39_word_no_space_5: sweettestpaddleceilingdefine
+bip_39_word_no_space_6: sweettestpaddleceilingdefineinmate
+bip_39_word_no_space_7: sweettestpaddleceilingdefineinmateprogram
+bip_39_word_no_space_8: sweettestpaddleceilingdefineinmateprogramera
+bip_39_word_no_space_9: sweettestpaddleceilingdefineinmateprogrameralaw
 bip_39_word_space_0:
 - sweet
 - test

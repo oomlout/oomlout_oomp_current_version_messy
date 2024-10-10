@@ -122,6 +122,18 @@ father
 gas
 able
 common |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulbutterescapeglowgadgetfathergasablecommondrastic |  
+| bip_39_word_no_space_11 | usefulbutterescapeglowgadgetfathergasablecommondrasticnow |  
+| bip_39_word_no_space_12 | usefulbutterescapeglowgadgetfathergasablecommondrasticnowannounce |  
+| bip_39_word_no_space_2 | usefulbutter |  
+| bip_39_word_no_space_3 | usefulbutterescape |  
+| bip_39_word_no_space_4 | usefulbutterescapeglow |  
+| bip_39_word_no_space_5 | usefulbutterescapeglowgadget |  
+| bip_39_word_no_space_6 | usefulbutterescapeglowgadgetfather |  
+| bip_39_word_no_space_7 | usefulbutterescapeglowgadgetfathergas |  
+| bip_39_word_no_space_8 | usefulbutterescapeglowgadgetfathergasable |  
+| bip_39_word_no_space_9 | usefulbutterescapeglowgadgetfathergasablecommon |  
 | bip_39_word_space_0 | ['useful', 'butter', 'escape', 'glow', 'gadget', 'father', 'gas', 'able', 'common', 'drastic', 'now', 'announce'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful butter escape glow gadget father gas able common drastic |  

@@ -122,6 +122,18 @@ brass
 useful
 smart
 turtle |  
+| bip_39_word_no_space_1 | crazy |  
+| bip_39_word_no_space_10 | crazychestopinionbridgevintagebrassusefulsmartturtleglory |  
+| bip_39_word_no_space_11 | crazychestopinionbridgevintagebrassusefulsmartturtlegloryfog |  
+| bip_39_word_no_space_12 | crazychestopinionbridgevintagebrassusefulsmartturtlegloryfogarch |  
+| bip_39_word_no_space_2 | crazychest |  
+| bip_39_word_no_space_3 | crazychestopinion |  
+| bip_39_word_no_space_4 | crazychestopinionbridge |  
+| bip_39_word_no_space_5 | crazychestopinionbridgevintage |  
+| bip_39_word_no_space_6 | crazychestopinionbridgevintagebrass |  
+| bip_39_word_no_space_7 | crazychestopinionbridgevintagebrassuseful |  
+| bip_39_word_no_space_8 | crazychestopinionbridgevintagebrassusefulsmart |  
+| bip_39_word_no_space_9 | crazychestopinionbridgevintagebrassusefulsmartturtle |  
 | bip_39_word_space_0 | ['crazy', 'chest', 'opinion', 'bridge', 'vintage', 'brass', 'useful', 'smart', 'turtle', 'glory', 'fog', 'arch'] |  
 | bip_39_word_space_1 | crazy |  
 | bip_39_word_space_10 | crazy chest opinion bridge vintage brass useful smart turtle glory |  

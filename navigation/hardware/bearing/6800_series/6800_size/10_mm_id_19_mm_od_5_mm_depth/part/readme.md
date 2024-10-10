@@ -122,6 +122,18 @@ outdoor
 mesh
 reunion
 title |  
+| bip_39_word_no_space_1 | only |  
+| bip_39_word_no_space_10 | onlyfocusdonatereflectbubbleoutdoormeshreuniontitlemimic |  
+| bip_39_word_no_space_11 | onlyfocusdonatereflectbubbleoutdoormeshreuniontitlemimickeen |  
+| bip_39_word_no_space_12 | onlyfocusdonatereflectbubbleoutdoormeshreuniontitlemimickeenalone |  
+| bip_39_word_no_space_2 | onlyfocus |  
+| bip_39_word_no_space_3 | onlyfocusdonate |  
+| bip_39_word_no_space_4 | onlyfocusdonatereflect |  
+| bip_39_word_no_space_5 | onlyfocusdonatereflectbubble |  
+| bip_39_word_no_space_6 | onlyfocusdonatereflectbubbleoutdoor |  
+| bip_39_word_no_space_7 | onlyfocusdonatereflectbubbleoutdoormesh |  
+| bip_39_word_no_space_8 | onlyfocusdonatereflectbubbleoutdoormeshreunion |  
+| bip_39_word_no_space_9 | onlyfocusdonatereflectbubbleoutdoormeshreuniontitle |  
 | bip_39_word_space_0 | ['only', 'focus', 'donate', 'reflect', 'bubble', 'outdoor', 'mesh', 'reunion', 'title', 'mimic', 'keen', 'alone'] |  
 | bip_39_word_space_1 | only |  
 | bip_39_word_space_10 | only focus donate reflect bubble outdoor mesh reunion title mimic |  

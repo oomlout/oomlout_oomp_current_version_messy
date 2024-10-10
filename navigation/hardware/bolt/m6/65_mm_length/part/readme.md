@@ -122,6 +122,18 @@ scene
 copper
 cancel
 forget |  
+| bip_39_word_no_space_1 | they |  
+| bip_39_word_no_space_10 | theysliceunawarehighenvelopescenecoppercancelforgetdilemma |  
+| bip_39_word_no_space_11 | theysliceunawarehighenvelopescenecoppercancelforgetdilemmapact |  
+| bip_39_word_no_space_12 | theysliceunawarehighenvelopescenecoppercancelforgetdilemmapactarrange |  
+| bip_39_word_no_space_2 | theyslice |  
+| bip_39_word_no_space_3 | theysliceunaware |  
+| bip_39_word_no_space_4 | theysliceunawarehigh |  
+| bip_39_word_no_space_5 | theysliceunawarehighenvelope |  
+| bip_39_word_no_space_6 | theysliceunawarehighenvelopescene |  
+| bip_39_word_no_space_7 | theysliceunawarehighenvelopescenecopper |  
+| bip_39_word_no_space_8 | theysliceunawarehighenvelopescenecoppercancel |  
+| bip_39_word_no_space_9 | theysliceunawarehighenvelopescenecoppercancelforget |  
 | bip_39_word_space_0 | ['they', 'slice', 'unaware', 'high', 'envelope', 'scene', 'copper', 'cancel', 'forget', 'dilemma', 'pact', 'arrange'] |  
 | bip_39_word_space_1 | they |  
 | bip_39_word_space_10 | they slice unaware high envelope scene copper cancel forget dilemma |  

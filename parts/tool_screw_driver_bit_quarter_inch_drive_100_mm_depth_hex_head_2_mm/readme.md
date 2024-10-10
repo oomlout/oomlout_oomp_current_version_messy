@@ -122,6 +122,18 @@ swamp
 wasp
 middle
 fabric |  
+| bip_39_word_no_space_1 | copy |  
+| bip_39_word_no_space_10 | copykickcoursespicemarriageswampwaspmiddlefabriccrane |  
+| bip_39_word_no_space_11 | copykickcoursespicemarriageswampwaspmiddlefabriccranetrouble |  
+| bip_39_word_no_space_12 | copykickcoursespicemarriageswampwaspmiddlefabriccranetroubleabove |  
+| bip_39_word_no_space_2 | copykick |  
+| bip_39_word_no_space_3 | copykickcourse |  
+| bip_39_word_no_space_4 | copykickcoursespice |  
+| bip_39_word_no_space_5 | copykickcoursespicemarriage |  
+| bip_39_word_no_space_6 | copykickcoursespicemarriageswamp |  
+| bip_39_word_no_space_7 | copykickcoursespicemarriageswampwasp |  
+| bip_39_word_no_space_8 | copykickcoursespicemarriageswampwaspmiddle |  
+| bip_39_word_no_space_9 | copykickcoursespicemarriageswampwaspmiddlefabric |  
 | bip_39_word_space_0 | ['copy', 'kick', 'course', 'spice', 'marriage', 'swamp', 'wasp', 'middle', 'fabric', 'crane', 'trouble', 'above'] |  
 | bip_39_word_space_1 | copy |  
 | bip_39_word_space_10 | copy kick course spice marriage swamp wasp middle fabric crane |  

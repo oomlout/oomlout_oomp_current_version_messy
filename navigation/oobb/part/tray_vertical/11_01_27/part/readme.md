@@ -122,6 +122,18 @@ ranch
 position
 either
 wrist |  
+| bip_39_word_no_space_1 | allow |  
+| bip_39_word_no_space_10 | allowarmorstadiummaskinflictranchpositioneitherwristtilt |  
+| bip_39_word_no_space_11 | allowarmorstadiummaskinflictranchpositioneitherwristtiltspot |  
+| bip_39_word_no_space_12 | allowarmorstadiummaskinflictranchpositioneitherwristtiltspotathlete |  
+| bip_39_word_no_space_2 | allowarmor |  
+| bip_39_word_no_space_3 | allowarmorstadium |  
+| bip_39_word_no_space_4 | allowarmorstadiummask |  
+| bip_39_word_no_space_5 | allowarmorstadiummaskinflict |  
+| bip_39_word_no_space_6 | allowarmorstadiummaskinflictranch |  
+| bip_39_word_no_space_7 | allowarmorstadiummaskinflictranchposition |  
+| bip_39_word_no_space_8 | allowarmorstadiummaskinflictranchpositioneither |  
+| bip_39_word_no_space_9 | allowarmorstadiummaskinflictranchpositioneitherwrist |  
 | bip_39_word_space_0 | ['allow', 'armor', 'stadium', 'mask', 'inflict', 'ranch', 'position', 'either', 'wrist', 'tilt', 'spot', 'athlete'] |  
 | bip_39_word_space_1 | allow |  
 | bip_39_word_space_10 | allow armor stadium mask inflict ranch position either wrist tilt |  

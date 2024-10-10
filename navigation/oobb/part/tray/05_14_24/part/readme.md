@@ -122,6 +122,18 @@ pill
 agent
 surround
 neglect |  
+| bip_39_word_no_space_1 | neck |  
+| bip_39_word_no_space_10 | neckslogantripsetupgrainpillagentsurroundneglectrural |  
+| bip_39_word_no_space_11 | neckslogantripsetupgrainpillagentsurroundneglectruralapart |  
+| bip_39_word_no_space_12 | neckslogantripsetupgrainpillagentsurroundneglectruralapartasset |  
+| bip_39_word_no_space_2 | neckslogan |  
+| bip_39_word_no_space_3 | neckslogantrip |  
+| bip_39_word_no_space_4 | neckslogantripsetup |  
+| bip_39_word_no_space_5 | neckslogantripsetupgrain |  
+| bip_39_word_no_space_6 | neckslogantripsetupgrainpill |  
+| bip_39_word_no_space_7 | neckslogantripsetupgrainpillagent |  
+| bip_39_word_no_space_8 | neckslogantripsetupgrainpillagentsurround |  
+| bip_39_word_no_space_9 | neckslogantripsetupgrainpillagentsurroundneglect |  
 | bip_39_word_space_0 | ['neck', 'slogan', 'trip', 'setup', 'grain', 'pill', 'agent', 'surround', 'neglect', 'rural', 'apart', 'asset'] |  
 | bip_39_word_space_1 | neck |  
 | bip_39_word_space_10 | neck slogan trip setup grain pill agent surround neglect rural |  

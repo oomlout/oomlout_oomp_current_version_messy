@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'legal
   company
 
   start'
+bip_39_word_no_space_1: legal
+bip_39_word_no_space_10: legalcloudclusterparrotbulbtheorycropcompanystartwinner
+bip_39_word_no_space_11: legalcloudclusterparrotbulbtheorycropcompanystartwinnerexist
+bip_39_word_no_space_12: legalcloudclusterparrotbulbtheorycropcompanystartwinnerexistachieve
+bip_39_word_no_space_2: legalcloud
+bip_39_word_no_space_3: legalcloudcluster
+bip_39_word_no_space_4: legalcloudclusterparrot
+bip_39_word_no_space_5: legalcloudclusterparrotbulb
+bip_39_word_no_space_6: legalcloudclusterparrotbulbtheory
+bip_39_word_no_space_7: legalcloudclusterparrotbulbtheorycrop
+bip_39_word_no_space_8: legalcloudclusterparrotbulbtheorycropcompany
+bip_39_word_no_space_9: legalcloudclusterparrotbulbtheorycropcompanystart
 bip_39_word_space_0:
 - legal
 - cloud

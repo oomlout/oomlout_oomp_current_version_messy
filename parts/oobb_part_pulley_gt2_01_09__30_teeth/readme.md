@@ -122,6 +122,18 @@ squeeze
 bird
 strike
 hip |  
+| bip_39_word_no_space_1 | cushion |  
+| bip_39_word_no_space_10 | cushionflamepaperbeforetoddlersqueezebirdstrikehipribbon |  
+| bip_39_word_no_space_11 | cushionflamepaperbeforetoddlersqueezebirdstrikehipribbonrotate |  
+| bip_39_word_no_space_12 | cushionflamepaperbeforetoddlersqueezebirdstrikehipribbonrotateadvance |  
+| bip_39_word_no_space_2 | cushionflame |  
+| bip_39_word_no_space_3 | cushionflamepaper |  
+| bip_39_word_no_space_4 | cushionflamepaperbefore |  
+| bip_39_word_no_space_5 | cushionflamepaperbeforetoddler |  
+| bip_39_word_no_space_6 | cushionflamepaperbeforetoddlersqueeze |  
+| bip_39_word_no_space_7 | cushionflamepaperbeforetoddlersqueezebird |  
+| bip_39_word_no_space_8 | cushionflamepaperbeforetoddlersqueezebirdstrike |  
+| bip_39_word_no_space_9 | cushionflamepaperbeforetoddlersqueezebirdstrikehip |  
 | bip_39_word_space_0 | ['cushion', 'flame', 'paper', 'before', 'toddler', 'squeeze', 'bird', 'strike', 'hip', 'ribbon', 'rotate', 'advance'] |  
 | bip_39_word_space_1 | cushion |  
 | bip_39_word_space_10 | cushion flame paper before toddler squeeze bird strike hip ribbon |  

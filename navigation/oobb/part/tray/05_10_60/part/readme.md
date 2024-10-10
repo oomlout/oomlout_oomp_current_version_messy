@@ -122,6 +122,18 @@ void
 shiver
 frown
 tennis |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppyfragilelightbuildpanthervoidshiverfrowntennisrain |  
+| bip_39_word_no_space_11 | puppyfragilelightbuildpanthervoidshiverfrowntennisrainscrap |  
+| bip_39_word_no_space_12 | puppyfragilelightbuildpanthervoidshiverfrowntennisrainscrapalmost |  
+| bip_39_word_no_space_2 | puppyfragile |  
+| bip_39_word_no_space_3 | puppyfragilelight |  
+| bip_39_word_no_space_4 | puppyfragilelightbuild |  
+| bip_39_word_no_space_5 | puppyfragilelightbuildpanther |  
+| bip_39_word_no_space_6 | puppyfragilelightbuildpanthervoid |  
+| bip_39_word_no_space_7 | puppyfragilelightbuildpanthervoidshiver |  
+| bip_39_word_no_space_8 | puppyfragilelightbuildpanthervoidshiverfrown |  
+| bip_39_word_no_space_9 | puppyfragilelightbuildpanthervoidshiverfrowntennis |  
 | bip_39_word_space_0 | ['puppy', 'fragile', 'light', 'build', 'panther', 'void', 'shiver', 'frown', 'tennis', 'rain', 'scrap', 'almost'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy fragile light build panther void shiver frown tennis rain |  

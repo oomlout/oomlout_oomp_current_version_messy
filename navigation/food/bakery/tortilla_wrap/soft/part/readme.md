@@ -122,6 +122,18 @@ fragile
 person
 kiss
 delay |  
+| bip_39_word_no_space_1 | wife |  
+| bip_39_word_no_space_10 | wifehedgehogtrueridgeviablefragilepersonkissdelaycover |  
+| bip_39_word_no_space_11 | wifehedgehogtrueridgeviablefragilepersonkissdelaycoverhockey |  
+| bip_39_word_no_space_12 | wifehedgehogtrueridgeviablefragilepersonkissdelaycoverhockeyappear |  
+| bip_39_word_no_space_2 | wifehedgehog |  
+| bip_39_word_no_space_3 | wifehedgehogtrue |  
+| bip_39_word_no_space_4 | wifehedgehogtrueridge |  
+| bip_39_word_no_space_5 | wifehedgehogtrueridgeviable |  
+| bip_39_word_no_space_6 | wifehedgehogtrueridgeviablefragile |  
+| bip_39_word_no_space_7 | wifehedgehogtrueridgeviablefragileperson |  
+| bip_39_word_no_space_8 | wifehedgehogtrueridgeviablefragilepersonkiss |  
+| bip_39_word_no_space_9 | wifehedgehogtrueridgeviablefragilepersonkissdelay |  
 | bip_39_word_space_0 | ['wife', 'hedgehog', 'true', 'ridge', 'viable', 'fragile', 'person', 'kiss', 'delay', 'cover', 'hockey', 'appear'] |  
 | bip_39_word_space_1 | wife |  
 | bip_39_word_space_10 | wife hedgehog true ridge viable fragile person kiss delay cover |  

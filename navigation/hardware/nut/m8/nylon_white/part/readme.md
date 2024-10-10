@@ -122,6 +122,18 @@ volcano
 mango
 end
 stadium |  
+| bip_39_word_no_space_1 | early |  
+| bip_39_word_no_space_10 | earlyflipsoapcapablerevealvolcanomangoendstadiumtopple |  
+| bip_39_word_no_space_11 | earlyflipsoapcapablerevealvolcanomangoendstadiumtoppleostrich |  
+| bip_39_word_no_space_12 | earlyflipsoapcapablerevealvolcanomangoendstadiumtoppleostrichactress |  
+| bip_39_word_no_space_2 | earlyflip |  
+| bip_39_word_no_space_3 | earlyflipsoap |  
+| bip_39_word_no_space_4 | earlyflipsoapcapable |  
+| bip_39_word_no_space_5 | earlyflipsoapcapablereveal |  
+| bip_39_word_no_space_6 | earlyflipsoapcapablerevealvolcano |  
+| bip_39_word_no_space_7 | earlyflipsoapcapablerevealvolcanomango |  
+| bip_39_word_no_space_8 | earlyflipsoapcapablerevealvolcanomangoend |  
+| bip_39_word_no_space_9 | earlyflipsoapcapablerevealvolcanomangoendstadium |  
 | bip_39_word_space_0 | ['early', 'flip', 'soap', 'capable', 'reveal', 'volcano', 'mango', 'end', 'stadium', 'topple', 'ostrich', 'actress'] |  
 | bip_39_word_space_1 | early |  
 | bip_39_word_space_10 | early flip soap capable reveal volcano mango end stadium topple |  

@@ -122,6 +122,18 @@ split
 cannon
 retreat
 equal |  
+| bip_39_word_no_space_1 | math |  
+| bip_39_word_no_space_10 | mathspellpoolseekluxurysplitcannonretreatequalbrain |  
+| bip_39_word_no_space_11 | mathspellpoolseekluxurysplitcannonretreatequalbrainmother |  
+| bip_39_word_no_space_12 | mathspellpoolseekluxurysplitcannonretreatequalbrainmotheracquire |  
+| bip_39_word_no_space_2 | mathspell |  
+| bip_39_word_no_space_3 | mathspellpool |  
+| bip_39_word_no_space_4 | mathspellpoolseek |  
+| bip_39_word_no_space_5 | mathspellpoolseekluxury |  
+| bip_39_word_no_space_6 | mathspellpoolseekluxurysplit |  
+| bip_39_word_no_space_7 | mathspellpoolseekluxurysplitcannon |  
+| bip_39_word_no_space_8 | mathspellpoolseekluxurysplitcannonretreat |  
+| bip_39_word_no_space_9 | mathspellpoolseekluxurysplitcannonretreatequal |  
 | bip_39_word_space_0 | ['math', 'spell', 'pool', 'seek', 'luxury', 'split', 'cannon', 'retreat', 'equal', 'brain', 'mother', 'acquire'] |  
 | bip_39_word_space_1 | math |  
 | bip_39_word_space_10 | math spell pool seek luxury split cannon retreat equal brain |  

@@ -122,6 +122,18 @@ elite
 mask
 poverty
 clown |  
+| bip_39_word_no_space_1 | attract |  
+| bip_39_word_no_space_10 | attractevilhovercouplesolarelitemaskpovertyclownsyrup |  
+| bip_39_word_no_space_11 | attractevilhovercouplesolarelitemaskpovertyclownsyrupcoast |  
+| bip_39_word_no_space_12 | attractevilhovercouplesolarelitemaskpovertyclownsyrupcoastaddict |  
+| bip_39_word_no_space_2 | attractevil |  
+| bip_39_word_no_space_3 | attractevilhover |  
+| bip_39_word_no_space_4 | attractevilhovercouple |  
+| bip_39_word_no_space_5 | attractevilhovercouplesolar |  
+| bip_39_word_no_space_6 | attractevilhovercouplesolarelite |  
+| bip_39_word_no_space_7 | attractevilhovercouplesolarelitemask |  
+| bip_39_word_no_space_8 | attractevilhovercouplesolarelitemaskpoverty |  
+| bip_39_word_no_space_9 | attractevilhovercouplesolarelitemaskpovertyclown |  
 | bip_39_word_space_0 | ['attract', 'evil', 'hover', 'couple', 'solar', 'elite', 'mask', 'poverty', 'clown', 'syrup', 'coast', 'addict'] |  
 | bip_39_word_space_1 | attract |  
 | bip_39_word_space_10 | attract evil hover couple solar elite mask poverty clown syrup |  

@@ -122,6 +122,18 @@ still
 retire
 claw
 news |  
+| bip_39_word_no_space_1 | jazz |  
+| bip_39_word_no_space_10 | jazzreplacedefenseunveilantennastillretireclawnewsalert |  
+| bip_39_word_no_space_11 | jazzreplacedefenseunveilantennastillretireclawnewsalerttomato |  
+| bip_39_word_no_space_12 | jazzreplacedefenseunveilantennastillretireclawnewsalerttomatoartwork |  
+| bip_39_word_no_space_2 | jazzreplace |  
+| bip_39_word_no_space_3 | jazzreplacedefense |  
+| bip_39_word_no_space_4 | jazzreplacedefenseunveil |  
+| bip_39_word_no_space_5 | jazzreplacedefenseunveilantenna |  
+| bip_39_word_no_space_6 | jazzreplacedefenseunveilantennastill |  
+| bip_39_word_no_space_7 | jazzreplacedefenseunveilantennastillretire |  
+| bip_39_word_no_space_8 | jazzreplacedefenseunveilantennastillretireclaw |  
+| bip_39_word_no_space_9 | jazzreplacedefenseunveilantennastillretireclawnews |  
 | bip_39_word_space_0 | ['jazz', 'replace', 'defense', 'unveil', 'antenna', 'still', 'retire', 'claw', 'news', 'alert', 'tomato', 'artwork'] |  
 | bip_39_word_space_1 | jazz |  
 | bip_39_word_space_10 | jazz replace defense unveil antenna still retire claw news alert |  

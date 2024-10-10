@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'exhibit
   exile
 
   fade'
+bip_39_word_no_space_1: exhibit
+bip_39_word_no_space_10: exhibitfatalfadeconfirmmelodyfilmtossexilefadehat
+bip_39_word_no_space_11: exhibitfatalfadeconfirmmelodyfilmtossexilefadehatsunset
+bip_39_word_no_space_12: exhibitfatalfadeconfirmmelodyfilmtossexilefadehatsunsetask
+bip_39_word_no_space_2: exhibitfatal
+bip_39_word_no_space_3: exhibitfatalfade
+bip_39_word_no_space_4: exhibitfatalfadeconfirm
+bip_39_word_no_space_5: exhibitfatalfadeconfirmmelody
+bip_39_word_no_space_6: exhibitfatalfadeconfirmmelodyfilm
+bip_39_word_no_space_7: exhibitfatalfadeconfirmmelodyfilmtoss
+bip_39_word_no_space_8: exhibitfatalfadeconfirmmelodyfilmtossexile
+bip_39_word_no_space_9: exhibitfatalfadeconfirmmelodyfilmtossexilefade
 bip_39_word_space_0:
 - exhibit
 - fatal

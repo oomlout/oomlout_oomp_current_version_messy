@@ -122,6 +122,18 @@ chef
 vault
 animal
 upset |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelymotiontrialbladehawkchefvaultanimalupsetaround |  
+| bip_39_word_no_space_11 | lonelymotiontrialbladehawkchefvaultanimalupsetaroundinquiry |  
+| bip_39_word_no_space_12 | lonelymotiontrialbladehawkchefvaultanimalupsetaroundinquiryaccount |  
+| bip_39_word_no_space_2 | lonelymotion |  
+| bip_39_word_no_space_3 | lonelymotiontrial |  
+| bip_39_word_no_space_4 | lonelymotiontrialblade |  
+| bip_39_word_no_space_5 | lonelymotiontrialbladehawk |  
+| bip_39_word_no_space_6 | lonelymotiontrialbladehawkchef |  
+| bip_39_word_no_space_7 | lonelymotiontrialbladehawkchefvault |  
+| bip_39_word_no_space_8 | lonelymotiontrialbladehawkchefvaultanimal |  
+| bip_39_word_no_space_9 | lonelymotiontrialbladehawkchefvaultanimalupset |  
 | bip_39_word_space_0 | ['lonely', 'motion', 'trial', 'blade', 'hawk', 'chef', 'vault', 'animal', 'upset', 'around', 'inquiry', 'account'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely motion trial blade hawk chef vault animal upset around |  

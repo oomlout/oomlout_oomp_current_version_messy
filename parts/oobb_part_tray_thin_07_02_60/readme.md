@@ -122,6 +122,18 @@ debate
 frozen
 then
 segment |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemyavocadopreferwherewolfdebatefrozenthensegmentbench |  
+| bip_39_word_no_space_11 | enemyavocadopreferwherewolfdebatefrozenthensegmentbenchover |  
+| bip_39_word_no_space_12 | enemyavocadopreferwherewolfdebatefrozenthensegmentbenchoveraddict |  
+| bip_39_word_no_space_2 | enemyavocado |  
+| bip_39_word_no_space_3 | enemyavocadoprefer |  
+| bip_39_word_no_space_4 | enemyavocadopreferwhere |  
+| bip_39_word_no_space_5 | enemyavocadopreferwherewolf |  
+| bip_39_word_no_space_6 | enemyavocadopreferwherewolfdebate |  
+| bip_39_word_no_space_7 | enemyavocadopreferwherewolfdebatefrozen |  
+| bip_39_word_no_space_8 | enemyavocadopreferwherewolfdebatefrozenthen |  
+| bip_39_word_no_space_9 | enemyavocadopreferwherewolfdebatefrozenthensegment |  
 | bip_39_word_space_0 | ['enemy', 'avocado', 'prefer', 'where', 'wolf', 'debate', 'frozen', 'then', 'segment', 'bench', 'over', 'addict'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy avocado prefer where wolf debate frozen then segment bench |  

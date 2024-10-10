@@ -122,6 +122,18 @@ obey
 lunch
 much
 noodle |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshkingdomscarevoidinheritobeylunchmuchnoodleready |  
+| bip_39_word_no_space_11 | freshkingdomscarevoidinheritobeylunchmuchnoodlereadyordinary |  
+| bip_39_word_no_space_12 | freshkingdomscarevoidinheritobeylunchmuchnoodlereadyordinaryaffair |  
+| bip_39_word_no_space_2 | freshkingdom |  
+| bip_39_word_no_space_3 | freshkingdomscare |  
+| bip_39_word_no_space_4 | freshkingdomscarevoid |  
+| bip_39_word_no_space_5 | freshkingdomscarevoidinherit |  
+| bip_39_word_no_space_6 | freshkingdomscarevoidinheritobey |  
+| bip_39_word_no_space_7 | freshkingdomscarevoidinheritobeylunch |  
+| bip_39_word_no_space_8 | freshkingdomscarevoidinheritobeylunchmuch |  
+| bip_39_word_no_space_9 | freshkingdomscarevoidinheritobeylunchmuchnoodle |  
 | bip_39_word_space_0 | ['fresh', 'kingdom', 'scare', 'void', 'inherit', 'obey', 'lunch', 'much', 'noodle', 'ready', 'ordinary', 'affair'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh kingdom scare void inherit obey lunch much noodle ready |  

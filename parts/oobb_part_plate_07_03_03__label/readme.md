@@ -122,6 +122,18 @@ gift
 amount
 coach
 attack |  
+| bip_39_word_no_space_1 | target |  
+| bip_39_word_no_space_10 | targetkitchenathletemagicwindowgiftamountcoachattackwindow |  
+| bip_39_word_no_space_11 | targetkitchenathletemagicwindowgiftamountcoachattackwindowstock |  
+| bip_39_word_no_space_12 | targetkitchenathletemagicwindowgiftamountcoachattackwindowstockarctic |  
+| bip_39_word_no_space_2 | targetkitchen |  
+| bip_39_word_no_space_3 | targetkitchenathlete |  
+| bip_39_word_no_space_4 | targetkitchenathletemagic |  
+| bip_39_word_no_space_5 | targetkitchenathletemagicwindow |  
+| bip_39_word_no_space_6 | targetkitchenathletemagicwindowgift |  
+| bip_39_word_no_space_7 | targetkitchenathletemagicwindowgiftamount |  
+| bip_39_word_no_space_8 | targetkitchenathletemagicwindowgiftamountcoach |  
+| bip_39_word_no_space_9 | targetkitchenathletemagicwindowgiftamountcoachattack |  
 | bip_39_word_space_0 | ['target', 'kitchen', 'athlete', 'magic', 'window', 'gift', 'amount', 'coach', 'attack', 'window', 'stock', 'arctic'] |  
 | bip_39_word_space_1 | target |  
 | bip_39_word_space_10 | target kitchen athlete magic window gift amount coach attack window |  

@@ -122,6 +122,18 @@ street
 double
 extra
 bounce |  
+| bip_39_word_no_space_1 | hotel |  
+| bip_39_word_no_space_10 | hotelsmoothkiwipianoridestreetdoubleextrabounceaccount |  
+| bip_39_word_no_space_11 | hotelsmoothkiwipianoridestreetdoubleextrabounceaccountmonitor |  
+| bip_39_word_no_space_12 | hotelsmoothkiwipianoridestreetdoubleextrabounceaccountmonitorairport |  
+| bip_39_word_no_space_2 | hotelsmooth |  
+| bip_39_word_no_space_3 | hotelsmoothkiwi |  
+| bip_39_word_no_space_4 | hotelsmoothkiwipiano |  
+| bip_39_word_no_space_5 | hotelsmoothkiwipianoride |  
+| bip_39_word_no_space_6 | hotelsmoothkiwipianoridestreet |  
+| bip_39_word_no_space_7 | hotelsmoothkiwipianoridestreetdouble |  
+| bip_39_word_no_space_8 | hotelsmoothkiwipianoridestreetdoubleextra |  
+| bip_39_word_no_space_9 | hotelsmoothkiwipianoridestreetdoubleextrabounce |  
 | bip_39_word_space_0 | ['hotel', 'smooth', 'kiwi', 'piano', 'ride', 'street', 'double', 'extra', 'bounce', 'account', 'monitor', 'airport'] |  
 | bip_39_word_space_1 | hotel |  
 | bip_39_word_space_10 | hotel smooth kiwi piano ride street double extra bounce account |  

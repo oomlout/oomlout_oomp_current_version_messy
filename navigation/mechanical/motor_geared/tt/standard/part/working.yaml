@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'border
   near
 
   wasp'
+bip_39_word_no_space_1: border
+bip_39_word_no_space_10: bordersuchclouddoctorbenchvintageclerknearwaspliar
+bip_39_word_no_space_11: bordersuchclouddoctorbenchvintageclerknearwaspliarswear
+bip_39_word_no_space_12: bordersuchclouddoctorbenchvintageclerknearwaspliarswearamong
+bip_39_word_no_space_2: bordersuch
+bip_39_word_no_space_3: bordersuchcloud
+bip_39_word_no_space_4: bordersuchclouddoctor
+bip_39_word_no_space_5: bordersuchclouddoctorbench
+bip_39_word_no_space_6: bordersuchclouddoctorbenchvintage
+bip_39_word_no_space_7: bordersuchclouddoctorbenchvintageclerk
+bip_39_word_no_space_8: bordersuchclouddoctorbenchvintageclerknear
+bip_39_word_no_space_9: bordersuchclouddoctorbenchvintageclerknearwasp
 bip_39_word_space_0:
 - border
 - such

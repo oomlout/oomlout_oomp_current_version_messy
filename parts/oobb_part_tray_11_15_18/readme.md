@@ -122,6 +122,18 @@ coin
 circle
 frog
 crowd |  
+| bip_39_word_no_space_1 | predict |  
+| bip_39_word_no_space_10 | predicteasilyexchangesoftreunioncoincirclefrogcrowdseek |  
+| bip_39_word_no_space_11 | predicteasilyexchangesoftreunioncoincirclefrogcrowdseekprovide |  
+| bip_39_word_no_space_12 | predicteasilyexchangesoftreunioncoincirclefrogcrowdseekprovidearmor |  
+| bip_39_word_no_space_2 | predicteasily |  
+| bip_39_word_no_space_3 | predicteasilyexchange |  
+| bip_39_word_no_space_4 | predicteasilyexchangesoft |  
+| bip_39_word_no_space_5 | predicteasilyexchangesoftreunion |  
+| bip_39_word_no_space_6 | predicteasilyexchangesoftreunioncoin |  
+| bip_39_word_no_space_7 | predicteasilyexchangesoftreunioncoincircle |  
+| bip_39_word_no_space_8 | predicteasilyexchangesoftreunioncoincirclefrog |  
+| bip_39_word_no_space_9 | predicteasilyexchangesoftreunioncoincirclefrogcrowd |  
 | bip_39_word_space_0 | ['predict', 'easily', 'exchange', 'soft', 'reunion', 'coin', 'circle', 'frog', 'crowd', 'seek', 'provide', 'armor'] |  
 | bip_39_word_space_1 | predict |  
 | bip_39_word_space_10 | predict easily exchange soft reunion coin circle frog crowd seek |  

@@ -122,6 +122,18 @@ suit
 slab
 injury
 one |  
+| bip_39_word_no_space_1 | bone |  
+| bip_39_word_no_space_10 | bonegrapeblessfataltipsuitslabinjuryonecaught |  
+| bip_39_word_no_space_11 | bonegrapeblessfataltipsuitslabinjuryonecaughtname |  
+| bip_39_word_no_space_12 | bonegrapeblessfataltipsuitslabinjuryonecaughtnameapple |  
+| bip_39_word_no_space_2 | bonegrape |  
+| bip_39_word_no_space_3 | bonegrapebless |  
+| bip_39_word_no_space_4 | bonegrapeblessfatal |  
+| bip_39_word_no_space_5 | bonegrapeblessfataltip |  
+| bip_39_word_no_space_6 | bonegrapeblessfataltipsuit |  
+| bip_39_word_no_space_7 | bonegrapeblessfataltipsuitslab |  
+| bip_39_word_no_space_8 | bonegrapeblessfataltipsuitslabinjury |  
+| bip_39_word_no_space_9 | bonegrapeblessfataltipsuitslabinjuryone |  
 | bip_39_word_space_0 | ['bone', 'grape', 'bless', 'fatal', 'tip', 'suit', 'slab', 'injury', 'one', 'caught', 'name', 'apple'] |  
 | bip_39_word_space_1 | bone |  
 | bip_39_word_space_10 | bone grape bless fatal tip suit slab injury one caught |  

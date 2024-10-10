@@ -122,6 +122,18 @@ youth
 used
 purpose
 empower |  
+| bip_39_word_no_space_1 | outside |  
+| bip_39_word_no_space_10 | outsidenastydonordrinkmajoryouthusedpurposeempowerplay |  
+| bip_39_word_no_space_11 | outsidenastydonordrinkmajoryouthusedpurposeempowerplayplay |  
+| bip_39_word_no_space_12 | outsidenastydonordrinkmajoryouthusedpurposeempowerplayplayalbum |  
+| bip_39_word_no_space_2 | outsidenasty |  
+| bip_39_word_no_space_3 | outsidenastydonor |  
+| bip_39_word_no_space_4 | outsidenastydonordrink |  
+| bip_39_word_no_space_5 | outsidenastydonordrinkmajor |  
+| bip_39_word_no_space_6 | outsidenastydonordrinkmajoryouth |  
+| bip_39_word_no_space_7 | outsidenastydonordrinkmajoryouthused |  
+| bip_39_word_no_space_8 | outsidenastydonordrinkmajoryouthusedpurpose |  
+| bip_39_word_no_space_9 | outsidenastydonordrinkmajoryouthusedpurposeempower |  
 | bip_39_word_space_0 | ['outside', 'nasty', 'donor', 'drink', 'major', 'youth', 'used', 'purpose', 'empower', 'play', 'play', 'album'] |  
 | bip_39_word_space_1 | outside |  
 | bip_39_word_space_10 | outside nasty donor drink major youth used purpose empower play |  

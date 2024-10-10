@@ -122,6 +122,18 @@ start
 nest
 slide
 bike |  
+| bip_39_word_no_space_1 | unusual |  
+| bip_39_word_no_space_10 | unusualenvelopeirondashheightstartnestslidebikecarbon |  
+| bip_39_word_no_space_11 | unusualenvelopeirondashheightstartnestslidebikecarbonwrap |  
+| bip_39_word_no_space_12 | unusualenvelopeirondashheightstartnestslidebikecarbonwrapaccess |  
+| bip_39_word_no_space_2 | unusualenvelope |  
+| bip_39_word_no_space_3 | unusualenvelopeiron |  
+| bip_39_word_no_space_4 | unusualenvelopeirondash |  
+| bip_39_word_no_space_5 | unusualenvelopeirondashheight |  
+| bip_39_word_no_space_6 | unusualenvelopeirondashheightstart |  
+| bip_39_word_no_space_7 | unusualenvelopeirondashheightstartnest |  
+| bip_39_word_no_space_8 | unusualenvelopeirondashheightstartnestslide |  
+| bip_39_word_no_space_9 | unusualenvelopeirondashheightstartnestslidebike |  
 | bip_39_word_space_0 | ['unusual', 'envelope', 'iron', 'dash', 'height', 'start', 'nest', 'slide', 'bike', 'carbon', 'wrap', 'access'] |  
 | bip_39_word_space_1 | unusual |  
 | bip_39_word_space_10 | unusual envelope iron dash height start nest slide bike carbon |  

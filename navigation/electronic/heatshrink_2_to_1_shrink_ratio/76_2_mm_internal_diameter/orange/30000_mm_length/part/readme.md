@@ -122,6 +122,18 @@ brush
 enlist
 hen
 grid |  
+| bip_39_word_no_space_1 | scorpion |  
+| bip_39_word_no_space_10 | scorpioninmatecoffeemangoghostbrushenlisthengriduniform |  
+| bip_39_word_no_space_11 | scorpioninmatecoffeemangoghostbrushenlisthengriduniformaerobic |  
+| bip_39_word_no_space_12 | scorpioninmatecoffeemangoghostbrushenlisthengriduniformaerobicaunt |  
+| bip_39_word_no_space_2 | scorpioninmate |  
+| bip_39_word_no_space_3 | scorpioninmatecoffee |  
+| bip_39_word_no_space_4 | scorpioninmatecoffeemango |  
+| bip_39_word_no_space_5 | scorpioninmatecoffeemangoghost |  
+| bip_39_word_no_space_6 | scorpioninmatecoffeemangoghostbrush |  
+| bip_39_word_no_space_7 | scorpioninmatecoffeemangoghostbrushenlist |  
+| bip_39_word_no_space_8 | scorpioninmatecoffeemangoghostbrushenlisthen |  
+| bip_39_word_no_space_9 | scorpioninmatecoffeemangoghostbrushenlisthengrid |  
 | bip_39_word_space_0 | ['scorpion', 'inmate', 'coffee', 'mango', 'ghost', 'brush', 'enlist', 'hen', 'grid', 'uniform', 'aerobic', 'aunt'] |  
 | bip_39_word_space_1 | scorpion |  
 | bip_39_word_space_10 | scorpion inmate coffee mango ghost brush enlist hen grid uniform |  

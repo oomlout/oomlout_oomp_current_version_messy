@@ -122,6 +122,18 @@ end
 slogan
 sudden
 slot |  
+| bip_39_word_no_space_1 | tip |  
+| bip_39_word_no_space_10 | tipsectionoystergrassleftendslogansuddenslotslush |  
+| bip_39_word_no_space_11 | tipsectionoystergrassleftendslogansuddenslotslushgarage |  
+| bip_39_word_no_space_12 | tipsectionoystergrassleftendslogansuddenslotslushgarageamazing |  
+| bip_39_word_no_space_2 | tipsection |  
+| bip_39_word_no_space_3 | tipsectionoyster |  
+| bip_39_word_no_space_4 | tipsectionoystergrass |  
+| bip_39_word_no_space_5 | tipsectionoystergrassleft |  
+| bip_39_word_no_space_6 | tipsectionoystergrassleftend |  
+| bip_39_word_no_space_7 | tipsectionoystergrassleftendslogan |  
+| bip_39_word_no_space_8 | tipsectionoystergrassleftendslogansudden |  
+| bip_39_word_no_space_9 | tipsectionoystergrassleftendslogansuddenslot |  
 | bip_39_word_space_0 | ['tip', 'section', 'oyster', 'grass', 'left', 'end', 'slogan', 'sudden', 'slot', 'slush', 'garage', 'amazing'] |  
 | bip_39_word_space_1 | tip |  
 | bip_39_word_space_10 | tip section oyster grass left end slogan sudden slot slush |  

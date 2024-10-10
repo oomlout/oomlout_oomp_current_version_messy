@@ -124,6 +124,18 @@ pulse
 brisk
 end
 wing |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detectpianobelowlayerstartpulsebriskendwingpipe |  
+| bip_39_word_no_space_11 | detectpianobelowlayerstartpulsebriskendwingpipeupset |  
+| bip_39_word_no_space_12 | detectpianobelowlayerstartpulsebriskendwingpipeupsetaspect |  
+| bip_39_word_no_space_2 | detectpiano |  
+| bip_39_word_no_space_3 | detectpianobelow |  
+| bip_39_word_no_space_4 | detectpianobelowlayer |  
+| bip_39_word_no_space_5 | detectpianobelowlayerstart |  
+| bip_39_word_no_space_6 | detectpianobelowlayerstartpulse |  
+| bip_39_word_no_space_7 | detectpianobelowlayerstartpulsebrisk |  
+| bip_39_word_no_space_8 | detectpianobelowlayerstartpulsebriskend |  
+| bip_39_word_no_space_9 | detectpianobelowlayerstartpulsebriskendwing |  
 | bip_39_word_space_0 | ['detect', 'piano', 'below', 'layer', 'start', 'pulse', 'brisk', 'end', 'wing', 'pipe', 'upset', 'aspect'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect piano below layer start pulse brisk end wing pipe |  

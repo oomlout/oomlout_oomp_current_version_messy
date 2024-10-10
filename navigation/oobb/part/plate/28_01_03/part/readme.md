@@ -122,6 +122,18 @@ glimpse
 control
 first
 media |  
+| bip_39_word_no_space_1 | empower |  
+| bip_39_word_no_space_10 | empoweractioncryfashionstadiumglimpsecontrolfirstmediarifle |  
+| bip_39_word_no_space_11 | empoweractioncryfashionstadiumglimpsecontrolfirstmediarifleindoor |  
+| bip_39_word_no_space_12 | empoweractioncryfashionstadiumglimpsecontrolfirstmediarifleindooract |  
+| bip_39_word_no_space_2 | empoweraction |  
+| bip_39_word_no_space_3 | empoweractioncry |  
+| bip_39_word_no_space_4 | empoweractioncryfashion |  
+| bip_39_word_no_space_5 | empoweractioncryfashionstadium |  
+| bip_39_word_no_space_6 | empoweractioncryfashionstadiumglimpse |  
+| bip_39_word_no_space_7 | empoweractioncryfashionstadiumglimpsecontrol |  
+| bip_39_word_no_space_8 | empoweractioncryfashionstadiumglimpsecontrolfirst |  
+| bip_39_word_no_space_9 | empoweractioncryfashionstadiumglimpsecontrolfirstmedia |  
 | bip_39_word_space_0 | ['empower', 'action', 'cry', 'fashion', 'stadium', 'glimpse', 'control', 'first', 'media', 'rifle', 'indoor', 'act'] |  
 | bip_39_word_space_1 | empower |  
 | bip_39_word_space_10 | empower action cry fashion stadium glimpse control first media rifle |  

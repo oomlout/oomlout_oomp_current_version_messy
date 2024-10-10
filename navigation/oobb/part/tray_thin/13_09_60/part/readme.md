@@ -122,6 +122,18 @@ oil
 crack
 pact
 stage |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wrongperfectjungleclickscissorsoilcrackpactstagecase |  
+| bip_39_word_no_space_11 | wrongperfectjungleclickscissorsoilcrackpactstagecasesibling |  
+| bip_39_word_no_space_12 | wrongperfectjungleclickscissorsoilcrackpactstagecasesiblingalcohol |  
+| bip_39_word_no_space_2 | wrongperfect |  
+| bip_39_word_no_space_3 | wrongperfectjungle |  
+| bip_39_word_no_space_4 | wrongperfectjungleclick |  
+| bip_39_word_no_space_5 | wrongperfectjungleclickscissors |  
+| bip_39_word_no_space_6 | wrongperfectjungleclickscissorsoil |  
+| bip_39_word_no_space_7 | wrongperfectjungleclickscissorsoilcrack |  
+| bip_39_word_no_space_8 | wrongperfectjungleclickscissorsoilcrackpact |  
+| bip_39_word_no_space_9 | wrongperfectjungleclickscissorsoilcrackpactstage |  
 | bip_39_word_space_0 | ['wrong', 'perfect', 'jungle', 'click', 'scissors', 'oil', 'crack', 'pact', 'stage', 'case', 'sibling', 'alcohol'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong perfect jungle click scissors oil crack pact stage case |  

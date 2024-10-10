@@ -122,6 +122,18 @@ cart
 unveil
 among
 gentle |  
+| bip_39_word_no_space_1 | world |  
+| bip_39_word_no_space_10 | worldlunaralcoholdiagramforkcartunveilamonggentlemagic |  
+| bip_39_word_no_space_11 | worldlunaralcoholdiagramforkcartunveilamonggentlemagicsunny |  
+| bip_39_word_no_space_12 | worldlunaralcoholdiagramforkcartunveilamonggentlemagicsunnyabsurd |  
+| bip_39_word_no_space_2 | worldlunar |  
+| bip_39_word_no_space_3 | worldlunaralcohol |  
+| bip_39_word_no_space_4 | worldlunaralcoholdiagram |  
+| bip_39_word_no_space_5 | worldlunaralcoholdiagramfork |  
+| bip_39_word_no_space_6 | worldlunaralcoholdiagramforkcart |  
+| bip_39_word_no_space_7 | worldlunaralcoholdiagramforkcartunveil |  
+| bip_39_word_no_space_8 | worldlunaralcoholdiagramforkcartunveilamong |  
+| bip_39_word_no_space_9 | worldlunaralcoholdiagramforkcartunveilamonggentle |  
 | bip_39_word_space_0 | ['world', 'lunar', 'alcohol', 'diagram', 'fork', 'cart', 'unveil', 'among', 'gentle', 'magic', 'sunny', 'absurd'] |  
 | bip_39_word_space_1 | world |  
 | bip_39_word_space_10 | world lunar alcohol diagram fork cart unveil among gentle magic |  

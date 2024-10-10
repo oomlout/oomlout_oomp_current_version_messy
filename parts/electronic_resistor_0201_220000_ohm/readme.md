@@ -122,6 +122,18 @@ nice
 liquid
 engine
 cliff |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguaradvicemotherusualluxuryniceliquidenginecliffsalmon |  
+| bip_39_word_no_space_11 | jaguaradvicemotherusualluxuryniceliquidenginecliffsalmonnotice |  
+| bip_39_word_no_space_12 | jaguaradvicemotherusualluxuryniceliquidenginecliffsalmonnoticeadvice |  
+| bip_39_word_no_space_2 | jaguaradvice |  
+| bip_39_word_no_space_3 | jaguaradvicemother |  
+| bip_39_word_no_space_4 | jaguaradvicemotherusual |  
+| bip_39_word_no_space_5 | jaguaradvicemotherusualluxury |  
+| bip_39_word_no_space_6 | jaguaradvicemotherusualluxurynice |  
+| bip_39_word_no_space_7 | jaguaradvicemotherusualluxuryniceliquid |  
+| bip_39_word_no_space_8 | jaguaradvicemotherusualluxuryniceliquidengine |  
+| bip_39_word_no_space_9 | jaguaradvicemotherusualluxuryniceliquidenginecliff |  
 | bip_39_word_space_0 | ['jaguar', 'advice', 'mother', 'usual', 'luxury', 'nice', 'liquid', 'engine', 'cliff', 'salmon', 'notice', 'advice'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar advice mother usual luxury nice liquid engine cliff salmon |  

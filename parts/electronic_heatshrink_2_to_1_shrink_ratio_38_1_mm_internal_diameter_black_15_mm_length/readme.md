@@ -122,6 +122,18 @@ couch
 exhibit
 museum
 steak |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | samplefaithsingchilddisplaycouchexhibitmuseumsteakstumble |  
+| bip_39_word_no_space_11 | samplefaithsingchilddisplaycouchexhibitmuseumsteakstumblesimple |  
+| bip_39_word_no_space_12 | samplefaithsingchilddisplaycouchexhibitmuseumsteakstumblesimpleaudit |  
+| bip_39_word_no_space_2 | samplefaith |  
+| bip_39_word_no_space_3 | samplefaithsing |  
+| bip_39_word_no_space_4 | samplefaithsingchild |  
+| bip_39_word_no_space_5 | samplefaithsingchilddisplay |  
+| bip_39_word_no_space_6 | samplefaithsingchilddisplaycouch |  
+| bip_39_word_no_space_7 | samplefaithsingchilddisplaycouchexhibit |  
+| bip_39_word_no_space_8 | samplefaithsingchilddisplaycouchexhibitmuseum |  
+| bip_39_word_no_space_9 | samplefaithsingchilddisplaycouchexhibitmuseumsteak |  
 | bip_39_word_space_0 | ['sample', 'faith', 'sing', 'child', 'display', 'couch', 'exhibit', 'museum', 'steak', 'stumble', 'simple', 'audit'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample faith sing child display couch exhibit museum steak stumble |  

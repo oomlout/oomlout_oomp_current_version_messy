@@ -122,6 +122,18 @@ calm
 powder
 recipe
 bracket |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidshinespiderintactnevercalmpowderrecipebracketduring |  
+| bip_39_word_no_space_11 | afraidshinespiderintactnevercalmpowderrecipebracketduringmarine |  
+| bip_39_word_no_space_12 | afraidshinespiderintactnevercalmpowderrecipebracketduringmarineanchor |  
+| bip_39_word_no_space_2 | afraidshine |  
+| bip_39_word_no_space_3 | afraidshinespider |  
+| bip_39_word_no_space_4 | afraidshinespiderintact |  
+| bip_39_word_no_space_5 | afraidshinespiderintactnever |  
+| bip_39_word_no_space_6 | afraidshinespiderintactnevercalm |  
+| bip_39_word_no_space_7 | afraidshinespiderintactnevercalmpowder |  
+| bip_39_word_no_space_8 | afraidshinespiderintactnevercalmpowderrecipe |  
+| bip_39_word_no_space_9 | afraidshinespiderintactnevercalmpowderrecipebracket |  
 | bip_39_word_space_0 | ['afraid', 'shine', 'spider', 'intact', 'never', 'calm', 'powder', 'recipe', 'bracket', 'during', 'marine', 'anchor'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid shine spider intact never calm powder recipe bracket during |  

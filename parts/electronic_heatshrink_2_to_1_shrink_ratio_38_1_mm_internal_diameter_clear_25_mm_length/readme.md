@@ -122,6 +122,18 @@ leopard
 bridge
 prepare
 together |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlinevintagefictionchestsupremeleopardbridgepreparetogetheressence |  
+| bip_39_word_no_space_11 | onlinevintagefictionchestsupremeleopardbridgepreparetogetheressenceinjury |  
+| bip_39_word_no_space_12 | onlinevintagefictionchestsupremeleopardbridgepreparetogetheressenceinjuryassume |  
+| bip_39_word_no_space_2 | onlinevintage |  
+| bip_39_word_no_space_3 | onlinevintagefiction |  
+| bip_39_word_no_space_4 | onlinevintagefictionchest |  
+| bip_39_word_no_space_5 | onlinevintagefictionchestsupreme |  
+| bip_39_word_no_space_6 | onlinevintagefictionchestsupremeleopard |  
+| bip_39_word_no_space_7 | onlinevintagefictionchestsupremeleopardbridge |  
+| bip_39_word_no_space_8 | onlinevintagefictionchestsupremeleopardbridgeprepare |  
+| bip_39_word_no_space_9 | onlinevintagefictionchestsupremeleopardbridgepreparetogether |  
 | bip_39_word_space_0 | ['online', 'vintage', 'fiction', 'chest', 'supreme', 'leopard', 'bridge', 'prepare', 'together', 'essence', 'injury', 'assume'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online vintage fiction chest supreme leopard bridge prepare together essence |  

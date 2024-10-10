@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'payment
   slush
 
   swap'
+bip_39_word_no_space_1: payment
+bip_39_word_no_space_10: paymentzonehomebraverecallkindwheelslushswapactual
+bip_39_word_no_space_11: paymentzonehomebraverecallkindwheelslushswapactualcopy
+bip_39_word_no_space_12: paymentzonehomebraverecallkindwheelslushswapactualcopyattract
+bip_39_word_no_space_2: paymentzone
+bip_39_word_no_space_3: paymentzonehome
+bip_39_word_no_space_4: paymentzonehomebrave
+bip_39_word_no_space_5: paymentzonehomebraverecall
+bip_39_word_no_space_6: paymentzonehomebraverecallkind
+bip_39_word_no_space_7: paymentzonehomebraverecallkindwheel
+bip_39_word_no_space_8: paymentzonehomebraverecallkindwheelslush
+bip_39_word_no_space_9: paymentzonehomebraverecallkindwheelslushswap
 bip_39_word_space_0:
 - payment
 - zone

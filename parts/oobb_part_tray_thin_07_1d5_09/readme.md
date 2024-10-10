@@ -122,6 +122,18 @@ connect
 anchor
 minor
 clog |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | missspringshieldcanalsolidconnectanchorminorclogway |  
+| bip_39_word_no_space_11 | missspringshieldcanalsolidconnectanchorminorclogwaysorry |  
+| bip_39_word_no_space_12 | missspringshieldcanalsolidconnectanchorminorclogwaysorryactress |  
+| bip_39_word_no_space_2 | missspring |  
+| bip_39_word_no_space_3 | missspringshield |  
+| bip_39_word_no_space_4 | missspringshieldcanal |  
+| bip_39_word_no_space_5 | missspringshieldcanalsolid |  
+| bip_39_word_no_space_6 | missspringshieldcanalsolidconnect |  
+| bip_39_word_no_space_7 | missspringshieldcanalsolidconnectanchor |  
+| bip_39_word_no_space_8 | missspringshieldcanalsolidconnectanchorminor |  
+| bip_39_word_no_space_9 | missspringshieldcanalsolidconnectanchorminorclog |  
 | bip_39_word_space_0 | ['miss', 'spring', 'shield', 'canal', 'solid', 'connect', 'anchor', 'minor', 'clog', 'way', 'sorry', 'actress'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss spring shield canal solid connect anchor minor clog way |  

@@ -122,6 +122,18 @@ journey
 chuckle
 boy
 panther |  
+| bip_39_word_no_space_1 | summer |  
+| bip_39_word_no_space_10 | summerslogantilttalkamateurjourneychuckleboypanthervoice |  
+| bip_39_word_no_space_11 | summerslogantilttalkamateurjourneychuckleboypanthervoiceodor |  
+| bip_39_word_no_space_12 | summerslogantilttalkamateurjourneychuckleboypanthervoiceodorair |  
+| bip_39_word_no_space_2 | summerslogan |  
+| bip_39_word_no_space_3 | summerslogantilt |  
+| bip_39_word_no_space_4 | summerslogantilttalk |  
+| bip_39_word_no_space_5 | summerslogantilttalkamateur |  
+| bip_39_word_no_space_6 | summerslogantilttalkamateurjourney |  
+| bip_39_word_no_space_7 | summerslogantilttalkamateurjourneychuckle |  
+| bip_39_word_no_space_8 | summerslogantilttalkamateurjourneychuckleboy |  
+| bip_39_word_no_space_9 | summerslogantilttalkamateurjourneychuckleboypanther |  
 | bip_39_word_space_0 | ['summer', 'slogan', 'tilt', 'talk', 'amateur', 'journey', 'chuckle', 'boy', 'panther', 'voice', 'odor', 'air'] |  
 | bip_39_word_space_1 | summer |  
 | bip_39_word_space_10 | summer slogan tilt talk amateur journey chuckle boy panther voice |  

@@ -122,6 +122,18 @@ large
 pill
 ride
 cheap |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenchangeneglectleopardsausagelargepillridecheapthrow |  
+| bip_39_word_no_space_11 | burdenchangeneglectleopardsausagelargepillridecheapthrowimmune |  
+| bip_39_word_no_space_12 | burdenchangeneglectleopardsausagelargepillridecheapthrowimmunearrow |  
+| bip_39_word_no_space_2 | burdenchange |  
+| bip_39_word_no_space_3 | burdenchangeneglect |  
+| bip_39_word_no_space_4 | burdenchangeneglectleopard |  
+| bip_39_word_no_space_5 | burdenchangeneglectleopardsausage |  
+| bip_39_word_no_space_6 | burdenchangeneglectleopardsausagelarge |  
+| bip_39_word_no_space_7 | burdenchangeneglectleopardsausagelargepill |  
+| bip_39_word_no_space_8 | burdenchangeneglectleopardsausagelargepillride |  
+| bip_39_word_no_space_9 | burdenchangeneglectleopardsausagelargepillridecheap |  
 | bip_39_word_space_0 | ['burden', 'change', 'neglect', 'leopard', 'sausage', 'large', 'pill', 'ride', 'cheap', 'throw', 'immune', 'arrow'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden change neglect leopard sausage large pill ride cheap throw |  

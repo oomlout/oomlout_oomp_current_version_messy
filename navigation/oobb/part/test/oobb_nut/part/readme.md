@@ -122,6 +122,18 @@ stairs
 satoshi
 cinnamon
 trade |  
+| bip_39_word_no_space_1 | problem |  
+| bip_39_word_no_space_10 | problemclaytiredalwaysstumblestairssatoshicinnamontradeact |  
+| bip_39_word_no_space_11 | problemclaytiredalwaysstumblestairssatoshicinnamontradeactcry |  
+| bip_39_word_no_space_12 | problemclaytiredalwaysstumblestairssatoshicinnamontradeactcryarena |  
+| bip_39_word_no_space_2 | problemclay |  
+| bip_39_word_no_space_3 | problemclaytired |  
+| bip_39_word_no_space_4 | problemclaytiredalways |  
+| bip_39_word_no_space_5 | problemclaytiredalwaysstumble |  
+| bip_39_word_no_space_6 | problemclaytiredalwaysstumblestairs |  
+| bip_39_word_no_space_7 | problemclaytiredalwaysstumblestairssatoshi |  
+| bip_39_word_no_space_8 | problemclaytiredalwaysstumblestairssatoshicinnamon |  
+| bip_39_word_no_space_9 | problemclaytiredalwaysstumblestairssatoshicinnamontrade |  
 | bip_39_word_space_0 | ['problem', 'clay', 'tired', 'always', 'stumble', 'stairs', 'satoshi', 'cinnamon', 'trade', 'act', 'cry', 'arena'] |  
 | bip_39_word_space_1 | problem |  
 | bip_39_word_space_10 | problem clay tired always stumble stairs satoshi cinnamon trade act |  

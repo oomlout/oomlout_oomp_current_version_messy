@@ -122,6 +122,18 @@ normal
 domain
 foster
 dizzy |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospelrepeatalterstuffcaptainnormaldomainfosterdizzyrecycle |  
+| bip_39_word_no_space_11 | gospelrepeatalterstuffcaptainnormaldomainfosterdizzyrecyclequick |  
+| bip_39_word_no_space_12 | gospelrepeatalterstuffcaptainnormaldomainfosterdizzyrecyclequickalarm |  
+| bip_39_word_no_space_2 | gospelrepeat |  
+| bip_39_word_no_space_3 | gospelrepeatalter |  
+| bip_39_word_no_space_4 | gospelrepeatalterstuff |  
+| bip_39_word_no_space_5 | gospelrepeatalterstuffcaptain |  
+| bip_39_word_no_space_6 | gospelrepeatalterstuffcaptainnormal |  
+| bip_39_word_no_space_7 | gospelrepeatalterstuffcaptainnormaldomain |  
+| bip_39_word_no_space_8 | gospelrepeatalterstuffcaptainnormaldomainfoster |  
+| bip_39_word_no_space_9 | gospelrepeatalterstuffcaptainnormaldomainfosterdizzy |  
 | bip_39_word_space_0 | ['gospel', 'repeat', 'alter', 'stuff', 'captain', 'normal', 'domain', 'foster', 'dizzy', 'recycle', 'quick', 'alarm'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel repeat alter stuff captain normal domain foster dizzy recycle |  

@@ -122,6 +122,18 @@ profit
 panda
 brush
 ring |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decidecargorivalstumbleplayprofitpandabrushringsubmit |  
+| bip_39_word_no_space_11 | decidecargorivalstumbleplayprofitpandabrushringsubmitaerobic |  
+| bip_39_word_no_space_12 | decidecargorivalstumbleplayprofitpandabrushringsubmitaerobicagent |  
+| bip_39_word_no_space_2 | decidecargo |  
+| bip_39_word_no_space_3 | decidecargorival |  
+| bip_39_word_no_space_4 | decidecargorivalstumble |  
+| bip_39_word_no_space_5 | decidecargorivalstumbleplay |  
+| bip_39_word_no_space_6 | decidecargorivalstumbleplayprofit |  
+| bip_39_word_no_space_7 | decidecargorivalstumbleplayprofitpanda |  
+| bip_39_word_no_space_8 | decidecargorivalstumbleplayprofitpandabrush |  
+| bip_39_word_no_space_9 | decidecargorivalstumbleplayprofitpandabrushring |  
 | bip_39_word_space_0 | ['decide', 'cargo', 'rival', 'stumble', 'play', 'profit', 'panda', 'brush', 'ring', 'submit', 'aerobic', 'agent'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide cargo rival stumble play profit panda brush ring submit |  

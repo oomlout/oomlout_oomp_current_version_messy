@@ -122,6 +122,18 @@ night
 rib
 bread
 enforce |  
+| bip_39_word_no_space_1 | verify |  
+| bip_39_word_no_space_10 | verifypiecebusinessbetterblousenightribbreadenforcename |  
+| bip_39_word_no_space_11 | verifypiecebusinessbetterblousenightribbreadenforcenameindex |  
+| bip_39_word_no_space_12 | verifypiecebusinessbetterblousenightribbreadenforcenameindexarrange |  
+| bip_39_word_no_space_2 | verifypiece |  
+| bip_39_word_no_space_3 | verifypiecebusiness |  
+| bip_39_word_no_space_4 | verifypiecebusinessbetter |  
+| bip_39_word_no_space_5 | verifypiecebusinessbetterblouse |  
+| bip_39_word_no_space_6 | verifypiecebusinessbetterblousenight |  
+| bip_39_word_no_space_7 | verifypiecebusinessbetterblousenightrib |  
+| bip_39_word_no_space_8 | verifypiecebusinessbetterblousenightribbread |  
+| bip_39_word_no_space_9 | verifypiecebusinessbetterblousenightribbreadenforce |  
 | bip_39_word_space_0 | ['verify', 'piece', 'business', 'better', 'blouse', 'night', 'rib', 'bread', 'enforce', 'name', 'index', 'arrange'] |  
 | bip_39_word_space_1 | verify |  
 | bip_39_word_space_10 | verify piece business better blouse night rib bread enforce name |  

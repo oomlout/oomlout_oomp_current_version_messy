@@ -122,6 +122,18 @@ debate
 december
 impact
 voyage |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentcheeseshufflefoxdamagedebatedecemberimpactvoyagecrop |  
+| bip_39_word_no_space_11 | rentcheeseshufflefoxdamagedebatedecemberimpactvoyagecropalcohol |  
+| bip_39_word_no_space_12 | rentcheeseshufflefoxdamagedebatedecemberimpactvoyagecropalcoholattack |  
+| bip_39_word_no_space_2 | rentcheese |  
+| bip_39_word_no_space_3 | rentcheeseshuffle |  
+| bip_39_word_no_space_4 | rentcheeseshufflefox |  
+| bip_39_word_no_space_5 | rentcheeseshufflefoxdamage |  
+| bip_39_word_no_space_6 | rentcheeseshufflefoxdamagedebate |  
+| bip_39_word_no_space_7 | rentcheeseshufflefoxdamagedebatedecember |  
+| bip_39_word_no_space_8 | rentcheeseshufflefoxdamagedebatedecemberimpact |  
+| bip_39_word_no_space_9 | rentcheeseshufflefoxdamagedebatedecemberimpactvoyage |  
 | bip_39_word_space_0 | ['rent', 'cheese', 'shuffle', 'fox', 'damage', 'debate', 'december', 'impact', 'voyage', 'crop', 'alcohol', 'attack'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent cheese shuffle fox damage debate december impact voyage crop |  

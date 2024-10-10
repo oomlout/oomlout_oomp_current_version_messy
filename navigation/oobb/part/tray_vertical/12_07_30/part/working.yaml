@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wolf
   helmet
 
   immune'
+bip_39_word_no_space_1: wolf
+bip_39_word_no_space_10: wolfwildwearrangeedgecornprogramhelmetimmunematerial
+bip_39_word_no_space_11: wolfwildwearrangeedgecornprogramhelmetimmunematerialjust
+bip_39_word_no_space_12: wolfwildwearrangeedgecornprogramhelmetimmunematerialjustaccuse
+bip_39_word_no_space_2: wolfwild
+bip_39_word_no_space_3: wolfwildwear
+bip_39_word_no_space_4: wolfwildwearrange
+bip_39_word_no_space_5: wolfwildwearrangeedge
+bip_39_word_no_space_6: wolfwildwearrangeedgecorn
+bip_39_word_no_space_7: wolfwildwearrangeedgecornprogram
+bip_39_word_no_space_8: wolfwildwearrangeedgecornprogramhelmet
+bip_39_word_no_space_9: wolfwildwearrangeedgecornprogramhelmetimmune
 bip_39_word_space_0:
 - wolf
 - wild

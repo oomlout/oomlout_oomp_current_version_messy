@@ -122,6 +122,18 @@ turtle
 involve
 corn
 august |  
+| bip_39_word_no_space_1 | organ |  
+| bip_39_word_no_space_10 | organsongforumbuffalogiveturtleinvolvecornaugustmatrix |  
+| bip_39_word_no_space_11 | organsongforumbuffalogiveturtleinvolvecornaugustmatrixawkward |  
+| bip_39_word_no_space_12 | organsongforumbuffalogiveturtleinvolvecornaugustmatrixawkwardadjust |  
+| bip_39_word_no_space_2 | organsong |  
+| bip_39_word_no_space_3 | organsongforum |  
+| bip_39_word_no_space_4 | organsongforumbuffalo |  
+| bip_39_word_no_space_5 | organsongforumbuffalogive |  
+| bip_39_word_no_space_6 | organsongforumbuffalogiveturtle |  
+| bip_39_word_no_space_7 | organsongforumbuffalogiveturtleinvolve |  
+| bip_39_word_no_space_8 | organsongforumbuffalogiveturtleinvolvecorn |  
+| bip_39_word_no_space_9 | organsongforumbuffalogiveturtleinvolvecornaugust |  
 | bip_39_word_space_0 | ['organ', 'song', 'forum', 'buffalo', 'give', 'turtle', 'involve', 'corn', 'august', 'matrix', 'awkward', 'adjust'] |  
 | bip_39_word_space_1 | organ |  
 | bip_39_word_space_10 | organ song forum buffalo give turtle involve corn august matrix |  

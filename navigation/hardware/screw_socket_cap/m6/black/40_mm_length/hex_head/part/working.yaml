@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wheel
   capital
 
   hotel'
+bip_39_word_no_space_1: wheel
+bip_39_word_no_space_10: wheelspeakdignitymusicsirennowaliencapitalhotelflavor
+bip_39_word_no_space_11: wheelspeakdignitymusicsirennowaliencapitalhotelflavoroval
+bip_39_word_no_space_12: wheelspeakdignitymusicsirennowaliencapitalhotelflavorovalabove
+bip_39_word_no_space_2: wheelspeak
+bip_39_word_no_space_3: wheelspeakdignity
+bip_39_word_no_space_4: wheelspeakdignitymusic
+bip_39_word_no_space_5: wheelspeakdignitymusicsiren
+bip_39_word_no_space_6: wheelspeakdignitymusicsirennow
+bip_39_word_no_space_7: wheelspeakdignitymusicsirennowalien
+bip_39_word_no_space_8: wheelspeakdignitymusicsirennowaliencapital
+bip_39_word_no_space_9: wheelspeakdignitymusicsirennowaliencapitalhotel
 bip_39_word_space_0:
 - wheel
 - speak

@@ -122,6 +122,18 @@ trophy
 flush
 rather
 level |  
+| bip_39_word_no_space_1 | stay |  
+| bip_39_word_no_space_10 | staylanguagemessagegrapefuntrophyflushratherlevelumbrella |  
+| bip_39_word_no_space_11 | staylanguagemessagegrapefuntrophyflushratherlevelumbrellalobster |  
+| bip_39_word_no_space_12 | staylanguagemessagegrapefuntrophyflushratherlevelumbrellalobsterautumn |  
+| bip_39_word_no_space_2 | staylanguage |  
+| bip_39_word_no_space_3 | staylanguagemessage |  
+| bip_39_word_no_space_4 | staylanguagemessagegrape |  
+| bip_39_word_no_space_5 | staylanguagemessagegrapefun |  
+| bip_39_word_no_space_6 | staylanguagemessagegrapefuntrophy |  
+| bip_39_word_no_space_7 | staylanguagemessagegrapefuntrophyflush |  
+| bip_39_word_no_space_8 | staylanguagemessagegrapefuntrophyflushrather |  
+| bip_39_word_no_space_9 | staylanguagemessagegrapefuntrophyflushratherlevel |  
 | bip_39_word_space_0 | ['stay', 'language', 'message', 'grape', 'fun', 'trophy', 'flush', 'rather', 'level', 'umbrella', 'lobster', 'autumn'] |  
 | bip_39_word_space_1 | stay |  
 | bip_39_word_space_10 | stay language message grape fun trophy flush rather level umbrella |  

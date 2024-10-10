@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'atom
   split
 
   gallery'
+bip_39_word_no_space_1: atom
+bip_39_word_no_space_10: atomdismissthreeavocadodicetopplealtersplitgalleryshoot
+bip_39_word_no_space_11: atomdismissthreeavocadodicetopplealtersplitgalleryshootparrot
+bip_39_word_no_space_12: atomdismissthreeavocadodicetopplealtersplitgalleryshootparrotarena
+bip_39_word_no_space_2: atomdismiss
+bip_39_word_no_space_3: atomdismissthree
+bip_39_word_no_space_4: atomdismissthreeavocado
+bip_39_word_no_space_5: atomdismissthreeavocadodice
+bip_39_word_no_space_6: atomdismissthreeavocadodicetopple
+bip_39_word_no_space_7: atomdismissthreeavocadodicetopplealter
+bip_39_word_no_space_8: atomdismissthreeavocadodicetopplealtersplit
+bip_39_word_no_space_9: atomdismissthreeavocadodicetopplealtersplitgallery
 bip_39_word_space_0:
 - atom
 - dismiss

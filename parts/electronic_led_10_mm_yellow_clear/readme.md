@@ -122,6 +122,18 @@ kick
 metal
 snack
 cave |  
+| bip_39_word_no_space_1 | quantum |  
+| bip_39_word_no_space_10 | quantumgiraffebeankitlazykickmetalsnackcavewolf |  
+| bip_39_word_no_space_11 | quantumgiraffebeankitlazykickmetalsnackcavewolfattract |  
+| bip_39_word_no_space_12 | quantumgiraffebeankitlazykickmetalsnackcavewolfattractanxiety |  
+| bip_39_word_no_space_2 | quantumgiraffe |  
+| bip_39_word_no_space_3 | quantumgiraffebean |  
+| bip_39_word_no_space_4 | quantumgiraffebeankit |  
+| bip_39_word_no_space_5 | quantumgiraffebeankitlazy |  
+| bip_39_word_no_space_6 | quantumgiraffebeankitlazykick |  
+| bip_39_word_no_space_7 | quantumgiraffebeankitlazykickmetal |  
+| bip_39_word_no_space_8 | quantumgiraffebeankitlazykickmetalsnack |  
+| bip_39_word_no_space_9 | quantumgiraffebeankitlazykickmetalsnackcave |  
 | bip_39_word_space_0 | ['quantum', 'giraffe', 'bean', 'kit', 'lazy', 'kick', 'metal', 'snack', 'cave', 'wolf', 'attract', 'anxiety'] |  
 | bip_39_word_space_1 | quantum |  
 | bip_39_word_space_10 | quantum giraffe bean kit lazy kick metal snack cave wolf |  

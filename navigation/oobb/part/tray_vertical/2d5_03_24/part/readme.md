@@ -122,6 +122,18 @@ torch
 damp
 one
 claw |  
+| bip_39_word_no_space_1 | lawsuit |  
+| bip_39_word_no_space_10 | lawsuittypeexactaddictissuetorchdamponeclawsplit |  
+| bip_39_word_no_space_11 | lawsuittypeexactaddictissuetorchdamponeclawsplitact |  
+| bip_39_word_no_space_12 | lawsuittypeexactaddictissuetorchdamponeclawsplitactadmit |  
+| bip_39_word_no_space_2 | lawsuittype |  
+| bip_39_word_no_space_3 | lawsuittypeexact |  
+| bip_39_word_no_space_4 | lawsuittypeexactaddict |  
+| bip_39_word_no_space_5 | lawsuittypeexactaddictissue |  
+| bip_39_word_no_space_6 | lawsuittypeexactaddictissuetorch |  
+| bip_39_word_no_space_7 | lawsuittypeexactaddictissuetorchdamp |  
+| bip_39_word_no_space_8 | lawsuittypeexactaddictissuetorchdampone |  
+| bip_39_word_no_space_9 | lawsuittypeexactaddictissuetorchdamponeclaw |  
 | bip_39_word_space_0 | ['lawsuit', 'type', 'exact', 'addict', 'issue', 'torch', 'damp', 'one', 'claw', 'split', 'act', 'admit'] |  
 | bip_39_word_space_1 | lawsuit |  
 | bip_39_word_space_10 | lawsuit type exact addict issue torch damp one claw split |  

@@ -122,6 +122,18 @@ royal
 fatal
 shaft
 toss |  
+| bip_39_word_no_space_1 | tired |  
+| bip_39_word_no_space_10 | tiredrampsecurityconsidertumbleroyalfatalshafttossautumn |  
+| bip_39_word_no_space_11 | tiredrampsecurityconsidertumbleroyalfatalshafttossautumnnest |  
+| bip_39_word_no_space_12 | tiredrampsecurityconsidertumbleroyalfatalshafttossautumnnestappear |  
+| bip_39_word_no_space_2 | tiredramp |  
+| bip_39_word_no_space_3 | tiredrampsecurity |  
+| bip_39_word_no_space_4 | tiredrampsecurityconsider |  
+| bip_39_word_no_space_5 | tiredrampsecurityconsidertumble |  
+| bip_39_word_no_space_6 | tiredrampsecurityconsidertumbleroyal |  
+| bip_39_word_no_space_7 | tiredrampsecurityconsidertumbleroyalfatal |  
+| bip_39_word_no_space_8 | tiredrampsecurityconsidertumbleroyalfatalshaft |  
+| bip_39_word_no_space_9 | tiredrampsecurityconsidertumbleroyalfatalshafttoss |  
 | bip_39_word_space_0 | ['tired', 'ramp', 'security', 'consider', 'tumble', 'royal', 'fatal', 'shaft', 'toss', 'autumn', 'nest', 'appear'] |  
 | bip_39_word_space_1 | tired |  
 | bip_39_word_space_10 | tired ramp security consider tumble royal fatal shaft toss autumn |  

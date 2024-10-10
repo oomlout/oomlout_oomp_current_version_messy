@@ -122,6 +122,18 @@ fluid
 under
 inform
 lizard |  
+| bip_39_word_no_space_1 | tumble |  
+| bip_39_word_no_space_10 | tumblehungryboilstomachglancefluidunderinformlizarddiffer |  
+| bip_39_word_no_space_11 | tumblehungryboilstomachglancefluidunderinformlizarddifferflee |  
+| bip_39_word_no_space_12 | tumblehungryboilstomachglancefluidunderinformlizarddifferfleeattitude |  
+| bip_39_word_no_space_2 | tumblehungry |  
+| bip_39_word_no_space_3 | tumblehungryboil |  
+| bip_39_word_no_space_4 | tumblehungryboilstomach |  
+| bip_39_word_no_space_5 | tumblehungryboilstomachglance |  
+| bip_39_word_no_space_6 | tumblehungryboilstomachglancefluid |  
+| bip_39_word_no_space_7 | tumblehungryboilstomachglancefluidunder |  
+| bip_39_word_no_space_8 | tumblehungryboilstomachglancefluidunderinform |  
+| bip_39_word_no_space_9 | tumblehungryboilstomachglancefluidunderinformlizard |  
 | bip_39_word_space_0 | ['tumble', 'hungry', 'boil', 'stomach', 'glance', 'fluid', 'under', 'inform', 'lizard', 'differ', 'flee', 'attitude'] |  
 | bip_39_word_space_1 | tumble |  
 | bip_39_word_space_10 | tumble hungry boil stomach glance fluid under inform lizard differ |  

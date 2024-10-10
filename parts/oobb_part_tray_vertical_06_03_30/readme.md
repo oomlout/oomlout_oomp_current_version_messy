@@ -122,6 +122,18 @@ inform
 brother
 system
 various |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glasswrongancienttruckacquireinformbrothersystemvariouscity |  
+| bip_39_word_no_space_11 | glasswrongancienttruckacquireinformbrothersystemvariouscityhigh |  
+| bip_39_word_no_space_12 | glasswrongancienttruckacquireinformbrothersystemvariouscityhighalready |  
+| bip_39_word_no_space_2 | glasswrong |  
+| bip_39_word_no_space_3 | glasswrongancient |  
+| bip_39_word_no_space_4 | glasswrongancienttruck |  
+| bip_39_word_no_space_5 | glasswrongancienttruckacquire |  
+| bip_39_word_no_space_6 | glasswrongancienttruckacquireinform |  
+| bip_39_word_no_space_7 | glasswrongancienttruckacquireinformbrother |  
+| bip_39_word_no_space_8 | glasswrongancienttruckacquireinformbrothersystem |  
+| bip_39_word_no_space_9 | glasswrongancienttruckacquireinformbrothersystemvarious |  
 | bip_39_word_space_0 | ['glass', 'wrong', 'ancient', 'truck', 'acquire', 'inform', 'brother', 'system', 'various', 'city', 'high', 'already'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass wrong ancient truck acquire inform brother system various city |  

@@ -122,6 +122,18 @@ version
 swamp
 dry
 inner |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | envelopeannouncenetpreferoceanversionswampdryinnerquarter |  
+| bip_39_word_no_space_11 | envelopeannouncenetpreferoceanversionswampdryinnerquartercage |  
+| bip_39_word_no_space_12 | envelopeannouncenetpreferoceanversionswampdryinnerquartercageactor |  
+| bip_39_word_no_space_2 | envelopeannounce |  
+| bip_39_word_no_space_3 | envelopeannouncenet |  
+| bip_39_word_no_space_4 | envelopeannouncenetprefer |  
+| bip_39_word_no_space_5 | envelopeannouncenetpreferocean |  
+| bip_39_word_no_space_6 | envelopeannouncenetpreferoceanversion |  
+| bip_39_word_no_space_7 | envelopeannouncenetpreferoceanversionswamp |  
+| bip_39_word_no_space_8 | envelopeannouncenetpreferoceanversionswampdry |  
+| bip_39_word_no_space_9 | envelopeannouncenetpreferoceanversionswampdryinner |  
 | bip_39_word_space_0 | ['envelope', 'announce', 'net', 'prefer', 'ocean', 'version', 'swamp', 'dry', 'inner', 'quarter', 'cage', 'actor'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope announce net prefer ocean version swamp dry inner quarter |  

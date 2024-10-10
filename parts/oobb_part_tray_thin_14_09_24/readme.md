@@ -122,6 +122,18 @@ husband
 hurt
 message
 nuclear |  
+| bip_39_word_no_space_1 | arrest |  
+| bip_39_word_no_space_10 | arrestorchardlegendabsurdsodahusbandhurtmessagenuclearalert |  
+| bip_39_word_no_space_11 | arrestorchardlegendabsurdsodahusbandhurtmessagenuclearalertnorth |  
+| bip_39_word_no_space_12 | arrestorchardlegendabsurdsodahusbandhurtmessagenuclearalertnorthappear |  
+| bip_39_word_no_space_2 | arrestorchard |  
+| bip_39_word_no_space_3 | arrestorchardlegend |  
+| bip_39_word_no_space_4 | arrestorchardlegendabsurd |  
+| bip_39_word_no_space_5 | arrestorchardlegendabsurdsoda |  
+| bip_39_word_no_space_6 | arrestorchardlegendabsurdsodahusband |  
+| bip_39_word_no_space_7 | arrestorchardlegendabsurdsodahusbandhurt |  
+| bip_39_word_no_space_8 | arrestorchardlegendabsurdsodahusbandhurtmessage |  
+| bip_39_word_no_space_9 | arrestorchardlegendabsurdsodahusbandhurtmessagenuclear |  
 | bip_39_word_space_0 | ['arrest', 'orchard', 'legend', 'absurd', 'soda', 'husband', 'hurt', 'message', 'nuclear', 'alert', 'north', 'appear'] |  
 | bip_39_word_space_1 | arrest |  
 | bip_39_word_space_10 | arrest orchard legend absurd soda husband hurt message nuclear alert |  

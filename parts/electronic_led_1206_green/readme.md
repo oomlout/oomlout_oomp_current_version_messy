@@ -122,6 +122,18 @@ meadow
 nice
 party
 anger |  
+| bip_39_word_no_space_1 | shed |  
+| bip_39_word_no_space_10 | shedpenaltycerealimmunedrawmeadownicepartyangeruniverse |  
+| bip_39_word_no_space_11 | shedpenaltycerealimmunedrawmeadownicepartyangeruniversewait |  
+| bip_39_word_no_space_12 | shedpenaltycerealimmunedrawmeadownicepartyangeruniversewaitact |  
+| bip_39_word_no_space_2 | shedpenalty |  
+| bip_39_word_no_space_3 | shedpenaltycereal |  
+| bip_39_word_no_space_4 | shedpenaltycerealimmune |  
+| bip_39_word_no_space_5 | shedpenaltycerealimmunedraw |  
+| bip_39_word_no_space_6 | shedpenaltycerealimmunedrawmeadow |  
+| bip_39_word_no_space_7 | shedpenaltycerealimmunedrawmeadownice |  
+| bip_39_word_no_space_8 | shedpenaltycerealimmunedrawmeadowniceparty |  
+| bip_39_word_no_space_9 | shedpenaltycerealimmunedrawmeadownicepartyanger |  
 | bip_39_word_space_0 | ['shed', 'penalty', 'cereal', 'immune', 'draw', 'meadow', 'nice', 'party', 'anger', 'universe', 'wait', 'act'] |  
 | bip_39_word_space_1 | shed |  
 | bip_39_word_space_10 | shed penalty cereal immune draw meadow nice party anger universe |  

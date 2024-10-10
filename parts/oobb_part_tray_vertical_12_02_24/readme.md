@@ -122,6 +122,18 @@ lady
 paper
 level
 sister |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlineflagallsquarestairsladypaperlevelsisterartwork |  
+| bip_39_word_no_space_11 | onlineflagallsquarestairsladypaperlevelsisterartworkneck |  
+| bip_39_word_no_space_12 | onlineflagallsquarestairsladypaperlevelsisterartworkneckartwork |  
+| bip_39_word_no_space_2 | onlineflag |  
+| bip_39_word_no_space_3 | onlineflagall |  
+| bip_39_word_no_space_4 | onlineflagallsquare |  
+| bip_39_word_no_space_5 | onlineflagallsquarestairs |  
+| bip_39_word_no_space_6 | onlineflagallsquarestairslady |  
+| bip_39_word_no_space_7 | onlineflagallsquarestairsladypaper |  
+| bip_39_word_no_space_8 | onlineflagallsquarestairsladypaperlevel |  
+| bip_39_word_no_space_9 | onlineflagallsquarestairsladypaperlevelsister |  
 | bip_39_word_space_0 | ['online', 'flag', 'all', 'square', 'stairs', 'lady', 'paper', 'level', 'sister', 'artwork', 'neck', 'artwork'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online flag all square stairs lady paper level sister artwork |  

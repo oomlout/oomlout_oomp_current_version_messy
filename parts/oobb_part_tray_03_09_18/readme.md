@@ -122,6 +122,18 @@ need
 much
 tourist
 reunion |  
+| bip_39_word_no_space_1 | awkward |  
+| bip_39_word_no_space_10 | awkwardexplaincottoneffortevilneedmuchtouristreunionexhaust |  
+| bip_39_word_no_space_11 | awkwardexplaincottoneffortevilneedmuchtouristreunionexhaustbiology |  
+| bip_39_word_no_space_12 | awkwardexplaincottoneffortevilneedmuchtouristreunionexhaustbiologyatom |  
+| bip_39_word_no_space_2 | awkwardexplain |  
+| bip_39_word_no_space_3 | awkwardexplaincotton |  
+| bip_39_word_no_space_4 | awkwardexplaincottoneffort |  
+| bip_39_word_no_space_5 | awkwardexplaincottoneffortevil |  
+| bip_39_word_no_space_6 | awkwardexplaincottoneffortevilneed |  
+| bip_39_word_no_space_7 | awkwardexplaincottoneffortevilneedmuch |  
+| bip_39_word_no_space_8 | awkwardexplaincottoneffortevilneedmuchtourist |  
+| bip_39_word_no_space_9 | awkwardexplaincottoneffortevilneedmuchtouristreunion |  
 | bip_39_word_space_0 | ['awkward', 'explain', 'cotton', 'effort', 'evil', 'need', 'much', 'tourist', 'reunion', 'exhaust', 'biology', 'atom'] |  
 | bip_39_word_space_1 | awkward |  
 | bip_39_word_space_10 | awkward explain cotton effort evil need much tourist reunion exhaust |  

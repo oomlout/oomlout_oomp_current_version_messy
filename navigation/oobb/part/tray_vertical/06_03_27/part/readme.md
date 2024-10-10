@@ -122,6 +122,18 @@ snow
 artist
 spread
 harvest |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultrescuealleytruerosesnowartistspreadharvesttravel |  
+| bip_39_word_no_space_11 | resultrescuealleytruerosesnowartistspreadharvesttravelrubber |  
+| bip_39_word_no_space_12 | resultrescuealleytruerosesnowartistspreadharvesttravelrubberarrive |  
+| bip_39_word_no_space_2 | resultrescue |  
+| bip_39_word_no_space_3 | resultrescuealley |  
+| bip_39_word_no_space_4 | resultrescuealleytrue |  
+| bip_39_word_no_space_5 | resultrescuealleytruerose |  
+| bip_39_word_no_space_6 | resultrescuealleytruerosesnow |  
+| bip_39_word_no_space_7 | resultrescuealleytruerosesnowartist |  
+| bip_39_word_no_space_8 | resultrescuealleytruerosesnowartistspread |  
+| bip_39_word_no_space_9 | resultrescuealleytruerosesnowartistspreadharvest |  
 | bip_39_word_space_0 | ['result', 'rescue', 'alley', 'true', 'rose', 'snow', 'artist', 'spread', 'harvest', 'travel', 'rubber', 'arrive'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result rescue alley true rose snow artist spread harvest travel |  

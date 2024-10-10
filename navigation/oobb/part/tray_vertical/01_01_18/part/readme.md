@@ -122,6 +122,18 @@ super
 tiger
 load
 glance |  
+| bip_39_word_no_space_1 | whale |  
+| bip_39_word_no_space_10 | whalekneearmedbesthurtsupertigerloadglancehabit |  
+| bip_39_word_no_space_11 | whalekneearmedbesthurtsupertigerloadglancehabitenvelope |  
+| bip_39_word_no_space_12 | whalekneearmedbesthurtsupertigerloadglancehabitenvelopeabout |  
+| bip_39_word_no_space_2 | whaleknee |  
+| bip_39_word_no_space_3 | whalekneearmed |  
+| bip_39_word_no_space_4 | whalekneearmedbest |  
+| bip_39_word_no_space_5 | whalekneearmedbesthurt |  
+| bip_39_word_no_space_6 | whalekneearmedbesthurtsuper |  
+| bip_39_word_no_space_7 | whalekneearmedbesthurtsupertiger |  
+| bip_39_word_no_space_8 | whalekneearmedbesthurtsupertigerload |  
+| bip_39_word_no_space_9 | whalekneearmedbesthurtsupertigerloadglance |  
 | bip_39_word_space_0 | ['whale', 'knee', 'armed', 'best', 'hurt', 'super', 'tiger', 'load', 'glance', 'habit', 'envelope', 'about'] |  
 | bip_39_word_space_1 | whale |  
 | bip_39_word_space_10 | whale knee armed best hurt super tiger load glance habit |  

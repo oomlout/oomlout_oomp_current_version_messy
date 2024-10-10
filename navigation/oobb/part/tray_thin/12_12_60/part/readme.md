@@ -122,6 +122,18 @@ behave
 screen
 settle
 glue |  
+| bip_39_word_no_space_1 | bitter |  
+| bip_39_word_no_space_10 | bitterruntryhusbandliarbehavescreensettlegluemimic |  
+| bip_39_word_no_space_11 | bitterruntryhusbandliarbehavescreensettlegluemimicchair |  
+| bip_39_word_no_space_12 | bitterruntryhusbandliarbehavescreensettlegluemimicchairatom |  
+| bip_39_word_no_space_2 | bitterrun |  
+| bip_39_word_no_space_3 | bitterruntry |  
+| bip_39_word_no_space_4 | bitterruntryhusband |  
+| bip_39_word_no_space_5 | bitterruntryhusbandliar |  
+| bip_39_word_no_space_6 | bitterruntryhusbandliarbehave |  
+| bip_39_word_no_space_7 | bitterruntryhusbandliarbehavescreen |  
+| bip_39_word_no_space_8 | bitterruntryhusbandliarbehavescreensettle |  
+| bip_39_word_no_space_9 | bitterruntryhusbandliarbehavescreensettleglue |  
 | bip_39_word_space_0 | ['bitter', 'run', 'try', 'husband', 'liar', 'behave', 'screen', 'settle', 'glue', 'mimic', 'chair', 'atom'] |  
 | bip_39_word_space_1 | bitter |  
 | bip_39_word_space_10 | bitter run try husband liar behave screen settle glue mimic |  

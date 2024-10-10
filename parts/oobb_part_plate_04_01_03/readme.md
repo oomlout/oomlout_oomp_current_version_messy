@@ -122,6 +122,18 @@ deposit
 monkey
 ride
 can |  
+| bip_39_word_no_space_1 | sort |  
+| bip_39_word_no_space_10 | sortgriefchaosharborthendepositmonkeyridecansurface |  
+| bip_39_word_no_space_11 | sortgriefchaosharborthendepositmonkeyridecansurfacelift |  
+| bip_39_word_no_space_12 | sortgriefchaosharborthendepositmonkeyridecansurfaceliftabout |  
+| bip_39_word_no_space_2 | sortgrief |  
+| bip_39_word_no_space_3 | sortgriefchaos |  
+| bip_39_word_no_space_4 | sortgriefchaosharbor |  
+| bip_39_word_no_space_5 | sortgriefchaosharborthen |  
+| bip_39_word_no_space_6 | sortgriefchaosharborthendeposit |  
+| bip_39_word_no_space_7 | sortgriefchaosharborthendepositmonkey |  
+| bip_39_word_no_space_8 | sortgriefchaosharborthendepositmonkeyride |  
+| bip_39_word_no_space_9 | sortgriefchaosharborthendepositmonkeyridecan |  
 | bip_39_word_space_0 | ['sort', 'grief', 'chaos', 'harbor', 'then', 'deposit', 'monkey', 'ride', 'can', 'surface', 'lift', 'about'] |  
 | bip_39_word_space_1 | sort |  
 | bip_39_word_space_10 | sort grief chaos harbor then deposit monkey ride can surface |  

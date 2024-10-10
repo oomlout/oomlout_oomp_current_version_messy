@@ -122,6 +122,18 @@ used
 female
 turn
 shadow |  
+| bip_39_word_no_space_1 | margin |  
+| bip_39_word_no_space_10 | marginexhibitcitymaterialeconomyusedfemaleturnshadowincome |  
+| bip_39_word_no_space_11 | marginexhibitcitymaterialeconomyusedfemaleturnshadowincomeswitch |  
+| bip_39_word_no_space_12 | marginexhibitcitymaterialeconomyusedfemaleturnshadowincomeswitchadvance |  
+| bip_39_word_no_space_2 | marginexhibit |  
+| bip_39_word_no_space_3 | marginexhibitcity |  
+| bip_39_word_no_space_4 | marginexhibitcitymaterial |  
+| bip_39_word_no_space_5 | marginexhibitcitymaterialeconomy |  
+| bip_39_word_no_space_6 | marginexhibitcitymaterialeconomyused |  
+| bip_39_word_no_space_7 | marginexhibitcitymaterialeconomyusedfemale |  
+| bip_39_word_no_space_8 | marginexhibitcitymaterialeconomyusedfemaleturn |  
+| bip_39_word_no_space_9 | marginexhibitcitymaterialeconomyusedfemaleturnshadow |  
 | bip_39_word_space_0 | ['margin', 'exhibit', 'city', 'material', 'economy', 'used', 'female', 'turn', 'shadow', 'income', 'switch', 'advance'] |  
 | bip_39_word_space_1 | margin |  
 | bip_39_word_space_10 | margin exhibit city material economy used female turn shadow income |  

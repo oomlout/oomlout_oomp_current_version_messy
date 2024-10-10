@@ -122,6 +122,18 @@ cement
 private
 supply
 suggest |  
+| bip_39_word_no_space_1 | exhibit |  
+| bip_39_word_no_space_10 | exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneed |  
+| bip_39_word_no_space_11 | exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneedmutual |  
+| bip_39_word_no_space_12 | exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneedmutualadvice |  
+| bip_39_word_no_space_2 | exhibitremember |  
+| bip_39_word_no_space_3 | exhibitrememberdiesel |  
+| bip_39_word_no_space_4 | exhibitrememberdieselnuclear |  
+| bip_39_word_no_space_5 | exhibitrememberdieselnuclearlizard |  
+| bip_39_word_no_space_6 | exhibitrememberdieselnuclearlizardcement |  
+| bip_39_word_no_space_7 | exhibitrememberdieselnuclearlizardcementprivate |  
+| bip_39_word_no_space_8 | exhibitrememberdieselnuclearlizardcementprivatesupply |  
+| bip_39_word_no_space_9 | exhibitrememberdieselnuclearlizardcementprivatesupplysuggest |  
 | bip_39_word_space_0 | ['exhibit', 'remember', 'diesel', 'nuclear', 'lizard', 'cement', 'private', 'supply', 'suggest', 'need', 'mutual', 'advice'] |  
 | bip_39_word_space_1 | exhibit |  
 | bip_39_word_space_10 | exhibit remember diesel nuclear lizard cement private supply suggest need |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'online
   amused
 
   enjoy'
+bip_39_word_no_space_1: online
+bip_39_word_no_space_10: onlinedeerchalkemploycurvehorrorsurveyamusedenjoychronic
+bip_39_word_no_space_11: onlinedeerchalkemploycurvehorrorsurveyamusedenjoychronicpull
+bip_39_word_no_space_12: onlinedeerchalkemploycurvehorrorsurveyamusedenjoychronicpullaction
+bip_39_word_no_space_2: onlinedeer
+bip_39_word_no_space_3: onlinedeerchalk
+bip_39_word_no_space_4: onlinedeerchalkemploy
+bip_39_word_no_space_5: onlinedeerchalkemploycurve
+bip_39_word_no_space_6: onlinedeerchalkemploycurvehorror
+bip_39_word_no_space_7: onlinedeerchalkemploycurvehorrorsurvey
+bip_39_word_no_space_8: onlinedeerchalkemploycurvehorrorsurveyamused
+bip_39_word_no_space_9: onlinedeerchalkemploycurvehorrorsurveyamusedenjoy
 bip_39_word_space_0:
 - online
 - deer

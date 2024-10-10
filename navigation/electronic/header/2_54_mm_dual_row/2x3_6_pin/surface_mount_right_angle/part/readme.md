@@ -122,6 +122,18 @@ cave
 survey
 tag
 giraffe |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicestockrouteexposedenycavesurveytaggiraffeflag |  
+| bip_39_word_no_space_11 | spicestockrouteexposedenycavesurveytaggiraffeflagsample |  
+| bip_39_word_no_space_12 | spicestockrouteexposedenycavesurveytaggiraffeflagsampleattend |  
+| bip_39_word_no_space_2 | spicestock |  
+| bip_39_word_no_space_3 | spicestockroute |  
+| bip_39_word_no_space_4 | spicestockrouteexpose |  
+| bip_39_word_no_space_5 | spicestockrouteexposedeny |  
+| bip_39_word_no_space_6 | spicestockrouteexposedenycave |  
+| bip_39_word_no_space_7 | spicestockrouteexposedenycavesurvey |  
+| bip_39_word_no_space_8 | spicestockrouteexposedenycavesurveytag |  
+| bip_39_word_no_space_9 | spicestockrouteexposedenycavesurveytaggiraffe |  
 | bip_39_word_space_0 | ['spice', 'stock', 'route', 'expose', 'deny', 'cave', 'survey', 'tag', 'giraffe', 'flag', 'sample', 'attend'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice stock route expose deny cave survey tag giraffe flag |  

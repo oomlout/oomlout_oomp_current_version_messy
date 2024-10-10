@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wing
   maid
 
   expect'
+bip_39_word_no_space_1: wing
+bip_39_word_no_space_10: wingraisedemiseextendactressvillagesorrymaidexpectknife
+bip_39_word_no_space_11: wingraisedemiseextendactressvillagesorrymaidexpectknifelaptop
+bip_39_word_no_space_12: wingraisedemiseextendactressvillagesorrymaidexpectknifelaptopadapt
+bip_39_word_no_space_2: wingraise
+bip_39_word_no_space_3: wingraisedemise
+bip_39_word_no_space_4: wingraisedemiseextend
+bip_39_word_no_space_5: wingraisedemiseextendactress
+bip_39_word_no_space_6: wingraisedemiseextendactressvillage
+bip_39_word_no_space_7: wingraisedemiseextendactressvillagesorry
+bip_39_word_no_space_8: wingraisedemiseextendactressvillagesorrymaid
+bip_39_word_no_space_9: wingraisedemiseextendactressvillagesorrymaidexpect
 bip_39_word_space_0:
 - wing
 - raise

@@ -122,6 +122,18 @@ harbor
 path
 marriage
 upon |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | anklefoundtunnelwearannualharborpathmarriageupondegree |  
+| bip_39_word_no_space_11 | anklefoundtunnelwearannualharborpathmarriageupondegreeski |  
+| bip_39_word_no_space_12 | anklefoundtunnelwearannualharborpathmarriageupondegreeskiarea |  
+| bip_39_word_no_space_2 | anklefound |  
+| bip_39_word_no_space_3 | anklefoundtunnel |  
+| bip_39_word_no_space_4 | anklefoundtunnelwear |  
+| bip_39_word_no_space_5 | anklefoundtunnelwearannual |  
+| bip_39_word_no_space_6 | anklefoundtunnelwearannualharbor |  
+| bip_39_word_no_space_7 | anklefoundtunnelwearannualharborpath |  
+| bip_39_word_no_space_8 | anklefoundtunnelwearannualharborpathmarriage |  
+| bip_39_word_no_space_9 | anklefoundtunnelwearannualharborpathmarriageupon |  
 | bip_39_word_space_0 | ['ankle', 'found', 'tunnel', 'wear', 'annual', 'harbor', 'path', 'marriage', 'upon', 'degree', 'ski', 'area'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle found tunnel wear annual harbor path marriage upon degree |  

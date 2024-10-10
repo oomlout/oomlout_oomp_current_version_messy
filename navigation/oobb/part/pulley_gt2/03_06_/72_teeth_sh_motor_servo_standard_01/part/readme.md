@@ -122,6 +122,18 @@ swim
 occur
 boost
 sick |  
+| bip_39_word_no_space_1 | voice |  
+| bip_39_word_no_space_10 | voiceseekofferuniformobviousswimoccurboostsickdolphin |  
+| bip_39_word_no_space_11 | voiceseekofferuniformobviousswimoccurboostsickdolphinauction |  
+| bip_39_word_no_space_12 | voiceseekofferuniformobviousswimoccurboostsickdolphinauctionany |  
+| bip_39_word_no_space_2 | voiceseek |  
+| bip_39_word_no_space_3 | voiceseekoffer |  
+| bip_39_word_no_space_4 | voiceseekofferuniform |  
+| bip_39_word_no_space_5 | voiceseekofferuniformobvious |  
+| bip_39_word_no_space_6 | voiceseekofferuniformobviousswim |  
+| bip_39_word_no_space_7 | voiceseekofferuniformobviousswimoccur |  
+| bip_39_word_no_space_8 | voiceseekofferuniformobviousswimoccurboost |  
+| bip_39_word_no_space_9 | voiceseekofferuniformobviousswimoccurboostsick |  
 | bip_39_word_space_0 | ['voice', 'seek', 'offer', 'uniform', 'obvious', 'swim', 'occur', 'boost', 'sick', 'dolphin', 'auction', 'any'] |  
 | bip_39_word_space_1 | voice |  
 | bip_39_word_space_10 | voice seek offer uniform obvious swim occur boost sick dolphin |  

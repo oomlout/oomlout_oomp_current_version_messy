@@ -122,6 +122,18 @@ enlist
 grace
 sad
 toy |  
+| bip_39_word_no_space_1 | napkin |  
+| bip_39_word_no_space_10 | napkinfoldautoturtlejourneyenlistgracesadtoyalbum |  
+| bip_39_word_no_space_11 | napkinfoldautoturtlejourneyenlistgracesadtoyalbumlarge |  
+| bip_39_word_no_space_12 | napkinfoldautoturtlejourneyenlistgracesadtoyalbumlargeable |  
+| bip_39_word_no_space_2 | napkinfold |  
+| bip_39_word_no_space_3 | napkinfoldauto |  
+| bip_39_word_no_space_4 | napkinfoldautoturtle |  
+| bip_39_word_no_space_5 | napkinfoldautoturtlejourney |  
+| bip_39_word_no_space_6 | napkinfoldautoturtlejourneyenlist |  
+| bip_39_word_no_space_7 | napkinfoldautoturtlejourneyenlistgrace |  
+| bip_39_word_no_space_8 | napkinfoldautoturtlejourneyenlistgracesad |  
+| bip_39_word_no_space_9 | napkinfoldautoturtlejourneyenlistgracesadtoy |  
 | bip_39_word_space_0 | ['napkin', 'fold', 'auto', 'turtle', 'journey', 'enlist', 'grace', 'sad', 'toy', 'album', 'large', 'able'] |  
 | bip_39_word_space_1 | napkin |  
 | bip_39_word_space_10 | napkin fold auto turtle journey enlist grace sad toy album |  

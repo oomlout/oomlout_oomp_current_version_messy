@@ -122,6 +122,18 @@ cradle
 refuse
 myself
 furnace |  
+| bip_39_word_no_space_1 | effort |  
+| bip_39_word_no_space_10 | effortutilitytoppledesktypecradlerefusemyselffurnaceshield |  
+| bip_39_word_no_space_11 | effortutilitytoppledesktypecradlerefusemyselffurnaceshieldtag |  
+| bip_39_word_no_space_12 | effortutilitytoppledesktypecradlerefusemyselffurnaceshieldtagapple |  
+| bip_39_word_no_space_2 | effortutility |  
+| bip_39_word_no_space_3 | effortutilitytopple |  
+| bip_39_word_no_space_4 | effortutilitytoppledesk |  
+| bip_39_word_no_space_5 | effortutilitytoppledesktype |  
+| bip_39_word_no_space_6 | effortutilitytoppledesktypecradle |  
+| bip_39_word_no_space_7 | effortutilitytoppledesktypecradlerefuse |  
+| bip_39_word_no_space_8 | effortutilitytoppledesktypecradlerefusemyself |  
+| bip_39_word_no_space_9 | effortutilitytoppledesktypecradlerefusemyselffurnace |  
 | bip_39_word_space_0 | ['effort', 'utility', 'topple', 'desk', 'type', 'cradle', 'refuse', 'myself', 'furnace', 'shield', 'tag', 'apple'] |  
 | bip_39_word_space_1 | effort |  
 | bip_39_word_space_10 | effort utility topple desk type cradle refuse myself furnace shield |  

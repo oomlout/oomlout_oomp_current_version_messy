@@ -122,6 +122,18 @@ large
 unique
 dinner
 very |  
+| bip_39_word_no_space_1 | bamboo |  
+| bip_39_word_no_space_10 | bamboodistancecasepullperfectlargeuniquedinnerveryshift |  
+| bip_39_word_no_space_11 | bamboodistancecasepullperfectlargeuniquedinnerveryshiftgarden |  
+| bip_39_word_no_space_12 | bamboodistancecasepullperfectlargeuniquedinnerveryshiftgardenankle |  
+| bip_39_word_no_space_2 | bamboodistance |  
+| bip_39_word_no_space_3 | bamboodistancecase |  
+| bip_39_word_no_space_4 | bamboodistancecasepull |  
+| bip_39_word_no_space_5 | bamboodistancecasepullperfect |  
+| bip_39_word_no_space_6 | bamboodistancecasepullperfectlarge |  
+| bip_39_word_no_space_7 | bamboodistancecasepullperfectlargeunique |  
+| bip_39_word_no_space_8 | bamboodistancecasepullperfectlargeuniquedinner |  
+| bip_39_word_no_space_9 | bamboodistancecasepullperfectlargeuniquedinnervery |  
 | bip_39_word_space_0 | ['bamboo', 'distance', 'case', 'pull', 'perfect', 'large', 'unique', 'dinner', 'very', 'shift', 'garden', 'ankle'] |  
 | bip_39_word_space_1 | bamboo |  
 | bip_39_word_space_10 | bamboo distance case pull perfect large unique dinner very shift |  

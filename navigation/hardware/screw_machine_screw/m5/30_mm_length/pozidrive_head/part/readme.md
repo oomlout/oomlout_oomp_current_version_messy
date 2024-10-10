@@ -122,6 +122,18 @@ maid
 payment
 wool
 federal |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblemathrichspringunlockmaidpaymentwoolfederalinherit |  
+| bip_39_word_no_space_11 | marblemathrichspringunlockmaidpaymentwoolfederalinheritgospel |  
+| bip_39_word_no_space_12 | marblemathrichspringunlockmaidpaymentwoolfederalinheritgospelannounce |  
+| bip_39_word_no_space_2 | marblemath |  
+| bip_39_word_no_space_3 | marblemathrich |  
+| bip_39_word_no_space_4 | marblemathrichspring |  
+| bip_39_word_no_space_5 | marblemathrichspringunlock |  
+| bip_39_word_no_space_6 | marblemathrichspringunlockmaid |  
+| bip_39_word_no_space_7 | marblemathrichspringunlockmaidpayment |  
+| bip_39_word_no_space_8 | marblemathrichspringunlockmaidpaymentwool |  
+| bip_39_word_no_space_9 | marblemathrichspringunlockmaidpaymentwoolfederal |  
 | bip_39_word_space_0 | ['marble', 'math', 'rich', 'spring', 'unlock', 'maid', 'payment', 'wool', 'federal', 'inherit', 'gospel', 'announce'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble math rich spring unlock maid payment wool federal inherit |  

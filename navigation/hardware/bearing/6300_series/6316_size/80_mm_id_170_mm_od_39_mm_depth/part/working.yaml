@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spider
   target
 
   walk'
+bip_39_word_no_space_1: spider
+bip_39_word_no_space_10: spiderfallswearsurgenearinhalepatterntargetwalkantenna
+bip_39_word_no_space_11: spiderfallswearsurgenearinhalepatterntargetwalkantennatry
+bip_39_word_no_space_12: spiderfallswearsurgenearinhalepatterntargetwalkantennatryamused
+bip_39_word_no_space_2: spiderfall
+bip_39_word_no_space_3: spiderfallswear
+bip_39_word_no_space_4: spiderfallswearsurge
+bip_39_word_no_space_5: spiderfallswearsurgenear
+bip_39_word_no_space_6: spiderfallswearsurgenearinhale
+bip_39_word_no_space_7: spiderfallswearsurgenearinhalepattern
+bip_39_word_no_space_8: spiderfallswearsurgenearinhalepatterntarget
+bip_39_word_no_space_9: spiderfallswearsurgenearinhalepatterntargetwalk
 bip_39_word_space_0:
 - spider
 - fall

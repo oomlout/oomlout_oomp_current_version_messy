@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'square
   trade
 
   atom'
+bip_39_word_no_space_1: square
+bip_39_word_no_space_10: squaremailbloodthisrigidskullassettradeatomhill
+bip_39_word_no_space_11: squaremailbloodthisrigidskullassettradeatomhillcategory
+bip_39_word_no_space_12: squaremailbloodthisrigidskullassettradeatomhillcategoryamount
+bip_39_word_no_space_2: squaremail
+bip_39_word_no_space_3: squaremailblood
+bip_39_word_no_space_4: squaremailbloodthis
+bip_39_word_no_space_5: squaremailbloodthisrigid
+bip_39_word_no_space_6: squaremailbloodthisrigidskull
+bip_39_word_no_space_7: squaremailbloodthisrigidskullasset
+bip_39_word_no_space_8: squaremailbloodthisrigidskullassettrade
+bip_39_word_no_space_9: squaremailbloodthisrigidskullassettradeatom
 bip_39_word_space_0:
 - square
 - mail

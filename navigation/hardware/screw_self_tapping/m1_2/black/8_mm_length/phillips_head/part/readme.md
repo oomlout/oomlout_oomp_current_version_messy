@@ -122,6 +122,18 @@ vehicle
 scheme
 blast
 aim |  
+| bip_39_word_no_space_1 | inject |  
+| bip_39_word_no_space_10 | injectseasonbeforeneckfuturevehicleschemeblastaimawful |  
+| bip_39_word_no_space_11 | injectseasonbeforeneckfuturevehicleschemeblastaimawfulunit |  
+| bip_39_word_no_space_12 | injectseasonbeforeneckfuturevehicleschemeblastaimawfulunitaisle |  
+| bip_39_word_no_space_2 | injectseason |  
+| bip_39_word_no_space_3 | injectseasonbefore |  
+| bip_39_word_no_space_4 | injectseasonbeforeneck |  
+| bip_39_word_no_space_5 | injectseasonbeforeneckfuture |  
+| bip_39_word_no_space_6 | injectseasonbeforeneckfuturevehicle |  
+| bip_39_word_no_space_7 | injectseasonbeforeneckfuturevehiclescheme |  
+| bip_39_word_no_space_8 | injectseasonbeforeneckfuturevehicleschemeblast |  
+| bip_39_word_no_space_9 | injectseasonbeforeneckfuturevehicleschemeblastaim |  
 | bip_39_word_space_0 | ['inject', 'season', 'before', 'neck', 'future', 'vehicle', 'scheme', 'blast', 'aim', 'awful', 'unit', 'aisle'] |  
 | bip_39_word_space_1 | inject |  
 | bip_39_word_space_10 | inject season before neck future vehicle scheme blast aim awful |  

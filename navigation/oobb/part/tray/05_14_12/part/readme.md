@@ -122,6 +122,18 @@ clinic
 ordinary
 humor
 special |  
+| bip_39_word_no_space_1 | notice |  
+| bip_39_word_no_space_10 | noticemyselfignorehandassaultclinicordinaryhumorspecialdaring |  
+| bip_39_word_no_space_11 | noticemyselfignorehandassaultclinicordinaryhumorspecialdaringdevote |  
+| bip_39_word_no_space_12 | noticemyselfignorehandassaultclinicordinaryhumorspecialdaringdevoteabuse |  
+| bip_39_word_no_space_2 | noticemyself |  
+| bip_39_word_no_space_3 | noticemyselfignore |  
+| bip_39_word_no_space_4 | noticemyselfignorehand |  
+| bip_39_word_no_space_5 | noticemyselfignorehandassault |  
+| bip_39_word_no_space_6 | noticemyselfignorehandassaultclinic |  
+| bip_39_word_no_space_7 | noticemyselfignorehandassaultclinicordinary |  
+| bip_39_word_no_space_8 | noticemyselfignorehandassaultclinicordinaryhumor |  
+| bip_39_word_no_space_9 | noticemyselfignorehandassaultclinicordinaryhumorspecial |  
 | bip_39_word_space_0 | ['notice', 'myself', 'ignore', 'hand', 'assault', 'clinic', 'ordinary', 'humor', 'special', 'daring', 'devote', 'abuse'] |  
 | bip_39_word_space_1 | notice |  
 | bip_39_word_space_10 | notice myself ignore hand assault clinic ordinary humor special daring |  

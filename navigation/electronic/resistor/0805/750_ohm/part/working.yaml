@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lava
   route
 
   desert'
+bip_39_word_no_space_1: lava
+bip_39_word_no_space_10: lavadelayturtlecoinidledetectmercyroutedesertswamp
+bip_39_word_no_space_11: lavadelayturtlecoinidledetectmercyroutedesertswamphen
+bip_39_word_no_space_12: lavadelayturtlecoinidledetectmercyroutedesertswamphenair
+bip_39_word_no_space_2: lavadelay
+bip_39_word_no_space_3: lavadelayturtle
+bip_39_word_no_space_4: lavadelayturtlecoin
+bip_39_word_no_space_5: lavadelayturtlecoinidle
+bip_39_word_no_space_6: lavadelayturtlecoinidledetect
+bip_39_word_no_space_7: lavadelayturtlecoinidledetectmercy
+bip_39_word_no_space_8: lavadelayturtlecoinidledetectmercyroute
+bip_39_word_no_space_9: lavadelayturtlecoinidledetectmercyroutedesert
 bip_39_word_space_0:
 - lava
 - delay

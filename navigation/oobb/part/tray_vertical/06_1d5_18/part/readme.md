@@ -122,6 +122,18 @@ food
 demise
 catch
 suggest |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerwalnutmeadowbrotherstablefooddemisecatchsuggestacid |  
+| bip_39_word_no_space_11 | toddlerwalnutmeadowbrotherstablefooddemisecatchsuggestacidpublic |  
+| bip_39_word_no_space_12 | toddlerwalnutmeadowbrotherstablefooddemisecatchsuggestacidpublicalso |  
+| bip_39_word_no_space_2 | toddlerwalnut |  
+| bip_39_word_no_space_3 | toddlerwalnutmeadow |  
+| bip_39_word_no_space_4 | toddlerwalnutmeadowbrother |  
+| bip_39_word_no_space_5 | toddlerwalnutmeadowbrotherstable |  
+| bip_39_word_no_space_6 | toddlerwalnutmeadowbrotherstablefood |  
+| bip_39_word_no_space_7 | toddlerwalnutmeadowbrotherstablefooddemise |  
+| bip_39_word_no_space_8 | toddlerwalnutmeadowbrotherstablefooddemisecatch |  
+| bip_39_word_no_space_9 | toddlerwalnutmeadowbrotherstablefooddemisecatchsuggest |  
 | bip_39_word_space_0 | ['toddler', 'walnut', 'meadow', 'brother', 'stable', 'food', 'demise', 'catch', 'suggest', 'acid', 'public', 'also'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler walnut meadow brother stable food demise catch suggest acid |  

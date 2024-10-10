@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'man
   year
 
   powder'
+bip_39_word_no_space_1: man
+bip_39_word_no_space_10: manmomentautobottomdonatesmarthumanyearpowderrough
+bip_39_word_no_space_11: manmomentautobottomdonatesmarthumanyearpowderroughchild
+bip_39_word_no_space_12: manmomentautobottomdonatesmarthumanyearpowderroughchildalter
+bip_39_word_no_space_2: manmoment
+bip_39_word_no_space_3: manmomentauto
+bip_39_word_no_space_4: manmomentautobottom
+bip_39_word_no_space_5: manmomentautobottomdonate
+bip_39_word_no_space_6: manmomentautobottomdonatesmart
+bip_39_word_no_space_7: manmomentautobottomdonatesmarthuman
+bip_39_word_no_space_8: manmomentautobottomdonatesmarthumanyear
+bip_39_word_no_space_9: manmomentautobottomdonatesmarthumanyearpowder
 bip_39_word_space_0:
 - man
 - moment

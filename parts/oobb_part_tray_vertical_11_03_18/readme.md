@@ -122,6 +122,18 @@ limit
 clinic
 client
 suspect |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flameketchupspellfencetreatlimitclinicclientsuspectnut |  
+| bip_39_word_no_space_11 | flameketchupspellfencetreatlimitclinicclientsuspectnutfox |  
+| bip_39_word_no_space_12 | flameketchupspellfencetreatlimitclinicclientsuspectnutfoxabsent |  
+| bip_39_word_no_space_2 | flameketchup |  
+| bip_39_word_no_space_3 | flameketchupspell |  
+| bip_39_word_no_space_4 | flameketchupspellfence |  
+| bip_39_word_no_space_5 | flameketchupspellfencetreat |  
+| bip_39_word_no_space_6 | flameketchupspellfencetreatlimit |  
+| bip_39_word_no_space_7 | flameketchupspellfencetreatlimitclinic |  
+| bip_39_word_no_space_8 | flameketchupspellfencetreatlimitclinicclient |  
+| bip_39_word_no_space_9 | flameketchupspellfencetreatlimitclinicclientsuspect |  
 | bip_39_word_space_0 | ['flame', 'ketchup', 'spell', 'fence', 'treat', 'limit', 'clinic', 'client', 'suspect', 'nut', 'fox', 'absent'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame ketchup spell fence treat limit clinic client suspect nut |  

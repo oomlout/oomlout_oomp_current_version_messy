@@ -122,6 +122,18 @@ home
 forum
 ski
 reopen |  
+| bip_39_word_no_space_1 | boil |  
+| bip_39_word_no_space_10 | boilsyrupillnessslotribhomeforumskireopenginger |  
+| bip_39_word_no_space_11 | boilsyrupillnessslotribhomeforumskireopengingeraddress |  
+| bip_39_word_no_space_12 | boilsyrupillnessslotribhomeforumskireopengingeraddressattract |  
+| bip_39_word_no_space_2 | boilsyrup |  
+| bip_39_word_no_space_3 | boilsyrupillness |  
+| bip_39_word_no_space_4 | boilsyrupillnessslot |  
+| bip_39_word_no_space_5 | boilsyrupillnessslotrib |  
+| bip_39_word_no_space_6 | boilsyrupillnessslotribhome |  
+| bip_39_word_no_space_7 | boilsyrupillnessslotribhomeforum |  
+| bip_39_word_no_space_8 | boilsyrupillnessslotribhomeforumski |  
+| bip_39_word_no_space_9 | boilsyrupillnessslotribhomeforumskireopen |  
 | bip_39_word_space_0 | ['boil', 'syrup', 'illness', 'slot', 'rib', 'home', 'forum', 'ski', 'reopen', 'ginger', 'address', 'attract'] |  
 | bip_39_word_space_1 | boil |  
 | bip_39_word_space_10 | boil syrup illness slot rib home forum ski reopen ginger |  

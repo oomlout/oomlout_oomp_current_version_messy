@@ -122,6 +122,18 @@ asset
 badge
 velvet
 south |  
+| bip_39_word_no_space_1 | section |  
+| bip_39_word_no_space_10 | sectionseminarstoneendlessbeyondassetbadgevelvetsouthlatin |  
+| bip_39_word_no_space_11 | sectionseminarstoneendlessbeyondassetbadgevelvetsouthlatinpoet |  
+| bip_39_word_no_space_12 | sectionseminarstoneendlessbeyondassetbadgevelvetsouthlatinpoetaccident |  
+| bip_39_word_no_space_2 | sectionseminar |  
+| bip_39_word_no_space_3 | sectionseminarstone |  
+| bip_39_word_no_space_4 | sectionseminarstoneendless |  
+| bip_39_word_no_space_5 | sectionseminarstoneendlessbeyond |  
+| bip_39_word_no_space_6 | sectionseminarstoneendlessbeyondasset |  
+| bip_39_word_no_space_7 | sectionseminarstoneendlessbeyondassetbadge |  
+| bip_39_word_no_space_8 | sectionseminarstoneendlessbeyondassetbadgevelvet |  
+| bip_39_word_no_space_9 | sectionseminarstoneendlessbeyondassetbadgevelvetsouth |  
 | bip_39_word_space_0 | ['section', 'seminar', 'stone', 'endless', 'beyond', 'asset', 'badge', 'velvet', 'south', 'latin', 'poet', 'accident'] |  
 | bip_39_word_space_1 | section |  
 | bip_39_word_space_10 | section seminar stone endless beyond asset badge velvet south latin |  

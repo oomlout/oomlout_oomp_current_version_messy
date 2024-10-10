@@ -122,6 +122,18 @@ daughter
 asthma
 bleak
 maple |  
+| bip_39_word_no_space_1 | social |  
+| bip_39_word_no_space_10 | socialtitlethriveeyebrowgarlicdaughterasthmableakmaplelobster |  
+| bip_39_word_no_space_11 | socialtitlethriveeyebrowgarlicdaughterasthmableakmaplelobsterglass |  
+| bip_39_word_no_space_12 | socialtitlethriveeyebrowgarlicdaughterasthmableakmaplelobsterglassalso |  
+| bip_39_word_no_space_2 | socialtitle |  
+| bip_39_word_no_space_3 | socialtitlethrive |  
+| bip_39_word_no_space_4 | socialtitlethriveeyebrow |  
+| bip_39_word_no_space_5 | socialtitlethriveeyebrowgarlic |  
+| bip_39_word_no_space_6 | socialtitlethriveeyebrowgarlicdaughter |  
+| bip_39_word_no_space_7 | socialtitlethriveeyebrowgarlicdaughterasthma |  
+| bip_39_word_no_space_8 | socialtitlethriveeyebrowgarlicdaughterasthmableak |  
+| bip_39_word_no_space_9 | socialtitlethriveeyebrowgarlicdaughterasthmableakmaple |  
 | bip_39_word_space_0 | ['social', 'title', 'thrive', 'eyebrow', 'garlic', 'daughter', 'asthma', 'bleak', 'maple', 'lobster', 'glass', 'also'] |  
 | bip_39_word_space_1 | social |  
 | bip_39_word_space_10 | social title thrive eyebrow garlic daughter asthma bleak maple lobster |  

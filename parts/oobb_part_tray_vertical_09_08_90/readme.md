@@ -122,6 +122,18 @@ keep
 riot
 salon
 post |  
+| bip_39_word_no_space_1 | tuna |  
+| bip_39_word_no_space_10 | tunaclothclerkoccurwrongkeepriotsalonpostaerobic |  
+| bip_39_word_no_space_11 | tunaclothclerkoccurwrongkeepriotsalonpostaerobicvolume |  
+| bip_39_word_no_space_12 | tunaclothclerkoccurwrongkeepriotsalonpostaerobicvolumealone |  
+| bip_39_word_no_space_2 | tunacloth |  
+| bip_39_word_no_space_3 | tunaclothclerk |  
+| bip_39_word_no_space_4 | tunaclothclerkoccur |  
+| bip_39_word_no_space_5 | tunaclothclerkoccurwrong |  
+| bip_39_word_no_space_6 | tunaclothclerkoccurwrongkeep |  
+| bip_39_word_no_space_7 | tunaclothclerkoccurwrongkeepriot |  
+| bip_39_word_no_space_8 | tunaclothclerkoccurwrongkeepriotsalon |  
+| bip_39_word_no_space_9 | tunaclothclerkoccurwrongkeepriotsalonpost |  
 | bip_39_word_space_0 | ['tuna', 'cloth', 'clerk', 'occur', 'wrong', 'keep', 'riot', 'salon', 'post', 'aerobic', 'volume', 'alone'] |  
 | bip_39_word_space_1 | tuna |  
 | bip_39_word_space_10 | tuna cloth clerk occur wrong keep riot salon post aerobic |  

@@ -122,6 +122,18 @@ unique
 bean
 federal
 elite |  
+| bip_39_word_no_space_1 | vault |  
+| bip_39_word_no_space_10 | vaultgeneralquantumrathershortuniquebeanfederalelitecrucial |  
+| bip_39_word_no_space_11 | vaultgeneralquantumrathershortuniquebeanfederalelitecrucialrobot |  
+| bip_39_word_no_space_12 | vaultgeneralquantumrathershortuniquebeanfederalelitecrucialrobotamateur |  
+| bip_39_word_no_space_2 | vaultgeneral |  
+| bip_39_word_no_space_3 | vaultgeneralquantum |  
+| bip_39_word_no_space_4 | vaultgeneralquantumrather |  
+| bip_39_word_no_space_5 | vaultgeneralquantumrathershort |  
+| bip_39_word_no_space_6 | vaultgeneralquantumrathershortunique |  
+| bip_39_word_no_space_7 | vaultgeneralquantumrathershortuniquebean |  
+| bip_39_word_no_space_8 | vaultgeneralquantumrathershortuniquebeanfederal |  
+| bip_39_word_no_space_9 | vaultgeneralquantumrathershortuniquebeanfederalelite |  
 | bip_39_word_space_0 | ['vault', 'general', 'quantum', 'rather', 'short', 'unique', 'bean', 'federal', 'elite', 'crucial', 'robot', 'amateur'] |  
 | bip_39_word_space_1 | vault |  
 | bip_39_word_space_10 | vault general quantum rather short unique bean federal elite crucial |  

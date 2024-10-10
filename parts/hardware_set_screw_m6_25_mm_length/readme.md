@@ -122,6 +122,18 @@ fatigue
 update
 cliff
 agree |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familyexamplekitepotterysickfatigueupdatecliffagreechimney |  
+| bip_39_word_no_space_11 | familyexamplekitepotterysickfatigueupdatecliffagreechimneybullet |  
+| bip_39_word_no_space_12 | familyexamplekitepotterysickfatigueupdatecliffagreechimneybulletaudit |  
+| bip_39_word_no_space_2 | familyexample |  
+| bip_39_word_no_space_3 | familyexamplekite |  
+| bip_39_word_no_space_4 | familyexamplekitepottery |  
+| bip_39_word_no_space_5 | familyexamplekitepotterysick |  
+| bip_39_word_no_space_6 | familyexamplekitepotterysickfatigue |  
+| bip_39_word_no_space_7 | familyexamplekitepotterysickfatigueupdate |  
+| bip_39_word_no_space_8 | familyexamplekitepotterysickfatigueupdatecliff |  
+| bip_39_word_no_space_9 | familyexamplekitepotterysickfatigueupdatecliffagree |  
 | bip_39_word_space_0 | ['family', 'example', 'kite', 'pottery', 'sick', 'fatigue', 'update', 'cliff', 'agree', 'chimney', 'bullet', 'audit'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family example kite pottery sick fatigue update cliff agree chimney |  

@@ -122,6 +122,18 @@ guess
 bulb
 steak
 spring |  
+| bip_39_word_no_space_1 | feature |  
+| bip_39_word_no_space_10 | featuremorninghubshieldwantguessbulbsteakspringprepare |  
+| bip_39_word_no_space_11 | featuremorninghubshieldwantguessbulbsteakspringprepareeye |  
+| bip_39_word_no_space_12 | featuremorninghubshieldwantguessbulbsteakspringprepareeyeachieve |  
+| bip_39_word_no_space_2 | featuremorning |  
+| bip_39_word_no_space_3 | featuremorninghub |  
+| bip_39_word_no_space_4 | featuremorninghubshield |  
+| bip_39_word_no_space_5 | featuremorninghubshieldwant |  
+| bip_39_word_no_space_6 | featuremorninghubshieldwantguess |  
+| bip_39_word_no_space_7 | featuremorninghubshieldwantguessbulb |  
+| bip_39_word_no_space_8 | featuremorninghubshieldwantguessbulbsteak |  
+| bip_39_word_no_space_9 | featuremorninghubshieldwantguessbulbsteakspring |  
 | bip_39_word_space_0 | ['feature', 'morning', 'hub', 'shield', 'want', 'guess', 'bulb', 'steak', 'spring', 'prepare', 'eye', 'achieve'] |  
 | bip_39_word_space_1 | feature |  
 | bip_39_word_space_10 | feature morning hub shield want guess bulb steak spring prepare |  

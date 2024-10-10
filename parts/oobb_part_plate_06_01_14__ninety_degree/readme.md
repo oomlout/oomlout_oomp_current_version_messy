@@ -122,6 +122,18 @@ nature
 boat
 coconut
 afraid |  
+| bip_39_word_no_space_1 | resource |  
+| bip_39_word_no_space_10 | resourcewordfoxpotteryaugustnatureboatcoconutafraidtourist |  
+| bip_39_word_no_space_11 | resourcewordfoxpotteryaugustnatureboatcoconutafraidtouristbalcony |  
+| bip_39_word_no_space_12 | resourcewordfoxpotteryaugustnatureboatcoconutafraidtouristbalconyanother |  
+| bip_39_word_no_space_2 | resourceword |  
+| bip_39_word_no_space_3 | resourcewordfox |  
+| bip_39_word_no_space_4 | resourcewordfoxpottery |  
+| bip_39_word_no_space_5 | resourcewordfoxpotteryaugust |  
+| bip_39_word_no_space_6 | resourcewordfoxpotteryaugustnature |  
+| bip_39_word_no_space_7 | resourcewordfoxpotteryaugustnatureboat |  
+| bip_39_word_no_space_8 | resourcewordfoxpotteryaugustnatureboatcoconut |  
+| bip_39_word_no_space_9 | resourcewordfoxpotteryaugustnatureboatcoconutafraid |  
 | bip_39_word_space_0 | ['resource', 'word', 'fox', 'pottery', 'august', 'nature', 'boat', 'coconut', 'afraid', 'tourist', 'balcony', 'another'] |  
 | bip_39_word_space_1 | resource |  
 | bip_39_word_space_10 | resource word fox pottery august nature boat coconut afraid tourist |  

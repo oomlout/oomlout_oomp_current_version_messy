@@ -122,6 +122,18 @@ donkey
 answer
 gauge
 notable |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | gloveappearbarusualveterandonkeyanswergaugenotableyear |  
+| bip_39_word_no_space_11 | gloveappearbarusualveterandonkeyanswergaugenotableyearkidney |  
+| bip_39_word_no_space_12 | gloveappearbarusualveterandonkeyanswergaugenotableyearkidneyaudit |  
+| bip_39_word_no_space_2 | gloveappear |  
+| bip_39_word_no_space_3 | gloveappearbar |  
+| bip_39_word_no_space_4 | gloveappearbarusual |  
+| bip_39_word_no_space_5 | gloveappearbarusualveteran |  
+| bip_39_word_no_space_6 | gloveappearbarusualveterandonkey |  
+| bip_39_word_no_space_7 | gloveappearbarusualveterandonkeyanswer |  
+| bip_39_word_no_space_8 | gloveappearbarusualveterandonkeyanswergauge |  
+| bip_39_word_no_space_9 | gloveappearbarusualveterandonkeyanswergaugenotable |  
 | bip_39_word_space_0 | ['glove', 'appear', 'bar', 'usual', 'veteran', 'donkey', 'answer', 'gauge', 'notable', 'year', 'kidney', 'audit'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove appear bar usual veteran donkey answer gauge notable year |  

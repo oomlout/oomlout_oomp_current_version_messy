@@ -122,6 +122,18 @@ tube
 mail
 pelican
 wink |  
+| bip_39_word_no_space_1 | balance |  
+| bip_39_word_no_space_10 | balancepalacetaskextraarmortubemailpelicanwinkcousin |  
+| bip_39_word_no_space_11 | balancepalacetaskextraarmortubemailpelicanwinkcousinfire |  
+| bip_39_word_no_space_12 | balancepalacetaskextraarmortubemailpelicanwinkcousinfirealbum |  
+| bip_39_word_no_space_2 | balancepalace |  
+| bip_39_word_no_space_3 | balancepalacetask |  
+| bip_39_word_no_space_4 | balancepalacetaskextra |  
+| bip_39_word_no_space_5 | balancepalacetaskextraarmor |  
+| bip_39_word_no_space_6 | balancepalacetaskextraarmortube |  
+| bip_39_word_no_space_7 | balancepalacetaskextraarmortubemail |  
+| bip_39_word_no_space_8 | balancepalacetaskextraarmortubemailpelican |  
+| bip_39_word_no_space_9 | balancepalacetaskextraarmortubemailpelicanwink |  
 | bip_39_word_space_0 | ['balance', 'palace', 'task', 'extra', 'armor', 'tube', 'mail', 'pelican', 'wink', 'cousin', 'fire', 'album'] |  
 | bip_39_word_space_1 | balance |  
 | bip_39_word_space_10 | balance palace task extra armor tube mail pelican wink cousin |  

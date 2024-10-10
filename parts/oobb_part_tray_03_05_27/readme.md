@@ -122,6 +122,18 @@ chicken
 media
 check
 unit |  
+| bip_39_word_no_space_1 | morning |  
+| bip_39_word_no_space_10 | morningproofmoviedoublefatchickenmediacheckunittomorrow |  
+| bip_39_word_no_space_11 | morningproofmoviedoublefatchickenmediacheckunittomorrowobject |  
+| bip_39_word_no_space_12 | morningproofmoviedoublefatchickenmediacheckunittomorrowobjectalarm |  
+| bip_39_word_no_space_2 | morningproof |  
+| bip_39_word_no_space_3 | morningproofmovie |  
+| bip_39_word_no_space_4 | morningproofmoviedouble |  
+| bip_39_word_no_space_5 | morningproofmoviedoublefat |  
+| bip_39_word_no_space_6 | morningproofmoviedoublefatchicken |  
+| bip_39_word_no_space_7 | morningproofmoviedoublefatchickenmedia |  
+| bip_39_word_no_space_8 | morningproofmoviedoublefatchickenmediacheck |  
+| bip_39_word_no_space_9 | morningproofmoviedoublefatchickenmediacheckunit |  
 | bip_39_word_space_0 | ['morning', 'proof', 'movie', 'double', 'fat', 'chicken', 'media', 'check', 'unit', 'tomorrow', 'object', 'alarm'] |  
 | bip_39_word_space_1 | morning |  
 | bip_39_word_space_10 | morning proof movie double fat chicken media check unit tomorrow |  

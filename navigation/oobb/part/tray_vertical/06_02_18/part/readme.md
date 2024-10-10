@@ -122,6 +122,18 @@ trip
 elevator
 enroll
 limit |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actionchronictoemetalmediatripelevatorenrolllimitwreck |  
+| bip_39_word_no_space_11 | actionchronictoemetalmediatripelevatorenrolllimitwreckfitness |  
+| bip_39_word_no_space_12 | actionchronictoemetalmediatripelevatorenrolllimitwreckfitnessabuse |  
+| bip_39_word_no_space_2 | actionchronic |  
+| bip_39_word_no_space_3 | actionchronictoe |  
+| bip_39_word_no_space_4 | actionchronictoemetal |  
+| bip_39_word_no_space_5 | actionchronictoemetalmedia |  
+| bip_39_word_no_space_6 | actionchronictoemetalmediatrip |  
+| bip_39_word_no_space_7 | actionchronictoemetalmediatripelevator |  
+| bip_39_word_no_space_8 | actionchronictoemetalmediatripelevatorenroll |  
+| bip_39_word_no_space_9 | actionchronictoemetalmediatripelevatorenrolllimit |  
 | bip_39_word_space_0 | ['action', 'chronic', 'toe', 'metal', 'media', 'trip', 'elevator', 'enroll', 'limit', 'wreck', 'fitness', 'abuse'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action chronic toe metal media trip elevator enroll limit wreck |  

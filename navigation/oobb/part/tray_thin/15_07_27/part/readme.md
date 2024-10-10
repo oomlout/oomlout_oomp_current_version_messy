@@ -122,6 +122,18 @@ lady
 primary
 ocean
 soap |  
+| bip_39_word_no_space_1 | roof |  
+| bip_39_word_no_space_10 | rooftrafficthemesecurityrecordladyprimaryoceansoapshy |  
+| bip_39_word_no_space_11 | rooftrafficthemesecurityrecordladyprimaryoceansoapshyyoung |  
+| bip_39_word_no_space_12 | rooftrafficthemesecurityrecordladyprimaryoceansoapshyyoungairport |  
+| bip_39_word_no_space_2 | rooftraffic |  
+| bip_39_word_no_space_3 | rooftraffictheme |  
+| bip_39_word_no_space_4 | rooftrafficthemesecurity |  
+| bip_39_word_no_space_5 | rooftrafficthemesecurityrecord |  
+| bip_39_word_no_space_6 | rooftrafficthemesecurityrecordlady |  
+| bip_39_word_no_space_7 | rooftrafficthemesecurityrecordladyprimary |  
+| bip_39_word_no_space_8 | rooftrafficthemesecurityrecordladyprimaryocean |  
+| bip_39_word_no_space_9 | rooftrafficthemesecurityrecordladyprimaryoceansoap |  
 | bip_39_word_space_0 | ['roof', 'traffic', 'theme', 'security', 'record', 'lady', 'primary', 'ocean', 'soap', 'shy', 'young', 'airport'] |  
 | bip_39_word_space_1 | roof |  
 | bip_39_word_space_10 | roof traffic theme security record lady primary ocean soap shy |  

@@ -122,6 +122,18 @@ nest
 fame
 veteran
 involve |  
+| bip_39_word_no_space_1 | digital |  
+| bip_39_word_no_space_10 | digitalrejectswimlittlekingdomnestfameveteraninvolveriver |  
+| bip_39_word_no_space_11 | digitalrejectswimlittlekingdomnestfameveteraninvolveriveremotion |  
+| bip_39_word_no_space_12 | digitalrejectswimlittlekingdomnestfameveteraninvolveriveremotionalert |  
+| bip_39_word_no_space_2 | digitalreject |  
+| bip_39_word_no_space_3 | digitalrejectswim |  
+| bip_39_word_no_space_4 | digitalrejectswimlittle |  
+| bip_39_word_no_space_5 | digitalrejectswimlittlekingdom |  
+| bip_39_word_no_space_6 | digitalrejectswimlittlekingdomnest |  
+| bip_39_word_no_space_7 | digitalrejectswimlittlekingdomnestfame |  
+| bip_39_word_no_space_8 | digitalrejectswimlittlekingdomnestfameveteran |  
+| bip_39_word_no_space_9 | digitalrejectswimlittlekingdomnestfameveteraninvolve |  
 | bip_39_word_space_0 | ['digital', 'reject', 'swim', 'little', 'kingdom', 'nest', 'fame', 'veteran', 'involve', 'river', 'emotion', 'alert'] |  
 | bip_39_word_space_1 | digital |  
 | bip_39_word_space_10 | digital reject swim little kingdom nest fame veteran involve river |  

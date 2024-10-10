@@ -122,6 +122,18 @@ undo
 hamster
 sketch
 royal |  
+| bip_39_word_no_space_1 | cause |  
+| bip_39_word_no_space_10 | causeshrimpunableactionslightundohamstersketchroyalpride |  
+| bip_39_word_no_space_11 | causeshrimpunableactionslightundohamstersketchroyalpridepink |  
+| bip_39_word_no_space_12 | causeshrimpunableactionslightundohamstersketchroyalpridepinkadd |  
+| bip_39_word_no_space_2 | causeshrimp |  
+| bip_39_word_no_space_3 | causeshrimpunable |  
+| bip_39_word_no_space_4 | causeshrimpunableaction |  
+| bip_39_word_no_space_5 | causeshrimpunableactionslight |  
+| bip_39_word_no_space_6 | causeshrimpunableactionslightundo |  
+| bip_39_word_no_space_7 | causeshrimpunableactionslightundohamster |  
+| bip_39_word_no_space_8 | causeshrimpunableactionslightundohamstersketch |  
+| bip_39_word_no_space_9 | causeshrimpunableactionslightundohamstersketchroyal |  
 | bip_39_word_space_0 | ['cause', 'shrimp', 'unable', 'action', 'slight', 'undo', 'hamster', 'sketch', 'royal', 'pride', 'pink', 'add'] |  
 | bip_39_word_space_1 | cause |  
 | bip_39_word_space_10 | cause shrimp unable action slight undo hamster sketch royal pride |  

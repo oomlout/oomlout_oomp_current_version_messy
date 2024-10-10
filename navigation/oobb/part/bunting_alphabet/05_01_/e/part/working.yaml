@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mouse
   spray
 
   badge'
+bip_39_word_no_space_1: mouse
+bip_39_word_no_space_10: mousemultiplyfunnewsspicematrixemployspraybadgeshoulder
+bip_39_word_no_space_11: mousemultiplyfunnewsspicematrixemployspraybadgeshouldernation
+bip_39_word_no_space_12: mousemultiplyfunnewsspicematrixemployspraybadgeshouldernationartist
+bip_39_word_no_space_2: mousemultiply
+bip_39_word_no_space_3: mousemultiplyfun
+bip_39_word_no_space_4: mousemultiplyfunnews
+bip_39_word_no_space_5: mousemultiplyfunnewsspice
+bip_39_word_no_space_6: mousemultiplyfunnewsspicematrix
+bip_39_word_no_space_7: mousemultiplyfunnewsspicematrixemploy
+bip_39_word_no_space_8: mousemultiplyfunnewsspicematrixemployspray
+bip_39_word_no_space_9: mousemultiplyfunnewsspicematrixemployspraybadge
 bip_39_word_space_0:
 - mouse
 - multiply

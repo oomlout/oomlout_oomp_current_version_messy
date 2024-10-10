@@ -122,6 +122,18 @@ blanket
 tired
 job
 such |  
+| bip_39_word_no_space_1 | ask |  
+| bip_39_word_no_space_10 | asksatoshiscreenrackcandyblankettiredjobsuchpage |  
+| bip_39_word_no_space_11 | asksatoshiscreenrackcandyblankettiredjobsuchpagetwo |  
+| bip_39_word_no_space_12 | asksatoshiscreenrackcandyblankettiredjobsuchpagetwoaugust |  
+| bip_39_word_no_space_2 | asksatoshi |  
+| bip_39_word_no_space_3 | asksatoshiscreen |  
+| bip_39_word_no_space_4 | asksatoshiscreenrack |  
+| bip_39_word_no_space_5 | asksatoshiscreenrackcandy |  
+| bip_39_word_no_space_6 | asksatoshiscreenrackcandyblanket |  
+| bip_39_word_no_space_7 | asksatoshiscreenrackcandyblankettired |  
+| bip_39_word_no_space_8 | asksatoshiscreenrackcandyblankettiredjob |  
+| bip_39_word_no_space_9 | asksatoshiscreenrackcandyblankettiredjobsuch |  
 | bip_39_word_space_0 | ['ask', 'satoshi', 'screen', 'rack', 'candy', 'blanket', 'tired', 'job', 'such', 'page', 'two', 'august'] |  
 | bip_39_word_space_1 | ask |  
 | bip_39_word_space_10 | ask satoshi screen rack candy blanket tired job such page |  

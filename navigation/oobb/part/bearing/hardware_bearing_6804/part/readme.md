@@ -122,6 +122,18 @@ buzz
 credit
 feature
 fit |  
+| bip_39_word_no_space_1 | glare |  
+| bip_39_word_no_space_10 | glaremaddesertgrabadaptbuzzcreditfeaturefitidentify |  
+| bip_39_word_no_space_11 | glaremaddesertgrabadaptbuzzcreditfeaturefitidentifychunk |  
+| bip_39_word_no_space_12 | glaremaddesertgrabadaptbuzzcreditfeaturefitidentifychunkamateur |  
+| bip_39_word_no_space_2 | glaremad |  
+| bip_39_word_no_space_3 | glaremaddesert |  
+| bip_39_word_no_space_4 | glaremaddesertgrab |  
+| bip_39_word_no_space_5 | glaremaddesertgrabadapt |  
+| bip_39_word_no_space_6 | glaremaddesertgrabadaptbuzz |  
+| bip_39_word_no_space_7 | glaremaddesertgrabadaptbuzzcredit |  
+| bip_39_word_no_space_8 | glaremaddesertgrabadaptbuzzcreditfeature |  
+| bip_39_word_no_space_9 | glaremaddesertgrabadaptbuzzcreditfeaturefit |  
 | bip_39_word_space_0 | ['glare', 'mad', 'desert', 'grab', 'adapt', 'buzz', 'credit', 'feature', 'fit', 'identify', 'chunk', 'amateur'] |  
 | bip_39_word_space_1 | glare |  
 | bip_39_word_space_10 | glare mad desert grab adapt buzz credit feature fit identify |  

@@ -122,6 +122,18 @@ issue
 emotion
 photo
 only |  
+| bip_39_word_no_space_1 | risk |  
+| bip_39_word_no_space_10 | riskhollowcapabledoubleindicateissueemotionphotoonlysteel |  
+| bip_39_word_no_space_11 | riskhollowcapabledoubleindicateissueemotionphotoonlysteeltop |  
+| bip_39_word_no_space_12 | riskhollowcapabledoubleindicateissueemotionphotoonlysteeltopalter |  
+| bip_39_word_no_space_2 | riskhollow |  
+| bip_39_word_no_space_3 | riskhollowcapable |  
+| bip_39_word_no_space_4 | riskhollowcapabledouble |  
+| bip_39_word_no_space_5 | riskhollowcapabledoubleindicate |  
+| bip_39_word_no_space_6 | riskhollowcapabledoubleindicateissue |  
+| bip_39_word_no_space_7 | riskhollowcapabledoubleindicateissueemotion |  
+| bip_39_word_no_space_8 | riskhollowcapabledoubleindicateissueemotionphoto |  
+| bip_39_word_no_space_9 | riskhollowcapabledoubleindicateissueemotionphotoonly |  
 | bip_39_word_space_0 | ['risk', 'hollow', 'capable', 'double', 'indicate', 'issue', 'emotion', 'photo', 'only', 'steel', 'top', 'alter'] |  
 | bip_39_word_space_1 | risk |  
 | bip_39_word_space_10 | risk hollow capable double indicate issue emotion photo only steel |  

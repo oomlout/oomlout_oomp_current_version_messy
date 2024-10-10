@@ -122,6 +122,18 @@ umbrella
 rack
 element
 gossip |  
+| bip_39_word_no_space_1 | dentist |  
+| bip_39_word_no_space_10 | dentistprettyblushhotelaccessumbrellarackelementgossipbenefit |  
+| bip_39_word_no_space_11 | dentistprettyblushhotelaccessumbrellarackelementgossipbenefitworry |  
+| bip_39_word_no_space_12 | dentistprettyblushhotelaccessumbrellarackelementgossipbenefitworryauto |  
+| bip_39_word_no_space_2 | dentistpretty |  
+| bip_39_word_no_space_3 | dentistprettyblush |  
+| bip_39_word_no_space_4 | dentistprettyblushhotel |  
+| bip_39_word_no_space_5 | dentistprettyblushhotelaccess |  
+| bip_39_word_no_space_6 | dentistprettyblushhotelaccessumbrella |  
+| bip_39_word_no_space_7 | dentistprettyblushhotelaccessumbrellarack |  
+| bip_39_word_no_space_8 | dentistprettyblushhotelaccessumbrellarackelement |  
+| bip_39_word_no_space_9 | dentistprettyblushhotelaccessumbrellarackelementgossip |  
 | bip_39_word_space_0 | ['dentist', 'pretty', 'blush', 'hotel', 'access', 'umbrella', 'rack', 'element', 'gossip', 'benefit', 'worry', 'auto'] |  
 | bip_39_word_space_1 | dentist |  
 | bip_39_word_space_10 | dentist pretty blush hotel access umbrella rack element gossip benefit |  

@@ -122,6 +122,18 @@ leisure
 current
 patrol
 scout |  
+| bip_39_word_no_space_1 | win |  
+| bip_39_word_no_space_10 | winfixoctobergrowpeopleleisurecurrentpatrolscoutdrive |  
+| bip_39_word_no_space_11 | winfixoctobergrowpeopleleisurecurrentpatrolscoutdriveflag |  
+| bip_39_word_no_space_12 | winfixoctobergrowpeopleleisurecurrentpatrolscoutdriveflagacid |  
+| bip_39_word_no_space_2 | winfix |  
+| bip_39_word_no_space_3 | winfixoctober |  
+| bip_39_word_no_space_4 | winfixoctobergrow |  
+| bip_39_word_no_space_5 | winfixoctobergrowpeople |  
+| bip_39_word_no_space_6 | winfixoctobergrowpeopleleisure |  
+| bip_39_word_no_space_7 | winfixoctobergrowpeopleleisurecurrent |  
+| bip_39_word_no_space_8 | winfixoctobergrowpeopleleisurecurrentpatrol |  
+| bip_39_word_no_space_9 | winfixoctobergrowpeopleleisurecurrentpatrolscout |  
 | bip_39_word_space_0 | ['win', 'fix', 'october', 'grow', 'people', 'leisure', 'current', 'patrol', 'scout', 'drive', 'flag', 'acid'] |  
 | bip_39_word_space_1 | win |  
 | bip_39_word_space_10 | win fix october grow people leisure current patrol scout drive |  

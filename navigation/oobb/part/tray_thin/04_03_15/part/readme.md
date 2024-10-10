@@ -122,6 +122,18 @@ pipe
 start
 quiz
 film |  
+| bip_39_word_no_space_1 | alter |  
+| bip_39_word_no_space_10 | alteranswerupholdleafdinnerpipestartquizfilmspider |  
+| bip_39_word_no_space_11 | alteranswerupholdleafdinnerpipestartquizfilmspiderslogan |  
+| bip_39_word_no_space_12 | alteranswerupholdleafdinnerpipestartquizfilmspidersloganamazing |  
+| bip_39_word_no_space_2 | alteranswer |  
+| bip_39_word_no_space_3 | alteransweruphold |  
+| bip_39_word_no_space_4 | alteranswerupholdleaf |  
+| bip_39_word_no_space_5 | alteranswerupholdleafdinner |  
+| bip_39_word_no_space_6 | alteranswerupholdleafdinnerpipe |  
+| bip_39_word_no_space_7 | alteranswerupholdleafdinnerpipestart |  
+| bip_39_word_no_space_8 | alteranswerupholdleafdinnerpipestartquiz |  
+| bip_39_word_no_space_9 | alteranswerupholdleafdinnerpipestartquizfilm |  
 | bip_39_word_space_0 | ['alter', 'answer', 'uphold', 'leaf', 'dinner', 'pipe', 'start', 'quiz', 'film', 'spider', 'slogan', 'amazing'] |  
 | bip_39_word_space_1 | alter |  
 | bip_39_word_space_10 | alter answer uphold leaf dinner pipe start quiz film spider |  

@@ -122,6 +122,18 @@ spread
 curious
 never
 accident |  
+| bip_39_word_no_space_1 | arrange |  
+| bip_39_word_no_space_10 | arrangeboxcasualreleaserememberspreadcuriousneveraccidentunable |  
+| bip_39_word_no_space_11 | arrangeboxcasualreleaserememberspreadcuriousneveraccidentunableboil |  
+| bip_39_word_no_space_12 | arrangeboxcasualreleaserememberspreadcuriousneveraccidentunableboilalone |  
+| bip_39_word_no_space_2 | arrangebox |  
+| bip_39_word_no_space_3 | arrangeboxcasual |  
+| bip_39_word_no_space_4 | arrangeboxcasualrelease |  
+| bip_39_word_no_space_5 | arrangeboxcasualreleaseremember |  
+| bip_39_word_no_space_6 | arrangeboxcasualreleaserememberspread |  
+| bip_39_word_no_space_7 | arrangeboxcasualreleaserememberspreadcurious |  
+| bip_39_word_no_space_8 | arrangeboxcasualreleaserememberspreadcuriousnever |  
+| bip_39_word_no_space_9 | arrangeboxcasualreleaserememberspreadcuriousneveraccident |  
 | bip_39_word_space_0 | ['arrange', 'box', 'casual', 'release', 'remember', 'spread', 'curious', 'never', 'accident', 'unable', 'boil', 'alone'] |  
 | bip_39_word_space_1 | arrange |  
 | bip_39_word_space_10 | arrange box casual release remember spread curious never accident unable |  

@@ -122,6 +122,18 @@ tube
 sketch
 escape
 same |  
+| bip_39_word_no_space_1 | huge |  
+| bip_39_word_no_space_10 | hugeinfantshovepoleillnesstubesketchescapesametarget |  
+| bip_39_word_no_space_11 | hugeinfantshovepoleillnesstubesketchescapesametargetshare |  
+| bip_39_word_no_space_12 | hugeinfantshovepoleillnesstubesketchescapesametargetshareability |  
+| bip_39_word_no_space_2 | hugeinfant |  
+| bip_39_word_no_space_3 | hugeinfantshove |  
+| bip_39_word_no_space_4 | hugeinfantshovepole |  
+| bip_39_word_no_space_5 | hugeinfantshovepoleillness |  
+| bip_39_word_no_space_6 | hugeinfantshovepoleillnesstube |  
+| bip_39_word_no_space_7 | hugeinfantshovepoleillnesstubesketch |  
+| bip_39_word_no_space_8 | hugeinfantshovepoleillnesstubesketchescape |  
+| bip_39_word_no_space_9 | hugeinfantshovepoleillnesstubesketchescapesame |  
 | bip_39_word_space_0 | ['huge', 'infant', 'shove', 'pole', 'illness', 'tube', 'sketch', 'escape', 'same', 'target', 'share', 'ability'] |  
 | bip_39_word_space_1 | huge |  
 | bip_39_word_space_10 | huge infant shove pole illness tube sketch escape same target |  

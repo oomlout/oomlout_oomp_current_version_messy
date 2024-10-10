@@ -122,6 +122,18 @@ wolf
 once
 sing
 notable |  
+| bip_39_word_no_space_1 | absent |  
+| bip_39_word_no_space_10 | absentpurposemixcrackwidthwolfoncesingnotablescale |  
+| bip_39_word_no_space_11 | absentpurposemixcrackwidthwolfoncesingnotablescaleevolve |  
+| bip_39_word_no_space_12 | absentpurposemixcrackwidthwolfoncesingnotablescaleevolveannounce |  
+| bip_39_word_no_space_2 | absentpurpose |  
+| bip_39_word_no_space_3 | absentpurposemix |  
+| bip_39_word_no_space_4 | absentpurposemixcrack |  
+| bip_39_word_no_space_5 | absentpurposemixcrackwidth |  
+| bip_39_word_no_space_6 | absentpurposemixcrackwidthwolf |  
+| bip_39_word_no_space_7 | absentpurposemixcrackwidthwolfonce |  
+| bip_39_word_no_space_8 | absentpurposemixcrackwidthwolfoncesing |  
+| bip_39_word_no_space_9 | absentpurposemixcrackwidthwolfoncesingnotable |  
 | bip_39_word_space_0 | ['absent', 'purpose', 'mix', 'crack', 'width', 'wolf', 'once', 'sing', 'notable', 'scale', 'evolve', 'announce'] |  
 | bip_39_word_space_1 | absent |  
 | bip_39_word_space_10 | absent purpose mix crack width wolf once sing notable scale |  

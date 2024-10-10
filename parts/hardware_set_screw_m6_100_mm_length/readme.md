@@ -122,6 +122,18 @@ museum
 extra
 spare
 repeat |  
+| bip_39_word_no_space_1 | promote |  
+| bip_39_word_no_space_10 | promoteunlocklanguagesoulrallymuseumextrasparerepeatdrink |  
+| bip_39_word_no_space_11 | promoteunlocklanguagesoulrallymuseumextrasparerepeatdrinktypical |  
+| bip_39_word_no_space_12 | promoteunlocklanguagesoulrallymuseumextrasparerepeatdrinktypicalaudit |  
+| bip_39_word_no_space_2 | promoteunlock |  
+| bip_39_word_no_space_3 | promoteunlocklanguage |  
+| bip_39_word_no_space_4 | promoteunlocklanguagesoul |  
+| bip_39_word_no_space_5 | promoteunlocklanguagesoulrally |  
+| bip_39_word_no_space_6 | promoteunlocklanguagesoulrallymuseum |  
+| bip_39_word_no_space_7 | promoteunlocklanguagesoulrallymuseumextra |  
+| bip_39_word_no_space_8 | promoteunlocklanguagesoulrallymuseumextraspare |  
+| bip_39_word_no_space_9 | promoteunlocklanguagesoulrallymuseumextrasparerepeat |  
 | bip_39_word_space_0 | ['promote', 'unlock', 'language', 'soul', 'rally', 'museum', 'extra', 'spare', 'repeat', 'drink', 'typical', 'audit'] |  
 | bip_39_word_space_1 | promote |  
 | bip_39_word_space_10 | promote unlock language soul rally museum extra spare repeat drink |  

@@ -122,6 +122,18 @@ awful
 lunch
 peace
 speak |  
+| bip_39_word_no_space_1 | prefer |  
+| bip_39_word_no_space_10 | prefercricketgospellicensegrowawfullunchpeacespeakrabbit |  
+| bip_39_word_no_space_11 | prefercricketgospellicensegrowawfullunchpeacespeakrabbithair |  
+| bip_39_word_no_space_12 | prefercricketgospellicensegrowawfullunchpeacespeakrabbithairagent |  
+| bip_39_word_no_space_2 | prefercricket |  
+| bip_39_word_no_space_3 | prefercricketgospel |  
+| bip_39_word_no_space_4 | prefercricketgospellicense |  
+| bip_39_word_no_space_5 | prefercricketgospellicensegrow |  
+| bip_39_word_no_space_6 | prefercricketgospellicensegrowawful |  
+| bip_39_word_no_space_7 | prefercricketgospellicensegrowawfullunch |  
+| bip_39_word_no_space_8 | prefercricketgospellicensegrowawfullunchpeace |  
+| bip_39_word_no_space_9 | prefercricketgospellicensegrowawfullunchpeacespeak |  
 | bip_39_word_space_0 | ['prefer', 'cricket', 'gospel', 'license', 'grow', 'awful', 'lunch', 'peace', 'speak', 'rabbit', 'hair', 'agent'] |  
 | bip_39_word_space_1 | prefer |  
 | bip_39_word_space_10 | prefer cricket gospel license grow awful lunch peace speak rabbit |  

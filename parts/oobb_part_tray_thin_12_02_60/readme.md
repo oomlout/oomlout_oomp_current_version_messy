@@ -122,6 +122,18 @@ empower
 tiger
 age
 better |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | memberharborglobemoveholidayempowertigeragebettergoddess |  
+| bip_39_word_no_space_11 | memberharborglobemoveholidayempowertigeragebettergoddessarmed |  
+| bip_39_word_no_space_12 | memberharborglobemoveholidayempowertigeragebettergoddessarmedassist |  
+| bip_39_word_no_space_2 | memberharbor |  
+| bip_39_word_no_space_3 | memberharborglobe |  
+| bip_39_word_no_space_4 | memberharborglobemove |  
+| bip_39_word_no_space_5 | memberharborglobemoveholiday |  
+| bip_39_word_no_space_6 | memberharborglobemoveholidayempower |  
+| bip_39_word_no_space_7 | memberharborglobemoveholidayempowertiger |  
+| bip_39_word_no_space_8 | memberharborglobemoveholidayempowertigerage |  
+| bip_39_word_no_space_9 | memberharborglobemoveholidayempowertigeragebetter |  
 | bip_39_word_space_0 | ['member', 'harbor', 'globe', 'move', 'holiday', 'empower', 'tiger', 'age', 'better', 'goddess', 'armed', 'assist'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member harbor globe move holiday empower tiger age better goddess |  

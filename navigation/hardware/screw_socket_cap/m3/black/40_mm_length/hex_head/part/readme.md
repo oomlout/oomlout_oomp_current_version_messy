@@ -122,6 +122,18 @@ domain
 govern
 lecture
 tomato |  
+| bip_39_word_no_space_1 | length |  
+| bip_39_word_no_space_10 | lengthcitytapechaosrepairdomaingovernlecturetomatoribbon |  
+| bip_39_word_no_space_11 | lengthcitytapechaosrepairdomaingovernlecturetomatoribbonopinion |  
+| bip_39_word_no_space_12 | lengthcitytapechaosrepairdomaingovernlecturetomatoribbonopinionanger |  
+| bip_39_word_no_space_2 | lengthcity |  
+| bip_39_word_no_space_3 | lengthcitytape |  
+| bip_39_word_no_space_4 | lengthcitytapechaos |  
+| bip_39_word_no_space_5 | lengthcitytapechaosrepair |  
+| bip_39_word_no_space_6 | lengthcitytapechaosrepairdomain |  
+| bip_39_word_no_space_7 | lengthcitytapechaosrepairdomaingovern |  
+| bip_39_word_no_space_8 | lengthcitytapechaosrepairdomaingovernlecture |  
+| bip_39_word_no_space_9 | lengthcitytapechaosrepairdomaingovernlecturetomato |  
 | bip_39_word_space_0 | ['length', 'city', 'tape', 'chaos', 'repair', 'domain', 'govern', 'lecture', 'tomato', 'ribbon', 'opinion', 'anger'] |  
 | bip_39_word_space_1 | length |  
 | bip_39_word_space_10 | length city tape chaos repair domain govern lecture tomato ribbon |  

@@ -122,6 +122,18 @@ raw
 wrist
 capital
 gentle |  
+| bip_39_word_no_space_1 | huge |  
+| bip_39_word_no_space_10 | hugeeastdiaryguitardonorrawwristcapitalgentlesoap |  
+| bip_39_word_no_space_11 | hugeeastdiaryguitardonorrawwristcapitalgentlesoapdad |  
+| bip_39_word_no_space_12 | hugeeastdiaryguitardonorrawwristcapitalgentlesoapdadalmost |  
+| bip_39_word_no_space_2 | hugeeast |  
+| bip_39_word_no_space_3 | hugeeastdiary |  
+| bip_39_word_no_space_4 | hugeeastdiaryguitar |  
+| bip_39_word_no_space_5 | hugeeastdiaryguitardonor |  
+| bip_39_word_no_space_6 | hugeeastdiaryguitardonorraw |  
+| bip_39_word_no_space_7 | hugeeastdiaryguitardonorrawwrist |  
+| bip_39_word_no_space_8 | hugeeastdiaryguitardonorrawwristcapital |  
+| bip_39_word_no_space_9 | hugeeastdiaryguitardonorrawwristcapitalgentle |  
 | bip_39_word_space_0 | ['huge', 'east', 'diary', 'guitar', 'donor', 'raw', 'wrist', 'capital', 'gentle', 'soap', 'dad', 'almost'] |  
 | bip_39_word_space_1 | huge |  
 | bip_39_word_space_10 | huge east diary guitar donor raw wrist capital gentle soap |  

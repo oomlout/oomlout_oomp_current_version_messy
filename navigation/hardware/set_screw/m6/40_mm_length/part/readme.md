@@ -122,6 +122,18 @@ slam
 diet
 lunch
 excite |  
+| bip_39_word_no_space_1 | wolf |  
+| bip_39_word_no_space_10 | wolfanimalslamrecycleeconomyslamdietlunchexcitetrumpet |  
+| bip_39_word_no_space_11 | wolfanimalslamrecycleeconomyslamdietlunchexcitetrumpetivory |  
+| bip_39_word_no_space_12 | wolfanimalslamrecycleeconomyslamdietlunchexcitetrumpetivoryasset |  
+| bip_39_word_no_space_2 | wolfanimal |  
+| bip_39_word_no_space_3 | wolfanimalslam |  
+| bip_39_word_no_space_4 | wolfanimalslamrecycle |  
+| bip_39_word_no_space_5 | wolfanimalslamrecycleeconomy |  
+| bip_39_word_no_space_6 | wolfanimalslamrecycleeconomyslam |  
+| bip_39_word_no_space_7 | wolfanimalslamrecycleeconomyslamdiet |  
+| bip_39_word_no_space_8 | wolfanimalslamrecycleeconomyslamdietlunch |  
+| bip_39_word_no_space_9 | wolfanimalslamrecycleeconomyslamdietlunchexcite |  
 | bip_39_word_space_0 | ['wolf', 'animal', 'slam', 'recycle', 'economy', 'slam', 'diet', 'lunch', 'excite', 'trumpet', 'ivory', 'asset'] |  
 | bip_39_word_space_1 | wolf |  
 | bip_39_word_space_10 | wolf animal slam recycle economy slam diet lunch excite trumpet |  

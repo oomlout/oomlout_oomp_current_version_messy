@@ -122,6 +122,18 @@ almost
 economy
 cycle
 style |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallypupilhiredwarfpioneeralmosteconomycyclestylecloth |  
+| bip_39_word_no_space_11 | rallypupilhiredwarfpioneeralmosteconomycyclestyleclothbasket |  
+| bip_39_word_no_space_12 | rallypupilhiredwarfpioneeralmosteconomycyclestyleclothbasketaccident |  
+| bip_39_word_no_space_2 | rallypupil |  
+| bip_39_word_no_space_3 | rallypupilhire |  
+| bip_39_word_no_space_4 | rallypupilhiredwarf |  
+| bip_39_word_no_space_5 | rallypupilhiredwarfpioneer |  
+| bip_39_word_no_space_6 | rallypupilhiredwarfpioneeralmost |  
+| bip_39_word_no_space_7 | rallypupilhiredwarfpioneeralmosteconomy |  
+| bip_39_word_no_space_8 | rallypupilhiredwarfpioneeralmosteconomycycle |  
+| bip_39_word_no_space_9 | rallypupilhiredwarfpioneeralmosteconomycyclestyle |  
 | bip_39_word_space_0 | ['rally', 'pupil', 'hire', 'dwarf', 'pioneer', 'almost', 'economy', 'cycle', 'style', 'cloth', 'basket', 'accident'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally pupil hire dwarf pioneer almost economy cycle style cloth |  

@@ -122,6 +122,18 @@ actress
 bomb
 creek
 host |  
+| bip_39_word_no_space_1 | moment |  
+| bip_39_word_no_space_10 | momentpeanutsevenflushfacultyactressbombcreekhostordinary |  
+| bip_39_word_no_space_11 | momentpeanutsevenflushfacultyactressbombcreekhostordinarygovern |  
+| bip_39_word_no_space_12 | momentpeanutsevenflushfacultyactressbombcreekhostordinarygovernanxiety |  
+| bip_39_word_no_space_2 | momentpeanut |  
+| bip_39_word_no_space_3 | momentpeanutseven |  
+| bip_39_word_no_space_4 | momentpeanutsevenflush |  
+| bip_39_word_no_space_5 | momentpeanutsevenflushfaculty |  
+| bip_39_word_no_space_6 | momentpeanutsevenflushfacultyactress |  
+| bip_39_word_no_space_7 | momentpeanutsevenflushfacultyactressbomb |  
+| bip_39_word_no_space_8 | momentpeanutsevenflushfacultyactressbombcreek |  
+| bip_39_word_no_space_9 | momentpeanutsevenflushfacultyactressbombcreekhost |  
 | bip_39_word_space_0 | ['moment', 'peanut', 'seven', 'flush', 'faculty', 'actress', 'bomb', 'creek', 'host', 'ordinary', 'govern', 'anxiety'] |  
 | bip_39_word_space_1 | moment |  
 | bip_39_word_space_10 | moment peanut seven flush faculty actress bomb creek host ordinary |  

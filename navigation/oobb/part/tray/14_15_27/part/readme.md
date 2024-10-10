@@ -122,6 +122,18 @@ jacket
 gentle
 innocent
 merit |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampcollectauctionattractfiscaljacketgentleinnocentmeritshoot |  
+| bip_39_word_no_space_11 | stampcollectauctionattractfiscaljacketgentleinnocentmeritshootbelow |  
+| bip_39_word_no_space_12 | stampcollectauctionattractfiscaljacketgentleinnocentmeritshootbelowangry |  
+| bip_39_word_no_space_2 | stampcollect |  
+| bip_39_word_no_space_3 | stampcollectauction |  
+| bip_39_word_no_space_4 | stampcollectauctionattract |  
+| bip_39_word_no_space_5 | stampcollectauctionattractfiscal |  
+| bip_39_word_no_space_6 | stampcollectauctionattractfiscaljacket |  
+| bip_39_word_no_space_7 | stampcollectauctionattractfiscaljacketgentle |  
+| bip_39_word_no_space_8 | stampcollectauctionattractfiscaljacketgentleinnocent |  
+| bip_39_word_no_space_9 | stampcollectauctionattractfiscaljacketgentleinnocentmerit |  
 | bip_39_word_space_0 | ['stamp', 'collect', 'auction', 'attract', 'fiscal', 'jacket', 'gentle', 'innocent', 'merit', 'shoot', 'below', 'angry'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp collect auction attract fiscal jacket gentle innocent merit shoot |  

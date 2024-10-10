@@ -122,6 +122,18 @@ prevent
 normal
 spare
 second |  
+| bip_39_word_no_space_1 | category |  
+| bip_39_word_no_space_10 | categorytrayprizementioncustompreventnormalsparesecondbefore |  
+| bip_39_word_no_space_11 | categorytrayprizementioncustompreventnormalsparesecondbeforealcohol |  
+| bip_39_word_no_space_12 | categorytrayprizementioncustompreventnormalsparesecondbeforealcoholactress |  
+| bip_39_word_no_space_2 | categorytray |  
+| bip_39_word_no_space_3 | categorytrayprize |  
+| bip_39_word_no_space_4 | categorytrayprizemention |  
+| bip_39_word_no_space_5 | categorytrayprizementioncustom |  
+| bip_39_word_no_space_6 | categorytrayprizementioncustomprevent |  
+| bip_39_word_no_space_7 | categorytrayprizementioncustompreventnormal |  
+| bip_39_word_no_space_8 | categorytrayprizementioncustompreventnormalspare |  
+| bip_39_word_no_space_9 | categorytrayprizementioncustompreventnormalsparesecond |  
 | bip_39_word_space_0 | ['category', 'tray', 'prize', 'mention', 'custom', 'prevent', 'normal', 'spare', 'second', 'before', 'alcohol', 'actress'] |  
 | bip_39_word_space_1 | category |  
 | bip_39_word_space_10 | category tray prize mention custom prevent normal spare second before |  

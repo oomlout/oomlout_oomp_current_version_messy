@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'timber
   swim
 
   drama'
+bip_39_word_no_space_1: timber
+bip_39_word_no_space_10: timberwrestlecallquantumdoveantennaovalswimdramagaze
+bip_39_word_no_space_11: timberwrestlecallquantumdoveantennaovalswimdramagazecrane
+bip_39_word_no_space_12: timberwrestlecallquantumdoveantennaovalswimdramagazecraneanchor
+bip_39_word_no_space_2: timberwrestle
+bip_39_word_no_space_3: timberwrestlecall
+bip_39_word_no_space_4: timberwrestlecallquantum
+bip_39_word_no_space_5: timberwrestlecallquantumdove
+bip_39_word_no_space_6: timberwrestlecallquantumdoveantenna
+bip_39_word_no_space_7: timberwrestlecallquantumdoveantennaoval
+bip_39_word_no_space_8: timberwrestlecallquantumdoveantennaovalswim
+bip_39_word_no_space_9: timberwrestlecallquantumdoveantennaovalswimdrama
 bip_39_word_space_0:
 - timber
 - wrestle

@@ -122,6 +122,18 @@ scene
 success
 lamp
 ten |  
+| bip_39_word_no_space_1 | potato |  
+| bip_39_word_no_space_10 | potatosideprojectlibrarywinescenesuccesslamptendiary |  
+| bip_39_word_no_space_11 | potatosideprojectlibrarywinescenesuccesslamptendiaryroom |  
+| bip_39_word_no_space_12 | potatosideprojectlibrarywinescenesuccesslamptendiaryroomact |  
+| bip_39_word_no_space_2 | potatoside |  
+| bip_39_word_no_space_3 | potatosideproject |  
+| bip_39_word_no_space_4 | potatosideprojectlibrary |  
+| bip_39_word_no_space_5 | potatosideprojectlibrarywine |  
+| bip_39_word_no_space_6 | potatosideprojectlibrarywinescene |  
+| bip_39_word_no_space_7 | potatosideprojectlibrarywinescenesuccess |  
+| bip_39_word_no_space_8 | potatosideprojectlibrarywinescenesuccesslamp |  
+| bip_39_word_no_space_9 | potatosideprojectlibrarywinescenesuccesslampten |  
 | bip_39_word_space_0 | ['potato', 'side', 'project', 'library', 'wine', 'scene', 'success', 'lamp', 'ten', 'diary', 'room', 'act'] |  
 | bip_39_word_space_1 | potato |  
 | bip_39_word_space_10 | potato side project library wine scene success lamp ten diary |  

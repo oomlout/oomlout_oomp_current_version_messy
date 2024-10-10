@@ -122,6 +122,18 @@ merge
 response
 better
 unfold |  
+| bip_39_word_no_space_1 | stairs |  
+| bip_39_word_no_space_10 | stairsgreencloseanalysteithermergeresponsebetterunfoldrather |  
+| bip_39_word_no_space_11 | stairsgreencloseanalysteithermergeresponsebetterunfoldratherswallow |  
+| bip_39_word_no_space_12 | stairsgreencloseanalysteithermergeresponsebetterunfoldratherswallowactress |  
+| bip_39_word_no_space_2 | stairsgreen |  
+| bip_39_word_no_space_3 | stairsgreenclose |  
+| bip_39_word_no_space_4 | stairsgreencloseanalyst |  
+| bip_39_word_no_space_5 | stairsgreencloseanalysteither |  
+| bip_39_word_no_space_6 | stairsgreencloseanalysteithermerge |  
+| bip_39_word_no_space_7 | stairsgreencloseanalysteithermergeresponse |  
+| bip_39_word_no_space_8 | stairsgreencloseanalysteithermergeresponsebetter |  
+| bip_39_word_no_space_9 | stairsgreencloseanalysteithermergeresponsebetterunfold |  
 | bip_39_word_space_0 | ['stairs', 'green', 'close', 'analyst', 'either', 'merge', 'response', 'better', 'unfold', 'rather', 'swallow', 'actress'] |  
 | bip_39_word_space_1 | stairs |  
 | bip_39_word_space_10 | stairs green close analyst either merge response better unfold rather |  

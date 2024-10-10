@@ -122,6 +122,18 @@ faint
 wrestle
 filter
 cabin |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltgenremakesituateunderfaintwrestlefiltercabintonight |  
+| bip_39_word_no_space_11 | beltgenremakesituateunderfaintwrestlefiltercabintonightdecade |  
+| bip_39_word_no_space_12 | beltgenremakesituateunderfaintwrestlefiltercabintonightdecadealso |  
+| bip_39_word_no_space_2 | beltgenre |  
+| bip_39_word_no_space_3 | beltgenremake |  
+| bip_39_word_no_space_4 | beltgenremakesituate |  
+| bip_39_word_no_space_5 | beltgenremakesituateunder |  
+| bip_39_word_no_space_6 | beltgenremakesituateunderfaint |  
+| bip_39_word_no_space_7 | beltgenremakesituateunderfaintwrestle |  
+| bip_39_word_no_space_8 | beltgenremakesituateunderfaintwrestlefilter |  
+| bip_39_word_no_space_9 | beltgenremakesituateunderfaintwrestlefiltercabin |  
 | bip_39_word_space_0 | ['belt', 'genre', 'make', 'situate', 'under', 'faint', 'wrestle', 'filter', 'cabin', 'tonight', 'decade', 'also'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt genre make situate under faint wrestle filter cabin tonight |  

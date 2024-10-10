@@ -122,6 +122,18 @@ eight
 cricket
 rhythm
 thought |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancesongpausebeyondradareightcricketrhythmthoughtcasual |  
+| bip_39_word_no_space_11 | dancesongpausebeyondradareightcricketrhythmthoughtcasualquiz |  
+| bip_39_word_no_space_12 | dancesongpausebeyondradareightcricketrhythmthoughtcasualquizalways |  
+| bip_39_word_no_space_2 | dancesong |  
+| bip_39_word_no_space_3 | dancesongpause |  
+| bip_39_word_no_space_4 | dancesongpausebeyond |  
+| bip_39_word_no_space_5 | dancesongpausebeyondradar |  
+| bip_39_word_no_space_6 | dancesongpausebeyondradareight |  
+| bip_39_word_no_space_7 | dancesongpausebeyondradareightcricket |  
+| bip_39_word_no_space_8 | dancesongpausebeyondradareightcricketrhythm |  
+| bip_39_word_no_space_9 | dancesongpausebeyondradareightcricketrhythmthought |  
 | bip_39_word_space_0 | ['dance', 'song', 'pause', 'beyond', 'radar', 'eight', 'cricket', 'rhythm', 'thought', 'casual', 'quiz', 'always'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance song pause beyond radar eight cricket rhythm thought casual |  

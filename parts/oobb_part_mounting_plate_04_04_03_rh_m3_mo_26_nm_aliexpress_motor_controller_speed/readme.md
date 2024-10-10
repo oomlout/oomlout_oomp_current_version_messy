@@ -122,6 +122,18 @@ act
 appear
 clerk
 vessel |  
+| bip_39_word_no_space_1 | fun |  
+| bip_39_word_no_space_10 | funarrowtryshytrashactappearclerkvesselsurround |  
+| bip_39_word_no_space_11 | funarrowtryshytrashactappearclerkvesselsurroundnose |  
+| bip_39_word_no_space_12 | funarrowtryshytrashactappearclerkvesselsurroundnoseask |  
+| bip_39_word_no_space_2 | funarrow |  
+| bip_39_word_no_space_3 | funarrowtry |  
+| bip_39_word_no_space_4 | funarrowtryshy |  
+| bip_39_word_no_space_5 | funarrowtryshytrash |  
+| bip_39_word_no_space_6 | funarrowtryshytrashact |  
+| bip_39_word_no_space_7 | funarrowtryshytrashactappear |  
+| bip_39_word_no_space_8 | funarrowtryshytrashactappearclerk |  
+| bip_39_word_no_space_9 | funarrowtryshytrashactappearclerkvessel |  
 | bip_39_word_space_0 | ['fun', 'arrow', 'try', 'shy', 'trash', 'act', 'appear', 'clerk', 'vessel', 'surround', 'nose', 'ask'] |  
 | bip_39_word_space_1 | fun |  
 | bip_39_word_space_10 | fun arrow try shy trash act appear clerk vessel surround |  

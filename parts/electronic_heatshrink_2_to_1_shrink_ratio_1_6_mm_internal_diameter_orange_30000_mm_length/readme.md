@@ -122,6 +122,18 @@ deer
 middle
 judge
 critic |  
+| bip_39_word_no_space_1 | art |  
+| bip_39_word_no_space_10 | artbetweensillyuselessquotedeermiddlejudgecriticalbum |  
+| bip_39_word_no_space_11 | artbetweensillyuselessquotedeermiddlejudgecriticalbumpair |  
+| bip_39_word_no_space_12 | artbetweensillyuselessquotedeermiddlejudgecriticalbumpairalso |  
+| bip_39_word_no_space_2 | artbetween |  
+| bip_39_word_no_space_3 | artbetweensilly |  
+| bip_39_word_no_space_4 | artbetweensillyuseless |  
+| bip_39_word_no_space_5 | artbetweensillyuselessquote |  
+| bip_39_word_no_space_6 | artbetweensillyuselessquotedeer |  
+| bip_39_word_no_space_7 | artbetweensillyuselessquotedeermiddle |  
+| bip_39_word_no_space_8 | artbetweensillyuselessquotedeermiddlejudge |  
+| bip_39_word_no_space_9 | artbetweensillyuselessquotedeermiddlejudgecritic |  
 | bip_39_word_space_0 | ['art', 'between', 'silly', 'useless', 'quote', 'deer', 'middle', 'judge', 'critic', 'album', 'pair', 'also'] |  
 | bip_39_word_space_1 | art |  
 | bip_39_word_space_10 | art between silly useless quote deer middle judge critic album |  

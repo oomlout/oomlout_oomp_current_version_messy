@@ -122,6 +122,18 @@ double
 spy
 destroy
 motion |  
+| bip_39_word_no_space_1 | achieve |  
+| bip_39_word_no_space_10 | achieveenactanxietyfrowncerealdoublespydestroymotionbasic |  
+| bip_39_word_no_space_11 | achieveenactanxietyfrowncerealdoublespydestroymotionbasicgossip |  
+| bip_39_word_no_space_12 | achieveenactanxietyfrowncerealdoublespydestroymotionbasicgossipaspect |  
+| bip_39_word_no_space_2 | achieveenact |  
+| bip_39_word_no_space_3 | achieveenactanxiety |  
+| bip_39_word_no_space_4 | achieveenactanxietyfrown |  
+| bip_39_word_no_space_5 | achieveenactanxietyfrowncereal |  
+| bip_39_word_no_space_6 | achieveenactanxietyfrowncerealdouble |  
+| bip_39_word_no_space_7 | achieveenactanxietyfrowncerealdoublespy |  
+| bip_39_word_no_space_8 | achieveenactanxietyfrowncerealdoublespydestroy |  
+| bip_39_word_no_space_9 | achieveenactanxietyfrowncerealdoublespydestroymotion |  
 | bip_39_word_space_0 | ['achieve', 'enact', 'anxiety', 'frown', 'cereal', 'double', 'spy', 'destroy', 'motion', 'basic', 'gossip', 'aspect'] |  
 | bip_39_word_space_1 | achieve |  
 | bip_39_word_space_10 | achieve enact anxiety frown cereal double spy destroy motion basic |  

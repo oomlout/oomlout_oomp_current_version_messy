@@ -122,6 +122,18 @@ left
 stumble
 obey
 ethics |  
+| bip_39_word_no_space_1 | ethics |  
+| bip_39_word_no_space_10 | ethicsspawnrecallfamespiceleftstumbleobeyethicscrowd |  
+| bip_39_word_no_space_11 | ethicsspawnrecallfamespiceleftstumbleobeyethicscrowdenable |  
+| bip_39_word_no_space_12 | ethicsspawnrecallfamespiceleftstumbleobeyethicscrowdenableabuse |  
+| bip_39_word_no_space_2 | ethicsspawn |  
+| bip_39_word_no_space_3 | ethicsspawnrecall |  
+| bip_39_word_no_space_4 | ethicsspawnrecallfame |  
+| bip_39_word_no_space_5 | ethicsspawnrecallfamespice |  
+| bip_39_word_no_space_6 | ethicsspawnrecallfamespiceleft |  
+| bip_39_word_no_space_7 | ethicsspawnrecallfamespiceleftstumble |  
+| bip_39_word_no_space_8 | ethicsspawnrecallfamespiceleftstumbleobey |  
+| bip_39_word_no_space_9 | ethicsspawnrecallfamespiceleftstumbleobeyethics |  
 | bip_39_word_space_0 | ['ethics', 'spawn', 'recall', 'fame', 'spice', 'left', 'stumble', 'obey', 'ethics', 'crowd', 'enable', 'abuse'] |  
 | bip_39_word_space_1 | ethics |  
 | bip_39_word_space_10 | ethics spawn recall fame spice left stumble obey ethics crowd |  

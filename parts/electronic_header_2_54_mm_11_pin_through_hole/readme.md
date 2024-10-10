@@ -122,6 +122,18 @@ blur
 loop
 ribbon
 hip |  
+| bip_39_word_no_space_1 | fashion |  
+| bip_39_word_no_space_10 | fashionepisodeautoattracthealthblurloopribbonhipstaff |  
+| bip_39_word_no_space_11 | fashionepisodeautoattracthealthblurloopribbonhipstaffdrift |  
+| bip_39_word_no_space_12 | fashionepisodeautoattracthealthblurloopribbonhipstaffdriftapart |  
+| bip_39_word_no_space_2 | fashionepisode |  
+| bip_39_word_no_space_3 | fashionepisodeauto |  
+| bip_39_word_no_space_4 | fashionepisodeautoattract |  
+| bip_39_word_no_space_5 | fashionepisodeautoattracthealth |  
+| bip_39_word_no_space_6 | fashionepisodeautoattracthealthblur |  
+| bip_39_word_no_space_7 | fashionepisodeautoattracthealthblurloop |  
+| bip_39_word_no_space_8 | fashionepisodeautoattracthealthblurloopribbon |  
+| bip_39_word_no_space_9 | fashionepisodeautoattracthealthblurloopribbonhip |  
 | bip_39_word_space_0 | ['fashion', 'episode', 'auto', 'attract', 'health', 'blur', 'loop', 'ribbon', 'hip', 'staff', 'drift', 'apart'] |  
 | bip_39_word_space_1 | fashion |  
 | bip_39_word_space_10 | fashion episode auto attract health blur loop ribbon hip staff |  

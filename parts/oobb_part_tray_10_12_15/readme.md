@@ -122,6 +122,18 @@ poverty
 until
 garage
 mystery |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorboostcurvesmartlavapovertyuntilgaragemysteryintact |  
+| bip_39_word_no_space_11 | floorboostcurvesmartlavapovertyuntilgaragemysteryintactnut |  
+| bip_39_word_no_space_12 | floorboostcurvesmartlavapovertyuntilgaragemysteryintactnutalmost |  
+| bip_39_word_no_space_2 | floorboost |  
+| bip_39_word_no_space_3 | floorboostcurve |  
+| bip_39_word_no_space_4 | floorboostcurvesmart |  
+| bip_39_word_no_space_5 | floorboostcurvesmartlava |  
+| bip_39_word_no_space_6 | floorboostcurvesmartlavapoverty |  
+| bip_39_word_no_space_7 | floorboostcurvesmartlavapovertyuntil |  
+| bip_39_word_no_space_8 | floorboostcurvesmartlavapovertyuntilgarage |  
+| bip_39_word_no_space_9 | floorboostcurvesmartlavapovertyuntilgaragemystery |  
 | bip_39_word_space_0 | ['floor', 'boost', 'curve', 'smart', 'lava', 'poverty', 'until', 'garage', 'mystery', 'intact', 'nut', 'almost'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor boost curve smart lava poverty until garage mystery intact |  

@@ -122,6 +122,18 @@ nerve
 beef
 knock
 exist |  
+| bip_39_word_no_space_1 | friend |  
+| bip_39_word_no_space_10 | friendviewtrimshallowleisurenervebeefknockexistbreeze |  
+| bip_39_word_no_space_11 | friendviewtrimshallowleisurenervebeefknockexistbreezemeadow |  
+| bip_39_word_no_space_12 | friendviewtrimshallowleisurenervebeefknockexistbreezemeadowargue |  
+| bip_39_word_no_space_2 | friendview |  
+| bip_39_word_no_space_3 | friendviewtrim |  
+| bip_39_word_no_space_4 | friendviewtrimshallow |  
+| bip_39_word_no_space_5 | friendviewtrimshallowleisure |  
+| bip_39_word_no_space_6 | friendviewtrimshallowleisurenerve |  
+| bip_39_word_no_space_7 | friendviewtrimshallowleisurenervebeef |  
+| bip_39_word_no_space_8 | friendviewtrimshallowleisurenervebeefknock |  
+| bip_39_word_no_space_9 | friendviewtrimshallowleisurenervebeefknockexist |  
 | bip_39_word_space_0 | ['friend', 'view', 'trim', 'shallow', 'leisure', 'nerve', 'beef', 'knock', 'exist', 'breeze', 'meadow', 'argue'] |  
 | bip_39_word_space_1 | friend |  
 | bip_39_word_space_10 | friend view trim shallow leisure nerve beef knock exist breeze |  

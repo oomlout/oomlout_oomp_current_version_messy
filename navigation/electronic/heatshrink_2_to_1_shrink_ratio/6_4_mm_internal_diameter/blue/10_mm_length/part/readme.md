@@ -122,6 +122,18 @@ trend
 throw
 tuna
 shock |  
+| bip_39_word_no_space_1 | champion |  
+| bip_39_word_no_space_10 | championpotatovitalinvolveratetrendthrowtunashockillness |  
+| bip_39_word_no_space_11 | championpotatovitalinvolveratetrendthrowtunashockillnesssubway |  
+| bip_39_word_no_space_12 | championpotatovitalinvolveratetrendthrowtunashockillnesssubwayantenna |  
+| bip_39_word_no_space_2 | championpotato |  
+| bip_39_word_no_space_3 | championpotatovital |  
+| bip_39_word_no_space_4 | championpotatovitalinvolve |  
+| bip_39_word_no_space_5 | championpotatovitalinvolverate |  
+| bip_39_word_no_space_6 | championpotatovitalinvolveratetrend |  
+| bip_39_word_no_space_7 | championpotatovitalinvolveratetrendthrow |  
+| bip_39_word_no_space_8 | championpotatovitalinvolveratetrendthrowtuna |  
+| bip_39_word_no_space_9 | championpotatovitalinvolveratetrendthrowtunashock |  
 | bip_39_word_space_0 | ['champion', 'potato', 'vital', 'involve', 'rate', 'trend', 'throw', 'tuna', 'shock', 'illness', 'subway', 'antenna'] |  
 | bip_39_word_space_1 | champion |  
 | bip_39_word_space_10 | champion potato vital involve rate trend throw tuna shock illness |  

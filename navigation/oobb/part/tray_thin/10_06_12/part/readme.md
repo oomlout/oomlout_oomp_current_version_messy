@@ -122,6 +122,18 @@ april
 inquiry
 cage
 animal |  
+| bip_39_word_no_space_1 | vanish |  
+| bip_39_word_no_space_10 | vanishcongressmomentroundsouthaprilinquirycageanimalabove |  
+| bip_39_word_no_space_11 | vanishcongressmomentroundsouthaprilinquirycageanimalabovescrub |  
+| bip_39_word_no_space_12 | vanishcongressmomentroundsouthaprilinquirycageanimalabovescrubagain |  
+| bip_39_word_no_space_2 | vanishcongress |  
+| bip_39_word_no_space_3 | vanishcongressmoment |  
+| bip_39_word_no_space_4 | vanishcongressmomentround |  
+| bip_39_word_no_space_5 | vanishcongressmomentroundsouth |  
+| bip_39_word_no_space_6 | vanishcongressmomentroundsouthapril |  
+| bip_39_word_no_space_7 | vanishcongressmomentroundsouthaprilinquiry |  
+| bip_39_word_no_space_8 | vanishcongressmomentroundsouthaprilinquirycage |  
+| bip_39_word_no_space_9 | vanishcongressmomentroundsouthaprilinquirycageanimal |  
 | bip_39_word_space_0 | ['vanish', 'congress', 'moment', 'round', 'south', 'april', 'inquiry', 'cage', 'animal', 'above', 'scrub', 'again'] |  
 | bip_39_word_space_1 | vanish |  
 | bip_39_word_space_10 | vanish congress moment round south april inquiry cage animal above |  

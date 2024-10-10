@@ -122,6 +122,18 @@ senior
 tuition
 blast
 brass |  
+| bip_39_word_no_space_1 | tail |  
+| bip_39_word_no_space_10 | tailcarglueenrollevolveseniortuitionblastbrassvacant |  
+| bip_39_word_no_space_11 | tailcarglueenrollevolveseniortuitionblastbrassvacanttruth |  
+| bip_39_word_no_space_12 | tailcarglueenrollevolveseniortuitionblastbrassvacanttruthauction |  
+| bip_39_word_no_space_2 | tailcar |  
+| bip_39_word_no_space_3 | tailcarglue |  
+| bip_39_word_no_space_4 | tailcarglueenroll |  
+| bip_39_word_no_space_5 | tailcarglueenrollevolve |  
+| bip_39_word_no_space_6 | tailcarglueenrollevolvesenior |  
+| bip_39_word_no_space_7 | tailcarglueenrollevolveseniortuition |  
+| bip_39_word_no_space_8 | tailcarglueenrollevolveseniortuitionblast |  
+| bip_39_word_no_space_9 | tailcarglueenrollevolveseniortuitionblastbrass |  
 | bip_39_word_space_0 | ['tail', 'car', 'glue', 'enroll', 'evolve', 'senior', 'tuition', 'blast', 'brass', 'vacant', 'truth', 'auction'] |  
 | bip_39_word_space_1 | tail |  
 | bip_39_word_space_10 | tail car glue enroll evolve senior tuition blast brass vacant |  

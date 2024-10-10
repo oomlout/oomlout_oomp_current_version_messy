@@ -122,6 +122,18 @@ repair
 rice
 bird
 design |  
+| bip_39_word_no_space_1 | into |  
+| bip_39_word_no_space_10 | intounfoldgorillafaultleafrepairricebirddesignapart |  
+| bip_39_word_no_space_11 | intounfoldgorillafaultleafrepairricebirddesignapartpig |  
+| bip_39_word_no_space_12 | intounfoldgorillafaultleafrepairricebirddesignapartpigancient |  
+| bip_39_word_no_space_2 | intounfold |  
+| bip_39_word_no_space_3 | intounfoldgorilla |  
+| bip_39_word_no_space_4 | intounfoldgorillafault |  
+| bip_39_word_no_space_5 | intounfoldgorillafaultleaf |  
+| bip_39_word_no_space_6 | intounfoldgorillafaultleafrepair |  
+| bip_39_word_no_space_7 | intounfoldgorillafaultleafrepairrice |  
+| bip_39_word_no_space_8 | intounfoldgorillafaultleafrepairricebird |  
+| bip_39_word_no_space_9 | intounfoldgorillafaultleafrepairricebirddesign |  
 | bip_39_word_space_0 | ['into', 'unfold', 'gorilla', 'fault', 'leaf', 'repair', 'rice', 'bird', 'design', 'apart', 'pig', 'ancient'] |  
 | bip_39_word_space_1 | into |  
 | bip_39_word_space_10 | into unfold gorilla fault leaf repair rice bird design apart |  

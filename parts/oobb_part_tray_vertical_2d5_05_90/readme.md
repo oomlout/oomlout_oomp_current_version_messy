@@ -122,6 +122,18 @@ kangaroo
 feed
 poet
 deny |  
+| bip_39_word_no_space_1 | robot |  
+| bip_39_word_no_space_10 | robotbasketcruelhurtframekangaroofeedpoetdenyintact |  
+| bip_39_word_no_space_11 | robotbasketcruelhurtframekangaroofeedpoetdenyintactwrestle |  
+| bip_39_word_no_space_12 | robotbasketcruelhurtframekangaroofeedpoetdenyintactwrestleabuse |  
+| bip_39_word_no_space_2 | robotbasket |  
+| bip_39_word_no_space_3 | robotbasketcruel |  
+| bip_39_word_no_space_4 | robotbasketcruelhurt |  
+| bip_39_word_no_space_5 | robotbasketcruelhurtframe |  
+| bip_39_word_no_space_6 | robotbasketcruelhurtframekangaroo |  
+| bip_39_word_no_space_7 | robotbasketcruelhurtframekangaroofeed |  
+| bip_39_word_no_space_8 | robotbasketcruelhurtframekangaroofeedpoet |  
+| bip_39_word_no_space_9 | robotbasketcruelhurtframekangaroofeedpoetdeny |  
 | bip_39_word_space_0 | ['robot', 'basket', 'cruel', 'hurt', 'frame', 'kangaroo', 'feed', 'poet', 'deny', 'intact', 'wrestle', 'abuse'] |  
 | bip_39_word_space_1 | robot |  
 | bip_39_word_space_10 | robot basket cruel hurt frame kangaroo feed poet deny intact |  

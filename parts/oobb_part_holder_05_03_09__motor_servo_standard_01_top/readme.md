@@ -122,6 +122,18 @@ perfect
 connect
 spawn
 dinosaur |  
+| bip_39_word_no_space_1 | flag |  
+| bip_39_word_no_space_10 | flagbabystemfacewoodperfectconnectspawndinosaurbread |  
+| bip_39_word_no_space_11 | flagbabystemfacewoodperfectconnectspawndinosaurbreadbenefit |  
+| bip_39_word_no_space_12 | flagbabystemfacewoodperfectconnectspawndinosaurbreadbenefitarch |  
+| bip_39_word_no_space_2 | flagbaby |  
+| bip_39_word_no_space_3 | flagbabystem |  
+| bip_39_word_no_space_4 | flagbabystemface |  
+| bip_39_word_no_space_5 | flagbabystemfacewood |  
+| bip_39_word_no_space_6 | flagbabystemfacewoodperfect |  
+| bip_39_word_no_space_7 | flagbabystemfacewoodperfectconnect |  
+| bip_39_word_no_space_8 | flagbabystemfacewoodperfectconnectspawn |  
+| bip_39_word_no_space_9 | flagbabystemfacewoodperfectconnectspawndinosaur |  
 | bip_39_word_space_0 | ['flag', 'baby', 'stem', 'face', 'wood', 'perfect', 'connect', 'spawn', 'dinosaur', 'bread', 'benefit', 'arch'] |  
 | bip_39_word_space_1 | flag |  
 | bip_39_word_space_10 | flag baby stem face wood perfect connect spawn dinosaur bread |  

@@ -122,6 +122,18 @@ orchard
 harbor
 clog
 print |  
+| bip_39_word_no_space_1 | bridge |  
+| bip_39_word_no_space_10 | bridgeshieldmiserycanyonapproveorchardharborclogprintchef |  
+| bip_39_word_no_space_11 | bridgeshieldmiserycanyonapproveorchardharborclogprintchefenhance |  
+| bip_39_word_no_space_12 | bridgeshieldmiserycanyonapproveorchardharborclogprintchefenhanceamused |  
+| bip_39_word_no_space_2 | bridgeshield |  
+| bip_39_word_no_space_3 | bridgeshieldmisery |  
+| bip_39_word_no_space_4 | bridgeshieldmiserycanyon |  
+| bip_39_word_no_space_5 | bridgeshieldmiserycanyonapprove |  
+| bip_39_word_no_space_6 | bridgeshieldmiserycanyonapproveorchard |  
+| bip_39_word_no_space_7 | bridgeshieldmiserycanyonapproveorchardharbor |  
+| bip_39_word_no_space_8 | bridgeshieldmiserycanyonapproveorchardharborclog |  
+| bip_39_word_no_space_9 | bridgeshieldmiserycanyonapproveorchardharborclogprint |  
 | bip_39_word_space_0 | ['bridge', 'shield', 'misery', 'canyon', 'approve', 'orchard', 'harbor', 'clog', 'print', 'chef', 'enhance', 'amused'] |  
 | bip_39_word_space_1 | bridge |  
 | bip_39_word_space_10 | bridge shield misery canyon approve orchard harbor clog print chef |  

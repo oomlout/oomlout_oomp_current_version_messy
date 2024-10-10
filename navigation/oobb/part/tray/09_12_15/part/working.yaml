@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'strong
   click
 
   gun'
+bip_39_word_no_space_1: strong
+bip_39_word_no_space_10: strongplaceshopoakpraiseconsiderwallclickgunpush
+bip_39_word_no_space_11: strongplaceshopoakpraiseconsiderwallclickgunpushalbum
+bip_39_word_no_space_12: strongplaceshopoakpraiseconsiderwallclickgunpushalbumannual
+bip_39_word_no_space_2: strongplace
+bip_39_word_no_space_3: strongplaceshop
+bip_39_word_no_space_4: strongplaceshopoak
+bip_39_word_no_space_5: strongplaceshopoakpraise
+bip_39_word_no_space_6: strongplaceshopoakpraiseconsider
+bip_39_word_no_space_7: strongplaceshopoakpraiseconsiderwall
+bip_39_word_no_space_8: strongplaceshopoakpraiseconsiderwallclick
+bip_39_word_no_space_9: strongplaceshopoakpraiseconsiderwallclickgun
 bip_39_word_space_0:
 - strong
 - place

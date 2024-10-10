@@ -122,6 +122,18 @@ drill
 cup
 put
 exclude |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblesuccessdefineliarostrichdrillcupputexcludematerial |  
+| bip_39_word_no_space_11 | resemblesuccessdefineliarostrichdrillcupputexcludematerialpeople |  
+| bip_39_word_no_space_12 | resemblesuccessdefineliarostrichdrillcupputexcludematerialpeopleauto |  
+| bip_39_word_no_space_2 | resemblesuccess |  
+| bip_39_word_no_space_3 | resemblesuccessdefine |  
+| bip_39_word_no_space_4 | resemblesuccessdefineliar |  
+| bip_39_word_no_space_5 | resemblesuccessdefineliarostrich |  
+| bip_39_word_no_space_6 | resemblesuccessdefineliarostrichdrill |  
+| bip_39_word_no_space_7 | resemblesuccessdefineliarostrichdrillcup |  
+| bip_39_word_no_space_8 | resemblesuccessdefineliarostrichdrillcupput |  
+| bip_39_word_no_space_9 | resemblesuccessdefineliarostrichdrillcupputexclude |  
 | bip_39_word_space_0 | ['resemble', 'success', 'define', 'liar', 'ostrich', 'drill', 'cup', 'put', 'exclude', 'material', 'people', 'auto'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble success define liar ostrich drill cup put exclude material |  

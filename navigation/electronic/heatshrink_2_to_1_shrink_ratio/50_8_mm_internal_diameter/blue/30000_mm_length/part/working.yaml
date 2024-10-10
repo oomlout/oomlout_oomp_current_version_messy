@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'main
   involve
 
   nerve'
+bip_39_word_no_space_1: main
+bip_39_word_no_space_10: mainboxmarketreviewegginnocentblushinvolvenervefee
+bip_39_word_no_space_11: mainboxmarketreviewegginnocentblushinvolvenervefeespike
+bip_39_word_no_space_12: mainboxmarketreviewegginnocentblushinvolvenervefeespikeact
+bip_39_word_no_space_2: mainbox
+bip_39_word_no_space_3: mainboxmarket
+bip_39_word_no_space_4: mainboxmarketreview
+bip_39_word_no_space_5: mainboxmarketreviewegg
+bip_39_word_no_space_6: mainboxmarketreviewegginnocent
+bip_39_word_no_space_7: mainboxmarketreviewegginnocentblush
+bip_39_word_no_space_8: mainboxmarketreviewegginnocentblushinvolve
+bip_39_word_no_space_9: mainboxmarketreviewegginnocentblushinvolvenerve
 bip_39_word_space_0:
 - main
 - box

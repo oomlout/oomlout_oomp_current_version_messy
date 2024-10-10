@@ -122,6 +122,18 @@ flame
 funny
 depth
 salute |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualtobaccojourneyoutsidesummerflamefunnydepthsalutetop |  
+| bip_39_word_no_space_11 | visualtobaccojourneyoutsidesummerflamefunnydepthsalutetopfeed |  
+| bip_39_word_no_space_12 | visualtobaccojourneyoutsidesummerflamefunnydepthsalutetopfeedapple |  
+| bip_39_word_no_space_2 | visualtobacco |  
+| bip_39_word_no_space_3 | visualtobaccojourney |  
+| bip_39_word_no_space_4 | visualtobaccojourneyoutside |  
+| bip_39_word_no_space_5 | visualtobaccojourneyoutsidesummer |  
+| bip_39_word_no_space_6 | visualtobaccojourneyoutsidesummerflame |  
+| bip_39_word_no_space_7 | visualtobaccojourneyoutsidesummerflamefunny |  
+| bip_39_word_no_space_8 | visualtobaccojourneyoutsidesummerflamefunnydepth |  
+| bip_39_word_no_space_9 | visualtobaccojourneyoutsidesummerflamefunnydepthsalute |  
 | bip_39_word_space_0 | ['visual', 'tobacco', 'journey', 'outside', 'summer', 'flame', 'funny', 'depth', 'salute', 'top', 'feed', 'apple'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual tobacco journey outside summer flame funny depth salute top |  

@@ -122,6 +122,18 @@ polar
 problem
 hole
 smart |  
+| bip_39_word_no_space_1 | unaware |  
+| bip_39_word_no_space_10 | unawareissuehuntfetchsituatepolarproblemholesmarttoday |  
+| bip_39_word_no_space_11 | unawareissuehuntfetchsituatepolarproblemholesmarttodayonce |  
+| bip_39_word_no_space_12 | unawareissuehuntfetchsituatepolarproblemholesmarttodayonceaffair |  
+| bip_39_word_no_space_2 | unawareissue |  
+| bip_39_word_no_space_3 | unawareissuehunt |  
+| bip_39_word_no_space_4 | unawareissuehuntfetch |  
+| bip_39_word_no_space_5 | unawareissuehuntfetchsituate |  
+| bip_39_word_no_space_6 | unawareissuehuntfetchsituatepolar |  
+| bip_39_word_no_space_7 | unawareissuehuntfetchsituatepolarproblem |  
+| bip_39_word_no_space_8 | unawareissuehuntfetchsituatepolarproblemhole |  
+| bip_39_word_no_space_9 | unawareissuehuntfetchsituatepolarproblemholesmart |  
 | bip_39_word_space_0 | ['unaware', 'issue', 'hunt', 'fetch', 'situate', 'polar', 'problem', 'hole', 'smart', 'today', 'once', 'affair'] |  
 | bip_39_word_space_1 | unaware |  
 | bip_39_word_space_10 | unaware issue hunt fetch situate polar problem hole smart today |  

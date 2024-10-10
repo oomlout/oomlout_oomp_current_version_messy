@@ -122,6 +122,18 @@ social
 chat
 pass
 fuel |  
+| bip_39_word_no_space_1 | hundred |  
+| bip_39_word_no_space_10 | hundredvocalrunonerecipesocialchatpassfuelrange |  
+| bip_39_word_no_space_11 | hundredvocalrunonerecipesocialchatpassfuelrangeadult |  
+| bip_39_word_no_space_12 | hundredvocalrunonerecipesocialchatpassfuelrangeadultafraid |  
+| bip_39_word_no_space_2 | hundredvocal |  
+| bip_39_word_no_space_3 | hundredvocalrun |  
+| bip_39_word_no_space_4 | hundredvocalrunone |  
+| bip_39_word_no_space_5 | hundredvocalrunonerecipe |  
+| bip_39_word_no_space_6 | hundredvocalrunonerecipesocial |  
+| bip_39_word_no_space_7 | hundredvocalrunonerecipesocialchat |  
+| bip_39_word_no_space_8 | hundredvocalrunonerecipesocialchatpass |  
+| bip_39_word_no_space_9 | hundredvocalrunonerecipesocialchatpassfuel |  
 | bip_39_word_space_0 | ['hundred', 'vocal', 'run', 'one', 'recipe', 'social', 'chat', 'pass', 'fuel', 'range', 'adult', 'afraid'] |  
 | bip_39_word_space_1 | hundred |  
 | bip_39_word_space_10 | hundred vocal run one recipe social chat pass fuel range |  

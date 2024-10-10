@@ -122,6 +122,18 @@ original
 diet
 goat
 need |  
+| bip_39_word_no_space_1 | apple |  
+| bip_39_word_no_space_10 | appleexpresssquirreldaringoliveoriginaldietgoatneedsnow |  
+| bip_39_word_no_space_11 | appleexpresssquirreldaringoliveoriginaldietgoatneedsnowpossible |  
+| bip_39_word_no_space_12 | appleexpresssquirreldaringoliveoriginaldietgoatneedsnowpossibleamong |  
+| bip_39_word_no_space_2 | appleexpress |  
+| bip_39_word_no_space_3 | appleexpresssquirrel |  
+| bip_39_word_no_space_4 | appleexpresssquirreldaring |  
+| bip_39_word_no_space_5 | appleexpresssquirreldaringolive |  
+| bip_39_word_no_space_6 | appleexpresssquirreldaringoliveoriginal |  
+| bip_39_word_no_space_7 | appleexpresssquirreldaringoliveoriginaldiet |  
+| bip_39_word_no_space_8 | appleexpresssquirreldaringoliveoriginaldietgoat |  
+| bip_39_word_no_space_9 | appleexpresssquirreldaringoliveoriginaldietgoatneed |  
 | bip_39_word_space_0 | ['apple', 'express', 'squirrel', 'daring', 'olive', 'original', 'diet', 'goat', 'need', 'snow', 'possible', 'among'] |  
 | bip_39_word_space_1 | apple |  
 | bip_39_word_space_10 | apple express squirrel daring olive original diet goat need snow |  

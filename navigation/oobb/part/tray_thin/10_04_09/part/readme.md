@@ -122,6 +122,18 @@ maximum
 pepper
 road
 slight |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumerosionfluidcattleexpiremaximumpepperroadslightfiscal |  
+| bip_39_word_no_space_11 | albumerosionfluidcattleexpiremaximumpepperroadslightfiscalcastle |  
+| bip_39_word_no_space_12 | albumerosionfluidcattleexpiremaximumpepperroadslightfiscalcastleask |  
+| bip_39_word_no_space_2 | albumerosion |  
+| bip_39_word_no_space_3 | albumerosionfluid |  
+| bip_39_word_no_space_4 | albumerosionfluidcattle |  
+| bip_39_word_no_space_5 | albumerosionfluidcattleexpire |  
+| bip_39_word_no_space_6 | albumerosionfluidcattleexpiremaximum |  
+| bip_39_word_no_space_7 | albumerosionfluidcattleexpiremaximumpepper |  
+| bip_39_word_no_space_8 | albumerosionfluidcattleexpiremaximumpepperroad |  
+| bip_39_word_no_space_9 | albumerosionfluidcattleexpiremaximumpepperroadslight |  
 | bip_39_word_space_0 | ['album', 'erosion', 'fluid', 'cattle', 'expire', 'maximum', 'pepper', 'road', 'slight', 'fiscal', 'castle', 'ask'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album erosion fluid cattle expire maximum pepper road slight fiscal |  

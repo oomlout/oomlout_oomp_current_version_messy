@@ -122,6 +122,18 @@ also
 symptom
 solid
 execute |  
+| bip_39_word_no_space_1 | pave |  
+| bip_39_word_no_space_10 | pavedaringbasketablelengthalsosymptomsolidexecuteput |  
+| bip_39_word_no_space_11 | pavedaringbasketablelengthalsosymptomsolidexecuteputcradle |  
+| bip_39_word_no_space_12 | pavedaringbasketablelengthalsosymptomsolidexecuteputcradleability |  
+| bip_39_word_no_space_2 | pavedaring |  
+| bip_39_word_no_space_3 | pavedaringbasket |  
+| bip_39_word_no_space_4 | pavedaringbasketable |  
+| bip_39_word_no_space_5 | pavedaringbasketablelength |  
+| bip_39_word_no_space_6 | pavedaringbasketablelengthalso |  
+| bip_39_word_no_space_7 | pavedaringbasketablelengthalsosymptom |  
+| bip_39_word_no_space_8 | pavedaringbasketablelengthalsosymptomsolid |  
+| bip_39_word_no_space_9 | pavedaringbasketablelengthalsosymptomsolidexecute |  
 | bip_39_word_space_0 | ['pave', 'daring', 'basket', 'able', 'length', 'also', 'symptom', 'solid', 'execute', 'put', 'cradle', 'ability'] |  
 | bip_39_word_space_1 | pave |  
 | bip_39_word_space_10 | pave daring basket able length also symptom solid execute put |  

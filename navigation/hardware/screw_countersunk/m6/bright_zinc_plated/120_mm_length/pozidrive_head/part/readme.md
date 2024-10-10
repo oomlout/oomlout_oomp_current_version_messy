@@ -122,6 +122,18 @@ pear
 gun
 void
 neither |  
+| bip_39_word_no_space_1 | script |  
+| bip_39_word_no_space_10 | scriptreviewaddicttruckamountpeargunvoidneitherevoke |  
+| bip_39_word_no_space_11 | scriptreviewaddicttruckamountpeargunvoidneitherevokelife |  
+| bip_39_word_no_space_12 | scriptreviewaddicttruckamountpeargunvoidneitherevokelifealways |  
+| bip_39_word_no_space_2 | scriptreview |  
+| bip_39_word_no_space_3 | scriptreviewaddict |  
+| bip_39_word_no_space_4 | scriptreviewaddicttruck |  
+| bip_39_word_no_space_5 | scriptreviewaddicttruckamount |  
+| bip_39_word_no_space_6 | scriptreviewaddicttruckamountpear |  
+| bip_39_word_no_space_7 | scriptreviewaddicttruckamountpeargun |  
+| bip_39_word_no_space_8 | scriptreviewaddicttruckamountpeargunvoid |  
+| bip_39_word_no_space_9 | scriptreviewaddicttruckamountpeargunvoidneither |  
 | bip_39_word_space_0 | ['script', 'review', 'addict', 'truck', 'amount', 'pear', 'gun', 'void', 'neither', 'evoke', 'life', 'always'] |  
 | bip_39_word_space_1 | script |  
 | bip_39_word_space_10 | script review addict truck amount pear gun void neither evoke |  

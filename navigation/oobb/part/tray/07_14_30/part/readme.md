@@ -122,6 +122,18 @@ avocado
 voyage
 mimic
 drift |  
+| bip_39_word_no_space_1 | idle |  
+| bip_39_word_no_space_10 | idledigitaltomatomajorcanvasavocadovoyagemimicdriftsun |  
+| bip_39_word_no_space_11 | idledigitaltomatomajorcanvasavocadovoyagemimicdriftsunfashion |  
+| bip_39_word_no_space_12 | idledigitaltomatomajorcanvasavocadovoyagemimicdriftsunfashionanxiety |  
+| bip_39_word_no_space_2 | idledigital |  
+| bip_39_word_no_space_3 | idledigitaltomato |  
+| bip_39_word_no_space_4 | idledigitaltomatomajor |  
+| bip_39_word_no_space_5 | idledigitaltomatomajorcanvas |  
+| bip_39_word_no_space_6 | idledigitaltomatomajorcanvasavocado |  
+| bip_39_word_no_space_7 | idledigitaltomatomajorcanvasavocadovoyage |  
+| bip_39_word_no_space_8 | idledigitaltomatomajorcanvasavocadovoyagemimic |  
+| bip_39_word_no_space_9 | idledigitaltomatomajorcanvasavocadovoyagemimicdrift |  
 | bip_39_word_space_0 | ['idle', 'digital', 'tomato', 'major', 'canvas', 'avocado', 'voyage', 'mimic', 'drift', 'sun', 'fashion', 'anxiety'] |  
 | bip_39_word_space_1 | idle |  
 | bip_39_word_space_10 | idle digital tomato major canvas avocado voyage mimic drift sun |  

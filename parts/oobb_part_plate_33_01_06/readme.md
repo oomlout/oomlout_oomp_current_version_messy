@@ -122,6 +122,18 @@ cream
 write
 category
 hill |  
+| bip_39_word_no_space_1 | fame |  
+| bip_39_word_no_space_10 | famewaveegglumberbriskcreamwritecategoryhillexample |  
+| bip_39_word_no_space_11 | famewaveegglumberbriskcreamwritecategoryhillexamplepioneer |  
+| bip_39_word_no_space_12 | famewaveegglumberbriskcreamwritecategoryhillexamplepioneerapril |  
+| bip_39_word_no_space_2 | famewave |  
+| bip_39_word_no_space_3 | famewaveegg |  
+| bip_39_word_no_space_4 | famewaveegglumber |  
+| bip_39_word_no_space_5 | famewaveegglumberbrisk |  
+| bip_39_word_no_space_6 | famewaveegglumberbriskcream |  
+| bip_39_word_no_space_7 | famewaveegglumberbriskcreamwrite |  
+| bip_39_word_no_space_8 | famewaveegglumberbriskcreamwritecategory |  
+| bip_39_word_no_space_9 | famewaveegglumberbriskcreamwritecategoryhill |  
 | bip_39_word_space_0 | ['fame', 'wave', 'egg', 'lumber', 'brisk', 'cream', 'write', 'category', 'hill', 'example', 'pioneer', 'april'] |  
 | bip_39_word_space_1 | fame |  
 | bip_39_word_space_10 | fame wave egg lumber brisk cream write category hill example |  

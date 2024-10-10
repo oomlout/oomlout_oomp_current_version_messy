@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'salt
   select
 
   eyebrow'
+bip_39_word_no_space_1: salt
+bip_39_word_no_space_10: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrent
+bip_39_word_no_space_11: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrentfish
+bip_39_word_no_space_12: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrentfishair
+bip_39_word_no_space_2: saltwalnut
+bip_39_word_no_space_3: saltwalnutoppose
+bip_39_word_no_space_4: saltwalnutopposeevil
+bip_39_word_no_space_5: saltwalnutopposeevildeer
+bip_39_word_no_space_6: saltwalnutopposeevildeerlist
+bip_39_word_no_space_7: saltwalnutopposeevildeerlistgiraffe
+bip_39_word_no_space_8: saltwalnutopposeevildeerlistgiraffeselect
+bip_39_word_no_space_9: saltwalnutopposeevildeerlistgiraffeselecteyebrow
 bip_39_word_space_0:
 - salt
 - walnut

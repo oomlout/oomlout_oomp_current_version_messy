@@ -122,6 +122,18 @@ series
 day
 innocent
 evidence |  
+| bip_39_word_no_space_1 | verify |  
+| bip_39_word_no_space_10 | verifycamplogicletterskiseriesdayinnocentevidenceclub |  
+| bip_39_word_no_space_11 | verifycamplogicletterskiseriesdayinnocentevidenceclubdose |  
+| bip_39_word_no_space_12 | verifycamplogicletterskiseriesdayinnocentevidenceclubdoseattitude |  
+| bip_39_word_no_space_2 | verifycamp |  
+| bip_39_word_no_space_3 | verifycamplogic |  
+| bip_39_word_no_space_4 | verifycamplogicletter |  
+| bip_39_word_no_space_5 | verifycamplogicletterski |  
+| bip_39_word_no_space_6 | verifycamplogicletterskiseries |  
+| bip_39_word_no_space_7 | verifycamplogicletterskiseriesday |  
+| bip_39_word_no_space_8 | verifycamplogicletterskiseriesdayinnocent |  
+| bip_39_word_no_space_9 | verifycamplogicletterskiseriesdayinnocentevidence |  
 | bip_39_word_space_0 | ['verify', 'camp', 'logic', 'letter', 'ski', 'series', 'day', 'innocent', 'evidence', 'club', 'dose', 'attitude'] |  
 | bip_39_word_space_1 | verify |  
 | bip_39_word_space_10 | verify camp logic letter ski series day innocent evidence club |  

@@ -122,6 +122,18 @@ matter
 advance
 cat
 logic |  
+| bip_39_word_no_space_1 | glance |  
+| bip_39_word_no_space_10 | glanceguesstermankleitemmatteradvancecatlogicfocus |  
+| bip_39_word_no_space_11 | glanceguesstermankleitemmatteradvancecatlogicfocuslength |  
+| bip_39_word_no_space_12 | glanceguesstermankleitemmatteradvancecatlogicfocuslengthapart |  
+| bip_39_word_no_space_2 | glanceguess |  
+| bip_39_word_no_space_3 | glanceguessterm |  
+| bip_39_word_no_space_4 | glanceguesstermankle |  
+| bip_39_word_no_space_5 | glanceguesstermankleitem |  
+| bip_39_word_no_space_6 | glanceguesstermankleitemmatter |  
+| bip_39_word_no_space_7 | glanceguesstermankleitemmatteradvance |  
+| bip_39_word_no_space_8 | glanceguesstermankleitemmatteradvancecat |  
+| bip_39_word_no_space_9 | glanceguesstermankleitemmatteradvancecatlogic |  
 | bip_39_word_space_0 | ['glance', 'guess', 'term', 'ankle', 'item', 'matter', 'advance', 'cat', 'logic', 'focus', 'length', 'apart'] |  
 | bip_39_word_space_1 | glance |  
 | bip_39_word_space_10 | glance guess term ankle item matter advance cat logic focus |  

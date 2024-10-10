@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'someone
   crime
 
   narrow'
+bip_39_word_no_space_1: someone
+bip_39_word_no_space_10: someoneavoidrulewashrapidimitateimmunecrimenarrowmonth
+bip_39_word_no_space_11: someoneavoidrulewashrapidimitateimmunecrimenarrowmonthcoyote
+bip_39_word_no_space_12: someoneavoidrulewashrapidimitateimmunecrimenarrowmonthcoyoteacross
+bip_39_word_no_space_2: someoneavoid
+bip_39_word_no_space_3: someoneavoidrule
+bip_39_word_no_space_4: someoneavoidrulewash
+bip_39_word_no_space_5: someoneavoidrulewashrapid
+bip_39_word_no_space_6: someoneavoidrulewashrapidimitate
+bip_39_word_no_space_7: someoneavoidrulewashrapidimitateimmune
+bip_39_word_no_space_8: someoneavoidrulewashrapidimitateimmunecrime
+bip_39_word_no_space_9: someoneavoidrulewashrapidimitateimmunecrimenarrow
 bip_39_word_space_0:
 - someone
 - avoid

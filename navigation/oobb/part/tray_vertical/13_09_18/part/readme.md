@@ -122,6 +122,18 @@ spoon
 problem
 awful
 leopard |  
+| bip_39_word_no_space_1 | quote |  
+| bip_39_word_no_space_10 | quotetrimivorypurposenaivespoonproblemawfulleopardexile |  
+| bip_39_word_no_space_11 | quotetrimivorypurposenaivespoonproblemawfulleopardexilegreat |  
+| bip_39_word_no_space_12 | quotetrimivorypurposenaivespoonproblemawfulleopardexilegreatarmy |  
+| bip_39_word_no_space_2 | quotetrim |  
+| bip_39_word_no_space_3 | quotetrimivory |  
+| bip_39_word_no_space_4 | quotetrimivorypurpose |  
+| bip_39_word_no_space_5 | quotetrimivorypurposenaive |  
+| bip_39_word_no_space_6 | quotetrimivorypurposenaivespoon |  
+| bip_39_word_no_space_7 | quotetrimivorypurposenaivespoonproblem |  
+| bip_39_word_no_space_8 | quotetrimivorypurposenaivespoonproblemawful |  
+| bip_39_word_no_space_9 | quotetrimivorypurposenaivespoonproblemawfulleopard |  
 | bip_39_word_space_0 | ['quote', 'trim', 'ivory', 'purpose', 'naive', 'spoon', 'problem', 'awful', 'leopard', 'exile', 'great', 'army'] |  
 | bip_39_word_space_1 | quote |  
 | bip_39_word_space_10 | quote trim ivory purpose naive spoon problem awful leopard exile |  

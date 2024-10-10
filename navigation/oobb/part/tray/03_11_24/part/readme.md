@@ -122,6 +122,18 @@ garage
 stem
 swamp
 valve |  
+| bip_39_word_no_space_1 | end |  
+| bip_39_word_no_space_10 | endodorglorytumbleprogramgaragestemswampvalveabandon |  
+| bip_39_word_no_space_11 | endodorglorytumbleprogramgaragestemswampvalveabandonbuyer |  
+| bip_39_word_no_space_12 | endodorglorytumbleprogramgaragestemswampvalveabandonbuyeradmit |  
+| bip_39_word_no_space_2 | endodor |  
+| bip_39_word_no_space_3 | endodorglory |  
+| bip_39_word_no_space_4 | endodorglorytumble |  
+| bip_39_word_no_space_5 | endodorglorytumbleprogram |  
+| bip_39_word_no_space_6 | endodorglorytumbleprogramgarage |  
+| bip_39_word_no_space_7 | endodorglorytumbleprogramgaragestem |  
+| bip_39_word_no_space_8 | endodorglorytumbleprogramgaragestemswamp |  
+| bip_39_word_no_space_9 | endodorglorytumbleprogramgaragestemswampvalve |  
 | bip_39_word_space_0 | ['end', 'odor', 'glory', 'tumble', 'program', 'garage', 'stem', 'swamp', 'valve', 'abandon', 'buyer', 'admit'] |  
 | bip_39_word_space_1 | end |  
 | bip_39_word_space_10 | end odor glory tumble program garage stem swamp valve abandon |  

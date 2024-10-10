@@ -122,6 +122,18 @@ economy
 disagree
 snow
 tower |  
+| bip_39_word_no_space_1 | gaze |  
+| bip_39_word_no_space_10 | gazeexercisebenchdecadeoakeconomydisagreesnowtowerelement |  
+| bip_39_word_no_space_11 | gazeexercisebenchdecadeoakeconomydisagreesnowtowerelementfancy |  
+| bip_39_word_no_space_12 | gazeexercisebenchdecadeoakeconomydisagreesnowtowerelementfancyarena |  
+| bip_39_word_no_space_2 | gazeexercise |  
+| bip_39_word_no_space_3 | gazeexercisebench |  
+| bip_39_word_no_space_4 | gazeexercisebenchdecade |  
+| bip_39_word_no_space_5 | gazeexercisebenchdecadeoak |  
+| bip_39_word_no_space_6 | gazeexercisebenchdecadeoakeconomy |  
+| bip_39_word_no_space_7 | gazeexercisebenchdecadeoakeconomydisagree |  
+| bip_39_word_no_space_8 | gazeexercisebenchdecadeoakeconomydisagreesnow |  
+| bip_39_word_no_space_9 | gazeexercisebenchdecadeoakeconomydisagreesnowtower |  
 | bip_39_word_space_0 | ['gaze', 'exercise', 'bench', 'decade', 'oak', 'economy', 'disagree', 'snow', 'tower', 'element', 'fancy', 'arena'] |  
 | bip_39_word_space_1 | gaze |  
 | bip_39_word_space_10 | gaze exercise bench decade oak economy disagree snow tower element |  

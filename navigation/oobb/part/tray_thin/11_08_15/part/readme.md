@@ -122,6 +122,18 @@ law
 hope
 federal
 teach |  
+| bip_39_word_no_space_1 | enforce |  
+| bip_39_word_no_space_10 | enforceswallowcategoryskullpantherlawhopefederalteachnoodle |  
+| bip_39_word_no_space_11 | enforceswallowcategoryskullpantherlawhopefederalteachnoodlebuzz |  
+| bip_39_word_no_space_12 | enforceswallowcategoryskullpantherlawhopefederalteachnoodlebuzzactress |  
+| bip_39_word_no_space_2 | enforceswallow |  
+| bip_39_word_no_space_3 | enforceswallowcategory |  
+| bip_39_word_no_space_4 | enforceswallowcategoryskull |  
+| bip_39_word_no_space_5 | enforceswallowcategoryskullpanther |  
+| bip_39_word_no_space_6 | enforceswallowcategoryskullpantherlaw |  
+| bip_39_word_no_space_7 | enforceswallowcategoryskullpantherlawhope |  
+| bip_39_word_no_space_8 | enforceswallowcategoryskullpantherlawhopefederal |  
+| bip_39_word_no_space_9 | enforceswallowcategoryskullpantherlawhopefederalteach |  
 | bip_39_word_space_0 | ['enforce', 'swallow', 'category', 'skull', 'panther', 'law', 'hope', 'federal', 'teach', 'noodle', 'buzz', 'actress'] |  
 | bip_39_word_space_1 | enforce |  
 | bip_39_word_space_10 | enforce swallow category skull panther law hope federal teach noodle |  

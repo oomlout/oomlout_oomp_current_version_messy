@@ -122,6 +122,18 @@ crack
 mirror
 border
 truck |  
+| bip_39_word_no_space_1 | have |  
+| bip_39_word_no_space_10 | havebattleboneflysketchcrackmirrorbordertruckgarment |  
+| bip_39_word_no_space_11 | havebattleboneflysketchcrackmirrorbordertruckgarmentgold |  
+| bip_39_word_no_space_12 | havebattleboneflysketchcrackmirrorbordertruckgarmentgoldalien |  
+| bip_39_word_no_space_2 | havebattle |  
+| bip_39_word_no_space_3 | havebattlebone |  
+| bip_39_word_no_space_4 | havebattlebonefly |  
+| bip_39_word_no_space_5 | havebattleboneflysketch |  
+| bip_39_word_no_space_6 | havebattleboneflysketchcrack |  
+| bip_39_word_no_space_7 | havebattleboneflysketchcrackmirror |  
+| bip_39_word_no_space_8 | havebattleboneflysketchcrackmirrorborder |  
+| bip_39_word_no_space_9 | havebattleboneflysketchcrackmirrorbordertruck |  
 | bip_39_word_space_0 | ['have', 'battle', 'bone', 'fly', 'sketch', 'crack', 'mirror', 'border', 'truck', 'garment', 'gold', 'alien'] |  
 | bip_39_word_space_1 | have |  
 | bip_39_word_space_10 | have battle bone fly sketch crack mirror border truck garment |  

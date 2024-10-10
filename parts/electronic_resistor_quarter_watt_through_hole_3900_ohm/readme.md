@@ -122,6 +122,18 @@ crash
 scorpion
 tool
 nose |  
+| bip_39_word_no_space_1 | frequent |  
+| bip_39_word_no_space_10 | frequentgritteamtrumpetrewardcrashscorpiontoolnoseanchor |  
+| bip_39_word_no_space_11 | frequentgritteamtrumpetrewardcrashscorpiontoolnoseanchortired |  
+| bip_39_word_no_space_12 | frequentgritteamtrumpetrewardcrashscorpiontoolnoseanchortiredanchor |  
+| bip_39_word_no_space_2 | frequentgrit |  
+| bip_39_word_no_space_3 | frequentgritteam |  
+| bip_39_word_no_space_4 | frequentgritteamtrumpet |  
+| bip_39_word_no_space_5 | frequentgritteamtrumpetreward |  
+| bip_39_word_no_space_6 | frequentgritteamtrumpetrewardcrash |  
+| bip_39_word_no_space_7 | frequentgritteamtrumpetrewardcrashscorpion |  
+| bip_39_word_no_space_8 | frequentgritteamtrumpetrewardcrashscorpiontool |  
+| bip_39_word_no_space_9 | frequentgritteamtrumpetrewardcrashscorpiontoolnose |  
 | bip_39_word_space_0 | ['frequent', 'grit', 'team', 'trumpet', 'reward', 'crash', 'scorpion', 'tool', 'nose', 'anchor', 'tired', 'anchor'] |  
 | bip_39_word_space_1 | frequent |  
 | bip_39_word_space_10 | frequent grit team trumpet reward crash scorpion tool nose anchor |  

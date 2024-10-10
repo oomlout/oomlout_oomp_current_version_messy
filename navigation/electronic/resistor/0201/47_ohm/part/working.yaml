@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'indicate
   junior
 
   coil'
+bip_39_word_no_space_1: indicate
+bip_39_word_no_space_10: indicatewindowairtentmeatfancychunkjuniorcoilclarify
+bip_39_word_no_space_11: indicatewindowairtentmeatfancychunkjuniorcoilclarifyrecipe
+bip_39_word_no_space_12: indicatewindowairtentmeatfancychunkjuniorcoilclarifyrecipealbum
+bip_39_word_no_space_2: indicatewindow
+bip_39_word_no_space_3: indicatewindowair
+bip_39_word_no_space_4: indicatewindowairtent
+bip_39_word_no_space_5: indicatewindowairtentmeat
+bip_39_word_no_space_6: indicatewindowairtentmeatfancy
+bip_39_word_no_space_7: indicatewindowairtentmeatfancychunk
+bip_39_word_no_space_8: indicatewindowairtentmeatfancychunkjunior
+bip_39_word_no_space_9: indicatewindowairtentmeatfancychunkjuniorcoil
 bip_39_word_space_0:
 - indicate
 - window

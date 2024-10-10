@@ -122,6 +122,18 @@ lend
 eager
 leopard
 club |  
+| bip_39_word_no_space_1 | about |  
+| bip_39_word_no_space_10 | aboutfirstsunnyminimumtonelendeagerleopardclubramp |  
+| bip_39_word_no_space_11 | aboutfirstsunnyminimumtonelendeagerleopardclubrampvendor |  
+| bip_39_word_no_space_12 | aboutfirstsunnyminimumtonelendeagerleopardclubrampvendorantenna |  
+| bip_39_word_no_space_2 | aboutfirst |  
+| bip_39_word_no_space_3 | aboutfirstsunny |  
+| bip_39_word_no_space_4 | aboutfirstsunnyminimum |  
+| bip_39_word_no_space_5 | aboutfirstsunnyminimumtone |  
+| bip_39_word_no_space_6 | aboutfirstsunnyminimumtonelend |  
+| bip_39_word_no_space_7 | aboutfirstsunnyminimumtonelendeager |  
+| bip_39_word_no_space_8 | aboutfirstsunnyminimumtonelendeagerleopard |  
+| bip_39_word_no_space_9 | aboutfirstsunnyminimumtonelendeagerleopardclub |  
 | bip_39_word_space_0 | ['about', 'first', 'sunny', 'minimum', 'tone', 'lend', 'eager', 'leopard', 'club', 'ramp', 'vendor', 'antenna'] |  
 | bip_39_word_space_1 | about |  
 | bip_39_word_space_10 | about first sunny minimum tone lend eager leopard club ramp |  

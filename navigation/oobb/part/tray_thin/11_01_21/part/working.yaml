@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'page
   swap
 
   mask'
+bip_39_word_no_space_1: page
+bip_39_word_no_space_10: pageliftmorninghomefancyupondivertswapmaskginger
+bip_39_word_no_space_11: pageliftmorninghomefancyupondivertswapmaskgingerscript
+bip_39_word_no_space_12: pageliftmorninghomefancyupondivertswapmaskgingerscriptanother
+bip_39_word_no_space_2: pagelift
+bip_39_word_no_space_3: pageliftmorning
+bip_39_word_no_space_4: pageliftmorninghome
+bip_39_word_no_space_5: pageliftmorninghomefancy
+bip_39_word_no_space_6: pageliftmorninghomefancyupon
+bip_39_word_no_space_7: pageliftmorninghomefancyupondivert
+bip_39_word_no_space_8: pageliftmorninghomefancyupondivertswap
+bip_39_word_no_space_9: pageliftmorninghomefancyupondivertswapmask
 bip_39_word_space_0:
 - page
 - lift

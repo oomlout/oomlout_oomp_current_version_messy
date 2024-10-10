@@ -122,6 +122,18 @@ gorilla
 cycle
 mix
 wrong |  
+| bip_39_word_no_space_1 | nut |  
+| bip_39_word_no_space_10 | nuterodepriceloudearthgorillacyclemixwrongsolution |  
+| bip_39_word_no_space_11 | nuterodepriceloudearthgorillacyclemixwrongsolutionseek |  
+| bip_39_word_no_space_12 | nuterodepriceloudearthgorillacyclemixwrongsolutionseekalley |  
+| bip_39_word_no_space_2 | nuterode |  
+| bip_39_word_no_space_3 | nuterodeprice |  
+| bip_39_word_no_space_4 | nuterodepriceloud |  
+| bip_39_word_no_space_5 | nuterodepriceloudearth |  
+| bip_39_word_no_space_6 | nuterodepriceloudearthgorilla |  
+| bip_39_word_no_space_7 | nuterodepriceloudearthgorillacycle |  
+| bip_39_word_no_space_8 | nuterodepriceloudearthgorillacyclemix |  
+| bip_39_word_no_space_9 | nuterodepriceloudearthgorillacyclemixwrong |  
 | bip_39_word_space_0 | ['nut', 'erode', 'price', 'loud', 'earth', 'gorilla', 'cycle', 'mix', 'wrong', 'solution', 'seek', 'alley'] |  
 | bip_39_word_space_1 | nut |  
 | bip_39_word_space_10 | nut erode price loud earth gorilla cycle mix wrong solution |  

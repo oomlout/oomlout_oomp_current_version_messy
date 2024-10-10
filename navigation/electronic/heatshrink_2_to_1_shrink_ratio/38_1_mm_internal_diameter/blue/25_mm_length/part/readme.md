@@ -122,6 +122,18 @@ ostrich
 luggage
 ceiling
 valve |  
+| bip_39_word_no_space_1 | borrow |  
+| bip_39_word_no_space_10 | borrowalterswearexhibitorchardostrichluggageceilingvalvedepth |  
+| bip_39_word_no_space_11 | borrowalterswearexhibitorchardostrichluggageceilingvalvedepthisolate |  
+| bip_39_word_no_space_12 | borrowalterswearexhibitorchardostrichluggageceilingvalvedepthisolatealien |  
+| bip_39_word_no_space_2 | borrowalter |  
+| bip_39_word_no_space_3 | borrowalterswear |  
+| bip_39_word_no_space_4 | borrowalterswearexhibit |  
+| bip_39_word_no_space_5 | borrowalterswearexhibitorchard |  
+| bip_39_word_no_space_6 | borrowalterswearexhibitorchardostrich |  
+| bip_39_word_no_space_7 | borrowalterswearexhibitorchardostrichluggage |  
+| bip_39_word_no_space_8 | borrowalterswearexhibitorchardostrichluggageceiling |  
+| bip_39_word_no_space_9 | borrowalterswearexhibitorchardostrichluggageceilingvalve |  
 | bip_39_word_space_0 | ['borrow', 'alter', 'swear', 'exhibit', 'orchard', 'ostrich', 'luggage', 'ceiling', 'valve', 'depth', 'isolate', 'alien'] |  
 | bip_39_word_space_1 | borrow |  
 | bip_39_word_space_10 | borrow alter swear exhibit orchard ostrich luggage ceiling valve depth |  

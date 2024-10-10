@@ -122,6 +122,18 @@ bargain
 cricket
 soup
 snake |  
+| bip_39_word_no_space_1 | island |  
+| bip_39_word_no_space_10 | islandslendersecondmandatedisagreebargaincricketsoupsnakenurse |  
+| bip_39_word_no_space_11 | islandslendersecondmandatedisagreebargaincricketsoupsnakenursesoda |  
+| bip_39_word_no_space_12 | islandslendersecondmandatedisagreebargaincricketsoupsnakenursesodaaugust |  
+| bip_39_word_no_space_2 | islandslender |  
+| bip_39_word_no_space_3 | islandslendersecond |  
+| bip_39_word_no_space_4 | islandslendersecondmandate |  
+| bip_39_word_no_space_5 | islandslendersecondmandatedisagree |  
+| bip_39_word_no_space_6 | islandslendersecondmandatedisagreebargain |  
+| bip_39_word_no_space_7 | islandslendersecondmandatedisagreebargaincricket |  
+| bip_39_word_no_space_8 | islandslendersecondmandatedisagreebargaincricketsoup |  
+| bip_39_word_no_space_9 | islandslendersecondmandatedisagreebargaincricketsoupsnake |  
 | bip_39_word_space_0 | ['island', 'slender', 'second', 'mandate', 'disagree', 'bargain', 'cricket', 'soup', 'snake', 'nurse', 'soda', 'august'] |  
 | bip_39_word_space_1 | island |  
 | bip_39_word_space_10 | island slender second mandate disagree bargain cricket soup snake nurse |  

@@ -122,6 +122,18 @@ message
 wise
 energy
 range |  
+| bip_39_word_no_space_1 | clarify |  
+| bip_39_word_no_space_10 | clarifyswordwordswearrightmessagewiseenergyrangecement |  
+| bip_39_word_no_space_11 | clarifyswordwordswearrightmessagewiseenergyrangecementbag |  
+| bip_39_word_no_space_12 | clarifyswordwordswearrightmessagewiseenergyrangecementbagamused |  
+| bip_39_word_no_space_2 | clarifysword |  
+| bip_39_word_no_space_3 | clarifyswordword |  
+| bip_39_word_no_space_4 | clarifyswordwordswear |  
+| bip_39_word_no_space_5 | clarifyswordwordswearright |  
+| bip_39_word_no_space_6 | clarifyswordwordswearrightmessage |  
+| bip_39_word_no_space_7 | clarifyswordwordswearrightmessagewise |  
+| bip_39_word_no_space_8 | clarifyswordwordswearrightmessagewiseenergy |  
+| bip_39_word_no_space_9 | clarifyswordwordswearrightmessagewiseenergyrange |  
 | bip_39_word_space_0 | ['clarify', 'sword', 'word', 'swear', 'right', 'message', 'wise', 'energy', 'range', 'cement', 'bag', 'amused'] |  
 | bip_39_word_space_1 | clarify |  
 | bip_39_word_space_10 | clarify sword word swear right message wise energy range cement |  

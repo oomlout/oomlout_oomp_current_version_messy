@@ -122,6 +122,18 @@ wave
 fault
 quiz
 fall |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netdustsourcetwistsupremewavefaultquizfallcanyon |  
+| bip_39_word_no_space_11 | netdustsourcetwistsupremewavefaultquizfallcanyonshoulder |  
+| bip_39_word_no_space_12 | netdustsourcetwistsupremewavefaultquizfallcanyonshoulderatom |  
+| bip_39_word_no_space_2 | netdust |  
+| bip_39_word_no_space_3 | netdustsource |  
+| bip_39_word_no_space_4 | netdustsourcetwist |  
+| bip_39_word_no_space_5 | netdustsourcetwistsupreme |  
+| bip_39_word_no_space_6 | netdustsourcetwistsupremewave |  
+| bip_39_word_no_space_7 | netdustsourcetwistsupremewavefault |  
+| bip_39_word_no_space_8 | netdustsourcetwistsupremewavefaultquiz |  
+| bip_39_word_no_space_9 | netdustsourcetwistsupremewavefaultquizfall |  
 | bip_39_word_space_0 | ['net', 'dust', 'source', 'twist', 'supreme', 'wave', 'fault', 'quiz', 'fall', 'canyon', 'shoulder', 'atom'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net dust source twist supreme wave fault quiz fall canyon |  

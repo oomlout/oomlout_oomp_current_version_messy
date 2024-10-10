@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'habit
   guess
 
   upset'
+bip_39_word_no_space_1: habit
+bip_39_word_no_space_10: habitsunsetcupoccurhighceleryoliveguessupsetgarlic
+bip_39_word_no_space_11: habitsunsetcupoccurhighceleryoliveguessupsetgarlichurry
+bip_39_word_no_space_12: habitsunsetcupoccurhighceleryoliveguessupsetgarlichurryanger
+bip_39_word_no_space_2: habitsunset
+bip_39_word_no_space_3: habitsunsetcup
+bip_39_word_no_space_4: habitsunsetcupoccur
+bip_39_word_no_space_5: habitsunsetcupoccurhigh
+bip_39_word_no_space_6: habitsunsetcupoccurhighcelery
+bip_39_word_no_space_7: habitsunsetcupoccurhighceleryolive
+bip_39_word_no_space_8: habitsunsetcupoccurhighceleryoliveguess
+bip_39_word_no_space_9: habitsunsetcupoccurhighceleryoliveguessupset
 bip_39_word_space_0:
 - habit
 - sunset

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pear
   faith
 
   upon'
+bip_39_word_no_space_1: pear
+bip_39_word_no_space_10: peardiagramparaderiotsustaindeertidefaithuponnoodle
+bip_39_word_no_space_11: peardiagramparaderiotsustaindeertidefaithuponnoodledune
+bip_39_word_no_space_12: peardiagramparaderiotsustaindeertidefaithuponnoodleduneapple
+bip_39_word_no_space_2: peardiagram
+bip_39_word_no_space_3: peardiagramparade
+bip_39_word_no_space_4: peardiagramparaderiot
+bip_39_word_no_space_5: peardiagramparaderiotsustain
+bip_39_word_no_space_6: peardiagramparaderiotsustaindeer
+bip_39_word_no_space_7: peardiagramparaderiotsustaindeertide
+bip_39_word_no_space_8: peardiagramparaderiotsustaindeertidefaith
+bip_39_word_no_space_9: peardiagramparaderiotsustaindeertidefaithupon
 bip_39_word_space_0:
 - pear
 - diagram

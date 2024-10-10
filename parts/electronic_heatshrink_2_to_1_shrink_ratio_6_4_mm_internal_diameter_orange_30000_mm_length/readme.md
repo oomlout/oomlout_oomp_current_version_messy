@@ -122,6 +122,18 @@ enroll
 estate
 time
 rack |  
+| bip_39_word_no_space_1 | hungry |  
+| bip_39_word_no_space_10 | hungrycastlecouplelensfurnaceenrollestatetimerackspread |  
+| bip_39_word_no_space_11 | hungrycastlecouplelensfurnaceenrollestatetimerackspreaddraw |  
+| bip_39_word_no_space_12 | hungrycastlecouplelensfurnaceenrollestatetimerackspreaddrawadd |  
+| bip_39_word_no_space_2 | hungrycastle |  
+| bip_39_word_no_space_3 | hungrycastlecouple |  
+| bip_39_word_no_space_4 | hungrycastlecouplelens |  
+| bip_39_word_no_space_5 | hungrycastlecouplelensfurnace |  
+| bip_39_word_no_space_6 | hungrycastlecouplelensfurnaceenroll |  
+| bip_39_word_no_space_7 | hungrycastlecouplelensfurnaceenrollestate |  
+| bip_39_word_no_space_8 | hungrycastlecouplelensfurnaceenrollestatetime |  
+| bip_39_word_no_space_9 | hungrycastlecouplelensfurnaceenrollestatetimerack |  
 | bip_39_word_space_0 | ['hungry', 'castle', 'couple', 'lens', 'furnace', 'enroll', 'estate', 'time', 'rack', 'spread', 'draw', 'add'] |  
 | bip_39_word_space_1 | hungry |  
 | bip_39_word_space_10 | hungry castle couple lens furnace enroll estate time rack spread |  

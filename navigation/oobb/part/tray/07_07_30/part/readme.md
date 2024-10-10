@@ -122,6 +122,18 @@ scene
 achieve
 pepper
 undo |  
+| bip_39_word_no_space_1 | have |  
+| bip_39_word_no_space_10 | havecurtainglowsherifffrequentsceneachievepepperundogate |  
+| bip_39_word_no_space_11 | havecurtainglowsherifffrequentsceneachievepepperundogatepurpose |  
+| bip_39_word_no_space_12 | havecurtainglowsherifffrequentsceneachievepepperundogatepurposeapart |  
+| bip_39_word_no_space_2 | havecurtain |  
+| bip_39_word_no_space_3 | havecurtainglow |  
+| bip_39_word_no_space_4 | havecurtainglowsheriff |  
+| bip_39_word_no_space_5 | havecurtainglowsherifffrequent |  
+| bip_39_word_no_space_6 | havecurtainglowsherifffrequentscene |  
+| bip_39_word_no_space_7 | havecurtainglowsherifffrequentsceneachieve |  
+| bip_39_word_no_space_8 | havecurtainglowsherifffrequentsceneachievepepper |  
+| bip_39_word_no_space_9 | havecurtainglowsherifffrequentsceneachievepepperundo |  
 | bip_39_word_space_0 | ['have', 'curtain', 'glow', 'sheriff', 'frequent', 'scene', 'achieve', 'pepper', 'undo', 'gate', 'purpose', 'apart'] |  
 | bip_39_word_space_1 | have |  
 | bip_39_word_space_10 | have curtain glow sheriff frequent scene achieve pepper undo gate |  

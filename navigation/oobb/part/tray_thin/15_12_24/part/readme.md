@@ -122,6 +122,18 @@ box
 art
 column
 uncover |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmconvinceelementthumbrunboxartcolumnuncoveralready |  
+| bip_39_word_no_space_11 | rhythmconvinceelementthumbrunboxartcolumnuncoveralreadyverify |  
+| bip_39_word_no_space_12 | rhythmconvinceelementthumbrunboxartcolumnuncoveralreadyverifyanalyst |  
+| bip_39_word_no_space_2 | rhythmconvince |  
+| bip_39_word_no_space_3 | rhythmconvinceelement |  
+| bip_39_word_no_space_4 | rhythmconvinceelementthumb |  
+| bip_39_word_no_space_5 | rhythmconvinceelementthumbrun |  
+| bip_39_word_no_space_6 | rhythmconvinceelementthumbrunbox |  
+| bip_39_word_no_space_7 | rhythmconvinceelementthumbrunboxart |  
+| bip_39_word_no_space_8 | rhythmconvinceelementthumbrunboxartcolumn |  
+| bip_39_word_no_space_9 | rhythmconvinceelementthumbrunboxartcolumnuncover |  
 | bip_39_word_space_0 | ['rhythm', 'convince', 'element', 'thumb', 'run', 'box', 'art', 'column', 'uncover', 'already', 'verify', 'analyst'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm convince element thumb run box art column uncover already |  

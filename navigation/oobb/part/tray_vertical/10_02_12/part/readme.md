@@ -122,6 +122,18 @@ dinner
 clarify
 minor
 rotate |  
+| bip_39_word_no_space_1 | health |  
+| bip_39_word_no_space_10 | healthwaystudentvintagesituatedinnerclarifyminorrotatesoft |  
+| bip_39_word_no_space_11 | healthwaystudentvintagesituatedinnerclarifyminorrotatesoftcanoe |  
+| bip_39_word_no_space_12 | healthwaystudentvintagesituatedinnerclarifyminorrotatesoftcanoeartefact |  
+| bip_39_word_no_space_2 | healthway |  
+| bip_39_word_no_space_3 | healthwaystudent |  
+| bip_39_word_no_space_4 | healthwaystudentvintage |  
+| bip_39_word_no_space_5 | healthwaystudentvintagesituate |  
+| bip_39_word_no_space_6 | healthwaystudentvintagesituatedinner |  
+| bip_39_word_no_space_7 | healthwaystudentvintagesituatedinnerclarify |  
+| bip_39_word_no_space_8 | healthwaystudentvintagesituatedinnerclarifyminor |  
+| bip_39_word_no_space_9 | healthwaystudentvintagesituatedinnerclarifyminorrotate |  
 | bip_39_word_space_0 | ['health', 'way', 'student', 'vintage', 'situate', 'dinner', 'clarify', 'minor', 'rotate', 'soft', 'canoe', 'artefact'] |  
 | bip_39_word_space_1 | health |  
 | bip_39_word_space_10 | health way student vintage situate dinner clarify minor rotate soft |  

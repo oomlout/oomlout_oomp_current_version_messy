@@ -122,6 +122,18 @@ caught
 found
 will
 twin |  
+| bip_39_word_no_space_1 | myself |  
+| bip_39_word_no_space_10 | myselfinquiryshiverwineappearcaughtfoundwilltwintruck |  
+| bip_39_word_no_space_11 | myselfinquiryshiverwineappearcaughtfoundwilltwintruckput |  
+| bip_39_word_no_space_12 | myselfinquiryshiverwineappearcaughtfoundwilltwintruckputagent |  
+| bip_39_word_no_space_2 | myselfinquiry |  
+| bip_39_word_no_space_3 | myselfinquiryshiver |  
+| bip_39_word_no_space_4 | myselfinquiryshiverwine |  
+| bip_39_word_no_space_5 | myselfinquiryshiverwineappear |  
+| bip_39_word_no_space_6 | myselfinquiryshiverwineappearcaught |  
+| bip_39_word_no_space_7 | myselfinquiryshiverwineappearcaughtfound |  
+| bip_39_word_no_space_8 | myselfinquiryshiverwineappearcaughtfoundwill |  
+| bip_39_word_no_space_9 | myselfinquiryshiverwineappearcaughtfoundwilltwin |  
 | bip_39_word_space_0 | ['myself', 'inquiry', 'shiver', 'wine', 'appear', 'caught', 'found', 'will', 'twin', 'truck', 'put', 'agent'] |  
 | bip_39_word_space_1 | myself |  
 | bip_39_word_space_10 | myself inquiry shiver wine appear caught found will twin truck |  

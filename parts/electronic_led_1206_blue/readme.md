@@ -122,6 +122,18 @@ stadium
 pizza
 expire
 twelve |  
+| bip_39_word_no_space_1 | ask |  
+| bip_39_word_no_space_10 | askgunfoamspicetextstadiumpizzaexpiretwelvepen |  
+| bip_39_word_no_space_11 | askgunfoamspicetextstadiumpizzaexpiretwelvependevote |  
+| bip_39_word_no_space_12 | askgunfoamspicetextstadiumpizzaexpiretwelvependevotearea |  
+| bip_39_word_no_space_2 | askgun |  
+| bip_39_word_no_space_3 | askgunfoam |  
+| bip_39_word_no_space_4 | askgunfoamspice |  
+| bip_39_word_no_space_5 | askgunfoamspicetext |  
+| bip_39_word_no_space_6 | askgunfoamspicetextstadium |  
+| bip_39_word_no_space_7 | askgunfoamspicetextstadiumpizza |  
+| bip_39_word_no_space_8 | askgunfoamspicetextstadiumpizzaexpire |  
+| bip_39_word_no_space_9 | askgunfoamspicetextstadiumpizzaexpiretwelve |  
 | bip_39_word_space_0 | ['ask', 'gun', 'foam', 'spice', 'text', 'stadium', 'pizza', 'expire', 'twelve', 'pen', 'devote', 'area'] |  
 | bip_39_word_space_1 | ask |  
 | bip_39_word_space_10 | ask gun foam spice text stadium pizza expire twelve pen |  

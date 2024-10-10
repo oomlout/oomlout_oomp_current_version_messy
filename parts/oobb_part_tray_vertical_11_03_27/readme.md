@@ -122,6 +122,18 @@ bundle
 obey
 over
 female |  
+| bip_39_word_no_space_1 | pave |  
+| bip_39_word_no_space_10 | pavecolumnsensekeyclaybundleobeyoverfemaleunfold |  
+| bip_39_word_no_space_11 | pavecolumnsensekeyclaybundleobeyoverfemaleunfoldrubber |  
+| bip_39_word_no_space_12 | pavecolumnsensekeyclaybundleobeyoverfemaleunfoldrubberalpha |  
+| bip_39_word_no_space_2 | pavecolumn |  
+| bip_39_word_no_space_3 | pavecolumnsense |  
+| bip_39_word_no_space_4 | pavecolumnsensekey |  
+| bip_39_word_no_space_5 | pavecolumnsensekeyclay |  
+| bip_39_word_no_space_6 | pavecolumnsensekeyclaybundle |  
+| bip_39_word_no_space_7 | pavecolumnsensekeyclaybundleobey |  
+| bip_39_word_no_space_8 | pavecolumnsensekeyclaybundleobeyover |  
+| bip_39_word_no_space_9 | pavecolumnsensekeyclaybundleobeyoverfemale |  
 | bip_39_word_space_0 | ['pave', 'column', 'sense', 'key', 'clay', 'bundle', 'obey', 'over', 'female', 'unfold', 'rubber', 'alpha'] |  
 | bip_39_word_space_1 | pave |  
 | bip_39_word_space_10 | pave column sense key clay bundle obey over female unfold |  

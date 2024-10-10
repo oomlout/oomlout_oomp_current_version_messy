@@ -122,6 +122,18 @@ velvet
 bone
 essence
 pole |  
+| bip_39_word_no_space_1 | basic |  
+| bip_39_word_no_space_10 | basicviewsandsevenguitarvelvetboneessencepolethrow |  
+| bip_39_word_no_space_11 | basicviewsandsevenguitarvelvetboneessencepolethrowgentle |  
+| bip_39_word_no_space_12 | basicviewsandsevenguitarvelvetboneessencepolethrowgentlealert |  
+| bip_39_word_no_space_2 | basicview |  
+| bip_39_word_no_space_3 | basicviewsand |  
+| bip_39_word_no_space_4 | basicviewsandseven |  
+| bip_39_word_no_space_5 | basicviewsandsevenguitar |  
+| bip_39_word_no_space_6 | basicviewsandsevenguitarvelvet |  
+| bip_39_word_no_space_7 | basicviewsandsevenguitarvelvetbone |  
+| bip_39_word_no_space_8 | basicviewsandsevenguitarvelvetboneessence |  
+| bip_39_word_no_space_9 | basicviewsandsevenguitarvelvetboneessencepole |  
 | bip_39_word_space_0 | ['basic', 'view', 'sand', 'seven', 'guitar', 'velvet', 'bone', 'essence', 'pole', 'throw', 'gentle', 'alert'] |  
 | bip_39_word_space_1 | basic |  
 | bip_39_word_space_10 | basic view sand seven guitar velvet bone essence pole throw |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'choose
   brown
 
   lock'
+bip_39_word_no_space_1: choose
+bip_39_word_no_space_10: choosechatmixwhatcargokickarchbrownlockfitness
+bip_39_word_no_space_11: choosechatmixwhatcargokickarchbrownlockfitnesspull
+bip_39_word_no_space_12: choosechatmixwhatcargokickarchbrownlockfitnesspullamount
+bip_39_word_no_space_2: choosechat
+bip_39_word_no_space_3: choosechatmix
+bip_39_word_no_space_4: choosechatmixwhat
+bip_39_word_no_space_5: choosechatmixwhatcargo
+bip_39_word_no_space_6: choosechatmixwhatcargokick
+bip_39_word_no_space_7: choosechatmixwhatcargokickarch
+bip_39_word_no_space_8: choosechatmixwhatcargokickarchbrown
+bip_39_word_no_space_9: choosechatmixwhatcargokickarchbrownlock
 bip_39_word_space_0:
 - choose
 - chat

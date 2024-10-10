@@ -122,6 +122,18 @@ music
 harbor
 soldier
 engine |  
+| bip_39_word_no_space_1 | dutch |  
+| bip_39_word_no_space_10 | dutchdietgriefcontrolmonkeymusicharborsoldierengineexpose |  
+| bip_39_word_no_space_11 | dutchdietgriefcontrolmonkeymusicharborsoldierengineexposeurban |  
+| bip_39_word_no_space_12 | dutchdietgriefcontrolmonkeymusicharborsoldierengineexposeurbanactress |  
+| bip_39_word_no_space_2 | dutchdiet |  
+| bip_39_word_no_space_3 | dutchdietgrief |  
+| bip_39_word_no_space_4 | dutchdietgriefcontrol |  
+| bip_39_word_no_space_5 | dutchdietgriefcontrolmonkey |  
+| bip_39_word_no_space_6 | dutchdietgriefcontrolmonkeymusic |  
+| bip_39_word_no_space_7 | dutchdietgriefcontrolmonkeymusicharbor |  
+| bip_39_word_no_space_8 | dutchdietgriefcontrolmonkeymusicharborsoldier |  
+| bip_39_word_no_space_9 | dutchdietgriefcontrolmonkeymusicharborsoldierengine |  
 | bip_39_word_space_0 | ['dutch', 'diet', 'grief', 'control', 'monkey', 'music', 'harbor', 'soldier', 'engine', 'expose', 'urban', 'actress'] |  
 | bip_39_word_space_1 | dutch |  
 | bip_39_word_space_10 | dutch diet grief control monkey music harbor soldier engine expose |  

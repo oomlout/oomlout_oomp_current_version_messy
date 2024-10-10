@@ -122,6 +122,18 @@ good
 pond
 robot
 victory |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highreuniontaxivolumeordergoodpondrobotvictoryfruit |  
+| bip_39_word_no_space_11 | highreuniontaxivolumeordergoodpondrobotvictoryfruitbright |  
+| bip_39_word_no_space_12 | highreuniontaxivolumeordergoodpondrobotvictoryfruitbrightanalyst |  
+| bip_39_word_no_space_2 | highreunion |  
+| bip_39_word_no_space_3 | highreuniontaxi |  
+| bip_39_word_no_space_4 | highreuniontaxivolume |  
+| bip_39_word_no_space_5 | highreuniontaxivolumeorder |  
+| bip_39_word_no_space_6 | highreuniontaxivolumeordergood |  
+| bip_39_word_no_space_7 | highreuniontaxivolumeordergoodpond |  
+| bip_39_word_no_space_8 | highreuniontaxivolumeordergoodpondrobot |  
+| bip_39_word_no_space_9 | highreuniontaxivolumeordergoodpondrobotvictory |  
 | bip_39_word_space_0 | ['high', 'reunion', 'taxi', 'volume', 'order', 'good', 'pond', 'robot', 'victory', 'fruit', 'bright', 'analyst'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high reunion taxi volume order good pond robot victory fruit |  

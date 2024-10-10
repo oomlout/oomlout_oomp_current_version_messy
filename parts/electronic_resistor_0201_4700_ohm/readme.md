@@ -122,6 +122,18 @@ conduct
 mom
 home
 unhappy |  
+| bip_39_word_no_space_1 | sting |  
+| bip_39_word_no_space_10 | stingnomineecivilsimplenatureconductmomhomeunhappyfinish |  
+| bip_39_word_no_space_11 | stingnomineecivilsimplenatureconductmomhomeunhappyfinishgate |  
+| bip_39_word_no_space_12 | stingnomineecivilsimplenatureconductmomhomeunhappyfinishgateabsorb |  
+| bip_39_word_no_space_2 | stingnominee |  
+| bip_39_word_no_space_3 | stingnomineecivil |  
+| bip_39_word_no_space_4 | stingnomineecivilsimple |  
+| bip_39_word_no_space_5 | stingnomineecivilsimplenature |  
+| bip_39_word_no_space_6 | stingnomineecivilsimplenatureconduct |  
+| bip_39_word_no_space_7 | stingnomineecivilsimplenatureconductmom |  
+| bip_39_word_no_space_8 | stingnomineecivilsimplenatureconductmomhome |  
+| bip_39_word_no_space_9 | stingnomineecivilsimplenatureconductmomhomeunhappy |  
 | bip_39_word_space_0 | ['sting', 'nominee', 'civil', 'simple', 'nature', 'conduct', 'mom', 'home', 'unhappy', 'finish', 'gate', 'absorb'] |  
 | bip_39_word_space_1 | sting |  
 | bip_39_word_space_10 | sting nominee civil simple nature conduct mom home unhappy finish |  

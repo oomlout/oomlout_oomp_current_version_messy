@@ -122,6 +122,18 @@ near
 roast
 breeze
 hair |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settledirectlaptopmoralswordnearroastbreezehairspoil |  
+| bip_39_word_no_space_11 | settledirectlaptopmoralswordnearroastbreezehairspoilcheck |  
+| bip_39_word_no_space_12 | settledirectlaptopmoralswordnearroastbreezehairspoilcheckall |  
+| bip_39_word_no_space_2 | settledirect |  
+| bip_39_word_no_space_3 | settledirectlaptop |  
+| bip_39_word_no_space_4 | settledirectlaptopmoral |  
+| bip_39_word_no_space_5 | settledirectlaptopmoralsword |  
+| bip_39_word_no_space_6 | settledirectlaptopmoralswordnear |  
+| bip_39_word_no_space_7 | settledirectlaptopmoralswordnearroast |  
+| bip_39_word_no_space_8 | settledirectlaptopmoralswordnearroastbreeze |  
+| bip_39_word_no_space_9 | settledirectlaptopmoralswordnearroastbreezehair |  
 | bip_39_word_space_0 | ['settle', 'direct', 'laptop', 'moral', 'sword', 'near', 'roast', 'breeze', 'hair', 'spoil', 'check', 'all'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle direct laptop moral sword near roast breeze hair spoil |  

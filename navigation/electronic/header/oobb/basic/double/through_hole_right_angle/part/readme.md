@@ -122,6 +122,18 @@ clock
 basic
 supreme
 east |  
+| bip_39_word_no_space_1 | near |  
+| bip_39_word_no_space_10 | nearshrugimmensemistakeselectclockbasicsupremeeaststing |  
+| bip_39_word_no_space_11 | nearshrugimmensemistakeselectclockbasicsupremeeaststingbanana |  
+| bip_39_word_no_space_12 | nearshrugimmensemistakeselectclockbasicsupremeeaststingbananaavocado |  
+| bip_39_word_no_space_2 | nearshrug |  
+| bip_39_word_no_space_3 | nearshrugimmense |  
+| bip_39_word_no_space_4 | nearshrugimmensemistake |  
+| bip_39_word_no_space_5 | nearshrugimmensemistakeselect |  
+| bip_39_word_no_space_6 | nearshrugimmensemistakeselectclock |  
+| bip_39_word_no_space_7 | nearshrugimmensemistakeselectclockbasic |  
+| bip_39_word_no_space_8 | nearshrugimmensemistakeselectclockbasicsupreme |  
+| bip_39_word_no_space_9 | nearshrugimmensemistakeselectclockbasicsupremeeast |  
 | bip_39_word_space_0 | ['near', 'shrug', 'immense', 'mistake', 'select', 'clock', 'basic', 'supreme', 'east', 'sting', 'banana', 'avocado'] |  
 | bip_39_word_space_1 | near |  
 | bip_39_word_space_10 | near shrug immense mistake select clock basic supreme east sting |  

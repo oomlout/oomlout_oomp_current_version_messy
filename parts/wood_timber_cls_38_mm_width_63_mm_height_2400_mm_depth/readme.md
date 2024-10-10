@@ -122,6 +122,18 @@ plate
 jungle
 peace
 magnet |  
+| bip_39_word_no_space_1 | swarm |  
+| bip_39_word_no_space_10 | swarmchapterswallowgoddesskiwiplatejunglepeacemagnetwink |  
+| bip_39_word_no_space_11 | swarmchapterswallowgoddesskiwiplatejunglepeacemagnetwinkfrequent |  
+| bip_39_word_no_space_12 | swarmchapterswallowgoddesskiwiplatejunglepeacemagnetwinkfrequentafford |  
+| bip_39_word_no_space_2 | swarmchapter |  
+| bip_39_word_no_space_3 | swarmchapterswallow |  
+| bip_39_word_no_space_4 | swarmchapterswallowgoddess |  
+| bip_39_word_no_space_5 | swarmchapterswallowgoddesskiwi |  
+| bip_39_word_no_space_6 | swarmchapterswallowgoddesskiwiplate |  
+| bip_39_word_no_space_7 | swarmchapterswallowgoddesskiwiplatejungle |  
+| bip_39_word_no_space_8 | swarmchapterswallowgoddesskiwiplatejunglepeace |  
+| bip_39_word_no_space_9 | swarmchapterswallowgoddesskiwiplatejunglepeacemagnet |  
 | bip_39_word_space_0 | ['swarm', 'chapter', 'swallow', 'goddess', 'kiwi', 'plate', 'jungle', 'peace', 'magnet', 'wink', 'frequent', 'afford'] |  
 | bip_39_word_space_1 | swarm |  
 | bip_39_word_space_10 | swarm chapter swallow goddess kiwi plate jungle peace magnet wink |  

@@ -122,6 +122,18 @@ enforce
 core
 unveil
 family |  
+| bip_39_word_no_space_1 | panic |  
+| bip_39_word_no_space_10 | panicmechaniccitizenseriesdefyenforcecoreunveilfamilyfriend |  
+| bip_39_word_no_space_11 | panicmechaniccitizenseriesdefyenforcecoreunveilfamilyfriendmonth |  
+| bip_39_word_no_space_12 | panicmechaniccitizenseriesdefyenforcecoreunveilfamilyfriendmonthapology |  
+| bip_39_word_no_space_2 | panicmechanic |  
+| bip_39_word_no_space_3 | panicmechaniccitizen |  
+| bip_39_word_no_space_4 | panicmechaniccitizenseries |  
+| bip_39_word_no_space_5 | panicmechaniccitizenseriesdefy |  
+| bip_39_word_no_space_6 | panicmechaniccitizenseriesdefyenforce |  
+| bip_39_word_no_space_7 | panicmechaniccitizenseriesdefyenforcecore |  
+| bip_39_word_no_space_8 | panicmechaniccitizenseriesdefyenforcecoreunveil |  
+| bip_39_word_no_space_9 | panicmechaniccitizenseriesdefyenforcecoreunveilfamily |  
 | bip_39_word_space_0 | ['panic', 'mechanic', 'citizen', 'series', 'defy', 'enforce', 'core', 'unveil', 'family', 'friend', 'month', 'apology'] |  
 | bip_39_word_space_1 | panic |  
 | bip_39_word_space_10 | panic mechanic citizen series defy enforce core unveil family friend |  

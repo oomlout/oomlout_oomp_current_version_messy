@@ -122,6 +122,18 @@ sting
 bacon
 enough
 whisper |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphindreamerodecoupleannualstingbaconenoughwhisperitem |  
+| bip_39_word_no_space_11 | dolphindreamerodecoupleannualstingbaconenoughwhisperitemburger |  
+| bip_39_word_no_space_12 | dolphindreamerodecoupleannualstingbaconenoughwhisperitemburgeragent |  
+| bip_39_word_no_space_2 | dolphindream |  
+| bip_39_word_no_space_3 | dolphindreamerode |  
+| bip_39_word_no_space_4 | dolphindreamerodecouple |  
+| bip_39_word_no_space_5 | dolphindreamerodecoupleannual |  
+| bip_39_word_no_space_6 | dolphindreamerodecoupleannualsting |  
+| bip_39_word_no_space_7 | dolphindreamerodecoupleannualstingbacon |  
+| bip_39_word_no_space_8 | dolphindreamerodecoupleannualstingbaconenough |  
+| bip_39_word_no_space_9 | dolphindreamerodecoupleannualstingbaconenoughwhisper |  
 | bip_39_word_space_0 | ['dolphin', 'dream', 'erode', 'couple', 'annual', 'sting', 'bacon', 'enough', 'whisper', 'item', 'burger', 'agent'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin dream erode couple annual sting bacon enough whisper item |  

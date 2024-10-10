@@ -122,6 +122,18 @@ truly
 glass
 slam
 wool |  
+| bip_39_word_no_space_1 | firm |  
+| bip_39_word_no_space_10 | firmplastichairflagstilltrulyglassslamwoolstem |  
+| bip_39_word_no_space_11 | firmplastichairflagstilltrulyglassslamwoolstemquit |  
+| bip_39_word_no_space_12 | firmplastichairflagstilltrulyglassslamwoolstemquitadmit |  
+| bip_39_word_no_space_2 | firmplastic |  
+| bip_39_word_no_space_3 | firmplastichair |  
+| bip_39_word_no_space_4 | firmplastichairflag |  
+| bip_39_word_no_space_5 | firmplastichairflagstill |  
+| bip_39_word_no_space_6 | firmplastichairflagstilltruly |  
+| bip_39_word_no_space_7 | firmplastichairflagstilltrulyglass |  
+| bip_39_word_no_space_8 | firmplastichairflagstilltrulyglassslam |  
+| bip_39_word_no_space_9 | firmplastichairflagstilltrulyglassslamwool |  
 | bip_39_word_space_0 | ['firm', 'plastic', 'hair', 'flag', 'still', 'truly', 'glass', 'slam', 'wool', 'stem', 'quit', 'admit'] |  
 | bip_39_word_space_1 | firm |  
 | bip_39_word_space_10 | firm plastic hair flag still truly glass slam wool stem |  

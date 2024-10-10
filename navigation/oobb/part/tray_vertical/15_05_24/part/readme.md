@@ -122,6 +122,18 @@ rookie
 shallow
 neutral
 joy |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toefittobaccosizeblackrookieshallowneutraljoyaware |  
+| bip_39_word_no_space_11 | toefittobaccosizeblackrookieshallowneutraljoyawarerice |  
+| bip_39_word_no_space_12 | toefittobaccosizeblackrookieshallowneutraljoyawarericealso |  
+| bip_39_word_no_space_2 | toefit |  
+| bip_39_word_no_space_3 | toefittobacco |  
+| bip_39_word_no_space_4 | toefittobaccosize |  
+| bip_39_word_no_space_5 | toefittobaccosizeblack |  
+| bip_39_word_no_space_6 | toefittobaccosizeblackrookie |  
+| bip_39_word_no_space_7 | toefittobaccosizeblackrookieshallow |  
+| bip_39_word_no_space_8 | toefittobaccosizeblackrookieshallowneutral |  
+| bip_39_word_no_space_9 | toefittobaccosizeblackrookieshallowneutraljoy |  
 | bip_39_word_space_0 | ['toe', 'fit', 'tobacco', 'size', 'black', 'rookie', 'shallow', 'neutral', 'joy', 'aware', 'rice', 'also'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe fit tobacco size black rookie shallow neutral joy aware |  

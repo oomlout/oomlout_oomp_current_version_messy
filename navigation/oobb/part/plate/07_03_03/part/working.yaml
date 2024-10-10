@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mosquito
   mom
 
   motor'
+bip_39_word_no_space_1: mosquito
+bip_39_word_no_space_10: mosquitobricktrendpolewildtwicedangermommotorflavor
+bip_39_word_no_space_11: mosquitobricktrendpolewildtwicedangermommotorflavoregg
+bip_39_word_no_space_12: mosquitobricktrendpolewildtwicedangermommotorflavoreggabout
+bip_39_word_no_space_2: mosquitobrick
+bip_39_word_no_space_3: mosquitobricktrend
+bip_39_word_no_space_4: mosquitobricktrendpole
+bip_39_word_no_space_5: mosquitobricktrendpolewild
+bip_39_word_no_space_6: mosquitobricktrendpolewildtwice
+bip_39_word_no_space_7: mosquitobricktrendpolewildtwicedanger
+bip_39_word_no_space_8: mosquitobricktrendpolewildtwicedangermom
+bip_39_word_no_space_9: mosquitobricktrendpolewildtwicedangermommotor
 bip_39_word_space_0:
 - mosquito
 - brick

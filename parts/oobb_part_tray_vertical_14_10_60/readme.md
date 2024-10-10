@@ -122,6 +122,18 @@ round
 exhaust
 basket
 antenna |  
+| bip_39_word_no_space_1 | close |  
+| bip_39_word_no_space_10 | closeliftenrollskullcrushroundexhaustbasketantennaclerk |  
+| bip_39_word_no_space_11 | closeliftenrollskullcrushroundexhaustbasketantennaclerkwinner |  
+| bip_39_word_no_space_12 | closeliftenrollskullcrushroundexhaustbasketantennaclerkwinneralert |  
+| bip_39_word_no_space_2 | closelift |  
+| bip_39_word_no_space_3 | closeliftenroll |  
+| bip_39_word_no_space_4 | closeliftenrollskull |  
+| bip_39_word_no_space_5 | closeliftenrollskullcrush |  
+| bip_39_word_no_space_6 | closeliftenrollskullcrushround |  
+| bip_39_word_no_space_7 | closeliftenrollskullcrushroundexhaust |  
+| bip_39_word_no_space_8 | closeliftenrollskullcrushroundexhaustbasket |  
+| bip_39_word_no_space_9 | closeliftenrollskullcrushroundexhaustbasketantenna |  
 | bip_39_word_space_0 | ['close', 'lift', 'enroll', 'skull', 'crush', 'round', 'exhaust', 'basket', 'antenna', 'clerk', 'winner', 'alert'] |  
 | bip_39_word_space_1 | close |  
 | bip_39_word_space_10 | close lift enroll skull crush round exhaust basket antenna clerk |  

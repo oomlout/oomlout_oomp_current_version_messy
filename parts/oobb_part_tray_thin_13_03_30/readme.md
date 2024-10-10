@@ -122,6 +122,18 @@ rude
 alley
 boil
 verb |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachcradleflyheavysunrudealleyboilverbtruly |  
+| bip_39_word_no_space_11 | stomachcradleflyheavysunrudealleyboilverbtrulyfitness |  
+| bip_39_word_no_space_12 | stomachcradleflyheavysunrudealleyboilverbtrulyfitnessaddress |  
+| bip_39_word_no_space_2 | stomachcradle |  
+| bip_39_word_no_space_3 | stomachcradlefly |  
+| bip_39_word_no_space_4 | stomachcradleflyheavy |  
+| bip_39_word_no_space_5 | stomachcradleflyheavysun |  
+| bip_39_word_no_space_6 | stomachcradleflyheavysunrude |  
+| bip_39_word_no_space_7 | stomachcradleflyheavysunrudealley |  
+| bip_39_word_no_space_8 | stomachcradleflyheavysunrudealleyboil |  
+| bip_39_word_no_space_9 | stomachcradleflyheavysunrudealleyboilverb |  
 | bip_39_word_space_0 | ['stomach', 'cradle', 'fly', 'heavy', 'sun', 'rude', 'alley', 'boil', 'verb', 'truly', 'fitness', 'address'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach cradle fly heavy sun rude alley boil verb truly |  

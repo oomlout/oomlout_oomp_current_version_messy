@@ -122,6 +122,18 @@ alarm
 grass
 token
 toilet |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimseriesratemarchhubalarmgrasstokentoiletmosquito |  
+| bip_39_word_no_space_11 | trimseriesratemarchhubalarmgrasstokentoiletmosquitoweb |  
+| bip_39_word_no_space_12 | trimseriesratemarchhubalarmgrasstokentoiletmosquitowebamused |  
+| bip_39_word_no_space_2 | trimseries |  
+| bip_39_word_no_space_3 | trimseriesrate |  
+| bip_39_word_no_space_4 | trimseriesratemarch |  
+| bip_39_word_no_space_5 | trimseriesratemarchhub |  
+| bip_39_word_no_space_6 | trimseriesratemarchhubalarm |  
+| bip_39_word_no_space_7 | trimseriesratemarchhubalarmgrass |  
+| bip_39_word_no_space_8 | trimseriesratemarchhubalarmgrasstoken |  
+| bip_39_word_no_space_9 | trimseriesratemarchhubalarmgrasstokentoilet |  
 | bip_39_word_space_0 | ['trim', 'series', 'rate', 'march', 'hub', 'alarm', 'grass', 'token', 'toilet', 'mosquito', 'web', 'amused'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim series rate march hub alarm grass token toilet mosquito |  

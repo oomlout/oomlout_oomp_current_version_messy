@@ -122,6 +122,18 @@ funny
 fatigue
 position
 elbow |  
+| bip_39_word_no_space_1 | entire |  
+| bip_39_word_no_space_10 | entirereasontreereformfabricfunnyfatiguepositionelbowpanda |  
+| bip_39_word_no_space_11 | entirereasontreereformfabricfunnyfatiguepositionelbowpandaliquid |  
+| bip_39_word_no_space_12 | entirereasontreereformfabricfunnyfatiguepositionelbowpandaliquidany |  
+| bip_39_word_no_space_2 | entirereason |  
+| bip_39_word_no_space_3 | entirereasontree |  
+| bip_39_word_no_space_4 | entirereasontreereform |  
+| bip_39_word_no_space_5 | entirereasontreereformfabric |  
+| bip_39_word_no_space_6 | entirereasontreereformfabricfunny |  
+| bip_39_word_no_space_7 | entirereasontreereformfabricfunnyfatigue |  
+| bip_39_word_no_space_8 | entirereasontreereformfabricfunnyfatigueposition |  
+| bip_39_word_no_space_9 | entirereasontreereformfabricfunnyfatiguepositionelbow |  
 | bip_39_word_space_0 | ['entire', 'reason', 'tree', 'reform', 'fabric', 'funny', 'fatigue', 'position', 'elbow', 'panda', 'liquid', 'any'] |  
 | bip_39_word_space_1 | entire |  
 | bip_39_word_space_10 | entire reason tree reform fabric funny fatigue position elbow panda |  

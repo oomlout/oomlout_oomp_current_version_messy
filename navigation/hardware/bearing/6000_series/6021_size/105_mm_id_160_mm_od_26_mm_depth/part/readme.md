@@ -122,6 +122,18 @@ vicious
 level
 net
 weird |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programhostaimidlechurnviciouslevelnetweirdmiss |  
+| bip_39_word_no_space_11 | programhostaimidlechurnviciouslevelnetweirdmisssniff |  
+| bip_39_word_no_space_12 | programhostaimidlechurnviciouslevelnetweirdmisssniffanswer |  
+| bip_39_word_no_space_2 | programhost |  
+| bip_39_word_no_space_3 | programhostaim |  
+| bip_39_word_no_space_4 | programhostaimidle |  
+| bip_39_word_no_space_5 | programhostaimidlechurn |  
+| bip_39_word_no_space_6 | programhostaimidlechurnvicious |  
+| bip_39_word_no_space_7 | programhostaimidlechurnviciouslevel |  
+| bip_39_word_no_space_8 | programhostaimidlechurnviciouslevelnet |  
+| bip_39_word_no_space_9 | programhostaimidlechurnviciouslevelnetweird |  
 | bip_39_word_space_0 | ['program', 'host', 'aim', 'idle', 'churn', 'vicious', 'level', 'net', 'weird', 'miss', 'sniff', 'answer'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program host aim idle churn vicious level net weird miss |  

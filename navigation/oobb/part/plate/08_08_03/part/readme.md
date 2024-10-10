@@ -122,6 +122,18 @@ obscure
 bless
 unlock
 blind |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middledeclinefringepresenturgeobscureblessunlockblindplay |  
+| bip_39_word_no_space_11 | middledeclinefringepresenturgeobscureblessunlockblindplayclick |  
+| bip_39_word_no_space_12 | middledeclinefringepresenturgeobscureblessunlockblindplayclickanger |  
+| bip_39_word_no_space_2 | middledecline |  
+| bip_39_word_no_space_3 | middledeclinefringe |  
+| bip_39_word_no_space_4 | middledeclinefringepresent |  
+| bip_39_word_no_space_5 | middledeclinefringepresenturge |  
+| bip_39_word_no_space_6 | middledeclinefringepresenturgeobscure |  
+| bip_39_word_no_space_7 | middledeclinefringepresenturgeobscurebless |  
+| bip_39_word_no_space_8 | middledeclinefringepresenturgeobscureblessunlock |  
+| bip_39_word_no_space_9 | middledeclinefringepresenturgeobscureblessunlockblind |  
 | bip_39_word_space_0 | ['middle', 'decline', 'fringe', 'present', 'urge', 'obscure', 'bless', 'unlock', 'blind', 'play', 'click', 'anger'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle decline fringe present urge obscure bless unlock blind play |  

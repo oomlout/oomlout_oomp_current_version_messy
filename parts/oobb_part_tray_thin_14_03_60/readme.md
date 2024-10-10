@@ -122,6 +122,18 @@ way
 artwork
 easy
 gadget |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usageankleodorsurprisebundlewayartworkeasygadgetlocal |  
+| bip_39_word_no_space_11 | usageankleodorsurprisebundlewayartworkeasygadgetlocaloffice |  
+| bip_39_word_no_space_12 | usageankleodorsurprisebundlewayartworkeasygadgetlocalofficeactress |  
+| bip_39_word_no_space_2 | usageankle |  
+| bip_39_word_no_space_3 | usageankleodor |  
+| bip_39_word_no_space_4 | usageankleodorsurprise |  
+| bip_39_word_no_space_5 | usageankleodorsurprisebundle |  
+| bip_39_word_no_space_6 | usageankleodorsurprisebundleway |  
+| bip_39_word_no_space_7 | usageankleodorsurprisebundlewayartwork |  
+| bip_39_word_no_space_8 | usageankleodorsurprisebundlewayartworkeasy |  
+| bip_39_word_no_space_9 | usageankleodorsurprisebundlewayartworkeasygadget |  
 | bip_39_word_space_0 | ['usage', 'ankle', 'odor', 'surprise', 'bundle', 'way', 'artwork', 'easy', 'gadget', 'local', 'office', 'actress'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage ankle odor surprise bundle way artwork easy gadget local |  

@@ -122,6 +122,18 @@ dawn
 process
 cheese
 uphold |  
+| bip_39_word_no_space_1 | fringe |  
+| bip_39_word_no_space_10 | fringecattlehobbyslimamazingdawnprocesscheeseupholdwine |  
+| bip_39_word_no_space_11 | fringecattlehobbyslimamazingdawnprocesscheeseupholdwineblast |  
+| bip_39_word_no_space_12 | fringecattlehobbyslimamazingdawnprocesscheeseupholdwineblastasset |  
+| bip_39_word_no_space_2 | fringecattle |  
+| bip_39_word_no_space_3 | fringecattlehobby |  
+| bip_39_word_no_space_4 | fringecattlehobbyslim |  
+| bip_39_word_no_space_5 | fringecattlehobbyslimamazing |  
+| bip_39_word_no_space_6 | fringecattlehobbyslimamazingdawn |  
+| bip_39_word_no_space_7 | fringecattlehobbyslimamazingdawnprocess |  
+| bip_39_word_no_space_8 | fringecattlehobbyslimamazingdawnprocesscheese |  
+| bip_39_word_no_space_9 | fringecattlehobbyslimamazingdawnprocesscheeseuphold |  
 | bip_39_word_space_0 | ['fringe', 'cattle', 'hobby', 'slim', 'amazing', 'dawn', 'process', 'cheese', 'uphold', 'wine', 'blast', 'asset'] |  
 | bip_39_word_space_1 | fringe |  
 | bip_39_word_space_10 | fringe cattle hobby slim amazing dawn process cheese uphold wine |  

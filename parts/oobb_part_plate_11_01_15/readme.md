@@ -122,6 +122,18 @@ excuse
 heavy
 chat
 label |  
+| bip_39_word_no_space_1 | reduce |  
+| bip_39_word_no_space_10 | reducemovesnapquicksixexcuseheavychatlabelfalse |  
+| bip_39_word_no_space_11 | reducemovesnapquicksixexcuseheavychatlabelfalseunit |  
+| bip_39_word_no_space_12 | reducemovesnapquicksixexcuseheavychatlabelfalseunitall |  
+| bip_39_word_no_space_2 | reducemove |  
+| bip_39_word_no_space_3 | reducemovesnap |  
+| bip_39_word_no_space_4 | reducemovesnapquick |  
+| bip_39_word_no_space_5 | reducemovesnapquicksix |  
+| bip_39_word_no_space_6 | reducemovesnapquicksixexcuse |  
+| bip_39_word_no_space_7 | reducemovesnapquicksixexcuseheavy |  
+| bip_39_word_no_space_8 | reducemovesnapquicksixexcuseheavychat |  
+| bip_39_word_no_space_9 | reducemovesnapquicksixexcuseheavychatlabel |  
 | bip_39_word_space_0 | ['reduce', 'move', 'snap', 'quick', 'six', 'excuse', 'heavy', 'chat', 'label', 'false', 'unit', 'all'] |  
 | bip_39_word_space_1 | reduce |  
 | bip_39_word_space_10 | reduce move snap quick six excuse heavy chat label false |  

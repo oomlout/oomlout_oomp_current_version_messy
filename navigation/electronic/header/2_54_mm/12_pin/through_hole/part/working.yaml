@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'twenty
   cry
 
   dignity'
+bip_39_word_no_space_1: twenty
+bip_39_word_no_space_10: twentytrimturtlespoonstockevilshortcrydignitysiren
+bip_39_word_no_space_11: twentytrimturtlespoonstockevilshortcrydignitysirenplease
+bip_39_word_no_space_12: twentytrimturtlespoonstockevilshortcrydignitysirenpleaseassume
+bip_39_word_no_space_2: twentytrim
+bip_39_word_no_space_3: twentytrimturtle
+bip_39_word_no_space_4: twentytrimturtlespoon
+bip_39_word_no_space_5: twentytrimturtlespoonstock
+bip_39_word_no_space_6: twentytrimturtlespoonstockevil
+bip_39_word_no_space_7: twentytrimturtlespoonstockevilshort
+bip_39_word_no_space_8: twentytrimturtlespoonstockevilshortcry
+bip_39_word_no_space_9: twentytrimturtlespoonstockevilshortcrydignity
 bip_39_word_space_0:
 - twenty
 - trim

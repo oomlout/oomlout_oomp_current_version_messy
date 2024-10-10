@@ -122,6 +122,18 @@ dilemma
 breeze
 rural
 tobacco |  
+| bip_39_word_no_space_1 | fiber |  
+| bip_39_word_no_space_10 | fiberglorycrowdsweardetaildilemmabreezeruraltobaccosniff |  
+| bip_39_word_no_space_11 | fiberglorycrowdsweardetaildilemmabreezeruraltobaccosniffblind |  
+| bip_39_word_no_space_12 | fiberglorycrowdsweardetaildilemmabreezeruraltobaccosniffblindall |  
+| bip_39_word_no_space_2 | fiberglory |  
+| bip_39_word_no_space_3 | fiberglorycrowd |  
+| bip_39_word_no_space_4 | fiberglorycrowdswear |  
+| bip_39_word_no_space_5 | fiberglorycrowdsweardetail |  
+| bip_39_word_no_space_6 | fiberglorycrowdsweardetaildilemma |  
+| bip_39_word_no_space_7 | fiberglorycrowdsweardetaildilemmabreeze |  
+| bip_39_word_no_space_8 | fiberglorycrowdsweardetaildilemmabreezerural |  
+| bip_39_word_no_space_9 | fiberglorycrowdsweardetaildilemmabreezeruraltobacco |  
 | bip_39_word_space_0 | ['fiber', 'glory', 'crowd', 'swear', 'detail', 'dilemma', 'breeze', 'rural', 'tobacco', 'sniff', 'blind', 'all'] |  
 | bip_39_word_space_1 | fiber |  
 | bip_39_word_space_10 | fiber glory crowd swear detail dilemma breeze rural tobacco sniff |  

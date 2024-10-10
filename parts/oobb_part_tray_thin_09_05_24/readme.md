@@ -122,6 +122,18 @@ music
 great
 exchange
 soldier |  
+| bip_39_word_no_space_1 | urge |  
+| bip_39_word_no_space_10 | urgegallerydevotehellosolutionmusicgreatexchangesoldierhybrid |  
+| bip_39_word_no_space_11 | urgegallerydevotehellosolutionmusicgreatexchangesoldierhybridpole |  
+| bip_39_word_no_space_12 | urgegallerydevotehellosolutionmusicgreatexchangesoldierhybridpoleanimal |  
+| bip_39_word_no_space_2 | urgegallery |  
+| bip_39_word_no_space_3 | urgegallerydevote |  
+| bip_39_word_no_space_4 | urgegallerydevotehello |  
+| bip_39_word_no_space_5 | urgegallerydevotehellosolution |  
+| bip_39_word_no_space_6 | urgegallerydevotehellosolutionmusic |  
+| bip_39_word_no_space_7 | urgegallerydevotehellosolutionmusicgreat |  
+| bip_39_word_no_space_8 | urgegallerydevotehellosolutionmusicgreatexchange |  
+| bip_39_word_no_space_9 | urgegallerydevotehellosolutionmusicgreatexchangesoldier |  
 | bip_39_word_space_0 | ['urge', 'gallery', 'devote', 'hello', 'solution', 'music', 'great', 'exchange', 'soldier', 'hybrid', 'pole', 'animal'] |  
 | bip_39_word_space_1 | urge |  
 | bip_39_word_space_10 | urge gallery devote hello solution music great exchange soldier hybrid |  

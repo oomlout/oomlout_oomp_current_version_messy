@@ -122,6 +122,18 @@ silent
 disorder
 already
 follow |  
+| bip_39_word_no_space_1 | write |  
+| bip_39_word_no_space_10 | writeforcerememberpropertyenjoysilentdisorderalreadyfollowone |  
+| bip_39_word_no_space_11 | writeforcerememberpropertyenjoysilentdisorderalreadyfollowoneproblem |  
+| bip_39_word_no_space_12 | writeforcerememberpropertyenjoysilentdisorderalreadyfollowoneproblemalley |  
+| bip_39_word_no_space_2 | writeforce |  
+| bip_39_word_no_space_3 | writeforceremember |  
+| bip_39_word_no_space_4 | writeforcerememberproperty |  
+| bip_39_word_no_space_5 | writeforcerememberpropertyenjoy |  
+| bip_39_word_no_space_6 | writeforcerememberpropertyenjoysilent |  
+| bip_39_word_no_space_7 | writeforcerememberpropertyenjoysilentdisorder |  
+| bip_39_word_no_space_8 | writeforcerememberpropertyenjoysilentdisorderalready |  
+| bip_39_word_no_space_9 | writeforcerememberpropertyenjoysilentdisorderalreadyfollow |  
 | bip_39_word_space_0 | ['write', 'force', 'remember', 'property', 'enjoy', 'silent', 'disorder', 'already', 'follow', 'one', 'problem', 'alley'] |  
 | bip_39_word_space_1 | write |  
 | bip_39_word_space_10 | write force remember property enjoy silent disorder already follow one |  

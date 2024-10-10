@@ -122,6 +122,18 @@ voyage
 pond
 bonus
 bottom |  
+| bip_39_word_no_space_1 | disagree |  
+| bip_39_word_no_space_10 | disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweet |  
+| bip_39_word_no_space_11 | disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweetugly |  
+| bip_39_word_no_space_12 | disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweetuglyaround |  
+| bip_39_word_no_space_2 | disagreeostrich |  
+| bip_39_word_no_space_3 | disagreeostrichsalt |  
+| bip_39_word_no_space_4 | disagreeostrichsaltluxury |  
+| bip_39_word_no_space_5 | disagreeostrichsaltluxurybecome |  
+| bip_39_word_no_space_6 | disagreeostrichsaltluxurybecomevoyage |  
+| bip_39_word_no_space_7 | disagreeostrichsaltluxurybecomevoyagepond |  
+| bip_39_word_no_space_8 | disagreeostrichsaltluxurybecomevoyagepondbonus |  
+| bip_39_word_no_space_9 | disagreeostrichsaltluxurybecomevoyagepondbonusbottom |  
 | bip_39_word_space_0 | ['disagree', 'ostrich', 'salt', 'luxury', 'become', 'voyage', 'pond', 'bonus', 'bottom', 'sweet', 'ugly', 'around'] |  
 | bip_39_word_space_1 | disagree |  
 | bip_39_word_space_10 | disagree ostrich salt luxury become voyage pond bonus bottom sweet |  

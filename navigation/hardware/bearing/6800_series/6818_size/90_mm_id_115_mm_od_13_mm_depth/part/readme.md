@@ -122,6 +122,18 @@ point
 task
 kite
 another |  
+| bip_39_word_no_space_1 | drip |  
+| bip_39_word_no_space_10 | dripcertaintiltactcoastpointtaskkiteanotherdizzy |  
+| bip_39_word_no_space_11 | dripcertaintiltactcoastpointtaskkiteanotherdizzytooth |  
+| bip_39_word_no_space_12 | dripcertaintiltactcoastpointtaskkiteanotherdizzytoothany |  
+| bip_39_word_no_space_2 | dripcertain |  
+| bip_39_word_no_space_3 | dripcertaintilt |  
+| bip_39_word_no_space_4 | dripcertaintiltact |  
+| bip_39_word_no_space_5 | dripcertaintiltactcoast |  
+| bip_39_word_no_space_6 | dripcertaintiltactcoastpoint |  
+| bip_39_word_no_space_7 | dripcertaintiltactcoastpointtask |  
+| bip_39_word_no_space_8 | dripcertaintiltactcoastpointtaskkite |  
+| bip_39_word_no_space_9 | dripcertaintiltactcoastpointtaskkiteanother |  
 | bip_39_word_space_0 | ['drip', 'certain', 'tilt', 'act', 'coast', 'point', 'task', 'kite', 'another', 'dizzy', 'tooth', 'any'] |  
 | bip_39_word_space_1 | drip |  
 | bip_39_word_space_10 | drip certain tilt act coast point task kite another dizzy |  

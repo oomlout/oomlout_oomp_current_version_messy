@@ -122,6 +122,18 @@ awesome
 salmon
 analyst
 wise |  
+| bip_39_word_no_space_1 | swift |  
+| bip_39_word_no_space_10 | swiftbuscargrapenameawesomesalmonanalystwiseafford |  
+| bip_39_word_no_space_11 | swiftbuscargrapenameawesomesalmonanalystwiseaffordcoil |  
+| bip_39_word_no_space_12 | swiftbuscargrapenameawesomesalmonanalystwiseaffordcoilauthor |  
+| bip_39_word_no_space_2 | swiftbus |  
+| bip_39_word_no_space_3 | swiftbuscar |  
+| bip_39_word_no_space_4 | swiftbuscargrape |  
+| bip_39_word_no_space_5 | swiftbuscargrapename |  
+| bip_39_word_no_space_6 | swiftbuscargrapenameawesome |  
+| bip_39_word_no_space_7 | swiftbuscargrapenameawesomesalmon |  
+| bip_39_word_no_space_8 | swiftbuscargrapenameawesomesalmonanalyst |  
+| bip_39_word_no_space_9 | swiftbuscargrapenameawesomesalmonanalystwise |  
 | bip_39_word_space_0 | ['swift', 'bus', 'car', 'grape', 'name', 'awesome', 'salmon', 'analyst', 'wise', 'afford', 'coil', 'author'] |  
 | bip_39_word_space_1 | swift |  
 | bip_39_word_space_10 | swift bus car grape name awesome salmon analyst wise afford |  

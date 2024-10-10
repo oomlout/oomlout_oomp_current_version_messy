@@ -122,6 +122,18 @@ nice
 hood
 blouse
 distance |  
+| bip_39_word_no_space_1 | column |  
+| bip_39_word_no_space_10 | columnownerescapedecadeoutdoornicehoodblousedistancevolume |  
+| bip_39_word_no_space_11 | columnownerescapedecadeoutdoornicehoodblousedistancevolumepioneer |  
+| bip_39_word_no_space_12 | columnownerescapedecadeoutdoornicehoodblousedistancevolumepioneerasset |  
+| bip_39_word_no_space_2 | columnowner |  
+| bip_39_word_no_space_3 | columnownerescape |  
+| bip_39_word_no_space_4 | columnownerescapedecade |  
+| bip_39_word_no_space_5 | columnownerescapedecadeoutdoor |  
+| bip_39_word_no_space_6 | columnownerescapedecadeoutdoornice |  
+| bip_39_word_no_space_7 | columnownerescapedecadeoutdoornicehood |  
+| bip_39_word_no_space_8 | columnownerescapedecadeoutdoornicehoodblouse |  
+| bip_39_word_no_space_9 | columnownerescapedecadeoutdoornicehoodblousedistance |  
 | bip_39_word_space_0 | ['column', 'owner', 'escape', 'decade', 'outdoor', 'nice', 'hood', 'blouse', 'distance', 'volume', 'pioneer', 'asset'] |  
 | bip_39_word_space_1 | column |  
 | bip_39_word_space_10 | column owner escape decade outdoor nice hood blouse distance volume |  

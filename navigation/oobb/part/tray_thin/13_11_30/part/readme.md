@@ -122,6 +122,18 @@ chest
 industry
 crime
 banana |  
+| bip_39_word_no_space_1 | silk |  
+| bip_39_word_no_space_10 | silkauthorguardonionminorchestindustrycrimebananastumble |  
+| bip_39_word_no_space_11 | silkauthorguardonionminorchestindustrycrimebananastumblepeasant |  
+| bip_39_word_no_space_12 | silkauthorguardonionminorchestindustrycrimebananastumblepeasantalpha |  
+| bip_39_word_no_space_2 | silkauthor |  
+| bip_39_word_no_space_3 | silkauthorguard |  
+| bip_39_word_no_space_4 | silkauthorguardonion |  
+| bip_39_word_no_space_5 | silkauthorguardonionminor |  
+| bip_39_word_no_space_6 | silkauthorguardonionminorchest |  
+| bip_39_word_no_space_7 | silkauthorguardonionminorchestindustry |  
+| bip_39_word_no_space_8 | silkauthorguardonionminorchestindustrycrime |  
+| bip_39_word_no_space_9 | silkauthorguardonionminorchestindustrycrimebanana |  
 | bip_39_word_space_0 | ['silk', 'author', 'guard', 'onion', 'minor', 'chest', 'industry', 'crime', 'banana', 'stumble', 'peasant', 'alpha'] |  
 | bip_39_word_space_1 | silk |  
 | bip_39_word_space_10 | silk author guard onion minor chest industry crime banana stumble |  

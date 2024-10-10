@@ -122,6 +122,18 @@ what
 miss
 axis
 crazy |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilunhappycementlaptopinspirewhatmissaxiscrazyactual |  
+| bip_39_word_no_space_11 | aprilunhappycementlaptopinspirewhatmissaxiscrazyactualalter |  
+| bip_39_word_no_space_12 | aprilunhappycementlaptopinspirewhatmissaxiscrazyactualalteralone |  
+| bip_39_word_no_space_2 | aprilunhappy |  
+| bip_39_word_no_space_3 | aprilunhappycement |  
+| bip_39_word_no_space_4 | aprilunhappycementlaptop |  
+| bip_39_word_no_space_5 | aprilunhappycementlaptopinspire |  
+| bip_39_word_no_space_6 | aprilunhappycementlaptopinspirewhat |  
+| bip_39_word_no_space_7 | aprilunhappycementlaptopinspirewhatmiss |  
+| bip_39_word_no_space_8 | aprilunhappycementlaptopinspirewhatmissaxis |  
+| bip_39_word_no_space_9 | aprilunhappycementlaptopinspirewhatmissaxiscrazy |  
 | bip_39_word_space_0 | ['april', 'unhappy', 'cement', 'laptop', 'inspire', 'what', 'miss', 'axis', 'crazy', 'actual', 'alter', 'alone'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april unhappy cement laptop inspire what miss axis crazy actual |  

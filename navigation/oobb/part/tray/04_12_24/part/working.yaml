@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'keep
   jungle
 
   worth'
+bip_39_word_no_space_1: keep
+bip_39_word_no_space_10: keepcarpetcleanactionjoybehavelengthjungleworthquantum
+bip_39_word_no_space_11: keepcarpetcleanactionjoybehavelengthjungleworthquantumcrew
+bip_39_word_no_space_12: keepcarpetcleanactionjoybehavelengthjungleworthquantumcrewachieve
+bip_39_word_no_space_2: keepcarpet
+bip_39_word_no_space_3: keepcarpetclean
+bip_39_word_no_space_4: keepcarpetcleanaction
+bip_39_word_no_space_5: keepcarpetcleanactionjoy
+bip_39_word_no_space_6: keepcarpetcleanactionjoybehave
+bip_39_word_no_space_7: keepcarpetcleanactionjoybehavelength
+bip_39_word_no_space_8: keepcarpetcleanactionjoybehavelengthjungle
+bip_39_word_no_space_9: keepcarpetcleanactionjoybehavelengthjungleworth
 bip_39_word_space_0:
 - keep
 - carpet

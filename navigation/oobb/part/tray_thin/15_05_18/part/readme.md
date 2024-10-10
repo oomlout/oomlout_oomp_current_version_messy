@@ -122,6 +122,18 @@ curve
 accuse
 length
 injury |  
+| bip_39_word_no_space_1 | neck |  
+| bip_39_word_no_space_10 | necklengthroaststrategyfashioncurveaccuselengthinjurygive |  
+| bip_39_word_no_space_11 | necklengthroaststrategyfashioncurveaccuselengthinjurygiveexpire |  
+| bip_39_word_no_space_12 | necklengthroaststrategyfashioncurveaccuselengthinjurygiveexpireadvice |  
+| bip_39_word_no_space_2 | necklength |  
+| bip_39_word_no_space_3 | necklengthroast |  
+| bip_39_word_no_space_4 | necklengthroaststrategy |  
+| bip_39_word_no_space_5 | necklengthroaststrategyfashion |  
+| bip_39_word_no_space_6 | necklengthroaststrategyfashioncurve |  
+| bip_39_word_no_space_7 | necklengthroaststrategyfashioncurveaccuse |  
+| bip_39_word_no_space_8 | necklengthroaststrategyfashioncurveaccuselength |  
+| bip_39_word_no_space_9 | necklengthroaststrategyfashioncurveaccuselengthinjury |  
 | bip_39_word_space_0 | ['neck', 'length', 'roast', 'strategy', 'fashion', 'curve', 'accuse', 'length', 'injury', 'give', 'expire', 'advice'] |  
 | bip_39_word_space_1 | neck |  
 | bip_39_word_space_10 | neck length roast strategy fashion curve accuse length injury give |  

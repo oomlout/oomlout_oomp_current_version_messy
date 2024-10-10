@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mirror
   aerobic
 
   aim'
+bip_39_word_no_space_1: mirror
+bip_39_word_no_space_10: mirrormovefantasynoiseusagefluidbrokenaerobicaimwhisper
+bip_39_word_no_space_11: mirrormovefantasynoiseusagefluidbrokenaerobicaimwhisperinmate
+bip_39_word_no_space_12: mirrormovefantasynoiseusagefluidbrokenaerobicaimwhisperinmatearound
+bip_39_word_no_space_2: mirrormove
+bip_39_word_no_space_3: mirrormovefantasy
+bip_39_word_no_space_4: mirrormovefantasynoise
+bip_39_word_no_space_5: mirrormovefantasynoiseusage
+bip_39_word_no_space_6: mirrormovefantasynoiseusagefluid
+bip_39_word_no_space_7: mirrormovefantasynoiseusagefluidbroken
+bip_39_word_no_space_8: mirrormovefantasynoiseusagefluidbrokenaerobic
+bip_39_word_no_space_9: mirrormovefantasynoiseusagefluidbrokenaerobicaim
 bip_39_word_space_0:
 - mirror
 - move

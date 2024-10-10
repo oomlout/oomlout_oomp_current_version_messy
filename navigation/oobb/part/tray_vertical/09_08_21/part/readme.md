@@ -122,6 +122,18 @@ turkey
 silent
 dirt
 artist |  
+| bip_39_word_no_space_1 | laundry |  
+| bip_39_word_no_space_10 | laundryruralstatefingerdrasticturkeysilentdirtartistslot |  
+| bip_39_word_no_space_11 | laundryruralstatefingerdrasticturkeysilentdirtartistslotrather |  
+| bip_39_word_no_space_12 | laundryruralstatefingerdrasticturkeysilentdirtartistslotratherapple |  
+| bip_39_word_no_space_2 | laundryrural |  
+| bip_39_word_no_space_3 | laundryruralstate |  
+| bip_39_word_no_space_4 | laundryruralstatefinger |  
+| bip_39_word_no_space_5 | laundryruralstatefingerdrastic |  
+| bip_39_word_no_space_6 | laundryruralstatefingerdrasticturkey |  
+| bip_39_word_no_space_7 | laundryruralstatefingerdrasticturkeysilent |  
+| bip_39_word_no_space_8 | laundryruralstatefingerdrasticturkeysilentdirt |  
+| bip_39_word_no_space_9 | laundryruralstatefingerdrasticturkeysilentdirtartist |  
 | bip_39_word_space_0 | ['laundry', 'rural', 'state', 'finger', 'drastic', 'turkey', 'silent', 'dirt', 'artist', 'slot', 'rather', 'apple'] |  
 | bip_39_word_space_1 | laundry |  
 | bip_39_word_space_10 | laundry rural state finger drastic turkey silent dirt artist slot |  

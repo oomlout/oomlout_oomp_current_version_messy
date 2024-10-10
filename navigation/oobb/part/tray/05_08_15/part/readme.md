@@ -122,6 +122,18 @@ leg
 fatal
 copper
 depth |  
+| bip_39_word_no_space_1 | wish |  
+| bip_39_word_no_space_10 | wishfurnacetinydeliverslightlegfatalcopperdepthtrend |  
+| bip_39_word_no_space_11 | wishfurnacetinydeliverslightlegfatalcopperdepthtrendgaze |  
+| bip_39_word_no_space_12 | wishfurnacetinydeliverslightlegfatalcopperdepthtrendgazeaddict |  
+| bip_39_word_no_space_2 | wishfurnace |  
+| bip_39_word_no_space_3 | wishfurnacetiny |  
+| bip_39_word_no_space_4 | wishfurnacetinydeliver |  
+| bip_39_word_no_space_5 | wishfurnacetinydeliverslight |  
+| bip_39_word_no_space_6 | wishfurnacetinydeliverslightleg |  
+| bip_39_word_no_space_7 | wishfurnacetinydeliverslightlegfatal |  
+| bip_39_word_no_space_8 | wishfurnacetinydeliverslightlegfatalcopper |  
+| bip_39_word_no_space_9 | wishfurnacetinydeliverslightlegfatalcopperdepth |  
 | bip_39_word_space_0 | ['wish', 'furnace', 'tiny', 'deliver', 'slight', 'leg', 'fatal', 'copper', 'depth', 'trend', 'gaze', 'addict'] |  
 | bip_39_word_space_1 | wish |  
 | bip_39_word_space_10 | wish furnace tiny deliver slight leg fatal copper depth trend |  

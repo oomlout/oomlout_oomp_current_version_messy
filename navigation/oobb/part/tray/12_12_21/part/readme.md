@@ -122,6 +122,18 @@ among
 gossip
 street
 skirt |  
+| bip_39_word_no_space_1 | visit |  
+| bip_39_word_no_space_10 | visitwheatasthmabarnationamonggossipstreetskirtvault |  
+| bip_39_word_no_space_11 | visitwheatasthmabarnationamonggossipstreetskirtvaultcomic |  
+| bip_39_word_no_space_12 | visitwheatasthmabarnationamonggossipstreetskirtvaultcomicassault |  
+| bip_39_word_no_space_2 | visitwheat |  
+| bip_39_word_no_space_3 | visitwheatasthma |  
+| bip_39_word_no_space_4 | visitwheatasthmabar |  
+| bip_39_word_no_space_5 | visitwheatasthmabarnation |  
+| bip_39_word_no_space_6 | visitwheatasthmabarnationamong |  
+| bip_39_word_no_space_7 | visitwheatasthmabarnationamonggossip |  
+| bip_39_word_no_space_8 | visitwheatasthmabarnationamonggossipstreet |  
+| bip_39_word_no_space_9 | visitwheatasthmabarnationamonggossipstreetskirt |  
 | bip_39_word_space_0 | ['visit', 'wheat', 'asthma', 'bar', 'nation', 'among', 'gossip', 'street', 'skirt', 'vault', 'comic', 'assault'] |  
 | bip_39_word_space_1 | visit |  
 | bip_39_word_space_10 | visit wheat asthma bar nation among gossip street skirt vault |  

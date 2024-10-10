@@ -122,6 +122,18 @@ pact
 similar
 project
 note |  
+| bip_39_word_no_space_1 | jeans |  
+| bip_39_word_no_space_10 | jeansjokematerialcrucialsponsorpactsimilarprojectnotescan |  
+| bip_39_word_no_space_11 | jeansjokematerialcrucialsponsorpactsimilarprojectnotescanflash |  
+| bip_39_word_no_space_12 | jeansjokematerialcrucialsponsorpactsimilarprojectnotescanflashadvice |  
+| bip_39_word_no_space_2 | jeansjoke |  
+| bip_39_word_no_space_3 | jeansjokematerial |  
+| bip_39_word_no_space_4 | jeansjokematerialcrucial |  
+| bip_39_word_no_space_5 | jeansjokematerialcrucialsponsor |  
+| bip_39_word_no_space_6 | jeansjokematerialcrucialsponsorpact |  
+| bip_39_word_no_space_7 | jeansjokematerialcrucialsponsorpactsimilar |  
+| bip_39_word_no_space_8 | jeansjokematerialcrucialsponsorpactsimilarproject |  
+| bip_39_word_no_space_9 | jeansjokematerialcrucialsponsorpactsimilarprojectnote |  
 | bip_39_word_space_0 | ['jeans', 'joke', 'material', 'crucial', 'sponsor', 'pact', 'similar', 'project', 'note', 'scan', 'flash', 'advice'] |  
 | bip_39_word_space_1 | jeans |  
 | bip_39_word_space_10 | jeans joke material crucial sponsor pact similar project note scan |  

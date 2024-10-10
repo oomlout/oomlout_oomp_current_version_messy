@@ -122,6 +122,18 @@ table
 stamp
 alter
 average |  
+| bip_39_word_no_space_1 | bid |  
+| bip_39_word_no_space_10 | bidopinionaffairattenddetailtablestampalteraveragepottery |  
+| bip_39_word_no_space_11 | bidopinionaffairattenddetailtablestampalteraveragepotteryphrase |  
+| bip_39_word_no_space_12 | bidopinionaffairattenddetailtablestampalteraveragepotteryphraseaccess |  
+| bip_39_word_no_space_2 | bidopinion |  
+| bip_39_word_no_space_3 | bidopinionaffair |  
+| bip_39_word_no_space_4 | bidopinionaffairattend |  
+| bip_39_word_no_space_5 | bidopinionaffairattenddetail |  
+| bip_39_word_no_space_6 | bidopinionaffairattenddetailtable |  
+| bip_39_word_no_space_7 | bidopinionaffairattenddetailtablestamp |  
+| bip_39_word_no_space_8 | bidopinionaffairattenddetailtablestampalter |  
+| bip_39_word_no_space_9 | bidopinionaffairattenddetailtablestampalteraverage |  
 | bip_39_word_space_0 | ['bid', 'opinion', 'affair', 'attend', 'detail', 'table', 'stamp', 'alter', 'average', 'pottery', 'phrase', 'access'] |  
 | bip_39_word_space_1 | bid |  
 | bip_39_word_space_10 | bid opinion affair attend detail table stamp alter average pottery |  

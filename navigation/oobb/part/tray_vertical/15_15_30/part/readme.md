@@ -122,6 +122,18 @@ mango
 doctor
 universe
 mobile |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulsemovieunknownangryenvelopemangodoctoruniversemobilemuffin |  
+| bip_39_word_no_space_11 | impulsemovieunknownangryenvelopemangodoctoruniversemobilemuffinpanda |  
+| bip_39_word_no_space_12 | impulsemovieunknownangryenvelopemangodoctoruniversemobilemuffinpandaatom |  
+| bip_39_word_no_space_2 | impulsemovie |  
+| bip_39_word_no_space_3 | impulsemovieunknown |  
+| bip_39_word_no_space_4 | impulsemovieunknownangry |  
+| bip_39_word_no_space_5 | impulsemovieunknownangryenvelope |  
+| bip_39_word_no_space_6 | impulsemovieunknownangryenvelopemango |  
+| bip_39_word_no_space_7 | impulsemovieunknownangryenvelopemangodoctor |  
+| bip_39_word_no_space_8 | impulsemovieunknownangryenvelopemangodoctoruniverse |  
+| bip_39_word_no_space_9 | impulsemovieunknownangryenvelopemangodoctoruniversemobile |  
 | bip_39_word_space_0 | ['impulse', 'movie', 'unknown', 'angry', 'envelope', 'mango', 'doctor', 'universe', 'mobile', 'muffin', 'panda', 'atom'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse movie unknown angry envelope mango doctor universe mobile muffin |  

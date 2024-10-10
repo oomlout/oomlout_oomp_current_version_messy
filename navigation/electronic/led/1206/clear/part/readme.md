@@ -122,6 +122,18 @@ decorate
 truly
 marine
 trap |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallquantumluggageresistmuffindecoratetrulymarinetrapguide |  
+| bip_39_word_no_space_11 | wallquantumluggageresistmuffindecoratetrulymarinetrapguidecurtain |  
+| bip_39_word_no_space_12 | wallquantumluggageresistmuffindecoratetrulymarinetrapguidecurtainarctic |  
+| bip_39_word_no_space_2 | wallquantum |  
+| bip_39_word_no_space_3 | wallquantumluggage |  
+| bip_39_word_no_space_4 | wallquantumluggageresist |  
+| bip_39_word_no_space_5 | wallquantumluggageresistmuffin |  
+| bip_39_word_no_space_6 | wallquantumluggageresistmuffindecorate |  
+| bip_39_word_no_space_7 | wallquantumluggageresistmuffindecoratetruly |  
+| bip_39_word_no_space_8 | wallquantumluggageresistmuffindecoratetrulymarine |  
+| bip_39_word_no_space_9 | wallquantumluggageresistmuffindecoratetrulymarinetrap |  
 | bip_39_word_space_0 | ['wall', 'quantum', 'luggage', 'resist', 'muffin', 'decorate', 'truly', 'marine', 'trap', 'guide', 'curtain', 'arctic'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall quantum luggage resist muffin decorate truly marine trap guide |  

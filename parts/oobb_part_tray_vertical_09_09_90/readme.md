@@ -122,6 +122,18 @@ never
 garage
 odor
 lemon |  
+| bip_39_word_no_space_1 | pilot |  
+| bip_39_word_no_space_10 | pilotsingbulbbookbikenevergarageodorlemontwenty |  
+| bip_39_word_no_space_11 | pilotsingbulbbookbikenevergarageodorlemontwentydeny |  
+| bip_39_word_no_space_12 | pilotsingbulbbookbikenevergarageodorlemontwentydenyamazing |  
+| bip_39_word_no_space_2 | pilotsing |  
+| bip_39_word_no_space_3 | pilotsingbulb |  
+| bip_39_word_no_space_4 | pilotsingbulbbook |  
+| bip_39_word_no_space_5 | pilotsingbulbbookbike |  
+| bip_39_word_no_space_6 | pilotsingbulbbookbikenever |  
+| bip_39_word_no_space_7 | pilotsingbulbbookbikenevergarage |  
+| bip_39_word_no_space_8 | pilotsingbulbbookbikenevergarageodor |  
+| bip_39_word_no_space_9 | pilotsingbulbbookbikenevergarageodorlemon |  
 | bip_39_word_space_0 | ['pilot', 'sing', 'bulb', 'book', 'bike', 'never', 'garage', 'odor', 'lemon', 'twenty', 'deny', 'amazing'] |  
 | bip_39_word_space_1 | pilot |  
 | bip_39_word_space_10 | pilot sing bulb book bike never garage odor lemon twenty |  

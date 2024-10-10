@@ -122,6 +122,18 @@ eyebrow
 egg
 liar
 problem |  
+| bip_39_word_no_space_1 | this |  
+| bip_39_word_no_space_10 | thiseternalvalveseminarbundleeyebroweggliarproblembachelor |  
+| bip_39_word_no_space_11 | thiseternalvalveseminarbundleeyebroweggliarproblembachelorfestival |  
+| bip_39_word_no_space_12 | thiseternalvalveseminarbundleeyebroweggliarproblembachelorfestivalapprove |  
+| bip_39_word_no_space_2 | thiseternal |  
+| bip_39_word_no_space_3 | thiseternalvalve |  
+| bip_39_word_no_space_4 | thiseternalvalveseminar |  
+| bip_39_word_no_space_5 | thiseternalvalveseminarbundle |  
+| bip_39_word_no_space_6 | thiseternalvalveseminarbundleeyebrow |  
+| bip_39_word_no_space_7 | thiseternalvalveseminarbundleeyebrowegg |  
+| bip_39_word_no_space_8 | thiseternalvalveseminarbundleeyebroweggliar |  
+| bip_39_word_no_space_9 | thiseternalvalveseminarbundleeyebroweggliarproblem |  
 | bip_39_word_space_0 | ['this', 'eternal', 'valve', 'seminar', 'bundle', 'eyebrow', 'egg', 'liar', 'problem', 'bachelor', 'festival', 'approve'] |  
 | bip_39_word_space_1 | this |  
 | bip_39_word_space_10 | this eternal valve seminar bundle eyebrow egg liar problem bachelor |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'trust
   level
 
   fork'
+bip_39_word_no_space_1: trust
+bip_39_word_no_space_10: trustcatbracketyouthfaithbubbleextendlevelforkmouse
+bip_39_word_no_space_11: trustcatbracketyouthfaithbubbleextendlevelforkmouseessay
+bip_39_word_no_space_12: trustcatbracketyouthfaithbubbleextendlevelforkmouseessayaction
+bip_39_word_no_space_2: trustcat
+bip_39_word_no_space_3: trustcatbracket
+bip_39_word_no_space_4: trustcatbracketyouth
+bip_39_word_no_space_5: trustcatbracketyouthfaith
+bip_39_word_no_space_6: trustcatbracketyouthfaithbubble
+bip_39_word_no_space_7: trustcatbracketyouthfaithbubbleextend
+bip_39_word_no_space_8: trustcatbracketyouthfaithbubbleextendlevel
+bip_39_word_no_space_9: trustcatbracketyouthfaithbubbleextendlevelfork
 bip_39_word_space_0:
 - trust
 - cat

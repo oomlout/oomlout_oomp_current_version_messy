@@ -122,6 +122,18 @@ more
 adapt
 logic
 blame |  
+| bip_39_word_no_space_1 | gossip |  
+| bip_39_word_no_space_10 | gossiphotelfluidgoldkindmoreadaptlogicblameiron |  
+| bip_39_word_no_space_11 | gossiphotelfluidgoldkindmoreadaptlogicblameironusual |  
+| bip_39_word_no_space_12 | gossiphotelfluidgoldkindmoreadaptlogicblameironusualask |  
+| bip_39_word_no_space_2 | gossiphotel |  
+| bip_39_word_no_space_3 | gossiphotelfluid |  
+| bip_39_word_no_space_4 | gossiphotelfluidgold |  
+| bip_39_word_no_space_5 | gossiphotelfluidgoldkind |  
+| bip_39_word_no_space_6 | gossiphotelfluidgoldkindmore |  
+| bip_39_word_no_space_7 | gossiphotelfluidgoldkindmoreadapt |  
+| bip_39_word_no_space_8 | gossiphotelfluidgoldkindmoreadaptlogic |  
+| bip_39_word_no_space_9 | gossiphotelfluidgoldkindmoreadaptlogicblame |  
 | bip_39_word_space_0 | ['gossip', 'hotel', 'fluid', 'gold', 'kind', 'more', 'adapt', 'logic', 'blame', 'iron', 'usual', 'ask'] |  
 | bip_39_word_space_1 | gossip |  
 | bip_39_word_space_10 | gossip hotel fluid gold kind more adapt logic blame iron |  

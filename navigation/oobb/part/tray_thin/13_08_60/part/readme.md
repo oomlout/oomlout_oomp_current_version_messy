@@ -122,6 +122,18 @@ delay
 acquire
 duck
 bomb |  
+| bip_39_word_no_space_1 | level |  
+| bip_39_word_no_space_10 | levelnuclearrebelrelieffaultdelayacquireduckbombfan |  
+| bip_39_word_no_space_11 | levelnuclearrebelrelieffaultdelayacquireduckbombfanpolice |  
+| bip_39_word_no_space_12 | levelnuclearrebelrelieffaultdelayacquireduckbombfanpoliceamused |  
+| bip_39_word_no_space_2 | levelnuclear |  
+| bip_39_word_no_space_3 | levelnuclearrebel |  
+| bip_39_word_no_space_4 | levelnuclearrebelrelief |  
+| bip_39_word_no_space_5 | levelnuclearrebelrelieffault |  
+| bip_39_word_no_space_6 | levelnuclearrebelrelieffaultdelay |  
+| bip_39_word_no_space_7 | levelnuclearrebelrelieffaultdelayacquire |  
+| bip_39_word_no_space_8 | levelnuclearrebelrelieffaultdelayacquireduck |  
+| bip_39_word_no_space_9 | levelnuclearrebelrelieffaultdelayacquireduckbomb |  
 | bip_39_word_space_0 | ['level', 'nuclear', 'rebel', 'relief', 'fault', 'delay', 'acquire', 'duck', 'bomb', 'fan', 'police', 'amused'] |  
 | bip_39_word_space_1 | level |  
 | bip_39_word_space_10 | level nuclear rebel relief fault delay acquire duck bomb fan |  

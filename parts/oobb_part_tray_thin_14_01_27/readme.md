@@ -122,6 +122,18 @@ prosper
 sleep
 rotate
 present |  
+| bip_39_word_no_space_1 | horse |  
+| bip_39_word_no_space_10 | horsemajorclarifylendbattleprospersleeprotatepresentvolume |  
+| bip_39_word_no_space_11 | horsemajorclarifylendbattleprospersleeprotatepresentvolumedescribe |  
+| bip_39_word_no_space_12 | horsemajorclarifylendbattleprospersleeprotatepresentvolumedescribeartist |  
+| bip_39_word_no_space_2 | horsemajor |  
+| bip_39_word_no_space_3 | horsemajorclarify |  
+| bip_39_word_no_space_4 | horsemajorclarifylend |  
+| bip_39_word_no_space_5 | horsemajorclarifylendbattle |  
+| bip_39_word_no_space_6 | horsemajorclarifylendbattleprosper |  
+| bip_39_word_no_space_7 | horsemajorclarifylendbattleprospersleep |  
+| bip_39_word_no_space_8 | horsemajorclarifylendbattleprospersleeprotate |  
+| bip_39_word_no_space_9 | horsemajorclarifylendbattleprospersleeprotatepresent |  
 | bip_39_word_space_0 | ['horse', 'major', 'clarify', 'lend', 'battle', 'prosper', 'sleep', 'rotate', 'present', 'volume', 'describe', 'artist'] |  
 | bip_39_word_space_1 | horse |  
 | bip_39_word_space_10 | horse major clarify lend battle prosper sleep rotate present volume |  

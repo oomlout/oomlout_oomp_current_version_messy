@@ -122,6 +122,18 @@ beauty
 defense
 sand
 exercise |  
+| bip_39_word_no_space_1 | possible |  
+| bip_39_word_no_space_10 | possiblehundredshoehoverrichbeautydefensesandexercisesuper |  
+| bip_39_word_no_space_11 | possiblehundredshoehoverrichbeautydefensesandexercisesupercolumn |  
+| bip_39_word_no_space_12 | possiblehundredshoehoverrichbeautydefensesandexercisesupercolumnantenna |  
+| bip_39_word_no_space_2 | possiblehundred |  
+| bip_39_word_no_space_3 | possiblehundredshoe |  
+| bip_39_word_no_space_4 | possiblehundredshoehover |  
+| bip_39_word_no_space_5 | possiblehundredshoehoverrich |  
+| bip_39_word_no_space_6 | possiblehundredshoehoverrichbeauty |  
+| bip_39_word_no_space_7 | possiblehundredshoehoverrichbeautydefense |  
+| bip_39_word_no_space_8 | possiblehundredshoehoverrichbeautydefensesand |  
+| bip_39_word_no_space_9 | possiblehundredshoehoverrichbeautydefensesandexercise |  
 | bip_39_word_space_0 | ['possible', 'hundred', 'shoe', 'hover', 'rich', 'beauty', 'defense', 'sand', 'exercise', 'super', 'column', 'antenna'] |  
 | bip_39_word_space_1 | possible |  
 | bip_39_word_space_10 | possible hundred shoe hover rich beauty defense sand exercise super |  

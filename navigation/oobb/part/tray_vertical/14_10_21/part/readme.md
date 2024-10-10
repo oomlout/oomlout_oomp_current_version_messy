@@ -122,6 +122,18 @@ radio
 dry
 illegal
 bullet |  
+| bip_39_word_no_space_1 | crumble |  
+| bip_39_word_no_space_10 | crumblenightmemberhuntdaringradiodryillegalbulletarm |  
+| bip_39_word_no_space_11 | crumblenightmemberhuntdaringradiodryillegalbulletarmpair |  
+| bip_39_word_no_space_12 | crumblenightmemberhuntdaringradiodryillegalbulletarmpairacross |  
+| bip_39_word_no_space_2 | crumblenight |  
+| bip_39_word_no_space_3 | crumblenightmember |  
+| bip_39_word_no_space_4 | crumblenightmemberhunt |  
+| bip_39_word_no_space_5 | crumblenightmemberhuntdaring |  
+| bip_39_word_no_space_6 | crumblenightmemberhuntdaringradio |  
+| bip_39_word_no_space_7 | crumblenightmemberhuntdaringradiodry |  
+| bip_39_word_no_space_8 | crumblenightmemberhuntdaringradiodryillegal |  
+| bip_39_word_no_space_9 | crumblenightmemberhuntdaringradiodryillegalbullet |  
 | bip_39_word_space_0 | ['crumble', 'night', 'member', 'hunt', 'daring', 'radio', 'dry', 'illegal', 'bullet', 'arm', 'pair', 'across'] |  
 | bip_39_word_space_1 | crumble |  
 | bip_39_word_space_10 | crumble night member hunt daring radio dry illegal bullet arm |  

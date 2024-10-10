@@ -122,6 +122,18 @@ clinic
 collect
 trap
 slush |  
+| bip_39_word_no_space_1 | horn |  
+| bip_39_word_no_space_10 | horniconarrangeusagesiblingcliniccollecttrapslushcoil |  
+| bip_39_word_no_space_11 | horniconarrangeusagesiblingcliniccollecttrapslushcoillumber |  
+| bip_39_word_no_space_12 | horniconarrangeusagesiblingcliniccollecttrapslushcoillumberattract |  
+| bip_39_word_no_space_2 | hornicon |  
+| bip_39_word_no_space_3 | horniconarrange |  
+| bip_39_word_no_space_4 | horniconarrangeusage |  
+| bip_39_word_no_space_5 | horniconarrangeusagesibling |  
+| bip_39_word_no_space_6 | horniconarrangeusagesiblingclinic |  
+| bip_39_word_no_space_7 | horniconarrangeusagesiblingcliniccollect |  
+| bip_39_word_no_space_8 | horniconarrangeusagesiblingcliniccollecttrap |  
+| bip_39_word_no_space_9 | horniconarrangeusagesiblingcliniccollecttrapslush |  
 | bip_39_word_space_0 | ['horn', 'icon', 'arrange', 'usage', 'sibling', 'clinic', 'collect', 'trap', 'slush', 'coil', 'lumber', 'attract'] |  
 | bip_39_word_space_1 | horn |  
 | bip_39_word_space_10 | horn icon arrange usage sibling clinic collect trap slush coil |  

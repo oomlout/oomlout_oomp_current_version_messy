@@ -122,6 +122,18 @@ sock
 observe
 repeat
 cargo |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemyshrimpuniqueheavyevilsockobserverepeatcargoboil |  
+| bip_39_word_no_space_11 | enemyshrimpuniqueheavyevilsockobserverepeatcargoboiloff |  
+| bip_39_word_no_space_12 | enemyshrimpuniqueheavyevilsockobserverepeatcargoboiloffabsent |  
+| bip_39_word_no_space_2 | enemyshrimp |  
+| bip_39_word_no_space_3 | enemyshrimpunique |  
+| bip_39_word_no_space_4 | enemyshrimpuniqueheavy |  
+| bip_39_word_no_space_5 | enemyshrimpuniqueheavyevil |  
+| bip_39_word_no_space_6 | enemyshrimpuniqueheavyevilsock |  
+| bip_39_word_no_space_7 | enemyshrimpuniqueheavyevilsockobserve |  
+| bip_39_word_no_space_8 | enemyshrimpuniqueheavyevilsockobserverepeat |  
+| bip_39_word_no_space_9 | enemyshrimpuniqueheavyevilsockobserverepeatcargo |  
 | bip_39_word_space_0 | ['enemy', 'shrimp', 'unique', 'heavy', 'evil', 'sock', 'observe', 'repeat', 'cargo', 'boil', 'off', 'absent'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy shrimp unique heavy evil sock observe repeat cargo boil |  

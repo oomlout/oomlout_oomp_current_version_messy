@@ -122,6 +122,18 @@ shuffle
 shrug
 assist
 employ |  
+| bip_39_word_no_space_1 | brush |  
+| bip_39_word_no_space_10 | brushcanalauditreviewdragonshuffleshrugassistemploytoe |  
+| bip_39_word_no_space_11 | brushcanalauditreviewdragonshuffleshrugassistemploytoedinner |  
+| bip_39_word_no_space_12 | brushcanalauditreviewdragonshuffleshrugassistemploytoedinneraunt |  
+| bip_39_word_no_space_2 | brushcanal |  
+| bip_39_word_no_space_3 | brushcanalaudit |  
+| bip_39_word_no_space_4 | brushcanalauditreview |  
+| bip_39_word_no_space_5 | brushcanalauditreviewdragon |  
+| bip_39_word_no_space_6 | brushcanalauditreviewdragonshuffle |  
+| bip_39_word_no_space_7 | brushcanalauditreviewdragonshuffleshrug |  
+| bip_39_word_no_space_8 | brushcanalauditreviewdragonshuffleshrugassist |  
+| bip_39_word_no_space_9 | brushcanalauditreviewdragonshuffleshrugassistemploy |  
 | bip_39_word_space_0 | ['brush', 'canal', 'audit', 'review', 'dragon', 'shuffle', 'shrug', 'assist', 'employ', 'toe', 'dinner', 'aunt'] |  
 | bip_39_word_space_1 | brush |  
 | bip_39_word_space_10 | brush canal audit review dragon shuffle shrug assist employ toe |  

@@ -122,6 +122,18 @@ impulse
 detect
 riot
 few |  
+| bip_39_word_no_space_1 | express |  
+| bip_39_word_no_space_10 | expressveterancactussorryfoamimpulsedetectriotfewwink |  
+| bip_39_word_no_space_11 | expressveterancactussorryfoamimpulsedetectriotfewwinkrebuild |  
+| bip_39_word_no_space_12 | expressveterancactussorryfoamimpulsedetectriotfewwinkrebuildact |  
+| bip_39_word_no_space_2 | expressveteran |  
+| bip_39_word_no_space_3 | expressveterancactus |  
+| bip_39_word_no_space_4 | expressveterancactussorry |  
+| bip_39_word_no_space_5 | expressveterancactussorryfoam |  
+| bip_39_word_no_space_6 | expressveterancactussorryfoamimpulse |  
+| bip_39_word_no_space_7 | expressveterancactussorryfoamimpulsedetect |  
+| bip_39_word_no_space_8 | expressveterancactussorryfoamimpulsedetectriot |  
+| bip_39_word_no_space_9 | expressveterancactussorryfoamimpulsedetectriotfew |  
 | bip_39_word_space_0 | ['express', 'veteran', 'cactus', 'sorry', 'foam', 'impulse', 'detect', 'riot', 'few', 'wink', 'rebuild', 'act'] |  
 | bip_39_word_space_1 | express |  
 | bip_39_word_space_10 | express veteran cactus sorry foam impulse detect riot few wink |  

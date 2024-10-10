@@ -122,6 +122,18 @@ toward
 perfect
 bottom
 draft |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photoexpressanyrallyjartowardperfectbottomdraftdove |  
+| bip_39_word_no_space_11 | photoexpressanyrallyjartowardperfectbottomdraftdovepond |  
+| bip_39_word_no_space_12 | photoexpressanyrallyjartowardperfectbottomdraftdovepondauthor |  
+| bip_39_word_no_space_2 | photoexpress |  
+| bip_39_word_no_space_3 | photoexpressany |  
+| bip_39_word_no_space_4 | photoexpressanyrally |  
+| bip_39_word_no_space_5 | photoexpressanyrallyjar |  
+| bip_39_word_no_space_6 | photoexpressanyrallyjartoward |  
+| bip_39_word_no_space_7 | photoexpressanyrallyjartowardperfect |  
+| bip_39_word_no_space_8 | photoexpressanyrallyjartowardperfectbottom |  
+| bip_39_word_no_space_9 | photoexpressanyrallyjartowardperfectbottomdraft |  
 | bip_39_word_space_0 | ['photo', 'express', 'any', 'rally', 'jar', 'toward', 'perfect', 'bottom', 'draft', 'dove', 'pond', 'author'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo express any rally jar toward perfect bottom draft dove |  

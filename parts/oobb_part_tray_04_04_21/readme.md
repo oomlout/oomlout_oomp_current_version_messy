@@ -122,6 +122,18 @@ victory
 female
 light
 grain |  
+| bip_39_word_no_space_1 | echo |  
+| bip_39_word_no_space_10 | echolaundrypredictgoatcakevictoryfemalelightgrainnephew |  
+| bip_39_word_no_space_11 | echolaundrypredictgoatcakevictoryfemalelightgrainnephewpet |  
+| bip_39_word_no_space_12 | echolaundrypredictgoatcakevictoryfemalelightgrainnephewpetamong |  
+| bip_39_word_no_space_2 | echolaundry |  
+| bip_39_word_no_space_3 | echolaundrypredict |  
+| bip_39_word_no_space_4 | echolaundrypredictgoat |  
+| bip_39_word_no_space_5 | echolaundrypredictgoatcake |  
+| bip_39_word_no_space_6 | echolaundrypredictgoatcakevictory |  
+| bip_39_word_no_space_7 | echolaundrypredictgoatcakevictoryfemale |  
+| bip_39_word_no_space_8 | echolaundrypredictgoatcakevictoryfemalelight |  
+| bip_39_word_no_space_9 | echolaundrypredictgoatcakevictoryfemalelightgrain |  
 | bip_39_word_space_0 | ['echo', 'laundry', 'predict', 'goat', 'cake', 'victory', 'female', 'light', 'grain', 'nephew', 'pet', 'among'] |  
 | bip_39_word_space_1 | echo |  
 | bip_39_word_space_10 | echo laundry predict goat cake victory female light grain nephew |  

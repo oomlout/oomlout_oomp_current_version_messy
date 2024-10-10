@@ -122,6 +122,18 @@ awake
 quarter
 mad
 cook |  
+| bip_39_word_no_space_1 | song |  
+| bip_39_word_no_space_10 | songpizzagentleblurtitleawakequartermadcookbeach |  
+| bip_39_word_no_space_11 | songpizzagentleblurtitleawakequartermadcookbeachdizzy |  
+| bip_39_word_no_space_12 | songpizzagentleblurtitleawakequartermadcookbeachdizzyanother |  
+| bip_39_word_no_space_2 | songpizza |  
+| bip_39_word_no_space_3 | songpizzagentle |  
+| bip_39_word_no_space_4 | songpizzagentleblur |  
+| bip_39_word_no_space_5 | songpizzagentleblurtitle |  
+| bip_39_word_no_space_6 | songpizzagentleblurtitleawake |  
+| bip_39_word_no_space_7 | songpizzagentleblurtitleawakequarter |  
+| bip_39_word_no_space_8 | songpizzagentleblurtitleawakequartermad |  
+| bip_39_word_no_space_9 | songpizzagentleblurtitleawakequartermadcook |  
 | bip_39_word_space_0 | ['song', 'pizza', 'gentle', 'blur', 'title', 'awake', 'quarter', 'mad', 'cook', 'beach', 'dizzy', 'another'] |  
 | bip_39_word_space_1 | song |  
 | bip_39_word_space_10 | song pizza gentle blur title awake quarter mad cook beach |  

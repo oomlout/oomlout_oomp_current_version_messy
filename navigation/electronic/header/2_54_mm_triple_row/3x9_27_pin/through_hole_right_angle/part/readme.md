@@ -122,6 +122,18 @@ adjust
 require
 ticket
 staff |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudeduneveryofficelegaladjustrequireticketstaffunknown |  
+| bip_39_word_no_space_11 | attitudeduneveryofficelegaladjustrequireticketstaffunknownwheat |  
+| bip_39_word_no_space_12 | attitudeduneveryofficelegaladjustrequireticketstaffunknownwheatall |  
+| bip_39_word_no_space_2 | attitudedune |  
+| bip_39_word_no_space_3 | attitudedunevery |  
+| bip_39_word_no_space_4 | attitudeduneveryoffice |  
+| bip_39_word_no_space_5 | attitudeduneveryofficelegal |  
+| bip_39_word_no_space_6 | attitudeduneveryofficelegaladjust |  
+| bip_39_word_no_space_7 | attitudeduneveryofficelegaladjustrequire |  
+| bip_39_word_no_space_8 | attitudeduneveryofficelegaladjustrequireticket |  
+| bip_39_word_no_space_9 | attitudeduneveryofficelegaladjustrequireticketstaff |  
 | bip_39_word_space_0 | ['attitude', 'dune', 'very', 'office', 'legal', 'adjust', 'require', 'ticket', 'staff', 'unknown', 'wheat', 'all'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude dune very office legal adjust require ticket staff unknown |  

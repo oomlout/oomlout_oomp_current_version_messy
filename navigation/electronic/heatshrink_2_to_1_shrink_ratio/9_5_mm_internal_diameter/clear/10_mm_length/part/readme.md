@@ -122,6 +122,18 @@ donor
 notice
 endless
 case |  
+| bip_39_word_no_space_1 | act |  
+| bip_39_word_no_space_10 | acthealthmulejellyponydonornoticeendlesscasestadium |  
+| bip_39_word_no_space_11 | acthealthmulejellyponydonornoticeendlesscasestadiumprimary |  
+| bip_39_word_no_space_12 | acthealthmulejellyponydonornoticeendlesscasestadiumprimaryagent |  
+| bip_39_word_no_space_2 | acthealth |  
+| bip_39_word_no_space_3 | acthealthmule |  
+| bip_39_word_no_space_4 | acthealthmulejelly |  
+| bip_39_word_no_space_5 | acthealthmulejellypony |  
+| bip_39_word_no_space_6 | acthealthmulejellyponydonor |  
+| bip_39_word_no_space_7 | acthealthmulejellyponydonornotice |  
+| bip_39_word_no_space_8 | acthealthmulejellyponydonornoticeendless |  
+| bip_39_word_no_space_9 | acthealthmulejellyponydonornoticeendlesscase |  
 | bip_39_word_space_0 | ['act', 'health', 'mule', 'jelly', 'pony', 'donor', 'notice', 'endless', 'case', 'stadium', 'primary', 'agent'] |  
 | bip_39_word_space_1 | act |  
 | bip_39_word_space_10 | act health mule jelly pony donor notice endless case stadium |  

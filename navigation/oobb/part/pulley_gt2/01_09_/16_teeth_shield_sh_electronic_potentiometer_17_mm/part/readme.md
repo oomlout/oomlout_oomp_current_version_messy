@@ -122,6 +122,18 @@ garage
 tomorrow
 stable
 shaft |  
+| bip_39_word_no_space_1 | deposit |  
+| bip_39_word_no_space_10 | depositfiscaltenpupilyougaragetomorrowstableshaftlimb |  
+| bip_39_word_no_space_11 | depositfiscaltenpupilyougaragetomorrowstableshaftlimbimmense |  
+| bip_39_word_no_space_12 | depositfiscaltenpupilyougaragetomorrowstableshaftlimbimmenseanxiety |  
+| bip_39_word_no_space_2 | depositfiscal |  
+| bip_39_word_no_space_3 | depositfiscalten |  
+| bip_39_word_no_space_4 | depositfiscaltenpupil |  
+| bip_39_word_no_space_5 | depositfiscaltenpupilyou |  
+| bip_39_word_no_space_6 | depositfiscaltenpupilyougarage |  
+| bip_39_word_no_space_7 | depositfiscaltenpupilyougaragetomorrow |  
+| bip_39_word_no_space_8 | depositfiscaltenpupilyougaragetomorrowstable |  
+| bip_39_word_no_space_9 | depositfiscaltenpupilyougaragetomorrowstableshaft |  
 | bip_39_word_space_0 | ['deposit', 'fiscal', 'ten', 'pupil', 'you', 'garage', 'tomorrow', 'stable', 'shaft', 'limb', 'immense', 'anxiety'] |  
 | bip_39_word_space_1 | deposit |  
 | bip_39_word_space_10 | deposit fiscal ten pupil you garage tomorrow stable shaft limb |  

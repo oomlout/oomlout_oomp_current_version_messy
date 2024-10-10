@@ -122,6 +122,18 @@ oyster
 indoor
 secret
 defy |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospelsuspectmistakebalanceskulloysterindoorsecretdefypond |  
+| bip_39_word_no_space_11 | gospelsuspectmistakebalanceskulloysterindoorsecretdefypondwrite |  
+| bip_39_word_no_space_12 | gospelsuspectmistakebalanceskulloysterindoorsecretdefypondwriteanger |  
+| bip_39_word_no_space_2 | gospelsuspect |  
+| bip_39_word_no_space_3 | gospelsuspectmistake |  
+| bip_39_word_no_space_4 | gospelsuspectmistakebalance |  
+| bip_39_word_no_space_5 | gospelsuspectmistakebalanceskull |  
+| bip_39_word_no_space_6 | gospelsuspectmistakebalanceskulloyster |  
+| bip_39_word_no_space_7 | gospelsuspectmistakebalanceskulloysterindoor |  
+| bip_39_word_no_space_8 | gospelsuspectmistakebalanceskulloysterindoorsecret |  
+| bip_39_word_no_space_9 | gospelsuspectmistakebalanceskulloysterindoorsecretdefy |  
 | bip_39_word_space_0 | ['gospel', 'suspect', 'mistake', 'balance', 'skull', 'oyster', 'indoor', 'secret', 'defy', 'pond', 'write', 'anger'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel suspect mistake balance skull oyster indoor secret defy pond |  

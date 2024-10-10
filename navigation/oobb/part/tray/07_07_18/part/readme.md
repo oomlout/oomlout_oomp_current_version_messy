@@ -122,6 +122,18 @@ pool
 morning
 base
 merit |  
+| bip_39_word_no_space_1 | disagree |  
+| bip_39_word_no_space_10 | disagreetripgluevirtualclimbpoolmorningbasemeritprimary |  
+| bip_39_word_no_space_11 | disagreetripgluevirtualclimbpoolmorningbasemeritprimarydetail |  
+| bip_39_word_no_space_12 | disagreetripgluevirtualclimbpoolmorningbasemeritprimarydetailabsent |  
+| bip_39_word_no_space_2 | disagreetrip |  
+| bip_39_word_no_space_3 | disagreetripglue |  
+| bip_39_word_no_space_4 | disagreetripgluevirtual |  
+| bip_39_word_no_space_5 | disagreetripgluevirtualclimb |  
+| bip_39_word_no_space_6 | disagreetripgluevirtualclimbpool |  
+| bip_39_word_no_space_7 | disagreetripgluevirtualclimbpoolmorning |  
+| bip_39_word_no_space_8 | disagreetripgluevirtualclimbpoolmorningbase |  
+| bip_39_word_no_space_9 | disagreetripgluevirtualclimbpoolmorningbasemerit |  
 | bip_39_word_space_0 | ['disagree', 'trip', 'glue', 'virtual', 'climb', 'pool', 'morning', 'base', 'merit', 'primary', 'detail', 'absent'] |  
 | bip_39_word_space_1 | disagree |  
 | bip_39_word_space_10 | disagree trip glue virtual climb pool morning base merit primary |  

@@ -122,6 +122,18 @@ chuckle
 trouble
 true
 tank |  
+| bip_39_word_no_space_1 | angry |  
+| bip_39_word_no_space_10 | angryobviouslearnwidthwheatchuckletroubletruetankload |  
+| bip_39_word_no_space_11 | angryobviouslearnwidthwheatchuckletroubletruetankloadridge |  
+| bip_39_word_no_space_12 | angryobviouslearnwidthwheatchuckletroubletruetankloadridgeask |  
+| bip_39_word_no_space_2 | angryobvious |  
+| bip_39_word_no_space_3 | angryobviouslearn |  
+| bip_39_word_no_space_4 | angryobviouslearnwidth |  
+| bip_39_word_no_space_5 | angryobviouslearnwidthwheat |  
+| bip_39_word_no_space_6 | angryobviouslearnwidthwheatchuckle |  
+| bip_39_word_no_space_7 | angryobviouslearnwidthwheatchuckletrouble |  
+| bip_39_word_no_space_8 | angryobviouslearnwidthwheatchuckletroubletrue |  
+| bip_39_word_no_space_9 | angryobviouslearnwidthwheatchuckletroubletruetank |  
 | bip_39_word_space_0 | ['angry', 'obvious', 'learn', 'width', 'wheat', 'chuckle', 'trouble', 'true', 'tank', 'load', 'ridge', 'ask'] |  
 | bip_39_word_space_1 | angry |  
 | bip_39_word_space_10 | angry obvious learn width wheat chuckle trouble true tank load |  

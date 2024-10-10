@@ -122,6 +122,18 @@ egg
 security
 occur
 image |  
+| bip_39_word_no_space_1 | parent |  
+| bip_39_word_no_space_10 | parentbeachcancelleisurepopulareggsecurityoccurimagelonely |  
+| bip_39_word_no_space_11 | parentbeachcancelleisurepopulareggsecurityoccurimagelonelycard |  
+| bip_39_word_no_space_12 | parentbeachcancelleisurepopulareggsecurityoccurimagelonelycardamazing |  
+| bip_39_word_no_space_2 | parentbeach |  
+| bip_39_word_no_space_3 | parentbeachcancel |  
+| bip_39_word_no_space_4 | parentbeachcancelleisure |  
+| bip_39_word_no_space_5 | parentbeachcancelleisurepopular |  
+| bip_39_word_no_space_6 | parentbeachcancelleisurepopularegg |  
+| bip_39_word_no_space_7 | parentbeachcancelleisurepopulareggsecurity |  
+| bip_39_word_no_space_8 | parentbeachcancelleisurepopulareggsecurityoccur |  
+| bip_39_word_no_space_9 | parentbeachcancelleisurepopulareggsecurityoccurimage |  
 | bip_39_word_space_0 | ['parent', 'beach', 'cancel', 'leisure', 'popular', 'egg', 'security', 'occur', 'image', 'lonely', 'card', 'amazing'] |  
 | bip_39_word_space_1 | parent |  
 | bip_39_word_space_10 | parent beach cancel leisure popular egg security occur image lonely |  

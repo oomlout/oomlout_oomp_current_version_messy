@@ -122,6 +122,18 @@ dress
 unknown
 coyote
 candy |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizesameescapefreshprofitdressunknowncoyotecandypurpose |  
+| bip_39_word_no_space_11 | prizesameescapefreshprofitdressunknowncoyotecandypurposevessel |  
+| bip_39_word_no_space_12 | prizesameescapefreshprofitdressunknowncoyotecandypurposevesselanother |  
+| bip_39_word_no_space_2 | prizesame |  
+| bip_39_word_no_space_3 | prizesameescape |  
+| bip_39_word_no_space_4 | prizesameescapefresh |  
+| bip_39_word_no_space_5 | prizesameescapefreshprofit |  
+| bip_39_word_no_space_6 | prizesameescapefreshprofitdress |  
+| bip_39_word_no_space_7 | prizesameescapefreshprofitdressunknown |  
+| bip_39_word_no_space_8 | prizesameescapefreshprofitdressunknowncoyote |  
+| bip_39_word_no_space_9 | prizesameescapefreshprofitdressunknowncoyotecandy |  
 | bip_39_word_space_0 | ['prize', 'same', 'escape', 'fresh', 'profit', 'dress', 'unknown', 'coyote', 'candy', 'purpose', 'vessel', 'another'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize same escape fresh profit dress unknown coyote candy purpose |  

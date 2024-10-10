@@ -122,6 +122,18 @@ deputy
 super
 bless
 junk |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavetaskzeropatrolvalleydeputysuperblessjunkpumpkin |  
+| bip_39_word_no_space_11 | cavetaskzeropatrolvalleydeputysuperblessjunkpumpkinramp |  
+| bip_39_word_no_space_12 | cavetaskzeropatrolvalleydeputysuperblessjunkpumpkinramparea |  
+| bip_39_word_no_space_2 | cavetask |  
+| bip_39_word_no_space_3 | cavetaskzero |  
+| bip_39_word_no_space_4 | cavetaskzeropatrol |  
+| bip_39_word_no_space_5 | cavetaskzeropatrolvalley |  
+| bip_39_word_no_space_6 | cavetaskzeropatrolvalleydeputy |  
+| bip_39_word_no_space_7 | cavetaskzeropatrolvalleydeputysuper |  
+| bip_39_word_no_space_8 | cavetaskzeropatrolvalleydeputysuperbless |  
+| bip_39_word_no_space_9 | cavetaskzeropatrolvalleydeputysuperblessjunk |  
 | bip_39_word_space_0 | ['cave', 'task', 'zero', 'patrol', 'valley', 'deputy', 'super', 'bless', 'junk', 'pumpkin', 'ramp', 'area'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave task zero patrol valley deputy super bless junk pumpkin |  

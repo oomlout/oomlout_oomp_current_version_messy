@@ -122,6 +122,18 @@ target
 antique
 announce
 robust |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospelsecrettablerepairtwintargetantiqueannouncerobustchapter |  
+| bip_39_word_no_space_11 | gospelsecrettablerepairtwintargetantiqueannouncerobustchapterguide |  
+| bip_39_word_no_space_12 | gospelsecrettablerepairtwintargetantiqueannouncerobustchapterguideaspect |  
+| bip_39_word_no_space_2 | gospelsecret |  
+| bip_39_word_no_space_3 | gospelsecrettable |  
+| bip_39_word_no_space_4 | gospelsecrettablerepair |  
+| bip_39_word_no_space_5 | gospelsecrettablerepairtwin |  
+| bip_39_word_no_space_6 | gospelsecrettablerepairtwintarget |  
+| bip_39_word_no_space_7 | gospelsecrettablerepairtwintargetantique |  
+| bip_39_word_no_space_8 | gospelsecrettablerepairtwintargetantiqueannounce |  
+| bip_39_word_no_space_9 | gospelsecrettablerepairtwintargetantiqueannouncerobust |  
 | bip_39_word_space_0 | ['gospel', 'secret', 'table', 'repair', 'twin', 'target', 'antique', 'announce', 'robust', 'chapter', 'guide', 'aspect'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel secret table repair twin target antique announce robust chapter |  

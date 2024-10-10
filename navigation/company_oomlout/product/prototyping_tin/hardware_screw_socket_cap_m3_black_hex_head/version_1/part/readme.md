@@ -122,6 +122,18 @@ major
 curve
 lawn
 change |  
+| bip_39_word_no_space_1 | mask |  
+| bip_39_word_no_space_10 | maskvariouspeopleripplelengthmajorcurvelawnchangetent |  
+| bip_39_word_no_space_11 | maskvariouspeopleripplelengthmajorcurvelawnchangetentclay |  
+| bip_39_word_no_space_12 | maskvariouspeopleripplelengthmajorcurvelawnchangetentclayapart |  
+| bip_39_word_no_space_2 | maskvarious |  
+| bip_39_word_no_space_3 | maskvariouspeople |  
+| bip_39_word_no_space_4 | maskvariouspeopleripple |  
+| bip_39_word_no_space_5 | maskvariouspeopleripplelength |  
+| bip_39_word_no_space_6 | maskvariouspeopleripplelengthmajor |  
+| bip_39_word_no_space_7 | maskvariouspeopleripplelengthmajorcurve |  
+| bip_39_word_no_space_8 | maskvariouspeopleripplelengthmajorcurvelawn |  
+| bip_39_word_no_space_9 | maskvariouspeopleripplelengthmajorcurvelawnchange |  
 | bip_39_word_space_0 | ['mask', 'various', 'people', 'ripple', 'length', 'major', 'curve', 'lawn', 'change', 'tent', 'clay', 'apart'] |  
 | bip_39_word_space_1 | mask |  
 | bip_39_word_space_10 | mask various people ripple length major curve lawn change tent |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'card
   cream
 
   upon'
+bip_39_word_no_space_1: card
+bip_39_word_no_space_10: cardtrumpettoothdoctoralerttossexcludecreamuponapart
+bip_39_word_no_space_11: cardtrumpettoothdoctoralerttossexcludecreamuponapartwedding
+bip_39_word_no_space_12: cardtrumpettoothdoctoralerttossexcludecreamuponapartweddingarch
+bip_39_word_no_space_2: cardtrumpet
+bip_39_word_no_space_3: cardtrumpettooth
+bip_39_word_no_space_4: cardtrumpettoothdoctor
+bip_39_word_no_space_5: cardtrumpettoothdoctoralert
+bip_39_word_no_space_6: cardtrumpettoothdoctoralerttoss
+bip_39_word_no_space_7: cardtrumpettoothdoctoralerttossexclude
+bip_39_word_no_space_8: cardtrumpettoothdoctoralerttossexcludecream
+bip_39_word_no_space_9: cardtrumpettoothdoctoralerttossexcludecreamupon
 bip_39_word_space_0:
 - card
 - trumpet

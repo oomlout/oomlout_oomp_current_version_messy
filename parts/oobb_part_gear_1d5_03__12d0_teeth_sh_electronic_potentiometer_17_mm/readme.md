@@ -122,6 +122,18 @@ share
 fee
 suit
 drift |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturesolutioncousinrecycleartsharefeesuitdriftalbum |  
+| bip_39_word_no_space_11 | naturesolutioncousinrecycleartsharefeesuitdriftalbumfunny |  
+| bip_39_word_no_space_12 | naturesolutioncousinrecycleartsharefeesuitdriftalbumfunnyallow |  
+| bip_39_word_no_space_2 | naturesolution |  
+| bip_39_word_no_space_3 | naturesolutioncousin |  
+| bip_39_word_no_space_4 | naturesolutioncousinrecycle |  
+| bip_39_word_no_space_5 | naturesolutioncousinrecycleart |  
+| bip_39_word_no_space_6 | naturesolutioncousinrecycleartshare |  
+| bip_39_word_no_space_7 | naturesolutioncousinrecycleartsharefee |  
+| bip_39_word_no_space_8 | naturesolutioncousinrecycleartsharefeesuit |  
+| bip_39_word_no_space_9 | naturesolutioncousinrecycleartsharefeesuitdrift |  
 | bip_39_word_space_0 | ['nature', 'solution', 'cousin', 'recycle', 'art', 'share', 'fee', 'suit', 'drift', 'album', 'funny', 'allow'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature solution cousin recycle art share fee suit drift album |  

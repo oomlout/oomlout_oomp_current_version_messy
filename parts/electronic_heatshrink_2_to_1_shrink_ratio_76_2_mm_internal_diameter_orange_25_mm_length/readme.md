@@ -122,6 +122,18 @@ reunion
 good
 brand
 mail |  
+| bip_39_word_no_space_1 | believe |  
+| bip_39_word_no_space_10 | believelaughmuchlimitscorpionreuniongoodbrandmailability |  
+| bip_39_word_no_space_11 | believelaughmuchlimitscorpionreuniongoodbrandmailabilitywill |  
+| bip_39_word_no_space_12 | believelaughmuchlimitscorpionreuniongoodbrandmailabilitywilladapt |  
+| bip_39_word_no_space_2 | believelaugh |  
+| bip_39_word_no_space_3 | believelaughmuch |  
+| bip_39_word_no_space_4 | believelaughmuchlimit |  
+| bip_39_word_no_space_5 | believelaughmuchlimitscorpion |  
+| bip_39_word_no_space_6 | believelaughmuchlimitscorpionreunion |  
+| bip_39_word_no_space_7 | believelaughmuchlimitscorpionreuniongood |  
+| bip_39_word_no_space_8 | believelaughmuchlimitscorpionreuniongoodbrand |  
+| bip_39_word_no_space_9 | believelaughmuchlimitscorpionreuniongoodbrandmail |  
 | bip_39_word_space_0 | ['believe', 'laugh', 'much', 'limit', 'scorpion', 'reunion', 'good', 'brand', 'mail', 'ability', 'will', 'adapt'] |  
 | bip_39_word_space_1 | believe |  
 | bip_39_word_space_10 | believe laugh much limit scorpion reunion good brand mail ability |  

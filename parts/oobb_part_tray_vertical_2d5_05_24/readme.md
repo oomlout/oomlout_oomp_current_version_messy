@@ -122,6 +122,18 @@ afraid
 only
 forget
 nominee |  
+| bip_39_word_no_space_1 | smile |  
+| bip_39_word_no_space_10 | smileveteranthreegridfatigueafraidonlyforgetnomineedepend |  
+| bip_39_word_no_space_11 | smileveteranthreegridfatigueafraidonlyforgetnomineedependcable |  
+| bip_39_word_no_space_12 | smileveteranthreegridfatigueafraidonlyforgetnomineedependcableasset |  
+| bip_39_word_no_space_2 | smileveteran |  
+| bip_39_word_no_space_3 | smileveteranthree |  
+| bip_39_word_no_space_4 | smileveteranthreegrid |  
+| bip_39_word_no_space_5 | smileveteranthreegridfatigue |  
+| bip_39_word_no_space_6 | smileveteranthreegridfatigueafraid |  
+| bip_39_word_no_space_7 | smileveteranthreegridfatigueafraidonly |  
+| bip_39_word_no_space_8 | smileveteranthreegridfatigueafraidonlyforget |  
+| bip_39_word_no_space_9 | smileveteranthreegridfatigueafraidonlyforgetnominee |  
 | bip_39_word_space_0 | ['smile', 'veteran', 'three', 'grid', 'fatigue', 'afraid', 'only', 'forget', 'nominee', 'depend', 'cable', 'asset'] |  
 | bip_39_word_space_1 | smile |  
 | bip_39_word_space_10 | smile veteran three grid fatigue afraid only forget nominee depend |  

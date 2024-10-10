@@ -122,6 +122,18 @@ athlete
 crowd
 beach
 hunt |  
+| bip_39_word_no_space_1 | mimic |  
+| bip_39_word_no_space_10 | mimicworderathumbplanetathletecrowdbeachhuntendless |  
+| bip_39_word_no_space_11 | mimicworderathumbplanetathletecrowdbeachhuntendlessbargain |  
+| bip_39_word_no_space_12 | mimicworderathumbplanetathletecrowdbeachhuntendlessbargainanchor |  
+| bip_39_word_no_space_2 | mimicword |  
+| bip_39_word_no_space_3 | mimicwordera |  
+| bip_39_word_no_space_4 | mimicworderathumb |  
+| bip_39_word_no_space_5 | mimicworderathumbplanet |  
+| bip_39_word_no_space_6 | mimicworderathumbplanetathlete |  
+| bip_39_word_no_space_7 | mimicworderathumbplanetathletecrowd |  
+| bip_39_word_no_space_8 | mimicworderathumbplanetathletecrowdbeach |  
+| bip_39_word_no_space_9 | mimicworderathumbplanetathletecrowdbeachhunt |  
 | bip_39_word_space_0 | ['mimic', 'word', 'era', 'thumb', 'planet', 'athlete', 'crowd', 'beach', 'hunt', 'endless', 'bargain', 'anchor'] |  
 | bip_39_word_space_1 | mimic |  
 | bip_39_word_space_10 | mimic word era thumb planet athlete crowd beach hunt endless |  

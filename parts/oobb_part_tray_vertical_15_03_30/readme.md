@@ -122,6 +122,18 @@ coach
 fiction
 vital
 jelly |  
+| bip_39_word_no_space_1 | coast |  
+| bip_39_word_no_space_10 | coastbeyondwestbabymastercoachfictionvitaljellyinvest |  
+| bip_39_word_no_space_11 | coastbeyondwestbabymastercoachfictionvitaljellyinvestcurrent |  
+| bip_39_word_no_space_12 | coastbeyondwestbabymastercoachfictionvitaljellyinvestcurrentasthma |  
+| bip_39_word_no_space_2 | coastbeyond |  
+| bip_39_word_no_space_3 | coastbeyondwest |  
+| bip_39_word_no_space_4 | coastbeyondwestbaby |  
+| bip_39_word_no_space_5 | coastbeyondwestbabymaster |  
+| bip_39_word_no_space_6 | coastbeyondwestbabymastercoach |  
+| bip_39_word_no_space_7 | coastbeyondwestbabymastercoachfiction |  
+| bip_39_word_no_space_8 | coastbeyondwestbabymastercoachfictionvital |  
+| bip_39_word_no_space_9 | coastbeyondwestbabymastercoachfictionvitaljelly |  
 | bip_39_word_space_0 | ['coast', 'beyond', 'west', 'baby', 'master', 'coach', 'fiction', 'vital', 'jelly', 'invest', 'current', 'asthma'] |  
 | bip_39_word_space_1 | coast |  
 | bip_39_word_space_10 | coast beyond west baby master coach fiction vital jelly invest |  

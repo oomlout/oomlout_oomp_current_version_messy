@@ -122,6 +122,18 @@ excite
 eager
 leave
 glimpse |  
+| bip_39_word_no_space_1 | inner |  
+| bip_39_word_no_space_10 | innersaladbestranchouterexciteeagerleaveglimpseorgan |  
+| bip_39_word_no_space_11 | innersaladbestranchouterexciteeagerleaveglimpseorgandiagram |  
+| bip_39_word_no_space_12 | innersaladbestranchouterexciteeagerleaveglimpseorgandiagramaudit |  
+| bip_39_word_no_space_2 | innersalad |  
+| bip_39_word_no_space_3 | innersaladbest |  
+| bip_39_word_no_space_4 | innersaladbestranch |  
+| bip_39_word_no_space_5 | innersaladbestranchouter |  
+| bip_39_word_no_space_6 | innersaladbestranchouterexcite |  
+| bip_39_word_no_space_7 | innersaladbestranchouterexciteeager |  
+| bip_39_word_no_space_8 | innersaladbestranchouterexciteeagerleave |  
+| bip_39_word_no_space_9 | innersaladbestranchouterexciteeagerleaveglimpse |  
 | bip_39_word_space_0 | ['inner', 'salad', 'best', 'ranch', 'outer', 'excite', 'eager', 'leave', 'glimpse', 'organ', 'diagram', 'audit'] |  
 | bip_39_word_space_1 | inner |  
 | bip_39_word_space_10 | inner salad best ranch outer excite eager leave glimpse organ |  

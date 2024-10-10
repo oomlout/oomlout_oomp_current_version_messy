@@ -122,6 +122,18 @@ impact
 polar
 tell
 basket |  
+| bip_39_word_no_space_1 | jealous |  
+| bip_39_word_no_space_10 | jealousdevoteincreaseconductpizzaimpactpolartellbasketripple |  
+| bip_39_word_no_space_11 | jealousdevoteincreaseconductpizzaimpactpolartellbasketripplethere |  
+| bip_39_word_no_space_12 | jealousdevoteincreaseconductpizzaimpactpolartellbasketripplethereabout |  
+| bip_39_word_no_space_2 | jealousdevote |  
+| bip_39_word_no_space_3 | jealousdevoteincrease |  
+| bip_39_word_no_space_4 | jealousdevoteincreaseconduct |  
+| bip_39_word_no_space_5 | jealousdevoteincreaseconductpizza |  
+| bip_39_word_no_space_6 | jealousdevoteincreaseconductpizzaimpact |  
+| bip_39_word_no_space_7 | jealousdevoteincreaseconductpizzaimpactpolar |  
+| bip_39_word_no_space_8 | jealousdevoteincreaseconductpizzaimpactpolartell |  
+| bip_39_word_no_space_9 | jealousdevoteincreaseconductpizzaimpactpolartellbasket |  
 | bip_39_word_space_0 | ['jealous', 'devote', 'increase', 'conduct', 'pizza', 'impact', 'polar', 'tell', 'basket', 'ripple', 'there', 'about'] |  
 | bip_39_word_space_1 | jealous |  
 | bip_39_word_space_10 | jealous devote increase conduct pizza impact polar tell basket ripple |  

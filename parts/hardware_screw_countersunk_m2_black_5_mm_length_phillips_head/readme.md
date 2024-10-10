@@ -122,6 +122,18 @@ sport
 squeeze
 mechanic
 secret |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | deskclockderiveshipignoresportsqueezemechanicsecretsing |  
+| bip_39_word_no_space_11 | deskclockderiveshipignoresportsqueezemechanicsecretsingaware |  
+| bip_39_word_no_space_12 | deskclockderiveshipignoresportsqueezemechanicsecretsingawareabstract |  
+| bip_39_word_no_space_2 | deskclock |  
+| bip_39_word_no_space_3 | deskclockderive |  
+| bip_39_word_no_space_4 | deskclockderiveship |  
+| bip_39_word_no_space_5 | deskclockderiveshipignore |  
+| bip_39_word_no_space_6 | deskclockderiveshipignoresport |  
+| bip_39_word_no_space_7 | deskclockderiveshipignoresportsqueeze |  
+| bip_39_word_no_space_8 | deskclockderiveshipignoresportsqueezemechanic |  
+| bip_39_word_no_space_9 | deskclockderiveshipignoresportsqueezemechanicsecret |  
 | bip_39_word_space_0 | ['desk', 'clock', 'derive', 'ship', 'ignore', 'sport', 'squeeze', 'mechanic', 'secret', 'sing', 'aware', 'abstract'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk clock derive ship ignore sport squeeze mechanic secret sing |  

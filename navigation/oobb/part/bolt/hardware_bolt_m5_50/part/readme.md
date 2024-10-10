@@ -122,6 +122,18 @@ coach
 mercy
 crater
 crawl |  
+| bip_39_word_no_space_1 | quick |  
+| bip_39_word_no_space_10 | quicksketchschemefrostcinnamoncoachmercycratercrawlecho |  
+| bip_39_word_no_space_11 | quicksketchschemefrostcinnamoncoachmercycratercrawlechotag |  
+| bip_39_word_no_space_12 | quicksketchschemefrostcinnamoncoachmercycratercrawlechotagamused |  
+| bip_39_word_no_space_2 | quicksketch |  
+| bip_39_word_no_space_3 | quicksketchscheme |  
+| bip_39_word_no_space_4 | quicksketchschemefrost |  
+| bip_39_word_no_space_5 | quicksketchschemefrostcinnamon |  
+| bip_39_word_no_space_6 | quicksketchschemefrostcinnamoncoach |  
+| bip_39_word_no_space_7 | quicksketchschemefrostcinnamoncoachmercy |  
+| bip_39_word_no_space_8 | quicksketchschemefrostcinnamoncoachmercycrater |  
+| bip_39_word_no_space_9 | quicksketchschemefrostcinnamoncoachmercycratercrawl |  
 | bip_39_word_space_0 | ['quick', 'sketch', 'scheme', 'frost', 'cinnamon', 'coach', 'mercy', 'crater', 'crawl', 'echo', 'tag', 'amused'] |  
 | bip_39_word_space_1 | quick |  
 | bip_39_word_space_10 | quick sketch scheme frost cinnamon coach mercy crater crawl echo |  

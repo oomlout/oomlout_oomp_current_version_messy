@@ -122,6 +122,18 @@ waste
 figure
 anger
 vocal |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | usedfingerflavorangledevotewastefigureangervocalage |  
+| bip_39_word_no_space_11 | usedfingerflavorangledevotewastefigureangervocalagequantum |  
+| bip_39_word_no_space_12 | usedfingerflavorangledevotewastefigureangervocalagequantumactress |  
+| bip_39_word_no_space_2 | usedfinger |  
+| bip_39_word_no_space_3 | usedfingerflavor |  
+| bip_39_word_no_space_4 | usedfingerflavorangle |  
+| bip_39_word_no_space_5 | usedfingerflavorangledevote |  
+| bip_39_word_no_space_6 | usedfingerflavorangledevotewaste |  
+| bip_39_word_no_space_7 | usedfingerflavorangledevotewastefigure |  
+| bip_39_word_no_space_8 | usedfingerflavorangledevotewastefigureanger |  
+| bip_39_word_no_space_9 | usedfingerflavorangledevotewastefigureangervocal |  
 | bip_39_word_space_0 | ['used', 'finger', 'flavor', 'angle', 'devote', 'waste', 'figure', 'anger', 'vocal', 'age', 'quantum', 'actress'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used finger flavor angle devote waste figure anger vocal age |  

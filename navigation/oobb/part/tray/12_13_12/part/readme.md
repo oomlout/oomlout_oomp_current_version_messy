@@ -122,6 +122,18 @@ region
 inspire
 senior
 couple |  
+| bip_39_word_no_space_1 | hurt |  
+| bip_39_word_no_space_10 | hurtpuzzlemodelfuntiredregioninspireseniorcouplepig |  
+| bip_39_word_no_space_11 | hurtpuzzlemodelfuntiredregioninspireseniorcouplepigtired |  
+| bip_39_word_no_space_12 | hurtpuzzlemodelfuntiredregioninspireseniorcouplepigtiredassist |  
+| bip_39_word_no_space_2 | hurtpuzzle |  
+| bip_39_word_no_space_3 | hurtpuzzlemodel |  
+| bip_39_word_no_space_4 | hurtpuzzlemodelfun |  
+| bip_39_word_no_space_5 | hurtpuzzlemodelfuntired |  
+| bip_39_word_no_space_6 | hurtpuzzlemodelfuntiredregion |  
+| bip_39_word_no_space_7 | hurtpuzzlemodelfuntiredregioninspire |  
+| bip_39_word_no_space_8 | hurtpuzzlemodelfuntiredregioninspiresenior |  
+| bip_39_word_no_space_9 | hurtpuzzlemodelfuntiredregioninspireseniorcouple |  
 | bip_39_word_space_0 | ['hurt', 'puzzle', 'model', 'fun', 'tired', 'region', 'inspire', 'senior', 'couple', 'pig', 'tired', 'assist'] |  
 | bip_39_word_space_1 | hurt |  
 | bip_39_word_space_10 | hurt puzzle model fun tired region inspire senior couple pig |  

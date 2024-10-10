@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soup
   river
 
   mesh'
+bip_39_word_no_space_1: soup
+bip_39_word_no_space_10: soupolivecementhilltosstalkinfantrivermeshfatigue
+bip_39_word_no_space_11: soupolivecementhilltosstalkinfantrivermeshfatiguefind
+bip_39_word_no_space_12: soupolivecementhilltosstalkinfantrivermeshfatiguefindarena
+bip_39_word_no_space_2: soupolive
+bip_39_word_no_space_3: soupolivecement
+bip_39_word_no_space_4: soupolivecementhill
+bip_39_word_no_space_5: soupolivecementhilltoss
+bip_39_word_no_space_6: soupolivecementhilltosstalk
+bip_39_word_no_space_7: soupolivecementhilltosstalkinfant
+bip_39_word_no_space_8: soupolivecementhilltosstalkinfantriver
+bip_39_word_no_space_9: soupolivecementhilltosstalkinfantrivermesh
 bip_39_word_space_0:
 - soup
 - olive

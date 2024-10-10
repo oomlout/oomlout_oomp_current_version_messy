@@ -122,6 +122,18 @@ never
 mixed
 champion
 smooth |  
+| bip_39_word_no_space_1 | sudden |  
+| bip_39_word_no_space_10 | suddenenvelopeoceansliceannualnevermixedchampionsmoothexpand |  
+| bip_39_word_no_space_11 | suddenenvelopeoceansliceannualnevermixedchampionsmoothexpandlyrics |  
+| bip_39_word_no_space_12 | suddenenvelopeoceansliceannualnevermixedchampionsmoothexpandlyricsagree |  
+| bip_39_word_no_space_2 | suddenenvelope |  
+| bip_39_word_no_space_3 | suddenenvelopeocean |  
+| bip_39_word_no_space_4 | suddenenvelopeoceanslice |  
+| bip_39_word_no_space_5 | suddenenvelopeoceansliceannual |  
+| bip_39_word_no_space_6 | suddenenvelopeoceansliceannualnever |  
+| bip_39_word_no_space_7 | suddenenvelopeoceansliceannualnevermixed |  
+| bip_39_word_no_space_8 | suddenenvelopeoceansliceannualnevermixedchampion |  
+| bip_39_word_no_space_9 | suddenenvelopeoceansliceannualnevermixedchampionsmooth |  
 | bip_39_word_space_0 | ['sudden', 'envelope', 'ocean', 'slice', 'annual', 'never', 'mixed', 'champion', 'smooth', 'expand', 'lyrics', 'agree'] |  
 | bip_39_word_space_1 | sudden |  
 | bip_39_word_space_10 | sudden envelope ocean slice annual never mixed champion smooth expand |  

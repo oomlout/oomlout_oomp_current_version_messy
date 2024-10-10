@@ -122,6 +122,18 @@ shaft
 estate
 video
 address |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenpatientwantconfirmtypicalshaftestatevideoaddressboring |  
+| bip_39_word_no_space_11 | citizenpatientwantconfirmtypicalshaftestatevideoaddressboringescape |  
+| bip_39_word_no_space_12 | citizenpatientwantconfirmtypicalshaftestatevideoaddressboringescapeautumn |  
+| bip_39_word_no_space_2 | citizenpatient |  
+| bip_39_word_no_space_3 | citizenpatientwant |  
+| bip_39_word_no_space_4 | citizenpatientwantconfirm |  
+| bip_39_word_no_space_5 | citizenpatientwantconfirmtypical |  
+| bip_39_word_no_space_6 | citizenpatientwantconfirmtypicalshaft |  
+| bip_39_word_no_space_7 | citizenpatientwantconfirmtypicalshaftestate |  
+| bip_39_word_no_space_8 | citizenpatientwantconfirmtypicalshaftestatevideo |  
+| bip_39_word_no_space_9 | citizenpatientwantconfirmtypicalshaftestatevideoaddress |  
 | bip_39_word_space_0 | ['citizen', 'patient', 'want', 'confirm', 'typical', 'shaft', 'estate', 'video', 'address', 'boring', 'escape', 'autumn'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen patient want confirm typical shaft estate video address boring |  

@@ -122,6 +122,18 @@ wear
 churn
 quick
 effort |  
+| bip_39_word_no_space_1 | slice |  
+| bip_39_word_no_space_10 | slicefingerpighoodcodewearchurnquickefforthelp |  
+| bip_39_word_no_space_11 | slicefingerpighoodcodewearchurnquickefforthelpgarment |  
+| bip_39_word_no_space_12 | slicefingerpighoodcodewearchurnquickefforthelpgarmentask |  
+| bip_39_word_no_space_2 | slicefinger |  
+| bip_39_word_no_space_3 | slicefingerpig |  
+| bip_39_word_no_space_4 | slicefingerpighood |  
+| bip_39_word_no_space_5 | slicefingerpighoodcode |  
+| bip_39_word_no_space_6 | slicefingerpighoodcodewear |  
+| bip_39_word_no_space_7 | slicefingerpighoodcodewearchurn |  
+| bip_39_word_no_space_8 | slicefingerpighoodcodewearchurnquick |  
+| bip_39_word_no_space_9 | slicefingerpighoodcodewearchurnquickeffort |  
 | bip_39_word_space_0 | ['slice', 'finger', 'pig', 'hood', 'code', 'wear', 'churn', 'quick', 'effort', 'help', 'garment', 'ask'] |  
 | bip_39_word_space_1 | slice |  
 | bip_39_word_space_10 | slice finger pig hood code wear churn quick effort help |  

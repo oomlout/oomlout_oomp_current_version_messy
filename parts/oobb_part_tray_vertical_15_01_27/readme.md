@@ -122,6 +122,18 @@ glad
 knock
 fancy
 elbow |  
+| bip_39_word_no_space_1 | traffic |  
+| bip_39_word_no_space_10 | trafficnetneverannouncegravitygladknockfancyelbowtiny |  
+| bip_39_word_no_space_11 | trafficnetneverannouncegravitygladknockfancyelbowtinysearch |  
+| bip_39_word_no_space_12 | trafficnetneverannouncegravitygladknockfancyelbowtinysearchagain |  
+| bip_39_word_no_space_2 | trafficnet |  
+| bip_39_word_no_space_3 | trafficnetnever |  
+| bip_39_word_no_space_4 | trafficnetneverannounce |  
+| bip_39_word_no_space_5 | trafficnetneverannouncegravity |  
+| bip_39_word_no_space_6 | trafficnetneverannouncegravityglad |  
+| bip_39_word_no_space_7 | trafficnetneverannouncegravitygladknock |  
+| bip_39_word_no_space_8 | trafficnetneverannouncegravitygladknockfancy |  
+| bip_39_word_no_space_9 | trafficnetneverannouncegravitygladknockfancyelbow |  
 | bip_39_word_space_0 | ['traffic', 'net', 'never', 'announce', 'gravity', 'glad', 'knock', 'fancy', 'elbow', 'tiny', 'search', 'again'] |  
 | bip_39_word_space_1 | traffic |  
 | bip_39_word_space_10 | traffic net never announce gravity glad knock fancy elbow tiny |  

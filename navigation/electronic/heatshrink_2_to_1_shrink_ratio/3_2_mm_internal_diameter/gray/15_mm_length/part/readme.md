@@ -122,6 +122,18 @@ avocado
 canal
 require
 expose |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | glovestaywoolpredictmysteryavocadocanalrequireexposeshaft |  
+| bip_39_word_no_space_11 | glovestaywoolpredictmysteryavocadocanalrequireexposeshaftfederal |  
+| bip_39_word_no_space_12 | glovestaywoolpredictmysteryavocadocanalrequireexposeshaftfederalannounce |  
+| bip_39_word_no_space_2 | glovestay |  
+| bip_39_word_no_space_3 | glovestaywool |  
+| bip_39_word_no_space_4 | glovestaywoolpredict |  
+| bip_39_word_no_space_5 | glovestaywoolpredictmystery |  
+| bip_39_word_no_space_6 | glovestaywoolpredictmysteryavocado |  
+| bip_39_word_no_space_7 | glovestaywoolpredictmysteryavocadocanal |  
+| bip_39_word_no_space_8 | glovestaywoolpredictmysteryavocadocanalrequire |  
+| bip_39_word_no_space_9 | glovestaywoolpredictmysteryavocadocanalrequireexpose |  
 | bip_39_word_space_0 | ['glove', 'stay', 'wool', 'predict', 'mystery', 'avocado', 'canal', 'require', 'expose', 'shaft', 'federal', 'announce'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove stay wool predict mystery avocado canal require expose shaft |  

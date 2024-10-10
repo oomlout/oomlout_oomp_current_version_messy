@@ -122,6 +122,18 @@ select
 runway
 warfare
 wrong |  
+| bip_39_word_no_space_1 | engine |  
+| bip_39_word_no_space_10 | enginelockduckomitlyricsselectrunwaywarfarewrongocean |  
+| bip_39_word_no_space_11 | enginelockduckomitlyricsselectrunwaywarfarewrongoceanview |  
+| bip_39_word_no_space_12 | enginelockduckomitlyricsselectrunwaywarfarewrongoceanviewafraid |  
+| bip_39_word_no_space_2 | enginelock |  
+| bip_39_word_no_space_3 | enginelockduck |  
+| bip_39_word_no_space_4 | enginelockduckomit |  
+| bip_39_word_no_space_5 | enginelockduckomitlyrics |  
+| bip_39_word_no_space_6 | enginelockduckomitlyricsselect |  
+| bip_39_word_no_space_7 | enginelockduckomitlyricsselectrunway |  
+| bip_39_word_no_space_8 | enginelockduckomitlyricsselectrunwaywarfare |  
+| bip_39_word_no_space_9 | enginelockduckomitlyricsselectrunwaywarfarewrong |  
 | bip_39_word_space_0 | ['engine', 'lock', 'duck', 'omit', 'lyrics', 'select', 'runway', 'warfare', 'wrong', 'ocean', 'view', 'afraid'] |  
 | bip_39_word_space_1 | engine |  
 | bip_39_word_space_10 | engine lock duck omit lyrics select runway warfare wrong ocean |  

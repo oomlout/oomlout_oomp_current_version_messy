@@ -122,6 +122,18 @@ confirm
 inherit
 trash
 fever |  
+| bip_39_word_no_space_1 | cart |  
+| bip_39_word_no_space_10 | cartarmstumbleinquiryseniorconfirminherittrashfevergreat |  
+| bip_39_word_no_space_11 | cartarmstumbleinquiryseniorconfirminherittrashfevergreatrookie |  
+| bip_39_word_no_space_12 | cartarmstumbleinquiryseniorconfirminherittrashfevergreatrookieall |  
+| bip_39_word_no_space_2 | cartarm |  
+| bip_39_word_no_space_3 | cartarmstumble |  
+| bip_39_word_no_space_4 | cartarmstumbleinquiry |  
+| bip_39_word_no_space_5 | cartarmstumbleinquirysenior |  
+| bip_39_word_no_space_6 | cartarmstumbleinquiryseniorconfirm |  
+| bip_39_word_no_space_7 | cartarmstumbleinquiryseniorconfirminherit |  
+| bip_39_word_no_space_8 | cartarmstumbleinquiryseniorconfirminherittrash |  
+| bip_39_word_no_space_9 | cartarmstumbleinquiryseniorconfirminherittrashfever |  
 | bip_39_word_space_0 | ['cart', 'arm', 'stumble', 'inquiry', 'senior', 'confirm', 'inherit', 'trash', 'fever', 'great', 'rookie', 'all'] |  
 | bip_39_word_space_1 | cart |  
 | bip_39_word_space_10 | cart arm stumble inquiry senior confirm inherit trash fever great |  

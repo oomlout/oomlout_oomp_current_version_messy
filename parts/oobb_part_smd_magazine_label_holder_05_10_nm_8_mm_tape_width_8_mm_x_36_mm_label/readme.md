@@ -122,6 +122,18 @@ also
 melt
 copper
 file |  
+| bip_39_word_no_space_1 | latin |  
+| bip_39_word_no_space_10 | latinextendlovecoreaveragealsomeltcopperfileswing |  
+| bip_39_word_no_space_11 | latinextendlovecoreaveragealsomeltcopperfileswinginvolve |  
+| bip_39_word_no_space_12 | latinextendlovecoreaveragealsomeltcopperfileswinginvolveantique |  
+| bip_39_word_no_space_2 | latinextend |  
+| bip_39_word_no_space_3 | latinextendlove |  
+| bip_39_word_no_space_4 | latinextendlovecore |  
+| bip_39_word_no_space_5 | latinextendlovecoreaverage |  
+| bip_39_word_no_space_6 | latinextendlovecoreaveragealso |  
+| bip_39_word_no_space_7 | latinextendlovecoreaveragealsomelt |  
+| bip_39_word_no_space_8 | latinextendlovecoreaveragealsomeltcopper |  
+| bip_39_word_no_space_9 | latinextendlovecoreaveragealsomeltcopperfile |  
 | bip_39_word_space_0 | ['latin', 'extend', 'love', 'core', 'average', 'also', 'melt', 'copper', 'file', 'swing', 'involve', 'antique'] |  
 | bip_39_word_space_1 | latin |  
 | bip_39_word_space_10 | latin extend love core average also melt copper file swing |  

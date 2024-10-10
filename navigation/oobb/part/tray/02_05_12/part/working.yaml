@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grunt
   discover
 
   all'
+bip_39_word_no_space_1: grunt
+bip_39_word_no_space_10: gruntdonormemorytortoiseidleheartgriddiscoverallsatisfy
+bip_39_word_no_space_11: gruntdonormemorytortoiseidleheartgriddiscoverallsatisfyeight
+bip_39_word_no_space_12: gruntdonormemorytortoiseidleheartgriddiscoverallsatisfyeightarea
+bip_39_word_no_space_2: gruntdonor
+bip_39_word_no_space_3: gruntdonormemory
+bip_39_word_no_space_4: gruntdonormemorytortoise
+bip_39_word_no_space_5: gruntdonormemorytortoiseidle
+bip_39_word_no_space_6: gruntdonormemorytortoiseidleheart
+bip_39_word_no_space_7: gruntdonormemorytortoiseidleheartgrid
+bip_39_word_no_space_8: gruntdonormemorytortoiseidleheartgriddiscover
+bip_39_word_no_space_9: gruntdonormemorytortoiseidleheartgriddiscoverall
 bip_39_word_space_0:
 - grunt
 - donor

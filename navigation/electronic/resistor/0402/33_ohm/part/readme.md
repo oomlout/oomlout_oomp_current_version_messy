@@ -122,6 +122,18 @@ vapor
 solar
 chronic
 three |  
+| bip_39_word_no_space_1 | olive |  
+| bip_39_word_no_space_10 | olivecrewwanttransfervisavaporsolarchronicthreeoffice |  
+| bip_39_word_no_space_11 | olivecrewwanttransfervisavaporsolarchronicthreeofficedragon |  
+| bip_39_word_no_space_12 | olivecrewwanttransfervisavaporsolarchronicthreeofficedragonabstract |  
+| bip_39_word_no_space_2 | olivecrew |  
+| bip_39_word_no_space_3 | olivecrewwant |  
+| bip_39_word_no_space_4 | olivecrewwanttransfer |  
+| bip_39_word_no_space_5 | olivecrewwanttransfervisa |  
+| bip_39_word_no_space_6 | olivecrewwanttransfervisavapor |  
+| bip_39_word_no_space_7 | olivecrewwanttransfervisavaporsolar |  
+| bip_39_word_no_space_8 | olivecrewwanttransfervisavaporsolarchronic |  
+| bip_39_word_no_space_9 | olivecrewwanttransfervisavaporsolarchronicthree |  
 | bip_39_word_space_0 | ['olive', 'crew', 'want', 'transfer', 'visa', 'vapor', 'solar', 'chronic', 'three', 'office', 'dragon', 'abstract'] |  
 | bip_39_word_space_1 | olive |  
 | bip_39_word_space_10 | olive crew want transfer visa vapor solar chronic three office |  

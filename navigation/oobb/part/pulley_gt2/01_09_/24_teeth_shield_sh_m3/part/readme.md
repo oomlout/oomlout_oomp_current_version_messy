@@ -122,6 +122,18 @@ faith
 fashion
 method
 vague |  
+| bip_39_word_no_space_1 | bulk |  
+| bip_39_word_no_space_10 | bulkinvestthatneglectforestfaithfashionmethodvaguetravel |  
+| bip_39_word_no_space_11 | bulkinvestthatneglectforestfaithfashionmethodvaguetravelcurtain |  
+| bip_39_word_no_space_12 | bulkinvestthatneglectforestfaithfashionmethodvaguetravelcurtainadmit |  
+| bip_39_word_no_space_2 | bulkinvest |  
+| bip_39_word_no_space_3 | bulkinvestthat |  
+| bip_39_word_no_space_4 | bulkinvestthatneglect |  
+| bip_39_word_no_space_5 | bulkinvestthatneglectforest |  
+| bip_39_word_no_space_6 | bulkinvestthatneglectforestfaith |  
+| bip_39_word_no_space_7 | bulkinvestthatneglectforestfaithfashion |  
+| bip_39_word_no_space_8 | bulkinvestthatneglectforestfaithfashionmethod |  
+| bip_39_word_no_space_9 | bulkinvestthatneglectforestfaithfashionmethodvague |  
 | bip_39_word_space_0 | ['bulk', 'invest', 'that', 'neglect', 'forest', 'faith', 'fashion', 'method', 'vague', 'travel', 'curtain', 'admit'] |  
 | bip_39_word_space_1 | bulk |  
 | bip_39_word_space_10 | bulk invest that neglect forest faith fashion method vague travel |  

@@ -124,6 +124,18 @@ afford
 episode
 mercy
 define |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naivewastecyclearmednearaffordepisodemercydefinepractice |  
+| bip_39_word_no_space_11 | naivewastecyclearmednearaffordepisodemercydefinepracticewealth |  
+| bip_39_word_no_space_12 | naivewastecyclearmednearaffordepisodemercydefinepracticewealthamount |  
+| bip_39_word_no_space_2 | naivewaste |  
+| bip_39_word_no_space_3 | naivewastecycle |  
+| bip_39_word_no_space_4 | naivewastecyclearmed |  
+| bip_39_word_no_space_5 | naivewastecyclearmednear |  
+| bip_39_word_no_space_6 | naivewastecyclearmednearafford |  
+| bip_39_word_no_space_7 | naivewastecyclearmednearaffordepisode |  
+| bip_39_word_no_space_8 | naivewastecyclearmednearaffordepisodemercy |  
+| bip_39_word_no_space_9 | naivewastecyclearmednearaffordepisodemercydefine |  
 | bip_39_word_space_0 | ['naive', 'waste', 'cycle', 'armed', 'near', 'afford', 'episode', 'mercy', 'define', 'practice', 'wealth', 'amount'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive waste cycle armed near afford episode mercy define practice |  

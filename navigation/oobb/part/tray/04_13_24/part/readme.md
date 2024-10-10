@@ -122,6 +122,18 @@ scrap
 plate
 noodle
 draft |  
+| bip_39_word_no_space_1 | mutual |  
+| bip_39_word_no_space_10 | mutualbeefearlyfeeescapescrapplatenoodledraftbasic |  
+| bip_39_word_no_space_11 | mutualbeefearlyfeeescapescrapplatenoodledraftbasicfeed |  
+| bip_39_word_no_space_12 | mutualbeefearlyfeeescapescrapplatenoodledraftbasicfeedatom |  
+| bip_39_word_no_space_2 | mutualbeef |  
+| bip_39_word_no_space_3 | mutualbeefearly |  
+| bip_39_word_no_space_4 | mutualbeefearlyfee |  
+| bip_39_word_no_space_5 | mutualbeefearlyfeeescape |  
+| bip_39_word_no_space_6 | mutualbeefearlyfeeescapescrap |  
+| bip_39_word_no_space_7 | mutualbeefearlyfeeescapescrapplate |  
+| bip_39_word_no_space_8 | mutualbeefearlyfeeescapescrapplatenoodle |  
+| bip_39_word_no_space_9 | mutualbeefearlyfeeescapescrapplatenoodledraft |  
 | bip_39_word_space_0 | ['mutual', 'beef', 'early', 'fee', 'escape', 'scrap', 'plate', 'noodle', 'draft', 'basic', 'feed', 'atom'] |  
 | bip_39_word_space_1 | mutual |  
 | bip_39_word_space_10 | mutual beef early fee escape scrap plate noodle draft basic |  

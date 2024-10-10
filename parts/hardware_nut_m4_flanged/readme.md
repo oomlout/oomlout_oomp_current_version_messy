@@ -122,6 +122,18 @@ dinner
 weird
 able
 urban |  
+| bip_39_word_no_space_1 | field |  
+| bip_39_word_no_space_10 | fieldreflectspiritlatintargetdinnerweirdableurbanbroken |  
+| bip_39_word_no_space_11 | fieldreflectspiritlatintargetdinnerweirdableurbanbrokenmaximum |  
+| bip_39_word_no_space_12 | fieldreflectspiritlatintargetdinnerweirdableurbanbrokenmaximumarch |  
+| bip_39_word_no_space_2 | fieldreflect |  
+| bip_39_word_no_space_3 | fieldreflectspirit |  
+| bip_39_word_no_space_4 | fieldreflectspiritlatin |  
+| bip_39_word_no_space_5 | fieldreflectspiritlatintarget |  
+| bip_39_word_no_space_6 | fieldreflectspiritlatintargetdinner |  
+| bip_39_word_no_space_7 | fieldreflectspiritlatintargetdinnerweird |  
+| bip_39_word_no_space_8 | fieldreflectspiritlatintargetdinnerweirdable |  
+| bip_39_word_no_space_9 | fieldreflectspiritlatintargetdinnerweirdableurban |  
 | bip_39_word_space_0 | ['field', 'reflect', 'spirit', 'latin', 'target', 'dinner', 'weird', 'able', 'urban', 'broken', 'maximum', 'arch'] |  
 | bip_39_word_space_1 | field |  
 | bip_39_word_space_10 | field reflect spirit latin target dinner weird able urban broken |  

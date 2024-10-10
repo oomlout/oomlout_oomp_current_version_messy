@@ -122,6 +122,18 @@ hole
 excuse
 accuse
 close |  
+| bip_39_word_no_space_1 | penalty |  
+| bip_39_word_no_space_10 | penaltyviablejewelmyselfladderholeexcuseaccuseclosefringe |  
+| bip_39_word_no_space_11 | penaltyviablejewelmyselfladderholeexcuseaccuseclosefringeangle |  
+| bip_39_word_no_space_12 | penaltyviablejewelmyselfladderholeexcuseaccuseclosefringeangleautumn |  
+| bip_39_word_no_space_2 | penaltyviable |  
+| bip_39_word_no_space_3 | penaltyviablejewel |  
+| bip_39_word_no_space_4 | penaltyviablejewelmyself |  
+| bip_39_word_no_space_5 | penaltyviablejewelmyselfladder |  
+| bip_39_word_no_space_6 | penaltyviablejewelmyselfladderhole |  
+| bip_39_word_no_space_7 | penaltyviablejewelmyselfladderholeexcuse |  
+| bip_39_word_no_space_8 | penaltyviablejewelmyselfladderholeexcuseaccuse |  
+| bip_39_word_no_space_9 | penaltyviablejewelmyselfladderholeexcuseaccuseclose |  
 | bip_39_word_space_0 | ['penalty', 'viable', 'jewel', 'myself', 'ladder', 'hole', 'excuse', 'accuse', 'close', 'fringe', 'angle', 'autumn'] |  
 | bip_39_word_space_1 | penalty |  
 | bip_39_word_space_10 | penalty viable jewel myself ladder hole excuse accuse close fringe |  

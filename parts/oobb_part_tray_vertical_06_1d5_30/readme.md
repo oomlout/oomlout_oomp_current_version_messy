@@ -122,6 +122,18 @@ between
 turn
 hint
 throw |  
+| bip_39_word_no_space_1 | egg |  
+| bip_39_word_no_space_10 | eggcliffwooljoydoublebetweenturnhintthrowhumble |  
+| bip_39_word_no_space_11 | eggcliffwooljoydoublebetweenturnhintthrowhumblelanguage |  
+| bip_39_word_no_space_12 | eggcliffwooljoydoublebetweenturnhintthrowhumblelanguageaunt |  
+| bip_39_word_no_space_2 | eggcliff |  
+| bip_39_word_no_space_3 | eggcliffwool |  
+| bip_39_word_no_space_4 | eggcliffwooljoy |  
+| bip_39_word_no_space_5 | eggcliffwooljoydouble |  
+| bip_39_word_no_space_6 | eggcliffwooljoydoublebetween |  
+| bip_39_word_no_space_7 | eggcliffwooljoydoublebetweenturn |  
+| bip_39_word_no_space_8 | eggcliffwooljoydoublebetweenturnhint |  
+| bip_39_word_no_space_9 | eggcliffwooljoydoublebetweenturnhintthrow |  
 | bip_39_word_space_0 | ['egg', 'cliff', 'wool', 'joy', 'double', 'between', 'turn', 'hint', 'throw', 'humble', 'language', 'aunt'] |  
 | bip_39_word_space_1 | egg |  
 | bip_39_word_space_10 | egg cliff wool joy double between turn hint throw humble |  

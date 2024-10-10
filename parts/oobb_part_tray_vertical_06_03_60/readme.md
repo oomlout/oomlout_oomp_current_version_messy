@@ -122,6 +122,18 @@ answer
 rapid
 tribe
 grace |  
+| bip_39_word_no_space_1 | mammal |  
+| bip_39_word_no_space_10 | mammaldietgrouphollowpauseanswerrapidtribegracefrown |  
+| bip_39_word_no_space_11 | mammaldietgrouphollowpauseanswerrapidtribegracefrownsaddle |  
+| bip_39_word_no_space_12 | mammaldietgrouphollowpauseanswerrapidtribegracefrownsaddleanimal |  
+| bip_39_word_no_space_2 | mammaldiet |  
+| bip_39_word_no_space_3 | mammaldietgroup |  
+| bip_39_word_no_space_4 | mammaldietgrouphollow |  
+| bip_39_word_no_space_5 | mammaldietgrouphollowpause |  
+| bip_39_word_no_space_6 | mammaldietgrouphollowpauseanswer |  
+| bip_39_word_no_space_7 | mammaldietgrouphollowpauseanswerrapid |  
+| bip_39_word_no_space_8 | mammaldietgrouphollowpauseanswerrapidtribe |  
+| bip_39_word_no_space_9 | mammaldietgrouphollowpauseanswerrapidtribegrace |  
 | bip_39_word_space_0 | ['mammal', 'diet', 'group', 'hollow', 'pause', 'answer', 'rapid', 'tribe', 'grace', 'frown', 'saddle', 'animal'] |  
 | bip_39_word_space_1 | mammal |  
 | bip_39_word_space_10 | mammal diet group hollow pause answer rapid tribe grace frown |  

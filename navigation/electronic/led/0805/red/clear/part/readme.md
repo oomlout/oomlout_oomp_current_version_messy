@@ -122,6 +122,18 @@ ceiling
 lesson
 bomb
 tribe |  
+| bip_39_word_no_space_1 | opera |  
+| bip_39_word_no_space_10 | operanosecollecttargetmessageceilinglessonbombtribethumb |  
+| bip_39_word_no_space_11 | operanosecollecttargetmessageceilinglessonbombtribethumbtomorrow |  
+| bip_39_word_no_space_12 | operanosecollecttargetmessageceilinglessonbombtribethumbtomorrowalarm |  
+| bip_39_word_no_space_2 | operanose |  
+| bip_39_word_no_space_3 | operanosecollect |  
+| bip_39_word_no_space_4 | operanosecollecttarget |  
+| bip_39_word_no_space_5 | operanosecollecttargetmessage |  
+| bip_39_word_no_space_6 | operanosecollecttargetmessageceiling |  
+| bip_39_word_no_space_7 | operanosecollecttargetmessageceilinglesson |  
+| bip_39_word_no_space_8 | operanosecollecttargetmessageceilinglessonbomb |  
+| bip_39_word_no_space_9 | operanosecollecttargetmessageceilinglessonbombtribe |  
 | bip_39_word_space_0 | ['opera', 'nose', 'collect', 'target', 'message', 'ceiling', 'lesson', 'bomb', 'tribe', 'thumb', 'tomorrow', 'alarm'] |  
 | bip_39_word_space_1 | opera |  
 | bip_39_word_space_10 | opera nose collect target message ceiling lesson bomb tribe thumb |  

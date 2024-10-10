@@ -122,6 +122,18 @@ real
 employ
 grass
 vicious |  
+| bip_39_word_no_space_1 | century |  
+| bip_39_word_no_space_10 | centurycornsymbolprocessretirerealemploygrassviciousstick |  
+| bip_39_word_no_space_11 | centurycornsymbolprocessretirerealemploygrassviciousstickmotor |  
+| bip_39_word_no_space_12 | centurycornsymbolprocessretirerealemploygrassviciousstickmotorattack |  
+| bip_39_word_no_space_2 | centurycorn |  
+| bip_39_word_no_space_3 | centurycornsymbol |  
+| bip_39_word_no_space_4 | centurycornsymbolprocess |  
+| bip_39_word_no_space_5 | centurycornsymbolprocessretire |  
+| bip_39_word_no_space_6 | centurycornsymbolprocessretirereal |  
+| bip_39_word_no_space_7 | centurycornsymbolprocessretirerealemploy |  
+| bip_39_word_no_space_8 | centurycornsymbolprocessretirerealemploygrass |  
+| bip_39_word_no_space_9 | centurycornsymbolprocessretirerealemploygrassvicious |  
 | bip_39_word_space_0 | ['century', 'corn', 'symbol', 'process', 'retire', 'real', 'employ', 'grass', 'vicious', 'stick', 'motor', 'attack'] |  
 | bip_39_word_space_1 | century |  
 | bip_39_word_space_10 | century corn symbol process retire real employ grass vicious stick |  

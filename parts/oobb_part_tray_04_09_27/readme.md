@@ -122,6 +122,18 @@ jaguar
 gesture
 glory
 access |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jewelgrabappearturngigglejaguargesturegloryaccessquality |  
+| bip_39_word_no_space_11 | jewelgrabappearturngigglejaguargesturegloryaccessqualityturtle |  
+| bip_39_word_no_space_12 | jewelgrabappearturngigglejaguargesturegloryaccessqualityturtleamazing |  
+| bip_39_word_no_space_2 | jewelgrab |  
+| bip_39_word_no_space_3 | jewelgrabappear |  
+| bip_39_word_no_space_4 | jewelgrabappearturn |  
+| bip_39_word_no_space_5 | jewelgrabappearturngiggle |  
+| bip_39_word_no_space_6 | jewelgrabappearturngigglejaguar |  
+| bip_39_word_no_space_7 | jewelgrabappearturngigglejaguargesture |  
+| bip_39_word_no_space_8 | jewelgrabappearturngigglejaguargestureglory |  
+| bip_39_word_no_space_9 | jewelgrabappearturngigglejaguargesturegloryaccess |  
 | bip_39_word_space_0 | ['jewel', 'grab', 'appear', 'turn', 'giggle', 'jaguar', 'gesture', 'glory', 'access', 'quality', 'turtle', 'amazing'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel grab appear turn giggle jaguar gesture glory access quality |  

@@ -122,6 +122,18 @@ alarm
 thought
 dad
 vibrant |  
+| bip_39_word_no_space_1 | tube |  
+| bip_39_word_no_space_10 | tubefixtreatseminarintactalarmthoughtdadvibrantbright |  
+| bip_39_word_no_space_11 | tubefixtreatseminarintactalarmthoughtdadvibrantbrightalso |  
+| bip_39_word_no_space_12 | tubefixtreatseminarintactalarmthoughtdadvibrantbrightalsoadapt |  
+| bip_39_word_no_space_2 | tubefix |  
+| bip_39_word_no_space_3 | tubefixtreat |  
+| bip_39_word_no_space_4 | tubefixtreatseminar |  
+| bip_39_word_no_space_5 | tubefixtreatseminarintact |  
+| bip_39_word_no_space_6 | tubefixtreatseminarintactalarm |  
+| bip_39_word_no_space_7 | tubefixtreatseminarintactalarmthought |  
+| bip_39_word_no_space_8 | tubefixtreatseminarintactalarmthoughtdad |  
+| bip_39_word_no_space_9 | tubefixtreatseminarintactalarmthoughtdadvibrant |  
 | bip_39_word_space_0 | ['tube', 'fix', 'treat', 'seminar', 'intact', 'alarm', 'thought', 'dad', 'vibrant', 'bright', 'also', 'adapt'] |  
 | bip_39_word_space_1 | tube |  
 | bip_39_word_space_10 | tube fix treat seminar intact alarm thought dad vibrant bright |  

@@ -122,6 +122,18 @@ age
 among
 scrub
 barely |  
+| bip_39_word_no_space_1 | final |  
+| bip_39_word_no_space_10 | finaltrafficruledepositviolinageamongscrubbarelyoriginal |  
+| bip_39_word_no_space_11 | finaltrafficruledepositviolinageamongscrubbarelyoriginalpoet |  
+| bip_39_word_no_space_12 | finaltrafficruledepositviolinageamongscrubbarelyoriginalpoetaccident |  
+| bip_39_word_no_space_2 | finaltraffic |  
+| bip_39_word_no_space_3 | finaltrafficrule |  
+| bip_39_word_no_space_4 | finaltrafficruledeposit |  
+| bip_39_word_no_space_5 | finaltrafficruledepositviolin |  
+| bip_39_word_no_space_6 | finaltrafficruledepositviolinage |  
+| bip_39_word_no_space_7 | finaltrafficruledepositviolinageamong |  
+| bip_39_word_no_space_8 | finaltrafficruledepositviolinageamongscrub |  
+| bip_39_word_no_space_9 | finaltrafficruledepositviolinageamongscrubbarely |  
 | bip_39_word_space_0 | ['final', 'traffic', 'rule', 'deposit', 'violin', 'age', 'among', 'scrub', 'barely', 'original', 'poet', 'accident'] |  
 | bip_39_word_space_1 | final |  
 | bip_39_word_space_10 | final traffic rule deposit violin age among scrub barely original |  

@@ -122,6 +122,18 @@ run
 endless
 color
 inform |  
+| bip_39_word_no_space_1 | supply |  
+| bip_39_word_no_space_10 | supplywearstorysnacktennisrunendlesscolorinformstool |  
+| bip_39_word_no_space_11 | supplywearstorysnacktennisrunendlesscolorinformstoollink |  
+| bip_39_word_no_space_12 | supplywearstorysnacktennisrunendlesscolorinformstoollinkantique |  
+| bip_39_word_no_space_2 | supplywear |  
+| bip_39_word_no_space_3 | supplywearstory |  
+| bip_39_word_no_space_4 | supplywearstorysnack |  
+| bip_39_word_no_space_5 | supplywearstorysnacktennis |  
+| bip_39_word_no_space_6 | supplywearstorysnacktennisrun |  
+| bip_39_word_no_space_7 | supplywearstorysnacktennisrunendless |  
+| bip_39_word_no_space_8 | supplywearstorysnacktennisrunendlesscolor |  
+| bip_39_word_no_space_9 | supplywearstorysnacktennisrunendlesscolorinform |  
 | bip_39_word_space_0 | ['supply', 'wear', 'story', 'snack', 'tennis', 'run', 'endless', 'color', 'inform', 'stool', 'link', 'antique'] |  
 | bip_39_word_space_1 | supply |  
 | bip_39_word_space_10 | supply wear story snack tennis run endless color inform stool |  

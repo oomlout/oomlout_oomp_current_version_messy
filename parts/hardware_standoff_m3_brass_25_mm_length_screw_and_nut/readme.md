@@ -122,6 +122,18 @@ attend
 glad
 permit
 acquire |  
+| bip_39_word_no_space_1 | oval |  
+| bip_39_word_no_space_10 | ovalboringnarrowholdnastyattendgladpermitacquirepause |  
+| bip_39_word_no_space_11 | ovalboringnarrowholdnastyattendgladpermitacquirepausetomato |  
+| bip_39_word_no_space_12 | ovalboringnarrowholdnastyattendgladpermitacquirepausetomatoability |  
+| bip_39_word_no_space_2 | ovalboring |  
+| bip_39_word_no_space_3 | ovalboringnarrow |  
+| bip_39_word_no_space_4 | ovalboringnarrowhold |  
+| bip_39_word_no_space_5 | ovalboringnarrowholdnasty |  
+| bip_39_word_no_space_6 | ovalboringnarrowholdnastyattend |  
+| bip_39_word_no_space_7 | ovalboringnarrowholdnastyattendglad |  
+| bip_39_word_no_space_8 | ovalboringnarrowholdnastyattendgladpermit |  
+| bip_39_word_no_space_9 | ovalboringnarrowholdnastyattendgladpermitacquire |  
 | bip_39_word_space_0 | ['oval', 'boring', 'narrow', 'hold', 'nasty', 'attend', 'glad', 'permit', 'acquire', 'pause', 'tomato', 'ability'] |  
 | bip_39_word_space_1 | oval |  
 | bip_39_word_space_10 | oval boring narrow hold nasty attend glad permit acquire pause |  

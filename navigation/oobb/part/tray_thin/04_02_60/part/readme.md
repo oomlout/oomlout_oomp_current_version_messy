@@ -122,6 +122,18 @@ toe
 cause
 ranch
 brisk |  
+| bip_39_word_no_space_1 | fuel |  
+| bip_39_word_no_space_10 | fuelacousticpeacemirrorcouchtoecauseranchbriskbasic |  
+| bip_39_word_no_space_11 | fuelacousticpeacemirrorcouchtoecauseranchbriskbasicride |  
+| bip_39_word_no_space_12 | fuelacousticpeacemirrorcouchtoecauseranchbriskbasicrideauto |  
+| bip_39_word_no_space_2 | fuelacoustic |  
+| bip_39_word_no_space_3 | fuelacousticpeace |  
+| bip_39_word_no_space_4 | fuelacousticpeacemirror |  
+| bip_39_word_no_space_5 | fuelacousticpeacemirrorcouch |  
+| bip_39_word_no_space_6 | fuelacousticpeacemirrorcouchtoe |  
+| bip_39_word_no_space_7 | fuelacousticpeacemirrorcouchtoecause |  
+| bip_39_word_no_space_8 | fuelacousticpeacemirrorcouchtoecauseranch |  
+| bip_39_word_no_space_9 | fuelacousticpeacemirrorcouchtoecauseranchbrisk |  
 | bip_39_word_space_0 | ['fuel', 'acoustic', 'peace', 'mirror', 'couch', 'toe', 'cause', 'ranch', 'brisk', 'basic', 'ride', 'auto'] |  
 | bip_39_word_space_1 | fuel |  
 | bip_39_word_space_10 | fuel acoustic peace mirror couch toe cause ranch brisk basic |  

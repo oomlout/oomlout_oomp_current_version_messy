@@ -122,6 +122,18 @@ scale
 flame
 maple
 smooth |  
+| bip_39_word_no_space_1 | benefit |  
+| bip_39_word_no_space_10 | benefitonceclogholdmovescaleflamemaplesmoothproject |  
+| bip_39_word_no_space_11 | benefitonceclogholdmovescaleflamemaplesmoothprojectnice |  
+| bip_39_word_no_space_12 | benefitonceclogholdmovescaleflamemaplesmoothprojectniceactual |  
+| bip_39_word_no_space_2 | benefitonce |  
+| bip_39_word_no_space_3 | benefitonceclog |  
+| bip_39_word_no_space_4 | benefitoncecloghold |  
+| bip_39_word_no_space_5 | benefitonceclogholdmove |  
+| bip_39_word_no_space_6 | benefitonceclogholdmovescale |  
+| bip_39_word_no_space_7 | benefitonceclogholdmovescaleflame |  
+| bip_39_word_no_space_8 | benefitonceclogholdmovescaleflamemaple |  
+| bip_39_word_no_space_9 | benefitonceclogholdmovescaleflamemaplesmooth |  
 | bip_39_word_space_0 | ['benefit', 'once', 'clog', 'hold', 'move', 'scale', 'flame', 'maple', 'smooth', 'project', 'nice', 'actual'] |  
 | bip_39_word_space_1 | benefit |  
 | bip_39_word_space_10 | benefit once clog hold move scale flame maple smooth project |  

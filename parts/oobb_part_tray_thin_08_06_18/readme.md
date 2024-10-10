@@ -122,6 +122,18 @@ eternal
 face
 hole
 crack |  
+| bip_39_word_no_space_1 | brand |  
+| bip_39_word_no_space_10 | brandchestcloseruralfirmeternalfaceholecrackshy |  
+| bip_39_word_no_space_11 | brandchestcloseruralfirmeternalfaceholecrackshylabor |  
+| bip_39_word_no_space_12 | brandchestcloseruralfirmeternalfaceholecrackshylaborassault |  
+| bip_39_word_no_space_2 | brandchest |  
+| bip_39_word_no_space_3 | brandchestclose |  
+| bip_39_word_no_space_4 | brandchestcloserural |  
+| bip_39_word_no_space_5 | brandchestcloseruralfirm |  
+| bip_39_word_no_space_6 | brandchestcloseruralfirmeternal |  
+| bip_39_word_no_space_7 | brandchestcloseruralfirmeternalface |  
+| bip_39_word_no_space_8 | brandchestcloseruralfirmeternalfacehole |  
+| bip_39_word_no_space_9 | brandchestcloseruralfirmeternalfaceholecrack |  
 | bip_39_word_space_0 | ['brand', 'chest', 'close', 'rural', 'firm', 'eternal', 'face', 'hole', 'crack', 'shy', 'labor', 'assault'] |  
 | bip_39_word_space_1 | brand |  
 | bip_39_word_space_10 | brand chest close rural firm eternal face hole crack shy |  

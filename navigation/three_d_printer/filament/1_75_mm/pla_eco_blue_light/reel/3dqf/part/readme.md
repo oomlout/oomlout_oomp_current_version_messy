@@ -122,6 +122,18 @@ key
 three
 shed
 question |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aisletreatpotatoenterthiskeythreeshedquestionduty |  
+| bip_39_word_no_space_11 | aisletreatpotatoenterthiskeythreeshedquestiondutysafe |  
+| bip_39_word_no_space_12 | aisletreatpotatoenterthiskeythreeshedquestiondutysafealley |  
+| bip_39_word_no_space_2 | aisletreat |  
+| bip_39_word_no_space_3 | aisletreatpotato |  
+| bip_39_word_no_space_4 | aisletreatpotatoenter |  
+| bip_39_word_no_space_5 | aisletreatpotatoenterthis |  
+| bip_39_word_no_space_6 | aisletreatpotatoenterthiskey |  
+| bip_39_word_no_space_7 | aisletreatpotatoenterthiskeythree |  
+| bip_39_word_no_space_8 | aisletreatpotatoenterthiskeythreeshed |  
+| bip_39_word_no_space_9 | aisletreatpotatoenterthiskeythreeshedquestion |  
 | bip_39_word_space_0 | ['aisle', 'treat', 'potato', 'enter', 'this', 'key', 'three', 'shed', 'question', 'duty', 'safe', 'alley'] |  
 | bip_39_word_space_1 | aisle |  
 | bip_39_word_space_10 | aisle treat potato enter this key three shed question duty |  

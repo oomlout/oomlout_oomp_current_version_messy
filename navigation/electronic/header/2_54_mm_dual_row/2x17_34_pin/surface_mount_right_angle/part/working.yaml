@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'guess
   belt
 
   tooth'
+bip_39_word_no_space_1: guess
+bip_39_word_no_space_10: guessentercherryfruitritualtoeaerobicbelttoothcloth
+bip_39_word_no_space_11: guessentercherryfruitritualtoeaerobicbelttoothclothwrite
+bip_39_word_no_space_12: guessentercherryfruitritualtoeaerobicbelttoothclothwriteabove
+bip_39_word_no_space_2: guessenter
+bip_39_word_no_space_3: guessentercherry
+bip_39_word_no_space_4: guessentercherryfruit
+bip_39_word_no_space_5: guessentercherryfruitritual
+bip_39_word_no_space_6: guessentercherryfruitritualtoe
+bip_39_word_no_space_7: guessentercherryfruitritualtoeaerobic
+bip_39_word_no_space_8: guessentercherryfruitritualtoeaerobicbelt
+bip_39_word_no_space_9: guessentercherryfruitritualtoeaerobicbelttooth
 bip_39_word_space_0:
 - guess
 - enter

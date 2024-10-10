@@ -122,6 +122,18 @@ faculty
 elephant
 west
 media |  
+| bip_39_word_no_space_1 | speak |  
+| bip_39_word_no_space_10 | speakschooltimeeconomypunchfacultyelephantwestmediaobserve |  
+| bip_39_word_no_space_11 | speakschooltimeeconomypunchfacultyelephantwestmediaobservesample |  
+| bip_39_word_no_space_12 | speakschooltimeeconomypunchfacultyelephantwestmediaobservesampleadvice |  
+| bip_39_word_no_space_2 | speakschool |  
+| bip_39_word_no_space_3 | speakschooltime |  
+| bip_39_word_no_space_4 | speakschooltimeeconomy |  
+| bip_39_word_no_space_5 | speakschooltimeeconomypunch |  
+| bip_39_word_no_space_6 | speakschooltimeeconomypunchfaculty |  
+| bip_39_word_no_space_7 | speakschooltimeeconomypunchfacultyelephant |  
+| bip_39_word_no_space_8 | speakschooltimeeconomypunchfacultyelephantwest |  
+| bip_39_word_no_space_9 | speakschooltimeeconomypunchfacultyelephantwestmedia |  
 | bip_39_word_space_0 | ['speak', 'school', 'time', 'economy', 'punch', 'faculty', 'elephant', 'west', 'media', 'observe', 'sample', 'advice'] |  
 | bip_39_word_space_1 | speak |  
 | bip_39_word_space_10 | speak school time economy punch faculty elephant west media observe |  

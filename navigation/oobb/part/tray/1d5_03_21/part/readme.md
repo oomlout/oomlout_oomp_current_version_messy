@@ -122,6 +122,18 @@ word
 engine
 cotton
 insect |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchearlydespairkidneytherewordenginecottoninsectgrunt |  
+| bip_39_word_no_space_11 | patchearlydespairkidneytherewordenginecottoninsectgruntridge |  
+| bip_39_word_no_space_12 | patchearlydespairkidneytherewordenginecottoninsectgruntridgeabuse |  
+| bip_39_word_no_space_2 | patchearly |  
+| bip_39_word_no_space_3 | patchearlydespair |  
+| bip_39_word_no_space_4 | patchearlydespairkidney |  
+| bip_39_word_no_space_5 | patchearlydespairkidneythere |  
+| bip_39_word_no_space_6 | patchearlydespairkidneythereword |  
+| bip_39_word_no_space_7 | patchearlydespairkidneytherewordengine |  
+| bip_39_word_no_space_8 | patchearlydespairkidneytherewordenginecotton |  
+| bip_39_word_no_space_9 | patchearlydespairkidneytherewordenginecottoninsect |  
 | bip_39_word_space_0 | ['patch', 'early', 'despair', 'kidney', 'there', 'word', 'engine', 'cotton', 'insect', 'grunt', 'ridge', 'abuse'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch early despair kidney there word engine cotton insect grunt |  

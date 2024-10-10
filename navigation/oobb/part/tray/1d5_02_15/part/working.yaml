@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'adult
   energy
 
   tragic'
+bip_39_word_no_space_1: adult
+bip_39_word_no_space_10: adultarcharmactionvacantadvanceequalenergytragiccrash
+bip_39_word_no_space_11: adultarcharmactionvacantadvanceequalenergytragiccrashtent
+bip_39_word_no_space_12: adultarcharmactionvacantadvanceequalenergytragiccrashtentanswer
+bip_39_word_no_space_2: adultarch
+bip_39_word_no_space_3: adultarcharm
+bip_39_word_no_space_4: adultarcharmaction
+bip_39_word_no_space_5: adultarcharmactionvacant
+bip_39_word_no_space_6: adultarcharmactionvacantadvance
+bip_39_word_no_space_7: adultarcharmactionvacantadvanceequal
+bip_39_word_no_space_8: adultarcharmactionvacantadvanceequalenergy
+bip_39_word_no_space_9: adultarcharmactionvacantadvanceequalenergytragic
 bip_39_word_space_0:
 - adult
 - arch

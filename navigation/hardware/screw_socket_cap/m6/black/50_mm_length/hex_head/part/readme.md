@@ -122,6 +122,18 @@ huge
 degree
 orange
 dress |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pacttapesimilarnuclearteamhugedegreeorangedressextra |  
+| bip_39_word_no_space_11 | pacttapesimilarnuclearteamhugedegreeorangedressextradefine |  
+| bip_39_word_no_space_12 | pacttapesimilarnuclearteamhugedegreeorangedressextradefineartefact |  
+| bip_39_word_no_space_2 | pacttape |  
+| bip_39_word_no_space_3 | pacttapesimilar |  
+| bip_39_word_no_space_4 | pacttapesimilarnuclear |  
+| bip_39_word_no_space_5 | pacttapesimilarnuclearteam |  
+| bip_39_word_no_space_6 | pacttapesimilarnuclearteamhuge |  
+| bip_39_word_no_space_7 | pacttapesimilarnuclearteamhugedegree |  
+| bip_39_word_no_space_8 | pacttapesimilarnuclearteamhugedegreeorange |  
+| bip_39_word_no_space_9 | pacttapesimilarnuclearteamhugedegreeorangedress |  
 | bip_39_word_space_0 | ['pact', 'tape', 'similar', 'nuclear', 'team', 'huge', 'degree', 'orange', 'dress', 'extra', 'define', 'artefact'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact tape similar nuclear team huge degree orange dress extra |  

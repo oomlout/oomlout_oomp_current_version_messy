@@ -122,6 +122,18 @@ street
 tunnel
 uncle
 brush |  
+| bip_39_word_no_space_1 | obvious |  
+| bip_39_word_no_space_10 | obviouspolardomaincrisppowderstreettunnelunclebrushweather |  
+| bip_39_word_no_space_11 | obviouspolardomaincrisppowderstreettunnelunclebrushweatherauthor |  
+| bip_39_word_no_space_12 | obviouspolardomaincrisppowderstreettunnelunclebrushweatherauthoralso |  
+| bip_39_word_no_space_2 | obviouspolar |  
+| bip_39_word_no_space_3 | obviouspolardomain |  
+| bip_39_word_no_space_4 | obviouspolardomaincrisp |  
+| bip_39_word_no_space_5 | obviouspolardomaincrisppowder |  
+| bip_39_word_no_space_6 | obviouspolardomaincrisppowderstreet |  
+| bip_39_word_no_space_7 | obviouspolardomaincrisppowderstreettunnel |  
+| bip_39_word_no_space_8 | obviouspolardomaincrisppowderstreettunneluncle |  
+| bip_39_word_no_space_9 | obviouspolardomaincrisppowderstreettunnelunclebrush |  
 | bip_39_word_space_0 | ['obvious', 'polar', 'domain', 'crisp', 'powder', 'street', 'tunnel', 'uncle', 'brush', 'weather', 'author', 'also'] |  
 | bip_39_word_space_1 | obvious |  
 | bip_39_word_space_10 | obvious polar domain crisp powder street tunnel uncle brush weather |  

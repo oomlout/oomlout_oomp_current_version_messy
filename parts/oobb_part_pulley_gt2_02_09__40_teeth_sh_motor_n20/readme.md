@@ -122,6 +122,18 @@ fall
 tilt
 bread
 double |  
+| bip_39_word_no_space_1 | mistake |  
+| bip_39_word_no_space_10 | mistakepoleactualmasterbrownfalltiltbreaddoublemeadow |  
+| bip_39_word_no_space_11 | mistakepoleactualmasterbrownfalltiltbreaddoublemeadowalso |  
+| bip_39_word_no_space_12 | mistakepoleactualmasterbrownfalltiltbreaddoublemeadowalsoarrange |  
+| bip_39_word_no_space_2 | mistakepole |  
+| bip_39_word_no_space_3 | mistakepoleactual |  
+| bip_39_word_no_space_4 | mistakepoleactualmaster |  
+| bip_39_word_no_space_5 | mistakepoleactualmasterbrown |  
+| bip_39_word_no_space_6 | mistakepoleactualmasterbrownfall |  
+| bip_39_word_no_space_7 | mistakepoleactualmasterbrownfalltilt |  
+| bip_39_word_no_space_8 | mistakepoleactualmasterbrownfalltiltbread |  
+| bip_39_word_no_space_9 | mistakepoleactualmasterbrownfalltiltbreaddouble |  
 | bip_39_word_space_0 | ['mistake', 'pole', 'actual', 'master', 'brown', 'fall', 'tilt', 'bread', 'double', 'meadow', 'also', 'arrange'] |  
 | bip_39_word_space_1 | mistake |  
 | bip_39_word_space_10 | mistake pole actual master brown fall tilt bread double meadow |  

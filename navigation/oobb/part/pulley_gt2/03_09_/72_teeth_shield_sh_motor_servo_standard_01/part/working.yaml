@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gaze
   together
 
   elder'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazeignorehomedrinktossmeadowradiotogethereldershrimp
+bip_39_word_no_space_11: gazeignorehomedrinktossmeadowradiotogethereldershrimpmosquito
+bip_39_word_no_space_12: gazeignorehomedrinktossmeadowradiotogethereldershrimpmosquitoacoustic
+bip_39_word_no_space_2: gazeignore
+bip_39_word_no_space_3: gazeignorehome
+bip_39_word_no_space_4: gazeignorehomedrink
+bip_39_word_no_space_5: gazeignorehomedrinktoss
+bip_39_word_no_space_6: gazeignorehomedrinktossmeadow
+bip_39_word_no_space_7: gazeignorehomedrinktossmeadowradio
+bip_39_word_no_space_8: gazeignorehomedrinktossmeadowradiotogether
+bip_39_word_no_space_9: gazeignorehomedrinktossmeadowradiotogetherelder
 bip_39_word_space_0:
 - gaze
 - ignore

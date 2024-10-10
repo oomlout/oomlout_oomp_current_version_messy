@@ -122,6 +122,18 @@ company
 armed
 brave
 erode |  
+| bip_39_word_no_space_1 | general |  
+| bip_39_word_no_space_10 | generalcensusofficeisolatecargocompanyarmedbraveerodeinmate |  
+| bip_39_word_no_space_11 | generalcensusofficeisolatecargocompanyarmedbraveerodeinmategorilla |  
+| bip_39_word_no_space_12 | generalcensusofficeisolatecargocompanyarmedbraveerodeinmategorillaarmed |  
+| bip_39_word_no_space_2 | generalcensus |  
+| bip_39_word_no_space_3 | generalcensusoffice |  
+| bip_39_word_no_space_4 | generalcensusofficeisolate |  
+| bip_39_word_no_space_5 | generalcensusofficeisolatecargo |  
+| bip_39_word_no_space_6 | generalcensusofficeisolatecargocompany |  
+| bip_39_word_no_space_7 | generalcensusofficeisolatecargocompanyarmed |  
+| bip_39_word_no_space_8 | generalcensusofficeisolatecargocompanyarmedbrave |  
+| bip_39_word_no_space_9 | generalcensusofficeisolatecargocompanyarmedbraveerode |  
 | bip_39_word_space_0 | ['general', 'census', 'office', 'isolate', 'cargo', 'company', 'armed', 'brave', 'erode', 'inmate', 'gorilla', 'armed'] |  
 | bip_39_word_space_1 | general |  
 | bip_39_word_space_10 | general census office isolate cargo company armed brave erode inmate |  

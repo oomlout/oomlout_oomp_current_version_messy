@@ -122,6 +122,18 @@ tennis
 labor
 movie
 yellow |  
+| bip_39_word_no_space_1 | search |  
+| bip_39_word_no_space_10 | searchagentolympicfogtodaytennislabormovieyellownoble |  
+| bip_39_word_no_space_11 | searchagentolympicfogtodaytennislabormovieyellownobleheavy |  
+| bip_39_word_no_space_12 | searchagentolympicfogtodaytennislabormovieyellownobleheavyabsent |  
+| bip_39_word_no_space_2 | searchagent |  
+| bip_39_word_no_space_3 | searchagentolympic |  
+| bip_39_word_no_space_4 | searchagentolympicfog |  
+| bip_39_word_no_space_5 | searchagentolympicfogtoday |  
+| bip_39_word_no_space_6 | searchagentolympicfogtodaytennis |  
+| bip_39_word_no_space_7 | searchagentolympicfogtodaytennislabor |  
+| bip_39_word_no_space_8 | searchagentolympicfogtodaytennislabormovie |  
+| bip_39_word_no_space_9 | searchagentolympicfogtodaytennislabormovieyellow |  
 | bip_39_word_space_0 | ['search', 'agent', 'olympic', 'fog', 'today', 'tennis', 'labor', 'movie', 'yellow', 'noble', 'heavy', 'absent'] |  
 | bip_39_word_space_1 | search |  
 | bip_39_word_space_10 | search agent olympic fog today tennis labor movie yellow noble |  

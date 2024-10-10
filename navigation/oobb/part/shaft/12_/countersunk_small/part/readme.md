@@ -122,6 +122,18 @@ film
 remember
 brain
 muscle |  
+| bip_39_word_no_space_1 | orbit |  
+| bip_39_word_no_space_10 | orbiteffortpetgreendustfilmrememberbrainmuscleiron |  
+| bip_39_word_no_space_11 | orbiteffortpetgreendustfilmrememberbrainmuscleirondegree |  
+| bip_39_word_no_space_12 | orbiteffortpetgreendustfilmrememberbrainmuscleirondegreeassault |  
+| bip_39_word_no_space_2 | orbiteffort |  
+| bip_39_word_no_space_3 | orbiteffortpet |  
+| bip_39_word_no_space_4 | orbiteffortpetgreen |  
+| bip_39_word_no_space_5 | orbiteffortpetgreendust |  
+| bip_39_word_no_space_6 | orbiteffortpetgreendustfilm |  
+| bip_39_word_no_space_7 | orbiteffortpetgreendustfilmremember |  
+| bip_39_word_no_space_8 | orbiteffortpetgreendustfilmrememberbrain |  
+| bip_39_word_no_space_9 | orbiteffortpetgreendustfilmrememberbrainmuscle |  
 | bip_39_word_space_0 | ['orbit', 'effort', 'pet', 'green', 'dust', 'film', 'remember', 'brain', 'muscle', 'iron', 'degree', 'assault'] |  
 | bip_39_word_space_1 | orbit |  
 | bip_39_word_space_10 | orbit effort pet green dust film remember brain muscle iron |  

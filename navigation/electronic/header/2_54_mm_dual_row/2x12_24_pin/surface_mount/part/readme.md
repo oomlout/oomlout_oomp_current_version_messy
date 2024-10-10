@@ -122,6 +122,18 @@ sponsor
 second
 plastic
 cruel |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilfringejoinagreetrainsponsorsecondplasticcruelcover |  
+| bip_39_word_no_space_11 | aprilfringejoinagreetrainsponsorsecondplasticcruelcoveruntil |  
+| bip_39_word_no_space_12 | aprilfringejoinagreetrainsponsorsecondplasticcruelcoveruntilalways |  
+| bip_39_word_no_space_2 | aprilfringe |  
+| bip_39_word_no_space_3 | aprilfringejoin |  
+| bip_39_word_no_space_4 | aprilfringejoinagree |  
+| bip_39_word_no_space_5 | aprilfringejoinagreetrain |  
+| bip_39_word_no_space_6 | aprilfringejoinagreetrainsponsor |  
+| bip_39_word_no_space_7 | aprilfringejoinagreetrainsponsorsecond |  
+| bip_39_word_no_space_8 | aprilfringejoinagreetrainsponsorsecondplastic |  
+| bip_39_word_no_space_9 | aprilfringejoinagreetrainsponsorsecondplasticcruel |  
 | bip_39_word_space_0 | ['april', 'fringe', 'join', 'agree', 'train', 'sponsor', 'second', 'plastic', 'cruel', 'cover', 'until', 'always'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april fringe join agree train sponsor second plastic cruel cover |  

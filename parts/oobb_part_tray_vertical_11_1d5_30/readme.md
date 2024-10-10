@@ -122,6 +122,18 @@ sustain
 wagon
 decorate
 word |  
+| bip_39_word_no_space_1 | smart |  
+| bip_39_word_no_space_10 | smartcostjokespikestemsustainwagondecoratewordrandom |  
+| bip_39_word_no_space_11 | smartcostjokespikestemsustainwagondecoratewordrandomcause |  
+| bip_39_word_no_space_12 | smartcostjokespikestemsustainwagondecoratewordrandomcauseauthor |  
+| bip_39_word_no_space_2 | smartcost |  
+| bip_39_word_no_space_3 | smartcostjoke |  
+| bip_39_word_no_space_4 | smartcostjokespike |  
+| bip_39_word_no_space_5 | smartcostjokespikestem |  
+| bip_39_word_no_space_6 | smartcostjokespikestemsustain |  
+| bip_39_word_no_space_7 | smartcostjokespikestemsustainwagon |  
+| bip_39_word_no_space_8 | smartcostjokespikestemsustainwagondecorate |  
+| bip_39_word_no_space_9 | smartcostjokespikestemsustainwagondecorateword |  
 | bip_39_word_space_0 | ['smart', 'cost', 'joke', 'spike', 'stem', 'sustain', 'wagon', 'decorate', 'word', 'random', 'cause', 'author'] |  
 | bip_39_word_space_1 | smart |  
 | bip_39_word_space_10 | smart cost joke spike stem sustain wagon decorate word random |  

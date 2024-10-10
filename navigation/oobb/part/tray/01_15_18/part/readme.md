@@ -122,6 +122,18 @@ vendor
 dumb
 seek
 upon |  
+| bip_39_word_no_space_1 | obtain |  
+| bip_39_word_no_space_10 | obtainfoiljeweltrypredictvendordumbseekuponcycle |  
+| bip_39_word_no_space_11 | obtainfoiljeweltrypredictvendordumbseekuponcycleaudit |  
+| bip_39_word_no_space_12 | obtainfoiljeweltrypredictvendordumbseekuponcycleauditanswer |  
+| bip_39_word_no_space_2 | obtainfoil |  
+| bip_39_word_no_space_3 | obtainfoiljewel |  
+| bip_39_word_no_space_4 | obtainfoiljeweltry |  
+| bip_39_word_no_space_5 | obtainfoiljeweltrypredict |  
+| bip_39_word_no_space_6 | obtainfoiljeweltrypredictvendor |  
+| bip_39_word_no_space_7 | obtainfoiljeweltrypredictvendordumb |  
+| bip_39_word_no_space_8 | obtainfoiljeweltrypredictvendordumbseek |  
+| bip_39_word_no_space_9 | obtainfoiljeweltrypredictvendordumbseekupon |  
 | bip_39_word_space_0 | ['obtain', 'foil', 'jewel', 'try', 'predict', 'vendor', 'dumb', 'seek', 'upon', 'cycle', 'audit', 'answer'] |  
 | bip_39_word_space_1 | obtain |  
 | bip_39_word_space_10 | obtain foil jewel try predict vendor dumb seek upon cycle |  

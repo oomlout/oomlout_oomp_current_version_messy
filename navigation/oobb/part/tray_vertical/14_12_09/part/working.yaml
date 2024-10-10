@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'light
   rail
 
   host'
+bip_39_word_no_space_1: light
+bip_39_word_no_space_10: lightenableemptycopyspreadclublawsuitrailhostmain
+bip_39_word_no_space_11: lightenableemptycopyspreadclublawsuitrailhostmainmixed
+bip_39_word_no_space_12: lightenableemptycopyspreadclublawsuitrailhostmainmixedantenna
+bip_39_word_no_space_2: lightenable
+bip_39_word_no_space_3: lightenableempty
+bip_39_word_no_space_4: lightenableemptycopy
+bip_39_word_no_space_5: lightenableemptycopyspread
+bip_39_word_no_space_6: lightenableemptycopyspreadclub
+bip_39_word_no_space_7: lightenableemptycopyspreadclublawsuit
+bip_39_word_no_space_8: lightenableemptycopyspreadclublawsuitrail
+bip_39_word_no_space_9: lightenableemptycopyspreadclublawsuitrailhost
 bip_39_word_space_0:
 - light
 - enable

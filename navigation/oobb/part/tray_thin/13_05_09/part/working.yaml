@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'canoe
   warrior
 
   salmon'
+bip_39_word_no_space_1: canoe
+bip_39_word_no_space_10: canoegasphoststeakexitfunkitewarriorsalmonstrike
+bip_39_word_no_space_11: canoegasphoststeakexitfunkitewarriorsalmonstrikevanish
+bip_39_word_no_space_12: canoegasphoststeakexitfunkitewarriorsalmonstrikevanishart
+bip_39_word_no_space_2: canoegasp
+bip_39_word_no_space_3: canoegasphost
+bip_39_word_no_space_4: canoegasphoststeak
+bip_39_word_no_space_5: canoegasphoststeakexit
+bip_39_word_no_space_6: canoegasphoststeakexitfun
+bip_39_word_no_space_7: canoegasphoststeakexitfunkite
+bip_39_word_no_space_8: canoegasphoststeakexitfunkitewarrior
+bip_39_word_no_space_9: canoegasphoststeakexitfunkitewarriorsalmon
 bip_39_word_space_0:
 - canoe
 - gasp

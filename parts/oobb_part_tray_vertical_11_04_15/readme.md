@@ -122,6 +122,18 @@ rapid
 curtain
 melt
 tooth |  
+| bip_39_word_no_space_1 | great |  
+| bip_39_word_no_space_10 | greatthingexactsodamouserapidcurtainmelttoothurge |  
+| bip_39_word_no_space_11 | greatthingexactsodamouserapidcurtainmelttoothurgeabout |  
+| bip_39_word_no_space_12 | greatthingexactsodamouserapidcurtainmelttoothurgeaboutactress |  
+| bip_39_word_no_space_2 | greatthing |  
+| bip_39_word_no_space_3 | greatthingexact |  
+| bip_39_word_no_space_4 | greatthingexactsoda |  
+| bip_39_word_no_space_5 | greatthingexactsodamouse |  
+| bip_39_word_no_space_6 | greatthingexactsodamouserapid |  
+| bip_39_word_no_space_7 | greatthingexactsodamouserapidcurtain |  
+| bip_39_word_no_space_8 | greatthingexactsodamouserapidcurtainmelt |  
+| bip_39_word_no_space_9 | greatthingexactsodamouserapidcurtainmelttooth |  
 | bip_39_word_space_0 | ['great', 'thing', 'exact', 'soda', 'mouse', 'rapid', 'curtain', 'melt', 'tooth', 'urge', 'about', 'actress'] |  
 | bip_39_word_space_1 | great |  
 | bip_39_word_space_10 | great thing exact soda mouse rapid curtain melt tooth urge |  

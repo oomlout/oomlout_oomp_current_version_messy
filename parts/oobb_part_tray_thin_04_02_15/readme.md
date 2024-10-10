@@ -122,6 +122,18 @@ this
 exotic
 surge
 curious |  
+| bip_39_word_no_space_1 | spy |  
+| bip_39_word_no_space_10 | spydignityaerobiccallcannonthisexoticsurgecuriousthought |  
+| bip_39_word_no_space_11 | spydignityaerobiccallcannonthisexoticsurgecuriousthoughtgarment |  
+| bip_39_word_no_space_12 | spydignityaerobiccallcannonthisexoticsurgecuriousthoughtgarmentadmit |  
+| bip_39_word_no_space_2 | spydignity |  
+| bip_39_word_no_space_3 | spydignityaerobic |  
+| bip_39_word_no_space_4 | spydignityaerobiccall |  
+| bip_39_word_no_space_5 | spydignityaerobiccallcannon |  
+| bip_39_word_no_space_6 | spydignityaerobiccallcannonthis |  
+| bip_39_word_no_space_7 | spydignityaerobiccallcannonthisexotic |  
+| bip_39_word_no_space_8 | spydignityaerobiccallcannonthisexoticsurge |  
+| bip_39_word_no_space_9 | spydignityaerobiccallcannonthisexoticsurgecurious |  
 | bip_39_word_space_0 | ['spy', 'dignity', 'aerobic', 'call', 'cannon', 'this', 'exotic', 'surge', 'curious', 'thought', 'garment', 'admit'] |  
 | bip_39_word_space_1 | spy |  
 | bip_39_word_space_10 | spy dignity aerobic call cannon this exotic surge curious thought |  

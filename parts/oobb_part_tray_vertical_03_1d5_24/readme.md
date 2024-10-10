@@ -122,6 +122,18 @@ fork
 regret
 bulk
 jungle |  
+| bip_39_word_no_space_1 | aim |  
+| bip_39_word_no_space_10 | aimvelvetrookiecertainplateforkregretbulkjungleability |  
+| bip_39_word_no_space_11 | aimvelvetrookiecertainplateforkregretbulkjungleabilityrobust |  
+| bip_39_word_no_space_12 | aimvelvetrookiecertainplateforkregretbulkjungleabilityrobustage |  
+| bip_39_word_no_space_2 | aimvelvet |  
+| bip_39_word_no_space_3 | aimvelvetrookie |  
+| bip_39_word_no_space_4 | aimvelvetrookiecertain |  
+| bip_39_word_no_space_5 | aimvelvetrookiecertainplate |  
+| bip_39_word_no_space_6 | aimvelvetrookiecertainplatefork |  
+| bip_39_word_no_space_7 | aimvelvetrookiecertainplateforkregret |  
+| bip_39_word_no_space_8 | aimvelvetrookiecertainplateforkregretbulk |  
+| bip_39_word_no_space_9 | aimvelvetrookiecertainplateforkregretbulkjungle |  
 | bip_39_word_space_0 | ['aim', 'velvet', 'rookie', 'certain', 'plate', 'fork', 'regret', 'bulk', 'jungle', 'ability', 'robust', 'age'] |  
 | bip_39_word_space_1 | aim |  
 | bip_39_word_space_10 | aim velvet rookie certain plate fork regret bulk jungle ability |  

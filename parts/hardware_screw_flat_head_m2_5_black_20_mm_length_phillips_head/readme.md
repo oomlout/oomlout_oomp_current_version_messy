@@ -122,6 +122,18 @@ hard
 occur
 task
 yard |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betrayunfairworrypresentglimpsehardoccurtaskyardengine |  
+| bip_39_word_no_space_11 | betrayunfairworrypresentglimpsehardoccurtaskyardengineduck |  
+| bip_39_word_no_space_12 | betrayunfairworrypresentglimpsehardoccurtaskyardengineduckair |  
+| bip_39_word_no_space_2 | betrayunfair |  
+| bip_39_word_no_space_3 | betrayunfairworry |  
+| bip_39_word_no_space_4 | betrayunfairworrypresent |  
+| bip_39_word_no_space_5 | betrayunfairworrypresentglimpse |  
+| bip_39_word_no_space_6 | betrayunfairworrypresentglimpsehard |  
+| bip_39_word_no_space_7 | betrayunfairworrypresentglimpsehardoccur |  
+| bip_39_word_no_space_8 | betrayunfairworrypresentglimpsehardoccurtask |  
+| bip_39_word_no_space_9 | betrayunfairworrypresentglimpsehardoccurtaskyard |  
 | bip_39_word_space_0 | ['betray', 'unfair', 'worry', 'present', 'glimpse', 'hard', 'occur', 'task', 'yard', 'engine', 'duck', 'air'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray unfair worry present glimpse hard occur task yard engine |  

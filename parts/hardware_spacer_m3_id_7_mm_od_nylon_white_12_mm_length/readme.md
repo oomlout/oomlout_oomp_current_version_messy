@@ -122,6 +122,18 @@ that
 physical
 fat
 morning |  
+| bip_39_word_no_space_1 | purchase |  
+| bip_39_word_no_space_10 | purchaseolympictentfitnessdicethatphysicalfatmorningtrap |  
+| bip_39_word_no_space_11 | purchaseolympictentfitnessdicethatphysicalfatmorningtrapbar |  
+| bip_39_word_no_space_12 | purchaseolympictentfitnessdicethatphysicalfatmorningtrapbarartefact |  
+| bip_39_word_no_space_2 | purchaseolympic |  
+| bip_39_word_no_space_3 | purchaseolympictent |  
+| bip_39_word_no_space_4 | purchaseolympictentfitness |  
+| bip_39_word_no_space_5 | purchaseolympictentfitnessdice |  
+| bip_39_word_no_space_6 | purchaseolympictentfitnessdicethat |  
+| bip_39_word_no_space_7 | purchaseolympictentfitnessdicethatphysical |  
+| bip_39_word_no_space_8 | purchaseolympictentfitnessdicethatphysicalfat |  
+| bip_39_word_no_space_9 | purchaseolympictentfitnessdicethatphysicalfatmorning |  
 | bip_39_word_space_0 | ['purchase', 'olympic', 'tent', 'fitness', 'dice', 'that', 'physical', 'fat', 'morning', 'trap', 'bar', 'artefact'] |  
 | bip_39_word_space_1 | purchase |  
 | bip_39_word_space_10 | purchase olympic tent fitness dice that physical fat morning trap |  

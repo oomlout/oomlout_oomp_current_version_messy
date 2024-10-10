@@ -122,6 +122,18 @@ coach
 silk
 myself
 clay |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thatpavediamondbudgetaddcoachsilkmyselfclaymammal |  
+| bip_39_word_no_space_11 | thatpavediamondbudgetaddcoachsilkmyselfclaymammalactual |  
+| bip_39_word_no_space_12 | thatpavediamondbudgetaddcoachsilkmyselfclaymammalactualalso |  
+| bip_39_word_no_space_2 | thatpave |  
+| bip_39_word_no_space_3 | thatpavediamond |  
+| bip_39_word_no_space_4 | thatpavediamondbudget |  
+| bip_39_word_no_space_5 | thatpavediamondbudgetadd |  
+| bip_39_word_no_space_6 | thatpavediamondbudgetaddcoach |  
+| bip_39_word_no_space_7 | thatpavediamondbudgetaddcoachsilk |  
+| bip_39_word_no_space_8 | thatpavediamondbudgetaddcoachsilkmyself |  
+| bip_39_word_no_space_9 | thatpavediamondbudgetaddcoachsilkmyselfclay |  
 | bip_39_word_space_0 | ['that', 'pave', 'diamond', 'budget', 'add', 'coach', 'silk', 'myself', 'clay', 'mammal', 'actual', 'also'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that pave diamond budget add coach silk myself clay mammal |  

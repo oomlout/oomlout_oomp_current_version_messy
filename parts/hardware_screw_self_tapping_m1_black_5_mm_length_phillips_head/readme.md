@@ -122,6 +122,18 @@ coffee
 fan
 crime
 service |  
+| bip_39_word_no_space_1 | lumber |  
+| bip_39_word_no_space_10 | lumberthreelecturemajordamagecoffeefancrimeservicecorn |  
+| bip_39_word_no_space_11 | lumberthreelecturemajordamagecoffeefancrimeservicecornrobot |  
+| bip_39_word_no_space_12 | lumberthreelecturemajordamagecoffeefancrimeservicecornrobotamused |  
+| bip_39_word_no_space_2 | lumberthree |  
+| bip_39_word_no_space_3 | lumberthreelecture |  
+| bip_39_word_no_space_4 | lumberthreelecturemajor |  
+| bip_39_word_no_space_5 | lumberthreelecturemajordamage |  
+| bip_39_word_no_space_6 | lumberthreelecturemajordamagecoffee |  
+| bip_39_word_no_space_7 | lumberthreelecturemajordamagecoffeefan |  
+| bip_39_word_no_space_8 | lumberthreelecturemajordamagecoffeefancrime |  
+| bip_39_word_no_space_9 | lumberthreelecturemajordamagecoffeefancrimeservice |  
 | bip_39_word_space_0 | ['lumber', 'three', 'lecture', 'major', 'damage', 'coffee', 'fan', 'crime', 'service', 'corn', 'robot', 'amused'] |  
 | bip_39_word_space_1 | lumber |  
 | bip_39_word_space_10 | lumber three lecture major damage coffee fan crime service corn |  

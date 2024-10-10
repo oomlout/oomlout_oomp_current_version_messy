@@ -122,6 +122,18 @@ farm
 regret
 luxury
 buzz |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectslideinchrigidbroomfarmregretluxurybuzznorth |  
+| bip_39_word_no_space_11 | perfectslideinchrigidbroomfarmregretluxurybuzznorthmuscle |  
+| bip_39_word_no_space_12 | perfectslideinchrigidbroomfarmregretluxurybuzznorthmuscleaisle |  
+| bip_39_word_no_space_2 | perfectslide |  
+| bip_39_word_no_space_3 | perfectslideinch |  
+| bip_39_word_no_space_4 | perfectslideinchrigid |  
+| bip_39_word_no_space_5 | perfectslideinchrigidbroom |  
+| bip_39_word_no_space_6 | perfectslideinchrigidbroomfarm |  
+| bip_39_word_no_space_7 | perfectslideinchrigidbroomfarmregret |  
+| bip_39_word_no_space_8 | perfectslideinchrigidbroomfarmregretluxury |  
+| bip_39_word_no_space_9 | perfectslideinchrigidbroomfarmregretluxurybuzz |  
 | bip_39_word_space_0 | ['perfect', 'slide', 'inch', 'rigid', 'broom', 'farm', 'regret', 'luxury', 'buzz', 'north', 'muscle', 'aisle'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect slide inch rigid broom farm regret luxury buzz north |  

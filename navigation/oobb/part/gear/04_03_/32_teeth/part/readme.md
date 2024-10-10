@@ -122,6 +122,18 @@ tone
 teach
 twist
 seek |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circlepurposeshykangarooromancetoneteachtwistseekobtain |  
+| bip_39_word_no_space_11 | circlepurposeshykangarooromancetoneteachtwistseekobtainmother |  
+| bip_39_word_no_space_12 | circlepurposeshykangarooromancetoneteachtwistseekobtainmotheradjust |  
+| bip_39_word_no_space_2 | circlepurpose |  
+| bip_39_word_no_space_3 | circlepurposeshy |  
+| bip_39_word_no_space_4 | circlepurposeshykangaroo |  
+| bip_39_word_no_space_5 | circlepurposeshykangarooromance |  
+| bip_39_word_no_space_6 | circlepurposeshykangarooromancetone |  
+| bip_39_word_no_space_7 | circlepurposeshykangarooromancetoneteach |  
+| bip_39_word_no_space_8 | circlepurposeshykangarooromancetoneteachtwist |  
+| bip_39_word_no_space_9 | circlepurposeshykangarooromancetoneteachtwistseek |  
 | bip_39_word_space_0 | ['circle', 'purpose', 'shy', 'kangaroo', 'romance', 'tone', 'teach', 'twist', 'seek', 'obtain', 'mother', 'adjust'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle purpose shy kangaroo romance tone teach twist seek obtain |  

@@ -122,6 +122,18 @@ honey
 advice
 vote
 army |  
+| bip_39_word_no_space_1 | organ |  
+| bip_39_word_no_space_10 | organsanddryloanlazyhoneyadvicevotearmyrally |  
+| bip_39_word_no_space_11 | organsanddryloanlazyhoneyadvicevotearmyrallyopinion |  
+| bip_39_word_no_space_12 | organsanddryloanlazyhoneyadvicevotearmyrallyopinionalley |  
+| bip_39_word_no_space_2 | organsand |  
+| bip_39_word_no_space_3 | organsanddry |  
+| bip_39_word_no_space_4 | organsanddryloan |  
+| bip_39_word_no_space_5 | organsanddryloanlazy |  
+| bip_39_word_no_space_6 | organsanddryloanlazyhoney |  
+| bip_39_word_no_space_7 | organsanddryloanlazyhoneyadvice |  
+| bip_39_word_no_space_8 | organsanddryloanlazyhoneyadvicevote |  
+| bip_39_word_no_space_9 | organsanddryloanlazyhoneyadvicevotearmy |  
 | bip_39_word_space_0 | ['organ', 'sand', 'dry', 'loan', 'lazy', 'honey', 'advice', 'vote', 'army', 'rally', 'opinion', 'alley'] |  
 | bip_39_word_space_1 | organ |  
 | bip_39_word_space_10 | organ sand dry loan lazy honey advice vote army rally |  

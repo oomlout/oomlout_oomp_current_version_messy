@@ -122,6 +122,18 @@ faculty
 case
 stick
 suffer |  
+| bip_39_word_no_space_1 | among |  
+| bip_39_word_no_space_10 | amongswiftfrozengluelegendfacultycasesticksuffercountry |  
+| bip_39_word_no_space_11 | amongswiftfrozengluelegendfacultycasesticksuffercountryborder |  
+| bip_39_word_no_space_12 | amongswiftfrozengluelegendfacultycasesticksuffercountryborderapple |  
+| bip_39_word_no_space_2 | amongswift |  
+| bip_39_word_no_space_3 | amongswiftfrozen |  
+| bip_39_word_no_space_4 | amongswiftfrozenglue |  
+| bip_39_word_no_space_5 | amongswiftfrozengluelegend |  
+| bip_39_word_no_space_6 | amongswiftfrozengluelegendfaculty |  
+| bip_39_word_no_space_7 | amongswiftfrozengluelegendfacultycase |  
+| bip_39_word_no_space_8 | amongswiftfrozengluelegendfacultycasestick |  
+| bip_39_word_no_space_9 | amongswiftfrozengluelegendfacultycasesticksuffer |  
 | bip_39_word_space_0 | ['among', 'swift', 'frozen', 'glue', 'legend', 'faculty', 'case', 'stick', 'suffer', 'country', 'border', 'apple'] |  
 | bip_39_word_space_1 | among |  
 | bip_39_word_space_10 | among swift frozen glue legend faculty case stick suffer country |  

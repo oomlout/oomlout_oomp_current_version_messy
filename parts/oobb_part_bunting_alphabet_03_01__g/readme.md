@@ -122,6 +122,18 @@ manage
 water
 version
 tattoo |  
+| bip_39_word_no_space_1 | supreme |  
+| bip_39_word_no_space_10 | supremematerialtestjudgespotmanagewaterversiontattooanother |  
+| bip_39_word_no_space_11 | supremematerialtestjudgespotmanagewaterversiontattooanothermistake |  
+| bip_39_word_no_space_12 | supremematerialtestjudgespotmanagewaterversiontattooanothermistakeaddress |  
+| bip_39_word_no_space_2 | supremematerial |  
+| bip_39_word_no_space_3 | supremematerialtest |  
+| bip_39_word_no_space_4 | supremematerialtestjudge |  
+| bip_39_word_no_space_5 | supremematerialtestjudgespot |  
+| bip_39_word_no_space_6 | supremematerialtestjudgespotmanage |  
+| bip_39_word_no_space_7 | supremematerialtestjudgespotmanagewater |  
+| bip_39_word_no_space_8 | supremematerialtestjudgespotmanagewaterversion |  
+| bip_39_word_no_space_9 | supremematerialtestjudgespotmanagewaterversiontattoo |  
 | bip_39_word_space_0 | ['supreme', 'material', 'test', 'judge', 'spot', 'manage', 'water', 'version', 'tattoo', 'another', 'mistake', 'address'] |  
 | bip_39_word_space_1 | supreme |  
 | bip_39_word_space_10 | supreme material test judge spot manage water version tattoo another |  

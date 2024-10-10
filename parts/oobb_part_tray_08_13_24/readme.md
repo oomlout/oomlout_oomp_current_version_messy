@@ -122,6 +122,18 @@ deer
 window
 oyster
 ahead |  
+| bip_39_word_no_space_1 | seminar |  
+| bip_39_word_no_space_10 | seminarcamptortoisemechanicchampiondeerwindowoysteraheadcoyote |  
+| bip_39_word_no_space_11 | seminarcamptortoisemechanicchampiondeerwindowoysteraheadcoyoteglove |  
+| bip_39_word_no_space_12 | seminarcamptortoisemechanicchampiondeerwindowoysteraheadcoyotegloveabuse |  
+| bip_39_word_no_space_2 | seminarcamp |  
+| bip_39_word_no_space_3 | seminarcamptortoise |  
+| bip_39_word_no_space_4 | seminarcamptortoisemechanic |  
+| bip_39_word_no_space_5 | seminarcamptortoisemechanicchampion |  
+| bip_39_word_no_space_6 | seminarcamptortoisemechanicchampiondeer |  
+| bip_39_word_no_space_7 | seminarcamptortoisemechanicchampiondeerwindow |  
+| bip_39_word_no_space_8 | seminarcamptortoisemechanicchampiondeerwindowoyster |  
+| bip_39_word_no_space_9 | seminarcamptortoisemechanicchampiondeerwindowoysterahead |  
 | bip_39_word_space_0 | ['seminar', 'camp', 'tortoise', 'mechanic', 'champion', 'deer', 'window', 'oyster', 'ahead', 'coyote', 'glove', 'abuse'] |  
 | bip_39_word_space_1 | seminar |  
 | bip_39_word_space_10 | seminar camp tortoise mechanic champion deer window oyster ahead coyote |  

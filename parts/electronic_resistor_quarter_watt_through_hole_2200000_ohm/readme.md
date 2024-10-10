@@ -122,6 +122,18 @@ comfort
 reflect
 design
 boat |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glassodorskategovernboringcomfortreflectdesignboatcreek |  
+| bip_39_word_no_space_11 | glassodorskategovernboringcomfortreflectdesignboatcreekshift |  
+| bip_39_word_no_space_12 | glassodorskategovernboringcomfortreflectdesignboatcreekshiftagain |  
+| bip_39_word_no_space_2 | glassodor |  
+| bip_39_word_no_space_3 | glassodorskate |  
+| bip_39_word_no_space_4 | glassodorskategovern |  
+| bip_39_word_no_space_5 | glassodorskategovernboring |  
+| bip_39_word_no_space_6 | glassodorskategovernboringcomfort |  
+| bip_39_word_no_space_7 | glassodorskategovernboringcomfortreflect |  
+| bip_39_word_no_space_8 | glassodorskategovernboringcomfortreflectdesign |  
+| bip_39_word_no_space_9 | glassodorskategovernboringcomfortreflectdesignboat |  
 | bip_39_word_space_0 | ['glass', 'odor', 'skate', 'govern', 'boring', 'comfort', 'reflect', 'design', 'boat', 'creek', 'shift', 'again'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass odor skate govern boring comfort reflect design boat creek |  

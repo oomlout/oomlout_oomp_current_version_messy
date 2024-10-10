@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soup
   virus
 
   envelope'
+bip_39_word_no_space_1: soup
+bip_39_word_no_space_10: soupthumbtoeinitialacquirenothingaheadvirusenvelopedecorate
+bip_39_word_no_space_11: soupthumbtoeinitialacquirenothingaheadvirusenvelopedecoratewrist
+bip_39_word_no_space_12: soupthumbtoeinitialacquirenothingaheadvirusenvelopedecoratewristangle
+bip_39_word_no_space_2: soupthumb
+bip_39_word_no_space_3: soupthumbtoe
+bip_39_word_no_space_4: soupthumbtoeinitial
+bip_39_word_no_space_5: soupthumbtoeinitialacquire
+bip_39_word_no_space_6: soupthumbtoeinitialacquirenothing
+bip_39_word_no_space_7: soupthumbtoeinitialacquirenothingahead
+bip_39_word_no_space_8: soupthumbtoeinitialacquirenothingaheadvirus
+bip_39_word_no_space_9: soupthumbtoeinitialacquirenothingaheadvirusenvelope
 bip_39_word_space_0:
 - soup
 - thumb

@@ -122,6 +122,18 @@ excite
 salt
 order
 gorilla |  
+| bip_39_word_no_space_1 | adapt |  
+| bip_39_word_no_space_10 | adaptairwrongdismissmandateexcitesaltordergorillagrow |  
+| bip_39_word_no_space_11 | adaptairwrongdismissmandateexcitesaltordergorillagrowcart |  
+| bip_39_word_no_space_12 | adaptairwrongdismissmandateexcitesaltordergorillagrowcartalter |  
+| bip_39_word_no_space_2 | adaptair |  
+| bip_39_word_no_space_3 | adaptairwrong |  
+| bip_39_word_no_space_4 | adaptairwrongdismiss |  
+| bip_39_word_no_space_5 | adaptairwrongdismissmandate |  
+| bip_39_word_no_space_6 | adaptairwrongdismissmandateexcite |  
+| bip_39_word_no_space_7 | adaptairwrongdismissmandateexcitesalt |  
+| bip_39_word_no_space_8 | adaptairwrongdismissmandateexcitesaltorder |  
+| bip_39_word_no_space_9 | adaptairwrongdismissmandateexcitesaltordergorilla |  
 | bip_39_word_space_0 | ['adapt', 'air', 'wrong', 'dismiss', 'mandate', 'excite', 'salt', 'order', 'gorilla', 'grow', 'cart', 'alter'] |  
 | bip_39_word_space_1 | adapt |  
 | bip_39_word_space_10 | adapt air wrong dismiss mandate excite salt order gorilla grow |  

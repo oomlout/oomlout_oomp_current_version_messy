@@ -109,6 +109,17 @@ item
 throw
 scout
 banner |  
+| bip_39_word_no_space_1 | false |  
+| bip_39_word_no_space_10 | falsewisecattleoverindustryitemthrowscoutbannertrue |  
+| bip_39_word_no_space_11 | falsewisecattleoverindustryitemthrowscoutbannertruepurpose |  
+| bip_39_word_no_space_2 | falsewise |  
+| bip_39_word_no_space_3 | falsewisecattle |  
+| bip_39_word_no_space_4 | falsewisecattleover |  
+| bip_39_word_no_space_5 | falsewisecattleoverindustry |  
+| bip_39_word_no_space_6 | falsewisecattleoverindustryitem |  
+| bip_39_word_no_space_7 | falsewisecattleoverindustryitemthrow |  
+| bip_39_word_no_space_8 | falsewisecattleoverindustryitemthrowscout |  
+| bip_39_word_no_space_9 | falsewisecattleoverindustryitemthrowscoutbanner |  
 | bip_39_word_space_0 | ['false', 'wise', 'cattle', 'over', 'industry', 'item', 'throw', 'scout', 'banner', 'true', 'purpose'] |  
 | bip_39_word_space_1 | false |  
 | bip_39_word_space_10 | false wise cattle over industry item throw scout banner true |  

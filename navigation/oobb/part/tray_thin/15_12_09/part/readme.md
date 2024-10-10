@@ -122,6 +122,18 @@ party
 hammer
 buddy
 action |  
+| bip_39_word_no_space_1 | crater |  
+| bip_39_word_no_space_10 | cratereraaltercodefilmpartyhammerbuddyactioncash |  
+| bip_39_word_no_space_11 | cratereraaltercodefilmpartyhammerbuddyactioncashketchup |  
+| bip_39_word_no_space_12 | cratereraaltercodefilmpartyhammerbuddyactioncashketchupaugust |  
+| bip_39_word_no_space_2 | craterera |  
+| bip_39_word_no_space_3 | cratereraalter |  
+| bip_39_word_no_space_4 | cratereraaltercode |  
+| bip_39_word_no_space_5 | cratereraaltercodefilm |  
+| bip_39_word_no_space_6 | cratereraaltercodefilmparty |  
+| bip_39_word_no_space_7 | cratereraaltercodefilmpartyhammer |  
+| bip_39_word_no_space_8 | cratereraaltercodefilmpartyhammerbuddy |  
+| bip_39_word_no_space_9 | cratereraaltercodefilmpartyhammerbuddyaction |  
 | bip_39_word_space_0 | ['crater', 'era', 'alter', 'code', 'film', 'party', 'hammer', 'buddy', 'action', 'cash', 'ketchup', 'august'] |  
 | bip_39_word_space_1 | crater |  
 | bip_39_word_space_10 | crater era alter code film party hammer buddy action cash |  

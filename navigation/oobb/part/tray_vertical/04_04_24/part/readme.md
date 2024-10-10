@@ -122,6 +122,18 @@ present
 domain
 round
 lens |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worrypledgetrapcatchwantpresentdomainroundlenstooth |  
+| bip_39_word_no_space_11 | worrypledgetrapcatchwantpresentdomainroundlenstoothrelief |  
+| bip_39_word_no_space_12 | worrypledgetrapcatchwantpresentdomainroundlenstoothreliefagain |  
+| bip_39_word_no_space_2 | worrypledge |  
+| bip_39_word_no_space_3 | worrypledgetrap |  
+| bip_39_word_no_space_4 | worrypledgetrapcatch |  
+| bip_39_word_no_space_5 | worrypledgetrapcatchwant |  
+| bip_39_word_no_space_6 | worrypledgetrapcatchwantpresent |  
+| bip_39_word_no_space_7 | worrypledgetrapcatchwantpresentdomain |  
+| bip_39_word_no_space_8 | worrypledgetrapcatchwantpresentdomainround |  
+| bip_39_word_no_space_9 | worrypledgetrapcatchwantpresentdomainroundlens |  
 | bip_39_word_space_0 | ['worry', 'pledge', 'trap', 'catch', 'want', 'present', 'domain', 'round', 'lens', 'tooth', 'relief', 'again'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry pledge trap catch want present domain round lens tooth |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'salt
   divide
 
   kiwi'
+bip_39_word_no_space_1: salt
+bip_39_word_no_space_10: saltsecondupsettermjarforestbarelydividekiwiparrot
+bip_39_word_no_space_11: saltsecondupsettermjarforestbarelydividekiwiparrotlucky
+bip_39_word_no_space_12: saltsecondupsettermjarforestbarelydividekiwiparrotluckyarrow
+bip_39_word_no_space_2: saltsecond
+bip_39_word_no_space_3: saltsecondupset
+bip_39_word_no_space_4: saltsecondupsetterm
+bip_39_word_no_space_5: saltsecondupsettermjar
+bip_39_word_no_space_6: saltsecondupsettermjarforest
+bip_39_word_no_space_7: saltsecondupsettermjarforestbarely
+bip_39_word_no_space_8: saltsecondupsettermjarforestbarelydivide
+bip_39_word_no_space_9: saltsecondupsettermjarforestbarelydividekiwi
 bip_39_word_space_0:
 - salt
 - second

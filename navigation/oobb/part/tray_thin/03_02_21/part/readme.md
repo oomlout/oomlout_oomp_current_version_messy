@@ -122,6 +122,18 @@ lava
 mad
 stay
 tragic |  
+| bip_39_word_no_space_1 | beach |  
+| bip_39_word_no_space_10 | beachhentrickvesselcactuslavamadstaytragicclutch |  
+| bip_39_word_no_space_11 | beachhentrickvesselcactuslavamadstaytragicclutchhamster |  
+| bip_39_word_no_space_12 | beachhentrickvesselcactuslavamadstaytragicclutchhamsterany |  
+| bip_39_word_no_space_2 | beachhen |  
+| bip_39_word_no_space_3 | beachhentrick |  
+| bip_39_word_no_space_4 | beachhentrickvessel |  
+| bip_39_word_no_space_5 | beachhentrickvesselcactus |  
+| bip_39_word_no_space_6 | beachhentrickvesselcactuslava |  
+| bip_39_word_no_space_7 | beachhentrickvesselcactuslavamad |  
+| bip_39_word_no_space_8 | beachhentrickvesselcactuslavamadstay |  
+| bip_39_word_no_space_9 | beachhentrickvesselcactuslavamadstaytragic |  
 | bip_39_word_space_0 | ['beach', 'hen', 'trick', 'vessel', 'cactus', 'lava', 'mad', 'stay', 'tragic', 'clutch', 'hamster', 'any'] |  
 | bip_39_word_space_1 | beach |  
 | bip_39_word_space_10 | beach hen trick vessel cactus lava mad stay tragic clutch |  

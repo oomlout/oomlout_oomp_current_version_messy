@@ -122,6 +122,18 @@ gift
 moral
 often
 vault |  
+| bip_39_word_no_space_1 | outdoor |  
+| bip_39_word_no_space_10 | outdoorraccoonexcludebridgehamstergiftmoraloftenvaultthat |  
+| bip_39_word_no_space_11 | outdoorraccoonexcludebridgehamstergiftmoraloftenvaultthatcat |  
+| bip_39_word_no_space_12 | outdoorraccoonexcludebridgehamstergiftmoraloftenvaultthatcatancient |  
+| bip_39_word_no_space_2 | outdoorraccoon |  
+| bip_39_word_no_space_3 | outdoorraccoonexclude |  
+| bip_39_word_no_space_4 | outdoorraccoonexcludebridge |  
+| bip_39_word_no_space_5 | outdoorraccoonexcludebridgehamster |  
+| bip_39_word_no_space_6 | outdoorraccoonexcludebridgehamstergift |  
+| bip_39_word_no_space_7 | outdoorraccoonexcludebridgehamstergiftmoral |  
+| bip_39_word_no_space_8 | outdoorraccoonexcludebridgehamstergiftmoraloften |  
+| bip_39_word_no_space_9 | outdoorraccoonexcludebridgehamstergiftmoraloftenvault |  
 | bip_39_word_space_0 | ['outdoor', 'raccoon', 'exclude', 'bridge', 'hamster', 'gift', 'moral', 'often', 'vault', 'that', 'cat', 'ancient'] |  
 | bip_39_word_space_1 | outdoor |  
 | bip_39_word_space_10 | outdoor raccoon exclude bridge hamster gift moral often vault that |  

@@ -122,6 +122,18 @@ sick
 ranch
 siege
 arrive |  
+| bip_39_word_no_space_1 | boy |  
+| bip_39_word_no_space_10 | boyspellmosquitostrongprovidesickranchsiegearrivegarbage |  
+| bip_39_word_no_space_11 | boyspellmosquitostrongprovidesickranchsiegearrivegarbagepledge |  
+| bip_39_word_no_space_12 | boyspellmosquitostrongprovidesickranchsiegearrivegarbagepledgeankle |  
+| bip_39_word_no_space_2 | boyspell |  
+| bip_39_word_no_space_3 | boyspellmosquito |  
+| bip_39_word_no_space_4 | boyspellmosquitostrong |  
+| bip_39_word_no_space_5 | boyspellmosquitostrongprovide |  
+| bip_39_word_no_space_6 | boyspellmosquitostrongprovidesick |  
+| bip_39_word_no_space_7 | boyspellmosquitostrongprovidesickranch |  
+| bip_39_word_no_space_8 | boyspellmosquitostrongprovidesickranchsiege |  
+| bip_39_word_no_space_9 | boyspellmosquitostrongprovidesickranchsiegearrive |  
 | bip_39_word_space_0 | ['boy', 'spell', 'mosquito', 'strong', 'provide', 'sick', 'ranch', 'siege', 'arrive', 'garbage', 'pledge', 'ankle'] |  
 | bip_39_word_space_1 | boy |  
 | bip_39_word_space_10 | boy spell mosquito strong provide sick ranch siege arrive garbage |  

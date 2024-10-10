@@ -122,6 +122,18 @@ alarm
 make
 guitar
 typical |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenventurebarrelozonenorthalarmmakeguitartypicaltest |  
+| bip_39_word_no_space_11 | oftenventurebarrelozonenorthalarmmakeguitartypicaltestcertain |  
+| bip_39_word_no_space_12 | oftenventurebarrelozonenorthalarmmakeguitartypicaltestcertainafford |  
+| bip_39_word_no_space_2 | oftenventure |  
+| bip_39_word_no_space_3 | oftenventurebarrel |  
+| bip_39_word_no_space_4 | oftenventurebarrelozone |  
+| bip_39_word_no_space_5 | oftenventurebarrelozonenorth |  
+| bip_39_word_no_space_6 | oftenventurebarrelozonenorthalarm |  
+| bip_39_word_no_space_7 | oftenventurebarrelozonenorthalarmmake |  
+| bip_39_word_no_space_8 | oftenventurebarrelozonenorthalarmmakeguitar |  
+| bip_39_word_no_space_9 | oftenventurebarrelozonenorthalarmmakeguitartypical |  
 | bip_39_word_space_0 | ['often', 'venture', 'barrel', 'ozone', 'north', 'alarm', 'make', 'guitar', 'typical', 'test', 'certain', 'afford'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often venture barrel ozone north alarm make guitar typical test |  

@@ -122,6 +122,18 @@ all
 exercise
 ozone
 layer |  
+| bip_39_word_no_space_1 | grocery |  
+| bip_39_word_no_space_10 | grocerysiblingannouncehamstermimicallexerciseozonelayerchat |  
+| bip_39_word_no_space_11 | grocerysiblingannouncehamstermimicallexerciseozonelayerchatnotable |  
+| bip_39_word_no_space_12 | grocerysiblingannouncehamstermimicallexerciseozonelayerchatnotableankle |  
+| bip_39_word_no_space_2 | grocerysibling |  
+| bip_39_word_no_space_3 | grocerysiblingannounce |  
+| bip_39_word_no_space_4 | grocerysiblingannouncehamster |  
+| bip_39_word_no_space_5 | grocerysiblingannouncehamstermimic |  
+| bip_39_word_no_space_6 | grocerysiblingannouncehamstermimicall |  
+| bip_39_word_no_space_7 | grocerysiblingannouncehamstermimicallexercise |  
+| bip_39_word_no_space_8 | grocerysiblingannouncehamstermimicallexerciseozone |  
+| bip_39_word_no_space_9 | grocerysiblingannouncehamstermimicallexerciseozonelayer |  
 | bip_39_word_space_0 | ['grocery', 'sibling', 'announce', 'hamster', 'mimic', 'all', 'exercise', 'ozone', 'layer', 'chat', 'notable', 'ankle'] |  
 | bip_39_word_space_1 | grocery |  
 | bip_39_word_space_10 | grocery sibling announce hamster mimic all exercise ozone layer chat |  

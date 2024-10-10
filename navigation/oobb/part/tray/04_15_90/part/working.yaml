@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sick
   buyer
 
   action'
+bip_39_word_no_space_1: sick
+bip_39_word_no_space_10: sickdefensedaringwebaccessreopendicebuyeractionimpulse
+bip_39_word_no_space_11: sickdefensedaringwebaccessreopendicebuyeractionimpulsestory
+bip_39_word_no_space_12: sickdefensedaringwebaccessreopendicebuyeractionimpulsestoryalone
+bip_39_word_no_space_2: sickdefense
+bip_39_word_no_space_3: sickdefensedaring
+bip_39_word_no_space_4: sickdefensedaringweb
+bip_39_word_no_space_5: sickdefensedaringwebaccess
+bip_39_word_no_space_6: sickdefensedaringwebaccessreopen
+bip_39_word_no_space_7: sickdefensedaringwebaccessreopendice
+bip_39_word_no_space_8: sickdefensedaringwebaccessreopendicebuyer
+bip_39_word_no_space_9: sickdefensedaringwebaccessreopendicebuyeraction
 bip_39_word_space_0:
 - sick
 - defense

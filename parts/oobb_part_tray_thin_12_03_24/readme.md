@@ -122,6 +122,18 @@ toe
 lawsuit
 where
 present |  
+| bip_39_word_no_space_1 | resource |  
+| bip_39_word_no_space_10 | resourceturnmentionvocalridgetoelawsuitwherepresentmoment |  
+| bip_39_word_no_space_11 | resourceturnmentionvocalridgetoelawsuitwherepresentmomentunfair |  
+| bip_39_word_no_space_12 | resourceturnmentionvocalridgetoelawsuitwherepresentmomentunfairamount |  
+| bip_39_word_no_space_2 | resourceturn |  
+| bip_39_word_no_space_3 | resourceturnmention |  
+| bip_39_word_no_space_4 | resourceturnmentionvocal |  
+| bip_39_word_no_space_5 | resourceturnmentionvocalridge |  
+| bip_39_word_no_space_6 | resourceturnmentionvocalridgetoe |  
+| bip_39_word_no_space_7 | resourceturnmentionvocalridgetoelawsuit |  
+| bip_39_word_no_space_8 | resourceturnmentionvocalridgetoelawsuitwhere |  
+| bip_39_word_no_space_9 | resourceturnmentionvocalridgetoelawsuitwherepresent |  
 | bip_39_word_space_0 | ['resource', 'turn', 'mention', 'vocal', 'ridge', 'toe', 'lawsuit', 'where', 'present', 'moment', 'unfair', 'amount'] |  
 | bip_39_word_space_1 | resource |  
 | bip_39_word_space_10 | resource turn mention vocal ridge toe lawsuit where present moment |  

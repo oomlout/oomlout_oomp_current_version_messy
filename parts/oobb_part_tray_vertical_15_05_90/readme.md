@@ -122,6 +122,18 @@ bitter
 below
 rain
 carry |  
+| bip_39_word_no_space_1 | team |  
+| bip_39_word_no_space_10 | teamcouplegalaxywavesqueezebitterbelowraincarryany |  
+| bip_39_word_no_space_11 | teamcouplegalaxywavesqueezebitterbelowraincarryanycategory |  
+| bip_39_word_no_space_12 | teamcouplegalaxywavesqueezebitterbelowraincarryanycategoryaccount |  
+| bip_39_word_no_space_2 | teamcouple |  
+| bip_39_word_no_space_3 | teamcouplegalaxy |  
+| bip_39_word_no_space_4 | teamcouplegalaxywave |  
+| bip_39_word_no_space_5 | teamcouplegalaxywavesqueeze |  
+| bip_39_word_no_space_6 | teamcouplegalaxywavesqueezebitter |  
+| bip_39_word_no_space_7 | teamcouplegalaxywavesqueezebitterbelow |  
+| bip_39_word_no_space_8 | teamcouplegalaxywavesqueezebitterbelowrain |  
+| bip_39_word_no_space_9 | teamcouplegalaxywavesqueezebitterbelowraincarry |  
 | bip_39_word_space_0 | ['team', 'couple', 'galaxy', 'wave', 'squeeze', 'bitter', 'below', 'rain', 'carry', 'any', 'category', 'account'] |  
 | bip_39_word_space_1 | team |  
 | bip_39_word_space_10 | team couple galaxy wave squeeze bitter below rain carry any |  

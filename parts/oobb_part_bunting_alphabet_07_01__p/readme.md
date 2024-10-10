@@ -122,6 +122,18 @@ limit
 slush
 gap
 cage |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisurebeforeacquirebirthselectlimitslushgapcagenoble |  
+| bip_39_word_no_space_11 | leisurebeforeacquirebirthselectlimitslushgapcagenoblelion |  
+| bip_39_word_no_space_12 | leisurebeforeacquirebirthselectlimitslushgapcagenoblelionany |  
+| bip_39_word_no_space_2 | leisurebefore |  
+| bip_39_word_no_space_3 | leisurebeforeacquire |  
+| bip_39_word_no_space_4 | leisurebeforeacquirebirth |  
+| bip_39_word_no_space_5 | leisurebeforeacquirebirthselect |  
+| bip_39_word_no_space_6 | leisurebeforeacquirebirthselectlimit |  
+| bip_39_word_no_space_7 | leisurebeforeacquirebirthselectlimitslush |  
+| bip_39_word_no_space_8 | leisurebeforeacquirebirthselectlimitslushgap |  
+| bip_39_word_no_space_9 | leisurebeforeacquirebirthselectlimitslushgapcage |  
 | bip_39_word_space_0 | ['leisure', 'before', 'acquire', 'birth', 'select', 'limit', 'slush', 'gap', 'cage', 'noble', 'lion', 'any'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure before acquire birth select limit slush gap cage noble |  

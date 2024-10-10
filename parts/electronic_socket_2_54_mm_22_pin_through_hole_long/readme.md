@@ -122,6 +122,18 @@ ball
 april
 device
 cousin |  
+| bip_39_word_no_space_1 | team |  
+| bip_39_word_no_space_10 | teamexpressdevotesymbolattendballaprildevicecousinpanel |  
+| bip_39_word_no_space_11 | teamexpressdevotesymbolattendballaprildevicecousinpanelpaper |  
+| bip_39_word_no_space_12 | teamexpressdevotesymbolattendballaprildevicecousinpanelpaperassault |  
+| bip_39_word_no_space_2 | teamexpress |  
+| bip_39_word_no_space_3 | teamexpressdevote |  
+| bip_39_word_no_space_4 | teamexpressdevotesymbol |  
+| bip_39_word_no_space_5 | teamexpressdevotesymbolattend |  
+| bip_39_word_no_space_6 | teamexpressdevotesymbolattendball |  
+| bip_39_word_no_space_7 | teamexpressdevotesymbolattendballapril |  
+| bip_39_word_no_space_8 | teamexpressdevotesymbolattendballaprildevice |  
+| bip_39_word_no_space_9 | teamexpressdevotesymbolattendballaprildevicecousin |  
 | bip_39_word_space_0 | ['team', 'express', 'devote', 'symbol', 'attend', 'ball', 'april', 'device', 'cousin', 'panel', 'paper', 'assault'] |  
 | bip_39_word_space_1 | team |  
 | bip_39_word_space_10 | team express devote symbol attend ball april device cousin panel |  

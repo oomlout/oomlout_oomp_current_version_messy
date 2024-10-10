@@ -122,6 +122,18 @@ heavy
 large
 protect
 fine |  
+| bip_39_word_no_space_1 | industry |  
+| bip_39_word_no_space_10 | industryverifynetsituatepigheavylargeprotectfineload |  
+| bip_39_word_no_space_11 | industryverifynetsituatepigheavylargeprotectfineloadcheck |  
+| bip_39_word_no_space_12 | industryverifynetsituatepigheavylargeprotectfineloadcheckaunt |  
+| bip_39_word_no_space_2 | industryverify |  
+| bip_39_word_no_space_3 | industryverifynet |  
+| bip_39_word_no_space_4 | industryverifynetsituate |  
+| bip_39_word_no_space_5 | industryverifynetsituatepig |  
+| bip_39_word_no_space_6 | industryverifynetsituatepigheavy |  
+| bip_39_word_no_space_7 | industryverifynetsituatepigheavylarge |  
+| bip_39_word_no_space_8 | industryverifynetsituatepigheavylargeprotect |  
+| bip_39_word_no_space_9 | industryverifynetsituatepigheavylargeprotectfine |  
 | bip_39_word_space_0 | ['industry', 'verify', 'net', 'situate', 'pig', 'heavy', 'large', 'protect', 'fine', 'load', 'check', 'aunt'] |  
 | bip_39_word_space_1 | industry |  
 | bip_39_word_space_10 | industry verify net situate pig heavy large protect fine load |  

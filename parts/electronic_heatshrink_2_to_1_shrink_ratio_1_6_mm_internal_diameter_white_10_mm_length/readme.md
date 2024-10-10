@@ -122,6 +122,18 @@ bargain
 defy
 category
 grunt |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bulletmountainstampnicethingbargaindefycategorygruntheight |  
+| bip_39_word_no_space_11 | bulletmountainstampnicethingbargaindefycategorygruntheightfantasy |  
+| bip_39_word_no_space_12 | bulletmountainstampnicethingbargaindefycategorygruntheightfantasyadapt |  
+| bip_39_word_no_space_2 | bulletmountain |  
+| bip_39_word_no_space_3 | bulletmountainstamp |  
+| bip_39_word_no_space_4 | bulletmountainstampnice |  
+| bip_39_word_no_space_5 | bulletmountainstampnicething |  
+| bip_39_word_no_space_6 | bulletmountainstampnicethingbargain |  
+| bip_39_word_no_space_7 | bulletmountainstampnicethingbargaindefy |  
+| bip_39_word_no_space_8 | bulletmountainstampnicethingbargaindefycategory |  
+| bip_39_word_no_space_9 | bulletmountainstampnicethingbargaindefycategorygrunt |  
 | bip_39_word_space_0 | ['bullet', 'mountain', 'stamp', 'nice', 'thing', 'bargain', 'defy', 'category', 'grunt', 'height', 'fantasy', 'adapt'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet mountain stamp nice thing bargain defy category grunt height |  

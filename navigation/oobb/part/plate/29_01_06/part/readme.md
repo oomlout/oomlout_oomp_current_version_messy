@@ -122,6 +122,18 @@ bless
 penalty
 deer
 because |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppyhedgehogboynoisefollowblesspenaltydeerbecausetiger |  
+| bip_39_word_no_space_11 | puppyhedgehogboynoisefollowblesspenaltydeerbecausetigeranchor |  
+| bip_39_word_no_space_12 | puppyhedgehogboynoisefollowblesspenaltydeerbecausetigeranchorarrest |  
+| bip_39_word_no_space_2 | puppyhedgehog |  
+| bip_39_word_no_space_3 | puppyhedgehogboy |  
+| bip_39_word_no_space_4 | puppyhedgehogboynoise |  
+| bip_39_word_no_space_5 | puppyhedgehogboynoisefollow |  
+| bip_39_word_no_space_6 | puppyhedgehogboynoisefollowbless |  
+| bip_39_word_no_space_7 | puppyhedgehogboynoisefollowblesspenalty |  
+| bip_39_word_no_space_8 | puppyhedgehogboynoisefollowblesspenaltydeer |  
+| bip_39_word_no_space_9 | puppyhedgehogboynoisefollowblesspenaltydeerbecause |  
 | bip_39_word_space_0 | ['puppy', 'hedgehog', 'boy', 'noise', 'follow', 'bless', 'penalty', 'deer', 'because', 'tiger', 'anchor', 'arrest'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy hedgehog boy noise follow bless penalty deer because tiger |  

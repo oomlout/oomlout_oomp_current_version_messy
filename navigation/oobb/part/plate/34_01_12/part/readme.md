@@ -122,6 +122,18 @@ insect
 shoot
 crazy
 robot |  
+| bip_39_word_no_space_1 | shove |  
+| bip_39_word_no_space_10 | shovecrystalbulbauthorintactinsectshootcrazyrobotwool |  
+| bip_39_word_no_space_11 | shovecrystalbulbauthorintactinsectshootcrazyrobotwoolminute |  
+| bip_39_word_no_space_12 | shovecrystalbulbauthorintactinsectshootcrazyrobotwoolminuteallow |  
+| bip_39_word_no_space_2 | shovecrystal |  
+| bip_39_word_no_space_3 | shovecrystalbulb |  
+| bip_39_word_no_space_4 | shovecrystalbulbauthor |  
+| bip_39_word_no_space_5 | shovecrystalbulbauthorintact |  
+| bip_39_word_no_space_6 | shovecrystalbulbauthorintactinsect |  
+| bip_39_word_no_space_7 | shovecrystalbulbauthorintactinsectshoot |  
+| bip_39_word_no_space_8 | shovecrystalbulbauthorintactinsectshootcrazy |  
+| bip_39_word_no_space_9 | shovecrystalbulbauthorintactinsectshootcrazyrobot |  
 | bip_39_word_space_0 | ['shove', 'crystal', 'bulb', 'author', 'intact', 'insect', 'shoot', 'crazy', 'robot', 'wool', 'minute', 'allow'] |  
 | bip_39_word_space_1 | shove |  
 | bip_39_word_space_10 | shove crystal bulb author intact insect shoot crazy robot wool |  

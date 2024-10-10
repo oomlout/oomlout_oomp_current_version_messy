@@ -122,6 +122,18 @@ pond
 stadium
 history
 erupt |  
+| bip_39_word_no_space_1 | copy |  
+| bip_39_word_no_space_10 | copyaddictgrapestampvastpondstadiumhistoryeruptgasp |  
+| bip_39_word_no_space_11 | copyaddictgrapestampvastpondstadiumhistoryeruptgaspgas |  
+| bip_39_word_no_space_12 | copyaddictgrapestampvastpondstadiumhistoryeruptgaspgasannual |  
+| bip_39_word_no_space_2 | copyaddict |  
+| bip_39_word_no_space_3 | copyaddictgrape |  
+| bip_39_word_no_space_4 | copyaddictgrapestamp |  
+| bip_39_word_no_space_5 | copyaddictgrapestampvast |  
+| bip_39_word_no_space_6 | copyaddictgrapestampvastpond |  
+| bip_39_word_no_space_7 | copyaddictgrapestampvastpondstadium |  
+| bip_39_word_no_space_8 | copyaddictgrapestampvastpondstadiumhistory |  
+| bip_39_word_no_space_9 | copyaddictgrapestampvastpondstadiumhistoryerupt |  
 | bip_39_word_space_0 | ['copy', 'addict', 'grape', 'stamp', 'vast', 'pond', 'stadium', 'history', 'erupt', 'gasp', 'gas', 'annual'] |  
 | bip_39_word_space_1 | copy |  
 | bip_39_word_space_10 | copy addict grape stamp vast pond stadium history erupt gasp |  

@@ -122,6 +122,18 @@ cinnamon
 member
 stand
 wire |  
+| bip_39_word_no_space_1 | spread |  
+| bip_39_word_no_space_10 | spreadpaveuntilbananamonthcinnamonmemberstandwirevolume |  
+| bip_39_word_no_space_11 | spreadpaveuntilbananamonthcinnamonmemberstandwirevolumepen |  
+| bip_39_word_no_space_12 | spreadpaveuntilbananamonthcinnamonmemberstandwirevolumepenalley |  
+| bip_39_word_no_space_2 | spreadpave |  
+| bip_39_word_no_space_3 | spreadpaveuntil |  
+| bip_39_word_no_space_4 | spreadpaveuntilbanana |  
+| bip_39_word_no_space_5 | spreadpaveuntilbananamonth |  
+| bip_39_word_no_space_6 | spreadpaveuntilbananamonthcinnamon |  
+| bip_39_word_no_space_7 | spreadpaveuntilbananamonthcinnamonmember |  
+| bip_39_word_no_space_8 | spreadpaveuntilbananamonthcinnamonmemberstand |  
+| bip_39_word_no_space_9 | spreadpaveuntilbananamonthcinnamonmemberstandwire |  
 | bip_39_word_space_0 | ['spread', 'pave', 'until', 'banana', 'month', 'cinnamon', 'member', 'stand', 'wire', 'volume', 'pen', 'alley'] |  
 | bip_39_word_space_1 | spread |  
 | bip_39_word_space_10 | spread pave until banana month cinnamon member stand wire volume |  

@@ -122,6 +122,18 @@ boss
 secret
 evoke
 oval |  
+| bip_39_word_no_space_1 | also |  
+| bip_39_word_no_space_10 | alsodisplaylonelyequipdebatebosssecretevokeovalparade |  
+| bip_39_word_no_space_11 | alsodisplaylonelyequipdebatebosssecretevokeovalparadewife |  
+| bip_39_word_no_space_12 | alsodisplaylonelyequipdebatebosssecretevokeovalparadewifearctic |  
+| bip_39_word_no_space_2 | alsodisplay |  
+| bip_39_word_no_space_3 | alsodisplaylonely |  
+| bip_39_word_no_space_4 | alsodisplaylonelyequip |  
+| bip_39_word_no_space_5 | alsodisplaylonelyequipdebate |  
+| bip_39_word_no_space_6 | alsodisplaylonelyequipdebateboss |  
+| bip_39_word_no_space_7 | alsodisplaylonelyequipdebatebosssecret |  
+| bip_39_word_no_space_8 | alsodisplaylonelyequipdebatebosssecretevoke |  
+| bip_39_word_no_space_9 | alsodisplaylonelyequipdebatebosssecretevokeoval |  
 | bip_39_word_space_0 | ['also', 'display', 'lonely', 'equip', 'debate', 'boss', 'secret', 'evoke', 'oval', 'parade', 'wife', 'arctic'] |  
 | bip_39_word_space_1 | also |  
 | bip_39_word_space_10 | also display lonely equip debate boss secret evoke oval parade |  

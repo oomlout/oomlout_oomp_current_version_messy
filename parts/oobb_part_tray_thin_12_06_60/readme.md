@@ -122,6 +122,18 @@ opinion
 pumpkin
 polar
 core |  
+| bip_39_word_no_space_1 | merit |  
+| bip_39_word_no_space_10 | meritsentencefrogprettysorryopinionpumpkinpolarcoretrick |  
+| bip_39_word_no_space_11 | meritsentencefrogprettysorryopinionpumpkinpolarcoretrickdiffer |  
+| bip_39_word_no_space_12 | meritsentencefrogprettysorryopinionpumpkinpolarcoretrickdifferabove |  
+| bip_39_word_no_space_2 | meritsentence |  
+| bip_39_word_no_space_3 | meritsentencefrog |  
+| bip_39_word_no_space_4 | meritsentencefrogpretty |  
+| bip_39_word_no_space_5 | meritsentencefrogprettysorry |  
+| bip_39_word_no_space_6 | meritsentencefrogprettysorryopinion |  
+| bip_39_word_no_space_7 | meritsentencefrogprettysorryopinionpumpkin |  
+| bip_39_word_no_space_8 | meritsentencefrogprettysorryopinionpumpkinpolar |  
+| bip_39_word_no_space_9 | meritsentencefrogprettysorryopinionpumpkinpolarcore |  
 | bip_39_word_space_0 | ['merit', 'sentence', 'frog', 'pretty', 'sorry', 'opinion', 'pumpkin', 'polar', 'core', 'trick', 'differ', 'above'] |  
 | bip_39_word_space_1 | merit |  
 | bip_39_word_space_10 | merit sentence frog pretty sorry opinion pumpkin polar core trick |  

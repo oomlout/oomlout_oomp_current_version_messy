@@ -122,6 +122,18 @@ huge
 vacuum
 grow
 color |  
+| bip_39_word_no_space_1 | reject |  
+| bip_39_word_no_space_10 | rejectspidercanyondebriscrisphugevacuumgrowcolorzoo |  
+| bip_39_word_no_space_11 | rejectspidercanyondebriscrisphugevacuumgrowcolorzoostomach |  
+| bip_39_word_no_space_12 | rejectspidercanyondebriscrisphugevacuumgrowcolorzoostomachassume |  
+| bip_39_word_no_space_2 | rejectspider |  
+| bip_39_word_no_space_3 | rejectspidercanyon |  
+| bip_39_word_no_space_4 | rejectspidercanyondebris |  
+| bip_39_word_no_space_5 | rejectspidercanyondebriscrisp |  
+| bip_39_word_no_space_6 | rejectspidercanyondebriscrisphuge |  
+| bip_39_word_no_space_7 | rejectspidercanyondebriscrisphugevacuum |  
+| bip_39_word_no_space_8 | rejectspidercanyondebriscrisphugevacuumgrow |  
+| bip_39_word_no_space_9 | rejectspidercanyondebriscrisphugevacuumgrowcolor |  
 | bip_39_word_space_0 | ['reject', 'spider', 'canyon', 'debris', 'crisp', 'huge', 'vacuum', 'grow', 'color', 'zoo', 'stomach', 'assume'] |  
 | bip_39_word_space_1 | reject |  
 | bip_39_word_space_10 | reject spider canyon debris crisp huge vacuum grow color zoo |  

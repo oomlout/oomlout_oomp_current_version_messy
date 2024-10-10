@@ -122,6 +122,18 @@ monkey
 card
 burst
 carpet |  
+| bip_39_word_no_space_1 | there |  
+| bip_39_word_no_space_10 | thereolympiccolorgapfiscalmonkeycardburstcarpetcopy |  
+| bip_39_word_no_space_11 | thereolympiccolorgapfiscalmonkeycardburstcarpetcopysteel |  
+| bip_39_word_no_space_12 | thereolympiccolorgapfiscalmonkeycardburstcarpetcopysteelanchor |  
+| bip_39_word_no_space_2 | thereolympic |  
+| bip_39_word_no_space_3 | thereolympiccolor |  
+| bip_39_word_no_space_4 | thereolympiccolorgap |  
+| bip_39_word_no_space_5 | thereolympiccolorgapfiscal |  
+| bip_39_word_no_space_6 | thereolympiccolorgapfiscalmonkey |  
+| bip_39_word_no_space_7 | thereolympiccolorgapfiscalmonkeycard |  
+| bip_39_word_no_space_8 | thereolympiccolorgapfiscalmonkeycardburst |  
+| bip_39_word_no_space_9 | thereolympiccolorgapfiscalmonkeycardburstcarpet |  
 | bip_39_word_space_0 | ['there', 'olympic', 'color', 'gap', 'fiscal', 'monkey', 'card', 'burst', 'carpet', 'copy', 'steel', 'anchor'] |  
 | bip_39_word_space_1 | there |  
 | bip_39_word_space_10 | there olympic color gap fiscal monkey card burst carpet copy |  

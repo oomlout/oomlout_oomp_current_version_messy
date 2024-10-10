@@ -122,6 +122,18 @@ gap
 soccer
 inquiry
 unique |  
+| bip_39_word_no_space_1 | vessel |  
+| bip_39_word_no_space_10 | vesseljuniorsteakgrocerytoddlergapsoccerinquiryuniquehundred |  
+| bip_39_word_no_space_11 | vesseljuniorsteakgrocerytoddlergapsoccerinquiryuniquehundredgoddess |  
+| bip_39_word_no_space_12 | vesseljuniorsteakgrocerytoddlergapsoccerinquiryuniquehundredgoddessanswer |  
+| bip_39_word_no_space_2 | vesseljunior |  
+| bip_39_word_no_space_3 | vesseljuniorsteak |  
+| bip_39_word_no_space_4 | vesseljuniorsteakgrocery |  
+| bip_39_word_no_space_5 | vesseljuniorsteakgrocerytoddler |  
+| bip_39_word_no_space_6 | vesseljuniorsteakgrocerytoddlergap |  
+| bip_39_word_no_space_7 | vesseljuniorsteakgrocerytoddlergapsoccer |  
+| bip_39_word_no_space_8 | vesseljuniorsteakgrocerytoddlergapsoccerinquiry |  
+| bip_39_word_no_space_9 | vesseljuniorsteakgrocerytoddlergapsoccerinquiryunique |  
 | bip_39_word_space_0 | ['vessel', 'junior', 'steak', 'grocery', 'toddler', 'gap', 'soccer', 'inquiry', 'unique', 'hundred', 'goddess', 'answer'] |  
 | bip_39_word_space_1 | vessel |  
 | bip_39_word_space_10 | vessel junior steak grocery toddler gap soccer inquiry unique hundred |  

@@ -122,6 +122,18 @@ custom
 pulse
 cool
 arm |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companysafeindicatespotglidecustompulsecoolarmdebate |  
+| bip_39_word_no_space_11 | companysafeindicatespotglidecustompulsecoolarmdebatesurface |  
+| bip_39_word_no_space_12 | companysafeindicatespotglidecustompulsecoolarmdebatesurfaceannounce |  
+| bip_39_word_no_space_2 | companysafe |  
+| bip_39_word_no_space_3 | companysafeindicate |  
+| bip_39_word_no_space_4 | companysafeindicatespot |  
+| bip_39_word_no_space_5 | companysafeindicatespotglide |  
+| bip_39_word_no_space_6 | companysafeindicatespotglidecustom |  
+| bip_39_word_no_space_7 | companysafeindicatespotglidecustompulse |  
+| bip_39_word_no_space_8 | companysafeindicatespotglidecustompulsecool |  
+| bip_39_word_no_space_9 | companysafeindicatespotglidecustompulsecoolarm |  
 | bip_39_word_space_0 | ['company', 'safe', 'indicate', 'spot', 'glide', 'custom', 'pulse', 'cool', 'arm', 'debate', 'surface', 'announce'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company safe indicate spot glide custom pulse cool arm debate |  

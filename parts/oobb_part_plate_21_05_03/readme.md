@@ -122,6 +122,18 @@ setup
 small
 cram
 use |  
+| bip_39_word_no_space_1 | isolate |  
+| bip_39_word_no_space_10 | isolatevehiclefiscalreducecurvesetupsmallcramuseminimum |  
+| bip_39_word_no_space_11 | isolatevehiclefiscalreducecurvesetupsmallcramuseminimumpanther |  
+| bip_39_word_no_space_12 | isolatevehiclefiscalreducecurvesetupsmallcramuseminimumpantheradd |  
+| bip_39_word_no_space_2 | isolatevehicle |  
+| bip_39_word_no_space_3 | isolatevehiclefiscal |  
+| bip_39_word_no_space_4 | isolatevehiclefiscalreduce |  
+| bip_39_word_no_space_5 | isolatevehiclefiscalreducecurve |  
+| bip_39_word_no_space_6 | isolatevehiclefiscalreducecurvesetup |  
+| bip_39_word_no_space_7 | isolatevehiclefiscalreducecurvesetupsmall |  
+| bip_39_word_no_space_8 | isolatevehiclefiscalreducecurvesetupsmallcram |  
+| bip_39_word_no_space_9 | isolatevehiclefiscalreducecurvesetupsmallcramuse |  
 | bip_39_word_space_0 | ['isolate', 'vehicle', 'fiscal', 'reduce', 'curve', 'setup', 'small', 'cram', 'use', 'minimum', 'panther', 'add'] |  
 | bip_39_word_space_1 | isolate |  
 | bip_39_word_space_10 | isolate vehicle fiscal reduce curve setup small cram use minimum |  

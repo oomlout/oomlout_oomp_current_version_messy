@@ -122,6 +122,18 @@ fancy
 input
 hope
 floor |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderlegepisodeawesomeexcitefancyinputhopefloorpause |  
+| bip_39_word_no_space_11 | powderlegepisodeawesomeexcitefancyinputhopefloorpausewheel |  
+| bip_39_word_no_space_12 | powderlegepisodeawesomeexcitefancyinputhopefloorpausewheelannual |  
+| bip_39_word_no_space_2 | powderleg |  
+| bip_39_word_no_space_3 | powderlegepisode |  
+| bip_39_word_no_space_4 | powderlegepisodeawesome |  
+| bip_39_word_no_space_5 | powderlegepisodeawesomeexcite |  
+| bip_39_word_no_space_6 | powderlegepisodeawesomeexcitefancy |  
+| bip_39_word_no_space_7 | powderlegepisodeawesomeexcitefancyinput |  
+| bip_39_word_no_space_8 | powderlegepisodeawesomeexcitefancyinputhope |  
+| bip_39_word_no_space_9 | powderlegepisodeawesomeexcitefancyinputhopefloor |  
 | bip_39_word_space_0 | ['powder', 'leg', 'episode', 'awesome', 'excite', 'fancy', 'input', 'hope', 'floor', 'pause', 'wheel', 'annual'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder leg episode awesome excite fancy input hope floor pause |  

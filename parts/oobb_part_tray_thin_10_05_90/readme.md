@@ -122,6 +122,18 @@ dutch
 moon
 tooth
 carbon |  
+| bip_39_word_no_space_1 | lazy |  
+| bip_39_word_no_space_10 | lazyheadenforceunawarestampdutchmoontoothcarbontell |  
+| bip_39_word_no_space_11 | lazyheadenforceunawarestampdutchmoontoothcarbontellanxiety |  
+| bip_39_word_no_space_12 | lazyheadenforceunawarestampdutchmoontoothcarbontellanxietyadult |  
+| bip_39_word_no_space_2 | lazyhead |  
+| bip_39_word_no_space_3 | lazyheadenforce |  
+| bip_39_word_no_space_4 | lazyheadenforceunaware |  
+| bip_39_word_no_space_5 | lazyheadenforceunawarestamp |  
+| bip_39_word_no_space_6 | lazyheadenforceunawarestampdutch |  
+| bip_39_word_no_space_7 | lazyheadenforceunawarestampdutchmoon |  
+| bip_39_word_no_space_8 | lazyheadenforceunawarestampdutchmoontooth |  
+| bip_39_word_no_space_9 | lazyheadenforceunawarestampdutchmoontoothcarbon |  
 | bip_39_word_space_0 | ['lazy', 'head', 'enforce', 'unaware', 'stamp', 'dutch', 'moon', 'tooth', 'carbon', 'tell', 'anxiety', 'adult'] |  
 | bip_39_word_space_1 | lazy |  
 | bip_39_word_space_10 | lazy head enforce unaware stamp dutch moon tooth carbon tell |  

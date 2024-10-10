@@ -122,6 +122,18 @@ possible
 banana
 expire
 canyon |  
+| bip_39_word_no_space_1 | jeans |  
+| bip_39_word_no_space_10 | jeanscrickethurryaugustoakpossiblebananaexpirecanyoncanoe |  
+| bip_39_word_no_space_11 | jeanscrickethurryaugustoakpossiblebananaexpirecanyoncanoeundo |  
+| bip_39_word_no_space_12 | jeanscrickethurryaugustoakpossiblebananaexpirecanyoncanoeundoaerobic |  
+| bip_39_word_no_space_2 | jeanscricket |  
+| bip_39_word_no_space_3 | jeanscrickethurry |  
+| bip_39_word_no_space_4 | jeanscrickethurryaugust |  
+| bip_39_word_no_space_5 | jeanscrickethurryaugustoak |  
+| bip_39_word_no_space_6 | jeanscrickethurryaugustoakpossible |  
+| bip_39_word_no_space_7 | jeanscrickethurryaugustoakpossiblebanana |  
+| bip_39_word_no_space_8 | jeanscrickethurryaugustoakpossiblebananaexpire |  
+| bip_39_word_no_space_9 | jeanscrickethurryaugustoakpossiblebananaexpirecanyon |  
 | bip_39_word_space_0 | ['jeans', 'cricket', 'hurry', 'august', 'oak', 'possible', 'banana', 'expire', 'canyon', 'canoe', 'undo', 'aerobic'] |  
 | bip_39_word_space_1 | jeans |  
 | bip_39_word_space_10 | jeans cricket hurry august oak possible banana expire canyon canoe |  

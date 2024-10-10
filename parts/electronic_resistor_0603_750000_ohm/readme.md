@@ -122,6 +122,18 @@ album
 bind
 mimic
 armed |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubsteakfameglimpsefuturealbumbindmimicarmedkit |  
+| bip_39_word_no_space_11 | hubsteakfameglimpsefuturealbumbindmimicarmedkitroad |  
+| bip_39_word_no_space_12 | hubsteakfameglimpsefuturealbumbindmimicarmedkitroadalter |  
+| bip_39_word_no_space_2 | hubsteak |  
+| bip_39_word_no_space_3 | hubsteakfame |  
+| bip_39_word_no_space_4 | hubsteakfameglimpse |  
+| bip_39_word_no_space_5 | hubsteakfameglimpsefuture |  
+| bip_39_word_no_space_6 | hubsteakfameglimpsefuturealbum |  
+| bip_39_word_no_space_7 | hubsteakfameglimpsefuturealbumbind |  
+| bip_39_word_no_space_8 | hubsteakfameglimpsefuturealbumbindmimic |  
+| bip_39_word_no_space_9 | hubsteakfameglimpsefuturealbumbindmimicarmed |  
 | bip_39_word_space_0 | ['hub', 'steak', 'fame', 'glimpse', 'future', 'album', 'bind', 'mimic', 'armed', 'kit', 'road', 'alter'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub steak fame glimpse future album bind mimic armed kit |  

@@ -122,6 +122,18 @@ direct
 describe
 token
 lemon |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietmathbrasscalmorphandirectdescribetokenlemoninflict |  
+| bip_39_word_no_space_11 | dietmathbrasscalmorphandirectdescribetokenlemoninflictbirth |  
+| bip_39_word_no_space_12 | dietmathbrasscalmorphandirectdescribetokenlemoninflictbirthaverage |  
+| bip_39_word_no_space_2 | dietmath |  
+| bip_39_word_no_space_3 | dietmathbrass |  
+| bip_39_word_no_space_4 | dietmathbrasscalm |  
+| bip_39_word_no_space_5 | dietmathbrasscalmorphan |  
+| bip_39_word_no_space_6 | dietmathbrasscalmorphandirect |  
+| bip_39_word_no_space_7 | dietmathbrasscalmorphandirectdescribe |  
+| bip_39_word_no_space_8 | dietmathbrasscalmorphandirectdescribetoken |  
+| bip_39_word_no_space_9 | dietmathbrasscalmorphandirectdescribetokenlemon |  
 | bip_39_word_space_0 | ['diet', 'math', 'brass', 'calm', 'orphan', 'direct', 'describe', 'token', 'lemon', 'inflict', 'birth', 'average'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet math brass calm orphan direct describe token lemon inflict |  

@@ -122,6 +122,18 @@ speed
 emerge
 edge
 lift |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | clapbeachentirekiwipeanutspeedemergeedgeliftusual |  
+| bip_39_word_no_space_11 | clapbeachentirekiwipeanutspeedemergeedgeliftusualglow |  
+| bip_39_word_no_space_12 | clapbeachentirekiwipeanutspeedemergeedgeliftusualglowabsorb |  
+| bip_39_word_no_space_2 | clapbeach |  
+| bip_39_word_no_space_3 | clapbeachentire |  
+| bip_39_word_no_space_4 | clapbeachentirekiwi |  
+| bip_39_word_no_space_5 | clapbeachentirekiwipeanut |  
+| bip_39_word_no_space_6 | clapbeachentirekiwipeanutspeed |  
+| bip_39_word_no_space_7 | clapbeachentirekiwipeanutspeedemerge |  
+| bip_39_word_no_space_8 | clapbeachentirekiwipeanutspeedemergeedge |  
+| bip_39_word_no_space_9 | clapbeachentirekiwipeanutspeedemergeedgelift |  
 | bip_39_word_space_0 | ['clap', 'beach', 'entire', 'kiwi', 'peanut', 'speed', 'emerge', 'edge', 'lift', 'usual', 'glow', 'absorb'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap beach entire kiwi peanut speed emerge edge lift usual |  

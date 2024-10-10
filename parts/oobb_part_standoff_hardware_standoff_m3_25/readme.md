@@ -122,6 +122,18 @@ cash
 direct
 fix
 provide |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposeromanceessenceplugbrightcashdirectfixprovideswarm |  
+| bip_39_word_no_space_11 | imposeromanceessenceplugbrightcashdirectfixprovideswarmdeliver |  
+| bip_39_word_no_space_12 | imposeromanceessenceplugbrightcashdirectfixprovideswarmdeliverantenna |  
+| bip_39_word_no_space_2 | imposeromance |  
+| bip_39_word_no_space_3 | imposeromanceessence |  
+| bip_39_word_no_space_4 | imposeromanceessenceplug |  
+| bip_39_word_no_space_5 | imposeromanceessenceplugbright |  
+| bip_39_word_no_space_6 | imposeromanceessenceplugbrightcash |  
+| bip_39_word_no_space_7 | imposeromanceessenceplugbrightcashdirect |  
+| bip_39_word_no_space_8 | imposeromanceessenceplugbrightcashdirectfix |  
+| bip_39_word_no_space_9 | imposeromanceessenceplugbrightcashdirectfixprovide |  
 | bip_39_word_space_0 | ['impose', 'romance', 'essence', 'plug', 'bright', 'cash', 'direct', 'fix', 'provide', 'swarm', 'deliver', 'antenna'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose romance essence plug bright cash direct fix provide swarm |  

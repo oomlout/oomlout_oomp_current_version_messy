@@ -122,6 +122,18 @@ cheap
 often
 beef
 pattern |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skigracefruitsurfacemenucheapoftenbeefpatternneutral |  
+| bip_39_word_no_space_11 | skigracefruitsurfacemenucheapoftenbeefpatternneutralwide |  
+| bip_39_word_no_space_12 | skigracefruitsurfacemenucheapoftenbeefpatternneutralwideagain |  
+| bip_39_word_no_space_2 | skigrace |  
+| bip_39_word_no_space_3 | skigracefruit |  
+| bip_39_word_no_space_4 | skigracefruitsurface |  
+| bip_39_word_no_space_5 | skigracefruitsurfacemenu |  
+| bip_39_word_no_space_6 | skigracefruitsurfacemenucheap |  
+| bip_39_word_no_space_7 | skigracefruitsurfacemenucheapoften |  
+| bip_39_word_no_space_8 | skigracefruitsurfacemenucheapoftenbeef |  
+| bip_39_word_no_space_9 | skigracefruitsurfacemenucheapoftenbeefpattern |  
 | bip_39_word_space_0 | ['ski', 'grace', 'fruit', 'surface', 'menu', 'cheap', 'often', 'beef', 'pattern', 'neutral', 'wide', 'again'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski grace fruit surface menu cheap often beef pattern neutral |  

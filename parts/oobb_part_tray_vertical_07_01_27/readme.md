@@ -122,6 +122,18 @@ balance
 weird
 flavor
 wagon |  
+| bip_39_word_no_space_1 | will |  
+| bip_39_word_no_space_10 | willplateevolvebodyharborbalanceweirdflavorwagonhistory |  
+| bip_39_word_no_space_11 | willplateevolvebodyharborbalanceweirdflavorwagonhistorygather |  
+| bip_39_word_no_space_12 | willplateevolvebodyharborbalanceweirdflavorwagonhistorygatheradvance |  
+| bip_39_word_no_space_2 | willplate |  
+| bip_39_word_no_space_3 | willplateevolve |  
+| bip_39_word_no_space_4 | willplateevolvebody |  
+| bip_39_word_no_space_5 | willplateevolvebodyharbor |  
+| bip_39_word_no_space_6 | willplateevolvebodyharborbalance |  
+| bip_39_word_no_space_7 | willplateevolvebodyharborbalanceweird |  
+| bip_39_word_no_space_8 | willplateevolvebodyharborbalanceweirdflavor |  
+| bip_39_word_no_space_9 | willplateevolvebodyharborbalanceweirdflavorwagon |  
 | bip_39_word_space_0 | ['will', 'plate', 'evolve', 'body', 'harbor', 'balance', 'weird', 'flavor', 'wagon', 'history', 'gather', 'advance'] |  
 | bip_39_word_space_1 | will |  
 | bip_39_word_space_10 | will plate evolve body harbor balance weird flavor wagon history |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'age
   lounge
 
   arrow'
+bip_39_word_no_space_1: age
+bip_39_word_no_space_10: agestageoccurstampobviousauditenemyloungearrowaround
+bip_39_word_no_space_11: agestageoccurstampobviousauditenemyloungearrowaroundintact
+bip_39_word_no_space_12: agestageoccurstampobviousauditenemyloungearrowaroundintactaround
+bip_39_word_no_space_2: agestage
+bip_39_word_no_space_3: agestageoccur
+bip_39_word_no_space_4: agestageoccurstamp
+bip_39_word_no_space_5: agestageoccurstampobvious
+bip_39_word_no_space_6: agestageoccurstampobviousaudit
+bip_39_word_no_space_7: agestageoccurstampobviousauditenemy
+bip_39_word_no_space_8: agestageoccurstampobviousauditenemylounge
+bip_39_word_no_space_9: agestageoccurstampobviousauditenemyloungearrow
 bip_39_word_space_0:
 - age
 - stage

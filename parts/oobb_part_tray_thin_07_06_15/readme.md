@@ -122,6 +122,18 @@ dwarf
 mushroom
 sword
 glimpse |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | gunbicyclechoicefemalepeanutdwarfmushroomswordglimpsebid |  
+| bip_39_word_no_space_11 | gunbicyclechoicefemalepeanutdwarfmushroomswordglimpsebidlottery |  
+| bip_39_word_no_space_12 | gunbicyclechoicefemalepeanutdwarfmushroomswordglimpsebidlotteryanswer |  
+| bip_39_word_no_space_2 | gunbicycle |  
+| bip_39_word_no_space_3 | gunbicyclechoice |  
+| bip_39_word_no_space_4 | gunbicyclechoicefemale |  
+| bip_39_word_no_space_5 | gunbicyclechoicefemalepeanut |  
+| bip_39_word_no_space_6 | gunbicyclechoicefemalepeanutdwarf |  
+| bip_39_word_no_space_7 | gunbicyclechoicefemalepeanutdwarfmushroom |  
+| bip_39_word_no_space_8 | gunbicyclechoicefemalepeanutdwarfmushroomsword |  
+| bip_39_word_no_space_9 | gunbicyclechoicefemalepeanutdwarfmushroomswordglimpse |  
 | bip_39_word_space_0 | ['gun', 'bicycle', 'choice', 'female', 'peanut', 'dwarf', 'mushroom', 'sword', 'glimpse', 'bid', 'lottery', 'answer'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun bicycle choice female peanut dwarf mushroom sword glimpse bid |  

@@ -122,6 +122,18 @@ link
 now
 body
 slab |  
+| bip_39_word_no_space_1 | walk |  
+| bip_39_word_no_space_10 | walkfostergadgetrelywarriorlinknowbodyslabkick |  
+| bip_39_word_no_space_11 | walkfostergadgetrelywarriorlinknowbodyslabkickrural |  
+| bip_39_word_no_space_12 | walkfostergadgetrelywarriorlinknowbodyslabkickruralarrest |  
+| bip_39_word_no_space_2 | walkfoster |  
+| bip_39_word_no_space_3 | walkfostergadget |  
+| bip_39_word_no_space_4 | walkfostergadgetrely |  
+| bip_39_word_no_space_5 | walkfostergadgetrelywarrior |  
+| bip_39_word_no_space_6 | walkfostergadgetrelywarriorlink |  
+| bip_39_word_no_space_7 | walkfostergadgetrelywarriorlinknow |  
+| bip_39_word_no_space_8 | walkfostergadgetrelywarriorlinknowbody |  
+| bip_39_word_no_space_9 | walkfostergadgetrelywarriorlinknowbodyslab |  
 | bip_39_word_space_0 | ['walk', 'foster', 'gadget', 'rely', 'warrior', 'link', 'now', 'body', 'slab', 'kick', 'rural', 'arrest'] |  
 | bip_39_word_space_1 | walk |  
 | bip_39_word_space_10 | walk foster gadget rely warrior link now body slab kick |  

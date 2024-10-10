@@ -122,6 +122,18 @@ swear
 push
 endless
 eyebrow |  
+| bip_39_word_no_space_1 | advance |  
+| bip_39_word_no_space_10 | advancepenaltybuffalocurveathleteswearpushendlesseyebrowdune |  
+| bip_39_word_no_space_11 | advancepenaltybuffalocurveathleteswearpushendlesseyebrowduneerupt |  
+| bip_39_word_no_space_12 | advancepenaltybuffalocurveathleteswearpushendlesseyebrowduneeruptattack |  
+| bip_39_word_no_space_2 | advancepenalty |  
+| bip_39_word_no_space_3 | advancepenaltybuffalo |  
+| bip_39_word_no_space_4 | advancepenaltybuffalocurve |  
+| bip_39_word_no_space_5 | advancepenaltybuffalocurveathlete |  
+| bip_39_word_no_space_6 | advancepenaltybuffalocurveathleteswear |  
+| bip_39_word_no_space_7 | advancepenaltybuffalocurveathleteswearpush |  
+| bip_39_word_no_space_8 | advancepenaltybuffalocurveathleteswearpushendless |  
+| bip_39_word_no_space_9 | advancepenaltybuffalocurveathleteswearpushendlesseyebrow |  
 | bip_39_word_space_0 | ['advance', 'penalty', 'buffalo', 'curve', 'athlete', 'swear', 'push', 'endless', 'eyebrow', 'dune', 'erupt', 'attack'] |  
 | bip_39_word_space_1 | advance |  
 | bip_39_word_space_10 | advance penalty buffalo curve athlete swear push endless eyebrow dune |  

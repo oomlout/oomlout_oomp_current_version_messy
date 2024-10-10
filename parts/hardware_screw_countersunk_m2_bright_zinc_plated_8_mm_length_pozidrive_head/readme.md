@@ -122,6 +122,18 @@ mechanic
 become
 knife
 abuse |  
+| bip_39_word_no_space_1 | depth |  
+| bip_39_word_no_space_10 | depthbusinessblanketstartindexmechanicbecomeknifeabusemagnet |  
+| bip_39_word_no_space_11 | depthbusinessblanketstartindexmechanicbecomeknifeabusemagnetrobust |  
+| bip_39_word_no_space_12 | depthbusinessblanketstartindexmechanicbecomeknifeabusemagnetrobustaddict |  
+| bip_39_word_no_space_2 | depthbusiness |  
+| bip_39_word_no_space_3 | depthbusinessblanket |  
+| bip_39_word_no_space_4 | depthbusinessblanketstart |  
+| bip_39_word_no_space_5 | depthbusinessblanketstartindex |  
+| bip_39_word_no_space_6 | depthbusinessblanketstartindexmechanic |  
+| bip_39_word_no_space_7 | depthbusinessblanketstartindexmechanicbecome |  
+| bip_39_word_no_space_8 | depthbusinessblanketstartindexmechanicbecomeknife |  
+| bip_39_word_no_space_9 | depthbusinessblanketstartindexmechanicbecomeknifeabuse |  
 | bip_39_word_space_0 | ['depth', 'business', 'blanket', 'start', 'index', 'mechanic', 'become', 'knife', 'abuse', 'magnet', 'robust', 'addict'] |  
 | bip_39_word_space_1 | depth |  
 | bip_39_word_space_10 | depth business blanket start index mechanic become knife abuse magnet |  

@@ -122,6 +122,18 @@ wet
 camp
 horse
 wear |  
+| bip_39_word_no_space_1 | total |  
+| bip_39_word_no_space_10 | totalmorningtomorrowcementartwetcamphorsewearocean |  
+| bip_39_word_no_space_11 | totalmorningtomorrowcementartwetcamphorsewearoceancheap |  
+| bip_39_word_no_space_12 | totalmorningtomorrowcementartwetcamphorsewearoceancheapaccess |  
+| bip_39_word_no_space_2 | totalmorning |  
+| bip_39_word_no_space_3 | totalmorningtomorrow |  
+| bip_39_word_no_space_4 | totalmorningtomorrowcement |  
+| bip_39_word_no_space_5 | totalmorningtomorrowcementart |  
+| bip_39_word_no_space_6 | totalmorningtomorrowcementartwet |  
+| bip_39_word_no_space_7 | totalmorningtomorrowcementartwetcamp |  
+| bip_39_word_no_space_8 | totalmorningtomorrowcementartwetcamphorse |  
+| bip_39_word_no_space_9 | totalmorningtomorrowcementartwetcamphorsewear |  
 | bip_39_word_space_0 | ['total', 'morning', 'tomorrow', 'cement', 'art', 'wet', 'camp', 'horse', 'wear', 'ocean', 'cheap', 'access'] |  
 | bip_39_word_space_1 | total |  
 | bip_39_word_space_10 | total morning tomorrow cement art wet camp horse wear ocean |  

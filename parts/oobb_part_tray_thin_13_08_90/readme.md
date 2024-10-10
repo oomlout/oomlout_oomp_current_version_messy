@@ -122,6 +122,18 @@ want
 dream
 cricket
 click |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raisesadconductauntcookwantdreamcricketclickdocument |  
+| bip_39_word_no_space_11 | raisesadconductauntcookwantdreamcricketclickdocumentact |  
+| bip_39_word_no_space_12 | raisesadconductauntcookwantdreamcricketclickdocumentactanswer |  
+| bip_39_word_no_space_2 | raisesad |  
+| bip_39_word_no_space_3 | raisesadconduct |  
+| bip_39_word_no_space_4 | raisesadconductaunt |  
+| bip_39_word_no_space_5 | raisesadconductauntcook |  
+| bip_39_word_no_space_6 | raisesadconductauntcookwant |  
+| bip_39_word_no_space_7 | raisesadconductauntcookwantdream |  
+| bip_39_word_no_space_8 | raisesadconductauntcookwantdreamcricket |  
+| bip_39_word_no_space_9 | raisesadconductauntcookwantdreamcricketclick |  
 | bip_39_word_space_0 | ['raise', 'sad', 'conduct', 'aunt', 'cook', 'want', 'dream', 'cricket', 'click', 'document', 'act', 'answer'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise sad conduct aunt cook want dream cricket click document |  

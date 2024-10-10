@@ -122,6 +122,18 @@ critic
 quit
 wrong
 month |  
+| bip_39_word_no_space_1 | clean |  
+| bip_39_word_no_space_10 | cleanparadepublicsituatetransfercriticquitwrongmonthtype |  
+| bip_39_word_no_space_11 | cleanparadepublicsituatetransfercriticquitwrongmonthtypeerupt |  
+| bip_39_word_no_space_12 | cleanparadepublicsituatetransfercriticquitwrongmonthtypeeruptarmed |  
+| bip_39_word_no_space_2 | cleanparade |  
+| bip_39_word_no_space_3 | cleanparadepublic |  
+| bip_39_word_no_space_4 | cleanparadepublicsituate |  
+| bip_39_word_no_space_5 | cleanparadepublicsituatetransfer |  
+| bip_39_word_no_space_6 | cleanparadepublicsituatetransfercritic |  
+| bip_39_word_no_space_7 | cleanparadepublicsituatetransfercriticquit |  
+| bip_39_word_no_space_8 | cleanparadepublicsituatetransfercriticquitwrong |  
+| bip_39_word_no_space_9 | cleanparadepublicsituatetransfercriticquitwrongmonth |  
 | bip_39_word_space_0 | ['clean', 'parade', 'public', 'situate', 'transfer', 'critic', 'quit', 'wrong', 'month', 'type', 'erupt', 'armed'] |  
 | bip_39_word_space_1 | clean |  
 | bip_39_word_space_10 | clean parade public situate transfer critic quit wrong month type |  

@@ -122,6 +122,18 @@ spirit
 bridge
 angle
 metal |  
+| bip_39_word_no_space_1 | casual |  
+| bip_39_word_no_space_10 | casualjuniorillletterunclespiritbridgeanglemetalforce |  
+| bip_39_word_no_space_11 | casualjuniorillletterunclespiritbridgeanglemetalforceneutral |  
+| bip_39_word_no_space_12 | casualjuniorillletterunclespiritbridgeanglemetalforceneutralanger |  
+| bip_39_word_no_space_2 | casualjunior |  
+| bip_39_word_no_space_3 | casualjuniorill |  
+| bip_39_word_no_space_4 | casualjuniorillletter |  
+| bip_39_word_no_space_5 | casualjuniorillletteruncle |  
+| bip_39_word_no_space_6 | casualjuniorillletterunclespirit |  
+| bip_39_word_no_space_7 | casualjuniorillletterunclespiritbridge |  
+| bip_39_word_no_space_8 | casualjuniorillletterunclespiritbridgeangle |  
+| bip_39_word_no_space_9 | casualjuniorillletterunclespiritbridgeanglemetal |  
 | bip_39_word_space_0 | ['casual', 'junior', 'ill', 'letter', 'uncle', 'spirit', 'bridge', 'angle', 'metal', 'force', 'neutral', 'anger'] |  
 | bip_39_word_space_1 | casual |  
 | bip_39_word_space_10 | casual junior ill letter uncle spirit bridge angle metal force |  

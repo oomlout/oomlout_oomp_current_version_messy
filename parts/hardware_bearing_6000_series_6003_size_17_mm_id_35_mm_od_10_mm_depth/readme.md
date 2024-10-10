@@ -122,6 +122,18 @@ mistake
 forest
 giraffe
 camp |  
+| bip_39_word_no_space_1 | phone |  
+| bip_39_word_no_space_10 | phoneairportslotsecuritywaspmistakeforestgiraffecampplease |  
+| bip_39_word_no_space_11 | phoneairportslotsecuritywaspmistakeforestgiraffecamppleasestem |  
+| bip_39_word_no_space_12 | phoneairportslotsecuritywaspmistakeforestgiraffecamppleasestemarch |  
+| bip_39_word_no_space_2 | phoneairport |  
+| bip_39_word_no_space_3 | phoneairportslot |  
+| bip_39_word_no_space_4 | phoneairportslotsecurity |  
+| bip_39_word_no_space_5 | phoneairportslotsecuritywasp |  
+| bip_39_word_no_space_6 | phoneairportslotsecuritywaspmistake |  
+| bip_39_word_no_space_7 | phoneairportslotsecuritywaspmistakeforest |  
+| bip_39_word_no_space_8 | phoneairportslotsecuritywaspmistakeforestgiraffe |  
+| bip_39_word_no_space_9 | phoneairportslotsecuritywaspmistakeforestgiraffecamp |  
 | bip_39_word_space_0 | ['phone', 'airport', 'slot', 'security', 'wasp', 'mistake', 'forest', 'giraffe', 'camp', 'please', 'stem', 'arch'] |  
 | bip_39_word_space_1 | phone |  
 | bip_39_word_space_10 | phone airport slot security wasp mistake forest giraffe camp please |  

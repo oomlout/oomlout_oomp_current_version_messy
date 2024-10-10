@@ -122,6 +122,18 @@ jungle
 filter
 scout
 iron |  
+| bip_39_word_no_space_1 | awesome |  
+| bip_39_word_no_space_10 | awesomebronzedenysqueezestomachjunglefilterscoutironrebuild |  
+| bip_39_word_no_space_11 | awesomebronzedenysqueezestomachjunglefilterscoutironrebuildradar |  
+| bip_39_word_no_space_12 | awesomebronzedenysqueezestomachjunglefilterscoutironrebuildradararctic |  
+| bip_39_word_no_space_2 | awesomebronze |  
+| bip_39_word_no_space_3 | awesomebronzedeny |  
+| bip_39_word_no_space_4 | awesomebronzedenysqueeze |  
+| bip_39_word_no_space_5 | awesomebronzedenysqueezestomach |  
+| bip_39_word_no_space_6 | awesomebronzedenysqueezestomachjungle |  
+| bip_39_word_no_space_7 | awesomebronzedenysqueezestomachjunglefilter |  
+| bip_39_word_no_space_8 | awesomebronzedenysqueezestomachjunglefilterscout |  
+| bip_39_word_no_space_9 | awesomebronzedenysqueezestomachjunglefilterscoutiron |  
 | bip_39_word_space_0 | ['awesome', 'bronze', 'deny', 'squeeze', 'stomach', 'jungle', 'filter', 'scout', 'iron', 'rebuild', 'radar', 'arctic'] |  
 | bip_39_word_space_1 | awesome |  
 | bip_39_word_space_10 | awesome bronze deny squeeze stomach jungle filter scout iron rebuild |  

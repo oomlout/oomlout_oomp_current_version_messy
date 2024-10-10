@@ -122,6 +122,18 @@ soda
 hill
 crater
 puzzle |  
+| bip_39_word_no_space_1 | caution |  
+| bip_39_word_no_space_10 | cautionbetterpoledigitalratesodahillcraterpuzzlereduce |  
+| bip_39_word_no_space_11 | cautionbetterpoledigitalratesodahillcraterpuzzlereducespoil |  
+| bip_39_word_no_space_12 | cautionbetterpoledigitalratesodahillcraterpuzzlereducespoilamazing |  
+| bip_39_word_no_space_2 | cautionbetter |  
+| bip_39_word_no_space_3 | cautionbetterpole |  
+| bip_39_word_no_space_4 | cautionbetterpoledigital |  
+| bip_39_word_no_space_5 | cautionbetterpoledigitalrate |  
+| bip_39_word_no_space_6 | cautionbetterpoledigitalratesoda |  
+| bip_39_word_no_space_7 | cautionbetterpoledigitalratesodahill |  
+| bip_39_word_no_space_8 | cautionbetterpoledigitalratesodahillcrater |  
+| bip_39_word_no_space_9 | cautionbetterpoledigitalratesodahillcraterpuzzle |  
 | bip_39_word_space_0 | ['caution', 'better', 'pole', 'digital', 'rate', 'soda', 'hill', 'crater', 'puzzle', 'reduce', 'spoil', 'amazing'] |  
 | bip_39_word_space_1 | caution |  
 | bip_39_word_space_10 | caution better pole digital rate soda hill crater puzzle reduce |  

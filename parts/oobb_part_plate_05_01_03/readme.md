@@ -122,6 +122,18 @@ tide
 sock
 add
 artwork |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualunfoldaisledesertfoamtidesockaddartworktomorrow |  
+| bip_39_word_no_space_11 | visualunfoldaisledesertfoamtidesockaddartworktomorrowbulb |  
+| bip_39_word_no_space_12 | visualunfoldaisledesertfoamtidesockaddartworktomorrowbulbargue |  
+| bip_39_word_no_space_2 | visualunfold |  
+| bip_39_word_no_space_3 | visualunfoldaisle |  
+| bip_39_word_no_space_4 | visualunfoldaisledesert |  
+| bip_39_word_no_space_5 | visualunfoldaisledesertfoam |  
+| bip_39_word_no_space_6 | visualunfoldaisledesertfoamtide |  
+| bip_39_word_no_space_7 | visualunfoldaisledesertfoamtidesock |  
+| bip_39_word_no_space_8 | visualunfoldaisledesertfoamtidesockadd |  
+| bip_39_word_no_space_9 | visualunfoldaisledesertfoamtidesockaddartwork |  
 | bip_39_word_space_0 | ['visual', 'unfold', 'aisle', 'desert', 'foam', 'tide', 'sock', 'add', 'artwork', 'tomorrow', 'bulb', 'argue'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual unfold aisle desert foam tide sock add artwork tomorrow |  

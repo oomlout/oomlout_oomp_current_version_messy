@@ -122,6 +122,18 @@ waste
 mix
 account
 energy |  
+| bip_39_word_no_space_1 | midnight |  
+| bip_39_word_no_space_10 | midnightglancedenialbravebrainwastemixaccountenergydefy |  
+| bip_39_word_no_space_11 | midnightglancedenialbravebrainwastemixaccountenergydefyindicate |  
+| bip_39_word_no_space_12 | midnightglancedenialbravebrainwastemixaccountenergydefyindicateaunt |  
+| bip_39_word_no_space_2 | midnightglance |  
+| bip_39_word_no_space_3 | midnightglancedenial |  
+| bip_39_word_no_space_4 | midnightglancedenialbrave |  
+| bip_39_word_no_space_5 | midnightglancedenialbravebrain |  
+| bip_39_word_no_space_6 | midnightglancedenialbravebrainwaste |  
+| bip_39_word_no_space_7 | midnightglancedenialbravebrainwastemix |  
+| bip_39_word_no_space_8 | midnightglancedenialbravebrainwastemixaccount |  
+| bip_39_word_no_space_9 | midnightglancedenialbravebrainwastemixaccountenergy |  
 | bip_39_word_space_0 | ['midnight', 'glance', 'denial', 'brave', 'brain', 'waste', 'mix', 'account', 'energy', 'defy', 'indicate', 'aunt'] |  
 | bip_39_word_space_1 | midnight |  
 | bip_39_word_space_10 | midnight glance denial brave brain waste mix account energy defy |  

@@ -122,6 +122,18 @@ decline
 twin
 range
 away |  
+| bip_39_word_no_space_1 | country |  
+| bip_39_word_no_space_10 | countrytitlestayundoindexdeclinetwinrangeawaychronic |  
+| bip_39_word_no_space_11 | countrytitlestayundoindexdeclinetwinrangeawaychronicenemy |  
+| bip_39_word_no_space_12 | countrytitlestayundoindexdeclinetwinrangeawaychronicenemyaccount |  
+| bip_39_word_no_space_2 | countrytitle |  
+| bip_39_word_no_space_3 | countrytitlestay |  
+| bip_39_word_no_space_4 | countrytitlestayundo |  
+| bip_39_word_no_space_5 | countrytitlestayundoindex |  
+| bip_39_word_no_space_6 | countrytitlestayundoindexdecline |  
+| bip_39_word_no_space_7 | countrytitlestayundoindexdeclinetwin |  
+| bip_39_word_no_space_8 | countrytitlestayundoindexdeclinetwinrange |  
+| bip_39_word_no_space_9 | countrytitlestayundoindexdeclinetwinrangeaway |  
 | bip_39_word_space_0 | ['country', 'title', 'stay', 'undo', 'index', 'decline', 'twin', 'range', 'away', 'chronic', 'enemy', 'account'] |  
 | bip_39_word_space_1 | country |  
 | bip_39_word_space_10 | country title stay undo index decline twin range away chronic |  

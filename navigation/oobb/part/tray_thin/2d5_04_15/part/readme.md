@@ -122,6 +122,18 @@ cherry
 pen
 pretty
 lady |  
+| bip_39_word_no_space_1 | square |  
+| bip_39_word_no_space_10 | squarecreamobservecementlifecherrypenprettyladyseat |  
+| bip_39_word_no_space_11 | squarecreamobservecementlifecherrypenprettyladyseatriot |  
+| bip_39_word_no_space_12 | squarecreamobservecementlifecherrypenprettyladyseatriotagent |  
+| bip_39_word_no_space_2 | squarecream |  
+| bip_39_word_no_space_3 | squarecreamobserve |  
+| bip_39_word_no_space_4 | squarecreamobservecement |  
+| bip_39_word_no_space_5 | squarecreamobservecementlife |  
+| bip_39_word_no_space_6 | squarecreamobservecementlifecherry |  
+| bip_39_word_no_space_7 | squarecreamobservecementlifecherrypen |  
+| bip_39_word_no_space_8 | squarecreamobservecementlifecherrypenpretty |  
+| bip_39_word_no_space_9 | squarecreamobservecementlifecherrypenprettylady |  
 | bip_39_word_space_0 | ['square', 'cream', 'observe', 'cement', 'life', 'cherry', 'pen', 'pretty', 'lady', 'seat', 'riot', 'agent'] |  
 | bip_39_word_space_1 | square |  
 | bip_39_word_space_10 | square cream observe cement life cherry pen pretty lady seat |  

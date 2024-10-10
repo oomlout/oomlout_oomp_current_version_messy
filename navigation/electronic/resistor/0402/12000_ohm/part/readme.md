@@ -122,6 +122,18 @@ near
 butter
 adult
 spray |  
+| bip_39_word_no_space_1 | hand |  
+| bip_39_word_no_space_10 | handbuddyacquirehappysatisfynearbutteradultsprayelder |  
+| bip_39_word_no_space_11 | handbuddyacquirehappysatisfynearbutteradultsprayelderappear |  
+| bip_39_word_no_space_12 | handbuddyacquirehappysatisfynearbutteradultsprayelderappearadjust |  
+| bip_39_word_no_space_2 | handbuddy |  
+| bip_39_word_no_space_3 | handbuddyacquire |  
+| bip_39_word_no_space_4 | handbuddyacquirehappy |  
+| bip_39_word_no_space_5 | handbuddyacquirehappysatisfy |  
+| bip_39_word_no_space_6 | handbuddyacquirehappysatisfynear |  
+| bip_39_word_no_space_7 | handbuddyacquirehappysatisfynearbutter |  
+| bip_39_word_no_space_8 | handbuddyacquirehappysatisfynearbutteradult |  
+| bip_39_word_no_space_9 | handbuddyacquirehappysatisfynearbutteradultspray |  
 | bip_39_word_space_0 | ['hand', 'buddy', 'acquire', 'happy', 'satisfy', 'near', 'butter', 'adult', 'spray', 'elder', 'appear', 'adjust'] |  
 | bip_39_word_space_1 | hand |  
 | bip_39_word_space_10 | hand buddy acquire happy satisfy near butter adult spray elder |  

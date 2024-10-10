@@ -122,6 +122,18 @@ denial
 cloud
 detail
 cement |  
+| bip_39_word_no_space_1 | level |  
+| bip_39_word_no_space_10 | levellistsausagedreampicnicdenialclouddetailcementcheese |  
+| bip_39_word_no_space_11 | levellistsausagedreampicnicdenialclouddetailcementcheesepredict |  
+| bip_39_word_no_space_12 | levellistsausagedreampicnicdenialclouddetailcementcheesepredictarmed |  
+| bip_39_word_no_space_2 | levellist |  
+| bip_39_word_no_space_3 | levellistsausage |  
+| bip_39_word_no_space_4 | levellistsausagedream |  
+| bip_39_word_no_space_5 | levellistsausagedreampicnic |  
+| bip_39_word_no_space_6 | levellistsausagedreampicnicdenial |  
+| bip_39_word_no_space_7 | levellistsausagedreampicnicdenialcloud |  
+| bip_39_word_no_space_8 | levellistsausagedreampicnicdenialclouddetail |  
+| bip_39_word_no_space_9 | levellistsausagedreampicnicdenialclouddetailcement |  
 | bip_39_word_space_0 | ['level', 'list', 'sausage', 'dream', 'picnic', 'denial', 'cloud', 'detail', 'cement', 'cheese', 'predict', 'armed'] |  
 | bip_39_word_space_1 | level |  
 | bip_39_word_space_10 | level list sausage dream picnic denial cloud detail cement cheese |  

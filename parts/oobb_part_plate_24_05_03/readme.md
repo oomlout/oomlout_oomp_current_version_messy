@@ -122,6 +122,18 @@ topic
 cancel
 noodle
 middle |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | areaactfilelanguagedefinetopiccancelnoodlemiddlefossil |  
+| bip_39_word_no_space_11 | areaactfilelanguagedefinetopiccancelnoodlemiddlefossilevil |  
+| bip_39_word_no_space_12 | areaactfilelanguagedefinetopiccancelnoodlemiddlefossilevilarctic |  
+| bip_39_word_no_space_2 | areaact |  
+| bip_39_word_no_space_3 | areaactfile |  
+| bip_39_word_no_space_4 | areaactfilelanguage |  
+| bip_39_word_no_space_5 | areaactfilelanguagedefine |  
+| bip_39_word_no_space_6 | areaactfilelanguagedefinetopic |  
+| bip_39_word_no_space_7 | areaactfilelanguagedefinetopiccancel |  
+| bip_39_word_no_space_8 | areaactfilelanguagedefinetopiccancelnoodle |  
+| bip_39_word_no_space_9 | areaactfilelanguagedefinetopiccancelnoodlemiddle |  
 | bip_39_word_space_0 | ['area', 'act', 'file', 'language', 'define', 'topic', 'cancel', 'noodle', 'middle', 'fossil', 'evil', 'arctic'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area act file language define topic cancel noodle middle fossil |  

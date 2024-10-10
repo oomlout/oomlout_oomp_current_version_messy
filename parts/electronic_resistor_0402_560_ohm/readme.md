@@ -122,6 +122,18 @@ front
 gun
 design
 vendor |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callfoilskillthisnewsfrontgundesignvendorartist |  
+| bip_39_word_no_space_11 | callfoilskillthisnewsfrontgundesignvendorartistclay |  
+| bip_39_word_no_space_12 | callfoilskillthisnewsfrontgundesignvendorartistclayaddress |  
+| bip_39_word_no_space_2 | callfoil |  
+| bip_39_word_no_space_3 | callfoilskill |  
+| bip_39_word_no_space_4 | callfoilskillthis |  
+| bip_39_word_no_space_5 | callfoilskillthisnews |  
+| bip_39_word_no_space_6 | callfoilskillthisnewsfront |  
+| bip_39_word_no_space_7 | callfoilskillthisnewsfrontgun |  
+| bip_39_word_no_space_8 | callfoilskillthisnewsfrontgundesign |  
+| bip_39_word_no_space_9 | callfoilskillthisnewsfrontgundesignvendor |  
 | bip_39_word_space_0 | ['call', 'foil', 'skill', 'this', 'news', 'front', 'gun', 'design', 'vendor', 'artist', 'clay', 'address'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call foil skill this news front gun design vendor artist |  

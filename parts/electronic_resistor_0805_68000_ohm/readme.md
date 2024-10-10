@@ -122,6 +122,18 @@ pelican
 curve
 ticket
 diesel |  
+| bip_39_word_no_space_1 | tone |  
+| bip_39_word_no_space_10 | tonevalleypepperhockeyinvitepelicancurveticketdieselpenalty |  
+| bip_39_word_no_space_11 | tonevalleypepperhockeyinvitepelicancurveticketdieselpenaltycrawl |  
+| bip_39_word_no_space_12 | tonevalleypepperhockeyinvitepelicancurveticketdieselpenaltycrawlalter |  
+| bip_39_word_no_space_2 | tonevalley |  
+| bip_39_word_no_space_3 | tonevalleypepper |  
+| bip_39_word_no_space_4 | tonevalleypepperhockey |  
+| bip_39_word_no_space_5 | tonevalleypepperhockeyinvite |  
+| bip_39_word_no_space_6 | tonevalleypepperhockeyinvitepelican |  
+| bip_39_word_no_space_7 | tonevalleypepperhockeyinvitepelicancurve |  
+| bip_39_word_no_space_8 | tonevalleypepperhockeyinvitepelicancurveticket |  
+| bip_39_word_no_space_9 | tonevalleypepperhockeyinvitepelicancurveticketdiesel |  
 | bip_39_word_space_0 | ['tone', 'valley', 'pepper', 'hockey', 'invite', 'pelican', 'curve', 'ticket', 'diesel', 'penalty', 'crawl', 'alter'] |  
 | bip_39_word_space_1 | tone |  
 | bip_39_word_space_10 | tone valley pepper hockey invite pelican curve ticket diesel penalty |  

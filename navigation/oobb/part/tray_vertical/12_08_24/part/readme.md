@@ -122,6 +122,18 @@ vessel
 taxi
 range
 nasty |  
+| bip_39_word_no_space_1 | credit |  
+| bip_39_word_no_space_10 | creditsickgarageeternalsaucevesseltaxirangenastybadge |  
+| bip_39_word_no_space_11 | creditsickgarageeternalsaucevesseltaxirangenastybadgewelcome |  
+| bip_39_word_no_space_12 | creditsickgarageeternalsaucevesseltaxirangenastybadgewelcomeattack |  
+| bip_39_word_no_space_2 | creditsick |  
+| bip_39_word_no_space_3 | creditsickgarage |  
+| bip_39_word_no_space_4 | creditsickgarageeternal |  
+| bip_39_word_no_space_5 | creditsickgarageeternalsauce |  
+| bip_39_word_no_space_6 | creditsickgarageeternalsaucevessel |  
+| bip_39_word_no_space_7 | creditsickgarageeternalsaucevesseltaxi |  
+| bip_39_word_no_space_8 | creditsickgarageeternalsaucevesseltaxirange |  
+| bip_39_word_no_space_9 | creditsickgarageeternalsaucevesseltaxirangenasty |  
 | bip_39_word_space_0 | ['credit', 'sick', 'garage', 'eternal', 'sauce', 'vessel', 'taxi', 'range', 'nasty', 'badge', 'welcome', 'attack'] |  
 | bip_39_word_space_1 | credit |  
 | bip_39_word_space_10 | credit sick garage eternal sauce vessel taxi range nasty badge |  

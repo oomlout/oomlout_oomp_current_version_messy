@@ -122,6 +122,18 @@ company
 will
 desk
 photo |  
+| bip_39_word_no_space_1 | cereal |  
+| bip_39_word_no_space_10 | cerealsurgeexchangefallribboncompanywilldeskphotohand |  
+| bip_39_word_no_space_11 | cerealsurgeexchangefallribboncompanywilldeskphotohandfoil |  
+| bip_39_word_no_space_12 | cerealsurgeexchangefallribboncompanywilldeskphotohandfoilabout |  
+| bip_39_word_no_space_2 | cerealsurge |  
+| bip_39_word_no_space_3 | cerealsurgeexchange |  
+| bip_39_word_no_space_4 | cerealsurgeexchangefall |  
+| bip_39_word_no_space_5 | cerealsurgeexchangefallribbon |  
+| bip_39_word_no_space_6 | cerealsurgeexchangefallribboncompany |  
+| bip_39_word_no_space_7 | cerealsurgeexchangefallribboncompanywill |  
+| bip_39_word_no_space_8 | cerealsurgeexchangefallribboncompanywilldesk |  
+| bip_39_word_no_space_9 | cerealsurgeexchangefallribboncompanywilldeskphoto |  
 | bip_39_word_space_0 | ['cereal', 'surge', 'exchange', 'fall', 'ribbon', 'company', 'will', 'desk', 'photo', 'hand', 'foil', 'about'] |  
 | bip_39_word_space_1 | cereal |  
 | bip_39_word_space_10 | cereal surge exchange fall ribbon company will desk photo hand |  

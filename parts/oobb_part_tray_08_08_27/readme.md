@@ -122,6 +122,18 @@ frame
 color
 away
 tool |  
+| bip_39_word_no_space_1 | equal |  
+| bip_39_word_no_space_10 | equalpostworkconnectgoldframecolorawaytoolcasino |  
+| bip_39_word_no_space_11 | equalpostworkconnectgoldframecolorawaytoolcasinowood |  
+| bip_39_word_no_space_12 | equalpostworkconnectgoldframecolorawaytoolcasinowoodannual |  
+| bip_39_word_no_space_2 | equalpost |  
+| bip_39_word_no_space_3 | equalpostwork |  
+| bip_39_word_no_space_4 | equalpostworkconnect |  
+| bip_39_word_no_space_5 | equalpostworkconnectgold |  
+| bip_39_word_no_space_6 | equalpostworkconnectgoldframe |  
+| bip_39_word_no_space_7 | equalpostworkconnectgoldframecolor |  
+| bip_39_word_no_space_8 | equalpostworkconnectgoldframecoloraway |  
+| bip_39_word_no_space_9 | equalpostworkconnectgoldframecolorawaytool |  
 | bip_39_word_space_0 | ['equal', 'post', 'work', 'connect', 'gold', 'frame', 'color', 'away', 'tool', 'casino', 'wood', 'annual'] |  
 | bip_39_word_space_1 | equal |  
 | bip_39_word_space_10 | equal post work connect gold frame color away tool casino |  

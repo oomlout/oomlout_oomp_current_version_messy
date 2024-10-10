@@ -122,6 +122,18 @@ almost
 afraid
 normal
 odor |  
+| bip_39_word_no_space_1 | cushion |  
+| bip_39_word_no_space_10 | cushionbecomeelevatorevokerubberalmostafraidnormalodorsatoshi |  
+| bip_39_word_no_space_11 | cushionbecomeelevatorevokerubberalmostafraidnormalodorsatoshipoint |  
+| bip_39_word_no_space_12 | cushionbecomeelevatorevokerubberalmostafraidnormalodorsatoshipointannual |  
+| bip_39_word_no_space_2 | cushionbecome |  
+| bip_39_word_no_space_3 | cushionbecomeelevator |  
+| bip_39_word_no_space_4 | cushionbecomeelevatorevoke |  
+| bip_39_word_no_space_5 | cushionbecomeelevatorevokerubber |  
+| bip_39_word_no_space_6 | cushionbecomeelevatorevokerubberalmost |  
+| bip_39_word_no_space_7 | cushionbecomeelevatorevokerubberalmostafraid |  
+| bip_39_word_no_space_8 | cushionbecomeelevatorevokerubberalmostafraidnormal |  
+| bip_39_word_no_space_9 | cushionbecomeelevatorevokerubberalmostafraidnormalodor |  
 | bip_39_word_space_0 | ['cushion', 'become', 'elevator', 'evoke', 'rubber', 'almost', 'afraid', 'normal', 'odor', 'satoshi', 'point', 'annual'] |  
 | bip_39_word_space_1 | cushion |  
 | bip_39_word_space_10 | cushion become elevator evoke rubber almost afraid normal odor satoshi |  

@@ -122,6 +122,18 @@ plunge
 hospital
 enjoy
 ensure |  
+| bip_39_word_no_space_1 | laundry |  
+| bip_39_word_no_space_10 | laundryclockquantumspinaspectplungehospitalenjoyensureinch |  
+| bip_39_word_no_space_11 | laundryclockquantumspinaspectplungehospitalenjoyensureinchisland |  
+| bip_39_word_no_space_12 | laundryclockquantumspinaspectplungehospitalenjoyensureinchislandankle |  
+| bip_39_word_no_space_2 | laundryclock |  
+| bip_39_word_no_space_3 | laundryclockquantum |  
+| bip_39_word_no_space_4 | laundryclockquantumspin |  
+| bip_39_word_no_space_5 | laundryclockquantumspinaspect |  
+| bip_39_word_no_space_6 | laundryclockquantumspinaspectplunge |  
+| bip_39_word_no_space_7 | laundryclockquantumspinaspectplungehospital |  
+| bip_39_word_no_space_8 | laundryclockquantumspinaspectplungehospitalenjoy |  
+| bip_39_word_no_space_9 | laundryclockquantumspinaspectplungehospitalenjoyensure |  
 | bip_39_word_space_0 | ['laundry', 'clock', 'quantum', 'spin', 'aspect', 'plunge', 'hospital', 'enjoy', 'ensure', 'inch', 'island', 'ankle'] |  
 | bip_39_word_space_1 | laundry |  
 | bip_39_word_space_10 | laundry clock quantum spin aspect plunge hospital enjoy ensure inch |  

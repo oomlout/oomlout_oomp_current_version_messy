@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tip
   coil
 
   solve'
+bip_39_word_no_space_1: tip
+bip_39_word_no_space_10: tipbeginmenuvoiceacrosscradlerightcoilsolveride
+bip_39_word_no_space_11: tipbeginmenuvoiceacrosscradlerightcoilsolveridecotton
+bip_39_word_no_space_12: tipbeginmenuvoiceacrosscradlerightcoilsolveridecottonalien
+bip_39_word_no_space_2: tipbegin
+bip_39_word_no_space_3: tipbeginmenu
+bip_39_word_no_space_4: tipbeginmenuvoice
+bip_39_word_no_space_5: tipbeginmenuvoiceacross
+bip_39_word_no_space_6: tipbeginmenuvoiceacrosscradle
+bip_39_word_no_space_7: tipbeginmenuvoiceacrosscradleright
+bip_39_word_no_space_8: tipbeginmenuvoiceacrosscradlerightcoil
+bip_39_word_no_space_9: tipbeginmenuvoiceacrosscradlerightcoilsolve
 bip_39_word_space_0:
 - tip
 - begin

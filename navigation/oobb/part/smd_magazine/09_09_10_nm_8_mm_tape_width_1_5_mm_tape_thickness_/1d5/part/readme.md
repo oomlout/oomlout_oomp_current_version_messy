@@ -122,6 +122,18 @@ turtle
 pony
 refuse
 embody |  
+| bip_39_word_no_space_1 | hamster |  
+| bip_39_word_no_space_10 | hamstereitheruncovershyawkwardturtleponyrefuseembodyexhaust |  
+| bip_39_word_no_space_11 | hamstereitheruncovershyawkwardturtleponyrefuseembodyexhaustagree |  
+| bip_39_word_no_space_12 | hamstereitheruncovershyawkwardturtleponyrefuseembodyexhaustagreealmost |  
+| bip_39_word_no_space_2 | hamstereither |  
+| bip_39_word_no_space_3 | hamstereitheruncover |  
+| bip_39_word_no_space_4 | hamstereitheruncovershy |  
+| bip_39_word_no_space_5 | hamstereitheruncovershyawkward |  
+| bip_39_word_no_space_6 | hamstereitheruncovershyawkwardturtle |  
+| bip_39_word_no_space_7 | hamstereitheruncovershyawkwardturtlepony |  
+| bip_39_word_no_space_8 | hamstereitheruncovershyawkwardturtleponyrefuse |  
+| bip_39_word_no_space_9 | hamstereitheruncovershyawkwardturtleponyrefuseembody |  
 | bip_39_word_space_0 | ['hamster', 'either', 'uncover', 'shy', 'awkward', 'turtle', 'pony', 'refuse', 'embody', 'exhaust', 'agree', 'almost'] |  
 | bip_39_word_space_1 | hamster |  
 | bip_39_word_space_10 | hamster either uncover shy awkward turtle pony refuse embody exhaust |  

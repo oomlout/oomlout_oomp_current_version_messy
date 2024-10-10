@@ -122,6 +122,18 @@ joke
 fabric
 quick
 witness |  
+| bip_39_word_no_space_1 | torch |  
+| bip_39_word_no_space_10 | torchaprilnoodlegymfacultyjokefabricquickwitnesserror |  
+| bip_39_word_no_space_11 | torchaprilnoodlegymfacultyjokefabricquickwitnesserrorindoor |  
+| bip_39_word_no_space_12 | torchaprilnoodlegymfacultyjokefabricquickwitnesserrorindooralcohol |  
+| bip_39_word_no_space_2 | torchapril |  
+| bip_39_word_no_space_3 | torchaprilnoodle |  
+| bip_39_word_no_space_4 | torchaprilnoodlegym |  
+| bip_39_word_no_space_5 | torchaprilnoodlegymfaculty |  
+| bip_39_word_no_space_6 | torchaprilnoodlegymfacultyjoke |  
+| bip_39_word_no_space_7 | torchaprilnoodlegymfacultyjokefabric |  
+| bip_39_word_no_space_8 | torchaprilnoodlegymfacultyjokefabricquick |  
+| bip_39_word_no_space_9 | torchaprilnoodlegymfacultyjokefabricquickwitness |  
 | bip_39_word_space_0 | ['torch', 'april', 'noodle', 'gym', 'faculty', 'joke', 'fabric', 'quick', 'witness', 'error', 'indoor', 'alcohol'] |  
 | bip_39_word_space_1 | torch |  
 | bip_39_word_space_10 | torch april noodle gym faculty joke fabric quick witness error |  

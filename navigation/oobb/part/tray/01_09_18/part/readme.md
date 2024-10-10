@@ -122,6 +122,18 @@ symptom
 pigeon
 fringe
 multiply |  
+| bip_39_word_no_space_1 | allow |  
+| bip_39_word_no_space_10 | allowfoodribbonmindtomorrowsymptompigeonfringemultiplyisland |  
+| bip_39_word_no_space_11 | allowfoodribbonmindtomorrowsymptompigeonfringemultiplyislandsleep |  
+| bip_39_word_no_space_12 | allowfoodribbonmindtomorrowsymptompigeonfringemultiplyislandsleepactress |  
+| bip_39_word_no_space_2 | allowfood |  
+| bip_39_word_no_space_3 | allowfoodribbon |  
+| bip_39_word_no_space_4 | allowfoodribbonmind |  
+| bip_39_word_no_space_5 | allowfoodribbonmindtomorrow |  
+| bip_39_word_no_space_6 | allowfoodribbonmindtomorrowsymptom |  
+| bip_39_word_no_space_7 | allowfoodribbonmindtomorrowsymptompigeon |  
+| bip_39_word_no_space_8 | allowfoodribbonmindtomorrowsymptompigeonfringe |  
+| bip_39_word_no_space_9 | allowfoodribbonmindtomorrowsymptompigeonfringemultiply |  
 | bip_39_word_space_0 | ['allow', 'food', 'ribbon', 'mind', 'tomorrow', 'symptom', 'pigeon', 'fringe', 'multiply', 'island', 'sleep', 'actress'] |  
 | bip_39_word_space_1 | allow |  
 | bip_39_word_space_10 | allow food ribbon mind tomorrow symptom pigeon fringe multiply island |  

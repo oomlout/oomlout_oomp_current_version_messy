@@ -122,6 +122,18 @@ fiction
 news
 erosion
 write |  
+| bip_39_word_no_space_1 | inquiry |  
+| bip_39_word_no_space_10 | inquirytortoiseclinicplategunfictionnewserosionwritebenefit |  
+| bip_39_word_no_space_11 | inquirytortoiseclinicplategunfictionnewserosionwritebenefitclub |  
+| bip_39_word_no_space_12 | inquirytortoiseclinicplategunfictionnewserosionwritebenefitcluballey |  
+| bip_39_word_no_space_2 | inquirytortoise |  
+| bip_39_word_no_space_3 | inquirytortoiseclinic |  
+| bip_39_word_no_space_4 | inquirytortoiseclinicplate |  
+| bip_39_word_no_space_5 | inquirytortoiseclinicplategun |  
+| bip_39_word_no_space_6 | inquirytortoiseclinicplategunfiction |  
+| bip_39_word_no_space_7 | inquirytortoiseclinicplategunfictionnews |  
+| bip_39_word_no_space_8 | inquirytortoiseclinicplategunfictionnewserosion |  
+| bip_39_word_no_space_9 | inquirytortoiseclinicplategunfictionnewserosionwrite |  
 | bip_39_word_space_0 | ['inquiry', 'tortoise', 'clinic', 'plate', 'gun', 'fiction', 'news', 'erosion', 'write', 'benefit', 'club', 'alley'] |  
 | bip_39_word_space_1 | inquiry |  
 | bip_39_word_space_10 | inquiry tortoise clinic plate gun fiction news erosion write benefit |  

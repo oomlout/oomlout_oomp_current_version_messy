@@ -122,6 +122,18 @@ age
 various
 endorse
 rapid |  
+| bip_39_word_no_space_1 | urge |  
+| bip_39_word_no_space_10 | urgeimitatepromoteexileserviceagevariousendorserapidbuffalo |  
+| bip_39_word_no_space_11 | urgeimitatepromoteexileserviceagevariousendorserapidbuffalostay |  
+| bip_39_word_no_space_12 | urgeimitatepromoteexileserviceagevariousendorserapidbuffalostayalley |  
+| bip_39_word_no_space_2 | urgeimitate |  
+| bip_39_word_no_space_3 | urgeimitatepromote |  
+| bip_39_word_no_space_4 | urgeimitatepromoteexile |  
+| bip_39_word_no_space_5 | urgeimitatepromoteexileservice |  
+| bip_39_word_no_space_6 | urgeimitatepromoteexileserviceage |  
+| bip_39_word_no_space_7 | urgeimitatepromoteexileserviceagevarious |  
+| bip_39_word_no_space_8 | urgeimitatepromoteexileserviceagevariousendorse |  
+| bip_39_word_no_space_9 | urgeimitatepromoteexileserviceagevariousendorserapid |  
 | bip_39_word_space_0 | ['urge', 'imitate', 'promote', 'exile', 'service', 'age', 'various', 'endorse', 'rapid', 'buffalo', 'stay', 'alley'] |  
 | bip_39_word_space_1 | urge |  
 | bip_39_word_space_10 | urge imitate promote exile service age various endorse rapid buffalo |  

@@ -122,6 +122,18 @@ across
 shoot
 enemy
 betray |  
+| bip_39_word_no_space_1 | voyage |  
+| bip_39_word_no_space_10 | voyagedecoratememberramplevelacrossshootenemybetrayyellow |  
+| bip_39_word_no_space_11 | voyagedecoratememberramplevelacrossshootenemybetrayyellowolive |  
+| bip_39_word_no_space_12 | voyagedecoratememberramplevelacrossshootenemybetrayyellowoliveartist |  
+| bip_39_word_no_space_2 | voyagedecorate |  
+| bip_39_word_no_space_3 | voyagedecoratemember |  
+| bip_39_word_no_space_4 | voyagedecoratememberramp |  
+| bip_39_word_no_space_5 | voyagedecoratememberramplevel |  
+| bip_39_word_no_space_6 | voyagedecoratememberramplevelacross |  
+| bip_39_word_no_space_7 | voyagedecoratememberramplevelacrossshoot |  
+| bip_39_word_no_space_8 | voyagedecoratememberramplevelacrossshootenemy |  
+| bip_39_word_no_space_9 | voyagedecoratememberramplevelacrossshootenemybetray |  
 | bip_39_word_space_0 | ['voyage', 'decorate', 'member', 'ramp', 'level', 'across', 'shoot', 'enemy', 'betray', 'yellow', 'olive', 'artist'] |  
 | bip_39_word_space_1 | voyage |  
 | bip_39_word_space_10 | voyage decorate member ramp level across shoot enemy betray yellow |  

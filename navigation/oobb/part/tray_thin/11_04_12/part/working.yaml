@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rocket
   science
 
   image'
+bip_39_word_no_space_1: rocket
+bip_39_word_no_space_10: rocketzonecubelotteryopposelavacaptainscienceimageorgan
+bip_39_word_no_space_11: rocketzonecubelotteryopposelavacaptainscienceimageorganlamp
+bip_39_word_no_space_12: rocketzonecubelotteryopposelavacaptainscienceimageorganlampannounce
+bip_39_word_no_space_2: rocketzone
+bip_39_word_no_space_3: rocketzonecube
+bip_39_word_no_space_4: rocketzonecubelottery
+bip_39_word_no_space_5: rocketzonecubelotteryoppose
+bip_39_word_no_space_6: rocketzonecubelotteryopposelava
+bip_39_word_no_space_7: rocketzonecubelotteryopposelavacaptain
+bip_39_word_no_space_8: rocketzonecubelotteryopposelavacaptainscience
+bip_39_word_no_space_9: rocketzonecubelotteryopposelavacaptainscienceimage
 bip_39_word_space_0:
 - rocket
 - zone

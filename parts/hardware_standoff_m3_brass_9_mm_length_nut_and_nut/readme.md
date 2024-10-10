@@ -122,6 +122,18 @@ under
 wolf
 auto
 spoon |  
+| bip_39_word_no_space_1 | message |  
+| bip_39_word_no_space_10 | messagepuppylatinpinkwideunderwolfautospoonfemale |  
+| bip_39_word_no_space_11 | messagepuppylatinpinkwideunderwolfautospoonfemaleprotect |  
+| bip_39_word_no_space_12 | messagepuppylatinpinkwideunderwolfautospoonfemaleprotectalcohol |  
+| bip_39_word_no_space_2 | messagepuppy |  
+| bip_39_word_no_space_3 | messagepuppylatin |  
+| bip_39_word_no_space_4 | messagepuppylatinpink |  
+| bip_39_word_no_space_5 | messagepuppylatinpinkwide |  
+| bip_39_word_no_space_6 | messagepuppylatinpinkwideunder |  
+| bip_39_word_no_space_7 | messagepuppylatinpinkwideunderwolf |  
+| bip_39_word_no_space_8 | messagepuppylatinpinkwideunderwolfauto |  
+| bip_39_word_no_space_9 | messagepuppylatinpinkwideunderwolfautospoon |  
 | bip_39_word_space_0 | ['message', 'puppy', 'latin', 'pink', 'wide', 'under', 'wolf', 'auto', 'spoon', 'female', 'protect', 'alcohol'] |  
 | bip_39_word_space_1 | message |  
 | bip_39_word_space_10 | message puppy latin pink wide under wolf auto spoon female |  

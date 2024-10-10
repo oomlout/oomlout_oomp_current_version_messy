@@ -122,6 +122,18 @@ comic
 brain
 name
 stand |  
+| bip_39_word_no_space_1 | wise |  
+| bip_39_word_no_space_10 | wisewiseenemymedaltodaycomicbrainnamestandwealth |  
+| bip_39_word_no_space_11 | wisewiseenemymedaltodaycomicbrainnamestandwealthexpand |  
+| bip_39_word_no_space_12 | wisewiseenemymedaltodaycomicbrainnamestandwealthexpandactual |  
+| bip_39_word_no_space_2 | wisewise |  
+| bip_39_word_no_space_3 | wisewiseenemy |  
+| bip_39_word_no_space_4 | wisewiseenemymedal |  
+| bip_39_word_no_space_5 | wisewiseenemymedaltoday |  
+| bip_39_word_no_space_6 | wisewiseenemymedaltodaycomic |  
+| bip_39_word_no_space_7 | wisewiseenemymedaltodaycomicbrain |  
+| bip_39_word_no_space_8 | wisewiseenemymedaltodaycomicbrainname |  
+| bip_39_word_no_space_9 | wisewiseenemymedaltodaycomicbrainnamestand |  
 | bip_39_word_space_0 | ['wise', 'wise', 'enemy', 'medal', 'today', 'comic', 'brain', 'name', 'stand', 'wealth', 'expand', 'actual'] |  
 | bip_39_word_space_1 | wise |  
 | bip_39_word_space_10 | wise wise enemy medal today comic brain name stand wealth |  

@@ -122,6 +122,18 @@ purity
 link
 memory
 enlist |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | servicemixedglimpsechunkicepuritylinkmemoryenlistfaint |  
+| bip_39_word_no_space_11 | servicemixedglimpsechunkicepuritylinkmemoryenlistfaintbring |  
+| bip_39_word_no_space_12 | servicemixedglimpsechunkicepuritylinkmemoryenlistfaintbringarea |  
+| bip_39_word_no_space_2 | servicemixed |  
+| bip_39_word_no_space_3 | servicemixedglimpse |  
+| bip_39_word_no_space_4 | servicemixedglimpsechunk |  
+| bip_39_word_no_space_5 | servicemixedglimpsechunkice |  
+| bip_39_word_no_space_6 | servicemixedglimpsechunkicepurity |  
+| bip_39_word_no_space_7 | servicemixedglimpsechunkicepuritylink |  
+| bip_39_word_no_space_8 | servicemixedglimpsechunkicepuritylinkmemory |  
+| bip_39_word_no_space_9 | servicemixedglimpsechunkicepuritylinkmemoryenlist |  
 | bip_39_word_space_0 | ['service', 'mixed', 'glimpse', 'chunk', 'ice', 'purity', 'link', 'memory', 'enlist', 'faint', 'bring', 'area'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service mixed glimpse chunk ice purity link memory enlist faint |  

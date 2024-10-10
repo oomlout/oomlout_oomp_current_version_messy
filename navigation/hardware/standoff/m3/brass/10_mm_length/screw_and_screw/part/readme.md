@@ -122,6 +122,18 @@ cube
 debate
 antique
 distance |  
+| bip_39_word_no_space_1 | profit |  
+| bip_39_word_no_space_10 | profitbecausewarmsugarnuclearcubedebateantiquedistancedeputy |  
+| bip_39_word_no_space_11 | profitbecausewarmsugarnuclearcubedebateantiquedistancedeputystage |  
+| bip_39_word_no_space_12 | profitbecausewarmsugarnuclearcubedebateantiquedistancedeputystageabout |  
+| bip_39_word_no_space_2 | profitbecause |  
+| bip_39_word_no_space_3 | profitbecausewarm |  
+| bip_39_word_no_space_4 | profitbecausewarmsugar |  
+| bip_39_word_no_space_5 | profitbecausewarmsugarnuclear |  
+| bip_39_word_no_space_6 | profitbecausewarmsugarnuclearcube |  
+| bip_39_word_no_space_7 | profitbecausewarmsugarnuclearcubedebate |  
+| bip_39_word_no_space_8 | profitbecausewarmsugarnuclearcubedebateantique |  
+| bip_39_word_no_space_9 | profitbecausewarmsugarnuclearcubedebateantiquedistance |  
 | bip_39_word_space_0 | ['profit', 'because', 'warm', 'sugar', 'nuclear', 'cube', 'debate', 'antique', 'distance', 'deputy', 'stage', 'about'] |  
 | bip_39_word_space_1 | profit |  
 | bip_39_word_space_10 | profit because warm sugar nuclear cube debate antique distance deputy |  

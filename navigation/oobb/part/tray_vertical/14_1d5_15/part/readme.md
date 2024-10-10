@@ -122,6 +122,18 @@ anger
 dutch
 math
 accident |  
+| bip_39_word_no_space_1 | buyer |  
+| bip_39_word_no_space_10 | buyersolidloyalaverageseekangerdutchmathaccidentstuff |  
+| bip_39_word_no_space_11 | buyersolidloyalaverageseekangerdutchmathaccidentstuffdiet |  
+| bip_39_word_no_space_12 | buyersolidloyalaverageseekangerdutchmathaccidentstuffdietaerobic |  
+| bip_39_word_no_space_2 | buyersolid |  
+| bip_39_word_no_space_3 | buyersolidloyal |  
+| bip_39_word_no_space_4 | buyersolidloyalaverage |  
+| bip_39_word_no_space_5 | buyersolidloyalaverageseek |  
+| bip_39_word_no_space_6 | buyersolidloyalaverageseekanger |  
+| bip_39_word_no_space_7 | buyersolidloyalaverageseekangerdutch |  
+| bip_39_word_no_space_8 | buyersolidloyalaverageseekangerdutchmath |  
+| bip_39_word_no_space_9 | buyersolidloyalaverageseekangerdutchmathaccident |  
 | bip_39_word_space_0 | ['buyer', 'solid', 'loyal', 'average', 'seek', 'anger', 'dutch', 'math', 'accident', 'stuff', 'diet', 'aerobic'] |  
 | bip_39_word_space_1 | buyer |  
 | bip_39_word_space_10 | buyer solid loyal average seek anger dutch math accident stuff |  

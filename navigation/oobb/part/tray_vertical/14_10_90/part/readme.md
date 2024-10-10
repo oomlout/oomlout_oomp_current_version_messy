@@ -122,6 +122,18 @@ joke
 moment
 calm
 off |  
+| bip_39_word_no_space_1 | enough |  
+| bip_39_word_no_space_10 | enoughdutchaffairrosefoodjokemomentcalmoffslim |  
+| bip_39_word_no_space_11 | enoughdutchaffairrosefoodjokemomentcalmoffslimnaive |  
+| bip_39_word_no_space_12 | enoughdutchaffairrosefoodjokemomentcalmoffslimnaiveabsorb |  
+| bip_39_word_no_space_2 | enoughdutch |  
+| bip_39_word_no_space_3 | enoughdutchaffair |  
+| bip_39_word_no_space_4 | enoughdutchaffairrose |  
+| bip_39_word_no_space_5 | enoughdutchaffairrosefood |  
+| bip_39_word_no_space_6 | enoughdutchaffairrosefoodjoke |  
+| bip_39_word_no_space_7 | enoughdutchaffairrosefoodjokemoment |  
+| bip_39_word_no_space_8 | enoughdutchaffairrosefoodjokemomentcalm |  
+| bip_39_word_no_space_9 | enoughdutchaffairrosefoodjokemomentcalmoff |  
 | bip_39_word_space_0 | ['enough', 'dutch', 'affair', 'rose', 'food', 'joke', 'moment', 'calm', 'off', 'slim', 'naive', 'absorb'] |  
 | bip_39_word_space_1 | enough |  
 | bip_39_word_space_10 | enough dutch affair rose food joke moment calm off slim |  

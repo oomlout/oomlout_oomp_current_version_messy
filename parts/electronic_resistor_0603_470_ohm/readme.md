@@ -122,6 +122,18 @@ sock
 hamster
 typical
 system |  
+| bip_39_word_no_space_1 | execute |  
+| bip_39_word_no_space_10 | executenormalsignhugeheavysockhamstertypicalsystemtomato |  
+| bip_39_word_no_space_11 | executenormalsignhugeheavysockhamstertypicalsystemtomatoraw |  
+| bip_39_word_no_space_12 | executenormalsignhugeheavysockhamstertypicalsystemtomatorawacid |  
+| bip_39_word_no_space_2 | executenormal |  
+| bip_39_word_no_space_3 | executenormalsign |  
+| bip_39_word_no_space_4 | executenormalsignhuge |  
+| bip_39_word_no_space_5 | executenormalsignhugeheavy |  
+| bip_39_word_no_space_6 | executenormalsignhugeheavysock |  
+| bip_39_word_no_space_7 | executenormalsignhugeheavysockhamster |  
+| bip_39_word_no_space_8 | executenormalsignhugeheavysockhamstertypical |  
+| bip_39_word_no_space_9 | executenormalsignhugeheavysockhamstertypicalsystem |  
 | bip_39_word_space_0 | ['execute', 'normal', 'sign', 'huge', 'heavy', 'sock', 'hamster', 'typical', 'system', 'tomato', 'raw', 'acid'] |  
 | bip_39_word_space_1 | execute |  
 | bip_39_word_space_10 | execute normal sign huge heavy sock hamster typical system tomato |  

@@ -122,6 +122,18 @@ crunch
 switch
 lens
 pool |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blacklakeharborbraveprefercrunchswitchlenspoolpill |  
+| bip_39_word_no_space_11 | blacklakeharborbraveprefercrunchswitchlenspoolpillquote |  
+| bip_39_word_no_space_12 | blacklakeharborbraveprefercrunchswitchlenspoolpillquotealpha |  
+| bip_39_word_no_space_2 | blacklake |  
+| bip_39_word_no_space_3 | blacklakeharbor |  
+| bip_39_word_no_space_4 | blacklakeharborbrave |  
+| bip_39_word_no_space_5 | blacklakeharborbraveprefer |  
+| bip_39_word_no_space_6 | blacklakeharborbraveprefercrunch |  
+| bip_39_word_no_space_7 | blacklakeharborbraveprefercrunchswitch |  
+| bip_39_word_no_space_8 | blacklakeharborbraveprefercrunchswitchlens |  
+| bip_39_word_no_space_9 | blacklakeharborbraveprefercrunchswitchlenspool |  
 | bip_39_word_space_0 | ['black', 'lake', 'harbor', 'brave', 'prefer', 'crunch', 'switch', 'lens', 'pool', 'pill', 'quote', 'alpha'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black lake harbor brave prefer crunch switch lens pool pill |  

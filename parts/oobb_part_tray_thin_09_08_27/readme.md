@@ -122,6 +122,18 @@ wire
 neutral
 visit
 kitchen |  
+| bip_39_word_no_space_1 | mirror |  
+| bip_39_word_no_space_10 | mirrorrefusepulltomorrowhandwireneutralvisitkitchenshell |  
+| bip_39_word_no_space_11 | mirrorrefusepulltomorrowhandwireneutralvisitkitchenshellgentle |  
+| bip_39_word_no_space_12 | mirrorrefusepulltomorrowhandwireneutralvisitkitchenshellgentleapology |  
+| bip_39_word_no_space_2 | mirrorrefuse |  
+| bip_39_word_no_space_3 | mirrorrefusepull |  
+| bip_39_word_no_space_4 | mirrorrefusepulltomorrow |  
+| bip_39_word_no_space_5 | mirrorrefusepulltomorrowhand |  
+| bip_39_word_no_space_6 | mirrorrefusepulltomorrowhandwire |  
+| bip_39_word_no_space_7 | mirrorrefusepulltomorrowhandwireneutral |  
+| bip_39_word_no_space_8 | mirrorrefusepulltomorrowhandwireneutralvisit |  
+| bip_39_word_no_space_9 | mirrorrefusepulltomorrowhandwireneutralvisitkitchen |  
 | bip_39_word_space_0 | ['mirror', 'refuse', 'pull', 'tomorrow', 'hand', 'wire', 'neutral', 'visit', 'kitchen', 'shell', 'gentle', 'apology'] |  
 | bip_39_word_space_1 | mirror |  
 | bip_39_word_space_10 | mirror refuse pull tomorrow hand wire neutral visit kitchen shell |  

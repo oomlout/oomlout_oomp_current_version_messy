@@ -122,6 +122,18 @@ humor
 input
 similar
 drink |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainconvinceclosemoraldespairhumorinputsimilardrinkderive |  
+| bip_39_word_no_space_11 | grainconvinceclosemoraldespairhumorinputsimilardrinkderivehood |  
+| bip_39_word_no_space_12 | grainconvinceclosemoraldespairhumorinputsimilardrinkderivehoodassault |  
+| bip_39_word_no_space_2 | grainconvince |  
+| bip_39_word_no_space_3 | grainconvinceclose |  
+| bip_39_word_no_space_4 | grainconvinceclosemoral |  
+| bip_39_word_no_space_5 | grainconvinceclosemoraldespair |  
+| bip_39_word_no_space_6 | grainconvinceclosemoraldespairhumor |  
+| bip_39_word_no_space_7 | grainconvinceclosemoraldespairhumorinput |  
+| bip_39_word_no_space_8 | grainconvinceclosemoraldespairhumorinputsimilar |  
+| bip_39_word_no_space_9 | grainconvinceclosemoraldespairhumorinputsimilardrink |  
 | bip_39_word_space_0 | ['grain', 'convince', 'close', 'moral', 'despair', 'humor', 'input', 'similar', 'drink', 'derive', 'hood', 'assault'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain convince close moral despair humor input similar drink derive |  

@@ -122,6 +122,18 @@ nothing
 arctic
 private
 actor |  
+| bip_39_word_no_space_1 | room |  
+| bip_39_word_no_space_10 | roomgasproyalchalklobsternothingarcticprivateactordefine |  
+| bip_39_word_no_space_11 | roomgasproyalchalklobsternothingarcticprivateactordefineaverage |  
+| bip_39_word_no_space_12 | roomgasproyalchalklobsternothingarcticprivateactordefineaverageamount |  
+| bip_39_word_no_space_2 | roomgasp |  
+| bip_39_word_no_space_3 | roomgasproyal |  
+| bip_39_word_no_space_4 | roomgasproyalchalk |  
+| bip_39_word_no_space_5 | roomgasproyalchalklobster |  
+| bip_39_word_no_space_6 | roomgasproyalchalklobsternothing |  
+| bip_39_word_no_space_7 | roomgasproyalchalklobsternothingarctic |  
+| bip_39_word_no_space_8 | roomgasproyalchalklobsternothingarcticprivate |  
+| bip_39_word_no_space_9 | roomgasproyalchalklobsternothingarcticprivateactor |  
 | bip_39_word_space_0 | ['room', 'gasp', 'royal', 'chalk', 'lobster', 'nothing', 'arctic', 'private', 'actor', 'define', 'average', 'amount'] |  
 | bip_39_word_space_1 | room |  
 | bip_39_word_space_10 | room gasp royal chalk lobster nothing arctic private actor define |  

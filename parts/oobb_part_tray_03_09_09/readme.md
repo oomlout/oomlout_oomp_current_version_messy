@@ -122,6 +122,18 @@ mosquito
 congress
 venture
 thrive |  
+| bip_39_word_no_space_1 | physical |  
+| bip_39_word_no_space_10 | physicalfewstagedraftpermitmosquitocongressventurethrivecat |  
+| bip_39_word_no_space_11 | physicalfewstagedraftpermitmosquitocongressventurethrivecatcarry |  
+| bip_39_word_no_space_12 | physicalfewstagedraftpermitmosquitocongressventurethrivecatcarryamused |  
+| bip_39_word_no_space_2 | physicalfew |  
+| bip_39_word_no_space_3 | physicalfewstage |  
+| bip_39_word_no_space_4 | physicalfewstagedraft |  
+| bip_39_word_no_space_5 | physicalfewstagedraftpermit |  
+| bip_39_word_no_space_6 | physicalfewstagedraftpermitmosquito |  
+| bip_39_word_no_space_7 | physicalfewstagedraftpermitmosquitocongress |  
+| bip_39_word_no_space_8 | physicalfewstagedraftpermitmosquitocongressventure |  
+| bip_39_word_no_space_9 | physicalfewstagedraftpermitmosquitocongressventurethrive |  
 | bip_39_word_space_0 | ['physical', 'few', 'stage', 'draft', 'permit', 'mosquito', 'congress', 'venture', 'thrive', 'cat', 'carry', 'amused'] |  
 | bip_39_word_space_1 | physical |  
 | bip_39_word_space_10 | physical few stage draft permit mosquito congress venture thrive cat |  

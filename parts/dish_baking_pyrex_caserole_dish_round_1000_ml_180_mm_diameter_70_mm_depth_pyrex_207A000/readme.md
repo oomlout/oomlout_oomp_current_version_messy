@@ -122,6 +122,18 @@ scatter
 enforce
 lens
 enroll |  
+| bip_39_word_no_space_1 | nephew |  
+| bip_39_word_no_space_10 | nephewhelmettapepaveprogramscatterenforcelensenrollhorn |  
+| bip_39_word_no_space_11 | nephewhelmettapepaveprogramscatterenforcelensenrollhornartist |  
+| bip_39_word_no_space_12 | nephewhelmettapepaveprogramscatterenforcelensenrollhornartistalready |  
+| bip_39_word_no_space_2 | nephewhelmet |  
+| bip_39_word_no_space_3 | nephewhelmettape |  
+| bip_39_word_no_space_4 | nephewhelmettapepave |  
+| bip_39_word_no_space_5 | nephewhelmettapepaveprogram |  
+| bip_39_word_no_space_6 | nephewhelmettapepaveprogramscatter |  
+| bip_39_word_no_space_7 | nephewhelmettapepaveprogramscatterenforce |  
+| bip_39_word_no_space_8 | nephewhelmettapepaveprogramscatterenforcelens |  
+| bip_39_word_no_space_9 | nephewhelmettapepaveprogramscatterenforcelensenroll |  
 | bip_39_word_space_0 | ['nephew', 'helmet', 'tape', 'pave', 'program', 'scatter', 'enforce', 'lens', 'enroll', 'horn', 'artist', 'already'] |  
 | bip_39_word_space_1 | nephew |  
 | bip_39_word_space_10 | nephew helmet tape pave program scatter enforce lens enroll horn |  

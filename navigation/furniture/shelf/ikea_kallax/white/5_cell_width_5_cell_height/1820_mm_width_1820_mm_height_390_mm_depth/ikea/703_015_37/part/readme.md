@@ -122,6 +122,18 @@ neglect
 hen
 surround
 into |  
+| bip_39_word_no_space_1 | maid |  
+| bip_39_word_no_space_10 | maidreunionswapanchorpropertyneglecthensurroundintopull |  
+| bip_39_word_no_space_11 | maidreunionswapanchorpropertyneglecthensurroundintopullauction |  
+| bip_39_word_no_space_12 | maidreunionswapanchorpropertyneglecthensurroundintopullauctionask |  
+| bip_39_word_no_space_2 | maidreunion |  
+| bip_39_word_no_space_3 | maidreunionswap |  
+| bip_39_word_no_space_4 | maidreunionswapanchor |  
+| bip_39_word_no_space_5 | maidreunionswapanchorproperty |  
+| bip_39_word_no_space_6 | maidreunionswapanchorpropertyneglect |  
+| bip_39_word_no_space_7 | maidreunionswapanchorpropertyneglecthen |  
+| bip_39_word_no_space_8 | maidreunionswapanchorpropertyneglecthensurround |  
+| bip_39_word_no_space_9 | maidreunionswapanchorpropertyneglecthensurroundinto |  
 | bip_39_word_space_0 | ['maid', 'reunion', 'swap', 'anchor', 'property', 'neglect', 'hen', 'surround', 'into', 'pull', 'auction', 'ask'] |  
 | bip_39_word_space_1 | maid |  
 | bip_39_word_space_10 | maid reunion swap anchor property neglect hen surround into pull |  

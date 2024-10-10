@@ -122,6 +122,18 @@ taste
 someone
 feel
 coast |  
+| bip_39_word_no_space_1 | bomb |  
+| bip_39_word_no_space_10 | bombgymkneegiggleknowtastesomeonefeelcoastmercy |  
+| bip_39_word_no_space_11 | bombgymkneegiggleknowtastesomeonefeelcoastmercyanxiety |  
+| bip_39_word_no_space_12 | bombgymkneegiggleknowtastesomeonefeelcoastmercyanxietyaugust |  
+| bip_39_word_no_space_2 | bombgym |  
+| bip_39_word_no_space_3 | bombgymknee |  
+| bip_39_word_no_space_4 | bombgymkneegiggle |  
+| bip_39_word_no_space_5 | bombgymkneegiggleknow |  
+| bip_39_word_no_space_6 | bombgymkneegiggleknowtaste |  
+| bip_39_word_no_space_7 | bombgymkneegiggleknowtastesomeone |  
+| bip_39_word_no_space_8 | bombgymkneegiggleknowtastesomeonefeel |  
+| bip_39_word_no_space_9 | bombgymkneegiggleknowtastesomeonefeelcoast |  
 | bip_39_word_space_0 | ['bomb', 'gym', 'knee', 'giggle', 'know', 'taste', 'someone', 'feel', 'coast', 'mercy', 'anxiety', 'august'] |  
 | bip_39_word_space_1 | bomb |  
 | bip_39_word_space_10 | bomb gym knee giggle know taste someone feel coast mercy |  

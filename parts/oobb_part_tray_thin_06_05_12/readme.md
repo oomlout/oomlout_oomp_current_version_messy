@@ -122,6 +122,18 @@ rifle
 apology
 shadow
 real |  
+| bip_39_word_no_space_1 | endorse |  
+| bip_39_word_no_space_10 | endorseweardoctorsolutionrigidrifleapologyshadowrealfall |  
+| bip_39_word_no_space_11 | endorseweardoctorsolutionrigidrifleapologyshadowrealfalltongue |  
+| bip_39_word_no_space_12 | endorseweardoctorsolutionrigidrifleapologyshadowrealfalltongueavocado |  
+| bip_39_word_no_space_2 | endorsewear |  
+| bip_39_word_no_space_3 | endorseweardoctor |  
+| bip_39_word_no_space_4 | endorseweardoctorsolution |  
+| bip_39_word_no_space_5 | endorseweardoctorsolutionrigid |  
+| bip_39_word_no_space_6 | endorseweardoctorsolutionrigidrifle |  
+| bip_39_word_no_space_7 | endorseweardoctorsolutionrigidrifleapology |  
+| bip_39_word_no_space_8 | endorseweardoctorsolutionrigidrifleapologyshadow |  
+| bip_39_word_no_space_9 | endorseweardoctorsolutionrigidrifleapologyshadowreal |  
 | bip_39_word_space_0 | ['endorse', 'wear', 'doctor', 'solution', 'rigid', 'rifle', 'apology', 'shadow', 'real', 'fall', 'tongue', 'avocado'] |  
 | bip_39_word_space_1 | endorse |  
 | bip_39_word_space_10 | endorse wear doctor solution rigid rifle apology shadow real fall |  

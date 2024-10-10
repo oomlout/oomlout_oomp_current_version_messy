@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rebel
   mention
 
   measure'
+bip_39_word_no_space_1: rebel
+bip_39_word_no_space_10: rebelscalesailsmilepeopleminorfishmentionmeasuremidnight
+bip_39_word_no_space_11: rebelscalesailsmilepeopleminorfishmentionmeasuremidnightaffair
+bip_39_word_no_space_12: rebelscalesailsmilepeopleminorfishmentionmeasuremidnightaffairable
+bip_39_word_no_space_2: rebelscale
+bip_39_word_no_space_3: rebelscalesail
+bip_39_word_no_space_4: rebelscalesailsmile
+bip_39_word_no_space_5: rebelscalesailsmilepeople
+bip_39_word_no_space_6: rebelscalesailsmilepeopleminor
+bip_39_word_no_space_7: rebelscalesailsmilepeopleminorfish
+bip_39_word_no_space_8: rebelscalesailsmilepeopleminorfishmention
+bip_39_word_no_space_9: rebelscalesailsmilepeopleminorfishmentionmeasure
 bip_39_word_space_0:
 - rebel
 - scale

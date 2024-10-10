@@ -122,6 +122,18 @@ voyage
 popular
 smoke
 bike |  
+| bip_39_word_no_space_1 | answer |  
+| bip_39_word_no_space_10 | answerloadverifyimmunegiantvoyagepopularsmokebikemushroom |  
+| bip_39_word_no_space_11 | answerloadverifyimmunegiantvoyagepopularsmokebikemushroomreplace |  
+| bip_39_word_no_space_12 | answerloadverifyimmunegiantvoyagepopularsmokebikemushroomreplacearm |  
+| bip_39_word_no_space_2 | answerload |  
+| bip_39_word_no_space_3 | answerloadverify |  
+| bip_39_word_no_space_4 | answerloadverifyimmune |  
+| bip_39_word_no_space_5 | answerloadverifyimmunegiant |  
+| bip_39_word_no_space_6 | answerloadverifyimmunegiantvoyage |  
+| bip_39_word_no_space_7 | answerloadverifyimmunegiantvoyagepopular |  
+| bip_39_word_no_space_8 | answerloadverifyimmunegiantvoyagepopularsmoke |  
+| bip_39_word_no_space_9 | answerloadverifyimmunegiantvoyagepopularsmokebike |  
 | bip_39_word_space_0 | ['answer', 'load', 'verify', 'immune', 'giant', 'voyage', 'popular', 'smoke', 'bike', 'mushroom', 'replace', 'arm'] |  
 | bip_39_word_space_1 | answer |  
 | bip_39_word_space_10 | answer load verify immune giant voyage popular smoke bike mushroom |  

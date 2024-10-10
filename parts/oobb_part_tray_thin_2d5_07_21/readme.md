@@ -122,6 +122,18 @@ pelican
 atom
 famous
 glass |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalsevenmammaltattooweddingpelicanatomfamousglassgalaxy |  
+| bip_39_word_no_space_11 | loyalsevenmammaltattooweddingpelicanatomfamousglassgalaxymatch |  
+| bip_39_word_no_space_12 | loyalsevenmammaltattooweddingpelicanatomfamousglassgalaxymatchaverage |  
+| bip_39_word_no_space_2 | loyalseven |  
+| bip_39_word_no_space_3 | loyalsevenmammal |  
+| bip_39_word_no_space_4 | loyalsevenmammaltattoo |  
+| bip_39_word_no_space_5 | loyalsevenmammaltattoowedding |  
+| bip_39_word_no_space_6 | loyalsevenmammaltattooweddingpelican |  
+| bip_39_word_no_space_7 | loyalsevenmammaltattooweddingpelicanatom |  
+| bip_39_word_no_space_8 | loyalsevenmammaltattooweddingpelicanatomfamous |  
+| bip_39_word_no_space_9 | loyalsevenmammaltattooweddingpelicanatomfamousglass |  
 | bip_39_word_space_0 | ['loyal', 'seven', 'mammal', 'tattoo', 'wedding', 'pelican', 'atom', 'famous', 'glass', 'galaxy', 'match', 'average'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal seven mammal tattoo wedding pelican atom famous glass galaxy |  

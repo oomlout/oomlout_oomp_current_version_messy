@@ -122,6 +122,18 @@ have
 alone
 wire
 asthma |  
+| bip_39_word_no_space_1 | screen |  
+| bip_39_word_no_space_10 | screenanalystawakeacrosslumberhavealonewireasthmafiber |  
+| bip_39_word_no_space_11 | screenanalystawakeacrosslumberhavealonewireasthmafiberany |  
+| bip_39_word_no_space_12 | screenanalystawakeacrosslumberhavealonewireasthmafiberanyarea |  
+| bip_39_word_no_space_2 | screenanalyst |  
+| bip_39_word_no_space_3 | screenanalystawake |  
+| bip_39_word_no_space_4 | screenanalystawakeacross |  
+| bip_39_word_no_space_5 | screenanalystawakeacrosslumber |  
+| bip_39_word_no_space_6 | screenanalystawakeacrosslumberhave |  
+| bip_39_word_no_space_7 | screenanalystawakeacrosslumberhavealone |  
+| bip_39_word_no_space_8 | screenanalystawakeacrosslumberhavealonewire |  
+| bip_39_word_no_space_9 | screenanalystawakeacrosslumberhavealonewireasthma |  
 | bip_39_word_space_0 | ['screen', 'analyst', 'awake', 'across', 'lumber', 'have', 'alone', 'wire', 'asthma', 'fiber', 'any', 'area'] |  
 | bip_39_word_space_1 | screen |  
 | bip_39_word_space_10 | screen analyst awake across lumber have alone wire asthma fiber |  

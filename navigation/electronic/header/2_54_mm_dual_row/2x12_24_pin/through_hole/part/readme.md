@@ -122,6 +122,18 @@ tomorrow
 arrive
 cool
 auction |  
+| bip_39_word_no_space_1 | creek |  
+| bip_39_word_no_space_10 | creektwindwarfyoungcircletomorrowarrivecoolauctionall |  
+| bip_39_word_no_space_11 | creektwindwarfyoungcircletomorrowarrivecoolauctionallbamboo |  
+| bip_39_word_no_space_12 | creektwindwarfyoungcircletomorrowarrivecoolauctionallbambooarea |  
+| bip_39_word_no_space_2 | creektwin |  
+| bip_39_word_no_space_3 | creektwindwarf |  
+| bip_39_word_no_space_4 | creektwindwarfyoung |  
+| bip_39_word_no_space_5 | creektwindwarfyoungcircle |  
+| bip_39_word_no_space_6 | creektwindwarfyoungcircletomorrow |  
+| bip_39_word_no_space_7 | creektwindwarfyoungcircletomorrowarrive |  
+| bip_39_word_no_space_8 | creektwindwarfyoungcircletomorrowarrivecool |  
+| bip_39_word_no_space_9 | creektwindwarfyoungcircletomorrowarrivecoolauction |  
 | bip_39_word_space_0 | ['creek', 'twin', 'dwarf', 'young', 'circle', 'tomorrow', 'arrive', 'cool', 'auction', 'all', 'bamboo', 'area'] |  
 | bip_39_word_space_1 | creek |  
 | bip_39_word_space_10 | creek twin dwarf young circle tomorrow arrive cool auction all |  

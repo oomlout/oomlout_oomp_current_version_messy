@@ -122,6 +122,18 @@ filter
 olive
 visa
 impact |  
+| bip_39_word_no_space_1 | dizzy |  
+| bip_39_word_no_space_10 | dizzysailbenchpairagefilterolivevisaimpactjunk |  
+| bip_39_word_no_space_11 | dizzysailbenchpairagefilterolivevisaimpactjunkchurn |  
+| bip_39_word_no_space_12 | dizzysailbenchpairagefilterolivevisaimpactjunkchurnaudit |  
+| bip_39_word_no_space_2 | dizzysail |  
+| bip_39_word_no_space_3 | dizzysailbench |  
+| bip_39_word_no_space_4 | dizzysailbenchpair |  
+| bip_39_word_no_space_5 | dizzysailbenchpairage |  
+| bip_39_word_no_space_6 | dizzysailbenchpairagefilter |  
+| bip_39_word_no_space_7 | dizzysailbenchpairagefilterolive |  
+| bip_39_word_no_space_8 | dizzysailbenchpairagefilterolivevisa |  
+| bip_39_word_no_space_9 | dizzysailbenchpairagefilterolivevisaimpact |  
 | bip_39_word_space_0 | ['dizzy', 'sail', 'bench', 'pair', 'age', 'filter', 'olive', 'visa', 'impact', 'junk', 'churn', 'audit'] |  
 | bip_39_word_space_1 | dizzy |  
 | bip_39_word_space_10 | dizzy sail bench pair age filter olive visa impact junk |  

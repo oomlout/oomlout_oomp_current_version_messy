@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'actress
   glide
 
   crush'
+bip_39_word_no_space_1: actress
+bip_39_word_no_space_10: actressmethodillspeakmiddlemakebargainglidecrushcritic
+bip_39_word_no_space_11: actressmethodillspeakmiddlemakebargainglidecrushcriticrival
+bip_39_word_no_space_12: actressmethodillspeakmiddlemakebargainglidecrushcriticrivalacid
+bip_39_word_no_space_2: actressmethod
+bip_39_word_no_space_3: actressmethodill
+bip_39_word_no_space_4: actressmethodillspeak
+bip_39_word_no_space_5: actressmethodillspeakmiddle
+bip_39_word_no_space_6: actressmethodillspeakmiddlemake
+bip_39_word_no_space_7: actressmethodillspeakmiddlemakebargain
+bip_39_word_no_space_8: actressmethodillspeakmiddlemakebargainglide
+bip_39_word_no_space_9: actressmethodillspeakmiddlemakebargainglidecrush
 bip_39_word_space_0:
 - actress
 - method

@@ -122,6 +122,18 @@ harsh
 oxygen
 chief
 style |  
+| bip_39_word_no_space_1 | lounge |  
+| bip_39_word_no_space_10 | loungenationimmensemuffinfringeharshoxygenchiefstylelaptop |  
+| bip_39_word_no_space_11 | loungenationimmensemuffinfringeharshoxygenchiefstylelaptopcoil |  
+| bip_39_word_no_space_12 | loungenationimmensemuffinfringeharshoxygenchiefstylelaptopcoilarrive |  
+| bip_39_word_no_space_2 | loungenation |  
+| bip_39_word_no_space_3 | loungenationimmense |  
+| bip_39_word_no_space_4 | loungenationimmensemuffin |  
+| bip_39_word_no_space_5 | loungenationimmensemuffinfringe |  
+| bip_39_word_no_space_6 | loungenationimmensemuffinfringeharsh |  
+| bip_39_word_no_space_7 | loungenationimmensemuffinfringeharshoxygen |  
+| bip_39_word_no_space_8 | loungenationimmensemuffinfringeharshoxygenchief |  
+| bip_39_word_no_space_9 | loungenationimmensemuffinfringeharshoxygenchiefstyle |  
 | bip_39_word_space_0 | ['lounge', 'nation', 'immense', 'muffin', 'fringe', 'harsh', 'oxygen', 'chief', 'style', 'laptop', 'coil', 'arrive'] |  
 | bip_39_word_space_1 | lounge |  
 | bip_39_word_space_10 | lounge nation immense muffin fringe harsh oxygen chief style laptop |  

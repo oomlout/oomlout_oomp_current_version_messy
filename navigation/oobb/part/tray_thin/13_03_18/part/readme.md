@@ -122,6 +122,18 @@ bachelor
 crucial
 payment
 tray |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playcomecanturnenjoybachelorcrucialpaymenttrayforget |  
+| bip_39_word_no_space_11 | playcomecanturnenjoybachelorcrucialpaymenttrayforgetbelieve |  
+| bip_39_word_no_space_12 | playcomecanturnenjoybachelorcrucialpaymenttrayforgetbelieveamong |  
+| bip_39_word_no_space_2 | playcome |  
+| bip_39_word_no_space_3 | playcomecan |  
+| bip_39_word_no_space_4 | playcomecanturn |  
+| bip_39_word_no_space_5 | playcomecanturnenjoy |  
+| bip_39_word_no_space_6 | playcomecanturnenjoybachelor |  
+| bip_39_word_no_space_7 | playcomecanturnenjoybachelorcrucial |  
+| bip_39_word_no_space_8 | playcomecanturnenjoybachelorcrucialpayment |  
+| bip_39_word_no_space_9 | playcomecanturnenjoybachelorcrucialpaymenttray |  
 | bip_39_word_space_0 | ['play', 'come', 'can', 'turn', 'enjoy', 'bachelor', 'crucial', 'payment', 'tray', 'forget', 'believe', 'among'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play come can turn enjoy bachelor crucial payment tray forget |  

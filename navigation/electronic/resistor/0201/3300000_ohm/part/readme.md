@@ -122,6 +122,18 @@ please
 awesome
 verify
 dance |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artistdecadewishwinnerstairspleaseawesomeverifydancethrow |  
+| bip_39_word_no_space_11 | artistdecadewishwinnerstairspleaseawesomeverifydancethrowfragile |  
+| bip_39_word_no_space_12 | artistdecadewishwinnerstairspleaseawesomeverifydancethrowfragileaccident |  
+| bip_39_word_no_space_2 | artistdecade |  
+| bip_39_word_no_space_3 | artistdecadewish |  
+| bip_39_word_no_space_4 | artistdecadewishwinner |  
+| bip_39_word_no_space_5 | artistdecadewishwinnerstairs |  
+| bip_39_word_no_space_6 | artistdecadewishwinnerstairsplease |  
+| bip_39_word_no_space_7 | artistdecadewishwinnerstairspleaseawesome |  
+| bip_39_word_no_space_8 | artistdecadewishwinnerstairspleaseawesomeverify |  
+| bip_39_word_no_space_9 | artistdecadewishwinnerstairspleaseawesomeverifydance |  
 | bip_39_word_space_0 | ['artist', 'decade', 'wish', 'winner', 'stairs', 'please', 'awesome', 'verify', 'dance', 'throw', 'fragile', 'accident'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist decade wish winner stairs please awesome verify dance throw |  

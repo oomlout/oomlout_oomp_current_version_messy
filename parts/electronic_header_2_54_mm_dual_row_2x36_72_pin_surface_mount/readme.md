@@ -122,6 +122,18 @@ next
 voyage
 rapid
 august |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorpotterysqueezepresentplungenextvoyagerapidaugustleaf |  
+| bip_39_word_no_space_11 | floorpotterysqueezepresentplungenextvoyagerapidaugustleafcamp |  
+| bip_39_word_no_space_12 | floorpotterysqueezepresentplungenextvoyagerapidaugustleafcampart |  
+| bip_39_word_no_space_2 | floorpottery |  
+| bip_39_word_no_space_3 | floorpotterysqueeze |  
+| bip_39_word_no_space_4 | floorpotterysqueezepresent |  
+| bip_39_word_no_space_5 | floorpotterysqueezepresentplunge |  
+| bip_39_word_no_space_6 | floorpotterysqueezepresentplungenext |  
+| bip_39_word_no_space_7 | floorpotterysqueezepresentplungenextvoyage |  
+| bip_39_word_no_space_8 | floorpotterysqueezepresentplungenextvoyagerapid |  
+| bip_39_word_no_space_9 | floorpotterysqueezepresentplungenextvoyagerapidaugust |  
 | bip_39_word_space_0 | ['floor', 'pottery', 'squeeze', 'present', 'plunge', 'next', 'voyage', 'rapid', 'august', 'leaf', 'camp', 'art'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor pottery squeeze present plunge next voyage rapid august leaf |  

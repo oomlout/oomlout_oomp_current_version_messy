@@ -122,6 +122,18 @@ future
 sugar
 injury
 there |  
+| bip_39_word_no_space_1 | split |  
+| bip_39_word_no_space_10 | spliteasylaughnursebargainfuturesugarinjurytherefebruary |  
+| bip_39_word_no_space_11 | spliteasylaughnursebargainfuturesugarinjurytherefebruarypriority |  
+| bip_39_word_no_space_12 | spliteasylaughnursebargainfuturesugarinjurytherefebruarypriorityask |  
+| bip_39_word_no_space_2 | spliteasy |  
+| bip_39_word_no_space_3 | spliteasylaugh |  
+| bip_39_word_no_space_4 | spliteasylaughnurse |  
+| bip_39_word_no_space_5 | spliteasylaughnursebargain |  
+| bip_39_word_no_space_6 | spliteasylaughnursebargainfuture |  
+| bip_39_word_no_space_7 | spliteasylaughnursebargainfuturesugar |  
+| bip_39_word_no_space_8 | spliteasylaughnursebargainfuturesugarinjury |  
+| bip_39_word_no_space_9 | spliteasylaughnursebargainfuturesugarinjurythere |  
 | bip_39_word_space_0 | ['split', 'easy', 'laugh', 'nurse', 'bargain', 'future', 'sugar', 'injury', 'there', 'february', 'priority', 'ask'] |  
 | bip_39_word_space_1 | split |  
 | bip_39_word_space_10 | split easy laugh nurse bargain future sugar injury there february |  

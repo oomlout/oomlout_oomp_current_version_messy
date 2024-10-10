@@ -122,6 +122,18 @@ fever
 soon
 payment
 focus |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonhourembodyyouthfleefeversoonpaymentfocuspolice |  
+| bip_39_word_no_space_11 | lemonhourembodyyouthfleefeversoonpaymentfocuspoliceerupt |  
+| bip_39_word_no_space_12 | lemonhourembodyyouthfleefeversoonpaymentfocuspoliceeruptactress |  
+| bip_39_word_no_space_2 | lemonhour |  
+| bip_39_word_no_space_3 | lemonhourembody |  
+| bip_39_word_no_space_4 | lemonhourembodyyouth |  
+| bip_39_word_no_space_5 | lemonhourembodyyouthflee |  
+| bip_39_word_no_space_6 | lemonhourembodyyouthfleefever |  
+| bip_39_word_no_space_7 | lemonhourembodyyouthfleefeversoon |  
+| bip_39_word_no_space_8 | lemonhourembodyyouthfleefeversoonpayment |  
+| bip_39_word_no_space_9 | lemonhourembodyyouthfleefeversoonpaymentfocus |  
 | bip_39_word_space_0 | ['lemon', 'hour', 'embody', 'youth', 'flee', 'fever', 'soon', 'payment', 'focus', 'police', 'erupt', 'actress'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon hour embody youth flee fever soon payment focus police |  

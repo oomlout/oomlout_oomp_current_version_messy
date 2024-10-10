@@ -122,6 +122,18 @@ cost
 kit
 card
 beef |  
+| bip_39_word_no_space_1 | critic |  
+| bip_39_word_no_space_10 | criticopposezoosituatereformcostkitcardbeefabsent |  
+| bip_39_word_no_space_11 | criticopposezoosituatereformcostkitcardbeefabsentpriority |  
+| bip_39_word_no_space_12 | criticopposezoosituatereformcostkitcardbeefabsentpriorityarmed |  
+| bip_39_word_no_space_2 | criticoppose |  
+| bip_39_word_no_space_3 | criticopposezoo |  
+| bip_39_word_no_space_4 | criticopposezoosituate |  
+| bip_39_word_no_space_5 | criticopposezoosituatereform |  
+| bip_39_word_no_space_6 | criticopposezoosituatereformcost |  
+| bip_39_word_no_space_7 | criticopposezoosituatereformcostkit |  
+| bip_39_word_no_space_8 | criticopposezoosituatereformcostkitcard |  
+| bip_39_word_no_space_9 | criticopposezoosituatereformcostkitcardbeef |  
 | bip_39_word_space_0 | ['critic', 'oppose', 'zoo', 'situate', 'reform', 'cost', 'kit', 'card', 'beef', 'absent', 'priority', 'armed'] |  
 | bip_39_word_space_1 | critic |  
 | bip_39_word_space_10 | critic oppose zoo situate reform cost kit card beef absent |  

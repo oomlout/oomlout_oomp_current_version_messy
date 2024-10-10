@@ -122,6 +122,18 @@ road
 spatial
 egg
 valley |  
+| bip_39_word_no_space_1 | picture |  
+| bip_39_word_no_space_10 | picturetennisproudadaptprovideroadspatialeggvalleycasual |  
+| bip_39_word_no_space_11 | picturetennisproudadaptprovideroadspatialeggvalleycasualinto |  
+| bip_39_word_no_space_12 | picturetennisproudadaptprovideroadspatialeggvalleycasualintoapart |  
+| bip_39_word_no_space_2 | picturetennis |  
+| bip_39_word_no_space_3 | picturetennisproud |  
+| bip_39_word_no_space_4 | picturetennisproudadapt |  
+| bip_39_word_no_space_5 | picturetennisproudadaptprovide |  
+| bip_39_word_no_space_6 | picturetennisproudadaptprovideroad |  
+| bip_39_word_no_space_7 | picturetennisproudadaptprovideroadspatial |  
+| bip_39_word_no_space_8 | picturetennisproudadaptprovideroadspatialegg |  
+| bip_39_word_no_space_9 | picturetennisproudadaptprovideroadspatialeggvalley |  
 | bip_39_word_space_0 | ['picture', 'tennis', 'proud', 'adapt', 'provide', 'road', 'spatial', 'egg', 'valley', 'casual', 'into', 'apart'] |  
 | bip_39_word_space_1 | picture |  
 | bip_39_word_space_10 | picture tennis proud adapt provide road spatial egg valley casual |  

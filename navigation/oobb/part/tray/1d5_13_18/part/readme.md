@@ -122,6 +122,18 @@ transfer
 tissue
 fluid
 work |  
+| bip_39_word_no_space_1 | spell |  
+| bip_39_word_no_space_10 | spellmanagelogicivorysnaptransfertissuefluidworkfoil |  
+| bip_39_word_no_space_11 | spellmanagelogicivorysnaptransfertissuefluidworkfoilhorse |  
+| bip_39_word_no_space_12 | spellmanagelogicivorysnaptransfertissuefluidworkfoilhorseair |  
+| bip_39_word_no_space_2 | spellmanage |  
+| bip_39_word_no_space_3 | spellmanagelogic |  
+| bip_39_word_no_space_4 | spellmanagelogicivory |  
+| bip_39_word_no_space_5 | spellmanagelogicivorysnap |  
+| bip_39_word_no_space_6 | spellmanagelogicivorysnaptransfer |  
+| bip_39_word_no_space_7 | spellmanagelogicivorysnaptransfertissue |  
+| bip_39_word_no_space_8 | spellmanagelogicivorysnaptransfertissuefluid |  
+| bip_39_word_no_space_9 | spellmanagelogicivorysnaptransfertissuefluidwork |  
 | bip_39_word_space_0 | ['spell', 'manage', 'logic', 'ivory', 'snap', 'transfer', 'tissue', 'fluid', 'work', 'foil', 'horse', 'air'] |  
 | bip_39_word_space_1 | spell |  
 | bip_39_word_space_10 | spell manage logic ivory snap transfer tissue fluid work foil |  

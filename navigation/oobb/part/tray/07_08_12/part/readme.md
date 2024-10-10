@@ -122,6 +122,18 @@ buzz
 bench
 flee
 suggest |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printgigglegeniusthingbargainbuzzbenchfleesuggestpride |  
+| bip_39_word_no_space_11 | printgigglegeniusthingbargainbuzzbenchfleesuggestpridegrunt |  
+| bip_39_word_no_space_12 | printgigglegeniusthingbargainbuzzbenchfleesuggestpridegruntabsorb |  
+| bip_39_word_no_space_2 | printgiggle |  
+| bip_39_word_no_space_3 | printgigglegenius |  
+| bip_39_word_no_space_4 | printgigglegeniusthing |  
+| bip_39_word_no_space_5 | printgigglegeniusthingbargain |  
+| bip_39_word_no_space_6 | printgigglegeniusthingbargainbuzz |  
+| bip_39_word_no_space_7 | printgigglegeniusthingbargainbuzzbench |  
+| bip_39_word_no_space_8 | printgigglegeniusthingbargainbuzzbenchflee |  
+| bip_39_word_no_space_9 | printgigglegeniusthingbargainbuzzbenchfleesuggest |  
 | bip_39_word_space_0 | ['print', 'giggle', 'genius', 'thing', 'bargain', 'buzz', 'bench', 'flee', 'suggest', 'pride', 'grunt', 'absorb'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print giggle genius thing bargain buzz bench flee suggest pride |  

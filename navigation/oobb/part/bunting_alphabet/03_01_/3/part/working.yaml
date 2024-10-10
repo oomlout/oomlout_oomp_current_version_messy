@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'right
   sweet
 
   cattle'
+bip_39_word_no_space_1: right
+bip_39_word_no_space_10: rightchronictrustpoetrelaxdistancelocksweetcattleraise
+bip_39_word_no_space_11: rightchronictrustpoetrelaxdistancelocksweetcattleraisestreet
+bip_39_word_no_space_12: rightchronictrustpoetrelaxdistancelocksweetcattleraisestreetattract
+bip_39_word_no_space_2: rightchronic
+bip_39_word_no_space_3: rightchronictrust
+bip_39_word_no_space_4: rightchronictrustpoet
+bip_39_word_no_space_5: rightchronictrustpoetrelax
+bip_39_word_no_space_6: rightchronictrustpoetrelaxdistance
+bip_39_word_no_space_7: rightchronictrustpoetrelaxdistancelock
+bip_39_word_no_space_8: rightchronictrustpoetrelaxdistancelocksweet
+bip_39_word_no_space_9: rightchronictrustpoetrelaxdistancelocksweetcattle
 bip_39_word_space_0:
 - right
 - chronic

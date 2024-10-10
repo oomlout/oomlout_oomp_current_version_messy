@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'axis
   stairs
 
   text'
+bip_39_word_no_space_1: axis
+bip_39_word_no_space_10: axissoldierswordmorningtoastactorwolfstairstextaccess
+bip_39_word_no_space_11: axissoldierswordmorningtoastactorwolfstairstextaccessrude
+bip_39_word_no_space_12: axissoldierswordmorningtoastactorwolfstairstextaccessrudeany
+bip_39_word_no_space_2: axissoldier
+bip_39_word_no_space_3: axissoldiersword
+bip_39_word_no_space_4: axissoldierswordmorning
+bip_39_word_no_space_5: axissoldierswordmorningtoast
+bip_39_word_no_space_6: axissoldierswordmorningtoastactor
+bip_39_word_no_space_7: axissoldierswordmorningtoastactorwolf
+bip_39_word_no_space_8: axissoldierswordmorningtoastactorwolfstairs
+bip_39_word_no_space_9: axissoldierswordmorningtoastactorwolfstairstext
 bip_39_word_space_0:
 - axis
 - soldier

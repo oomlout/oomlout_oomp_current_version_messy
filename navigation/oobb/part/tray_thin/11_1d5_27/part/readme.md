@@ -122,6 +122,18 @@ reject
 segment
 duck
 margin |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainnuclearsocialoutdoorcrumblerejectsegmentduckmargineagle |  
+| bip_39_word_no_space_11 | grainnuclearsocialoutdoorcrumblerejectsegmentduckmargineaglearrest |  
+| bip_39_word_no_space_12 | grainnuclearsocialoutdoorcrumblerejectsegmentduckmargineaglearrestalso |  
+| bip_39_word_no_space_2 | grainnuclear |  
+| bip_39_word_no_space_3 | grainnuclearsocial |  
+| bip_39_word_no_space_4 | grainnuclearsocialoutdoor |  
+| bip_39_word_no_space_5 | grainnuclearsocialoutdoorcrumble |  
+| bip_39_word_no_space_6 | grainnuclearsocialoutdoorcrumblereject |  
+| bip_39_word_no_space_7 | grainnuclearsocialoutdoorcrumblerejectsegment |  
+| bip_39_word_no_space_8 | grainnuclearsocialoutdoorcrumblerejectsegmentduck |  
+| bip_39_word_no_space_9 | grainnuclearsocialoutdoorcrumblerejectsegmentduckmargin |  
 | bip_39_word_space_0 | ['grain', 'nuclear', 'social', 'outdoor', 'crumble', 'reject', 'segment', 'duck', 'margin', 'eagle', 'arrest', 'also'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain nuclear social outdoor crumble reject segment duck margin eagle |  

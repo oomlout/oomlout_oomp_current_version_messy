@@ -122,6 +122,18 @@ few
 round
 cabbage
 curve |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalarrangeblastdoorsomeonefewroundcabbagecurvetrumpet |  
+| bip_39_word_no_space_11 | federalarrangeblastdoorsomeonefewroundcabbagecurvetrumpetarea |  
+| bip_39_word_no_space_12 | federalarrangeblastdoorsomeonefewroundcabbagecurvetrumpetareaappear |  
+| bip_39_word_no_space_2 | federalarrange |  
+| bip_39_word_no_space_3 | federalarrangeblast |  
+| bip_39_word_no_space_4 | federalarrangeblastdoor |  
+| bip_39_word_no_space_5 | federalarrangeblastdoorsomeone |  
+| bip_39_word_no_space_6 | federalarrangeblastdoorsomeonefew |  
+| bip_39_word_no_space_7 | federalarrangeblastdoorsomeonefewround |  
+| bip_39_word_no_space_8 | federalarrangeblastdoorsomeonefewroundcabbage |  
+| bip_39_word_no_space_9 | federalarrangeblastdoorsomeonefewroundcabbagecurve |  
 | bip_39_word_space_0 | ['federal', 'arrange', 'blast', 'door', 'someone', 'few', 'round', 'cabbage', 'curve', 'trumpet', 'area', 'appear'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal arrange blast door someone few round cabbage curve trumpet |  

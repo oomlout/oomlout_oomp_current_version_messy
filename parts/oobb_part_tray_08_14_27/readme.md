@@ -122,6 +122,18 @@ soul
 luxury
 drip
 couple |  
+| bip_39_word_no_space_1 | hammer |  
+| bip_39_word_no_space_10 | hammersteelgriefcuriousinhalesoulluxurydripcoupleendorse |  
+| bip_39_word_no_space_11 | hammersteelgriefcuriousinhalesoulluxurydripcoupleendorsecoffee |  
+| bip_39_word_no_space_12 | hammersteelgriefcuriousinhalesoulluxurydripcoupleendorsecoffeeahead |  
+| bip_39_word_no_space_2 | hammersteel |  
+| bip_39_word_no_space_3 | hammersteelgrief |  
+| bip_39_word_no_space_4 | hammersteelgriefcurious |  
+| bip_39_word_no_space_5 | hammersteelgriefcuriousinhale |  
+| bip_39_word_no_space_6 | hammersteelgriefcuriousinhalesoul |  
+| bip_39_word_no_space_7 | hammersteelgriefcuriousinhalesoulluxury |  
+| bip_39_word_no_space_8 | hammersteelgriefcuriousinhalesoulluxurydrip |  
+| bip_39_word_no_space_9 | hammersteelgriefcuriousinhalesoulluxurydripcouple |  
 | bip_39_word_space_0 | ['hammer', 'steel', 'grief', 'curious', 'inhale', 'soul', 'luxury', 'drip', 'couple', 'endorse', 'coffee', 'ahead'] |  
 | bip_39_word_space_1 | hammer |  
 | bip_39_word_space_10 | hammer steel grief curious inhale soul luxury drip couple endorse |  

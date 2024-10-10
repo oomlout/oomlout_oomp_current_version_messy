@@ -122,6 +122,18 @@ hockey
 pepper
 list
 theme |  
+| bip_39_word_no_space_1 | sick |  
+| bip_39_word_no_space_10 | sickreliefbetraylaboraunthockeypepperlistthemejourney |  
+| bip_39_word_no_space_11 | sickreliefbetraylaboraunthockeypepperlistthemejourneyunusual |  
+| bip_39_word_no_space_12 | sickreliefbetraylaboraunthockeypepperlistthemejourneyunusualalready |  
+| bip_39_word_no_space_2 | sickrelief |  
+| bip_39_word_no_space_3 | sickreliefbetray |  
+| bip_39_word_no_space_4 | sickreliefbetraylabor |  
+| bip_39_word_no_space_5 | sickreliefbetraylaboraunt |  
+| bip_39_word_no_space_6 | sickreliefbetraylaboraunthockey |  
+| bip_39_word_no_space_7 | sickreliefbetraylaboraunthockeypepper |  
+| bip_39_word_no_space_8 | sickreliefbetraylaboraunthockeypepperlist |  
+| bip_39_word_no_space_9 | sickreliefbetraylaboraunthockeypepperlisttheme |  
 | bip_39_word_space_0 | ['sick', 'relief', 'betray', 'labor', 'aunt', 'hockey', 'pepper', 'list', 'theme', 'journey', 'unusual', 'already'] |  
 | bip_39_word_space_1 | sick |  
 | bip_39_word_space_10 | sick relief betray labor aunt hockey pepper list theme journey |  

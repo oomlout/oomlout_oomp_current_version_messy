@@ -122,6 +122,18 @@ loan
 divorce
 mixed
 east |  
+| bip_39_word_no_space_1 | sing |  
+| bip_39_word_no_space_10 | singalphafuturewhiptunnelloandivorcemixedeastdivide |  
+| bip_39_word_no_space_11 | singalphafuturewhiptunnelloandivorcemixedeastdividemix |  
+| bip_39_word_no_space_12 | singalphafuturewhiptunnelloandivorcemixedeastdividemixamong |  
+| bip_39_word_no_space_2 | singalpha |  
+| bip_39_word_no_space_3 | singalphafuture |  
+| bip_39_word_no_space_4 | singalphafuturewhip |  
+| bip_39_word_no_space_5 | singalphafuturewhiptunnel |  
+| bip_39_word_no_space_6 | singalphafuturewhiptunnelloan |  
+| bip_39_word_no_space_7 | singalphafuturewhiptunnelloandivorce |  
+| bip_39_word_no_space_8 | singalphafuturewhiptunnelloandivorcemixed |  
+| bip_39_word_no_space_9 | singalphafuturewhiptunnelloandivorcemixedeast |  
 | bip_39_word_space_0 | ['sing', 'alpha', 'future', 'whip', 'tunnel', 'loan', 'divorce', 'mixed', 'east', 'divide', 'mix', 'among'] |  
 | bip_39_word_space_1 | sing |  
 | bip_39_word_space_10 | sing alpha future whip tunnel loan divorce mixed east divide |  

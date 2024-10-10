@@ -122,6 +122,18 @@ print
 marriage
 shield
 fragile |  
+| bip_39_word_no_space_1 | assume |  
+| bip_39_word_no_space_10 | assumeforceamazinglawngaugeprintmarriageshieldfragileblast |  
+| bip_39_word_no_space_11 | assumeforceamazinglawngaugeprintmarriageshieldfragileblastsail |  
+| bip_39_word_no_space_12 | assumeforceamazinglawngaugeprintmarriageshieldfragileblastsailarmed |  
+| bip_39_word_no_space_2 | assumeforce |  
+| bip_39_word_no_space_3 | assumeforceamazing |  
+| bip_39_word_no_space_4 | assumeforceamazinglawn |  
+| bip_39_word_no_space_5 | assumeforceamazinglawngauge |  
+| bip_39_word_no_space_6 | assumeforceamazinglawngaugeprint |  
+| bip_39_word_no_space_7 | assumeforceamazinglawngaugeprintmarriage |  
+| bip_39_word_no_space_8 | assumeforceamazinglawngaugeprintmarriageshield |  
+| bip_39_word_no_space_9 | assumeforceamazinglawngaugeprintmarriageshieldfragile |  
 | bip_39_word_space_0 | ['assume', 'force', 'amazing', 'lawn', 'gauge', 'print', 'marriage', 'shield', 'fragile', 'blast', 'sail', 'armed'] |  
 | bip_39_word_space_1 | assume |  
 | bip_39_word_space_10 | assume force amazing lawn gauge print marriage shield fragile blast |  

@@ -122,6 +122,18 @@ unit
 patch
 banner
 roof |  
+| bip_39_word_no_space_1 | when |  
+| bip_39_word_no_space_10 | whencrewcactusfixfaceunitpatchbannerroofchapter |  
+| bip_39_word_no_space_11 | whencrewcactusfixfaceunitpatchbannerroofchapterrender |  
+| bip_39_word_no_space_12 | whencrewcactusfixfaceunitpatchbannerroofchapterrenderall |  
+| bip_39_word_no_space_2 | whencrew |  
+| bip_39_word_no_space_3 | whencrewcactus |  
+| bip_39_word_no_space_4 | whencrewcactusfix |  
+| bip_39_word_no_space_5 | whencrewcactusfixface |  
+| bip_39_word_no_space_6 | whencrewcactusfixfaceunit |  
+| bip_39_word_no_space_7 | whencrewcactusfixfaceunitpatch |  
+| bip_39_word_no_space_8 | whencrewcactusfixfaceunitpatchbanner |  
+| bip_39_word_no_space_9 | whencrewcactusfixfaceunitpatchbannerroof |  
 | bip_39_word_space_0 | ['when', 'crew', 'cactus', 'fix', 'face', 'unit', 'patch', 'banner', 'roof', 'chapter', 'render', 'all'] |  
 | bip_39_word_space_1 | when |  
 | bip_39_word_space_10 | when crew cactus fix face unit patch banner roof chapter |  

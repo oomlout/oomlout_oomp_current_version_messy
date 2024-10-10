@@ -122,6 +122,18 @@ excite
 dream
 can
 crater |  
+| bip_39_word_no_space_1 | soldier |  
+| bip_39_word_no_space_10 | soldierenlistmemberdenycruelexcitedreamcancraterrazor |  
+| bip_39_word_no_space_11 | soldierenlistmemberdenycruelexcitedreamcancraterrazorquantum |  
+| bip_39_word_no_space_12 | soldierenlistmemberdenycruelexcitedreamcancraterrazorquantumartwork |  
+| bip_39_word_no_space_2 | soldierenlist |  
+| bip_39_word_no_space_3 | soldierenlistmember |  
+| bip_39_word_no_space_4 | soldierenlistmemberdeny |  
+| bip_39_word_no_space_5 | soldierenlistmemberdenycruel |  
+| bip_39_word_no_space_6 | soldierenlistmemberdenycruelexcite |  
+| bip_39_word_no_space_7 | soldierenlistmemberdenycruelexcitedream |  
+| bip_39_word_no_space_8 | soldierenlistmemberdenycruelexcitedreamcan |  
+| bip_39_word_no_space_9 | soldierenlistmemberdenycruelexcitedreamcancrater |  
 | bip_39_word_space_0 | ['soldier', 'enlist', 'member', 'deny', 'cruel', 'excite', 'dream', 'can', 'crater', 'razor', 'quantum', 'artwork'] |  
 | bip_39_word_space_1 | soldier |  
 | bip_39_word_space_10 | soldier enlist member deny cruel excite dream can crater razor |  

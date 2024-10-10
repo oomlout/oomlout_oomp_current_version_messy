@@ -122,6 +122,18 @@ dolphin
 elder
 today
 tourist |  
+| bip_39_word_no_space_1 | crush |  
+| bip_39_word_no_space_10 | crushwheatamateurnormaldecoratedolphineldertodaytouristscout |  
+| bip_39_word_no_space_11 | crushwheatamateurnormaldecoratedolphineldertodaytouristscoutsting |  
+| bip_39_word_no_space_12 | crushwheatamateurnormaldecoratedolphineldertodaytouristscoutstingamazing |  
+| bip_39_word_no_space_2 | crushwheat |  
+| bip_39_word_no_space_3 | crushwheatamateur |  
+| bip_39_word_no_space_4 | crushwheatamateurnormal |  
+| bip_39_word_no_space_5 | crushwheatamateurnormaldecorate |  
+| bip_39_word_no_space_6 | crushwheatamateurnormaldecoratedolphin |  
+| bip_39_word_no_space_7 | crushwheatamateurnormaldecoratedolphinelder |  
+| bip_39_word_no_space_8 | crushwheatamateurnormaldecoratedolphineldertoday |  
+| bip_39_word_no_space_9 | crushwheatamateurnormaldecoratedolphineldertodaytourist |  
 | bip_39_word_space_0 | ['crush', 'wheat', 'amateur', 'normal', 'decorate', 'dolphin', 'elder', 'today', 'tourist', 'scout', 'sting', 'amazing'] |  
 | bip_39_word_space_1 | crush |  
 | bip_39_word_space_10 | crush wheat amateur normal decorate dolphin elder today tourist scout |  

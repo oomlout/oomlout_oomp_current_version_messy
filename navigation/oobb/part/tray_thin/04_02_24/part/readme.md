@@ -122,6 +122,18 @@ border
 system
 price
 elite |  
+| bip_39_word_no_space_1 | brave |  
+| bip_39_word_no_space_10 | bravetellhomethankexamplebordersystempriceeliterelax |  
+| bip_39_word_no_space_11 | bravetellhomethankexamplebordersystempriceeliterelaxgiant |  
+| bip_39_word_no_space_12 | bravetellhomethankexamplebordersystempriceeliterelaxgiantautumn |  
+| bip_39_word_no_space_2 | bravetell |  
+| bip_39_word_no_space_3 | bravetellhome |  
+| bip_39_word_no_space_4 | bravetellhomethank |  
+| bip_39_word_no_space_5 | bravetellhomethankexample |  
+| bip_39_word_no_space_6 | bravetellhomethankexampleborder |  
+| bip_39_word_no_space_7 | bravetellhomethankexamplebordersystem |  
+| bip_39_word_no_space_8 | bravetellhomethankexamplebordersystemprice |  
+| bip_39_word_no_space_9 | bravetellhomethankexamplebordersystempriceelite |  
 | bip_39_word_space_0 | ['brave', 'tell', 'home', 'thank', 'example', 'border', 'system', 'price', 'elite', 'relax', 'giant', 'autumn'] |  
 | bip_39_word_space_1 | brave |  
 | bip_39_word_space_10 | brave tell home thank example border system price elite relax |  

@@ -122,6 +122,18 @@ edge
 alien
 height
 trade |  
+| bip_39_word_no_space_1 | voyage |  
+| bip_39_word_no_space_10 | voyageofferwavenoiseopinionedgealienheighttradedivorce |  
+| bip_39_word_no_space_11 | voyageofferwavenoiseopinionedgealienheighttradedivorcedestroy |  
+| bip_39_word_no_space_12 | voyageofferwavenoiseopinionedgealienheighttradedivorcedestroyadult |  
+| bip_39_word_no_space_2 | voyageoffer |  
+| bip_39_word_no_space_3 | voyageofferwave |  
+| bip_39_word_no_space_4 | voyageofferwavenoise |  
+| bip_39_word_no_space_5 | voyageofferwavenoiseopinion |  
+| bip_39_word_no_space_6 | voyageofferwavenoiseopinionedge |  
+| bip_39_word_no_space_7 | voyageofferwavenoiseopinionedgealien |  
+| bip_39_word_no_space_8 | voyageofferwavenoiseopinionedgealienheight |  
+| bip_39_word_no_space_9 | voyageofferwavenoiseopinionedgealienheighttrade |  
 | bip_39_word_space_0 | ['voyage', 'offer', 'wave', 'noise', 'opinion', 'edge', 'alien', 'height', 'trade', 'divorce', 'destroy', 'adult'] |  
 | bip_39_word_space_1 | voyage |  
 | bip_39_word_space_10 | voyage offer wave noise opinion edge alien height trade divorce |  

@@ -122,6 +122,18 @@ penalty
 accident
 gift
 legend |  
+| bip_39_word_no_space_1 | alone |  
+| bip_39_word_no_space_10 | alonevansalmoncarryalarmpenaltyaccidentgiftlegendoften |  
+| bip_39_word_no_space_11 | alonevansalmoncarryalarmpenaltyaccidentgiftlegendoftenboy |  
+| bip_39_word_no_space_12 | alonevansalmoncarryalarmpenaltyaccidentgiftlegendoftenboyafford |  
+| bip_39_word_no_space_2 | alonevan |  
+| bip_39_word_no_space_3 | alonevansalmon |  
+| bip_39_word_no_space_4 | alonevansalmoncarry |  
+| bip_39_word_no_space_5 | alonevansalmoncarryalarm |  
+| bip_39_word_no_space_6 | alonevansalmoncarryalarmpenalty |  
+| bip_39_word_no_space_7 | alonevansalmoncarryalarmpenaltyaccident |  
+| bip_39_word_no_space_8 | alonevansalmoncarryalarmpenaltyaccidentgift |  
+| bip_39_word_no_space_9 | alonevansalmoncarryalarmpenaltyaccidentgiftlegend |  
 | bip_39_word_space_0 | ['alone', 'van', 'salmon', 'carry', 'alarm', 'penalty', 'accident', 'gift', 'legend', 'often', 'boy', 'afford'] |  
 | bip_39_word_space_1 | alone |  
 | bip_39_word_space_10 | alone van salmon carry alarm penalty accident gift legend often |  

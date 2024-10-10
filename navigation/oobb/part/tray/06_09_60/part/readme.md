@@ -122,6 +122,18 @@ lens
 sound
 page
 olympic |  
+| bip_39_word_no_space_1 | repeat |  
+| bip_39_word_no_space_10 | repeattripconcertnucleartruthlenssoundpageolympicname |  
+| bip_39_word_no_space_11 | repeattripconcertnucleartruthlenssoundpageolympicnamesmall |  
+| bip_39_word_no_space_12 | repeattripconcertnucleartruthlenssoundpageolympicnamesmallair |  
+| bip_39_word_no_space_2 | repeattrip |  
+| bip_39_word_no_space_3 | repeattripconcert |  
+| bip_39_word_no_space_4 | repeattripconcertnuclear |  
+| bip_39_word_no_space_5 | repeattripconcertnucleartruth |  
+| bip_39_word_no_space_6 | repeattripconcertnucleartruthlens |  
+| bip_39_word_no_space_7 | repeattripconcertnucleartruthlenssound |  
+| bip_39_word_no_space_8 | repeattripconcertnucleartruthlenssoundpage |  
+| bip_39_word_no_space_9 | repeattripconcertnucleartruthlenssoundpageolympic |  
 | bip_39_word_space_0 | ['repeat', 'trip', 'concert', 'nuclear', 'truth', 'lens', 'sound', 'page', 'olympic', 'name', 'small', 'air'] |  
 | bip_39_word_space_1 | repeat |  
 | bip_39_word_space_10 | repeat trip concert nuclear truth lens sound page olympic name |  

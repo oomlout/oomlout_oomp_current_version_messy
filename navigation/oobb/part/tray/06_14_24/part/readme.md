@@ -122,6 +122,18 @@ badge
 market
 best
 bus |  
+| bip_39_word_no_space_1 | bar |  
+| bip_39_word_no_space_10 | bargunkidneyuponfindbadgemarketbestbusminimum |  
+| bip_39_word_no_space_11 | bargunkidneyuponfindbadgemarketbestbusminimumcrisp |  
+| bip_39_word_no_space_12 | bargunkidneyuponfindbadgemarketbestbusminimumcrispabsent |  
+| bip_39_word_no_space_2 | bargun |  
+| bip_39_word_no_space_3 | bargunkidney |  
+| bip_39_word_no_space_4 | bargunkidneyupon |  
+| bip_39_word_no_space_5 | bargunkidneyuponfind |  
+| bip_39_word_no_space_6 | bargunkidneyuponfindbadge |  
+| bip_39_word_no_space_7 | bargunkidneyuponfindbadgemarket |  
+| bip_39_word_no_space_8 | bargunkidneyuponfindbadgemarketbest |  
+| bip_39_word_no_space_9 | bargunkidneyuponfindbadgemarketbestbus |  
 | bip_39_word_space_0 | ['bar', 'gun', 'kidney', 'upon', 'find', 'badge', 'market', 'best', 'bus', 'minimum', 'crisp', 'absent'] |  
 | bip_39_word_space_1 | bar |  
 | bip_39_word_space_10 | bar gun kidney upon find badge market best bus minimum |  

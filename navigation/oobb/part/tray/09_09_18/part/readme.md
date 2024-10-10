@@ -122,6 +122,18 @@ siege
 motor
 circle
 fog |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misssodashedhalfcallsiegemotorcirclefogsilly |  
+| bip_39_word_no_space_11 | misssodashedhalfcallsiegemotorcirclefogsillymonitor |  
+| bip_39_word_no_space_12 | misssodashedhalfcallsiegemotorcirclefogsillymonitorartefact |  
+| bip_39_word_no_space_2 | misssoda |  
+| bip_39_word_no_space_3 | misssodashed |  
+| bip_39_word_no_space_4 | misssodashedhalf |  
+| bip_39_word_no_space_5 | misssodashedhalfcall |  
+| bip_39_word_no_space_6 | misssodashedhalfcallsiege |  
+| bip_39_word_no_space_7 | misssodashedhalfcallsiegemotor |  
+| bip_39_word_no_space_8 | misssodashedhalfcallsiegemotorcircle |  
+| bip_39_word_no_space_9 | misssodashedhalfcallsiegemotorcirclefog |  
 | bip_39_word_space_0 | ['miss', 'soda', 'shed', 'half', 'call', 'siege', 'motor', 'circle', 'fog', 'silly', 'monitor', 'artefact'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss soda shed half call siege motor circle fog silly |  

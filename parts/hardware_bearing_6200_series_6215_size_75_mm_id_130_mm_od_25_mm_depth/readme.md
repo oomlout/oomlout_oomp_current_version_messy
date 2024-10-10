@@ -122,6 +122,18 @@ drive
 expect
 uncover
 swing |  
+| bip_39_word_no_space_1 | cement |  
+| bip_39_word_no_space_10 | cementbusinvolvestepgeniusdriveexpectuncoverswingdentist |  
+| bip_39_word_no_space_11 | cementbusinvolvestepgeniusdriveexpectuncoverswingdentistbroken |  
+| bip_39_word_no_space_12 | cementbusinvolvestepgeniusdriveexpectuncoverswingdentistbrokenangle |  
+| bip_39_word_no_space_2 | cementbus |  
+| bip_39_word_no_space_3 | cementbusinvolve |  
+| bip_39_word_no_space_4 | cementbusinvolvestep |  
+| bip_39_word_no_space_5 | cementbusinvolvestepgenius |  
+| bip_39_word_no_space_6 | cementbusinvolvestepgeniusdrive |  
+| bip_39_word_no_space_7 | cementbusinvolvestepgeniusdriveexpect |  
+| bip_39_word_no_space_8 | cementbusinvolvestepgeniusdriveexpectuncover |  
+| bip_39_word_no_space_9 | cementbusinvolvestepgeniusdriveexpectuncoverswing |  
 | bip_39_word_space_0 | ['cement', 'bus', 'involve', 'step', 'genius', 'drive', 'expect', 'uncover', 'swing', 'dentist', 'broken', 'angle'] |  
 | bip_39_word_space_1 | cement |  
 | bip_39_word_space_10 | cement bus involve step genius drive expect uncover swing dentist |  

@@ -122,6 +122,18 @@ coffee
 match
 purpose
 media |  
+| bip_39_word_no_space_1 | lobster |  
+| bip_39_word_no_space_10 | lobsterluggagedebateevidencegentlecoffeematchpurposemediamedal |  
+| bip_39_word_no_space_11 | lobsterluggagedebateevidencegentlecoffeematchpurposemediamedaltoss |  
+| bip_39_word_no_space_12 | lobsterluggagedebateevidencegentlecoffeematchpurposemediamedaltossaugust |  
+| bip_39_word_no_space_2 | lobsterluggage |  
+| bip_39_word_no_space_3 | lobsterluggagedebate |  
+| bip_39_word_no_space_4 | lobsterluggagedebateevidence |  
+| bip_39_word_no_space_5 | lobsterluggagedebateevidencegentle |  
+| bip_39_word_no_space_6 | lobsterluggagedebateevidencegentlecoffee |  
+| bip_39_word_no_space_7 | lobsterluggagedebateevidencegentlecoffeematch |  
+| bip_39_word_no_space_8 | lobsterluggagedebateevidencegentlecoffeematchpurpose |  
+| bip_39_word_no_space_9 | lobsterluggagedebateevidencegentlecoffeematchpurposemedia |  
 | bip_39_word_space_0 | ['lobster', 'luggage', 'debate', 'evidence', 'gentle', 'coffee', 'match', 'purpose', 'media', 'medal', 'toss', 'august'] |  
 | bip_39_word_space_1 | lobster |  
 | bip_39_word_space_10 | lobster luggage debate evidence gentle coffee match purpose media medal |  

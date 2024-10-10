@@ -122,6 +122,18 @@ angle
 fork
 inject
 steak |  
+| bip_39_word_no_space_1 | table |  
+| bip_39_word_no_space_10 | tablepiececherrymirrorinsideangleforkinjectsteakgroup |  
+| bip_39_word_no_space_11 | tablepiececherrymirrorinsideangleforkinjectsteakgrouppink |  
+| bip_39_word_no_space_12 | tablepiececherrymirrorinsideangleforkinjectsteakgrouppinkalready |  
+| bip_39_word_no_space_2 | tablepiece |  
+| bip_39_word_no_space_3 | tablepiececherry |  
+| bip_39_word_no_space_4 | tablepiececherrymirror |  
+| bip_39_word_no_space_5 | tablepiececherrymirrorinside |  
+| bip_39_word_no_space_6 | tablepiececherrymirrorinsideangle |  
+| bip_39_word_no_space_7 | tablepiececherrymirrorinsideanglefork |  
+| bip_39_word_no_space_8 | tablepiececherrymirrorinsideangleforkinject |  
+| bip_39_word_no_space_9 | tablepiececherrymirrorinsideangleforkinjectsteak |  
 | bip_39_word_space_0 | ['table', 'piece', 'cherry', 'mirror', 'inside', 'angle', 'fork', 'inject', 'steak', 'group', 'pink', 'already'] |  
 | bip_39_word_space_1 | table |  
 | bip_39_word_space_10 | table piece cherry mirror inside angle fork inject steak group |  

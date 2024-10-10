@@ -122,6 +122,18 @@ globe
 sponsor
 stairs
 regular |  
+| bip_39_word_no_space_1 | lunch |  
+| bip_39_word_no_space_10 | lunchcakecattleplatedepartglobesponsorstairsregularinput |  
+| bip_39_word_no_space_11 | lunchcakecattleplatedepartglobesponsorstairsregularinputsolve |  
+| bip_39_word_no_space_12 | lunchcakecattleplatedepartglobesponsorstairsregularinputsolvealpha |  
+| bip_39_word_no_space_2 | lunchcake |  
+| bip_39_word_no_space_3 | lunchcakecattle |  
+| bip_39_word_no_space_4 | lunchcakecattleplate |  
+| bip_39_word_no_space_5 | lunchcakecattleplatedepart |  
+| bip_39_word_no_space_6 | lunchcakecattleplatedepartglobe |  
+| bip_39_word_no_space_7 | lunchcakecattleplatedepartglobesponsor |  
+| bip_39_word_no_space_8 | lunchcakecattleplatedepartglobesponsorstairs |  
+| bip_39_word_no_space_9 | lunchcakecattleplatedepartglobesponsorstairsregular |  
 | bip_39_word_space_0 | ['lunch', 'cake', 'cattle', 'plate', 'depart', 'globe', 'sponsor', 'stairs', 'regular', 'input', 'solve', 'alpha'] |  
 | bip_39_word_space_1 | lunch |  
 | bip_39_word_space_10 | lunch cake cattle plate depart globe sponsor stairs regular input |  

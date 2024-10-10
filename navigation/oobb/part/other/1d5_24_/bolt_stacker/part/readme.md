@@ -122,6 +122,18 @@ nothing
 mystery
 tiger
 plate |  
+| bip_39_word_no_space_1 | scrub |  
+| bip_39_word_no_space_10 | scrubcubeheightgracepicnicnothingmysterytigerplateeagle |  
+| bip_39_word_no_space_11 | scrubcubeheightgracepicnicnothingmysterytigerplateeaglesenior |  
+| bip_39_word_no_space_12 | scrubcubeheightgracepicnicnothingmysterytigerplateeaglesenioract |  
+| bip_39_word_no_space_2 | scrubcube |  
+| bip_39_word_no_space_3 | scrubcubeheight |  
+| bip_39_word_no_space_4 | scrubcubeheightgrace |  
+| bip_39_word_no_space_5 | scrubcubeheightgracepicnic |  
+| bip_39_word_no_space_6 | scrubcubeheightgracepicnicnothing |  
+| bip_39_word_no_space_7 | scrubcubeheightgracepicnicnothingmystery |  
+| bip_39_word_no_space_8 | scrubcubeheightgracepicnicnothingmysterytiger |  
+| bip_39_word_no_space_9 | scrubcubeheightgracepicnicnothingmysterytigerplate |  
 | bip_39_word_space_0 | ['scrub', 'cube', 'height', 'grace', 'picnic', 'nothing', 'mystery', 'tiger', 'plate', 'eagle', 'senior', 'act'] |  
 | bip_39_word_space_1 | scrub |  
 | bip_39_word_space_10 | scrub cube height grace picnic nothing mystery tiger plate eagle |  

@@ -122,6 +122,18 @@ chase
 depend
 brass
 interest |  
+| bip_39_word_no_space_1 | dinosaur |  
+| bip_39_word_no_space_10 | dinosaurhusbandsimilarinsidegallerychasedependbrassinterestseason |  
+| bip_39_word_no_space_11 | dinosaurhusbandsimilarinsidegallerychasedependbrassinterestseasonwine |  
+| bip_39_word_no_space_12 | dinosaurhusbandsimilarinsidegallerychasedependbrassinterestseasonwineapart |  
+| bip_39_word_no_space_2 | dinosaurhusband |  
+| bip_39_word_no_space_3 | dinosaurhusbandsimilar |  
+| bip_39_word_no_space_4 | dinosaurhusbandsimilarinside |  
+| bip_39_word_no_space_5 | dinosaurhusbandsimilarinsidegallery |  
+| bip_39_word_no_space_6 | dinosaurhusbandsimilarinsidegallerychase |  
+| bip_39_word_no_space_7 | dinosaurhusbandsimilarinsidegallerychasedepend |  
+| bip_39_word_no_space_8 | dinosaurhusbandsimilarinsidegallerychasedependbrass |  
+| bip_39_word_no_space_9 | dinosaurhusbandsimilarinsidegallerychasedependbrassinterest |  
 | bip_39_word_space_0 | ['dinosaur', 'husband', 'similar', 'inside', 'gallery', 'chase', 'depend', 'brass', 'interest', 'season', 'wine', 'apart'] |  
 | bip_39_word_space_1 | dinosaur |  
 | bip_39_word_space_10 | dinosaur husband similar inside gallery chase depend brass interest season |  

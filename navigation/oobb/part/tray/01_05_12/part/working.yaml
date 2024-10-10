@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'story
   clerk
 
   clerk'
+bip_39_word_no_space_1: story
+bip_39_word_no_space_10: storyluckyshadowbettermirrorsummerdecadeclerkclerkquit
+bip_39_word_no_space_11: storyluckyshadowbettermirrorsummerdecadeclerkclerkquitkiwi
+bip_39_word_no_space_12: storyluckyshadowbettermirrorsummerdecadeclerkclerkquitkiwiasset
+bip_39_word_no_space_2: storylucky
+bip_39_word_no_space_3: storyluckyshadow
+bip_39_word_no_space_4: storyluckyshadowbetter
+bip_39_word_no_space_5: storyluckyshadowbettermirror
+bip_39_word_no_space_6: storyluckyshadowbettermirrorsummer
+bip_39_word_no_space_7: storyluckyshadowbettermirrorsummerdecade
+bip_39_word_no_space_8: storyluckyshadowbettermirrorsummerdecadeclerk
+bip_39_word_no_space_9: storyluckyshadowbettermirrorsummerdecadeclerkclerk
 bip_39_word_space_0:
 - story
 - lucky

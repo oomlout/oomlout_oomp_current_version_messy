@@ -122,6 +122,18 @@ neutral
 glow
 horn
 sure |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betrayacquiretradescarecycleneutralglowhornsurekitten |  
+| bip_39_word_no_space_11 | betrayacquiretradescarecycleneutralglowhornsurekittencan |  
+| bip_39_word_no_space_12 | betrayacquiretradescarecycleneutralglowhornsurekittencanacoustic |  
+| bip_39_word_no_space_2 | betrayacquire |  
+| bip_39_word_no_space_3 | betrayacquiretrade |  
+| bip_39_word_no_space_4 | betrayacquiretradescare |  
+| bip_39_word_no_space_5 | betrayacquiretradescarecycle |  
+| bip_39_word_no_space_6 | betrayacquiretradescarecycleneutral |  
+| bip_39_word_no_space_7 | betrayacquiretradescarecycleneutralglow |  
+| bip_39_word_no_space_8 | betrayacquiretradescarecycleneutralglowhorn |  
+| bip_39_word_no_space_9 | betrayacquiretradescarecycleneutralglowhornsure |  
 | bip_39_word_space_0 | ['betray', 'acquire', 'trade', 'scare', 'cycle', 'neutral', 'glow', 'horn', 'sure', 'kitten', 'can', 'acoustic'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray acquire trade scare cycle neutral glow horn sure kitten |  

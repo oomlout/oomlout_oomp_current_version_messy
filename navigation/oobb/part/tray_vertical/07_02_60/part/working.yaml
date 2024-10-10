@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fan
   place
 
   eagle'
+bip_39_word_no_space_1: fan
+bip_39_word_no_space_10: fanjellyadmitreviewskiabsorbexileplaceeaglesail
+bip_39_word_no_space_11: fanjellyadmitreviewskiabsorbexileplaceeaglesailgalaxy
+bip_39_word_no_space_12: fanjellyadmitreviewskiabsorbexileplaceeaglesailgalaxyable
+bip_39_word_no_space_2: fanjelly
+bip_39_word_no_space_3: fanjellyadmit
+bip_39_word_no_space_4: fanjellyadmitreview
+bip_39_word_no_space_5: fanjellyadmitreviewski
+bip_39_word_no_space_6: fanjellyadmitreviewskiabsorb
+bip_39_word_no_space_7: fanjellyadmitreviewskiabsorbexile
+bip_39_word_no_space_8: fanjellyadmitreviewskiabsorbexileplace
+bip_39_word_no_space_9: fanjellyadmitreviewskiabsorbexileplaceeagle
 bip_39_word_space_0:
 - fan
 - jelly

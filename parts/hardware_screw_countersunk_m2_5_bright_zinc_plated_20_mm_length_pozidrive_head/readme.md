@@ -122,6 +122,18 @@ shove
 hazard
 choice
 tip |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | rulesunbambooprisongainshovehazardchoicetipseven |  
+| bip_39_word_no_space_11 | rulesunbambooprisongainshovehazardchoicetipsevenmerge |  
+| bip_39_word_no_space_12 | rulesunbambooprisongainshovehazardchoicetipsevenmergeamateur |  
+| bip_39_word_no_space_2 | rulesun |  
+| bip_39_word_no_space_3 | rulesunbamboo |  
+| bip_39_word_no_space_4 | rulesunbambooprison |  
+| bip_39_word_no_space_5 | rulesunbambooprisongain |  
+| bip_39_word_no_space_6 | rulesunbambooprisongainshove |  
+| bip_39_word_no_space_7 | rulesunbambooprisongainshovehazard |  
+| bip_39_word_no_space_8 | rulesunbambooprisongainshovehazardchoice |  
+| bip_39_word_no_space_9 | rulesunbambooprisongainshovehazardchoicetip |  
 | bip_39_word_space_0 | ['rule', 'sun', 'bamboo', 'prison', 'gain', 'shove', 'hazard', 'choice', 'tip', 'seven', 'merge', 'amateur'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule sun bamboo prison gain shove hazard choice tip seven |  

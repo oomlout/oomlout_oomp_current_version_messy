@@ -122,6 +122,18 @@ poet
 demand
 country
 ignore |  
+| bip_39_word_no_space_1 | drift |  
+| bip_39_word_no_space_10 | driftgloveexampledefypridepoetdemandcountryignorelift |  
+| bip_39_word_no_space_11 | driftgloveexampledefypridepoetdemandcountryignoreliftarrange |  
+| bip_39_word_no_space_12 | driftgloveexampledefypridepoetdemandcountryignoreliftarrangeacoustic |  
+| bip_39_word_no_space_2 | driftglove |  
+| bip_39_word_no_space_3 | driftgloveexample |  
+| bip_39_word_no_space_4 | driftgloveexampledefy |  
+| bip_39_word_no_space_5 | driftgloveexampledefypride |  
+| bip_39_word_no_space_6 | driftgloveexampledefypridepoet |  
+| bip_39_word_no_space_7 | driftgloveexampledefypridepoetdemand |  
+| bip_39_word_no_space_8 | driftgloveexampledefypridepoetdemandcountry |  
+| bip_39_word_no_space_9 | driftgloveexampledefypridepoetdemandcountryignore |  
 | bip_39_word_space_0 | ['drift', 'glove', 'example', 'defy', 'pride', 'poet', 'demand', 'country', 'ignore', 'lift', 'arrange', 'acoustic'] |  
 | bip_39_word_space_1 | drift |  
 | bip_39_word_space_10 | drift glove example defy pride poet demand country ignore lift |  

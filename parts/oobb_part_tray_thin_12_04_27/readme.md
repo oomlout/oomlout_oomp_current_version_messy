@@ -122,6 +122,18 @@ cup
 below
 soul
 prosper |  
+| bip_39_word_no_space_1 | poverty |  
+| bip_39_word_no_space_10 | povertyshyplugbuttercitycupbelowsoulprosperarrest |  
+| bip_39_word_no_space_11 | povertyshyplugbuttercitycupbelowsoulprosperarrestrural |  
+| bip_39_word_no_space_12 | povertyshyplugbuttercitycupbelowsoulprosperarrestruralahead |  
+| bip_39_word_no_space_2 | povertyshy |  
+| bip_39_word_no_space_3 | povertyshyplug |  
+| bip_39_word_no_space_4 | povertyshyplugbutter |  
+| bip_39_word_no_space_5 | povertyshyplugbuttercity |  
+| bip_39_word_no_space_6 | povertyshyplugbuttercitycup |  
+| bip_39_word_no_space_7 | povertyshyplugbuttercitycupbelow |  
+| bip_39_word_no_space_8 | povertyshyplugbuttercitycupbelowsoul |  
+| bip_39_word_no_space_9 | povertyshyplugbuttercitycupbelowsoulprosper |  
 | bip_39_word_space_0 | ['poverty', 'shy', 'plug', 'butter', 'city', 'cup', 'below', 'soul', 'prosper', 'arrest', 'rural', 'ahead'] |  
 | bip_39_word_space_1 | poverty |  
 | bip_39_word_space_10 | poverty shy plug butter city cup below soul prosper arrest |  

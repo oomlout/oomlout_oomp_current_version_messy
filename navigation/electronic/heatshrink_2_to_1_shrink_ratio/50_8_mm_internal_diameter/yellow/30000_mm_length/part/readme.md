@@ -122,6 +122,18 @@ slogan
 east
 surround
 joke |  
+| bip_39_word_no_space_1 | tube |  
+| bip_39_word_no_space_10 | tubecutedelaydrumarrowsloganeastsurroundjokepenalty |  
+| bip_39_word_no_space_11 | tubecutedelaydrumarrowsloganeastsurroundjokepenaltymixture |  
+| bip_39_word_no_space_12 | tubecutedelaydrumarrowsloganeastsurroundjokepenaltymixturearch |  
+| bip_39_word_no_space_2 | tubecute |  
+| bip_39_word_no_space_3 | tubecutedelay |  
+| bip_39_word_no_space_4 | tubecutedelaydrum |  
+| bip_39_word_no_space_5 | tubecutedelaydrumarrow |  
+| bip_39_word_no_space_6 | tubecutedelaydrumarrowslogan |  
+| bip_39_word_no_space_7 | tubecutedelaydrumarrowsloganeast |  
+| bip_39_word_no_space_8 | tubecutedelaydrumarrowsloganeastsurround |  
+| bip_39_word_no_space_9 | tubecutedelaydrumarrowsloganeastsurroundjoke |  
 | bip_39_word_space_0 | ['tube', 'cute', 'delay', 'drum', 'arrow', 'slogan', 'east', 'surround', 'joke', 'penalty', 'mixture', 'arch'] |  
 | bip_39_word_space_1 | tube |  
 | bip_39_word_space_10 | tube cute delay drum arrow slogan east surround joke penalty |  

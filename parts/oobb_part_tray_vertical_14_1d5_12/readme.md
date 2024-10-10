@@ -122,6 +122,18 @@ trade
 express
 cliff
 razor |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddlelabelvelvetcandyagenttradeexpresscliffrazorshoulder |  
+| bip_39_word_no_space_11 | saddlelabelvelvetcandyagenttradeexpresscliffrazorshouldermoral |  
+| bip_39_word_no_space_12 | saddlelabelvelvetcandyagenttradeexpresscliffrazorshouldermoralart |  
+| bip_39_word_no_space_2 | saddlelabel |  
+| bip_39_word_no_space_3 | saddlelabelvelvet |  
+| bip_39_word_no_space_4 | saddlelabelvelvetcandy |  
+| bip_39_word_no_space_5 | saddlelabelvelvetcandyagent |  
+| bip_39_word_no_space_6 | saddlelabelvelvetcandyagenttrade |  
+| bip_39_word_no_space_7 | saddlelabelvelvetcandyagenttradeexpress |  
+| bip_39_word_no_space_8 | saddlelabelvelvetcandyagenttradeexpresscliff |  
+| bip_39_word_no_space_9 | saddlelabelvelvetcandyagenttradeexpresscliffrazor |  
 | bip_39_word_space_0 | ['saddle', 'label', 'velvet', 'candy', 'agent', 'trade', 'express', 'cliff', 'razor', 'shoulder', 'moral', 'art'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle label velvet candy agent trade express cliff razor shoulder |  

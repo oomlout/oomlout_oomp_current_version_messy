@@ -122,6 +122,18 @@ leaf
 exotic
 elbow
 cheap |  
+| bip_39_word_no_space_1 | reveal |  
+| bip_39_word_no_space_10 | revealeagleparkspherejuiceleafexoticelbowcheapspike |  
+| bip_39_word_no_space_11 | revealeagleparkspherejuiceleafexoticelbowcheapspikewise |  
+| bip_39_word_no_space_12 | revealeagleparkspherejuiceleafexoticelbowcheapspikewiseangry |  
+| bip_39_word_no_space_2 | revealeagle |  
+| bip_39_word_no_space_3 | revealeaglepark |  
+| bip_39_word_no_space_4 | revealeagleparksphere |  
+| bip_39_word_no_space_5 | revealeagleparkspherejuice |  
+| bip_39_word_no_space_6 | revealeagleparkspherejuiceleaf |  
+| bip_39_word_no_space_7 | revealeagleparkspherejuiceleafexotic |  
+| bip_39_word_no_space_8 | revealeagleparkspherejuiceleafexoticelbow |  
+| bip_39_word_no_space_9 | revealeagleparkspherejuiceleafexoticelbowcheap |  
 | bip_39_word_space_0 | ['reveal', 'eagle', 'park', 'sphere', 'juice', 'leaf', 'exotic', 'elbow', 'cheap', 'spike', 'wise', 'angry'] |  
 | bip_39_word_space_1 | reveal |  
 | bip_39_word_space_10 | reveal eagle park sphere juice leaf exotic elbow cheap spike |  

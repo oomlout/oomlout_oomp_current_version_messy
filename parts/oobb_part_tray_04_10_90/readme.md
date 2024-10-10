@@ -122,6 +122,18 @@ foot
 issue
 warfare
 loan |  
+| bip_39_word_no_space_1 | icon |  
+| bip_39_word_no_space_10 | iconrepairlibertysizedunefootissuewarfareloanugly |  
+| bip_39_word_no_space_11 | iconrepairlibertysizedunefootissuewarfareloanuglyover |  
+| bip_39_word_no_space_12 | iconrepairlibertysizedunefootissuewarfareloanuglyoverattitude |  
+| bip_39_word_no_space_2 | iconrepair |  
+| bip_39_word_no_space_3 | iconrepairliberty |  
+| bip_39_word_no_space_4 | iconrepairlibertysize |  
+| bip_39_word_no_space_5 | iconrepairlibertysizedune |  
+| bip_39_word_no_space_6 | iconrepairlibertysizedunefoot |  
+| bip_39_word_no_space_7 | iconrepairlibertysizedunefootissue |  
+| bip_39_word_no_space_8 | iconrepairlibertysizedunefootissuewarfare |  
+| bip_39_word_no_space_9 | iconrepairlibertysizedunefootissuewarfareloan |  
 | bip_39_word_space_0 | ['icon', 'repair', 'liberty', 'size', 'dune', 'foot', 'issue', 'warfare', 'loan', 'ugly', 'over', 'attitude'] |  
 | bip_39_word_space_1 | icon |  
 | bip_39_word_space_10 | icon repair liberty size dune foot issue warfare loan ugly |  

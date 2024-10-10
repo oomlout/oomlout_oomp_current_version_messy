@@ -122,6 +122,18 @@ orbit
 device
 coil
 bright |  
+| bip_39_word_no_space_1 | spirit |  
+| bip_39_word_no_space_10 | spiritgoddesstraydynamicprojectorbitdevicecoilbrightrebel |  
+| bip_39_word_no_space_11 | spiritgoddesstraydynamicprojectorbitdevicecoilbrightrebelhealth |  
+| bip_39_word_no_space_12 | spiritgoddesstraydynamicprojectorbitdevicecoilbrightrebelhealthabsent |  
+| bip_39_word_no_space_2 | spiritgoddess |  
+| bip_39_word_no_space_3 | spiritgoddesstray |  
+| bip_39_word_no_space_4 | spiritgoddesstraydynamic |  
+| bip_39_word_no_space_5 | spiritgoddesstraydynamicproject |  
+| bip_39_word_no_space_6 | spiritgoddesstraydynamicprojectorbit |  
+| bip_39_word_no_space_7 | spiritgoddesstraydynamicprojectorbitdevice |  
+| bip_39_word_no_space_8 | spiritgoddesstraydynamicprojectorbitdevicecoil |  
+| bip_39_word_no_space_9 | spiritgoddesstraydynamicprojectorbitdevicecoilbright |  
 | bip_39_word_space_0 | ['spirit', 'goddess', 'tray', 'dynamic', 'project', 'orbit', 'device', 'coil', 'bright', 'rebel', 'health', 'absent'] |  
 | bip_39_word_space_1 | spirit |  
 | bip_39_word_space_10 | spirit goddess tray dynamic project orbit device coil bright rebel |  

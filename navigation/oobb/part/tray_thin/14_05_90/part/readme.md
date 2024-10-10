@@ -122,6 +122,18 @@ village
 thrive
 reform
 derive |  
+| bip_39_word_no_space_1 | feature |  
+| bip_39_word_no_space_10 | featureforkwingbannernothingvillagethrivereformderivetoe |  
+| bip_39_word_no_space_11 | featureforkwingbannernothingvillagethrivereformderivetoederive |  
+| bip_39_word_no_space_12 | featureforkwingbannernothingvillagethrivereformderivetoederiveadjust |  
+| bip_39_word_no_space_2 | featurefork |  
+| bip_39_word_no_space_3 | featureforkwing |  
+| bip_39_word_no_space_4 | featureforkwingbanner |  
+| bip_39_word_no_space_5 | featureforkwingbannernothing |  
+| bip_39_word_no_space_6 | featureforkwingbannernothingvillage |  
+| bip_39_word_no_space_7 | featureforkwingbannernothingvillagethrive |  
+| bip_39_word_no_space_8 | featureforkwingbannernothingvillagethrivereform |  
+| bip_39_word_no_space_9 | featureforkwingbannernothingvillagethrivereformderive |  
 | bip_39_word_space_0 | ['feature', 'fork', 'wing', 'banner', 'nothing', 'village', 'thrive', 'reform', 'derive', 'toe', 'derive', 'adjust'] |  
 | bip_39_word_space_1 | feature |  
 | bip_39_word_space_10 | feature fork wing banner nothing village thrive reform derive toe |  

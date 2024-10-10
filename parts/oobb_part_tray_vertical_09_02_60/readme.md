@@ -122,6 +122,18 @@ major
 blame
 copper
 search |  
+| bip_39_word_no_space_1 | solution |  
+| bip_39_word_no_space_10 | solutionsetupachieveblamecrazymajorblamecoppersearchmind |  
+| bip_39_word_no_space_11 | solutionsetupachieveblamecrazymajorblamecoppersearchminddestroy |  
+| bip_39_word_no_space_12 | solutionsetupachieveblamecrazymajorblamecoppersearchminddestroyatom |  
+| bip_39_word_no_space_2 | solutionsetup |  
+| bip_39_word_no_space_3 | solutionsetupachieve |  
+| bip_39_word_no_space_4 | solutionsetupachieveblame |  
+| bip_39_word_no_space_5 | solutionsetupachieveblamecrazy |  
+| bip_39_word_no_space_6 | solutionsetupachieveblamecrazymajor |  
+| bip_39_word_no_space_7 | solutionsetupachieveblamecrazymajorblame |  
+| bip_39_word_no_space_8 | solutionsetupachieveblamecrazymajorblamecopper |  
+| bip_39_word_no_space_9 | solutionsetupachieveblamecrazymajorblamecoppersearch |  
 | bip_39_word_space_0 | ['solution', 'setup', 'achieve', 'blame', 'crazy', 'major', 'blame', 'copper', 'search', 'mind', 'destroy', 'atom'] |  
 | bip_39_word_space_1 | solution |  
 | bip_39_word_space_10 | solution setup achieve blame crazy major blame copper search mind |  

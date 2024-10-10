@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'winter
   coach
 
   camp'
+bip_39_word_no_space_1: winter
+bip_39_word_no_space_10: wintersizetorchenlistsolartablemuchcoachcampsolar
+bip_39_word_no_space_11: wintersizetorchenlistsolartablemuchcoachcampsolargold
+bip_39_word_no_space_12: wintersizetorchenlistsolartablemuchcoachcampsolargoldalone
+bip_39_word_no_space_2: wintersize
+bip_39_word_no_space_3: wintersizetorch
+bip_39_word_no_space_4: wintersizetorchenlist
+bip_39_word_no_space_5: wintersizetorchenlistsolar
+bip_39_word_no_space_6: wintersizetorchenlistsolartable
+bip_39_word_no_space_7: wintersizetorchenlistsolartablemuch
+bip_39_word_no_space_8: wintersizetorchenlistsolartablemuchcoach
+bip_39_word_no_space_9: wintersizetorchenlistsolartablemuchcoachcamp
 bip_39_word_space_0:
 - winter
 - size

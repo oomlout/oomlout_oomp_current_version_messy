@@ -122,6 +122,18 @@ win
 card
 forest
 garbage |  
+| bip_39_word_no_space_1 | prosper |  
+| bip_39_word_no_space_10 | prospertwocarpetacrossbosswincardforestgarbagecatch |  
+| bip_39_word_no_space_11 | prospertwocarpetacrossbosswincardforestgarbagecatchdisplay |  
+| bip_39_word_no_space_12 | prospertwocarpetacrossbosswincardforestgarbagecatchdisplayabsurd |  
+| bip_39_word_no_space_2 | prospertwo |  
+| bip_39_word_no_space_3 | prospertwocarpet |  
+| bip_39_word_no_space_4 | prospertwocarpetacross |  
+| bip_39_word_no_space_5 | prospertwocarpetacrossboss |  
+| bip_39_word_no_space_6 | prospertwocarpetacrossbosswin |  
+| bip_39_word_no_space_7 | prospertwocarpetacrossbosswincard |  
+| bip_39_word_no_space_8 | prospertwocarpetacrossbosswincardforest |  
+| bip_39_word_no_space_9 | prospertwocarpetacrossbosswincardforestgarbage |  
 | bip_39_word_space_0 | ['prosper', 'two', 'carpet', 'across', 'boss', 'win', 'card', 'forest', 'garbage', 'catch', 'display', 'absurd'] |  
 | bip_39_word_space_1 | prosper |  
 | bip_39_word_space_10 | prosper two carpet across boss win card forest garbage catch |  

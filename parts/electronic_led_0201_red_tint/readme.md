@@ -122,6 +122,18 @@ ocean
 unit
 ignore
 comfort |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipchimneyenvelopematerialannounceoceanunitignorecomfortdoll |  
+| bip_39_word_no_space_11 | clipchimneyenvelopematerialannounceoceanunitignorecomfortdollpioneer |  
+| bip_39_word_no_space_12 | clipchimneyenvelopematerialannounceoceanunitignorecomfortdollpioneerannounce |  
+| bip_39_word_no_space_2 | clipchimney |  
+| bip_39_word_no_space_3 | clipchimneyenvelope |  
+| bip_39_word_no_space_4 | clipchimneyenvelopematerial |  
+| bip_39_word_no_space_5 | clipchimneyenvelopematerialannounce |  
+| bip_39_word_no_space_6 | clipchimneyenvelopematerialannounceocean |  
+| bip_39_word_no_space_7 | clipchimneyenvelopematerialannounceoceanunit |  
+| bip_39_word_no_space_8 | clipchimneyenvelopematerialannounceoceanunitignore |  
+| bip_39_word_no_space_9 | clipchimneyenvelopematerialannounceoceanunitignorecomfort |  
 | bip_39_word_space_0 | ['clip', 'chimney', 'envelope', 'material', 'announce', 'ocean', 'unit', 'ignore', 'comfort', 'doll', 'pioneer', 'announce'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip chimney envelope material announce ocean unit ignore comfort doll |  

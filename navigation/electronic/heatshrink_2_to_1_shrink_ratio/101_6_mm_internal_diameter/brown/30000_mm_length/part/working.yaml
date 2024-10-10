@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hint
   velvet
 
   edge'
+bip_39_word_no_space_1: hint
+bip_39_word_no_space_10: hintexpandlobstervaultgloomscanlettervelvetedgeside
+bip_39_word_no_space_11: hintexpandlobstervaultgloomscanlettervelvetedgesidelady
+bip_39_word_no_space_12: hintexpandlobstervaultgloomscanlettervelvetedgesideladyagree
+bip_39_word_no_space_2: hintexpand
+bip_39_word_no_space_3: hintexpandlobster
+bip_39_word_no_space_4: hintexpandlobstervault
+bip_39_word_no_space_5: hintexpandlobstervaultgloom
+bip_39_word_no_space_6: hintexpandlobstervaultgloomscan
+bip_39_word_no_space_7: hintexpandlobstervaultgloomscanletter
+bip_39_word_no_space_8: hintexpandlobstervaultgloomscanlettervelvet
+bip_39_word_no_space_9: hintexpandlobstervaultgloomscanlettervelvetedge
 bip_39_word_space_0:
 - hint
 - expand

@@ -122,6 +122,18 @@ wisdom
 indoor
 before
 genuine |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintavocadoincomeactionmusicwisdomindoorbeforegenuinesign |  
+| bip_39_word_no_space_11 | faintavocadoincomeactionmusicwisdomindoorbeforegenuinesignwrist |  
+| bip_39_word_no_space_12 | faintavocadoincomeactionmusicwisdomindoorbeforegenuinesignwristabstract |  
+| bip_39_word_no_space_2 | faintavocado |  
+| bip_39_word_no_space_3 | faintavocadoincome |  
+| bip_39_word_no_space_4 | faintavocadoincomeaction |  
+| bip_39_word_no_space_5 | faintavocadoincomeactionmusic |  
+| bip_39_word_no_space_6 | faintavocadoincomeactionmusicwisdom |  
+| bip_39_word_no_space_7 | faintavocadoincomeactionmusicwisdomindoor |  
+| bip_39_word_no_space_8 | faintavocadoincomeactionmusicwisdomindoorbefore |  
+| bip_39_word_no_space_9 | faintavocadoincomeactionmusicwisdomindoorbeforegenuine |  
 | bip_39_word_space_0 | ['faint', 'avocado', 'income', 'action', 'music', 'wisdom', 'indoor', 'before', 'genuine', 'sign', 'wrist', 'abstract'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint avocado income action music wisdom indoor before genuine sign |  

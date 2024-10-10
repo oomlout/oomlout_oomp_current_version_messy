@@ -122,6 +122,18 @@ steel
 dentist
 measure
 deal |  
+| bip_39_word_no_space_1 | rack |  
+| bip_39_word_no_space_10 | rackfreshactmoreremembersteeldentistmeasuredealpair |  
+| bip_39_word_no_space_11 | rackfreshactmoreremembersteeldentistmeasuredealpairmodify |  
+| bip_39_word_no_space_12 | rackfreshactmoreremembersteeldentistmeasuredealpairmodifyantenna |  
+| bip_39_word_no_space_2 | rackfresh |  
+| bip_39_word_no_space_3 | rackfreshact |  
+| bip_39_word_no_space_4 | rackfreshactmore |  
+| bip_39_word_no_space_5 | rackfreshactmoreremember |  
+| bip_39_word_no_space_6 | rackfreshactmoreremembersteel |  
+| bip_39_word_no_space_7 | rackfreshactmoreremembersteeldentist |  
+| bip_39_word_no_space_8 | rackfreshactmoreremembersteeldentistmeasure |  
+| bip_39_word_no_space_9 | rackfreshactmoreremembersteeldentistmeasuredeal |  
 | bip_39_word_space_0 | ['rack', 'fresh', 'act', 'more', 'remember', 'steel', 'dentist', 'measure', 'deal', 'pair', 'modify', 'antenna'] |  
 | bip_39_word_space_1 | rack |  
 | bip_39_word_space_10 | rack fresh act more remember steel dentist measure deal pair |  

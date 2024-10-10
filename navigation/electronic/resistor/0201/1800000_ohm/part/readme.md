@@ -122,6 +122,18 @@ dad
 empty
 filter
 canoe |  
+| bip_39_word_no_space_1 | air |  
+| bip_39_word_no_space_10 | airsetupapartcultureproblemdademptyfiltercanoespray |  
+| bip_39_word_no_space_11 | airsetupapartcultureproblemdademptyfiltercanoesprayexplain |  
+| bip_39_word_no_space_12 | airsetupapartcultureproblemdademptyfiltercanoesprayexplainappear |  
+| bip_39_word_no_space_2 | airsetup |  
+| bip_39_word_no_space_3 | airsetupapart |  
+| bip_39_word_no_space_4 | airsetupapartculture |  
+| bip_39_word_no_space_5 | airsetupapartcultureproblem |  
+| bip_39_word_no_space_6 | airsetupapartcultureproblemdad |  
+| bip_39_word_no_space_7 | airsetupapartcultureproblemdadempty |  
+| bip_39_word_no_space_8 | airsetupapartcultureproblemdademptyfilter |  
+| bip_39_word_no_space_9 | airsetupapartcultureproblemdademptyfiltercanoe |  
 | bip_39_word_space_0 | ['air', 'setup', 'apart', 'culture', 'problem', 'dad', 'empty', 'filter', 'canoe', 'spray', 'explain', 'appear'] |  
 | bip_39_word_space_1 | air |  
 | bip_39_word_space_10 | air setup apart culture problem dad empty filter canoe spray |  

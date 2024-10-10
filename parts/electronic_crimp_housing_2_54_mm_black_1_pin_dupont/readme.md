@@ -122,6 +122,18 @@ surface
 place
 match
 ordinary |  
+| bip_39_word_no_space_1 | vault |  
+| bip_39_word_no_space_10 | vaultsubjectnurselabormediasurfaceplacematchordinarydignity |  
+| bip_39_word_no_space_11 | vaultsubjectnurselabormediasurfaceplacematchordinarydignityhospital |  
+| bip_39_word_no_space_12 | vaultsubjectnurselabormediasurfaceplacematchordinarydignityhospitaladvice |  
+| bip_39_word_no_space_2 | vaultsubject |  
+| bip_39_word_no_space_3 | vaultsubjectnurse |  
+| bip_39_word_no_space_4 | vaultsubjectnurselabor |  
+| bip_39_word_no_space_5 | vaultsubjectnurselabormedia |  
+| bip_39_word_no_space_6 | vaultsubjectnurselabormediasurface |  
+| bip_39_word_no_space_7 | vaultsubjectnurselabormediasurfaceplace |  
+| bip_39_word_no_space_8 | vaultsubjectnurselabormediasurfaceplacematch |  
+| bip_39_word_no_space_9 | vaultsubjectnurselabormediasurfaceplacematchordinary |  
 | bip_39_word_space_0 | ['vault', 'subject', 'nurse', 'labor', 'media', 'surface', 'place', 'match', 'ordinary', 'dignity', 'hospital', 'advice'] |  
 | bip_39_word_space_1 | vault |  
 | bip_39_word_space_10 | vault subject nurse labor media surface place match ordinary dignity |  

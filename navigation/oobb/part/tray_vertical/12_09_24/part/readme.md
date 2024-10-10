@@ -122,6 +122,18 @@ silly
 habit
 reason
 actual |  
+| bip_39_word_no_space_1 | tail |  
+| bip_39_word_no_space_10 | tailcathawktrafficcouplesillyhabitreasonactualbegin |  
+| bip_39_word_no_space_11 | tailcathawktrafficcouplesillyhabitreasonactualbeginlittle |  
+| bip_39_word_no_space_12 | tailcathawktrafficcouplesillyhabitreasonactualbeginlittleacid |  
+| bip_39_word_no_space_2 | tailcat |  
+| bip_39_word_no_space_3 | tailcathawk |  
+| bip_39_word_no_space_4 | tailcathawktraffic |  
+| bip_39_word_no_space_5 | tailcathawktrafficcouple |  
+| bip_39_word_no_space_6 | tailcathawktrafficcouplesilly |  
+| bip_39_word_no_space_7 | tailcathawktrafficcouplesillyhabit |  
+| bip_39_word_no_space_8 | tailcathawktrafficcouplesillyhabitreason |  
+| bip_39_word_no_space_9 | tailcathawktrafficcouplesillyhabitreasonactual |  
 | bip_39_word_space_0 | ['tail', 'cat', 'hawk', 'traffic', 'couple', 'silly', 'habit', 'reason', 'actual', 'begin', 'little', 'acid'] |  
 | bip_39_word_space_1 | tail |  
 | bip_39_word_space_10 | tail cat hawk traffic couple silly habit reason actual begin |  

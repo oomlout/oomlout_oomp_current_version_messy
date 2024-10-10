@@ -122,6 +122,18 @@ trick
 decline
 green
 candy |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingblousetubedrivecoiltrickdeclinegreencandylittle |  
+| bip_39_word_no_space_11 | nothingblousetubedrivecoiltrickdeclinegreencandylittlealready |  
+| bip_39_word_no_space_12 | nothingblousetubedrivecoiltrickdeclinegreencandylittlealreadyabstract |  
+| bip_39_word_no_space_2 | nothingblouse |  
+| bip_39_word_no_space_3 | nothingblousetube |  
+| bip_39_word_no_space_4 | nothingblousetubedrive |  
+| bip_39_word_no_space_5 | nothingblousetubedrivecoil |  
+| bip_39_word_no_space_6 | nothingblousetubedrivecoiltrick |  
+| bip_39_word_no_space_7 | nothingblousetubedrivecoiltrickdecline |  
+| bip_39_word_no_space_8 | nothingblousetubedrivecoiltrickdeclinegreen |  
+| bip_39_word_no_space_9 | nothingblousetubedrivecoiltrickdeclinegreencandy |  
 | bip_39_word_space_0 | ['nothing', 'blouse', 'tube', 'drive', 'coil', 'trick', 'decline', 'green', 'candy', 'little', 'already', 'abstract'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing blouse tube drive coil trick decline green candy little |  

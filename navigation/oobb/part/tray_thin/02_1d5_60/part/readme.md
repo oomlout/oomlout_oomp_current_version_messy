@@ -122,6 +122,18 @@ cream
 zebra
 scene
 visit |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemeonionexecutevanishbloodcreamzebrascenevisitpoint |  
+| bip_39_word_no_space_11 | schemeonionexecutevanishbloodcreamzebrascenevisitpointforward |  
+| bip_39_word_no_space_12 | schemeonionexecutevanishbloodcreamzebrascenevisitpointforwardalter |  
+| bip_39_word_no_space_2 | schemeonion |  
+| bip_39_word_no_space_3 | schemeonionexecute |  
+| bip_39_word_no_space_4 | schemeonionexecutevanish |  
+| bip_39_word_no_space_5 | schemeonionexecutevanishblood |  
+| bip_39_word_no_space_6 | schemeonionexecutevanishbloodcream |  
+| bip_39_word_no_space_7 | schemeonionexecutevanishbloodcreamzebra |  
+| bip_39_word_no_space_8 | schemeonionexecutevanishbloodcreamzebrascene |  
+| bip_39_word_no_space_9 | schemeonionexecutevanishbloodcreamzebrascenevisit |  
 | bip_39_word_space_0 | ['scheme', 'onion', 'execute', 'vanish', 'blood', 'cream', 'zebra', 'scene', 'visit', 'point', 'forward', 'alter'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme onion execute vanish blood cream zebra scene visit point |  

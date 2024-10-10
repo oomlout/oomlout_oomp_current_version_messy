@@ -122,6 +122,18 @@ citizen
 deal
 alien
 van |  
+| bip_39_word_no_space_1 | donkey |  
+| bip_39_word_no_space_10 | donkeycruciallimitdemanduponcitizendealalienvanthumb |  
+| bip_39_word_no_space_11 | donkeycruciallimitdemanduponcitizendealalienvanthumbpage |  
+| bip_39_word_no_space_12 | donkeycruciallimitdemanduponcitizendealalienvanthumbpagealso |  
+| bip_39_word_no_space_2 | donkeycrucial |  
+| bip_39_word_no_space_3 | donkeycruciallimit |  
+| bip_39_word_no_space_4 | donkeycruciallimitdemand |  
+| bip_39_word_no_space_5 | donkeycruciallimitdemandupon |  
+| bip_39_word_no_space_6 | donkeycruciallimitdemanduponcitizen |  
+| bip_39_word_no_space_7 | donkeycruciallimitdemanduponcitizendeal |  
+| bip_39_word_no_space_8 | donkeycruciallimitdemanduponcitizendealalien |  
+| bip_39_word_no_space_9 | donkeycruciallimitdemanduponcitizendealalienvan |  
 | bip_39_word_space_0 | ['donkey', 'crucial', 'limit', 'demand', 'upon', 'citizen', 'deal', 'alien', 'van', 'thumb', 'page', 'also'] |  
 | bip_39_word_space_1 | donkey |  
 | bip_39_word_space_10 | donkey crucial limit demand upon citizen deal alien van thumb |  

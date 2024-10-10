@@ -122,6 +122,18 @@ modify
 topic
 exit
 law |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settleairdiagramdiscoverghostmodifytopicexitlawaddress |  
+| bip_39_word_no_space_11 | settleairdiagramdiscoverghostmodifytopicexitlawaddressleopard |  
+| bip_39_word_no_space_12 | settleairdiagramdiscoverghostmodifytopicexitlawaddressleopardahead |  
+| bip_39_word_no_space_2 | settleair |  
+| bip_39_word_no_space_3 | settleairdiagram |  
+| bip_39_word_no_space_4 | settleairdiagramdiscover |  
+| bip_39_word_no_space_5 | settleairdiagramdiscoverghost |  
+| bip_39_word_no_space_6 | settleairdiagramdiscoverghostmodify |  
+| bip_39_word_no_space_7 | settleairdiagramdiscoverghostmodifytopic |  
+| bip_39_word_no_space_8 | settleairdiagramdiscoverghostmodifytopicexit |  
+| bip_39_word_no_space_9 | settleairdiagramdiscoverghostmodifytopicexitlaw |  
 | bip_39_word_space_0 | ['settle', 'air', 'diagram', 'discover', 'ghost', 'modify', 'topic', 'exit', 'law', 'address', 'leopard', 'ahead'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle air diagram discover ghost modify topic exit law address |  

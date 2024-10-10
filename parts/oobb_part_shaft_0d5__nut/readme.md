@@ -122,6 +122,18 @@ include
 like
 boss
 stay |  
+| bip_39_word_no_space_1 | arrange |  
+| bip_39_word_no_space_10 | arrangefollowbeforewoolloyalincludelikebossstaymusic |  
+| bip_39_word_no_space_11 | arrangefollowbeforewoolloyalincludelikebossstaymusicdove |  
+| bip_39_word_no_space_12 | arrangefollowbeforewoolloyalincludelikebossstaymusicdoveancient |  
+| bip_39_word_no_space_2 | arrangefollow |  
+| bip_39_word_no_space_3 | arrangefollowbefore |  
+| bip_39_word_no_space_4 | arrangefollowbeforewool |  
+| bip_39_word_no_space_5 | arrangefollowbeforewoolloyal |  
+| bip_39_word_no_space_6 | arrangefollowbeforewoolloyalinclude |  
+| bip_39_word_no_space_7 | arrangefollowbeforewoolloyalincludelike |  
+| bip_39_word_no_space_8 | arrangefollowbeforewoolloyalincludelikeboss |  
+| bip_39_word_no_space_9 | arrangefollowbeforewoolloyalincludelikebossstay |  
 | bip_39_word_space_0 | ['arrange', 'follow', 'before', 'wool', 'loyal', 'include', 'like', 'boss', 'stay', 'music', 'dove', 'ancient'] |  
 | bip_39_word_space_1 | arrange |  
 | bip_39_word_space_10 | arrange follow before wool loyal include like boss stay music |  

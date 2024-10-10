@@ -122,6 +122,18 @@ swim
 sauce
 glide
 doctor |  
+| bip_39_word_no_space_1 | hazard |  
+| bip_39_word_no_space_10 | hazardvalveteamenhancehazardswimsauceglidedoctorcruise |  
+| bip_39_word_no_space_11 | hazardvalveteamenhancehazardswimsauceglidedoctorcruiseyear |  
+| bip_39_word_no_space_12 | hazardvalveteamenhancehazardswimsauceglidedoctorcruiseyearaccess |  
+| bip_39_word_no_space_2 | hazardvalve |  
+| bip_39_word_no_space_3 | hazardvalveteam |  
+| bip_39_word_no_space_4 | hazardvalveteamenhance |  
+| bip_39_word_no_space_5 | hazardvalveteamenhancehazard |  
+| bip_39_word_no_space_6 | hazardvalveteamenhancehazardswim |  
+| bip_39_word_no_space_7 | hazardvalveteamenhancehazardswimsauce |  
+| bip_39_word_no_space_8 | hazardvalveteamenhancehazardswimsauceglide |  
+| bip_39_word_no_space_9 | hazardvalveteamenhancehazardswimsauceglidedoctor |  
 | bip_39_word_space_0 | ['hazard', 'valve', 'team', 'enhance', 'hazard', 'swim', 'sauce', 'glide', 'doctor', 'cruise', 'year', 'access'] |  
 | bip_39_word_space_1 | hazard |  
 | bip_39_word_space_10 | hazard valve team enhance hazard swim sauce glide doctor cruise |  

@@ -122,6 +122,18 @@ enough
 clown
 champion
 pair |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultfeelprettycalmbambooenoughclownchampionpaircook |  
+| bip_39_word_no_space_11 | resultfeelprettycalmbambooenoughclownchampionpaircookfly |  
+| bip_39_word_no_space_12 | resultfeelprettycalmbambooenoughclownchampionpaircookflyall |  
+| bip_39_word_no_space_2 | resultfeel |  
+| bip_39_word_no_space_3 | resultfeelpretty |  
+| bip_39_word_no_space_4 | resultfeelprettycalm |  
+| bip_39_word_no_space_5 | resultfeelprettycalmbamboo |  
+| bip_39_word_no_space_6 | resultfeelprettycalmbambooenough |  
+| bip_39_word_no_space_7 | resultfeelprettycalmbambooenoughclown |  
+| bip_39_word_no_space_8 | resultfeelprettycalmbambooenoughclownchampion |  
+| bip_39_word_no_space_9 | resultfeelprettycalmbambooenoughclownchampionpair |  
 | bip_39_word_space_0 | ['result', 'feel', 'pretty', 'calm', 'bamboo', 'enough', 'clown', 'champion', 'pair', 'cook', 'fly', 'all'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result feel pretty calm bamboo enough clown champion pair cook |  

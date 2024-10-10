@@ -122,6 +122,18 @@ bonus
 pink
 pottery
 tower |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniqueleafprocessreformmeadowbonuspinkpotterytowercave |  
+| bip_39_word_no_space_11 | uniqueleafprocessreformmeadowbonuspinkpotterytowercavepiece |  
+| bip_39_word_no_space_12 | uniqueleafprocessreformmeadowbonuspinkpotterytowercavepieceantique |  
+| bip_39_word_no_space_2 | uniqueleaf |  
+| bip_39_word_no_space_3 | uniqueleafprocess |  
+| bip_39_word_no_space_4 | uniqueleafprocessreform |  
+| bip_39_word_no_space_5 | uniqueleafprocessreformmeadow |  
+| bip_39_word_no_space_6 | uniqueleafprocessreformmeadowbonus |  
+| bip_39_word_no_space_7 | uniqueleafprocessreformmeadowbonuspink |  
+| bip_39_word_no_space_8 | uniqueleafprocessreformmeadowbonuspinkpottery |  
+| bip_39_word_no_space_9 | uniqueleafprocessreformmeadowbonuspinkpotterytower |  
 | bip_39_word_space_0 | ['unique', 'leaf', 'process', 'reform', 'meadow', 'bonus', 'pink', 'pottery', 'tower', 'cave', 'piece', 'antique'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique leaf process reform meadow bonus pink pottery tower cave |  

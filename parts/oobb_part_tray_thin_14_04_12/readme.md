@@ -122,6 +122,18 @@ search
 witness
 diary
 choose |  
+| bip_39_word_no_space_1 | strong |  
+| bip_39_word_no_space_10 | strongspoonthereshiptumblesearchwitnessdiarychooseskill |  
+| bip_39_word_no_space_11 | strongspoonthereshiptumblesearchwitnessdiarychooseskillpioneer |  
+| bip_39_word_no_space_12 | strongspoonthereshiptumblesearchwitnessdiarychooseskillpioneeraccess |  
+| bip_39_word_no_space_2 | strongspoon |  
+| bip_39_word_no_space_3 | strongspoonthere |  
+| bip_39_word_no_space_4 | strongspoonthereship |  
+| bip_39_word_no_space_5 | strongspoonthereshiptumble |  
+| bip_39_word_no_space_6 | strongspoonthereshiptumblesearch |  
+| bip_39_word_no_space_7 | strongspoonthereshiptumblesearchwitness |  
+| bip_39_word_no_space_8 | strongspoonthereshiptumblesearchwitnessdiary |  
+| bip_39_word_no_space_9 | strongspoonthereshiptumblesearchwitnessdiarychoose |  
 | bip_39_word_space_0 | ['strong', 'spoon', 'there', 'ship', 'tumble', 'search', 'witness', 'diary', 'choose', 'skill', 'pioneer', 'access'] |  
 | bip_39_word_space_1 | strong |  
 | bip_39_word_space_10 | strong spoon there ship tumble search witness diary choose skill |  

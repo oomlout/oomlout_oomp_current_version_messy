@@ -122,6 +122,18 @@ release
 nuclear
 snow
 kick |  
+| bip_39_word_no_space_1 | simple |  
+| bip_39_word_no_space_10 | simpleoncepepperborderseatreleasenuclearsnowkickdust |  
+| bip_39_word_no_space_11 | simpleoncepepperborderseatreleasenuclearsnowkickdustbrass |  
+| bip_39_word_no_space_12 | simpleoncepepperborderseatreleasenuclearsnowkickdustbrassargue |  
+| bip_39_word_no_space_2 | simpleonce |  
+| bip_39_word_no_space_3 | simpleoncepepper |  
+| bip_39_word_no_space_4 | simpleoncepepperborder |  
+| bip_39_word_no_space_5 | simpleoncepepperborderseat |  
+| bip_39_word_no_space_6 | simpleoncepepperborderseatrelease |  
+| bip_39_word_no_space_7 | simpleoncepepperborderseatreleasenuclear |  
+| bip_39_word_no_space_8 | simpleoncepepperborderseatreleasenuclearsnow |  
+| bip_39_word_no_space_9 | simpleoncepepperborderseatreleasenuclearsnowkick |  
 | bip_39_word_space_0 | ['simple', 'once', 'pepper', 'border', 'seat', 'release', 'nuclear', 'snow', 'kick', 'dust', 'brass', 'argue'] |  
 | bip_39_word_space_1 | simple |  
 | bip_39_word_space_10 | simple once pepper border seat release nuclear snow kick dust |  

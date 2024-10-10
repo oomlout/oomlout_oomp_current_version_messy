@@ -122,6 +122,18 @@ fatal
 mind
 script
 front |  
+| bip_39_word_no_space_1 | hood |  
+| bip_39_word_no_space_10 | hoodwineimpacteagersilkfatalmindscriptfrontrule |  
+| bip_39_word_no_space_11 | hoodwineimpacteagersilkfatalmindscriptfrontrulesurvey |  
+| bip_39_word_no_space_12 | hoodwineimpacteagersilkfatalmindscriptfrontrulesurveyapril |  
+| bip_39_word_no_space_2 | hoodwine |  
+| bip_39_word_no_space_3 | hoodwineimpact |  
+| bip_39_word_no_space_4 | hoodwineimpacteager |  
+| bip_39_word_no_space_5 | hoodwineimpacteagersilk |  
+| bip_39_word_no_space_6 | hoodwineimpacteagersilkfatal |  
+| bip_39_word_no_space_7 | hoodwineimpacteagersilkfatalmind |  
+| bip_39_word_no_space_8 | hoodwineimpacteagersilkfatalmindscript |  
+| bip_39_word_no_space_9 | hoodwineimpacteagersilkfatalmindscriptfront |  
 | bip_39_word_space_0 | ['hood', 'wine', 'impact', 'eager', 'silk', 'fatal', 'mind', 'script', 'front', 'rule', 'survey', 'april'] |  
 | bip_39_word_space_1 | hood |  
 | bip_39_word_space_10 | hood wine impact eager silk fatal mind script front rule |  

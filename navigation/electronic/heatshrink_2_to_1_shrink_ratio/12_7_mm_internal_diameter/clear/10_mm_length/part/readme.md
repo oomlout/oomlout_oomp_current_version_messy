@@ -122,6 +122,18 @@ between
 guitar
 protect
 bulk |  
+| bip_39_word_no_space_1 | choose |  
+| bip_39_word_no_space_10 | choosesmallteachdeerdrinkbetweenguitarprotectbulkconsider |  
+| bip_39_word_no_space_11 | choosesmallteachdeerdrinkbetweenguitarprotectbulkconsiderfollow |  
+| bip_39_word_no_space_12 | choosesmallteachdeerdrinkbetweenguitarprotectbulkconsiderfollowatom |  
+| bip_39_word_no_space_2 | choosesmall |  
+| bip_39_word_no_space_3 | choosesmallteach |  
+| bip_39_word_no_space_4 | choosesmallteachdeer |  
+| bip_39_word_no_space_5 | choosesmallteachdeerdrink |  
+| bip_39_word_no_space_6 | choosesmallteachdeerdrinkbetween |  
+| bip_39_word_no_space_7 | choosesmallteachdeerdrinkbetweenguitar |  
+| bip_39_word_no_space_8 | choosesmallteachdeerdrinkbetweenguitarprotect |  
+| bip_39_word_no_space_9 | choosesmallteachdeerdrinkbetweenguitarprotectbulk |  
 | bip_39_word_space_0 | ['choose', 'small', 'teach', 'deer', 'drink', 'between', 'guitar', 'protect', 'bulk', 'consider', 'follow', 'atom'] |  
 | bip_39_word_space_1 | choose |  
 | bip_39_word_space_10 | choose small teach deer drink between guitar protect bulk consider |  

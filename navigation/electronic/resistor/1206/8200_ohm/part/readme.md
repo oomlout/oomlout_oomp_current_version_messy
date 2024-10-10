@@ -122,6 +122,18 @@ belt
 daughter
 beach
 shock |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comeanklebreadomitpanelbeltdaughterbeachshockidle |  
+| bip_39_word_no_space_11 | comeanklebreadomitpanelbeltdaughterbeachshockidleawake |  
+| bip_39_word_no_space_12 | comeanklebreadomitpanelbeltdaughterbeachshockidleawakeahead |  
+| bip_39_word_no_space_2 | comeankle |  
+| bip_39_word_no_space_3 | comeanklebread |  
+| bip_39_word_no_space_4 | comeanklebreadomit |  
+| bip_39_word_no_space_5 | comeanklebreadomitpanel |  
+| bip_39_word_no_space_6 | comeanklebreadomitpanelbelt |  
+| bip_39_word_no_space_7 | comeanklebreadomitpanelbeltdaughter |  
+| bip_39_word_no_space_8 | comeanklebreadomitpanelbeltdaughterbeach |  
+| bip_39_word_no_space_9 | comeanklebreadomitpanelbeltdaughterbeachshock |  
 | bip_39_word_space_0 | ['come', 'ankle', 'bread', 'omit', 'panel', 'belt', 'daughter', 'beach', 'shock', 'idle', 'awake', 'ahead'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come ankle bread omit panel belt daughter beach shock idle |  

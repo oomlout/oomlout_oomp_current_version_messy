@@ -122,6 +122,18 @@ puzzle
 zero
 deny
 soon |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampaccessvehiclestumbleprivatepuzzlezerodenysoonwife |  
+| bip_39_word_no_space_11 | stampaccessvehiclestumbleprivatepuzzlezerodenysoonwifeturtle |  
+| bip_39_word_no_space_12 | stampaccessvehiclestumbleprivatepuzzlezerodenysoonwifeturtleacross |  
+| bip_39_word_no_space_2 | stampaccess |  
+| bip_39_word_no_space_3 | stampaccessvehicle |  
+| bip_39_word_no_space_4 | stampaccessvehiclestumble |  
+| bip_39_word_no_space_5 | stampaccessvehiclestumbleprivate |  
+| bip_39_word_no_space_6 | stampaccessvehiclestumbleprivatepuzzle |  
+| bip_39_word_no_space_7 | stampaccessvehiclestumbleprivatepuzzlezero |  
+| bip_39_word_no_space_8 | stampaccessvehiclestumbleprivatepuzzlezerodeny |  
+| bip_39_word_no_space_9 | stampaccessvehiclestumbleprivatepuzzlezerodenysoon |  
 | bip_39_word_space_0 | ['stamp', 'access', 'vehicle', 'stumble', 'private', 'puzzle', 'zero', 'deny', 'soon', 'wife', 'turtle', 'across'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp access vehicle stumble private puzzle zero deny soon wife |  

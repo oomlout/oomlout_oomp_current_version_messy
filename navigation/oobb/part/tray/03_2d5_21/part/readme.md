@@ -122,6 +122,18 @@ armed
 throw
 adult
 casual |  
+| bip_39_word_no_space_1 | order |  
+| bip_39_word_no_space_10 | ordertunaclosegladconnectarmedthrowadultcasualdeal |  
+| bip_39_word_no_space_11 | ordertunaclosegladconnectarmedthrowadultcasualdealblossom |  
+| bip_39_word_no_space_12 | ordertunaclosegladconnectarmedthrowadultcasualdealblossomarrest |  
+| bip_39_word_no_space_2 | ordertuna |  
+| bip_39_word_no_space_3 | ordertunaclose |  
+| bip_39_word_no_space_4 | ordertunacloseglad |  
+| bip_39_word_no_space_5 | ordertunaclosegladconnect |  
+| bip_39_word_no_space_6 | ordertunaclosegladconnectarmed |  
+| bip_39_word_no_space_7 | ordertunaclosegladconnectarmedthrow |  
+| bip_39_word_no_space_8 | ordertunaclosegladconnectarmedthrowadult |  
+| bip_39_word_no_space_9 | ordertunaclosegladconnectarmedthrowadultcasual |  
 | bip_39_word_space_0 | ['order', 'tuna', 'close', 'glad', 'connect', 'armed', 'throw', 'adult', 'casual', 'deal', 'blossom', 'arrest'] |  
 | bip_39_word_space_1 | order |  
 | bip_39_word_space_10 | order tuna close glad connect armed throw adult casual deal |  

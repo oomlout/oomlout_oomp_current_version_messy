@@ -122,6 +122,18 @@ awake
 attack
 put
 mass |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallycoredisordershipitemawakeattackputmassright |  
+| bip_39_word_no_space_11 | rallycoredisordershipitemawakeattackputmassrightperfect |  
+| bip_39_word_no_space_12 | rallycoredisordershipitemawakeattackputmassrightperfectarmy |  
+| bip_39_word_no_space_2 | rallycore |  
+| bip_39_word_no_space_3 | rallycoredisorder |  
+| bip_39_word_no_space_4 | rallycoredisordership |  
+| bip_39_word_no_space_5 | rallycoredisordershipitem |  
+| bip_39_word_no_space_6 | rallycoredisordershipitemawake |  
+| bip_39_word_no_space_7 | rallycoredisordershipitemawakeattack |  
+| bip_39_word_no_space_8 | rallycoredisordershipitemawakeattackput |  
+| bip_39_word_no_space_9 | rallycoredisordershipitemawakeattackputmass |  
 | bip_39_word_space_0 | ['rally', 'core', 'disorder', 'ship', 'item', 'awake', 'attack', 'put', 'mass', 'right', 'perfect', 'army'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally core disorder ship item awake attack put mass right |  

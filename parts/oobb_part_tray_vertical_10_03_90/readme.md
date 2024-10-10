@@ -122,6 +122,18 @@ cage
 sport
 kitten
 mix |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarcheapforgetexcessvolcanocagesportkittenmixlearn |  
+| bip_39_word_no_space_11 | cigarcheapforgetexcessvolcanocagesportkittenmixlearnhip |  
+| bip_39_word_no_space_12 | cigarcheapforgetexcessvolcanocagesportkittenmixlearnhipacid |  
+| bip_39_word_no_space_2 | cigarcheap |  
+| bip_39_word_no_space_3 | cigarcheapforget |  
+| bip_39_word_no_space_4 | cigarcheapforgetexcess |  
+| bip_39_word_no_space_5 | cigarcheapforgetexcessvolcano |  
+| bip_39_word_no_space_6 | cigarcheapforgetexcessvolcanocage |  
+| bip_39_word_no_space_7 | cigarcheapforgetexcessvolcanocagesport |  
+| bip_39_word_no_space_8 | cigarcheapforgetexcessvolcanocagesportkitten |  
+| bip_39_word_no_space_9 | cigarcheapforgetexcessvolcanocagesportkittenmix |  
 | bip_39_word_space_0 | ['cigar', 'cheap', 'forget', 'excess', 'volcano', 'cage', 'sport', 'kitten', 'mix', 'learn', 'hip', 'acid'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar cheap forget excess volcano cage sport kitten mix learn |  

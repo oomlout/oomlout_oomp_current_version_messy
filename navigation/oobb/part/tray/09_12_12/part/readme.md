@@ -122,6 +122,18 @@ situate
 cupboard
 strategy
 reduce |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wiresniffauditabstractjunglesituatecupboardstrategyreducequick |  
+| bip_39_word_no_space_11 | wiresniffauditabstractjunglesituatecupboardstrategyreducequickbullet |  
+| bip_39_word_no_space_12 | wiresniffauditabstractjunglesituatecupboardstrategyreducequickbulletamount |  
+| bip_39_word_no_space_2 | wiresniff |  
+| bip_39_word_no_space_3 | wiresniffaudit |  
+| bip_39_word_no_space_4 | wiresniffauditabstract |  
+| bip_39_word_no_space_5 | wiresniffauditabstractjungle |  
+| bip_39_word_no_space_6 | wiresniffauditabstractjunglesituate |  
+| bip_39_word_no_space_7 | wiresniffauditabstractjunglesituatecupboard |  
+| bip_39_word_no_space_8 | wiresniffauditabstractjunglesituatecupboardstrategy |  
+| bip_39_word_no_space_9 | wiresniffauditabstractjunglesituatecupboardstrategyreduce |  
 | bip_39_word_space_0 | ['wire', 'sniff', 'audit', 'abstract', 'jungle', 'situate', 'cupboard', 'strategy', 'reduce', 'quick', 'bullet', 'amount'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire sniff audit abstract jungle situate cupboard strategy reduce quick |  

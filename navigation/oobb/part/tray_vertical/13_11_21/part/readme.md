@@ -122,6 +122,18 @@ town
 funny
 eyebrow
 inside |  
+| bip_39_word_no_space_1 | conduct |  
+| bip_39_word_no_space_10 | conductprideraisememberswimtownfunnyeyebrowinsideprice |  
+| bip_39_word_no_space_11 | conductprideraisememberswimtownfunnyeyebrowinsidepricegentle |  
+| bip_39_word_no_space_12 | conductprideraisememberswimtownfunnyeyebrowinsidepricegentlealmost |  
+| bip_39_word_no_space_2 | conductpride |  
+| bip_39_word_no_space_3 | conductprideraise |  
+| bip_39_word_no_space_4 | conductprideraisemember |  
+| bip_39_word_no_space_5 | conductprideraisememberswim |  
+| bip_39_word_no_space_6 | conductprideraisememberswimtown |  
+| bip_39_word_no_space_7 | conductprideraisememberswimtownfunny |  
+| bip_39_word_no_space_8 | conductprideraisememberswimtownfunnyeyebrow |  
+| bip_39_word_no_space_9 | conductprideraisememberswimtownfunnyeyebrowinside |  
 | bip_39_word_space_0 | ['conduct', 'pride', 'raise', 'member', 'swim', 'town', 'funny', 'eyebrow', 'inside', 'price', 'gentle', 'almost'] |  
 | bip_39_word_space_1 | conduct |  
 | bip_39_word_space_10 | conduct pride raise member swim town funny eyebrow inside price |  

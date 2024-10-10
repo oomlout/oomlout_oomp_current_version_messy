@@ -122,6 +122,18 @@ person
 art
 clever
 entire |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicesameexpecttruthcirclepersonartcleverentirememory |  
+| bip_39_word_no_space_11 | spicesameexpecttruthcirclepersonartcleverentirememorycabin |  
+| bip_39_word_no_space_12 | spicesameexpecttruthcirclepersonartcleverentirememorycabinapril |  
+| bip_39_word_no_space_2 | spicesame |  
+| bip_39_word_no_space_3 | spicesameexpect |  
+| bip_39_word_no_space_4 | spicesameexpecttruth |  
+| bip_39_word_no_space_5 | spicesameexpecttruthcircle |  
+| bip_39_word_no_space_6 | spicesameexpecttruthcircleperson |  
+| bip_39_word_no_space_7 | spicesameexpecttruthcirclepersonart |  
+| bip_39_word_no_space_8 | spicesameexpecttruthcirclepersonartclever |  
+| bip_39_word_no_space_9 | spicesameexpecttruthcirclepersonartcleverentire |  
 | bip_39_word_space_0 | ['spice', 'same', 'expect', 'truth', 'circle', 'person', 'art', 'clever', 'entire', 'memory', 'cabin', 'april'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice same expect truth circle person art clever entire memory |  

@@ -122,6 +122,18 @@ census
 vast
 sad
 smart |  
+| bip_39_word_no_space_1 | easy |  
+| bip_39_word_no_space_10 | easymotherwinterpoemlifecensusvastsadsmartunusual |  
+| bip_39_word_no_space_11 | easymotherwinterpoemlifecensusvastsadsmartunusualgoose |  
+| bip_39_word_no_space_12 | easymotherwinterpoemlifecensusvastsadsmartunusualgooseavocado |  
+| bip_39_word_no_space_2 | easymother |  
+| bip_39_word_no_space_3 | easymotherwinter |  
+| bip_39_word_no_space_4 | easymotherwinterpoem |  
+| bip_39_word_no_space_5 | easymotherwinterpoemlife |  
+| bip_39_word_no_space_6 | easymotherwinterpoemlifecensus |  
+| bip_39_word_no_space_7 | easymotherwinterpoemlifecensusvast |  
+| bip_39_word_no_space_8 | easymotherwinterpoemlifecensusvastsad |  
+| bip_39_word_no_space_9 | easymotherwinterpoemlifecensusvastsadsmart |  
 | bip_39_word_space_0 | ['easy', 'mother', 'winter', 'poem', 'life', 'census', 'vast', 'sad', 'smart', 'unusual', 'goose', 'avocado'] |  
 | bip_39_word_space_1 | easy |  
 | bip_39_word_space_10 | easy mother winter poem life census vast sad smart unusual |  

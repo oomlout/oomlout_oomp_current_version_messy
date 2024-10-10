@@ -122,6 +122,18 @@ ordinary
 appear
 say
 vintage |  
+| bip_39_word_no_space_1 | anchor |  
+| bip_39_word_no_space_10 | anchorponychunkwristsimilarordinaryappearsayvintagevault |  
+| bip_39_word_no_space_11 | anchorponychunkwristsimilarordinaryappearsayvintagevaulthill |  
+| bip_39_word_no_space_12 | anchorponychunkwristsimilarordinaryappearsayvintagevaulthillany |  
+| bip_39_word_no_space_2 | anchorpony |  
+| bip_39_word_no_space_3 | anchorponychunk |  
+| bip_39_word_no_space_4 | anchorponychunkwrist |  
+| bip_39_word_no_space_5 | anchorponychunkwristsimilar |  
+| bip_39_word_no_space_6 | anchorponychunkwristsimilarordinary |  
+| bip_39_word_no_space_7 | anchorponychunkwristsimilarordinaryappear |  
+| bip_39_word_no_space_8 | anchorponychunkwristsimilarordinaryappearsay |  
+| bip_39_word_no_space_9 | anchorponychunkwristsimilarordinaryappearsayvintage |  
 | bip_39_word_space_0 | ['anchor', 'pony', 'chunk', 'wrist', 'similar', 'ordinary', 'appear', 'say', 'vintage', 'vault', 'hill', 'any'] |  
 | bip_39_word_space_1 | anchor |  
 | bip_39_word_space_10 | anchor pony chunk wrist similar ordinary appear say vintage vault |  

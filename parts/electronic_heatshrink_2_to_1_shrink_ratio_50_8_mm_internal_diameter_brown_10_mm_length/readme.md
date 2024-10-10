@@ -122,6 +122,18 @@ sudden
 hover
 kite
 sight |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | seapricelawgrocerysparesuddenhoverkitesightlava |  
+| bip_39_word_no_space_11 | seapricelawgrocerysparesuddenhoverkitesightlavaaccess |  
+| bip_39_word_no_space_12 | seapricelawgrocerysparesuddenhoverkitesightlavaaccessarrow |  
+| bip_39_word_no_space_2 | seaprice |  
+| bip_39_word_no_space_3 | seapricelaw |  
+| bip_39_word_no_space_4 | seapricelawgrocery |  
+| bip_39_word_no_space_5 | seapricelawgroceryspare |  
+| bip_39_word_no_space_6 | seapricelawgrocerysparesudden |  
+| bip_39_word_no_space_7 | seapricelawgrocerysparesuddenhover |  
+| bip_39_word_no_space_8 | seapricelawgrocerysparesuddenhoverkite |  
+| bip_39_word_no_space_9 | seapricelawgrocerysparesuddenhoverkitesight |  
 | bip_39_word_space_0 | ['sea', 'price', 'law', 'grocery', 'spare', 'sudden', 'hover', 'kite', 'sight', 'lava', 'access', 'arrow'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea price law grocery spare sudden hover kite sight lava |  

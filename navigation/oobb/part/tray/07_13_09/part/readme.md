@@ -122,6 +122,18 @@ rocket
 unique
 quantum
 dream |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefrebelgreenpanicpinkrocketuniquequantumdreamconfirm |  
+| bip_39_word_no_space_11 | chiefrebelgreenpanicpinkrocketuniquequantumdreamconfirmfew |  
+| bip_39_word_no_space_12 | chiefrebelgreenpanicpinkrocketuniquequantumdreamconfirmfewalready |  
+| bip_39_word_no_space_2 | chiefrebel |  
+| bip_39_word_no_space_3 | chiefrebelgreen |  
+| bip_39_word_no_space_4 | chiefrebelgreenpanic |  
+| bip_39_word_no_space_5 | chiefrebelgreenpanicpink |  
+| bip_39_word_no_space_6 | chiefrebelgreenpanicpinkrocket |  
+| bip_39_word_no_space_7 | chiefrebelgreenpanicpinkrocketunique |  
+| bip_39_word_no_space_8 | chiefrebelgreenpanicpinkrocketuniquequantum |  
+| bip_39_word_no_space_9 | chiefrebelgreenpanicpinkrocketuniquequantumdream |  
 | bip_39_word_space_0 | ['chief', 'rebel', 'green', 'panic', 'pink', 'rocket', 'unique', 'quantum', 'dream', 'confirm', 'few', 'already'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief rebel green panic pink rocket unique quantum dream confirm |  

@@ -122,6 +122,18 @@ shallow
 hill
 goat
 zebra |  
+| bip_39_word_no_space_1 | identify |  
+| bip_39_word_no_space_10 | identifyladysurelionhintshallowhillgoatzebradune |  
+| bip_39_word_no_space_11 | identifyladysurelionhintshallowhillgoatzebradunescissors |  
+| bip_39_word_no_space_12 | identifyladysurelionhintshallowhillgoatzebradunescissorsabsorb |  
+| bip_39_word_no_space_2 | identifylady |  
+| bip_39_word_no_space_3 | identifyladysure |  
+| bip_39_word_no_space_4 | identifyladysurelion |  
+| bip_39_word_no_space_5 | identifyladysurelionhint |  
+| bip_39_word_no_space_6 | identifyladysurelionhintshallow |  
+| bip_39_word_no_space_7 | identifyladysurelionhintshallowhill |  
+| bip_39_word_no_space_8 | identifyladysurelionhintshallowhillgoat |  
+| bip_39_word_no_space_9 | identifyladysurelionhintshallowhillgoatzebra |  
 | bip_39_word_space_0 | ['identify', 'lady', 'sure', 'lion', 'hint', 'shallow', 'hill', 'goat', 'zebra', 'dune', 'scissors', 'absorb'] |  
 | bip_39_word_space_1 | identify |  
 | bip_39_word_space_10 | identify lady sure lion hint shallow hill goat zebra dune |  

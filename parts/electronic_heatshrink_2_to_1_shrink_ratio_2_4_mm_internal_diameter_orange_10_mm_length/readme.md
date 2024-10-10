@@ -122,6 +122,18 @@ depth
 balcony
 pretty
 elbow |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logicinnocentdancediagramgentledepthbalconyprettyelbowapple |  
+| bip_39_word_no_space_11 | logicinnocentdancediagramgentledepthbalconyprettyelbowappletumble |  
+| bip_39_word_no_space_12 | logicinnocentdancediagramgentledepthbalconyprettyelbowappletumbleattract |  
+| bip_39_word_no_space_2 | logicinnocent |  
+| bip_39_word_no_space_3 | logicinnocentdance |  
+| bip_39_word_no_space_4 | logicinnocentdancediagram |  
+| bip_39_word_no_space_5 | logicinnocentdancediagramgentle |  
+| bip_39_word_no_space_6 | logicinnocentdancediagramgentledepth |  
+| bip_39_word_no_space_7 | logicinnocentdancediagramgentledepthbalcony |  
+| bip_39_word_no_space_8 | logicinnocentdancediagramgentledepthbalconypretty |  
+| bip_39_word_no_space_9 | logicinnocentdancediagramgentledepthbalconyprettyelbow |  
 | bip_39_word_space_0 | ['logic', 'innocent', 'dance', 'diagram', 'gentle', 'depth', 'balcony', 'pretty', 'elbow', 'apple', 'tumble', 'attract'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic innocent dance diagram gentle depth balcony pretty elbow apple |  

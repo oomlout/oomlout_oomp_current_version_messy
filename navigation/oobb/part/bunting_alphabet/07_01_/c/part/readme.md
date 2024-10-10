@@ -122,6 +122,18 @@ entry
 loop
 hurt
 faint |  
+| bip_39_word_no_space_1 | mass |  
+| bip_39_word_no_space_10 | massdiseaseneckclaimwriteentryloophurtfaintaxis |  
+| bip_39_word_no_space_11 | massdiseaseneckclaimwriteentryloophurtfaintaxiscoffee |  
+| bip_39_word_no_space_12 | massdiseaseneckclaimwriteentryloophurtfaintaxiscoffeeapart |  
+| bip_39_word_no_space_2 | massdisease |  
+| bip_39_word_no_space_3 | massdiseaseneck |  
+| bip_39_word_no_space_4 | massdiseaseneckclaim |  
+| bip_39_word_no_space_5 | massdiseaseneckclaimwrite |  
+| bip_39_word_no_space_6 | massdiseaseneckclaimwriteentry |  
+| bip_39_word_no_space_7 | massdiseaseneckclaimwriteentryloop |  
+| bip_39_word_no_space_8 | massdiseaseneckclaimwriteentryloophurt |  
+| bip_39_word_no_space_9 | massdiseaseneckclaimwriteentryloophurtfaint |  
 | bip_39_word_space_0 | ['mass', 'disease', 'neck', 'claim', 'write', 'entry', 'loop', 'hurt', 'faint', 'axis', 'coffee', 'apart'] |  
 | bip_39_word_space_1 | mass |  
 | bip_39_word_space_10 | mass disease neck claim write entry loop hurt faint axis |  

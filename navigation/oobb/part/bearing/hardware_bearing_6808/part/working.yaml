@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'home
   clutch
 
   federal'
+bip_39_word_no_space_1: home
+bip_39_word_no_space_10: homequantumdecemberoilnoisealphavoidclutchfederaltoss
+bip_39_word_no_space_11: homequantumdecemberoilnoisealphavoidclutchfederaltosssport
+bip_39_word_no_space_12: homequantumdecemberoilnoisealphavoidclutchfederaltosssportagent
+bip_39_word_no_space_2: homequantum
+bip_39_word_no_space_3: homequantumdecember
+bip_39_word_no_space_4: homequantumdecemberoil
+bip_39_word_no_space_5: homequantumdecemberoilnoise
+bip_39_word_no_space_6: homequantumdecemberoilnoisealpha
+bip_39_word_no_space_7: homequantumdecemberoilnoisealphavoid
+bip_39_word_no_space_8: homequantumdecemberoilnoisealphavoidclutch
+bip_39_word_no_space_9: homequantumdecemberoilnoisealphavoidclutchfederal
 bip_39_word_space_0:
 - home
 - quantum

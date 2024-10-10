@@ -122,6 +122,18 @@ bridge
 fine
 rookie
 own |  
+| bip_39_word_no_space_1 | market |  
+| bip_39_word_no_space_10 | markettracklivespotspherebridgefinerookieownhungry |  
+| bip_39_word_no_space_11 | markettracklivespotspherebridgefinerookieownhungrychimney |  
+| bip_39_word_no_space_12 | markettracklivespotspherebridgefinerookieownhungrychimneyahead |  
+| bip_39_word_no_space_2 | markettrack |  
+| bip_39_word_no_space_3 | markettracklive |  
+| bip_39_word_no_space_4 | markettracklivespot |  
+| bip_39_word_no_space_5 | markettracklivespotsphere |  
+| bip_39_word_no_space_6 | markettracklivespotspherebridge |  
+| bip_39_word_no_space_7 | markettracklivespotspherebridgefine |  
+| bip_39_word_no_space_8 | markettracklivespotspherebridgefinerookie |  
+| bip_39_word_no_space_9 | markettracklivespotspherebridgefinerookieown |  
 | bip_39_word_space_0 | ['market', 'track', 'live', 'spot', 'sphere', 'bridge', 'fine', 'rookie', 'own', 'hungry', 'chimney', 'ahead'] |  
 | bip_39_word_space_1 | market |  
 | bip_39_word_space_10 | market track live spot sphere bridge fine rookie own hungry |  

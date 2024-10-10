@@ -122,6 +122,18 @@ dish
 odor
 worth
 melody |  
+| bip_39_word_no_space_1 | bring |  
+| bip_39_word_no_space_10 | bringlunchintofrowntextdishodorworthmelodyarch |  
+| bip_39_word_no_space_11 | bringlunchintofrowntextdishodorworthmelodyarchupdate |  
+| bip_39_word_no_space_12 | bringlunchintofrowntextdishodorworthmelodyarchupdateartist |  
+| bip_39_word_no_space_2 | bringlunch |  
+| bip_39_word_no_space_3 | bringlunchinto |  
+| bip_39_word_no_space_4 | bringlunchintofrown |  
+| bip_39_word_no_space_5 | bringlunchintofrowntext |  
+| bip_39_word_no_space_6 | bringlunchintofrowntextdish |  
+| bip_39_word_no_space_7 | bringlunchintofrowntextdishodor |  
+| bip_39_word_no_space_8 | bringlunchintofrowntextdishodorworth |  
+| bip_39_word_no_space_9 | bringlunchintofrowntextdishodorworthmelody |  
 | bip_39_word_space_0 | ['bring', 'lunch', 'into', 'frown', 'text', 'dish', 'odor', 'worth', 'melody', 'arch', 'update', 'artist'] |  
 | bip_39_word_space_1 | bring |  
 | bip_39_word_space_10 | bring lunch into frown text dish odor worth melody arch |  

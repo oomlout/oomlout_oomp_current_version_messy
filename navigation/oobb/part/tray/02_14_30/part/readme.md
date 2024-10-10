@@ -122,6 +122,18 @@ negative
 logic
 burden
 shed |  
+| bip_39_word_no_space_1 | water |  
+| bip_39_word_no_space_10 | waterclumpsodadramawrongnegativelogicburdenshedmother |  
+| bip_39_word_no_space_11 | waterclumpsodadramawrongnegativelogicburdenshedmotherdespair |  
+| bip_39_word_no_space_12 | waterclumpsodadramawrongnegativelogicburdenshedmotherdespairaspect |  
+| bip_39_word_no_space_2 | waterclump |  
+| bip_39_word_no_space_3 | waterclumpsoda |  
+| bip_39_word_no_space_4 | waterclumpsodadrama |  
+| bip_39_word_no_space_5 | waterclumpsodadramawrong |  
+| bip_39_word_no_space_6 | waterclumpsodadramawrongnegative |  
+| bip_39_word_no_space_7 | waterclumpsodadramawrongnegativelogic |  
+| bip_39_word_no_space_8 | waterclumpsodadramawrongnegativelogicburden |  
+| bip_39_word_no_space_9 | waterclumpsodadramawrongnegativelogicburdenshed |  
 | bip_39_word_space_0 | ['water', 'clump', 'soda', 'drama', 'wrong', 'negative', 'logic', 'burden', 'shed', 'mother', 'despair', 'aspect'] |  
 | bip_39_word_space_1 | water |  
 | bip_39_word_space_10 | water clump soda drama wrong negative logic burden shed mother |  

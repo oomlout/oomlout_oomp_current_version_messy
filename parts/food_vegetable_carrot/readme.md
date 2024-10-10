@@ -122,6 +122,18 @@ prosper
 tongue
 connect
 mango |  
+| bip_39_word_no_space_1 | auto |  
+| bip_39_word_no_space_10 | autoanglefurywaspfunnyprospertongueconnectmangounique |  
+| bip_39_word_no_space_11 | autoanglefurywaspfunnyprospertongueconnectmangouniquemilk |  
+| bip_39_word_no_space_12 | autoanglefurywaspfunnyprospertongueconnectmangouniquemilkaction |  
+| bip_39_word_no_space_2 | autoangle |  
+| bip_39_word_no_space_3 | autoanglefury |  
+| bip_39_word_no_space_4 | autoanglefurywasp |  
+| bip_39_word_no_space_5 | autoanglefurywaspfunny |  
+| bip_39_word_no_space_6 | autoanglefurywaspfunnyprosper |  
+| bip_39_word_no_space_7 | autoanglefurywaspfunnyprospertongue |  
+| bip_39_word_no_space_8 | autoanglefurywaspfunnyprospertongueconnect |  
+| bip_39_word_no_space_9 | autoanglefurywaspfunnyprospertongueconnectmango |  
 | bip_39_word_space_0 | ['auto', 'angle', 'fury', 'wasp', 'funny', 'prosper', 'tongue', 'connect', 'mango', 'unique', 'milk', 'action'] |  
 | bip_39_word_space_1 | auto |  
 | bip_39_word_space_10 | auto angle fury wasp funny prosper tongue connect mango unique |  

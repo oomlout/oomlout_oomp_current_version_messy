@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'way
   want
 
   tool'
+bip_39_word_no_space_1: way
+bip_39_word_no_space_10: waycaserenewutilitysniffblossombriefwanttoolshove
+bip_39_word_no_space_11: waycaserenewutilitysniffblossombriefwanttoolshovefarm
+bip_39_word_no_space_12: waycaserenewutilitysniffblossombriefwanttoolshovefarmankle
+bip_39_word_no_space_2: waycase
+bip_39_word_no_space_3: waycaserenew
+bip_39_word_no_space_4: waycaserenewutility
+bip_39_word_no_space_5: waycaserenewutilitysniff
+bip_39_word_no_space_6: waycaserenewutilitysniffblossom
+bip_39_word_no_space_7: waycaserenewutilitysniffblossombrief
+bip_39_word_no_space_8: waycaserenewutilitysniffblossombriefwant
+bip_39_word_no_space_9: waycaserenewutilitysniffblossombriefwanttool
 bip_39_word_space_0:
 - way
 - case

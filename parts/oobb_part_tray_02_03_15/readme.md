@@ -122,6 +122,18 @@ target
 slogan
 south
 maximum |  
+| bip_39_word_no_space_1 | forward |  
+| bip_39_word_no_space_10 | forwardtorchlaughwarriorkitetargetslogansouthmaximumlift |  
+| bip_39_word_no_space_11 | forwardtorchlaughwarriorkitetargetslogansouthmaximumliftwarfare |  
+| bip_39_word_no_space_12 | forwardtorchlaughwarriorkitetargetslogansouthmaximumliftwarfareanger |  
+| bip_39_word_no_space_2 | forwardtorch |  
+| bip_39_word_no_space_3 | forwardtorchlaugh |  
+| bip_39_word_no_space_4 | forwardtorchlaughwarrior |  
+| bip_39_word_no_space_5 | forwardtorchlaughwarriorkite |  
+| bip_39_word_no_space_6 | forwardtorchlaughwarriorkitetarget |  
+| bip_39_word_no_space_7 | forwardtorchlaughwarriorkitetargetslogan |  
+| bip_39_word_no_space_8 | forwardtorchlaughwarriorkitetargetslogansouth |  
+| bip_39_word_no_space_9 | forwardtorchlaughwarriorkitetargetslogansouthmaximum |  
 | bip_39_word_space_0 | ['forward', 'torch', 'laugh', 'warrior', 'kite', 'target', 'slogan', 'south', 'maximum', 'lift', 'warfare', 'anger'] |  
 | bip_39_word_space_1 | forward |  
 | bip_39_word_space_10 | forward torch laugh warrior kite target slogan south maximum lift |  

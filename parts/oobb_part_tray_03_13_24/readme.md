@@ -109,6 +109,17 @@ clump
 check
 burst
 feature |  
+| bip_39_word_no_space_1 | day |  
+| bip_39_word_no_space_10 | daymountainherowealthbenefitclumpcheckburstfeatureshoulder |  
+| bip_39_word_no_space_11 | daymountainherowealthbenefitclumpcheckburstfeatureshoulderother |  
+| bip_39_word_no_space_2 | daymountain |  
+| bip_39_word_no_space_3 | daymountainhero |  
+| bip_39_word_no_space_4 | daymountainherowealth |  
+| bip_39_word_no_space_5 | daymountainherowealthbenefit |  
+| bip_39_word_no_space_6 | daymountainherowealthbenefitclump |  
+| bip_39_word_no_space_7 | daymountainherowealthbenefitclumpcheck |  
+| bip_39_word_no_space_8 | daymountainherowealthbenefitclumpcheckburst |  
+| bip_39_word_no_space_9 | daymountainherowealthbenefitclumpcheckburstfeature |  
 | bip_39_word_space_0 | ['day', 'mountain', 'hero', 'wealth', 'benefit', 'clump', 'check', 'burst', 'feature', 'shoulder', 'other'] |  
 | bip_39_word_space_1 | day |  
 | bip_39_word_space_10 | day mountain hero wealth benefit clump check burst feature shoulder |  

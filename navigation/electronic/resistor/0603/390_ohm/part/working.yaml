@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dirt
   photo
 
   faith'
+bip_39_word_no_space_1: dirt
+bip_39_word_no_space_10: dirtlampseconddishanalysturgehillphotofaithgown
+bip_39_word_no_space_11: dirtlampseconddishanalysturgehillphotofaithgownjunk
+bip_39_word_no_space_12: dirtlampseconddishanalysturgehillphotofaithgownjunkapart
+bip_39_word_no_space_2: dirtlamp
+bip_39_word_no_space_3: dirtlampsecond
+bip_39_word_no_space_4: dirtlampseconddish
+bip_39_word_no_space_5: dirtlampseconddishanalyst
+bip_39_word_no_space_6: dirtlampseconddishanalysturge
+bip_39_word_no_space_7: dirtlampseconddishanalysturgehill
+bip_39_word_no_space_8: dirtlampseconddishanalysturgehillphoto
+bip_39_word_no_space_9: dirtlampseconddishanalysturgehillphotofaith
 bip_39_word_space_0:
 - dirt
 - lamp

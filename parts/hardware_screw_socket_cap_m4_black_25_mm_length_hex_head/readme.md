@@ -122,6 +122,18 @@ will
 media
 grab
 agent |  
+| bip_39_word_no_space_1 | pottery |  
+| bip_39_word_no_space_10 | potteryabilitysomeonesurecancelwillmediagrabagentfortune |  
+| bip_39_word_no_space_11 | potteryabilitysomeonesurecancelwillmediagrabagentfortuneglad |  
+| bip_39_word_no_space_12 | potteryabilitysomeonesurecancelwillmediagrabagentfortunegladaerobic |  
+| bip_39_word_no_space_2 | potteryability |  
+| bip_39_word_no_space_3 | potteryabilitysomeone |  
+| bip_39_word_no_space_4 | potteryabilitysomeonesure |  
+| bip_39_word_no_space_5 | potteryabilitysomeonesurecancel |  
+| bip_39_word_no_space_6 | potteryabilitysomeonesurecancelwill |  
+| bip_39_word_no_space_7 | potteryabilitysomeonesurecancelwillmedia |  
+| bip_39_word_no_space_8 | potteryabilitysomeonesurecancelwillmediagrab |  
+| bip_39_word_no_space_9 | potteryabilitysomeonesurecancelwillmediagrabagent |  
 | bip_39_word_space_0 | ['pottery', 'ability', 'someone', 'sure', 'cancel', 'will', 'media', 'grab', 'agent', 'fortune', 'glad', 'aerobic'] |  
 | bip_39_word_space_1 | pottery |  
 | bip_39_word_space_10 | pottery ability someone sure cancel will media grab agent fortune |  

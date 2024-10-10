@@ -122,6 +122,18 @@ unfold
 belt
 tiny
 kingdom |  
+| bip_39_word_no_space_1 | flat |  
+| bip_39_word_no_space_10 | flatbalanceelegantautumnprocessunfoldbelttinykingdomfrost |  
+| bip_39_word_no_space_11 | flatbalanceelegantautumnprocessunfoldbelttinykingdomfrostmystery |  
+| bip_39_word_no_space_12 | flatbalanceelegantautumnprocessunfoldbelttinykingdomfrostmysteryanalyst |  
+| bip_39_word_no_space_2 | flatbalance |  
+| bip_39_word_no_space_3 | flatbalanceelegant |  
+| bip_39_word_no_space_4 | flatbalanceelegantautumn |  
+| bip_39_word_no_space_5 | flatbalanceelegantautumnprocess |  
+| bip_39_word_no_space_6 | flatbalanceelegantautumnprocessunfold |  
+| bip_39_word_no_space_7 | flatbalanceelegantautumnprocessunfoldbelt |  
+| bip_39_word_no_space_8 | flatbalanceelegantautumnprocessunfoldbelttiny |  
+| bip_39_word_no_space_9 | flatbalanceelegantautumnprocessunfoldbelttinykingdom |  
 | bip_39_word_space_0 | ['flat', 'balance', 'elegant', 'autumn', 'process', 'unfold', 'belt', 'tiny', 'kingdom', 'frost', 'mystery', 'analyst'] |  
 | bip_39_word_space_1 | flat |  
 | bip_39_word_space_10 | flat balance elegant autumn process unfold belt tiny kingdom frost |  

@@ -122,6 +122,18 @@ muscle
 promote
 exhaust
 wheel |  
+| bip_39_word_no_space_1 | supreme |  
+| bip_39_word_no_space_10 | supremesmallhighwantmuchmusclepromoteexhaustwheelthat |  
+| bip_39_word_no_space_11 | supremesmallhighwantmuchmusclepromoteexhaustwheelthataunt |  
+| bip_39_word_no_space_12 | supremesmallhighwantmuchmusclepromoteexhaustwheelthatauntattract |  
+| bip_39_word_no_space_2 | supremesmall |  
+| bip_39_word_no_space_3 | supremesmallhigh |  
+| bip_39_word_no_space_4 | supremesmallhighwant |  
+| bip_39_word_no_space_5 | supremesmallhighwantmuch |  
+| bip_39_word_no_space_6 | supremesmallhighwantmuchmuscle |  
+| bip_39_word_no_space_7 | supremesmallhighwantmuchmusclepromote |  
+| bip_39_word_no_space_8 | supremesmallhighwantmuchmusclepromoteexhaust |  
+| bip_39_word_no_space_9 | supremesmallhighwantmuchmusclepromoteexhaustwheel |  
 | bip_39_word_space_0 | ['supreme', 'small', 'high', 'want', 'much', 'muscle', 'promote', 'exhaust', 'wheel', 'that', 'aunt', 'attract'] |  
 | bip_39_word_space_1 | supreme |  
 | bip_39_word_space_10 | supreme small high want much muscle promote exhaust wheel that |  

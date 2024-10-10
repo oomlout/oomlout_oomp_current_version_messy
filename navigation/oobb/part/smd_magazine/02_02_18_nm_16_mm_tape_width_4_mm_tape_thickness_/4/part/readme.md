@@ -122,6 +122,18 @@ wink
 aim
 flash
 knock |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementserviceplaycigarrotatewinkaimflashknockfine |  
+| bip_39_word_no_space_11 | elementserviceplaycigarrotatewinkaimflashknockfinetwelve |  
+| bip_39_word_no_space_12 | elementserviceplaycigarrotatewinkaimflashknockfinetwelveamused |  
+| bip_39_word_no_space_2 | elementservice |  
+| bip_39_word_no_space_3 | elementserviceplay |  
+| bip_39_word_no_space_4 | elementserviceplaycigar |  
+| bip_39_word_no_space_5 | elementserviceplaycigarrotate |  
+| bip_39_word_no_space_6 | elementserviceplaycigarrotatewink |  
+| bip_39_word_no_space_7 | elementserviceplaycigarrotatewinkaim |  
+| bip_39_word_no_space_8 | elementserviceplaycigarrotatewinkaimflash |  
+| bip_39_word_no_space_9 | elementserviceplaycigarrotatewinkaimflashknock |  
 | bip_39_word_space_0 | ['element', 'service', 'play', 'cigar', 'rotate', 'wink', 'aim', 'flash', 'knock', 'fine', 'twelve', 'amused'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element service play cigar rotate wink aim flash knock fine |  

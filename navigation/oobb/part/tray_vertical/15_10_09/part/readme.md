@@ -122,6 +122,18 @@ bone
 pause
 silver
 symptom |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | loopbarelyimmensesceneendbonepausesilversymptomshrimp |  
+| bip_39_word_no_space_11 | loopbarelyimmensesceneendbonepausesilversymptomshrimpavoid |  
+| bip_39_word_no_space_12 | loopbarelyimmensesceneendbonepausesilversymptomshrimpavoidability |  
+| bip_39_word_no_space_2 | loopbarely |  
+| bip_39_word_no_space_3 | loopbarelyimmense |  
+| bip_39_word_no_space_4 | loopbarelyimmensescene |  
+| bip_39_word_no_space_5 | loopbarelyimmensesceneend |  
+| bip_39_word_no_space_6 | loopbarelyimmensesceneendbone |  
+| bip_39_word_no_space_7 | loopbarelyimmensesceneendbonepause |  
+| bip_39_word_no_space_8 | loopbarelyimmensesceneendbonepausesilver |  
+| bip_39_word_no_space_9 | loopbarelyimmensesceneendbonepausesilversymptom |  
 | bip_39_word_space_0 | ['loop', 'barely', 'immense', 'scene', 'end', 'bone', 'pause', 'silver', 'symptom', 'shrimp', 'avoid', 'ability'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop barely immense scene end bone pause silver symptom shrimp |  

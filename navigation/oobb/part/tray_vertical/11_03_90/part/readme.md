@@ -122,6 +122,18 @@ truly
 pink
 daring
 pull |  
+| bip_39_word_no_space_1 | until |  
+| bip_39_word_no_space_10 | untilbuildpursechooseridgetrulypinkdaringpullcinnamon |  
+| bip_39_word_no_space_11 | untilbuildpursechooseridgetrulypinkdaringpullcinnamonmuch |  
+| bip_39_word_no_space_12 | untilbuildpursechooseridgetrulypinkdaringpullcinnamonmuchalarm |  
+| bip_39_word_no_space_2 | untilbuild |  
+| bip_39_word_no_space_3 | untilbuildpurse |  
+| bip_39_word_no_space_4 | untilbuildpursechoose |  
+| bip_39_word_no_space_5 | untilbuildpursechooseridge |  
+| bip_39_word_no_space_6 | untilbuildpursechooseridgetruly |  
+| bip_39_word_no_space_7 | untilbuildpursechooseridgetrulypink |  
+| bip_39_word_no_space_8 | untilbuildpursechooseridgetrulypinkdaring |  
+| bip_39_word_no_space_9 | untilbuildpursechooseridgetrulypinkdaringpull |  
 | bip_39_word_space_0 | ['until', 'build', 'purse', 'choose', 'ridge', 'truly', 'pink', 'daring', 'pull', 'cinnamon', 'much', 'alarm'] |  
 | bip_39_word_space_1 | until |  
 | bip_39_word_space_10 | until build purse choose ridge truly pink daring pull cinnamon |  

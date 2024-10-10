@@ -122,6 +122,18 @@ fashion
 scorpion
 daughter
 essence |  
+| bip_39_word_no_space_1 | armor |  
+| bip_39_word_no_space_10 | armorfinetrustdrophumanfashionscorpiondaughteressenceaspect |  
+| bip_39_word_no_space_11 | armorfinetrustdrophumanfashionscorpiondaughteressenceaspecttheme |  
+| bip_39_word_no_space_12 | armorfinetrustdrophumanfashionscorpiondaughteressenceaspectthemeaccuse |  
+| bip_39_word_no_space_2 | armorfine |  
+| bip_39_word_no_space_3 | armorfinetrust |  
+| bip_39_word_no_space_4 | armorfinetrustdrop |  
+| bip_39_word_no_space_5 | armorfinetrustdrophuman |  
+| bip_39_word_no_space_6 | armorfinetrustdrophumanfashion |  
+| bip_39_word_no_space_7 | armorfinetrustdrophumanfashionscorpion |  
+| bip_39_word_no_space_8 | armorfinetrustdrophumanfashionscorpiondaughter |  
+| bip_39_word_no_space_9 | armorfinetrustdrophumanfashionscorpiondaughteressence |  
 | bip_39_word_space_0 | ['armor', 'fine', 'trust', 'drop', 'human', 'fashion', 'scorpion', 'daughter', 'essence', 'aspect', 'theme', 'accuse'] |  
 | bip_39_word_space_1 | armor |  
 | bip_39_word_space_10 | armor fine trust drop human fashion scorpion daughter essence aspect |  

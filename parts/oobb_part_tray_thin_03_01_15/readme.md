@@ -122,6 +122,18 @@ seed
 fine
 panther
 path |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circlecrouchgentleerrorsleepseedfinepantherpathscare |  
+| bip_39_word_no_space_11 | circlecrouchgentleerrorsleepseedfinepantherpathscarekitten |  
+| bip_39_word_no_space_12 | circlecrouchgentleerrorsleepseedfinepantherpathscarekittenalmost |  
+| bip_39_word_no_space_2 | circlecrouch |  
+| bip_39_word_no_space_3 | circlecrouchgentle |  
+| bip_39_word_no_space_4 | circlecrouchgentleerror |  
+| bip_39_word_no_space_5 | circlecrouchgentleerrorsleep |  
+| bip_39_word_no_space_6 | circlecrouchgentleerrorsleepseed |  
+| bip_39_word_no_space_7 | circlecrouchgentleerrorsleepseedfine |  
+| bip_39_word_no_space_8 | circlecrouchgentleerrorsleepseedfinepanther |  
+| bip_39_word_no_space_9 | circlecrouchgentleerrorsleepseedfinepantherpath |  
 | bip_39_word_space_0 | ['circle', 'crouch', 'gentle', 'error', 'sleep', 'seed', 'fine', 'panther', 'path', 'scare', 'kitten', 'almost'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle crouch gentle error sleep seed fine panther path scare |  

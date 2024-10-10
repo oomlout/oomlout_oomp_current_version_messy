@@ -122,6 +122,18 @@ busy
 bullet
 will
 tumble |  
+| bip_39_word_no_space_1 | setup |  
+| bip_39_word_no_space_10 | setupdecadecornburdenflushbusybulletwilltumblearctic |  
+| bip_39_word_no_space_11 | setupdecadecornburdenflushbusybulletwilltumblearcticgossip |  
+| bip_39_word_no_space_12 | setupdecadecornburdenflushbusybulletwilltumblearcticgossipartwork |  
+| bip_39_word_no_space_2 | setupdecade |  
+| bip_39_word_no_space_3 | setupdecadecorn |  
+| bip_39_word_no_space_4 | setupdecadecornburden |  
+| bip_39_word_no_space_5 | setupdecadecornburdenflush |  
+| bip_39_word_no_space_6 | setupdecadecornburdenflushbusy |  
+| bip_39_word_no_space_7 | setupdecadecornburdenflushbusybullet |  
+| bip_39_word_no_space_8 | setupdecadecornburdenflushbusybulletwill |  
+| bip_39_word_no_space_9 | setupdecadecornburdenflushbusybulletwilltumble |  
 | bip_39_word_space_0 | ['setup', 'decade', 'corn', 'burden', 'flush', 'busy', 'bullet', 'will', 'tumble', 'arctic', 'gossip', 'artwork'] |  
 | bip_39_word_space_1 | setup |  
 | bip_39_word_space_10 | setup decade corn burden flush busy bullet will tumble arctic |  

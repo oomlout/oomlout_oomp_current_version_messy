@@ -122,6 +122,18 @@ heart
 dash
 charge
 lion |  
+| bip_39_word_no_space_1 | upper |  
+| bip_39_word_no_space_10 | upperembodycorrecttellregionheartdashchargelionsaddle |  
+| bip_39_word_no_space_11 | upperembodycorrecttellregionheartdashchargelionsaddlewreck |  
+| bip_39_word_no_space_12 | upperembodycorrecttellregionheartdashchargelionsaddlewreckactress |  
+| bip_39_word_no_space_2 | upperembody |  
+| bip_39_word_no_space_3 | upperembodycorrect |  
+| bip_39_word_no_space_4 | upperembodycorrecttell |  
+| bip_39_word_no_space_5 | upperembodycorrecttellregion |  
+| bip_39_word_no_space_6 | upperembodycorrecttellregionheart |  
+| bip_39_word_no_space_7 | upperembodycorrecttellregionheartdash |  
+| bip_39_word_no_space_8 | upperembodycorrecttellregionheartdashcharge |  
+| bip_39_word_no_space_9 | upperembodycorrecttellregionheartdashchargelion |  
 | bip_39_word_space_0 | ['upper', 'embody', 'correct', 'tell', 'region', 'heart', 'dash', 'charge', 'lion', 'saddle', 'wreck', 'actress'] |  
 | bip_39_word_space_1 | upper |  
 | bip_39_word_space_10 | upper embody correct tell region heart dash charge lion saddle |  

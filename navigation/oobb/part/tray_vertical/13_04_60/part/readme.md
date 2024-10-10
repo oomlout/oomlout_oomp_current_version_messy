@@ -122,6 +122,18 @@ buddy
 weird
 north
 ocean |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicenothingbonussailshrimpbuddyweirdnorthoceanphoto |  
+| bip_39_word_no_space_11 | spicenothingbonussailshrimpbuddyweirdnorthoceanphotoequal |  
+| bip_39_word_no_space_12 | spicenothingbonussailshrimpbuddyweirdnorthoceanphotoequalangry |  
+| bip_39_word_no_space_2 | spicenothing |  
+| bip_39_word_no_space_3 | spicenothingbonus |  
+| bip_39_word_no_space_4 | spicenothingbonussail |  
+| bip_39_word_no_space_5 | spicenothingbonussailshrimp |  
+| bip_39_word_no_space_6 | spicenothingbonussailshrimpbuddy |  
+| bip_39_word_no_space_7 | spicenothingbonussailshrimpbuddyweird |  
+| bip_39_word_no_space_8 | spicenothingbonussailshrimpbuddyweirdnorth |  
+| bip_39_word_no_space_9 | spicenothingbonussailshrimpbuddyweirdnorthocean |  
 | bip_39_word_space_0 | ['spice', 'nothing', 'bonus', 'sail', 'shrimp', 'buddy', 'weird', 'north', 'ocean', 'photo', 'equal', 'angry'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice nothing bonus sail shrimp buddy weird north ocean photo |  

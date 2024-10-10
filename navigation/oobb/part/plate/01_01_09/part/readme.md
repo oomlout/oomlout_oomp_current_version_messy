@@ -122,6 +122,18 @@ hole
 thank
 magnet
 display |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragileaxisrathergympuddingholethankmagnetdisplayshadow |  
+| bip_39_word_no_space_11 | fragileaxisrathergympuddingholethankmagnetdisplayshadowprefer |  
+| bip_39_word_no_space_12 | fragileaxisrathergympuddingholethankmagnetdisplayshadowpreferadd |  
+| bip_39_word_no_space_2 | fragileaxis |  
+| bip_39_word_no_space_3 | fragileaxisrather |  
+| bip_39_word_no_space_4 | fragileaxisrathergym |  
+| bip_39_word_no_space_5 | fragileaxisrathergympudding |  
+| bip_39_word_no_space_6 | fragileaxisrathergympuddinghole |  
+| bip_39_word_no_space_7 | fragileaxisrathergympuddingholethank |  
+| bip_39_word_no_space_8 | fragileaxisrathergympuddingholethankmagnet |  
+| bip_39_word_no_space_9 | fragileaxisrathergympuddingholethankmagnetdisplay |  
 | bip_39_word_space_0 | ['fragile', 'axis', 'rather', 'gym', 'pudding', 'hole', 'thank', 'magnet', 'display', 'shadow', 'prefer', 'add'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile axis rather gym pudding hole thank magnet display shadow |  

@@ -122,6 +122,18 @@ poverty
 soap
 unable
 minimum |  
+| bip_39_word_no_space_1 | patient |  
+| bip_39_word_no_space_10 | patientanimalmailbalconyvariouspovertysoapunableminimumkingdom |  
+| bip_39_word_no_space_11 | patientanimalmailbalconyvariouspovertysoapunableminimumkingdomblade |  
+| bip_39_word_no_space_12 | patientanimalmailbalconyvariouspovertysoapunableminimumkingdombladeart |  
+| bip_39_word_no_space_2 | patientanimal |  
+| bip_39_word_no_space_3 | patientanimalmail |  
+| bip_39_word_no_space_4 | patientanimalmailbalcony |  
+| bip_39_word_no_space_5 | patientanimalmailbalconyvarious |  
+| bip_39_word_no_space_6 | patientanimalmailbalconyvariouspoverty |  
+| bip_39_word_no_space_7 | patientanimalmailbalconyvariouspovertysoap |  
+| bip_39_word_no_space_8 | patientanimalmailbalconyvariouspovertysoapunable |  
+| bip_39_word_no_space_9 | patientanimalmailbalconyvariouspovertysoapunableminimum |  
 | bip_39_word_space_0 | ['patient', 'animal', 'mail', 'balcony', 'various', 'poverty', 'soap', 'unable', 'minimum', 'kingdom', 'blade', 'art'] |  
 | bip_39_word_space_1 | patient |  
 | bip_39_word_space_10 | patient animal mail balcony various poverty soap unable minimum kingdom |  

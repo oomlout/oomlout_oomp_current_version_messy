@@ -122,6 +122,18 @@ crazy
 ivory
 security
 cattle |  
+| bip_39_word_no_space_1 | ritual |  
+| bip_39_word_no_space_10 | ritualpenaltywearforkcoincrazyivorysecuritycattlewhere |  
+| bip_39_word_no_space_11 | ritualpenaltywearforkcoincrazyivorysecuritycattlewherelottery |  
+| bip_39_word_no_space_12 | ritualpenaltywearforkcoincrazyivorysecuritycattlewherelotteryalert |  
+| bip_39_word_no_space_2 | ritualpenalty |  
+| bip_39_word_no_space_3 | ritualpenaltywear |  
+| bip_39_word_no_space_4 | ritualpenaltywearfork |  
+| bip_39_word_no_space_5 | ritualpenaltywearforkcoin |  
+| bip_39_word_no_space_6 | ritualpenaltywearforkcoincrazy |  
+| bip_39_word_no_space_7 | ritualpenaltywearforkcoincrazyivory |  
+| bip_39_word_no_space_8 | ritualpenaltywearforkcoincrazyivorysecurity |  
+| bip_39_word_no_space_9 | ritualpenaltywearforkcoincrazyivorysecuritycattle |  
 | bip_39_word_space_0 | ['ritual', 'penalty', 'wear', 'fork', 'coin', 'crazy', 'ivory', 'security', 'cattle', 'where', 'lottery', 'alert'] |  
 | bip_39_word_space_1 | ritual |  
 | bip_39_word_space_10 | ritual penalty wear fork coin crazy ivory security cattle where |  

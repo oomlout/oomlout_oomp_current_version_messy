@@ -122,6 +122,18 @@ choose
 room
 castle
 twenty |  
+| bip_39_word_no_space_1 | message |  
+| bip_39_word_no_space_10 | messagemushroomquotedollundochooseroomcastletwentymyth |  
+| bip_39_word_no_space_11 | messagemushroomquotedollundochooseroomcastletwentymythdiary |  
+| bip_39_word_no_space_12 | messagemushroomquotedollundochooseroomcastletwentymythdiaryamazing |  
+| bip_39_word_no_space_2 | messagemushroom |  
+| bip_39_word_no_space_3 | messagemushroomquote |  
+| bip_39_word_no_space_4 | messagemushroomquotedoll |  
+| bip_39_word_no_space_5 | messagemushroomquotedollundo |  
+| bip_39_word_no_space_6 | messagemushroomquotedollundochoose |  
+| bip_39_word_no_space_7 | messagemushroomquotedollundochooseroom |  
+| bip_39_word_no_space_8 | messagemushroomquotedollundochooseroomcastle |  
+| bip_39_word_no_space_9 | messagemushroomquotedollundochooseroomcastletwenty |  
 | bip_39_word_space_0 | ['message', 'mushroom', 'quote', 'doll', 'undo', 'choose', 'room', 'castle', 'twenty', 'myth', 'diary', 'amazing'] |  
 | bip_39_word_space_1 | message |  
 | bip_39_word_space_10 | message mushroom quote doll undo choose room castle twenty myth |  

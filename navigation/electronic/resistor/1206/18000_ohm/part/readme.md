@@ -122,6 +122,18 @@ laptop
 gasp
 riot
 access |  
+| bip_39_word_no_space_1 | twelve |  
+| bip_39_word_no_space_10 | twelvescienceslableisurecalmlaptopgaspriotaccessvolcano |  
+| bip_39_word_no_space_11 | twelvescienceslableisurecalmlaptopgaspriotaccessvolcanocheap |  
+| bip_39_word_no_space_12 | twelvescienceslableisurecalmlaptopgaspriotaccessvolcanocheaparrive |  
+| bip_39_word_no_space_2 | twelvescience |  
+| bip_39_word_no_space_3 | twelvescienceslab |  
+| bip_39_word_no_space_4 | twelvescienceslableisure |  
+| bip_39_word_no_space_5 | twelvescienceslableisurecalm |  
+| bip_39_word_no_space_6 | twelvescienceslableisurecalmlaptop |  
+| bip_39_word_no_space_7 | twelvescienceslableisurecalmlaptopgasp |  
+| bip_39_word_no_space_8 | twelvescienceslableisurecalmlaptopgaspriot |  
+| bip_39_word_no_space_9 | twelvescienceslableisurecalmlaptopgaspriotaccess |  
 | bip_39_word_space_0 | ['twelve', 'science', 'slab', 'leisure', 'calm', 'laptop', 'gasp', 'riot', 'access', 'volcano', 'cheap', 'arrive'] |  
 | bip_39_word_space_1 | twelve |  
 | bip_39_word_space_10 | twelve science slab leisure calm laptop gasp riot access volcano |  

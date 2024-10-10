@@ -122,6 +122,18 @@ power
 hurry
 half
 ginger |  
+| bip_39_word_no_space_1 | borrow |  
+| bip_39_word_no_space_10 | borrowangletideforcetruepowerhurryhalfgingersolid |  
+| bip_39_word_no_space_11 | borrowangletideforcetruepowerhurryhalfgingersolidrescue |  
+| bip_39_word_no_space_12 | borrowangletideforcetruepowerhurryhalfgingersolidrescueartwork |  
+| bip_39_word_no_space_2 | borrowangle |  
+| bip_39_word_no_space_3 | borrowangletide |  
+| bip_39_word_no_space_4 | borrowangletideforce |  
+| bip_39_word_no_space_5 | borrowangletideforcetrue |  
+| bip_39_word_no_space_6 | borrowangletideforcetruepower |  
+| bip_39_word_no_space_7 | borrowangletideforcetruepowerhurry |  
+| bip_39_word_no_space_8 | borrowangletideforcetruepowerhurryhalf |  
+| bip_39_word_no_space_9 | borrowangletideforcetruepowerhurryhalfginger |  
 | bip_39_word_space_0 | ['borrow', 'angle', 'tide', 'force', 'true', 'power', 'hurry', 'half', 'ginger', 'solid', 'rescue', 'artwork'] |  
 | bip_39_word_space_1 | borrow |  
 | bip_39_word_space_10 | borrow angle tide force true power hurry half ginger solid |  

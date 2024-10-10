@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'deer
   rival
 
   weasel'
+bip_39_word_no_space_1: deer
+bip_39_word_no_space_10: deerthreeknockfloorchunkfadeflowerrivalweaselneither
+bip_39_word_no_space_11: deerthreeknockfloorchunkfadeflowerrivalweaselneithercactus
+bip_39_word_no_space_12: deerthreeknockfloorchunkfadeflowerrivalweaselneithercactusarch
+bip_39_word_no_space_2: deerthree
+bip_39_word_no_space_3: deerthreeknock
+bip_39_word_no_space_4: deerthreeknockfloor
+bip_39_word_no_space_5: deerthreeknockfloorchunk
+bip_39_word_no_space_6: deerthreeknockfloorchunkfade
+bip_39_word_no_space_7: deerthreeknockfloorchunkfadeflower
+bip_39_word_no_space_8: deerthreeknockfloorchunkfadeflowerrival
+bip_39_word_no_space_9: deerthreeknockfloorchunkfadeflowerrivalweasel
 bip_39_word_space_0:
 - deer
 - three

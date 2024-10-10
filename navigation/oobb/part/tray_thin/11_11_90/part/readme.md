@@ -122,6 +122,18 @@ reveal
 roast
 acquire
 will |  
+| bip_39_word_no_space_1 | shoe |  
+| bip_39_word_no_space_10 | shoevoicemarriagedropsentencerevealroastacquirewillnow |  
+| bip_39_word_no_space_11 | shoevoicemarriagedropsentencerevealroastacquirewillnowwindow |  
+| bip_39_word_no_space_12 | shoevoicemarriagedropsentencerevealroastacquirewillnowwindowalley |  
+| bip_39_word_no_space_2 | shoevoice |  
+| bip_39_word_no_space_3 | shoevoicemarriage |  
+| bip_39_word_no_space_4 | shoevoicemarriagedrop |  
+| bip_39_word_no_space_5 | shoevoicemarriagedropsentence |  
+| bip_39_word_no_space_6 | shoevoicemarriagedropsentencereveal |  
+| bip_39_word_no_space_7 | shoevoicemarriagedropsentencerevealroast |  
+| bip_39_word_no_space_8 | shoevoicemarriagedropsentencerevealroastacquire |  
+| bip_39_word_no_space_9 | shoevoicemarriagedropsentencerevealroastacquirewill |  
 | bip_39_word_space_0 | ['shoe', 'voice', 'marriage', 'drop', 'sentence', 'reveal', 'roast', 'acquire', 'will', 'now', 'window', 'alley'] |  
 | bip_39_word_space_1 | shoe |  
 | bip_39_word_space_10 | shoe voice marriage drop sentence reveal roast acquire will now |  

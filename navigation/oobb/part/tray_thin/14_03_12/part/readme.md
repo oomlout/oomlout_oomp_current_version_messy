@@ -122,6 +122,18 @@ famous
 erode
 draft
 response |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spiceactunveilgrabdiseasefamouserodedraftresponseforward |  
+| bip_39_word_no_space_11 | spiceactunveilgrabdiseasefamouserodedraftresponseforwardalert |  
+| bip_39_word_no_space_12 | spiceactunveilgrabdiseasefamouserodedraftresponseforwardalertamong |  
+| bip_39_word_no_space_2 | spiceact |  
+| bip_39_word_no_space_3 | spiceactunveil |  
+| bip_39_word_no_space_4 | spiceactunveilgrab |  
+| bip_39_word_no_space_5 | spiceactunveilgrabdisease |  
+| bip_39_word_no_space_6 | spiceactunveilgrabdiseasefamous |  
+| bip_39_word_no_space_7 | spiceactunveilgrabdiseasefamouserode |  
+| bip_39_word_no_space_8 | spiceactunveilgrabdiseasefamouserodedraft |  
+| bip_39_word_no_space_9 | spiceactunveilgrabdiseasefamouserodedraftresponse |  
 | bip_39_word_space_0 | ['spice', 'act', 'unveil', 'grab', 'disease', 'famous', 'erode', 'draft', 'response', 'forward', 'alert', 'among'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice act unveil grab disease famous erode draft response forward |  

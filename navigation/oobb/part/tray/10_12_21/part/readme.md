@@ -122,6 +122,18 @@ save
 menu
 bird
 volume |  
+| bip_39_word_no_space_1 | iron |  
+| bip_39_word_no_space_10 | ironlionimpulsegigglehatsavemenubirdvolumeshop |  
+| bip_39_word_no_space_11 | ironlionimpulsegigglehatsavemenubirdvolumeshopsave |  
+| bip_39_word_no_space_12 | ironlionimpulsegigglehatsavemenubirdvolumeshopsavealpha |  
+| bip_39_word_no_space_2 | ironlion |  
+| bip_39_word_no_space_3 | ironlionimpulse |  
+| bip_39_word_no_space_4 | ironlionimpulsegiggle |  
+| bip_39_word_no_space_5 | ironlionimpulsegigglehat |  
+| bip_39_word_no_space_6 | ironlionimpulsegigglehatsave |  
+| bip_39_word_no_space_7 | ironlionimpulsegigglehatsavemenu |  
+| bip_39_word_no_space_8 | ironlionimpulsegigglehatsavemenubird |  
+| bip_39_word_no_space_9 | ironlionimpulsegigglehatsavemenubirdvolume |  
 | bip_39_word_space_0 | ['iron', 'lion', 'impulse', 'giggle', 'hat', 'save', 'menu', 'bird', 'volume', 'shop', 'save', 'alpha'] |  
 | bip_39_word_space_1 | iron |  
 | bip_39_word_space_10 | iron lion impulse giggle hat save menu bird volume shop |  

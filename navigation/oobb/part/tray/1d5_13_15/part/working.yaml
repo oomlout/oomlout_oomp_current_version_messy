@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'host
   nice
 
   zebra'
+bip_39_word_no_space_1: host
+bip_39_word_no_space_10: hostspellherosaltgadgetbattleablenicezebrafile
+bip_39_word_no_space_11: hostspellherosaltgadgetbattleablenicezebrafileover
+bip_39_word_no_space_12: hostspellherosaltgadgetbattleablenicezebrafileoveracross
+bip_39_word_no_space_2: hostspell
+bip_39_word_no_space_3: hostspellhero
+bip_39_word_no_space_4: hostspellherosalt
+bip_39_word_no_space_5: hostspellherosaltgadget
+bip_39_word_no_space_6: hostspellherosaltgadgetbattle
+bip_39_word_no_space_7: hostspellherosaltgadgetbattleable
+bip_39_word_no_space_8: hostspellherosaltgadgetbattleablenice
+bip_39_word_no_space_9: hostspellherosaltgadgetbattleablenicezebra
 bip_39_word_space_0:
 - host
 - spell

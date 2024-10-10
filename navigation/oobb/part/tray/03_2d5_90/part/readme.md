@@ -122,6 +122,18 @@ palm
 absorb
 symbol
 blood |  
+| bip_39_word_no_space_1 | original |  
+| bip_39_word_no_space_10 | originaltheydefyweddingendlesspalmabsorbsymbolbloodexpect |  
+| bip_39_word_no_space_11 | originaltheydefyweddingendlesspalmabsorbsymbolbloodexpectprison |  
+| bip_39_word_no_space_12 | originaltheydefyweddingendlesspalmabsorbsymbolbloodexpectprisonanimal |  
+| bip_39_word_no_space_2 | originalthey |  
+| bip_39_word_no_space_3 | originaltheydefy |  
+| bip_39_word_no_space_4 | originaltheydefywedding |  
+| bip_39_word_no_space_5 | originaltheydefyweddingendless |  
+| bip_39_word_no_space_6 | originaltheydefyweddingendlesspalm |  
+| bip_39_word_no_space_7 | originaltheydefyweddingendlesspalmabsorb |  
+| bip_39_word_no_space_8 | originaltheydefyweddingendlesspalmabsorbsymbol |  
+| bip_39_word_no_space_9 | originaltheydefyweddingendlesspalmabsorbsymbolblood |  
 | bip_39_word_space_0 | ['original', 'they', 'defy', 'wedding', 'endless', 'palm', 'absorb', 'symbol', 'blood', 'expect', 'prison', 'animal'] |  
 | bip_39_word_space_1 | original |  
 | bip_39_word_space_10 | original they defy wedding endless palm absorb symbol blood expect |  

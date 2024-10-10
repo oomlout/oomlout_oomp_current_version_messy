@@ -122,6 +122,18 @@ wait
 mixture
 donkey
 luggage |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miseryinjecttotalanchorstumblewaitmixturedonkeyluggageholiday |  
+| bip_39_word_no_space_11 | miseryinjecttotalanchorstumblewaitmixturedonkeyluggageholidaycattle |  
+| bip_39_word_no_space_12 | miseryinjecttotalanchorstumblewaitmixturedonkeyluggageholidaycattleagain |  
+| bip_39_word_no_space_2 | miseryinject |  
+| bip_39_word_no_space_3 | miseryinjecttotal |  
+| bip_39_word_no_space_4 | miseryinjecttotalanchor |  
+| bip_39_word_no_space_5 | miseryinjecttotalanchorstumble |  
+| bip_39_word_no_space_6 | miseryinjecttotalanchorstumblewait |  
+| bip_39_word_no_space_7 | miseryinjecttotalanchorstumblewaitmixture |  
+| bip_39_word_no_space_8 | miseryinjecttotalanchorstumblewaitmixturedonkey |  
+| bip_39_word_no_space_9 | miseryinjecttotalanchorstumblewaitmixturedonkeyluggage |  
 | bip_39_word_space_0 | ['misery', 'inject', 'total', 'anchor', 'stumble', 'wait', 'mixture', 'donkey', 'luggage', 'holiday', 'cattle', 'again'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery inject total anchor stumble wait mixture donkey luggage holiday |  

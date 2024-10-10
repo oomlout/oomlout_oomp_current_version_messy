@@ -122,6 +122,18 @@ logic
 gas
 abuse
 august |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | niceinquirydropnotablesharelogicgasabuseaugustchapter |  
+| bip_39_word_no_space_11 | niceinquirydropnotablesharelogicgasabuseaugustchaptertopic |  
+| bip_39_word_no_space_12 | niceinquirydropnotablesharelogicgasabuseaugustchaptertopicalmost |  
+| bip_39_word_no_space_2 | niceinquiry |  
+| bip_39_word_no_space_3 | niceinquirydrop |  
+| bip_39_word_no_space_4 | niceinquirydropnotable |  
+| bip_39_word_no_space_5 | niceinquirydropnotableshare |  
+| bip_39_word_no_space_6 | niceinquirydropnotablesharelogic |  
+| bip_39_word_no_space_7 | niceinquirydropnotablesharelogicgas |  
+| bip_39_word_no_space_8 | niceinquirydropnotablesharelogicgasabuse |  
+| bip_39_word_no_space_9 | niceinquirydropnotablesharelogicgasabuseaugust |  
 | bip_39_word_space_0 | ['nice', 'inquiry', 'drop', 'notable', 'share', 'logic', 'gas', 'abuse', 'august', 'chapter', 'topic', 'almost'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice inquiry drop notable share logic gas abuse august chapter |  

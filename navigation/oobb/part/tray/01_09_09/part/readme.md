@@ -122,6 +122,18 @@ harbor
 mobile
 hazard
 traffic |  
+| bip_39_word_no_space_1 | snow |  
+| bip_39_word_no_space_10 | snowvotemerryskichimneyharbormobilehazardtrafficgame |  
+| bip_39_word_no_space_11 | snowvotemerryskichimneyharbormobilehazardtrafficgameversion |  
+| bip_39_word_no_space_12 | snowvotemerryskichimneyharbormobilehazardtrafficgameversionauction |  
+| bip_39_word_no_space_2 | snowvote |  
+| bip_39_word_no_space_3 | snowvotemerry |  
+| bip_39_word_no_space_4 | snowvotemerryski |  
+| bip_39_word_no_space_5 | snowvotemerryskichimney |  
+| bip_39_word_no_space_6 | snowvotemerryskichimneyharbor |  
+| bip_39_word_no_space_7 | snowvotemerryskichimneyharbormobile |  
+| bip_39_word_no_space_8 | snowvotemerryskichimneyharbormobilehazard |  
+| bip_39_word_no_space_9 | snowvotemerryskichimneyharbormobilehazardtraffic |  
 | bip_39_word_space_0 | ['snow', 'vote', 'merry', 'ski', 'chimney', 'harbor', 'mobile', 'hazard', 'traffic', 'game', 'version', 'auction'] |  
 | bip_39_word_space_1 | snow |  
 | bip_39_word_space_10 | snow vote merry ski chimney harbor mobile hazard traffic game |  

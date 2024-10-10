@@ -122,6 +122,18 @@ only
 nurse
 spoil
 coral |  
+| bip_39_word_no_space_1 | rate |  
+| bip_39_word_no_space_10 | ratefuntextroseunableonlynursespoilcoralalert |  
+| bip_39_word_no_space_11 | ratefuntextroseunableonlynursespoilcoralalertsimple |  
+| bip_39_word_no_space_12 | ratefuntextroseunableonlynursespoilcoralalertsimpleankle |  
+| bip_39_word_no_space_2 | ratefun |  
+| bip_39_word_no_space_3 | ratefuntext |  
+| bip_39_word_no_space_4 | ratefuntextrose |  
+| bip_39_word_no_space_5 | ratefuntextroseunable |  
+| bip_39_word_no_space_6 | ratefuntextroseunableonly |  
+| bip_39_word_no_space_7 | ratefuntextroseunableonlynurse |  
+| bip_39_word_no_space_8 | ratefuntextroseunableonlynursespoil |  
+| bip_39_word_no_space_9 | ratefuntextroseunableonlynursespoilcoral |  
 | bip_39_word_space_0 | ['rate', 'fun', 'text', 'rose', 'unable', 'only', 'nurse', 'spoil', 'coral', 'alert', 'simple', 'ankle'] |  
 | bip_39_word_space_1 | rate |  
 | bip_39_word_space_10 | rate fun text rose unable only nurse spoil coral alert |  

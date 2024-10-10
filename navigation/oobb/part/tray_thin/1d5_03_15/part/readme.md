@@ -122,6 +122,18 @@ unfold
 opera
 claim
 barrel |  
+| bip_39_word_no_space_1 | door |  
+| bip_39_word_no_space_10 | doorbehindsilverbonescorpionunfoldoperaclaimbarrelinflict |  
+| bip_39_word_no_space_11 | doorbehindsilverbonescorpionunfoldoperaclaimbarrelinflictenvelope |  
+| bip_39_word_no_space_12 | doorbehindsilverbonescorpionunfoldoperaclaimbarrelinflictenvelopeartwork |  
+| bip_39_word_no_space_2 | doorbehind |  
+| bip_39_word_no_space_3 | doorbehindsilver |  
+| bip_39_word_no_space_4 | doorbehindsilverbone |  
+| bip_39_word_no_space_5 | doorbehindsilverbonescorpion |  
+| bip_39_word_no_space_6 | doorbehindsilverbonescorpionunfold |  
+| bip_39_word_no_space_7 | doorbehindsilverbonescorpionunfoldopera |  
+| bip_39_word_no_space_8 | doorbehindsilverbonescorpionunfoldoperaclaim |  
+| bip_39_word_no_space_9 | doorbehindsilverbonescorpionunfoldoperaclaimbarrel |  
 | bip_39_word_space_0 | ['door', 'behind', 'silver', 'bone', 'scorpion', 'unfold', 'opera', 'claim', 'barrel', 'inflict', 'envelope', 'artwork'] |  
 | bip_39_word_space_1 | door |  
 | bip_39_word_space_10 | door behind silver bone scorpion unfold opera claim barrel inflict |  

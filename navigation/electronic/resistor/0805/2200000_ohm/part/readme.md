@@ -122,6 +122,18 @@ fire
 first
 glow
 kiwi |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attackdeerglidebriskknifefirefirstglowkiwiroom |  
+| bip_39_word_no_space_11 | attackdeerglidebriskknifefirefirstglowkiwiroomtired |  
+| bip_39_word_no_space_12 | attackdeerglidebriskknifefirefirstglowkiwiroomtiredathlete |  
+| bip_39_word_no_space_2 | attackdeer |  
+| bip_39_word_no_space_3 | attackdeerglide |  
+| bip_39_word_no_space_4 | attackdeerglidebrisk |  
+| bip_39_word_no_space_5 | attackdeerglidebriskknife |  
+| bip_39_word_no_space_6 | attackdeerglidebriskknifefire |  
+| bip_39_word_no_space_7 | attackdeerglidebriskknifefirefirst |  
+| bip_39_word_no_space_8 | attackdeerglidebriskknifefirefirstglow |  
+| bip_39_word_no_space_9 | attackdeerglidebriskknifefirefirstglowkiwi |  
 | bip_39_word_space_0 | ['attack', 'deer', 'glide', 'brisk', 'knife', 'fire', 'first', 'glow', 'kiwi', 'room', 'tired', 'athlete'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack deer glide brisk knife fire first glow kiwi room |  

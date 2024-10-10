@@ -122,6 +122,18 @@ still
 goose
 celery
 quit |  
+| bip_39_word_no_space_1 | balcony |  
+| bip_39_word_no_space_10 | balconyignoreskimulesolutionstillgooseceleryquithurdle |  
+| bip_39_word_no_space_11 | balconyignoreskimulesolutionstillgooseceleryquithurdlespoil |  
+| bip_39_word_no_space_12 | balconyignoreskimulesolutionstillgooseceleryquithurdlespoilairport |  
+| bip_39_word_no_space_2 | balconyignore |  
+| bip_39_word_no_space_3 | balconyignoreski |  
+| bip_39_word_no_space_4 | balconyignoreskimule |  
+| bip_39_word_no_space_5 | balconyignoreskimulesolution |  
+| bip_39_word_no_space_6 | balconyignoreskimulesolutionstill |  
+| bip_39_word_no_space_7 | balconyignoreskimulesolutionstillgoose |  
+| bip_39_word_no_space_8 | balconyignoreskimulesolutionstillgoosecelery |  
+| bip_39_word_no_space_9 | balconyignoreskimulesolutionstillgooseceleryquit |  
 | bip_39_word_space_0 | ['balcony', 'ignore', 'ski', 'mule', 'solution', 'still', 'goose', 'celery', 'quit', 'hurdle', 'spoil', 'airport'] |  
 | bip_39_word_space_1 | balcony |  
 | bip_39_word_space_10 | balcony ignore ski mule solution still goose celery quit hurdle |  

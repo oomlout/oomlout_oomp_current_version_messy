@@ -122,6 +122,18 @@ top
 despair
 sock
 cry |  
+| bip_39_word_no_space_1 | fabric |  
+| bip_39_word_no_space_10 | fabricshiftsimplemagnetnotetopdespairsockcrywink |  
+| bip_39_word_no_space_11 | fabricshiftsimplemagnetnotetopdespairsockcrywinkdoll |  
+| bip_39_word_no_space_12 | fabricshiftsimplemagnetnotetopdespairsockcrywinkdollapart |  
+| bip_39_word_no_space_2 | fabricshift |  
+| bip_39_word_no_space_3 | fabricshiftsimple |  
+| bip_39_word_no_space_4 | fabricshiftsimplemagnet |  
+| bip_39_word_no_space_5 | fabricshiftsimplemagnetnote |  
+| bip_39_word_no_space_6 | fabricshiftsimplemagnetnotetop |  
+| bip_39_word_no_space_7 | fabricshiftsimplemagnetnotetopdespair |  
+| bip_39_word_no_space_8 | fabricshiftsimplemagnetnotetopdespairsock |  
+| bip_39_word_no_space_9 | fabricshiftsimplemagnetnotetopdespairsockcry |  
 | bip_39_word_space_0 | ['fabric', 'shift', 'simple', 'magnet', 'note', 'top', 'despair', 'sock', 'cry', 'wink', 'doll', 'apart'] |  
 | bip_39_word_space_1 | fabric |  
 | bip_39_word_space_10 | fabric shift simple magnet note top despair sock cry wink |  

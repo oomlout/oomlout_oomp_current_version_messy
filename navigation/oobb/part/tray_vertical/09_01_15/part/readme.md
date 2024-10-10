@@ -122,6 +122,18 @@ spoon
 give
 loyal
 surround |  
+| bip_39_word_no_space_1 | park |  
+| bip_39_word_no_space_10 | parkvisitvillagedisagreeplacespoongiveloyalsurroundmaximum |  
+| bip_39_word_no_space_11 | parkvisitvillagedisagreeplacespoongiveloyalsurroundmaximumflip |  
+| bip_39_word_no_space_12 | parkvisitvillagedisagreeplacespoongiveloyalsurroundmaximumflipannual |  
+| bip_39_word_no_space_2 | parkvisit |  
+| bip_39_word_no_space_3 | parkvisitvillage |  
+| bip_39_word_no_space_4 | parkvisitvillagedisagree |  
+| bip_39_word_no_space_5 | parkvisitvillagedisagreeplace |  
+| bip_39_word_no_space_6 | parkvisitvillagedisagreeplacespoon |  
+| bip_39_word_no_space_7 | parkvisitvillagedisagreeplacespoongive |  
+| bip_39_word_no_space_8 | parkvisitvillagedisagreeplacespoongiveloyal |  
+| bip_39_word_no_space_9 | parkvisitvillagedisagreeplacespoongiveloyalsurround |  
 | bip_39_word_space_0 | ['park', 'visit', 'village', 'disagree', 'place', 'spoon', 'give', 'loyal', 'surround', 'maximum', 'flip', 'annual'] |  
 | bip_39_word_space_1 | park |  
 | bip_39_word_space_10 | park visit village disagree place spoon give loyal surround maximum |  

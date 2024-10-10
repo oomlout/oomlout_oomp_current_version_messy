@@ -122,6 +122,18 @@ skull
 joke
 unique
 eagle |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legdebateillnesstagstruggleskulljokeuniqueeagleassume |  
+| bip_39_word_no_space_11 | legdebateillnesstagstruggleskulljokeuniqueeagleassumeillness |  
+| bip_39_word_no_space_12 | legdebateillnesstagstruggleskulljokeuniqueeagleassumeillnessacquire |  
+| bip_39_word_no_space_2 | legdebate |  
+| bip_39_word_no_space_3 | legdebateillness |  
+| bip_39_word_no_space_4 | legdebateillnesstag |  
+| bip_39_word_no_space_5 | legdebateillnesstagstruggle |  
+| bip_39_word_no_space_6 | legdebateillnesstagstruggleskull |  
+| bip_39_word_no_space_7 | legdebateillnesstagstruggleskulljoke |  
+| bip_39_word_no_space_8 | legdebateillnesstagstruggleskulljokeunique |  
+| bip_39_word_no_space_9 | legdebateillnesstagstruggleskulljokeuniqueeagle |  
 | bip_39_word_space_0 | ['leg', 'debate', 'illness', 'tag', 'struggle', 'skull', 'joke', 'unique', 'eagle', 'assume', 'illness', 'acquire'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg debate illness tag struggle skull joke unique eagle assume |  

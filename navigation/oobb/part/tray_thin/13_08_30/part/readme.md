@@ -122,6 +122,18 @@ room
 evolve
 body
 axis |  
+| bip_39_word_no_space_1 | twice |  
+| bip_39_word_no_space_10 | twicetrashovalorbitscissorsroomevolvebodyaxishour |  
+| bip_39_word_no_space_11 | twicetrashovalorbitscissorsroomevolvebodyaxishourcost |  
+| bip_39_word_no_space_12 | twicetrashovalorbitscissorsroomevolvebodyaxishourcostalley |  
+| bip_39_word_no_space_2 | twicetrash |  
+| bip_39_word_no_space_3 | twicetrashoval |  
+| bip_39_word_no_space_4 | twicetrashovalorbit |  
+| bip_39_word_no_space_5 | twicetrashovalorbitscissors |  
+| bip_39_word_no_space_6 | twicetrashovalorbitscissorsroom |  
+| bip_39_word_no_space_7 | twicetrashovalorbitscissorsroomevolve |  
+| bip_39_word_no_space_8 | twicetrashovalorbitscissorsroomevolvebody |  
+| bip_39_word_no_space_9 | twicetrashovalorbitscissorsroomevolvebodyaxis |  
 | bip_39_word_space_0 | ['twice', 'trash', 'oval', 'orbit', 'scissors', 'room', 'evolve', 'body', 'axis', 'hour', 'cost', 'alley'] |  
 | bip_39_word_space_1 | twice |  
 | bip_39_word_space_10 | twice trash oval orbit scissors room evolve body axis hour |  

@@ -122,6 +122,18 @@ neck
 assume
 junk
 program |  
+| bip_39_word_no_space_1 | urge |  
+| bip_39_word_no_space_10 | urgezonetwicegaugeminimumneckassumejunkprogramdirect |  
+| bip_39_word_no_space_11 | urgezonetwicegaugeminimumneckassumejunkprogramdirecthoney |  
+| bip_39_word_no_space_12 | urgezonetwicegaugeminimumneckassumejunkprogramdirecthoneyarena |  
+| bip_39_word_no_space_2 | urgezone |  
+| bip_39_word_no_space_3 | urgezonetwice |  
+| bip_39_word_no_space_4 | urgezonetwicegauge |  
+| bip_39_word_no_space_5 | urgezonetwicegaugeminimum |  
+| bip_39_word_no_space_6 | urgezonetwicegaugeminimumneck |  
+| bip_39_word_no_space_7 | urgezonetwicegaugeminimumneckassume |  
+| bip_39_word_no_space_8 | urgezonetwicegaugeminimumneckassumejunk |  
+| bip_39_word_no_space_9 | urgezonetwicegaugeminimumneckassumejunkprogram |  
 | bip_39_word_space_0 | ['urge', 'zone', 'twice', 'gauge', 'minimum', 'neck', 'assume', 'junk', 'program', 'direct', 'honey', 'arena'] |  
 | bip_39_word_space_1 | urge |  
 | bip_39_word_space_10 | urge zone twice gauge minimum neck assume junk program direct |  

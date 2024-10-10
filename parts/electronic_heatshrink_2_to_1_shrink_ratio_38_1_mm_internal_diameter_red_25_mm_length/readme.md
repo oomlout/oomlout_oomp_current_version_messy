@@ -122,6 +122,18 @@ champion
 laundry
 dune
 subway |  
+| bip_39_word_no_space_1 | cloth |  
+| bip_39_word_no_space_10 | clothtunnellionplasticpenchampionlaundrydunesubwaydegree |  
+| bip_39_word_no_space_11 | clothtunnellionplasticpenchampionlaundrydunesubwaydegreekid |  
+| bip_39_word_no_space_12 | clothtunnellionplasticpenchampionlaundrydunesubwaydegreekidamong |  
+| bip_39_word_no_space_2 | clothtunnel |  
+| bip_39_word_no_space_3 | clothtunnellion |  
+| bip_39_word_no_space_4 | clothtunnellionplastic |  
+| bip_39_word_no_space_5 | clothtunnellionplasticpen |  
+| bip_39_word_no_space_6 | clothtunnellionplasticpenchampion |  
+| bip_39_word_no_space_7 | clothtunnellionplasticpenchampionlaundry |  
+| bip_39_word_no_space_8 | clothtunnellionplasticpenchampionlaundrydune |  
+| bip_39_word_no_space_9 | clothtunnellionplasticpenchampionlaundrydunesubway |  
 | bip_39_word_space_0 | ['cloth', 'tunnel', 'lion', 'plastic', 'pen', 'champion', 'laundry', 'dune', 'subway', 'degree', 'kid', 'among'] |  
 | bip_39_word_space_1 | cloth |  
 | bip_39_word_space_10 | cloth tunnel lion plastic pen champion laundry dune subway degree |  

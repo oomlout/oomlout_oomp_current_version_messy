@@ -122,6 +122,18 @@ cancel
 capable
 phrase
 news |  
+| bip_39_word_no_space_1 | chest |  
+| bip_39_word_no_space_10 | cheststuffdebatevaporanglecancelcapablephrasenewsordinary |  
+| bip_39_word_no_space_11 | cheststuffdebatevaporanglecancelcapablephrasenewsordinarythank |  
+| bip_39_word_no_space_12 | cheststuffdebatevaporanglecancelcapablephrasenewsordinarythankaugust |  
+| bip_39_word_no_space_2 | cheststuff |  
+| bip_39_word_no_space_3 | cheststuffdebate |  
+| bip_39_word_no_space_4 | cheststuffdebatevapor |  
+| bip_39_word_no_space_5 | cheststuffdebatevaporangle |  
+| bip_39_word_no_space_6 | cheststuffdebatevaporanglecancel |  
+| bip_39_word_no_space_7 | cheststuffdebatevaporanglecancelcapable |  
+| bip_39_word_no_space_8 | cheststuffdebatevaporanglecancelcapablephrase |  
+| bip_39_word_no_space_9 | cheststuffdebatevaporanglecancelcapablephrasenews |  
 | bip_39_word_space_0 | ['chest', 'stuff', 'debate', 'vapor', 'angle', 'cancel', 'capable', 'phrase', 'news', 'ordinary', 'thank', 'august'] |  
 | bip_39_word_space_1 | chest |  
 | bip_39_word_space_10 | chest stuff debate vapor angle cancel capable phrase news ordinary |  

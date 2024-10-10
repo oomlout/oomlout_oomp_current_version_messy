@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ethics
   fitness
 
   vital'
+bip_39_word_no_space_1: ethics
+bip_39_word_no_space_10: ethicsillcubepostleafbeyondcountryfitnessvitalready
+bip_39_word_no_space_11: ethicsillcubepostleafbeyondcountryfitnessvitalreadytruly
+bip_39_word_no_space_12: ethicsillcubepostleafbeyondcountryfitnessvitalreadytrulyagain
+bip_39_word_no_space_2: ethicsill
+bip_39_word_no_space_3: ethicsillcube
+bip_39_word_no_space_4: ethicsillcubepost
+bip_39_word_no_space_5: ethicsillcubepostleaf
+bip_39_word_no_space_6: ethicsillcubepostleafbeyond
+bip_39_word_no_space_7: ethicsillcubepostleafbeyondcountry
+bip_39_word_no_space_8: ethicsillcubepostleafbeyondcountryfitness
+bip_39_word_no_space_9: ethicsillcubepostleafbeyondcountryfitnessvital
 bip_39_word_space_0:
 - ethics
 - ill

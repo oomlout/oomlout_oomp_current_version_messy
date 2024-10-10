@@ -122,6 +122,18 @@ toddler
 bottom
 cycle
 crumble |  
+| bip_39_word_no_space_1 | depart |  
+| bip_39_word_no_space_10 | departghostvelvethawkpulptoddlerbottomcyclecrumblevoice |  
+| bip_39_word_no_space_11 | departghostvelvethawkpulptoddlerbottomcyclecrumblevoiceslim |  
+| bip_39_word_no_space_12 | departghostvelvethawkpulptoddlerbottomcyclecrumblevoiceslimanalyst |  
+| bip_39_word_no_space_2 | departghost |  
+| bip_39_word_no_space_3 | departghostvelvet |  
+| bip_39_word_no_space_4 | departghostvelvethawk |  
+| bip_39_word_no_space_5 | departghostvelvethawkpulp |  
+| bip_39_word_no_space_6 | departghostvelvethawkpulptoddler |  
+| bip_39_word_no_space_7 | departghostvelvethawkpulptoddlerbottom |  
+| bip_39_word_no_space_8 | departghostvelvethawkpulptoddlerbottomcycle |  
+| bip_39_word_no_space_9 | departghostvelvethawkpulptoddlerbottomcyclecrumble |  
 | bip_39_word_space_0 | ['depart', 'ghost', 'velvet', 'hawk', 'pulp', 'toddler', 'bottom', 'cycle', 'crumble', 'voice', 'slim', 'analyst'] |  
 | bip_39_word_space_1 | depart |  
 | bip_39_word_space_10 | depart ghost velvet hawk pulp toddler bottom cycle crumble voice |  

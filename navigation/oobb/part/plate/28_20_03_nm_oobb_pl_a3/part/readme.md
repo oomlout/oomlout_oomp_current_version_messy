@@ -122,6 +122,18 @@ finish
 arctic
 joke
 spawn |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultscalepopularpistoldecadefinisharcticjokespawnabuse |  
+| bip_39_word_no_space_11 | resultscalepopularpistoldecadefinisharcticjokespawnabusevoice |  
+| bip_39_word_no_space_12 | resultscalepopularpistoldecadefinisharcticjokespawnabusevoicealcohol |  
+| bip_39_word_no_space_2 | resultscale |  
+| bip_39_word_no_space_3 | resultscalepopular |  
+| bip_39_word_no_space_4 | resultscalepopularpistol |  
+| bip_39_word_no_space_5 | resultscalepopularpistoldecade |  
+| bip_39_word_no_space_6 | resultscalepopularpistoldecadefinish |  
+| bip_39_word_no_space_7 | resultscalepopularpistoldecadefinisharctic |  
+| bip_39_word_no_space_8 | resultscalepopularpistoldecadefinisharcticjoke |  
+| bip_39_word_no_space_9 | resultscalepopularpistoldecadefinisharcticjokespawn |  
 | bip_39_word_space_0 | ['result', 'scale', 'popular', 'pistol', 'decade', 'finish', 'arctic', 'joke', 'spawn', 'abuse', 'voice', 'alcohol'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result scale popular pistol decade finish arctic joke spawn abuse |  

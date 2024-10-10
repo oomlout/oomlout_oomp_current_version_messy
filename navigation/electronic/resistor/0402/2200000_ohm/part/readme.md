@@ -122,6 +122,18 @@ outdoor
 close
 crystal
 road |  
+| bip_39_word_no_space_1 | question |  
+| bip_39_word_no_space_10 | questionpitchforkmagnetabuseoutdoorclosecrystalroadoctober |  
+| bip_39_word_no_space_11 | questionpitchforkmagnetabuseoutdoorclosecrystalroadoctoberorphan |  
+| bip_39_word_no_space_12 | questionpitchforkmagnetabuseoutdoorclosecrystalroadoctoberorphanalpha |  
+| bip_39_word_no_space_2 | questionpitch |  
+| bip_39_word_no_space_3 | questionpitchfork |  
+| bip_39_word_no_space_4 | questionpitchforkmagnet |  
+| bip_39_word_no_space_5 | questionpitchforkmagnetabuse |  
+| bip_39_word_no_space_6 | questionpitchforkmagnetabuseoutdoor |  
+| bip_39_word_no_space_7 | questionpitchforkmagnetabuseoutdoorclose |  
+| bip_39_word_no_space_8 | questionpitchforkmagnetabuseoutdoorclosecrystal |  
+| bip_39_word_no_space_9 | questionpitchforkmagnetabuseoutdoorclosecrystalroad |  
 | bip_39_word_space_0 | ['question', 'pitch', 'fork', 'magnet', 'abuse', 'outdoor', 'close', 'crystal', 'road', 'october', 'orphan', 'alpha'] |  
 | bip_39_word_space_1 | question |  
 | bip_39_word_space_10 | question pitch fork magnet abuse outdoor close crystal road october |  

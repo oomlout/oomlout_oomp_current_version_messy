@@ -122,6 +122,18 @@ buyer
 alley
 lemon
 chief |  
+| bip_39_word_no_space_1 | van |  
+| bip_39_word_no_space_10 | vandicenothingdesignroadbuyeralleylemonchiefamazing |  
+| bip_39_word_no_space_11 | vandicenothingdesignroadbuyeralleylemonchiefamazingsuch |  
+| bip_39_word_no_space_12 | vandicenothingdesignroadbuyeralleylemonchiefamazingsuchalter |  
+| bip_39_word_no_space_2 | vandice |  
+| bip_39_word_no_space_3 | vandicenothing |  
+| bip_39_word_no_space_4 | vandicenothingdesign |  
+| bip_39_word_no_space_5 | vandicenothingdesignroad |  
+| bip_39_word_no_space_6 | vandicenothingdesignroadbuyer |  
+| bip_39_word_no_space_7 | vandicenothingdesignroadbuyeralley |  
+| bip_39_word_no_space_8 | vandicenothingdesignroadbuyeralleylemon |  
+| bip_39_word_no_space_9 | vandicenothingdesignroadbuyeralleylemonchief |  
 | bip_39_word_space_0 | ['van', 'dice', 'nothing', 'design', 'road', 'buyer', 'alley', 'lemon', 'chief', 'amazing', 'such', 'alter'] |  
 | bip_39_word_space_1 | van |  
 | bip_39_word_space_10 | van dice nothing design road buyer alley lemon chief amazing |  

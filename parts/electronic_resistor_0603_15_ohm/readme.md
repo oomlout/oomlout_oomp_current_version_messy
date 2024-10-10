@@ -122,6 +122,18 @@ pepper
 adult
 swim
 wheat |  
+| bip_39_word_no_space_1 | eternal |  
+| bip_39_word_no_space_10 | eternalincludespiritwreckprimarypepperadultswimwheatill |  
+| bip_39_word_no_space_11 | eternalincludespiritwreckprimarypepperadultswimwheatillpossible |  
+| bip_39_word_no_space_12 | eternalincludespiritwreckprimarypepperadultswimwheatillpossibleable |  
+| bip_39_word_no_space_2 | eternalinclude |  
+| bip_39_word_no_space_3 | eternalincludespirit |  
+| bip_39_word_no_space_4 | eternalincludespiritwreck |  
+| bip_39_word_no_space_5 | eternalincludespiritwreckprimary |  
+| bip_39_word_no_space_6 | eternalincludespiritwreckprimarypepper |  
+| bip_39_word_no_space_7 | eternalincludespiritwreckprimarypepperadult |  
+| bip_39_word_no_space_8 | eternalincludespiritwreckprimarypepperadultswim |  
+| bip_39_word_no_space_9 | eternalincludespiritwreckprimarypepperadultswimwheat |  
 | bip_39_word_space_0 | ['eternal', 'include', 'spirit', 'wreck', 'primary', 'pepper', 'adult', 'swim', 'wheat', 'ill', 'possible', 'able'] |  
 | bip_39_word_space_1 | eternal |  
 | bip_39_word_space_10 | eternal include spirit wreck primary pepper adult swim wheat ill |  

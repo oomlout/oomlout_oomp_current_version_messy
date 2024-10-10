@@ -122,6 +122,18 @@ piano
 library
 drink
 corn |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistolcropepisodeofferthrivepianolibrarydrinkcornfile |  
+| bip_39_word_no_space_11 | pistolcropepisodeofferthrivepianolibrarydrinkcornfilecruel |  
+| bip_39_word_no_space_12 | pistolcropepisodeofferthrivepianolibrarydrinkcornfilecruelapple |  
+| bip_39_word_no_space_2 | pistolcrop |  
+| bip_39_word_no_space_3 | pistolcropepisode |  
+| bip_39_word_no_space_4 | pistolcropepisodeoffer |  
+| bip_39_word_no_space_5 | pistolcropepisodeofferthrive |  
+| bip_39_word_no_space_6 | pistolcropepisodeofferthrivepiano |  
+| bip_39_word_no_space_7 | pistolcropepisodeofferthrivepianolibrary |  
+| bip_39_word_no_space_8 | pistolcropepisodeofferthrivepianolibrarydrink |  
+| bip_39_word_no_space_9 | pistolcropepisodeofferthrivepianolibrarydrinkcorn |  
 | bip_39_word_space_0 | ['pistol', 'crop', 'episode', 'offer', 'thrive', 'piano', 'library', 'drink', 'corn', 'file', 'cruel', 'apple'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol crop episode offer thrive piano library drink corn file |  

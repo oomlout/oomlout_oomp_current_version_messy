@@ -122,6 +122,18 @@ bargain
 rubber
 dawn
 judge |  
+| bip_39_word_no_space_1 | lucky |  
+| bip_39_word_no_space_10 | luckyindicatewonderversionbarelybargainrubberdawnjudgenorth |  
+| bip_39_word_no_space_11 | luckyindicatewonderversionbarelybargainrubberdawnjudgenorthmule |  
+| bip_39_word_no_space_12 | luckyindicatewonderversionbarelybargainrubberdawnjudgenorthmuleattend |  
+| bip_39_word_no_space_2 | luckyindicate |  
+| bip_39_word_no_space_3 | luckyindicatewonder |  
+| bip_39_word_no_space_4 | luckyindicatewonderversion |  
+| bip_39_word_no_space_5 | luckyindicatewonderversionbarely |  
+| bip_39_word_no_space_6 | luckyindicatewonderversionbarelybargain |  
+| bip_39_word_no_space_7 | luckyindicatewonderversionbarelybargainrubber |  
+| bip_39_word_no_space_8 | luckyindicatewonderversionbarelybargainrubberdawn |  
+| bip_39_word_no_space_9 | luckyindicatewonderversionbarelybargainrubberdawnjudge |  
 | bip_39_word_space_0 | ['lucky', 'indicate', 'wonder', 'version', 'barely', 'bargain', 'rubber', 'dawn', 'judge', 'north', 'mule', 'attend'] |  
 | bip_39_word_space_1 | lucky |  
 | bip_39_word_space_10 | lucky indicate wonder version barely bargain rubber dawn judge north |  

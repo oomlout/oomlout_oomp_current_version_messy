@@ -122,6 +122,18 @@ bitter
 cup
 inflict
 occur |  
+| bip_39_word_no_space_1 | chest |  
+| bip_39_word_no_space_10 | chestelementtragicrejectfeebittercupinflictoccursail |  
+| bip_39_word_no_space_11 | chestelementtragicrejectfeebittercupinflictoccursailcross |  
+| bip_39_word_no_space_12 | chestelementtragicrejectfeebittercupinflictoccursailcrossauction |  
+| bip_39_word_no_space_2 | chestelement |  
+| bip_39_word_no_space_3 | chestelementtragic |  
+| bip_39_word_no_space_4 | chestelementtragicreject |  
+| bip_39_word_no_space_5 | chestelementtragicrejectfee |  
+| bip_39_word_no_space_6 | chestelementtragicrejectfeebitter |  
+| bip_39_word_no_space_7 | chestelementtragicrejectfeebittercup |  
+| bip_39_word_no_space_8 | chestelementtragicrejectfeebittercupinflict |  
+| bip_39_word_no_space_9 | chestelementtragicrejectfeebittercupinflictoccur |  
 | bip_39_word_space_0 | ['chest', 'element', 'tragic', 'reject', 'fee', 'bitter', 'cup', 'inflict', 'occur', 'sail', 'cross', 'auction'] |  
 | bip_39_word_space_1 | chest |  
 | bip_39_word_space_10 | chest element tragic reject fee bitter cup inflict occur sail |  

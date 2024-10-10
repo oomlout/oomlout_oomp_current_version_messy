@@ -122,6 +122,18 @@ area
 glow
 chaos
 flush |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalloadverifyhornechoareaglowchaosflushsyrup |  
+| bip_39_word_no_space_11 | federalloadverifyhornechoareaglowchaosflushsyrupgrain |  
+| bip_39_word_no_space_12 | federalloadverifyhornechoareaglowchaosflushsyrupgrainannual |  
+| bip_39_word_no_space_2 | federalload |  
+| bip_39_word_no_space_3 | federalloadverify |  
+| bip_39_word_no_space_4 | federalloadverifyhorn |  
+| bip_39_word_no_space_5 | federalloadverifyhornecho |  
+| bip_39_word_no_space_6 | federalloadverifyhornechoarea |  
+| bip_39_word_no_space_7 | federalloadverifyhornechoareaglow |  
+| bip_39_word_no_space_8 | federalloadverifyhornechoareaglowchaos |  
+| bip_39_word_no_space_9 | federalloadverifyhornechoareaglowchaosflush |  
 | bip_39_word_space_0 | ['federal', 'load', 'verify', 'horn', 'echo', 'area', 'glow', 'chaos', 'flush', 'syrup', 'grain', 'annual'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal load verify horn echo area glow chaos flush syrup |  

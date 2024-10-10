@@ -122,6 +122,18 @@ blade
 dragon
 paddle
 decide |  
+| bip_39_word_no_space_1 | voice |  
+| bip_39_word_no_space_10 | voiceerrorpoolfacultyinheritbladedragonpaddledecidesport |  
+| bip_39_word_no_space_11 | voiceerrorpoolfacultyinheritbladedragonpaddledecidesportunder |  
+| bip_39_word_no_space_12 | voiceerrorpoolfacultyinheritbladedragonpaddledecidesportunderalien |  
+| bip_39_word_no_space_2 | voiceerror |  
+| bip_39_word_no_space_3 | voiceerrorpool |  
+| bip_39_word_no_space_4 | voiceerrorpoolfaculty |  
+| bip_39_word_no_space_5 | voiceerrorpoolfacultyinherit |  
+| bip_39_word_no_space_6 | voiceerrorpoolfacultyinheritblade |  
+| bip_39_word_no_space_7 | voiceerrorpoolfacultyinheritbladedragon |  
+| bip_39_word_no_space_8 | voiceerrorpoolfacultyinheritbladedragonpaddle |  
+| bip_39_word_no_space_9 | voiceerrorpoolfacultyinheritbladedragonpaddledecide |  
 | bip_39_word_space_0 | ['voice', 'error', 'pool', 'faculty', 'inherit', 'blade', 'dragon', 'paddle', 'decide', 'sport', 'under', 'alien'] |  
 | bip_39_word_space_1 | voice |  
 | bip_39_word_space_10 | voice error pool faculty inherit blade dragon paddle decide sport |  

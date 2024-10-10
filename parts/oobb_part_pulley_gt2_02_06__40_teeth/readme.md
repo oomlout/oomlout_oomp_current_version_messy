@@ -122,6 +122,18 @@ cannon
 mix
 flee
 annual |  
+| bip_39_word_no_space_1 | produce |  
+| bip_39_word_no_space_10 | producecloudoffrunwaykitcannonmixfleeannualpublic |  
+| bip_39_word_no_space_11 | producecloudoffrunwaykitcannonmixfleeannualpublicreplace |  
+| bip_39_word_no_space_12 | producecloudoffrunwaykitcannonmixfleeannualpublicreplaceasset |  
+| bip_39_word_no_space_2 | producecloud |  
+| bip_39_word_no_space_3 | producecloudoff |  
+| bip_39_word_no_space_4 | producecloudoffrunway |  
+| bip_39_word_no_space_5 | producecloudoffrunwaykit |  
+| bip_39_word_no_space_6 | producecloudoffrunwaykitcannon |  
+| bip_39_word_no_space_7 | producecloudoffrunwaykitcannonmix |  
+| bip_39_word_no_space_8 | producecloudoffrunwaykitcannonmixflee |  
+| bip_39_word_no_space_9 | producecloudoffrunwaykitcannonmixfleeannual |  
 | bip_39_word_space_0 | ['produce', 'cloud', 'off', 'runway', 'kit', 'cannon', 'mix', 'flee', 'annual', 'public', 'replace', 'asset'] |  
 | bip_39_word_space_1 | produce |  
 | bip_39_word_space_10 | produce cloud off runway kit cannon mix flee annual public |  

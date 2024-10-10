@@ -122,6 +122,18 @@ hood
 screen
 boy
 deputy |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltcontrolslicehalfurgehoodscreenboydeputygrain |  
+| bip_39_word_no_space_11 | beltcontrolslicehalfurgehoodscreenboydeputygrainaisle |  
+| bip_39_word_no_space_12 | beltcontrolslicehalfurgehoodscreenboydeputygrainaisleagain |  
+| bip_39_word_no_space_2 | beltcontrol |  
+| bip_39_word_no_space_3 | beltcontrolslice |  
+| bip_39_word_no_space_4 | beltcontrolslicehalf |  
+| bip_39_word_no_space_5 | beltcontrolslicehalfurge |  
+| bip_39_word_no_space_6 | beltcontrolslicehalfurgehood |  
+| bip_39_word_no_space_7 | beltcontrolslicehalfurgehoodscreen |  
+| bip_39_word_no_space_8 | beltcontrolslicehalfurgehoodscreenboy |  
+| bip_39_word_no_space_9 | beltcontrolslicehalfurgehoodscreenboydeputy |  
 | bip_39_word_space_0 | ['belt', 'control', 'slice', 'half', 'urge', 'hood', 'screen', 'boy', 'deputy', 'grain', 'aisle', 'again'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt control slice half urge hood screen boy deputy grain |  

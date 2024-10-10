@@ -122,6 +122,18 @@ saddle
 alien
 empty
 copper |  
+| bip_39_word_no_space_1 | kingdom |  
+| bip_39_word_no_space_10 | kingdombarreltrialurgemountainsaddlealienemptycopperhello |  
+| bip_39_word_no_space_11 | kingdombarreltrialurgemountainsaddlealienemptycopperhellotruly |  
+| bip_39_word_no_space_12 | kingdombarreltrialurgemountainsaddlealienemptycopperhellotrulyarmor |  
+| bip_39_word_no_space_2 | kingdombarrel |  
+| bip_39_word_no_space_3 | kingdombarreltrial |  
+| bip_39_word_no_space_4 | kingdombarreltrialurge |  
+| bip_39_word_no_space_5 | kingdombarreltrialurgemountain |  
+| bip_39_word_no_space_6 | kingdombarreltrialurgemountainsaddle |  
+| bip_39_word_no_space_7 | kingdombarreltrialurgemountainsaddlealien |  
+| bip_39_word_no_space_8 | kingdombarreltrialurgemountainsaddlealienempty |  
+| bip_39_word_no_space_9 | kingdombarreltrialurgemountainsaddlealienemptycopper |  
 | bip_39_word_space_0 | ['kingdom', 'barrel', 'trial', 'urge', 'mountain', 'saddle', 'alien', 'empty', 'copper', 'hello', 'truly', 'armor'] |  
 | bip_39_word_space_1 | kingdom |  
 | bip_39_word_space_10 | kingdom barrel trial urge mountain saddle alien empty copper hello |  

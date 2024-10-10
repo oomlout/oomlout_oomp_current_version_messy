@@ -122,6 +122,18 @@ video
 alert
 please
 wisdom |  
+| bip_39_word_no_space_1 | chunk |  
+| bip_39_word_no_space_10 | chunkchangefunmakeawkwardvideoalertpleasewisdomcalm |  
+| bip_39_word_no_space_11 | chunkchangefunmakeawkwardvideoalertpleasewisdomcalmenvelope |  
+| bip_39_word_no_space_12 | chunkchangefunmakeawkwardvideoalertpleasewisdomcalmenvelopealcohol |  
+| bip_39_word_no_space_2 | chunkchange |  
+| bip_39_word_no_space_3 | chunkchangefun |  
+| bip_39_word_no_space_4 | chunkchangefunmake |  
+| bip_39_word_no_space_5 | chunkchangefunmakeawkward |  
+| bip_39_word_no_space_6 | chunkchangefunmakeawkwardvideo |  
+| bip_39_word_no_space_7 | chunkchangefunmakeawkwardvideoalert |  
+| bip_39_word_no_space_8 | chunkchangefunmakeawkwardvideoalertplease |  
+| bip_39_word_no_space_9 | chunkchangefunmakeawkwardvideoalertpleasewisdom |  
 | bip_39_word_space_0 | ['chunk', 'change', 'fun', 'make', 'awkward', 'video', 'alert', 'please', 'wisdom', 'calm', 'envelope', 'alcohol'] |  
 | bip_39_word_space_1 | chunk |  
 | bip_39_word_space_10 | chunk change fun make awkward video alert please wisdom calm |  

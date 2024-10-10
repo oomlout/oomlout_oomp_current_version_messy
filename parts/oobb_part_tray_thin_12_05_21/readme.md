@@ -122,6 +122,18 @@ rival
 maze
 fancy
 jar |  
+| bip_39_word_no_space_1 | frost |  
+| bip_39_word_no_space_10 | frostjazzglovewestboilrivalmazefancyjarrandom |  
+| bip_39_word_no_space_11 | frostjazzglovewestboilrivalmazefancyjarrandomfeed |  
+| bip_39_word_no_space_12 | frostjazzglovewestboilrivalmazefancyjarrandomfeedartwork |  
+| bip_39_word_no_space_2 | frostjazz |  
+| bip_39_word_no_space_3 | frostjazzglove |  
+| bip_39_word_no_space_4 | frostjazzglovewest |  
+| bip_39_word_no_space_5 | frostjazzglovewestboil |  
+| bip_39_word_no_space_6 | frostjazzglovewestboilrival |  
+| bip_39_word_no_space_7 | frostjazzglovewestboilrivalmaze |  
+| bip_39_word_no_space_8 | frostjazzglovewestboilrivalmazefancy |  
+| bip_39_word_no_space_9 | frostjazzglovewestboilrivalmazefancyjar |  
 | bip_39_word_space_0 | ['frost', 'jazz', 'glove', 'west', 'boil', 'rival', 'maze', 'fancy', 'jar', 'random', 'feed', 'artwork'] |  
 | bip_39_word_space_1 | frost |  
 | bip_39_word_space_10 | frost jazz glove west boil rival maze fancy jar random |  

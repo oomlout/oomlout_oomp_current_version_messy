@@ -122,6 +122,18 @@ increase
 diary
 boil
 paper |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famousjumpvisitsonggiveincreasediaryboilpaperstaff |  
+| bip_39_word_no_space_11 | famousjumpvisitsonggiveincreasediaryboilpaperstafffloor |  
+| bip_39_word_no_space_12 | famousjumpvisitsonggiveincreasediaryboilpaperstafffloorapril |  
+| bip_39_word_no_space_2 | famousjump |  
+| bip_39_word_no_space_3 | famousjumpvisit |  
+| bip_39_word_no_space_4 | famousjumpvisitsong |  
+| bip_39_word_no_space_5 | famousjumpvisitsonggive |  
+| bip_39_word_no_space_6 | famousjumpvisitsonggiveincrease |  
+| bip_39_word_no_space_7 | famousjumpvisitsonggiveincreasediary |  
+| bip_39_word_no_space_8 | famousjumpvisitsonggiveincreasediaryboil |  
+| bip_39_word_no_space_9 | famousjumpvisitsonggiveincreasediaryboilpaper |  
 | bip_39_word_space_0 | ['famous', 'jump', 'visit', 'song', 'give', 'increase', 'diary', 'boil', 'paper', 'staff', 'floor', 'april'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous jump visit song give increase diary boil paper staff |  

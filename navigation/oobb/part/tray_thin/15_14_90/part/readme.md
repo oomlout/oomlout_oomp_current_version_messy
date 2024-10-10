@@ -122,6 +122,18 @@ average
 glove
 kitten
 scare |  
+| bip_39_word_no_space_1 | clump |  
+| bip_39_word_no_space_10 | clumpgigglescissorsdonatesunsetaverageglovekittenscarepipe |  
+| bip_39_word_no_space_11 | clumpgigglescissorsdonatesunsetaverageglovekittenscarepipenice |  
+| bip_39_word_no_space_12 | clumpgigglescissorsdonatesunsetaverageglovekittenscarepipeniceacid |  
+| bip_39_word_no_space_2 | clumpgiggle |  
+| bip_39_word_no_space_3 | clumpgigglescissors |  
+| bip_39_word_no_space_4 | clumpgigglescissorsdonate |  
+| bip_39_word_no_space_5 | clumpgigglescissorsdonatesunset |  
+| bip_39_word_no_space_6 | clumpgigglescissorsdonatesunsetaverage |  
+| bip_39_word_no_space_7 | clumpgigglescissorsdonatesunsetaverageglove |  
+| bip_39_word_no_space_8 | clumpgigglescissorsdonatesunsetaverageglovekitten |  
+| bip_39_word_no_space_9 | clumpgigglescissorsdonatesunsetaverageglovekittenscare |  
 | bip_39_word_space_0 | ['clump', 'giggle', 'scissors', 'donate', 'sunset', 'average', 'glove', 'kitten', 'scare', 'pipe', 'nice', 'acid'] |  
 | bip_39_word_space_1 | clump |  
 | bip_39_word_space_10 | clump giggle scissors donate sunset average glove kitten scare pipe |  

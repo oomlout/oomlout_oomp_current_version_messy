@@ -122,6 +122,18 @@ toe
 wheat
 cable
 drip |  
+| bip_39_word_no_space_1 | yard |  
+| bip_39_word_no_space_10 | yardasthmapoetwindowsilvertoewheatcabledriptotal |  
+| bip_39_word_no_space_11 | yardasthmapoetwindowsilvertoewheatcabledriptotalhat |  
+| bip_39_word_no_space_12 | yardasthmapoetwindowsilvertoewheatcabledriptotalhatamazing |  
+| bip_39_word_no_space_2 | yardasthma |  
+| bip_39_word_no_space_3 | yardasthmapoet |  
+| bip_39_word_no_space_4 | yardasthmapoetwindow |  
+| bip_39_word_no_space_5 | yardasthmapoetwindowsilver |  
+| bip_39_word_no_space_6 | yardasthmapoetwindowsilvertoe |  
+| bip_39_word_no_space_7 | yardasthmapoetwindowsilvertoewheat |  
+| bip_39_word_no_space_8 | yardasthmapoetwindowsilvertoewheatcable |  
+| bip_39_word_no_space_9 | yardasthmapoetwindowsilvertoewheatcabledrip |  
 | bip_39_word_space_0 | ['yard', 'asthma', 'poet', 'window', 'silver', 'toe', 'wheat', 'cable', 'drip', 'total', 'hat', 'amazing'] |  
 | bip_39_word_space_1 | yard |  
 | bip_39_word_space_10 | yard asthma poet window silver toe wheat cable drip total |  

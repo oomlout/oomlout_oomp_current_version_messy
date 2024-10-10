@@ -122,6 +122,18 @@ maid
 aim
 govern
 mouse |  
+| bip_39_word_no_space_1 | cream |  
+| bip_39_word_no_space_10 | creamvanishjaguaramountfootmaidaimgovernmouseadd |  
+| bip_39_word_no_space_11 | creamvanishjaguaramountfootmaidaimgovernmouseaddempty |  
+| bip_39_word_no_space_12 | creamvanishjaguaramountfootmaidaimgovernmouseaddemptyafford |  
+| bip_39_word_no_space_2 | creamvanish |  
+| bip_39_word_no_space_3 | creamvanishjaguar |  
+| bip_39_word_no_space_4 | creamvanishjaguaramount |  
+| bip_39_word_no_space_5 | creamvanishjaguaramountfoot |  
+| bip_39_word_no_space_6 | creamvanishjaguaramountfootmaid |  
+| bip_39_word_no_space_7 | creamvanishjaguaramountfootmaidaim |  
+| bip_39_word_no_space_8 | creamvanishjaguaramountfootmaidaimgovern |  
+| bip_39_word_no_space_9 | creamvanishjaguaramountfootmaidaimgovernmouse |  
 | bip_39_word_space_0 | ['cream', 'vanish', 'jaguar', 'amount', 'foot', 'maid', 'aim', 'govern', 'mouse', 'add', 'empty', 'afford'] |  
 | bip_39_word_space_1 | cream |  
 | bip_39_word_space_10 | cream vanish jaguar amount foot maid aim govern mouse add |  

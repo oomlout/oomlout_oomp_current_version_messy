@@ -122,6 +122,18 @@ bullet
 twelve
 coach
 bargain |  
+| bip_39_word_no_space_1 | quit |  
+| bip_39_word_no_space_10 | quitjuicesplitartworkaddbullettwelvecoachbargainsoccer |  
+| bip_39_word_no_space_11 | quitjuicesplitartworkaddbullettwelvecoachbargainsoccerword |  
+| bip_39_word_no_space_12 | quitjuicesplitartworkaddbullettwelvecoachbargainsoccerwordalone |  
+| bip_39_word_no_space_2 | quitjuice |  
+| bip_39_word_no_space_3 | quitjuicesplit |  
+| bip_39_word_no_space_4 | quitjuicesplitartwork |  
+| bip_39_word_no_space_5 | quitjuicesplitartworkadd |  
+| bip_39_word_no_space_6 | quitjuicesplitartworkaddbullet |  
+| bip_39_word_no_space_7 | quitjuicesplitartworkaddbullettwelve |  
+| bip_39_word_no_space_8 | quitjuicesplitartworkaddbullettwelvecoach |  
+| bip_39_word_no_space_9 | quitjuicesplitartworkaddbullettwelvecoachbargain |  
 | bip_39_word_space_0 | ['quit', 'juice', 'split', 'artwork', 'add', 'bullet', 'twelve', 'coach', 'bargain', 'soccer', 'word', 'alone'] |  
 | bip_39_word_space_1 | quit |  
 | bip_39_word_space_10 | quit juice split artwork add bullet twelve coach bargain soccer |  

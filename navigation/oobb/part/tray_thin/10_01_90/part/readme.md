@@ -122,6 +122,18 @@ oppose
 such
 lunch
 also |  
+| bip_39_word_no_space_1 | public |  
+| bip_39_word_no_space_10 | publicindoorawesomevibrantevolveopposesuchlunchalsoremain |  
+| bip_39_word_no_space_11 | publicindoorawesomevibrantevolveopposesuchlunchalsoremainsurface |  
+| bip_39_word_no_space_12 | publicindoorawesomevibrantevolveopposesuchlunchalsoremainsurfaceasthma |  
+| bip_39_word_no_space_2 | publicindoor |  
+| bip_39_word_no_space_3 | publicindoorawesome |  
+| bip_39_word_no_space_4 | publicindoorawesomevibrant |  
+| bip_39_word_no_space_5 | publicindoorawesomevibrantevolve |  
+| bip_39_word_no_space_6 | publicindoorawesomevibrantevolveoppose |  
+| bip_39_word_no_space_7 | publicindoorawesomevibrantevolveopposesuch |  
+| bip_39_word_no_space_8 | publicindoorawesomevibrantevolveopposesuchlunch |  
+| bip_39_word_no_space_9 | publicindoorawesomevibrantevolveopposesuchlunchalso |  
 | bip_39_word_space_0 | ['public', 'indoor', 'awesome', 'vibrant', 'evolve', 'oppose', 'such', 'lunch', 'also', 'remain', 'surface', 'asthma'] |  
 | bip_39_word_space_1 | public |  
 | bip_39_word_space_10 | public indoor awesome vibrant evolve oppose such lunch also remain |  

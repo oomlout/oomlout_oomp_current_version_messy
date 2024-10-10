@@ -122,6 +122,18 @@ century
 jump
 raccoon
 grocery |  
+| bip_39_word_no_space_1 | gauge |  
+| bip_39_word_no_space_10 | gaugetiphurtalmostsuffercenturyjumpraccoongroceryquote |  
+| bip_39_word_no_space_11 | gaugetiphurtalmostsuffercenturyjumpraccoongroceryquotenothing |  
+| bip_39_word_no_space_12 | gaugetiphurtalmostsuffercenturyjumpraccoongroceryquotenothingabstract |  
+| bip_39_word_no_space_2 | gaugetip |  
+| bip_39_word_no_space_3 | gaugetiphurt |  
+| bip_39_word_no_space_4 | gaugetiphurtalmost |  
+| bip_39_word_no_space_5 | gaugetiphurtalmostsuffer |  
+| bip_39_word_no_space_6 | gaugetiphurtalmostsuffercentury |  
+| bip_39_word_no_space_7 | gaugetiphurtalmostsuffercenturyjump |  
+| bip_39_word_no_space_8 | gaugetiphurtalmostsuffercenturyjumpraccoon |  
+| bip_39_word_no_space_9 | gaugetiphurtalmostsuffercenturyjumpraccoongrocery |  
 | bip_39_word_space_0 | ['gauge', 'tip', 'hurt', 'almost', 'suffer', 'century', 'jump', 'raccoon', 'grocery', 'quote', 'nothing', 'abstract'] |  
 | bip_39_word_space_1 | gauge |  
 | bip_39_word_space_10 | gauge tip hurt almost suffer century jump raccoon grocery quote |  

@@ -122,6 +122,18 @@ south
 brick
 air
 strong |  
+| bip_39_word_no_space_1 | apology |  
+| bip_39_word_no_space_10 | apologyfashionmodelbossheartsouthbrickairstrongdolphin |  
+| bip_39_word_no_space_11 | apologyfashionmodelbossheartsouthbrickairstrongdolphinhammer |  
+| bip_39_word_no_space_12 | apologyfashionmodelbossheartsouthbrickairstrongdolphinhammerangle |  
+| bip_39_word_no_space_2 | apologyfashion |  
+| bip_39_word_no_space_3 | apologyfashionmodel |  
+| bip_39_word_no_space_4 | apologyfashionmodelboss |  
+| bip_39_word_no_space_5 | apologyfashionmodelbossheart |  
+| bip_39_word_no_space_6 | apologyfashionmodelbossheartsouth |  
+| bip_39_word_no_space_7 | apologyfashionmodelbossheartsouthbrick |  
+| bip_39_word_no_space_8 | apologyfashionmodelbossheartsouthbrickair |  
+| bip_39_word_no_space_9 | apologyfashionmodelbossheartsouthbrickairstrong |  
 | bip_39_word_space_0 | ['apology', 'fashion', 'model', 'boss', 'heart', 'south', 'brick', 'air', 'strong', 'dolphin', 'hammer', 'angle'] |  
 | bip_39_word_space_1 | apology |  
 | bip_39_word_space_10 | apology fashion model boss heart south brick air strong dolphin |  

@@ -122,6 +122,18 @@ artefact
 member
 bring
 duck |  
+| bip_39_word_no_space_1 | arch |  
+| bip_39_word_no_space_10 | archinjectpoetcutepullartefactmemberbringduckbomb |  
+| bip_39_word_no_space_11 | archinjectpoetcutepullartefactmemberbringduckbombhuman |  
+| bip_39_word_no_space_12 | archinjectpoetcutepullartefactmemberbringduckbombhumanactual |  
+| bip_39_word_no_space_2 | archinject |  
+| bip_39_word_no_space_3 | archinjectpoet |  
+| bip_39_word_no_space_4 | archinjectpoetcute |  
+| bip_39_word_no_space_5 | archinjectpoetcutepull |  
+| bip_39_word_no_space_6 | archinjectpoetcutepullartefact |  
+| bip_39_word_no_space_7 | archinjectpoetcutepullartefactmember |  
+| bip_39_word_no_space_8 | archinjectpoetcutepullartefactmemberbring |  
+| bip_39_word_no_space_9 | archinjectpoetcutepullartefactmemberbringduck |  
 | bip_39_word_space_0 | ['arch', 'inject', 'poet', 'cute', 'pull', 'artefact', 'member', 'bring', 'duck', 'bomb', 'human', 'actual'] |  
 | bip_39_word_space_1 | arch |  
 | bip_39_word_space_10 | arch inject poet cute pull artefact member bring duck bomb |  

@@ -122,6 +122,18 @@ recall
 enforce
 nominee
 aware |  
+| bip_39_word_no_space_1 | auction |  
+| bip_39_word_no_space_10 | auctionenhancepillslightchiefrecallenforcenomineeawareregular |  
+| bip_39_word_no_space_11 | auctionenhancepillslightchiefrecallenforcenomineeawareregularcreek |  
+| bip_39_word_no_space_12 | auctionenhancepillslightchiefrecallenforcenomineeawareregularcreekairport |  
+| bip_39_word_no_space_2 | auctionenhance |  
+| bip_39_word_no_space_3 | auctionenhancepill |  
+| bip_39_word_no_space_4 | auctionenhancepillslight |  
+| bip_39_word_no_space_5 | auctionenhancepillslightchief |  
+| bip_39_word_no_space_6 | auctionenhancepillslightchiefrecall |  
+| bip_39_word_no_space_7 | auctionenhancepillslightchiefrecallenforce |  
+| bip_39_word_no_space_8 | auctionenhancepillslightchiefrecallenforcenominee |  
+| bip_39_word_no_space_9 | auctionenhancepillslightchiefrecallenforcenomineeaware |  
 | bip_39_word_space_0 | ['auction', 'enhance', 'pill', 'slight', 'chief', 'recall', 'enforce', 'nominee', 'aware', 'regular', 'creek', 'airport'] |  
 | bip_39_word_space_1 | auction |  
 | bip_39_word_space_10 | auction enhance pill slight chief recall enforce nominee aware regular |  

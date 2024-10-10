@@ -122,6 +122,18 @@ feed
 awesome
 choice
 hard |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declinepenaltywinaskzebrafeedawesomechoicehardsudden |  
+| bip_39_word_no_space_11 | declinepenaltywinaskzebrafeedawesomechoicehardsuddendenial |  
+| bip_39_word_no_space_12 | declinepenaltywinaskzebrafeedawesomechoicehardsuddendenialassist |  
+| bip_39_word_no_space_2 | declinepenalty |  
+| bip_39_word_no_space_3 | declinepenaltywin |  
+| bip_39_word_no_space_4 | declinepenaltywinask |  
+| bip_39_word_no_space_5 | declinepenaltywinaskzebra |  
+| bip_39_word_no_space_6 | declinepenaltywinaskzebrafeed |  
+| bip_39_word_no_space_7 | declinepenaltywinaskzebrafeedawesome |  
+| bip_39_word_no_space_8 | declinepenaltywinaskzebrafeedawesomechoice |  
+| bip_39_word_no_space_9 | declinepenaltywinaskzebrafeedawesomechoicehard |  
 | bip_39_word_space_0 | ['decline', 'penalty', 'win', 'ask', 'zebra', 'feed', 'awesome', 'choice', 'hard', 'sudden', 'denial', 'assist'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline penalty win ask zebra feed awesome choice hard sudden |  

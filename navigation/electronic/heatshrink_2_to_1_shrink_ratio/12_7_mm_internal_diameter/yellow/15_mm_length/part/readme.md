@@ -122,6 +122,18 @@ whale
 drop
 balance
 nurse |  
+| bip_39_word_no_space_1 | transfer |  
+| bip_39_word_no_space_10 | transferinvestpartyneedoysterwhaledropbalancenursecliff |  
+| bip_39_word_no_space_11 | transferinvestpartyneedoysterwhaledropbalancenursecliffdouble |  
+| bip_39_word_no_space_12 | transferinvestpartyneedoysterwhaledropbalancenursecliffdoubleart |  
+| bip_39_word_no_space_2 | transferinvest |  
+| bip_39_word_no_space_3 | transferinvestparty |  
+| bip_39_word_no_space_4 | transferinvestpartyneed |  
+| bip_39_word_no_space_5 | transferinvestpartyneedoyster |  
+| bip_39_word_no_space_6 | transferinvestpartyneedoysterwhale |  
+| bip_39_word_no_space_7 | transferinvestpartyneedoysterwhaledrop |  
+| bip_39_word_no_space_8 | transferinvestpartyneedoysterwhaledropbalance |  
+| bip_39_word_no_space_9 | transferinvestpartyneedoysterwhaledropbalancenurse |  
 | bip_39_word_space_0 | ['transfer', 'invest', 'party', 'need', 'oyster', 'whale', 'drop', 'balance', 'nurse', 'cliff', 'double', 'art'] |  
 | bip_39_word_space_1 | transfer |  
 | bip_39_word_space_10 | transfer invest party need oyster whale drop balance nurse cliff |  

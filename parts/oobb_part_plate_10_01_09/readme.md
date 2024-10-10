@@ -122,6 +122,18 @@ script
 surround
 scale
 describe |  
+| bip_39_word_no_space_1 | lobster |  
+| bip_39_word_no_space_10 | lobstersettlestoolframestayscriptsurroundscaledescribepayment |  
+| bip_39_word_no_space_11 | lobstersettlestoolframestayscriptsurroundscaledescribepaymentrocket |  
+| bip_39_word_no_space_12 | lobstersettlestoolframestayscriptsurroundscaledescribepaymentrocketantique |  
+| bip_39_word_no_space_2 | lobstersettle |  
+| bip_39_word_no_space_3 | lobstersettlestool |  
+| bip_39_word_no_space_4 | lobstersettlestoolframe |  
+| bip_39_word_no_space_5 | lobstersettlestoolframestay |  
+| bip_39_word_no_space_6 | lobstersettlestoolframestayscript |  
+| bip_39_word_no_space_7 | lobstersettlestoolframestayscriptsurround |  
+| bip_39_word_no_space_8 | lobstersettlestoolframestayscriptsurroundscale |  
+| bip_39_word_no_space_9 | lobstersettlestoolframestayscriptsurroundscaledescribe |  
 | bip_39_word_space_0 | ['lobster', 'settle', 'stool', 'frame', 'stay', 'script', 'surround', 'scale', 'describe', 'payment', 'rocket', 'antique'] |  
 | bip_39_word_space_1 | lobster |  
 | bip_39_word_space_10 | lobster settle stool frame stay script surround scale describe payment |  

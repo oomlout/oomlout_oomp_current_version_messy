@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'room
   wide
 
   approve'
+bip_39_word_no_space_1: room
+bip_39_word_no_space_10: roomunitdespairpoemcoastjellysoftwideapprovebarely
+bip_39_word_no_space_11: roomunitdespairpoemcoastjellysoftwideapprovebarelystable
+bip_39_word_no_space_12: roomunitdespairpoemcoastjellysoftwideapprovebarelystableaudit
+bip_39_word_no_space_2: roomunit
+bip_39_word_no_space_3: roomunitdespair
+bip_39_word_no_space_4: roomunitdespairpoem
+bip_39_word_no_space_5: roomunitdespairpoemcoast
+bip_39_word_no_space_6: roomunitdespairpoemcoastjelly
+bip_39_word_no_space_7: roomunitdespairpoemcoastjellysoft
+bip_39_word_no_space_8: roomunitdespairpoemcoastjellysoftwide
+bip_39_word_no_space_9: roomunitdespairpoemcoastjellysoftwideapprove
 bip_39_word_space_0:
 - room
 - unit

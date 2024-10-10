@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'confirm
   home
 
   amateur'
+bip_39_word_no_space_1: confirm
+bip_39_word_no_space_10: confirmglidepausecoconutcarsnaphoverhomeamateuredit
+bip_39_word_no_space_11: confirmglidepausecoconutcarsnaphoverhomeamateureditdevice
+bip_39_word_no_space_12: confirmglidepausecoconutcarsnaphoverhomeamateureditdeviceafford
+bip_39_word_no_space_2: confirmglide
+bip_39_word_no_space_3: confirmglidepause
+bip_39_word_no_space_4: confirmglidepausecoconut
+bip_39_word_no_space_5: confirmglidepausecoconutcar
+bip_39_word_no_space_6: confirmglidepausecoconutcarsnap
+bip_39_word_no_space_7: confirmglidepausecoconutcarsnaphover
+bip_39_word_no_space_8: confirmglidepausecoconutcarsnaphoverhome
+bip_39_word_no_space_9: confirmglidepausecoconutcarsnaphoverhomeamateur
 bip_39_word_space_0:
 - confirm
 - glide

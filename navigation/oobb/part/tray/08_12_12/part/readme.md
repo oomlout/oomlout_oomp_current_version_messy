@@ -122,6 +122,18 @@ energy
 wrestle
 team
 ignore |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessagreechairreportlinkenergywrestleteamignoredeny |  
+| bip_39_word_no_space_11 | excessagreechairreportlinkenergywrestleteamignoredenyside |  
+| bip_39_word_no_space_12 | excessagreechairreportlinkenergywrestleteamignoredenysideasset |  
+| bip_39_word_no_space_2 | excessagree |  
+| bip_39_word_no_space_3 | excessagreechair |  
+| bip_39_word_no_space_4 | excessagreechairreport |  
+| bip_39_word_no_space_5 | excessagreechairreportlink |  
+| bip_39_word_no_space_6 | excessagreechairreportlinkenergy |  
+| bip_39_word_no_space_7 | excessagreechairreportlinkenergywrestle |  
+| bip_39_word_no_space_8 | excessagreechairreportlinkenergywrestleteam |  
+| bip_39_word_no_space_9 | excessagreechairreportlinkenergywrestleteamignore |  
 | bip_39_word_space_0 | ['excess', 'agree', 'chair', 'report', 'link', 'energy', 'wrestle', 'team', 'ignore', 'deny', 'side', 'asset'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess agree chair report link energy wrestle team ignore deny |  

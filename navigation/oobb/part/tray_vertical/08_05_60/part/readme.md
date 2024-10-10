@@ -122,6 +122,18 @@ absorb
 dog
 outdoor
 general |  
+| bip_39_word_no_space_1 | subject |  
+| bip_39_word_no_space_10 | subjectolympictraffichealthviolinabsorbdogoutdoorgeneralcherry |  
+| bip_39_word_no_space_11 | subjectolympictraffichealthviolinabsorbdogoutdoorgeneralcherrymarket |  
+| bip_39_word_no_space_12 | subjectolympictraffichealthviolinabsorbdogoutdoorgeneralcherrymarketapart |  
+| bip_39_word_no_space_2 | subjectolympic |  
+| bip_39_word_no_space_3 | subjectolympictraffic |  
+| bip_39_word_no_space_4 | subjectolympictraffichealth |  
+| bip_39_word_no_space_5 | subjectolympictraffichealthviolin |  
+| bip_39_word_no_space_6 | subjectolympictraffichealthviolinabsorb |  
+| bip_39_word_no_space_7 | subjectolympictraffichealthviolinabsorbdog |  
+| bip_39_word_no_space_8 | subjectolympictraffichealthviolinabsorbdogoutdoor |  
+| bip_39_word_no_space_9 | subjectolympictraffichealthviolinabsorbdogoutdoorgeneral |  
 | bip_39_word_space_0 | ['subject', 'olympic', 'traffic', 'health', 'violin', 'absorb', 'dog', 'outdoor', 'general', 'cherry', 'market', 'apart'] |  
 | bip_39_word_space_1 | subject |  
 | bip_39_word_space_10 | subject olympic traffic health violin absorb dog outdoor general cherry |  

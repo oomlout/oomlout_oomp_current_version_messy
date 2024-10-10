@@ -122,6 +122,18 @@ loop
 note
 toward
 mother |  
+| bip_39_word_no_space_1 | genuine |  
+| bip_39_word_no_space_10 | genuinepositionenabletunaproudloopnotetowardmotherfetch |  
+| bip_39_word_no_space_11 | genuinepositionenabletunaproudloopnotetowardmotherfetchautumn |  
+| bip_39_word_no_space_12 | genuinepositionenabletunaproudloopnotetowardmotherfetchautumnattack |  
+| bip_39_word_no_space_2 | genuineposition |  
+| bip_39_word_no_space_3 | genuinepositionenable |  
+| bip_39_word_no_space_4 | genuinepositionenabletuna |  
+| bip_39_word_no_space_5 | genuinepositionenabletunaproud |  
+| bip_39_word_no_space_6 | genuinepositionenabletunaproudloop |  
+| bip_39_word_no_space_7 | genuinepositionenabletunaproudloopnote |  
+| bip_39_word_no_space_8 | genuinepositionenabletunaproudloopnotetoward |  
+| bip_39_word_no_space_9 | genuinepositionenabletunaproudloopnotetowardmother |  
 | bip_39_word_space_0 | ['genuine', 'position', 'enable', 'tuna', 'proud', 'loop', 'note', 'toward', 'mother', 'fetch', 'autumn', 'attack'] |  
 | bip_39_word_space_1 | genuine |  
 | bip_39_word_space_10 | genuine position enable tuna proud loop note toward mother fetch |  

@@ -122,6 +122,18 @@ found
 garment
 elevator
 mask |  
+| bip_39_word_no_space_1 | poverty |  
+| bip_39_word_no_space_10 | povertythereundopicturereflectfoundgarmentelevatormaskflame |  
+| bip_39_word_no_space_11 | povertythereundopicturereflectfoundgarmentelevatormaskflamedepart |  
+| bip_39_word_no_space_12 | povertythereundopicturereflectfoundgarmentelevatormaskflamedepartalpha |  
+| bip_39_word_no_space_2 | povertythere |  
+| bip_39_word_no_space_3 | povertythereundo |  
+| bip_39_word_no_space_4 | povertythereundopicture |  
+| bip_39_word_no_space_5 | povertythereundopicturereflect |  
+| bip_39_word_no_space_6 | povertythereundopicturereflectfound |  
+| bip_39_word_no_space_7 | povertythereundopicturereflectfoundgarment |  
+| bip_39_word_no_space_8 | povertythereundopicturereflectfoundgarmentelevator |  
+| bip_39_word_no_space_9 | povertythereundopicturereflectfoundgarmentelevatormask |  
 | bip_39_word_space_0 | ['poverty', 'there', 'undo', 'picture', 'reflect', 'found', 'garment', 'elevator', 'mask', 'flame', 'depart', 'alpha'] |  
 | bip_39_word_space_1 | poverty |  
 | bip_39_word_space_10 | poverty there undo picture reflect found garment elevator mask flame |  

@@ -122,6 +122,18 @@ jacket
 million
 dish
 link |  
+| bip_39_word_no_space_1 | pretty |  
+| bip_39_word_no_space_10 | prettyelevatorcruisecleanbidjacketmilliondishlinkstreet |  
+| bip_39_word_no_space_11 | prettyelevatorcruisecleanbidjacketmilliondishlinkstreetlicense |  
+| bip_39_word_no_space_12 | prettyelevatorcruisecleanbidjacketmilliondishlinkstreetlicenseapple |  
+| bip_39_word_no_space_2 | prettyelevator |  
+| bip_39_word_no_space_3 | prettyelevatorcruise |  
+| bip_39_word_no_space_4 | prettyelevatorcruiseclean |  
+| bip_39_word_no_space_5 | prettyelevatorcruisecleanbid |  
+| bip_39_word_no_space_6 | prettyelevatorcruisecleanbidjacket |  
+| bip_39_word_no_space_7 | prettyelevatorcruisecleanbidjacketmillion |  
+| bip_39_word_no_space_8 | prettyelevatorcruisecleanbidjacketmilliondish |  
+| bip_39_word_no_space_9 | prettyelevatorcruisecleanbidjacketmilliondishlink |  
 | bip_39_word_space_0 | ['pretty', 'elevator', 'cruise', 'clean', 'bid', 'jacket', 'million', 'dish', 'link', 'street', 'license', 'apple'] |  
 | bip_39_word_space_1 | pretty |  
 | bip_39_word_space_10 | pretty elevator cruise clean bid jacket million dish link street |  

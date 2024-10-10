@@ -122,6 +122,18 @@ radio
 behind
 into
 lens |  
+| bip_39_word_no_space_1 | wife |  
+| bip_39_word_no_space_10 | wifebundlesilkluxurybeanradiobehindintolensvoyage |  
+| bip_39_word_no_space_11 | wifebundlesilkluxurybeanradiobehindintolensvoyagedry |  
+| bip_39_word_no_space_12 | wifebundlesilkluxurybeanradiobehindintolensvoyagedryalso |  
+| bip_39_word_no_space_2 | wifebundle |  
+| bip_39_word_no_space_3 | wifebundlesilk |  
+| bip_39_word_no_space_4 | wifebundlesilkluxury |  
+| bip_39_word_no_space_5 | wifebundlesilkluxurybean |  
+| bip_39_word_no_space_6 | wifebundlesilkluxurybeanradio |  
+| bip_39_word_no_space_7 | wifebundlesilkluxurybeanradiobehind |  
+| bip_39_word_no_space_8 | wifebundlesilkluxurybeanradiobehindinto |  
+| bip_39_word_no_space_9 | wifebundlesilkluxurybeanradiobehindintolens |  
 | bip_39_word_space_0 | ['wife', 'bundle', 'silk', 'luxury', 'bean', 'radio', 'behind', 'into', 'lens', 'voyage', 'dry', 'also'] |  
 | bip_39_word_space_1 | wife |  
 | bip_39_word_space_10 | wife bundle silk luxury bean radio behind into lens voyage |  

@@ -122,6 +122,18 @@ service
 skill
 roast
 kangaroo |  
+| bip_39_word_no_space_1 | small |  
+| bip_39_word_no_space_10 | smallbuyerusefuldinnerdespairserviceskillroastkangarooboy |  
+| bip_39_word_no_space_11 | smallbuyerusefuldinnerdespairserviceskillroastkangarooboyjazz |  
+| bip_39_word_no_space_12 | smallbuyerusefuldinnerdespairserviceskillroastkangarooboyjazzage |  
+| bip_39_word_no_space_2 | smallbuyer |  
+| bip_39_word_no_space_3 | smallbuyeruseful |  
+| bip_39_word_no_space_4 | smallbuyerusefuldinner |  
+| bip_39_word_no_space_5 | smallbuyerusefuldinnerdespair |  
+| bip_39_word_no_space_6 | smallbuyerusefuldinnerdespairservice |  
+| bip_39_word_no_space_7 | smallbuyerusefuldinnerdespairserviceskill |  
+| bip_39_word_no_space_8 | smallbuyerusefuldinnerdespairserviceskillroast |  
+| bip_39_word_no_space_9 | smallbuyerusefuldinnerdespairserviceskillroastkangaroo |  
 | bip_39_word_space_0 | ['small', 'buyer', 'useful', 'dinner', 'despair', 'service', 'skill', 'roast', 'kangaroo', 'boy', 'jazz', 'age'] |  
 | bip_39_word_space_1 | small |  
 | bip_39_word_space_10 | small buyer useful dinner despair service skill roast kangaroo boy |  

@@ -122,6 +122,18 @@ fall
 chuckle
 critic
 trumpet |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffirontruthinfantquickfallchucklecritictrumpetmuch |  
+| bip_39_word_no_space_11 | sniffirontruthinfantquickfallchucklecritictrumpetmuchsymptom |  
+| bip_39_word_no_space_12 | sniffirontruthinfantquickfallchucklecritictrumpetmuchsymptomalley |  
+| bip_39_word_no_space_2 | sniffiron |  
+| bip_39_word_no_space_3 | sniffirontruth |  
+| bip_39_word_no_space_4 | sniffirontruthinfant |  
+| bip_39_word_no_space_5 | sniffirontruthinfantquick |  
+| bip_39_word_no_space_6 | sniffirontruthinfantquickfall |  
+| bip_39_word_no_space_7 | sniffirontruthinfantquickfallchuckle |  
+| bip_39_word_no_space_8 | sniffirontruthinfantquickfallchucklecritic |  
+| bip_39_word_no_space_9 | sniffirontruthinfantquickfallchucklecritictrumpet |  
 | bip_39_word_space_0 | ['sniff', 'iron', 'truth', 'infant', 'quick', 'fall', 'chuckle', 'critic', 'trumpet', 'much', 'symptom', 'alley'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff iron truth infant quick fall chuckle critic trumpet much |  

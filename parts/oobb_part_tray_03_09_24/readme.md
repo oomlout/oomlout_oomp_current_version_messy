@@ -122,6 +122,18 @@ three
 chief
 uncle
 amateur |  
+| bip_39_word_no_space_1 | base |  
+| bip_39_word_no_space_10 | baseorderdrumslushspotthreechiefuncleamateurdefy |  
+| bip_39_word_no_space_11 | baseorderdrumslushspotthreechiefuncleamateurdefysniff |  
+| bip_39_word_no_space_12 | baseorderdrumslushspotthreechiefuncleamateurdefysniffactress |  
+| bip_39_word_no_space_2 | baseorder |  
+| bip_39_word_no_space_3 | baseorderdrum |  
+| bip_39_word_no_space_4 | baseorderdrumslush |  
+| bip_39_word_no_space_5 | baseorderdrumslushspot |  
+| bip_39_word_no_space_6 | baseorderdrumslushspotthree |  
+| bip_39_word_no_space_7 | baseorderdrumslushspotthreechief |  
+| bip_39_word_no_space_8 | baseorderdrumslushspotthreechiefuncle |  
+| bip_39_word_no_space_9 | baseorderdrumslushspotthreechiefuncleamateur |  
 | bip_39_word_space_0 | ['base', 'order', 'drum', 'slush', 'spot', 'three', 'chief', 'uncle', 'amateur', 'defy', 'sniff', 'actress'] |  
 | bip_39_word_space_1 | base |  
 | bip_39_word_space_10 | base order drum slush spot three chief uncle amateur defy |  

@@ -122,6 +122,18 @@ globe
 ensure
 thrive
 whale |  
+| bip_39_word_no_space_1 | kitten |  
+| bip_39_word_no_space_10 | kittensectionsevenomitadvanceglobeensurethrivewhaleglimpse |  
+| bip_39_word_no_space_11 | kittensectionsevenomitadvanceglobeensurethrivewhaleglimpsecensus |  
+| bip_39_word_no_space_12 | kittensectionsevenomitadvanceglobeensurethrivewhaleglimpsecensusantique |  
+| bip_39_word_no_space_2 | kittensection |  
+| bip_39_word_no_space_3 | kittensectionseven |  
+| bip_39_word_no_space_4 | kittensectionsevenomit |  
+| bip_39_word_no_space_5 | kittensectionsevenomitadvance |  
+| bip_39_word_no_space_6 | kittensectionsevenomitadvanceglobe |  
+| bip_39_word_no_space_7 | kittensectionsevenomitadvanceglobeensure |  
+| bip_39_word_no_space_8 | kittensectionsevenomitadvanceglobeensurethrive |  
+| bip_39_word_no_space_9 | kittensectionsevenomitadvanceglobeensurethrivewhale |  
 | bip_39_word_space_0 | ['kitten', 'section', 'seven', 'omit', 'advance', 'globe', 'ensure', 'thrive', 'whale', 'glimpse', 'census', 'antique'] |  
 | bip_39_word_space_1 | kitten |  
 | bip_39_word_space_10 | kitten section seven omit advance globe ensure thrive whale glimpse |  

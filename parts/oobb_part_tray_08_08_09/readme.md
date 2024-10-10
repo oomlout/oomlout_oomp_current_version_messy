@@ -122,6 +122,18 @@ inspire
 spot
 reject
 behave |  
+| bip_39_word_no_space_1 | zero |  
+| bip_39_word_no_space_10 | zerospotcinnamonroundcaptaininspirespotrejectbehaverazor |  
+| bip_39_word_no_space_11 | zerospotcinnamonroundcaptaininspirespotrejectbehaverazoramused |  
+| bip_39_word_no_space_12 | zerospotcinnamonroundcaptaininspirespotrejectbehaverazoramusedacid |  
+| bip_39_word_no_space_2 | zerospot |  
+| bip_39_word_no_space_3 | zerospotcinnamon |  
+| bip_39_word_no_space_4 | zerospotcinnamonround |  
+| bip_39_word_no_space_5 | zerospotcinnamonroundcaptain |  
+| bip_39_word_no_space_6 | zerospotcinnamonroundcaptaininspire |  
+| bip_39_word_no_space_7 | zerospotcinnamonroundcaptaininspirespot |  
+| bip_39_word_no_space_8 | zerospotcinnamonroundcaptaininspirespotreject |  
+| bip_39_word_no_space_9 | zerospotcinnamonroundcaptaininspirespotrejectbehave |  
 | bip_39_word_space_0 | ['zero', 'spot', 'cinnamon', 'round', 'captain', 'inspire', 'spot', 'reject', 'behave', 'razor', 'amused', 'acid'] |  
 | bip_39_word_space_1 | zero |  
 | bip_39_word_space_10 | zero spot cinnamon round captain inspire spot reject behave razor |  

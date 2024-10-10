@@ -122,6 +122,18 @@ poem
 shaft
 twice
 gold |  
+| bip_39_word_no_space_1 | skull |  
+| bip_39_word_no_space_10 | skullgaspangerignorewingpoemshafttwicegoldroad |  
+| bip_39_word_no_space_11 | skullgaspangerignorewingpoemshafttwicegoldroadstool |  
+| bip_39_word_no_space_12 | skullgaspangerignorewingpoemshafttwicegoldroadstoolattitude |  
+| bip_39_word_no_space_2 | skullgasp |  
+| bip_39_word_no_space_3 | skullgaspanger |  
+| bip_39_word_no_space_4 | skullgaspangerignore |  
+| bip_39_word_no_space_5 | skullgaspangerignorewing |  
+| bip_39_word_no_space_6 | skullgaspangerignorewingpoem |  
+| bip_39_word_no_space_7 | skullgaspangerignorewingpoemshaft |  
+| bip_39_word_no_space_8 | skullgaspangerignorewingpoemshafttwice |  
+| bip_39_word_no_space_9 | skullgaspangerignorewingpoemshafttwicegold |  
 | bip_39_word_space_0 | ['skull', 'gasp', 'anger', 'ignore', 'wing', 'poem', 'shaft', 'twice', 'gold', 'road', 'stool', 'attitude'] |  
 | bip_39_word_space_1 | skull |  
 | bip_39_word_space_10 | skull gasp anger ignore wing poem shaft twice gold road |  

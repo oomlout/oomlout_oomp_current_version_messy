@@ -122,6 +122,18 @@ border
 crater
 post
 dinosaur |  
+| bip_39_word_no_space_1 | acoustic |  
+| bip_39_word_no_space_10 | acousticcornvehicleshiftghostbordercraterpostdinosaurremain |  
+| bip_39_word_no_space_11 | acousticcornvehicleshiftghostbordercraterpostdinosaurremainleg |  
+| bip_39_word_no_space_12 | acousticcornvehicleshiftghostbordercraterpostdinosaurremainlegadmit |  
+| bip_39_word_no_space_2 | acousticcorn |  
+| bip_39_word_no_space_3 | acousticcornvehicle |  
+| bip_39_word_no_space_4 | acousticcornvehicleshift |  
+| bip_39_word_no_space_5 | acousticcornvehicleshiftghost |  
+| bip_39_word_no_space_6 | acousticcornvehicleshiftghostborder |  
+| bip_39_word_no_space_7 | acousticcornvehicleshiftghostbordercrater |  
+| bip_39_word_no_space_8 | acousticcornvehicleshiftghostbordercraterpost |  
+| bip_39_word_no_space_9 | acousticcornvehicleshiftghostbordercraterpostdinosaur |  
 | bip_39_word_space_0 | ['acoustic', 'corn', 'vehicle', 'shift', 'ghost', 'border', 'crater', 'post', 'dinosaur', 'remain', 'leg', 'admit'] |  
 | bip_39_word_space_1 | acoustic |  
 | bip_39_word_space_10 | acoustic corn vehicle shift ghost border crater post dinosaur remain |  

@@ -122,6 +122,18 @@ hidden
 food
 door
 still |  
+| bip_39_word_no_space_1 | disagree |  
+| bip_39_word_no_space_10 | disagreesmallshipdivertrelaxhiddenfooddoorstillvacant |  
+| bip_39_word_no_space_11 | disagreesmallshipdivertrelaxhiddenfooddoorstillvacantpumpkin |  
+| bip_39_word_no_space_12 | disagreesmallshipdivertrelaxhiddenfooddoorstillvacantpumpkinamazing |  
+| bip_39_word_no_space_2 | disagreesmall |  
+| bip_39_word_no_space_3 | disagreesmallship |  
+| bip_39_word_no_space_4 | disagreesmallshipdivert |  
+| bip_39_word_no_space_5 | disagreesmallshipdivertrelax |  
+| bip_39_word_no_space_6 | disagreesmallshipdivertrelaxhidden |  
+| bip_39_word_no_space_7 | disagreesmallshipdivertrelaxhiddenfood |  
+| bip_39_word_no_space_8 | disagreesmallshipdivertrelaxhiddenfooddoor |  
+| bip_39_word_no_space_9 | disagreesmallshipdivertrelaxhiddenfooddoorstill |  
 | bip_39_word_space_0 | ['disagree', 'small', 'ship', 'divert', 'relax', 'hidden', 'food', 'door', 'still', 'vacant', 'pumpkin', 'amazing'] |  
 | bip_39_word_space_1 | disagree |  
 | bip_39_word_space_10 | disagree small ship divert relax hidden food door still vacant |  

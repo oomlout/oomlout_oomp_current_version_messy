@@ -122,6 +122,18 @@ fatigue
 ginger
 walnut
 hotel |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoor |  
+| bip_39_word_no_space_11 | soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoorhedgehog |  
+| bip_39_word_no_space_12 | soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoorhedgehogarrow |  
+| bip_39_word_no_space_2 | soccerfame |  
+| bip_39_word_no_space_3 | soccerfamesilk |  
+| bip_39_word_no_space_4 | soccerfamesilkski |  
+| bip_39_word_no_space_5 | soccerfamesilkskidrastic |  
+| bip_39_word_no_space_6 | soccerfamesilkskidrasticfatigue |  
+| bip_39_word_no_space_7 | soccerfamesilkskidrasticfatigueginger |  
+| bip_39_word_no_space_8 | soccerfamesilkskidrasticfatiguegingerwalnut |  
+| bip_39_word_no_space_9 | soccerfamesilkskidrasticfatiguegingerwalnuthotel |  
 | bip_39_word_space_0 | ['soccer', 'fame', 'silk', 'ski', 'drastic', 'fatigue', 'ginger', 'walnut', 'hotel', 'outdoor', 'hedgehog', 'arrow'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer fame silk ski drastic fatigue ginger walnut hotel outdoor |  

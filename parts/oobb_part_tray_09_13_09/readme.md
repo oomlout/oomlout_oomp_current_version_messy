@@ -122,6 +122,18 @@ ketchup
 birth
 shine
 pistol |  
+| bip_39_word_no_space_1 | tree |  
+| bip_39_word_no_space_10 | treemoveturtleunabledutchketchupbirthshinepistolbirth |  
+| bip_39_word_no_space_11 | treemoveturtleunabledutchketchupbirthshinepistolbirthanchor |  
+| bip_39_word_no_space_12 | treemoveturtleunabledutchketchupbirthshinepistolbirthanchorauthor |  
+| bip_39_word_no_space_2 | treemove |  
+| bip_39_word_no_space_3 | treemoveturtle |  
+| bip_39_word_no_space_4 | treemoveturtleunable |  
+| bip_39_word_no_space_5 | treemoveturtleunabledutch |  
+| bip_39_word_no_space_6 | treemoveturtleunabledutchketchup |  
+| bip_39_word_no_space_7 | treemoveturtleunabledutchketchupbirth |  
+| bip_39_word_no_space_8 | treemoveturtleunabledutchketchupbirthshine |  
+| bip_39_word_no_space_9 | treemoveturtleunabledutchketchupbirthshinepistol |  
 | bip_39_word_space_0 | ['tree', 'move', 'turtle', 'unable', 'dutch', 'ketchup', 'birth', 'shine', 'pistol', 'birth', 'anchor', 'author'] |  
 | bip_39_word_space_1 | tree |  
 | bip_39_word_space_10 | tree move turtle unable dutch ketchup birth shine pistol birth |  

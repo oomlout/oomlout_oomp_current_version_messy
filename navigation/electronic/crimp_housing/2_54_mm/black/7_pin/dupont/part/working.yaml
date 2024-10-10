@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'leisure
   snake
 
   obvious'
+bip_39_word_no_space_1: leisure
+bip_39_word_no_space_10: leisuregownbagsuffervariousmagnetbuffalosnakeobviousdraw
+bip_39_word_no_space_11: leisuregownbagsuffervariousmagnetbuffalosnakeobviousdrawfigure
+bip_39_word_no_space_2: leisuregown
+bip_39_word_no_space_3: leisuregownbag
+bip_39_word_no_space_4: leisuregownbagsuffer
+bip_39_word_no_space_5: leisuregownbagsuffervarious
+bip_39_word_no_space_6: leisuregownbagsuffervariousmagnet
+bip_39_word_no_space_7: leisuregownbagsuffervariousmagnetbuffalo
+bip_39_word_no_space_8: leisuregownbagsuffervariousmagnetbuffalosnake
+bip_39_word_no_space_9: leisuregownbagsuffervariousmagnetbuffalosnakeobvious
 bip_39_word_space_0:
 - leisure
 - gown

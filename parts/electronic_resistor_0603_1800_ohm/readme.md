@@ -122,6 +122,18 @@ symbol
 happy
 universe
 festival |  
+| bip_39_word_no_space_1 | rare |  
+| bip_39_word_no_space_10 | raremeshhundrednephewcrashsymbolhappyuniversefestivalblanket |  
+| bip_39_word_no_space_11 | raremeshhundrednephewcrashsymbolhappyuniversefestivalblankethockey |  
+| bip_39_word_no_space_12 | raremeshhundrednephewcrashsymbolhappyuniversefestivalblankethockeyacross |  
+| bip_39_word_no_space_2 | raremesh |  
+| bip_39_word_no_space_3 | raremeshhundred |  
+| bip_39_word_no_space_4 | raremeshhundrednephew |  
+| bip_39_word_no_space_5 | raremeshhundrednephewcrash |  
+| bip_39_word_no_space_6 | raremeshhundrednephewcrashsymbol |  
+| bip_39_word_no_space_7 | raremeshhundrednephewcrashsymbolhappy |  
+| bip_39_word_no_space_8 | raremeshhundrednephewcrashsymbolhappyuniverse |  
+| bip_39_word_no_space_9 | raremeshhundrednephewcrashsymbolhappyuniversefestival |  
 | bip_39_word_space_0 | ['rare', 'mesh', 'hundred', 'nephew', 'crash', 'symbol', 'happy', 'universe', 'festival', 'blanket', 'hockey', 'across'] |  
 | bip_39_word_space_1 | rare |  
 | bip_39_word_space_10 | rare mesh hundred nephew crash symbol happy universe festival blanket |  

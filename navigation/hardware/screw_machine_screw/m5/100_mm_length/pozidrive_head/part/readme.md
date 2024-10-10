@@ -122,6 +122,18 @@ good
 sunny
 tumble
 share |  
+| bip_39_word_no_space_1 | symbol |  
+| bip_39_word_no_space_10 | symbolbagshallowfamilyscrubgoodsunnytumblesharepaddle |  
+| bip_39_word_no_space_11 | symbolbagshallowfamilyscrubgoodsunnytumblesharepaddlechapter |  
+| bip_39_word_no_space_12 | symbolbagshallowfamilyscrubgoodsunnytumblesharepaddlechapteralarm |  
+| bip_39_word_no_space_2 | symbolbag |  
+| bip_39_word_no_space_3 | symbolbagshallow |  
+| bip_39_word_no_space_4 | symbolbagshallowfamily |  
+| bip_39_word_no_space_5 | symbolbagshallowfamilyscrub |  
+| bip_39_word_no_space_6 | symbolbagshallowfamilyscrubgood |  
+| bip_39_word_no_space_7 | symbolbagshallowfamilyscrubgoodsunny |  
+| bip_39_word_no_space_8 | symbolbagshallowfamilyscrubgoodsunnytumble |  
+| bip_39_word_no_space_9 | symbolbagshallowfamilyscrubgoodsunnytumbleshare |  
 | bip_39_word_space_0 | ['symbol', 'bag', 'shallow', 'family', 'scrub', 'good', 'sunny', 'tumble', 'share', 'paddle', 'chapter', 'alarm'] |  
 | bip_39_word_space_1 | symbol |  
 | bip_39_word_space_10 | symbol bag shallow family scrub good sunny tumble share paddle |  

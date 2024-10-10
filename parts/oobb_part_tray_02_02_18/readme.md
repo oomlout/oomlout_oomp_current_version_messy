@@ -122,6 +122,18 @@ raise
 immense
 panel
 language |  
+| bip_39_word_no_space_1 | sister |  
+| bip_39_word_no_space_10 | sisterseekcollectloveadvanceraiseimmensepanellanguageveteran |  
+| bip_39_word_no_space_11 | sisterseekcollectloveadvanceraiseimmensepanellanguageveteranswarm |  
+| bip_39_word_no_space_12 | sisterseekcollectloveadvanceraiseimmensepanellanguageveteranswarmapril |  
+| bip_39_word_no_space_2 | sisterseek |  
+| bip_39_word_no_space_3 | sisterseekcollect |  
+| bip_39_word_no_space_4 | sisterseekcollectlove |  
+| bip_39_word_no_space_5 | sisterseekcollectloveadvance |  
+| bip_39_word_no_space_6 | sisterseekcollectloveadvanceraise |  
+| bip_39_word_no_space_7 | sisterseekcollectloveadvanceraiseimmense |  
+| bip_39_word_no_space_8 | sisterseekcollectloveadvanceraiseimmensepanel |  
+| bip_39_word_no_space_9 | sisterseekcollectloveadvanceraiseimmensepanellanguage |  
 | bip_39_word_space_0 | ['sister', 'seek', 'collect', 'love', 'advance', 'raise', 'immense', 'panel', 'language', 'veteran', 'swarm', 'april'] |  
 | bip_39_word_space_1 | sister |  
 | bip_39_word_space_10 | sister seek collect love advance raise immense panel language veteran |  

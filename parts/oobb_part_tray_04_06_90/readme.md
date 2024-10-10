@@ -122,6 +122,18 @@ thrive
 visual
 insect
 raw |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonstyleapartvoidsidethrivevisualinsectrawdevelop |  
+| bip_39_word_no_space_11 | ribbonstyleapartvoidsidethrivevisualinsectrawdeveloppottery |  
+| bip_39_word_no_space_12 | ribbonstyleapartvoidsidethrivevisualinsectrawdeveloppotteryamong |  
+| bip_39_word_no_space_2 | ribbonstyle |  
+| bip_39_word_no_space_3 | ribbonstyleapart |  
+| bip_39_word_no_space_4 | ribbonstyleapartvoid |  
+| bip_39_word_no_space_5 | ribbonstyleapartvoidside |  
+| bip_39_word_no_space_6 | ribbonstyleapartvoidsidethrive |  
+| bip_39_word_no_space_7 | ribbonstyleapartvoidsidethrivevisual |  
+| bip_39_word_no_space_8 | ribbonstyleapartvoidsidethrivevisualinsect |  
+| bip_39_word_no_space_9 | ribbonstyleapartvoidsidethrivevisualinsectraw |  
 | bip_39_word_space_0 | ['ribbon', 'style', 'apart', 'void', 'side', 'thrive', 'visual', 'insect', 'raw', 'develop', 'pottery', 'among'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon style apart void side thrive visual insect raw develop |  

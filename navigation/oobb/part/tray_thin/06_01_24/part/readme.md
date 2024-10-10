@@ -122,6 +122,18 @@ sock
 dice
 ability
 muffin |  
+| bip_39_word_no_space_1 | average |  
+| bip_39_word_no_space_10 | averagepaniccupbulletfossilsockdiceabilitymuffinpigeon |  
+| bip_39_word_no_space_11 | averagepaniccupbulletfossilsockdiceabilitymuffinpigeonmirror |  
+| bip_39_word_no_space_12 | averagepaniccupbulletfossilsockdiceabilitymuffinpigeonmirrorabuse |  
+| bip_39_word_no_space_2 | averagepanic |  
+| bip_39_word_no_space_3 | averagepaniccup |  
+| bip_39_word_no_space_4 | averagepaniccupbullet |  
+| bip_39_word_no_space_5 | averagepaniccupbulletfossil |  
+| bip_39_word_no_space_6 | averagepaniccupbulletfossilsock |  
+| bip_39_word_no_space_7 | averagepaniccupbulletfossilsockdice |  
+| bip_39_word_no_space_8 | averagepaniccupbulletfossilsockdiceability |  
+| bip_39_word_no_space_9 | averagepaniccupbulletfossilsockdiceabilitymuffin |  
 | bip_39_word_space_0 | ['average', 'panic', 'cup', 'bullet', 'fossil', 'sock', 'dice', 'ability', 'muffin', 'pigeon', 'mirror', 'abuse'] |  
 | bip_39_word_space_1 | average |  
 | bip_39_word_space_10 | average panic cup bullet fossil sock dice ability muffin pigeon |  

@@ -122,6 +122,18 @@ speak
 pole
 any
 major |  
+| bip_39_word_no_space_1 | shy |  
+| bip_39_word_no_space_10 | shytrafficannualpoleeitherspeakpoleanymajorgrass |  
+| bip_39_word_no_space_11 | shytrafficannualpoleeitherspeakpoleanymajorgrassraven |  
+| bip_39_word_no_space_12 | shytrafficannualpoleeitherspeakpoleanymajorgrassravenaddict |  
+| bip_39_word_no_space_2 | shytraffic |  
+| bip_39_word_no_space_3 | shytrafficannual |  
+| bip_39_word_no_space_4 | shytrafficannualpole |  
+| bip_39_word_no_space_5 | shytrafficannualpoleeither |  
+| bip_39_word_no_space_6 | shytrafficannualpoleeitherspeak |  
+| bip_39_word_no_space_7 | shytrafficannualpoleeitherspeakpole |  
+| bip_39_word_no_space_8 | shytrafficannualpoleeitherspeakpoleany |  
+| bip_39_word_no_space_9 | shytrafficannualpoleeitherspeakpoleanymajor |  
 | bip_39_word_space_0 | ['shy', 'traffic', 'annual', 'pole', 'either', 'speak', 'pole', 'any', 'major', 'grass', 'raven', 'addict'] |  
 | bip_39_word_space_1 | shy |  
 | bip_39_word_space_10 | shy traffic annual pole either speak pole any major grass |  

@@ -122,6 +122,18 @@ shoot
 treat
 easily
 squeeze |  
+| bip_39_word_no_space_1 | observe |  
+| bip_39_word_no_space_10 | observeclientimmensetoyagainshoottreateasilysqueezefigure |  
+| bip_39_word_no_space_11 | observeclientimmensetoyagainshoottreateasilysqueezefiguresweet |  
+| bip_39_word_no_space_12 | observeclientimmensetoyagainshoottreateasilysqueezefiguresweetadjust |  
+| bip_39_word_no_space_2 | observeclient |  
+| bip_39_word_no_space_3 | observeclientimmense |  
+| bip_39_word_no_space_4 | observeclientimmensetoy |  
+| bip_39_word_no_space_5 | observeclientimmensetoyagain |  
+| bip_39_word_no_space_6 | observeclientimmensetoyagainshoot |  
+| bip_39_word_no_space_7 | observeclientimmensetoyagainshoottreat |  
+| bip_39_word_no_space_8 | observeclientimmensetoyagainshoottreateasily |  
+| bip_39_word_no_space_9 | observeclientimmensetoyagainshoottreateasilysqueeze |  
 | bip_39_word_space_0 | ['observe', 'client', 'immense', 'toy', 'again', 'shoot', 'treat', 'easily', 'squeeze', 'figure', 'sweet', 'adjust'] |  
 | bip_39_word_space_1 | observe |  
 | bip_39_word_space_10 | observe client immense toy again shoot treat easily squeeze figure |  

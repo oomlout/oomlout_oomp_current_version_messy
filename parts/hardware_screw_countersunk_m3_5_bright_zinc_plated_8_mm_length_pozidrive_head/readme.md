@@ -122,6 +122,18 @@ member
 virus
 peanut
 faculty |  
+| bip_39_word_no_space_1 | comic |  
+| bip_39_word_no_space_10 | comicarrangeroomfleeancientmemberviruspeanutfacultytrumpet |  
+| bip_39_word_no_space_11 | comicarrangeroomfleeancientmemberviruspeanutfacultytrumpetindex |  
+| bip_39_word_no_space_12 | comicarrangeroomfleeancientmemberviruspeanutfacultytrumpetindexautumn |  
+| bip_39_word_no_space_2 | comicarrange |  
+| bip_39_word_no_space_3 | comicarrangeroom |  
+| bip_39_word_no_space_4 | comicarrangeroomflee |  
+| bip_39_word_no_space_5 | comicarrangeroomfleeancient |  
+| bip_39_word_no_space_6 | comicarrangeroomfleeancientmember |  
+| bip_39_word_no_space_7 | comicarrangeroomfleeancientmembervirus |  
+| bip_39_word_no_space_8 | comicarrangeroomfleeancientmemberviruspeanut |  
+| bip_39_word_no_space_9 | comicarrangeroomfleeancientmemberviruspeanutfaculty |  
 | bip_39_word_space_0 | ['comic', 'arrange', 'room', 'flee', 'ancient', 'member', 'virus', 'peanut', 'faculty', 'trumpet', 'index', 'autumn'] |  
 | bip_39_word_space_1 | comic |  
 | bip_39_word_space_10 | comic arrange room flee ancient member virus peanut faculty trumpet |  

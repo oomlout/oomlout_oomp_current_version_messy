@@ -122,6 +122,18 @@ simple
 humor
 powder
 blast |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparearcticfroguniqueinheritsimplehumorpowderblastankle |  
+| bip_39_word_no_space_11 | preparearcticfroguniqueinheritsimplehumorpowderblastankleflame |  
+| bip_39_word_no_space_12 | preparearcticfroguniqueinheritsimplehumorpowderblastankleflameadmit |  
+| bip_39_word_no_space_2 | preparearctic |  
+| bip_39_word_no_space_3 | preparearcticfrog |  
+| bip_39_word_no_space_4 | preparearcticfrogunique |  
+| bip_39_word_no_space_5 | preparearcticfroguniqueinherit |  
+| bip_39_word_no_space_6 | preparearcticfroguniqueinheritsimple |  
+| bip_39_word_no_space_7 | preparearcticfroguniqueinheritsimplehumor |  
+| bip_39_word_no_space_8 | preparearcticfroguniqueinheritsimplehumorpowder |  
+| bip_39_word_no_space_9 | preparearcticfroguniqueinheritsimplehumorpowderblast |  
 | bip_39_word_space_0 | ['prepare', 'arctic', 'frog', 'unique', 'inherit', 'simple', 'humor', 'powder', 'blast', 'ankle', 'flame', 'admit'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare arctic frog unique inherit simple humor powder blast ankle |  

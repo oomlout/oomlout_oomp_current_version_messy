@@ -122,6 +122,18 @@ clean
 piece
 solar
 tired |  
+| bip_39_word_no_space_1 | color |  
+| bip_39_word_no_space_10 | colorshrimpdepthnicehedgehogcleanpiecesolartiredpact |  
+| bip_39_word_no_space_11 | colorshrimpdepthnicehedgehogcleanpiecesolartiredpactfit |  
+| bip_39_word_no_space_12 | colorshrimpdepthnicehedgehogcleanpiecesolartiredpactfitable |  
+| bip_39_word_no_space_2 | colorshrimp |  
+| bip_39_word_no_space_3 | colorshrimpdepth |  
+| bip_39_word_no_space_4 | colorshrimpdepthnice |  
+| bip_39_word_no_space_5 | colorshrimpdepthnicehedgehog |  
+| bip_39_word_no_space_6 | colorshrimpdepthnicehedgehogclean |  
+| bip_39_word_no_space_7 | colorshrimpdepthnicehedgehogcleanpiece |  
+| bip_39_word_no_space_8 | colorshrimpdepthnicehedgehogcleanpiecesolar |  
+| bip_39_word_no_space_9 | colorshrimpdepthnicehedgehogcleanpiecesolartired |  
 | bip_39_word_space_0 | ['color', 'shrimp', 'depth', 'nice', 'hedgehog', 'clean', 'piece', 'solar', 'tired', 'pact', 'fit', 'able'] |  
 | bip_39_word_space_1 | color |  
 | bip_39_word_space_10 | color shrimp depth nice hedgehog clean piece solar tired pact |  

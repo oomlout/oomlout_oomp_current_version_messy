@@ -122,6 +122,18 @@ work
 ribbon
 state
 draft |  
+| bip_39_word_no_space_1 | drastic |  
+| bip_39_word_no_space_10 | drasticfatherawfulpavepitchworkribbonstatedraftnovel |  
+| bip_39_word_no_space_11 | drasticfatherawfulpavepitchworkribbonstatedraftnovelchimney |  
+| bip_39_word_no_space_12 | drasticfatherawfulpavepitchworkribbonstatedraftnovelchimneyaccess |  
+| bip_39_word_no_space_2 | drasticfather |  
+| bip_39_word_no_space_3 | drasticfatherawful |  
+| bip_39_word_no_space_4 | drasticfatherawfulpave |  
+| bip_39_word_no_space_5 | drasticfatherawfulpavepitch |  
+| bip_39_word_no_space_6 | drasticfatherawfulpavepitchwork |  
+| bip_39_word_no_space_7 | drasticfatherawfulpavepitchworkribbon |  
+| bip_39_word_no_space_8 | drasticfatherawfulpavepitchworkribbonstate |  
+| bip_39_word_no_space_9 | drasticfatherawfulpavepitchworkribbonstatedraft |  
 | bip_39_word_space_0 | ['drastic', 'father', 'awful', 'pave', 'pitch', 'work', 'ribbon', 'state', 'draft', 'novel', 'chimney', 'access'] |  
 | bip_39_word_space_1 | drastic |  
 | bip_39_word_space_10 | drastic father awful pave pitch work ribbon state draft novel |  

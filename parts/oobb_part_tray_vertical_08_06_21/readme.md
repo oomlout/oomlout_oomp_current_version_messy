@@ -122,6 +122,18 @@ boring
 outer
 wife
 debate |  
+| bip_39_word_no_space_1 | text |  
+| bip_39_word_no_space_10 | texthazarddrybrasssoccerboringouterwifedebatescare |  
+| bip_39_word_no_space_11 | texthazarddrybrasssoccerboringouterwifedebatescarespoon |  
+| bip_39_word_no_space_12 | texthazarddrybrasssoccerboringouterwifedebatescarespoonalley |  
+| bip_39_word_no_space_2 | texthazard |  
+| bip_39_word_no_space_3 | texthazarddry |  
+| bip_39_word_no_space_4 | texthazarddrybrass |  
+| bip_39_word_no_space_5 | texthazarddrybrasssoccer |  
+| bip_39_word_no_space_6 | texthazarddrybrasssoccerboring |  
+| bip_39_word_no_space_7 | texthazarddrybrasssoccerboringouter |  
+| bip_39_word_no_space_8 | texthazarddrybrasssoccerboringouterwife |  
+| bip_39_word_no_space_9 | texthazarddrybrasssoccerboringouterwifedebate |  
 | bip_39_word_space_0 | ['text', 'hazard', 'dry', 'brass', 'soccer', 'boring', 'outer', 'wife', 'debate', 'scare', 'spoon', 'alley'] |  
 | bip_39_word_space_1 | text |  
 | bip_39_word_space_10 | text hazard dry brass soccer boring outer wife debate scare |  

@@ -122,6 +122,18 @@ loyal
 unfair
 remember
 slush |  
+| bip_39_word_no_space_1 | pluck |  
+| bip_39_word_no_space_10 | pluckcableinsidesystemsolveloyalunfairrememberslushdoor |  
+| bip_39_word_no_space_11 | pluckcableinsidesystemsolveloyalunfairrememberslushdoorunable |  
+| bip_39_word_no_space_12 | pluckcableinsidesystemsolveloyalunfairrememberslushdoorunableactress |  
+| bip_39_word_no_space_2 | pluckcable |  
+| bip_39_word_no_space_3 | pluckcableinside |  
+| bip_39_word_no_space_4 | pluckcableinsidesystem |  
+| bip_39_word_no_space_5 | pluckcableinsidesystemsolve |  
+| bip_39_word_no_space_6 | pluckcableinsidesystemsolveloyal |  
+| bip_39_word_no_space_7 | pluckcableinsidesystemsolveloyalunfair |  
+| bip_39_word_no_space_8 | pluckcableinsidesystemsolveloyalunfairremember |  
+| bip_39_word_no_space_9 | pluckcableinsidesystemsolveloyalunfairrememberslush |  
 | bip_39_word_space_0 | ['pluck', 'cable', 'inside', 'system', 'solve', 'loyal', 'unfair', 'remember', 'slush', 'door', 'unable', 'actress'] |  
 | bip_39_word_space_1 | pluck |  
 | bip_39_word_space_10 | pluck cable inside system solve loyal unfair remember slush door |  

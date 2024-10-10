@@ -122,6 +122,18 @@ genuine
 cushion
 dinosaur
 hold |  
+| bip_39_word_no_space_1 | weapon |  
+| bip_39_word_no_space_10 | weaponanotherstampmethodantiquegenuinecushiondinosaurholdnothing |  
+| bip_39_word_no_space_11 | weaponanotherstampmethodantiquegenuinecushiondinosaurholdnothingmother |  
+| bip_39_word_no_space_12 | weaponanotherstampmethodantiquegenuinecushiondinosaurholdnothingmotherartist |  
+| bip_39_word_no_space_2 | weaponanother |  
+| bip_39_word_no_space_3 | weaponanotherstamp |  
+| bip_39_word_no_space_4 | weaponanotherstampmethod |  
+| bip_39_word_no_space_5 | weaponanotherstampmethodantique |  
+| bip_39_word_no_space_6 | weaponanotherstampmethodantiquegenuine |  
+| bip_39_word_no_space_7 | weaponanotherstampmethodantiquegenuinecushion |  
+| bip_39_word_no_space_8 | weaponanotherstampmethodantiquegenuinecushiondinosaur |  
+| bip_39_word_no_space_9 | weaponanotherstampmethodantiquegenuinecushiondinosaurhold |  
 | bip_39_word_space_0 | ['weapon', 'another', 'stamp', 'method', 'antique', 'genuine', 'cushion', 'dinosaur', 'hold', 'nothing', 'mother', 'artist'] |  
 | bip_39_word_space_1 | weapon |  
 | bip_39_word_space_10 | weapon another stamp method antique genuine cushion dinosaur hold nothing |  

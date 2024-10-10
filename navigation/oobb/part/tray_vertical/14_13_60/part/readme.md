@@ -122,6 +122,18 @@ primary
 square
 dumb
 dune |  
+| bip_39_word_no_space_1 | hospital |  
+| bip_39_word_no_space_10 | hospitalgriefbasicnightpatternprimarysquaredumbdunebiology |  
+| bip_39_word_no_space_11 | hospitalgriefbasicnightpatternprimarysquaredumbdunebiologydrum |  
+| bip_39_word_no_space_12 | hospitalgriefbasicnightpatternprimarysquaredumbdunebiologydrumannual |  
+| bip_39_word_no_space_2 | hospitalgrief |  
+| bip_39_word_no_space_3 | hospitalgriefbasic |  
+| bip_39_word_no_space_4 | hospitalgriefbasicnight |  
+| bip_39_word_no_space_5 | hospitalgriefbasicnightpattern |  
+| bip_39_word_no_space_6 | hospitalgriefbasicnightpatternprimary |  
+| bip_39_word_no_space_7 | hospitalgriefbasicnightpatternprimarysquare |  
+| bip_39_word_no_space_8 | hospitalgriefbasicnightpatternprimarysquaredumb |  
+| bip_39_word_no_space_9 | hospitalgriefbasicnightpatternprimarysquaredumbdune |  
 | bip_39_word_space_0 | ['hospital', 'grief', 'basic', 'night', 'pattern', 'primary', 'square', 'dumb', 'dune', 'biology', 'drum', 'annual'] |  
 | bip_39_word_space_1 | hospital |  
 | bip_39_word_space_10 | hospital grief basic night pattern primary square dumb dune biology |  

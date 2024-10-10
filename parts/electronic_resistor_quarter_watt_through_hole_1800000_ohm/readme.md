@@ -122,6 +122,18 @@ assume
 snake
 false
 reveal |  
+| bip_39_word_no_space_1 | crucial |  
+| bip_39_word_no_space_10 | crucialunderprocessclothfossilassumesnakefalserevealalcohol |  
+| bip_39_word_no_space_11 | crucialunderprocessclothfossilassumesnakefalserevealalcoholpriority |  
+| bip_39_word_no_space_12 | crucialunderprocessclothfossilassumesnakefalserevealalcoholpriorityact |  
+| bip_39_word_no_space_2 | crucialunder |  
+| bip_39_word_no_space_3 | crucialunderprocess |  
+| bip_39_word_no_space_4 | crucialunderprocesscloth |  
+| bip_39_word_no_space_5 | crucialunderprocessclothfossil |  
+| bip_39_word_no_space_6 | crucialunderprocessclothfossilassume |  
+| bip_39_word_no_space_7 | crucialunderprocessclothfossilassumesnake |  
+| bip_39_word_no_space_8 | crucialunderprocessclothfossilassumesnakefalse |  
+| bip_39_word_no_space_9 | crucialunderprocessclothfossilassumesnakefalsereveal |  
 | bip_39_word_space_0 | ['crucial', 'under', 'process', 'cloth', 'fossil', 'assume', 'snake', 'false', 'reveal', 'alcohol', 'priority', 'act'] |  
 | bip_39_word_space_1 | crucial |  
 | bip_39_word_space_10 | crucial under process cloth fossil assume snake false reveal alcohol |  

@@ -122,6 +122,18 @@ connect
 power
 season
 gaze |  
+| bip_39_word_no_space_1 | force |  
+| bip_39_word_no_space_10 | forceshadowembarkgrabguardconnectpowerseasongazegather |  
+| bip_39_word_no_space_11 | forceshadowembarkgrabguardconnectpowerseasongazegatherclaw |  
+| bip_39_word_no_space_12 | forceshadowembarkgrabguardconnectpowerseasongazegatherclawathlete |  
+| bip_39_word_no_space_2 | forceshadow |  
+| bip_39_word_no_space_3 | forceshadowembark |  
+| bip_39_word_no_space_4 | forceshadowembarkgrab |  
+| bip_39_word_no_space_5 | forceshadowembarkgrabguard |  
+| bip_39_word_no_space_6 | forceshadowembarkgrabguardconnect |  
+| bip_39_word_no_space_7 | forceshadowembarkgrabguardconnectpower |  
+| bip_39_word_no_space_8 | forceshadowembarkgrabguardconnectpowerseason |  
+| bip_39_word_no_space_9 | forceshadowembarkgrabguardconnectpowerseasongaze |  
 | bip_39_word_space_0 | ['force', 'shadow', 'embark', 'grab', 'guard', 'connect', 'power', 'season', 'gaze', 'gather', 'claw', 'athlete'] |  
 | bip_39_word_space_1 | force |  
 | bip_39_word_space_10 | force shadow embark grab guard connect power season gaze gather |  

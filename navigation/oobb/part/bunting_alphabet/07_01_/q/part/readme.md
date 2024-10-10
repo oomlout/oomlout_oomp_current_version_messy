@@ -122,6 +122,18 @@ coconut
 fuel
 express
 indoor |  
+| bip_39_word_no_space_1 | improve |  
+| bip_39_word_no_space_10 | improverookielegcurrentcreamcoconutfuelexpressindooreyebrow |  
+| bip_39_word_no_space_11 | improverookielegcurrentcreamcoconutfuelexpressindooreyebrowthank |  
+| bip_39_word_no_space_12 | improverookielegcurrentcreamcoconutfuelexpressindooreyebrowthankabout |  
+| bip_39_word_no_space_2 | improverookie |  
+| bip_39_word_no_space_3 | improverookieleg |  
+| bip_39_word_no_space_4 | improverookielegcurrent |  
+| bip_39_word_no_space_5 | improverookielegcurrentcream |  
+| bip_39_word_no_space_6 | improverookielegcurrentcreamcoconut |  
+| bip_39_word_no_space_7 | improverookielegcurrentcreamcoconutfuel |  
+| bip_39_word_no_space_8 | improverookielegcurrentcreamcoconutfuelexpress |  
+| bip_39_word_no_space_9 | improverookielegcurrentcreamcoconutfuelexpressindoor |  
 | bip_39_word_space_0 | ['improve', 'rookie', 'leg', 'current', 'cream', 'coconut', 'fuel', 'express', 'indoor', 'eyebrow', 'thank', 'about'] |  
 | bip_39_word_space_1 | improve |  
 | bip_39_word_space_10 | improve rookie leg current cream coconut fuel express indoor eyebrow |  

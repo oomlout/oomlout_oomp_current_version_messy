@@ -122,6 +122,18 @@ fever
 cigar
 chest
 desk |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decideyouentryzoosharefevercigarchestdeskolympic |  
+| bip_39_word_no_space_11 | decideyouentryzoosharefevercigarchestdeskolympicpulp |  
+| bip_39_word_no_space_12 | decideyouentryzoosharefevercigarchestdeskolympicpulpactual |  
+| bip_39_word_no_space_2 | decideyou |  
+| bip_39_word_no_space_3 | decideyouentry |  
+| bip_39_word_no_space_4 | decideyouentryzoo |  
+| bip_39_word_no_space_5 | decideyouentryzooshare |  
+| bip_39_word_no_space_6 | decideyouentryzoosharefever |  
+| bip_39_word_no_space_7 | decideyouentryzoosharefevercigar |  
+| bip_39_word_no_space_8 | decideyouentryzoosharefevercigarchest |  
+| bip_39_word_no_space_9 | decideyouentryzoosharefevercigarchestdesk |  
 | bip_39_word_space_0 | ['decide', 'you', 'entry', 'zoo', 'share', 'fever', 'cigar', 'chest', 'desk', 'olympic', 'pulp', 'actual'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide you entry zoo share fever cigar chest desk olympic |  

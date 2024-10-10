@@ -122,6 +122,18 @@ sister
 bring
 soon
 truly |  
+| bip_39_word_no_space_1 | gesture |  
+| bip_39_word_no_space_10 | gesturerebelforkcliniccupboardsisterbringsoontrulyvisit |  
+| bip_39_word_no_space_11 | gesturerebelforkcliniccupboardsisterbringsoontrulyvisitseed |  
+| bip_39_word_no_space_12 | gesturerebelforkcliniccupboardsisterbringsoontrulyvisitseedadjust |  
+| bip_39_word_no_space_2 | gesturerebel |  
+| bip_39_word_no_space_3 | gesturerebelfork |  
+| bip_39_word_no_space_4 | gesturerebelforkclinic |  
+| bip_39_word_no_space_5 | gesturerebelforkcliniccupboard |  
+| bip_39_word_no_space_6 | gesturerebelforkcliniccupboardsister |  
+| bip_39_word_no_space_7 | gesturerebelforkcliniccupboardsisterbring |  
+| bip_39_word_no_space_8 | gesturerebelforkcliniccupboardsisterbringsoon |  
+| bip_39_word_no_space_9 | gesturerebelforkcliniccupboardsisterbringsoontruly |  
 | bip_39_word_space_0 | ['gesture', 'rebel', 'fork', 'clinic', 'cupboard', 'sister', 'bring', 'soon', 'truly', 'visit', 'seed', 'adjust'] |  
 | bip_39_word_space_1 | gesture |  
 | bip_39_word_space_10 | gesture rebel fork clinic cupboard sister bring soon truly visit |  

@@ -122,6 +122,18 @@ blanket
 column
 problem
 photo |  
+| bip_39_word_no_space_1 | modify |  
+| bip_39_word_no_space_10 | modifyadaptoilverifysisterblanketcolumnproblemphotoresult |  
+| bip_39_word_no_space_11 | modifyadaptoilverifysisterblanketcolumnproblemphotoresultshadow |  
+| bip_39_word_no_space_12 | modifyadaptoilverifysisterblanketcolumnproblemphotoresultshadowartist |  
+| bip_39_word_no_space_2 | modifyadapt |  
+| bip_39_word_no_space_3 | modifyadaptoil |  
+| bip_39_word_no_space_4 | modifyadaptoilverify |  
+| bip_39_word_no_space_5 | modifyadaptoilverifysister |  
+| bip_39_word_no_space_6 | modifyadaptoilverifysisterblanket |  
+| bip_39_word_no_space_7 | modifyadaptoilverifysisterblanketcolumn |  
+| bip_39_word_no_space_8 | modifyadaptoilverifysisterblanketcolumnproblem |  
+| bip_39_word_no_space_9 | modifyadaptoilverifysisterblanketcolumnproblemphoto |  
 | bip_39_word_space_0 | ['modify', 'adapt', 'oil', 'verify', 'sister', 'blanket', 'column', 'problem', 'photo', 'result', 'shadow', 'artist'] |  
 | bip_39_word_space_1 | modify |  
 | bip_39_word_space_10 | modify adapt oil verify sister blanket column problem photo result |  

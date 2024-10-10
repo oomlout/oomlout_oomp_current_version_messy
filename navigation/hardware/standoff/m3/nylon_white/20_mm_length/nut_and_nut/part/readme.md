@@ -122,6 +122,18 @@ lake
 logic
 lawn
 pear |  
+| bip_39_word_no_space_1 | enough |  
+| bip_39_word_no_space_10 | enoughhellomarketcurvemaximumlakelogiclawnpearprefer |  
+| bip_39_word_no_space_11 | enoughhellomarketcurvemaximumlakelogiclawnpearprefermiracle |  
+| bip_39_word_no_space_12 | enoughhellomarketcurvemaximumlakelogiclawnpearprefermiracleacross |  
+| bip_39_word_no_space_2 | enoughhello |  
+| bip_39_word_no_space_3 | enoughhellomarket |  
+| bip_39_word_no_space_4 | enoughhellomarketcurve |  
+| bip_39_word_no_space_5 | enoughhellomarketcurvemaximum |  
+| bip_39_word_no_space_6 | enoughhellomarketcurvemaximumlake |  
+| bip_39_word_no_space_7 | enoughhellomarketcurvemaximumlakelogic |  
+| bip_39_word_no_space_8 | enoughhellomarketcurvemaximumlakelogiclawn |  
+| bip_39_word_no_space_9 | enoughhellomarketcurvemaximumlakelogiclawnpear |  
 | bip_39_word_space_0 | ['enough', 'hello', 'market', 'curve', 'maximum', 'lake', 'logic', 'lawn', 'pear', 'prefer', 'miracle', 'across'] |  
 | bip_39_word_space_1 | enough |  
 | bip_39_word_space_10 | enough hello market curve maximum lake logic lawn pear prefer |  

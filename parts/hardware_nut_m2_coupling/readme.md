@@ -122,6 +122,18 @@ father
 arch
 letter
 quit |  
+| bip_39_word_no_space_1 | turkey |  
+| bip_39_word_no_space_10 | turkeyroofpolewifedifferfatherarchletterquitenhance |  
+| bip_39_word_no_space_11 | turkeyroofpolewifedifferfatherarchletterquitenhanceinspire |  
+| bip_39_word_no_space_12 | turkeyroofpolewifedifferfatherarchletterquitenhanceinspireactual |  
+| bip_39_word_no_space_2 | turkeyroof |  
+| bip_39_word_no_space_3 | turkeyroofpole |  
+| bip_39_word_no_space_4 | turkeyroofpolewife |  
+| bip_39_word_no_space_5 | turkeyroofpolewifediffer |  
+| bip_39_word_no_space_6 | turkeyroofpolewifedifferfather |  
+| bip_39_word_no_space_7 | turkeyroofpolewifedifferfatherarch |  
+| bip_39_word_no_space_8 | turkeyroofpolewifedifferfatherarchletter |  
+| bip_39_word_no_space_9 | turkeyroofpolewifedifferfatherarchletterquit |  
 | bip_39_word_space_0 | ['turkey', 'roof', 'pole', 'wife', 'differ', 'father', 'arch', 'letter', 'quit', 'enhance', 'inspire', 'actual'] |  
 | bip_39_word_space_1 | turkey |  
 | bip_39_word_space_10 | turkey roof pole wife differ father arch letter quit enhance |  

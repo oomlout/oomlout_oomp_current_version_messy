@@ -122,6 +122,18 @@ time
 kiwi
 mule
 uncle |  
+| bip_39_word_no_space_1 | inner |  
+| bip_39_word_no_space_10 | innergrainleftgasmerrytimekiwimuleuncledeer |  
+| bip_39_word_no_space_11 | innergrainleftgasmerrytimekiwimuleuncledeertheory |  
+| bip_39_word_no_space_12 | innergrainleftgasmerrytimekiwimuleuncledeertheoryaverage |  
+| bip_39_word_no_space_2 | innergrain |  
+| bip_39_word_no_space_3 | innergrainleft |  
+| bip_39_word_no_space_4 | innergrainleftgas |  
+| bip_39_word_no_space_5 | innergrainleftgasmerry |  
+| bip_39_word_no_space_6 | innergrainleftgasmerrytime |  
+| bip_39_word_no_space_7 | innergrainleftgasmerrytimekiwi |  
+| bip_39_word_no_space_8 | innergrainleftgasmerrytimekiwimule |  
+| bip_39_word_no_space_9 | innergrainleftgasmerrytimekiwimuleuncle |  
 | bip_39_word_space_0 | ['inner', 'grain', 'left', 'gas', 'merry', 'time', 'kiwi', 'mule', 'uncle', 'deer', 'theory', 'average'] |  
 | bip_39_word_space_1 | inner |  
 | bip_39_word_space_10 | inner grain left gas merry time kiwi mule uncle deer |  

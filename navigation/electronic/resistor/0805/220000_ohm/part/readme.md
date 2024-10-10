@@ -122,6 +122,18 @@ diary
 recipe
 festival
 thrive |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistfrownholdhatmiserydiaryrecipefestivalthriveworth |  
+| bip_39_word_no_space_11 | resistfrownholdhatmiserydiaryrecipefestivalthriveworthcage |  
+| bip_39_word_no_space_12 | resistfrownholdhatmiserydiaryrecipefestivalthriveworthcageassault |  
+| bip_39_word_no_space_2 | resistfrown |  
+| bip_39_word_no_space_3 | resistfrownhold |  
+| bip_39_word_no_space_4 | resistfrownholdhat |  
+| bip_39_word_no_space_5 | resistfrownholdhatmisery |  
+| bip_39_word_no_space_6 | resistfrownholdhatmiserydiary |  
+| bip_39_word_no_space_7 | resistfrownholdhatmiserydiaryrecipe |  
+| bip_39_word_no_space_8 | resistfrownholdhatmiserydiaryrecipefestival |  
+| bip_39_word_no_space_9 | resistfrownholdhatmiserydiaryrecipefestivalthrive |  
 | bip_39_word_space_0 | ['resist', 'frown', 'hold', 'hat', 'misery', 'diary', 'recipe', 'festival', 'thrive', 'worth', 'cage', 'assault'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist frown hold hat misery diary recipe festival thrive worth |  

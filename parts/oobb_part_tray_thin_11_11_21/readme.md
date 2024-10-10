@@ -122,6 +122,18 @@ alcohol
 humor
 nation
 renew |  
+| bip_39_word_no_space_1 | grace |  
+| bip_39_word_no_space_10 | gracedrysoapkneeclusteralcoholhumornationrenewwrite |  
+| bip_39_word_no_space_11 | gracedrysoapkneeclusteralcoholhumornationrenewwritearrow |  
+| bip_39_word_no_space_12 | gracedrysoapkneeclusteralcoholhumornationrenewwritearrowachieve |  
+| bip_39_word_no_space_2 | gracedry |  
+| bip_39_word_no_space_3 | gracedrysoap |  
+| bip_39_word_no_space_4 | gracedrysoapknee |  
+| bip_39_word_no_space_5 | gracedrysoapkneecluster |  
+| bip_39_word_no_space_6 | gracedrysoapkneeclusteralcohol |  
+| bip_39_word_no_space_7 | gracedrysoapkneeclusteralcoholhumor |  
+| bip_39_word_no_space_8 | gracedrysoapkneeclusteralcoholhumornation |  
+| bip_39_word_no_space_9 | gracedrysoapkneeclusteralcoholhumornationrenew |  
 | bip_39_word_space_0 | ['grace', 'dry', 'soap', 'knee', 'cluster', 'alcohol', 'humor', 'nation', 'renew', 'write', 'arrow', 'achieve'] |  
 | bip_39_word_space_1 | grace |  
 | bip_39_word_space_10 | grace dry soap knee cluster alcohol humor nation renew write |  

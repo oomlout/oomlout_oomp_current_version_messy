@@ -122,6 +122,18 @@ plate
 dune
 rug
 world |  
+| bip_39_word_no_space_1 | easy |  
+| bip_39_word_no_space_10 | easyquarterthissalutecourseplatedunerugworldslot |  
+| bip_39_word_no_space_11 | easyquarterthissalutecourseplatedunerugworldslotbrown |  
+| bip_39_word_no_space_12 | easyquarterthissalutecourseplatedunerugworldslotbrownadult |  
+| bip_39_word_no_space_2 | easyquarter |  
+| bip_39_word_no_space_3 | easyquarterthis |  
+| bip_39_word_no_space_4 | easyquarterthissalute |  
+| bip_39_word_no_space_5 | easyquarterthissalutecourse |  
+| bip_39_word_no_space_6 | easyquarterthissalutecourseplate |  
+| bip_39_word_no_space_7 | easyquarterthissalutecourseplatedune |  
+| bip_39_word_no_space_8 | easyquarterthissalutecourseplatedunerug |  
+| bip_39_word_no_space_9 | easyquarterthissalutecourseplatedunerugworld |  
 | bip_39_word_space_0 | ['easy', 'quarter', 'this', 'salute', 'course', 'plate', 'dune', 'rug', 'world', 'slot', 'brown', 'adult'] |  
 | bip_39_word_space_1 | easy |  
 | bip_39_word_space_10 | easy quarter this salute course plate dune rug world slot |  

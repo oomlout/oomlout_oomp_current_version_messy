@@ -122,6 +122,18 @@ type
 tuition
 oxygen
 raccoon |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spiderinputoncetornadoaimtypetuitionoxygenraccoonhospital |  
+| bip_39_word_no_space_11 | spiderinputoncetornadoaimtypetuitionoxygenraccoonhospitaldoctor |  
+| bip_39_word_no_space_12 | spiderinputoncetornadoaimtypetuitionoxygenraccoonhospitaldoctorarm |  
+| bip_39_word_no_space_2 | spiderinput |  
+| bip_39_word_no_space_3 | spiderinputonce |  
+| bip_39_word_no_space_4 | spiderinputoncetornado |  
+| bip_39_word_no_space_5 | spiderinputoncetornadoaim |  
+| bip_39_word_no_space_6 | spiderinputoncetornadoaimtype |  
+| bip_39_word_no_space_7 | spiderinputoncetornadoaimtypetuition |  
+| bip_39_word_no_space_8 | spiderinputoncetornadoaimtypetuitionoxygen |  
+| bip_39_word_no_space_9 | spiderinputoncetornadoaimtypetuitionoxygenraccoon |  
 | bip_39_word_space_0 | ['spider', 'input', 'once', 'tornado', 'aim', 'type', 'tuition', 'oxygen', 'raccoon', 'hospital', 'doctor', 'arm'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider input once tornado aim type tuition oxygen raccoon hospital |  

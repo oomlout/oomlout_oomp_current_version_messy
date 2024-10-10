@@ -122,6 +122,18 @@ leopard
 wedding
 nerve
 swarm |  
+| bip_39_word_no_space_1 | wear |  
+| bip_39_word_no_space_10 | wearfrontalphadrillsprayleopardweddingnerveswarmdanger |  
+| bip_39_word_no_space_11 | wearfrontalphadrillsprayleopardweddingnerveswarmdangerbuild |  
+| bip_39_word_no_space_12 | wearfrontalphadrillsprayleopardweddingnerveswarmdangerbuildaccuse |  
+| bip_39_word_no_space_2 | wearfront |  
+| bip_39_word_no_space_3 | wearfrontalpha |  
+| bip_39_word_no_space_4 | wearfrontalphadrill |  
+| bip_39_word_no_space_5 | wearfrontalphadrillspray |  
+| bip_39_word_no_space_6 | wearfrontalphadrillsprayleopard |  
+| bip_39_word_no_space_7 | wearfrontalphadrillsprayleopardwedding |  
+| bip_39_word_no_space_8 | wearfrontalphadrillsprayleopardweddingnerve |  
+| bip_39_word_no_space_9 | wearfrontalphadrillsprayleopardweddingnerveswarm |  
 | bip_39_word_space_0 | ['wear', 'front', 'alpha', 'drill', 'spray', 'leopard', 'wedding', 'nerve', 'swarm', 'danger', 'build', 'accuse'] |  
 | bip_39_word_space_1 | wear |  
 | bip_39_word_space_10 | wear front alpha drill spray leopard wedding nerve swarm danger |  

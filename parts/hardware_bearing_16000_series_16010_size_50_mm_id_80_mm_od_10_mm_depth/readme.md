@@ -122,6 +122,18 @@ erode
 umbrella
 poverty
 cinnamon |  
+| bip_39_word_no_space_1 | skirt |  
+| bip_39_word_no_space_10 | skirtagedepartcagebalanceerodeumbrellapovertycinnamonpoet |  
+| bip_39_word_no_space_11 | skirtagedepartcagebalanceerodeumbrellapovertycinnamonpoetpark |  
+| bip_39_word_no_space_12 | skirtagedepartcagebalanceerodeumbrellapovertycinnamonpoetparkanswer |  
+| bip_39_word_no_space_2 | skirtage |  
+| bip_39_word_no_space_3 | skirtagedepart |  
+| bip_39_word_no_space_4 | skirtagedepartcage |  
+| bip_39_word_no_space_5 | skirtagedepartcagebalance |  
+| bip_39_word_no_space_6 | skirtagedepartcagebalanceerode |  
+| bip_39_word_no_space_7 | skirtagedepartcagebalanceerodeumbrella |  
+| bip_39_word_no_space_8 | skirtagedepartcagebalanceerodeumbrellapoverty |  
+| bip_39_word_no_space_9 | skirtagedepartcagebalanceerodeumbrellapovertycinnamon |  
 | bip_39_word_space_0 | ['skirt', 'age', 'depart', 'cage', 'balance', 'erode', 'umbrella', 'poverty', 'cinnamon', 'poet', 'park', 'answer'] |  
 | bip_39_word_space_1 | skirt |  
 | bip_39_word_space_10 | skirt age depart cage balance erode umbrella poverty cinnamon poet |  

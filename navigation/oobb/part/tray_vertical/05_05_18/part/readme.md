@@ -122,6 +122,18 @@ slight
 belt
 sleep
 shell |  
+| bip_39_word_no_space_1 | ten |  
+| bip_39_word_no_space_10 | tenfoundivoryvastreunionslightbeltsleepshellknow |  
+| bip_39_word_no_space_11 | tenfoundivoryvastreunionslightbeltsleepshellknowfade |  
+| bip_39_word_no_space_12 | tenfoundivoryvastreunionslightbeltsleepshellknowfadeask |  
+| bip_39_word_no_space_2 | tenfound |  
+| bip_39_word_no_space_3 | tenfoundivory |  
+| bip_39_word_no_space_4 | tenfoundivoryvast |  
+| bip_39_word_no_space_5 | tenfoundivoryvastreunion |  
+| bip_39_word_no_space_6 | tenfoundivoryvastreunionslight |  
+| bip_39_word_no_space_7 | tenfoundivoryvastreunionslightbelt |  
+| bip_39_word_no_space_8 | tenfoundivoryvastreunionslightbeltsleep |  
+| bip_39_word_no_space_9 | tenfoundivoryvastreunionslightbeltsleepshell |  
 | bip_39_word_space_0 | ['ten', 'found', 'ivory', 'vast', 'reunion', 'slight', 'belt', 'sleep', 'shell', 'know', 'fade', 'ask'] |  
 | bip_39_word_space_1 | ten |  
 | bip_39_word_space_10 | ten found ivory vast reunion slight belt sleep shell know |  

@@ -122,6 +122,18 @@ illegal
 mistake
 door
 dad |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illokaycomeflatathleteillegalmistakedoordadeast |  
+| bip_39_word_no_space_11 | illokaycomeflatathleteillegalmistakedoordadeastlegend |  
+| bip_39_word_no_space_12 | illokaycomeflatathleteillegalmistakedoordadeastlegendanger |  
+| bip_39_word_no_space_2 | illokay |  
+| bip_39_word_no_space_3 | illokaycome |  
+| bip_39_word_no_space_4 | illokaycomeflat |  
+| bip_39_word_no_space_5 | illokaycomeflatathlete |  
+| bip_39_word_no_space_6 | illokaycomeflatathleteillegal |  
+| bip_39_word_no_space_7 | illokaycomeflatathleteillegalmistake |  
+| bip_39_word_no_space_8 | illokaycomeflatathleteillegalmistakedoor |  
+| bip_39_word_no_space_9 | illokaycomeflatathleteillegalmistakedoordad |  
 | bip_39_word_space_0 | ['ill', 'okay', 'come', 'flat', 'athlete', 'illegal', 'mistake', 'door', 'dad', 'east', 'legend', 'anger'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill okay come flat athlete illegal mistake door dad east |  

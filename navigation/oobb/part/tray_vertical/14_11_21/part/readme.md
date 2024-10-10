@@ -122,6 +122,18 @@ lunch
 shoe
 powder
 vocal |  
+| bip_39_word_no_space_1 | sadness |  
+| bip_39_word_no_space_10 | sadnessforceboateternalflocklunchshoepowdervocalrely |  
+| bip_39_word_no_space_11 | sadnessforceboateternalflocklunchshoepowdervocalrelytoss |  
+| bip_39_word_no_space_12 | sadnessforceboateternalflocklunchshoepowdervocalrelytossasset |  
+| bip_39_word_no_space_2 | sadnessforce |  
+| bip_39_word_no_space_3 | sadnessforceboat |  
+| bip_39_word_no_space_4 | sadnessforceboateternal |  
+| bip_39_word_no_space_5 | sadnessforceboateternalflock |  
+| bip_39_word_no_space_6 | sadnessforceboateternalflocklunch |  
+| bip_39_word_no_space_7 | sadnessforceboateternalflocklunchshoe |  
+| bip_39_word_no_space_8 | sadnessforceboateternalflocklunchshoepowder |  
+| bip_39_word_no_space_9 | sadnessforceboateternalflocklunchshoepowdervocal |  
 | bip_39_word_space_0 | ['sadness', 'force', 'boat', 'eternal', 'flock', 'lunch', 'shoe', 'powder', 'vocal', 'rely', 'toss', 'asset'] |  
 | bip_39_word_space_1 | sadness |  
 | bip_39_word_space_10 | sadness force boat eternal flock lunch shoe powder vocal rely |  

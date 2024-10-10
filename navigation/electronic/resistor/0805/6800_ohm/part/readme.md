@@ -122,6 +122,18 @@ balcony
 demand
 ghost
 dove |  
+| bip_39_word_no_space_1 | column |  
+| bip_39_word_no_space_10 | columnspicefarmcuptimebalconydemandghostdovecarry |  
+| bip_39_word_no_space_11 | columnspicefarmcuptimebalconydemandghostdovecarryexhaust |  
+| bip_39_word_no_space_12 | columnspicefarmcuptimebalconydemandghostdovecarryexhaustafraid |  
+| bip_39_word_no_space_2 | columnspice |  
+| bip_39_word_no_space_3 | columnspicefarm |  
+| bip_39_word_no_space_4 | columnspicefarmcup |  
+| bip_39_word_no_space_5 | columnspicefarmcuptime |  
+| bip_39_word_no_space_6 | columnspicefarmcuptimebalcony |  
+| bip_39_word_no_space_7 | columnspicefarmcuptimebalconydemand |  
+| bip_39_word_no_space_8 | columnspicefarmcuptimebalconydemandghost |  
+| bip_39_word_no_space_9 | columnspicefarmcuptimebalconydemandghostdove |  
 | bip_39_word_space_0 | ['column', 'spice', 'farm', 'cup', 'time', 'balcony', 'demand', 'ghost', 'dove', 'carry', 'exhaust', 'afraid'] |  
 | bip_39_word_space_1 | column |  
 | bip_39_word_space_10 | column spice farm cup time balcony demand ghost dove carry |  

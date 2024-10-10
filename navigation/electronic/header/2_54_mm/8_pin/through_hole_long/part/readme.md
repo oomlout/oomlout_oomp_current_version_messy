@@ -122,6 +122,18 @@ bird
 fury
 cement
 lunch |  
+| bip_39_word_no_space_1 | race |  
+| bip_39_word_no_space_10 | raceidealaptopgiantbracketbirdfurycementlunchsugar |  
+| bip_39_word_no_space_11 | raceidealaptopgiantbracketbirdfurycementlunchsugartunnel |  
+| bip_39_word_no_space_12 | raceidealaptopgiantbracketbirdfurycementlunchsugartunnelangry |  
+| bip_39_word_no_space_2 | raceidea |  
+| bip_39_word_no_space_3 | raceidealaptop |  
+| bip_39_word_no_space_4 | raceidealaptopgiant |  
+| bip_39_word_no_space_5 | raceidealaptopgiantbracket |  
+| bip_39_word_no_space_6 | raceidealaptopgiantbracketbird |  
+| bip_39_word_no_space_7 | raceidealaptopgiantbracketbirdfury |  
+| bip_39_word_no_space_8 | raceidealaptopgiantbracketbirdfurycement |  
+| bip_39_word_no_space_9 | raceidealaptopgiantbracketbirdfurycementlunch |  
 | bip_39_word_space_0 | ['race', 'idea', 'laptop', 'giant', 'bracket', 'bird', 'fury', 'cement', 'lunch', 'sugar', 'tunnel', 'angry'] |  
 | bip_39_word_space_1 | race |  
 | bip_39_word_space_10 | race idea laptop giant bracket bird fury cement lunch sugar |  

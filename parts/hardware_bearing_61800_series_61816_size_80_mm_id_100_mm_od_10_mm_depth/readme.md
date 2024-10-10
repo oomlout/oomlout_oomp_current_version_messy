@@ -122,6 +122,18 @@ finish
 goat
 piece
 car |  
+| bip_39_word_no_space_1 | frog |  
+| bip_39_word_no_space_10 | frogclawrentfitlakefinishgoatpiececarbronze |  
+| bip_39_word_no_space_11 | frogclawrentfitlakefinishgoatpiececarbronzeecho |  
+| bip_39_word_no_space_12 | frogclawrentfitlakefinishgoatpiececarbronzeechoapprove |  
+| bip_39_word_no_space_2 | frogclaw |  
+| bip_39_word_no_space_3 | frogclawrent |  
+| bip_39_word_no_space_4 | frogclawrentfit |  
+| bip_39_word_no_space_5 | frogclawrentfitlake |  
+| bip_39_word_no_space_6 | frogclawrentfitlakefinish |  
+| bip_39_word_no_space_7 | frogclawrentfitlakefinishgoat |  
+| bip_39_word_no_space_8 | frogclawrentfitlakefinishgoatpiece |  
+| bip_39_word_no_space_9 | frogclawrentfitlakefinishgoatpiececar |  
 | bip_39_word_space_0 | ['frog', 'claw', 'rent', 'fit', 'lake', 'finish', 'goat', 'piece', 'car', 'bronze', 'echo', 'approve'] |  
 | bip_39_word_space_1 | frog |  
 | bip_39_word_space_10 | frog claw rent fit lake finish goat piece car bronze |  

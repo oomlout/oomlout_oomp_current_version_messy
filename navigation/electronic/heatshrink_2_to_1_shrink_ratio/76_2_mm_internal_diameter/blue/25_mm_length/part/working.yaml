@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'skirt
   coast
 
   pupil'
+bip_39_word_no_space_1: skirt
+bip_39_word_no_space_10: skirtrareprivateprettywaveeightvelvetcoastpupilfront
+bip_39_word_no_space_11: skirtrareprivateprettywaveeightvelvetcoastpupilfrontlazy
+bip_39_word_no_space_12: skirtrareprivateprettywaveeightvelvetcoastpupilfrontlazyapple
+bip_39_word_no_space_2: skirtrare
+bip_39_word_no_space_3: skirtrareprivate
+bip_39_word_no_space_4: skirtrareprivatepretty
+bip_39_word_no_space_5: skirtrareprivateprettywave
+bip_39_word_no_space_6: skirtrareprivateprettywaveeight
+bip_39_word_no_space_7: skirtrareprivateprettywaveeightvelvet
+bip_39_word_no_space_8: skirtrareprivateprettywaveeightvelvetcoast
+bip_39_word_no_space_9: skirtrareprivateprettywaveeightvelvetcoastpupil
 bip_39_word_space_0:
 - skirt
 - rare

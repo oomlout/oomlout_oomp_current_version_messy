@@ -122,6 +122,18 @@ orient
 awake
 suit
 shed |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netgrainhobbysorthedgehogorientawakesuitshedextra |  
+| bip_39_word_no_space_11 | netgrainhobbysorthedgehogorientawakesuitshedextratopic |  
+| bip_39_word_no_space_12 | netgrainhobbysorthedgehogorientawakesuitshedextratopicavocado |  
+| bip_39_word_no_space_2 | netgrain |  
+| bip_39_word_no_space_3 | netgrainhobby |  
+| bip_39_word_no_space_4 | netgrainhobbysort |  
+| bip_39_word_no_space_5 | netgrainhobbysorthedgehog |  
+| bip_39_word_no_space_6 | netgrainhobbysorthedgehogorient |  
+| bip_39_word_no_space_7 | netgrainhobbysorthedgehogorientawake |  
+| bip_39_word_no_space_8 | netgrainhobbysorthedgehogorientawakesuit |  
+| bip_39_word_no_space_9 | netgrainhobbysorthedgehogorientawakesuitshed |  
 | bip_39_word_space_0 | ['net', 'grain', 'hobby', 'sort', 'hedgehog', 'orient', 'awake', 'suit', 'shed', 'extra', 'topic', 'avocado'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net grain hobby sort hedgehog orient awake suit shed extra |  

@@ -122,6 +122,18 @@ top
 toast
 lock
 million |  
+| bip_39_word_no_space_1 | frozen |  
+| bip_39_word_no_space_10 | frozenmajorlimbhawkabouttoptoastlockmillionrocket |  
+| bip_39_word_no_space_11 | frozenmajorlimbhawkabouttoptoastlockmillionrocketthumb |  
+| bip_39_word_no_space_12 | frozenmajorlimbhawkabouttoptoastlockmillionrocketthumballow |  
+| bip_39_word_no_space_2 | frozenmajor |  
+| bip_39_word_no_space_3 | frozenmajorlimb |  
+| bip_39_word_no_space_4 | frozenmajorlimbhawk |  
+| bip_39_word_no_space_5 | frozenmajorlimbhawkabout |  
+| bip_39_word_no_space_6 | frozenmajorlimbhawkabouttop |  
+| bip_39_word_no_space_7 | frozenmajorlimbhawkabouttoptoast |  
+| bip_39_word_no_space_8 | frozenmajorlimbhawkabouttoptoastlock |  
+| bip_39_word_no_space_9 | frozenmajorlimbhawkabouttoptoastlockmillion |  
 | bip_39_word_space_0 | ['frozen', 'major', 'limb', 'hawk', 'about', 'top', 'toast', 'lock', 'million', 'rocket', 'thumb', 'allow'] |  
 | bip_39_word_space_1 | frozen |  
 | bip_39_word_space_10 | frozen major limb hawk about top toast lock million rocket |  

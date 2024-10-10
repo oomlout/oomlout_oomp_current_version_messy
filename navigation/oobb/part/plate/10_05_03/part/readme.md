@@ -122,6 +122,18 @@ either
 alter
 urge
 switch |  
+| bip_39_word_no_space_1 | topic |  
+| bip_39_word_no_space_10 | topicbelieveegggarmentlisteitheralterurgeswitchslight |  
+| bip_39_word_no_space_11 | topicbelieveegggarmentlisteitheralterurgeswitchslightarrest |  
+| bip_39_word_no_space_12 | topicbelieveegggarmentlisteitheralterurgeswitchslightarrestachieve |  
+| bip_39_word_no_space_2 | topicbelieve |  
+| bip_39_word_no_space_3 | topicbelieveegg |  
+| bip_39_word_no_space_4 | topicbelieveegggarment |  
+| bip_39_word_no_space_5 | topicbelieveegggarmentlist |  
+| bip_39_word_no_space_6 | topicbelieveegggarmentlisteither |  
+| bip_39_word_no_space_7 | topicbelieveegggarmentlisteitheralter |  
+| bip_39_word_no_space_8 | topicbelieveegggarmentlisteitheralterurge |  
+| bip_39_word_no_space_9 | topicbelieveegggarmentlisteitheralterurgeswitch |  
 | bip_39_word_space_0 | ['topic', 'believe', 'egg', 'garment', 'list', 'either', 'alter', 'urge', 'switch', 'slight', 'arrest', 'achieve'] |  
 | bip_39_word_space_1 | topic |  
 | bip_39_word_space_10 | topic believe egg garment list either alter urge switch slight |  

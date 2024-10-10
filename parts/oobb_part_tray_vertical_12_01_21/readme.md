@@ -122,6 +122,18 @@ tag
 panic
 ski
 action |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygenflamejacketjuniorfencetagpanicskiactionslim |  
+| bip_39_word_no_space_11 | oxygenflamejacketjuniorfencetagpanicskiactionslimstage |  
+| bip_39_word_no_space_12 | oxygenflamejacketjuniorfencetagpanicskiactionslimstagearmy |  
+| bip_39_word_no_space_2 | oxygenflame |  
+| bip_39_word_no_space_3 | oxygenflamejacket |  
+| bip_39_word_no_space_4 | oxygenflamejacketjunior |  
+| bip_39_word_no_space_5 | oxygenflamejacketjuniorfence |  
+| bip_39_word_no_space_6 | oxygenflamejacketjuniorfencetag |  
+| bip_39_word_no_space_7 | oxygenflamejacketjuniorfencetagpanic |  
+| bip_39_word_no_space_8 | oxygenflamejacketjuniorfencetagpanicski |  
+| bip_39_word_no_space_9 | oxygenflamejacketjuniorfencetagpanicskiaction |  
 | bip_39_word_space_0 | ['oxygen', 'flame', 'jacket', 'junior', 'fence', 'tag', 'panic', 'ski', 'action', 'slim', 'stage', 'army'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen flame jacket junior fence tag panic ski action slim |  

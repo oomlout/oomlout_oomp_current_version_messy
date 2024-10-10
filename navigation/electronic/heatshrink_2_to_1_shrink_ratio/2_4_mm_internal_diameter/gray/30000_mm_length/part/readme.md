@@ -122,6 +122,18 @@ permit
 minor
 tip
 curve |  
+| bip_39_word_no_space_1 | cattle |  
+| bip_39_word_no_space_10 | cattlecherrywiseinvestideapermitminortipcurvecitizen |  
+| bip_39_word_no_space_11 | cattlecherrywiseinvestideapermitminortipcurvecitizenbind |  
+| bip_39_word_no_space_12 | cattlecherrywiseinvestideapermitminortipcurvecitizenbindacid |  
+| bip_39_word_no_space_2 | cattlecherry |  
+| bip_39_word_no_space_3 | cattlecherrywise |  
+| bip_39_word_no_space_4 | cattlecherrywiseinvest |  
+| bip_39_word_no_space_5 | cattlecherrywiseinvestidea |  
+| bip_39_word_no_space_6 | cattlecherrywiseinvestideapermit |  
+| bip_39_word_no_space_7 | cattlecherrywiseinvestideapermitminor |  
+| bip_39_word_no_space_8 | cattlecherrywiseinvestideapermitminortip |  
+| bip_39_word_no_space_9 | cattlecherrywiseinvestideapermitminortipcurve |  
 | bip_39_word_space_0 | ['cattle', 'cherry', 'wise', 'invest', 'idea', 'permit', 'minor', 'tip', 'curve', 'citizen', 'bind', 'acid'] |  
 | bip_39_word_space_1 | cattle |  
 | bip_39_word_space_10 | cattle cherry wise invest idea permit minor tip curve citizen |  

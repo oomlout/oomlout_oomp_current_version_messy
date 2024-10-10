@@ -122,6 +122,18 @@ tip
 shiver
 there
 hand |  
+| bip_39_word_no_space_1 | deny |  
+| bip_39_word_no_space_10 | denyexitinjuryabuseyellowtipshivertherehandgather |  
+| bip_39_word_no_space_11 | denyexitinjuryabuseyellowtipshivertherehandgatherman |  
+| bip_39_word_no_space_12 | denyexitinjuryabuseyellowtipshivertherehandgathermanartist |  
+| bip_39_word_no_space_2 | denyexit |  
+| bip_39_word_no_space_3 | denyexitinjury |  
+| bip_39_word_no_space_4 | denyexitinjuryabuse |  
+| bip_39_word_no_space_5 | denyexitinjuryabuseyellow |  
+| bip_39_word_no_space_6 | denyexitinjuryabuseyellowtip |  
+| bip_39_word_no_space_7 | denyexitinjuryabuseyellowtipshiver |  
+| bip_39_word_no_space_8 | denyexitinjuryabuseyellowtipshiverthere |  
+| bip_39_word_no_space_9 | denyexitinjuryabuseyellowtipshivertherehand |  
 | bip_39_word_space_0 | ['deny', 'exit', 'injury', 'abuse', 'yellow', 'tip', 'shiver', 'there', 'hand', 'gather', 'man', 'artist'] |  
 | bip_39_word_space_1 | deny |  
 | bip_39_word_space_10 | deny exit injury abuse yellow tip shiver there hand gather |  

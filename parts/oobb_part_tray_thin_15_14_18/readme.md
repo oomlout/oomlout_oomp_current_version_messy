@@ -122,6 +122,18 @@ north
 script
 story
 cat |  
+| bip_39_word_no_space_1 | disorder |  
+| bip_39_word_no_space_10 | disordersunnygazeskirtgirlnorthscriptstorycatobscure |  
+| bip_39_word_no_space_11 | disordersunnygazeskirtgirlnorthscriptstorycatobscuretool |  
+| bip_39_word_no_space_12 | disordersunnygazeskirtgirlnorthscriptstorycatobscuretoolask |  
+| bip_39_word_no_space_2 | disordersunny |  
+| bip_39_word_no_space_3 | disordersunnygaze |  
+| bip_39_word_no_space_4 | disordersunnygazeskirt |  
+| bip_39_word_no_space_5 | disordersunnygazeskirtgirl |  
+| bip_39_word_no_space_6 | disordersunnygazeskirtgirlnorth |  
+| bip_39_word_no_space_7 | disordersunnygazeskirtgirlnorthscript |  
+| bip_39_word_no_space_8 | disordersunnygazeskirtgirlnorthscriptstory |  
+| bip_39_word_no_space_9 | disordersunnygazeskirtgirlnorthscriptstorycat |  
 | bip_39_word_space_0 | ['disorder', 'sunny', 'gaze', 'skirt', 'girl', 'north', 'script', 'story', 'cat', 'obscure', 'tool', 'ask'] |  
 | bip_39_word_space_1 | disorder |  
 | bip_39_word_space_10 | disorder sunny gaze skirt girl north script story cat obscure |  

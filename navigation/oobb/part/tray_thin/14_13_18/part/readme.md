@@ -122,6 +122,18 @@ sustain
 raw
 lend
 spread |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonflashcustomjacketrunsustainrawlendspreadidle |  
+| bip_39_word_no_space_11 | ribbonflashcustomjacketrunsustainrawlendspreadidlelink |  
+| bip_39_word_no_space_12 | ribbonflashcustomjacketrunsustainrawlendspreadidlelinkattract |  
+| bip_39_word_no_space_2 | ribbonflash |  
+| bip_39_word_no_space_3 | ribbonflashcustom |  
+| bip_39_word_no_space_4 | ribbonflashcustomjacket |  
+| bip_39_word_no_space_5 | ribbonflashcustomjacketrun |  
+| bip_39_word_no_space_6 | ribbonflashcustomjacketrunsustain |  
+| bip_39_word_no_space_7 | ribbonflashcustomjacketrunsustainraw |  
+| bip_39_word_no_space_8 | ribbonflashcustomjacketrunsustainrawlend |  
+| bip_39_word_no_space_9 | ribbonflashcustomjacketrunsustainrawlendspread |  
 | bip_39_word_space_0 | ['ribbon', 'flash', 'custom', 'jacket', 'run', 'sustain', 'raw', 'lend', 'spread', 'idle', 'link', 'attract'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon flash custom jacket run sustain raw lend spread idle |  

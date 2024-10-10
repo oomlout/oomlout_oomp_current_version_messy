@@ -122,6 +122,18 @@ frog
 comfort
 spring
 tonight |  
+| bip_39_word_no_space_1 | demise |  
+| bip_39_word_no_space_10 | demiseteamgrapetoiletfinalfrogcomfortspringtonightdevelop |  
+| bip_39_word_no_space_11 | demiseteamgrapetoiletfinalfrogcomfortspringtonightdeveloponce |  
+| bip_39_word_no_space_12 | demiseteamgrapetoiletfinalfrogcomfortspringtonightdeveloponceaction |  
+| bip_39_word_no_space_2 | demiseteam |  
+| bip_39_word_no_space_3 | demiseteamgrape |  
+| bip_39_word_no_space_4 | demiseteamgrapetoilet |  
+| bip_39_word_no_space_5 | demiseteamgrapetoiletfinal |  
+| bip_39_word_no_space_6 | demiseteamgrapetoiletfinalfrog |  
+| bip_39_word_no_space_7 | demiseteamgrapetoiletfinalfrogcomfort |  
+| bip_39_word_no_space_8 | demiseteamgrapetoiletfinalfrogcomfortspring |  
+| bip_39_word_no_space_9 | demiseteamgrapetoiletfinalfrogcomfortspringtonight |  
 | bip_39_word_space_0 | ['demise', 'team', 'grape', 'toilet', 'final', 'frog', 'comfort', 'spring', 'tonight', 'develop', 'once', 'action'] |  
 | bip_39_word_space_1 | demise |  
 | bip_39_word_space_10 | demise team grape toilet final frog comfort spring tonight develop |  

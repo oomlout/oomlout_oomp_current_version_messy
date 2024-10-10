@@ -122,6 +122,18 @@ lend
 merit
 sure
 just |  
+| bip_39_word_no_space_1 | name |  
+| bip_39_word_no_space_10 | nametrialenterkitchenmutuallendmeritsurejustalso |  
+| bip_39_word_no_space_11 | nametrialenterkitchenmutuallendmeritsurejustalsocheap |  
+| bip_39_word_no_space_12 | nametrialenterkitchenmutuallendmeritsurejustalsocheapart |  
+| bip_39_word_no_space_2 | nametrial |  
+| bip_39_word_no_space_3 | nametrialenter |  
+| bip_39_word_no_space_4 | nametrialenterkitchen |  
+| bip_39_word_no_space_5 | nametrialenterkitchenmutual |  
+| bip_39_word_no_space_6 | nametrialenterkitchenmutuallend |  
+| bip_39_word_no_space_7 | nametrialenterkitchenmutuallendmerit |  
+| bip_39_word_no_space_8 | nametrialenterkitchenmutuallendmeritsure |  
+| bip_39_word_no_space_9 | nametrialenterkitchenmutuallendmeritsurejust |  
 | bip_39_word_space_0 | ['name', 'trial', 'enter', 'kitchen', 'mutual', 'lend', 'merit', 'sure', 'just', 'also', 'cheap', 'art'] |  
 | bip_39_word_space_1 | name |  
 | bip_39_word_space_10 | name trial enter kitchen mutual lend merit sure just also |  

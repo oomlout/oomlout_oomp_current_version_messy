@@ -122,6 +122,18 @@ cycle
 olive
 actual
 hint |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyleadertodayfixperfectcycleoliveactualhintbelow |  
+| bip_39_word_no_space_11 | hobbyleadertodayfixperfectcycleoliveactualhintbelowfoster |  
+| bip_39_word_no_space_12 | hobbyleadertodayfixperfectcycleoliveactualhintbelowfosteractual |  
+| bip_39_word_no_space_2 | hobbyleader |  
+| bip_39_word_no_space_3 | hobbyleadertoday |  
+| bip_39_word_no_space_4 | hobbyleadertodayfix |  
+| bip_39_word_no_space_5 | hobbyleadertodayfixperfect |  
+| bip_39_word_no_space_6 | hobbyleadertodayfixperfectcycle |  
+| bip_39_word_no_space_7 | hobbyleadertodayfixperfectcycleolive |  
+| bip_39_word_no_space_8 | hobbyleadertodayfixperfectcycleoliveactual |  
+| bip_39_word_no_space_9 | hobbyleadertodayfixperfectcycleoliveactualhint |  
 | bip_39_word_space_0 | ['hobby', 'leader', 'today', 'fix', 'perfect', 'cycle', 'olive', 'actual', 'hint', 'below', 'foster', 'actual'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby leader today fix perfect cycle olive actual hint below |  

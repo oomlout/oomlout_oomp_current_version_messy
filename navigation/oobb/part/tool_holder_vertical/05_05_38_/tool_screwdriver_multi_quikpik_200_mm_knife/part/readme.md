@@ -122,6 +122,18 @@ about
 digital
 bean
 ring |  
+| bip_39_word_no_space_1 | tiger |  
+| bip_39_word_no_space_10 | tigermaplesocialamusedvintageaboutdigitalbeanringleaf |  
+| bip_39_word_no_space_11 | tigermaplesocialamusedvintageaboutdigitalbeanringleafcurious |  
+| bip_39_word_no_space_12 | tigermaplesocialamusedvintageaboutdigitalbeanringleafcuriousamong |  
+| bip_39_word_no_space_2 | tigermaple |  
+| bip_39_word_no_space_3 | tigermaplesocial |  
+| bip_39_word_no_space_4 | tigermaplesocialamused |  
+| bip_39_word_no_space_5 | tigermaplesocialamusedvintage |  
+| bip_39_word_no_space_6 | tigermaplesocialamusedvintageabout |  
+| bip_39_word_no_space_7 | tigermaplesocialamusedvintageaboutdigital |  
+| bip_39_word_no_space_8 | tigermaplesocialamusedvintageaboutdigitalbean |  
+| bip_39_word_no_space_9 | tigermaplesocialamusedvintageaboutdigitalbeanring |  
 | bip_39_word_space_0 | ['tiger', 'maple', 'social', 'amused', 'vintage', 'about', 'digital', 'bean', 'ring', 'leaf', 'curious', 'among'] |  
 | bip_39_word_space_1 | tiger |  
 | bip_39_word_space_10 | tiger maple social amused vintage about digital bean ring leaf |  

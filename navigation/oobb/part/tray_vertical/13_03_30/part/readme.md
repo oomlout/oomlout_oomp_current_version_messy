@@ -122,6 +122,18 @@ scrub
 grit
 extend
 again |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdendeputyfaithrequirelaptopscrubgritextendagainoven |  
+| bip_39_word_no_space_11 | burdendeputyfaithrequirelaptopscrubgritextendagainovenlive |  
+| bip_39_word_no_space_12 | burdendeputyfaithrequirelaptopscrubgritextendagainovenliveaverage |  
+| bip_39_word_no_space_2 | burdendeputy |  
+| bip_39_word_no_space_3 | burdendeputyfaith |  
+| bip_39_word_no_space_4 | burdendeputyfaithrequire |  
+| bip_39_word_no_space_5 | burdendeputyfaithrequirelaptop |  
+| bip_39_word_no_space_6 | burdendeputyfaithrequirelaptopscrub |  
+| bip_39_word_no_space_7 | burdendeputyfaithrequirelaptopscrubgrit |  
+| bip_39_word_no_space_8 | burdendeputyfaithrequirelaptopscrubgritextend |  
+| bip_39_word_no_space_9 | burdendeputyfaithrequirelaptopscrubgritextendagain |  
 | bip_39_word_space_0 | ['burden', 'deputy', 'faith', 'require', 'laptop', 'scrub', 'grit', 'extend', 'again', 'oven', 'live', 'average'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden deputy faith require laptop scrub grit extend again oven |  

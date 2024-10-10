@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fatal
   urge
 
   before'
+bip_39_word_no_space_1: fatal
+bip_39_word_no_space_10: fatalsixmatterlockgridlaterpurposeurgebeforetreat
+bip_39_word_no_space_11: fatalsixmatterlockgridlaterpurposeurgebeforetreatweekend
+bip_39_word_no_space_12: fatalsixmatterlockgridlaterpurposeurgebeforetreatweekendartefact
+bip_39_word_no_space_2: fatalsix
+bip_39_word_no_space_3: fatalsixmatter
+bip_39_word_no_space_4: fatalsixmatterlock
+bip_39_word_no_space_5: fatalsixmatterlockgrid
+bip_39_word_no_space_6: fatalsixmatterlockgridlater
+bip_39_word_no_space_7: fatalsixmatterlockgridlaterpurpose
+bip_39_word_no_space_8: fatalsixmatterlockgridlaterpurposeurge
+bip_39_word_no_space_9: fatalsixmatterlockgridlaterpurposeurgebefore
 bip_39_word_space_0:
 - fatal
 - six

@@ -122,6 +122,18 @@ benefit
 month
 spawn
 dove |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenendlessladyclaymandatebenefitmonthspawndovetwice |  
+| bip_39_word_no_space_11 | citizenendlessladyclaymandatebenefitmonthspawndovetwicespray |  
+| bip_39_word_no_space_12 | citizenendlessladyclaymandatebenefitmonthspawndovetwicesprayapology |  
+| bip_39_word_no_space_2 | citizenendless |  
+| bip_39_word_no_space_3 | citizenendlesslady |  
+| bip_39_word_no_space_4 | citizenendlessladyclay |  
+| bip_39_word_no_space_5 | citizenendlessladyclaymandate |  
+| bip_39_word_no_space_6 | citizenendlessladyclaymandatebenefit |  
+| bip_39_word_no_space_7 | citizenendlessladyclaymandatebenefitmonth |  
+| bip_39_word_no_space_8 | citizenendlessladyclaymandatebenefitmonthspawn |  
+| bip_39_word_no_space_9 | citizenendlessladyclaymandatebenefitmonthspawndove |  
 | bip_39_word_space_0 | ['citizen', 'endless', 'lady', 'clay', 'mandate', 'benefit', 'month', 'spawn', 'dove', 'twice', 'spray', 'apology'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen endless lady clay mandate benefit month spawn dove twice |  

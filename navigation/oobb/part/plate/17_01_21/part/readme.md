@@ -122,6 +122,18 @@ bench
 end
 palace
 amount |  
+| bip_39_word_no_space_1 | twice |  
+| bip_39_word_no_space_10 | twicedaringstepmimicsciencebenchendpalaceamountshoot |  
+| bip_39_word_no_space_11 | twicedaringstepmimicsciencebenchendpalaceamountshootkid |  
+| bip_39_word_no_space_12 | twicedaringstepmimicsciencebenchendpalaceamountshootkidapprove |  
+| bip_39_word_no_space_2 | twicedaring |  
+| bip_39_word_no_space_3 | twicedaringstep |  
+| bip_39_word_no_space_4 | twicedaringstepmimic |  
+| bip_39_word_no_space_5 | twicedaringstepmimicscience |  
+| bip_39_word_no_space_6 | twicedaringstepmimicsciencebench |  
+| bip_39_word_no_space_7 | twicedaringstepmimicsciencebenchend |  
+| bip_39_word_no_space_8 | twicedaringstepmimicsciencebenchendpalace |  
+| bip_39_word_no_space_9 | twicedaringstepmimicsciencebenchendpalaceamount |  
 | bip_39_word_space_0 | ['twice', 'daring', 'step', 'mimic', 'science', 'bench', 'end', 'palace', 'amount', 'shoot', 'kid', 'approve'] |  
 | bip_39_word_space_1 | twice |  
 | bip_39_word_space_10 | twice daring step mimic science bench end palace amount shoot |  

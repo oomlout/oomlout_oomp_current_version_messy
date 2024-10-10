@@ -122,6 +122,18 @@ beyond
 roof
 wrap
 relief |  
+| bip_39_word_no_space_1 | exclude |  
+| bip_39_word_no_space_10 | excludekickartisthundredshrugbeyondroofwrapreliefprepare |  
+| bip_39_word_no_space_11 | excludekickartisthundredshrugbeyondroofwrapreliefpreparefrequent |  
+| bip_39_word_no_space_12 | excludekickartisthundredshrugbeyondroofwrapreliefpreparefrequentanimal |  
+| bip_39_word_no_space_2 | excludekick |  
+| bip_39_word_no_space_3 | excludekickartist |  
+| bip_39_word_no_space_4 | excludekickartisthundred |  
+| bip_39_word_no_space_5 | excludekickartisthundredshrug |  
+| bip_39_word_no_space_6 | excludekickartisthundredshrugbeyond |  
+| bip_39_word_no_space_7 | excludekickartisthundredshrugbeyondroof |  
+| bip_39_word_no_space_8 | excludekickartisthundredshrugbeyondroofwrap |  
+| bip_39_word_no_space_9 | excludekickartisthundredshrugbeyondroofwraprelief |  
 | bip_39_word_space_0 | ['exclude', 'kick', 'artist', 'hundred', 'shrug', 'beyond', 'roof', 'wrap', 'relief', 'prepare', 'frequent', 'animal'] |  
 | bip_39_word_space_1 | exclude |  
 | bip_39_word_space_10 | exclude kick artist hundred shrug beyond roof wrap relief prepare |  

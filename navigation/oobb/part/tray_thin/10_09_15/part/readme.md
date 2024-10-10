@@ -122,6 +122,18 @@ jewel
 child
 flavor
 rifle |  
+| bip_39_word_no_space_1 | need |  
+| bip_39_word_no_space_10 | needlovehoneysnowtissuejewelchildflavorrifleslender |  
+| bip_39_word_no_space_11 | needlovehoneysnowtissuejewelchildflavorrifleslenderneglect |  
+| bip_39_word_no_space_12 | needlovehoneysnowtissuejewelchildflavorrifleslenderneglectabuse |  
+| bip_39_word_no_space_2 | needlove |  
+| bip_39_word_no_space_3 | needlovehoney |  
+| bip_39_word_no_space_4 | needlovehoneysnow |  
+| bip_39_word_no_space_5 | needlovehoneysnowtissue |  
+| bip_39_word_no_space_6 | needlovehoneysnowtissuejewel |  
+| bip_39_word_no_space_7 | needlovehoneysnowtissuejewelchild |  
+| bip_39_word_no_space_8 | needlovehoneysnowtissuejewelchildflavor |  
+| bip_39_word_no_space_9 | needlovehoneysnowtissuejewelchildflavorrifle |  
 | bip_39_word_space_0 | ['need', 'love', 'honey', 'snow', 'tissue', 'jewel', 'child', 'flavor', 'rifle', 'slender', 'neglect', 'abuse'] |  
 | bip_39_word_space_1 | need |  
 | bip_39_word_space_10 | need love honey snow tissue jewel child flavor rifle slender |  

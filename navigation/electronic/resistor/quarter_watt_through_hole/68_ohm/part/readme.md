@@ -122,6 +122,18 @@ truck
 recipe
 perfect
 south |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logicsketchliftcheflunchtruckrecipeperfectsouthvalley |  
+| bip_39_word_no_space_11 | logicsketchliftcheflunchtruckrecipeperfectsouthvalleypurpose |  
+| bip_39_word_no_space_12 | logicsketchliftcheflunchtruckrecipeperfectsouthvalleypurposeapril |  
+| bip_39_word_no_space_2 | logicsketch |  
+| bip_39_word_no_space_3 | logicsketchlift |  
+| bip_39_word_no_space_4 | logicsketchliftchef |  
+| bip_39_word_no_space_5 | logicsketchliftcheflunch |  
+| bip_39_word_no_space_6 | logicsketchliftcheflunchtruck |  
+| bip_39_word_no_space_7 | logicsketchliftcheflunchtruckrecipe |  
+| bip_39_word_no_space_8 | logicsketchliftcheflunchtruckrecipeperfect |  
+| bip_39_word_no_space_9 | logicsketchliftcheflunchtruckrecipeperfectsouth |  
 | bip_39_word_space_0 | ['logic', 'sketch', 'lift', 'chef', 'lunch', 'truck', 'recipe', 'perfect', 'south', 'valley', 'purpose', 'april'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic sketch lift chef lunch truck recipe perfect south valley |  

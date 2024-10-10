@@ -122,6 +122,18 @@ pole
 leopard
 sense
 survey |  
+| bip_39_word_no_space_1 | useless |  
+| bip_39_word_no_space_10 | uselessdrivesilverreliefgovernpoleleopardsensesurveyprovide |  
+| bip_39_word_no_space_11 | uselessdrivesilverreliefgovernpoleleopardsensesurveyprovideclinic |  
+| bip_39_word_no_space_12 | uselessdrivesilverreliefgovernpoleleopardsensesurveyprovideclinicaerobic |  
+| bip_39_word_no_space_2 | uselessdrive |  
+| bip_39_word_no_space_3 | uselessdrivesilver |  
+| bip_39_word_no_space_4 | uselessdrivesilverrelief |  
+| bip_39_word_no_space_5 | uselessdrivesilverreliefgovern |  
+| bip_39_word_no_space_6 | uselessdrivesilverreliefgovernpole |  
+| bip_39_word_no_space_7 | uselessdrivesilverreliefgovernpoleleopard |  
+| bip_39_word_no_space_8 | uselessdrivesilverreliefgovernpoleleopardsense |  
+| bip_39_word_no_space_9 | uselessdrivesilverreliefgovernpoleleopardsensesurvey |  
 | bip_39_word_space_0 | ['useless', 'drive', 'silver', 'relief', 'govern', 'pole', 'leopard', 'sense', 'survey', 'provide', 'clinic', 'aerobic'] |  
 | bip_39_word_space_1 | useless |  
 | bip_39_word_space_10 | useless drive silver relief govern pole leopard sense survey provide |  

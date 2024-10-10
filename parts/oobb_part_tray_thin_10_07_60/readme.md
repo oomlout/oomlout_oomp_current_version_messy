@@ -122,6 +122,18 @@ kitchen
 snow
 debate
 great |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofbluecomematerialstillkitchensnowdebategreatbachelor |  
+| bip_39_word_no_space_11 | proofbluecomematerialstillkitchensnowdebategreatbacheloralcohol |  
+| bip_39_word_no_space_12 | proofbluecomematerialstillkitchensnowdebategreatbacheloralcoholaverage |  
+| bip_39_word_no_space_2 | proofblue |  
+| bip_39_word_no_space_3 | proofbluecome |  
+| bip_39_word_no_space_4 | proofbluecomematerial |  
+| bip_39_word_no_space_5 | proofbluecomematerialstill |  
+| bip_39_word_no_space_6 | proofbluecomematerialstillkitchen |  
+| bip_39_word_no_space_7 | proofbluecomematerialstillkitchensnow |  
+| bip_39_word_no_space_8 | proofbluecomematerialstillkitchensnowdebate |  
+| bip_39_word_no_space_9 | proofbluecomematerialstillkitchensnowdebategreat |  
 | bip_39_word_space_0 | ['proof', 'blue', 'come', 'material', 'still', 'kitchen', 'snow', 'debate', 'great', 'bachelor', 'alcohol', 'average'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof blue come material still kitchen snow debate great bachelor |  

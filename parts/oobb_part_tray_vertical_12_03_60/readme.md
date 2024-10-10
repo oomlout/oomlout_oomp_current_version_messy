@@ -122,6 +122,18 @@ decrease
 wrong
 error
 risk |  
+| bip_39_word_no_space_1 | drill |  
+| bip_39_word_no_space_10 | drillbodyhillriskimpulsedecreasewrongerrorriskcream |  
+| bip_39_word_no_space_11 | drillbodyhillriskimpulsedecreasewrongerrorriskcreamspatial |  
+| bip_39_word_no_space_12 | drillbodyhillriskimpulsedecreasewrongerrorriskcreamspatialaugust |  
+| bip_39_word_no_space_2 | drillbody |  
+| bip_39_word_no_space_3 | drillbodyhill |  
+| bip_39_word_no_space_4 | drillbodyhillrisk |  
+| bip_39_word_no_space_5 | drillbodyhillriskimpulse |  
+| bip_39_word_no_space_6 | drillbodyhillriskimpulsedecrease |  
+| bip_39_word_no_space_7 | drillbodyhillriskimpulsedecreasewrong |  
+| bip_39_word_no_space_8 | drillbodyhillriskimpulsedecreasewrongerror |  
+| bip_39_word_no_space_9 | drillbodyhillriskimpulsedecreasewrongerrorrisk |  
 | bip_39_word_space_0 | ['drill', 'body', 'hill', 'risk', 'impulse', 'decrease', 'wrong', 'error', 'risk', 'cream', 'spatial', 'august'] |  
 | bip_39_word_space_1 | drill |  
 | bip_39_word_space_10 | drill body hill risk impulse decrease wrong error risk cream |  

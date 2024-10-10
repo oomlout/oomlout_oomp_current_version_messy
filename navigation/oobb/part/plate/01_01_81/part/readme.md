@@ -122,6 +122,18 @@ kingdom
 fold
 achieve
 success |  
+| bip_39_word_no_space_1 | stumble |  
+| bip_39_word_no_space_10 | stumblesnackblindatommaterialkingdomfoldachievesuccesspull |  
+| bip_39_word_no_space_11 | stumblesnackblindatommaterialkingdomfoldachievesuccesspullsteel |  
+| bip_39_word_no_space_12 | stumblesnackblindatommaterialkingdomfoldachievesuccesspullsteelability |  
+| bip_39_word_no_space_2 | stumblesnack |  
+| bip_39_word_no_space_3 | stumblesnackblind |  
+| bip_39_word_no_space_4 | stumblesnackblindatom |  
+| bip_39_word_no_space_5 | stumblesnackblindatommaterial |  
+| bip_39_word_no_space_6 | stumblesnackblindatommaterialkingdom |  
+| bip_39_word_no_space_7 | stumblesnackblindatommaterialkingdomfold |  
+| bip_39_word_no_space_8 | stumblesnackblindatommaterialkingdomfoldachieve |  
+| bip_39_word_no_space_9 | stumblesnackblindatommaterialkingdomfoldachievesuccess |  
 | bip_39_word_space_0 | ['stumble', 'snack', 'blind', 'atom', 'material', 'kingdom', 'fold', 'achieve', 'success', 'pull', 'steel', 'ability'] |  
 | bip_39_word_space_1 | stumble |  
 | bip_39_word_space_10 | stumble snack blind atom material kingdom fold achieve success pull |  

@@ -122,6 +122,18 @@ fever
 boss
 dirt
 swing |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photokitchenplaytriggermusclefeverbossdirtswingcousin |  
+| bip_39_word_no_space_11 | photokitchenplaytriggermusclefeverbossdirtswingcousinhumble |  
+| bip_39_word_no_space_12 | photokitchenplaytriggermusclefeverbossdirtswingcousinhumbleairport |  
+| bip_39_word_no_space_2 | photokitchen |  
+| bip_39_word_no_space_3 | photokitchenplay |  
+| bip_39_word_no_space_4 | photokitchenplaytrigger |  
+| bip_39_word_no_space_5 | photokitchenplaytriggermuscle |  
+| bip_39_word_no_space_6 | photokitchenplaytriggermusclefever |  
+| bip_39_word_no_space_7 | photokitchenplaytriggermusclefeverboss |  
+| bip_39_word_no_space_8 | photokitchenplaytriggermusclefeverbossdirt |  
+| bip_39_word_no_space_9 | photokitchenplaytriggermusclefeverbossdirtswing |  
 | bip_39_word_space_0 | ['photo', 'kitchen', 'play', 'trigger', 'muscle', 'fever', 'boss', 'dirt', 'swing', 'cousin', 'humble', 'airport'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo kitchen play trigger muscle fever boss dirt swing cousin |  

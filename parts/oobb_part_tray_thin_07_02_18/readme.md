@@ -109,6 +109,17 @@ make
 broom
 rather
 worry |  
+| bip_39_word_no_space_1 | alone |  
+| bip_39_word_no_space_10 | alonenovelbriskcoinactressmakebroomratherworryexchange |  
+| bip_39_word_no_space_11 | alonenovelbriskcoinactressmakebroomratherworryexchangerequire |  
+| bip_39_word_no_space_2 | alonenovel |  
+| bip_39_word_no_space_3 | alonenovelbrisk |  
+| bip_39_word_no_space_4 | alonenovelbriskcoin |  
+| bip_39_word_no_space_5 | alonenovelbriskcoinactress |  
+| bip_39_word_no_space_6 | alonenovelbriskcoinactressmake |  
+| bip_39_word_no_space_7 | alonenovelbriskcoinactressmakebroom |  
+| bip_39_word_no_space_8 | alonenovelbriskcoinactressmakebroomrather |  
+| bip_39_word_no_space_9 | alonenovelbriskcoinactressmakebroomratherworry |  
 | bip_39_word_space_0 | ['alone', 'novel', 'brisk', 'coin', 'actress', 'make', 'broom', 'rather', 'worry', 'exchange', 'require'] |  
 | bip_39_word_space_1 | alone |  
 | bip_39_word_space_10 | alone novel brisk coin actress make broom rather worry exchange |  

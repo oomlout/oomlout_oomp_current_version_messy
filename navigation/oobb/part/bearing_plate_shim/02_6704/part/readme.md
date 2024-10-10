@@ -122,6 +122,18 @@ example
 viable
 brand
 oppose |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settleboardrealforgetphysicalexampleviablebrandopposelesson |  
+| bip_39_word_no_space_11 | settleboardrealforgetphysicalexampleviablebrandopposelessonpresent |  
+| bip_39_word_no_space_12 | settleboardrealforgetphysicalexampleviablebrandopposelessonpresentadvance |  
+| bip_39_word_no_space_2 | settleboard |  
+| bip_39_word_no_space_3 | settleboardreal |  
+| bip_39_word_no_space_4 | settleboardrealforget |  
+| bip_39_word_no_space_5 | settleboardrealforgetphysical |  
+| bip_39_word_no_space_6 | settleboardrealforgetphysicalexample |  
+| bip_39_word_no_space_7 | settleboardrealforgetphysicalexampleviable |  
+| bip_39_word_no_space_8 | settleboardrealforgetphysicalexampleviablebrand |  
+| bip_39_word_no_space_9 | settleboardrealforgetphysicalexampleviablebrandoppose |  
 | bip_39_word_space_0 | ['settle', 'board', 'real', 'forget', 'physical', 'example', 'viable', 'brand', 'oppose', 'lesson', 'present', 'advance'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle board real forget physical example viable brand oppose lesson |  

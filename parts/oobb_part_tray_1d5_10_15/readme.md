@@ -109,6 +109,17 @@ sand
 width
 service
 problem |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companydressboynothingclothsandwidthserviceproblemstamp |  
+| bip_39_word_no_space_11 | companydressboynothingclothsandwidthserviceproblemstampwalk |  
+| bip_39_word_no_space_2 | companydress |  
+| bip_39_word_no_space_3 | companydressboy |  
+| bip_39_word_no_space_4 | companydressboynothing |  
+| bip_39_word_no_space_5 | companydressboynothingcloth |  
+| bip_39_word_no_space_6 | companydressboynothingclothsand |  
+| bip_39_word_no_space_7 | companydressboynothingclothsandwidth |  
+| bip_39_word_no_space_8 | companydressboynothingclothsandwidthservice |  
+| bip_39_word_no_space_9 | companydressboynothingclothsandwidthserviceproblem |  
 | bip_39_word_space_0 | ['company', 'dress', 'boy', 'nothing', 'cloth', 'sand', 'width', 'service', 'problem', 'stamp', 'walk'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company dress boy nothing cloth sand width service problem stamp |  

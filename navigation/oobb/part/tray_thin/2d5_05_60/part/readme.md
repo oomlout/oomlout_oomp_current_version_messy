@@ -122,6 +122,18 @@ pyramid
 jar
 float
 decade |  
+| bip_39_word_no_space_1 | frost |  
+| bip_39_word_no_space_10 | frostextendcomedropricepyramidjarfloatdecadetwenty |  
+| bip_39_word_no_space_11 | frostextendcomedropricepyramidjarfloatdecadetwentydrift |  
+| bip_39_word_no_space_12 | frostextendcomedropricepyramidjarfloatdecadetwentydriftarrow |  
+| bip_39_word_no_space_2 | frostextend |  
+| bip_39_word_no_space_3 | frostextendcome |  
+| bip_39_word_no_space_4 | frostextendcomedrop |  
+| bip_39_word_no_space_5 | frostextendcomedroprice |  
+| bip_39_word_no_space_6 | frostextendcomedropricepyramid |  
+| bip_39_word_no_space_7 | frostextendcomedropricepyramidjar |  
+| bip_39_word_no_space_8 | frostextendcomedropricepyramidjarfloat |  
+| bip_39_word_no_space_9 | frostextendcomedropricepyramidjarfloatdecade |  
 | bip_39_word_space_0 | ['frost', 'extend', 'come', 'drop', 'rice', 'pyramid', 'jar', 'float', 'decade', 'twenty', 'drift', 'arrow'] |  
 | bip_39_word_space_1 | frost |  
 | bip_39_word_space_10 | frost extend come drop rice pyramid jar float decade twenty |  

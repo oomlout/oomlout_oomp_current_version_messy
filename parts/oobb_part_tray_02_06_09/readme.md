@@ -122,6 +122,18 @@ unusual
 remind
 inside
 unique |  
+| bip_39_word_no_space_1 | super |  
+| bip_39_word_no_space_10 | supersketchimagereviewcoconutunusualremindinsideuniquesphere |  
+| bip_39_word_no_space_11 | supersketchimagereviewcoconutunusualremindinsideuniquesphereauthor |  
+| bip_39_word_no_space_12 | supersketchimagereviewcoconutunusualremindinsideuniquesphereauthorartwork |  
+| bip_39_word_no_space_2 | supersketch |  
+| bip_39_word_no_space_3 | supersketchimage |  
+| bip_39_word_no_space_4 | supersketchimagereview |  
+| bip_39_word_no_space_5 | supersketchimagereviewcoconut |  
+| bip_39_word_no_space_6 | supersketchimagereviewcoconutunusual |  
+| bip_39_word_no_space_7 | supersketchimagereviewcoconutunusualremind |  
+| bip_39_word_no_space_8 | supersketchimagereviewcoconutunusualremindinside |  
+| bip_39_word_no_space_9 | supersketchimagereviewcoconutunusualremindinsideunique |  
 | bip_39_word_space_0 | ['super', 'sketch', 'image', 'review', 'coconut', 'unusual', 'remind', 'inside', 'unique', 'sphere', 'author', 'artwork'] |  
 | bip_39_word_space_1 | super |  
 | bip_39_word_space_10 | super sketch image review coconut unusual remind inside unique sphere |  

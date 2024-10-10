@@ -122,6 +122,18 @@ alone
 jump
 wrap
 embark |  
+| bip_39_word_no_space_1 | crumble |  
+| bip_39_word_no_space_10 | crumbledevelopbelievebususealonejumpwrapembarkcouple |  
+| bip_39_word_no_space_11 | crumbledevelopbelievebususealonejumpwrapembarkcouplesecond |  
+| bip_39_word_no_space_12 | crumbledevelopbelievebususealonejumpwrapembarkcouplesecondabout |  
+| bip_39_word_no_space_2 | crumbledevelop |  
+| bip_39_word_no_space_3 | crumbledevelopbelieve |  
+| bip_39_word_no_space_4 | crumbledevelopbelievebus |  
+| bip_39_word_no_space_5 | crumbledevelopbelievebususe |  
+| bip_39_word_no_space_6 | crumbledevelopbelievebususealone |  
+| bip_39_word_no_space_7 | crumbledevelopbelievebususealonejump |  
+| bip_39_word_no_space_8 | crumbledevelopbelievebususealonejumpwrap |  
+| bip_39_word_no_space_9 | crumbledevelopbelievebususealonejumpwrapembark |  
 | bip_39_word_space_0 | ['crumble', 'develop', 'believe', 'bus', 'use', 'alone', 'jump', 'wrap', 'embark', 'couple', 'second', 'about'] |  
 | bip_39_word_space_1 | crumble |  
 | bip_39_word_space_10 | crumble develop believe bus use alone jump wrap embark couple |  

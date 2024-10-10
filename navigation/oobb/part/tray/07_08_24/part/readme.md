@@ -122,6 +122,18 @@ pitch
 raven
 rude
 palace |  
+| bip_39_word_no_space_1 | subway |  
+| bip_39_word_no_space_10 | subwayspraynarrowmansionfeelpitchravenrudepalacestick |  
+| bip_39_word_no_space_11 | subwayspraynarrowmansionfeelpitchravenrudepalacestickaccount |  
+| bip_39_word_no_space_12 | subwayspraynarrowmansionfeelpitchravenrudepalacestickaccountangry |  
+| bip_39_word_no_space_2 | subwayspray |  
+| bip_39_word_no_space_3 | subwayspraynarrow |  
+| bip_39_word_no_space_4 | subwayspraynarrowmansion |  
+| bip_39_word_no_space_5 | subwayspraynarrowmansionfeel |  
+| bip_39_word_no_space_6 | subwayspraynarrowmansionfeelpitch |  
+| bip_39_word_no_space_7 | subwayspraynarrowmansionfeelpitchraven |  
+| bip_39_word_no_space_8 | subwayspraynarrowmansionfeelpitchravenrude |  
+| bip_39_word_no_space_9 | subwayspraynarrowmansionfeelpitchravenrudepalace |  
 | bip_39_word_space_0 | ['subway', 'spray', 'narrow', 'mansion', 'feel', 'pitch', 'raven', 'rude', 'palace', 'stick', 'account', 'angry'] |  
 | bip_39_word_space_1 | subway |  
 | bip_39_word_space_10 | subway spray narrow mansion feel pitch raven rude palace stick |  

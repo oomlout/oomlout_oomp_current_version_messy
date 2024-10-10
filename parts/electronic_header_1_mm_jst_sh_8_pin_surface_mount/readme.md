@@ -122,6 +122,18 @@ winter
 cook
 vacant
 wild |  
+| bip_39_word_no_space_1 | kind |  
+| bip_39_word_no_space_10 | kindtravelsodahipbloodwintercookvacantwildmandate |  
+| bip_39_word_no_space_11 | kindtravelsodahipbloodwintercookvacantwildmandateobvious |  
+| bip_39_word_no_space_12 | kindtravelsodahipbloodwintercookvacantwildmandateobviousavocado |  
+| bip_39_word_no_space_2 | kindtravel |  
+| bip_39_word_no_space_3 | kindtravelsoda |  
+| bip_39_word_no_space_4 | kindtravelsodahip |  
+| bip_39_word_no_space_5 | kindtravelsodahipblood |  
+| bip_39_word_no_space_6 | kindtravelsodahipbloodwinter |  
+| bip_39_word_no_space_7 | kindtravelsodahipbloodwintercook |  
+| bip_39_word_no_space_8 | kindtravelsodahipbloodwintercookvacant |  
+| bip_39_word_no_space_9 | kindtravelsodahipbloodwintercookvacantwild |  
 | bip_39_word_space_0 | ['kind', 'travel', 'soda', 'hip', 'blood', 'winter', 'cook', 'vacant', 'wild', 'mandate', 'obvious', 'avocado'] |  
 | bip_39_word_space_1 | kind |  
 | bip_39_word_space_10 | kind travel soda hip blood winter cook vacant wild mandate |  

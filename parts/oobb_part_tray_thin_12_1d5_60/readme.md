@@ -122,6 +122,18 @@ cabbage
 dose
 soup
 barrel |  
+| bip_39_word_no_space_1 | trumpet |  
+| bip_39_word_no_space_10 | trumpetnorthnegativetheybannercabbagedosesoupbarrelreopen |  
+| bip_39_word_no_space_11 | trumpetnorthnegativetheybannercabbagedosesoupbarrelreopenjunk |  
+| bip_39_word_no_space_12 | trumpetnorthnegativetheybannercabbagedosesoupbarrelreopenjunkaddress |  
+| bip_39_word_no_space_2 | trumpetnorth |  
+| bip_39_word_no_space_3 | trumpetnorthnegative |  
+| bip_39_word_no_space_4 | trumpetnorthnegativethey |  
+| bip_39_word_no_space_5 | trumpetnorthnegativetheybanner |  
+| bip_39_word_no_space_6 | trumpetnorthnegativetheybannercabbage |  
+| bip_39_word_no_space_7 | trumpetnorthnegativetheybannercabbagedose |  
+| bip_39_word_no_space_8 | trumpetnorthnegativetheybannercabbagedosesoup |  
+| bip_39_word_no_space_9 | trumpetnorthnegativetheybannercabbagedosesoupbarrel |  
 | bip_39_word_space_0 | ['trumpet', 'north', 'negative', 'they', 'banner', 'cabbage', 'dose', 'soup', 'barrel', 'reopen', 'junk', 'address'] |  
 | bip_39_word_space_1 | trumpet |  
 | bip_39_word_space_10 | trumpet north negative they banner cabbage dose soup barrel reopen |  

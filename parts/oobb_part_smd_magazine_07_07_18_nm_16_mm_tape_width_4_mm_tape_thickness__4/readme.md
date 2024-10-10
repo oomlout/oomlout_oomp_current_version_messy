@@ -122,6 +122,18 @@ label
 upgrade
 oak
 flush |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | giveagealreadycautiongasplabelupgradeoakflushhome |  
+| bip_39_word_no_space_11 | giveagealreadycautiongasplabelupgradeoakflushhomewoman |  
+| bip_39_word_no_space_12 | giveagealreadycautiongasplabelupgradeoakflushhomewomanalmost |  
+| bip_39_word_no_space_2 | giveage |  
+| bip_39_word_no_space_3 | giveagealready |  
+| bip_39_word_no_space_4 | giveagealreadycaution |  
+| bip_39_word_no_space_5 | giveagealreadycautiongasp |  
+| bip_39_word_no_space_6 | giveagealreadycautiongasplabel |  
+| bip_39_word_no_space_7 | giveagealreadycautiongasplabelupgrade |  
+| bip_39_word_no_space_8 | giveagealreadycautiongasplabelupgradeoak |  
+| bip_39_word_no_space_9 | giveagealreadycautiongasplabelupgradeoakflush |  
 | bip_39_word_space_0 | ['give', 'age', 'already', 'caution', 'gasp', 'label', 'upgrade', 'oak', 'flush', 'home', 'woman', 'almost'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give age already caution gasp label upgrade oak flush home |  

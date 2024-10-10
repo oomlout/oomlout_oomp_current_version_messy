@@ -122,6 +122,18 @@ pole
 child
 buzz
 holiday |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoonmiraclehamsterrandomtonightpolechildbuzzholidayavocado |  
+| bip_39_word_no_space_11 | spoonmiraclehamsterrandomtonightpolechildbuzzholidayavocadochoose |  
+| bip_39_word_no_space_12 | spoonmiraclehamsterrandomtonightpolechildbuzzholidayavocadochooseattack |  
+| bip_39_word_no_space_2 | spoonmiracle |  
+| bip_39_word_no_space_3 | spoonmiraclehamster |  
+| bip_39_word_no_space_4 | spoonmiraclehamsterrandom |  
+| bip_39_word_no_space_5 | spoonmiraclehamsterrandomtonight |  
+| bip_39_word_no_space_6 | spoonmiraclehamsterrandomtonightpole |  
+| bip_39_word_no_space_7 | spoonmiraclehamsterrandomtonightpolechild |  
+| bip_39_word_no_space_8 | spoonmiraclehamsterrandomtonightpolechildbuzz |  
+| bip_39_word_no_space_9 | spoonmiraclehamsterrandomtonightpolechildbuzzholiday |  
 | bip_39_word_space_0 | ['spoon', 'miracle', 'hamster', 'random', 'tonight', 'pole', 'child', 'buzz', 'holiday', 'avocado', 'choose', 'attack'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon miracle hamster random tonight pole child buzz holiday avocado |  

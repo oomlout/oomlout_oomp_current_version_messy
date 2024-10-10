@@ -122,6 +122,18 @@ style
 liberty
 liar
 sugar |  
+| bip_39_word_no_space_1 | helmet |  
+| bip_39_word_no_space_10 | helmetsyrupalreadyclubqualitystylelibertyliarsugarprice |  
+| bip_39_word_no_space_11 | helmetsyrupalreadyclubqualitystylelibertyliarsugarpriceethics |  
+| bip_39_word_no_space_12 | helmetsyrupalreadyclubqualitystylelibertyliarsugarpriceethicsarmy |  
+| bip_39_word_no_space_2 | helmetsyrup |  
+| bip_39_word_no_space_3 | helmetsyrupalready |  
+| bip_39_word_no_space_4 | helmetsyrupalreadyclub |  
+| bip_39_word_no_space_5 | helmetsyrupalreadyclubquality |  
+| bip_39_word_no_space_6 | helmetsyrupalreadyclubqualitystyle |  
+| bip_39_word_no_space_7 | helmetsyrupalreadyclubqualitystyleliberty |  
+| bip_39_word_no_space_8 | helmetsyrupalreadyclubqualitystylelibertyliar |  
+| bip_39_word_no_space_9 | helmetsyrupalreadyclubqualitystylelibertyliarsugar |  
 | bip_39_word_space_0 | ['helmet', 'syrup', 'already', 'club', 'quality', 'style', 'liberty', 'liar', 'sugar', 'price', 'ethics', 'army'] |  
 | bip_39_word_space_1 | helmet |  
 | bip_39_word_space_10 | helmet syrup already club quality style liberty liar sugar price |  

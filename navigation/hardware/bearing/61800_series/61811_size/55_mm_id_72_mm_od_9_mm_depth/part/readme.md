@@ -122,6 +122,18 @@ cereal
 ignore
 insect
 remove |  
+| bip_39_word_no_space_1 | claim |  
+| bip_39_word_no_space_10 | claimclickspringkidneyecologycerealignoreinsectremovedolphin |  
+| bip_39_word_no_space_11 | claimclickspringkidneyecologycerealignoreinsectremovedolphinbody |  
+| bip_39_word_no_space_12 | claimclickspringkidneyecologycerealignoreinsectremovedolphinbodyalarm |  
+| bip_39_word_no_space_2 | claimclick |  
+| bip_39_word_no_space_3 | claimclickspring |  
+| bip_39_word_no_space_4 | claimclickspringkidney |  
+| bip_39_word_no_space_5 | claimclickspringkidneyecology |  
+| bip_39_word_no_space_6 | claimclickspringkidneyecologycereal |  
+| bip_39_word_no_space_7 | claimclickspringkidneyecologycerealignore |  
+| bip_39_word_no_space_8 | claimclickspringkidneyecologycerealignoreinsect |  
+| bip_39_word_no_space_9 | claimclickspringkidneyecologycerealignoreinsectremove |  
 | bip_39_word_space_0 | ['claim', 'click', 'spring', 'kidney', 'ecology', 'cereal', 'ignore', 'insect', 'remove', 'dolphin', 'body', 'alarm'] |  
 | bip_39_word_space_1 | claim |  
 | bip_39_word_space_10 | claim click spring kidney ecology cereal ignore insect remove dolphin |  

@@ -122,6 +122,18 @@ rather
 display
 truck
 spoil |  
+| bip_39_word_no_space_1 | swing |  
+| bip_39_word_no_space_10 | swinglengthembarkradarcameraratherdisplaytruckspoilsilver |  
+| bip_39_word_no_space_11 | swinglengthembarkradarcameraratherdisplaytruckspoilsilverhour |  
+| bip_39_word_no_space_12 | swinglengthembarkradarcameraratherdisplaytruckspoilsilverhouranxiety |  
+| bip_39_word_no_space_2 | swinglength |  
+| bip_39_word_no_space_3 | swinglengthembark |  
+| bip_39_word_no_space_4 | swinglengthembarkradar |  
+| bip_39_word_no_space_5 | swinglengthembarkradarcamera |  
+| bip_39_word_no_space_6 | swinglengthembarkradarcamerarather |  
+| bip_39_word_no_space_7 | swinglengthembarkradarcameraratherdisplay |  
+| bip_39_word_no_space_8 | swinglengthembarkradarcameraratherdisplaytruck |  
+| bip_39_word_no_space_9 | swinglengthembarkradarcameraratherdisplaytruckspoil |  
 | bip_39_word_space_0 | ['swing', 'length', 'embark', 'radar', 'camera', 'rather', 'display', 'truck', 'spoil', 'silver', 'hour', 'anxiety'] |  
 | bip_39_word_space_1 | swing |  
 | bip_39_word_space_10 | swing length embark radar camera rather display truck spoil silver |  

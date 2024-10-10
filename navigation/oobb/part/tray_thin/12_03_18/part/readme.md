@@ -122,6 +122,18 @@ sea
 system
 retire
 lamp |  
+| bip_39_word_no_space_1 | hero |  
+| bip_39_word_no_space_10 | herowifesorryusagesuitseasystemretirelampafraid |  
+| bip_39_word_no_space_11 | herowifesorryusagesuitseasystemretirelampafraidstable |  
+| bip_39_word_no_space_12 | herowifesorryusagesuitseasystemretirelampafraidstableamazing |  
+| bip_39_word_no_space_2 | herowife |  
+| bip_39_word_no_space_3 | herowifesorry |  
+| bip_39_word_no_space_4 | herowifesorryusage |  
+| bip_39_word_no_space_5 | herowifesorryusagesuit |  
+| bip_39_word_no_space_6 | herowifesorryusagesuitsea |  
+| bip_39_word_no_space_7 | herowifesorryusagesuitseasystem |  
+| bip_39_word_no_space_8 | herowifesorryusagesuitseasystemretire |  
+| bip_39_word_no_space_9 | herowifesorryusagesuitseasystemretirelamp |  
 | bip_39_word_space_0 | ['hero', 'wife', 'sorry', 'usage', 'suit', 'sea', 'system', 'retire', 'lamp', 'afraid', 'stable', 'amazing'] |  
 | bip_39_word_space_1 | hero |  
 | bip_39_word_space_10 | hero wife sorry usage suit sea system retire lamp afraid |  

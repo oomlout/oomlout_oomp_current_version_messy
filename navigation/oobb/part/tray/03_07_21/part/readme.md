@@ -122,6 +122,18 @@ street
 lonely
 hair
 immune |  
+| bip_39_word_no_space_1 | ring |  
+| bip_39_word_no_space_10 | ringfoxloanrigidequalstreetlonelyhairimmunedocument |  
+| bip_39_word_no_space_11 | ringfoxloanrigidequalstreetlonelyhairimmunedocumentisland |  
+| bip_39_word_no_space_12 | ringfoxloanrigidequalstreetlonelyhairimmunedocumentislandartist |  
+| bip_39_word_no_space_2 | ringfox |  
+| bip_39_word_no_space_3 | ringfoxloan |  
+| bip_39_word_no_space_4 | ringfoxloanrigid |  
+| bip_39_word_no_space_5 | ringfoxloanrigidequal |  
+| bip_39_word_no_space_6 | ringfoxloanrigidequalstreet |  
+| bip_39_word_no_space_7 | ringfoxloanrigidequalstreetlonely |  
+| bip_39_word_no_space_8 | ringfoxloanrigidequalstreetlonelyhair |  
+| bip_39_word_no_space_9 | ringfoxloanrigidequalstreetlonelyhairimmune |  
 | bip_39_word_space_0 | ['ring', 'fox', 'loan', 'rigid', 'equal', 'street', 'lonely', 'hair', 'immune', 'document', 'island', 'artist'] |  
 | bip_39_word_space_1 | ring |  
 | bip_39_word_space_10 | ring fox loan rigid equal street lonely hair immune document |  

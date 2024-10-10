@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gold
   double
 
   power'
+bip_39_word_no_space_1: gold
+bip_39_word_no_space_10: goldrigidpullcashimpactvaporinchdoublepowerwoman
+bip_39_word_no_space_11: goldrigidpullcashimpactvaporinchdoublepowerwomandumb
+bip_39_word_no_space_12: goldrigidpullcashimpactvaporinchdoublepowerwomandumbartefact
+bip_39_word_no_space_2: goldrigid
+bip_39_word_no_space_3: goldrigidpull
+bip_39_word_no_space_4: goldrigidpullcash
+bip_39_word_no_space_5: goldrigidpullcashimpact
+bip_39_word_no_space_6: goldrigidpullcashimpactvapor
+bip_39_word_no_space_7: goldrigidpullcashimpactvaporinch
+bip_39_word_no_space_8: goldrigidpullcashimpactvaporinchdouble
+bip_39_word_no_space_9: goldrigidpullcashimpactvaporinchdoublepower
 bip_39_word_space_0:
 - gold
 - rigid

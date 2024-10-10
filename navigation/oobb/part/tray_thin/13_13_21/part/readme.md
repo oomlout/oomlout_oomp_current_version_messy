@@ -122,6 +122,18 @@ guard
 enough
 warrior
 pizza |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountaincorrectplatewhenhopeguardenoughwarriorpizzawasp |  
+| bip_39_word_no_space_11 | mountaincorrectplatewhenhopeguardenoughwarriorpizzawaspflock |  
+| bip_39_word_no_space_12 | mountaincorrectplatewhenhopeguardenoughwarriorpizzawaspflockapprove |  
+| bip_39_word_no_space_2 | mountaincorrect |  
+| bip_39_word_no_space_3 | mountaincorrectplate |  
+| bip_39_word_no_space_4 | mountaincorrectplatewhen |  
+| bip_39_word_no_space_5 | mountaincorrectplatewhenhope |  
+| bip_39_word_no_space_6 | mountaincorrectplatewhenhopeguard |  
+| bip_39_word_no_space_7 | mountaincorrectplatewhenhopeguardenough |  
+| bip_39_word_no_space_8 | mountaincorrectplatewhenhopeguardenoughwarrior |  
+| bip_39_word_no_space_9 | mountaincorrectplatewhenhopeguardenoughwarriorpizza |  
 | bip_39_word_space_0 | ['mountain', 'correct', 'plate', 'when', 'hope', 'guard', 'enough', 'warrior', 'pizza', 'wasp', 'flock', 'approve'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain correct plate when hope guard enough warrior pizza wasp |  

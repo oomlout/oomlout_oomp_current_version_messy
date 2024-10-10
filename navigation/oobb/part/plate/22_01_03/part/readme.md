@@ -122,6 +122,18 @@ large
 expand
 rack
 churn |  
+| bip_39_word_no_space_1 | wolf |  
+| bip_39_word_no_space_10 | wolftidewelcomefilterrallylargeexpandrackchurninside |  
+| bip_39_word_no_space_11 | wolftidewelcomefilterrallylargeexpandrackchurninsidechalk |  
+| bip_39_word_no_space_12 | wolftidewelcomefilterrallylargeexpandrackchurninsidechalkaddress |  
+| bip_39_word_no_space_2 | wolftide |  
+| bip_39_word_no_space_3 | wolftidewelcome |  
+| bip_39_word_no_space_4 | wolftidewelcomefilter |  
+| bip_39_word_no_space_5 | wolftidewelcomefilterrally |  
+| bip_39_word_no_space_6 | wolftidewelcomefilterrallylarge |  
+| bip_39_word_no_space_7 | wolftidewelcomefilterrallylargeexpand |  
+| bip_39_word_no_space_8 | wolftidewelcomefilterrallylargeexpandrack |  
+| bip_39_word_no_space_9 | wolftidewelcomefilterrallylargeexpandrackchurn |  
 | bip_39_word_space_0 | ['wolf', 'tide', 'welcome', 'filter', 'rally', 'large', 'expand', 'rack', 'churn', 'inside', 'chalk', 'address'] |  
 | bip_39_word_space_1 | wolf |  
 | bip_39_word_space_10 | wolf tide welcome filter rally large expand rack churn inside |  

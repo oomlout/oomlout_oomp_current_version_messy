@@ -122,6 +122,18 @@ dumb
 document
 connect
 bulb |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomedecemberjourneyuncoveryeardumbdocumentconnectbulbscrub |  
+| bip_39_word_no_space_11 | welcomedecemberjourneyuncoveryeardumbdocumentconnectbulbscrubmodel |  
+| bip_39_word_no_space_12 | welcomedecemberjourneyuncoveryeardumbdocumentconnectbulbscrubmodelairport |  
+| bip_39_word_no_space_2 | welcomedecember |  
+| bip_39_word_no_space_3 | welcomedecemberjourney |  
+| bip_39_word_no_space_4 | welcomedecemberjourneyuncover |  
+| bip_39_word_no_space_5 | welcomedecemberjourneyuncoveryear |  
+| bip_39_word_no_space_6 | welcomedecemberjourneyuncoveryeardumb |  
+| bip_39_word_no_space_7 | welcomedecemberjourneyuncoveryeardumbdocument |  
+| bip_39_word_no_space_8 | welcomedecemberjourneyuncoveryeardumbdocumentconnect |  
+| bip_39_word_no_space_9 | welcomedecemberjourneyuncoveryeardumbdocumentconnectbulb |  
 | bip_39_word_space_0 | ['welcome', 'december', 'journey', 'uncover', 'year', 'dumb', 'document', 'connect', 'bulb', 'scrub', 'model', 'airport'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome december journey uncover year dumb document connect bulb scrub |  

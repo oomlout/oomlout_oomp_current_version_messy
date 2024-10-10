@@ -122,6 +122,18 @@ acid
 explain
 lecture
 talent |  
+| bip_39_word_no_space_1 | walnut |  
+| bip_39_word_no_space_10 | walnuthorseoceanyearoptionacidexplainlecturetalentgalaxy |  
+| bip_39_word_no_space_11 | walnuthorseoceanyearoptionacidexplainlecturetalentgalaxyerupt |  
+| bip_39_word_no_space_12 | walnuthorseoceanyearoptionacidexplainlecturetalentgalaxyeruptask |  
+| bip_39_word_no_space_2 | walnuthorse |  
+| bip_39_word_no_space_3 | walnuthorseocean |  
+| bip_39_word_no_space_4 | walnuthorseoceanyear |  
+| bip_39_word_no_space_5 | walnuthorseoceanyearoption |  
+| bip_39_word_no_space_6 | walnuthorseoceanyearoptionacid |  
+| bip_39_word_no_space_7 | walnuthorseoceanyearoptionacidexplain |  
+| bip_39_word_no_space_8 | walnuthorseoceanyearoptionacidexplainlecture |  
+| bip_39_word_no_space_9 | walnuthorseoceanyearoptionacidexplainlecturetalent |  
 | bip_39_word_space_0 | ['walnut', 'horse', 'ocean', 'year', 'option', 'acid', 'explain', 'lecture', 'talent', 'galaxy', 'erupt', 'ask'] |  
 | bip_39_word_space_1 | walnut |  
 | bip_39_word_space_10 | walnut horse ocean year option acid explain lecture talent galaxy |  

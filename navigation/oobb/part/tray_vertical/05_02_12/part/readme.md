@@ -122,6 +122,18 @@ balcony
 lady
 fruit
 keen |  
+| bip_39_word_no_space_1 | language |  
+| bip_39_word_no_space_10 | languageamountbrainbargainshybalconyladyfruitkeencloud |  
+| bip_39_word_no_space_11 | languageamountbrainbargainshybalconyladyfruitkeencloudrun |  
+| bip_39_word_no_space_12 | languageamountbrainbargainshybalconyladyfruitkeencloudrunadvance |  
+| bip_39_word_no_space_2 | languageamount |  
+| bip_39_word_no_space_3 | languageamountbrain |  
+| bip_39_word_no_space_4 | languageamountbrainbargain |  
+| bip_39_word_no_space_5 | languageamountbrainbargainshy |  
+| bip_39_word_no_space_6 | languageamountbrainbargainshybalcony |  
+| bip_39_word_no_space_7 | languageamountbrainbargainshybalconylady |  
+| bip_39_word_no_space_8 | languageamountbrainbargainshybalconyladyfruit |  
+| bip_39_word_no_space_9 | languageamountbrainbargainshybalconyladyfruitkeen |  
 | bip_39_word_space_0 | ['language', 'amount', 'brain', 'bargain', 'shy', 'balcony', 'lady', 'fruit', 'keen', 'cloud', 'run', 'advance'] |  
 | bip_39_word_space_1 | language |  
 | bip_39_word_space_10 | language amount brain bargain shy balcony lady fruit keen cloud |  

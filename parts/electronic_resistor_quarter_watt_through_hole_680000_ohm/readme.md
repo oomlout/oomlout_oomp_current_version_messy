@@ -122,6 +122,18 @@ document
 tragic
 master
 champion |  
+| bip_39_word_no_space_1 | fruit |  
+| bip_39_word_no_space_10 | fruitplasticsillycratertrenddocumenttragicmasterchampionsetup |  
+| bip_39_word_no_space_11 | fruitplasticsillycratertrenddocumenttragicmasterchampionsetupalert |  
+| bip_39_word_no_space_12 | fruitplasticsillycratertrenddocumenttragicmasterchampionsetupalertalso |  
+| bip_39_word_no_space_2 | fruitplastic |  
+| bip_39_word_no_space_3 | fruitplasticsilly |  
+| bip_39_word_no_space_4 | fruitplasticsillycrater |  
+| bip_39_word_no_space_5 | fruitplasticsillycratertrend |  
+| bip_39_word_no_space_6 | fruitplasticsillycratertrenddocument |  
+| bip_39_word_no_space_7 | fruitplasticsillycratertrenddocumenttragic |  
+| bip_39_word_no_space_8 | fruitplasticsillycratertrenddocumenttragicmaster |  
+| bip_39_word_no_space_9 | fruitplasticsillycratertrenddocumenttragicmasterchampion |  
 | bip_39_word_space_0 | ['fruit', 'plastic', 'silly', 'crater', 'trend', 'document', 'tragic', 'master', 'champion', 'setup', 'alert', 'also'] |  
 | bip_39_word_space_1 | fruit |  
 | bip_39_word_space_10 | fruit plastic silly crater trend document tragic master champion setup |  

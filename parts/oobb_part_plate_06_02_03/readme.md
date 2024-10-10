@@ -122,6 +122,18 @@ chunk
 chase
 recycle
 topple |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockvehiclesingsodalogicchunkchaserecycletoppleaddress |  
+| bip_39_word_no_space_11 | flockvehiclesingsodalogicchunkchaserecycletoppleaddresswill |  
+| bip_39_word_no_space_12 | flockvehiclesingsodalogicchunkchaserecycletoppleaddresswillacross |  
+| bip_39_word_no_space_2 | flockvehicle |  
+| bip_39_word_no_space_3 | flockvehiclesing |  
+| bip_39_word_no_space_4 | flockvehiclesingsoda |  
+| bip_39_word_no_space_5 | flockvehiclesingsodalogic |  
+| bip_39_word_no_space_6 | flockvehiclesingsodalogicchunk |  
+| bip_39_word_no_space_7 | flockvehiclesingsodalogicchunkchase |  
+| bip_39_word_no_space_8 | flockvehiclesingsodalogicchunkchaserecycle |  
+| bip_39_word_no_space_9 | flockvehiclesingsodalogicchunkchaserecycletopple |  
 | bip_39_word_space_0 | ['flock', 'vehicle', 'sing', 'soda', 'logic', 'chunk', 'chase', 'recycle', 'topple', 'address', 'will', 'across'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock vehicle sing soda logic chunk chase recycle topple address |  

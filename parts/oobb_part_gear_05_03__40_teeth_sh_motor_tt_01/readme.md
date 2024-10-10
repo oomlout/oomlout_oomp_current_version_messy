@@ -122,6 +122,18 @@ buffalo
 afraid
 slight
 cargo |  
+| bip_39_word_no_space_1 | wolf |  
+| bip_39_word_no_space_10 | wolfdumbfilmtrendexercisebuffaloafraidslightcargodrama |  
+| bip_39_word_no_space_11 | wolfdumbfilmtrendexercisebuffaloafraidslightcargodramahumor |  
+| bip_39_word_no_space_12 | wolfdumbfilmtrendexercisebuffaloafraidslightcargodramahumorartist |  
+| bip_39_word_no_space_2 | wolfdumb |  
+| bip_39_word_no_space_3 | wolfdumbfilm |  
+| bip_39_word_no_space_4 | wolfdumbfilmtrend |  
+| bip_39_word_no_space_5 | wolfdumbfilmtrendexercise |  
+| bip_39_word_no_space_6 | wolfdumbfilmtrendexercisebuffalo |  
+| bip_39_word_no_space_7 | wolfdumbfilmtrendexercisebuffaloafraid |  
+| bip_39_word_no_space_8 | wolfdumbfilmtrendexercisebuffaloafraidslight |  
+| bip_39_word_no_space_9 | wolfdumbfilmtrendexercisebuffaloafraidslightcargo |  
 | bip_39_word_space_0 | ['wolf', 'dumb', 'film', 'trend', 'exercise', 'buffalo', 'afraid', 'slight', 'cargo', 'drama', 'humor', 'artist'] |  
 | bip_39_word_space_1 | wolf |  
 | bip_39_word_space_10 | wolf dumb film trend exercise buffalo afraid slight cargo drama |  

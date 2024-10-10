@@ -122,6 +122,18 @@ year
 valid
 buzz
 dad |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifemusicdecidevanacidyearvalidbuzzdadyouth |  
+| bip_39_word_no_space_11 | knifemusicdecidevanacidyearvalidbuzzdadyouthpolar |  
+| bip_39_word_no_space_12 | knifemusicdecidevanacidyearvalidbuzzdadyouthpolarair |  
+| bip_39_word_no_space_2 | knifemusic |  
+| bip_39_word_no_space_3 | knifemusicdecide |  
+| bip_39_word_no_space_4 | knifemusicdecidevan |  
+| bip_39_word_no_space_5 | knifemusicdecidevanacid |  
+| bip_39_word_no_space_6 | knifemusicdecidevanacidyear |  
+| bip_39_word_no_space_7 | knifemusicdecidevanacidyearvalid |  
+| bip_39_word_no_space_8 | knifemusicdecidevanacidyearvalidbuzz |  
+| bip_39_word_no_space_9 | knifemusicdecidevanacidyearvalidbuzzdad |  
 | bip_39_word_space_0 | ['knife', 'music', 'decide', 'van', 'acid', 'year', 'valid', 'buzz', 'dad', 'youth', 'polar', 'air'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife music decide van acid year valid buzz dad youth |  

@@ -122,6 +122,18 @@ equip
 blast
 robot
 eight |  
+| bip_39_word_no_space_1 | satisfy |  
+| bip_39_word_no_space_10 | satisfyscorpiontossunlockimpactequipblastroboteightequal |  
+| bip_39_word_no_space_11 | satisfyscorpiontossunlockimpactequipblastroboteightequalreport |  
+| bip_39_word_no_space_12 | satisfyscorpiontossunlockimpactequipblastroboteightequalreportallow |  
+| bip_39_word_no_space_2 | satisfyscorpion |  
+| bip_39_word_no_space_3 | satisfyscorpiontoss |  
+| bip_39_word_no_space_4 | satisfyscorpiontossunlock |  
+| bip_39_word_no_space_5 | satisfyscorpiontossunlockimpact |  
+| bip_39_word_no_space_6 | satisfyscorpiontossunlockimpactequip |  
+| bip_39_word_no_space_7 | satisfyscorpiontossunlockimpactequipblast |  
+| bip_39_word_no_space_8 | satisfyscorpiontossunlockimpactequipblastrobot |  
+| bip_39_word_no_space_9 | satisfyscorpiontossunlockimpactequipblastroboteight |  
 | bip_39_word_space_0 | ['satisfy', 'scorpion', 'toss', 'unlock', 'impact', 'equip', 'blast', 'robot', 'eight', 'equal', 'report', 'allow'] |  
 | bip_39_word_space_1 | satisfy |  
 | bip_39_word_space_10 | satisfy scorpion toss unlock impact equip blast robot eight equal |  

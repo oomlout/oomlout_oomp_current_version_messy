@@ -122,6 +122,18 @@ grit
 chest
 sustain
 page |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemywritetwentydreamofficegritchestsustainpagefaint |  
+| bip_39_word_no_space_11 | enemywritetwentydreamofficegritchestsustainpagefaintfound |  
+| bip_39_word_no_space_12 | enemywritetwentydreamofficegritchestsustainpagefaintfoundamount |  
+| bip_39_word_no_space_2 | enemywrite |  
+| bip_39_word_no_space_3 | enemywritetwenty |  
+| bip_39_word_no_space_4 | enemywritetwentydream |  
+| bip_39_word_no_space_5 | enemywritetwentydreamoffice |  
+| bip_39_word_no_space_6 | enemywritetwentydreamofficegrit |  
+| bip_39_word_no_space_7 | enemywritetwentydreamofficegritchest |  
+| bip_39_word_no_space_8 | enemywritetwentydreamofficegritchestsustain |  
+| bip_39_word_no_space_9 | enemywritetwentydreamofficegritchestsustainpage |  
 | bip_39_word_space_0 | ['enemy', 'write', 'twenty', 'dream', 'office', 'grit', 'chest', 'sustain', 'page', 'faint', 'found', 'amount'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy write twenty dream office grit chest sustain page faint |  

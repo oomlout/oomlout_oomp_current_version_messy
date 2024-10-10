@@ -122,6 +122,18 @@ since
 certain
 shield
 faith |  
+| bip_39_word_no_space_1 | cinnamon |  
+| bip_39_word_no_space_10 | cinnamonmembereffortrulequotesincecertainshieldfaithwrestle |  
+| bip_39_word_no_space_11 | cinnamonmembereffortrulequotesincecertainshieldfaithwrestlechief |  
+| bip_39_word_no_space_12 | cinnamonmembereffortrulequotesincecertainshieldfaithwrestlechiefage |  
+| bip_39_word_no_space_2 | cinnamonmember |  
+| bip_39_word_no_space_3 | cinnamonmembereffort |  
+| bip_39_word_no_space_4 | cinnamonmembereffortrule |  
+| bip_39_word_no_space_5 | cinnamonmembereffortrulequote |  
+| bip_39_word_no_space_6 | cinnamonmembereffortrulequotesince |  
+| bip_39_word_no_space_7 | cinnamonmembereffortrulequotesincecertain |  
+| bip_39_word_no_space_8 | cinnamonmembereffortrulequotesincecertainshield |  
+| bip_39_word_no_space_9 | cinnamonmembereffortrulequotesincecertainshieldfaith |  
 | bip_39_word_space_0 | ['cinnamon', 'member', 'effort', 'rule', 'quote', 'since', 'certain', 'shield', 'faith', 'wrestle', 'chief', 'age'] |  
 | bip_39_word_space_1 | cinnamon |  
 | bip_39_word_space_10 | cinnamon member effort rule quote since certain shield faith wrestle |  

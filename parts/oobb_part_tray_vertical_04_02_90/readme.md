@@ -122,6 +122,18 @@ student
 cannon
 boost
 purity |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westdigitaljuicefloatjokestudentcannonboostpuritycrisp |  
+| bip_39_word_no_space_11 | westdigitaljuicefloatjokestudentcannonboostpuritycrispsketch |  
+| bip_39_word_no_space_12 | westdigitaljuicefloatjokestudentcannonboostpuritycrispsketchalso |  
+| bip_39_word_no_space_2 | westdigital |  
+| bip_39_word_no_space_3 | westdigitaljuice |  
+| bip_39_word_no_space_4 | westdigitaljuicefloat |  
+| bip_39_word_no_space_5 | westdigitaljuicefloatjoke |  
+| bip_39_word_no_space_6 | westdigitaljuicefloatjokestudent |  
+| bip_39_word_no_space_7 | westdigitaljuicefloatjokestudentcannon |  
+| bip_39_word_no_space_8 | westdigitaljuicefloatjokestudentcannonboost |  
+| bip_39_word_no_space_9 | westdigitaljuicefloatjokestudentcannonboostpurity |  
 | bip_39_word_space_0 | ['west', 'digital', 'juice', 'float', 'joke', 'student', 'cannon', 'boost', 'purity', 'crisp', 'sketch', 'also'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west digital juice float joke student cannon boost purity crisp |  

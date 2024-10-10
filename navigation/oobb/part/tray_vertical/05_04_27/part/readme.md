@@ -122,6 +122,18 @@ opera
 very
 tag
 loop |  
+| bip_39_word_no_space_1 | debris |  
+| bip_39_word_no_space_10 | debrisstadiumpairshrimpcircleoperaverytagloopprison |  
+| bip_39_word_no_space_11 | debrisstadiumpairshrimpcircleoperaverytagloopprisonposition |  
+| bip_39_word_no_space_12 | debrisstadiumpairshrimpcircleoperaverytagloopprisonpositionarrive |  
+| bip_39_word_no_space_2 | debrisstadium |  
+| bip_39_word_no_space_3 | debrisstadiumpair |  
+| bip_39_word_no_space_4 | debrisstadiumpairshrimp |  
+| bip_39_word_no_space_5 | debrisstadiumpairshrimpcircle |  
+| bip_39_word_no_space_6 | debrisstadiumpairshrimpcircleopera |  
+| bip_39_word_no_space_7 | debrisstadiumpairshrimpcircleoperavery |  
+| bip_39_word_no_space_8 | debrisstadiumpairshrimpcircleoperaverytag |  
+| bip_39_word_no_space_9 | debrisstadiumpairshrimpcircleoperaverytagloop |  
 | bip_39_word_space_0 | ['debris', 'stadium', 'pair', 'shrimp', 'circle', 'opera', 'very', 'tag', 'loop', 'prison', 'position', 'arrive'] |  
 | bip_39_word_space_1 | debris |  
 | bip_39_word_space_10 | debris stadium pair shrimp circle opera very tag loop prison |  

@@ -122,6 +122,18 @@ sock
 aim
 fitness
 reward |  
+| bip_39_word_no_space_1 | spike |  
+| bip_39_word_no_space_10 | spiketonightsortevokeyousockaimfitnessrewarddoll |  
+| bip_39_word_no_space_11 | spiketonightsortevokeyousockaimfitnessrewarddollgame |  
+| bip_39_word_no_space_12 | spiketonightsortevokeyousockaimfitnessrewarddollgamealley |  
+| bip_39_word_no_space_2 | spiketonight |  
+| bip_39_word_no_space_3 | spiketonightsort |  
+| bip_39_word_no_space_4 | spiketonightsortevoke |  
+| bip_39_word_no_space_5 | spiketonightsortevokeyou |  
+| bip_39_word_no_space_6 | spiketonightsortevokeyousock |  
+| bip_39_word_no_space_7 | spiketonightsortevokeyousockaim |  
+| bip_39_word_no_space_8 | spiketonightsortevokeyousockaimfitness |  
+| bip_39_word_no_space_9 | spiketonightsortevokeyousockaimfitnessreward |  
 | bip_39_word_space_0 | ['spike', 'tonight', 'sort', 'evoke', 'you', 'sock', 'aim', 'fitness', 'reward', 'doll', 'game', 'alley'] |  
 | bip_39_word_space_1 | spike |  
 | bip_39_word_space_10 | spike tonight sort evoke you sock aim fitness reward doll |  

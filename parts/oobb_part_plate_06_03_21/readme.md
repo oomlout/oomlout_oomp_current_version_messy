@@ -122,6 +122,18 @@ bridge
 doctor
 hip
 join |  
+| bip_39_word_no_space_1 | machine |  
+| bip_39_word_no_space_10 | machinesortepisodespotdecidebridgedoctorhipjoinchoice |  
+| bip_39_word_no_space_11 | machinesortepisodespotdecidebridgedoctorhipjoinchoicebeach |  
+| bip_39_word_no_space_12 | machinesortepisodespotdecidebridgedoctorhipjoinchoicebeachaccess |  
+| bip_39_word_no_space_2 | machinesort |  
+| bip_39_word_no_space_3 | machinesortepisode |  
+| bip_39_word_no_space_4 | machinesortepisodespot |  
+| bip_39_word_no_space_5 | machinesortepisodespotdecide |  
+| bip_39_word_no_space_6 | machinesortepisodespotdecidebridge |  
+| bip_39_word_no_space_7 | machinesortepisodespotdecidebridgedoctor |  
+| bip_39_word_no_space_8 | machinesortepisodespotdecidebridgedoctorhip |  
+| bip_39_word_no_space_9 | machinesortepisodespotdecidebridgedoctorhipjoin |  
 | bip_39_word_space_0 | ['machine', 'sort', 'episode', 'spot', 'decide', 'bridge', 'doctor', 'hip', 'join', 'choice', 'beach', 'access'] |  
 | bip_39_word_space_1 | machine |  
 | bip_39_word_space_10 | machine sort episode spot decide bridge doctor hip join choice |  

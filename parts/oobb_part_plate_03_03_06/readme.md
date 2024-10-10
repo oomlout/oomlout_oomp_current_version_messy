@@ -122,6 +122,18 @@ scheme
 unable
 sea
 release |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigidabovegaspantennaartefactschemeunableseareleaserice |  
+| bip_39_word_no_space_11 | rigidabovegaspantennaartefactschemeunableseareleasericeenter |  
+| bip_39_word_no_space_12 | rigidabovegaspantennaartefactschemeunableseareleasericeenteraerobic |  
+| bip_39_word_no_space_2 | rigidabove |  
+| bip_39_word_no_space_3 | rigidabovegasp |  
+| bip_39_word_no_space_4 | rigidabovegaspantenna |  
+| bip_39_word_no_space_5 | rigidabovegaspantennaartefact |  
+| bip_39_word_no_space_6 | rigidabovegaspantennaartefactscheme |  
+| bip_39_word_no_space_7 | rigidabovegaspantennaartefactschemeunable |  
+| bip_39_word_no_space_8 | rigidabovegaspantennaartefactschemeunablesea |  
+| bip_39_word_no_space_9 | rigidabovegaspantennaartefactschemeunablesearelease |  
 | bip_39_word_space_0 | ['rigid', 'above', 'gasp', 'antenna', 'artefact', 'scheme', 'unable', 'sea', 'release', 'rice', 'enter', 'aerobic'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid above gasp antenna artefact scheme unable sea release rice |  

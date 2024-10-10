@@ -122,6 +122,18 @@ uncle
 pride
 grain
 meadow |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companyshopthistrophyquizunclepridegrainmeadowpossible |  
+| bip_39_word_no_space_11 | companyshopthistrophyquizunclepridegrainmeadowpossibletank |  
+| bip_39_word_no_space_12 | companyshopthistrophyquizunclepridegrainmeadowpossibletankartefact |  
+| bip_39_word_no_space_2 | companyshop |  
+| bip_39_word_no_space_3 | companyshopthis |  
+| bip_39_word_no_space_4 | companyshopthistrophy |  
+| bip_39_word_no_space_5 | companyshopthistrophyquiz |  
+| bip_39_word_no_space_6 | companyshopthistrophyquizuncle |  
+| bip_39_word_no_space_7 | companyshopthistrophyquizunclepride |  
+| bip_39_word_no_space_8 | companyshopthistrophyquizunclepridegrain |  
+| bip_39_word_no_space_9 | companyshopthistrophyquizunclepridegrainmeadow |  
 | bip_39_word_space_0 | ['company', 'shop', 'this', 'trophy', 'quiz', 'uncle', 'pride', 'grain', 'meadow', 'possible', 'tank', 'artefact'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company shop this trophy quiz uncle pride grain meadow possible |  

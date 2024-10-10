@@ -122,6 +122,18 @@ island
 crisp
 that
 bread |  
+| bip_39_word_no_space_1 | simple |  
+| bip_39_word_no_space_10 | simpleapplemergedoorsouthislandcrispthatbreadgarbage |  
+| bip_39_word_no_space_11 | simpleapplemergedoorsouthislandcrispthatbreadgarbagerelax |  
+| bip_39_word_no_space_12 | simpleapplemergedoorsouthislandcrispthatbreadgarbagerelaxaisle |  
+| bip_39_word_no_space_2 | simpleapple |  
+| bip_39_word_no_space_3 | simpleapplemerge |  
+| bip_39_word_no_space_4 | simpleapplemergedoor |  
+| bip_39_word_no_space_5 | simpleapplemergedoorsouth |  
+| bip_39_word_no_space_6 | simpleapplemergedoorsouthisland |  
+| bip_39_word_no_space_7 | simpleapplemergedoorsouthislandcrisp |  
+| bip_39_word_no_space_8 | simpleapplemergedoorsouthislandcrispthat |  
+| bip_39_word_no_space_9 | simpleapplemergedoorsouthislandcrispthatbread |  
 | bip_39_word_space_0 | ['simple', 'apple', 'merge', 'door', 'south', 'island', 'crisp', 'that', 'bread', 'garbage', 'relax', 'aisle'] |  
 | bip_39_word_space_1 | simple |  
 | bip_39_word_space_10 | simple apple merge door south island crisp that bread garbage |  

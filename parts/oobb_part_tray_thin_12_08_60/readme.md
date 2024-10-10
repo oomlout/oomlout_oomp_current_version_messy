@@ -122,6 +122,18 @@ arrange
 planet
 tonight
 shallow |  
+| bip_39_word_no_space_1 | little |  
+| bip_39_word_no_space_10 | littleagentalarmantennamadarrangeplanettonightshallownext |  
+| bip_39_word_no_space_11 | littleagentalarmantennamadarrangeplanettonightshallownextinmate |  
+| bip_39_word_no_space_12 | littleagentalarmantennamadarrangeplanettonightshallownextinmateage |  
+| bip_39_word_no_space_2 | littleagent |  
+| bip_39_word_no_space_3 | littleagentalarm |  
+| bip_39_word_no_space_4 | littleagentalarmantenna |  
+| bip_39_word_no_space_5 | littleagentalarmantennamad |  
+| bip_39_word_no_space_6 | littleagentalarmantennamadarrange |  
+| bip_39_word_no_space_7 | littleagentalarmantennamadarrangeplanet |  
+| bip_39_word_no_space_8 | littleagentalarmantennamadarrangeplanettonight |  
+| bip_39_word_no_space_9 | littleagentalarmantennamadarrangeplanettonightshallow |  
 | bip_39_word_space_0 | ['little', 'agent', 'alarm', 'antenna', 'mad', 'arrange', 'planet', 'tonight', 'shallow', 'next', 'inmate', 'age'] |  
 | bip_39_word_space_1 | little |  
 | bip_39_word_space_10 | little agent alarm antenna mad arrange planet tonight shallow next |  

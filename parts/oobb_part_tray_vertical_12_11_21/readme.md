@@ -122,6 +122,18 @@ slush
 cat
 speed
 little |  
+| bip_39_word_no_space_1 | able |  
+| bip_39_word_no_space_10 | ablefilmnursecactuswinkslushcatspeedlittledonate |  
+| bip_39_word_no_space_11 | ablefilmnursecactuswinkslushcatspeedlittledonatebrass |  
+| bip_39_word_no_space_12 | ablefilmnursecactuswinkslushcatspeedlittledonatebrassannounce |  
+| bip_39_word_no_space_2 | ablefilm |  
+| bip_39_word_no_space_3 | ablefilmnurse |  
+| bip_39_word_no_space_4 | ablefilmnursecactus |  
+| bip_39_word_no_space_5 | ablefilmnursecactuswink |  
+| bip_39_word_no_space_6 | ablefilmnursecactuswinkslush |  
+| bip_39_word_no_space_7 | ablefilmnursecactuswinkslushcat |  
+| bip_39_word_no_space_8 | ablefilmnursecactuswinkslushcatspeed |  
+| bip_39_word_no_space_9 | ablefilmnursecactuswinkslushcatspeedlittle |  
 | bip_39_word_space_0 | ['able', 'film', 'nurse', 'cactus', 'wink', 'slush', 'cat', 'speed', 'little', 'donate', 'brass', 'announce'] |  
 | bip_39_word_space_1 | able |  
 | bip_39_word_space_10 | able film nurse cactus wink slush cat speed little donate |  

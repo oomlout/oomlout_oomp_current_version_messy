@@ -122,6 +122,18 @@ wage
 engage
 release
 design |  
+| bip_39_word_no_space_1 | mean |  
+| bip_39_word_no_space_10 | meanmonstercheapawesomeunusualwageengagereleasedesignboil |  
+| bip_39_word_no_space_11 | meanmonstercheapawesomeunusualwageengagereleasedesignboilmodify |  
+| bip_39_word_no_space_12 | meanmonstercheapawesomeunusualwageengagereleasedesignboilmodifyaverage |  
+| bip_39_word_no_space_2 | meanmonster |  
+| bip_39_word_no_space_3 | meanmonstercheap |  
+| bip_39_word_no_space_4 | meanmonstercheapawesome |  
+| bip_39_word_no_space_5 | meanmonstercheapawesomeunusual |  
+| bip_39_word_no_space_6 | meanmonstercheapawesomeunusualwage |  
+| bip_39_word_no_space_7 | meanmonstercheapawesomeunusualwageengage |  
+| bip_39_word_no_space_8 | meanmonstercheapawesomeunusualwageengagerelease |  
+| bip_39_word_no_space_9 | meanmonstercheapawesomeunusualwageengagereleasedesign |  
 | bip_39_word_space_0 | ['mean', 'monster', 'cheap', 'awesome', 'unusual', 'wage', 'engage', 'release', 'design', 'boil', 'modify', 'average'] |  
 | bip_39_word_space_1 | mean |  
 | bip_39_word_space_10 | mean monster cheap awesome unusual wage engage release design boil |  

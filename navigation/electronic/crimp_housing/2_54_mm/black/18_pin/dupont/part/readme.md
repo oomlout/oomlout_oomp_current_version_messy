@@ -122,6 +122,18 @@ dice
 beauty
 minimum
 reopen |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardwantisolatelegflavordicebeautyminimumreopenshare |  
+| bip_39_word_no_space_11 | boardwantisolatelegflavordicebeautyminimumreopensharespoon |  
+| bip_39_word_no_space_12 | boardwantisolatelegflavordicebeautyminimumreopensharespoonany |  
+| bip_39_word_no_space_2 | boardwant |  
+| bip_39_word_no_space_3 | boardwantisolate |  
+| bip_39_word_no_space_4 | boardwantisolateleg |  
+| bip_39_word_no_space_5 | boardwantisolatelegflavor |  
+| bip_39_word_no_space_6 | boardwantisolatelegflavordice |  
+| bip_39_word_no_space_7 | boardwantisolatelegflavordicebeauty |  
+| bip_39_word_no_space_8 | boardwantisolatelegflavordicebeautyminimum |  
+| bip_39_word_no_space_9 | boardwantisolatelegflavordicebeautyminimumreopen |  
 | bip_39_word_space_0 | ['board', 'want', 'isolate', 'leg', 'flavor', 'dice', 'beauty', 'minimum', 'reopen', 'share', 'spoon', 'any'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board want isolate leg flavor dice beauty minimum reopen share |  

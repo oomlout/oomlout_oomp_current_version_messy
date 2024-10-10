@@ -122,6 +122,18 @@ eight
 suggest
 dinner
 theme |  
+| bip_39_word_no_space_1 | assume |  
+| bip_39_word_no_space_10 | assumeweaselmodifywetordinaryeightsuggestdinnerthemerepeat |  
+| bip_39_word_no_space_11 | assumeweaselmodifywetordinaryeightsuggestdinnerthemerepeatdecide |  
+| bip_39_word_no_space_12 | assumeweaselmodifywetordinaryeightsuggestdinnerthemerepeatdecideabuse |  
+| bip_39_word_no_space_2 | assumeweasel |  
+| bip_39_word_no_space_3 | assumeweaselmodify |  
+| bip_39_word_no_space_4 | assumeweaselmodifywet |  
+| bip_39_word_no_space_5 | assumeweaselmodifywetordinary |  
+| bip_39_word_no_space_6 | assumeweaselmodifywetordinaryeight |  
+| bip_39_word_no_space_7 | assumeweaselmodifywetordinaryeightsuggest |  
+| bip_39_word_no_space_8 | assumeweaselmodifywetordinaryeightsuggestdinner |  
+| bip_39_word_no_space_9 | assumeweaselmodifywetordinaryeightsuggestdinnertheme |  
 | bip_39_word_space_0 | ['assume', 'weasel', 'modify', 'wet', 'ordinary', 'eight', 'suggest', 'dinner', 'theme', 'repeat', 'decide', 'abuse'] |  
 | bip_39_word_space_1 | assume |  
 | bip_39_word_space_10 | assume weasel modify wet ordinary eight suggest dinner theme repeat |  

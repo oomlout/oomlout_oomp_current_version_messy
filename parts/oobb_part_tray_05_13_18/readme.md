@@ -122,6 +122,18 @@ lesson
 tackle
 offer
 either |  
+| bip_39_word_no_space_1 | dynamic |  
+| bip_39_word_no_space_10 | dynamichoverinflictdestroyclaylessontackleoffereithercanyon |  
+| bip_39_word_no_space_11 | dynamichoverinflictdestroyclaylessontackleoffereithercanyonstove |  
+| bip_39_word_no_space_12 | dynamichoverinflictdestroyclaylessontackleoffereithercanyonstoveasset |  
+| bip_39_word_no_space_2 | dynamichover |  
+| bip_39_word_no_space_3 | dynamichoverinflict |  
+| bip_39_word_no_space_4 | dynamichoverinflictdestroy |  
+| bip_39_word_no_space_5 | dynamichoverinflictdestroyclay |  
+| bip_39_word_no_space_6 | dynamichoverinflictdestroyclaylesson |  
+| bip_39_word_no_space_7 | dynamichoverinflictdestroyclaylessontackle |  
+| bip_39_word_no_space_8 | dynamichoverinflictdestroyclaylessontackleoffer |  
+| bip_39_word_no_space_9 | dynamichoverinflictdestroyclaylessontackleoffereither |  
 | bip_39_word_space_0 | ['dynamic', 'hover', 'inflict', 'destroy', 'clay', 'lesson', 'tackle', 'offer', 'either', 'canyon', 'stove', 'asset'] |  
 | bip_39_word_space_1 | dynamic |  
 | bip_39_word_space_10 | dynamic hover inflict destroy clay lesson tackle offer either canyon |  

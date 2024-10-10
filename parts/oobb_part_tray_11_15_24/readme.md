@@ -122,6 +122,18 @@ absent
 habit
 damage
 tobacco |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | deskrelaxmilkforcemillionabsenthabitdamagetobaccoexpress |  
+| bip_39_word_no_space_11 | deskrelaxmilkforcemillionabsenthabitdamagetobaccoexpresspiece |  
+| bip_39_word_no_space_12 | deskrelaxmilkforcemillionabsenthabitdamagetobaccoexpresspieceactress |  
+| bip_39_word_no_space_2 | deskrelax |  
+| bip_39_word_no_space_3 | deskrelaxmilk |  
+| bip_39_word_no_space_4 | deskrelaxmilkforce |  
+| bip_39_word_no_space_5 | deskrelaxmilkforcemillion |  
+| bip_39_word_no_space_6 | deskrelaxmilkforcemillionabsent |  
+| bip_39_word_no_space_7 | deskrelaxmilkforcemillionabsenthabit |  
+| bip_39_word_no_space_8 | deskrelaxmilkforcemillionabsenthabitdamage |  
+| bip_39_word_no_space_9 | deskrelaxmilkforcemillionabsenthabitdamagetobacco |  
 | bip_39_word_space_0 | ['desk', 'relax', 'milk', 'force', 'million', 'absent', 'habit', 'damage', 'tobacco', 'express', 'piece', 'actress'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk relax milk force million absent habit damage tobacco express |  

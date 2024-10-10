@@ -122,6 +122,18 @@ claim
 wise
 fork
 van |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitbuzzdepthonlycoffeeclaimwiseforkvantag |  
+| bip_39_word_no_space_11 | limitbuzzdepthonlycoffeeclaimwiseforkvantagnose |  
+| bip_39_word_no_space_12 | limitbuzzdepthonlycoffeeclaimwiseforkvantagnoseauction |  
+| bip_39_word_no_space_2 | limitbuzz |  
+| bip_39_word_no_space_3 | limitbuzzdepth |  
+| bip_39_word_no_space_4 | limitbuzzdepthonly |  
+| bip_39_word_no_space_5 | limitbuzzdepthonlycoffee |  
+| bip_39_word_no_space_6 | limitbuzzdepthonlycoffeeclaim |  
+| bip_39_word_no_space_7 | limitbuzzdepthonlycoffeeclaimwise |  
+| bip_39_word_no_space_8 | limitbuzzdepthonlycoffeeclaimwisefork |  
+| bip_39_word_no_space_9 | limitbuzzdepthonlycoffeeclaimwiseforkvan |  
 | bip_39_word_space_0 | ['limit', 'buzz', 'depth', 'only', 'coffee', 'claim', 'wise', 'fork', 'van', 'tag', 'nose', 'auction'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit buzz depth only coffee claim wise fork van tag |  

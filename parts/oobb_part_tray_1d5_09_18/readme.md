@@ -109,6 +109,17 @@ fresh
 vacuum
 wrong
 chaos |  
+| bip_39_word_no_space_1 | gap |  
+| bip_39_word_no_space_10 | gapaimthumbdenialholdfreshvacuumwrongchaosmagnet |  
+| bip_39_word_no_space_11 | gapaimthumbdenialholdfreshvacuumwrongchaosmagnetpolice |  
+| bip_39_word_no_space_2 | gapaim |  
+| bip_39_word_no_space_3 | gapaimthumb |  
+| bip_39_word_no_space_4 | gapaimthumbdenial |  
+| bip_39_word_no_space_5 | gapaimthumbdenialhold |  
+| bip_39_word_no_space_6 | gapaimthumbdenialholdfresh |  
+| bip_39_word_no_space_7 | gapaimthumbdenialholdfreshvacuum |  
+| bip_39_word_no_space_8 | gapaimthumbdenialholdfreshvacuumwrong |  
+| bip_39_word_no_space_9 | gapaimthumbdenialholdfreshvacuumwrongchaos |  
 | bip_39_word_space_0 | ['gap', 'aim', 'thumb', 'denial', 'hold', 'fresh', 'vacuum', 'wrong', 'chaos', 'magnet', 'police'] |  
 | bip_39_word_space_1 | gap |  
 | bip_39_word_space_10 | gap aim thumb denial hold fresh vacuum wrong chaos magnet |  

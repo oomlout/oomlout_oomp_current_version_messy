@@ -122,6 +122,18 @@ supreme
 collect
 olive
 rapid |  
+| bip_39_word_no_space_1 | park |  
+| bip_39_word_no_space_10 | parkfograwworthdesertsupremecollectoliverapidmoon |  
+| bip_39_word_no_space_11 | parkfograwworthdesertsupremecollectoliverapidmoonother |  
+| bip_39_word_no_space_12 | parkfograwworthdesertsupremecollectoliverapidmoonotherassault |  
+| bip_39_word_no_space_2 | parkfog |  
+| bip_39_word_no_space_3 | parkfograw |  
+| bip_39_word_no_space_4 | parkfograwworth |  
+| bip_39_word_no_space_5 | parkfograwworthdesert |  
+| bip_39_word_no_space_6 | parkfograwworthdesertsupreme |  
+| bip_39_word_no_space_7 | parkfograwworthdesertsupremecollect |  
+| bip_39_word_no_space_8 | parkfograwworthdesertsupremecollectolive |  
+| bip_39_word_no_space_9 | parkfograwworthdesertsupremecollectoliverapid |  
 | bip_39_word_space_0 | ['park', 'fog', 'raw', 'worth', 'desert', 'supreme', 'collect', 'olive', 'rapid', 'moon', 'other', 'assault'] |  
 | bip_39_word_space_1 | park |  
 | bip_39_word_space_10 | park fog raw worth desert supreme collect olive rapid moon |  

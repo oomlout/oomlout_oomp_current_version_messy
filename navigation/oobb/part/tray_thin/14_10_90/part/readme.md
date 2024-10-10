@@ -122,6 +122,18 @@ knife
 above
 one
 cactus |  
+| bip_39_word_no_space_1 | arrow |  
+| bip_39_word_no_space_10 | arrowpromoteheavyexpresshighknifeaboveonecactuseither |  
+| bip_39_word_no_space_11 | arrowpromoteheavyexpresshighknifeaboveonecactuseithertransfer |  
+| bip_39_word_no_space_12 | arrowpromoteheavyexpresshighknifeaboveonecactuseithertransferanchor |  
+| bip_39_word_no_space_2 | arrowpromote |  
+| bip_39_word_no_space_3 | arrowpromoteheavy |  
+| bip_39_word_no_space_4 | arrowpromoteheavyexpress |  
+| bip_39_word_no_space_5 | arrowpromoteheavyexpresshigh |  
+| bip_39_word_no_space_6 | arrowpromoteheavyexpresshighknife |  
+| bip_39_word_no_space_7 | arrowpromoteheavyexpresshighknifeabove |  
+| bip_39_word_no_space_8 | arrowpromoteheavyexpresshighknifeaboveone |  
+| bip_39_word_no_space_9 | arrowpromoteheavyexpresshighknifeaboveonecactus |  
 | bip_39_word_space_0 | ['arrow', 'promote', 'heavy', 'express', 'high', 'knife', 'above', 'one', 'cactus', 'either', 'transfer', 'anchor'] |  
 | bip_39_word_space_1 | arrow |  
 | bip_39_word_space_10 | arrow promote heavy express high knife above one cactus either |  

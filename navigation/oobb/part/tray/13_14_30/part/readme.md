@@ -122,6 +122,18 @@ ugly
 load
 escape
 until |  
+| bip_39_word_no_space_1 | firm |  
+| bip_39_word_no_space_10 | firmrightcranecreditrateuglyloadescapeuntilrifle |  
+| bip_39_word_no_space_11 | firmrightcranecreditrateuglyloadescapeuntilriflecake |  
+| bip_39_word_no_space_12 | firmrightcranecreditrateuglyloadescapeuntilriflecakeaccess |  
+| bip_39_word_no_space_2 | firmright |  
+| bip_39_word_no_space_3 | firmrightcrane |  
+| bip_39_word_no_space_4 | firmrightcranecredit |  
+| bip_39_word_no_space_5 | firmrightcranecreditrate |  
+| bip_39_word_no_space_6 | firmrightcranecreditrateugly |  
+| bip_39_word_no_space_7 | firmrightcranecreditrateuglyload |  
+| bip_39_word_no_space_8 | firmrightcranecreditrateuglyloadescape |  
+| bip_39_word_no_space_9 | firmrightcranecreditrateuglyloadescapeuntil |  
 | bip_39_word_space_0 | ['firm', 'right', 'crane', 'credit', 'rate', 'ugly', 'load', 'escape', 'until', 'rifle', 'cake', 'access'] |  
 | bip_39_word_space_1 | firm |  
 | bip_39_word_space_10 | firm right crane credit rate ugly load escape until rifle |  

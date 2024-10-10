@@ -122,6 +122,18 @@ candy
 jacket
 trouble
 rescue |  
+| bip_39_word_no_space_1 | twin |  
+| bip_39_word_no_space_10 | twinpepperseedmuseumriotcandyjackettroublerescuesentence |  
+| bip_39_word_no_space_11 | twinpepperseedmuseumriotcandyjackettroublerescuesentencecradle |  
+| bip_39_word_no_space_12 | twinpepperseedmuseumriotcandyjackettroublerescuesentencecradleask |  
+| bip_39_word_no_space_2 | twinpepper |  
+| bip_39_word_no_space_3 | twinpepperseed |  
+| bip_39_word_no_space_4 | twinpepperseedmuseum |  
+| bip_39_word_no_space_5 | twinpepperseedmuseumriot |  
+| bip_39_word_no_space_6 | twinpepperseedmuseumriotcandy |  
+| bip_39_word_no_space_7 | twinpepperseedmuseumriotcandyjacket |  
+| bip_39_word_no_space_8 | twinpepperseedmuseumriotcandyjackettrouble |  
+| bip_39_word_no_space_9 | twinpepperseedmuseumriotcandyjackettroublerescue |  
 | bip_39_word_space_0 | ['twin', 'pepper', 'seed', 'museum', 'riot', 'candy', 'jacket', 'trouble', 'rescue', 'sentence', 'cradle', 'ask'] |  
 | bip_39_word_space_1 | twin |  
 | bip_39_word_space_10 | twin pepper seed museum riot candy jacket trouble rescue sentence |  

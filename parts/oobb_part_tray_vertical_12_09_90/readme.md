@@ -122,6 +122,18 @@ obtain
 road
 tail
 trigger |  
+| bip_39_word_no_space_1 | crazy |  
+| bip_39_word_no_space_10 | crazygiftenvelopeponycrawlobtainroadtailtriggerlock |  
+| bip_39_word_no_space_11 | crazygiftenvelopeponycrawlobtainroadtailtriggerlockpurchase |  
+| bip_39_word_no_space_12 | crazygiftenvelopeponycrawlobtainroadtailtriggerlockpurchasearmed |  
+| bip_39_word_no_space_2 | crazygift |  
+| bip_39_word_no_space_3 | crazygiftenvelope |  
+| bip_39_word_no_space_4 | crazygiftenvelopepony |  
+| bip_39_word_no_space_5 | crazygiftenvelopeponycrawl |  
+| bip_39_word_no_space_6 | crazygiftenvelopeponycrawlobtain |  
+| bip_39_word_no_space_7 | crazygiftenvelopeponycrawlobtainroad |  
+| bip_39_word_no_space_8 | crazygiftenvelopeponycrawlobtainroadtail |  
+| bip_39_word_no_space_9 | crazygiftenvelopeponycrawlobtainroadtailtrigger |  
 | bip_39_word_space_0 | ['crazy', 'gift', 'envelope', 'pony', 'crawl', 'obtain', 'road', 'tail', 'trigger', 'lock', 'purchase', 'armed'] |  
 | bip_39_word_space_1 | crazy |  
 | bip_39_word_space_10 | crazy gift envelope pony crawl obtain road tail trigger lock |  

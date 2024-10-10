@@ -122,6 +122,18 @@ problem
 fog
 spare
 blast |  
+| bip_39_word_no_space_1 | torch |  
+| bip_39_word_no_space_10 | torchpuzzleagetankbecomeproblemfogspareblastrisk |  
+| bip_39_word_no_space_11 | torchpuzzleagetankbecomeproblemfogspareblastriskstage |  
+| bip_39_word_no_space_12 | torchpuzzleagetankbecomeproblemfogspareblastriskstageartwork |  
+| bip_39_word_no_space_2 | torchpuzzle |  
+| bip_39_word_no_space_3 | torchpuzzleage |  
+| bip_39_word_no_space_4 | torchpuzzleagetank |  
+| bip_39_word_no_space_5 | torchpuzzleagetankbecome |  
+| bip_39_word_no_space_6 | torchpuzzleagetankbecomeproblem |  
+| bip_39_word_no_space_7 | torchpuzzleagetankbecomeproblemfog |  
+| bip_39_word_no_space_8 | torchpuzzleagetankbecomeproblemfogspare |  
+| bip_39_word_no_space_9 | torchpuzzleagetankbecomeproblemfogspareblast |  
 | bip_39_word_space_0 | ['torch', 'puzzle', 'age', 'tank', 'become', 'problem', 'fog', 'spare', 'blast', 'risk', 'stage', 'artwork'] |  
 | bip_39_word_space_1 | torch |  
 | bip_39_word_space_10 | torch puzzle age tank become problem fog spare blast risk |  

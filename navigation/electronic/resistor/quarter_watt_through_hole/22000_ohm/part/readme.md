@@ -122,6 +122,18 @@ blame
 coast
 giant
 riot |  
+| bip_39_word_no_space_1 | much |  
+| bip_39_word_no_space_10 | muchconfirmlunchfriendartistblamecoastgiantriotreopen |  
+| bip_39_word_no_space_11 | muchconfirmlunchfriendartistblamecoastgiantriotreopenslam |  
+| bip_39_word_no_space_12 | muchconfirmlunchfriendartistblamecoastgiantriotreopenslamable |  
+| bip_39_word_no_space_2 | muchconfirm |  
+| bip_39_word_no_space_3 | muchconfirmlunch |  
+| bip_39_word_no_space_4 | muchconfirmlunchfriend |  
+| bip_39_word_no_space_5 | muchconfirmlunchfriendartist |  
+| bip_39_word_no_space_6 | muchconfirmlunchfriendartistblame |  
+| bip_39_word_no_space_7 | muchconfirmlunchfriendartistblamecoast |  
+| bip_39_word_no_space_8 | muchconfirmlunchfriendartistblamecoastgiant |  
+| bip_39_word_no_space_9 | muchconfirmlunchfriendartistblamecoastgiantriot |  
 | bip_39_word_space_0 | ['much', 'confirm', 'lunch', 'friend', 'artist', 'blame', 'coast', 'giant', 'riot', 'reopen', 'slam', 'able'] |  
 | bip_39_word_space_1 | much |  
 | bip_39_word_space_10 | much confirm lunch friend artist blame coast giant riot reopen |  

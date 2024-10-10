@@ -122,6 +122,18 @@ injury
 twice
 number
 shoe |  
+| bip_39_word_no_space_1 | crime |  
+| bip_39_word_no_space_10 | crimeweddingsatisfywisdomfatigueinjurytwicenumbershoetired |  
+| bip_39_word_no_space_11 | crimeweddingsatisfywisdomfatigueinjurytwicenumbershoetiredknow |  
+| bip_39_word_no_space_12 | crimeweddingsatisfywisdomfatigueinjurytwicenumbershoetiredknowarmor |  
+| bip_39_word_no_space_2 | crimewedding |  
+| bip_39_word_no_space_3 | crimeweddingsatisfy |  
+| bip_39_word_no_space_4 | crimeweddingsatisfywisdom |  
+| bip_39_word_no_space_5 | crimeweddingsatisfywisdomfatigue |  
+| bip_39_word_no_space_6 | crimeweddingsatisfywisdomfatigueinjury |  
+| bip_39_word_no_space_7 | crimeweddingsatisfywisdomfatigueinjurytwice |  
+| bip_39_word_no_space_8 | crimeweddingsatisfywisdomfatigueinjurytwicenumber |  
+| bip_39_word_no_space_9 | crimeweddingsatisfywisdomfatigueinjurytwicenumbershoe |  
 | bip_39_word_space_0 | ['crime', 'wedding', 'satisfy', 'wisdom', 'fatigue', 'injury', 'twice', 'number', 'shoe', 'tired', 'know', 'armor'] |  
 | bip_39_word_space_1 | crime |  
 | bip_39_word_space_10 | crime wedding satisfy wisdom fatigue injury twice number shoe tired |  

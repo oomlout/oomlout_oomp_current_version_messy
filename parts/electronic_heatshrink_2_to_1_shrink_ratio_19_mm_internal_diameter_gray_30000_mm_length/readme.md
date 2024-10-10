@@ -122,6 +122,18 @@ tumble
 climb
 income
 video |  
+| bip_39_word_no_space_1 | popular |  
+| bip_39_word_no_space_10 | popularpigeonairportobservecoachtumbleclimbincomevideolabel |  
+| bip_39_word_no_space_11 | popularpigeonairportobservecoachtumbleclimbincomevideolabelpen |  
+| bip_39_word_no_space_12 | popularpigeonairportobservecoachtumbleclimbincomevideolabelpenalpha |  
+| bip_39_word_no_space_2 | popularpigeon |  
+| bip_39_word_no_space_3 | popularpigeonairport |  
+| bip_39_word_no_space_4 | popularpigeonairportobserve |  
+| bip_39_word_no_space_5 | popularpigeonairportobservecoach |  
+| bip_39_word_no_space_6 | popularpigeonairportobservecoachtumble |  
+| bip_39_word_no_space_7 | popularpigeonairportobservecoachtumbleclimb |  
+| bip_39_word_no_space_8 | popularpigeonairportobservecoachtumbleclimbincome |  
+| bip_39_word_no_space_9 | popularpigeonairportobservecoachtumbleclimbincomevideo |  
 | bip_39_word_space_0 | ['popular', 'pigeon', 'airport', 'observe', 'coach', 'tumble', 'climb', 'income', 'video', 'label', 'pen', 'alpha'] |  
 | bip_39_word_space_1 | popular |  
 | bip_39_word_space_10 | popular pigeon airport observe coach tumble climb income video label |  

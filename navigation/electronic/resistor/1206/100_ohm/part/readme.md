@@ -122,6 +122,18 @@ dwarf
 stage
 chimney
 guide |  
+| bip_39_word_no_space_1 | castle |  
+| bip_39_word_no_space_10 | castlepartybestfilescandwarfstagechimneyguideinput |  
+| bip_39_word_no_space_11 | castlepartybestfilescandwarfstagechimneyguideinputscan |  
+| bip_39_word_no_space_12 | castlepartybestfilescandwarfstagechimneyguideinputscanability |  
+| bip_39_word_no_space_2 | castleparty |  
+| bip_39_word_no_space_3 | castlepartybest |  
+| bip_39_word_no_space_4 | castlepartybestfile |  
+| bip_39_word_no_space_5 | castlepartybestfilescan |  
+| bip_39_word_no_space_6 | castlepartybestfilescandwarf |  
+| bip_39_word_no_space_7 | castlepartybestfilescandwarfstage |  
+| bip_39_word_no_space_8 | castlepartybestfilescandwarfstagechimney |  
+| bip_39_word_no_space_9 | castlepartybestfilescandwarfstagechimneyguide |  
 | bip_39_word_space_0 | ['castle', 'party', 'best', 'file', 'scan', 'dwarf', 'stage', 'chimney', 'guide', 'input', 'scan', 'ability'] |  
 | bip_39_word_space_1 | castle |  
 | bip_39_word_space_10 | castle party best file scan dwarf stage chimney guide input |  

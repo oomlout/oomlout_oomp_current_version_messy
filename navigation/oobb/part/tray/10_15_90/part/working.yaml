@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'age
   opinion
 
   fault'
+bip_39_word_no_space_1: age
+bip_39_word_no_space_10: ageslendermuffinroofstaybluetoppleopinionfaulthunt
+bip_39_word_no_space_11: ageslendermuffinroofstaybluetoppleopinionfaulthuntathlete
+bip_39_word_no_space_12: ageslendermuffinroofstaybluetoppleopinionfaulthuntathletealpha
+bip_39_word_no_space_2: ageslender
+bip_39_word_no_space_3: ageslendermuffin
+bip_39_word_no_space_4: ageslendermuffinroof
+bip_39_word_no_space_5: ageslendermuffinroofstay
+bip_39_word_no_space_6: ageslendermuffinroofstayblue
+bip_39_word_no_space_7: ageslendermuffinroofstaybluetopple
+bip_39_word_no_space_8: ageslendermuffinroofstaybluetoppleopinion
+bip_39_word_no_space_9: ageslendermuffinroofstaybluetoppleopinionfault
 bip_39_word_space_0:
 - age
 - slender

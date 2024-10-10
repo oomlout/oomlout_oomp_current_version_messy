@@ -122,6 +122,18 @@ element
 expire
 kangaroo
 tonight |  
+| bip_39_word_no_space_1 | only |  
+| bip_39_word_no_space_10 | onlywealthvillagerocketsupremeelementexpirekangarootonightexist |  
+| bip_39_word_no_space_11 | onlywealthvillagerocketsupremeelementexpirekangarootonightexistjeans |  
+| bip_39_word_no_space_12 | onlywealthvillagerocketsupremeelementexpirekangarootonightexistjeansalbum |  
+| bip_39_word_no_space_2 | onlywealth |  
+| bip_39_word_no_space_3 | onlywealthvillage |  
+| bip_39_word_no_space_4 | onlywealthvillagerocket |  
+| bip_39_word_no_space_5 | onlywealthvillagerocketsupreme |  
+| bip_39_word_no_space_6 | onlywealthvillagerocketsupremeelement |  
+| bip_39_word_no_space_7 | onlywealthvillagerocketsupremeelementexpire |  
+| bip_39_word_no_space_8 | onlywealthvillagerocketsupremeelementexpirekangaroo |  
+| bip_39_word_no_space_9 | onlywealthvillagerocketsupremeelementexpirekangarootonight |  
 | bip_39_word_space_0 | ['only', 'wealth', 'village', 'rocket', 'supreme', 'element', 'expire', 'kangaroo', 'tonight', 'exist', 'jeans', 'album'] |  
 | bip_39_word_space_1 | only |  
 | bip_39_word_space_10 | only wealth village rocket supreme element expire kangaroo tonight exist |  

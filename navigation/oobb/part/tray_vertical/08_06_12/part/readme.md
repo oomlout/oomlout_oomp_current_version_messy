@@ -122,6 +122,18 @@ remember
 praise
 indoor
 used |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairshoeblueblindtoprememberpraiseindoorusedattack |  
+| bip_39_word_no_space_11 | repairshoeblueblindtoprememberpraiseindoorusedattackcode |  
+| bip_39_word_no_space_12 | repairshoeblueblindtoprememberpraiseindoorusedattackcodearmed |  
+| bip_39_word_no_space_2 | repairshoe |  
+| bip_39_word_no_space_3 | repairshoeblue |  
+| bip_39_word_no_space_4 | repairshoeblueblind |  
+| bip_39_word_no_space_5 | repairshoeblueblindtop |  
+| bip_39_word_no_space_6 | repairshoeblueblindtopremember |  
+| bip_39_word_no_space_7 | repairshoeblueblindtoprememberpraise |  
+| bip_39_word_no_space_8 | repairshoeblueblindtoprememberpraiseindoor |  
+| bip_39_word_no_space_9 | repairshoeblueblindtoprememberpraiseindoorused |  
 | bip_39_word_space_0 | ['repair', 'shoe', 'blue', 'blind', 'top', 'remember', 'praise', 'indoor', 'used', 'attack', 'code', 'armed'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair shoe blue blind top remember praise indoor used attack |  

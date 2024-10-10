@@ -122,6 +122,18 @@ success
 annual
 help
 final |  
+| bip_39_word_no_space_1 | panther |  
+| bip_39_word_no_space_10 | pantherinvestsurebronzepostsuccessannualhelpfinalcar |  
+| bip_39_word_no_space_11 | pantherinvestsurebronzepostsuccessannualhelpfinalcarunknown |  
+| bip_39_word_no_space_12 | pantherinvestsurebronzepostsuccessannualhelpfinalcarunknownarmy |  
+| bip_39_word_no_space_2 | pantherinvest |  
+| bip_39_word_no_space_3 | pantherinvestsure |  
+| bip_39_word_no_space_4 | pantherinvestsurebronze |  
+| bip_39_word_no_space_5 | pantherinvestsurebronzepost |  
+| bip_39_word_no_space_6 | pantherinvestsurebronzepostsuccess |  
+| bip_39_word_no_space_7 | pantherinvestsurebronzepostsuccessannual |  
+| bip_39_word_no_space_8 | pantherinvestsurebronzepostsuccessannualhelp |  
+| bip_39_word_no_space_9 | pantherinvestsurebronzepostsuccessannualhelpfinal |  
 | bip_39_word_space_0 | ['panther', 'invest', 'sure', 'bronze', 'post', 'success', 'annual', 'help', 'final', 'car', 'unknown', 'army'] |  
 | bip_39_word_space_1 | panther |  
 | bip_39_word_space_10 | panther invest sure bronze post success annual help final car |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'speak
   jeans
 
   broken'
+bip_39_word_no_space_1: speak
+bip_39_word_no_space_10: speakfallskirtpeasantdadfalsehopejeansbrokenhub
+bip_39_word_no_space_11: speakfallskirtpeasantdadfalsehopejeansbrokenhubtoss
+bip_39_word_no_space_12: speakfallskirtpeasantdadfalsehopejeansbrokenhubtossaccident
+bip_39_word_no_space_2: speakfall
+bip_39_word_no_space_3: speakfallskirt
+bip_39_word_no_space_4: speakfallskirtpeasant
+bip_39_word_no_space_5: speakfallskirtpeasantdad
+bip_39_word_no_space_6: speakfallskirtpeasantdadfalse
+bip_39_word_no_space_7: speakfallskirtpeasantdadfalsehope
+bip_39_word_no_space_8: speakfallskirtpeasantdadfalsehopejeans
+bip_39_word_no_space_9: speakfallskirtpeasantdadfalsehopejeansbroken
 bip_39_word_space_0:
 - speak
 - fall

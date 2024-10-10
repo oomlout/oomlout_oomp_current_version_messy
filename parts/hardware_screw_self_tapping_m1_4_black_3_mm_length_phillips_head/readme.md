@@ -122,6 +122,18 @@ wolf
 potato
 skate
 pattern |  
+| bip_39_word_no_space_1 | awesome |  
+| bip_39_word_no_space_10 | awesomemythsleepgalaxylobsterwolfpotatoskatepatternwest |  
+| bip_39_word_no_space_11 | awesomemythsleepgalaxylobsterwolfpotatoskatepatternwestshadow |  
+| bip_39_word_no_space_12 | awesomemythsleepgalaxylobsterwolfpotatoskatepatternwestshadowabstract |  
+| bip_39_word_no_space_2 | awesomemyth |  
+| bip_39_word_no_space_3 | awesomemythsleep |  
+| bip_39_word_no_space_4 | awesomemythsleepgalaxy |  
+| bip_39_word_no_space_5 | awesomemythsleepgalaxylobster |  
+| bip_39_word_no_space_6 | awesomemythsleepgalaxylobsterwolf |  
+| bip_39_word_no_space_7 | awesomemythsleepgalaxylobsterwolfpotato |  
+| bip_39_word_no_space_8 | awesomemythsleepgalaxylobsterwolfpotatoskate |  
+| bip_39_word_no_space_9 | awesomemythsleepgalaxylobsterwolfpotatoskatepattern |  
 | bip_39_word_space_0 | ['awesome', 'myth', 'sleep', 'galaxy', 'lobster', 'wolf', 'potato', 'skate', 'pattern', 'west', 'shadow', 'abstract'] |  
 | bip_39_word_space_1 | awesome |  
 | bip_39_word_space_10 | awesome myth sleep galaxy lobster wolf potato skate pattern west |  

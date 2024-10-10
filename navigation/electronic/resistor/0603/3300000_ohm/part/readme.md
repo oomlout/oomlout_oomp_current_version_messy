@@ -122,6 +122,18 @@ search
 leader
 load
 anger |  
+| bip_39_word_no_space_1 | doll |  
+| bip_39_word_no_space_10 | dollnephewjuicerebuildthanksearchleaderloadangervery |  
+| bip_39_word_no_space_11 | dollnephewjuicerebuildthanksearchleaderloadangerveryculture |  
+| bip_39_word_no_space_12 | dollnephewjuicerebuildthanksearchleaderloadangerverycultureagent |  
+| bip_39_word_no_space_2 | dollnephew |  
+| bip_39_word_no_space_3 | dollnephewjuice |  
+| bip_39_word_no_space_4 | dollnephewjuicerebuild |  
+| bip_39_word_no_space_5 | dollnephewjuicerebuildthank |  
+| bip_39_word_no_space_6 | dollnephewjuicerebuildthanksearch |  
+| bip_39_word_no_space_7 | dollnephewjuicerebuildthanksearchleader |  
+| bip_39_word_no_space_8 | dollnephewjuicerebuildthanksearchleaderload |  
+| bip_39_word_no_space_9 | dollnephewjuicerebuildthanksearchleaderloadanger |  
 | bip_39_word_space_0 | ['doll', 'nephew', 'juice', 'rebuild', 'thank', 'search', 'leader', 'load', 'anger', 'very', 'culture', 'agent'] |  
 | bip_39_word_space_1 | doll |  
 | bip_39_word_space_10 | doll nephew juice rebuild thank search leader load anger very |  

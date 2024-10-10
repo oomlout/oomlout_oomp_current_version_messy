@@ -122,6 +122,18 @@ romance
 differ
 fire
 come |  
+| bip_39_word_no_space_1 | shrimp |  
+| bip_39_word_no_space_10 | shrimpgownveteranalbumrivalromancedifferfirecomesomeone |  
+| bip_39_word_no_space_11 | shrimpgownveteranalbumrivalromancedifferfirecomesomeoneunder |  
+| bip_39_word_no_space_12 | shrimpgownveteranalbumrivalromancedifferfirecomesomeoneunderantique |  
+| bip_39_word_no_space_2 | shrimpgown |  
+| bip_39_word_no_space_3 | shrimpgownveteran |  
+| bip_39_word_no_space_4 | shrimpgownveteranalbum |  
+| bip_39_word_no_space_5 | shrimpgownveteranalbumrival |  
+| bip_39_word_no_space_6 | shrimpgownveteranalbumrivalromance |  
+| bip_39_word_no_space_7 | shrimpgownveteranalbumrivalromancediffer |  
+| bip_39_word_no_space_8 | shrimpgownveteranalbumrivalromancedifferfire |  
+| bip_39_word_no_space_9 | shrimpgownveteranalbumrivalromancedifferfirecome |  
 | bip_39_word_space_0 | ['shrimp', 'gown', 'veteran', 'album', 'rival', 'romance', 'differ', 'fire', 'come', 'someone', 'under', 'antique'] |  
 | bip_39_word_space_1 | shrimp |  
 | bip_39_word_space_10 | shrimp gown veteran album rival romance differ fire come someone |  

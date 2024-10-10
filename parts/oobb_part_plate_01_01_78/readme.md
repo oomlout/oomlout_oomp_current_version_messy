@@ -122,6 +122,18 @@ rival
 angle
 deposit
 entire |  
+| bip_39_word_no_space_1 | dress |  
+| bip_39_word_no_space_10 | dressallcrowddashsponsorrivalangledepositentireloop |  
+| bip_39_word_no_space_11 | dressallcrowddashsponsorrivalangledepositentireloopsix |  
+| bip_39_word_no_space_12 | dressallcrowddashsponsorrivalangledepositentireloopsixalpha |  
+| bip_39_word_no_space_2 | dressall |  
+| bip_39_word_no_space_3 | dressallcrowd |  
+| bip_39_word_no_space_4 | dressallcrowddash |  
+| bip_39_word_no_space_5 | dressallcrowddashsponsor |  
+| bip_39_word_no_space_6 | dressallcrowddashsponsorrival |  
+| bip_39_word_no_space_7 | dressallcrowddashsponsorrivalangle |  
+| bip_39_word_no_space_8 | dressallcrowddashsponsorrivalangledeposit |  
+| bip_39_word_no_space_9 | dressallcrowddashsponsorrivalangledepositentire |  
 | bip_39_word_space_0 | ['dress', 'all', 'crowd', 'dash', 'sponsor', 'rival', 'angle', 'deposit', 'entire', 'loop', 'six', 'alpha'] |  
 | bip_39_word_space_1 | dress |  
 | bip_39_word_space_10 | dress all crowd dash sponsor rival angle deposit entire loop |  

@@ -122,6 +122,18 @@ party
 message
 gain
 corn |  
+| bip_39_word_no_space_1 | uniform |  
+| bip_39_word_no_space_10 | uniformcupboardstateangledoorpartymessagegaincornpeanut |  
+| bip_39_word_no_space_11 | uniformcupboardstateangledoorpartymessagegaincornpeanutclown |  
+| bip_39_word_no_space_12 | uniformcupboardstateangledoorpartymessagegaincornpeanutclownamused |  
+| bip_39_word_no_space_2 | uniformcupboard |  
+| bip_39_word_no_space_3 | uniformcupboardstate |  
+| bip_39_word_no_space_4 | uniformcupboardstateangle |  
+| bip_39_word_no_space_5 | uniformcupboardstateangledoor |  
+| bip_39_word_no_space_6 | uniformcupboardstateangledoorparty |  
+| bip_39_word_no_space_7 | uniformcupboardstateangledoorpartymessage |  
+| bip_39_word_no_space_8 | uniformcupboardstateangledoorpartymessagegain |  
+| bip_39_word_no_space_9 | uniformcupboardstateangledoorpartymessagegaincorn |  
 | bip_39_word_space_0 | ['uniform', 'cupboard', 'state', 'angle', 'door', 'party', 'message', 'gain', 'corn', 'peanut', 'clown', 'amused'] |  
 | bip_39_word_space_1 | uniform |  
 | bip_39_word_space_10 | uniform cupboard state angle door party message gain corn peanut |  

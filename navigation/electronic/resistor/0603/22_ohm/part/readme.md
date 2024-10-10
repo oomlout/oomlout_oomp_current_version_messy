@@ -122,6 +122,18 @@ inside
 recall
 hello
 cloud |  
+| bip_39_word_no_space_1 | chase |  
+| bip_39_word_no_space_10 | chasetissuecomictuitionspikeinsiderecallhellocloudturn |  
+| bip_39_word_no_space_11 | chasetissuecomictuitionspikeinsiderecallhellocloudturncopper |  
+| bip_39_word_no_space_12 | chasetissuecomictuitionspikeinsiderecallhellocloudturncopperarmy |  
+| bip_39_word_no_space_2 | chasetissue |  
+| bip_39_word_no_space_3 | chasetissuecomic |  
+| bip_39_word_no_space_4 | chasetissuecomictuition |  
+| bip_39_word_no_space_5 | chasetissuecomictuitionspike |  
+| bip_39_word_no_space_6 | chasetissuecomictuitionspikeinside |  
+| bip_39_word_no_space_7 | chasetissuecomictuitionspikeinsiderecall |  
+| bip_39_word_no_space_8 | chasetissuecomictuitionspikeinsiderecallhello |  
+| bip_39_word_no_space_9 | chasetissuecomictuitionspikeinsiderecallhellocloud |  
 | bip_39_word_space_0 | ['chase', 'tissue', 'comic', 'tuition', 'spike', 'inside', 'recall', 'hello', 'cloud', 'turn', 'copper', 'army'] |  
 | bip_39_word_space_1 | chase |  
 | bip_39_word_space_10 | chase tissue comic tuition spike inside recall hello cloud turn |  

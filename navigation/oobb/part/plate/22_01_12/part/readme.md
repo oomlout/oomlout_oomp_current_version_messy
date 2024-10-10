@@ -122,6 +122,18 @@ great
 hundred
 afraid
 gospel |  
+| bip_39_word_no_space_1 | okay |  
+| bip_39_word_no_space_10 | okayozoneskirttennisfinishgreathundredafraidgospelchampion |  
+| bip_39_word_no_space_11 | okayozoneskirttennisfinishgreathundredafraidgospelchampionugly |  
+| bip_39_word_no_space_12 | okayozoneskirttennisfinishgreathundredafraidgospelchampionuglyarm |  
+| bip_39_word_no_space_2 | okayozone |  
+| bip_39_word_no_space_3 | okayozoneskirt |  
+| bip_39_word_no_space_4 | okayozoneskirttennis |  
+| bip_39_word_no_space_5 | okayozoneskirttennisfinish |  
+| bip_39_word_no_space_6 | okayozoneskirttennisfinishgreat |  
+| bip_39_word_no_space_7 | okayozoneskirttennisfinishgreathundred |  
+| bip_39_word_no_space_8 | okayozoneskirttennisfinishgreathundredafraid |  
+| bip_39_word_no_space_9 | okayozoneskirttennisfinishgreathundredafraidgospel |  
 | bip_39_word_space_0 | ['okay', 'ozone', 'skirt', 'tennis', 'finish', 'great', 'hundred', 'afraid', 'gospel', 'champion', 'ugly', 'arm'] |  
 | bip_39_word_space_1 | okay |  
 | bip_39_word_space_10 | okay ozone skirt tennis finish great hundred afraid gospel champion |  

@@ -122,6 +122,18 @@ problem
 junk
 ensure
 jewel |  
+| bip_39_word_no_space_1 | stumble |  
+| bip_39_word_no_space_10 | stumbleimageopposecloudarrowproblemjunkensurejewelrecycle |  
+| bip_39_word_no_space_11 | stumbleimageopposecloudarrowproblemjunkensurejewelrecycleuntil |  
+| bip_39_word_no_space_12 | stumbleimageopposecloudarrowproblemjunkensurejewelrecycleuntilancient |  
+| bip_39_word_no_space_2 | stumbleimage |  
+| bip_39_word_no_space_3 | stumbleimageoppose |  
+| bip_39_word_no_space_4 | stumbleimageopposecloud |  
+| bip_39_word_no_space_5 | stumbleimageopposecloudarrow |  
+| bip_39_word_no_space_6 | stumbleimageopposecloudarrowproblem |  
+| bip_39_word_no_space_7 | stumbleimageopposecloudarrowproblemjunk |  
+| bip_39_word_no_space_8 | stumbleimageopposecloudarrowproblemjunkensure |  
+| bip_39_word_no_space_9 | stumbleimageopposecloudarrowproblemjunkensurejewel |  
 | bip_39_word_space_0 | ['stumble', 'image', 'oppose', 'cloud', 'arrow', 'problem', 'junk', 'ensure', 'jewel', 'recycle', 'until', 'ancient'] |  
 | bip_39_word_space_1 | stumble |  
 | bip_39_word_space_10 | stumble image oppose cloud arrow problem junk ensure jewel recycle |  

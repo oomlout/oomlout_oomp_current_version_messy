@@ -122,6 +122,18 @@ web
 cereal
 uncle
 calm |  
+| bip_39_word_no_space_1 | spell |  
+| bip_39_word_no_space_10 | spellproblemenrichreliefladderwebcerealunclecalmspike |  
+| bip_39_word_no_space_11 | spellproblemenrichreliefladderwebcerealunclecalmspiketomato |  
+| bip_39_word_no_space_12 | spellproblemenrichreliefladderwebcerealunclecalmspiketomatoany |  
+| bip_39_word_no_space_2 | spellproblem |  
+| bip_39_word_no_space_3 | spellproblemenrich |  
+| bip_39_word_no_space_4 | spellproblemenrichrelief |  
+| bip_39_word_no_space_5 | spellproblemenrichreliefladder |  
+| bip_39_word_no_space_6 | spellproblemenrichreliefladderweb |  
+| bip_39_word_no_space_7 | spellproblemenrichreliefladderwebcereal |  
+| bip_39_word_no_space_8 | spellproblemenrichreliefladderwebcerealuncle |  
+| bip_39_word_no_space_9 | spellproblemenrichreliefladderwebcerealunclecalm |  
 | bip_39_word_space_0 | ['spell', 'problem', 'enrich', 'relief', 'ladder', 'web', 'cereal', 'uncle', 'calm', 'spike', 'tomato', 'any'] |  
 | bip_39_word_space_1 | spell |  
 | bip_39_word_space_10 | spell problem enrich relief ladder web cereal uncle calm spike |  

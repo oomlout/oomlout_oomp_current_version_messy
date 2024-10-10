@@ -122,6 +122,18 @@ prize
 sleep
 before
 dress |  
+| bip_39_word_no_space_1 | motor |  
+| bip_39_word_no_space_10 | motorinvestsamesuspecthazardprizesleepbeforedressphoto |  
+| bip_39_word_no_space_11 | motorinvestsamesuspecthazardprizesleepbeforedressphotoreveal |  
+| bip_39_word_no_space_12 | motorinvestsamesuspecthazardprizesleepbeforedressphotorevealaim |  
+| bip_39_word_no_space_2 | motorinvest |  
+| bip_39_word_no_space_3 | motorinvestsame |  
+| bip_39_word_no_space_4 | motorinvestsamesuspect |  
+| bip_39_word_no_space_5 | motorinvestsamesuspecthazard |  
+| bip_39_word_no_space_6 | motorinvestsamesuspecthazardprize |  
+| bip_39_word_no_space_7 | motorinvestsamesuspecthazardprizesleep |  
+| bip_39_word_no_space_8 | motorinvestsamesuspecthazardprizesleepbefore |  
+| bip_39_word_no_space_9 | motorinvestsamesuspecthazardprizesleepbeforedress |  
 | bip_39_word_space_0 | ['motor', 'invest', 'same', 'suspect', 'hazard', 'prize', 'sleep', 'before', 'dress', 'photo', 'reveal', 'aim'] |  
 | bip_39_word_space_1 | motor |  
 | bip_39_word_space_10 | motor invest same suspect hazard prize sleep before dress photo |  

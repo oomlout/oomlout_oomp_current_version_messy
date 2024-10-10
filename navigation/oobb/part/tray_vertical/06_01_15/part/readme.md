@@ -122,6 +122,18 @@ tree
 argue
 rough
 essay |  
+| bip_39_word_no_space_1 | glory |  
+| bip_39_word_no_space_10 | gloryfrostdutchraincabletreeargueroughessayskull |  
+| bip_39_word_no_space_11 | gloryfrostdutchraincabletreeargueroughessayskullhorn |  
+| bip_39_word_no_space_12 | gloryfrostdutchraincabletreeargueroughessayskullhornaerobic |  
+| bip_39_word_no_space_2 | gloryfrost |  
+| bip_39_word_no_space_3 | gloryfrostdutch |  
+| bip_39_word_no_space_4 | gloryfrostdutchrain |  
+| bip_39_word_no_space_5 | gloryfrostdutchraincable |  
+| bip_39_word_no_space_6 | gloryfrostdutchraincabletree |  
+| bip_39_word_no_space_7 | gloryfrostdutchraincabletreeargue |  
+| bip_39_word_no_space_8 | gloryfrostdutchraincabletreearguerough |  
+| bip_39_word_no_space_9 | gloryfrostdutchraincabletreeargueroughessay |  
 | bip_39_word_space_0 | ['glory', 'frost', 'dutch', 'rain', 'cable', 'tree', 'argue', 'rough', 'essay', 'skull', 'horn', 'aerobic'] |  
 | bip_39_word_space_1 | glory |  
 | bip_39_word_space_10 | glory frost dutch rain cable tree argue rough essay skull |  

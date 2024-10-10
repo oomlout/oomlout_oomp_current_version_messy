@@ -122,6 +122,18 @@ skill
 swarm
 rebel
 route |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizedegreeponypopularbounceskillswarmrebelroutelimit |  
+| bip_39_word_no_space_11 | prizedegreeponypopularbounceskillswarmrebelroutelimitcontrol |  
+| bip_39_word_no_space_12 | prizedegreeponypopularbounceskillswarmrebelroutelimitcontrolalert |  
+| bip_39_word_no_space_2 | prizedegree |  
+| bip_39_word_no_space_3 | prizedegreepony |  
+| bip_39_word_no_space_4 | prizedegreeponypopular |  
+| bip_39_word_no_space_5 | prizedegreeponypopularbounce |  
+| bip_39_word_no_space_6 | prizedegreeponypopularbounceskill |  
+| bip_39_word_no_space_7 | prizedegreeponypopularbounceskillswarm |  
+| bip_39_word_no_space_8 | prizedegreeponypopularbounceskillswarmrebel |  
+| bip_39_word_no_space_9 | prizedegreeponypopularbounceskillswarmrebelroute |  
 | bip_39_word_space_0 | ['prize', 'degree', 'pony', 'popular', 'bounce', 'skill', 'swarm', 'rebel', 'route', 'limit', 'control', 'alert'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize degree pony popular bounce skill swarm rebel route limit |  

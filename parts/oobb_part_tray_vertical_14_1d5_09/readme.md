@@ -122,6 +122,18 @@ pizza
 floor
 range
 crush |  
+| bip_39_word_no_space_1 | pipe |  
+| bip_39_word_no_space_10 | pipelecturecoinalarmrightpizzafloorrangecrushzebra |  
+| bip_39_word_no_space_11 | pipelecturecoinalarmrightpizzafloorrangecrushzebracongress |  
+| bip_39_word_no_space_12 | pipelecturecoinalarmrightpizzafloorrangecrushzebracongressalcohol |  
+| bip_39_word_no_space_2 | pipelecture |  
+| bip_39_word_no_space_3 | pipelecturecoin |  
+| bip_39_word_no_space_4 | pipelecturecoinalarm |  
+| bip_39_word_no_space_5 | pipelecturecoinalarmright |  
+| bip_39_word_no_space_6 | pipelecturecoinalarmrightpizza |  
+| bip_39_word_no_space_7 | pipelecturecoinalarmrightpizzafloor |  
+| bip_39_word_no_space_8 | pipelecturecoinalarmrightpizzafloorrange |  
+| bip_39_word_no_space_9 | pipelecturecoinalarmrightpizzafloorrangecrush |  
 | bip_39_word_space_0 | ['pipe', 'lecture', 'coin', 'alarm', 'right', 'pizza', 'floor', 'range', 'crush', 'zebra', 'congress', 'alcohol'] |  
 | bip_39_word_space_1 | pipe |  
 | bip_39_word_space_10 | pipe lecture coin alarm right pizza floor range crush zebra |  

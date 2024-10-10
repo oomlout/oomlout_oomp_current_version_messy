@@ -122,6 +122,18 @@ minimum
 tumble
 gossip
 iron |  
+| bip_39_word_no_space_1 | sense |  
+| bip_39_word_no_space_10 | sensedialreleaseignoreforestminimumtumblegossipironupdate |  
+| bip_39_word_no_space_11 | sensedialreleaseignoreforestminimumtumblegossipironupdatestruggle |  
+| bip_39_word_no_space_12 | sensedialreleaseignoreforestminimumtumblegossipironupdatestruggleattitude |  
+| bip_39_word_no_space_2 | sensedial |  
+| bip_39_word_no_space_3 | sensedialrelease |  
+| bip_39_word_no_space_4 | sensedialreleaseignore |  
+| bip_39_word_no_space_5 | sensedialreleaseignoreforest |  
+| bip_39_word_no_space_6 | sensedialreleaseignoreforestminimum |  
+| bip_39_word_no_space_7 | sensedialreleaseignoreforestminimumtumble |  
+| bip_39_word_no_space_8 | sensedialreleaseignoreforestminimumtumblegossip |  
+| bip_39_word_no_space_9 | sensedialreleaseignoreforestminimumtumblegossipiron |  
 | bip_39_word_space_0 | ['sense', 'dial', 'release', 'ignore', 'forest', 'minimum', 'tumble', 'gossip', 'iron', 'update', 'struggle', 'attitude'] |  
 | bip_39_word_space_1 | sense |  
 | bip_39_word_space_10 | sense dial release ignore forest minimum tumble gossip iron update |  

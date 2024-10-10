@@ -122,6 +122,18 @@ hello
 document
 time
 danger |  
+| bip_39_word_no_space_1 | funny |  
+| bip_39_word_no_space_10 | funnymixedverbplungesubjecthellodocumenttimedangertimber |  
+| bip_39_word_no_space_11 | funnymixedverbplungesubjecthellodocumenttimedangertimbertoken |  
+| bip_39_word_no_space_12 | funnymixedverbplungesubjecthellodocumenttimedangertimbertokenacquire |  
+| bip_39_word_no_space_2 | funnymixed |  
+| bip_39_word_no_space_3 | funnymixedverb |  
+| bip_39_word_no_space_4 | funnymixedverbplunge |  
+| bip_39_word_no_space_5 | funnymixedverbplungesubject |  
+| bip_39_word_no_space_6 | funnymixedverbplungesubjecthello |  
+| bip_39_word_no_space_7 | funnymixedverbplungesubjecthellodocument |  
+| bip_39_word_no_space_8 | funnymixedverbplungesubjecthellodocumenttime |  
+| bip_39_word_no_space_9 | funnymixedverbplungesubjecthellodocumenttimedanger |  
 | bip_39_word_space_0 | ['funny', 'mixed', 'verb', 'plunge', 'subject', 'hello', 'document', 'time', 'danger', 'timber', 'token', 'acquire'] |  
 | bip_39_word_space_1 | funny |  
 | bip_39_word_space_10 | funny mixed verb plunge subject hello document time danger timber |  

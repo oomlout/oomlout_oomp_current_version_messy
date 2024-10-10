@@ -122,6 +122,18 @@ swallow
 copy
 humble
 shallow |  
+| bip_39_word_no_space_1 | garment |  
+| bip_39_word_no_space_10 | garmentlegendsuddenstereocivilswallowcopyhumbleshallownuclear |  
+| bip_39_word_no_space_11 | garmentlegendsuddenstereocivilswallowcopyhumbleshallownuclearleg |  
+| bip_39_word_no_space_12 | garmentlegendsuddenstereocivilswallowcopyhumbleshallownuclearlegage |  
+| bip_39_word_no_space_2 | garmentlegend |  
+| bip_39_word_no_space_3 | garmentlegendsudden |  
+| bip_39_word_no_space_4 | garmentlegendsuddenstereo |  
+| bip_39_word_no_space_5 | garmentlegendsuddenstereocivil |  
+| bip_39_word_no_space_6 | garmentlegendsuddenstereocivilswallow |  
+| bip_39_word_no_space_7 | garmentlegendsuddenstereocivilswallowcopy |  
+| bip_39_word_no_space_8 | garmentlegendsuddenstereocivilswallowcopyhumble |  
+| bip_39_word_no_space_9 | garmentlegendsuddenstereocivilswallowcopyhumbleshallow |  
 | bip_39_word_space_0 | ['garment', 'legend', 'sudden', 'stereo', 'civil', 'swallow', 'copy', 'humble', 'shallow', 'nuclear', 'leg', 'age'] |  
 | bip_39_word_space_1 | garment |  
 | bip_39_word_space_10 | garment legend sudden stereo civil swallow copy humble shallow nuclear |  

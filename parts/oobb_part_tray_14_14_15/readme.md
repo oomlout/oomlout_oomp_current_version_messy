@@ -122,6 +122,18 @@ match
 wet
 lawn
 lecture |  
+| bip_39_word_no_space_1 | response |  
+| bip_39_word_no_space_10 | responsebuildlogicerasedismissmatchwetlawnlectureadmit |  
+| bip_39_word_no_space_11 | responsebuildlogicerasedismissmatchwetlawnlectureadmitoval |  
+| bip_39_word_no_space_12 | responsebuildlogicerasedismissmatchwetlawnlectureadmitovaladd |  
+| bip_39_word_no_space_2 | responsebuild |  
+| bip_39_word_no_space_3 | responsebuildlogic |  
+| bip_39_word_no_space_4 | responsebuildlogicerase |  
+| bip_39_word_no_space_5 | responsebuildlogicerasedismiss |  
+| bip_39_word_no_space_6 | responsebuildlogicerasedismissmatch |  
+| bip_39_word_no_space_7 | responsebuildlogicerasedismissmatchwet |  
+| bip_39_word_no_space_8 | responsebuildlogicerasedismissmatchwetlawn |  
+| bip_39_word_no_space_9 | responsebuildlogicerasedismissmatchwetlawnlecture |  
 | bip_39_word_space_0 | ['response', 'build', 'logic', 'erase', 'dismiss', 'match', 'wet', 'lawn', 'lecture', 'admit', 'oval', 'add'] |  
 | bip_39_word_space_1 | response |  
 | bip_39_word_space_10 | response build logic erase dismiss match wet lawn lecture admit |  

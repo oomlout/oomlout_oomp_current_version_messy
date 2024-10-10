@@ -122,6 +122,18 @@ rebuild
 craft
 hammer
 photo |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstpaymentticketerainstallrebuildcrafthammerphotobest |  
+| bip_39_word_no_space_11 | firstpaymentticketerainstallrebuildcrafthammerphotobestselect |  
+| bip_39_word_no_space_12 | firstpaymentticketerainstallrebuildcrafthammerphotobestselectartefact |  
+| bip_39_word_no_space_2 | firstpayment |  
+| bip_39_word_no_space_3 | firstpaymentticket |  
+| bip_39_word_no_space_4 | firstpaymentticketera |  
+| bip_39_word_no_space_5 | firstpaymentticketerainstall |  
+| bip_39_word_no_space_6 | firstpaymentticketerainstallrebuild |  
+| bip_39_word_no_space_7 | firstpaymentticketerainstallrebuildcraft |  
+| bip_39_word_no_space_8 | firstpaymentticketerainstallrebuildcrafthammer |  
+| bip_39_word_no_space_9 | firstpaymentticketerainstallrebuildcrafthammerphoto |  
 | bip_39_word_space_0 | ['first', 'payment', 'ticket', 'era', 'install', 'rebuild', 'craft', 'hammer', 'photo', 'best', 'select', 'artefact'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first payment ticket era install rebuild craft hammer photo best |  

@@ -122,6 +122,18 @@ symbol
 weird
 slush
 swing |  
+| bip_39_word_no_space_1 | bench |  
+| bip_39_word_no_space_10 | benchparademouseimageequalsymbolweirdslushswingdiary |  
+| bip_39_word_no_space_11 | benchparademouseimageequalsymbolweirdslushswingdiaryperfect |  
+| bip_39_word_no_space_12 | benchparademouseimageequalsymbolweirdslushswingdiaryperfectaffair |  
+| bip_39_word_no_space_2 | benchparade |  
+| bip_39_word_no_space_3 | benchparademouse |  
+| bip_39_word_no_space_4 | benchparademouseimage |  
+| bip_39_word_no_space_5 | benchparademouseimageequal |  
+| bip_39_word_no_space_6 | benchparademouseimageequalsymbol |  
+| bip_39_word_no_space_7 | benchparademouseimageequalsymbolweird |  
+| bip_39_word_no_space_8 | benchparademouseimageequalsymbolweirdslush |  
+| bip_39_word_no_space_9 | benchparademouseimageequalsymbolweirdslushswing |  
 | bip_39_word_space_0 | ['bench', 'parade', 'mouse', 'image', 'equal', 'symbol', 'weird', 'slush', 'swing', 'diary', 'perfect', 'affair'] |  
 | bip_39_word_space_1 | bench |  
 | bip_39_word_space_10 | bench parade mouse image equal symbol weird slush swing diary |  

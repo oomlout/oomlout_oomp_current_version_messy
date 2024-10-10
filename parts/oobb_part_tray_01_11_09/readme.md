@@ -122,6 +122,18 @@ barrel
 bulb
 flash
 universe |  
+| bip_39_word_no_space_1 | hurt |  
+| bip_39_word_no_space_10 | hurtwomaneraseconsiderlogicbarrelbulbflashuniversepurpose |  
+| bip_39_word_no_space_11 | hurtwomaneraseconsiderlogicbarrelbulbflashuniversepurposetrophy |  
+| bip_39_word_no_space_12 | hurtwomaneraseconsiderlogicbarrelbulbflashuniversepurposetrophyangry |  
+| bip_39_word_no_space_2 | hurtwoman |  
+| bip_39_word_no_space_3 | hurtwomanerase |  
+| bip_39_word_no_space_4 | hurtwomaneraseconsider |  
+| bip_39_word_no_space_5 | hurtwomaneraseconsiderlogic |  
+| bip_39_word_no_space_6 | hurtwomaneraseconsiderlogicbarrel |  
+| bip_39_word_no_space_7 | hurtwomaneraseconsiderlogicbarrelbulb |  
+| bip_39_word_no_space_8 | hurtwomaneraseconsiderlogicbarrelbulbflash |  
+| bip_39_word_no_space_9 | hurtwomaneraseconsiderlogicbarrelbulbflashuniverse |  
 | bip_39_word_space_0 | ['hurt', 'woman', 'erase', 'consider', 'logic', 'barrel', 'bulb', 'flash', 'universe', 'purpose', 'trophy', 'angry'] |  
 | bip_39_word_space_1 | hurt |  
 | bip_39_word_space_10 | hurt woman erase consider logic barrel bulb flash universe purpose |  

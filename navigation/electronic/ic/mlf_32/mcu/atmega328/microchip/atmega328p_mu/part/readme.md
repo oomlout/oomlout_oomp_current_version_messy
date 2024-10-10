@@ -122,6 +122,18 @@ team
 library
 teach
 swear |  
+| bip_39_word_no_space_1 | poem |  
+| bip_39_word_no_space_10 | poemmomspiritsummerwaitteamlibraryteachswearbelieve |  
+| bip_39_word_no_space_11 | poemmomspiritsummerwaitteamlibraryteachswearbelievefall |  
+| bip_39_word_no_space_12 | poemmomspiritsummerwaitteamlibraryteachswearbelievefallaspect |  
+| bip_39_word_no_space_2 | poemmom |  
+| bip_39_word_no_space_3 | poemmomspirit |  
+| bip_39_word_no_space_4 | poemmomspiritsummer |  
+| bip_39_word_no_space_5 | poemmomspiritsummerwait |  
+| bip_39_word_no_space_6 | poemmomspiritsummerwaitteam |  
+| bip_39_word_no_space_7 | poemmomspiritsummerwaitteamlibrary |  
+| bip_39_word_no_space_8 | poemmomspiritsummerwaitteamlibraryteach |  
+| bip_39_word_no_space_9 | poemmomspiritsummerwaitteamlibraryteachswear |  
 | bip_39_word_space_0 | ['poem', 'mom', 'spirit', 'summer', 'wait', 'team', 'library', 'teach', 'swear', 'believe', 'fall', 'aspect'] |  
 | bip_39_word_space_1 | poem |  
 | bip_39_word_space_10 | poem mom spirit summer wait team library teach swear believe |  

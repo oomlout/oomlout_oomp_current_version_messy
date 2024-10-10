@@ -122,6 +122,18 @@ shed
 chronic
 knee
 focus |  
+| bip_39_word_no_space_1 | couch |  
+| bip_39_word_no_space_10 | couchhillsimilarnestrathershedchronickneefocuseasily |  
+| bip_39_word_no_space_11 | couchhillsimilarnestrathershedchronickneefocuseasilymandate |  
+| bip_39_word_no_space_12 | couchhillsimilarnestrathershedchronickneefocuseasilymandateanchor |  
+| bip_39_word_no_space_2 | couchhill |  
+| bip_39_word_no_space_3 | couchhillsimilar |  
+| bip_39_word_no_space_4 | couchhillsimilarnest |  
+| bip_39_word_no_space_5 | couchhillsimilarnestrather |  
+| bip_39_word_no_space_6 | couchhillsimilarnestrathershed |  
+| bip_39_word_no_space_7 | couchhillsimilarnestrathershedchronic |  
+| bip_39_word_no_space_8 | couchhillsimilarnestrathershedchronicknee |  
+| bip_39_word_no_space_9 | couchhillsimilarnestrathershedchronickneefocus |  
 | bip_39_word_space_0 | ['couch', 'hill', 'similar', 'nest', 'rather', 'shed', 'chronic', 'knee', 'focus', 'easily', 'mandate', 'anchor'] |  
 | bip_39_word_space_1 | couch |  
 | bip_39_word_space_10 | couch hill similar nest rather shed chronic knee focus easily |  

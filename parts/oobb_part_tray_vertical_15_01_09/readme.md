@@ -122,6 +122,18 @@ orbit
 quit
 neck
 large |  
+| bip_39_word_no_space_1 | fatal |  
+| bip_39_word_no_space_10 | fatalsilverslotgaspsimpleorbitquitnecklargeseven |  
+| bip_39_word_no_space_11 | fatalsilverslotgaspsimpleorbitquitnecklargesevenhelp |  
+| bip_39_word_no_space_12 | fatalsilverslotgaspsimpleorbitquitnecklargesevenhelpanother |  
+| bip_39_word_no_space_2 | fatalsilver |  
+| bip_39_word_no_space_3 | fatalsilverslot |  
+| bip_39_word_no_space_4 | fatalsilverslotgasp |  
+| bip_39_word_no_space_5 | fatalsilverslotgaspsimple |  
+| bip_39_word_no_space_6 | fatalsilverslotgaspsimpleorbit |  
+| bip_39_word_no_space_7 | fatalsilverslotgaspsimpleorbitquit |  
+| bip_39_word_no_space_8 | fatalsilverslotgaspsimpleorbitquitneck |  
+| bip_39_word_no_space_9 | fatalsilverslotgaspsimpleorbitquitnecklarge |  
 | bip_39_word_space_0 | ['fatal', 'silver', 'slot', 'gasp', 'simple', 'orbit', 'quit', 'neck', 'large', 'seven', 'help', 'another'] |  
 | bip_39_word_space_1 | fatal |  
 | bip_39_word_space_10 | fatal silver slot gasp simple orbit quit neck large seven |  

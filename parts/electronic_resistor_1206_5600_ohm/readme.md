@@ -122,6 +122,18 @@ patch
 slender
 decrease
 demand |  
+| bip_39_word_no_space_1 | basic |  
+| bip_39_word_no_space_10 | basicsmallpulsewineanklepatchslenderdecreasedemandpossible |  
+| bip_39_word_no_space_11 | basicsmallpulsewineanklepatchslenderdecreasedemandpossibleidentify |  
+| bip_39_word_no_space_12 | basicsmallpulsewineanklepatchslenderdecreasedemandpossibleidentifyasthma |  
+| bip_39_word_no_space_2 | basicsmall |  
+| bip_39_word_no_space_3 | basicsmallpulse |  
+| bip_39_word_no_space_4 | basicsmallpulsewine |  
+| bip_39_word_no_space_5 | basicsmallpulsewineankle |  
+| bip_39_word_no_space_6 | basicsmallpulsewineanklepatch |  
+| bip_39_word_no_space_7 | basicsmallpulsewineanklepatchslender |  
+| bip_39_word_no_space_8 | basicsmallpulsewineanklepatchslenderdecrease |  
+| bip_39_word_no_space_9 | basicsmallpulsewineanklepatchslenderdecreasedemand |  
 | bip_39_word_space_0 | ['basic', 'small', 'pulse', 'wine', 'ankle', 'patch', 'slender', 'decrease', 'demand', 'possible', 'identify', 'asthma'] |  
 | bip_39_word_space_1 | basic |  
 | bip_39_word_space_10 | basic small pulse wine ankle patch slender decrease demand possible |  

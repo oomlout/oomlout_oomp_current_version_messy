@@ -122,6 +122,18 @@ submit
 lawn
 original
 orchard |  
+| bip_39_word_no_space_1 | absorb |  
+| bip_39_word_no_space_10 | absorbtrapwitnesslayerendsubmitlawnoriginalorchardgain |  
+| bip_39_word_no_space_11 | absorbtrapwitnesslayerendsubmitlawnoriginalorchardgainservice |  
+| bip_39_word_no_space_12 | absorbtrapwitnesslayerendsubmitlawnoriginalorchardgainserviceairport |  
+| bip_39_word_no_space_2 | absorbtrap |  
+| bip_39_word_no_space_3 | absorbtrapwitness |  
+| bip_39_word_no_space_4 | absorbtrapwitnesslayer |  
+| bip_39_word_no_space_5 | absorbtrapwitnesslayerend |  
+| bip_39_word_no_space_6 | absorbtrapwitnesslayerendsubmit |  
+| bip_39_word_no_space_7 | absorbtrapwitnesslayerendsubmitlawn |  
+| bip_39_word_no_space_8 | absorbtrapwitnesslayerendsubmitlawnoriginal |  
+| bip_39_word_no_space_9 | absorbtrapwitnesslayerendsubmitlawnoriginalorchard |  
 | bip_39_word_space_0 | ['absorb', 'trap', 'witness', 'layer', 'end', 'submit', 'lawn', 'original', 'orchard', 'gain', 'service', 'airport'] |  
 | bip_39_word_space_1 | absorb |  
 | bip_39_word_space_10 | absorb trap witness layer end submit lawn original orchard gain |  

@@ -122,6 +122,18 @@ spin
 sort
 vendor
 speed |  
+| bip_39_word_no_space_1 | cube |  
+| bip_39_word_no_space_10 | cubepursemotioneagerkangaroospinsortvendorspeedprepare |  
+| bip_39_word_no_space_11 | cubepursemotioneagerkangaroospinsortvendorspeedpreparepistol |  
+| bip_39_word_no_space_12 | cubepursemotioneagerkangaroospinsortvendorspeedpreparepistolassume |  
+| bip_39_word_no_space_2 | cubepurse |  
+| bip_39_word_no_space_3 | cubepursemotion |  
+| bip_39_word_no_space_4 | cubepursemotioneager |  
+| bip_39_word_no_space_5 | cubepursemotioneagerkangaroo |  
+| bip_39_word_no_space_6 | cubepursemotioneagerkangaroospin |  
+| bip_39_word_no_space_7 | cubepursemotioneagerkangaroospinsort |  
+| bip_39_word_no_space_8 | cubepursemotioneagerkangaroospinsortvendor |  
+| bip_39_word_no_space_9 | cubepursemotioneagerkangaroospinsortvendorspeed |  
 | bip_39_word_space_0 | ['cube', 'purse', 'motion', 'eager', 'kangaroo', 'spin', 'sort', 'vendor', 'speed', 'prepare', 'pistol', 'assume'] |  
 | bip_39_word_space_1 | cube |  
 | bip_39_word_space_10 | cube purse motion eager kangaroo spin sort vendor speed prepare |  

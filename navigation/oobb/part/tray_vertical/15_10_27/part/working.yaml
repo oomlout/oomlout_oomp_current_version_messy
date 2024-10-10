@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'type
   photo
 
   virus'
+bip_39_word_no_space_1: type
+bip_39_word_no_space_10: typemuseumembodymomentdisplaymaidspreadphotovirushusband
+bip_39_word_no_space_11: typemuseumembodymomentdisplaymaidspreadphotovirushusbandmaster
+bip_39_word_no_space_12: typemuseumembodymomentdisplaymaidspreadphotovirushusbandmasteratom
+bip_39_word_no_space_2: typemuseum
+bip_39_word_no_space_3: typemuseumembody
+bip_39_word_no_space_4: typemuseumembodymoment
+bip_39_word_no_space_5: typemuseumembodymomentdisplay
+bip_39_word_no_space_6: typemuseumembodymomentdisplaymaid
+bip_39_word_no_space_7: typemuseumembodymomentdisplaymaidspread
+bip_39_word_no_space_8: typemuseumembodymomentdisplaymaidspreadphoto
+bip_39_word_no_space_9: typemuseumembodymomentdisplaymaidspreadphotovirus
 bip_39_word_space_0:
 - type
 - museum

@@ -122,6 +122,18 @@ torch
 kick
 truth
 code |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampgritbusinesspepperbronzetorchkicktruthcodeclarify |  
+| bip_39_word_no_space_11 | stampgritbusinesspepperbronzetorchkicktruthcodeclarifyremind |  
+| bip_39_word_no_space_12 | stampgritbusinesspepperbronzetorchkicktruthcodeclarifyremindaccount |  
+| bip_39_word_no_space_2 | stampgrit |  
+| bip_39_word_no_space_3 | stampgritbusiness |  
+| bip_39_word_no_space_4 | stampgritbusinesspepper |  
+| bip_39_word_no_space_5 | stampgritbusinesspepperbronze |  
+| bip_39_word_no_space_6 | stampgritbusinesspepperbronzetorch |  
+| bip_39_word_no_space_7 | stampgritbusinesspepperbronzetorchkick |  
+| bip_39_word_no_space_8 | stampgritbusinesspepperbronzetorchkicktruth |  
+| bip_39_word_no_space_9 | stampgritbusinesspepperbronzetorchkicktruthcode |  
 | bip_39_word_space_0 | ['stamp', 'grit', 'business', 'pepper', 'bronze', 'torch', 'kick', 'truth', 'code', 'clarify', 'remind', 'account'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp grit business pepper bronze torch kick truth code clarify |  

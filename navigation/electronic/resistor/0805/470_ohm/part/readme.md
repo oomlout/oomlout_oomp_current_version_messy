@@ -122,6 +122,18 @@ possible
 into
 joke
 february |  
+| bip_39_word_no_space_1 | dose |  
+| bip_39_word_no_space_10 | dosefragilemonitorghostsaddlepossibleintojokefebruarywhat |  
+| bip_39_word_no_space_11 | dosefragilemonitorghostsaddlepossibleintojokefebruarywhatlyrics |  
+| bip_39_word_no_space_12 | dosefragilemonitorghostsaddlepossibleintojokefebruarywhatlyricsattack |  
+| bip_39_word_no_space_2 | dosefragile |  
+| bip_39_word_no_space_3 | dosefragilemonitor |  
+| bip_39_word_no_space_4 | dosefragilemonitorghost |  
+| bip_39_word_no_space_5 | dosefragilemonitorghostsaddle |  
+| bip_39_word_no_space_6 | dosefragilemonitorghostsaddlepossible |  
+| bip_39_word_no_space_7 | dosefragilemonitorghostsaddlepossibleinto |  
+| bip_39_word_no_space_8 | dosefragilemonitorghostsaddlepossibleintojoke |  
+| bip_39_word_no_space_9 | dosefragilemonitorghostsaddlepossibleintojokefebruary |  
 | bip_39_word_space_0 | ['dose', 'fragile', 'monitor', 'ghost', 'saddle', 'possible', 'into', 'joke', 'february', 'what', 'lyrics', 'attack'] |  
 | bip_39_word_space_1 | dose |  
 | bip_39_word_space_10 | dose fragile monitor ghost saddle possible into joke february what |  

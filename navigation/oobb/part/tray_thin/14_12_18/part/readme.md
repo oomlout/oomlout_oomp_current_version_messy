@@ -122,6 +122,18 @@ mercy
 despair
 duty
 payment |  
+| bip_39_word_no_space_1 | coin |  
+| bip_39_word_no_space_10 | coinchalkclutchwayalienmercydespairdutypaymentdust |  
+| bip_39_word_no_space_11 | coinchalkclutchwayalienmercydespairdutypaymentdustscout |  
+| bip_39_word_no_space_12 | coinchalkclutchwayalienmercydespairdutypaymentdustscoutafford |  
+| bip_39_word_no_space_2 | coinchalk |  
+| bip_39_word_no_space_3 | coinchalkclutch |  
+| bip_39_word_no_space_4 | coinchalkclutchway |  
+| bip_39_word_no_space_5 | coinchalkclutchwayalien |  
+| bip_39_word_no_space_6 | coinchalkclutchwayalienmercy |  
+| bip_39_word_no_space_7 | coinchalkclutchwayalienmercydespair |  
+| bip_39_word_no_space_8 | coinchalkclutchwayalienmercydespairduty |  
+| bip_39_word_no_space_9 | coinchalkclutchwayalienmercydespairdutypayment |  
 | bip_39_word_space_0 | ['coin', 'chalk', 'clutch', 'way', 'alien', 'mercy', 'despair', 'duty', 'payment', 'dust', 'scout', 'afford'] |  
 | bip_39_word_space_1 | coin |  
 | bip_39_word_space_10 | coin chalk clutch way alien mercy despair duty payment dust |  

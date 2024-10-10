@@ -122,6 +122,18 @@ claw
 stumble
 usual
 garbage |  
+| bip_39_word_no_space_1 | roast |  
+| bip_39_word_no_space_10 | roastwarfarematerialboatnetworkclawstumbleusualgarbagebird |  
+| bip_39_word_no_space_11 | roastwarfarematerialboatnetworkclawstumbleusualgarbagebirdstem |  
+| bip_39_word_no_space_12 | roastwarfarematerialboatnetworkclawstumbleusualgarbagebirdstemaccident |  
+| bip_39_word_no_space_2 | roastwarfare |  
+| bip_39_word_no_space_3 | roastwarfarematerial |  
+| bip_39_word_no_space_4 | roastwarfarematerialboat |  
+| bip_39_word_no_space_5 | roastwarfarematerialboatnetwork |  
+| bip_39_word_no_space_6 | roastwarfarematerialboatnetworkclaw |  
+| bip_39_word_no_space_7 | roastwarfarematerialboatnetworkclawstumble |  
+| bip_39_word_no_space_8 | roastwarfarematerialboatnetworkclawstumbleusual |  
+| bip_39_word_no_space_9 | roastwarfarematerialboatnetworkclawstumbleusualgarbage |  
 | bip_39_word_space_0 | ['roast', 'warfare', 'material', 'boat', 'network', 'claw', 'stumble', 'usual', 'garbage', 'bird', 'stem', 'accident'] |  
 | bip_39_word_space_1 | roast |  
 | bip_39_word_space_10 | roast warfare material boat network claw stumble usual garbage bird |  

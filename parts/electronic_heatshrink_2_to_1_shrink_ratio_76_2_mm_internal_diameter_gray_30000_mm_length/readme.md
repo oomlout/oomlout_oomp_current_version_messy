@@ -122,6 +122,18 @@ exclude
 initial
 try
 coconut |  
+| bip_39_word_no_space_1 | pull |  
+| bip_39_word_no_space_10 | pullsoundthatrocketorbitexcludeinitialtrycoconutcrime |  
+| bip_39_word_no_space_11 | pullsoundthatrocketorbitexcludeinitialtrycoconutcrimeera |  
+| bip_39_word_no_space_12 | pullsoundthatrocketorbitexcludeinitialtrycoconutcrimeeraankle |  
+| bip_39_word_no_space_2 | pullsound |  
+| bip_39_word_no_space_3 | pullsoundthat |  
+| bip_39_word_no_space_4 | pullsoundthatrocket |  
+| bip_39_word_no_space_5 | pullsoundthatrocketorbit |  
+| bip_39_word_no_space_6 | pullsoundthatrocketorbitexclude |  
+| bip_39_word_no_space_7 | pullsoundthatrocketorbitexcludeinitial |  
+| bip_39_word_no_space_8 | pullsoundthatrocketorbitexcludeinitialtry |  
+| bip_39_word_no_space_9 | pullsoundthatrocketorbitexcludeinitialtrycoconut |  
 | bip_39_word_space_0 | ['pull', 'sound', 'that', 'rocket', 'orbit', 'exclude', 'initial', 'try', 'coconut', 'crime', 'era', 'ankle'] |  
 | bip_39_word_space_1 | pull |  
 | bip_39_word_space_10 | pull sound that rocket orbit exclude initial try coconut crime |  

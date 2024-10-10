@@ -122,6 +122,18 @@ curtain
 panic
 special
 subway |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federaldecoratecliffgoddessbrothercurtainpanicspecialsubwayvibrant |  
+| bip_39_word_no_space_11 | federaldecoratecliffgoddessbrothercurtainpanicspecialsubwayvibrantsmart |  
+| bip_39_word_no_space_12 | federaldecoratecliffgoddessbrothercurtainpanicspecialsubwayvibrantsmartagent |  
+| bip_39_word_no_space_2 | federaldecorate |  
+| bip_39_word_no_space_3 | federaldecoratecliff |  
+| bip_39_word_no_space_4 | federaldecoratecliffgoddess |  
+| bip_39_word_no_space_5 | federaldecoratecliffgoddessbrother |  
+| bip_39_word_no_space_6 | federaldecoratecliffgoddessbrothercurtain |  
+| bip_39_word_no_space_7 | federaldecoratecliffgoddessbrothercurtainpanic |  
+| bip_39_word_no_space_8 | federaldecoratecliffgoddessbrothercurtainpanicspecial |  
+| bip_39_word_no_space_9 | federaldecoratecliffgoddessbrothercurtainpanicspecialsubway |  
 | bip_39_word_space_0 | ['federal', 'decorate', 'cliff', 'goddess', 'brother', 'curtain', 'panic', 'special', 'subway', 'vibrant', 'smart', 'agent'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal decorate cliff goddess brother curtain panic special subway vibrant |  

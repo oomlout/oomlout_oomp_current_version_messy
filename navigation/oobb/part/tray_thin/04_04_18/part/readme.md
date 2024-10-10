@@ -122,6 +122,18 @@ unhappy
 shock
 session
 naive |  
+| bip_39_word_no_space_1 | angle |  
+| bip_39_word_no_space_10 | anglesubjectfewgingermadunhappyshocksessionnaiveactress |  
+| bip_39_word_no_space_11 | anglesubjectfewgingermadunhappyshocksessionnaiveactresssoldier |  
+| bip_39_word_no_space_12 | anglesubjectfewgingermadunhappyshocksessionnaiveactresssoldieraround |  
+| bip_39_word_no_space_2 | anglesubject |  
+| bip_39_word_no_space_3 | anglesubjectfew |  
+| bip_39_word_no_space_4 | anglesubjectfewginger |  
+| bip_39_word_no_space_5 | anglesubjectfewgingermad |  
+| bip_39_word_no_space_6 | anglesubjectfewgingermadunhappy |  
+| bip_39_word_no_space_7 | anglesubjectfewgingermadunhappyshock |  
+| bip_39_word_no_space_8 | anglesubjectfewgingermadunhappyshocksession |  
+| bip_39_word_no_space_9 | anglesubjectfewgingermadunhappyshocksessionnaive |  
 | bip_39_word_space_0 | ['angle', 'subject', 'few', 'ginger', 'mad', 'unhappy', 'shock', 'session', 'naive', 'actress', 'soldier', 'around'] |  
 | bip_39_word_space_1 | angle |  
 | bip_39_word_space_10 | angle subject few ginger mad unhappy shock session naive actress |  

@@ -122,6 +122,18 @@ claim
 disease
 cloud
 brief |  
+| bip_39_word_no_space_1 | luxury |  
+| bip_39_word_no_space_10 | luxurydisagreereformripplepriceclaimdiseasecloudbriefneglect |  
+| bip_39_word_no_space_11 | luxurydisagreereformripplepriceclaimdiseasecloudbriefneglectshrug |  
+| bip_39_word_no_space_12 | luxurydisagreereformripplepriceclaimdiseasecloudbriefneglectshrugarrest |  
+| bip_39_word_no_space_2 | luxurydisagree |  
+| bip_39_word_no_space_3 | luxurydisagreereform |  
+| bip_39_word_no_space_4 | luxurydisagreereformripple |  
+| bip_39_word_no_space_5 | luxurydisagreereformrippleprice |  
+| bip_39_word_no_space_6 | luxurydisagreereformripplepriceclaim |  
+| bip_39_word_no_space_7 | luxurydisagreereformripplepriceclaimdisease |  
+| bip_39_word_no_space_8 | luxurydisagreereformripplepriceclaimdiseasecloud |  
+| bip_39_word_no_space_9 | luxurydisagreereformripplepriceclaimdiseasecloudbrief |  
 | bip_39_word_space_0 | ['luxury', 'disagree', 'reform', 'ripple', 'price', 'claim', 'disease', 'cloud', 'brief', 'neglect', 'shrug', 'arrest'] |  
 | bip_39_word_space_1 | luxury |  
 | bip_39_word_space_10 | luxury disagree reform ripple price claim disease cloud brief neglect |  

@@ -122,6 +122,18 @@ correct
 auction
 jaguar
 quit |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchfeeddespairworthbudgetcorrectauctionjaguarquitpeople |  
+| bip_39_word_no_space_11 | crouchfeeddespairworthbudgetcorrectauctionjaguarquitpeoplechoose |  
+| bip_39_word_no_space_12 | crouchfeeddespairworthbudgetcorrectauctionjaguarquitpeoplechoosealcohol |  
+| bip_39_word_no_space_2 | crouchfeed |  
+| bip_39_word_no_space_3 | crouchfeeddespair |  
+| bip_39_word_no_space_4 | crouchfeeddespairworth |  
+| bip_39_word_no_space_5 | crouchfeeddespairworthbudget |  
+| bip_39_word_no_space_6 | crouchfeeddespairworthbudgetcorrect |  
+| bip_39_word_no_space_7 | crouchfeeddespairworthbudgetcorrectauction |  
+| bip_39_word_no_space_8 | crouchfeeddespairworthbudgetcorrectauctionjaguar |  
+| bip_39_word_no_space_9 | crouchfeeddespairworthbudgetcorrectauctionjaguarquit |  
 | bip_39_word_space_0 | ['crouch', 'feed', 'despair', 'worth', 'budget', 'correct', 'auction', 'jaguar', 'quit', 'people', 'choose', 'alcohol'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch feed despair worth budget correct auction jaguar quit people |  

@@ -122,6 +122,18 @@ soap
 access
 sad
 disorder |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallyadaptauthortellsweetsoapaccesssaddisordercrystal |  
+| bip_39_word_no_space_11 | rallyadaptauthortellsweetsoapaccesssaddisordercrystalrepeat |  
+| bip_39_word_no_space_12 | rallyadaptauthortellsweetsoapaccesssaddisordercrystalrepeatact |  
+| bip_39_word_no_space_2 | rallyadapt |  
+| bip_39_word_no_space_3 | rallyadaptauthor |  
+| bip_39_word_no_space_4 | rallyadaptauthortell |  
+| bip_39_word_no_space_5 | rallyadaptauthortellsweet |  
+| bip_39_word_no_space_6 | rallyadaptauthortellsweetsoap |  
+| bip_39_word_no_space_7 | rallyadaptauthortellsweetsoapaccess |  
+| bip_39_word_no_space_8 | rallyadaptauthortellsweetsoapaccesssad |  
+| bip_39_word_no_space_9 | rallyadaptauthortellsweetsoapaccesssaddisorder |  
 | bip_39_word_space_0 | ['rally', 'adapt', 'author', 'tell', 'sweet', 'soap', 'access', 'sad', 'disorder', 'crystal', 'repeat', 'act'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally adapt author tell sweet soap access sad disorder crystal |  

@@ -122,6 +122,18 @@ educate
 build
 carpet
 social |  
+| bip_39_word_no_space_1 | quit |  
+| bip_39_word_no_space_10 | quitstreettwicecushionoperaeducatebuildcarpetsocialmusic |  
+| bip_39_word_no_space_11 | quitstreettwicecushionoperaeducatebuildcarpetsocialmusicaware |  
+| bip_39_word_no_space_12 | quitstreettwicecushionoperaeducatebuildcarpetsocialmusicawareaction |  
+| bip_39_word_no_space_2 | quitstreet |  
+| bip_39_word_no_space_3 | quitstreettwice |  
+| bip_39_word_no_space_4 | quitstreettwicecushion |  
+| bip_39_word_no_space_5 | quitstreettwicecushionopera |  
+| bip_39_word_no_space_6 | quitstreettwicecushionoperaeducate |  
+| bip_39_word_no_space_7 | quitstreettwicecushionoperaeducatebuild |  
+| bip_39_word_no_space_8 | quitstreettwicecushionoperaeducatebuildcarpet |  
+| bip_39_word_no_space_9 | quitstreettwicecushionoperaeducatebuildcarpetsocial |  
 | bip_39_word_space_0 | ['quit', 'street', 'twice', 'cushion', 'opera', 'educate', 'build', 'carpet', 'social', 'music', 'aware', 'action'] |  
 | bip_39_word_space_1 | quit |  
 | bip_39_word_space_10 | quit street twice cushion opera educate build carpet social music |  

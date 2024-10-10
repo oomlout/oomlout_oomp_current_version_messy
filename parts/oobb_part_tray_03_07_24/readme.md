@@ -122,6 +122,18 @@ buyer
 amount
 rival
 pipe |  
+| bip_39_word_no_space_1 | shiver |  
+| bip_39_word_no_space_10 | shiverfatigueideagarbagecrystalbuyeramountrivalpipevacant |  
+| bip_39_word_no_space_11 | shiverfatigueideagarbagecrystalbuyeramountrivalpipevacantremove |  
+| bip_39_word_no_space_12 | shiverfatigueideagarbagecrystalbuyeramountrivalpipevacantremoveartefact |  
+| bip_39_word_no_space_2 | shiverfatigue |  
+| bip_39_word_no_space_3 | shiverfatigueidea |  
+| bip_39_word_no_space_4 | shiverfatigueideagarbage |  
+| bip_39_word_no_space_5 | shiverfatigueideagarbagecrystal |  
+| bip_39_word_no_space_6 | shiverfatigueideagarbagecrystalbuyer |  
+| bip_39_word_no_space_7 | shiverfatigueideagarbagecrystalbuyeramount |  
+| bip_39_word_no_space_8 | shiverfatigueideagarbagecrystalbuyeramountrival |  
+| bip_39_word_no_space_9 | shiverfatigueideagarbagecrystalbuyeramountrivalpipe |  
 | bip_39_word_space_0 | ['shiver', 'fatigue', 'idea', 'garbage', 'crystal', 'buyer', 'amount', 'rival', 'pipe', 'vacant', 'remove', 'artefact'] |  
 | bip_39_word_space_1 | shiver |  
 | bip_39_word_space_10 | shiver fatigue idea garbage crystal buyer amount rival pipe vacant |  

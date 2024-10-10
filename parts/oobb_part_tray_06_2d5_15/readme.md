@@ -122,6 +122,18 @@ fashion
 track
 syrup
 rapid |  
+| bip_39_word_no_space_1 | sense |  
+| bip_39_word_no_space_10 | sensebleakwiseisolatepowerfashiontracksyruprapidanxiety |  
+| bip_39_word_no_space_11 | sensebleakwiseisolatepowerfashiontracksyruprapidanxietysqueeze |  
+| bip_39_word_no_space_12 | sensebleakwiseisolatepowerfashiontracksyruprapidanxietysqueezeaim |  
+| bip_39_word_no_space_2 | sensebleak |  
+| bip_39_word_no_space_3 | sensebleakwise |  
+| bip_39_word_no_space_4 | sensebleakwiseisolate |  
+| bip_39_word_no_space_5 | sensebleakwiseisolatepower |  
+| bip_39_word_no_space_6 | sensebleakwiseisolatepowerfashion |  
+| bip_39_word_no_space_7 | sensebleakwiseisolatepowerfashiontrack |  
+| bip_39_word_no_space_8 | sensebleakwiseisolatepowerfashiontracksyrup |  
+| bip_39_word_no_space_9 | sensebleakwiseisolatepowerfashiontracksyruprapid |  
 | bip_39_word_space_0 | ['sense', 'bleak', 'wise', 'isolate', 'power', 'fashion', 'track', 'syrup', 'rapid', 'anxiety', 'squeeze', 'aim'] |  
 | bip_39_word_space_1 | sense |  
 | bip_39_word_space_10 | sense bleak wise isolate power fashion track syrup rapid anxiety |  

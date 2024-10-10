@@ -122,6 +122,18 @@ health
 cupboard
 dash
 tube |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessstingairnomineeproblemhealthcupboarddashtubesun |  
+| bip_39_word_no_space_11 | fitnessstingairnomineeproblemhealthcupboarddashtubesungorilla |  
+| bip_39_word_no_space_12 | fitnessstingairnomineeproblemhealthcupboarddashtubesungorillaarrow |  
+| bip_39_word_no_space_2 | fitnesssting |  
+| bip_39_word_no_space_3 | fitnessstingair |  
+| bip_39_word_no_space_4 | fitnessstingairnominee |  
+| bip_39_word_no_space_5 | fitnessstingairnomineeproblem |  
+| bip_39_word_no_space_6 | fitnessstingairnomineeproblemhealth |  
+| bip_39_word_no_space_7 | fitnessstingairnomineeproblemhealthcupboard |  
+| bip_39_word_no_space_8 | fitnessstingairnomineeproblemhealthcupboarddash |  
+| bip_39_word_no_space_9 | fitnessstingairnomineeproblemhealthcupboarddashtube |  
 | bip_39_word_space_0 | ['fitness', 'sting', 'air', 'nominee', 'problem', 'health', 'cupboard', 'dash', 'tube', 'sun', 'gorilla', 'arrow'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness sting air nominee problem health cupboard dash tube sun |  

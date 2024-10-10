@@ -122,6 +122,18 @@ gaze
 scene
 street
 saddle |  
+| bip_39_word_no_space_1 | source |  
+| bip_39_word_no_space_10 | sourcefaintelitesurgelegendgazescenestreetsaddlepistol |  
+| bip_39_word_no_space_11 | sourcefaintelitesurgelegendgazescenestreetsaddlepistoltravel |  
+| bip_39_word_no_space_12 | sourcefaintelitesurgelegendgazescenestreetsaddlepistoltravelart |  
+| bip_39_word_no_space_2 | sourcefaint |  
+| bip_39_word_no_space_3 | sourcefaintelite |  
+| bip_39_word_no_space_4 | sourcefaintelitesurge |  
+| bip_39_word_no_space_5 | sourcefaintelitesurgelegend |  
+| bip_39_word_no_space_6 | sourcefaintelitesurgelegendgaze |  
+| bip_39_word_no_space_7 | sourcefaintelitesurgelegendgazescene |  
+| bip_39_word_no_space_8 | sourcefaintelitesurgelegendgazescenestreet |  
+| bip_39_word_no_space_9 | sourcefaintelitesurgelegendgazescenestreetsaddle |  
 | bip_39_word_space_0 | ['source', 'faint', 'elite', 'surge', 'legend', 'gaze', 'scene', 'street', 'saddle', 'pistol', 'travel', 'art'] |  
 | bip_39_word_space_1 | source |  
 | bip_39_word_space_10 | source faint elite surge legend gaze scene street saddle pistol |  

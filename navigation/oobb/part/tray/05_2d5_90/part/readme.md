@@ -122,6 +122,18 @@ better
 inspire
 mimic
 fatal |  
+| bip_39_word_no_space_1 | orient |  
+| bip_39_word_no_space_10 | orientwishjoinincludeharshbetterinspiremimicfatalmessage |  
+| bip_39_word_no_space_11 | orientwishjoinincludeharshbetterinspiremimicfatalmessagequality |  
+| bip_39_word_no_space_12 | orientwishjoinincludeharshbetterinspiremimicfatalmessagequalityadapt |  
+| bip_39_word_no_space_2 | orientwish |  
+| bip_39_word_no_space_3 | orientwishjoin |  
+| bip_39_word_no_space_4 | orientwishjoininclude |  
+| bip_39_word_no_space_5 | orientwishjoinincludeharsh |  
+| bip_39_word_no_space_6 | orientwishjoinincludeharshbetter |  
+| bip_39_word_no_space_7 | orientwishjoinincludeharshbetterinspire |  
+| bip_39_word_no_space_8 | orientwishjoinincludeharshbetterinspiremimic |  
+| bip_39_word_no_space_9 | orientwishjoinincludeharshbetterinspiremimicfatal |  
 | bip_39_word_space_0 | ['orient', 'wish', 'join', 'include', 'harsh', 'better', 'inspire', 'mimic', 'fatal', 'message', 'quality', 'adapt'] |  
 | bip_39_word_space_1 | orient |  
 | bip_39_word_space_10 | orient wish join include harsh better inspire mimic fatal message |  

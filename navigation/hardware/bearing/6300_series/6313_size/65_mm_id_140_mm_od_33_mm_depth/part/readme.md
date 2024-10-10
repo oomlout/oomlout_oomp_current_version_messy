@@ -122,6 +122,18 @@ cheese
 common
 celery
 pretty |  
+| bip_39_word_no_space_1 | tool |  
+| bip_39_word_no_space_10 | toolmiserypipeviewfurnacecheesecommonceleryprettyalso |  
+| bip_39_word_no_space_11 | toolmiserypipeviewfurnacecheesecommonceleryprettyalsofind |  
+| bip_39_word_no_space_12 | toolmiserypipeviewfurnacecheesecommonceleryprettyalsofindage |  
+| bip_39_word_no_space_2 | toolmisery |  
+| bip_39_word_no_space_3 | toolmiserypipe |  
+| bip_39_word_no_space_4 | toolmiserypipeview |  
+| bip_39_word_no_space_5 | toolmiserypipeviewfurnace |  
+| bip_39_word_no_space_6 | toolmiserypipeviewfurnacecheese |  
+| bip_39_word_no_space_7 | toolmiserypipeviewfurnacecheesecommon |  
+| bip_39_word_no_space_8 | toolmiserypipeviewfurnacecheesecommoncelery |  
+| bip_39_word_no_space_9 | toolmiserypipeviewfurnacecheesecommoncelerypretty |  
 | bip_39_word_space_0 | ['tool', 'misery', 'pipe', 'view', 'furnace', 'cheese', 'common', 'celery', 'pretty', 'also', 'find', 'age'] |  
 | bip_39_word_space_1 | tool |  
 | bip_39_word_space_10 | tool misery pipe view furnace cheese common celery pretty also |  

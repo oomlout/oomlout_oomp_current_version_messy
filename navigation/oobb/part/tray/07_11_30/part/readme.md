@@ -122,6 +122,18 @@ across
 upper
 lawn
 absorb |  
+| bip_39_word_no_space_1 | awesome |  
+| bip_39_word_no_space_10 | awesomesessionhusbandsilverintoacrossupperlawnabsorbturtle |  
+| bip_39_word_no_space_11 | awesomesessionhusbandsilverintoacrossupperlawnabsorbturtlecigar |  
+| bip_39_word_no_space_12 | awesomesessionhusbandsilverintoacrossupperlawnabsorbturtlecigarask |  
+| bip_39_word_no_space_2 | awesomesession |  
+| bip_39_word_no_space_3 | awesomesessionhusband |  
+| bip_39_word_no_space_4 | awesomesessionhusbandsilver |  
+| bip_39_word_no_space_5 | awesomesessionhusbandsilverinto |  
+| bip_39_word_no_space_6 | awesomesessionhusbandsilverintoacross |  
+| bip_39_word_no_space_7 | awesomesessionhusbandsilverintoacrossupper |  
+| bip_39_word_no_space_8 | awesomesessionhusbandsilverintoacrossupperlawn |  
+| bip_39_word_no_space_9 | awesomesessionhusbandsilverintoacrossupperlawnabsorb |  
 | bip_39_word_space_0 | ['awesome', 'session', 'husband', 'silver', 'into', 'across', 'upper', 'lawn', 'absorb', 'turtle', 'cigar', 'ask'] |  
 | bip_39_word_space_1 | awesome |  
 | bip_39_word_space_10 | awesome session husband silver into across upper lawn absorb turtle |  

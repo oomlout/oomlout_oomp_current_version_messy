@@ -122,6 +122,18 @@ door
 mixed
 harbor
 nasty |  
+| bip_39_word_no_space_1 | income |  
+| bip_39_word_no_space_10 | incomeclimbflowerpipemelodydoormixedharbornastymix |  
+| bip_39_word_no_space_11 | incomeclimbflowerpipemelodydoormixedharbornastymixsiren |  
+| bip_39_word_no_space_12 | incomeclimbflowerpipemelodydoormixedharbornastymixsirenadvice |  
+| bip_39_word_no_space_2 | incomeclimb |  
+| bip_39_word_no_space_3 | incomeclimbflower |  
+| bip_39_word_no_space_4 | incomeclimbflowerpipe |  
+| bip_39_word_no_space_5 | incomeclimbflowerpipemelody |  
+| bip_39_word_no_space_6 | incomeclimbflowerpipemelodydoor |  
+| bip_39_word_no_space_7 | incomeclimbflowerpipemelodydoormixed |  
+| bip_39_word_no_space_8 | incomeclimbflowerpipemelodydoormixedharbor |  
+| bip_39_word_no_space_9 | incomeclimbflowerpipemelodydoormixedharbornasty |  
 | bip_39_word_space_0 | ['income', 'climb', 'flower', 'pipe', 'melody', 'door', 'mixed', 'harbor', 'nasty', 'mix', 'siren', 'advice'] |  
 | bip_39_word_space_1 | income |  
 | bip_39_word_space_10 | income climb flower pipe melody door mixed harbor nasty mix |  

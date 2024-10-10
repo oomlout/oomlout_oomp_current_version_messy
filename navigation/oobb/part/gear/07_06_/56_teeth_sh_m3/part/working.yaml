@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'argue
   file
 
   argue'
+bip_39_word_no_space_1: argue
+bip_39_word_no_space_10: arguespendclownamountamusedheadoverfilearguebounce
+bip_39_word_no_space_11: arguespendclownamountamusedheadoverfilearguebouncevehicle
+bip_39_word_no_space_12: arguespendclownamountamusedheadoverfilearguebouncevehicleaccess
+bip_39_word_no_space_2: arguespend
+bip_39_word_no_space_3: arguespendclown
+bip_39_word_no_space_4: arguespendclownamount
+bip_39_word_no_space_5: arguespendclownamountamused
+bip_39_word_no_space_6: arguespendclownamountamusedhead
+bip_39_word_no_space_7: arguespendclownamountamusedheadover
+bip_39_word_no_space_8: arguespendclownamountamusedheadoverfile
+bip_39_word_no_space_9: arguespendclownamountamusedheadoverfileargue
 bip_39_word_space_0:
 - argue
 - spend

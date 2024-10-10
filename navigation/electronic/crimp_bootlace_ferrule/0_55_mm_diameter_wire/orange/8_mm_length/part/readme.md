@@ -122,6 +122,18 @@ stamp
 same
 village
 peace |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidayboatupdateclimbfatherstampsamevillagepeacerelax |  
+| bip_39_word_no_space_11 | holidayboatupdateclimbfatherstampsamevillagepeacerelaxindustry |  
+| bip_39_word_no_space_12 | holidayboatupdateclimbfatherstampsamevillagepeacerelaxindustryannounce |  
+| bip_39_word_no_space_2 | holidayboat |  
+| bip_39_word_no_space_3 | holidayboatupdate |  
+| bip_39_word_no_space_4 | holidayboatupdateclimb |  
+| bip_39_word_no_space_5 | holidayboatupdateclimbfather |  
+| bip_39_word_no_space_6 | holidayboatupdateclimbfatherstamp |  
+| bip_39_word_no_space_7 | holidayboatupdateclimbfatherstampsame |  
+| bip_39_word_no_space_8 | holidayboatupdateclimbfatherstampsamevillage |  
+| bip_39_word_no_space_9 | holidayboatupdateclimbfatherstampsamevillagepeace |  
 | bip_39_word_space_0 | ['holiday', 'boat', 'update', 'climb', 'father', 'stamp', 'same', 'village', 'peace', 'relax', 'industry', 'announce'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday boat update climb father stamp same village peace relax |  

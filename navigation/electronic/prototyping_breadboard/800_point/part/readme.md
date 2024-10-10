@@ -122,6 +122,18 @@ fold
 immune
 educate
 sister |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyspideraddictdilemmavesselfoldimmuneeducatesisterspare |  
+| bip_39_word_no_space_11 | hobbyspideraddictdilemmavesselfoldimmuneeducatesistersparehunt |  
+| bip_39_word_no_space_12 | hobbyspideraddictdilemmavesselfoldimmuneeducatesistersparehuntapple |  
+| bip_39_word_no_space_2 | hobbyspider |  
+| bip_39_word_no_space_3 | hobbyspideraddict |  
+| bip_39_word_no_space_4 | hobbyspideraddictdilemma |  
+| bip_39_word_no_space_5 | hobbyspideraddictdilemmavessel |  
+| bip_39_word_no_space_6 | hobbyspideraddictdilemmavesselfold |  
+| bip_39_word_no_space_7 | hobbyspideraddictdilemmavesselfoldimmune |  
+| bip_39_word_no_space_8 | hobbyspideraddictdilemmavesselfoldimmuneeducate |  
+| bip_39_word_no_space_9 | hobbyspideraddictdilemmavesselfoldimmuneeducatesister |  
 | bip_39_word_space_0 | ['hobby', 'spider', 'addict', 'dilemma', 'vessel', 'fold', 'immune', 'educate', 'sister', 'spare', 'hunt', 'apple'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby spider addict dilemma vessel fold immune educate sister spare |  

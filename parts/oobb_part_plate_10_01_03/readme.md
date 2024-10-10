@@ -122,6 +122,18 @@ art
 party
 advice
 gentle |  
+| bip_39_word_no_space_1 | curious |  
+| bip_39_word_no_space_10 | curiousaerobicdressspiriterodeartpartyadvicegentleartwork |  
+| bip_39_word_no_space_11 | curiousaerobicdressspiriterodeartpartyadvicegentleartworklab |  
+| bip_39_word_no_space_12 | curiousaerobicdressspiriterodeartpartyadvicegentleartworklabanger |  
+| bip_39_word_no_space_2 | curiousaerobic |  
+| bip_39_word_no_space_3 | curiousaerobicdress |  
+| bip_39_word_no_space_4 | curiousaerobicdressspirit |  
+| bip_39_word_no_space_5 | curiousaerobicdressspiriterode |  
+| bip_39_word_no_space_6 | curiousaerobicdressspiriterodeart |  
+| bip_39_word_no_space_7 | curiousaerobicdressspiriterodeartparty |  
+| bip_39_word_no_space_8 | curiousaerobicdressspiriterodeartpartyadvice |  
+| bip_39_word_no_space_9 | curiousaerobicdressspiriterodeartpartyadvicegentle |  
 | bip_39_word_space_0 | ['curious', 'aerobic', 'dress', 'spirit', 'erode', 'art', 'party', 'advice', 'gentle', 'artwork', 'lab', 'anger'] |  
 | bip_39_word_space_1 | curious |  
 | bip_39_word_space_10 | curious aerobic dress spirit erode art party advice gentle artwork |  

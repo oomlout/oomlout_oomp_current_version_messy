@@ -122,6 +122,18 @@ scene
 attack
 slice
 oyster |  
+| bip_39_word_no_space_1 | finger |  
+| bip_39_word_no_space_10 | fingerpuppysampleutilityoxygensceneattacksliceoysterflat |  
+| bip_39_word_no_space_11 | fingerpuppysampleutilityoxygensceneattacksliceoysterflatconduct |  
+| bip_39_word_no_space_12 | fingerpuppysampleutilityoxygensceneattacksliceoysterflatconductadvice |  
+| bip_39_word_no_space_2 | fingerpuppy |  
+| bip_39_word_no_space_3 | fingerpuppysample |  
+| bip_39_word_no_space_4 | fingerpuppysampleutility |  
+| bip_39_word_no_space_5 | fingerpuppysampleutilityoxygen |  
+| bip_39_word_no_space_6 | fingerpuppysampleutilityoxygenscene |  
+| bip_39_word_no_space_7 | fingerpuppysampleutilityoxygensceneattack |  
+| bip_39_word_no_space_8 | fingerpuppysampleutilityoxygensceneattackslice |  
+| bip_39_word_no_space_9 | fingerpuppysampleutilityoxygensceneattacksliceoyster |  
 | bip_39_word_space_0 | ['finger', 'puppy', 'sample', 'utility', 'oxygen', 'scene', 'attack', 'slice', 'oyster', 'flat', 'conduct', 'advice'] |  
 | bip_39_word_space_1 | finger |  
 | bip_39_word_space_10 | finger puppy sample utility oxygen scene attack slice oyster flat |  

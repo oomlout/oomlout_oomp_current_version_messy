@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'great
   demise
 
   emotion'
+bip_39_word_no_space_1: great
+bip_39_word_no_space_10: greatkissbetweenprettychangegloryoffdemiseemotioneye
+bip_39_word_no_space_11: greatkissbetweenprettychangegloryoffdemiseemotioneyesummer
+bip_39_word_no_space_12: greatkissbetweenprettychangegloryoffdemiseemotioneyesummeranimal
+bip_39_word_no_space_2: greatkiss
+bip_39_word_no_space_3: greatkissbetween
+bip_39_word_no_space_4: greatkissbetweenpretty
+bip_39_word_no_space_5: greatkissbetweenprettychange
+bip_39_word_no_space_6: greatkissbetweenprettychangeglory
+bip_39_word_no_space_7: greatkissbetweenprettychangegloryoff
+bip_39_word_no_space_8: greatkissbetweenprettychangegloryoffdemise
+bip_39_word_no_space_9: greatkissbetweenprettychangegloryoffdemiseemotion
 bip_39_word_space_0:
 - great
 - kiss

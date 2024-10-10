@@ -122,6 +122,18 @@ tell
 picnic
 oven
 junior |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famouslogicsummerinheritnarrowtellpicnicovenjuniorbetter |  
+| bip_39_word_no_space_11 | famouslogicsummerinheritnarrowtellpicnicovenjuniorbetterchair |  
+| bip_39_word_no_space_12 | famouslogicsummerinheritnarrowtellpicnicovenjuniorbetterchairapprove |  
+| bip_39_word_no_space_2 | famouslogic |  
+| bip_39_word_no_space_3 | famouslogicsummer |  
+| bip_39_word_no_space_4 | famouslogicsummerinherit |  
+| bip_39_word_no_space_5 | famouslogicsummerinheritnarrow |  
+| bip_39_word_no_space_6 | famouslogicsummerinheritnarrowtell |  
+| bip_39_word_no_space_7 | famouslogicsummerinheritnarrowtellpicnic |  
+| bip_39_word_no_space_8 | famouslogicsummerinheritnarrowtellpicnicoven |  
+| bip_39_word_no_space_9 | famouslogicsummerinheritnarrowtellpicnicovenjunior |  
 | bip_39_word_space_0 | ['famous', 'logic', 'summer', 'inherit', 'narrow', 'tell', 'picnic', 'oven', 'junior', 'better', 'chair', 'approve'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous logic summer inherit narrow tell picnic oven junior better |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'climb
   deposit
 
   basket'
+bip_39_word_no_space_1: climb
+bip_39_word_no_space_10: climbmanexamplerailwebremainsweardepositbasketrain
+bip_39_word_no_space_11: climbmanexamplerailwebremainsweardepositbasketrainranch
+bip_39_word_no_space_12: climbmanexamplerailwebremainsweardepositbasketrainranchalone
+bip_39_word_no_space_2: climbman
+bip_39_word_no_space_3: climbmanexample
+bip_39_word_no_space_4: climbmanexamplerail
+bip_39_word_no_space_5: climbmanexamplerailweb
+bip_39_word_no_space_6: climbmanexamplerailwebremain
+bip_39_word_no_space_7: climbmanexamplerailwebremainswear
+bip_39_word_no_space_8: climbmanexamplerailwebremainsweardeposit
+bip_39_word_no_space_9: climbmanexamplerailwebremainsweardepositbasket
 bip_39_word_space_0:
 - climb
 - man

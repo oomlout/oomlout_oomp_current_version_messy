@@ -122,6 +122,18 @@ link
 valid
 chronic
 throw |  
+| bip_39_word_no_space_1 | blast |  
+| bip_39_word_no_space_10 | blastgarmentpresentbecausementionlinkvalidchronicthrowutility |  
+| bip_39_word_no_space_11 | blastgarmentpresentbecausementionlinkvalidchronicthrowutilitymillion |  
+| bip_39_word_no_space_12 | blastgarmentpresentbecausementionlinkvalidchronicthrowutilitymillionacoustic |  
+| bip_39_word_no_space_2 | blastgarment |  
+| bip_39_word_no_space_3 | blastgarmentpresent |  
+| bip_39_word_no_space_4 | blastgarmentpresentbecause |  
+| bip_39_word_no_space_5 | blastgarmentpresentbecausemention |  
+| bip_39_word_no_space_6 | blastgarmentpresentbecausementionlink |  
+| bip_39_word_no_space_7 | blastgarmentpresentbecausementionlinkvalid |  
+| bip_39_word_no_space_8 | blastgarmentpresentbecausementionlinkvalidchronic |  
+| bip_39_word_no_space_9 | blastgarmentpresentbecausementionlinkvalidchronicthrow |  
 | bip_39_word_space_0 | ['blast', 'garment', 'present', 'because', 'mention', 'link', 'valid', 'chronic', 'throw', 'utility', 'million', 'acoustic'] |  
 | bip_39_word_space_1 | blast |  
 | bip_39_word_space_10 | blast garment present because mention link valid chronic throw utility |  

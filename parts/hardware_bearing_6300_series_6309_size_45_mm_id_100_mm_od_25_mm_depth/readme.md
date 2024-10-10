@@ -122,6 +122,18 @@ note
 strike
 squeeze
 private |  
+| bip_39_word_no_space_1 | stadium |  
+| bip_39_word_no_space_10 | stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutral |  
+| bip_39_word_no_space_11 | stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutralsnow |  
+| bip_39_word_no_space_12 | stadiumcancelcarttrafficnorthnotestrikesqueezeprivateneutralsnowagree |  
+| bip_39_word_no_space_2 | stadiumcancel |  
+| bip_39_word_no_space_3 | stadiumcancelcart |  
+| bip_39_word_no_space_4 | stadiumcancelcarttraffic |  
+| bip_39_word_no_space_5 | stadiumcancelcarttrafficnorth |  
+| bip_39_word_no_space_6 | stadiumcancelcarttrafficnorthnote |  
+| bip_39_word_no_space_7 | stadiumcancelcarttrafficnorthnotestrike |  
+| bip_39_word_no_space_8 | stadiumcancelcarttrafficnorthnotestrikesqueeze |  
+| bip_39_word_no_space_9 | stadiumcancelcarttrafficnorthnotestrikesqueezeprivate |  
 | bip_39_word_space_0 | ['stadium', 'cancel', 'cart', 'traffic', 'north', 'note', 'strike', 'squeeze', 'private', 'neutral', 'snow', 'agree'] |  
 | bip_39_word_space_1 | stadium |  
 | bip_39_word_space_10 | stadium cancel cart traffic north note strike squeeze private neutral |  

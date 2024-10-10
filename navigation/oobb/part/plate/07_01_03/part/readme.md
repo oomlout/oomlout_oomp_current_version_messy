@@ -122,6 +122,18 @@ humor
 hope
 supply
 verb |  
+| bip_39_word_no_space_1 | theory |  
+| bip_39_word_no_space_10 | theorylampfuelgruntversionhumorhopesupplyverbaccount |  
+| bip_39_word_no_space_11 | theorylampfuelgruntversionhumorhopesupplyverbaccountstem |  
+| bip_39_word_no_space_12 | theorylampfuelgruntversionhumorhopesupplyverbaccountstemadjust |  
+| bip_39_word_no_space_2 | theorylamp |  
+| bip_39_word_no_space_3 | theorylampfuel |  
+| bip_39_word_no_space_4 | theorylampfuelgrunt |  
+| bip_39_word_no_space_5 | theorylampfuelgruntversion |  
+| bip_39_word_no_space_6 | theorylampfuelgruntversionhumor |  
+| bip_39_word_no_space_7 | theorylampfuelgruntversionhumorhope |  
+| bip_39_word_no_space_8 | theorylampfuelgruntversionhumorhopesupply |  
+| bip_39_word_no_space_9 | theorylampfuelgruntversionhumorhopesupplyverb |  
 | bip_39_word_space_0 | ['theory', 'lamp', 'fuel', 'grunt', 'version', 'humor', 'hope', 'supply', 'verb', 'account', 'stem', 'adjust'] |  
 | bip_39_word_space_1 | theory |  
 | bip_39_word_space_10 | theory lamp fuel grunt version humor hope supply verb account |  

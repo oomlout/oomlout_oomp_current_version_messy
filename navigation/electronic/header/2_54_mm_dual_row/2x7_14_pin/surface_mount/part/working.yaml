@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'extra
   danger
 
   salute'
+bip_39_word_no_space_1: extra
+bip_39_word_no_space_10: extrapoetmediabarjustdonkeyauctiondangersalutesmall
+bip_39_word_no_space_11: extrapoetmediabarjustdonkeyauctiondangersalutesmallafraid
+bip_39_word_no_space_12: extrapoetmediabarjustdonkeyauctiondangersalutesmallafraidappear
+bip_39_word_no_space_2: extrapoet
+bip_39_word_no_space_3: extrapoetmedia
+bip_39_word_no_space_4: extrapoetmediabar
+bip_39_word_no_space_5: extrapoetmediabarjust
+bip_39_word_no_space_6: extrapoetmediabarjustdonkey
+bip_39_word_no_space_7: extrapoetmediabarjustdonkeyauction
+bip_39_word_no_space_8: extrapoetmediabarjustdonkeyauctiondanger
+bip_39_word_no_space_9: extrapoetmediabarjustdonkeyauctiondangersalute
 bip_39_word_space_0:
 - extra
 - poet

@@ -122,6 +122,18 @@ hire
 harvest
 extra
 girl |  
+| bip_39_word_no_space_1 | polar |  
+| bip_39_word_no_space_10 | polarsaltguidefrequentdiagramhireharvestextragirlelectric |  
+| bip_39_word_no_space_11 | polarsaltguidefrequentdiagramhireharvestextragirlelectricrail |  
+| bip_39_word_no_space_12 | polarsaltguidefrequentdiagramhireharvestextragirlelectricrailapril |  
+| bip_39_word_no_space_2 | polarsalt |  
+| bip_39_word_no_space_3 | polarsaltguide |  
+| bip_39_word_no_space_4 | polarsaltguidefrequent |  
+| bip_39_word_no_space_5 | polarsaltguidefrequentdiagram |  
+| bip_39_word_no_space_6 | polarsaltguidefrequentdiagramhire |  
+| bip_39_word_no_space_7 | polarsaltguidefrequentdiagramhireharvest |  
+| bip_39_word_no_space_8 | polarsaltguidefrequentdiagramhireharvestextra |  
+| bip_39_word_no_space_9 | polarsaltguidefrequentdiagramhireharvestextragirl |  
 | bip_39_word_space_0 | ['polar', 'salt', 'guide', 'frequent', 'diagram', 'hire', 'harvest', 'extra', 'girl', 'electric', 'rail', 'april'] |  
 | bip_39_word_space_1 | polar |  
 | bip_39_word_space_10 | polar salt guide frequent diagram hire harvest extra girl electric |  

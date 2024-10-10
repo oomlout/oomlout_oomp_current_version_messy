@@ -122,6 +122,18 @@ shy
 mesh
 pond
 mom |  
+| bip_39_word_no_space_1 | fruit |  
+| bip_39_word_no_space_10 | fruitlizardchunkassetrubbershymeshpondmomissue |  
+| bip_39_word_no_space_11 | fruitlizardchunkassetrubbershymeshpondmomissuebounce |  
+| bip_39_word_no_space_12 | fruitlizardchunkassetrubbershymeshpondmomissuebouncearctic |  
+| bip_39_word_no_space_2 | fruitlizard |  
+| bip_39_word_no_space_3 | fruitlizardchunk |  
+| bip_39_word_no_space_4 | fruitlizardchunkasset |  
+| bip_39_word_no_space_5 | fruitlizardchunkassetrubber |  
+| bip_39_word_no_space_6 | fruitlizardchunkassetrubbershy |  
+| bip_39_word_no_space_7 | fruitlizardchunkassetrubbershymesh |  
+| bip_39_word_no_space_8 | fruitlizardchunkassetrubbershymeshpond |  
+| bip_39_word_no_space_9 | fruitlizardchunkassetrubbershymeshpondmom |  
 | bip_39_word_space_0 | ['fruit', 'lizard', 'chunk', 'asset', 'rubber', 'shy', 'mesh', 'pond', 'mom', 'issue', 'bounce', 'arctic'] |  
 | bip_39_word_space_1 | fruit |  
 | bip_39_word_space_10 | fruit lizard chunk asset rubber shy mesh pond mom issue |  

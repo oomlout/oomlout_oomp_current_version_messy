@@ -122,6 +122,18 @@ during
 private
 kite
 drastic |  
+| bip_39_word_no_space_1 | village |  
+| bip_39_word_no_space_10 | villagefebruaryprettyraiseboardduringprivatekitedrasticripple |  
+| bip_39_word_no_space_11 | villagefebruaryprettyraiseboardduringprivatekitedrasticripplefox |  
+| bip_39_word_no_space_12 | villagefebruaryprettyraiseboardduringprivatekitedrasticripplefoxable |  
+| bip_39_word_no_space_2 | villagefebruary |  
+| bip_39_word_no_space_3 | villagefebruarypretty |  
+| bip_39_word_no_space_4 | villagefebruaryprettyraise |  
+| bip_39_word_no_space_5 | villagefebruaryprettyraiseboard |  
+| bip_39_word_no_space_6 | villagefebruaryprettyraiseboardduring |  
+| bip_39_word_no_space_7 | villagefebruaryprettyraiseboardduringprivate |  
+| bip_39_word_no_space_8 | villagefebruaryprettyraiseboardduringprivatekite |  
+| bip_39_word_no_space_9 | villagefebruaryprettyraiseboardduringprivatekitedrastic |  
 | bip_39_word_space_0 | ['village', 'february', 'pretty', 'raise', 'board', 'during', 'private', 'kite', 'drastic', 'ripple', 'fox', 'able'] |  
 | bip_39_word_space_1 | village |  
 | bip_39_word_space_10 | village february pretty raise board during private kite drastic ripple |  

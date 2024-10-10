@@ -122,6 +122,18 @@ avoid
 chunk
 december
 main |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefbalancecitydrasticeternalavoidchunkdecembermainsentence |  
+| bip_39_word_no_space_11 | griefbalancecitydrasticeternalavoidchunkdecembermainsentenceswift |  
+| bip_39_word_no_space_12 | griefbalancecitydrasticeternalavoidchunkdecembermainsentenceswiftalbum |  
+| bip_39_word_no_space_2 | griefbalance |  
+| bip_39_word_no_space_3 | griefbalancecity |  
+| bip_39_word_no_space_4 | griefbalancecitydrastic |  
+| bip_39_word_no_space_5 | griefbalancecitydrasticeternal |  
+| bip_39_word_no_space_6 | griefbalancecitydrasticeternalavoid |  
+| bip_39_word_no_space_7 | griefbalancecitydrasticeternalavoidchunk |  
+| bip_39_word_no_space_8 | griefbalancecitydrasticeternalavoidchunkdecember |  
+| bip_39_word_no_space_9 | griefbalancecitydrasticeternalavoidchunkdecembermain |  
 | bip_39_word_space_0 | ['grief', 'balance', 'city', 'drastic', 'eternal', 'avoid', 'chunk', 'december', 'main', 'sentence', 'swift', 'album'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief balance city drastic eternal avoid chunk december main sentence |  

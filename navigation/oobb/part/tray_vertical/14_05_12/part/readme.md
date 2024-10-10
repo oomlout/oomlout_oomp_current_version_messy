@@ -122,6 +122,18 @@ permit
 lesson
 embody
 way |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentsnowadvancepatchelevatorpermitlessonembodywayplug |  
+| bip_39_word_no_space_11 | accidentsnowadvancepatchelevatorpermitlessonembodywayplugnasty |  
+| bip_39_word_no_space_12 | accidentsnowadvancepatchelevatorpermitlessonembodywayplugnastyadapt |  
+| bip_39_word_no_space_2 | accidentsnow |  
+| bip_39_word_no_space_3 | accidentsnowadvance |  
+| bip_39_word_no_space_4 | accidentsnowadvancepatch |  
+| bip_39_word_no_space_5 | accidentsnowadvancepatchelevator |  
+| bip_39_word_no_space_6 | accidentsnowadvancepatchelevatorpermit |  
+| bip_39_word_no_space_7 | accidentsnowadvancepatchelevatorpermitlesson |  
+| bip_39_word_no_space_8 | accidentsnowadvancepatchelevatorpermitlessonembody |  
+| bip_39_word_no_space_9 | accidentsnowadvancepatchelevatorpermitlessonembodyway |  
 | bip_39_word_space_0 | ['accident', 'snow', 'advance', 'patch', 'elevator', 'permit', 'lesson', 'embody', 'way', 'plug', 'nasty', 'adapt'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident snow advance patch elevator permit lesson embody way plug |  

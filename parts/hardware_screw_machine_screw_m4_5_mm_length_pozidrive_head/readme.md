@@ -122,6 +122,18 @@ noodle
 attend
 very
 frozen |  
+| bip_39_word_no_space_1 | same |  
+| bip_39_word_no_space_10 | sameamusedslusharrestjellynoodleattendveryfrozenlike |  
+| bip_39_word_no_space_11 | sameamusedslusharrestjellynoodleattendveryfrozenlikesausage |  
+| bip_39_word_no_space_12 | sameamusedslusharrestjellynoodleattendveryfrozenlikesausageabout |  
+| bip_39_word_no_space_2 | sameamused |  
+| bip_39_word_no_space_3 | sameamusedslush |  
+| bip_39_word_no_space_4 | sameamusedslusharrest |  
+| bip_39_word_no_space_5 | sameamusedslusharrestjelly |  
+| bip_39_word_no_space_6 | sameamusedslusharrestjellynoodle |  
+| bip_39_word_no_space_7 | sameamusedslusharrestjellynoodleattend |  
+| bip_39_word_no_space_8 | sameamusedslusharrestjellynoodleattendvery |  
+| bip_39_word_no_space_9 | sameamusedslusharrestjellynoodleattendveryfrozen |  
 | bip_39_word_space_0 | ['same', 'amused', 'slush', 'arrest', 'jelly', 'noodle', 'attend', 'very', 'frozen', 'like', 'sausage', 'about'] |  
 | bip_39_word_space_1 | same |  
 | bip_39_word_space_10 | same amused slush arrest jelly noodle attend very frozen like |  

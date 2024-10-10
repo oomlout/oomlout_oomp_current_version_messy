@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'candy
   split
 
   amazing'
+bip_39_word_no_space_1: candy
+bip_39_word_no_space_10: candygreatsameshellcanaltissuetwosplitamazinghobby
+bip_39_word_no_space_11: candygreatsameshellcanaltissuetwosplitamazinghobbycheap
+bip_39_word_no_space_12: candygreatsameshellcanaltissuetwosplitamazinghobbycheaparena
+bip_39_word_no_space_2: candygreat
+bip_39_word_no_space_3: candygreatsame
+bip_39_word_no_space_4: candygreatsameshell
+bip_39_word_no_space_5: candygreatsameshellcanal
+bip_39_word_no_space_6: candygreatsameshellcanaltissue
+bip_39_word_no_space_7: candygreatsameshellcanaltissuetwo
+bip_39_word_no_space_8: candygreatsameshellcanaltissuetwosplit
+bip_39_word_no_space_9: candygreatsameshellcanaltissuetwosplitamazing
 bip_39_word_space_0:
 - candy
 - great

@@ -122,6 +122,18 @@ reason
 trash
 rotate
 merry |  
+| bip_39_word_no_space_1 | face |  
+| bip_39_word_no_space_10 | faceshineclumpfleevolumereasontrashrotatemerrycamp |  
+| bip_39_word_no_space_11 | faceshineclumpfleevolumereasontrashrotatemerrycampomit |  
+| bip_39_word_no_space_12 | faceshineclumpfleevolumereasontrashrotatemerrycampomitaspect |  
+| bip_39_word_no_space_2 | faceshine |  
+| bip_39_word_no_space_3 | faceshineclump |  
+| bip_39_word_no_space_4 | faceshineclumpflee |  
+| bip_39_word_no_space_5 | faceshineclumpfleevolume |  
+| bip_39_word_no_space_6 | faceshineclumpfleevolumereason |  
+| bip_39_word_no_space_7 | faceshineclumpfleevolumereasontrash |  
+| bip_39_word_no_space_8 | faceshineclumpfleevolumereasontrashrotate |  
+| bip_39_word_no_space_9 | faceshineclumpfleevolumereasontrashrotatemerry |  
 | bip_39_word_space_0 | ['face', 'shine', 'clump', 'flee', 'volume', 'reason', 'trash', 'rotate', 'merry', 'camp', 'omit', 'aspect'] |  
 | bip_39_word_space_1 | face |  
 | bip_39_word_space_10 | face shine clump flee volume reason trash rotate merry camp |  

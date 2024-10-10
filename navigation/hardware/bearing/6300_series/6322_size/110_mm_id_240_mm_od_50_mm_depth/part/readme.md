@@ -122,6 +122,18 @@ abuse
 model
 satoshi
 goat |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingweirdcrushcustomventureabusemodelsatoshigoatcheck |  
+| bip_39_word_no_space_11 | weddingweirdcrushcustomventureabusemodelsatoshigoatcheckhungry |  
+| bip_39_word_no_space_12 | weddingweirdcrushcustomventureabusemodelsatoshigoatcheckhungryabstract |  
+| bip_39_word_no_space_2 | weddingweird |  
+| bip_39_word_no_space_3 | weddingweirdcrush |  
+| bip_39_word_no_space_4 | weddingweirdcrushcustom |  
+| bip_39_word_no_space_5 | weddingweirdcrushcustomventure |  
+| bip_39_word_no_space_6 | weddingweirdcrushcustomventureabuse |  
+| bip_39_word_no_space_7 | weddingweirdcrushcustomventureabusemodel |  
+| bip_39_word_no_space_8 | weddingweirdcrushcustomventureabusemodelsatoshi |  
+| bip_39_word_no_space_9 | weddingweirdcrushcustomventureabusemodelsatoshigoat |  
 | bip_39_word_space_0 | ['wedding', 'weird', 'crush', 'custom', 'venture', 'abuse', 'model', 'satoshi', 'goat', 'check', 'hungry', 'abstract'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding weird crush custom venture abuse model satoshi goat check |  

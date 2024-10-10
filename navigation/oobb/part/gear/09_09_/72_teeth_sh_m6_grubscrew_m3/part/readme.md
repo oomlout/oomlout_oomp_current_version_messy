@@ -122,6 +122,18 @@ sword
 exhaust
 parent
 claw |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infantspeedactionthatwageswordexhaustparentclawdrama |  
+| bip_39_word_no_space_11 | infantspeedactionthatwageswordexhaustparentclawdramapage |  
+| bip_39_word_no_space_12 | infantspeedactionthatwageswordexhaustparentclawdramapagearrest |  
+| bip_39_word_no_space_2 | infantspeed |  
+| bip_39_word_no_space_3 | infantspeedaction |  
+| bip_39_word_no_space_4 | infantspeedactionthat |  
+| bip_39_word_no_space_5 | infantspeedactionthatwage |  
+| bip_39_word_no_space_6 | infantspeedactionthatwagesword |  
+| bip_39_word_no_space_7 | infantspeedactionthatwageswordexhaust |  
+| bip_39_word_no_space_8 | infantspeedactionthatwageswordexhaustparent |  
+| bip_39_word_no_space_9 | infantspeedactionthatwageswordexhaustparentclaw |  
 | bip_39_word_space_0 | ['infant', 'speed', 'action', 'that', 'wage', 'sword', 'exhaust', 'parent', 'claw', 'drama', 'page', 'arrest'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant speed action that wage sword exhaust parent claw drama |  

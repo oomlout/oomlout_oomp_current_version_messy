@@ -122,6 +122,18 @@ scan
 lava
 soap
 east |  
+| bip_39_word_no_space_1 | sibling |  
+| bip_39_word_no_space_10 | siblingchoicejuniorcarbonclientscanlavasoapeastscience |  
+| bip_39_word_no_space_11 | siblingchoicejuniorcarbonclientscanlavasoapeastscienceveteran |  
+| bip_39_word_no_space_12 | siblingchoicejuniorcarbonclientscanlavasoapeastscienceveteranask |  
+| bip_39_word_no_space_2 | siblingchoice |  
+| bip_39_word_no_space_3 | siblingchoicejunior |  
+| bip_39_word_no_space_4 | siblingchoicejuniorcarbon |  
+| bip_39_word_no_space_5 | siblingchoicejuniorcarbonclient |  
+| bip_39_word_no_space_6 | siblingchoicejuniorcarbonclientscan |  
+| bip_39_word_no_space_7 | siblingchoicejuniorcarbonclientscanlava |  
+| bip_39_word_no_space_8 | siblingchoicejuniorcarbonclientscanlavasoap |  
+| bip_39_word_no_space_9 | siblingchoicejuniorcarbonclientscanlavasoapeast |  
 | bip_39_word_space_0 | ['sibling', 'choice', 'junior', 'carbon', 'client', 'scan', 'lava', 'soap', 'east', 'science', 'veteran', 'ask'] |  
 | bip_39_word_space_1 | sibling |  
 | bip_39_word_space_10 | sibling choice junior carbon client scan lava soap east science |  

@@ -122,6 +122,18 @@ idea
 aspect
 captain
 nice |  
+| bip_39_word_no_space_1 | blade |  
+| bip_39_word_no_space_10 | bladegadgetengagebulkfameideaaspectcaptainnicecricket |  
+| bip_39_word_no_space_11 | bladegadgetengagebulkfameideaaspectcaptainnicecricketflush |  
+| bip_39_word_no_space_12 | bladegadgetengagebulkfameideaaspectcaptainnicecricketflushallow |  
+| bip_39_word_no_space_2 | bladegadget |  
+| bip_39_word_no_space_3 | bladegadgetengage |  
+| bip_39_word_no_space_4 | bladegadgetengagebulk |  
+| bip_39_word_no_space_5 | bladegadgetengagebulkfame |  
+| bip_39_word_no_space_6 | bladegadgetengagebulkfameidea |  
+| bip_39_word_no_space_7 | bladegadgetengagebulkfameideaaspect |  
+| bip_39_word_no_space_8 | bladegadgetengagebulkfameideaaspectcaptain |  
+| bip_39_word_no_space_9 | bladegadgetengagebulkfameideaaspectcaptainnice |  
 | bip_39_word_space_0 | ['blade', 'gadget', 'engage', 'bulk', 'fame', 'idea', 'aspect', 'captain', 'nice', 'cricket', 'flush', 'allow'] |  
 | bip_39_word_space_1 | blade |  
 | bip_39_word_space_10 | blade gadget engage bulk fame idea aspect captain nice cricket |  

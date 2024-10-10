@@ -122,6 +122,18 @@ label
 increase
 exhaust
 nephew |  
+| bip_39_word_no_space_1 | allow |  
+| bip_39_word_no_space_10 | allowmatchdonorforkdesertlabelincreaseexhaustnephewrail |  
+| bip_39_word_no_space_11 | allowmatchdonorforkdesertlabelincreaseexhaustnephewrailwave |  
+| bip_39_word_no_space_12 | allowmatchdonorforkdesertlabelincreaseexhaustnephewrailwaveable |  
+| bip_39_word_no_space_2 | allowmatch |  
+| bip_39_word_no_space_3 | allowmatchdonor |  
+| bip_39_word_no_space_4 | allowmatchdonorfork |  
+| bip_39_word_no_space_5 | allowmatchdonorforkdesert |  
+| bip_39_word_no_space_6 | allowmatchdonorforkdesertlabel |  
+| bip_39_word_no_space_7 | allowmatchdonorforkdesertlabelincrease |  
+| bip_39_word_no_space_8 | allowmatchdonorforkdesertlabelincreaseexhaust |  
+| bip_39_word_no_space_9 | allowmatchdonorforkdesertlabelincreaseexhaustnephew |  
 | bip_39_word_space_0 | ['allow', 'match', 'donor', 'fork', 'desert', 'label', 'increase', 'exhaust', 'nephew', 'rail', 'wave', 'able'] |  
 | bip_39_word_space_1 | allow |  
 | bip_39_word_space_10 | allow match donor fork desert label increase exhaust nephew rail |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'quit
   plug
 
   robot'
+bip_39_word_no_space_1: quit
+bip_39_word_no_space_10: quitcycleestatedovecanoemathdwarfplugrobotpermit
+bip_39_word_no_space_11: quitcycleestatedovecanoemathdwarfplugrobotpermithorror
+bip_39_word_no_space_12: quitcycleestatedovecanoemathdwarfplugrobotpermithorroralways
+bip_39_word_no_space_2: quitcycle
+bip_39_word_no_space_3: quitcycleestate
+bip_39_word_no_space_4: quitcycleestatedove
+bip_39_word_no_space_5: quitcycleestatedovecanoe
+bip_39_word_no_space_6: quitcycleestatedovecanoemath
+bip_39_word_no_space_7: quitcycleestatedovecanoemathdwarf
+bip_39_word_no_space_8: quitcycleestatedovecanoemathdwarfplug
+bip_39_word_no_space_9: quitcycleestatedovecanoemathdwarfplugrobot
 bip_39_word_space_0:
 - quit
 - cycle

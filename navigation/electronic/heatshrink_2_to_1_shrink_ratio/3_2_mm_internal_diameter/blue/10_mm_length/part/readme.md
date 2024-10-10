@@ -122,6 +122,18 @@ black
 raise
 action
 quick |  
+| bip_39_word_no_space_1 | crucial |  
+| bip_39_word_no_space_10 | crucialflightstreetrebeltwinblackraiseactionquickavocado |  
+| bip_39_word_no_space_11 | crucialflightstreetrebeltwinblackraiseactionquickavocadocity |  
+| bip_39_word_no_space_12 | crucialflightstreetrebeltwinblackraiseactionquickavocadocityapart |  
+| bip_39_word_no_space_2 | crucialflight |  
+| bip_39_word_no_space_3 | crucialflightstreet |  
+| bip_39_word_no_space_4 | crucialflightstreetrebel |  
+| bip_39_word_no_space_5 | crucialflightstreetrebeltwin |  
+| bip_39_word_no_space_6 | crucialflightstreetrebeltwinblack |  
+| bip_39_word_no_space_7 | crucialflightstreetrebeltwinblackraise |  
+| bip_39_word_no_space_8 | crucialflightstreetrebeltwinblackraiseaction |  
+| bip_39_word_no_space_9 | crucialflightstreetrebeltwinblackraiseactionquick |  
 | bip_39_word_space_0 | ['crucial', 'flight', 'street', 'rebel', 'twin', 'black', 'raise', 'action', 'quick', 'avocado', 'city', 'apart'] |  
 | bip_39_word_space_1 | crucial |  
 | bip_39_word_space_10 | crucial flight street rebel twin black raise action quick avocado |  

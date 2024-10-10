@@ -122,6 +122,18 @@ tool
 grace
 hip
 magnet |  
+| bip_39_word_no_space_1 | finish |  
+| bip_39_word_no_space_10 | finishbuffalojacketbroomomittoolgracehipmagnetsalad |  
+| bip_39_word_no_space_11 | finishbuffalojacketbroomomittoolgracehipmagnetsaladweapon |  
+| bip_39_word_no_space_12 | finishbuffalojacketbroomomittoolgracehipmagnetsaladweaponankle |  
+| bip_39_word_no_space_2 | finishbuffalo |  
+| bip_39_word_no_space_3 | finishbuffalojacket |  
+| bip_39_word_no_space_4 | finishbuffalojacketbroom |  
+| bip_39_word_no_space_5 | finishbuffalojacketbroomomit |  
+| bip_39_word_no_space_6 | finishbuffalojacketbroomomittool |  
+| bip_39_word_no_space_7 | finishbuffalojacketbroomomittoolgrace |  
+| bip_39_word_no_space_8 | finishbuffalojacketbroomomittoolgracehip |  
+| bip_39_word_no_space_9 | finishbuffalojacketbroomomittoolgracehipmagnet |  
 | bip_39_word_space_0 | ['finish', 'buffalo', 'jacket', 'broom', 'omit', 'tool', 'grace', 'hip', 'magnet', 'salad', 'weapon', 'ankle'] |  
 | bip_39_word_space_1 | finish |  
 | bip_39_word_space_10 | finish buffalo jacket broom omit tool grace hip magnet salad |  

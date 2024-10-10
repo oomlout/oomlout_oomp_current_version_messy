@@ -122,6 +122,18 @@ common
 follow
 property
 ginger |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artiststaffcategoryamongeasycommonfollowpropertygingercash |  
+| bip_39_word_no_space_11 | artiststaffcategoryamongeasycommonfollowpropertygingercashcaptain |  
+| bip_39_word_no_space_12 | artiststaffcategoryamongeasycommonfollowpropertygingercashcaptainattitude |  
+| bip_39_word_no_space_2 | artiststaff |  
+| bip_39_word_no_space_3 | artiststaffcategory |  
+| bip_39_word_no_space_4 | artiststaffcategoryamong |  
+| bip_39_word_no_space_5 | artiststaffcategoryamongeasy |  
+| bip_39_word_no_space_6 | artiststaffcategoryamongeasycommon |  
+| bip_39_word_no_space_7 | artiststaffcategoryamongeasycommonfollow |  
+| bip_39_word_no_space_8 | artiststaffcategoryamongeasycommonfollowproperty |  
+| bip_39_word_no_space_9 | artiststaffcategoryamongeasycommonfollowpropertyginger |  
 | bip_39_word_space_0 | ['artist', 'staff', 'category', 'among', 'easy', 'common', 'follow', 'property', 'ginger', 'cash', 'captain', 'attitude'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist staff category among easy common follow property ginger cash |  

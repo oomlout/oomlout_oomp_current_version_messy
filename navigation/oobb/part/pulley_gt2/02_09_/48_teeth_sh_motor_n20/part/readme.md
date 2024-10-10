@@ -122,6 +122,18 @@ item
 oval
 rely
 force |  
+| bip_39_word_no_space_1 | silly |  
+| bip_39_word_no_space_10 | sillyanalystdocumentkitchenclouditemovalrelyforcevital |  
+| bip_39_word_no_space_11 | sillyanalystdocumentkitchenclouditemovalrelyforcevitalplate |  
+| bip_39_word_no_space_12 | sillyanalystdocumentkitchenclouditemovalrelyforcevitalplateauction |  
+| bip_39_word_no_space_2 | sillyanalyst |  
+| bip_39_word_no_space_3 | sillyanalystdocument |  
+| bip_39_word_no_space_4 | sillyanalystdocumentkitchen |  
+| bip_39_word_no_space_5 | sillyanalystdocumentkitchencloud |  
+| bip_39_word_no_space_6 | sillyanalystdocumentkitchenclouditem |  
+| bip_39_word_no_space_7 | sillyanalystdocumentkitchenclouditemoval |  
+| bip_39_word_no_space_8 | sillyanalystdocumentkitchenclouditemovalrely |  
+| bip_39_word_no_space_9 | sillyanalystdocumentkitchenclouditemovalrelyforce |  
 | bip_39_word_space_0 | ['silly', 'analyst', 'document', 'kitchen', 'cloud', 'item', 'oval', 'rely', 'force', 'vital', 'plate', 'auction'] |  
 | bip_39_word_space_1 | silly |  
 | bip_39_word_space_10 | silly analyst document kitchen cloud item oval rely force vital |  

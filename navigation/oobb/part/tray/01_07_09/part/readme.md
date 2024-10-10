@@ -122,6 +122,18 @@ produce
 drift
 bless
 tonight |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstbrainappearcinnamonhardproducedriftblesstonightpass |  
+| bip_39_word_no_space_11 | firstbrainappearcinnamonhardproducedriftblesstonightpassenrich |  
+| bip_39_word_no_space_12 | firstbrainappearcinnamonhardproducedriftblesstonightpassenrichachieve |  
+| bip_39_word_no_space_2 | firstbrain |  
+| bip_39_word_no_space_3 | firstbrainappear |  
+| bip_39_word_no_space_4 | firstbrainappearcinnamon |  
+| bip_39_word_no_space_5 | firstbrainappearcinnamonhard |  
+| bip_39_word_no_space_6 | firstbrainappearcinnamonhardproduce |  
+| bip_39_word_no_space_7 | firstbrainappearcinnamonhardproducedrift |  
+| bip_39_word_no_space_8 | firstbrainappearcinnamonhardproducedriftbless |  
+| bip_39_word_no_space_9 | firstbrainappearcinnamonhardproducedriftblesstonight |  
 | bip_39_word_space_0 | ['first', 'brain', 'appear', 'cinnamon', 'hard', 'produce', 'drift', 'bless', 'tonight', 'pass', 'enrich', 'achieve'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first brain appear cinnamon hard produce drift bless tonight pass |  

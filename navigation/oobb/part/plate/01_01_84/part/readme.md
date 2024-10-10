@@ -122,6 +122,18 @@ notable
 round
 source
 vast |  
+| bip_39_word_no_space_1 | armor |  
+| bip_39_word_no_space_10 | armorreleasewishjobalwaysnotableroundsourcevastvelvet |  
+| bip_39_word_no_space_11 | armorreleasewishjobalwaysnotableroundsourcevastvelvetrandom |  
+| bip_39_word_no_space_12 | armorreleasewishjobalwaysnotableroundsourcevastvelvetrandomalter |  
+| bip_39_word_no_space_2 | armorrelease |  
+| bip_39_word_no_space_3 | armorreleasewish |  
+| bip_39_word_no_space_4 | armorreleasewishjob |  
+| bip_39_word_no_space_5 | armorreleasewishjobalways |  
+| bip_39_word_no_space_6 | armorreleasewishjobalwaysnotable |  
+| bip_39_word_no_space_7 | armorreleasewishjobalwaysnotableround |  
+| bip_39_word_no_space_8 | armorreleasewishjobalwaysnotableroundsource |  
+| bip_39_word_no_space_9 | armorreleasewishjobalwaysnotableroundsourcevast |  
 | bip_39_word_space_0 | ['armor', 'release', 'wish', 'job', 'always', 'notable', 'round', 'source', 'vast', 'velvet', 'random', 'alter'] |  
 | bip_39_word_space_1 | armor |  
 | bip_39_word_space_10 | armor release wish job always notable round source vast velvet |  

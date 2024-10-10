@@ -122,6 +122,18 @@ vessel
 end
 weekend
 smile |  
+| bip_39_word_no_space_1 | forget |  
+| bip_39_word_no_space_10 | forgetevolvebenefitsessionchalkvesselendweekendsmilemirror |  
+| bip_39_word_no_space_11 | forgetevolvebenefitsessionchalkvesselendweekendsmilemirrorgirl |  
+| bip_39_word_no_space_12 | forgetevolvebenefitsessionchalkvesselendweekendsmilemirrorgirlaisle |  
+| bip_39_word_no_space_2 | forgetevolve |  
+| bip_39_word_no_space_3 | forgetevolvebenefit |  
+| bip_39_word_no_space_4 | forgetevolvebenefitsession |  
+| bip_39_word_no_space_5 | forgetevolvebenefitsessionchalk |  
+| bip_39_word_no_space_6 | forgetevolvebenefitsessionchalkvessel |  
+| bip_39_word_no_space_7 | forgetevolvebenefitsessionchalkvesselend |  
+| bip_39_word_no_space_8 | forgetevolvebenefitsessionchalkvesselendweekend |  
+| bip_39_word_no_space_9 | forgetevolvebenefitsessionchalkvesselendweekendsmile |  
 | bip_39_word_space_0 | ['forget', 'evolve', 'benefit', 'session', 'chalk', 'vessel', 'end', 'weekend', 'smile', 'mirror', 'girl', 'aisle'] |  
 | bip_39_word_space_1 | forget |  
 | bip_39_word_space_10 | forget evolve benefit session chalk vessel end weekend smile mirror |  

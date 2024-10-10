@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sniff
   employ
 
   toss'
+bip_39_word_no_space_1: sniff
+bip_39_word_no_space_10: snifftenniswinmaximumalienattackdignityemploytossblind
+bip_39_word_no_space_11: snifftenniswinmaximumalienattackdignityemploytossblindnut
+bip_39_word_no_space_12: snifftenniswinmaximumalienattackdignityemploytossblindnutanalyst
+bip_39_word_no_space_2: snifftennis
+bip_39_word_no_space_3: snifftenniswin
+bip_39_word_no_space_4: snifftenniswinmaximum
+bip_39_word_no_space_5: snifftenniswinmaximumalien
+bip_39_word_no_space_6: snifftenniswinmaximumalienattack
+bip_39_word_no_space_7: snifftenniswinmaximumalienattackdignity
+bip_39_word_no_space_8: snifftenniswinmaximumalienattackdignityemploy
+bip_39_word_no_space_9: snifftenniswinmaximumalienattackdignityemploytoss
 bip_39_word_space_0:
 - sniff
 - tennis

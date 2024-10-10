@@ -122,6 +122,18 @@ iron
 drop
 net
 blur |  
+| bip_39_word_no_space_1 | warm |  
+| bip_39_word_no_space_10 | warmhoursadnesscostresembleirondropnetblursegment |  
+| bip_39_word_no_space_11 | warmhoursadnesscostresembleirondropnetblursegmentwinner |  
+| bip_39_word_no_space_12 | warmhoursadnesscostresembleirondropnetblursegmentwinnerannual |  
+| bip_39_word_no_space_2 | warmhour |  
+| bip_39_word_no_space_3 | warmhoursadness |  
+| bip_39_word_no_space_4 | warmhoursadnesscost |  
+| bip_39_word_no_space_5 | warmhoursadnesscostresemble |  
+| bip_39_word_no_space_6 | warmhoursadnesscostresembleiron |  
+| bip_39_word_no_space_7 | warmhoursadnesscostresembleirondrop |  
+| bip_39_word_no_space_8 | warmhoursadnesscostresembleirondropnet |  
+| bip_39_word_no_space_9 | warmhoursadnesscostresembleirondropnetblur |  
 | bip_39_word_space_0 | ['warm', 'hour', 'sadness', 'cost', 'resemble', 'iron', 'drop', 'net', 'blur', 'segment', 'winner', 'annual'] |  
 | bip_39_word_space_1 | warm |  
 | bip_39_word_space_10 | warm hour sadness cost resemble iron drop net blur segment |  

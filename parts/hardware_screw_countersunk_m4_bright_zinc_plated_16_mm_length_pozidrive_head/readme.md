@@ -122,6 +122,18 @@ indicate
 small
 betray
 issue |  
+| bip_39_word_no_space_1 | brief |  
+| bip_39_word_no_space_10 | brieforphanboringexplainoffindicatesmallbetrayissueengine |  
+| bip_39_word_no_space_11 | brieforphanboringexplainoffindicatesmallbetrayissueenginehappy |  
+| bip_39_word_no_space_12 | brieforphanboringexplainoffindicatesmallbetrayissueenginehappyacross |  
+| bip_39_word_no_space_2 | brieforphan |  
+| bip_39_word_no_space_3 | brieforphanboring |  
+| bip_39_word_no_space_4 | brieforphanboringexplain |  
+| bip_39_word_no_space_5 | brieforphanboringexplainoff |  
+| bip_39_word_no_space_6 | brieforphanboringexplainoffindicate |  
+| bip_39_word_no_space_7 | brieforphanboringexplainoffindicatesmall |  
+| bip_39_word_no_space_8 | brieforphanboringexplainoffindicatesmallbetray |  
+| bip_39_word_no_space_9 | brieforphanboringexplainoffindicatesmallbetrayissue |  
 | bip_39_word_space_0 | ['brief', 'orphan', 'boring', 'explain', 'off', 'indicate', 'small', 'betray', 'issue', 'engine', 'happy', 'across'] |  
 | bip_39_word_space_1 | brief |  
 | bip_39_word_space_10 | brief orphan boring explain off indicate small betray issue engine |  

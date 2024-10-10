@@ -122,6 +122,18 @@ easy
 skull
 inject
 relax |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmpulpeagleknifeleopardeasyskullinjectrelaxdecorate |  
+| bip_39_word_no_space_11 | rhythmpulpeagleknifeleopardeasyskullinjectrelaxdecorateskate |  
+| bip_39_word_no_space_12 | rhythmpulpeagleknifeleopardeasyskullinjectrelaxdecorateskateabsurd |  
+| bip_39_word_no_space_2 | rhythmpulp |  
+| bip_39_word_no_space_3 | rhythmpulpeagle |  
+| bip_39_word_no_space_4 | rhythmpulpeagleknife |  
+| bip_39_word_no_space_5 | rhythmpulpeagleknifeleopard |  
+| bip_39_word_no_space_6 | rhythmpulpeagleknifeleopardeasy |  
+| bip_39_word_no_space_7 | rhythmpulpeagleknifeleopardeasyskull |  
+| bip_39_word_no_space_8 | rhythmpulpeagleknifeleopardeasyskullinject |  
+| bip_39_word_no_space_9 | rhythmpulpeagleknifeleopardeasyskullinjectrelax |  
 | bip_39_word_space_0 | ['rhythm', 'pulp', 'eagle', 'knife', 'leopard', 'easy', 'skull', 'inject', 'relax', 'decorate', 'skate', 'absurd'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm pulp eagle knife leopard easy skull inject relax decorate |  

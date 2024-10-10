@@ -122,6 +122,18 @@ cheap
 bone
 walnut
 butter |  
+| bip_39_word_no_space_1 | zoo |  
+| bip_39_word_no_space_10 | zoodramaalertcarbonconductcheapbonewalnutbutterceiling |  
+| bip_39_word_no_space_11 | zoodramaalertcarbonconductcheapbonewalnutbutterceilingdebate |  
+| bip_39_word_no_space_12 | zoodramaalertcarbonconductcheapbonewalnutbutterceilingdebateafraid |  
+| bip_39_word_no_space_2 | zoodrama |  
+| bip_39_word_no_space_3 | zoodramaalert |  
+| bip_39_word_no_space_4 | zoodramaalertcarbon |  
+| bip_39_word_no_space_5 | zoodramaalertcarbonconduct |  
+| bip_39_word_no_space_6 | zoodramaalertcarbonconductcheap |  
+| bip_39_word_no_space_7 | zoodramaalertcarbonconductcheapbone |  
+| bip_39_word_no_space_8 | zoodramaalertcarbonconductcheapbonewalnut |  
+| bip_39_word_no_space_9 | zoodramaalertcarbonconductcheapbonewalnutbutter |  
 | bip_39_word_space_0 | ['zoo', 'drama', 'alert', 'carbon', 'conduct', 'cheap', 'bone', 'walnut', 'butter', 'ceiling', 'debate', 'afraid'] |  
 | bip_39_word_space_1 | zoo |  
 | bip_39_word_space_10 | zoo drama alert carbon conduct cheap bone walnut butter ceiling |  

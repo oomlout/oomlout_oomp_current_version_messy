@@ -122,6 +122,18 @@ miss
 vacuum
 prosper
 gadget |  
+| bip_39_word_no_space_1 | fold |  
+| bip_39_word_no_space_10 | foldlaptoplibertywanthelmetmissvacuumprospergadgeturban |  
+| bip_39_word_no_space_11 | foldlaptoplibertywanthelmetmissvacuumprospergadgeturbanwash |  
+| bip_39_word_no_space_12 | foldlaptoplibertywanthelmetmissvacuumprospergadgeturbanwashautumn |  
+| bip_39_word_no_space_2 | foldlaptop |  
+| bip_39_word_no_space_3 | foldlaptopliberty |  
+| bip_39_word_no_space_4 | foldlaptoplibertywant |  
+| bip_39_word_no_space_5 | foldlaptoplibertywanthelmet |  
+| bip_39_word_no_space_6 | foldlaptoplibertywanthelmetmiss |  
+| bip_39_word_no_space_7 | foldlaptoplibertywanthelmetmissvacuum |  
+| bip_39_word_no_space_8 | foldlaptoplibertywanthelmetmissvacuumprosper |  
+| bip_39_word_no_space_9 | foldlaptoplibertywanthelmetmissvacuumprospergadget |  
 | bip_39_word_space_0 | ['fold', 'laptop', 'liberty', 'want', 'helmet', 'miss', 'vacuum', 'prosper', 'gadget', 'urban', 'wash', 'autumn'] |  
 | bip_39_word_space_1 | fold |  
 | bip_39_word_space_10 | fold laptop liberty want helmet miss vacuum prosper gadget urban |  

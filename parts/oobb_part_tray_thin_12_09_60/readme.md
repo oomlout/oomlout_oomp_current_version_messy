@@ -122,6 +122,18 @@ bar
 captain
 ugly
 plate |  
+| bip_39_word_no_space_1 | lens |  
+| bip_39_word_no_space_10 | lenstonedenialarmyretreatbarcaptainuglyplatevacuum |  
+| bip_39_word_no_space_11 | lenstonedenialarmyretreatbarcaptainuglyplatevacuumcorn |  
+| bip_39_word_no_space_12 | lenstonedenialarmyretreatbarcaptainuglyplatevacuumcornaudit |  
+| bip_39_word_no_space_2 | lenstone |  
+| bip_39_word_no_space_3 | lenstonedenial |  
+| bip_39_word_no_space_4 | lenstonedenialarmy |  
+| bip_39_word_no_space_5 | lenstonedenialarmyretreat |  
+| bip_39_word_no_space_6 | lenstonedenialarmyretreatbar |  
+| bip_39_word_no_space_7 | lenstonedenialarmyretreatbarcaptain |  
+| bip_39_word_no_space_8 | lenstonedenialarmyretreatbarcaptainugly |  
+| bip_39_word_no_space_9 | lenstonedenialarmyretreatbarcaptainuglyplate |  
 | bip_39_word_space_0 | ['lens', 'tone', 'denial', 'army', 'retreat', 'bar', 'captain', 'ugly', 'plate', 'vacuum', 'corn', 'audit'] |  
 | bip_39_word_space_1 | lens |  
 | bip_39_word_space_10 | lens tone denial army retreat bar captain ugly plate vacuum |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'material
   basket
 
   pact'
+bip_39_word_no_space_1: material
+bip_39_word_no_space_10: materialclayawakewesttwowrapendlessbasketpactstart
+bip_39_word_no_space_11: materialclayawakewesttwowrapendlessbasketpactstartleader
+bip_39_word_no_space_12: materialclayawakewesttwowrapendlessbasketpactstartleaderaunt
+bip_39_word_no_space_2: materialclay
+bip_39_word_no_space_3: materialclayawake
+bip_39_word_no_space_4: materialclayawakewest
+bip_39_word_no_space_5: materialclayawakewesttwo
+bip_39_word_no_space_6: materialclayawakewesttwowrap
+bip_39_word_no_space_7: materialclayawakewesttwowrapendless
+bip_39_word_no_space_8: materialclayawakewesttwowrapendlessbasket
+bip_39_word_no_space_9: materialclayawakewesttwowrapendlessbasketpact
 bip_39_word_space_0:
 - material
 - clay

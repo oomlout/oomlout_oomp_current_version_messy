@@ -122,6 +122,18 @@ inherit
 top
 office
 fatigue |  
+| bip_39_word_no_space_1 | normal |  
+| bip_39_word_no_space_10 | normaladultgatealreadymessageinherittopofficefatiguevoice |  
+| bip_39_word_no_space_11 | normaladultgatealreadymessageinherittopofficefatiguevoiceupon |  
+| bip_39_word_no_space_12 | normaladultgatealreadymessageinherittopofficefatiguevoiceuponalien |  
+| bip_39_word_no_space_2 | normaladult |  
+| bip_39_word_no_space_3 | normaladultgate |  
+| bip_39_word_no_space_4 | normaladultgatealready |  
+| bip_39_word_no_space_5 | normaladultgatealreadymessage |  
+| bip_39_word_no_space_6 | normaladultgatealreadymessageinherit |  
+| bip_39_word_no_space_7 | normaladultgatealreadymessageinherittop |  
+| bip_39_word_no_space_8 | normaladultgatealreadymessageinherittopoffice |  
+| bip_39_word_no_space_9 | normaladultgatealreadymessageinherittopofficefatigue |  
 | bip_39_word_space_0 | ['normal', 'adult', 'gate', 'already', 'message', 'inherit', 'top', 'office', 'fatigue', 'voice', 'upon', 'alien'] |  
 | bip_39_word_space_1 | normal |  
 | bip_39_word_space_10 | normal adult gate already message inherit top office fatigue voice |  

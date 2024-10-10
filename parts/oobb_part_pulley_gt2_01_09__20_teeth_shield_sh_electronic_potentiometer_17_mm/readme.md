@@ -122,6 +122,18 @@ alcohol
 pepper
 gather
 powder |  
+| bip_39_word_no_space_1 | lift |  
+| bip_39_word_no_space_10 | liftraccooninnocentanothermerryalcoholpeppergatherpowderoak |  
+| bip_39_word_no_space_11 | liftraccooninnocentanothermerryalcoholpeppergatherpowderoakmind |  
+| bip_39_word_no_space_12 | liftraccooninnocentanothermerryalcoholpeppergatherpowderoakmindaround |  
+| bip_39_word_no_space_2 | liftraccoon |  
+| bip_39_word_no_space_3 | liftraccooninnocent |  
+| bip_39_word_no_space_4 | liftraccooninnocentanother |  
+| bip_39_word_no_space_5 | liftraccooninnocentanothermerry |  
+| bip_39_word_no_space_6 | liftraccooninnocentanothermerryalcohol |  
+| bip_39_word_no_space_7 | liftraccooninnocentanothermerryalcoholpepper |  
+| bip_39_word_no_space_8 | liftraccooninnocentanothermerryalcoholpeppergather |  
+| bip_39_word_no_space_9 | liftraccooninnocentanothermerryalcoholpeppergatherpowder |  
 | bip_39_word_space_0 | ['lift', 'raccoon', 'innocent', 'another', 'merry', 'alcohol', 'pepper', 'gather', 'powder', 'oak', 'mind', 'around'] |  
 | bip_39_word_space_1 | lift |  
 | bip_39_word_space_10 | lift raccoon innocent another merry alcohol pepper gather powder oak |  

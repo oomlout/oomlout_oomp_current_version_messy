@@ -122,6 +122,18 @@ situate
 price
 involve
 raven |  
+| bip_39_word_no_space_1 | front |  
+| bip_39_word_no_space_10 | frontshockdutycapitalnervesituatepriceinvolveravencoin |  
+| bip_39_word_no_space_11 | frontshockdutycapitalnervesituatepriceinvolveravencoindiary |  
+| bip_39_word_no_space_12 | frontshockdutycapitalnervesituatepriceinvolveravencoindiaryart |  
+| bip_39_word_no_space_2 | frontshock |  
+| bip_39_word_no_space_3 | frontshockduty |  
+| bip_39_word_no_space_4 | frontshockdutycapital |  
+| bip_39_word_no_space_5 | frontshockdutycapitalnerve |  
+| bip_39_word_no_space_6 | frontshockdutycapitalnervesituate |  
+| bip_39_word_no_space_7 | frontshockdutycapitalnervesituateprice |  
+| bip_39_word_no_space_8 | frontshockdutycapitalnervesituatepriceinvolve |  
+| bip_39_word_no_space_9 | frontshockdutycapitalnervesituatepriceinvolveraven |  
 | bip_39_word_space_0 | ['front', 'shock', 'duty', 'capital', 'nerve', 'situate', 'price', 'involve', 'raven', 'coin', 'diary', 'art'] |  
 | bip_39_word_space_1 | front |  
 | bip_39_word_space_10 | front shock duty capital nerve situate price involve raven coin |  

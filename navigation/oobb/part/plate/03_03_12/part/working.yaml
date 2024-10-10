@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'envelope
   april
 
   lion'
+bip_39_word_no_space_1: envelope
+bip_39_word_no_space_10: envelopeassistaimfishmarinedovefindaprillionmedal
+bip_39_word_no_space_11: envelopeassistaimfishmarinedovefindaprillionmedalfirst
+bip_39_word_no_space_12: envelopeassistaimfishmarinedovefindaprillionmedalfirstangry
+bip_39_word_no_space_2: envelopeassist
+bip_39_word_no_space_3: envelopeassistaim
+bip_39_word_no_space_4: envelopeassistaimfish
+bip_39_word_no_space_5: envelopeassistaimfishmarine
+bip_39_word_no_space_6: envelopeassistaimfishmarinedove
+bip_39_word_no_space_7: envelopeassistaimfishmarinedovefind
+bip_39_word_no_space_8: envelopeassistaimfishmarinedovefindapril
+bip_39_word_no_space_9: envelopeassistaimfishmarinedovefindaprillion
 bip_39_word_space_0:
 - envelope
 - assist

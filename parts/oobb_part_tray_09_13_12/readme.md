@@ -122,6 +122,18 @@ seek
 garden
 control
 nature |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hourproudrailfurnacesuchseekgardencontrolnaturecanoe |  
+| bip_39_word_no_space_11 | hourproudrailfurnacesuchseekgardencontrolnaturecanoearrive |  
+| bip_39_word_no_space_12 | hourproudrailfurnacesuchseekgardencontrolnaturecanoearriveafraid |  
+| bip_39_word_no_space_2 | hourproud |  
+| bip_39_word_no_space_3 | hourproudrail |  
+| bip_39_word_no_space_4 | hourproudrailfurnace |  
+| bip_39_word_no_space_5 | hourproudrailfurnacesuch |  
+| bip_39_word_no_space_6 | hourproudrailfurnacesuchseek |  
+| bip_39_word_no_space_7 | hourproudrailfurnacesuchseekgarden |  
+| bip_39_word_no_space_8 | hourproudrailfurnacesuchseekgardencontrol |  
+| bip_39_word_no_space_9 | hourproudrailfurnacesuchseekgardencontrolnature |  
 | bip_39_word_space_0 | ['hour', 'proud', 'rail', 'furnace', 'such', 'seek', 'garden', 'control', 'nature', 'canoe', 'arrive', 'afraid'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour proud rail furnace such seek garden control nature canoe |  

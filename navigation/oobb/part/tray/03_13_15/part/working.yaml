@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'valid
   mom
 
   talk'
+bip_39_word_no_space_1: valid
+bip_39_word_no_space_10: validstomachinjurymiddlepausefragiletimemomtalkenable
+bip_39_word_no_space_11: validstomachinjurymiddlepausefragiletimemomtalkenablescan
+bip_39_word_no_space_12: validstomachinjurymiddlepausefragiletimemomtalkenablescanalpha
+bip_39_word_no_space_2: validstomach
+bip_39_word_no_space_3: validstomachinjury
+bip_39_word_no_space_4: validstomachinjurymiddle
+bip_39_word_no_space_5: validstomachinjurymiddlepause
+bip_39_word_no_space_6: validstomachinjurymiddlepausefragile
+bip_39_word_no_space_7: validstomachinjurymiddlepausefragiletime
+bip_39_word_no_space_8: validstomachinjurymiddlepausefragiletimemom
+bip_39_word_no_space_9: validstomachinjurymiddlepausefragiletimemomtalk
 bip_39_word_space_0:
 - valid
 - stomach

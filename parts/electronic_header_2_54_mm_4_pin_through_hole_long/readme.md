@@ -122,6 +122,18 @@ dentist
 hen
 cross
 motion |  
+| bip_39_word_no_space_1 | public |  
+| bip_39_word_no_space_10 | publicswallowpovertytrulyancientdentisthencrossmotiongospel |  
+| bip_39_word_no_space_11 | publicswallowpovertytrulyancientdentisthencrossmotiongospelclip |  
+| bip_39_word_no_space_12 | publicswallowpovertytrulyancientdentisthencrossmotiongospelclipalcohol |  
+| bip_39_word_no_space_2 | publicswallow |  
+| bip_39_word_no_space_3 | publicswallowpoverty |  
+| bip_39_word_no_space_4 | publicswallowpovertytruly |  
+| bip_39_word_no_space_5 | publicswallowpovertytrulyancient |  
+| bip_39_word_no_space_6 | publicswallowpovertytrulyancientdentist |  
+| bip_39_word_no_space_7 | publicswallowpovertytrulyancientdentisthen |  
+| bip_39_word_no_space_8 | publicswallowpovertytrulyancientdentisthencross |  
+| bip_39_word_no_space_9 | publicswallowpovertytrulyancientdentisthencrossmotion |  
 | bip_39_word_space_0 | ['public', 'swallow', 'poverty', 'truly', 'ancient', 'dentist', 'hen', 'cross', 'motion', 'gospel', 'clip', 'alcohol'] |  
 | bip_39_word_space_1 | public |  
 | bip_39_word_space_10 | public swallow poverty truly ancient dentist hen cross motion gospel |  

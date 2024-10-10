@@ -122,6 +122,18 @@ parent
 convince
 pipe
 candy |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brasschucklepoetreducesightparentconvincepipecandyrain |  
+| bip_39_word_no_space_11 | brasschucklepoetreducesightparentconvincepipecandyrainsalad |  
+| bip_39_word_no_space_12 | brasschucklepoetreducesightparentconvincepipecandyrainsaladadmit |  
+| bip_39_word_no_space_2 | brasschuckle |  
+| bip_39_word_no_space_3 | brasschucklepoet |  
+| bip_39_word_no_space_4 | brasschucklepoetreduce |  
+| bip_39_word_no_space_5 | brasschucklepoetreducesight |  
+| bip_39_word_no_space_6 | brasschucklepoetreducesightparent |  
+| bip_39_word_no_space_7 | brasschucklepoetreducesightparentconvince |  
+| bip_39_word_no_space_8 | brasschucklepoetreducesightparentconvincepipe |  
+| bip_39_word_no_space_9 | brasschucklepoetreducesightparentconvincepipecandy |  
 | bip_39_word_space_0 | ['brass', 'chuckle', 'poet', 'reduce', 'sight', 'parent', 'convince', 'pipe', 'candy', 'rain', 'salad', 'admit'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass chuckle poet reduce sight parent convince pipe candy rain |  

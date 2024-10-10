@@ -122,6 +122,18 @@ order
 icon
 multiply
 caution |  
+| bip_39_word_no_space_1 | skill |  
+| bip_39_word_no_space_10 | skillbenchgaspboatsinceordericonmultiplycautionerode |  
+| bip_39_word_no_space_11 | skillbenchgaspboatsinceordericonmultiplycautionerodedream |  
+| bip_39_word_no_space_12 | skillbenchgaspboatsinceordericonmultiplycautionerodedreamanxiety |  
+| bip_39_word_no_space_2 | skillbench |  
+| bip_39_word_no_space_3 | skillbenchgasp |  
+| bip_39_word_no_space_4 | skillbenchgaspboat |  
+| bip_39_word_no_space_5 | skillbenchgaspboatsince |  
+| bip_39_word_no_space_6 | skillbenchgaspboatsinceorder |  
+| bip_39_word_no_space_7 | skillbenchgaspboatsinceordericon |  
+| bip_39_word_no_space_8 | skillbenchgaspboatsinceordericonmultiply |  
+| bip_39_word_no_space_9 | skillbenchgaspboatsinceordericonmultiplycaution |  
 | bip_39_word_space_0 | ['skill', 'bench', 'gasp', 'boat', 'since', 'order', 'icon', 'multiply', 'caution', 'erode', 'dream', 'anxiety'] |  
 | bip_39_word_space_1 | skill |  
 | bip_39_word_space_10 | skill bench gasp boat since order icon multiply caution erode |  

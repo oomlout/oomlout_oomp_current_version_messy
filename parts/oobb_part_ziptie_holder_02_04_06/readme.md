@@ -122,6 +122,18 @@ argue
 ordinary
 spice
 elbow |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infantusualunfoldstablefluidargueordinaryspiceelbowfrequent |  
+| bip_39_word_no_space_11 | infantusualunfoldstablefluidargueordinaryspiceelbowfrequentheavy |  
+| bip_39_word_no_space_12 | infantusualunfoldstablefluidargueordinaryspiceelbowfrequentheavyalways |  
+| bip_39_word_no_space_2 | infantusual |  
+| bip_39_word_no_space_3 | infantusualunfold |  
+| bip_39_word_no_space_4 | infantusualunfoldstable |  
+| bip_39_word_no_space_5 | infantusualunfoldstablefluid |  
+| bip_39_word_no_space_6 | infantusualunfoldstablefluidargue |  
+| bip_39_word_no_space_7 | infantusualunfoldstablefluidargueordinary |  
+| bip_39_word_no_space_8 | infantusualunfoldstablefluidargueordinaryspice |  
+| bip_39_word_no_space_9 | infantusualunfoldstablefluidargueordinaryspiceelbow |  
 | bip_39_word_space_0 | ['infant', 'usual', 'unfold', 'stable', 'fluid', 'argue', 'ordinary', 'spice', 'elbow', 'frequent', 'heavy', 'always'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant usual unfold stable fluid argue ordinary spice elbow frequent |  

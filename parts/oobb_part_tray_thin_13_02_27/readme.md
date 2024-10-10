@@ -122,6 +122,18 @@ domain
 animal
 farm
 original |  
+| bip_39_word_no_space_1 | early |  
+| bip_39_word_no_space_10 | earlystablecrazyslushtipdomainanimalfarmoriginaldrill |  
+| bip_39_word_no_space_11 | earlystablecrazyslushtipdomainanimalfarmoriginaldrillorange |  
+| bip_39_word_no_space_12 | earlystablecrazyslushtipdomainanimalfarmoriginaldrillorangeattend |  
+| bip_39_word_no_space_2 | earlystable |  
+| bip_39_word_no_space_3 | earlystablecrazy |  
+| bip_39_word_no_space_4 | earlystablecrazyslush |  
+| bip_39_word_no_space_5 | earlystablecrazyslushtip |  
+| bip_39_word_no_space_6 | earlystablecrazyslushtipdomain |  
+| bip_39_word_no_space_7 | earlystablecrazyslushtipdomainanimal |  
+| bip_39_word_no_space_8 | earlystablecrazyslushtipdomainanimalfarm |  
+| bip_39_word_no_space_9 | earlystablecrazyslushtipdomainanimalfarmoriginal |  
 | bip_39_word_space_0 | ['early', 'stable', 'crazy', 'slush', 'tip', 'domain', 'animal', 'farm', 'original', 'drill', 'orange', 'attend'] |  
 | bip_39_word_space_1 | early |  
 | bip_39_word_space_10 | early stable crazy slush tip domain animal farm original drill |  

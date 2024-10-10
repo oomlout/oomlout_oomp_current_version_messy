@@ -122,6 +122,18 @@ material
 wire
 charge
 industry |  
+| bip_39_word_no_space_1 | umbrella |  
+| bip_39_word_no_space_10 | umbrellamillionmotorgiraffeholematerialwirechargeindustryimpact |  
+| bip_39_word_no_space_11 | umbrellamillionmotorgiraffeholematerialwirechargeindustryimpactaxis |  
+| bip_39_word_no_space_12 | umbrellamillionmotorgiraffeholematerialwirechargeindustryimpactaxisart |  
+| bip_39_word_no_space_2 | umbrellamillion |  
+| bip_39_word_no_space_3 | umbrellamillionmotor |  
+| bip_39_word_no_space_4 | umbrellamillionmotorgiraffe |  
+| bip_39_word_no_space_5 | umbrellamillionmotorgiraffehole |  
+| bip_39_word_no_space_6 | umbrellamillionmotorgiraffeholematerial |  
+| bip_39_word_no_space_7 | umbrellamillionmotorgiraffeholematerialwire |  
+| bip_39_word_no_space_8 | umbrellamillionmotorgiraffeholematerialwirecharge |  
+| bip_39_word_no_space_9 | umbrellamillionmotorgiraffeholematerialwirechargeindustry |  
 | bip_39_word_space_0 | ['umbrella', 'million', 'motor', 'giraffe', 'hole', 'material', 'wire', 'charge', 'industry', 'impact', 'axis', 'art'] |  
 | bip_39_word_space_1 | umbrella |  
 | bip_39_word_space_10 | umbrella million motor giraffe hole material wire charge industry impact |  

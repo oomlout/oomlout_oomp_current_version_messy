@@ -122,6 +122,18 @@ torch
 topple
 nominee
 brick |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilanswermagnetgadgetstingtorchtopplenomineebrickcherry |  
+| bip_39_word_no_space_11 | aprilanswermagnetgadgetstingtorchtopplenomineebrickcherrychapter |  
+| bip_39_word_no_space_12 | aprilanswermagnetgadgetstingtorchtopplenomineebrickcherrychapteradult |  
+| bip_39_word_no_space_2 | aprilanswer |  
+| bip_39_word_no_space_3 | aprilanswermagnet |  
+| bip_39_word_no_space_4 | aprilanswermagnetgadget |  
+| bip_39_word_no_space_5 | aprilanswermagnetgadgetsting |  
+| bip_39_word_no_space_6 | aprilanswermagnetgadgetstingtorch |  
+| bip_39_word_no_space_7 | aprilanswermagnetgadgetstingtorchtopple |  
+| bip_39_word_no_space_8 | aprilanswermagnetgadgetstingtorchtopplenominee |  
+| bip_39_word_no_space_9 | aprilanswermagnetgadgetstingtorchtopplenomineebrick |  
 | bip_39_word_space_0 | ['april', 'answer', 'magnet', 'gadget', 'sting', 'torch', 'topple', 'nominee', 'brick', 'cherry', 'chapter', 'adult'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april answer magnet gadget sting torch topple nominee brick cherry |  

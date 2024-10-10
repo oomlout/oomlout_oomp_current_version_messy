@@ -122,6 +122,18 @@ shift
 furnace
 ladder
 rival |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnesssubwayridgeseedoutdoorshiftfurnaceladderrivalrail |  
+| bip_39_word_no_space_11 | fitnesssubwayridgeseedoutdoorshiftfurnaceladderrivalrailglass |  
+| bip_39_word_no_space_12 | fitnesssubwayridgeseedoutdoorshiftfurnaceladderrivalrailglassaccount |  
+| bip_39_word_no_space_2 | fitnesssubway |  
+| bip_39_word_no_space_3 | fitnesssubwayridge |  
+| bip_39_word_no_space_4 | fitnesssubwayridgeseed |  
+| bip_39_word_no_space_5 | fitnesssubwayridgeseedoutdoor |  
+| bip_39_word_no_space_6 | fitnesssubwayridgeseedoutdoorshift |  
+| bip_39_word_no_space_7 | fitnesssubwayridgeseedoutdoorshiftfurnace |  
+| bip_39_word_no_space_8 | fitnesssubwayridgeseedoutdoorshiftfurnaceladder |  
+| bip_39_word_no_space_9 | fitnesssubwayridgeseedoutdoorshiftfurnaceladderrival |  
 | bip_39_word_space_0 | ['fitness', 'subway', 'ridge', 'seed', 'outdoor', 'shift', 'furnace', 'ladder', 'rival', 'rail', 'glass', 'account'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness subway ridge seed outdoor shift furnace ladder rival rail |  

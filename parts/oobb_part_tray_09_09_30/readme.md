@@ -122,6 +122,18 @@ tiger
 cause
 cement
 episode |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | cometopguitardomaintumbletigercausecementepisodeburst |  
+| bip_39_word_no_space_11 | cometopguitardomaintumbletigercausecementepisodeburstthumb |  
+| bip_39_word_no_space_12 | cometopguitardomaintumbletigercausecementepisodeburstthumbaerobic |  
+| bip_39_word_no_space_2 | cometop |  
+| bip_39_word_no_space_3 | cometopguitar |  
+| bip_39_word_no_space_4 | cometopguitardomain |  
+| bip_39_word_no_space_5 | cometopguitardomaintumble |  
+| bip_39_word_no_space_6 | cometopguitardomaintumbletiger |  
+| bip_39_word_no_space_7 | cometopguitardomaintumbletigercause |  
+| bip_39_word_no_space_8 | cometopguitardomaintumbletigercausecement |  
+| bip_39_word_no_space_9 | cometopguitardomaintumbletigercausecementepisode |  
 | bip_39_word_space_0 | ['come', 'top', 'guitar', 'domain', 'tumble', 'tiger', 'cause', 'cement', 'episode', 'burst', 'thumb', 'aerobic'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come top guitar domain tumble tiger cause cement episode burst |  

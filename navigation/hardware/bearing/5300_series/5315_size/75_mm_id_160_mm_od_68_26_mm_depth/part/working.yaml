@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fly
   machine
 
   prosper'
+bip_39_word_no_space_1: fly
+bip_39_word_no_space_10: flyfortuneskatesamechucklecorncottonmachineprospersupply
+bip_39_word_no_space_11: flyfortuneskatesamechucklecorncottonmachineprospersupplyslot
+bip_39_word_no_space_12: flyfortuneskatesamechucklecorncottonmachineprospersupplyslotantique
+bip_39_word_no_space_2: flyfortune
+bip_39_word_no_space_3: flyfortuneskate
+bip_39_word_no_space_4: flyfortuneskatesame
+bip_39_word_no_space_5: flyfortuneskatesamechuckle
+bip_39_word_no_space_6: flyfortuneskatesamechucklecorn
+bip_39_word_no_space_7: flyfortuneskatesamechucklecorncotton
+bip_39_word_no_space_8: flyfortuneskatesamechucklecorncottonmachine
+bip_39_word_no_space_9: flyfortuneskatesamechucklecorncottonmachineprosper
 bip_39_word_space_0:
 - fly
 - fortune

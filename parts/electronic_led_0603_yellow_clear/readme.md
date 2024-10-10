@@ -122,6 +122,18 @@ toilet
 road
 legal
 battle |  
+| bip_39_word_no_space_1 | obvious |  
+| bip_39_word_no_space_10 | obviouscallefforthamsterspeaktoiletroadlegalbattleeasily |  
+| bip_39_word_no_space_11 | obviouscallefforthamsterspeaktoiletroadlegalbattleeasilyfiction |  
+| bip_39_word_no_space_12 | obviouscallefforthamsterspeaktoiletroadlegalbattleeasilyfictionabuse |  
+| bip_39_word_no_space_2 | obviouscall |  
+| bip_39_word_no_space_3 | obviouscalleffort |  
+| bip_39_word_no_space_4 | obviouscallefforthamster |  
+| bip_39_word_no_space_5 | obviouscallefforthamsterspeak |  
+| bip_39_word_no_space_6 | obviouscallefforthamsterspeaktoilet |  
+| bip_39_word_no_space_7 | obviouscallefforthamsterspeaktoiletroad |  
+| bip_39_word_no_space_8 | obviouscallefforthamsterspeaktoiletroadlegal |  
+| bip_39_word_no_space_9 | obviouscallefforthamsterspeaktoiletroadlegalbattle |  
 | bip_39_word_space_0 | ['obvious', 'call', 'effort', 'hamster', 'speak', 'toilet', 'road', 'legal', 'battle', 'easily', 'fiction', 'abuse'] |  
 | bip_39_word_space_1 | obvious |  
 | bip_39_word_space_10 | obvious call effort hamster speak toilet road legal battle easily |  

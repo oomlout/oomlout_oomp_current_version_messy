@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'coffee
   rose
 
   toddler'
+bip_39_word_no_space_1: coffee
+bip_39_word_no_space_10: coffeedirtpoetouterstockawareneglectrosetoddlerdolphin
+bip_39_word_no_space_11: coffeedirtpoetouterstockawareneglectrosetoddlerdolphinrobust
+bip_39_word_no_space_12: coffeedirtpoetouterstockawareneglectrosetoddlerdolphinrobustacquire
+bip_39_word_no_space_2: coffeedirt
+bip_39_word_no_space_3: coffeedirtpoet
+bip_39_word_no_space_4: coffeedirtpoetouter
+bip_39_word_no_space_5: coffeedirtpoetouterstock
+bip_39_word_no_space_6: coffeedirtpoetouterstockaware
+bip_39_word_no_space_7: coffeedirtpoetouterstockawareneglect
+bip_39_word_no_space_8: coffeedirtpoetouterstockawareneglectrose
+bip_39_word_no_space_9: coffeedirtpoetouterstockawareneglectrosetoddler
 bip_39_word_space_0:
 - coffee
 - dirt

@@ -122,6 +122,18 @@ knee
 digital
 tongue
 clog |  
+| bip_39_word_no_space_1 | calm |  
+| bip_39_word_no_space_10 | calmcandyringartworksubwaykneedigitaltongueclogdrum |  
+| bip_39_word_no_space_11 | calmcandyringartworksubwaykneedigitaltongueclogdrumbag |  
+| bip_39_word_no_space_12 | calmcandyringartworksubwaykneedigitaltongueclogdrumbagartefact |  
+| bip_39_word_no_space_2 | calmcandy |  
+| bip_39_word_no_space_3 | calmcandyring |  
+| bip_39_word_no_space_4 | calmcandyringartwork |  
+| bip_39_word_no_space_5 | calmcandyringartworksubway |  
+| bip_39_word_no_space_6 | calmcandyringartworksubwayknee |  
+| bip_39_word_no_space_7 | calmcandyringartworksubwaykneedigital |  
+| bip_39_word_no_space_8 | calmcandyringartworksubwaykneedigitaltongue |  
+| bip_39_word_no_space_9 | calmcandyringartworksubwaykneedigitaltongueclog |  
 | bip_39_word_space_0 | ['calm', 'candy', 'ring', 'artwork', 'subway', 'knee', 'digital', 'tongue', 'clog', 'drum', 'bag', 'artefact'] |  
 | bip_39_word_space_1 | calm |  
 | bip_39_word_space_10 | calm candy ring artwork subway knee digital tongue clog drum |  

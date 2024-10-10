@@ -122,6 +122,18 @@ soft
 raven
 stairs
 cool |  
+| bip_39_word_no_space_1 | address |  
+| bip_39_word_no_space_10 | addresseastenactfuncontrolsoftravenstairscoolabout |  
+| bip_39_word_no_space_11 | addresseastenactfuncontrolsoftravenstairscoolaboutsimilar |  
+| bip_39_word_no_space_12 | addresseastenactfuncontrolsoftravenstairscoolaboutsimilarafford |  
+| bip_39_word_no_space_2 | addresseast |  
+| bip_39_word_no_space_3 | addresseastenact |  
+| bip_39_word_no_space_4 | addresseastenactfun |  
+| bip_39_word_no_space_5 | addresseastenactfuncontrol |  
+| bip_39_word_no_space_6 | addresseastenactfuncontrolsoft |  
+| bip_39_word_no_space_7 | addresseastenactfuncontrolsoftraven |  
+| bip_39_word_no_space_8 | addresseastenactfuncontrolsoftravenstairs |  
+| bip_39_word_no_space_9 | addresseastenactfuncontrolsoftravenstairscool |  
 | bip_39_word_space_0 | ['address', 'east', 'enact', 'fun', 'control', 'soft', 'raven', 'stairs', 'cool', 'about', 'similar', 'afford'] |  
 | bip_39_word_space_1 | address |  
 | bip_39_word_space_10 | address east enact fun control soft raven stairs cool about |  

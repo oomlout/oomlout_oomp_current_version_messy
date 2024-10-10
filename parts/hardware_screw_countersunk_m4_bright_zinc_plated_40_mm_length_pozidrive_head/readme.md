@@ -122,6 +122,18 @@ diesel
 wonder
 lawsuit
 resemble |  
+| bip_39_word_no_space_1 | forum |  
+| bip_39_word_no_space_10 | forumideavolcanothreeluckydieselwonderlawsuitresembleart |  
+| bip_39_word_no_space_11 | forumideavolcanothreeluckydieselwonderlawsuitresembleartthey |  
+| bip_39_word_no_space_12 | forumideavolcanothreeluckydieselwonderlawsuitresemblearttheyankle |  
+| bip_39_word_no_space_2 | forumidea |  
+| bip_39_word_no_space_3 | forumideavolcano |  
+| bip_39_word_no_space_4 | forumideavolcanothree |  
+| bip_39_word_no_space_5 | forumideavolcanothreelucky |  
+| bip_39_word_no_space_6 | forumideavolcanothreeluckydiesel |  
+| bip_39_word_no_space_7 | forumideavolcanothreeluckydieselwonder |  
+| bip_39_word_no_space_8 | forumideavolcanothreeluckydieselwonderlawsuit |  
+| bip_39_word_no_space_9 | forumideavolcanothreeluckydieselwonderlawsuitresemble |  
 | bip_39_word_space_0 | ['forum', 'idea', 'volcano', 'three', 'lucky', 'diesel', 'wonder', 'lawsuit', 'resemble', 'art', 'they', 'ankle'] |  
 | bip_39_word_space_1 | forum |  
 | bip_39_word_space_10 | forum idea volcano three lucky diesel wonder lawsuit resemble art |  

@@ -122,6 +122,18 @@ siege
 oxygen
 broccoli
 mercy |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | memberfrogfrogaboutbusysiegeoxygenbroccolimercyinside |  
+| bip_39_word_no_space_11 | memberfrogfrogaboutbusysiegeoxygenbroccolimercyinsidestadium |  
+| bip_39_word_no_space_12 | memberfrogfrogaboutbusysiegeoxygenbroccolimercyinsidestadiumamount |  
+| bip_39_word_no_space_2 | memberfrog |  
+| bip_39_word_no_space_3 | memberfrogfrog |  
+| bip_39_word_no_space_4 | memberfrogfrogabout |  
+| bip_39_word_no_space_5 | memberfrogfrogaboutbusy |  
+| bip_39_word_no_space_6 | memberfrogfrogaboutbusysiege |  
+| bip_39_word_no_space_7 | memberfrogfrogaboutbusysiegeoxygen |  
+| bip_39_word_no_space_8 | memberfrogfrogaboutbusysiegeoxygenbroccoli |  
+| bip_39_word_no_space_9 | memberfrogfrogaboutbusysiegeoxygenbroccolimercy |  
 | bip_39_word_space_0 | ['member', 'frog', 'frog', 'about', 'busy', 'siege', 'oxygen', 'broccoli', 'mercy', 'inside', 'stadium', 'amount'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member frog frog about busy siege oxygen broccoli mercy inside |  

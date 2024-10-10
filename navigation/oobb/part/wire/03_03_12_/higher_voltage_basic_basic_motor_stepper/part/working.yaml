@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'liquid
   current
 
   resemble'
+bip_39_word_no_space_1: liquid
+bip_39_word_no_space_10: liquidworthwindowgunvastcastleimagecurrentresemblebirth
+bip_39_word_no_space_11: liquidworthwindowgunvastcastleimagecurrentresemblebirthlens
+bip_39_word_no_space_12: liquidworthwindowgunvastcastleimagecurrentresemblebirthlensabuse
+bip_39_word_no_space_2: liquidworth
+bip_39_word_no_space_3: liquidworthwindow
+bip_39_word_no_space_4: liquidworthwindowgun
+bip_39_word_no_space_5: liquidworthwindowgunvast
+bip_39_word_no_space_6: liquidworthwindowgunvastcastle
+bip_39_word_no_space_7: liquidworthwindowgunvastcastleimage
+bip_39_word_no_space_8: liquidworthwindowgunvastcastleimagecurrent
+bip_39_word_no_space_9: liquidworthwindowgunvastcastleimagecurrentresemble
 bip_39_word_space_0:
 - liquid
 - worth

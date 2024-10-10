@@ -122,6 +122,18 @@ depart
 vehicle
 lawsuit
 swap |  
+| bip_39_word_no_space_1 | water |  
+| bip_39_word_no_space_10 | waterladyturnfortunespikedepartvehiclelawsuitswapozone |  
+| bip_39_word_no_space_11 | waterladyturnfortunespikedepartvehiclelawsuitswapozoneinstall |  
+| bip_39_word_no_space_12 | waterladyturnfortunespikedepartvehiclelawsuitswapozoneinstallact |  
+| bip_39_word_no_space_2 | waterlady |  
+| bip_39_word_no_space_3 | waterladyturn |  
+| bip_39_word_no_space_4 | waterladyturnfortune |  
+| bip_39_word_no_space_5 | waterladyturnfortunespike |  
+| bip_39_word_no_space_6 | waterladyturnfortunespikedepart |  
+| bip_39_word_no_space_7 | waterladyturnfortunespikedepartvehicle |  
+| bip_39_word_no_space_8 | waterladyturnfortunespikedepartvehiclelawsuit |  
+| bip_39_word_no_space_9 | waterladyturnfortunespikedepartvehiclelawsuitswap |  
 | bip_39_word_space_0 | ['water', 'lady', 'turn', 'fortune', 'spike', 'depart', 'vehicle', 'lawsuit', 'swap', 'ozone', 'install', 'act'] |  
 | bip_39_word_space_1 | water |  
 | bip_39_word_space_10 | water lady turn fortune spike depart vehicle lawsuit swap ozone |  

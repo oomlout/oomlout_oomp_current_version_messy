@@ -122,6 +122,18 @@ clog
 drip
 relax
 spider |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildlovevendorkiwicategoryclogdriprelaxspiderviolin |  
+| bip_39_word_no_space_11 | rebuildlovevendorkiwicategoryclogdriprelaxspiderviolinexcuse |  
+| bip_39_word_no_space_12 | rebuildlovevendorkiwicategoryclogdriprelaxspiderviolinexcuseahead |  
+| bip_39_word_no_space_2 | rebuildlove |  
+| bip_39_word_no_space_3 | rebuildlovevendor |  
+| bip_39_word_no_space_4 | rebuildlovevendorkiwi |  
+| bip_39_word_no_space_5 | rebuildlovevendorkiwicategory |  
+| bip_39_word_no_space_6 | rebuildlovevendorkiwicategoryclog |  
+| bip_39_word_no_space_7 | rebuildlovevendorkiwicategoryclogdrip |  
+| bip_39_word_no_space_8 | rebuildlovevendorkiwicategoryclogdriprelax |  
+| bip_39_word_no_space_9 | rebuildlovevendorkiwicategoryclogdriprelaxspider |  
 | bip_39_word_space_0 | ['rebuild', 'love', 'vendor', 'kiwi', 'category', 'clog', 'drip', 'relax', 'spider', 'violin', 'excuse', 'ahead'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild love vendor kiwi category clog drip relax spider violin |  

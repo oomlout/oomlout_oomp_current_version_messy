@@ -122,6 +122,18 @@ country
 clean
 long
 clinic |  
+| bip_39_word_no_space_1 | tower |  
+| bip_39_word_no_space_10 | towerbetrayfinestyleslogancountrycleanlongclinicwheat |  
+| bip_39_word_no_space_11 | towerbetrayfinestyleslogancountrycleanlongclinicwheatshrimp |  
+| bip_39_word_no_space_12 | towerbetrayfinestyleslogancountrycleanlongclinicwheatshrimpannual |  
+| bip_39_word_no_space_2 | towerbetray |  
+| bip_39_word_no_space_3 | towerbetrayfine |  
+| bip_39_word_no_space_4 | towerbetrayfinestyle |  
+| bip_39_word_no_space_5 | towerbetrayfinestyleslogan |  
+| bip_39_word_no_space_6 | towerbetrayfinestyleslogancountry |  
+| bip_39_word_no_space_7 | towerbetrayfinestyleslogancountryclean |  
+| bip_39_word_no_space_8 | towerbetrayfinestyleslogancountrycleanlong |  
+| bip_39_word_no_space_9 | towerbetrayfinestyleslogancountrycleanlongclinic |  
 | bip_39_word_space_0 | ['tower', 'betray', 'fine', 'style', 'slogan', 'country', 'clean', 'long', 'clinic', 'wheat', 'shrimp', 'annual'] |  
 | bip_39_word_space_1 | tower |  
 | bip_39_word_space_10 | tower betray fine style slogan country clean long clinic wheat |  

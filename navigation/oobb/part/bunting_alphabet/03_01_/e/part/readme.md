@@ -122,6 +122,18 @@ shiver
 spawn
 acquire
 dust |  
+| bip_39_word_no_space_1 | clown |  
+| bip_39_word_no_space_10 | clownketchupgarbagehillwishshiverspawnacquiredustpipe |  
+| bip_39_word_no_space_11 | clownketchupgarbagehillwishshiverspawnacquiredustpipeinfant |  
+| bip_39_word_no_space_12 | clownketchupgarbagehillwishshiverspawnacquiredustpipeinfantactual |  
+| bip_39_word_no_space_2 | clownketchup |  
+| bip_39_word_no_space_3 | clownketchupgarbage |  
+| bip_39_word_no_space_4 | clownketchupgarbagehill |  
+| bip_39_word_no_space_5 | clownketchupgarbagehillwish |  
+| bip_39_word_no_space_6 | clownketchupgarbagehillwishshiver |  
+| bip_39_word_no_space_7 | clownketchupgarbagehillwishshiverspawn |  
+| bip_39_word_no_space_8 | clownketchupgarbagehillwishshiverspawnacquire |  
+| bip_39_word_no_space_9 | clownketchupgarbagehillwishshiverspawnacquiredust |  
 | bip_39_word_space_0 | ['clown', 'ketchup', 'garbage', 'hill', 'wish', 'shiver', 'spawn', 'acquire', 'dust', 'pipe', 'infant', 'actual'] |  
 | bip_39_word_space_1 | clown |  
 | bip_39_word_space_10 | clown ketchup garbage hill wish shiver spawn acquire dust pipe |  

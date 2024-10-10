@@ -122,6 +122,18 @@ fine
 real
 pyramid
 coral |  
+| bip_39_word_no_space_1 | entry |  
+| bip_39_word_no_space_10 | entrybulbbeyondexpireexplainfinerealpyramidcoraldeal |  
+| bip_39_word_no_space_11 | entrybulbbeyondexpireexplainfinerealpyramidcoraldealplay |  
+| bip_39_word_no_space_12 | entrybulbbeyondexpireexplainfinerealpyramidcoraldealplayauto |  
+| bip_39_word_no_space_2 | entrybulb |  
+| bip_39_word_no_space_3 | entrybulbbeyond |  
+| bip_39_word_no_space_4 | entrybulbbeyondexpire |  
+| bip_39_word_no_space_5 | entrybulbbeyondexpireexplain |  
+| bip_39_word_no_space_6 | entrybulbbeyondexpireexplainfine |  
+| bip_39_word_no_space_7 | entrybulbbeyondexpireexplainfinereal |  
+| bip_39_word_no_space_8 | entrybulbbeyondexpireexplainfinerealpyramid |  
+| bip_39_word_no_space_9 | entrybulbbeyondexpireexplainfinerealpyramidcoral |  
 | bip_39_word_space_0 | ['entry', 'bulb', 'beyond', 'expire', 'explain', 'fine', 'real', 'pyramid', 'coral', 'deal', 'play', 'auto'] |  
 | bip_39_word_space_1 | entry |  
 | bip_39_word_space_10 | entry bulb beyond expire explain fine real pyramid coral deal |  

@@ -122,6 +122,18 @@ reunion
 piece
 illness
 list |  
+| bip_39_word_no_space_1 | margin |  
+| bip_39_word_no_space_10 | marginbrothercupprisonshadowreunionpieceillnesslistchief |  
+| bip_39_word_no_space_11 | marginbrothercupprisonshadowreunionpieceillnesslistchieftank |  
+| bip_39_word_no_space_12 | marginbrothercupprisonshadowreunionpieceillnesslistchieftankarctic |  
+| bip_39_word_no_space_2 | marginbrother |  
+| bip_39_word_no_space_3 | marginbrothercup |  
+| bip_39_word_no_space_4 | marginbrothercupprison |  
+| bip_39_word_no_space_5 | marginbrothercupprisonshadow |  
+| bip_39_word_no_space_6 | marginbrothercupprisonshadowreunion |  
+| bip_39_word_no_space_7 | marginbrothercupprisonshadowreunionpiece |  
+| bip_39_word_no_space_8 | marginbrothercupprisonshadowreunionpieceillness |  
+| bip_39_word_no_space_9 | marginbrothercupprisonshadowreunionpieceillnesslist |  
 | bip_39_word_space_0 | ['margin', 'brother', 'cup', 'prison', 'shadow', 'reunion', 'piece', 'illness', 'list', 'chief', 'tank', 'arctic'] |  
 | bip_39_word_space_1 | margin |  
 | bip_39_word_space_10 | margin brother cup prison shadow reunion piece illness list chief |  

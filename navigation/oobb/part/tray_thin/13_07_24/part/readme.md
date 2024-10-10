@@ -122,6 +122,18 @@ bridge
 audit
 crater
 gas |  
+| bip_39_word_no_space_1 | shadow |  
+| bip_39_word_no_space_10 | shadowtogetherknocknastyreopenbridgeauditcratergasalpha |  
+| bip_39_word_no_space_11 | shadowtogetherknocknastyreopenbridgeauditcratergasalphaworld |  
+| bip_39_word_no_space_12 | shadowtogetherknocknastyreopenbridgeauditcratergasalphaworldaddress |  
+| bip_39_word_no_space_2 | shadowtogether |  
+| bip_39_word_no_space_3 | shadowtogetherknock |  
+| bip_39_word_no_space_4 | shadowtogetherknocknasty |  
+| bip_39_word_no_space_5 | shadowtogetherknocknastyreopen |  
+| bip_39_word_no_space_6 | shadowtogetherknocknastyreopenbridge |  
+| bip_39_word_no_space_7 | shadowtogetherknocknastyreopenbridgeaudit |  
+| bip_39_word_no_space_8 | shadowtogetherknocknastyreopenbridgeauditcrater |  
+| bip_39_word_no_space_9 | shadowtogetherknocknastyreopenbridgeauditcratergas |  
 | bip_39_word_space_0 | ['shadow', 'together', 'knock', 'nasty', 'reopen', 'bridge', 'audit', 'crater', 'gas', 'alpha', 'world', 'address'] |  
 | bip_39_word_space_1 | shadow |  
 | bip_39_word_space_10 | shadow together knock nasty reopen bridge audit crater gas alpha |  

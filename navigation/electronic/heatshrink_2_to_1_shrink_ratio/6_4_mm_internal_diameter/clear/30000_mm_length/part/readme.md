@@ -122,6 +122,18 @@ item
 alone
 demand
 swamp |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentdesertreceivereopenembraceitemalonedemandswampany |  
+| bip_39_word_no_space_11 | silentdesertreceivereopenembraceitemalonedemandswampanycouch |  
+| bip_39_word_no_space_12 | silentdesertreceivereopenembraceitemalonedemandswampanycouchaffair |  
+| bip_39_word_no_space_2 | silentdesert |  
+| bip_39_word_no_space_3 | silentdesertreceive |  
+| bip_39_word_no_space_4 | silentdesertreceivereopen |  
+| bip_39_word_no_space_5 | silentdesertreceivereopenembrace |  
+| bip_39_word_no_space_6 | silentdesertreceivereopenembraceitem |  
+| bip_39_word_no_space_7 | silentdesertreceivereopenembraceitemalone |  
+| bip_39_word_no_space_8 | silentdesertreceivereopenembraceitemalonedemand |  
+| bip_39_word_no_space_9 | silentdesertreceivereopenembraceitemalonedemandswamp |  
 | bip_39_word_space_0 | ['silent', 'desert', 'receive', 'reopen', 'embrace', 'item', 'alone', 'demand', 'swamp', 'any', 'couch', 'affair'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent desert receive reopen embrace item alone demand swamp any |  

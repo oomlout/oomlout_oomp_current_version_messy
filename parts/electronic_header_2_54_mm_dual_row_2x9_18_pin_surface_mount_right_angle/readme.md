@@ -122,6 +122,18 @@ mistake
 embody
 main
 float |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joinhoodnowcampsciencemistakeembodymainfloatbulk |  
+| bip_39_word_no_space_11 | joinhoodnowcampsciencemistakeembodymainfloatbulkcustom |  
+| bip_39_word_no_space_12 | joinhoodnowcampsciencemistakeembodymainfloatbulkcustomacquire |  
+| bip_39_word_no_space_2 | joinhood |  
+| bip_39_word_no_space_3 | joinhoodnow |  
+| bip_39_word_no_space_4 | joinhoodnowcamp |  
+| bip_39_word_no_space_5 | joinhoodnowcampscience |  
+| bip_39_word_no_space_6 | joinhoodnowcampsciencemistake |  
+| bip_39_word_no_space_7 | joinhoodnowcampsciencemistakeembody |  
+| bip_39_word_no_space_8 | joinhoodnowcampsciencemistakeembodymain |  
+| bip_39_word_no_space_9 | joinhoodnowcampsciencemistakeembodymainfloat |  
 | bip_39_word_space_0 | ['join', 'hood', 'now', 'camp', 'science', 'mistake', 'embody', 'main', 'float', 'bulk', 'custom', 'acquire'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join hood now camp science mistake embody main float bulk |  

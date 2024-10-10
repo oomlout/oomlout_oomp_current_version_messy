@@ -122,6 +122,18 @@ priority
 unlock
 excuse
 parrot |  
+| bip_39_word_no_space_1 | thumb |  
+| bip_39_word_no_space_10 | thumbteamcontrolonlysensepriorityunlockexcuseparrotsuch |  
+| bip_39_word_no_space_11 | thumbteamcontrolonlysensepriorityunlockexcuseparrotsuchclog |  
+| bip_39_word_no_space_12 | thumbteamcontrolonlysensepriorityunlockexcuseparrotsuchclogarmor |  
+| bip_39_word_no_space_2 | thumbteam |  
+| bip_39_word_no_space_3 | thumbteamcontrol |  
+| bip_39_word_no_space_4 | thumbteamcontrolonly |  
+| bip_39_word_no_space_5 | thumbteamcontrolonlysense |  
+| bip_39_word_no_space_6 | thumbteamcontrolonlysensepriority |  
+| bip_39_word_no_space_7 | thumbteamcontrolonlysensepriorityunlock |  
+| bip_39_word_no_space_8 | thumbteamcontrolonlysensepriorityunlockexcuse |  
+| bip_39_word_no_space_9 | thumbteamcontrolonlysensepriorityunlockexcuseparrot |  
 | bip_39_word_space_0 | ['thumb', 'team', 'control', 'only', 'sense', 'priority', 'unlock', 'excuse', 'parrot', 'such', 'clog', 'armor'] |  
 | bip_39_word_space_1 | thumb |  
 | bip_39_word_space_10 | thumb team control only sense priority unlock excuse parrot such |  

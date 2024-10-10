@@ -122,6 +122,18 @@ pulp
 slight
 blue
 town |  
+| bip_39_word_no_space_1 | hurt |  
+| bip_39_word_no_space_10 | hurtriflebidblindlongpulpslightbluetownrenew |  
+| bip_39_word_no_space_11 | hurtriflebidblindlongpulpslightbluetownrenewsword |  
+| bip_39_word_no_space_12 | hurtriflebidblindlongpulpslightbluetownrenewswordachieve |  
+| bip_39_word_no_space_2 | hurtrifle |  
+| bip_39_word_no_space_3 | hurtriflebid |  
+| bip_39_word_no_space_4 | hurtriflebidblind |  
+| bip_39_word_no_space_5 | hurtriflebidblindlong |  
+| bip_39_word_no_space_6 | hurtriflebidblindlongpulp |  
+| bip_39_word_no_space_7 | hurtriflebidblindlongpulpslight |  
+| bip_39_word_no_space_8 | hurtriflebidblindlongpulpslightblue |  
+| bip_39_word_no_space_9 | hurtriflebidblindlongpulpslightbluetown |  
 | bip_39_word_space_0 | ['hurt', 'rifle', 'bid', 'blind', 'long', 'pulp', 'slight', 'blue', 'town', 'renew', 'sword', 'achieve'] |  
 | bip_39_word_space_1 | hurt |  
 | bip_39_word_space_10 | hurt rifle bid blind long pulp slight blue town renew |  

@@ -122,6 +122,18 @@ danger
 afraid
 carpet
 wage |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlinediscovermaskhiddenquestiondangerafraidcarpetwagevisa |  
+| bip_39_word_no_space_11 | onlinediscovermaskhiddenquestiondangerafraidcarpetwagevisaignore |  
+| bip_39_word_no_space_12 | onlinediscovermaskhiddenquestiondangerafraidcarpetwagevisaignorearmor |  
+| bip_39_word_no_space_2 | onlinediscover |  
+| bip_39_word_no_space_3 | onlinediscovermask |  
+| bip_39_word_no_space_4 | onlinediscovermaskhidden |  
+| bip_39_word_no_space_5 | onlinediscovermaskhiddenquestion |  
+| bip_39_word_no_space_6 | onlinediscovermaskhiddenquestiondanger |  
+| bip_39_word_no_space_7 | onlinediscovermaskhiddenquestiondangerafraid |  
+| bip_39_word_no_space_8 | onlinediscovermaskhiddenquestiondangerafraidcarpet |  
+| bip_39_word_no_space_9 | onlinediscovermaskhiddenquestiondangerafraidcarpetwage |  
 | bip_39_word_space_0 | ['online', 'discover', 'mask', 'hidden', 'question', 'danger', 'afraid', 'carpet', 'wage', 'visa', 'ignore', 'armor'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online discover mask hidden question danger afraid carpet wage visa |  

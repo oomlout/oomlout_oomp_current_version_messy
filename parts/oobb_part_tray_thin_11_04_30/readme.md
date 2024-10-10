@@ -122,6 +122,18 @@ model
 sting
 credit
 want |  
+| bip_39_word_no_space_1 | alarm |  
+| bip_39_word_no_space_10 | alarmmirrorconductplasticpaddlemodelstingcreditwantdumb |  
+| bip_39_word_no_space_11 | alarmmirrorconductplasticpaddlemodelstingcreditwantdumbcome |  
+| bip_39_word_no_space_12 | alarmmirrorconductplasticpaddlemodelstingcreditwantdumbcomeaddict |  
+| bip_39_word_no_space_2 | alarmmirror |  
+| bip_39_word_no_space_3 | alarmmirrorconduct |  
+| bip_39_word_no_space_4 | alarmmirrorconductplastic |  
+| bip_39_word_no_space_5 | alarmmirrorconductplasticpaddle |  
+| bip_39_word_no_space_6 | alarmmirrorconductplasticpaddlemodel |  
+| bip_39_word_no_space_7 | alarmmirrorconductplasticpaddlemodelsting |  
+| bip_39_word_no_space_8 | alarmmirrorconductplasticpaddlemodelstingcredit |  
+| bip_39_word_no_space_9 | alarmmirrorconductplasticpaddlemodelstingcreditwant |  
 | bip_39_word_space_0 | ['alarm', 'mirror', 'conduct', 'plastic', 'paddle', 'model', 'sting', 'credit', 'want', 'dumb', 'come', 'addict'] |  
 | bip_39_word_space_1 | alarm |  
 | bip_39_word_space_10 | alarm mirror conduct plastic paddle model sting credit want dumb |  

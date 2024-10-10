@@ -122,6 +122,18 @@ avocado
 tell
 slogan
 dutch |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrosslotteryessaydeliverscrapavocadotellslogandutchquote |  
+| bip_39_word_no_space_11 | acrosslotteryessaydeliverscrapavocadotellslogandutchquoterelease |  
+| bip_39_word_no_space_12 | acrosslotteryessaydeliverscrapavocadotellslogandutchquotereleaseatom |  
+| bip_39_word_no_space_2 | acrosslottery |  
+| bip_39_word_no_space_3 | acrosslotteryessay |  
+| bip_39_word_no_space_4 | acrosslotteryessaydeliver |  
+| bip_39_word_no_space_5 | acrosslotteryessaydeliverscrap |  
+| bip_39_word_no_space_6 | acrosslotteryessaydeliverscrapavocado |  
+| bip_39_word_no_space_7 | acrosslotteryessaydeliverscrapavocadotell |  
+| bip_39_word_no_space_8 | acrosslotteryessaydeliverscrapavocadotellslogan |  
+| bip_39_word_no_space_9 | acrosslotteryessaydeliverscrapavocadotellslogandutch |  
 | bip_39_word_space_0 | ['across', 'lottery', 'essay', 'deliver', 'scrap', 'avocado', 'tell', 'slogan', 'dutch', 'quote', 'release', 'atom'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across lottery essay deliver scrap avocado tell slogan dutch quote |  

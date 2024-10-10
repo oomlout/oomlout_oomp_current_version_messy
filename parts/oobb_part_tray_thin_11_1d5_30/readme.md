@@ -122,6 +122,18 @@ hello
 abuse
 roast
 hawk |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flamefosterthatdressinformhelloabuseroasthawkbadge |  
+| bip_39_word_no_space_11 | flamefosterthatdressinformhelloabuseroasthawkbadgesurround |  
+| bip_39_word_no_space_12 | flamefosterthatdressinformhelloabuseroasthawkbadgesurroundaround |  
+| bip_39_word_no_space_2 | flamefoster |  
+| bip_39_word_no_space_3 | flamefosterthat |  
+| bip_39_word_no_space_4 | flamefosterthatdress |  
+| bip_39_word_no_space_5 | flamefosterthatdressinform |  
+| bip_39_word_no_space_6 | flamefosterthatdressinformhello |  
+| bip_39_word_no_space_7 | flamefosterthatdressinformhelloabuse |  
+| bip_39_word_no_space_8 | flamefosterthatdressinformhelloabuseroast |  
+| bip_39_word_no_space_9 | flamefosterthatdressinformhelloabuseroasthawk |  
 | bip_39_word_space_0 | ['flame', 'foster', 'that', 'dress', 'inform', 'hello', 'abuse', 'roast', 'hawk', 'badge', 'surround', 'around'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame foster that dress inform hello abuse roast hawk badge |  

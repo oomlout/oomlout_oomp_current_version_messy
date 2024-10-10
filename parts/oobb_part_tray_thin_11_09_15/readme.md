@@ -122,6 +122,18 @@ random
 also
 core
 sign |  
+| bip_39_word_no_space_1 | satisfy |  
+| bip_39_word_no_space_10 | satisfyneglectenacttwincuberandomalsocoresignyouth |  
+| bip_39_word_no_space_11 | satisfyneglectenacttwincuberandomalsocoresignyouthevidence |  
+| bip_39_word_no_space_12 | satisfyneglectenacttwincuberandomalsocoresignyouthevidenceaim |  
+| bip_39_word_no_space_2 | satisfyneglect |  
+| bip_39_word_no_space_3 | satisfyneglectenact |  
+| bip_39_word_no_space_4 | satisfyneglectenacttwin |  
+| bip_39_word_no_space_5 | satisfyneglectenacttwincube |  
+| bip_39_word_no_space_6 | satisfyneglectenacttwincuberandom |  
+| bip_39_word_no_space_7 | satisfyneglectenacttwincuberandomalso |  
+| bip_39_word_no_space_8 | satisfyneglectenacttwincuberandomalsocore |  
+| bip_39_word_no_space_9 | satisfyneglectenacttwincuberandomalsocoresign |  
 | bip_39_word_space_0 | ['satisfy', 'neglect', 'enact', 'twin', 'cube', 'random', 'also', 'core', 'sign', 'youth', 'evidence', 'aim'] |  
 | bip_39_word_space_1 | satisfy |  
 | bip_39_word_space_10 | satisfy neglect enact twin cube random also core sign youth |  

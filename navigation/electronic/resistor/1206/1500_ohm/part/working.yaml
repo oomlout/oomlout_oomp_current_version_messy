@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'riot
   sunset
 
   sample'
+bip_39_word_no_space_1: riot
+bip_39_word_no_space_10: riotboylakerareflockfuturefruitsunsetsampleliquid
+bip_39_word_no_space_11: riotboylakerareflockfuturefruitsunsetsampleliquidbone
+bip_39_word_no_space_12: riotboylakerareflockfuturefruitsunsetsampleliquidboneabsorb
+bip_39_word_no_space_2: riotboy
+bip_39_word_no_space_3: riotboylake
+bip_39_word_no_space_4: riotboylakerare
+bip_39_word_no_space_5: riotboylakerareflock
+bip_39_word_no_space_6: riotboylakerareflockfuture
+bip_39_word_no_space_7: riotboylakerareflockfuturefruit
+bip_39_word_no_space_8: riotboylakerareflockfuturefruitsunset
+bip_39_word_no_space_9: riotboylakerareflockfuturefruitsunsetsample
 bip_39_word_space_0:
 - riot
 - boy

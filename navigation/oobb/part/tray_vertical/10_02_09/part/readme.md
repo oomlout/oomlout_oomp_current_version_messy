@@ -122,6 +122,18 @@ raccoon
 camp
 aspect
 stadium |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | guninmatefoamhedgehogcoastraccooncampaspectstadiumrival |  
+| bip_39_word_no_space_11 | guninmatefoamhedgehogcoastraccooncampaspectstadiumrivallibrary |  
+| bip_39_word_no_space_12 | guninmatefoamhedgehogcoastraccooncampaspectstadiumrivallibraryaccuse |  
+| bip_39_word_no_space_2 | guninmate |  
+| bip_39_word_no_space_3 | guninmatefoam |  
+| bip_39_word_no_space_4 | guninmatefoamhedgehog |  
+| bip_39_word_no_space_5 | guninmatefoamhedgehogcoast |  
+| bip_39_word_no_space_6 | guninmatefoamhedgehogcoastraccoon |  
+| bip_39_word_no_space_7 | guninmatefoamhedgehogcoastraccooncamp |  
+| bip_39_word_no_space_8 | guninmatefoamhedgehogcoastraccooncampaspect |  
+| bip_39_word_no_space_9 | guninmatefoamhedgehogcoastraccooncampaspectstadium |  
 | bip_39_word_space_0 | ['gun', 'inmate', 'foam', 'hedgehog', 'coast', 'raccoon', 'camp', 'aspect', 'stadium', 'rival', 'library', 'accuse'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun inmate foam hedgehog coast raccoon camp aspect stadium rival |  

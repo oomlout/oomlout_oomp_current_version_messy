@@ -122,6 +122,18 @@ save
 neutral
 notice
 rocket |  
+| bip_39_word_no_space_1 | faith |  
+| bip_39_word_no_space_10 | faithoilrebuildbalconyslendersaveneutralnoticerocketcitizen |  
+| bip_39_word_no_space_11 | faithoilrebuildbalconyslendersaveneutralnoticerocketcitizenretreat |  
+| bip_39_word_no_space_12 | faithoilrebuildbalconyslendersaveneutralnoticerocketcitizenretreatalarm |  
+| bip_39_word_no_space_2 | faithoil |  
+| bip_39_word_no_space_3 | faithoilrebuild |  
+| bip_39_word_no_space_4 | faithoilrebuildbalcony |  
+| bip_39_word_no_space_5 | faithoilrebuildbalconyslender |  
+| bip_39_word_no_space_6 | faithoilrebuildbalconyslendersave |  
+| bip_39_word_no_space_7 | faithoilrebuildbalconyslendersaveneutral |  
+| bip_39_word_no_space_8 | faithoilrebuildbalconyslendersaveneutralnotice |  
+| bip_39_word_no_space_9 | faithoilrebuildbalconyslendersaveneutralnoticerocket |  
 | bip_39_word_space_0 | ['faith', 'oil', 'rebuild', 'balcony', 'slender', 'save', 'neutral', 'notice', 'rocket', 'citizen', 'retreat', 'alarm'] |  
 | bip_39_word_space_1 | faith |  
 | bip_39_word_space_10 | faith oil rebuild balcony slender save neutral notice rocket citizen |  

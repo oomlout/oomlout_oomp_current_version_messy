@@ -122,6 +122,18 @@ since
 era
 hint
 siege |  
+| bip_39_word_no_space_1 | number |  
+| bip_39_word_no_space_10 | numbercoretoothsavelistsinceerahintsiegeconduct |  
+| bip_39_word_no_space_11 | numbercoretoothsavelistsinceerahintsiegeconductplug |  
+| bip_39_word_no_space_12 | numbercoretoothsavelistsinceerahintsiegeconductplugaspect |  
+| bip_39_word_no_space_2 | numbercore |  
+| bip_39_word_no_space_3 | numbercoretooth |  
+| bip_39_word_no_space_4 | numbercoretoothsave |  
+| bip_39_word_no_space_5 | numbercoretoothsavelist |  
+| bip_39_word_no_space_6 | numbercoretoothsavelistsince |  
+| bip_39_word_no_space_7 | numbercoretoothsavelistsinceera |  
+| bip_39_word_no_space_8 | numbercoretoothsavelistsinceerahint |  
+| bip_39_word_no_space_9 | numbercoretoothsavelistsinceerahintsiege |  
 | bip_39_word_space_0 | ['number', 'core', 'tooth', 'save', 'list', 'since', 'era', 'hint', 'siege', 'conduct', 'plug', 'aspect'] |  
 | bip_39_word_space_1 | number |  
 | bip_39_word_space_10 | number core tooth save list since era hint siege conduct |  

@@ -122,6 +122,18 @@ whisper
 inside
 sentence
 apart |  
+| bip_39_word_no_space_1 | ghost |  
+| bip_39_word_no_space_10 | ghostdecadetorchspringtoiletwhisperinsidesentenceapartsecond |  
+| bip_39_word_no_space_11 | ghostdecadetorchspringtoiletwhisperinsidesentenceapartsecondgrief |  
+| bip_39_word_no_space_12 | ghostdecadetorchspringtoiletwhisperinsidesentenceapartsecondgriefassist |  
+| bip_39_word_no_space_2 | ghostdecade |  
+| bip_39_word_no_space_3 | ghostdecadetorch |  
+| bip_39_word_no_space_4 | ghostdecadetorchspring |  
+| bip_39_word_no_space_5 | ghostdecadetorchspringtoilet |  
+| bip_39_word_no_space_6 | ghostdecadetorchspringtoiletwhisper |  
+| bip_39_word_no_space_7 | ghostdecadetorchspringtoiletwhisperinside |  
+| bip_39_word_no_space_8 | ghostdecadetorchspringtoiletwhisperinsidesentence |  
+| bip_39_word_no_space_9 | ghostdecadetorchspringtoiletwhisperinsidesentenceapart |  
 | bip_39_word_space_0 | ['ghost', 'decade', 'torch', 'spring', 'toilet', 'whisper', 'inside', 'sentence', 'apart', 'second', 'grief', 'assist'] |  
 | bip_39_word_space_1 | ghost |  
 | bip_39_word_space_10 | ghost decade torch spring toilet whisper inside sentence apart second |  

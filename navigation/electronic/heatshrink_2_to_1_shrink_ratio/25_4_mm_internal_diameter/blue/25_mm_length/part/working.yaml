@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'radar
   chronic
 
   isolate'
+bip_39_word_no_space_1: radar
+bip_39_word_no_space_10: radarequipunitbirdshrimpgunstrugglechronicisolatedemise
+bip_39_word_no_space_11: radarequipunitbirdshrimpgunstrugglechronicisolatedemisefederal
+bip_39_word_no_space_12: radarequipunitbirdshrimpgunstrugglechronicisolatedemisefederalassume
+bip_39_word_no_space_2: radarequip
+bip_39_word_no_space_3: radarequipunit
+bip_39_word_no_space_4: radarequipunitbird
+bip_39_word_no_space_5: radarequipunitbirdshrimp
+bip_39_word_no_space_6: radarequipunitbirdshrimpgun
+bip_39_word_no_space_7: radarequipunitbirdshrimpgunstruggle
+bip_39_word_no_space_8: radarequipunitbirdshrimpgunstrugglechronic
+bip_39_word_no_space_9: radarequipunitbirdshrimpgunstrugglechronicisolate
 bip_39_word_space_0:
 - radar
 - equip

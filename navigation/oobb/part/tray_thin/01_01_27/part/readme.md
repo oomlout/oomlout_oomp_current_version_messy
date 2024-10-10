@@ -122,6 +122,18 @@ thunder
 biology
 heavy
 plunge |  
+| bip_39_word_no_space_1 | glad |  
+| bip_39_word_no_space_10 | gladpuddingwantproudlibertythunderbiologyheavyplungepepper |  
+| bip_39_word_no_space_11 | gladpuddingwantproudlibertythunderbiologyheavyplungepepperneither |  
+| bip_39_word_no_space_12 | gladpuddingwantproudlibertythunderbiologyheavyplungepepperneitherairport |  
+| bip_39_word_no_space_2 | gladpudding |  
+| bip_39_word_no_space_3 | gladpuddingwant |  
+| bip_39_word_no_space_4 | gladpuddingwantproud |  
+| bip_39_word_no_space_5 | gladpuddingwantproudliberty |  
+| bip_39_word_no_space_6 | gladpuddingwantproudlibertythunder |  
+| bip_39_word_no_space_7 | gladpuddingwantproudlibertythunderbiology |  
+| bip_39_word_no_space_8 | gladpuddingwantproudlibertythunderbiologyheavy |  
+| bip_39_word_no_space_9 | gladpuddingwantproudlibertythunderbiologyheavyplunge |  
 | bip_39_word_space_0 | ['glad', 'pudding', 'want', 'proud', 'liberty', 'thunder', 'biology', 'heavy', 'plunge', 'pepper', 'neither', 'airport'] |  
 | bip_39_word_space_1 | glad |  
 | bip_39_word_space_10 | glad pudding want proud liberty thunder biology heavy plunge pepper |  

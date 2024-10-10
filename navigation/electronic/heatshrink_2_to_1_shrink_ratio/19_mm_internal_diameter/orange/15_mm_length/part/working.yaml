@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'local
   fish
 
   rich'
+bip_39_word_no_space_1: local
+bip_39_word_no_space_10: localangleblossomcivilsayauthorerafishrichissue
+bip_39_word_no_space_11: localangleblossomcivilsayauthorerafishrichissuetape
+bip_39_word_no_space_12: localangleblossomcivilsayauthorerafishrichissuetapeassist
+bip_39_word_no_space_2: localangle
+bip_39_word_no_space_3: localangleblossom
+bip_39_word_no_space_4: localangleblossomcivil
+bip_39_word_no_space_5: localangleblossomcivilsay
+bip_39_word_no_space_6: localangleblossomcivilsayauthor
+bip_39_word_no_space_7: localangleblossomcivilsayauthorera
+bip_39_word_no_space_8: localangleblossomcivilsayauthorerafish
+bip_39_word_no_space_9: localangleblossomcivilsayauthorerafishrich
 bip_39_word_space_0:
 - local
 - angle

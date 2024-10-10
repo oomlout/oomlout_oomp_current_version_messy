@@ -122,6 +122,18 @@ twelve
 canoe
 address
 chunk |  
+| bip_39_word_no_space_1 | key |  
+| bip_39_word_no_space_10 | keyrecipeenlistsuspecthealthtwelvecanoeaddresschunkfarm |  
+| bip_39_word_no_space_11 | keyrecipeenlistsuspecthealthtwelvecanoeaddresschunkfarmburger |  
+| bip_39_word_no_space_12 | keyrecipeenlistsuspecthealthtwelvecanoeaddresschunkfarmburgeraccount |  
+| bip_39_word_no_space_2 | keyrecipe |  
+| bip_39_word_no_space_3 | keyrecipeenlist |  
+| bip_39_word_no_space_4 | keyrecipeenlistsuspect |  
+| bip_39_word_no_space_5 | keyrecipeenlistsuspecthealth |  
+| bip_39_word_no_space_6 | keyrecipeenlistsuspecthealthtwelve |  
+| bip_39_word_no_space_7 | keyrecipeenlistsuspecthealthtwelvecanoe |  
+| bip_39_word_no_space_8 | keyrecipeenlistsuspecthealthtwelvecanoeaddress |  
+| bip_39_word_no_space_9 | keyrecipeenlistsuspecthealthtwelvecanoeaddresschunk |  
 | bip_39_word_space_0 | ['key', 'recipe', 'enlist', 'suspect', 'health', 'twelve', 'canoe', 'address', 'chunk', 'farm', 'burger', 'account'] |  
 | bip_39_word_space_1 | key |  
 | bip_39_word_space_10 | key recipe enlist suspect health twelve canoe address chunk farm |  

@@ -122,6 +122,18 @@ latin
 credit
 eager
 method |  
+| bip_39_word_no_space_1 | exchange |  
+| bip_39_word_no_space_10 | exchangeordinarypicnicsecretborderlatincrediteagermethodpulp |  
+| bip_39_word_no_space_11 | exchangeordinarypicnicsecretborderlatincrediteagermethodpulpmemory |  
+| bip_39_word_no_space_12 | exchangeordinarypicnicsecretborderlatincrediteagermethodpulpmemoryagree |  
+| bip_39_word_no_space_2 | exchangeordinary |  
+| bip_39_word_no_space_3 | exchangeordinarypicnic |  
+| bip_39_word_no_space_4 | exchangeordinarypicnicsecret |  
+| bip_39_word_no_space_5 | exchangeordinarypicnicsecretborder |  
+| bip_39_word_no_space_6 | exchangeordinarypicnicsecretborderlatin |  
+| bip_39_word_no_space_7 | exchangeordinarypicnicsecretborderlatincredit |  
+| bip_39_word_no_space_8 | exchangeordinarypicnicsecretborderlatincrediteager |  
+| bip_39_word_no_space_9 | exchangeordinarypicnicsecretborderlatincrediteagermethod |  
 | bip_39_word_space_0 | ['exchange', 'ordinary', 'picnic', 'secret', 'border', 'latin', 'credit', 'eager', 'method', 'pulp', 'memory', 'agree'] |  
 | bip_39_word_space_1 | exchange |  
 | bip_39_word_space_10 | exchange ordinary picnic secret border latin credit eager method pulp |  

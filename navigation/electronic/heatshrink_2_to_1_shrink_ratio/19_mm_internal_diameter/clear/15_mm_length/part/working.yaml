@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cup
   noise
 
   rotate'
+bip_39_word_no_space_1: cup
+bip_39_word_no_space_10: cupfossilhappyslowfunvisitdaynoiserotatearmy
+bip_39_word_no_space_11: cupfossilhappyslowfunvisitdaynoiserotatearmytoday
+bip_39_word_no_space_12: cupfossilhappyslowfunvisitdaynoiserotatearmytodayabstract
+bip_39_word_no_space_2: cupfossil
+bip_39_word_no_space_3: cupfossilhappy
+bip_39_word_no_space_4: cupfossilhappyslow
+bip_39_word_no_space_5: cupfossilhappyslowfun
+bip_39_word_no_space_6: cupfossilhappyslowfunvisit
+bip_39_word_no_space_7: cupfossilhappyslowfunvisitday
+bip_39_word_no_space_8: cupfossilhappyslowfunvisitdaynoise
+bip_39_word_no_space_9: cupfossilhappyslowfunvisitdaynoiserotate
 bip_39_word_space_0:
 - cup
 - fossil

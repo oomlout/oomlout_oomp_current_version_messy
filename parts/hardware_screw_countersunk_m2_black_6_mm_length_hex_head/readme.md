@@ -122,6 +122,18 @@ tomorrow
 act
 chapter
 hen |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guiltassetlaundrystagetiptomorrowactchapterhendraw |  
+| bip_39_word_no_space_11 | guiltassetlaundrystagetiptomorrowactchapterhendrawflee |  
+| bip_39_word_no_space_12 | guiltassetlaundrystagetiptomorrowactchapterhendrawfleeapril |  
+| bip_39_word_no_space_2 | guiltasset |  
+| bip_39_word_no_space_3 | guiltassetlaundry |  
+| bip_39_word_no_space_4 | guiltassetlaundrystage |  
+| bip_39_word_no_space_5 | guiltassetlaundrystagetip |  
+| bip_39_word_no_space_6 | guiltassetlaundrystagetiptomorrow |  
+| bip_39_word_no_space_7 | guiltassetlaundrystagetiptomorrowact |  
+| bip_39_word_no_space_8 | guiltassetlaundrystagetiptomorrowactchapter |  
+| bip_39_word_no_space_9 | guiltassetlaundrystagetiptomorrowactchapterhen |  
 | bip_39_word_space_0 | ['guilt', 'asset', 'laundry', 'stage', 'tip', 'tomorrow', 'act', 'chapter', 'hen', 'draw', 'flee', 'april'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt asset laundry stage tip tomorrow act chapter hen draw |  

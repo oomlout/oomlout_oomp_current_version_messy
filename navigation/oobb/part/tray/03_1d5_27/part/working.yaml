@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wasp
   cover
 
   smooth'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspsniffbuyerrememberslowvividclogcoversmoothokay
+bip_39_word_no_space_11: waspsniffbuyerrememberslowvividclogcoversmoothokayrich
+bip_39_word_no_space_12: waspsniffbuyerrememberslowvividclogcoversmoothokayrichaerobic
+bip_39_word_no_space_2: waspsniff
+bip_39_word_no_space_3: waspsniffbuyer
+bip_39_word_no_space_4: waspsniffbuyerremember
+bip_39_word_no_space_5: waspsniffbuyerrememberslow
+bip_39_word_no_space_6: waspsniffbuyerrememberslowvivid
+bip_39_word_no_space_7: waspsniffbuyerrememberslowvividclog
+bip_39_word_no_space_8: waspsniffbuyerrememberslowvividclogcover
+bip_39_word_no_space_9: waspsniffbuyerrememberslowvividclogcoversmooth
 bip_39_word_space_0:
 - wasp
 - sniff

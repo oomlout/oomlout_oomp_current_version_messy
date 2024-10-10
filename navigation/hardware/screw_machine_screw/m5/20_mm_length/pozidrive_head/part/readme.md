@@ -122,6 +122,18 @@ hair
 venture
 day
 mountain |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidayfemalefunnysciencefallhairventuredaymountaindamage |  
+| bip_39_word_no_space_11 | holidayfemalefunnysciencefallhairventuredaymountaindamagecrisp |  
+| bip_39_word_no_space_12 | holidayfemalefunnysciencefallhairventuredaymountaindamagecrispabsent |  
+| bip_39_word_no_space_2 | holidayfemale |  
+| bip_39_word_no_space_3 | holidayfemalefunny |  
+| bip_39_word_no_space_4 | holidayfemalefunnyscience |  
+| bip_39_word_no_space_5 | holidayfemalefunnysciencefall |  
+| bip_39_word_no_space_6 | holidayfemalefunnysciencefallhair |  
+| bip_39_word_no_space_7 | holidayfemalefunnysciencefallhairventure |  
+| bip_39_word_no_space_8 | holidayfemalefunnysciencefallhairventureday |  
+| bip_39_word_no_space_9 | holidayfemalefunnysciencefallhairventuredaymountain |  
 | bip_39_word_space_0 | ['holiday', 'female', 'funny', 'science', 'fall', 'hair', 'venture', 'day', 'mountain', 'damage', 'crisp', 'absent'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday female funny science fall hair venture day mountain damage |  

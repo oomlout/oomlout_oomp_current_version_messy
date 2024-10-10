@@ -122,6 +122,18 @@ olympic
 crouch
 pride
 light |  
+| bip_39_word_no_space_1 | winner |  
+| bip_39_word_no_space_10 | winnerstudentswitchreformeggolympiccrouchpridelightright |  
+| bip_39_word_no_space_11 | winnerstudentswitchreformeggolympiccrouchpridelightrightpresent |  
+| bip_39_word_no_space_12 | winnerstudentswitchreformeggolympiccrouchpridelightrightpresentactual |  
+| bip_39_word_no_space_2 | winnerstudent |  
+| bip_39_word_no_space_3 | winnerstudentswitch |  
+| bip_39_word_no_space_4 | winnerstudentswitchreform |  
+| bip_39_word_no_space_5 | winnerstudentswitchreformegg |  
+| bip_39_word_no_space_6 | winnerstudentswitchreformeggolympic |  
+| bip_39_word_no_space_7 | winnerstudentswitchreformeggolympiccrouch |  
+| bip_39_word_no_space_8 | winnerstudentswitchreformeggolympiccrouchpride |  
+| bip_39_word_no_space_9 | winnerstudentswitchreformeggolympiccrouchpridelight |  
 | bip_39_word_space_0 | ['winner', 'student', 'switch', 'reform', 'egg', 'olympic', 'crouch', 'pride', 'light', 'right', 'present', 'actual'] |  
 | bip_39_word_space_1 | winner |  
 | bip_39_word_space_10 | winner student switch reform egg olympic crouch pride light right |  

@@ -122,6 +122,18 @@ floor
 profit
 access
 cabin |  
+| bip_39_word_no_space_1 | banana |  
+| bip_39_word_no_space_10 | bananaderiveenrolldieselsweetfloorprofitaccesscabinelectric |  
+| bip_39_word_no_space_11 | bananaderiveenrolldieselsweetfloorprofitaccesscabinelectriclive |  
+| bip_39_word_no_space_12 | bananaderiveenrolldieselsweetfloorprofitaccesscabinelectriclivearm |  
+| bip_39_word_no_space_2 | bananaderive |  
+| bip_39_word_no_space_3 | bananaderiveenroll |  
+| bip_39_word_no_space_4 | bananaderiveenrolldiesel |  
+| bip_39_word_no_space_5 | bananaderiveenrolldieselsweet |  
+| bip_39_word_no_space_6 | bananaderiveenrolldieselsweetfloor |  
+| bip_39_word_no_space_7 | bananaderiveenrolldieselsweetfloorprofit |  
+| bip_39_word_no_space_8 | bananaderiveenrolldieselsweetfloorprofitaccess |  
+| bip_39_word_no_space_9 | bananaderiveenrolldieselsweetfloorprofitaccesscabin |  
 | bip_39_word_space_0 | ['banana', 'derive', 'enroll', 'diesel', 'sweet', 'floor', 'profit', 'access', 'cabin', 'electric', 'live', 'arm'] |  
 | bip_39_word_space_1 | banana |  
 | bip_39_word_space_10 | banana derive enroll diesel sweet floor profit access cabin electric |  

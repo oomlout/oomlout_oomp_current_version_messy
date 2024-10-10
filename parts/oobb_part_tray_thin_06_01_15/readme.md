@@ -122,6 +122,18 @@ plunge
 iron
 win
 tide |  
+| bip_39_word_no_space_1 | client |  
+| bip_39_word_no_space_10 | clientswordvisitdescribekickplungeironwintidevisit |  
+| bip_39_word_no_space_11 | clientswordvisitdescribekickplungeironwintidevisitrigid |  
+| bip_39_word_no_space_12 | clientswordvisitdescribekickplungeironwintidevisitrigidanimal |  
+| bip_39_word_no_space_2 | clientsword |  
+| bip_39_word_no_space_3 | clientswordvisit |  
+| bip_39_word_no_space_4 | clientswordvisitdescribe |  
+| bip_39_word_no_space_5 | clientswordvisitdescribekick |  
+| bip_39_word_no_space_6 | clientswordvisitdescribekickplunge |  
+| bip_39_word_no_space_7 | clientswordvisitdescribekickplungeiron |  
+| bip_39_word_no_space_8 | clientswordvisitdescribekickplungeironwin |  
+| bip_39_word_no_space_9 | clientswordvisitdescribekickplungeironwintide |  
 | bip_39_word_space_0 | ['client', 'sword', 'visit', 'describe', 'kick', 'plunge', 'iron', 'win', 'tide', 'visit', 'rigid', 'animal'] |  
 | bip_39_word_space_1 | client |  
 | bip_39_word_space_10 | client sword visit describe kick plunge iron win tide visit |  

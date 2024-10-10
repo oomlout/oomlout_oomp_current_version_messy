@@ -122,6 +122,18 @@ author
 receive
 hammer
 pencil |  
+| bip_39_word_no_space_1 | scorpion |  
+| bip_39_word_no_space_10 | scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecute |  
+| bip_39_word_no_space_11 | scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecutedraw |  
+| bip_39_word_no_space_12 | scorpionmarriagearenaironconsiderauthorreceivehammerpencilexecutedrawassist |  
+| bip_39_word_no_space_2 | scorpionmarriage |  
+| bip_39_word_no_space_3 | scorpionmarriagearena |  
+| bip_39_word_no_space_4 | scorpionmarriagearenairon |  
+| bip_39_word_no_space_5 | scorpionmarriagearenaironconsider |  
+| bip_39_word_no_space_6 | scorpionmarriagearenaironconsiderauthor |  
+| bip_39_word_no_space_7 | scorpionmarriagearenaironconsiderauthorreceive |  
+| bip_39_word_no_space_8 | scorpionmarriagearenaironconsiderauthorreceivehammer |  
+| bip_39_word_no_space_9 | scorpionmarriagearenaironconsiderauthorreceivehammerpencil |  
 | bip_39_word_space_0 | ['scorpion', 'marriage', 'arena', 'iron', 'consider', 'author', 'receive', 'hammer', 'pencil', 'execute', 'draw', 'assist'] |  
 | bip_39_word_space_1 | scorpion |  
 | bip_39_word_space_10 | scorpion marriage arena iron consider author receive hammer pencil execute |  

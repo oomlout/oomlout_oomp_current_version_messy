@@ -122,6 +122,18 @@ glove
 spread
 yellow
 spawn |  
+| bip_39_word_no_space_1 | rocket |  
+| bip_39_word_no_space_10 | rocketshipladderrainranchglovespreadyellowspawnreopen |  
+| bip_39_word_no_space_11 | rocketshipladderrainranchglovespreadyellowspawnreopenquarter |  
+| bip_39_word_no_space_12 | rocketshipladderrainranchglovespreadyellowspawnreopenquarterattend |  
+| bip_39_word_no_space_2 | rocketship |  
+| bip_39_word_no_space_3 | rocketshipladder |  
+| bip_39_word_no_space_4 | rocketshipladderrain |  
+| bip_39_word_no_space_5 | rocketshipladderrainranch |  
+| bip_39_word_no_space_6 | rocketshipladderrainranchglove |  
+| bip_39_word_no_space_7 | rocketshipladderrainranchglovespread |  
+| bip_39_word_no_space_8 | rocketshipladderrainranchglovespreadyellow |  
+| bip_39_word_no_space_9 | rocketshipladderrainranchglovespreadyellowspawn |  
 | bip_39_word_space_0 | ['rocket', 'ship', 'ladder', 'rain', 'ranch', 'glove', 'spread', 'yellow', 'spawn', 'reopen', 'quarter', 'attend'] |  
 | bip_39_word_space_1 | rocket |  
 | bip_39_word_space_10 | rocket ship ladder rain ranch glove spread yellow spawn reopen |  

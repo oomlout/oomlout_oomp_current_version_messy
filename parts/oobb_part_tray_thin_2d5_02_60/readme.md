@@ -122,6 +122,18 @@ aisle
 angle
 soup
 corn |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aislelawnburstportioncartaisleanglesoupcornreduce |  
+| bip_39_word_no_space_11 | aislelawnburstportioncartaisleanglesoupcornreducebest |  
+| bip_39_word_no_space_12 | aislelawnburstportioncartaisleanglesoupcornreducebestalpha |  
+| bip_39_word_no_space_2 | aislelawn |  
+| bip_39_word_no_space_3 | aislelawnburst |  
+| bip_39_word_no_space_4 | aislelawnburstportion |  
+| bip_39_word_no_space_5 | aislelawnburstportioncart |  
+| bip_39_word_no_space_6 | aislelawnburstportioncartaisle |  
+| bip_39_word_no_space_7 | aislelawnburstportioncartaisleangle |  
+| bip_39_word_no_space_8 | aislelawnburstportioncartaisleanglesoup |  
+| bip_39_word_no_space_9 | aislelawnburstportioncartaisleanglesoupcorn |  
 | bip_39_word_space_0 | ['aisle', 'lawn', 'burst', 'portion', 'cart', 'aisle', 'angle', 'soup', 'corn', 'reduce', 'best', 'alpha'] |  
 | bip_39_word_space_1 | aisle |  
 | bip_39_word_space_10 | aisle lawn burst portion cart aisle angle soup corn reduce |  

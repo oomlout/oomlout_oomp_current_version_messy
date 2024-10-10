@@ -122,6 +122,18 @@ gold
 bike
 pelican
 cross |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radarenemyfloorfogleisuregoldbikepelicancrosscalm |  
+| bip_39_word_no_space_11 | radarenemyfloorfogleisuregoldbikepelicancrosscalmused |  
+| bip_39_word_no_space_12 | radarenemyfloorfogleisuregoldbikepelicancrosscalmusedaerobic |  
+| bip_39_word_no_space_2 | radarenemy |  
+| bip_39_word_no_space_3 | radarenemyfloor |  
+| bip_39_word_no_space_4 | radarenemyfloorfog |  
+| bip_39_word_no_space_5 | radarenemyfloorfogleisure |  
+| bip_39_word_no_space_6 | radarenemyfloorfogleisuregold |  
+| bip_39_word_no_space_7 | radarenemyfloorfogleisuregoldbike |  
+| bip_39_word_no_space_8 | radarenemyfloorfogleisuregoldbikepelican |  
+| bip_39_word_no_space_9 | radarenemyfloorfogleisuregoldbikepelicancross |  
 | bip_39_word_space_0 | ['radar', 'enemy', 'floor', 'fog', 'leisure', 'gold', 'bike', 'pelican', 'cross', 'calm', 'used', 'aerobic'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar enemy floor fog leisure gold bike pelican cross calm |  

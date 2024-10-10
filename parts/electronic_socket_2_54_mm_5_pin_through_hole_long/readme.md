@@ -122,6 +122,18 @@ bread
 tree
 dose
 edge |  
+| bip_39_word_no_space_1 | sausage |  
+| bip_39_word_no_space_10 | sausagebeanundofrostkeepbreadtreedoseedgeabsurd |  
+| bip_39_word_no_space_11 | sausagebeanundofrostkeepbreadtreedoseedgeabsurdrender |  
+| bip_39_word_no_space_12 | sausagebeanundofrostkeepbreadtreedoseedgeabsurdrenderasthma |  
+| bip_39_word_no_space_2 | sausagebean |  
+| bip_39_word_no_space_3 | sausagebeanundo |  
+| bip_39_word_no_space_4 | sausagebeanundofrost |  
+| bip_39_word_no_space_5 | sausagebeanundofrostkeep |  
+| bip_39_word_no_space_6 | sausagebeanundofrostkeepbread |  
+| bip_39_word_no_space_7 | sausagebeanundofrostkeepbreadtree |  
+| bip_39_word_no_space_8 | sausagebeanundofrostkeepbreadtreedose |  
+| bip_39_word_no_space_9 | sausagebeanundofrostkeepbreadtreedoseedge |  
 | bip_39_word_space_0 | ['sausage', 'bean', 'undo', 'frost', 'keep', 'bread', 'tree', 'dose', 'edge', 'absurd', 'render', 'asthma'] |  
 | bip_39_word_space_1 | sausage |  
 | bip_39_word_space_10 | sausage bean undo frost keep bread tree dose edge absurd |  

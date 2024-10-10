@@ -122,6 +122,18 @@ give
 upper
 vocal
 grief |  
+| bip_39_word_no_space_1 | rookie |  
+| bip_39_word_no_space_10 | rookietypicalzebralecturetenantgiveuppervocalgriefswim |  
+| bip_39_word_no_space_11 | rookietypicalzebralecturetenantgiveuppervocalgriefswimlanguage |  
+| bip_39_word_no_space_12 | rookietypicalzebralecturetenantgiveuppervocalgriefswimlanguageadvice |  
+| bip_39_word_no_space_2 | rookietypical |  
+| bip_39_word_no_space_3 | rookietypicalzebra |  
+| bip_39_word_no_space_4 | rookietypicalzebralecture |  
+| bip_39_word_no_space_5 | rookietypicalzebralecturetenant |  
+| bip_39_word_no_space_6 | rookietypicalzebralecturetenantgive |  
+| bip_39_word_no_space_7 | rookietypicalzebralecturetenantgiveupper |  
+| bip_39_word_no_space_8 | rookietypicalzebralecturetenantgiveuppervocal |  
+| bip_39_word_no_space_9 | rookietypicalzebralecturetenantgiveuppervocalgrief |  
 | bip_39_word_space_0 | ['rookie', 'typical', 'zebra', 'lecture', 'tenant', 'give', 'upper', 'vocal', 'grief', 'swim', 'language', 'advice'] |  
 | bip_39_word_space_1 | rookie |  
 | bip_39_word_space_10 | rookie typical zebra lecture tenant give upper vocal grief swim |  

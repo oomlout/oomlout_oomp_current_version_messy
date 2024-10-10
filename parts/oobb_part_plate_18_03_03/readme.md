@@ -122,6 +122,18 @@ balcony
 daring
 ball
 apology |  
+| bip_39_word_no_space_1 | eager |  
+| bip_39_word_no_space_10 | eagercropcopywolfscoutbalconydaringballapologysize |  
+| bip_39_word_no_space_11 | eagercropcopywolfscoutbalconydaringballapologysizeoppose |  
+| bip_39_word_no_space_12 | eagercropcopywolfscoutbalconydaringballapologysizeopposeamused |  
+| bip_39_word_no_space_2 | eagercrop |  
+| bip_39_word_no_space_3 | eagercropcopy |  
+| bip_39_word_no_space_4 | eagercropcopywolf |  
+| bip_39_word_no_space_5 | eagercropcopywolfscout |  
+| bip_39_word_no_space_6 | eagercropcopywolfscoutbalcony |  
+| bip_39_word_no_space_7 | eagercropcopywolfscoutbalconydaring |  
+| bip_39_word_no_space_8 | eagercropcopywolfscoutbalconydaringball |  
+| bip_39_word_no_space_9 | eagercropcopywolfscoutbalconydaringballapology |  
 | bip_39_word_space_0 | ['eager', 'crop', 'copy', 'wolf', 'scout', 'balcony', 'daring', 'ball', 'apology', 'size', 'oppose', 'amused'] |  
 | bip_39_word_space_1 | eager |  
 | bip_39_word_space_10 | eager crop copy wolf scout balcony daring ball apology size |  

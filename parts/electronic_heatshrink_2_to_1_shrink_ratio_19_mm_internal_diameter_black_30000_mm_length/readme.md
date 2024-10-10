@@ -122,6 +122,18 @@ senior
 auction
 orchard
 uphold |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultkeyaverageduckagreeseniorauctionorchardupholdsight |  
+| bip_39_word_no_space_11 | faultkeyaverageduckagreeseniorauctionorchardupholdsightskull |  
+| bip_39_word_no_space_12 | faultkeyaverageduckagreeseniorauctionorchardupholdsightskullacross |  
+| bip_39_word_no_space_2 | faultkey |  
+| bip_39_word_no_space_3 | faultkeyaverage |  
+| bip_39_word_no_space_4 | faultkeyaverageduck |  
+| bip_39_word_no_space_5 | faultkeyaverageduckagree |  
+| bip_39_word_no_space_6 | faultkeyaverageduckagreesenior |  
+| bip_39_word_no_space_7 | faultkeyaverageduckagreeseniorauction |  
+| bip_39_word_no_space_8 | faultkeyaverageduckagreeseniorauctionorchard |  
+| bip_39_word_no_space_9 | faultkeyaverageduckagreeseniorauctionorcharduphold |  
 | bip_39_word_space_0 | ['fault', 'key', 'average', 'duck', 'agree', 'senior', 'auction', 'orchard', 'uphold', 'sight', 'skull', 'across'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault key average duck agree senior auction orchard uphold sight |  

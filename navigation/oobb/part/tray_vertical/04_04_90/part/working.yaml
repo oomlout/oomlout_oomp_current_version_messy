@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gold
   flavor
 
   general'
+bip_39_word_no_space_1: gold
+bip_39_word_no_space_10: goldfringefingerrhythmissuesidehabitflavorgeneralonce
+bip_39_word_no_space_11: goldfringefingerrhythmissuesidehabitflavorgeneralonceword
+bip_39_word_no_space_12: goldfringefingerrhythmissuesidehabitflavorgeneraloncewordagree
+bip_39_word_no_space_2: goldfringe
+bip_39_word_no_space_3: goldfringefinger
+bip_39_word_no_space_4: goldfringefingerrhythm
+bip_39_word_no_space_5: goldfringefingerrhythmissue
+bip_39_word_no_space_6: goldfringefingerrhythmissueside
+bip_39_word_no_space_7: goldfringefingerrhythmissuesidehabit
+bip_39_word_no_space_8: goldfringefingerrhythmissuesidehabitflavor
+bip_39_word_no_space_9: goldfringefingerrhythmissuesidehabitflavorgeneral
 bip_39_word_space_0:
 - gold
 - fringe

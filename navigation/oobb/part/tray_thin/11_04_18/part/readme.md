@@ -122,6 +122,18 @@ blue
 visual
 pulp
 engine |  
+| bip_39_word_no_space_1 | rack |  
+| bip_39_word_no_space_10 | rackteamstoolmansiontransferbluevisualpulpenginebrain |  
+| bip_39_word_no_space_11 | rackteamstoolmansiontransferbluevisualpulpenginebrainremember |  
+| bip_39_word_no_space_12 | rackteamstoolmansiontransferbluevisualpulpenginebrainrememberadmit |  
+| bip_39_word_no_space_2 | rackteam |  
+| bip_39_word_no_space_3 | rackteamstool |  
+| bip_39_word_no_space_4 | rackteamstoolmansion |  
+| bip_39_word_no_space_5 | rackteamstoolmansiontransfer |  
+| bip_39_word_no_space_6 | rackteamstoolmansiontransferblue |  
+| bip_39_word_no_space_7 | rackteamstoolmansiontransferbluevisual |  
+| bip_39_word_no_space_8 | rackteamstoolmansiontransferbluevisualpulp |  
+| bip_39_word_no_space_9 | rackteamstoolmansiontransferbluevisualpulpengine |  
 | bip_39_word_space_0 | ['rack', 'team', 'stool', 'mansion', 'transfer', 'blue', 'visual', 'pulp', 'engine', 'brain', 'remember', 'admit'] |  
 | bip_39_word_space_1 | rack |  
 | bip_39_word_space_10 | rack team stool mansion transfer blue visual pulp engine brain |  

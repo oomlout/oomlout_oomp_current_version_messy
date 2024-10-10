@@ -122,6 +122,18 @@ typical
 ordinary
 name
 pact |  
+| bip_39_word_no_space_1 | nasty |  
+| bip_39_word_no_space_10 | nastydogguesshorsesubjecttypicalordinarynamepactround |  
+| bip_39_word_no_space_11 | nastydogguesshorsesubjecttypicalordinarynamepactroundnotable |  
+| bip_39_word_no_space_12 | nastydogguesshorsesubjecttypicalordinarynamepactroundnotablealert |  
+| bip_39_word_no_space_2 | nastydog |  
+| bip_39_word_no_space_3 | nastydogguess |  
+| bip_39_word_no_space_4 | nastydogguesshorse |  
+| bip_39_word_no_space_5 | nastydogguesshorsesubject |  
+| bip_39_word_no_space_6 | nastydogguesshorsesubjecttypical |  
+| bip_39_word_no_space_7 | nastydogguesshorsesubjecttypicalordinary |  
+| bip_39_word_no_space_8 | nastydogguesshorsesubjecttypicalordinaryname |  
+| bip_39_word_no_space_9 | nastydogguesshorsesubjecttypicalordinarynamepact |  
 | bip_39_word_space_0 | ['nasty', 'dog', 'guess', 'horse', 'subject', 'typical', 'ordinary', 'name', 'pact', 'round', 'notable', 'alert'] |  
 | bip_39_word_space_1 | nasty |  
 | bip_39_word_space_10 | nasty dog guess horse subject typical ordinary name pact round |  

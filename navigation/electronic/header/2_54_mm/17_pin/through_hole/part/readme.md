@@ -122,6 +122,18 @@ omit
 banner
 impact
 dad |  
+| bip_39_word_no_space_1 | fix |  
+| bip_39_word_no_space_10 | fixsweetlonelyhorrorearnomitbannerimpactdadjunior |  
+| bip_39_word_no_space_11 | fixsweetlonelyhorrorearnomitbannerimpactdadjunioramateur |  
+| bip_39_word_no_space_12 | fixsweetlonelyhorrorearnomitbannerimpactdadjunioramateuralso |  
+| bip_39_word_no_space_2 | fixsweet |  
+| bip_39_word_no_space_3 | fixsweetlonely |  
+| bip_39_word_no_space_4 | fixsweetlonelyhorror |  
+| bip_39_word_no_space_5 | fixsweetlonelyhorrorearn |  
+| bip_39_word_no_space_6 | fixsweetlonelyhorrorearnomit |  
+| bip_39_word_no_space_7 | fixsweetlonelyhorrorearnomitbanner |  
+| bip_39_word_no_space_8 | fixsweetlonelyhorrorearnomitbannerimpact |  
+| bip_39_word_no_space_9 | fixsweetlonelyhorrorearnomitbannerimpactdad |  
 | bip_39_word_space_0 | ['fix', 'sweet', 'lonely', 'horror', 'earn', 'omit', 'banner', 'impact', 'dad', 'junior', 'amateur', 'also'] |  
 | bip_39_word_space_1 | fix |  
 | bip_39_word_space_10 | fix sweet lonely horror earn omit banner impact dad junior |  

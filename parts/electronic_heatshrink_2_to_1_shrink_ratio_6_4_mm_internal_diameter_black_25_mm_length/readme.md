@@ -122,6 +122,18 @@ casual
 work
 escape
 blossom |  
+| bip_39_word_no_space_1 | license |  
+| bip_39_word_no_space_10 | licensefiletoddlerkangaroogaspcasualworkescapeblossomocean |  
+| bip_39_word_no_space_11 | licensefiletoddlerkangaroogaspcasualworkescapeblossomoceanalien |  
+| bip_39_word_no_space_12 | licensefiletoddlerkangaroogaspcasualworkescapeblossomoceanalienapple |  
+| bip_39_word_no_space_2 | licensefile |  
+| bip_39_word_no_space_3 | licensefiletoddler |  
+| bip_39_word_no_space_4 | licensefiletoddlerkangaroo |  
+| bip_39_word_no_space_5 | licensefiletoddlerkangaroogasp |  
+| bip_39_word_no_space_6 | licensefiletoddlerkangaroogaspcasual |  
+| bip_39_word_no_space_7 | licensefiletoddlerkangaroogaspcasualwork |  
+| bip_39_word_no_space_8 | licensefiletoddlerkangaroogaspcasualworkescape |  
+| bip_39_word_no_space_9 | licensefiletoddlerkangaroogaspcasualworkescapeblossom |  
 | bip_39_word_space_0 | ['license', 'file', 'toddler', 'kangaroo', 'gasp', 'casual', 'work', 'escape', 'blossom', 'ocean', 'alien', 'apple'] |  
 | bip_39_word_space_1 | license |  
 | bip_39_word_space_10 | license file toddler kangaroo gasp casual work escape blossom ocean |  

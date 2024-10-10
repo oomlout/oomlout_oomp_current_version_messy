@@ -122,6 +122,18 @@ pony
 satoshi
 there
 off |  
+| bip_39_word_no_space_1 | salon |  
+| bip_39_word_no_space_10 | salonchimneyfoilcolorchiefponysatoshithereoffpoverty |  
+| bip_39_word_no_space_11 | salonchimneyfoilcolorchiefponysatoshithereoffpovertymisery |  
+| bip_39_word_no_space_12 | salonchimneyfoilcolorchiefponysatoshithereoffpovertymiseryallow |  
+| bip_39_word_no_space_2 | salonchimney |  
+| bip_39_word_no_space_3 | salonchimneyfoil |  
+| bip_39_word_no_space_4 | salonchimneyfoilcolor |  
+| bip_39_word_no_space_5 | salonchimneyfoilcolorchief |  
+| bip_39_word_no_space_6 | salonchimneyfoilcolorchiefpony |  
+| bip_39_word_no_space_7 | salonchimneyfoilcolorchiefponysatoshi |  
+| bip_39_word_no_space_8 | salonchimneyfoilcolorchiefponysatoshithere |  
+| bip_39_word_no_space_9 | salonchimneyfoilcolorchiefponysatoshithereoff |  
 | bip_39_word_space_0 | ['salon', 'chimney', 'foil', 'color', 'chief', 'pony', 'satoshi', 'there', 'off', 'poverty', 'misery', 'allow'] |  
 | bip_39_word_space_1 | salon |  
 | bip_39_word_space_10 | salon chimney foil color chief pony satoshi there off poverty |  

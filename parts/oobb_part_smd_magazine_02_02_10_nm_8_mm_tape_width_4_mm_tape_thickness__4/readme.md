@@ -122,6 +122,18 @@ chaos
 salad
 use
 sibling |  
+| bip_39_word_no_space_1 | wonder |  
+| bip_39_word_no_space_10 | wondersinglifeswiftborderchaossaladusesiblingreceive |  
+| bip_39_word_no_space_11 | wondersinglifeswiftborderchaossaladusesiblingreceivecurve |  
+| bip_39_word_no_space_12 | wondersinglifeswiftborderchaossaladusesiblingreceivecurveapril |  
+| bip_39_word_no_space_2 | wondersing |  
+| bip_39_word_no_space_3 | wondersinglife |  
+| bip_39_word_no_space_4 | wondersinglifeswift |  
+| bip_39_word_no_space_5 | wondersinglifeswiftborder |  
+| bip_39_word_no_space_6 | wondersinglifeswiftborderchaos |  
+| bip_39_word_no_space_7 | wondersinglifeswiftborderchaossalad |  
+| bip_39_word_no_space_8 | wondersinglifeswiftborderchaossaladuse |  
+| bip_39_word_no_space_9 | wondersinglifeswiftborderchaossaladusesibling |  
 | bip_39_word_space_0 | ['wonder', 'sing', 'life', 'swift', 'border', 'chaos', 'salad', 'use', 'sibling', 'receive', 'curve', 'april'] |  
 | bip_39_word_space_1 | wonder |  
 | bip_39_word_space_10 | wonder sing life swift border chaos salad use sibling receive |  

@@ -122,6 +122,18 @@ genre
 protect
 security
 three |  
+| bip_39_word_no_space_1 | enlist |  
+| bip_39_word_no_space_10 | enlistmusicjoyeitherthoughtgenreprotectsecuritythreebutter |  
+| bip_39_word_no_space_11 | enlistmusicjoyeitherthoughtgenreprotectsecuritythreebutterinform |  
+| bip_39_word_no_space_12 | enlistmusicjoyeitherthoughtgenreprotectsecuritythreebutterinformafraid |  
+| bip_39_word_no_space_2 | enlistmusic |  
+| bip_39_word_no_space_3 | enlistmusicjoy |  
+| bip_39_word_no_space_4 | enlistmusicjoyeither |  
+| bip_39_word_no_space_5 | enlistmusicjoyeitherthought |  
+| bip_39_word_no_space_6 | enlistmusicjoyeitherthoughtgenre |  
+| bip_39_word_no_space_7 | enlistmusicjoyeitherthoughtgenreprotect |  
+| bip_39_word_no_space_8 | enlistmusicjoyeitherthoughtgenreprotectsecurity |  
+| bip_39_word_no_space_9 | enlistmusicjoyeitherthoughtgenreprotectsecuritythree |  
 | bip_39_word_space_0 | ['enlist', 'music', 'joy', 'either', 'thought', 'genre', 'protect', 'security', 'three', 'butter', 'inform', 'afraid'] |  
 | bip_39_word_space_1 | enlist |  
 | bip_39_word_space_10 | enlist music joy either thought genre protect security three butter |  

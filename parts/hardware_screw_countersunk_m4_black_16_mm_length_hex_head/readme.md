@@ -122,6 +122,18 @@ bar
 chef
 toilet
 hamster |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposeatomnoticemuseumsickbarcheftoilethamsterdivorce |  
+| bip_39_word_no_space_11 | opposeatomnoticemuseumsickbarcheftoilethamsterdivorcejoke |  
+| bip_39_word_no_space_12 | opposeatomnoticemuseumsickbarcheftoilethamsterdivorcejokeart |  
+| bip_39_word_no_space_2 | opposeatom |  
+| bip_39_word_no_space_3 | opposeatomnotice |  
+| bip_39_word_no_space_4 | opposeatomnoticemuseum |  
+| bip_39_word_no_space_5 | opposeatomnoticemuseumsick |  
+| bip_39_word_no_space_6 | opposeatomnoticemuseumsickbar |  
+| bip_39_word_no_space_7 | opposeatomnoticemuseumsickbarchef |  
+| bip_39_word_no_space_8 | opposeatomnoticemuseumsickbarcheftoilet |  
+| bip_39_word_no_space_9 | opposeatomnoticemuseumsickbarcheftoilethamster |  
 | bip_39_word_space_0 | ['oppose', 'atom', 'notice', 'museum', 'sick', 'bar', 'chef', 'toilet', 'hamster', 'divorce', 'joke', 'art'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose atom notice museum sick bar chef toilet hamster divorce |  

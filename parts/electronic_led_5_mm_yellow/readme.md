@@ -122,6 +122,18 @@ during
 sense
 cloud
 journey |  
+| bip_39_word_no_space_1 | salon |  
+| bip_39_word_no_space_10 | salonvotesupremeclinicpuppyduringsensecloudjourneycasino |  
+| bip_39_word_no_space_11 | salonvotesupremeclinicpuppyduringsensecloudjourneycasinoemploy |  
+| bip_39_word_no_space_12 | salonvotesupremeclinicpuppyduringsensecloudjourneycasinoemployalter |  
+| bip_39_word_no_space_2 | salonvote |  
+| bip_39_word_no_space_3 | salonvotesupreme |  
+| bip_39_word_no_space_4 | salonvotesupremeclinic |  
+| bip_39_word_no_space_5 | salonvotesupremeclinicpuppy |  
+| bip_39_word_no_space_6 | salonvotesupremeclinicpuppyduring |  
+| bip_39_word_no_space_7 | salonvotesupremeclinicpuppyduringsense |  
+| bip_39_word_no_space_8 | salonvotesupremeclinicpuppyduringsensecloud |  
+| bip_39_word_no_space_9 | salonvotesupremeclinicpuppyduringsensecloudjourney |  
 | bip_39_word_space_0 | ['salon', 'vote', 'supreme', 'clinic', 'puppy', 'during', 'sense', 'cloud', 'journey', 'casino', 'employ', 'alter'] |  
 | bip_39_word_space_1 | salon |  
 | bip_39_word_space_10 | salon vote supreme clinic puppy during sense cloud journey casino |  

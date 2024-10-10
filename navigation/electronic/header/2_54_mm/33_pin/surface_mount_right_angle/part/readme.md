@@ -122,6 +122,18 @@ paper
 night
 target
 fine |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legmasterenforcestoveceilingpapernighttargetfinefee |  
+| bip_39_word_no_space_11 | legmasterenforcestoveceilingpapernighttargetfinefeereceive |  
+| bip_39_word_no_space_12 | legmasterenforcestoveceilingpapernighttargetfinefeereceiveanimal |  
+| bip_39_word_no_space_2 | legmaster |  
+| bip_39_word_no_space_3 | legmasterenforce |  
+| bip_39_word_no_space_4 | legmasterenforcestove |  
+| bip_39_word_no_space_5 | legmasterenforcestoveceiling |  
+| bip_39_word_no_space_6 | legmasterenforcestoveceilingpaper |  
+| bip_39_word_no_space_7 | legmasterenforcestoveceilingpapernight |  
+| bip_39_word_no_space_8 | legmasterenforcestoveceilingpapernighttarget |  
+| bip_39_word_no_space_9 | legmasterenforcestoveceilingpapernighttargetfine |  
 | bip_39_word_space_0 | ['leg', 'master', 'enforce', 'stove', 'ceiling', 'paper', 'night', 'target', 'fine', 'fee', 'receive', 'animal'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg master enforce stove ceiling paper night target fine fee |  

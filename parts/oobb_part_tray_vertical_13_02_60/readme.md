@@ -122,6 +122,18 @@ blanket
 glare
 peanut
 fire |  
+| bip_39_word_no_space_1 | cube |  
+| bip_39_word_no_space_10 | cubeestatefriendpermitblurblanketglarepeanutfirejewel |  
+| bip_39_word_no_space_11 | cubeestatefriendpermitblurblanketglarepeanutfirejewelproud |  
+| bip_39_word_no_space_12 | cubeestatefriendpermitblurblanketglarepeanutfirejewelproudadapt |  
+| bip_39_word_no_space_2 | cubeestate |  
+| bip_39_word_no_space_3 | cubeestatefriend |  
+| bip_39_word_no_space_4 | cubeestatefriendpermit |  
+| bip_39_word_no_space_5 | cubeestatefriendpermitblur |  
+| bip_39_word_no_space_6 | cubeestatefriendpermitblurblanket |  
+| bip_39_word_no_space_7 | cubeestatefriendpermitblurblanketglare |  
+| bip_39_word_no_space_8 | cubeestatefriendpermitblurblanketglarepeanut |  
+| bip_39_word_no_space_9 | cubeestatefriendpermitblurblanketglarepeanutfire |  
 | bip_39_word_space_0 | ['cube', 'estate', 'friend', 'permit', 'blur', 'blanket', 'glare', 'peanut', 'fire', 'jewel', 'proud', 'adapt'] |  
 | bip_39_word_space_1 | cube |  
 | bip_39_word_space_10 | cube estate friend permit blur blanket glare peanut fire jewel |  

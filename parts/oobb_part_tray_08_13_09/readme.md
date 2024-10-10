@@ -122,6 +122,18 @@ gloom
 lava
 taxi
 flip |  
+| bip_39_word_no_space_1 | invest |  
+| bip_39_word_no_space_10 | investtennisamazingfevereconomygloomlavataxiflipscout |  
+| bip_39_word_no_space_11 | investtennisamazingfevereconomygloomlavataxiflipscoutsolution |  
+| bip_39_word_no_space_12 | investtennisamazingfevereconomygloomlavataxiflipscoutsolutionabove |  
+| bip_39_word_no_space_2 | investtennis |  
+| bip_39_word_no_space_3 | investtennisamazing |  
+| bip_39_word_no_space_4 | investtennisamazingfever |  
+| bip_39_word_no_space_5 | investtennisamazingfevereconomy |  
+| bip_39_word_no_space_6 | investtennisamazingfevereconomygloom |  
+| bip_39_word_no_space_7 | investtennisamazingfevereconomygloomlava |  
+| bip_39_word_no_space_8 | investtennisamazingfevereconomygloomlavataxi |  
+| bip_39_word_no_space_9 | investtennisamazingfevereconomygloomlavataxiflip |  
 | bip_39_word_space_0 | ['invest', 'tennis', 'amazing', 'fever', 'economy', 'gloom', 'lava', 'taxi', 'flip', 'scout', 'solution', 'above'] |  
 | bip_39_word_space_1 | invest |  
 | bip_39_word_space_10 | invest tennis amazing fever economy gloom lava taxi flip scout |  

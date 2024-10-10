@@ -122,6 +122,18 @@ prosper
 elbow
 wealth
 hover |  
+| bip_39_word_no_space_1 | oil |  
+| bip_39_word_no_space_10 | oilmeasuredenyalterfancyprosperelbowwealthhovercactus |  
+| bip_39_word_no_space_11 | oilmeasuredenyalterfancyprosperelbowwealthhovercactusdolphin |  
+| bip_39_word_no_space_12 | oilmeasuredenyalterfancyprosperelbowwealthhovercactusdolphinaspect |  
+| bip_39_word_no_space_2 | oilmeasure |  
+| bip_39_word_no_space_3 | oilmeasuredeny |  
+| bip_39_word_no_space_4 | oilmeasuredenyalter |  
+| bip_39_word_no_space_5 | oilmeasuredenyalterfancy |  
+| bip_39_word_no_space_6 | oilmeasuredenyalterfancyprosper |  
+| bip_39_word_no_space_7 | oilmeasuredenyalterfancyprosperelbow |  
+| bip_39_word_no_space_8 | oilmeasuredenyalterfancyprosperelbowwealth |  
+| bip_39_word_no_space_9 | oilmeasuredenyalterfancyprosperelbowwealthhover |  
 | bip_39_word_space_0 | ['oil', 'measure', 'deny', 'alter', 'fancy', 'prosper', 'elbow', 'wealth', 'hover', 'cactus', 'dolphin', 'aspect'] |  
 | bip_39_word_space_1 | oil |  
 | bip_39_word_space_10 | oil measure deny alter fancy prosper elbow wealth hover cactus |  

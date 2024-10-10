@@ -122,6 +122,18 @@ owner
 soda
 evidence
 moon |  
+| bip_39_word_no_space_1 | away |  
+| bip_39_word_no_space_10 | awayhawkwristmultiplybounceownersodaevidencemoonconcert |  
+| bip_39_word_no_space_11 | awayhawkwristmultiplybounceownersodaevidencemoonconcertprice |  
+| bip_39_word_no_space_12 | awayhawkwristmultiplybounceownersodaevidencemoonconcertpricealready |  
+| bip_39_word_no_space_2 | awayhawk |  
+| bip_39_word_no_space_3 | awayhawkwrist |  
+| bip_39_word_no_space_4 | awayhawkwristmultiply |  
+| bip_39_word_no_space_5 | awayhawkwristmultiplybounce |  
+| bip_39_word_no_space_6 | awayhawkwristmultiplybounceowner |  
+| bip_39_word_no_space_7 | awayhawkwristmultiplybounceownersoda |  
+| bip_39_word_no_space_8 | awayhawkwristmultiplybounceownersodaevidence |  
+| bip_39_word_no_space_9 | awayhawkwristmultiplybounceownersodaevidencemoon |  
 | bip_39_word_space_0 | ['away', 'hawk', 'wrist', 'multiply', 'bounce', 'owner', 'soda', 'evidence', 'moon', 'concert', 'price', 'already'] |  
 | bip_39_word_space_1 | away |  
 | bip_39_word_space_10 | away hawk wrist multiply bounce owner soda evidence moon concert |  

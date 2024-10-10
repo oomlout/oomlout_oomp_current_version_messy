@@ -122,6 +122,18 @@ settle
 expose
 stereo
 baby |  
+| bip_39_word_no_space_1 | silver |  
+| bip_39_word_no_space_10 | silvertornadoillnessageprisonsettleexposestereobabyassault |  
+| bip_39_word_no_space_11 | silvertornadoillnessageprisonsettleexposestereobabyassaultmidnight |  
+| bip_39_word_no_space_12 | silvertornadoillnessageprisonsettleexposestereobabyassaultmidnightabsent |  
+| bip_39_word_no_space_2 | silvertornado |  
+| bip_39_word_no_space_3 | silvertornadoillness |  
+| bip_39_word_no_space_4 | silvertornadoillnessage |  
+| bip_39_word_no_space_5 | silvertornadoillnessageprison |  
+| bip_39_word_no_space_6 | silvertornadoillnessageprisonsettle |  
+| bip_39_word_no_space_7 | silvertornadoillnessageprisonsettleexpose |  
+| bip_39_word_no_space_8 | silvertornadoillnessageprisonsettleexposestereo |  
+| bip_39_word_no_space_9 | silvertornadoillnessageprisonsettleexposestereobaby |  
 | bip_39_word_space_0 | ['silver', 'tornado', 'illness', 'age', 'prison', 'settle', 'expose', 'stereo', 'baby', 'assault', 'midnight', 'absent'] |  
 | bip_39_word_space_1 | silver |  
 | bip_39_word_space_10 | silver tornado illness age prison settle expose stereo baby assault |  

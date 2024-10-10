@@ -122,6 +122,18 @@ quit
 kiss
 twin
 breeze |  
+| bip_39_word_no_space_1 | economy |  
+| bip_39_word_no_space_10 | economywherestairsrivalmushroomquitkisstwinbreezeabstract |  
+| bip_39_word_no_space_11 | economywherestairsrivalmushroomquitkisstwinbreezeabstractblossom |  
+| bip_39_word_no_space_12 | economywherestairsrivalmushroomquitkisstwinbreezeabstractblossomagain |  
+| bip_39_word_no_space_2 | economywhere |  
+| bip_39_word_no_space_3 | economywherestairs |  
+| bip_39_word_no_space_4 | economywherestairsrival |  
+| bip_39_word_no_space_5 | economywherestairsrivalmushroom |  
+| bip_39_word_no_space_6 | economywherestairsrivalmushroomquit |  
+| bip_39_word_no_space_7 | economywherestairsrivalmushroomquitkiss |  
+| bip_39_word_no_space_8 | economywherestairsrivalmushroomquitkisstwin |  
+| bip_39_word_no_space_9 | economywherestairsrivalmushroomquitkisstwinbreeze |  
 | bip_39_word_space_0 | ['economy', 'where', 'stairs', 'rival', 'mushroom', 'quit', 'kiss', 'twin', 'breeze', 'abstract', 'blossom', 'again'] |  
 | bip_39_word_space_1 | economy |  
 | bip_39_word_space_10 | economy where stairs rival mushroom quit kiss twin breeze abstract |  

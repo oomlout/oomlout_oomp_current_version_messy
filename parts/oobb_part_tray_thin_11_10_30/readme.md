@@ -122,6 +122,18 @@ music
 fiscal
 zoo
 critic |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naivethankdangerbusinesscavemusicfiscalzoocriticwarm |  
+| bip_39_word_no_space_11 | naivethankdangerbusinesscavemusicfiscalzoocriticwarmpolar |  
+| bip_39_word_no_space_12 | naivethankdangerbusinesscavemusicfiscalzoocriticwarmpolaralcohol |  
+| bip_39_word_no_space_2 | naivethank |  
+| bip_39_word_no_space_3 | naivethankdanger |  
+| bip_39_word_no_space_4 | naivethankdangerbusiness |  
+| bip_39_word_no_space_5 | naivethankdangerbusinesscave |  
+| bip_39_word_no_space_6 | naivethankdangerbusinesscavemusic |  
+| bip_39_word_no_space_7 | naivethankdangerbusinesscavemusicfiscal |  
+| bip_39_word_no_space_8 | naivethankdangerbusinesscavemusicfiscalzoo |  
+| bip_39_word_no_space_9 | naivethankdangerbusinesscavemusicfiscalzoocritic |  
 | bip_39_word_space_0 | ['naive', 'thank', 'danger', 'business', 'cave', 'music', 'fiscal', 'zoo', 'critic', 'warm', 'polar', 'alcohol'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive thank danger business cave music fiscal zoo critic warm |  

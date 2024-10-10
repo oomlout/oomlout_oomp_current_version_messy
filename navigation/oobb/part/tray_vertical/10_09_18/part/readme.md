@@ -122,6 +122,18 @@ chimney
 ridge
 panther
 hair |  
+| bip_39_word_no_space_1 | ancient |  
+| bip_39_word_no_space_10 | ancientoccurpeasanthedgehogivorychimneyridgepantherhairorphan |  
+| bip_39_word_no_space_11 | ancientoccurpeasanthedgehogivorychimneyridgepantherhairorphanhollow |  
+| bip_39_word_no_space_12 | ancientoccurpeasanthedgehogivorychimneyridgepantherhairorphanhollowaugust |  
+| bip_39_word_no_space_2 | ancientoccur |  
+| bip_39_word_no_space_3 | ancientoccurpeasant |  
+| bip_39_word_no_space_4 | ancientoccurpeasanthedgehog |  
+| bip_39_word_no_space_5 | ancientoccurpeasanthedgehogivory |  
+| bip_39_word_no_space_6 | ancientoccurpeasanthedgehogivorychimney |  
+| bip_39_word_no_space_7 | ancientoccurpeasanthedgehogivorychimneyridge |  
+| bip_39_word_no_space_8 | ancientoccurpeasanthedgehogivorychimneyridgepanther |  
+| bip_39_word_no_space_9 | ancientoccurpeasanthedgehogivorychimneyridgepantherhair |  
 | bip_39_word_space_0 | ['ancient', 'occur', 'peasant', 'hedgehog', 'ivory', 'chimney', 'ridge', 'panther', 'hair', 'orphan', 'hollow', 'august'] |  
 | bip_39_word_space_1 | ancient |  
 | bip_39_word_space_10 | ancient occur peasant hedgehog ivory chimney ridge panther hair orphan |  

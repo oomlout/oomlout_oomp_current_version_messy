@@ -122,6 +122,18 @@ panic
 enable
 antenna
 minimum |  
+| bip_39_word_no_space_1 | enhance |  
+| bip_39_word_no_space_10 | enhancecapitalabsenttipdeveloppanicenableantennaminimumcall |  
+| bip_39_word_no_space_11 | enhancecapitalabsenttipdeveloppanicenableantennaminimumcallyou |  
+| bip_39_word_no_space_12 | enhancecapitalabsenttipdeveloppanicenableantennaminimumcallyouarrive |  
+| bip_39_word_no_space_2 | enhancecapital |  
+| bip_39_word_no_space_3 | enhancecapitalabsent |  
+| bip_39_word_no_space_4 | enhancecapitalabsenttip |  
+| bip_39_word_no_space_5 | enhancecapitalabsenttipdevelop |  
+| bip_39_word_no_space_6 | enhancecapitalabsenttipdeveloppanic |  
+| bip_39_word_no_space_7 | enhancecapitalabsenttipdeveloppanicenable |  
+| bip_39_word_no_space_8 | enhancecapitalabsenttipdeveloppanicenableantenna |  
+| bip_39_word_no_space_9 | enhancecapitalabsenttipdeveloppanicenableantennaminimum |  
 | bip_39_word_space_0 | ['enhance', 'capital', 'absent', 'tip', 'develop', 'panic', 'enable', 'antenna', 'minimum', 'call', 'you', 'arrive'] |  
 | bip_39_word_space_1 | enhance |  
 | bip_39_word_space_10 | enhance capital absent tip develop panic enable antenna minimum call |  

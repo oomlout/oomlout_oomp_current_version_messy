@@ -122,6 +122,18 @@ rural
 million
 hunt
 friend |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintaciddoublegasptuberuralmillionhuntfriendcrop |  
+| bip_39_word_no_space_11 | faintaciddoublegasptuberuralmillionhuntfriendcropsnack |  
+| bip_39_word_no_space_12 | faintaciddoublegasptuberuralmillionhuntfriendcropsnackaerobic |  
+| bip_39_word_no_space_2 | faintacid |  
+| bip_39_word_no_space_3 | faintaciddouble |  
+| bip_39_word_no_space_4 | faintaciddoublegasp |  
+| bip_39_word_no_space_5 | faintaciddoublegasptube |  
+| bip_39_word_no_space_6 | faintaciddoublegasptuberural |  
+| bip_39_word_no_space_7 | faintaciddoublegasptuberuralmillion |  
+| bip_39_word_no_space_8 | faintaciddoublegasptuberuralmillionhunt |  
+| bip_39_word_no_space_9 | faintaciddoublegasptuberuralmillionhuntfriend |  
 | bip_39_word_space_0 | ['faint', 'acid', 'double', 'gasp', 'tube', 'rural', 'million', 'hunt', 'friend', 'crop', 'snack', 'aerobic'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint acid double gasp tube rural million hunt friend crop |  

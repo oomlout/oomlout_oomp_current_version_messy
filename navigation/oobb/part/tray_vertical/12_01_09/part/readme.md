@@ -122,6 +122,18 @@ sign
 nephew
 music
 giant |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwayathletesurprisespraytruthsignnephewmusicgiantremind |  
+| bip_39_word_no_space_11 | runwayathletesurprisespraytruthsignnephewmusicgiantremindkiss |  
+| bip_39_word_no_space_12 | runwayathletesurprisespraytruthsignnephewmusicgiantremindkissarrive |  
+| bip_39_word_no_space_2 | runwayathlete |  
+| bip_39_word_no_space_3 | runwayathletesurprise |  
+| bip_39_word_no_space_4 | runwayathletesurprisespray |  
+| bip_39_word_no_space_5 | runwayathletesurprisespraytruth |  
+| bip_39_word_no_space_6 | runwayathletesurprisespraytruthsign |  
+| bip_39_word_no_space_7 | runwayathletesurprisespraytruthsignnephew |  
+| bip_39_word_no_space_8 | runwayathletesurprisespraytruthsignnephewmusic |  
+| bip_39_word_no_space_9 | runwayathletesurprisespraytruthsignnephewmusicgiant |  
 | bip_39_word_space_0 | ['runway', 'athlete', 'surprise', 'spray', 'truth', 'sign', 'nephew', 'music', 'giant', 'remind', 'kiss', 'arrive'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway athlete surprise spray truth sign nephew music giant remind |  

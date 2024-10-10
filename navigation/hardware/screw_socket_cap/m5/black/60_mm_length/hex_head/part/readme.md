@@ -122,6 +122,18 @@ victory
 clerk
 winner
 skirt |  
+| bip_39_word_no_space_1 | jazz |  
+| bip_39_word_no_space_10 | jazztomorrowislandbitterstillvictoryclerkwinnerskirtjoin |  
+| bip_39_word_no_space_11 | jazztomorrowislandbitterstillvictoryclerkwinnerskirtjoinutility |  
+| bip_39_word_no_space_12 | jazztomorrowislandbitterstillvictoryclerkwinnerskirtjoinutilityangry |  
+| bip_39_word_no_space_2 | jazztomorrow |  
+| bip_39_word_no_space_3 | jazztomorrowisland |  
+| bip_39_word_no_space_4 | jazztomorrowislandbitter |  
+| bip_39_word_no_space_5 | jazztomorrowislandbitterstill |  
+| bip_39_word_no_space_6 | jazztomorrowislandbitterstillvictory |  
+| bip_39_word_no_space_7 | jazztomorrowislandbitterstillvictoryclerk |  
+| bip_39_word_no_space_8 | jazztomorrowislandbitterstillvictoryclerkwinner |  
+| bip_39_word_no_space_9 | jazztomorrowislandbitterstillvictoryclerkwinnerskirt |  
 | bip_39_word_space_0 | ['jazz', 'tomorrow', 'island', 'bitter', 'still', 'victory', 'clerk', 'winner', 'skirt', 'join', 'utility', 'angry'] |  
 | bip_39_word_space_1 | jazz |  
 | bip_39_word_space_10 | jazz tomorrow island bitter still victory clerk winner skirt join |  

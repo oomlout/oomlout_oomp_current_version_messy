@@ -122,6 +122,18 @@ kitten
 indicate
 season
 cluster |  
+| bip_39_word_no_space_1 | defense |  
+| bip_39_word_no_space_10 | defenseorbitoffertailsciencekittenindicateseasonclustergroup |  
+| bip_39_word_no_space_11 | defenseorbitoffertailsciencekittenindicateseasonclustergrouppalace |  
+| bip_39_word_no_space_12 | defenseorbitoffertailsciencekittenindicateseasonclustergrouppalaceautumn |  
+| bip_39_word_no_space_2 | defenseorbit |  
+| bip_39_word_no_space_3 | defenseorbitoffer |  
+| bip_39_word_no_space_4 | defenseorbitoffertail |  
+| bip_39_word_no_space_5 | defenseorbitoffertailscience |  
+| bip_39_word_no_space_6 | defenseorbitoffertailsciencekitten |  
+| bip_39_word_no_space_7 | defenseorbitoffertailsciencekittenindicate |  
+| bip_39_word_no_space_8 | defenseorbitoffertailsciencekittenindicateseason |  
+| bip_39_word_no_space_9 | defenseorbitoffertailsciencekittenindicateseasoncluster |  
 | bip_39_word_space_0 | ['defense', 'orbit', 'offer', 'tail', 'science', 'kitten', 'indicate', 'season', 'cluster', 'group', 'palace', 'autumn'] |  
 | bip_39_word_space_1 | defense |  
 | bip_39_word_space_10 | defense orbit offer tail science kitten indicate season cluster group |  

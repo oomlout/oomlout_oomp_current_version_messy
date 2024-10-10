@@ -122,6 +122,18 @@ sunset
 skin
 success
 erode |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectbuddyarmedtimberoffsunsetskinsuccesserodemansion |  
+| bip_39_word_no_space_11 | selectbuddyarmedtimberoffsunsetskinsuccesserodemansionclip |  
+| bip_39_word_no_space_12 | selectbuddyarmedtimberoffsunsetskinsuccesserodemansionclipasset |  
+| bip_39_word_no_space_2 | selectbuddy |  
+| bip_39_word_no_space_3 | selectbuddyarmed |  
+| bip_39_word_no_space_4 | selectbuddyarmedtimber |  
+| bip_39_word_no_space_5 | selectbuddyarmedtimberoff |  
+| bip_39_word_no_space_6 | selectbuddyarmedtimberoffsunset |  
+| bip_39_word_no_space_7 | selectbuddyarmedtimberoffsunsetskin |  
+| bip_39_word_no_space_8 | selectbuddyarmedtimberoffsunsetskinsuccess |  
+| bip_39_word_no_space_9 | selectbuddyarmedtimberoffsunsetskinsuccesserode |  
 | bip_39_word_space_0 | ['select', 'buddy', 'armed', 'timber', 'off', 'sunset', 'skin', 'success', 'erode', 'mansion', 'clip', 'asset'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select buddy armed timber off sunset skin success erode mansion |  

@@ -122,6 +122,18 @@ desert
 solar
 high
 seminar |  
+| bip_39_word_no_space_1 | sadness |  
+| bip_39_word_no_space_10 | sadnessshockpowderparkchickendesertsolarhighseminargiant |  
+| bip_39_word_no_space_11 | sadnessshockpowderparkchickendesertsolarhighseminargiantgarbage |  
+| bip_39_word_no_space_12 | sadnessshockpowderparkchickendesertsolarhighseminargiantgarbageauthor |  
+| bip_39_word_no_space_2 | sadnessshock |  
+| bip_39_word_no_space_3 | sadnessshockpowder |  
+| bip_39_word_no_space_4 | sadnessshockpowderpark |  
+| bip_39_word_no_space_5 | sadnessshockpowderparkchicken |  
+| bip_39_word_no_space_6 | sadnessshockpowderparkchickendesert |  
+| bip_39_word_no_space_7 | sadnessshockpowderparkchickendesertsolar |  
+| bip_39_word_no_space_8 | sadnessshockpowderparkchickendesertsolarhigh |  
+| bip_39_word_no_space_9 | sadnessshockpowderparkchickendesertsolarhighseminar |  
 | bip_39_word_space_0 | ['sadness', 'shock', 'powder', 'park', 'chicken', 'desert', 'solar', 'high', 'seminar', 'giant', 'garbage', 'author'] |  
 | bip_39_word_space_1 | sadness |  
 | bip_39_word_space_10 | sadness shock powder park chicken desert solar high seminar giant |  

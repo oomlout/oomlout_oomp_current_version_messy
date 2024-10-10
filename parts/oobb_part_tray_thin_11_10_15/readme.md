@@ -122,6 +122,18 @@ heavy
 local
 imitate
 stand |  
+| bip_39_word_no_space_1 | noise |  
+| bip_39_word_no_space_10 | noisegravityorganthensurgeheavylocalimitatestandmonkey |  
+| bip_39_word_no_space_11 | noisegravityorganthensurgeheavylocalimitatestandmonkeyround |  
+| bip_39_word_no_space_12 | noisegravityorganthensurgeheavylocalimitatestandmonkeyroundantenna |  
+| bip_39_word_no_space_2 | noisegravity |  
+| bip_39_word_no_space_3 | noisegravityorgan |  
+| bip_39_word_no_space_4 | noisegravityorganthen |  
+| bip_39_word_no_space_5 | noisegravityorganthensurge |  
+| bip_39_word_no_space_6 | noisegravityorganthensurgeheavy |  
+| bip_39_word_no_space_7 | noisegravityorganthensurgeheavylocal |  
+| bip_39_word_no_space_8 | noisegravityorganthensurgeheavylocalimitate |  
+| bip_39_word_no_space_9 | noisegravityorganthensurgeheavylocalimitatestand |  
 | bip_39_word_space_0 | ['noise', 'gravity', 'organ', 'then', 'surge', 'heavy', 'local', 'imitate', 'stand', 'monkey', 'round', 'antenna'] |  
 | bip_39_word_space_1 | noise |  
 | bip_39_word_space_10 | noise gravity organ then surge heavy local imitate stand monkey |  

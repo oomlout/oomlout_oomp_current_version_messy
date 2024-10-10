@@ -122,6 +122,18 @@ uphold
 bulk
 spawn
 yard |  
+| bip_39_word_no_space_1 | tuition |  
+| bip_39_word_no_space_10 | tuitionbunkerbattleburgerdishupholdbulkspawnyardcensus |  
+| bip_39_word_no_space_11 | tuitionbunkerbattleburgerdishupholdbulkspawnyardcensusafford |  
+| bip_39_word_no_space_12 | tuitionbunkerbattleburgerdishupholdbulkspawnyardcensusaffordauthor |  
+| bip_39_word_no_space_2 | tuitionbunker |  
+| bip_39_word_no_space_3 | tuitionbunkerbattle |  
+| bip_39_word_no_space_4 | tuitionbunkerbattleburger |  
+| bip_39_word_no_space_5 | tuitionbunkerbattleburgerdish |  
+| bip_39_word_no_space_6 | tuitionbunkerbattleburgerdishuphold |  
+| bip_39_word_no_space_7 | tuitionbunkerbattleburgerdishupholdbulk |  
+| bip_39_word_no_space_8 | tuitionbunkerbattleburgerdishupholdbulkspawn |  
+| bip_39_word_no_space_9 | tuitionbunkerbattleburgerdishupholdbulkspawnyard |  
 | bip_39_word_space_0 | ['tuition', 'bunker', 'battle', 'burger', 'dish', 'uphold', 'bulk', 'spawn', 'yard', 'census', 'afford', 'author'] |  
 | bip_39_word_space_1 | tuition |  
 | bip_39_word_space_10 | tuition bunker battle burger dish uphold bulk spawn yard census |  

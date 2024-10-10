@@ -122,6 +122,18 @@ sun
 junk
 squirrel
 vehicle |  
+| bip_39_word_no_space_1 | pet |  
+| bip_39_word_no_space_10 | pettipbriefhosthammersunjunksquirrelvehicledevelop |  
+| bip_39_word_no_space_11 | pettipbriefhosthammersunjunksquirrelvehicledeveloprun |  
+| bip_39_word_no_space_12 | pettipbriefhosthammersunjunksquirrelvehicledeveloprunauthor |  
+| bip_39_word_no_space_2 | pettip |  
+| bip_39_word_no_space_3 | pettipbrief |  
+| bip_39_word_no_space_4 | pettipbriefhost |  
+| bip_39_word_no_space_5 | pettipbriefhosthammer |  
+| bip_39_word_no_space_6 | pettipbriefhosthammersun |  
+| bip_39_word_no_space_7 | pettipbriefhosthammersunjunk |  
+| bip_39_word_no_space_8 | pettipbriefhosthammersunjunksquirrel |  
+| bip_39_word_no_space_9 | pettipbriefhosthammersunjunksquirrelvehicle |  
 | bip_39_word_space_0 | ['pet', 'tip', 'brief', 'host', 'hammer', 'sun', 'junk', 'squirrel', 'vehicle', 'develop', 'run', 'author'] |  
 | bip_39_word_space_1 | pet |  
 | bip_39_word_space_10 | pet tip brief host hammer sun junk squirrel vehicle develop |  

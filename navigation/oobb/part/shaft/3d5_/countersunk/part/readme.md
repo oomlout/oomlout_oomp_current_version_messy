@@ -122,6 +122,18 @@ boat
 rather
 hungry
 celery |  
+| bip_39_word_no_space_1 | close |  
+| bip_39_word_no_space_10 | closetoneribcanoemotherboatratherhungrycelerydress |  
+| bip_39_word_no_space_11 | closetoneribcanoemotherboatratherhungrycelerydresscement |  
+| bip_39_word_no_space_12 | closetoneribcanoemotherboatratherhungrycelerydresscementankle |  
+| bip_39_word_no_space_2 | closetone |  
+| bip_39_word_no_space_3 | closetonerib |  
+| bip_39_word_no_space_4 | closetoneribcanoe |  
+| bip_39_word_no_space_5 | closetoneribcanoemother |  
+| bip_39_word_no_space_6 | closetoneribcanoemotherboat |  
+| bip_39_word_no_space_7 | closetoneribcanoemotherboatrather |  
+| bip_39_word_no_space_8 | closetoneribcanoemotherboatratherhungry |  
+| bip_39_word_no_space_9 | closetoneribcanoemotherboatratherhungrycelery |  
 | bip_39_word_space_0 | ['close', 'tone', 'rib', 'canoe', 'mother', 'boat', 'rather', 'hungry', 'celery', 'dress', 'cement', 'ankle'] |  
 | bip_39_word_space_1 | close |  
 | bip_39_word_space_10 | close tone rib canoe mother boat rather hungry celery dress |  

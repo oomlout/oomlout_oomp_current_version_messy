@@ -122,6 +122,18 @@ skate
 combine
 boy
 verify |  
+| bip_39_word_no_space_1 | helmet |  
+| bip_39_word_no_space_10 | helmetridgebombcradleorderskatecombineboyverifyauction |  
+| bip_39_word_no_space_11 | helmetridgebombcradleorderskatecombineboyverifyauctionmenu |  
+| bip_39_word_no_space_12 | helmetridgebombcradleorderskatecombineboyverifyauctionmenuaccident |  
+| bip_39_word_no_space_2 | helmetridge |  
+| bip_39_word_no_space_3 | helmetridgebomb |  
+| bip_39_word_no_space_4 | helmetridgebombcradle |  
+| bip_39_word_no_space_5 | helmetridgebombcradleorder |  
+| bip_39_word_no_space_6 | helmetridgebombcradleorderskate |  
+| bip_39_word_no_space_7 | helmetridgebombcradleorderskatecombine |  
+| bip_39_word_no_space_8 | helmetridgebombcradleorderskatecombineboy |  
+| bip_39_word_no_space_9 | helmetridgebombcradleorderskatecombineboyverify |  
 | bip_39_word_space_0 | ['helmet', 'ridge', 'bomb', 'cradle', 'order', 'skate', 'combine', 'boy', 'verify', 'auction', 'menu', 'accident'] |  
 | bip_39_word_space_1 | helmet |  
 | bip_39_word_space_10 | helmet ridge bomb cradle order skate combine boy verify auction |  

@@ -122,6 +122,18 @@ bleak
 tag
 van
 mango |  
+| bip_39_word_no_space_1 | deputy |  
+| bip_39_word_no_space_10 | deputyframelengthruletoddlerbleaktagvanmangoachieve |  
+| bip_39_word_no_space_11 | deputyframelengthruletoddlerbleaktagvanmangoachieveerror |  
+| bip_39_word_no_space_12 | deputyframelengthruletoddlerbleaktagvanmangoachieveerroralert |  
+| bip_39_word_no_space_2 | deputyframe |  
+| bip_39_word_no_space_3 | deputyframelength |  
+| bip_39_word_no_space_4 | deputyframelengthrule |  
+| bip_39_word_no_space_5 | deputyframelengthruletoddler |  
+| bip_39_word_no_space_6 | deputyframelengthruletoddlerbleak |  
+| bip_39_word_no_space_7 | deputyframelengthruletoddlerbleaktag |  
+| bip_39_word_no_space_8 | deputyframelengthruletoddlerbleaktagvan |  
+| bip_39_word_no_space_9 | deputyframelengthruletoddlerbleaktagvanmango |  
 | bip_39_word_space_0 | ['deputy', 'frame', 'length', 'rule', 'toddler', 'bleak', 'tag', 'van', 'mango', 'achieve', 'error', 'alert'] |  
 | bip_39_word_space_1 | deputy |  
 | bip_39_word_space_10 | deputy frame length rule toddler bleak tag van mango achieve |  

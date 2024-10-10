@@ -122,6 +122,18 @@ know
 ball
 ring
 child |  
+| bip_39_word_no_space_1 | fabric |  
+| bip_39_word_no_space_10 | fabricawfulbriskrepairoutsideknowballringchildtribe |  
+| bip_39_word_no_space_11 | fabricawfulbriskrepairoutsideknowballringchildtribenear |  
+| bip_39_word_no_space_12 | fabricawfulbriskrepairoutsideknowballringchildtribenearannual |  
+| bip_39_word_no_space_2 | fabricawful |  
+| bip_39_word_no_space_3 | fabricawfulbrisk |  
+| bip_39_word_no_space_4 | fabricawfulbriskrepair |  
+| bip_39_word_no_space_5 | fabricawfulbriskrepairoutside |  
+| bip_39_word_no_space_6 | fabricawfulbriskrepairoutsideknow |  
+| bip_39_word_no_space_7 | fabricawfulbriskrepairoutsideknowball |  
+| bip_39_word_no_space_8 | fabricawfulbriskrepairoutsideknowballring |  
+| bip_39_word_no_space_9 | fabricawfulbriskrepairoutsideknowballringchild |  
 | bip_39_word_space_0 | ['fabric', 'awful', 'brisk', 'repair', 'outside', 'know', 'ball', 'ring', 'child', 'tribe', 'near', 'annual'] |  
 | bip_39_word_space_1 | fabric |  
 | bip_39_word_space_10 | fabric awful brisk repair outside know ball ring child tribe |  

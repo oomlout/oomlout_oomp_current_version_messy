@@ -122,6 +122,18 @@ joke
 genre
 trouble
 enable |  
+| bip_39_word_no_space_1 | crucial |  
+| bip_39_word_no_space_10 | crucialscatterliquidivoryexpressjokegenretroubleenableprofit |  
+| bip_39_word_no_space_11 | crucialscatterliquidivoryexpressjokegenretroubleenableprofitinput |  
+| bip_39_word_no_space_12 | crucialscatterliquidivoryexpressjokegenretroubleenableprofitinputamazing |  
+| bip_39_word_no_space_2 | crucialscatter |  
+| bip_39_word_no_space_3 | crucialscatterliquid |  
+| bip_39_word_no_space_4 | crucialscatterliquidivory |  
+| bip_39_word_no_space_5 | crucialscatterliquidivoryexpress |  
+| bip_39_word_no_space_6 | crucialscatterliquidivoryexpressjoke |  
+| bip_39_word_no_space_7 | crucialscatterliquidivoryexpressjokegenre |  
+| bip_39_word_no_space_8 | crucialscatterliquidivoryexpressjokegenretrouble |  
+| bip_39_word_no_space_9 | crucialscatterliquidivoryexpressjokegenretroubleenable |  
 | bip_39_word_space_0 | ['crucial', 'scatter', 'liquid', 'ivory', 'express', 'joke', 'genre', 'trouble', 'enable', 'profit', 'input', 'amazing'] |  
 | bip_39_word_space_1 | crucial |  
 | bip_39_word_space_10 | crucial scatter liquid ivory express joke genre trouble enable profit |  

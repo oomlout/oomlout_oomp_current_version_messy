@@ -122,6 +122,18 @@ actress
 protect
 cup
 tourist |  
+| bip_39_word_no_space_1 | dumb |  
+| bip_39_word_no_space_10 | dumbbonusmeadowtiltfeedactressprotectcuptouristhumor |  
+| bip_39_word_no_space_11 | dumbbonusmeadowtiltfeedactressprotectcuptouristhumorsmart |  
+| bip_39_word_no_space_12 | dumbbonusmeadowtiltfeedactressprotectcuptouristhumorsmartamazing |  
+| bip_39_word_no_space_2 | dumbbonus |  
+| bip_39_word_no_space_3 | dumbbonusmeadow |  
+| bip_39_word_no_space_4 | dumbbonusmeadowtilt |  
+| bip_39_word_no_space_5 | dumbbonusmeadowtiltfeed |  
+| bip_39_word_no_space_6 | dumbbonusmeadowtiltfeedactress |  
+| bip_39_word_no_space_7 | dumbbonusmeadowtiltfeedactressprotect |  
+| bip_39_word_no_space_8 | dumbbonusmeadowtiltfeedactressprotectcup |  
+| bip_39_word_no_space_9 | dumbbonusmeadowtiltfeedactressprotectcuptourist |  
 | bip_39_word_space_0 | ['dumb', 'bonus', 'meadow', 'tilt', 'feed', 'actress', 'protect', 'cup', 'tourist', 'humor', 'smart', 'amazing'] |  
 | bip_39_word_space_1 | dumb |  
 | bip_39_word_space_10 | dumb bonus meadow tilt feed actress protect cup tourist humor |  

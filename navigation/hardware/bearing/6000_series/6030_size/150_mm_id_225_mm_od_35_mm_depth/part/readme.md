@@ -122,6 +122,18 @@ benefit
 bargain
 very
 review |  
+| bip_39_word_no_space_1 | author |  
+| bip_39_word_no_space_10 | authorbrothercertainribbonadultbenefitbargainveryreviewembrace |  
+| bip_39_word_no_space_11 | authorbrothercertainribbonadultbenefitbargainveryreviewembracecatalog |  
+| bip_39_word_no_space_12 | authorbrothercertainribbonadultbenefitbargainveryreviewembracecatalogact |  
+| bip_39_word_no_space_2 | authorbrother |  
+| bip_39_word_no_space_3 | authorbrothercertain |  
+| bip_39_word_no_space_4 | authorbrothercertainribbon |  
+| bip_39_word_no_space_5 | authorbrothercertainribbonadult |  
+| bip_39_word_no_space_6 | authorbrothercertainribbonadultbenefit |  
+| bip_39_word_no_space_7 | authorbrothercertainribbonadultbenefitbargain |  
+| bip_39_word_no_space_8 | authorbrothercertainribbonadultbenefitbargainvery |  
+| bip_39_word_no_space_9 | authorbrothercertainribbonadultbenefitbargainveryreview |  
 | bip_39_word_space_0 | ['author', 'brother', 'certain', 'ribbon', 'adult', 'benefit', 'bargain', 'very', 'review', 'embrace', 'catalog', 'act'] |  
 | bip_39_word_space_1 | author |  
 | bip_39_word_space_10 | author brother certain ribbon adult benefit bargain very review embrace |  

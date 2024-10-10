@@ -122,6 +122,18 @@ unknown
 plate
 battle
 crime |  
+| bip_39_word_no_space_1 | affair |  
+| bip_39_word_no_space_10 | affairarriveneveradvicedetectunknownplatebattlecrimecapable |  
+| bip_39_word_no_space_11 | affairarriveneveradvicedetectunknownplatebattlecrimecapableinclude |  
+| bip_39_word_no_space_12 | affairarriveneveradvicedetectunknownplatebattlecrimecapableincludeannounce |  
+| bip_39_word_no_space_2 | affairarrive |  
+| bip_39_word_no_space_3 | affairarrivenever |  
+| bip_39_word_no_space_4 | affairarriveneveradvice |  
+| bip_39_word_no_space_5 | affairarriveneveradvicedetect |  
+| bip_39_word_no_space_6 | affairarriveneveradvicedetectunknown |  
+| bip_39_word_no_space_7 | affairarriveneveradvicedetectunknownplate |  
+| bip_39_word_no_space_8 | affairarriveneveradvicedetectunknownplatebattle |  
+| bip_39_word_no_space_9 | affairarriveneveradvicedetectunknownplatebattlecrime |  
 | bip_39_word_space_0 | ['affair', 'arrive', 'never', 'advice', 'detect', 'unknown', 'plate', 'battle', 'crime', 'capable', 'include', 'announce'] |  
 | bip_39_word_space_1 | affair |  
 | bip_39_word_space_10 | affair arrive never advice detect unknown plate battle crime capable |  

@@ -122,6 +122,18 @@ worth
 fly
 scatter
 strong |  
+| bip_39_word_no_space_1 | tumble |  
+| bip_39_word_no_space_10 | tumbleriverglidemissbachelorworthflyscatterstrongbeauty |  
+| bip_39_word_no_space_11 | tumbleriverglidemissbachelorworthflyscatterstrongbeautymorning |  
+| bip_39_word_no_space_12 | tumbleriverglidemissbachelorworthflyscatterstrongbeautymorningasset |  
+| bip_39_word_no_space_2 | tumbleriver |  
+| bip_39_word_no_space_3 | tumbleriverglide |  
+| bip_39_word_no_space_4 | tumbleriverglidemiss |  
+| bip_39_word_no_space_5 | tumbleriverglidemissbachelor |  
+| bip_39_word_no_space_6 | tumbleriverglidemissbachelorworth |  
+| bip_39_word_no_space_7 | tumbleriverglidemissbachelorworthfly |  
+| bip_39_word_no_space_8 | tumbleriverglidemissbachelorworthflyscatter |  
+| bip_39_word_no_space_9 | tumbleriverglidemissbachelorworthflyscatterstrong |  
 | bip_39_word_space_0 | ['tumble', 'river', 'glide', 'miss', 'bachelor', 'worth', 'fly', 'scatter', 'strong', 'beauty', 'morning', 'asset'] |  
 | bip_39_word_space_1 | tumble |  
 | bip_39_word_space_10 | tumble river glide miss bachelor worth fly scatter strong beauty |  

@@ -122,6 +122,18 @@ ketchup
 tiger
 fatigue
 obey |  
+| bip_39_word_no_space_1 | giraffe |  
+| bip_39_word_no_space_10 | giraffepalaceverybirdshuffleketchuptigerfatigueobeymarch |  
+| bip_39_word_no_space_11 | giraffepalaceverybirdshuffleketchuptigerfatigueobeymarchflower |  
+| bip_39_word_no_space_12 | giraffepalaceverybirdshuffleketchuptigerfatigueobeymarchfloweradvance |  
+| bip_39_word_no_space_2 | giraffepalace |  
+| bip_39_word_no_space_3 | giraffepalacevery |  
+| bip_39_word_no_space_4 | giraffepalaceverybird |  
+| bip_39_word_no_space_5 | giraffepalaceverybirdshuffle |  
+| bip_39_word_no_space_6 | giraffepalaceverybirdshuffleketchup |  
+| bip_39_word_no_space_7 | giraffepalaceverybirdshuffleketchuptiger |  
+| bip_39_word_no_space_8 | giraffepalaceverybirdshuffleketchuptigerfatigue |  
+| bip_39_word_no_space_9 | giraffepalaceverybirdshuffleketchuptigerfatigueobey |  
 | bip_39_word_space_0 | ['giraffe', 'palace', 'very', 'bird', 'shuffle', 'ketchup', 'tiger', 'fatigue', 'obey', 'march', 'flower', 'advance'] |  
 | bip_39_word_space_1 | giraffe |  
 | bip_39_word_space_10 | giraffe palace very bird shuffle ketchup tiger fatigue obey march |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lake
   buyer
 
   snack'
+bip_39_word_no_space_1: lake
+bip_39_word_no_space_10: lakebutterhotelbrokentalenteasysamplebuyersnackcancel
+bip_39_word_no_space_11: lakebutterhotelbrokentalenteasysamplebuyersnackcancelearth
+bip_39_word_no_space_12: lakebutterhotelbrokentalenteasysamplebuyersnackcancelearthanimal
+bip_39_word_no_space_2: lakebutter
+bip_39_word_no_space_3: lakebutterhotel
+bip_39_word_no_space_4: lakebutterhotelbroken
+bip_39_word_no_space_5: lakebutterhotelbrokentalent
+bip_39_word_no_space_6: lakebutterhotelbrokentalenteasy
+bip_39_word_no_space_7: lakebutterhotelbrokentalenteasysample
+bip_39_word_no_space_8: lakebutterhotelbrokentalenteasysamplebuyer
+bip_39_word_no_space_9: lakebutterhotelbrokentalenteasysamplebuyersnack
 bip_39_word_space_0:
 - lake
 - butter

@@ -122,6 +122,18 @@ gentle
 lunar
 merge
 capital |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubkidthismemorypoolgentlelunarmergecapitalmaze |  
+| bip_39_word_no_space_11 | hubkidthismemorypoolgentlelunarmergecapitalmazerotate |  
+| bip_39_word_no_space_12 | hubkidthismemorypoolgentlelunarmergecapitalmazerotateaisle |  
+| bip_39_word_no_space_2 | hubkid |  
+| bip_39_word_no_space_3 | hubkidthis |  
+| bip_39_word_no_space_4 | hubkidthismemory |  
+| bip_39_word_no_space_5 | hubkidthismemorypool |  
+| bip_39_word_no_space_6 | hubkidthismemorypoolgentle |  
+| bip_39_word_no_space_7 | hubkidthismemorypoolgentlelunar |  
+| bip_39_word_no_space_8 | hubkidthismemorypoolgentlelunarmerge |  
+| bip_39_word_no_space_9 | hubkidthismemorypoolgentlelunarmergecapital |  
 | bip_39_word_space_0 | ['hub', 'kid', 'this', 'memory', 'pool', 'gentle', 'lunar', 'merge', 'capital', 'maze', 'rotate', 'aisle'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub kid this memory pool gentle lunar merge capital maze |  

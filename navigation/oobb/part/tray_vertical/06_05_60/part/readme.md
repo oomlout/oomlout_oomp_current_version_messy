@@ -122,6 +122,18 @@ upset
 size
 evil
 diamond |  
+| bip_39_word_no_space_1 | choose |  
+| bip_39_word_no_space_10 | choosewayburgerhurdlepluckupsetsizeevildiamondhair |  
+| bip_39_word_no_space_11 | choosewayburgerhurdlepluckupsetsizeevildiamondhairribbon |  
+| bip_39_word_no_space_12 | choosewayburgerhurdlepluckupsetsizeevildiamondhairribbonarrow |  
+| bip_39_word_no_space_2 | chooseway |  
+| bip_39_word_no_space_3 | choosewayburger |  
+| bip_39_word_no_space_4 | choosewayburgerhurdle |  
+| bip_39_word_no_space_5 | choosewayburgerhurdlepluck |  
+| bip_39_word_no_space_6 | choosewayburgerhurdlepluckupset |  
+| bip_39_word_no_space_7 | choosewayburgerhurdlepluckupsetsize |  
+| bip_39_word_no_space_8 | choosewayburgerhurdlepluckupsetsizeevil |  
+| bip_39_word_no_space_9 | choosewayburgerhurdlepluckupsetsizeevildiamond |  
 | bip_39_word_space_0 | ['choose', 'way', 'burger', 'hurdle', 'pluck', 'upset', 'size', 'evil', 'diamond', 'hair', 'ribbon', 'arrow'] |  
 | bip_39_word_space_1 | choose |  
 | bip_39_word_space_10 | choose way burger hurdle pluck upset size evil diamond hair |  

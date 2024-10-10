@@ -122,6 +122,18 @@ evoke
 pig
 leader
 staff |  
+| bip_39_word_no_space_1 | afford |  
+| bip_39_word_no_space_10 | affordlionriskbitterrallyevokepigleaderstaffship |  
+| bip_39_word_no_space_11 | affordlionriskbitterrallyevokepigleaderstaffshipsuit |  
+| bip_39_word_no_space_12 | affordlionriskbitterrallyevokepigleaderstaffshipsuitamused |  
+| bip_39_word_no_space_2 | affordlion |  
+| bip_39_word_no_space_3 | affordlionrisk |  
+| bip_39_word_no_space_4 | affordlionriskbitter |  
+| bip_39_word_no_space_5 | affordlionriskbitterrally |  
+| bip_39_word_no_space_6 | affordlionriskbitterrallyevoke |  
+| bip_39_word_no_space_7 | affordlionriskbitterrallyevokepig |  
+| bip_39_word_no_space_8 | affordlionriskbitterrallyevokepigleader |  
+| bip_39_word_no_space_9 | affordlionriskbitterrallyevokepigleaderstaff |  
 | bip_39_word_space_0 | ['afford', 'lion', 'risk', 'bitter', 'rally', 'evoke', 'pig', 'leader', 'staff', 'ship', 'suit', 'amused'] |  
 | bip_39_word_space_1 | afford |  
 | bip_39_word_space_10 | afford lion risk bitter rally evoke pig leader staff ship |  

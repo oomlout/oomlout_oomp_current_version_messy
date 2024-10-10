@@ -122,6 +122,18 @@ hungry
 script
 palace
 pig |  
+| bip_39_word_no_space_1 | shell |  
+| bip_39_word_no_space_10 | shellcheaphunteconomykitchenhungryscriptpalacepigpost |  
+| bip_39_word_no_space_11 | shellcheaphunteconomykitchenhungryscriptpalacepigpostimpose |  
+| bip_39_word_no_space_12 | shellcheaphunteconomykitchenhungryscriptpalacepigpostimposeattract |  
+| bip_39_word_no_space_2 | shellcheap |  
+| bip_39_word_no_space_3 | shellcheaphunt |  
+| bip_39_word_no_space_4 | shellcheaphunteconomy |  
+| bip_39_word_no_space_5 | shellcheaphunteconomykitchen |  
+| bip_39_word_no_space_6 | shellcheaphunteconomykitchenhungry |  
+| bip_39_word_no_space_7 | shellcheaphunteconomykitchenhungryscript |  
+| bip_39_word_no_space_8 | shellcheaphunteconomykitchenhungryscriptpalace |  
+| bip_39_word_no_space_9 | shellcheaphunteconomykitchenhungryscriptpalacepig |  
 | bip_39_word_space_0 | ['shell', 'cheap', 'hunt', 'economy', 'kitchen', 'hungry', 'script', 'palace', 'pig', 'post', 'impose', 'attract'] |  
 | bip_39_word_space_1 | shell |  
 | bip_39_word_space_10 | shell cheap hunt economy kitchen hungry script palace pig post |  

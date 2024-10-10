@@ -122,6 +122,18 @@ sudden
 menu
 wagon
 crouch |  
+| bip_39_word_no_space_1 | six |  
+| bip_39_word_no_space_10 | sixacidforwarduselesslibertysuddenmenuwagoncrouchviolin |  
+| bip_39_word_no_space_11 | sixacidforwarduselesslibertysuddenmenuwagoncrouchviolinretire |  
+| bip_39_word_no_space_12 | sixacidforwarduselesslibertysuddenmenuwagoncrouchviolinretirearmed |  
+| bip_39_word_no_space_2 | sixacid |  
+| bip_39_word_no_space_3 | sixacidforward |  
+| bip_39_word_no_space_4 | sixacidforwarduseless |  
+| bip_39_word_no_space_5 | sixacidforwarduselessliberty |  
+| bip_39_word_no_space_6 | sixacidforwarduselesslibertysudden |  
+| bip_39_word_no_space_7 | sixacidforwarduselesslibertysuddenmenu |  
+| bip_39_word_no_space_8 | sixacidforwarduselesslibertysuddenmenuwagon |  
+| bip_39_word_no_space_9 | sixacidforwarduselesslibertysuddenmenuwagoncrouch |  
 | bip_39_word_space_0 | ['six', 'acid', 'forward', 'useless', 'liberty', 'sudden', 'menu', 'wagon', 'crouch', 'violin', 'retire', 'armed'] |  
 | bip_39_word_space_1 | six |  
 | bip_39_word_space_10 | six acid forward useless liberty sudden menu wagon crouch violin |  

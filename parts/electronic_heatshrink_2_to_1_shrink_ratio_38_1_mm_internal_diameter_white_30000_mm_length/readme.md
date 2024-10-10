@@ -122,6 +122,18 @@ model
 only
 raw
 moon |  
+| bip_39_word_no_space_1 | fee |  
+| bip_39_word_no_space_10 | feepulloutputradarcommonmodelonlyrawmoonassault |  
+| bip_39_word_no_space_11 | feepulloutputradarcommonmodelonlyrawmoonassaultrely |  
+| bip_39_word_no_space_12 | feepulloutputradarcommonmodelonlyrawmoonassaultrelyaddict |  
+| bip_39_word_no_space_2 | feepull |  
+| bip_39_word_no_space_3 | feepulloutput |  
+| bip_39_word_no_space_4 | feepulloutputradar |  
+| bip_39_word_no_space_5 | feepulloutputradarcommon |  
+| bip_39_word_no_space_6 | feepulloutputradarcommonmodel |  
+| bip_39_word_no_space_7 | feepulloutputradarcommonmodelonly |  
+| bip_39_word_no_space_8 | feepulloutputradarcommonmodelonlyraw |  
+| bip_39_word_no_space_9 | feepulloutputradarcommonmodelonlyrawmoon |  
 | bip_39_word_space_0 | ['fee', 'pull', 'output', 'radar', 'common', 'model', 'only', 'raw', 'moon', 'assault', 'rely', 'addict'] |  
 | bip_39_word_space_1 | fee |  
 | bip_39_word_space_10 | fee pull output radar common model only raw moon assault |  

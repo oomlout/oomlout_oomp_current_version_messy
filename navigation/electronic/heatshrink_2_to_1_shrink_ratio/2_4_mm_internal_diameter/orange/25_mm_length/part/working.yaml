@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'broom
   fabric
 
   capable'
+bip_39_word_no_space_1: broom
+bip_39_word_no_space_10: broomsailsaybittercarpetsheriffelderfabriccapablecrazy
+bip_39_word_no_space_11: broomsailsaybittercarpetsheriffelderfabriccapablecrazyensure
+bip_39_word_no_space_12: broomsailsaybittercarpetsheriffelderfabriccapablecrazyensurearena
+bip_39_word_no_space_2: broomsail
+bip_39_word_no_space_3: broomsailsay
+bip_39_word_no_space_4: broomsailsaybitter
+bip_39_word_no_space_5: broomsailsaybittercarpet
+bip_39_word_no_space_6: broomsailsaybittercarpetsheriff
+bip_39_word_no_space_7: broomsailsaybittercarpetsheriffelder
+bip_39_word_no_space_8: broomsailsaybittercarpetsheriffelderfabric
+bip_39_word_no_space_9: broomsailsaybittercarpetsheriffelderfabriccapable
 bip_39_word_space_0:
 - broom
 - sail

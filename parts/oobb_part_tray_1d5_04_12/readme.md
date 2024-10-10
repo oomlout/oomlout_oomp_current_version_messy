@@ -122,6 +122,18 @@ depart
 erupt
 allow
 deny |  
+| bip_39_word_no_space_1 | payment |  
+| bip_39_word_no_space_10 | paymentremainincreasedynamicgesturedeparteruptallowdenydance |  
+| bip_39_word_no_space_11 | paymentremainincreasedynamicgesturedeparteruptallowdenydanceinto |  
+| bip_39_word_no_space_12 | paymentremainincreasedynamicgesturedeparteruptallowdenydanceintoaudit |  
+| bip_39_word_no_space_2 | paymentremain |  
+| bip_39_word_no_space_3 | paymentremainincrease |  
+| bip_39_word_no_space_4 | paymentremainincreasedynamic |  
+| bip_39_word_no_space_5 | paymentremainincreasedynamicgesture |  
+| bip_39_word_no_space_6 | paymentremainincreasedynamicgesturedepart |  
+| bip_39_word_no_space_7 | paymentremainincreasedynamicgesturedeparterupt |  
+| bip_39_word_no_space_8 | paymentremainincreasedynamicgesturedeparteruptallow |  
+| bip_39_word_no_space_9 | paymentremainincreasedynamicgesturedeparteruptallowdeny |  
 | bip_39_word_space_0 | ['payment', 'remain', 'increase', 'dynamic', 'gesture', 'depart', 'erupt', 'allow', 'deny', 'dance', 'into', 'audit'] |  
 | bip_39_word_space_1 | payment |  
 | bip_39_word_space_10 | payment remain increase dynamic gesture depart erupt allow deny dance |  

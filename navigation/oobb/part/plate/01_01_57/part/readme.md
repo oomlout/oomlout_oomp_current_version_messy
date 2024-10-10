@@ -122,6 +122,18 @@ nominee
 chase
 ribbon
 exhibit |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddymotherenoughpriorityflashnomineechaseribbonexhibitcoin |  
+| bip_39_word_no_space_11 | buddymotherenoughpriorityflashnomineechaseribbonexhibitcoinburden |  
+| bip_39_word_no_space_12 | buddymotherenoughpriorityflashnomineechaseribbonexhibitcoinburdenabsent |  
+| bip_39_word_no_space_2 | buddymother |  
+| bip_39_word_no_space_3 | buddymotherenough |  
+| bip_39_word_no_space_4 | buddymotherenoughpriority |  
+| bip_39_word_no_space_5 | buddymotherenoughpriorityflash |  
+| bip_39_word_no_space_6 | buddymotherenoughpriorityflashnominee |  
+| bip_39_word_no_space_7 | buddymotherenoughpriorityflashnomineechase |  
+| bip_39_word_no_space_8 | buddymotherenoughpriorityflashnomineechaseribbon |  
+| bip_39_word_no_space_9 | buddymotherenoughpriorityflashnomineechaseribbonexhibit |  
 | bip_39_word_space_0 | ['buddy', 'mother', 'enough', 'priority', 'flash', 'nominee', 'chase', 'ribbon', 'exhibit', 'coin', 'burden', 'absent'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy mother enough priority flash nominee chase ribbon exhibit coin |  

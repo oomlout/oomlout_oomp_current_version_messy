@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gaze
   warm
 
   escape'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazeclipdoublelocalmediasuggestyardwarmescapeharbor
+bip_39_word_no_space_11: gazeclipdoublelocalmediasuggestyardwarmescapeharborcatalog
+bip_39_word_no_space_12: gazeclipdoublelocalmediasuggestyardwarmescapeharborcatalogargue
+bip_39_word_no_space_2: gazeclip
+bip_39_word_no_space_3: gazeclipdouble
+bip_39_word_no_space_4: gazeclipdoublelocal
+bip_39_word_no_space_5: gazeclipdoublelocalmedia
+bip_39_word_no_space_6: gazeclipdoublelocalmediasuggest
+bip_39_word_no_space_7: gazeclipdoublelocalmediasuggestyard
+bip_39_word_no_space_8: gazeclipdoublelocalmediasuggestyardwarm
+bip_39_word_no_space_9: gazeclipdoublelocalmediasuggestyardwarmescape
 bip_39_word_space_0:
 - gaze
 - clip

@@ -122,6 +122,18 @@ mansion
 alley
 install
 legend |  
+| bip_39_word_no_space_1 | mystery |  
+| bip_39_word_no_space_10 | mysteryjumpfitrunwhispermansionalleyinstalllegendfind |  
+| bip_39_word_no_space_11 | mysteryjumpfitrunwhispermansionalleyinstalllegendfindannual |  
+| bip_39_word_no_space_12 | mysteryjumpfitrunwhispermansionalleyinstalllegendfindannualaccuse |  
+| bip_39_word_no_space_2 | mysteryjump |  
+| bip_39_word_no_space_3 | mysteryjumpfit |  
+| bip_39_word_no_space_4 | mysteryjumpfitrun |  
+| bip_39_word_no_space_5 | mysteryjumpfitrunwhisper |  
+| bip_39_word_no_space_6 | mysteryjumpfitrunwhispermansion |  
+| bip_39_word_no_space_7 | mysteryjumpfitrunwhispermansionalley |  
+| bip_39_word_no_space_8 | mysteryjumpfitrunwhispermansionalleyinstall |  
+| bip_39_word_no_space_9 | mysteryjumpfitrunwhispermansionalleyinstalllegend |  
 | bip_39_word_space_0 | ['mystery', 'jump', 'fit', 'run', 'whisper', 'mansion', 'alley', 'install', 'legend', 'find', 'annual', 'accuse'] |  
 | bip_39_word_space_1 | mystery |  
 | bip_39_word_space_10 | mystery jump fit run whisper mansion alley install legend find |  

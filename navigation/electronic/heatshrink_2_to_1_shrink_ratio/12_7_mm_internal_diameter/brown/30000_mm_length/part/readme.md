@@ -122,6 +122,18 @@ staff
 member
 hint
 panel |  
+| bip_39_word_no_space_1 | remember |  
+| bip_39_word_no_space_10 | rememberhellowondertreegarlicstaffmemberhintpanelscatter |  
+| bip_39_word_no_space_11 | rememberhellowondertreegarlicstaffmemberhintpanelscatterinitial |  
+| bip_39_word_no_space_12 | rememberhellowondertreegarlicstaffmemberhintpanelscatterinitialaddict |  
+| bip_39_word_no_space_2 | rememberhello |  
+| bip_39_word_no_space_3 | rememberhellowonder |  
+| bip_39_word_no_space_4 | rememberhellowondertree |  
+| bip_39_word_no_space_5 | rememberhellowondertreegarlic |  
+| bip_39_word_no_space_6 | rememberhellowondertreegarlicstaff |  
+| bip_39_word_no_space_7 | rememberhellowondertreegarlicstaffmember |  
+| bip_39_word_no_space_8 | rememberhellowondertreegarlicstaffmemberhint |  
+| bip_39_word_no_space_9 | rememberhellowondertreegarlicstaffmemberhintpanel |  
 | bip_39_word_space_0 | ['remember', 'hello', 'wonder', 'tree', 'garlic', 'staff', 'member', 'hint', 'panel', 'scatter', 'initial', 'addict'] |  
 | bip_39_word_space_1 | remember |  
 | bip_39_word_space_10 | remember hello wonder tree garlic staff member hint panel scatter |  

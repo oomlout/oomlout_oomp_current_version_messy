@@ -122,6 +122,18 @@ social
 token
 orange
 artwork |  
+| bip_39_word_no_space_1 | drip |  
+| bip_39_word_no_space_10 | driptopicglassmargingiantsocialtokenorangeartworkmisery |  
+| bip_39_word_no_space_11 | driptopicglassmargingiantsocialtokenorangeartworkmiseryproblem |  
+| bip_39_word_no_space_12 | driptopicglassmargingiantsocialtokenorangeartworkmiseryproblemautumn |  
+| bip_39_word_no_space_2 | driptopic |  
+| bip_39_word_no_space_3 | driptopicglass |  
+| bip_39_word_no_space_4 | driptopicglassmargin |  
+| bip_39_word_no_space_5 | driptopicglassmargingiant |  
+| bip_39_word_no_space_6 | driptopicglassmargingiantsocial |  
+| bip_39_word_no_space_7 | driptopicglassmargingiantsocialtoken |  
+| bip_39_word_no_space_8 | driptopicglassmargingiantsocialtokenorange |  
+| bip_39_word_no_space_9 | driptopicglassmargingiantsocialtokenorangeartwork |  
 | bip_39_word_space_0 | ['drip', 'topic', 'glass', 'margin', 'giant', 'social', 'token', 'orange', 'artwork', 'misery', 'problem', 'autumn'] |  
 | bip_39_word_space_1 | drip |  
 | bip_39_word_space_10 | drip topic glass margin giant social token orange artwork misery |  

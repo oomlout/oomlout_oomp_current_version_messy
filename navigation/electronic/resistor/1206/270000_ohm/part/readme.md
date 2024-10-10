@@ -122,6 +122,18 @@ shove
 candy
 farm
 common |  
+| bip_39_word_no_space_1 | pelican |  
+| bip_39_word_no_space_10 | pelicanfootverifyglowmagicshovecandyfarmcommonprivate |  
+| bip_39_word_no_space_11 | pelicanfootverifyglowmagicshovecandyfarmcommonprivateequal |  
+| bip_39_word_no_space_12 | pelicanfootverifyglowmagicshovecandyfarmcommonprivateequalabout |  
+| bip_39_word_no_space_2 | pelicanfoot |  
+| bip_39_word_no_space_3 | pelicanfootverify |  
+| bip_39_word_no_space_4 | pelicanfootverifyglow |  
+| bip_39_word_no_space_5 | pelicanfootverifyglowmagic |  
+| bip_39_word_no_space_6 | pelicanfootverifyglowmagicshove |  
+| bip_39_word_no_space_7 | pelicanfootverifyglowmagicshovecandy |  
+| bip_39_word_no_space_8 | pelicanfootverifyglowmagicshovecandyfarm |  
+| bip_39_word_no_space_9 | pelicanfootverifyglowmagicshovecandyfarmcommon |  
 | bip_39_word_space_0 | ['pelican', 'foot', 'verify', 'glow', 'magic', 'shove', 'candy', 'farm', 'common', 'private', 'equal', 'about'] |  
 | bip_39_word_space_1 | pelican |  
 | bip_39_word_space_10 | pelican foot verify glow magic shove candy farm common private |  

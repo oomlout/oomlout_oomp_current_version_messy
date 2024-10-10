@@ -122,6 +122,18 @@ supply
 giraffe
 file
 plunge |  
+| bip_39_word_no_space_1 | warfare |  
+| bip_39_word_no_space_10 | warfarescriptbabynegativecancelsupplygiraffefileplungeavocado |  
+| bip_39_word_no_space_11 | warfarescriptbabynegativecancelsupplygiraffefileplungeavocadothrow |  
+| bip_39_word_no_space_12 | warfarescriptbabynegativecancelsupplygiraffefileplungeavocadothrowany |  
+| bip_39_word_no_space_2 | warfarescript |  
+| bip_39_word_no_space_3 | warfarescriptbaby |  
+| bip_39_word_no_space_4 | warfarescriptbabynegative |  
+| bip_39_word_no_space_5 | warfarescriptbabynegativecancel |  
+| bip_39_word_no_space_6 | warfarescriptbabynegativecancelsupply |  
+| bip_39_word_no_space_7 | warfarescriptbabynegativecancelsupplygiraffe |  
+| bip_39_word_no_space_8 | warfarescriptbabynegativecancelsupplygiraffefile |  
+| bip_39_word_no_space_9 | warfarescriptbabynegativecancelsupplygiraffefileplunge |  
 | bip_39_word_space_0 | ['warfare', 'script', 'baby', 'negative', 'cancel', 'supply', 'giraffe', 'file', 'plunge', 'avocado', 'throw', 'any'] |  
 | bip_39_word_space_1 | warfare |  
 | bip_39_word_space_10 | warfare script baby negative cancel supply giraffe file plunge avocado |  

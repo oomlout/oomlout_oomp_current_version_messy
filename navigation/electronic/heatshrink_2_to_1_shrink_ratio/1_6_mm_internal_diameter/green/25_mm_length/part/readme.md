@@ -122,6 +122,18 @@ hint
 bulb
 gossip
 culture |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infantburstpartyducksiblinghintbulbgossipcultureliar |  
+| bip_39_word_no_space_11 | infantburstpartyducksiblinghintbulbgossipcultureliarstuff |  
+| bip_39_word_no_space_12 | infantburstpartyducksiblinghintbulbgossipcultureliarstuffarea |  
+| bip_39_word_no_space_2 | infantburst |  
+| bip_39_word_no_space_3 | infantburstparty |  
+| bip_39_word_no_space_4 | infantburstpartyduck |  
+| bip_39_word_no_space_5 | infantburstpartyducksibling |  
+| bip_39_word_no_space_6 | infantburstpartyducksiblinghint |  
+| bip_39_word_no_space_7 | infantburstpartyducksiblinghintbulb |  
+| bip_39_word_no_space_8 | infantburstpartyducksiblinghintbulbgossip |  
+| bip_39_word_no_space_9 | infantburstpartyducksiblinghintbulbgossipculture |  
 | bip_39_word_space_0 | ['infant', 'burst', 'party', 'duck', 'sibling', 'hint', 'bulb', 'gossip', 'culture', 'liar', 'stuff', 'area'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant burst party duck sibling hint bulb gossip culture liar |  

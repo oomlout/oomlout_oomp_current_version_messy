@@ -122,6 +122,18 @@ enroll
 cheap
 bounce
 wing |  
+| bip_39_word_no_space_1 | opinion |  
+| bip_39_word_no_space_10 | opinionkeyabstractclaimjarenrollcheapbouncewingdepend |  
+| bip_39_word_no_space_11 | opinionkeyabstractclaimjarenrollcheapbouncewingdependcopper |  
+| bip_39_word_no_space_12 | opinionkeyabstractclaimjarenrollcheapbouncewingdependcopperathlete |  
+| bip_39_word_no_space_2 | opinionkey |  
+| bip_39_word_no_space_3 | opinionkeyabstract |  
+| bip_39_word_no_space_4 | opinionkeyabstractclaim |  
+| bip_39_word_no_space_5 | opinionkeyabstractclaimjar |  
+| bip_39_word_no_space_6 | opinionkeyabstractclaimjarenroll |  
+| bip_39_word_no_space_7 | opinionkeyabstractclaimjarenrollcheap |  
+| bip_39_word_no_space_8 | opinionkeyabstractclaimjarenrollcheapbounce |  
+| bip_39_word_no_space_9 | opinionkeyabstractclaimjarenrollcheapbouncewing |  
 | bip_39_word_space_0 | ['opinion', 'key', 'abstract', 'claim', 'jar', 'enroll', 'cheap', 'bounce', 'wing', 'depend', 'copper', 'athlete'] |  
 | bip_39_word_space_1 | opinion |  
 | bip_39_word_space_10 | opinion key abstract claim jar enroll cheap bounce wing depend |  

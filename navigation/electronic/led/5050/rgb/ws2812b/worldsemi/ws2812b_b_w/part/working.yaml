@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soda
   custom
 
   roof'
+bip_39_word_no_space_1: soda
+bip_39_word_no_space_10: sodafaultexistzoobamboowhalecelerycustomroofwealth
+bip_39_word_no_space_11: sodafaultexistzoobamboowhalecelerycustomroofwealthholiday
+bip_39_word_no_space_12: sodafaultexistzoobamboowhalecelerycustomroofwealthholidayaudit
+bip_39_word_no_space_2: sodafault
+bip_39_word_no_space_3: sodafaultexist
+bip_39_word_no_space_4: sodafaultexistzoo
+bip_39_word_no_space_5: sodafaultexistzoobamboo
+bip_39_word_no_space_6: sodafaultexistzoobamboowhale
+bip_39_word_no_space_7: sodafaultexistzoobamboowhalecelery
+bip_39_word_no_space_8: sodafaultexistzoobamboowhalecelerycustom
+bip_39_word_no_space_9: sodafaultexistzoobamboowhalecelerycustomroof
 bip_39_word_space_0:
 - soda
 - fault

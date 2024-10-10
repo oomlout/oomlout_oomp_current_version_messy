@@ -122,6 +122,18 @@ fold
 mule
 stereo
 crowd |  
+| bip_39_word_no_space_1 | snake |  
+| bip_39_word_no_space_10 | snakepyramidextratalkhospitalfoldmulestereocrowdservice |  
+| bip_39_word_no_space_11 | snakepyramidextratalkhospitalfoldmulestereocrowdserviceradar |  
+| bip_39_word_no_space_12 | snakepyramidextratalkhospitalfoldmulestereocrowdserviceradaralert |  
+| bip_39_word_no_space_2 | snakepyramid |  
+| bip_39_word_no_space_3 | snakepyramidextra |  
+| bip_39_word_no_space_4 | snakepyramidextratalk |  
+| bip_39_word_no_space_5 | snakepyramidextratalkhospital |  
+| bip_39_word_no_space_6 | snakepyramidextratalkhospitalfold |  
+| bip_39_word_no_space_7 | snakepyramidextratalkhospitalfoldmule |  
+| bip_39_word_no_space_8 | snakepyramidextratalkhospitalfoldmulestereo |  
+| bip_39_word_no_space_9 | snakepyramidextratalkhospitalfoldmulestereocrowd |  
 | bip_39_word_space_0 | ['snake', 'pyramid', 'extra', 'talk', 'hospital', 'fold', 'mule', 'stereo', 'crowd', 'service', 'radar', 'alert'] |  
 | bip_39_word_space_1 | snake |  
 | bip_39_word_space_10 | snake pyramid extra talk hospital fold mule stereo crowd service |  

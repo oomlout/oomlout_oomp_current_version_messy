@@ -122,6 +122,18 @@ rural
 kitten
 release
 before |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accuseshytenantwastesubjectruralkittenreleasebeforeagain |  
+| bip_39_word_no_space_11 | accuseshytenantwastesubjectruralkittenreleasebeforeagainfaint |  
+| bip_39_word_no_space_12 | accuseshytenantwastesubjectruralkittenreleasebeforeagainfaintarrest |  
+| bip_39_word_no_space_2 | accuseshy |  
+| bip_39_word_no_space_3 | accuseshytenant |  
+| bip_39_word_no_space_4 | accuseshytenantwaste |  
+| bip_39_word_no_space_5 | accuseshytenantwastesubject |  
+| bip_39_word_no_space_6 | accuseshytenantwastesubjectrural |  
+| bip_39_word_no_space_7 | accuseshytenantwastesubjectruralkitten |  
+| bip_39_word_no_space_8 | accuseshytenantwastesubjectruralkittenrelease |  
+| bip_39_word_no_space_9 | accuseshytenantwastesubjectruralkittenreleasebefore |  
 | bip_39_word_space_0 | ['accuse', 'shy', 'tenant', 'waste', 'subject', 'rural', 'kitten', 'release', 'before', 'again', 'faint', 'arrest'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse shy tenant waste subject rural kitten release before again |  

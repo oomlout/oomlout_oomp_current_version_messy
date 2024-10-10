@@ -122,6 +122,18 @@ agent
 elegant
 snake
 airport |  
+| bip_39_word_no_space_1 | shoulder |  
+| bip_39_word_no_space_10 | shoulderfatswitchincomeempoweragentelegantsnakeairportodor |  
+| bip_39_word_no_space_11 | shoulderfatswitchincomeempoweragentelegantsnakeairportodorquiz |  
+| bip_39_word_no_space_12 | shoulderfatswitchincomeempoweragentelegantsnakeairportodorquizalone |  
+| bip_39_word_no_space_2 | shoulderfat |  
+| bip_39_word_no_space_3 | shoulderfatswitch |  
+| bip_39_word_no_space_4 | shoulderfatswitchincome |  
+| bip_39_word_no_space_5 | shoulderfatswitchincomeempower |  
+| bip_39_word_no_space_6 | shoulderfatswitchincomeempoweragent |  
+| bip_39_word_no_space_7 | shoulderfatswitchincomeempoweragentelegant |  
+| bip_39_word_no_space_8 | shoulderfatswitchincomeempoweragentelegantsnake |  
+| bip_39_word_no_space_9 | shoulderfatswitchincomeempoweragentelegantsnakeairport |  
 | bip_39_word_space_0 | ['shoulder', 'fat', 'switch', 'income', 'empower', 'agent', 'elegant', 'snake', 'airport', 'odor', 'quiz', 'alone'] |  
 | bip_39_word_space_1 | shoulder |  
 | bip_39_word_space_10 | shoulder fat switch income empower agent elegant snake airport odor |  

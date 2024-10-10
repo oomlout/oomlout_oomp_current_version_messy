@@ -122,6 +122,18 @@ emotion
 front
 vivid
 rifle |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppytapebalconyknowmustemotionfrontvividrifletape |  
+| bip_39_word_no_space_11 | puppytapebalconyknowmustemotionfrontvividrifletapecattle |  
+| bip_39_word_no_space_12 | puppytapebalconyknowmustemotionfrontvividrifletapecattleadapt |  
+| bip_39_word_no_space_2 | puppytape |  
+| bip_39_word_no_space_3 | puppytapebalcony |  
+| bip_39_word_no_space_4 | puppytapebalconyknow |  
+| bip_39_word_no_space_5 | puppytapebalconyknowmust |  
+| bip_39_word_no_space_6 | puppytapebalconyknowmustemotion |  
+| bip_39_word_no_space_7 | puppytapebalconyknowmustemotionfront |  
+| bip_39_word_no_space_8 | puppytapebalconyknowmustemotionfrontvivid |  
+| bip_39_word_no_space_9 | puppytapebalconyknowmustemotionfrontvividrifle |  
 | bip_39_word_space_0 | ['puppy', 'tape', 'balcony', 'know', 'must', 'emotion', 'front', 'vivid', 'rifle', 'tape', 'cattle', 'adapt'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy tape balcony know must emotion front vivid rifle tape |  

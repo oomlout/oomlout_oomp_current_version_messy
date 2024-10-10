@@ -122,6 +122,18 @@ engage
 chimney
 jewel
 buyer |  
+| bip_39_word_no_space_1 | pudding |  
+| bip_39_word_no_space_10 | puddingbecausekeyfocusresembleengagechimneyjewelbuyersoda |  
+| bip_39_word_no_space_11 | puddingbecausekeyfocusresembleengagechimneyjewelbuyersodamosquito |  
+| bip_39_word_no_space_12 | puddingbecausekeyfocusresembleengagechimneyjewelbuyersodamosquitoair |  
+| bip_39_word_no_space_2 | puddingbecause |  
+| bip_39_word_no_space_3 | puddingbecausekey |  
+| bip_39_word_no_space_4 | puddingbecausekeyfocus |  
+| bip_39_word_no_space_5 | puddingbecausekeyfocusresemble |  
+| bip_39_word_no_space_6 | puddingbecausekeyfocusresembleengage |  
+| bip_39_word_no_space_7 | puddingbecausekeyfocusresembleengagechimney |  
+| bip_39_word_no_space_8 | puddingbecausekeyfocusresembleengagechimneyjewel |  
+| bip_39_word_no_space_9 | puddingbecausekeyfocusresembleengagechimneyjewelbuyer |  
 | bip_39_word_space_0 | ['pudding', 'because', 'key', 'focus', 'resemble', 'engage', 'chimney', 'jewel', 'buyer', 'soda', 'mosquito', 'air'] |  
 | bip_39_word_space_1 | pudding |  
 | bip_39_word_space_10 | pudding because key focus resemble engage chimney jewel buyer soda |  

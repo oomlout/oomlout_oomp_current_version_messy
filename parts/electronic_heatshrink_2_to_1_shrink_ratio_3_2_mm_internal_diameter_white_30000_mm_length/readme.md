@@ -122,6 +122,18 @@ broom
 predict
 client
 swing |  
+| bip_39_word_no_space_1 | analyst |  
+| bip_39_word_no_space_10 | analystentergolddonkeyjewelbroompredictclientswingclarify |  
+| bip_39_word_no_space_11 | analystentergolddonkeyjewelbroompredictclientswingclarifyuncover |  
+| bip_39_word_no_space_12 | analystentergolddonkeyjewelbroompredictclientswingclarifyuncoverapple |  
+| bip_39_word_no_space_2 | analystenter |  
+| bip_39_word_no_space_3 | analystentergold |  
+| bip_39_word_no_space_4 | analystentergolddonkey |  
+| bip_39_word_no_space_5 | analystentergolddonkeyjewel |  
+| bip_39_word_no_space_6 | analystentergolddonkeyjewelbroom |  
+| bip_39_word_no_space_7 | analystentergolddonkeyjewelbroompredict |  
+| bip_39_word_no_space_8 | analystentergolddonkeyjewelbroompredictclient |  
+| bip_39_word_no_space_9 | analystentergolddonkeyjewelbroompredictclientswing |  
 | bip_39_word_space_0 | ['analyst', 'enter', 'gold', 'donkey', 'jewel', 'broom', 'predict', 'client', 'swing', 'clarify', 'uncover', 'apple'] |  
 | bip_39_word_space_1 | analyst |  
 | bip_39_word_space_10 | analyst enter gold donkey jewel broom predict client swing clarify |  

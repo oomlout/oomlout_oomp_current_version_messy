@@ -122,6 +122,18 @@ execute
 cliff
 wish
 echo |  
+| bip_39_word_no_space_1 | physical |  
+| bip_39_word_no_space_10 | physicalvictoryimpulsechurntoeexecutecliffwishechoslender |  
+| bip_39_word_no_space_11 | physicalvictoryimpulsechurntoeexecutecliffwishechoslenderdisagree |  
+| bip_39_word_no_space_12 | physicalvictoryimpulsechurntoeexecutecliffwishechoslenderdisagreeamused |  
+| bip_39_word_no_space_2 | physicalvictory |  
+| bip_39_word_no_space_3 | physicalvictoryimpulse |  
+| bip_39_word_no_space_4 | physicalvictoryimpulsechurn |  
+| bip_39_word_no_space_5 | physicalvictoryimpulsechurntoe |  
+| bip_39_word_no_space_6 | physicalvictoryimpulsechurntoeexecute |  
+| bip_39_word_no_space_7 | physicalvictoryimpulsechurntoeexecutecliff |  
+| bip_39_word_no_space_8 | physicalvictoryimpulsechurntoeexecutecliffwish |  
+| bip_39_word_no_space_9 | physicalvictoryimpulsechurntoeexecutecliffwishecho |  
 | bip_39_word_space_0 | ['physical', 'victory', 'impulse', 'churn', 'toe', 'execute', 'cliff', 'wish', 'echo', 'slender', 'disagree', 'amused'] |  
 | bip_39_word_space_1 | physical |  
 | bip_39_word_space_10 | physical victory impulse churn toe execute cliff wish echo slender |  

@@ -122,6 +122,18 @@ dust
 cupboard
 reflect
 maid |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shaftquantumtitledilemmameandustcupboardreflectmaidrequire |  
+| bip_39_word_no_space_11 | shaftquantumtitledilemmameandustcupboardreflectmaidrequireradio |  
+| bip_39_word_no_space_12 | shaftquantumtitledilemmameandustcupboardreflectmaidrequireradioappear |  
+| bip_39_word_no_space_2 | shaftquantum |  
+| bip_39_word_no_space_3 | shaftquantumtitle |  
+| bip_39_word_no_space_4 | shaftquantumtitledilemma |  
+| bip_39_word_no_space_5 | shaftquantumtitledilemmamean |  
+| bip_39_word_no_space_6 | shaftquantumtitledilemmameandust |  
+| bip_39_word_no_space_7 | shaftquantumtitledilemmameandustcupboard |  
+| bip_39_word_no_space_8 | shaftquantumtitledilemmameandustcupboardreflect |  
+| bip_39_word_no_space_9 | shaftquantumtitledilemmameandustcupboardreflectmaid |  
 | bip_39_word_space_0 | ['shaft', 'quantum', 'title', 'dilemma', 'mean', 'dust', 'cupboard', 'reflect', 'maid', 'require', 'radio', 'appear'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft quantum title dilemma mean dust cupboard reflect maid require |  

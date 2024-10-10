@@ -122,6 +122,18 @@ actress
 either
 melt
 sauce |  
+| bip_39_word_no_space_1 | sugar |  
+| bip_39_word_no_space_10 | sugarguardglancesinglonelyactresseithermeltsauceend |  
+| bip_39_word_no_space_11 | sugarguardglancesinglonelyactresseithermeltsauceenddinner |  
+| bip_39_word_no_space_12 | sugarguardglancesinglonelyactresseithermeltsauceenddinnerantique |  
+| bip_39_word_no_space_2 | sugarguard |  
+| bip_39_word_no_space_3 | sugarguardglance |  
+| bip_39_word_no_space_4 | sugarguardglancesing |  
+| bip_39_word_no_space_5 | sugarguardglancesinglonely |  
+| bip_39_word_no_space_6 | sugarguardglancesinglonelyactress |  
+| bip_39_word_no_space_7 | sugarguardglancesinglonelyactresseither |  
+| bip_39_word_no_space_8 | sugarguardglancesinglonelyactresseithermelt |  
+| bip_39_word_no_space_9 | sugarguardglancesinglonelyactresseithermeltsauce |  
 | bip_39_word_space_0 | ['sugar', 'guard', 'glance', 'sing', 'lonely', 'actress', 'either', 'melt', 'sauce', 'end', 'dinner', 'antique'] |  
 | bip_39_word_space_1 | sugar |  
 | bip_39_word_space_10 | sugar guard glance sing lonely actress either melt sauce end |  

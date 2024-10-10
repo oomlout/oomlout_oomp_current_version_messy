@@ -122,6 +122,18 @@ teach
 relax
 replace
 assist |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federalfortunesteaktattoofaithteachrelaxreplaceassistmidnight |  
+| bip_39_word_no_space_11 | federalfortunesteaktattoofaithteachrelaxreplaceassistmidnightdanger |  
+| bip_39_word_no_space_12 | federalfortunesteaktattoofaithteachrelaxreplaceassistmidnightdangeraccident |  
+| bip_39_word_no_space_2 | federalfortune |  
+| bip_39_word_no_space_3 | federalfortunesteak |  
+| bip_39_word_no_space_4 | federalfortunesteaktattoo |  
+| bip_39_word_no_space_5 | federalfortunesteaktattoofaith |  
+| bip_39_word_no_space_6 | federalfortunesteaktattoofaithteach |  
+| bip_39_word_no_space_7 | federalfortunesteaktattoofaithteachrelax |  
+| bip_39_word_no_space_8 | federalfortunesteaktattoofaithteachrelaxreplace |  
+| bip_39_word_no_space_9 | federalfortunesteaktattoofaithteachrelaxreplaceassist |  
 | bip_39_word_space_0 | ['federal', 'fortune', 'steak', 'tattoo', 'faith', 'teach', 'relax', 'replace', 'assist', 'midnight', 'danger', 'accident'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal fortune steak tattoo faith teach relax replace assist midnight |  

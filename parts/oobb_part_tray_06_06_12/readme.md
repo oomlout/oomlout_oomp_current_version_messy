@@ -122,6 +122,18 @@ rent
 wool
 junk
 furnace |  
+| bip_39_word_no_space_1 | trust |  
+| bip_39_word_no_space_10 | trustmotiongadgetroomtumblerentwooljunkfurnacespray |  
+| bip_39_word_no_space_11 | trustmotiongadgetroomtumblerentwooljunkfurnacesprayround |  
+| bip_39_word_no_space_12 | trustmotiongadgetroomtumblerentwooljunkfurnacesprayroundacquire |  
+| bip_39_word_no_space_2 | trustmotion |  
+| bip_39_word_no_space_3 | trustmotiongadget |  
+| bip_39_word_no_space_4 | trustmotiongadgetroom |  
+| bip_39_word_no_space_5 | trustmotiongadgetroomtumble |  
+| bip_39_word_no_space_6 | trustmotiongadgetroomtumblerent |  
+| bip_39_word_no_space_7 | trustmotiongadgetroomtumblerentwool |  
+| bip_39_word_no_space_8 | trustmotiongadgetroomtumblerentwooljunk |  
+| bip_39_word_no_space_9 | trustmotiongadgetroomtumblerentwooljunkfurnace |  
 | bip_39_word_space_0 | ['trust', 'motion', 'gadget', 'room', 'tumble', 'rent', 'wool', 'junk', 'furnace', 'spray', 'round', 'acquire'] |  
 | bip_39_word_space_1 | trust |  
 | bip_39_word_space_10 | trust motion gadget room tumble rent wool junk furnace spray |  

@@ -122,6 +122,18 @@ raise
 cotton
 such
 math |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familymeshsavedraftarmorraisecottonsuchmathsmall |  
+| bip_39_word_no_space_11 | familymeshsavedraftarmorraisecottonsuchmathsmallshop |  
+| bip_39_word_no_space_12 | familymeshsavedraftarmorraisecottonsuchmathsmallshoparch |  
+| bip_39_word_no_space_2 | familymesh |  
+| bip_39_word_no_space_3 | familymeshsave |  
+| bip_39_word_no_space_4 | familymeshsavedraft |  
+| bip_39_word_no_space_5 | familymeshsavedraftarmor |  
+| bip_39_word_no_space_6 | familymeshsavedraftarmorraise |  
+| bip_39_word_no_space_7 | familymeshsavedraftarmorraisecotton |  
+| bip_39_word_no_space_8 | familymeshsavedraftarmorraisecottonsuch |  
+| bip_39_word_no_space_9 | familymeshsavedraftarmorraisecottonsuchmath |  
 | bip_39_word_space_0 | ['family', 'mesh', 'save', 'draft', 'armor', 'raise', 'cotton', 'such', 'math', 'small', 'shop', 'arch'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family mesh save draft armor raise cotton such math small |  

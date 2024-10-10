@@ -122,6 +122,18 @@ immune
 cannon
 math
 portion |  
+| bip_39_word_no_space_1 | connect |  
+| bip_39_word_no_space_10 | connectgiantimmensegrassmuseumimmunecannonmathportionexile |  
+| bip_39_word_no_space_11 | connectgiantimmensegrassmuseumimmunecannonmathportionexilegarden |  
+| bip_39_word_no_space_12 | connectgiantimmensegrassmuseumimmunecannonmathportionexilegardenanimal |  
+| bip_39_word_no_space_2 | connectgiant |  
+| bip_39_word_no_space_3 | connectgiantimmense |  
+| bip_39_word_no_space_4 | connectgiantimmensegrass |  
+| bip_39_word_no_space_5 | connectgiantimmensegrassmuseum |  
+| bip_39_word_no_space_6 | connectgiantimmensegrassmuseumimmune |  
+| bip_39_word_no_space_7 | connectgiantimmensegrassmuseumimmunecannon |  
+| bip_39_word_no_space_8 | connectgiantimmensegrassmuseumimmunecannonmath |  
+| bip_39_word_no_space_9 | connectgiantimmensegrassmuseumimmunecannonmathportion |  
 | bip_39_word_space_0 | ['connect', 'giant', 'immense', 'grass', 'museum', 'immune', 'cannon', 'math', 'portion', 'exile', 'garden', 'animal'] |  
 | bip_39_word_space_1 | connect |  
 | bip_39_word_space_10 | connect giant immense grass museum immune cannon math portion exile |  

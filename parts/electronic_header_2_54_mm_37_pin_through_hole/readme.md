@@ -122,6 +122,18 @@ nature
 kind
 egg
 click |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistoldocumentdaringoctoberrigidnaturekindeggclickmethod |  
+| bip_39_word_no_space_11 | pistoldocumentdaringoctoberrigidnaturekindeggclickmethodremove |  
+| bip_39_word_no_space_12 | pistoldocumentdaringoctoberrigidnaturekindeggclickmethodremoveabstract |  
+| bip_39_word_no_space_2 | pistoldocument |  
+| bip_39_word_no_space_3 | pistoldocumentdaring |  
+| bip_39_word_no_space_4 | pistoldocumentdaringoctober |  
+| bip_39_word_no_space_5 | pistoldocumentdaringoctoberrigid |  
+| bip_39_word_no_space_6 | pistoldocumentdaringoctoberrigidnature |  
+| bip_39_word_no_space_7 | pistoldocumentdaringoctoberrigidnaturekind |  
+| bip_39_word_no_space_8 | pistoldocumentdaringoctoberrigidnaturekindegg |  
+| bip_39_word_no_space_9 | pistoldocumentdaringoctoberrigidnaturekindeggclick |  
 | bip_39_word_space_0 | ['pistol', 'document', 'daring', 'october', 'rigid', 'nature', 'kind', 'egg', 'click', 'method', 'remove', 'abstract'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol document daring october rigid nature kind egg click method |  

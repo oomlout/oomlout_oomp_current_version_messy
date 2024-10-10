@@ -122,6 +122,18 @@ repair
 envelope
 danger
 old |  
+| bip_39_word_no_space_1 | apple |  
+| bip_39_word_no_space_10 | applefineopinioncrispmarketrepairenvelopedangeroldfollow |  
+| bip_39_word_no_space_11 | applefineopinioncrispmarketrepairenvelopedangeroldfollowjelly |  
+| bip_39_word_no_space_12 | applefineopinioncrispmarketrepairenvelopedangeroldfollowjellyaspect |  
+| bip_39_word_no_space_2 | applefine |  
+| bip_39_word_no_space_3 | applefineopinion |  
+| bip_39_word_no_space_4 | applefineopinioncrisp |  
+| bip_39_word_no_space_5 | applefineopinioncrispmarket |  
+| bip_39_word_no_space_6 | applefineopinioncrispmarketrepair |  
+| bip_39_word_no_space_7 | applefineopinioncrispmarketrepairenvelope |  
+| bip_39_word_no_space_8 | applefineopinioncrispmarketrepairenvelopedanger |  
+| bip_39_word_no_space_9 | applefineopinioncrispmarketrepairenvelopedangerold |  
 | bip_39_word_space_0 | ['apple', 'fine', 'opinion', 'crisp', 'market', 'repair', 'envelope', 'danger', 'old', 'follow', 'jelly', 'aspect'] |  
 | bip_39_word_space_1 | apple |  
 | bip_39_word_space_10 | apple fine opinion crisp market repair envelope danger old follow |  

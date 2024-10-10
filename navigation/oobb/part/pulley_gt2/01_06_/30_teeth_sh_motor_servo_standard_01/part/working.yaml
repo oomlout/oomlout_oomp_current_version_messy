@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'battle
   sell
 
   space'
+bip_39_word_no_space_1: battle
+bip_39_word_no_space_10: battlefrogtrophyreviewfataloverburdensellspacemillion
+bip_39_word_no_space_11: battlefrogtrophyreviewfataloverburdensellspacemillionsunset
+bip_39_word_no_space_12: battlefrogtrophyreviewfataloverburdensellspacemillionsunsetaunt
+bip_39_word_no_space_2: battlefrog
+bip_39_word_no_space_3: battlefrogtrophy
+bip_39_word_no_space_4: battlefrogtrophyreview
+bip_39_word_no_space_5: battlefrogtrophyreviewfatal
+bip_39_word_no_space_6: battlefrogtrophyreviewfatalover
+bip_39_word_no_space_7: battlefrogtrophyreviewfataloverburden
+bip_39_word_no_space_8: battlefrogtrophyreviewfataloverburdensell
+bip_39_word_no_space_9: battlefrogtrophyreviewfataloverburdensellspace
 bip_39_word_space_0:
 - battle
 - frog

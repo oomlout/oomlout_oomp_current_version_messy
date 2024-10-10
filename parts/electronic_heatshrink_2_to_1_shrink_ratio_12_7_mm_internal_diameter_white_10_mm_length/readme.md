@@ -122,6 +122,18 @@ method
 evidence
 pink
 between |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jewelexpirepianoteamundermethodevidencepinkbetweenmust |  
+| bip_39_word_no_space_11 | jewelexpirepianoteamundermethodevidencepinkbetweenmusttrack |  
+| bip_39_word_no_space_12 | jewelexpirepianoteamundermethodevidencepinkbetweenmusttrackattitude |  
+| bip_39_word_no_space_2 | jewelexpire |  
+| bip_39_word_no_space_3 | jewelexpirepiano |  
+| bip_39_word_no_space_4 | jewelexpirepianoteam |  
+| bip_39_word_no_space_5 | jewelexpirepianoteamunder |  
+| bip_39_word_no_space_6 | jewelexpirepianoteamundermethod |  
+| bip_39_word_no_space_7 | jewelexpirepianoteamundermethodevidence |  
+| bip_39_word_no_space_8 | jewelexpirepianoteamundermethodevidencepink |  
+| bip_39_word_no_space_9 | jewelexpirepianoteamundermethodevidencepinkbetween |  
 | bip_39_word_space_0 | ['jewel', 'expire', 'piano', 'team', 'under', 'method', 'evidence', 'pink', 'between', 'must', 'track', 'attitude'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel expire piano team under method evidence pink between must |  

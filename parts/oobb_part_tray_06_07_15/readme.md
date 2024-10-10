@@ -122,6 +122,18 @@ run
 fruit
 used
 copy |  
+| bip_39_word_no_space_1 | tonight |  
+| bip_39_word_no_space_10 | tonightgaugebehavetumbleinformrunfruitusedcopymeadow |  
+| bip_39_word_no_space_11 | tonightgaugebehavetumbleinformrunfruitusedcopymeadowanalyst |  
+| bip_39_word_no_space_12 | tonightgaugebehavetumbleinformrunfruitusedcopymeadowanalystagent |  
+| bip_39_word_no_space_2 | tonightgauge |  
+| bip_39_word_no_space_3 | tonightgaugebehave |  
+| bip_39_word_no_space_4 | tonightgaugebehavetumble |  
+| bip_39_word_no_space_5 | tonightgaugebehavetumbleinform |  
+| bip_39_word_no_space_6 | tonightgaugebehavetumbleinformrun |  
+| bip_39_word_no_space_7 | tonightgaugebehavetumbleinformrunfruit |  
+| bip_39_word_no_space_8 | tonightgaugebehavetumbleinformrunfruitused |  
+| bip_39_word_no_space_9 | tonightgaugebehavetumbleinformrunfruitusedcopy |  
 | bip_39_word_space_0 | ['tonight', 'gauge', 'behave', 'tumble', 'inform', 'run', 'fruit', 'used', 'copy', 'meadow', 'analyst', 'agent'] |  
 | bip_39_word_space_1 | tonight |  
 | bip_39_word_space_10 | tonight gauge behave tumble inform run fruit used copy meadow |  

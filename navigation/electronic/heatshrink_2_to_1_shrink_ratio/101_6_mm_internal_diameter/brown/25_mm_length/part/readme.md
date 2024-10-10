@@ -122,6 +122,18 @@ demise
 joy
 improve
 expand |  
+| bip_39_word_no_space_1 | hard |  
+| bip_39_word_no_space_10 | hardruralguardgirlbossdemisejoyimproveexpandname |  
+| bip_39_word_no_space_11 | hardruralguardgirlbossdemisejoyimproveexpandnameeager |  
+| bip_39_word_no_space_12 | hardruralguardgirlbossdemisejoyimproveexpandnameeagerany |  
+| bip_39_word_no_space_2 | hardrural |  
+| bip_39_word_no_space_3 | hardruralguard |  
+| bip_39_word_no_space_4 | hardruralguardgirl |  
+| bip_39_word_no_space_5 | hardruralguardgirlboss |  
+| bip_39_word_no_space_6 | hardruralguardgirlbossdemise |  
+| bip_39_word_no_space_7 | hardruralguardgirlbossdemisejoy |  
+| bip_39_word_no_space_8 | hardruralguardgirlbossdemisejoyimprove |  
+| bip_39_word_no_space_9 | hardruralguardgirlbossdemisejoyimproveexpand |  
 | bip_39_word_space_0 | ['hard', 'rural', 'guard', 'girl', 'boss', 'demise', 'joy', 'improve', 'expand', 'name', 'eager', 'any'] |  
 | bip_39_word_space_1 | hard |  
 | bip_39_word_space_10 | hard rural guard girl boss demise joy improve expand name |  

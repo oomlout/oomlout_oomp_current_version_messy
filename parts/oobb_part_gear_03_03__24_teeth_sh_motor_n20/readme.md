@@ -122,6 +122,18 @@ submit
 fresh
 panda
 more |  
+| bip_39_word_no_space_1 | vendor |  
+| bip_39_word_no_space_10 | vendorecologymoonfeaturefootsubmitfreshpandamorecamera |  
+| bip_39_word_no_space_11 | vendorecologymoonfeaturefootsubmitfreshpandamorecamerathrive |  
+| bip_39_word_no_space_12 | vendorecologymoonfeaturefootsubmitfreshpandamorecamerathrivearmed |  
+| bip_39_word_no_space_2 | vendorecology |  
+| bip_39_word_no_space_3 | vendorecologymoon |  
+| bip_39_word_no_space_4 | vendorecologymoonfeature |  
+| bip_39_word_no_space_5 | vendorecologymoonfeaturefoot |  
+| bip_39_word_no_space_6 | vendorecologymoonfeaturefootsubmit |  
+| bip_39_word_no_space_7 | vendorecologymoonfeaturefootsubmitfresh |  
+| bip_39_word_no_space_8 | vendorecologymoonfeaturefootsubmitfreshpanda |  
+| bip_39_word_no_space_9 | vendorecologymoonfeaturefootsubmitfreshpandamore |  
 | bip_39_word_space_0 | ['vendor', 'ecology', 'moon', 'feature', 'foot', 'submit', 'fresh', 'panda', 'more', 'camera', 'thrive', 'armed'] |  
 | bip_39_word_space_1 | vendor |  
 | bip_39_word_space_10 | vendor ecology moon feature foot submit fresh panda more camera |  

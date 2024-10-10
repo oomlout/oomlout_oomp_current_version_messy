@@ -122,6 +122,18 @@ curtain
 tenant
 creek
 cluster |  
+| bip_39_word_no_space_1 | phrase |  
+| bip_39_word_no_space_10 | phrasedomainfirstwitnessmomentcurtaintenantcreekclusteraspect |  
+| bip_39_word_no_space_11 | phrasedomainfirstwitnessmomentcurtaintenantcreekclusteraspectchalk |  
+| bip_39_word_no_space_12 | phrasedomainfirstwitnessmomentcurtaintenantcreekclusteraspectchalkalarm |  
+| bip_39_word_no_space_2 | phrasedomain |  
+| bip_39_word_no_space_3 | phrasedomainfirst |  
+| bip_39_word_no_space_4 | phrasedomainfirstwitness |  
+| bip_39_word_no_space_5 | phrasedomainfirstwitnessmoment |  
+| bip_39_word_no_space_6 | phrasedomainfirstwitnessmomentcurtain |  
+| bip_39_word_no_space_7 | phrasedomainfirstwitnessmomentcurtaintenant |  
+| bip_39_word_no_space_8 | phrasedomainfirstwitnessmomentcurtaintenantcreek |  
+| bip_39_word_no_space_9 | phrasedomainfirstwitnessmomentcurtaintenantcreekcluster |  
 | bip_39_word_space_0 | ['phrase', 'domain', 'first', 'witness', 'moment', 'curtain', 'tenant', 'creek', 'cluster', 'aspect', 'chalk', 'alarm'] |  
 | bip_39_word_space_1 | phrase |  
 | bip_39_word_space_10 | phrase domain first witness moment curtain tenant creek cluster aspect |  

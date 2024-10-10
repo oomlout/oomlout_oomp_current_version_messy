@@ -122,6 +122,18 @@ expand
 tomato
 topple
 sight |  
+| bip_39_word_no_space_1 | enjoy |  
+| bip_39_word_no_space_10 | enjoychucklerallyoutsidelearnexpandtomatotopplesightstumble |  
+| bip_39_word_no_space_11 | enjoychucklerallyoutsidelearnexpandtomatotopplesightstumbleundo |  
+| bip_39_word_no_space_12 | enjoychucklerallyoutsidelearnexpandtomatotopplesightstumbleundoany |  
+| bip_39_word_no_space_2 | enjoychuckle |  
+| bip_39_word_no_space_3 | enjoychucklerally |  
+| bip_39_word_no_space_4 | enjoychucklerallyoutside |  
+| bip_39_word_no_space_5 | enjoychucklerallyoutsidelearn |  
+| bip_39_word_no_space_6 | enjoychucklerallyoutsidelearnexpand |  
+| bip_39_word_no_space_7 | enjoychucklerallyoutsidelearnexpandtomato |  
+| bip_39_word_no_space_8 | enjoychucklerallyoutsidelearnexpandtomatotopple |  
+| bip_39_word_no_space_9 | enjoychucklerallyoutsidelearnexpandtomatotopplesight |  
 | bip_39_word_space_0 | ['enjoy', 'chuckle', 'rally', 'outside', 'learn', 'expand', 'tomato', 'topple', 'sight', 'stumble', 'undo', 'any'] |  
 | bip_39_word_space_1 | enjoy |  
 | bip_39_word_space_10 | enjoy chuckle rally outside learn expand tomato topple sight stumble |  

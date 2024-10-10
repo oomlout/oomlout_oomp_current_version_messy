@@ -122,6 +122,18 @@ daring
 ribbon
 slow
 team |  
+| bip_39_word_no_space_1 | tenant |  
+| bip_39_word_no_space_10 | tenantconsiderstereoaskcommondaringribbonslowteamdrop |  
+| bip_39_word_no_space_11 | tenantconsiderstereoaskcommondaringribbonslowteamdropcool |  
+| bip_39_word_no_space_12 | tenantconsiderstereoaskcommondaringribbonslowteamdropcoolarmy |  
+| bip_39_word_no_space_2 | tenantconsider |  
+| bip_39_word_no_space_3 | tenantconsiderstereo |  
+| bip_39_word_no_space_4 | tenantconsiderstereoask |  
+| bip_39_word_no_space_5 | tenantconsiderstereoaskcommon |  
+| bip_39_word_no_space_6 | tenantconsiderstereoaskcommondaring |  
+| bip_39_word_no_space_7 | tenantconsiderstereoaskcommondaringribbon |  
+| bip_39_word_no_space_8 | tenantconsiderstereoaskcommondaringribbonslow |  
+| bip_39_word_no_space_9 | tenantconsiderstereoaskcommondaringribbonslowteam |  
 | bip_39_word_space_0 | ['tenant', 'consider', 'stereo', 'ask', 'common', 'daring', 'ribbon', 'slow', 'team', 'drop', 'cool', 'army'] |  
 | bip_39_word_space_1 | tenant |  
 | bip_39_word_space_10 | tenant consider stereo ask common daring ribbon slow team drop |  

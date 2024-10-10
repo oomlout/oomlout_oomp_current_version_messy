@@ -122,6 +122,18 @@ range
 spawn
 hen
 refuse |  
+| bip_39_word_no_space_1 | convince |  
+| bip_39_word_no_space_10 | convincesolarcratermissnoodlerangespawnhenrefusejoy |  
+| bip_39_word_no_space_11 | convincesolarcratermissnoodlerangespawnhenrefusejoyinnocent |  
+| bip_39_word_no_space_12 | convincesolarcratermissnoodlerangespawnhenrefusejoyinnocentaction |  
+| bip_39_word_no_space_2 | convincesolar |  
+| bip_39_word_no_space_3 | convincesolarcrater |  
+| bip_39_word_no_space_4 | convincesolarcratermiss |  
+| bip_39_word_no_space_5 | convincesolarcratermissnoodle |  
+| bip_39_word_no_space_6 | convincesolarcratermissnoodlerange |  
+| bip_39_word_no_space_7 | convincesolarcratermissnoodlerangespawn |  
+| bip_39_word_no_space_8 | convincesolarcratermissnoodlerangespawnhen |  
+| bip_39_word_no_space_9 | convincesolarcratermissnoodlerangespawnhenrefuse |  
 | bip_39_word_space_0 | ['convince', 'solar', 'crater', 'miss', 'noodle', 'range', 'spawn', 'hen', 'refuse', 'joy', 'innocent', 'action'] |  
 | bip_39_word_space_1 | convince |  
 | bip_39_word_space_10 | convince solar crater miss noodle range spawn hen refuse joy |  

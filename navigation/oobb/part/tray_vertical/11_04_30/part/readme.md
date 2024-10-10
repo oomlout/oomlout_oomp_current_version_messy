@@ -122,6 +122,18 @@ course
 blood
 charge
 peace |  
+| bip_39_word_no_space_1 | regret |  
+| bip_39_word_no_space_10 | regretenacttwentylimbchasecoursebloodchargepeacehockey |  
+| bip_39_word_no_space_11 | regretenacttwentylimbchasecoursebloodchargepeacehockeyactor |  
+| bip_39_word_no_space_12 | regretenacttwentylimbchasecoursebloodchargepeacehockeyactorangry |  
+| bip_39_word_no_space_2 | regretenact |  
+| bip_39_word_no_space_3 | regretenacttwenty |  
+| bip_39_word_no_space_4 | regretenacttwentylimb |  
+| bip_39_word_no_space_5 | regretenacttwentylimbchase |  
+| bip_39_word_no_space_6 | regretenacttwentylimbchasecourse |  
+| bip_39_word_no_space_7 | regretenacttwentylimbchasecourseblood |  
+| bip_39_word_no_space_8 | regretenacttwentylimbchasecoursebloodcharge |  
+| bip_39_word_no_space_9 | regretenacttwentylimbchasecoursebloodchargepeace |  
 | bip_39_word_space_0 | ['regret', 'enact', 'twenty', 'limb', 'chase', 'course', 'blood', 'charge', 'peace', 'hockey', 'actor', 'angry'] |  
 | bip_39_word_space_1 | regret |  
 | bip_39_word_space_10 | regret enact twenty limb chase course blood charge peace hockey |  

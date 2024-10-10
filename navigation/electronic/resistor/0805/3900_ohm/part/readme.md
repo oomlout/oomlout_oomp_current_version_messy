@@ -122,6 +122,18 @@ tag
 dog
 cabin
 myself |  
+| bip_39_word_no_space_1 | rookie |  
+| bip_39_word_no_space_10 | rookielessonpitchexistlotterytagdogcabinmyselftwenty |  
+| bip_39_word_no_space_11 | rookielessonpitchexistlotterytagdogcabinmyselftwentymonkey |  
+| bip_39_word_no_space_12 | rookielessonpitchexistlotterytagdogcabinmyselftwentymonkeyabsurd |  
+| bip_39_word_no_space_2 | rookielesson |  
+| bip_39_word_no_space_3 | rookielessonpitch |  
+| bip_39_word_no_space_4 | rookielessonpitchexist |  
+| bip_39_word_no_space_5 | rookielessonpitchexistlottery |  
+| bip_39_word_no_space_6 | rookielessonpitchexistlotterytag |  
+| bip_39_word_no_space_7 | rookielessonpitchexistlotterytagdog |  
+| bip_39_word_no_space_8 | rookielessonpitchexistlotterytagdogcabin |  
+| bip_39_word_no_space_9 | rookielessonpitchexistlotterytagdogcabinmyself |  
 | bip_39_word_space_0 | ['rookie', 'lesson', 'pitch', 'exist', 'lottery', 'tag', 'dog', 'cabin', 'myself', 'twenty', 'monkey', 'absurd'] |  
 | bip_39_word_space_1 | rookie |  
 | bip_39_word_space_10 | rookie lesson pitch exist lottery tag dog cabin myself twenty |  

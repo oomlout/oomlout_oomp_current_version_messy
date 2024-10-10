@@ -122,6 +122,18 @@ clock
 multiply
 manage
 humor |  
+| bip_39_word_no_space_1 | artwork |  
+| bip_39_word_no_space_10 | artworklinknephewfantasyceleryclockmultiplymanagehumorjob |  
+| bip_39_word_no_space_11 | artworklinknephewfantasyceleryclockmultiplymanagehumorjobblame |  
+| bip_39_word_no_space_12 | artworklinknephewfantasyceleryclockmultiplymanagehumorjobblameannual |  
+| bip_39_word_no_space_2 | artworklink |  
+| bip_39_word_no_space_3 | artworklinknephew |  
+| bip_39_word_no_space_4 | artworklinknephewfantasy |  
+| bip_39_word_no_space_5 | artworklinknephewfantasycelery |  
+| bip_39_word_no_space_6 | artworklinknephewfantasyceleryclock |  
+| bip_39_word_no_space_7 | artworklinknephewfantasyceleryclockmultiply |  
+| bip_39_word_no_space_8 | artworklinknephewfantasyceleryclockmultiplymanage |  
+| bip_39_word_no_space_9 | artworklinknephewfantasyceleryclockmultiplymanagehumor |  
 | bip_39_word_space_0 | ['artwork', 'link', 'nephew', 'fantasy', 'celery', 'clock', 'multiply', 'manage', 'humor', 'job', 'blame', 'annual'] |  
 | bip_39_word_space_1 | artwork |  
 | bip_39_word_space_10 | artwork link nephew fantasy celery clock multiply manage humor job |  

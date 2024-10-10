@@ -122,6 +122,18 @@ perfect
 soul
 hole
 maid |  
+| bip_39_word_no_space_1 | hedgehog |  
+| bip_39_word_no_space_10 | hedgehogfaultportiondepthislandperfectsoulholemaidplease |  
+| bip_39_word_no_space_11 | hedgehogfaultportiondepthislandperfectsoulholemaidpleasetop |  
+| bip_39_word_no_space_12 | hedgehogfaultportiondepthislandperfectsoulholemaidpleasetopadvice |  
+| bip_39_word_no_space_2 | hedgehogfault |  
+| bip_39_word_no_space_3 | hedgehogfaultportion |  
+| bip_39_word_no_space_4 | hedgehogfaultportiondepth |  
+| bip_39_word_no_space_5 | hedgehogfaultportiondepthisland |  
+| bip_39_word_no_space_6 | hedgehogfaultportiondepthislandperfect |  
+| bip_39_word_no_space_7 | hedgehogfaultportiondepthislandperfectsoul |  
+| bip_39_word_no_space_8 | hedgehogfaultportiondepthislandperfectsoulhole |  
+| bip_39_word_no_space_9 | hedgehogfaultportiondepthislandperfectsoulholemaid |  
 | bip_39_word_space_0 | ['hedgehog', 'fault', 'portion', 'depth', 'island', 'perfect', 'soul', 'hole', 'maid', 'please', 'top', 'advice'] |  
 | bip_39_word_space_1 | hedgehog |  
 | bip_39_word_space_10 | hedgehog fault portion depth island perfect soul hole maid please |  

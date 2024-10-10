@@ -122,6 +122,18 @@ small
 voyage
 flower
 hard |  
+| bip_39_word_no_space_1 | wool |  
+| bip_39_word_no_space_10 | woolicepostorphanmobilesmallvoyageflowerhardreal |  
+| bip_39_word_no_space_11 | woolicepostorphanmobilesmallvoyageflowerhardrealwarm |  
+| bip_39_word_no_space_12 | woolicepostorphanmobilesmallvoyageflowerhardrealwarmarrow |  
+| bip_39_word_no_space_2 | woolice |  
+| bip_39_word_no_space_3 | woolicepost |  
+| bip_39_word_no_space_4 | woolicepostorphan |  
+| bip_39_word_no_space_5 | woolicepostorphanmobile |  
+| bip_39_word_no_space_6 | woolicepostorphanmobilesmall |  
+| bip_39_word_no_space_7 | woolicepostorphanmobilesmallvoyage |  
+| bip_39_word_no_space_8 | woolicepostorphanmobilesmallvoyageflower |  
+| bip_39_word_no_space_9 | woolicepostorphanmobilesmallvoyageflowerhard |  
 | bip_39_word_space_0 | ['wool', 'ice', 'post', 'orphan', 'mobile', 'small', 'voyage', 'flower', 'hard', 'real', 'warm', 'arrow'] |  
 | bip_39_word_space_1 | wool |  
 | bip_39_word_space_10 | wool ice post orphan mobile small voyage flower hard real |  

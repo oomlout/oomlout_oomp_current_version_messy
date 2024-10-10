@@ -122,6 +122,18 @@ swamp
 dwarf
 sail
 cloth |  
+| bip_39_word_no_space_1 | clown |  
+| bip_39_word_no_space_10 | clownuniverseannouncetenantwolfswampdwarfsailclothmonkey |  
+| bip_39_word_no_space_11 | clownuniverseannouncetenantwolfswampdwarfsailclothmonkeyshallow |  
+| bip_39_word_no_space_12 | clownuniverseannouncetenantwolfswampdwarfsailclothmonkeyshallowactress |  
+| bip_39_word_no_space_2 | clownuniverse |  
+| bip_39_word_no_space_3 | clownuniverseannounce |  
+| bip_39_word_no_space_4 | clownuniverseannouncetenant |  
+| bip_39_word_no_space_5 | clownuniverseannouncetenantwolf |  
+| bip_39_word_no_space_6 | clownuniverseannouncetenantwolfswamp |  
+| bip_39_word_no_space_7 | clownuniverseannouncetenantwolfswampdwarf |  
+| bip_39_word_no_space_8 | clownuniverseannouncetenantwolfswampdwarfsail |  
+| bip_39_word_no_space_9 | clownuniverseannouncetenantwolfswampdwarfsailcloth |  
 | bip_39_word_space_0 | ['clown', 'universe', 'announce', 'tenant', 'wolf', 'swamp', 'dwarf', 'sail', 'cloth', 'monkey', 'shallow', 'actress'] |  
 | bip_39_word_space_1 | clown |  
 | bip_39_word_space_10 | clown universe announce tenant wolf swamp dwarf sail cloth monkey |  

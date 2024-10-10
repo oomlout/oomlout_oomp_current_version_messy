@@ -122,6 +122,18 @@ rhythm
 chapter
 sign
 filter |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offtrustcrewlatinminorrhythmchaptersignfilterloud |  
+| bip_39_word_no_space_11 | offtrustcrewlatinminorrhythmchaptersignfilterlouddisplay |  
+| bip_39_word_no_space_12 | offtrustcrewlatinminorrhythmchaptersignfilterlouddisplayamong |  
+| bip_39_word_no_space_2 | offtrust |  
+| bip_39_word_no_space_3 | offtrustcrew |  
+| bip_39_word_no_space_4 | offtrustcrewlatin |  
+| bip_39_word_no_space_5 | offtrustcrewlatinminor |  
+| bip_39_word_no_space_6 | offtrustcrewlatinminorrhythm |  
+| bip_39_word_no_space_7 | offtrustcrewlatinminorrhythmchapter |  
+| bip_39_word_no_space_8 | offtrustcrewlatinminorrhythmchaptersign |  
+| bip_39_word_no_space_9 | offtrustcrewlatinminorrhythmchaptersignfilter |  
 | bip_39_word_space_0 | ['off', 'trust', 'crew', 'latin', 'minor', 'rhythm', 'chapter', 'sign', 'filter', 'loud', 'display', 'among'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off trust crew latin minor rhythm chapter sign filter loud |  

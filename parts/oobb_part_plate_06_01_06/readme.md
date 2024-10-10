@@ -122,6 +122,18 @@ safe
 lunch
 blur
 reunion |  
+| bip_39_word_no_space_1 | pink |  
+| bip_39_word_no_space_10 | pinkquantumideaevolveshufflesafelunchblurreunionhire |  
+| bip_39_word_no_space_11 | pinkquantumideaevolveshufflesafelunchblurreunionhirerandom |  
+| bip_39_word_no_space_12 | pinkquantumideaevolveshufflesafelunchblurreunionhirerandomaddict |  
+| bip_39_word_no_space_2 | pinkquantum |  
+| bip_39_word_no_space_3 | pinkquantumidea |  
+| bip_39_word_no_space_4 | pinkquantumideaevolve |  
+| bip_39_word_no_space_5 | pinkquantumideaevolveshuffle |  
+| bip_39_word_no_space_6 | pinkquantumideaevolveshufflesafe |  
+| bip_39_word_no_space_7 | pinkquantumideaevolveshufflesafelunch |  
+| bip_39_word_no_space_8 | pinkquantumideaevolveshufflesafelunchblur |  
+| bip_39_word_no_space_9 | pinkquantumideaevolveshufflesafelunchblurreunion |  
 | bip_39_word_space_0 | ['pink', 'quantum', 'idea', 'evolve', 'shuffle', 'safe', 'lunch', 'blur', 'reunion', 'hire', 'random', 'addict'] |  
 | bip_39_word_space_1 | pink |  
 | bip_39_word_space_10 | pink quantum idea evolve shuffle safe lunch blur reunion hire |  

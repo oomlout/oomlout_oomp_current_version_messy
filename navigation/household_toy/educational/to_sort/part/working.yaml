@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fresh
   despair
 
   control'
+bip_39_word_no_space_1: fresh
+bip_39_word_no_space_10: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyond
+bip_39_word_no_space_11: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyondnarrow
+bip_39_word_no_space_12: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyondnarrowabsurd
+bip_39_word_no_space_2: freshcrystal
+bip_39_word_no_space_3: freshcrystaljazz
+bip_39_word_no_space_4: freshcrystaljazztoss
+bip_39_word_no_space_5: freshcrystaljazztosssquare
+bip_39_word_no_space_6: freshcrystaljazztosssquareenjoy
+bip_39_word_no_space_7: freshcrystaljazztosssquareenjoydrift
+bip_39_word_no_space_8: freshcrystaljazztosssquareenjoydriftdespair
+bip_39_word_no_space_9: freshcrystaljazztosssquareenjoydriftdespaircontrol
 bip_39_word_space_0:
 - fresh
 - crystal

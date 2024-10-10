@@ -122,6 +122,18 @@ stay
 deal
 since
 vacuum |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposeownmandatenightbeachstaydealsincevacuumbird |  
+| bip_39_word_no_space_11 | opposeownmandatenightbeachstaydealsincevacuumbirdcode |  
+| bip_39_word_no_space_12 | opposeownmandatenightbeachstaydealsincevacuumbirdcodealarm |  
+| bip_39_word_no_space_2 | opposeown |  
+| bip_39_word_no_space_3 | opposeownmandate |  
+| bip_39_word_no_space_4 | opposeownmandatenight |  
+| bip_39_word_no_space_5 | opposeownmandatenightbeach |  
+| bip_39_word_no_space_6 | opposeownmandatenightbeachstay |  
+| bip_39_word_no_space_7 | opposeownmandatenightbeachstaydeal |  
+| bip_39_word_no_space_8 | opposeownmandatenightbeachstaydealsince |  
+| bip_39_word_no_space_9 | opposeownmandatenightbeachstaydealsincevacuum |  
 | bip_39_word_space_0 | ['oppose', 'own', 'mandate', 'night', 'beach', 'stay', 'deal', 'since', 'vacuum', 'bird', 'code', 'alarm'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose own mandate night beach stay deal since vacuum bird |  

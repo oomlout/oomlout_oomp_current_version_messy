@@ -122,6 +122,18 @@ brain
 tiny
 below
 cupboard |  
+| bip_39_word_no_space_1 | panic |  
+| bip_39_word_no_space_10 | panicfrequentsufferarrowstorybraintinybelowcupboardartwork |  
+| bip_39_word_no_space_11 | panicfrequentsufferarrowstorybraintinybelowcupboardartworkimmense |  
+| bip_39_word_no_space_12 | panicfrequentsufferarrowstorybraintinybelowcupboardartworkimmenseabove |  
+| bip_39_word_no_space_2 | panicfrequent |  
+| bip_39_word_no_space_3 | panicfrequentsuffer |  
+| bip_39_word_no_space_4 | panicfrequentsufferarrow |  
+| bip_39_word_no_space_5 | panicfrequentsufferarrowstory |  
+| bip_39_word_no_space_6 | panicfrequentsufferarrowstorybrain |  
+| bip_39_word_no_space_7 | panicfrequentsufferarrowstorybraintiny |  
+| bip_39_word_no_space_8 | panicfrequentsufferarrowstorybraintinybelow |  
+| bip_39_word_no_space_9 | panicfrequentsufferarrowstorybraintinybelowcupboard |  
 | bip_39_word_space_0 | ['panic', 'frequent', 'suffer', 'arrow', 'story', 'brain', 'tiny', 'below', 'cupboard', 'artwork', 'immense', 'above'] |  
 | bip_39_word_space_1 | panic |  
 | bip_39_word_space_10 | panic frequent suffer arrow story brain tiny below cupboard artwork |  

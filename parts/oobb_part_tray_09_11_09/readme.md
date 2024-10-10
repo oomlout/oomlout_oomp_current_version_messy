@@ -122,6 +122,18 @@ engage
 inject
 fantasy
 mom |  
+| bip_39_word_no_space_1 | stand |  
+| bip_39_word_no_space_10 | standbargainweatherenrollwashengageinjectfantasymominspire |  
+| bip_39_word_no_space_11 | standbargainweatherenrollwashengageinjectfantasymominspiresell |  
+| bip_39_word_no_space_12 | standbargainweatherenrollwashengageinjectfantasymominspiresellamateur |  
+| bip_39_word_no_space_2 | standbargain |  
+| bip_39_word_no_space_3 | standbargainweather |  
+| bip_39_word_no_space_4 | standbargainweatherenroll |  
+| bip_39_word_no_space_5 | standbargainweatherenrollwash |  
+| bip_39_word_no_space_6 | standbargainweatherenrollwashengage |  
+| bip_39_word_no_space_7 | standbargainweatherenrollwashengageinject |  
+| bip_39_word_no_space_8 | standbargainweatherenrollwashengageinjectfantasy |  
+| bip_39_word_no_space_9 | standbargainweatherenrollwashengageinjectfantasymom |  
 | bip_39_word_space_0 | ['stand', 'bargain', 'weather', 'enroll', 'wash', 'engage', 'inject', 'fantasy', 'mom', 'inspire', 'sell', 'amateur'] |  
 | bip_39_word_space_1 | stand |  
 | bip_39_word_space_10 | stand bargain weather enroll wash engage inject fantasy mom inspire |  

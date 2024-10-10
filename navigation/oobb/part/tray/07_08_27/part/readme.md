@@ -122,6 +122,18 @@ rapid
 genius
 cannon
 still |  
+| bip_39_word_no_space_1 | swap |  
+| bip_39_word_no_space_10 | swapcancelanswerunfoldraiserapidgeniuscannonstillpoem |  
+| bip_39_word_no_space_11 | swapcancelanswerunfoldraiserapidgeniuscannonstillpoemmaster |  
+| bip_39_word_no_space_12 | swapcancelanswerunfoldraiserapidgeniuscannonstillpoemmasteranalyst |  
+| bip_39_word_no_space_2 | swapcancel |  
+| bip_39_word_no_space_3 | swapcancelanswer |  
+| bip_39_word_no_space_4 | swapcancelanswerunfold |  
+| bip_39_word_no_space_5 | swapcancelanswerunfoldraise |  
+| bip_39_word_no_space_6 | swapcancelanswerunfoldraiserapid |  
+| bip_39_word_no_space_7 | swapcancelanswerunfoldraiserapidgenius |  
+| bip_39_word_no_space_8 | swapcancelanswerunfoldraiserapidgeniuscannon |  
+| bip_39_word_no_space_9 | swapcancelanswerunfoldraiserapidgeniuscannonstill |  
 | bip_39_word_space_0 | ['swap', 'cancel', 'answer', 'unfold', 'raise', 'rapid', 'genius', 'cannon', 'still', 'poem', 'master', 'analyst'] |  
 | bip_39_word_space_1 | swap |  
 | bip_39_word_space_10 | swap cancel answer unfold raise rapid genius cannon still poem |  

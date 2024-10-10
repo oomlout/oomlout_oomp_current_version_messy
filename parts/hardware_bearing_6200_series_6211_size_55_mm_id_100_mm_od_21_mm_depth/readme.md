@@ -122,6 +122,18 @@ enjoy
 critic
 love
 topic |  
+| bip_39_word_no_space_1 | toward |  
+| bip_39_word_no_space_10 | towardseatclarifysteakintoenjoycriticlovetopicexhibit |  
+| bip_39_word_no_space_11 | towardseatclarifysteakintoenjoycriticlovetopicexhibithelp |  
+| bip_39_word_no_space_12 | towardseatclarifysteakintoenjoycriticlovetopicexhibithelpalso |  
+| bip_39_word_no_space_2 | towardseat |  
+| bip_39_word_no_space_3 | towardseatclarify |  
+| bip_39_word_no_space_4 | towardseatclarifysteak |  
+| bip_39_word_no_space_5 | towardseatclarifysteakinto |  
+| bip_39_word_no_space_6 | towardseatclarifysteakintoenjoy |  
+| bip_39_word_no_space_7 | towardseatclarifysteakintoenjoycritic |  
+| bip_39_word_no_space_8 | towardseatclarifysteakintoenjoycriticlove |  
+| bip_39_word_no_space_9 | towardseatclarifysteakintoenjoycriticlovetopic |  
 | bip_39_word_space_0 | ['toward', 'seat', 'clarify', 'steak', 'into', 'enjoy', 'critic', 'love', 'topic', 'exhibit', 'help', 'also'] |  
 | bip_39_word_space_1 | toward |  
 | bip_39_word_space_10 | toward seat clarify steak into enjoy critic love topic exhibit |  

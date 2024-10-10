@@ -122,6 +122,18 @@ know
 gather
 ten
 horror |  
+| bip_39_word_no_space_1 | fan |  
+| bip_39_word_no_space_10 | fanarmorsuccessmanfameknowgathertenhorrormind |  
+| bip_39_word_no_space_11 | fanarmorsuccessmanfameknowgathertenhorrormindbind |  
+| bip_39_word_no_space_12 | fanarmorsuccessmanfameknowgathertenhorrormindbindalpha |  
+| bip_39_word_no_space_2 | fanarmor |  
+| bip_39_word_no_space_3 | fanarmorsuccess |  
+| bip_39_word_no_space_4 | fanarmorsuccessman |  
+| bip_39_word_no_space_5 | fanarmorsuccessmanfame |  
+| bip_39_word_no_space_6 | fanarmorsuccessmanfameknow |  
+| bip_39_word_no_space_7 | fanarmorsuccessmanfameknowgather |  
+| bip_39_word_no_space_8 | fanarmorsuccessmanfameknowgatherten |  
+| bip_39_word_no_space_9 | fanarmorsuccessmanfameknowgathertenhorror |  
 | bip_39_word_space_0 | ['fan', 'armor', 'success', 'man', 'fame', 'know', 'gather', 'ten', 'horror', 'mind', 'bind', 'alpha'] |  
 | bip_39_word_space_1 | fan |  
 | bip_39_word_space_10 | fan armor success man fame know gather ten horror mind |  

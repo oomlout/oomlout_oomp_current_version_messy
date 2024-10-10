@@ -122,6 +122,18 @@ rail
 helmet
 reason
 danger |  
+| bip_39_word_no_space_1 | such |  
+| bip_39_word_no_space_10 | suchfishtennisdisagreewalnutrailhelmetreasondangerunveil |  
+| bip_39_word_no_space_11 | suchfishtennisdisagreewalnutrailhelmetreasondangerunveilair |  
+| bip_39_word_no_space_12 | suchfishtennisdisagreewalnutrailhelmetreasondangerunveilairalone |  
+| bip_39_word_no_space_2 | suchfish |  
+| bip_39_word_no_space_3 | suchfishtennis |  
+| bip_39_word_no_space_4 | suchfishtennisdisagree |  
+| bip_39_word_no_space_5 | suchfishtennisdisagreewalnut |  
+| bip_39_word_no_space_6 | suchfishtennisdisagreewalnutrail |  
+| bip_39_word_no_space_7 | suchfishtennisdisagreewalnutrailhelmet |  
+| bip_39_word_no_space_8 | suchfishtennisdisagreewalnutrailhelmetreason |  
+| bip_39_word_no_space_9 | suchfishtennisdisagreewalnutrailhelmetreasondanger |  
 | bip_39_word_space_0 | ['such', 'fish', 'tennis', 'disagree', 'walnut', 'rail', 'helmet', 'reason', 'danger', 'unveil', 'air', 'alone'] |  
 | bip_39_word_space_1 | such |  
 | bip_39_word_space_10 | such fish tennis disagree walnut rail helmet reason danger unveil |  

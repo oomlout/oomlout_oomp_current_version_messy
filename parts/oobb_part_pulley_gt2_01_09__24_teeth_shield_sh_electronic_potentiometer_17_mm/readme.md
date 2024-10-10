@@ -122,6 +122,18 @@ ability
 pair
 mouse
 peace |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gaintigermessagefrostwallabilitypairmousepeaceindicate |  
+| bip_39_word_no_space_11 | gaintigermessagefrostwallabilitypairmousepeaceindicatewarfare |  
+| bip_39_word_no_space_12 | gaintigermessagefrostwallabilitypairmousepeaceindicatewarfareaunt |  
+| bip_39_word_no_space_2 | gaintiger |  
+| bip_39_word_no_space_3 | gaintigermessage |  
+| bip_39_word_no_space_4 | gaintigermessagefrost |  
+| bip_39_word_no_space_5 | gaintigermessagefrostwall |  
+| bip_39_word_no_space_6 | gaintigermessagefrostwallability |  
+| bip_39_word_no_space_7 | gaintigermessagefrostwallabilitypair |  
+| bip_39_word_no_space_8 | gaintigermessagefrostwallabilitypairmouse |  
+| bip_39_word_no_space_9 | gaintigermessagefrostwallabilitypairmousepeace |  
 | bip_39_word_space_0 | ['gain', 'tiger', 'message', 'frost', 'wall', 'ability', 'pair', 'mouse', 'peace', 'indicate', 'warfare', 'aunt'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain tiger message frost wall ability pair mouse peace indicate |  

@@ -122,6 +122,18 @@ fitness
 tiny
 because
 response |  
+| bip_39_word_no_space_1 | husband |  
+| bip_39_word_no_space_10 | husbandswearblossombrokenofferfitnesstinybecauseresponseauthor |  
+| bip_39_word_no_space_11 | husbandswearblossombrokenofferfitnesstinybecauseresponseauthortilt |  
+| bip_39_word_no_space_12 | husbandswearblossombrokenofferfitnesstinybecauseresponseauthortiltaccuse |  
+| bip_39_word_no_space_2 | husbandswear |  
+| bip_39_word_no_space_3 | husbandswearblossom |  
+| bip_39_word_no_space_4 | husbandswearblossombroken |  
+| bip_39_word_no_space_5 | husbandswearblossombrokenoffer |  
+| bip_39_word_no_space_6 | husbandswearblossombrokenofferfitness |  
+| bip_39_word_no_space_7 | husbandswearblossombrokenofferfitnesstiny |  
+| bip_39_word_no_space_8 | husbandswearblossombrokenofferfitnesstinybecause |  
+| bip_39_word_no_space_9 | husbandswearblossombrokenofferfitnesstinybecauseresponse |  
 | bip_39_word_space_0 | ['husband', 'swear', 'blossom', 'broken', 'offer', 'fitness', 'tiny', 'because', 'response', 'author', 'tilt', 'accuse'] |  
 | bip_39_word_space_1 | husband |  
 | bip_39_word_space_10 | husband swear blossom broken offer fitness tiny because response author |  

@@ -122,6 +122,18 @@ truth
 hire
 venture
 unfair |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguequitvaguebaconzebratruthhireventureunfairdeputy |  
+| bip_39_word_no_space_11 | tonguequitvaguebaconzebratruthhireventureunfairdeputyexotic |  
+| bip_39_word_no_space_12 | tonguequitvaguebaconzebratruthhireventureunfairdeputyexoticalone |  
+| bip_39_word_no_space_2 | tonguequit |  
+| bip_39_word_no_space_3 | tonguequitvague |  
+| bip_39_word_no_space_4 | tonguequitvaguebacon |  
+| bip_39_word_no_space_5 | tonguequitvaguebaconzebra |  
+| bip_39_word_no_space_6 | tonguequitvaguebaconzebratruth |  
+| bip_39_word_no_space_7 | tonguequitvaguebaconzebratruthhire |  
+| bip_39_word_no_space_8 | tonguequitvaguebaconzebratruthhireventure |  
+| bip_39_word_no_space_9 | tonguequitvaguebaconzebratruthhireventureunfair |  
 | bip_39_word_space_0 | ['tongue', 'quit', 'vague', 'bacon', 'zebra', 'truth', 'hire', 'venture', 'unfair', 'deputy', 'exotic', 'alone'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue quit vague bacon zebra truth hire venture unfair deputy |  

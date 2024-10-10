@@ -122,6 +122,18 @@ strong
 genuine
 whale
 always |  
+| bip_39_word_no_space_1 | length |  
+| bip_39_word_no_space_10 | lengthangleribbonreopenfictionstronggenuinewhalealwaysdegree |  
+| bip_39_word_no_space_11 | lengthangleribbonreopenfictionstronggenuinewhalealwaysdegreecarpet |  
+| bip_39_word_no_space_12 | lengthangleribbonreopenfictionstronggenuinewhalealwaysdegreecarpetargue |  
+| bip_39_word_no_space_2 | lengthangle |  
+| bip_39_word_no_space_3 | lengthangleribbon |  
+| bip_39_word_no_space_4 | lengthangleribbonreopen |  
+| bip_39_word_no_space_5 | lengthangleribbonreopenfiction |  
+| bip_39_word_no_space_6 | lengthangleribbonreopenfictionstrong |  
+| bip_39_word_no_space_7 | lengthangleribbonreopenfictionstronggenuine |  
+| bip_39_word_no_space_8 | lengthangleribbonreopenfictionstronggenuinewhale |  
+| bip_39_word_no_space_9 | lengthangleribbonreopenfictionstronggenuinewhalealways |  
 | bip_39_word_space_0 | ['length', 'angle', 'ribbon', 'reopen', 'fiction', 'strong', 'genuine', 'whale', 'always', 'degree', 'carpet', 'argue'] |  
 | bip_39_word_space_1 | length |  
 | bip_39_word_space_10 | length angle ribbon reopen fiction strong genuine whale always degree |  

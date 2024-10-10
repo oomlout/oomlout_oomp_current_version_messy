@@ -122,6 +122,18 @@ uncover
 secret
 exist
 sunny |  
+| bip_39_word_no_space_1 | lunch |  
+| bip_39_word_no_space_10 | lunchlinkhighviablefataluncoversecretexistsunnydrop |  
+| bip_39_word_no_space_11 | lunchlinkhighviablefataluncoversecretexistsunnydropdrum |  
+| bip_39_word_no_space_12 | lunchlinkhighviablefataluncoversecretexistsunnydropdrumaisle |  
+| bip_39_word_no_space_2 | lunchlink |  
+| bip_39_word_no_space_3 | lunchlinkhigh |  
+| bip_39_word_no_space_4 | lunchlinkhighviable |  
+| bip_39_word_no_space_5 | lunchlinkhighviablefatal |  
+| bip_39_word_no_space_6 | lunchlinkhighviablefataluncover |  
+| bip_39_word_no_space_7 | lunchlinkhighviablefataluncoversecret |  
+| bip_39_word_no_space_8 | lunchlinkhighviablefataluncoversecretexist |  
+| bip_39_word_no_space_9 | lunchlinkhighviablefataluncoversecretexistsunny |  
 | bip_39_word_space_0 | ['lunch', 'link', 'high', 'viable', 'fatal', 'uncover', 'secret', 'exist', 'sunny', 'drop', 'drum', 'aisle'] |  
 | bip_39_word_space_1 | lunch |  
 | bip_39_word_space_10 | lunch link high viable fatal uncover secret exist sunny drop |  

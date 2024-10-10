@@ -122,6 +122,18 @@ letter
 van
 group
 stage |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentchoosegorillaballexcitelettervangroupstagehistory |  
+| bip_39_word_no_space_11 | silentchoosegorillaballexcitelettervangroupstagehistorypanel |  
+| bip_39_word_no_space_12 | silentchoosegorillaballexcitelettervangroupstagehistorypanelanswer |  
+| bip_39_word_no_space_2 | silentchoose |  
+| bip_39_word_no_space_3 | silentchoosegorilla |  
+| bip_39_word_no_space_4 | silentchoosegorillaball |  
+| bip_39_word_no_space_5 | silentchoosegorillaballexcite |  
+| bip_39_word_no_space_6 | silentchoosegorillaballexciteletter |  
+| bip_39_word_no_space_7 | silentchoosegorillaballexcitelettervan |  
+| bip_39_word_no_space_8 | silentchoosegorillaballexcitelettervangroup |  
+| bip_39_word_no_space_9 | silentchoosegorillaballexcitelettervangroupstage |  
 | bip_39_word_space_0 | ['silent', 'choose', 'gorilla', 'ball', 'excite', 'letter', 'van', 'group', 'stage', 'history', 'panel', 'answer'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent choose gorilla ball excite letter van group stage history |  

@@ -122,6 +122,18 @@ sun
 street
 verify
 lounge |  
+| bip_39_word_no_space_1 | safe |  
+| bip_39_word_no_space_10 | safedinnercoolshuffleviablesunstreetverifyloungestumble |  
+| bip_39_word_no_space_11 | safedinnercoolshuffleviablesunstreetverifyloungestumblepond |  
+| bip_39_word_no_space_12 | safedinnercoolshuffleviablesunstreetverifyloungestumblepondaerobic |  
+| bip_39_word_no_space_2 | safedinner |  
+| bip_39_word_no_space_3 | safedinnercool |  
+| bip_39_word_no_space_4 | safedinnercoolshuffle |  
+| bip_39_word_no_space_5 | safedinnercoolshuffleviable |  
+| bip_39_word_no_space_6 | safedinnercoolshuffleviablesun |  
+| bip_39_word_no_space_7 | safedinnercoolshuffleviablesunstreet |  
+| bip_39_word_no_space_8 | safedinnercoolshuffleviablesunstreetverify |  
+| bip_39_word_no_space_9 | safedinnercoolshuffleviablesunstreetverifylounge |  
 | bip_39_word_space_0 | ['safe', 'dinner', 'cool', 'shuffle', 'viable', 'sun', 'street', 'verify', 'lounge', 'stumble', 'pond', 'aerobic'] |  
 | bip_39_word_space_1 | safe |  
 | bip_39_word_space_10 | safe dinner cool shuffle viable sun street verify lounge stumble |  

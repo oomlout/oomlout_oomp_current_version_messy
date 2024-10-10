@@ -122,6 +122,18 @@ motor
 danger
 will
 gather |  
+| bip_39_word_no_space_1 | owner |  
+| bip_39_word_no_space_10 | ownerrosepizzanoisetumblemotordangerwillgatherlive |  
+| bip_39_word_no_space_11 | ownerrosepizzanoisetumblemotordangerwillgatherlivethank |  
+| bip_39_word_no_space_12 | ownerrosepizzanoisetumblemotordangerwillgatherlivethankapril |  
+| bip_39_word_no_space_2 | ownerrose |  
+| bip_39_word_no_space_3 | ownerrosepizza |  
+| bip_39_word_no_space_4 | ownerrosepizzanoise |  
+| bip_39_word_no_space_5 | ownerrosepizzanoisetumble |  
+| bip_39_word_no_space_6 | ownerrosepizzanoisetumblemotor |  
+| bip_39_word_no_space_7 | ownerrosepizzanoisetumblemotordanger |  
+| bip_39_word_no_space_8 | ownerrosepizzanoisetumblemotordangerwill |  
+| bip_39_word_no_space_9 | ownerrosepizzanoisetumblemotordangerwillgather |  
 | bip_39_word_space_0 | ['owner', 'rose', 'pizza', 'noise', 'tumble', 'motor', 'danger', 'will', 'gather', 'live', 'thank', 'april'] |  
 | bip_39_word_space_1 | owner |  
 | bip_39_word_space_10 | owner rose pizza noise tumble motor danger will gather live |  

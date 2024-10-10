@@ -122,6 +122,18 @@ enemy
 energy
 base
 rough |  
+| bip_39_word_no_space_1 | million |  
+| bip_39_word_no_space_10 | millionluckythingloadelegantenemyenergybaseroughcircle |  
+| bip_39_word_no_space_11 | millionluckythingloadelegantenemyenergybaseroughcircledisplay |  
+| bip_39_word_no_space_12 | millionluckythingloadelegantenemyenergybaseroughcircledisplayalpha |  
+| bip_39_word_no_space_2 | millionlucky |  
+| bip_39_word_no_space_3 | millionluckything |  
+| bip_39_word_no_space_4 | millionluckythingload |  
+| bip_39_word_no_space_5 | millionluckythingloadelegant |  
+| bip_39_word_no_space_6 | millionluckythingloadelegantenemy |  
+| bip_39_word_no_space_7 | millionluckythingloadelegantenemyenergy |  
+| bip_39_word_no_space_8 | millionluckythingloadelegantenemyenergybase |  
+| bip_39_word_no_space_9 | millionluckythingloadelegantenemyenergybaserough |  
 | bip_39_word_space_0 | ['million', 'lucky', 'thing', 'load', 'elegant', 'enemy', 'energy', 'base', 'rough', 'circle', 'display', 'alpha'] |  
 | bip_39_word_space_1 | million |  
 | bip_39_word_space_10 | million lucky thing load elegant enemy energy base rough circle |  

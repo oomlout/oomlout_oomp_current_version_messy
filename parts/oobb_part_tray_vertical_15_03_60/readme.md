@@ -122,6 +122,18 @@ know
 spirit
 between
 okay |  
+| bip_39_word_no_space_1 | drip |  
+| bip_39_word_no_space_10 | dripsurfaceborrowcautionyouknowspiritbetweenokayapprove |  
+| bip_39_word_no_space_11 | dripsurfaceborrowcautionyouknowspiritbetweenokayapprovesilver |  
+| bip_39_word_no_space_12 | dripsurfaceborrowcautionyouknowspiritbetweenokayapprovesilverarctic |  
+| bip_39_word_no_space_2 | dripsurface |  
+| bip_39_word_no_space_3 | dripsurfaceborrow |  
+| bip_39_word_no_space_4 | dripsurfaceborrowcaution |  
+| bip_39_word_no_space_5 | dripsurfaceborrowcautionyou |  
+| bip_39_word_no_space_6 | dripsurfaceborrowcautionyouknow |  
+| bip_39_word_no_space_7 | dripsurfaceborrowcautionyouknowspirit |  
+| bip_39_word_no_space_8 | dripsurfaceborrowcautionyouknowspiritbetween |  
+| bip_39_word_no_space_9 | dripsurfaceborrowcautionyouknowspiritbetweenokay |  
 | bip_39_word_space_0 | ['drip', 'surface', 'borrow', 'caution', 'you', 'know', 'spirit', 'between', 'okay', 'approve', 'silver', 'arctic'] |  
 | bip_39_word_space_1 | drip |  
 | bip_39_word_space_10 | drip surface borrow caution you know spirit between okay approve |  

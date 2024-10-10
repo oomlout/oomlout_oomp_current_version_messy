@@ -122,6 +122,18 @@ desk
 expire
 torch
 sister |  
+| bip_39_word_no_space_1 | cat |  
+| bip_39_word_no_space_10 | catparaderifleenrichshrimpdeskexpiretorchsisterprepare |  
+| bip_39_word_no_space_11 | catparaderifleenrichshrimpdeskexpiretorchsisterprepareawful |  
+| bip_39_word_no_space_12 | catparaderifleenrichshrimpdeskexpiretorchsisterprepareawfuladmit |  
+| bip_39_word_no_space_2 | catparade |  
+| bip_39_word_no_space_3 | catparaderifle |  
+| bip_39_word_no_space_4 | catparaderifleenrich |  
+| bip_39_word_no_space_5 | catparaderifleenrichshrimp |  
+| bip_39_word_no_space_6 | catparaderifleenrichshrimpdesk |  
+| bip_39_word_no_space_7 | catparaderifleenrichshrimpdeskexpire |  
+| bip_39_word_no_space_8 | catparaderifleenrichshrimpdeskexpiretorch |  
+| bip_39_word_no_space_9 | catparaderifleenrichshrimpdeskexpiretorchsister |  
 | bip_39_word_space_0 | ['cat', 'parade', 'rifle', 'enrich', 'shrimp', 'desk', 'expire', 'torch', 'sister', 'prepare', 'awful', 'admit'] |  
 | bip_39_word_space_1 | cat |  
 | bip_39_word_space_10 | cat parade rifle enrich shrimp desk expire torch sister prepare |  

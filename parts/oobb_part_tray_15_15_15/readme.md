@@ -122,6 +122,18 @@ square
 such
 armed
 carpet |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | nicelakeoverunlockreplacesquaresucharmedcarpetmerry |  
+| bip_39_word_no_space_11 | nicelakeoverunlockreplacesquaresucharmedcarpetmerrywink |  
+| bip_39_word_no_space_12 | nicelakeoverunlockreplacesquaresucharmedcarpetmerrywinkarch |  
+| bip_39_word_no_space_2 | nicelake |  
+| bip_39_word_no_space_3 | nicelakeover |  
+| bip_39_word_no_space_4 | nicelakeoverunlock |  
+| bip_39_word_no_space_5 | nicelakeoverunlockreplace |  
+| bip_39_word_no_space_6 | nicelakeoverunlockreplacesquare |  
+| bip_39_word_no_space_7 | nicelakeoverunlockreplacesquaresuch |  
+| bip_39_word_no_space_8 | nicelakeoverunlockreplacesquaresucharmed |  
+| bip_39_word_no_space_9 | nicelakeoverunlockreplacesquaresucharmedcarpet |  
 | bip_39_word_space_0 | ['nice', 'lake', 'over', 'unlock', 'replace', 'square', 'such', 'armed', 'carpet', 'merry', 'wink', 'arch'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice lake over unlock replace square such armed carpet merry |  

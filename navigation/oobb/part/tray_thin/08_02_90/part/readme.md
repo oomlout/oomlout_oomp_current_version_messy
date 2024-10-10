@@ -122,6 +122,18 @@ bike
 cradle
 inquiry
 forward |  
+| bip_39_word_no_space_1 | achieve |  
+| bip_39_word_no_space_10 | achievesuddenabovesoundnetworkbikecradleinquiryforwardfine |  
+| bip_39_word_no_space_11 | achievesuddenabovesoundnetworkbikecradleinquiryforwardfinewool |  
+| bip_39_word_no_space_12 | achievesuddenabovesoundnetworkbikecradleinquiryforwardfinewoolalone |  
+| bip_39_word_no_space_2 | achievesudden |  
+| bip_39_word_no_space_3 | achievesuddenabove |  
+| bip_39_word_no_space_4 | achievesuddenabovesound |  
+| bip_39_word_no_space_5 | achievesuddenabovesoundnetwork |  
+| bip_39_word_no_space_6 | achievesuddenabovesoundnetworkbike |  
+| bip_39_word_no_space_7 | achievesuddenabovesoundnetworkbikecradle |  
+| bip_39_word_no_space_8 | achievesuddenabovesoundnetworkbikecradleinquiry |  
+| bip_39_word_no_space_9 | achievesuddenabovesoundnetworkbikecradleinquiryforward |  
 | bip_39_word_space_0 | ['achieve', 'sudden', 'above', 'sound', 'network', 'bike', 'cradle', 'inquiry', 'forward', 'fine', 'wool', 'alone'] |  
 | bip_39_word_space_1 | achieve |  
 | bip_39_word_space_10 | achieve sudden above sound network bike cradle inquiry forward fine |  

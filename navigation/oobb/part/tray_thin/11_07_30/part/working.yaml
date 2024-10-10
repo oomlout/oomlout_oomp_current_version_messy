@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'genuine
   defy
 
   atom'
+bip_39_word_no_space_1: genuine
+bip_39_word_no_space_10: genuineattendsaddelayneedopinionfogdefyatommarble
+bip_39_word_no_space_11: genuineattendsaddelayneedopinionfogdefyatommarblecar
+bip_39_word_no_space_12: genuineattendsaddelayneedopinionfogdefyatommarblecarany
+bip_39_word_no_space_2: genuineattend
+bip_39_word_no_space_3: genuineattendsad
+bip_39_word_no_space_4: genuineattendsaddelay
+bip_39_word_no_space_5: genuineattendsaddelayneed
+bip_39_word_no_space_6: genuineattendsaddelayneedopinion
+bip_39_word_no_space_7: genuineattendsaddelayneedopinionfog
+bip_39_word_no_space_8: genuineattendsaddelayneedopinionfogdefy
+bip_39_word_no_space_9: genuineattendsaddelayneedopinionfogdefyatom
 bip_39_word_space_0:
 - genuine
 - attend

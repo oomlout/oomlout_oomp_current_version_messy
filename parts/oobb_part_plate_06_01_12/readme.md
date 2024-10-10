@@ -122,6 +122,18 @@ dizzy
 sure
 mixture
 brand |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizeninheritrangeuniformdeliverdizzysuremixturebrandalcohol |  
+| bip_39_word_no_space_11 | citizeninheritrangeuniformdeliverdizzysuremixturebrandalcoholsubject |  
+| bip_39_word_no_space_12 | citizeninheritrangeuniformdeliverdizzysuremixturebrandalcoholsubjectamount |  
+| bip_39_word_no_space_2 | citizeninherit |  
+| bip_39_word_no_space_3 | citizeninheritrange |  
+| bip_39_word_no_space_4 | citizeninheritrangeuniform |  
+| bip_39_word_no_space_5 | citizeninheritrangeuniformdeliver |  
+| bip_39_word_no_space_6 | citizeninheritrangeuniformdeliverdizzy |  
+| bip_39_word_no_space_7 | citizeninheritrangeuniformdeliverdizzysure |  
+| bip_39_word_no_space_8 | citizeninheritrangeuniformdeliverdizzysuremixture |  
+| bip_39_word_no_space_9 | citizeninheritrangeuniformdeliverdizzysuremixturebrand |  
 | bip_39_word_space_0 | ['citizen', 'inherit', 'range', 'uniform', 'deliver', 'dizzy', 'sure', 'mixture', 'brand', 'alcohol', 'subject', 'amount'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen inherit range uniform deliver dizzy sure mixture brand alcohol |  

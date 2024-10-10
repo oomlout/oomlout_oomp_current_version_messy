@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'switch
   gossip
 
   cake'
+bip_39_word_no_space_1: switch
+bip_39_word_no_space_10: switchallsourceculturepreventlinktowngossipcakeshrug
+bip_39_word_no_space_11: switchallsourceculturepreventlinktowngossipcakeshrugduck
+bip_39_word_no_space_12: switchallsourceculturepreventlinktowngossipcakeshrugduckapart
+bip_39_word_no_space_2: switchall
+bip_39_word_no_space_3: switchallsource
+bip_39_word_no_space_4: switchallsourceculture
+bip_39_word_no_space_5: switchallsourcecultureprevent
+bip_39_word_no_space_6: switchallsourceculturepreventlink
+bip_39_word_no_space_7: switchallsourceculturepreventlinktown
+bip_39_word_no_space_8: switchallsourceculturepreventlinktowngossip
+bip_39_word_no_space_9: switchallsourceculturepreventlinktowngossipcake
 bip_39_word_space_0:
 - switch
 - all

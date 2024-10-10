@@ -122,6 +122,18 @@ inflict
 helmet
 guilt
 result |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employsummergrapeemotionfragileinflicthelmetguiltresultpurpose |  
+| bip_39_word_no_space_11 | employsummergrapeemotionfragileinflicthelmetguiltresultpurposefinger |  
+| bip_39_word_no_space_12 | employsummergrapeemotionfragileinflicthelmetguiltresultpurposefingerabsorb |  
+| bip_39_word_no_space_2 | employsummer |  
+| bip_39_word_no_space_3 | employsummergrape |  
+| bip_39_word_no_space_4 | employsummergrapeemotion |  
+| bip_39_word_no_space_5 | employsummergrapeemotionfragile |  
+| bip_39_word_no_space_6 | employsummergrapeemotionfragileinflict |  
+| bip_39_word_no_space_7 | employsummergrapeemotionfragileinflicthelmet |  
+| bip_39_word_no_space_8 | employsummergrapeemotionfragileinflicthelmetguilt |  
+| bip_39_word_no_space_9 | employsummergrapeemotionfragileinflicthelmetguiltresult |  
 | bip_39_word_space_0 | ['employ', 'summer', 'grape', 'emotion', 'fragile', 'inflict', 'helmet', 'guilt', 'result', 'purpose', 'finger', 'absorb'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ summer grape emotion fragile inflict helmet guilt result purpose |  

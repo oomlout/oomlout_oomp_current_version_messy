@@ -122,6 +122,18 @@ wrestle
 reason
 scatter
 quiz |  
+| bip_39_word_no_space_1 | portion |  
+| bip_39_word_no_space_10 | portionrejectdiverthintletterwrestlereasonscatterquizdecorate |  
+| bip_39_word_no_space_11 | portionrejectdiverthintletterwrestlereasonscatterquizdecoratehave |  
+| bip_39_word_no_space_12 | portionrejectdiverthintletterwrestlereasonscatterquizdecoratehaveadapt |  
+| bip_39_word_no_space_2 | portionreject |  
+| bip_39_word_no_space_3 | portionrejectdivert |  
+| bip_39_word_no_space_4 | portionrejectdiverthint |  
+| bip_39_word_no_space_5 | portionrejectdiverthintletter |  
+| bip_39_word_no_space_6 | portionrejectdiverthintletterwrestle |  
+| bip_39_word_no_space_7 | portionrejectdiverthintletterwrestlereason |  
+| bip_39_word_no_space_8 | portionrejectdiverthintletterwrestlereasonscatter |  
+| bip_39_word_no_space_9 | portionrejectdiverthintletterwrestlereasonscatterquiz |  
 | bip_39_word_space_0 | ['portion', 'reject', 'divert', 'hint', 'letter', 'wrestle', 'reason', 'scatter', 'quiz', 'decorate', 'have', 'adapt'] |  
 | bip_39_word_space_1 | portion |  
 | bip_39_word_space_10 | portion reject divert hint letter wrestle reason scatter quiz decorate |  

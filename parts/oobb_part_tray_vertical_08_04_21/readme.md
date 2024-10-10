@@ -122,6 +122,18 @@ patch
 prison
 embrace
 hand |  
+| bip_39_word_no_space_1 | load |  
+| bip_39_word_no_space_10 | loadhedgehogbonusslamhurtpatchprisonembracehandhope |  
+| bip_39_word_no_space_11 | loadhedgehogbonusslamhurtpatchprisonembracehandhopeeyebrow |  
+| bip_39_word_no_space_12 | loadhedgehogbonusslamhurtpatchprisonembracehandhopeeyebrowassume |  
+| bip_39_word_no_space_2 | loadhedgehog |  
+| bip_39_word_no_space_3 | loadhedgehogbonus |  
+| bip_39_word_no_space_4 | loadhedgehogbonusslam |  
+| bip_39_word_no_space_5 | loadhedgehogbonusslamhurt |  
+| bip_39_word_no_space_6 | loadhedgehogbonusslamhurtpatch |  
+| bip_39_word_no_space_7 | loadhedgehogbonusslamhurtpatchprison |  
+| bip_39_word_no_space_8 | loadhedgehogbonusslamhurtpatchprisonembrace |  
+| bip_39_word_no_space_9 | loadhedgehogbonusslamhurtpatchprisonembracehand |  
 | bip_39_word_space_0 | ['load', 'hedgehog', 'bonus', 'slam', 'hurt', 'patch', 'prison', 'embrace', 'hand', 'hope', 'eyebrow', 'assume'] |  
 | bip_39_word_space_1 | load |  
 | bip_39_word_space_10 | load hedgehog bonus slam hurt patch prison embrace hand hope |  

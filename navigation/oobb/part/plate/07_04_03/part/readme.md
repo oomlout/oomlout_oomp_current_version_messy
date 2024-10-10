@@ -122,6 +122,18 @@ lazy
 enough
 infant
 risk |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | brisksightstrugglemutualroastlazyenoughinfantrisksolid |  
+| bip_39_word_no_space_11 | brisksightstrugglemutualroastlazyenoughinfantrisksolidcliff |  
+| bip_39_word_no_space_12 | brisksightstrugglemutualroastlazyenoughinfantrisksolidcliffamateur |  
+| bip_39_word_no_space_2 | brisksight |  
+| bip_39_word_no_space_3 | brisksightstruggle |  
+| bip_39_word_no_space_4 | brisksightstrugglemutual |  
+| bip_39_word_no_space_5 | brisksightstrugglemutualroast |  
+| bip_39_word_no_space_6 | brisksightstrugglemutualroastlazy |  
+| bip_39_word_no_space_7 | brisksightstrugglemutualroastlazyenough |  
+| bip_39_word_no_space_8 | brisksightstrugglemutualroastlazyenoughinfant |  
+| bip_39_word_no_space_9 | brisksightstrugglemutualroastlazyenoughinfantrisk |  
 | bip_39_word_space_0 | ['brisk', 'sight', 'struggle', 'mutual', 'roast', 'lazy', 'enough', 'infant', 'risk', 'solid', 'cliff', 'amateur'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk sight struggle mutual roast lazy enough infant risk solid |  

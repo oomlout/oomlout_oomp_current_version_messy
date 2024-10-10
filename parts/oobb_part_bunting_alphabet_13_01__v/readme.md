@@ -122,6 +122,18 @@ salt
 quick
 nut
 street |  
+| bip_39_word_no_space_1 | tissue |  
+| bip_39_word_no_space_10 | tissueerosionrescuequarterimmunesaltquicknutstreetwreck |  
+| bip_39_word_no_space_11 | tissueerosionrescuequarterimmunesaltquicknutstreetwreckfather |  
+| bip_39_word_no_space_12 | tissueerosionrescuequarterimmunesaltquicknutstreetwreckfatherapprove |  
+| bip_39_word_no_space_2 | tissueerosion |  
+| bip_39_word_no_space_3 | tissueerosionrescue |  
+| bip_39_word_no_space_4 | tissueerosionrescuequarter |  
+| bip_39_word_no_space_5 | tissueerosionrescuequarterimmune |  
+| bip_39_word_no_space_6 | tissueerosionrescuequarterimmunesalt |  
+| bip_39_word_no_space_7 | tissueerosionrescuequarterimmunesaltquick |  
+| bip_39_word_no_space_8 | tissueerosionrescuequarterimmunesaltquicknut |  
+| bip_39_word_no_space_9 | tissueerosionrescuequarterimmunesaltquicknutstreet |  
 | bip_39_word_space_0 | ['tissue', 'erosion', 'rescue', 'quarter', 'immune', 'salt', 'quick', 'nut', 'street', 'wreck', 'father', 'approve'] |  
 | bip_39_word_space_1 | tissue |  
 | bip_39_word_space_10 | tissue erosion rescue quarter immune salt quick nut street wreck |  

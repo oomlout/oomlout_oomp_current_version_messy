@@ -122,6 +122,18 @@ exist
 eyebrow
 upgrade
 escape |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipdawnpositionorchardchooseexisteyebrowupgradeescapejudge |  
+| bip_39_word_no_space_11 | shipdawnpositionorchardchooseexisteyebrowupgradeescapejudgeoutside |  
+| bip_39_word_no_space_12 | shipdawnpositionorchardchooseexisteyebrowupgradeescapejudgeoutsideact |  
+| bip_39_word_no_space_2 | shipdawn |  
+| bip_39_word_no_space_3 | shipdawnposition |  
+| bip_39_word_no_space_4 | shipdawnpositionorchard |  
+| bip_39_word_no_space_5 | shipdawnpositionorchardchoose |  
+| bip_39_word_no_space_6 | shipdawnpositionorchardchooseexist |  
+| bip_39_word_no_space_7 | shipdawnpositionorchardchooseexisteyebrow |  
+| bip_39_word_no_space_8 | shipdawnpositionorchardchooseexisteyebrowupgrade |  
+| bip_39_word_no_space_9 | shipdawnpositionorchardchooseexisteyebrowupgradeescape |  
 | bip_39_word_space_0 | ['ship', 'dawn', 'position', 'orchard', 'choose', 'exist', 'eyebrow', 'upgrade', 'escape', 'judge', 'outside', 'act'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship dawn position orchard choose exist eyebrow upgrade escape judge |  

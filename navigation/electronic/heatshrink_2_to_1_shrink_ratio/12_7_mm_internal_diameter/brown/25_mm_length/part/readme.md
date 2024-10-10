@@ -122,6 +122,18 @@ until
 poet
 medal
 language |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omitenrichrhythmsurveyinformuntilpoetmedallanguagetag |  
+| bip_39_word_no_space_11 | omitenrichrhythmsurveyinformuntilpoetmedallanguagetagparty |  
+| bip_39_word_no_space_12 | omitenrichrhythmsurveyinformuntilpoetmedallanguagetagpartyanswer |  
+| bip_39_word_no_space_2 | omitenrich |  
+| bip_39_word_no_space_3 | omitenrichrhythm |  
+| bip_39_word_no_space_4 | omitenrichrhythmsurvey |  
+| bip_39_word_no_space_5 | omitenrichrhythmsurveyinform |  
+| bip_39_word_no_space_6 | omitenrichrhythmsurveyinformuntil |  
+| bip_39_word_no_space_7 | omitenrichrhythmsurveyinformuntilpoet |  
+| bip_39_word_no_space_8 | omitenrichrhythmsurveyinformuntilpoetmedal |  
+| bip_39_word_no_space_9 | omitenrichrhythmsurveyinformuntilpoetmedallanguage |  
 | bip_39_word_space_0 | ['omit', 'enrich', 'rhythm', 'survey', 'inform', 'until', 'poet', 'medal', 'language', 'tag', 'party', 'answer'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit enrich rhythm survey inform until poet medal language tag |  

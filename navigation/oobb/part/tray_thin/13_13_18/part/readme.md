@@ -122,6 +122,18 @@ own
 often
 ritual
 stadium |  
+| bip_39_word_no_space_1 | zoo |  
+| bip_39_word_no_space_10 | zoodisplaynurseskatenormalownoftenritualstadiumcelery |  
+| bip_39_word_no_space_11 | zoodisplaynurseskatenormalownoftenritualstadiumceleryblur |  
+| bip_39_word_no_space_12 | zoodisplaynurseskatenormalownoftenritualstadiumcelerybluranother |  
+| bip_39_word_no_space_2 | zoodisplay |  
+| bip_39_word_no_space_3 | zoodisplaynurse |  
+| bip_39_word_no_space_4 | zoodisplaynurseskate |  
+| bip_39_word_no_space_5 | zoodisplaynurseskatenormal |  
+| bip_39_word_no_space_6 | zoodisplaynurseskatenormalown |  
+| bip_39_word_no_space_7 | zoodisplaynurseskatenormalownoften |  
+| bip_39_word_no_space_8 | zoodisplaynurseskatenormalownoftenritual |  
+| bip_39_word_no_space_9 | zoodisplaynurseskatenormalownoftenritualstadium |  
 | bip_39_word_space_0 | ['zoo', 'display', 'nurse', 'skate', 'normal', 'own', 'often', 'ritual', 'stadium', 'celery', 'blur', 'another'] |  
 | bip_39_word_space_1 | zoo |  
 | bip_39_word_space_10 | zoo display nurse skate normal own often ritual stadium celery |  

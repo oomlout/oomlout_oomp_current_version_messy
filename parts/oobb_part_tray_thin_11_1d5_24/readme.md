@@ -122,6 +122,18 @@ skirt
 common
 pepper
 inflict |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logichoverswarmwagecaseskirtcommonpepperinflictvirus |  
+| bip_39_word_no_space_11 | logichoverswarmwagecaseskirtcommonpepperinflictvirusduck |  
+| bip_39_word_no_space_12 | logichoverswarmwagecaseskirtcommonpepperinflictvirusduckanchor |  
+| bip_39_word_no_space_2 | logichover |  
+| bip_39_word_no_space_3 | logichoverswarm |  
+| bip_39_word_no_space_4 | logichoverswarmwage |  
+| bip_39_word_no_space_5 | logichoverswarmwagecase |  
+| bip_39_word_no_space_6 | logichoverswarmwagecaseskirt |  
+| bip_39_word_no_space_7 | logichoverswarmwagecaseskirtcommon |  
+| bip_39_word_no_space_8 | logichoverswarmwagecaseskirtcommonpepper |  
+| bip_39_word_no_space_9 | logichoverswarmwagecaseskirtcommonpepperinflict |  
 | bip_39_word_space_0 | ['logic', 'hover', 'swarm', 'wage', 'case', 'skirt', 'common', 'pepper', 'inflict', 'virus', 'duck', 'anchor'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic hover swarm wage case skirt common pepper inflict virus |  

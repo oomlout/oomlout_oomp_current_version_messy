@@ -122,6 +122,18 @@ chuckle
 tank
 carbon
 photo |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legenddressboilsalutebargainchuckletankcarbonphotohundred |  
+| bip_39_word_no_space_11 | legenddressboilsalutebargainchuckletankcarbonphotohundredscience |  
+| bip_39_word_no_space_12 | legenddressboilsalutebargainchuckletankcarbonphotohundredscienceassault |  
+| bip_39_word_no_space_2 | legenddress |  
+| bip_39_word_no_space_3 | legenddressboil |  
+| bip_39_word_no_space_4 | legenddressboilsalute |  
+| bip_39_word_no_space_5 | legenddressboilsalutebargain |  
+| bip_39_word_no_space_6 | legenddressboilsalutebargainchuckle |  
+| bip_39_word_no_space_7 | legenddressboilsalutebargainchuckletank |  
+| bip_39_word_no_space_8 | legenddressboilsalutebargainchuckletankcarbon |  
+| bip_39_word_no_space_9 | legenddressboilsalutebargainchuckletankcarbonphoto |  
 | bip_39_word_space_0 | ['legend', 'dress', 'boil', 'salute', 'bargain', 'chuckle', 'tank', 'carbon', 'photo', 'hundred', 'science', 'assault'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend dress boil salute bargain chuckle tank carbon photo hundred |  

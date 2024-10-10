@@ -122,6 +122,18 @@ work
 observe
 whip
 dizzy |  
+| bip_39_word_no_space_1 | ordinary |  
+| bip_39_word_no_space_10 | ordinarymorningcubeenginecleverworkobservewhipdizzybook |  
+| bip_39_word_no_space_11 | ordinarymorningcubeenginecleverworkobservewhipdizzybookauthor |  
+| bip_39_word_no_space_12 | ordinarymorningcubeenginecleverworkobservewhipdizzybookauthoralbum |  
+| bip_39_word_no_space_2 | ordinarymorning |  
+| bip_39_word_no_space_3 | ordinarymorningcube |  
+| bip_39_word_no_space_4 | ordinarymorningcubeengine |  
+| bip_39_word_no_space_5 | ordinarymorningcubeengineclever |  
+| bip_39_word_no_space_6 | ordinarymorningcubeenginecleverwork |  
+| bip_39_word_no_space_7 | ordinarymorningcubeenginecleverworkobserve |  
+| bip_39_word_no_space_8 | ordinarymorningcubeenginecleverworkobservewhip |  
+| bip_39_word_no_space_9 | ordinarymorningcubeenginecleverworkobservewhipdizzy |  
 | bip_39_word_space_0 | ['ordinary', 'morning', 'cube', 'engine', 'clever', 'work', 'observe', 'whip', 'dizzy', 'book', 'author', 'album'] |  
 | bip_39_word_space_1 | ordinary |  
 | bip_39_word_space_10 | ordinary morning cube engine clever work observe whip dizzy book |  

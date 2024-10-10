@@ -122,6 +122,18 @@ make
 hen
 field
 muffin |  
+| bip_39_word_no_space_1 | arctic |  
+| bip_39_word_no_space_10 | arcticstrategyarmforwardvalvemakehenfieldmuffinshaft |  
+| bip_39_word_no_space_11 | arcticstrategyarmforwardvalvemakehenfieldmuffinshaftspice |  
+| bip_39_word_no_space_12 | arcticstrategyarmforwardvalvemakehenfieldmuffinshaftspiceautumn |  
+| bip_39_word_no_space_2 | arcticstrategy |  
+| bip_39_word_no_space_3 | arcticstrategyarm |  
+| bip_39_word_no_space_4 | arcticstrategyarmforward |  
+| bip_39_word_no_space_5 | arcticstrategyarmforwardvalve |  
+| bip_39_word_no_space_6 | arcticstrategyarmforwardvalvemake |  
+| bip_39_word_no_space_7 | arcticstrategyarmforwardvalvemakehen |  
+| bip_39_word_no_space_8 | arcticstrategyarmforwardvalvemakehenfield |  
+| bip_39_word_no_space_9 | arcticstrategyarmforwardvalvemakehenfieldmuffin |  
 | bip_39_word_space_0 | ['arctic', 'strategy', 'arm', 'forward', 'valve', 'make', 'hen', 'field', 'muffin', 'shaft', 'spice', 'autumn'] |  
 | bip_39_word_space_1 | arctic |  
 | bip_39_word_space_10 | arctic strategy arm forward valve make hen field muffin shaft |  

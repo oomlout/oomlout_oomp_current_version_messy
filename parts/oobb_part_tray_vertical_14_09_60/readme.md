@@ -122,6 +122,18 @@ where
 gorilla
 copy
 summer |  
+| bip_39_word_no_space_1 | garment |  
+| bip_39_word_no_space_10 | garmentsuperclutchfossiladdresswheregorillacopysummeregg |  
+| bip_39_word_no_space_11 | garmentsuperclutchfossiladdresswheregorillacopysummereggbest |  
+| bip_39_word_no_space_12 | garmentsuperclutchfossiladdresswheregorillacopysummereggbestalley |  
+| bip_39_word_no_space_2 | garmentsuper |  
+| bip_39_word_no_space_3 | garmentsuperclutch |  
+| bip_39_word_no_space_4 | garmentsuperclutchfossil |  
+| bip_39_word_no_space_5 | garmentsuperclutchfossiladdress |  
+| bip_39_word_no_space_6 | garmentsuperclutchfossiladdresswhere |  
+| bip_39_word_no_space_7 | garmentsuperclutchfossiladdresswheregorilla |  
+| bip_39_word_no_space_8 | garmentsuperclutchfossiladdresswheregorillacopy |  
+| bip_39_word_no_space_9 | garmentsuperclutchfossiladdresswheregorillacopysummer |  
 | bip_39_word_space_0 | ['garment', 'super', 'clutch', 'fossil', 'address', 'where', 'gorilla', 'copy', 'summer', 'egg', 'best', 'alley'] |  
 | bip_39_word_space_1 | garment |  
 | bip_39_word_space_10 | garment super clutch fossil address where gorilla copy summer egg |  

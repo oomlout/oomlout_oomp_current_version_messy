@@ -122,6 +122,18 @@ resemble
 notice
 cabin
 cycle |  
+| bip_39_word_no_space_1 | chest |  
+| bip_39_word_no_space_10 | chestoutervoyagemuffinhairresemblenoticecabincyclegold |  
+| bip_39_word_no_space_11 | chestoutervoyagemuffinhairresemblenoticecabincyclegoldelectric |  
+| bip_39_word_no_space_12 | chestoutervoyagemuffinhairresemblenoticecabincyclegoldelectricankle |  
+| bip_39_word_no_space_2 | chestouter |  
+| bip_39_word_no_space_3 | chestoutervoyage |  
+| bip_39_word_no_space_4 | chestoutervoyagemuffin |  
+| bip_39_word_no_space_5 | chestoutervoyagemuffinhair |  
+| bip_39_word_no_space_6 | chestoutervoyagemuffinhairresemble |  
+| bip_39_word_no_space_7 | chestoutervoyagemuffinhairresemblenotice |  
+| bip_39_word_no_space_8 | chestoutervoyagemuffinhairresemblenoticecabin |  
+| bip_39_word_no_space_9 | chestoutervoyagemuffinhairresemblenoticecabincycle |  
 | bip_39_word_space_0 | ['chest', 'outer', 'voyage', 'muffin', 'hair', 'resemble', 'notice', 'cabin', 'cycle', 'gold', 'electric', 'ankle'] |  
 | bip_39_word_space_1 | chest |  
 | bip_39_word_space_10 | chest outer voyage muffin hair resemble notice cabin cycle gold |  

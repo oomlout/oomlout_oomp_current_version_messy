@@ -122,6 +122,18 @@ gift
 version
 offer
 steel |  
+| bip_39_word_no_space_1 | egg |  
+| bip_39_word_no_space_10 | eggdynamicglowtobaccogaingiftversionoffersteelamused |  
+| bip_39_word_no_space_11 | eggdynamicglowtobaccogaingiftversionoffersteelamusedamount |  
+| bip_39_word_no_space_12 | eggdynamicglowtobaccogaingiftversionoffersteelamusedamountadmit |  
+| bip_39_word_no_space_2 | eggdynamic |  
+| bip_39_word_no_space_3 | eggdynamicglow |  
+| bip_39_word_no_space_4 | eggdynamicglowtobacco |  
+| bip_39_word_no_space_5 | eggdynamicglowtobaccogain |  
+| bip_39_word_no_space_6 | eggdynamicglowtobaccogaingift |  
+| bip_39_word_no_space_7 | eggdynamicglowtobaccogaingiftversion |  
+| bip_39_word_no_space_8 | eggdynamicglowtobaccogaingiftversionoffer |  
+| bip_39_word_no_space_9 | eggdynamicglowtobaccogaingiftversionoffersteel |  
 | bip_39_word_space_0 | ['egg', 'dynamic', 'glow', 'tobacco', 'gain', 'gift', 'version', 'offer', 'steel', 'amused', 'amount', 'admit'] |  
 | bip_39_word_space_1 | egg |  
 | bip_39_word_space_10 | egg dynamic glow tobacco gain gift version offer steel amused |  

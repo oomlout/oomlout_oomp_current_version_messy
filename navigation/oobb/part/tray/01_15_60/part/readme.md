@@ -122,6 +122,18 @@ client
 poverty
 laptop
 promote |  
+| bip_39_word_no_space_1 | build |  
+| bip_39_word_no_space_10 | builddonkeyrangesubjectliftclientpovertylaptoppromotelunar |  
+| bip_39_word_no_space_11 | builddonkeyrangesubjectliftclientpovertylaptoppromotelunaroption |  
+| bip_39_word_no_space_12 | builddonkeyrangesubjectliftclientpovertylaptoppromotelunaroptionaspect |  
+| bip_39_word_no_space_2 | builddonkey |  
+| bip_39_word_no_space_3 | builddonkeyrange |  
+| bip_39_word_no_space_4 | builddonkeyrangesubject |  
+| bip_39_word_no_space_5 | builddonkeyrangesubjectlift |  
+| bip_39_word_no_space_6 | builddonkeyrangesubjectliftclient |  
+| bip_39_word_no_space_7 | builddonkeyrangesubjectliftclientpoverty |  
+| bip_39_word_no_space_8 | builddonkeyrangesubjectliftclientpovertylaptop |  
+| bip_39_word_no_space_9 | builddonkeyrangesubjectliftclientpovertylaptoppromote |  
 | bip_39_word_space_0 | ['build', 'donkey', 'range', 'subject', 'lift', 'client', 'poverty', 'laptop', 'promote', 'lunar', 'option', 'aspect'] |  
 | bip_39_word_space_1 | build |  
 | bip_39_word_space_10 | build donkey range subject lift client poverty laptop promote lunar |  

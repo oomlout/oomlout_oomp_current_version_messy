@@ -122,6 +122,18 @@ oxygen
 virus
 lunch
 clay |  
+| bip_39_word_no_space_1 | general |  
+| bip_39_word_no_space_10 | generalpoolleaderpatrolfatoxygenviruslunchclaybase |  
+| bip_39_word_no_space_11 | generalpoolleaderpatrolfatoxygenviruslunchclaybasehost |  
+| bip_39_word_no_space_12 | generalpoolleaderpatrolfatoxygenviruslunchclaybasehostartist |  
+| bip_39_word_no_space_2 | generalpool |  
+| bip_39_word_no_space_3 | generalpoolleader |  
+| bip_39_word_no_space_4 | generalpoolleaderpatrol |  
+| bip_39_word_no_space_5 | generalpoolleaderpatrolfat |  
+| bip_39_word_no_space_6 | generalpoolleaderpatrolfatoxygen |  
+| bip_39_word_no_space_7 | generalpoolleaderpatrolfatoxygenvirus |  
+| bip_39_word_no_space_8 | generalpoolleaderpatrolfatoxygenviruslunch |  
+| bip_39_word_no_space_9 | generalpoolleaderpatrolfatoxygenviruslunchclay |  
 | bip_39_word_space_0 | ['general', 'pool', 'leader', 'patrol', 'fat', 'oxygen', 'virus', 'lunch', 'clay', 'base', 'host', 'artist'] |  
 | bip_39_word_space_1 | general |  
 | bip_39_word_space_10 | general pool leader patrol fat oxygen virus lunch clay base |  

@@ -122,6 +122,18 @@ meadow
 narrow
 vague
 army |  
+| bip_39_word_no_space_1 | fiber |  
+| bip_39_word_no_space_10 | fibertelljudgecolorbusinessmeadownarrowvaguearmyhockey |  
+| bip_39_word_no_space_11 | fibertelljudgecolorbusinessmeadownarrowvaguearmyhockeyday |  
+| bip_39_word_no_space_12 | fibertelljudgecolorbusinessmeadownarrowvaguearmyhockeydayaccident |  
+| bip_39_word_no_space_2 | fibertell |  
+| bip_39_word_no_space_3 | fibertelljudge |  
+| bip_39_word_no_space_4 | fibertelljudgecolor |  
+| bip_39_word_no_space_5 | fibertelljudgecolorbusiness |  
+| bip_39_word_no_space_6 | fibertelljudgecolorbusinessmeadow |  
+| bip_39_word_no_space_7 | fibertelljudgecolorbusinessmeadownarrow |  
+| bip_39_word_no_space_8 | fibertelljudgecolorbusinessmeadownarrowvague |  
+| bip_39_word_no_space_9 | fibertelljudgecolorbusinessmeadownarrowvaguearmy |  
 | bip_39_word_space_0 | ['fiber', 'tell', 'judge', 'color', 'business', 'meadow', 'narrow', 'vague', 'army', 'hockey', 'day', 'accident'] |  
 | bip_39_word_space_1 | fiber |  
 | bip_39_word_space_10 | fiber tell judge color business meadow narrow vague army hockey |  

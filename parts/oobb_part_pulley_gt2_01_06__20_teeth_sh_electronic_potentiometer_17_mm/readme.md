@@ -122,6 +122,18 @@ opinion
 deposit
 security
 man |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toecraftcornnewsoriginalopiniondepositsecuritymanpaddle |  
+| bip_39_word_no_space_11 | toecraftcornnewsoriginalopiniondepositsecuritymanpaddlesmile |  
+| bip_39_word_no_space_12 | toecraftcornnewsoriginalopiniondepositsecuritymanpaddlesmileanother |  
+| bip_39_word_no_space_2 | toecraft |  
+| bip_39_word_no_space_3 | toecraftcorn |  
+| bip_39_word_no_space_4 | toecraftcornnews |  
+| bip_39_word_no_space_5 | toecraftcornnewsoriginal |  
+| bip_39_word_no_space_6 | toecraftcornnewsoriginalopinion |  
+| bip_39_word_no_space_7 | toecraftcornnewsoriginalopiniondeposit |  
+| bip_39_word_no_space_8 | toecraftcornnewsoriginalopiniondepositsecurity |  
+| bip_39_word_no_space_9 | toecraftcornnewsoriginalopiniondepositsecurityman |  
 | bip_39_word_space_0 | ['toe', 'craft', 'corn', 'news', 'original', 'opinion', 'deposit', 'security', 'man', 'paddle', 'smile', 'another'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe craft corn news original opinion deposit security man paddle |  

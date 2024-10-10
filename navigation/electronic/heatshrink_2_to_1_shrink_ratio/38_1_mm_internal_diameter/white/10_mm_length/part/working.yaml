@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vault
   busy
 
   submit'
+bip_39_word_no_space_1: vault
+bip_39_word_no_space_10: vaulthavefirmbannerhundredgarmentdogbusysubmitface
+bip_39_word_no_space_11: vaulthavefirmbannerhundredgarmentdogbusysubmitfaceonce
+bip_39_word_no_space_12: vaulthavefirmbannerhundredgarmentdogbusysubmitfaceoncealbum
+bip_39_word_no_space_2: vaulthave
+bip_39_word_no_space_3: vaulthavefirm
+bip_39_word_no_space_4: vaulthavefirmbanner
+bip_39_word_no_space_5: vaulthavefirmbannerhundred
+bip_39_word_no_space_6: vaulthavefirmbannerhundredgarment
+bip_39_word_no_space_7: vaulthavefirmbannerhundredgarmentdog
+bip_39_word_no_space_8: vaulthavefirmbannerhundredgarmentdogbusy
+bip_39_word_no_space_9: vaulthavefirmbannerhundredgarmentdogbusysubmit
 bip_39_word_space_0:
 - vault
 - have

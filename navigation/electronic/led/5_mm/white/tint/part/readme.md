@@ -122,6 +122,18 @@ current
 index
 portion
 elder |  
+| bip_39_word_no_space_1 | tornado |  
+| bip_39_word_no_space_10 | tornadodiseasevoiceagreeprimarycurrentindexportionelderfever |  
+| bip_39_word_no_space_11 | tornadodiseasevoiceagreeprimarycurrentindexportionelderfeverrecord |  
+| bip_39_word_no_space_12 | tornadodiseasevoiceagreeprimarycurrentindexportionelderfeverrecordalmost |  
+| bip_39_word_no_space_2 | tornadodisease |  
+| bip_39_word_no_space_3 | tornadodiseasevoice |  
+| bip_39_word_no_space_4 | tornadodiseasevoiceagree |  
+| bip_39_word_no_space_5 | tornadodiseasevoiceagreeprimary |  
+| bip_39_word_no_space_6 | tornadodiseasevoiceagreeprimarycurrent |  
+| bip_39_word_no_space_7 | tornadodiseasevoiceagreeprimarycurrentindex |  
+| bip_39_word_no_space_8 | tornadodiseasevoiceagreeprimarycurrentindexportion |  
+| bip_39_word_no_space_9 | tornadodiseasevoiceagreeprimarycurrentindexportionelder |  
 | bip_39_word_space_0 | ['tornado', 'disease', 'voice', 'agree', 'primary', 'current', 'index', 'portion', 'elder', 'fever', 'record', 'almost'] |  
 | bip_39_word_space_1 | tornado |  
 | bip_39_word_space_10 | tornado disease voice agree primary current index portion elder fever |  

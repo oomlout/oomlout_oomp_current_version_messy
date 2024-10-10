@@ -122,6 +122,18 @@ hockey
 portion
 machine
 ocean |  
+| bip_39_word_no_space_1 | lion |  
+| bip_39_word_no_space_10 | lionlionobjectmoviehunthockeyportionmachineoceanrecycle |  
+| bip_39_word_no_space_11 | lionlionobjectmoviehunthockeyportionmachineoceanrecyclelunch |  
+| bip_39_word_no_space_12 | lionlionobjectmoviehunthockeyportionmachineoceanrecyclelunchaudit |  
+| bip_39_word_no_space_2 | lionlion |  
+| bip_39_word_no_space_3 | lionlionobject |  
+| bip_39_word_no_space_4 | lionlionobjectmovie |  
+| bip_39_word_no_space_5 | lionlionobjectmoviehunt |  
+| bip_39_word_no_space_6 | lionlionobjectmoviehunthockey |  
+| bip_39_word_no_space_7 | lionlionobjectmoviehunthockeyportion |  
+| bip_39_word_no_space_8 | lionlionobjectmoviehunthockeyportionmachine |  
+| bip_39_word_no_space_9 | lionlionobjectmoviehunthockeyportionmachineocean |  
 | bip_39_word_space_0 | ['lion', 'lion', 'object', 'movie', 'hunt', 'hockey', 'portion', 'machine', 'ocean', 'recycle', 'lunch', 'audit'] |  
 | bip_39_word_space_1 | lion |  
 | bip_39_word_space_10 | lion lion object movie hunt hockey portion machine ocean recycle |  

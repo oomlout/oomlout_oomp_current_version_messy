@@ -122,6 +122,18 @@ person
 output
 upper
 bird |  
+| bip_39_word_no_space_1 | cloth |  
+| bip_39_word_no_space_10 | clothwrapwillawfulskullpersonoutputupperbirdsplit |  
+| bip_39_word_no_space_11 | clothwrapwillawfulskullpersonoutputupperbirdsplitmercy |  
+| bip_39_word_no_space_12 | clothwrapwillawfulskullpersonoutputupperbirdsplitmercyaisle |  
+| bip_39_word_no_space_2 | clothwrap |  
+| bip_39_word_no_space_3 | clothwrapwill |  
+| bip_39_word_no_space_4 | clothwrapwillawful |  
+| bip_39_word_no_space_5 | clothwrapwillawfulskull |  
+| bip_39_word_no_space_6 | clothwrapwillawfulskullperson |  
+| bip_39_word_no_space_7 | clothwrapwillawfulskullpersonoutput |  
+| bip_39_word_no_space_8 | clothwrapwillawfulskullpersonoutputupper |  
+| bip_39_word_no_space_9 | clothwrapwillawfulskullpersonoutputupperbird |  
 | bip_39_word_space_0 | ['cloth', 'wrap', 'will', 'awful', 'skull', 'person', 'output', 'upper', 'bird', 'split', 'mercy', 'aisle'] |  
 | bip_39_word_space_1 | cloth |  
 | bip_39_word_space_10 | cloth wrap will awful skull person output upper bird split |  

@@ -122,6 +122,18 @@ trust
 step
 task
 tip |  
+| bip_39_word_no_space_1 | parent |  
+| bip_39_word_no_space_10 | parentchairsplitfadegreattruststeptasktipattitude |  
+| bip_39_word_no_space_11 | parentchairsplitfadegreattruststeptasktipattitudesound |  
+| bip_39_word_no_space_12 | parentchairsplitfadegreattruststeptasktipattitudesoundaffair |  
+| bip_39_word_no_space_2 | parentchair |  
+| bip_39_word_no_space_3 | parentchairsplit |  
+| bip_39_word_no_space_4 | parentchairsplitfade |  
+| bip_39_word_no_space_5 | parentchairsplitfadegreat |  
+| bip_39_word_no_space_6 | parentchairsplitfadegreattrust |  
+| bip_39_word_no_space_7 | parentchairsplitfadegreattruststep |  
+| bip_39_word_no_space_8 | parentchairsplitfadegreattruststeptask |  
+| bip_39_word_no_space_9 | parentchairsplitfadegreattruststeptasktip |  
 | bip_39_word_space_0 | ['parent', 'chair', 'split', 'fade', 'great', 'trust', 'step', 'task', 'tip', 'attitude', 'sound', 'affair'] |  
 | bip_39_word_space_1 | parent |  
 | bip_39_word_space_10 | parent chair split fade great trust step task tip attitude |  

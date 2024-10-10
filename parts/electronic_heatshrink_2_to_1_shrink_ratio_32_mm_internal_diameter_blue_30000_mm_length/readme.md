@@ -122,6 +122,18 @@ universe
 able
 release
 subway |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotterytumblecrossyardmatrixuniverseablereleasesubwaylater |  
+| bip_39_word_no_space_11 | lotterytumblecrossyardmatrixuniverseablereleasesubwaylaterstone |  
+| bip_39_word_no_space_12 | lotterytumblecrossyardmatrixuniverseablereleasesubwaylaterstoneaccount |  
+| bip_39_word_no_space_2 | lotterytumble |  
+| bip_39_word_no_space_3 | lotterytumblecross |  
+| bip_39_word_no_space_4 | lotterytumblecrossyard |  
+| bip_39_word_no_space_5 | lotterytumblecrossyardmatrix |  
+| bip_39_word_no_space_6 | lotterytumblecrossyardmatrixuniverse |  
+| bip_39_word_no_space_7 | lotterytumblecrossyardmatrixuniverseable |  
+| bip_39_word_no_space_8 | lotterytumblecrossyardmatrixuniverseablerelease |  
+| bip_39_word_no_space_9 | lotterytumblecrossyardmatrixuniverseablereleasesubway |  
 | bip_39_word_space_0 | ['lottery', 'tumble', 'cross', 'yard', 'matrix', 'universe', 'able', 'release', 'subway', 'later', 'stone', 'account'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery tumble cross yard matrix universe able release subway later |  

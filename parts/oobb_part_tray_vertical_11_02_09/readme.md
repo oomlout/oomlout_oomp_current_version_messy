@@ -122,6 +122,18 @@ female
 hollow
 number
 arm |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hourgingervoyagemaplerewardfemalehollownumberarmrain |  
+| bip_39_word_no_space_11 | hourgingervoyagemaplerewardfemalehollownumberarmrainsight |  
+| bip_39_word_no_space_12 | hourgingervoyagemaplerewardfemalehollownumberarmrainsightabout |  
+| bip_39_word_no_space_2 | hourginger |  
+| bip_39_word_no_space_3 | hourgingervoyage |  
+| bip_39_word_no_space_4 | hourgingervoyagemaple |  
+| bip_39_word_no_space_5 | hourgingervoyagemaplereward |  
+| bip_39_word_no_space_6 | hourgingervoyagemaplerewardfemale |  
+| bip_39_word_no_space_7 | hourgingervoyagemaplerewardfemalehollow |  
+| bip_39_word_no_space_8 | hourgingervoyagemaplerewardfemalehollownumber |  
+| bip_39_word_no_space_9 | hourgingervoyagemaplerewardfemalehollownumberarm |  
 | bip_39_word_space_0 | ['hour', 'ginger', 'voyage', 'maple', 'reward', 'female', 'hollow', 'number', 'arm', 'rain', 'sight', 'about'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour ginger voyage maple reward female hollow number arm rain |  

@@ -122,6 +122,18 @@ title
 chalk
 gauge
 slam |  
+| bip_39_word_no_space_1 | problem |  
+| bip_39_word_no_space_10 | problempioneercheapblastpasstitlechalkgaugeslamarmed |  
+| bip_39_word_no_space_11 | problempioneercheapblastpasstitlechalkgaugeslamarmeddiagram |  
+| bip_39_word_no_space_12 | problempioneercheapblastpasstitlechalkgaugeslamarmeddiagramancient |  
+| bip_39_word_no_space_2 | problempioneer |  
+| bip_39_word_no_space_3 | problempioneercheap |  
+| bip_39_word_no_space_4 | problempioneercheapblast |  
+| bip_39_word_no_space_5 | problempioneercheapblastpass |  
+| bip_39_word_no_space_6 | problempioneercheapblastpasstitle |  
+| bip_39_word_no_space_7 | problempioneercheapblastpasstitlechalk |  
+| bip_39_word_no_space_8 | problempioneercheapblastpasstitlechalkgauge |  
+| bip_39_word_no_space_9 | problempioneercheapblastpasstitlechalkgaugeslam |  
 | bip_39_word_space_0 | ['problem', 'pioneer', 'cheap', 'blast', 'pass', 'title', 'chalk', 'gauge', 'slam', 'armed', 'diagram', 'ancient'] |  
 | bip_39_word_space_1 | problem |  
 | bip_39_word_space_10 | problem pioneer cheap blast pass title chalk gauge slam armed |  

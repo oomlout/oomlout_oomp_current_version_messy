@@ -122,6 +122,18 @@ suggest
 siege
 grant
 desk |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainfrozenonionabandonboilsuggestsiegegrantdeskblade |  
+| bip_39_word_no_space_11 | grainfrozenonionabandonboilsuggestsiegegrantdeskbladegeneral |  
+| bip_39_word_no_space_12 | grainfrozenonionabandonboilsuggestsiegegrantdeskbladegeneralairport |  
+| bip_39_word_no_space_2 | grainfrozen |  
+| bip_39_word_no_space_3 | grainfrozenonion |  
+| bip_39_word_no_space_4 | grainfrozenonionabandon |  
+| bip_39_word_no_space_5 | grainfrozenonionabandonboil |  
+| bip_39_word_no_space_6 | grainfrozenonionabandonboilsuggest |  
+| bip_39_word_no_space_7 | grainfrozenonionabandonboilsuggestsiege |  
+| bip_39_word_no_space_8 | grainfrozenonionabandonboilsuggestsiegegrant |  
+| bip_39_word_no_space_9 | grainfrozenonionabandonboilsuggestsiegegrantdesk |  
 | bip_39_word_space_0 | ['grain', 'frozen', 'onion', 'abandon', 'boil', 'suggest', 'siege', 'grant', 'desk', 'blade', 'general', 'airport'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain frozen onion abandon boil suggest siege grant desk blade |  

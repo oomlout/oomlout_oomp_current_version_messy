@@ -122,6 +122,18 @@ govern
 cheese
 scan
 sunset |  
+| bip_39_word_no_space_1 | olive |  
+| bip_39_word_no_space_10 | oliveblastrejectenlistvitalgoverncheesescansunsetawesome |  
+| bip_39_word_no_space_11 | oliveblastrejectenlistvitalgoverncheesescansunsetawesomeexpire |  
+| bip_39_word_no_space_12 | oliveblastrejectenlistvitalgoverncheesescansunsetawesomeexpireaunt |  
+| bip_39_word_no_space_2 | oliveblast |  
+| bip_39_word_no_space_3 | oliveblastreject |  
+| bip_39_word_no_space_4 | oliveblastrejectenlist |  
+| bip_39_word_no_space_5 | oliveblastrejectenlistvital |  
+| bip_39_word_no_space_6 | oliveblastrejectenlistvitalgovern |  
+| bip_39_word_no_space_7 | oliveblastrejectenlistvitalgoverncheese |  
+| bip_39_word_no_space_8 | oliveblastrejectenlistvitalgoverncheesescan |  
+| bip_39_word_no_space_9 | oliveblastrejectenlistvitalgoverncheesescansunset |  
 | bip_39_word_space_0 | ['olive', 'blast', 'reject', 'enlist', 'vital', 'govern', 'cheese', 'scan', 'sunset', 'awesome', 'expire', 'aunt'] |  
 | bip_39_word_space_1 | olive |  
 | bip_39_word_space_10 | olive blast reject enlist vital govern cheese scan sunset awesome |  

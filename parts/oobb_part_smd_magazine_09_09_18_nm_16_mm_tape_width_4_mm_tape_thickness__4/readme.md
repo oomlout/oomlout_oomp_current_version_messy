@@ -122,6 +122,18 @@ mango
 scout
 relief
 short |  
+| bip_39_word_no_space_1 | fat |  
+| bip_39_word_no_space_10 | fatolympicmanalarmloanmangoscoutreliefshortface |  
+| bip_39_word_no_space_11 | fatolympicmanalarmloanmangoscoutreliefshortfaceloyal |  
+| bip_39_word_no_space_12 | fatolympicmanalarmloanmangoscoutreliefshortfaceloyalassault |  
+| bip_39_word_no_space_2 | fatolympic |  
+| bip_39_word_no_space_3 | fatolympicman |  
+| bip_39_word_no_space_4 | fatolympicmanalarm |  
+| bip_39_word_no_space_5 | fatolympicmanalarmloan |  
+| bip_39_word_no_space_6 | fatolympicmanalarmloanmango |  
+| bip_39_word_no_space_7 | fatolympicmanalarmloanmangoscout |  
+| bip_39_word_no_space_8 | fatolympicmanalarmloanmangoscoutrelief |  
+| bip_39_word_no_space_9 | fatolympicmanalarmloanmangoscoutreliefshort |  
 | bip_39_word_space_0 | ['fat', 'olympic', 'man', 'alarm', 'loan', 'mango', 'scout', 'relief', 'short', 'face', 'loyal', 'assault'] |  
 | bip_39_word_space_1 | fat |  
 | bip_39_word_space_10 | fat olympic man alarm loan mango scout relief short face |  

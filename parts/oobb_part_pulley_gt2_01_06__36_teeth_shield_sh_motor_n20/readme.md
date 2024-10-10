@@ -122,6 +122,18 @@ tuna
 alarm
 satoshi
 motor |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tosspoliceslicecaughtraintunaalarmsatoshimotoroyster |  
+| bip_39_word_no_space_11 | tosspoliceslicecaughtraintunaalarmsatoshimotoroysterregion |  
+| bip_39_word_no_space_12 | tosspoliceslicecaughtraintunaalarmsatoshimotoroysterregionair |  
+| bip_39_word_no_space_2 | tosspolice |  
+| bip_39_word_no_space_3 | tosspoliceslice |  
+| bip_39_word_no_space_4 | tosspoliceslicecaught |  
+| bip_39_word_no_space_5 | tosspoliceslicecaughtrain |  
+| bip_39_word_no_space_6 | tosspoliceslicecaughtraintuna |  
+| bip_39_word_no_space_7 | tosspoliceslicecaughtraintunaalarm |  
+| bip_39_word_no_space_8 | tosspoliceslicecaughtraintunaalarmsatoshi |  
+| bip_39_word_no_space_9 | tosspoliceslicecaughtraintunaalarmsatoshimotor |  
 | bip_39_word_space_0 | ['toss', 'police', 'slice', 'caught', 'rain', 'tuna', 'alarm', 'satoshi', 'motor', 'oyster', 'region', 'air'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss police slice caught rain tuna alarm satoshi motor oyster |  

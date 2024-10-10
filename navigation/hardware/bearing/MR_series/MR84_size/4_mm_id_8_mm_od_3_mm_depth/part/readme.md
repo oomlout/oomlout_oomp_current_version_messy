@@ -122,6 +122,18 @@ pioneer
 tone
 boat
 silk |  
+| bip_39_word_no_space_1 | erupt |  
+| bip_39_word_no_space_10 | eruptdaughterupperslotpeasantpioneertoneboatsilkera |  
+| bip_39_word_no_space_11 | eruptdaughterupperslotpeasantpioneertoneboatsilkerachampion |  
+| bip_39_word_no_space_12 | eruptdaughterupperslotpeasantpioneertoneboatsilkerachampionaffair |  
+| bip_39_word_no_space_2 | eruptdaughter |  
+| bip_39_word_no_space_3 | eruptdaughterupper |  
+| bip_39_word_no_space_4 | eruptdaughterupperslot |  
+| bip_39_word_no_space_5 | eruptdaughterupperslotpeasant |  
+| bip_39_word_no_space_6 | eruptdaughterupperslotpeasantpioneer |  
+| bip_39_word_no_space_7 | eruptdaughterupperslotpeasantpioneertone |  
+| bip_39_word_no_space_8 | eruptdaughterupperslotpeasantpioneertoneboat |  
+| bip_39_word_no_space_9 | eruptdaughterupperslotpeasantpioneertoneboatsilk |  
 | bip_39_word_space_0 | ['erupt', 'daughter', 'upper', 'slot', 'peasant', 'pioneer', 'tone', 'boat', 'silk', 'era', 'champion', 'affair'] |  
 | bip_39_word_space_1 | erupt |  
 | bip_39_word_space_10 | erupt daughter upper slot peasant pioneer tone boat silk era |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sport
   junk
 
   kind'
+bip_39_word_no_space_1: sport
+bip_39_word_no_space_10: sportpredictbravecreekspheretriggerdegreejunkkindswear
+bip_39_word_no_space_11: sportpredictbravecreekspheretriggerdegreejunkkindswearcave
+bip_39_word_no_space_12: sportpredictbravecreekspheretriggerdegreejunkkindswearcavealbum
+bip_39_word_no_space_2: sportpredict
+bip_39_word_no_space_3: sportpredictbrave
+bip_39_word_no_space_4: sportpredictbravecreek
+bip_39_word_no_space_5: sportpredictbravecreeksphere
+bip_39_word_no_space_6: sportpredictbravecreekspheretrigger
+bip_39_word_no_space_7: sportpredictbravecreekspheretriggerdegree
+bip_39_word_no_space_8: sportpredictbravecreekspheretriggerdegreejunk
+bip_39_word_no_space_9: sportpredictbravecreekspheretriggerdegreejunkkind
 bip_39_word_space_0:
 - sport
 - predict

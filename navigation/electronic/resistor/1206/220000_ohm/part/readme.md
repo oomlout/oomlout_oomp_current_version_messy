@@ -122,6 +122,18 @@ soda
 kite
 swim
 expose |  
+| bip_39_word_no_space_1 | doctor |  
+| bip_39_word_no_space_10 | doctorgoodlatermimicupsetsodakiteswimexposepeace |  
+| bip_39_word_no_space_11 | doctorgoodlatermimicupsetsodakiteswimexposepeacekeen |  
+| bip_39_word_no_space_12 | doctorgoodlatermimicupsetsodakiteswimexposepeacekeenanalyst |  
+| bip_39_word_no_space_2 | doctorgood |  
+| bip_39_word_no_space_3 | doctorgoodlater |  
+| bip_39_word_no_space_4 | doctorgoodlatermimic |  
+| bip_39_word_no_space_5 | doctorgoodlatermimicupset |  
+| bip_39_word_no_space_6 | doctorgoodlatermimicupsetsoda |  
+| bip_39_word_no_space_7 | doctorgoodlatermimicupsetsodakite |  
+| bip_39_word_no_space_8 | doctorgoodlatermimicupsetsodakiteswim |  
+| bip_39_word_no_space_9 | doctorgoodlatermimicupsetsodakiteswimexpose |  
 | bip_39_word_space_0 | ['doctor', 'good', 'later', 'mimic', 'upset', 'soda', 'kite', 'swim', 'expose', 'peace', 'keen', 'analyst'] |  
 | bip_39_word_space_1 | doctor |  
 | bip_39_word_space_10 | doctor good later mimic upset soda kite swim expose peace |  

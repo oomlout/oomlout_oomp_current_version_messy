@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rack
   forum
 
   antenna'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackfanshedvisitdespairempowergorillaforumantennacrop
+bip_39_word_no_space_11: rackfanshedvisitdespairempowergorillaforumantennacropjacket
+bip_39_word_no_space_12: rackfanshedvisitdespairempowergorillaforumantennacropjacketactress
+bip_39_word_no_space_2: rackfan
+bip_39_word_no_space_3: rackfanshed
+bip_39_word_no_space_4: rackfanshedvisit
+bip_39_word_no_space_5: rackfanshedvisitdespair
+bip_39_word_no_space_6: rackfanshedvisitdespairempower
+bip_39_word_no_space_7: rackfanshedvisitdespairempowergorilla
+bip_39_word_no_space_8: rackfanshedvisitdespairempowergorillaforum
+bip_39_word_no_space_9: rackfanshedvisitdespairempowergorillaforumantenna
 bip_39_word_space_0:
 - rack
 - fan

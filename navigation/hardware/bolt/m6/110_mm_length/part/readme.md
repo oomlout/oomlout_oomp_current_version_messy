@@ -122,6 +122,18 @@ beyond
 amount
 dial
 birth |  
+| bip_39_word_no_space_1 | honey |  
+| bip_39_word_no_space_10 | honeyfosterladyanswersurfacebeyondamountdialbirthsystem |  
+| bip_39_word_no_space_11 | honeyfosterladyanswersurfacebeyondamountdialbirthsystemdepend |  
+| bip_39_word_no_space_12 | honeyfosterladyanswersurfacebeyondamountdialbirthsystemdependaisle |  
+| bip_39_word_no_space_2 | honeyfoster |  
+| bip_39_word_no_space_3 | honeyfosterlady |  
+| bip_39_word_no_space_4 | honeyfosterladyanswer |  
+| bip_39_word_no_space_5 | honeyfosterladyanswersurface |  
+| bip_39_word_no_space_6 | honeyfosterladyanswersurfacebeyond |  
+| bip_39_word_no_space_7 | honeyfosterladyanswersurfacebeyondamount |  
+| bip_39_word_no_space_8 | honeyfosterladyanswersurfacebeyondamountdial |  
+| bip_39_word_no_space_9 | honeyfosterladyanswersurfacebeyondamountdialbirth |  
 | bip_39_word_space_0 | ['honey', 'foster', 'lady', 'answer', 'surface', 'beyond', 'amount', 'dial', 'birth', 'system', 'depend', 'aisle'] |  
 | bip_39_word_space_1 | honey |  
 | bip_39_word_space_10 | honey foster lady answer surface beyond amount dial birth system |  

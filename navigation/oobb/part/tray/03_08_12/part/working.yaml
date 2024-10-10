@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lecture
   lecture
 
   install'
+bip_39_word_no_space_1: lecture
+bip_39_word_no_space_10: lecturedialcardboystaffvenuedeclinelectureinstallhen
+bip_39_word_no_space_11: lecturedialcardboystaffvenuedeclinelectureinstallhencurious
+bip_39_word_no_space_12: lecturedialcardboystaffvenuedeclinelectureinstallhencuriousattitude
+bip_39_word_no_space_2: lecturedial
+bip_39_word_no_space_3: lecturedialcard
+bip_39_word_no_space_4: lecturedialcardboy
+bip_39_word_no_space_5: lecturedialcardboystaff
+bip_39_word_no_space_6: lecturedialcardboystaffvenue
+bip_39_word_no_space_7: lecturedialcardboystaffvenuedecline
+bip_39_word_no_space_8: lecturedialcardboystaffvenuedeclinelecture
+bip_39_word_no_space_9: lecturedialcardboystaffvenuedeclinelectureinstall
 bip_39_word_space_0:
 - lecture
 - dial

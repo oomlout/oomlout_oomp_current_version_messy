@@ -122,6 +122,18 @@ mind
 pilot
 law
 era |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarpistolfirmdripbeyondmindpilotlaweragoddess |  
+| bip_39_word_no_space_11 | liarpistolfirmdripbeyondmindpilotlaweragoddesscrazy |  
+| bip_39_word_no_space_12 | liarpistolfirmdripbeyondmindpilotlaweragoddesscrazyalpha |  
+| bip_39_word_no_space_2 | liarpistol |  
+| bip_39_word_no_space_3 | liarpistolfirm |  
+| bip_39_word_no_space_4 | liarpistolfirmdrip |  
+| bip_39_word_no_space_5 | liarpistolfirmdripbeyond |  
+| bip_39_word_no_space_6 | liarpistolfirmdripbeyondmind |  
+| bip_39_word_no_space_7 | liarpistolfirmdripbeyondmindpilot |  
+| bip_39_word_no_space_8 | liarpistolfirmdripbeyondmindpilotlaw |  
+| bip_39_word_no_space_9 | liarpistolfirmdripbeyondmindpilotlawera |  
 | bip_39_word_space_0 | ['liar', 'pistol', 'firm', 'drip', 'beyond', 'mind', 'pilot', 'law', 'era', 'goddess', 'crazy', 'alpha'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar pistol firm drip beyond mind pilot law era goddess |  

@@ -122,6 +122,18 @@ indoor
 calm
 myth
 crawl |  
+| bip_39_word_no_space_1 | arch |  
+| bip_39_word_no_space_10 | archdolphinpredictdevelopshaftindoorcalmmythcrawlcement |  
+| bip_39_word_no_space_11 | archdolphinpredictdevelopshaftindoorcalmmythcrawlcementsearch |  
+| bip_39_word_no_space_12 | archdolphinpredictdevelopshaftindoorcalmmythcrawlcementsearchanalyst |  
+| bip_39_word_no_space_2 | archdolphin |  
+| bip_39_word_no_space_3 | archdolphinpredict |  
+| bip_39_word_no_space_4 | archdolphinpredictdevelop |  
+| bip_39_word_no_space_5 | archdolphinpredictdevelopshaft |  
+| bip_39_word_no_space_6 | archdolphinpredictdevelopshaftindoor |  
+| bip_39_word_no_space_7 | archdolphinpredictdevelopshaftindoorcalm |  
+| bip_39_word_no_space_8 | archdolphinpredictdevelopshaftindoorcalmmyth |  
+| bip_39_word_no_space_9 | archdolphinpredictdevelopshaftindoorcalmmythcrawl |  
 | bip_39_word_space_0 | ['arch', 'dolphin', 'predict', 'develop', 'shaft', 'indoor', 'calm', 'myth', 'crawl', 'cement', 'search', 'analyst'] |  
 | bip_39_word_space_1 | arch |  
 | bip_39_word_space_10 | arch dolphin predict develop shaft indoor calm myth crawl cement |  

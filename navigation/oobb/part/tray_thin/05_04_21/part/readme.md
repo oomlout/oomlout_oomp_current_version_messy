@@ -122,6 +122,18 @@ primary
 candy
 ivory
 surround |  
+| bip_39_word_no_space_1 | increase |  
+| bip_39_word_no_space_10 | increasenormalflagbusshyprimarycandyivorysurroundvendor |  
+| bip_39_word_no_space_11 | increasenormalflagbusshyprimarycandyivorysurroundvendormosquito |  
+| bip_39_word_no_space_12 | increasenormalflagbusshyprimarycandyivorysurroundvendormosquitoapril |  
+| bip_39_word_no_space_2 | increasenormal |  
+| bip_39_word_no_space_3 | increasenormalflag |  
+| bip_39_word_no_space_4 | increasenormalflagbus |  
+| bip_39_word_no_space_5 | increasenormalflagbusshy |  
+| bip_39_word_no_space_6 | increasenormalflagbusshyprimary |  
+| bip_39_word_no_space_7 | increasenormalflagbusshyprimarycandy |  
+| bip_39_word_no_space_8 | increasenormalflagbusshyprimarycandyivory |  
+| bip_39_word_no_space_9 | increasenormalflagbusshyprimarycandyivorysurround |  
 | bip_39_word_space_0 | ['increase', 'normal', 'flag', 'bus', 'shy', 'primary', 'candy', 'ivory', 'surround', 'vendor', 'mosquito', 'april'] |  
 | bip_39_word_space_1 | increase |  
 | bip_39_word_space_10 | increase normal flag bus shy primary candy ivory surround vendor |  

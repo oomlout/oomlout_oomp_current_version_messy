@@ -122,6 +122,18 @@ pulse
 swarm
 broccoli
 north |  
+| bip_39_word_no_space_1 | tomorrow |  
+| bip_39_word_no_space_10 | tomorrowdefyareaengageventurepulseswarmbroccolinorthrecord |  
+| bip_39_word_no_space_11 | tomorrowdefyareaengageventurepulseswarmbroccolinorthrecordjealous |  
+| bip_39_word_no_space_12 | tomorrowdefyareaengageventurepulseswarmbroccolinorthrecordjealousankle |  
+| bip_39_word_no_space_2 | tomorrowdefy |  
+| bip_39_word_no_space_3 | tomorrowdefyarea |  
+| bip_39_word_no_space_4 | tomorrowdefyareaengage |  
+| bip_39_word_no_space_5 | tomorrowdefyareaengageventure |  
+| bip_39_word_no_space_6 | tomorrowdefyareaengageventurepulse |  
+| bip_39_word_no_space_7 | tomorrowdefyareaengageventurepulseswarm |  
+| bip_39_word_no_space_8 | tomorrowdefyareaengageventurepulseswarmbroccoli |  
+| bip_39_word_no_space_9 | tomorrowdefyareaengageventurepulseswarmbroccolinorth |  
 | bip_39_word_space_0 | ['tomorrow', 'defy', 'area', 'engage', 'venture', 'pulse', 'swarm', 'broccoli', 'north', 'record', 'jealous', 'ankle'] |  
 | bip_39_word_space_1 | tomorrow |  
 | bip_39_word_space_10 | tomorrow defy area engage venture pulse swarm broccoli north record |  

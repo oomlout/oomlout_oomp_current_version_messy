@@ -122,6 +122,18 @@ reduce
 armed
 sand
 liar |  
+| bip_39_word_no_space_1 | stand |  
+| bip_39_word_no_space_10 | standviablepigeonsubwaysoupreducearmedsandliardefy |  
+| bip_39_word_no_space_11 | standviablepigeonsubwaysoupreducearmedsandliardefyshove |  
+| bip_39_word_no_space_12 | standviablepigeonsubwaysoupreducearmedsandliardefyshoveabsent |  
+| bip_39_word_no_space_2 | standviable |  
+| bip_39_word_no_space_3 | standviablepigeon |  
+| bip_39_word_no_space_4 | standviablepigeonsubway |  
+| bip_39_word_no_space_5 | standviablepigeonsubwaysoup |  
+| bip_39_word_no_space_6 | standviablepigeonsubwaysoupreduce |  
+| bip_39_word_no_space_7 | standviablepigeonsubwaysoupreducearmed |  
+| bip_39_word_no_space_8 | standviablepigeonsubwaysoupreducearmedsand |  
+| bip_39_word_no_space_9 | standviablepigeonsubwaysoupreducearmedsandliar |  
 | bip_39_word_space_0 | ['stand', 'viable', 'pigeon', 'subway', 'soup', 'reduce', 'armed', 'sand', 'liar', 'defy', 'shove', 'absent'] |  
 | bip_39_word_space_1 | stand |  
 | bip_39_word_space_10 | stand viable pigeon subway soup reduce armed sand liar defy |  

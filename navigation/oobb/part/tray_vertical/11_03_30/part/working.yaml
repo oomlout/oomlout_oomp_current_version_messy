@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'biology
   helmet
 
   device'
+bip_39_word_no_space_1: biology
+bip_39_word_no_space_10: biologycabinbluridlesixsiegetaskhelmetdevicegeneral
+bip_39_word_no_space_11: biologycabinbluridlesixsiegetaskhelmetdevicegeneralapril
+bip_39_word_no_space_12: biologycabinbluridlesixsiegetaskhelmetdevicegeneralaprilamateur
+bip_39_word_no_space_2: biologycabin
+bip_39_word_no_space_3: biologycabinblur
+bip_39_word_no_space_4: biologycabinbluridle
+bip_39_word_no_space_5: biologycabinbluridlesix
+bip_39_word_no_space_6: biologycabinbluridlesixsiege
+bip_39_word_no_space_7: biologycabinbluridlesixsiegetask
+bip_39_word_no_space_8: biologycabinbluridlesixsiegetaskhelmet
+bip_39_word_no_space_9: biologycabinbluridlesixsiegetaskhelmetdevice
 bip_39_word_space_0:
 - biology
 - cabin

@@ -122,6 +122,18 @@ helmet
 math
 grocery
 color |  
+| bip_39_word_no_space_1 | age |  
+| bip_39_word_no_space_10 | agebicyclefadesurveychangehelmetmathgrocerycolorfit |  
+| bip_39_word_no_space_11 | agebicyclefadesurveychangehelmetmathgrocerycolorfitseries |  
+| bip_39_word_no_space_12 | agebicyclefadesurveychangehelmetmathgrocerycolorfitseriesaction |  
+| bip_39_word_no_space_2 | agebicycle |  
+| bip_39_word_no_space_3 | agebicyclefade |  
+| bip_39_word_no_space_4 | agebicyclefadesurvey |  
+| bip_39_word_no_space_5 | agebicyclefadesurveychange |  
+| bip_39_word_no_space_6 | agebicyclefadesurveychangehelmet |  
+| bip_39_word_no_space_7 | agebicyclefadesurveychangehelmetmath |  
+| bip_39_word_no_space_8 | agebicyclefadesurveychangehelmetmathgrocery |  
+| bip_39_word_no_space_9 | agebicyclefadesurveychangehelmetmathgrocerycolor |  
 | bip_39_word_space_0 | ['age', 'bicycle', 'fade', 'survey', 'change', 'helmet', 'math', 'grocery', 'color', 'fit', 'series', 'action'] |  
 | bip_39_word_space_1 | age |  
 | bip_39_word_space_10 | age bicycle fade survey change helmet math grocery color fit |  

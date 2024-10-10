@@ -122,6 +122,18 @@ cash
 donkey
 skin
 solar |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainrewardmonsterclimbeagercashdonkeyskinsolaruniverse |  
+| bip_39_word_no_space_11 | grainrewardmonsterclimbeagercashdonkeyskinsolaruniversepanda |  
+| bip_39_word_no_space_12 | grainrewardmonsterclimbeagercashdonkeyskinsolaruniversepandaasset |  
+| bip_39_word_no_space_2 | grainreward |  
+| bip_39_word_no_space_3 | grainrewardmonster |  
+| bip_39_word_no_space_4 | grainrewardmonsterclimb |  
+| bip_39_word_no_space_5 | grainrewardmonsterclimbeager |  
+| bip_39_word_no_space_6 | grainrewardmonsterclimbeagercash |  
+| bip_39_word_no_space_7 | grainrewardmonsterclimbeagercashdonkey |  
+| bip_39_word_no_space_8 | grainrewardmonsterclimbeagercashdonkeyskin |  
+| bip_39_word_no_space_9 | grainrewardmonsterclimbeagercashdonkeyskinsolar |  
 | bip_39_word_space_0 | ['grain', 'reward', 'monster', 'climb', 'eager', 'cash', 'donkey', 'skin', 'solar', 'universe', 'panda', 'asset'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain reward monster climb eager cash donkey skin solar universe |  

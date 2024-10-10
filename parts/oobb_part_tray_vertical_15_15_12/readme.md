@@ -122,6 +122,18 @@ diagram
 crumble
 whisper
 rug |  
+| bip_39_word_no_space_1 | science |  
+| bip_39_word_no_space_10 | sciencetiltembracelittlehedgehogdiagramcrumblewhisperrugslide |  
+| bip_39_word_no_space_11 | sciencetiltembracelittlehedgehogdiagramcrumblewhisperrugslidesuspect |  
+| bip_39_word_no_space_12 | sciencetiltembracelittlehedgehogdiagramcrumblewhisperrugslidesuspectalways |  
+| bip_39_word_no_space_2 | sciencetilt |  
+| bip_39_word_no_space_3 | sciencetiltembrace |  
+| bip_39_word_no_space_4 | sciencetiltembracelittle |  
+| bip_39_word_no_space_5 | sciencetiltembracelittlehedgehog |  
+| bip_39_word_no_space_6 | sciencetiltembracelittlehedgehogdiagram |  
+| bip_39_word_no_space_7 | sciencetiltembracelittlehedgehogdiagramcrumble |  
+| bip_39_word_no_space_8 | sciencetiltembracelittlehedgehogdiagramcrumblewhisper |  
+| bip_39_word_no_space_9 | sciencetiltembracelittlehedgehogdiagramcrumblewhisperrug |  
 | bip_39_word_space_0 | ['science', 'tilt', 'embrace', 'little', 'hedgehog', 'diagram', 'crumble', 'whisper', 'rug', 'slide', 'suspect', 'always'] |  
 | bip_39_word_space_1 | science |  
 | bip_39_word_space_10 | science tilt embrace little hedgehog diagram crumble whisper rug slide |  

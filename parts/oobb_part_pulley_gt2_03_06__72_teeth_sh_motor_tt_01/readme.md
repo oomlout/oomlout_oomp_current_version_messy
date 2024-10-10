@@ -122,6 +122,18 @@ sting
 subject
 owner
 area |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosioncriticheartallasthmastingsubjectownerareagoddess |  
+| bip_39_word_no_space_11 | erosioncriticheartallasthmastingsubjectownerareagoddesserror |  
+| bip_39_word_no_space_12 | erosioncriticheartallasthmastingsubjectownerareagoddesserrorangry |  
+| bip_39_word_no_space_2 | erosioncritic |  
+| bip_39_word_no_space_3 | erosioncriticheart |  
+| bip_39_word_no_space_4 | erosioncriticheartall |  
+| bip_39_word_no_space_5 | erosioncriticheartallasthma |  
+| bip_39_word_no_space_6 | erosioncriticheartallasthmasting |  
+| bip_39_word_no_space_7 | erosioncriticheartallasthmastingsubject |  
+| bip_39_word_no_space_8 | erosioncriticheartallasthmastingsubjectowner |  
+| bip_39_word_no_space_9 | erosioncriticheartallasthmastingsubjectownerarea |  
 | bip_39_word_space_0 | ['erosion', 'critic', 'heart', 'all', 'asthma', 'sting', 'subject', 'owner', 'area', 'goddess', 'error', 'angry'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion critic heart all asthma sting subject owner area goddess |  

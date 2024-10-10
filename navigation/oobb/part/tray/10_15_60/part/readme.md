@@ -122,6 +122,18 @@ clip
 mesh
 energy
 column |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removebrainnegativeshadowinstallclipmeshenergycolumnkick |  
+| bip_39_word_no_space_11 | removebrainnegativeshadowinstallclipmeshenergycolumnkickunknown |  
+| bip_39_word_no_space_12 | removebrainnegativeshadowinstallclipmeshenergycolumnkickunknownapprove |  
+| bip_39_word_no_space_2 | removebrain |  
+| bip_39_word_no_space_3 | removebrainnegative |  
+| bip_39_word_no_space_4 | removebrainnegativeshadow |  
+| bip_39_word_no_space_5 | removebrainnegativeshadowinstall |  
+| bip_39_word_no_space_6 | removebrainnegativeshadowinstallclip |  
+| bip_39_word_no_space_7 | removebrainnegativeshadowinstallclipmesh |  
+| bip_39_word_no_space_8 | removebrainnegativeshadowinstallclipmeshenergy |  
+| bip_39_word_no_space_9 | removebrainnegativeshadowinstallclipmeshenergycolumn |  
 | bip_39_word_space_0 | ['remove', 'brain', 'negative', 'shadow', 'install', 'clip', 'mesh', 'energy', 'column', 'kick', 'unknown', 'approve'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove brain negative shadow install clip mesh energy column kick |  

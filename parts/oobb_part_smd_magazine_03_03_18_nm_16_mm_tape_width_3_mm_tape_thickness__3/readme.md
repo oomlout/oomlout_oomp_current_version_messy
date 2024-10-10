@@ -122,6 +122,18 @@ bullet
 reform
 pave
 meadow |  
+| bip_39_word_no_space_1 | average |  
+| bip_39_word_no_space_10 | averagecautionpricemomentreturnbulletreformpavemeadowindicate |  
+| bip_39_word_no_space_11 | averagecautionpricemomentreturnbulletreformpavemeadowindicatenerve |  
+| bip_39_word_no_space_12 | averagecautionpricemomentreturnbulletreformpavemeadowindicatenerveaddress |  
+| bip_39_word_no_space_2 | averagecaution |  
+| bip_39_word_no_space_3 | averagecautionprice |  
+| bip_39_word_no_space_4 | averagecautionpricemoment |  
+| bip_39_word_no_space_5 | averagecautionpricemomentreturn |  
+| bip_39_word_no_space_6 | averagecautionpricemomentreturnbullet |  
+| bip_39_word_no_space_7 | averagecautionpricemomentreturnbulletreform |  
+| bip_39_word_no_space_8 | averagecautionpricemomentreturnbulletreformpave |  
+| bip_39_word_no_space_9 | averagecautionpricemomentreturnbulletreformpavemeadow |  
 | bip_39_word_space_0 | ['average', 'caution', 'price', 'moment', 'return', 'bullet', 'reform', 'pave', 'meadow', 'indicate', 'nerve', 'address'] |  
 | bip_39_word_space_1 | average |  
 | bip_39_word_space_10 | average caution price moment return bullet reform pave meadow indicate |  

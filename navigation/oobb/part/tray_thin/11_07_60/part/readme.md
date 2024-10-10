@@ -122,6 +122,18 @@ toddler
 isolate
 fine
 play |  
+| bip_39_word_no_space_1 | door |  
+| bip_39_word_no_space_10 | doorturngovernliveregiontoddlerisolatefineplaylike |  
+| bip_39_word_no_space_11 | doorturngovernliveregiontoddlerisolatefineplaylikebalcony |  
+| bip_39_word_no_space_12 | doorturngovernliveregiontoddlerisolatefineplaylikebalconyaisle |  
+| bip_39_word_no_space_2 | doorturn |  
+| bip_39_word_no_space_3 | doorturngovern |  
+| bip_39_word_no_space_4 | doorturngovernlive |  
+| bip_39_word_no_space_5 | doorturngovernliveregion |  
+| bip_39_word_no_space_6 | doorturngovernliveregiontoddler |  
+| bip_39_word_no_space_7 | doorturngovernliveregiontoddlerisolate |  
+| bip_39_word_no_space_8 | doorturngovernliveregiontoddlerisolatefine |  
+| bip_39_word_no_space_9 | doorturngovernliveregiontoddlerisolatefineplay |  
 | bip_39_word_space_0 | ['door', 'turn', 'govern', 'live', 'region', 'toddler', 'isolate', 'fine', 'play', 'like', 'balcony', 'aisle'] |  
 | bip_39_word_space_1 | door |  
 | bip_39_word_space_10 | door turn govern live region toddler isolate fine play like |  

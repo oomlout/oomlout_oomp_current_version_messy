@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'near
   tent
 
   notable'
+bip_39_word_no_space_1: near
+bip_39_word_no_space_10: nearlinkevolvebroomblurlumberextendtentnotablealmost
+bip_39_word_no_space_11: nearlinkevolvebroomblurlumberextendtentnotablealmoststone
+bip_39_word_no_space_12: nearlinkevolvebroomblurlumberextendtentnotablealmoststoneannual
+bip_39_word_no_space_2: nearlink
+bip_39_word_no_space_3: nearlinkevolve
+bip_39_word_no_space_4: nearlinkevolvebroom
+bip_39_word_no_space_5: nearlinkevolvebroomblur
+bip_39_word_no_space_6: nearlinkevolvebroomblurlumber
+bip_39_word_no_space_7: nearlinkevolvebroomblurlumberextend
+bip_39_word_no_space_8: nearlinkevolvebroomblurlumberextendtent
+bip_39_word_no_space_9: nearlinkevolvebroomblurlumberextendtentnotable
 bip_39_word_space_0:
 - near
 - link

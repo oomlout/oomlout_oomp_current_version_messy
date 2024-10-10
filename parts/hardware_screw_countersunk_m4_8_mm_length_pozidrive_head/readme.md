@@ -122,6 +122,18 @@ together
 dolphin
 number
 crisp |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffsqueezenewsnuclearmattertogetherdolphinnumbercrispdamage |  
+| bip_39_word_no_space_11 | sniffsqueezenewsnuclearmattertogetherdolphinnumbercrispdamagewash |  
+| bip_39_word_no_space_12 | sniffsqueezenewsnuclearmattertogetherdolphinnumbercrispdamagewashafraid |  
+| bip_39_word_no_space_2 | sniffsqueeze |  
+| bip_39_word_no_space_3 | sniffsqueezenews |  
+| bip_39_word_no_space_4 | sniffsqueezenewsnuclear |  
+| bip_39_word_no_space_5 | sniffsqueezenewsnuclearmatter |  
+| bip_39_word_no_space_6 | sniffsqueezenewsnuclearmattertogether |  
+| bip_39_word_no_space_7 | sniffsqueezenewsnuclearmattertogetherdolphin |  
+| bip_39_word_no_space_8 | sniffsqueezenewsnuclearmattertogetherdolphinnumber |  
+| bip_39_word_no_space_9 | sniffsqueezenewsnuclearmattertogetherdolphinnumbercrisp |  
 | bip_39_word_space_0 | ['sniff', 'squeeze', 'news', 'nuclear', 'matter', 'together', 'dolphin', 'number', 'crisp', 'damage', 'wash', 'afraid'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff squeeze news nuclear matter together dolphin number crisp damage |  

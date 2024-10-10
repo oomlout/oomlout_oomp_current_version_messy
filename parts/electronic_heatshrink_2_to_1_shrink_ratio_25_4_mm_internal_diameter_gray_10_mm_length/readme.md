@@ -122,6 +122,18 @@ hair
 agree
 gaze
 dwarf |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallcalminitialtrulyforcehairagreegazedwarfforum |  
+| bip_39_word_no_space_11 | wallcalminitialtrulyforcehairagreegazedwarfforumtuition |  
+| bip_39_word_no_space_12 | wallcalminitialtrulyforcehairagreegazedwarfforumtuitionabsent |  
+| bip_39_word_no_space_2 | wallcalm |  
+| bip_39_word_no_space_3 | wallcalminitial |  
+| bip_39_word_no_space_4 | wallcalminitialtruly |  
+| bip_39_word_no_space_5 | wallcalminitialtrulyforce |  
+| bip_39_word_no_space_6 | wallcalminitialtrulyforcehair |  
+| bip_39_word_no_space_7 | wallcalminitialtrulyforcehairagree |  
+| bip_39_word_no_space_8 | wallcalminitialtrulyforcehairagreegaze |  
+| bip_39_word_no_space_9 | wallcalminitialtrulyforcehairagreegazedwarf |  
 | bip_39_word_space_0 | ['wall', 'calm', 'initial', 'truly', 'force', 'hair', 'agree', 'gaze', 'dwarf', 'forum', 'tuition', 'absent'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall calm initial truly force hair agree gaze dwarf forum |  

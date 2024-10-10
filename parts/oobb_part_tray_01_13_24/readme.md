@@ -122,6 +122,18 @@ pulse
 universe
 morning
 fancy |  
+| bip_39_word_no_space_1 | theory |  
+| bip_39_word_no_space_10 | theoryabsurdwristsupremeswingpulseuniversemorningfancyjacket |  
+| bip_39_word_no_space_11 | theoryabsurdwristsupremeswingpulseuniversemorningfancyjacketminor |  
+| bip_39_word_no_space_12 | theoryabsurdwristsupremeswingpulseuniversemorningfancyjacketminorauction |  
+| bip_39_word_no_space_2 | theoryabsurd |  
+| bip_39_word_no_space_3 | theoryabsurdwrist |  
+| bip_39_word_no_space_4 | theoryabsurdwristsupreme |  
+| bip_39_word_no_space_5 | theoryabsurdwristsupremeswing |  
+| bip_39_word_no_space_6 | theoryabsurdwristsupremeswingpulse |  
+| bip_39_word_no_space_7 | theoryabsurdwristsupremeswingpulseuniverse |  
+| bip_39_word_no_space_8 | theoryabsurdwristsupremeswingpulseuniversemorning |  
+| bip_39_word_no_space_9 | theoryabsurdwristsupremeswingpulseuniversemorningfancy |  
 | bip_39_word_space_0 | ['theory', 'absurd', 'wrist', 'supreme', 'swing', 'pulse', 'universe', 'morning', 'fancy', 'jacket', 'minor', 'auction'] |  
 | bip_39_word_space_1 | theory |  
 | bip_39_word_space_10 | theory absurd wrist supreme swing pulse universe morning fancy jacket |  

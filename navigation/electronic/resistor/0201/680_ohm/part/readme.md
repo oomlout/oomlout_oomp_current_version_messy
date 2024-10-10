@@ -122,6 +122,18 @@ master
 giant
 scare
 vague |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shopsoonmominquiryfeemastergiantscarevagueeyebrow |  
+| bip_39_word_no_space_11 | shopsoonmominquiryfeemastergiantscarevagueeyebrowpaddle |  
+| bip_39_word_no_space_12 | shopsoonmominquiryfeemastergiantscarevagueeyebrowpaddleaddress |  
+| bip_39_word_no_space_2 | shopsoon |  
+| bip_39_word_no_space_3 | shopsoonmom |  
+| bip_39_word_no_space_4 | shopsoonmominquiry |  
+| bip_39_word_no_space_5 | shopsoonmominquiryfee |  
+| bip_39_word_no_space_6 | shopsoonmominquiryfeemaster |  
+| bip_39_word_no_space_7 | shopsoonmominquiryfeemastergiant |  
+| bip_39_word_no_space_8 | shopsoonmominquiryfeemastergiantscare |  
+| bip_39_word_no_space_9 | shopsoonmominquiryfeemastergiantscarevague |  
 | bip_39_word_space_0 | ['shop', 'soon', 'mom', 'inquiry', 'fee', 'master', 'giant', 'scare', 'vague', 'eyebrow', 'paddle', 'address'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop soon mom inquiry fee master giant scare vague eyebrow |  

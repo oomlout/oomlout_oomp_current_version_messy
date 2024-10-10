@@ -122,6 +122,18 @@ load
 doctor
 mutual
 erosion |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middleonepaperguidepalmloaddoctormutualerosionaway |  
+| bip_39_word_no_space_11 | middleonepaperguidepalmloaddoctormutualerosionawaypass |  
+| bip_39_word_no_space_12 | middleonepaperguidepalmloaddoctormutualerosionawaypassaccount |  
+| bip_39_word_no_space_2 | middleone |  
+| bip_39_word_no_space_3 | middleonepaper |  
+| bip_39_word_no_space_4 | middleonepaperguide |  
+| bip_39_word_no_space_5 | middleonepaperguidepalm |  
+| bip_39_word_no_space_6 | middleonepaperguidepalmload |  
+| bip_39_word_no_space_7 | middleonepaperguidepalmloaddoctor |  
+| bip_39_word_no_space_8 | middleonepaperguidepalmloaddoctormutual |  
+| bip_39_word_no_space_9 | middleonepaperguidepalmloaddoctormutualerosion |  
 | bip_39_word_space_0 | ['middle', 'one', 'paper', 'guide', 'palm', 'load', 'doctor', 'mutual', 'erosion', 'away', 'pass', 'account'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle one paper guide palm load doctor mutual erosion away |  

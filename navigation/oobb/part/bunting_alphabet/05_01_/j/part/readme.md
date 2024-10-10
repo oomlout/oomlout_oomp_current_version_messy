@@ -122,6 +122,18 @@ episode
 differ
 benefit
 chase |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitocrunchmonsterdetectspoilepisodedifferbenefitchasemove |  
+| bip_39_word_no_space_11 | mosquitocrunchmonsterdetectspoilepisodedifferbenefitchasemovebeyond |  
+| bip_39_word_no_space_12 | mosquitocrunchmonsterdetectspoilepisodedifferbenefitchasemovebeyondasthma |  
+| bip_39_word_no_space_2 | mosquitocrunch |  
+| bip_39_word_no_space_3 | mosquitocrunchmonster |  
+| bip_39_word_no_space_4 | mosquitocrunchmonsterdetect |  
+| bip_39_word_no_space_5 | mosquitocrunchmonsterdetectspoil |  
+| bip_39_word_no_space_6 | mosquitocrunchmonsterdetectspoilepisode |  
+| bip_39_word_no_space_7 | mosquitocrunchmonsterdetectspoilepisodediffer |  
+| bip_39_word_no_space_8 | mosquitocrunchmonsterdetectspoilepisodedifferbenefit |  
+| bip_39_word_no_space_9 | mosquitocrunchmonsterdetectspoilepisodedifferbenefitchase |  
 | bip_39_word_space_0 | ['mosquito', 'crunch', 'monster', 'detect', 'spoil', 'episode', 'differ', 'benefit', 'chase', 'move', 'beyond', 'asthma'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito crunch monster detect spoil episode differ benefit chase move |  

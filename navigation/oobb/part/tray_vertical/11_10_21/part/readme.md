@@ -122,6 +122,18 @@ punch
 pottery
 obey
 carbon |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footunusualcrystalrangevanishpunchpotteryobeycarbonfuture |  
+| bip_39_word_no_space_11 | footunusualcrystalrangevanishpunchpotteryobeycarbonfutureginger |  
+| bip_39_word_no_space_12 | footunusualcrystalrangevanishpunchpotteryobeycarbonfuturegingeraccident |  
+| bip_39_word_no_space_2 | footunusual |  
+| bip_39_word_no_space_3 | footunusualcrystal |  
+| bip_39_word_no_space_4 | footunusualcrystalrange |  
+| bip_39_word_no_space_5 | footunusualcrystalrangevanish |  
+| bip_39_word_no_space_6 | footunusualcrystalrangevanishpunch |  
+| bip_39_word_no_space_7 | footunusualcrystalrangevanishpunchpottery |  
+| bip_39_word_no_space_8 | footunusualcrystalrangevanishpunchpotteryobey |  
+| bip_39_word_no_space_9 | footunusualcrystalrangevanishpunchpotteryobeycarbon |  
 | bip_39_word_space_0 | ['foot', 'unusual', 'crystal', 'range', 'vanish', 'punch', 'pottery', 'obey', 'carbon', 'future', 'ginger', 'accident'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot unusual crystal range vanish punch pottery obey carbon future |  

@@ -122,6 +122,18 @@ spray
 core
 dinner
 torch |  
+| bip_39_word_no_space_1 | motor |  
+| bip_39_word_no_space_10 | motorpitchhumanalleyimitatespraycoredinnertorchwait |  
+| bip_39_word_no_space_11 | motorpitchhumanalleyimitatespraycoredinnertorchwaitenjoy |  
+| bip_39_word_no_space_12 | motorpitchhumanalleyimitatespraycoredinnertorchwaitenjoyauthor |  
+| bip_39_word_no_space_2 | motorpitch |  
+| bip_39_word_no_space_3 | motorpitchhuman |  
+| bip_39_word_no_space_4 | motorpitchhumanalley |  
+| bip_39_word_no_space_5 | motorpitchhumanalleyimitate |  
+| bip_39_word_no_space_6 | motorpitchhumanalleyimitatespray |  
+| bip_39_word_no_space_7 | motorpitchhumanalleyimitatespraycore |  
+| bip_39_word_no_space_8 | motorpitchhumanalleyimitatespraycoredinner |  
+| bip_39_word_no_space_9 | motorpitchhumanalleyimitatespraycoredinnertorch |  
 | bip_39_word_space_0 | ['motor', 'pitch', 'human', 'alley', 'imitate', 'spray', 'core', 'dinner', 'torch', 'wait', 'enjoy', 'author'] |  
 | bip_39_word_space_1 | motor |  
 | bip_39_word_space_10 | motor pitch human alley imitate spray core dinner torch wait |  

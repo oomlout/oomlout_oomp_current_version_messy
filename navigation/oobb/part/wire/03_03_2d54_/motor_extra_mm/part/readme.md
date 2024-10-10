@@ -122,6 +122,18 @@ crawl
 own
 gown
 wide |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spiderpriorityborrowscalechunkcrawlowngownwidesafe |  
+| bip_39_word_no_space_11 | spiderpriorityborrowscalechunkcrawlowngownwidesaferazor |  
+| bip_39_word_no_space_12 | spiderpriorityborrowscalechunkcrawlowngownwidesaferazorannounce |  
+| bip_39_word_no_space_2 | spiderpriority |  
+| bip_39_word_no_space_3 | spiderpriorityborrow |  
+| bip_39_word_no_space_4 | spiderpriorityborrowscale |  
+| bip_39_word_no_space_5 | spiderpriorityborrowscalechunk |  
+| bip_39_word_no_space_6 | spiderpriorityborrowscalechunkcrawl |  
+| bip_39_word_no_space_7 | spiderpriorityborrowscalechunkcrawlown |  
+| bip_39_word_no_space_8 | spiderpriorityborrowscalechunkcrawlowngown |  
+| bip_39_word_no_space_9 | spiderpriorityborrowscalechunkcrawlowngownwide |  
 | bip_39_word_space_0 | ['spider', 'priority', 'borrow', 'scale', 'chunk', 'crawl', 'own', 'gown', 'wide', 'safe', 'razor', 'announce'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider priority borrow scale chunk crawl own gown wide safe |  

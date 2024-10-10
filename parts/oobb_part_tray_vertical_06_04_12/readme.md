@@ -122,6 +122,18 @@ lake
 this
 core
 monkey |  
+| bip_39_word_no_space_1 | assist |  
+| bip_39_word_no_space_10 | assisteagleactdisagreebirthlakethiscoremonkeyanalyst |  
+| bip_39_word_no_space_11 | assisteagleactdisagreebirthlakethiscoremonkeyanalystrookie |  
+| bip_39_word_no_space_12 | assisteagleactdisagreebirthlakethiscoremonkeyanalystrookieamazing |  
+| bip_39_word_no_space_2 | assisteagle |  
+| bip_39_word_no_space_3 | assisteagleact |  
+| bip_39_word_no_space_4 | assisteagleactdisagree |  
+| bip_39_word_no_space_5 | assisteagleactdisagreebirth |  
+| bip_39_word_no_space_6 | assisteagleactdisagreebirthlake |  
+| bip_39_word_no_space_7 | assisteagleactdisagreebirthlakethis |  
+| bip_39_word_no_space_8 | assisteagleactdisagreebirthlakethiscore |  
+| bip_39_word_no_space_9 | assisteagleactdisagreebirthlakethiscoremonkey |  
 | bip_39_word_space_0 | ['assist', 'eagle', 'act', 'disagree', 'birth', 'lake', 'this', 'core', 'monkey', 'analyst', 'rookie', 'amazing'] |  
 | bip_39_word_space_1 | assist |  
 | bip_39_word_space_10 | assist eagle act disagree birth lake this core monkey analyst |  

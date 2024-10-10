@@ -122,6 +122,18 @@ hood
 weekend
 addict
 learn |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keengrouptouristkitetrulyhoodweekendaddictlearngospel |  
+| bip_39_word_no_space_11 | keengrouptouristkitetrulyhoodweekendaddictlearngospelconcert |  
+| bip_39_word_no_space_12 | keengrouptouristkitetrulyhoodweekendaddictlearngospelconcertadjust |  
+| bip_39_word_no_space_2 | keengroup |  
+| bip_39_word_no_space_3 | keengrouptourist |  
+| bip_39_word_no_space_4 | keengrouptouristkite |  
+| bip_39_word_no_space_5 | keengrouptouristkitetruly |  
+| bip_39_word_no_space_6 | keengrouptouristkitetrulyhood |  
+| bip_39_word_no_space_7 | keengrouptouristkitetrulyhoodweekend |  
+| bip_39_word_no_space_8 | keengrouptouristkitetrulyhoodweekendaddict |  
+| bip_39_word_no_space_9 | keengrouptouristkitetrulyhoodweekendaddictlearn |  
 | bip_39_word_space_0 | ['keen', 'group', 'tourist', 'kite', 'truly', 'hood', 'weekend', 'addict', 'learn', 'gospel', 'concert', 'adjust'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen group tourist kite truly hood weekend addict learn gospel |  

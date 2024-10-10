@@ -122,6 +122,18 @@ joy
 jump
 coral
 crane |  
+| bip_39_word_no_space_1 | local |  
+| bip_39_word_no_space_10 | localopenquartertwiceproblemjoyjumpcoralcranecraft |  
+| bip_39_word_no_space_11 | localopenquartertwiceproblemjoyjumpcoralcranecraftcasino |  
+| bip_39_word_no_space_12 | localopenquartertwiceproblemjoyjumpcoralcranecraftcasinoancient |  
+| bip_39_word_no_space_2 | localopen |  
+| bip_39_word_no_space_3 | localopenquarter |  
+| bip_39_word_no_space_4 | localopenquartertwice |  
+| bip_39_word_no_space_5 | localopenquartertwiceproblem |  
+| bip_39_word_no_space_6 | localopenquartertwiceproblemjoy |  
+| bip_39_word_no_space_7 | localopenquartertwiceproblemjoyjump |  
+| bip_39_word_no_space_8 | localopenquartertwiceproblemjoyjumpcoral |  
+| bip_39_word_no_space_9 | localopenquartertwiceproblemjoyjumpcoralcrane |  
 | bip_39_word_space_0 | ['local', 'open', 'quarter', 'twice', 'problem', 'joy', 'jump', 'coral', 'crane', 'craft', 'casino', 'ancient'] |  
 | bip_39_word_space_1 | local |  
 | bip_39_word_space_10 | local open quarter twice problem joy jump coral crane craft |  

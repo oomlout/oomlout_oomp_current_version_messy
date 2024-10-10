@@ -122,6 +122,18 @@ myth
 unknown
 approve
 world |  
+| bip_39_word_no_space_1 | dinosaur |  
+| bip_39_word_no_space_10 | dinosaurengineauctionhazardwallmythunknownapproveworldarrow |  
+| bip_39_word_no_space_11 | dinosaurengineauctionhazardwallmythunknownapproveworldarrowsand |  
+| bip_39_word_no_space_12 | dinosaurengineauctionhazardwallmythunknownapproveworldarrowsandapril |  
+| bip_39_word_no_space_2 | dinosaurengine |  
+| bip_39_word_no_space_3 | dinosaurengineauction |  
+| bip_39_word_no_space_4 | dinosaurengineauctionhazard |  
+| bip_39_word_no_space_5 | dinosaurengineauctionhazardwall |  
+| bip_39_word_no_space_6 | dinosaurengineauctionhazardwallmyth |  
+| bip_39_word_no_space_7 | dinosaurengineauctionhazardwallmythunknown |  
+| bip_39_word_no_space_8 | dinosaurengineauctionhazardwallmythunknownapprove |  
+| bip_39_word_no_space_9 | dinosaurengineauctionhazardwallmythunknownapproveworld |  
 | bip_39_word_space_0 | ['dinosaur', 'engine', 'auction', 'hazard', 'wall', 'myth', 'unknown', 'approve', 'world', 'arrow', 'sand', 'april'] |  
 | bip_39_word_space_1 | dinosaur |  
 | bip_39_word_space_10 | dinosaur engine auction hazard wall myth unknown approve world arrow |  

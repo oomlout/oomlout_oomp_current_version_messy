@@ -122,6 +122,18 @@ price
 bullet
 yard
 fence |  
+| bip_39_word_no_space_1 | roof |  
+| bip_39_word_no_space_10 | roofhipcorrectguiltendlesspricebulletyardfencepayment |  
+| bip_39_word_no_space_11 | roofhipcorrectguiltendlesspricebulletyardfencepaymentswallow |  
+| bip_39_word_no_space_12 | roofhipcorrectguiltendlesspricebulletyardfencepaymentswallowalone |  
+| bip_39_word_no_space_2 | roofhip |  
+| bip_39_word_no_space_3 | roofhipcorrect |  
+| bip_39_word_no_space_4 | roofhipcorrectguilt |  
+| bip_39_word_no_space_5 | roofhipcorrectguiltendless |  
+| bip_39_word_no_space_6 | roofhipcorrectguiltendlessprice |  
+| bip_39_word_no_space_7 | roofhipcorrectguiltendlesspricebullet |  
+| bip_39_word_no_space_8 | roofhipcorrectguiltendlesspricebulletyard |  
+| bip_39_word_no_space_9 | roofhipcorrectguiltendlesspricebulletyardfence |  
 | bip_39_word_space_0 | ['roof', 'hip', 'correct', 'guilt', 'endless', 'price', 'bullet', 'yard', 'fence', 'payment', 'swallow', 'alone'] |  
 | bip_39_word_space_1 | roof |  
 | bip_39_word_space_10 | roof hip correct guilt endless price bullet yard fence payment |  

@@ -122,6 +122,18 @@ depart
 original
 calm
 mistake |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bulletleavemidnighttoddlercleandepartoriginalcalmmistakeendless |  
+| bip_39_word_no_space_11 | bulletleavemidnighttoddlercleandepartoriginalcalmmistakeendlesspenalty |  
+| bip_39_word_no_space_12 | bulletleavemidnighttoddlercleandepartoriginalcalmmistakeendlesspenaltyalone |  
+| bip_39_word_no_space_2 | bulletleave |  
+| bip_39_word_no_space_3 | bulletleavemidnight |  
+| bip_39_word_no_space_4 | bulletleavemidnighttoddler |  
+| bip_39_word_no_space_5 | bulletleavemidnighttoddlerclean |  
+| bip_39_word_no_space_6 | bulletleavemidnighttoddlercleandepart |  
+| bip_39_word_no_space_7 | bulletleavemidnighttoddlercleandepartoriginal |  
+| bip_39_word_no_space_8 | bulletleavemidnighttoddlercleandepartoriginalcalm |  
+| bip_39_word_no_space_9 | bulletleavemidnighttoddlercleandepartoriginalcalmmistake |  
 | bip_39_word_space_0 | ['bullet', 'leave', 'midnight', 'toddler', 'clean', 'depart', 'original', 'calm', 'mistake', 'endless', 'penalty', 'alone'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet leave midnight toddler clean depart original calm mistake endless |  

@@ -122,6 +122,18 @@ north
 million
 neck
 old |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatonormalsunsethillaliennorthmillionneckoldreform |  
+| bip_39_word_no_space_11 | tomatonormalsunsethillaliennorthmillionneckoldreformarrange |  
+| bip_39_word_no_space_12 | tomatonormalsunsethillaliennorthmillionneckoldreformarrangeart |  
+| bip_39_word_no_space_2 | tomatonormal |  
+| bip_39_word_no_space_3 | tomatonormalsunset |  
+| bip_39_word_no_space_4 | tomatonormalsunsethill |  
+| bip_39_word_no_space_5 | tomatonormalsunsethillalien |  
+| bip_39_word_no_space_6 | tomatonormalsunsethillaliennorth |  
+| bip_39_word_no_space_7 | tomatonormalsunsethillaliennorthmillion |  
+| bip_39_word_no_space_8 | tomatonormalsunsethillaliennorthmillionneck |  
+| bip_39_word_no_space_9 | tomatonormalsunsethillaliennorthmillionneckold |  
 | bip_39_word_space_0 | ['tomato', 'normal', 'sunset', 'hill', 'alien', 'north', 'million', 'neck', 'old', 'reform', 'arrange', 'art'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato normal sunset hill alien north million neck old reform |  

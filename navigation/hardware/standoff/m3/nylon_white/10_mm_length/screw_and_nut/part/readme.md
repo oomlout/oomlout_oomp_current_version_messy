@@ -122,6 +122,18 @@ appear
 grunt
 calm
 need |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energyphrasesouthchildspiderappeargruntcalmneedsing |  
+| bip_39_word_no_space_11 | energyphrasesouthchildspiderappeargruntcalmneedsinglesson |  
+| bip_39_word_no_space_12 | energyphrasesouthchildspiderappeargruntcalmneedsinglessonaerobic |  
+| bip_39_word_no_space_2 | energyphrase |  
+| bip_39_word_no_space_3 | energyphrasesouth |  
+| bip_39_word_no_space_4 | energyphrasesouthchild |  
+| bip_39_word_no_space_5 | energyphrasesouthchildspider |  
+| bip_39_word_no_space_6 | energyphrasesouthchildspiderappear |  
+| bip_39_word_no_space_7 | energyphrasesouthchildspiderappeargrunt |  
+| bip_39_word_no_space_8 | energyphrasesouthchildspiderappeargruntcalm |  
+| bip_39_word_no_space_9 | energyphrasesouthchildspiderappeargruntcalmneed |  
 | bip_39_word_space_0 | ['energy', 'phrase', 'south', 'child', 'spider', 'appear', 'grunt', 'calm', 'need', 'sing', 'lesson', 'aerobic'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy phrase south child spider appear grunt calm need sing |  

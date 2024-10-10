@@ -122,6 +122,18 @@ million
 forest
 grass
 abandon |  
+| bip_39_word_no_space_1 | please |  
+| bip_39_word_no_space_10 | pleasebabydamageglobedancemillionforestgrassabandonstem |  
+| bip_39_word_no_space_11 | pleasebabydamageglobedancemillionforestgrassabandonstemtitle |  
+| bip_39_word_no_space_12 | pleasebabydamageglobedancemillionforestgrassabandonstemtitleadjust |  
+| bip_39_word_no_space_2 | pleasebaby |  
+| bip_39_word_no_space_3 | pleasebabydamage |  
+| bip_39_word_no_space_4 | pleasebabydamageglobe |  
+| bip_39_word_no_space_5 | pleasebabydamageglobedance |  
+| bip_39_word_no_space_6 | pleasebabydamageglobedancemillion |  
+| bip_39_word_no_space_7 | pleasebabydamageglobedancemillionforest |  
+| bip_39_word_no_space_8 | pleasebabydamageglobedancemillionforestgrass |  
+| bip_39_word_no_space_9 | pleasebabydamageglobedancemillionforestgrassabandon |  
 | bip_39_word_space_0 | ['please', 'baby', 'damage', 'globe', 'dance', 'million', 'forest', 'grass', 'abandon', 'stem', 'title', 'adjust'] |  
 | bip_39_word_space_1 | please |  
 | bip_39_word_space_10 | please baby damage globe dance million forest grass abandon stem |  

@@ -122,6 +122,18 @@ earth
 arrange
 cycle
 churn |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discoverendroomimpactchesteartharrangecyclechurnannounce |  
+| bip_39_word_no_space_11 | discoverendroomimpactchesteartharrangecyclechurnannouncebread |  
+| bip_39_word_no_space_12 | discoverendroomimpactchesteartharrangecyclechurnannouncebreadany |  
+| bip_39_word_no_space_2 | discoverend |  
+| bip_39_word_no_space_3 | discoverendroom |  
+| bip_39_word_no_space_4 | discoverendroomimpact |  
+| bip_39_word_no_space_5 | discoverendroomimpactchest |  
+| bip_39_word_no_space_6 | discoverendroomimpactchestearth |  
+| bip_39_word_no_space_7 | discoverendroomimpactchesteartharrange |  
+| bip_39_word_no_space_8 | discoverendroomimpactchesteartharrangecycle |  
+| bip_39_word_no_space_9 | discoverendroomimpactchesteartharrangecyclechurn |  
 | bip_39_word_space_0 | ['discover', 'end', 'room', 'impact', 'chest', 'earth', 'arrange', 'cycle', 'churn', 'announce', 'bread', 'any'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover end room impact chest earth arrange cycle churn announce |  

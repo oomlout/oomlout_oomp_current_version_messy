@@ -122,6 +122,18 @@ bag
 river
 notable
 urge |  
+| bip_39_word_no_space_1 | siren |  
+| bip_39_word_no_space_10 | sirengapawareoccurkitbagrivernotableurgeriot |  
+| bip_39_word_no_space_11 | sirengapawareoccurkitbagrivernotableurgeriotrack |  
+| bip_39_word_no_space_12 | sirengapawareoccurkitbagrivernotableurgeriotrackaugust |  
+| bip_39_word_no_space_2 | sirengap |  
+| bip_39_word_no_space_3 | sirengapaware |  
+| bip_39_word_no_space_4 | sirengapawareoccur |  
+| bip_39_word_no_space_5 | sirengapawareoccurkit |  
+| bip_39_word_no_space_6 | sirengapawareoccurkitbag |  
+| bip_39_word_no_space_7 | sirengapawareoccurkitbagriver |  
+| bip_39_word_no_space_8 | sirengapawareoccurkitbagrivernotable |  
+| bip_39_word_no_space_9 | sirengapawareoccurkitbagrivernotableurge |  
 | bip_39_word_space_0 | ['siren', 'gap', 'aware', 'occur', 'kit', 'bag', 'river', 'notable', 'urge', 'riot', 'rack', 'august'] |  
 | bip_39_word_space_1 | siren |  
 | bip_39_word_space_10 | siren gap aware occur kit bag river notable urge riot |  

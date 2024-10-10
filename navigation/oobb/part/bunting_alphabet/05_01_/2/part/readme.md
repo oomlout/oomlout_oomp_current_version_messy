@@ -122,6 +122,18 @@ mask
 above
 iron
 lizard |  
+| bip_39_word_no_space_1 | denial |  
+| bip_39_word_no_space_10 | denialtwentywoolsuccessblessmaskaboveironlizardbasic |  
+| bip_39_word_no_space_11 | denialtwentywoolsuccessblessmaskaboveironlizardbasicswarm |  
+| bip_39_word_no_space_12 | denialtwentywoolsuccessblessmaskaboveironlizardbasicswarmalone |  
+| bip_39_word_no_space_2 | denialtwenty |  
+| bip_39_word_no_space_3 | denialtwentywool |  
+| bip_39_word_no_space_4 | denialtwentywoolsuccess |  
+| bip_39_word_no_space_5 | denialtwentywoolsuccessbless |  
+| bip_39_word_no_space_6 | denialtwentywoolsuccessblessmask |  
+| bip_39_word_no_space_7 | denialtwentywoolsuccessblessmaskabove |  
+| bip_39_word_no_space_8 | denialtwentywoolsuccessblessmaskaboveiron |  
+| bip_39_word_no_space_9 | denialtwentywoolsuccessblessmaskaboveironlizard |  
 | bip_39_word_space_0 | ['denial', 'twenty', 'wool', 'success', 'bless', 'mask', 'above', 'iron', 'lizard', 'basic', 'swarm', 'alone'] |  
 | bip_39_word_space_1 | denial |  
 | bip_39_word_space_10 | denial twenty wool success bless mask above iron lizard basic |  

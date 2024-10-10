@@ -122,6 +122,18 @@ wheat
 junior
 breeze
 trade |  
+| bip_39_word_no_space_1 | robust |  
+| bip_39_word_no_space_10 | robustpresentfogslimyouthwheatjuniorbreezetradeartwork |  
+| bip_39_word_no_space_11 | robustpresentfogslimyouthwheatjuniorbreezetradeartworkmother |  
+| bip_39_word_no_space_12 | robustpresentfogslimyouthwheatjuniorbreezetradeartworkmotheradapt |  
+| bip_39_word_no_space_2 | robustpresent |  
+| bip_39_word_no_space_3 | robustpresentfog |  
+| bip_39_word_no_space_4 | robustpresentfogslim |  
+| bip_39_word_no_space_5 | robustpresentfogslimyouth |  
+| bip_39_word_no_space_6 | robustpresentfogslimyouthwheat |  
+| bip_39_word_no_space_7 | robustpresentfogslimyouthwheatjunior |  
+| bip_39_word_no_space_8 | robustpresentfogslimyouthwheatjuniorbreeze |  
+| bip_39_word_no_space_9 | robustpresentfogslimyouthwheatjuniorbreezetrade |  
 | bip_39_word_space_0 | ['robust', 'present', 'fog', 'slim', 'youth', 'wheat', 'junior', 'breeze', 'trade', 'artwork', 'mother', 'adapt'] |  
 | bip_39_word_space_1 | robust |  
 | bip_39_word_space_10 | robust present fog slim youth wheat junior breeze trade artwork |  

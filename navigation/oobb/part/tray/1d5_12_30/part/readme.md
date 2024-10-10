@@ -122,6 +122,18 @@ rocket
 error
 flash
 leisure |  
+| bip_39_word_no_space_1 | empty |  
+| bip_39_word_no_space_10 | emptyonefunjobinjectrocketerrorflashleisurespare |  
+| bip_39_word_no_space_11 | emptyonefunjobinjectrocketerrorflashleisurespareempty |  
+| bip_39_word_no_space_12 | emptyonefunjobinjectrocketerrorflashleisurespareemptyagain |  
+| bip_39_word_no_space_2 | emptyone |  
+| bip_39_word_no_space_3 | emptyonefun |  
+| bip_39_word_no_space_4 | emptyonefunjob |  
+| bip_39_word_no_space_5 | emptyonefunjobinject |  
+| bip_39_word_no_space_6 | emptyonefunjobinjectrocket |  
+| bip_39_word_no_space_7 | emptyonefunjobinjectrocketerror |  
+| bip_39_word_no_space_8 | emptyonefunjobinjectrocketerrorflash |  
+| bip_39_word_no_space_9 | emptyonefunjobinjectrocketerrorflashleisure |  
 | bip_39_word_space_0 | ['empty', 'one', 'fun', 'job', 'inject', 'rocket', 'error', 'flash', 'leisure', 'spare', 'empty', 'again'] |  
 | bip_39_word_space_1 | empty |  
 | bip_39_word_space_10 | empty one fun job inject rocket error flash leisure spare |  

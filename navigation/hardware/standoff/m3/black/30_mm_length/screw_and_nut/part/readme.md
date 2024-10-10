@@ -122,6 +122,18 @@ limb
 run
 inside
 blouse |  
+| bip_39_word_no_space_1 | armor |  
+| bip_39_word_no_space_10 | armorstockprofitriverboxlimbruninsideblouseknee |  
+| bip_39_word_no_space_11 | armorstockprofitriverboxlimbruninsideblousekneemelt |  
+| bip_39_word_no_space_12 | armorstockprofitriverboxlimbruninsideblousekneemeltabsorb |  
+| bip_39_word_no_space_2 | armorstock |  
+| bip_39_word_no_space_3 | armorstockprofit |  
+| bip_39_word_no_space_4 | armorstockprofitriver |  
+| bip_39_word_no_space_5 | armorstockprofitriverbox |  
+| bip_39_word_no_space_6 | armorstockprofitriverboxlimb |  
+| bip_39_word_no_space_7 | armorstockprofitriverboxlimbrun |  
+| bip_39_word_no_space_8 | armorstockprofitriverboxlimbruninside |  
+| bip_39_word_no_space_9 | armorstockprofitriverboxlimbruninsideblouse |  
 | bip_39_word_space_0 | ['armor', 'stock', 'profit', 'river', 'box', 'limb', 'run', 'inside', 'blouse', 'knee', 'melt', 'absorb'] |  
 | bip_39_word_space_1 | armor |  
 | bip_39_word_space_10 | armor stock profit river box limb run inside blouse knee |  

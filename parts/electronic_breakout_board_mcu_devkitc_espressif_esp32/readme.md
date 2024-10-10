@@ -122,6 +122,18 @@ analyst
 garden
 action
 garage |  
+| bip_39_word_no_space_1 | avoid |  
+| bip_39_word_no_space_10 | avoidcustomweekendclawpairanalystgardenactiongaragefollow |  
+| bip_39_word_no_space_11 | avoidcustomweekendclawpairanalystgardenactiongaragefollowsuch |  
+| bip_39_word_no_space_12 | avoidcustomweekendclawpairanalystgardenactiongaragefollowsuchaunt |  
+| bip_39_word_no_space_2 | avoidcustom |  
+| bip_39_word_no_space_3 | avoidcustomweekend |  
+| bip_39_word_no_space_4 | avoidcustomweekendclaw |  
+| bip_39_word_no_space_5 | avoidcustomweekendclawpair |  
+| bip_39_word_no_space_6 | avoidcustomweekendclawpairanalyst |  
+| bip_39_word_no_space_7 | avoidcustomweekendclawpairanalystgarden |  
+| bip_39_word_no_space_8 | avoidcustomweekendclawpairanalystgardenaction |  
+| bip_39_word_no_space_9 | avoidcustomweekendclawpairanalystgardenactiongarage |  
 | bip_39_word_space_0 | ['avoid', 'custom', 'weekend', 'claw', 'pair', 'analyst', 'garden', 'action', 'garage', 'follow', 'such', 'aunt'] |  
 | bip_39_word_space_1 | avoid |  
 | bip_39_word_space_10 | avoid custom weekend claw pair analyst garden action garage follow |  

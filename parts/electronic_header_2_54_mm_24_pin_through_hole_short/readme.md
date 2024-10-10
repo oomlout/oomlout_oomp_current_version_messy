@@ -122,6 +122,18 @@ expand
 outer
 machine
 harvest |  
+| bip_39_word_no_space_1 | enforce |  
+| bip_39_word_no_space_10 | enforceglorykeeptradearrestexpandoutermachineharvestsymptom |  
+| bip_39_word_no_space_11 | enforceglorykeeptradearrestexpandoutermachineharvestsymptomowner |  
+| bip_39_word_no_space_12 | enforceglorykeeptradearrestexpandoutermachineharvestsymptomowneramused |  
+| bip_39_word_no_space_2 | enforceglory |  
+| bip_39_word_no_space_3 | enforceglorykeep |  
+| bip_39_word_no_space_4 | enforceglorykeeptrade |  
+| bip_39_word_no_space_5 | enforceglorykeeptradearrest |  
+| bip_39_word_no_space_6 | enforceglorykeeptradearrestexpand |  
+| bip_39_word_no_space_7 | enforceglorykeeptradearrestexpandouter |  
+| bip_39_word_no_space_8 | enforceglorykeeptradearrestexpandoutermachine |  
+| bip_39_word_no_space_9 | enforceglorykeeptradearrestexpandoutermachineharvest |  
 | bip_39_word_space_0 | ['enforce', 'glory', 'keep', 'trade', 'arrest', 'expand', 'outer', 'machine', 'harvest', 'symptom', 'owner', 'amused'] |  
 | bip_39_word_space_1 | enforce |  
 | bip_39_word_space_10 | enforce glory keep trade arrest expand outer machine harvest symptom |  

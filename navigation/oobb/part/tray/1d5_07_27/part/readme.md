@@ -122,6 +122,18 @@ dish
 source
 unhappy
 fold |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | trydressvintageswarmmaiddishsourceunhappyfoldmerit |  
+| bip_39_word_no_space_11 | trydressvintageswarmmaiddishsourceunhappyfoldmeritapple |  
+| bip_39_word_no_space_12 | trydressvintageswarmmaiddishsourceunhappyfoldmeritapplearmy |  
+| bip_39_word_no_space_2 | trydress |  
+| bip_39_word_no_space_3 | trydressvintage |  
+| bip_39_word_no_space_4 | trydressvintageswarm |  
+| bip_39_word_no_space_5 | trydressvintageswarmmaid |  
+| bip_39_word_no_space_6 | trydressvintageswarmmaiddish |  
+| bip_39_word_no_space_7 | trydressvintageswarmmaiddishsource |  
+| bip_39_word_no_space_8 | trydressvintageswarmmaiddishsourceunhappy |  
+| bip_39_word_no_space_9 | trydressvintageswarmmaiddishsourceunhappyfold |  
 | bip_39_word_space_0 | ['try', 'dress', 'vintage', 'swarm', 'maid', 'dish', 'source', 'unhappy', 'fold', 'merit', 'apple', 'army'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try dress vintage swarm maid dish source unhappy fold merit |  

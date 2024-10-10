@@ -122,6 +122,18 @@ brown
 bean
 film
 pluck |  
+| bip_39_word_no_space_1 | quiz |  
+| bip_39_word_no_space_10 | quizaverageriskanytonightbrownbeanfilmpluckblush |  
+| bip_39_word_no_space_11 | quizaverageriskanytonightbrownbeanfilmpluckblushcurve |  
+| bip_39_word_no_space_12 | quizaverageriskanytonightbrownbeanfilmpluckblushcurvealways |  
+| bip_39_word_no_space_2 | quizaverage |  
+| bip_39_word_no_space_3 | quizaveragerisk |  
+| bip_39_word_no_space_4 | quizaverageriskany |  
+| bip_39_word_no_space_5 | quizaverageriskanytonight |  
+| bip_39_word_no_space_6 | quizaverageriskanytonightbrown |  
+| bip_39_word_no_space_7 | quizaverageriskanytonightbrownbean |  
+| bip_39_word_no_space_8 | quizaverageriskanytonightbrownbeanfilm |  
+| bip_39_word_no_space_9 | quizaverageriskanytonightbrownbeanfilmpluck |  
 | bip_39_word_space_0 | ['quiz', 'average', 'risk', 'any', 'tonight', 'brown', 'bean', 'film', 'pluck', 'blush', 'curve', 'always'] |  
 | bip_39_word_space_1 | quiz |  
 | bip_39_word_space_10 | quiz average risk any tonight brown bean film pluck blush |  

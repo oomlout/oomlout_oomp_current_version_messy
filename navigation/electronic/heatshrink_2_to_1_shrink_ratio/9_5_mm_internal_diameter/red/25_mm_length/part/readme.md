@@ -122,6 +122,18 @@ daring
 leaf
 flush
 worth |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keenimprovepicturetestmirrordaringleafflushworthwait |  
+| bip_39_word_no_space_11 | keenimprovepicturetestmirrordaringleafflushworthwaitoak |  
+| bip_39_word_no_space_12 | keenimprovepicturetestmirrordaringleafflushworthwaitoakaunt |  
+| bip_39_word_no_space_2 | keenimprove |  
+| bip_39_word_no_space_3 | keenimprovepicture |  
+| bip_39_word_no_space_4 | keenimprovepicturetest |  
+| bip_39_word_no_space_5 | keenimprovepicturetestmirror |  
+| bip_39_word_no_space_6 | keenimprovepicturetestmirrordaring |  
+| bip_39_word_no_space_7 | keenimprovepicturetestmirrordaringleaf |  
+| bip_39_word_no_space_8 | keenimprovepicturetestmirrordaringleafflush |  
+| bip_39_word_no_space_9 | keenimprovepicturetestmirrordaringleafflushworth |  
 | bip_39_word_space_0 | ['keen', 'improve', 'picture', 'test', 'mirror', 'daring', 'leaf', 'flush', 'worth', 'wait', 'oak', 'aunt'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen improve picture test mirror daring leaf flush worth wait |  

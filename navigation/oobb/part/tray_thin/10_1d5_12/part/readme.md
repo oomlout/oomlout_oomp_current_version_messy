@@ -122,6 +122,18 @@ walk
 gadget
 country
 omit |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelyrategovernlifepairwalkgadgetcountryomitkeen |  
+| bip_39_word_no_space_11 | lonelyrategovernlifepairwalkgadgetcountryomitkeensponsor |  
+| bip_39_word_no_space_12 | lonelyrategovernlifepairwalkgadgetcountryomitkeensponsoraccident |  
+| bip_39_word_no_space_2 | lonelyrate |  
+| bip_39_word_no_space_3 | lonelyrategovern |  
+| bip_39_word_no_space_4 | lonelyrategovernlife |  
+| bip_39_word_no_space_5 | lonelyrategovernlifepair |  
+| bip_39_word_no_space_6 | lonelyrategovernlifepairwalk |  
+| bip_39_word_no_space_7 | lonelyrategovernlifepairwalkgadget |  
+| bip_39_word_no_space_8 | lonelyrategovernlifepairwalkgadgetcountry |  
+| bip_39_word_no_space_9 | lonelyrategovernlifepairwalkgadgetcountryomit |  
 | bip_39_word_space_0 | ['lonely', 'rate', 'govern', 'life', 'pair', 'walk', 'gadget', 'country', 'omit', 'keen', 'sponsor', 'accident'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely rate govern life pair walk gadget country omit keen |  

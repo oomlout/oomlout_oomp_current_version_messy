@@ -122,6 +122,18 @@ scissors
 little
 fee
 six |  
+| bip_39_word_no_space_1 | neck |  
+| bip_39_word_no_space_10 | neckenablesweetbunkerbusyscissorslittlefeesixstage |  
+| bip_39_word_no_space_11 | neckenablesweetbunkerbusyscissorslittlefeesixstagepen |  
+| bip_39_word_no_space_12 | neckenablesweetbunkerbusyscissorslittlefeesixstagepenavocado |  
+| bip_39_word_no_space_2 | neckenable |  
+| bip_39_word_no_space_3 | neckenablesweet |  
+| bip_39_word_no_space_4 | neckenablesweetbunker |  
+| bip_39_word_no_space_5 | neckenablesweetbunkerbusy |  
+| bip_39_word_no_space_6 | neckenablesweetbunkerbusyscissors |  
+| bip_39_word_no_space_7 | neckenablesweetbunkerbusyscissorslittle |  
+| bip_39_word_no_space_8 | neckenablesweetbunkerbusyscissorslittlefee |  
+| bip_39_word_no_space_9 | neckenablesweetbunkerbusyscissorslittlefeesix |  
 | bip_39_word_space_0 | ['neck', 'enable', 'sweet', 'bunker', 'busy', 'scissors', 'little', 'fee', 'six', 'stage', 'pen', 'avocado'] |  
 | bip_39_word_space_1 | neck |  
 | bip_39_word_space_10 | neck enable sweet bunker busy scissors little fee six stage |  

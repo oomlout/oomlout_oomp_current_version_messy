@@ -122,6 +122,18 @@ reform
 early
 royal
 first |  
+| bip_39_word_no_space_1 | couch |  
+| bip_39_word_no_space_10 | couchsupremetapetruckwhisperreformearlyroyalfirstclient |  
+| bip_39_word_no_space_11 | couchsupremetapetruckwhisperreformearlyroyalfirstclientoppose |  
+| bip_39_word_no_space_12 | couchsupremetapetruckwhisperreformearlyroyalfirstclientopposeadjust |  
+| bip_39_word_no_space_2 | couchsupreme |  
+| bip_39_word_no_space_3 | couchsupremetape |  
+| bip_39_word_no_space_4 | couchsupremetapetruck |  
+| bip_39_word_no_space_5 | couchsupremetapetruckwhisper |  
+| bip_39_word_no_space_6 | couchsupremetapetruckwhisperreform |  
+| bip_39_word_no_space_7 | couchsupremetapetruckwhisperreformearly |  
+| bip_39_word_no_space_8 | couchsupremetapetruckwhisperreformearlyroyal |  
+| bip_39_word_no_space_9 | couchsupremetapetruckwhisperreformearlyroyalfirst |  
 | bip_39_word_space_0 | ['couch', 'supreme', 'tape', 'truck', 'whisper', 'reform', 'early', 'royal', 'first', 'client', 'oppose', 'adjust'] |  
 | bip_39_word_space_1 | couch |  
 | bip_39_word_space_10 | couch supreme tape truck whisper reform early royal first client |  

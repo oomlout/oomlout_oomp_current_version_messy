@@ -122,6 +122,18 @@ muscle
 whisper
 divide
 ugly |  
+| bip_39_word_no_space_1 | web |  
+| bip_39_word_no_space_10 | webjellyswarmslabrightmusclewhisperdivideuglysalad |  
+| bip_39_word_no_space_11 | webjellyswarmslabrightmusclewhisperdivideuglysaladarrest |  
+| bip_39_word_no_space_12 | webjellyswarmslabrightmusclewhisperdivideuglysaladarrestabsent |  
+| bip_39_word_no_space_2 | webjelly |  
+| bip_39_word_no_space_3 | webjellyswarm |  
+| bip_39_word_no_space_4 | webjellyswarmslab |  
+| bip_39_word_no_space_5 | webjellyswarmslabright |  
+| bip_39_word_no_space_6 | webjellyswarmslabrightmuscle |  
+| bip_39_word_no_space_7 | webjellyswarmslabrightmusclewhisper |  
+| bip_39_word_no_space_8 | webjellyswarmslabrightmusclewhisperdivide |  
+| bip_39_word_no_space_9 | webjellyswarmslabrightmusclewhisperdivideugly |  
 | bip_39_word_space_0 | ['web', 'jelly', 'swarm', 'slab', 'right', 'muscle', 'whisper', 'divide', 'ugly', 'salad', 'arrest', 'absent'] |  
 | bip_39_word_space_1 | web |  
 | bip_39_word_space_10 | web jelly swarm slab right muscle whisper divide ugly salad |  

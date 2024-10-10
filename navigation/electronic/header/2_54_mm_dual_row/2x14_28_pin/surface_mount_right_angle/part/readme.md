@@ -122,6 +122,18 @@ sword
 will
 stamp
 pyramid |  
+| bip_39_word_no_space_1 | sugar |  
+| bip_39_word_no_space_10 | sugartracklightomitlazyswordwillstamppyramidhat |  
+| bip_39_word_no_space_11 | sugartracklightomitlazyswordwillstamppyramidhatgrape |  
+| bip_39_word_no_space_12 | sugartracklightomitlazyswordwillstamppyramidhatgrapeamazing |  
+| bip_39_word_no_space_2 | sugartrack |  
+| bip_39_word_no_space_3 | sugartracklight |  
+| bip_39_word_no_space_4 | sugartracklightomit |  
+| bip_39_word_no_space_5 | sugartracklightomitlazy |  
+| bip_39_word_no_space_6 | sugartracklightomitlazysword |  
+| bip_39_word_no_space_7 | sugartracklightomitlazyswordwill |  
+| bip_39_word_no_space_8 | sugartracklightomitlazyswordwillstamp |  
+| bip_39_word_no_space_9 | sugartracklightomitlazyswordwillstamppyramid |  
 | bip_39_word_space_0 | ['sugar', 'track', 'light', 'omit', 'lazy', 'sword', 'will', 'stamp', 'pyramid', 'hat', 'grape', 'amazing'] |  
 | bip_39_word_space_1 | sugar |  
 | bip_39_word_space_10 | sugar track light omit lazy sword will stamp pyramid hat |  

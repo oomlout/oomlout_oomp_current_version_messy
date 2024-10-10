@@ -122,6 +122,18 @@ youth
 check
 undo
 chunk |  
+| bip_39_word_no_space_1 | victory |  
+| bip_39_word_no_space_10 | victoryboywisdomotheractyouthcheckundochunkmother |  
+| bip_39_word_no_space_11 | victoryboywisdomotheractyouthcheckundochunkmotherusual |  
+| bip_39_word_no_space_12 | victoryboywisdomotheractyouthcheckundochunkmotherusualacross |  
+| bip_39_word_no_space_2 | victoryboy |  
+| bip_39_word_no_space_3 | victoryboywisdom |  
+| bip_39_word_no_space_4 | victoryboywisdomother |  
+| bip_39_word_no_space_5 | victoryboywisdomotheract |  
+| bip_39_word_no_space_6 | victoryboywisdomotheractyouth |  
+| bip_39_word_no_space_7 | victoryboywisdomotheractyouthcheck |  
+| bip_39_word_no_space_8 | victoryboywisdomotheractyouthcheckundo |  
+| bip_39_word_no_space_9 | victoryboywisdomotheractyouthcheckundochunk |  
 | bip_39_word_space_0 | ['victory', 'boy', 'wisdom', 'other', 'act', 'youth', 'check', 'undo', 'chunk', 'mother', 'usual', 'across'] |  
 | bip_39_word_space_1 | victory |  
 | bip_39_word_space_10 | victory boy wisdom other act youth check undo chunk mother |  

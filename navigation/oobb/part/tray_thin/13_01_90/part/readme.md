@@ -122,6 +122,18 @@ make
 lava
 ticket
 speak |  
+| bip_39_word_no_space_1 | episode |  
+| bip_39_word_no_space_10 | episodeduringwindowshareartefactmakelavaticketspeakplate |  
+| bip_39_word_no_space_11 | episodeduringwindowshareartefactmakelavaticketspeakplateridge |  
+| bip_39_word_no_space_12 | episodeduringwindowshareartefactmakelavaticketspeakplateridgeable |  
+| bip_39_word_no_space_2 | episodeduring |  
+| bip_39_word_no_space_3 | episodeduringwindow |  
+| bip_39_word_no_space_4 | episodeduringwindowshare |  
+| bip_39_word_no_space_5 | episodeduringwindowshareartefact |  
+| bip_39_word_no_space_6 | episodeduringwindowshareartefactmake |  
+| bip_39_word_no_space_7 | episodeduringwindowshareartefactmakelava |  
+| bip_39_word_no_space_8 | episodeduringwindowshareartefactmakelavaticket |  
+| bip_39_word_no_space_9 | episodeduringwindowshareartefactmakelavaticketspeak |  
 | bip_39_word_space_0 | ['episode', 'during', 'window', 'share', 'artefact', 'make', 'lava', 'ticket', 'speak', 'plate', 'ridge', 'able'] |  
 | bip_39_word_space_1 | episode |  
 | bip_39_word_space_10 | episode during window share artefact make lava ticket speak plate |  

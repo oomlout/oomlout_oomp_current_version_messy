@@ -122,6 +122,18 @@ slab
 unveil
 glove
 trap |  
+| bip_39_word_no_space_1 | spatial |  
+| bip_39_word_no_space_10 | spatialbabycrunchreveallakeslabunveilglovetrapdamp |  
+| bip_39_word_no_space_11 | spatialbabycrunchreveallakeslabunveilglovetrapdampwreck |  
+| bip_39_word_no_space_12 | spatialbabycrunchreveallakeslabunveilglovetrapdampwreckargue |  
+| bip_39_word_no_space_2 | spatialbaby |  
+| bip_39_word_no_space_3 | spatialbabycrunch |  
+| bip_39_word_no_space_4 | spatialbabycrunchreveal |  
+| bip_39_word_no_space_5 | spatialbabycrunchreveallake |  
+| bip_39_word_no_space_6 | spatialbabycrunchreveallakeslab |  
+| bip_39_word_no_space_7 | spatialbabycrunchreveallakeslabunveil |  
+| bip_39_word_no_space_8 | spatialbabycrunchreveallakeslabunveilglove |  
+| bip_39_word_no_space_9 | spatialbabycrunchreveallakeslabunveilglovetrap |  
 | bip_39_word_space_0 | ['spatial', 'baby', 'crunch', 'reveal', 'lake', 'slab', 'unveil', 'glove', 'trap', 'damp', 'wreck', 'argue'] |  
 | bip_39_word_space_1 | spatial |  
 | bip_39_word_space_10 | spatial baby crunch reveal lake slab unveil glove trap damp |  

@@ -122,6 +122,18 @@ critic
 case
 burst
 want |  
+| bip_39_word_no_space_1 | bar |  
+| bip_39_word_no_space_10 | bareruptsmoothpredictretreatcriticcaseburstwantsuccess |  
+| bip_39_word_no_space_11 | bareruptsmoothpredictretreatcriticcaseburstwantsuccesstennis |  
+| bip_39_word_no_space_12 | bareruptsmoothpredictretreatcriticcaseburstwantsuccesstennisadmit |  
+| bip_39_word_no_space_2 | barerupt |  
+| bip_39_word_no_space_3 | bareruptsmooth |  
+| bip_39_word_no_space_4 | bareruptsmoothpredict |  
+| bip_39_word_no_space_5 | bareruptsmoothpredictretreat |  
+| bip_39_word_no_space_6 | bareruptsmoothpredictretreatcritic |  
+| bip_39_word_no_space_7 | bareruptsmoothpredictretreatcriticcase |  
+| bip_39_word_no_space_8 | bareruptsmoothpredictretreatcriticcaseburst |  
+| bip_39_word_no_space_9 | bareruptsmoothpredictretreatcriticcaseburstwant |  
 | bip_39_word_space_0 | ['bar', 'erupt', 'smooth', 'predict', 'retreat', 'critic', 'case', 'burst', 'want', 'success', 'tennis', 'admit'] |  
 | bip_39_word_space_1 | bar |  
 | bip_39_word_space_10 | bar erupt smooth predict retreat critic case burst want success |  

@@ -122,6 +122,18 @@ ten
 door
 lion
 close |  
+| bip_39_word_no_space_1 | best |  
+| bip_39_word_no_space_10 | bestmothertumblewagonbirthtendoorlionclosehelp |  
+| bip_39_word_no_space_11 | bestmothertumblewagonbirthtendoorlionclosehelpslow |  
+| bip_39_word_no_space_12 | bestmothertumblewagonbirthtendoorlionclosehelpslowacid |  
+| bip_39_word_no_space_2 | bestmother |  
+| bip_39_word_no_space_3 | bestmothertumble |  
+| bip_39_word_no_space_4 | bestmothertumblewagon |  
+| bip_39_word_no_space_5 | bestmothertumblewagonbirth |  
+| bip_39_word_no_space_6 | bestmothertumblewagonbirthten |  
+| bip_39_word_no_space_7 | bestmothertumblewagonbirthtendoor |  
+| bip_39_word_no_space_8 | bestmothertumblewagonbirthtendoorlion |  
+| bip_39_word_no_space_9 | bestmothertumblewagonbirthtendoorlionclose |  
 | bip_39_word_space_0 | ['best', 'mother', 'tumble', 'wagon', 'birth', 'ten', 'door', 'lion', 'close', 'help', 'slow', 'acid'] |  
 | bip_39_word_space_1 | best |  
 | bip_39_word_space_10 | best mother tumble wagon birth ten door lion close help |  

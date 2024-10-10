@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'learn
   recipe
 
   series'
+bip_39_word_no_space_1: learn
+bip_39_word_no_space_10: learnspeakinhaletalentaskthoughtenginerecipeserieskiwi
+bip_39_word_no_space_11: learnspeakinhaletalentaskthoughtenginerecipeserieskiwifence
+bip_39_word_no_space_12: learnspeakinhaletalentaskthoughtenginerecipeserieskiwifenceabsorb
+bip_39_word_no_space_2: learnspeak
+bip_39_word_no_space_3: learnspeakinhale
+bip_39_word_no_space_4: learnspeakinhaletalent
+bip_39_word_no_space_5: learnspeakinhaletalentask
+bip_39_word_no_space_6: learnspeakinhaletalentaskthought
+bip_39_word_no_space_7: learnspeakinhaletalentaskthoughtengine
+bip_39_word_no_space_8: learnspeakinhaletalentaskthoughtenginerecipe
+bip_39_word_no_space_9: learnspeakinhaletalentaskthoughtenginerecipeseries
 bip_39_word_space_0:
 - learn
 - speak

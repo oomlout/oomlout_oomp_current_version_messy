@@ -122,6 +122,18 @@ clinic
 together
 either
 slam |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideaseniorsocialpasssquareclinictogethereitherslamscan |  
+| bip_39_word_no_space_11 | ideaseniorsocialpasssquareclinictogethereitherslamscancannon |  
+| bip_39_word_no_space_12 | ideaseniorsocialpasssquareclinictogethereitherslamscancannonask |  
+| bip_39_word_no_space_2 | ideasenior |  
+| bip_39_word_no_space_3 | ideaseniorsocial |  
+| bip_39_word_no_space_4 | ideaseniorsocialpass |  
+| bip_39_word_no_space_5 | ideaseniorsocialpasssquare |  
+| bip_39_word_no_space_6 | ideaseniorsocialpasssquareclinic |  
+| bip_39_word_no_space_7 | ideaseniorsocialpasssquareclinictogether |  
+| bip_39_word_no_space_8 | ideaseniorsocialpasssquareclinictogethereither |  
+| bip_39_word_no_space_9 | ideaseniorsocialpasssquareclinictogethereitherslam |  
 | bip_39_word_space_0 | ['idea', 'senior', 'social', 'pass', 'square', 'clinic', 'together', 'either', 'slam', 'scan', 'cannon', 'ask'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea senior social pass square clinic together either slam scan |  

@@ -122,6 +122,18 @@ leg
 cheese
 cave
 roof |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offautosadbleakinspirelegcheesecaveroofcharge |  
+| bip_39_word_no_space_11 | offautosadbleakinspirelegcheesecaveroofchargeembark |  
+| bip_39_word_no_space_12 | offautosadbleakinspirelegcheesecaveroofchargeembarkapart |  
+| bip_39_word_no_space_2 | offauto |  
+| bip_39_word_no_space_3 | offautosad |  
+| bip_39_word_no_space_4 | offautosadbleak |  
+| bip_39_word_no_space_5 | offautosadbleakinspire |  
+| bip_39_word_no_space_6 | offautosadbleakinspireleg |  
+| bip_39_word_no_space_7 | offautosadbleakinspirelegcheese |  
+| bip_39_word_no_space_8 | offautosadbleakinspirelegcheesecave |  
+| bip_39_word_no_space_9 | offautosadbleakinspirelegcheesecaveroof |  
 | bip_39_word_space_0 | ['off', 'auto', 'sad', 'bleak', 'inspire', 'leg', 'cheese', 'cave', 'roof', 'charge', 'embark', 'apart'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off auto sad bleak inspire leg cheese cave roof charge |  

@@ -122,6 +122,18 @@ inner
 kitchen
 silver
 actual |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftrookiehorseduckplasticinnerkitchensilveractualcensus |  
+| bip_39_word_no_space_11 | giftrookiehorseduckplasticinnerkitchensilveractualcensusmonitor |  
+| bip_39_word_no_space_12 | giftrookiehorseduckplasticinnerkitchensilveractualcensusmonitoract |  
+| bip_39_word_no_space_2 | giftrookie |  
+| bip_39_word_no_space_3 | giftrookiehorse |  
+| bip_39_word_no_space_4 | giftrookiehorseduck |  
+| bip_39_word_no_space_5 | giftrookiehorseduckplastic |  
+| bip_39_word_no_space_6 | giftrookiehorseduckplasticinner |  
+| bip_39_word_no_space_7 | giftrookiehorseduckplasticinnerkitchen |  
+| bip_39_word_no_space_8 | giftrookiehorseduckplasticinnerkitchensilver |  
+| bip_39_word_no_space_9 | giftrookiehorseduckplasticinnerkitchensilveractual |  
 | bip_39_word_space_0 | ['gift', 'rookie', 'horse', 'duck', 'plastic', 'inner', 'kitchen', 'silver', 'actual', 'census', 'monitor', 'act'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift rookie horse duck plastic inner kitchen silver actual census |  

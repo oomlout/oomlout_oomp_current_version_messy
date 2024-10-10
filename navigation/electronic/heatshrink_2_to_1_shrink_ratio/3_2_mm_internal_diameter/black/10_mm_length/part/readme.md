@@ -122,6 +122,18 @@ list
 bid
 school
 domain |  
+| bip_39_word_no_space_1 | coffee |  
+| bip_39_word_no_space_10 | coffeehorseaddressorchardsaylistbidschooldomaindoor |  
+| bip_39_word_no_space_11 | coffeehorseaddressorchardsaylistbidschooldomaindoorgovern |  
+| bip_39_word_no_space_12 | coffeehorseaddressorchardsaylistbidschooldomaindoorgovernabstract |  
+| bip_39_word_no_space_2 | coffeehorse |  
+| bip_39_word_no_space_3 | coffeehorseaddress |  
+| bip_39_word_no_space_4 | coffeehorseaddressorchard |  
+| bip_39_word_no_space_5 | coffeehorseaddressorchardsay |  
+| bip_39_word_no_space_6 | coffeehorseaddressorchardsaylist |  
+| bip_39_word_no_space_7 | coffeehorseaddressorchardsaylistbid |  
+| bip_39_word_no_space_8 | coffeehorseaddressorchardsaylistbidschool |  
+| bip_39_word_no_space_9 | coffeehorseaddressorchardsaylistbidschooldomain |  
 | bip_39_word_space_0 | ['coffee', 'horse', 'address', 'orchard', 'say', 'list', 'bid', 'school', 'domain', 'door', 'govern', 'abstract'] |  
 | bip_39_word_space_1 | coffee |  
 | bip_39_word_space_10 | coffee horse address orchard say list bid school domain door |  

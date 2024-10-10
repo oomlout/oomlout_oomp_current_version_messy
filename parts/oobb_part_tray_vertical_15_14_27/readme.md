@@ -122,6 +122,18 @@ rare
 hobby
 damp
 nest |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detecttransferpuppylaterimpulserarehobbydampnesttourist |  
+| bip_39_word_no_space_11 | detecttransferpuppylaterimpulserarehobbydampnesttouristvibrant |  
+| bip_39_word_no_space_12 | detecttransferpuppylaterimpulserarehobbydampnesttouristvibrantapprove |  
+| bip_39_word_no_space_2 | detecttransfer |  
+| bip_39_word_no_space_3 | detecttransferpuppy |  
+| bip_39_word_no_space_4 | detecttransferpuppylater |  
+| bip_39_word_no_space_5 | detecttransferpuppylaterimpulse |  
+| bip_39_word_no_space_6 | detecttransferpuppylaterimpulserare |  
+| bip_39_word_no_space_7 | detecttransferpuppylaterimpulserarehobby |  
+| bip_39_word_no_space_8 | detecttransferpuppylaterimpulserarehobbydamp |  
+| bip_39_word_no_space_9 | detecttransferpuppylaterimpulserarehobbydampnest |  
 | bip_39_word_space_0 | ['detect', 'transfer', 'puppy', 'later', 'impulse', 'rare', 'hobby', 'damp', 'nest', 'tourist', 'vibrant', 'approve'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect transfer puppy later impulse rare hobby damp nest tourist |  

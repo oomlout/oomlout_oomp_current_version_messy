@@ -122,6 +122,18 @@ inch
 media
 mercy
 shield |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddylogicnastyjobcraterinchmediamercyshieldbrown |  
+| bip_39_word_no_space_11 | buddylogicnastyjobcraterinchmediamercyshieldbrowncorn |  
+| bip_39_word_no_space_12 | buddylogicnastyjobcraterinchmediamercyshieldbrowncornactor |  
+| bip_39_word_no_space_2 | buddylogic |  
+| bip_39_word_no_space_3 | buddylogicnasty |  
+| bip_39_word_no_space_4 | buddylogicnastyjob |  
+| bip_39_word_no_space_5 | buddylogicnastyjobcrater |  
+| bip_39_word_no_space_6 | buddylogicnastyjobcraterinch |  
+| bip_39_word_no_space_7 | buddylogicnastyjobcraterinchmedia |  
+| bip_39_word_no_space_8 | buddylogicnastyjobcraterinchmediamercy |  
+| bip_39_word_no_space_9 | buddylogicnastyjobcraterinchmediamercyshield |  
 | bip_39_word_space_0 | ['buddy', 'logic', 'nasty', 'job', 'crater', 'inch', 'media', 'mercy', 'shield', 'brown', 'corn', 'actor'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy logic nasty job crater inch media mercy shield brown |  

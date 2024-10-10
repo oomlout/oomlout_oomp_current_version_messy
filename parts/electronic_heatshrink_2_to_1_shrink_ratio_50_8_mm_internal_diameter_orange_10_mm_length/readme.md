@@ -122,6 +122,18 @@ search
 stem
 accident
 sauce |  
+| bip_39_word_no_space_1 | wheat |  
+| bip_39_word_no_space_10 | wheathoverpantherarenasolidsearchstemaccidentsaucearena |  
+| bip_39_word_no_space_11 | wheathoverpantherarenasolidsearchstemaccidentsaucearenaerror |  
+| bip_39_word_no_space_12 | wheathoverpantherarenasolidsearchstemaccidentsaucearenaerrorankle |  
+| bip_39_word_no_space_2 | wheathover |  
+| bip_39_word_no_space_3 | wheathoverpanther |  
+| bip_39_word_no_space_4 | wheathoverpantherarena |  
+| bip_39_word_no_space_5 | wheathoverpantherarenasolid |  
+| bip_39_word_no_space_6 | wheathoverpantherarenasolidsearch |  
+| bip_39_word_no_space_7 | wheathoverpantherarenasolidsearchstem |  
+| bip_39_word_no_space_8 | wheathoverpantherarenasolidsearchstemaccident |  
+| bip_39_word_no_space_9 | wheathoverpantherarenasolidsearchstemaccidentsauce |  
 | bip_39_word_space_0 | ['wheat', 'hover', 'panther', 'arena', 'solid', 'search', 'stem', 'accident', 'sauce', 'arena', 'error', 'ankle'] |  
 | bip_39_word_space_1 | wheat |  
 | bip_39_word_space_10 | wheat hover panther arena solid search stem accident sauce arena |  

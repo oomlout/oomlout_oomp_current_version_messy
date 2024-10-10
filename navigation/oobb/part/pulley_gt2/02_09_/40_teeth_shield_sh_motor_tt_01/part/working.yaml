@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'seminar
   badge
 
   favorite'
+bip_39_word_no_space_1: seminar
+bip_39_word_no_space_10: seminarundostylesamepowerwoodsuitbadgefavoritemovie
+bip_39_word_no_space_11: seminarundostylesamepowerwoodsuitbadgefavoritemovieurge
+bip_39_word_no_space_12: seminarundostylesamepowerwoodsuitbadgefavoritemovieurgeabout
+bip_39_word_no_space_2: seminarundo
+bip_39_word_no_space_3: seminarundostyle
+bip_39_word_no_space_4: seminarundostylesame
+bip_39_word_no_space_5: seminarundostylesamepower
+bip_39_word_no_space_6: seminarundostylesamepowerwood
+bip_39_word_no_space_7: seminarundostylesamepowerwoodsuit
+bip_39_word_no_space_8: seminarundostylesamepowerwoodsuitbadge
+bip_39_word_no_space_9: seminarundostylesamepowerwoodsuitbadgefavorite
 bip_39_word_space_0:
 - seminar
 - undo

@@ -122,6 +122,18 @@ head
 fun
 adjust
 match |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparespatialmasssmartvirusheadfunadjustmatchtooth |  
+| bip_39_word_no_space_11 | preparespatialmasssmartvirusheadfunadjustmatchtoothwest |  
+| bip_39_word_no_space_12 | preparespatialmasssmartvirusheadfunadjustmatchtoothwestaccess |  
+| bip_39_word_no_space_2 | preparespatial |  
+| bip_39_word_no_space_3 | preparespatialmass |  
+| bip_39_word_no_space_4 | preparespatialmasssmart |  
+| bip_39_word_no_space_5 | preparespatialmasssmartvirus |  
+| bip_39_word_no_space_6 | preparespatialmasssmartvirushead |  
+| bip_39_word_no_space_7 | preparespatialmasssmartvirusheadfun |  
+| bip_39_word_no_space_8 | preparespatialmasssmartvirusheadfunadjust |  
+| bip_39_word_no_space_9 | preparespatialmasssmartvirusheadfunadjustmatch |  
 | bip_39_word_space_0 | ['prepare', 'spatial', 'mass', 'smart', 'virus', 'head', 'fun', 'adjust', 'match', 'tooth', 'west', 'access'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare spatial mass smart virus head fun adjust match tooth |  

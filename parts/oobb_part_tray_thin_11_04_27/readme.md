@@ -122,6 +122,18 @@ suspect
 include
 differ
 execute |  
+| bip_39_word_no_space_1 | skirt |  
+| bip_39_word_no_space_10 | skirtisolatevaultwinevictorysuspectincludedifferexecutegrain |  
+| bip_39_word_no_space_11 | skirtisolatevaultwinevictorysuspectincludedifferexecutegrainfringe |  
+| bip_39_word_no_space_12 | skirtisolatevaultwinevictorysuspectincludedifferexecutegrainfringealcohol |  
+| bip_39_word_no_space_2 | skirtisolate |  
+| bip_39_word_no_space_3 | skirtisolatevault |  
+| bip_39_word_no_space_4 | skirtisolatevaultwine |  
+| bip_39_word_no_space_5 | skirtisolatevaultwinevictory |  
+| bip_39_word_no_space_6 | skirtisolatevaultwinevictorysuspect |  
+| bip_39_word_no_space_7 | skirtisolatevaultwinevictorysuspectinclude |  
+| bip_39_word_no_space_8 | skirtisolatevaultwinevictorysuspectincludediffer |  
+| bip_39_word_no_space_9 | skirtisolatevaultwinevictorysuspectincludedifferexecute |  
 | bip_39_word_space_0 | ['skirt', 'isolate', 'vault', 'wine', 'victory', 'suspect', 'include', 'differ', 'execute', 'grain', 'fringe', 'alcohol'] |  
 | bip_39_word_space_1 | skirt |  
 | bip_39_word_space_10 | skirt isolate vault wine victory suspect include differ execute grain |  

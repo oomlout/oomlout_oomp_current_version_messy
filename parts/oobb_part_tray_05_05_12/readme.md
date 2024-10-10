@@ -122,6 +122,18 @@ wagon
 nominee
 sand
 feed |  
+| bip_39_word_no_space_1 | pole |  
+| bip_39_word_no_space_10 | polerouteuntilgrapebasicwagonnomineesandfeedweapon |  
+| bip_39_word_no_space_11 | polerouteuntilgrapebasicwagonnomineesandfeedweaponleaf |  
+| bip_39_word_no_space_12 | polerouteuntilgrapebasicwagonnomineesandfeedweaponleafabove |  
+| bip_39_word_no_space_2 | poleroute |  
+| bip_39_word_no_space_3 | polerouteuntil |  
+| bip_39_word_no_space_4 | polerouteuntilgrape |  
+| bip_39_word_no_space_5 | polerouteuntilgrapebasic |  
+| bip_39_word_no_space_6 | polerouteuntilgrapebasicwagon |  
+| bip_39_word_no_space_7 | polerouteuntilgrapebasicwagonnominee |  
+| bip_39_word_no_space_8 | polerouteuntilgrapebasicwagonnomineesand |  
+| bip_39_word_no_space_9 | polerouteuntilgrapebasicwagonnomineesandfeed |  
 | bip_39_word_space_0 | ['pole', 'route', 'until', 'grape', 'basic', 'wagon', 'nominee', 'sand', 'feed', 'weapon', 'leaf', 'above'] |  
 | bip_39_word_space_1 | pole |  
 | bip_39_word_space_10 | pole route until grape basic wagon nominee sand feed weapon |  

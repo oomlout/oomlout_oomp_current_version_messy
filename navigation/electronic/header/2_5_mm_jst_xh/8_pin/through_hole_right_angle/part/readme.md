@@ -122,6 +122,18 @@ prevent
 slush
 permit
 around |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deertobaccovoicehamsterburdenpreventslushpermitaroundbrush |  
+| bip_39_word_no_space_11 | deertobaccovoicehamsterburdenpreventslushpermitaroundbrushawful |  
+| bip_39_word_no_space_12 | deertobaccovoicehamsterburdenpreventslushpermitaroundbrushawfulactual |  
+| bip_39_word_no_space_2 | deertobacco |  
+| bip_39_word_no_space_3 | deertobaccovoice |  
+| bip_39_word_no_space_4 | deertobaccovoicehamster |  
+| bip_39_word_no_space_5 | deertobaccovoicehamsterburden |  
+| bip_39_word_no_space_6 | deertobaccovoicehamsterburdenprevent |  
+| bip_39_word_no_space_7 | deertobaccovoicehamsterburdenpreventslush |  
+| bip_39_word_no_space_8 | deertobaccovoicehamsterburdenpreventslushpermit |  
+| bip_39_word_no_space_9 | deertobaccovoicehamsterburdenpreventslushpermitaround |  
 | bip_39_word_space_0 | ['deer', 'tobacco', 'voice', 'hamster', 'burden', 'prevent', 'slush', 'permit', 'around', 'brush', 'awful', 'actual'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer tobacco voice hamster burden prevent slush permit around brush |  

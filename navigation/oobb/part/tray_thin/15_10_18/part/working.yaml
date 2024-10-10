@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mixed
   drum
 
   benefit'
+bip_39_word_no_space_1: mixed
+bip_39_word_no_space_10: mixedauthorpanelcarpetladypresentalwaysdrumbenefitgrief
+bip_39_word_no_space_11: mixedauthorpanelcarpetladypresentalwaysdrumbenefitgrieftreat
+bip_39_word_no_space_12: mixedauthorpanelcarpetladypresentalwaysdrumbenefitgrieftreatacoustic
+bip_39_word_no_space_2: mixedauthor
+bip_39_word_no_space_3: mixedauthorpanel
+bip_39_word_no_space_4: mixedauthorpanelcarpet
+bip_39_word_no_space_5: mixedauthorpanelcarpetlady
+bip_39_word_no_space_6: mixedauthorpanelcarpetladypresent
+bip_39_word_no_space_7: mixedauthorpanelcarpetladypresentalways
+bip_39_word_no_space_8: mixedauthorpanelcarpetladypresentalwaysdrum
+bip_39_word_no_space_9: mixedauthorpanelcarpetladypresentalwaysdrumbenefit
 bip_39_word_space_0:
 - mixed
 - author

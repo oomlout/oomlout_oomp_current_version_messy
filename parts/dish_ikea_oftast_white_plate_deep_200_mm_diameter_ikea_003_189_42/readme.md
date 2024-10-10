@@ -122,6 +122,18 @@ damage
 spray
 glance
 drastic |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famousstickschoolrecipedocumentdamagesprayglancedrasticspike |  
+| bip_39_word_no_space_11 | famousstickschoolrecipedocumentdamagesprayglancedrasticspikeprepare |  
+| bip_39_word_no_space_12 | famousstickschoolrecipedocumentdamagesprayglancedrasticspikeprepareargue |  
+| bip_39_word_no_space_2 | famousstick |  
+| bip_39_word_no_space_3 | famousstickschool |  
+| bip_39_word_no_space_4 | famousstickschoolrecipe |  
+| bip_39_word_no_space_5 | famousstickschoolrecipedocument |  
+| bip_39_word_no_space_6 | famousstickschoolrecipedocumentdamage |  
+| bip_39_word_no_space_7 | famousstickschoolrecipedocumentdamagespray |  
+| bip_39_word_no_space_8 | famousstickschoolrecipedocumentdamagesprayglance |  
+| bip_39_word_no_space_9 | famousstickschoolrecipedocumentdamagesprayglancedrastic |  
 | bip_39_word_space_0 | ['famous', 'stick', 'school', 'recipe', 'document', 'damage', 'spray', 'glance', 'drastic', 'spike', 'prepare', 'argue'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous stick school recipe document damage spray glance drastic spike |  

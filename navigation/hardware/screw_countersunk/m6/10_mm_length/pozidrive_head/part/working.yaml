@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'space
   trip
 
   cheap'
+bip_39_word_no_space_1: space
+bip_39_word_no_space_10: spaceannualabilitywaysparefineepisodetripcheapshift
+bip_39_word_no_space_11: spaceannualabilitywaysparefineepisodetripcheapshiftloop
+bip_39_word_no_space_12: spaceannualabilitywaysparefineepisodetripcheapshiftloopany
+bip_39_word_no_space_2: spaceannual
+bip_39_word_no_space_3: spaceannualability
+bip_39_word_no_space_4: spaceannualabilityway
+bip_39_word_no_space_5: spaceannualabilitywayspare
+bip_39_word_no_space_6: spaceannualabilitywaysparefine
+bip_39_word_no_space_7: spaceannualabilitywaysparefineepisode
+bip_39_word_no_space_8: spaceannualabilitywaysparefineepisodetrip
+bip_39_word_no_space_9: spaceannualabilitywaysparefineepisodetripcheap
 bip_39_word_space_0:
 - space
 - annual

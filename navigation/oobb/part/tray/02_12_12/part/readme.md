@@ -122,6 +122,18 @@ stay
 ritual
 shoulder
 together |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilewhatnutjunkalphastayritualshouldertogetherroad |  
+| bip_39_word_no_space_11 | mobilewhatnutjunkalphastayritualshouldertogetherroadhamster |  
+| bip_39_word_no_space_12 | mobilewhatnutjunkalphastayritualshouldertogetherroadhamsteralter |  
+| bip_39_word_no_space_2 | mobilewhat |  
+| bip_39_word_no_space_3 | mobilewhatnut |  
+| bip_39_word_no_space_4 | mobilewhatnutjunk |  
+| bip_39_word_no_space_5 | mobilewhatnutjunkalpha |  
+| bip_39_word_no_space_6 | mobilewhatnutjunkalphastay |  
+| bip_39_word_no_space_7 | mobilewhatnutjunkalphastayritual |  
+| bip_39_word_no_space_8 | mobilewhatnutjunkalphastayritualshoulder |  
+| bip_39_word_no_space_9 | mobilewhatnutjunkalphastayritualshouldertogether |  
 | bip_39_word_space_0 | ['mobile', 'what', 'nut', 'junk', 'alpha', 'stay', 'ritual', 'shoulder', 'together', 'road', 'hamster', 'alter'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile what nut junk alpha stay ritual shoulder together road |  

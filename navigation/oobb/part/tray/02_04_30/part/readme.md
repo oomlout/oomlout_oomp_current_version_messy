@@ -122,6 +122,18 @@ sound
 paddle
 music
 arrest |  
+| bip_39_word_no_space_1 | bitter |  
+| bip_39_word_no_space_10 | bittertokenrobusttrendembarksoundpaddlemusicarreststomach |  
+| bip_39_word_no_space_11 | bittertokenrobusttrendembarksoundpaddlemusicarreststomachfat |  
+| bip_39_word_no_space_12 | bittertokenrobusttrendembarksoundpaddlemusicarreststomachfatact |  
+| bip_39_word_no_space_2 | bittertoken |  
+| bip_39_word_no_space_3 | bittertokenrobust |  
+| bip_39_word_no_space_4 | bittertokenrobusttrend |  
+| bip_39_word_no_space_5 | bittertokenrobusttrendembark |  
+| bip_39_word_no_space_6 | bittertokenrobusttrendembarksound |  
+| bip_39_word_no_space_7 | bittertokenrobusttrendembarksoundpaddle |  
+| bip_39_word_no_space_8 | bittertokenrobusttrendembarksoundpaddlemusic |  
+| bip_39_word_no_space_9 | bittertokenrobusttrendembarksoundpaddlemusicarrest |  
 | bip_39_word_space_0 | ['bitter', 'token', 'robust', 'trend', 'embark', 'sound', 'paddle', 'music', 'arrest', 'stomach', 'fat', 'act'] |  
 | bip_39_word_space_1 | bitter |  
 | bip_39_word_space_10 | bitter token robust trend embark sound paddle music arrest stomach |  

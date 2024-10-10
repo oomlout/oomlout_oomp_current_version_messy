@@ -122,6 +122,18 @@ autumn
 cart
 cart
 blouse |  
+| bip_39_word_no_space_1 | syrup |  
+| bip_39_word_no_space_10 | syrupzoneshadowzoooptionautumncartcartblousewine |  
+| bip_39_word_no_space_11 | syrupzoneshadowzoooptionautumncartcartblousewineglass |  
+| bip_39_word_no_space_12 | syrupzoneshadowzoooptionautumncartcartblousewineglassalien |  
+| bip_39_word_no_space_2 | syrupzone |  
+| bip_39_word_no_space_3 | syrupzoneshadow |  
+| bip_39_word_no_space_4 | syrupzoneshadowzoo |  
+| bip_39_word_no_space_5 | syrupzoneshadowzoooption |  
+| bip_39_word_no_space_6 | syrupzoneshadowzoooptionautumn |  
+| bip_39_word_no_space_7 | syrupzoneshadowzoooptionautumncart |  
+| bip_39_word_no_space_8 | syrupzoneshadowzoooptionautumncartcart |  
+| bip_39_word_no_space_9 | syrupzoneshadowzoooptionautumncartcartblouse |  
 | bip_39_word_space_0 | ['syrup', 'zone', 'shadow', 'zoo', 'option', 'autumn', 'cart', 'cart', 'blouse', 'wine', 'glass', 'alien'] |  
 | bip_39_word_space_1 | syrup |  
 | bip_39_word_space_10 | syrup zone shadow zoo option autumn cart cart blouse wine |  

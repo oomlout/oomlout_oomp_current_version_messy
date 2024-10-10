@@ -122,6 +122,18 @@ cute
 orphan
 super
 crazy |  
+| bip_39_word_no_space_1 | noise |  
+| bip_39_word_no_space_10 | noisemelodyfrontavocadomemorycuteorphansupercrazyglory |  
+| bip_39_word_no_space_11 | noisemelodyfrontavocadomemorycuteorphansupercrazyglorylesson |  
+| bip_39_word_no_space_12 | noisemelodyfrontavocadomemorycuteorphansupercrazyglorylessonacid |  
+| bip_39_word_no_space_2 | noisemelody |  
+| bip_39_word_no_space_3 | noisemelodyfront |  
+| bip_39_word_no_space_4 | noisemelodyfrontavocado |  
+| bip_39_word_no_space_5 | noisemelodyfrontavocadomemory |  
+| bip_39_word_no_space_6 | noisemelodyfrontavocadomemorycute |  
+| bip_39_word_no_space_7 | noisemelodyfrontavocadomemorycuteorphan |  
+| bip_39_word_no_space_8 | noisemelodyfrontavocadomemorycuteorphansuper |  
+| bip_39_word_no_space_9 | noisemelodyfrontavocadomemorycuteorphansupercrazy |  
 | bip_39_word_space_0 | ['noise', 'melody', 'front', 'avocado', 'memory', 'cute', 'orphan', 'super', 'crazy', 'glory', 'lesson', 'acid'] |  
 | bip_39_word_space_1 | noise |  
 | bip_39_word_space_10 | noise melody front avocado memory cute orphan super crazy glory |  

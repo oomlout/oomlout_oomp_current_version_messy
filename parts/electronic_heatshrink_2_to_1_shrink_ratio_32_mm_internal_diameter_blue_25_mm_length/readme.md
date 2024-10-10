@@ -122,6 +122,18 @@ expand
 speed
 finish
 result |  
+| bip_39_word_no_space_1 | act |  
+| bip_39_word_no_space_10 | actfoxlumbersignabsorbexpandspeedfinishresultproof |  
+| bip_39_word_no_space_11 | actfoxlumbersignabsorbexpandspeedfinishresultproofshoot |  
+| bip_39_word_no_space_12 | actfoxlumbersignabsorbexpandspeedfinishresultproofshootactor |  
+| bip_39_word_no_space_2 | actfox |  
+| bip_39_word_no_space_3 | actfoxlumber |  
+| bip_39_word_no_space_4 | actfoxlumbersign |  
+| bip_39_word_no_space_5 | actfoxlumbersignabsorb |  
+| bip_39_word_no_space_6 | actfoxlumbersignabsorbexpand |  
+| bip_39_word_no_space_7 | actfoxlumbersignabsorbexpandspeed |  
+| bip_39_word_no_space_8 | actfoxlumbersignabsorbexpandspeedfinish |  
+| bip_39_word_no_space_9 | actfoxlumbersignabsorbexpandspeedfinishresult |  
 | bip_39_word_space_0 | ['act', 'fox', 'lumber', 'sign', 'absorb', 'expand', 'speed', 'finish', 'result', 'proof', 'shoot', 'actor'] |  
 | bip_39_word_space_1 | act |  
 | bip_39_word_space_10 | act fox lumber sign absorb expand speed finish result proof |  

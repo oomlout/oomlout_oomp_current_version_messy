@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tube
   brand
 
   denial'
+bip_39_word_no_space_1: tube
+bip_39_word_no_space_10: tubeorientinvolvepizzadrillhumanblurbranddenialgrain
+bip_39_word_no_space_11: tubeorientinvolvepizzadrillhumanblurbranddenialgrainhair
+bip_39_word_no_space_12: tubeorientinvolvepizzadrillhumanblurbranddenialgrainhairapart
+bip_39_word_no_space_2: tubeorient
+bip_39_word_no_space_3: tubeorientinvolve
+bip_39_word_no_space_4: tubeorientinvolvepizza
+bip_39_word_no_space_5: tubeorientinvolvepizzadrill
+bip_39_word_no_space_6: tubeorientinvolvepizzadrillhuman
+bip_39_word_no_space_7: tubeorientinvolvepizzadrillhumanblur
+bip_39_word_no_space_8: tubeorientinvolvepizzadrillhumanblurbrand
+bip_39_word_no_space_9: tubeorientinvolvepizzadrillhumanblurbranddenial
 bip_39_word_space_0:
 - tube
 - orient

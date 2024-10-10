@@ -122,6 +122,18 @@ tennis
 nephew
 layer
 wage |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubdrivemoraldramareducetennisnephewlayerwagehero |  
+| bip_39_word_no_space_11 | hubdrivemoraldramareducetennisnephewlayerwageherocomic |  
+| bip_39_word_no_space_12 | hubdrivemoraldramareducetennisnephewlayerwageherocomicalien |  
+| bip_39_word_no_space_2 | hubdrive |  
+| bip_39_word_no_space_3 | hubdrivemoral |  
+| bip_39_word_no_space_4 | hubdrivemoraldrama |  
+| bip_39_word_no_space_5 | hubdrivemoraldramareduce |  
+| bip_39_word_no_space_6 | hubdrivemoraldramareducetennis |  
+| bip_39_word_no_space_7 | hubdrivemoraldramareducetennisnephew |  
+| bip_39_word_no_space_8 | hubdrivemoraldramareducetennisnephewlayer |  
+| bip_39_word_no_space_9 | hubdrivemoraldramareducetennisnephewlayerwage |  
 | bip_39_word_space_0 | ['hub', 'drive', 'moral', 'drama', 'reduce', 'tennis', 'nephew', 'layer', 'wage', 'hero', 'comic', 'alien'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub drive moral drama reduce tennis nephew layer wage hero |  

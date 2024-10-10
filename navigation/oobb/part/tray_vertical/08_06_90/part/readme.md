@@ -122,6 +122,18 @@ dawn
 swing
 acid
 found |  
+| bip_39_word_no_space_1 | weird |  
+| bip_39_word_no_space_10 | weirdbasketgainuncoverhubdawnswingacidfoundtimber |  
+| bip_39_word_no_space_11 | weirdbasketgainuncoverhubdawnswingacidfoundtimbermusic |  
+| bip_39_word_no_space_12 | weirdbasketgainuncoverhubdawnswingacidfoundtimbermusicartist |  
+| bip_39_word_no_space_2 | weirdbasket |  
+| bip_39_word_no_space_3 | weirdbasketgain |  
+| bip_39_word_no_space_4 | weirdbasketgainuncover |  
+| bip_39_word_no_space_5 | weirdbasketgainuncoverhub |  
+| bip_39_word_no_space_6 | weirdbasketgainuncoverhubdawn |  
+| bip_39_word_no_space_7 | weirdbasketgainuncoverhubdawnswing |  
+| bip_39_word_no_space_8 | weirdbasketgainuncoverhubdawnswingacid |  
+| bip_39_word_no_space_9 | weirdbasketgainuncoverhubdawnswingacidfound |  
 | bip_39_word_space_0 | ['weird', 'basket', 'gain', 'uncover', 'hub', 'dawn', 'swing', 'acid', 'found', 'timber', 'music', 'artist'] |  
 | bip_39_word_space_1 | weird |  
 | bip_39_word_space_10 | weird basket gain uncover hub dawn swing acid found timber |  

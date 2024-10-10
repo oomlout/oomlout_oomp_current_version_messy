@@ -122,6 +122,18 @@ tower
 fat
 letter
 foot |  
+| bip_39_word_no_space_1 | wood |  
+| bip_39_word_no_space_10 | woodchurnhourmenuamounttowerfatletterfootseven |  
+| bip_39_word_no_space_11 | woodchurnhourmenuamounttowerfatletterfootsevenholiday |  
+| bip_39_word_no_space_12 | woodchurnhourmenuamounttowerfatletterfootsevenholidayattitude |  
+| bip_39_word_no_space_2 | woodchurn |  
+| bip_39_word_no_space_3 | woodchurnhour |  
+| bip_39_word_no_space_4 | woodchurnhourmenu |  
+| bip_39_word_no_space_5 | woodchurnhourmenuamount |  
+| bip_39_word_no_space_6 | woodchurnhourmenuamounttower |  
+| bip_39_word_no_space_7 | woodchurnhourmenuamounttowerfat |  
+| bip_39_word_no_space_8 | woodchurnhourmenuamounttowerfatletter |  
+| bip_39_word_no_space_9 | woodchurnhourmenuamounttowerfatletterfoot |  
 | bip_39_word_space_0 | ['wood', 'churn', 'hour', 'menu', 'amount', 'tower', 'fat', 'letter', 'foot', 'seven', 'holiday', 'attitude'] |  
 | bip_39_word_space_1 | wood |  
 | bip_39_word_space_10 | wood churn hour menu amount tower fat letter foot seven |  

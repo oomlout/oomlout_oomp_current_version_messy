@@ -122,6 +122,18 @@ column
 oak
 nephew
 cinnamon |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewpencilhealthcookappearcolumnoaknephewcinnamonleader |  
+| bip_39_word_no_space_11 | fewpencilhealthcookappearcolumnoaknephewcinnamonleaderspike |  
+| bip_39_word_no_space_12 | fewpencilhealthcookappearcolumnoaknephewcinnamonleaderspikeattract |  
+| bip_39_word_no_space_2 | fewpencil |  
+| bip_39_word_no_space_3 | fewpencilhealth |  
+| bip_39_word_no_space_4 | fewpencilhealthcook |  
+| bip_39_word_no_space_5 | fewpencilhealthcookappear |  
+| bip_39_word_no_space_6 | fewpencilhealthcookappearcolumn |  
+| bip_39_word_no_space_7 | fewpencilhealthcookappearcolumnoak |  
+| bip_39_word_no_space_8 | fewpencilhealthcookappearcolumnoaknephew |  
+| bip_39_word_no_space_9 | fewpencilhealthcookappearcolumnoaknephewcinnamon |  
 | bip_39_word_space_0 | ['few', 'pencil', 'health', 'cook', 'appear', 'column', 'oak', 'nephew', 'cinnamon', 'leader', 'spike', 'attract'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few pencil health cook appear column oak nephew cinnamon leader |  

@@ -122,6 +122,18 @@ cup
 receive
 clarify
 afford |  
+| bip_39_word_no_space_1 | fall |  
+| bip_39_word_no_space_10 | falloutdoorpatchovalextracupreceiveclarifyaffordpower |  
+| bip_39_word_no_space_11 | falloutdoorpatchovalextracupreceiveclarifyaffordpowerfun |  
+| bip_39_word_no_space_12 | falloutdoorpatchovalextracupreceiveclarifyaffordpowerfunacross |  
+| bip_39_word_no_space_2 | falloutdoor |  
+| bip_39_word_no_space_3 | falloutdoorpatch |  
+| bip_39_word_no_space_4 | falloutdoorpatchoval |  
+| bip_39_word_no_space_5 | falloutdoorpatchovalextra |  
+| bip_39_word_no_space_6 | falloutdoorpatchovalextracup |  
+| bip_39_word_no_space_7 | falloutdoorpatchovalextracupreceive |  
+| bip_39_word_no_space_8 | falloutdoorpatchovalextracupreceiveclarify |  
+| bip_39_word_no_space_9 | falloutdoorpatchovalextracupreceiveclarifyafford |  
 | bip_39_word_space_0 | ['fall', 'outdoor', 'patch', 'oval', 'extra', 'cup', 'receive', 'clarify', 'afford', 'power', 'fun', 'across'] |  
 | bip_39_word_space_1 | fall |  
 | bip_39_word_space_10 | fall outdoor patch oval extra cup receive clarify afford power |  

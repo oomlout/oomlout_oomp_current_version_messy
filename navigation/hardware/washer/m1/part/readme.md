@@ -122,6 +122,18 @@ spider
 gap
 welcome
 attitude |  
+| bip_39_word_no_space_1 | parade |  
+| bip_39_word_no_space_10 | paradedependscienceservicestandspidergapwelcomeattitudewarrior |  
+| bip_39_word_no_space_11 | paradedependscienceservicestandspidergapwelcomeattitudewarriortunnel |  
+| bip_39_word_no_space_12 | paradedependscienceservicestandspidergapwelcomeattitudewarriortunnelaffair |  
+| bip_39_word_no_space_2 | paradedepend |  
+| bip_39_word_no_space_3 | paradedependscience |  
+| bip_39_word_no_space_4 | paradedependscienceservice |  
+| bip_39_word_no_space_5 | paradedependscienceservicestand |  
+| bip_39_word_no_space_6 | paradedependscienceservicestandspider |  
+| bip_39_word_no_space_7 | paradedependscienceservicestandspidergap |  
+| bip_39_word_no_space_8 | paradedependscienceservicestandspidergapwelcome |  
+| bip_39_word_no_space_9 | paradedependscienceservicestandspidergapwelcomeattitude |  
 | bip_39_word_space_0 | ['parade', 'depend', 'science', 'service', 'stand', 'spider', 'gap', 'welcome', 'attitude', 'warrior', 'tunnel', 'affair'] |  
 | bip_39_word_space_1 | parade |  
 | bip_39_word_space_10 | parade depend science service stand spider gap welcome attitude warrior |  

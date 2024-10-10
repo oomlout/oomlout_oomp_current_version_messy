@@ -122,6 +122,18 @@ wonder
 sentence
 expect
 loop |  
+| bip_39_word_no_space_1 | govern |  
+| bip_39_word_no_space_10 | governlectureorbitshockcomewondersentenceexpectloopnapkin |  
+| bip_39_word_no_space_11 | governlectureorbitshockcomewondersentenceexpectloopnapkinlocal |  
+| bip_39_word_no_space_12 | governlectureorbitshockcomewondersentenceexpectloopnapkinlocaladjust |  
+| bip_39_word_no_space_2 | governlecture |  
+| bip_39_word_no_space_3 | governlectureorbit |  
+| bip_39_word_no_space_4 | governlectureorbitshock |  
+| bip_39_word_no_space_5 | governlectureorbitshockcome |  
+| bip_39_word_no_space_6 | governlectureorbitshockcomewonder |  
+| bip_39_word_no_space_7 | governlectureorbitshockcomewondersentence |  
+| bip_39_word_no_space_8 | governlectureorbitshockcomewondersentenceexpect |  
+| bip_39_word_no_space_9 | governlectureorbitshockcomewondersentenceexpectloop |  
 | bip_39_word_space_0 | ['govern', 'lecture', 'orbit', 'shock', 'come', 'wonder', 'sentence', 'expect', 'loop', 'napkin', 'local', 'adjust'] |  
 | bip_39_word_space_1 | govern |  
 | bip_39_word_space_10 | govern lecture orbit shock come wonder sentence expect loop napkin |  

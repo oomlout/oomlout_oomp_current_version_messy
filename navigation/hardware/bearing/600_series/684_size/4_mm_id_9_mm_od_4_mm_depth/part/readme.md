@@ -122,6 +122,18 @@ cube
 own
 camp
 fly |  
+| bip_39_word_no_space_1 | awake |  
+| bip_39_word_no_space_10 | awakeshoulderthenwreckcollectcubeowncampflysausage |  
+| bip_39_word_no_space_11 | awakeshoulderthenwreckcollectcubeowncampflysausageeight |  
+| bip_39_word_no_space_12 | awakeshoulderthenwreckcollectcubeowncampflysausageeightapart |  
+| bip_39_word_no_space_2 | awakeshoulder |  
+| bip_39_word_no_space_3 | awakeshoulderthen |  
+| bip_39_word_no_space_4 | awakeshoulderthenwreck |  
+| bip_39_word_no_space_5 | awakeshoulderthenwreckcollect |  
+| bip_39_word_no_space_6 | awakeshoulderthenwreckcollectcube |  
+| bip_39_word_no_space_7 | awakeshoulderthenwreckcollectcubeown |  
+| bip_39_word_no_space_8 | awakeshoulderthenwreckcollectcubeowncamp |  
+| bip_39_word_no_space_9 | awakeshoulderthenwreckcollectcubeowncampfly |  
 | bip_39_word_space_0 | ['awake', 'shoulder', 'then', 'wreck', 'collect', 'cube', 'own', 'camp', 'fly', 'sausage', 'eight', 'apart'] |  
 | bip_39_word_space_1 | awake |  
 | bip_39_word_space_10 | awake shoulder then wreck collect cube own camp fly sausage |  

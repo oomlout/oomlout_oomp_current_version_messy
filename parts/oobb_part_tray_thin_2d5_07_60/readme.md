@@ -122,6 +122,18 @@ absorb
 device
 island
 dance |  
+| bip_39_word_no_space_1 | light |  
+| bip_39_word_no_space_10 | lightpricemagiclunarmaskabsorbdeviceislanddancepriority |  
+| bip_39_word_no_space_11 | lightpricemagiclunarmaskabsorbdeviceislanddancepriorityjump |  
+| bip_39_word_no_space_12 | lightpricemagiclunarmaskabsorbdeviceislanddancepriorityjumpacoustic |  
+| bip_39_word_no_space_2 | lightprice |  
+| bip_39_word_no_space_3 | lightpricemagic |  
+| bip_39_word_no_space_4 | lightpricemagiclunar |  
+| bip_39_word_no_space_5 | lightpricemagiclunarmask |  
+| bip_39_word_no_space_6 | lightpricemagiclunarmaskabsorb |  
+| bip_39_word_no_space_7 | lightpricemagiclunarmaskabsorbdevice |  
+| bip_39_word_no_space_8 | lightpricemagiclunarmaskabsorbdeviceisland |  
+| bip_39_word_no_space_9 | lightpricemagiclunarmaskabsorbdeviceislanddance |  
 | bip_39_word_space_0 | ['light', 'price', 'magic', 'lunar', 'mask', 'absorb', 'device', 'island', 'dance', 'priority', 'jump', 'acoustic'] |  
 | bip_39_word_space_1 | light |  
 | bip_39_word_space_10 | light price magic lunar mask absorb device island dance priority |  

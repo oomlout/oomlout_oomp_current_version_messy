@@ -122,6 +122,18 @@ trade
 embrace
 right
 proud |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefswampgenrereduceinmatetradeembracerightproudpurpose |  
+| bip_39_word_no_space_11 | chiefswampgenrereduceinmatetradeembracerightproudpurposedemand |  
+| bip_39_word_no_space_12 | chiefswampgenrereduceinmatetradeembracerightproudpurposedemandartist |  
+| bip_39_word_no_space_2 | chiefswamp |  
+| bip_39_word_no_space_3 | chiefswampgenre |  
+| bip_39_word_no_space_4 | chiefswampgenrereduce |  
+| bip_39_word_no_space_5 | chiefswampgenrereduceinmate |  
+| bip_39_word_no_space_6 | chiefswampgenrereduceinmatetrade |  
+| bip_39_word_no_space_7 | chiefswampgenrereduceinmatetradeembrace |  
+| bip_39_word_no_space_8 | chiefswampgenrereduceinmatetradeembraceright |  
+| bip_39_word_no_space_9 | chiefswampgenrereduceinmatetradeembracerightproud |  
 | bip_39_word_space_0 | ['chief', 'swamp', 'genre', 'reduce', 'inmate', 'trade', 'embrace', 'right', 'proud', 'purpose', 'demand', 'artist'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief swamp genre reduce inmate trade embrace right proud purpose |  

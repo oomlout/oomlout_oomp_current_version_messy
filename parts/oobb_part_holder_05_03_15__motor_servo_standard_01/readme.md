@@ -122,6 +122,18 @@ improve
 tattoo
 target
 avoid |  
+| bip_39_word_no_space_1 | reduce |  
+| bip_39_word_no_space_10 | reducecaughtgarmentregretareaimprovetattootargetavoidbread |  
+| bip_39_word_no_space_11 | reducecaughtgarmentregretareaimprovetattootargetavoidbreadpottery |  
+| bip_39_word_no_space_12 | reducecaughtgarmentregretareaimprovetattootargetavoidbreadpotteryanother |  
+| bip_39_word_no_space_2 | reducecaught |  
+| bip_39_word_no_space_3 | reducecaughtgarment |  
+| bip_39_word_no_space_4 | reducecaughtgarmentregret |  
+| bip_39_word_no_space_5 | reducecaughtgarmentregretarea |  
+| bip_39_word_no_space_6 | reducecaughtgarmentregretareaimprove |  
+| bip_39_word_no_space_7 | reducecaughtgarmentregretareaimprovetattoo |  
+| bip_39_word_no_space_8 | reducecaughtgarmentregretareaimprovetattootarget |  
+| bip_39_word_no_space_9 | reducecaughtgarmentregretareaimprovetattootargetavoid |  
 | bip_39_word_space_0 | ['reduce', 'caught', 'garment', 'regret', 'area', 'improve', 'tattoo', 'target', 'avoid', 'bread', 'pottery', 'another'] |  
 | bip_39_word_space_1 | reduce |  
 | bip_39_word_space_10 | reduce caught garment regret area improve tattoo target avoid bread |  

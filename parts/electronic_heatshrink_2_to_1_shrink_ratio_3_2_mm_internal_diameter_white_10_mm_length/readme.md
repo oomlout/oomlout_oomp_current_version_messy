@@ -122,6 +122,18 @@ uncover
 glare
 airport
 custom |  
+| bip_39_word_no_space_1 | eagle |  
+| bip_39_word_no_space_10 | eagleglowgaugefuturerelyuncoverglareairportcustombrown |  
+| bip_39_word_no_space_11 | eagleglowgaugefuturerelyuncoverglareairportcustombrowncrawl |  
+| bip_39_word_no_space_12 | eagleglowgaugefuturerelyuncoverglareairportcustombrowncrawlaction |  
+| bip_39_word_no_space_2 | eagleglow |  
+| bip_39_word_no_space_3 | eagleglowgauge |  
+| bip_39_word_no_space_4 | eagleglowgaugefuture |  
+| bip_39_word_no_space_5 | eagleglowgaugefuturerely |  
+| bip_39_word_no_space_6 | eagleglowgaugefuturerelyuncover |  
+| bip_39_word_no_space_7 | eagleglowgaugefuturerelyuncoverglare |  
+| bip_39_word_no_space_8 | eagleglowgaugefuturerelyuncoverglareairport |  
+| bip_39_word_no_space_9 | eagleglowgaugefuturerelyuncoverglareairportcustom |  
 | bip_39_word_space_0 | ['eagle', 'glow', 'gauge', 'future', 'rely', 'uncover', 'glare', 'airport', 'custom', 'brown', 'crawl', 'action'] |  
 | bip_39_word_space_1 | eagle |  
 | bip_39_word_space_10 | eagle glow gauge future rely uncover glare airport custom brown |  

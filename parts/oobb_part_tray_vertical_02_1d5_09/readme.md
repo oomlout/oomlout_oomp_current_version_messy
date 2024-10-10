@@ -122,6 +122,18 @@ breeze
 lunch
 match
 erase |  
+| bip_39_word_no_space_1 | load |  
+| bip_39_word_no_space_10 | loadanchorinhalelikematerialbreezelunchmatcherasewarrior |  
+| bip_39_word_no_space_11 | loadanchorinhalelikematerialbreezelunchmatcherasewarriorwool |  
+| bip_39_word_no_space_12 | loadanchorinhalelikematerialbreezelunchmatcherasewarriorwoolacid |  
+| bip_39_word_no_space_2 | loadanchor |  
+| bip_39_word_no_space_3 | loadanchorinhale |  
+| bip_39_word_no_space_4 | loadanchorinhalelike |  
+| bip_39_word_no_space_5 | loadanchorinhalelikematerial |  
+| bip_39_word_no_space_6 | loadanchorinhalelikematerialbreeze |  
+| bip_39_word_no_space_7 | loadanchorinhalelikematerialbreezelunch |  
+| bip_39_word_no_space_8 | loadanchorinhalelikematerialbreezelunchmatch |  
+| bip_39_word_no_space_9 | loadanchorinhalelikematerialbreezelunchmatcherase |  
 | bip_39_word_space_0 | ['load', 'anchor', 'inhale', 'like', 'material', 'breeze', 'lunch', 'match', 'erase', 'warrior', 'wool', 'acid'] |  
 | bip_39_word_space_1 | load |  
 | bip_39_word_space_10 | load anchor inhale like material breeze lunch match erase warrior |  

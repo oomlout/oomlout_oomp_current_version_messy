@@ -122,6 +122,18 @@ index
 blast
 pyramid
 beef |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrosshopenetworkbouncegaugeindexblastpyramidbeeftotal |  
+| bip_39_word_no_space_11 | acrosshopenetworkbouncegaugeindexblastpyramidbeeftotalraise |  
+| bip_39_word_no_space_12 | acrosshopenetworkbouncegaugeindexblastpyramidbeeftotalraisealso |  
+| bip_39_word_no_space_2 | acrosshope |  
+| bip_39_word_no_space_3 | acrosshopenetwork |  
+| bip_39_word_no_space_4 | acrosshopenetworkbounce |  
+| bip_39_word_no_space_5 | acrosshopenetworkbouncegauge |  
+| bip_39_word_no_space_6 | acrosshopenetworkbouncegaugeindex |  
+| bip_39_word_no_space_7 | acrosshopenetworkbouncegaugeindexblast |  
+| bip_39_word_no_space_8 | acrosshopenetworkbouncegaugeindexblastpyramid |  
+| bip_39_word_no_space_9 | acrosshopenetworkbouncegaugeindexblastpyramidbeef |  
 | bip_39_word_space_0 | ['across', 'hope', 'network', 'bounce', 'gauge', 'index', 'blast', 'pyramid', 'beef', 'total', 'raise', 'also'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across hope network bounce gauge index blast pyramid beef total |  

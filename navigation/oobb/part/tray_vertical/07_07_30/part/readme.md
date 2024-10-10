@@ -122,6 +122,18 @@ hour
 zone
 wool
 glare |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatoldgiantbonebullethourzonewoolglarealcohol |  
+| bip_39_word_no_space_11 | boatoldgiantbonebullethourzonewoolglarealcoholduck |  
+| bip_39_word_no_space_12 | boatoldgiantbonebullethourzonewoolglarealcoholduckacquire |  
+| bip_39_word_no_space_2 | boatold |  
+| bip_39_word_no_space_3 | boatoldgiant |  
+| bip_39_word_no_space_4 | boatoldgiantbone |  
+| bip_39_word_no_space_5 | boatoldgiantbonebullet |  
+| bip_39_word_no_space_6 | boatoldgiantbonebullethour |  
+| bip_39_word_no_space_7 | boatoldgiantbonebullethourzone |  
+| bip_39_word_no_space_8 | boatoldgiantbonebullethourzonewool |  
+| bip_39_word_no_space_9 | boatoldgiantbonebullethourzonewoolglare |  
 | bip_39_word_space_0 | ['boat', 'old', 'giant', 'bone', 'bullet', 'hour', 'zone', 'wool', 'glare', 'alcohol', 'duck', 'acquire'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat old giant bone bullet hour zone wool glare alcohol |  

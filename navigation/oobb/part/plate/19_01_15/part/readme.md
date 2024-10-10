@@ -122,6 +122,18 @@ siege
 penalty
 hard
 stay |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialcastleschoollittlecoversiegepenaltyhardstayview |  
+| bip_39_word_no_space_11 | specialcastleschoollittlecoversiegepenaltyhardstayviewstrategy |  
+| bip_39_word_no_space_12 | specialcastleschoollittlecoversiegepenaltyhardstayviewstrategyappear |  
+| bip_39_word_no_space_2 | specialcastle |  
+| bip_39_word_no_space_3 | specialcastleschool |  
+| bip_39_word_no_space_4 | specialcastleschoollittle |  
+| bip_39_word_no_space_5 | specialcastleschoollittlecover |  
+| bip_39_word_no_space_6 | specialcastleschoollittlecoversiege |  
+| bip_39_word_no_space_7 | specialcastleschoollittlecoversiegepenalty |  
+| bip_39_word_no_space_8 | specialcastleschoollittlecoversiegepenaltyhard |  
+| bip_39_word_no_space_9 | specialcastleschoollittlecoversiegepenaltyhardstay |  
 | bip_39_word_space_0 | ['special', 'castle', 'school', 'little', 'cover', 'siege', 'penalty', 'hard', 'stay', 'view', 'strategy', 'appear'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special castle school little cover siege penalty hard stay view |  

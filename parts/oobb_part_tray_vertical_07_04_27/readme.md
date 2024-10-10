@@ -122,6 +122,18 @@ cream
 fix
 have
 prepare |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | seaweatherclubvintagemaincreamfixhavepreparegenuine |  
+| bip_39_word_no_space_11 | seaweatherclubvintagemaincreamfixhavepreparegenuinespend |  
+| bip_39_word_no_space_12 | seaweatherclubvintagemaincreamfixhavepreparegenuinespendalso |  
+| bip_39_word_no_space_2 | seaweather |  
+| bip_39_word_no_space_3 | seaweatherclub |  
+| bip_39_word_no_space_4 | seaweatherclubvintage |  
+| bip_39_word_no_space_5 | seaweatherclubvintagemain |  
+| bip_39_word_no_space_6 | seaweatherclubvintagemaincream |  
+| bip_39_word_no_space_7 | seaweatherclubvintagemaincreamfix |  
+| bip_39_word_no_space_8 | seaweatherclubvintagemaincreamfixhave |  
+| bip_39_word_no_space_9 | seaweatherclubvintagemaincreamfixhaveprepare |  
 | bip_39_word_space_0 | ['sea', 'weather', 'club', 'vintage', 'main', 'cream', 'fix', 'have', 'prepare', 'genuine', 'spend', 'also'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea weather club vintage main cream fix have prepare genuine |  

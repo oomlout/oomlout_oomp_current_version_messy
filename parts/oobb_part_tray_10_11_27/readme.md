@@ -122,6 +122,18 @@ expose
 prepare
 fold
 office |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attackappearivoryspacecircleexposepreparefoldofficeslab |  
+| bip_39_word_no_space_11 | attackappearivoryspacecircleexposepreparefoldofficeslabbelt |  
+| bip_39_word_no_space_12 | attackappearivoryspacecircleexposepreparefoldofficeslabbeltaddict |  
+| bip_39_word_no_space_2 | attackappear |  
+| bip_39_word_no_space_3 | attackappearivory |  
+| bip_39_word_no_space_4 | attackappearivoryspace |  
+| bip_39_word_no_space_5 | attackappearivoryspacecircle |  
+| bip_39_word_no_space_6 | attackappearivoryspacecircleexpose |  
+| bip_39_word_no_space_7 | attackappearivoryspacecircleexposeprepare |  
+| bip_39_word_no_space_8 | attackappearivoryspacecircleexposepreparefold |  
+| bip_39_word_no_space_9 | attackappearivoryspacecircleexposepreparefoldoffice |  
 | bip_39_word_space_0 | ['attack', 'appear', 'ivory', 'space', 'circle', 'expose', 'prepare', 'fold', 'office', 'slab', 'belt', 'addict'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack appear ivory space circle expose prepare fold office slab |  

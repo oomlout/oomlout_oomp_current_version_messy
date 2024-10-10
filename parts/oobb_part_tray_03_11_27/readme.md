@@ -122,6 +122,18 @@ metal
 creek
 fat
 junior |  
+| bip_39_word_no_space_1 | minor |  
+| bip_39_word_no_space_10 | minorlendsoldierbuyermajormetalcreekfatjuniorfuel |  
+| bip_39_word_no_space_11 | minorlendsoldierbuyermajormetalcreekfatjuniorfuelfestival |  
+| bip_39_word_no_space_12 | minorlendsoldierbuyermajormetalcreekfatjuniorfuelfestivalarmor |  
+| bip_39_word_no_space_2 | minorlend |  
+| bip_39_word_no_space_3 | minorlendsoldier |  
+| bip_39_word_no_space_4 | minorlendsoldierbuyer |  
+| bip_39_word_no_space_5 | minorlendsoldierbuyermajor |  
+| bip_39_word_no_space_6 | minorlendsoldierbuyermajormetal |  
+| bip_39_word_no_space_7 | minorlendsoldierbuyermajormetalcreek |  
+| bip_39_word_no_space_8 | minorlendsoldierbuyermajormetalcreekfat |  
+| bip_39_word_no_space_9 | minorlendsoldierbuyermajormetalcreekfatjunior |  
 | bip_39_word_space_0 | ['minor', 'lend', 'soldier', 'buyer', 'major', 'metal', 'creek', 'fat', 'junior', 'fuel', 'festival', 'armor'] |  
 | bip_39_word_space_1 | minor |  
 | bip_39_word_space_10 | minor lend soldier buyer major metal creek fat junior fuel |  

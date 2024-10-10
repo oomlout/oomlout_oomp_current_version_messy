@@ -122,6 +122,18 @@ certain
 language
 wink
 stamp |  
+| bip_39_word_no_space_1 | abuse |  
+| bip_39_word_no_space_10 | abusewaitbachelorolympicpowdercertainlanguagewinkstampoval |  
+| bip_39_word_no_space_11 | abusewaitbachelorolympicpowdercertainlanguagewinkstampovalwash |  
+| bip_39_word_no_space_12 | abusewaitbachelorolympicpowdercertainlanguagewinkstampovalwashauto |  
+| bip_39_word_no_space_2 | abusewait |  
+| bip_39_word_no_space_3 | abusewaitbachelor |  
+| bip_39_word_no_space_4 | abusewaitbachelorolympic |  
+| bip_39_word_no_space_5 | abusewaitbachelorolympicpowder |  
+| bip_39_word_no_space_6 | abusewaitbachelorolympicpowdercertain |  
+| bip_39_word_no_space_7 | abusewaitbachelorolympicpowdercertainlanguage |  
+| bip_39_word_no_space_8 | abusewaitbachelorolympicpowdercertainlanguagewink |  
+| bip_39_word_no_space_9 | abusewaitbachelorolympicpowdercertainlanguagewinkstamp |  
 | bip_39_word_space_0 | ['abuse', 'wait', 'bachelor', 'olympic', 'powder', 'certain', 'language', 'wink', 'stamp', 'oval', 'wash', 'auto'] |  
 | bip_39_word_space_1 | abuse |  
 | bip_39_word_space_10 | abuse wait bachelor olympic powder certain language wink stamp oval |  

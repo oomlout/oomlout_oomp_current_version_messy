@@ -122,6 +122,18 @@ make
 pipe
 turkey
 proof |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonmysterygridbrushattendmakepipeturkeyproofappear |  
+| bip_39_word_no_space_11 | lemonmysterygridbrushattendmakepipeturkeyproofappeardrum |  
+| bip_39_word_no_space_12 | lemonmysterygridbrushattendmakepipeturkeyproofappeardrumamateur |  
+| bip_39_word_no_space_2 | lemonmystery |  
+| bip_39_word_no_space_3 | lemonmysterygrid |  
+| bip_39_word_no_space_4 | lemonmysterygridbrush |  
+| bip_39_word_no_space_5 | lemonmysterygridbrushattend |  
+| bip_39_word_no_space_6 | lemonmysterygridbrushattendmake |  
+| bip_39_word_no_space_7 | lemonmysterygridbrushattendmakepipe |  
+| bip_39_word_no_space_8 | lemonmysterygridbrushattendmakepipeturkey |  
+| bip_39_word_no_space_9 | lemonmysterygridbrushattendmakepipeturkeyproof |  
 | bip_39_word_space_0 | ['lemon', 'mystery', 'grid', 'brush', 'attend', 'make', 'pipe', 'turkey', 'proof', 'appear', 'drum', 'amateur'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon mystery grid brush attend make pipe turkey proof appear |  

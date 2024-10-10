@@ -122,6 +122,18 @@ dentist
 rule
 fury
 possible |  
+| bip_39_word_no_space_1 | today |  
+| bip_39_word_no_space_10 | todaydanceagreeglimpseicedentistrulefurypossiblegroup |  
+| bip_39_word_no_space_11 | todaydanceagreeglimpseicedentistrulefurypossiblegroupfossil |  
+| bip_39_word_no_space_12 | todaydanceagreeglimpseicedentistrulefurypossiblegroupfossiladdict |  
+| bip_39_word_no_space_2 | todaydance |  
+| bip_39_word_no_space_3 | todaydanceagree |  
+| bip_39_word_no_space_4 | todaydanceagreeglimpse |  
+| bip_39_word_no_space_5 | todaydanceagreeglimpseice |  
+| bip_39_word_no_space_6 | todaydanceagreeglimpseicedentist |  
+| bip_39_word_no_space_7 | todaydanceagreeglimpseicedentistrule |  
+| bip_39_word_no_space_8 | todaydanceagreeglimpseicedentistrulefury |  
+| bip_39_word_no_space_9 | todaydanceagreeglimpseicedentistrulefurypossible |  
 | bip_39_word_space_0 | ['today', 'dance', 'agree', 'glimpse', 'ice', 'dentist', 'rule', 'fury', 'possible', 'group', 'fossil', 'addict'] |  
 | bip_39_word_space_1 | today |  
 | bip_39_word_space_10 | today dance agree glimpse ice dentist rule fury possible group |  

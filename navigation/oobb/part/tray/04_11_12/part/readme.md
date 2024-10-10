@@ -122,6 +122,18 @@ narrow
 blade
 power
 bright |  
+| bip_39_word_no_space_1 | art |  
+| bip_39_word_no_space_10 | artpathbodyfoilstrikenarrowbladepowerbrighttotal |  
+| bip_39_word_no_space_11 | artpathbodyfoilstrikenarrowbladepowerbrighttotalcement |  
+| bip_39_word_no_space_12 | artpathbodyfoilstrikenarrowbladepowerbrighttotalcementacid |  
+| bip_39_word_no_space_2 | artpath |  
+| bip_39_word_no_space_3 | artpathbody |  
+| bip_39_word_no_space_4 | artpathbodyfoil |  
+| bip_39_word_no_space_5 | artpathbodyfoilstrike |  
+| bip_39_word_no_space_6 | artpathbodyfoilstrikenarrow |  
+| bip_39_word_no_space_7 | artpathbodyfoilstrikenarrowblade |  
+| bip_39_word_no_space_8 | artpathbodyfoilstrikenarrowbladepower |  
+| bip_39_word_no_space_9 | artpathbodyfoilstrikenarrowbladepowerbright |  
 | bip_39_word_space_0 | ['art', 'path', 'body', 'foil', 'strike', 'narrow', 'blade', 'power', 'bright', 'total', 'cement', 'acid'] |  
 | bip_39_word_space_1 | art |  
 | bip_39_word_space_10 | art path body foil strike narrow blade power bright total |  

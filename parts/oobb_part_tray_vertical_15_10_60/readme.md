@@ -122,6 +122,18 @@ idea
 purity
 practice
 thank |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | clapmeanlikeproblempairideapuritypracticethankauthor |  
+| bip_39_word_no_space_11 | clapmeanlikeproblempairideapuritypracticethankauthorunit |  
+| bip_39_word_no_space_12 | clapmeanlikeproblempairideapuritypracticethankauthorunitantenna |  
+| bip_39_word_no_space_2 | clapmean |  
+| bip_39_word_no_space_3 | clapmeanlike |  
+| bip_39_word_no_space_4 | clapmeanlikeproblem |  
+| bip_39_word_no_space_5 | clapmeanlikeproblempair |  
+| bip_39_word_no_space_6 | clapmeanlikeproblempairidea |  
+| bip_39_word_no_space_7 | clapmeanlikeproblempairideapurity |  
+| bip_39_word_no_space_8 | clapmeanlikeproblempairideapuritypractice |  
+| bip_39_word_no_space_9 | clapmeanlikeproblempairideapuritypracticethank |  
 | bip_39_word_space_0 | ['clap', 'mean', 'like', 'problem', 'pair', 'idea', 'purity', 'practice', 'thank', 'author', 'unit', 'antenna'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap mean like problem pair idea purity practice thank author |  

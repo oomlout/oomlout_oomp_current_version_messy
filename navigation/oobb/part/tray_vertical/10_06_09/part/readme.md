@@ -122,6 +122,18 @@ grain
 wolf
 robot
 romance |  
+| bip_39_word_no_space_1 | tank |  
+| bip_39_word_no_space_10 | tanksetupenergyvirtualfeedgrainwolfrobotromanceconcert |  
+| bip_39_word_no_space_11 | tanksetupenergyvirtualfeedgrainwolfrobotromanceconcertexchange |  
+| bip_39_word_no_space_12 | tanksetupenergyvirtualfeedgrainwolfrobotromanceconcertexchangeact |  
+| bip_39_word_no_space_2 | tanksetup |  
+| bip_39_word_no_space_3 | tanksetupenergy |  
+| bip_39_word_no_space_4 | tanksetupenergyvirtual |  
+| bip_39_word_no_space_5 | tanksetupenergyvirtualfeed |  
+| bip_39_word_no_space_6 | tanksetupenergyvirtualfeedgrain |  
+| bip_39_word_no_space_7 | tanksetupenergyvirtualfeedgrainwolf |  
+| bip_39_word_no_space_8 | tanksetupenergyvirtualfeedgrainwolfrobot |  
+| bip_39_word_no_space_9 | tanksetupenergyvirtualfeedgrainwolfrobotromance |  
 | bip_39_word_space_0 | ['tank', 'setup', 'energy', 'virtual', 'feed', 'grain', 'wolf', 'robot', 'romance', 'concert', 'exchange', 'act'] |  
 | bip_39_word_space_1 | tank |  
 | bip_39_word_space_10 | tank setup energy virtual feed grain wolf robot romance concert |  

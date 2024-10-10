@@ -122,6 +122,18 @@ orphan
 hidden
 ten
 inmate |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guiltproducesoundgardencannonorphanhiddenteninmatefloat |  
+| bip_39_word_no_space_11 | guiltproducesoundgardencannonorphanhiddenteninmatefloatmonth |  
+| bip_39_word_no_space_12 | guiltproducesoundgardencannonorphanhiddenteninmatefloatmonthact |  
+| bip_39_word_no_space_2 | guiltproduce |  
+| bip_39_word_no_space_3 | guiltproducesound |  
+| bip_39_word_no_space_4 | guiltproducesoundgarden |  
+| bip_39_word_no_space_5 | guiltproducesoundgardencannon |  
+| bip_39_word_no_space_6 | guiltproducesoundgardencannonorphan |  
+| bip_39_word_no_space_7 | guiltproducesoundgardencannonorphanhidden |  
+| bip_39_word_no_space_8 | guiltproducesoundgardencannonorphanhiddenten |  
+| bip_39_word_no_space_9 | guiltproducesoundgardencannonorphanhiddenteninmate |  
 | bip_39_word_space_0 | ['guilt', 'produce', 'sound', 'garden', 'cannon', 'orphan', 'hidden', 'ten', 'inmate', 'float', 'month', 'act'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt produce sound garden cannon orphan hidden ten inmate float |  

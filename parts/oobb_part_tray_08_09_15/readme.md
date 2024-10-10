@@ -122,6 +122,18 @@ cotton
 hope
 grass
 utility |  
+| bip_39_word_no_space_1 | mention |  
+| bip_39_word_no_space_10 | mentionunderfacezoostovecottonhopegrassutilityslender |  
+| bip_39_word_no_space_11 | mentionunderfacezoostovecottonhopegrassutilityslenderclump |  
+| bip_39_word_no_space_12 | mentionunderfacezoostovecottonhopegrassutilityslenderclumpamateur |  
+| bip_39_word_no_space_2 | mentionunder |  
+| bip_39_word_no_space_3 | mentionunderface |  
+| bip_39_word_no_space_4 | mentionunderfacezoo |  
+| bip_39_word_no_space_5 | mentionunderfacezoostove |  
+| bip_39_word_no_space_6 | mentionunderfacezoostovecotton |  
+| bip_39_word_no_space_7 | mentionunderfacezoostovecottonhope |  
+| bip_39_word_no_space_8 | mentionunderfacezoostovecottonhopegrass |  
+| bip_39_word_no_space_9 | mentionunderfacezoostovecottonhopegrassutility |  
 | bip_39_word_space_0 | ['mention', 'under', 'face', 'zoo', 'stove', 'cotton', 'hope', 'grass', 'utility', 'slender', 'clump', 'amateur'] |  
 | bip_39_word_space_1 | mention |  
 | bip_39_word_space_10 | mention under face zoo stove cotton hope grass utility slender |  

@@ -122,6 +122,18 @@ shoot
 naive
 plastic
 slush |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omitoxygendevotesportblameshootnaiveplasticslushminute |  
+| bip_39_word_no_space_11 | omitoxygendevotesportblameshootnaiveplasticslushminuteecho |  
+| bip_39_word_no_space_12 | omitoxygendevotesportblameshootnaiveplasticslushminuteechoarea |  
+| bip_39_word_no_space_2 | omitoxygen |  
+| bip_39_word_no_space_3 | omitoxygendevote |  
+| bip_39_word_no_space_4 | omitoxygendevotesport |  
+| bip_39_word_no_space_5 | omitoxygendevotesportblame |  
+| bip_39_word_no_space_6 | omitoxygendevotesportblameshoot |  
+| bip_39_word_no_space_7 | omitoxygendevotesportblameshootnaive |  
+| bip_39_word_no_space_8 | omitoxygendevotesportblameshootnaiveplastic |  
+| bip_39_word_no_space_9 | omitoxygendevotesportblameshootnaiveplasticslush |  
 | bip_39_word_space_0 | ['omit', 'oxygen', 'devote', 'sport', 'blame', 'shoot', 'naive', 'plastic', 'slush', 'minute', 'echo', 'area'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit oxygen devote sport blame shoot naive plastic slush minute |  

@@ -122,6 +122,18 @@ ancient
 fuel
 good
 member |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectendlesstoppleportionfoodancientfuelgoodmemberwoman |  
+| bip_39_word_no_space_11 | selectendlesstoppleportionfoodancientfuelgoodmemberwomanbag |  
+| bip_39_word_no_space_12 | selectendlesstoppleportionfoodancientfuelgoodmemberwomanbagapology |  
+| bip_39_word_no_space_2 | selectendless |  
+| bip_39_word_no_space_3 | selectendlesstopple |  
+| bip_39_word_no_space_4 | selectendlesstoppleportion |  
+| bip_39_word_no_space_5 | selectendlesstoppleportionfood |  
+| bip_39_word_no_space_6 | selectendlesstoppleportionfoodancient |  
+| bip_39_word_no_space_7 | selectendlesstoppleportionfoodancientfuel |  
+| bip_39_word_no_space_8 | selectendlesstoppleportionfoodancientfuelgood |  
+| bip_39_word_no_space_9 | selectendlesstoppleportionfoodancientfuelgoodmember |  
 | bip_39_word_space_0 | ['select', 'endless', 'topple', 'portion', 'food', 'ancient', 'fuel', 'good', 'member', 'woman', 'bag', 'apology'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select endless topple portion food ancient fuel good member woman |  

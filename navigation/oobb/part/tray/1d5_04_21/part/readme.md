@@ -122,6 +122,18 @@ girl
 pioneer
 twelve
 captain |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | givelegunknowndangerpistolgirlpioneertwelvecaptaintwelve |  
+| bip_39_word_no_space_11 | givelegunknowndangerpistolgirlpioneertwelvecaptaintwelvenarrow |  
+| bip_39_word_no_space_12 | givelegunknowndangerpistolgirlpioneertwelvecaptaintwelvenarrowarrow |  
+| bip_39_word_no_space_2 | giveleg |  
+| bip_39_word_no_space_3 | givelegunknown |  
+| bip_39_word_no_space_4 | givelegunknowndanger |  
+| bip_39_word_no_space_5 | givelegunknowndangerpistol |  
+| bip_39_word_no_space_6 | givelegunknowndangerpistolgirl |  
+| bip_39_word_no_space_7 | givelegunknowndangerpistolgirlpioneer |  
+| bip_39_word_no_space_8 | givelegunknowndangerpistolgirlpioneertwelve |  
+| bip_39_word_no_space_9 | givelegunknowndangerpistolgirlpioneertwelvecaptain |  
 | bip_39_word_space_0 | ['give', 'leg', 'unknown', 'danger', 'pistol', 'girl', 'pioneer', 'twelve', 'captain', 'twelve', 'narrow', 'arrow'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give leg unknown danger pistol girl pioneer twelve captain twelve |  

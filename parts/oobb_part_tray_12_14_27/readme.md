@@ -122,6 +122,18 @@ flush
 casino
 purse
 potato |  
+| bip_39_word_no_space_1 | spatial |  
+| bip_39_word_no_space_10 | spatialgritstilllittletoeflushcasinopursepotatoacquire |  
+| bip_39_word_no_space_11 | spatialgritstilllittletoeflushcasinopursepotatoacquirecircle |  
+| bip_39_word_no_space_12 | spatialgritstilllittletoeflushcasinopursepotatoacquirecircleappear |  
+| bip_39_word_no_space_2 | spatialgrit |  
+| bip_39_word_no_space_3 | spatialgritstill |  
+| bip_39_word_no_space_4 | spatialgritstilllittle |  
+| bip_39_word_no_space_5 | spatialgritstilllittletoe |  
+| bip_39_word_no_space_6 | spatialgritstilllittletoeflush |  
+| bip_39_word_no_space_7 | spatialgritstilllittletoeflushcasino |  
+| bip_39_word_no_space_8 | spatialgritstilllittletoeflushcasinopurse |  
+| bip_39_word_no_space_9 | spatialgritstilllittletoeflushcasinopursepotato |  
 | bip_39_word_space_0 | ['spatial', 'grit', 'still', 'little', 'toe', 'flush', 'casino', 'purse', 'potato', 'acquire', 'circle', 'appear'] |  
 | bip_39_word_space_1 | spatial |  
 | bip_39_word_space_10 | spatial grit still little toe flush casino purse potato acquire |  

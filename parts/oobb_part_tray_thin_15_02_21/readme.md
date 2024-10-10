@@ -122,6 +122,18 @@ earth
 vivid
 tape
 isolate |  
+| bip_39_word_no_space_1 | noble |  
+| bip_39_word_no_space_10 | noblebarbeginacrossreopenearthvividtapeisolatetrend |  
+| bip_39_word_no_space_11 | noblebarbeginacrossreopenearthvividtapeisolatetrendportion |  
+| bip_39_word_no_space_12 | noblebarbeginacrossreopenearthvividtapeisolatetrendportionattack |  
+| bip_39_word_no_space_2 | noblebar |  
+| bip_39_word_no_space_3 | noblebarbegin |  
+| bip_39_word_no_space_4 | noblebarbeginacross |  
+| bip_39_word_no_space_5 | noblebarbeginacrossreopen |  
+| bip_39_word_no_space_6 | noblebarbeginacrossreopenearth |  
+| bip_39_word_no_space_7 | noblebarbeginacrossreopenearthvivid |  
+| bip_39_word_no_space_8 | noblebarbeginacrossreopenearthvividtape |  
+| bip_39_word_no_space_9 | noblebarbeginacrossreopenearthvividtapeisolate |  
 | bip_39_word_space_0 | ['noble', 'bar', 'begin', 'across', 'reopen', 'earth', 'vivid', 'tape', 'isolate', 'trend', 'portion', 'attack'] |  
 | bip_39_word_space_1 | noble |  
 | bip_39_word_space_10 | noble bar begin across reopen earth vivid tape isolate trend |  

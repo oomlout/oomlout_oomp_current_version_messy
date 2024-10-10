@@ -122,6 +122,18 @@ join
 kitchen
 survey
 open |  
+| bip_39_word_no_space_1 | emotion |  
+| bip_39_word_no_space_10 | emotionostrichhockeyelephantgentlejoinkitchensurveyopenpoint |  
+| bip_39_word_no_space_11 | emotionostrichhockeyelephantgentlejoinkitchensurveyopenpointripple |  
+| bip_39_word_no_space_12 | emotionostrichhockeyelephantgentlejoinkitchensurveyopenpointripplealso |  
+| bip_39_word_no_space_2 | emotionostrich |  
+| bip_39_word_no_space_3 | emotionostrichhockey |  
+| bip_39_word_no_space_4 | emotionostrichhockeyelephant |  
+| bip_39_word_no_space_5 | emotionostrichhockeyelephantgentle |  
+| bip_39_word_no_space_6 | emotionostrichhockeyelephantgentlejoin |  
+| bip_39_word_no_space_7 | emotionostrichhockeyelephantgentlejoinkitchen |  
+| bip_39_word_no_space_8 | emotionostrichhockeyelephantgentlejoinkitchensurvey |  
+| bip_39_word_no_space_9 | emotionostrichhockeyelephantgentlejoinkitchensurveyopen |  
 | bip_39_word_space_0 | ['emotion', 'ostrich', 'hockey', 'elephant', 'gentle', 'join', 'kitchen', 'survey', 'open', 'point', 'ripple', 'also'] |  
 | bip_39_word_space_1 | emotion |  
 | bip_39_word_space_10 | emotion ostrich hockey elephant gentle join kitchen survey open point |  

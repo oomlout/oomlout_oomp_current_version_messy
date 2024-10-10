@@ -122,6 +122,18 @@ tornado
 raise
 load
 sheriff |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naiveordinarymonkeyupgradeshoetornadoraiseloadsheriffjaguar |  
+| bip_39_word_no_space_11 | naiveordinarymonkeyupgradeshoetornadoraiseloadsheriffjaguaronce |  
+| bip_39_word_no_space_12 | naiveordinarymonkeyupgradeshoetornadoraiseloadsheriffjaguaronceaverage |  
+| bip_39_word_no_space_2 | naiveordinary |  
+| bip_39_word_no_space_3 | naiveordinarymonkey |  
+| bip_39_word_no_space_4 | naiveordinarymonkeyupgrade |  
+| bip_39_word_no_space_5 | naiveordinarymonkeyupgradeshoe |  
+| bip_39_word_no_space_6 | naiveordinarymonkeyupgradeshoetornado |  
+| bip_39_word_no_space_7 | naiveordinarymonkeyupgradeshoetornadoraise |  
+| bip_39_word_no_space_8 | naiveordinarymonkeyupgradeshoetornadoraiseload |  
+| bip_39_word_no_space_9 | naiveordinarymonkeyupgradeshoetornadoraiseloadsheriff |  
 | bip_39_word_space_0 | ['naive', 'ordinary', 'monkey', 'upgrade', 'shoe', 'tornado', 'raise', 'load', 'sheriff', 'jaguar', 'once', 'average'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive ordinary monkey upgrade shoe tornado raise load sheriff jaguar |  

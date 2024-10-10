@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'siege
   urban
 
   invest'
+bip_39_word_no_space_1: siege
+bip_39_word_no_space_10: siegeforgetsodaluggagestairssoondynamicurbaninvestsiren
+bip_39_word_no_space_11: siegeforgetsodaluggagestairssoondynamicurbaninvestsirenrender
+bip_39_word_no_space_12: siegeforgetsodaluggagestairssoondynamicurbaninvestsirenrenderassume
+bip_39_word_no_space_2: siegeforget
+bip_39_word_no_space_3: siegeforgetsoda
+bip_39_word_no_space_4: siegeforgetsodaluggage
+bip_39_word_no_space_5: siegeforgetsodaluggagestairs
+bip_39_word_no_space_6: siegeforgetsodaluggagestairssoon
+bip_39_word_no_space_7: siegeforgetsodaluggagestairssoondynamic
+bip_39_word_no_space_8: siegeforgetsodaluggagestairssoondynamicurban
+bip_39_word_no_space_9: siegeforgetsodaluggagestairssoondynamicurbaninvest
 bip_39_word_space_0:
 - siege
 - forget

@@ -122,6 +122,18 @@ mosquito
 addict
 glue
 work |  
+| bip_39_word_no_space_1 | bleak |  
+| bip_39_word_no_space_10 | bleaktopcrispslighttoothmosquitoaddictglueworkreward |  
+| bip_39_word_no_space_11 | bleaktopcrispslighttoothmosquitoaddictglueworkrewardretire |  
+| bip_39_word_no_space_12 | bleaktopcrispslighttoothmosquitoaddictglueworkrewardretireaddict |  
+| bip_39_word_no_space_2 | bleaktop |  
+| bip_39_word_no_space_3 | bleaktopcrisp |  
+| bip_39_word_no_space_4 | bleaktopcrispslight |  
+| bip_39_word_no_space_5 | bleaktopcrispslighttooth |  
+| bip_39_word_no_space_6 | bleaktopcrispslighttoothmosquito |  
+| bip_39_word_no_space_7 | bleaktopcrispslighttoothmosquitoaddict |  
+| bip_39_word_no_space_8 | bleaktopcrispslighttoothmosquitoaddictglue |  
+| bip_39_word_no_space_9 | bleaktopcrispslighttoothmosquitoaddictgluework |  
 | bip_39_word_space_0 | ['bleak', 'top', 'crisp', 'slight', 'tooth', 'mosquito', 'addict', 'glue', 'work', 'reward', 'retire', 'addict'] |  
 | bip_39_word_space_1 | bleak |  
 | bip_39_word_space_10 | bleak top crisp slight tooth mosquito addict glue work reward |  

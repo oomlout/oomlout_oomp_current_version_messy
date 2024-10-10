@@ -122,6 +122,18 @@ lens
 smile
 feel
 collect |  
+| bip_39_word_no_space_1 | episode |  
+| bip_39_word_no_space_10 | episodedinosaurhuntsugarfatallenssmilefeelcollectfalse |  
+| bip_39_word_no_space_11 | episodedinosaurhuntsugarfatallenssmilefeelcollectfalsecamp |  
+| bip_39_word_no_space_12 | episodedinosaurhuntsugarfatallenssmilefeelcollectfalsecampathlete |  
+| bip_39_word_no_space_2 | episodedinosaur |  
+| bip_39_word_no_space_3 | episodedinosaurhunt |  
+| bip_39_word_no_space_4 | episodedinosaurhuntsugar |  
+| bip_39_word_no_space_5 | episodedinosaurhuntsugarfatal |  
+| bip_39_word_no_space_6 | episodedinosaurhuntsugarfatallens |  
+| bip_39_word_no_space_7 | episodedinosaurhuntsugarfatallenssmile |  
+| bip_39_word_no_space_8 | episodedinosaurhuntsugarfatallenssmilefeel |  
+| bip_39_word_no_space_9 | episodedinosaurhuntsugarfatallenssmilefeelcollect |  
 | bip_39_word_space_0 | ['episode', 'dinosaur', 'hunt', 'sugar', 'fatal', 'lens', 'smile', 'feel', 'collect', 'false', 'camp', 'athlete'] |  
 | bip_39_word_space_1 | episode |  
 | bip_39_word_space_10 | episode dinosaur hunt sugar fatal lens smile feel collect false |  

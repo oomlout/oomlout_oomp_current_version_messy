@@ -122,6 +122,18 @@ gasp
 among
 toss
 satoshi |  
+| bip_39_word_no_space_1 | jelly |  
+| bip_39_word_no_space_10 | jellymomentlimbdoctoraddictgaspamongtosssatoshihammer |  
+| bip_39_word_no_space_11 | jellymomentlimbdoctoraddictgaspamongtosssatoshihammerramp |  
+| bip_39_word_no_space_12 | jellymomentlimbdoctoraddictgaspamongtosssatoshihammerrampattend |  
+| bip_39_word_no_space_2 | jellymoment |  
+| bip_39_word_no_space_3 | jellymomentlimb |  
+| bip_39_word_no_space_4 | jellymomentlimbdoctor |  
+| bip_39_word_no_space_5 | jellymomentlimbdoctoraddict |  
+| bip_39_word_no_space_6 | jellymomentlimbdoctoraddictgasp |  
+| bip_39_word_no_space_7 | jellymomentlimbdoctoraddictgaspamong |  
+| bip_39_word_no_space_8 | jellymomentlimbdoctoraddictgaspamongtoss |  
+| bip_39_word_no_space_9 | jellymomentlimbdoctoraddictgaspamongtosssatoshi |  
 | bip_39_word_space_0 | ['jelly', 'moment', 'limb', 'doctor', 'addict', 'gasp', 'among', 'toss', 'satoshi', 'hammer', 'ramp', 'attend'] |  
 | bip_39_word_space_1 | jelly |  
 | bip_39_word_space_10 | jelly moment limb doctor addict gasp among toss satoshi hammer |  

@@ -122,6 +122,18 @@ bone
 ball
 carry
 kidney |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroomtubebudgetdelivermaterialboneballcarrykidneyalley |  
+| bip_39_word_no_space_11 | mushroomtubebudgetdelivermaterialboneballcarrykidneyalleydenial |  
+| bip_39_word_no_space_12 | mushroomtubebudgetdelivermaterialboneballcarrykidneyalleydenialassault |  
+| bip_39_word_no_space_2 | mushroomtube |  
+| bip_39_word_no_space_3 | mushroomtubebudget |  
+| bip_39_word_no_space_4 | mushroomtubebudgetdeliver |  
+| bip_39_word_no_space_5 | mushroomtubebudgetdelivermaterial |  
+| bip_39_word_no_space_6 | mushroomtubebudgetdelivermaterialbone |  
+| bip_39_word_no_space_7 | mushroomtubebudgetdelivermaterialboneball |  
+| bip_39_word_no_space_8 | mushroomtubebudgetdelivermaterialboneballcarry |  
+| bip_39_word_no_space_9 | mushroomtubebudgetdelivermaterialboneballcarrykidney |  
 | bip_39_word_space_0 | ['mushroom', 'tube', 'budget', 'deliver', 'material', 'bone', 'ball', 'carry', 'kidney', 'alley', 'denial', 'assault'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom tube budget deliver material bone ball carry kidney alley |  

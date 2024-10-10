@@ -122,6 +122,18 @@ pony
 health
 wrestle
 canoe |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairvictoryunusualfragilediceponyhealthwrestlecanoeinject |  
+| bip_39_word_no_space_11 | chairvictoryunusualfragilediceponyhealthwrestlecanoeinjectjealous |  
+| bip_39_word_no_space_12 | chairvictoryunusualfragilediceponyhealthwrestlecanoeinjectjealousadult |  
+| bip_39_word_no_space_2 | chairvictory |  
+| bip_39_word_no_space_3 | chairvictoryunusual |  
+| bip_39_word_no_space_4 | chairvictoryunusualfragile |  
+| bip_39_word_no_space_5 | chairvictoryunusualfragiledice |  
+| bip_39_word_no_space_6 | chairvictoryunusualfragiledicepony |  
+| bip_39_word_no_space_7 | chairvictoryunusualfragilediceponyhealth |  
+| bip_39_word_no_space_8 | chairvictoryunusualfragilediceponyhealthwrestle |  
+| bip_39_word_no_space_9 | chairvictoryunusualfragilediceponyhealthwrestlecanoe |  
 | bip_39_word_space_0 | ['chair', 'victory', 'unusual', 'fragile', 'dice', 'pony', 'health', 'wrestle', 'canoe', 'inject', 'jealous', 'adult'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair victory unusual fragile dice pony health wrestle canoe inject |  

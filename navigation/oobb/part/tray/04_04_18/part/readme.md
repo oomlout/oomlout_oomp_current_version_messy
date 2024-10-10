@@ -122,6 +122,18 @@ neither
 write
 garment
 pitch |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchsniffsparetermstartneitherwritegarmentpitchpost |  
+| bip_39_word_no_space_11 | patchsniffsparetermstartneitherwritegarmentpitchpostantenna |  
+| bip_39_word_no_space_12 | patchsniffsparetermstartneitherwritegarmentpitchpostantennaalcohol |  
+| bip_39_word_no_space_2 | patchsniff |  
+| bip_39_word_no_space_3 | patchsniffspare |  
+| bip_39_word_no_space_4 | patchsniffspareterm |  
+| bip_39_word_no_space_5 | patchsniffsparetermstart |  
+| bip_39_word_no_space_6 | patchsniffsparetermstartneither |  
+| bip_39_word_no_space_7 | patchsniffsparetermstartneitherwrite |  
+| bip_39_word_no_space_8 | patchsniffsparetermstartneitherwritegarment |  
+| bip_39_word_no_space_9 | patchsniffsparetermstartneitherwritegarmentpitch |  
 | bip_39_word_space_0 | ['patch', 'sniff', 'spare', 'term', 'start', 'neither', 'write', 'garment', 'pitch', 'post', 'antenna', 'alcohol'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch sniff spare term start neither write garment pitch post |  

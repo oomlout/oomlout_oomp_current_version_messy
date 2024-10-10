@@ -122,6 +122,18 @@ liquid
 fancy
 viable
 brisk |  
+| bip_39_word_no_space_1 | vanish |  
+| bip_39_word_no_space_10 | vanishdietlatinclaysalmonliquidfancyviablebriskboost |  
+| bip_39_word_no_space_11 | vanishdietlatinclaysalmonliquidfancyviablebriskboostbind |  
+| bip_39_word_no_space_12 | vanishdietlatinclaysalmonliquidfancyviablebriskboostbindalcohol |  
+| bip_39_word_no_space_2 | vanishdiet |  
+| bip_39_word_no_space_3 | vanishdietlatin |  
+| bip_39_word_no_space_4 | vanishdietlatinclay |  
+| bip_39_word_no_space_5 | vanishdietlatinclaysalmon |  
+| bip_39_word_no_space_6 | vanishdietlatinclaysalmonliquid |  
+| bip_39_word_no_space_7 | vanishdietlatinclaysalmonliquidfancy |  
+| bip_39_word_no_space_8 | vanishdietlatinclaysalmonliquidfancyviable |  
+| bip_39_word_no_space_9 | vanishdietlatinclaysalmonliquidfancyviablebrisk |  
 | bip_39_word_space_0 | ['vanish', 'diet', 'latin', 'clay', 'salmon', 'liquid', 'fancy', 'viable', 'brisk', 'boost', 'bind', 'alcohol'] |  
 | bip_39_word_space_1 | vanish |  
 | bip_39_word_space_10 | vanish diet latin clay salmon liquid fancy viable brisk boost |  

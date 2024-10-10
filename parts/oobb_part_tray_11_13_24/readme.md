@@ -122,6 +122,18 @@ captain
 movie
 cross
 budget |  
+| bip_39_word_no_space_1 | equal |  
+| bip_39_word_no_space_10 | equallendpanthervenuebulbcaptainmoviecrossbudgetclaim |  
+| bip_39_word_no_space_11 | equallendpanthervenuebulbcaptainmoviecrossbudgetclaimkey |  
+| bip_39_word_no_space_12 | equallendpanthervenuebulbcaptainmoviecrossbudgetclaimkeyaccuse |  
+| bip_39_word_no_space_2 | equallend |  
+| bip_39_word_no_space_3 | equallendpanther |  
+| bip_39_word_no_space_4 | equallendpanthervenue |  
+| bip_39_word_no_space_5 | equallendpanthervenuebulb |  
+| bip_39_word_no_space_6 | equallendpanthervenuebulbcaptain |  
+| bip_39_word_no_space_7 | equallendpanthervenuebulbcaptainmovie |  
+| bip_39_word_no_space_8 | equallendpanthervenuebulbcaptainmoviecross |  
+| bip_39_word_no_space_9 | equallendpanthervenuebulbcaptainmoviecrossbudget |  
 | bip_39_word_space_0 | ['equal', 'lend', 'panther', 'venue', 'bulb', 'captain', 'movie', 'cross', 'budget', 'claim', 'key', 'accuse'] |  
 | bip_39_word_space_1 | equal |  
 | bip_39_word_space_10 | equal lend panther venue bulb captain movie cross budget claim |  

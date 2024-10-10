@@ -122,6 +122,18 @@ buyer
 client
 medal
 glad |  
+| bip_39_word_no_space_1 | vault |  
+| bip_39_word_no_space_10 | vaultbulbavoidneutralangrybuyerclientmedalgladvery |  
+| bip_39_word_no_space_11 | vaultbulbavoidneutralangrybuyerclientmedalgladverycrawl |  
+| bip_39_word_no_space_12 | vaultbulbavoidneutralangrybuyerclientmedalgladverycrawlarea |  
+| bip_39_word_no_space_2 | vaultbulb |  
+| bip_39_word_no_space_3 | vaultbulbavoid |  
+| bip_39_word_no_space_4 | vaultbulbavoidneutral |  
+| bip_39_word_no_space_5 | vaultbulbavoidneutralangry |  
+| bip_39_word_no_space_6 | vaultbulbavoidneutralangrybuyer |  
+| bip_39_word_no_space_7 | vaultbulbavoidneutralangrybuyerclient |  
+| bip_39_word_no_space_8 | vaultbulbavoidneutralangrybuyerclientmedal |  
+| bip_39_word_no_space_9 | vaultbulbavoidneutralangrybuyerclientmedalglad |  
 | bip_39_word_space_0 | ['vault', 'bulb', 'avoid', 'neutral', 'angry', 'buyer', 'client', 'medal', 'glad', 'very', 'crawl', 'area'] |  
 | bip_39_word_space_1 | vault |  
 | bip_39_word_space_10 | vault bulb avoid neutral angry buyer client medal glad very |  

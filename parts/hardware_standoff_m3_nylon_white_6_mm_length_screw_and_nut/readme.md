@@ -122,6 +122,18 @@ gadget
 group
 kit
 lounge |  
+| bip_39_word_no_space_1 | crack |  
+| bip_39_word_no_space_10 | cracknothingwineboardearngadgetgroupkitloungeprogram |  
+| bip_39_word_no_space_11 | cracknothingwineboardearngadgetgroupkitloungeprogramkind |  
+| bip_39_word_no_space_12 | cracknothingwineboardearngadgetgroupkitloungeprogramkindathlete |  
+| bip_39_word_no_space_2 | cracknothing |  
+| bip_39_word_no_space_3 | cracknothingwine |  
+| bip_39_word_no_space_4 | cracknothingwineboard |  
+| bip_39_word_no_space_5 | cracknothingwineboardearn |  
+| bip_39_word_no_space_6 | cracknothingwineboardearngadget |  
+| bip_39_word_no_space_7 | cracknothingwineboardearngadgetgroup |  
+| bip_39_word_no_space_8 | cracknothingwineboardearngadgetgroupkit |  
+| bip_39_word_no_space_9 | cracknothingwineboardearngadgetgroupkitlounge |  
 | bip_39_word_space_0 | ['crack', 'nothing', 'wine', 'board', 'earn', 'gadget', 'group', 'kit', 'lounge', 'program', 'kind', 'athlete'] |  
 | bip_39_word_space_1 | crack |  
 | bip_39_word_space_10 | crack nothing wine board earn gadget group kit lounge program |  

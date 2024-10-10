@@ -122,6 +122,18 @@ case
 dad
 number
 demise |  
+| bip_39_word_no_space_1 | pig |  
+| bip_39_word_no_space_10 | pigstuffboillatindisordercasedadnumberdemisestruggle |  
+| bip_39_word_no_space_11 | pigstuffboillatindisordercasedadnumberdemisestrugglehobby |  
+| bip_39_word_no_space_12 | pigstuffboillatindisordercasedadnumberdemisestrugglehobbyatom |  
+| bip_39_word_no_space_2 | pigstuff |  
+| bip_39_word_no_space_3 | pigstuffboil |  
+| bip_39_word_no_space_4 | pigstuffboillatin |  
+| bip_39_word_no_space_5 | pigstuffboillatindisorder |  
+| bip_39_word_no_space_6 | pigstuffboillatindisordercase |  
+| bip_39_word_no_space_7 | pigstuffboillatindisordercasedad |  
+| bip_39_word_no_space_8 | pigstuffboillatindisordercasedadnumber |  
+| bip_39_word_no_space_9 | pigstuffboillatindisordercasedadnumberdemise |  
 | bip_39_word_space_0 | ['pig', 'stuff', 'boil', 'latin', 'disorder', 'case', 'dad', 'number', 'demise', 'struggle', 'hobby', 'atom'] |  
 | bip_39_word_space_1 | pig |  
 | bip_39_word_space_10 | pig stuff boil latin disorder case dad number demise struggle |  

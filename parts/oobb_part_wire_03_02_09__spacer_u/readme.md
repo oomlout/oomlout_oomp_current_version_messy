@@ -122,6 +122,18 @@ gossip
 girl
 toe
 increase |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spooninstallcakegriefpitchgossipgirltoeincreasedress |  
+| bip_39_word_no_space_11 | spooninstallcakegriefpitchgossipgirltoeincreasedressdirt |  
+| bip_39_word_no_space_12 | spooninstallcakegriefpitchgossipgirltoeincreasedressdirtattitude |  
+| bip_39_word_no_space_2 | spooninstall |  
+| bip_39_word_no_space_3 | spooninstallcake |  
+| bip_39_word_no_space_4 | spooninstallcakegrief |  
+| bip_39_word_no_space_5 | spooninstallcakegriefpitch |  
+| bip_39_word_no_space_6 | spooninstallcakegriefpitchgossip |  
+| bip_39_word_no_space_7 | spooninstallcakegriefpitchgossipgirl |  
+| bip_39_word_no_space_8 | spooninstallcakegriefpitchgossipgirltoe |  
+| bip_39_word_no_space_9 | spooninstallcakegriefpitchgossipgirltoeincrease |  
 | bip_39_word_space_0 | ['spoon', 'install', 'cake', 'grief', 'pitch', 'gossip', 'girl', 'toe', 'increase', 'dress', 'dirt', 'attitude'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon install cake grief pitch gossip girl toe increase dress |  

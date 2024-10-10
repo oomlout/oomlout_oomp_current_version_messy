@@ -122,6 +122,18 @@ forward
 lobster
 knee
 alarm |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipskibusinessmushroomregionforwardlobsterkneealarmunit |  
+| bip_39_word_no_space_11 | shipskibusinessmushroomregionforwardlobsterkneealarmunitcute |  
+| bip_39_word_no_space_12 | shipskibusinessmushroomregionforwardlobsterkneealarmunitcutealien |  
+| bip_39_word_no_space_2 | shipski |  
+| bip_39_word_no_space_3 | shipskibusiness |  
+| bip_39_word_no_space_4 | shipskibusinessmushroom |  
+| bip_39_word_no_space_5 | shipskibusinessmushroomregion |  
+| bip_39_word_no_space_6 | shipskibusinessmushroomregionforward |  
+| bip_39_word_no_space_7 | shipskibusinessmushroomregionforwardlobster |  
+| bip_39_word_no_space_8 | shipskibusinessmushroomregionforwardlobsterknee |  
+| bip_39_word_no_space_9 | shipskibusinessmushroomregionforwardlobsterkneealarm |  
 | bip_39_word_space_0 | ['ship', 'ski', 'business', 'mushroom', 'region', 'forward', 'lobster', 'knee', 'alarm', 'unit', 'cute', 'alien'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship ski business mushroom region forward lobster knee alarm unit |  

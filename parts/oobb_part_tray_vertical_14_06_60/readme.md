@@ -122,6 +122,18 @@ example
 shield
 found
 humor |  
+| bip_39_word_no_space_1 | uphold |  
+| bip_39_word_no_space_10 | upholdgenuineinjectclockyoungexampleshieldfoundhumoraxis |  
+| bip_39_word_no_space_11 | upholdgenuineinjectclockyoungexampleshieldfoundhumoraxisworth |  
+| bip_39_word_no_space_12 | upholdgenuineinjectclockyoungexampleshieldfoundhumoraxisworthaunt |  
+| bip_39_word_no_space_2 | upholdgenuine |  
+| bip_39_word_no_space_3 | upholdgenuineinject |  
+| bip_39_word_no_space_4 | upholdgenuineinjectclock |  
+| bip_39_word_no_space_5 | upholdgenuineinjectclockyoung |  
+| bip_39_word_no_space_6 | upholdgenuineinjectclockyoungexample |  
+| bip_39_word_no_space_7 | upholdgenuineinjectclockyoungexampleshield |  
+| bip_39_word_no_space_8 | upholdgenuineinjectclockyoungexampleshieldfound |  
+| bip_39_word_no_space_9 | upholdgenuineinjectclockyoungexampleshieldfoundhumor |  
 | bip_39_word_space_0 | ['uphold', 'genuine', 'inject', 'clock', 'young', 'example', 'shield', 'found', 'humor', 'axis', 'worth', 'aunt'] |  
 | bip_39_word_space_1 | uphold |  
 | bip_39_word_space_10 | uphold genuine inject clock young example shield found humor axis |  

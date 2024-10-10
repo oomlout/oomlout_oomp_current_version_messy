@@ -122,6 +122,18 @@ note
 lucky
 umbrella
 boss |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffmaplesolarhelmetgoodnoteluckyumbrellabossjar |  
+| bip_39_word_no_space_11 | sniffmaplesolarhelmetgoodnoteluckyumbrellabossjarupdate |  
+| bip_39_word_no_space_12 | sniffmaplesolarhelmetgoodnoteluckyumbrellabossjarupdateaction |  
+| bip_39_word_no_space_2 | sniffmaple |  
+| bip_39_word_no_space_3 | sniffmaplesolar |  
+| bip_39_word_no_space_4 | sniffmaplesolarhelmet |  
+| bip_39_word_no_space_5 | sniffmaplesolarhelmetgood |  
+| bip_39_word_no_space_6 | sniffmaplesolarhelmetgoodnote |  
+| bip_39_word_no_space_7 | sniffmaplesolarhelmetgoodnotelucky |  
+| bip_39_word_no_space_8 | sniffmaplesolarhelmetgoodnoteluckyumbrella |  
+| bip_39_word_no_space_9 | sniffmaplesolarhelmetgoodnoteluckyumbrellaboss |  
 | bip_39_word_space_0 | ['sniff', 'maple', 'solar', 'helmet', 'good', 'note', 'lucky', 'umbrella', 'boss', 'jar', 'update', 'action'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff maple solar helmet good note lucky umbrella boss jar |  

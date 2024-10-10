@@ -122,6 +122,18 @@ drink
 annual
 blue
 supply |  
+| bip_39_word_no_space_1 | pass |  
+| bip_39_word_no_space_10 | passreasonplugpigswallowdrinkannualbluesupplyend |  
+| bip_39_word_no_space_11 | passreasonplugpigswallowdrinkannualbluesupplyendangle |  
+| bip_39_word_no_space_12 | passreasonplugpigswallowdrinkannualbluesupplyendangleattend |  
+| bip_39_word_no_space_2 | passreason |  
+| bip_39_word_no_space_3 | passreasonplug |  
+| bip_39_word_no_space_4 | passreasonplugpig |  
+| bip_39_word_no_space_5 | passreasonplugpigswallow |  
+| bip_39_word_no_space_6 | passreasonplugpigswallowdrink |  
+| bip_39_word_no_space_7 | passreasonplugpigswallowdrinkannual |  
+| bip_39_word_no_space_8 | passreasonplugpigswallowdrinkannualblue |  
+| bip_39_word_no_space_9 | passreasonplugpigswallowdrinkannualbluesupply |  
 | bip_39_word_space_0 | ['pass', 'reason', 'plug', 'pig', 'swallow', 'drink', 'annual', 'blue', 'supply', 'end', 'angle', 'attend'] |  
 | bip_39_word_space_1 | pass |  
 | bip_39_word_space_10 | pass reason plug pig swallow drink annual blue supply end |  

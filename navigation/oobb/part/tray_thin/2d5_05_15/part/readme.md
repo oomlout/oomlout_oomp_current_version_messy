@@ -122,6 +122,18 @@ federal
 mandate
 high
 bamboo |  
+| bip_39_word_no_space_1 | win |  
+| bip_39_word_no_space_10 | winadapthabitcauseinvolvefederalmandatehighbamboodaring |  
+| bip_39_word_no_space_11 | winadapthabitcauseinvolvefederalmandatehighbamboodaringrough |  
+| bip_39_word_no_space_12 | winadapthabitcauseinvolvefederalmandatehighbamboodaringroughair |  
+| bip_39_word_no_space_2 | winadapt |  
+| bip_39_word_no_space_3 | winadapthabit |  
+| bip_39_word_no_space_4 | winadapthabitcause |  
+| bip_39_word_no_space_5 | winadapthabitcauseinvolve |  
+| bip_39_word_no_space_6 | winadapthabitcauseinvolvefederal |  
+| bip_39_word_no_space_7 | winadapthabitcauseinvolvefederalmandate |  
+| bip_39_word_no_space_8 | winadapthabitcauseinvolvefederalmandatehigh |  
+| bip_39_word_no_space_9 | winadapthabitcauseinvolvefederalmandatehighbamboo |  
 | bip_39_word_space_0 | ['win', 'adapt', 'habit', 'cause', 'involve', 'federal', 'mandate', 'high', 'bamboo', 'daring', 'rough', 'air'] |  
 | bip_39_word_space_1 | win |  
 | bip_39_word_space_10 | win adapt habit cause involve federal mandate high bamboo daring |  

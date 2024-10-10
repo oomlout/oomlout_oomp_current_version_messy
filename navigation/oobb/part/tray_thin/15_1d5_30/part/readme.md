@@ -122,6 +122,18 @@ post
 fun
 seek
 have |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moondressfriendendwhalepostfunseekhavekangaroo |  
+| bip_39_word_no_space_11 | moondressfriendendwhalepostfunseekhavekangarooankle |  
+| bip_39_word_no_space_12 | moondressfriendendwhalepostfunseekhavekangarooankleaccident |  
+| bip_39_word_no_space_2 | moondress |  
+| bip_39_word_no_space_3 | moondressfriend |  
+| bip_39_word_no_space_4 | moondressfriendend |  
+| bip_39_word_no_space_5 | moondressfriendendwhale |  
+| bip_39_word_no_space_6 | moondressfriendendwhalepost |  
+| bip_39_word_no_space_7 | moondressfriendendwhalepostfun |  
+| bip_39_word_no_space_8 | moondressfriendendwhalepostfunseek |  
+| bip_39_word_no_space_9 | moondressfriendendwhalepostfunseekhave |  
 | bip_39_word_space_0 | ['moon', 'dress', 'friend', 'end', 'whale', 'post', 'fun', 'seek', 'have', 'kangaroo', 'ankle', 'accident'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon dress friend end whale post fun seek have kangaroo |  

@@ -122,6 +122,18 @@ tornado
 true
 junk
 reject |  
+| bip_39_word_no_space_1 | butter |  
+| bip_39_word_no_space_10 | butterbloodsurprisequitdiseasetornadotruejunkrejectgenuine |  
+| bip_39_word_no_space_11 | butterbloodsurprisequitdiseasetornadotruejunkrejectgenuinepanel |  
+| bip_39_word_no_space_12 | butterbloodsurprisequitdiseasetornadotruejunkrejectgenuinepanelachieve |  
+| bip_39_word_no_space_2 | butterblood |  
+| bip_39_word_no_space_3 | butterbloodsurprise |  
+| bip_39_word_no_space_4 | butterbloodsurprisequit |  
+| bip_39_word_no_space_5 | butterbloodsurprisequitdisease |  
+| bip_39_word_no_space_6 | butterbloodsurprisequitdiseasetornado |  
+| bip_39_word_no_space_7 | butterbloodsurprisequitdiseasetornadotrue |  
+| bip_39_word_no_space_8 | butterbloodsurprisequitdiseasetornadotruejunk |  
+| bip_39_word_no_space_9 | butterbloodsurprisequitdiseasetornadotruejunkreject |  
 | bip_39_word_space_0 | ['butter', 'blood', 'surprise', 'quit', 'disease', 'tornado', 'true', 'junk', 'reject', 'genuine', 'panel', 'achieve'] |  
 | bip_39_word_space_1 | butter |  
 | bip_39_word_space_10 | butter blood surprise quit disease tornado true junk reject genuine |  

@@ -122,6 +122,18 @@ tortoise
 acquire
 today
 steak |  
+| bip_39_word_no_space_1 | enroll |  
+| bip_39_word_no_space_10 | enrollcomeenergypeaceramptortoiseacquiretodaysteaksnake |  
+| bip_39_word_no_space_11 | enrollcomeenergypeaceramptortoiseacquiretodaysteaksnakeworld |  
+| bip_39_word_no_space_12 | enrollcomeenergypeaceramptortoiseacquiretodaysteaksnakeworldanswer |  
+| bip_39_word_no_space_2 | enrollcome |  
+| bip_39_word_no_space_3 | enrollcomeenergy |  
+| bip_39_word_no_space_4 | enrollcomeenergypeace |  
+| bip_39_word_no_space_5 | enrollcomeenergypeaceramp |  
+| bip_39_word_no_space_6 | enrollcomeenergypeaceramptortoise |  
+| bip_39_word_no_space_7 | enrollcomeenergypeaceramptortoiseacquire |  
+| bip_39_word_no_space_8 | enrollcomeenergypeaceramptortoiseacquiretoday |  
+| bip_39_word_no_space_9 | enrollcomeenergypeaceramptortoiseacquiretodaysteak |  
 | bip_39_word_space_0 | ['enroll', 'come', 'energy', 'peace', 'ramp', 'tortoise', 'acquire', 'today', 'steak', 'snake', 'world', 'answer'] |  
 | bip_39_word_space_1 | enroll |  
 | bip_39_word_space_10 | enroll come energy peace ramp tortoise acquire today steak snake |  

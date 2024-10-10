@@ -122,6 +122,18 @@ vapor
 awake
 gift
 manage |  
+| bip_39_word_no_space_1 | math |  
+| bip_39_word_no_space_10 | mathdolphinsteelsafepausevaporawakegiftmanagelonely |  
+| bip_39_word_no_space_11 | mathdolphinsteelsafepausevaporawakegiftmanagelonelyrain |  
+| bip_39_word_no_space_12 | mathdolphinsteelsafepausevaporawakegiftmanagelonelyrainact |  
+| bip_39_word_no_space_2 | mathdolphin |  
+| bip_39_word_no_space_3 | mathdolphinsteel |  
+| bip_39_word_no_space_4 | mathdolphinsteelsafe |  
+| bip_39_word_no_space_5 | mathdolphinsteelsafepause |  
+| bip_39_word_no_space_6 | mathdolphinsteelsafepausevapor |  
+| bip_39_word_no_space_7 | mathdolphinsteelsafepausevaporawake |  
+| bip_39_word_no_space_8 | mathdolphinsteelsafepausevaporawakegift |  
+| bip_39_word_no_space_9 | mathdolphinsteelsafepausevaporawakegiftmanage |  
 | bip_39_word_space_0 | ['math', 'dolphin', 'steel', 'safe', 'pause', 'vapor', 'awake', 'gift', 'manage', 'lonely', 'rain', 'act'] |  
 | bip_39_word_space_1 | math |  
 | bip_39_word_space_10 | math dolphin steel safe pause vapor awake gift manage lonely |  

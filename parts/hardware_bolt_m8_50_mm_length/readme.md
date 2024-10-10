@@ -122,6 +122,18 @@ night
 near
 length
 ticket |  
+| bip_39_word_no_space_1 | cross |  
+| bip_39_word_no_space_10 | crosshostartefactworldjealousnightnearlengthticketring |  
+| bip_39_word_no_space_11 | crosshostartefactworldjealousnightnearlengthticketringevidence |  
+| bip_39_word_no_space_12 | crosshostartefactworldjealousnightnearlengthticketringevidenceaverage |  
+| bip_39_word_no_space_2 | crosshost |  
+| bip_39_word_no_space_3 | crosshostartefact |  
+| bip_39_word_no_space_4 | crosshostartefactworld |  
+| bip_39_word_no_space_5 | crosshostartefactworldjealous |  
+| bip_39_word_no_space_6 | crosshostartefactworldjealousnight |  
+| bip_39_word_no_space_7 | crosshostartefactworldjealousnightnear |  
+| bip_39_word_no_space_8 | crosshostartefactworldjealousnightnearlength |  
+| bip_39_word_no_space_9 | crosshostartefactworldjealousnightnearlengthticket |  
 | bip_39_word_space_0 | ['cross', 'host', 'artefact', 'world', 'jealous', 'night', 'near', 'length', 'ticket', 'ring', 'evidence', 'average'] |  
 | bip_39_word_space_1 | cross |  
 | bip_39_word_space_10 | cross host artefact world jealous night near length ticket ring |  

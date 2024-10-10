@@ -122,6 +122,18 @@ begin
 still
 oak
 surface |  
+| bip_39_word_no_space_1 | push |  
+| bip_39_word_no_space_10 | pushendorselegendopensleepbeginstilloaksurfaceoil |  
+| bip_39_word_no_space_11 | pushendorselegendopensleepbeginstilloaksurfaceoilcrumble |  
+| bip_39_word_no_space_12 | pushendorselegendopensleepbeginstilloaksurfaceoilcrumbleabsent |  
+| bip_39_word_no_space_2 | pushendorse |  
+| bip_39_word_no_space_3 | pushendorselegend |  
+| bip_39_word_no_space_4 | pushendorselegendopen |  
+| bip_39_word_no_space_5 | pushendorselegendopensleep |  
+| bip_39_word_no_space_6 | pushendorselegendopensleepbegin |  
+| bip_39_word_no_space_7 | pushendorselegendopensleepbeginstill |  
+| bip_39_word_no_space_8 | pushendorselegendopensleepbeginstilloak |  
+| bip_39_word_no_space_9 | pushendorselegendopensleepbeginstilloaksurface |  
 | bip_39_word_space_0 | ['push', 'endorse', 'legend', 'open', 'sleep', 'begin', 'still', 'oak', 'surface', 'oil', 'crumble', 'absent'] |  
 | bip_39_word_space_1 | push |  
 | bip_39_word_space_10 | push endorse legend open sleep begin still oak surface oil |  

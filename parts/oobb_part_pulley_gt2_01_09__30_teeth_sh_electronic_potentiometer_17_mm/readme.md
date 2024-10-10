@@ -122,6 +122,18 @@ depart
 flee
 when
 inmate |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlembarkenlistrentpurchasedepartfleewheninmatecake |  
+| bip_39_word_no_space_11 | crawlembarkenlistrentpurchasedepartfleewheninmatecakewelcome |  
+| bip_39_word_no_space_12 | crawlembarkenlistrentpurchasedepartfleewheninmatecakewelcomeaddress |  
+| bip_39_word_no_space_2 | crawlembark |  
+| bip_39_word_no_space_3 | crawlembarkenlist |  
+| bip_39_word_no_space_4 | crawlembarkenlistrent |  
+| bip_39_word_no_space_5 | crawlembarkenlistrentpurchase |  
+| bip_39_word_no_space_6 | crawlembarkenlistrentpurchasedepart |  
+| bip_39_word_no_space_7 | crawlembarkenlistrentpurchasedepartflee |  
+| bip_39_word_no_space_8 | crawlembarkenlistrentpurchasedepartfleewhen |  
+| bip_39_word_no_space_9 | crawlembarkenlistrentpurchasedepartfleewheninmate |  
 | bip_39_word_space_0 | ['crawl', 'embark', 'enlist', 'rent', 'purchase', 'depart', 'flee', 'when', 'inmate', 'cake', 'welcome', 'address'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl embark enlist rent purchase depart flee when inmate cake |  

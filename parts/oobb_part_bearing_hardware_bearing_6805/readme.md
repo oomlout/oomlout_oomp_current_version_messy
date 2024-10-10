@@ -122,6 +122,18 @@ clock
 bottom
 edge
 find |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturedefenseburgerabsurdelementclockbottomedgefindreturn |  
+| bip_39_word_no_space_11 | naturedefenseburgerabsurdelementclockbottomedgefindreturncertain |  
+| bip_39_word_no_space_12 | naturedefenseburgerabsurdelementclockbottomedgefindreturncertainauto |  
+| bip_39_word_no_space_2 | naturedefense |  
+| bip_39_word_no_space_3 | naturedefenseburger |  
+| bip_39_word_no_space_4 | naturedefenseburgerabsurd |  
+| bip_39_word_no_space_5 | naturedefenseburgerabsurdelement |  
+| bip_39_word_no_space_6 | naturedefenseburgerabsurdelementclock |  
+| bip_39_word_no_space_7 | naturedefenseburgerabsurdelementclockbottom |  
+| bip_39_word_no_space_8 | naturedefenseburgerabsurdelementclockbottomedge |  
+| bip_39_word_no_space_9 | naturedefenseburgerabsurdelementclockbottomedgefind |  
 | bip_39_word_space_0 | ['nature', 'defense', 'burger', 'absurd', 'element', 'clock', 'bottom', 'edge', 'find', 'return', 'certain', 'auto'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature defense burger absurd element clock bottom edge find return |  

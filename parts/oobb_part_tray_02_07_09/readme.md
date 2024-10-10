@@ -122,6 +122,18 @@ piece
 fine
 useful
 shaft |  
+| bip_39_word_no_space_1 | fossil |  
+| bip_39_word_no_space_10 | fossilcoyoteresponserecorddynamicpiecefineusefulshaftmaster |  
+| bip_39_word_no_space_11 | fossilcoyoteresponserecorddynamicpiecefineusefulshaftmastermiddle |  
+| bip_39_word_no_space_12 | fossilcoyoteresponserecorddynamicpiecefineusefulshaftmastermiddleasthma |  
+| bip_39_word_no_space_2 | fossilcoyote |  
+| bip_39_word_no_space_3 | fossilcoyoteresponse |  
+| bip_39_word_no_space_4 | fossilcoyoteresponserecord |  
+| bip_39_word_no_space_5 | fossilcoyoteresponserecorddynamic |  
+| bip_39_word_no_space_6 | fossilcoyoteresponserecorddynamicpiece |  
+| bip_39_word_no_space_7 | fossilcoyoteresponserecorddynamicpiecefine |  
+| bip_39_word_no_space_8 | fossilcoyoteresponserecorddynamicpiecefineuseful |  
+| bip_39_word_no_space_9 | fossilcoyoteresponserecorddynamicpiecefineusefulshaft |  
 | bip_39_word_space_0 | ['fossil', 'coyote', 'response', 'record', 'dynamic', 'piece', 'fine', 'useful', 'shaft', 'master', 'middle', 'asthma'] |  
 | bip_39_word_space_1 | fossil |  
 | bip_39_word_space_10 | fossil coyote response record dynamic piece fine useful shaft master |  

@@ -122,6 +122,18 @@ armor
 bulk
 canoe
 iron |  
+| bip_39_word_no_space_1 | pilot |  
+| bip_39_word_no_space_10 | pilottrimeightrobustpledgearmorbulkcanoeironany |  
+| bip_39_word_no_space_11 | pilottrimeightrobustpledgearmorbulkcanoeironanyculture |  
+| bip_39_word_no_space_12 | pilottrimeightrobustpledgearmorbulkcanoeironanycultureaddress |  
+| bip_39_word_no_space_2 | pilottrim |  
+| bip_39_word_no_space_3 | pilottrimeight |  
+| bip_39_word_no_space_4 | pilottrimeightrobust |  
+| bip_39_word_no_space_5 | pilottrimeightrobustpledge |  
+| bip_39_word_no_space_6 | pilottrimeightrobustpledgearmor |  
+| bip_39_word_no_space_7 | pilottrimeightrobustpledgearmorbulk |  
+| bip_39_word_no_space_8 | pilottrimeightrobustpledgearmorbulkcanoe |  
+| bip_39_word_no_space_9 | pilottrimeightrobustpledgearmorbulkcanoeiron |  
 | bip_39_word_space_0 | ['pilot', 'trim', 'eight', 'robust', 'pledge', 'armor', 'bulk', 'canoe', 'iron', 'any', 'culture', 'address'] |  
 | bip_39_word_space_1 | pilot |  
 | bip_39_word_space_10 | pilot trim eight robust pledge armor bulk canoe iron any |  

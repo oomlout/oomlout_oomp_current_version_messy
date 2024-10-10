@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'venture
   alarm
 
   super'
+bip_39_word_no_space_1: venture
+bip_39_word_no_space_10: ventureangrydonatecoversliceaddassaultalarmsuperfury
+bip_39_word_no_space_11: ventureangrydonatecoversliceaddassaultalarmsuperfuryalso
+bip_39_word_no_space_12: ventureangrydonatecoversliceaddassaultalarmsuperfuryalsoabuse
+bip_39_word_no_space_2: ventureangry
+bip_39_word_no_space_3: ventureangrydonate
+bip_39_word_no_space_4: ventureangrydonatecover
+bip_39_word_no_space_5: ventureangrydonatecoverslice
+bip_39_word_no_space_6: ventureangrydonatecoversliceadd
+bip_39_word_no_space_7: ventureangrydonatecoversliceaddassault
+bip_39_word_no_space_8: ventureangrydonatecoversliceaddassaultalarm
+bip_39_word_no_space_9: ventureangrydonatecoversliceaddassaultalarmsuper
 bip_39_word_space_0:
 - venture
 - angry

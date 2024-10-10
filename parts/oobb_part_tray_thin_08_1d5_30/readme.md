@@ -122,6 +122,18 @@ utility
 wheat
 decide
 short |  
+| bip_39_word_no_space_1 | hover |  
+| bip_39_word_no_space_10 | hoverfoamchampiongaponceutilitywheatdecideshorteagle |  
+| bip_39_word_no_space_11 | hoverfoamchampiongaponceutilitywheatdecideshorteaglehundred |  
+| bip_39_word_no_space_12 | hoverfoamchampiongaponceutilitywheatdecideshorteaglehundredattend |  
+| bip_39_word_no_space_2 | hoverfoam |  
+| bip_39_word_no_space_3 | hoverfoamchampion |  
+| bip_39_word_no_space_4 | hoverfoamchampiongap |  
+| bip_39_word_no_space_5 | hoverfoamchampiongaponce |  
+| bip_39_word_no_space_6 | hoverfoamchampiongaponceutility |  
+| bip_39_word_no_space_7 | hoverfoamchampiongaponceutilitywheat |  
+| bip_39_word_no_space_8 | hoverfoamchampiongaponceutilitywheatdecide |  
+| bip_39_word_no_space_9 | hoverfoamchampiongaponceutilitywheatdecideshort |  
 | bip_39_word_space_0 | ['hover', 'foam', 'champion', 'gap', 'once', 'utility', 'wheat', 'decide', 'short', 'eagle', 'hundred', 'attend'] |  
 | bip_39_word_space_1 | hover |  
 | bip_39_word_space_10 | hover foam champion gap once utility wheat decide short eagle |  

@@ -122,6 +122,18 @@ like
 proof
 spend
 cost |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchbasetortoiseflightcuriouslikeproofspendcostmachine |  
+| bip_39_word_no_space_11 | fetchbasetortoiseflightcuriouslikeproofspendcostmachineattend |  
+| bip_39_word_no_space_12 | fetchbasetortoiseflightcuriouslikeproofspendcostmachineattendabsent |  
+| bip_39_word_no_space_2 | fetchbase |  
+| bip_39_word_no_space_3 | fetchbasetortoise |  
+| bip_39_word_no_space_4 | fetchbasetortoiseflight |  
+| bip_39_word_no_space_5 | fetchbasetortoiseflightcurious |  
+| bip_39_word_no_space_6 | fetchbasetortoiseflightcuriouslike |  
+| bip_39_word_no_space_7 | fetchbasetortoiseflightcuriouslikeproof |  
+| bip_39_word_no_space_8 | fetchbasetortoiseflightcuriouslikeproofspend |  
+| bip_39_word_no_space_9 | fetchbasetortoiseflightcuriouslikeproofspendcost |  
 | bip_39_word_space_0 | ['fetch', 'base', 'tortoise', 'flight', 'curious', 'like', 'proof', 'spend', 'cost', 'machine', 'attend', 'absent'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch base tortoise flight curious like proof spend cost machine |  

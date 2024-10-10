@@ -122,6 +122,18 @@ mansion
 cement
 depth
 increase |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aislebidfeedminorfixmansioncementdepthincreaseengage |  
+| bip_39_word_no_space_11 | aislebidfeedminorfixmansioncementdepthincreaseengageegg |  
+| bip_39_word_no_space_12 | aislebidfeedminorfixmansioncementdepthincreaseengageeggamount |  
+| bip_39_word_no_space_2 | aislebid |  
+| bip_39_word_no_space_3 | aislebidfeed |  
+| bip_39_word_no_space_4 | aislebidfeedminor |  
+| bip_39_word_no_space_5 | aislebidfeedminorfix |  
+| bip_39_word_no_space_6 | aislebidfeedminorfixmansion |  
+| bip_39_word_no_space_7 | aislebidfeedminorfixmansioncement |  
+| bip_39_word_no_space_8 | aislebidfeedminorfixmansioncementdepth |  
+| bip_39_word_no_space_9 | aislebidfeedminorfixmansioncementdepthincrease |  
 | bip_39_word_space_0 | ['aisle', 'bid', 'feed', 'minor', 'fix', 'mansion', 'cement', 'depth', 'increase', 'engage', 'egg', 'amount'] |  
 | bip_39_word_space_1 | aisle |  
 | bip_39_word_space_10 | aisle bid feed minor fix mansion cement depth increase engage |  

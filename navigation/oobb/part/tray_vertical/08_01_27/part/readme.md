@@ -122,6 +122,18 @@ glare
 basic
 large
 science |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omitpridenovelpanelbottomglarebasiclargesciencedrastic |  
+| bip_39_word_no_space_11 | omitpridenovelpanelbottomglarebasiclargesciencedrasticbetray |  
+| bip_39_word_no_space_12 | omitpridenovelpanelbottomglarebasiclargesciencedrasticbetrayantenna |  
+| bip_39_word_no_space_2 | omitpride |  
+| bip_39_word_no_space_3 | omitpridenovel |  
+| bip_39_word_no_space_4 | omitpridenovelpanel |  
+| bip_39_word_no_space_5 | omitpridenovelpanelbottom |  
+| bip_39_word_no_space_6 | omitpridenovelpanelbottomglare |  
+| bip_39_word_no_space_7 | omitpridenovelpanelbottomglarebasic |  
+| bip_39_word_no_space_8 | omitpridenovelpanelbottomglarebasiclarge |  
+| bip_39_word_no_space_9 | omitpridenovelpanelbottomglarebasiclargescience |  
 | bip_39_word_space_0 | ['omit', 'pride', 'novel', 'panel', 'bottom', 'glare', 'basic', 'large', 'science', 'drastic', 'betray', 'antenna'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit pride novel panel bottom glare basic large science drastic |  

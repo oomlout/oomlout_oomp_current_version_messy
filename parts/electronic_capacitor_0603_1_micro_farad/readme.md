@@ -122,6 +122,18 @@ excite
 mule
 document
 ozone |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radarcyclewearoffparadeexcitemuledocumentozonewait |  
+| bip_39_word_no_space_11 | radarcyclewearoffparadeexcitemuledocumentozonewaitspeed |  
+| bip_39_word_no_space_12 | radarcyclewearoffparadeexcitemuledocumentozonewaitspeedattack |  
+| bip_39_word_no_space_2 | radarcycle |  
+| bip_39_word_no_space_3 | radarcyclewear |  
+| bip_39_word_no_space_4 | radarcyclewearoff |  
+| bip_39_word_no_space_5 | radarcyclewearoffparade |  
+| bip_39_word_no_space_6 | radarcyclewearoffparadeexcite |  
+| bip_39_word_no_space_7 | radarcyclewearoffparadeexcitemule |  
+| bip_39_word_no_space_8 | radarcyclewearoffparadeexcitemuledocument |  
+| bip_39_word_no_space_9 | radarcyclewearoffparadeexcitemuledocumentozone |  
 | bip_39_word_space_0 | ['radar', 'cycle', 'wear', 'off', 'parade', 'excite', 'mule', 'document', 'ozone', 'wait', 'speed', 'attack'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar cycle wear off parade excite mule document ozone wait |  

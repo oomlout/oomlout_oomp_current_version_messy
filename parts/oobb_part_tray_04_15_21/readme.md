@@ -122,6 +122,18 @@ bread
 mirror
 select
 purpose |  
+| bip_39_word_no_space_1 | green |  
+| bip_39_word_no_space_10 | greenumbrellascreenhazardmusicbreadmirrorselectpurposetable |  
+| bip_39_word_no_space_11 | greenumbrellascreenhazardmusicbreadmirrorselectpurposetablenasty |  
+| bip_39_word_no_space_12 | greenumbrellascreenhazardmusicbreadmirrorselectpurposetablenastyarea |  
+| bip_39_word_no_space_2 | greenumbrella |  
+| bip_39_word_no_space_3 | greenumbrellascreen |  
+| bip_39_word_no_space_4 | greenumbrellascreenhazard |  
+| bip_39_word_no_space_5 | greenumbrellascreenhazardmusic |  
+| bip_39_word_no_space_6 | greenumbrellascreenhazardmusicbread |  
+| bip_39_word_no_space_7 | greenumbrellascreenhazardmusicbreadmirror |  
+| bip_39_word_no_space_8 | greenumbrellascreenhazardmusicbreadmirrorselect |  
+| bip_39_word_no_space_9 | greenumbrellascreenhazardmusicbreadmirrorselectpurpose |  
 | bip_39_word_space_0 | ['green', 'umbrella', 'screen', 'hazard', 'music', 'bread', 'mirror', 'select', 'purpose', 'table', 'nasty', 'area'] |  
 | bip_39_word_space_1 | green |  
 | bip_39_word_space_10 | green umbrella screen hazard music bread mirror select purpose table |  

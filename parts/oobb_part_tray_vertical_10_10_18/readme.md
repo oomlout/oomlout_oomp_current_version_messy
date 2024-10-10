@@ -122,6 +122,18 @@ arctic
 viable
 canoe
 sleep |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidduringtrophygownmonsterarcticviablecanoesleepopinion |  
+| bip_39_word_no_space_11 | afraidduringtrophygownmonsterarcticviablecanoesleepopinionraven |  
+| bip_39_word_no_space_12 | afraidduringtrophygownmonsterarcticviablecanoesleepopinionravenadmit |  
+| bip_39_word_no_space_2 | afraidduring |  
+| bip_39_word_no_space_3 | afraidduringtrophy |  
+| bip_39_word_no_space_4 | afraidduringtrophygown |  
+| bip_39_word_no_space_5 | afraidduringtrophygownmonster |  
+| bip_39_word_no_space_6 | afraidduringtrophygownmonsterarctic |  
+| bip_39_word_no_space_7 | afraidduringtrophygownmonsterarcticviable |  
+| bip_39_word_no_space_8 | afraidduringtrophygownmonsterarcticviablecanoe |  
+| bip_39_word_no_space_9 | afraidduringtrophygownmonsterarcticviablecanoesleep |  
 | bip_39_word_space_0 | ['afraid', 'during', 'trophy', 'gown', 'monster', 'arctic', 'viable', 'canoe', 'sleep', 'opinion', 'raven', 'admit'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid during trophy gown monster arctic viable canoe sleep opinion |  

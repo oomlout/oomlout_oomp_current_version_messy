@@ -122,6 +122,18 @@ mixture
 eyebrow
 country
 discover |  
+| bip_39_word_no_space_1 | parade |  
+| bip_39_word_no_space_10 | paradetailanotherpioneerarmymixtureeyebrowcountrydiscoverholiday |  
+| bip_39_word_no_space_11 | paradetailanotherpioneerarmymixtureeyebrowcountrydiscoverholidayalpha |  
+| bip_39_word_no_space_12 | paradetailanotherpioneerarmymixtureeyebrowcountrydiscoverholidayalphaarctic |  
+| bip_39_word_no_space_2 | paradetail |  
+| bip_39_word_no_space_3 | paradetailanother |  
+| bip_39_word_no_space_4 | paradetailanotherpioneer |  
+| bip_39_word_no_space_5 | paradetailanotherpioneerarmy |  
+| bip_39_word_no_space_6 | paradetailanotherpioneerarmymixture |  
+| bip_39_word_no_space_7 | paradetailanotherpioneerarmymixtureeyebrow |  
+| bip_39_word_no_space_8 | paradetailanotherpioneerarmymixtureeyebrowcountry |  
+| bip_39_word_no_space_9 | paradetailanotherpioneerarmymixtureeyebrowcountrydiscover |  
 | bip_39_word_space_0 | ['parade', 'tail', 'another', 'pioneer', 'army', 'mixture', 'eyebrow', 'country', 'discover', 'holiday', 'alpha', 'arctic'] |  
 | bip_39_word_space_1 | parade |  
 | bip_39_word_space_10 | parade tail another pioneer army mixture eyebrow country discover holiday |  

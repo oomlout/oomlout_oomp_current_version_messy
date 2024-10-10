@@ -122,6 +122,18 @@ few
 opera
 license
 total |  
+| bip_39_word_no_space_1 | dragon |  
+| bip_39_word_no_space_10 | dragontomorrowcaptainwomansentencefewoperalicensetotaltrigger |  
+| bip_39_word_no_space_11 | dragontomorrowcaptainwomansentencefewoperalicensetotaltriggergrit |  
+| bip_39_word_no_space_12 | dragontomorrowcaptainwomansentencefewoperalicensetotaltriggergritask |  
+| bip_39_word_no_space_2 | dragontomorrow |  
+| bip_39_word_no_space_3 | dragontomorrowcaptain |  
+| bip_39_word_no_space_4 | dragontomorrowcaptainwoman |  
+| bip_39_word_no_space_5 | dragontomorrowcaptainwomansentence |  
+| bip_39_word_no_space_6 | dragontomorrowcaptainwomansentencefew |  
+| bip_39_word_no_space_7 | dragontomorrowcaptainwomansentencefewopera |  
+| bip_39_word_no_space_8 | dragontomorrowcaptainwomansentencefewoperalicense |  
+| bip_39_word_no_space_9 | dragontomorrowcaptainwomansentencefewoperalicensetotal |  
 | bip_39_word_space_0 | ['dragon', 'tomorrow', 'captain', 'woman', 'sentence', 'few', 'opera', 'license', 'total', 'trigger', 'grit', 'ask'] |  
 | bip_39_word_space_1 | dragon |  
 | bip_39_word_space_10 | dragon tomorrow captain woman sentence few opera license total trigger |  

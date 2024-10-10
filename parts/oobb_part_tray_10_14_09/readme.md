@@ -122,6 +122,18 @@ razor
 element
 giggle
 bean |  
+| bip_39_word_no_space_1 | desert |  
+| bip_39_word_no_space_10 | desertdoublebikeoutputstamprazorelementgigglebeanknow |  
+| bip_39_word_no_space_11 | desertdoublebikeoutputstamprazorelementgigglebeanknowrough |  
+| bip_39_word_no_space_12 | desertdoublebikeoutputstamprazorelementgigglebeanknowroughair |  
+| bip_39_word_no_space_2 | desertdouble |  
+| bip_39_word_no_space_3 | desertdoublebike |  
+| bip_39_word_no_space_4 | desertdoublebikeoutput |  
+| bip_39_word_no_space_5 | desertdoublebikeoutputstamp |  
+| bip_39_word_no_space_6 | desertdoublebikeoutputstamprazor |  
+| bip_39_word_no_space_7 | desertdoublebikeoutputstamprazorelement |  
+| bip_39_word_no_space_8 | desertdoublebikeoutputstamprazorelementgiggle |  
+| bip_39_word_no_space_9 | desertdoublebikeoutputstamprazorelementgigglebean |  
 | bip_39_word_space_0 | ['desert', 'double', 'bike', 'output', 'stamp', 'razor', 'element', 'giggle', 'bean', 'know', 'rough', 'air'] |  
 | bip_39_word_space_1 | desert |  
 | bip_39_word_space_10 | desert double bike output stamp razor element giggle bean know |  

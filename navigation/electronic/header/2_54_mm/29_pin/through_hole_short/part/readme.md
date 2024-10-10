@@ -122,6 +122,18 @@ brother
 expect
 clutch
 vendor |  
+| bip_39_word_no_space_1 | network |  
+| bip_39_word_no_space_10 | networkricemuseuminformoftenbrotherexpectclutchvendorbone |  
+| bip_39_word_no_space_11 | networkricemuseuminformoftenbrotherexpectclutchvendorbonegood |  
+| bip_39_word_no_space_12 | networkricemuseuminformoftenbrotherexpectclutchvendorbonegoodarmy |  
+| bip_39_word_no_space_2 | networkrice |  
+| bip_39_word_no_space_3 | networkricemuseum |  
+| bip_39_word_no_space_4 | networkricemuseuminform |  
+| bip_39_word_no_space_5 | networkricemuseuminformoften |  
+| bip_39_word_no_space_6 | networkricemuseuminformoftenbrother |  
+| bip_39_word_no_space_7 | networkricemuseuminformoftenbrotherexpect |  
+| bip_39_word_no_space_8 | networkricemuseuminformoftenbrotherexpectclutch |  
+| bip_39_word_no_space_9 | networkricemuseuminformoftenbrotherexpectclutchvendor |  
 | bip_39_word_space_0 | ['network', 'rice', 'museum', 'inform', 'often', 'brother', 'expect', 'clutch', 'vendor', 'bone', 'good', 'army'] |  
 | bip_39_word_space_1 | network |  
 | bip_39_word_space_10 | network rice museum inform often brother expect clutch vendor bone |  

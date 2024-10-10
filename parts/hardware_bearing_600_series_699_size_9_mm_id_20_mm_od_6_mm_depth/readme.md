@@ -122,6 +122,18 @@ word
 work
 parrot
 hidden |  
+| bip_39_word_no_space_1 | march |  
+| bip_39_word_no_space_10 | marchlendrugdemisestockwordworkparrothiddenused |  
+| bip_39_word_no_space_11 | marchlendrugdemisestockwordworkparrothiddenusedsmoke |  
+| bip_39_word_no_space_12 | marchlendrugdemisestockwordworkparrothiddenusedsmokeangle |  
+| bip_39_word_no_space_2 | marchlend |  
+| bip_39_word_no_space_3 | marchlendrug |  
+| bip_39_word_no_space_4 | marchlendrugdemise |  
+| bip_39_word_no_space_5 | marchlendrugdemisestock |  
+| bip_39_word_no_space_6 | marchlendrugdemisestockword |  
+| bip_39_word_no_space_7 | marchlendrugdemisestockwordwork |  
+| bip_39_word_no_space_8 | marchlendrugdemisestockwordworkparrot |  
+| bip_39_word_no_space_9 | marchlendrugdemisestockwordworkparrothidden |  
 | bip_39_word_space_0 | ['march', 'lend', 'rug', 'demise', 'stock', 'word', 'work', 'parrot', 'hidden', 'used', 'smoke', 'angle'] |  
 | bip_39_word_space_1 | march |  
 | bip_39_word_space_10 | march lend rug demise stock word work parrot hidden used |  

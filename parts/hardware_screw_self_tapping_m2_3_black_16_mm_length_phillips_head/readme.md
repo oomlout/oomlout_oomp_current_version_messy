@@ -122,6 +122,18 @@ canal
 demise
 kitten
 interest |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brassclapbeanmuleabilitycanaldemisekitteninterestmind |  
+| bip_39_word_no_space_11 | brassclapbeanmuleabilitycanaldemisekitteninterestmindbutter |  
+| bip_39_word_no_space_12 | brassclapbeanmuleabilitycanaldemisekitteninterestmindbutterassist |  
+| bip_39_word_no_space_2 | brassclap |  
+| bip_39_word_no_space_3 | brassclapbean |  
+| bip_39_word_no_space_4 | brassclapbeanmule |  
+| bip_39_word_no_space_5 | brassclapbeanmuleability |  
+| bip_39_word_no_space_6 | brassclapbeanmuleabilitycanal |  
+| bip_39_word_no_space_7 | brassclapbeanmuleabilitycanaldemise |  
+| bip_39_word_no_space_8 | brassclapbeanmuleabilitycanaldemisekitten |  
+| bip_39_word_no_space_9 | brassclapbeanmuleabilitycanaldemisekitteninterest |  
 | bip_39_word_space_0 | ['brass', 'clap', 'bean', 'mule', 'ability', 'canal', 'demise', 'kitten', 'interest', 'mind', 'butter', 'assist'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass clap bean mule ability canal demise kitten interest mind |  

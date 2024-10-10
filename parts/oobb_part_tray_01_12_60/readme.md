@@ -122,6 +122,18 @@ split
 mobile
 magic
 defy |  
+| bip_39_word_no_space_1 | drive |  
+| bip_39_word_no_space_10 | drivefiberdivideceilingpredictsplitmobilemagicdefyfocus |  
+| bip_39_word_no_space_11 | drivefiberdivideceilingpredictsplitmobilemagicdefyfocussecurity |  
+| bip_39_word_no_space_12 | drivefiberdivideceilingpredictsplitmobilemagicdefyfocussecurityalso |  
+| bip_39_word_no_space_2 | drivefiber |  
+| bip_39_word_no_space_3 | drivefiberdivide |  
+| bip_39_word_no_space_4 | drivefiberdivideceiling |  
+| bip_39_word_no_space_5 | drivefiberdivideceilingpredict |  
+| bip_39_word_no_space_6 | drivefiberdivideceilingpredictsplit |  
+| bip_39_word_no_space_7 | drivefiberdivideceilingpredictsplitmobile |  
+| bip_39_word_no_space_8 | drivefiberdivideceilingpredictsplitmobilemagic |  
+| bip_39_word_no_space_9 | drivefiberdivideceilingpredictsplitmobilemagicdefy |  
 | bip_39_word_space_0 | ['drive', 'fiber', 'divide', 'ceiling', 'predict', 'split', 'mobile', 'magic', 'defy', 'focus', 'security', 'also'] |  
 | bip_39_word_space_1 | drive |  
 | bip_39_word_space_10 | drive fiber divide ceiling predict split mobile magic defy focus |  

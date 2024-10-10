@@ -122,6 +122,18 @@ lunar
 lunar
 shove
 penalty |  
+| bip_39_word_no_space_1 | thunder |  
+| bip_39_word_no_space_10 | thundermouselavafruitovenlunarlunarshovepenaltytorch |  
+| bip_39_word_no_space_11 | thundermouselavafruitovenlunarlunarshovepenaltytorchship |  
+| bip_39_word_no_space_12 | thundermouselavafruitovenlunarlunarshovepenaltytorchshipalbum |  
+| bip_39_word_no_space_2 | thundermouse |  
+| bip_39_word_no_space_3 | thundermouselava |  
+| bip_39_word_no_space_4 | thundermouselavafruit |  
+| bip_39_word_no_space_5 | thundermouselavafruitoven |  
+| bip_39_word_no_space_6 | thundermouselavafruitovenlunar |  
+| bip_39_word_no_space_7 | thundermouselavafruitovenlunarlunar |  
+| bip_39_word_no_space_8 | thundermouselavafruitovenlunarlunarshove |  
+| bip_39_word_no_space_9 | thundermouselavafruitovenlunarlunarshovepenalty |  
 | bip_39_word_space_0 | ['thunder', 'mouse', 'lava', 'fruit', 'oven', 'lunar', 'lunar', 'shove', 'penalty', 'torch', 'ship', 'album'] |  
 | bip_39_word_space_1 | thunder |  
 | bip_39_word_space_10 | thunder mouse lava fruit oven lunar lunar shove penalty torch |  

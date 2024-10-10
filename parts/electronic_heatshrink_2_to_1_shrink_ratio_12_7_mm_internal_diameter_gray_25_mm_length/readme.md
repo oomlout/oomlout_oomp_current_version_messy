@@ -122,6 +122,18 @@ school
 alpha
 round
 glow |  
+| bip_39_word_no_space_1 | struggle |  
+| bip_39_word_no_space_10 | struggleunusualshinenetworkcheckschoolalpharoundglowretire |  
+| bip_39_word_no_space_11 | struggleunusualshinenetworkcheckschoolalpharoundglowretirevan |  
+| bip_39_word_no_space_12 | struggleunusualshinenetworkcheckschoolalpharoundglowretirevanactor |  
+| bip_39_word_no_space_2 | struggleunusual |  
+| bip_39_word_no_space_3 | struggleunusualshine |  
+| bip_39_word_no_space_4 | struggleunusualshinenetwork |  
+| bip_39_word_no_space_5 | struggleunusualshinenetworkcheck |  
+| bip_39_word_no_space_6 | struggleunusualshinenetworkcheckschool |  
+| bip_39_word_no_space_7 | struggleunusualshinenetworkcheckschoolalpha |  
+| bip_39_word_no_space_8 | struggleunusualshinenetworkcheckschoolalpharound |  
+| bip_39_word_no_space_9 | struggleunusualshinenetworkcheckschoolalpharoundglow |  
 | bip_39_word_space_0 | ['struggle', 'unusual', 'shine', 'network', 'check', 'school', 'alpha', 'round', 'glow', 'retire', 'van', 'actor'] |  
 | bip_39_word_space_1 | struggle |  
 | bip_39_word_space_10 | struggle unusual shine network check school alpha round glow retire |  

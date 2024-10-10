@@ -122,6 +122,18 @@ road
 divide
 deal
 bounce |  
+| bip_39_word_no_space_1 | fever |  
+| bip_39_word_no_space_10 | fevergoldessayharvestgardenroaddividedealbouncesomeone |  
+| bip_39_word_no_space_11 | fevergoldessayharvestgardenroaddividedealbouncesomeonevacuum |  
+| bip_39_word_no_space_12 | fevergoldessayharvestgardenroaddividedealbouncesomeonevacuumauthor |  
+| bip_39_word_no_space_2 | fevergold |  
+| bip_39_word_no_space_3 | fevergoldessay |  
+| bip_39_word_no_space_4 | fevergoldessayharvest |  
+| bip_39_word_no_space_5 | fevergoldessayharvestgarden |  
+| bip_39_word_no_space_6 | fevergoldessayharvestgardenroad |  
+| bip_39_word_no_space_7 | fevergoldessayharvestgardenroaddivide |  
+| bip_39_word_no_space_8 | fevergoldessayharvestgardenroaddividedeal |  
+| bip_39_word_no_space_9 | fevergoldessayharvestgardenroaddividedealbounce |  
 | bip_39_word_space_0 | ['fever', 'gold', 'essay', 'harvest', 'garden', 'road', 'divide', 'deal', 'bounce', 'someone', 'vacuum', 'author'] |  
 | bip_39_word_space_1 | fever |  
 | bip_39_word_space_10 | fever gold essay harvest garden road divide deal bounce someone |  

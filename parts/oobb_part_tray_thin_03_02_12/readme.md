@@ -122,6 +122,18 @@ exit
 dust
 gospel
 harsh |  
+| bip_39_word_no_space_1 | portion |  
+| bip_39_word_no_space_10 | portionplugsincewoolpitchexitdustgospelharshcrystal |  
+| bip_39_word_no_space_11 | portionplugsincewoolpitchexitdustgospelharshcrystalsoup |  
+| bip_39_word_no_space_12 | portionplugsincewoolpitchexitdustgospelharshcrystalsoupamateur |  
+| bip_39_word_no_space_2 | portionplug |  
+| bip_39_word_no_space_3 | portionplugsince |  
+| bip_39_word_no_space_4 | portionplugsincewool |  
+| bip_39_word_no_space_5 | portionplugsincewoolpitch |  
+| bip_39_word_no_space_6 | portionplugsincewoolpitchexit |  
+| bip_39_word_no_space_7 | portionplugsincewoolpitchexitdust |  
+| bip_39_word_no_space_8 | portionplugsincewoolpitchexitdustgospel |  
+| bip_39_word_no_space_9 | portionplugsincewoolpitchexitdustgospelharsh |  
 | bip_39_word_space_0 | ['portion', 'plug', 'since', 'wool', 'pitch', 'exit', 'dust', 'gospel', 'harsh', 'crystal', 'soup', 'amateur'] |  
 | bip_39_word_space_1 | portion |  
 | bip_39_word_space_10 | portion plug since wool pitch exit dust gospel harsh crystal |  

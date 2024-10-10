@@ -122,6 +122,18 @@ acquire
 chest
 surprise
 scrub |  
+| bip_39_word_no_space_1 | review |  
+| bip_39_word_no_space_10 | reviewtypefiscaleyebrowmarginacquirechestsurprisescrublunch |  
+| bip_39_word_no_space_11 | reviewtypefiscaleyebrowmarginacquirechestsurprisescrubluncherode |  
+| bip_39_word_no_space_12 | reviewtypefiscaleyebrowmarginacquirechestsurprisescrubluncherodeadmit |  
+| bip_39_word_no_space_2 | reviewtype |  
+| bip_39_word_no_space_3 | reviewtypefiscal |  
+| bip_39_word_no_space_4 | reviewtypefiscaleyebrow |  
+| bip_39_word_no_space_5 | reviewtypefiscaleyebrowmargin |  
+| bip_39_word_no_space_6 | reviewtypefiscaleyebrowmarginacquire |  
+| bip_39_word_no_space_7 | reviewtypefiscaleyebrowmarginacquirechest |  
+| bip_39_word_no_space_8 | reviewtypefiscaleyebrowmarginacquirechestsurprise |  
+| bip_39_word_no_space_9 | reviewtypefiscaleyebrowmarginacquirechestsurprisescrub |  
 | bip_39_word_space_0 | ['review', 'type', 'fiscal', 'eyebrow', 'margin', 'acquire', 'chest', 'surprise', 'scrub', 'lunch', 'erode', 'admit'] |  
 | bip_39_word_space_1 | review |  
 | bip_39_word_space_10 | review type fiscal eyebrow margin acquire chest surprise scrub lunch |  

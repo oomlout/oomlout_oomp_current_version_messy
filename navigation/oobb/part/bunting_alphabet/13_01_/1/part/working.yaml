@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gaze
   romance
 
   region'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazefabrichopesooncastleyouhybridromanceregionman
+bip_39_word_no_space_11: gazefabrichopesooncastleyouhybridromanceregionmanpopular
+bip_39_word_no_space_12: gazefabrichopesooncastleyouhybridromanceregionmanpopularassist
+bip_39_word_no_space_2: gazefabric
+bip_39_word_no_space_3: gazefabrichope
+bip_39_word_no_space_4: gazefabrichopesoon
+bip_39_word_no_space_5: gazefabrichopesooncastle
+bip_39_word_no_space_6: gazefabrichopesooncastleyou
+bip_39_word_no_space_7: gazefabrichopesooncastleyouhybrid
+bip_39_word_no_space_8: gazefabrichopesooncastleyouhybridromance
+bip_39_word_no_space_9: gazefabrichopesooncastleyouhybridromanceregion
 bip_39_word_space_0:
 - gaze
 - fabric

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wasp
   travel
 
   word'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspproduceduckecologybusinessfloatabletravelwordabuse
+bip_39_word_no_space_11: waspproduceduckecologybusinessfloatabletravelwordabusethis
+bip_39_word_no_space_12: waspproduceduckecologybusinessfloatabletravelwordabusethisall
+bip_39_word_no_space_2: waspproduce
+bip_39_word_no_space_3: waspproduceduck
+bip_39_word_no_space_4: waspproduceduckecology
+bip_39_word_no_space_5: waspproduceduckecologybusiness
+bip_39_word_no_space_6: waspproduceduckecologybusinessfloat
+bip_39_word_no_space_7: waspproduceduckecologybusinessfloatable
+bip_39_word_no_space_8: waspproduceduckecologybusinessfloatabletravel
+bip_39_word_no_space_9: waspproduceduckecologybusinessfloatabletravelword
 bip_39_word_space_0:
 - wasp
 - produce

@@ -122,6 +122,18 @@ jeans
 arm
 boring
 security |  
+| bip_39_word_no_space_1 | giant |  
+| bip_39_word_no_space_10 | giantdomainriskstuffsimilarjeansarmboringsecuritytravel |  
+| bip_39_word_no_space_11 | giantdomainriskstuffsimilarjeansarmboringsecuritytravelmisery |  
+| bip_39_word_no_space_12 | giantdomainriskstuffsimilarjeansarmboringsecuritytravelmiseryapprove |  
+| bip_39_word_no_space_2 | giantdomain |  
+| bip_39_word_no_space_3 | giantdomainrisk |  
+| bip_39_word_no_space_4 | giantdomainriskstuff |  
+| bip_39_word_no_space_5 | giantdomainriskstuffsimilar |  
+| bip_39_word_no_space_6 | giantdomainriskstuffsimilarjeans |  
+| bip_39_word_no_space_7 | giantdomainriskstuffsimilarjeansarm |  
+| bip_39_word_no_space_8 | giantdomainriskstuffsimilarjeansarmboring |  
+| bip_39_word_no_space_9 | giantdomainriskstuffsimilarjeansarmboringsecurity |  
 | bip_39_word_space_0 | ['giant', 'domain', 'risk', 'stuff', 'similar', 'jeans', 'arm', 'boring', 'security', 'travel', 'misery', 'approve'] |  
 | bip_39_word_space_1 | giant |  
 | bip_39_word_space_10 | giant domain risk stuff similar jeans arm boring security travel |  

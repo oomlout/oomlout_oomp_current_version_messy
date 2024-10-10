@@ -122,6 +122,18 @@ judge
 ladder
 cupboard
 focus |  
+| bip_39_word_no_space_1 | pair |  
+| bip_39_word_no_space_10 | paircraneviciousthumbvillagejudgeladdercupboardfocusdiet |  
+| bip_39_word_no_space_11 | paircraneviciousthumbvillagejudgeladdercupboardfocusdietjungle |  
+| bip_39_word_no_space_12 | paircraneviciousthumbvillagejudgeladdercupboardfocusdietjungleability |  
+| bip_39_word_no_space_2 | paircrane |  
+| bip_39_word_no_space_3 | paircranevicious |  
+| bip_39_word_no_space_4 | paircraneviciousthumb |  
+| bip_39_word_no_space_5 | paircraneviciousthumbvillage |  
+| bip_39_word_no_space_6 | paircraneviciousthumbvillagejudge |  
+| bip_39_word_no_space_7 | paircraneviciousthumbvillagejudgeladder |  
+| bip_39_word_no_space_8 | paircraneviciousthumbvillagejudgeladdercupboard |  
+| bip_39_word_no_space_9 | paircraneviciousthumbvillagejudgeladdercupboardfocus |  
 | bip_39_word_space_0 | ['pair', 'crane', 'vicious', 'thumb', 'village', 'judge', 'ladder', 'cupboard', 'focus', 'diet', 'jungle', 'ability'] |  
 | bip_39_word_space_1 | pair |  
 | bip_39_word_space_10 | pair crane vicious thumb village judge ladder cupboard focus diet |  

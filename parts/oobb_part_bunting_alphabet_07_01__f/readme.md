@@ -122,6 +122,18 @@ earth
 interest
 list
 later |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosionnaivecrushhealthsinceearthinterestlistlaterreduce |  
+| bip_39_word_no_space_11 | erosionnaivecrushhealthsinceearthinterestlistlaterreducevoyage |  
+| bip_39_word_no_space_12 | erosionnaivecrushhealthsinceearthinterestlistlaterreducevoyagealpha |  
+| bip_39_word_no_space_2 | erosionnaive |  
+| bip_39_word_no_space_3 | erosionnaivecrush |  
+| bip_39_word_no_space_4 | erosionnaivecrushhealth |  
+| bip_39_word_no_space_5 | erosionnaivecrushhealthsince |  
+| bip_39_word_no_space_6 | erosionnaivecrushhealthsinceearth |  
+| bip_39_word_no_space_7 | erosionnaivecrushhealthsinceearthinterest |  
+| bip_39_word_no_space_8 | erosionnaivecrushhealthsinceearthinterestlist |  
+| bip_39_word_no_space_9 | erosionnaivecrushhealthsinceearthinterestlistlater |  
 | bip_39_word_space_0 | ['erosion', 'naive', 'crush', 'health', 'since', 'earth', 'interest', 'list', 'later', 'reduce', 'voyage', 'alpha'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion naive crush health since earth interest list later reduce |  

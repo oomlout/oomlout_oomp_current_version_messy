@@ -122,6 +122,18 @@ escape
 length
 chicken
 divorce |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thatmosquitocongressluckyspawnescapelengthchickendivorcerelax |  
+| bip_39_word_no_space_11 | thatmosquitocongressluckyspawnescapelengthchickendivorcerelaxagent |  
+| bip_39_word_no_space_12 | thatmosquitocongressluckyspawnescapelengthchickendivorcerelaxagentaction |  
+| bip_39_word_no_space_2 | thatmosquito |  
+| bip_39_word_no_space_3 | thatmosquitocongress |  
+| bip_39_word_no_space_4 | thatmosquitocongresslucky |  
+| bip_39_word_no_space_5 | thatmosquitocongressluckyspawn |  
+| bip_39_word_no_space_6 | thatmosquitocongressluckyspawnescape |  
+| bip_39_word_no_space_7 | thatmosquitocongressluckyspawnescapelength |  
+| bip_39_word_no_space_8 | thatmosquitocongressluckyspawnescapelengthchicken |  
+| bip_39_word_no_space_9 | thatmosquitocongressluckyspawnescapelengthchickendivorce |  
 | bip_39_word_space_0 | ['that', 'mosquito', 'congress', 'lucky', 'spawn', 'escape', 'length', 'chicken', 'divorce', 'relax', 'agent', 'action'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that mosquito congress lucky spawn escape length chicken divorce relax |  

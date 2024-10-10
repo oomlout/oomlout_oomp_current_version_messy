@@ -122,6 +122,18 @@ pluck
 flat
 craft
 blade |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefspherepupilmandatemathpluckflatcraftbladeglide |  
+| bip_39_word_no_space_11 | chefspherepupilmandatemathpluckflatcraftbladeglideuncle |  
+| bip_39_word_no_space_12 | chefspherepupilmandatemathpluckflatcraftbladeglideuncleapart |  
+| bip_39_word_no_space_2 | chefsphere |  
+| bip_39_word_no_space_3 | chefspherepupil |  
+| bip_39_word_no_space_4 | chefspherepupilmandate |  
+| bip_39_word_no_space_5 | chefspherepupilmandatemath |  
+| bip_39_word_no_space_6 | chefspherepupilmandatemathpluck |  
+| bip_39_word_no_space_7 | chefspherepupilmandatemathpluckflat |  
+| bip_39_word_no_space_8 | chefspherepupilmandatemathpluckflatcraft |  
+| bip_39_word_no_space_9 | chefspherepupilmandatemathpluckflatcraftblade |  
 | bip_39_word_space_0 | ['chef', 'sphere', 'pupil', 'mandate', 'math', 'pluck', 'flat', 'craft', 'blade', 'glide', 'uncle', 'apart'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef sphere pupil mandate math pluck flat craft blade glide |  

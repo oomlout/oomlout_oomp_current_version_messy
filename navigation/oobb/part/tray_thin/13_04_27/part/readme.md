@@ -122,6 +122,18 @@ gadget
 cruel
 bronze
 october |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermaze |  
+| bip_39_word_no_space_11 | exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermazefoot |  
+| bip_39_word_no_space_12 | exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermazefootattack |  
+| bip_39_word_no_space_2 | exhaustrepeat |  
+| bip_39_word_no_space_3 | exhaustrepeatvolume |  
+| bip_39_word_no_space_4 | exhaustrepeatvolumemake |  
+| bip_39_word_no_space_5 | exhaustrepeatvolumemakedevice |  
+| bip_39_word_no_space_6 | exhaustrepeatvolumemakedevicegadget |  
+| bip_39_word_no_space_7 | exhaustrepeatvolumemakedevicegadgetcruel |  
+| bip_39_word_no_space_8 | exhaustrepeatvolumemakedevicegadgetcruelbronze |  
+| bip_39_word_no_space_9 | exhaustrepeatvolumemakedevicegadgetcruelbronzeoctober |  
 | bip_39_word_space_0 | ['exhaust', 'repeat', 'volume', 'make', 'device', 'gadget', 'cruel', 'bronze', 'october', 'maze', 'foot', 'attack'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust repeat volume make device gadget cruel bronze october maze |  

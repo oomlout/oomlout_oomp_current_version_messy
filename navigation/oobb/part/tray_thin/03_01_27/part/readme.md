@@ -122,6 +122,18 @@ wire
 thing
 shrimp
 double |  
+| bip_39_word_no_space_1 | purity |  
+| bip_39_word_no_space_10 | puritylifeparadeunveilbarwirethingshrimpdoubletruth |  
+| bip_39_word_no_space_11 | puritylifeparadeunveilbarwirethingshrimpdoubletruthbudget |  
+| bip_39_word_no_space_12 | puritylifeparadeunveilbarwirethingshrimpdoubletruthbudgetamount |  
+| bip_39_word_no_space_2 | puritylife |  
+| bip_39_word_no_space_3 | puritylifeparade |  
+| bip_39_word_no_space_4 | puritylifeparadeunveil |  
+| bip_39_word_no_space_5 | puritylifeparadeunveilbar |  
+| bip_39_word_no_space_6 | puritylifeparadeunveilbarwire |  
+| bip_39_word_no_space_7 | puritylifeparadeunveilbarwirething |  
+| bip_39_word_no_space_8 | puritylifeparadeunveilbarwirethingshrimp |  
+| bip_39_word_no_space_9 | puritylifeparadeunveilbarwirethingshrimpdouble |  
 | bip_39_word_space_0 | ['purity', 'life', 'parade', 'unveil', 'bar', 'wire', 'thing', 'shrimp', 'double', 'truth', 'budget', 'amount'] |  
 | bip_39_word_space_1 | purity |  
 | bip_39_word_space_10 | purity life parade unveil bar wire thing shrimp double truth |  

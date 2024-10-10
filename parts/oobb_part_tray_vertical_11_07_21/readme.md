@@ -122,6 +122,18 @@ spin
 defy
 hammer
 denial |  
+| bip_39_word_no_space_1 | clarify |  
+| bip_39_word_no_space_10 | clarifyforwardthenhairwallspindefyhammerdenialvalid |  
+| bip_39_word_no_space_11 | clarifyforwardthenhairwallspindefyhammerdenialvalidsustain |  
+| bip_39_word_no_space_12 | clarifyforwardthenhairwallspindefyhammerdenialvalidsustainaisle |  
+| bip_39_word_no_space_2 | clarifyforward |  
+| bip_39_word_no_space_3 | clarifyforwardthen |  
+| bip_39_word_no_space_4 | clarifyforwardthenhair |  
+| bip_39_word_no_space_5 | clarifyforwardthenhairwall |  
+| bip_39_word_no_space_6 | clarifyforwardthenhairwallspin |  
+| bip_39_word_no_space_7 | clarifyforwardthenhairwallspindefy |  
+| bip_39_word_no_space_8 | clarifyforwardthenhairwallspindefyhammer |  
+| bip_39_word_no_space_9 | clarifyforwardthenhairwallspindefyhammerdenial |  
 | bip_39_word_space_0 | ['clarify', 'forward', 'then', 'hair', 'wall', 'spin', 'defy', 'hammer', 'denial', 'valid', 'sustain', 'aisle'] |  
 | bip_39_word_space_1 | clarify |  
 | bip_39_word_space_10 | clarify forward then hair wall spin defy hammer denial valid |  

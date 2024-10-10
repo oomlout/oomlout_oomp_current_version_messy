@@ -122,6 +122,18 @@ pave
 fence
 olive
 funny |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flamejacketsniffluckypointpavefenceolivefunnystill |  
+| bip_39_word_no_space_11 | flamejacketsniffluckypointpavefenceolivefunnystillabuse |  
+| bip_39_word_no_space_12 | flamejacketsniffluckypointpavefenceolivefunnystillabuseaccount |  
+| bip_39_word_no_space_2 | flamejacket |  
+| bip_39_word_no_space_3 | flamejacketsniff |  
+| bip_39_word_no_space_4 | flamejacketsnifflucky |  
+| bip_39_word_no_space_5 | flamejacketsniffluckypoint |  
+| bip_39_word_no_space_6 | flamejacketsniffluckypointpave |  
+| bip_39_word_no_space_7 | flamejacketsniffluckypointpavefence |  
+| bip_39_word_no_space_8 | flamejacketsniffluckypointpavefenceolive |  
+| bip_39_word_no_space_9 | flamejacketsniffluckypointpavefenceolivefunny |  
 | bip_39_word_space_0 | ['flame', 'jacket', 'sniff', 'lucky', 'point', 'pave', 'fence', 'olive', 'funny', 'still', 'abuse', 'account'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame jacket sniff lucky point pave fence olive funny still |  

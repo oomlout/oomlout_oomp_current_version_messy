@@ -122,6 +122,18 @@ season
 voyage
 blouse
 rail |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondobserveinmatewomanacousticseasonvoyageblouserailwait |  
+| bip_39_word_no_space_11 | secondobserveinmatewomanacousticseasonvoyageblouserailwaitevidence |  
+| bip_39_word_no_space_12 | secondobserveinmatewomanacousticseasonvoyageblouserailwaitevidenceartist |  
+| bip_39_word_no_space_2 | secondobserve |  
+| bip_39_word_no_space_3 | secondobserveinmate |  
+| bip_39_word_no_space_4 | secondobserveinmatewoman |  
+| bip_39_word_no_space_5 | secondobserveinmatewomanacoustic |  
+| bip_39_word_no_space_6 | secondobserveinmatewomanacousticseason |  
+| bip_39_word_no_space_7 | secondobserveinmatewomanacousticseasonvoyage |  
+| bip_39_word_no_space_8 | secondobserveinmatewomanacousticseasonvoyageblouse |  
+| bip_39_word_no_space_9 | secondobserveinmatewomanacousticseasonvoyageblouserail |  
 | bip_39_word_space_0 | ['second', 'observe', 'inmate', 'woman', 'acoustic', 'season', 'voyage', 'blouse', 'rail', 'wait', 'evidence', 'artist'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second observe inmate woman acoustic season voyage blouse rail wait |  

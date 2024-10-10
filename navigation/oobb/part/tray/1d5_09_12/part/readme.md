@@ -122,6 +122,18 @@ announce
 mercy
 warm
 elbow |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderprotectsizepuritystoryannouncemercywarmelbowsame |  
+| bip_39_word_no_space_11 | powderprotectsizepuritystoryannouncemercywarmelbowsamestage |  
+| bip_39_word_no_space_12 | powderprotectsizepuritystoryannouncemercywarmelbowsamestageadvice |  
+| bip_39_word_no_space_2 | powderprotect |  
+| bip_39_word_no_space_3 | powderprotectsize |  
+| bip_39_word_no_space_4 | powderprotectsizepurity |  
+| bip_39_word_no_space_5 | powderprotectsizepuritystory |  
+| bip_39_word_no_space_6 | powderprotectsizepuritystoryannounce |  
+| bip_39_word_no_space_7 | powderprotectsizepuritystoryannouncemercy |  
+| bip_39_word_no_space_8 | powderprotectsizepuritystoryannouncemercywarm |  
+| bip_39_word_no_space_9 | powderprotectsizepuritystoryannouncemercywarmelbow |  
 | bip_39_word_space_0 | ['powder', 'protect', 'size', 'purity', 'story', 'announce', 'mercy', 'warm', 'elbow', 'same', 'stage', 'advice'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder protect size purity story announce mercy warm elbow same |  

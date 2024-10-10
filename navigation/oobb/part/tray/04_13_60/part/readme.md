@@ -122,6 +122,18 @@ wish
 notable
 oven
 cactus |  
+| bip_39_word_no_space_1 | weird |  
+| bip_39_word_no_space_10 | weirdvintageleopardgameaveragewishnotableovencactuslong |  
+| bip_39_word_no_space_11 | weirdvintageleopardgameaveragewishnotableovencactuslongbind |  
+| bip_39_word_no_space_12 | weirdvintageleopardgameaveragewishnotableovencactuslongbindadapt |  
+| bip_39_word_no_space_2 | weirdvintage |  
+| bip_39_word_no_space_3 | weirdvintageleopard |  
+| bip_39_word_no_space_4 | weirdvintageleopardgame |  
+| bip_39_word_no_space_5 | weirdvintageleopardgameaverage |  
+| bip_39_word_no_space_6 | weirdvintageleopardgameaveragewish |  
+| bip_39_word_no_space_7 | weirdvintageleopardgameaveragewishnotable |  
+| bip_39_word_no_space_8 | weirdvintageleopardgameaveragewishnotableoven |  
+| bip_39_word_no_space_9 | weirdvintageleopardgameaveragewishnotableovencactus |  
 | bip_39_word_space_0 | ['weird', 'vintage', 'leopard', 'game', 'average', 'wish', 'notable', 'oven', 'cactus', 'long', 'bind', 'adapt'] |  
 | bip_39_word_space_1 | weird |  
 | bip_39_word_space_10 | weird vintage leopard game average wish notable oven cactus long |  

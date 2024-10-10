@@ -122,6 +122,18 @@ lobster
 diary
 frozen
 direct |  
+| bip_39_word_no_space_1 | depend |  
+| bip_39_word_no_space_10 | dependfoilvoyagepurityscriptlobsterdiaryfrozendirectphysical |  
+| bip_39_word_no_space_11 | dependfoilvoyagepurityscriptlobsterdiaryfrozendirectphysicallion |  
+| bip_39_word_no_space_12 | dependfoilvoyagepurityscriptlobsterdiaryfrozendirectphysicallionalcohol |  
+| bip_39_word_no_space_2 | dependfoil |  
+| bip_39_word_no_space_3 | dependfoilvoyage |  
+| bip_39_word_no_space_4 | dependfoilvoyagepurity |  
+| bip_39_word_no_space_5 | dependfoilvoyagepurityscript |  
+| bip_39_word_no_space_6 | dependfoilvoyagepurityscriptlobster |  
+| bip_39_word_no_space_7 | dependfoilvoyagepurityscriptlobsterdiary |  
+| bip_39_word_no_space_8 | dependfoilvoyagepurityscriptlobsterdiaryfrozen |  
+| bip_39_word_no_space_9 | dependfoilvoyagepurityscriptlobsterdiaryfrozendirect |  
 | bip_39_word_space_0 | ['depend', 'foil', 'voyage', 'purity', 'script', 'lobster', 'diary', 'frozen', 'direct', 'physical', 'lion', 'alcohol'] |  
 | bip_39_word_space_1 | depend |  
 | bip_39_word_space_10 | depend foil voyage purity script lobster diary frozen direct physical |  

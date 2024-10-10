@@ -122,6 +122,18 @@ goose
 prepare
 brick
 fever |  
+| bip_39_word_no_space_1 | dish |  
+| bip_39_word_no_space_10 | dishcurtainrackexpressmomgoosepreparebrickfeveradmit |  
+| bip_39_word_no_space_11 | dishcurtainrackexpressmomgoosepreparebrickfeveradmitconsider |  
+| bip_39_word_no_space_12 | dishcurtainrackexpressmomgoosepreparebrickfeveradmitconsideranswer |  
+| bip_39_word_no_space_2 | dishcurtain |  
+| bip_39_word_no_space_3 | dishcurtainrack |  
+| bip_39_word_no_space_4 | dishcurtainrackexpress |  
+| bip_39_word_no_space_5 | dishcurtainrackexpressmom |  
+| bip_39_word_no_space_6 | dishcurtainrackexpressmomgoose |  
+| bip_39_word_no_space_7 | dishcurtainrackexpressmomgooseprepare |  
+| bip_39_word_no_space_8 | dishcurtainrackexpressmomgoosepreparebrick |  
+| bip_39_word_no_space_9 | dishcurtainrackexpressmomgoosepreparebrickfever |  
 | bip_39_word_space_0 | ['dish', 'curtain', 'rack', 'express', 'mom', 'goose', 'prepare', 'brick', 'fever', 'admit', 'consider', 'answer'] |  
 | bip_39_word_space_1 | dish |  
 | bip_39_word_space_10 | dish curtain rack express mom goose prepare brick fever admit |  

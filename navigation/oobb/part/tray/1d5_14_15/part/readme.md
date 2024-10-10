@@ -122,6 +122,18 @@ have
 round
 happy
 park |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccerboardprogrammatterbaconhaveroundhappyparkservice |  
+| bip_39_word_no_space_11 | soccerboardprogrammatterbaconhaveroundhappyparkservicecanoe |  
+| bip_39_word_no_space_12 | soccerboardprogrammatterbaconhaveroundhappyparkservicecanoeassault |  
+| bip_39_word_no_space_2 | soccerboard |  
+| bip_39_word_no_space_3 | soccerboardprogram |  
+| bip_39_word_no_space_4 | soccerboardprogrammatter |  
+| bip_39_word_no_space_5 | soccerboardprogrammatterbacon |  
+| bip_39_word_no_space_6 | soccerboardprogrammatterbaconhave |  
+| bip_39_word_no_space_7 | soccerboardprogrammatterbaconhaveround |  
+| bip_39_word_no_space_8 | soccerboardprogrammatterbaconhaveroundhappy |  
+| bip_39_word_no_space_9 | soccerboardprogrammatterbaconhaveroundhappypark |  
 | bip_39_word_space_0 | ['soccer', 'board', 'program', 'matter', 'bacon', 'have', 'round', 'happy', 'park', 'service', 'canoe', 'assault'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer board program matter bacon have round happy park service |  

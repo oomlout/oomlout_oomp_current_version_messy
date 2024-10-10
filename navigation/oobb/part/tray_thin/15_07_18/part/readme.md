@@ -122,6 +122,18 @@ shrug
 valid
 silly
 odor |  
+| bip_39_word_no_space_1 | cereal |  
+| bip_39_word_no_space_10 | cerealwaterfishgirlonceshrugvalidsillyodornetwork |  
+| bip_39_word_no_space_11 | cerealwaterfishgirlonceshrugvalidsillyodornetworkoppose |  
+| bip_39_word_no_space_12 | cerealwaterfishgirlonceshrugvalidsillyodornetworkopposeangle |  
+| bip_39_word_no_space_2 | cerealwater |  
+| bip_39_word_no_space_3 | cerealwaterfish |  
+| bip_39_word_no_space_4 | cerealwaterfishgirl |  
+| bip_39_word_no_space_5 | cerealwaterfishgirlonce |  
+| bip_39_word_no_space_6 | cerealwaterfishgirlonceshrug |  
+| bip_39_word_no_space_7 | cerealwaterfishgirlonceshrugvalid |  
+| bip_39_word_no_space_8 | cerealwaterfishgirlonceshrugvalidsilly |  
+| bip_39_word_no_space_9 | cerealwaterfishgirlonceshrugvalidsillyodor |  
 | bip_39_word_space_0 | ['cereal', 'water', 'fish', 'girl', 'once', 'shrug', 'valid', 'silly', 'odor', 'network', 'oppose', 'angle'] |  
 | bip_39_word_space_1 | cereal |  
 | bip_39_word_space_10 | cereal water fish girl once shrug valid silly odor network |  

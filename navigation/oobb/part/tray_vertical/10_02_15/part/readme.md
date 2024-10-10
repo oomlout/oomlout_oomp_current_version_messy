@@ -122,6 +122,18 @@ settle
 upset
 doctor
 term |  
+| bip_39_word_no_space_1 | enact |  
+| bip_39_word_no_space_10 | enactsoonchoicefuelsoulsettleupsetdoctortermmath |  
+| bip_39_word_no_space_11 | enactsoonchoicefuelsoulsettleupsetdoctortermmathdilemma |  
+| bip_39_word_no_space_12 | enactsoonchoicefuelsoulsettleupsetdoctortermmathdilemmaaccount |  
+| bip_39_word_no_space_2 | enactsoon |  
+| bip_39_word_no_space_3 | enactsoonchoice |  
+| bip_39_word_no_space_4 | enactsoonchoicefuel |  
+| bip_39_word_no_space_5 | enactsoonchoicefuelsoul |  
+| bip_39_word_no_space_6 | enactsoonchoicefuelsoulsettle |  
+| bip_39_word_no_space_7 | enactsoonchoicefuelsoulsettleupset |  
+| bip_39_word_no_space_8 | enactsoonchoicefuelsoulsettleupsetdoctor |  
+| bip_39_word_no_space_9 | enactsoonchoicefuelsoulsettleupsetdoctorterm |  
 | bip_39_word_space_0 | ['enact', 'soon', 'choice', 'fuel', 'soul', 'settle', 'upset', 'doctor', 'term', 'math', 'dilemma', 'account'] |  
 | bip_39_word_space_1 | enact |  
 | bip_39_word_space_10 | enact soon choice fuel soul settle upset doctor term math |  

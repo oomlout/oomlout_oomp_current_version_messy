@@ -122,6 +122,18 @@ owner
 perfect
 need
 title |  
+| bip_39_word_no_space_1 | mean |  
+| bip_39_word_no_space_10 | meanbravestrongsegmentobtainownerperfectneedtitlecheese |  
+| bip_39_word_no_space_11 | meanbravestrongsegmentobtainownerperfectneedtitlecheeseknee |  
+| bip_39_word_no_space_12 | meanbravestrongsegmentobtainownerperfectneedtitlecheesekneeagent |  
+| bip_39_word_no_space_2 | meanbrave |  
+| bip_39_word_no_space_3 | meanbravestrong |  
+| bip_39_word_no_space_4 | meanbravestrongsegment |  
+| bip_39_word_no_space_5 | meanbravestrongsegmentobtain |  
+| bip_39_word_no_space_6 | meanbravestrongsegmentobtainowner |  
+| bip_39_word_no_space_7 | meanbravestrongsegmentobtainownerperfect |  
+| bip_39_word_no_space_8 | meanbravestrongsegmentobtainownerperfectneed |  
+| bip_39_word_no_space_9 | meanbravestrongsegmentobtainownerperfectneedtitle |  
 | bip_39_word_space_0 | ['mean', 'brave', 'strong', 'segment', 'obtain', 'owner', 'perfect', 'need', 'title', 'cheese', 'knee', 'agent'] |  
 | bip_39_word_space_1 | mean |  
 | bip_39_word_space_10 | mean brave strong segment obtain owner perfect need title cheese |  

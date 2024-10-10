@@ -122,6 +122,18 @@ talk
 field
 frame
 ocean |  
+| bip_39_word_no_space_1 | make |  
+| bip_39_word_no_space_10 | makeinquirydivorceoftenpalmtalkfieldframeoceanostrich |  
+| bip_39_word_no_space_11 | makeinquirydivorceoftenpalmtalkfieldframeoceanostrichdeal |  
+| bip_39_word_no_space_12 | makeinquirydivorceoftenpalmtalkfieldframeoceanostrichdealamong |  
+| bip_39_word_no_space_2 | makeinquiry |  
+| bip_39_word_no_space_3 | makeinquirydivorce |  
+| bip_39_word_no_space_4 | makeinquirydivorceoften |  
+| bip_39_word_no_space_5 | makeinquirydivorceoftenpalm |  
+| bip_39_word_no_space_6 | makeinquirydivorceoftenpalmtalk |  
+| bip_39_word_no_space_7 | makeinquirydivorceoftenpalmtalkfield |  
+| bip_39_word_no_space_8 | makeinquirydivorceoftenpalmtalkfieldframe |  
+| bip_39_word_no_space_9 | makeinquirydivorceoftenpalmtalkfieldframeocean |  
 | bip_39_word_space_0 | ['make', 'inquiry', 'divorce', 'often', 'palm', 'talk', 'field', 'frame', 'ocean', 'ostrich', 'deal', 'among'] |  
 | bip_39_word_space_1 | make |  
 | bip_39_word_space_10 | make inquiry divorce often palm talk field frame ocean ostrich |  

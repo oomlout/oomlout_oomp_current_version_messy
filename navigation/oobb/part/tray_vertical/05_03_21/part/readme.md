@@ -122,6 +122,18 @@ tree
 black
 tip
 decrease |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidayangereasilythumbcredittreeblacktipdecreaseschool |  
+| bip_39_word_no_space_11 | holidayangereasilythumbcredittreeblacktipdecreaseschoolpair |  
+| bip_39_word_no_space_12 | holidayangereasilythumbcredittreeblacktipdecreaseschoolpairadd |  
+| bip_39_word_no_space_2 | holidayanger |  
+| bip_39_word_no_space_3 | holidayangereasily |  
+| bip_39_word_no_space_4 | holidayangereasilythumb |  
+| bip_39_word_no_space_5 | holidayangereasilythumbcredit |  
+| bip_39_word_no_space_6 | holidayangereasilythumbcredittree |  
+| bip_39_word_no_space_7 | holidayangereasilythumbcredittreeblack |  
+| bip_39_word_no_space_8 | holidayangereasilythumbcredittreeblacktip |  
+| bip_39_word_no_space_9 | holidayangereasilythumbcredittreeblacktipdecrease |  
 | bip_39_word_space_0 | ['holiday', 'anger', 'easily', 'thumb', 'credit', 'tree', 'black', 'tip', 'decrease', 'school', 'pair', 'add'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday anger easily thumb credit tree black tip decrease school |  

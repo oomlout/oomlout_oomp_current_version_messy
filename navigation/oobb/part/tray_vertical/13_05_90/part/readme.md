@@ -122,6 +122,18 @@ magic
 reflect
 impulse
 plug |  
+| bip_39_word_no_space_1 | carbon |  
+| bip_39_word_no_space_10 | carbonupperequiplogicstartmagicreflectimpulseplugoctober |  
+| bip_39_word_no_space_11 | carbonupperequiplogicstartmagicreflectimpulseplugoctobershell |  
+| bip_39_word_no_space_12 | carbonupperequiplogicstartmagicreflectimpulseplugoctobershellamazing |  
+| bip_39_word_no_space_2 | carbonupper |  
+| bip_39_word_no_space_3 | carbonupperequip |  
+| bip_39_word_no_space_4 | carbonupperequiplogic |  
+| bip_39_word_no_space_5 | carbonupperequiplogicstart |  
+| bip_39_word_no_space_6 | carbonupperequiplogicstartmagic |  
+| bip_39_word_no_space_7 | carbonupperequiplogicstartmagicreflect |  
+| bip_39_word_no_space_8 | carbonupperequiplogicstartmagicreflectimpulse |  
+| bip_39_word_no_space_9 | carbonupperequiplogicstartmagicreflectimpulseplug |  
 | bip_39_word_space_0 | ['carbon', 'upper', 'equip', 'logic', 'start', 'magic', 'reflect', 'impulse', 'plug', 'october', 'shell', 'amazing'] |  
 | bip_39_word_space_1 | carbon |  
 | bip_39_word_space_10 | carbon upper equip logic start magic reflect impulse plug october |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'school
   plug
 
   oven'
+bip_39_word_no_space_1: school
+bip_39_word_no_space_10: schoolpopulardraftcryhumbleitemvalleyplugovenoval
+bip_39_word_no_space_11: schoolpopulardraftcryhumbleitemvalleyplugovenovaltwelve
+bip_39_word_no_space_12: schoolpopulardraftcryhumbleitemvalleyplugovenovaltwelveair
+bip_39_word_no_space_2: schoolpopular
+bip_39_word_no_space_3: schoolpopulardraft
+bip_39_word_no_space_4: schoolpopulardraftcry
+bip_39_word_no_space_5: schoolpopulardraftcryhumble
+bip_39_word_no_space_6: schoolpopulardraftcryhumbleitem
+bip_39_word_no_space_7: schoolpopulardraftcryhumbleitemvalley
+bip_39_word_no_space_8: schoolpopulardraftcryhumbleitemvalleyplug
+bip_39_word_no_space_9: schoolpopulardraftcryhumbleitemvalleyplugoven
 bip_39_word_space_0:
 - school
 - popular

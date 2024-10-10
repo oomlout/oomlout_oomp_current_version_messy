@@ -122,6 +122,18 @@ blast
 mass
 trash
 intact |  
+| bip_39_word_no_space_1 | truly |  
+| bip_39_word_no_space_10 | trulysighteraseflockrabbitblastmasstrashintactcancel |  
+| bip_39_word_no_space_11 | trulysighteraseflockrabbitblastmasstrashintactcancelput |  
+| bip_39_word_no_space_12 | trulysighteraseflockrabbitblastmasstrashintactcancelputadvice |  
+| bip_39_word_no_space_2 | trulysight |  
+| bip_39_word_no_space_3 | trulysighterase |  
+| bip_39_word_no_space_4 | trulysighteraseflock |  
+| bip_39_word_no_space_5 | trulysighteraseflockrabbit |  
+| bip_39_word_no_space_6 | trulysighteraseflockrabbitblast |  
+| bip_39_word_no_space_7 | trulysighteraseflockrabbitblastmass |  
+| bip_39_word_no_space_8 | trulysighteraseflockrabbitblastmasstrash |  
+| bip_39_word_no_space_9 | trulysighteraseflockrabbitblastmasstrashintact |  
 | bip_39_word_space_0 | ['truly', 'sight', 'erase', 'flock', 'rabbit', 'blast', 'mass', 'trash', 'intact', 'cancel', 'put', 'advice'] |  
 | bip_39_word_space_1 | truly |  
 | bip_39_word_space_10 | truly sight erase flock rabbit blast mass trash intact cancel |  

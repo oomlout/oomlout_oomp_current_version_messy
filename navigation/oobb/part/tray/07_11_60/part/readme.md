@@ -122,6 +122,18 @@ yellow
 cabbage
 huge
 next |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementchaosharshattackrichyellowcabbagehugenextcloud |  
+| bip_39_word_no_space_11 | elementchaosharshattackrichyellowcabbagehugenextcloudescape |  
+| bip_39_word_no_space_12 | elementchaosharshattackrichyellowcabbagehugenextcloudescapeaverage |  
+| bip_39_word_no_space_2 | elementchaos |  
+| bip_39_word_no_space_3 | elementchaosharsh |  
+| bip_39_word_no_space_4 | elementchaosharshattack |  
+| bip_39_word_no_space_5 | elementchaosharshattackrich |  
+| bip_39_word_no_space_6 | elementchaosharshattackrichyellow |  
+| bip_39_word_no_space_7 | elementchaosharshattackrichyellowcabbage |  
+| bip_39_word_no_space_8 | elementchaosharshattackrichyellowcabbagehuge |  
+| bip_39_word_no_space_9 | elementchaosharshattackrichyellowcabbagehugenext |  
 | bip_39_word_space_0 | ['element', 'chaos', 'harsh', 'attack', 'rich', 'yellow', 'cabbage', 'huge', 'next', 'cloud', 'escape', 'average'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element chaos harsh attack rich yellow cabbage huge next cloud |  

@@ -122,6 +122,18 @@ dwarf
 demise
 capable
 robust |  
+| bip_39_word_no_space_1 | tuna |  
+| bip_39_word_no_space_10 | tunavenuenuclearshrimpimpulsedwarfdemisecapablerobustvibrant |  
+| bip_39_word_no_space_11 | tunavenuenuclearshrimpimpulsedwarfdemisecapablerobustvibrantmelt |  
+| bip_39_word_no_space_12 | tunavenuenuclearshrimpimpulsedwarfdemisecapablerobustvibrantmeltalone |  
+| bip_39_word_no_space_2 | tunavenue |  
+| bip_39_word_no_space_3 | tunavenuenuclear |  
+| bip_39_word_no_space_4 | tunavenuenuclearshrimp |  
+| bip_39_word_no_space_5 | tunavenuenuclearshrimpimpulse |  
+| bip_39_word_no_space_6 | tunavenuenuclearshrimpimpulsedwarf |  
+| bip_39_word_no_space_7 | tunavenuenuclearshrimpimpulsedwarfdemise |  
+| bip_39_word_no_space_8 | tunavenuenuclearshrimpimpulsedwarfdemisecapable |  
+| bip_39_word_no_space_9 | tunavenuenuclearshrimpimpulsedwarfdemisecapablerobust |  
 | bip_39_word_space_0 | ['tuna', 'venue', 'nuclear', 'shrimp', 'impulse', 'dwarf', 'demise', 'capable', 'robust', 'vibrant', 'melt', 'alone'] |  
 | bip_39_word_space_1 | tuna |  
 | bip_39_word_space_10 | tuna venue nuclear shrimp impulse dwarf demise capable robust vibrant |  

@@ -122,6 +122,18 @@ banner
 guide
 say
 crazy |  
+| bip_39_word_no_space_1 | cliff |  
+| bip_39_word_no_space_10 | cliffmusicnoodleshellovenbannerguidesaycrazyshoot |  
+| bip_39_word_no_space_11 | cliffmusicnoodleshellovenbannerguidesaycrazyshootcigar |  
+| bip_39_word_no_space_12 | cliffmusicnoodleshellovenbannerguidesaycrazyshootcigaranger |  
+| bip_39_word_no_space_2 | cliffmusic |  
+| bip_39_word_no_space_3 | cliffmusicnoodle |  
+| bip_39_word_no_space_4 | cliffmusicnoodleshell |  
+| bip_39_word_no_space_5 | cliffmusicnoodleshelloven |  
+| bip_39_word_no_space_6 | cliffmusicnoodleshellovenbanner |  
+| bip_39_word_no_space_7 | cliffmusicnoodleshellovenbannerguide |  
+| bip_39_word_no_space_8 | cliffmusicnoodleshellovenbannerguidesay |  
+| bip_39_word_no_space_9 | cliffmusicnoodleshellovenbannerguidesaycrazy |  
 | bip_39_word_space_0 | ['cliff', 'music', 'noodle', 'shell', 'oven', 'banner', 'guide', 'say', 'crazy', 'shoot', 'cigar', 'anger'] |  
 | bip_39_word_space_1 | cliff |  
 | bip_39_word_space_10 | cliff music noodle shell oven banner guide say crazy shoot |  

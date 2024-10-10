@@ -122,6 +122,18 @@ hip
 fossil
 squeeze
 bike |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicstyleshortfetchexplainhipfossilsqueezebikeright |  
+| bip_39_word_no_space_11 | picnicstyleshortfetchexplainhipfossilsqueezebikerightoutdoor |  
+| bip_39_word_no_space_12 | picnicstyleshortfetchexplainhipfossilsqueezebikerightoutdooramazing |  
+| bip_39_word_no_space_2 | picnicstyle |  
+| bip_39_word_no_space_3 | picnicstyleshort |  
+| bip_39_word_no_space_4 | picnicstyleshortfetch |  
+| bip_39_word_no_space_5 | picnicstyleshortfetchexplain |  
+| bip_39_word_no_space_6 | picnicstyleshortfetchexplainhip |  
+| bip_39_word_no_space_7 | picnicstyleshortfetchexplainhipfossil |  
+| bip_39_word_no_space_8 | picnicstyleshortfetchexplainhipfossilsqueeze |  
+| bip_39_word_no_space_9 | picnicstyleshortfetchexplainhipfossilsqueezebike |  
 | bip_39_word_space_0 | ['picnic', 'style', 'short', 'fetch', 'explain', 'hip', 'fossil', 'squeeze', 'bike', 'right', 'outdoor', 'amazing'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic style short fetch explain hip fossil squeeze bike right |  

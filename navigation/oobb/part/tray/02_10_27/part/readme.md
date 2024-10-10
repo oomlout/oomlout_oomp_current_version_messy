@@ -122,6 +122,18 @@ reduce
 novel
 flavor
 stereo |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employignorenumbereternaldietreducenovelflavorstereoall |  
+| bip_39_word_no_space_11 | employignorenumbereternaldietreducenovelflavorstereoallhover |  
+| bip_39_word_no_space_12 | employignorenumbereternaldietreducenovelflavorstereoallhoveralien |  
+| bip_39_word_no_space_2 | employignore |  
+| bip_39_word_no_space_3 | employignorenumber |  
+| bip_39_word_no_space_4 | employignorenumbereternal |  
+| bip_39_word_no_space_5 | employignorenumbereternaldiet |  
+| bip_39_word_no_space_6 | employignorenumbereternaldietreduce |  
+| bip_39_word_no_space_7 | employignorenumbereternaldietreducenovel |  
+| bip_39_word_no_space_8 | employignorenumbereternaldietreducenovelflavor |  
+| bip_39_word_no_space_9 | employignorenumbereternaldietreducenovelflavorstereo |  
 | bip_39_word_space_0 | ['employ', 'ignore', 'number', 'eternal', 'diet', 'reduce', 'novel', 'flavor', 'stereo', 'all', 'hover', 'alien'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ ignore number eternal diet reduce novel flavor stereo all |  

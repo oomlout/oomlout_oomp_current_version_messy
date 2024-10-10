@@ -122,6 +122,18 @@ brush
 express
 open
 hobby |  
+| bip_39_word_no_space_1 | steel |  
+| bip_39_word_no_space_10 | steelloanpactstuffalsobrushexpressopenhobbyfalse |  
+| bip_39_word_no_space_11 | steelloanpactstuffalsobrushexpressopenhobbyfalsesilver |  
+| bip_39_word_no_space_12 | steelloanpactstuffalsobrushexpressopenhobbyfalsesilverathlete |  
+| bip_39_word_no_space_2 | steelloan |  
+| bip_39_word_no_space_3 | steelloanpact |  
+| bip_39_word_no_space_4 | steelloanpactstuff |  
+| bip_39_word_no_space_5 | steelloanpactstuffalso |  
+| bip_39_word_no_space_6 | steelloanpactstuffalsobrush |  
+| bip_39_word_no_space_7 | steelloanpactstuffalsobrushexpress |  
+| bip_39_word_no_space_8 | steelloanpactstuffalsobrushexpressopen |  
+| bip_39_word_no_space_9 | steelloanpactstuffalsobrushexpressopenhobby |  
 | bip_39_word_space_0 | ['steel', 'loan', 'pact', 'stuff', 'also', 'brush', 'express', 'open', 'hobby', 'false', 'silver', 'athlete'] |  
 | bip_39_word_space_1 | steel |  
 | bip_39_word_space_10 | steel loan pact stuff also brush express open hobby false |  

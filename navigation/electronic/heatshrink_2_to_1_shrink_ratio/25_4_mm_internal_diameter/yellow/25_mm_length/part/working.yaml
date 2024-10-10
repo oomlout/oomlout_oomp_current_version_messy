@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rib
   tip
 
   usage'
+bip_39_word_no_space_1: rib
+bip_39_word_no_space_10: ribguiltmeshgallerypeoplemixedritualtipusageallow
+bip_39_word_no_space_11: ribguiltmeshgallerypeoplemixedritualtipusageallowdisorder
+bip_39_word_no_space_12: ribguiltmeshgallerypeoplemixedritualtipusageallowdisorderarrive
+bip_39_word_no_space_2: ribguilt
+bip_39_word_no_space_3: ribguiltmesh
+bip_39_word_no_space_4: ribguiltmeshgallery
+bip_39_word_no_space_5: ribguiltmeshgallerypeople
+bip_39_word_no_space_6: ribguiltmeshgallerypeoplemixed
+bip_39_word_no_space_7: ribguiltmeshgallerypeoplemixedritual
+bip_39_word_no_space_8: ribguiltmeshgallerypeoplemixedritualtip
+bip_39_word_no_space_9: ribguiltmeshgallerypeoplemixedritualtipusage
 bip_39_word_space_0:
 - rib
 - guilt

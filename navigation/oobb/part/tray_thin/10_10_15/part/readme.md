@@ -122,6 +122,18 @@ town
 basket
 cube
 spoil |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectanswerodorinsanerosetownbasketcubespoilearth |  
+| bip_39_word_no_space_11 | perfectanswerodorinsanerosetownbasketcubespoilearthextra |  
+| bip_39_word_no_space_12 | perfectanswerodorinsanerosetownbasketcubespoilearthextraafraid |  
+| bip_39_word_no_space_2 | perfectanswer |  
+| bip_39_word_no_space_3 | perfectanswerodor |  
+| bip_39_word_no_space_4 | perfectanswerodorinsane |  
+| bip_39_word_no_space_5 | perfectanswerodorinsanerose |  
+| bip_39_word_no_space_6 | perfectanswerodorinsanerosetown |  
+| bip_39_word_no_space_7 | perfectanswerodorinsanerosetownbasket |  
+| bip_39_word_no_space_8 | perfectanswerodorinsanerosetownbasketcube |  
+| bip_39_word_no_space_9 | perfectanswerodorinsanerosetownbasketcubespoil |  
 | bip_39_word_space_0 | ['perfect', 'answer', 'odor', 'insane', 'rose', 'town', 'basket', 'cube', 'spoil', 'earth', 'extra', 'afraid'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect answer odor insane rose town basket cube spoil earth |  

@@ -122,6 +122,18 @@ force
 call
 comic
 spare |  
+| bip_39_word_no_space_1 | sketch |  
+| bip_39_word_no_space_10 | sketchbagfoxhusbanddependforcecallcomicsparewagon |  
+| bip_39_word_no_space_11 | sketchbagfoxhusbanddependforcecallcomicsparewagondraft |  
+| bip_39_word_no_space_12 | sketchbagfoxhusbanddependforcecallcomicsparewagondraftamount |  
+| bip_39_word_no_space_2 | sketchbag |  
+| bip_39_word_no_space_3 | sketchbagfox |  
+| bip_39_word_no_space_4 | sketchbagfoxhusband |  
+| bip_39_word_no_space_5 | sketchbagfoxhusbanddepend |  
+| bip_39_word_no_space_6 | sketchbagfoxhusbanddependforce |  
+| bip_39_word_no_space_7 | sketchbagfoxhusbanddependforcecall |  
+| bip_39_word_no_space_8 | sketchbagfoxhusbanddependforcecallcomic |  
+| bip_39_word_no_space_9 | sketchbagfoxhusbanddependforcecallcomicspare |  
 | bip_39_word_space_0 | ['sketch', 'bag', 'fox', 'husband', 'depend', 'force', 'call', 'comic', 'spare', 'wagon', 'draft', 'amount'] |  
 | bip_39_word_space_1 | sketch |  
 | bip_39_word_space_10 | sketch bag fox husband depend force call comic spare wagon |  

@@ -122,6 +122,18 @@ treat
 crumble
 print
 process |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactalreadymaximumvirtualspytreatcrumbleprintprocesstransfer |  
+| bip_39_word_no_space_11 | pactalreadymaximumvirtualspytreatcrumbleprintprocesstransferpush |  
+| bip_39_word_no_space_12 | pactalreadymaximumvirtualspytreatcrumbleprintprocesstransferpushalarm |  
+| bip_39_word_no_space_2 | pactalready |  
+| bip_39_word_no_space_3 | pactalreadymaximum |  
+| bip_39_word_no_space_4 | pactalreadymaximumvirtual |  
+| bip_39_word_no_space_5 | pactalreadymaximumvirtualspy |  
+| bip_39_word_no_space_6 | pactalreadymaximumvirtualspytreat |  
+| bip_39_word_no_space_7 | pactalreadymaximumvirtualspytreatcrumble |  
+| bip_39_word_no_space_8 | pactalreadymaximumvirtualspytreatcrumbleprint |  
+| bip_39_word_no_space_9 | pactalreadymaximumvirtualspytreatcrumbleprintprocess |  
 | bip_39_word_space_0 | ['pact', 'already', 'maximum', 'virtual', 'spy', 'treat', 'crumble', 'print', 'process', 'transfer', 'push', 'alarm'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact already maximum virtual spy treat crumble print process transfer |  

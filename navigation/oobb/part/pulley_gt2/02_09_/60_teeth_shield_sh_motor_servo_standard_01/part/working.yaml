@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'royal
   furnace
 
   cactus'
+bip_39_word_no_space_1: royal
+bip_39_word_no_space_10: royalshyrebelhellohalfartalienfurnacecactusfaint
+bip_39_word_no_space_11: royalshyrebelhellohalfartalienfurnacecactusfainttoken
+bip_39_word_no_space_12: royalshyrebelhellohalfartalienfurnacecactusfainttokenaccident
+bip_39_word_no_space_2: royalshy
+bip_39_word_no_space_3: royalshyrebel
+bip_39_word_no_space_4: royalshyrebelhello
+bip_39_word_no_space_5: royalshyrebelhellohalf
+bip_39_word_no_space_6: royalshyrebelhellohalfart
+bip_39_word_no_space_7: royalshyrebelhellohalfartalien
+bip_39_word_no_space_8: royalshyrebelhellohalfartalienfurnace
+bip_39_word_no_space_9: royalshyrebelhellohalfartalienfurnacecactus
 bip_39_word_space_0:
 - royal
 - shy

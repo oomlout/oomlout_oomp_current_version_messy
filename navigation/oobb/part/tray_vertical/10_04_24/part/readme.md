@@ -122,6 +122,18 @@ zone
 antenna
 damp
 diamond |  
+| bip_39_word_no_space_1 | artefact |  
+| bip_39_word_no_space_10 | artefactfemalevoyageeasyumbrellazoneantennadampdiamondsiege |  
+| bip_39_word_no_space_11 | artefactfemalevoyageeasyumbrellazoneantennadampdiamondsiegecanal |  
+| bip_39_word_no_space_12 | artefactfemalevoyageeasyumbrellazoneantennadampdiamondsiegecanalabsorb |  
+| bip_39_word_no_space_2 | artefactfemale |  
+| bip_39_word_no_space_3 | artefactfemalevoyage |  
+| bip_39_word_no_space_4 | artefactfemalevoyageeasy |  
+| bip_39_word_no_space_5 | artefactfemalevoyageeasyumbrella |  
+| bip_39_word_no_space_6 | artefactfemalevoyageeasyumbrellazone |  
+| bip_39_word_no_space_7 | artefactfemalevoyageeasyumbrellazoneantenna |  
+| bip_39_word_no_space_8 | artefactfemalevoyageeasyumbrellazoneantennadamp |  
+| bip_39_word_no_space_9 | artefactfemalevoyageeasyumbrellazoneantennadampdiamond |  
 | bip_39_word_space_0 | ['artefact', 'female', 'voyage', 'easy', 'umbrella', 'zone', 'antenna', 'damp', 'diamond', 'siege', 'canal', 'absorb'] |  
 | bip_39_word_space_1 | artefact |  
 | bip_39_word_space_10 | artefact female voyage easy umbrella zone antenna damp diamond siege |  

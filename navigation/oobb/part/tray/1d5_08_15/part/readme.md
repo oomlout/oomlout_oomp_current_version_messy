@@ -122,6 +122,18 @@ floor
 live
 rice
 device |  
+| bip_39_word_no_space_1 | shy |  
+| bip_39_word_no_space_10 | shyprioritymainloadseedfloorlivericedeviceframe |  
+| bip_39_word_no_space_11 | shyprioritymainloadseedfloorlivericedeviceframeensure |  
+| bip_39_word_no_space_12 | shyprioritymainloadseedfloorlivericedeviceframeensureactress |  
+| bip_39_word_no_space_2 | shypriority |  
+| bip_39_word_no_space_3 | shyprioritymain |  
+| bip_39_word_no_space_4 | shyprioritymainload |  
+| bip_39_word_no_space_5 | shyprioritymainloadseed |  
+| bip_39_word_no_space_6 | shyprioritymainloadseedfloor |  
+| bip_39_word_no_space_7 | shyprioritymainloadseedfloorlive |  
+| bip_39_word_no_space_8 | shyprioritymainloadseedfloorliverice |  
+| bip_39_word_no_space_9 | shyprioritymainloadseedfloorlivericedevice |  
 | bip_39_word_space_0 | ['shy', 'priority', 'main', 'load', 'seed', 'floor', 'live', 'rice', 'device', 'frame', 'ensure', 'actress'] |  
 | bip_39_word_space_1 | shy |  
 | bip_39_word_space_10 | shy priority main load seed floor live rice device frame |  

@@ -122,6 +122,18 @@ pony
 mother
 gold
 grid |  
+| bip_39_word_no_space_1 | humble |  
+| bip_39_word_no_space_10 | humbledepositnothingrailinheritponymothergoldgridfather |  
+| bip_39_word_no_space_11 | humbledepositnothingrailinheritponymothergoldgridfatheramong |  
+| bip_39_word_no_space_12 | humbledepositnothingrailinheritponymothergoldgridfatheramongacoustic |  
+| bip_39_word_no_space_2 | humbledeposit |  
+| bip_39_word_no_space_3 | humbledepositnothing |  
+| bip_39_word_no_space_4 | humbledepositnothingrail |  
+| bip_39_word_no_space_5 | humbledepositnothingrailinherit |  
+| bip_39_word_no_space_6 | humbledepositnothingrailinheritpony |  
+| bip_39_word_no_space_7 | humbledepositnothingrailinheritponymother |  
+| bip_39_word_no_space_8 | humbledepositnothingrailinheritponymothergold |  
+| bip_39_word_no_space_9 | humbledepositnothingrailinheritponymothergoldgrid |  
 | bip_39_word_space_0 | ['humble', 'deposit', 'nothing', 'rail', 'inherit', 'pony', 'mother', 'gold', 'grid', 'father', 'among', 'acoustic'] |  
 | bip_39_word_space_1 | humble |  
 | bip_39_word_space_10 | humble deposit nothing rail inherit pony mother gold grid father |  

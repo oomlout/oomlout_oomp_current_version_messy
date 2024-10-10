@@ -122,6 +122,18 @@ one
 word
 innocent
 eyebrow |  
+| bip_39_word_no_space_1 | wagon |  
+| bip_39_word_no_space_10 | wagonboringrabbitentercrunchonewordinnocenteyebrowmutual |  
+| bip_39_word_no_space_11 | wagonboringrabbitentercrunchonewordinnocenteyebrowmutualoval |  
+| bip_39_word_no_space_12 | wagonboringrabbitentercrunchonewordinnocenteyebrowmutualovalartwork |  
+| bip_39_word_no_space_2 | wagonboring |  
+| bip_39_word_no_space_3 | wagonboringrabbit |  
+| bip_39_word_no_space_4 | wagonboringrabbitenter |  
+| bip_39_word_no_space_5 | wagonboringrabbitentercrunch |  
+| bip_39_word_no_space_6 | wagonboringrabbitentercrunchone |  
+| bip_39_word_no_space_7 | wagonboringrabbitentercrunchoneword |  
+| bip_39_word_no_space_8 | wagonboringrabbitentercrunchonewordinnocent |  
+| bip_39_word_no_space_9 | wagonboringrabbitentercrunchonewordinnocenteyebrow |  
 | bip_39_word_space_0 | ['wagon', 'boring', 'rabbit', 'enter', 'crunch', 'one', 'word', 'innocent', 'eyebrow', 'mutual', 'oval', 'artwork'] |  
 | bip_39_word_space_1 | wagon |  
 | bip_39_word_space_10 | wagon boring rabbit enter crunch one word innocent eyebrow mutual |  

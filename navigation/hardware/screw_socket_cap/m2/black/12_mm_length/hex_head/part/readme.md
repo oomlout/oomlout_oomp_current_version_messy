@@ -122,6 +122,18 @@ flush
 fly
 same
 vague |  
+| bip_39_word_no_space_1 | initial |  
+| bip_39_word_no_space_10 | initialblindgalleryvanfaceflushflysamevaguearea |  
+| bip_39_word_no_space_11 | initialblindgalleryvanfaceflushflysamevagueareacase |  
+| bip_39_word_no_space_12 | initialblindgalleryvanfaceflushflysamevagueareacasearm |  
+| bip_39_word_no_space_2 | initialblind |  
+| bip_39_word_no_space_3 | initialblindgallery |  
+| bip_39_word_no_space_4 | initialblindgalleryvan |  
+| bip_39_word_no_space_5 | initialblindgalleryvanface |  
+| bip_39_word_no_space_6 | initialblindgalleryvanfaceflush |  
+| bip_39_word_no_space_7 | initialblindgalleryvanfaceflushfly |  
+| bip_39_word_no_space_8 | initialblindgalleryvanfaceflushflysame |  
+| bip_39_word_no_space_9 | initialblindgalleryvanfaceflushflysamevague |  
 | bip_39_word_space_0 | ['initial', 'blind', 'gallery', 'van', 'face', 'flush', 'fly', 'same', 'vague', 'area', 'case', 'arm'] |  
 | bip_39_word_space_1 | initial |  
 | bip_39_word_space_10 | initial blind gallery van face flush fly same vague area |  

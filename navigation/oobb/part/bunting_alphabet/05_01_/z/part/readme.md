@@ -122,6 +122,18 @@ head
 pudding
 wolf
 spirit |  
+| bip_39_word_no_space_1 | size |  
+| bip_39_word_no_space_10 | sizestatebeachbetterforkheadpuddingwolfspiritreason |  
+| bip_39_word_no_space_11 | sizestatebeachbetterforkheadpuddingwolfspiritreasoncontrol |  
+| bip_39_word_no_space_12 | sizestatebeachbetterforkheadpuddingwolfspiritreasoncontrolallow |  
+| bip_39_word_no_space_2 | sizestate |  
+| bip_39_word_no_space_3 | sizestatebeach |  
+| bip_39_word_no_space_4 | sizestatebeachbetter |  
+| bip_39_word_no_space_5 | sizestatebeachbetterfork |  
+| bip_39_word_no_space_6 | sizestatebeachbetterforkhead |  
+| bip_39_word_no_space_7 | sizestatebeachbetterforkheadpudding |  
+| bip_39_word_no_space_8 | sizestatebeachbetterforkheadpuddingwolf |  
+| bip_39_word_no_space_9 | sizestatebeachbetterforkheadpuddingwolfspirit |  
 | bip_39_word_space_0 | ['size', 'state', 'beach', 'better', 'fork', 'head', 'pudding', 'wolf', 'spirit', 'reason', 'control', 'allow'] |  
 | bip_39_word_space_1 | size |  
 | bip_39_word_space_10 | size state beach better fork head pudding wolf spirit reason |  

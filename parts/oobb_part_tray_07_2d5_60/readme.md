@@ -122,6 +122,18 @@ approve
 burst
 husband
 brain |  
+| bip_39_word_no_space_1 | either |  
+| bip_39_word_no_space_10 | eithersleepmountaintrainsentenceapprovebursthusbandbrainsustain |  
+| bip_39_word_no_space_11 | eithersleepmountaintrainsentenceapprovebursthusbandbrainsustainharbor |  
+| bip_39_word_no_space_12 | eithersleepmountaintrainsentenceapprovebursthusbandbrainsustainharboraim |  
+| bip_39_word_no_space_2 | eithersleep |  
+| bip_39_word_no_space_3 | eithersleepmountain |  
+| bip_39_word_no_space_4 | eithersleepmountaintrain |  
+| bip_39_word_no_space_5 | eithersleepmountaintrainsentence |  
+| bip_39_word_no_space_6 | eithersleepmountaintrainsentenceapprove |  
+| bip_39_word_no_space_7 | eithersleepmountaintrainsentenceapproveburst |  
+| bip_39_word_no_space_8 | eithersleepmountaintrainsentenceapprovebursthusband |  
+| bip_39_word_no_space_9 | eithersleepmountaintrainsentenceapprovebursthusbandbrain |  
 | bip_39_word_space_0 | ['either', 'sleep', 'mountain', 'train', 'sentence', 'approve', 'burst', 'husband', 'brain', 'sustain', 'harbor', 'aim'] |  
 | bip_39_word_space_1 | either |  
 | bip_39_word_space_10 | either sleep mountain train sentence approve burst husband brain sustain |  

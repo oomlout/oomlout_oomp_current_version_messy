@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'portion
   essence
 
   deny'
+bip_39_word_no_space_1: portion
+bip_39_word_no_space_10: portionallowdogpuppyurbanwolfkiwiessencedenywage
+bip_39_word_no_space_11: portionallowdogpuppyurbanwolfkiwiessencedenywagedonor
+bip_39_word_no_space_12: portionallowdogpuppyurbanwolfkiwiessencedenywagedonorart
+bip_39_word_no_space_2: portionallow
+bip_39_word_no_space_3: portionallowdog
+bip_39_word_no_space_4: portionallowdogpuppy
+bip_39_word_no_space_5: portionallowdogpuppyurban
+bip_39_word_no_space_6: portionallowdogpuppyurbanwolf
+bip_39_word_no_space_7: portionallowdogpuppyurbanwolfkiwi
+bip_39_word_no_space_8: portionallowdogpuppyurbanwolfkiwiessence
+bip_39_word_no_space_9: portionallowdogpuppyurbanwolfkiwiessencedeny
 bip_39_word_space_0:
 - portion
 - allow

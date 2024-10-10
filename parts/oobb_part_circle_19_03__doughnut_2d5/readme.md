@@ -122,6 +122,18 @@ owner
 marine
 blanket
 glad |  
+| bip_39_word_no_space_1 | owner |  
+| bip_39_word_no_space_10 | ownerelephantcargodoorembraceownermarineblanketgladswim |  
+| bip_39_word_no_space_11 | ownerelephantcargodoorembraceownermarineblanketgladswimtumble |  
+| bip_39_word_no_space_12 | ownerelephantcargodoorembraceownermarineblanketgladswimtumbleagree |  
+| bip_39_word_no_space_2 | ownerelephant |  
+| bip_39_word_no_space_3 | ownerelephantcargo |  
+| bip_39_word_no_space_4 | ownerelephantcargodoor |  
+| bip_39_word_no_space_5 | ownerelephantcargodoorembrace |  
+| bip_39_word_no_space_6 | ownerelephantcargodoorembraceowner |  
+| bip_39_word_no_space_7 | ownerelephantcargodoorembraceownermarine |  
+| bip_39_word_no_space_8 | ownerelephantcargodoorembraceownermarineblanket |  
+| bip_39_word_no_space_9 | ownerelephantcargodoorembraceownermarineblanketglad |  
 | bip_39_word_space_0 | ['owner', 'elephant', 'cargo', 'door', 'embrace', 'owner', 'marine', 'blanket', 'glad', 'swim', 'tumble', 'agree'] |  
 | bip_39_word_space_1 | owner |  
 | bip_39_word_space_10 | owner elephant cargo door embrace owner marine blanket glad swim |  

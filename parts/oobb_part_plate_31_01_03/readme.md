@@ -122,6 +122,18 @@ awful
 talk
 foil
 meat |  
+| bip_39_word_no_space_1 | margin |  
+| bip_39_word_no_space_10 | marginalienpassinsanegooseawfultalkfoilmeatclinic |  
+| bip_39_word_no_space_11 | marginalienpassinsanegooseawfultalkfoilmeatclinicdrum |  
+| bip_39_word_no_space_12 | marginalienpassinsanegooseawfultalkfoilmeatclinicdrumannounce |  
+| bip_39_word_no_space_2 | marginalien |  
+| bip_39_word_no_space_3 | marginalienpass |  
+| bip_39_word_no_space_4 | marginalienpassinsane |  
+| bip_39_word_no_space_5 | marginalienpassinsanegoose |  
+| bip_39_word_no_space_6 | marginalienpassinsanegooseawful |  
+| bip_39_word_no_space_7 | marginalienpassinsanegooseawfultalk |  
+| bip_39_word_no_space_8 | marginalienpassinsanegooseawfultalkfoil |  
+| bip_39_word_no_space_9 | marginalienpassinsanegooseawfultalkfoilmeat |  
 | bip_39_word_space_0 | ['margin', 'alien', 'pass', 'insane', 'goose', 'awful', 'talk', 'foil', 'meat', 'clinic', 'drum', 'announce'] |  
 | bip_39_word_space_1 | margin |  
 | bip_39_word_space_10 | margin alien pass insane goose awful talk foil meat clinic |  

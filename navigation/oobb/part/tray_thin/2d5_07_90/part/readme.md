@@ -122,6 +122,18 @@ churn
 fever
 supply
 glance |  
+| bip_39_word_no_space_1 | human |  
+| bip_39_word_no_space_10 | humanstandsupremecoffeetubechurnfeversupplyglanceillness |  
+| bip_39_word_no_space_11 | humanstandsupremecoffeetubechurnfeversupplyglanceillnessnapkin |  
+| bip_39_word_no_space_12 | humanstandsupremecoffeetubechurnfeversupplyglanceillnessnapkinalien |  
+| bip_39_word_no_space_2 | humanstand |  
+| bip_39_word_no_space_3 | humanstandsupreme |  
+| bip_39_word_no_space_4 | humanstandsupremecoffee |  
+| bip_39_word_no_space_5 | humanstandsupremecoffeetube |  
+| bip_39_word_no_space_6 | humanstandsupremecoffeetubechurn |  
+| bip_39_word_no_space_7 | humanstandsupremecoffeetubechurnfever |  
+| bip_39_word_no_space_8 | humanstandsupremecoffeetubechurnfeversupply |  
+| bip_39_word_no_space_9 | humanstandsupremecoffeetubechurnfeversupplyglance |  
 | bip_39_word_space_0 | ['human', 'stand', 'supreme', 'coffee', 'tube', 'churn', 'fever', 'supply', 'glance', 'illness', 'napkin', 'alien'] |  
 | bip_39_word_space_1 | human |  
 | bip_39_word_space_10 | human stand supreme coffee tube churn fever supply glance illness |  

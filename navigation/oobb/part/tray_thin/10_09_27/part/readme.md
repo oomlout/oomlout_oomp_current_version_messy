@@ -122,6 +122,18 @@ bulk
 human
 jacket
 sock |  
+| bip_39_word_no_space_1 | found |  
+| bip_39_word_no_space_10 | foundcaptainsharewaitscrubbulkhumanjacketsocksad |  
+| bip_39_word_no_space_11 | foundcaptainsharewaitscrubbulkhumanjacketsocksadmachine |  
+| bip_39_word_no_space_12 | foundcaptainsharewaitscrubbulkhumanjacketsocksadmachineautumn |  
+| bip_39_word_no_space_2 | foundcaptain |  
+| bip_39_word_no_space_3 | foundcaptainshare |  
+| bip_39_word_no_space_4 | foundcaptainsharewait |  
+| bip_39_word_no_space_5 | foundcaptainsharewaitscrub |  
+| bip_39_word_no_space_6 | foundcaptainsharewaitscrubbulk |  
+| bip_39_word_no_space_7 | foundcaptainsharewaitscrubbulkhuman |  
+| bip_39_word_no_space_8 | foundcaptainsharewaitscrubbulkhumanjacket |  
+| bip_39_word_no_space_9 | foundcaptainsharewaitscrubbulkhumanjacketsock |  
 | bip_39_word_space_0 | ['found', 'captain', 'share', 'wait', 'scrub', 'bulk', 'human', 'jacket', 'sock', 'sad', 'machine', 'autumn'] |  
 | bip_39_word_space_1 | found |  
 | bip_39_word_space_10 | found captain share wait scrub bulk human jacket sock sad |  

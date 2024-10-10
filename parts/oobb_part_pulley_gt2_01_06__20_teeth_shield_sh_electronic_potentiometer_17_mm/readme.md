@@ -122,6 +122,18 @@ lyrics
 behind
 copper
 enhance |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarwavesteelbaconmythlyricsbehindcopperenhanceintact |  
+| bip_39_word_no_space_11 | liarwavesteelbaconmythlyricsbehindcopperenhanceintactfiscal |  
+| bip_39_word_no_space_12 | liarwavesteelbaconmythlyricsbehindcopperenhanceintactfiscalanxiety |  
+| bip_39_word_no_space_2 | liarwave |  
+| bip_39_word_no_space_3 | liarwavesteel |  
+| bip_39_word_no_space_4 | liarwavesteelbacon |  
+| bip_39_word_no_space_5 | liarwavesteelbaconmyth |  
+| bip_39_word_no_space_6 | liarwavesteelbaconmythlyrics |  
+| bip_39_word_no_space_7 | liarwavesteelbaconmythlyricsbehind |  
+| bip_39_word_no_space_8 | liarwavesteelbaconmythlyricsbehindcopper |  
+| bip_39_word_no_space_9 | liarwavesteelbaconmythlyricsbehindcopperenhance |  
 | bip_39_word_space_0 | ['liar', 'wave', 'steel', 'bacon', 'myth', 'lyrics', 'behind', 'copper', 'enhance', 'intact', 'fiscal', 'anxiety'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar wave steel bacon myth lyrics behind copper enhance intact |  

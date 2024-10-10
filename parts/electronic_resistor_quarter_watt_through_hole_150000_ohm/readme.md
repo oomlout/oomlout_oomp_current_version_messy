@@ -122,6 +122,18 @@ forward
 remind
 exist
 beef |  
+| bip_39_word_no_space_1 | cost |  
+| bip_39_word_no_space_10 | costimpactwrapgesturefederalforwardremindexistbeefsteel |  
+| bip_39_word_no_space_11 | costimpactwrapgesturefederalforwardremindexistbeefsteelglimpse |  
+| bip_39_word_no_space_12 | costimpactwrapgesturefederalforwardremindexistbeefsteelglimpseauthor |  
+| bip_39_word_no_space_2 | costimpact |  
+| bip_39_word_no_space_3 | costimpactwrap |  
+| bip_39_word_no_space_4 | costimpactwrapgesture |  
+| bip_39_word_no_space_5 | costimpactwrapgesturefederal |  
+| bip_39_word_no_space_6 | costimpactwrapgesturefederalforward |  
+| bip_39_word_no_space_7 | costimpactwrapgesturefederalforwardremind |  
+| bip_39_word_no_space_8 | costimpactwrapgesturefederalforwardremindexist |  
+| bip_39_word_no_space_9 | costimpactwrapgesturefederalforwardremindexistbeef |  
 | bip_39_word_space_0 | ['cost', 'impact', 'wrap', 'gesture', 'federal', 'forward', 'remind', 'exist', 'beef', 'steel', 'glimpse', 'author'] |  
 | bip_39_word_space_1 | cost |  
 | bip_39_word_space_10 | cost impact wrap gesture federal forward remind exist beef steel |  

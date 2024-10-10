@@ -122,6 +122,18 @@ shoe
 cannon
 problem
 cushion |  
+| bip_39_word_no_space_1 | pretty |  
+| bip_39_word_no_space_10 | prettybrassfancythankjoinshoecannonproblemcushionslush |  
+| bip_39_word_no_space_11 | prettybrassfancythankjoinshoecannonproblemcushionslushsearch |  
+| bip_39_word_no_space_12 | prettybrassfancythankjoinshoecannonproblemcushionslushsearchapart |  
+| bip_39_word_no_space_2 | prettybrass |  
+| bip_39_word_no_space_3 | prettybrassfancy |  
+| bip_39_word_no_space_4 | prettybrassfancythank |  
+| bip_39_word_no_space_5 | prettybrassfancythankjoin |  
+| bip_39_word_no_space_6 | prettybrassfancythankjoinshoe |  
+| bip_39_word_no_space_7 | prettybrassfancythankjoinshoecannon |  
+| bip_39_word_no_space_8 | prettybrassfancythankjoinshoecannonproblem |  
+| bip_39_word_no_space_9 | prettybrassfancythankjoinshoecannonproblemcushion |  
 | bip_39_word_space_0 | ['pretty', 'brass', 'fancy', 'thank', 'join', 'shoe', 'cannon', 'problem', 'cushion', 'slush', 'search', 'apart'] |  
 | bip_39_word_space_1 | pretty |  
 | bip_39_word_space_10 | pretty brass fancy thank join shoe cannon problem cushion slush |  

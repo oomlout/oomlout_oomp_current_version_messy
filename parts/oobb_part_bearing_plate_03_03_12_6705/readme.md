@@ -122,6 +122,18 @@ sister
 fortune
 inspire
 course |  
+| bip_39_word_no_space_1 | degree |  
+| bip_39_word_no_space_10 | degreebulbbetterfloorhistorysisterfortuneinspirecourseauto |  
+| bip_39_word_no_space_11 | degreebulbbetterfloorhistorysisterfortuneinspirecourseautoloud |  
+| bip_39_word_no_space_12 | degreebulbbetterfloorhistorysisterfortuneinspirecourseautoloudaspect |  
+| bip_39_word_no_space_2 | degreebulb |  
+| bip_39_word_no_space_3 | degreebulbbetter |  
+| bip_39_word_no_space_4 | degreebulbbetterfloor |  
+| bip_39_word_no_space_5 | degreebulbbetterfloorhistory |  
+| bip_39_word_no_space_6 | degreebulbbetterfloorhistorysister |  
+| bip_39_word_no_space_7 | degreebulbbetterfloorhistorysisterfortune |  
+| bip_39_word_no_space_8 | degreebulbbetterfloorhistorysisterfortuneinspire |  
+| bip_39_word_no_space_9 | degreebulbbetterfloorhistorysisterfortuneinspirecourse |  
 | bip_39_word_space_0 | ['degree', 'bulb', 'better', 'floor', 'history', 'sister', 'fortune', 'inspire', 'course', 'auto', 'loud', 'aspect'] |  
 | bip_39_word_space_1 | degree |  
 | bip_39_word_space_10 | degree bulb better floor history sister fortune inspire course auto |  

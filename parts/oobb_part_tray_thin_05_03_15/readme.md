@@ -122,6 +122,18 @@ advance
 hair
 stumble
 cotton |  
+| bip_39_word_no_space_1 | expand |  
+| bip_39_word_no_space_10 | expanddefygoldmanageslightadvancehairstumblecottonenergy |  
+| bip_39_word_no_space_11 | expanddefygoldmanageslightadvancehairstumblecottonenergydinosaur |  
+| bip_39_word_no_space_12 | expanddefygoldmanageslightadvancehairstumblecottonenergydinosauramateur |  
+| bip_39_word_no_space_2 | expanddefy |  
+| bip_39_word_no_space_3 | expanddefygold |  
+| bip_39_word_no_space_4 | expanddefygoldmanage |  
+| bip_39_word_no_space_5 | expanddefygoldmanageslight |  
+| bip_39_word_no_space_6 | expanddefygoldmanageslightadvance |  
+| bip_39_word_no_space_7 | expanddefygoldmanageslightadvancehair |  
+| bip_39_word_no_space_8 | expanddefygoldmanageslightadvancehairstumble |  
+| bip_39_word_no_space_9 | expanddefygoldmanageslightadvancehairstumblecotton |  
 | bip_39_word_space_0 | ['expand', 'defy', 'gold', 'manage', 'slight', 'advance', 'hair', 'stumble', 'cotton', 'energy', 'dinosaur', 'amateur'] |  
 | bip_39_word_space_1 | expand |  
 | bip_39_word_space_10 | expand defy gold manage slight advance hair stumble cotton energy |  

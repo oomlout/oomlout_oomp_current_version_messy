@@ -122,6 +122,18 @@ tomato
 anger
 spoil
 post |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistolactressbecausetoehedgehogtomatoangerspoilpostsudden |  
+| bip_39_word_no_space_11 | pistolactressbecausetoehedgehogtomatoangerspoilpostsuddenbadge |  
+| bip_39_word_no_space_12 | pistolactressbecausetoehedgehogtomatoangerspoilpostsuddenbadgeadapt |  
+| bip_39_word_no_space_2 | pistolactress |  
+| bip_39_word_no_space_3 | pistolactressbecause |  
+| bip_39_word_no_space_4 | pistolactressbecausetoe |  
+| bip_39_word_no_space_5 | pistolactressbecausetoehedgehog |  
+| bip_39_word_no_space_6 | pistolactressbecausetoehedgehogtomato |  
+| bip_39_word_no_space_7 | pistolactressbecausetoehedgehogtomatoanger |  
+| bip_39_word_no_space_8 | pistolactressbecausetoehedgehogtomatoangerspoil |  
+| bip_39_word_no_space_9 | pistolactressbecausetoehedgehogtomatoangerspoilpost |  
 | bip_39_word_space_0 | ['pistol', 'actress', 'because', 'toe', 'hedgehog', 'tomato', 'anger', 'spoil', 'post', 'sudden', 'badge', 'adapt'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol actress because toe hedgehog tomato anger spoil post sudden |  

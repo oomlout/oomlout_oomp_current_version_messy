@@ -122,6 +122,18 @@ misery
 clarify
 burger
 ankle |  
+| bip_39_word_no_space_1 | typical |  
+| bip_39_word_no_space_10 | typicalquitcomfortshiveroakmiseryclarifyburgeranklesnack |  
+| bip_39_word_no_space_11 | typicalquitcomfortshiveroakmiseryclarifyburgeranklesnackbadge |  
+| bip_39_word_no_space_12 | typicalquitcomfortshiveroakmiseryclarifyburgeranklesnackbadgealmost |  
+| bip_39_word_no_space_2 | typicalquit |  
+| bip_39_word_no_space_3 | typicalquitcomfort |  
+| bip_39_word_no_space_4 | typicalquitcomfortshiver |  
+| bip_39_word_no_space_5 | typicalquitcomfortshiveroak |  
+| bip_39_word_no_space_6 | typicalquitcomfortshiveroakmisery |  
+| bip_39_word_no_space_7 | typicalquitcomfortshiveroakmiseryclarify |  
+| bip_39_word_no_space_8 | typicalquitcomfortshiveroakmiseryclarifyburger |  
+| bip_39_word_no_space_9 | typicalquitcomfortshiveroakmiseryclarifyburgerankle |  
 | bip_39_word_space_0 | ['typical', 'quit', 'comfort', 'shiver', 'oak', 'misery', 'clarify', 'burger', 'ankle', 'snack', 'badge', 'almost'] |  
 | bip_39_word_space_1 | typical |  
 | bip_39_word_space_10 | typical quit comfort shiver oak misery clarify burger ankle snack |  

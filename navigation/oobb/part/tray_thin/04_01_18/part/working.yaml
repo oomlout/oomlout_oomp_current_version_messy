@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tilt
   jelly
 
   wall'
+bip_39_word_no_space_1: tilt
+bip_39_word_no_space_10: tiltanglecanalstartrefuseobservealljellywallwrong
+bip_39_word_no_space_11: tiltanglecanalstartrefuseobservealljellywallwrongraccoon
+bip_39_word_no_space_12: tiltanglecanalstartrefuseobservealljellywallwrongraccoonalert
+bip_39_word_no_space_2: tiltangle
+bip_39_word_no_space_3: tiltanglecanal
+bip_39_word_no_space_4: tiltanglecanalstart
+bip_39_word_no_space_5: tiltanglecanalstartrefuse
+bip_39_word_no_space_6: tiltanglecanalstartrefuseobserve
+bip_39_word_no_space_7: tiltanglecanalstartrefuseobserveall
+bip_39_word_no_space_8: tiltanglecanalstartrefuseobservealljelly
+bip_39_word_no_space_9: tiltanglecanalstartrefuseobservealljellywall
 bip_39_word_space_0:
 - tilt
 - angle

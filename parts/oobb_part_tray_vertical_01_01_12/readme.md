@@ -122,6 +122,18 @@ neither
 stage
 medal
 tumble |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | envelopebonebaconprojectresistneitherstagemedaltumblehover |  
+| bip_39_word_no_space_11 | envelopebonebaconprojectresistneitherstagemedaltumblehoverstrong |  
+| bip_39_word_no_space_12 | envelopebonebaconprojectresistneitherstagemedaltumblehoverstronganxiety |  
+| bip_39_word_no_space_2 | envelopebone |  
+| bip_39_word_no_space_3 | envelopebonebacon |  
+| bip_39_word_no_space_4 | envelopebonebaconproject |  
+| bip_39_word_no_space_5 | envelopebonebaconprojectresist |  
+| bip_39_word_no_space_6 | envelopebonebaconprojectresistneither |  
+| bip_39_word_no_space_7 | envelopebonebaconprojectresistneitherstage |  
+| bip_39_word_no_space_8 | envelopebonebaconprojectresistneitherstagemedal |  
+| bip_39_word_no_space_9 | envelopebonebaconprojectresistneitherstagemedaltumble |  
 | bip_39_word_space_0 | ['envelope', 'bone', 'bacon', 'project', 'resist', 'neither', 'stage', 'medal', 'tumble', 'hover', 'strong', 'anxiety'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope bone bacon project resist neither stage medal tumble hover |  

@@ -122,6 +122,18 @@ glance
 labor
 elder
 fade |  
+| bip_39_word_no_space_1 | stool |  
+| bip_39_word_no_space_10 | stoolshyoutsidegoatpermitglancelaborelderfadebus |  
+| bip_39_word_no_space_11 | stoolshyoutsidegoatpermitglancelaborelderfadebusevolve |  
+| bip_39_word_no_space_12 | stoolshyoutsidegoatpermitglancelaborelderfadebusevolveannual |  
+| bip_39_word_no_space_2 | stoolshy |  
+| bip_39_word_no_space_3 | stoolshyoutside |  
+| bip_39_word_no_space_4 | stoolshyoutsidegoat |  
+| bip_39_word_no_space_5 | stoolshyoutsidegoatpermit |  
+| bip_39_word_no_space_6 | stoolshyoutsidegoatpermitglance |  
+| bip_39_word_no_space_7 | stoolshyoutsidegoatpermitglancelabor |  
+| bip_39_word_no_space_8 | stoolshyoutsidegoatpermitglancelaborelder |  
+| bip_39_word_no_space_9 | stoolshyoutsidegoatpermitglancelaborelderfade |  
 | bip_39_word_space_0 | ['stool', 'shy', 'outside', 'goat', 'permit', 'glance', 'labor', 'elder', 'fade', 'bus', 'evolve', 'annual'] |  
 | bip_39_word_space_1 | stool |  
 | bip_39_word_space_10 | stool shy outside goat permit glance labor elder fade bus |  

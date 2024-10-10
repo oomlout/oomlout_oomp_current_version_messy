@@ -122,6 +122,18 @@ ginger
 sing
 swap
 critic |  
+| bip_39_word_no_space_1 | split |  
+| bip_39_word_no_space_10 | splitstanddynamicrepeatcheapgingersingswapcriticgrit |  
+| bip_39_word_no_space_11 | splitstanddynamicrepeatcheapgingersingswapcriticgritgift |  
+| bip_39_word_no_space_12 | splitstanddynamicrepeatcheapgingersingswapcriticgritgiftair |  
+| bip_39_word_no_space_2 | splitstand |  
+| bip_39_word_no_space_3 | splitstanddynamic |  
+| bip_39_word_no_space_4 | splitstanddynamicrepeat |  
+| bip_39_word_no_space_5 | splitstanddynamicrepeatcheap |  
+| bip_39_word_no_space_6 | splitstanddynamicrepeatcheapginger |  
+| bip_39_word_no_space_7 | splitstanddynamicrepeatcheapgingersing |  
+| bip_39_word_no_space_8 | splitstanddynamicrepeatcheapgingersingswap |  
+| bip_39_word_no_space_9 | splitstanddynamicrepeatcheapgingersingswapcritic |  
 | bip_39_word_space_0 | ['split', 'stand', 'dynamic', 'repeat', 'cheap', 'ginger', 'sing', 'swap', 'critic', 'grit', 'gift', 'air'] |  
 | bip_39_word_space_1 | split |  
 | bip_39_word_space_10 | split stand dynamic repeat cheap ginger sing swap critic grit |  

@@ -122,6 +122,18 @@ odor
 slam
 flash
 voice |  
+| bip_39_word_no_space_1 | train |  
+| bip_39_word_no_space_10 | trainreplacevendorfossilauntodorslamflashvoicereopen |  
+| bip_39_word_no_space_11 | trainreplacevendorfossilauntodorslamflashvoicereopenbird |  
+| bip_39_word_no_space_12 | trainreplacevendorfossilauntodorslamflashvoicereopenbirdaddict |  
+| bip_39_word_no_space_2 | trainreplace |  
+| bip_39_word_no_space_3 | trainreplacevendor |  
+| bip_39_word_no_space_4 | trainreplacevendorfossil |  
+| bip_39_word_no_space_5 | trainreplacevendorfossilaunt |  
+| bip_39_word_no_space_6 | trainreplacevendorfossilauntodor |  
+| bip_39_word_no_space_7 | trainreplacevendorfossilauntodorslam |  
+| bip_39_word_no_space_8 | trainreplacevendorfossilauntodorslamflash |  
+| bip_39_word_no_space_9 | trainreplacevendorfossilauntodorslamflashvoice |  
 | bip_39_word_space_0 | ['train', 'replace', 'vendor', 'fossil', 'aunt', 'odor', 'slam', 'flash', 'voice', 'reopen', 'bird', 'addict'] |  
 | bip_39_word_space_1 | train |  
 | bip_39_word_space_10 | train replace vendor fossil aunt odor slam flash voice reopen |  

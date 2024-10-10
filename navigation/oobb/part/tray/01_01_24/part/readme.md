@@ -122,6 +122,18 @@ genuine
 capable
 quarter
 will |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feelbonusswapvoyagetalkgenuinecapablequarterwillvast |  
+| bip_39_word_no_space_11 | feelbonusswapvoyagetalkgenuinecapablequarterwillvastincome |  
+| bip_39_word_no_space_12 | feelbonusswapvoyagetalkgenuinecapablequarterwillvastincomeaffair |  
+| bip_39_word_no_space_2 | feelbonus |  
+| bip_39_word_no_space_3 | feelbonusswap |  
+| bip_39_word_no_space_4 | feelbonusswapvoyage |  
+| bip_39_word_no_space_5 | feelbonusswapvoyagetalk |  
+| bip_39_word_no_space_6 | feelbonusswapvoyagetalkgenuine |  
+| bip_39_word_no_space_7 | feelbonusswapvoyagetalkgenuinecapable |  
+| bip_39_word_no_space_8 | feelbonusswapvoyagetalkgenuinecapablequarter |  
+| bip_39_word_no_space_9 | feelbonusswapvoyagetalkgenuinecapablequarterwill |  
 | bip_39_word_space_0 | ['feel', 'bonus', 'swap', 'voyage', 'talk', 'genuine', 'capable', 'quarter', 'will', 'vast', 'income', 'affair'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel bonus swap voyage talk genuine capable quarter will vast |  

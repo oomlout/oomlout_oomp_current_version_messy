@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'famous
   morning
 
   expose'
+bip_39_word_no_space_1: famous
+bip_39_word_no_space_10: famoususualhorndadhumbledeclineacidmorningexposeorphan
+bip_39_word_no_space_11: famoususualhorndadhumbledeclineacidmorningexposeorphancensus
+bip_39_word_no_space_12: famoususualhorndadhumbledeclineacidmorningexposeorphancensusartefact
+bip_39_word_no_space_2: famoususual
+bip_39_word_no_space_3: famoususualhorn
+bip_39_word_no_space_4: famoususualhorndad
+bip_39_word_no_space_5: famoususualhorndadhumble
+bip_39_word_no_space_6: famoususualhorndadhumbledecline
+bip_39_word_no_space_7: famoususualhorndadhumbledeclineacid
+bip_39_word_no_space_8: famoususualhorndadhumbledeclineacidmorning
+bip_39_word_no_space_9: famoususualhorndadhumbledeclineacidmorningexpose
 bip_39_word_space_0:
 - famous
 - usual

@@ -122,6 +122,18 @@ aerobic
 injury
 describe
 attract |  
+| bip_39_word_no_space_1 | pulp |  
+| bip_39_word_no_space_10 | pulppuddingneedcerealelseaerobicinjurydescribeattractglance |  
+| bip_39_word_no_space_11 | pulppuddingneedcerealelseaerobicinjurydescribeattractglancelatin |  
+| bip_39_word_no_space_12 | pulppuddingneedcerealelseaerobicinjurydescribeattractglancelatinarmor |  
+| bip_39_word_no_space_2 | pulppudding |  
+| bip_39_word_no_space_3 | pulppuddingneed |  
+| bip_39_word_no_space_4 | pulppuddingneedcereal |  
+| bip_39_word_no_space_5 | pulppuddingneedcerealelse |  
+| bip_39_word_no_space_6 | pulppuddingneedcerealelseaerobic |  
+| bip_39_word_no_space_7 | pulppuddingneedcerealelseaerobicinjury |  
+| bip_39_word_no_space_8 | pulppuddingneedcerealelseaerobicinjurydescribe |  
+| bip_39_word_no_space_9 | pulppuddingneedcerealelseaerobicinjurydescribeattract |  
 | bip_39_word_space_0 | ['pulp', 'pudding', 'need', 'cereal', 'else', 'aerobic', 'injury', 'describe', 'attract', 'glance', 'latin', 'armor'] |  
 | bip_39_word_space_1 | pulp |  
 | bip_39_word_space_10 | pulp pudding need cereal else aerobic injury describe attract glance |  

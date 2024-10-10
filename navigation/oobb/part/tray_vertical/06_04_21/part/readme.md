@@ -122,6 +122,18 @@ problem
 cement
 stool
 almost |  
+| bip_39_word_no_space_1 | grunt |  
+| bip_39_word_no_space_10 | gruntswamporderstorygloryproblemcementstoolalmostgauge |  
+| bip_39_word_no_space_11 | gruntswamporderstorygloryproblemcementstoolalmostgaugeguard |  
+| bip_39_word_no_space_12 | gruntswamporderstorygloryproblemcementstoolalmostgaugeguardaverage |  
+| bip_39_word_no_space_2 | gruntswamp |  
+| bip_39_word_no_space_3 | gruntswamporder |  
+| bip_39_word_no_space_4 | gruntswamporderstory |  
+| bip_39_word_no_space_5 | gruntswamporderstoryglory |  
+| bip_39_word_no_space_6 | gruntswamporderstorygloryproblem |  
+| bip_39_word_no_space_7 | gruntswamporderstorygloryproblemcement |  
+| bip_39_word_no_space_8 | gruntswamporderstorygloryproblemcementstool |  
+| bip_39_word_no_space_9 | gruntswamporderstorygloryproblemcementstoolalmost |  
 | bip_39_word_space_0 | ['grunt', 'swamp', 'order', 'story', 'glory', 'problem', 'cement', 'stool', 'almost', 'gauge', 'guard', 'average'] |  
 | bip_39_word_space_1 | grunt |  
 | bip_39_word_space_10 | grunt swamp order story glory problem cement stool almost gauge |  

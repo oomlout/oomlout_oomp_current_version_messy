@@ -122,6 +122,18 @@ accident
 salt
 clean
 inherit |  
+| bip_39_word_no_space_1 | exotic |  
+| bip_39_word_no_space_10 | exoticmeatsurgetwicechangeaccidentsaltcleaninheritfilm |  
+| bip_39_word_no_space_11 | exoticmeatsurgetwicechangeaccidentsaltcleaninheritfilmerase |  
+| bip_39_word_no_space_12 | exoticmeatsurgetwicechangeaccidentsaltcleaninheritfilmeraseactor |  
+| bip_39_word_no_space_2 | exoticmeat |  
+| bip_39_word_no_space_3 | exoticmeatsurge |  
+| bip_39_word_no_space_4 | exoticmeatsurgetwice |  
+| bip_39_word_no_space_5 | exoticmeatsurgetwicechange |  
+| bip_39_word_no_space_6 | exoticmeatsurgetwicechangeaccident |  
+| bip_39_word_no_space_7 | exoticmeatsurgetwicechangeaccidentsalt |  
+| bip_39_word_no_space_8 | exoticmeatsurgetwicechangeaccidentsaltclean |  
+| bip_39_word_no_space_9 | exoticmeatsurgetwicechangeaccidentsaltcleaninherit |  
 | bip_39_word_space_0 | ['exotic', 'meat', 'surge', 'twice', 'change', 'accident', 'salt', 'clean', 'inherit', 'film', 'erase', 'actor'] |  
 | bip_39_word_space_1 | exotic |  
 | bip_39_word_space_10 | exotic meat surge twice change accident salt clean inherit film |  

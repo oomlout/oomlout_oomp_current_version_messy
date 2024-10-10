@@ -122,6 +122,18 @@ focus
 stadium
 little
 eyebrow |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospeladdictalsocomeinhalefocusstadiumlittleeyebrowbanana |  
+| bip_39_word_no_space_11 | gospeladdictalsocomeinhalefocusstadiumlittleeyebrowbananagesture |  
+| bip_39_word_no_space_12 | gospeladdictalsocomeinhalefocusstadiumlittleeyebrowbananagestureattitude |  
+| bip_39_word_no_space_2 | gospeladdict |  
+| bip_39_word_no_space_3 | gospeladdictalso |  
+| bip_39_word_no_space_4 | gospeladdictalsocome |  
+| bip_39_word_no_space_5 | gospeladdictalsocomeinhale |  
+| bip_39_word_no_space_6 | gospeladdictalsocomeinhalefocus |  
+| bip_39_word_no_space_7 | gospeladdictalsocomeinhalefocusstadium |  
+| bip_39_word_no_space_8 | gospeladdictalsocomeinhalefocusstadiumlittle |  
+| bip_39_word_no_space_9 | gospeladdictalsocomeinhalefocusstadiumlittleeyebrow |  
 | bip_39_word_space_0 | ['gospel', 'addict', 'also', 'come', 'inhale', 'focus', 'stadium', 'little', 'eyebrow', 'banana', 'gesture', 'attitude'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel addict also come inhale focus stadium little eyebrow banana |  

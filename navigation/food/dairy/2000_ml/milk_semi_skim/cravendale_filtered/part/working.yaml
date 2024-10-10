@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pass
   cute
 
   know'
+bip_39_word_no_space_1: pass
+bip_39_word_no_space_10: passcenturyownpromotewifeminimumtwocuteknowaudit
+bip_39_word_no_space_11: passcenturyownpromotewifeminimumtwocuteknowauditchampion
+bip_39_word_no_space_12: passcenturyownpromotewifeminimumtwocuteknowauditchampionautumn
+bip_39_word_no_space_2: passcentury
+bip_39_word_no_space_3: passcenturyown
+bip_39_word_no_space_4: passcenturyownpromote
+bip_39_word_no_space_5: passcenturyownpromotewife
+bip_39_word_no_space_6: passcenturyownpromotewifeminimum
+bip_39_word_no_space_7: passcenturyownpromotewifeminimumtwo
+bip_39_word_no_space_8: passcenturyownpromotewifeminimumtwocute
+bip_39_word_no_space_9: passcenturyownpromotewifeminimumtwocuteknow
 bip_39_word_space_0:
 - pass
 - century

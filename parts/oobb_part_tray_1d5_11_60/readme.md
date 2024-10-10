@@ -122,6 +122,18 @@ planet
 bid
 nasty
 warfare |  
+| bip_39_word_no_space_1 | stone |  
+| bip_39_word_no_space_10 | stoneelephantkindresistprojectplanetbidnastywarfareprint |  
+| bip_39_word_no_space_11 | stoneelephantkindresistprojectplanetbidnastywarfareprintdance |  
+| bip_39_word_no_space_12 | stoneelephantkindresistprojectplanetbidnastywarfareprintdanceanswer |  
+| bip_39_word_no_space_2 | stoneelephant |  
+| bip_39_word_no_space_3 | stoneelephantkind |  
+| bip_39_word_no_space_4 | stoneelephantkindresist |  
+| bip_39_word_no_space_5 | stoneelephantkindresistproject |  
+| bip_39_word_no_space_6 | stoneelephantkindresistprojectplanet |  
+| bip_39_word_no_space_7 | stoneelephantkindresistprojectplanetbid |  
+| bip_39_word_no_space_8 | stoneelephantkindresistprojectplanetbidnasty |  
+| bip_39_word_no_space_9 | stoneelephantkindresistprojectplanetbidnastywarfare |  
 | bip_39_word_space_0 | ['stone', 'elephant', 'kind', 'resist', 'project', 'planet', 'bid', 'nasty', 'warfare', 'print', 'dance', 'answer'] |  
 | bip_39_word_space_1 | stone |  
 | bip_39_word_space_10 | stone elephant kind resist project planet bid nasty warfare print |  

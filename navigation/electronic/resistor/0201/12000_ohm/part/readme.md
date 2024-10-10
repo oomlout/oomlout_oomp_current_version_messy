@@ -122,6 +122,18 @@ fragile
 joy
 open
 myself |  
+| bip_39_word_no_space_1 | rapid |  
+| bip_39_word_no_space_10 | rapidvolcanoroyalwinnerenoughfragilejoyopenmyselfeyebrow |  
+| bip_39_word_no_space_11 | rapidvolcanoroyalwinnerenoughfragilejoyopenmyselfeyebrowflame |  
+| bip_39_word_no_space_12 | rapidvolcanoroyalwinnerenoughfragilejoyopenmyselfeyebrowflameair |  
+| bip_39_word_no_space_2 | rapidvolcano |  
+| bip_39_word_no_space_3 | rapidvolcanoroyal |  
+| bip_39_word_no_space_4 | rapidvolcanoroyalwinner |  
+| bip_39_word_no_space_5 | rapidvolcanoroyalwinnerenough |  
+| bip_39_word_no_space_6 | rapidvolcanoroyalwinnerenoughfragile |  
+| bip_39_word_no_space_7 | rapidvolcanoroyalwinnerenoughfragilejoy |  
+| bip_39_word_no_space_8 | rapidvolcanoroyalwinnerenoughfragilejoyopen |  
+| bip_39_word_no_space_9 | rapidvolcanoroyalwinnerenoughfragilejoyopenmyself |  
 | bip_39_word_space_0 | ['rapid', 'volcano', 'royal', 'winner', 'enough', 'fragile', 'joy', 'open', 'myself', 'eyebrow', 'flame', 'air'] |  
 | bip_39_word_space_1 | rapid |  
 | bip_39_word_space_10 | rapid volcano royal winner enough fragile joy open myself eyebrow |  

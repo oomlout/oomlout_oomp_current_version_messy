@@ -122,6 +122,18 @@ never
 guess
 thank
 broccoli |  
+| bip_39_word_no_space_1 | unit |  
+| bip_39_word_no_space_10 | unitpraisedrinkseedunderneverguessthankbroccolistand |  
+| bip_39_word_no_space_11 | unitpraisedrinkseedunderneverguessthankbroccolistandtraffic |  
+| bip_39_word_no_space_12 | unitpraisedrinkseedunderneverguessthankbroccolistandtrafficarrange |  
+| bip_39_word_no_space_2 | unitpraise |  
+| bip_39_word_no_space_3 | unitpraisedrink |  
+| bip_39_word_no_space_4 | unitpraisedrinkseed |  
+| bip_39_word_no_space_5 | unitpraisedrinkseedunder |  
+| bip_39_word_no_space_6 | unitpraisedrinkseedundernever |  
+| bip_39_word_no_space_7 | unitpraisedrinkseedunderneverguess |  
+| bip_39_word_no_space_8 | unitpraisedrinkseedunderneverguessthank |  
+| bip_39_word_no_space_9 | unitpraisedrinkseedunderneverguessthankbroccoli |  
 | bip_39_word_space_0 | ['unit', 'praise', 'drink', 'seed', 'under', 'never', 'guess', 'thank', 'broccoli', 'stand', 'traffic', 'arrange'] |  
 | bip_39_word_space_1 | unit |  
 | bip_39_word_space_10 | unit praise drink seed under never guess thank broccoli stand |  

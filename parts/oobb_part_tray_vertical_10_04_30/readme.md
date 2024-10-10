@@ -122,6 +122,18 @@ crystal
 fly
 boil
 acoustic |  
+| bip_39_word_no_space_1 | city |  
+| bip_39_word_no_space_10 | cityseedreplacejudgenicecrystalflyboilacousticoriginal |  
+| bip_39_word_no_space_11 | cityseedreplacejudgenicecrystalflyboilacousticoriginalsample |  
+| bip_39_word_no_space_12 | cityseedreplacejudgenicecrystalflyboilacousticoriginalsampleaspect |  
+| bip_39_word_no_space_2 | cityseed |  
+| bip_39_word_no_space_3 | cityseedreplace |  
+| bip_39_word_no_space_4 | cityseedreplacejudge |  
+| bip_39_word_no_space_5 | cityseedreplacejudgenice |  
+| bip_39_word_no_space_6 | cityseedreplacejudgenicecrystal |  
+| bip_39_word_no_space_7 | cityseedreplacejudgenicecrystalfly |  
+| bip_39_word_no_space_8 | cityseedreplacejudgenicecrystalflyboil |  
+| bip_39_word_no_space_9 | cityseedreplacejudgenicecrystalflyboilacoustic |  
 | bip_39_word_space_0 | ['city', 'seed', 'replace', 'judge', 'nice', 'crystal', 'fly', 'boil', 'acoustic', 'original', 'sample', 'aspect'] |  
 | bip_39_word_space_1 | city |  
 | bip_39_word_space_10 | city seed replace judge nice crystal fly boil acoustic original |  

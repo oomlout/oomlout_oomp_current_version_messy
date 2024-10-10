@@ -122,6 +122,18 @@ tray
 resource
 beef
 enact |  
+| bip_39_word_no_space_1 | fame |  
+| bip_39_word_no_space_10 | famecyclerenewgivebordertrayresourcebeefenactmovie |  
+| bip_39_word_no_space_11 | famecyclerenewgivebordertrayresourcebeefenactmoviebacon |  
+| bip_39_word_no_space_12 | famecyclerenewgivebordertrayresourcebeefenactmoviebaconarrive |  
+| bip_39_word_no_space_2 | famecycle |  
+| bip_39_word_no_space_3 | famecyclerenew |  
+| bip_39_word_no_space_4 | famecyclerenewgive |  
+| bip_39_word_no_space_5 | famecyclerenewgiveborder |  
+| bip_39_word_no_space_6 | famecyclerenewgivebordertray |  
+| bip_39_word_no_space_7 | famecyclerenewgivebordertrayresource |  
+| bip_39_word_no_space_8 | famecyclerenewgivebordertrayresourcebeef |  
+| bip_39_word_no_space_9 | famecyclerenewgivebordertrayresourcebeefenact |  
 | bip_39_word_space_0 | ['fame', 'cycle', 'renew', 'give', 'border', 'tray', 'resource', 'beef', 'enact', 'movie', 'bacon', 'arrive'] |  
 | bip_39_word_space_1 | fame |  
 | bip_39_word_space_10 | fame cycle renew give border tray resource beef enact movie |  

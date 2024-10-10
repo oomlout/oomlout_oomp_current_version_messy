@@ -122,6 +122,18 @@ urban
 idle
 gloom
 dust |  
+| bip_39_word_no_space_1 | sun |  
+| bip_39_word_no_space_10 | sungluewalknovelmutualurbanidlegloomdustverb |  
+| bip_39_word_no_space_11 | sungluewalknovelmutualurbanidlegloomdustverbrandom |  
+| bip_39_word_no_space_12 | sungluewalknovelmutualurbanidlegloomdustverbrandomartwork |  
+| bip_39_word_no_space_2 | sunglue |  
+| bip_39_word_no_space_3 | sungluewalk |  
+| bip_39_word_no_space_4 | sungluewalknovel |  
+| bip_39_word_no_space_5 | sungluewalknovelmutual |  
+| bip_39_word_no_space_6 | sungluewalknovelmutualurban |  
+| bip_39_word_no_space_7 | sungluewalknovelmutualurbanidle |  
+| bip_39_word_no_space_8 | sungluewalknovelmutualurbanidlegloom |  
+| bip_39_word_no_space_9 | sungluewalknovelmutualurbanidlegloomdust |  
 | bip_39_word_space_0 | ['sun', 'glue', 'walk', 'novel', 'mutual', 'urban', 'idle', 'gloom', 'dust', 'verb', 'random', 'artwork'] |  
 | bip_39_word_space_1 | sun |  
 | bip_39_word_space_10 | sun glue walk novel mutual urban idle gloom dust verb |  

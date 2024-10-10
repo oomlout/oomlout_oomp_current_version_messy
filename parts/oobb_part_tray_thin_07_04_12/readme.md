@@ -122,6 +122,18 @@ rabbit
 vacuum
 pull
 fun |  
+| bip_39_word_no_space_1 | bachelor |  
+| bip_39_word_no_space_10 | bachelortennisloungeeyebrowsadrabbitvacuumpullfunkey |  
+| bip_39_word_no_space_11 | bachelortennisloungeeyebrowsadrabbitvacuumpullfunkeychase |  
+| bip_39_word_no_space_12 | bachelortennisloungeeyebrowsadrabbitvacuumpullfunkeychaseaisle |  
+| bip_39_word_no_space_2 | bachelortennis |  
+| bip_39_word_no_space_3 | bachelortennislounge |  
+| bip_39_word_no_space_4 | bachelortennisloungeeyebrow |  
+| bip_39_word_no_space_5 | bachelortennisloungeeyebrowsad |  
+| bip_39_word_no_space_6 | bachelortennisloungeeyebrowsadrabbit |  
+| bip_39_word_no_space_7 | bachelortennisloungeeyebrowsadrabbitvacuum |  
+| bip_39_word_no_space_8 | bachelortennisloungeeyebrowsadrabbitvacuumpull |  
+| bip_39_word_no_space_9 | bachelortennisloungeeyebrowsadrabbitvacuumpullfun |  
 | bip_39_word_space_0 | ['bachelor', 'tennis', 'lounge', 'eyebrow', 'sad', 'rabbit', 'vacuum', 'pull', 'fun', 'key', 'chase', 'aisle'] |  
 | bip_39_word_space_1 | bachelor |  
 | bip_39_word_space_10 | bachelor tennis lounge eyebrow sad rabbit vacuum pull fun key |  

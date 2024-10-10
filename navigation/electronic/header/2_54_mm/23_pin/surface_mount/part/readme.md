@@ -122,6 +122,18 @@ phrase
 sing
 roof
 craft |  
+| bip_39_word_no_space_1 | quarter |  
+| bip_39_word_no_space_10 | quartereasycapitalrabbitleafphrasesingroofcraftmaid |  
+| bip_39_word_no_space_11 | quartereasycapitalrabbitleafphrasesingroofcraftmaidloud |  
+| bip_39_word_no_space_12 | quartereasycapitalrabbitleafphrasesingroofcraftmaidloudarrow |  
+| bip_39_word_no_space_2 | quartereasy |  
+| bip_39_word_no_space_3 | quartereasycapital |  
+| bip_39_word_no_space_4 | quartereasycapitalrabbit |  
+| bip_39_word_no_space_5 | quartereasycapitalrabbitleaf |  
+| bip_39_word_no_space_6 | quartereasycapitalrabbitleafphrase |  
+| bip_39_word_no_space_7 | quartereasycapitalrabbitleafphrasesing |  
+| bip_39_word_no_space_8 | quartereasycapitalrabbitleafphrasesingroof |  
+| bip_39_word_no_space_9 | quartereasycapitalrabbitleafphrasesingroofcraft |  
 | bip_39_word_space_0 | ['quarter', 'easy', 'capital', 'rabbit', 'leaf', 'phrase', 'sing', 'roof', 'craft', 'maid', 'loud', 'arrow'] |  
 | bip_39_word_space_1 | quarter |  
 | bip_39_word_space_10 | quarter easy capital rabbit leaf phrase sing roof craft maid |  

@@ -122,6 +122,18 @@ mistake
 poverty
 audit
 empty |  
+| bip_39_word_no_space_1 | identify |  
+| bip_39_word_no_space_10 | identifybracketloadclinicarrivemistakepovertyauditemptyturkey |  
+| bip_39_word_no_space_11 | identifybracketloadclinicarrivemistakepovertyauditemptyturkeycanoe |  
+| bip_39_word_no_space_12 | identifybracketloadclinicarrivemistakepovertyauditemptyturkeycanoeaccess |  
+| bip_39_word_no_space_2 | identifybracket |  
+| bip_39_word_no_space_3 | identifybracketload |  
+| bip_39_word_no_space_4 | identifybracketloadclinic |  
+| bip_39_word_no_space_5 | identifybracketloadclinicarrive |  
+| bip_39_word_no_space_6 | identifybracketloadclinicarrivemistake |  
+| bip_39_word_no_space_7 | identifybracketloadclinicarrivemistakepoverty |  
+| bip_39_word_no_space_8 | identifybracketloadclinicarrivemistakepovertyaudit |  
+| bip_39_word_no_space_9 | identifybracketloadclinicarrivemistakepovertyauditempty |  
 | bip_39_word_space_0 | ['identify', 'bracket', 'load', 'clinic', 'arrive', 'mistake', 'poverty', 'audit', 'empty', 'turkey', 'canoe', 'access'] |  
 | bip_39_word_space_1 | identify |  
 | bip_39_word_space_10 | identify bracket load clinic arrive mistake poverty audit empty turkey |  

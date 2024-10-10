@@ -122,6 +122,18 @@ insane
 slice
 fire
 soup |  
+| bip_39_word_no_space_1 | safe |  
+| bip_39_word_no_space_10 | safemusicevokeheadquestioninsaneslicefiresoupunusual |  
+| bip_39_word_no_space_11 | safemusicevokeheadquestioninsaneslicefiresoupunusualpelican |  
+| bip_39_word_no_space_12 | safemusicevokeheadquestioninsaneslicefiresoupunusualpelicanaspect |  
+| bip_39_word_no_space_2 | safemusic |  
+| bip_39_word_no_space_3 | safemusicevoke |  
+| bip_39_word_no_space_4 | safemusicevokehead |  
+| bip_39_word_no_space_5 | safemusicevokeheadquestion |  
+| bip_39_word_no_space_6 | safemusicevokeheadquestioninsane |  
+| bip_39_word_no_space_7 | safemusicevokeheadquestioninsaneslice |  
+| bip_39_word_no_space_8 | safemusicevokeheadquestioninsaneslicefire |  
+| bip_39_word_no_space_9 | safemusicevokeheadquestioninsaneslicefiresoup |  
 | bip_39_word_space_0 | ['safe', 'music', 'evoke', 'head', 'question', 'insane', 'slice', 'fire', 'soup', 'unusual', 'pelican', 'aspect'] |  
 | bip_39_word_space_1 | safe |  
 | bip_39_word_space_10 | safe music evoke head question insane slice fire soup unusual |  

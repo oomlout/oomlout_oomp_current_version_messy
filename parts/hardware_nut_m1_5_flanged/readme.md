@@ -122,6 +122,18 @@ october
 video
 gym
 chalk |  
+| bip_39_word_no_space_1 | achieve |  
+| bip_39_word_no_space_10 | achievelavatennismindgentleoctobervideogymchalkunveil |  
+| bip_39_word_no_space_11 | achievelavatennismindgentleoctobervideogymchalkunveilcrop |  
+| bip_39_word_no_space_12 | achievelavatennismindgentleoctobervideogymchalkunveilcropalpha |  
+| bip_39_word_no_space_2 | achievelava |  
+| bip_39_word_no_space_3 | achievelavatennis |  
+| bip_39_word_no_space_4 | achievelavatennismind |  
+| bip_39_word_no_space_5 | achievelavatennismindgentle |  
+| bip_39_word_no_space_6 | achievelavatennismindgentleoctober |  
+| bip_39_word_no_space_7 | achievelavatennismindgentleoctobervideo |  
+| bip_39_word_no_space_8 | achievelavatennismindgentleoctobervideogym |  
+| bip_39_word_no_space_9 | achievelavatennismindgentleoctobervideogymchalk |  
 | bip_39_word_space_0 | ['achieve', 'lava', 'tennis', 'mind', 'gentle', 'october', 'video', 'gym', 'chalk', 'unveil', 'crop', 'alpha'] |  
 | bip_39_word_space_1 | achieve |  
 | bip_39_word_space_10 | achieve lava tennis mind gentle october video gym chalk unveil |  

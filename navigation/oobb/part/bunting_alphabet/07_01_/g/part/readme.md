@@ -122,6 +122,18 @@ code
 yard
 valid
 endorse |  
+| bip_39_word_no_space_1 | panda |  
+| bip_39_word_no_space_10 | pandaphysicalbalconypapermazecodeyardvalidendorseeager |  
+| bip_39_word_no_space_11 | pandaphysicalbalconypapermazecodeyardvalidendorseeagerritual |  
+| bip_39_word_no_space_12 | pandaphysicalbalconypapermazecodeyardvalidendorseeagerritualarena |  
+| bip_39_word_no_space_2 | pandaphysical |  
+| bip_39_word_no_space_3 | pandaphysicalbalcony |  
+| bip_39_word_no_space_4 | pandaphysicalbalconypaper |  
+| bip_39_word_no_space_5 | pandaphysicalbalconypapermaze |  
+| bip_39_word_no_space_6 | pandaphysicalbalconypapermazecode |  
+| bip_39_word_no_space_7 | pandaphysicalbalconypapermazecodeyard |  
+| bip_39_word_no_space_8 | pandaphysicalbalconypapermazecodeyardvalid |  
+| bip_39_word_no_space_9 | pandaphysicalbalconypapermazecodeyardvalidendorse |  
 | bip_39_word_space_0 | ['panda', 'physical', 'balcony', 'paper', 'maze', 'code', 'yard', 'valid', 'endorse', 'eager', 'ritual', 'arena'] |  
 | bip_39_word_space_1 | panda |  
 | bip_39_word_space_10 | panda physical balcony paper maze code yard valid endorse eager |  

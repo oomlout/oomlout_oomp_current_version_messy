@@ -122,6 +122,18 @@ fix
 client
 stick
 save |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineestayamazingrulehatfixclientsticksavetoday |  
+| bip_39_word_no_space_11 | nomineestayamazingrulehatfixclientsticksavetodaysecond |  
+| bip_39_word_no_space_12 | nomineestayamazingrulehatfixclientsticksavetodaysecondassault |  
+| bip_39_word_no_space_2 | nomineestay |  
+| bip_39_word_no_space_3 | nomineestayamazing |  
+| bip_39_word_no_space_4 | nomineestayamazingrule |  
+| bip_39_word_no_space_5 | nomineestayamazingrulehat |  
+| bip_39_word_no_space_6 | nomineestayamazingrulehatfix |  
+| bip_39_word_no_space_7 | nomineestayamazingrulehatfixclient |  
+| bip_39_word_no_space_8 | nomineestayamazingrulehatfixclientstick |  
+| bip_39_word_no_space_9 | nomineestayamazingrulehatfixclientsticksave |  
 | bip_39_word_space_0 | ['nominee', 'stay', 'amazing', 'rule', 'hat', 'fix', 'client', 'stick', 'save', 'today', 'second', 'assault'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee stay amazing rule hat fix client stick save today |  

@@ -122,6 +122,18 @@ album
 private
 side
 gaze |  
+| bip_39_word_no_space_1 | market |  
+| bip_39_word_no_space_10 | markettaskprocessinitialdegreealbumprivatesidegazetruth |  
+| bip_39_word_no_space_11 | markettaskprocessinitialdegreealbumprivatesidegazetruthmixture |  
+| bip_39_word_no_space_12 | markettaskprocessinitialdegreealbumprivatesidegazetruthmixtureanger |  
+| bip_39_word_no_space_2 | markettask |  
+| bip_39_word_no_space_3 | markettaskprocess |  
+| bip_39_word_no_space_4 | markettaskprocessinitial |  
+| bip_39_word_no_space_5 | markettaskprocessinitialdegree |  
+| bip_39_word_no_space_6 | markettaskprocessinitialdegreealbum |  
+| bip_39_word_no_space_7 | markettaskprocessinitialdegreealbumprivate |  
+| bip_39_word_no_space_8 | markettaskprocessinitialdegreealbumprivateside |  
+| bip_39_word_no_space_9 | markettaskprocessinitialdegreealbumprivatesidegaze |  
 | bip_39_word_space_0 | ['market', 'task', 'process', 'initial', 'degree', 'album', 'private', 'side', 'gaze', 'truth', 'mixture', 'anger'] |  
 | bip_39_word_space_1 | market |  
 | bip_39_word_space_10 | market task process initial degree album private side gaze truth |  

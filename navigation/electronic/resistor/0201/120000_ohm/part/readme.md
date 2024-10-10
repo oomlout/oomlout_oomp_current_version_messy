@@ -122,6 +122,18 @@ broccoli
 sing
 cradle
 park |  
+| bip_39_word_no_space_1 | glue |  
+| bip_39_word_no_space_10 | gluevisafrostslicenursebroccolisingcradleparkindex |  
+| bip_39_word_no_space_11 | gluevisafrostslicenursebroccolisingcradleparkindexpudding |  
+| bip_39_word_no_space_12 | gluevisafrostslicenursebroccolisingcradleparkindexpuddingadmit |  
+| bip_39_word_no_space_2 | gluevisa |  
+| bip_39_word_no_space_3 | gluevisafrost |  
+| bip_39_word_no_space_4 | gluevisafrostslice |  
+| bip_39_word_no_space_5 | gluevisafrostslicenurse |  
+| bip_39_word_no_space_6 | gluevisafrostslicenursebroccoli |  
+| bip_39_word_no_space_7 | gluevisafrostslicenursebroccolising |  
+| bip_39_word_no_space_8 | gluevisafrostslicenursebroccolisingcradle |  
+| bip_39_word_no_space_9 | gluevisafrostslicenursebroccolisingcradlepark |  
 | bip_39_word_space_0 | ['glue', 'visa', 'frost', 'slice', 'nurse', 'broccoli', 'sing', 'cradle', 'park', 'index', 'pudding', 'admit'] |  
 | bip_39_word_space_1 | glue |  
 | bip_39_word_space_10 | glue visa frost slice nurse broccoli sing cradle park index |  

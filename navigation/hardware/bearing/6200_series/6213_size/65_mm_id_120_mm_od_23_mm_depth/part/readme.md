@@ -122,6 +122,18 @@ satisfy
 hazard
 impact
 radar |  
+| bip_39_word_no_space_1 | virus |  
+| bip_39_word_no_space_10 | virusswiftvideogymgoddesssatisfyhazardimpactradarbehind |  
+| bip_39_word_no_space_11 | virusswiftvideogymgoddesssatisfyhazardimpactradarbehindthought |  
+| bip_39_word_no_space_12 | virusswiftvideogymgoddesssatisfyhazardimpactradarbehindthoughtarrive |  
+| bip_39_word_no_space_2 | virusswift |  
+| bip_39_word_no_space_3 | virusswiftvideo |  
+| bip_39_word_no_space_4 | virusswiftvideogym |  
+| bip_39_word_no_space_5 | virusswiftvideogymgoddess |  
+| bip_39_word_no_space_6 | virusswiftvideogymgoddesssatisfy |  
+| bip_39_word_no_space_7 | virusswiftvideogymgoddesssatisfyhazard |  
+| bip_39_word_no_space_8 | virusswiftvideogymgoddesssatisfyhazardimpact |  
+| bip_39_word_no_space_9 | virusswiftvideogymgoddesssatisfyhazardimpactradar |  
 | bip_39_word_space_0 | ['virus', 'swift', 'video', 'gym', 'goddess', 'satisfy', 'hazard', 'impact', 'radar', 'behind', 'thought', 'arrive'] |  
 | bip_39_word_space_1 | virus |  
 | bip_39_word_space_10 | virus swift video gym goddess satisfy hazard impact radar behind |  

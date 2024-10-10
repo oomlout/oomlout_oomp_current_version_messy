@@ -122,6 +122,18 @@ army
 disease
 expose
 valley |  
+| bip_39_word_no_space_1 | relief |  
+| bip_39_word_no_space_10 | reliefflaghostexcessenergyarmydiseaseexposevalleyfaith |  
+| bip_39_word_no_space_11 | reliefflaghostexcessenergyarmydiseaseexposevalleyfaithpromote |  
+| bip_39_word_no_space_12 | reliefflaghostexcessenergyarmydiseaseexposevalleyfaithpromoteabstract |  
+| bip_39_word_no_space_2 | reliefflag |  
+| bip_39_word_no_space_3 | reliefflaghost |  
+| bip_39_word_no_space_4 | reliefflaghostexcess |  
+| bip_39_word_no_space_5 | reliefflaghostexcessenergy |  
+| bip_39_word_no_space_6 | reliefflaghostexcessenergyarmy |  
+| bip_39_word_no_space_7 | reliefflaghostexcessenergyarmydisease |  
+| bip_39_word_no_space_8 | reliefflaghostexcessenergyarmydiseaseexpose |  
+| bip_39_word_no_space_9 | reliefflaghostexcessenergyarmydiseaseexposevalley |  
 | bip_39_word_space_0 | ['relief', 'flag', 'host', 'excess', 'energy', 'army', 'disease', 'expose', 'valley', 'faith', 'promote', 'abstract'] |  
 | bip_39_word_space_1 | relief |  
 | bip_39_word_space_10 | relief flag host excess energy army disease expose valley faith |  

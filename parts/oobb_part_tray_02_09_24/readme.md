@@ -122,6 +122,18 @@ quick
 youth
 fire
 egg |  
+| bip_39_word_no_space_1 | goddess |  
+| bip_39_word_no_space_10 | goddessslabbestmazehavequickyouthfireeggecology |  
+| bip_39_word_no_space_11 | goddessslabbestmazehavequickyouthfireeggecologycat |  
+| bip_39_word_no_space_12 | goddessslabbestmazehavequickyouthfireeggecologycatanchor |  
+| bip_39_word_no_space_2 | goddessslab |  
+| bip_39_word_no_space_3 | goddessslabbest |  
+| bip_39_word_no_space_4 | goddessslabbestmaze |  
+| bip_39_word_no_space_5 | goddessslabbestmazehave |  
+| bip_39_word_no_space_6 | goddessslabbestmazehavequick |  
+| bip_39_word_no_space_7 | goddessslabbestmazehavequickyouth |  
+| bip_39_word_no_space_8 | goddessslabbestmazehavequickyouthfire |  
+| bip_39_word_no_space_9 | goddessslabbestmazehavequickyouthfireegg |  
 | bip_39_word_space_0 | ['goddess', 'slab', 'best', 'maze', 'have', 'quick', 'youth', 'fire', 'egg', 'ecology', 'cat', 'anchor'] |  
 | bip_39_word_space_1 | goddess |  
 | bip_39_word_space_10 | goddess slab best maze have quick youth fire egg ecology |  

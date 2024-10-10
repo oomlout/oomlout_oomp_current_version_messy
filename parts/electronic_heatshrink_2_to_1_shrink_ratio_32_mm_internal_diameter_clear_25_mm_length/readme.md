@@ -122,6 +122,18 @@ economy
 cook
 glad
 bottom |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimdomainorphanflamepowereconomycookgladbottomgoat |  
+| bip_39_word_no_space_11 | trimdomainorphanflamepowereconomycookgladbottomgoathard |  
+| bip_39_word_no_space_12 | trimdomainorphanflamepowereconomycookgladbottomgoathardabout |  
+| bip_39_word_no_space_2 | trimdomain |  
+| bip_39_word_no_space_3 | trimdomainorphan |  
+| bip_39_word_no_space_4 | trimdomainorphanflame |  
+| bip_39_word_no_space_5 | trimdomainorphanflamepower |  
+| bip_39_word_no_space_6 | trimdomainorphanflamepowereconomy |  
+| bip_39_word_no_space_7 | trimdomainorphanflamepowereconomycook |  
+| bip_39_word_no_space_8 | trimdomainorphanflamepowereconomycookglad |  
+| bip_39_word_no_space_9 | trimdomainorphanflamepowereconomycookgladbottom |  
 | bip_39_word_space_0 | ['trim', 'domain', 'orphan', 'flame', 'power', 'economy', 'cook', 'glad', 'bottom', 'goat', 'hard', 'about'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim domain orphan flame power economy cook glad bottom goat |  

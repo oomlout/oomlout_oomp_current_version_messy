@@ -122,6 +122,18 @@ oven
 divorce
 clip
 casino |  
+| bip_39_word_no_space_1 | state |  
+| bip_39_word_no_space_10 | statetwinostrichfixthumbovendivorceclipcasinonorth |  
+| bip_39_word_no_space_11 | statetwinostrichfixthumbovendivorceclipcasinonorthorient |  
+| bip_39_word_no_space_12 | statetwinostrichfixthumbovendivorceclipcasinonorthorientarmed |  
+| bip_39_word_no_space_2 | statetwin |  
+| bip_39_word_no_space_3 | statetwinostrich |  
+| bip_39_word_no_space_4 | statetwinostrichfix |  
+| bip_39_word_no_space_5 | statetwinostrichfixthumb |  
+| bip_39_word_no_space_6 | statetwinostrichfixthumboven |  
+| bip_39_word_no_space_7 | statetwinostrichfixthumbovendivorce |  
+| bip_39_word_no_space_8 | statetwinostrichfixthumbovendivorceclip |  
+| bip_39_word_no_space_9 | statetwinostrichfixthumbovendivorceclipcasino |  
 | bip_39_word_space_0 | ['state', 'twin', 'ostrich', 'fix', 'thumb', 'oven', 'divorce', 'clip', 'casino', 'north', 'orient', 'armed'] |  
 | bip_39_word_space_1 | state |  
 | bip_39_word_space_10 | state twin ostrich fix thumb oven divorce clip casino north |  

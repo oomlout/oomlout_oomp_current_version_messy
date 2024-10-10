@@ -122,6 +122,18 @@ help
 amateur
 shrug
 minimum |  
+| bip_39_word_no_space_1 | universe |  
+| bip_39_word_no_space_10 | universesoulmysterydevoteprofithelpamateurshrugminimumexecute |  
+| bip_39_word_no_space_11 | universesoulmysterydevoteprofithelpamateurshrugminimumexecutebachelor |  
+| bip_39_word_no_space_12 | universesoulmysterydevoteprofithelpamateurshrugminimumexecutebacheloranother |  
+| bip_39_word_no_space_2 | universesoul |  
+| bip_39_word_no_space_3 | universesoulmystery |  
+| bip_39_word_no_space_4 | universesoulmysterydevote |  
+| bip_39_word_no_space_5 | universesoulmysterydevoteprofit |  
+| bip_39_word_no_space_6 | universesoulmysterydevoteprofithelp |  
+| bip_39_word_no_space_7 | universesoulmysterydevoteprofithelpamateur |  
+| bip_39_word_no_space_8 | universesoulmysterydevoteprofithelpamateurshrug |  
+| bip_39_word_no_space_9 | universesoulmysterydevoteprofithelpamateurshrugminimum |  
 | bip_39_word_space_0 | ['universe', 'soul', 'mystery', 'devote', 'profit', 'help', 'amateur', 'shrug', 'minimum', 'execute', 'bachelor', 'another'] |  
 | bip_39_word_space_1 | universe |  
 | bip_39_word_space_10 | universe soul mystery devote profit help amateur shrug minimum execute |  

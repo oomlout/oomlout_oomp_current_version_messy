@@ -122,6 +122,18 @@ ride
 lobster
 claim
 timber |  
+| bip_39_word_no_space_1 | arrive |  
+| bip_39_word_no_space_10 | arriveoutputdialbestmaidridelobsterclaimtimberblade |  
+| bip_39_word_no_space_11 | arriveoutputdialbestmaidridelobsterclaimtimberbladedetect |  
+| bip_39_word_no_space_12 | arriveoutputdialbestmaidridelobsterclaimtimberbladedetectartist |  
+| bip_39_word_no_space_2 | arriveoutput |  
+| bip_39_word_no_space_3 | arriveoutputdial |  
+| bip_39_word_no_space_4 | arriveoutputdialbest |  
+| bip_39_word_no_space_5 | arriveoutputdialbestmaid |  
+| bip_39_word_no_space_6 | arriveoutputdialbestmaidride |  
+| bip_39_word_no_space_7 | arriveoutputdialbestmaidridelobster |  
+| bip_39_word_no_space_8 | arriveoutputdialbestmaidridelobsterclaim |  
+| bip_39_word_no_space_9 | arriveoutputdialbestmaidridelobsterclaimtimber |  
 | bip_39_word_space_0 | ['arrive', 'output', 'dial', 'best', 'maid', 'ride', 'lobster', 'claim', 'timber', 'blade', 'detect', 'artist'] |  
 | bip_39_word_space_1 | arrive |  
 | bip_39_word_space_10 | arrive output dial best maid ride lobster claim timber blade |  

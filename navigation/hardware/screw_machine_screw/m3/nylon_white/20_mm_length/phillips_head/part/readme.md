@@ -122,6 +122,18 @@ dream
 game
 fury
 elder |  
+| bip_39_word_no_space_1 | cheese |  
+| bip_39_word_no_space_10 | cheeseshyfuryfindswiftdreamgamefuryeldergenre |  
+| bip_39_word_no_space_11 | cheeseshyfuryfindswiftdreamgamefuryeldergenresmoke |  
+| bip_39_word_no_space_12 | cheeseshyfuryfindswiftdreamgamefuryeldergenresmokeaspect |  
+| bip_39_word_no_space_2 | cheeseshy |  
+| bip_39_word_no_space_3 | cheeseshyfury |  
+| bip_39_word_no_space_4 | cheeseshyfuryfind |  
+| bip_39_word_no_space_5 | cheeseshyfuryfindswift |  
+| bip_39_word_no_space_6 | cheeseshyfuryfindswiftdream |  
+| bip_39_word_no_space_7 | cheeseshyfuryfindswiftdreamgame |  
+| bip_39_word_no_space_8 | cheeseshyfuryfindswiftdreamgamefury |  
+| bip_39_word_no_space_9 | cheeseshyfuryfindswiftdreamgamefuryelder |  
 | bip_39_word_space_0 | ['cheese', 'shy', 'fury', 'find', 'swift', 'dream', 'game', 'fury', 'elder', 'genre', 'smoke', 'aspect'] |  
 | bip_39_word_space_1 | cheese |  
 | bip_39_word_space_10 | cheese shy fury find swift dream game fury elder genre |  

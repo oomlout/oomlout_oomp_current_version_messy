@@ -122,6 +122,18 @@ antique
 napkin
 physical
 trick |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infantupdatefaintsoftillnessantiquenapkinphysicaltricksausage |  
+| bip_39_word_no_space_11 | infantupdatefaintsoftillnessantiquenapkinphysicaltricksausageaudit |  
+| bip_39_word_no_space_12 | infantupdatefaintsoftillnessantiquenapkinphysicaltricksausageauditapology |  
+| bip_39_word_no_space_2 | infantupdate |  
+| bip_39_word_no_space_3 | infantupdatefaint |  
+| bip_39_word_no_space_4 | infantupdatefaintsoft |  
+| bip_39_word_no_space_5 | infantupdatefaintsoftillness |  
+| bip_39_word_no_space_6 | infantupdatefaintsoftillnessantique |  
+| bip_39_word_no_space_7 | infantupdatefaintsoftillnessantiquenapkin |  
+| bip_39_word_no_space_8 | infantupdatefaintsoftillnessantiquenapkinphysical |  
+| bip_39_word_no_space_9 | infantupdatefaintsoftillnessantiquenapkinphysicaltrick |  
 | bip_39_word_space_0 | ['infant', 'update', 'faint', 'soft', 'illness', 'antique', 'napkin', 'physical', 'trick', 'sausage', 'audit', 'apology'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant update faint soft illness antique napkin physical trick sausage |  

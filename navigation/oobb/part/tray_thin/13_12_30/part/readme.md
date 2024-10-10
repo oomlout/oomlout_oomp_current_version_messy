@@ -122,6 +122,18 @@ ticket
 early
 early
 patch |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasonfalsetrainfortunenormalticketearlyearlypatchteach |  
+| bip_39_word_no_space_11 | seasonfalsetrainfortunenormalticketearlyearlypatchteachpractice |  
+| bip_39_word_no_space_12 | seasonfalsetrainfortunenormalticketearlyearlypatchteachpracticeaunt |  
+| bip_39_word_no_space_2 | seasonfalse |  
+| bip_39_word_no_space_3 | seasonfalsetrain |  
+| bip_39_word_no_space_4 | seasonfalsetrainfortune |  
+| bip_39_word_no_space_5 | seasonfalsetrainfortunenormal |  
+| bip_39_word_no_space_6 | seasonfalsetrainfortunenormalticket |  
+| bip_39_word_no_space_7 | seasonfalsetrainfortunenormalticketearly |  
+| bip_39_word_no_space_8 | seasonfalsetrainfortunenormalticketearlyearly |  
+| bip_39_word_no_space_9 | seasonfalsetrainfortunenormalticketearlyearlypatch |  
 | bip_39_word_space_0 | ['season', 'false', 'train', 'fortune', 'normal', 'ticket', 'early', 'early', 'patch', 'teach', 'practice', 'aunt'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season false train fortune normal ticket early early patch teach |  

@@ -122,6 +122,18 @@ ecology
 review
 possible
 creek |  
+| bip_39_word_no_space_1 | tower |  
+| bip_39_word_no_space_10 | towerbettersheriffbluemeshecologyreviewpossiblecreekhigh |  
+| bip_39_word_no_space_11 | towerbettersheriffbluemeshecologyreviewpossiblecreekhighscout |  
+| bip_39_word_no_space_12 | towerbettersheriffbluemeshecologyreviewpossiblecreekhighscoutagain |  
+| bip_39_word_no_space_2 | towerbetter |  
+| bip_39_word_no_space_3 | towerbettersheriff |  
+| bip_39_word_no_space_4 | towerbettersheriffblue |  
+| bip_39_word_no_space_5 | towerbettersheriffbluemesh |  
+| bip_39_word_no_space_6 | towerbettersheriffbluemeshecology |  
+| bip_39_word_no_space_7 | towerbettersheriffbluemeshecologyreview |  
+| bip_39_word_no_space_8 | towerbettersheriffbluemeshecologyreviewpossible |  
+| bip_39_word_no_space_9 | towerbettersheriffbluemeshecologyreviewpossiblecreek |  
 | bip_39_word_space_0 | ['tower', 'better', 'sheriff', 'blue', 'mesh', 'ecology', 'review', 'possible', 'creek', 'high', 'scout', 'again'] |  
 | bip_39_word_space_1 | tower |  
 | bip_39_word_space_10 | tower better sheriff blue mesh ecology review possible creek high |  

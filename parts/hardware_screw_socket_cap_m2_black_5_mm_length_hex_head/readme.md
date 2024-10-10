@@ -122,6 +122,18 @@ property
 victory
 decade
 retire |  
+| bip_39_word_no_space_1 | giggle |  
+| bip_39_word_no_space_10 | giggletruckpotatoscrapsatisfypropertyvictorydecaderetiresilk |  
+| bip_39_word_no_space_11 | giggletruckpotatoscrapsatisfypropertyvictorydecaderetiresilkfault |  
+| bip_39_word_no_space_12 | giggletruckpotatoscrapsatisfypropertyvictorydecaderetiresilkfaultaim |  
+| bip_39_word_no_space_2 | giggletruck |  
+| bip_39_word_no_space_3 | giggletruckpotato |  
+| bip_39_word_no_space_4 | giggletruckpotatoscrap |  
+| bip_39_word_no_space_5 | giggletruckpotatoscrapsatisfy |  
+| bip_39_word_no_space_6 | giggletruckpotatoscrapsatisfyproperty |  
+| bip_39_word_no_space_7 | giggletruckpotatoscrapsatisfypropertyvictory |  
+| bip_39_word_no_space_8 | giggletruckpotatoscrapsatisfypropertyvictorydecade |  
+| bip_39_word_no_space_9 | giggletruckpotatoscrapsatisfypropertyvictorydecaderetire |  
 | bip_39_word_space_0 | ['giggle', 'truck', 'potato', 'scrap', 'satisfy', 'property', 'victory', 'decade', 'retire', 'silk', 'fault', 'aim'] |  
 | bip_39_word_space_1 | giggle |  
 | bip_39_word_space_10 | giggle truck potato scrap satisfy property victory decade retire silk |  

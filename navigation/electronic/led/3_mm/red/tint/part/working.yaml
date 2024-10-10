@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cute
   security
 
   crunch'
+bip_39_word_no_space_1: cute
+bip_39_word_no_space_10: cuteblaststableburstcagedeclineexcusesecuritycrunchguess
+bip_39_word_no_space_11: cuteblaststableburstcagedeclineexcusesecuritycrunchguessuniverse
+bip_39_word_no_space_12: cuteblaststableburstcagedeclineexcusesecuritycrunchguessuniverseauto
+bip_39_word_no_space_2: cuteblast
+bip_39_word_no_space_3: cuteblaststable
+bip_39_word_no_space_4: cuteblaststableburst
+bip_39_word_no_space_5: cuteblaststableburstcage
+bip_39_word_no_space_6: cuteblaststableburstcagedecline
+bip_39_word_no_space_7: cuteblaststableburstcagedeclineexcuse
+bip_39_word_no_space_8: cuteblaststableburstcagedeclineexcusesecurity
+bip_39_word_no_space_9: cuteblaststableburstcagedeclineexcusesecuritycrunch
 bip_39_word_space_0:
 - cute
 - blast

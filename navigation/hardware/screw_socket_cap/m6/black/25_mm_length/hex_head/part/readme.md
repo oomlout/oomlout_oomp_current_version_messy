@@ -122,6 +122,18 @@ power
 universe
 obtain
 light |  
+| bip_39_word_no_space_1 | faith |  
+| bip_39_word_no_space_10 | faithfilmbelieveassistspypoweruniverseobtainlighttransfer |  
+| bip_39_word_no_space_11 | faithfilmbelieveassistspypoweruniverseobtainlighttransferdial |  
+| bip_39_word_no_space_12 | faithfilmbelieveassistspypoweruniverseobtainlighttransferdialamateur |  
+| bip_39_word_no_space_2 | faithfilm |  
+| bip_39_word_no_space_3 | faithfilmbelieve |  
+| bip_39_word_no_space_4 | faithfilmbelieveassist |  
+| bip_39_word_no_space_5 | faithfilmbelieveassistspy |  
+| bip_39_word_no_space_6 | faithfilmbelieveassistspypower |  
+| bip_39_word_no_space_7 | faithfilmbelieveassistspypoweruniverse |  
+| bip_39_word_no_space_8 | faithfilmbelieveassistspypoweruniverseobtain |  
+| bip_39_word_no_space_9 | faithfilmbelieveassistspypoweruniverseobtainlight |  
 | bip_39_word_space_0 | ['faith', 'film', 'believe', 'assist', 'spy', 'power', 'universe', 'obtain', 'light', 'transfer', 'dial', 'amateur'] |  
 | bip_39_word_space_1 | faith |  
 | bip_39_word_space_10 | faith film believe assist spy power universe obtain light transfer |  

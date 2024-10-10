@@ -122,6 +122,18 @@ escape
 version
 cream
 advance |  
+| bip_39_word_no_space_1 | kite |  
+| bip_39_word_no_space_10 | kiteengageguideaspectdescribeescapeversioncreamadvancewasp |  
+| bip_39_word_no_space_11 | kiteengageguideaspectdescribeescapeversioncreamadvancewaspconnect |  
+| bip_39_word_no_space_12 | kiteengageguideaspectdescribeescapeversioncreamadvancewaspconnectarrive |  
+| bip_39_word_no_space_2 | kiteengage |  
+| bip_39_word_no_space_3 | kiteengageguide |  
+| bip_39_word_no_space_4 | kiteengageguideaspect |  
+| bip_39_word_no_space_5 | kiteengageguideaspectdescribe |  
+| bip_39_word_no_space_6 | kiteengageguideaspectdescribeescape |  
+| bip_39_word_no_space_7 | kiteengageguideaspectdescribeescapeversion |  
+| bip_39_word_no_space_8 | kiteengageguideaspectdescribeescapeversioncream |  
+| bip_39_word_no_space_9 | kiteengageguideaspectdescribeescapeversioncreamadvance |  
 | bip_39_word_space_0 | ['kite', 'engage', 'guide', 'aspect', 'describe', 'escape', 'version', 'cream', 'advance', 'wasp', 'connect', 'arrive'] |  
 | bip_39_word_space_1 | kite |  
 | bip_39_word_space_10 | kite engage guide aspect describe escape version cream advance wasp |  

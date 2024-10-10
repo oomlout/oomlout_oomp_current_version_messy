@@ -122,6 +122,18 @@ glow
 since
 abandon
 flock |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragileostrichidentifyuniversesoonglowsinceabandonflockinclude |  
+| bip_39_word_no_space_11 | fragileostrichidentifyuniversesoonglowsinceabandonflockincludebonus |  
+| bip_39_word_no_space_12 | fragileostrichidentifyuniversesoonglowsinceabandonflockincludebonusalready |  
+| bip_39_word_no_space_2 | fragileostrich |  
+| bip_39_word_no_space_3 | fragileostrichidentify |  
+| bip_39_word_no_space_4 | fragileostrichidentifyuniverse |  
+| bip_39_word_no_space_5 | fragileostrichidentifyuniversesoon |  
+| bip_39_word_no_space_6 | fragileostrichidentifyuniversesoonglow |  
+| bip_39_word_no_space_7 | fragileostrichidentifyuniversesoonglowsince |  
+| bip_39_word_no_space_8 | fragileostrichidentifyuniversesoonglowsinceabandon |  
+| bip_39_word_no_space_9 | fragileostrichidentifyuniversesoonglowsinceabandonflock |  
 | bip_39_word_space_0 | ['fragile', 'ostrich', 'identify', 'universe', 'soon', 'glow', 'since', 'abandon', 'flock', 'include', 'bonus', 'already'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile ostrich identify universe soon glow since abandon flock include |  

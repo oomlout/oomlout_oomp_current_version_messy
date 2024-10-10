@@ -122,6 +122,18 @@ bracket
 develop
 fix
 furnace |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeymotorweathertriggersubwaybracketdevelopfixfurnacenice |  
+| bip_39_word_no_space_11 | monkeymotorweathertriggersubwaybracketdevelopfixfurnaceniceleft |  
+| bip_39_word_no_space_12 | monkeymotorweathertriggersubwaybracketdevelopfixfurnaceniceleftask |  
+| bip_39_word_no_space_2 | monkeymotor |  
+| bip_39_word_no_space_3 | monkeymotorweather |  
+| bip_39_word_no_space_4 | monkeymotorweathertrigger |  
+| bip_39_word_no_space_5 | monkeymotorweathertriggersubway |  
+| bip_39_word_no_space_6 | monkeymotorweathertriggersubwaybracket |  
+| bip_39_word_no_space_7 | monkeymotorweathertriggersubwaybracketdevelop |  
+| bip_39_word_no_space_8 | monkeymotorweathertriggersubwaybracketdevelopfix |  
+| bip_39_word_no_space_9 | monkeymotorweathertriggersubwaybracketdevelopfixfurnace |  
 | bip_39_word_space_0 | ['monkey', 'motor', 'weather', 'trigger', 'subway', 'bracket', 'develop', 'fix', 'furnace', 'nice', 'left', 'ask'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey motor weather trigger subway bracket develop fix furnace nice |  

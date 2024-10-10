@@ -122,6 +122,18 @@ moon
 potato
 abuse
 effort |  
+| bip_39_word_no_space_1 | antenna |  
+| bip_39_word_no_space_10 | antennagoatdrillironfacultymoonpotatoabuseeffortcase |  
+| bip_39_word_no_space_11 | antennagoatdrillironfacultymoonpotatoabuseeffortcasearea |  
+| bip_39_word_no_space_12 | antennagoatdrillironfacultymoonpotatoabuseeffortcaseareaanxiety |  
+| bip_39_word_no_space_2 | antennagoat |  
+| bip_39_word_no_space_3 | antennagoatdrill |  
+| bip_39_word_no_space_4 | antennagoatdrilliron |  
+| bip_39_word_no_space_5 | antennagoatdrillironfaculty |  
+| bip_39_word_no_space_6 | antennagoatdrillironfacultymoon |  
+| bip_39_word_no_space_7 | antennagoatdrillironfacultymoonpotato |  
+| bip_39_word_no_space_8 | antennagoatdrillironfacultymoonpotatoabuse |  
+| bip_39_word_no_space_9 | antennagoatdrillironfacultymoonpotatoabuseeffort |  
 | bip_39_word_space_0 | ['antenna', 'goat', 'drill', 'iron', 'faculty', 'moon', 'potato', 'abuse', 'effort', 'case', 'area', 'anxiety'] |  
 | bip_39_word_space_1 | antenna |  
 | bip_39_word_space_10 | antenna goat drill iron faculty moon potato abuse effort case |  

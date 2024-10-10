@@ -122,6 +122,18 @@ educate
 will
 bring
 crater |  
+| bip_39_word_no_space_1 | bounce |  
+| bip_39_word_no_space_10 | bouncepondstrikescriptgloryeducatewillbringcratergrunt |  
+| bip_39_word_no_space_11 | bouncepondstrikescriptgloryeducatewillbringcratergruntinside |  
+| bip_39_word_no_space_12 | bouncepondstrikescriptgloryeducatewillbringcratergruntinsideamount |  
+| bip_39_word_no_space_2 | bouncepond |  
+| bip_39_word_no_space_3 | bouncepondstrike |  
+| bip_39_word_no_space_4 | bouncepondstrikescript |  
+| bip_39_word_no_space_5 | bouncepondstrikescriptglory |  
+| bip_39_word_no_space_6 | bouncepondstrikescriptgloryeducate |  
+| bip_39_word_no_space_7 | bouncepondstrikescriptgloryeducatewill |  
+| bip_39_word_no_space_8 | bouncepondstrikescriptgloryeducatewillbring |  
+| bip_39_word_no_space_9 | bouncepondstrikescriptgloryeducatewillbringcrater |  
 | bip_39_word_space_0 | ['bounce', 'pond', 'strike', 'script', 'glory', 'educate', 'will', 'bring', 'crater', 'grunt', 'inside', 'amount'] |  
 | bip_39_word_space_1 | bounce |  
 | bip_39_word_space_10 | bounce pond strike script glory educate will bring crater grunt |  

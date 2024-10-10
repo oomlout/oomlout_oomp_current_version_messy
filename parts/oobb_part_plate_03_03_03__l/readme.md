@@ -122,6 +122,18 @@ comfort
 uncover
 strong
 fatal |  
+| bip_39_word_no_space_1 | move |  
+| bip_39_word_no_space_10 | moveslimriceoutputnetworkcomfortuncoverstrongfataldrift |  
+| bip_39_word_no_space_11 | moveslimriceoutputnetworkcomfortuncoverstrongfataldriftdad |  
+| bip_39_word_no_space_12 | moveslimriceoutputnetworkcomfortuncoverstrongfataldriftdadall |  
+| bip_39_word_no_space_2 | moveslim |  
+| bip_39_word_no_space_3 | moveslimrice |  
+| bip_39_word_no_space_4 | moveslimriceoutput |  
+| bip_39_word_no_space_5 | moveslimriceoutputnetwork |  
+| bip_39_word_no_space_6 | moveslimriceoutputnetworkcomfort |  
+| bip_39_word_no_space_7 | moveslimriceoutputnetworkcomfortuncover |  
+| bip_39_word_no_space_8 | moveslimriceoutputnetworkcomfortuncoverstrong |  
+| bip_39_word_no_space_9 | moveslimriceoutputnetworkcomfortuncoverstrongfatal |  
 | bip_39_word_space_0 | ['move', 'slim', 'rice', 'output', 'network', 'comfort', 'uncover', 'strong', 'fatal', 'drift', 'dad', 'all'] |  
 | bip_39_word_space_1 | move |  
 | bip_39_word_space_10 | move slim rice output network comfort uncover strong fatal drift |  

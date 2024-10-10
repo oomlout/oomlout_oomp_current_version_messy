@@ -123,6 +123,18 @@ vocal
 swing
 aware
 help |  
+| bip_39_word_no_space_1 | advance |  
+| bip_39_word_no_space_10 | advancecartrelaxinspirenutvocalswingawarehelpbrave |  
+| bip_39_word_no_space_11 | advancecartrelaxinspirenutvocalswingawarehelpbravetypical |  
+| bip_39_word_no_space_12 | advancecartrelaxinspirenutvocalswingawarehelpbravetypicalavocado |  
+| bip_39_word_no_space_2 | advancecart |  
+| bip_39_word_no_space_3 | advancecartrelax |  
+| bip_39_word_no_space_4 | advancecartrelaxinspire |  
+| bip_39_word_no_space_5 | advancecartrelaxinspirenut |  
+| bip_39_word_no_space_6 | advancecartrelaxinspirenutvocal |  
+| bip_39_word_no_space_7 | advancecartrelaxinspirenutvocalswing |  
+| bip_39_word_no_space_8 | advancecartrelaxinspirenutvocalswingaware |  
+| bip_39_word_no_space_9 | advancecartrelaxinspirenutvocalswingawarehelp |  
 | bip_39_word_space_0 | ['advance', 'cart', 'relax', 'inspire', 'nut', 'vocal', 'swing', 'aware', 'help', 'brave', 'typical', 'avocado'] |  
 | bip_39_word_space_1 | advance |  
 | bip_39_word_space_10 | advance cart relax inspire nut vocal swing aware help brave |  

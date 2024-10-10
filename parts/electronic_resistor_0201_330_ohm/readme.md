@@ -122,6 +122,18 @@ vintage
 immense
 expand
 february |  
+| bip_39_word_no_space_1 | reveal |  
+| bip_39_word_no_space_10 | revealscreenenvelopemattertripvintageimmenseexpandfebruaryforward |  
+| bip_39_word_no_space_11 | revealscreenenvelopemattertripvintageimmenseexpandfebruaryforwardboard |  
+| bip_39_word_no_space_12 | revealscreenenvelopemattertripvintageimmenseexpandfebruaryforwardboardalpha |  
+| bip_39_word_no_space_2 | revealscreen |  
+| bip_39_word_no_space_3 | revealscreenenvelope |  
+| bip_39_word_no_space_4 | revealscreenenvelopematter |  
+| bip_39_word_no_space_5 | revealscreenenvelopemattertrip |  
+| bip_39_word_no_space_6 | revealscreenenvelopemattertripvintage |  
+| bip_39_word_no_space_7 | revealscreenenvelopemattertripvintageimmense |  
+| bip_39_word_no_space_8 | revealscreenenvelopemattertripvintageimmenseexpand |  
+| bip_39_word_no_space_9 | revealscreenenvelopemattertripvintageimmenseexpandfebruary |  
 | bip_39_word_space_0 | ['reveal', 'screen', 'envelope', 'matter', 'trip', 'vintage', 'immense', 'expand', 'february', 'forward', 'board', 'alpha'] |  
 | bip_39_word_space_1 | reveal |  
 | bip_39_word_space_10 | reveal screen envelope matter trip vintage immense expand february forward |  

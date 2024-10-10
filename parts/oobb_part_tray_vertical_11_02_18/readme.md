@@ -122,6 +122,18 @@ brave
 slice
 burger
 autumn |  
+| bip_39_word_no_space_1 | annual |  
+| bip_39_word_no_space_10 | annualbonustransfercinnamonrebuildbravesliceburgerautumnproof |  
+| bip_39_word_no_space_11 | annualbonustransfercinnamonrebuildbravesliceburgerautumnproofpupil |  
+| bip_39_word_no_space_12 | annualbonustransfercinnamonrebuildbravesliceburgerautumnproofpupilangle |  
+| bip_39_word_no_space_2 | annualbonus |  
+| bip_39_word_no_space_3 | annualbonustransfer |  
+| bip_39_word_no_space_4 | annualbonustransfercinnamon |  
+| bip_39_word_no_space_5 | annualbonustransfercinnamonrebuild |  
+| bip_39_word_no_space_6 | annualbonustransfercinnamonrebuildbrave |  
+| bip_39_word_no_space_7 | annualbonustransfercinnamonrebuildbraveslice |  
+| bip_39_word_no_space_8 | annualbonustransfercinnamonrebuildbravesliceburger |  
+| bip_39_word_no_space_9 | annualbonustransfercinnamonrebuildbravesliceburgerautumn |  
 | bip_39_word_space_0 | ['annual', 'bonus', 'transfer', 'cinnamon', 'rebuild', 'brave', 'slice', 'burger', 'autumn', 'proof', 'pupil', 'angle'] |  
 | bip_39_word_space_1 | annual |  
 | bip_39_word_space_10 | annual bonus transfer cinnamon rebuild brave slice burger autumn proof |  

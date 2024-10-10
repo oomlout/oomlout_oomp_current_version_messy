@@ -122,6 +122,18 @@ stone
 party
 fuel
 tray |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comeangrystrategyguessceilingstonepartyfueltraysalmon |  
+| bip_39_word_no_space_11 | comeangrystrategyguessceilingstonepartyfueltraysalmonjump |  
+| bip_39_word_no_space_12 | comeangrystrategyguessceilingstonepartyfueltraysalmonjumpamong |  
+| bip_39_word_no_space_2 | comeangry |  
+| bip_39_word_no_space_3 | comeangrystrategy |  
+| bip_39_word_no_space_4 | comeangrystrategyguess |  
+| bip_39_word_no_space_5 | comeangrystrategyguessceiling |  
+| bip_39_word_no_space_6 | comeangrystrategyguessceilingstone |  
+| bip_39_word_no_space_7 | comeangrystrategyguessceilingstoneparty |  
+| bip_39_word_no_space_8 | comeangrystrategyguessceilingstonepartyfuel |  
+| bip_39_word_no_space_9 | comeangrystrategyguessceilingstonepartyfueltray |  
 | bip_39_word_space_0 | ['come', 'angry', 'strategy', 'guess', 'ceiling', 'stone', 'party', 'fuel', 'tray', 'salmon', 'jump', 'among'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come angry strategy guess ceiling stone party fuel tray salmon |  

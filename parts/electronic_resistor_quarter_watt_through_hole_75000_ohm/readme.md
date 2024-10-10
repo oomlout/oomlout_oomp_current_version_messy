@@ -122,6 +122,18 @@ soda
 mass
 tide
 exact |  
+| bip_39_word_no_space_1 | still |  
+| bip_39_word_no_space_10 | stillcitizensquirrelalltotalsodamasstideexactcertain |  
+| bip_39_word_no_space_11 | stillcitizensquirrelalltotalsodamasstideexactcertaingown |  
+| bip_39_word_no_space_12 | stillcitizensquirrelalltotalsodamasstideexactcertaingownaffair |  
+| bip_39_word_no_space_2 | stillcitizen |  
+| bip_39_word_no_space_3 | stillcitizensquirrel |  
+| bip_39_word_no_space_4 | stillcitizensquirrelall |  
+| bip_39_word_no_space_5 | stillcitizensquirrelalltotal |  
+| bip_39_word_no_space_6 | stillcitizensquirrelalltotalsoda |  
+| bip_39_word_no_space_7 | stillcitizensquirrelalltotalsodamass |  
+| bip_39_word_no_space_8 | stillcitizensquirrelalltotalsodamasstide |  
+| bip_39_word_no_space_9 | stillcitizensquirrelalltotalsodamasstideexact |  
 | bip_39_word_space_0 | ['still', 'citizen', 'squirrel', 'all', 'total', 'soda', 'mass', 'tide', 'exact', 'certain', 'gown', 'affair'] |  
 | bip_39_word_space_1 | still |  
 | bip_39_word_space_10 | still citizen squirrel all total soda mass tide exact certain |  

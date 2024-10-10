@@ -122,6 +122,18 @@ call
 civil
 prefer
 genius |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipprepareglancebelowaerobiccallcivilprefergeniussolution |  
+| bip_39_word_no_space_11 | shipprepareglancebelowaerobiccallcivilprefergeniussolutionsniff |  
+| bip_39_word_no_space_12 | shipprepareglancebelowaerobiccallcivilprefergeniussolutionsniffatom |  
+| bip_39_word_no_space_2 | shipprepare |  
+| bip_39_word_no_space_3 | shipprepareglance |  
+| bip_39_word_no_space_4 | shipprepareglancebelow |  
+| bip_39_word_no_space_5 | shipprepareglancebelowaerobic |  
+| bip_39_word_no_space_6 | shipprepareglancebelowaerobiccall |  
+| bip_39_word_no_space_7 | shipprepareglancebelowaerobiccallcivil |  
+| bip_39_word_no_space_8 | shipprepareglancebelowaerobiccallcivilprefer |  
+| bip_39_word_no_space_9 | shipprepareglancebelowaerobiccallcivilprefergenius |  
 | bip_39_word_space_0 | ['ship', 'prepare', 'glance', 'below', 'aerobic', 'call', 'civil', 'prefer', 'genius', 'solution', 'sniff', 'atom'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship prepare glance below aerobic call civil prefer genius solution |  

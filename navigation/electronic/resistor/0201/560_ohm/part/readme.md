@@ -122,6 +122,18 @@ snake
 before
 lumber
 surge |  
+| bip_39_word_no_space_1 | like |  
+| bip_39_word_no_space_10 | likeinitialpalacehistoryrelysnakebeforelumbersurgecurve |  
+| bip_39_word_no_space_11 | likeinitialpalacehistoryrelysnakebeforelumbersurgecurvebacon |  
+| bip_39_word_no_space_12 | likeinitialpalacehistoryrelysnakebeforelumbersurgecurvebaconacid |  
+| bip_39_word_no_space_2 | likeinitial |  
+| bip_39_word_no_space_3 | likeinitialpalace |  
+| bip_39_word_no_space_4 | likeinitialpalacehistory |  
+| bip_39_word_no_space_5 | likeinitialpalacehistoryrely |  
+| bip_39_word_no_space_6 | likeinitialpalacehistoryrelysnake |  
+| bip_39_word_no_space_7 | likeinitialpalacehistoryrelysnakebefore |  
+| bip_39_word_no_space_8 | likeinitialpalacehistoryrelysnakebeforelumber |  
+| bip_39_word_no_space_9 | likeinitialpalacehistoryrelysnakebeforelumbersurge |  
 | bip_39_word_space_0 | ['like', 'initial', 'palace', 'history', 'rely', 'snake', 'before', 'lumber', 'surge', 'curve', 'bacon', 'acid'] |  
 | bip_39_word_space_1 | like |  
 | bip_39_word_space_10 | like initial palace history rely snake before lumber surge curve |  

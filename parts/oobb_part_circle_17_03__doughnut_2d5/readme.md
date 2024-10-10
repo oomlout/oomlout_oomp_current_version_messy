@@ -122,6 +122,18 @@ income
 rack
 shaft
 margin |  
+| bip_39_word_no_space_1 | mouse |  
+| bip_39_word_no_space_10 | mousecrawlcenturykingdomemployincomerackshaftmarginmango |  
+| bip_39_word_no_space_11 | mousecrawlcenturykingdomemployincomerackshaftmarginmangotravel |  
+| bip_39_word_no_space_12 | mousecrawlcenturykingdomemployincomerackshaftmarginmangotravelart |  
+| bip_39_word_no_space_2 | mousecrawl |  
+| bip_39_word_no_space_3 | mousecrawlcentury |  
+| bip_39_word_no_space_4 | mousecrawlcenturykingdom |  
+| bip_39_word_no_space_5 | mousecrawlcenturykingdomemploy |  
+| bip_39_word_no_space_6 | mousecrawlcenturykingdomemployincome |  
+| bip_39_word_no_space_7 | mousecrawlcenturykingdomemployincomerack |  
+| bip_39_word_no_space_8 | mousecrawlcenturykingdomemployincomerackshaft |  
+| bip_39_word_no_space_9 | mousecrawlcenturykingdomemployincomerackshaftmargin |  
 | bip_39_word_space_0 | ['mouse', 'crawl', 'century', 'kingdom', 'employ', 'income', 'rack', 'shaft', 'margin', 'mango', 'travel', 'art'] |  
 | bip_39_word_space_1 | mouse |  
 | bip_39_word_space_10 | mouse crawl century kingdom employ income rack shaft margin mango |  

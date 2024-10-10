@@ -122,6 +122,18 @@ what
 trick
 genuine
 grit |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | enveloperebuildpromotetimeworrywhattrickgenuinegritendless |  
+| bip_39_word_no_space_11 | enveloperebuildpromotetimeworrywhattrickgenuinegritendlessnear |  
+| bip_39_word_no_space_12 | enveloperebuildpromotetimeworrywhattrickgenuinegritendlessnearavocado |  
+| bip_39_word_no_space_2 | enveloperebuild |  
+| bip_39_word_no_space_3 | enveloperebuildpromote |  
+| bip_39_word_no_space_4 | enveloperebuildpromotetime |  
+| bip_39_word_no_space_5 | enveloperebuildpromotetimeworry |  
+| bip_39_word_no_space_6 | enveloperebuildpromotetimeworrywhat |  
+| bip_39_word_no_space_7 | enveloperebuildpromotetimeworrywhattrick |  
+| bip_39_word_no_space_8 | enveloperebuildpromotetimeworrywhattrickgenuine |  
+| bip_39_word_no_space_9 | enveloperebuildpromotetimeworrywhattrickgenuinegrit |  
 | bip_39_word_space_0 | ['envelope', 'rebuild', 'promote', 'time', 'worry', 'what', 'trick', 'genuine', 'grit', 'endless', 'near', 'avocado'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope rebuild promote time worry what trick genuine grit endless |  

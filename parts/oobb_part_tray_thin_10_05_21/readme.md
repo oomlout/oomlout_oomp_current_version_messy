@@ -122,6 +122,18 @@ sibling
 biology
 escape
 walk |  
+| bip_39_word_no_space_1 | maze |  
+| bip_39_word_no_space_10 | mazesupremetimemembergownsiblingbiologyescapewalkgenius |  
+| bip_39_word_no_space_11 | mazesupremetimemembergownsiblingbiologyescapewalkgeniusridge |  
+| bip_39_word_no_space_12 | mazesupremetimemembergownsiblingbiologyescapewalkgeniusridgeathlete |  
+| bip_39_word_no_space_2 | mazesupreme |  
+| bip_39_word_no_space_3 | mazesupremetime |  
+| bip_39_word_no_space_4 | mazesupremetimemember |  
+| bip_39_word_no_space_5 | mazesupremetimemembergown |  
+| bip_39_word_no_space_6 | mazesupremetimemembergownsibling |  
+| bip_39_word_no_space_7 | mazesupremetimemembergownsiblingbiology |  
+| bip_39_word_no_space_8 | mazesupremetimemembergownsiblingbiologyescape |  
+| bip_39_word_no_space_9 | mazesupremetimemembergownsiblingbiologyescapewalk |  
 | bip_39_word_space_0 | ['maze', 'supreme', 'time', 'member', 'gown', 'sibling', 'biology', 'escape', 'walk', 'genius', 'ridge', 'athlete'] |  
 | bip_39_word_space_1 | maze |  
 | bip_39_word_space_10 | maze supreme time member gown sibling biology escape walk genius |  

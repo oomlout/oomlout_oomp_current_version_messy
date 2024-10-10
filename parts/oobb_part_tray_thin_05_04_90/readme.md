@@ -122,6 +122,18 @@ cousin
 carbon
 scissors
 shiver |  
+| bip_39_word_no_space_1 | dash |  
+| bip_39_word_no_space_10 | dashswapstagepyramidmirrorcousincarbonscissorsshiveranother |  
+| bip_39_word_no_space_11 | dashswapstagepyramidmirrorcousincarbonscissorsshiveranotherindustry |  
+| bip_39_word_no_space_12 | dashswapstagepyramidmirrorcousincarbonscissorsshiveranotherindustryapril |  
+| bip_39_word_no_space_2 | dashswap |  
+| bip_39_word_no_space_3 | dashswapstage |  
+| bip_39_word_no_space_4 | dashswapstagepyramid |  
+| bip_39_word_no_space_5 | dashswapstagepyramidmirror |  
+| bip_39_word_no_space_6 | dashswapstagepyramidmirrorcousin |  
+| bip_39_word_no_space_7 | dashswapstagepyramidmirrorcousincarbon |  
+| bip_39_word_no_space_8 | dashswapstagepyramidmirrorcousincarbonscissors |  
+| bip_39_word_no_space_9 | dashswapstagepyramidmirrorcousincarbonscissorsshiver |  
 | bip_39_word_space_0 | ['dash', 'swap', 'stage', 'pyramid', 'mirror', 'cousin', 'carbon', 'scissors', 'shiver', 'another', 'industry', 'april'] |  
 | bip_39_word_space_1 | dash |  
 | bip_39_word_space_10 | dash swap stage pyramid mirror cousin carbon scissors shiver another |  

@@ -122,6 +122,18 @@ large
 cry
 oblige
 struggle |  
+| bip_39_word_no_space_1 | relief |  
+| bip_39_word_no_space_10 | reliefblushusagerefuseobjectlargecryobligestrugglethis |  
+| bip_39_word_no_space_11 | reliefblushusagerefuseobjectlargecryobligestrugglethisvacant |  
+| bip_39_word_no_space_12 | reliefblushusagerefuseobjectlargecryobligestrugglethisvacantagain |  
+| bip_39_word_no_space_2 | reliefblush |  
+| bip_39_word_no_space_3 | reliefblushusage |  
+| bip_39_word_no_space_4 | reliefblushusagerefuse |  
+| bip_39_word_no_space_5 | reliefblushusagerefuseobject |  
+| bip_39_word_no_space_6 | reliefblushusagerefuseobjectlarge |  
+| bip_39_word_no_space_7 | reliefblushusagerefuseobjectlargecry |  
+| bip_39_word_no_space_8 | reliefblushusagerefuseobjectlargecryoblige |  
+| bip_39_word_no_space_9 | reliefblushusagerefuseobjectlargecryobligestruggle |  
 | bip_39_word_space_0 | ['relief', 'blush', 'usage', 'refuse', 'object', 'large', 'cry', 'oblige', 'struggle', 'this', 'vacant', 'again'] |  
 | bip_39_word_space_1 | relief |  
 | bip_39_word_space_10 | relief blush usage refuse object large cry oblige struggle this |  

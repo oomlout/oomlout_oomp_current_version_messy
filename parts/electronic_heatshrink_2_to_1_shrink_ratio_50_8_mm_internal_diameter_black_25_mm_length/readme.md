@@ -122,6 +122,18 @@ journey
 fitness
 panda
 all |  
+| bip_39_word_no_space_1 | caught |  
+| bip_39_word_no_space_10 | caughtfansirenundocropjourneyfitnesspandaallbridge |  
+| bip_39_word_no_space_11 | caughtfansirenundocropjourneyfitnesspandaallbridgearrow |  
+| bip_39_word_no_space_12 | caughtfansirenundocropjourneyfitnesspandaallbridgearrowanalyst |  
+| bip_39_word_no_space_2 | caughtfan |  
+| bip_39_word_no_space_3 | caughtfansiren |  
+| bip_39_word_no_space_4 | caughtfansirenundo |  
+| bip_39_word_no_space_5 | caughtfansirenundocrop |  
+| bip_39_word_no_space_6 | caughtfansirenundocropjourney |  
+| bip_39_word_no_space_7 | caughtfansirenundocropjourneyfitness |  
+| bip_39_word_no_space_8 | caughtfansirenundocropjourneyfitnesspanda |  
+| bip_39_word_no_space_9 | caughtfansirenundocropjourneyfitnesspandaall |  
 | bip_39_word_space_0 | ['caught', 'fan', 'siren', 'undo', 'crop', 'journey', 'fitness', 'panda', 'all', 'bridge', 'arrow', 'analyst'] |  
 | bip_39_word_space_1 | caught |  
 | bip_39_word_space_10 | caught fan siren undo crop journey fitness panda all bridge |  

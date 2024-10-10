@@ -122,6 +122,18 @@ list
 moon
 sheriff
 dose |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancekisssalmonfragilerisklistmoonsheriffdoseurge |  
+| bip_39_word_no_space_11 | dancekisssalmonfragilerisklistmoonsheriffdoseurgeassume |  
+| bip_39_word_no_space_12 | dancekisssalmonfragilerisklistmoonsheriffdoseurgeassumeanother |  
+| bip_39_word_no_space_2 | dancekiss |  
+| bip_39_word_no_space_3 | dancekisssalmon |  
+| bip_39_word_no_space_4 | dancekisssalmonfragile |  
+| bip_39_word_no_space_5 | dancekisssalmonfragilerisk |  
+| bip_39_word_no_space_6 | dancekisssalmonfragilerisklist |  
+| bip_39_word_no_space_7 | dancekisssalmonfragilerisklistmoon |  
+| bip_39_word_no_space_8 | dancekisssalmonfragilerisklistmoonsheriff |  
+| bip_39_word_no_space_9 | dancekisssalmonfragilerisklistmoonsheriffdose |  
 | bip_39_word_space_0 | ['dance', 'kiss', 'salmon', 'fragile', 'risk', 'list', 'moon', 'sheriff', 'dose', 'urge', 'assume', 'another'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance kiss salmon fragile risk list moon sheriff dose urge |  

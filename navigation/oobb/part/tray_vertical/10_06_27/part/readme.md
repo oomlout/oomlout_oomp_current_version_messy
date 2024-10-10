@@ -122,6 +122,18 @@ push
 insect
 glad
 effort |  
+| bip_39_word_no_space_1 | rice |  
+| bip_39_word_no_space_10 | riceurbanhopelawsuitfrozenpushinsectgladeffortsunny |  
+| bip_39_word_no_space_11 | riceurbanhopelawsuitfrozenpushinsectgladeffortsunnyarch |  
+| bip_39_word_no_space_12 | riceurbanhopelawsuitfrozenpushinsectgladeffortsunnyarchahead |  
+| bip_39_word_no_space_2 | riceurban |  
+| bip_39_word_no_space_3 | riceurbanhope |  
+| bip_39_word_no_space_4 | riceurbanhopelawsuit |  
+| bip_39_word_no_space_5 | riceurbanhopelawsuitfrozen |  
+| bip_39_word_no_space_6 | riceurbanhopelawsuitfrozenpush |  
+| bip_39_word_no_space_7 | riceurbanhopelawsuitfrozenpushinsect |  
+| bip_39_word_no_space_8 | riceurbanhopelawsuitfrozenpushinsectglad |  
+| bip_39_word_no_space_9 | riceurbanhopelawsuitfrozenpushinsectgladeffort |  
 | bip_39_word_space_0 | ['rice', 'urban', 'hope', 'lawsuit', 'frozen', 'push', 'insect', 'glad', 'effort', 'sunny', 'arch', 'ahead'] |  
 | bip_39_word_space_1 | rice |  
 | bip_39_word_space_10 | rice urban hope lawsuit frozen push insect glad effort sunny |  

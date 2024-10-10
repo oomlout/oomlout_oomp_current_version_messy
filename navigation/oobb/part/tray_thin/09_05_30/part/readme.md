@@ -122,6 +122,18 @@ second
 noble
 escape
 breeze |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relyworkvacuumequalpolicesecondnobleescapebreezeall |  
+| bip_39_word_no_space_11 | relyworkvacuumequalpolicesecondnobleescapebreezeallslow |  
+| bip_39_word_no_space_12 | relyworkvacuumequalpolicesecondnobleescapebreezeallslowapple |  
+| bip_39_word_no_space_2 | relywork |  
+| bip_39_word_no_space_3 | relyworkvacuum |  
+| bip_39_word_no_space_4 | relyworkvacuumequal |  
+| bip_39_word_no_space_5 | relyworkvacuumequalpolice |  
+| bip_39_word_no_space_6 | relyworkvacuumequalpolicesecond |  
+| bip_39_word_no_space_7 | relyworkvacuumequalpolicesecondnoble |  
+| bip_39_word_no_space_8 | relyworkvacuumequalpolicesecondnobleescape |  
+| bip_39_word_no_space_9 | relyworkvacuumequalpolicesecondnobleescapebreeze |  
 | bip_39_word_space_0 | ['rely', 'work', 'vacuum', 'equal', 'police', 'second', 'noble', 'escape', 'breeze', 'all', 'slow', 'apple'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely work vacuum equal police second noble escape breeze all |  

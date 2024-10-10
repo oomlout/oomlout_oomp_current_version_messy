@@ -122,6 +122,18 @@ differ
 rare
 lab
 person |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announcepitchroadpigsimpledifferrarelabpersoncabbage |  
+| bip_39_word_no_space_11 | announcepitchroadpigsimpledifferrarelabpersoncabbagegrocery |  
+| bip_39_word_no_space_12 | announcepitchroadpigsimpledifferrarelabpersoncabbagegroceryankle |  
+| bip_39_word_no_space_2 | announcepitch |  
+| bip_39_word_no_space_3 | announcepitchroad |  
+| bip_39_word_no_space_4 | announcepitchroadpig |  
+| bip_39_word_no_space_5 | announcepitchroadpigsimple |  
+| bip_39_word_no_space_6 | announcepitchroadpigsimplediffer |  
+| bip_39_word_no_space_7 | announcepitchroadpigsimpledifferrare |  
+| bip_39_word_no_space_8 | announcepitchroadpigsimpledifferrarelab |  
+| bip_39_word_no_space_9 | announcepitchroadpigsimpledifferrarelabperson |  
 | bip_39_word_space_0 | ['announce', 'pitch', 'road', 'pig', 'simple', 'differ', 'rare', 'lab', 'person', 'cabbage', 'grocery', 'ankle'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce pitch road pig simple differ rare lab person cabbage |  

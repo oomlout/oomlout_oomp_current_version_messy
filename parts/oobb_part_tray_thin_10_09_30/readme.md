@@ -122,6 +122,18 @@ film
 common
 frequent
 identify |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockelbowdisorderenjoyridefilmcommonfrequentidentifysoul |  
+| bip_39_word_no_space_11 | flockelbowdisorderenjoyridefilmcommonfrequentidentifysoultwin |  
+| bip_39_word_no_space_12 | flockelbowdisorderenjoyridefilmcommonfrequentidentifysoultwinacid |  
+| bip_39_word_no_space_2 | flockelbow |  
+| bip_39_word_no_space_3 | flockelbowdisorder |  
+| bip_39_word_no_space_4 | flockelbowdisorderenjoy |  
+| bip_39_word_no_space_5 | flockelbowdisorderenjoyride |  
+| bip_39_word_no_space_6 | flockelbowdisorderenjoyridefilm |  
+| bip_39_word_no_space_7 | flockelbowdisorderenjoyridefilmcommon |  
+| bip_39_word_no_space_8 | flockelbowdisorderenjoyridefilmcommonfrequent |  
+| bip_39_word_no_space_9 | flockelbowdisorderenjoyridefilmcommonfrequentidentify |  
 | bip_39_word_space_0 | ['flock', 'elbow', 'disorder', 'enjoy', 'ride', 'film', 'common', 'frequent', 'identify', 'soul', 'twin', 'acid'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock elbow disorder enjoy ride film common frequent identify soul |  

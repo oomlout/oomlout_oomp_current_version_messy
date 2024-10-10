@@ -122,6 +122,18 @@ kingdom
 cricket
 grass
 mouse |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miseryanchorstartexilebalancekingdomcricketgrassmouseelement |  
+| bip_39_word_no_space_11 | miseryanchorstartexilebalancekingdomcricketgrassmouseelementprison |  
+| bip_39_word_no_space_12 | miseryanchorstartexilebalancekingdomcricketgrassmouseelementprisonacross |  
+| bip_39_word_no_space_2 | miseryanchor |  
+| bip_39_word_no_space_3 | miseryanchorstart |  
+| bip_39_word_no_space_4 | miseryanchorstartexile |  
+| bip_39_word_no_space_5 | miseryanchorstartexilebalance |  
+| bip_39_word_no_space_6 | miseryanchorstartexilebalancekingdom |  
+| bip_39_word_no_space_7 | miseryanchorstartexilebalancekingdomcricket |  
+| bip_39_word_no_space_8 | miseryanchorstartexilebalancekingdomcricketgrass |  
+| bip_39_word_no_space_9 | miseryanchorstartexilebalancekingdomcricketgrassmouse |  
 | bip_39_word_space_0 | ['misery', 'anchor', 'start', 'exile', 'balance', 'kingdom', 'cricket', 'grass', 'mouse', 'element', 'prison', 'across'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery anchor start exile balance kingdom cricket grass mouse element |  

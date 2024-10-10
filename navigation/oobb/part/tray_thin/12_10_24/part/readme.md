@@ -122,6 +122,18 @@ wealth
 valley
 garden
 mystery |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudeadvicetoddlerattendgovernwealthvalleygardenmysteryoxygen |  
+| bip_39_word_no_space_11 | attitudeadvicetoddlerattendgovernwealthvalleygardenmysteryoxygenspecial |  
+| bip_39_word_no_space_12 | attitudeadvicetoddlerattendgovernwealthvalleygardenmysteryoxygenspecialaccuse |  
+| bip_39_word_no_space_2 | attitudeadvice |  
+| bip_39_word_no_space_3 | attitudeadvicetoddler |  
+| bip_39_word_no_space_4 | attitudeadvicetoddlerattend |  
+| bip_39_word_no_space_5 | attitudeadvicetoddlerattendgovern |  
+| bip_39_word_no_space_6 | attitudeadvicetoddlerattendgovernwealth |  
+| bip_39_word_no_space_7 | attitudeadvicetoddlerattendgovernwealthvalley |  
+| bip_39_word_no_space_8 | attitudeadvicetoddlerattendgovernwealthvalleygarden |  
+| bip_39_word_no_space_9 | attitudeadvicetoddlerattendgovernwealthvalleygardenmystery |  
 | bip_39_word_space_0 | ['attitude', 'advice', 'toddler', 'attend', 'govern', 'wealth', 'valley', 'garden', 'mystery', 'oxygen', 'special', 'accuse'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude advice toddler attend govern wealth valley garden mystery oxygen |  

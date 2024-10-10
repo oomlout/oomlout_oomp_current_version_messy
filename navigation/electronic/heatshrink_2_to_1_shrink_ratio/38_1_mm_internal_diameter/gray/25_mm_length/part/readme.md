@@ -122,6 +122,18 @@ odor
 chronic
 neck
 state |  
+| bip_39_word_no_space_1 | canal |  
+| bip_39_word_no_space_10 | canalechosleepadultargueodorchronicneckstatebenefit |  
+| bip_39_word_no_space_11 | canalechosleepadultargueodorchronicneckstatebenefitdemand |  
+| bip_39_word_no_space_12 | canalechosleepadultargueodorchronicneckstatebenefitdemandactress |  
+| bip_39_word_no_space_2 | canalecho |  
+| bip_39_word_no_space_3 | canalechosleep |  
+| bip_39_word_no_space_4 | canalechosleepadult |  
+| bip_39_word_no_space_5 | canalechosleepadultargue |  
+| bip_39_word_no_space_6 | canalechosleepadultargueodor |  
+| bip_39_word_no_space_7 | canalechosleepadultargueodorchronic |  
+| bip_39_word_no_space_8 | canalechosleepadultargueodorchronicneck |  
+| bip_39_word_no_space_9 | canalechosleepadultargueodorchronicneckstate |  
 | bip_39_word_space_0 | ['canal', 'echo', 'sleep', 'adult', 'argue', 'odor', 'chronic', 'neck', 'state', 'benefit', 'demand', 'actress'] |  
 | bip_39_word_space_1 | canal |  
 | bip_39_word_space_10 | canal echo sleep adult argue odor chronic neck state benefit |  

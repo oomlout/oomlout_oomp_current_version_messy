@@ -122,6 +122,18 @@ sponsor
 elite
 cheap
 term |  
+| bip_39_word_no_space_1 | seed |  
+| bip_39_word_no_space_10 | seedmissmountainfiscalkneesponsorelitecheaptermcongress |  
+| bip_39_word_no_space_11 | seedmissmountainfiscalkneesponsorelitecheaptermcongresswife |  
+| bip_39_word_no_space_12 | seedmissmountainfiscalkneesponsorelitecheaptermcongresswifeartist |  
+| bip_39_word_no_space_2 | seedmiss |  
+| bip_39_word_no_space_3 | seedmissmountain |  
+| bip_39_word_no_space_4 | seedmissmountainfiscal |  
+| bip_39_word_no_space_5 | seedmissmountainfiscalknee |  
+| bip_39_word_no_space_6 | seedmissmountainfiscalkneesponsor |  
+| bip_39_word_no_space_7 | seedmissmountainfiscalkneesponsorelite |  
+| bip_39_word_no_space_8 | seedmissmountainfiscalkneesponsorelitecheap |  
+| bip_39_word_no_space_9 | seedmissmountainfiscalkneesponsorelitecheapterm |  
 | bip_39_word_space_0 | ['seed', 'miss', 'mountain', 'fiscal', 'knee', 'sponsor', 'elite', 'cheap', 'term', 'congress', 'wife', 'artist'] |  
 | bip_39_word_space_1 | seed |  
 | bip_39_word_space_10 | seed miss mountain fiscal knee sponsor elite cheap term congress |  

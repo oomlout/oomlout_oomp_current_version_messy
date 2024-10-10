@@ -122,6 +122,18 @@ domain
 meadow
 domain
 someone |  
+| bip_39_word_no_space_1 | jungle |  
+| bip_39_word_no_space_10 | junglewrestleexplainmagnetcomedomainmeadowdomainsomeonenaive |  
+| bip_39_word_no_space_11 | junglewrestleexplainmagnetcomedomainmeadowdomainsomeonenaiveliar |  
+| bip_39_word_no_space_12 | junglewrestleexplainmagnetcomedomainmeadowdomainsomeonenaiveliarabsorb |  
+| bip_39_word_no_space_2 | junglewrestle |  
+| bip_39_word_no_space_3 | junglewrestleexplain |  
+| bip_39_word_no_space_4 | junglewrestleexplainmagnet |  
+| bip_39_word_no_space_5 | junglewrestleexplainmagnetcome |  
+| bip_39_word_no_space_6 | junglewrestleexplainmagnetcomedomain |  
+| bip_39_word_no_space_7 | junglewrestleexplainmagnetcomedomainmeadow |  
+| bip_39_word_no_space_8 | junglewrestleexplainmagnetcomedomainmeadowdomain |  
+| bip_39_word_no_space_9 | junglewrestleexplainmagnetcomedomainmeadowdomainsomeone |  
 | bip_39_word_space_0 | ['jungle', 'wrestle', 'explain', 'magnet', 'come', 'domain', 'meadow', 'domain', 'someone', 'naive', 'liar', 'absorb'] |  
 | bip_39_word_space_1 | jungle |  
 | bip_39_word_space_10 | jungle wrestle explain magnet come domain meadow domain someone naive |  

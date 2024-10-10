@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'open
   six
 
   mountain'
+bip_39_word_no_space_1: open
+bip_39_word_no_space_10: openenactgrabswallowglancephotoevokesixmountainquick
+bip_39_word_no_space_11: openenactgrabswallowglancephotoevokesixmountainquickcitizen
+bip_39_word_no_space_12: openenactgrabswallowglancephotoevokesixmountainquickcitizenapprove
+bip_39_word_no_space_2: openenact
+bip_39_word_no_space_3: openenactgrab
+bip_39_word_no_space_4: openenactgrabswallow
+bip_39_word_no_space_5: openenactgrabswallowglance
+bip_39_word_no_space_6: openenactgrabswallowglancephoto
+bip_39_word_no_space_7: openenactgrabswallowglancephotoevoke
+bip_39_word_no_space_8: openenactgrabswallowglancephotoevokesix
+bip_39_word_no_space_9: openenactgrabswallowglancephotoevokesixmountain
 bip_39_word_space_0:
 - open
 - enact

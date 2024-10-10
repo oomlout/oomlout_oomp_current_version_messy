@@ -122,6 +122,18 @@ say
 craft
 scan
 chalk |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessobeydripswifttrashsaycraftscanchalkbusiness |  
+| bip_39_word_no_space_11 | excessobeydripswifttrashsaycraftscanchalkbusinesspath |  
+| bip_39_word_no_space_12 | excessobeydripswifttrashsaycraftscanchalkbusinesspathattitude |  
+| bip_39_word_no_space_2 | excessobey |  
+| bip_39_word_no_space_3 | excessobeydrip |  
+| bip_39_word_no_space_4 | excessobeydripswift |  
+| bip_39_word_no_space_5 | excessobeydripswifttrash |  
+| bip_39_word_no_space_6 | excessobeydripswifttrashsay |  
+| bip_39_word_no_space_7 | excessobeydripswifttrashsaycraft |  
+| bip_39_word_no_space_8 | excessobeydripswifttrashsaycraftscan |  
+| bip_39_word_no_space_9 | excessobeydripswifttrashsaycraftscanchalk |  
 | bip_39_word_space_0 | ['excess', 'obey', 'drip', 'swift', 'trash', 'say', 'craft', 'scan', 'chalk', 'business', 'path', 'attitude'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess obey drip swift trash say craft scan chalk business |  

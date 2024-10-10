@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'use
   add
 
   vote'
+bip_39_word_no_space_1: use
+bip_39_word_no_space_10: useswampdieselsocialrentlifthoodaddvotebrave
+bip_39_word_no_space_11: useswampdieselsocialrentlifthoodaddvotebravesplit
+bip_39_word_no_space_12: useswampdieselsocialrentlifthoodaddvotebravesplitattend
+bip_39_word_no_space_2: useswamp
+bip_39_word_no_space_3: useswampdiesel
+bip_39_word_no_space_4: useswampdieselsocial
+bip_39_word_no_space_5: useswampdieselsocialrent
+bip_39_word_no_space_6: useswampdieselsocialrentlift
+bip_39_word_no_space_7: useswampdieselsocialrentlifthood
+bip_39_word_no_space_8: useswampdieselsocialrentlifthoodadd
+bip_39_word_no_space_9: useswampdieselsocialrentlifthoodaddvote
 bip_39_word_space_0:
 - use
 - swamp

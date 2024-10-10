@@ -122,6 +122,18 @@ subject
 next
 coil
 sentence |  
+| bip_39_word_no_space_1 | crush |  
+| bip_39_word_no_space_10 | crushponyhamsterbeangeniussubjectnextcoilsentencesteak |  
+| bip_39_word_no_space_11 | crushponyhamsterbeangeniussubjectnextcoilsentencesteakoutdoor |  
+| bip_39_word_no_space_12 | crushponyhamsterbeangeniussubjectnextcoilsentencesteakoutdooravocado |  
+| bip_39_word_no_space_2 | crushpony |  
+| bip_39_word_no_space_3 | crushponyhamster |  
+| bip_39_word_no_space_4 | crushponyhamsterbean |  
+| bip_39_word_no_space_5 | crushponyhamsterbeangenius |  
+| bip_39_word_no_space_6 | crushponyhamsterbeangeniussubject |  
+| bip_39_word_no_space_7 | crushponyhamsterbeangeniussubjectnext |  
+| bip_39_word_no_space_8 | crushponyhamsterbeangeniussubjectnextcoil |  
+| bip_39_word_no_space_9 | crushponyhamsterbeangeniussubjectnextcoilsentence |  
 | bip_39_word_space_0 | ['crush', 'pony', 'hamster', 'bean', 'genius', 'subject', 'next', 'coil', 'sentence', 'steak', 'outdoor', 'avocado'] |  
 | bip_39_word_space_1 | crush |  
 | bip_39_word_space_10 | crush pony hamster bean genius subject next coil sentence steak |  

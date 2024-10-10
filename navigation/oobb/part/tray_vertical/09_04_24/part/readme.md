@@ -122,6 +122,18 @@ floor
 pulse
 target
 soon |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallycreditcarryerodesweetfloorpulsetargetsoonfever |  
+| bip_39_word_no_space_11 | rallycreditcarryerodesweetfloorpulsetargetsoonfeverpractice |  
+| bip_39_word_no_space_12 | rallycreditcarryerodesweetfloorpulsetargetsoonfeverpracticeart |  
+| bip_39_word_no_space_2 | rallycredit |  
+| bip_39_word_no_space_3 | rallycreditcarry |  
+| bip_39_word_no_space_4 | rallycreditcarryerode |  
+| bip_39_word_no_space_5 | rallycreditcarryerodesweet |  
+| bip_39_word_no_space_6 | rallycreditcarryerodesweetfloor |  
+| bip_39_word_no_space_7 | rallycreditcarryerodesweetfloorpulse |  
+| bip_39_word_no_space_8 | rallycreditcarryerodesweetfloorpulsetarget |  
+| bip_39_word_no_space_9 | rallycreditcarryerodesweetfloorpulsetargetsoon |  
 | bip_39_word_space_0 | ['rally', 'credit', 'carry', 'erode', 'sweet', 'floor', 'pulse', 'target', 'soon', 'fever', 'practice', 'art'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally credit carry erode sweet floor pulse target soon fever |  

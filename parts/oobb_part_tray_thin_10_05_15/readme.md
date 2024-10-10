@@ -122,6 +122,18 @@ guard
 service
 crash
 mansion |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistolhawkclaprecordmixguardservicecrashmansioncereal |  
+| bip_39_word_no_space_11 | pistolhawkclaprecordmixguardservicecrashmansioncerealtag |  
+| bip_39_word_no_space_12 | pistolhawkclaprecordmixguardservicecrashmansioncerealtagacid |  
+| bip_39_word_no_space_2 | pistolhawk |  
+| bip_39_word_no_space_3 | pistolhawkclap |  
+| bip_39_word_no_space_4 | pistolhawkclaprecord |  
+| bip_39_word_no_space_5 | pistolhawkclaprecordmix |  
+| bip_39_word_no_space_6 | pistolhawkclaprecordmixguard |  
+| bip_39_word_no_space_7 | pistolhawkclaprecordmixguardservice |  
+| bip_39_word_no_space_8 | pistolhawkclaprecordmixguardservicecrash |  
+| bip_39_word_no_space_9 | pistolhawkclaprecordmixguardservicecrashmansion |  
 | bip_39_word_space_0 | ['pistol', 'hawk', 'clap', 'record', 'mix', 'guard', 'service', 'crash', 'mansion', 'cereal', 'tag', 'acid'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol hawk clap record mix guard service crash mansion cereal |  

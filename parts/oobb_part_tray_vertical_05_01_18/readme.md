@@ -122,6 +122,18 @@ render
 leg
 cup
 soldier |  
+| bip_39_word_no_space_1 | slice |  
+| bip_39_word_no_space_10 | slicetaxiutilityrunwayhorrorrenderlegcupsoldierhundred |  
+| bip_39_word_no_space_11 | slicetaxiutilityrunwayhorrorrenderlegcupsoldierhundredbutter |  
+| bip_39_word_no_space_12 | slicetaxiutilityrunwayhorrorrenderlegcupsoldierhundredbutteralarm |  
+| bip_39_word_no_space_2 | slicetaxi |  
+| bip_39_word_no_space_3 | slicetaxiutility |  
+| bip_39_word_no_space_4 | slicetaxiutilityrunway |  
+| bip_39_word_no_space_5 | slicetaxiutilityrunwayhorror |  
+| bip_39_word_no_space_6 | slicetaxiutilityrunwayhorrorrender |  
+| bip_39_word_no_space_7 | slicetaxiutilityrunwayhorrorrenderleg |  
+| bip_39_word_no_space_8 | slicetaxiutilityrunwayhorrorrenderlegcup |  
+| bip_39_word_no_space_9 | slicetaxiutilityrunwayhorrorrenderlegcupsoldier |  
 | bip_39_word_space_0 | ['slice', 'taxi', 'utility', 'runway', 'horror', 'render', 'leg', 'cup', 'soldier', 'hundred', 'butter', 'alarm'] |  
 | bip_39_word_space_1 | slice |  
 | bip_39_word_space_10 | slice taxi utility runway horror render leg cup soldier hundred |  

@@ -122,6 +122,18 @@ evoke
 question
 parent
 shoulder |  
+| bip_39_word_no_space_1 | debris |  
+| bip_39_word_no_space_10 | debrisepisodenorthsorryupgradeevokequestionparentshoulderdamage |  
+| bip_39_word_no_space_11 | debrisepisodenorthsorryupgradeevokequestionparentshoulderdamagewrong |  
+| bip_39_word_no_space_12 | debrisepisodenorthsorryupgradeevokequestionparentshoulderdamagewrongage |  
+| bip_39_word_no_space_2 | debrisepisode |  
+| bip_39_word_no_space_3 | debrisepisodenorth |  
+| bip_39_word_no_space_4 | debrisepisodenorthsorry |  
+| bip_39_word_no_space_5 | debrisepisodenorthsorryupgrade |  
+| bip_39_word_no_space_6 | debrisepisodenorthsorryupgradeevoke |  
+| bip_39_word_no_space_7 | debrisepisodenorthsorryupgradeevokequestion |  
+| bip_39_word_no_space_8 | debrisepisodenorthsorryupgradeevokequestionparent |  
+| bip_39_word_no_space_9 | debrisepisodenorthsorryupgradeevokequestionparentshoulder |  
 | bip_39_word_space_0 | ['debris', 'episode', 'north', 'sorry', 'upgrade', 'evoke', 'question', 'parent', 'shoulder', 'damage', 'wrong', 'age'] |  
 | bip_39_word_space_1 | debris |  
 | bip_39_word_space_10 | debris episode north sorry upgrade evoke question parent shoulder damage |  

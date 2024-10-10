@@ -122,6 +122,18 @@ rule
 obtain
 tide
 replace |  
+| bip_39_word_no_space_1 | illegal |  
+| bip_39_word_no_space_10 | illegalrugweddingemergepencilruleobtaintidereplaceketchup |  
+| bip_39_word_no_space_11 | illegalrugweddingemergepencilruleobtaintidereplaceketchupchampion |  
+| bip_39_word_no_space_12 | illegalrugweddingemergepencilruleobtaintidereplaceketchupchampionair |  
+| bip_39_word_no_space_2 | illegalrug |  
+| bip_39_word_no_space_3 | illegalrugwedding |  
+| bip_39_word_no_space_4 | illegalrugweddingemerge |  
+| bip_39_word_no_space_5 | illegalrugweddingemergepencil |  
+| bip_39_word_no_space_6 | illegalrugweddingemergepencilrule |  
+| bip_39_word_no_space_7 | illegalrugweddingemergepencilruleobtain |  
+| bip_39_word_no_space_8 | illegalrugweddingemergepencilruleobtaintide |  
+| bip_39_word_no_space_9 | illegalrugweddingemergepencilruleobtaintidereplace |  
 | bip_39_word_space_0 | ['illegal', 'rug', 'wedding', 'emerge', 'pencil', 'rule', 'obtain', 'tide', 'replace', 'ketchup', 'champion', 'air'] |  
 | bip_39_word_space_1 | illegal |  
 | bip_39_word_space_10 | illegal rug wedding emerge pencil rule obtain tide replace ketchup |  

@@ -122,6 +122,18 @@ drastic
 muffin
 step
 stumble |  
+| bip_39_word_no_space_1 | mix |  
+| bip_39_word_no_space_10 | mixendorsewitnessraccoonclosedrasticmuffinstepstumblenest |  
+| bip_39_word_no_space_11 | mixendorsewitnessraccoonclosedrasticmuffinstepstumblenestrobust |  
+| bip_39_word_no_space_12 | mixendorsewitnessraccoonclosedrasticmuffinstepstumblenestrobustannual |  
+| bip_39_word_no_space_2 | mixendorse |  
+| bip_39_word_no_space_3 | mixendorsewitness |  
+| bip_39_word_no_space_4 | mixendorsewitnessraccoon |  
+| bip_39_word_no_space_5 | mixendorsewitnessraccoonclose |  
+| bip_39_word_no_space_6 | mixendorsewitnessraccoonclosedrastic |  
+| bip_39_word_no_space_7 | mixendorsewitnessraccoonclosedrasticmuffin |  
+| bip_39_word_no_space_8 | mixendorsewitnessraccoonclosedrasticmuffinstep |  
+| bip_39_word_no_space_9 | mixendorsewitnessraccoonclosedrasticmuffinstepstumble |  
 | bip_39_word_space_0 | ['mix', 'endorse', 'witness', 'raccoon', 'close', 'drastic', 'muffin', 'step', 'stumble', 'nest', 'robust', 'annual'] |  
 | bip_39_word_space_1 | mix |  
 | bip_39_word_space_10 | mix endorse witness raccoon close drastic muffin step stumble nest |  

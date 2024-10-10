@@ -122,6 +122,18 @@ airport
 evil
 open
 steel |  
+| bip_39_word_no_space_1 | tomorrow |  
+| bip_39_word_no_space_10 | tomorrowbannerminutebirthimposeairportevilopensteeldove |  
+| bip_39_word_no_space_11 | tomorrowbannerminutebirthimposeairportevilopensteeldovesatoshi |  
+| bip_39_word_no_space_12 | tomorrowbannerminutebirthimposeairportevilopensteeldovesatoshiauto |  
+| bip_39_word_no_space_2 | tomorrowbanner |  
+| bip_39_word_no_space_3 | tomorrowbannerminute |  
+| bip_39_word_no_space_4 | tomorrowbannerminutebirth |  
+| bip_39_word_no_space_5 | tomorrowbannerminutebirthimpose |  
+| bip_39_word_no_space_6 | tomorrowbannerminutebirthimposeairport |  
+| bip_39_word_no_space_7 | tomorrowbannerminutebirthimposeairportevil |  
+| bip_39_word_no_space_8 | tomorrowbannerminutebirthimposeairportevilopen |  
+| bip_39_word_no_space_9 | tomorrowbannerminutebirthimposeairportevilopensteel |  
 | bip_39_word_space_0 | ['tomorrow', 'banner', 'minute', 'birth', 'impose', 'airport', 'evil', 'open', 'steel', 'dove', 'satoshi', 'auto'] |  
 | bip_39_word_space_1 | tomorrow |  
 | bip_39_word_space_10 | tomorrow banner minute birth impose airport evil open steel dove |  

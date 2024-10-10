@@ -122,6 +122,18 @@ plastic
 fault
 length
 neglect |  
+| bip_39_word_no_space_1 | mixed |  
+| bip_39_word_no_space_10 | mixedcattledamagenotedolphinplasticfaultlengthneglectbetray |  
+| bip_39_word_no_space_11 | mixedcattledamagenotedolphinplasticfaultlengthneglectbetrayfew |  
+| bip_39_word_no_space_12 | mixedcattledamagenotedolphinplasticfaultlengthneglectbetrayfewaugust |  
+| bip_39_word_no_space_2 | mixedcattle |  
+| bip_39_word_no_space_3 | mixedcattledamage |  
+| bip_39_word_no_space_4 | mixedcattledamagenote |  
+| bip_39_word_no_space_5 | mixedcattledamagenotedolphin |  
+| bip_39_word_no_space_6 | mixedcattledamagenotedolphinplastic |  
+| bip_39_word_no_space_7 | mixedcattledamagenotedolphinplasticfault |  
+| bip_39_word_no_space_8 | mixedcattledamagenotedolphinplasticfaultlength |  
+| bip_39_word_no_space_9 | mixedcattledamagenotedolphinplasticfaultlengthneglect |  
 | bip_39_word_space_0 | ['mixed', 'cattle', 'damage', 'note', 'dolphin', 'plastic', 'fault', 'length', 'neglect', 'betray', 'few', 'august'] |  
 | bip_39_word_space_1 | mixed |  
 | bip_39_word_space_10 | mixed cattle damage note dolphin plastic fault length neglect betray |  

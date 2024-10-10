@@ -122,6 +122,18 @@ edge
 judge
 dust
 slim |  
+| bip_39_word_no_space_1 | vital |  
+| bip_39_word_no_space_10 | vitalharvestsortincreasetoddleredgejudgedustslimfox |  
+| bip_39_word_no_space_11 | vitalharvestsortincreasetoddleredgejudgedustslimfoxcaught |  
+| bip_39_word_no_space_12 | vitalharvestsortincreasetoddleredgejudgedustslimfoxcaughtaccuse |  
+| bip_39_word_no_space_2 | vitalharvest |  
+| bip_39_word_no_space_3 | vitalharvestsort |  
+| bip_39_word_no_space_4 | vitalharvestsortincrease |  
+| bip_39_word_no_space_5 | vitalharvestsortincreasetoddler |  
+| bip_39_word_no_space_6 | vitalharvestsortincreasetoddleredge |  
+| bip_39_word_no_space_7 | vitalharvestsortincreasetoddleredgejudge |  
+| bip_39_word_no_space_8 | vitalharvestsortincreasetoddleredgejudgedust |  
+| bip_39_word_no_space_9 | vitalharvestsortincreasetoddleredgejudgedustslim |  
 | bip_39_word_space_0 | ['vital', 'harvest', 'sort', 'increase', 'toddler', 'edge', 'judge', 'dust', 'slim', 'fox', 'caught', 'accuse'] |  
 | bip_39_word_space_1 | vital |  
 | bip_39_word_space_10 | vital harvest sort increase toddler edge judge dust slim fox |  

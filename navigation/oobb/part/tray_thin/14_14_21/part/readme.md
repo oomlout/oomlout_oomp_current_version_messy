@@ -122,6 +122,18 @@ business
 grit
 actual
 pond |  
+| bip_39_word_no_space_1 | young |  
+| bip_39_word_no_space_10 | younggapemotiondignitynuclearbusinessgritactualpondcreek |  
+| bip_39_word_no_space_11 | younggapemotiondignitynuclearbusinessgritactualpondcreekbrief |  
+| bip_39_word_no_space_12 | younggapemotiondignitynuclearbusinessgritactualpondcreekbriefapril |  
+| bip_39_word_no_space_2 | younggap |  
+| bip_39_word_no_space_3 | younggapemotion |  
+| bip_39_word_no_space_4 | younggapemotiondignity |  
+| bip_39_word_no_space_5 | younggapemotiondignitynuclear |  
+| bip_39_word_no_space_6 | younggapemotiondignitynuclearbusiness |  
+| bip_39_word_no_space_7 | younggapemotiondignitynuclearbusinessgrit |  
+| bip_39_word_no_space_8 | younggapemotiondignitynuclearbusinessgritactual |  
+| bip_39_word_no_space_9 | younggapemotiondignitynuclearbusinessgritactualpond |  
 | bip_39_word_space_0 | ['young', 'gap', 'emotion', 'dignity', 'nuclear', 'business', 'grit', 'actual', 'pond', 'creek', 'brief', 'april'] |  
 | bip_39_word_space_1 | young |  
 | bip_39_word_space_10 | young gap emotion dignity nuclear business grit actual pond creek |  

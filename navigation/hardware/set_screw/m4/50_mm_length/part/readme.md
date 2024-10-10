@@ -122,6 +122,18 @@ hunt
 utility
 crisp
 lemon |  
+| bip_39_word_no_space_1 | diesel |  
+| bip_39_word_no_space_10 | dieselbulbaheadjellychronichuntutilitycrisplemonfloat |  
+| bip_39_word_no_space_11 | dieselbulbaheadjellychronichuntutilitycrisplemonfloatcan |  
+| bip_39_word_no_space_12 | dieselbulbaheadjellychronichuntutilitycrisplemonfloatcanachieve |  
+| bip_39_word_no_space_2 | dieselbulb |  
+| bip_39_word_no_space_3 | dieselbulbahead |  
+| bip_39_word_no_space_4 | dieselbulbaheadjelly |  
+| bip_39_word_no_space_5 | dieselbulbaheadjellychronic |  
+| bip_39_word_no_space_6 | dieselbulbaheadjellychronichunt |  
+| bip_39_word_no_space_7 | dieselbulbaheadjellychronichuntutility |  
+| bip_39_word_no_space_8 | dieselbulbaheadjellychronichuntutilitycrisp |  
+| bip_39_word_no_space_9 | dieselbulbaheadjellychronichuntutilitycrisplemon |  
 | bip_39_word_space_0 | ['diesel', 'bulb', 'ahead', 'jelly', 'chronic', 'hunt', 'utility', 'crisp', 'lemon', 'float', 'can', 'achieve'] |  
 | bip_39_word_space_1 | diesel |  
 | bip_39_word_space_10 | diesel bulb ahead jelly chronic hunt utility crisp lemon float |  

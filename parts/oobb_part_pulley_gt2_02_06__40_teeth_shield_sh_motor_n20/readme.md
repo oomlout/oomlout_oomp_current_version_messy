@@ -122,6 +122,18 @@ cook
 hurry
 occur
 metal |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footbananawiresomeonefloatcookhurryoccurmetalinjury |  
+| bip_39_word_no_space_11 | footbananawiresomeonefloatcookhurryoccurmetalinjurysnake |  
+| bip_39_word_no_space_12 | footbananawiresomeonefloatcookhurryoccurmetalinjurysnakearrange |  
+| bip_39_word_no_space_2 | footbanana |  
+| bip_39_word_no_space_3 | footbananawire |  
+| bip_39_word_no_space_4 | footbananawiresomeone |  
+| bip_39_word_no_space_5 | footbananawiresomeonefloat |  
+| bip_39_word_no_space_6 | footbananawiresomeonefloatcook |  
+| bip_39_word_no_space_7 | footbananawiresomeonefloatcookhurry |  
+| bip_39_word_no_space_8 | footbananawiresomeonefloatcookhurryoccur |  
+| bip_39_word_no_space_9 | footbananawiresomeonefloatcookhurryoccurmetal |  
 | bip_39_word_space_0 | ['foot', 'banana', 'wire', 'someone', 'float', 'cook', 'hurry', 'occur', 'metal', 'injury', 'snake', 'arrange'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot banana wire someone float cook hurry occur metal injury |  

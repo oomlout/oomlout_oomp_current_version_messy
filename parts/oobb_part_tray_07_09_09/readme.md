@@ -122,6 +122,18 @@ topic
 argue
 bring
 miracle |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | wayfeelrelyclogcrushtopicarguebringmiracleworry |  
+| bip_39_word_no_space_11 | wayfeelrelyclogcrushtopicarguebringmiracleworryonly |  
+| bip_39_word_no_space_12 | wayfeelrelyclogcrushtopicarguebringmiracleworryonlyacoustic |  
+| bip_39_word_no_space_2 | wayfeel |  
+| bip_39_word_no_space_3 | wayfeelrely |  
+| bip_39_word_no_space_4 | wayfeelrelyclog |  
+| bip_39_word_no_space_5 | wayfeelrelyclogcrush |  
+| bip_39_word_no_space_6 | wayfeelrelyclogcrushtopic |  
+| bip_39_word_no_space_7 | wayfeelrelyclogcrushtopicargue |  
+| bip_39_word_no_space_8 | wayfeelrelyclogcrushtopicarguebring |  
+| bip_39_word_no_space_9 | wayfeelrelyclogcrushtopicarguebringmiracle |  
 | bip_39_word_space_0 | ['way', 'feel', 'rely', 'clog', 'crush', 'topic', 'argue', 'bring', 'miracle', 'worry', 'only', 'acoustic'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way feel rely clog crush topic argue bring miracle worry |  

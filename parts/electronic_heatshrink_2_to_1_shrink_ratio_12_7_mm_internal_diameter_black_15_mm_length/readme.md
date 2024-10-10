@@ -122,6 +122,18 @@ fold
 feed
 stem
 sausage |  
+| bip_39_word_no_space_1 | enroll |  
+| bip_39_word_no_space_10 | enrollexcesselsetrashmeadowfoldfeedstemsausageticket |  
+| bip_39_word_no_space_11 | enrollexcesselsetrashmeadowfoldfeedstemsausageticketdoctor |  
+| bip_39_word_no_space_12 | enrollexcesselsetrashmeadowfoldfeedstemsausageticketdoctorallow |  
+| bip_39_word_no_space_2 | enrollexcess |  
+| bip_39_word_no_space_3 | enrollexcesselse |  
+| bip_39_word_no_space_4 | enrollexcesselsetrash |  
+| bip_39_word_no_space_5 | enrollexcesselsetrashmeadow |  
+| bip_39_word_no_space_6 | enrollexcesselsetrashmeadowfold |  
+| bip_39_word_no_space_7 | enrollexcesselsetrashmeadowfoldfeed |  
+| bip_39_word_no_space_8 | enrollexcesselsetrashmeadowfoldfeedstem |  
+| bip_39_word_no_space_9 | enrollexcesselsetrashmeadowfoldfeedstemsausage |  
 | bip_39_word_space_0 | ['enroll', 'excess', 'else', 'trash', 'meadow', 'fold', 'feed', 'stem', 'sausage', 'ticket', 'doctor', 'allow'] |  
 | bip_39_word_space_1 | enroll |  
 | bip_39_word_space_10 | enroll excess else trash meadow fold feed stem sausage ticket |  

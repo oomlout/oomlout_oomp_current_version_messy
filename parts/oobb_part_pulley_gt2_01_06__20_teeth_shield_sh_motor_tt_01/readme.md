@@ -122,6 +122,18 @@ toast
 umbrella
 word
 cheese |  
+| bip_39_word_no_space_1 | supply |  
+| bip_39_word_no_space_10 | supplyartcensusdomainpuddingtoastumbrellawordcheeseinherit |  
+| bip_39_word_no_space_11 | supplyartcensusdomainpuddingtoastumbrellawordcheeseinheritnoise |  
+| bip_39_word_no_space_12 | supplyartcensusdomainpuddingtoastumbrellawordcheeseinheritnoisearctic |  
+| bip_39_word_no_space_2 | supplyart |  
+| bip_39_word_no_space_3 | supplyartcensus |  
+| bip_39_word_no_space_4 | supplyartcensusdomain |  
+| bip_39_word_no_space_5 | supplyartcensusdomainpudding |  
+| bip_39_word_no_space_6 | supplyartcensusdomainpuddingtoast |  
+| bip_39_word_no_space_7 | supplyartcensusdomainpuddingtoastumbrella |  
+| bip_39_word_no_space_8 | supplyartcensusdomainpuddingtoastumbrellaword |  
+| bip_39_word_no_space_9 | supplyartcensusdomainpuddingtoastumbrellawordcheese |  
 | bip_39_word_space_0 | ['supply', 'art', 'census', 'domain', 'pudding', 'toast', 'umbrella', 'word', 'cheese', 'inherit', 'noise', 'arctic'] |  
 | bip_39_word_space_1 | supply |  
 | bip_39_word_space_10 | supply art census domain pudding toast umbrella word cheese inherit |  

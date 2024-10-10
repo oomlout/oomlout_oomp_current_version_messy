@@ -122,6 +122,18 @@ slide
 slab
 want
 tilt |  
+| bip_39_word_no_space_1 | sign |  
+| bip_39_word_no_space_10 | signturkeyclerkcaptainhourslideslabwanttiltwealth |  
+| bip_39_word_no_space_11 | signturkeyclerkcaptainhourslideslabwanttiltwealthpicture |  
+| bip_39_word_no_space_12 | signturkeyclerkcaptainhourslideslabwanttiltwealthpictureagent |  
+| bip_39_word_no_space_2 | signturkey |  
+| bip_39_word_no_space_3 | signturkeyclerk |  
+| bip_39_word_no_space_4 | signturkeyclerkcaptain |  
+| bip_39_word_no_space_5 | signturkeyclerkcaptainhour |  
+| bip_39_word_no_space_6 | signturkeyclerkcaptainhourslide |  
+| bip_39_word_no_space_7 | signturkeyclerkcaptainhourslideslab |  
+| bip_39_word_no_space_8 | signturkeyclerkcaptainhourslideslabwant |  
+| bip_39_word_no_space_9 | signturkeyclerkcaptainhourslideslabwanttilt |  
 | bip_39_word_space_0 | ['sign', 'turkey', 'clerk', 'captain', 'hour', 'slide', 'slab', 'want', 'tilt', 'wealth', 'picture', 'agent'] |  
 | bip_39_word_space_1 | sign |  
 | bip_39_word_space_10 | sign turkey clerk captain hour slide slab want tilt wealth |  

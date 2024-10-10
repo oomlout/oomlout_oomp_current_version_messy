@@ -122,6 +122,18 @@ audit
 shoe
 host
 skate |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultbursthotelagentwinterauditshoehostskateelectric |  
+| bip_39_word_no_space_11 | faultbursthotelagentwinterauditshoehostskateelectricadvance |  
+| bip_39_word_no_space_12 | faultbursthotelagentwinterauditshoehostskateelectricadvanceage |  
+| bip_39_word_no_space_2 | faultburst |  
+| bip_39_word_no_space_3 | faultbursthotel |  
+| bip_39_word_no_space_4 | faultbursthotelagent |  
+| bip_39_word_no_space_5 | faultbursthotelagentwinter |  
+| bip_39_word_no_space_6 | faultbursthotelagentwinteraudit |  
+| bip_39_word_no_space_7 | faultbursthotelagentwinterauditshoe |  
+| bip_39_word_no_space_8 | faultbursthotelagentwinterauditshoehost |  
+| bip_39_word_no_space_9 | faultbursthotelagentwinterauditshoehostskate |  
 | bip_39_word_space_0 | ['fault', 'burst', 'hotel', 'agent', 'winter', 'audit', 'shoe', 'host', 'skate', 'electric', 'advance', 'age'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault burst hotel agent winter audit shoe host skate electric |  

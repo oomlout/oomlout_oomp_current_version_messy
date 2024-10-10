@@ -122,6 +122,18 @@ exhaust
 cotton
 mansion
 explain |  
+| bip_39_word_no_space_1 | pizza |  
+| bip_39_word_no_space_10 | pizzamuleclarifygruntspiritexhaustcottonmansionexplainproject |  
+| bip_39_word_no_space_11 | pizzamuleclarifygruntspiritexhaustcottonmansionexplainprojectdepth |  
+| bip_39_word_no_space_12 | pizzamuleclarifygruntspiritexhaustcottonmansionexplainprojectdepthadmit |  
+| bip_39_word_no_space_2 | pizzamule |  
+| bip_39_word_no_space_3 | pizzamuleclarify |  
+| bip_39_word_no_space_4 | pizzamuleclarifygrunt |  
+| bip_39_word_no_space_5 | pizzamuleclarifygruntspirit |  
+| bip_39_word_no_space_6 | pizzamuleclarifygruntspiritexhaust |  
+| bip_39_word_no_space_7 | pizzamuleclarifygruntspiritexhaustcotton |  
+| bip_39_word_no_space_8 | pizzamuleclarifygruntspiritexhaustcottonmansion |  
+| bip_39_word_no_space_9 | pizzamuleclarifygruntspiritexhaustcottonmansionexplain |  
 | bip_39_word_space_0 | ['pizza', 'mule', 'clarify', 'grunt', 'spirit', 'exhaust', 'cotton', 'mansion', 'explain', 'project', 'depth', 'admit'] |  
 | bip_39_word_space_1 | pizza |  
 | bip_39_word_space_10 | pizza mule clarify grunt spirit exhaust cotton mansion explain project |  

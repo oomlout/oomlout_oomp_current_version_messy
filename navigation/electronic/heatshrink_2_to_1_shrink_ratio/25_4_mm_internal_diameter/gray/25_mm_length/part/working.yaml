@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'apple
   casual
 
   jacket'
+bip_39_word_no_space_1: apple
+bip_39_word_no_space_10: applebeforecramtunnelprivateclerkunveilcasualjacketwood
+bip_39_word_no_space_11: applebeforecramtunnelprivateclerkunveilcasualjacketwooditem
+bip_39_word_no_space_12: applebeforecramtunnelprivateclerkunveilcasualjacketwooditemalbum
+bip_39_word_no_space_2: applebefore
+bip_39_word_no_space_3: applebeforecram
+bip_39_word_no_space_4: applebeforecramtunnel
+bip_39_word_no_space_5: applebeforecramtunnelprivate
+bip_39_word_no_space_6: applebeforecramtunnelprivateclerk
+bip_39_word_no_space_7: applebeforecramtunnelprivateclerkunveil
+bip_39_word_no_space_8: applebeforecramtunnelprivateclerkunveilcasual
+bip_39_word_no_space_9: applebeforecramtunnelprivateclerkunveilcasualjacket
 bip_39_word_space_0:
 - apple
 - before

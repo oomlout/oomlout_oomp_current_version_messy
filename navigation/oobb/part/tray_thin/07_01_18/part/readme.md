@@ -122,6 +122,18 @@ today
 shiver
 offer
 card |  
+| bip_39_word_no_space_1 | damage |  
+| bip_39_word_no_space_10 | damageloopsideonionmachinetodayshiveroffercardraw |  
+| bip_39_word_no_space_11 | damageloopsideonionmachinetodayshiveroffercardrawthing |  
+| bip_39_word_no_space_12 | damageloopsideonionmachinetodayshiveroffercardrawthingattitude |  
+| bip_39_word_no_space_2 | damageloop |  
+| bip_39_word_no_space_3 | damageloopside |  
+| bip_39_word_no_space_4 | damageloopsideonion |  
+| bip_39_word_no_space_5 | damageloopsideonionmachine |  
+| bip_39_word_no_space_6 | damageloopsideonionmachinetoday |  
+| bip_39_word_no_space_7 | damageloopsideonionmachinetodayshiver |  
+| bip_39_word_no_space_8 | damageloopsideonionmachinetodayshiveroffer |  
+| bip_39_word_no_space_9 | damageloopsideonionmachinetodayshiveroffercard |  
 | bip_39_word_space_0 | ['damage', 'loop', 'side', 'onion', 'machine', 'today', 'shiver', 'offer', 'card', 'raw', 'thing', 'attitude'] |  
 | bip_39_word_space_1 | damage |  
 | bip_39_word_space_10 | damage loop side onion machine today shiver offer card raw |  

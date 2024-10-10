@@ -122,6 +122,18 @@ thunder
 robust
 village
 net |  
+| bip_39_word_no_space_1 | satoshi |  
+| bip_39_word_no_space_10 | satoshiblindsniffsnakecurrentthunderrobustvillagenetpolar |  
+| bip_39_word_no_space_11 | satoshiblindsniffsnakecurrentthunderrobustvillagenetpolarvalve |  
+| bip_39_word_no_space_12 | satoshiblindsniffsnakecurrentthunderrobustvillagenetpolarvalvealpha |  
+| bip_39_word_no_space_2 | satoshiblind |  
+| bip_39_word_no_space_3 | satoshiblindsniff |  
+| bip_39_word_no_space_4 | satoshiblindsniffsnake |  
+| bip_39_word_no_space_5 | satoshiblindsniffsnakecurrent |  
+| bip_39_word_no_space_6 | satoshiblindsniffsnakecurrentthunder |  
+| bip_39_word_no_space_7 | satoshiblindsniffsnakecurrentthunderrobust |  
+| bip_39_word_no_space_8 | satoshiblindsniffsnakecurrentthunderrobustvillage |  
+| bip_39_word_no_space_9 | satoshiblindsniffsnakecurrentthunderrobustvillagenet |  
 | bip_39_word_space_0 | ['satoshi', 'blind', 'sniff', 'snake', 'current', 'thunder', 'robust', 'village', 'net', 'polar', 'valve', 'alpha'] |  
 | bip_39_word_space_1 | satoshi |  
 | bip_39_word_space_10 | satoshi blind sniff snake current thunder robust village net polar |  

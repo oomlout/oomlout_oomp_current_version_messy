@@ -122,6 +122,18 @@ distance
 stay
 glide
 creek |  
+| bip_39_word_no_space_1 | tool |  
+| bip_39_word_no_space_10 | tooltrumpetpotteryflatcoupledistancestayglidecreekjunior |  
+| bip_39_word_no_space_11 | tooltrumpetpotteryflatcoupledistancestayglidecreekjuniorfog |  
+| bip_39_word_no_space_12 | tooltrumpetpotteryflatcoupledistancestayglidecreekjuniorfoganchor |  
+| bip_39_word_no_space_2 | tooltrumpet |  
+| bip_39_word_no_space_3 | tooltrumpetpottery |  
+| bip_39_word_no_space_4 | tooltrumpetpotteryflat |  
+| bip_39_word_no_space_5 | tooltrumpetpotteryflatcouple |  
+| bip_39_word_no_space_6 | tooltrumpetpotteryflatcoupledistance |  
+| bip_39_word_no_space_7 | tooltrumpetpotteryflatcoupledistancestay |  
+| bip_39_word_no_space_8 | tooltrumpetpotteryflatcoupledistancestayglide |  
+| bip_39_word_no_space_9 | tooltrumpetpotteryflatcoupledistancestayglidecreek |  
 | bip_39_word_space_0 | ['tool', 'trumpet', 'pottery', 'flat', 'couple', 'distance', 'stay', 'glide', 'creek', 'junior', 'fog', 'anchor'] |  
 | bip_39_word_space_1 | tool |  
 | bip_39_word_space_10 | tool trumpet pottery flat couple distance stay glide creek junior |  

@@ -122,6 +122,18 @@ frame
 client
 romance
 control |  
+| bip_39_word_no_space_1 | tumble |  
+| bip_39_word_no_space_10 | tumblelampbleakoversmokeframeclientromancecontrolgood |  
+| bip_39_word_no_space_11 | tumblelampbleakoversmokeframeclientromancecontrolgoodpaddle |  
+| bip_39_word_no_space_12 | tumblelampbleakoversmokeframeclientromancecontrolgoodpaddleassault |  
+| bip_39_word_no_space_2 | tumblelamp |  
+| bip_39_word_no_space_3 | tumblelampbleak |  
+| bip_39_word_no_space_4 | tumblelampbleakover |  
+| bip_39_word_no_space_5 | tumblelampbleakoversmoke |  
+| bip_39_word_no_space_6 | tumblelampbleakoversmokeframe |  
+| bip_39_word_no_space_7 | tumblelampbleakoversmokeframeclient |  
+| bip_39_word_no_space_8 | tumblelampbleakoversmokeframeclientromance |  
+| bip_39_word_no_space_9 | tumblelampbleakoversmokeframeclientromancecontrol |  
 | bip_39_word_space_0 | ['tumble', 'lamp', 'bleak', 'over', 'smoke', 'frame', 'client', 'romance', 'control', 'good', 'paddle', 'assault'] |  
 | bip_39_word_space_1 | tumble |  
 | bip_39_word_space_10 | tumble lamp bleak over smoke frame client romance control good |  

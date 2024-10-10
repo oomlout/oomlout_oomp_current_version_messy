@@ -122,6 +122,18 @@ biology
 capable
 involve
 earn |  
+| bip_39_word_no_space_1 | ramp |  
+| bip_39_word_no_space_10 | rampemotionchildearlyswitchbiologycapableinvolveearnoctober |  
+| bip_39_word_no_space_11 | rampemotionchildearlyswitchbiologycapableinvolveearnoctobercoil |  
+| bip_39_word_no_space_12 | rampemotionchildearlyswitchbiologycapableinvolveearnoctobercoilanother |  
+| bip_39_word_no_space_2 | rampemotion |  
+| bip_39_word_no_space_3 | rampemotionchild |  
+| bip_39_word_no_space_4 | rampemotionchildearly |  
+| bip_39_word_no_space_5 | rampemotionchildearlyswitch |  
+| bip_39_word_no_space_6 | rampemotionchildearlyswitchbiology |  
+| bip_39_word_no_space_7 | rampemotionchildearlyswitchbiologycapable |  
+| bip_39_word_no_space_8 | rampemotionchildearlyswitchbiologycapableinvolve |  
+| bip_39_word_no_space_9 | rampemotionchildearlyswitchbiologycapableinvolveearn |  
 | bip_39_word_space_0 | ['ramp', 'emotion', 'child', 'early', 'switch', 'biology', 'capable', 'involve', 'earn', 'october', 'coil', 'another'] |  
 | bip_39_word_space_1 | ramp |  
 | bip_39_word_space_10 | ramp emotion child early switch biology capable involve earn october |  

@@ -122,6 +122,18 @@ right
 winner
 assume
 sample |  
+| bip_39_word_no_space_1 | small |  
+| bip_39_word_no_space_10 | smallpeacechefforceatomrightwinnerassumesamplevanish |  
+| bip_39_word_no_space_11 | smallpeacechefforceatomrightwinnerassumesamplevanishstable |  
+| bip_39_word_no_space_12 | smallpeacechefforceatomrightwinnerassumesamplevanishstableaccident |  
+| bip_39_word_no_space_2 | smallpeace |  
+| bip_39_word_no_space_3 | smallpeacechef |  
+| bip_39_word_no_space_4 | smallpeacechefforce |  
+| bip_39_word_no_space_5 | smallpeacechefforceatom |  
+| bip_39_word_no_space_6 | smallpeacechefforceatomright |  
+| bip_39_word_no_space_7 | smallpeacechefforceatomrightwinner |  
+| bip_39_word_no_space_8 | smallpeacechefforceatomrightwinnerassume |  
+| bip_39_word_no_space_9 | smallpeacechefforceatomrightwinnerassumesample |  
 | bip_39_word_space_0 | ['small', 'peace', 'chef', 'force', 'atom', 'right', 'winner', 'assume', 'sample', 'vanish', 'stable', 'accident'] |  
 | bip_39_word_space_1 | small |  
 | bip_39_word_space_10 | small peace chef force atom right winner assume sample vanish |  

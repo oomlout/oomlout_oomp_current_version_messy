@@ -122,6 +122,18 @@ list
 remove
 genius
 donor |  
+| bip_39_word_no_space_1 | such |  
+| bip_39_word_no_space_10 | suchpreferorbitfingerbronzelistremovegeniusdonorbonus |  
+| bip_39_word_no_space_11 | suchpreferorbitfingerbronzelistremovegeniusdonorbonushead |  
+| bip_39_word_no_space_12 | suchpreferorbitfingerbronzelistremovegeniusdonorbonusheadattract |  
+| bip_39_word_no_space_2 | suchprefer |  
+| bip_39_word_no_space_3 | suchpreferorbit |  
+| bip_39_word_no_space_4 | suchpreferorbitfinger |  
+| bip_39_word_no_space_5 | suchpreferorbitfingerbronze |  
+| bip_39_word_no_space_6 | suchpreferorbitfingerbronzelist |  
+| bip_39_word_no_space_7 | suchpreferorbitfingerbronzelistremove |  
+| bip_39_word_no_space_8 | suchpreferorbitfingerbronzelistremovegenius |  
+| bip_39_word_no_space_9 | suchpreferorbitfingerbronzelistremovegeniusdonor |  
 | bip_39_word_space_0 | ['such', 'prefer', 'orbit', 'finger', 'bronze', 'list', 'remove', 'genius', 'donor', 'bonus', 'head', 'attract'] |  
 | bip_39_word_space_1 | such |  
 | bip_39_word_space_10 | such prefer orbit finger bronze list remove genius donor bonus |  

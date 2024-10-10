@@ -122,6 +122,18 @@ shield
 edge
 crash
 one |  
+| bip_39_word_no_space_1 | relax |  
+| bip_39_word_no_space_10 | relaxelderfieldbuzzdestroyshieldedgecrashoneglory |  
+| bip_39_word_no_space_11 | relaxelderfieldbuzzdestroyshieldedgecrashonegloryaccount |  
+| bip_39_word_no_space_12 | relaxelderfieldbuzzdestroyshieldedgecrashonegloryaccountartefact |  
+| bip_39_word_no_space_2 | relaxelder |  
+| bip_39_word_no_space_3 | relaxelderfield |  
+| bip_39_word_no_space_4 | relaxelderfieldbuzz |  
+| bip_39_word_no_space_5 | relaxelderfieldbuzzdestroy |  
+| bip_39_word_no_space_6 | relaxelderfieldbuzzdestroyshield |  
+| bip_39_word_no_space_7 | relaxelderfieldbuzzdestroyshieldedge |  
+| bip_39_word_no_space_8 | relaxelderfieldbuzzdestroyshieldedgecrash |  
+| bip_39_word_no_space_9 | relaxelderfieldbuzzdestroyshieldedgecrashone |  
 | bip_39_word_space_0 | ['relax', 'elder', 'field', 'buzz', 'destroy', 'shield', 'edge', 'crash', 'one', 'glory', 'account', 'artefact'] |  
 | bip_39_word_space_1 | relax |  
 | bip_39_word_space_10 | relax elder field buzz destroy shield edge crash one glory |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'enrich
   photo
 
   senior'
+bip_39_word_no_space_1: enrich
+bip_39_word_no_space_10: enrichscoutsparecarrychatalertweddingphotoseniorbrisk
+bip_39_word_no_space_11: enrichscoutsparecarrychatalertweddingphotoseniorbriskacoustic
+bip_39_word_no_space_12: enrichscoutsparecarrychatalertweddingphotoseniorbriskacousticarm
+bip_39_word_no_space_2: enrichscout
+bip_39_word_no_space_3: enrichscoutspare
+bip_39_word_no_space_4: enrichscoutsparecarry
+bip_39_word_no_space_5: enrichscoutsparecarrychat
+bip_39_word_no_space_6: enrichscoutsparecarrychatalert
+bip_39_word_no_space_7: enrichscoutsparecarrychatalertwedding
+bip_39_word_no_space_8: enrichscoutsparecarrychatalertweddingphoto
+bip_39_word_no_space_9: enrichscoutsparecarrychatalertweddingphotosenior
 bip_39_word_space_0:
 - enrich
 - scout

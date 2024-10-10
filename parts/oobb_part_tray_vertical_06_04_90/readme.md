@@ -122,6 +122,18 @@ visa
 float
 tourist
 hobby |  
+| bip_39_word_no_space_1 | jungle |  
+| bip_39_word_no_space_10 | junglespygenresportholdvisafloattouristhobbyspirit |  
+| bip_39_word_no_space_11 | junglespygenresportholdvisafloattouristhobbyspiritangry |  
+| bip_39_word_no_space_12 | junglespygenresportholdvisafloattouristhobbyspiritangryactor |  
+| bip_39_word_no_space_2 | junglespy |  
+| bip_39_word_no_space_3 | junglespygenre |  
+| bip_39_word_no_space_4 | junglespygenresport |  
+| bip_39_word_no_space_5 | junglespygenresporthold |  
+| bip_39_word_no_space_6 | junglespygenresportholdvisa |  
+| bip_39_word_no_space_7 | junglespygenresportholdvisafloat |  
+| bip_39_word_no_space_8 | junglespygenresportholdvisafloattourist |  
+| bip_39_word_no_space_9 | junglespygenresportholdvisafloattouristhobby |  
 | bip_39_word_space_0 | ['jungle', 'spy', 'genre', 'sport', 'hold', 'visa', 'float', 'tourist', 'hobby', 'spirit', 'angry', 'actor'] |  
 | bip_39_word_space_1 | jungle |  
 | bip_39_word_space_10 | jungle spy genre sport hold visa float tourist hobby spirit |  

@@ -122,6 +122,18 @@ target
 track
 rate
 speak |  
+| bip_39_word_no_space_1 | mistake |  
+| bip_39_word_no_space_10 | mistakeelephantsunnyplaceflytargettrackratespeakcommon |  
+| bip_39_word_no_space_11 | mistakeelephantsunnyplaceflytargettrackratespeakcommonemotion |  
+| bip_39_word_no_space_12 | mistakeelephantsunnyplaceflytargettrackratespeakcommonemotionarmed |  
+| bip_39_word_no_space_2 | mistakeelephant |  
+| bip_39_word_no_space_3 | mistakeelephantsunny |  
+| bip_39_word_no_space_4 | mistakeelephantsunnyplace |  
+| bip_39_word_no_space_5 | mistakeelephantsunnyplacefly |  
+| bip_39_word_no_space_6 | mistakeelephantsunnyplaceflytarget |  
+| bip_39_word_no_space_7 | mistakeelephantsunnyplaceflytargettrack |  
+| bip_39_word_no_space_8 | mistakeelephantsunnyplaceflytargettrackrate |  
+| bip_39_word_no_space_9 | mistakeelephantsunnyplaceflytargettrackratespeak |  
 | bip_39_word_space_0 | ['mistake', 'elephant', 'sunny', 'place', 'fly', 'target', 'track', 'rate', 'speak', 'common', 'emotion', 'armed'] |  
 | bip_39_word_space_1 | mistake |  
 | bip_39_word_space_10 | mistake elephant sunny place fly target track rate speak common |  

@@ -122,6 +122,18 @@ spy
 question
 edge
 tongue |  
+| bip_39_word_no_space_1 | digital |  
+| bip_39_word_no_space_10 | digitalodorchickenrelaxdeliverspyquestionedgetongueseminar |  
+| bip_39_word_no_space_11 | digitalodorchickenrelaxdeliverspyquestionedgetongueseminarupgrade |  
+| bip_39_word_no_space_12 | digitalodorchickenrelaxdeliverspyquestionedgetongueseminarupgradeaccount |  
+| bip_39_word_no_space_2 | digitalodor |  
+| bip_39_word_no_space_3 | digitalodorchicken |  
+| bip_39_word_no_space_4 | digitalodorchickenrelax |  
+| bip_39_word_no_space_5 | digitalodorchickenrelaxdeliver |  
+| bip_39_word_no_space_6 | digitalodorchickenrelaxdeliverspy |  
+| bip_39_word_no_space_7 | digitalodorchickenrelaxdeliverspyquestion |  
+| bip_39_word_no_space_8 | digitalodorchickenrelaxdeliverspyquestionedge |  
+| bip_39_word_no_space_9 | digitalodorchickenrelaxdeliverspyquestionedgetongue |  
 | bip_39_word_space_0 | ['digital', 'odor', 'chicken', 'relax', 'deliver', 'spy', 'question', 'edge', 'tongue', 'seminar', 'upgrade', 'account'] |  
 | bip_39_word_space_1 | digital |  
 | bip_39_word_space_10 | digital odor chicken relax deliver spy question edge tongue seminar |  

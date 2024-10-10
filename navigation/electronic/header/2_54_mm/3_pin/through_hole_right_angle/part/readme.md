@@ -122,6 +122,18 @@ choose
 peasant
 kit
 moon |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hourbrasspoolrebuildbulletchoosepeasantkitmoonforget |  
+| bip_39_word_no_space_11 | hourbrasspoolrebuildbulletchoosepeasantkitmoonforgetcattle |  
+| bip_39_word_no_space_12 | hourbrasspoolrebuildbulletchoosepeasantkitmoonforgetcattleacquire |  
+| bip_39_word_no_space_2 | hourbrass |  
+| bip_39_word_no_space_3 | hourbrasspool |  
+| bip_39_word_no_space_4 | hourbrasspoolrebuild |  
+| bip_39_word_no_space_5 | hourbrasspoolrebuildbullet |  
+| bip_39_word_no_space_6 | hourbrasspoolrebuildbulletchoose |  
+| bip_39_word_no_space_7 | hourbrasspoolrebuildbulletchoosepeasant |  
+| bip_39_word_no_space_8 | hourbrasspoolrebuildbulletchoosepeasantkit |  
+| bip_39_word_no_space_9 | hourbrasspoolrebuildbulletchoosepeasantkitmoon |  
 | bip_39_word_space_0 | ['hour', 'brass', 'pool', 'rebuild', 'bullet', 'choose', 'peasant', 'kit', 'moon', 'forget', 'cattle', 'acquire'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour brass pool rebuild bullet choose peasant kit moon forget |  

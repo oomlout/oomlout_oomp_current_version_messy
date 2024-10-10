@@ -122,6 +122,18 @@ surprise
 swim
 earth
 ripple |  
+| bip_39_word_no_space_1 | you |  
+| bip_39_word_no_space_10 | youtargetstylewastecamerasurpriseswimearthripplecurve |  
+| bip_39_word_no_space_11 | youtargetstylewastecamerasurpriseswimearthripplecurvecrouch |  
+| bip_39_word_no_space_12 | youtargetstylewastecamerasurpriseswimearthripplecurvecrouchaccuse |  
+| bip_39_word_no_space_2 | youtarget |  
+| bip_39_word_no_space_3 | youtargetstyle |  
+| bip_39_word_no_space_4 | youtargetstylewaste |  
+| bip_39_word_no_space_5 | youtargetstylewastecamera |  
+| bip_39_word_no_space_6 | youtargetstylewastecamerasurprise |  
+| bip_39_word_no_space_7 | youtargetstylewastecamerasurpriseswim |  
+| bip_39_word_no_space_8 | youtargetstylewastecamerasurpriseswimearth |  
+| bip_39_word_no_space_9 | youtargetstylewastecamerasurpriseswimearthripple |  
 | bip_39_word_space_0 | ['you', 'target', 'style', 'waste', 'camera', 'surprise', 'swim', 'earth', 'ripple', 'curve', 'crouch', 'accuse'] |  
 | bip_39_word_space_1 | you |  
 | bip_39_word_space_10 | you target style waste camera surprise swim earth ripple curve |  

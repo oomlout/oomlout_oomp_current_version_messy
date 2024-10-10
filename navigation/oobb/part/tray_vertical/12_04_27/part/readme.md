@@ -122,6 +122,18 @@ clinic
 pride
 under
 milk |  
+| bip_39_word_no_space_1 | quantum |  
+| bip_39_word_no_space_10 | quantumradiotailexpresschickenclinicprideundermilkmechanic |  
+| bip_39_word_no_space_11 | quantumradiotailexpresschickenclinicprideundermilkmechanicfloor |  
+| bip_39_word_no_space_12 | quantumradiotailexpresschickenclinicprideundermilkmechanicflooramazing |  
+| bip_39_word_no_space_2 | quantumradio |  
+| bip_39_word_no_space_3 | quantumradiotail |  
+| bip_39_word_no_space_4 | quantumradiotailexpress |  
+| bip_39_word_no_space_5 | quantumradiotailexpresschicken |  
+| bip_39_word_no_space_6 | quantumradiotailexpresschickenclinic |  
+| bip_39_word_no_space_7 | quantumradiotailexpresschickenclinicpride |  
+| bip_39_word_no_space_8 | quantumradiotailexpresschickenclinicprideunder |  
+| bip_39_word_no_space_9 | quantumradiotailexpresschickenclinicprideundermilk |  
 | bip_39_word_space_0 | ['quantum', 'radio', 'tail', 'express', 'chicken', 'clinic', 'pride', 'under', 'milk', 'mechanic', 'floor', 'amazing'] |  
 | bip_39_word_space_1 | quantum |  
 | bip_39_word_space_10 | quantum radio tail express chicken clinic pride under milk mechanic |  

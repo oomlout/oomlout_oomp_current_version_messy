@@ -122,6 +122,18 @@ change
 mimic
 survey
 blue |  
+| bip_39_word_no_space_1 | alpha |  
+| bip_39_word_no_space_10 | alphatwicearrangedevicecushionchangemimicsurveybluenotable |  
+| bip_39_word_no_space_11 | alphatwicearrangedevicecushionchangemimicsurveybluenotabledisorder |  
+| bip_39_word_no_space_12 | alphatwicearrangedevicecushionchangemimicsurveybluenotabledisorderanchor |  
+| bip_39_word_no_space_2 | alphatwice |  
+| bip_39_word_no_space_3 | alphatwicearrange |  
+| bip_39_word_no_space_4 | alphatwicearrangedevice |  
+| bip_39_word_no_space_5 | alphatwicearrangedevicecushion |  
+| bip_39_word_no_space_6 | alphatwicearrangedevicecushionchange |  
+| bip_39_word_no_space_7 | alphatwicearrangedevicecushionchangemimic |  
+| bip_39_word_no_space_8 | alphatwicearrangedevicecushionchangemimicsurvey |  
+| bip_39_word_no_space_9 | alphatwicearrangedevicecushionchangemimicsurveyblue |  
 | bip_39_word_space_0 | ['alpha', 'twice', 'arrange', 'device', 'cushion', 'change', 'mimic', 'survey', 'blue', 'notable', 'disorder', 'anchor'] |  
 | bip_39_word_space_1 | alpha |  
 | bip_39_word_space_10 | alpha twice arrange device cushion change mimic survey blue notable |  

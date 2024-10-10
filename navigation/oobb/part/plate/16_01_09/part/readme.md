@@ -122,6 +122,18 @@ kidney
 spend
 inform
 glimpse |  
+| bip_39_word_no_space_1 | seed |  
+| bip_39_word_no_space_10 | seedslenderticketalcoholdaykidneyspendinformglimpseartwork |  
+| bip_39_word_no_space_11 | seedslenderticketalcoholdaykidneyspendinformglimpseartworkresult |  
+| bip_39_word_no_space_12 | seedslenderticketalcoholdaykidneyspendinformglimpseartworkresultattend |  
+| bip_39_word_no_space_2 | seedslender |  
+| bip_39_word_no_space_3 | seedslenderticket |  
+| bip_39_word_no_space_4 | seedslenderticketalcohol |  
+| bip_39_word_no_space_5 | seedslenderticketalcoholday |  
+| bip_39_word_no_space_6 | seedslenderticketalcoholdaykidney |  
+| bip_39_word_no_space_7 | seedslenderticketalcoholdaykidneyspend |  
+| bip_39_word_no_space_8 | seedslenderticketalcoholdaykidneyspendinform |  
+| bip_39_word_no_space_9 | seedslenderticketalcoholdaykidneyspendinformglimpse |  
 | bip_39_word_space_0 | ['seed', 'slender', 'ticket', 'alcohol', 'day', 'kidney', 'spend', 'inform', 'glimpse', 'artwork', 'result', 'attend'] |  
 | bip_39_word_space_1 | seed |  
 | bip_39_word_space_10 | seed slender ticket alcohol day kidney spend inform glimpse artwork |  

@@ -122,6 +122,18 @@ winter
 comfort
 jump
 car |  
+| bip_39_word_no_space_1 | best |  
+| bip_39_word_no_space_10 | beststingwiseclosedutchwintercomfortjumpcarflash |  
+| bip_39_word_no_space_11 | beststingwiseclosedutchwintercomfortjumpcarflashfall |  
+| bip_39_word_no_space_12 | beststingwiseclosedutchwintercomfortjumpcarflashfallattend |  
+| bip_39_word_no_space_2 | beststing |  
+| bip_39_word_no_space_3 | beststingwise |  
+| bip_39_word_no_space_4 | beststingwiseclose |  
+| bip_39_word_no_space_5 | beststingwiseclosedutch |  
+| bip_39_word_no_space_6 | beststingwiseclosedutchwinter |  
+| bip_39_word_no_space_7 | beststingwiseclosedutchwintercomfort |  
+| bip_39_word_no_space_8 | beststingwiseclosedutchwintercomfortjump |  
+| bip_39_word_no_space_9 | beststingwiseclosedutchwintercomfortjumpcar |  
 | bip_39_word_space_0 | ['best', 'sting', 'wise', 'close', 'dutch', 'winter', 'comfort', 'jump', 'car', 'flash', 'fall', 'attend'] |  
 | bip_39_word_space_1 | best |  
 | bip_39_word_space_10 | best sting wise close dutch winter comfort jump car flash |  

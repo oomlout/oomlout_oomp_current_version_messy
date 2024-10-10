@@ -122,6 +122,18 @@ quick
 pepper
 trap
 frown |  
+| bip_39_word_no_space_1 | century |  
+| bip_39_word_no_space_10 | centuryrecipeaerobicauntboostquickpeppertrapfrownsalon |  
+| bip_39_word_no_space_11 | centuryrecipeaerobicauntboostquickpeppertrapfrownsalondove |  
+| bip_39_word_no_space_12 | centuryrecipeaerobicauntboostquickpeppertrapfrownsalondovearrive |  
+| bip_39_word_no_space_2 | centuryrecipe |  
+| bip_39_word_no_space_3 | centuryrecipeaerobic |  
+| bip_39_word_no_space_4 | centuryrecipeaerobicaunt |  
+| bip_39_word_no_space_5 | centuryrecipeaerobicauntboost |  
+| bip_39_word_no_space_6 | centuryrecipeaerobicauntboostquick |  
+| bip_39_word_no_space_7 | centuryrecipeaerobicauntboostquickpepper |  
+| bip_39_word_no_space_8 | centuryrecipeaerobicauntboostquickpeppertrap |  
+| bip_39_word_no_space_9 | centuryrecipeaerobicauntboostquickpeppertrapfrown |  
 | bip_39_word_space_0 | ['century', 'recipe', 'aerobic', 'aunt', 'boost', 'quick', 'pepper', 'trap', 'frown', 'salon', 'dove', 'arrive'] |  
 | bip_39_word_space_1 | century |  
 | bip_39_word_space_10 | century recipe aerobic aunt boost quick pepper trap frown salon |  

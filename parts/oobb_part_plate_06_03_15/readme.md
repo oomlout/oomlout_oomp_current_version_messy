@@ -122,6 +122,18 @@ drill
 life
 series
 tennis |  
+| bip_39_word_no_space_1 | glad |  
+| bip_39_word_no_space_10 | gladexpiregardentradeactiondrilllifeseriestennistooth |  
+| bip_39_word_no_space_11 | gladexpiregardentradeactiondrilllifeseriestennistoothradio |  
+| bip_39_word_no_space_12 | gladexpiregardentradeactiondrilllifeseriestennistoothradioapprove |  
+| bip_39_word_no_space_2 | gladexpire |  
+| bip_39_word_no_space_3 | gladexpiregarden |  
+| bip_39_word_no_space_4 | gladexpiregardentrade |  
+| bip_39_word_no_space_5 | gladexpiregardentradeaction |  
+| bip_39_word_no_space_6 | gladexpiregardentradeactiondrill |  
+| bip_39_word_no_space_7 | gladexpiregardentradeactiondrilllife |  
+| bip_39_word_no_space_8 | gladexpiregardentradeactiondrilllifeseries |  
+| bip_39_word_no_space_9 | gladexpiregardentradeactiondrilllifeseriestennis |  
 | bip_39_word_space_0 | ['glad', 'expire', 'garden', 'trade', 'action', 'drill', 'life', 'series', 'tennis', 'tooth', 'radio', 'approve'] |  
 | bip_39_word_space_1 | glad |  
 | bip_39_word_space_10 | glad expire garden trade action drill life series tennis tooth |  

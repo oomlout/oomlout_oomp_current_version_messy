@@ -122,6 +122,18 @@ finish
 gravity
 finish
 leave |  
+| bip_39_word_no_space_1 | once |  
+| bip_39_word_no_space_10 | oncepurityfrownceleryconnectfinishgravityfinishleavehead |  
+| bip_39_word_no_space_11 | oncepurityfrownceleryconnectfinishgravityfinishleaveheaddirect |  
+| bip_39_word_no_space_12 | oncepurityfrownceleryconnectfinishgravityfinishleaveheaddirectabout |  
+| bip_39_word_no_space_2 | oncepurity |  
+| bip_39_word_no_space_3 | oncepurityfrown |  
+| bip_39_word_no_space_4 | oncepurityfrowncelery |  
+| bip_39_word_no_space_5 | oncepurityfrownceleryconnect |  
+| bip_39_word_no_space_6 | oncepurityfrownceleryconnectfinish |  
+| bip_39_word_no_space_7 | oncepurityfrownceleryconnectfinishgravity |  
+| bip_39_word_no_space_8 | oncepurityfrownceleryconnectfinishgravityfinish |  
+| bip_39_word_no_space_9 | oncepurityfrownceleryconnectfinishgravityfinishleave |  
 | bip_39_word_space_0 | ['once', 'purity', 'frown', 'celery', 'connect', 'finish', 'gravity', 'finish', 'leave', 'head', 'direct', 'about'] |  
 | bip_39_word_space_1 | once |  
 | bip_39_word_space_10 | once purity frown celery connect finish gravity finish leave head |  

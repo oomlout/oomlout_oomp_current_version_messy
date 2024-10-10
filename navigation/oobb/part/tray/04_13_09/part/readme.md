@@ -122,6 +122,18 @@ lyrics
 remain
 best
 mechanic |  
+| bip_39_word_no_space_1 | control |  
+| bip_39_word_no_space_10 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrow |  
+| bip_39_word_no_space_11 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrowunique |  
+| bip_39_word_no_space_12 | controlbarrelharshconnectjuicelyricsremainbestmechanicgrowuniqueartist |  
+| bip_39_word_no_space_2 | controlbarrel |  
+| bip_39_word_no_space_3 | controlbarrelharsh |  
+| bip_39_word_no_space_4 | controlbarrelharshconnect |  
+| bip_39_word_no_space_5 | controlbarrelharshconnectjuice |  
+| bip_39_word_no_space_6 | controlbarrelharshconnectjuicelyrics |  
+| bip_39_word_no_space_7 | controlbarrelharshconnectjuicelyricsremain |  
+| bip_39_word_no_space_8 | controlbarrelharshconnectjuicelyricsremainbest |  
+| bip_39_word_no_space_9 | controlbarrelharshconnectjuicelyricsremainbestmechanic |  
 | bip_39_word_space_0 | ['control', 'barrel', 'harsh', 'connect', 'juice', 'lyrics', 'remain', 'best', 'mechanic', 'grow', 'unique', 'artist'] |  
 | bip_39_word_space_1 | control |  
 | bip_39_word_space_10 | control barrel harsh connect juice lyrics remain best mechanic grow |  

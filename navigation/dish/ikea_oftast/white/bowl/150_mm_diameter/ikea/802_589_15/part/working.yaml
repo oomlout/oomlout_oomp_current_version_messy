@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'few
   toast
 
   fix'
+bip_39_word_no_space_1: few
+bip_39_word_no_space_10: fewscalecapableemotionpetvanindoortoastfixsister
+bip_39_word_no_space_11: fewscalecapableemotionpetvanindoortoastfixsistergrab
+bip_39_word_no_space_12: fewscalecapableemotionpetvanindoortoastfixsistergrabapology
+bip_39_word_no_space_2: fewscale
+bip_39_word_no_space_3: fewscalecapable
+bip_39_word_no_space_4: fewscalecapableemotion
+bip_39_word_no_space_5: fewscalecapableemotionpet
+bip_39_word_no_space_6: fewscalecapableemotionpetvan
+bip_39_word_no_space_7: fewscalecapableemotionpetvanindoor
+bip_39_word_no_space_8: fewscalecapableemotionpetvanindoortoast
+bip_39_word_no_space_9: fewscalecapableemotionpetvanindoortoastfix
 bip_39_word_space_0:
 - few
 - scale

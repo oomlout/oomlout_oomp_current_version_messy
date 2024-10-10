@@ -122,6 +122,18 @@ agent
 worth
 arm
 erosion |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | hencashlocalsavepassagentwortharmerosioncause |  
+| bip_39_word_no_space_11 | hencashlocalsavepassagentwortharmerosioncausesail |  
+| bip_39_word_no_space_12 | hencashlocalsavepassagentwortharmerosioncausesailarrange |  
+| bip_39_word_no_space_2 | hencash |  
+| bip_39_word_no_space_3 | hencashlocal |  
+| bip_39_word_no_space_4 | hencashlocalsave |  
+| bip_39_word_no_space_5 | hencashlocalsavepass |  
+| bip_39_word_no_space_6 | hencashlocalsavepassagent |  
+| bip_39_word_no_space_7 | hencashlocalsavepassagentworth |  
+| bip_39_word_no_space_8 | hencashlocalsavepassagentwortharm |  
+| bip_39_word_no_space_9 | hencashlocalsavepassagentwortharmerosion |  
 | bip_39_word_space_0 | ['hen', 'cash', 'local', 'save', 'pass', 'agent', 'worth', 'arm', 'erosion', 'cause', 'sail', 'arrange'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen cash local save pass agent worth arm erosion cause |  

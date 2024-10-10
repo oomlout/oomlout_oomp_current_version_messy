@@ -122,6 +122,18 @@ scare
 gown
 myself
 domain |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | ankleexampleseasontenantfavoritescaregownmyselfdomaincactus |  
+| bip_39_word_no_space_11 | ankleexampleseasontenantfavoritescaregownmyselfdomaincactusalways |  
+| bip_39_word_no_space_12 | ankleexampleseasontenantfavoritescaregownmyselfdomaincactusalwaysacid |  
+| bip_39_word_no_space_2 | ankleexample |  
+| bip_39_word_no_space_3 | ankleexampleseason |  
+| bip_39_word_no_space_4 | ankleexampleseasontenant |  
+| bip_39_word_no_space_5 | ankleexampleseasontenantfavorite |  
+| bip_39_word_no_space_6 | ankleexampleseasontenantfavoritescare |  
+| bip_39_word_no_space_7 | ankleexampleseasontenantfavoritescaregown |  
+| bip_39_word_no_space_8 | ankleexampleseasontenantfavoritescaregownmyself |  
+| bip_39_word_no_space_9 | ankleexampleseasontenantfavoritescaregownmyselfdomain |  
 | bip_39_word_space_0 | ['ankle', 'example', 'season', 'tenant', 'favorite', 'scare', 'gown', 'myself', 'domain', 'cactus', 'always', 'acid'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle example season tenant favorite scare gown myself domain cactus |  

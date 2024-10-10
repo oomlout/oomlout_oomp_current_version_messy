@@ -122,6 +122,18 @@ badge
 alone
 hill
 help |  
+| bip_39_word_no_space_1 | casual |  
+| bip_39_word_no_space_10 | casualportioncanvasdashputbadgealonehillhelplong |  
+| bip_39_word_no_space_11 | casualportioncanvasdashputbadgealonehillhelplongpriority |  
+| bip_39_word_no_space_12 | casualportioncanvasdashputbadgealonehillhelplongpriorityacross |  
+| bip_39_word_no_space_2 | casualportion |  
+| bip_39_word_no_space_3 | casualportioncanvas |  
+| bip_39_word_no_space_4 | casualportioncanvasdash |  
+| bip_39_word_no_space_5 | casualportioncanvasdashput |  
+| bip_39_word_no_space_6 | casualportioncanvasdashputbadge |  
+| bip_39_word_no_space_7 | casualportioncanvasdashputbadgealone |  
+| bip_39_word_no_space_8 | casualportioncanvasdashputbadgealonehill |  
+| bip_39_word_no_space_9 | casualportioncanvasdashputbadgealonehillhelp |  
 | bip_39_word_space_0 | ['casual', 'portion', 'canvas', 'dash', 'put', 'badge', 'alone', 'hill', 'help', 'long', 'priority', 'across'] |  
 | bip_39_word_space_1 | casual |  
 | bip_39_word_space_10 | casual portion canvas dash put badge alone hill help long |  

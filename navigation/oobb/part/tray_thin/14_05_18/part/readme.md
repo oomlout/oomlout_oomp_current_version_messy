@@ -122,6 +122,18 @@ vanish
 dolphin
 garment
 scorpion |  
+| bip_39_word_no_space_1 | field |  
+| bip_39_word_no_space_10 | fieldthisaugustnametouristvanishdolphingarmentscorpionelegant |  
+| bip_39_word_no_space_11 | fieldthisaugustnametouristvanishdolphingarmentscorpionelegantarrive |  
+| bip_39_word_no_space_12 | fieldthisaugustnametouristvanishdolphingarmentscorpionelegantarriveall |  
+| bip_39_word_no_space_2 | fieldthis |  
+| bip_39_word_no_space_3 | fieldthisaugust |  
+| bip_39_word_no_space_4 | fieldthisaugustname |  
+| bip_39_word_no_space_5 | fieldthisaugustnametourist |  
+| bip_39_word_no_space_6 | fieldthisaugustnametouristvanish |  
+| bip_39_word_no_space_7 | fieldthisaugustnametouristvanishdolphin |  
+| bip_39_word_no_space_8 | fieldthisaugustnametouristvanishdolphingarment |  
+| bip_39_word_no_space_9 | fieldthisaugustnametouristvanishdolphingarmentscorpion |  
 | bip_39_word_space_0 | ['field', 'this', 'august', 'name', 'tourist', 'vanish', 'dolphin', 'garment', 'scorpion', 'elegant', 'arrive', 'all'] |  
 | bip_39_word_space_1 | field |  
 | bip_39_word_space_10 | field this august name tourist vanish dolphin garment scorpion elegant |  

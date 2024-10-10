@@ -122,6 +122,18 @@ test
 canyon
 fashion
 employ |  
+| bip_39_word_no_space_1 | sugar |  
+| bip_39_word_no_space_10 | sugarviolinstoveflamealbumtestcanyonfashionemploycollect |  
+| bip_39_word_no_space_11 | sugarviolinstoveflamealbumtestcanyonfashionemploycollectclaw |  
+| bip_39_word_no_space_12 | sugarviolinstoveflamealbumtestcanyonfashionemploycollectclawacquire |  
+| bip_39_word_no_space_2 | sugarviolin |  
+| bip_39_word_no_space_3 | sugarviolinstove |  
+| bip_39_word_no_space_4 | sugarviolinstoveflame |  
+| bip_39_word_no_space_5 | sugarviolinstoveflamealbum |  
+| bip_39_word_no_space_6 | sugarviolinstoveflamealbumtest |  
+| bip_39_word_no_space_7 | sugarviolinstoveflamealbumtestcanyon |  
+| bip_39_word_no_space_8 | sugarviolinstoveflamealbumtestcanyonfashion |  
+| bip_39_word_no_space_9 | sugarviolinstoveflamealbumtestcanyonfashionemploy |  
 | bip_39_word_space_0 | ['sugar', 'violin', 'stove', 'flame', 'album', 'test', 'canyon', 'fashion', 'employ', 'collect', 'claw', 'acquire'] |  
 | bip_39_word_space_1 | sugar |  
 | bip_39_word_space_10 | sugar violin stove flame album test canyon fashion employ collect |  

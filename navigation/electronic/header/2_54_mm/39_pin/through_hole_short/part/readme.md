@@ -122,6 +122,18 @@ husband
 about
 used
 coral |  
+| bip_39_word_no_space_1 | divide |  
+| bip_39_word_no_space_10 | divideonionscriptgoddessdeliverhusbandaboutusedcoralselect |  
+| bip_39_word_no_space_11 | divideonionscriptgoddessdeliverhusbandaboutusedcoralselectleisure |  
+| bip_39_word_no_space_12 | divideonionscriptgoddessdeliverhusbandaboutusedcoralselectleisureanother |  
+| bip_39_word_no_space_2 | divideonion |  
+| bip_39_word_no_space_3 | divideonionscript |  
+| bip_39_word_no_space_4 | divideonionscriptgoddess |  
+| bip_39_word_no_space_5 | divideonionscriptgoddessdeliver |  
+| bip_39_word_no_space_6 | divideonionscriptgoddessdeliverhusband |  
+| bip_39_word_no_space_7 | divideonionscriptgoddessdeliverhusbandabout |  
+| bip_39_word_no_space_8 | divideonionscriptgoddessdeliverhusbandaboutused |  
+| bip_39_word_no_space_9 | divideonionscriptgoddessdeliverhusbandaboutusedcoral |  
 | bip_39_word_space_0 | ['divide', 'onion', 'script', 'goddess', 'deliver', 'husband', 'about', 'used', 'coral', 'select', 'leisure', 'another'] |  
 | bip_39_word_space_1 | divide |  
 | bip_39_word_space_10 | divide onion script goddess deliver husband about used coral select |  

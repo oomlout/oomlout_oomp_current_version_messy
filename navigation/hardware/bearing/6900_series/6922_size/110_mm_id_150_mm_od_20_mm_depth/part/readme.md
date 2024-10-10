@@ -122,6 +122,18 @@ gain
 tiger
 state
 unable |  
+| bip_39_word_no_space_1 | stem |  
+| bip_39_word_no_space_10 | stemexercisejackettastepenaltygaintigerstateunablepower |  
+| bip_39_word_no_space_11 | stemexercisejackettastepenaltygaintigerstateunablepowerstill |  
+| bip_39_word_no_space_12 | stemexercisejackettastepenaltygaintigerstateunablepowerstillalso |  
+| bip_39_word_no_space_2 | stemexercise |  
+| bip_39_word_no_space_3 | stemexercisejacket |  
+| bip_39_word_no_space_4 | stemexercisejackettaste |  
+| bip_39_word_no_space_5 | stemexercisejackettastepenalty |  
+| bip_39_word_no_space_6 | stemexercisejackettastepenaltygain |  
+| bip_39_word_no_space_7 | stemexercisejackettastepenaltygaintiger |  
+| bip_39_word_no_space_8 | stemexercisejackettastepenaltygaintigerstate |  
+| bip_39_word_no_space_9 | stemexercisejackettastepenaltygaintigerstateunable |  
 | bip_39_word_space_0 | ['stem', 'exercise', 'jacket', 'taste', 'penalty', 'gain', 'tiger', 'state', 'unable', 'power', 'still', 'also'] |  
 | bip_39_word_space_1 | stem |  
 | bip_39_word_space_10 | stem exercise jacket taste penalty gain tiger state unable power |  

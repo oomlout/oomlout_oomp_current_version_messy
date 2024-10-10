@@ -122,6 +122,18 @@ trouble
 tackle
 any
 hurt |  
+| bip_39_word_no_space_1 | popular |  
+| bip_39_word_no_space_10 | popularletterabovefoundwisetroubletackleanyhurtnaive |  
+| bip_39_word_no_space_11 | popularletterabovefoundwisetroubletackleanyhurtnaivelake |  
+| bip_39_word_no_space_12 | popularletterabovefoundwisetroubletackleanyhurtnaivelakealert |  
+| bip_39_word_no_space_2 | popularletter |  
+| bip_39_word_no_space_3 | popularletterabove |  
+| bip_39_word_no_space_4 | popularletterabovefound |  
+| bip_39_word_no_space_5 | popularletterabovefoundwise |  
+| bip_39_word_no_space_6 | popularletterabovefoundwisetrouble |  
+| bip_39_word_no_space_7 | popularletterabovefoundwisetroubletackle |  
+| bip_39_word_no_space_8 | popularletterabovefoundwisetroubletackleany |  
+| bip_39_word_no_space_9 | popularletterabovefoundwisetroubletackleanyhurt |  
 | bip_39_word_space_0 | ['popular', 'letter', 'above', 'found', 'wise', 'trouble', 'tackle', 'any', 'hurt', 'naive', 'lake', 'alert'] |  
 | bip_39_word_space_1 | popular |  
 | bip_39_word_space_10 | popular letter above found wise trouble tackle any hurt naive |  

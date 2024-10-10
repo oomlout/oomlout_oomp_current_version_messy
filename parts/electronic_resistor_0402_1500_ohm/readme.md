@@ -122,6 +122,18 @@ bachelor
 legend
 flavor
 siren |  
+| bip_39_word_no_space_1 | satisfy |  
+| bip_39_word_no_space_10 | satisfyhomeladypyramidstickbachelorlegendflavorsireninnocent |  
+| bip_39_word_no_space_11 | satisfyhomeladypyramidstickbachelorlegendflavorsireninnocentemploy |  
+| bip_39_word_no_space_12 | satisfyhomeladypyramidstickbachelorlegendflavorsireninnocentemployacid |  
+| bip_39_word_no_space_2 | satisfyhome |  
+| bip_39_word_no_space_3 | satisfyhomelady |  
+| bip_39_word_no_space_4 | satisfyhomeladypyramid |  
+| bip_39_word_no_space_5 | satisfyhomeladypyramidstick |  
+| bip_39_word_no_space_6 | satisfyhomeladypyramidstickbachelor |  
+| bip_39_word_no_space_7 | satisfyhomeladypyramidstickbachelorlegend |  
+| bip_39_word_no_space_8 | satisfyhomeladypyramidstickbachelorlegendflavor |  
+| bip_39_word_no_space_9 | satisfyhomeladypyramidstickbachelorlegendflavorsiren |  
 | bip_39_word_space_0 | ['satisfy', 'home', 'lady', 'pyramid', 'stick', 'bachelor', 'legend', 'flavor', 'siren', 'innocent', 'employ', 'acid'] |  
 | bip_39_word_space_1 | satisfy |  
 | bip_39_word_space_10 | satisfy home lady pyramid stick bachelor legend flavor siren innocent |  

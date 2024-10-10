@@ -122,6 +122,18 @@ taxi
 uniform
 away
 helmet |  
+| bip_39_word_no_space_1 | erode |  
+| bip_39_word_no_space_10 | erodeshallowtestfinaltoothtaxiuniformawayhelmetranch |  
+| bip_39_word_no_space_11 | erodeshallowtestfinaltoothtaxiuniformawayhelmetranchtomato |  
+| bip_39_word_no_space_12 | erodeshallowtestfinaltoothtaxiuniformawayhelmetranchtomatoangry |  
+| bip_39_word_no_space_2 | erodeshallow |  
+| bip_39_word_no_space_3 | erodeshallowtest |  
+| bip_39_word_no_space_4 | erodeshallowtestfinal |  
+| bip_39_word_no_space_5 | erodeshallowtestfinaltooth |  
+| bip_39_word_no_space_6 | erodeshallowtestfinaltoothtaxi |  
+| bip_39_word_no_space_7 | erodeshallowtestfinaltoothtaxiuniform |  
+| bip_39_word_no_space_8 | erodeshallowtestfinaltoothtaxiuniformaway |  
+| bip_39_word_no_space_9 | erodeshallowtestfinaltoothtaxiuniformawayhelmet |  
 | bip_39_word_space_0 | ['erode', 'shallow', 'test', 'final', 'tooth', 'taxi', 'uniform', 'away', 'helmet', 'ranch', 'tomato', 'angry'] |  
 | bip_39_word_space_1 | erode |  
 | bip_39_word_space_10 | erode shallow test final tooth taxi uniform away helmet ranch |  

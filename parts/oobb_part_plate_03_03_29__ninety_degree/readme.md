@@ -122,6 +122,18 @@ summer
 gaze
 rice
 tragic |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blousecaraprilravencombinesummergazericetragiccrowd |  
+| bip_39_word_no_space_11 | blousecaraprilravencombinesummergazericetragiccrowdpaddle |  
+| bip_39_word_no_space_12 | blousecaraprilravencombinesummergazericetragiccrowdpaddleabove |  
+| bip_39_word_no_space_2 | blousecar |  
+| bip_39_word_no_space_3 | blousecarapril |  
+| bip_39_word_no_space_4 | blousecaraprilraven |  
+| bip_39_word_no_space_5 | blousecaraprilravencombine |  
+| bip_39_word_no_space_6 | blousecaraprilravencombinesummer |  
+| bip_39_word_no_space_7 | blousecaraprilravencombinesummergaze |  
+| bip_39_word_no_space_8 | blousecaraprilravencombinesummergazerice |  
+| bip_39_word_no_space_9 | blousecaraprilravencombinesummergazericetragic |  
 | bip_39_word_space_0 | ['blouse', 'car', 'april', 'raven', 'combine', 'summer', 'gaze', 'rice', 'tragic', 'crowd', 'paddle', 'above'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse car april raven combine summer gaze rice tragic crowd |  

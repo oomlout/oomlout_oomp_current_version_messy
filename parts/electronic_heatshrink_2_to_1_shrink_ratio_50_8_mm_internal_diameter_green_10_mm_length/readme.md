@@ -122,6 +122,18 @@ need
 say
 acoustic
 farm |  
+| bip_39_word_no_space_1 | flavor |  
+| bip_39_word_no_space_10 | flavorhomemixedexactluxuryneedsayacousticfarmconcert |  
+| bip_39_word_no_space_11 | flavorhomemixedexactluxuryneedsayacousticfarmconcerttitle |  
+| bip_39_word_no_space_12 | flavorhomemixedexactluxuryneedsayacousticfarmconcerttitlearctic |  
+| bip_39_word_no_space_2 | flavorhome |  
+| bip_39_word_no_space_3 | flavorhomemixed |  
+| bip_39_word_no_space_4 | flavorhomemixedexact |  
+| bip_39_word_no_space_5 | flavorhomemixedexactluxury |  
+| bip_39_word_no_space_6 | flavorhomemixedexactluxuryneed |  
+| bip_39_word_no_space_7 | flavorhomemixedexactluxuryneedsay |  
+| bip_39_word_no_space_8 | flavorhomemixedexactluxuryneedsayacoustic |  
+| bip_39_word_no_space_9 | flavorhomemixedexactluxuryneedsayacousticfarm |  
 | bip_39_word_space_0 | ['flavor', 'home', 'mixed', 'exact', 'luxury', 'need', 'say', 'acoustic', 'farm', 'concert', 'title', 'arctic'] |  
 | bip_39_word_space_1 | flavor |  
 | bip_39_word_space_10 | flavor home mixed exact luxury need say acoustic farm concert |  

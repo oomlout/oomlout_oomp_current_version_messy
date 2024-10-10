@@ -122,6 +122,18 @@ coach
 riot
 differ
 trend |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilproofoftenboatfathercoachriotdiffertrendsadness |  
+| bip_39_word_no_space_11 | aprilproofoftenboatfathercoachriotdiffertrendsadnessecho |  
+| bip_39_word_no_space_12 | aprilproofoftenboatfathercoachriotdiffertrendsadnessechoalcohol |  
+| bip_39_word_no_space_2 | aprilproof |  
+| bip_39_word_no_space_3 | aprilproofoften |  
+| bip_39_word_no_space_4 | aprilproofoftenboat |  
+| bip_39_word_no_space_5 | aprilproofoftenboatfather |  
+| bip_39_word_no_space_6 | aprilproofoftenboatfathercoach |  
+| bip_39_word_no_space_7 | aprilproofoftenboatfathercoachriot |  
+| bip_39_word_no_space_8 | aprilproofoftenboatfathercoachriotdiffer |  
+| bip_39_word_no_space_9 | aprilproofoftenboatfathercoachriotdiffertrend |  
 | bip_39_word_space_0 | ['april', 'proof', 'often', 'boat', 'father', 'coach', 'riot', 'differ', 'trend', 'sadness', 'echo', 'alcohol'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april proof often boat father coach riot differ trend sadness |  

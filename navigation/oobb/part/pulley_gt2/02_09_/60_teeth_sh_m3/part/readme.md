@@ -122,6 +122,18 @@ fruit
 reunion
 resemble
 diesel |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairwhenmemberbeachlendfruitreunionresembledieselday |  
+| bip_39_word_no_space_11 | repairwhenmemberbeachlendfruitreunionresembledieseldayoppose |  
+| bip_39_word_no_space_12 | repairwhenmemberbeachlendfruitreunionresembledieseldayopposeacquire |  
+| bip_39_word_no_space_2 | repairwhen |  
+| bip_39_word_no_space_3 | repairwhenmember |  
+| bip_39_word_no_space_4 | repairwhenmemberbeach |  
+| bip_39_word_no_space_5 | repairwhenmemberbeachlend |  
+| bip_39_word_no_space_6 | repairwhenmemberbeachlendfruit |  
+| bip_39_word_no_space_7 | repairwhenmemberbeachlendfruitreunion |  
+| bip_39_word_no_space_8 | repairwhenmemberbeachlendfruitreunionresemble |  
+| bip_39_word_no_space_9 | repairwhenmemberbeachlendfruitreunionresemblediesel |  
 | bip_39_word_space_0 | ['repair', 'when', 'member', 'beach', 'lend', 'fruit', 'reunion', 'resemble', 'diesel', 'day', 'oppose', 'acquire'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair when member beach lend fruit reunion resemble diesel day |  

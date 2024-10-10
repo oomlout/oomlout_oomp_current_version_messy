@@ -122,6 +122,18 @@ unaware
 blind
 physical
 alley |  
+| bip_39_word_no_space_1 | bounce |  
+| bip_39_word_no_space_10 | bouncepicnictrywidthsleepunawareblindphysicalalleyadjust |  
+| bip_39_word_no_space_11 | bouncepicnictrywidthsleepunawareblindphysicalalleyadjustclutch |  
+| bip_39_word_no_space_12 | bouncepicnictrywidthsleepunawareblindphysicalalleyadjustclutchallow |  
+| bip_39_word_no_space_2 | bouncepicnic |  
+| bip_39_word_no_space_3 | bouncepicnictry |  
+| bip_39_word_no_space_4 | bouncepicnictrywidth |  
+| bip_39_word_no_space_5 | bouncepicnictrywidthsleep |  
+| bip_39_word_no_space_6 | bouncepicnictrywidthsleepunaware |  
+| bip_39_word_no_space_7 | bouncepicnictrywidthsleepunawareblind |  
+| bip_39_word_no_space_8 | bouncepicnictrywidthsleepunawareblindphysical |  
+| bip_39_word_no_space_9 | bouncepicnictrywidthsleepunawareblindphysicalalley |  
 | bip_39_word_space_0 | ['bounce', 'picnic', 'try', 'width', 'sleep', 'unaware', 'blind', 'physical', 'alley', 'adjust', 'clutch', 'allow'] |  
 | bip_39_word_space_1 | bounce |  
 | bip_39_word_space_10 | bounce picnic try width sleep unaware blind physical alley adjust |  

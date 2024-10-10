@@ -122,6 +122,18 @@ oval
 flock
 picture
 flee |  
+| bip_39_word_no_space_1 | age |  
+| bip_39_word_no_space_10 | agesheriffmassvoyagesixovalflockpicturefleedeny |  
+| bip_39_word_no_space_11 | agesheriffmassvoyagesixovalflockpicturefleedenytwin |  
+| bip_39_word_no_space_12 | agesheriffmassvoyagesixovalflockpicturefleedenytwinabsent |  
+| bip_39_word_no_space_2 | agesheriff |  
+| bip_39_word_no_space_3 | agesheriffmass |  
+| bip_39_word_no_space_4 | agesheriffmassvoyage |  
+| bip_39_word_no_space_5 | agesheriffmassvoyagesix |  
+| bip_39_word_no_space_6 | agesheriffmassvoyagesixoval |  
+| bip_39_word_no_space_7 | agesheriffmassvoyagesixovalflock |  
+| bip_39_word_no_space_8 | agesheriffmassvoyagesixovalflockpicture |  
+| bip_39_word_no_space_9 | agesheriffmassvoyagesixovalflockpictureflee |  
 | bip_39_word_space_0 | ['age', 'sheriff', 'mass', 'voyage', 'six', 'oval', 'flock', 'picture', 'flee', 'deny', 'twin', 'absent'] |  
 | bip_39_word_space_1 | age |  
 | bip_39_word_space_10 | age sheriff mass voyage six oval flock picture flee deny |  

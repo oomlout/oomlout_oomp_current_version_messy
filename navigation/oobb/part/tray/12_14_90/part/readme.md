@@ -122,6 +122,18 @@ network
 all
 impulse
 ladder |  
+| bip_39_word_no_space_1 | inch |  
+| bip_39_word_no_space_10 | inchgrasswhenembodysirennetworkallimpulseladdercloud |  
+| bip_39_word_no_space_11 | inchgrasswhenembodysirennetworkallimpulseladdercloudsatisfy |  
+| bip_39_word_no_space_12 | inchgrasswhenembodysirennetworkallimpulseladdercloudsatisfyannounce |  
+| bip_39_word_no_space_2 | inchgrass |  
+| bip_39_word_no_space_3 | inchgrasswhen |  
+| bip_39_word_no_space_4 | inchgrasswhenembody |  
+| bip_39_word_no_space_5 | inchgrasswhenembodysiren |  
+| bip_39_word_no_space_6 | inchgrasswhenembodysirennetwork |  
+| bip_39_word_no_space_7 | inchgrasswhenembodysirennetworkall |  
+| bip_39_word_no_space_8 | inchgrasswhenembodysirennetworkallimpulse |  
+| bip_39_word_no_space_9 | inchgrasswhenembodysirennetworkallimpulseladder |  
 | bip_39_word_space_0 | ['inch', 'grass', 'when', 'embody', 'siren', 'network', 'all', 'impulse', 'ladder', 'cloud', 'satisfy', 'announce'] |  
 | bip_39_word_space_1 | inch |  
 | bip_39_word_space_10 | inch grass when embody siren network all impulse ladder cloud |  

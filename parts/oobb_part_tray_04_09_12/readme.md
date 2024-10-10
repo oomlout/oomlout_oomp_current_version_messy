@@ -122,6 +122,18 @@ humble
 extend
 mansion
 mystery |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarfoxwallquitzebrahumbleextendmansionmysteryevoke |  
+| bip_39_word_no_space_11 | cigarfoxwallquitzebrahumbleextendmansionmysteryevokesegment |  
+| bip_39_word_no_space_12 | cigarfoxwallquitzebrahumbleextendmansionmysteryevokesegmentatom |  
+| bip_39_word_no_space_2 | cigarfox |  
+| bip_39_word_no_space_3 | cigarfoxwall |  
+| bip_39_word_no_space_4 | cigarfoxwallquit |  
+| bip_39_word_no_space_5 | cigarfoxwallquitzebra |  
+| bip_39_word_no_space_6 | cigarfoxwallquitzebrahumble |  
+| bip_39_word_no_space_7 | cigarfoxwallquitzebrahumbleextend |  
+| bip_39_word_no_space_8 | cigarfoxwallquitzebrahumbleextendmansion |  
+| bip_39_word_no_space_9 | cigarfoxwallquitzebrahumbleextendmansionmystery |  
 | bip_39_word_space_0 | ['cigar', 'fox', 'wall', 'quit', 'zebra', 'humble', 'extend', 'mansion', 'mystery', 'evoke', 'segment', 'atom'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar fox wall quit zebra humble extend mansion mystery evoke |  

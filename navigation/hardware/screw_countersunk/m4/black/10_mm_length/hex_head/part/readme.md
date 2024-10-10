@@ -122,6 +122,18 @@ jelly
 delay
 umbrella
 soon |  
+| bip_39_word_no_space_1 | slogan |  
+| bip_39_word_no_space_10 | slogantowerconsidertunanapkinjellydelayumbrellasoonpopular |  
+| bip_39_word_no_space_11 | slogantowerconsidertunanapkinjellydelayumbrellasoonpopulardefy |  
+| bip_39_word_no_space_12 | slogantowerconsidertunanapkinjellydelayumbrellasoonpopulardefyactor |  
+| bip_39_word_no_space_2 | slogantower |  
+| bip_39_word_no_space_3 | slogantowerconsider |  
+| bip_39_word_no_space_4 | slogantowerconsidertuna |  
+| bip_39_word_no_space_5 | slogantowerconsidertunanapkin |  
+| bip_39_word_no_space_6 | slogantowerconsidertunanapkinjelly |  
+| bip_39_word_no_space_7 | slogantowerconsidertunanapkinjellydelay |  
+| bip_39_word_no_space_8 | slogantowerconsidertunanapkinjellydelayumbrella |  
+| bip_39_word_no_space_9 | slogantowerconsidertunanapkinjellydelayumbrellasoon |  
 | bip_39_word_space_0 | ['slogan', 'tower', 'consider', 'tuna', 'napkin', 'jelly', 'delay', 'umbrella', 'soon', 'popular', 'defy', 'actor'] |  
 | bip_39_word_space_1 | slogan |  
 | bip_39_word_space_10 | slogan tower consider tuna napkin jelly delay umbrella soon popular |  

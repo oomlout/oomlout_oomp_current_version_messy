@@ -122,6 +122,18 @@ submit
 solar
 pigeon
 true |  
+| bip_39_word_no_space_1 | dumb |  
+| bip_39_word_no_space_10 | dumbmusthardupholdmatchsubmitsolarpigeontrueaudit |  
+| bip_39_word_no_space_11 | dumbmusthardupholdmatchsubmitsolarpigeontrueauditenvelope |  
+| bip_39_word_no_space_12 | dumbmusthardupholdmatchsubmitsolarpigeontrueauditenvelopeapprove |  
+| bip_39_word_no_space_2 | dumbmust |  
+| bip_39_word_no_space_3 | dumbmusthard |  
+| bip_39_word_no_space_4 | dumbmustharduphold |  
+| bip_39_word_no_space_5 | dumbmusthardupholdmatch |  
+| bip_39_word_no_space_6 | dumbmusthardupholdmatchsubmit |  
+| bip_39_word_no_space_7 | dumbmusthardupholdmatchsubmitsolar |  
+| bip_39_word_no_space_8 | dumbmusthardupholdmatchsubmitsolarpigeon |  
+| bip_39_word_no_space_9 | dumbmusthardupholdmatchsubmitsolarpigeontrue |  
 | bip_39_word_space_0 | ['dumb', 'must', 'hard', 'uphold', 'match', 'submit', 'solar', 'pigeon', 'true', 'audit', 'envelope', 'approve'] |  
 | bip_39_word_space_1 | dumb |  
 | bip_39_word_space_10 | dumb must hard uphold match submit solar pigeon true audit |  

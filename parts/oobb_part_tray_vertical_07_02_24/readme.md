@@ -122,6 +122,18 @@ fix
 upper
 found
 shock |  
+| bip_39_word_no_space_1 | dawn |  
+| bip_39_word_no_space_10 | dawnforestlettersatoshileaderfixupperfoundshockcamp |  
+| bip_39_word_no_space_11 | dawnforestlettersatoshileaderfixupperfoundshockcampengage |  
+| bip_39_word_no_space_12 | dawnforestlettersatoshileaderfixupperfoundshockcampengageaerobic |  
+| bip_39_word_no_space_2 | dawnforest |  
+| bip_39_word_no_space_3 | dawnforestletter |  
+| bip_39_word_no_space_4 | dawnforestlettersatoshi |  
+| bip_39_word_no_space_5 | dawnforestlettersatoshileader |  
+| bip_39_word_no_space_6 | dawnforestlettersatoshileaderfix |  
+| bip_39_word_no_space_7 | dawnforestlettersatoshileaderfixupper |  
+| bip_39_word_no_space_8 | dawnforestlettersatoshileaderfixupperfound |  
+| bip_39_word_no_space_9 | dawnforestlettersatoshileaderfixupperfoundshock |  
 | bip_39_word_space_0 | ['dawn', 'forest', 'letter', 'satoshi', 'leader', 'fix', 'upper', 'found', 'shock', 'camp', 'engage', 'aerobic'] |  
 | bip_39_word_space_1 | dawn |  
 | bip_39_word_space_10 | dawn forest letter satoshi leader fix upper found shock camp |  

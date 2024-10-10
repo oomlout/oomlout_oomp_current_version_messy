@@ -122,6 +122,18 @@ short
 wet
 amused
 nest |  
+| bip_39_word_no_space_1 | puzzle |  
+| bip_39_word_no_space_10 | puzzlecomeamateurborrowabsorbshortwetamusednestscrub |  
+| bip_39_word_no_space_11 | puzzlecomeamateurborrowabsorbshortwetamusednestscrubmodel |  
+| bip_39_word_no_space_12 | puzzlecomeamateurborrowabsorbshortwetamusednestscrubmodeladd |  
+| bip_39_word_no_space_2 | puzzlecome |  
+| bip_39_word_no_space_3 | puzzlecomeamateur |  
+| bip_39_word_no_space_4 | puzzlecomeamateurborrow |  
+| bip_39_word_no_space_5 | puzzlecomeamateurborrowabsorb |  
+| bip_39_word_no_space_6 | puzzlecomeamateurborrowabsorbshort |  
+| bip_39_word_no_space_7 | puzzlecomeamateurborrowabsorbshortwet |  
+| bip_39_word_no_space_8 | puzzlecomeamateurborrowabsorbshortwetamused |  
+| bip_39_word_no_space_9 | puzzlecomeamateurborrowabsorbshortwetamusednest |  
 | bip_39_word_space_0 | ['puzzle', 'come', 'amateur', 'borrow', 'absorb', 'short', 'wet', 'amused', 'nest', 'scrub', 'model', 'add'] |  
 | bip_39_word_space_1 | puzzle |  
 | bip_39_word_space_10 | puzzle come amateur borrow absorb short wet amused nest scrub |  

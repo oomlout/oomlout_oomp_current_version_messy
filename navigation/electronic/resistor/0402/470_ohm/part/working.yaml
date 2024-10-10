@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'liberty
   jungle
 
   deliver'
+bip_39_word_no_space_1: liberty
+bip_39_word_no_space_10: libertydrinkroseswapautochaosspatialjungledeliverdeposit
+bip_39_word_no_space_11: libertydrinkroseswapautochaosspatialjungledeliverdepositcluster
+bip_39_word_no_space_12: libertydrinkroseswapautochaosspatialjungledeliverdepositclusteraddict
+bip_39_word_no_space_2: libertydrink
+bip_39_word_no_space_3: libertydrinkrose
+bip_39_word_no_space_4: libertydrinkroseswap
+bip_39_word_no_space_5: libertydrinkroseswapauto
+bip_39_word_no_space_6: libertydrinkroseswapautochaos
+bip_39_word_no_space_7: libertydrinkroseswapautochaosspatial
+bip_39_word_no_space_8: libertydrinkroseswapautochaosspatialjungle
+bip_39_word_no_space_9: libertydrinkroseswapautochaosspatialjungledeliver
 bip_39_word_space_0:
 - liberty
 - drink

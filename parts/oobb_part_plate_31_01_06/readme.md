@@ -122,6 +122,18 @@ south
 refuse
 recipe
 almost |  
+| bip_39_word_no_space_1 | piece |  
+| bip_39_word_no_space_10 | pieceentiredryabsorbreasonsouthrefuserecipealmostalways |  
+| bip_39_word_no_space_11 | pieceentiredryabsorbreasonsouthrefuserecipealmostalwaysbusy |  
+| bip_39_word_no_space_12 | pieceentiredryabsorbreasonsouthrefuserecipealmostalwaysbusyachieve |  
+| bip_39_word_no_space_2 | pieceentire |  
+| bip_39_word_no_space_3 | pieceentiredry |  
+| bip_39_word_no_space_4 | pieceentiredryabsorb |  
+| bip_39_word_no_space_5 | pieceentiredryabsorbreason |  
+| bip_39_word_no_space_6 | pieceentiredryabsorbreasonsouth |  
+| bip_39_word_no_space_7 | pieceentiredryabsorbreasonsouthrefuse |  
+| bip_39_word_no_space_8 | pieceentiredryabsorbreasonsouthrefuserecipe |  
+| bip_39_word_no_space_9 | pieceentiredryabsorbreasonsouthrefuserecipealmost |  
 | bip_39_word_space_0 | ['piece', 'entire', 'dry', 'absorb', 'reason', 'south', 'refuse', 'recipe', 'almost', 'always', 'busy', 'achieve'] |  
 | bip_39_word_space_1 | piece |  
 | bip_39_word_space_10 | piece entire dry absorb reason south refuse recipe almost always |  

@@ -122,6 +122,18 @@ stick
 slim
 inject
 coin |  
+| bip_39_word_no_space_1 | sting |  
+| bip_39_word_no_space_10 | stingflightquarterpovertygruntsticksliminjectcoinpatrol |  
+| bip_39_word_no_space_11 | stingflightquarterpovertygruntsticksliminjectcoinpatrolcombine |  
+| bip_39_word_no_space_12 | stingflightquarterpovertygruntsticksliminjectcoinpatrolcombineadvice |  
+| bip_39_word_no_space_2 | stingflight |  
+| bip_39_word_no_space_3 | stingflightquarter |  
+| bip_39_word_no_space_4 | stingflightquarterpoverty |  
+| bip_39_word_no_space_5 | stingflightquarterpovertygrunt |  
+| bip_39_word_no_space_6 | stingflightquarterpovertygruntstick |  
+| bip_39_word_no_space_7 | stingflightquarterpovertygruntstickslim |  
+| bip_39_word_no_space_8 | stingflightquarterpovertygruntsticksliminject |  
+| bip_39_word_no_space_9 | stingflightquarterpovertygruntsticksliminjectcoin |  
 | bip_39_word_space_0 | ['sting', 'flight', 'quarter', 'poverty', 'grunt', 'stick', 'slim', 'inject', 'coin', 'patrol', 'combine', 'advice'] |  
 | bip_39_word_space_1 | sting |  
 | bip_39_word_space_10 | sting flight quarter poverty grunt stick slim inject coin patrol |  

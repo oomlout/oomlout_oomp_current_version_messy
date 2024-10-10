@@ -122,6 +122,18 @@ spawn
 glass
 speak
 main |  
+| bip_39_word_no_space_1 | security |  
+| bip_39_word_no_space_10 | securitybuscrushshellroutespawnglassspeakmainpass |  
+| bip_39_word_no_space_11 | securitybuscrushshellroutespawnglassspeakmainpasscouch |  
+| bip_39_word_no_space_12 | securitybuscrushshellroutespawnglassspeakmainpasscouchalert |  
+| bip_39_word_no_space_2 | securitybus |  
+| bip_39_word_no_space_3 | securitybuscrush |  
+| bip_39_word_no_space_4 | securitybuscrushshell |  
+| bip_39_word_no_space_5 | securitybuscrushshellroute |  
+| bip_39_word_no_space_6 | securitybuscrushshellroutespawn |  
+| bip_39_word_no_space_7 | securitybuscrushshellroutespawnglass |  
+| bip_39_word_no_space_8 | securitybuscrushshellroutespawnglassspeak |  
+| bip_39_word_no_space_9 | securitybuscrushshellroutespawnglassspeakmain |  
 | bip_39_word_space_0 | ['security', 'bus', 'crush', 'shell', 'route', 'spawn', 'glass', 'speak', 'main', 'pass', 'couch', 'alert'] |  
 | bip_39_word_space_1 | security |  
 | bip_39_word_space_10 | security bus crush shell route spawn glass speak main pass |  

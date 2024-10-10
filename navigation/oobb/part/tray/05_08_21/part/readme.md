@@ -122,6 +122,18 @@ rib
 journey
 knee
 scout |  
+| bip_39_word_no_space_1 | guess |  
+| bip_39_word_no_space_10 | guessaspecttapevolcanodreamribjourneykneescoutbuyer |  
+| bip_39_word_no_space_11 | guessaspecttapevolcanodreamribjourneykneescoutbuyersausage |  
+| bip_39_word_no_space_12 | guessaspecttapevolcanodreamribjourneykneescoutbuyersausageapart |  
+| bip_39_word_no_space_2 | guessaspect |  
+| bip_39_word_no_space_3 | guessaspecttape |  
+| bip_39_word_no_space_4 | guessaspecttapevolcano |  
+| bip_39_word_no_space_5 | guessaspecttapevolcanodream |  
+| bip_39_word_no_space_6 | guessaspecttapevolcanodreamrib |  
+| bip_39_word_no_space_7 | guessaspecttapevolcanodreamribjourney |  
+| bip_39_word_no_space_8 | guessaspecttapevolcanodreamribjourneyknee |  
+| bip_39_word_no_space_9 | guessaspecttapevolcanodreamribjourneykneescout |  
 | bip_39_word_space_0 | ['guess', 'aspect', 'tape', 'volcano', 'dream', 'rib', 'journey', 'knee', 'scout', 'buyer', 'sausage', 'apart'] |  
 | bip_39_word_space_1 | guess |  
 | bip_39_word_space_10 | guess aspect tape volcano dream rib journey knee scout buyer |  

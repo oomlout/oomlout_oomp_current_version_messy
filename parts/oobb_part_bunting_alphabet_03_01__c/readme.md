@@ -122,6 +122,18 @@ tiny
 core
 give
 install |  
+| bip_39_word_no_space_1 | anger |  
+| bip_39_word_no_space_10 | angercamptracklionscouttinycoregiveinstallscript |  
+| bip_39_word_no_space_11 | angercamptracklionscouttinycoregiveinstallscriptcarry |  
+| bip_39_word_no_space_12 | angercamptracklionscouttinycoregiveinstallscriptcarryaction |  
+| bip_39_word_no_space_2 | angercamp |  
+| bip_39_word_no_space_3 | angercamptrack |  
+| bip_39_word_no_space_4 | angercamptracklion |  
+| bip_39_word_no_space_5 | angercamptracklionscout |  
+| bip_39_word_no_space_6 | angercamptracklionscouttiny |  
+| bip_39_word_no_space_7 | angercamptracklionscouttinycore |  
+| bip_39_word_no_space_8 | angercamptracklionscouttinycoregive |  
+| bip_39_word_no_space_9 | angercamptracklionscouttinycoregiveinstall |  
 | bip_39_word_space_0 | ['anger', 'camp', 'track', 'lion', 'scout', 'tiny', 'core', 'give', 'install', 'script', 'carry', 'action'] |  
 | bip_39_word_space_1 | anger |  
 | bip_39_word_space_10 | anger camp track lion scout tiny core give install script |  

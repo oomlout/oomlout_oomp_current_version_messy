@@ -122,6 +122,18 @@ gold
 barrel
 cube
 shoot |  
+| bip_39_word_no_space_1 | ticket |  
+| bip_39_word_no_space_10 | ticketbusinessyoudripcanalgoldbarrelcubeshootmodel |  
+| bip_39_word_no_space_11 | ticketbusinessyoudripcanalgoldbarrelcubeshootmodelsalt |  
+| bip_39_word_no_space_12 | ticketbusinessyoudripcanalgoldbarrelcubeshootmodelsaltancient |  
+| bip_39_word_no_space_2 | ticketbusiness |  
+| bip_39_word_no_space_3 | ticketbusinessyou |  
+| bip_39_word_no_space_4 | ticketbusinessyoudrip |  
+| bip_39_word_no_space_5 | ticketbusinessyoudripcanal |  
+| bip_39_word_no_space_6 | ticketbusinessyoudripcanalgold |  
+| bip_39_word_no_space_7 | ticketbusinessyoudripcanalgoldbarrel |  
+| bip_39_word_no_space_8 | ticketbusinessyoudripcanalgoldbarrelcube |  
+| bip_39_word_no_space_9 | ticketbusinessyoudripcanalgoldbarrelcubeshoot |  
 | bip_39_word_space_0 | ['ticket', 'business', 'you', 'drip', 'canal', 'gold', 'barrel', 'cube', 'shoot', 'model', 'salt', 'ancient'] |  
 | bip_39_word_space_1 | ticket |  
 | bip_39_word_space_10 | ticket business you drip canal gold barrel cube shoot model |  

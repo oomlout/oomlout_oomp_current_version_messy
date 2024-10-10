@@ -122,6 +122,18 @@ piano
 document
 hello
 palm |  
+| bip_39_word_no_space_1 | venture |  
+| bip_39_word_no_space_10 | venturescatterdonkeyouternetworkpianodocumenthellopalmnews |  
+| bip_39_word_no_space_11 | venturescatterdonkeyouternetworkpianodocumenthellopalmnewsrecipe |  
+| bip_39_word_no_space_12 | venturescatterdonkeyouternetworkpianodocumenthellopalmnewsrecipeangry |  
+| bip_39_word_no_space_2 | venturescatter |  
+| bip_39_word_no_space_3 | venturescatterdonkey |  
+| bip_39_word_no_space_4 | venturescatterdonkeyouter |  
+| bip_39_word_no_space_5 | venturescatterdonkeyouternetwork |  
+| bip_39_word_no_space_6 | venturescatterdonkeyouternetworkpiano |  
+| bip_39_word_no_space_7 | venturescatterdonkeyouternetworkpianodocument |  
+| bip_39_word_no_space_8 | venturescatterdonkeyouternetworkpianodocumenthello |  
+| bip_39_word_no_space_9 | venturescatterdonkeyouternetworkpianodocumenthellopalm |  
 | bip_39_word_space_0 | ['venture', 'scatter', 'donkey', 'outer', 'network', 'piano', 'document', 'hello', 'palm', 'news', 'recipe', 'angry'] |  
 | bip_39_word_space_1 | venture |  
 | bip_39_word_space_10 | venture scatter donkey outer network piano document hello palm news |  

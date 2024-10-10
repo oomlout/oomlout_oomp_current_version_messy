@@ -122,6 +122,18 @@ canyon
 boil
 knock
 prevent |  
+| bip_39_word_no_space_1 | web |  
+| bip_39_word_no_space_10 | webmanualsingcomicqualitycanyonboilknockpreventelder |  
+| bip_39_word_no_space_11 | webmanualsingcomicqualitycanyonboilknockpreventelderseason |  
+| bip_39_word_no_space_12 | webmanualsingcomicqualitycanyonboilknockpreventelderseasonattract |  
+| bip_39_word_no_space_2 | webmanual |  
+| bip_39_word_no_space_3 | webmanualsing |  
+| bip_39_word_no_space_4 | webmanualsingcomic |  
+| bip_39_word_no_space_5 | webmanualsingcomicquality |  
+| bip_39_word_no_space_6 | webmanualsingcomicqualitycanyon |  
+| bip_39_word_no_space_7 | webmanualsingcomicqualitycanyonboil |  
+| bip_39_word_no_space_8 | webmanualsingcomicqualitycanyonboilknock |  
+| bip_39_word_no_space_9 | webmanualsingcomicqualitycanyonboilknockprevent |  
 | bip_39_word_space_0 | ['web', 'manual', 'sing', 'comic', 'quality', 'canyon', 'boil', 'knock', 'prevent', 'elder', 'season', 'attract'] |  
 | bip_39_word_space_1 | web |  
 | bip_39_word_space_10 | web manual sing comic quality canyon boil knock prevent elder |  

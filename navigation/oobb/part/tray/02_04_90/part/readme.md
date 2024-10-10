@@ -122,6 +122,18 @@ clay
 kick
 truck
 run |  
+| bip_39_word_no_space_1 | spin |  
+| bip_39_word_no_space_10 | spincoffeedelaysalutemusicclaykicktruckrunvirtual |  
+| bip_39_word_no_space_11 | spincoffeedelaysalutemusicclaykicktruckrunvirtualball |  
+| bip_39_word_no_space_12 | spincoffeedelaysalutemusicclaykicktruckrunvirtualballabout |  
+| bip_39_word_no_space_2 | spincoffee |  
+| bip_39_word_no_space_3 | spincoffeedelay |  
+| bip_39_word_no_space_4 | spincoffeedelaysalute |  
+| bip_39_word_no_space_5 | spincoffeedelaysalutemusic |  
+| bip_39_word_no_space_6 | spincoffeedelaysalutemusicclay |  
+| bip_39_word_no_space_7 | spincoffeedelaysalutemusicclaykick |  
+| bip_39_word_no_space_8 | spincoffeedelaysalutemusicclaykicktruck |  
+| bip_39_word_no_space_9 | spincoffeedelaysalutemusicclaykicktruckrun |  
 | bip_39_word_space_0 | ['spin', 'coffee', 'delay', 'salute', 'music', 'clay', 'kick', 'truck', 'run', 'virtual', 'ball', 'about'] |  
 | bip_39_word_space_1 | spin |  
 | bip_39_word_space_10 | spin coffee delay salute music clay kick truck run virtual |  

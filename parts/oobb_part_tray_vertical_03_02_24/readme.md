@@ -122,6 +122,18 @@ dragon
 lizard
 hundred
 knock |  
+| bip_39_word_no_space_1 | gas |  
+| bip_39_word_no_space_10 | gaswalktrainreliefsituatedragonlizardhundredknockowner |  
+| bip_39_word_no_space_11 | gaswalktrainreliefsituatedragonlizardhundredknockownerdinner |  
+| bip_39_word_no_space_12 | gaswalktrainreliefsituatedragonlizardhundredknockownerdinneranswer |  
+| bip_39_word_no_space_2 | gaswalk |  
+| bip_39_word_no_space_3 | gaswalktrain |  
+| bip_39_word_no_space_4 | gaswalktrainrelief |  
+| bip_39_word_no_space_5 | gaswalktrainreliefsituate |  
+| bip_39_word_no_space_6 | gaswalktrainreliefsituatedragon |  
+| bip_39_word_no_space_7 | gaswalktrainreliefsituatedragonlizard |  
+| bip_39_word_no_space_8 | gaswalktrainreliefsituatedragonlizardhundred |  
+| bip_39_word_no_space_9 | gaswalktrainreliefsituatedragonlizardhundredknock |  
 | bip_39_word_space_0 | ['gas', 'walk', 'train', 'relief', 'situate', 'dragon', 'lizard', 'hundred', 'knock', 'owner', 'dinner', 'answer'] |  
 | bip_39_word_space_1 | gas |  
 | bip_39_word_space_10 | gas walk train relief situate dragon lizard hundred knock owner |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'nut
   enhance
 
   depth'
+bip_39_word_no_space_1: nut
+bip_39_word_no_space_10: nutfinishturtlegrithedgehogaspectghostenhancedepthjudge
+bip_39_word_no_space_11: nutfinishturtlegrithedgehogaspectghostenhancedepthjudgeacid
+bip_39_word_no_space_12: nutfinishturtlegrithedgehogaspectghostenhancedepthjudgeacidabstract
+bip_39_word_no_space_2: nutfinish
+bip_39_word_no_space_3: nutfinishturtle
+bip_39_word_no_space_4: nutfinishturtlegrit
+bip_39_word_no_space_5: nutfinishturtlegrithedgehog
+bip_39_word_no_space_6: nutfinishturtlegrithedgehogaspect
+bip_39_word_no_space_7: nutfinishturtlegrithedgehogaspectghost
+bip_39_word_no_space_8: nutfinishturtlegrithedgehogaspectghostenhance
+bip_39_word_no_space_9: nutfinishturtlegrithedgehogaspectghostenhancedepth
 bip_39_word_space_0:
 - nut
 - finish

@@ -122,6 +122,18 @@ illness
 govern
 genre
 sibling |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worryindoorhopeaskcasualillnessgoverngenresiblingword |  
+| bip_39_word_no_space_11 | worryindoorhopeaskcasualillnessgoverngenresiblingwordplace |  
+| bip_39_word_no_space_12 | worryindoorhopeaskcasualillnessgoverngenresiblingwordplacearrange |  
+| bip_39_word_no_space_2 | worryindoor |  
+| bip_39_word_no_space_3 | worryindoorhope |  
+| bip_39_word_no_space_4 | worryindoorhopeask |  
+| bip_39_word_no_space_5 | worryindoorhopeaskcasual |  
+| bip_39_word_no_space_6 | worryindoorhopeaskcasualillness |  
+| bip_39_word_no_space_7 | worryindoorhopeaskcasualillnessgovern |  
+| bip_39_word_no_space_8 | worryindoorhopeaskcasualillnessgoverngenre |  
+| bip_39_word_no_space_9 | worryindoorhopeaskcasualillnessgoverngenresibling |  
 | bip_39_word_space_0 | ['worry', 'indoor', 'hope', 'ask', 'casual', 'illness', 'govern', 'genre', 'sibling', 'word', 'place', 'arrange'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry indoor hope ask casual illness govern genre sibling word |  

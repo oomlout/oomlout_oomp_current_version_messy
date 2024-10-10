@@ -122,6 +122,18 @@ all
 huge
 toward
 coach |  
+| bip_39_word_no_space_1 | hold |  
+| bip_39_word_no_space_10 | holddiceuglyaccuseawakeallhugetowardcoachsplit |  
+| bip_39_word_no_space_11 | holddiceuglyaccuseawakeallhugetowardcoachsplitorder |  
+| bip_39_word_no_space_12 | holddiceuglyaccuseawakeallhugetowardcoachsplitorderalpha |  
+| bip_39_word_no_space_2 | holddice |  
+| bip_39_word_no_space_3 | holddiceugly |  
+| bip_39_word_no_space_4 | holddiceuglyaccuse |  
+| bip_39_word_no_space_5 | holddiceuglyaccuseawake |  
+| bip_39_word_no_space_6 | holddiceuglyaccuseawakeall |  
+| bip_39_word_no_space_7 | holddiceuglyaccuseawakeallhuge |  
+| bip_39_word_no_space_8 | holddiceuglyaccuseawakeallhugetoward |  
+| bip_39_word_no_space_9 | holddiceuglyaccuseawakeallhugetowardcoach |  
 | bip_39_word_space_0 | ['hold', 'dice', 'ugly', 'accuse', 'awake', 'all', 'huge', 'toward', 'coach', 'split', 'order', 'alpha'] |  
 | bip_39_word_space_1 | hold |  
 | bip_39_word_space_10 | hold dice ugly accuse awake all huge toward coach split |  

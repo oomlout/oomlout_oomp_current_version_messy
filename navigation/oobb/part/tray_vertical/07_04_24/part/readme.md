@@ -122,6 +122,18 @@ broom
 fiber
 impulse
 erosion |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchsatoshicavepolarpromotebroomfiberimpulseerosionexplain |  
+| bip_39_word_no_space_11 | patchsatoshicavepolarpromotebroomfiberimpulseerosionexplainlend |  
+| bip_39_word_no_space_12 | patchsatoshicavepolarpromotebroomfiberimpulseerosionexplainlendadvice |  
+| bip_39_word_no_space_2 | patchsatoshi |  
+| bip_39_word_no_space_3 | patchsatoshicave |  
+| bip_39_word_no_space_4 | patchsatoshicavepolar |  
+| bip_39_word_no_space_5 | patchsatoshicavepolarpromote |  
+| bip_39_word_no_space_6 | patchsatoshicavepolarpromotebroom |  
+| bip_39_word_no_space_7 | patchsatoshicavepolarpromotebroomfiber |  
+| bip_39_word_no_space_8 | patchsatoshicavepolarpromotebroomfiberimpulse |  
+| bip_39_word_no_space_9 | patchsatoshicavepolarpromotebroomfiberimpulseerosion |  
 | bip_39_word_space_0 | ['patch', 'satoshi', 'cave', 'polar', 'promote', 'broom', 'fiber', 'impulse', 'erosion', 'explain', 'lend', 'advice'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch satoshi cave polar promote broom fiber impulse erosion explain |  

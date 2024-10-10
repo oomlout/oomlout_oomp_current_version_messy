@@ -122,6 +122,18 @@ pledge
 clown
 ordinary
 february |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shopdresspieceteachzonepledgeclownordinaryfebruarywant |  
+| bip_39_word_no_space_11 | shopdresspieceteachzonepledgeclownordinaryfebruarywanthistory |  
+| bip_39_word_no_space_12 | shopdresspieceteachzonepledgeclownordinaryfebruarywanthistoryacross |  
+| bip_39_word_no_space_2 | shopdress |  
+| bip_39_word_no_space_3 | shopdresspiece |  
+| bip_39_word_no_space_4 | shopdresspieceteach |  
+| bip_39_word_no_space_5 | shopdresspieceteachzone |  
+| bip_39_word_no_space_6 | shopdresspieceteachzonepledge |  
+| bip_39_word_no_space_7 | shopdresspieceteachzonepledgeclown |  
+| bip_39_word_no_space_8 | shopdresspieceteachzonepledgeclownordinary |  
+| bip_39_word_no_space_9 | shopdresspieceteachzonepledgeclownordinaryfebruary |  
 | bip_39_word_space_0 | ['shop', 'dress', 'piece', 'teach', 'zone', 'pledge', 'clown', 'ordinary', 'february', 'want', 'history', 'across'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop dress piece teach zone pledge clown ordinary february want |  

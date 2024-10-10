@@ -122,6 +122,18 @@ mask
 eternal
 slide
 erode |  
+| bip_39_word_no_space_1 | nerve |  
+| bip_39_word_no_space_10 | nervematchregularcodeideamasketernalslideerodesalt |  
+| bip_39_word_no_space_11 | nervematchregularcodeideamasketernalslideerodesaltneed |  
+| bip_39_word_no_space_12 | nervematchregularcodeideamasketernalslideerodesaltneedalmost |  
+| bip_39_word_no_space_2 | nervematch |  
+| bip_39_word_no_space_3 | nervematchregular |  
+| bip_39_word_no_space_4 | nervematchregularcode |  
+| bip_39_word_no_space_5 | nervematchregularcodeidea |  
+| bip_39_word_no_space_6 | nervematchregularcodeideamask |  
+| bip_39_word_no_space_7 | nervematchregularcodeideamasketernal |  
+| bip_39_word_no_space_8 | nervematchregularcodeideamasketernalslide |  
+| bip_39_word_no_space_9 | nervematchregularcodeideamasketernalslideerode |  
 | bip_39_word_space_0 | ['nerve', 'match', 'regular', 'code', 'idea', 'mask', 'eternal', 'slide', 'erode', 'salt', 'need', 'almost'] |  
 | bip_39_word_space_1 | nerve |  
 | bip_39_word_space_10 | nerve match regular code idea mask eternal slide erode salt |  

@@ -122,6 +122,18 @@ fade
 giggle
 limit
 depend |  
+| bip_39_word_no_space_1 | merry |  
+| bip_39_word_no_space_10 | merrytoesteakwheatfocusfadegigglelimitdependwhere |  
+| bip_39_word_no_space_11 | merrytoesteakwheatfocusfadegigglelimitdependwherelanguage |  
+| bip_39_word_no_space_12 | merrytoesteakwheatfocusfadegigglelimitdependwherelanguageabuse |  
+| bip_39_word_no_space_2 | merrytoe |  
+| bip_39_word_no_space_3 | merrytoesteak |  
+| bip_39_word_no_space_4 | merrytoesteakwheat |  
+| bip_39_word_no_space_5 | merrytoesteakwheatfocus |  
+| bip_39_word_no_space_6 | merrytoesteakwheatfocusfade |  
+| bip_39_word_no_space_7 | merrytoesteakwheatfocusfadegiggle |  
+| bip_39_word_no_space_8 | merrytoesteakwheatfocusfadegigglelimit |  
+| bip_39_word_no_space_9 | merrytoesteakwheatfocusfadegigglelimitdepend |  
 | bip_39_word_space_0 | ['merry', 'toe', 'steak', 'wheat', 'focus', 'fade', 'giggle', 'limit', 'depend', 'where', 'language', 'abuse'] |  
 | bip_39_word_space_1 | merry |  
 | bip_39_word_space_10 | merry toe steak wheat focus fade giggle limit depend where |  

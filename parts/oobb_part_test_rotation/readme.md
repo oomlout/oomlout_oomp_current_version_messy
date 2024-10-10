@@ -122,6 +122,18 @@ peasant
 muffin
 sun
 common |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comesailleisureunablematerialpeasantmuffinsuncommonbenefit |  
+| bip_39_word_no_space_11 | comesailleisureunablematerialpeasantmuffinsuncommonbenefitancient |  
+| bip_39_word_no_space_12 | comesailleisureunablematerialpeasantmuffinsuncommonbenefitancientauto |  
+| bip_39_word_no_space_2 | comesail |  
+| bip_39_word_no_space_3 | comesailleisure |  
+| bip_39_word_no_space_4 | comesailleisureunable |  
+| bip_39_word_no_space_5 | comesailleisureunablematerial |  
+| bip_39_word_no_space_6 | comesailleisureunablematerialpeasant |  
+| bip_39_word_no_space_7 | comesailleisureunablematerialpeasantmuffin |  
+| bip_39_word_no_space_8 | comesailleisureunablematerialpeasantmuffinsun |  
+| bip_39_word_no_space_9 | comesailleisureunablematerialpeasantmuffinsuncommon |  
 | bip_39_word_space_0 | ['come', 'sail', 'leisure', 'unable', 'material', 'peasant', 'muffin', 'sun', 'common', 'benefit', 'ancient', 'auto'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come sail leisure unable material peasant muffin sun common benefit |  

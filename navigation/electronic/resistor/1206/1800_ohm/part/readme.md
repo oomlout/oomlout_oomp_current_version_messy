@@ -122,6 +122,18 @@ fabric
 cabbage
 repair
 boat |  
+| bip_39_word_no_space_1 | false |  
+| bip_39_word_no_space_10 | falseendlesssetupputthemefabriccabbagerepairboatmodify |  
+| bip_39_word_no_space_11 | falseendlesssetupputthemefabriccabbagerepairboatmodifychange |  
+| bip_39_word_no_space_12 | falseendlesssetupputthemefabriccabbagerepairboatmodifychangeafford |  
+| bip_39_word_no_space_2 | falseendless |  
+| bip_39_word_no_space_3 | falseendlesssetup |  
+| bip_39_word_no_space_4 | falseendlesssetupput |  
+| bip_39_word_no_space_5 | falseendlesssetupputtheme |  
+| bip_39_word_no_space_6 | falseendlesssetupputthemefabric |  
+| bip_39_word_no_space_7 | falseendlesssetupputthemefabriccabbage |  
+| bip_39_word_no_space_8 | falseendlesssetupputthemefabriccabbagerepair |  
+| bip_39_word_no_space_9 | falseendlesssetupputthemefabriccabbagerepairboat |  
 | bip_39_word_space_0 | ['false', 'endless', 'setup', 'put', 'theme', 'fabric', 'cabbage', 'repair', 'boat', 'modify', 'change', 'afford'] |  
 | bip_39_word_space_1 | false |  
 | bip_39_word_space_10 | false endless setup put theme fabric cabbage repair boat modify |  

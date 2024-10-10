@@ -122,6 +122,18 @@ guilt
 review
 nerve
 patient |  
+| bip_39_word_no_space_1 | flush |  
+| bip_39_word_no_space_10 | flushtideannouncereceivereduceguiltreviewnervepatientprevent |  
+| bip_39_word_no_space_11 | flushtideannouncereceivereduceguiltreviewnervepatientpreventomit |  
+| bip_39_word_no_space_12 | flushtideannouncereceivereduceguiltreviewnervepatientpreventomitalley |  
+| bip_39_word_no_space_2 | flushtide |  
+| bip_39_word_no_space_3 | flushtideannounce |  
+| bip_39_word_no_space_4 | flushtideannouncereceive |  
+| bip_39_word_no_space_5 | flushtideannouncereceivereduce |  
+| bip_39_word_no_space_6 | flushtideannouncereceivereduceguilt |  
+| bip_39_word_no_space_7 | flushtideannouncereceivereduceguiltreview |  
+| bip_39_word_no_space_8 | flushtideannouncereceivereduceguiltreviewnerve |  
+| bip_39_word_no_space_9 | flushtideannouncereceivereduceguiltreviewnervepatient |  
 | bip_39_word_space_0 | ['flush', 'tide', 'announce', 'receive', 'reduce', 'guilt', 'review', 'nerve', 'patient', 'prevent', 'omit', 'alley'] |  
 | bip_39_word_space_1 | flush |  
 | bip_39_word_space_10 | flush tide announce receive reduce guilt review nerve patient prevent |  

@@ -122,6 +122,18 @@ market
 scan
 scene
 husband |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feelbombnovelbroccolimonkeymarketscanscenehusbandart |  
+| bip_39_word_no_space_11 | feelbombnovelbroccolimonkeymarketscanscenehusbandartterm |  
+| bip_39_word_no_space_12 | feelbombnovelbroccolimonkeymarketscanscenehusbandarttermantenna |  
+| bip_39_word_no_space_2 | feelbomb |  
+| bip_39_word_no_space_3 | feelbombnovel |  
+| bip_39_word_no_space_4 | feelbombnovelbroccoli |  
+| bip_39_word_no_space_5 | feelbombnovelbroccolimonkey |  
+| bip_39_word_no_space_6 | feelbombnovelbroccolimonkeymarket |  
+| bip_39_word_no_space_7 | feelbombnovelbroccolimonkeymarketscan |  
+| bip_39_word_no_space_8 | feelbombnovelbroccolimonkeymarketscanscene |  
+| bip_39_word_no_space_9 | feelbombnovelbroccolimonkeymarketscanscenehusband |  
 | bip_39_word_space_0 | ['feel', 'bomb', 'novel', 'broccoli', 'monkey', 'market', 'scan', 'scene', 'husband', 'art', 'term', 'antenna'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel bomb novel broccoli monkey market scan scene husband art |  

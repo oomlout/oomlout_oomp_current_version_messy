@@ -122,6 +122,18 @@ menu
 warrior
 violin
 whip |  
+| bip_39_word_no_space_1 | crowd |  
+| bip_39_word_no_space_10 | crowdmisspeanutproblemcarpetmenuwarriorviolinwhipdrift |  
+| bip_39_word_no_space_11 | crowdmisspeanutproblemcarpetmenuwarriorviolinwhipdriftability |  
+| bip_39_word_no_space_12 | crowdmisspeanutproblemcarpetmenuwarriorviolinwhipdriftabilityask |  
+| bip_39_word_no_space_2 | crowdmiss |  
+| bip_39_word_no_space_3 | crowdmisspeanut |  
+| bip_39_word_no_space_4 | crowdmisspeanutproblem |  
+| bip_39_word_no_space_5 | crowdmisspeanutproblemcarpet |  
+| bip_39_word_no_space_6 | crowdmisspeanutproblemcarpetmenu |  
+| bip_39_word_no_space_7 | crowdmisspeanutproblemcarpetmenuwarrior |  
+| bip_39_word_no_space_8 | crowdmisspeanutproblemcarpetmenuwarriorviolin |  
+| bip_39_word_no_space_9 | crowdmisspeanutproblemcarpetmenuwarriorviolinwhip |  
 | bip_39_word_space_0 | ['crowd', 'miss', 'peanut', 'problem', 'carpet', 'menu', 'warrior', 'violin', 'whip', 'drift', 'ability', 'ask'] |  
 | bip_39_word_space_1 | crowd |  
 | bip_39_word_space_10 | crowd miss peanut problem carpet menu warrior violin whip drift |  

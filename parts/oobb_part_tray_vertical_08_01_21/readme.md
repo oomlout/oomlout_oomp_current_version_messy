@@ -122,6 +122,18 @@ sadness
 advice
 trap
 road |  
+| bip_39_word_no_space_1 | ghost |  
+| bip_39_word_no_space_10 | ghostfosterwifeinteresthoversadnessadvicetraproadabsurd |  
+| bip_39_word_no_space_11 | ghostfosterwifeinteresthoversadnessadvicetraproadabsurdcart |  
+| bip_39_word_no_space_12 | ghostfosterwifeinteresthoversadnessadvicetraproadabsurdcartacquire |  
+| bip_39_word_no_space_2 | ghostfoster |  
+| bip_39_word_no_space_3 | ghostfosterwife |  
+| bip_39_word_no_space_4 | ghostfosterwifeinterest |  
+| bip_39_word_no_space_5 | ghostfosterwifeinteresthover |  
+| bip_39_word_no_space_6 | ghostfosterwifeinteresthoversadness |  
+| bip_39_word_no_space_7 | ghostfosterwifeinteresthoversadnessadvice |  
+| bip_39_word_no_space_8 | ghostfosterwifeinteresthoversadnessadvicetrap |  
+| bip_39_word_no_space_9 | ghostfosterwifeinteresthoversadnessadvicetraproad |  
 | bip_39_word_space_0 | ['ghost', 'foster', 'wife', 'interest', 'hover', 'sadness', 'advice', 'trap', 'road', 'absurd', 'cart', 'acquire'] |  
 | bip_39_word_space_1 | ghost |  
 | bip_39_word_space_10 | ghost foster wife interest hover sadness advice trap road absurd |  

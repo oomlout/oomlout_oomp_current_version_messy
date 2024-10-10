@@ -122,6 +122,18 @@ coin
 all
 you
 pipe |  
+| bip_39_word_no_space_1 | caught |  
+| bip_39_word_no_space_10 | caughtorbitelseeitherloopcoinallyoupipegrape |  
+| bip_39_word_no_space_11 | caughtorbitelseeitherloopcoinallyoupipegrapebiology |  
+| bip_39_word_no_space_12 | caughtorbitelseeitherloopcoinallyoupipegrapebiologyalmost |  
+| bip_39_word_no_space_2 | caughtorbit |  
+| bip_39_word_no_space_3 | caughtorbitelse |  
+| bip_39_word_no_space_4 | caughtorbitelseeither |  
+| bip_39_word_no_space_5 | caughtorbitelseeitherloop |  
+| bip_39_word_no_space_6 | caughtorbitelseeitherloopcoin |  
+| bip_39_word_no_space_7 | caughtorbitelseeitherloopcoinall |  
+| bip_39_word_no_space_8 | caughtorbitelseeitherloopcoinallyou |  
+| bip_39_word_no_space_9 | caughtorbitelseeitherloopcoinallyoupipe |  
 | bip_39_word_space_0 | ['caught', 'orbit', 'else', 'either', 'loop', 'coin', 'all', 'you', 'pipe', 'grape', 'biology', 'almost'] |  
 | bip_39_word_space_1 | caught |  
 | bip_39_word_space_10 | caught orbit else either loop coin all you pipe grape |  

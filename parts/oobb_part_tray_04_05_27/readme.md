@@ -122,6 +122,18 @@ race
 purchase
 skill
 rocket |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalunveilfocustradedifferracepurchaseskillrocketreport |  
+| bip_39_word_no_space_11 | loyalunveilfocustradedifferracepurchaseskillrocketreportlittle |  
+| bip_39_word_no_space_12 | loyalunveilfocustradedifferracepurchaseskillrocketreportlittleancient |  
+| bip_39_word_no_space_2 | loyalunveil |  
+| bip_39_word_no_space_3 | loyalunveilfocus |  
+| bip_39_word_no_space_4 | loyalunveilfocustrade |  
+| bip_39_word_no_space_5 | loyalunveilfocustradediffer |  
+| bip_39_word_no_space_6 | loyalunveilfocustradedifferrace |  
+| bip_39_word_no_space_7 | loyalunveilfocustradedifferracepurchase |  
+| bip_39_word_no_space_8 | loyalunveilfocustradedifferracepurchaseskill |  
+| bip_39_word_no_space_9 | loyalunveilfocustradedifferracepurchaseskillrocket |  
 | bip_39_word_space_0 | ['loyal', 'unveil', 'focus', 'trade', 'differ', 'race', 'purchase', 'skill', 'rocket', 'report', 'little', 'ancient'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal unveil focus trade differ race purchase skill rocket report |  

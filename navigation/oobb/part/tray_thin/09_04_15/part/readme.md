@@ -122,6 +122,18 @@ illness
 comic
 school
 walk |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulseeyedreamshufflehurryillnesscomicschoolwalklearn |  
+| bip_39_word_no_space_11 | impulseeyedreamshufflehurryillnesscomicschoolwalklearnmatch |  
+| bip_39_word_no_space_12 | impulseeyedreamshufflehurryillnesscomicschoolwalklearnmatchapology |  
+| bip_39_word_no_space_2 | impulseeye |  
+| bip_39_word_no_space_3 | impulseeyedream |  
+| bip_39_word_no_space_4 | impulseeyedreamshuffle |  
+| bip_39_word_no_space_5 | impulseeyedreamshufflehurry |  
+| bip_39_word_no_space_6 | impulseeyedreamshufflehurryillness |  
+| bip_39_word_no_space_7 | impulseeyedreamshufflehurryillnesscomic |  
+| bip_39_word_no_space_8 | impulseeyedreamshufflehurryillnesscomicschool |  
+| bip_39_word_no_space_9 | impulseeyedreamshufflehurryillnesscomicschoolwalk |  
 | bip_39_word_space_0 | ['impulse', 'eye', 'dream', 'shuffle', 'hurry', 'illness', 'comic', 'school', 'walk', 'learn', 'match', 'apology'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse eye dream shuffle hurry illness comic school walk learn |  

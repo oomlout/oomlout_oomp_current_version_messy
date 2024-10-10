@@ -122,6 +122,18 @@ violin
 quit
 gather
 crucial |  
+| bip_39_word_no_space_1 | strike |  
+| bip_39_word_no_space_10 | strikepearunawarevalidinformviolinquitgathercrucialcorrect |  
+| bip_39_word_no_space_11 | strikepearunawarevalidinformviolinquitgathercrucialcorrectcool |  
+| bip_39_word_no_space_12 | strikepearunawarevalidinformviolinquitgathercrucialcorrectcoolattract |  
+| bip_39_word_no_space_2 | strikepear |  
+| bip_39_word_no_space_3 | strikepearunaware |  
+| bip_39_word_no_space_4 | strikepearunawarevalid |  
+| bip_39_word_no_space_5 | strikepearunawarevalidinform |  
+| bip_39_word_no_space_6 | strikepearunawarevalidinformviolin |  
+| bip_39_word_no_space_7 | strikepearunawarevalidinformviolinquit |  
+| bip_39_word_no_space_8 | strikepearunawarevalidinformviolinquitgather |  
+| bip_39_word_no_space_9 | strikepearunawarevalidinformviolinquitgathercrucial |  
 | bip_39_word_space_0 | ['strike', 'pear', 'unaware', 'valid', 'inform', 'violin', 'quit', 'gather', 'crucial', 'correct', 'cool', 'attract'] |  
 | bip_39_word_space_1 | strike |  
 | bip_39_word_space_10 | strike pear unaware valid inform violin quit gather crucial correct |  

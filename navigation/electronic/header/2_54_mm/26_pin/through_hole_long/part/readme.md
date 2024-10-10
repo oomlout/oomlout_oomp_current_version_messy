@@ -122,6 +122,18 @@ lift
 unfold
 talk
 vicious |  
+| bip_39_word_no_space_1 | rather |  
+| bip_39_word_no_space_10 | ratherrendercrampopularsixliftunfoldtalkviciousnephew |  
+| bip_39_word_no_space_11 | ratherrendercrampopularsixliftunfoldtalkviciousnephewmuch |  
+| bip_39_word_no_space_12 | ratherrendercrampopularsixliftunfoldtalkviciousnephewmuchagree |  
+| bip_39_word_no_space_2 | ratherrender |  
+| bip_39_word_no_space_3 | ratherrendercram |  
+| bip_39_word_no_space_4 | ratherrendercrampopular |  
+| bip_39_word_no_space_5 | ratherrendercrampopularsix |  
+| bip_39_word_no_space_6 | ratherrendercrampopularsixlift |  
+| bip_39_word_no_space_7 | ratherrendercrampopularsixliftunfold |  
+| bip_39_word_no_space_8 | ratherrendercrampopularsixliftunfoldtalk |  
+| bip_39_word_no_space_9 | ratherrendercrampopularsixliftunfoldtalkvicious |  
 | bip_39_word_space_0 | ['rather', 'render', 'cram', 'popular', 'six', 'lift', 'unfold', 'talk', 'vicious', 'nephew', 'much', 'agree'] |  
 | bip_39_word_space_1 | rather |  
 | bip_39_word_space_10 | rather render cram popular six lift unfold talk vicious nephew |  

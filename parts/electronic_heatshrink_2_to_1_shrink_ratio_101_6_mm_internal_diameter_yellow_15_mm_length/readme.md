@@ -122,6 +122,18 @@ level
 fork
 shell
 extra |  
+| bip_39_word_no_space_1 | army |  
+| bip_39_word_no_space_10 | armyobjectdryparentgluelevelforkshellextrafather |  
+| bip_39_word_no_space_11 | armyobjectdryparentgluelevelforkshellextrafatherjelly |  
+| bip_39_word_no_space_12 | armyobjectdryparentgluelevelforkshellextrafatherjellyarmed |  
+| bip_39_word_no_space_2 | armyobject |  
+| bip_39_word_no_space_3 | armyobjectdry |  
+| bip_39_word_no_space_4 | armyobjectdryparent |  
+| bip_39_word_no_space_5 | armyobjectdryparentglue |  
+| bip_39_word_no_space_6 | armyobjectdryparentgluelevel |  
+| bip_39_word_no_space_7 | armyobjectdryparentgluelevelfork |  
+| bip_39_word_no_space_8 | armyobjectdryparentgluelevelforkshell |  
+| bip_39_word_no_space_9 | armyobjectdryparentgluelevelforkshellextra |  
 | bip_39_word_space_0 | ['army', 'object', 'dry', 'parent', 'glue', 'level', 'fork', 'shell', 'extra', 'father', 'jelly', 'armed'] |  
 | bip_39_word_space_1 | army |  
 | bip_39_word_space_10 | army object dry parent glue level fork shell extra father |  

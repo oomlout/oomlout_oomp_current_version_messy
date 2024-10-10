@@ -122,6 +122,18 @@ symbol
 arch
 hold
 song |  
+| bip_39_word_no_space_1 | promote |  
+| bip_39_word_no_space_10 | promotetenisolatetrimmirrorsymbolarchholdsongcoin |  
+| bip_39_word_no_space_11 | promotetenisolatetrimmirrorsymbolarchholdsongcoinearly |  
+| bip_39_word_no_space_12 | promotetenisolatetrimmirrorsymbolarchholdsongcoinearlyall |  
+| bip_39_word_no_space_2 | promoteten |  
+| bip_39_word_no_space_3 | promotetenisolate |  
+| bip_39_word_no_space_4 | promotetenisolatetrim |  
+| bip_39_word_no_space_5 | promotetenisolatetrimmirror |  
+| bip_39_word_no_space_6 | promotetenisolatetrimmirrorsymbol |  
+| bip_39_word_no_space_7 | promotetenisolatetrimmirrorsymbolarch |  
+| bip_39_word_no_space_8 | promotetenisolatetrimmirrorsymbolarchhold |  
+| bip_39_word_no_space_9 | promotetenisolatetrimmirrorsymbolarchholdsong |  
 | bip_39_word_space_0 | ['promote', 'ten', 'isolate', 'trim', 'mirror', 'symbol', 'arch', 'hold', 'song', 'coin', 'early', 'all'] |  
 | bip_39_word_space_1 | promote |  
 | bip_39_word_space_10 | promote ten isolate trim mirror symbol arch hold song coin |  

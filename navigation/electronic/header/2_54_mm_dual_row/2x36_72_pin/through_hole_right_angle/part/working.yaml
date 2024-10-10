@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'speed
   sunset
 
   wire'
+bip_39_word_no_space_1: speed
+bip_39_word_no_space_10: speedgaspdutchpupilvanhistorypuzzlesunsetwireawful
+bip_39_word_no_space_11: speedgaspdutchpupilvanhistorypuzzlesunsetwireawfultrash
+bip_39_word_no_space_12: speedgaspdutchpupilvanhistorypuzzlesunsetwireawfultrashallow
+bip_39_word_no_space_2: speedgasp
+bip_39_word_no_space_3: speedgaspdutch
+bip_39_word_no_space_4: speedgaspdutchpupil
+bip_39_word_no_space_5: speedgaspdutchpupilvan
+bip_39_word_no_space_6: speedgaspdutchpupilvanhistory
+bip_39_word_no_space_7: speedgaspdutchpupilvanhistorypuzzle
+bip_39_word_no_space_8: speedgaspdutchpupilvanhistorypuzzlesunset
+bip_39_word_no_space_9: speedgaspdutchpupilvanhistorypuzzlesunsetwire
 bip_39_word_space_0:
 - speed
 - gasp

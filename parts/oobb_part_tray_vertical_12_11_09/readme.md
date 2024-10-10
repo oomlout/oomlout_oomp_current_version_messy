@@ -122,6 +122,18 @@ engine
 width
 absurd
 swamp |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shiphusbandresponsequestionspeedenginewidthabsurdswampamong |  
+| bip_39_word_no_space_11 | shiphusbandresponsequestionspeedenginewidthabsurdswampamongfoot |  
+| bip_39_word_no_space_12 | shiphusbandresponsequestionspeedenginewidthabsurdswampamongfootaccuse |  
+| bip_39_word_no_space_2 | shiphusband |  
+| bip_39_word_no_space_3 | shiphusbandresponse |  
+| bip_39_word_no_space_4 | shiphusbandresponsequestion |  
+| bip_39_word_no_space_5 | shiphusbandresponsequestionspeed |  
+| bip_39_word_no_space_6 | shiphusbandresponsequestionspeedengine |  
+| bip_39_word_no_space_7 | shiphusbandresponsequestionspeedenginewidth |  
+| bip_39_word_no_space_8 | shiphusbandresponsequestionspeedenginewidthabsurd |  
+| bip_39_word_no_space_9 | shiphusbandresponsequestionspeedenginewidthabsurdswamp |  
 | bip_39_word_space_0 | ['ship', 'husband', 'response', 'question', 'speed', 'engine', 'width', 'absurd', 'swamp', 'among', 'foot', 'accuse'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship husband response question speed engine width absurd swamp among |  

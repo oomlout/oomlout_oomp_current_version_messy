@@ -122,6 +122,18 @@ invite
 fix
 chaos
 drink |  
+| bip_39_word_no_space_1 | purity |  
+| bip_39_word_no_space_10 | purityrackelbowfibercycleinvitefixchaosdrinkfeed |  
+| bip_39_word_no_space_11 | purityrackelbowfibercycleinvitefixchaosdrinkfeedonion |  
+| bip_39_word_no_space_12 | purityrackelbowfibercycleinvitefixchaosdrinkfeedonionanxiety |  
+| bip_39_word_no_space_2 | purityrack |  
+| bip_39_word_no_space_3 | purityrackelbow |  
+| bip_39_word_no_space_4 | purityrackelbowfiber |  
+| bip_39_word_no_space_5 | purityrackelbowfibercycle |  
+| bip_39_word_no_space_6 | purityrackelbowfibercycleinvite |  
+| bip_39_word_no_space_7 | purityrackelbowfibercycleinvitefix |  
+| bip_39_word_no_space_8 | purityrackelbowfibercycleinvitefixchaos |  
+| bip_39_word_no_space_9 | purityrackelbowfibercycleinvitefixchaosdrink |  
 | bip_39_word_space_0 | ['purity', 'rack', 'elbow', 'fiber', 'cycle', 'invite', 'fix', 'chaos', 'drink', 'feed', 'onion', 'anxiety'] |  
 | bip_39_word_space_1 | purity |  
 | bip_39_word_space_10 | purity rack elbow fiber cycle invite fix chaos drink feed |  

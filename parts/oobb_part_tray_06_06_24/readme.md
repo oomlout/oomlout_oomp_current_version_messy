@@ -122,6 +122,18 @@ way
 noble
 merry
 cousin |  
+| bip_39_word_no_space_1 | verify |  
+| bip_39_word_no_space_10 | verifyheadtiltaskcookwaynoblemerrycousinrookie |  
+| bip_39_word_no_space_11 | verifyheadtiltaskcookwaynoblemerrycousinrookiesubmit |  
+| bip_39_word_no_space_12 | verifyheadtiltaskcookwaynoblemerrycousinrookiesubmitapril |  
+| bip_39_word_no_space_2 | verifyhead |  
+| bip_39_word_no_space_3 | verifyheadtilt |  
+| bip_39_word_no_space_4 | verifyheadtiltask |  
+| bip_39_word_no_space_5 | verifyheadtiltaskcook |  
+| bip_39_word_no_space_6 | verifyheadtiltaskcookway |  
+| bip_39_word_no_space_7 | verifyheadtiltaskcookwaynoble |  
+| bip_39_word_no_space_8 | verifyheadtiltaskcookwaynoblemerry |  
+| bip_39_word_no_space_9 | verifyheadtiltaskcookwaynoblemerrycousin |  
 | bip_39_word_space_0 | ['verify', 'head', 'tilt', 'ask', 'cook', 'way', 'noble', 'merry', 'cousin', 'rookie', 'submit', 'april'] |  
 | bip_39_word_space_1 | verify |  
 | bip_39_word_space_10 | verify head tilt ask cook way noble merry cousin rookie |  

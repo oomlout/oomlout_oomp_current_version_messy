@@ -122,6 +122,18 @@ junior
 spring
 response
 able |  
+| bip_39_word_no_space_1 | bubble |  
+| bip_39_word_no_space_10 | bubbleglasslaughjudgepicnicjuniorspringresponseablediamond |  
+| bip_39_word_no_space_11 | bubbleglasslaughjudgepicnicjuniorspringresponseablediamondstumble |  
+| bip_39_word_no_space_12 | bubbleglasslaughjudgepicnicjuniorspringresponseablediamondstumbleauthor |  
+| bip_39_word_no_space_2 | bubbleglass |  
+| bip_39_word_no_space_3 | bubbleglasslaugh |  
+| bip_39_word_no_space_4 | bubbleglasslaughjudge |  
+| bip_39_word_no_space_5 | bubbleglasslaughjudgepicnic |  
+| bip_39_word_no_space_6 | bubbleglasslaughjudgepicnicjunior |  
+| bip_39_word_no_space_7 | bubbleglasslaughjudgepicnicjuniorspring |  
+| bip_39_word_no_space_8 | bubbleglasslaughjudgepicnicjuniorspringresponse |  
+| bip_39_word_no_space_9 | bubbleglasslaughjudgepicnicjuniorspringresponseable |  
 | bip_39_word_space_0 | ['bubble', 'glass', 'laugh', 'judge', 'picnic', 'junior', 'spring', 'response', 'able', 'diamond', 'stumble', 'author'] |  
 | bip_39_word_space_1 | bubble |  
 | bip_39_word_space_10 | bubble glass laugh judge picnic junior spring response able diamond |  

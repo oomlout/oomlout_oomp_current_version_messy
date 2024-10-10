@@ -122,6 +122,18 @@ pass
 title
 october
 second |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepcoolswarmagainbundlepasstitleoctobersecondfluid |  
+| bip_39_word_no_space_11 | sleepcoolswarmagainbundlepasstitleoctobersecondfluidoffice |  
+| bip_39_word_no_space_12 | sleepcoolswarmagainbundlepasstitleoctobersecondfluidofficearound |  
+| bip_39_word_no_space_2 | sleepcool |  
+| bip_39_word_no_space_3 | sleepcoolswarm |  
+| bip_39_word_no_space_4 | sleepcoolswarmagain |  
+| bip_39_word_no_space_5 | sleepcoolswarmagainbundle |  
+| bip_39_word_no_space_6 | sleepcoolswarmagainbundlepass |  
+| bip_39_word_no_space_7 | sleepcoolswarmagainbundlepasstitle |  
+| bip_39_word_no_space_8 | sleepcoolswarmagainbundlepasstitleoctober |  
+| bip_39_word_no_space_9 | sleepcoolswarmagainbundlepasstitleoctobersecond |  
 | bip_39_word_space_0 | ['sleep', 'cool', 'swarm', 'again', 'bundle', 'pass', 'title', 'october', 'second', 'fluid', 'office', 'around'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep cool swarm again bundle pass title october second fluid |  

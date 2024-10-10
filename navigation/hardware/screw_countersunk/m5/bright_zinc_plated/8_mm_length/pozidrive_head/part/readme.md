@@ -122,6 +122,18 @@ crack
 craft
 outside
 offer |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposecrystalprisonsodadamagecrackcraftoutsideofferdizzy |  
+| bip_39_word_no_space_11 | opposecrystalprisonsodadamagecrackcraftoutsideofferdizzycradle |  
+| bip_39_word_no_space_12 | opposecrystalprisonsodadamagecrackcraftoutsideofferdizzycradleartefact |  
+| bip_39_word_no_space_2 | opposecrystal |  
+| bip_39_word_no_space_3 | opposecrystalprison |  
+| bip_39_word_no_space_4 | opposecrystalprisonsoda |  
+| bip_39_word_no_space_5 | opposecrystalprisonsodadamage |  
+| bip_39_word_no_space_6 | opposecrystalprisonsodadamagecrack |  
+| bip_39_word_no_space_7 | opposecrystalprisonsodadamagecrackcraft |  
+| bip_39_word_no_space_8 | opposecrystalprisonsodadamagecrackcraftoutside |  
+| bip_39_word_no_space_9 | opposecrystalprisonsodadamagecrackcraftoutsideoffer |  
 | bip_39_word_space_0 | ['oppose', 'crystal', 'prison', 'soda', 'damage', 'crack', 'craft', 'outside', 'offer', 'dizzy', 'cradle', 'artefact'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose crystal prison soda damage crack craft outside offer dizzy |  

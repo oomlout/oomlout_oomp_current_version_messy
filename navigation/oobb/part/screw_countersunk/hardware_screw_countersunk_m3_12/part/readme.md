@@ -122,6 +122,18 @@ subway
 twelve
 toward
 runway |  
+| bip_39_word_no_space_1 | neglect |  
+| bip_39_word_no_space_10 | neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricket |  
+| bip_39_word_no_space_11 | neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricketremind |  
+| bip_39_word_no_space_12 | neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricketremindamong |  
+| bip_39_word_no_space_2 | neglectlibrary |  
+| bip_39_word_no_space_3 | neglectlibraryburden |  
+| bip_39_word_no_space_4 | neglectlibraryburdenturkey |  
+| bip_39_word_no_space_5 | neglectlibraryburdenturkeygold |  
+| bip_39_word_no_space_6 | neglectlibraryburdenturkeygoldsubway |  
+| bip_39_word_no_space_7 | neglectlibraryburdenturkeygoldsubwaytwelve |  
+| bip_39_word_no_space_8 | neglectlibraryburdenturkeygoldsubwaytwelvetoward |  
+| bip_39_word_no_space_9 | neglectlibraryburdenturkeygoldsubwaytwelvetowardrunway |  
 | bip_39_word_space_0 | ['neglect', 'library', 'burden', 'turkey', 'gold', 'subway', 'twelve', 'toward', 'runway', 'cricket', 'remind', 'among'] |  
 | bip_39_word_space_1 | neglect |  
 | bip_39_word_space_10 | neglect library burden turkey gold subway twelve toward runway cricket |  

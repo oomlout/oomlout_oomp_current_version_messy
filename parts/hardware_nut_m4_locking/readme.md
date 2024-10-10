@@ -122,6 +122,18 @@ student
 elbow
 sausage
 human |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employmistakejoinforwardloungestudentelbowsausagehumanpipe |  
+| bip_39_word_no_space_11 | employmistakejoinforwardloungestudentelbowsausagehumanpipemonster |  
+| bip_39_word_no_space_12 | employmistakejoinforwardloungestudentelbowsausagehumanpipemonsteradvance |  
+| bip_39_word_no_space_2 | employmistake |  
+| bip_39_word_no_space_3 | employmistakejoin |  
+| bip_39_word_no_space_4 | employmistakejoinforward |  
+| bip_39_word_no_space_5 | employmistakejoinforwardlounge |  
+| bip_39_word_no_space_6 | employmistakejoinforwardloungestudent |  
+| bip_39_word_no_space_7 | employmistakejoinforwardloungestudentelbow |  
+| bip_39_word_no_space_8 | employmistakejoinforwardloungestudentelbowsausage |  
+| bip_39_word_no_space_9 | employmistakejoinforwardloungestudentelbowsausagehuman |  
 | bip_39_word_space_0 | ['employ', 'mistake', 'join', 'forward', 'lounge', 'student', 'elbow', 'sausage', 'human', 'pipe', 'monster', 'advance'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ mistake join forward lounge student elbow sausage human pipe |  

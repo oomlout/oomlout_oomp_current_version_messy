@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'input
   capital
 
   churn'
+bip_39_word_no_space_1: input
+bip_39_word_no_space_10: inputfrogshoppropertyusedeclinefitcapitalchurnjunior
+bip_39_word_no_space_11: inputfrogshoppropertyusedeclinefitcapitalchurnjuniorvote
+bip_39_word_no_space_12: inputfrogshoppropertyusedeclinefitcapitalchurnjuniorvoteargue
+bip_39_word_no_space_2: inputfrog
+bip_39_word_no_space_3: inputfrogshop
+bip_39_word_no_space_4: inputfrogshopproperty
+bip_39_word_no_space_5: inputfrogshoppropertyuse
+bip_39_word_no_space_6: inputfrogshoppropertyusedecline
+bip_39_word_no_space_7: inputfrogshoppropertyusedeclinefit
+bip_39_word_no_space_8: inputfrogshoppropertyusedeclinefitcapital
+bip_39_word_no_space_9: inputfrogshoppropertyusedeclinefitcapitalchurn
 bip_39_word_space_0:
 - input
 - frog

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'helmet
   entire
 
   day'
+bip_39_word_no_space_1: helmet
+bip_39_word_no_space_10: helmetphonerelyarmedrighttacklecarpetentiredayfatigue
+bip_39_word_no_space_11: helmetphonerelyarmedrighttacklecarpetentiredayfatiguepave
+bip_39_word_no_space_12: helmetphonerelyarmedrighttacklecarpetentiredayfatiguepaveafraid
+bip_39_word_no_space_2: helmetphone
+bip_39_word_no_space_3: helmetphonerely
+bip_39_word_no_space_4: helmetphonerelyarmed
+bip_39_word_no_space_5: helmetphonerelyarmedright
+bip_39_word_no_space_6: helmetphonerelyarmedrighttackle
+bip_39_word_no_space_7: helmetphonerelyarmedrighttacklecarpet
+bip_39_word_no_space_8: helmetphonerelyarmedrighttacklecarpetentire
+bip_39_word_no_space_9: helmetphonerelyarmedrighttacklecarpetentireday
 bip_39_word_space_0:
 - helmet
 - phone

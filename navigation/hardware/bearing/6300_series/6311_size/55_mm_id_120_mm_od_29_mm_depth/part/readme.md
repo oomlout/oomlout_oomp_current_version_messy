@@ -122,6 +122,18 @@ spike
 goose
 speak
 annual |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppysuperphoneculturetaskspikegoosespeakannualtide |  
+| bip_39_word_no_space_11 | puppysuperphoneculturetaskspikegoosespeakannualtidesmall |  
+| bip_39_word_no_space_12 | puppysuperphoneculturetaskspikegoosespeakannualtidesmallaround |  
+| bip_39_word_no_space_2 | puppysuper |  
+| bip_39_word_no_space_3 | puppysuperphone |  
+| bip_39_word_no_space_4 | puppysuperphoneculture |  
+| bip_39_word_no_space_5 | puppysuperphoneculturetask |  
+| bip_39_word_no_space_6 | puppysuperphoneculturetaskspike |  
+| bip_39_word_no_space_7 | puppysuperphoneculturetaskspikegoose |  
+| bip_39_word_no_space_8 | puppysuperphoneculturetaskspikegoosespeak |  
+| bip_39_word_no_space_9 | puppysuperphoneculturetaskspikegoosespeakannual |  
 | bip_39_word_space_0 | ['puppy', 'super', 'phone', 'culture', 'task', 'spike', 'goose', 'speak', 'annual', 'tide', 'small', 'around'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy super phone culture task spike goose speak annual tide |  

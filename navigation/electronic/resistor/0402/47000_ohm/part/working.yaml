@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'field
   dentist
 
   chase'
+bip_39_word_no_space_1: field
+bip_39_word_no_space_10: fieldribinterestsightduringmeshseriesdentistchasebronze
+bip_39_word_no_space_11: fieldribinterestsightduringmeshseriesdentistchasebronzechair
+bip_39_word_no_space_12: fieldribinterestsightduringmeshseriesdentistchasebronzechairattitude
+bip_39_word_no_space_2: fieldrib
+bip_39_word_no_space_3: fieldribinterest
+bip_39_word_no_space_4: fieldribinterestsight
+bip_39_word_no_space_5: fieldribinterestsightduring
+bip_39_word_no_space_6: fieldribinterestsightduringmesh
+bip_39_word_no_space_7: fieldribinterestsightduringmeshseries
+bip_39_word_no_space_8: fieldribinterestsightduringmeshseriesdentist
+bip_39_word_no_space_9: fieldribinterestsightduringmeshseriesdentistchase
 bip_39_word_space_0:
 - field
 - rib

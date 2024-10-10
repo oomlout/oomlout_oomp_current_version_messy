@@ -122,6 +122,18 @@ hat
 mercy
 shallow
 allow |  
+| bip_39_word_no_space_1 | kite |  
+| bip_39_word_no_space_10 | kitetornadoorphananotherstadiumhatmercyshallowallowalpha |  
+| bip_39_word_no_space_11 | kitetornadoorphananotherstadiumhatmercyshallowallowalphasuffer |  
+| bip_39_word_no_space_12 | kitetornadoorphananotherstadiumhatmercyshallowallowalphasufferattend |  
+| bip_39_word_no_space_2 | kitetornado |  
+| bip_39_word_no_space_3 | kitetornadoorphan |  
+| bip_39_word_no_space_4 | kitetornadoorphananother |  
+| bip_39_word_no_space_5 | kitetornadoorphananotherstadium |  
+| bip_39_word_no_space_6 | kitetornadoorphananotherstadiumhat |  
+| bip_39_word_no_space_7 | kitetornadoorphananotherstadiumhatmercy |  
+| bip_39_word_no_space_8 | kitetornadoorphananotherstadiumhatmercyshallow |  
+| bip_39_word_no_space_9 | kitetornadoorphananotherstadiumhatmercyshallowallow |  
 | bip_39_word_space_0 | ['kite', 'tornado', 'orphan', 'another', 'stadium', 'hat', 'mercy', 'shallow', 'allow', 'alpha', 'suffer', 'attend'] |  
 | bip_39_word_space_1 | kite |  
 | bip_39_word_space_10 | kite tornado orphan another stadium hat mercy shallow allow alpha |  

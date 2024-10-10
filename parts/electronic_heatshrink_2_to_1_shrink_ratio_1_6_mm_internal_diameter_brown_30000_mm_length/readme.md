@@ -122,6 +122,18 @@ depend
 good
 whip
 leader |  
+| bip_39_word_no_space_1 | inject |  
+| bip_39_word_no_space_10 | injectwiseadjustreleasearrowdependgoodwhipleaderboy |  
+| bip_39_word_no_space_11 | injectwiseadjustreleasearrowdependgoodwhipleaderboyalarm |  
+| bip_39_word_no_space_12 | injectwiseadjustreleasearrowdependgoodwhipleaderboyalarmallow |  
+| bip_39_word_no_space_2 | injectwise |  
+| bip_39_word_no_space_3 | injectwiseadjust |  
+| bip_39_word_no_space_4 | injectwiseadjustrelease |  
+| bip_39_word_no_space_5 | injectwiseadjustreleasearrow |  
+| bip_39_word_no_space_6 | injectwiseadjustreleasearrowdepend |  
+| bip_39_word_no_space_7 | injectwiseadjustreleasearrowdependgood |  
+| bip_39_word_no_space_8 | injectwiseadjustreleasearrowdependgoodwhip |  
+| bip_39_word_no_space_9 | injectwiseadjustreleasearrowdependgoodwhipleader |  
 | bip_39_word_space_0 | ['inject', 'wise', 'adjust', 'release', 'arrow', 'depend', 'good', 'whip', 'leader', 'boy', 'alarm', 'allow'] |  
 | bip_39_word_space_1 | inject |  
 | bip_39_word_space_10 | inject wise adjust release arrow depend good whip leader boy |  

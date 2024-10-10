@@ -122,6 +122,18 @@ design
 nature
 congress
 parade |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipdonorhamstergatherdropdesignnaturecongressparadeoxygen |  
+| bip_39_word_no_space_11 | shipdonorhamstergatherdropdesignnaturecongressparadeoxygenanalyst |  
+| bip_39_word_no_space_12 | shipdonorhamstergatherdropdesignnaturecongressparadeoxygenanalystaspect |  
+| bip_39_word_no_space_2 | shipdonor |  
+| bip_39_word_no_space_3 | shipdonorhamster |  
+| bip_39_word_no_space_4 | shipdonorhamstergather |  
+| bip_39_word_no_space_5 | shipdonorhamstergatherdrop |  
+| bip_39_word_no_space_6 | shipdonorhamstergatherdropdesign |  
+| bip_39_word_no_space_7 | shipdonorhamstergatherdropdesignnature |  
+| bip_39_word_no_space_8 | shipdonorhamstergatherdropdesignnaturecongress |  
+| bip_39_word_no_space_9 | shipdonorhamstergatherdropdesignnaturecongressparade |  
 | bip_39_word_space_0 | ['ship', 'donor', 'hamster', 'gather', 'drop', 'design', 'nature', 'congress', 'parade', 'oxygen', 'analyst', 'aspect'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship donor hamster gather drop design nature congress parade oxygen |  

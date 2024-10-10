@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'enough
   pizza
 
   hen'
+bip_39_word_no_space_1: enough
+bip_39_word_no_space_10: enoughturnstingnoblerallyspiritbriefpizzahenghost
+bip_39_word_no_space_11: enoughturnstingnoblerallyspiritbriefpizzahenghostunlock
+bip_39_word_no_space_12: enoughturnstingnoblerallyspiritbriefpizzahenghostunlockalways
+bip_39_word_no_space_2: enoughturn
+bip_39_word_no_space_3: enoughturnsting
+bip_39_word_no_space_4: enoughturnstingnoble
+bip_39_word_no_space_5: enoughturnstingnoblerally
+bip_39_word_no_space_6: enoughturnstingnoblerallyspirit
+bip_39_word_no_space_7: enoughturnstingnoblerallyspiritbrief
+bip_39_word_no_space_8: enoughturnstingnoblerallyspiritbriefpizza
+bip_39_word_no_space_9: enoughturnstingnoblerallyspiritbriefpizzahen
 bip_39_word_space_0:
 - enough
 - turn

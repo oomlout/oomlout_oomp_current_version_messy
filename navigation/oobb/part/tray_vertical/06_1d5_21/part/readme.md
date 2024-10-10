@@ -122,6 +122,18 @@ tongue
 ignore
 knee
 advance |  
+| bip_39_word_no_space_1 | drastic |  
+| bip_39_word_no_space_10 | drasticpositionpausearmedfalltongueignorekneeadvancewant |  
+| bip_39_word_no_space_11 | drasticpositionpausearmedfalltongueignorekneeadvancewanteight |  
+| bip_39_word_no_space_12 | drasticpositionpausearmedfalltongueignorekneeadvancewanteightassist |  
+| bip_39_word_no_space_2 | drasticposition |  
+| bip_39_word_no_space_3 | drasticpositionpause |  
+| bip_39_word_no_space_4 | drasticpositionpausearmed |  
+| bip_39_word_no_space_5 | drasticpositionpausearmedfall |  
+| bip_39_word_no_space_6 | drasticpositionpausearmedfalltongue |  
+| bip_39_word_no_space_7 | drasticpositionpausearmedfalltongueignore |  
+| bip_39_word_no_space_8 | drasticpositionpausearmedfalltongueignoreknee |  
+| bip_39_word_no_space_9 | drasticpositionpausearmedfalltongueignorekneeadvance |  
 | bip_39_word_space_0 | ['drastic', 'position', 'pause', 'armed', 'fall', 'tongue', 'ignore', 'knee', 'advance', 'want', 'eight', 'assist'] |  
 | bip_39_word_space_1 | drastic |  
 | bip_39_word_space_10 | drastic position pause armed fall tongue ignore knee advance want |  

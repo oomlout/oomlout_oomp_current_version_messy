@@ -122,6 +122,18 @@ minor
 era
 kangaroo
 tower |  
+| bip_39_word_no_space_1 | festival |  
+| bip_39_word_no_space_10 | festivalerasemapleliquidsprayminorerakangarootowerend |  
+| bip_39_word_no_space_11 | festivalerasemapleliquidsprayminorerakangarootowerendhire |  
+| bip_39_word_no_space_12 | festivalerasemapleliquidsprayminorerakangarootowerendhirealter |  
+| bip_39_word_no_space_2 | festivalerase |  
+| bip_39_word_no_space_3 | festivalerasemaple |  
+| bip_39_word_no_space_4 | festivalerasemapleliquid |  
+| bip_39_word_no_space_5 | festivalerasemapleliquidspray |  
+| bip_39_word_no_space_6 | festivalerasemapleliquidsprayminor |  
+| bip_39_word_no_space_7 | festivalerasemapleliquidsprayminorera |  
+| bip_39_word_no_space_8 | festivalerasemapleliquidsprayminorerakangaroo |  
+| bip_39_word_no_space_9 | festivalerasemapleliquidsprayminorerakangarootower |  
 | bip_39_word_space_0 | ['festival', 'erase', 'maple', 'liquid', 'spray', 'minor', 'era', 'kangaroo', 'tower', 'end', 'hire', 'alter'] |  
 | bip_39_word_space_1 | festival |  
 | bip_39_word_space_10 | festival erase maple liquid spray minor era kangaroo tower end |  

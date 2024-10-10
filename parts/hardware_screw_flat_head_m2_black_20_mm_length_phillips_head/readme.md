@@ -122,6 +122,18 @@ rival
 one
 human
 during |  
+| bip_39_word_no_space_1 | galaxy |  
+| bip_39_word_no_space_10 | galaxythemepathkidneyalleyrivalonehumanduringalley |  
+| bip_39_word_no_space_11 | galaxythemepathkidneyalleyrivalonehumanduringalleyglance |  
+| bip_39_word_no_space_12 | galaxythemepathkidneyalleyrivalonehumanduringalleyglanceassist |  
+| bip_39_word_no_space_2 | galaxytheme |  
+| bip_39_word_no_space_3 | galaxythemepath |  
+| bip_39_word_no_space_4 | galaxythemepathkidney |  
+| bip_39_word_no_space_5 | galaxythemepathkidneyalley |  
+| bip_39_word_no_space_6 | galaxythemepathkidneyalleyrival |  
+| bip_39_word_no_space_7 | galaxythemepathkidneyalleyrivalone |  
+| bip_39_word_no_space_8 | galaxythemepathkidneyalleyrivalonehuman |  
+| bip_39_word_no_space_9 | galaxythemepathkidneyalleyrivalonehumanduring |  
 | bip_39_word_space_0 | ['galaxy', 'theme', 'path', 'kidney', 'alley', 'rival', 'one', 'human', 'during', 'alley', 'glance', 'assist'] |  
 | bip_39_word_space_1 | galaxy |  
 | bip_39_word_space_10 | galaxy theme path kidney alley rival one human during alley |  

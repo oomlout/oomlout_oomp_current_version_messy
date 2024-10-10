@@ -122,6 +122,18 @@ pupil
 brother
 tent
 gather |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizentopawaretrumpetboxpupilbrothertentgatherforest |  
+| bip_39_word_no_space_11 | citizentopawaretrumpetboxpupilbrothertentgatherforestduring |  
+| bip_39_word_no_space_12 | citizentopawaretrumpetboxpupilbrothertentgatherforestduringacross |  
+| bip_39_word_no_space_2 | citizentop |  
+| bip_39_word_no_space_3 | citizentopaware |  
+| bip_39_word_no_space_4 | citizentopawaretrumpet |  
+| bip_39_word_no_space_5 | citizentopawaretrumpetbox |  
+| bip_39_word_no_space_6 | citizentopawaretrumpetboxpupil |  
+| bip_39_word_no_space_7 | citizentopawaretrumpetboxpupilbrother |  
+| bip_39_word_no_space_8 | citizentopawaretrumpetboxpupilbrothertent |  
+| bip_39_word_no_space_9 | citizentopawaretrumpetboxpupilbrothertentgather |  
 | bip_39_word_space_0 | ['citizen', 'top', 'aware', 'trumpet', 'box', 'pupil', 'brother', 'tent', 'gather', 'forest', 'during', 'across'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen top aware trumpet box pupil brother tent gather forest |  

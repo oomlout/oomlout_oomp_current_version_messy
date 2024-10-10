@@ -122,6 +122,18 @@ crucial
 flag
 web
 wise |  
+| bip_39_word_no_space_1 | fox |  
+| bip_39_word_no_space_10 | foxhighhusbandclumpsubwaycrucialflagwebwiseobtain |  
+| bip_39_word_no_space_11 | foxhighhusbandclumpsubwaycrucialflagwebwiseobtainuniform |  
+| bip_39_word_no_space_12 | foxhighhusbandclumpsubwaycrucialflagwebwiseobtainuniformarmor |  
+| bip_39_word_no_space_2 | foxhigh |  
+| bip_39_word_no_space_3 | foxhighhusband |  
+| bip_39_word_no_space_4 | foxhighhusbandclump |  
+| bip_39_word_no_space_5 | foxhighhusbandclumpsubway |  
+| bip_39_word_no_space_6 | foxhighhusbandclumpsubwaycrucial |  
+| bip_39_word_no_space_7 | foxhighhusbandclumpsubwaycrucialflag |  
+| bip_39_word_no_space_8 | foxhighhusbandclumpsubwaycrucialflagweb |  
+| bip_39_word_no_space_9 | foxhighhusbandclumpsubwaycrucialflagwebwise |  
 | bip_39_word_space_0 | ['fox', 'high', 'husband', 'clump', 'subway', 'crucial', 'flag', 'web', 'wise', 'obtain', 'uniform', 'armor'] |  
 | bip_39_word_space_1 | fox |  
 | bip_39_word_space_10 | fox high husband clump subway crucial flag web wise obtain |  

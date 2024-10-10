@@ -122,6 +122,18 @@ mistake
 swap
 upset
 exile |  
+| bip_39_word_no_space_1 | street |  
+| bip_39_word_no_space_10 | streetpanelcoffeerugemploymistakeswapupsetexiledraw |  
+| bip_39_word_no_space_11 | streetpanelcoffeerugemploymistakeswapupsetexiledrawmother |  
+| bip_39_word_no_space_12 | streetpanelcoffeerugemploymistakeswapupsetexiledrawmotheralley |  
+| bip_39_word_no_space_2 | streetpanel |  
+| bip_39_word_no_space_3 | streetpanelcoffee |  
+| bip_39_word_no_space_4 | streetpanelcoffeerug |  
+| bip_39_word_no_space_5 | streetpanelcoffeerugemploy |  
+| bip_39_word_no_space_6 | streetpanelcoffeerugemploymistake |  
+| bip_39_word_no_space_7 | streetpanelcoffeerugemploymistakeswap |  
+| bip_39_word_no_space_8 | streetpanelcoffeerugemploymistakeswapupset |  
+| bip_39_word_no_space_9 | streetpanelcoffeerugemploymistakeswapupsetexile |  
 | bip_39_word_space_0 | ['street', 'panel', 'coffee', 'rug', 'employ', 'mistake', 'swap', 'upset', 'exile', 'draw', 'mother', 'alley'] |  
 | bip_39_word_space_1 | street |  
 | bip_39_word_space_10 | street panel coffee rug employ mistake swap upset exile draw |  

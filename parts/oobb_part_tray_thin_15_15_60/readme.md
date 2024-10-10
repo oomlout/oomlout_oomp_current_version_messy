@@ -122,6 +122,18 @@ orient
 assist
 unlock
 fee |  
+| bip_39_word_no_space_1 | path |  
+| bip_39_word_no_space_10 | pathlessonrecordgoodrobustorientassistunlockfeegood |  
+| bip_39_word_no_space_11 | pathlessonrecordgoodrobustorientassistunlockfeegoodmemory |  
+| bip_39_word_no_space_12 | pathlessonrecordgoodrobustorientassistunlockfeegoodmemoryaspect |  
+| bip_39_word_no_space_2 | pathlesson |  
+| bip_39_word_no_space_3 | pathlessonrecord |  
+| bip_39_word_no_space_4 | pathlessonrecordgood |  
+| bip_39_word_no_space_5 | pathlessonrecordgoodrobust |  
+| bip_39_word_no_space_6 | pathlessonrecordgoodrobustorient |  
+| bip_39_word_no_space_7 | pathlessonrecordgoodrobustorientassist |  
+| bip_39_word_no_space_8 | pathlessonrecordgoodrobustorientassistunlock |  
+| bip_39_word_no_space_9 | pathlessonrecordgoodrobustorientassistunlockfee |  
 | bip_39_word_space_0 | ['path', 'lesson', 'record', 'good', 'robust', 'orient', 'assist', 'unlock', 'fee', 'good', 'memory', 'aspect'] |  
 | bip_39_word_space_1 | path |  
 | bip_39_word_space_10 | path lesson record good robust orient assist unlock fee good |  

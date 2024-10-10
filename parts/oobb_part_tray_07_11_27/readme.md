@@ -122,6 +122,18 @@ funny
 trap
 stuff
 razor |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilesaltspotsadclickfunnytrapstuffrazoraerobic |  
+| bip_39_word_no_space_11 | mobilesaltspotsadclickfunnytrapstuffrazoraerobicexplain |  
+| bip_39_word_no_space_12 | mobilesaltspotsadclickfunnytrapstuffrazoraerobicexplainalter |  
+| bip_39_word_no_space_2 | mobilesalt |  
+| bip_39_word_no_space_3 | mobilesaltspot |  
+| bip_39_word_no_space_4 | mobilesaltspotsad |  
+| bip_39_word_no_space_5 | mobilesaltspotsadclick |  
+| bip_39_word_no_space_6 | mobilesaltspotsadclickfunny |  
+| bip_39_word_no_space_7 | mobilesaltspotsadclickfunnytrap |  
+| bip_39_word_no_space_8 | mobilesaltspotsadclickfunnytrapstuff |  
+| bip_39_word_no_space_9 | mobilesaltspotsadclickfunnytrapstuffrazor |  
 | bip_39_word_space_0 | ['mobile', 'salt', 'spot', 'sad', 'click', 'funny', 'trap', 'stuff', 'razor', 'aerobic', 'explain', 'alter'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile salt spot sad click funny trap stuff razor aerobic |  

@@ -122,6 +122,18 @@ abstract
 uniform
 capital
 spatial |  
+| bip_39_word_no_space_1 | diamond |  
+| bip_39_word_no_space_10 | diamondsufferdonorzebrabuyerabstractuniformcapitalspatialbubble |  
+| bip_39_word_no_space_11 | diamondsufferdonorzebrabuyerabstractuniformcapitalspatialbubblefound |  
+| bip_39_word_no_space_12 | diamondsufferdonorzebrabuyerabstractuniformcapitalspatialbubblefoundair |  
+| bip_39_word_no_space_2 | diamondsuffer |  
+| bip_39_word_no_space_3 | diamondsufferdonor |  
+| bip_39_word_no_space_4 | diamondsufferdonorzebra |  
+| bip_39_word_no_space_5 | diamondsufferdonorzebrabuyer |  
+| bip_39_word_no_space_6 | diamondsufferdonorzebrabuyerabstract |  
+| bip_39_word_no_space_7 | diamondsufferdonorzebrabuyerabstractuniform |  
+| bip_39_word_no_space_8 | diamondsufferdonorzebrabuyerabstractuniformcapital |  
+| bip_39_word_no_space_9 | diamondsufferdonorzebrabuyerabstractuniformcapitalspatial |  
 | bip_39_word_space_0 | ['diamond', 'suffer', 'donor', 'zebra', 'buyer', 'abstract', 'uniform', 'capital', 'spatial', 'bubble', 'found', 'air'] |  
 | bip_39_word_space_1 | diamond |  
 | bip_39_word_space_10 | diamond suffer donor zebra buyer abstract uniform capital spatial bubble |  

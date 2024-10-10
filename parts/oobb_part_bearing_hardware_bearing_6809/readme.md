@@ -122,6 +122,18 @@ moment
 fury
 garden
 section |  
+| bip_39_word_no_space_1 | crystal |  
+| bip_39_word_no_space_10 | crystalprizecopypitchwinmomentfurygardensectionmansion |  
+| bip_39_word_no_space_11 | crystalprizecopypitchwinmomentfurygardensectionmansionshrug |  
+| bip_39_word_no_space_12 | crystalprizecopypitchwinmomentfurygardensectionmansionshrugaddress |  
+| bip_39_word_no_space_2 | crystalprize |  
+| bip_39_word_no_space_3 | crystalprizecopy |  
+| bip_39_word_no_space_4 | crystalprizecopypitch |  
+| bip_39_word_no_space_5 | crystalprizecopypitchwin |  
+| bip_39_word_no_space_6 | crystalprizecopypitchwinmoment |  
+| bip_39_word_no_space_7 | crystalprizecopypitchwinmomentfury |  
+| bip_39_word_no_space_8 | crystalprizecopypitchwinmomentfurygarden |  
+| bip_39_word_no_space_9 | crystalprizecopypitchwinmomentfurygardensection |  
 | bip_39_word_space_0 | ['crystal', 'prize', 'copy', 'pitch', 'win', 'moment', 'fury', 'garden', 'section', 'mansion', 'shrug', 'address'] |  
 | bip_39_word_space_1 | crystal |  
 | bip_39_word_space_10 | crystal prize copy pitch win moment fury garden section mansion |  

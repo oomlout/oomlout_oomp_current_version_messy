@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rack
   tackle
 
   divorce'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackfloatchiefrigidcrashdryrobottackledivorcefamous
+bip_39_word_no_space_11: rackfloatchiefrigidcrashdryrobottackledivorcefamoussea
+bip_39_word_no_space_12: rackfloatchiefrigidcrashdryrobottackledivorcefamousseaaccuse
+bip_39_word_no_space_2: rackfloat
+bip_39_word_no_space_3: rackfloatchief
+bip_39_word_no_space_4: rackfloatchiefrigid
+bip_39_word_no_space_5: rackfloatchiefrigidcrash
+bip_39_word_no_space_6: rackfloatchiefrigidcrashdry
+bip_39_word_no_space_7: rackfloatchiefrigidcrashdryrobot
+bip_39_word_no_space_8: rackfloatchiefrigidcrashdryrobottackle
+bip_39_word_no_space_9: rackfloatchiefrigidcrashdryrobottackledivorce
 bip_39_word_space_0:
 - rack
 - float

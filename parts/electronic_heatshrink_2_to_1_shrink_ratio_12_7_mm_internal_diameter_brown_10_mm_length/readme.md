@@ -122,6 +122,18 @@ kick
 father
 cigar
 vehicle |  
+| bip_39_word_no_space_1 | squeeze |  
+| bip_39_word_no_space_10 | squeezeafraidsolutionwarmmasterkickfathercigarvehiclehard |  
+| bip_39_word_no_space_11 | squeezeafraidsolutionwarmmasterkickfathercigarvehiclehardstadium |  
+| bip_39_word_no_space_12 | squeezeafraidsolutionwarmmasterkickfathercigarvehiclehardstadiumall |  
+| bip_39_word_no_space_2 | squeezeafraid |  
+| bip_39_word_no_space_3 | squeezeafraidsolution |  
+| bip_39_word_no_space_4 | squeezeafraidsolutionwarm |  
+| bip_39_word_no_space_5 | squeezeafraidsolutionwarmmaster |  
+| bip_39_word_no_space_6 | squeezeafraidsolutionwarmmasterkick |  
+| bip_39_word_no_space_7 | squeezeafraidsolutionwarmmasterkickfather |  
+| bip_39_word_no_space_8 | squeezeafraidsolutionwarmmasterkickfathercigar |  
+| bip_39_word_no_space_9 | squeezeafraidsolutionwarmmasterkickfathercigarvehicle |  
 | bip_39_word_space_0 | ['squeeze', 'afraid', 'solution', 'warm', 'master', 'kick', 'father', 'cigar', 'vehicle', 'hard', 'stadium', 'all'] |  
 | bip_39_word_space_1 | squeeze |  
 | bip_39_word_space_10 | squeeze afraid solution warm master kick father cigar vehicle hard |  

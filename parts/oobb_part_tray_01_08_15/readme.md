@@ -122,6 +122,18 @@ gaze
 peace
 love
 deal |  
+| bip_39_word_no_space_1 | review |  
+| bip_39_word_no_space_10 | reviewgardenstairsgalaxyriotgazepeacelovedealdress |  
+| bip_39_word_no_space_11 | reviewgardenstairsgalaxyriotgazepeacelovedealdressreport |  
+| bip_39_word_no_space_12 | reviewgardenstairsgalaxyriotgazepeacelovedealdressreportagain |  
+| bip_39_word_no_space_2 | reviewgarden |  
+| bip_39_word_no_space_3 | reviewgardenstairs |  
+| bip_39_word_no_space_4 | reviewgardenstairsgalaxy |  
+| bip_39_word_no_space_5 | reviewgardenstairsgalaxyriot |  
+| bip_39_word_no_space_6 | reviewgardenstairsgalaxyriotgaze |  
+| bip_39_word_no_space_7 | reviewgardenstairsgalaxyriotgazepeace |  
+| bip_39_word_no_space_8 | reviewgardenstairsgalaxyriotgazepeacelove |  
+| bip_39_word_no_space_9 | reviewgardenstairsgalaxyriotgazepeacelovedeal |  
 | bip_39_word_space_0 | ['review', 'garden', 'stairs', 'galaxy', 'riot', 'gaze', 'peace', 'love', 'deal', 'dress', 'report', 'again'] |  
 | bip_39_word_space_1 | review |  
 | bip_39_word_space_10 | review garden stairs galaxy riot gaze peace love deal dress |  

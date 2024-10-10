@@ -122,6 +122,18 @@ emotion
 aware
 item
 flag |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tossrigidflysolutionacidemotionawareitemflagseek |  
+| bip_39_word_no_space_11 | tossrigidflysolutionacidemotionawareitemflagseeklittle |  
+| bip_39_word_no_space_12 | tossrigidflysolutionacidemotionawareitemflagseeklittleadvance |  
+| bip_39_word_no_space_2 | tossrigid |  
+| bip_39_word_no_space_3 | tossrigidfly |  
+| bip_39_word_no_space_4 | tossrigidflysolution |  
+| bip_39_word_no_space_5 | tossrigidflysolutionacid |  
+| bip_39_word_no_space_6 | tossrigidflysolutionacidemotion |  
+| bip_39_word_no_space_7 | tossrigidflysolutionacidemotionaware |  
+| bip_39_word_no_space_8 | tossrigidflysolutionacidemotionawareitem |  
+| bip_39_word_no_space_9 | tossrigidflysolutionacidemotionawareitemflag |  
 | bip_39_word_space_0 | ['toss', 'rigid', 'fly', 'solution', 'acid', 'emotion', 'aware', 'item', 'flag', 'seek', 'little', 'advance'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss rigid fly solution acid emotion aware item flag seek |  

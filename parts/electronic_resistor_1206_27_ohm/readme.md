@@ -122,6 +122,18 @@ course
 since
 wheel
 great |  
+| bip_39_word_no_space_1 | domain |  
+| bip_39_word_no_space_10 | domaintigerorphanphoneinflictcoursesincewheelgreatprimary |  
+| bip_39_word_no_space_11 | domaintigerorphanphoneinflictcoursesincewheelgreatprimarynet |  
+| bip_39_word_no_space_12 | domaintigerorphanphoneinflictcoursesincewheelgreatprimarynetattend |  
+| bip_39_word_no_space_2 | domaintiger |  
+| bip_39_word_no_space_3 | domaintigerorphan |  
+| bip_39_word_no_space_4 | domaintigerorphanphone |  
+| bip_39_word_no_space_5 | domaintigerorphanphoneinflict |  
+| bip_39_word_no_space_6 | domaintigerorphanphoneinflictcourse |  
+| bip_39_word_no_space_7 | domaintigerorphanphoneinflictcoursesince |  
+| bip_39_word_no_space_8 | domaintigerorphanphoneinflictcoursesincewheel |  
+| bip_39_word_no_space_9 | domaintigerorphanphoneinflictcoursesincewheelgreat |  
 | bip_39_word_space_0 | ['domain', 'tiger', 'orphan', 'phone', 'inflict', 'course', 'since', 'wheel', 'great', 'primary', 'net', 'attend'] |  
 | bip_39_word_space_1 | domain |  
 | bip_39_word_space_10 | domain tiger orphan phone inflict course since wheel great primary |  

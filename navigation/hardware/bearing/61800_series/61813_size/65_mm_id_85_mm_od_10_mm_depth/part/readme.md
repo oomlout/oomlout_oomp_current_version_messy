@@ -122,6 +122,18 @@ thrive
 tray
 impact
 deposit |  
+| bip_39_word_no_space_1 | veteran |  
+| bip_39_word_no_space_10 | veteranapologyvelvetcliniconcethrivetrayimpactdepositsell |  
+| bip_39_word_no_space_11 | veteranapologyvelvetcliniconcethrivetrayimpactdepositsellhollow |  
+| bip_39_word_no_space_12 | veteranapologyvelvetcliniconcethrivetrayimpactdepositsellhollowarena |  
+| bip_39_word_no_space_2 | veteranapology |  
+| bip_39_word_no_space_3 | veteranapologyvelvet |  
+| bip_39_word_no_space_4 | veteranapologyvelvetclinic |  
+| bip_39_word_no_space_5 | veteranapologyvelvetcliniconce |  
+| bip_39_word_no_space_6 | veteranapologyvelvetcliniconcethrive |  
+| bip_39_word_no_space_7 | veteranapologyvelvetcliniconcethrivetray |  
+| bip_39_word_no_space_8 | veteranapologyvelvetcliniconcethrivetrayimpact |  
+| bip_39_word_no_space_9 | veteranapologyvelvetcliniconcethrivetrayimpactdeposit |  
 | bip_39_word_space_0 | ['veteran', 'apology', 'velvet', 'clinic', 'once', 'thrive', 'tray', 'impact', 'deposit', 'sell', 'hollow', 'arena'] |  
 | bip_39_word_space_1 | veteran |  
 | bip_39_word_space_10 | veteran apology velvet clinic once thrive tray impact deposit sell |  

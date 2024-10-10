@@ -122,6 +122,18 @@ tube
 concert
 model
 labor |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistperfectovalensurebarelytubeconcertmodellaborarrest |  
+| bip_39_word_no_space_11 | resistperfectovalensurebarelytubeconcertmodellaborarrestcourse |  
+| bip_39_word_no_space_12 | resistperfectovalensurebarelytubeconcertmodellaborarrestcourseabove |  
+| bip_39_word_no_space_2 | resistperfect |  
+| bip_39_word_no_space_3 | resistperfectoval |  
+| bip_39_word_no_space_4 | resistperfectovalensure |  
+| bip_39_word_no_space_5 | resistperfectovalensurebarely |  
+| bip_39_word_no_space_6 | resistperfectovalensurebarelytube |  
+| bip_39_word_no_space_7 | resistperfectovalensurebarelytubeconcert |  
+| bip_39_word_no_space_8 | resistperfectovalensurebarelytubeconcertmodel |  
+| bip_39_word_no_space_9 | resistperfectovalensurebarelytubeconcertmodellabor |  
 | bip_39_word_space_0 | ['resist', 'perfect', 'oval', 'ensure', 'barely', 'tube', 'concert', 'model', 'labor', 'arrest', 'course', 'above'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist perfect oval ensure barely tube concert model labor arrest |  

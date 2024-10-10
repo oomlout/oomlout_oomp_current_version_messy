@@ -122,6 +122,18 @@ chapter
 shy
 soup
 situate |  
+| bip_39_word_no_space_1 | quote |  
+| bip_39_word_no_space_10 | quotegundealtestpoetchaptershysoupsituateprice |  
+| bip_39_word_no_space_11 | quotegundealtestpoetchaptershysoupsituatepriceokay |  
+| bip_39_word_no_space_12 | quotegundealtestpoetchaptershysoupsituatepriceokayadapt |  
+| bip_39_word_no_space_2 | quotegun |  
+| bip_39_word_no_space_3 | quotegundeal |  
+| bip_39_word_no_space_4 | quotegundealtest |  
+| bip_39_word_no_space_5 | quotegundealtestpoet |  
+| bip_39_word_no_space_6 | quotegundealtestpoetchapter |  
+| bip_39_word_no_space_7 | quotegundealtestpoetchaptershy |  
+| bip_39_word_no_space_8 | quotegundealtestpoetchaptershysoup |  
+| bip_39_word_no_space_9 | quotegundealtestpoetchaptershysoupsituate |  
 | bip_39_word_space_0 | ['quote', 'gun', 'deal', 'test', 'poet', 'chapter', 'shy', 'soup', 'situate', 'price', 'okay', 'adapt'] |  
 | bip_39_word_space_1 | quote |  
 | bip_39_word_space_10 | quote gun deal test poet chapter shy soup situate price |  

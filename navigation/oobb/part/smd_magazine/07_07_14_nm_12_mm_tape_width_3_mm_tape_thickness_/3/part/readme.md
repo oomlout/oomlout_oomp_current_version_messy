@@ -122,6 +122,18 @@ nurse
 chaos
 farm
 yard |  
+| bip_39_word_no_space_1 | appear |  
+| bip_39_word_no_space_10 | appearkeenpartylargedefinenursechaosfarmyardsave |  
+| bip_39_word_no_space_11 | appearkeenpartylargedefinenursechaosfarmyardsavefoster |  
+| bip_39_word_no_space_12 | appearkeenpartylargedefinenursechaosfarmyardsavefosteralien |  
+| bip_39_word_no_space_2 | appearkeen |  
+| bip_39_word_no_space_3 | appearkeenparty |  
+| bip_39_word_no_space_4 | appearkeenpartylarge |  
+| bip_39_word_no_space_5 | appearkeenpartylargedefine |  
+| bip_39_word_no_space_6 | appearkeenpartylargedefinenurse |  
+| bip_39_word_no_space_7 | appearkeenpartylargedefinenursechaos |  
+| bip_39_word_no_space_8 | appearkeenpartylargedefinenursechaosfarm |  
+| bip_39_word_no_space_9 | appearkeenpartylargedefinenursechaosfarmyard |  
 | bip_39_word_space_0 | ['appear', 'keen', 'party', 'large', 'define', 'nurse', 'chaos', 'farm', 'yard', 'save', 'foster', 'alien'] |  
 | bip_39_word_space_1 | appear |  
 | bip_39_word_space_10 | appear keen party large define nurse chaos farm yard save |  

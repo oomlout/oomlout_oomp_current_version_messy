@@ -122,6 +122,18 @@ west
 legal
 donate
 crater |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cageblanketsorrybunkerlittlewestlegaldonatecraterdose |  
+| bip_39_word_no_space_11 | cageblanketsorrybunkerlittlewestlegaldonatecraterdosenovel |  
+| bip_39_word_no_space_12 | cageblanketsorrybunkerlittlewestlegaldonatecraterdosenovelappear |  
+| bip_39_word_no_space_2 | cageblanket |  
+| bip_39_word_no_space_3 | cageblanketsorry |  
+| bip_39_word_no_space_4 | cageblanketsorrybunker |  
+| bip_39_word_no_space_5 | cageblanketsorrybunkerlittle |  
+| bip_39_word_no_space_6 | cageblanketsorrybunkerlittlewest |  
+| bip_39_word_no_space_7 | cageblanketsorrybunkerlittlewestlegal |  
+| bip_39_word_no_space_8 | cageblanketsorrybunkerlittlewestlegaldonate |  
+| bip_39_word_no_space_9 | cageblanketsorrybunkerlittlewestlegaldonatecrater |  
 | bip_39_word_space_0 | ['cage', 'blanket', 'sorry', 'bunker', 'little', 'west', 'legal', 'donate', 'crater', 'dose', 'novel', 'appear'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage blanket sorry bunker little west legal donate crater dose |  

@@ -122,6 +122,18 @@ unhappy
 spatial
 zoo
 code |  
+| bip_39_word_no_space_1 | heart |  
+| bip_39_word_no_space_10 | heartadvancedogcapitalrepairunhappyspatialzoocodetrap |  
+| bip_39_word_no_space_11 | heartadvancedogcapitalrepairunhappyspatialzoocodetrapbrave |  
+| bip_39_word_no_space_12 | heartadvancedogcapitalrepairunhappyspatialzoocodetrapbraveargue |  
+| bip_39_word_no_space_2 | heartadvance |  
+| bip_39_word_no_space_3 | heartadvancedog |  
+| bip_39_word_no_space_4 | heartadvancedogcapital |  
+| bip_39_word_no_space_5 | heartadvancedogcapitalrepair |  
+| bip_39_word_no_space_6 | heartadvancedogcapitalrepairunhappy |  
+| bip_39_word_no_space_7 | heartadvancedogcapitalrepairunhappyspatial |  
+| bip_39_word_no_space_8 | heartadvancedogcapitalrepairunhappyspatialzoo |  
+| bip_39_word_no_space_9 | heartadvancedogcapitalrepairunhappyspatialzoocode |  
 | bip_39_word_space_0 | ['heart', 'advance', 'dog', 'capital', 'repair', 'unhappy', 'spatial', 'zoo', 'code', 'trap', 'brave', 'argue'] |  
 | bip_39_word_space_1 | heart |  
 | bip_39_word_space_10 | heart advance dog capital repair unhappy spatial zoo code trap |  

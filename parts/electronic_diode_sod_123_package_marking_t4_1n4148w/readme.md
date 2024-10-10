@@ -122,6 +122,18 @@ taxi
 fashion
 glass
 suspect |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbagetwiceadvicestayfalltaxifashionglasssuspectblame |  
+| bip_39_word_no_space_11 | cabbagetwiceadvicestayfalltaxifashionglasssuspectblamesurvey |  
+| bip_39_word_no_space_12 | cabbagetwiceadvicestayfalltaxifashionglasssuspectblamesurveyaddict |  
+| bip_39_word_no_space_2 | cabbagetwice |  
+| bip_39_word_no_space_3 | cabbagetwiceadvice |  
+| bip_39_word_no_space_4 | cabbagetwiceadvicestay |  
+| bip_39_word_no_space_5 | cabbagetwiceadvicestayfall |  
+| bip_39_word_no_space_6 | cabbagetwiceadvicestayfalltaxi |  
+| bip_39_word_no_space_7 | cabbagetwiceadvicestayfalltaxifashion |  
+| bip_39_word_no_space_8 | cabbagetwiceadvicestayfalltaxifashionglass |  
+| bip_39_word_no_space_9 | cabbagetwiceadvicestayfalltaxifashionglasssuspect |  
 | bip_39_word_space_0 | ['cabbage', 'twice', 'advice', 'stay', 'fall', 'taxi', 'fashion', 'glass', 'suspect', 'blame', 'survey', 'addict'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage twice advice stay fall taxi fashion glass suspect blame |  

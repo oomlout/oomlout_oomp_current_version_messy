@@ -122,6 +122,18 @@ dream
 attract
 gloom
 equip |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circlesubwaydonategazesymptomdreamattractgloomequipnation |  
+| bip_39_word_no_space_11 | circlesubwaydonategazesymptomdreamattractgloomequipnationphoto |  
+| bip_39_word_no_space_12 | circlesubwaydonategazesymptomdreamattractgloomequipnationphotoaunt |  
+| bip_39_word_no_space_2 | circlesubway |  
+| bip_39_word_no_space_3 | circlesubwaydonate |  
+| bip_39_word_no_space_4 | circlesubwaydonategaze |  
+| bip_39_word_no_space_5 | circlesubwaydonategazesymptom |  
+| bip_39_word_no_space_6 | circlesubwaydonategazesymptomdream |  
+| bip_39_word_no_space_7 | circlesubwaydonategazesymptomdreamattract |  
+| bip_39_word_no_space_8 | circlesubwaydonategazesymptomdreamattractgloom |  
+| bip_39_word_no_space_9 | circlesubwaydonategazesymptomdreamattractgloomequip |  
 | bip_39_word_space_0 | ['circle', 'subway', 'donate', 'gaze', 'symptom', 'dream', 'attract', 'gloom', 'equip', 'nation', 'photo', 'aunt'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle subway donate gaze symptom dream attract gloom equip nation |  

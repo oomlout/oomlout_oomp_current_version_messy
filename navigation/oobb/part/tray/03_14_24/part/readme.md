@@ -122,6 +122,18 @@ mule
 bag
 saddle
 carbon |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thattwoevoketornadoanimalmulebagsaddlecarboninclude |  
+| bip_39_word_no_space_11 | thattwoevoketornadoanimalmulebagsaddlecarbonincludetoast |  
+| bip_39_word_no_space_12 | thattwoevoketornadoanimalmulebagsaddlecarbonincludetoastangry |  
+| bip_39_word_no_space_2 | thattwo |  
+| bip_39_word_no_space_3 | thattwoevoke |  
+| bip_39_word_no_space_4 | thattwoevoketornado |  
+| bip_39_word_no_space_5 | thattwoevoketornadoanimal |  
+| bip_39_word_no_space_6 | thattwoevoketornadoanimalmule |  
+| bip_39_word_no_space_7 | thattwoevoketornadoanimalmulebag |  
+| bip_39_word_no_space_8 | thattwoevoketornadoanimalmulebagsaddle |  
+| bip_39_word_no_space_9 | thattwoevoketornadoanimalmulebagsaddlecarbon |  
 | bip_39_word_space_0 | ['that', 'two', 'evoke', 'tornado', 'animal', 'mule', 'bag', 'saddle', 'carbon', 'include', 'toast', 'angry'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that two evoke tornado animal mule bag saddle carbon include |  

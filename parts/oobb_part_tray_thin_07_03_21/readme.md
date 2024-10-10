@@ -122,6 +122,18 @@ pear
 distance
 chapter
 vanish |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardoilmajorsuspectevolvepeardistancechaptervanishclinic |  
+| bip_39_word_no_space_11 | rewardoilmajorsuspectevolvepeardistancechaptervanishclinicpurse |  
+| bip_39_word_no_space_12 | rewardoilmajorsuspectevolvepeardistancechaptervanishclinicpurseatom |  
+| bip_39_word_no_space_2 | rewardoil |  
+| bip_39_word_no_space_3 | rewardoilmajor |  
+| bip_39_word_no_space_4 | rewardoilmajorsuspect |  
+| bip_39_word_no_space_5 | rewardoilmajorsuspectevolve |  
+| bip_39_word_no_space_6 | rewardoilmajorsuspectevolvepear |  
+| bip_39_word_no_space_7 | rewardoilmajorsuspectevolvepeardistance |  
+| bip_39_word_no_space_8 | rewardoilmajorsuspectevolvepeardistancechapter |  
+| bip_39_word_no_space_9 | rewardoilmajorsuspectevolvepeardistancechaptervanish |  
 | bip_39_word_space_0 | ['reward', 'oil', 'major', 'suspect', 'evolve', 'pear', 'distance', 'chapter', 'vanish', 'clinic', 'purse', 'atom'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward oil major suspect evolve pear distance chapter vanish clinic |  

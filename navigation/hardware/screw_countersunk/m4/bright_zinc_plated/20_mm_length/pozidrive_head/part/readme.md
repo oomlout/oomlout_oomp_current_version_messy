@@ -122,6 +122,18 @@ remove
 gap
 eagle
 share |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raisetunnelniceevolvespendremovegapeagleshareshove |  
+| bip_39_word_no_space_11 | raisetunnelniceevolvespendremovegapeagleshareshoveuse |  
+| bip_39_word_no_space_12 | raisetunnelniceevolvespendremovegapeagleshareshoveuseasset |  
+| bip_39_word_no_space_2 | raisetunnel |  
+| bip_39_word_no_space_3 | raisetunnelnice |  
+| bip_39_word_no_space_4 | raisetunnelniceevolve |  
+| bip_39_word_no_space_5 | raisetunnelniceevolvespend |  
+| bip_39_word_no_space_6 | raisetunnelniceevolvespendremove |  
+| bip_39_word_no_space_7 | raisetunnelniceevolvespendremovegap |  
+| bip_39_word_no_space_8 | raisetunnelniceevolvespendremovegapeagle |  
+| bip_39_word_no_space_9 | raisetunnelniceevolvespendremovegapeagleshare |  
 | bip_39_word_space_0 | ['raise', 'tunnel', 'nice', 'evolve', 'spend', 'remove', 'gap', 'eagle', 'share', 'shove', 'use', 'asset'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise tunnel nice evolve spend remove gap eagle share shove |  

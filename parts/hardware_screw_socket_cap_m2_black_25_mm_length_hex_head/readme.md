@@ -122,6 +122,18 @@ bean
 supply
 cool
 recall |  
+| bip_39_word_no_space_1 | network |  
+| bip_39_word_no_space_10 | networkbronzesunringspeedbeansupplycoolrecallprison |  
+| bip_39_word_no_space_11 | networkbronzesunringspeedbeansupplycoolrecallprisoncredit |  
+| bip_39_word_no_space_12 | networkbronzesunringspeedbeansupplycoolrecallprisoncreditaverage |  
+| bip_39_word_no_space_2 | networkbronze |  
+| bip_39_word_no_space_3 | networkbronzesun |  
+| bip_39_word_no_space_4 | networkbronzesunring |  
+| bip_39_word_no_space_5 | networkbronzesunringspeed |  
+| bip_39_word_no_space_6 | networkbronzesunringspeedbean |  
+| bip_39_word_no_space_7 | networkbronzesunringspeedbeansupply |  
+| bip_39_word_no_space_8 | networkbronzesunringspeedbeansupplycool |  
+| bip_39_word_no_space_9 | networkbronzesunringspeedbeansupplycoolrecall |  
 | bip_39_word_space_0 | ['network', 'bronze', 'sun', 'ring', 'speed', 'bean', 'supply', 'cool', 'recall', 'prison', 'credit', 'average'] |  
 | bip_39_word_space_1 | network |  
 | bip_39_word_space_10 | network bronze sun ring speed bean supply cool recall prison |  

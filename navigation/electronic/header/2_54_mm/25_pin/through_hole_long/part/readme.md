@@ -122,6 +122,18 @@ pink
 aim
 olive
 happy |  
+| bip_39_word_no_space_1 | vendor |  
+| bip_39_word_no_space_10 | vendorcosttacklecalmsquirrelpinkaimolivehappysustain |  
+| bip_39_word_no_space_11 | vendorcosttacklecalmsquirrelpinkaimolivehappysustaincategory |  
+| bip_39_word_no_space_12 | vendorcosttacklecalmsquirrelpinkaimolivehappysustaincategoryarena |  
+| bip_39_word_no_space_2 | vendorcost |  
+| bip_39_word_no_space_3 | vendorcosttackle |  
+| bip_39_word_no_space_4 | vendorcosttacklecalm |  
+| bip_39_word_no_space_5 | vendorcosttacklecalmsquirrel |  
+| bip_39_word_no_space_6 | vendorcosttacklecalmsquirrelpink |  
+| bip_39_word_no_space_7 | vendorcosttacklecalmsquirrelpinkaim |  
+| bip_39_word_no_space_8 | vendorcosttacklecalmsquirrelpinkaimolive |  
+| bip_39_word_no_space_9 | vendorcosttacklecalmsquirrelpinkaimolivehappy |  
 | bip_39_word_space_0 | ['vendor', 'cost', 'tackle', 'calm', 'squirrel', 'pink', 'aim', 'olive', 'happy', 'sustain', 'category', 'arena'] |  
 | bip_39_word_space_1 | vendor |  
 | bip_39_word_space_10 | vendor cost tackle calm squirrel pink aim olive happy sustain |  

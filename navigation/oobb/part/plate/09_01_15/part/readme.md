@@ -122,6 +122,18 @@ notice
 found
 train
 argue |  
+| bip_39_word_no_space_1 | output |  
+| bip_39_word_no_space_10 | outputsweetfinishbecomesatisfynoticefoundtrainarguebright |  
+| bip_39_word_no_space_11 | outputsweetfinishbecomesatisfynoticefoundtrainarguebrightbachelor |  
+| bip_39_word_no_space_12 | outputsweetfinishbecomesatisfynoticefoundtrainarguebrightbachelorapple |  
+| bip_39_word_no_space_2 | outputsweet |  
+| bip_39_word_no_space_3 | outputsweetfinish |  
+| bip_39_word_no_space_4 | outputsweetfinishbecome |  
+| bip_39_word_no_space_5 | outputsweetfinishbecomesatisfy |  
+| bip_39_word_no_space_6 | outputsweetfinishbecomesatisfynotice |  
+| bip_39_word_no_space_7 | outputsweetfinishbecomesatisfynoticefound |  
+| bip_39_word_no_space_8 | outputsweetfinishbecomesatisfynoticefoundtrain |  
+| bip_39_word_no_space_9 | outputsweetfinishbecomesatisfynoticefoundtrainargue |  
 | bip_39_word_space_0 | ['output', 'sweet', 'finish', 'become', 'satisfy', 'notice', 'found', 'train', 'argue', 'bright', 'bachelor', 'apple'] |  
 | bip_39_word_space_1 | output |  
 | bip_39_word_space_10 | output sweet finish become satisfy notice found train argue bright |  

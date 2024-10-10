@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'video
   calm
 
   movie'
+bip_39_word_no_space_1: video
+bip_39_word_no_space_10: videothrowjoyfieldlawngovernconsidercalmmovieleave
+bip_39_word_no_space_11: videothrowjoyfieldlawngovernconsidercalmmovieleavegroup
+bip_39_word_no_space_12: videothrowjoyfieldlawngovernconsidercalmmovieleavegrouparound
+bip_39_word_no_space_2: videothrow
+bip_39_word_no_space_3: videothrowjoy
+bip_39_word_no_space_4: videothrowjoyfield
+bip_39_word_no_space_5: videothrowjoyfieldlawn
+bip_39_word_no_space_6: videothrowjoyfieldlawngovern
+bip_39_word_no_space_7: videothrowjoyfieldlawngovernconsider
+bip_39_word_no_space_8: videothrowjoyfieldlawngovernconsidercalm
+bip_39_word_no_space_9: videothrowjoyfieldlawngovernconsidercalmmovie
 bip_39_word_space_0:
 - video
 - throw

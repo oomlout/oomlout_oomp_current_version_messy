@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'size
   unusual
 
   grid'
+bip_39_word_no_space_1: size
+bip_39_word_no_space_10: sizemorningdinnergroceryarguemaskthatunusualgridlens
+bip_39_word_no_space_11: sizemorningdinnergroceryarguemaskthatunusualgridlensemploy
+bip_39_word_no_space_12: sizemorningdinnergroceryarguemaskthatunusualgridlensemployactual
+bip_39_word_no_space_2: sizemorning
+bip_39_word_no_space_3: sizemorningdinner
+bip_39_word_no_space_4: sizemorningdinnergrocery
+bip_39_word_no_space_5: sizemorningdinnergroceryargue
+bip_39_word_no_space_6: sizemorningdinnergroceryarguemask
+bip_39_word_no_space_7: sizemorningdinnergroceryarguemaskthat
+bip_39_word_no_space_8: sizemorningdinnergroceryarguemaskthatunusual
+bip_39_word_no_space_9: sizemorningdinnergroceryarguemaskthatunusualgrid
 bip_39_word_space_0:
 - size
 - morning

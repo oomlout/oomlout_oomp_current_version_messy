@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'myself
   cotton
 
   vague'
+bip_39_word_no_space_1: myself
+bip_39_word_no_space_10: myselfassetreadyweathernewsjacketcoppercottonvaguekind
+bip_39_word_no_space_11: myselfassetreadyweathernewsjacketcoppercottonvaguekindtwist
+bip_39_word_no_space_12: myselfassetreadyweathernewsjacketcoppercottonvaguekindtwistautumn
+bip_39_word_no_space_2: myselfasset
+bip_39_word_no_space_3: myselfassetready
+bip_39_word_no_space_4: myselfassetreadyweather
+bip_39_word_no_space_5: myselfassetreadyweathernews
+bip_39_word_no_space_6: myselfassetreadyweathernewsjacket
+bip_39_word_no_space_7: myselfassetreadyweathernewsjacketcopper
+bip_39_word_no_space_8: myselfassetreadyweathernewsjacketcoppercotton
+bip_39_word_no_space_9: myselfassetreadyweathernewsjacketcoppercottonvague
 bip_39_word_space_0:
 - myself
 - asset

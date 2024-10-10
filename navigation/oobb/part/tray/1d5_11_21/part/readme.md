@@ -122,6 +122,18 @@ custom
 foil
 update
 since |  
+| bip_39_word_no_space_1 | defense |  
+| bip_39_word_no_space_10 | defensepiecesunnysalonvancustomfoilupdatesincedonkey |  
+| bip_39_word_no_space_11 | defensepiecesunnysalonvancustomfoilupdatesincedonkeyremind |  
+| bip_39_word_no_space_12 | defensepiecesunnysalonvancustomfoilupdatesincedonkeyremindask |  
+| bip_39_word_no_space_2 | defensepiece |  
+| bip_39_word_no_space_3 | defensepiecesunny |  
+| bip_39_word_no_space_4 | defensepiecesunnysalon |  
+| bip_39_word_no_space_5 | defensepiecesunnysalonvan |  
+| bip_39_word_no_space_6 | defensepiecesunnysalonvancustom |  
+| bip_39_word_no_space_7 | defensepiecesunnysalonvancustomfoil |  
+| bip_39_word_no_space_8 | defensepiecesunnysalonvancustomfoilupdate |  
+| bip_39_word_no_space_9 | defensepiecesunnysalonvancustomfoilupdatesince |  
 | bip_39_word_space_0 | ['defense', 'piece', 'sunny', 'salon', 'van', 'custom', 'foil', 'update', 'since', 'donkey', 'remind', 'ask'] |  
 | bip_39_word_space_1 | defense |  
 | bip_39_word_space_10 | defense piece sunny salon van custom foil update since donkey |  

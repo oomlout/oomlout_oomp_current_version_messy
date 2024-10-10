@@ -122,6 +122,18 @@ where
 knife
 actor
 arch |  
+| bip_39_word_no_space_1 | blossom |  
+| bip_39_word_no_space_10 | blossomcuteraiseescapetrialwhereknifeactorarchidentify |  
+| bip_39_word_no_space_11 | blossomcuteraiseescapetrialwhereknifeactorarchidentifyunique |  
+| bip_39_word_no_space_12 | blossomcuteraiseescapetrialwhereknifeactorarchidentifyuniqueatom |  
+| bip_39_word_no_space_2 | blossomcute |  
+| bip_39_word_no_space_3 | blossomcuteraise |  
+| bip_39_word_no_space_4 | blossomcuteraiseescape |  
+| bip_39_word_no_space_5 | blossomcuteraiseescapetrial |  
+| bip_39_word_no_space_6 | blossomcuteraiseescapetrialwhere |  
+| bip_39_word_no_space_7 | blossomcuteraiseescapetrialwhereknife |  
+| bip_39_word_no_space_8 | blossomcuteraiseescapetrialwhereknifeactor |  
+| bip_39_word_no_space_9 | blossomcuteraiseescapetrialwhereknifeactorarch |  
 | bip_39_word_space_0 | ['blossom', 'cute', 'raise', 'escape', 'trial', 'where', 'knife', 'actor', 'arch', 'identify', 'unique', 'atom'] |  
 | bip_39_word_space_1 | blossom |  
 | bip_39_word_space_10 | blossom cute raise escape trial where knife actor arch identify |  

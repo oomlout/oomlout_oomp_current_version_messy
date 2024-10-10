@@ -122,6 +122,18 @@ moral
 off
 ice
 earth |  
+| bip_39_word_no_space_1 | animal |  
+| bip_39_word_no_space_10 | animalponykneepositionaveragemoralofficeearthrival |  
+| bip_39_word_no_space_11 | animalponykneepositionaveragemoralofficeearthrivalboil |  
+| bip_39_word_no_space_12 | animalponykneepositionaveragemoralofficeearthrivalboilancient |  
+| bip_39_word_no_space_2 | animalpony |  
+| bip_39_word_no_space_3 | animalponyknee |  
+| bip_39_word_no_space_4 | animalponykneeposition |  
+| bip_39_word_no_space_5 | animalponykneepositionaverage |  
+| bip_39_word_no_space_6 | animalponykneepositionaveragemoral |  
+| bip_39_word_no_space_7 | animalponykneepositionaveragemoraloff |  
+| bip_39_word_no_space_8 | animalponykneepositionaveragemoraloffice |  
+| bip_39_word_no_space_9 | animalponykneepositionaveragemoralofficeearth |  
 | bip_39_word_space_0 | ['animal', 'pony', 'knee', 'position', 'average', 'moral', 'off', 'ice', 'earth', 'rival', 'boil', 'ancient'] |  
 | bip_39_word_space_1 | animal |  
 | bip_39_word_space_10 | animal pony knee position average moral off ice earth rival |  

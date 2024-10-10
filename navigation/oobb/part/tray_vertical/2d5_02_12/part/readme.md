@@ -122,6 +122,18 @@ announce
 razor
 joke
 patch |  
+| bip_39_word_no_space_1 | fever |  
+| bip_39_word_no_space_10 | fevermetalfocusdivorceobscureannouncerazorjokepatchdizzy |  
+| bip_39_word_no_space_11 | fevermetalfocusdivorceobscureannouncerazorjokepatchdizzydanger |  
+| bip_39_word_no_space_12 | fevermetalfocusdivorceobscureannouncerazorjokepatchdizzydangeratom |  
+| bip_39_word_no_space_2 | fevermetal |  
+| bip_39_word_no_space_3 | fevermetalfocus |  
+| bip_39_word_no_space_4 | fevermetalfocusdivorce |  
+| bip_39_word_no_space_5 | fevermetalfocusdivorceobscure |  
+| bip_39_word_no_space_6 | fevermetalfocusdivorceobscureannounce |  
+| bip_39_word_no_space_7 | fevermetalfocusdivorceobscureannouncerazor |  
+| bip_39_word_no_space_8 | fevermetalfocusdivorceobscureannouncerazorjoke |  
+| bip_39_word_no_space_9 | fevermetalfocusdivorceobscureannouncerazorjokepatch |  
 | bip_39_word_space_0 | ['fever', 'metal', 'focus', 'divorce', 'obscure', 'announce', 'razor', 'joke', 'patch', 'dizzy', 'danger', 'atom'] |  
 | bip_39_word_space_1 | fever |  
 | bip_39_word_space_10 | fever metal focus divorce obscure announce razor joke patch dizzy |  

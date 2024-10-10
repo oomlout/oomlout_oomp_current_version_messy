@@ -122,6 +122,18 @@ catalog
 enter
 abstract
 useful |  
+| bip_39_word_no_space_1 | tell |  
+| bip_39_word_no_space_10 | tellliquidpagemuffinbenefitcatalogenterabstractusefulrazor |  
+| bip_39_word_no_space_11 | tellliquidpagemuffinbenefitcatalogenterabstractusefulrazorcompany |  
+| bip_39_word_no_space_12 | tellliquidpagemuffinbenefitcatalogenterabstractusefulrazorcompanyadapt |  
+| bip_39_word_no_space_2 | tellliquid |  
+| bip_39_word_no_space_3 | tellliquidpage |  
+| bip_39_word_no_space_4 | tellliquidpagemuffin |  
+| bip_39_word_no_space_5 | tellliquidpagemuffinbenefit |  
+| bip_39_word_no_space_6 | tellliquidpagemuffinbenefitcatalog |  
+| bip_39_word_no_space_7 | tellliquidpagemuffinbenefitcatalogenter |  
+| bip_39_word_no_space_8 | tellliquidpagemuffinbenefitcatalogenterabstract |  
+| bip_39_word_no_space_9 | tellliquidpagemuffinbenefitcatalogenterabstractuseful |  
 | bip_39_word_space_0 | ['tell', 'liquid', 'page', 'muffin', 'benefit', 'catalog', 'enter', 'abstract', 'useful', 'razor', 'company', 'adapt'] |  
 | bip_39_word_space_1 | tell |  
 | bip_39_word_space_10 | tell liquid page muffin benefit catalog enter abstract useful razor |  

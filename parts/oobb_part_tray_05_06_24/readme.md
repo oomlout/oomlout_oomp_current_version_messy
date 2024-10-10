@@ -122,6 +122,18 @@ stock
 caught
 wool
 burden |  
+| bip_39_word_no_space_1 | candy |  
+| bip_39_word_no_space_10 | candyamazingmansionstillrealstockcaughtwoolburdenboring |  
+| bip_39_word_no_space_11 | candyamazingmansionstillrealstockcaughtwoolburdenboringexchange |  
+| bip_39_word_no_space_12 | candyamazingmansionstillrealstockcaughtwoolburdenboringexchangeannounce |  
+| bip_39_word_no_space_2 | candyamazing |  
+| bip_39_word_no_space_3 | candyamazingmansion |  
+| bip_39_word_no_space_4 | candyamazingmansionstill |  
+| bip_39_word_no_space_5 | candyamazingmansionstillreal |  
+| bip_39_word_no_space_6 | candyamazingmansionstillrealstock |  
+| bip_39_word_no_space_7 | candyamazingmansionstillrealstockcaught |  
+| bip_39_word_no_space_8 | candyamazingmansionstillrealstockcaughtwool |  
+| bip_39_word_no_space_9 | candyamazingmansionstillrealstockcaughtwoolburden |  
 | bip_39_word_space_0 | ['candy', 'amazing', 'mansion', 'still', 'real', 'stock', 'caught', 'wool', 'burden', 'boring', 'exchange', 'announce'] |  
 | bip_39_word_space_1 | candy |  
 | bip_39_word_space_10 | candy amazing mansion still real stock caught wool burden boring |  

@@ -122,6 +122,18 @@ prepare
 sight
 lumber
 check |  
+| bip_39_word_no_space_1 | peasant |  
+| bip_39_word_no_space_10 | peasantradioundostatevocalpreparesightlumbercheckhunt |  
+| bip_39_word_no_space_11 | peasantradioundostatevocalpreparesightlumbercheckhuntjewel |  
+| bip_39_word_no_space_12 | peasantradioundostatevocalpreparesightlumbercheckhuntjewelalien |  
+| bip_39_word_no_space_2 | peasantradio |  
+| bip_39_word_no_space_3 | peasantradioundo |  
+| bip_39_word_no_space_4 | peasantradioundostate |  
+| bip_39_word_no_space_5 | peasantradioundostatevocal |  
+| bip_39_word_no_space_6 | peasantradioundostatevocalprepare |  
+| bip_39_word_no_space_7 | peasantradioundostatevocalpreparesight |  
+| bip_39_word_no_space_8 | peasantradioundostatevocalpreparesightlumber |  
+| bip_39_word_no_space_9 | peasantradioundostatevocalpreparesightlumbercheck |  
 | bip_39_word_space_0 | ['peasant', 'radio', 'undo', 'state', 'vocal', 'prepare', 'sight', 'lumber', 'check', 'hunt', 'jewel', 'alien'] |  
 | bip_39_word_space_1 | peasant |  
 | bip_39_word_space_10 | peasant radio undo state vocal prepare sight lumber check hunt |  

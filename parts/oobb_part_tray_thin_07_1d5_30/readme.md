@@ -122,6 +122,18 @@ sea
 palm
 put
 reward |  
+| bip_39_word_no_space_1 | since |  
+| bip_39_word_no_space_10 | sincemajorpreparegrouphurryseapalmputrewardcouple |  
+| bip_39_word_no_space_11 | sincemajorpreparegrouphurryseapalmputrewardcouplealmost |  
+| bip_39_word_no_space_12 | sincemajorpreparegrouphurryseapalmputrewardcouplealmostactor |  
+| bip_39_word_no_space_2 | sincemajor |  
+| bip_39_word_no_space_3 | sincemajorprepare |  
+| bip_39_word_no_space_4 | sincemajorpreparegroup |  
+| bip_39_word_no_space_5 | sincemajorpreparegrouphurry |  
+| bip_39_word_no_space_6 | sincemajorpreparegrouphurrysea |  
+| bip_39_word_no_space_7 | sincemajorpreparegrouphurryseapalm |  
+| bip_39_word_no_space_8 | sincemajorpreparegrouphurryseapalmput |  
+| bip_39_word_no_space_9 | sincemajorpreparegrouphurryseapalmputreward |  
 | bip_39_word_space_0 | ['since', 'major', 'prepare', 'group', 'hurry', 'sea', 'palm', 'put', 'reward', 'couple', 'almost', 'actor'] |  
 | bip_39_word_space_1 | since |  
 | bip_39_word_space_10 | since major prepare group hurry sea palm put reward couple |  

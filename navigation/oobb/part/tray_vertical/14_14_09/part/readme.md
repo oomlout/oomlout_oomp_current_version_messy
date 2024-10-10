@@ -122,6 +122,18 @@ load
 any
 culture
 panic |  
+| bip_39_word_no_space_1 | three |  
+| bip_39_word_no_space_10 | threeuponlabelnurselaundryloadanyculturepanicsting |  
+| bip_39_word_no_space_11 | threeuponlabelnurselaundryloadanyculturepanicstingearth |  
+| bip_39_word_no_space_12 | threeuponlabelnurselaundryloadanyculturepanicstingeartharrange |  
+| bip_39_word_no_space_2 | threeupon |  
+| bip_39_word_no_space_3 | threeuponlabel |  
+| bip_39_word_no_space_4 | threeuponlabelnurse |  
+| bip_39_word_no_space_5 | threeuponlabelnurselaundry |  
+| bip_39_word_no_space_6 | threeuponlabelnurselaundryload |  
+| bip_39_word_no_space_7 | threeuponlabelnurselaundryloadany |  
+| bip_39_word_no_space_8 | threeuponlabelnurselaundryloadanyculture |  
+| bip_39_word_no_space_9 | threeuponlabelnurselaundryloadanyculturepanic |  
 | bip_39_word_space_0 | ['three', 'upon', 'label', 'nurse', 'laundry', 'load', 'any', 'culture', 'panic', 'sting', 'earth', 'arrange'] |  
 | bip_39_word_space_1 | three |  
 | bip_39_word_space_10 | three upon label nurse laundry load any culture panic sting |  

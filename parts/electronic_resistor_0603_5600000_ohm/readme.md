@@ -122,6 +122,18 @@ spoil
 web
 thank
 dynamic |  
+| bip_39_word_no_space_1 | bounce |  
+| bip_39_word_no_space_10 | bouncematchsiblingclayboardspoilwebthankdynamicgeneral |  
+| bip_39_word_no_space_11 | bouncematchsiblingclayboardspoilwebthankdynamicgeneralsure |  
+| bip_39_word_no_space_12 | bouncematchsiblingclayboardspoilwebthankdynamicgeneralsureassume |  
+| bip_39_word_no_space_2 | bouncematch |  
+| bip_39_word_no_space_3 | bouncematchsibling |  
+| bip_39_word_no_space_4 | bouncematchsiblingclay |  
+| bip_39_word_no_space_5 | bouncematchsiblingclayboard |  
+| bip_39_word_no_space_6 | bouncematchsiblingclayboardspoil |  
+| bip_39_word_no_space_7 | bouncematchsiblingclayboardspoilweb |  
+| bip_39_word_no_space_8 | bouncematchsiblingclayboardspoilwebthank |  
+| bip_39_word_no_space_9 | bouncematchsiblingclayboardspoilwebthankdynamic |  
 | bip_39_word_space_0 | ['bounce', 'match', 'sibling', 'clay', 'board', 'spoil', 'web', 'thank', 'dynamic', 'general', 'sure', 'assume'] |  
 | bip_39_word_space_1 | bounce |  
 | bip_39_word_space_10 | bounce match sibling clay board spoil web thank dynamic general |  

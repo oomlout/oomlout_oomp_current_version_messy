@@ -122,6 +122,18 @@ lunar
 divide
 mirror
 host |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sidepupileasilyagerigidlunardividemirrorhostface |  
+| bip_39_word_no_space_11 | sidepupileasilyagerigidlunardividemirrorhostfaceloud |  
+| bip_39_word_no_space_12 | sidepupileasilyagerigidlunardividemirrorhostfaceloudangry |  
+| bip_39_word_no_space_2 | sidepupil |  
+| bip_39_word_no_space_3 | sidepupileasily |  
+| bip_39_word_no_space_4 | sidepupileasilyage |  
+| bip_39_word_no_space_5 | sidepupileasilyagerigid |  
+| bip_39_word_no_space_6 | sidepupileasilyagerigidlunar |  
+| bip_39_word_no_space_7 | sidepupileasilyagerigidlunardivide |  
+| bip_39_word_no_space_8 | sidepupileasilyagerigidlunardividemirror |  
+| bip_39_word_no_space_9 | sidepupileasilyagerigidlunardividemirrorhost |  
 | bip_39_word_space_0 | ['side', 'pupil', 'easily', 'age', 'rigid', 'lunar', 'divide', 'mirror', 'host', 'face', 'loud', 'angry'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side pupil easily age rigid lunar divide mirror host face |  

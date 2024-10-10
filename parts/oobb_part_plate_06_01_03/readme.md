@@ -109,6 +109,17 @@ dance
 friend
 right
 invite |  
+| bip_39_word_no_space_1 | various |  
+| bip_39_word_no_space_10 | variouswaitskullprovidemajordancefriendrightinvitetopic |  
+| bip_39_word_no_space_11 | variouswaitskullprovidemajordancefriendrightinvitetopicslow |  
+| bip_39_word_no_space_2 | variouswait |  
+| bip_39_word_no_space_3 | variouswaitskull |  
+| bip_39_word_no_space_4 | variouswaitskullprovide |  
+| bip_39_word_no_space_5 | variouswaitskullprovidemajor |  
+| bip_39_word_no_space_6 | variouswaitskullprovidemajordance |  
+| bip_39_word_no_space_7 | variouswaitskullprovidemajordancefriend |  
+| bip_39_word_no_space_8 | variouswaitskullprovidemajordancefriendright |  
+| bip_39_word_no_space_9 | variouswaitskullprovidemajordancefriendrightinvite |  
 | bip_39_word_space_0 | ['various', 'wait', 'skull', 'provide', 'major', 'dance', 'friend', 'right', 'invite', 'topic', 'slow'] |  
 | bip_39_word_space_1 | various |  
 | bip_39_word_space_10 | various wait skull provide major dance friend right invite topic |  

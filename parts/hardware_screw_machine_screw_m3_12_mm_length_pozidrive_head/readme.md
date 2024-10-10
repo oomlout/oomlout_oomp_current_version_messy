@@ -122,6 +122,18 @@ inner
 forget
 prison
 skill |  
+| bip_39_word_no_space_1 | kiss |  
+| bip_39_word_no_space_10 | kisssettletrulycasetopicinnerforgetprisonskillplanet |  
+| bip_39_word_no_space_11 | kisssettletrulycasetopicinnerforgetprisonskillplanetwool |  
+| bip_39_word_no_space_12 | kisssettletrulycasetopicinnerforgetprisonskillplanetwoolatom |  
+| bip_39_word_no_space_2 | kisssettle |  
+| bip_39_word_no_space_3 | kisssettletruly |  
+| bip_39_word_no_space_4 | kisssettletrulycase |  
+| bip_39_word_no_space_5 | kisssettletrulycasetopic |  
+| bip_39_word_no_space_6 | kisssettletrulycasetopicinner |  
+| bip_39_word_no_space_7 | kisssettletrulycasetopicinnerforget |  
+| bip_39_word_no_space_8 | kisssettletrulycasetopicinnerforgetprison |  
+| bip_39_word_no_space_9 | kisssettletrulycasetopicinnerforgetprisonskill |  
 | bip_39_word_space_0 | ['kiss', 'settle', 'truly', 'case', 'topic', 'inner', 'forget', 'prison', 'skill', 'planet', 'wool', 'atom'] |  
 | bip_39_word_space_1 | kiss |  
 | bip_39_word_space_10 | kiss settle truly case topic inner forget prison skill planet |  

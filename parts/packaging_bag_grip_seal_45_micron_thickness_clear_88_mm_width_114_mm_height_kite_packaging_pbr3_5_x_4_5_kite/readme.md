@@ -122,6 +122,18 @@ gold
 panda
 quarter
 post |  
+| bip_39_word_no_space_1 | oil |  
+| bip_39_word_no_space_10 | oilsetupstuffbreadwildgoldpandaquarterposttrophy |  
+| bip_39_word_no_space_11 | oilsetupstuffbreadwildgoldpandaquarterposttrophythis |  
+| bip_39_word_no_space_12 | oilsetupstuffbreadwildgoldpandaquarterposttrophythisangle |  
+| bip_39_word_no_space_2 | oilsetup |  
+| bip_39_word_no_space_3 | oilsetupstuff |  
+| bip_39_word_no_space_4 | oilsetupstuffbread |  
+| bip_39_word_no_space_5 | oilsetupstuffbreadwild |  
+| bip_39_word_no_space_6 | oilsetupstuffbreadwildgold |  
+| bip_39_word_no_space_7 | oilsetupstuffbreadwildgoldpanda |  
+| bip_39_word_no_space_8 | oilsetupstuffbreadwildgoldpandaquarter |  
+| bip_39_word_no_space_9 | oilsetupstuffbreadwildgoldpandaquarterpost |  
 | bip_39_word_space_0 | ['oil', 'setup', 'stuff', 'bread', 'wild', 'gold', 'panda', 'quarter', 'post', 'trophy', 'this', 'angle'] |  
 | bip_39_word_space_1 | oil |  
 | bip_39_word_space_10 | oil setup stuff bread wild gold panda quarter post trophy |  

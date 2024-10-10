@@ -122,6 +122,18 @@ situate
 dose
 exchange
 parrot |  
+| bip_39_word_no_space_1 | fatal |  
+| bip_39_word_no_space_10 | fatalmysteryspeakthumbmatrixsituatedoseexchangeparrotharbor |  
+| bip_39_word_no_space_11 | fatalmysteryspeakthumbmatrixsituatedoseexchangeparrotharborglobe |  
+| bip_39_word_no_space_12 | fatalmysteryspeakthumbmatrixsituatedoseexchangeparrotharborglobeauction |  
+| bip_39_word_no_space_2 | fatalmystery |  
+| bip_39_word_no_space_3 | fatalmysteryspeak |  
+| bip_39_word_no_space_4 | fatalmysteryspeakthumb |  
+| bip_39_word_no_space_5 | fatalmysteryspeakthumbmatrix |  
+| bip_39_word_no_space_6 | fatalmysteryspeakthumbmatrixsituate |  
+| bip_39_word_no_space_7 | fatalmysteryspeakthumbmatrixsituatedose |  
+| bip_39_word_no_space_8 | fatalmysteryspeakthumbmatrixsituatedoseexchange |  
+| bip_39_word_no_space_9 | fatalmysteryspeakthumbmatrixsituatedoseexchangeparrot |  
 | bip_39_word_space_0 | ['fatal', 'mystery', 'speak', 'thumb', 'matrix', 'situate', 'dose', 'exchange', 'parrot', 'harbor', 'globe', 'auction'] |  
 | bip_39_word_space_1 | fatal |  
 | bip_39_word_space_10 | fatal mystery speak thumb matrix situate dose exchange parrot harbor |  

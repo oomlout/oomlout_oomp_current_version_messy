@@ -122,6 +122,18 @@ width
 suspect
 food
 cloud |  
+| bip_39_word_no_space_1 | response |  
+| bip_39_word_no_space_10 | responsechangerecordoutputminimumwidthsuspectfoodclouddrama |  
+| bip_39_word_no_space_11 | responsechangerecordoutputminimumwidthsuspectfoodclouddramacome |  
+| bip_39_word_no_space_12 | responsechangerecordoutputminimumwidthsuspectfoodclouddramacomeantenna |  
+| bip_39_word_no_space_2 | responsechange |  
+| bip_39_word_no_space_3 | responsechangerecord |  
+| bip_39_word_no_space_4 | responsechangerecordoutput |  
+| bip_39_word_no_space_5 | responsechangerecordoutputminimum |  
+| bip_39_word_no_space_6 | responsechangerecordoutputminimumwidth |  
+| bip_39_word_no_space_7 | responsechangerecordoutputminimumwidthsuspect |  
+| bip_39_word_no_space_8 | responsechangerecordoutputminimumwidthsuspectfood |  
+| bip_39_word_no_space_9 | responsechangerecordoutputminimumwidthsuspectfoodcloud |  
 | bip_39_word_space_0 | ['response', 'change', 'record', 'output', 'minimum', 'width', 'suspect', 'food', 'cloud', 'drama', 'come', 'antenna'] |  
 | bip_39_word_space_1 | response |  
 | bip_39_word_space_10 | response change record output minimum width suspect food cloud drama |  

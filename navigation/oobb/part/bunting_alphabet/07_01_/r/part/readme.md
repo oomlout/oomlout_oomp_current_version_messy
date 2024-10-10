@@ -122,6 +122,18 @@ tunnel
 balance
 theory
 bulk |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directupperhorsejunkinputtunnelbalancetheorybulktimber |  
+| bip_39_word_no_space_11 | directupperhorsejunkinputtunnelbalancetheorybulktimbersolar |  
+| bip_39_word_no_space_12 | directupperhorsejunkinputtunnelbalancetheorybulktimbersolaranxiety |  
+| bip_39_word_no_space_2 | directupper |  
+| bip_39_word_no_space_3 | directupperhorse |  
+| bip_39_word_no_space_4 | directupperhorsejunk |  
+| bip_39_word_no_space_5 | directupperhorsejunkinput |  
+| bip_39_word_no_space_6 | directupperhorsejunkinputtunnel |  
+| bip_39_word_no_space_7 | directupperhorsejunkinputtunnelbalance |  
+| bip_39_word_no_space_8 | directupperhorsejunkinputtunnelbalancetheory |  
+| bip_39_word_no_space_9 | directupperhorsejunkinputtunnelbalancetheorybulk |  
 | bip_39_word_space_0 | ['direct', 'upper', 'horse', 'junk', 'input', 'tunnel', 'balance', 'theory', 'bulk', 'timber', 'solar', 'anxiety'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct upper horse junk input tunnel balance theory bulk timber |  

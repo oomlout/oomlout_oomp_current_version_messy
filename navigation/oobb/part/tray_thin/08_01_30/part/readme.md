@@ -122,6 +122,18 @@ cement
 bamboo
 chronic
 current |  
+| bip_39_word_no_space_1 | web |  
+| bip_39_word_no_space_10 | webwinacousticwillhurrycementbamboochroniccurrentcelery |  
+| bip_39_word_no_space_11 | webwinacousticwillhurrycementbamboochroniccurrentceleryready |  
+| bip_39_word_no_space_12 | webwinacousticwillhurrycementbamboochroniccurrentceleryreadyangry |  
+| bip_39_word_no_space_2 | webwin |  
+| bip_39_word_no_space_3 | webwinacoustic |  
+| bip_39_word_no_space_4 | webwinacousticwill |  
+| bip_39_word_no_space_5 | webwinacousticwillhurry |  
+| bip_39_word_no_space_6 | webwinacousticwillhurrycement |  
+| bip_39_word_no_space_7 | webwinacousticwillhurrycementbamboo |  
+| bip_39_word_no_space_8 | webwinacousticwillhurrycementbamboochronic |  
+| bip_39_word_no_space_9 | webwinacousticwillhurrycementbamboochroniccurrent |  
 | bip_39_word_space_0 | ['web', 'win', 'acoustic', 'will', 'hurry', 'cement', 'bamboo', 'chronic', 'current', 'celery', 'ready', 'angry'] |  
 | bip_39_word_space_1 | web |  
 | bip_39_word_space_10 | web win acoustic will hurry cement bamboo chronic current celery |  

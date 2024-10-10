@@ -122,6 +122,18 @@ bachelor
 into
 hurt
 horror |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announceaspectspawntopicstatebachelorintohurthorrorhappy |  
+| bip_39_word_no_space_11 | announceaspectspawntopicstatebachelorintohurthorrorhappynoodle |  
+| bip_39_word_no_space_12 | announceaspectspawntopicstatebachelorintohurthorrorhappynoodleabsorb |  
+| bip_39_word_no_space_2 | announceaspect |  
+| bip_39_word_no_space_3 | announceaspectspawn |  
+| bip_39_word_no_space_4 | announceaspectspawntopic |  
+| bip_39_word_no_space_5 | announceaspectspawntopicstate |  
+| bip_39_word_no_space_6 | announceaspectspawntopicstatebachelor |  
+| bip_39_word_no_space_7 | announceaspectspawntopicstatebachelorinto |  
+| bip_39_word_no_space_8 | announceaspectspawntopicstatebachelorintohurt |  
+| bip_39_word_no_space_9 | announceaspectspawntopicstatebachelorintohurthorror |  
 | bip_39_word_space_0 | ['announce', 'aspect', 'spawn', 'topic', 'state', 'bachelor', 'into', 'hurt', 'horror', 'happy', 'noodle', 'absorb'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce aspect spawn topic state bachelor into hurt horror happy |  

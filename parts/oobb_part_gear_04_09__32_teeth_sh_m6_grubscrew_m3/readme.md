@@ -122,6 +122,18 @@ slow
 define
 advance
 occur |  
+| bip_39_word_no_space_1 | cricket |  
+| bip_39_word_no_space_10 | crickethumbleuncovergrapegreenslowdefineadvanceoccuredge |  
+| bip_39_word_no_space_11 | crickethumbleuncovergrapegreenslowdefineadvanceoccuredgecorrect |  
+| bip_39_word_no_space_12 | crickethumbleuncovergrapegreenslowdefineadvanceoccuredgecorrectamateur |  
+| bip_39_word_no_space_2 | crickethumble |  
+| bip_39_word_no_space_3 | crickethumbleuncover |  
+| bip_39_word_no_space_4 | crickethumbleuncovergrape |  
+| bip_39_word_no_space_5 | crickethumbleuncovergrapegreen |  
+| bip_39_word_no_space_6 | crickethumbleuncovergrapegreenslow |  
+| bip_39_word_no_space_7 | crickethumbleuncovergrapegreenslowdefine |  
+| bip_39_word_no_space_8 | crickethumbleuncovergrapegreenslowdefineadvance |  
+| bip_39_word_no_space_9 | crickethumbleuncovergrapegreenslowdefineadvanceoccur |  
 | bip_39_word_space_0 | ['cricket', 'humble', 'uncover', 'grape', 'green', 'slow', 'define', 'advance', 'occur', 'edge', 'correct', 'amateur'] |  
 | bip_39_word_space_1 | cricket |  
 | bip_39_word_space_10 | cricket humble uncover grape green slow define advance occur edge |  

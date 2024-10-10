@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dish
   upper
 
   scissors'
+bip_39_word_no_space_1: dish
+bip_39_word_no_space_10: dishstairssisterempowermeangrantrenewupperscissorspause
+bip_39_word_no_space_11: dishstairssisterempowermeangrantrenewupperscissorspausedomain
+bip_39_word_no_space_12: dishstairssisterempowermeangrantrenewupperscissorspausedomainappear
+bip_39_word_no_space_2: dishstairs
+bip_39_word_no_space_3: dishstairssister
+bip_39_word_no_space_4: dishstairssisterempower
+bip_39_word_no_space_5: dishstairssisterempowermean
+bip_39_word_no_space_6: dishstairssisterempowermeangrant
+bip_39_word_no_space_7: dishstairssisterempowermeangrantrenew
+bip_39_word_no_space_8: dishstairssisterempowermeangrantrenewupper
+bip_39_word_no_space_9: dishstairssisterempowermeangrantrenewupperscissors
 bip_39_word_space_0:
 - dish
 - stairs

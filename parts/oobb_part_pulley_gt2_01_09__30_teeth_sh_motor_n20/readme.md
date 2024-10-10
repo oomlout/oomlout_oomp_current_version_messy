@@ -122,6 +122,18 @@ text
 duty
 rule
 awesome |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipseasonaspectdividejungletextdutyruleawesomefee |  
+| bip_39_word_no_space_11 | clipseasonaspectdividejungletextdutyruleawesomefeedemise |  
+| bip_39_word_no_space_12 | clipseasonaspectdividejungletextdutyruleawesomefeedemisearrow |  
+| bip_39_word_no_space_2 | clipseason |  
+| bip_39_word_no_space_3 | clipseasonaspect |  
+| bip_39_word_no_space_4 | clipseasonaspectdivide |  
+| bip_39_word_no_space_5 | clipseasonaspectdividejungle |  
+| bip_39_word_no_space_6 | clipseasonaspectdividejungletext |  
+| bip_39_word_no_space_7 | clipseasonaspectdividejungletextduty |  
+| bip_39_word_no_space_8 | clipseasonaspectdividejungletextdutyrule |  
+| bip_39_word_no_space_9 | clipseasonaspectdividejungletextdutyruleawesome |  
 | bip_39_word_space_0 | ['clip', 'season', 'aspect', 'divide', 'jungle', 'text', 'duty', 'rule', 'awesome', 'fee', 'demise', 'arrow'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip season aspect divide jungle text duty rule awesome fee |  

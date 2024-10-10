@@ -122,6 +122,18 @@ lounge
 glide
 hurry
 output |  
+| bip_39_word_no_space_1 | thunder |  
+| bip_39_word_no_space_10 | thunderpatchscareodororphanloungeglidehurryoutputboat |  
+| bip_39_word_no_space_11 | thunderpatchscareodororphanloungeglidehurryoutputboatinject |  
+| bip_39_word_no_space_12 | thunderpatchscareodororphanloungeglidehurryoutputboatinjectacoustic |  
+| bip_39_word_no_space_2 | thunderpatch |  
+| bip_39_word_no_space_3 | thunderpatchscare |  
+| bip_39_word_no_space_4 | thunderpatchscareodor |  
+| bip_39_word_no_space_5 | thunderpatchscareodororphan |  
+| bip_39_word_no_space_6 | thunderpatchscareodororphanlounge |  
+| bip_39_word_no_space_7 | thunderpatchscareodororphanloungeglide |  
+| bip_39_word_no_space_8 | thunderpatchscareodororphanloungeglidehurry |  
+| bip_39_word_no_space_9 | thunderpatchscareodororphanloungeglidehurryoutput |  
 | bip_39_word_space_0 | ['thunder', 'patch', 'scare', 'odor', 'orphan', 'lounge', 'glide', 'hurry', 'output', 'boat', 'inject', 'acoustic'] |  
 | bip_39_word_space_1 | thunder |  
 | bip_39_word_space_10 | thunder patch scare odor orphan lounge glide hurry output boat |  

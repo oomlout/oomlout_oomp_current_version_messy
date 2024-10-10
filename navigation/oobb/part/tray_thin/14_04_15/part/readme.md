@@ -122,6 +122,18 @@ outer
 ostrich
 review
 casino |  
+| bip_39_word_no_space_1 | involve |  
+| bip_39_word_no_space_10 | involvemultiplyspawntalentsuggestouterostrichreviewcasinogood |  
+| bip_39_word_no_space_11 | involvemultiplyspawntalentsuggestouterostrichreviewcasinogoodcause |  
+| bip_39_word_no_space_12 | involvemultiplyspawntalentsuggestouterostrichreviewcasinogoodcausealso |  
+| bip_39_word_no_space_2 | involvemultiply |  
+| bip_39_word_no_space_3 | involvemultiplyspawn |  
+| bip_39_word_no_space_4 | involvemultiplyspawntalent |  
+| bip_39_word_no_space_5 | involvemultiplyspawntalentsuggest |  
+| bip_39_word_no_space_6 | involvemultiplyspawntalentsuggestouter |  
+| bip_39_word_no_space_7 | involvemultiplyspawntalentsuggestouterostrich |  
+| bip_39_word_no_space_8 | involvemultiplyspawntalentsuggestouterostrichreview |  
+| bip_39_word_no_space_9 | involvemultiplyspawntalentsuggestouterostrichreviewcasino |  
 | bip_39_word_space_0 | ['involve', 'multiply', 'spawn', 'talent', 'suggest', 'outer', 'ostrich', 'review', 'casino', 'good', 'cause', 'also'] |  
 | bip_39_word_space_1 | involve |  
 | bip_39_word_space_10 | involve multiply spawn talent suggest outer ostrich review casino good |  

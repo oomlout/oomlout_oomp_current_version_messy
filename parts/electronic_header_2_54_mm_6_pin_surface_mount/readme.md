@@ -122,6 +122,18 @@ satoshi
 worth
 case
 evidence |  
+| bip_39_word_no_space_1 | street |  
+| bip_39_word_no_space_10 | streetphysicalkidneyvintagedrivesatoshiworthcaseevidencebomb |  
+| bip_39_word_no_space_11 | streetphysicalkidneyvintagedrivesatoshiworthcaseevidencebombjoke |  
+| bip_39_word_no_space_12 | streetphysicalkidneyvintagedrivesatoshiworthcaseevidencebombjokeanchor |  
+| bip_39_word_no_space_2 | streetphysical |  
+| bip_39_word_no_space_3 | streetphysicalkidney |  
+| bip_39_word_no_space_4 | streetphysicalkidneyvintage |  
+| bip_39_word_no_space_5 | streetphysicalkidneyvintagedrive |  
+| bip_39_word_no_space_6 | streetphysicalkidneyvintagedrivesatoshi |  
+| bip_39_word_no_space_7 | streetphysicalkidneyvintagedrivesatoshiworth |  
+| bip_39_word_no_space_8 | streetphysicalkidneyvintagedrivesatoshiworthcase |  
+| bip_39_word_no_space_9 | streetphysicalkidneyvintagedrivesatoshiworthcaseevidence |  
 | bip_39_word_space_0 | ['street', 'physical', 'kidney', 'vintage', 'drive', 'satoshi', 'worth', 'case', 'evidence', 'bomb', 'joke', 'anchor'] |  
 | bip_39_word_space_1 | street |  
 | bip_39_word_space_10 | street physical kidney vintage drive satoshi worth case evidence bomb |  

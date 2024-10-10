@@ -122,6 +122,18 @@ destroy
 eight
 water
 apart |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshtiprecipeimpactmilkdestroyeightwaterapartrule |  
+| bip_39_word_no_space_11 | freshtiprecipeimpactmilkdestroyeightwaterapartrulecactus |  
+| bip_39_word_no_space_12 | freshtiprecipeimpactmilkdestroyeightwaterapartrulecactusability |  
+| bip_39_word_no_space_2 | freshtip |  
+| bip_39_word_no_space_3 | freshtiprecipe |  
+| bip_39_word_no_space_4 | freshtiprecipeimpact |  
+| bip_39_word_no_space_5 | freshtiprecipeimpactmilk |  
+| bip_39_word_no_space_6 | freshtiprecipeimpactmilkdestroy |  
+| bip_39_word_no_space_7 | freshtiprecipeimpactmilkdestroyeight |  
+| bip_39_word_no_space_8 | freshtiprecipeimpactmilkdestroyeightwater |  
+| bip_39_word_no_space_9 | freshtiprecipeimpactmilkdestroyeightwaterapart |  
 | bip_39_word_space_0 | ['fresh', 'tip', 'recipe', 'impact', 'milk', 'destroy', 'eight', 'water', 'apart', 'rule', 'cactus', 'ability'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh tip recipe impact milk destroy eight water apart rule |  

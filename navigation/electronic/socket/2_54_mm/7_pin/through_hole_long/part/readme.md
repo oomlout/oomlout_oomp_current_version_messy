@@ -122,6 +122,18 @@ winter
 bench
 critic
 sudden |  
+| bip_39_word_no_space_1 | bacon |  
+| bip_39_word_no_space_10 | baconauditverifymansiondecreasewinterbenchcriticsuddenrich |  
+| bip_39_word_no_space_11 | baconauditverifymansiondecreasewinterbenchcriticsuddenrichdismiss |  
+| bip_39_word_no_space_12 | baconauditverifymansiondecreasewinterbenchcriticsuddenrichdismissassist |  
+| bip_39_word_no_space_2 | baconaudit |  
+| bip_39_word_no_space_3 | baconauditverify |  
+| bip_39_word_no_space_4 | baconauditverifymansion |  
+| bip_39_word_no_space_5 | baconauditverifymansiondecrease |  
+| bip_39_word_no_space_6 | baconauditverifymansiondecreasewinter |  
+| bip_39_word_no_space_7 | baconauditverifymansiondecreasewinterbench |  
+| bip_39_word_no_space_8 | baconauditverifymansiondecreasewinterbenchcritic |  
+| bip_39_word_no_space_9 | baconauditverifymansiondecreasewinterbenchcriticsudden |  
 | bip_39_word_space_0 | ['bacon', 'audit', 'verify', 'mansion', 'decrease', 'winter', 'bench', 'critic', 'sudden', 'rich', 'dismiss', 'assist'] |  
 | bip_39_word_space_1 | bacon |  
 | bip_39_word_space_10 | bacon audit verify mansion decrease winter bench critic sudden rich |  

@@ -122,6 +122,18 @@ angry
 idle
 ice
 forget |  
+| bip_39_word_no_space_1 | false |  
+| bip_39_word_no_space_10 | falsegowncherrylibrarydropangryidleiceforgetpupil |  
+| bip_39_word_no_space_11 | falsegowncherrylibrarydropangryidleiceforgetpupilfeed |  
+| bip_39_word_no_space_12 | falsegowncherrylibrarydropangryidleiceforgetpupilfeedafford |  
+| bip_39_word_no_space_2 | falsegown |  
+| bip_39_word_no_space_3 | falsegowncherry |  
+| bip_39_word_no_space_4 | falsegowncherrylibrary |  
+| bip_39_word_no_space_5 | falsegowncherrylibrarydrop |  
+| bip_39_word_no_space_6 | falsegowncherrylibrarydropangry |  
+| bip_39_word_no_space_7 | falsegowncherrylibrarydropangryidle |  
+| bip_39_word_no_space_8 | falsegowncherrylibrarydropangryidleice |  
+| bip_39_word_no_space_9 | falsegowncherrylibrarydropangryidleiceforget |  
 | bip_39_word_space_0 | ['false', 'gown', 'cherry', 'library', 'drop', 'angry', 'idle', 'ice', 'forget', 'pupil', 'feed', 'afford'] |  
 | bip_39_word_space_1 | false |  
 | bip_39_word_space_10 | false gown cherry library drop angry idle ice forget pupil |  

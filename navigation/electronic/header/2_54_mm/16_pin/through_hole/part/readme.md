@@ -122,6 +122,18 @@ pledge
 foam
 lab
 decade |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemeaddleaveshiftmobilepledgefoamlabdecadespray |  
+| bip_39_word_no_space_11 | schemeaddleaveshiftmobilepledgefoamlabdecadesprayelement |  
+| bip_39_word_no_space_12 | schemeaddleaveshiftmobilepledgefoamlabdecadesprayelementalert |  
+| bip_39_word_no_space_2 | schemeadd |  
+| bip_39_word_no_space_3 | schemeaddleave |  
+| bip_39_word_no_space_4 | schemeaddleaveshift |  
+| bip_39_word_no_space_5 | schemeaddleaveshiftmobile |  
+| bip_39_word_no_space_6 | schemeaddleaveshiftmobilepledge |  
+| bip_39_word_no_space_7 | schemeaddleaveshiftmobilepledgefoam |  
+| bip_39_word_no_space_8 | schemeaddleaveshiftmobilepledgefoamlab |  
+| bip_39_word_no_space_9 | schemeaddleaveshiftmobilepledgefoamlabdecade |  
 | bip_39_word_space_0 | ['scheme', 'add', 'leave', 'shift', 'mobile', 'pledge', 'foam', 'lab', 'decade', 'spray', 'element', 'alert'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme add leave shift mobile pledge foam lab decade spray |  

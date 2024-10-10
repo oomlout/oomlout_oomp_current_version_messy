@@ -122,6 +122,18 @@ horn
 rail
 useless
 proof |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmavendoroilinhalebindhornrailuselessproofderive |  
+| bip_39_word_no_space_11 | asthmavendoroilinhalebindhornrailuselessproofderivetoe |  
+| bip_39_word_no_space_12 | asthmavendoroilinhalebindhornrailuselessproofderivetoeabout |  
+| bip_39_word_no_space_2 | asthmavendor |  
+| bip_39_word_no_space_3 | asthmavendoroil |  
+| bip_39_word_no_space_4 | asthmavendoroilinhale |  
+| bip_39_word_no_space_5 | asthmavendoroilinhalebind |  
+| bip_39_word_no_space_6 | asthmavendoroilinhalebindhorn |  
+| bip_39_word_no_space_7 | asthmavendoroilinhalebindhornrail |  
+| bip_39_word_no_space_8 | asthmavendoroilinhalebindhornrailuseless |  
+| bip_39_word_no_space_9 | asthmavendoroilinhalebindhornrailuselessproof |  
 | bip_39_word_space_0 | ['asthma', 'vendor', 'oil', 'inhale', 'bind', 'horn', 'rail', 'useless', 'proof', 'derive', 'toe', 'about'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma vendor oil inhale bind horn rail useless proof derive |  

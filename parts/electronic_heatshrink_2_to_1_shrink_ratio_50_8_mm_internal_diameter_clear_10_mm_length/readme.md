@@ -122,6 +122,18 @@ umbrella
 census
 unfold
 cradle |  
+| bip_39_word_no_space_1 | topic |  
+| bip_39_word_no_space_10 | topicpicniclevelmoveexactumbrellacensusunfoldcradlerefuse |  
+| bip_39_word_no_space_11 | topicpicniclevelmoveexactumbrellacensusunfoldcradlerefuseantenna |  
+| bip_39_word_no_space_12 | topicpicniclevelmoveexactumbrellacensusunfoldcradlerefuseantennaadvice |  
+| bip_39_word_no_space_2 | topicpicnic |  
+| bip_39_word_no_space_3 | topicpicniclevel |  
+| bip_39_word_no_space_4 | topicpicniclevelmove |  
+| bip_39_word_no_space_5 | topicpicniclevelmoveexact |  
+| bip_39_word_no_space_6 | topicpicniclevelmoveexactumbrella |  
+| bip_39_word_no_space_7 | topicpicniclevelmoveexactumbrellacensus |  
+| bip_39_word_no_space_8 | topicpicniclevelmoveexactumbrellacensusunfold |  
+| bip_39_word_no_space_9 | topicpicniclevelmoveexactumbrellacensusunfoldcradle |  
 | bip_39_word_space_0 | ['topic', 'picnic', 'level', 'move', 'exact', 'umbrella', 'census', 'unfold', 'cradle', 'refuse', 'antenna', 'advice'] |  
 | bip_39_word_space_1 | topic |  
 | bip_39_word_space_10 | topic picnic level move exact umbrella census unfold cradle refuse |  

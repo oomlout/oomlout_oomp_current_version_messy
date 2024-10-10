@@ -122,6 +122,18 @@ dolphin
 typical
 much
 treat |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragicfoilskincartpositiondolphintypicalmuchtreatlittle |  
+| bip_39_word_no_space_11 | tragicfoilskincartpositiondolphintypicalmuchtreatlittleleg |  
+| bip_39_word_no_space_12 | tragicfoilskincartpositiondolphintypicalmuchtreatlittlelegarrange |  
+| bip_39_word_no_space_2 | tragicfoil |  
+| bip_39_word_no_space_3 | tragicfoilskin |  
+| bip_39_word_no_space_4 | tragicfoilskincart |  
+| bip_39_word_no_space_5 | tragicfoilskincartposition |  
+| bip_39_word_no_space_6 | tragicfoilskincartpositiondolphin |  
+| bip_39_word_no_space_7 | tragicfoilskincartpositiondolphintypical |  
+| bip_39_word_no_space_8 | tragicfoilskincartpositiondolphintypicalmuch |  
+| bip_39_word_no_space_9 | tragicfoilskincartpositiondolphintypicalmuchtreat |  
 | bip_39_word_space_0 | ['tragic', 'foil', 'skin', 'cart', 'position', 'dolphin', 'typical', 'much', 'treat', 'little', 'leg', 'arrange'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic foil skin cart position dolphin typical much treat little |  

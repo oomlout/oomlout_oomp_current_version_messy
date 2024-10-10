@@ -122,6 +122,18 @@ merit
 school
 mimic
 demise |  
+| bip_39_word_no_space_1 | sponsor |  
+| bip_39_word_no_space_10 | sponsorbreezeablereuniondirtmeritschoolmimicdemisetoss |  
+| bip_39_word_no_space_11 | sponsorbreezeablereuniondirtmeritschoolmimicdemisetosspledge |  
+| bip_39_word_no_space_12 | sponsorbreezeablereuniondirtmeritschoolmimicdemisetosspledgealways |  
+| bip_39_word_no_space_2 | sponsorbreeze |  
+| bip_39_word_no_space_3 | sponsorbreezeable |  
+| bip_39_word_no_space_4 | sponsorbreezeablereunion |  
+| bip_39_word_no_space_5 | sponsorbreezeablereuniondirt |  
+| bip_39_word_no_space_6 | sponsorbreezeablereuniondirtmerit |  
+| bip_39_word_no_space_7 | sponsorbreezeablereuniondirtmeritschool |  
+| bip_39_word_no_space_8 | sponsorbreezeablereuniondirtmeritschoolmimic |  
+| bip_39_word_no_space_9 | sponsorbreezeablereuniondirtmeritschoolmimicdemise |  
 | bip_39_word_space_0 | ['sponsor', 'breeze', 'able', 'reunion', 'dirt', 'merit', 'school', 'mimic', 'demise', 'toss', 'pledge', 'always'] |  
 | bip_39_word_space_1 | sponsor |  
 | bip_39_word_space_10 | sponsor breeze able reunion dirt merit school mimic demise toss |  

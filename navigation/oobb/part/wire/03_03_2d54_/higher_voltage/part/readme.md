@@ -122,6 +122,18 @@ knock
 lava
 hammer
 polar |  
+| bip_39_word_no_space_1 | focus |  
+| bip_39_word_no_space_10 | focusuniquedizzypyramidargueknocklavahammerpolarjudge |  
+| bip_39_word_no_space_11 | focusuniquedizzypyramidargueknocklavahammerpolarjudgefrozen |  
+| bip_39_word_no_space_12 | focusuniquedizzypyramidargueknocklavahammerpolarjudgefrozenasset |  
+| bip_39_word_no_space_2 | focusunique |  
+| bip_39_word_no_space_3 | focusuniquedizzy |  
+| bip_39_word_no_space_4 | focusuniquedizzypyramid |  
+| bip_39_word_no_space_5 | focusuniquedizzypyramidargue |  
+| bip_39_word_no_space_6 | focusuniquedizzypyramidargueknock |  
+| bip_39_word_no_space_7 | focusuniquedizzypyramidargueknocklava |  
+| bip_39_word_no_space_8 | focusuniquedizzypyramidargueknocklavahammer |  
+| bip_39_word_no_space_9 | focusuniquedizzypyramidargueknocklavahammerpolar |  
 | bip_39_word_space_0 | ['focus', 'unique', 'dizzy', 'pyramid', 'argue', 'knock', 'lava', 'hammer', 'polar', 'judge', 'frozen', 'asset'] |  
 | bip_39_word_space_1 | focus |  
 | bip_39_word_space_10 | focus unique dizzy pyramid argue knock lava hammer polar judge |  

@@ -122,6 +122,18 @@ nothing
 cake
 guitar
 wonder |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchcandycomeuniversealertnothingcakeguitarwondervolume |  
+| bip_39_word_no_space_11 | matchcandycomeuniversealertnothingcakeguitarwondervolumedose |  
+| bip_39_word_no_space_12 | matchcandycomeuniversealertnothingcakeguitarwondervolumedoseautumn |  
+| bip_39_word_no_space_2 | matchcandy |  
+| bip_39_word_no_space_3 | matchcandycome |  
+| bip_39_word_no_space_4 | matchcandycomeuniverse |  
+| bip_39_word_no_space_5 | matchcandycomeuniversealert |  
+| bip_39_word_no_space_6 | matchcandycomeuniversealertnothing |  
+| bip_39_word_no_space_7 | matchcandycomeuniversealertnothingcake |  
+| bip_39_word_no_space_8 | matchcandycomeuniversealertnothingcakeguitar |  
+| bip_39_word_no_space_9 | matchcandycomeuniversealertnothingcakeguitarwonder |  
 | bip_39_word_space_0 | ['match', 'candy', 'come', 'universe', 'alert', 'nothing', 'cake', 'guitar', 'wonder', 'volume', 'dose', 'autumn'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match candy come universe alert nothing cake guitar wonder volume |  

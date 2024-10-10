@@ -122,6 +122,18 @@ fold
 spider
 air
 guard |  
+| bip_39_word_no_space_1 | apart |  
+| bip_39_word_no_space_10 | apartflushminuteexcuserotatefoldspiderairguardscorpion |  
+| bip_39_word_no_space_11 | apartflushminuteexcuserotatefoldspiderairguardscorpionlounge |  
+| bip_39_word_no_space_12 | apartflushminuteexcuserotatefoldspiderairguardscorpionloungearch |  
+| bip_39_word_no_space_2 | apartflush |  
+| bip_39_word_no_space_3 | apartflushminute |  
+| bip_39_word_no_space_4 | apartflushminuteexcuse |  
+| bip_39_word_no_space_5 | apartflushminuteexcuserotate |  
+| bip_39_word_no_space_6 | apartflushminuteexcuserotatefold |  
+| bip_39_word_no_space_7 | apartflushminuteexcuserotatefoldspider |  
+| bip_39_word_no_space_8 | apartflushminuteexcuserotatefoldspiderair |  
+| bip_39_word_no_space_9 | apartflushminuteexcuserotatefoldspiderairguard |  
 | bip_39_word_space_0 | ['apart', 'flush', 'minute', 'excuse', 'rotate', 'fold', 'spider', 'air', 'guard', 'scorpion', 'lounge', 'arch'] |  
 | bip_39_word_space_1 | apart |  
 | bip_39_word_space_10 | apart flush minute excuse rotate fold spider air guard scorpion |  

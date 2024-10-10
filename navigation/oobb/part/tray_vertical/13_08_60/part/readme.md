@@ -122,6 +122,18 @@ voice
 pair
 quick
 baby |  
+| bip_39_word_no_space_1 | shock |  
+| bip_39_word_no_space_10 | shockspringloopenergycapablevoicepairquickbabysoda |  
+| bip_39_word_no_space_11 | shockspringloopenergycapablevoicepairquickbabysodabiology |  
+| bip_39_word_no_space_12 | shockspringloopenergycapablevoicepairquickbabysodabiologyantique |  
+| bip_39_word_no_space_2 | shockspring |  
+| bip_39_word_no_space_3 | shockspringloop |  
+| bip_39_word_no_space_4 | shockspringloopenergy |  
+| bip_39_word_no_space_5 | shockspringloopenergycapable |  
+| bip_39_word_no_space_6 | shockspringloopenergycapablevoice |  
+| bip_39_word_no_space_7 | shockspringloopenergycapablevoicepair |  
+| bip_39_word_no_space_8 | shockspringloopenergycapablevoicepairquick |  
+| bip_39_word_no_space_9 | shockspringloopenergycapablevoicepairquickbaby |  
 | bip_39_word_space_0 | ['shock', 'spring', 'loop', 'energy', 'capable', 'voice', 'pair', 'quick', 'baby', 'soda', 'biology', 'antique'] |  
 | bip_39_word_space_1 | shock |  
 | bip_39_word_space_10 | shock spring loop energy capable voice pair quick baby soda |  

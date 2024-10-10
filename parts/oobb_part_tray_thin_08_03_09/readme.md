@@ -122,6 +122,18 @@ hint
 bind
 grocery
 cause |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatfacultyshineflightbrickhintbindgrocerycausewing |  
+| bip_39_word_no_space_11 | boatfacultyshineflightbrickhintbindgrocerycausewingdove |  
+| bip_39_word_no_space_12 | boatfacultyshineflightbrickhintbindgrocerycausewingdoveapprove |  
+| bip_39_word_no_space_2 | boatfaculty |  
+| bip_39_word_no_space_3 | boatfacultyshine |  
+| bip_39_word_no_space_4 | boatfacultyshineflight |  
+| bip_39_word_no_space_5 | boatfacultyshineflightbrick |  
+| bip_39_word_no_space_6 | boatfacultyshineflightbrickhint |  
+| bip_39_word_no_space_7 | boatfacultyshineflightbrickhintbind |  
+| bip_39_word_no_space_8 | boatfacultyshineflightbrickhintbindgrocery |  
+| bip_39_word_no_space_9 | boatfacultyshineflightbrickhintbindgrocerycause |  
 | bip_39_word_space_0 | ['boat', 'faculty', 'shine', 'flight', 'brick', 'hint', 'bind', 'grocery', 'cause', 'wing', 'dove', 'approve'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat faculty shine flight brick hint bind grocery cause wing |  

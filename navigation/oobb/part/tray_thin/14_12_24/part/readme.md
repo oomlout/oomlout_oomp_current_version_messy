@@ -122,6 +122,18 @@ position
 science
 onion
 lens |  
+| bip_39_word_no_space_1 | upon |  
+| bip_39_word_no_space_10 | uponcarryoctoberoverborderpositionscienceonionlenstomorrow |  
+| bip_39_word_no_space_11 | uponcarryoctoberoverborderpositionscienceonionlenstomorrowtreat |  
+| bip_39_word_no_space_12 | uponcarryoctoberoverborderpositionscienceonionlenstomorrowtreatantenna |  
+| bip_39_word_no_space_2 | uponcarry |  
+| bip_39_word_no_space_3 | uponcarryoctober |  
+| bip_39_word_no_space_4 | uponcarryoctoberover |  
+| bip_39_word_no_space_5 | uponcarryoctoberoverborder |  
+| bip_39_word_no_space_6 | uponcarryoctoberoverborderposition |  
+| bip_39_word_no_space_7 | uponcarryoctoberoverborderpositionscience |  
+| bip_39_word_no_space_8 | uponcarryoctoberoverborderpositionscienceonion |  
+| bip_39_word_no_space_9 | uponcarryoctoberoverborderpositionscienceonionlens |  
 | bip_39_word_space_0 | ['upon', 'carry', 'october', 'over', 'border', 'position', 'science', 'onion', 'lens', 'tomorrow', 'treat', 'antenna'] |  
 | bip_39_word_space_1 | upon |  
 | bip_39_word_space_10 | upon carry october over border position science onion lens tomorrow |  

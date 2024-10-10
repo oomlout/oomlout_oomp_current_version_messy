@@ -122,6 +122,18 @@ hair
 transfer
 nut
 vacuum |  
+| bip_39_word_no_space_1 | waste |  
+| bip_39_word_no_space_10 | wastesuitcagevolumeshovehairtransfernutvacuumtraffic |  
+| bip_39_word_no_space_11 | wastesuitcagevolumeshovehairtransfernutvacuumtrafficnever |  
+| bip_39_word_no_space_12 | wastesuitcagevolumeshovehairtransfernutvacuumtrafficneveraddress |  
+| bip_39_word_no_space_2 | wastesuit |  
+| bip_39_word_no_space_3 | wastesuitcage |  
+| bip_39_word_no_space_4 | wastesuitcagevolume |  
+| bip_39_word_no_space_5 | wastesuitcagevolumeshove |  
+| bip_39_word_no_space_6 | wastesuitcagevolumeshovehair |  
+| bip_39_word_no_space_7 | wastesuitcagevolumeshovehairtransfer |  
+| bip_39_word_no_space_8 | wastesuitcagevolumeshovehairtransfernut |  
+| bip_39_word_no_space_9 | wastesuitcagevolumeshovehairtransfernutvacuum |  
 | bip_39_word_space_0 | ['waste', 'suit', 'cage', 'volume', 'shove', 'hair', 'transfer', 'nut', 'vacuum', 'traffic', 'never', 'address'] |  
 | bip_39_word_space_1 | waste |  
 | bip_39_word_space_10 | waste suit cage volume shove hair transfer nut vacuum traffic |  

@@ -122,6 +122,18 @@ walnut
 style
 write
 sign |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltcannonmiseryerodefogwalnutstylewritesigntask |  
+| bip_39_word_no_space_11 | meltcannonmiseryerodefogwalnutstylewritesigntaskfade |  
+| bip_39_word_no_space_12 | meltcannonmiseryerodefogwalnutstylewritesigntaskfadeafford |  
+| bip_39_word_no_space_2 | meltcannon |  
+| bip_39_word_no_space_3 | meltcannonmisery |  
+| bip_39_word_no_space_4 | meltcannonmiseryerode |  
+| bip_39_word_no_space_5 | meltcannonmiseryerodefog |  
+| bip_39_word_no_space_6 | meltcannonmiseryerodefogwalnut |  
+| bip_39_word_no_space_7 | meltcannonmiseryerodefogwalnutstyle |  
+| bip_39_word_no_space_8 | meltcannonmiseryerodefogwalnutstylewrite |  
+| bip_39_word_no_space_9 | meltcannonmiseryerodefogwalnutstylewritesign |  
 | bip_39_word_space_0 | ['melt', 'cannon', 'misery', 'erode', 'fog', 'walnut', 'style', 'write', 'sign', 'task', 'fade', 'afford'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt cannon misery erode fog walnut style write sign task |  

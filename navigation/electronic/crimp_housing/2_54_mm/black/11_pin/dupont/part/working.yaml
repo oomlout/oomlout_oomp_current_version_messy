@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'curious
   when
 
   sad'
+bip_39_word_no_space_1: curious
+bip_39_word_no_space_10: curioususualshallowcoconutabsurdframegirlwhensadmargin
+bip_39_word_no_space_11: curioususualshallowcoconutabsurdframegirlwhensadmargincrop
+bip_39_word_no_space_2: curioususual
+bip_39_word_no_space_3: curioususualshallow
+bip_39_word_no_space_4: curioususualshallowcoconut
+bip_39_word_no_space_5: curioususualshallowcoconutabsurd
+bip_39_word_no_space_6: curioususualshallowcoconutabsurdframe
+bip_39_word_no_space_7: curioususualshallowcoconutabsurdframegirl
+bip_39_word_no_space_8: curioususualshallowcoconutabsurdframegirlwhen
+bip_39_word_no_space_9: curioususualshallowcoconutabsurdframegirlwhensad
 bip_39_word_space_0:
 - curious
 - usual

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'install
   hawk
 
   service'
+bip_39_word_no_space_1: install
+bip_39_word_no_space_10: installpepperdraftbeltheadcomicnegativehawkservicesun
+bip_39_word_no_space_11: installpepperdraftbeltheadcomicnegativehawkservicesunerupt
+bip_39_word_no_space_12: installpepperdraftbeltheadcomicnegativehawkservicesuneruptahead
+bip_39_word_no_space_2: installpepper
+bip_39_word_no_space_3: installpepperdraft
+bip_39_word_no_space_4: installpepperdraftbelt
+bip_39_word_no_space_5: installpepperdraftbelthead
+bip_39_word_no_space_6: installpepperdraftbeltheadcomic
+bip_39_word_no_space_7: installpepperdraftbeltheadcomicnegative
+bip_39_word_no_space_8: installpepperdraftbeltheadcomicnegativehawk
+bip_39_word_no_space_9: installpepperdraftbeltheadcomicnegativehawkservice
 bip_39_word_space_0:
 - install
 - pepper

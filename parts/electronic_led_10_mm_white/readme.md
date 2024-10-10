@@ -122,6 +122,18 @@ movie
 admit
 north
 outer |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holeattacktotalelementloudmovieadmitnorthouterventure |  
+| bip_39_word_no_space_11 | holeattacktotalelementloudmovieadmitnorthouterventurehigh |  
+| bip_39_word_no_space_12 | holeattacktotalelementloudmovieadmitnorthouterventurehighaim |  
+| bip_39_word_no_space_2 | holeattack |  
+| bip_39_word_no_space_3 | holeattacktotal |  
+| bip_39_word_no_space_4 | holeattacktotalelement |  
+| bip_39_word_no_space_5 | holeattacktotalelementloud |  
+| bip_39_word_no_space_6 | holeattacktotalelementloudmovie |  
+| bip_39_word_no_space_7 | holeattacktotalelementloudmovieadmit |  
+| bip_39_word_no_space_8 | holeattacktotalelementloudmovieadmitnorth |  
+| bip_39_word_no_space_9 | holeattacktotalelementloudmovieadmitnorthouter |  
 | bip_39_word_space_0 | ['hole', 'attack', 'total', 'element', 'loud', 'movie', 'admit', 'north', 'outer', 'venture', 'high', 'aim'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole attack total element loud movie admit north outer venture |  

@@ -122,6 +122,18 @@ resource
 monitor
 system
 enhance |  
+| bip_39_word_no_space_1 | hand |  
+| bip_39_word_no_space_10 | handrugbeandrumshyresourcemonitorsystemenhancesustain |  
+| bip_39_word_no_space_11 | handrugbeandrumshyresourcemonitorsystemenhancesustainfather |  
+| bip_39_word_no_space_12 | handrugbeandrumshyresourcemonitorsystemenhancesustainfatheraddict |  
+| bip_39_word_no_space_2 | handrug |  
+| bip_39_word_no_space_3 | handrugbean |  
+| bip_39_word_no_space_4 | handrugbeandrum |  
+| bip_39_word_no_space_5 | handrugbeandrumshy |  
+| bip_39_word_no_space_6 | handrugbeandrumshyresource |  
+| bip_39_word_no_space_7 | handrugbeandrumshyresourcemonitor |  
+| bip_39_word_no_space_8 | handrugbeandrumshyresourcemonitorsystem |  
+| bip_39_word_no_space_9 | handrugbeandrumshyresourcemonitorsystemenhance |  
 | bip_39_word_space_0 | ['hand', 'rug', 'bean', 'drum', 'shy', 'resource', 'monitor', 'system', 'enhance', 'sustain', 'father', 'addict'] |  
 | bip_39_word_space_1 | hand |  
 | bip_39_word_space_10 | hand rug bean drum shy resource monitor system enhance sustain |  

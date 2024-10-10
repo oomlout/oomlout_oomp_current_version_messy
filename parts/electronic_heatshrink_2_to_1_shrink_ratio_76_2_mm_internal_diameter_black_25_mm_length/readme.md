@@ -122,6 +122,18 @@ spider
 brain
 force
 gentle |  
+| bip_39_word_no_space_1 | country |  
+| bip_39_word_no_space_10 | countryshineviolinfoodclinicspiderbrainforcegentlemiracle |  
+| bip_39_word_no_space_11 | countryshineviolinfoodclinicspiderbrainforcegentlemiraclecatch |  
+| bip_39_word_no_space_12 | countryshineviolinfoodclinicspiderbrainforcegentlemiraclecatchalarm |  
+| bip_39_word_no_space_2 | countryshine |  
+| bip_39_word_no_space_3 | countryshineviolin |  
+| bip_39_word_no_space_4 | countryshineviolinfood |  
+| bip_39_word_no_space_5 | countryshineviolinfoodclinic |  
+| bip_39_word_no_space_6 | countryshineviolinfoodclinicspider |  
+| bip_39_word_no_space_7 | countryshineviolinfoodclinicspiderbrain |  
+| bip_39_word_no_space_8 | countryshineviolinfoodclinicspiderbrainforce |  
+| bip_39_word_no_space_9 | countryshineviolinfoodclinicspiderbrainforcegentle |  
 | bip_39_word_space_0 | ['country', 'shine', 'violin', 'food', 'clinic', 'spider', 'brain', 'force', 'gentle', 'miracle', 'catch', 'alarm'] |  
 | bip_39_word_space_1 | country |  
 | bip_39_word_space_10 | country shine violin food clinic spider brain force gentle miracle |  

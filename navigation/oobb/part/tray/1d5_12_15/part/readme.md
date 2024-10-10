@@ -122,6 +122,18 @@ wood
 unlock
 range
 lens |  
+| bip_39_word_no_space_1 | genuine |  
+| bip_39_word_no_space_10 | genuinedonkeygarlicdecreasetaxiwoodunlockrangelensvintage |  
+| bip_39_word_no_space_11 | genuinedonkeygarlicdecreasetaxiwoodunlockrangelensvintageoak |  
+| bip_39_word_no_space_12 | genuinedonkeygarlicdecreasetaxiwoodunlockrangelensvintageoakauction |  
+| bip_39_word_no_space_2 | genuinedonkey |  
+| bip_39_word_no_space_3 | genuinedonkeygarlic |  
+| bip_39_word_no_space_4 | genuinedonkeygarlicdecrease |  
+| bip_39_word_no_space_5 | genuinedonkeygarlicdecreasetaxi |  
+| bip_39_word_no_space_6 | genuinedonkeygarlicdecreasetaxiwood |  
+| bip_39_word_no_space_7 | genuinedonkeygarlicdecreasetaxiwoodunlock |  
+| bip_39_word_no_space_8 | genuinedonkeygarlicdecreasetaxiwoodunlockrange |  
+| bip_39_word_no_space_9 | genuinedonkeygarlicdecreasetaxiwoodunlockrangelens |  
 | bip_39_word_space_0 | ['genuine', 'donkey', 'garlic', 'decrease', 'taxi', 'wood', 'unlock', 'range', 'lens', 'vintage', 'oak', 'auction'] |  
 | bip_39_word_space_1 | genuine |  
 | bip_39_word_space_10 | genuine donkey garlic decrease taxi wood unlock range lens vintage |  

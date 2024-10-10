@@ -122,6 +122,18 @@ inmate
 spread
 border
 hero |  
+| bip_39_word_no_space_1 | guard |  
+| bip_39_word_no_space_10 | guardbidbrokenweatherskillinmatespreadborderheropole |  
+| bip_39_word_no_space_11 | guardbidbrokenweatherskillinmatespreadborderheropoleharsh |  
+| bip_39_word_no_space_12 | guardbidbrokenweatherskillinmatespreadborderheropoleharshathlete |  
+| bip_39_word_no_space_2 | guardbid |  
+| bip_39_word_no_space_3 | guardbidbroken |  
+| bip_39_word_no_space_4 | guardbidbrokenweather |  
+| bip_39_word_no_space_5 | guardbidbrokenweatherskill |  
+| bip_39_word_no_space_6 | guardbidbrokenweatherskillinmate |  
+| bip_39_word_no_space_7 | guardbidbrokenweatherskillinmatespread |  
+| bip_39_word_no_space_8 | guardbidbrokenweatherskillinmatespreadborder |  
+| bip_39_word_no_space_9 | guardbidbrokenweatherskillinmatespreadborderhero |  
 | bip_39_word_space_0 | ['guard', 'bid', 'broken', 'weather', 'skill', 'inmate', 'spread', 'border', 'hero', 'pole', 'harsh', 'athlete'] |  
 | bip_39_word_space_1 | guard |  
 | bip_39_word_space_10 | guard bid broken weather skill inmate spread border hero pole |  

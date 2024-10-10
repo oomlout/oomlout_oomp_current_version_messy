@@ -122,6 +122,18 @@ verb
 life
 air
 wealth |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroomcoolgymrightcalmverblifeairwealthcredit |  
+| bip_39_word_no_space_11 | mushroomcoolgymrightcalmverblifeairwealthcreditlarge |  
+| bip_39_word_no_space_12 | mushroomcoolgymrightcalmverblifeairwealthcreditlargeamazing |  
+| bip_39_word_no_space_2 | mushroomcool |  
+| bip_39_word_no_space_3 | mushroomcoolgym |  
+| bip_39_word_no_space_4 | mushroomcoolgymright |  
+| bip_39_word_no_space_5 | mushroomcoolgymrightcalm |  
+| bip_39_word_no_space_6 | mushroomcoolgymrightcalmverb |  
+| bip_39_word_no_space_7 | mushroomcoolgymrightcalmverblife |  
+| bip_39_word_no_space_8 | mushroomcoolgymrightcalmverblifeair |  
+| bip_39_word_no_space_9 | mushroomcoolgymrightcalmverblifeairwealth |  
 | bip_39_word_space_0 | ['mushroom', 'cool', 'gym', 'right', 'calm', 'verb', 'life', 'air', 'wealth', 'credit', 'large', 'amazing'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom cool gym right calm verb life air wealth credit |  

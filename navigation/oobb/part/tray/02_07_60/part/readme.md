@@ -122,6 +122,18 @@ length
 square
 sustain
 family |  
+| bip_39_word_no_space_1 | thing |  
+| bip_39_word_no_space_10 | thingshortdropgracewildlengthsquaresustainfamilyinsane |  
+| bip_39_word_no_space_11 | thingshortdropgracewildlengthsquaresustainfamilyinsaneobscure |  
+| bip_39_word_no_space_12 | thingshortdropgracewildlengthsquaresustainfamilyinsaneobscureannounce |  
+| bip_39_word_no_space_2 | thingshort |  
+| bip_39_word_no_space_3 | thingshortdrop |  
+| bip_39_word_no_space_4 | thingshortdropgrace |  
+| bip_39_word_no_space_5 | thingshortdropgracewild |  
+| bip_39_word_no_space_6 | thingshortdropgracewildlength |  
+| bip_39_word_no_space_7 | thingshortdropgracewildlengthsquare |  
+| bip_39_word_no_space_8 | thingshortdropgracewildlengthsquaresustain |  
+| bip_39_word_no_space_9 | thingshortdropgracewildlengthsquaresustainfamily |  
 | bip_39_word_space_0 | ['thing', 'short', 'drop', 'grace', 'wild', 'length', 'square', 'sustain', 'family', 'insane', 'obscure', 'announce'] |  
 | bip_39_word_space_1 | thing |  
 | bip_39_word_space_10 | thing short drop grace wild length square sustain family insane |  

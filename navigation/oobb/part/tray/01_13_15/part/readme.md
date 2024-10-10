@@ -122,6 +122,18 @@ level
 junk
 orbit
 win |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resembledripmaidbuzzmotorleveljunkorbitwinbone |  
+| bip_39_word_no_space_11 | resembledripmaidbuzzmotorleveljunkorbitwinbonebox |  
+| bip_39_word_no_space_12 | resembledripmaidbuzzmotorleveljunkorbitwinboneboxabsent |  
+| bip_39_word_no_space_2 | resembledrip |  
+| bip_39_word_no_space_3 | resembledripmaid |  
+| bip_39_word_no_space_4 | resembledripmaidbuzz |  
+| bip_39_word_no_space_5 | resembledripmaidbuzzmotor |  
+| bip_39_word_no_space_6 | resembledripmaidbuzzmotorlevel |  
+| bip_39_word_no_space_7 | resembledripmaidbuzzmotorleveljunk |  
+| bip_39_word_no_space_8 | resembledripmaidbuzzmotorleveljunkorbit |  
+| bip_39_word_no_space_9 | resembledripmaidbuzzmotorleveljunkorbitwin |  
 | bip_39_word_space_0 | ['resemble', 'drip', 'maid', 'buzz', 'motor', 'level', 'junk', 'orbit', 'win', 'bone', 'box', 'absent'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble drip maid buzz motor level junk orbit win bone |  

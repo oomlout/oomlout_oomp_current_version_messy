@@ -122,6 +122,18 @@ virtual
 denial
 broken
 churn |  
+| bip_39_word_no_space_1 | sunny |  
+| bip_39_word_no_space_10 | sunnyeggbuildelephantmissvirtualdenialbrokenchurnnothing |  
+| bip_39_word_no_space_11 | sunnyeggbuildelephantmissvirtualdenialbrokenchurnnothinglab |  
+| bip_39_word_no_space_12 | sunnyeggbuildelephantmissvirtualdenialbrokenchurnnothinglabathlete |  
+| bip_39_word_no_space_2 | sunnyegg |  
+| bip_39_word_no_space_3 | sunnyeggbuild |  
+| bip_39_word_no_space_4 | sunnyeggbuildelephant |  
+| bip_39_word_no_space_5 | sunnyeggbuildelephantmiss |  
+| bip_39_word_no_space_6 | sunnyeggbuildelephantmissvirtual |  
+| bip_39_word_no_space_7 | sunnyeggbuildelephantmissvirtualdenial |  
+| bip_39_word_no_space_8 | sunnyeggbuildelephantmissvirtualdenialbroken |  
+| bip_39_word_no_space_9 | sunnyeggbuildelephantmissvirtualdenialbrokenchurn |  
 | bip_39_word_space_0 | ['sunny', 'egg', 'build', 'elephant', 'miss', 'virtual', 'denial', 'broken', 'churn', 'nothing', 'lab', 'athlete'] |  
 | bip_39_word_space_1 | sunny |  
 | bip_39_word_space_10 | sunny egg build elephant miss virtual denial broken churn nothing |  

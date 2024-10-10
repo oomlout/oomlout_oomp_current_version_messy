@@ -124,6 +124,18 @@ gas
 color
 young
 monitor |  
+| bip_39_word_no_space_1 | merit |  
+| bip_39_word_no_space_10 | meritsponsornephewvendorbenchgascoloryoungmonitorturkey |  
+| bip_39_word_no_space_11 | meritsponsornephewvendorbenchgascoloryoungmonitorturkeysalon |  
+| bip_39_word_no_space_12 | meritsponsornephewvendorbenchgascoloryoungmonitorturkeysalonattitude |  
+| bip_39_word_no_space_2 | meritsponsor |  
+| bip_39_word_no_space_3 | meritsponsornephew |  
+| bip_39_word_no_space_4 | meritsponsornephewvendor |  
+| bip_39_word_no_space_5 | meritsponsornephewvendorbench |  
+| bip_39_word_no_space_6 | meritsponsornephewvendorbenchgas |  
+| bip_39_word_no_space_7 | meritsponsornephewvendorbenchgascolor |  
+| bip_39_word_no_space_8 | meritsponsornephewvendorbenchgascoloryoung |  
+| bip_39_word_no_space_9 | meritsponsornephewvendorbenchgascoloryoungmonitor |  
 | bip_39_word_space_0 | ['merit', 'sponsor', 'nephew', 'vendor', 'bench', 'gas', 'color', 'young', 'monitor', 'turkey', 'salon', 'attitude'] |  
 | bip_39_word_space_1 | merit |  
 | bip_39_word_space_10 | merit sponsor nephew vendor bench gas color young monitor turkey |  

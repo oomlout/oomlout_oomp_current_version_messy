@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wasp
   seek
 
   artefact'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspbuddyvisaseniorgluegiftpossibleseekartefactinclude
+bip_39_word_no_space_11: waspbuddyvisaseniorgluegiftpossibleseekartefactincludepony
+bip_39_word_no_space_12: waspbuddyvisaseniorgluegiftpossibleseekartefactincludeponyalley
+bip_39_word_no_space_2: waspbuddy
+bip_39_word_no_space_3: waspbuddyvisa
+bip_39_word_no_space_4: waspbuddyvisasenior
+bip_39_word_no_space_5: waspbuddyvisaseniorglue
+bip_39_word_no_space_6: waspbuddyvisaseniorgluegift
+bip_39_word_no_space_7: waspbuddyvisaseniorgluegiftpossible
+bip_39_word_no_space_8: waspbuddyvisaseniorgluegiftpossibleseek
+bip_39_word_no_space_9: waspbuddyvisaseniorgluegiftpossibleseekartefact
 bip_39_word_space_0:
 - wasp
 - buddy

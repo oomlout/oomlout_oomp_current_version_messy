@@ -122,6 +122,18 @@ ivory
 smoke
 hero
 juice |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deerregularrivalblackincomeivorysmokeherojuicecash |  
+| bip_39_word_no_space_11 | deerregularrivalblackincomeivorysmokeherojuicecashorder |  
+| bip_39_word_no_space_12 | deerregularrivalblackincomeivorysmokeherojuicecashorderavocado |  
+| bip_39_word_no_space_2 | deerregular |  
+| bip_39_word_no_space_3 | deerregularrival |  
+| bip_39_word_no_space_4 | deerregularrivalblack |  
+| bip_39_word_no_space_5 | deerregularrivalblackincome |  
+| bip_39_word_no_space_6 | deerregularrivalblackincomeivory |  
+| bip_39_word_no_space_7 | deerregularrivalblackincomeivorysmoke |  
+| bip_39_word_no_space_8 | deerregularrivalblackincomeivorysmokehero |  
+| bip_39_word_no_space_9 | deerregularrivalblackincomeivorysmokeherojuice |  
 | bip_39_word_space_0 | ['deer', 'regular', 'rival', 'black', 'income', 'ivory', 'smoke', 'hero', 'juice', 'cash', 'order', 'avocado'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer regular rival black income ivory smoke hero juice cash |  

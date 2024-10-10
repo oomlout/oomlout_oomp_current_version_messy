@@ -122,6 +122,18 @@ pudding
 toast
 entry
 day |  
+| bip_39_word_no_space_1 | drive |  
+| bip_39_word_no_space_10 | drivelaughareafocuscinnamonpuddingtoastentrydayslow |  
+| bip_39_word_no_space_11 | drivelaughareafocuscinnamonpuddingtoastentrydayslowfloor |  
+| bip_39_word_no_space_12 | drivelaughareafocuscinnamonpuddingtoastentrydayslowfloorapprove |  
+| bip_39_word_no_space_2 | drivelaugh |  
+| bip_39_word_no_space_3 | drivelaugharea |  
+| bip_39_word_no_space_4 | drivelaughareafocus |  
+| bip_39_word_no_space_5 | drivelaughareafocuscinnamon |  
+| bip_39_word_no_space_6 | drivelaughareafocuscinnamonpudding |  
+| bip_39_word_no_space_7 | drivelaughareafocuscinnamonpuddingtoast |  
+| bip_39_word_no_space_8 | drivelaughareafocuscinnamonpuddingtoastentry |  
+| bip_39_word_no_space_9 | drivelaughareafocuscinnamonpuddingtoastentryday |  
 | bip_39_word_space_0 | ['drive', 'laugh', 'area', 'focus', 'cinnamon', 'pudding', 'toast', 'entry', 'day', 'slow', 'floor', 'approve'] |  
 | bip_39_word_space_1 | drive |  
 | bip_39_word_space_10 | drive laugh area focus cinnamon pudding toast entry day slow |  

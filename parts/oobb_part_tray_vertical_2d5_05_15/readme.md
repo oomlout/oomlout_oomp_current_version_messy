@@ -122,6 +122,18 @@ fork
 spare
 dynamic
 awesome |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legglasspauseeaglehistoryforksparedynamicawesometopic |  
+| bip_39_word_no_space_11 | legglasspauseeaglehistoryforksparedynamicawesometopicfork |  
+| bip_39_word_no_space_12 | legglasspauseeaglehistoryforksparedynamicawesometopicforkancient |  
+| bip_39_word_no_space_2 | legglass |  
+| bip_39_word_no_space_3 | legglasspause |  
+| bip_39_word_no_space_4 | legglasspauseeagle |  
+| bip_39_word_no_space_5 | legglasspauseeaglehistory |  
+| bip_39_word_no_space_6 | legglasspauseeaglehistoryfork |  
+| bip_39_word_no_space_7 | legglasspauseeaglehistoryforkspare |  
+| bip_39_word_no_space_8 | legglasspauseeaglehistoryforksparedynamic |  
+| bip_39_word_no_space_9 | legglasspauseeaglehistoryforksparedynamicawesome |  
 | bip_39_word_space_0 | ['leg', 'glass', 'pause', 'eagle', 'history', 'fork', 'spare', 'dynamic', 'awesome', 'topic', 'fork', 'ancient'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg glass pause eagle history fork spare dynamic awesome topic |  

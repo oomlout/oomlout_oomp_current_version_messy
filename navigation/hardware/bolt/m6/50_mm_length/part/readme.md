@@ -122,6 +122,18 @@ clip
 success
 bacon
 rate |  
+| bip_39_word_no_space_1 | leopard |  
+| bip_39_word_no_space_10 | leopardcargorunoccurcrystalclipsuccessbaconratecompany |  
+| bip_39_word_no_space_11 | leopardcargorunoccurcrystalclipsuccessbaconratecompanybirth |  
+| bip_39_word_no_space_12 | leopardcargorunoccurcrystalclipsuccessbaconratecompanybirthapprove |  
+| bip_39_word_no_space_2 | leopardcargo |  
+| bip_39_word_no_space_3 | leopardcargorun |  
+| bip_39_word_no_space_4 | leopardcargorunoccur |  
+| bip_39_word_no_space_5 | leopardcargorunoccurcrystal |  
+| bip_39_word_no_space_6 | leopardcargorunoccurcrystalclip |  
+| bip_39_word_no_space_7 | leopardcargorunoccurcrystalclipsuccess |  
+| bip_39_word_no_space_8 | leopardcargorunoccurcrystalclipsuccessbacon |  
+| bip_39_word_no_space_9 | leopardcargorunoccurcrystalclipsuccessbaconrate |  
 | bip_39_word_space_0 | ['leopard', 'cargo', 'run', 'occur', 'crystal', 'clip', 'success', 'bacon', 'rate', 'company', 'birth', 'approve'] |  
 | bip_39_word_space_1 | leopard |  
 | bip_39_word_space_10 | leopard cargo run occur crystal clip success bacon rate company |  

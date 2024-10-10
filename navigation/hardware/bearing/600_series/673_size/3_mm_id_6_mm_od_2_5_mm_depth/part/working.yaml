@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gun
   east
 
   blanket'
+bip_39_word_no_space_1: gun
+bip_39_word_no_space_10: gunspherelongdilemmashipsufferpulpeastblanketmargin
+bip_39_word_no_space_11: gunspherelongdilemmashipsufferpulpeastblanketmarginrice
+bip_39_word_no_space_12: gunspherelongdilemmashipsufferpulpeastblanketmarginriceatom
+bip_39_word_no_space_2: gunsphere
+bip_39_word_no_space_3: gunspherelong
+bip_39_word_no_space_4: gunspherelongdilemma
+bip_39_word_no_space_5: gunspherelongdilemmaship
+bip_39_word_no_space_6: gunspherelongdilemmashipsuffer
+bip_39_word_no_space_7: gunspherelongdilemmashipsufferpulp
+bip_39_word_no_space_8: gunspherelongdilemmashipsufferpulpeast
+bip_39_word_no_space_9: gunspherelongdilemmashipsufferpulpeastblanket
 bip_39_word_space_0:
 - gun
 - sphere

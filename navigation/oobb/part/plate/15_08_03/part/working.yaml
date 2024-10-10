@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'decorate
   tattoo
 
   drift'
+bip_39_word_no_space_1: decorate
+bip_39_word_no_space_10: decoratelayerfogglimpseenemygazewalktattoodriftcrisp
+bip_39_word_no_space_11: decoratelayerfogglimpseenemygazewalktattoodriftcrispsqueeze
+bip_39_word_no_space_12: decoratelayerfogglimpseenemygazewalktattoodriftcrispsqueezeabstract
+bip_39_word_no_space_2: decoratelayer
+bip_39_word_no_space_3: decoratelayerfog
+bip_39_word_no_space_4: decoratelayerfogglimpse
+bip_39_word_no_space_5: decoratelayerfogglimpseenemy
+bip_39_word_no_space_6: decoratelayerfogglimpseenemygaze
+bip_39_word_no_space_7: decoratelayerfogglimpseenemygazewalk
+bip_39_word_no_space_8: decoratelayerfogglimpseenemygazewalktattoo
+bip_39_word_no_space_9: decoratelayerfogglimpseenemygazewalktattoodrift
 bip_39_word_space_0:
 - decorate
 - layer

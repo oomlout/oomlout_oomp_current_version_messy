@@ -122,6 +122,18 @@ dentist
 must
 because
 talent |  
+| bip_39_word_no_space_1 | search |  
+| bip_39_word_no_space_10 | searchcuriousprovidenoticecrimedentistmustbecausetalentacid |  
+| bip_39_word_no_space_11 | searchcuriousprovidenoticecrimedentistmustbecausetalentacidelse |  
+| bip_39_word_no_space_12 | searchcuriousprovidenoticecrimedentistmustbecausetalentacidelseamong |  
+| bip_39_word_no_space_2 | searchcurious |  
+| bip_39_word_no_space_3 | searchcuriousprovide |  
+| bip_39_word_no_space_4 | searchcuriousprovidenotice |  
+| bip_39_word_no_space_5 | searchcuriousprovidenoticecrime |  
+| bip_39_word_no_space_6 | searchcuriousprovidenoticecrimedentist |  
+| bip_39_word_no_space_7 | searchcuriousprovidenoticecrimedentistmust |  
+| bip_39_word_no_space_8 | searchcuriousprovidenoticecrimedentistmustbecause |  
+| bip_39_word_no_space_9 | searchcuriousprovidenoticecrimedentistmustbecausetalent |  
 | bip_39_word_space_0 | ['search', 'curious', 'provide', 'notice', 'crime', 'dentist', 'must', 'because', 'talent', 'acid', 'else', 'among'] |  
 | bip_39_word_space_1 | search |  
 | bip_39_word_space_10 | search curious provide notice crime dentist must because talent acid |  

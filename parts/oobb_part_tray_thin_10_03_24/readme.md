@@ -122,6 +122,18 @@ shallow
 excite
 convince
 arrow |  
+| bip_39_word_no_space_1 | theme |  
+| bip_39_word_no_space_10 | themesolvedemandbasecategoryshallowexciteconvincearrowgas |  
+| bip_39_word_no_space_11 | themesolvedemandbasecategoryshallowexciteconvincearrowgasbundle |  
+| bip_39_word_no_space_12 | themesolvedemandbasecategoryshallowexciteconvincearrowgasbundleanimal |  
+| bip_39_word_no_space_2 | themesolve |  
+| bip_39_word_no_space_3 | themesolvedemand |  
+| bip_39_word_no_space_4 | themesolvedemandbase |  
+| bip_39_word_no_space_5 | themesolvedemandbasecategory |  
+| bip_39_word_no_space_6 | themesolvedemandbasecategoryshallow |  
+| bip_39_word_no_space_7 | themesolvedemandbasecategoryshallowexcite |  
+| bip_39_word_no_space_8 | themesolvedemandbasecategoryshallowexciteconvince |  
+| bip_39_word_no_space_9 | themesolvedemandbasecategoryshallowexciteconvincearrow |  
 | bip_39_word_space_0 | ['theme', 'solve', 'demand', 'base', 'category', 'shallow', 'excite', 'convince', 'arrow', 'gas', 'bundle', 'animal'] |  
 | bip_39_word_space_1 | theme |  
 | bip_39_word_space_10 | theme solve demand base category shallow excite convince arrow gas |  

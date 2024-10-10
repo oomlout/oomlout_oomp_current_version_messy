@@ -122,6 +122,18 @@ dolphin
 conduct
 element
 cloth |  
+| bip_39_word_no_space_1 | pair |  
+| bip_39_word_no_space_10 | pairbudgetclarifyswapexecutedolphinconductelementclothmaze |  
+| bip_39_word_no_space_11 | pairbudgetclarifyswapexecutedolphinconductelementclothmazepill |  
+| bip_39_word_no_space_12 | pairbudgetclarifyswapexecutedolphinconductelementclothmazepillarm |  
+| bip_39_word_no_space_2 | pairbudget |  
+| bip_39_word_no_space_3 | pairbudgetclarify |  
+| bip_39_word_no_space_4 | pairbudgetclarifyswap |  
+| bip_39_word_no_space_5 | pairbudgetclarifyswapexecute |  
+| bip_39_word_no_space_6 | pairbudgetclarifyswapexecutedolphin |  
+| bip_39_word_no_space_7 | pairbudgetclarifyswapexecutedolphinconduct |  
+| bip_39_word_no_space_8 | pairbudgetclarifyswapexecutedolphinconductelement |  
+| bip_39_word_no_space_9 | pairbudgetclarifyswapexecutedolphinconductelementcloth |  
 | bip_39_word_space_0 | ['pair', 'budget', 'clarify', 'swap', 'execute', 'dolphin', 'conduct', 'element', 'cloth', 'maze', 'pill', 'arm'] |  
 | bip_39_word_space_1 | pair |  
 | bip_39_word_space_10 | pair budget clarify swap execute dolphin conduct element cloth maze |  

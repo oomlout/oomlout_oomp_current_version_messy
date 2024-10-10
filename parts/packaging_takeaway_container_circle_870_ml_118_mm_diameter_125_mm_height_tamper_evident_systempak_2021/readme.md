@@ -122,6 +122,18 @@ spring
 poverty
 grunt
 cat |  
+| bip_39_word_no_space_1 | cream |  
+| bip_39_word_no_space_10 | creamfocusvalleypitchthankspringpovertygruntcatsausage |  
+| bip_39_word_no_space_11 | creamfocusvalleypitchthankspringpovertygruntcatsausagetape |  
+| bip_39_word_no_space_12 | creamfocusvalleypitchthankspringpovertygruntcatsausagetapeafraid |  
+| bip_39_word_no_space_2 | creamfocus |  
+| bip_39_word_no_space_3 | creamfocusvalley |  
+| bip_39_word_no_space_4 | creamfocusvalleypitch |  
+| bip_39_word_no_space_5 | creamfocusvalleypitchthank |  
+| bip_39_word_no_space_6 | creamfocusvalleypitchthankspring |  
+| bip_39_word_no_space_7 | creamfocusvalleypitchthankspringpoverty |  
+| bip_39_word_no_space_8 | creamfocusvalleypitchthankspringpovertygrunt |  
+| bip_39_word_no_space_9 | creamfocusvalleypitchthankspringpovertygruntcat |  
 | bip_39_word_space_0 | ['cream', 'focus', 'valley', 'pitch', 'thank', 'spring', 'poverty', 'grunt', 'cat', 'sausage', 'tape', 'afraid'] |  
 | bip_39_word_space_1 | cream |  
 | bip_39_word_space_10 | cream focus valley pitch thank spring poverty grunt cat sausage |  

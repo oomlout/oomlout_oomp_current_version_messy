@@ -122,6 +122,18 @@ youth
 net
 endorse
 deny |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wronglengthstairschefwalkyouthnetendorsedenyhip |  
+| bip_39_word_no_space_11 | wronglengthstairschefwalkyouthnetendorsedenyhiphealth |  
+| bip_39_word_no_space_12 | wronglengthstairschefwalkyouthnetendorsedenyhiphealthartwork |  
+| bip_39_word_no_space_2 | wronglength |  
+| bip_39_word_no_space_3 | wronglengthstairs |  
+| bip_39_word_no_space_4 | wronglengthstairschef |  
+| bip_39_word_no_space_5 | wronglengthstairschefwalk |  
+| bip_39_word_no_space_6 | wronglengthstairschefwalkyouth |  
+| bip_39_word_no_space_7 | wronglengthstairschefwalkyouthnet |  
+| bip_39_word_no_space_8 | wronglengthstairschefwalkyouthnetendorse |  
+| bip_39_word_no_space_9 | wronglengthstairschefwalkyouthnetendorsedeny |  
 | bip_39_word_space_0 | ['wrong', 'length', 'stairs', 'chef', 'walk', 'youth', 'net', 'endorse', 'deny', 'hip', 'health', 'artwork'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong length stairs chef walk youth net endorse deny hip |  

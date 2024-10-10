@@ -122,6 +122,18 @@ artist
 sketch
 response
 employ |  
+| bip_39_word_no_space_1 | shy |  
+| bip_39_word_no_space_10 | shytroubletablegingerotherartistsketchresponseemployholiday |  
+| bip_39_word_no_space_11 | shytroubletablegingerotherartistsketchresponseemployholidaybind |  
+| bip_39_word_no_space_12 | shytroubletablegingerotherartistsketchresponseemployholidaybindall |  
+| bip_39_word_no_space_2 | shytrouble |  
+| bip_39_word_no_space_3 | shytroubletable |  
+| bip_39_word_no_space_4 | shytroubletableginger |  
+| bip_39_word_no_space_5 | shytroubletablegingerother |  
+| bip_39_word_no_space_6 | shytroubletablegingerotherartist |  
+| bip_39_word_no_space_7 | shytroubletablegingerotherartistsketch |  
+| bip_39_word_no_space_8 | shytroubletablegingerotherartistsketchresponse |  
+| bip_39_word_no_space_9 | shytroubletablegingerotherartistsketchresponseemploy |  
 | bip_39_word_space_0 | ['shy', 'trouble', 'table', 'ginger', 'other', 'artist', 'sketch', 'response', 'employ', 'holiday', 'bind', 'all'] |  
 | bip_39_word_space_1 | shy |  
 | bip_39_word_space_10 | shy trouble table ginger other artist sketch response employ holiday |  

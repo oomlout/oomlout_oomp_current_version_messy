@@ -122,6 +122,18 @@ tobacco
 manual
 fantasy
 congress |  
+| bip_39_word_no_space_1 | behave |  
+| bip_39_word_no_space_10 | behavefaultseasonsuchabilitytobaccomanualfantasycongresschest |  
+| bip_39_word_no_space_11 | behavefaultseasonsuchabilitytobaccomanualfantasycongresschestyou |  
+| bip_39_word_no_space_12 | behavefaultseasonsuchabilitytobaccomanualfantasycongresschestyoualready |  
+| bip_39_word_no_space_2 | behavefault |  
+| bip_39_word_no_space_3 | behavefaultseason |  
+| bip_39_word_no_space_4 | behavefaultseasonsuch |  
+| bip_39_word_no_space_5 | behavefaultseasonsuchability |  
+| bip_39_word_no_space_6 | behavefaultseasonsuchabilitytobacco |  
+| bip_39_word_no_space_7 | behavefaultseasonsuchabilitytobaccomanual |  
+| bip_39_word_no_space_8 | behavefaultseasonsuchabilitytobaccomanualfantasy |  
+| bip_39_word_no_space_9 | behavefaultseasonsuchabilitytobaccomanualfantasycongress |  
 | bip_39_word_space_0 | ['behave', 'fault', 'season', 'such', 'ability', 'tobacco', 'manual', 'fantasy', 'congress', 'chest', 'you', 'already'] |  
 | bip_39_word_space_1 | behave |  
 | bip_39_word_space_10 | behave fault season such ability tobacco manual fantasy congress chest |  

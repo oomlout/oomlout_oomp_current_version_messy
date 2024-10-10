@@ -122,6 +122,18 @@ brass
 spin
 civil
 excuse |  
+| bip_39_word_no_space_1 | great |  
+| bip_39_word_no_space_10 | greatkiwieraseblossommajorbrassspincivilexcuseonline |  
+| bip_39_word_no_space_11 | greatkiwieraseblossommajorbrassspincivilexcuseonlinehole |  
+| bip_39_word_no_space_12 | greatkiwieraseblossommajorbrassspincivilexcuseonlineholeahead |  
+| bip_39_word_no_space_2 | greatkiwi |  
+| bip_39_word_no_space_3 | greatkiwierase |  
+| bip_39_word_no_space_4 | greatkiwieraseblossom |  
+| bip_39_word_no_space_5 | greatkiwieraseblossommajor |  
+| bip_39_word_no_space_6 | greatkiwieraseblossommajorbrass |  
+| bip_39_word_no_space_7 | greatkiwieraseblossommajorbrassspin |  
+| bip_39_word_no_space_8 | greatkiwieraseblossommajorbrassspincivil |  
+| bip_39_word_no_space_9 | greatkiwieraseblossommajorbrassspincivilexcuse |  
 | bip_39_word_space_0 | ['great', 'kiwi', 'erase', 'blossom', 'major', 'brass', 'spin', 'civil', 'excuse', 'online', 'hole', 'ahead'] |  
 | bip_39_word_space_1 | great |  
 | bip_39_word_space_10 | great kiwi erase blossom major brass spin civil excuse online |  

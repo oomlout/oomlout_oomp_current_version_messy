@@ -122,6 +122,18 @@ dilemma
 recall
 absorb
 verify |  
+| bip_39_word_no_space_1 | term |  
+| bip_39_word_no_space_10 | termrabbitextraenoughprogramdilemmarecallabsorbverifyfoam |  
+| bip_39_word_no_space_11 | termrabbitextraenoughprogramdilemmarecallabsorbverifyfoamactual |  
+| bip_39_word_no_space_12 | termrabbitextraenoughprogramdilemmarecallabsorbverifyfoamactualactual |  
+| bip_39_word_no_space_2 | termrabbit |  
+| bip_39_word_no_space_3 | termrabbitextra |  
+| bip_39_word_no_space_4 | termrabbitextraenough |  
+| bip_39_word_no_space_5 | termrabbitextraenoughprogram |  
+| bip_39_word_no_space_6 | termrabbitextraenoughprogramdilemma |  
+| bip_39_word_no_space_7 | termrabbitextraenoughprogramdilemmarecall |  
+| bip_39_word_no_space_8 | termrabbitextraenoughprogramdilemmarecallabsorb |  
+| bip_39_word_no_space_9 | termrabbitextraenoughprogramdilemmarecallabsorbverify |  
 | bip_39_word_space_0 | ['term', 'rabbit', 'extra', 'enough', 'program', 'dilemma', 'recall', 'absorb', 'verify', 'foam', 'actual', 'actual'] |  
 | bip_39_word_space_1 | term |  
 | bip_39_word_space_10 | term rabbit extra enough program dilemma recall absorb verify foam |  

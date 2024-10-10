@@ -122,6 +122,18 @@ afraid
 build
 island
 combine |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultladytwistshallowemployafraidbuildislandcombinegrocery |  
+| bip_39_word_no_space_11 | faultladytwistshallowemployafraidbuildislandcombinegroceryalone |  
+| bip_39_word_no_space_12 | faultladytwistshallowemployafraidbuildislandcombinegroceryaloneaddress |  
+| bip_39_word_no_space_2 | faultlady |  
+| bip_39_word_no_space_3 | faultladytwist |  
+| bip_39_word_no_space_4 | faultladytwistshallow |  
+| bip_39_word_no_space_5 | faultladytwistshallowemploy |  
+| bip_39_word_no_space_6 | faultladytwistshallowemployafraid |  
+| bip_39_word_no_space_7 | faultladytwistshallowemployafraidbuild |  
+| bip_39_word_no_space_8 | faultladytwistshallowemployafraidbuildisland |  
+| bip_39_word_no_space_9 | faultladytwistshallowemployafraidbuildislandcombine |  
 | bip_39_word_space_0 | ['fault', 'lady', 'twist', 'shallow', 'employ', 'afraid', 'build', 'island', 'combine', 'grocery', 'alone', 'address'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault lady twist shallow employ afraid build island combine grocery |  

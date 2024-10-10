@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'rebuild
   barely
 
   usual'
+bip_39_word_no_space_1: rebuild
+bip_39_word_no_space_10: rebuildsketchsuchenemycakegrowyardbarelyusualspider
+bip_39_word_no_space_11: rebuildsketchsuchenemycakegrowyardbarelyusualspidereither
+bip_39_word_no_space_2: rebuildsketch
+bip_39_word_no_space_3: rebuildsketchsuch
+bip_39_word_no_space_4: rebuildsketchsuchenemy
+bip_39_word_no_space_5: rebuildsketchsuchenemycake
+bip_39_word_no_space_6: rebuildsketchsuchenemycakegrow
+bip_39_word_no_space_7: rebuildsketchsuchenemycakegrowyard
+bip_39_word_no_space_8: rebuildsketchsuchenemycakegrowyardbarely
+bip_39_word_no_space_9: rebuildsketchsuchenemycakegrowyardbarelyusual
 bip_39_word_space_0:
 - rebuild
 - sketch

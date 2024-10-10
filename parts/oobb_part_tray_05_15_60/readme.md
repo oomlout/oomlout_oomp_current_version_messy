@@ -122,6 +122,18 @@ hobby
 spawn
 laptop
 model |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintroastdisorderbetraycoralhobbyspawnlaptopmodelcontrol |  
+| bip_39_word_no_space_11 | faintroastdisorderbetraycoralhobbyspawnlaptopmodelcontrolstrong |  
+| bip_39_word_no_space_12 | faintroastdisorderbetraycoralhobbyspawnlaptopmodelcontrolstrongafraid |  
+| bip_39_word_no_space_2 | faintroast |  
+| bip_39_word_no_space_3 | faintroastdisorder |  
+| bip_39_word_no_space_4 | faintroastdisorderbetray |  
+| bip_39_word_no_space_5 | faintroastdisorderbetraycoral |  
+| bip_39_word_no_space_6 | faintroastdisorderbetraycoralhobby |  
+| bip_39_word_no_space_7 | faintroastdisorderbetraycoralhobbyspawn |  
+| bip_39_word_no_space_8 | faintroastdisorderbetraycoralhobbyspawnlaptop |  
+| bip_39_word_no_space_9 | faintroastdisorderbetraycoralhobbyspawnlaptopmodel |  
 | bip_39_word_space_0 | ['faint', 'roast', 'disorder', 'betray', 'coral', 'hobby', 'spawn', 'laptop', 'model', 'control', 'strong', 'afraid'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint roast disorder betray coral hobby spawn laptop model control |  

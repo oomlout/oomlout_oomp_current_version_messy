@@ -122,6 +122,18 @@ pumpkin
 neither
 mention
 helmet |  
+| bip_39_word_no_space_1 | blur |  
+| bip_39_word_no_space_10 | blurexcludekeenbetraynastypumpkinneithermentionhelmetcross |  
+| bip_39_word_no_space_11 | blurexcludekeenbetraynastypumpkinneithermentionhelmetcrossaction |  
+| bip_39_word_no_space_12 | blurexcludekeenbetraynastypumpkinneithermentionhelmetcrossactionamateur |  
+| bip_39_word_no_space_2 | blurexclude |  
+| bip_39_word_no_space_3 | blurexcludekeen |  
+| bip_39_word_no_space_4 | blurexcludekeenbetray |  
+| bip_39_word_no_space_5 | blurexcludekeenbetraynasty |  
+| bip_39_word_no_space_6 | blurexcludekeenbetraynastypumpkin |  
+| bip_39_word_no_space_7 | blurexcludekeenbetraynastypumpkinneither |  
+| bip_39_word_no_space_8 | blurexcludekeenbetraynastypumpkinneithermention |  
+| bip_39_word_no_space_9 | blurexcludekeenbetraynastypumpkinneithermentionhelmet |  
 | bip_39_word_space_0 | ['blur', 'exclude', 'keen', 'betray', 'nasty', 'pumpkin', 'neither', 'mention', 'helmet', 'cross', 'action', 'amateur'] |  
 | bip_39_word_space_1 | blur |  
 | bip_39_word_space_10 | blur exclude keen betray nasty pumpkin neither mention helmet cross |  

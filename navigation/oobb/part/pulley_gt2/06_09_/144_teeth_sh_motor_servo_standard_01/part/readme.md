@@ -122,6 +122,18 @@ brand
 leisure
 celery
 grow |  
+| bip_39_word_no_space_1 | entry |  
+| bip_39_word_no_space_10 | entrydonkeyillnessventurelinkbrandleisurecelerygrowmain |  
+| bip_39_word_no_space_11 | entrydonkeyillnessventurelinkbrandleisurecelerygrowmainshield |  
+| bip_39_word_no_space_12 | entrydonkeyillnessventurelinkbrandleisurecelerygrowmainshieldannual |  
+| bip_39_word_no_space_2 | entrydonkey |  
+| bip_39_word_no_space_3 | entrydonkeyillness |  
+| bip_39_word_no_space_4 | entrydonkeyillnessventure |  
+| bip_39_word_no_space_5 | entrydonkeyillnessventurelink |  
+| bip_39_word_no_space_6 | entrydonkeyillnessventurelinkbrand |  
+| bip_39_word_no_space_7 | entrydonkeyillnessventurelinkbrandleisure |  
+| bip_39_word_no_space_8 | entrydonkeyillnessventurelinkbrandleisurecelery |  
+| bip_39_word_no_space_9 | entrydonkeyillnessventurelinkbrandleisurecelerygrow |  
 | bip_39_word_space_0 | ['entry', 'donkey', 'illness', 'venture', 'link', 'brand', 'leisure', 'celery', 'grow', 'main', 'shield', 'annual'] |  
 | bip_39_word_space_1 | entry |  
 | bip_39_word_space_10 | entry donkey illness venture link brand leisure celery grow main |  

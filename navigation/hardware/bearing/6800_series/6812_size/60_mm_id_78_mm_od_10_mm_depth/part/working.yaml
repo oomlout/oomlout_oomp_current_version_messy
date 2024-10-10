@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'abuse
   agree
 
   hungry'
+bip_39_word_no_space_1: abuse
+bip_39_word_no_space_10: abuseawaresorrytraygamerecipetomatoagreehungrylunar
+bip_39_word_no_space_11: abuseawaresorrytraygamerecipetomatoagreehungrylunarmatrix
+bip_39_word_no_space_12: abuseawaresorrytraygamerecipetomatoagreehungrylunarmatrixankle
+bip_39_word_no_space_2: abuseaware
+bip_39_word_no_space_3: abuseawaresorry
+bip_39_word_no_space_4: abuseawaresorrytray
+bip_39_word_no_space_5: abuseawaresorrytraygame
+bip_39_word_no_space_6: abuseawaresorrytraygamerecipe
+bip_39_word_no_space_7: abuseawaresorrytraygamerecipetomato
+bip_39_word_no_space_8: abuseawaresorrytraygamerecipetomatoagree
+bip_39_word_no_space_9: abuseawaresorrytraygamerecipetomatoagreehungry
 bip_39_word_space_0:
 - abuse
 - aware

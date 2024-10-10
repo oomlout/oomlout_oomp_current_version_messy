@@ -122,6 +122,18 @@ oven
 away
 correct
 cliff |  
+| bip_39_word_no_space_1 | ecology |  
+| bip_39_word_no_space_10 | ecologyhenromancelimbbrightovenawaycorrectcliffword |  
+| bip_39_word_no_space_11 | ecologyhenromancelimbbrightovenawaycorrectcliffwordtissue |  
+| bip_39_word_no_space_12 | ecologyhenromancelimbbrightovenawaycorrectcliffwordtissueagain |  
+| bip_39_word_no_space_2 | ecologyhen |  
+| bip_39_word_no_space_3 | ecologyhenromance |  
+| bip_39_word_no_space_4 | ecologyhenromancelimb |  
+| bip_39_word_no_space_5 | ecologyhenromancelimbbright |  
+| bip_39_word_no_space_6 | ecologyhenromancelimbbrightoven |  
+| bip_39_word_no_space_7 | ecologyhenromancelimbbrightovenaway |  
+| bip_39_word_no_space_8 | ecologyhenromancelimbbrightovenawaycorrect |  
+| bip_39_word_no_space_9 | ecologyhenromancelimbbrightovenawaycorrectcliff |  
 | bip_39_word_space_0 | ['ecology', 'hen', 'romance', 'limb', 'bright', 'oven', 'away', 'correct', 'cliff', 'word', 'tissue', 'again'] |  
 | bip_39_word_space_1 | ecology |  
 | bip_39_word_space_10 | ecology hen romance limb bright oven away correct cliff word |  

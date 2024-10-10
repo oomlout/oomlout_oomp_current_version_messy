@@ -122,6 +122,18 @@ dignity
 disorder
 file
 april |  
+| bip_39_word_no_space_1 | draft |  
+| bip_39_word_no_space_10 | draftdrawtruckangrymyselfdignitydisorderfileaprilcry |  
+| bip_39_word_no_space_11 | draftdrawtruckangrymyselfdignitydisorderfileaprilcryfloor |  
+| bip_39_word_no_space_12 | draftdrawtruckangrymyselfdignitydisorderfileaprilcryflooravocado |  
+| bip_39_word_no_space_2 | draftdraw |  
+| bip_39_word_no_space_3 | draftdrawtruck |  
+| bip_39_word_no_space_4 | draftdrawtruckangry |  
+| bip_39_word_no_space_5 | draftdrawtruckangrymyself |  
+| bip_39_word_no_space_6 | draftdrawtruckangrymyselfdignity |  
+| bip_39_word_no_space_7 | draftdrawtruckangrymyselfdignitydisorder |  
+| bip_39_word_no_space_8 | draftdrawtruckangrymyselfdignitydisorderfile |  
+| bip_39_word_no_space_9 | draftdrawtruckangrymyselfdignitydisorderfileapril |  
 | bip_39_word_space_0 | ['draft', 'draw', 'truck', 'angry', 'myself', 'dignity', 'disorder', 'file', 'april', 'cry', 'floor', 'avocado'] |  
 | bip_39_word_space_1 | draft |  
 | bip_39_word_space_10 | draft draw truck angry myself dignity disorder file april cry |  

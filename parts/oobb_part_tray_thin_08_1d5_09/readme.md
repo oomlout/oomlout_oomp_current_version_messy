@@ -122,6 +122,18 @@ mesh
 green
 follow
 phrase |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendfathersimilarwolfalbummeshgreenfollowphrasesock |  
+| bip_39_word_no_space_11 | attendfathersimilarwolfalbummeshgreenfollowphrasesockgrow |  
+| bip_39_word_no_space_12 | attendfathersimilarwolfalbummeshgreenfollowphrasesockgrowapple |  
+| bip_39_word_no_space_2 | attendfather |  
+| bip_39_word_no_space_3 | attendfathersimilar |  
+| bip_39_word_no_space_4 | attendfathersimilarwolf |  
+| bip_39_word_no_space_5 | attendfathersimilarwolfalbum |  
+| bip_39_word_no_space_6 | attendfathersimilarwolfalbummesh |  
+| bip_39_word_no_space_7 | attendfathersimilarwolfalbummeshgreen |  
+| bip_39_word_no_space_8 | attendfathersimilarwolfalbummeshgreenfollow |  
+| bip_39_word_no_space_9 | attendfathersimilarwolfalbummeshgreenfollowphrase |  
 | bip_39_word_space_0 | ['attend', 'father', 'similar', 'wolf', 'album', 'mesh', 'green', 'follow', 'phrase', 'sock', 'grow', 'apple'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend father similar wolf album mesh green follow phrase sock |  

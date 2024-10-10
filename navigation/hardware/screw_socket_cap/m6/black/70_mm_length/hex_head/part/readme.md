@@ -122,6 +122,18 @@ dentist
 live
 neck
 magic |  
+| bip_39_word_no_space_1 | sign |  
+| bip_39_word_no_space_10 | signgrieferuptearnawfuldentistliveneckmagicholiday |  
+| bip_39_word_no_space_11 | signgrieferuptearnawfuldentistliveneckmagicholidaylogic |  
+| bip_39_word_no_space_12 | signgrieferuptearnawfuldentistliveneckmagicholidaylogicancient |  
+| bip_39_word_no_space_2 | signgrief |  
+| bip_39_word_no_space_3 | signgrieferupt |  
+| bip_39_word_no_space_4 | signgrieferuptearn |  
+| bip_39_word_no_space_5 | signgrieferuptearnawful |  
+| bip_39_word_no_space_6 | signgrieferuptearnawfuldentist |  
+| bip_39_word_no_space_7 | signgrieferuptearnawfuldentistlive |  
+| bip_39_word_no_space_8 | signgrieferuptearnawfuldentistliveneck |  
+| bip_39_word_no_space_9 | signgrieferuptearnawfuldentistliveneckmagic |  
 | bip_39_word_space_0 | ['sign', 'grief', 'erupt', 'earn', 'awful', 'dentist', 'live', 'neck', 'magic', 'holiday', 'logic', 'ancient'] |  
 | bip_39_word_space_1 | sign |  
 | bip_39_word_space_10 | sign grief erupt earn awful dentist live neck magic holiday |  

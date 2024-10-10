@@ -122,6 +122,18 @@ prevent
 question
 tip
 lyrics |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moonvoicehistoryundofixpreventquestiontiplyricsalready |  
+| bip_39_word_no_space_11 | moonvoicehistoryundofixpreventquestiontiplyricsalreadycomfort |  
+| bip_39_word_no_space_12 | moonvoicehistoryundofixpreventquestiontiplyricsalreadycomfortantenna |  
+| bip_39_word_no_space_2 | moonvoice |  
+| bip_39_word_no_space_3 | moonvoicehistory |  
+| bip_39_word_no_space_4 | moonvoicehistoryundo |  
+| bip_39_word_no_space_5 | moonvoicehistoryundofix |  
+| bip_39_word_no_space_6 | moonvoicehistoryundofixprevent |  
+| bip_39_word_no_space_7 | moonvoicehistoryundofixpreventquestion |  
+| bip_39_word_no_space_8 | moonvoicehistoryundofixpreventquestiontip |  
+| bip_39_word_no_space_9 | moonvoicehistoryundofixpreventquestiontiplyrics |  
 | bip_39_word_space_0 | ['moon', 'voice', 'history', 'undo', 'fix', 'prevent', 'question', 'tip', 'lyrics', 'already', 'comfort', 'antenna'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon voice history undo fix prevent question tip lyrics already |  

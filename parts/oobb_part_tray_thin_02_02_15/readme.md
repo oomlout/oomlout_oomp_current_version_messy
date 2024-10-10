@@ -122,6 +122,18 @@ guard
 carpet
 kite
 column |  
+| bip_39_word_no_space_1 | main |  
+| bip_39_word_no_space_10 | mainvisualsufferslaboctoberguardcarpetkitecolumnenergy |  
+| bip_39_word_no_space_11 | mainvisualsufferslaboctoberguardcarpetkitecolumnenergytwin |  
+| bip_39_word_no_space_12 | mainvisualsufferslaboctoberguardcarpetkitecolumnenergytwinartwork |  
+| bip_39_word_no_space_2 | mainvisual |  
+| bip_39_word_no_space_3 | mainvisualsuffer |  
+| bip_39_word_no_space_4 | mainvisualsufferslab |  
+| bip_39_word_no_space_5 | mainvisualsufferslaboctober |  
+| bip_39_word_no_space_6 | mainvisualsufferslaboctoberguard |  
+| bip_39_word_no_space_7 | mainvisualsufferslaboctoberguardcarpet |  
+| bip_39_word_no_space_8 | mainvisualsufferslaboctoberguardcarpetkite |  
+| bip_39_word_no_space_9 | mainvisualsufferslaboctoberguardcarpetkitecolumn |  
 | bip_39_word_space_0 | ['main', 'visual', 'suffer', 'slab', 'october', 'guard', 'carpet', 'kite', 'column', 'energy', 'twin', 'artwork'] |  
 | bip_39_word_space_1 | main |  
 | bip_39_word_space_10 | main visual suffer slab october guard carpet kite column energy |  

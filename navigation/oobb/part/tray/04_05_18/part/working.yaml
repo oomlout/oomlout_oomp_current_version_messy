@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'divide
   couple
 
   gentle'
+bip_39_word_no_space_1: divide
+bip_39_word_no_space_10: dividedrumstilltailvocalblastbestcouplegentlemystery
+bip_39_word_no_space_11: dividedrumstilltailvocalblastbestcouplegentlemysterycapable
+bip_39_word_no_space_12: dividedrumstilltailvocalblastbestcouplegentlemysterycapablealmost
+bip_39_word_no_space_2: dividedrum
+bip_39_word_no_space_3: dividedrumstill
+bip_39_word_no_space_4: dividedrumstilltail
+bip_39_word_no_space_5: dividedrumstilltailvocal
+bip_39_word_no_space_6: dividedrumstilltailvocalblast
+bip_39_word_no_space_7: dividedrumstilltailvocalblastbest
+bip_39_word_no_space_8: dividedrumstilltailvocalblastbestcouple
+bip_39_word_no_space_9: dividedrumstilltailvocalblastbestcouplegentle
 bip_39_word_space_0:
 - divide
 - drum

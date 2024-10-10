@@ -122,6 +122,18 @@ hidden
 badge
 vehicle
 return |  
+| bip_39_word_no_space_1 | glare |  
+| bip_39_word_no_space_10 | glaremerryinsectsimplegigglehiddenbadgevehiclereturnfortune |  
+| bip_39_word_no_space_11 | glaremerryinsectsimplegigglehiddenbadgevehiclereturnfortuneshort |  
+| bip_39_word_no_space_12 | glaremerryinsectsimplegigglehiddenbadgevehiclereturnfortuneshortarm |  
+| bip_39_word_no_space_2 | glaremerry |  
+| bip_39_word_no_space_3 | glaremerryinsect |  
+| bip_39_word_no_space_4 | glaremerryinsectsimple |  
+| bip_39_word_no_space_5 | glaremerryinsectsimplegiggle |  
+| bip_39_word_no_space_6 | glaremerryinsectsimplegigglehidden |  
+| bip_39_word_no_space_7 | glaremerryinsectsimplegigglehiddenbadge |  
+| bip_39_word_no_space_8 | glaremerryinsectsimplegigglehiddenbadgevehicle |  
+| bip_39_word_no_space_9 | glaremerryinsectsimplegigglehiddenbadgevehiclereturn |  
 | bip_39_word_space_0 | ['glare', 'merry', 'insect', 'simple', 'giggle', 'hidden', 'badge', 'vehicle', 'return', 'fortune', 'short', 'arm'] |  
 | bip_39_word_space_1 | glare |  
 | bip_39_word_space_10 | glare merry insect simple giggle hidden badge vehicle return fortune |  

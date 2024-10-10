@@ -122,6 +122,18 @@ switch
 rely
 easily
 hover |  
+| bip_39_word_no_space_1 | fan |  
+| bip_39_word_no_space_10 | fanticketenhancemessageroseswitchrelyeasilyhovercoyote |  
+| bip_39_word_no_space_11 | fanticketenhancemessageroseswitchrelyeasilyhovercoyoteobscure |  
+| bip_39_word_no_space_12 | fanticketenhancemessageroseswitchrelyeasilyhovercoyoteobscureautumn |  
+| bip_39_word_no_space_2 | fanticket |  
+| bip_39_word_no_space_3 | fanticketenhance |  
+| bip_39_word_no_space_4 | fanticketenhancemessage |  
+| bip_39_word_no_space_5 | fanticketenhancemessagerose |  
+| bip_39_word_no_space_6 | fanticketenhancemessageroseswitch |  
+| bip_39_word_no_space_7 | fanticketenhancemessageroseswitchrely |  
+| bip_39_word_no_space_8 | fanticketenhancemessageroseswitchrelyeasily |  
+| bip_39_word_no_space_9 | fanticketenhancemessageroseswitchrelyeasilyhover |  
 | bip_39_word_space_0 | ['fan', 'ticket', 'enhance', 'message', 'rose', 'switch', 'rely', 'easily', 'hover', 'coyote', 'obscure', 'autumn'] |  
 | bip_39_word_space_1 | fan |  
 | bip_39_word_space_10 | fan ticket enhance message rose switch rely easily hover coyote |  

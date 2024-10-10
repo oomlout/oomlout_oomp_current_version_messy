@@ -122,6 +122,18 @@ switch
 buyer
 trophy
 load |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehiclepearsatisfygridquantumswitchbuyertrophyloadkitten |  
+| bip_39_word_no_space_11 | vehiclepearsatisfygridquantumswitchbuyertrophyloadkittenmirror |  
+| bip_39_word_no_space_12 | vehiclepearsatisfygridquantumswitchbuyertrophyloadkittenmirrorarrow |  
+| bip_39_word_no_space_2 | vehiclepear |  
+| bip_39_word_no_space_3 | vehiclepearsatisfy |  
+| bip_39_word_no_space_4 | vehiclepearsatisfygrid |  
+| bip_39_word_no_space_5 | vehiclepearsatisfygridquantum |  
+| bip_39_word_no_space_6 | vehiclepearsatisfygridquantumswitch |  
+| bip_39_word_no_space_7 | vehiclepearsatisfygridquantumswitchbuyer |  
+| bip_39_word_no_space_8 | vehiclepearsatisfygridquantumswitchbuyertrophy |  
+| bip_39_word_no_space_9 | vehiclepearsatisfygridquantumswitchbuyertrophyload |  
 | bip_39_word_space_0 | ['vehicle', 'pear', 'satisfy', 'grid', 'quantum', 'switch', 'buyer', 'trophy', 'load', 'kitten', 'mirror', 'arrow'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle pear satisfy grid quantum switch buyer trophy load kitten |  

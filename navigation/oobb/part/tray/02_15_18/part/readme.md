@@ -122,6 +122,18 @@ bundle
 nerve
 brain
 assume |  
+| bip_39_word_no_space_1 | traffic |  
+| bip_39_word_no_space_10 | trafficmimicplastichoverfloatbundlenervebrainassumechapter |  
+| bip_39_word_no_space_11 | trafficmimicplastichoverfloatbundlenervebrainassumechapterdevote |  
+| bip_39_word_no_space_12 | trafficmimicplastichoverfloatbundlenervebrainassumechapterdevoteautumn |  
+| bip_39_word_no_space_2 | trafficmimic |  
+| bip_39_word_no_space_3 | trafficmimicplastic |  
+| bip_39_word_no_space_4 | trafficmimicplastichover |  
+| bip_39_word_no_space_5 | trafficmimicplastichoverfloat |  
+| bip_39_word_no_space_6 | trafficmimicplastichoverfloatbundle |  
+| bip_39_word_no_space_7 | trafficmimicplastichoverfloatbundlenerve |  
+| bip_39_word_no_space_8 | trafficmimicplastichoverfloatbundlenervebrain |  
+| bip_39_word_no_space_9 | trafficmimicplastichoverfloatbundlenervebrainassume |  
 | bip_39_word_space_0 | ['traffic', 'mimic', 'plastic', 'hover', 'float', 'bundle', 'nerve', 'brain', 'assume', 'chapter', 'devote', 'autumn'] |  
 | bip_39_word_space_1 | traffic |  
 | bip_39_word_space_10 | traffic mimic plastic hover float bundle nerve brain assume chapter |  

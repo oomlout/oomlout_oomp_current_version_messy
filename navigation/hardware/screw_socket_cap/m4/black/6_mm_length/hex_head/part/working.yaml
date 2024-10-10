@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'milk
   vote
 
   cause'
+bip_39_word_no_space_1: milk
+bip_39_word_no_space_10: milkinheritmonthcanvassamplebeforealarmvotecauseisolate
+bip_39_word_no_space_11: milkinheritmonthcanvassamplebeforealarmvotecauseisolatemust
+bip_39_word_no_space_12: milkinheritmonthcanvassamplebeforealarmvotecauseisolatemustacquire
+bip_39_word_no_space_2: milkinherit
+bip_39_word_no_space_3: milkinheritmonth
+bip_39_word_no_space_4: milkinheritmonthcanvas
+bip_39_word_no_space_5: milkinheritmonthcanvassample
+bip_39_word_no_space_6: milkinheritmonthcanvassamplebefore
+bip_39_word_no_space_7: milkinheritmonthcanvassamplebeforealarm
+bip_39_word_no_space_8: milkinheritmonthcanvassamplebeforealarmvote
+bip_39_word_no_space_9: milkinheritmonthcanvassamplebeforealarmvotecause
 bip_39_word_space_0:
 - milk
 - inherit

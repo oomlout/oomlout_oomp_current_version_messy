@@ -122,6 +122,18 @@ left
 tape
 home
 sphere |  
+| bip_39_word_no_space_1 | future |  
+| bip_39_word_no_space_10 | futureracktiltpairsonglefttapehomespherebenefit |  
+| bip_39_word_no_space_11 | futureracktiltpairsonglefttapehomespherebenefitcolumn |  
+| bip_39_word_no_space_12 | futureracktiltpairsonglefttapehomespherebenefitcolumnable |  
+| bip_39_word_no_space_2 | futurerack |  
+| bip_39_word_no_space_3 | futureracktilt |  
+| bip_39_word_no_space_4 | futureracktiltpair |  
+| bip_39_word_no_space_5 | futureracktiltpairsong |  
+| bip_39_word_no_space_6 | futureracktiltpairsongleft |  
+| bip_39_word_no_space_7 | futureracktiltpairsonglefttape |  
+| bip_39_word_no_space_8 | futureracktiltpairsonglefttapehome |  
+| bip_39_word_no_space_9 | futureracktiltpairsonglefttapehomesphere |  
 | bip_39_word_space_0 | ['future', 'rack', 'tilt', 'pair', 'song', 'left', 'tape', 'home', 'sphere', 'benefit', 'column', 'able'] |  
 | bip_39_word_space_1 | future |  
 | bip_39_word_space_10 | future rack tilt pair song left tape home sphere benefit |  

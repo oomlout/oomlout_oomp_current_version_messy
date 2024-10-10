@@ -122,6 +122,18 @@ stumble
 shock
 mixture
 pride |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennisaspectlicenseanydaystumbleshockmixtureprideonion |  
+| bip_39_word_no_space_11 | tennisaspectlicenseanydaystumbleshockmixtureprideonionswamp |  
+| bip_39_word_no_space_12 | tennisaspectlicenseanydaystumbleshockmixtureprideonionswampapril |  
+| bip_39_word_no_space_2 | tennisaspect |  
+| bip_39_word_no_space_3 | tennisaspectlicense |  
+| bip_39_word_no_space_4 | tennisaspectlicenseany |  
+| bip_39_word_no_space_5 | tennisaspectlicenseanyday |  
+| bip_39_word_no_space_6 | tennisaspectlicenseanydaystumble |  
+| bip_39_word_no_space_7 | tennisaspectlicenseanydaystumbleshock |  
+| bip_39_word_no_space_8 | tennisaspectlicenseanydaystumbleshockmixture |  
+| bip_39_word_no_space_9 | tennisaspectlicenseanydaystumbleshockmixturepride |  
 | bip_39_word_space_0 | ['tennis', 'aspect', 'license', 'any', 'day', 'stumble', 'shock', 'mixture', 'pride', 'onion', 'swamp', 'april'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis aspect license any day stumble shock mixture pride onion |  

@@ -122,6 +122,18 @@ middle
 wing
 beauty
 knee |  
+| bip_39_word_no_space_1 | fee |  
+| bip_39_word_no_space_10 | feeballcoffeenightwhispermiddlewingbeautykneemule |  
+| bip_39_word_no_space_11 | feeballcoffeenightwhispermiddlewingbeautykneemuleahead |  
+| bip_39_word_no_space_12 | feeballcoffeenightwhispermiddlewingbeautykneemuleaheadalert |  
+| bip_39_word_no_space_2 | feeball |  
+| bip_39_word_no_space_3 | feeballcoffee |  
+| bip_39_word_no_space_4 | feeballcoffeenight |  
+| bip_39_word_no_space_5 | feeballcoffeenightwhisper |  
+| bip_39_word_no_space_6 | feeballcoffeenightwhispermiddle |  
+| bip_39_word_no_space_7 | feeballcoffeenightwhispermiddlewing |  
+| bip_39_word_no_space_8 | feeballcoffeenightwhispermiddlewingbeauty |  
+| bip_39_word_no_space_9 | feeballcoffeenightwhispermiddlewingbeautyknee |  
 | bip_39_word_space_0 | ['fee', 'ball', 'coffee', 'night', 'whisper', 'middle', 'wing', 'beauty', 'knee', 'mule', 'ahead', 'alert'] |  
 | bip_39_word_space_1 | fee |  
 | bip_39_word_space_10 | fee ball coffee night whisper middle wing beauty knee mule |  

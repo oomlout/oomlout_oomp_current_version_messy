@@ -122,6 +122,18 @@ will
 cotton
 only
 uncover |  
+| bip_39_word_no_space_1 | able |  
+| bip_39_word_no_space_10 | ableactionrelylongcasualwillcottononlyuncoverblame |  
+| bip_39_word_no_space_11 | ableactionrelylongcasualwillcottononlyuncoverblamestairs |  
+| bip_39_word_no_space_12 | ableactionrelylongcasualwillcottononlyuncoverblamestairsartefact |  
+| bip_39_word_no_space_2 | ableaction |  
+| bip_39_word_no_space_3 | ableactionrely |  
+| bip_39_word_no_space_4 | ableactionrelylong |  
+| bip_39_word_no_space_5 | ableactionrelylongcasual |  
+| bip_39_word_no_space_6 | ableactionrelylongcasualwill |  
+| bip_39_word_no_space_7 | ableactionrelylongcasualwillcotton |  
+| bip_39_word_no_space_8 | ableactionrelylongcasualwillcottononly |  
+| bip_39_word_no_space_9 | ableactionrelylongcasualwillcottononlyuncover |  
 | bip_39_word_space_0 | ['able', 'action', 'rely', 'long', 'casual', 'will', 'cotton', 'only', 'uncover', 'blame', 'stairs', 'artefact'] |  
 | bip_39_word_space_1 | able |  
 | bip_39_word_space_10 | able action rely long casual will cotton only uncover blame |  

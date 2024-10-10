@@ -122,6 +122,18 @@ tuition
 misery
 upgrade
 cart |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancevalvesilentsurroundbooktuitionmiseryupgradecarttornado |  
+| bip_39_word_no_space_11 | dancevalvesilentsurroundbooktuitionmiseryupgradecarttornadotool |  
+| bip_39_word_no_space_12 | dancevalvesilentsurroundbooktuitionmiseryupgradecarttornadotoolappear |  
+| bip_39_word_no_space_2 | dancevalve |  
+| bip_39_word_no_space_3 | dancevalvesilent |  
+| bip_39_word_no_space_4 | dancevalvesilentsurround |  
+| bip_39_word_no_space_5 | dancevalvesilentsurroundbook |  
+| bip_39_word_no_space_6 | dancevalvesilentsurroundbooktuition |  
+| bip_39_word_no_space_7 | dancevalvesilentsurroundbooktuitionmisery |  
+| bip_39_word_no_space_8 | dancevalvesilentsurroundbooktuitionmiseryupgrade |  
+| bip_39_word_no_space_9 | dancevalvesilentsurroundbooktuitionmiseryupgradecart |  
 | bip_39_word_space_0 | ['dance', 'valve', 'silent', 'surround', 'book', 'tuition', 'misery', 'upgrade', 'cart', 'tornado', 'tool', 'appear'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance valve silent surround book tuition misery upgrade cart tornado |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'law
   soul
 
   observe'
+bip_39_word_no_space_1: law
+bip_39_word_no_space_10: lawfloorcherryseatreflectescapelemonsoulobserveembark
+bip_39_word_no_space_11: lawfloorcherryseatreflectescapelemonsoulobserveembarkromance
+bip_39_word_no_space_12: lawfloorcherryseatreflectescapelemonsoulobserveembarkromanceadapt
+bip_39_word_no_space_2: lawfloor
+bip_39_word_no_space_3: lawfloorcherry
+bip_39_word_no_space_4: lawfloorcherryseat
+bip_39_word_no_space_5: lawfloorcherryseatreflect
+bip_39_word_no_space_6: lawfloorcherryseatreflectescape
+bip_39_word_no_space_7: lawfloorcherryseatreflectescapelemon
+bip_39_word_no_space_8: lawfloorcherryseatreflectescapelemonsoul
+bip_39_word_no_space_9: lawfloorcherryseatreflectescapelemonsoulobserve
 bip_39_word_space_0:
 - law
 - floor

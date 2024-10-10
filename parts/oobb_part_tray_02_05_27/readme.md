@@ -122,6 +122,18 @@ surge
 shrimp
 rebel
 access |  
+| bip_39_word_no_space_1 | source |  
+| bip_39_word_no_space_10 | sourceinputremainflashtrysurgeshrimprebelaccessfrequent |  
+| bip_39_word_no_space_11 | sourceinputremainflashtrysurgeshrimprebelaccessfrequentattract |  
+| bip_39_word_no_space_12 | sourceinputremainflashtrysurgeshrimprebelaccessfrequentattractadvance |  
+| bip_39_word_no_space_2 | sourceinput |  
+| bip_39_word_no_space_3 | sourceinputremain |  
+| bip_39_word_no_space_4 | sourceinputremainflash |  
+| bip_39_word_no_space_5 | sourceinputremainflashtry |  
+| bip_39_word_no_space_6 | sourceinputremainflashtrysurge |  
+| bip_39_word_no_space_7 | sourceinputremainflashtrysurgeshrimp |  
+| bip_39_word_no_space_8 | sourceinputremainflashtrysurgeshrimprebel |  
+| bip_39_word_no_space_9 | sourceinputremainflashtrysurgeshrimprebelaccess |  
 | bip_39_word_space_0 | ['source', 'input', 'remain', 'flash', 'try', 'surge', 'shrimp', 'rebel', 'access', 'frequent', 'attract', 'advance'] |  
 | bip_39_word_space_1 | source |  
 | bip_39_word_space_10 | source input remain flash try surge shrimp rebel access frequent |  

@@ -122,6 +122,18 @@ odor
 deliver
 today
 cushion |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | mustedittablelocalresourceodordelivertodaycushionpulse |  
+| bip_39_word_no_space_11 | mustedittablelocalresourceodordelivertodaycushionpulsepush |  
+| bip_39_word_no_space_12 | mustedittablelocalresourceodordelivertodaycushionpulsepushapprove |  
+| bip_39_word_no_space_2 | mustedit |  
+| bip_39_word_no_space_3 | mustedittable |  
+| bip_39_word_no_space_4 | mustedittablelocal |  
+| bip_39_word_no_space_5 | mustedittablelocalresource |  
+| bip_39_word_no_space_6 | mustedittablelocalresourceodor |  
+| bip_39_word_no_space_7 | mustedittablelocalresourceodordeliver |  
+| bip_39_word_no_space_8 | mustedittablelocalresourceodordelivertoday |  
+| bip_39_word_no_space_9 | mustedittablelocalresourceodordelivertodaycushion |  
 | bip_39_word_space_0 | ['must', 'edit', 'table', 'local', 'resource', 'odor', 'deliver', 'today', 'cushion', 'pulse', 'push', 'approve'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must edit table local resource odor deliver today cushion pulse |  

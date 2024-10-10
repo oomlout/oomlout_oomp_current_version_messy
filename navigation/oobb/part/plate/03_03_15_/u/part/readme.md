@@ -122,6 +122,18 @@ cotton
 caution
 sea
 loan |  
+| bip_39_word_no_space_1 | march |  
+| bip_39_word_no_space_10 | marchmimicthereapologyleadercottoncautionsealoanforward |  
+| bip_39_word_no_space_11 | marchmimicthereapologyleadercottoncautionsealoanforwardcanoe |  
+| bip_39_word_no_space_12 | marchmimicthereapologyleadercottoncautionsealoanforwardcanoeanxiety |  
+| bip_39_word_no_space_2 | marchmimic |  
+| bip_39_word_no_space_3 | marchmimicthere |  
+| bip_39_word_no_space_4 | marchmimicthereapology |  
+| bip_39_word_no_space_5 | marchmimicthereapologyleader |  
+| bip_39_word_no_space_6 | marchmimicthereapologyleadercotton |  
+| bip_39_word_no_space_7 | marchmimicthereapologyleadercottoncaution |  
+| bip_39_word_no_space_8 | marchmimicthereapologyleadercottoncautionsea |  
+| bip_39_word_no_space_9 | marchmimicthereapologyleadercottoncautionsealoan |  
 | bip_39_word_space_0 | ['march', 'mimic', 'there', 'apology', 'leader', 'cotton', 'caution', 'sea', 'loan', 'forward', 'canoe', 'anxiety'] |  
 | bip_39_word_space_1 | march |  
 | bip_39_word_space_10 | march mimic there apology leader cotton caution sea loan forward |  

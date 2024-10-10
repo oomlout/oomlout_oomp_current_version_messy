@@ -122,6 +122,18 @@ trick
 east
 tuna
 throw |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportauctionhockeytravelecologytrickeasttunathrowmore |  
+| bip_39_word_no_space_11 | reportauctionhockeytravelecologytrickeasttunathrowmoreurban |  
+| bip_39_word_no_space_12 | reportauctionhockeytravelecologytrickeasttunathrowmoreurbanalert |  
+| bip_39_word_no_space_2 | reportauction |  
+| bip_39_word_no_space_3 | reportauctionhockey |  
+| bip_39_word_no_space_4 | reportauctionhockeytravel |  
+| bip_39_word_no_space_5 | reportauctionhockeytravelecology |  
+| bip_39_word_no_space_6 | reportauctionhockeytravelecologytrick |  
+| bip_39_word_no_space_7 | reportauctionhockeytravelecologytrickeast |  
+| bip_39_word_no_space_8 | reportauctionhockeytravelecologytrickeasttuna |  
+| bip_39_word_no_space_9 | reportauctionhockeytravelecologytrickeasttunathrow |  
 | bip_39_word_space_0 | ['report', 'auction', 'hockey', 'travel', 'ecology', 'trick', 'east', 'tuna', 'throw', 'more', 'urban', 'alert'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report auction hockey travel ecology trick east tuna throw more |  

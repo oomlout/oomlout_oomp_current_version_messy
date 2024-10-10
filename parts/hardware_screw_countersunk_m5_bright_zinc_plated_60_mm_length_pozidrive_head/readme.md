@@ -122,6 +122,18 @@ fetch
 green
 question
 orange |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifecostmonsterwreckpursefetchgreenquestionorangesettle |  
+| bip_39_word_no_space_11 | knifecostmonsterwreckpursefetchgreenquestionorangesettlemeat |  
+| bip_39_word_no_space_12 | knifecostmonsterwreckpursefetchgreenquestionorangesettlemeatabove |  
+| bip_39_word_no_space_2 | knifecost |  
+| bip_39_word_no_space_3 | knifecostmonster |  
+| bip_39_word_no_space_4 | knifecostmonsterwreck |  
+| bip_39_word_no_space_5 | knifecostmonsterwreckpurse |  
+| bip_39_word_no_space_6 | knifecostmonsterwreckpursefetch |  
+| bip_39_word_no_space_7 | knifecostmonsterwreckpursefetchgreen |  
+| bip_39_word_no_space_8 | knifecostmonsterwreckpursefetchgreenquestion |  
+| bip_39_word_no_space_9 | knifecostmonsterwreckpursefetchgreenquestionorange |  
 | bip_39_word_space_0 | ['knife', 'cost', 'monster', 'wreck', 'purse', 'fetch', 'green', 'question', 'orange', 'settle', 'meat', 'above'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife cost monster wreck purse fetch green question orange settle |  

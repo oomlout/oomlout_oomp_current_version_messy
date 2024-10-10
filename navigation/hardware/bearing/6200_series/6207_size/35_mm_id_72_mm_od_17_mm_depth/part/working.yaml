@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'deal
   like
 
   sheriff'
+bip_39_word_no_space_1: deal
+bip_39_word_no_space_10: dealpullcorebetrayanalystschoolsealikesheriffdefy
+bip_39_word_no_space_11: dealpullcorebetrayanalystschoolsealikesheriffdefydice
+bip_39_word_no_space_12: dealpullcorebetrayanalystschoolsealikesheriffdefydiceamount
+bip_39_word_no_space_2: dealpull
+bip_39_word_no_space_3: dealpullcore
+bip_39_word_no_space_4: dealpullcorebetray
+bip_39_word_no_space_5: dealpullcorebetrayanalyst
+bip_39_word_no_space_6: dealpullcorebetrayanalystschool
+bip_39_word_no_space_7: dealpullcorebetrayanalystschoolsea
+bip_39_word_no_space_8: dealpullcorebetrayanalystschoolsealike
+bip_39_word_no_space_9: dealpullcorebetrayanalystschoolsealikesheriff
 bip_39_word_space_0:
 - deal
 - pull

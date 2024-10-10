@@ -122,6 +122,18 @@ question
 tower
 leave
 steel |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumcorninformturtlesportquestiontowerleavesteelcoast |  
+| bip_39_word_no_space_11 | albumcorninformturtlesportquestiontowerleavesteelcoastdanger |  
+| bip_39_word_no_space_12 | albumcorninformturtlesportquestiontowerleavesteelcoastdangerappear |  
+| bip_39_word_no_space_2 | albumcorn |  
+| bip_39_word_no_space_3 | albumcorninform |  
+| bip_39_word_no_space_4 | albumcorninformturtle |  
+| bip_39_word_no_space_5 | albumcorninformturtlesport |  
+| bip_39_word_no_space_6 | albumcorninformturtlesportquestion |  
+| bip_39_word_no_space_7 | albumcorninformturtlesportquestiontower |  
+| bip_39_word_no_space_8 | albumcorninformturtlesportquestiontowerleave |  
+| bip_39_word_no_space_9 | albumcorninformturtlesportquestiontowerleavesteel |  
 | bip_39_word_space_0 | ['album', 'corn', 'inform', 'turtle', 'sport', 'question', 'tower', 'leave', 'steel', 'coast', 'danger', 'appear'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album corn inform turtle sport question tower leave steel coast |  

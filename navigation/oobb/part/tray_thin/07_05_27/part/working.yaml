@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dog
   brain
 
   find'
+bip_39_word_no_space_1: dog
+bip_39_word_no_space_10: doghoneyfadekissantiquetrapoftenbrainfindcradle
+bip_39_word_no_space_11: doghoneyfadekissantiquetrapoftenbrainfindcradlemonster
+bip_39_word_no_space_12: doghoneyfadekissantiquetrapoftenbrainfindcradlemonsterancient
+bip_39_word_no_space_2: doghoney
+bip_39_word_no_space_3: doghoneyfade
+bip_39_word_no_space_4: doghoneyfadekiss
+bip_39_word_no_space_5: doghoneyfadekissantique
+bip_39_word_no_space_6: doghoneyfadekissantiquetrap
+bip_39_word_no_space_7: doghoneyfadekissantiquetrapoften
+bip_39_word_no_space_8: doghoneyfadekissantiquetrapoftenbrain
+bip_39_word_no_space_9: doghoneyfadekissantiquetrapoftenbrainfind
 bip_39_word_space_0:
 - dog
 - honey

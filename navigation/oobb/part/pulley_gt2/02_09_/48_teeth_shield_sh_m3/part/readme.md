@@ -122,6 +122,18 @@ include
 grab
 slogan
 pencil |  
+| bip_39_word_no_space_1 | rebel |  
+| bip_39_word_no_space_10 | rebelbuffalocommoneyebrowinjectincludegrabsloganpencilbicycle |  
+| bip_39_word_no_space_11 | rebelbuffalocommoneyebrowinjectincludegrabsloganpencilbicycledice |  
+| bip_39_word_no_space_12 | rebelbuffalocommoneyebrowinjectincludegrabsloganpencilbicyclediceabstract |  
+| bip_39_word_no_space_2 | rebelbuffalo |  
+| bip_39_word_no_space_3 | rebelbuffalocommon |  
+| bip_39_word_no_space_4 | rebelbuffalocommoneyebrow |  
+| bip_39_word_no_space_5 | rebelbuffalocommoneyebrowinject |  
+| bip_39_word_no_space_6 | rebelbuffalocommoneyebrowinjectinclude |  
+| bip_39_word_no_space_7 | rebelbuffalocommoneyebrowinjectincludegrab |  
+| bip_39_word_no_space_8 | rebelbuffalocommoneyebrowinjectincludegrabslogan |  
+| bip_39_word_no_space_9 | rebelbuffalocommoneyebrowinjectincludegrabsloganpencil |  
 | bip_39_word_space_0 | ['rebel', 'buffalo', 'common', 'eyebrow', 'inject', 'include', 'grab', 'slogan', 'pencil', 'bicycle', 'dice', 'abstract'] |  
 | bip_39_word_space_1 | rebel |  
 | bip_39_word_space_10 | rebel buffalo common eyebrow inject include grab slogan pencil bicycle |  

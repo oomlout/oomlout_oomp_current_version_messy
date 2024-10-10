@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'polar
   pen
 
   recycle'
+bip_39_word_no_space_1: polar
+bip_39_word_no_space_10: polarforesttideactiongapwordanalystpenrecycledisease
+bip_39_word_no_space_11: polarforesttideactiongapwordanalystpenrecyclediseasesiren
+bip_39_word_no_space_12: polarforesttideactiongapwordanalystpenrecyclediseasesirenadd
+bip_39_word_no_space_2: polarforest
+bip_39_word_no_space_3: polarforesttide
+bip_39_word_no_space_4: polarforesttideaction
+bip_39_word_no_space_5: polarforesttideactiongap
+bip_39_word_no_space_6: polarforesttideactiongapword
+bip_39_word_no_space_7: polarforesttideactiongapwordanalyst
+bip_39_word_no_space_8: polarforesttideactiongapwordanalystpen
+bip_39_word_no_space_9: polarforesttideactiongapwordanalystpenrecycle
 bip_39_word_space_0:
 - polar
 - forest

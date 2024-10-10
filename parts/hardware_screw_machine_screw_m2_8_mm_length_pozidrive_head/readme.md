@@ -122,6 +122,18 @@ speak
 scene
 sail
 rug |  
+| bip_39_word_no_space_1 | power |  
+| bip_39_word_no_space_10 | powerforcetogetherstairstastespeakscenesailrugglass |  
+| bip_39_word_no_space_11 | powerforcetogetherstairstastespeakscenesailrugglasseffort |  
+| bip_39_word_no_space_12 | powerforcetogetherstairstastespeakscenesailrugglasseffortarena |  
+| bip_39_word_no_space_2 | powerforce |  
+| bip_39_word_no_space_3 | powerforcetogether |  
+| bip_39_word_no_space_4 | powerforcetogetherstairs |  
+| bip_39_word_no_space_5 | powerforcetogetherstairstaste |  
+| bip_39_word_no_space_6 | powerforcetogetherstairstastespeak |  
+| bip_39_word_no_space_7 | powerforcetogetherstairstastespeakscene |  
+| bip_39_word_no_space_8 | powerforcetogetherstairstastespeakscenesail |  
+| bip_39_word_no_space_9 | powerforcetogetherstairstastespeakscenesailrug |  
 | bip_39_word_space_0 | ['power', 'force', 'together', 'stairs', 'taste', 'speak', 'scene', 'sail', 'rug', 'glass', 'effort', 'arena'] |  
 | bip_39_word_space_1 | power |  
 | bip_39_word_space_10 | power force together stairs taste speak scene sail rug glass |  

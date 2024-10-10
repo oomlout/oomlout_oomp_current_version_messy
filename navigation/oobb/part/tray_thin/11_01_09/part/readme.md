@@ -122,6 +122,18 @@ update
 portion
 print
 situate |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagesatisfyincreaserescuesignupdateportionprintsituateinspire |  
+| bip_39_word_no_space_11 | vintagesatisfyincreaserescuesignupdateportionprintsituateinspiretoilet |  
+| bip_39_word_no_space_12 | vintagesatisfyincreaserescuesignupdateportionprintsituateinspiretoiletapril |  
+| bip_39_word_no_space_2 | vintagesatisfy |  
+| bip_39_word_no_space_3 | vintagesatisfyincrease |  
+| bip_39_word_no_space_4 | vintagesatisfyincreaserescue |  
+| bip_39_word_no_space_5 | vintagesatisfyincreaserescuesign |  
+| bip_39_word_no_space_6 | vintagesatisfyincreaserescuesignupdate |  
+| bip_39_word_no_space_7 | vintagesatisfyincreaserescuesignupdateportion |  
+| bip_39_word_no_space_8 | vintagesatisfyincreaserescuesignupdateportionprint |  
+| bip_39_word_no_space_9 | vintagesatisfyincreaserescuesignupdateportionprintsituate |  
 | bip_39_word_space_0 | ['vintage', 'satisfy', 'increase', 'rescue', 'sign', 'update', 'portion', 'print', 'situate', 'inspire', 'toilet', 'april'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage satisfy increase rescue sign update portion print situate inspire |  

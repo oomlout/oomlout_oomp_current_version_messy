@@ -122,6 +122,18 @@ sea
 must
 believe
 wish |  
+| bip_39_word_no_space_1 | estate |  
+| bip_39_word_no_space_10 | estatemotionequalbehindleaderseamustbelievewishexample |  
+| bip_39_word_no_space_11 | estatemotionequalbehindleaderseamustbelievewishexampleball |  
+| bip_39_word_no_space_12 | estatemotionequalbehindleaderseamustbelievewishexampleballattend |  
+| bip_39_word_no_space_2 | estatemotion |  
+| bip_39_word_no_space_3 | estatemotionequal |  
+| bip_39_word_no_space_4 | estatemotionequalbehind |  
+| bip_39_word_no_space_5 | estatemotionequalbehindleader |  
+| bip_39_word_no_space_6 | estatemotionequalbehindleadersea |  
+| bip_39_word_no_space_7 | estatemotionequalbehindleaderseamust |  
+| bip_39_word_no_space_8 | estatemotionequalbehindleaderseamustbelieve |  
+| bip_39_word_no_space_9 | estatemotionequalbehindleaderseamustbelievewish |  
 | bip_39_word_space_0 | ['estate', 'motion', 'equal', 'behind', 'leader', 'sea', 'must', 'believe', 'wish', 'example', 'ball', 'attend'] |  
 | bip_39_word_space_1 | estate |  
 | bip_39_word_space_10 | estate motion equal behind leader sea must believe wish example |  

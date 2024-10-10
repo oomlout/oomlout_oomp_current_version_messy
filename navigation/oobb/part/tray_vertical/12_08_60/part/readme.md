@@ -122,6 +122,18 @@ dish
 ugly
 reveal
 trade |  
+| bip_39_word_no_space_1 | regret |  
+| bip_39_word_no_space_10 | regretthenplasticrememberlimitdishuglyrevealtradewinner |  
+| bip_39_word_no_space_11 | regretthenplasticrememberlimitdishuglyrevealtradewinnereagle |  
+| bip_39_word_no_space_12 | regretthenplasticrememberlimitdishuglyrevealtradewinnereagleappear |  
+| bip_39_word_no_space_2 | regretthen |  
+| bip_39_word_no_space_3 | regretthenplastic |  
+| bip_39_word_no_space_4 | regretthenplasticremember |  
+| bip_39_word_no_space_5 | regretthenplasticrememberlimit |  
+| bip_39_word_no_space_6 | regretthenplasticrememberlimitdish |  
+| bip_39_word_no_space_7 | regretthenplasticrememberlimitdishugly |  
+| bip_39_word_no_space_8 | regretthenplasticrememberlimitdishuglyreveal |  
+| bip_39_word_no_space_9 | regretthenplasticrememberlimitdishuglyrevealtrade |  
 | bip_39_word_space_0 | ['regret', 'then', 'plastic', 'remember', 'limit', 'dish', 'ugly', 'reveal', 'trade', 'winner', 'eagle', 'appear'] |  
 | bip_39_word_space_1 | regret |  
 | bip_39_word_space_10 | regret then plastic remember limit dish ugly reveal trade winner |  

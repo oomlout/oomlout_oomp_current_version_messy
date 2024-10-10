@@ -122,6 +122,18 @@ dune
 approve
 vapor
 denial |  
+| bip_39_word_no_space_1 | book |  
+| bip_39_word_no_space_10 | bookdinnermeasureparkeditduneapprovevapordenialarrow |  
+| bip_39_word_no_space_11 | bookdinnermeasureparkeditduneapprovevapordenialarrowtrue |  
+| bip_39_word_no_space_12 | bookdinnermeasureparkeditduneapprovevapordenialarrowtruealmost |  
+| bip_39_word_no_space_2 | bookdinner |  
+| bip_39_word_no_space_3 | bookdinnermeasure |  
+| bip_39_word_no_space_4 | bookdinnermeasurepark |  
+| bip_39_word_no_space_5 | bookdinnermeasureparkedit |  
+| bip_39_word_no_space_6 | bookdinnermeasureparkeditdune |  
+| bip_39_word_no_space_7 | bookdinnermeasureparkeditduneapprove |  
+| bip_39_word_no_space_8 | bookdinnermeasureparkeditduneapprovevapor |  
+| bip_39_word_no_space_9 | bookdinnermeasureparkeditduneapprovevapordenial |  
 | bip_39_word_space_0 | ['book', 'dinner', 'measure', 'park', 'edit', 'dune', 'approve', 'vapor', 'denial', 'arrow', 'true', 'almost'] |  
 | bip_39_word_space_1 | book |  
 | bip_39_word_space_10 | book dinner measure park edit dune approve vapor denial arrow |  

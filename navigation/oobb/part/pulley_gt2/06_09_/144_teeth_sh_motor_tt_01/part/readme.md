@@ -122,6 +122,18 @@ story
 olive
 legend
 exit |  
+| bip_39_word_no_space_1 | pony |  
+| bip_39_word_no_space_10 | ponysustainsupremebubblegingerstoryolivelegendexitweapon |  
+| bip_39_word_no_space_11 | ponysustainsupremebubblegingerstoryolivelegendexitweaponthis |  
+| bip_39_word_no_space_12 | ponysustainsupremebubblegingerstoryolivelegendexitweaponthisable |  
+| bip_39_word_no_space_2 | ponysustain |  
+| bip_39_word_no_space_3 | ponysustainsupreme |  
+| bip_39_word_no_space_4 | ponysustainsupremebubble |  
+| bip_39_word_no_space_5 | ponysustainsupremebubbleginger |  
+| bip_39_word_no_space_6 | ponysustainsupremebubblegingerstory |  
+| bip_39_word_no_space_7 | ponysustainsupremebubblegingerstoryolive |  
+| bip_39_word_no_space_8 | ponysustainsupremebubblegingerstoryolivelegend |  
+| bip_39_word_no_space_9 | ponysustainsupremebubblegingerstoryolivelegendexit |  
 | bip_39_word_space_0 | ['pony', 'sustain', 'supreme', 'bubble', 'ginger', 'story', 'olive', 'legend', 'exit', 'weapon', 'this', 'able'] |  
 | bip_39_word_space_1 | pony |  
 | bip_39_word_space_10 | pony sustain supreme bubble ginger story olive legend exit weapon |  

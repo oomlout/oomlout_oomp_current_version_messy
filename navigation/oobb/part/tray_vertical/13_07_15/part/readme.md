@@ -122,6 +122,18 @@ depend
 useful
 mesh
 month |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportmobileprocessgentledomaindependusefulmeshmonthgenius |  
+| bip_39_word_no_space_11 | reportmobileprocessgentledomaindependusefulmeshmonthgeniusabove |  
+| bip_39_word_no_space_12 | reportmobileprocessgentledomaindependusefulmeshmonthgeniusaboveathlete |  
+| bip_39_word_no_space_2 | reportmobile |  
+| bip_39_word_no_space_3 | reportmobileprocess |  
+| bip_39_word_no_space_4 | reportmobileprocessgentle |  
+| bip_39_word_no_space_5 | reportmobileprocessgentledomain |  
+| bip_39_word_no_space_6 | reportmobileprocessgentledomaindepend |  
+| bip_39_word_no_space_7 | reportmobileprocessgentledomaindependuseful |  
+| bip_39_word_no_space_8 | reportmobileprocessgentledomaindependusefulmesh |  
+| bip_39_word_no_space_9 | reportmobileprocessgentledomaindependusefulmeshmonth |  
 | bip_39_word_space_0 | ['report', 'mobile', 'process', 'gentle', 'domain', 'depend', 'useful', 'mesh', 'month', 'genius', 'above', 'athlete'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report mobile process gentle domain depend useful mesh month genius |  

@@ -122,6 +122,18 @@ auto
 pepper
 settle
 warm |  
+| bip_39_word_no_space_1 | script |  
+| bip_39_word_no_space_10 | scriptcabinstemfuelattitudeautopeppersettlewarmassault |  
+| bip_39_word_no_space_11 | scriptcabinstemfuelattitudeautopeppersettlewarmassaultvacuum |  
+| bip_39_word_no_space_12 | scriptcabinstemfuelattitudeautopeppersettlewarmassaultvacuumasthma |  
+| bip_39_word_no_space_2 | scriptcabin |  
+| bip_39_word_no_space_3 | scriptcabinstem |  
+| bip_39_word_no_space_4 | scriptcabinstemfuel |  
+| bip_39_word_no_space_5 | scriptcabinstemfuelattitude |  
+| bip_39_word_no_space_6 | scriptcabinstemfuelattitudeauto |  
+| bip_39_word_no_space_7 | scriptcabinstemfuelattitudeautopepper |  
+| bip_39_word_no_space_8 | scriptcabinstemfuelattitudeautopeppersettle |  
+| bip_39_word_no_space_9 | scriptcabinstemfuelattitudeautopeppersettlewarm |  
 | bip_39_word_space_0 | ['script', 'cabin', 'stem', 'fuel', 'attitude', 'auto', 'pepper', 'settle', 'warm', 'assault', 'vacuum', 'asthma'] |  
 | bip_39_word_space_1 | script |  
 | bip_39_word_space_10 | script cabin stem fuel attitude auto pepper settle warm assault |  

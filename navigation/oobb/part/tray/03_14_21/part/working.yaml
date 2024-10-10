@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'year
   this
 
   uphold'
+bip_39_word_no_space_1: year
+bip_39_word_no_space_10: yearworrygraceordinarysurgemovietailthisupholdouter
+bip_39_word_no_space_11: yearworrygraceordinarysurgemovietailthisupholdouterpossible
+bip_39_word_no_space_12: yearworrygraceordinarysurgemovietailthisupholdouterpossiblealpha
+bip_39_word_no_space_2: yearworry
+bip_39_word_no_space_3: yearworrygrace
+bip_39_word_no_space_4: yearworrygraceordinary
+bip_39_word_no_space_5: yearworrygraceordinarysurge
+bip_39_word_no_space_6: yearworrygraceordinarysurgemovie
+bip_39_word_no_space_7: yearworrygraceordinarysurgemovietail
+bip_39_word_no_space_8: yearworrygraceordinarysurgemovietailthis
+bip_39_word_no_space_9: yearworrygraceordinarysurgemovietailthisuphold
 bip_39_word_space_0:
 - year
 - worry

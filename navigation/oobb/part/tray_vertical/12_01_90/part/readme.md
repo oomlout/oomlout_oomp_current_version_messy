@@ -122,6 +122,18 @@ toilet
 mean
 vicious
 grocery |  
+| bip_39_word_no_space_1 | camera |  
+| bip_39_word_no_space_10 | cameraautofeefiredishtoiletmeanviciousgroceryanchor |  
+| bip_39_word_no_space_11 | cameraautofeefiredishtoiletmeanviciousgroceryanchorneutral |  
+| bip_39_word_no_space_12 | cameraautofeefiredishtoiletmeanviciousgroceryanchorneutralaspect |  
+| bip_39_word_no_space_2 | cameraauto |  
+| bip_39_word_no_space_3 | cameraautofee |  
+| bip_39_word_no_space_4 | cameraautofeefire |  
+| bip_39_word_no_space_5 | cameraautofeefiredish |  
+| bip_39_word_no_space_6 | cameraautofeefiredishtoilet |  
+| bip_39_word_no_space_7 | cameraautofeefiredishtoiletmean |  
+| bip_39_word_no_space_8 | cameraautofeefiredishtoiletmeanvicious |  
+| bip_39_word_no_space_9 | cameraautofeefiredishtoiletmeanviciousgrocery |  
 | bip_39_word_space_0 | ['camera', 'auto', 'fee', 'fire', 'dish', 'toilet', 'mean', 'vicious', 'grocery', 'anchor', 'neutral', 'aspect'] |  
 | bip_39_word_space_1 | camera |  
 | bip_39_word_space_10 | camera auto fee fire dish toilet mean vicious grocery anchor |  

@@ -122,6 +122,18 @@ decorate
 base
 uphold
 rigid |  
+| bip_39_word_no_space_1 | fit |  
+| bip_39_word_no_space_10 | fitdecadesicksoundmoraldecoratebaseupholdrigidgravity |  
+| bip_39_word_no_space_11 | fitdecadesicksoundmoraldecoratebaseupholdrigidgravityhole |  
+| bip_39_word_no_space_12 | fitdecadesicksoundmoraldecoratebaseupholdrigidgravityholeatom |  
+| bip_39_word_no_space_2 | fitdecade |  
+| bip_39_word_no_space_3 | fitdecadesick |  
+| bip_39_word_no_space_4 | fitdecadesicksound |  
+| bip_39_word_no_space_5 | fitdecadesicksoundmoral |  
+| bip_39_word_no_space_6 | fitdecadesicksoundmoraldecorate |  
+| bip_39_word_no_space_7 | fitdecadesicksoundmoraldecoratebase |  
+| bip_39_word_no_space_8 | fitdecadesicksoundmoraldecoratebaseuphold |  
+| bip_39_word_no_space_9 | fitdecadesicksoundmoraldecoratebaseupholdrigid |  
 | bip_39_word_space_0 | ['fit', 'decade', 'sick', 'sound', 'moral', 'decorate', 'base', 'uphold', 'rigid', 'gravity', 'hole', 'atom'] |  
 | bip_39_word_space_1 | fit |  
 | bip_39_word_space_10 | fit decade sick sound moral decorate base uphold rigid gravity |  

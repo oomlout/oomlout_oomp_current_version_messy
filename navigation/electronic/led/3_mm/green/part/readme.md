@@ -122,6 +122,18 @@ salad
 that
 anxiety
 dry |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueeitherbleakcoyotechecksaladthatanxietydrymaid |  
+| bip_39_word_no_space_11 | issueeitherbleakcoyotechecksaladthatanxietydrymaidnarrow |  
+| bip_39_word_no_space_12 | issueeitherbleakcoyotechecksaladthatanxietydrymaidnarrowallow |  
+| bip_39_word_no_space_2 | issueeither |  
+| bip_39_word_no_space_3 | issueeitherbleak |  
+| bip_39_word_no_space_4 | issueeitherbleakcoyote |  
+| bip_39_word_no_space_5 | issueeitherbleakcoyotecheck |  
+| bip_39_word_no_space_6 | issueeitherbleakcoyotechecksalad |  
+| bip_39_word_no_space_7 | issueeitherbleakcoyotechecksaladthat |  
+| bip_39_word_no_space_8 | issueeitherbleakcoyotechecksaladthatanxiety |  
+| bip_39_word_no_space_9 | issueeitherbleakcoyotechecksaladthatanxietydry |  
 | bip_39_word_space_0 | ['issue', 'either', 'bleak', 'coyote', 'check', 'salad', 'that', 'anxiety', 'dry', 'maid', 'narrow', 'allow'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue either bleak coyote check salad that anxiety dry maid |  

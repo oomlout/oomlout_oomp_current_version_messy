@@ -122,6 +122,18 @@ maid
 always
 amount
 clown |  
+| bip_39_word_no_space_1 | pen |  
+| bip_39_word_no_space_10 | penmobilemediavisaridgemaidalwaysamountclownhobby |  
+| bip_39_word_no_space_11 | penmobilemediavisaridgemaidalwaysamountclownhobbyagain |  
+| bip_39_word_no_space_12 | penmobilemediavisaridgemaidalwaysamountclownhobbyagainargue |  
+| bip_39_word_no_space_2 | penmobile |  
+| bip_39_word_no_space_3 | penmobilemedia |  
+| bip_39_word_no_space_4 | penmobilemediavisa |  
+| bip_39_word_no_space_5 | penmobilemediavisaridge |  
+| bip_39_word_no_space_6 | penmobilemediavisaridgemaid |  
+| bip_39_word_no_space_7 | penmobilemediavisaridgemaidalways |  
+| bip_39_word_no_space_8 | penmobilemediavisaridgemaidalwaysamount |  
+| bip_39_word_no_space_9 | penmobilemediavisaridgemaidalwaysamountclown |  
 | bip_39_word_space_0 | ['pen', 'mobile', 'media', 'visa', 'ridge', 'maid', 'always', 'amount', 'clown', 'hobby', 'again', 'argue'] |  
 | bip_39_word_space_1 | pen |  
 | bip_39_word_space_10 | pen mobile media visa ridge maid always amount clown hobby |  

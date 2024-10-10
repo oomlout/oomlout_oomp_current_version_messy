@@ -122,6 +122,18 @@ crew
 mass
 seminar
 message |  
+| bip_39_word_no_space_1 | curtain |  
+| bip_39_word_no_space_10 | curtaintableroomlivenoodlecrewmassseminarmessagemonitor |  
+| bip_39_word_no_space_11 | curtaintableroomlivenoodlecrewmassseminarmessagemonitorexhibit |  
+| bip_39_word_no_space_12 | curtaintableroomlivenoodlecrewmassseminarmessagemonitorexhibitathlete |  
+| bip_39_word_no_space_2 | curtaintable |  
+| bip_39_word_no_space_3 | curtaintableroom |  
+| bip_39_word_no_space_4 | curtaintableroomlive |  
+| bip_39_word_no_space_5 | curtaintableroomlivenoodle |  
+| bip_39_word_no_space_6 | curtaintableroomlivenoodlecrew |  
+| bip_39_word_no_space_7 | curtaintableroomlivenoodlecrewmass |  
+| bip_39_word_no_space_8 | curtaintableroomlivenoodlecrewmassseminar |  
+| bip_39_word_no_space_9 | curtaintableroomlivenoodlecrewmassseminarmessage |  
 | bip_39_word_space_0 | ['curtain', 'table', 'room', 'live', 'noodle', 'crew', 'mass', 'seminar', 'message', 'monitor', 'exhibit', 'athlete'] |  
 | bip_39_word_space_1 | curtain |  
 | bip_39_word_space_10 | curtain table room live noodle crew mass seminar message monitor |  

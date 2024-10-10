@@ -122,6 +122,18 @@ discover
 orbit
 brand
 economy |  
+| bip_39_word_no_space_1 | observe |  
+| bip_39_word_no_space_10 | observemindexhibitmatrixcirclediscoverorbitbrandeconomystruggle |  
+| bip_39_word_no_space_11 | observemindexhibitmatrixcirclediscoverorbitbrandeconomystrugglesalmon |  
+| bip_39_word_no_space_12 | observemindexhibitmatrixcirclediscoverorbitbrandeconomystrugglesalmonantenna |  
+| bip_39_word_no_space_2 | observemind |  
+| bip_39_word_no_space_3 | observemindexhibit |  
+| bip_39_word_no_space_4 | observemindexhibitmatrix |  
+| bip_39_word_no_space_5 | observemindexhibitmatrixcircle |  
+| bip_39_word_no_space_6 | observemindexhibitmatrixcirclediscover |  
+| bip_39_word_no_space_7 | observemindexhibitmatrixcirclediscoverorbit |  
+| bip_39_word_no_space_8 | observemindexhibitmatrixcirclediscoverorbitbrand |  
+| bip_39_word_no_space_9 | observemindexhibitmatrixcirclediscoverorbitbrandeconomy |  
 | bip_39_word_space_0 | ['observe', 'mind', 'exhibit', 'matrix', 'circle', 'discover', 'orbit', 'brand', 'economy', 'struggle', 'salmon', 'antenna'] |  
 | bip_39_word_space_1 | observe |  
 | bip_39_word_space_10 | observe mind exhibit matrix circle discover orbit brand economy struggle |  

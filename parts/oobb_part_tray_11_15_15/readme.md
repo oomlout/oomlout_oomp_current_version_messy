@@ -122,6 +122,18 @@ refuse
 sure
 scale
 invite |  
+| bip_39_word_no_space_1 | champion |  
+| bip_39_word_no_space_10 | championsoonadvicevelvetalleyrefusesurescaleinvitecloud |  
+| bip_39_word_no_space_11 | championsoonadvicevelvetalleyrefusesurescaleinvitecloudlumber |  
+| bip_39_word_no_space_12 | championsoonadvicevelvetalleyrefusesurescaleinvitecloudlumberapril |  
+| bip_39_word_no_space_2 | championsoon |  
+| bip_39_word_no_space_3 | championsoonadvice |  
+| bip_39_word_no_space_4 | championsoonadvicevelvet |  
+| bip_39_word_no_space_5 | championsoonadvicevelvetalley |  
+| bip_39_word_no_space_6 | championsoonadvicevelvetalleyrefuse |  
+| bip_39_word_no_space_7 | championsoonadvicevelvetalleyrefusesure |  
+| bip_39_word_no_space_8 | championsoonadvicevelvetalleyrefusesurescale |  
+| bip_39_word_no_space_9 | championsoonadvicevelvetalleyrefusesurescaleinvite |  
 | bip_39_word_space_0 | ['champion', 'soon', 'advice', 'velvet', 'alley', 'refuse', 'sure', 'scale', 'invite', 'cloud', 'lumber', 'april'] |  
 | bip_39_word_space_1 | champion |  
 | bip_39_word_space_10 | champion soon advice velvet alley refuse sure scale invite cloud |  

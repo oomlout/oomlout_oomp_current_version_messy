@@ -122,6 +122,18 @@ deal
 decrease
 cinnamon
 brass |  
+| bip_39_word_no_space_1 | world |  
+| bip_39_word_no_space_10 | worldincluderequiresurveyradardealdecreasecinnamonbrassscene |  
+| bip_39_word_no_space_11 | worldincluderequiresurveyradardealdecreasecinnamonbrassscenestomach |  
+| bip_39_word_no_space_12 | worldincluderequiresurveyradardealdecreasecinnamonbrassscenestomachalley |  
+| bip_39_word_no_space_2 | worldinclude |  
+| bip_39_word_no_space_3 | worldincluderequire |  
+| bip_39_word_no_space_4 | worldincluderequiresurvey |  
+| bip_39_word_no_space_5 | worldincluderequiresurveyradar |  
+| bip_39_word_no_space_6 | worldincluderequiresurveyradardeal |  
+| bip_39_word_no_space_7 | worldincluderequiresurveyradardealdecrease |  
+| bip_39_word_no_space_8 | worldincluderequiresurveyradardealdecreasecinnamon |  
+| bip_39_word_no_space_9 | worldincluderequiresurveyradardealdecreasecinnamonbrass |  
 | bip_39_word_space_0 | ['world', 'include', 'require', 'survey', 'radar', 'deal', 'decrease', 'cinnamon', 'brass', 'scene', 'stomach', 'alley'] |  
 | bip_39_word_space_1 | world |  
 | bip_39_word_space_10 | world include require survey radar deal decrease cinnamon brass scene |  

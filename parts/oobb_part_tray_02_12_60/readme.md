@@ -122,6 +122,18 @@ engage
 put
 core
 cause |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympicenablegorillamelodyriskengageputcorecausethat |  
+| bip_39_word_no_space_11 | olympicenablegorillamelodyriskengageputcorecausethatpayment |  
+| bip_39_word_no_space_12 | olympicenablegorillamelodyriskengageputcorecausethatpaymentany |  
+| bip_39_word_no_space_2 | olympicenable |  
+| bip_39_word_no_space_3 | olympicenablegorilla |  
+| bip_39_word_no_space_4 | olympicenablegorillamelody |  
+| bip_39_word_no_space_5 | olympicenablegorillamelodyrisk |  
+| bip_39_word_no_space_6 | olympicenablegorillamelodyriskengage |  
+| bip_39_word_no_space_7 | olympicenablegorillamelodyriskengageput |  
+| bip_39_word_no_space_8 | olympicenablegorillamelodyriskengageputcore |  
+| bip_39_word_no_space_9 | olympicenablegorillamelodyriskengageputcorecause |  
 | bip_39_word_space_0 | ['olympic', 'enable', 'gorilla', 'melody', 'risk', 'engage', 'put', 'core', 'cause', 'that', 'payment', 'any'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic enable gorilla melody risk engage put core cause that |  

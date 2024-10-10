@@ -122,6 +122,18 @@ walk
 host
 decide
 elegant |  
+| bip_39_word_no_space_1 | source |  
+| bip_39_word_no_space_10 | sourceflowertoymandategainwalkhostdecideelegantbrain |  
+| bip_39_word_no_space_11 | sourceflowertoymandategainwalkhostdecideelegantbrainsight |  
+| bip_39_word_no_space_12 | sourceflowertoymandategainwalkhostdecideelegantbrainsightaccident |  
+| bip_39_word_no_space_2 | sourceflower |  
+| bip_39_word_no_space_3 | sourceflowertoy |  
+| bip_39_word_no_space_4 | sourceflowertoymandate |  
+| bip_39_word_no_space_5 | sourceflowertoymandategain |  
+| bip_39_word_no_space_6 | sourceflowertoymandategainwalk |  
+| bip_39_word_no_space_7 | sourceflowertoymandategainwalkhost |  
+| bip_39_word_no_space_8 | sourceflowertoymandategainwalkhostdecide |  
+| bip_39_word_no_space_9 | sourceflowertoymandategainwalkhostdecideelegant |  
 | bip_39_word_space_0 | ['source', 'flower', 'toy', 'mandate', 'gain', 'walk', 'host', 'decide', 'elegant', 'brain', 'sight', 'accident'] |  
 | bip_39_word_space_1 | source |  
 | bip_39_word_space_10 | source flower toy mandate gain walk host decide elegant brain |  

@@ -122,6 +122,18 @@ conduct
 daughter
 wrap
 check |  
+| bip_39_word_no_space_1 | dust |  
+| bip_39_word_no_space_10 | dustwreckcolumnmuchfenceconductdaughterwrapcheckadvice |  
+| bip_39_word_no_space_11 | dustwreckcolumnmuchfenceconductdaughterwrapcheckadvicecabbage |  
+| bip_39_word_no_space_12 | dustwreckcolumnmuchfenceconductdaughterwrapcheckadvicecabbageauto |  
+| bip_39_word_no_space_2 | dustwreck |  
+| bip_39_word_no_space_3 | dustwreckcolumn |  
+| bip_39_word_no_space_4 | dustwreckcolumnmuch |  
+| bip_39_word_no_space_5 | dustwreckcolumnmuchfence |  
+| bip_39_word_no_space_6 | dustwreckcolumnmuchfenceconduct |  
+| bip_39_word_no_space_7 | dustwreckcolumnmuchfenceconductdaughter |  
+| bip_39_word_no_space_8 | dustwreckcolumnmuchfenceconductdaughterwrap |  
+| bip_39_word_no_space_9 | dustwreckcolumnmuchfenceconductdaughterwrapcheck |  
 | bip_39_word_space_0 | ['dust', 'wreck', 'column', 'much', 'fence', 'conduct', 'daughter', 'wrap', 'check', 'advice', 'cabbage', 'auto'] |  
 | bip_39_word_space_1 | dust |  
 | bip_39_word_space_10 | dust wreck column much fence conduct daughter wrap check advice |  

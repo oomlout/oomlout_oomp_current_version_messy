@@ -122,6 +122,18 @@ awesome
 symbol
 during
 shield |  
+| bip_39_word_no_space_1 | much |  
+| bip_39_word_no_space_10 | muchchurnlocalsocialtradeawesomesymbolduringshieldslab |  
+| bip_39_word_no_space_11 | muchchurnlocalsocialtradeawesomesymbolduringshieldslabrather |  
+| bip_39_word_no_space_12 | muchchurnlocalsocialtradeawesomesymbolduringshieldslabratherasset |  
+| bip_39_word_no_space_2 | muchchurn |  
+| bip_39_word_no_space_3 | muchchurnlocal |  
+| bip_39_word_no_space_4 | muchchurnlocalsocial |  
+| bip_39_word_no_space_5 | muchchurnlocalsocialtrade |  
+| bip_39_word_no_space_6 | muchchurnlocalsocialtradeawesome |  
+| bip_39_word_no_space_7 | muchchurnlocalsocialtradeawesomesymbol |  
+| bip_39_word_no_space_8 | muchchurnlocalsocialtradeawesomesymbolduring |  
+| bip_39_word_no_space_9 | muchchurnlocalsocialtradeawesomesymbolduringshield |  
 | bip_39_word_space_0 | ['much', 'churn', 'local', 'social', 'trade', 'awesome', 'symbol', 'during', 'shield', 'slab', 'rather', 'asset'] |  
 | bip_39_word_space_1 | much |  
 | bip_39_word_space_10 | much churn local social trade awesome symbol during shield slab |  

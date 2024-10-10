@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'boss
   admit
 
   village'
+bip_39_word_no_space_1: boss
+bip_39_word_no_space_10: bossallillegalgaspmobileoilcrunchadmitvillagememory
+bip_39_word_no_space_11: bossallillegalgaspmobileoilcrunchadmitvillagememorychimney
+bip_39_word_no_space_12: bossallillegalgaspmobileoilcrunchadmitvillagememorychimneyabove
+bip_39_word_no_space_2: bossall
+bip_39_word_no_space_3: bossallillegal
+bip_39_word_no_space_4: bossallillegalgasp
+bip_39_word_no_space_5: bossallillegalgaspmobile
+bip_39_word_no_space_6: bossallillegalgaspmobileoil
+bip_39_word_no_space_7: bossallillegalgaspmobileoilcrunch
+bip_39_word_no_space_8: bossallillegalgaspmobileoilcrunchadmit
+bip_39_word_no_space_9: bossallillegalgaspmobileoilcrunchadmitvillage
 bip_39_word_space_0:
 - boss
 - all

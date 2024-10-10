@@ -122,6 +122,18 @@ wing
 old
 attend
 later |  
+| bip_39_word_no_space_1 | gadget |  
+| bip_39_word_no_space_10 | gadgetmodelcrazyfancytherewingoldattendlatershy |  
+| bip_39_word_no_space_11 | gadgetmodelcrazyfancytherewingoldattendlatershyassume |  
+| bip_39_word_no_space_12 | gadgetmodelcrazyfancytherewingoldattendlatershyassumeapprove |  
+| bip_39_word_no_space_2 | gadgetmodel |  
+| bip_39_word_no_space_3 | gadgetmodelcrazy |  
+| bip_39_word_no_space_4 | gadgetmodelcrazyfancy |  
+| bip_39_word_no_space_5 | gadgetmodelcrazyfancythere |  
+| bip_39_word_no_space_6 | gadgetmodelcrazyfancytherewing |  
+| bip_39_word_no_space_7 | gadgetmodelcrazyfancytherewingold |  
+| bip_39_word_no_space_8 | gadgetmodelcrazyfancytherewingoldattend |  
+| bip_39_word_no_space_9 | gadgetmodelcrazyfancytherewingoldattendlater |  
 | bip_39_word_space_0 | ['gadget', 'model', 'crazy', 'fancy', 'there', 'wing', 'old', 'attend', 'later', 'shy', 'assume', 'approve'] |  
 | bip_39_word_space_1 | gadget |  
 | bip_39_word_space_10 | gadget model crazy fancy there wing old attend later shy |  

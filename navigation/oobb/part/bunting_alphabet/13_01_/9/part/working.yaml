@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'color
   extend
 
   tobacco'
+bip_39_word_no_space_1: color
+bip_39_word_no_space_10: colorgritglowexcludeequipponysteelextendtobaccofashion
+bip_39_word_no_space_11: colorgritglowexcludeequipponysteelextendtobaccofashionmeasure
+bip_39_word_no_space_12: colorgritglowexcludeequipponysteelextendtobaccofashionmeasureannual
+bip_39_word_no_space_2: colorgrit
+bip_39_word_no_space_3: colorgritglow
+bip_39_word_no_space_4: colorgritglowexclude
+bip_39_word_no_space_5: colorgritglowexcludeequip
+bip_39_word_no_space_6: colorgritglowexcludeequippony
+bip_39_word_no_space_7: colorgritglowexcludeequipponysteel
+bip_39_word_no_space_8: colorgritglowexcludeequipponysteelextend
+bip_39_word_no_space_9: colorgritglowexcludeequipponysteelextendtobacco
 bip_39_word_space_0:
 - color
 - grit

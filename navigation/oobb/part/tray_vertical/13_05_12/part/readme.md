@@ -122,6 +122,18 @@ room
 debris
 tragic
 sugar |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accuseprotectsightupperhourroomdebristragicsugarlegal |  
+| bip_39_word_no_space_11 | accuseprotectsightupperhourroomdebristragicsugarlegalfashion |  
+| bip_39_word_no_space_12 | accuseprotectsightupperhourroomdebristragicsugarlegalfashionalien |  
+| bip_39_word_no_space_2 | accuseprotect |  
+| bip_39_word_no_space_3 | accuseprotectsight |  
+| bip_39_word_no_space_4 | accuseprotectsightupper |  
+| bip_39_word_no_space_5 | accuseprotectsightupperhour |  
+| bip_39_word_no_space_6 | accuseprotectsightupperhourroom |  
+| bip_39_word_no_space_7 | accuseprotectsightupperhourroomdebris |  
+| bip_39_word_no_space_8 | accuseprotectsightupperhourroomdebristragic |  
+| bip_39_word_no_space_9 | accuseprotectsightupperhourroomdebristragicsugar |  
 | bip_39_word_space_0 | ['accuse', 'protect', 'sight', 'upper', 'hour', 'room', 'debris', 'tragic', 'sugar', 'legal', 'fashion', 'alien'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse protect sight upper hour room debris tragic sugar legal |  

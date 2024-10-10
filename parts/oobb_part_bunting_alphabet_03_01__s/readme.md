@@ -122,6 +122,18 @@ finger
 fiction
 bind
 retire |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blackvalvebravecousinfirefingerfictionbindretirevenue |  
+| bip_39_word_no_space_11 | blackvalvebravecousinfirefingerfictionbindretirevenueconfirm |  
+| bip_39_word_no_space_12 | blackvalvebravecousinfirefingerfictionbindretirevenueconfirmabove |  
+| bip_39_word_no_space_2 | blackvalve |  
+| bip_39_word_no_space_3 | blackvalvebrave |  
+| bip_39_word_no_space_4 | blackvalvebravecousin |  
+| bip_39_word_no_space_5 | blackvalvebravecousinfire |  
+| bip_39_word_no_space_6 | blackvalvebravecousinfirefinger |  
+| bip_39_word_no_space_7 | blackvalvebravecousinfirefingerfiction |  
+| bip_39_word_no_space_8 | blackvalvebravecousinfirefingerfictionbind |  
+| bip_39_word_no_space_9 | blackvalvebravecousinfirefingerfictionbindretire |  
 | bip_39_word_space_0 | ['black', 'valve', 'brave', 'cousin', 'fire', 'finger', 'fiction', 'bind', 'retire', 'venue', 'confirm', 'above'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black valve brave cousin fire finger fiction bind retire venue |  

@@ -122,6 +122,18 @@ require
 term
 always
 include |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehicleadaptcapitalskullozonerequiretermalwaysincludeguilt |  
+| bip_39_word_no_space_11 | vehicleadaptcapitalskullozonerequiretermalwaysincludeguiltwarm |  
+| bip_39_word_no_space_12 | vehicleadaptcapitalskullozonerequiretermalwaysincludeguiltwarmasset |  
+| bip_39_word_no_space_2 | vehicleadapt |  
+| bip_39_word_no_space_3 | vehicleadaptcapital |  
+| bip_39_word_no_space_4 | vehicleadaptcapitalskull |  
+| bip_39_word_no_space_5 | vehicleadaptcapitalskullozone |  
+| bip_39_word_no_space_6 | vehicleadaptcapitalskullozonerequire |  
+| bip_39_word_no_space_7 | vehicleadaptcapitalskullozonerequireterm |  
+| bip_39_word_no_space_8 | vehicleadaptcapitalskullozonerequiretermalways |  
+| bip_39_word_no_space_9 | vehicleadaptcapitalskullozonerequiretermalwaysinclude |  
 | bip_39_word_space_0 | ['vehicle', 'adapt', 'capital', 'skull', 'ozone', 'require', 'term', 'always', 'include', 'guilt', 'warm', 'asset'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle adapt capital skull ozone require term always include guilt |  

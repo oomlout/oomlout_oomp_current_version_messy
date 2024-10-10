@@ -122,6 +122,18 @@ auto
 business
 hammer
 when |  
+| bip_39_word_no_space_1 | bracket |  
+| bip_39_word_no_space_10 | bracketbarrelvesseltimetennisautobusinesshammerwhenremove |  
+| bip_39_word_no_space_11 | bracketbarrelvesseltimetennisautobusinesshammerwhenremoveword |  
+| bip_39_word_no_space_12 | bracketbarrelvesseltimetennisautobusinesshammerwhenremovewordasset |  
+| bip_39_word_no_space_2 | bracketbarrel |  
+| bip_39_word_no_space_3 | bracketbarrelvessel |  
+| bip_39_word_no_space_4 | bracketbarrelvesseltime |  
+| bip_39_word_no_space_5 | bracketbarrelvesseltimetennis |  
+| bip_39_word_no_space_6 | bracketbarrelvesseltimetennisauto |  
+| bip_39_word_no_space_7 | bracketbarrelvesseltimetennisautobusiness |  
+| bip_39_word_no_space_8 | bracketbarrelvesseltimetennisautobusinesshammer |  
+| bip_39_word_no_space_9 | bracketbarrelvesseltimetennisautobusinesshammerwhen |  
 | bip_39_word_space_0 | ['bracket', 'barrel', 'vessel', 'time', 'tennis', 'auto', 'business', 'hammer', 'when', 'remove', 'word', 'asset'] |  
 | bip_39_word_space_1 | bracket |  
 | bip_39_word_space_10 | bracket barrel vessel time tennis auto business hammer when remove |  

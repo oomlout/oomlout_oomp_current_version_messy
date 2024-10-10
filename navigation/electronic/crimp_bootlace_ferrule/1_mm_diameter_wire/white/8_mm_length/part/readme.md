@@ -122,6 +122,18 @@ knock
 model
 swamp
 sand |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slenderorchardhumorbicycledawnknockmodelswampsandhazard |  
+| bip_39_word_no_space_11 | slenderorchardhumorbicycledawnknockmodelswampsandhazardessay |  
+| bip_39_word_no_space_12 | slenderorchardhumorbicycledawnknockmodelswampsandhazardessayafraid |  
+| bip_39_word_no_space_2 | slenderorchard |  
+| bip_39_word_no_space_3 | slenderorchardhumor |  
+| bip_39_word_no_space_4 | slenderorchardhumorbicycle |  
+| bip_39_word_no_space_5 | slenderorchardhumorbicycledawn |  
+| bip_39_word_no_space_6 | slenderorchardhumorbicycledawnknock |  
+| bip_39_word_no_space_7 | slenderorchardhumorbicycledawnknockmodel |  
+| bip_39_word_no_space_8 | slenderorchardhumorbicycledawnknockmodelswamp |  
+| bip_39_word_no_space_9 | slenderorchardhumorbicycledawnknockmodelswampsand |  
 | bip_39_word_space_0 | ['slender', 'orchard', 'humor', 'bicycle', 'dawn', 'knock', 'model', 'swamp', 'sand', 'hazard', 'essay', 'afraid'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender orchard humor bicycle dawn knock model swamp sand hazard |  

@@ -122,6 +122,18 @@ hybrid
 swing
 still
 tilt |  
+| bip_39_word_no_space_1 | spray |  
+| bip_39_word_no_space_10 | spraysizegloveadmittaskhybridswingstilltiltstill |  
+| bip_39_word_no_space_11 | spraysizegloveadmittaskhybridswingstilltiltstilltrim |  
+| bip_39_word_no_space_12 | spraysizegloveadmittaskhybridswingstilltiltstilltrimabuse |  
+| bip_39_word_no_space_2 | spraysize |  
+| bip_39_word_no_space_3 | spraysizeglove |  
+| bip_39_word_no_space_4 | spraysizegloveadmit |  
+| bip_39_word_no_space_5 | spraysizegloveadmittask |  
+| bip_39_word_no_space_6 | spraysizegloveadmittaskhybrid |  
+| bip_39_word_no_space_7 | spraysizegloveadmittaskhybridswing |  
+| bip_39_word_no_space_8 | spraysizegloveadmittaskhybridswingstill |  
+| bip_39_word_no_space_9 | spraysizegloveadmittaskhybridswingstilltilt |  
 | bip_39_word_space_0 | ['spray', 'size', 'glove', 'admit', 'task', 'hybrid', 'swing', 'still', 'tilt', 'still', 'trim', 'abuse'] |  
 | bip_39_word_space_1 | spray |  
 | bip_39_word_space_10 | spray size glove admit task hybrid swing still tilt still |  

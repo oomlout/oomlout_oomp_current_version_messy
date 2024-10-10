@@ -122,6 +122,18 @@ blame
 bonus
 olive
 educate |  
+| bip_39_word_no_space_1 | purpose |  
+| bip_39_word_no_space_10 | purposehungrywhipstemdragonblamebonusoliveeducatebusiness |  
+| bip_39_word_no_space_11 | purposehungrywhipstemdragonblamebonusoliveeducatebusinessdisorder |  
+| bip_39_word_no_space_12 | purposehungrywhipstemdragonblamebonusoliveeducatebusinessdisorderairport |  
+| bip_39_word_no_space_2 | purposehungry |  
+| bip_39_word_no_space_3 | purposehungrywhip |  
+| bip_39_word_no_space_4 | purposehungrywhipstem |  
+| bip_39_word_no_space_5 | purposehungrywhipstemdragon |  
+| bip_39_word_no_space_6 | purposehungrywhipstemdragonblame |  
+| bip_39_word_no_space_7 | purposehungrywhipstemdragonblamebonus |  
+| bip_39_word_no_space_8 | purposehungrywhipstemdragonblamebonusolive |  
+| bip_39_word_no_space_9 | purposehungrywhipstemdragonblamebonusoliveeducate |  
 | bip_39_word_space_0 | ['purpose', 'hungry', 'whip', 'stem', 'dragon', 'blame', 'bonus', 'olive', 'educate', 'business', 'disorder', 'airport'] |  
 | bip_39_word_space_1 | purpose |  
 | bip_39_word_space_10 | purpose hungry whip stem dragon blame bonus olive educate business |  

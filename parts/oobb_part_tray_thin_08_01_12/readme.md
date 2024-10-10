@@ -122,6 +122,18 @@ critic
 elder
 orbit
 boil |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | sellraccoonspicefatalislandcriticelderorbitboilfringe |  
+| bip_39_word_no_space_11 | sellraccoonspicefatalislandcriticelderorbitboilfringesalt |  
+| bip_39_word_no_space_12 | sellraccoonspicefatalislandcriticelderorbitboilfringesaltair |  
+| bip_39_word_no_space_2 | sellraccoon |  
+| bip_39_word_no_space_3 | sellraccoonspice |  
+| bip_39_word_no_space_4 | sellraccoonspicefatal |  
+| bip_39_word_no_space_5 | sellraccoonspicefatalisland |  
+| bip_39_word_no_space_6 | sellraccoonspicefatalislandcritic |  
+| bip_39_word_no_space_7 | sellraccoonspicefatalislandcriticelder |  
+| bip_39_word_no_space_8 | sellraccoonspicefatalislandcriticelderorbit |  
+| bip_39_word_no_space_9 | sellraccoonspicefatalislandcriticelderorbitboil |  
 | bip_39_word_space_0 | ['sell', 'raccoon', 'spice', 'fatal', 'island', 'critic', 'elder', 'orbit', 'boil', 'fringe', 'salt', 'air'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell raccoon spice fatal island critic elder orbit boil fringe |  

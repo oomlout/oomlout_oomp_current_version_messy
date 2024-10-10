@@ -122,6 +122,18 @@ ancient
 discover
 rug
 share |  
+| bip_39_word_no_space_1 | muffin |  
+| bip_39_word_no_space_10 | muffinpuzzleeducatedestroybehindancientdiscoverrugsharesiren |  
+| bip_39_word_no_space_11 | muffinpuzzleeducatedestroybehindancientdiscoverrugsharesirendepend |  
+| bip_39_word_no_space_12 | muffinpuzzleeducatedestroybehindancientdiscoverrugsharesirendependamateur |  
+| bip_39_word_no_space_2 | muffinpuzzle |  
+| bip_39_word_no_space_3 | muffinpuzzleeducate |  
+| bip_39_word_no_space_4 | muffinpuzzleeducatedestroy |  
+| bip_39_word_no_space_5 | muffinpuzzleeducatedestroybehind |  
+| bip_39_word_no_space_6 | muffinpuzzleeducatedestroybehindancient |  
+| bip_39_word_no_space_7 | muffinpuzzleeducatedestroybehindancientdiscover |  
+| bip_39_word_no_space_8 | muffinpuzzleeducatedestroybehindancientdiscoverrug |  
+| bip_39_word_no_space_9 | muffinpuzzleeducatedestroybehindancientdiscoverrugshare |  
 | bip_39_word_space_0 | ['muffin', 'puzzle', 'educate', 'destroy', 'behind', 'ancient', 'discover', 'rug', 'share', 'siren', 'depend', 'amateur'] |  
 | bip_39_word_space_1 | muffin |  
 | bip_39_word_space_10 | muffin puzzle educate destroy behind ancient discover rug share siren |  

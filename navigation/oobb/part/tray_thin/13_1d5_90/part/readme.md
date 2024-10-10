@@ -122,6 +122,18 @@ three
 luxury
 purchase
 under |  
+| bip_39_word_no_space_1 | crime |  
+| bip_39_word_no_space_10 | crimeholddevotefunnytentthreeluxurypurchaseunderforest |  
+| bip_39_word_no_space_11 | crimeholddevotefunnytentthreeluxurypurchaseunderforestcruel |  
+| bip_39_word_no_space_12 | crimeholddevotefunnytentthreeluxurypurchaseunderforestcruelauto |  
+| bip_39_word_no_space_2 | crimehold |  
+| bip_39_word_no_space_3 | crimeholddevote |  
+| bip_39_word_no_space_4 | crimeholddevotefunny |  
+| bip_39_word_no_space_5 | crimeholddevotefunnytent |  
+| bip_39_word_no_space_6 | crimeholddevotefunnytentthree |  
+| bip_39_word_no_space_7 | crimeholddevotefunnytentthreeluxury |  
+| bip_39_word_no_space_8 | crimeholddevotefunnytentthreeluxurypurchase |  
+| bip_39_word_no_space_9 | crimeholddevotefunnytentthreeluxurypurchaseunder |  
 | bip_39_word_space_0 | ['crime', 'hold', 'devote', 'funny', 'tent', 'three', 'luxury', 'purchase', 'under', 'forest', 'cruel', 'auto'] |  
 | bip_39_word_space_1 | crime |  
 | bip_39_word_space_10 | crime hold devote funny tent three luxury purchase under forest |  

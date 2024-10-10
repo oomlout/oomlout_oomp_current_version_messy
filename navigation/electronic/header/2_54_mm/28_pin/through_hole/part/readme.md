@@ -122,6 +122,18 @@ letter
 black
 hover
 shrimp |  
+| bip_39_word_no_space_1 | gossip |  
+| bip_39_word_no_space_10 | gossipscarealleyweathersnakeletterblackhovershrimpperfect |  
+| bip_39_word_no_space_11 | gossipscarealleyweathersnakeletterblackhovershrimpperfectshift |  
+| bip_39_word_no_space_12 | gossipscarealleyweathersnakeletterblackhovershrimpperfectshiftarch |  
+| bip_39_word_no_space_2 | gossipscare |  
+| bip_39_word_no_space_3 | gossipscarealley |  
+| bip_39_word_no_space_4 | gossipscarealleyweather |  
+| bip_39_word_no_space_5 | gossipscarealleyweathersnake |  
+| bip_39_word_no_space_6 | gossipscarealleyweathersnakeletter |  
+| bip_39_word_no_space_7 | gossipscarealleyweathersnakeletterblack |  
+| bip_39_word_no_space_8 | gossipscarealleyweathersnakeletterblackhover |  
+| bip_39_word_no_space_9 | gossipscarealleyweathersnakeletterblackhovershrimp |  
 | bip_39_word_space_0 | ['gossip', 'scare', 'alley', 'weather', 'snake', 'letter', 'black', 'hover', 'shrimp', 'perfect', 'shift', 'arch'] |  
 | bip_39_word_space_1 | gossip |  
 | bip_39_word_space_10 | gossip scare alley weather snake letter black hover shrimp perfect |  

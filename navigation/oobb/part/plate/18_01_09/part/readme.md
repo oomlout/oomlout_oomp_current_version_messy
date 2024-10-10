@@ -122,6 +122,18 @@ oven
 logic
 enter
 render |  
+| bip_39_word_no_space_1 | obvious |  
+| bip_39_word_no_space_10 | obviouslakefuelmediacolumnovenlogicenterrendersay |  
+| bip_39_word_no_space_11 | obviouslakefuelmediacolumnovenlogicenterrendersaypurchase |  
+| bip_39_word_no_space_12 | obviouslakefuelmediacolumnovenlogicenterrendersaypurchaseadjust |  
+| bip_39_word_no_space_2 | obviouslake |  
+| bip_39_word_no_space_3 | obviouslakefuel |  
+| bip_39_word_no_space_4 | obviouslakefuelmedia |  
+| bip_39_word_no_space_5 | obviouslakefuelmediacolumn |  
+| bip_39_word_no_space_6 | obviouslakefuelmediacolumnoven |  
+| bip_39_word_no_space_7 | obviouslakefuelmediacolumnovenlogic |  
+| bip_39_word_no_space_8 | obviouslakefuelmediacolumnovenlogicenter |  
+| bip_39_word_no_space_9 | obviouslakefuelmediacolumnovenlogicenterrender |  
 | bip_39_word_space_0 | ['obvious', 'lake', 'fuel', 'media', 'column', 'oven', 'logic', 'enter', 'render', 'say', 'purchase', 'adjust'] |  
 | bip_39_word_space_1 | obvious |  
 | bip_39_word_space_10 | obvious lake fuel media column oven logic enter render say |  

@@ -122,6 +122,18 @@ team
 medal
 roof
 evil |  
+| bip_39_word_no_space_1 | obey |  
+| bip_39_word_no_space_10 | obeyturndefensefacepillteammedalroofevilshoot |  
+| bip_39_word_no_space_11 | obeyturndefensefacepillteammedalroofevilshootbelieve |  
+| bip_39_word_no_space_12 | obeyturndefensefacepillteammedalroofevilshootbelieveask |  
+| bip_39_word_no_space_2 | obeyturn |  
+| bip_39_word_no_space_3 | obeyturndefense |  
+| bip_39_word_no_space_4 | obeyturndefenseface |  
+| bip_39_word_no_space_5 | obeyturndefensefacepill |  
+| bip_39_word_no_space_6 | obeyturndefensefacepillteam |  
+| bip_39_word_no_space_7 | obeyturndefensefacepillteammedal |  
+| bip_39_word_no_space_8 | obeyturndefensefacepillteammedalroof |  
+| bip_39_word_no_space_9 | obeyturndefensefacepillteammedalroofevil |  
 | bip_39_word_space_0 | ['obey', 'turn', 'defense', 'face', 'pill', 'team', 'medal', 'roof', 'evil', 'shoot', 'believe', 'ask'] |  
 | bip_39_word_space_1 | obey |  
 | bip_39_word_space_10 | obey turn defense face pill team medal roof evil shoot |  

@@ -122,6 +122,18 @@ mistake
 test
 flag
 crawl |  
+| bip_39_word_no_space_1 | repeat |  
+| bip_39_word_no_space_10 | repeataddchargekneecelerymistaketestflagcrawllazy |  
+| bip_39_word_no_space_11 | repeataddchargekneecelerymistaketestflagcrawllazyprivate |  
+| bip_39_word_no_space_12 | repeataddchargekneecelerymistaketestflagcrawllazyprivateannounce |  
+| bip_39_word_no_space_2 | repeatadd |  
+| bip_39_word_no_space_3 | repeataddcharge |  
+| bip_39_word_no_space_4 | repeataddchargeknee |  
+| bip_39_word_no_space_5 | repeataddchargekneecelery |  
+| bip_39_word_no_space_6 | repeataddchargekneecelerymistake |  
+| bip_39_word_no_space_7 | repeataddchargekneecelerymistaketest |  
+| bip_39_word_no_space_8 | repeataddchargekneecelerymistaketestflag |  
+| bip_39_word_no_space_9 | repeataddchargekneecelerymistaketestflagcrawl |  
 | bip_39_word_space_0 | ['repeat', 'add', 'charge', 'knee', 'celery', 'mistake', 'test', 'flag', 'crawl', 'lazy', 'private', 'announce'] |  
 | bip_39_word_space_1 | repeat |  
 | bip_39_word_space_10 | repeat add charge knee celery mistake test flag crawl lazy |  

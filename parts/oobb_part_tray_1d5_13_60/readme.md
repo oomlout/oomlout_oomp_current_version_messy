@@ -122,6 +122,18 @@ hard
 fiction
 about
 unaware |  
+| bip_39_word_no_space_1 | decade |  
+| bip_39_word_no_space_10 | decadebeautyturtleflamefarmhardfictionaboutunawaretortoise |  
+| bip_39_word_no_space_11 | decadebeautyturtleflamefarmhardfictionaboutunawaretortoiseshop |  
+| bip_39_word_no_space_12 | decadebeautyturtleflamefarmhardfictionaboutunawaretortoiseshopallow |  
+| bip_39_word_no_space_2 | decadebeauty |  
+| bip_39_word_no_space_3 | decadebeautyturtle |  
+| bip_39_word_no_space_4 | decadebeautyturtleflame |  
+| bip_39_word_no_space_5 | decadebeautyturtleflamefarm |  
+| bip_39_word_no_space_6 | decadebeautyturtleflamefarmhard |  
+| bip_39_word_no_space_7 | decadebeautyturtleflamefarmhardfiction |  
+| bip_39_word_no_space_8 | decadebeautyturtleflamefarmhardfictionabout |  
+| bip_39_word_no_space_9 | decadebeautyturtleflamefarmhardfictionaboutunaware |  
 | bip_39_word_space_0 | ['decade', 'beauty', 'turtle', 'flame', 'farm', 'hard', 'fiction', 'about', 'unaware', 'tortoise', 'shop', 'allow'] |  
 | bip_39_word_space_1 | decade |  
 | bip_39_word_space_10 | decade beauty turtle flame farm hard fiction about unaware tortoise |  

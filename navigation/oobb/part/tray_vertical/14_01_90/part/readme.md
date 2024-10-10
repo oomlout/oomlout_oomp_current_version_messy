@@ -122,6 +122,18 @@ concert
 faith
 myself
 wild |  
+| bip_39_word_no_space_1 | update |  
+| bip_39_word_no_space_10 | updatefunnydirectolddeerconcertfaithmyselfwildslender |  
+| bip_39_word_no_space_11 | updatefunnydirectolddeerconcertfaithmyselfwildslenderpulse |  
+| bip_39_word_no_space_12 | updatefunnydirectolddeerconcertfaithmyselfwildslenderpulseact |  
+| bip_39_word_no_space_2 | updatefunny |  
+| bip_39_word_no_space_3 | updatefunnydirect |  
+| bip_39_word_no_space_4 | updatefunnydirectold |  
+| bip_39_word_no_space_5 | updatefunnydirectolddeer |  
+| bip_39_word_no_space_6 | updatefunnydirectolddeerconcert |  
+| bip_39_word_no_space_7 | updatefunnydirectolddeerconcertfaith |  
+| bip_39_word_no_space_8 | updatefunnydirectolddeerconcertfaithmyself |  
+| bip_39_word_no_space_9 | updatefunnydirectolddeerconcertfaithmyselfwild |  
 | bip_39_word_space_0 | ['update', 'funny', 'direct', 'old', 'deer', 'concert', 'faith', 'myself', 'wild', 'slender', 'pulse', 'act'] |  
 | bip_39_word_space_1 | update |  
 | bip_39_word_space_10 | update funny direct old deer concert faith myself wild slender |  

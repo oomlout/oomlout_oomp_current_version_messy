@@ -122,6 +122,18 @@ control
 attack
 govern
 harsh |  
+| bip_39_word_no_space_1 | cloud |  
+| bip_39_word_no_space_10 | cloudtubepigeonroundarmorcontrolattackgovernharshrude |  
+| bip_39_word_no_space_11 | cloudtubepigeonroundarmorcontrolattackgovernharshrudepond |  
+| bip_39_word_no_space_12 | cloudtubepigeonroundarmorcontrolattackgovernharshrudepondactress |  
+| bip_39_word_no_space_2 | cloudtube |  
+| bip_39_word_no_space_3 | cloudtubepigeon |  
+| bip_39_word_no_space_4 | cloudtubepigeonround |  
+| bip_39_word_no_space_5 | cloudtubepigeonroundarmor |  
+| bip_39_word_no_space_6 | cloudtubepigeonroundarmorcontrol |  
+| bip_39_word_no_space_7 | cloudtubepigeonroundarmorcontrolattack |  
+| bip_39_word_no_space_8 | cloudtubepigeonroundarmorcontrolattackgovern |  
+| bip_39_word_no_space_9 | cloudtubepigeonroundarmorcontrolattackgovernharsh |  
 | bip_39_word_space_0 | ['cloud', 'tube', 'pigeon', 'round', 'armor', 'control', 'attack', 'govern', 'harsh', 'rude', 'pond', 'actress'] |  
 | bip_39_word_space_1 | cloud |  
 | bip_39_word_space_10 | cloud tube pigeon round armor control attack govern harsh rude |  

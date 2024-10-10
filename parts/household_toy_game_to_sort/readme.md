@@ -122,6 +122,18 @@ cushion
 task
 frost
 together |  
+| bip_39_word_no_space_1 | total |  
+| bip_39_word_no_space_10 | totalshrimpinsideslightangrycushiontaskfrosttogethertoddler |  
+| bip_39_word_no_space_11 | totalshrimpinsideslightangrycushiontaskfrosttogethertoddlerspoil |  
+| bip_39_word_no_space_12 | totalshrimpinsideslightangrycushiontaskfrosttogethertoddlerspoilaccident |  
+| bip_39_word_no_space_2 | totalshrimp |  
+| bip_39_word_no_space_3 | totalshrimpinside |  
+| bip_39_word_no_space_4 | totalshrimpinsideslight |  
+| bip_39_word_no_space_5 | totalshrimpinsideslightangry |  
+| bip_39_word_no_space_6 | totalshrimpinsideslightangrycushion |  
+| bip_39_word_no_space_7 | totalshrimpinsideslightangrycushiontask |  
+| bip_39_word_no_space_8 | totalshrimpinsideslightangrycushiontaskfrost |  
+| bip_39_word_no_space_9 | totalshrimpinsideslightangrycushiontaskfrosttogether |  
 | bip_39_word_space_0 | ['total', 'shrimp', 'inside', 'slight', 'angry', 'cushion', 'task', 'frost', 'together', 'toddler', 'spoil', 'accident'] |  
 | bip_39_word_space_1 | total |  
 | bip_39_word_space_10 | total shrimp inside slight angry cushion task frost together toddler |  

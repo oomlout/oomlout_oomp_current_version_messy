@@ -122,6 +122,18 @@ coin
 pull
 celery
 story |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familyequalcanoeacousticcodecoinpullcelerystorystadium |  
+| bip_39_word_no_space_11 | familyequalcanoeacousticcodecoinpullcelerystorystadiumspot |  
+| bip_39_word_no_space_12 | familyequalcanoeacousticcodecoinpullcelerystorystadiumspotalso |  
+| bip_39_word_no_space_2 | familyequal |  
+| bip_39_word_no_space_3 | familyequalcanoe |  
+| bip_39_word_no_space_4 | familyequalcanoeacoustic |  
+| bip_39_word_no_space_5 | familyequalcanoeacousticcode |  
+| bip_39_word_no_space_6 | familyequalcanoeacousticcodecoin |  
+| bip_39_word_no_space_7 | familyequalcanoeacousticcodecoinpull |  
+| bip_39_word_no_space_8 | familyequalcanoeacousticcodecoinpullcelery |  
+| bip_39_word_no_space_9 | familyequalcanoeacousticcodecoinpullcelerystory |  
 | bip_39_word_space_0 | ['family', 'equal', 'canoe', 'acoustic', 'code', 'coin', 'pull', 'celery', 'story', 'stadium', 'spot', 'also'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family equal canoe acoustic code coin pull celery story stadium |  

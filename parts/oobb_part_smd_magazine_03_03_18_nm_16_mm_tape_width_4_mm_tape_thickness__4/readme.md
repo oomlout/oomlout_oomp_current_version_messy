@@ -122,6 +122,18 @@ slogan
 over
 pass
 step |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendmillionbrainliquidgeneralsloganoverpasssteppanda |  
+| bip_39_word_no_space_11 | legendmillionbrainliquidgeneralsloganoverpasssteppandashrug |  
+| bip_39_word_no_space_12 | legendmillionbrainliquidgeneralsloganoverpasssteppandashrugage |  
+| bip_39_word_no_space_2 | legendmillion |  
+| bip_39_word_no_space_3 | legendmillionbrain |  
+| bip_39_word_no_space_4 | legendmillionbrainliquid |  
+| bip_39_word_no_space_5 | legendmillionbrainliquidgeneral |  
+| bip_39_word_no_space_6 | legendmillionbrainliquidgeneralslogan |  
+| bip_39_word_no_space_7 | legendmillionbrainliquidgeneralsloganover |  
+| bip_39_word_no_space_8 | legendmillionbrainliquidgeneralsloganoverpass |  
+| bip_39_word_no_space_9 | legendmillionbrainliquidgeneralsloganoverpassstep |  
 | bip_39_word_space_0 | ['legend', 'million', 'brain', 'liquid', 'general', 'slogan', 'over', 'pass', 'step', 'panda', 'shrug', 'age'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend million brain liquid general slogan over pass step panda |  

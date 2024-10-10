@@ -122,6 +122,18 @@ kick
 brief
 rebel
 bulb |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guiltsmileaccessruralbasickickbriefrebelbulbdecide |  
+| bip_39_word_no_space_11 | guiltsmileaccessruralbasickickbriefrebelbulbdecidetip |  
+| bip_39_word_no_space_12 | guiltsmileaccessruralbasickickbriefrebelbulbdecidetipanchor |  
+| bip_39_word_no_space_2 | guiltsmile |  
+| bip_39_word_no_space_3 | guiltsmileaccess |  
+| bip_39_word_no_space_4 | guiltsmileaccessrural |  
+| bip_39_word_no_space_5 | guiltsmileaccessruralbasic |  
+| bip_39_word_no_space_6 | guiltsmileaccessruralbasickick |  
+| bip_39_word_no_space_7 | guiltsmileaccessruralbasickickbrief |  
+| bip_39_word_no_space_8 | guiltsmileaccessruralbasickickbriefrebel |  
+| bip_39_word_no_space_9 | guiltsmileaccessruralbasickickbriefrebelbulb |  
 | bip_39_word_space_0 | ['guilt', 'smile', 'access', 'rural', 'basic', 'kick', 'brief', 'rebel', 'bulb', 'decide', 'tip', 'anchor'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt smile access rural basic kick brief rebel bulb decide |  

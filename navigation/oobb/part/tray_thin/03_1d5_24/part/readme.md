@@ -122,6 +122,18 @@ light
 okay
 mammal
 issue |  
+| bip_39_word_no_space_1 | exact |  
+| bip_39_word_no_space_10 | exactpriceconcertburstblushlightokaymammalissueride |  
+| bip_39_word_no_space_11 | exactpriceconcertburstblushlightokaymammalissueridejewel |  
+| bip_39_word_no_space_12 | exactpriceconcertburstblushlightokaymammalissueridejewelattitude |  
+| bip_39_word_no_space_2 | exactprice |  
+| bip_39_word_no_space_3 | exactpriceconcert |  
+| bip_39_word_no_space_4 | exactpriceconcertburst |  
+| bip_39_word_no_space_5 | exactpriceconcertburstblush |  
+| bip_39_word_no_space_6 | exactpriceconcertburstblushlight |  
+| bip_39_word_no_space_7 | exactpriceconcertburstblushlightokay |  
+| bip_39_word_no_space_8 | exactpriceconcertburstblushlightokaymammal |  
+| bip_39_word_no_space_9 | exactpriceconcertburstblushlightokaymammalissue |  
 | bip_39_word_space_0 | ['exact', 'price', 'concert', 'burst', 'blush', 'light', 'okay', 'mammal', 'issue', 'ride', 'jewel', 'attitude'] |  
 | bip_39_word_space_1 | exact |  
 | bip_39_word_space_10 | exact price concert burst blush light okay mammal issue ride |  

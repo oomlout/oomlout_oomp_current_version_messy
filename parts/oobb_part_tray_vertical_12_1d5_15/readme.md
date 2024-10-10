@@ -122,6 +122,18 @@ nut
 basket
 monitor
 cost |  
+| bip_39_word_no_space_1 | allow |  
+| bip_39_word_no_space_10 | allowamazingbossquotethingnutbasketmonitorcostvolume |  
+| bip_39_word_no_space_11 | allowamazingbossquotethingnutbasketmonitorcostvolumesuch |  
+| bip_39_word_no_space_12 | allowamazingbossquotethingnutbasketmonitorcostvolumesuchaccess |  
+| bip_39_word_no_space_2 | allowamazing |  
+| bip_39_word_no_space_3 | allowamazingboss |  
+| bip_39_word_no_space_4 | allowamazingbossquote |  
+| bip_39_word_no_space_5 | allowamazingbossquotething |  
+| bip_39_word_no_space_6 | allowamazingbossquotethingnut |  
+| bip_39_word_no_space_7 | allowamazingbossquotethingnutbasket |  
+| bip_39_word_no_space_8 | allowamazingbossquotethingnutbasketmonitor |  
+| bip_39_word_no_space_9 | allowamazingbossquotethingnutbasketmonitorcost |  
 | bip_39_word_space_0 | ['allow', 'amazing', 'boss', 'quote', 'thing', 'nut', 'basket', 'monitor', 'cost', 'volume', 'such', 'access'] |  
 | bip_39_word_space_1 | allow |  
 | bip_39_word_space_10 | allow amazing boss quote thing nut basket monitor cost volume |  

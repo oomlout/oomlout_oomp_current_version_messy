@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grow
   ethics
 
   worry'
+bip_39_word_no_space_1: grow
+bip_39_word_no_space_10: growlawindicatemuchweirddevelopadvanceethicsworrypilot
+bip_39_word_no_space_11: growlawindicatemuchweirddevelopadvanceethicsworrypilotdanger
+bip_39_word_no_space_12: growlawindicatemuchweirddevelopadvanceethicsworrypilotdangerapprove
+bip_39_word_no_space_2: growlaw
+bip_39_word_no_space_3: growlawindicate
+bip_39_word_no_space_4: growlawindicatemuch
+bip_39_word_no_space_5: growlawindicatemuchweird
+bip_39_word_no_space_6: growlawindicatemuchweirddevelop
+bip_39_word_no_space_7: growlawindicatemuchweirddevelopadvance
+bip_39_word_no_space_8: growlawindicatemuchweirddevelopadvanceethics
+bip_39_word_no_space_9: growlawindicatemuchweirddevelopadvanceethicsworry
 bip_39_word_space_0:
 - grow
 - law

@@ -122,6 +122,18 @@ section
 trash
 debris
 sleep |  
+| bip_39_word_no_space_1 | trust |  
+| bip_39_word_no_space_10 | trustrubberdefysilentmercysectiontrashdebrissleepeasy |  
+| bip_39_word_no_space_11 | trustrubberdefysilentmercysectiontrashdebrissleepeasyedit |  
+| bip_39_word_no_space_12 | trustrubberdefysilentmercysectiontrashdebrissleepeasyeditattract |  
+| bip_39_word_no_space_2 | trustrubber |  
+| bip_39_word_no_space_3 | trustrubberdefy |  
+| bip_39_word_no_space_4 | trustrubberdefysilent |  
+| bip_39_word_no_space_5 | trustrubberdefysilentmercy |  
+| bip_39_word_no_space_6 | trustrubberdefysilentmercysection |  
+| bip_39_word_no_space_7 | trustrubberdefysilentmercysectiontrash |  
+| bip_39_word_no_space_8 | trustrubberdefysilentmercysectiontrashdebris |  
+| bip_39_word_no_space_9 | trustrubberdefysilentmercysectiontrashdebrissleep |  
 | bip_39_word_space_0 | ['trust', 'rubber', 'defy', 'silent', 'mercy', 'section', 'trash', 'debris', 'sleep', 'easy', 'edit', 'attract'] |  
 | bip_39_word_space_1 | trust |  
 | bip_39_word_space_10 | trust rubber defy silent mercy section trash debris sleep easy |  

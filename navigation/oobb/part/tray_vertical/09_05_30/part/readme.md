@@ -122,6 +122,18 @@ method
 such
 annual
 kitten |  
+| bip_39_word_no_space_1 | mix |  
+| bip_39_word_no_space_10 | mixanalystphotoessencepartymethodsuchannualkittencotton |  
+| bip_39_word_no_space_11 | mixanalystphotoessencepartymethodsuchannualkittencottonfavorite |  
+| bip_39_word_no_space_12 | mixanalystphotoessencepartymethodsuchannualkittencottonfavoriteaccount |  
+| bip_39_word_no_space_2 | mixanalyst |  
+| bip_39_word_no_space_3 | mixanalystphoto |  
+| bip_39_word_no_space_4 | mixanalystphotoessence |  
+| bip_39_word_no_space_5 | mixanalystphotoessenceparty |  
+| bip_39_word_no_space_6 | mixanalystphotoessencepartymethod |  
+| bip_39_word_no_space_7 | mixanalystphotoessencepartymethodsuch |  
+| bip_39_word_no_space_8 | mixanalystphotoessencepartymethodsuchannual |  
+| bip_39_word_no_space_9 | mixanalystphotoessencepartymethodsuchannualkitten |  
 | bip_39_word_space_0 | ['mix', 'analyst', 'photo', 'essence', 'party', 'method', 'such', 'annual', 'kitten', 'cotton', 'favorite', 'account'] |  
 | bip_39_word_space_1 | mix |  
 | bip_39_word_space_10 | mix analyst photo essence party method such annual kitten cotton |  

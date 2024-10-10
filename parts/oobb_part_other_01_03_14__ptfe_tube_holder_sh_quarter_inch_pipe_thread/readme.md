@@ -122,6 +122,18 @@ lab
 cargo
 index
 pipe |  
+| bip_39_word_no_space_1 | beauty |  
+| bip_39_word_no_space_10 | beautynearbodyshiftnarrowlabcargoindexpipebamboo |  
+| bip_39_word_no_space_11 | beautynearbodyshiftnarrowlabcargoindexpipebamboophone |  
+| bip_39_word_no_space_12 | beautynearbodyshiftnarrowlabcargoindexpipebamboophoneall |  
+| bip_39_word_no_space_2 | beautynear |  
+| bip_39_word_no_space_3 | beautynearbody |  
+| bip_39_word_no_space_4 | beautynearbodyshift |  
+| bip_39_word_no_space_5 | beautynearbodyshiftnarrow |  
+| bip_39_word_no_space_6 | beautynearbodyshiftnarrowlab |  
+| bip_39_word_no_space_7 | beautynearbodyshiftnarrowlabcargo |  
+| bip_39_word_no_space_8 | beautynearbodyshiftnarrowlabcargoindex |  
+| bip_39_word_no_space_9 | beautynearbodyshiftnarrowlabcargoindexpipe |  
 | bip_39_word_space_0 | ['beauty', 'near', 'body', 'shift', 'narrow', 'lab', 'cargo', 'index', 'pipe', 'bamboo', 'phone', 'all'] |  
 | bip_39_word_space_1 | beauty |  
 | bip_39_word_space_10 | beauty near body shift narrow lab cargo index pipe bamboo |  

@@ -122,6 +122,18 @@ ticket
 script
 winner
 wear |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulb |  
+| bip_39_word_no_space_11 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulbdraw |  
+| bip_39_word_no_space_12 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwearbulbdrawalso |  
+| bip_39_word_no_space_2 | chiefdonkey |  
+| bip_39_word_no_space_3 | chiefdonkeyarrow |  
+| bip_39_word_no_space_4 | chiefdonkeyarrowindustry |  
+| bip_39_word_no_space_5 | chiefdonkeyarrowindustryhumble |  
+| bip_39_word_no_space_6 | chiefdonkeyarrowindustryhumbleticket |  
+| bip_39_word_no_space_7 | chiefdonkeyarrowindustryhumbleticketscript |  
+| bip_39_word_no_space_8 | chiefdonkeyarrowindustryhumbleticketscriptwinner |  
+| bip_39_word_no_space_9 | chiefdonkeyarrowindustryhumbleticketscriptwinnerwear |  
 | bip_39_word_space_0 | ['chief', 'donkey', 'arrow', 'industry', 'humble', 'ticket', 'script', 'winner', 'wear', 'bulb', 'draw', 'also'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief donkey arrow industry humble ticket script winner wear bulb |  

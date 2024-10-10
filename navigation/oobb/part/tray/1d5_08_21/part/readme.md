@@ -122,6 +122,18 @@ robust
 city
 leg
 symptom |  
+| bip_39_word_no_space_1 | river |  
+| bip_39_word_no_space_10 | rivergaspservicesmokevesselrobustcitylegsymptomswear |  
+| bip_39_word_no_space_11 | rivergaspservicesmokevesselrobustcitylegsymptomswearstick |  
+| bip_39_word_no_space_12 | rivergaspservicesmokevesselrobustcitylegsymptomswearstickauto |  
+| bip_39_word_no_space_2 | rivergasp |  
+| bip_39_word_no_space_3 | rivergaspservice |  
+| bip_39_word_no_space_4 | rivergaspservicesmoke |  
+| bip_39_word_no_space_5 | rivergaspservicesmokevessel |  
+| bip_39_word_no_space_6 | rivergaspservicesmokevesselrobust |  
+| bip_39_word_no_space_7 | rivergaspservicesmokevesselrobustcity |  
+| bip_39_word_no_space_8 | rivergaspservicesmokevesselrobustcityleg |  
+| bip_39_word_no_space_9 | rivergaspservicesmokevesselrobustcitylegsymptom |  
 | bip_39_word_space_0 | ['river', 'gasp', 'service', 'smoke', 'vessel', 'robust', 'city', 'leg', 'symptom', 'swear', 'stick', 'auto'] |  
 | bip_39_word_space_1 | river |  
 | bip_39_word_space_10 | river gasp service smoke vessel robust city leg symptom swear |  

@@ -122,6 +122,18 @@ guilt
 river
 basic
 invest |  
+| bip_39_word_no_space_1 | grab |  
+| bip_39_word_no_space_10 | grabwelcomeleavelabimpulseguiltriverbasicinvestdivorce |  
+| bip_39_word_no_space_11 | grabwelcomeleavelabimpulseguiltriverbasicinvestdivorcefly |  
+| bip_39_word_no_space_12 | grabwelcomeleavelabimpulseguiltriverbasicinvestdivorceflyarctic |  
+| bip_39_word_no_space_2 | grabwelcome |  
+| bip_39_word_no_space_3 | grabwelcomeleave |  
+| bip_39_word_no_space_4 | grabwelcomeleavelab |  
+| bip_39_word_no_space_5 | grabwelcomeleavelabimpulse |  
+| bip_39_word_no_space_6 | grabwelcomeleavelabimpulseguilt |  
+| bip_39_word_no_space_7 | grabwelcomeleavelabimpulseguiltriver |  
+| bip_39_word_no_space_8 | grabwelcomeleavelabimpulseguiltriverbasic |  
+| bip_39_word_no_space_9 | grabwelcomeleavelabimpulseguiltriverbasicinvest |  
 | bip_39_word_space_0 | ['grab', 'welcome', 'leave', 'lab', 'impulse', 'guilt', 'river', 'basic', 'invest', 'divorce', 'fly', 'arctic'] |  
 | bip_39_word_space_1 | grab |  
 | bip_39_word_space_10 | grab welcome leave lab impulse guilt river basic invest divorce |  

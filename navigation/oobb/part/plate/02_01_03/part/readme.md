@@ -122,6 +122,18 @@ draft
 warfare
 behind
 depart |  
+| bip_39_word_no_space_1 | flower |  
+| bip_39_word_no_space_10 | flowernurselargestumbleactiondraftwarfarebehinddepartpigeon |  
+| bip_39_word_no_space_11 | flowernurselargestumbleactiondraftwarfarebehinddepartpigeonhint |  
+| bip_39_word_no_space_12 | flowernurselargestumbleactiondraftwarfarebehinddepartpigeonhintactress |  
+| bip_39_word_no_space_2 | flowernurse |  
+| bip_39_word_no_space_3 | flowernurselarge |  
+| bip_39_word_no_space_4 | flowernurselargestumble |  
+| bip_39_word_no_space_5 | flowernurselargestumbleaction |  
+| bip_39_word_no_space_6 | flowernurselargestumbleactiondraft |  
+| bip_39_word_no_space_7 | flowernurselargestumbleactiondraftwarfare |  
+| bip_39_word_no_space_8 | flowernurselargestumbleactiondraftwarfarebehind |  
+| bip_39_word_no_space_9 | flowernurselargestumbleactiondraftwarfarebehinddepart |  
 | bip_39_word_space_0 | ['flower', 'nurse', 'large', 'stumble', 'action', 'draft', 'warfare', 'behind', 'depart', 'pigeon', 'hint', 'actress'] |  
 | bip_39_word_space_1 | flower |  
 | bip_39_word_space_10 | flower nurse large stumble action draft warfare behind depart pigeon |  

@@ -122,6 +122,18 @@ margin
 inside
 trade
 grain |  
+| bip_39_word_no_space_1 | theme |  
+| bip_39_word_no_space_10 | themedecoratetriggernetworksignmargininsidetradegrainauto |  
+| bip_39_word_no_space_11 | themedecoratetriggernetworksignmargininsidetradegrainautogaze |  
+| bip_39_word_no_space_12 | themedecoratetriggernetworksignmargininsidetradegrainautogazearrange |  
+| bip_39_word_no_space_2 | themedecorate |  
+| bip_39_word_no_space_3 | themedecoratetrigger |  
+| bip_39_word_no_space_4 | themedecoratetriggernetwork |  
+| bip_39_word_no_space_5 | themedecoratetriggernetworksign |  
+| bip_39_word_no_space_6 | themedecoratetriggernetworksignmargin |  
+| bip_39_word_no_space_7 | themedecoratetriggernetworksignmargininside |  
+| bip_39_word_no_space_8 | themedecoratetriggernetworksignmargininsidetrade |  
+| bip_39_word_no_space_9 | themedecoratetriggernetworksignmargininsidetradegrain |  
 | bip_39_word_space_0 | ['theme', 'decorate', 'trigger', 'network', 'sign', 'margin', 'inside', 'trade', 'grain', 'auto', 'gaze', 'arrange'] |  
 | bip_39_word_space_1 | theme |  
 | bip_39_word_space_10 | theme decorate trigger network sign margin inside trade grain auto |  

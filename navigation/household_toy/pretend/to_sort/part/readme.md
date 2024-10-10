@@ -122,6 +122,18 @@ truth
 juice
 chat
 scheme |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrossrunokaygoddessleavetruthjuicechatschemetonight |  
+| bip_39_word_no_space_11 | acrossrunokaygoddessleavetruthjuicechatschemetonightblue |  
+| bip_39_word_no_space_12 | acrossrunokaygoddessleavetruthjuicechatschemetonightblueagent |  
+| bip_39_word_no_space_2 | acrossrun |  
+| bip_39_word_no_space_3 | acrossrunokay |  
+| bip_39_word_no_space_4 | acrossrunokaygoddess |  
+| bip_39_word_no_space_5 | acrossrunokaygoddessleave |  
+| bip_39_word_no_space_6 | acrossrunokaygoddessleavetruth |  
+| bip_39_word_no_space_7 | acrossrunokaygoddessleavetruthjuice |  
+| bip_39_word_no_space_8 | acrossrunokaygoddessleavetruthjuicechat |  
+| bip_39_word_no_space_9 | acrossrunokaygoddessleavetruthjuicechatscheme |  
 | bip_39_word_space_0 | ['across', 'run', 'okay', 'goddess', 'leave', 'truth', 'juice', 'chat', 'scheme', 'tonight', 'blue', 'agent'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across run okay goddess leave truth juice chat scheme tonight |  

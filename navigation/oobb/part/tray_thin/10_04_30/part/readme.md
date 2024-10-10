@@ -122,6 +122,18 @@ person
 climb
 conduct
 capable |  
+| bip_39_word_no_space_1 | fall |  
+| bip_39_word_no_space_10 | falldetectflytobaccograbpersonclimbconductcapableflee |  
+| bip_39_word_no_space_11 | falldetectflytobaccograbpersonclimbconductcapablefleepottery |  
+| bip_39_word_no_space_12 | falldetectflytobaccograbpersonclimbconductcapablefleepotteryapprove |  
+| bip_39_word_no_space_2 | falldetect |  
+| bip_39_word_no_space_3 | falldetectfly |  
+| bip_39_word_no_space_4 | falldetectflytobacco |  
+| bip_39_word_no_space_5 | falldetectflytobaccograb |  
+| bip_39_word_no_space_6 | falldetectflytobaccograbperson |  
+| bip_39_word_no_space_7 | falldetectflytobaccograbpersonclimb |  
+| bip_39_word_no_space_8 | falldetectflytobaccograbpersonclimbconduct |  
+| bip_39_word_no_space_9 | falldetectflytobaccograbpersonclimbconductcapable |  
 | bip_39_word_space_0 | ['fall', 'detect', 'fly', 'tobacco', 'grab', 'person', 'climb', 'conduct', 'capable', 'flee', 'pottery', 'approve'] |  
 | bip_39_word_space_1 | fall |  
 | bip_39_word_space_10 | fall detect fly tobacco grab person climb conduct capable flee |  

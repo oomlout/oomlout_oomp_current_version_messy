@@ -122,6 +122,18 @@ put
 debris
 void
 dial |  
+| bip_39_word_no_space_1 | cross |  
+| bip_39_word_no_space_10 | crossanxietybabybronzerepairputdebrisvoiddialchampion |  
+| bip_39_word_no_space_11 | crossanxietybabybronzerepairputdebrisvoiddialchampionsleep |  
+| bip_39_word_no_space_12 | crossanxietybabybronzerepairputdebrisvoiddialchampionsleepapprove |  
+| bip_39_word_no_space_2 | crossanxiety |  
+| bip_39_word_no_space_3 | crossanxietybaby |  
+| bip_39_word_no_space_4 | crossanxietybabybronze |  
+| bip_39_word_no_space_5 | crossanxietybabybronzerepair |  
+| bip_39_word_no_space_6 | crossanxietybabybronzerepairput |  
+| bip_39_word_no_space_7 | crossanxietybabybronzerepairputdebris |  
+| bip_39_word_no_space_8 | crossanxietybabybronzerepairputdebrisvoid |  
+| bip_39_word_no_space_9 | crossanxietybabybronzerepairputdebrisvoiddial |  
 | bip_39_word_space_0 | ['cross', 'anxiety', 'baby', 'bronze', 'repair', 'put', 'debris', 'void', 'dial', 'champion', 'sleep', 'approve'] |  
 | bip_39_word_space_1 | cross |  
 | bip_39_word_space_10 | cross anxiety baby bronze repair put debris void dial champion |  

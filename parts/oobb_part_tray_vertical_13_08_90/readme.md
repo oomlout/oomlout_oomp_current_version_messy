@@ -122,6 +122,18 @@ spin
 health
 lottery
 saddle |  
+| bip_39_word_no_space_1 | ecology |  
+| bip_39_word_no_space_10 | ecologytackleregularfaintjoinspinhealthlotterysaddlestool |  
+| bip_39_word_no_space_11 | ecologytackleregularfaintjoinspinhealthlotterysaddlestoollink |  
+| bip_39_word_no_space_12 | ecologytackleregularfaintjoinspinhealthlotterysaddlestoollinkaddress |  
+| bip_39_word_no_space_2 | ecologytackle |  
+| bip_39_word_no_space_3 | ecologytackleregular |  
+| bip_39_word_no_space_4 | ecologytackleregularfaint |  
+| bip_39_word_no_space_5 | ecologytackleregularfaintjoin |  
+| bip_39_word_no_space_6 | ecologytackleregularfaintjoinspin |  
+| bip_39_word_no_space_7 | ecologytackleregularfaintjoinspinhealth |  
+| bip_39_word_no_space_8 | ecologytackleregularfaintjoinspinhealthlottery |  
+| bip_39_word_no_space_9 | ecologytackleregularfaintjoinspinhealthlotterysaddle |  
 | bip_39_word_space_0 | ['ecology', 'tackle', 'regular', 'faint', 'join', 'spin', 'health', 'lottery', 'saddle', 'stool', 'link', 'address'] |  
 | bip_39_word_space_1 | ecology |  
 | bip_39_word_space_10 | ecology tackle regular faint join spin health lottery saddle stool |  

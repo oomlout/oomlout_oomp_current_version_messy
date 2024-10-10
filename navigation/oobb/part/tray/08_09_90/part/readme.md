@@ -122,6 +122,18 @@ enter
 love
 napkin
 cage |  
+| bip_39_word_no_space_1 | digital |  
+| bip_39_word_no_space_10 | digitaltosscementmixcalmenterlovenapkincagecharge |  
+| bip_39_word_no_space_11 | digitaltosscementmixcalmenterlovenapkincagechargeadjust |  
+| bip_39_word_no_space_12 | digitaltosscementmixcalmenterlovenapkincagechargeadjustabstract |  
+| bip_39_word_no_space_2 | digitaltoss |  
+| bip_39_word_no_space_3 | digitaltosscement |  
+| bip_39_word_no_space_4 | digitaltosscementmix |  
+| bip_39_word_no_space_5 | digitaltosscementmixcalm |  
+| bip_39_word_no_space_6 | digitaltosscementmixcalmenter |  
+| bip_39_word_no_space_7 | digitaltosscementmixcalmenterlove |  
+| bip_39_word_no_space_8 | digitaltosscementmixcalmenterlovenapkin |  
+| bip_39_word_no_space_9 | digitaltosscementmixcalmenterlovenapkincage |  
 | bip_39_word_space_0 | ['digital', 'toss', 'cement', 'mix', 'calm', 'enter', 'love', 'napkin', 'cage', 'charge', 'adjust', 'abstract'] |  
 | bip_39_word_space_1 | digital |  
 | bip_39_word_space_10 | digital toss cement mix calm enter love napkin cage charge |  

@@ -122,6 +122,18 @@ scheme
 rare
 never
 hospital |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | canostrichivorywinkmissschemerareneverhospitaltoken |  
+| bip_39_word_no_space_11 | canostrichivorywinkmissschemerareneverhospitaltokenconduct |  
+| bip_39_word_no_space_12 | canostrichivorywinkmissschemerareneverhospitaltokenconductautumn |  
+| bip_39_word_no_space_2 | canostrich |  
+| bip_39_word_no_space_3 | canostrichivory |  
+| bip_39_word_no_space_4 | canostrichivorywink |  
+| bip_39_word_no_space_5 | canostrichivorywinkmiss |  
+| bip_39_word_no_space_6 | canostrichivorywinkmissscheme |  
+| bip_39_word_no_space_7 | canostrichivorywinkmissschemerare |  
+| bip_39_word_no_space_8 | canostrichivorywinkmissschemerarenever |  
+| bip_39_word_no_space_9 | canostrichivorywinkmissschemerareneverhospital |  
 | bip_39_word_space_0 | ['can', 'ostrich', 'ivory', 'wink', 'miss', 'scheme', 'rare', 'never', 'hospital', 'token', 'conduct', 'autumn'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can ostrich ivory wink miss scheme rare never hospital token |  

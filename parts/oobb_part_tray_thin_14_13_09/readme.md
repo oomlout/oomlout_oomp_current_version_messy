@@ -122,6 +122,18 @@ regular
 wood
 wait
 donkey |  
+| bip_39_word_no_space_1 | song |  
+| bip_39_word_no_space_10 | songancientwrongprojectreceiveregularwoodwaitdonkeymail |  
+| bip_39_word_no_space_11 | songancientwrongprojectreceiveregularwoodwaitdonkeymailrelease |  
+| bip_39_word_no_space_12 | songancientwrongprojectreceiveregularwoodwaitdonkeymailreleaseapart |  
+| bip_39_word_no_space_2 | songancient |  
+| bip_39_word_no_space_3 | songancientwrong |  
+| bip_39_word_no_space_4 | songancientwrongproject |  
+| bip_39_word_no_space_5 | songancientwrongprojectreceive |  
+| bip_39_word_no_space_6 | songancientwrongprojectreceiveregular |  
+| bip_39_word_no_space_7 | songancientwrongprojectreceiveregularwood |  
+| bip_39_word_no_space_8 | songancientwrongprojectreceiveregularwoodwait |  
+| bip_39_word_no_space_9 | songancientwrongprojectreceiveregularwoodwaitdonkey |  
 | bip_39_word_space_0 | ['song', 'ancient', 'wrong', 'project', 'receive', 'regular', 'wood', 'wait', 'donkey', 'mail', 'release', 'apart'] |  
 | bip_39_word_space_1 | song |  
 | bip_39_word_space_10 | song ancient wrong project receive regular wood wait donkey mail |  

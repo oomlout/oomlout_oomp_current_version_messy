@@ -122,6 +122,18 @@ desert
 ranch
 hood
 palace |  
+| bip_39_word_no_space_1 | icon |  
+| bip_39_word_no_space_10 | icontoytennishovertissuedesertranchhoodpalacehand |  
+| bip_39_word_no_space_11 | icontoytennishovertissuedesertranchhoodpalacehandfood |  
+| bip_39_word_no_space_12 | icontoytennishovertissuedesertranchhoodpalacehandfoodallow |  
+| bip_39_word_no_space_2 | icontoy |  
+| bip_39_word_no_space_3 | icontoytennis |  
+| bip_39_word_no_space_4 | icontoytennishover |  
+| bip_39_word_no_space_5 | icontoytennishovertissue |  
+| bip_39_word_no_space_6 | icontoytennishovertissuedesert |  
+| bip_39_word_no_space_7 | icontoytennishovertissuedesertranch |  
+| bip_39_word_no_space_8 | icontoytennishovertissuedesertranchhood |  
+| bip_39_word_no_space_9 | icontoytennishovertissuedesertranchhoodpalace |  
 | bip_39_word_space_0 | ['icon', 'toy', 'tennis', 'hover', 'tissue', 'desert', 'ranch', 'hood', 'palace', 'hand', 'food', 'allow'] |  
 | bip_39_word_space_1 | icon |  
 | bip_39_word_space_10 | icon toy tennis hover tissue desert ranch hood palace hand |  

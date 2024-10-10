@@ -122,6 +122,18 @@ gesture
 jar
 recycle
 pencil |  
+| bip_39_word_no_space_1 | very |  
+| bip_39_word_no_space_10 | verybarrelsaileggobtaingesturejarrecyclepencilshop |  
+| bip_39_word_no_space_11 | verybarrelsaileggobtaingesturejarrecyclepencilshopcamp |  
+| bip_39_word_no_space_12 | verybarrelsaileggobtaingesturejarrecyclepencilshopcampafford |  
+| bip_39_word_no_space_2 | verybarrel |  
+| bip_39_word_no_space_3 | verybarrelsail |  
+| bip_39_word_no_space_4 | verybarrelsailegg |  
+| bip_39_word_no_space_5 | verybarrelsaileggobtain |  
+| bip_39_word_no_space_6 | verybarrelsaileggobtaingesture |  
+| bip_39_word_no_space_7 | verybarrelsaileggobtaingesturejar |  
+| bip_39_word_no_space_8 | verybarrelsaileggobtaingesturejarrecycle |  
+| bip_39_word_no_space_9 | verybarrelsaileggobtaingesturejarrecyclepencil |  
 | bip_39_word_space_0 | ['very', 'barrel', 'sail', 'egg', 'obtain', 'gesture', 'jar', 'recycle', 'pencil', 'shop', 'camp', 'afford'] |  
 | bip_39_word_space_1 | very |  
 | bip_39_word_space_10 | very barrel sail egg obtain gesture jar recycle pencil shop |  

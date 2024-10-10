@@ -122,6 +122,18 @@ kid
 swarm
 behave
 fortune |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchspikeshareordinaryoxygenkidswarmbehavefortunehome |  
+| bip_39_word_no_space_11 | patchspikeshareordinaryoxygenkidswarmbehavefortunehomeone |  
+| bip_39_word_no_space_12 | patchspikeshareordinaryoxygenkidswarmbehavefortunehomeonealbum |  
+| bip_39_word_no_space_2 | patchspike |  
+| bip_39_word_no_space_3 | patchspikeshare |  
+| bip_39_word_no_space_4 | patchspikeshareordinary |  
+| bip_39_word_no_space_5 | patchspikeshareordinaryoxygen |  
+| bip_39_word_no_space_6 | patchspikeshareordinaryoxygenkid |  
+| bip_39_word_no_space_7 | patchspikeshareordinaryoxygenkidswarm |  
+| bip_39_word_no_space_8 | patchspikeshareordinaryoxygenkidswarmbehave |  
+| bip_39_word_no_space_9 | patchspikeshareordinaryoxygenkidswarmbehavefortune |  
 | bip_39_word_space_0 | ['patch', 'spike', 'share', 'ordinary', 'oxygen', 'kid', 'swarm', 'behave', 'fortune', 'home', 'one', 'album'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch spike share ordinary oxygen kid swarm behave fortune home |  

@@ -122,6 +122,18 @@ vault
 shaft
 must
 train |  
+| bip_39_word_no_space_1 | pottery |  
+| bip_39_word_no_space_10 | potteryprocessdocumenthamsterpolicevaultshaftmusttrainugly |  
+| bip_39_word_no_space_11 | potteryprocessdocumenthamsterpolicevaultshaftmusttrainuglycradle |  
+| bip_39_word_no_space_12 | potteryprocessdocumenthamsterpolicevaultshaftmusttrainuglycradleannounce |  
+| bip_39_word_no_space_2 | potteryprocess |  
+| bip_39_word_no_space_3 | potteryprocessdocument |  
+| bip_39_word_no_space_4 | potteryprocessdocumenthamster |  
+| bip_39_word_no_space_5 | potteryprocessdocumenthamsterpolice |  
+| bip_39_word_no_space_6 | potteryprocessdocumenthamsterpolicevault |  
+| bip_39_word_no_space_7 | potteryprocessdocumenthamsterpolicevaultshaft |  
+| bip_39_word_no_space_8 | potteryprocessdocumenthamsterpolicevaultshaftmust |  
+| bip_39_word_no_space_9 | potteryprocessdocumenthamsterpolicevaultshaftmusttrain |  
 | bip_39_word_space_0 | ['pottery', 'process', 'document', 'hamster', 'police', 'vault', 'shaft', 'must', 'train', 'ugly', 'cradle', 'announce'] |  
 | bip_39_word_space_1 | pottery |  
 | bip_39_word_space_10 | pottery process document hamster police vault shaft must train ugly |  

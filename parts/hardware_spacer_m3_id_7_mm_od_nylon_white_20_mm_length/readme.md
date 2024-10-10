@@ -122,6 +122,18 @@ audit
 bomb
 sport
 tower |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitbittersalonboyfaceauditbombsporttowerokay |  
+| bip_39_word_no_space_11 | habitbittersalonboyfaceauditbombsporttowerokayarmor |  
+| bip_39_word_no_space_12 | habitbittersalonboyfaceauditbombsporttowerokayarmorasthma |  
+| bip_39_word_no_space_2 | habitbitter |  
+| bip_39_word_no_space_3 | habitbittersalon |  
+| bip_39_word_no_space_4 | habitbittersalonboy |  
+| bip_39_word_no_space_5 | habitbittersalonboyface |  
+| bip_39_word_no_space_6 | habitbittersalonboyfaceaudit |  
+| bip_39_word_no_space_7 | habitbittersalonboyfaceauditbomb |  
+| bip_39_word_no_space_8 | habitbittersalonboyfaceauditbombsport |  
+| bip_39_word_no_space_9 | habitbittersalonboyfaceauditbombsporttower |  
 | bip_39_word_space_0 | ['habit', 'bitter', 'salon', 'boy', 'face', 'audit', 'bomb', 'sport', 'tower', 'okay', 'armor', 'asthma'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit bitter salon boy face audit bomb sport tower okay |  

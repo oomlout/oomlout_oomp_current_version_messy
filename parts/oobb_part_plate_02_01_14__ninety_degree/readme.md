@@ -122,6 +122,18 @@ junior
 opinion
 oblige
 snow |  
+| bip_39_word_no_space_1 | horror |  
+| bip_39_word_no_space_10 | horrorsheriffsecretwallmiseryjunioropinionobligesnoweye |  
+| bip_39_word_no_space_11 | horrorsheriffsecretwallmiseryjunioropinionobligesnoweyebird |  
+| bip_39_word_no_space_12 | horrorsheriffsecretwallmiseryjunioropinionobligesnoweyebirdattract |  
+| bip_39_word_no_space_2 | horrorsheriff |  
+| bip_39_word_no_space_3 | horrorsheriffsecret |  
+| bip_39_word_no_space_4 | horrorsheriffsecretwall |  
+| bip_39_word_no_space_5 | horrorsheriffsecretwallmisery |  
+| bip_39_word_no_space_6 | horrorsheriffsecretwallmiseryjunior |  
+| bip_39_word_no_space_7 | horrorsheriffsecretwallmiseryjunioropinion |  
+| bip_39_word_no_space_8 | horrorsheriffsecretwallmiseryjunioropinionoblige |  
+| bip_39_word_no_space_9 | horrorsheriffsecretwallmiseryjunioropinionobligesnow |  
 | bip_39_word_space_0 | ['horror', 'sheriff', 'secret', 'wall', 'misery', 'junior', 'opinion', 'oblige', 'snow', 'eye', 'bird', 'attract'] |  
 | bip_39_word_space_1 | horror |  
 | bip_39_word_space_10 | horror sheriff secret wall misery junior opinion oblige snow eye |  

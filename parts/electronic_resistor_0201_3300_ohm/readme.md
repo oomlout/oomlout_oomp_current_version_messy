@@ -122,6 +122,18 @@ license
 inherit
 snow
 cotton |  
+| bip_39_word_no_space_1 | trip |  
+| bip_39_word_no_space_10 | tripnoticescriptpondhugelicenseinheritsnowcottongrace |  
+| bip_39_word_no_space_11 | tripnoticescriptpondhugelicenseinheritsnowcottongracescissors |  
+| bip_39_word_no_space_12 | tripnoticescriptpondhugelicenseinheritsnowcottongracescissorsamazing |  
+| bip_39_word_no_space_2 | tripnotice |  
+| bip_39_word_no_space_3 | tripnoticescript |  
+| bip_39_word_no_space_4 | tripnoticescriptpond |  
+| bip_39_word_no_space_5 | tripnoticescriptpondhuge |  
+| bip_39_word_no_space_6 | tripnoticescriptpondhugelicense |  
+| bip_39_word_no_space_7 | tripnoticescriptpondhugelicenseinherit |  
+| bip_39_word_no_space_8 | tripnoticescriptpondhugelicenseinheritsnow |  
+| bip_39_word_no_space_9 | tripnoticescriptpondhugelicenseinheritsnowcotton |  
 | bip_39_word_space_0 | ['trip', 'notice', 'script', 'pond', 'huge', 'license', 'inherit', 'snow', 'cotton', 'grace', 'scissors', 'amazing'] |  
 | bip_39_word_space_1 | trip |  
 | bip_39_word_space_10 | trip notice script pond huge license inherit snow cotton grace |  

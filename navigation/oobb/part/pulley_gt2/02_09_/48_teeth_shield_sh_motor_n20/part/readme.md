@@ -122,6 +122,18 @@ dwarf
 ozone
 claim
 supreme |  
+| bip_39_word_no_space_1 | hurt |  
+| bip_39_word_no_space_10 | hurtviciouseageraccidentratherdwarfozoneclaimsupremeonly |  
+| bip_39_word_no_space_11 | hurtviciouseageraccidentratherdwarfozoneclaimsupremeonlysubmit |  
+| bip_39_word_no_space_12 | hurtviciouseageraccidentratherdwarfozoneclaimsupremeonlysubmitasset |  
+| bip_39_word_no_space_2 | hurtvicious |  
+| bip_39_word_no_space_3 | hurtviciouseager |  
+| bip_39_word_no_space_4 | hurtviciouseageraccident |  
+| bip_39_word_no_space_5 | hurtviciouseageraccidentrather |  
+| bip_39_word_no_space_6 | hurtviciouseageraccidentratherdwarf |  
+| bip_39_word_no_space_7 | hurtviciouseageraccidentratherdwarfozone |  
+| bip_39_word_no_space_8 | hurtviciouseageraccidentratherdwarfozoneclaim |  
+| bip_39_word_no_space_9 | hurtviciouseageraccidentratherdwarfozoneclaimsupreme |  
 | bip_39_word_space_0 | ['hurt', 'vicious', 'eager', 'accident', 'rather', 'dwarf', 'ozone', 'claim', 'supreme', 'only', 'submit', 'asset'] |  
 | bip_39_word_space_1 | hurt |  
 | bip_39_word_space_10 | hurt vicious eager accident rather dwarf ozone claim supreme only |  

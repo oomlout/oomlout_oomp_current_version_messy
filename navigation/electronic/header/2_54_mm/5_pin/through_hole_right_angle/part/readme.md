@@ -122,6 +122,18 @@ result
 behind
 weasel
 season |  
+| bip_39_word_no_space_1 | reform |  
+| bip_39_word_no_space_10 | reformwishclawdoctorfeatureresultbehindweaselseasonpause |  
+| bip_39_word_no_space_11 | reformwishclawdoctorfeatureresultbehindweaselseasonpausenarrow |  
+| bip_39_word_no_space_12 | reformwishclawdoctorfeatureresultbehindweaselseasonpausenarrowassault |  
+| bip_39_word_no_space_2 | reformwish |  
+| bip_39_word_no_space_3 | reformwishclaw |  
+| bip_39_word_no_space_4 | reformwishclawdoctor |  
+| bip_39_word_no_space_5 | reformwishclawdoctorfeature |  
+| bip_39_word_no_space_6 | reformwishclawdoctorfeatureresult |  
+| bip_39_word_no_space_7 | reformwishclawdoctorfeatureresultbehind |  
+| bip_39_word_no_space_8 | reformwishclawdoctorfeatureresultbehindweasel |  
+| bip_39_word_no_space_9 | reformwishclawdoctorfeatureresultbehindweaselseason |  
 | bip_39_word_space_0 | ['reform', 'wish', 'claw', 'doctor', 'feature', 'result', 'behind', 'weasel', 'season', 'pause', 'narrow', 'assault'] |  
 | bip_39_word_space_1 | reform |  
 | bip_39_word_space_10 | reform wish claw doctor feature result behind weasel season pause |  

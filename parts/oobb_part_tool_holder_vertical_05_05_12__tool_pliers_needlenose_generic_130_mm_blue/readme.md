@@ -122,6 +122,18 @@ thunder
 clock
 city
 outer |  
+| bip_39_word_no_space_1 | define |  
+| bip_39_word_no_space_10 | definesolutionkingdomcrispagainthunderclockcityouterpattern |  
+| bip_39_word_no_space_11 | definesolutionkingdomcrispagainthunderclockcityouterpatternfloor |  
+| bip_39_word_no_space_12 | definesolutionkingdomcrispagainthunderclockcityouterpatternfloorachieve |  
+| bip_39_word_no_space_2 | definesolution |  
+| bip_39_word_no_space_3 | definesolutionkingdom |  
+| bip_39_word_no_space_4 | definesolutionkingdomcrisp |  
+| bip_39_word_no_space_5 | definesolutionkingdomcrispagain |  
+| bip_39_word_no_space_6 | definesolutionkingdomcrispagainthunder |  
+| bip_39_word_no_space_7 | definesolutionkingdomcrispagainthunderclock |  
+| bip_39_word_no_space_8 | definesolutionkingdomcrispagainthunderclockcity |  
+| bip_39_word_no_space_9 | definesolutionkingdomcrispagainthunderclockcityouter |  
 | bip_39_word_space_0 | ['define', 'solution', 'kingdom', 'crisp', 'again', 'thunder', 'clock', 'city', 'outer', 'pattern', 'floor', 'achieve'] |  
 | bip_39_word_space_1 | define |  
 | bip_39_word_space_10 | define solution kingdom crisp again thunder clock city outer pattern |  

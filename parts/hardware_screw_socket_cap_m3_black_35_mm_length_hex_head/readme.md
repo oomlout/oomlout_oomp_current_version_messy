@@ -122,6 +122,18 @@ comic
 use
 appear
 suggest |  
+| bip_39_word_no_space_1 | best |  
+| bip_39_word_no_space_10 | bestwherepulllawbrokencomicuseappearsuggesthawk |  
+| bip_39_word_no_space_11 | bestwherepulllawbrokencomicuseappearsuggesthawkfantasy |  
+| bip_39_word_no_space_12 | bestwherepulllawbrokencomicuseappearsuggesthawkfantasyacross |  
+| bip_39_word_no_space_2 | bestwhere |  
+| bip_39_word_no_space_3 | bestwherepull |  
+| bip_39_word_no_space_4 | bestwherepulllaw |  
+| bip_39_word_no_space_5 | bestwherepulllawbroken |  
+| bip_39_word_no_space_6 | bestwherepulllawbrokencomic |  
+| bip_39_word_no_space_7 | bestwherepulllawbrokencomicuse |  
+| bip_39_word_no_space_8 | bestwherepulllawbrokencomicuseappear |  
+| bip_39_word_no_space_9 | bestwherepulllawbrokencomicuseappearsuggest |  
 | bip_39_word_space_0 | ['best', 'where', 'pull', 'law', 'broken', 'comic', 'use', 'appear', 'suggest', 'hawk', 'fantasy', 'across'] |  
 | bip_39_word_space_1 | best |  
 | bip_39_word_space_10 | best where pull law broken comic use appear suggest hawk |  

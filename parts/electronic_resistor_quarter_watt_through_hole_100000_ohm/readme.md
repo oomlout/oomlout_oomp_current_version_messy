@@ -122,6 +122,18 @@ lamp
 toddler
 benefit
 upset |  
+| bip_39_word_no_space_1 | surge |  
+| bip_39_word_no_space_10 | surgelendarrangedefinetopplelamptoddlerbenefitupsetjoke |  
+| bip_39_word_no_space_11 | surgelendarrangedefinetopplelamptoddlerbenefitupsetjokeany |  
+| bip_39_word_no_space_12 | surgelendarrangedefinetopplelamptoddlerbenefitupsetjokeanyanxiety |  
+| bip_39_word_no_space_2 | surgelend |  
+| bip_39_word_no_space_3 | surgelendarrange |  
+| bip_39_word_no_space_4 | surgelendarrangedefine |  
+| bip_39_word_no_space_5 | surgelendarrangedefinetopple |  
+| bip_39_word_no_space_6 | surgelendarrangedefinetopplelamp |  
+| bip_39_word_no_space_7 | surgelendarrangedefinetopplelamptoddler |  
+| bip_39_word_no_space_8 | surgelendarrangedefinetopplelamptoddlerbenefit |  
+| bip_39_word_no_space_9 | surgelendarrangedefinetopplelamptoddlerbenefitupset |  
 | bip_39_word_space_0 | ['surge', 'lend', 'arrange', 'define', 'topple', 'lamp', 'toddler', 'benefit', 'upset', 'joke', 'any', 'anxiety'] |  
 | bip_39_word_space_1 | surge |  
 | bip_39_word_space_10 | surge lend arrange define topple lamp toddler benefit upset joke |  

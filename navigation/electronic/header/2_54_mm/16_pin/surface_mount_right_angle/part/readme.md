@@ -122,6 +122,18 @@ original
 doll
 secret
 fee |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueflavortennisreducecasualoriginaldollsecretfeeship |  
+| bip_39_word_no_space_11 | issueflavortennisreducecasualoriginaldollsecretfeeshiplarge |  
+| bip_39_word_no_space_12 | issueflavortennisreducecasualoriginaldollsecretfeeshiplargeautumn |  
+| bip_39_word_no_space_2 | issueflavor |  
+| bip_39_word_no_space_3 | issueflavortennis |  
+| bip_39_word_no_space_4 | issueflavortennisreduce |  
+| bip_39_word_no_space_5 | issueflavortennisreducecasual |  
+| bip_39_word_no_space_6 | issueflavortennisreducecasualoriginal |  
+| bip_39_word_no_space_7 | issueflavortennisreducecasualoriginaldoll |  
+| bip_39_word_no_space_8 | issueflavortennisreducecasualoriginaldollsecret |  
+| bip_39_word_no_space_9 | issueflavortennisreducecasualoriginaldollsecretfee |  
 | bip_39_word_space_0 | ['issue', 'flavor', 'tennis', 'reduce', 'casual', 'original', 'doll', 'secret', 'fee', 'ship', 'large', 'autumn'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue flavor tennis reduce casual original doll secret fee ship |  

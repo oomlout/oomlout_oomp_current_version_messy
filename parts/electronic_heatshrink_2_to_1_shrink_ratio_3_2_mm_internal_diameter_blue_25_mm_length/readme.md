@@ -122,6 +122,18 @@ sibling
 swamp
 tent
 fun |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | mustwalnutladywillsuggestsiblingswamptentfunpistol |  
+| bip_39_word_no_space_11 | mustwalnutladywillsuggestsiblingswamptentfunpistolfestival |  
+| bip_39_word_no_space_12 | mustwalnutladywillsuggestsiblingswamptentfunpistolfestivalankle |  
+| bip_39_word_no_space_2 | mustwalnut |  
+| bip_39_word_no_space_3 | mustwalnutlady |  
+| bip_39_word_no_space_4 | mustwalnutladywill |  
+| bip_39_word_no_space_5 | mustwalnutladywillsuggest |  
+| bip_39_word_no_space_6 | mustwalnutladywillsuggestsibling |  
+| bip_39_word_no_space_7 | mustwalnutladywillsuggestsiblingswamp |  
+| bip_39_word_no_space_8 | mustwalnutladywillsuggestsiblingswamptent |  
+| bip_39_word_no_space_9 | mustwalnutladywillsuggestsiblingswamptentfun |  
 | bip_39_word_space_0 | ['must', 'walnut', 'lady', 'will', 'suggest', 'sibling', 'swamp', 'tent', 'fun', 'pistol', 'festival', 'ankle'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must walnut lady will suggest sibling swamp tent fun pistol |  

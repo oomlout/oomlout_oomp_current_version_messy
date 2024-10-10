@@ -122,6 +122,18 @@ shadow
 flower
 eager
 help |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approveharvestscienceleafeasilyshadowflowereagerhelppublic |  
+| bip_39_word_no_space_11 | approveharvestscienceleafeasilyshadowflowereagerhelppublicprint |  
+| bip_39_word_no_space_12 | approveharvestscienceleafeasilyshadowflowereagerhelppublicprintagain |  
+| bip_39_word_no_space_2 | approveharvest |  
+| bip_39_word_no_space_3 | approveharvestscience |  
+| bip_39_word_no_space_4 | approveharvestscienceleaf |  
+| bip_39_word_no_space_5 | approveharvestscienceleafeasily |  
+| bip_39_word_no_space_6 | approveharvestscienceleafeasilyshadow |  
+| bip_39_word_no_space_7 | approveharvestscienceleafeasilyshadowflower |  
+| bip_39_word_no_space_8 | approveharvestscienceleafeasilyshadowflowereager |  
+| bip_39_word_no_space_9 | approveharvestscienceleafeasilyshadowflowereagerhelp |  
 | bip_39_word_space_0 | ['approve', 'harvest', 'science', 'leaf', 'easily', 'shadow', 'flower', 'eager', 'help', 'public', 'print', 'again'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve harvest science leaf easily shadow flower eager help public |  

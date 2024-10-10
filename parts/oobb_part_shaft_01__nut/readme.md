@@ -122,6 +122,18 @@ alien
 episode
 approve
 shadow |  
+| bip_39_word_no_space_1 | guard |  
+| bip_39_word_no_space_10 | guardcancellakegingerrazoralienepisodeapproveshadowtree |  
+| bip_39_word_no_space_11 | guardcancellakegingerrazoralienepisodeapproveshadowtreefrog |  
+| bip_39_word_no_space_12 | guardcancellakegingerrazoralienepisodeapproveshadowtreefrogalter |  
+| bip_39_word_no_space_2 | guardcancel |  
+| bip_39_word_no_space_3 | guardcancellake |  
+| bip_39_word_no_space_4 | guardcancellakeginger |  
+| bip_39_word_no_space_5 | guardcancellakegingerrazor |  
+| bip_39_word_no_space_6 | guardcancellakegingerrazoralien |  
+| bip_39_word_no_space_7 | guardcancellakegingerrazoralienepisode |  
+| bip_39_word_no_space_8 | guardcancellakegingerrazoralienepisodeapprove |  
+| bip_39_word_no_space_9 | guardcancellakegingerrazoralienepisodeapproveshadow |  
 | bip_39_word_space_0 | ['guard', 'cancel', 'lake', 'ginger', 'razor', 'alien', 'episode', 'approve', 'shadow', 'tree', 'frog', 'alter'] |  
 | bip_39_word_space_1 | guard |  
 | bip_39_word_space_10 | guard cancel lake ginger razor alien episode approve shadow tree |  

@@ -122,6 +122,18 @@ oven
 chef
 witness
 hunt |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblegirafferaisegreenfoilovenchefwitnesshuntrebuild |  
+| bip_39_word_no_space_11 | resemblegirafferaisegreenfoilovenchefwitnesshuntrebuildinform |  
+| bip_39_word_no_space_12 | resemblegirafferaisegreenfoilovenchefwitnesshuntrebuildinformaccuse |  
+| bip_39_word_no_space_2 | resemblegiraffe |  
+| bip_39_word_no_space_3 | resemblegirafferaise |  
+| bip_39_word_no_space_4 | resemblegirafferaisegreen |  
+| bip_39_word_no_space_5 | resemblegirafferaisegreenfoil |  
+| bip_39_word_no_space_6 | resemblegirafferaisegreenfoiloven |  
+| bip_39_word_no_space_7 | resemblegirafferaisegreenfoilovenchef |  
+| bip_39_word_no_space_8 | resemblegirafferaisegreenfoilovenchefwitness |  
+| bip_39_word_no_space_9 | resemblegirafferaisegreenfoilovenchefwitnesshunt |  
 | bip_39_word_space_0 | ['resemble', 'giraffe', 'raise', 'green', 'foil', 'oven', 'chef', 'witness', 'hunt', 'rebuild', 'inform', 'accuse'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble giraffe raise green foil oven chef witness hunt rebuild |  

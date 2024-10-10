@@ -122,6 +122,18 @@ infant
 swim
 web
 bamboo |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmawoodacidfestivalphysicalinfantswimwebbambooelement |  
+| bip_39_word_no_space_11 | dilemmawoodacidfestivalphysicalinfantswimwebbambooelementdiary |  
+| bip_39_word_no_space_12 | dilemmawoodacidfestivalphysicalinfantswimwebbambooelementdiaryabout |  
+| bip_39_word_no_space_2 | dilemmawood |  
+| bip_39_word_no_space_3 | dilemmawoodacid |  
+| bip_39_word_no_space_4 | dilemmawoodacidfestival |  
+| bip_39_word_no_space_5 | dilemmawoodacidfestivalphysical |  
+| bip_39_word_no_space_6 | dilemmawoodacidfestivalphysicalinfant |  
+| bip_39_word_no_space_7 | dilemmawoodacidfestivalphysicalinfantswim |  
+| bip_39_word_no_space_8 | dilemmawoodacidfestivalphysicalinfantswimweb |  
+| bip_39_word_no_space_9 | dilemmawoodacidfestivalphysicalinfantswimwebbamboo |  
 | bip_39_word_space_0 | ['dilemma', 'wood', 'acid', 'festival', 'physical', 'infant', 'swim', 'web', 'bamboo', 'element', 'diary', 'about'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma wood acid festival physical infant swim web bamboo element |  

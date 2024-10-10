@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'expire
   stand
 
   hope'
+bip_39_word_no_space_1: expire
+bip_39_word_no_space_10: expiresnaptradethisleaftunnelcanoestandhopediamond
+bip_39_word_no_space_11: expiresnaptradethisleaftunnelcanoestandhopediamondfrost
+bip_39_word_no_space_12: expiresnaptradethisleaftunnelcanoestandhopediamondfrostallow
+bip_39_word_no_space_2: expiresnap
+bip_39_word_no_space_3: expiresnaptrade
+bip_39_word_no_space_4: expiresnaptradethis
+bip_39_word_no_space_5: expiresnaptradethisleaf
+bip_39_word_no_space_6: expiresnaptradethisleaftunnel
+bip_39_word_no_space_7: expiresnaptradethisleaftunnelcanoe
+bip_39_word_no_space_8: expiresnaptradethisleaftunnelcanoestand
+bip_39_word_no_space_9: expiresnaptradethisleaftunnelcanoestandhope
 bip_39_word_space_0:
 - expire
 - snap

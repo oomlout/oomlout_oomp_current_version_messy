@@ -122,6 +122,18 @@ page
 current
 three
 parade |  
+| bip_39_word_no_space_1 | iron |  
+| bip_39_word_no_space_10 | irondefineoutdoorswampapprovepagecurrentthreeparadeusual |  
+| bip_39_word_no_space_11 | irondefineoutdoorswampapprovepagecurrentthreeparadeusualinspire |  
+| bip_39_word_no_space_12 | irondefineoutdoorswampapprovepagecurrentthreeparadeusualinspirealone |  
+| bip_39_word_no_space_2 | irondefine |  
+| bip_39_word_no_space_3 | irondefineoutdoor |  
+| bip_39_word_no_space_4 | irondefineoutdoorswamp |  
+| bip_39_word_no_space_5 | irondefineoutdoorswampapprove |  
+| bip_39_word_no_space_6 | irondefineoutdoorswampapprovepage |  
+| bip_39_word_no_space_7 | irondefineoutdoorswampapprovepagecurrent |  
+| bip_39_word_no_space_8 | irondefineoutdoorswampapprovepagecurrentthree |  
+| bip_39_word_no_space_9 | irondefineoutdoorswampapprovepagecurrentthreeparade |  
 | bip_39_word_space_0 | ['iron', 'define', 'outdoor', 'swamp', 'approve', 'page', 'current', 'three', 'parade', 'usual', 'inspire', 'alone'] |  
 | bip_39_word_space_1 | iron |  
 | bip_39_word_space_10 | iron define outdoor swamp approve page current three parade usual |  

@@ -122,6 +122,18 @@ split
 weasel
 auto
 vibrant |  
+| bip_39_word_no_space_1 | clock |  
+| bip_39_word_no_space_10 | clockfoundglassneversincesplitweaselautovibrantgood |  
+| bip_39_word_no_space_11 | clockfoundglassneversincesplitweaselautovibrantgoodhidden |  
+| bip_39_word_no_space_12 | clockfoundglassneversincesplitweaselautovibrantgoodhiddenacross |  
+| bip_39_word_no_space_2 | clockfound |  
+| bip_39_word_no_space_3 | clockfoundglass |  
+| bip_39_word_no_space_4 | clockfoundglassnever |  
+| bip_39_word_no_space_5 | clockfoundglassneversince |  
+| bip_39_word_no_space_6 | clockfoundglassneversincesplit |  
+| bip_39_word_no_space_7 | clockfoundglassneversincesplitweasel |  
+| bip_39_word_no_space_8 | clockfoundglassneversincesplitweaselauto |  
+| bip_39_word_no_space_9 | clockfoundglassneversincesplitweaselautovibrant |  
 | bip_39_word_space_0 | ['clock', 'found', 'glass', 'never', 'since', 'split', 'weasel', 'auto', 'vibrant', 'good', 'hidden', 'across'] |  
 | bip_39_word_space_1 | clock |  
 | bip_39_word_space_10 | clock found glass never since split weasel auto vibrant good |  

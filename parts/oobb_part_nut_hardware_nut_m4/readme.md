@@ -122,6 +122,18 @@ plate
 hill
 lawn
 dutch |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middlefitjacketdepthcanplatehilllawndutchaffair |  
+| bip_39_word_no_space_11 | middlefitjacketdepthcanplatehilllawndutchaffairchase |  
+| bip_39_word_no_space_12 | middlefitjacketdepthcanplatehilllawndutchaffairchaseaction |  
+| bip_39_word_no_space_2 | middlefit |  
+| bip_39_word_no_space_3 | middlefitjacket |  
+| bip_39_word_no_space_4 | middlefitjacketdepth |  
+| bip_39_word_no_space_5 | middlefitjacketdepthcan |  
+| bip_39_word_no_space_6 | middlefitjacketdepthcanplate |  
+| bip_39_word_no_space_7 | middlefitjacketdepthcanplatehill |  
+| bip_39_word_no_space_8 | middlefitjacketdepthcanplatehilllawn |  
+| bip_39_word_no_space_9 | middlefitjacketdepthcanplatehilllawndutch |  
 | bip_39_word_space_0 | ['middle', 'fit', 'jacket', 'depth', 'can', 'plate', 'hill', 'lawn', 'dutch', 'affair', 'chase', 'action'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle fit jacket depth can plate hill lawn dutch affair |  

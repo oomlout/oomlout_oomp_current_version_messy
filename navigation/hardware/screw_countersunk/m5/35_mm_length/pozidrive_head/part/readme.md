@@ -122,6 +122,18 @@ long
 midnight
 crush
 album |  
+| bip_39_word_no_space_1 | twist |  
+| bip_39_word_no_space_10 | twistcousinpilotlionbridgelongmidnightcrushalbumcourse |  
+| bip_39_word_no_space_11 | twistcousinpilotlionbridgelongmidnightcrushalbumcoursefocus |  
+| bip_39_word_no_space_12 | twistcousinpilotlionbridgelongmidnightcrushalbumcoursefocusamount |  
+| bip_39_word_no_space_2 | twistcousin |  
+| bip_39_word_no_space_3 | twistcousinpilot |  
+| bip_39_word_no_space_4 | twistcousinpilotlion |  
+| bip_39_word_no_space_5 | twistcousinpilotlionbridge |  
+| bip_39_word_no_space_6 | twistcousinpilotlionbridgelong |  
+| bip_39_word_no_space_7 | twistcousinpilotlionbridgelongmidnight |  
+| bip_39_word_no_space_8 | twistcousinpilotlionbridgelongmidnightcrush |  
+| bip_39_word_no_space_9 | twistcousinpilotlionbridgelongmidnightcrushalbum |  
 | bip_39_word_space_0 | ['twist', 'cousin', 'pilot', 'lion', 'bridge', 'long', 'midnight', 'crush', 'album', 'course', 'focus', 'amount'] |  
 | bip_39_word_space_1 | twist |  
 | bip_39_word_space_10 | twist cousin pilot lion bridge long midnight crush album course |  

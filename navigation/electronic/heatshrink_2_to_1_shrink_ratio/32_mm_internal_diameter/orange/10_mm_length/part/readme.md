@@ -122,6 +122,18 @@ seed
 spider
 filter
 evil |  
+| bip_39_word_no_space_1 | chunk |  
+| bip_39_word_no_space_10 | chunkrawworklensclapseedspiderfilterevilexhaust |  
+| bip_39_word_no_space_11 | chunkrawworklensclapseedspiderfilterevilexhaustpass |  
+| bip_39_word_no_space_12 | chunkrawworklensclapseedspiderfilterevilexhaustpassalter |  
+| bip_39_word_no_space_2 | chunkraw |  
+| bip_39_word_no_space_3 | chunkrawwork |  
+| bip_39_word_no_space_4 | chunkrawworklens |  
+| bip_39_word_no_space_5 | chunkrawworklensclap |  
+| bip_39_word_no_space_6 | chunkrawworklensclapseed |  
+| bip_39_word_no_space_7 | chunkrawworklensclapseedspider |  
+| bip_39_word_no_space_8 | chunkrawworklensclapseedspiderfilter |  
+| bip_39_word_no_space_9 | chunkrawworklensclapseedspiderfilterevil |  
 | bip_39_word_space_0 | ['chunk', 'raw', 'work', 'lens', 'clap', 'seed', 'spider', 'filter', 'evil', 'exhaust', 'pass', 'alter'] |  
 | bip_39_word_space_1 | chunk |  
 | bip_39_word_space_10 | chunk raw work lens clap seed spider filter evil exhaust |  

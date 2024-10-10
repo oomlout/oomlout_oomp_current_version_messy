@@ -122,6 +122,18 @@ cube
 alcohol
 sibling
 crack |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peopleclockmountaindigitallovecubealcoholsiblingcracktube |  
+| bip_39_word_no_space_11 | peopleclockmountaindigitallovecubealcoholsiblingcracktubeblade |  
+| bip_39_word_no_space_12 | peopleclockmountaindigitallovecubealcoholsiblingcracktubebladeangry |  
+| bip_39_word_no_space_2 | peopleclock |  
+| bip_39_word_no_space_3 | peopleclockmountain |  
+| bip_39_word_no_space_4 | peopleclockmountaindigital |  
+| bip_39_word_no_space_5 | peopleclockmountaindigitallove |  
+| bip_39_word_no_space_6 | peopleclockmountaindigitallovecube |  
+| bip_39_word_no_space_7 | peopleclockmountaindigitallovecubealcohol |  
+| bip_39_word_no_space_8 | peopleclockmountaindigitallovecubealcoholsibling |  
+| bip_39_word_no_space_9 | peopleclockmountaindigitallovecubealcoholsiblingcrack |  
 | bip_39_word_space_0 | ['people', 'clock', 'mountain', 'digital', 'love', 'cube', 'alcohol', 'sibling', 'crack', 'tube', 'blade', 'angry'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people clock mountain digital love cube alcohol sibling crack tube |  

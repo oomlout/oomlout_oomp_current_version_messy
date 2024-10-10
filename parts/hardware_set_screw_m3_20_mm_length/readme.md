@@ -122,6 +122,18 @@ spoon
 hundred
 traffic
 daring |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulsevoyagetiredtimberbenchspoonhundredtrafficdaringgrunt |  
+| bip_39_word_no_space_11 | impulsevoyagetiredtimberbenchspoonhundredtrafficdaringgruntbrief |  
+| bip_39_word_no_space_12 | impulsevoyagetiredtimberbenchspoonhundredtrafficdaringgruntbriefartefact |  
+| bip_39_word_no_space_2 | impulsevoyage |  
+| bip_39_word_no_space_3 | impulsevoyagetired |  
+| bip_39_word_no_space_4 | impulsevoyagetiredtimber |  
+| bip_39_word_no_space_5 | impulsevoyagetiredtimberbench |  
+| bip_39_word_no_space_6 | impulsevoyagetiredtimberbenchspoon |  
+| bip_39_word_no_space_7 | impulsevoyagetiredtimberbenchspoonhundred |  
+| bip_39_word_no_space_8 | impulsevoyagetiredtimberbenchspoonhundredtraffic |  
+| bip_39_word_no_space_9 | impulsevoyagetiredtimberbenchspoonhundredtrafficdaring |  
 | bip_39_word_space_0 | ['impulse', 'voyage', 'tired', 'timber', 'bench', 'spoon', 'hundred', 'traffic', 'daring', 'grunt', 'brief', 'artefact'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse voyage tired timber bench spoon hundred traffic daring grunt |  

@@ -122,6 +122,18 @@ marble
 tide
 pelican
 speed |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usagecreekaroundconvincepaddlemarbletidepelicanspeedspeak |  
+| bip_39_word_no_space_11 | usagecreekaroundconvincepaddlemarbletidepelicanspeedspeakmelody |  
+| bip_39_word_no_space_12 | usagecreekaroundconvincepaddlemarbletidepelicanspeedspeakmelodyaccess |  
+| bip_39_word_no_space_2 | usagecreek |  
+| bip_39_word_no_space_3 | usagecreekaround |  
+| bip_39_word_no_space_4 | usagecreekaroundconvince |  
+| bip_39_word_no_space_5 | usagecreekaroundconvincepaddle |  
+| bip_39_word_no_space_6 | usagecreekaroundconvincepaddlemarble |  
+| bip_39_word_no_space_7 | usagecreekaroundconvincepaddlemarbletide |  
+| bip_39_word_no_space_8 | usagecreekaroundconvincepaddlemarbletidepelican |  
+| bip_39_word_no_space_9 | usagecreekaroundconvincepaddlemarbletidepelicanspeed |  
 | bip_39_word_space_0 | ['usage', 'creek', 'around', 'convince', 'paddle', 'marble', 'tide', 'pelican', 'speed', 'speak', 'melody', 'access'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage creek around convince paddle marble tide pelican speed speak |  

@@ -122,6 +122,18 @@ column
 rotate
 identify
 bean |  
+| bip_39_word_no_space_1 | crater |  
+| bip_39_word_no_space_10 | craterfestivalgospelmanswallowcolumnrotateidentifybeansummer |  
+| bip_39_word_no_space_11 | craterfestivalgospelmanswallowcolumnrotateidentifybeansummerprint |  
+| bip_39_word_no_space_12 | craterfestivalgospelmanswallowcolumnrotateidentifybeansummerprintapology |  
+| bip_39_word_no_space_2 | craterfestival |  
+| bip_39_word_no_space_3 | craterfestivalgospel |  
+| bip_39_word_no_space_4 | craterfestivalgospelman |  
+| bip_39_word_no_space_5 | craterfestivalgospelmanswallow |  
+| bip_39_word_no_space_6 | craterfestivalgospelmanswallowcolumn |  
+| bip_39_word_no_space_7 | craterfestivalgospelmanswallowcolumnrotate |  
+| bip_39_word_no_space_8 | craterfestivalgospelmanswallowcolumnrotateidentify |  
+| bip_39_word_no_space_9 | craterfestivalgospelmanswallowcolumnrotateidentifybean |  
 | bip_39_word_space_0 | ['crater', 'festival', 'gospel', 'man', 'swallow', 'column', 'rotate', 'identify', 'bean', 'summer', 'print', 'apology'] |  
 | bip_39_word_space_1 | crater |  
 | bip_39_word_space_10 | crater festival gospel man swallow column rotate identify bean summer |  

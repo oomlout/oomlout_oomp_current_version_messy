@@ -122,6 +122,18 @@ debate
 margin
 between
 churn |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzeavoidbannerrangelaughdebatemarginbetweenchurncollect |  
+| bip_39_word_no_space_11 | bronzeavoidbannerrangelaughdebatemarginbetweenchurncollectsoup |  
+| bip_39_word_no_space_12 | bronzeavoidbannerrangelaughdebatemarginbetweenchurncollectsoupauthor |  
+| bip_39_word_no_space_2 | bronzeavoid |  
+| bip_39_word_no_space_3 | bronzeavoidbanner |  
+| bip_39_word_no_space_4 | bronzeavoidbannerrange |  
+| bip_39_word_no_space_5 | bronzeavoidbannerrangelaugh |  
+| bip_39_word_no_space_6 | bronzeavoidbannerrangelaughdebate |  
+| bip_39_word_no_space_7 | bronzeavoidbannerrangelaughdebatemargin |  
+| bip_39_word_no_space_8 | bronzeavoidbannerrangelaughdebatemarginbetween |  
+| bip_39_word_no_space_9 | bronzeavoidbannerrangelaughdebatemarginbetweenchurn |  
 | bip_39_word_space_0 | ['bronze', 'avoid', 'banner', 'range', 'laugh', 'debate', 'margin', 'between', 'churn', 'collect', 'soup', 'author'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze avoid banner range laugh debate margin between churn collect |  

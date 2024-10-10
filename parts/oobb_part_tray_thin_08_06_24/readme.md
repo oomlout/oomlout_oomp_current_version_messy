@@ -122,6 +122,18 @@ ski
 narrow
 mobile
 dizzy |  
+| bip_39_word_no_space_1 | wide |  
+| bip_39_word_no_space_10 | wideglovesquarefiscaldrumskinarrowmobiledizzylaundry |  
+| bip_39_word_no_space_11 | wideglovesquarefiscaldrumskinarrowmobiledizzylaundrytoddler |  
+| bip_39_word_no_space_12 | wideglovesquarefiscaldrumskinarrowmobiledizzylaundrytoddlerart |  
+| bip_39_word_no_space_2 | wideglove |  
+| bip_39_word_no_space_3 | wideglovesquare |  
+| bip_39_word_no_space_4 | wideglovesquarefiscal |  
+| bip_39_word_no_space_5 | wideglovesquarefiscaldrum |  
+| bip_39_word_no_space_6 | wideglovesquarefiscaldrumski |  
+| bip_39_word_no_space_7 | wideglovesquarefiscaldrumskinarrow |  
+| bip_39_word_no_space_8 | wideglovesquarefiscaldrumskinarrowmobile |  
+| bip_39_word_no_space_9 | wideglovesquarefiscaldrumskinarrowmobiledizzy |  
 | bip_39_word_space_0 | ['wide', 'glove', 'square', 'fiscal', 'drum', 'ski', 'narrow', 'mobile', 'dizzy', 'laundry', 'toddler', 'art'] |  
 | bip_39_word_space_1 | wide |  
 | bip_39_word_space_10 | wide glove square fiscal drum ski narrow mobile dizzy laundry |  

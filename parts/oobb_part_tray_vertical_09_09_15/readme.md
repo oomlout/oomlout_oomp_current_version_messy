@@ -122,6 +122,18 @@ siege
 language
 olympic
 peasant |  
+| bip_39_word_no_space_1 | raw |  
+| bip_39_word_no_space_10 | rawfrostfrontalmostscriptsiegelanguageolympicpeasantsoccer |  
+| bip_39_word_no_space_11 | rawfrostfrontalmostscriptsiegelanguageolympicpeasantsoccerskill |  
+| bip_39_word_no_space_12 | rawfrostfrontalmostscriptsiegelanguageolympicpeasantsoccerskillamateur |  
+| bip_39_word_no_space_2 | rawfrost |  
+| bip_39_word_no_space_3 | rawfrostfront |  
+| bip_39_word_no_space_4 | rawfrostfrontalmost |  
+| bip_39_word_no_space_5 | rawfrostfrontalmostscript |  
+| bip_39_word_no_space_6 | rawfrostfrontalmostscriptsiege |  
+| bip_39_word_no_space_7 | rawfrostfrontalmostscriptsiegelanguage |  
+| bip_39_word_no_space_8 | rawfrostfrontalmostscriptsiegelanguageolympic |  
+| bip_39_word_no_space_9 | rawfrostfrontalmostscriptsiegelanguageolympicpeasant |  
 | bip_39_word_space_0 | ['raw', 'frost', 'front', 'almost', 'script', 'siege', 'language', 'olympic', 'peasant', 'soccer', 'skill', 'amateur'] |  
 | bip_39_word_space_1 | raw |  
 | bip_39_word_space_10 | raw frost front almost script siege language olympic peasant soccer |  

@@ -122,6 +122,18 @@ shop
 noble
 exist
 extend |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programdrillbehinddevicemachineshopnobleexistextendsudden |  
+| bip_39_word_no_space_11 | programdrillbehinddevicemachineshopnobleexistextendsuddendeal |  
+| bip_39_word_no_space_12 | programdrillbehinddevicemachineshopnobleexistextendsuddendealadvance |  
+| bip_39_word_no_space_2 | programdrill |  
+| bip_39_word_no_space_3 | programdrillbehind |  
+| bip_39_word_no_space_4 | programdrillbehinddevice |  
+| bip_39_word_no_space_5 | programdrillbehinddevicemachine |  
+| bip_39_word_no_space_6 | programdrillbehinddevicemachineshop |  
+| bip_39_word_no_space_7 | programdrillbehinddevicemachineshopnoble |  
+| bip_39_word_no_space_8 | programdrillbehinddevicemachineshopnobleexist |  
+| bip_39_word_no_space_9 | programdrillbehinddevicemachineshopnobleexistextend |  
 | bip_39_word_space_0 | ['program', 'drill', 'behind', 'device', 'machine', 'shop', 'noble', 'exist', 'extend', 'sudden', 'deal', 'advance'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program drill behind device machine shop noble exist extend sudden |  

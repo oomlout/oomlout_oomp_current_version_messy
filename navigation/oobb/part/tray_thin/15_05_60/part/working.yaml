@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'amused
   random
 
   obvious'
+bip_39_word_no_space_1: amused
+bip_39_word_no_space_10: amusedenterartcanalsohusbandgospelrandomobviousbubble
+bip_39_word_no_space_11: amusedenterartcanalsohusbandgospelrandomobviousbubblefollow
+bip_39_word_no_space_12: amusedenterartcanalsohusbandgospelrandomobviousbubblefollowabout
+bip_39_word_no_space_2: amusedenter
+bip_39_word_no_space_3: amusedenterart
+bip_39_word_no_space_4: amusedenterartcan
+bip_39_word_no_space_5: amusedenterartcanalso
+bip_39_word_no_space_6: amusedenterartcanalsohusband
+bip_39_word_no_space_7: amusedenterartcanalsohusbandgospel
+bip_39_word_no_space_8: amusedenterartcanalsohusbandgospelrandom
+bip_39_word_no_space_9: amusedenterartcanalsohusbandgospelrandomobvious
 bip_39_word_space_0:
 - amused
 - enter

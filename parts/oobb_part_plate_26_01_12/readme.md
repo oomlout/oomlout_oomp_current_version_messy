@@ -122,6 +122,18 @@ genius
 armed
 goose
 prosper |  
+| bip_39_word_no_space_1 | begin |  
+| bip_39_word_no_space_10 | beginhistorymagicaxisstockgeniusarmedgooseprospersatoshi |  
+| bip_39_word_no_space_11 | beginhistorymagicaxisstockgeniusarmedgooseprospersatoshigenre |  
+| bip_39_word_no_space_12 | beginhistorymagicaxisstockgeniusarmedgooseprospersatoshigenreavocado |  
+| bip_39_word_no_space_2 | beginhistory |  
+| bip_39_word_no_space_3 | beginhistorymagic |  
+| bip_39_word_no_space_4 | beginhistorymagicaxis |  
+| bip_39_word_no_space_5 | beginhistorymagicaxisstock |  
+| bip_39_word_no_space_6 | beginhistorymagicaxisstockgenius |  
+| bip_39_word_no_space_7 | beginhistorymagicaxisstockgeniusarmed |  
+| bip_39_word_no_space_8 | beginhistorymagicaxisstockgeniusarmedgoose |  
+| bip_39_word_no_space_9 | beginhistorymagicaxisstockgeniusarmedgooseprosper |  
 | bip_39_word_space_0 | ['begin', 'history', 'magic', 'axis', 'stock', 'genius', 'armed', 'goose', 'prosper', 'satoshi', 'genre', 'avocado'] |  
 | bip_39_word_space_1 | begin |  
 | bip_39_word_space_10 | begin history magic axis stock genius armed goose prosper satoshi |  

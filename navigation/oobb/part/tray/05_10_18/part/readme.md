@@ -122,6 +122,18 @@ zebra
 window
 heart
 idea |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandenginethencatchstylezebrawindowheartideacurrent |  
+| bip_39_word_no_space_11 | sandenginethencatchstylezebrawindowheartideacurrentoxygen |  
+| bip_39_word_no_space_12 | sandenginethencatchstylezebrawindowheartideacurrentoxygenalter |  
+| bip_39_word_no_space_2 | sandengine |  
+| bip_39_word_no_space_3 | sandenginethen |  
+| bip_39_word_no_space_4 | sandenginethencatch |  
+| bip_39_word_no_space_5 | sandenginethencatchstyle |  
+| bip_39_word_no_space_6 | sandenginethencatchstylezebra |  
+| bip_39_word_no_space_7 | sandenginethencatchstylezebrawindow |  
+| bip_39_word_no_space_8 | sandenginethencatchstylezebrawindowheart |  
+| bip_39_word_no_space_9 | sandenginethencatchstylezebrawindowheartidea |  
 | bip_39_word_space_0 | ['sand', 'engine', 'then', 'catch', 'style', 'zebra', 'window', 'heart', 'idea', 'current', 'oxygen', 'alter'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand engine then catch style zebra window heart idea current |  

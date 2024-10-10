@@ -122,6 +122,18 @@ pepper
 parrot
 deer
 ill |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toestrategysightbecomeclippepperparrotdeerilldefine |  
+| bip_39_word_no_space_11 | toestrategysightbecomeclippepperparrotdeerilldefineschool |  
+| bip_39_word_no_space_12 | toestrategysightbecomeclippepperparrotdeerilldefineschoolable |  
+| bip_39_word_no_space_2 | toestrategy |  
+| bip_39_word_no_space_3 | toestrategysight |  
+| bip_39_word_no_space_4 | toestrategysightbecome |  
+| bip_39_word_no_space_5 | toestrategysightbecomeclip |  
+| bip_39_word_no_space_6 | toestrategysightbecomeclippepper |  
+| bip_39_word_no_space_7 | toestrategysightbecomeclippepperparrot |  
+| bip_39_word_no_space_8 | toestrategysightbecomeclippepperparrotdeer |  
+| bip_39_word_no_space_9 | toestrategysightbecomeclippepperparrotdeerill |  
 | bip_39_word_space_0 | ['toe', 'strategy', 'sight', 'become', 'clip', 'pepper', 'parrot', 'deer', 'ill', 'define', 'school', 'able'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe strategy sight become clip pepper parrot deer ill define |  

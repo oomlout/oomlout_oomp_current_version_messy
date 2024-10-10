@@ -122,6 +122,18 @@ film
 execute
 script
 shoe |  
+| bip_39_word_no_space_1 | property |  
+| bip_39_word_no_space_10 | propertyaugusthoodthreeopposefilmexecutescriptshoeunusual |  
+| bip_39_word_no_space_11 | propertyaugusthoodthreeopposefilmexecutescriptshoeunusuallogic |  
+| bip_39_word_no_space_12 | propertyaugusthoodthreeopposefilmexecutescriptshoeunusuallogicartist |  
+| bip_39_word_no_space_2 | propertyaugust |  
+| bip_39_word_no_space_3 | propertyaugusthood |  
+| bip_39_word_no_space_4 | propertyaugusthoodthree |  
+| bip_39_word_no_space_5 | propertyaugusthoodthreeoppose |  
+| bip_39_word_no_space_6 | propertyaugusthoodthreeopposefilm |  
+| bip_39_word_no_space_7 | propertyaugusthoodthreeopposefilmexecute |  
+| bip_39_word_no_space_8 | propertyaugusthoodthreeopposefilmexecutescript |  
+| bip_39_word_no_space_9 | propertyaugusthoodthreeopposefilmexecutescriptshoe |  
 | bip_39_word_space_0 | ['property', 'august', 'hood', 'three', 'oppose', 'film', 'execute', 'script', 'shoe', 'unusual', 'logic', 'artist'] |  
 | bip_39_word_space_1 | property |  
 | bip_39_word_space_10 | property august hood three oppose film execute script shoe unusual |  

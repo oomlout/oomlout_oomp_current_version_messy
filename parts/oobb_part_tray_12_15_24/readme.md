@@ -122,6 +122,18 @@ chase
 essence
 crucial
 salad |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policeawakemotioninspireholidaychaseessencecrucialsaladgiraffe |  
+| bip_39_word_no_space_11 | policeawakemotioninspireholidaychaseessencecrucialsaladgiraffecattle |  
+| bip_39_word_no_space_12 | policeawakemotioninspireholidaychaseessencecrucialsaladgiraffecattleavocado |  
+| bip_39_word_no_space_2 | policeawake |  
+| bip_39_word_no_space_3 | policeawakemotion |  
+| bip_39_word_no_space_4 | policeawakemotioninspire |  
+| bip_39_word_no_space_5 | policeawakemotioninspireholiday |  
+| bip_39_word_no_space_6 | policeawakemotioninspireholidaychase |  
+| bip_39_word_no_space_7 | policeawakemotioninspireholidaychaseessence |  
+| bip_39_word_no_space_8 | policeawakemotioninspireholidaychaseessencecrucial |  
+| bip_39_word_no_space_9 | policeawakemotioninspireholidaychaseessencecrucialsalad |  
 | bip_39_word_space_0 | ['police', 'awake', 'motion', 'inspire', 'holiday', 'chase', 'essence', 'crucial', 'salad', 'giraffe', 'cattle', 'avocado'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police awake motion inspire holiday chase essence crucial salad giraffe |  

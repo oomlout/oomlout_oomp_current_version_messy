@@ -122,6 +122,18 @@ orient
 identify
 step
 gown |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainkissridgeablegarbageorientidentifystepgownbroccoli |  
+| bip_39_word_no_space_11 | grainkissridgeablegarbageorientidentifystepgownbroccolisea |  
+| bip_39_word_no_space_12 | grainkissridgeablegarbageorientidentifystepgownbroccoliseaauthor |  
+| bip_39_word_no_space_2 | grainkiss |  
+| bip_39_word_no_space_3 | grainkissridge |  
+| bip_39_word_no_space_4 | grainkissridgeable |  
+| bip_39_word_no_space_5 | grainkissridgeablegarbage |  
+| bip_39_word_no_space_6 | grainkissridgeablegarbageorient |  
+| bip_39_word_no_space_7 | grainkissridgeablegarbageorientidentify |  
+| bip_39_word_no_space_8 | grainkissridgeablegarbageorientidentifystep |  
+| bip_39_word_no_space_9 | grainkissridgeablegarbageorientidentifystepgown |  
 | bip_39_word_space_0 | ['grain', 'kiss', 'ridge', 'able', 'garbage', 'orient', 'identify', 'step', 'gown', 'broccoli', 'sea', 'author'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain kiss ridge able garbage orient identify step gown broccoli |  

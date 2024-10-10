@@ -122,6 +122,18 @@ orbit
 chuckle
 short
 raise |  
+| bip_39_word_no_space_1 | yellow |  
+| bip_39_word_no_space_10 | yelloweasilykangarooarmverifyorbitchuckleshortraisefever |  
+| bip_39_word_no_space_11 | yelloweasilykangarooarmverifyorbitchuckleshortraisefeverperson |  
+| bip_39_word_no_space_12 | yelloweasilykangarooarmverifyorbitchuckleshortraisefeverpersonarmy |  
+| bip_39_word_no_space_2 | yelloweasily |  
+| bip_39_word_no_space_3 | yelloweasilykangaroo |  
+| bip_39_word_no_space_4 | yelloweasilykangarooarm |  
+| bip_39_word_no_space_5 | yelloweasilykangarooarmverify |  
+| bip_39_word_no_space_6 | yelloweasilykangarooarmverifyorbit |  
+| bip_39_word_no_space_7 | yelloweasilykangarooarmverifyorbitchuckle |  
+| bip_39_word_no_space_8 | yelloweasilykangarooarmverifyorbitchuckleshort |  
+| bip_39_word_no_space_9 | yelloweasilykangarooarmverifyorbitchuckleshortraise |  
 | bip_39_word_space_0 | ['yellow', 'easily', 'kangaroo', 'arm', 'verify', 'orbit', 'chuckle', 'short', 'raise', 'fever', 'person', 'army'] |  
 | bip_39_word_space_1 | yellow |  
 | bip_39_word_space_10 | yellow easily kangaroo arm verify orbit chuckle short raise fever |  

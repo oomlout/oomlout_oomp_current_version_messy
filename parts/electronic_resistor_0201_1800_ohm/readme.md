@@ -122,6 +122,18 @@ insect
 humble
 exchange
 exercise |  
+| bip_39_word_no_space_1 | hard |  
+| bip_39_word_no_space_10 | hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebra |  
+| bip_39_word_no_space_11 | hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebravital |  
+| bip_39_word_no_space_12 | hardexplainvoidupsetsummerinsecthumbleexchangeexercisezebravitalarena |  
+| bip_39_word_no_space_2 | hardexplain |  
+| bip_39_word_no_space_3 | hardexplainvoid |  
+| bip_39_word_no_space_4 | hardexplainvoidupset |  
+| bip_39_word_no_space_5 | hardexplainvoidupsetsummer |  
+| bip_39_word_no_space_6 | hardexplainvoidupsetsummerinsect |  
+| bip_39_word_no_space_7 | hardexplainvoidupsetsummerinsecthumble |  
+| bip_39_word_no_space_8 | hardexplainvoidupsetsummerinsecthumbleexchange |  
+| bip_39_word_no_space_9 | hardexplainvoidupsetsummerinsecthumbleexchangeexercise |  
 | bip_39_word_space_0 | ['hard', 'explain', 'void', 'upset', 'summer', 'insect', 'humble', 'exchange', 'exercise', 'zebra', 'vital', 'arena'] |  
 | bip_39_word_space_1 | hard |  
 | bip_39_word_space_10 | hard explain void upset summer insect humble exchange exercise zebra |  

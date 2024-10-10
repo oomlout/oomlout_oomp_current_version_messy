@@ -122,6 +122,18 @@ motor
 milk
 issue
 govern |  
+| bip_39_word_no_space_1 | between |  
+| bip_39_word_no_space_10 | betweenhipwifekeynewsmotormilkissuegoverntrend |  
+| bip_39_word_no_space_11 | betweenhipwifekeynewsmotormilkissuegoverntrendfestival |  
+| bip_39_word_no_space_12 | betweenhipwifekeynewsmotormilkissuegoverntrendfestivalautumn |  
+| bip_39_word_no_space_2 | betweenhip |  
+| bip_39_word_no_space_3 | betweenhipwife |  
+| bip_39_word_no_space_4 | betweenhipwifekey |  
+| bip_39_word_no_space_5 | betweenhipwifekeynews |  
+| bip_39_word_no_space_6 | betweenhipwifekeynewsmotor |  
+| bip_39_word_no_space_7 | betweenhipwifekeynewsmotormilk |  
+| bip_39_word_no_space_8 | betweenhipwifekeynewsmotormilkissue |  
+| bip_39_word_no_space_9 | betweenhipwifekeynewsmotormilkissuegovern |  
 | bip_39_word_space_0 | ['between', 'hip', 'wife', 'key', 'news', 'motor', 'milk', 'issue', 'govern', 'trend', 'festival', 'autumn'] |  
 | bip_39_word_space_1 | between |  
 | bip_39_word_space_10 | between hip wife key news motor milk issue govern trend |  

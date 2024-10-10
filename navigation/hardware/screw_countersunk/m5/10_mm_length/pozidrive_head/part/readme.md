@@ -122,6 +122,18 @@ carbon
 fragile
 clerk
 black |  
+| bip_39_word_no_space_1 | undo |  
+| bip_39_word_no_space_10 | undogunspeedbaconhusbandcarbonfragileclerkblackbullet |  
+| bip_39_word_no_space_11 | undogunspeedbaconhusbandcarbonfragileclerkblackbulletbike |  
+| bip_39_word_no_space_12 | undogunspeedbaconhusbandcarbonfragileclerkblackbulletbikearmy |  
+| bip_39_word_no_space_2 | undogun |  
+| bip_39_word_no_space_3 | undogunspeed |  
+| bip_39_word_no_space_4 | undogunspeedbacon |  
+| bip_39_word_no_space_5 | undogunspeedbaconhusband |  
+| bip_39_word_no_space_6 | undogunspeedbaconhusbandcarbon |  
+| bip_39_word_no_space_7 | undogunspeedbaconhusbandcarbonfragile |  
+| bip_39_word_no_space_8 | undogunspeedbaconhusbandcarbonfragileclerk |  
+| bip_39_word_no_space_9 | undogunspeedbaconhusbandcarbonfragileclerkblack |  
 | bip_39_word_space_0 | ['undo', 'gun', 'speed', 'bacon', 'husband', 'carbon', 'fragile', 'clerk', 'black', 'bullet', 'bike', 'army'] |  
 | bip_39_word_space_1 | undo |  
 | bip_39_word_space_10 | undo gun speed bacon husband carbon fragile clerk black bullet |  

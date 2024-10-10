@@ -122,6 +122,18 @@ capital
 never
 divert
 embark |  
+| bip_39_word_no_space_1 | skull |  
+| bip_39_word_no_space_10 | skullidlewebmaterialoffercapitalneverdivertembarkfish |  
+| bip_39_word_no_space_11 | skullidlewebmaterialoffercapitalneverdivertembarkfishgenius |  
+| bip_39_word_no_space_12 | skullidlewebmaterialoffercapitalneverdivertembarkfishgeniusaudit |  
+| bip_39_word_no_space_2 | skullidle |  
+| bip_39_word_no_space_3 | skullidleweb |  
+| bip_39_word_no_space_4 | skullidlewebmaterial |  
+| bip_39_word_no_space_5 | skullidlewebmaterialoffer |  
+| bip_39_word_no_space_6 | skullidlewebmaterialoffercapital |  
+| bip_39_word_no_space_7 | skullidlewebmaterialoffercapitalnever |  
+| bip_39_word_no_space_8 | skullidlewebmaterialoffercapitalneverdivert |  
+| bip_39_word_no_space_9 | skullidlewebmaterialoffercapitalneverdivertembark |  
 | bip_39_word_space_0 | ['skull', 'idle', 'web', 'material', 'offer', 'capital', 'never', 'divert', 'embark', 'fish', 'genius', 'audit'] |  
 | bip_39_word_space_1 | skull |  
 | bip_39_word_space_10 | skull idle web material offer capital never divert embark fish |  

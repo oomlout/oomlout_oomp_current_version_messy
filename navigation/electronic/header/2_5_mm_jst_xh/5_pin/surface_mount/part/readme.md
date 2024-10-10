@@ -122,6 +122,18 @@ glimpse
 banana
 exhibit
 hair |  
+| bip_39_word_no_space_1 | shrimp |  
+| bip_39_word_no_space_10 | shrimpsessiontrapliftquoteglimpsebananaexhibithairnominee |  
+| bip_39_word_no_space_11 | shrimpsessiontrapliftquoteglimpsebananaexhibithairnomineebubble |  
+| bip_39_word_no_space_12 | shrimpsessiontrapliftquoteglimpsebananaexhibithairnomineebubbleafraid |  
+| bip_39_word_no_space_2 | shrimpsession |  
+| bip_39_word_no_space_3 | shrimpsessiontrap |  
+| bip_39_word_no_space_4 | shrimpsessiontraplift |  
+| bip_39_word_no_space_5 | shrimpsessiontrapliftquote |  
+| bip_39_word_no_space_6 | shrimpsessiontrapliftquoteglimpse |  
+| bip_39_word_no_space_7 | shrimpsessiontrapliftquoteglimpsebanana |  
+| bip_39_word_no_space_8 | shrimpsessiontrapliftquoteglimpsebananaexhibit |  
+| bip_39_word_no_space_9 | shrimpsessiontrapliftquoteglimpsebananaexhibithair |  
 | bip_39_word_space_0 | ['shrimp', 'session', 'trap', 'lift', 'quote', 'glimpse', 'banana', 'exhibit', 'hair', 'nominee', 'bubble', 'afraid'] |  
 | bip_39_word_space_1 | shrimp |  
 | bip_39_word_space_10 | shrimp session trap lift quote glimpse banana exhibit hair nominee |  

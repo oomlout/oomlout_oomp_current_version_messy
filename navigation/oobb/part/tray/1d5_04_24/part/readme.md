@@ -122,6 +122,18 @@ embody
 neither
 attend
 empower |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hourbirthkittengooseantennaembodyneitherattendempowerelder |  
+| bip_39_word_no_space_11 | hourbirthkittengooseantennaembodyneitherattendempowereldersettle |  
+| bip_39_word_no_space_12 | hourbirthkittengooseantennaembodyneitherattendempowereldersettlealien |  
+| bip_39_word_no_space_2 | hourbirth |  
+| bip_39_word_no_space_3 | hourbirthkitten |  
+| bip_39_word_no_space_4 | hourbirthkittengoose |  
+| bip_39_word_no_space_5 | hourbirthkittengooseantenna |  
+| bip_39_word_no_space_6 | hourbirthkittengooseantennaembody |  
+| bip_39_word_no_space_7 | hourbirthkittengooseantennaembodyneither |  
+| bip_39_word_no_space_8 | hourbirthkittengooseantennaembodyneitherattend |  
+| bip_39_word_no_space_9 | hourbirthkittengooseantennaembodyneitherattendempower |  
 | bip_39_word_space_0 | ['hour', 'birth', 'kitten', 'goose', 'antenna', 'embody', 'neither', 'attend', 'empower', 'elder', 'settle', 'alien'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour birth kitten goose antenna embody neither attend empower elder |  

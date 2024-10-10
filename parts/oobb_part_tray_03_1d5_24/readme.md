@@ -122,6 +122,18 @@ slow
 ten
 clump
 ride |  
+| bip_39_word_no_space_1 | elbow |  
+| bip_39_word_no_space_10 | elbowpotatoimposediarytopslowtenclumprideplug |  
+| bip_39_word_no_space_11 | elbowpotatoimposediarytopslowtenclumprideplugdwarf |  
+| bip_39_word_no_space_12 | elbowpotatoimposediarytopslowtenclumprideplugdwarfappear |  
+| bip_39_word_no_space_2 | elbowpotato |  
+| bip_39_word_no_space_3 | elbowpotatoimpose |  
+| bip_39_word_no_space_4 | elbowpotatoimposediary |  
+| bip_39_word_no_space_5 | elbowpotatoimposediarytop |  
+| bip_39_word_no_space_6 | elbowpotatoimposediarytopslow |  
+| bip_39_word_no_space_7 | elbowpotatoimposediarytopslowten |  
+| bip_39_word_no_space_8 | elbowpotatoimposediarytopslowtenclump |  
+| bip_39_word_no_space_9 | elbowpotatoimposediarytopslowtenclumpride |  
 | bip_39_word_space_0 | ['elbow', 'potato', 'impose', 'diary', 'top', 'slow', 'ten', 'clump', 'ride', 'plug', 'dwarf', 'appear'] |  
 | bip_39_word_space_1 | elbow |  
 | bip_39_word_space_10 | elbow potato impose diary top slow ten clump ride plug |  

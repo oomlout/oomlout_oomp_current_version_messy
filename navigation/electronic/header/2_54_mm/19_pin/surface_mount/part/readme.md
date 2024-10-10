@@ -122,6 +122,18 @@ plunge
 unveil
 open
 bleak |  
+| bip_39_word_no_space_1 | bag |  
+| bip_39_word_no_space_10 | bagheaddayimpulsepopularplungeunveilopenbleakhost |  
+| bip_39_word_no_space_11 | bagheaddayimpulsepopularplungeunveilopenbleakhostproperty |  
+| bip_39_word_no_space_12 | bagheaddayimpulsepopularplungeunveilopenbleakhostpropertyalarm |  
+| bip_39_word_no_space_2 | baghead |  
+| bip_39_word_no_space_3 | bagheadday |  
+| bip_39_word_no_space_4 | bagheaddayimpulse |  
+| bip_39_word_no_space_5 | bagheaddayimpulsepopular |  
+| bip_39_word_no_space_6 | bagheaddayimpulsepopularplunge |  
+| bip_39_word_no_space_7 | bagheaddayimpulsepopularplungeunveil |  
+| bip_39_word_no_space_8 | bagheaddayimpulsepopularplungeunveilopen |  
+| bip_39_word_no_space_9 | bagheaddayimpulsepopularplungeunveilopenbleak |  
 | bip_39_word_space_0 | ['bag', 'head', 'day', 'impulse', 'popular', 'plunge', 'unveil', 'open', 'bleak', 'host', 'property', 'alarm'] |  
 | bip_39_word_space_1 | bag |  
 | bip_39_word_space_10 | bag head day impulse popular plunge unveil open bleak host |  

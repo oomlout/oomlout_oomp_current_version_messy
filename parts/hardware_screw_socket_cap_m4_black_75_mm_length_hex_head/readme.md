@@ -122,6 +122,18 @@ cement
 column
 cry
 inform |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deeroutsidetestachieveguiltcementcolumncryinformgrass |  
+| bip_39_word_no_space_11 | deeroutsidetestachieveguiltcementcolumncryinformgrassnow |  
+| bip_39_word_no_space_12 | deeroutsidetestachieveguiltcementcolumncryinformgrassnowalert |  
+| bip_39_word_no_space_2 | deeroutside |  
+| bip_39_word_no_space_3 | deeroutsidetest |  
+| bip_39_word_no_space_4 | deeroutsidetestachieve |  
+| bip_39_word_no_space_5 | deeroutsidetestachieveguilt |  
+| bip_39_word_no_space_6 | deeroutsidetestachieveguiltcement |  
+| bip_39_word_no_space_7 | deeroutsidetestachieveguiltcementcolumn |  
+| bip_39_word_no_space_8 | deeroutsidetestachieveguiltcementcolumncry |  
+| bip_39_word_no_space_9 | deeroutsidetestachieveguiltcementcolumncryinform |  
 | bip_39_word_space_0 | ['deer', 'outside', 'test', 'achieve', 'guilt', 'cement', 'column', 'cry', 'inform', 'grass', 'now', 'alert'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer outside test achieve guilt cement column cry inform grass |  

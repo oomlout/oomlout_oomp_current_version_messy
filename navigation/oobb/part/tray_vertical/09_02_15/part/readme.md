@@ -122,6 +122,18 @@ bullet
 connect
 monkey
 leisure |  
+| bip_39_word_no_space_1 | kind |  
+| bip_39_word_no_space_10 | kindbookawakekisscongressbulletconnectmonkeyleisureletter |  
+| bip_39_word_no_space_11 | kindbookawakekisscongressbulletconnectmonkeyleisurelettershrug |  
+| bip_39_word_no_space_12 | kindbookawakekisscongressbulletconnectmonkeyleisurelettershrugacquire |  
+| bip_39_word_no_space_2 | kindbook |  
+| bip_39_word_no_space_3 | kindbookawake |  
+| bip_39_word_no_space_4 | kindbookawakekiss |  
+| bip_39_word_no_space_5 | kindbookawakekisscongress |  
+| bip_39_word_no_space_6 | kindbookawakekisscongressbullet |  
+| bip_39_word_no_space_7 | kindbookawakekisscongressbulletconnect |  
+| bip_39_word_no_space_8 | kindbookawakekisscongressbulletconnectmonkey |  
+| bip_39_word_no_space_9 | kindbookawakekisscongressbulletconnectmonkeyleisure |  
 | bip_39_word_space_0 | ['kind', 'book', 'awake', 'kiss', 'congress', 'bullet', 'connect', 'monkey', 'leisure', 'letter', 'shrug', 'acquire'] |  
 | bip_39_word_space_1 | kind |  
 | bip_39_word_space_10 | kind book awake kiss congress bullet connect monkey leisure letter |  

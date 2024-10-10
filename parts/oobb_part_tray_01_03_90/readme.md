@@ -122,6 +122,18 @@ tube
 oil
 trust
 virtual |  
+| bip_39_word_no_space_1 | ensure |  
+| bip_39_word_no_space_10 | ensuresuspectexoticromancedwarftubeoiltrustvirtualdress |  
+| bip_39_word_no_space_11 | ensuresuspectexoticromancedwarftubeoiltrustvirtualdresskit |  
+| bip_39_word_no_space_12 | ensuresuspectexoticromancedwarftubeoiltrustvirtualdresskitart |  
+| bip_39_word_no_space_2 | ensuresuspect |  
+| bip_39_word_no_space_3 | ensuresuspectexotic |  
+| bip_39_word_no_space_4 | ensuresuspectexoticromance |  
+| bip_39_word_no_space_5 | ensuresuspectexoticromancedwarf |  
+| bip_39_word_no_space_6 | ensuresuspectexoticromancedwarftube |  
+| bip_39_word_no_space_7 | ensuresuspectexoticromancedwarftubeoil |  
+| bip_39_word_no_space_8 | ensuresuspectexoticromancedwarftubeoiltrust |  
+| bip_39_word_no_space_9 | ensuresuspectexoticromancedwarftubeoiltrustvirtual |  
 | bip_39_word_space_0 | ['ensure', 'suspect', 'exotic', 'romance', 'dwarf', 'tube', 'oil', 'trust', 'virtual', 'dress', 'kit', 'art'] |  
 | bip_39_word_space_1 | ensure |  
 | bip_39_word_space_10 | ensure suspect exotic romance dwarf tube oil trust virtual dress |  

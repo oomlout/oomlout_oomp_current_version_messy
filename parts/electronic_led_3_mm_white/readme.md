@@ -122,6 +122,18 @@ fall
 favorite
 theory
 nest |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosionmarinechildafraidwarmfallfavoritetheorynestsweet |  
+| bip_39_word_no_space_11 | erosionmarinechildafraidwarmfallfavoritetheorynestsweetsnake |  
+| bip_39_word_no_space_12 | erosionmarinechildafraidwarmfallfavoritetheorynestsweetsnakealways |  
+| bip_39_word_no_space_2 | erosionmarine |  
+| bip_39_word_no_space_3 | erosionmarinechild |  
+| bip_39_word_no_space_4 | erosionmarinechildafraid |  
+| bip_39_word_no_space_5 | erosionmarinechildafraidwarm |  
+| bip_39_word_no_space_6 | erosionmarinechildafraidwarmfall |  
+| bip_39_word_no_space_7 | erosionmarinechildafraidwarmfallfavorite |  
+| bip_39_word_no_space_8 | erosionmarinechildafraidwarmfallfavoritetheory |  
+| bip_39_word_no_space_9 | erosionmarinechildafraidwarmfallfavoritetheorynest |  
 | bip_39_word_space_0 | ['erosion', 'marine', 'child', 'afraid', 'warm', 'fall', 'favorite', 'theory', 'nest', 'sweet', 'snake', 'always'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion marine child afraid warm fall favorite theory nest sweet |  

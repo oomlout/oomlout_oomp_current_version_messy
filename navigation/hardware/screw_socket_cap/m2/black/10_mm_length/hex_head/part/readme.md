@@ -122,6 +122,18 @@ easily
 beef
 breeze
 annual |  
+| bip_39_word_no_space_1 | trumpet |  
+| bip_39_word_no_space_10 | trumpetpolicelaughcodeanothereasilybeefbreezeannualzoo |  
+| bip_39_word_no_space_11 | trumpetpolicelaughcodeanothereasilybeefbreezeannualzoolobster |  
+| bip_39_word_no_space_12 | trumpetpolicelaughcodeanothereasilybeefbreezeannualzoolobsteramateur |  
+| bip_39_word_no_space_2 | trumpetpolice |  
+| bip_39_word_no_space_3 | trumpetpolicelaugh |  
+| bip_39_word_no_space_4 | trumpetpolicelaughcode |  
+| bip_39_word_no_space_5 | trumpetpolicelaughcodeanother |  
+| bip_39_word_no_space_6 | trumpetpolicelaughcodeanothereasily |  
+| bip_39_word_no_space_7 | trumpetpolicelaughcodeanothereasilybeef |  
+| bip_39_word_no_space_8 | trumpetpolicelaughcodeanothereasilybeefbreeze |  
+| bip_39_word_no_space_9 | trumpetpolicelaughcodeanothereasilybeefbreezeannual |  
 | bip_39_word_space_0 | ['trumpet', 'police', 'laugh', 'code', 'another', 'easily', 'beef', 'breeze', 'annual', 'zoo', 'lobster', 'amateur'] |  
 | bip_39_word_space_1 | trumpet |  
 | bip_39_word_space_10 | trumpet police laugh code another easily beef breeze annual zoo |  

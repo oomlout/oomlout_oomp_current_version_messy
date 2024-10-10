@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mule
   fiber
 
   jump'
+bip_39_word_no_space_1: mule
+bip_39_word_no_space_10: muleelectricrainguessbrownlendlicensefiberjumpold
+bip_39_word_no_space_11: muleelectricrainguessbrownlendlicensefiberjumpoldleader
+bip_39_word_no_space_12: muleelectricrainguessbrownlendlicensefiberjumpoldleaderanchor
+bip_39_word_no_space_2: muleelectric
+bip_39_word_no_space_3: muleelectricrain
+bip_39_word_no_space_4: muleelectricrainguess
+bip_39_word_no_space_5: muleelectricrainguessbrown
+bip_39_word_no_space_6: muleelectricrainguessbrownlend
+bip_39_word_no_space_7: muleelectricrainguessbrownlendlicense
+bip_39_word_no_space_8: muleelectricrainguessbrownlendlicensefiber
+bip_39_word_no_space_9: muleelectricrainguessbrownlendlicensefiberjump
 bip_39_word_space_0:
 - mule
 - electric

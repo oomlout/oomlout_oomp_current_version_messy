@@ -122,6 +122,18 @@ combine
 blast
 trend
 thank |  
+| bip_39_word_no_space_1 | brown |  
+| bip_39_word_no_space_10 | browntalentawesomedramaphotocombineblasttrendthankfilter |  
+| bip_39_word_no_space_11 | browntalentawesomedramaphotocombineblasttrendthankfilterfine |  
+| bip_39_word_no_space_12 | browntalentawesomedramaphotocombineblasttrendthankfilterfineartefact |  
+| bip_39_word_no_space_2 | browntalent |  
+| bip_39_word_no_space_3 | browntalentawesome |  
+| bip_39_word_no_space_4 | browntalentawesomedrama |  
+| bip_39_word_no_space_5 | browntalentawesomedramaphoto |  
+| bip_39_word_no_space_6 | browntalentawesomedramaphotocombine |  
+| bip_39_word_no_space_7 | browntalentawesomedramaphotocombineblast |  
+| bip_39_word_no_space_8 | browntalentawesomedramaphotocombineblasttrend |  
+| bip_39_word_no_space_9 | browntalentawesomedramaphotocombineblasttrendthank |  
 | bip_39_word_space_0 | ['brown', 'talent', 'awesome', 'drama', 'photo', 'combine', 'blast', 'trend', 'thank', 'filter', 'fine', 'artefact'] |  
 | bip_39_word_space_1 | brown |  
 | bip_39_word_space_10 | brown talent awesome drama photo combine blast trend thank filter |  

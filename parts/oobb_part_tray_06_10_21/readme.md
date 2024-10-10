@@ -122,6 +122,18 @@ essence
 prepare
 piece
 recycle |  
+| bip_39_word_no_space_1 | page |  
+| bip_39_word_no_space_10 | pageexpectalsolaptopimitateessencepreparepiecerecyclesea |  
+| bip_39_word_no_space_11 | pageexpectalsolaptopimitateessencepreparepiecerecycleseablast |  
+| bip_39_word_no_space_12 | pageexpectalsolaptopimitateessencepreparepiecerecycleseablastauto |  
+| bip_39_word_no_space_2 | pageexpect |  
+| bip_39_word_no_space_3 | pageexpectalso |  
+| bip_39_word_no_space_4 | pageexpectalsolaptop |  
+| bip_39_word_no_space_5 | pageexpectalsolaptopimitate |  
+| bip_39_word_no_space_6 | pageexpectalsolaptopimitateessence |  
+| bip_39_word_no_space_7 | pageexpectalsolaptopimitateessenceprepare |  
+| bip_39_word_no_space_8 | pageexpectalsolaptopimitateessencepreparepiece |  
+| bip_39_word_no_space_9 | pageexpectalsolaptopimitateessencepreparepiecerecycle |  
 | bip_39_word_space_0 | ['page', 'expect', 'also', 'laptop', 'imitate', 'essence', 'prepare', 'piece', 'recycle', 'sea', 'blast', 'auto'] |  
 | bip_39_word_space_1 | page |  
 | bip_39_word_space_10 | page expect also laptop imitate essence prepare piece recycle sea |  

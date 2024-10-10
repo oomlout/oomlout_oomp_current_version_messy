@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'food
   salmon
 
   length'
+bip_39_word_no_space_1: food
+bip_39_word_no_space_10: foodstoveworrywebglobecanyoncombinesalmonlengthangle
+bip_39_word_no_space_11: foodstoveworrywebglobecanyoncombinesalmonlengthangleclean
+bip_39_word_no_space_12: foodstoveworrywebglobecanyoncombinesalmonlengthanglecleanact
+bip_39_word_no_space_2: foodstove
+bip_39_word_no_space_3: foodstoveworry
+bip_39_word_no_space_4: foodstoveworryweb
+bip_39_word_no_space_5: foodstoveworrywebglobe
+bip_39_word_no_space_6: foodstoveworrywebglobecanyon
+bip_39_word_no_space_7: foodstoveworrywebglobecanyoncombine
+bip_39_word_no_space_8: foodstoveworrywebglobecanyoncombinesalmon
+bip_39_word_no_space_9: foodstoveworrywebglobecanyoncombinesalmonlength
 bip_39_word_space_0:
 - food
 - stove

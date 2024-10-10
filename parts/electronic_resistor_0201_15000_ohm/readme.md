@@ -122,6 +122,18 @@ ensure
 point
 ramp
 quote |  
+| bip_39_word_no_space_1 | cloud |  
+| bip_39_word_no_space_10 | cloudgamecraterusefuldieselensurepointrampquoteframe |  
+| bip_39_word_no_space_11 | cloudgamecraterusefuldieselensurepointrampquoteframeeager |  
+| bip_39_word_no_space_12 | cloudgamecraterusefuldieselensurepointrampquoteframeeagerage |  
+| bip_39_word_no_space_2 | cloudgame |  
+| bip_39_word_no_space_3 | cloudgamecrater |  
+| bip_39_word_no_space_4 | cloudgamecrateruseful |  
+| bip_39_word_no_space_5 | cloudgamecraterusefuldiesel |  
+| bip_39_word_no_space_6 | cloudgamecraterusefuldieselensure |  
+| bip_39_word_no_space_7 | cloudgamecraterusefuldieselensurepoint |  
+| bip_39_word_no_space_8 | cloudgamecraterusefuldieselensurepointramp |  
+| bip_39_word_no_space_9 | cloudgamecraterusefuldieselensurepointrampquote |  
 | bip_39_word_space_0 | ['cloud', 'game', 'crater', 'useful', 'diesel', 'ensure', 'point', 'ramp', 'quote', 'frame', 'eager', 'age'] |  
 | bip_39_word_space_1 | cloud |  
 | bip_39_word_space_10 | cloud game crater useful diesel ensure point ramp quote frame |  

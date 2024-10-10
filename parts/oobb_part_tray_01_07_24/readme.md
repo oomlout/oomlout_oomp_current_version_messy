@@ -122,6 +122,18 @@ divorce
 vintage
 phone
 cancel |  
+| bip_39_word_no_space_1 | assault |  
+| bip_39_word_no_space_10 | assaulttermcourseprojectumbrelladivorcevintagephonecancelalter |  
+| bip_39_word_no_space_11 | assaulttermcourseprojectumbrelladivorcevintagephonecancelaltertopic |  
+| bip_39_word_no_space_12 | assaulttermcourseprojectumbrelladivorcevintagephonecancelaltertopicarrange |  
+| bip_39_word_no_space_2 | assaultterm |  
+| bip_39_word_no_space_3 | assaulttermcourse |  
+| bip_39_word_no_space_4 | assaulttermcourseproject |  
+| bip_39_word_no_space_5 | assaulttermcourseprojectumbrella |  
+| bip_39_word_no_space_6 | assaulttermcourseprojectumbrelladivorce |  
+| bip_39_word_no_space_7 | assaulttermcourseprojectumbrelladivorcevintage |  
+| bip_39_word_no_space_8 | assaulttermcourseprojectumbrelladivorcevintagephone |  
+| bip_39_word_no_space_9 | assaulttermcourseprojectumbrelladivorcevintagephonecancel |  
 | bip_39_word_space_0 | ['assault', 'term', 'course', 'project', 'umbrella', 'divorce', 'vintage', 'phone', 'cancel', 'alter', 'topic', 'arrange'] |  
 | bip_39_word_space_1 | assault |  
 | bip_39_word_space_10 | assault term course project umbrella divorce vintage phone cancel alter |  

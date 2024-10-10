@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'staff
   supreme
 
   broken'
+bip_39_word_no_space_1: staff
+bip_39_word_no_space_10: staffrentcelerypioneereitherbidkitesupremebrokenprice
+bip_39_word_no_space_11: staffrentcelerypioneereitherbidkitesupremebrokenpriceinner
+bip_39_word_no_space_12: staffrentcelerypioneereitherbidkitesupremebrokenpriceinneraround
+bip_39_word_no_space_2: staffrent
+bip_39_word_no_space_3: staffrentcelery
+bip_39_word_no_space_4: staffrentcelerypioneer
+bip_39_word_no_space_5: staffrentcelerypioneereither
+bip_39_word_no_space_6: staffrentcelerypioneereitherbid
+bip_39_word_no_space_7: staffrentcelerypioneereitherbidkite
+bip_39_word_no_space_8: staffrentcelerypioneereitherbidkitesupreme
+bip_39_word_no_space_9: staffrentcelerypioneereitherbidkitesupremebroken
 bip_39_word_space_0:
 - staff
 - rent

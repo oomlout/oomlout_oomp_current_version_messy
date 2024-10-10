@@ -122,6 +122,18 @@ night
 car
 pony
 column |  
+| bip_39_word_no_space_1 | stem |  
+| bip_39_word_no_space_10 | stemcardmagicrebuildbetraynightcarponycolumntwelve |  
+| bip_39_word_no_space_11 | stemcardmagicrebuildbetraynightcarponycolumntwelvematerial |  
+| bip_39_word_no_space_12 | stemcardmagicrebuildbetraynightcarponycolumntwelvematerialanalyst |  
+| bip_39_word_no_space_2 | stemcard |  
+| bip_39_word_no_space_3 | stemcardmagic |  
+| bip_39_word_no_space_4 | stemcardmagicrebuild |  
+| bip_39_word_no_space_5 | stemcardmagicrebuildbetray |  
+| bip_39_word_no_space_6 | stemcardmagicrebuildbetraynight |  
+| bip_39_word_no_space_7 | stemcardmagicrebuildbetraynightcar |  
+| bip_39_word_no_space_8 | stemcardmagicrebuildbetraynightcarpony |  
+| bip_39_word_no_space_9 | stemcardmagicrebuildbetraynightcarponycolumn |  
 | bip_39_word_space_0 | ['stem', 'card', 'magic', 'rebuild', 'betray', 'night', 'car', 'pony', 'column', 'twelve', 'material', 'analyst'] |  
 | bip_39_word_space_1 | stem |  
 | bip_39_word_space_10 | stem card magic rebuild betray night car pony column twelve |  

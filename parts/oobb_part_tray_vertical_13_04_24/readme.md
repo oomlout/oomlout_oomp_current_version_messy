@@ -122,6 +122,18 @@ federal
 refuse
 style
 acid |  
+| bip_39_word_no_space_1 | hat |  
+| bip_39_word_no_space_10 | hatfoampermithurtarmorfederalrefusestyleacidspoil |  
+| bip_39_word_no_space_11 | hatfoampermithurtarmorfederalrefusestyleacidspoilbanana |  
+| bip_39_word_no_space_12 | hatfoampermithurtarmorfederalrefusestyleacidspoilbananaanchor |  
+| bip_39_word_no_space_2 | hatfoam |  
+| bip_39_word_no_space_3 | hatfoampermit |  
+| bip_39_word_no_space_4 | hatfoampermithurt |  
+| bip_39_word_no_space_5 | hatfoampermithurtarmor |  
+| bip_39_word_no_space_6 | hatfoampermithurtarmorfederal |  
+| bip_39_word_no_space_7 | hatfoampermithurtarmorfederalrefuse |  
+| bip_39_word_no_space_8 | hatfoampermithurtarmorfederalrefusestyle |  
+| bip_39_word_no_space_9 | hatfoampermithurtarmorfederalrefusestyleacid |  
 | bip_39_word_space_0 | ['hat', 'foam', 'permit', 'hurt', 'armor', 'federal', 'refuse', 'style', 'acid', 'spoil', 'banana', 'anchor'] |  
 | bip_39_word_space_1 | hat |  
 | bip_39_word_space_10 | hat foam permit hurt armor federal refuse style acid spoil |  

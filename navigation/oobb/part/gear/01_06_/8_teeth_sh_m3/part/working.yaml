@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'flower
   virtual
 
   ignore'
+bip_39_word_no_space_1: flower
+bip_39_word_no_space_10: flowerpoetclawafraidfrontancientheightvirtualignoresix
+bip_39_word_no_space_11: flowerpoetclawafraidfrontancientheightvirtualignoresixflavor
+bip_39_word_no_space_12: flowerpoetclawafraidfrontancientheightvirtualignoresixflavorable
+bip_39_word_no_space_2: flowerpoet
+bip_39_word_no_space_3: flowerpoetclaw
+bip_39_word_no_space_4: flowerpoetclawafraid
+bip_39_word_no_space_5: flowerpoetclawafraidfront
+bip_39_word_no_space_6: flowerpoetclawafraidfrontancient
+bip_39_word_no_space_7: flowerpoetclawafraidfrontancientheight
+bip_39_word_no_space_8: flowerpoetclawafraidfrontancientheightvirtual
+bip_39_word_no_space_9: flowerpoetclawafraidfrontancientheightvirtualignore
 bip_39_word_space_0:
 - flower
 - poet

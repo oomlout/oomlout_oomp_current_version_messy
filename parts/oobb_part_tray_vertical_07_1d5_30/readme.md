@@ -122,6 +122,18 @@ speed
 sister
 glove
 profit |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netdirtsmoothexactlittlespeedsistergloveprofitspread |  
+| bip_39_word_no_space_11 | netdirtsmoothexactlittlespeedsistergloveprofitspreadincome |  
+| bip_39_word_no_space_12 | netdirtsmoothexactlittlespeedsistergloveprofitspreadincomeacquire |  
+| bip_39_word_no_space_2 | netdirt |  
+| bip_39_word_no_space_3 | netdirtsmooth |  
+| bip_39_word_no_space_4 | netdirtsmoothexact |  
+| bip_39_word_no_space_5 | netdirtsmoothexactlittle |  
+| bip_39_word_no_space_6 | netdirtsmoothexactlittlespeed |  
+| bip_39_word_no_space_7 | netdirtsmoothexactlittlespeedsister |  
+| bip_39_word_no_space_8 | netdirtsmoothexactlittlespeedsisterglove |  
+| bip_39_word_no_space_9 | netdirtsmoothexactlittlespeedsistergloveprofit |  
 | bip_39_word_space_0 | ['net', 'dirt', 'smooth', 'exact', 'little', 'speed', 'sister', 'glove', 'profit', 'spread', 'income', 'acquire'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net dirt smooth exact little speed sister glove profit spread |  

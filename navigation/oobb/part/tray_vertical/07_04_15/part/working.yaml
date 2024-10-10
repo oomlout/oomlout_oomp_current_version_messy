@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'deliver
   ridge
 
   purchase'
+bip_39_word_no_space_1: deliver
+bip_39_word_no_space_10: deliverdenialribrosemeltsuspectvagueridgepurchasemachine
+bip_39_word_no_space_11: deliverdenialribrosemeltsuspectvagueridgepurchasemachineempty
+bip_39_word_no_space_12: deliverdenialribrosemeltsuspectvagueridgepurchasemachineemptyabsorb
+bip_39_word_no_space_2: deliverdenial
+bip_39_word_no_space_3: deliverdenialrib
+bip_39_word_no_space_4: deliverdenialribrose
+bip_39_word_no_space_5: deliverdenialribrosemelt
+bip_39_word_no_space_6: deliverdenialribrosemeltsuspect
+bip_39_word_no_space_7: deliverdenialribrosemeltsuspectvague
+bip_39_word_no_space_8: deliverdenialribrosemeltsuspectvagueridge
+bip_39_word_no_space_9: deliverdenialribrosemeltsuspectvagueridgepurchase
 bip_39_word_space_0:
 - deliver
 - denial

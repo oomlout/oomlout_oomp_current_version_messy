@@ -122,6 +122,18 @@ lava
 today
 blur
 enroll |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidcherryharborsnowsketchlavatodayblurenrollapology |  
+| bip_39_word_no_space_11 | afraidcherryharborsnowsketchlavatodayblurenrollapologycotton |  
+| bip_39_word_no_space_12 | afraidcherryharborsnowsketchlavatodayblurenrollapologycottonapart |  
+| bip_39_word_no_space_2 | afraidcherry |  
+| bip_39_word_no_space_3 | afraidcherryharbor |  
+| bip_39_word_no_space_4 | afraidcherryharborsnow |  
+| bip_39_word_no_space_5 | afraidcherryharborsnowsketch |  
+| bip_39_word_no_space_6 | afraidcherryharborsnowsketchlava |  
+| bip_39_word_no_space_7 | afraidcherryharborsnowsketchlavatoday |  
+| bip_39_word_no_space_8 | afraidcherryharborsnowsketchlavatodayblur |  
+| bip_39_word_no_space_9 | afraidcherryharborsnowsketchlavatodayblurenroll |  
 | bip_39_word_space_0 | ['afraid', 'cherry', 'harbor', 'snow', 'sketch', 'lava', 'today', 'blur', 'enroll', 'apology', 'cotton', 'apart'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid cherry harbor snow sketch lava today blur enroll apology |  

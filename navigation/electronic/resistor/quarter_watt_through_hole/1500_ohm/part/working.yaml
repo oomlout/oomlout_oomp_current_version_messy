@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'add
   kid
 
   inject'
+bip_39_word_no_space_1: add
+bip_39_word_no_space_10: addcanvascalltinygovernslabhalfkidinjectweasel
+bip_39_word_no_space_11: addcanvascalltinygovernslabhalfkidinjectweaselconvince
+bip_39_word_no_space_12: addcanvascalltinygovernslabhalfkidinjectweaselconvinceartefact
+bip_39_word_no_space_2: addcanvas
+bip_39_word_no_space_3: addcanvascall
+bip_39_word_no_space_4: addcanvascalltiny
+bip_39_word_no_space_5: addcanvascalltinygovern
+bip_39_word_no_space_6: addcanvascalltinygovernslab
+bip_39_word_no_space_7: addcanvascalltinygovernslabhalf
+bip_39_word_no_space_8: addcanvascalltinygovernslabhalfkid
+bip_39_word_no_space_9: addcanvascalltinygovernslabhalfkidinject
 bip_39_word_space_0:
 - add
 - canvas

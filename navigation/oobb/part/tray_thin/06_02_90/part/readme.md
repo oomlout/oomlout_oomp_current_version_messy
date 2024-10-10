@@ -122,6 +122,18 @@ region
 grief
 history
 trim |  
+| bip_39_word_no_space_1 | frequent |  
+| bip_39_word_no_space_10 | frequentnoticepaymentsubjectcaveregiongriefhistorytrimmad |  
+| bip_39_word_no_space_11 | frequentnoticepaymentsubjectcaveregiongriefhistorytrimmadswing |  
+| bip_39_word_no_space_12 | frequentnoticepaymentsubjectcaveregiongriefhistorytrimmadswingalready |  
+| bip_39_word_no_space_2 | frequentnotice |  
+| bip_39_word_no_space_3 | frequentnoticepayment |  
+| bip_39_word_no_space_4 | frequentnoticepaymentsubject |  
+| bip_39_word_no_space_5 | frequentnoticepaymentsubjectcave |  
+| bip_39_word_no_space_6 | frequentnoticepaymentsubjectcaveregion |  
+| bip_39_word_no_space_7 | frequentnoticepaymentsubjectcaveregiongrief |  
+| bip_39_word_no_space_8 | frequentnoticepaymentsubjectcaveregiongriefhistory |  
+| bip_39_word_no_space_9 | frequentnoticepaymentsubjectcaveregiongriefhistorytrim |  
 | bip_39_word_space_0 | ['frequent', 'notice', 'payment', 'subject', 'cave', 'region', 'grief', 'history', 'trim', 'mad', 'swing', 'already'] |  
 | bip_39_word_space_1 | frequent |  
 | bip_39_word_space_10 | frequent notice payment subject cave region grief history trim mad |  

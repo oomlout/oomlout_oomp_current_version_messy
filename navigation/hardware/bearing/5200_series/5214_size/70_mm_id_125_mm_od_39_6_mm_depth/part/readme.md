@@ -122,6 +122,18 @@ result
 flower
 magnet
 vendor |  
+| bip_39_word_no_space_1 | excuse |  
+| bip_39_word_no_space_10 | excuseorderdrumfootbetweenresultflowermagnetvendordream |  
+| bip_39_word_no_space_11 | excuseorderdrumfootbetweenresultflowermagnetvendordreamcouch |  
+| bip_39_word_no_space_12 | excuseorderdrumfootbetweenresultflowermagnetvendordreamcouchartwork |  
+| bip_39_word_no_space_2 | excuseorder |  
+| bip_39_word_no_space_3 | excuseorderdrum |  
+| bip_39_word_no_space_4 | excuseorderdrumfoot |  
+| bip_39_word_no_space_5 | excuseorderdrumfootbetween |  
+| bip_39_word_no_space_6 | excuseorderdrumfootbetweenresult |  
+| bip_39_word_no_space_7 | excuseorderdrumfootbetweenresultflower |  
+| bip_39_word_no_space_8 | excuseorderdrumfootbetweenresultflowermagnet |  
+| bip_39_word_no_space_9 | excuseorderdrumfootbetweenresultflowermagnetvendor |  
 | bip_39_word_space_0 | ['excuse', 'order', 'drum', 'foot', 'between', 'result', 'flower', 'magnet', 'vendor', 'dream', 'couch', 'artwork'] |  
 | bip_39_word_space_1 | excuse |  
 | bip_39_word_space_10 | excuse order drum foot between result flower magnet vendor dream |  

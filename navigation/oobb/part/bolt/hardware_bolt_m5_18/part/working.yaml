@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grass
   love
 
   card'
+bip_39_word_no_space_1: grass
+bip_39_word_no_space_10: grasscousintunnelsickhaveresisttwistlovecardfriend
+bip_39_word_no_space_11: grasscousintunnelsickhaveresisttwistlovecardfrienddescribe
+bip_39_word_no_space_12: grasscousintunnelsickhaveresisttwistlovecardfrienddescribeadvice
+bip_39_word_no_space_2: grasscousin
+bip_39_word_no_space_3: grasscousintunnel
+bip_39_word_no_space_4: grasscousintunnelsick
+bip_39_word_no_space_5: grasscousintunnelsickhave
+bip_39_word_no_space_6: grasscousintunnelsickhaveresist
+bip_39_word_no_space_7: grasscousintunnelsickhaveresisttwist
+bip_39_word_no_space_8: grasscousintunnelsickhaveresisttwistlove
+bip_39_word_no_space_9: grasscousintunnelsickhaveresisttwistlovecard
 bip_39_word_space_0:
 - grass
 - cousin

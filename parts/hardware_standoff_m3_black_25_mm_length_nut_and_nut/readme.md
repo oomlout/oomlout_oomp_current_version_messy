@@ -122,6 +122,18 @@ fortune
 area
 breeze
 kit |  
+| bip_39_word_no_space_1 | vapor |  
+| bip_39_word_no_space_10 | vaporvirtualpushadultsoapfortuneareabreezekitone |  
+| bip_39_word_no_space_11 | vaporvirtualpushadultsoapfortuneareabreezekitonetrue |  
+| bip_39_word_no_space_12 | vaporvirtualpushadultsoapfortuneareabreezekitonetrueaffair |  
+| bip_39_word_no_space_2 | vaporvirtual |  
+| bip_39_word_no_space_3 | vaporvirtualpush |  
+| bip_39_word_no_space_4 | vaporvirtualpushadult |  
+| bip_39_word_no_space_5 | vaporvirtualpushadultsoap |  
+| bip_39_word_no_space_6 | vaporvirtualpushadultsoapfortune |  
+| bip_39_word_no_space_7 | vaporvirtualpushadultsoapfortunearea |  
+| bip_39_word_no_space_8 | vaporvirtualpushadultsoapfortuneareabreeze |  
+| bip_39_word_no_space_9 | vaporvirtualpushadultsoapfortuneareabreezekit |  
 | bip_39_word_space_0 | ['vapor', 'virtual', 'push', 'adult', 'soap', 'fortune', 'area', 'breeze', 'kit', 'one', 'true', 'affair'] |  
 | bip_39_word_space_1 | vapor |  
 | bip_39_word_space_10 | vapor virtual push adult soap fortune area breeze kit one |  

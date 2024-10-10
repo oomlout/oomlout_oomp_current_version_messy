@@ -122,6 +122,18 @@ stamp
 unfair
 two
 adjust |  
+| bip_39_word_no_space_1 | milk |  
+| bip_39_word_no_space_10 | milkmeasureangrytonesingstampunfairtwoadjustembark |  
+| bip_39_word_no_space_11 | milkmeasureangrytonesingstampunfairtwoadjustembarkpurity |  
+| bip_39_word_no_space_12 | milkmeasureangrytonesingstampunfairtwoadjustembarkpurityaudit |  
+| bip_39_word_no_space_2 | milkmeasure |  
+| bip_39_word_no_space_3 | milkmeasureangry |  
+| bip_39_word_no_space_4 | milkmeasureangrytone |  
+| bip_39_word_no_space_5 | milkmeasureangrytonesing |  
+| bip_39_word_no_space_6 | milkmeasureangrytonesingstamp |  
+| bip_39_word_no_space_7 | milkmeasureangrytonesingstampunfair |  
+| bip_39_word_no_space_8 | milkmeasureangrytonesingstampunfairtwo |  
+| bip_39_word_no_space_9 | milkmeasureangrytonesingstampunfairtwoadjust |  
 | bip_39_word_space_0 | ['milk', 'measure', 'angry', 'tone', 'sing', 'stamp', 'unfair', 'two', 'adjust', 'embark', 'purity', 'audit'] |  
 | bip_39_word_space_1 | milk |  
 | bip_39_word_space_10 | milk measure angry tone sing stamp unfair two adjust embark |  

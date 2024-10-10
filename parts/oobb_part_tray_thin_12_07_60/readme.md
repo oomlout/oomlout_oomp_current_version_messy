@@ -122,6 +122,18 @@ nasty
 mind
 egg
 ignore |  
+| bip_39_word_no_space_1 | pyramid |  
+| bip_39_word_no_space_10 | pyramidmysterymarchbrasscanoenastymindeggignorestory |  
+| bip_39_word_no_space_11 | pyramidmysterymarchbrasscanoenastymindeggignorestoryiron |  
+| bip_39_word_no_space_12 | pyramidmysterymarchbrasscanoenastymindeggignorestoryironalcohol |  
+| bip_39_word_no_space_2 | pyramidmystery |  
+| bip_39_word_no_space_3 | pyramidmysterymarch |  
+| bip_39_word_no_space_4 | pyramidmysterymarchbrass |  
+| bip_39_word_no_space_5 | pyramidmysterymarchbrasscanoe |  
+| bip_39_word_no_space_6 | pyramidmysterymarchbrasscanoenasty |  
+| bip_39_word_no_space_7 | pyramidmysterymarchbrasscanoenastymind |  
+| bip_39_word_no_space_8 | pyramidmysterymarchbrasscanoenastymindegg |  
+| bip_39_word_no_space_9 | pyramidmysterymarchbrasscanoenastymindeggignore |  
 | bip_39_word_space_0 | ['pyramid', 'mystery', 'march', 'brass', 'canoe', 'nasty', 'mind', 'egg', 'ignore', 'story', 'iron', 'alcohol'] |  
 | bip_39_word_space_1 | pyramid |  
 | bip_39_word_space_10 | pyramid mystery march brass canoe nasty mind egg ignore story |  

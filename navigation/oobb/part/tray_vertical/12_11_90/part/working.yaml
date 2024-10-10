@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lyrics
   risk
 
   please'
+bip_39_word_no_space_1: lyrics
+bip_39_word_no_space_10: lyricsbenchauctionfeepanicrecordactriskpleaseprogram
+bip_39_word_no_space_11: lyricsbenchauctionfeepanicrecordactriskpleaseprogramsting
+bip_39_word_no_space_12: lyricsbenchauctionfeepanicrecordactriskpleaseprogramstingagain
+bip_39_word_no_space_2: lyricsbench
+bip_39_word_no_space_3: lyricsbenchauction
+bip_39_word_no_space_4: lyricsbenchauctionfee
+bip_39_word_no_space_5: lyricsbenchauctionfeepanic
+bip_39_word_no_space_6: lyricsbenchauctionfeepanicrecord
+bip_39_word_no_space_7: lyricsbenchauctionfeepanicrecordact
+bip_39_word_no_space_8: lyricsbenchauctionfeepanicrecordactrisk
+bip_39_word_no_space_9: lyricsbenchauctionfeepanicrecordactriskplease
 bip_39_word_space_0:
 - lyrics
 - bench

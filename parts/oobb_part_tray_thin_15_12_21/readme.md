@@ -122,6 +122,18 @@ radio
 ripple
 two
 choose |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldfringederiveglovepovertyradiorippletwochoosejudge |  
+| bip_39_word_no_space_11 | oldfringederiveglovepovertyradiorippletwochoosejudgetheme |  
+| bip_39_word_no_space_12 | oldfringederiveglovepovertyradiorippletwochoosejudgethemeauction |  
+| bip_39_word_no_space_2 | oldfringe |  
+| bip_39_word_no_space_3 | oldfringederive |  
+| bip_39_word_no_space_4 | oldfringederiveglove |  
+| bip_39_word_no_space_5 | oldfringederiveglovepoverty |  
+| bip_39_word_no_space_6 | oldfringederiveglovepovertyradio |  
+| bip_39_word_no_space_7 | oldfringederiveglovepovertyradioripple |  
+| bip_39_word_no_space_8 | oldfringederiveglovepovertyradiorippletwo |  
+| bip_39_word_no_space_9 | oldfringederiveglovepovertyradiorippletwochoose |  
 | bip_39_word_space_0 | ['old', 'fringe', 'derive', 'glove', 'poverty', 'radio', 'ripple', 'two', 'choose', 'judge', 'theme', 'auction'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old fringe derive glove poverty radio ripple two choose judge |  

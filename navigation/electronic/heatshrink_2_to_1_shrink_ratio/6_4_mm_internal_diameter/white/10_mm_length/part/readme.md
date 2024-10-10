@@ -122,6 +122,18 @@ drip
 ripple
 uniform
 attract |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavealerthunteruptcaughtdriprippleuniformattractcarpet |  
+| bip_39_word_no_space_11 | cavealerthunteruptcaughtdriprippleuniformattractcarpetsalon |  
+| bip_39_word_no_space_12 | cavealerthunteruptcaughtdriprippleuniformattractcarpetsalonagain |  
+| bip_39_word_no_space_2 | cavealert |  
+| bip_39_word_no_space_3 | cavealerthunt |  
+| bip_39_word_no_space_4 | cavealerthunterupt |  
+| bip_39_word_no_space_5 | cavealerthunteruptcaught |  
+| bip_39_word_no_space_6 | cavealerthunteruptcaughtdrip |  
+| bip_39_word_no_space_7 | cavealerthunteruptcaughtdripripple |  
+| bip_39_word_no_space_8 | cavealerthunteruptcaughtdriprippleuniform |  
+| bip_39_word_no_space_9 | cavealerthunteruptcaughtdriprippleuniformattract |  
 | bip_39_word_space_0 | ['cave', 'alert', 'hunt', 'erupt', 'caught', 'drip', 'ripple', 'uniform', 'attract', 'carpet', 'salon', 'again'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave alert hunt erupt caught drip ripple uniform attract carpet |  

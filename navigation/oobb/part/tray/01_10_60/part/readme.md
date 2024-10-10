@@ -122,6 +122,18 @@ amused
 erase
 canoe
 wasp |  
+| bip_39_word_no_space_1 | blast |  
+| bip_39_word_no_space_10 | blastchasepearobeytryamusederasecanoewaspwarfare |  
+| bip_39_word_no_space_11 | blastchasepearobeytryamusederasecanoewaspwarfarecensus |  
+| bip_39_word_no_space_12 | blastchasepearobeytryamusederasecanoewaspwarfarecensusadapt |  
+| bip_39_word_no_space_2 | blastchase |  
+| bip_39_word_no_space_3 | blastchasepear |  
+| bip_39_word_no_space_4 | blastchasepearobey |  
+| bip_39_word_no_space_5 | blastchasepearobeytry |  
+| bip_39_word_no_space_6 | blastchasepearobeytryamused |  
+| bip_39_word_no_space_7 | blastchasepearobeytryamusederase |  
+| bip_39_word_no_space_8 | blastchasepearobeytryamusederasecanoe |  
+| bip_39_word_no_space_9 | blastchasepearobeytryamusederasecanoewasp |  
 | bip_39_word_space_0 | ['blast', 'chase', 'pear', 'obey', 'try', 'amused', 'erase', 'canoe', 'wasp', 'warfare', 'census', 'adapt'] |  
 | bip_39_word_space_1 | blast |  
 | bip_39_word_space_10 | blast chase pear obey try amused erase canoe wasp warfare |  

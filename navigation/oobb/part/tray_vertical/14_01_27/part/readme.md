@@ -122,6 +122,18 @@ before
 boring
 stuff
 laugh |  
+| bip_39_word_no_space_1 | return |  
+| bip_39_word_no_space_10 | returnnamedrivecookdeclinebeforeboringstufflaughcheck |  
+| bip_39_word_no_space_11 | returnnamedrivecookdeclinebeforeboringstufflaughchecktone |  
+| bip_39_word_no_space_12 | returnnamedrivecookdeclinebeforeboringstufflaughchecktoneattract |  
+| bip_39_word_no_space_2 | returnname |  
+| bip_39_word_no_space_3 | returnnamedrive |  
+| bip_39_word_no_space_4 | returnnamedrivecook |  
+| bip_39_word_no_space_5 | returnnamedrivecookdecline |  
+| bip_39_word_no_space_6 | returnnamedrivecookdeclinebefore |  
+| bip_39_word_no_space_7 | returnnamedrivecookdeclinebeforeboring |  
+| bip_39_word_no_space_8 | returnnamedrivecookdeclinebeforeboringstuff |  
+| bip_39_word_no_space_9 | returnnamedrivecookdeclinebeforeboringstufflaugh |  
 | bip_39_word_space_0 | ['return', 'name', 'drive', 'cook', 'decline', 'before', 'boring', 'stuff', 'laugh', 'check', 'tone', 'attract'] |  
 | bip_39_word_space_1 | return |  
 | bip_39_word_space_10 | return name drive cook decline before boring stuff laugh check |  

@@ -122,6 +122,18 @@ vehicle
 pitch
 body
 deposit |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naivebonesisterpoolgoodvehiclepitchbodydepositwasp |  
+| bip_39_word_no_space_11 | naivebonesisterpoolgoodvehiclepitchbodydepositwaspdaughter |  
+| bip_39_word_no_space_12 | naivebonesisterpoolgoodvehiclepitchbodydepositwaspdaughteralone |  
+| bip_39_word_no_space_2 | naivebone |  
+| bip_39_word_no_space_3 | naivebonesister |  
+| bip_39_word_no_space_4 | naivebonesisterpool |  
+| bip_39_word_no_space_5 | naivebonesisterpoolgood |  
+| bip_39_word_no_space_6 | naivebonesisterpoolgoodvehicle |  
+| bip_39_word_no_space_7 | naivebonesisterpoolgoodvehiclepitch |  
+| bip_39_word_no_space_8 | naivebonesisterpoolgoodvehiclepitchbody |  
+| bip_39_word_no_space_9 | naivebonesisterpoolgoodvehiclepitchbodydeposit |  
 | bip_39_word_space_0 | ['naive', 'bone', 'sister', 'pool', 'good', 'vehicle', 'pitch', 'body', 'deposit', 'wasp', 'daughter', 'alone'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive bone sister pool good vehicle pitch body deposit wasp |  

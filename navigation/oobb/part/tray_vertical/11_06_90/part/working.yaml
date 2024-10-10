@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'check
   casino
 
   kick'
+bip_39_word_no_space_1: check
+bip_39_word_no_space_10: checkignorefiberquizvariousgapinjectcasinokicksurge
+bip_39_word_no_space_11: checkignorefiberquizvariousgapinjectcasinokicksurgepeasant
+bip_39_word_no_space_12: checkignorefiberquizvariousgapinjectcasinokicksurgepeasantauto
+bip_39_word_no_space_2: checkignore
+bip_39_word_no_space_3: checkignorefiber
+bip_39_word_no_space_4: checkignorefiberquiz
+bip_39_word_no_space_5: checkignorefiberquizvarious
+bip_39_word_no_space_6: checkignorefiberquizvariousgap
+bip_39_word_no_space_7: checkignorefiberquizvariousgapinject
+bip_39_word_no_space_8: checkignorefiberquizvariousgapinjectcasino
+bip_39_word_no_space_9: checkignorefiberquizvariousgapinjectcasinokick
 bip_39_word_space_0:
 - check
 - ignore

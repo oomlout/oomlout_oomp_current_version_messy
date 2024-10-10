@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scrub
   matter
 
   transfer'
+bip_39_word_no_space_1: scrub
+bip_39_word_no_space_10: scrubcraftspeakdizzygardenswearboatmattertransferentry
+bip_39_word_no_space_11: scrubcraftspeakdizzygardenswearboatmattertransferentrycatalog
+bip_39_word_no_space_12: scrubcraftspeakdizzygardenswearboatmattertransferentrycatalogarm
+bip_39_word_no_space_2: scrubcraft
+bip_39_word_no_space_3: scrubcraftspeak
+bip_39_word_no_space_4: scrubcraftspeakdizzy
+bip_39_word_no_space_5: scrubcraftspeakdizzygarden
+bip_39_word_no_space_6: scrubcraftspeakdizzygardenswear
+bip_39_word_no_space_7: scrubcraftspeakdizzygardenswearboat
+bip_39_word_no_space_8: scrubcraftspeakdizzygardenswearboatmatter
+bip_39_word_no_space_9: scrubcraftspeakdizzygardenswearboatmattertransfer
 bip_39_word_space_0:
 - scrub
 - craft

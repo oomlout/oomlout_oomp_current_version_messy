@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'problem
   mother
 
   again'
+bip_39_word_no_space_1: problem
+bip_39_word_no_space_10: problemsixcodebalconyexcusestockkingdommotheragainfancy
+bip_39_word_no_space_11: problemsixcodebalconyexcusestockkingdommotheragainfancyvalid
+bip_39_word_no_space_12: problemsixcodebalconyexcusestockkingdommotheragainfancyvalidarrow
+bip_39_word_no_space_2: problemsix
+bip_39_word_no_space_3: problemsixcode
+bip_39_word_no_space_4: problemsixcodebalcony
+bip_39_word_no_space_5: problemsixcodebalconyexcuse
+bip_39_word_no_space_6: problemsixcodebalconyexcusestock
+bip_39_word_no_space_7: problemsixcodebalconyexcusestockkingdom
+bip_39_word_no_space_8: problemsixcodebalconyexcusestockkingdommother
+bip_39_word_no_space_9: problemsixcodebalconyexcusestockkingdommotheragain
 bip_39_word_space_0:
 - problem
 - six

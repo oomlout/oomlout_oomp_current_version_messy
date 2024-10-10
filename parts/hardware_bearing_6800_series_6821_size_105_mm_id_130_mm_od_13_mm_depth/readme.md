@@ -122,6 +122,18 @@ security
 chalk
 zoo
 jeans |  
+| bip_39_word_no_space_1 | spell |  
+| bip_39_word_no_space_10 | spellwinteroceanassaultusesecuritychalkzoojeansprogram |  
+| bip_39_word_no_space_11 | spellwinteroceanassaultusesecuritychalkzoojeansprogramflock |  
+| bip_39_word_no_space_12 | spellwinteroceanassaultusesecuritychalkzoojeansprogramflockangry |  
+| bip_39_word_no_space_2 | spellwinter |  
+| bip_39_word_no_space_3 | spellwinterocean |  
+| bip_39_word_no_space_4 | spellwinteroceanassault |  
+| bip_39_word_no_space_5 | spellwinteroceanassaultuse |  
+| bip_39_word_no_space_6 | spellwinteroceanassaultusesecurity |  
+| bip_39_word_no_space_7 | spellwinteroceanassaultusesecuritychalk |  
+| bip_39_word_no_space_8 | spellwinteroceanassaultusesecuritychalkzoo |  
+| bip_39_word_no_space_9 | spellwinteroceanassaultusesecuritychalkzoojeans |  
 | bip_39_word_space_0 | ['spell', 'winter', 'ocean', 'assault', 'use', 'security', 'chalk', 'zoo', 'jeans', 'program', 'flock', 'angry'] |  
 | bip_39_word_space_1 | spell |  
 | bip_39_word_space_10 | spell winter ocean assault use security chalk zoo jeans program |  

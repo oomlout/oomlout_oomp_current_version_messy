@@ -122,6 +122,18 @@ unable
 now
 aspect
 voice |  
+| bip_39_word_no_space_1 | mind |  
+| bip_39_word_no_space_10 | mindinsanescenecaptainchickenunablenowaspectvoiceplanet |  
+| bip_39_word_no_space_11 | mindinsanescenecaptainchickenunablenowaspectvoiceplanethat |  
+| bip_39_word_no_space_12 | mindinsanescenecaptainchickenunablenowaspectvoiceplanethatact |  
+| bip_39_word_no_space_2 | mindinsane |  
+| bip_39_word_no_space_3 | mindinsanescene |  
+| bip_39_word_no_space_4 | mindinsanescenecaptain |  
+| bip_39_word_no_space_5 | mindinsanescenecaptainchicken |  
+| bip_39_word_no_space_6 | mindinsanescenecaptainchickenunable |  
+| bip_39_word_no_space_7 | mindinsanescenecaptainchickenunablenow |  
+| bip_39_word_no_space_8 | mindinsanescenecaptainchickenunablenowaspect |  
+| bip_39_word_no_space_9 | mindinsanescenecaptainchickenunablenowaspectvoice |  
 | bip_39_word_space_0 | ['mind', 'insane', 'scene', 'captain', 'chicken', 'unable', 'now', 'aspect', 'voice', 'planet', 'hat', 'act'] |  
 | bip_39_word_space_1 | mind |  
 | bip_39_word_space_10 | mind insane scene captain chicken unable now aspect voice planet |  

@@ -122,6 +122,18 @@ shiver
 father
 crouch
 scrub |  
+| bip_39_word_no_space_1 | height |  
+| bip_39_word_no_space_10 | heightbronzecrossnowstemshiverfathercrouchscrubwhen |  
+| bip_39_word_no_space_11 | heightbronzecrossnowstemshiverfathercrouchscrubwheninstall |  
+| bip_39_word_no_space_12 | heightbronzecrossnowstemshiverfathercrouchscrubwheninstallany |  
+| bip_39_word_no_space_2 | heightbronze |  
+| bip_39_word_no_space_3 | heightbronzecross |  
+| bip_39_word_no_space_4 | heightbronzecrossnow |  
+| bip_39_word_no_space_5 | heightbronzecrossnowstem |  
+| bip_39_word_no_space_6 | heightbronzecrossnowstemshiver |  
+| bip_39_word_no_space_7 | heightbronzecrossnowstemshiverfather |  
+| bip_39_word_no_space_8 | heightbronzecrossnowstemshiverfathercrouch |  
+| bip_39_word_no_space_9 | heightbronzecrossnowstemshiverfathercrouchscrub |  
 | bip_39_word_space_0 | ['height', 'bronze', 'cross', 'now', 'stem', 'shiver', 'father', 'crouch', 'scrub', 'when', 'install', 'any'] |  
 | bip_39_word_space_1 | height |  
 | bip_39_word_space_10 | height bronze cross now stem shiver father crouch scrub when |  

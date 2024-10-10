@@ -122,6 +122,18 @@ kid
 absent
 helmet
 true |  
+| bip_39_word_no_space_1 | mail |  
+| bip_39_word_no_space_10 | mailawayselectshopnextkidabsenthelmettruelend |  
+| bip_39_word_no_space_11 | mailawayselectshopnextkidabsenthelmettruelendsauce |  
+| bip_39_word_no_space_12 | mailawayselectshopnextkidabsenthelmettruelendsauceaisle |  
+| bip_39_word_no_space_2 | mailaway |  
+| bip_39_word_no_space_3 | mailawayselect |  
+| bip_39_word_no_space_4 | mailawayselectshop |  
+| bip_39_word_no_space_5 | mailawayselectshopnext |  
+| bip_39_word_no_space_6 | mailawayselectshopnextkid |  
+| bip_39_word_no_space_7 | mailawayselectshopnextkidabsent |  
+| bip_39_word_no_space_8 | mailawayselectshopnextkidabsenthelmet |  
+| bip_39_word_no_space_9 | mailawayselectshopnextkidabsenthelmettrue |  
 | bip_39_word_space_0 | ['mail', 'away', 'select', 'shop', 'next', 'kid', 'absent', 'helmet', 'true', 'lend', 'sauce', 'aisle'] |  
 | bip_39_word_space_1 | mail |  
 | bip_39_word_space_10 | mail away select shop next kid absent helmet true lend |  

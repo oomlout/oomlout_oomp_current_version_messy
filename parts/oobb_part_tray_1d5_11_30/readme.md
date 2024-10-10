@@ -122,6 +122,18 @@ aim
 mammal
 swamp
 grace |  
+| bip_39_word_no_space_1 | market |  
+| bip_39_word_no_space_10 | marketburstcactusinputfreshaimmammalswampgraceweb |  
+| bip_39_word_no_space_11 | marketburstcactusinputfreshaimmammalswampgracewebisland |  
+| bip_39_word_no_space_12 | marketburstcactusinputfreshaimmammalswampgracewebislandaddict |  
+| bip_39_word_no_space_2 | marketburst |  
+| bip_39_word_no_space_3 | marketburstcactus |  
+| bip_39_word_no_space_4 | marketburstcactusinput |  
+| bip_39_word_no_space_5 | marketburstcactusinputfresh |  
+| bip_39_word_no_space_6 | marketburstcactusinputfreshaim |  
+| bip_39_word_no_space_7 | marketburstcactusinputfreshaimmammal |  
+| bip_39_word_no_space_8 | marketburstcactusinputfreshaimmammalswamp |  
+| bip_39_word_no_space_9 | marketburstcactusinputfreshaimmammalswampgrace |  
 | bip_39_word_space_0 | ['market', 'burst', 'cactus', 'input', 'fresh', 'aim', 'mammal', 'swamp', 'grace', 'web', 'island', 'addict'] |  
 | bip_39_word_space_1 | market |  
 | bip_39_word_space_10 | market burst cactus input fresh aim mammal swamp grace web |  

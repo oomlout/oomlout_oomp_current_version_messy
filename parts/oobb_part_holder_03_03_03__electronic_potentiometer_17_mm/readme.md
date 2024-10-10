@@ -122,6 +122,18 @@ disease
 left
 spring
 solar |  
+| bip_39_word_no_space_1 | tortoise |  
+| bip_39_word_no_space_10 | tortoiseveryhappycakedeputydiseaseleftspringsolargarment |  
+| bip_39_word_no_space_11 | tortoiseveryhappycakedeputydiseaseleftspringsolargarmentprint |  
+| bip_39_word_no_space_12 | tortoiseveryhappycakedeputydiseaseleftspringsolargarmentprintasthma |  
+| bip_39_word_no_space_2 | tortoisevery |  
+| bip_39_word_no_space_3 | tortoiseveryhappy |  
+| bip_39_word_no_space_4 | tortoiseveryhappycake |  
+| bip_39_word_no_space_5 | tortoiseveryhappycakedeputy |  
+| bip_39_word_no_space_6 | tortoiseveryhappycakedeputydisease |  
+| bip_39_word_no_space_7 | tortoiseveryhappycakedeputydiseaseleft |  
+| bip_39_word_no_space_8 | tortoiseveryhappycakedeputydiseaseleftspring |  
+| bip_39_word_no_space_9 | tortoiseveryhappycakedeputydiseaseleftspringsolar |  
 | bip_39_word_space_0 | ['tortoise', 'very', 'happy', 'cake', 'deputy', 'disease', 'left', 'spring', 'solar', 'garment', 'print', 'asthma'] |  
 | bip_39_word_space_1 | tortoise |  
 | bip_39_word_space_10 | tortoise very happy cake deputy disease left spring solar garment |  

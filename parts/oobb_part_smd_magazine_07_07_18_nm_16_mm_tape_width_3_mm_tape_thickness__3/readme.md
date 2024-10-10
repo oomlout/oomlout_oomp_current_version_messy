@@ -122,6 +122,18 @@ hurdle
 modify
 decorate
 city |  
+| bip_39_word_no_space_1 | receive |  
+| bip_39_word_no_space_10 | receivearmedstadiumownerhavehurdlemodifydecoratecitymixed |  
+| bip_39_word_no_space_11 | receivearmedstadiumownerhavehurdlemodifydecoratecitymixedcamp |  
+| bip_39_word_no_space_12 | receivearmedstadiumownerhavehurdlemodifydecoratecitymixedcampattract |  
+| bip_39_word_no_space_2 | receivearmed |  
+| bip_39_word_no_space_3 | receivearmedstadium |  
+| bip_39_word_no_space_4 | receivearmedstadiumowner |  
+| bip_39_word_no_space_5 | receivearmedstadiumownerhave |  
+| bip_39_word_no_space_6 | receivearmedstadiumownerhavehurdle |  
+| bip_39_word_no_space_7 | receivearmedstadiumownerhavehurdlemodify |  
+| bip_39_word_no_space_8 | receivearmedstadiumownerhavehurdlemodifydecorate |  
+| bip_39_word_no_space_9 | receivearmedstadiumownerhavehurdlemodifydecoratecity |  
 | bip_39_word_space_0 | ['receive', 'armed', 'stadium', 'owner', 'have', 'hurdle', 'modify', 'decorate', 'city', 'mixed', 'camp', 'attract'] |  
 | bip_39_word_space_1 | receive |  
 | bip_39_word_space_10 | receive armed stadium owner have hurdle modify decorate city mixed |  

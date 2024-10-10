@@ -122,6 +122,18 @@ public
 clutch
 cotton
 figure |  
+| bip_39_word_no_space_1 | chat |  
+| bip_39_word_no_space_10 | chattoebeanusagecleverpublicclutchcottonfigureoriginal |  
+| bip_39_word_no_space_11 | chattoebeanusagecleverpublicclutchcottonfigureoriginalbachelor |  
+| bip_39_word_no_space_12 | chattoebeanusagecleverpublicclutchcottonfigureoriginalbachelorarmed |  
+| bip_39_word_no_space_2 | chattoe |  
+| bip_39_word_no_space_3 | chattoebean |  
+| bip_39_word_no_space_4 | chattoebeanusage |  
+| bip_39_word_no_space_5 | chattoebeanusageclever |  
+| bip_39_word_no_space_6 | chattoebeanusagecleverpublic |  
+| bip_39_word_no_space_7 | chattoebeanusagecleverpublicclutch |  
+| bip_39_word_no_space_8 | chattoebeanusagecleverpublicclutchcotton |  
+| bip_39_word_no_space_9 | chattoebeanusagecleverpublicclutchcottonfigure |  
 | bip_39_word_space_0 | ['chat', 'toe', 'bean', 'usage', 'clever', 'public', 'clutch', 'cotton', 'figure', 'original', 'bachelor', 'armed'] |  
 | bip_39_word_space_1 | chat |  
 | bip_39_word_space_10 | chat toe bean usage clever public clutch cotton figure original |  

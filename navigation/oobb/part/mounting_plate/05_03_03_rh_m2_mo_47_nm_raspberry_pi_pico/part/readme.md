@@ -122,6 +122,18 @@ inside
 purse
 bottom
 woman |  
+| bip_39_word_no_space_1 | shift |  
+| bip_39_word_no_space_10 | shiftbehaveenrollimagepathinsidepursebottomwomanbrother |  
+| bip_39_word_no_space_11 | shiftbehaveenrollimagepathinsidepursebottomwomanbrotherword |  
+| bip_39_word_no_space_12 | shiftbehaveenrollimagepathinsidepursebottomwomanbrotherwordarm |  
+| bip_39_word_no_space_2 | shiftbehave |  
+| bip_39_word_no_space_3 | shiftbehaveenroll |  
+| bip_39_word_no_space_4 | shiftbehaveenrollimage |  
+| bip_39_word_no_space_5 | shiftbehaveenrollimagepath |  
+| bip_39_word_no_space_6 | shiftbehaveenrollimagepathinside |  
+| bip_39_word_no_space_7 | shiftbehaveenrollimagepathinsidepurse |  
+| bip_39_word_no_space_8 | shiftbehaveenrollimagepathinsidepursebottom |  
+| bip_39_word_no_space_9 | shiftbehaveenrollimagepathinsidepursebottomwoman |  
 | bip_39_word_space_0 | ['shift', 'behave', 'enroll', 'image', 'path', 'inside', 'purse', 'bottom', 'woman', 'brother', 'word', 'arm'] |  
 | bip_39_word_space_1 | shift |  
 | bip_39_word_space_10 | shift behave enroll image path inside purse bottom woman brother |  

@@ -122,6 +122,18 @@ grass
 member
 round
 away |  
+| bip_39_word_no_space_1 | defy |  
+| bip_39_word_no_space_10 | defydebrisstovebindalbumgrassmemberroundawayneutral |  
+| bip_39_word_no_space_11 | defydebrisstovebindalbumgrassmemberroundawayneutraldumb |  
+| bip_39_word_no_space_12 | defydebrisstovebindalbumgrassmemberroundawayneutraldumbarrange |  
+| bip_39_word_no_space_2 | defydebris |  
+| bip_39_word_no_space_3 | defydebrisstove |  
+| bip_39_word_no_space_4 | defydebrisstovebind |  
+| bip_39_word_no_space_5 | defydebrisstovebindalbum |  
+| bip_39_word_no_space_6 | defydebrisstovebindalbumgrass |  
+| bip_39_word_no_space_7 | defydebrisstovebindalbumgrassmember |  
+| bip_39_word_no_space_8 | defydebrisstovebindalbumgrassmemberround |  
+| bip_39_word_no_space_9 | defydebrisstovebindalbumgrassmemberroundaway |  
 | bip_39_word_space_0 | ['defy', 'debris', 'stove', 'bind', 'album', 'grass', 'member', 'round', 'away', 'neutral', 'dumb', 'arrange'] |  
 | bip_39_word_space_1 | defy |  
 | bip_39_word_space_10 | defy debris stove bind album grass member round away neutral |  

@@ -122,6 +122,18 @@ also
 pulp
 include
 curve |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultlightgarlicroofwealthalsopulpincludecurveindicate |  
+| bip_39_word_no_space_11 | faultlightgarlicroofwealthalsopulpincludecurveindicatedrama |  
+| bip_39_word_no_space_12 | faultlightgarlicroofwealthalsopulpincludecurveindicatedramaattract |  
+| bip_39_word_no_space_2 | faultlight |  
+| bip_39_word_no_space_3 | faultlightgarlic |  
+| bip_39_word_no_space_4 | faultlightgarlicroof |  
+| bip_39_word_no_space_5 | faultlightgarlicroofwealth |  
+| bip_39_word_no_space_6 | faultlightgarlicroofwealthalso |  
+| bip_39_word_no_space_7 | faultlightgarlicroofwealthalsopulp |  
+| bip_39_word_no_space_8 | faultlightgarlicroofwealthalsopulpinclude |  
+| bip_39_word_no_space_9 | faultlightgarlicroofwealthalsopulpincludecurve |  
 | bip_39_word_space_0 | ['fault', 'light', 'garlic', 'roof', 'wealth', 'also', 'pulp', 'include', 'curve', 'indicate', 'drama', 'attract'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault light garlic roof wealth also pulp include curve indicate |  

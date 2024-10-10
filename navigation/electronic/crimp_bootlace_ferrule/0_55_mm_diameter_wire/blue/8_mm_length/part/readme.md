@@ -122,6 +122,18 @@ spin
 bulk
 any
 arrow |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymmysterywhatuponairportspinbulkanyarrowtail |  
+| bip_39_word_no_space_11 | gymmysterywhatuponairportspinbulkanyarrowtailroyal |  
+| bip_39_word_no_space_12 | gymmysterywhatuponairportspinbulkanyarrowtailroyalaugust |  
+| bip_39_word_no_space_2 | gymmystery |  
+| bip_39_word_no_space_3 | gymmysterywhat |  
+| bip_39_word_no_space_4 | gymmysterywhatupon |  
+| bip_39_word_no_space_5 | gymmysterywhatuponairport |  
+| bip_39_word_no_space_6 | gymmysterywhatuponairportspin |  
+| bip_39_word_no_space_7 | gymmysterywhatuponairportspinbulk |  
+| bip_39_word_no_space_8 | gymmysterywhatuponairportspinbulkany |  
+| bip_39_word_no_space_9 | gymmysterywhatuponairportspinbulkanyarrow |  
 | bip_39_word_space_0 | ['gym', 'mystery', 'what', 'upon', 'airport', 'spin', 'bulk', 'any', 'arrow', 'tail', 'royal', 'august'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym mystery what upon airport spin bulk any arrow tail |  

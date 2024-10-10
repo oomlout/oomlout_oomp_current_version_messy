@@ -122,6 +122,18 @@ luggage
 humble
 develop
 sample |  
+| bip_39_word_no_space_1 | clarify |  
+| bip_39_word_no_space_10 | clarifydecidejustphoneclerkluggagehumbledevelopsampleauction |  
+| bip_39_word_no_space_11 | clarifydecidejustphoneclerkluggagehumbledevelopsampleauctionsmile |  
+| bip_39_word_no_space_12 | clarifydecidejustphoneclerkluggagehumbledevelopsampleauctionsmileagain |  
+| bip_39_word_no_space_2 | clarifydecide |  
+| bip_39_word_no_space_3 | clarifydecidejust |  
+| bip_39_word_no_space_4 | clarifydecidejustphone |  
+| bip_39_word_no_space_5 | clarifydecidejustphoneclerk |  
+| bip_39_word_no_space_6 | clarifydecidejustphoneclerkluggage |  
+| bip_39_word_no_space_7 | clarifydecidejustphoneclerkluggagehumble |  
+| bip_39_word_no_space_8 | clarifydecidejustphoneclerkluggagehumbledevelop |  
+| bip_39_word_no_space_9 | clarifydecidejustphoneclerkluggagehumbledevelopsample |  
 | bip_39_word_space_0 | ['clarify', 'decide', 'just', 'phone', 'clerk', 'luggage', 'humble', 'develop', 'sample', 'auction', 'smile', 'again'] |  
 | bip_39_word_space_1 | clarify |  
 | bip_39_word_space_10 | clarify decide just phone clerk luggage humble develop sample auction |  

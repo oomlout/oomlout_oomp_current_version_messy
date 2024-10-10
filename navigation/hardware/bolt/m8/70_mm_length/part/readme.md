@@ -122,6 +122,18 @@ hawk
 large
 bundle
 lesson |  
+| bip_39_word_no_space_1 | broccoli |  
+| bip_39_word_no_space_10 | broccolidropadjustrivalmaplehawklargebundlelessonpepper |  
+| bip_39_word_no_space_11 | broccolidropadjustrivalmaplehawklargebundlelessonpepperzoo |  
+| bip_39_word_no_space_12 | broccolidropadjustrivalmaplehawklargebundlelessonpepperzooart |  
+| bip_39_word_no_space_2 | broccolidrop |  
+| bip_39_word_no_space_3 | broccolidropadjust |  
+| bip_39_word_no_space_4 | broccolidropadjustrival |  
+| bip_39_word_no_space_5 | broccolidropadjustrivalmaple |  
+| bip_39_word_no_space_6 | broccolidropadjustrivalmaplehawk |  
+| bip_39_word_no_space_7 | broccolidropadjustrivalmaplehawklarge |  
+| bip_39_word_no_space_8 | broccolidropadjustrivalmaplehawklargebundle |  
+| bip_39_word_no_space_9 | broccolidropadjustrivalmaplehawklargebundlelesson |  
 | bip_39_word_space_0 | ['broccoli', 'drop', 'adjust', 'rival', 'maple', 'hawk', 'large', 'bundle', 'lesson', 'pepper', 'zoo', 'art'] |  
 | bip_39_word_space_1 | broccoli |  
 | bip_39_word_space_10 | broccoli drop adjust rival maple hawk large bundle lesson pepper |  

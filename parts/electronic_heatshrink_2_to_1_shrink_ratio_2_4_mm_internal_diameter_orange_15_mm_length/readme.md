@@ -122,6 +122,18 @@ speak
 wrestle
 sustain
 luxury |  
+| bip_39_word_no_space_1 | trick |  
+| bip_39_word_no_space_10 | trickentergossipcaptainmoralspeakwrestlesustainluxuryoption |  
+| bip_39_word_no_space_11 | trickentergossipcaptainmoralspeakwrestlesustainluxuryoptionchair |  
+| bip_39_word_no_space_12 | trickentergossipcaptainmoralspeakwrestlesustainluxuryoptionchairattend |  
+| bip_39_word_no_space_2 | trickenter |  
+| bip_39_word_no_space_3 | trickentergossip |  
+| bip_39_word_no_space_4 | trickentergossipcaptain |  
+| bip_39_word_no_space_5 | trickentergossipcaptainmoral |  
+| bip_39_word_no_space_6 | trickentergossipcaptainmoralspeak |  
+| bip_39_word_no_space_7 | trickentergossipcaptainmoralspeakwrestle |  
+| bip_39_word_no_space_8 | trickentergossipcaptainmoralspeakwrestlesustain |  
+| bip_39_word_no_space_9 | trickentergossipcaptainmoralspeakwrestlesustainluxury |  
 | bip_39_word_space_0 | ['trick', 'enter', 'gossip', 'captain', 'moral', 'speak', 'wrestle', 'sustain', 'luxury', 'option', 'chair', 'attend'] |  
 | bip_39_word_space_1 | trick |  
 | bip_39_word_space_10 | trick enter gossip captain moral speak wrestle sustain luxury option |  

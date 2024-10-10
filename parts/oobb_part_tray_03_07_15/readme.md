@@ -122,6 +122,18 @@ shift
 small
 laundry
 gas |  
+| bip_39_word_no_space_1 | pool |  
+| bip_39_word_no_space_10 | poolbrickdrawacquirecrossshiftsmalllaundrygasforget |  
+| bip_39_word_no_space_11 | poolbrickdrawacquirecrossshiftsmalllaundrygasforgetgarlic |  
+| bip_39_word_no_space_12 | poolbrickdrawacquirecrossshiftsmalllaundrygasforgetgarlicadapt |  
+| bip_39_word_no_space_2 | poolbrick |  
+| bip_39_word_no_space_3 | poolbrickdraw |  
+| bip_39_word_no_space_4 | poolbrickdrawacquire |  
+| bip_39_word_no_space_5 | poolbrickdrawacquirecross |  
+| bip_39_word_no_space_6 | poolbrickdrawacquirecrossshift |  
+| bip_39_word_no_space_7 | poolbrickdrawacquirecrossshiftsmall |  
+| bip_39_word_no_space_8 | poolbrickdrawacquirecrossshiftsmalllaundry |  
+| bip_39_word_no_space_9 | poolbrickdrawacquirecrossshiftsmalllaundrygas |  
 | bip_39_word_space_0 | ['pool', 'brick', 'draw', 'acquire', 'cross', 'shift', 'small', 'laundry', 'gas', 'forget', 'garlic', 'adapt'] |  
 | bip_39_word_space_1 | pool |  
 | bip_39_word_space_10 | pool brick draw acquire cross shift small laundry gas forget |  

@@ -122,6 +122,18 @@ relief
 cancel
 nurse
 weasel |  
+| bip_39_word_no_space_1 | below |  
+| bip_39_word_no_space_10 | belowmangodamagenextorchardreliefcancelnurseweaseluncle |  
+| bip_39_word_no_space_11 | belowmangodamagenextorchardreliefcancelnurseweaseluncleproof |  
+| bip_39_word_no_space_12 | belowmangodamagenextorchardreliefcancelnurseweaseluncleproofabove |  
+| bip_39_word_no_space_2 | belowmango |  
+| bip_39_word_no_space_3 | belowmangodamage |  
+| bip_39_word_no_space_4 | belowmangodamagenext |  
+| bip_39_word_no_space_5 | belowmangodamagenextorchard |  
+| bip_39_word_no_space_6 | belowmangodamagenextorchardrelief |  
+| bip_39_word_no_space_7 | belowmangodamagenextorchardreliefcancel |  
+| bip_39_word_no_space_8 | belowmangodamagenextorchardreliefcancelnurse |  
+| bip_39_word_no_space_9 | belowmangodamagenextorchardreliefcancelnurseweasel |  
 | bip_39_word_space_0 | ['below', 'mango', 'damage', 'next', 'orchard', 'relief', 'cancel', 'nurse', 'weasel', 'uncle', 'proof', 'above'] |  
 | bip_39_word_space_1 | below |  
 | bip_39_word_space_10 | below mango damage next orchard relief cancel nurse weasel uncle |  

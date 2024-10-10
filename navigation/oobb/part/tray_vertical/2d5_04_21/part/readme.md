@@ -122,6 +122,18 @@ output
 violin
 real
 advice |  
+| bip_39_word_no_space_1 | spatial |  
+| bip_39_word_no_space_10 | spatialtwocoyotemotorthreeoutputviolinrealadvicemarket |  
+| bip_39_word_no_space_11 | spatialtwocoyotemotorthreeoutputviolinrealadvicemarketbike |  
+| bip_39_word_no_space_12 | spatialtwocoyotemotorthreeoutputviolinrealadvicemarketbikeaisle |  
+| bip_39_word_no_space_2 | spatialtwo |  
+| bip_39_word_no_space_3 | spatialtwocoyote |  
+| bip_39_word_no_space_4 | spatialtwocoyotemotor |  
+| bip_39_word_no_space_5 | spatialtwocoyotemotorthree |  
+| bip_39_word_no_space_6 | spatialtwocoyotemotorthreeoutput |  
+| bip_39_word_no_space_7 | spatialtwocoyotemotorthreeoutputviolin |  
+| bip_39_word_no_space_8 | spatialtwocoyotemotorthreeoutputviolinreal |  
+| bip_39_word_no_space_9 | spatialtwocoyotemotorthreeoutputviolinrealadvice |  
 | bip_39_word_space_0 | ['spatial', 'two', 'coyote', 'motor', 'three', 'output', 'violin', 'real', 'advice', 'market', 'bike', 'aisle'] |  
 | bip_39_word_space_1 | spatial |  
 | bip_39_word_space_10 | spatial two coyote motor three output violin real advice market |  

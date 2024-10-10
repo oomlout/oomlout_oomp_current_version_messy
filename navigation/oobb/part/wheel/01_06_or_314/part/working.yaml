@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'corn
   dinosaur
 
   author'
+bip_39_word_no_space_1: corn
+bip_39_word_no_space_10: cornschemeannouncemantaxislideinquirydinosaurauthorrobot
+bip_39_word_no_space_11: cornschemeannouncemantaxislideinquirydinosaurauthorrobotolive
+bip_39_word_no_space_12: cornschemeannouncemantaxislideinquirydinosaurauthorrobotoliveathlete
+bip_39_word_no_space_2: cornscheme
+bip_39_word_no_space_3: cornschemeannounce
+bip_39_word_no_space_4: cornschemeannounceman
+bip_39_word_no_space_5: cornschemeannouncemantaxi
+bip_39_word_no_space_6: cornschemeannouncemantaxislide
+bip_39_word_no_space_7: cornschemeannouncemantaxislideinquiry
+bip_39_word_no_space_8: cornschemeannouncemantaxislideinquirydinosaur
+bip_39_word_no_space_9: cornschemeannouncemantaxislideinquirydinosaurauthor
 bip_39_word_space_0:
 - corn
 - scheme

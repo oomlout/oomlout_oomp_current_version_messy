@@ -122,6 +122,18 @@ ensure
 club
 brand
 bike |  
+| bip_39_word_no_space_1 | evoke |  
+| bip_39_word_no_space_10 | evokeuntilartefactfemaleglareensureclubbrandbiketrigger |  
+| bip_39_word_no_space_11 | evokeuntilartefactfemaleglareensureclubbrandbiketriggerluxury |  
+| bip_39_word_no_space_12 | evokeuntilartefactfemaleglareensureclubbrandbiketriggerluxuryangry |  
+| bip_39_word_no_space_2 | evokeuntil |  
+| bip_39_word_no_space_3 | evokeuntilartefact |  
+| bip_39_word_no_space_4 | evokeuntilartefactfemale |  
+| bip_39_word_no_space_5 | evokeuntilartefactfemaleglare |  
+| bip_39_word_no_space_6 | evokeuntilartefactfemaleglareensure |  
+| bip_39_word_no_space_7 | evokeuntilartefactfemaleglareensureclub |  
+| bip_39_word_no_space_8 | evokeuntilartefactfemaleglareensureclubbrand |  
+| bip_39_word_no_space_9 | evokeuntilartefactfemaleglareensureclubbrandbike |  
 | bip_39_word_space_0 | ['evoke', 'until', 'artefact', 'female', 'glare', 'ensure', 'club', 'brand', 'bike', 'trigger', 'luxury', 'angry'] |  
 | bip_39_word_space_1 | evoke |  
 | bip_39_word_space_10 | evoke until artefact female glare ensure club brand bike trigger |  

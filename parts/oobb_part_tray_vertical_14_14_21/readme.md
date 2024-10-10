@@ -122,6 +122,18 @@ caught
 choice
 oak
 enforce |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactfoxperfectpoemsoupcaughtchoiceoakenforcesalt |  
+| bip_39_word_no_space_11 | pactfoxperfectpoemsoupcaughtchoiceoakenforcesaltempty |  
+| bip_39_word_no_space_12 | pactfoxperfectpoemsoupcaughtchoiceoakenforcesaltemptyathlete |  
+| bip_39_word_no_space_2 | pactfox |  
+| bip_39_word_no_space_3 | pactfoxperfect |  
+| bip_39_word_no_space_4 | pactfoxperfectpoem |  
+| bip_39_word_no_space_5 | pactfoxperfectpoemsoup |  
+| bip_39_word_no_space_6 | pactfoxperfectpoemsoupcaught |  
+| bip_39_word_no_space_7 | pactfoxperfectpoemsoupcaughtchoice |  
+| bip_39_word_no_space_8 | pactfoxperfectpoemsoupcaughtchoiceoak |  
+| bip_39_word_no_space_9 | pactfoxperfectpoemsoupcaughtchoiceoakenforce |  
 | bip_39_word_space_0 | ['pact', 'fox', 'perfect', 'poem', 'soup', 'caught', 'choice', 'oak', 'enforce', 'salt', 'empty', 'athlete'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact fox perfect poem soup caught choice oak enforce salt |  

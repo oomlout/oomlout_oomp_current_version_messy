@@ -122,6 +122,18 @@ air
 song
 mail
 raise |  
+| bip_39_word_no_space_1 | dynamic |  
+| bip_39_word_no_space_10 | dynamicbreadcavechoosepowerairsongmailraisepolar |  
+| bip_39_word_no_space_11 | dynamicbreadcavechoosepowerairsongmailraisepolarselect |  
+| bip_39_word_no_space_12 | dynamicbreadcavechoosepowerairsongmailraisepolarselectautumn |  
+| bip_39_word_no_space_2 | dynamicbread |  
+| bip_39_word_no_space_3 | dynamicbreadcave |  
+| bip_39_word_no_space_4 | dynamicbreadcavechoose |  
+| bip_39_word_no_space_5 | dynamicbreadcavechoosepower |  
+| bip_39_word_no_space_6 | dynamicbreadcavechoosepowerair |  
+| bip_39_word_no_space_7 | dynamicbreadcavechoosepowerairsong |  
+| bip_39_word_no_space_8 | dynamicbreadcavechoosepowerairsongmail |  
+| bip_39_word_no_space_9 | dynamicbreadcavechoosepowerairsongmailraise |  
 | bip_39_word_space_0 | ['dynamic', 'bread', 'cave', 'choose', 'power', 'air', 'song', 'mail', 'raise', 'polar', 'select', 'autumn'] |  
 | bip_39_word_space_1 | dynamic |  
 | bip_39_word_space_10 | dynamic bread cave choose power air song mail raise polar |  

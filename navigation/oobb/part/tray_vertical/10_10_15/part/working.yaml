@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vote
   wife
 
   since'
+bip_39_word_no_space_1: vote
+bip_39_word_no_space_10: voteearlynicedriveelderhobbyindoorwifesincelock
+bip_39_word_no_space_11: voteearlynicedriveelderhobbyindoorwifesincelockthree
+bip_39_word_no_space_12: voteearlynicedriveelderhobbyindoorwifesincelockthreearmy
+bip_39_word_no_space_2: voteearly
+bip_39_word_no_space_3: voteearlynice
+bip_39_word_no_space_4: voteearlynicedrive
+bip_39_word_no_space_5: voteearlynicedriveelder
+bip_39_word_no_space_6: voteearlynicedriveelderhobby
+bip_39_word_no_space_7: voteearlynicedriveelderhobbyindoor
+bip_39_word_no_space_8: voteearlynicedriveelderhobbyindoorwife
+bip_39_word_no_space_9: voteearlynicedriveelderhobbyindoorwifesince
 bip_39_word_space_0:
 - vote
 - early

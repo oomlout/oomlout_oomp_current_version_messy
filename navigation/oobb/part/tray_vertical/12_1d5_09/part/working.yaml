@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'language
   hat
 
   since'
+bip_39_word_no_space_1: language
+bip_39_word_no_space_10: languageinputtrimangryhoodgreathardhatsincealone
+bip_39_word_no_space_11: languageinputtrimangryhoodgreathardhatsincealoneworld
+bip_39_word_no_space_12: languageinputtrimangryhoodgreathardhatsincealoneworldanalyst
+bip_39_word_no_space_2: languageinput
+bip_39_word_no_space_3: languageinputtrim
+bip_39_word_no_space_4: languageinputtrimangry
+bip_39_word_no_space_5: languageinputtrimangryhood
+bip_39_word_no_space_6: languageinputtrimangryhoodgreat
+bip_39_word_no_space_7: languageinputtrimangryhoodgreathard
+bip_39_word_no_space_8: languageinputtrimangryhoodgreathardhat
+bip_39_word_no_space_9: languageinputtrimangryhoodgreathardhatsince
 bip_39_word_space_0:
 - language
 - input

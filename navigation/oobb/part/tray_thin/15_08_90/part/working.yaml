@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'thought
   try
 
   rule'
+bip_39_word_no_space_1: thought
+bip_39_word_no_space_10: thoughttoeownwealthribbonbroominteresttryrulearea
+bip_39_word_no_space_11: thoughttoeownwealthribbonbroominteresttryruleareacat
+bip_39_word_no_space_12: thoughttoeownwealthribbonbroominteresttryruleareacatarmed
+bip_39_word_no_space_2: thoughttoe
+bip_39_word_no_space_3: thoughttoeown
+bip_39_word_no_space_4: thoughttoeownwealth
+bip_39_word_no_space_5: thoughttoeownwealthribbon
+bip_39_word_no_space_6: thoughttoeownwealthribbonbroom
+bip_39_word_no_space_7: thoughttoeownwealthribbonbroominterest
+bip_39_word_no_space_8: thoughttoeownwealthribbonbroominteresttry
+bip_39_word_no_space_9: thoughttoeownwealthribbonbroominteresttryrule
 bip_39_word_space_0:
 - thought
 - toe

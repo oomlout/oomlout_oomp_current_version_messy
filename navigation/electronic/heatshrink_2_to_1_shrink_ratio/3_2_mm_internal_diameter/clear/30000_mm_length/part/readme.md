@@ -122,6 +122,18 @@ this
 degree
 truly
 head |  
+| bip_39_word_no_space_1 | demand |  
+| bip_39_word_no_space_10 | demandrapidstartchunktransferthisdegreetrulyheadsudden |  
+| bip_39_word_no_space_11 | demandrapidstartchunktransferthisdegreetrulyheadsuddencigar |  
+| bip_39_word_no_space_12 | demandrapidstartchunktransferthisdegreetrulyheadsuddencigaradmit |  
+| bip_39_word_no_space_2 | demandrapid |  
+| bip_39_word_no_space_3 | demandrapidstart |  
+| bip_39_word_no_space_4 | demandrapidstartchunk |  
+| bip_39_word_no_space_5 | demandrapidstartchunktransfer |  
+| bip_39_word_no_space_6 | demandrapidstartchunktransferthis |  
+| bip_39_word_no_space_7 | demandrapidstartchunktransferthisdegree |  
+| bip_39_word_no_space_8 | demandrapidstartchunktransferthisdegreetruly |  
+| bip_39_word_no_space_9 | demandrapidstartchunktransferthisdegreetrulyhead |  
 | bip_39_word_space_0 | ['demand', 'rapid', 'start', 'chunk', 'transfer', 'this', 'degree', 'truly', 'head', 'sudden', 'cigar', 'admit'] |  
 | bip_39_word_space_1 | demand |  
 | bip_39_word_space_10 | demand rapid start chunk transfer this degree truly head sudden |  

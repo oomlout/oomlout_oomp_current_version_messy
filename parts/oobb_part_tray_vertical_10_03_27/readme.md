@@ -122,6 +122,18 @@ age
 memory
 frozen
 dad |  
+| bip_39_word_no_space_1 | glide |  
+| bip_39_word_no_space_10 | glidetrumpetladdergymfeedagememoryfrozendadgeneral |  
+| bip_39_word_no_space_11 | glidetrumpetladdergymfeedagememoryfrozendadgeneralannounce |  
+| bip_39_word_no_space_12 | glidetrumpetladdergymfeedagememoryfrozendadgeneralannounceamateur |  
+| bip_39_word_no_space_2 | glidetrumpet |  
+| bip_39_word_no_space_3 | glidetrumpetladder |  
+| bip_39_word_no_space_4 | glidetrumpetladdergym |  
+| bip_39_word_no_space_5 | glidetrumpetladdergymfeed |  
+| bip_39_word_no_space_6 | glidetrumpetladdergymfeedage |  
+| bip_39_word_no_space_7 | glidetrumpetladdergymfeedagememory |  
+| bip_39_word_no_space_8 | glidetrumpetladdergymfeedagememoryfrozen |  
+| bip_39_word_no_space_9 | glidetrumpetladdergymfeedagememoryfrozendad |  
 | bip_39_word_space_0 | ['glide', 'trumpet', 'ladder', 'gym', 'feed', 'age', 'memory', 'frozen', 'dad', 'general', 'announce', 'amateur'] |  
 | bip_39_word_space_1 | glide |  
 | bip_39_word_space_10 | glide trumpet ladder gym feed age memory frozen dad general |  

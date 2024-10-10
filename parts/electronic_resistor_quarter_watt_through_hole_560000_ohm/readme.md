@@ -122,6 +122,18 @@ observe
 success
 bird
 empower |  
+| bip_39_word_no_space_1 | solve |  
+| bip_39_word_no_space_10 | solveagehusbandhopeblossomobservesuccessbirdempowerstep |  
+| bip_39_word_no_space_11 | solveagehusbandhopeblossomobservesuccessbirdempowerstepfan |  
+| bip_39_word_no_space_12 | solveagehusbandhopeblossomobservesuccessbirdempowerstepfanart |  
+| bip_39_word_no_space_2 | solveage |  
+| bip_39_word_no_space_3 | solveagehusband |  
+| bip_39_word_no_space_4 | solveagehusbandhope |  
+| bip_39_word_no_space_5 | solveagehusbandhopeblossom |  
+| bip_39_word_no_space_6 | solveagehusbandhopeblossomobserve |  
+| bip_39_word_no_space_7 | solveagehusbandhopeblossomobservesuccess |  
+| bip_39_word_no_space_8 | solveagehusbandhopeblossomobservesuccessbird |  
+| bip_39_word_no_space_9 | solveagehusbandhopeblossomobservesuccessbirdempower |  
 | bip_39_word_space_0 | ['solve', 'age', 'husband', 'hope', 'blossom', 'observe', 'success', 'bird', 'empower', 'step', 'fan', 'art'] |  
 | bip_39_word_space_1 | solve |  
 | bip_39_word_space_10 | solve age husband hope blossom observe success bird empower step |  

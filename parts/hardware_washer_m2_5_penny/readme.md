@@ -122,6 +122,18 @@ emerge
 pattern
 rebuild
 moon |  
+| bip_39_word_no_space_1 | ritual |  
+| bip_39_word_no_space_10 | ritualpairphonefloorjazzemergepatternrebuildmoonrice |  
+| bip_39_word_no_space_11 | ritualpairphonefloorjazzemergepatternrebuildmoonricewin |  
+| bip_39_word_no_space_12 | ritualpairphonefloorjazzemergepatternrebuildmoonricewinactor |  
+| bip_39_word_no_space_2 | ritualpair |  
+| bip_39_word_no_space_3 | ritualpairphone |  
+| bip_39_word_no_space_4 | ritualpairphonefloor |  
+| bip_39_word_no_space_5 | ritualpairphonefloorjazz |  
+| bip_39_word_no_space_6 | ritualpairphonefloorjazzemerge |  
+| bip_39_word_no_space_7 | ritualpairphonefloorjazzemergepattern |  
+| bip_39_word_no_space_8 | ritualpairphonefloorjazzemergepatternrebuild |  
+| bip_39_word_no_space_9 | ritualpairphonefloorjazzemergepatternrebuildmoon |  
 | bip_39_word_space_0 | ['ritual', 'pair', 'phone', 'floor', 'jazz', 'emerge', 'pattern', 'rebuild', 'moon', 'rice', 'win', 'actor'] |  
 | bip_39_word_space_1 | ritual |  
 | bip_39_word_space_10 | ritual pair phone floor jazz emerge pattern rebuild moon rice |  

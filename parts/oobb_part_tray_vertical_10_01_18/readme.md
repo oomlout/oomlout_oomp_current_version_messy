@@ -109,6 +109,17 @@ debate
 rebel
 wasp
 never |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wronglanguageprotectapplesuchdebaterebelwaspnevergrief |  
+| bip_39_word_no_space_11 | wronglanguageprotectapplesuchdebaterebelwaspnevergriefpower |  
+| bip_39_word_no_space_2 | wronglanguage |  
+| bip_39_word_no_space_3 | wronglanguageprotect |  
+| bip_39_word_no_space_4 | wronglanguageprotectapple |  
+| bip_39_word_no_space_5 | wronglanguageprotectapplesuch |  
+| bip_39_word_no_space_6 | wronglanguageprotectapplesuchdebate |  
+| bip_39_word_no_space_7 | wronglanguageprotectapplesuchdebaterebel |  
+| bip_39_word_no_space_8 | wronglanguageprotectapplesuchdebaterebelwasp |  
+| bip_39_word_no_space_9 | wronglanguageprotectapplesuchdebaterebelwaspnever |  
 | bip_39_word_space_0 | ['wrong', 'language', 'protect', 'apple', 'such', 'debate', 'rebel', 'wasp', 'never', 'grief', 'power'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong language protect apple such debate rebel wasp never grief |  

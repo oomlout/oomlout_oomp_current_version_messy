@@ -122,6 +122,18 @@ oblige
 whale
 album
 pulse |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | useddevotespellsquareevidenceobligewhalealbumpulseskirt |  
+| bip_39_word_no_space_11 | useddevotespellsquareevidenceobligewhalealbumpulseskirtswap |  
+| bip_39_word_no_space_12 | useddevotespellsquareevidenceobligewhalealbumpulseskirtswapafford |  
+| bip_39_word_no_space_2 | useddevote |  
+| bip_39_word_no_space_3 | useddevotespell |  
+| bip_39_word_no_space_4 | useddevotespellsquare |  
+| bip_39_word_no_space_5 | useddevotespellsquareevidence |  
+| bip_39_word_no_space_6 | useddevotespellsquareevidenceoblige |  
+| bip_39_word_no_space_7 | useddevotespellsquareevidenceobligewhale |  
+| bip_39_word_no_space_8 | useddevotespellsquareevidenceobligewhalealbum |  
+| bip_39_word_no_space_9 | useddevotespellsquareevidenceobligewhalealbumpulse |  
 | bip_39_word_space_0 | ['used', 'devote', 'spell', 'square', 'evidence', 'oblige', 'whale', 'album', 'pulse', 'skirt', 'swap', 'afford'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used devote spell square evidence oblige whale album pulse skirt |  

@@ -122,6 +122,18 @@ luxury
 fee
 civil
 chef |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltfewatomprivateinputluxuryfeecivilcheffee |  
+| bip_39_word_no_space_11 | meltfewatomprivateinputluxuryfeecivilcheffeeshuffle |  
+| bip_39_word_no_space_12 | meltfewatomprivateinputluxuryfeecivilcheffeeshuffleamused |  
+| bip_39_word_no_space_2 | meltfew |  
+| bip_39_word_no_space_3 | meltfewatom |  
+| bip_39_word_no_space_4 | meltfewatomprivate |  
+| bip_39_word_no_space_5 | meltfewatomprivateinput |  
+| bip_39_word_no_space_6 | meltfewatomprivateinputluxury |  
+| bip_39_word_no_space_7 | meltfewatomprivateinputluxuryfee |  
+| bip_39_word_no_space_8 | meltfewatomprivateinputluxuryfeecivil |  
+| bip_39_word_no_space_9 | meltfewatomprivateinputluxuryfeecivilchef |  
 | bip_39_word_space_0 | ['melt', 'few', 'atom', 'private', 'input', 'luxury', 'fee', 'civil', 'chef', 'fee', 'shuffle', 'amused'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt few atom private input luxury fee civil chef fee |  

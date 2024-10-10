@@ -122,6 +122,18 @@ pipe
 photo
 surprise
 wool |  
+| bip_39_word_no_space_1 | shove |  
+| bip_39_word_no_space_10 | shovesheriffearnlockskipipephotosurprisewoolmanage |  
+| bip_39_word_no_space_11 | shovesheriffearnlockskipipephotosurprisewoolmanagefriend |  
+| bip_39_word_no_space_12 | shovesheriffearnlockskipipephotosurprisewoolmanagefriendartist |  
+| bip_39_word_no_space_2 | shovesheriff |  
+| bip_39_word_no_space_3 | shovesheriffearn |  
+| bip_39_word_no_space_4 | shovesheriffearnlock |  
+| bip_39_word_no_space_5 | shovesheriffearnlockski |  
+| bip_39_word_no_space_6 | shovesheriffearnlockskipipe |  
+| bip_39_word_no_space_7 | shovesheriffearnlockskipipephoto |  
+| bip_39_word_no_space_8 | shovesheriffearnlockskipipephotosurprise |  
+| bip_39_word_no_space_9 | shovesheriffearnlockskipipephotosurprisewool |  
 | bip_39_word_space_0 | ['shove', 'sheriff', 'earn', 'lock', 'ski', 'pipe', 'photo', 'surprise', 'wool', 'manage', 'friend', 'artist'] |  
 | bip_39_word_space_1 | shove |  
 | bip_39_word_space_10 | shove sheriff earn lock ski pipe photo surprise wool manage |  

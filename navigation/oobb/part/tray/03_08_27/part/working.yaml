@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'trade
   lizard
 
   jaguar'
+bip_39_word_no_space_1: trade
+bip_39_word_no_space_10: tradeonioncradlecaptainvisasoapevillizardjaguarput
+bip_39_word_no_space_11: tradeonioncradlecaptainvisasoapevillizardjaguarputnoodle
+bip_39_word_no_space_12: tradeonioncradlecaptainvisasoapevillizardjaguarputnoodleadult
+bip_39_word_no_space_2: tradeonion
+bip_39_word_no_space_3: tradeonioncradle
+bip_39_word_no_space_4: tradeonioncradlecaptain
+bip_39_word_no_space_5: tradeonioncradlecaptainvisa
+bip_39_word_no_space_6: tradeonioncradlecaptainvisasoap
+bip_39_word_no_space_7: tradeonioncradlecaptainvisasoapevil
+bip_39_word_no_space_8: tradeonioncradlecaptainvisasoapevillizard
+bip_39_word_no_space_9: tradeonioncradlecaptainvisasoapevillizardjaguar
 bip_39_word_space_0:
 - trade
 - onion

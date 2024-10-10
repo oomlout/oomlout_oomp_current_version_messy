@@ -122,6 +122,18 @@ cliff
 gospel
 sign
 manage |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousangryspoonproudhorncliffgospelsignmanagepatient |  
+| bip_39_word_no_space_11 | viciousangryspoonproudhorncliffgospelsignmanagepatientname |  
+| bip_39_word_no_space_12 | viciousangryspoonproudhorncliffgospelsignmanagepatientnamealpha |  
+| bip_39_word_no_space_2 | viciousangry |  
+| bip_39_word_no_space_3 | viciousangryspoon |  
+| bip_39_word_no_space_4 | viciousangryspoonproud |  
+| bip_39_word_no_space_5 | viciousangryspoonproudhorn |  
+| bip_39_word_no_space_6 | viciousangryspoonproudhorncliff |  
+| bip_39_word_no_space_7 | viciousangryspoonproudhorncliffgospel |  
+| bip_39_word_no_space_8 | viciousangryspoonproudhorncliffgospelsign |  
+| bip_39_word_no_space_9 | viciousangryspoonproudhorncliffgospelsignmanage |  
 | bip_39_word_space_0 | ['vicious', 'angry', 'spoon', 'proud', 'horn', 'cliff', 'gospel', 'sign', 'manage', 'patient', 'name', 'alpha'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious angry spoon proud horn cliff gospel sign manage patient |  

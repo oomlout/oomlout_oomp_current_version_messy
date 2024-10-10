@@ -122,6 +122,18 @@ sell
 dream
 garlic
 milk |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagebraincheckswiftairselldreamgarlicmilkbulb |  
+| bip_39_word_no_space_11 | vintagebraincheckswiftairselldreamgarlicmilkbulbmountain |  
+| bip_39_word_no_space_12 | vintagebraincheckswiftairselldreamgarlicmilkbulbmountainaerobic |  
+| bip_39_word_no_space_2 | vintagebrain |  
+| bip_39_word_no_space_3 | vintagebraincheck |  
+| bip_39_word_no_space_4 | vintagebraincheckswift |  
+| bip_39_word_no_space_5 | vintagebraincheckswiftair |  
+| bip_39_word_no_space_6 | vintagebraincheckswiftairsell |  
+| bip_39_word_no_space_7 | vintagebraincheckswiftairselldream |  
+| bip_39_word_no_space_8 | vintagebraincheckswiftairselldreamgarlic |  
+| bip_39_word_no_space_9 | vintagebraincheckswiftairselldreamgarlicmilk |  
 | bip_39_word_space_0 | ['vintage', 'brain', 'check', 'swift', 'air', 'sell', 'dream', 'garlic', 'milk', 'bulb', 'mountain', 'aerobic'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage brain check swift air sell dream garlic milk bulb |  

@@ -122,6 +122,18 @@ good
 grow
 virtual
 leisure |  
+| bip_39_word_no_space_1 | mango |  
+| bip_39_word_no_space_10 | mangohubrivalthreeshoegoodgrowvirtualleisureocean |  
+| bip_39_word_no_space_11 | mangohubrivalthreeshoegoodgrowvirtualleisureoceanfork |  
+| bip_39_word_no_space_12 | mangohubrivalthreeshoegoodgrowvirtualleisureoceanforkangle |  
+| bip_39_word_no_space_2 | mangohub |  
+| bip_39_word_no_space_3 | mangohubrival |  
+| bip_39_word_no_space_4 | mangohubrivalthree |  
+| bip_39_word_no_space_5 | mangohubrivalthreeshoe |  
+| bip_39_word_no_space_6 | mangohubrivalthreeshoegood |  
+| bip_39_word_no_space_7 | mangohubrivalthreeshoegoodgrow |  
+| bip_39_word_no_space_8 | mangohubrivalthreeshoegoodgrowvirtual |  
+| bip_39_word_no_space_9 | mangohubrivalthreeshoegoodgrowvirtualleisure |  
 | bip_39_word_space_0 | ['mango', 'hub', 'rival', 'three', 'shoe', 'good', 'grow', 'virtual', 'leisure', 'ocean', 'fork', 'angle'] |  
 | bip_39_word_space_1 | mango |  
 | bip_39_word_space_10 | mango hub rival three shoe good grow virtual leisure ocean |  

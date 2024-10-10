@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blind
   skin
 
   juice'
+bip_39_word_no_space_1: blind
+bip_39_word_no_space_10: blindgracedirtdutybulletribumbrellaskinjuiceraven
+bip_39_word_no_space_11: blindgracedirtdutybulletribumbrellaskinjuiceravenimitate
+bip_39_word_no_space_12: blindgracedirtdutybulletribumbrellaskinjuiceravenimitateaccuse
+bip_39_word_no_space_2: blindgrace
+bip_39_word_no_space_3: blindgracedirt
+bip_39_word_no_space_4: blindgracedirtduty
+bip_39_word_no_space_5: blindgracedirtdutybullet
+bip_39_word_no_space_6: blindgracedirtdutybulletrib
+bip_39_word_no_space_7: blindgracedirtdutybulletribumbrella
+bip_39_word_no_space_8: blindgracedirtdutybulletribumbrellaskin
+bip_39_word_no_space_9: blindgracedirtdutybulletribumbrellaskinjuice
 bip_39_word_space_0:
 - blind
 - grace

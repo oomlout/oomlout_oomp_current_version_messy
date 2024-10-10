@@ -122,6 +122,18 @@ win
 spring
 miracle
 drill |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddyvisakitepopulargoddesswinspringmiracledrillapple |  
+| bip_39_word_no_space_11 | buddyvisakitepopulargoddesswinspringmiracledrillapplesilk |  
+| bip_39_word_no_space_12 | buddyvisakitepopulargoddesswinspringmiracledrillapplesilkaudit |  
+| bip_39_word_no_space_2 | buddyvisa |  
+| bip_39_word_no_space_3 | buddyvisakite |  
+| bip_39_word_no_space_4 | buddyvisakitepopular |  
+| bip_39_word_no_space_5 | buddyvisakitepopulargoddess |  
+| bip_39_word_no_space_6 | buddyvisakitepopulargoddesswin |  
+| bip_39_word_no_space_7 | buddyvisakitepopulargoddesswinspring |  
+| bip_39_word_no_space_8 | buddyvisakitepopulargoddesswinspringmiracle |  
+| bip_39_word_no_space_9 | buddyvisakitepopulargoddesswinspringmiracledrill |  
 | bip_39_word_space_0 | ['buddy', 'visa', 'kite', 'popular', 'goddess', 'win', 'spring', 'miracle', 'drill', 'apple', 'silk', 'audit'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy visa kite popular goddess win spring miracle drill apple |  

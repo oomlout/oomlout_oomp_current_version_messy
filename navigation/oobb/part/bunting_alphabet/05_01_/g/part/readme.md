@@ -122,6 +122,18 @@ cool
 spy
 wink
 match |  
+| bip_39_word_no_space_1 | tuna |  
+| bip_39_word_no_space_10 | tunamedalchucklecottonsatoshicoolspywinkmatchwin |  
+| bip_39_word_no_space_11 | tunamedalchucklecottonsatoshicoolspywinkmatchwinpony |  
+| bip_39_word_no_space_12 | tunamedalchucklecottonsatoshicoolspywinkmatchwinponyadapt |  
+| bip_39_word_no_space_2 | tunamedal |  
+| bip_39_word_no_space_3 | tunamedalchuckle |  
+| bip_39_word_no_space_4 | tunamedalchucklecotton |  
+| bip_39_word_no_space_5 | tunamedalchucklecottonsatoshi |  
+| bip_39_word_no_space_6 | tunamedalchucklecottonsatoshicool |  
+| bip_39_word_no_space_7 | tunamedalchucklecottonsatoshicoolspy |  
+| bip_39_word_no_space_8 | tunamedalchucklecottonsatoshicoolspywink |  
+| bip_39_word_no_space_9 | tunamedalchucklecottonsatoshicoolspywinkmatch |  
 | bip_39_word_space_0 | ['tuna', 'medal', 'chuckle', 'cotton', 'satoshi', 'cool', 'spy', 'wink', 'match', 'win', 'pony', 'adapt'] |  
 | bip_39_word_space_1 | tuna |  
 | bip_39_word_space_10 | tuna medal chuckle cotton satoshi cool spy wink match win |  

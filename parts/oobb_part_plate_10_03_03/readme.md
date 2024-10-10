@@ -122,6 +122,18 @@ palace
 thunder
 intact
 remain |  
+| bip_39_word_no_space_1 | birth |  
+| bip_39_word_no_space_10 | birthelementaheadlaptopmodifypalacethunderintactremainnerve |  
+| bip_39_word_no_space_11 | birthelementaheadlaptopmodifypalacethunderintactremainnervelunch |  
+| bip_39_word_no_space_12 | birthelementaheadlaptopmodifypalacethunderintactremainnervelunchability |  
+| bip_39_word_no_space_2 | birthelement |  
+| bip_39_word_no_space_3 | birthelementahead |  
+| bip_39_word_no_space_4 | birthelementaheadlaptop |  
+| bip_39_word_no_space_5 | birthelementaheadlaptopmodify |  
+| bip_39_word_no_space_6 | birthelementaheadlaptopmodifypalace |  
+| bip_39_word_no_space_7 | birthelementaheadlaptopmodifypalacethunder |  
+| bip_39_word_no_space_8 | birthelementaheadlaptopmodifypalacethunderintact |  
+| bip_39_word_no_space_9 | birthelementaheadlaptopmodifypalacethunderintactremain |  
 | bip_39_word_space_0 | ['birth', 'element', 'ahead', 'laptop', 'modify', 'palace', 'thunder', 'intact', 'remain', 'nerve', 'lunch', 'ability'] |  
 | bip_39_word_space_1 | birth |  
 | bip_39_word_space_10 | birth element ahead laptop modify palace thunder intact remain nerve |  

@@ -122,6 +122,18 @@ brisk
 demise
 wine
 diesel |  
+| bip_39_word_no_space_1 | ticket |  
+| bip_39_word_no_space_10 | ticketnothingstingobligeeternalbriskdemisewinedieselvan |  
+| bip_39_word_no_space_11 | ticketnothingstingobligeeternalbriskdemisewinedieselvanorange |  
+| bip_39_word_no_space_12 | ticketnothingstingobligeeternalbriskdemisewinedieselvanorangeabsurd |  
+| bip_39_word_no_space_2 | ticketnothing |  
+| bip_39_word_no_space_3 | ticketnothingsting |  
+| bip_39_word_no_space_4 | ticketnothingstingoblige |  
+| bip_39_word_no_space_5 | ticketnothingstingobligeeternal |  
+| bip_39_word_no_space_6 | ticketnothingstingobligeeternalbrisk |  
+| bip_39_word_no_space_7 | ticketnothingstingobligeeternalbriskdemise |  
+| bip_39_word_no_space_8 | ticketnothingstingobligeeternalbriskdemisewine |  
+| bip_39_word_no_space_9 | ticketnothingstingobligeeternalbriskdemisewinediesel |  
 | bip_39_word_space_0 | ['ticket', 'nothing', 'sting', 'oblige', 'eternal', 'brisk', 'demise', 'wine', 'diesel', 'van', 'orange', 'absurd'] |  
 | bip_39_word_space_1 | ticket |  
 | bip_39_word_space_10 | ticket nothing sting oblige eternal brisk demise wine diesel van |  

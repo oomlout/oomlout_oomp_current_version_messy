@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stamp
   grab
 
   mutual'
+bip_39_word_no_space_1: stamp
+bip_39_word_no_space_10: stampmarbleenergyvillageagenttiltsamegrabmutualtag
+bip_39_word_no_space_11: stampmarbleenergyvillageagenttiltsamegrabmutualtagdaughter
+bip_39_word_no_space_12: stampmarbleenergyvillageagenttiltsamegrabmutualtagdaughterarmed
+bip_39_word_no_space_2: stampmarble
+bip_39_word_no_space_3: stampmarbleenergy
+bip_39_word_no_space_4: stampmarbleenergyvillage
+bip_39_word_no_space_5: stampmarbleenergyvillageagent
+bip_39_word_no_space_6: stampmarbleenergyvillageagenttilt
+bip_39_word_no_space_7: stampmarbleenergyvillageagenttiltsame
+bip_39_word_no_space_8: stampmarbleenergyvillageagenttiltsamegrab
+bip_39_word_no_space_9: stampmarbleenergyvillageagenttiltsamegrabmutual
 bip_39_word_space_0:
 - stamp
 - marble

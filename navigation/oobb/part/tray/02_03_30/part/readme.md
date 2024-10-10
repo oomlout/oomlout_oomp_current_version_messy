@@ -122,6 +122,18 @@ fashion
 weekend
 train
 can |  
+| bip_39_word_no_space_1 | bamboo |  
+| bip_39_word_no_space_10 | bamboocoachupsetteampriorityfashionweekendtraincansnack |  
+| bip_39_word_no_space_11 | bamboocoachupsetteampriorityfashionweekendtraincansnackunfold |  
+| bip_39_word_no_space_12 | bamboocoachupsetteampriorityfashionweekendtraincansnackunfoldalley |  
+| bip_39_word_no_space_2 | bamboocoach |  
+| bip_39_word_no_space_3 | bamboocoachupset |  
+| bip_39_word_no_space_4 | bamboocoachupsetteam |  
+| bip_39_word_no_space_5 | bamboocoachupsetteampriority |  
+| bip_39_word_no_space_6 | bamboocoachupsetteampriorityfashion |  
+| bip_39_word_no_space_7 | bamboocoachupsetteampriorityfashionweekend |  
+| bip_39_word_no_space_8 | bamboocoachupsetteampriorityfashionweekendtrain |  
+| bip_39_word_no_space_9 | bamboocoachupsetteampriorityfashionweekendtraincan |  
 | bip_39_word_space_0 | ['bamboo', 'coach', 'upset', 'team', 'priority', 'fashion', 'weekend', 'train', 'can', 'snack', 'unfold', 'alley'] |  
 | bip_39_word_space_1 | bamboo |  
 | bip_39_word_space_10 | bamboo coach upset team priority fashion weekend train can snack |  

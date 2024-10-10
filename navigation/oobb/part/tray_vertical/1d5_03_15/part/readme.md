@@ -122,6 +122,18 @@ lumber
 silver
 artist
 truly |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | wayfluidhurtamountfestivallumbersilverartisttrulyitem |  
+| bip_39_word_no_space_11 | wayfluidhurtamountfestivallumbersilverartisttrulyitemforward |  
+| bip_39_word_no_space_12 | wayfluidhurtamountfestivallumbersilverartisttrulyitemforwardalien |  
+| bip_39_word_no_space_2 | wayfluid |  
+| bip_39_word_no_space_3 | wayfluidhurt |  
+| bip_39_word_no_space_4 | wayfluidhurtamount |  
+| bip_39_word_no_space_5 | wayfluidhurtamountfestival |  
+| bip_39_word_no_space_6 | wayfluidhurtamountfestivallumber |  
+| bip_39_word_no_space_7 | wayfluidhurtamountfestivallumbersilver |  
+| bip_39_word_no_space_8 | wayfluidhurtamountfestivallumbersilverartist |  
+| bip_39_word_no_space_9 | wayfluidhurtamountfestivallumbersilverartisttruly |  
 | bip_39_word_space_0 | ['way', 'fluid', 'hurt', 'amount', 'festival', 'lumber', 'silver', 'artist', 'truly', 'item', 'forward', 'alien'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way fluid hurt amount festival lumber silver artist truly item |  

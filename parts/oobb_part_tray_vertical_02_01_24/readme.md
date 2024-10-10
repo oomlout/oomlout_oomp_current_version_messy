@@ -122,6 +122,18 @@ elevator
 ketchup
 calm
 marine |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblesixtruckhoneyworldelevatorketchupcalmmarinekingdom |  
+| bip_39_word_no_space_11 | resemblesixtruckhoneyworldelevatorketchupcalmmarinekingdomomit |  
+| bip_39_word_no_space_12 | resemblesixtruckhoneyworldelevatorketchupcalmmarinekingdomomitalarm |  
+| bip_39_word_no_space_2 | resemblesix |  
+| bip_39_word_no_space_3 | resemblesixtruck |  
+| bip_39_word_no_space_4 | resemblesixtruckhoney |  
+| bip_39_word_no_space_5 | resemblesixtruckhoneyworld |  
+| bip_39_word_no_space_6 | resemblesixtruckhoneyworldelevator |  
+| bip_39_word_no_space_7 | resemblesixtruckhoneyworldelevatorketchup |  
+| bip_39_word_no_space_8 | resemblesixtruckhoneyworldelevatorketchupcalm |  
+| bip_39_word_no_space_9 | resemblesixtruckhoneyworldelevatorketchupcalmmarine |  
 | bip_39_word_space_0 | ['resemble', 'six', 'truck', 'honey', 'world', 'elevator', 'ketchup', 'calm', 'marine', 'kingdom', 'omit', 'alarm'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble six truck honey world elevator ketchup calm marine kingdom |  

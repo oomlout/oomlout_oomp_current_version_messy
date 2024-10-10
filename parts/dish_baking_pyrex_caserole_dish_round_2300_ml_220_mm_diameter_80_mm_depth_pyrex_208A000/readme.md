@@ -122,6 +122,18 @@ exit
 debate
 water
 crystal |  
+| bip_39_word_no_space_1 | upon |  
+| bip_39_word_no_space_10 | uponmarriageexplainsettleexerciseexitdebatewatercrystalgreat |  
+| bip_39_word_no_space_11 | uponmarriageexplainsettleexerciseexitdebatewatercrystalgreatobey |  
+| bip_39_word_no_space_12 | uponmarriageexplainsettleexerciseexitdebatewatercrystalgreatobeyarrive |  
+| bip_39_word_no_space_2 | uponmarriage |  
+| bip_39_word_no_space_3 | uponmarriageexplain |  
+| bip_39_word_no_space_4 | uponmarriageexplainsettle |  
+| bip_39_word_no_space_5 | uponmarriageexplainsettleexercise |  
+| bip_39_word_no_space_6 | uponmarriageexplainsettleexerciseexit |  
+| bip_39_word_no_space_7 | uponmarriageexplainsettleexerciseexitdebate |  
+| bip_39_word_no_space_8 | uponmarriageexplainsettleexerciseexitdebatewater |  
+| bip_39_word_no_space_9 | uponmarriageexplainsettleexerciseexitdebatewatercrystal |  
 | bip_39_word_space_0 | ['upon', 'marriage', 'explain', 'settle', 'exercise', 'exit', 'debate', 'water', 'crystal', 'great', 'obey', 'arrive'] |  
 | bip_39_word_space_1 | upon |  
 | bip_39_word_space_10 | upon marriage explain settle exercise exit debate water crystal great |  

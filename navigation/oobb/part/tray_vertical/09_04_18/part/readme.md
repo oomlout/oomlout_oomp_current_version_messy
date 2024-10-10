@@ -122,6 +122,18 @@ nephew
 field
 crazy
 tell |  
+| bip_39_word_no_space_1 | spatial |  
+| bip_39_word_no_space_10 | spatialadaptundolimitmobilenephewfieldcrazytellvital |  
+| bip_39_word_no_space_11 | spatialadaptundolimitmobilenephewfieldcrazytellvitalhorror |  
+| bip_39_word_no_space_12 | spatialadaptundolimitmobilenephewfieldcrazytellvitalhorroranchor |  
+| bip_39_word_no_space_2 | spatialadapt |  
+| bip_39_word_no_space_3 | spatialadaptundo |  
+| bip_39_word_no_space_4 | spatialadaptundolimit |  
+| bip_39_word_no_space_5 | spatialadaptundolimitmobile |  
+| bip_39_word_no_space_6 | spatialadaptundolimitmobilenephew |  
+| bip_39_word_no_space_7 | spatialadaptundolimitmobilenephewfield |  
+| bip_39_word_no_space_8 | spatialadaptundolimitmobilenephewfieldcrazy |  
+| bip_39_word_no_space_9 | spatialadaptundolimitmobilenephewfieldcrazytell |  
 | bip_39_word_space_0 | ['spatial', 'adapt', 'undo', 'limit', 'mobile', 'nephew', 'field', 'crazy', 'tell', 'vital', 'horror', 'anchor'] |  
 | bip_39_word_space_1 | spatial |  
 | bip_39_word_space_10 | spatial adapt undo limit mobile nephew field crazy tell vital |  

@@ -122,6 +122,18 @@ fat
 normal
 between
 myself |  
+| bip_39_word_no_space_1 | human |  
+| bip_39_word_no_space_10 | humanavoidgenuinecultureorientfatnormalbetweenmyselfpen |  
+| bip_39_word_no_space_11 | humanavoidgenuinecultureorientfatnormalbetweenmyselfpentiger |  
+| bip_39_word_no_space_12 | humanavoidgenuinecultureorientfatnormalbetweenmyselfpentigeralter |  
+| bip_39_word_no_space_2 | humanavoid |  
+| bip_39_word_no_space_3 | humanavoidgenuine |  
+| bip_39_word_no_space_4 | humanavoidgenuineculture |  
+| bip_39_word_no_space_5 | humanavoidgenuinecultureorient |  
+| bip_39_word_no_space_6 | humanavoidgenuinecultureorientfat |  
+| bip_39_word_no_space_7 | humanavoidgenuinecultureorientfatnormal |  
+| bip_39_word_no_space_8 | humanavoidgenuinecultureorientfatnormalbetween |  
+| bip_39_word_no_space_9 | humanavoidgenuinecultureorientfatnormalbetweenmyself |  
 | bip_39_word_space_0 | ['human', 'avoid', 'genuine', 'culture', 'orient', 'fat', 'normal', 'between', 'myself', 'pen', 'tiger', 'alter'] |  
 | bip_39_word_space_1 | human |  
 | bip_39_word_space_10 | human avoid genuine culture orient fat normal between myself pen |  

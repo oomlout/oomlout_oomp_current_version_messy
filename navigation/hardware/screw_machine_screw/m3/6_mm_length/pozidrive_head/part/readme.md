@@ -122,6 +122,18 @@ leader
 upgrade
 split
 success |  
+| bip_39_word_no_space_1 | novel |  
+| bip_39_word_no_space_10 | novelvoidupperattractvocalleaderupgradesplitsuccessspread |  
+| bip_39_word_no_space_11 | novelvoidupperattractvocalleaderupgradesplitsuccessspreadgrief |  
+| bip_39_word_no_space_12 | novelvoidupperattractvocalleaderupgradesplitsuccessspreadgriefauthor |  
+| bip_39_word_no_space_2 | novelvoid |  
+| bip_39_word_no_space_3 | novelvoidupper |  
+| bip_39_word_no_space_4 | novelvoidupperattract |  
+| bip_39_word_no_space_5 | novelvoidupperattractvocal |  
+| bip_39_word_no_space_6 | novelvoidupperattractvocalleader |  
+| bip_39_word_no_space_7 | novelvoidupperattractvocalleaderupgrade |  
+| bip_39_word_no_space_8 | novelvoidupperattractvocalleaderupgradesplit |  
+| bip_39_word_no_space_9 | novelvoidupperattractvocalleaderupgradesplitsuccess |  
 | bip_39_word_space_0 | ['novel', 'void', 'upper', 'attract', 'vocal', 'leader', 'upgrade', 'split', 'success', 'spread', 'grief', 'author'] |  
 | bip_39_word_space_1 | novel |  
 | bip_39_word_space_10 | novel void upper attract vocal leader upgrade split success spread |  

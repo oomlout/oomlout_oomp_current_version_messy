@@ -122,6 +122,18 @@ switch
 joke
 gadget
 iron |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbageworddemiseattackoctoberswitchjokegadgetironexhibit |  
+| bip_39_word_no_space_11 | cabbageworddemiseattackoctoberswitchjokegadgetironexhibitcome |  
+| bip_39_word_no_space_12 | cabbageworddemiseattackoctoberswitchjokegadgetironexhibitcomeangle |  
+| bip_39_word_no_space_2 | cabbageword |  
+| bip_39_word_no_space_3 | cabbageworddemise |  
+| bip_39_word_no_space_4 | cabbageworddemiseattack |  
+| bip_39_word_no_space_5 | cabbageworddemiseattackoctober |  
+| bip_39_word_no_space_6 | cabbageworddemiseattackoctoberswitch |  
+| bip_39_word_no_space_7 | cabbageworddemiseattackoctoberswitchjoke |  
+| bip_39_word_no_space_8 | cabbageworddemiseattackoctoberswitchjokegadget |  
+| bip_39_word_no_space_9 | cabbageworddemiseattackoctoberswitchjokegadgetiron |  
 | bip_39_word_space_0 | ['cabbage', 'word', 'demise', 'attack', 'october', 'switch', 'joke', 'gadget', 'iron', 'exhibit', 'come', 'angle'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage word demise attack october switch joke gadget iron exhibit |  

@@ -122,6 +122,18 @@ inmate
 member
 obscure
 dawn |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungedefinesecondarrowpeninmatememberobscuredawnunit |  
+| bip_39_word_no_space_11 | plungedefinesecondarrowpeninmatememberobscuredawnunitmusic |  
+| bip_39_word_no_space_12 | plungedefinesecondarrowpeninmatememberobscuredawnunitmusicalley |  
+| bip_39_word_no_space_2 | plungedefine |  
+| bip_39_word_no_space_3 | plungedefinesecond |  
+| bip_39_word_no_space_4 | plungedefinesecondarrow |  
+| bip_39_word_no_space_5 | plungedefinesecondarrowpen |  
+| bip_39_word_no_space_6 | plungedefinesecondarrowpeninmate |  
+| bip_39_word_no_space_7 | plungedefinesecondarrowpeninmatemember |  
+| bip_39_word_no_space_8 | plungedefinesecondarrowpeninmatememberobscure |  
+| bip_39_word_no_space_9 | plungedefinesecondarrowpeninmatememberobscuredawn |  
 | bip_39_word_space_0 | ['plunge', 'define', 'second', 'arrow', 'pen', 'inmate', 'member', 'obscure', 'dawn', 'unit', 'music', 'alley'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge define second arrow pen inmate member obscure dawn unit |  

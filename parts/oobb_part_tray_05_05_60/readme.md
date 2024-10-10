@@ -122,6 +122,18 @@ umbrella
 cruel
 drop
 bread |  
+| bip_39_word_no_space_1 | twin |  
+| bip_39_word_no_space_10 | twinbudgetcleverinsidegladumbrellacrueldropbreadtag |  
+| bip_39_word_no_space_11 | twinbudgetcleverinsidegladumbrellacrueldropbreadtagdrip |  
+| bip_39_word_no_space_12 | twinbudgetcleverinsidegladumbrellacrueldropbreadtagdriparrow |  
+| bip_39_word_no_space_2 | twinbudget |  
+| bip_39_word_no_space_3 | twinbudgetclever |  
+| bip_39_word_no_space_4 | twinbudgetcleverinside |  
+| bip_39_word_no_space_5 | twinbudgetcleverinsideglad |  
+| bip_39_word_no_space_6 | twinbudgetcleverinsidegladumbrella |  
+| bip_39_word_no_space_7 | twinbudgetcleverinsidegladumbrellacruel |  
+| bip_39_word_no_space_8 | twinbudgetcleverinsidegladumbrellacrueldrop |  
+| bip_39_word_no_space_9 | twinbudgetcleverinsidegladumbrellacrueldropbread |  
 | bip_39_word_space_0 | ['twin', 'budget', 'clever', 'inside', 'glad', 'umbrella', 'cruel', 'drop', 'bread', 'tag', 'drip', 'arrow'] |  
 | bip_39_word_space_1 | twin |  
 | bip_39_word_space_10 | twin budget clever inside glad umbrella cruel drop bread tag |  

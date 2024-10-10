@@ -122,6 +122,18 @@ robot
 indoor
 oppose
 siren |  
+| bip_39_word_no_space_1 | method |  
+| bip_39_word_no_space_10 | methodentirerequireteamhiprobotindooropposesirenkidney |  
+| bip_39_word_no_space_11 | methodentirerequireteamhiprobotindooropposesirenkidneyivory |  
+| bip_39_word_no_space_12 | methodentirerequireteamhiprobotindooropposesirenkidneyivoryall |  
+| bip_39_word_no_space_2 | methodentire |  
+| bip_39_word_no_space_3 | methodentirerequire |  
+| bip_39_word_no_space_4 | methodentirerequireteam |  
+| bip_39_word_no_space_5 | methodentirerequireteamhip |  
+| bip_39_word_no_space_6 | methodentirerequireteamhiprobot |  
+| bip_39_word_no_space_7 | methodentirerequireteamhiprobotindoor |  
+| bip_39_word_no_space_8 | methodentirerequireteamhiprobotindooroppose |  
+| bip_39_word_no_space_9 | methodentirerequireteamhiprobotindooropposesiren |  
 | bip_39_word_space_0 | ['method', 'entire', 'require', 'team', 'hip', 'robot', 'indoor', 'oppose', 'siren', 'kidney', 'ivory', 'all'] |  
 | bip_39_word_space_1 | method |  
 | bip_39_word_space_10 | method entire require team hip robot indoor oppose siren kidney |  

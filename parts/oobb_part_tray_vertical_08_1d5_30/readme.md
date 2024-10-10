@@ -122,6 +122,18 @@ acoustic
 correct
 second
 option |  
+| bip_39_word_no_space_1 | obtain |  
+| bip_39_word_no_space_10 | obtaindonortruckchangechoiceacousticcorrectsecondoptioncanyon |  
+| bip_39_word_no_space_11 | obtaindonortruckchangechoiceacousticcorrectsecondoptioncanyonasthma |  
+| bip_39_word_no_space_12 | obtaindonortruckchangechoiceacousticcorrectsecondoptioncanyonasthmaage |  
+| bip_39_word_no_space_2 | obtaindonor |  
+| bip_39_word_no_space_3 | obtaindonortruck |  
+| bip_39_word_no_space_4 | obtaindonortruckchange |  
+| bip_39_word_no_space_5 | obtaindonortruckchangechoice |  
+| bip_39_word_no_space_6 | obtaindonortruckchangechoiceacoustic |  
+| bip_39_word_no_space_7 | obtaindonortruckchangechoiceacousticcorrect |  
+| bip_39_word_no_space_8 | obtaindonortruckchangechoiceacousticcorrectsecond |  
+| bip_39_word_no_space_9 | obtaindonortruckchangechoiceacousticcorrectsecondoption |  
 | bip_39_word_space_0 | ['obtain', 'donor', 'truck', 'change', 'choice', 'acoustic', 'correct', 'second', 'option', 'canyon', 'asthma', 'age'] |  
 | bip_39_word_space_1 | obtain |  
 | bip_39_word_space_10 | obtain donor truck change choice acoustic correct second option canyon |  

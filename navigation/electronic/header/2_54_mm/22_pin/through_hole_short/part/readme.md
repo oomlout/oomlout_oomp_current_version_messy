@@ -122,6 +122,18 @@ obvious
 erode
 match
 reject |  
+| bip_39_word_no_space_1 | cliff |  
+| bip_39_word_no_space_10 | cliffsupremerelaxbeforeoutdoorobviouserodematchrejectcreek |  
+| bip_39_word_no_space_11 | cliffsupremerelaxbeforeoutdoorobviouserodematchrejectcreektrash |  
+| bip_39_word_no_space_12 | cliffsupremerelaxbeforeoutdoorobviouserodematchrejectcreektrashartwork |  
+| bip_39_word_no_space_2 | cliffsupreme |  
+| bip_39_word_no_space_3 | cliffsupremerelax |  
+| bip_39_word_no_space_4 | cliffsupremerelaxbefore |  
+| bip_39_word_no_space_5 | cliffsupremerelaxbeforeoutdoor |  
+| bip_39_word_no_space_6 | cliffsupremerelaxbeforeoutdoorobvious |  
+| bip_39_word_no_space_7 | cliffsupremerelaxbeforeoutdoorobviouserode |  
+| bip_39_word_no_space_8 | cliffsupremerelaxbeforeoutdoorobviouserodematch |  
+| bip_39_word_no_space_9 | cliffsupremerelaxbeforeoutdoorobviouserodematchreject |  
 | bip_39_word_space_0 | ['cliff', 'supreme', 'relax', 'before', 'outdoor', 'obvious', 'erode', 'match', 'reject', 'creek', 'trash', 'artwork'] |  
 | bip_39_word_space_1 | cliff |  
 | bip_39_word_space_10 | cliff supreme relax before outdoor obvious erode match reject creek |  

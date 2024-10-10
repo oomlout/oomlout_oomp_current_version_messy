@@ -122,6 +122,18 @@ uniform
 tip
 inflict
 february |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powdermutualspyextenddespairuniformtipinflictfebruarywide |  
+| bip_39_word_no_space_11 | powdermutualspyextenddespairuniformtipinflictfebruarywideunlock |  
+| bip_39_word_no_space_12 | powdermutualspyextenddespairuniformtipinflictfebruarywideunlockattack |  
+| bip_39_word_no_space_2 | powdermutual |  
+| bip_39_word_no_space_3 | powdermutualspy |  
+| bip_39_word_no_space_4 | powdermutualspyextend |  
+| bip_39_word_no_space_5 | powdermutualspyextenddespair |  
+| bip_39_word_no_space_6 | powdermutualspyextenddespairuniform |  
+| bip_39_word_no_space_7 | powdermutualspyextenddespairuniformtip |  
+| bip_39_word_no_space_8 | powdermutualspyextenddespairuniformtipinflict |  
+| bip_39_word_no_space_9 | powdermutualspyextenddespairuniformtipinflictfebruary |  
 | bip_39_word_space_0 | ['powder', 'mutual', 'spy', 'extend', 'despair', 'uniform', 'tip', 'inflict', 'february', 'wide', 'unlock', 'attack'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder mutual spy extend despair uniform tip inflict february wide |  

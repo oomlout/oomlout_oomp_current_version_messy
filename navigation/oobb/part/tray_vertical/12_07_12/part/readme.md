@@ -122,6 +122,18 @@ rain
 basket
 carpet
 use |  
+| bip_39_word_no_space_1 | process |  
+| bip_39_word_no_space_10 | processcavedutydonorhospitalrainbasketcarpetuseforce |  
+| bip_39_word_no_space_11 | processcavedutydonorhospitalrainbasketcarpetuseforceshove |  
+| bip_39_word_no_space_12 | processcavedutydonorhospitalrainbasketcarpetuseforceshoveadapt |  
+| bip_39_word_no_space_2 | processcave |  
+| bip_39_word_no_space_3 | processcaveduty |  
+| bip_39_word_no_space_4 | processcavedutydonor |  
+| bip_39_word_no_space_5 | processcavedutydonorhospital |  
+| bip_39_word_no_space_6 | processcavedutydonorhospitalrain |  
+| bip_39_word_no_space_7 | processcavedutydonorhospitalrainbasket |  
+| bip_39_word_no_space_8 | processcavedutydonorhospitalrainbasketcarpet |  
+| bip_39_word_no_space_9 | processcavedutydonorhospitalrainbasketcarpetuse |  
 | bip_39_word_space_0 | ['process', 'cave', 'duty', 'donor', 'hospital', 'rain', 'basket', 'carpet', 'use', 'force', 'shove', 'adapt'] |  
 | bip_39_word_space_1 | process |  
 | bip_39_word_space_10 | process cave duty donor hospital rain basket carpet use force |  

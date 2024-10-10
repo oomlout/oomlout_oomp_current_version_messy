@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'congress
   maid
 
   process'
+bip_39_word_no_space_1: congress
+bip_39_word_no_space_10: congressjustsuperpoolcodefevertheremaidprocessentire
+bip_39_word_no_space_11: congressjustsuperpoolcodefevertheremaidprocessentirefetch
+bip_39_word_no_space_12: congressjustsuperpoolcodefevertheremaidprocessentirefetchafraid
+bip_39_word_no_space_2: congressjust
+bip_39_word_no_space_3: congressjustsuper
+bip_39_word_no_space_4: congressjustsuperpool
+bip_39_word_no_space_5: congressjustsuperpoolcode
+bip_39_word_no_space_6: congressjustsuperpoolcodefever
+bip_39_word_no_space_7: congressjustsuperpoolcodefeverthere
+bip_39_word_no_space_8: congressjustsuperpoolcodefevertheremaid
+bip_39_word_no_space_9: congressjustsuperpoolcodefevertheremaidprocess
 bip_39_word_space_0:
 - congress
 - just

@@ -122,6 +122,18 @@ across
 frost
 knee
 brush |  
+| bip_39_word_no_space_1 | region |  
+| bip_39_word_no_space_10 | regionsolutionquizsteelcrucialacrossfrostkneebrushput |  
+| bip_39_word_no_space_11 | regionsolutionquizsteelcrucialacrossfrostkneebrushputlanguage |  
+| bip_39_word_no_space_12 | regionsolutionquizsteelcrucialacrossfrostkneebrushputlanguageabsorb |  
+| bip_39_word_no_space_2 | regionsolution |  
+| bip_39_word_no_space_3 | regionsolutionquiz |  
+| bip_39_word_no_space_4 | regionsolutionquizsteel |  
+| bip_39_word_no_space_5 | regionsolutionquizsteelcrucial |  
+| bip_39_word_no_space_6 | regionsolutionquizsteelcrucialacross |  
+| bip_39_word_no_space_7 | regionsolutionquizsteelcrucialacrossfrost |  
+| bip_39_word_no_space_8 | regionsolutionquizsteelcrucialacrossfrostknee |  
+| bip_39_word_no_space_9 | regionsolutionquizsteelcrucialacrossfrostkneebrush |  
 | bip_39_word_space_0 | ['region', 'solution', 'quiz', 'steel', 'crucial', 'across', 'frost', 'knee', 'brush', 'put', 'language', 'absorb'] |  
 | bip_39_word_space_1 | region |  
 | bip_39_word_space_10 | region solution quiz steel crucial across frost knee brush put |  

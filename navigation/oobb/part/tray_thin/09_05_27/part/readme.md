@@ -122,6 +122,18 @@ enroll
 butter
 smile
 inherit |  
+| bip_39_word_no_space_1 | argue |  
+| bip_39_word_no_space_10 | arguebannersolveyouthnearenrollbuttersmileinheritshield |  
+| bip_39_word_no_space_11 | arguebannersolveyouthnearenrollbuttersmileinheritshieldcritic |  
+| bip_39_word_no_space_12 | arguebannersolveyouthnearenrollbuttersmileinheritshieldcriticapple |  
+| bip_39_word_no_space_2 | arguebanner |  
+| bip_39_word_no_space_3 | arguebannersolve |  
+| bip_39_word_no_space_4 | arguebannersolveyouth |  
+| bip_39_word_no_space_5 | arguebannersolveyouthnear |  
+| bip_39_word_no_space_6 | arguebannersolveyouthnearenroll |  
+| bip_39_word_no_space_7 | arguebannersolveyouthnearenrollbutter |  
+| bip_39_word_no_space_8 | arguebannersolveyouthnearenrollbuttersmile |  
+| bip_39_word_no_space_9 | arguebannersolveyouthnearenrollbuttersmileinherit |  
 | bip_39_word_space_0 | ['argue', 'banner', 'solve', 'youth', 'near', 'enroll', 'butter', 'smile', 'inherit', 'shield', 'critic', 'apple'] |  
 | bip_39_word_space_1 | argue |  
 | bip_39_word_space_10 | argue banner solve youth near enroll butter smile inherit shield |  

@@ -122,6 +122,18 @@ leisure
 doll
 feature
 cupboard |  
+| bip_39_word_no_space_1 | scrap |  
+| bip_39_word_no_space_10 | scrapfirmgaspclaywidthleisuredollfeaturecupboardelement |  
+| bip_39_word_no_space_11 | scrapfirmgaspclaywidthleisuredollfeaturecupboardelementtrend |  
+| bip_39_word_no_space_12 | scrapfirmgaspclaywidthleisuredollfeaturecupboardelementtrendadjust |  
+| bip_39_word_no_space_2 | scrapfirm |  
+| bip_39_word_no_space_3 | scrapfirmgasp |  
+| bip_39_word_no_space_4 | scrapfirmgaspclay |  
+| bip_39_word_no_space_5 | scrapfirmgaspclaywidth |  
+| bip_39_word_no_space_6 | scrapfirmgaspclaywidthleisure |  
+| bip_39_word_no_space_7 | scrapfirmgaspclaywidthleisuredoll |  
+| bip_39_word_no_space_8 | scrapfirmgaspclaywidthleisuredollfeature |  
+| bip_39_word_no_space_9 | scrapfirmgaspclaywidthleisuredollfeaturecupboard |  
 | bip_39_word_space_0 | ['scrap', 'firm', 'gasp', 'clay', 'width', 'leisure', 'doll', 'feature', 'cupboard', 'element', 'trend', 'adjust'] |  
 | bip_39_word_space_1 | scrap |  
 | bip_39_word_space_10 | scrap firm gasp clay width leisure doll feature cupboard element |  

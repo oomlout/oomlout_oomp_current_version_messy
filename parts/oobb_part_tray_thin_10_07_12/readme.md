@@ -122,6 +122,18 @@ duck
 measure
 auto
 helmet |  
+| bip_39_word_no_space_1 | system |  
+| bip_39_word_no_space_10 | systemthumbradioelementbrokenduckmeasureautohelmetpole |  
+| bip_39_word_no_space_11 | systemthumbradioelementbrokenduckmeasureautohelmetpoleabove |  
+| bip_39_word_no_space_12 | systemthumbradioelementbrokenduckmeasureautohelmetpoleaboveadd |  
+| bip_39_word_no_space_2 | systemthumb |  
+| bip_39_word_no_space_3 | systemthumbradio |  
+| bip_39_word_no_space_4 | systemthumbradioelement |  
+| bip_39_word_no_space_5 | systemthumbradioelementbroken |  
+| bip_39_word_no_space_6 | systemthumbradioelementbrokenduck |  
+| bip_39_word_no_space_7 | systemthumbradioelementbrokenduckmeasure |  
+| bip_39_word_no_space_8 | systemthumbradioelementbrokenduckmeasureauto |  
+| bip_39_word_no_space_9 | systemthumbradioelementbrokenduckmeasureautohelmet |  
 | bip_39_word_space_0 | ['system', 'thumb', 'radio', 'element', 'broken', 'duck', 'measure', 'auto', 'helmet', 'pole', 'above', 'add'] |  
 | bip_39_word_space_1 | system |  
 | bip_39_word_space_10 | system thumb radio element broken duck measure auto helmet pole |  

@@ -122,6 +122,18 @@ chat
 aunt
 turn
 question |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolalpharealdefybrotherchatauntturnquestionmain |  
+| bip_39_word_no_space_11 | patrolalpharealdefybrotherchatauntturnquestionmaininspire |  
+| bip_39_word_no_space_12 | patrolalpharealdefybrotherchatauntturnquestionmaininspireactress |  
+| bip_39_word_no_space_2 | patrolalpha |  
+| bip_39_word_no_space_3 | patrolalphareal |  
+| bip_39_word_no_space_4 | patrolalpharealdefy |  
+| bip_39_word_no_space_5 | patrolalpharealdefybrother |  
+| bip_39_word_no_space_6 | patrolalpharealdefybrotherchat |  
+| bip_39_word_no_space_7 | patrolalpharealdefybrotherchataunt |  
+| bip_39_word_no_space_8 | patrolalpharealdefybrotherchatauntturn |  
+| bip_39_word_no_space_9 | patrolalpharealdefybrotherchatauntturnquestion |  
 | bip_39_word_space_0 | ['patrol', 'alpha', 'real', 'defy', 'brother', 'chat', 'aunt', 'turn', 'question', 'main', 'inspire', 'actress'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol alpha real defy brother chat aunt turn question main |  

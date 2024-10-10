@@ -122,6 +122,18 @@ patrol
 cause
 myself
 sorry |  
+| bip_39_word_no_space_1 | illegal |  
+| bip_39_word_no_space_10 | illegalopentiltchestworthpatrolcausemyselfsorrytheme |  
+| bip_39_word_no_space_11 | illegalopentiltchestworthpatrolcausemyselfsorrythemehumble |  
+| bip_39_word_no_space_12 | illegalopentiltchestworthpatrolcausemyselfsorrythemehumbleannounce |  
+| bip_39_word_no_space_2 | illegalopen |  
+| bip_39_word_no_space_3 | illegalopentilt |  
+| bip_39_word_no_space_4 | illegalopentiltchest |  
+| bip_39_word_no_space_5 | illegalopentiltchestworth |  
+| bip_39_word_no_space_6 | illegalopentiltchestworthpatrol |  
+| bip_39_word_no_space_7 | illegalopentiltchestworthpatrolcause |  
+| bip_39_word_no_space_8 | illegalopentiltchestworthpatrolcausemyself |  
+| bip_39_word_no_space_9 | illegalopentiltchestworthpatrolcausemyselfsorry |  
 | bip_39_word_space_0 | ['illegal', 'open', 'tilt', 'chest', 'worth', 'patrol', 'cause', 'myself', 'sorry', 'theme', 'humble', 'announce'] |  
 | bip_39_word_space_1 | illegal |  
 | bip_39_word_space_10 | illegal open tilt chest worth patrol cause myself sorry theme |  

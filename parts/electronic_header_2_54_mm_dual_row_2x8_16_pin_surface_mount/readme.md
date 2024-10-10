@@ -122,6 +122,18 @@ junk
 inherit
 affair
 napkin |  
+| bip_39_word_no_space_1 | leaf |  
+| bip_39_word_no_space_10 | leafactualdutchtowardschemejunkinheritaffairnapkinpopular |  
+| bip_39_word_no_space_11 | leafactualdutchtowardschemejunkinheritaffairnapkinpopularduck |  
+| bip_39_word_no_space_12 | leafactualdutchtowardschemejunkinheritaffairnapkinpopularduckafford |  
+| bip_39_word_no_space_2 | leafactual |  
+| bip_39_word_no_space_3 | leafactualdutch |  
+| bip_39_word_no_space_4 | leafactualdutchtoward |  
+| bip_39_word_no_space_5 | leafactualdutchtowardscheme |  
+| bip_39_word_no_space_6 | leafactualdutchtowardschemejunk |  
+| bip_39_word_no_space_7 | leafactualdutchtowardschemejunkinherit |  
+| bip_39_word_no_space_8 | leafactualdutchtowardschemejunkinheritaffair |  
+| bip_39_word_no_space_9 | leafactualdutchtowardschemejunkinheritaffairnapkin |  
 | bip_39_word_space_0 | ['leaf', 'actual', 'dutch', 'toward', 'scheme', 'junk', 'inherit', 'affair', 'napkin', 'popular', 'duck', 'afford'] |  
 | bip_39_word_space_1 | leaf |  
 | bip_39_word_space_10 | leaf actual dutch toward scheme junk inherit affair napkin popular |  

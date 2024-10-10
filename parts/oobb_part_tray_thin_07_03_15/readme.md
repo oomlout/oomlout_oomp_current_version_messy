@@ -122,6 +122,18 @@ tiny
 okay
 car
 give |  
+| bip_39_word_no_space_1 | sustain |  
+| bip_39_word_no_space_10 | sustainoutputjoyclaycensustinyokaycargiveparrot |  
+| bip_39_word_no_space_11 | sustainoutputjoyclaycensustinyokaycargiveparrotforget |  
+| bip_39_word_no_space_12 | sustainoutputjoyclaycensustinyokaycargiveparrotforgetasset |  
+| bip_39_word_no_space_2 | sustainoutput |  
+| bip_39_word_no_space_3 | sustainoutputjoy |  
+| bip_39_word_no_space_4 | sustainoutputjoyclay |  
+| bip_39_word_no_space_5 | sustainoutputjoyclaycensus |  
+| bip_39_word_no_space_6 | sustainoutputjoyclaycensustiny |  
+| bip_39_word_no_space_7 | sustainoutputjoyclaycensustinyokay |  
+| bip_39_word_no_space_8 | sustainoutputjoyclaycensustinyokaycar |  
+| bip_39_word_no_space_9 | sustainoutputjoyclaycensustinyokaycargive |  
 | bip_39_word_space_0 | ['sustain', 'output', 'joy', 'clay', 'census', 'tiny', 'okay', 'car', 'give', 'parrot', 'forget', 'asset'] |  
 | bip_39_word_space_1 | sustain |  
 | bip_39_word_space_10 | sustain output joy clay census tiny okay car give parrot |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'misery
   wife
 
   right'
+bip_39_word_no_space_1: misery
+bip_39_word_no_space_10: miseryreceiveselllionphysicaloceanliftwiferightmoral
+bip_39_word_no_space_11: miseryreceiveselllionphysicaloceanliftwiferightmoralwhere
+bip_39_word_no_space_12: miseryreceiveselllionphysicaloceanliftwiferightmoralwhereattend
+bip_39_word_no_space_2: miseryreceive
+bip_39_word_no_space_3: miseryreceivesell
+bip_39_word_no_space_4: miseryreceiveselllion
+bip_39_word_no_space_5: miseryreceiveselllionphysical
+bip_39_word_no_space_6: miseryreceiveselllionphysicalocean
+bip_39_word_no_space_7: miseryreceiveselllionphysicaloceanlift
+bip_39_word_no_space_8: miseryreceiveselllionphysicaloceanliftwife
+bip_39_word_no_space_9: miseryreceiveselllionphysicaloceanliftwiferight
 bip_39_word_space_0:
 - misery
 - receive

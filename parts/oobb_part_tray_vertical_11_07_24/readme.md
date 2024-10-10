@@ -122,6 +122,18 @@ leisure
 amateur
 strategy
 actress |  
+| bip_39_word_no_space_1 | control |  
+| bip_39_word_no_space_10 | controlbriskhoverliquiddivertleisureamateurstrategyactresswet |  
+| bip_39_word_no_space_11 | controlbriskhoverliquiddivertleisureamateurstrategyactresswetgap |  
+| bip_39_word_no_space_12 | controlbriskhoverliquiddivertleisureamateurstrategyactresswetgapapprove |  
+| bip_39_word_no_space_2 | controlbrisk |  
+| bip_39_word_no_space_3 | controlbriskhover |  
+| bip_39_word_no_space_4 | controlbriskhoverliquid |  
+| bip_39_word_no_space_5 | controlbriskhoverliquiddivert |  
+| bip_39_word_no_space_6 | controlbriskhoverliquiddivertleisure |  
+| bip_39_word_no_space_7 | controlbriskhoverliquiddivertleisureamateur |  
+| bip_39_word_no_space_8 | controlbriskhoverliquiddivertleisureamateurstrategy |  
+| bip_39_word_no_space_9 | controlbriskhoverliquiddivertleisureamateurstrategyactress |  
 | bip_39_word_space_0 | ['control', 'brisk', 'hover', 'liquid', 'divert', 'leisure', 'amateur', 'strategy', 'actress', 'wet', 'gap', 'approve'] |  
 | bip_39_word_space_1 | control |  
 | bip_39_word_space_10 | control brisk hover liquid divert leisure amateur strategy actress wet |  

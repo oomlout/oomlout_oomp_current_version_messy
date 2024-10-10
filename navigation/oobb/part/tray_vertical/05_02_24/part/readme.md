@@ -122,6 +122,18 @@ access
 breeze
 wild
 exotic |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyethrowpursecoilcattleaccessbreezewildexoticmarriage |  
+| bip_39_word_no_space_11 | eyethrowpursecoilcattleaccessbreezewildexoticmarriagebuyer |  
+| bip_39_word_no_space_12 | eyethrowpursecoilcattleaccessbreezewildexoticmarriagebuyeracid |  
+| bip_39_word_no_space_2 | eyethrow |  
+| bip_39_word_no_space_3 | eyethrowpurse |  
+| bip_39_word_no_space_4 | eyethrowpursecoil |  
+| bip_39_word_no_space_5 | eyethrowpursecoilcattle |  
+| bip_39_word_no_space_6 | eyethrowpursecoilcattleaccess |  
+| bip_39_word_no_space_7 | eyethrowpursecoilcattleaccessbreeze |  
+| bip_39_word_no_space_8 | eyethrowpursecoilcattleaccessbreezewild |  
+| bip_39_word_no_space_9 | eyethrowpursecoilcattleaccessbreezewildexotic |  
 | bip_39_word_space_0 | ['eye', 'throw', 'purse', 'coil', 'cattle', 'access', 'breeze', 'wild', 'exotic', 'marriage', 'buyer', 'acid'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye throw purse coil cattle access breeze wild exotic marriage |  

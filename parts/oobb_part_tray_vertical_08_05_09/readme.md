@@ -122,6 +122,18 @@ view
 despair
 runway
 bean |  
+| bip_39_word_no_space_1 | ahead |  
+| bip_39_word_no_space_10 | aheadkindwritechapterhusbandviewdespairrunwaybeansystem |  
+| bip_39_word_no_space_11 | aheadkindwritechapterhusbandviewdespairrunwaybeansystempolar |  
+| bip_39_word_no_space_12 | aheadkindwritechapterhusbandviewdespairrunwaybeansystempolaralready |  
+| bip_39_word_no_space_2 | aheadkind |  
+| bip_39_word_no_space_3 | aheadkindwrite |  
+| bip_39_word_no_space_4 | aheadkindwritechapter |  
+| bip_39_word_no_space_5 | aheadkindwritechapterhusband |  
+| bip_39_word_no_space_6 | aheadkindwritechapterhusbandview |  
+| bip_39_word_no_space_7 | aheadkindwritechapterhusbandviewdespair |  
+| bip_39_word_no_space_8 | aheadkindwritechapterhusbandviewdespairrunway |  
+| bip_39_word_no_space_9 | aheadkindwritechapterhusbandviewdespairrunwaybean |  
 | bip_39_word_space_0 | ['ahead', 'kind', 'write', 'chapter', 'husband', 'view', 'despair', 'runway', 'bean', 'system', 'polar', 'already'] |  
 | bip_39_word_space_1 | ahead |  
 | bip_39_word_space_10 | ahead kind write chapter husband view despair runway bean system |  

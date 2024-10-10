@@ -122,6 +122,18 @@ please
 exercise
 funny
 soccer |  
+| bip_39_word_no_space_1 | define |  
+| bip_39_word_no_space_10 | defineoxygenlevelfeverstandpleaseexercisefunnysoccermust |  
+| bip_39_word_no_space_11 | defineoxygenlevelfeverstandpleaseexercisefunnysoccermustlonely |  
+| bip_39_word_no_space_12 | defineoxygenlevelfeverstandpleaseexercisefunnysoccermustlonelyarea |  
+| bip_39_word_no_space_2 | defineoxygen |  
+| bip_39_word_no_space_3 | defineoxygenlevel |  
+| bip_39_word_no_space_4 | defineoxygenlevelfever |  
+| bip_39_word_no_space_5 | defineoxygenlevelfeverstand |  
+| bip_39_word_no_space_6 | defineoxygenlevelfeverstandplease |  
+| bip_39_word_no_space_7 | defineoxygenlevelfeverstandpleaseexercise |  
+| bip_39_word_no_space_8 | defineoxygenlevelfeverstandpleaseexercisefunny |  
+| bip_39_word_no_space_9 | defineoxygenlevelfeverstandpleaseexercisefunnysoccer |  
 | bip_39_word_space_0 | ['define', 'oxygen', 'level', 'fever', 'stand', 'please', 'exercise', 'funny', 'soccer', 'must', 'lonely', 'area'] |  
 | bip_39_word_space_1 | define |  
 | bip_39_word_space_10 | define oxygen level fever stand please exercise funny soccer must |  

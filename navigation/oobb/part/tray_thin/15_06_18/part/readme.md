@@ -122,6 +122,18 @@ cook
 clock
 rifle
 subject |  
+| bip_39_word_no_space_1 | repeat |  
+| bip_39_word_no_space_10 | repeatnewshabitawkwarddigitalcookclockriflesubjectduck |  
+| bip_39_word_no_space_11 | repeatnewshabitawkwarddigitalcookclockriflesubjectduckkitchen |  
+| bip_39_word_no_space_12 | repeatnewshabitawkwarddigitalcookclockriflesubjectduckkitchenalways |  
+| bip_39_word_no_space_2 | repeatnews |  
+| bip_39_word_no_space_3 | repeatnewshabit |  
+| bip_39_word_no_space_4 | repeatnewshabitawkward |  
+| bip_39_word_no_space_5 | repeatnewshabitawkwarddigital |  
+| bip_39_word_no_space_6 | repeatnewshabitawkwarddigitalcook |  
+| bip_39_word_no_space_7 | repeatnewshabitawkwarddigitalcookclock |  
+| bip_39_word_no_space_8 | repeatnewshabitawkwarddigitalcookclockrifle |  
+| bip_39_word_no_space_9 | repeatnewshabitawkwarddigitalcookclockriflesubject |  
 | bip_39_word_space_0 | ['repeat', 'news', 'habit', 'awkward', 'digital', 'cook', 'clock', 'rifle', 'subject', 'duck', 'kitchen', 'always'] |  
 | bip_39_word_space_1 | repeat |  
 | bip_39_word_space_10 | repeat news habit awkward digital cook clock rifle subject duck |  

@@ -122,6 +122,18 @@ sing
 expose
 tube
 supply |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitlobsterviewrotatefacesingexposetubesupplysystem |  
+| bip_39_word_no_space_11 | limitlobsterviewrotatefacesingexposetubesupplysystemorgan |  
+| bip_39_word_no_space_12 | limitlobsterviewrotatefacesingexposetubesupplysystemorganacid |  
+| bip_39_word_no_space_2 | limitlobster |  
+| bip_39_word_no_space_3 | limitlobsterview |  
+| bip_39_word_no_space_4 | limitlobsterviewrotate |  
+| bip_39_word_no_space_5 | limitlobsterviewrotateface |  
+| bip_39_word_no_space_6 | limitlobsterviewrotatefacesing |  
+| bip_39_word_no_space_7 | limitlobsterviewrotatefacesingexpose |  
+| bip_39_word_no_space_8 | limitlobsterviewrotatefacesingexposetube |  
+| bip_39_word_no_space_9 | limitlobsterviewrotatefacesingexposetubesupply |  
 | bip_39_word_space_0 | ['limit', 'lobster', 'view', 'rotate', 'face', 'sing', 'expose', 'tube', 'supply', 'system', 'organ', 'acid'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit lobster view rotate face sing expose tube supply system |  

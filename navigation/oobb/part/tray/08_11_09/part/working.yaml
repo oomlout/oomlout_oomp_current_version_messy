@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'seek
   vague
 
   west'
+bip_39_word_no_space_1: seek
+bip_39_word_no_space_10: seeksizeclaygravityeducatespacebuttervaguewestedge
+bip_39_word_no_space_11: seeksizeclaygravityeducatespacebuttervaguewestedgeclown
+bip_39_word_no_space_12: seeksizeclaygravityeducatespacebuttervaguewestedgeclownaugust
+bip_39_word_no_space_2: seeksize
+bip_39_word_no_space_3: seeksizeclay
+bip_39_word_no_space_4: seeksizeclaygravity
+bip_39_word_no_space_5: seeksizeclaygravityeducate
+bip_39_word_no_space_6: seeksizeclaygravityeducatespace
+bip_39_word_no_space_7: seeksizeclaygravityeducatespacebutter
+bip_39_word_no_space_8: seeksizeclaygravityeducatespacebuttervague
+bip_39_word_no_space_9: seeksizeclaygravityeducatespacebuttervaguewest
 bip_39_word_space_0:
 - seek
 - size

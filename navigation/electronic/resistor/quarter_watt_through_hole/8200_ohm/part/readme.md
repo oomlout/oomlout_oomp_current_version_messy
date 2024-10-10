@@ -122,6 +122,18 @@ long
 blossom
 rhythm
 glory |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | glovedefystoveweddingpuddinglongblossomrhythmglorypatch |  
+| bip_39_word_no_space_11 | glovedefystoveweddingpuddinglongblossomrhythmglorypatchtissue |  
+| bip_39_word_no_space_12 | glovedefystoveweddingpuddinglongblossomrhythmglorypatchtissueaverage |  
+| bip_39_word_no_space_2 | glovedefy |  
+| bip_39_word_no_space_3 | glovedefystove |  
+| bip_39_word_no_space_4 | glovedefystovewedding |  
+| bip_39_word_no_space_5 | glovedefystoveweddingpudding |  
+| bip_39_word_no_space_6 | glovedefystoveweddingpuddinglong |  
+| bip_39_word_no_space_7 | glovedefystoveweddingpuddinglongblossom |  
+| bip_39_word_no_space_8 | glovedefystoveweddingpuddinglongblossomrhythm |  
+| bip_39_word_no_space_9 | glovedefystoveweddingpuddinglongblossomrhythmglory |  
 | bip_39_word_space_0 | ['glove', 'defy', 'stove', 'wedding', 'pudding', 'long', 'blossom', 'rhythm', 'glory', 'patch', 'tissue', 'average'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove defy stove wedding pudding long blossom rhythm glory patch |  

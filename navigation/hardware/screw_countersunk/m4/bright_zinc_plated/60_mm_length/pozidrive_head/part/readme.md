@@ -122,6 +122,18 @@ short
 dragon
 bright
 tip |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnight |  
+| bip_39_word_no_space_11 | flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnightbone |  
+| bip_39_word_no_space_12 | flockdevelopsalmonmagiccontrolshortdragonbrighttipmidnightboneactor |  
+| bip_39_word_no_space_2 | flockdevelop |  
+| bip_39_word_no_space_3 | flockdevelopsalmon |  
+| bip_39_word_no_space_4 | flockdevelopsalmonmagic |  
+| bip_39_word_no_space_5 | flockdevelopsalmonmagiccontrol |  
+| bip_39_word_no_space_6 | flockdevelopsalmonmagiccontrolshort |  
+| bip_39_word_no_space_7 | flockdevelopsalmonmagiccontrolshortdragon |  
+| bip_39_word_no_space_8 | flockdevelopsalmonmagiccontrolshortdragonbright |  
+| bip_39_word_no_space_9 | flockdevelopsalmonmagiccontrolshortdragonbrighttip |  
 | bip_39_word_space_0 | ['flock', 'develop', 'salmon', 'magic', 'control', 'short', 'dragon', 'bright', 'tip', 'midnight', 'bone', 'actor'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock develop salmon magic control short dragon bright tip midnight |  

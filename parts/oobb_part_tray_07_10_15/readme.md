@@ -122,6 +122,18 @@ grace
 transfer
 forum
 scrap |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzeshoerewardtheyracegracetransferforumscrapcanal |  
+| bip_39_word_no_space_11 | bronzeshoerewardtheyracegracetransferforumscrapcanalcage |  
+| bip_39_word_no_space_12 | bronzeshoerewardtheyracegracetransferforumscrapcanalcageaudit |  
+| bip_39_word_no_space_2 | bronzeshoe |  
+| bip_39_word_no_space_3 | bronzeshoereward |  
+| bip_39_word_no_space_4 | bronzeshoerewardthey |  
+| bip_39_word_no_space_5 | bronzeshoerewardtheyrace |  
+| bip_39_word_no_space_6 | bronzeshoerewardtheyracegrace |  
+| bip_39_word_no_space_7 | bronzeshoerewardtheyracegracetransfer |  
+| bip_39_word_no_space_8 | bronzeshoerewardtheyracegracetransferforum |  
+| bip_39_word_no_space_9 | bronzeshoerewardtheyracegracetransferforumscrap |  
 | bip_39_word_space_0 | ['bronze', 'shoe', 'reward', 'they', 'race', 'grace', 'transfer', 'forum', 'scrap', 'canal', 'cage', 'audit'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze shoe reward they race grace transfer forum scrap canal |  

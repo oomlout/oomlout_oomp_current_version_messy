@@ -122,6 +122,18 @@ fat
 ankle
 antenna
 random |  
+| bip_39_word_no_space_1 | orient |  
+| bip_39_word_no_space_10 | orientclapextendempowerearnfatankleantennarandomsubmit |  
+| bip_39_word_no_space_11 | orientclapextendempowerearnfatankleantennarandomsubmitclaw |  
+| bip_39_word_no_space_12 | orientclapextendempowerearnfatankleantennarandomsubmitclawallow |  
+| bip_39_word_no_space_2 | orientclap |  
+| bip_39_word_no_space_3 | orientclapextend |  
+| bip_39_word_no_space_4 | orientclapextendempower |  
+| bip_39_word_no_space_5 | orientclapextendempowerearn |  
+| bip_39_word_no_space_6 | orientclapextendempowerearnfat |  
+| bip_39_word_no_space_7 | orientclapextendempowerearnfatankle |  
+| bip_39_word_no_space_8 | orientclapextendempowerearnfatankleantenna |  
+| bip_39_word_no_space_9 | orientclapextendempowerearnfatankleantennarandom |  
 | bip_39_word_space_0 | ['orient', 'clap', 'extend', 'empower', 'earn', 'fat', 'ankle', 'antenna', 'random', 'submit', 'claw', 'allow'] |  
 | bip_39_word_space_1 | orient |  
 | bip_39_word_space_10 | orient clap extend empower earn fat ankle antenna random submit |  

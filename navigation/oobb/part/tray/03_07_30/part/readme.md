@@ -122,6 +122,18 @@ involve
 snake
 twin
 forward |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineeeggaxisslideneitherinvolvesnaketwinforwardpiece |  
+| bip_39_word_no_space_11 | nomineeeggaxisslideneitherinvolvesnaketwinforwardpieceexecute |  
+| bip_39_word_no_space_12 | nomineeeggaxisslideneitherinvolvesnaketwinforwardpieceexecuteabout |  
+| bip_39_word_no_space_2 | nomineeegg |  
+| bip_39_word_no_space_3 | nomineeeggaxis |  
+| bip_39_word_no_space_4 | nomineeeggaxisslide |  
+| bip_39_word_no_space_5 | nomineeeggaxisslideneither |  
+| bip_39_word_no_space_6 | nomineeeggaxisslideneitherinvolve |  
+| bip_39_word_no_space_7 | nomineeeggaxisslideneitherinvolvesnake |  
+| bip_39_word_no_space_8 | nomineeeggaxisslideneitherinvolvesnaketwin |  
+| bip_39_word_no_space_9 | nomineeeggaxisslideneitherinvolvesnaketwinforward |  
 | bip_39_word_space_0 | ['nominee', 'egg', 'axis', 'slide', 'neither', 'involve', 'snake', 'twin', 'forward', 'piece', 'execute', 'about'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee egg axis slide neither involve snake twin forward piece |  

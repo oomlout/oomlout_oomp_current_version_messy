@@ -122,6 +122,18 @@ bargain
 old
 club
 salute |  
+| bip_39_word_no_space_1 | bottom |  
+| bip_39_word_no_space_10 | bottomtossblessgorillatrybargainoldclubsalutebullet |  
+| bip_39_word_no_space_11 | bottomtossblessgorillatrybargainoldclubsalutebulletpave |  
+| bip_39_word_no_space_12 | bottomtossblessgorillatrybargainoldclubsalutebulletpaveacross |  
+| bip_39_word_no_space_2 | bottomtoss |  
+| bip_39_word_no_space_3 | bottomtossbless |  
+| bip_39_word_no_space_4 | bottomtossblessgorilla |  
+| bip_39_word_no_space_5 | bottomtossblessgorillatry |  
+| bip_39_word_no_space_6 | bottomtossblessgorillatrybargain |  
+| bip_39_word_no_space_7 | bottomtossblessgorillatrybargainold |  
+| bip_39_word_no_space_8 | bottomtossblessgorillatrybargainoldclub |  
+| bip_39_word_no_space_9 | bottomtossblessgorillatrybargainoldclubsalute |  
 | bip_39_word_space_0 | ['bottom', 'toss', 'bless', 'gorilla', 'try', 'bargain', 'old', 'club', 'salute', 'bullet', 'pave', 'across'] |  
 | bip_39_word_space_1 | bottom |  
 | bip_39_word_space_10 | bottom toss bless gorilla try bargain old club salute bullet |  

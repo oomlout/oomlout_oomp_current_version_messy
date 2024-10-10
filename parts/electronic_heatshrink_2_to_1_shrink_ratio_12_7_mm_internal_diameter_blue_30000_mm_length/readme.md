@@ -109,6 +109,17 @@ chase
 monster
 symptom
 horse |  
+| bip_39_word_no_space_1 | cactus |  
+| bip_39_word_no_space_10 | cactusjazzalterawarevividchasemonstersymptomhorsegarden |  
+| bip_39_word_no_space_11 | cactusjazzalterawarevividchasemonstersymptomhorsegardencarry |  
+| bip_39_word_no_space_2 | cactusjazz |  
+| bip_39_word_no_space_3 | cactusjazzalter |  
+| bip_39_word_no_space_4 | cactusjazzalteraware |  
+| bip_39_word_no_space_5 | cactusjazzalterawarevivid |  
+| bip_39_word_no_space_6 | cactusjazzalterawarevividchase |  
+| bip_39_word_no_space_7 | cactusjazzalterawarevividchasemonster |  
+| bip_39_word_no_space_8 | cactusjazzalterawarevividchasemonstersymptom |  
+| bip_39_word_no_space_9 | cactusjazzalterawarevividchasemonstersymptomhorse |  
 | bip_39_word_space_0 | ['cactus', 'jazz', 'alter', 'aware', 'vivid', 'chase', 'monster', 'symptom', 'horse', 'garden', 'carry'] |  
 | bip_39_word_space_1 | cactus |  
 | bip_39_word_space_10 | cactus jazz alter aware vivid chase monster symptom horse garden |  

@@ -122,6 +122,18 @@ genre
 crucial
 crunch
 dust |  
+| bip_39_word_no_space_1 | theme |  
+| bip_39_word_no_space_10 | themecreamallobscuremagicgenrecrucialcrunchdustyellow |  
+| bip_39_word_no_space_11 | themecreamallobscuremagicgenrecrucialcrunchdustyellowconnect |  
+| bip_39_word_no_space_12 | themecreamallobscuremagicgenrecrucialcrunchdustyellowconnectadvance |  
+| bip_39_word_no_space_2 | themecream |  
+| bip_39_word_no_space_3 | themecreamall |  
+| bip_39_word_no_space_4 | themecreamallobscure |  
+| bip_39_word_no_space_5 | themecreamallobscuremagic |  
+| bip_39_word_no_space_6 | themecreamallobscuremagicgenre |  
+| bip_39_word_no_space_7 | themecreamallobscuremagicgenrecrucial |  
+| bip_39_word_no_space_8 | themecreamallobscuremagicgenrecrucialcrunch |  
+| bip_39_word_no_space_9 | themecreamallobscuremagicgenrecrucialcrunchdust |  
 | bip_39_word_space_0 | ['theme', 'cream', 'all', 'obscure', 'magic', 'genre', 'crucial', 'crunch', 'dust', 'yellow', 'connect', 'advance'] |  
 | bip_39_word_space_1 | theme |  
 | bip_39_word_space_10 | theme cream all obscure magic genre crucial crunch dust yellow |  

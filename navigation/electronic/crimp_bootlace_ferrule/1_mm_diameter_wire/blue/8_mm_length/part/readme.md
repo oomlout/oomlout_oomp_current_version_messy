@@ -122,6 +122,18 @@ october
 entire
 odor
 crucial |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declinebronzeidleauthorwhereoctoberentireodorcrucialrookie |  
+| bip_39_word_no_space_11 | declinebronzeidleauthorwhereoctoberentireodorcrucialrookieintact |  
+| bip_39_word_no_space_12 | declinebronzeidleauthorwhereoctoberentireodorcrucialrookieintactalbum |  
+| bip_39_word_no_space_2 | declinebronze |  
+| bip_39_word_no_space_3 | declinebronzeidle |  
+| bip_39_word_no_space_4 | declinebronzeidleauthor |  
+| bip_39_word_no_space_5 | declinebronzeidleauthorwhere |  
+| bip_39_word_no_space_6 | declinebronzeidleauthorwhereoctober |  
+| bip_39_word_no_space_7 | declinebronzeidleauthorwhereoctoberentire |  
+| bip_39_word_no_space_8 | declinebronzeidleauthorwhereoctoberentireodor |  
+| bip_39_word_no_space_9 | declinebronzeidleauthorwhereoctoberentireodorcrucial |  
 | bip_39_word_space_0 | ['decline', 'bronze', 'idle', 'author', 'where', 'october', 'entire', 'odor', 'crucial', 'rookie', 'intact', 'album'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline bronze idle author where october entire odor crucial rookie |  

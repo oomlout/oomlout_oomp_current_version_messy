@@ -122,6 +122,18 @@ shoot
 second
 vote
 melt |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemyknockbicycleviewacidshootsecondvotemeltjourney |  
+| bip_39_word_no_space_11 | enemyknockbicycleviewacidshootsecondvotemeltjourneycountry |  
+| bip_39_word_no_space_12 | enemyknockbicycleviewacidshootsecondvotemeltjourneycountryagree |  
+| bip_39_word_no_space_2 | enemyknock |  
+| bip_39_word_no_space_3 | enemyknockbicycle |  
+| bip_39_word_no_space_4 | enemyknockbicycleview |  
+| bip_39_word_no_space_5 | enemyknockbicycleviewacid |  
+| bip_39_word_no_space_6 | enemyknockbicycleviewacidshoot |  
+| bip_39_word_no_space_7 | enemyknockbicycleviewacidshootsecond |  
+| bip_39_word_no_space_8 | enemyknockbicycleviewacidshootsecondvote |  
+| bip_39_word_no_space_9 | enemyknockbicycleviewacidshootsecondvotemelt |  
 | bip_39_word_space_0 | ['enemy', 'knock', 'bicycle', 'view', 'acid', 'shoot', 'second', 'vote', 'melt', 'journey', 'country', 'agree'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy knock bicycle view acid shoot second vote melt journey |  

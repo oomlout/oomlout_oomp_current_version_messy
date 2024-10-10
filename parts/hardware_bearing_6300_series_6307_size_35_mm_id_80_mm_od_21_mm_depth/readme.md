@@ -122,6 +122,18 @@ average
 switch
 blood
 result |  
+| bip_39_word_no_space_1 | image |  
+| bip_39_word_no_space_10 | imagecrouchmotherfortuneinspireaverageswitchbloodresultawake |  
+| bip_39_word_no_space_11 | imagecrouchmotherfortuneinspireaverageswitchbloodresultawakemushroom |  
+| bip_39_word_no_space_12 | imagecrouchmotherfortuneinspireaverageswitchbloodresultawakemushroomannual |  
+| bip_39_word_no_space_2 | imagecrouch |  
+| bip_39_word_no_space_3 | imagecrouchmother |  
+| bip_39_word_no_space_4 | imagecrouchmotherfortune |  
+| bip_39_word_no_space_5 | imagecrouchmotherfortuneinspire |  
+| bip_39_word_no_space_6 | imagecrouchmotherfortuneinspireaverage |  
+| bip_39_word_no_space_7 | imagecrouchmotherfortuneinspireaverageswitch |  
+| bip_39_word_no_space_8 | imagecrouchmotherfortuneinspireaverageswitchblood |  
+| bip_39_word_no_space_9 | imagecrouchmotherfortuneinspireaverageswitchbloodresult |  
 | bip_39_word_space_0 | ['image', 'crouch', 'mother', 'fortune', 'inspire', 'average', 'switch', 'blood', 'result', 'awake', 'mushroom', 'annual'] |  
 | bip_39_word_space_1 | image |  
 | bip_39_word_space_10 | image crouch mother fortune inspire average switch blood result awake |  

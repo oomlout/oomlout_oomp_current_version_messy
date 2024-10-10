@@ -122,6 +122,18 @@ wire
 video
 meadow
 skirt |  
+| bip_39_word_no_space_1 | elite |  
+| bip_39_word_no_space_10 | eliteflightscreenhomegentlewirevideomeadowskirtvague |  
+| bip_39_word_no_space_11 | eliteflightscreenhomegentlewirevideomeadowskirtvagueproblem |  
+| bip_39_word_no_space_12 | eliteflightscreenhomegentlewirevideomeadowskirtvagueproblemaspect |  
+| bip_39_word_no_space_2 | eliteflight |  
+| bip_39_word_no_space_3 | eliteflightscreen |  
+| bip_39_word_no_space_4 | eliteflightscreenhome |  
+| bip_39_word_no_space_5 | eliteflightscreenhomegentle |  
+| bip_39_word_no_space_6 | eliteflightscreenhomegentlewire |  
+| bip_39_word_no_space_7 | eliteflightscreenhomegentlewirevideo |  
+| bip_39_word_no_space_8 | eliteflightscreenhomegentlewirevideomeadow |  
+| bip_39_word_no_space_9 | eliteflightscreenhomegentlewirevideomeadowskirt |  
 | bip_39_word_space_0 | ['elite', 'flight', 'screen', 'home', 'gentle', 'wire', 'video', 'meadow', 'skirt', 'vague', 'problem', 'aspect'] |  
 | bip_39_word_space_1 | elite |  
 | bip_39_word_space_10 | elite flight screen home gentle wire video meadow skirt vague |  

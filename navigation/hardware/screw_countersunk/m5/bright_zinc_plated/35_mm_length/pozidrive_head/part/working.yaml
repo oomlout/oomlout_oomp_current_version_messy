@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'put
   hello
 
   reject'
+bip_39_word_no_space_1: put
+bip_39_word_no_space_10: putteachhockeydripfancynormalsurfacehellorejecttrust
+bip_39_word_no_space_11: putteachhockeydripfancynormalsurfacehellorejecttrustavocado
+bip_39_word_no_space_12: putteachhockeydripfancynormalsurfacehellorejecttrustavocadoattitude
+bip_39_word_no_space_2: putteach
+bip_39_word_no_space_3: putteachhockey
+bip_39_word_no_space_4: putteachhockeydrip
+bip_39_word_no_space_5: putteachhockeydripfancy
+bip_39_word_no_space_6: putteachhockeydripfancynormal
+bip_39_word_no_space_7: putteachhockeydripfancynormalsurface
+bip_39_word_no_space_8: putteachhockeydripfancynormalsurfacehello
+bip_39_word_no_space_9: putteachhockeydripfancynormalsurfacehelloreject
 bip_39_word_space_0:
 - put
 - teach

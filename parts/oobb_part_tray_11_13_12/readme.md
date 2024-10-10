@@ -122,6 +122,18 @@ trophy
 hedgehog
 crash
 punch |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerhollowforestrugcanyontrophyhedgehogcrashpunchscrap |  
+| bip_39_word_no_space_11 | toddlerhollowforestrugcanyontrophyhedgehogcrashpunchscrapalready |  
+| bip_39_word_no_space_12 | toddlerhollowforestrugcanyontrophyhedgehogcrashpunchscrapalreadyalien |  
+| bip_39_word_no_space_2 | toddlerhollow |  
+| bip_39_word_no_space_3 | toddlerhollowforest |  
+| bip_39_word_no_space_4 | toddlerhollowforestrug |  
+| bip_39_word_no_space_5 | toddlerhollowforestrugcanyon |  
+| bip_39_word_no_space_6 | toddlerhollowforestrugcanyontrophy |  
+| bip_39_word_no_space_7 | toddlerhollowforestrugcanyontrophyhedgehog |  
+| bip_39_word_no_space_8 | toddlerhollowforestrugcanyontrophyhedgehogcrash |  
+| bip_39_word_no_space_9 | toddlerhollowforestrugcanyontrophyhedgehogcrashpunch |  
 | bip_39_word_space_0 | ['toddler', 'hollow', 'forest', 'rug', 'canyon', 'trophy', 'hedgehog', 'crash', 'punch', 'scrap', 'already', 'alien'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler hollow forest rug canyon trophy hedgehog crash punch scrap |  

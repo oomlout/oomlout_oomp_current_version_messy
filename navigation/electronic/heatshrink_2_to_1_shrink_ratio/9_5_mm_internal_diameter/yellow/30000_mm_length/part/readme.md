@@ -122,6 +122,18 @@ dinosaur
 document
 upset
 tiny |  
+| bip_39_word_no_space_1 | install |  
+| bip_39_word_no_space_10 | installlimitinspireexplainlobsterdinosaurdocumentupsettinyhurry |  
+| bip_39_word_no_space_11 | installlimitinspireexplainlobsterdinosaurdocumentupsettinyhurryopen |  
+| bip_39_word_no_space_12 | installlimitinspireexplainlobsterdinosaurdocumentupsettinyhurryopenarctic |  
+| bip_39_word_no_space_2 | installlimit |  
+| bip_39_word_no_space_3 | installlimitinspire |  
+| bip_39_word_no_space_4 | installlimitinspireexplain |  
+| bip_39_word_no_space_5 | installlimitinspireexplainlobster |  
+| bip_39_word_no_space_6 | installlimitinspireexplainlobsterdinosaur |  
+| bip_39_word_no_space_7 | installlimitinspireexplainlobsterdinosaurdocument |  
+| bip_39_word_no_space_8 | installlimitinspireexplainlobsterdinosaurdocumentupset |  
+| bip_39_word_no_space_9 | installlimitinspireexplainlobsterdinosaurdocumentupsettiny |  
 | bip_39_word_space_0 | ['install', 'limit', 'inspire', 'explain', 'lobster', 'dinosaur', 'document', 'upset', 'tiny', 'hurry', 'open', 'arctic'] |  
 | bip_39_word_space_1 | install |  
 | bip_39_word_space_10 | install limit inspire explain lobster dinosaur document upset tiny hurry |  

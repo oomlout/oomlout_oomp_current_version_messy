@@ -122,6 +122,18 @@ hollow
 muffin
 universe
 scare |  
+| bip_39_word_no_space_1 | history |  
+| bip_39_word_no_space_10 | historyravendilemmabridgezoohollowmuffinuniversescarehuman |  
+| bip_39_word_no_space_11 | historyravendilemmabridgezoohollowmuffinuniversescarehumanscene |  
+| bip_39_word_no_space_12 | historyravendilemmabridgezoohollowmuffinuniversescarehumansceneanger |  
+| bip_39_word_no_space_2 | historyraven |  
+| bip_39_word_no_space_3 | historyravendilemma |  
+| bip_39_word_no_space_4 | historyravendilemmabridge |  
+| bip_39_word_no_space_5 | historyravendilemmabridgezoo |  
+| bip_39_word_no_space_6 | historyravendilemmabridgezoohollow |  
+| bip_39_word_no_space_7 | historyravendilemmabridgezoohollowmuffin |  
+| bip_39_word_no_space_8 | historyravendilemmabridgezoohollowmuffinuniverse |  
+| bip_39_word_no_space_9 | historyravendilemmabridgezoohollowmuffinuniversescare |  
 | bip_39_word_space_0 | ['history', 'raven', 'dilemma', 'bridge', 'zoo', 'hollow', 'muffin', 'universe', 'scare', 'human', 'scene', 'anger'] |  
 | bip_39_word_space_1 | history |  
 | bip_39_word_space_10 | history raven dilemma bridge zoo hollow muffin universe scare human |  

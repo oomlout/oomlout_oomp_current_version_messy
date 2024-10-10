@@ -122,6 +122,18 @@ card
 napkin
 frequent
 target |  
+| bip_39_word_no_space_1 | flat |  
+| bip_39_word_no_space_10 | flatdoctorabilityregrettimecardnapkinfrequenttargetunveil |  
+| bip_39_word_no_space_11 | flatdoctorabilityregrettimecardnapkinfrequenttargetunveilgarbage |  
+| bip_39_word_no_space_12 | flatdoctorabilityregrettimecardnapkinfrequenttargetunveilgarbagearound |  
+| bip_39_word_no_space_2 | flatdoctor |  
+| bip_39_word_no_space_3 | flatdoctorability |  
+| bip_39_word_no_space_4 | flatdoctorabilityregret |  
+| bip_39_word_no_space_5 | flatdoctorabilityregrettime |  
+| bip_39_word_no_space_6 | flatdoctorabilityregrettimecard |  
+| bip_39_word_no_space_7 | flatdoctorabilityregrettimecardnapkin |  
+| bip_39_word_no_space_8 | flatdoctorabilityregrettimecardnapkinfrequent |  
+| bip_39_word_no_space_9 | flatdoctorabilityregrettimecardnapkinfrequenttarget |  
 | bip_39_word_space_0 | ['flat', 'doctor', 'ability', 'regret', 'time', 'card', 'napkin', 'frequent', 'target', 'unveil', 'garbage', 'around'] |  
 | bip_39_word_space_1 | flat |  
 | bip_39_word_space_10 | flat doctor ability regret time card napkin frequent target unveil |  

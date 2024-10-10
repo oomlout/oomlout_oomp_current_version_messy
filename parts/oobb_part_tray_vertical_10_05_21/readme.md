@@ -122,6 +122,18 @@ stairs
 setup
 fiscal
 culture |  
+| bip_39_word_no_space_1 | final |  
+| bip_39_word_no_space_10 | finalnoodlestandmythstockstairssetupfiscalcultureanswer |  
+| bip_39_word_no_space_11 | finalnoodlestandmythstockstairssetupfiscalcultureanswerblossom |  
+| bip_39_word_no_space_12 | finalnoodlestandmythstockstairssetupfiscalcultureanswerblossomanxiety |  
+| bip_39_word_no_space_2 | finalnoodle |  
+| bip_39_word_no_space_3 | finalnoodlestand |  
+| bip_39_word_no_space_4 | finalnoodlestandmyth |  
+| bip_39_word_no_space_5 | finalnoodlestandmythstock |  
+| bip_39_word_no_space_6 | finalnoodlestandmythstockstairs |  
+| bip_39_word_no_space_7 | finalnoodlestandmythstockstairssetup |  
+| bip_39_word_no_space_8 | finalnoodlestandmythstockstairssetupfiscal |  
+| bip_39_word_no_space_9 | finalnoodlestandmythstockstairssetupfiscalculture |  
 | bip_39_word_space_0 | ['final', 'noodle', 'stand', 'myth', 'stock', 'stairs', 'setup', 'fiscal', 'culture', 'answer', 'blossom', 'anxiety'] |  
 | bip_39_word_space_1 | final |  
 | bip_39_word_space_10 | final noodle stand myth stock stairs setup fiscal culture answer |  

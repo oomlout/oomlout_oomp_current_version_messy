@@ -122,6 +122,18 @@ when
 wrong
 beef
 mirror |  
+| bip_39_word_no_space_1 | fruit |  
+| bip_39_word_no_space_10 | fruithorrorfederalwarmfaintwhenwrongbeefmirrorshop |  
+| bip_39_word_no_space_11 | fruithorrorfederalwarmfaintwhenwrongbeefmirrorshopcry |  
+| bip_39_word_no_space_12 | fruithorrorfederalwarmfaintwhenwrongbeefmirrorshopcryacid |  
+| bip_39_word_no_space_2 | fruithorror |  
+| bip_39_word_no_space_3 | fruithorrorfederal |  
+| bip_39_word_no_space_4 | fruithorrorfederalwarm |  
+| bip_39_word_no_space_5 | fruithorrorfederalwarmfaint |  
+| bip_39_word_no_space_6 | fruithorrorfederalwarmfaintwhen |  
+| bip_39_word_no_space_7 | fruithorrorfederalwarmfaintwhenwrong |  
+| bip_39_word_no_space_8 | fruithorrorfederalwarmfaintwhenwrongbeef |  
+| bip_39_word_no_space_9 | fruithorrorfederalwarmfaintwhenwrongbeefmirror |  
 | bip_39_word_space_0 | ['fruit', 'horror', 'federal', 'warm', 'faint', 'when', 'wrong', 'beef', 'mirror', 'shop', 'cry', 'acid'] |  
 | bip_39_word_space_1 | fruit |  
 | bip_39_word_space_10 | fruit horror federal warm faint when wrong beef mirror shop |  

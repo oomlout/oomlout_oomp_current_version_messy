@@ -122,6 +122,18 @@ sadness
 online
 annual
 match |  
+| bip_39_word_no_space_1 | analyst |  
+| bip_39_word_no_space_10 | analysttrymuscletreatdepartsadnessonlineannualmatchmixed |  
+| bip_39_word_no_space_11 | analysttrymuscletreatdepartsadnessonlineannualmatchmixedgloom |  
+| bip_39_word_no_space_12 | analysttrymuscletreatdepartsadnessonlineannualmatchmixedgloomaccuse |  
+| bip_39_word_no_space_2 | analysttry |  
+| bip_39_word_no_space_3 | analysttrymuscle |  
+| bip_39_word_no_space_4 | analysttrymuscletreat |  
+| bip_39_word_no_space_5 | analysttrymuscletreatdepart |  
+| bip_39_word_no_space_6 | analysttrymuscletreatdepartsadness |  
+| bip_39_word_no_space_7 | analysttrymuscletreatdepartsadnessonline |  
+| bip_39_word_no_space_8 | analysttrymuscletreatdepartsadnessonlineannual |  
+| bip_39_word_no_space_9 | analysttrymuscletreatdepartsadnessonlineannualmatch |  
 | bip_39_word_space_0 | ['analyst', 'try', 'muscle', 'treat', 'depart', 'sadness', 'online', 'annual', 'match', 'mixed', 'gloom', 'accuse'] |  
 | bip_39_word_space_1 | analyst |  
 | bip_39_word_space_10 | analyst try muscle treat depart sadness online annual match mixed |  

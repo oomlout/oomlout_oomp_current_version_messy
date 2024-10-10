@@ -122,6 +122,18 @@ destroy
 ring
 example
 castle |  
+| bip_39_word_no_space_1 | cake |  
+| bip_39_word_no_space_10 | cakedesignnuclearneitherassaultdestroyringexamplecastlemad |  
+| bip_39_word_no_space_11 | cakedesignnuclearneitherassaultdestroyringexamplecastlemadassist |  
+| bip_39_word_no_space_12 | cakedesignnuclearneitherassaultdestroyringexamplecastlemadassistabstract |  
+| bip_39_word_no_space_2 | cakedesign |  
+| bip_39_word_no_space_3 | cakedesignnuclear |  
+| bip_39_word_no_space_4 | cakedesignnuclearneither |  
+| bip_39_word_no_space_5 | cakedesignnuclearneitherassault |  
+| bip_39_word_no_space_6 | cakedesignnuclearneitherassaultdestroy |  
+| bip_39_word_no_space_7 | cakedesignnuclearneitherassaultdestroyring |  
+| bip_39_word_no_space_8 | cakedesignnuclearneitherassaultdestroyringexample |  
+| bip_39_word_no_space_9 | cakedesignnuclearneitherassaultdestroyringexamplecastle |  
 | bip_39_word_space_0 | ['cake', 'design', 'nuclear', 'neither', 'assault', 'destroy', 'ring', 'example', 'castle', 'mad', 'assist', 'abstract'] |  
 | bip_39_word_space_1 | cake |  
 | bip_39_word_space_10 | cake design nuclear neither assault destroy ring example castle mad |  

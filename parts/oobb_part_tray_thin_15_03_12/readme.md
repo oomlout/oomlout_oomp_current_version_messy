@@ -122,6 +122,18 @@ shoulder
 exhibit
 refuse
 mix |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moonmammalproblemnextequipshoulderexhibitrefusemixstable |  
+| bip_39_word_no_space_11 | moonmammalproblemnextequipshoulderexhibitrefusemixstableuncle |  
+| bip_39_word_no_space_12 | moonmammalproblemnextequipshoulderexhibitrefusemixstableuncleanimal |  
+| bip_39_word_no_space_2 | moonmammal |  
+| bip_39_word_no_space_3 | moonmammalproblem |  
+| bip_39_word_no_space_4 | moonmammalproblemnext |  
+| bip_39_word_no_space_5 | moonmammalproblemnextequip |  
+| bip_39_word_no_space_6 | moonmammalproblemnextequipshoulder |  
+| bip_39_word_no_space_7 | moonmammalproblemnextequipshoulderexhibit |  
+| bip_39_word_no_space_8 | moonmammalproblemnextequipshoulderexhibitrefuse |  
+| bip_39_word_no_space_9 | moonmammalproblemnextequipshoulderexhibitrefusemix |  
 | bip_39_word_space_0 | ['moon', 'mammal', 'problem', 'next', 'equip', 'shoulder', 'exhibit', 'refuse', 'mix', 'stable', 'uncle', 'animal'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon mammal problem next equip shoulder exhibit refuse mix stable |  

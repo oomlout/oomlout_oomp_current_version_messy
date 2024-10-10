@@ -122,6 +122,18 @@ addict
 sweet
 dish
 today |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarchalkmixpurchasehurtaddictsweetdishtodaycheese |  
+| bip_39_word_no_space_11 | cigarchalkmixpurchasehurtaddictsweetdishtodaycheesewood |  
+| bip_39_word_no_space_12 | cigarchalkmixpurchasehurtaddictsweetdishtodaycheesewoodanother |  
+| bip_39_word_no_space_2 | cigarchalk |  
+| bip_39_word_no_space_3 | cigarchalkmix |  
+| bip_39_word_no_space_4 | cigarchalkmixpurchase |  
+| bip_39_word_no_space_5 | cigarchalkmixpurchasehurt |  
+| bip_39_word_no_space_6 | cigarchalkmixpurchasehurtaddict |  
+| bip_39_word_no_space_7 | cigarchalkmixpurchasehurtaddictsweet |  
+| bip_39_word_no_space_8 | cigarchalkmixpurchasehurtaddictsweetdish |  
+| bip_39_word_no_space_9 | cigarchalkmixpurchasehurtaddictsweetdishtoday |  
 | bip_39_word_space_0 | ['cigar', 'chalk', 'mix', 'purchase', 'hurt', 'addict', 'sweet', 'dish', 'today', 'cheese', 'wood', 'another'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar chalk mix purchase hurt addict sweet dish today cheese |  

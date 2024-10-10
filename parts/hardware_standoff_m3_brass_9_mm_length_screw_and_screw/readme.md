@@ -122,6 +122,18 @@ sugar
 truck
 skin
 banana |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infantspikesurveymixturestocksugartruckskinbananaable |  
+| bip_39_word_no_space_11 | infantspikesurveymixturestocksugartruckskinbananaabledamage |  
+| bip_39_word_no_space_12 | infantspikesurveymixturestocksugartruckskinbananaabledamagealter |  
+| bip_39_word_no_space_2 | infantspike |  
+| bip_39_word_no_space_3 | infantspikesurvey |  
+| bip_39_word_no_space_4 | infantspikesurveymixture |  
+| bip_39_word_no_space_5 | infantspikesurveymixturestock |  
+| bip_39_word_no_space_6 | infantspikesurveymixturestocksugar |  
+| bip_39_word_no_space_7 | infantspikesurveymixturestocksugartruck |  
+| bip_39_word_no_space_8 | infantspikesurveymixturestocksugartruckskin |  
+| bip_39_word_no_space_9 | infantspikesurveymixturestocksugartruckskinbanana |  
 | bip_39_word_space_0 | ['infant', 'spike', 'survey', 'mixture', 'stock', 'sugar', 'truck', 'skin', 'banana', 'able', 'damage', 'alter'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant spike survey mixture stock sugar truck skin banana able |  

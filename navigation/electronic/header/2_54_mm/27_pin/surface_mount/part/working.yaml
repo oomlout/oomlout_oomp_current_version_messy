@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'noise
   climb
 
   fold'
+bip_39_word_no_space_1: noise
+bip_39_word_no_space_10: noiseregionalphasoulsandaroundlonelyclimbfoldedge
+bip_39_word_no_space_11: noiseregionalphasoulsandaroundlonelyclimbfoldedgenest
+bip_39_word_no_space_12: noiseregionalphasoulsandaroundlonelyclimbfoldedgenestamateur
+bip_39_word_no_space_2: noiseregion
+bip_39_word_no_space_3: noiseregionalpha
+bip_39_word_no_space_4: noiseregionalphasoul
+bip_39_word_no_space_5: noiseregionalphasoulsand
+bip_39_word_no_space_6: noiseregionalphasoulsandaround
+bip_39_word_no_space_7: noiseregionalphasoulsandaroundlonely
+bip_39_word_no_space_8: noiseregionalphasoulsandaroundlonelyclimb
+bip_39_word_no_space_9: noiseregionalphasoulsandaroundlonelyclimbfold
 bip_39_word_space_0:
 - noise
 - region

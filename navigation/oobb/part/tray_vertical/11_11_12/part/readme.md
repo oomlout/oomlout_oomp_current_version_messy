@@ -122,6 +122,18 @@ endless
 order
 green
 sketch |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoontowardsellrateimageendlessordergreensketchkiss |  
+| bip_39_word_no_space_11 | spoontowardsellrateimageendlessordergreensketchkisswet |  
+| bip_39_word_no_space_12 | spoontowardsellrateimageendlessordergreensketchkisswetankle |  
+| bip_39_word_no_space_2 | spoontoward |  
+| bip_39_word_no_space_3 | spoontowardsell |  
+| bip_39_word_no_space_4 | spoontowardsellrate |  
+| bip_39_word_no_space_5 | spoontowardsellrateimage |  
+| bip_39_word_no_space_6 | spoontowardsellrateimageendless |  
+| bip_39_word_no_space_7 | spoontowardsellrateimageendlessorder |  
+| bip_39_word_no_space_8 | spoontowardsellrateimageendlessordergreen |  
+| bip_39_word_no_space_9 | spoontowardsellrateimageendlessordergreensketch |  
 | bip_39_word_space_0 | ['spoon', 'toward', 'sell', 'rate', 'image', 'endless', 'order', 'green', 'sketch', 'kiss', 'wet', 'ankle'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon toward sell rate image endless order green sketch kiss |  

@@ -122,6 +122,18 @@ talk
 now
 own
 state |  
+| bip_39_word_no_space_1 | tiny |  
+| bip_39_word_no_space_10 | tinycoconutdelayvoiddoubletalknowownstatefloor |  
+| bip_39_word_no_space_11 | tinycoconutdelayvoiddoubletalknowownstatefloorsplit |  
+| bip_39_word_no_space_12 | tinycoconutdelayvoiddoubletalknowownstatefloorsplitadmit |  
+| bip_39_word_no_space_2 | tinycoconut |  
+| bip_39_word_no_space_3 | tinycoconutdelay |  
+| bip_39_word_no_space_4 | tinycoconutdelayvoid |  
+| bip_39_word_no_space_5 | tinycoconutdelayvoiddouble |  
+| bip_39_word_no_space_6 | tinycoconutdelayvoiddoubletalk |  
+| bip_39_word_no_space_7 | tinycoconutdelayvoiddoubletalknow |  
+| bip_39_word_no_space_8 | tinycoconutdelayvoiddoubletalknowown |  
+| bip_39_word_no_space_9 | tinycoconutdelayvoiddoubletalknowownstate |  
 | bip_39_word_space_0 | ['tiny', 'coconut', 'delay', 'void', 'double', 'talk', 'now', 'own', 'state', 'floor', 'split', 'admit'] |  
 | bip_39_word_space_1 | tiny |  
 | bip_39_word_space_10 | tiny coconut delay void double talk now own state floor |  

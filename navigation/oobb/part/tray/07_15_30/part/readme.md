@@ -122,6 +122,18 @@ way
 jelly
 grape
 drive |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemefarmfitlightviablewayjellygrapedriveshock |  
+| bip_39_word_no_space_11 | schemefarmfitlightviablewayjellygrapedriveshockcrumble |  
+| bip_39_word_no_space_12 | schemefarmfitlightviablewayjellygrapedriveshockcrumbleairport |  
+| bip_39_word_no_space_2 | schemefarm |  
+| bip_39_word_no_space_3 | schemefarmfit |  
+| bip_39_word_no_space_4 | schemefarmfitlight |  
+| bip_39_word_no_space_5 | schemefarmfitlightviable |  
+| bip_39_word_no_space_6 | schemefarmfitlightviableway |  
+| bip_39_word_no_space_7 | schemefarmfitlightviablewayjelly |  
+| bip_39_word_no_space_8 | schemefarmfitlightviablewayjellygrape |  
+| bip_39_word_no_space_9 | schemefarmfitlightviablewayjellygrapedrive |  
 | bip_39_word_space_0 | ['scheme', 'farm', 'fit', 'light', 'viable', 'way', 'jelly', 'grape', 'drive', 'shock', 'crumble', 'airport'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme farm fit light viable way jelly grape drive shock |  

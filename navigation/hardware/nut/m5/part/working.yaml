@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'boat
   unusual
 
   bundle'
+bip_39_word_no_space_1: boat
+bip_39_word_no_space_10: boatfoundmodifyskullabandondrastichoneyunusualbundledrip
+bip_39_word_no_space_11: boatfoundmodifyskullabandondrastichoneyunusualbundledripfirm
+bip_39_word_no_space_12: boatfoundmodifyskullabandondrastichoneyunusualbundledripfirmalcohol
+bip_39_word_no_space_2: boatfound
+bip_39_word_no_space_3: boatfoundmodify
+bip_39_word_no_space_4: boatfoundmodifyskull
+bip_39_word_no_space_5: boatfoundmodifyskullabandon
+bip_39_word_no_space_6: boatfoundmodifyskullabandondrastic
+bip_39_word_no_space_7: boatfoundmodifyskullabandondrastichoney
+bip_39_word_no_space_8: boatfoundmodifyskullabandondrastichoneyunusual
+bip_39_word_no_space_9: boatfoundmodifyskullabandondrastichoneyunusualbundle
 bip_39_word_space_0:
 - boat
 - found

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'orphan
   visit
 
   wheel'
+bip_39_word_no_space_1: orphan
+bip_39_word_no_space_10: orphanlunarveryhardsillypelicanthemevisitwheelriot
+bip_39_word_no_space_11: orphanlunarveryhardsillypelicanthemevisitwheelriotsalmon
+bip_39_word_no_space_12: orphanlunarveryhardsillypelicanthemevisitwheelriotsalmonaddress
+bip_39_word_no_space_2: orphanlunar
+bip_39_word_no_space_3: orphanlunarvery
+bip_39_word_no_space_4: orphanlunarveryhard
+bip_39_word_no_space_5: orphanlunarveryhardsilly
+bip_39_word_no_space_6: orphanlunarveryhardsillypelican
+bip_39_word_no_space_7: orphanlunarveryhardsillypelicantheme
+bip_39_word_no_space_8: orphanlunarveryhardsillypelicanthemevisit
+bip_39_word_no_space_9: orphanlunarveryhardsillypelicanthemevisitwheel
 bip_39_word_space_0:
 - orphan
 - lunar

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'right
   rare
 
   image'
+bip_39_word_no_space_1: right
+bip_39_word_no_space_10: rightsadnessselectfluiddonoroccurnumberrareimageenemy
+bip_39_word_no_space_11: rightsadnessselectfluiddonoroccurnumberrareimageenemyexcess
+bip_39_word_no_space_12: rightsadnessselectfluiddonoroccurnumberrareimageenemyexcessantique
+bip_39_word_no_space_2: rightsadness
+bip_39_word_no_space_3: rightsadnessselect
+bip_39_word_no_space_4: rightsadnessselectfluid
+bip_39_word_no_space_5: rightsadnessselectfluiddonor
+bip_39_word_no_space_6: rightsadnessselectfluiddonoroccur
+bip_39_word_no_space_7: rightsadnessselectfluiddonoroccurnumber
+bip_39_word_no_space_8: rightsadnessselectfluiddonoroccurnumberrare
+bip_39_word_no_space_9: rightsadnessselectfluiddonoroccurnumberrareimage
 bip_39_word_space_0:
 - right
 - sadness

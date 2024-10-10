@@ -122,6 +122,18 @@ spot
 spring
 birth
 ticket |  
+| bip_39_word_no_space_1 | extra |  
+| bip_39_word_no_space_10 | extrayoungbuyerarmydonorspotspringbirthticketcatalog |  
+| bip_39_word_no_space_11 | extrayoungbuyerarmydonorspotspringbirthticketcatalogpattern |  
+| bip_39_word_no_space_12 | extrayoungbuyerarmydonorspotspringbirthticketcatalogpatternage |  
+| bip_39_word_no_space_2 | extrayoung |  
+| bip_39_word_no_space_3 | extrayoungbuyer |  
+| bip_39_word_no_space_4 | extrayoungbuyerarmy |  
+| bip_39_word_no_space_5 | extrayoungbuyerarmydonor |  
+| bip_39_word_no_space_6 | extrayoungbuyerarmydonorspot |  
+| bip_39_word_no_space_7 | extrayoungbuyerarmydonorspotspring |  
+| bip_39_word_no_space_8 | extrayoungbuyerarmydonorspotspringbirth |  
+| bip_39_word_no_space_9 | extrayoungbuyerarmydonorspotspringbirthticket |  
 | bip_39_word_space_0 | ['extra', 'young', 'buyer', 'army', 'donor', 'spot', 'spring', 'birth', 'ticket', 'catalog', 'pattern', 'age'] |  
 | bip_39_word_space_1 | extra |  
 | bip_39_word_space_10 | extra young buyer army donor spot spring birth ticket catalog |  

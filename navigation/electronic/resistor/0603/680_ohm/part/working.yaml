@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'swamp
   wool
 
   type'
+bip_39_word_no_space_1: swamp
+bip_39_word_no_space_10: swampthisfingereightonlineanglesightwooltypetonight
+bip_39_word_no_space_11: swampthisfingereightonlineanglesightwooltypetonightsymbol
+bip_39_word_no_space_12: swampthisfingereightonlineanglesightwooltypetonightsymbolability
+bip_39_word_no_space_2: swampthis
+bip_39_word_no_space_3: swampthisfinger
+bip_39_word_no_space_4: swampthisfingereight
+bip_39_word_no_space_5: swampthisfingereightonline
+bip_39_word_no_space_6: swampthisfingereightonlineangle
+bip_39_word_no_space_7: swampthisfingereightonlineanglesight
+bip_39_word_no_space_8: swampthisfingereightonlineanglesightwool
+bip_39_word_no_space_9: swampthisfingereightonlineanglesightwooltype
 bip_39_word_space_0:
 - swamp
 - this

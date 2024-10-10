@@ -122,6 +122,18 @@ imitate
 mail
 announce
 flight |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | gunnightlogicprojecttoddlerimitatemailannounceflightenrich |  
+| bip_39_word_no_space_11 | gunnightlogicprojecttoddlerimitatemailannounceflightenrichfood |  
+| bip_39_word_no_space_12 | gunnightlogicprojecttoddlerimitatemailannounceflightenrichfoodarea |  
+| bip_39_word_no_space_2 | gunnight |  
+| bip_39_word_no_space_3 | gunnightlogic |  
+| bip_39_word_no_space_4 | gunnightlogicproject |  
+| bip_39_word_no_space_5 | gunnightlogicprojecttoddler |  
+| bip_39_word_no_space_6 | gunnightlogicprojecttoddlerimitate |  
+| bip_39_word_no_space_7 | gunnightlogicprojecttoddlerimitatemail |  
+| bip_39_word_no_space_8 | gunnightlogicprojecttoddlerimitatemailannounce |  
+| bip_39_word_no_space_9 | gunnightlogicprojecttoddlerimitatemailannounceflight |  
 | bip_39_word_space_0 | ['gun', 'night', 'logic', 'project', 'toddler', 'imitate', 'mail', 'announce', 'flight', 'enrich', 'food', 'area'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun night logic project toddler imitate mail announce flight enrich |  

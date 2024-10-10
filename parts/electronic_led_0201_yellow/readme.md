@@ -122,6 +122,18 @@ token
 detect
 dizzy
 strike |  
+| bip_39_word_no_space_1 | force |  
+| bip_39_word_no_space_10 | forceschoolpropertyflagabovetokendetectdizzystrikesock |  
+| bip_39_word_no_space_11 | forceschoolpropertyflagabovetokendetectdizzystrikesockarch |  
+| bip_39_word_no_space_12 | forceschoolpropertyflagabovetokendetectdizzystrikesockarchartist |  
+| bip_39_word_no_space_2 | forceschool |  
+| bip_39_word_no_space_3 | forceschoolproperty |  
+| bip_39_word_no_space_4 | forceschoolpropertyflag |  
+| bip_39_word_no_space_5 | forceschoolpropertyflagabove |  
+| bip_39_word_no_space_6 | forceschoolpropertyflagabovetoken |  
+| bip_39_word_no_space_7 | forceschoolpropertyflagabovetokendetect |  
+| bip_39_word_no_space_8 | forceschoolpropertyflagabovetokendetectdizzy |  
+| bip_39_word_no_space_9 | forceschoolpropertyflagabovetokendetectdizzystrike |  
 | bip_39_word_space_0 | ['force', 'school', 'property', 'flag', 'above', 'token', 'detect', 'dizzy', 'strike', 'sock', 'arch', 'artist'] |  
 | bip_39_word_space_1 | force |  
 | bip_39_word_space_10 | force school property flag above token detect dizzy strike sock |  

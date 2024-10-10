@@ -122,6 +122,18 @@ mean
 wisdom
 clock
 direct |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennisflushluckyemptyuponmeanwisdomclockdirectfossil |  
+| bip_39_word_no_space_11 | tennisflushluckyemptyuponmeanwisdomclockdirectfossilbalcony |  
+| bip_39_word_no_space_12 | tennisflushluckyemptyuponmeanwisdomclockdirectfossilbalconyarch |  
+| bip_39_word_no_space_2 | tennisflush |  
+| bip_39_word_no_space_3 | tennisflushlucky |  
+| bip_39_word_no_space_4 | tennisflushluckyempty |  
+| bip_39_word_no_space_5 | tennisflushluckyemptyupon |  
+| bip_39_word_no_space_6 | tennisflushluckyemptyuponmean |  
+| bip_39_word_no_space_7 | tennisflushluckyemptyuponmeanwisdom |  
+| bip_39_word_no_space_8 | tennisflushluckyemptyuponmeanwisdomclock |  
+| bip_39_word_no_space_9 | tennisflushluckyemptyuponmeanwisdomclockdirect |  
 | bip_39_word_space_0 | ['tennis', 'flush', 'lucky', 'empty', 'upon', 'mean', 'wisdom', 'clock', 'direct', 'fossil', 'balcony', 'arch'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis flush lucky empty upon mean wisdom clock direct fossil |  

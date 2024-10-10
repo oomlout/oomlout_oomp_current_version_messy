@@ -122,6 +122,18 @@ winter
 latin
 escape
 couch |  
+| bip_39_word_no_space_1 | engine |  
+| bip_39_word_no_space_10 | engineareaqualitytonespraywinterlatinescapecouchdice |  
+| bip_39_word_no_space_11 | engineareaqualitytonespraywinterlatinescapecouchdiceleft |  
+| bip_39_word_no_space_12 | engineareaqualitytonespraywinterlatinescapecouchdiceleftaverage |  
+| bip_39_word_no_space_2 | enginearea |  
+| bip_39_word_no_space_3 | engineareaquality |  
+| bip_39_word_no_space_4 | engineareaqualitytone |  
+| bip_39_word_no_space_5 | engineareaqualitytonespray |  
+| bip_39_word_no_space_6 | engineareaqualitytonespraywinter |  
+| bip_39_word_no_space_7 | engineareaqualitytonespraywinterlatin |  
+| bip_39_word_no_space_8 | engineareaqualitytonespraywinterlatinescape |  
+| bip_39_word_no_space_9 | engineareaqualitytonespraywinterlatinescapecouch |  
 | bip_39_word_space_0 | ['engine', 'area', 'quality', 'tone', 'spray', 'winter', 'latin', 'escape', 'couch', 'dice', 'left', 'average'] |  
 | bip_39_word_space_1 | engine |  
 | bip_39_word_space_10 | engine area quality tone spray winter latin escape couch dice |  

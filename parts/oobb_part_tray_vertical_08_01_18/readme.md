@@ -122,6 +122,18 @@ wolf
 arrive
 poet
 destroy |  
+| bip_39_word_no_space_1 | pen |  
+| bip_39_word_no_space_10 | penspellenoughinhalenosewolfarrivepoetdestroyinhale |  
+| bip_39_word_no_space_11 | penspellenoughinhalenosewolfarrivepoetdestroyinhaletogether |  
+| bip_39_word_no_space_12 | penspellenoughinhalenosewolfarrivepoetdestroyinhaletogetheractress |  
+| bip_39_word_no_space_2 | penspell |  
+| bip_39_word_no_space_3 | penspellenough |  
+| bip_39_word_no_space_4 | penspellenoughinhale |  
+| bip_39_word_no_space_5 | penspellenoughinhalenose |  
+| bip_39_word_no_space_6 | penspellenoughinhalenosewolf |  
+| bip_39_word_no_space_7 | penspellenoughinhalenosewolfarrive |  
+| bip_39_word_no_space_8 | penspellenoughinhalenosewolfarrivepoet |  
+| bip_39_word_no_space_9 | penspellenoughinhalenosewolfarrivepoetdestroy |  
 | bip_39_word_space_0 | ['pen', 'spell', 'enough', 'inhale', 'nose', 'wolf', 'arrive', 'poet', 'destroy', 'inhale', 'together', 'actress'] |  
 | bip_39_word_space_1 | pen |  
 | bip_39_word_space_10 | pen spell enough inhale nose wolf arrive poet destroy inhale |  

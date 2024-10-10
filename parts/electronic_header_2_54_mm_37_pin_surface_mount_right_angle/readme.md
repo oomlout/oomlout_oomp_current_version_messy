@@ -122,6 +122,18 @@ ride
 exile
 entry
 ticket |  
+| bip_39_word_no_space_1 | deliver |  
+| bip_39_word_no_space_10 | deliverdaycategorysurroundsenserideexileentryticketindustry |  
+| bip_39_word_no_space_11 | deliverdaycategorysurroundsenserideexileentryticketindustryadvance |  
+| bip_39_word_no_space_12 | deliverdaycategorysurroundsenserideexileentryticketindustryadvancearctic |  
+| bip_39_word_no_space_2 | deliverday |  
+| bip_39_word_no_space_3 | deliverdaycategory |  
+| bip_39_word_no_space_4 | deliverdaycategorysurround |  
+| bip_39_word_no_space_5 | deliverdaycategorysurroundsense |  
+| bip_39_word_no_space_6 | deliverdaycategorysurroundsenseride |  
+| bip_39_word_no_space_7 | deliverdaycategorysurroundsenserideexile |  
+| bip_39_word_no_space_8 | deliverdaycategorysurroundsenserideexileentry |  
+| bip_39_word_no_space_9 | deliverdaycategorysurroundsenserideexileentryticket |  
 | bip_39_word_space_0 | ['deliver', 'day', 'category', 'surround', 'sense', 'ride', 'exile', 'entry', 'ticket', 'industry', 'advance', 'arctic'] |  
 | bip_39_word_space_1 | deliver |  
 | bip_39_word_space_10 | deliver day category surround sense ride exile entry ticket industry |  

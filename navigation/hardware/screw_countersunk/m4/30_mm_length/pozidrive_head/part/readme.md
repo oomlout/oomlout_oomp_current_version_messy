@@ -122,6 +122,18 @@ resemble
 eight
 vibrant
 sphere |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approvearoundbombclownpossibleresembleeightvibrantsphereduring |  
+| bip_39_word_no_space_11 | approvearoundbombclownpossibleresembleeightvibrantsphereduringevolve |  
+| bip_39_word_no_space_12 | approvearoundbombclownpossibleresembleeightvibrantsphereduringevolveannual |  
+| bip_39_word_no_space_2 | approvearound |  
+| bip_39_word_no_space_3 | approvearoundbomb |  
+| bip_39_word_no_space_4 | approvearoundbombclown |  
+| bip_39_word_no_space_5 | approvearoundbombclownpossible |  
+| bip_39_word_no_space_6 | approvearoundbombclownpossibleresemble |  
+| bip_39_word_no_space_7 | approvearoundbombclownpossibleresembleeight |  
+| bip_39_word_no_space_8 | approvearoundbombclownpossibleresembleeightvibrant |  
+| bip_39_word_no_space_9 | approvearoundbombclownpossibleresembleeightvibrantsphere |  
 | bip_39_word_space_0 | ['approve', 'around', 'bomb', 'clown', 'possible', 'resemble', 'eight', 'vibrant', 'sphere', 'during', 'evolve', 'annual'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve around bomb clown possible resemble eight vibrant sphere during |  

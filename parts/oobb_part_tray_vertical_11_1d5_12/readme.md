@@ -122,6 +122,18 @@ inmate
 loyal
 novel
 video |  
+| bip_39_word_no_space_1 | iron |  
+| bip_39_word_no_space_10 | ironnationapologycoilnetinmateloyalnovelvideodish |  
+| bip_39_word_no_space_11 | ironnationapologycoilnetinmateloyalnovelvideodishmiddle |  
+| bip_39_word_no_space_12 | ironnationapologycoilnetinmateloyalnovelvideodishmiddlearrive |  
+| bip_39_word_no_space_2 | ironnation |  
+| bip_39_word_no_space_3 | ironnationapology |  
+| bip_39_word_no_space_4 | ironnationapologycoil |  
+| bip_39_word_no_space_5 | ironnationapologycoilnet |  
+| bip_39_word_no_space_6 | ironnationapologycoilnetinmate |  
+| bip_39_word_no_space_7 | ironnationapologycoilnetinmateloyal |  
+| bip_39_word_no_space_8 | ironnationapologycoilnetinmateloyalnovel |  
+| bip_39_word_no_space_9 | ironnationapologycoilnetinmateloyalnovelvideo |  
 | bip_39_word_space_0 | ['iron', 'nation', 'apology', 'coil', 'net', 'inmate', 'loyal', 'novel', 'video', 'dish', 'middle', 'arrive'] |  
 | bip_39_word_space_1 | iron |  
 | bip_39_word_space_10 | iron nation apology coil net inmate loyal novel video dish |  

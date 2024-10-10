@@ -122,6 +122,18 @@ click
 scout
 leave
 deal |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatocarpetsloganskinpeasantclickscoutleavedealpig |  
+| bip_39_word_no_space_11 | tomatocarpetsloganskinpeasantclickscoutleavedealpigstruggle |  
+| bip_39_word_no_space_12 | tomatocarpetsloganskinpeasantclickscoutleavedealpigstruggleannounce |  
+| bip_39_word_no_space_2 | tomatocarpet |  
+| bip_39_word_no_space_3 | tomatocarpetslogan |  
+| bip_39_word_no_space_4 | tomatocarpetsloganskin |  
+| bip_39_word_no_space_5 | tomatocarpetsloganskinpeasant |  
+| bip_39_word_no_space_6 | tomatocarpetsloganskinpeasantclick |  
+| bip_39_word_no_space_7 | tomatocarpetsloganskinpeasantclickscout |  
+| bip_39_word_no_space_8 | tomatocarpetsloganskinpeasantclickscoutleave |  
+| bip_39_word_no_space_9 | tomatocarpetsloganskinpeasantclickscoutleavedeal |  
 | bip_39_word_space_0 | ['tomato', 'carpet', 'slogan', 'skin', 'peasant', 'click', 'scout', 'leave', 'deal', 'pig', 'struggle', 'announce'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato carpet slogan skin peasant click scout leave deal pig |  

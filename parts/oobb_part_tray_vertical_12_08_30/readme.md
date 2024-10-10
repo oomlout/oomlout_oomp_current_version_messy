@@ -122,6 +122,18 @@ release
 kitten
 resource
 salute |  
+| bip_39_word_no_space_1 | salt |  
+| bip_39_word_no_space_10 | saltevidencemargincanvasslenderreleasekittenresourcesalutesunset |  
+| bip_39_word_no_space_11 | saltevidencemargincanvasslenderreleasekittenresourcesalutesunsetjazz |  
+| bip_39_word_no_space_12 | saltevidencemargincanvasslenderreleasekittenresourcesalutesunsetjazzadd |  
+| bip_39_word_no_space_2 | saltevidence |  
+| bip_39_word_no_space_3 | saltevidencemargin |  
+| bip_39_word_no_space_4 | saltevidencemargincanvas |  
+| bip_39_word_no_space_5 | saltevidencemargincanvasslender |  
+| bip_39_word_no_space_6 | saltevidencemargincanvasslenderrelease |  
+| bip_39_word_no_space_7 | saltevidencemargincanvasslenderreleasekitten |  
+| bip_39_word_no_space_8 | saltevidencemargincanvasslenderreleasekittenresource |  
+| bip_39_word_no_space_9 | saltevidencemargincanvasslenderreleasekittenresourcesalute |  
 | bip_39_word_space_0 | ['salt', 'evidence', 'margin', 'canvas', 'slender', 'release', 'kitten', 'resource', 'salute', 'sunset', 'jazz', 'add'] |  
 | bip_39_word_space_1 | salt |  
 | bip_39_word_space_10 | salt evidence margin canvas slender release kitten resource salute sunset |  

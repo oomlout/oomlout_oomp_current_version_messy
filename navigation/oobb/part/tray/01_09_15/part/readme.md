@@ -122,6 +122,18 @@ endorse
 fortune
 simple
 burden |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimfeedchurnmultiplycheckendorsefortunesimpleburdenstudent |  
+| bip_39_word_no_space_11 | trimfeedchurnmultiplycheckendorsefortunesimpleburdenstudentswamp |  
+| bip_39_word_no_space_12 | trimfeedchurnmultiplycheckendorsefortunesimpleburdenstudentswampahead |  
+| bip_39_word_no_space_2 | trimfeed |  
+| bip_39_word_no_space_3 | trimfeedchurn |  
+| bip_39_word_no_space_4 | trimfeedchurnmultiply |  
+| bip_39_word_no_space_5 | trimfeedchurnmultiplycheck |  
+| bip_39_word_no_space_6 | trimfeedchurnmultiplycheckendorse |  
+| bip_39_word_no_space_7 | trimfeedchurnmultiplycheckendorsefortune |  
+| bip_39_word_no_space_8 | trimfeedchurnmultiplycheckendorsefortunesimple |  
+| bip_39_word_no_space_9 | trimfeedchurnmultiplycheckendorsefortunesimpleburden |  
 | bip_39_word_space_0 | ['trim', 'feed', 'churn', 'multiply', 'check', 'endorse', 'fortune', 'simple', 'burden', 'student', 'swamp', 'ahead'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim feed churn multiply check endorse fortune simple burden student |  

@@ -122,6 +122,18 @@ element
 spike
 minor
 heavy |  
+| bip_39_word_no_space_1 | hope |  
+| bip_39_word_no_space_10 | hopeclaimprisonveteraninheritelementspikeminorheavypush |  
+| bip_39_word_no_space_11 | hopeclaimprisonveteraninheritelementspikeminorheavypushmonth |  
+| bip_39_word_no_space_12 | hopeclaimprisonveteraninheritelementspikeminorheavypushmonthannounce |  
+| bip_39_word_no_space_2 | hopeclaim |  
+| bip_39_word_no_space_3 | hopeclaimprison |  
+| bip_39_word_no_space_4 | hopeclaimprisonveteran |  
+| bip_39_word_no_space_5 | hopeclaimprisonveteraninherit |  
+| bip_39_word_no_space_6 | hopeclaimprisonveteraninheritelement |  
+| bip_39_word_no_space_7 | hopeclaimprisonveteraninheritelementspike |  
+| bip_39_word_no_space_8 | hopeclaimprisonveteraninheritelementspikeminor |  
+| bip_39_word_no_space_9 | hopeclaimprisonveteraninheritelementspikeminorheavy |  
 | bip_39_word_space_0 | ['hope', 'claim', 'prison', 'veteran', 'inherit', 'element', 'spike', 'minor', 'heavy', 'push', 'month', 'announce'] |  
 | bip_39_word_space_1 | hope |  
 | bip_39_word_space_10 | hope claim prison veteran inherit element spike minor heavy push |  

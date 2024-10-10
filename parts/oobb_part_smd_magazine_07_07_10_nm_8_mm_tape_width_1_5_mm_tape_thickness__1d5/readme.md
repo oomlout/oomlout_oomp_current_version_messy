@@ -122,6 +122,18 @@ weapon
 flee
 turtle
 bicycle |  
+| bip_39_word_no_space_1 | eager |  
+| bip_39_word_no_space_10 | eagerfrostscrubvanishsolutionweaponfleeturtlebicycletattoo |  
+| bip_39_word_no_space_11 | eagerfrostscrubvanishsolutionweaponfleeturtlebicycletattoostamp |  
+| bip_39_word_no_space_12 | eagerfrostscrubvanishsolutionweaponfleeturtlebicycletattoostamparch |  
+| bip_39_word_no_space_2 | eagerfrost |  
+| bip_39_word_no_space_3 | eagerfrostscrub |  
+| bip_39_word_no_space_4 | eagerfrostscrubvanish |  
+| bip_39_word_no_space_5 | eagerfrostscrubvanishsolution |  
+| bip_39_word_no_space_6 | eagerfrostscrubvanishsolutionweapon |  
+| bip_39_word_no_space_7 | eagerfrostscrubvanishsolutionweaponflee |  
+| bip_39_word_no_space_8 | eagerfrostscrubvanishsolutionweaponfleeturtle |  
+| bip_39_word_no_space_9 | eagerfrostscrubvanishsolutionweaponfleeturtlebicycle |  
 | bip_39_word_space_0 | ['eager', 'frost', 'scrub', 'vanish', 'solution', 'weapon', 'flee', 'turtle', 'bicycle', 'tattoo', 'stamp', 'arch'] |  
 | bip_39_word_space_1 | eager |  
 | bip_39_word_space_10 | eager frost scrub vanish solution weapon flee turtle bicycle tattoo |  

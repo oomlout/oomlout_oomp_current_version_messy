@@ -122,6 +122,18 @@ property
 want
 kick
 edge |  
+| bip_39_word_no_space_1 | biology |  
+| bip_39_word_no_space_10 | biologyprisonjuniortogetherlemonpropertywantkickedgebundle |  
+| bip_39_word_no_space_11 | biologyprisonjuniortogetherlemonpropertywantkickedgebundlecorrect |  
+| bip_39_word_no_space_12 | biologyprisonjuniortogetherlemonpropertywantkickedgebundlecorrectabove |  
+| bip_39_word_no_space_2 | biologyprison |  
+| bip_39_word_no_space_3 | biologyprisonjunior |  
+| bip_39_word_no_space_4 | biologyprisonjuniortogether |  
+| bip_39_word_no_space_5 | biologyprisonjuniortogetherlemon |  
+| bip_39_word_no_space_6 | biologyprisonjuniortogetherlemonproperty |  
+| bip_39_word_no_space_7 | biologyprisonjuniortogetherlemonpropertywant |  
+| bip_39_word_no_space_8 | biologyprisonjuniortogetherlemonpropertywantkick |  
+| bip_39_word_no_space_9 | biologyprisonjuniortogetherlemonpropertywantkickedge |  
 | bip_39_word_space_0 | ['biology', 'prison', 'junior', 'together', 'lemon', 'property', 'want', 'kick', 'edge', 'bundle', 'correct', 'above'] |  
 | bip_39_word_space_1 | biology |  
 | bip_39_word_space_10 | biology prison junior together lemon property want kick edge bundle |  

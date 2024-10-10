@@ -122,6 +122,18 @@ infant
 slam
 copy
 emerge |  
+| bip_39_word_no_space_1 | search |  
+| bip_39_word_no_space_10 | searchchefestateincomeopposeinfantslamcopyemergecasual |  
+| bip_39_word_no_space_11 | searchchefestateincomeopposeinfantslamcopyemergecasualdirect |  
+| bip_39_word_no_space_12 | searchchefestateincomeopposeinfantslamcopyemergecasualdirectarm |  
+| bip_39_word_no_space_2 | searchchef |  
+| bip_39_word_no_space_3 | searchchefestate |  
+| bip_39_word_no_space_4 | searchchefestateincome |  
+| bip_39_word_no_space_5 | searchchefestateincomeoppose |  
+| bip_39_word_no_space_6 | searchchefestateincomeopposeinfant |  
+| bip_39_word_no_space_7 | searchchefestateincomeopposeinfantslam |  
+| bip_39_word_no_space_8 | searchchefestateincomeopposeinfantslamcopy |  
+| bip_39_word_no_space_9 | searchchefestateincomeopposeinfantslamcopyemerge |  
 | bip_39_word_space_0 | ['search', 'chef', 'estate', 'income', 'oppose', 'infant', 'slam', 'copy', 'emerge', 'casual', 'direct', 'arm'] |  
 | bip_39_word_space_1 | search |  
 | bip_39_word_space_10 | search chef estate income oppose infant slam copy emerge casual |  

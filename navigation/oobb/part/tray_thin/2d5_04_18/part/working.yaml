@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cool
   debate
 
   educate'
+bip_39_word_no_space_1: cool
+bip_39_word_no_space_10: coolprouddoublesaddlewantanchorendlessdebateeducatefiscal
+bip_39_word_no_space_11: coolprouddoublesaddlewantanchorendlessdebateeducatefiscalgrass
+bip_39_word_no_space_12: coolprouddoublesaddlewantanchorendlessdebateeducatefiscalgrassair
+bip_39_word_no_space_2: coolproud
+bip_39_word_no_space_3: coolprouddouble
+bip_39_word_no_space_4: coolprouddoublesaddle
+bip_39_word_no_space_5: coolprouddoublesaddlewant
+bip_39_word_no_space_6: coolprouddoublesaddlewantanchor
+bip_39_word_no_space_7: coolprouddoublesaddlewantanchorendless
+bip_39_word_no_space_8: coolprouddoublesaddlewantanchorendlessdebate
+bip_39_word_no_space_9: coolprouddoublesaddlewantanchorendlessdebateeducate
 bip_39_word_space_0:
 - cool
 - proud

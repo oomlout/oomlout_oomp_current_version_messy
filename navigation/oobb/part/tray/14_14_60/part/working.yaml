@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'capital
   poverty
 
   soul'
+bip_39_word_no_space_1: capital
+bip_39_word_no_space_10: capitalrainbounceauditassistpoetfindpovertysoulmultiply
+bip_39_word_no_space_11: capitalrainbounceauditassistpoetfindpovertysoulmultiplyswarm
+bip_39_word_no_space_12: capitalrainbounceauditassistpoetfindpovertysoulmultiplyswarmannounce
+bip_39_word_no_space_2: capitalrain
+bip_39_word_no_space_3: capitalrainbounce
+bip_39_word_no_space_4: capitalrainbounceaudit
+bip_39_word_no_space_5: capitalrainbounceauditassist
+bip_39_word_no_space_6: capitalrainbounceauditassistpoet
+bip_39_word_no_space_7: capitalrainbounceauditassistpoetfind
+bip_39_word_no_space_8: capitalrainbounceauditassistpoetfindpoverty
+bip_39_word_no_space_9: capitalrainbounceauditassistpoetfindpovertysoul
 bip_39_word_space_0:
 - capital
 - rain

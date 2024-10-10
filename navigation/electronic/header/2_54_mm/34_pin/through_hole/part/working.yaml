@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'submit
   student
 
   cancel'
+bip_39_word_no_space_1: submit
+bip_39_word_no_space_10: submitlegalcasualdetaildrycavefruitstudentcancelmosquito
+bip_39_word_no_space_11: submitlegalcasualdetaildrycavefruitstudentcancelmosquitosouth
+bip_39_word_no_space_12: submitlegalcasualdetaildrycavefruitstudentcancelmosquitosouthamount
+bip_39_word_no_space_2: submitlegal
+bip_39_word_no_space_3: submitlegalcasual
+bip_39_word_no_space_4: submitlegalcasualdetail
+bip_39_word_no_space_5: submitlegalcasualdetaildry
+bip_39_word_no_space_6: submitlegalcasualdetaildrycave
+bip_39_word_no_space_7: submitlegalcasualdetaildrycavefruit
+bip_39_word_no_space_8: submitlegalcasualdetaildrycavefruitstudent
+bip_39_word_no_space_9: submitlegalcasualdetaildrycavefruitstudentcancel
 bip_39_word_space_0:
 - submit
 - legal

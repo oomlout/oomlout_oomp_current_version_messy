@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spend
   rely
 
   clump'
+bip_39_word_no_space_1: spend
+bip_39_word_no_space_10: spendfieldenforcedwarfglanceprisongalaxyrelyclumpunique
+bip_39_word_no_space_11: spendfieldenforcedwarfglanceprisongalaxyrelyclumpuniqueroute
+bip_39_word_no_space_12: spendfieldenforcedwarfglanceprisongalaxyrelyclumpuniquerouteact
+bip_39_word_no_space_2: spendfield
+bip_39_word_no_space_3: spendfieldenforce
+bip_39_word_no_space_4: spendfieldenforcedwarf
+bip_39_word_no_space_5: spendfieldenforcedwarfglance
+bip_39_word_no_space_6: spendfieldenforcedwarfglanceprison
+bip_39_word_no_space_7: spendfieldenforcedwarfglanceprisongalaxy
+bip_39_word_no_space_8: spendfieldenforcedwarfglanceprisongalaxyrely
+bip_39_word_no_space_9: spendfieldenforcedwarfglanceprisongalaxyrelyclump
 bip_39_word_space_0:
 - spend
 - field

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'buffalo
   link
 
   pony'
+bip_39_word_no_space_1: buffalo
+bip_39_word_no_space_10: buffaloswarmmobilearchethicsjeansexactlinkponydwarf
+bip_39_word_no_space_11: buffaloswarmmobilearchethicsjeansexactlinkponydwarfaddress
+bip_39_word_no_space_12: buffaloswarmmobilearchethicsjeansexactlinkponydwarfaddressactor
+bip_39_word_no_space_2: buffaloswarm
+bip_39_word_no_space_3: buffaloswarmmobile
+bip_39_word_no_space_4: buffaloswarmmobilearch
+bip_39_word_no_space_5: buffaloswarmmobilearchethics
+bip_39_word_no_space_6: buffaloswarmmobilearchethicsjeans
+bip_39_word_no_space_7: buffaloswarmmobilearchethicsjeansexact
+bip_39_word_no_space_8: buffaloswarmmobilearchethicsjeansexactlink
+bip_39_word_no_space_9: buffaloswarmmobilearchethicsjeansexactlinkpony
 bip_39_word_space_0:
 - buffalo
 - swarm

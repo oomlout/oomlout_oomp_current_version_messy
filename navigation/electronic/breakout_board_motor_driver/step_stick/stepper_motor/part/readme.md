@@ -122,6 +122,18 @@ phrase
 public
 system
 cloth |  
+| bip_39_word_no_space_1 | orange |  
+| bip_39_word_no_space_10 | orangeluxurybettermiracleamusedphrasepublicsystemclothsearch |  
+| bip_39_word_no_space_11 | orangeluxurybettermiracleamusedphrasepublicsystemclothsearchpizza |  
+| bip_39_word_no_space_12 | orangeluxurybettermiracleamusedphrasepublicsystemclothsearchpizzaathlete |  
+| bip_39_word_no_space_2 | orangeluxury |  
+| bip_39_word_no_space_3 | orangeluxurybetter |  
+| bip_39_word_no_space_4 | orangeluxurybettermiracle |  
+| bip_39_word_no_space_5 | orangeluxurybettermiracleamused |  
+| bip_39_word_no_space_6 | orangeluxurybettermiracleamusedphrase |  
+| bip_39_word_no_space_7 | orangeluxurybettermiracleamusedphrasepublic |  
+| bip_39_word_no_space_8 | orangeluxurybettermiracleamusedphrasepublicsystem |  
+| bip_39_word_no_space_9 | orangeluxurybettermiracleamusedphrasepublicsystemcloth |  
 | bip_39_word_space_0 | ['orange', 'luxury', 'better', 'miracle', 'amused', 'phrase', 'public', 'system', 'cloth', 'search', 'pizza', 'athlete'] |  
 | bip_39_word_space_1 | orange |  
 | bip_39_word_space_10 | orange luxury better miracle amused phrase public system cloth search |  

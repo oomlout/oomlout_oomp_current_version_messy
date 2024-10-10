@@ -122,6 +122,18 @@ minute
 govern
 guilt
 symbol |  
+| bip_39_word_no_space_1 | forward |  
+| bip_39_word_no_space_10 | forwardgreenrobottentfebruaryminutegovernguiltsymbolfinish |  
+| bip_39_word_no_space_11 | forwardgreenrobottentfebruaryminutegovernguiltsymbolfinishfoam |  
+| bip_39_word_no_space_12 | forwardgreenrobottentfebruaryminutegovernguiltsymbolfinishfoamagent |  
+| bip_39_word_no_space_2 | forwardgreen |  
+| bip_39_word_no_space_3 | forwardgreenrobot |  
+| bip_39_word_no_space_4 | forwardgreenrobottent |  
+| bip_39_word_no_space_5 | forwardgreenrobottentfebruary |  
+| bip_39_word_no_space_6 | forwardgreenrobottentfebruaryminute |  
+| bip_39_word_no_space_7 | forwardgreenrobottentfebruaryminutegovern |  
+| bip_39_word_no_space_8 | forwardgreenrobottentfebruaryminutegovernguilt |  
+| bip_39_word_no_space_9 | forwardgreenrobottentfebruaryminutegovernguiltsymbol |  
 | bip_39_word_space_0 | ['forward', 'green', 'robot', 'tent', 'february', 'minute', 'govern', 'guilt', 'symbol', 'finish', 'foam', 'agent'] |  
 | bip_39_word_space_1 | forward |  
 | bip_39_word_space_10 | forward green robot tent february minute govern guilt symbol finish |  

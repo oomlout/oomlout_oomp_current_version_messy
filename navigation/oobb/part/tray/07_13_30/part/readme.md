@@ -122,6 +122,18 @@ alley
 mystery
 camera
 guess |  
+| bip_39_word_no_space_1 | shine |  
+| bip_39_word_no_space_10 | shineeffortequipbravewidthalleymysterycameraguesstask |  
+| bip_39_word_no_space_11 | shineeffortequipbravewidthalleymysterycameraguesstaskvoyage |  
+| bip_39_word_no_space_12 | shineeffortequipbravewidthalleymysterycameraguesstaskvoyageactual |  
+| bip_39_word_no_space_2 | shineeffort |  
+| bip_39_word_no_space_3 | shineeffortequip |  
+| bip_39_word_no_space_4 | shineeffortequipbrave |  
+| bip_39_word_no_space_5 | shineeffortequipbravewidth |  
+| bip_39_word_no_space_6 | shineeffortequipbravewidthalley |  
+| bip_39_word_no_space_7 | shineeffortequipbravewidthalleymystery |  
+| bip_39_word_no_space_8 | shineeffortequipbravewidthalleymysterycamera |  
+| bip_39_word_no_space_9 | shineeffortequipbravewidthalleymysterycameraguess |  
 | bip_39_word_space_0 | ['shine', 'effort', 'equip', 'brave', 'width', 'alley', 'mystery', 'camera', 'guess', 'task', 'voyage', 'actual'] |  
 | bip_39_word_space_1 | shine |  
 | bip_39_word_space_10 | shine effort equip brave width alley mystery camera guess task |  

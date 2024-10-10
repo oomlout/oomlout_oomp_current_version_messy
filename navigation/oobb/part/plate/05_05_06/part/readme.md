@@ -122,6 +122,18 @@ rabbit
 already
 reopen
 coach |  
+| bip_39_word_no_space_1 | session |  
+| bip_39_word_no_space_10 | sessionquizbrushfitnesstryrabbitalreadyreopencoachdust |  
+| bip_39_word_no_space_11 | sessionquizbrushfitnesstryrabbitalreadyreopencoachdustpass |  
+| bip_39_word_no_space_12 | sessionquizbrushfitnesstryrabbitalreadyreopencoachdustpassahead |  
+| bip_39_word_no_space_2 | sessionquiz |  
+| bip_39_word_no_space_3 | sessionquizbrush |  
+| bip_39_word_no_space_4 | sessionquizbrushfitness |  
+| bip_39_word_no_space_5 | sessionquizbrushfitnesstry |  
+| bip_39_word_no_space_6 | sessionquizbrushfitnesstryrabbit |  
+| bip_39_word_no_space_7 | sessionquizbrushfitnesstryrabbitalready |  
+| bip_39_word_no_space_8 | sessionquizbrushfitnesstryrabbitalreadyreopen |  
+| bip_39_word_no_space_9 | sessionquizbrushfitnesstryrabbitalreadyreopencoach |  
 | bip_39_word_space_0 | ['session', 'quiz', 'brush', 'fitness', 'try', 'rabbit', 'already', 'reopen', 'coach', 'dust', 'pass', 'ahead'] |  
 | bip_39_word_space_1 | session |  
 | bip_39_word_space_10 | session quiz brush fitness try rabbit already reopen coach dust |  

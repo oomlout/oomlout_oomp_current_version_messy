@@ -122,6 +122,18 @@ slice
 spread
 wave
 vibrant |  
+| bip_39_word_no_space_1 | ring |  
+| bip_39_word_no_space_10 | ringoutdoorswallowwideclientslicespreadwavevibrantwood |  
+| bip_39_word_no_space_11 | ringoutdoorswallowwideclientslicespreadwavevibrantwoodangle |  
+| bip_39_word_no_space_12 | ringoutdoorswallowwideclientslicespreadwavevibrantwoodangleagent |  
+| bip_39_word_no_space_2 | ringoutdoor |  
+| bip_39_word_no_space_3 | ringoutdoorswallow |  
+| bip_39_word_no_space_4 | ringoutdoorswallowwide |  
+| bip_39_word_no_space_5 | ringoutdoorswallowwideclient |  
+| bip_39_word_no_space_6 | ringoutdoorswallowwideclientslice |  
+| bip_39_word_no_space_7 | ringoutdoorswallowwideclientslicespread |  
+| bip_39_word_no_space_8 | ringoutdoorswallowwideclientslicespreadwave |  
+| bip_39_word_no_space_9 | ringoutdoorswallowwideclientslicespreadwavevibrant |  
 | bip_39_word_space_0 | ['ring', 'outdoor', 'swallow', 'wide', 'client', 'slice', 'spread', 'wave', 'vibrant', 'wood', 'angle', 'agent'] |  
 | bip_39_word_space_1 | ring |  
 | bip_39_word_space_10 | ring outdoor swallow wide client slice spread wave vibrant wood |  

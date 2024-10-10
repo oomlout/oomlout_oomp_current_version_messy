@@ -122,6 +122,18 @@ bone
 together
 old
 liquid |  
+| bip_39_word_no_space_1 | radio |  
+| bip_39_word_no_space_10 | radiorandomletterwebpracticebonetogetheroldliquidhood |  
+| bip_39_word_no_space_11 | radiorandomletterwebpracticebonetogetheroldliquidhoodsun |  
+| bip_39_word_no_space_12 | radiorandomletterwebpracticebonetogetheroldliquidhoodsunalready |  
+| bip_39_word_no_space_2 | radiorandom |  
+| bip_39_word_no_space_3 | radiorandomletter |  
+| bip_39_word_no_space_4 | radiorandomletterweb |  
+| bip_39_word_no_space_5 | radiorandomletterwebpractice |  
+| bip_39_word_no_space_6 | radiorandomletterwebpracticebone |  
+| bip_39_word_no_space_7 | radiorandomletterwebpracticebonetogether |  
+| bip_39_word_no_space_8 | radiorandomletterwebpracticebonetogetherold |  
+| bip_39_word_no_space_9 | radiorandomletterwebpracticebonetogetheroldliquid |  
 | bip_39_word_space_0 | ['radio', 'random', 'letter', 'web', 'practice', 'bone', 'together', 'old', 'liquid', 'hood', 'sun', 'already'] |  
 | bip_39_word_space_1 | radio |  
 | bip_39_word_space_10 | radio random letter web practice bone together old liquid hood |  

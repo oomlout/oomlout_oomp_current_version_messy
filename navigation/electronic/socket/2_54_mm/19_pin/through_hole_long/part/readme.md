@@ -122,6 +122,18 @@ mosquito
 father
 sense
 entry |  
+| bip_39_word_no_space_1 | cheap |  
+| bip_39_word_no_space_10 | cheapacousticsimilarreplacefantasymosquitofathersenseentrylobster |  
+| bip_39_word_no_space_11 | cheapacousticsimilarreplacefantasymosquitofathersenseentrylobstertornado |  
+| bip_39_word_no_space_12 | cheapacousticsimilarreplacefantasymosquitofathersenseentrylobstertornadoanalyst |  
+| bip_39_word_no_space_2 | cheapacoustic |  
+| bip_39_word_no_space_3 | cheapacousticsimilar |  
+| bip_39_word_no_space_4 | cheapacousticsimilarreplace |  
+| bip_39_word_no_space_5 | cheapacousticsimilarreplacefantasy |  
+| bip_39_word_no_space_6 | cheapacousticsimilarreplacefantasymosquito |  
+| bip_39_word_no_space_7 | cheapacousticsimilarreplacefantasymosquitofather |  
+| bip_39_word_no_space_8 | cheapacousticsimilarreplacefantasymosquitofathersense |  
+| bip_39_word_no_space_9 | cheapacousticsimilarreplacefantasymosquitofathersenseentry |  
 | bip_39_word_space_0 | ['cheap', 'acoustic', 'similar', 'replace', 'fantasy', 'mosquito', 'father', 'sense', 'entry', 'lobster', 'tornado', 'analyst'] |  
 | bip_39_word_space_1 | cheap |  
 | bip_39_word_space_10 | cheap acoustic similar replace fantasy mosquito father sense entry lobster |  

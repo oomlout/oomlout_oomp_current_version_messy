@@ -122,6 +122,18 @@ gather
 lawsuit
 express
 mom |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | sampleassaultvariousdadcrushgatherlawsuitexpressmombacon |  
+| bip_39_word_no_space_11 | sampleassaultvariousdadcrushgatherlawsuitexpressmombaconempty |  
+| bip_39_word_no_space_12 | sampleassaultvariousdadcrushgatherlawsuitexpressmombaconemptyattract |  
+| bip_39_word_no_space_2 | sampleassault |  
+| bip_39_word_no_space_3 | sampleassaultvarious |  
+| bip_39_word_no_space_4 | sampleassaultvariousdad |  
+| bip_39_word_no_space_5 | sampleassaultvariousdadcrush |  
+| bip_39_word_no_space_6 | sampleassaultvariousdadcrushgather |  
+| bip_39_word_no_space_7 | sampleassaultvariousdadcrushgatherlawsuit |  
+| bip_39_word_no_space_8 | sampleassaultvariousdadcrushgatherlawsuitexpress |  
+| bip_39_word_no_space_9 | sampleassaultvariousdadcrushgatherlawsuitexpressmom |  
 | bip_39_word_space_0 | ['sample', 'assault', 'various', 'dad', 'crush', 'gather', 'lawsuit', 'express', 'mom', 'bacon', 'empty', 'attract'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample assault various dad crush gather lawsuit express mom bacon |  

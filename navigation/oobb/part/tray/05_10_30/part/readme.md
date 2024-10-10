@@ -122,6 +122,18 @@ survey
 false
 kid
 pause |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipgardentensaladgamesurveyfalsekidpauseroyal |  
+| bip_39_word_no_space_11 | clipgardentensaladgamesurveyfalsekidpauseroyalelephant |  
+| bip_39_word_no_space_12 | clipgardentensaladgamesurveyfalsekidpauseroyalelephantauthor |  
+| bip_39_word_no_space_2 | clipgarden |  
+| bip_39_word_no_space_3 | clipgardenten |  
+| bip_39_word_no_space_4 | clipgardentensalad |  
+| bip_39_word_no_space_5 | clipgardentensaladgame |  
+| bip_39_word_no_space_6 | clipgardentensaladgamesurvey |  
+| bip_39_word_no_space_7 | clipgardentensaladgamesurveyfalse |  
+| bip_39_word_no_space_8 | clipgardentensaladgamesurveyfalsekid |  
+| bip_39_word_no_space_9 | clipgardentensaladgamesurveyfalsekidpause |  
 | bip_39_word_space_0 | ['clip', 'garden', 'ten', 'salad', 'game', 'survey', 'false', 'kid', 'pause', 'royal', 'elephant', 'author'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip garden ten salad game survey false kid pause royal |  

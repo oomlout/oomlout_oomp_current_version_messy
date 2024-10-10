@@ -122,6 +122,18 @@ trim
 donkey
 race
 present |  
+| bip_39_word_no_space_1 | motion |  
+| bip_39_word_no_space_10 | motiondramamoondestroyseventrimdonkeyracepresentround |  
+| bip_39_word_no_space_11 | motiondramamoondestroyseventrimdonkeyracepresentroundradar |  
+| bip_39_word_no_space_12 | motiondramamoondestroyseventrimdonkeyracepresentroundradararound |  
+| bip_39_word_no_space_2 | motiondrama |  
+| bip_39_word_no_space_3 | motiondramamoon |  
+| bip_39_word_no_space_4 | motiondramamoondestroy |  
+| bip_39_word_no_space_5 | motiondramamoondestroyseven |  
+| bip_39_word_no_space_6 | motiondramamoondestroyseventrim |  
+| bip_39_word_no_space_7 | motiondramamoondestroyseventrimdonkey |  
+| bip_39_word_no_space_8 | motiondramamoondestroyseventrimdonkeyrace |  
+| bip_39_word_no_space_9 | motiondramamoondestroyseventrimdonkeyracepresent |  
 | bip_39_word_space_0 | ['motion', 'drama', 'moon', 'destroy', 'seven', 'trim', 'donkey', 'race', 'present', 'round', 'radar', 'around'] |  
 | bip_39_word_space_1 | motion |  
 | bip_39_word_space_10 | motion drama moon destroy seven trim donkey race present round |  

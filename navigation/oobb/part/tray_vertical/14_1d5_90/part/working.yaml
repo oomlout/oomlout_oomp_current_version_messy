@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'step
   similar
 
   zero'
+bip_39_word_no_space_1: step
+bip_39_word_no_space_10: stepfoilcorrectwhererooftextmarblesimilarzeroguide
+bip_39_word_no_space_11: stepfoilcorrectwhererooftextmarblesimilarzeroguideearly
+bip_39_word_no_space_12: stepfoilcorrectwhererooftextmarblesimilarzeroguideearlyauction
+bip_39_word_no_space_2: stepfoil
+bip_39_word_no_space_3: stepfoilcorrect
+bip_39_word_no_space_4: stepfoilcorrectwhere
+bip_39_word_no_space_5: stepfoilcorrectwhereroof
+bip_39_word_no_space_6: stepfoilcorrectwhererooftext
+bip_39_word_no_space_7: stepfoilcorrectwhererooftextmarble
+bip_39_word_no_space_8: stepfoilcorrectwhererooftextmarblesimilar
+bip_39_word_no_space_9: stepfoilcorrectwhererooftextmarblesimilarzero
 bip_39_word_space_0:
 - step
 - foil

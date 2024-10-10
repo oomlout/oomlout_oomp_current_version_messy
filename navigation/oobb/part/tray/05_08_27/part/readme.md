@@ -122,6 +122,18 @@ jacket
 crew
 educate
 fix |  
+| bip_39_word_no_space_1 | combine |  
+| bip_39_word_no_space_10 | combinecementlessontentcategoryjacketcreweducatefixretire |  
+| bip_39_word_no_space_11 | combinecementlessontentcategoryjacketcreweducatefixretirelock |  
+| bip_39_word_no_space_12 | combinecementlessontentcategoryjacketcreweducatefixretirelockaccount |  
+| bip_39_word_no_space_2 | combinecement |  
+| bip_39_word_no_space_3 | combinecementlesson |  
+| bip_39_word_no_space_4 | combinecementlessontent |  
+| bip_39_word_no_space_5 | combinecementlessontentcategory |  
+| bip_39_word_no_space_6 | combinecementlessontentcategoryjacket |  
+| bip_39_word_no_space_7 | combinecementlessontentcategoryjacketcrew |  
+| bip_39_word_no_space_8 | combinecementlessontentcategoryjacketcreweducate |  
+| bip_39_word_no_space_9 | combinecementlessontentcategoryjacketcreweducatefix |  
 | bip_39_word_space_0 | ['combine', 'cement', 'lesson', 'tent', 'category', 'jacket', 'crew', 'educate', 'fix', 'retire', 'lock', 'account'] |  
 | bip_39_word_space_1 | combine |  
 | bip_39_word_space_10 | combine cement lesson tent category jacket crew educate fix retire |  

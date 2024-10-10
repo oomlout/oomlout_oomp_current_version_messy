@@ -122,6 +122,18 @@ bar
 pepper
 gain
 charge |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approvemaskinsidespidersoulbarpeppergainchargerecall |  
+| bip_39_word_no_space_11 | approvemaskinsidespidersoulbarpeppergainchargerecallbeyond |  
+| bip_39_word_no_space_12 | approvemaskinsidespidersoulbarpeppergainchargerecallbeyondadapt |  
+| bip_39_word_no_space_2 | approvemask |  
+| bip_39_word_no_space_3 | approvemaskinside |  
+| bip_39_word_no_space_4 | approvemaskinsidespider |  
+| bip_39_word_no_space_5 | approvemaskinsidespidersoul |  
+| bip_39_word_no_space_6 | approvemaskinsidespidersoulbar |  
+| bip_39_word_no_space_7 | approvemaskinsidespidersoulbarpepper |  
+| bip_39_word_no_space_8 | approvemaskinsidespidersoulbarpeppergain |  
+| bip_39_word_no_space_9 | approvemaskinsidespidersoulbarpeppergaincharge |  
 | bip_39_word_space_0 | ['approve', 'mask', 'inside', 'spider', 'soul', 'bar', 'pepper', 'gain', 'charge', 'recall', 'beyond', 'adapt'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve mask inside spider soul bar pepper gain charge recall |  

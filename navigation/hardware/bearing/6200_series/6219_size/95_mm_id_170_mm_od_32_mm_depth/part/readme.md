@@ -122,6 +122,18 @@ half
 wrestle
 own
 occur |  
+| bip_39_word_no_space_1 | squirrel |  
+| bip_39_word_no_space_10 | squirrelluxurybookchaosfuelhalfwrestleownoccurcute |  
+| bip_39_word_no_space_11 | squirrelluxurybookchaosfuelhalfwrestleownoccurcuteguilt |  
+| bip_39_word_no_space_12 | squirrelluxurybookchaosfuelhalfwrestleownoccurcuteguiltauto |  
+| bip_39_word_no_space_2 | squirrelluxury |  
+| bip_39_word_no_space_3 | squirrelluxurybook |  
+| bip_39_word_no_space_4 | squirrelluxurybookchaos |  
+| bip_39_word_no_space_5 | squirrelluxurybookchaosfuel |  
+| bip_39_word_no_space_6 | squirrelluxurybookchaosfuelhalf |  
+| bip_39_word_no_space_7 | squirrelluxurybookchaosfuelhalfwrestle |  
+| bip_39_word_no_space_8 | squirrelluxurybookchaosfuelhalfwrestleown |  
+| bip_39_word_no_space_9 | squirrelluxurybookchaosfuelhalfwrestleownoccur |  
 | bip_39_word_space_0 | ['squirrel', 'luxury', 'book', 'chaos', 'fuel', 'half', 'wrestle', 'own', 'occur', 'cute', 'guilt', 'auto'] |  
 | bip_39_word_space_1 | squirrel |  
 | bip_39_word_space_10 | squirrel luxury book chaos fuel half wrestle own occur cute |  

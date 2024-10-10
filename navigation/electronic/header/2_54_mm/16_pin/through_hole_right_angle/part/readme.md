@@ -122,6 +122,18 @@ bread
 issue
 basket
 awkward |  
+| bip_39_word_no_space_1 | dinosaur |  
+| bip_39_word_no_space_10 | dinosaurpanicscrapfemalelunarbreadissuebasketawkwardmuseum |  
+| bip_39_word_no_space_11 | dinosaurpanicscrapfemalelunarbreadissuebasketawkwardmuseumwild |  
+| bip_39_word_no_space_12 | dinosaurpanicscrapfemalelunarbreadissuebasketawkwardmuseumwildavocado |  
+| bip_39_word_no_space_2 | dinosaurpanic |  
+| bip_39_word_no_space_3 | dinosaurpanicscrap |  
+| bip_39_word_no_space_4 | dinosaurpanicscrapfemale |  
+| bip_39_word_no_space_5 | dinosaurpanicscrapfemalelunar |  
+| bip_39_word_no_space_6 | dinosaurpanicscrapfemalelunarbread |  
+| bip_39_word_no_space_7 | dinosaurpanicscrapfemalelunarbreadissue |  
+| bip_39_word_no_space_8 | dinosaurpanicscrapfemalelunarbreadissuebasket |  
+| bip_39_word_no_space_9 | dinosaurpanicscrapfemalelunarbreadissuebasketawkward |  
 | bip_39_word_space_0 | ['dinosaur', 'panic', 'scrap', 'female', 'lunar', 'bread', 'issue', 'basket', 'awkward', 'museum', 'wild', 'avocado'] |  
 | bip_39_word_space_1 | dinosaur |  
 | bip_39_word_space_10 | dinosaur panic scrap female lunar bread issue basket awkward museum |  

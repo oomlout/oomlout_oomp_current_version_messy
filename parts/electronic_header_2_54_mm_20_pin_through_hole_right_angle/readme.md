@@ -122,6 +122,18 @@ depart
 eagle
 patient
 antique |  
+| bip_39_word_no_space_1 | advance |  
+| bip_39_word_no_space_10 | advancefieldneutralflavorclogdeparteaglepatientantiqueupset |  
+| bip_39_word_no_space_11 | advancefieldneutralflavorclogdeparteaglepatientantiqueupsetcasino |  
+| bip_39_word_no_space_12 | advancefieldneutralflavorclogdeparteaglepatientantiqueupsetcasinoarmy |  
+| bip_39_word_no_space_2 | advancefield |  
+| bip_39_word_no_space_3 | advancefieldneutral |  
+| bip_39_word_no_space_4 | advancefieldneutralflavor |  
+| bip_39_word_no_space_5 | advancefieldneutralflavorclog |  
+| bip_39_word_no_space_6 | advancefieldneutralflavorclogdepart |  
+| bip_39_word_no_space_7 | advancefieldneutralflavorclogdeparteagle |  
+| bip_39_word_no_space_8 | advancefieldneutralflavorclogdeparteaglepatient |  
+| bip_39_word_no_space_9 | advancefieldneutralflavorclogdeparteaglepatientantique |  
 | bip_39_word_space_0 | ['advance', 'field', 'neutral', 'flavor', 'clog', 'depart', 'eagle', 'patient', 'antique', 'upset', 'casino', 'army'] |  
 | bip_39_word_space_1 | advance |  
 | bip_39_word_space_10 | advance field neutral flavor clog depart eagle patient antique upset |  

@@ -122,6 +122,18 @@ eight
 reform
 expect
 blood |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchtriggerpassoperasliceeightreformexpectbloodnasty |  
+| bip_39_word_no_space_11 | matchtriggerpassoperasliceeightreformexpectbloodnastykingdom |  
+| bip_39_word_no_space_12 | matchtriggerpassoperasliceeightreformexpectbloodnastykingdomalien |  
+| bip_39_word_no_space_2 | matchtrigger |  
+| bip_39_word_no_space_3 | matchtriggerpass |  
+| bip_39_word_no_space_4 | matchtriggerpassopera |  
+| bip_39_word_no_space_5 | matchtriggerpassoperaslice |  
+| bip_39_word_no_space_6 | matchtriggerpassoperasliceeight |  
+| bip_39_word_no_space_7 | matchtriggerpassoperasliceeightreform |  
+| bip_39_word_no_space_8 | matchtriggerpassoperasliceeightreformexpect |  
+| bip_39_word_no_space_9 | matchtriggerpassoperasliceeightreformexpectblood |  
 | bip_39_word_space_0 | ['match', 'trigger', 'pass', 'opera', 'slice', 'eight', 'reform', 'expect', 'blood', 'nasty', 'kingdom', 'alien'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match trigger pass opera slice eight reform expect blood nasty |  

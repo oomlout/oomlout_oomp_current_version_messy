@@ -122,6 +122,18 @@ client
 fame
 cat
 indoor |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessarrowbriefmasterclerkclientfamecatindoormerge |  
+| bip_39_word_no_space_11 | fitnessarrowbriefmasterclerkclientfamecatindoormergesoda |  
+| bip_39_word_no_space_12 | fitnessarrowbriefmasterclerkclientfamecatindoormergesodaarrow |  
+| bip_39_word_no_space_2 | fitnessarrow |  
+| bip_39_word_no_space_3 | fitnessarrowbrief |  
+| bip_39_word_no_space_4 | fitnessarrowbriefmaster |  
+| bip_39_word_no_space_5 | fitnessarrowbriefmasterclerk |  
+| bip_39_word_no_space_6 | fitnessarrowbriefmasterclerkclient |  
+| bip_39_word_no_space_7 | fitnessarrowbriefmasterclerkclientfame |  
+| bip_39_word_no_space_8 | fitnessarrowbriefmasterclerkclientfamecat |  
+| bip_39_word_no_space_9 | fitnessarrowbriefmasterclerkclientfamecatindoor |  
 | bip_39_word_space_0 | ['fitness', 'arrow', 'brief', 'master', 'clerk', 'client', 'fame', 'cat', 'indoor', 'merge', 'soda', 'arrow'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness arrow brief master clerk client fame cat indoor merge |  

@@ -122,6 +122,18 @@ faint
 conduct
 puppy
 alarm |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallymixbordersafeignorefaintconductpuppyalarmpoem |  
+| bip_39_word_no_space_11 | rallymixbordersafeignorefaintconductpuppyalarmpoemnephew |  
+| bip_39_word_no_space_12 | rallymixbordersafeignorefaintconductpuppyalarmpoemnephewairport |  
+| bip_39_word_no_space_2 | rallymix |  
+| bip_39_word_no_space_3 | rallymixborder |  
+| bip_39_word_no_space_4 | rallymixbordersafe |  
+| bip_39_word_no_space_5 | rallymixbordersafeignore |  
+| bip_39_word_no_space_6 | rallymixbordersafeignorefaint |  
+| bip_39_word_no_space_7 | rallymixbordersafeignorefaintconduct |  
+| bip_39_word_no_space_8 | rallymixbordersafeignorefaintconductpuppy |  
+| bip_39_word_no_space_9 | rallymixbordersafeignorefaintconductpuppyalarm |  
 | bip_39_word_space_0 | ['rally', 'mix', 'border', 'safe', 'ignore', 'faint', 'conduct', 'puppy', 'alarm', 'poem', 'nephew', 'airport'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally mix border safe ignore faint conduct puppy alarm poem |  

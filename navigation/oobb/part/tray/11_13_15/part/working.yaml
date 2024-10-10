@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mean
   inhale
 
   skate'
+bip_39_word_no_space_1: mean
+bip_39_word_no_space_10: meanbabymanwrapfleeleaverigidinhaleskatepipe
+bip_39_word_no_space_11: meanbabymanwrapfleeleaverigidinhaleskatepipehour
+bip_39_word_no_space_12: meanbabymanwrapfleeleaverigidinhaleskatepipehourarena
+bip_39_word_no_space_2: meanbaby
+bip_39_word_no_space_3: meanbabyman
+bip_39_word_no_space_4: meanbabymanwrap
+bip_39_word_no_space_5: meanbabymanwrapflee
+bip_39_word_no_space_6: meanbabymanwrapfleeleave
+bip_39_word_no_space_7: meanbabymanwrapfleeleaverigid
+bip_39_word_no_space_8: meanbabymanwrapfleeleaverigidinhale
+bip_39_word_no_space_9: meanbabymanwrapfleeleaverigidinhaleskate
 bip_39_word_space_0:
 - mean
 - baby

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rigid
   arrest
 
   useful'
+bip_39_word_no_space_1: rigid
+bip_39_word_no_space_10: rigidsuitlenssmalltoppleabledevicearrestusefuluseful
+bip_39_word_no_space_11: rigidsuitlenssmalltoppleabledevicearrestusefulusefulspeak
+bip_39_word_no_space_12: rigidsuitlenssmalltoppleabledevicearrestusefulusefulspeakadmit
+bip_39_word_no_space_2: rigidsuit
+bip_39_word_no_space_3: rigidsuitlens
+bip_39_word_no_space_4: rigidsuitlenssmall
+bip_39_word_no_space_5: rigidsuitlenssmalltopple
+bip_39_word_no_space_6: rigidsuitlenssmalltoppleable
+bip_39_word_no_space_7: rigidsuitlenssmalltoppleabledevice
+bip_39_word_no_space_8: rigidsuitlenssmalltoppleabledevicearrest
+bip_39_word_no_space_9: rigidsuitlenssmalltoppleabledevicearrestuseful
 bip_39_word_space_0:
 - rigid
 - suit

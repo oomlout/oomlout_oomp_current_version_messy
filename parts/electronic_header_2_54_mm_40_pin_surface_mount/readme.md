@@ -122,6 +122,18 @@ more
 art
 tail
 stumble |  
+| bip_39_word_no_space_1 | critic |  
+| bip_39_word_no_space_10 | criticmidnightwagonenrollpianomorearttailstumbleillegal |  
+| bip_39_word_no_space_11 | criticmidnightwagonenrollpianomorearttailstumbleillegalwheat |  
+| bip_39_word_no_space_12 | criticmidnightwagonenrollpianomorearttailstumbleillegalwheataccuse |  
+| bip_39_word_no_space_2 | criticmidnight |  
+| bip_39_word_no_space_3 | criticmidnightwagon |  
+| bip_39_word_no_space_4 | criticmidnightwagonenroll |  
+| bip_39_word_no_space_5 | criticmidnightwagonenrollpiano |  
+| bip_39_word_no_space_6 | criticmidnightwagonenrollpianomore |  
+| bip_39_word_no_space_7 | criticmidnightwagonenrollpianomoreart |  
+| bip_39_word_no_space_8 | criticmidnightwagonenrollpianomorearttail |  
+| bip_39_word_no_space_9 | criticmidnightwagonenrollpianomorearttailstumble |  
 | bip_39_word_space_0 | ['critic', 'midnight', 'wagon', 'enroll', 'piano', 'more', 'art', 'tail', 'stumble', 'illegal', 'wheat', 'accuse'] |  
 | bip_39_word_space_1 | critic |  
 | bip_39_word_space_10 | critic midnight wagon enroll piano more art tail stumble illegal |  

@@ -122,6 +122,18 @@ over
 donkey
 deposit
 tortoise |  
+| bip_39_word_no_space_1 | excuse |  
+| bip_39_word_no_space_10 | excusewrestlegloryordinaryweirdoverdonkeydeposittortoisechoose |  
+| bip_39_word_no_space_11 | excusewrestlegloryordinaryweirdoverdonkeydeposittortoisechoosewealth |  
+| bip_39_word_no_space_12 | excusewrestlegloryordinaryweirdoverdonkeydeposittortoisechoosewealthankle |  
+| bip_39_word_no_space_2 | excusewrestle |  
+| bip_39_word_no_space_3 | excusewrestleglory |  
+| bip_39_word_no_space_4 | excusewrestlegloryordinary |  
+| bip_39_word_no_space_5 | excusewrestlegloryordinaryweird |  
+| bip_39_word_no_space_6 | excusewrestlegloryordinaryweirdover |  
+| bip_39_word_no_space_7 | excusewrestlegloryordinaryweirdoverdonkey |  
+| bip_39_word_no_space_8 | excusewrestlegloryordinaryweirdoverdonkeydeposit |  
+| bip_39_word_no_space_9 | excusewrestlegloryordinaryweirdoverdonkeydeposittortoise |  
 | bip_39_word_space_0 | ['excuse', 'wrestle', 'glory', 'ordinary', 'weird', 'over', 'donkey', 'deposit', 'tortoise', 'choose', 'wealth', 'ankle'] |  
 | bip_39_word_space_1 | excuse |  
 | bip_39_word_space_10 | excuse wrestle glory ordinary weird over donkey deposit tortoise choose |  

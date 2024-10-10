@@ -122,6 +122,18 @@ atom
 between
 moon
 trip |  
+| bip_39_word_no_space_1 | forget |  
+| bip_39_word_no_space_10 | forgetdiseasetipnumbercrossatombetweenmoontripactual |  
+| bip_39_word_no_space_11 | forgetdiseasetipnumbercrossatombetweenmoontripactualchange |  
+| bip_39_word_no_space_12 | forgetdiseasetipnumbercrossatombetweenmoontripactualchangeauto |  
+| bip_39_word_no_space_2 | forgetdisease |  
+| bip_39_word_no_space_3 | forgetdiseasetip |  
+| bip_39_word_no_space_4 | forgetdiseasetipnumber |  
+| bip_39_word_no_space_5 | forgetdiseasetipnumbercross |  
+| bip_39_word_no_space_6 | forgetdiseasetipnumbercrossatom |  
+| bip_39_word_no_space_7 | forgetdiseasetipnumbercrossatombetween |  
+| bip_39_word_no_space_8 | forgetdiseasetipnumbercrossatombetweenmoon |  
+| bip_39_word_no_space_9 | forgetdiseasetipnumbercrossatombetweenmoontrip |  
 | bip_39_word_space_0 | ['forget', 'disease', 'tip', 'number', 'cross', 'atom', 'between', 'moon', 'trip', 'actual', 'change', 'auto'] |  
 | bip_39_word_space_1 | forget |  
 | bip_39_word_space_10 | forget disease tip number cross atom between moon trip actual |  

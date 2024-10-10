@@ -122,6 +122,18 @@ stand
 record
 cable
 pioneer |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directsubwayzoneusageforkstandrecordcablepioneeridea |  
+| bip_39_word_no_space_11 | directsubwayzoneusageforkstandrecordcablepioneerideachronic |  
+| bip_39_word_no_space_12 | directsubwayzoneusageforkstandrecordcablepioneerideachronicaccuse |  
+| bip_39_word_no_space_2 | directsubway |  
+| bip_39_word_no_space_3 | directsubwayzone |  
+| bip_39_word_no_space_4 | directsubwayzoneusage |  
+| bip_39_word_no_space_5 | directsubwayzoneusagefork |  
+| bip_39_word_no_space_6 | directsubwayzoneusageforkstand |  
+| bip_39_word_no_space_7 | directsubwayzoneusageforkstandrecord |  
+| bip_39_word_no_space_8 | directsubwayzoneusageforkstandrecordcable |  
+| bip_39_word_no_space_9 | directsubwayzoneusageforkstandrecordcablepioneer |  
 | bip_39_word_space_0 | ['direct', 'subway', 'zone', 'usage', 'fork', 'stand', 'record', 'cable', 'pioneer', 'idea', 'chronic', 'accuse'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct subway zone usage fork stand record cable pioneer idea |  

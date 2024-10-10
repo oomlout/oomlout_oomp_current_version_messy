@@ -122,6 +122,18 @@ monitor
 credit
 news
 amount |  
+| bip_39_word_no_space_1 | fatal |  
+| bip_39_word_no_space_10 | fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronic |  
+| bip_39_word_no_space_11 | fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronicexplain |  
+| bip_39_word_no_space_12 | fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronicexplainany |  
+| bip_39_word_no_space_2 | fatalenvelope |  
+| bip_39_word_no_space_3 | fatalenvelopesatisfy |  
+| bip_39_word_no_space_4 | fatalenvelopesatisfythey |  
+| bip_39_word_no_space_5 | fatalenvelopesatisfytheypurpose |  
+| bip_39_word_no_space_6 | fatalenvelopesatisfytheypurposemonitor |  
+| bip_39_word_no_space_7 | fatalenvelopesatisfytheypurposemonitorcredit |  
+| bip_39_word_no_space_8 | fatalenvelopesatisfytheypurposemonitorcreditnews |  
+| bip_39_word_no_space_9 | fatalenvelopesatisfytheypurposemonitorcreditnewsamount |  
 | bip_39_word_space_0 | ['fatal', 'envelope', 'satisfy', 'they', 'purpose', 'monitor', 'credit', 'news', 'amount', 'chronic', 'explain', 'any'] |  
 | bip_39_word_space_1 | fatal |  
 | bip_39_word_space_10 | fatal envelope satisfy they purpose monitor credit news amount chronic |  

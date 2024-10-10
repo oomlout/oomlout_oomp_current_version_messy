@@ -122,6 +122,18 @@ company
 table
 vicious
 consider |  
+| bip_39_word_no_space_1 | zone |  
+| bip_39_word_no_space_10 | zonefiregateskinovencompanytableviciousconsiderexile |  
+| bip_39_word_no_space_11 | zonefiregateskinovencompanytableviciousconsiderexileeternal |  
+| bip_39_word_no_space_12 | zonefiregateskinovencompanytableviciousconsiderexileeternalallow |  
+| bip_39_word_no_space_2 | zonefire |  
+| bip_39_word_no_space_3 | zonefiregate |  
+| bip_39_word_no_space_4 | zonefiregateskin |  
+| bip_39_word_no_space_5 | zonefiregateskinoven |  
+| bip_39_word_no_space_6 | zonefiregateskinovencompany |  
+| bip_39_word_no_space_7 | zonefiregateskinovencompanytable |  
+| bip_39_word_no_space_8 | zonefiregateskinovencompanytablevicious |  
+| bip_39_word_no_space_9 | zonefiregateskinovencompanytableviciousconsider |  
 | bip_39_word_space_0 | ['zone', 'fire', 'gate', 'skin', 'oven', 'company', 'table', 'vicious', 'consider', 'exile', 'eternal', 'allow'] |  
 | bip_39_word_space_1 | zone |  
 | bip_39_word_space_10 | zone fire gate skin oven company table vicious consider exile |  

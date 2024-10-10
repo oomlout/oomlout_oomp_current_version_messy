@@ -122,6 +122,18 @@ shrimp
 upper
 loyal
 shock |  
+| bip_39_word_no_space_1 | easy |  
+| bip_39_word_no_space_10 | easyfrozenatomhandkneeshrimpupperloyalshockmatter |  
+| bip_39_word_no_space_11 | easyfrozenatomhandkneeshrimpupperloyalshockmatterdescribe |  
+| bip_39_word_no_space_12 | easyfrozenatomhandkneeshrimpupperloyalshockmatterdescribealone |  
+| bip_39_word_no_space_2 | easyfrozen |  
+| bip_39_word_no_space_3 | easyfrozenatom |  
+| bip_39_word_no_space_4 | easyfrozenatomhand |  
+| bip_39_word_no_space_5 | easyfrozenatomhandknee |  
+| bip_39_word_no_space_6 | easyfrozenatomhandkneeshrimp |  
+| bip_39_word_no_space_7 | easyfrozenatomhandkneeshrimpupper |  
+| bip_39_word_no_space_8 | easyfrozenatomhandkneeshrimpupperloyal |  
+| bip_39_word_no_space_9 | easyfrozenatomhandkneeshrimpupperloyalshock |  
 | bip_39_word_space_0 | ['easy', 'frozen', 'atom', 'hand', 'knee', 'shrimp', 'upper', 'loyal', 'shock', 'matter', 'describe', 'alone'] |  
 | bip_39_word_space_1 | easy |  
 | bip_39_word_space_10 | easy frozen atom hand knee shrimp upper loyal shock matter |  

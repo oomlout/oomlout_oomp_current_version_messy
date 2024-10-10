@@ -122,6 +122,18 @@ gas
 frozen
 obtain
 hurdle |  
+| bip_39_word_no_space_1 | answer |  
+| bip_39_word_no_space_10 | answertalentcaveseasonstandgasfrozenobtainhurdleapple |  
+| bip_39_word_no_space_11 | answertalentcaveseasonstandgasfrozenobtainhurdleapplecliff |  
+| bip_39_word_no_space_12 | answertalentcaveseasonstandgasfrozenobtainhurdleapplecliffarmor |  
+| bip_39_word_no_space_2 | answertalent |  
+| bip_39_word_no_space_3 | answertalentcave |  
+| bip_39_word_no_space_4 | answertalentcaveseason |  
+| bip_39_word_no_space_5 | answertalentcaveseasonstand |  
+| bip_39_word_no_space_6 | answertalentcaveseasonstandgas |  
+| bip_39_word_no_space_7 | answertalentcaveseasonstandgasfrozen |  
+| bip_39_word_no_space_8 | answertalentcaveseasonstandgasfrozenobtain |  
+| bip_39_word_no_space_9 | answertalentcaveseasonstandgasfrozenobtainhurdle |  
 | bip_39_word_space_0 | ['answer', 'talent', 'cave', 'season', 'stand', 'gas', 'frozen', 'obtain', 'hurdle', 'apple', 'cliff', 'armor'] |  
 | bip_39_word_space_1 | answer |  
 | bip_39_word_space_10 | answer talent cave season stand gas frozen obtain hurdle apple |  

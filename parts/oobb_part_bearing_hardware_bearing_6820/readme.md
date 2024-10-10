@@ -122,6 +122,18 @@ else
 olympic
 panda
 borrow |  
+| bip_39_word_no_space_1 | grow |  
+| bip_39_word_no_space_10 | growwolfstepsampleswimelseolympicpandaborrowprevent |  
+| bip_39_word_no_space_11 | growwolfstepsampleswimelseolympicpandaborrowpreventbehind |  
+| bip_39_word_no_space_12 | growwolfstepsampleswimelseolympicpandaborrowpreventbehindamount |  
+| bip_39_word_no_space_2 | growwolf |  
+| bip_39_word_no_space_3 | growwolfstep |  
+| bip_39_word_no_space_4 | growwolfstepsample |  
+| bip_39_word_no_space_5 | growwolfstepsampleswim |  
+| bip_39_word_no_space_6 | growwolfstepsampleswimelse |  
+| bip_39_word_no_space_7 | growwolfstepsampleswimelseolympic |  
+| bip_39_word_no_space_8 | growwolfstepsampleswimelseolympicpanda |  
+| bip_39_word_no_space_9 | growwolfstepsampleswimelseolympicpandaborrow |  
 | bip_39_word_space_0 | ['grow', 'wolf', 'step', 'sample', 'swim', 'else', 'olympic', 'panda', 'borrow', 'prevent', 'behind', 'amount'] |  
 | bip_39_word_space_1 | grow |  
 | bip_39_word_space_10 | grow wolf step sample swim else olympic panda borrow prevent |  

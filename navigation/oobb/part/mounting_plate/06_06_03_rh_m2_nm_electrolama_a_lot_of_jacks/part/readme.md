@@ -122,6 +122,18 @@ heavy
 grab
 hurdle
 wing |  
+| bip_39_word_no_space_1 | merry |  
+| bip_39_word_no_space_10 | merrytopicsickmonsterdressheavygrabhurdlewingcoffee |  
+| bip_39_word_no_space_11 | merrytopicsickmonsterdressheavygrabhurdlewingcoffeenumber |  
+| bip_39_word_no_space_12 | merrytopicsickmonsterdressheavygrabhurdlewingcoffeenumberaffair |  
+| bip_39_word_no_space_2 | merrytopic |  
+| bip_39_word_no_space_3 | merrytopicsick |  
+| bip_39_word_no_space_4 | merrytopicsickmonster |  
+| bip_39_word_no_space_5 | merrytopicsickmonsterdress |  
+| bip_39_word_no_space_6 | merrytopicsickmonsterdressheavy |  
+| bip_39_word_no_space_7 | merrytopicsickmonsterdressheavygrab |  
+| bip_39_word_no_space_8 | merrytopicsickmonsterdressheavygrabhurdle |  
+| bip_39_word_no_space_9 | merrytopicsickmonsterdressheavygrabhurdlewing |  
 | bip_39_word_space_0 | ['merry', 'topic', 'sick', 'monster', 'dress', 'heavy', 'grab', 'hurdle', 'wing', 'coffee', 'number', 'affair'] |  
 | bip_39_word_space_1 | merry |  
 | bip_39_word_space_10 | merry topic sick monster dress heavy grab hurdle wing coffee |  

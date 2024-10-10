@@ -122,6 +122,18 @@ knife
 labor
 lottery
 actor |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westrallycopyovalinvolveknifelaborlotteryactorsniff |  
+| bip_39_word_no_space_11 | westrallycopyovalinvolveknifelaborlotteryactorsniffdolphin |  
+| bip_39_word_no_space_12 | westrallycopyovalinvolveknifelaborlotteryactorsniffdolphinapprove |  
+| bip_39_word_no_space_2 | westrally |  
+| bip_39_word_no_space_3 | westrallycopy |  
+| bip_39_word_no_space_4 | westrallycopyoval |  
+| bip_39_word_no_space_5 | westrallycopyovalinvolve |  
+| bip_39_word_no_space_6 | westrallycopyovalinvolveknife |  
+| bip_39_word_no_space_7 | westrallycopyovalinvolveknifelabor |  
+| bip_39_word_no_space_8 | westrallycopyovalinvolveknifelaborlottery |  
+| bip_39_word_no_space_9 | westrallycopyovalinvolveknifelaborlotteryactor |  
 | bip_39_word_space_0 | ['west', 'rally', 'copy', 'oval', 'involve', 'knife', 'labor', 'lottery', 'actor', 'sniff', 'dolphin', 'approve'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west rally copy oval involve knife labor lottery actor sniff |  

@@ -122,6 +122,18 @@ pig
 tool
 toward
 plastic |  
+| bip_39_word_no_space_1 | address |  
+| bip_39_word_no_space_10 | addressflywelcomemessagebuffalopigtooltowardplasticmask |  
+| bip_39_word_no_space_11 | addressflywelcomemessagebuffalopigtooltowardplasticmaskcost |  
+| bip_39_word_no_space_12 | addressflywelcomemessagebuffalopigtooltowardplasticmaskcostanchor |  
+| bip_39_word_no_space_2 | addressfly |  
+| bip_39_word_no_space_3 | addressflywelcome |  
+| bip_39_word_no_space_4 | addressflywelcomemessage |  
+| bip_39_word_no_space_5 | addressflywelcomemessagebuffalo |  
+| bip_39_word_no_space_6 | addressflywelcomemessagebuffalopig |  
+| bip_39_word_no_space_7 | addressflywelcomemessagebuffalopigtool |  
+| bip_39_word_no_space_8 | addressflywelcomemessagebuffalopigtooltoward |  
+| bip_39_word_no_space_9 | addressflywelcomemessagebuffalopigtooltowardplastic |  
 | bip_39_word_space_0 | ['address', 'fly', 'welcome', 'message', 'buffalo', 'pig', 'tool', 'toward', 'plastic', 'mask', 'cost', 'anchor'] |  
 | bip_39_word_space_1 | address |  
 | bip_39_word_space_10 | address fly welcome message buffalo pig tool toward plastic mask |  

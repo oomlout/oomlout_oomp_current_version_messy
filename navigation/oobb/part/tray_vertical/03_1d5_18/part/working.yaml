@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'high
   demand
 
   demand'
+bip_39_word_no_space_1: high
+bip_39_word_no_space_10: highjudgecurvewarriorgorillahelpguessdemanddemandrack
+bip_39_word_no_space_11: highjudgecurvewarriorgorillahelpguessdemanddemandrackhurdle
+bip_39_word_no_space_12: highjudgecurvewarriorgorillahelpguessdemanddemandrackhurdleachieve
+bip_39_word_no_space_2: highjudge
+bip_39_word_no_space_3: highjudgecurve
+bip_39_word_no_space_4: highjudgecurvewarrior
+bip_39_word_no_space_5: highjudgecurvewarriorgorilla
+bip_39_word_no_space_6: highjudgecurvewarriorgorillahelp
+bip_39_word_no_space_7: highjudgecurvewarriorgorillahelpguess
+bip_39_word_no_space_8: highjudgecurvewarriorgorillahelpguessdemand
+bip_39_word_no_space_9: highjudgecurvewarriorgorillahelpguessdemanddemand
 bip_39_word_space_0:
 - high
 - judge

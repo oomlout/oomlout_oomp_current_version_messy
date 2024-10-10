@@ -122,6 +122,18 @@ enemy
 element
 spell
 stairs |  
+| bip_39_word_no_space_1 | potato |  
+| bip_39_word_no_space_10 | potatosilkseekplateupholdenemyelementspellstairswarfare |  
+| bip_39_word_no_space_11 | potatosilkseekplateupholdenemyelementspellstairswarfareembark |  
+| bip_39_word_no_space_12 | potatosilkseekplateupholdenemyelementspellstairswarfareembarkaspect |  
+| bip_39_word_no_space_2 | potatosilk |  
+| bip_39_word_no_space_3 | potatosilkseek |  
+| bip_39_word_no_space_4 | potatosilkseekplate |  
+| bip_39_word_no_space_5 | potatosilkseekplateuphold |  
+| bip_39_word_no_space_6 | potatosilkseekplateupholdenemy |  
+| bip_39_word_no_space_7 | potatosilkseekplateupholdenemyelement |  
+| bip_39_word_no_space_8 | potatosilkseekplateupholdenemyelementspell |  
+| bip_39_word_no_space_9 | potatosilkseekplateupholdenemyelementspellstairs |  
 | bip_39_word_space_0 | ['potato', 'silk', 'seek', 'plate', 'uphold', 'enemy', 'element', 'spell', 'stairs', 'warfare', 'embark', 'aspect'] |  
 | bip_39_word_space_1 | potato |  
 | bip_39_word_space_10 | potato silk seek plate uphold enemy element spell stairs warfare |  

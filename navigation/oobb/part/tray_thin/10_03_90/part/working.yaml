@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'acoustic
   camp
 
   guard'
+bip_39_word_no_space_1: acoustic
+bip_39_word_no_space_10: acousticboatauntstafffutureknowwarmcampguardhappy
+bip_39_word_no_space_11: acousticboatauntstafffutureknowwarmcampguardhappyoven
+bip_39_word_no_space_12: acousticboatauntstafffutureknowwarmcampguardhappyovenamazing
+bip_39_word_no_space_2: acousticboat
+bip_39_word_no_space_3: acousticboataunt
+bip_39_word_no_space_4: acousticboatauntstaff
+bip_39_word_no_space_5: acousticboatauntstafffuture
+bip_39_word_no_space_6: acousticboatauntstafffutureknow
+bip_39_word_no_space_7: acousticboatauntstafffutureknowwarm
+bip_39_word_no_space_8: acousticboatauntstafffutureknowwarmcamp
+bip_39_word_no_space_9: acousticboatauntstafffutureknowwarmcampguard
 bip_39_word_space_0:
 - acoustic
 - boat

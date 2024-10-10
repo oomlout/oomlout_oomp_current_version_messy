@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'curtain
   explain
 
   slim'
+bip_39_word_no_space_1: curtain
+bip_39_word_no_space_10: curtainfutureiceassumeeyeshoulderfoundexplainslimbuzz
+bip_39_word_no_space_11: curtainfutureiceassumeeyeshoulderfoundexplainslimbuzzchair
+bip_39_word_no_space_12: curtainfutureiceassumeeyeshoulderfoundexplainslimbuzzchairankle
+bip_39_word_no_space_2: curtainfuture
+bip_39_word_no_space_3: curtainfutureice
+bip_39_word_no_space_4: curtainfutureiceassume
+bip_39_word_no_space_5: curtainfutureiceassumeeye
+bip_39_word_no_space_6: curtainfutureiceassumeeyeshoulder
+bip_39_word_no_space_7: curtainfutureiceassumeeyeshoulderfound
+bip_39_word_no_space_8: curtainfutureiceassumeeyeshoulderfoundexplain
+bip_39_word_no_space_9: curtainfutureiceassumeeyeshoulderfoundexplainslim
 bip_39_word_space_0:
 - curtain
 - future

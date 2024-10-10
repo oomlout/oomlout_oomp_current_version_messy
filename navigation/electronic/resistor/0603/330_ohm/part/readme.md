@@ -122,6 +122,18 @@ one
 sing
 faculty
 clinic |  
+| bip_39_word_no_space_1 | apart |  
+| bip_39_word_no_space_10 | apartridgemeltboostpetonesingfacultyclinicexercise |  
+| bip_39_word_no_space_11 | apartridgemeltboostpetonesingfacultyclinicexercisefan |  
+| bip_39_word_no_space_12 | apartridgemeltboostpetonesingfacultyclinicexercisefanalarm |  
+| bip_39_word_no_space_2 | apartridge |  
+| bip_39_word_no_space_3 | apartridgemelt |  
+| bip_39_word_no_space_4 | apartridgemeltboost |  
+| bip_39_word_no_space_5 | apartridgemeltboostpet |  
+| bip_39_word_no_space_6 | apartridgemeltboostpetone |  
+| bip_39_word_no_space_7 | apartridgemeltboostpetonesing |  
+| bip_39_word_no_space_8 | apartridgemeltboostpetonesingfaculty |  
+| bip_39_word_no_space_9 | apartridgemeltboostpetonesingfacultyclinic |  
 | bip_39_word_space_0 | ['apart', 'ridge', 'melt', 'boost', 'pet', 'one', 'sing', 'faculty', 'clinic', 'exercise', 'fan', 'alarm'] |  
 | bip_39_word_space_1 | apart |  
 | bip_39_word_space_10 | apart ridge melt boost pet one sing faculty clinic exercise |  

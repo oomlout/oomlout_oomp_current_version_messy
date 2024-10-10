@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'galaxy
   trophy
 
   diet'
+bip_39_word_no_space_1: galaxy
+bip_39_word_no_space_10: galaxyrenderlunchspendhipspikearmtrophydietleisure
+bip_39_word_no_space_11: galaxyrenderlunchspendhipspikearmtrophydietleisuremechanic
+bip_39_word_no_space_12: galaxyrenderlunchspendhipspikearmtrophydietleisuremechanicarrive
+bip_39_word_no_space_2: galaxyrender
+bip_39_word_no_space_3: galaxyrenderlunch
+bip_39_word_no_space_4: galaxyrenderlunchspend
+bip_39_word_no_space_5: galaxyrenderlunchspendhip
+bip_39_word_no_space_6: galaxyrenderlunchspendhipspike
+bip_39_word_no_space_7: galaxyrenderlunchspendhipspikearm
+bip_39_word_no_space_8: galaxyrenderlunchspendhipspikearmtrophy
+bip_39_word_no_space_9: galaxyrenderlunchspendhipspikearmtrophydiet
 bip_39_word_space_0:
 - galaxy
 - render

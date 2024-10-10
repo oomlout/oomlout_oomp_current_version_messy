@@ -122,6 +122,18 @@ liberty
 leave
 mercy
 carpet |  
+| bip_39_word_no_space_1 | license |  
+| bip_39_word_no_space_10 | licensecolumnolivealienclifflibertyleavemercycarpetcatalog |  
+| bip_39_word_no_space_11 | licensecolumnolivealienclifflibertyleavemercycarpetcatalogcountry |  
+| bip_39_word_no_space_12 | licensecolumnolivealienclifflibertyleavemercycarpetcatalogcountryalbum |  
+| bip_39_word_no_space_2 | licensecolumn |  
+| bip_39_word_no_space_3 | licensecolumnolive |  
+| bip_39_word_no_space_4 | licensecolumnolivealien |  
+| bip_39_word_no_space_5 | licensecolumnolivealiencliff |  
+| bip_39_word_no_space_6 | licensecolumnolivealiencliffliberty |  
+| bip_39_word_no_space_7 | licensecolumnolivealienclifflibertyleave |  
+| bip_39_word_no_space_8 | licensecolumnolivealienclifflibertyleavemercy |  
+| bip_39_word_no_space_9 | licensecolumnolivealienclifflibertyleavemercycarpet |  
 | bip_39_word_space_0 | ['license', 'column', 'olive', 'alien', 'cliff', 'liberty', 'leave', 'mercy', 'carpet', 'catalog', 'country', 'album'] |  
 | bip_39_word_space_1 | license |  
 | bip_39_word_space_10 | license column olive alien cliff liberty leave mercy carpet catalog |  

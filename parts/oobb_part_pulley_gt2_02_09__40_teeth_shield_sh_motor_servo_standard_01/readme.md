@@ -122,6 +122,18 @@ zebra
 bird
 crush
 strategy |  
+| bip_39_word_no_space_1 | illegal |  
+| bip_39_word_no_space_10 | illegalalbumonionawfulponyzebrabirdcrushstrategykeep |  
+| bip_39_word_no_space_11 | illegalalbumonionawfulponyzebrabirdcrushstrategykeepdeliver |  
+| bip_39_word_no_space_12 | illegalalbumonionawfulponyzebrabirdcrushstrategykeepdeliverankle |  
+| bip_39_word_no_space_2 | illegalalbum |  
+| bip_39_word_no_space_3 | illegalalbumonion |  
+| bip_39_word_no_space_4 | illegalalbumonionawful |  
+| bip_39_word_no_space_5 | illegalalbumonionawfulpony |  
+| bip_39_word_no_space_6 | illegalalbumonionawfulponyzebra |  
+| bip_39_word_no_space_7 | illegalalbumonionawfulponyzebrabird |  
+| bip_39_word_no_space_8 | illegalalbumonionawfulponyzebrabirdcrush |  
+| bip_39_word_no_space_9 | illegalalbumonionawfulponyzebrabirdcrushstrategy |  
 | bip_39_word_space_0 | ['illegal', 'album', 'onion', 'awful', 'pony', 'zebra', 'bird', 'crush', 'strategy', 'keep', 'deliver', 'ankle'] |  
 | bip_39_word_space_1 | illegal |  
 | bip_39_word_space_10 | illegal album onion awful pony zebra bird crush strategy keep |  

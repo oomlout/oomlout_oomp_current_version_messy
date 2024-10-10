@@ -122,6 +122,18 @@ engage
 lady
 clean
 roof |  
+| bip_39_word_no_space_1 | govern |  
+| bip_39_word_no_space_10 | governretireaerobiccornglareengageladycleanrooffollow |  
+| bip_39_word_no_space_11 | governretireaerobiccornglareengageladycleanrooffollowtape |  
+| bip_39_word_no_space_12 | governretireaerobiccornglareengageladycleanrooffollowtapeauction |  
+| bip_39_word_no_space_2 | governretire |  
+| bip_39_word_no_space_3 | governretireaerobic |  
+| bip_39_word_no_space_4 | governretireaerobiccorn |  
+| bip_39_word_no_space_5 | governretireaerobiccornglare |  
+| bip_39_word_no_space_6 | governretireaerobiccornglareengage |  
+| bip_39_word_no_space_7 | governretireaerobiccornglareengagelady |  
+| bip_39_word_no_space_8 | governretireaerobiccornglareengageladyclean |  
+| bip_39_word_no_space_9 | governretireaerobiccornglareengageladycleanroof |  
 | bip_39_word_space_0 | ['govern', 'retire', 'aerobic', 'corn', 'glare', 'engage', 'lady', 'clean', 'roof', 'follow', 'tape', 'auction'] |  
 | bip_39_word_space_1 | govern |  
 | bip_39_word_space_10 | govern retire aerobic corn glare engage lady clean roof follow |  

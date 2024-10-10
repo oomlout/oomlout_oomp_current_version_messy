@@ -122,6 +122,18 @@ noodle
 shine
 much
 voice |  
+| bip_39_word_no_space_1 | clip |  
+| bip_39_word_no_space_10 | clipkiwirecorddamagemusicnoodleshinemuchvoicehat |  
+| bip_39_word_no_space_11 | clipkiwirecorddamagemusicnoodleshinemuchvoicehatfinger |  
+| bip_39_word_no_space_12 | clipkiwirecorddamagemusicnoodleshinemuchvoicehatfingeractor |  
+| bip_39_word_no_space_2 | clipkiwi |  
+| bip_39_word_no_space_3 | clipkiwirecord |  
+| bip_39_word_no_space_4 | clipkiwirecorddamage |  
+| bip_39_word_no_space_5 | clipkiwirecorddamagemusic |  
+| bip_39_word_no_space_6 | clipkiwirecorddamagemusicnoodle |  
+| bip_39_word_no_space_7 | clipkiwirecorddamagemusicnoodleshine |  
+| bip_39_word_no_space_8 | clipkiwirecorddamagemusicnoodleshinemuch |  
+| bip_39_word_no_space_9 | clipkiwirecorddamagemusicnoodleshinemuchvoice |  
 | bip_39_word_space_0 | ['clip', 'kiwi', 'record', 'damage', 'music', 'noodle', 'shine', 'much', 'voice', 'hat', 'finger', 'actor'] |  
 | bip_39_word_space_1 | clip |  
 | bip_39_word_space_10 | clip kiwi record damage music noodle shine much voice hat |  

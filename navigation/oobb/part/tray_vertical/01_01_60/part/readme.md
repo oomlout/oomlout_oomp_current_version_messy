@@ -122,6 +122,18 @@ pioneer
 exhaust
 library
 kiwi |  
+| bip_39_word_no_space_1 | large |  
+| bip_39_word_no_space_10 | largebeforescrapabilityderivepioneerexhaustlibrarykiwipeasant |  
+| bip_39_word_no_space_11 | largebeforescrapabilityderivepioneerexhaustlibrarykiwipeasantmoment |  
+| bip_39_word_no_space_12 | largebeforescrapabilityderivepioneerexhaustlibrarykiwipeasantmomentacid |  
+| bip_39_word_no_space_2 | largebefore |  
+| bip_39_word_no_space_3 | largebeforescrap |  
+| bip_39_word_no_space_4 | largebeforescrapability |  
+| bip_39_word_no_space_5 | largebeforescrapabilityderive |  
+| bip_39_word_no_space_6 | largebeforescrapabilityderivepioneer |  
+| bip_39_word_no_space_7 | largebeforescrapabilityderivepioneerexhaust |  
+| bip_39_word_no_space_8 | largebeforescrapabilityderivepioneerexhaustlibrary |  
+| bip_39_word_no_space_9 | largebeforescrapabilityderivepioneerexhaustlibrarykiwi |  
 | bip_39_word_space_0 | ['large', 'before', 'scrap', 'ability', 'derive', 'pioneer', 'exhaust', 'library', 'kiwi', 'peasant', 'moment', 'acid'] |  
 | bip_39_word_space_1 | large |  
 | bip_39_word_space_10 | large before scrap ability derive pioneer exhaust library kiwi peasant |  

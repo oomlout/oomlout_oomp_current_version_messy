@@ -122,6 +122,18 @@ decade
 flower
 rely
 core |  
+| bip_39_word_no_space_1 | quantum |  
+| bip_39_word_no_space_10 | quantumgrantpalmwearelevatordecadeflowerrelycoreforce |  
+| bip_39_word_no_space_11 | quantumgrantpalmwearelevatordecadeflowerrelycoreforcematter |  
+| bip_39_word_no_space_12 | quantumgrantpalmwearelevatordecadeflowerrelycoreforcematteramazing |  
+| bip_39_word_no_space_2 | quantumgrant |  
+| bip_39_word_no_space_3 | quantumgrantpalm |  
+| bip_39_word_no_space_4 | quantumgrantpalmwear |  
+| bip_39_word_no_space_5 | quantumgrantpalmwearelevator |  
+| bip_39_word_no_space_6 | quantumgrantpalmwearelevatordecade |  
+| bip_39_word_no_space_7 | quantumgrantpalmwearelevatordecadeflower |  
+| bip_39_word_no_space_8 | quantumgrantpalmwearelevatordecadeflowerrely |  
+| bip_39_word_no_space_9 | quantumgrantpalmwearelevatordecadeflowerrelycore |  
 | bip_39_word_space_0 | ['quantum', 'grant', 'palm', 'wear', 'elevator', 'decade', 'flower', 'rely', 'core', 'force', 'matter', 'amazing'] |  
 | bip_39_word_space_1 | quantum |  
 | bip_39_word_space_10 | quantum grant palm wear elevator decade flower rely core force |  

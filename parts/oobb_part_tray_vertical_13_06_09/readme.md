@@ -122,6 +122,18 @@ tribe
 survey
 shoot
 ask |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifeviolinquizcardelaytribesurveyshootaskmarch |  
+| bip_39_word_no_space_11 | knifeviolinquizcardelaytribesurveyshootaskmarchoven |  
+| bip_39_word_no_space_12 | knifeviolinquizcardelaytribesurveyshootaskmarchovenarrange |  
+| bip_39_word_no_space_2 | knifeviolin |  
+| bip_39_word_no_space_3 | knifeviolinquiz |  
+| bip_39_word_no_space_4 | knifeviolinquizcar |  
+| bip_39_word_no_space_5 | knifeviolinquizcardelay |  
+| bip_39_word_no_space_6 | knifeviolinquizcardelaytribe |  
+| bip_39_word_no_space_7 | knifeviolinquizcardelaytribesurvey |  
+| bip_39_word_no_space_8 | knifeviolinquizcardelaytribesurveyshoot |  
+| bip_39_word_no_space_9 | knifeviolinquizcardelaytribesurveyshootask |  
 | bip_39_word_space_0 | ['knife', 'violin', 'quiz', 'car', 'delay', 'tribe', 'survey', 'shoot', 'ask', 'march', 'oven', 'arrange'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife violin quiz car delay tribe survey shoot ask march |  

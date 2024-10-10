@@ -122,6 +122,18 @@ rice
 keep
 opinion
 inject |  
+| bip_39_word_no_space_1 | sort |  
+| bip_39_word_no_space_10 | sortveteranindicateplaybehindricekeepopinioninjectoven |  
+| bip_39_word_no_space_11 | sortveteranindicateplaybehindricekeepopinioninjectovenfoster |  
+| bip_39_word_no_space_12 | sortveteranindicateplaybehindricekeepopinioninjectovenfosterallow |  
+| bip_39_word_no_space_2 | sortveteran |  
+| bip_39_word_no_space_3 | sortveteranindicate |  
+| bip_39_word_no_space_4 | sortveteranindicateplay |  
+| bip_39_word_no_space_5 | sortveteranindicateplaybehind |  
+| bip_39_word_no_space_6 | sortveteranindicateplaybehindrice |  
+| bip_39_word_no_space_7 | sortveteranindicateplaybehindricekeep |  
+| bip_39_word_no_space_8 | sortveteranindicateplaybehindricekeepopinion |  
+| bip_39_word_no_space_9 | sortveteranindicateplaybehindricekeepopinioninject |  
 | bip_39_word_space_0 | ['sort', 'veteran', 'indicate', 'play', 'behind', 'rice', 'keep', 'opinion', 'inject', 'oven', 'foster', 'allow'] |  
 | bip_39_word_space_1 | sort |  
 | bip_39_word_space_10 | sort veteran indicate play behind rice keep opinion inject oven |  

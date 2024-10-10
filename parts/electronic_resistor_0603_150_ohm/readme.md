@@ -122,6 +122,18 @@ gun
 bronze
 blanket
 play |  
+| bip_39_word_no_space_1 | weapon |  
+| bip_39_word_no_space_10 | weaponmomentstrongbeanlabelgunbronzeblanketplayunknown |  
+| bip_39_word_no_space_11 | weaponmomentstrongbeanlabelgunbronzeblanketplayunknownfinish |  
+| bip_39_word_no_space_12 | weaponmomentstrongbeanlabelgunbronzeblanketplayunknownfinishanalyst |  
+| bip_39_word_no_space_2 | weaponmoment |  
+| bip_39_word_no_space_3 | weaponmomentstrong |  
+| bip_39_word_no_space_4 | weaponmomentstrongbean |  
+| bip_39_word_no_space_5 | weaponmomentstrongbeanlabel |  
+| bip_39_word_no_space_6 | weaponmomentstrongbeanlabelgun |  
+| bip_39_word_no_space_7 | weaponmomentstrongbeanlabelgunbronze |  
+| bip_39_word_no_space_8 | weaponmomentstrongbeanlabelgunbronzeblanket |  
+| bip_39_word_no_space_9 | weaponmomentstrongbeanlabelgunbronzeblanketplay |  
 | bip_39_word_space_0 | ['weapon', 'moment', 'strong', 'bean', 'label', 'gun', 'bronze', 'blanket', 'play', 'unknown', 'finish', 'analyst'] |  
 | bip_39_word_space_1 | weapon |  
 | bip_39_word_space_10 | weapon moment strong bean label gun bronze blanket play unknown |  

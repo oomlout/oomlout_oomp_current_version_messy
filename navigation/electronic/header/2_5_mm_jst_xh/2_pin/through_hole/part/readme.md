@@ -122,6 +122,18 @@ damage
 negative
 aim
 unfair |  
+| bip_39_word_no_space_1 | cluster |  
+| bip_39_word_no_space_10 | clusterfilerudeabandonjeansdamagenegativeaimunfairforce |  
+| bip_39_word_no_space_11 | clusterfilerudeabandonjeansdamagenegativeaimunfairforcemelody |  
+| bip_39_word_no_space_12 | clusterfilerudeabandonjeansdamagenegativeaimunfairforcemelodyanxiety |  
+| bip_39_word_no_space_2 | clusterfile |  
+| bip_39_word_no_space_3 | clusterfilerude |  
+| bip_39_word_no_space_4 | clusterfilerudeabandon |  
+| bip_39_word_no_space_5 | clusterfilerudeabandonjeans |  
+| bip_39_word_no_space_6 | clusterfilerudeabandonjeansdamage |  
+| bip_39_word_no_space_7 | clusterfilerudeabandonjeansdamagenegative |  
+| bip_39_word_no_space_8 | clusterfilerudeabandonjeansdamagenegativeaim |  
+| bip_39_word_no_space_9 | clusterfilerudeabandonjeansdamagenegativeaimunfair |  
 | bip_39_word_space_0 | ['cluster', 'file', 'rude', 'abandon', 'jeans', 'damage', 'negative', 'aim', 'unfair', 'force', 'melody', 'anxiety'] |  
 | bip_39_word_space_1 | cluster |  
 | bip_39_word_space_10 | cluster file rude abandon jeans damage negative aim unfair force |  

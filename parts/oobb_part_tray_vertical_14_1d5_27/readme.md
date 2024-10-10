@@ -122,6 +122,18 @@ mistake
 slender
 hamster
 cradle |  
+| bip_39_word_no_space_1 | inform |  
+| bip_39_word_no_space_10 | informmixedeffortholebudgetmistakeslenderhamstercradletop |  
+| bip_39_word_no_space_11 | informmixedeffortholebudgetmistakeslenderhamstercradletopcigar |  
+| bip_39_word_no_space_12 | informmixedeffortholebudgetmistakeslenderhamstercradletopcigarabsorb |  
+| bip_39_word_no_space_2 | informmixed |  
+| bip_39_word_no_space_3 | informmixedeffort |  
+| bip_39_word_no_space_4 | informmixedefforthole |  
+| bip_39_word_no_space_5 | informmixedeffortholebudget |  
+| bip_39_word_no_space_6 | informmixedeffortholebudgetmistake |  
+| bip_39_word_no_space_7 | informmixedeffortholebudgetmistakeslender |  
+| bip_39_word_no_space_8 | informmixedeffortholebudgetmistakeslenderhamster |  
+| bip_39_word_no_space_9 | informmixedeffortholebudgetmistakeslenderhamstercradle |  
 | bip_39_word_space_0 | ['inform', 'mixed', 'effort', 'hole', 'budget', 'mistake', 'slender', 'hamster', 'cradle', 'top', 'cigar', 'absorb'] |  
 | bip_39_word_space_1 | inform |  
 | bip_39_word_space_10 | inform mixed effort hole budget mistake slender hamster cradle top |  

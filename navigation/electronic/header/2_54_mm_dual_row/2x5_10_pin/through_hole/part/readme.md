@@ -122,6 +122,18 @@ jealous
 rapid
 upon
 hover |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscurewinkminutechiefsuccessjealousrapiduponhoverelectric |  
+| bip_39_word_no_space_11 | obscurewinkminutechiefsuccessjealousrapiduponhoverelectricpath |  
+| bip_39_word_no_space_12 | obscurewinkminutechiefsuccessjealousrapiduponhoverelectricpathafford |  
+| bip_39_word_no_space_2 | obscurewink |  
+| bip_39_word_no_space_3 | obscurewinkminute |  
+| bip_39_word_no_space_4 | obscurewinkminutechief |  
+| bip_39_word_no_space_5 | obscurewinkminutechiefsuccess |  
+| bip_39_word_no_space_6 | obscurewinkminutechiefsuccessjealous |  
+| bip_39_word_no_space_7 | obscurewinkminutechiefsuccessjealousrapid |  
+| bip_39_word_no_space_8 | obscurewinkminutechiefsuccessjealousrapidupon |  
+| bip_39_word_no_space_9 | obscurewinkminutechiefsuccessjealousrapiduponhover |  
 | bip_39_word_space_0 | ['obscure', 'wink', 'minute', 'chief', 'success', 'jealous', 'rapid', 'upon', 'hover', 'electric', 'path', 'afford'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure wink minute chief success jealous rapid upon hover electric |  

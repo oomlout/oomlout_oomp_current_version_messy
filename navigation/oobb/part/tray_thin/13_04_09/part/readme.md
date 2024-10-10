@@ -122,6 +122,18 @@ blade
 recall
 live
 neither |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddlehurrymodifyslabpistolbladerecallliveneithertoday |  
+| bip_39_word_no_space_11 | saddlehurrymodifyslabpistolbladerecallliveneithertodaykitten |  
+| bip_39_word_no_space_12 | saddlehurrymodifyslabpistolbladerecallliveneithertodaykittenall |  
+| bip_39_word_no_space_2 | saddlehurry |  
+| bip_39_word_no_space_3 | saddlehurrymodify |  
+| bip_39_word_no_space_4 | saddlehurrymodifyslab |  
+| bip_39_word_no_space_5 | saddlehurrymodifyslabpistol |  
+| bip_39_word_no_space_6 | saddlehurrymodifyslabpistolblade |  
+| bip_39_word_no_space_7 | saddlehurrymodifyslabpistolbladerecall |  
+| bip_39_word_no_space_8 | saddlehurrymodifyslabpistolbladerecalllive |  
+| bip_39_word_no_space_9 | saddlehurrymodifyslabpistolbladerecallliveneither |  
 | bip_39_word_space_0 | ['saddle', 'hurry', 'modify', 'slab', 'pistol', 'blade', 'recall', 'live', 'neither', 'today', 'kitten', 'all'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle hurry modify slab pistol blade recall live neither today |  

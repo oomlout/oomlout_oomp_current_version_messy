@@ -122,6 +122,18 @@ sentence
 kitten
 sail
 all |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygenvenueflowerbridgeagesentencekittensailallspot |  
+| bip_39_word_no_space_11 | oxygenvenueflowerbridgeagesentencekittensailallspotpath |  
+| bip_39_word_no_space_12 | oxygenvenueflowerbridgeagesentencekittensailallspotpathall |  
+| bip_39_word_no_space_2 | oxygenvenue |  
+| bip_39_word_no_space_3 | oxygenvenueflower |  
+| bip_39_word_no_space_4 | oxygenvenueflowerbridge |  
+| bip_39_word_no_space_5 | oxygenvenueflowerbridgeage |  
+| bip_39_word_no_space_6 | oxygenvenueflowerbridgeagesentence |  
+| bip_39_word_no_space_7 | oxygenvenueflowerbridgeagesentencekitten |  
+| bip_39_word_no_space_8 | oxygenvenueflowerbridgeagesentencekittensail |  
+| bip_39_word_no_space_9 | oxygenvenueflowerbridgeagesentencekittensailall |  
 | bip_39_word_space_0 | ['oxygen', 'venue', 'flower', 'bridge', 'age', 'sentence', 'kitten', 'sail', 'all', 'spot', 'path', 'all'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen venue flower bridge age sentence kitten sail all spot |  

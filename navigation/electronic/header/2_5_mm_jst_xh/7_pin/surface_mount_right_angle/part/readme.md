@@ -122,6 +122,18 @@ pistol
 small
 barely
 general |  
+| bip_39_word_no_space_1 | warrior |  
+| bip_39_word_no_space_10 | warriorstrategyenemyviewonlinepistolsmallbarelygeneraldecline |  
+| bip_39_word_no_space_11 | warriorstrategyenemyviewonlinepistolsmallbarelygeneraldeclinegarlic |  
+| bip_39_word_no_space_12 | warriorstrategyenemyviewonlinepistolsmallbarelygeneraldeclinegarlicattitude |  
+| bip_39_word_no_space_2 | warriorstrategy |  
+| bip_39_word_no_space_3 | warriorstrategyenemy |  
+| bip_39_word_no_space_4 | warriorstrategyenemyview |  
+| bip_39_word_no_space_5 | warriorstrategyenemyviewonline |  
+| bip_39_word_no_space_6 | warriorstrategyenemyviewonlinepistol |  
+| bip_39_word_no_space_7 | warriorstrategyenemyviewonlinepistolsmall |  
+| bip_39_word_no_space_8 | warriorstrategyenemyviewonlinepistolsmallbarely |  
+| bip_39_word_no_space_9 | warriorstrategyenemyviewonlinepistolsmallbarelygeneral |  
 | bip_39_word_space_0 | ['warrior', 'strategy', 'enemy', 'view', 'online', 'pistol', 'small', 'barely', 'general', 'decline', 'garlic', 'attitude'] |  
 | bip_39_word_space_1 | warrior |  
 | bip_39_word_space_10 | warrior strategy enemy view online pistol small barely general decline |  

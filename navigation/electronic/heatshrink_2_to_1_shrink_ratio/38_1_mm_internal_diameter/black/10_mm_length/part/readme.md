@@ -122,6 +122,18 @@ genuine
 relief
 evoke
 shaft |  
+| bip_39_word_no_space_1 | helmet |  
+| bip_39_word_no_space_10 | helmetturtlecupboardiconsiegegenuinereliefevokeshaftsmall |  
+| bip_39_word_no_space_11 | helmetturtlecupboardiconsiegegenuinereliefevokeshaftsmallreview |  
+| bip_39_word_no_space_12 | helmetturtlecupboardiconsiegegenuinereliefevokeshaftsmallreviewallow |  
+| bip_39_word_no_space_2 | helmetturtle |  
+| bip_39_word_no_space_3 | helmetturtlecupboard |  
+| bip_39_word_no_space_4 | helmetturtlecupboardicon |  
+| bip_39_word_no_space_5 | helmetturtlecupboardiconsiege |  
+| bip_39_word_no_space_6 | helmetturtlecupboardiconsiegegenuine |  
+| bip_39_word_no_space_7 | helmetturtlecupboardiconsiegegenuinerelief |  
+| bip_39_word_no_space_8 | helmetturtlecupboardiconsiegegenuinereliefevoke |  
+| bip_39_word_no_space_9 | helmetturtlecupboardiconsiegegenuinereliefevokeshaft |  
 | bip_39_word_space_0 | ['helmet', 'turtle', 'cupboard', 'icon', 'siege', 'genuine', 'relief', 'evoke', 'shaft', 'small', 'review', 'allow'] |  
 | bip_39_word_space_1 | helmet |  
 | bip_39_word_space_10 | helmet turtle cupboard icon siege genuine relief evoke shaft small |  

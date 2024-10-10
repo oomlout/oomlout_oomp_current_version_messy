@@ -122,6 +122,18 @@ lesson
 stick
 swear
 polar |  
+| bip_39_word_no_space_1 | aware |  
+| bip_39_word_no_space_10 | awareproofsurfaceconsidermanuallessonstickswearpolarpeace |  
+| bip_39_word_no_space_11 | awareproofsurfaceconsidermanuallessonstickswearpolarpeaceweird |  
+| bip_39_word_no_space_12 | awareproofsurfaceconsidermanuallessonstickswearpolarpeaceweirdairport |  
+| bip_39_word_no_space_2 | awareproof |  
+| bip_39_word_no_space_3 | awareproofsurface |  
+| bip_39_word_no_space_4 | awareproofsurfaceconsider |  
+| bip_39_word_no_space_5 | awareproofsurfaceconsidermanual |  
+| bip_39_word_no_space_6 | awareproofsurfaceconsidermanuallesson |  
+| bip_39_word_no_space_7 | awareproofsurfaceconsidermanuallessonstick |  
+| bip_39_word_no_space_8 | awareproofsurfaceconsidermanuallessonstickswear |  
+| bip_39_word_no_space_9 | awareproofsurfaceconsidermanuallessonstickswearpolar |  
 | bip_39_word_space_0 | ['aware', 'proof', 'surface', 'consider', 'manual', 'lesson', 'stick', 'swear', 'polar', 'peace', 'weird', 'airport'] |  
 | bip_39_word_space_1 | aware |  
 | bip_39_word_space_10 | aware proof surface consider manual lesson stick swear polar peace |  

@@ -122,6 +122,18 @@ blush
 security
 explain
 fabric |  
+| bip_39_word_no_space_1 | change |  
+| bip_39_word_no_space_10 | changepopularchucklesoapclutchblushsecurityexplainfabricadult |  
+| bip_39_word_no_space_11 | changepopularchucklesoapclutchblushsecurityexplainfabricadultlink |  
+| bip_39_word_no_space_12 | changepopularchucklesoapclutchblushsecurityexplainfabricadultlinkaugust |  
+| bip_39_word_no_space_2 | changepopular |  
+| bip_39_word_no_space_3 | changepopularchuckle |  
+| bip_39_word_no_space_4 | changepopularchucklesoap |  
+| bip_39_word_no_space_5 | changepopularchucklesoapclutch |  
+| bip_39_word_no_space_6 | changepopularchucklesoapclutchblush |  
+| bip_39_word_no_space_7 | changepopularchucklesoapclutchblushsecurity |  
+| bip_39_word_no_space_8 | changepopularchucklesoapclutchblushsecurityexplain |  
+| bip_39_word_no_space_9 | changepopularchucklesoapclutchblushsecurityexplainfabric |  
 | bip_39_word_space_0 | ['change', 'popular', 'chuckle', 'soap', 'clutch', 'blush', 'security', 'explain', 'fabric', 'adult', 'link', 'august'] |  
 | bip_39_word_space_1 | change |  
 | bip_39_word_space_10 | change popular chuckle soap clutch blush security explain fabric adult |  

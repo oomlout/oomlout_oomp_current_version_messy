@@ -122,6 +122,18 @@ manage
 breeze
 record
 plug |  
+| bip_39_word_no_space_1 | shed |  
+| bip_39_word_no_space_10 | shedtoiletridgeblossomburgermanagebreezerecordplugpitch |  
+| bip_39_word_no_space_11 | shedtoiletridgeblossomburgermanagebreezerecordplugpitchcargo |  
+| bip_39_word_no_space_12 | shedtoiletridgeblossomburgermanagebreezerecordplugpitchcargoanimal |  
+| bip_39_word_no_space_2 | shedtoilet |  
+| bip_39_word_no_space_3 | shedtoiletridge |  
+| bip_39_word_no_space_4 | shedtoiletridgeblossom |  
+| bip_39_word_no_space_5 | shedtoiletridgeblossomburger |  
+| bip_39_word_no_space_6 | shedtoiletridgeblossomburgermanage |  
+| bip_39_word_no_space_7 | shedtoiletridgeblossomburgermanagebreeze |  
+| bip_39_word_no_space_8 | shedtoiletridgeblossomburgermanagebreezerecord |  
+| bip_39_word_no_space_9 | shedtoiletridgeblossomburgermanagebreezerecordplug |  
 | bip_39_word_space_0 | ['shed', 'toilet', 'ridge', 'blossom', 'burger', 'manage', 'breeze', 'record', 'plug', 'pitch', 'cargo', 'animal'] |  
 | bip_39_word_space_1 | shed |  
 | bip_39_word_space_10 | shed toilet ridge blossom burger manage breeze record plug pitch |  

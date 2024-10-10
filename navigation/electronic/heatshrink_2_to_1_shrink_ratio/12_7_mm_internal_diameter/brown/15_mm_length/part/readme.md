@@ -122,6 +122,18 @@ quantum
 security
 industry
 pass |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highactionnowseasonplacequantumsecurityindustrypassquote |  
+| bip_39_word_no_space_11 | highactionnowseasonplacequantumsecurityindustrypassquoteweapon |  
+| bip_39_word_no_space_12 | highactionnowseasonplacequantumsecurityindustrypassquoteweaponair |  
+| bip_39_word_no_space_2 | highaction |  
+| bip_39_word_no_space_3 | highactionnow |  
+| bip_39_word_no_space_4 | highactionnowseason |  
+| bip_39_word_no_space_5 | highactionnowseasonplace |  
+| bip_39_word_no_space_6 | highactionnowseasonplacequantum |  
+| bip_39_word_no_space_7 | highactionnowseasonplacequantumsecurity |  
+| bip_39_word_no_space_8 | highactionnowseasonplacequantumsecurityindustry |  
+| bip_39_word_no_space_9 | highactionnowseasonplacequantumsecurityindustrypass |  
 | bip_39_word_space_0 | ['high', 'action', 'now', 'season', 'place', 'quantum', 'security', 'industry', 'pass', 'quote', 'weapon', 'air'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high action now season place quantum security industry pass quote |  

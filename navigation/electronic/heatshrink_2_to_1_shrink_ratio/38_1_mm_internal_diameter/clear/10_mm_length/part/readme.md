@@ -122,6 +122,18 @@ robust
 uphold
 forget
 position |  
+| bip_39_word_no_space_1 | drama |  
+| bip_39_word_no_space_10 | dramasignannouncebleakallrobustupholdforgetpositionnoble |  
+| bip_39_word_no_space_11 | dramasignannouncebleakallrobustupholdforgetpositionnobleuse |  
+| bip_39_word_no_space_12 | dramasignannouncebleakallrobustupholdforgetpositionnobleuseahead |  
+| bip_39_word_no_space_2 | dramasign |  
+| bip_39_word_no_space_3 | dramasignannounce |  
+| bip_39_word_no_space_4 | dramasignannouncebleak |  
+| bip_39_word_no_space_5 | dramasignannouncebleakall |  
+| bip_39_word_no_space_6 | dramasignannouncebleakallrobust |  
+| bip_39_word_no_space_7 | dramasignannouncebleakallrobustuphold |  
+| bip_39_word_no_space_8 | dramasignannouncebleakallrobustupholdforget |  
+| bip_39_word_no_space_9 | dramasignannouncebleakallrobustupholdforgetposition |  
 | bip_39_word_space_0 | ['drama', 'sign', 'announce', 'bleak', 'all', 'robust', 'uphold', 'forget', 'position', 'noble', 'use', 'ahead'] |  
 | bip_39_word_space_1 | drama |  
 | bip_39_word_space_10 | drama sign announce bleak all robust uphold forget position noble |  

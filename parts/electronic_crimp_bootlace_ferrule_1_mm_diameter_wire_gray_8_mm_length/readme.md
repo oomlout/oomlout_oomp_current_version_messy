@@ -122,6 +122,18 @@ wrist
 thing
 spawn
 evidence |  
+| bip_39_word_no_space_1 | identify |  
+| bip_39_word_no_space_10 | identifymorningjoyabsurddismisswristthingspawnevidenceperfect |  
+| bip_39_word_no_space_11 | identifymorningjoyabsurddismisswristthingspawnevidenceperfectnow |  
+| bip_39_word_no_space_12 | identifymorningjoyabsurddismisswristthingspawnevidenceperfectnowartefact |  
+| bip_39_word_no_space_2 | identifymorning |  
+| bip_39_word_no_space_3 | identifymorningjoy |  
+| bip_39_word_no_space_4 | identifymorningjoyabsurd |  
+| bip_39_word_no_space_5 | identifymorningjoyabsurddismiss |  
+| bip_39_word_no_space_6 | identifymorningjoyabsurddismisswrist |  
+| bip_39_word_no_space_7 | identifymorningjoyabsurddismisswristthing |  
+| bip_39_word_no_space_8 | identifymorningjoyabsurddismisswristthingspawn |  
+| bip_39_word_no_space_9 | identifymorningjoyabsurddismisswristthingspawnevidence |  
 | bip_39_word_space_0 | ['identify', 'morning', 'joy', 'absurd', 'dismiss', 'wrist', 'thing', 'spawn', 'evidence', 'perfect', 'now', 'artefact'] |  
 | bip_39_word_space_1 | identify |  
 | bip_39_word_space_10 | identify morning joy absurd dismiss wrist thing spawn evidence perfect |  

@@ -122,6 +122,18 @@ problem
 breeze
 harbor
 index |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhaustrubberenforcechuckleroyalproblembreezeharborindexbrief |  
+| bip_39_word_no_space_11 | exhaustrubberenforcechuckleroyalproblembreezeharborindexbriefage |  
+| bip_39_word_no_space_12 | exhaustrubberenforcechuckleroyalproblembreezeharborindexbriefageassault |  
+| bip_39_word_no_space_2 | exhaustrubber |  
+| bip_39_word_no_space_3 | exhaustrubberenforce |  
+| bip_39_word_no_space_4 | exhaustrubberenforcechuckle |  
+| bip_39_word_no_space_5 | exhaustrubberenforcechuckleroyal |  
+| bip_39_word_no_space_6 | exhaustrubberenforcechuckleroyalproblem |  
+| bip_39_word_no_space_7 | exhaustrubberenforcechuckleroyalproblembreeze |  
+| bip_39_word_no_space_8 | exhaustrubberenforcechuckleroyalproblembreezeharbor |  
+| bip_39_word_no_space_9 | exhaustrubberenforcechuckleroyalproblembreezeharborindex |  
 | bip_39_word_space_0 | ['exhaust', 'rubber', 'enforce', 'chuckle', 'royal', 'problem', 'breeze', 'harbor', 'index', 'brief', 'age', 'assault'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust rubber enforce chuckle royal problem breeze harbor index brief |  

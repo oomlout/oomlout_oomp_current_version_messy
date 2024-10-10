@@ -122,6 +122,18 @@ together
 spider
 maximum
 word |  
+| bip_39_word_no_space_1 | mom |  
+| bip_39_word_no_space_10 | momcakephotocousinclaytogetherspidermaximumwordship |  
+| bip_39_word_no_space_11 | momcakephotocousinclaytogetherspidermaximumwordshipdamage |  
+| bip_39_word_no_space_12 | momcakephotocousinclaytogetherspidermaximumwordshipdamagealcohol |  
+| bip_39_word_no_space_2 | momcake |  
+| bip_39_word_no_space_3 | momcakephoto |  
+| bip_39_word_no_space_4 | momcakephotocousin |  
+| bip_39_word_no_space_5 | momcakephotocousinclay |  
+| bip_39_word_no_space_6 | momcakephotocousinclaytogether |  
+| bip_39_word_no_space_7 | momcakephotocousinclaytogetherspider |  
+| bip_39_word_no_space_8 | momcakephotocousinclaytogetherspidermaximum |  
+| bip_39_word_no_space_9 | momcakephotocousinclaytogetherspidermaximumword |  
 | bip_39_word_space_0 | ['mom', 'cake', 'photo', 'cousin', 'clay', 'together', 'spider', 'maximum', 'word', 'ship', 'damage', 'alcohol'] |  
 | bip_39_word_space_1 | mom |  
 | bip_39_word_space_10 | mom cake photo cousin clay together spider maximum word ship |  

@@ -122,6 +122,18 @@ link
 erupt
 code
 library |  
+| bip_39_word_no_space_1 | library |  
+| bip_39_word_no_space_10 | libraryinflictenforceveteranprosperlinkeruptcodelibrarydeer |  
+| bip_39_word_no_space_11 | libraryinflictenforceveteranprosperlinkeruptcodelibrarydeerframe |  
+| bip_39_word_no_space_12 | libraryinflictenforceveteranprosperlinkeruptcodelibrarydeerframeaccount |  
+| bip_39_word_no_space_2 | libraryinflict |  
+| bip_39_word_no_space_3 | libraryinflictenforce |  
+| bip_39_word_no_space_4 | libraryinflictenforceveteran |  
+| bip_39_word_no_space_5 | libraryinflictenforceveteranprosper |  
+| bip_39_word_no_space_6 | libraryinflictenforceveteranprosperlink |  
+| bip_39_word_no_space_7 | libraryinflictenforceveteranprosperlinkerupt |  
+| bip_39_word_no_space_8 | libraryinflictenforceveteranprosperlinkeruptcode |  
+| bip_39_word_no_space_9 | libraryinflictenforceveteranprosperlinkeruptcodelibrary |  
 | bip_39_word_space_0 | ['library', 'inflict', 'enforce', 'veteran', 'prosper', 'link', 'erupt', 'code', 'library', 'deer', 'frame', 'account'] |  
 | bip_39_word_space_1 | library |  
 | bip_39_word_space_10 | library inflict enforce veteran prosper link erupt code library deer |  

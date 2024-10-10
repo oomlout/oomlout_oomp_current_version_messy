@@ -122,6 +122,18 @@ great
 quality
 narrow
 alter |  
+| bip_39_word_no_space_1 | over |  
+| bip_39_word_no_space_10 | overtastedampliftdraftgreatqualitynarrowalterknife |  
+| bip_39_word_no_space_11 | overtastedampliftdraftgreatqualitynarrowalterkniferecord |  
+| bip_39_word_no_space_12 | overtastedampliftdraftgreatqualitynarrowalterkniferecordabsorb |  
+| bip_39_word_no_space_2 | overtaste |  
+| bip_39_word_no_space_3 | overtastedamp |  
+| bip_39_word_no_space_4 | overtastedamplift |  
+| bip_39_word_no_space_5 | overtastedampliftdraft |  
+| bip_39_word_no_space_6 | overtastedampliftdraftgreat |  
+| bip_39_word_no_space_7 | overtastedampliftdraftgreatquality |  
+| bip_39_word_no_space_8 | overtastedampliftdraftgreatqualitynarrow |  
+| bip_39_word_no_space_9 | overtastedampliftdraftgreatqualitynarrowalter |  
 | bip_39_word_space_0 | ['over', 'taste', 'damp', 'lift', 'draft', 'great', 'quality', 'narrow', 'alter', 'knife', 'record', 'absorb'] |  
 | bip_39_word_space_1 | over |  
 | bip_39_word_space_10 | over taste damp lift draft great quality narrow alter knife |  

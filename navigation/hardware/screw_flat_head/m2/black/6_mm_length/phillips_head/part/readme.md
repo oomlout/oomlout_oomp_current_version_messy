@@ -122,6 +122,18 @@ aware
 food
 noise
 cause |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatoobeyidearevealreliefawarefoodnoisecauseput |  
+| bip_39_word_no_space_11 | tomatoobeyidearevealreliefawarefoodnoisecauseputborrow |  
+| bip_39_word_no_space_12 | tomatoobeyidearevealreliefawarefoodnoisecauseputborrowalcohol |  
+| bip_39_word_no_space_2 | tomatoobey |  
+| bip_39_word_no_space_3 | tomatoobeyidea |  
+| bip_39_word_no_space_4 | tomatoobeyideareveal |  
+| bip_39_word_no_space_5 | tomatoobeyidearevealrelief |  
+| bip_39_word_no_space_6 | tomatoobeyidearevealreliefaware |  
+| bip_39_word_no_space_7 | tomatoobeyidearevealreliefawarefood |  
+| bip_39_word_no_space_8 | tomatoobeyidearevealreliefawarefoodnoise |  
+| bip_39_word_no_space_9 | tomatoobeyidearevealreliefawarefoodnoisecause |  
 | bip_39_word_space_0 | ['tomato', 'obey', 'idea', 'reveal', 'relief', 'aware', 'food', 'noise', 'cause', 'put', 'borrow', 'alcohol'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato obey idea reveal relief aware food noise cause put |  

@@ -122,6 +122,18 @@ tortoise
 brass
 potato
 interest |  
+| bip_39_word_no_space_1 | smooth |  
+| bip_39_word_no_space_10 | smoothauditeightturtlehumantortoisebrasspotatointerestraise |  
+| bip_39_word_no_space_11 | smoothauditeightturtlehumantortoisebrasspotatointerestraiseball |  
+| bip_39_word_no_space_12 | smoothauditeightturtlehumantortoisebrasspotatointerestraiseballagent |  
+| bip_39_word_no_space_2 | smoothaudit |  
+| bip_39_word_no_space_3 | smoothauditeight |  
+| bip_39_word_no_space_4 | smoothauditeightturtle |  
+| bip_39_word_no_space_5 | smoothauditeightturtlehuman |  
+| bip_39_word_no_space_6 | smoothauditeightturtlehumantortoise |  
+| bip_39_word_no_space_7 | smoothauditeightturtlehumantortoisebrass |  
+| bip_39_word_no_space_8 | smoothauditeightturtlehumantortoisebrasspotato |  
+| bip_39_word_no_space_9 | smoothauditeightturtlehumantortoisebrasspotatointerest |  
 | bip_39_word_space_0 | ['smooth', 'audit', 'eight', 'turtle', 'human', 'tortoise', 'brass', 'potato', 'interest', 'raise', 'ball', 'agent'] |  
 | bip_39_word_space_1 | smooth |  
 | bip_39_word_space_10 | smooth audit eight turtle human tortoise brass potato interest raise |  

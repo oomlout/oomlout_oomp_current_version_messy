@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ocean
   flag
 
   turtle'
+bip_39_word_no_space_1: ocean
+bip_39_word_no_space_10: oceanstampribboncodehelmetadviceshiverflagturtleexhaust
+bip_39_word_no_space_11: oceanstampribboncodehelmetadviceshiverflagturtleexhaustbuddy
+bip_39_word_no_space_12: oceanstampribboncodehelmetadviceshiverflagturtleexhaustbuddyalways
+bip_39_word_no_space_2: oceanstamp
+bip_39_word_no_space_3: oceanstampribbon
+bip_39_word_no_space_4: oceanstampribboncode
+bip_39_word_no_space_5: oceanstampribboncodehelmet
+bip_39_word_no_space_6: oceanstampribboncodehelmetadvice
+bip_39_word_no_space_7: oceanstampribboncodehelmetadviceshiver
+bip_39_word_no_space_8: oceanstampribboncodehelmetadviceshiverflag
+bip_39_word_no_space_9: oceanstampribboncodehelmetadviceshiverflagturtle
 bip_39_word_space_0:
 - ocean
 - stamp

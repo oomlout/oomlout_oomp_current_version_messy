@@ -122,6 +122,18 @@ hurdle
 conduct
 job
 guard |  
+| bip_39_word_no_space_1 | crack |  
+| bip_39_word_no_space_10 | crackconsiderseasonleadercabbagehurdleconductjobguardsponsor |  
+| bip_39_word_no_space_11 | crackconsiderseasonleadercabbagehurdleconductjobguardsponsorpen |  
+| bip_39_word_no_space_12 | crackconsiderseasonleadercabbagehurdleconductjobguardsponsorpenact |  
+| bip_39_word_no_space_2 | crackconsider |  
+| bip_39_word_no_space_3 | crackconsiderseason |  
+| bip_39_word_no_space_4 | crackconsiderseasonleader |  
+| bip_39_word_no_space_5 | crackconsiderseasonleadercabbage |  
+| bip_39_word_no_space_6 | crackconsiderseasonleadercabbagehurdle |  
+| bip_39_word_no_space_7 | crackconsiderseasonleadercabbagehurdleconduct |  
+| bip_39_word_no_space_8 | crackconsiderseasonleadercabbagehurdleconductjob |  
+| bip_39_word_no_space_9 | crackconsiderseasonleadercabbagehurdleconductjobguard |  
 | bip_39_word_space_0 | ['crack', 'consider', 'season', 'leader', 'cabbage', 'hurdle', 'conduct', 'job', 'guard', 'sponsor', 'pen', 'act'] |  
 | bip_39_word_space_1 | crack |  
 | bip_39_word_space_10 | crack consider season leader cabbage hurdle conduct job guard sponsor |  

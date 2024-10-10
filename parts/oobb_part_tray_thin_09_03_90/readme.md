@@ -122,6 +122,18 @@ middle
 admit
 sponsor
 first |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accusearenacinnamonbambooalleymiddleadmitsponsorfirstopen |  
+| bip_39_word_no_space_11 | accusearenacinnamonbambooalleymiddleadmitsponsorfirstopenunhappy |  
+| bip_39_word_no_space_12 | accusearenacinnamonbambooalleymiddleadmitsponsorfirstopenunhappyagain |  
+| bip_39_word_no_space_2 | accusearena |  
+| bip_39_word_no_space_3 | accusearenacinnamon |  
+| bip_39_word_no_space_4 | accusearenacinnamonbamboo |  
+| bip_39_word_no_space_5 | accusearenacinnamonbambooalley |  
+| bip_39_word_no_space_6 | accusearenacinnamonbambooalleymiddle |  
+| bip_39_word_no_space_7 | accusearenacinnamonbambooalleymiddleadmit |  
+| bip_39_word_no_space_8 | accusearenacinnamonbambooalleymiddleadmitsponsor |  
+| bip_39_word_no_space_9 | accusearenacinnamonbambooalleymiddleadmitsponsorfirst |  
 | bip_39_word_space_0 | ['accuse', 'arena', 'cinnamon', 'bamboo', 'alley', 'middle', 'admit', 'sponsor', 'first', 'open', 'unhappy', 'again'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse arena cinnamon bamboo alley middle admit sponsor first open |  

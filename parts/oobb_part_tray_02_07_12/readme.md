@@ -122,6 +122,18 @@ civil
 install
 turtle
 ride |  
+| bip_39_word_no_space_1 | wheel |  
+| bip_39_word_no_space_10 | wheelnamesupplyexcesschurncivilinstallturtleridewrist |  
+| bip_39_word_no_space_11 | wheelnamesupplyexcesschurncivilinstallturtleridewristhole |  
+| bip_39_word_no_space_12 | wheelnamesupplyexcesschurncivilinstallturtleridewristholeallow |  
+| bip_39_word_no_space_2 | wheelname |  
+| bip_39_word_no_space_3 | wheelnamesupply |  
+| bip_39_word_no_space_4 | wheelnamesupplyexcess |  
+| bip_39_word_no_space_5 | wheelnamesupplyexcesschurn |  
+| bip_39_word_no_space_6 | wheelnamesupplyexcesschurncivil |  
+| bip_39_word_no_space_7 | wheelnamesupplyexcesschurncivilinstall |  
+| bip_39_word_no_space_8 | wheelnamesupplyexcesschurncivilinstallturtle |  
+| bip_39_word_no_space_9 | wheelnamesupplyexcesschurncivilinstallturtleride |  
 | bip_39_word_space_0 | ['wheel', 'name', 'supply', 'excess', 'churn', 'civil', 'install', 'turtle', 'ride', 'wrist', 'hole', 'allow'] |  
 | bip_39_word_space_1 | wheel |  
 | bip_39_word_space_10 | wheel name supply excess churn civil install turtle ride wrist |  

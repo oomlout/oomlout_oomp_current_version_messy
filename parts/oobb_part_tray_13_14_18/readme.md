@@ -122,6 +122,18 @@ segment
 welcome
 later
 magnet |  
+| bip_39_word_no_space_1 | estate |  
+| bip_39_word_no_space_10 | estatechaseanglecraftthanksegmentwelcomelatermagnetmanage |  
+| bip_39_word_no_space_11 | estatechaseanglecraftthanksegmentwelcomelatermagnetmanagemarine |  
+| bip_39_word_no_space_12 | estatechaseanglecraftthanksegmentwelcomelatermagnetmanagemarinealso |  
+| bip_39_word_no_space_2 | estatechase |  
+| bip_39_word_no_space_3 | estatechaseangle |  
+| bip_39_word_no_space_4 | estatechaseanglecraft |  
+| bip_39_word_no_space_5 | estatechaseanglecraftthank |  
+| bip_39_word_no_space_6 | estatechaseanglecraftthanksegment |  
+| bip_39_word_no_space_7 | estatechaseanglecraftthanksegmentwelcome |  
+| bip_39_word_no_space_8 | estatechaseanglecraftthanksegmentwelcomelater |  
+| bip_39_word_no_space_9 | estatechaseanglecraftthanksegmentwelcomelatermagnet |  
 | bip_39_word_space_0 | ['estate', 'chase', 'angle', 'craft', 'thank', 'segment', 'welcome', 'later', 'magnet', 'manage', 'marine', 'also'] |  
 | bip_39_word_space_1 | estate |  
 | bip_39_word_space_10 | estate chase angle craft thank segment welcome later magnet manage |  

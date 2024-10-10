@@ -122,6 +122,18 @@ excess
 tube
 gate
 salute |  
+| bip_39_word_no_space_1 | please |  
+| bip_39_word_no_space_10 | pleasetenantvastcruelchapterexcesstubegatesalutetrial |  
+| bip_39_word_no_space_11 | pleasetenantvastcruelchapterexcesstubegatesalutetriallesson |  
+| bip_39_word_no_space_12 | pleasetenantvastcruelchapterexcesstubegatesalutetriallessonartist |  
+| bip_39_word_no_space_2 | pleasetenant |  
+| bip_39_word_no_space_3 | pleasetenantvast |  
+| bip_39_word_no_space_4 | pleasetenantvastcruel |  
+| bip_39_word_no_space_5 | pleasetenantvastcruelchapter |  
+| bip_39_word_no_space_6 | pleasetenantvastcruelchapterexcess |  
+| bip_39_word_no_space_7 | pleasetenantvastcruelchapterexcesstube |  
+| bip_39_word_no_space_8 | pleasetenantvastcruelchapterexcesstubegate |  
+| bip_39_word_no_space_9 | pleasetenantvastcruelchapterexcesstubegatesalute |  
 | bip_39_word_space_0 | ['please', 'tenant', 'vast', 'cruel', 'chapter', 'excess', 'tube', 'gate', 'salute', 'trial', 'lesson', 'artist'] |  
 | bip_39_word_space_1 | please |  
 | bip_39_word_space_10 | please tenant vast cruel chapter excess tube gate salute trial |  

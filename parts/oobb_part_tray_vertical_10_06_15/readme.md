@@ -122,6 +122,18 @@ matter
 luxury
 nothing
 ribbon |  
+| bip_39_word_no_space_1 | true |  
+| bip_39_word_no_space_10 | truesingpasscategoryoceanmatterluxurynothingribbonrandom |  
+| bip_39_word_no_space_11 | truesingpasscategoryoceanmatterluxurynothingribbonrandomvisa |  
+| bip_39_word_no_space_12 | truesingpasscategoryoceanmatterluxurynothingribbonrandomvisaannounce |  
+| bip_39_word_no_space_2 | truesing |  
+| bip_39_word_no_space_3 | truesingpass |  
+| bip_39_word_no_space_4 | truesingpasscategory |  
+| bip_39_word_no_space_5 | truesingpasscategoryocean |  
+| bip_39_word_no_space_6 | truesingpasscategoryoceanmatter |  
+| bip_39_word_no_space_7 | truesingpasscategoryoceanmatterluxury |  
+| bip_39_word_no_space_8 | truesingpasscategoryoceanmatterluxurynothing |  
+| bip_39_word_no_space_9 | truesingpasscategoryoceanmatterluxurynothingribbon |  
 | bip_39_word_space_0 | ['true', 'sing', 'pass', 'category', 'ocean', 'matter', 'luxury', 'nothing', 'ribbon', 'random', 'visa', 'announce'] |  
 | bip_39_word_space_1 | true |  
 | bip_39_word_space_10 | true sing pass category ocean matter luxury nothing ribbon random |  

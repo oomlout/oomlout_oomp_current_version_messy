@@ -122,6 +122,18 @@ current
 candy
 exit
 dial |  
+| bip_39_word_no_space_1 | reform |  
+| bip_39_word_no_space_10 | reformcoolballdoseobscurecurrentcandyexitdialartist |  
+| bip_39_word_no_space_11 | reformcoolballdoseobscurecurrentcandyexitdialartistmystery |  
+| bip_39_word_no_space_12 | reformcoolballdoseobscurecurrentcandyexitdialartistmysteryalter |  
+| bip_39_word_no_space_2 | reformcool |  
+| bip_39_word_no_space_3 | reformcoolball |  
+| bip_39_word_no_space_4 | reformcoolballdose |  
+| bip_39_word_no_space_5 | reformcoolballdoseobscure |  
+| bip_39_word_no_space_6 | reformcoolballdoseobscurecurrent |  
+| bip_39_word_no_space_7 | reformcoolballdoseobscurecurrentcandy |  
+| bip_39_word_no_space_8 | reformcoolballdoseobscurecurrentcandyexit |  
+| bip_39_word_no_space_9 | reformcoolballdoseobscurecurrentcandyexitdial |  
 | bip_39_word_space_0 | ['reform', 'cool', 'ball', 'dose', 'obscure', 'current', 'candy', 'exit', 'dial', 'artist', 'mystery', 'alter'] |  
 | bip_39_word_space_1 | reform |  
 | bip_39_word_space_10 | reform cool ball dose obscure current candy exit dial artist |  

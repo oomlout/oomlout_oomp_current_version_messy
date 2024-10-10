@@ -122,6 +122,18 @@ insane
 sock
 enjoy
 access |  
+| bip_39_word_no_space_1 | evidence |  
+| bip_39_word_no_space_10 | evidenceabilityseminarartworkcanoeinsanesockenjoyaccesskit |  
+| bip_39_word_no_space_11 | evidenceabilityseminarartworkcanoeinsanesockenjoyaccesskitagain |  
+| bip_39_word_no_space_12 | evidenceabilityseminarartworkcanoeinsanesockenjoyaccesskitagainadd |  
+| bip_39_word_no_space_2 | evidenceability |  
+| bip_39_word_no_space_3 | evidenceabilityseminar |  
+| bip_39_word_no_space_4 | evidenceabilityseminarartwork |  
+| bip_39_word_no_space_5 | evidenceabilityseminarartworkcanoe |  
+| bip_39_word_no_space_6 | evidenceabilityseminarartworkcanoeinsane |  
+| bip_39_word_no_space_7 | evidenceabilityseminarartworkcanoeinsanesock |  
+| bip_39_word_no_space_8 | evidenceabilityseminarartworkcanoeinsanesockenjoy |  
+| bip_39_word_no_space_9 | evidenceabilityseminarartworkcanoeinsanesockenjoyaccess |  
 | bip_39_word_space_0 | ['evidence', 'ability', 'seminar', 'artwork', 'canoe', 'insane', 'sock', 'enjoy', 'access', 'kit', 'again', 'add'] |  
 | bip_39_word_space_1 | evidence |  
 | bip_39_word_space_10 | evidence ability seminar artwork canoe insane sock enjoy access kit |  

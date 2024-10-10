@@ -122,6 +122,18 @@ insect
 prison
 sport
 web |  
+| bip_39_word_no_space_1 | draw |  
+| bip_39_word_no_space_10 | drawmultiplysadnesssectionsituateinsectprisonsportwebdoll |  
+| bip_39_word_no_space_11 | drawmultiplysadnesssectionsituateinsectprisonsportwebdolltip |  
+| bip_39_word_no_space_12 | drawmultiplysadnesssectionsituateinsectprisonsportwebdolltipantique |  
+| bip_39_word_no_space_2 | drawmultiply |  
+| bip_39_word_no_space_3 | drawmultiplysadness |  
+| bip_39_word_no_space_4 | drawmultiplysadnesssection |  
+| bip_39_word_no_space_5 | drawmultiplysadnesssectionsituate |  
+| bip_39_word_no_space_6 | drawmultiplysadnesssectionsituateinsect |  
+| bip_39_word_no_space_7 | drawmultiplysadnesssectionsituateinsectprison |  
+| bip_39_word_no_space_8 | drawmultiplysadnesssectionsituateinsectprisonsport |  
+| bip_39_word_no_space_9 | drawmultiplysadnesssectionsituateinsectprisonsportweb |  
 | bip_39_word_space_0 | ['draw', 'multiply', 'sadness', 'section', 'situate', 'insect', 'prison', 'sport', 'web', 'doll', 'tip', 'antique'] |  
 | bip_39_word_space_1 | draw |  
 | bip_39_word_space_10 | draw multiply sadness section situate insect prison sport web doll |  

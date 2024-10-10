@@ -122,6 +122,18 @@ nation
 cloud
 hint
 glove |  
+| bip_39_word_no_space_1 | swing |  
+| bip_39_word_no_space_10 | swingdrillloveangerladdernationcloudhintglovereject |  
+| bip_39_word_no_space_11 | swingdrillloveangerladdernationcloudhintgloverejectdesert |  
+| bip_39_word_no_space_12 | swingdrillloveangerladdernationcloudhintgloverejectdesertalarm |  
+| bip_39_word_no_space_2 | swingdrill |  
+| bip_39_word_no_space_3 | swingdrilllove |  
+| bip_39_word_no_space_4 | swingdrillloveanger |  
+| bip_39_word_no_space_5 | swingdrillloveangerladder |  
+| bip_39_word_no_space_6 | swingdrillloveangerladdernation |  
+| bip_39_word_no_space_7 | swingdrillloveangerladdernationcloud |  
+| bip_39_word_no_space_8 | swingdrillloveangerladdernationcloudhint |  
+| bip_39_word_no_space_9 | swingdrillloveangerladdernationcloudhintglove |  
 | bip_39_word_space_0 | ['swing', 'drill', 'love', 'anger', 'ladder', 'nation', 'cloud', 'hint', 'glove', 'reject', 'desert', 'alarm'] |  
 | bip_39_word_space_1 | swing |  
 | bip_39_word_space_10 | swing drill love anger ladder nation cloud hint glove reject |  

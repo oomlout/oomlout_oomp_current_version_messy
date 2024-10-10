@@ -122,6 +122,18 @@ night
 task
 street
 wait |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimbundleerodewalnutflynighttaskstreetwaittrophy |  
+| bip_39_word_no_space_11 | trimbundleerodewalnutflynighttaskstreetwaittrophypuzzle |  
+| bip_39_word_no_space_12 | trimbundleerodewalnutflynighttaskstreetwaittrophypuzzleathlete |  
+| bip_39_word_no_space_2 | trimbundle |  
+| bip_39_word_no_space_3 | trimbundleerode |  
+| bip_39_word_no_space_4 | trimbundleerodewalnut |  
+| bip_39_word_no_space_5 | trimbundleerodewalnutfly |  
+| bip_39_word_no_space_6 | trimbundleerodewalnutflynight |  
+| bip_39_word_no_space_7 | trimbundleerodewalnutflynighttask |  
+| bip_39_word_no_space_8 | trimbundleerodewalnutflynighttaskstreet |  
+| bip_39_word_no_space_9 | trimbundleerodewalnutflynighttaskstreetwait |  
 | bip_39_word_space_0 | ['trim', 'bundle', 'erode', 'walnut', 'fly', 'night', 'task', 'street', 'wait', 'trophy', 'puzzle', 'athlete'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim bundle erode walnut fly night task street wait trophy |  

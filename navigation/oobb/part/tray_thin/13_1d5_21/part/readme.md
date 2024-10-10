@@ -122,6 +122,18 @@ excite
 trust
 pear
 love |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudeupperpaymentchurnclientexcitetrustpearlovehigh |  
+| bip_39_word_no_space_11 | attitudeupperpaymentchurnclientexcitetrustpearlovehighrepeat |  
+| bip_39_word_no_space_12 | attitudeupperpaymentchurnclientexcitetrustpearlovehighrepeataunt |  
+| bip_39_word_no_space_2 | attitudeupper |  
+| bip_39_word_no_space_3 | attitudeupperpayment |  
+| bip_39_word_no_space_4 | attitudeupperpaymentchurn |  
+| bip_39_word_no_space_5 | attitudeupperpaymentchurnclient |  
+| bip_39_word_no_space_6 | attitudeupperpaymentchurnclientexcite |  
+| bip_39_word_no_space_7 | attitudeupperpaymentchurnclientexcitetrust |  
+| bip_39_word_no_space_8 | attitudeupperpaymentchurnclientexcitetrustpear |  
+| bip_39_word_no_space_9 | attitudeupperpaymentchurnclientexcitetrustpearlove |  
 | bip_39_word_space_0 | ['attitude', 'upper', 'payment', 'churn', 'client', 'excite', 'trust', 'pear', 'love', 'high', 'repeat', 'aunt'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude upper payment churn client excite trust pear love high |  

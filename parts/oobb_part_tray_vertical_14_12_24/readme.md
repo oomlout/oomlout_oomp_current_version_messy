@@ -122,6 +122,18 @@ deny
 keep
 donkey
 pave |  
+| bip_39_word_no_space_1 | wrap |  
+| bip_39_word_no_space_10 | wraponlyfabricenactsecuritydenykeepdonkeypavecrisp |  
+| bip_39_word_no_space_11 | wraponlyfabricenactsecuritydenykeepdonkeypavecrispmelt |  
+| bip_39_word_no_space_12 | wraponlyfabricenactsecuritydenykeepdonkeypavecrispmeltarea |  
+| bip_39_word_no_space_2 | wraponly |  
+| bip_39_word_no_space_3 | wraponlyfabric |  
+| bip_39_word_no_space_4 | wraponlyfabricenact |  
+| bip_39_word_no_space_5 | wraponlyfabricenactsecurity |  
+| bip_39_word_no_space_6 | wraponlyfabricenactsecuritydeny |  
+| bip_39_word_no_space_7 | wraponlyfabricenactsecuritydenykeep |  
+| bip_39_word_no_space_8 | wraponlyfabricenactsecuritydenykeepdonkey |  
+| bip_39_word_no_space_9 | wraponlyfabricenactsecuritydenykeepdonkeypave |  
 | bip_39_word_space_0 | ['wrap', 'only', 'fabric', 'enact', 'security', 'deny', 'keep', 'donkey', 'pave', 'crisp', 'melt', 'area'] |  
 | bip_39_word_space_1 | wrap |  
 | bip_39_word_space_10 | wrap only fabric enact security deny keep donkey pave crisp |  

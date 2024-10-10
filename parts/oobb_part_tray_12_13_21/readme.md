@@ -122,6 +122,18 @@ call
 journey
 inform
 bar |  
+| bip_39_word_no_space_1 | under |  
+| bip_39_word_no_space_10 | underpushcinnamonshrimpcomecalljourneyinformbarostrich |  
+| bip_39_word_no_space_11 | underpushcinnamonshrimpcomecalljourneyinformbarostrichgarden |  
+| bip_39_word_no_space_12 | underpushcinnamonshrimpcomecalljourneyinformbarostrichgardenachieve |  
+| bip_39_word_no_space_2 | underpush |  
+| bip_39_word_no_space_3 | underpushcinnamon |  
+| bip_39_word_no_space_4 | underpushcinnamonshrimp |  
+| bip_39_word_no_space_5 | underpushcinnamonshrimpcome |  
+| bip_39_word_no_space_6 | underpushcinnamonshrimpcomecall |  
+| bip_39_word_no_space_7 | underpushcinnamonshrimpcomecalljourney |  
+| bip_39_word_no_space_8 | underpushcinnamonshrimpcomecalljourneyinform |  
+| bip_39_word_no_space_9 | underpushcinnamonshrimpcomecalljourneyinformbar |  
 | bip_39_word_space_0 | ['under', 'push', 'cinnamon', 'shrimp', 'come', 'call', 'journey', 'inform', 'bar', 'ostrich', 'garden', 'achieve'] |  
 | bip_39_word_space_1 | under |  
 | bip_39_word_space_10 | under push cinnamon shrimp come call journey inform bar ostrich |  

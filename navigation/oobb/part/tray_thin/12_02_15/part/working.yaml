@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'truth
   sorry
 
   denial'
+bip_39_word_no_space_1: truth
+bip_39_word_no_space_10: truthwheatshoppondfoldcycleharvestsorrydenialsteel
+bip_39_word_no_space_11: truthwheatshoppondfoldcycleharvestsorrydenialsteelawesome
+bip_39_word_no_space_12: truthwheatshoppondfoldcycleharvestsorrydenialsteelawesomeathlete
+bip_39_word_no_space_2: truthwheat
+bip_39_word_no_space_3: truthwheatshop
+bip_39_word_no_space_4: truthwheatshoppond
+bip_39_word_no_space_5: truthwheatshoppondfold
+bip_39_word_no_space_6: truthwheatshoppondfoldcycle
+bip_39_word_no_space_7: truthwheatshoppondfoldcycleharvest
+bip_39_word_no_space_8: truthwheatshoppondfoldcycleharvestsorry
+bip_39_word_no_space_9: truthwheatshoppondfoldcycleharvestsorrydenial
 bip_39_word_space_0:
 - truth
 - wheat

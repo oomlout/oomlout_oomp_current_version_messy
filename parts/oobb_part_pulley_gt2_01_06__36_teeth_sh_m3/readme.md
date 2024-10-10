@@ -122,6 +122,18 @@ decline
 erase
 drink
 buyer |  
+| bip_39_word_no_space_1 | pipe |  
+| bip_39_word_no_space_10 | pipealwayswitnesschoicedismissdeclineerasedrinkbuyerwild |  
+| bip_39_word_no_space_11 | pipealwayswitnesschoicedismissdeclineerasedrinkbuyerwildaction |  
+| bip_39_word_no_space_12 | pipealwayswitnesschoicedismissdeclineerasedrinkbuyerwildactionahead |  
+| bip_39_word_no_space_2 | pipealways |  
+| bip_39_word_no_space_3 | pipealwayswitness |  
+| bip_39_word_no_space_4 | pipealwayswitnesschoice |  
+| bip_39_word_no_space_5 | pipealwayswitnesschoicedismiss |  
+| bip_39_word_no_space_6 | pipealwayswitnesschoicedismissdecline |  
+| bip_39_word_no_space_7 | pipealwayswitnesschoicedismissdeclineerase |  
+| bip_39_word_no_space_8 | pipealwayswitnesschoicedismissdeclineerasedrink |  
+| bip_39_word_no_space_9 | pipealwayswitnesschoicedismissdeclineerasedrinkbuyer |  
 | bip_39_word_space_0 | ['pipe', 'always', 'witness', 'choice', 'dismiss', 'decline', 'erase', 'drink', 'buyer', 'wild', 'action', 'ahead'] |  
 | bip_39_word_space_1 | pipe |  
 | bip_39_word_space_10 | pipe always witness choice dismiss decline erase drink buyer wild |  

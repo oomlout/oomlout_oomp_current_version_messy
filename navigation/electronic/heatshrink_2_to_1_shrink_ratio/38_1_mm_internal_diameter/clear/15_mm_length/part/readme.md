@@ -122,6 +122,18 @@ accident
 yellow
 original
 cable |  
+| bip_39_word_no_space_1 | shallow |  
+| bip_39_word_no_space_10 | shallowunhappytiredmeshbrownaccidentyelloworiginalcablevoice |  
+| bip_39_word_no_space_11 | shallowunhappytiredmeshbrownaccidentyelloworiginalcablevoicepole |  
+| bip_39_word_no_space_12 | shallowunhappytiredmeshbrownaccidentyelloworiginalcablevoicepoleannual |  
+| bip_39_word_no_space_2 | shallowunhappy |  
+| bip_39_word_no_space_3 | shallowunhappytired |  
+| bip_39_word_no_space_4 | shallowunhappytiredmesh |  
+| bip_39_word_no_space_5 | shallowunhappytiredmeshbrown |  
+| bip_39_word_no_space_6 | shallowunhappytiredmeshbrownaccident |  
+| bip_39_word_no_space_7 | shallowunhappytiredmeshbrownaccidentyellow |  
+| bip_39_word_no_space_8 | shallowunhappytiredmeshbrownaccidentyelloworiginal |  
+| bip_39_word_no_space_9 | shallowunhappytiredmeshbrownaccidentyelloworiginalcable |  
 | bip_39_word_space_0 | ['shallow', 'unhappy', 'tired', 'mesh', 'brown', 'accident', 'yellow', 'original', 'cable', 'voice', 'pole', 'annual'] |  
 | bip_39_word_space_1 | shallow |  
 | bip_39_word_space_10 | shallow unhappy tired mesh brown accident yellow original cable voice |  

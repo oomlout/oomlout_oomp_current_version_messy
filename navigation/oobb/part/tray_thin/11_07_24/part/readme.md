@@ -122,6 +122,18 @@ dress
 garbage
 decrease
 concert |  
+| bip_39_word_no_space_1 | hero |  
+| bip_39_word_no_space_10 | herogamewhalesidedeskdressgarbagedecreaseconcertdivorce |  
+| bip_39_word_no_space_11 | herogamewhalesidedeskdressgarbagedecreaseconcertdivorcedelay |  
+| bip_39_word_no_space_12 | herogamewhalesidedeskdressgarbagedecreaseconcertdivorcedelayassault |  
+| bip_39_word_no_space_2 | herogame |  
+| bip_39_word_no_space_3 | herogamewhale |  
+| bip_39_word_no_space_4 | herogamewhaleside |  
+| bip_39_word_no_space_5 | herogamewhalesidedesk |  
+| bip_39_word_no_space_6 | herogamewhalesidedeskdress |  
+| bip_39_word_no_space_7 | herogamewhalesidedeskdressgarbage |  
+| bip_39_word_no_space_8 | herogamewhalesidedeskdressgarbagedecrease |  
+| bip_39_word_no_space_9 | herogamewhalesidedeskdressgarbagedecreaseconcert |  
 | bip_39_word_space_0 | ['hero', 'game', 'whale', 'side', 'desk', 'dress', 'garbage', 'decrease', 'concert', 'divorce', 'delay', 'assault'] |  
 | bip_39_word_space_1 | hero |  
 | bip_39_word_space_10 | hero game whale side desk dress garbage decrease concert divorce |  

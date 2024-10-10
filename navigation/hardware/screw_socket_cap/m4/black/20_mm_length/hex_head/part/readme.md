@@ -122,6 +122,18 @@ island
 speak
 just
 artwork |  
+| bip_39_word_no_space_1 | tent |  
+| bip_39_word_no_space_10 | tentgeniusjeansangryvanishislandspeakjustartworkchuckle |  
+| bip_39_word_no_space_11 | tentgeniusjeansangryvanishislandspeakjustartworkchucklegoose |  
+| bip_39_word_no_space_12 | tentgeniusjeansangryvanishislandspeakjustartworkchucklegooseaim |  
+| bip_39_word_no_space_2 | tentgenius |  
+| bip_39_word_no_space_3 | tentgeniusjeans |  
+| bip_39_word_no_space_4 | tentgeniusjeansangry |  
+| bip_39_word_no_space_5 | tentgeniusjeansangryvanish |  
+| bip_39_word_no_space_6 | tentgeniusjeansangryvanishisland |  
+| bip_39_word_no_space_7 | tentgeniusjeansangryvanishislandspeak |  
+| bip_39_word_no_space_8 | tentgeniusjeansangryvanishislandspeakjust |  
+| bip_39_word_no_space_9 | tentgeniusjeansangryvanishislandspeakjustartwork |  
 | bip_39_word_space_0 | ['tent', 'genius', 'jeans', 'angry', 'vanish', 'island', 'speak', 'just', 'artwork', 'chuckle', 'goose', 'aim'] |  
 | bip_39_word_space_1 | tent |  
 | bip_39_word_space_10 | tent genius jeans angry vanish island speak just artwork chuckle |  

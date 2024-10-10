@@ -122,6 +122,18 @@ vibrant
 citizen
 raise
 wall |  
+| bip_39_word_no_space_1 | warrior |  
+| bip_39_word_no_space_10 | warriorhusbandventuresymptomthenvibrantcitizenraisewalltwist |  
+| bip_39_word_no_space_11 | warriorhusbandventuresymptomthenvibrantcitizenraisewalltwistdiagram |  
+| bip_39_word_no_space_12 | warriorhusbandventuresymptomthenvibrantcitizenraisewalltwistdiagramaspect |  
+| bip_39_word_no_space_2 | warriorhusband |  
+| bip_39_word_no_space_3 | warriorhusbandventure |  
+| bip_39_word_no_space_4 | warriorhusbandventuresymptom |  
+| bip_39_word_no_space_5 | warriorhusbandventuresymptomthen |  
+| bip_39_word_no_space_6 | warriorhusbandventuresymptomthenvibrant |  
+| bip_39_word_no_space_7 | warriorhusbandventuresymptomthenvibrantcitizen |  
+| bip_39_word_no_space_8 | warriorhusbandventuresymptomthenvibrantcitizenraise |  
+| bip_39_word_no_space_9 | warriorhusbandventuresymptomthenvibrantcitizenraisewall |  
 | bip_39_word_space_0 | ['warrior', 'husband', 'venture', 'symptom', 'then', 'vibrant', 'citizen', 'raise', 'wall', 'twist', 'diagram', 'aspect'] |  
 | bip_39_word_space_1 | warrior |  
 | bip_39_word_space_10 | warrior husband venture symptom then vibrant citizen raise wall twist |  

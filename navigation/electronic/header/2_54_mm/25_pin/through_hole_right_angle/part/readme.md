@@ -122,6 +122,18 @@ fiber
 grocery
 turn
 carbon |  
+| bip_39_word_no_space_1 | claim |  
+| bip_39_word_no_space_10 | claimmotorbikeangermuchfibergroceryturncarbonzone |  
+| bip_39_word_no_space_11 | claimmotorbikeangermuchfibergroceryturncarbonzonebusiness |  
+| bip_39_word_no_space_12 | claimmotorbikeangermuchfibergroceryturncarbonzonebusinessargue |  
+| bip_39_word_no_space_2 | claimmotor |  
+| bip_39_word_no_space_3 | claimmotorbike |  
+| bip_39_word_no_space_4 | claimmotorbikeanger |  
+| bip_39_word_no_space_5 | claimmotorbikeangermuch |  
+| bip_39_word_no_space_6 | claimmotorbikeangermuchfiber |  
+| bip_39_word_no_space_7 | claimmotorbikeangermuchfibergrocery |  
+| bip_39_word_no_space_8 | claimmotorbikeangermuchfibergroceryturn |  
+| bip_39_word_no_space_9 | claimmotorbikeangermuchfibergroceryturncarbon |  
 | bip_39_word_space_0 | ['claim', 'motor', 'bike', 'anger', 'much', 'fiber', 'grocery', 'turn', 'carbon', 'zone', 'business', 'argue'] |  
 | bip_39_word_space_1 | claim |  
 | bip_39_word_space_10 | claim motor bike anger much fiber grocery turn carbon zone |  

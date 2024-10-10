@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cycle
   goose
 
   term'
+bip_39_word_no_space_1: cycle
+bip_39_word_no_space_10: cycleallowantiqueatompandaseachalkgoosetermspin
+bip_39_word_no_space_11: cycleallowantiqueatompandaseachalkgoosetermspinretreat
+bip_39_word_no_space_12: cycleallowantiqueatompandaseachalkgoosetermspinretreatalpha
+bip_39_word_no_space_2: cycleallow
+bip_39_word_no_space_3: cycleallowantique
+bip_39_word_no_space_4: cycleallowantiqueatom
+bip_39_word_no_space_5: cycleallowantiqueatompanda
+bip_39_word_no_space_6: cycleallowantiqueatompandasea
+bip_39_word_no_space_7: cycleallowantiqueatompandaseachalk
+bip_39_word_no_space_8: cycleallowantiqueatompandaseachalkgoose
+bip_39_word_no_space_9: cycleallowantiqueatompandaseachalkgooseterm
 bip_39_word_space_0:
 - cycle
 - allow

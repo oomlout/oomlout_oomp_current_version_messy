@@ -122,6 +122,18 @@ immune
 mobile
 asthma
 mad |  
+| bip_39_word_no_space_1 | arch |  
+| bip_39_word_no_space_10 | archtimberstageobjectleftimmunemobileasthmamadsession |  
+| bip_39_word_no_space_11 | archtimberstageobjectleftimmunemobileasthmamadsessionindoor |  
+| bip_39_word_no_space_12 | archtimberstageobjectleftimmunemobileasthmamadsessionindooralready |  
+| bip_39_word_no_space_2 | archtimber |  
+| bip_39_word_no_space_3 | archtimberstage |  
+| bip_39_word_no_space_4 | archtimberstageobject |  
+| bip_39_word_no_space_5 | archtimberstageobjectleft |  
+| bip_39_word_no_space_6 | archtimberstageobjectleftimmune |  
+| bip_39_word_no_space_7 | archtimberstageobjectleftimmunemobile |  
+| bip_39_word_no_space_8 | archtimberstageobjectleftimmunemobileasthma |  
+| bip_39_word_no_space_9 | archtimberstageobjectleftimmunemobileasthmamad |  
 | bip_39_word_space_0 | ['arch', 'timber', 'stage', 'object', 'left', 'immune', 'mobile', 'asthma', 'mad', 'session', 'indoor', 'already'] |  
 | bip_39_word_space_1 | arch |  
 | bip_39_word_space_10 | arch timber stage object left immune mobile asthma mad session |  

@@ -122,6 +122,18 @@ loop
 glad
 love
 shell |  
+| bip_39_word_no_space_1 | letter |  
+| bip_39_word_no_space_10 | letterthereunitgunstrategyloopgladloveshelltobacco |  
+| bip_39_word_no_space_11 | letterthereunitgunstrategyloopgladloveshelltobaccoonline |  
+| bip_39_word_no_space_12 | letterthereunitgunstrategyloopgladloveshelltobaccoonlineage |  
+| bip_39_word_no_space_2 | letterthere |  
+| bip_39_word_no_space_3 | letterthereunit |  
+| bip_39_word_no_space_4 | letterthereunitgun |  
+| bip_39_word_no_space_5 | letterthereunitgunstrategy |  
+| bip_39_word_no_space_6 | letterthereunitgunstrategyloop |  
+| bip_39_word_no_space_7 | letterthereunitgunstrategyloopglad |  
+| bip_39_word_no_space_8 | letterthereunitgunstrategyloopgladlove |  
+| bip_39_word_no_space_9 | letterthereunitgunstrategyloopgladloveshell |  
 | bip_39_word_space_0 | ['letter', 'there', 'unit', 'gun', 'strategy', 'loop', 'glad', 'love', 'shell', 'tobacco', 'online', 'age'] |  
 | bip_39_word_space_1 | letter |  
 | bip_39_word_space_10 | letter there unit gun strategy loop glad love shell tobacco |  

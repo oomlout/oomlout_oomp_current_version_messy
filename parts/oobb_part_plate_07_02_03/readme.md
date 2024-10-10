@@ -122,6 +122,18 @@ bulb
 drum
 black
 true |  
+| bip_39_word_no_space_1 | dragon |  
+| bip_39_word_no_space_10 | dragoncrackliquidapproveviolinbulbdrumblacktrueshoot |  
+| bip_39_word_no_space_11 | dragoncrackliquidapproveviolinbulbdrumblacktrueshootweb |  
+| bip_39_word_no_space_12 | dragoncrackliquidapproveviolinbulbdrumblacktrueshootwebabsorb |  
+| bip_39_word_no_space_2 | dragoncrack |  
+| bip_39_word_no_space_3 | dragoncrackliquid |  
+| bip_39_word_no_space_4 | dragoncrackliquidapprove |  
+| bip_39_word_no_space_5 | dragoncrackliquidapproveviolin |  
+| bip_39_word_no_space_6 | dragoncrackliquidapproveviolinbulb |  
+| bip_39_word_no_space_7 | dragoncrackliquidapproveviolinbulbdrum |  
+| bip_39_word_no_space_8 | dragoncrackliquidapproveviolinbulbdrumblack |  
+| bip_39_word_no_space_9 | dragoncrackliquidapproveviolinbulbdrumblacktrue |  
 | bip_39_word_space_0 | ['dragon', 'crack', 'liquid', 'approve', 'violin', 'bulb', 'drum', 'black', 'true', 'shoot', 'web', 'absorb'] |  
 | bip_39_word_space_1 | dragon |  
 | bip_39_word_space_10 | dragon crack liquid approve violin bulb drum black true shoot |  

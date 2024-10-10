@@ -122,6 +122,18 @@ bullet
 ethics
 capable
 polar |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miserysevenchesttextsoulbulletethicscapablepolarhill |  
+| bip_39_word_no_space_11 | miserysevenchesttextsoulbulletethicscapablepolarhillyou |  
+| bip_39_word_no_space_12 | miserysevenchesttextsoulbulletethicscapablepolarhillyoualone |  
+| bip_39_word_no_space_2 | miseryseven |  
+| bip_39_word_no_space_3 | miserysevenchest |  
+| bip_39_word_no_space_4 | miserysevenchesttext |  
+| bip_39_word_no_space_5 | miserysevenchesttextsoul |  
+| bip_39_word_no_space_6 | miserysevenchesttextsoulbullet |  
+| bip_39_word_no_space_7 | miserysevenchesttextsoulbulletethics |  
+| bip_39_word_no_space_8 | miserysevenchesttextsoulbulletethicscapable |  
+| bip_39_word_no_space_9 | miserysevenchesttextsoulbulletethicscapablepolar |  
 | bip_39_word_space_0 | ['misery', 'seven', 'chest', 'text', 'soul', 'bullet', 'ethics', 'capable', 'polar', 'hill', 'you', 'alone'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery seven chest text soul bullet ethics capable polar hill |  

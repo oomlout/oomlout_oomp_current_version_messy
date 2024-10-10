@@ -122,6 +122,18 @@ meat
 birth
 rate
 trick |  
+| bip_39_word_no_space_1 | relief |  
+| bip_39_word_no_space_10 | reliefironkeycratersoundmeatbirthratetrickessence |  
+| bip_39_word_no_space_11 | reliefironkeycratersoundmeatbirthratetrickessencefade |  
+| bip_39_word_no_space_12 | reliefironkeycratersoundmeatbirthratetrickessencefadearrange |  
+| bip_39_word_no_space_2 | reliefiron |  
+| bip_39_word_no_space_3 | reliefironkey |  
+| bip_39_word_no_space_4 | reliefironkeycrater |  
+| bip_39_word_no_space_5 | reliefironkeycratersound |  
+| bip_39_word_no_space_6 | reliefironkeycratersoundmeat |  
+| bip_39_word_no_space_7 | reliefironkeycratersoundmeatbirth |  
+| bip_39_word_no_space_8 | reliefironkeycratersoundmeatbirthrate |  
+| bip_39_word_no_space_9 | reliefironkeycratersoundmeatbirthratetrick |  
 | bip_39_word_space_0 | ['relief', 'iron', 'key', 'crater', 'sound', 'meat', 'birth', 'rate', 'trick', 'essence', 'fade', 'arrange'] |  
 | bip_39_word_space_1 | relief |  
 | bip_39_word_space_10 | relief iron key crater sound meat birth rate trick essence |  

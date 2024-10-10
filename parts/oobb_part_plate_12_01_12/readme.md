@@ -122,6 +122,18 @@ kitchen
 custom
 visual
 entire |  
+| bip_39_word_no_space_1 | noble |  
+| bip_39_word_no_space_10 | nobleamateurrelygiggleproudkitchencustomvisualentiretaxi |  
+| bip_39_word_no_space_11 | nobleamateurrelygiggleproudkitchencustomvisualentiretaxitower |  
+| bip_39_word_no_space_12 | nobleamateurrelygiggleproudkitchencustomvisualentiretaxitoweractor |  
+| bip_39_word_no_space_2 | nobleamateur |  
+| bip_39_word_no_space_3 | nobleamateurrely |  
+| bip_39_word_no_space_4 | nobleamateurrelygiggle |  
+| bip_39_word_no_space_5 | nobleamateurrelygiggleproud |  
+| bip_39_word_no_space_6 | nobleamateurrelygiggleproudkitchen |  
+| bip_39_word_no_space_7 | nobleamateurrelygiggleproudkitchencustom |  
+| bip_39_word_no_space_8 | nobleamateurrelygiggleproudkitchencustomvisual |  
+| bip_39_word_no_space_9 | nobleamateurrelygiggleproudkitchencustomvisualentire |  
 | bip_39_word_space_0 | ['noble', 'amateur', 'rely', 'giggle', 'proud', 'kitchen', 'custom', 'visual', 'entire', 'taxi', 'tower', 'actor'] |  
 | bip_39_word_space_1 | noble |  
 | bip_39_word_space_10 | noble amateur rely giggle proud kitchen custom visual entire taxi |  

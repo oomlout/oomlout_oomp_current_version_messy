@@ -122,6 +122,18 @@ swim
 coconut
 very
 blush |  
+| bip_39_word_no_space_1 | scorpion |  
+| bip_39_word_no_space_10 | scorpionsnakeshinedialevidenceswimcoconutveryblushask |  
+| bip_39_word_no_space_11 | scorpionsnakeshinedialevidenceswimcoconutveryblushasksurge |  
+| bip_39_word_no_space_12 | scorpionsnakeshinedialevidenceswimcoconutveryblushasksurgearrow |  
+| bip_39_word_no_space_2 | scorpionsnake |  
+| bip_39_word_no_space_3 | scorpionsnakeshine |  
+| bip_39_word_no_space_4 | scorpionsnakeshinedial |  
+| bip_39_word_no_space_5 | scorpionsnakeshinedialevidence |  
+| bip_39_word_no_space_6 | scorpionsnakeshinedialevidenceswim |  
+| bip_39_word_no_space_7 | scorpionsnakeshinedialevidenceswimcoconut |  
+| bip_39_word_no_space_8 | scorpionsnakeshinedialevidenceswimcoconutvery |  
+| bip_39_word_no_space_9 | scorpionsnakeshinedialevidenceswimcoconutveryblush |  
 | bip_39_word_space_0 | ['scorpion', 'snake', 'shine', 'dial', 'evidence', 'swim', 'coconut', 'very', 'blush', 'ask', 'surge', 'arrow'] |  
 | bip_39_word_space_1 | scorpion |  
 | bip_39_word_space_10 | scorpion snake shine dial evidence swim coconut very blush ask |  

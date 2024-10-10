@@ -122,6 +122,18 @@ fancy
 state
 nominee
 pen |  
+| bip_39_word_no_space_1 | merit |  
+| bip_39_word_no_space_10 | meritleadersellfarmmammalfancystatenomineepenpepper |  
+| bip_39_word_no_space_11 | meritleadersellfarmmammalfancystatenomineepenpeppernorth |  
+| bip_39_word_no_space_12 | meritleadersellfarmmammalfancystatenomineepenpeppernortharrest |  
+| bip_39_word_no_space_2 | meritleader |  
+| bip_39_word_no_space_3 | meritleadersell |  
+| bip_39_word_no_space_4 | meritleadersellfarm |  
+| bip_39_word_no_space_5 | meritleadersellfarmmammal |  
+| bip_39_word_no_space_6 | meritleadersellfarmmammalfancy |  
+| bip_39_word_no_space_7 | meritleadersellfarmmammalfancystate |  
+| bip_39_word_no_space_8 | meritleadersellfarmmammalfancystatenominee |  
+| bip_39_word_no_space_9 | meritleadersellfarmmammalfancystatenomineepen |  
 | bip_39_word_space_0 | ['merit', 'leader', 'sell', 'farm', 'mammal', 'fancy', 'state', 'nominee', 'pen', 'pepper', 'north', 'arrest'] |  
 | bip_39_word_space_1 | merit |  
 | bip_39_word_space_10 | merit leader sell farm mammal fancy state nominee pen pepper |  

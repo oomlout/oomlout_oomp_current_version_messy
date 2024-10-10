@@ -122,6 +122,18 @@ sadness
 fabric
 mask
 float |  
+| bip_39_word_no_space_1 | pioneer |  
+| bip_39_word_no_space_10 | pioneerwristenrichprospercallsadnessfabricmaskfloattrain |  
+| bip_39_word_no_space_11 | pioneerwristenrichprospercallsadnessfabricmaskfloattrainnoise |  
+| bip_39_word_no_space_12 | pioneerwristenrichprospercallsadnessfabricmaskfloattrainnoiseabuse |  
+| bip_39_word_no_space_2 | pioneerwrist |  
+| bip_39_word_no_space_3 | pioneerwristenrich |  
+| bip_39_word_no_space_4 | pioneerwristenrichprosper |  
+| bip_39_word_no_space_5 | pioneerwristenrichprospercall |  
+| bip_39_word_no_space_6 | pioneerwristenrichprospercallsadness |  
+| bip_39_word_no_space_7 | pioneerwristenrichprospercallsadnessfabric |  
+| bip_39_word_no_space_8 | pioneerwristenrichprospercallsadnessfabricmask |  
+| bip_39_word_no_space_9 | pioneerwristenrichprospercallsadnessfabricmaskfloat |  
 | bip_39_word_space_0 | ['pioneer', 'wrist', 'enrich', 'prosper', 'call', 'sadness', 'fabric', 'mask', 'float', 'train', 'noise', 'abuse'] |  
 | bip_39_word_space_1 | pioneer |  
 | bip_39_word_space_10 | pioneer wrist enrich prosper call sadness fabric mask float train |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'salad
   provide
 
   below'
+bip_39_word_no_space_1: salad
+bip_39_word_no_space_10: saladmulerepeatallwalnutduringrememberprovidebelowwin
+bip_39_word_no_space_11: saladmulerepeatallwalnutduringrememberprovidebelowwinstock
+bip_39_word_no_space_12: saladmulerepeatallwalnutduringrememberprovidebelowwinstockaccident
+bip_39_word_no_space_2: saladmule
+bip_39_word_no_space_3: saladmulerepeat
+bip_39_word_no_space_4: saladmulerepeatall
+bip_39_word_no_space_5: saladmulerepeatallwalnut
+bip_39_word_no_space_6: saladmulerepeatallwalnutduring
+bip_39_word_no_space_7: saladmulerepeatallwalnutduringremember
+bip_39_word_no_space_8: saladmulerepeatallwalnutduringrememberprovide
+bip_39_word_no_space_9: saladmulerepeatallwalnutduringrememberprovidebelow
 bip_39_word_space_0:
 - salad
 - mule

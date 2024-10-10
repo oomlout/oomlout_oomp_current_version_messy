@@ -122,6 +122,18 @@ clap
 spend
 pilot
 gather |  
+| bip_39_word_no_space_1 | phrase |  
+| bip_39_word_no_space_10 | phrasevasthusbandplayworthclapspendpilotgatherspawn |  
+| bip_39_word_no_space_11 | phrasevasthusbandplayworthclapspendpilotgatherspawnasthma |  
+| bip_39_word_no_space_12 | phrasevasthusbandplayworthclapspendpilotgatherspawnasthmaassist |  
+| bip_39_word_no_space_2 | phrasevast |  
+| bip_39_word_no_space_3 | phrasevasthusband |  
+| bip_39_word_no_space_4 | phrasevasthusbandplay |  
+| bip_39_word_no_space_5 | phrasevasthusbandplayworth |  
+| bip_39_word_no_space_6 | phrasevasthusbandplayworthclap |  
+| bip_39_word_no_space_7 | phrasevasthusbandplayworthclapspend |  
+| bip_39_word_no_space_8 | phrasevasthusbandplayworthclapspendpilot |  
+| bip_39_word_no_space_9 | phrasevasthusbandplayworthclapspendpilotgather |  
 | bip_39_word_space_0 | ['phrase', 'vast', 'husband', 'play', 'worth', 'clap', 'spend', 'pilot', 'gather', 'spawn', 'asthma', 'assist'] |  
 | bip_39_word_space_1 | phrase |  
 | bip_39_word_space_10 | phrase vast husband play worth clap spend pilot gather spawn |  

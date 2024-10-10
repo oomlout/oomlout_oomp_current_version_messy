@@ -122,6 +122,18 @@ decrease
 decline
 puppy
 cream |  
+| bip_39_word_no_space_1 | situate |  
+| bip_39_word_no_space_10 | situateurgetruckduringlinkdecreasedeclinepuppycreamagent |  
+| bip_39_word_no_space_11 | situateurgetruckduringlinkdecreasedeclinepuppycreamagentapril |  
+| bip_39_word_no_space_12 | situateurgetruckduringlinkdecreasedeclinepuppycreamagentaprilattack |  
+| bip_39_word_no_space_2 | situateurge |  
+| bip_39_word_no_space_3 | situateurgetruck |  
+| bip_39_word_no_space_4 | situateurgetruckduring |  
+| bip_39_word_no_space_5 | situateurgetruckduringlink |  
+| bip_39_word_no_space_6 | situateurgetruckduringlinkdecrease |  
+| bip_39_word_no_space_7 | situateurgetruckduringlinkdecreasedecline |  
+| bip_39_word_no_space_8 | situateurgetruckduringlinkdecreasedeclinepuppy |  
+| bip_39_word_no_space_9 | situateurgetruckduringlinkdecreasedeclinepuppycream |  
 | bip_39_word_space_0 | ['situate', 'urge', 'truck', 'during', 'link', 'decrease', 'decline', 'puppy', 'cream', 'agent', 'april', 'attack'] |  
 | bip_39_word_space_1 | situate |  
 | bip_39_word_space_10 | situate urge truck during link decrease decline puppy cream agent |  

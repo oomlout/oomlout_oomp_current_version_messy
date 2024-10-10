@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bike
   boat
 
   grab'
+bip_39_word_no_space_1: bike
+bip_39_word_no_space_10: bikedinosaurputbloodtankviewwillboatgrabreduce
+bip_39_word_no_space_11: bikedinosaurputbloodtankviewwillboatgrabreduceforget
+bip_39_word_no_space_12: bikedinosaurputbloodtankviewwillboatgrabreduceforgetalready
+bip_39_word_no_space_2: bikedinosaur
+bip_39_word_no_space_3: bikedinosaurput
+bip_39_word_no_space_4: bikedinosaurputblood
+bip_39_word_no_space_5: bikedinosaurputbloodtank
+bip_39_word_no_space_6: bikedinosaurputbloodtankview
+bip_39_word_no_space_7: bikedinosaurputbloodtankviewwill
+bip_39_word_no_space_8: bikedinosaurputbloodtankviewwillboat
+bip_39_word_no_space_9: bikedinosaurputbloodtankviewwillboatgrab
 bip_39_word_space_0:
 - bike
 - dinosaur

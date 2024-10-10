@@ -122,6 +122,18 @@ open
 flat
 worth
 lounge |  
+| bip_39_word_no_space_1 | caution |  
+| bip_39_word_no_space_10 | cautionremainhorrorcatcupboardopenflatworthloungeslender |  
+| bip_39_word_no_space_11 | cautionremainhorrorcatcupboardopenflatworthloungeslendercheck |  
+| bip_39_word_no_space_12 | cautionremainhorrorcatcupboardopenflatworthloungeslendercheckattitude |  
+| bip_39_word_no_space_2 | cautionremain |  
+| bip_39_word_no_space_3 | cautionremainhorror |  
+| bip_39_word_no_space_4 | cautionremainhorrorcat |  
+| bip_39_word_no_space_5 | cautionremainhorrorcatcupboard |  
+| bip_39_word_no_space_6 | cautionremainhorrorcatcupboardopen |  
+| bip_39_word_no_space_7 | cautionremainhorrorcatcupboardopenflat |  
+| bip_39_word_no_space_8 | cautionremainhorrorcatcupboardopenflatworth |  
+| bip_39_word_no_space_9 | cautionremainhorrorcatcupboardopenflatworthlounge |  
 | bip_39_word_space_0 | ['caution', 'remain', 'horror', 'cat', 'cupboard', 'open', 'flat', 'worth', 'lounge', 'slender', 'check', 'attitude'] |  
 | bip_39_word_space_1 | caution |  
 | bip_39_word_space_10 | caution remain horror cat cupboard open flat worth lounge slender |  

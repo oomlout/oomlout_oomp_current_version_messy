@@ -122,6 +122,18 @@ fly
 valve
 wet
 sand |  
+| bip_39_word_no_space_1 | casino |  
+| bip_39_word_no_space_10 | casinodevoteminorfavoriteerrorflyvalvewetsandchoice |  
+| bip_39_word_no_space_11 | casinodevoteminorfavoriteerrorflyvalvewetsandchoicedebate |  
+| bip_39_word_no_space_12 | casinodevoteminorfavoriteerrorflyvalvewetsandchoicedebateapprove |  
+| bip_39_word_no_space_2 | casinodevote |  
+| bip_39_word_no_space_3 | casinodevoteminor |  
+| bip_39_word_no_space_4 | casinodevoteminorfavorite |  
+| bip_39_word_no_space_5 | casinodevoteminorfavoriteerror |  
+| bip_39_word_no_space_6 | casinodevoteminorfavoriteerrorfly |  
+| bip_39_word_no_space_7 | casinodevoteminorfavoriteerrorflyvalve |  
+| bip_39_word_no_space_8 | casinodevoteminorfavoriteerrorflyvalvewet |  
+| bip_39_word_no_space_9 | casinodevoteminorfavoriteerrorflyvalvewetsand |  
 | bip_39_word_space_0 | ['casino', 'devote', 'minor', 'favorite', 'error', 'fly', 'valve', 'wet', 'sand', 'choice', 'debate', 'approve'] |  
 | bip_39_word_space_1 | casino |  
 | bip_39_word_space_10 | casino devote minor favorite error fly valve wet sand choice |  

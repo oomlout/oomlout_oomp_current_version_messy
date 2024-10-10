@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'giant
   assault
 
   foot'
+bip_39_word_no_space_1: giant
+bip_39_word_no_space_10: gianttwoalertsecondmatchheightslabassaultfoottattoo
+bip_39_word_no_space_11: gianttwoalertsecondmatchheightslabassaultfoottattoorelief
+bip_39_word_no_space_12: gianttwoalertsecondmatchheightslabassaultfoottattooreliefafraid
+bip_39_word_no_space_2: gianttwo
+bip_39_word_no_space_3: gianttwoalert
+bip_39_word_no_space_4: gianttwoalertsecond
+bip_39_word_no_space_5: gianttwoalertsecondmatch
+bip_39_word_no_space_6: gianttwoalertsecondmatchheight
+bip_39_word_no_space_7: gianttwoalertsecondmatchheightslab
+bip_39_word_no_space_8: gianttwoalertsecondmatchheightslabassault
+bip_39_word_no_space_9: gianttwoalertsecondmatchheightslabassaultfoot
 bip_39_word_space_0:
 - giant
 - two

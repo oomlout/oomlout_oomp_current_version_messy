@@ -122,6 +122,18 @@ game
 seek
 enter
 load |  
+| bip_39_word_no_space_1 | mouse |  
+| bip_39_word_no_space_10 | mousewhaletentmonthcrimegameseekenterloadspecial |  
+| bip_39_word_no_space_11 | mousewhaletentmonthcrimegameseekenterloadspecialannual |  
+| bip_39_word_no_space_12 | mousewhaletentmonthcrimegameseekenterloadspecialannualalbum |  
+| bip_39_word_no_space_2 | mousewhale |  
+| bip_39_word_no_space_3 | mousewhaletent |  
+| bip_39_word_no_space_4 | mousewhaletentmonth |  
+| bip_39_word_no_space_5 | mousewhaletentmonthcrime |  
+| bip_39_word_no_space_6 | mousewhaletentmonthcrimegame |  
+| bip_39_word_no_space_7 | mousewhaletentmonthcrimegameseek |  
+| bip_39_word_no_space_8 | mousewhaletentmonthcrimegameseekenter |  
+| bip_39_word_no_space_9 | mousewhaletentmonthcrimegameseekenterload |  
 | bip_39_word_space_0 | ['mouse', 'whale', 'tent', 'month', 'crime', 'game', 'seek', 'enter', 'load', 'special', 'annual', 'album'] |  
 | bip_39_word_space_1 | mouse |  
 | bip_39_word_space_10 | mouse whale tent month crime game seek enter load special |  

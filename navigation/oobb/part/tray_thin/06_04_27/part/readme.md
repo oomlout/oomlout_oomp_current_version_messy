@@ -122,6 +122,18 @@ wing
 accuse
 illness
 file |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectfiberfadehubsilentwingaccuseillnessfileodor |  
+| bip_39_word_no_space_11 | perfectfiberfadehubsilentwingaccuseillnessfileodorstick |  
+| bip_39_word_no_space_12 | perfectfiberfadehubsilentwingaccuseillnessfileodorstickattend |  
+| bip_39_word_no_space_2 | perfectfiber |  
+| bip_39_word_no_space_3 | perfectfiberfade |  
+| bip_39_word_no_space_4 | perfectfiberfadehub |  
+| bip_39_word_no_space_5 | perfectfiberfadehubsilent |  
+| bip_39_word_no_space_6 | perfectfiberfadehubsilentwing |  
+| bip_39_word_no_space_7 | perfectfiberfadehubsilentwingaccuse |  
+| bip_39_word_no_space_8 | perfectfiberfadehubsilentwingaccuseillness |  
+| bip_39_word_no_space_9 | perfectfiberfadehubsilentwingaccuseillnessfile |  
 | bip_39_word_space_0 | ['perfect', 'fiber', 'fade', 'hub', 'silent', 'wing', 'accuse', 'illness', 'file', 'odor', 'stick', 'attend'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect fiber fade hub silent wing accuse illness file odor |  

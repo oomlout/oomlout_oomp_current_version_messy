@@ -122,6 +122,18 @@ pause
 lesson
 joy
 switch |  
+| bip_39_word_no_space_1 | nose |  
+| bip_39_word_no_space_10 | noseovalwarmcoralgallerypauselessonjoyswitchleader |  
+| bip_39_word_no_space_11 | noseovalwarmcoralgallerypauselessonjoyswitchleaderrisk |  
+| bip_39_word_no_space_12 | noseovalwarmcoralgallerypauselessonjoyswitchleaderriskadd |  
+| bip_39_word_no_space_2 | noseoval |  
+| bip_39_word_no_space_3 | noseovalwarm |  
+| bip_39_word_no_space_4 | noseovalwarmcoral |  
+| bip_39_word_no_space_5 | noseovalwarmcoralgallery |  
+| bip_39_word_no_space_6 | noseovalwarmcoralgallerypause |  
+| bip_39_word_no_space_7 | noseovalwarmcoralgallerypauselesson |  
+| bip_39_word_no_space_8 | noseovalwarmcoralgallerypauselessonjoy |  
+| bip_39_word_no_space_9 | noseovalwarmcoralgallerypauselessonjoyswitch |  
 | bip_39_word_space_0 | ['nose', 'oval', 'warm', 'coral', 'gallery', 'pause', 'lesson', 'joy', 'switch', 'leader', 'risk', 'add'] |  
 | bip_39_word_space_1 | nose |  
 | bip_39_word_space_10 | nose oval warm coral gallery pause lesson joy switch leader |  

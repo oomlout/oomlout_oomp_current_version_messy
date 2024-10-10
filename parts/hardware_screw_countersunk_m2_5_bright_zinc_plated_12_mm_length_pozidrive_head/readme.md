@@ -122,6 +122,18 @@ educate
 flip
 cycle
 power |  
+| bip_39_word_no_space_1 | improve |  
+| bip_39_word_no_space_10 | improvesponsorgrowaspectvocaleducateflipcyclepowerwrite |  
+| bip_39_word_no_space_11 | improvesponsorgrowaspectvocaleducateflipcyclepowerwritelabel |  
+| bip_39_word_no_space_12 | improvesponsorgrowaspectvocaleducateflipcyclepowerwritelabelacross |  
+| bip_39_word_no_space_2 | improvesponsor |  
+| bip_39_word_no_space_3 | improvesponsorgrow |  
+| bip_39_word_no_space_4 | improvesponsorgrowaspect |  
+| bip_39_word_no_space_5 | improvesponsorgrowaspectvocal |  
+| bip_39_word_no_space_6 | improvesponsorgrowaspectvocaleducate |  
+| bip_39_word_no_space_7 | improvesponsorgrowaspectvocaleducateflip |  
+| bip_39_word_no_space_8 | improvesponsorgrowaspectvocaleducateflipcycle |  
+| bip_39_word_no_space_9 | improvesponsorgrowaspectvocaleducateflipcyclepower |  
 | bip_39_word_space_0 | ['improve', 'sponsor', 'grow', 'aspect', 'vocal', 'educate', 'flip', 'cycle', 'power', 'write', 'label', 'across'] |  
 | bip_39_word_space_1 | improve |  
 | bip_39_word_space_10 | improve sponsor grow aspect vocal educate flip cycle power write |  

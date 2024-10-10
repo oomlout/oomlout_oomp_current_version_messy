@@ -122,6 +122,18 @@ coil
 enable
 orbit
 aspect |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usageaccidentharbordocumentdiscovercoilenableorbitaspectgame |  
+| bip_39_word_no_space_11 | usageaccidentharbordocumentdiscovercoilenableorbitaspectgameslot |  
+| bip_39_word_no_space_12 | usageaccidentharbordocumentdiscovercoilenableorbitaspectgameslotapology |  
+| bip_39_word_no_space_2 | usageaccident |  
+| bip_39_word_no_space_3 | usageaccidentharbor |  
+| bip_39_word_no_space_4 | usageaccidentharbordocument |  
+| bip_39_word_no_space_5 | usageaccidentharbordocumentdiscover |  
+| bip_39_word_no_space_6 | usageaccidentharbordocumentdiscovercoil |  
+| bip_39_word_no_space_7 | usageaccidentharbordocumentdiscovercoilenable |  
+| bip_39_word_no_space_8 | usageaccidentharbordocumentdiscovercoilenableorbit |  
+| bip_39_word_no_space_9 | usageaccidentharbordocumentdiscovercoilenableorbitaspect |  
 | bip_39_word_space_0 | ['usage', 'accident', 'harbor', 'document', 'discover', 'coil', 'enable', 'orbit', 'aspect', 'game', 'slot', 'apology'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage accident harbor document discover coil enable orbit aspect game |  

@@ -122,6 +122,18 @@ dad
 talent
 order
 click |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguelegendenhancelaundryairdadtalentorderclicktip |  
+| bip_39_word_no_space_11 | tonguelegendenhancelaundryairdadtalentorderclicktipglimpse |  
+| bip_39_word_no_space_12 | tonguelegendenhancelaundryairdadtalentorderclicktipglimpseagree |  
+| bip_39_word_no_space_2 | tonguelegend |  
+| bip_39_word_no_space_3 | tonguelegendenhance |  
+| bip_39_word_no_space_4 | tonguelegendenhancelaundry |  
+| bip_39_word_no_space_5 | tonguelegendenhancelaundryair |  
+| bip_39_word_no_space_6 | tonguelegendenhancelaundryairdad |  
+| bip_39_word_no_space_7 | tonguelegendenhancelaundryairdadtalent |  
+| bip_39_word_no_space_8 | tonguelegendenhancelaundryairdadtalentorder |  
+| bip_39_word_no_space_9 | tonguelegendenhancelaundryairdadtalentorderclick |  
 | bip_39_word_space_0 | ['tongue', 'legend', 'enhance', 'laundry', 'air', 'dad', 'talent', 'order', 'click', 'tip', 'glimpse', 'agree'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue legend enhance laundry air dad talent order click tip |  

@@ -122,6 +122,18 @@ drift
 notable
 execute
 home |  
+| bip_39_word_no_space_1 | strategy |  
+| bip_39_word_no_space_10 | strategyexposeneedwhaleslimdriftnotableexecutehomebone |  
+| bip_39_word_no_space_11 | strategyexposeneedwhaleslimdriftnotableexecutehomebonepanic |  
+| bip_39_word_no_space_12 | strategyexposeneedwhaleslimdriftnotableexecutehomebonepanicappear |  
+| bip_39_word_no_space_2 | strategyexpose |  
+| bip_39_word_no_space_3 | strategyexposeneed |  
+| bip_39_word_no_space_4 | strategyexposeneedwhale |  
+| bip_39_word_no_space_5 | strategyexposeneedwhaleslim |  
+| bip_39_word_no_space_6 | strategyexposeneedwhaleslimdrift |  
+| bip_39_word_no_space_7 | strategyexposeneedwhaleslimdriftnotable |  
+| bip_39_word_no_space_8 | strategyexposeneedwhaleslimdriftnotableexecute |  
+| bip_39_word_no_space_9 | strategyexposeneedwhaleslimdriftnotableexecutehome |  
 | bip_39_word_space_0 | ['strategy', 'expose', 'need', 'whale', 'slim', 'drift', 'notable', 'execute', 'home', 'bone', 'panic', 'appear'] |  
 | bip_39_word_space_1 | strategy |  
 | bip_39_word_space_10 | strategy expose need whale slim drift notable execute home bone |  

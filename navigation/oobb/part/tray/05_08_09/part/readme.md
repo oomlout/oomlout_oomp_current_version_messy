@@ -122,6 +122,18 @@ canvas
 fine
 supreme
 talk |  
+| bip_39_word_no_space_1 | little |  
+| bip_39_word_no_space_10 | littletrustphraseindexexecutecanvasfinesupremetalksmart |  
+| bip_39_word_no_space_11 | littletrustphraseindexexecutecanvasfinesupremetalksmartbottom |  
+| bip_39_word_no_space_12 | littletrustphraseindexexecutecanvasfinesupremetalksmartbottomadjust |  
+| bip_39_word_no_space_2 | littletrust |  
+| bip_39_word_no_space_3 | littletrustphrase |  
+| bip_39_word_no_space_4 | littletrustphraseindex |  
+| bip_39_word_no_space_5 | littletrustphraseindexexecute |  
+| bip_39_word_no_space_6 | littletrustphraseindexexecutecanvas |  
+| bip_39_word_no_space_7 | littletrustphraseindexexecutecanvasfine |  
+| bip_39_word_no_space_8 | littletrustphraseindexexecutecanvasfinesupreme |  
+| bip_39_word_no_space_9 | littletrustphraseindexexecutecanvasfinesupremetalk |  
 | bip_39_word_space_0 | ['little', 'trust', 'phrase', 'index', 'execute', 'canvas', 'fine', 'supreme', 'talk', 'smart', 'bottom', 'adjust'] |  
 | bip_39_word_space_1 | little |  
 | bip_39_word_space_10 | little trust phrase index execute canvas fine supreme talk smart |  

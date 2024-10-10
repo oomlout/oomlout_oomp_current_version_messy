@@ -122,6 +122,18 @@ device
 conduct
 true
 keen |  
+| bip_39_word_no_space_1 | fork |  
+| bip_39_word_no_space_10 | forknettrueattackozonedeviceconducttruekeenexpand |  
+| bip_39_word_no_space_11 | forknettrueattackozonedeviceconducttruekeenexpanduseless |  
+| bip_39_word_no_space_12 | forknettrueattackozonedeviceconducttruekeenexpanduselessapprove |  
+| bip_39_word_no_space_2 | forknet |  
+| bip_39_word_no_space_3 | forknettrue |  
+| bip_39_word_no_space_4 | forknettrueattack |  
+| bip_39_word_no_space_5 | forknettrueattackozone |  
+| bip_39_word_no_space_6 | forknettrueattackozonedevice |  
+| bip_39_word_no_space_7 | forknettrueattackozonedeviceconduct |  
+| bip_39_word_no_space_8 | forknettrueattackozonedeviceconducttrue |  
+| bip_39_word_no_space_9 | forknettrueattackozonedeviceconducttruekeen |  
 | bip_39_word_space_0 | ['fork', 'net', 'true', 'attack', 'ozone', 'device', 'conduct', 'true', 'keen', 'expand', 'useless', 'approve'] |  
 | bip_39_word_space_1 | fork |  
 | bip_39_word_space_10 | fork net true attack ozone device conduct true keen expand |  

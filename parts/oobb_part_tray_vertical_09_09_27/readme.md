@@ -122,6 +122,18 @@ flower
 ripple
 fee
 spy |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenoaktwoindustrywasteflowerripplefeespysunny |  
+| bip_39_word_no_space_11 | burdenoaktwoindustrywasteflowerripplefeespysunnyminor |  
+| bip_39_word_no_space_12 | burdenoaktwoindustrywasteflowerripplefeespysunnyminoraverage |  
+| bip_39_word_no_space_2 | burdenoak |  
+| bip_39_word_no_space_3 | burdenoaktwo |  
+| bip_39_word_no_space_4 | burdenoaktwoindustry |  
+| bip_39_word_no_space_5 | burdenoaktwoindustrywaste |  
+| bip_39_word_no_space_6 | burdenoaktwoindustrywasteflower |  
+| bip_39_word_no_space_7 | burdenoaktwoindustrywasteflowerripple |  
+| bip_39_word_no_space_8 | burdenoaktwoindustrywasteflowerripplefee |  
+| bip_39_word_no_space_9 | burdenoaktwoindustrywasteflowerripplefeespy |  
 | bip_39_word_space_0 | ['burden', 'oak', 'two', 'industry', 'waste', 'flower', 'ripple', 'fee', 'spy', 'sunny', 'minor', 'average'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden oak two industry waste flower ripple fee spy sunny |  

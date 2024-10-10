@@ -122,6 +122,18 @@ hamster
 cigar
 seek
 siren |  
+| bip_39_word_no_space_1 | victory |  
+| bip_39_word_no_space_10 | victorystickpipemachineessayhamstercigarseeksirenfossil |  
+| bip_39_word_no_space_11 | victorystickpipemachineessayhamstercigarseeksirenfossileducate |  
+| bip_39_word_no_space_12 | victorystickpipemachineessayhamstercigarseeksirenfossileducateartefact |  
+| bip_39_word_no_space_2 | victorystick |  
+| bip_39_word_no_space_3 | victorystickpipe |  
+| bip_39_word_no_space_4 | victorystickpipemachine |  
+| bip_39_word_no_space_5 | victorystickpipemachineessay |  
+| bip_39_word_no_space_6 | victorystickpipemachineessayhamster |  
+| bip_39_word_no_space_7 | victorystickpipemachineessayhamstercigar |  
+| bip_39_word_no_space_8 | victorystickpipemachineessayhamstercigarseek |  
+| bip_39_word_no_space_9 | victorystickpipemachineessayhamstercigarseeksiren |  
 | bip_39_word_space_0 | ['victory', 'stick', 'pipe', 'machine', 'essay', 'hamster', 'cigar', 'seek', 'siren', 'fossil', 'educate', 'artefact'] |  
 | bip_39_word_space_1 | victory |  
 | bip_39_word_space_10 | victory stick pipe machine essay hamster cigar seek siren fossil |  

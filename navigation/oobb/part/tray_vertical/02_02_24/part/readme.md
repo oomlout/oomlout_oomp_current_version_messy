@@ -122,6 +122,18 @@ auction
 flavor
 thank
 require |  
+| bip_39_word_no_space_1 | parrot |  
+| bip_39_word_no_space_10 | parrotscatterpenaltydevelopcruelauctionflavorthankrequirealready |  
+| bip_39_word_no_space_11 | parrotscatterpenaltydevelopcruelauctionflavorthankrequirealreadymatter |  
+| bip_39_word_no_space_12 | parrotscatterpenaltydevelopcruelauctionflavorthankrequirealreadymatteranxiety |  
+| bip_39_word_no_space_2 | parrotscatter |  
+| bip_39_word_no_space_3 | parrotscatterpenalty |  
+| bip_39_word_no_space_4 | parrotscatterpenaltydevelop |  
+| bip_39_word_no_space_5 | parrotscatterpenaltydevelopcruel |  
+| bip_39_word_no_space_6 | parrotscatterpenaltydevelopcruelauction |  
+| bip_39_word_no_space_7 | parrotscatterpenaltydevelopcruelauctionflavor |  
+| bip_39_word_no_space_8 | parrotscatterpenaltydevelopcruelauctionflavorthank |  
+| bip_39_word_no_space_9 | parrotscatterpenaltydevelopcruelauctionflavorthankrequire |  
 | bip_39_word_space_0 | ['parrot', 'scatter', 'penalty', 'develop', 'cruel', 'auction', 'flavor', 'thank', 'require', 'already', 'matter', 'anxiety'] |  
 | bip_39_word_space_1 | parrot |  
 | bip_39_word_space_10 | parrot scatter penalty develop cruel auction flavor thank require already |  

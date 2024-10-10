@@ -122,6 +122,18 @@ large
 loan
 galaxy
 aim |  
+| bip_39_word_no_space_1 | tribe |  
+| bip_39_word_no_space_10 | tribeclaimmushroomsurroundpersonlargeloangalaxyaimwasp |  
+| bip_39_word_no_space_11 | tribeclaimmushroomsurroundpersonlargeloangalaxyaimwaspinfant |  
+| bip_39_word_no_space_12 | tribeclaimmushroomsurroundpersonlargeloangalaxyaimwaspinfantabout |  
+| bip_39_word_no_space_2 | tribeclaim |  
+| bip_39_word_no_space_3 | tribeclaimmushroom |  
+| bip_39_word_no_space_4 | tribeclaimmushroomsurround |  
+| bip_39_word_no_space_5 | tribeclaimmushroomsurroundperson |  
+| bip_39_word_no_space_6 | tribeclaimmushroomsurroundpersonlarge |  
+| bip_39_word_no_space_7 | tribeclaimmushroomsurroundpersonlargeloan |  
+| bip_39_word_no_space_8 | tribeclaimmushroomsurroundpersonlargeloangalaxy |  
+| bip_39_word_no_space_9 | tribeclaimmushroomsurroundpersonlargeloangalaxyaim |  
 | bip_39_word_space_0 | ['tribe', 'claim', 'mushroom', 'surround', 'person', 'large', 'loan', 'galaxy', 'aim', 'wasp', 'infant', 'about'] |  
 | bip_39_word_space_1 | tribe |  
 | bip_39_word_space_10 | tribe claim mushroom surround person large loan galaxy aim wasp |  

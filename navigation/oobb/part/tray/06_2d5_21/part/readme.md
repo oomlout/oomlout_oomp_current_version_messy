@@ -122,6 +122,18 @@ hundred
 cluster
 edit
 edit |  
+| bip_39_word_no_space_1 | detail |  
+| bip_39_word_no_space_10 | detailtrueradionotepumpkinhundredclusterediteditnurse |  
+| bip_39_word_no_space_11 | detailtrueradionotepumpkinhundredclusterediteditnurseready |  
+| bip_39_word_no_space_12 | detailtrueradionotepumpkinhundredclusterediteditnursereadyactress |  
+| bip_39_word_no_space_2 | detailtrue |  
+| bip_39_word_no_space_3 | detailtrueradio |  
+| bip_39_word_no_space_4 | detailtrueradionote |  
+| bip_39_word_no_space_5 | detailtrueradionotepumpkin |  
+| bip_39_word_no_space_6 | detailtrueradionotepumpkinhundred |  
+| bip_39_word_no_space_7 | detailtrueradionotepumpkinhundredcluster |  
+| bip_39_word_no_space_8 | detailtrueradionotepumpkinhundredclusteredit |  
+| bip_39_word_no_space_9 | detailtrueradionotepumpkinhundredclustereditedit |  
 | bip_39_word_space_0 | ['detail', 'true', 'radio', 'note', 'pumpkin', 'hundred', 'cluster', 'edit', 'edit', 'nurse', 'ready', 'actress'] |  
 | bip_39_word_space_1 | detail |  
 | bip_39_word_space_10 | detail true radio note pumpkin hundred cluster edit edit nurse |  

@@ -122,6 +122,18 @@ suffer
 result
 tomorrow
 oven |  
+| bip_39_word_no_space_1 | local |  
+| bip_39_word_no_space_10 | localdiagramangernaturejourneysufferresulttomorrowovenlanguage |  
+| bip_39_word_no_space_11 | localdiagramangernaturejourneysufferresulttomorrowovenlanguagesail |  
+| bip_39_word_no_space_12 | localdiagramangernaturejourneysufferresulttomorrowovenlanguagesailadult |  
+| bip_39_word_no_space_2 | localdiagram |  
+| bip_39_word_no_space_3 | localdiagramanger |  
+| bip_39_word_no_space_4 | localdiagramangernature |  
+| bip_39_word_no_space_5 | localdiagramangernaturejourney |  
+| bip_39_word_no_space_6 | localdiagramangernaturejourneysuffer |  
+| bip_39_word_no_space_7 | localdiagramangernaturejourneysufferresult |  
+| bip_39_word_no_space_8 | localdiagramangernaturejourneysufferresulttomorrow |  
+| bip_39_word_no_space_9 | localdiagramangernaturejourneysufferresulttomorrowoven |  
 | bip_39_word_space_0 | ['local', 'diagram', 'anger', 'nature', 'journey', 'suffer', 'result', 'tomorrow', 'oven', 'language', 'sail', 'adult'] |  
 | bip_39_word_space_1 | local |  
 | bip_39_word_space_10 | local diagram anger nature journey suffer result tomorrow oven language |  

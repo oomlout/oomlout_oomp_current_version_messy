@@ -122,6 +122,18 @@ lab
 hawk
 rhythm
 depart |  
+| bip_39_word_no_space_1 | deputy |  
+| bip_39_word_no_space_10 | deputytiltsituatelonelyinmatelabhawkrhythmdepartturn |  
+| bip_39_word_no_space_11 | deputytiltsituatelonelyinmatelabhawkrhythmdepartturnclaim |  
+| bip_39_word_no_space_12 | deputytiltsituatelonelyinmatelabhawkrhythmdepartturnclaimaerobic |  
+| bip_39_word_no_space_2 | deputytilt |  
+| bip_39_word_no_space_3 | deputytiltsituate |  
+| bip_39_word_no_space_4 | deputytiltsituatelonely |  
+| bip_39_word_no_space_5 | deputytiltsituatelonelyinmate |  
+| bip_39_word_no_space_6 | deputytiltsituatelonelyinmatelab |  
+| bip_39_word_no_space_7 | deputytiltsituatelonelyinmatelabhawk |  
+| bip_39_word_no_space_8 | deputytiltsituatelonelyinmatelabhawkrhythm |  
+| bip_39_word_no_space_9 | deputytiltsituatelonelyinmatelabhawkrhythmdepart |  
 | bip_39_word_space_0 | ['deputy', 'tilt', 'situate', 'lonely', 'inmate', 'lab', 'hawk', 'rhythm', 'depart', 'turn', 'claim', 'aerobic'] |  
 | bip_39_word_space_1 | deputy |  
 | bip_39_word_space_10 | deputy tilt situate lonely inmate lab hawk rhythm depart turn |  

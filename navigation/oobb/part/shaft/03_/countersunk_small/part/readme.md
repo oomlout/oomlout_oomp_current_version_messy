@@ -122,6 +122,18 @@ tool
 sign
 group
 unaware |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumjuicemovewantmisstoolsigngroupunawarepolar |  
+| bip_39_word_no_space_11 | albumjuicemovewantmisstoolsigngroupunawarepolarbeef |  
+| bip_39_word_no_space_12 | albumjuicemovewantmisstoolsigngroupunawarepolarbeefapart |  
+| bip_39_word_no_space_2 | albumjuice |  
+| bip_39_word_no_space_3 | albumjuicemove |  
+| bip_39_word_no_space_4 | albumjuicemovewant |  
+| bip_39_word_no_space_5 | albumjuicemovewantmiss |  
+| bip_39_word_no_space_6 | albumjuicemovewantmisstool |  
+| bip_39_word_no_space_7 | albumjuicemovewantmisstoolsign |  
+| bip_39_word_no_space_8 | albumjuicemovewantmisstoolsigngroup |  
+| bip_39_word_no_space_9 | albumjuicemovewantmisstoolsigngroupunaware |  
 | bip_39_word_space_0 | ['album', 'juice', 'move', 'want', 'miss', 'tool', 'sign', 'group', 'unaware', 'polar', 'beef', 'apart'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album juice move want miss tool sign group unaware polar |  

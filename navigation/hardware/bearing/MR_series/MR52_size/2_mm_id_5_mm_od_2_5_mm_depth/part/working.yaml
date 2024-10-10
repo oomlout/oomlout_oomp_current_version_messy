@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lazy
   castle
 
   spider'
+bip_39_word_no_space_1: lazy
+bip_39_word_no_space_10: lazydraftgardenspotodorloanguidecastlespiderarena
+bip_39_word_no_space_11: lazydraftgardenspotodorloanguidecastlespiderarenafringe
+bip_39_word_no_space_12: lazydraftgardenspotodorloanguidecastlespiderarenafringealpha
+bip_39_word_no_space_2: lazydraft
+bip_39_word_no_space_3: lazydraftgarden
+bip_39_word_no_space_4: lazydraftgardenspot
+bip_39_word_no_space_5: lazydraftgardenspotodor
+bip_39_word_no_space_6: lazydraftgardenspotodorloan
+bip_39_word_no_space_7: lazydraftgardenspotodorloanguide
+bip_39_word_no_space_8: lazydraftgardenspotodorloanguidecastle
+bip_39_word_no_space_9: lazydraftgardenspotodorloanguidecastlespider
 bip_39_word_space_0:
 - lazy
 - draft

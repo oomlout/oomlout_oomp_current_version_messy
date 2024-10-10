@@ -122,6 +122,18 @@ churn
 axis
 latin
 mountain |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sanduniformfostervaultloanchurnaxislatinmountainpossible |  
+| bip_39_word_no_space_11 | sanduniformfostervaultloanchurnaxislatinmountainpossibleradio |  
+| bip_39_word_no_space_12 | sanduniformfostervaultloanchurnaxislatinmountainpossibleradioask |  
+| bip_39_word_no_space_2 | sanduniform |  
+| bip_39_word_no_space_3 | sanduniformfoster |  
+| bip_39_word_no_space_4 | sanduniformfostervault |  
+| bip_39_word_no_space_5 | sanduniformfostervaultloan |  
+| bip_39_word_no_space_6 | sanduniformfostervaultloanchurn |  
+| bip_39_word_no_space_7 | sanduniformfostervaultloanchurnaxis |  
+| bip_39_word_no_space_8 | sanduniformfostervaultloanchurnaxislatin |  
+| bip_39_word_no_space_9 | sanduniformfostervaultloanchurnaxislatinmountain |  
 | bip_39_word_space_0 | ['sand', 'uniform', 'foster', 'vault', 'loan', 'churn', 'axis', 'latin', 'mountain', 'possible', 'radio', 'ask'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand uniform foster vault loan churn axis latin mountain possible |  

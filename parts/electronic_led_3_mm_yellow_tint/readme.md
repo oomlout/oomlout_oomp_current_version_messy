@@ -122,6 +122,18 @@ drastic
 addict
 umbrella
 relax |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcrane |  
+| bip_39_word_no_space_11 | citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcraneday |  
+| bip_39_word_no_space_12 | citizeneyekittenflavorpaddledrasticaddictumbrellarelaxcranedayaddress |  
+| bip_39_word_no_space_2 | citizeneye |  
+| bip_39_word_no_space_3 | citizeneyekitten |  
+| bip_39_word_no_space_4 | citizeneyekittenflavor |  
+| bip_39_word_no_space_5 | citizeneyekittenflavorpaddle |  
+| bip_39_word_no_space_6 | citizeneyekittenflavorpaddledrastic |  
+| bip_39_word_no_space_7 | citizeneyekittenflavorpaddledrasticaddict |  
+| bip_39_word_no_space_8 | citizeneyekittenflavorpaddledrasticaddictumbrella |  
+| bip_39_word_no_space_9 | citizeneyekittenflavorpaddledrasticaddictumbrellarelax |  
 | bip_39_word_space_0 | ['citizen', 'eye', 'kitten', 'flavor', 'paddle', 'drastic', 'addict', 'umbrella', 'relax', 'crane', 'day', 'address'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen eye kitten flavor paddle drastic addict umbrella relax crane |  

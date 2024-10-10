@@ -122,6 +122,18 @@ busy
 bus
 verify
 engine |  
+| bip_39_word_no_space_1 | explain |  
+| bip_39_word_no_space_10 | explainarmylawnareacargobusybusverifyenginefork |  
+| bip_39_word_no_space_11 | explainarmylawnareacargobusybusverifyengineforksqueeze |  
+| bip_39_word_no_space_12 | explainarmylawnareacargobusybusverifyengineforksqueezeamateur |  
+| bip_39_word_no_space_2 | explainarmy |  
+| bip_39_word_no_space_3 | explainarmylawn |  
+| bip_39_word_no_space_4 | explainarmylawnarea |  
+| bip_39_word_no_space_5 | explainarmylawnareacargo |  
+| bip_39_word_no_space_6 | explainarmylawnareacargobusy |  
+| bip_39_word_no_space_7 | explainarmylawnareacargobusybus |  
+| bip_39_word_no_space_8 | explainarmylawnareacargobusybusverify |  
+| bip_39_word_no_space_9 | explainarmylawnareacargobusybusverifyengine |  
 | bip_39_word_space_0 | ['explain', 'army', 'lawn', 'area', 'cargo', 'busy', 'bus', 'verify', 'engine', 'fork', 'squeeze', 'amateur'] |  
 | bip_39_word_space_1 | explain |  
 | bip_39_word_space_10 | explain army lawn area cargo busy bus verify engine fork |  

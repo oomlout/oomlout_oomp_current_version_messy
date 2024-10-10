@@ -122,6 +122,18 @@ armor
 tackle
 pole
 example |  
+| bip_39_word_no_space_1 | tilt |  
+| bip_39_word_no_space_10 | tiltdevelopovalillnesseitherarmortacklepoleexampleasthma |  
+| bip_39_word_no_space_11 | tiltdevelopovalillnesseitherarmortacklepoleexampleasthmablade |  
+| bip_39_word_no_space_12 | tiltdevelopovalillnesseitherarmortacklepoleexampleasthmabladeactual |  
+| bip_39_word_no_space_2 | tiltdevelop |  
+| bip_39_word_no_space_3 | tiltdevelopoval |  
+| bip_39_word_no_space_4 | tiltdevelopovalillness |  
+| bip_39_word_no_space_5 | tiltdevelopovalillnesseither |  
+| bip_39_word_no_space_6 | tiltdevelopovalillnesseitherarmor |  
+| bip_39_word_no_space_7 | tiltdevelopovalillnesseitherarmortackle |  
+| bip_39_word_no_space_8 | tiltdevelopovalillnesseitherarmortacklepole |  
+| bip_39_word_no_space_9 | tiltdevelopovalillnesseitherarmortacklepoleexample |  
 | bip_39_word_space_0 | ['tilt', 'develop', 'oval', 'illness', 'either', 'armor', 'tackle', 'pole', 'example', 'asthma', 'blade', 'actual'] |  
 | bip_39_word_space_1 | tilt |  
 | bip_39_word_space_10 | tilt develop oval illness either armor tackle pole example asthma |  

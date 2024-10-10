@@ -122,6 +122,18 @@ hamster
 symptom
 tonight
 danger |  
+| bip_39_word_no_space_1 | oak |  
+| bip_39_word_no_space_10 | oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecember |  
+| bip_39_word_no_space_11 | oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecemberusage |  
+| bip_39_word_no_space_12 | oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecemberusageassist |  
+| bip_39_word_no_space_2 | oaksoft |  
+| bip_39_word_no_space_3 | oaksoftbalance |  
+| bip_39_word_no_space_4 | oaksoftbalanceraven |  
+| bip_39_word_no_space_5 | oaksoftbalanceravenlaundry |  
+| bip_39_word_no_space_6 | oaksoftbalanceravenlaundryhamster |  
+| bip_39_word_no_space_7 | oaksoftbalanceravenlaundryhamstersymptom |  
+| bip_39_word_no_space_8 | oaksoftbalanceravenlaundryhamstersymptomtonight |  
+| bip_39_word_no_space_9 | oaksoftbalanceravenlaundryhamstersymptomtonightdanger |  
 | bip_39_word_space_0 | ['oak', 'soft', 'balance', 'raven', 'laundry', 'hamster', 'symptom', 'tonight', 'danger', 'december', 'usage', 'assist'] |  
 | bip_39_word_space_1 | oak |  
 | bip_39_word_space_10 | oak soft balance raven laundry hamster symptom tonight danger december |  

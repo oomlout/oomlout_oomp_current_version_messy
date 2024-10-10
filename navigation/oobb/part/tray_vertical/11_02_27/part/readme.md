@@ -122,6 +122,18 @@ acoustic
 dream
 frame
 cable |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | natureprioritymultiplywidecreekacousticdreamframecablevalley |  
+| bip_39_word_no_space_11 | natureprioritymultiplywidecreekacousticdreamframecablevalleyyear |  
+| bip_39_word_no_space_12 | natureprioritymultiplywidecreekacousticdreamframecablevalleyyearacoustic |  
+| bip_39_word_no_space_2 | naturepriority |  
+| bip_39_word_no_space_3 | natureprioritymultiply |  
+| bip_39_word_no_space_4 | natureprioritymultiplywide |  
+| bip_39_word_no_space_5 | natureprioritymultiplywidecreek |  
+| bip_39_word_no_space_6 | natureprioritymultiplywidecreekacoustic |  
+| bip_39_word_no_space_7 | natureprioritymultiplywidecreekacousticdream |  
+| bip_39_word_no_space_8 | natureprioritymultiplywidecreekacousticdreamframe |  
+| bip_39_word_no_space_9 | natureprioritymultiplywidecreekacousticdreamframecable |  
 | bip_39_word_space_0 | ['nature', 'priority', 'multiply', 'wide', 'creek', 'acoustic', 'dream', 'frame', 'cable', 'valley', 'year', 'acoustic'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature priority multiply wide creek acoustic dream frame cable valley |  

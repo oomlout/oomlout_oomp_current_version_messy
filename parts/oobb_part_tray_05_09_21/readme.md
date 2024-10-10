@@ -122,6 +122,18 @@ diesel
 rug
 pig
 fortune |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magicsentencetroublejustmarchdieselrugpigfortunetwin |  
+| bip_39_word_no_space_11 | magicsentencetroublejustmarchdieselrugpigfortunetwingreat |  
+| bip_39_word_no_space_12 | magicsentencetroublejustmarchdieselrugpigfortunetwingreatannual |  
+| bip_39_word_no_space_2 | magicsentence |  
+| bip_39_word_no_space_3 | magicsentencetrouble |  
+| bip_39_word_no_space_4 | magicsentencetroublejust |  
+| bip_39_word_no_space_5 | magicsentencetroublejustmarch |  
+| bip_39_word_no_space_6 | magicsentencetroublejustmarchdiesel |  
+| bip_39_word_no_space_7 | magicsentencetroublejustmarchdieselrug |  
+| bip_39_word_no_space_8 | magicsentencetroublejustmarchdieselrugpig |  
+| bip_39_word_no_space_9 | magicsentencetroublejustmarchdieselrugpigfortune |  
 | bip_39_word_space_0 | ['magic', 'sentence', 'trouble', 'just', 'march', 'diesel', 'rug', 'pig', 'fortune', 'twin', 'great', 'annual'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic sentence trouble just march diesel rug pig fortune twin |  

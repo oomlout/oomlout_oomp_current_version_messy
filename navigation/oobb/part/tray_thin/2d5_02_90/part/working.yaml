@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sure
   knee
 
   frequent'
+bip_39_word_no_space_1: sure
+bip_39_word_no_space_10: suresmallarenaportionpatrolobjectnowkneefrequentsurround
+bip_39_word_no_space_11: suresmallarenaportionpatrolobjectnowkneefrequentsurroundcapable
+bip_39_word_no_space_12: suresmallarenaportionpatrolobjectnowkneefrequentsurroundcapableapple
+bip_39_word_no_space_2: suresmall
+bip_39_word_no_space_3: suresmallarena
+bip_39_word_no_space_4: suresmallarenaportion
+bip_39_word_no_space_5: suresmallarenaportionpatrol
+bip_39_word_no_space_6: suresmallarenaportionpatrolobject
+bip_39_word_no_space_7: suresmallarenaportionpatrolobjectnow
+bip_39_word_no_space_8: suresmallarenaportionpatrolobjectnowknee
+bip_39_word_no_space_9: suresmallarenaportionpatrolobjectnowkneefrequent
 bip_39_word_space_0:
 - sure
 - small

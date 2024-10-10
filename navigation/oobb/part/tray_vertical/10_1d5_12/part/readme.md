@@ -122,6 +122,18 @@ denial
 bubble
 boost
 rural |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizennovelglidehollowsystemdenialbubbleboostruralprotect |  
+| bip_39_word_no_space_11 | citizennovelglidehollowsystemdenialbubbleboostruralprotectsystem |  
+| bip_39_word_no_space_12 | citizennovelglidehollowsystemdenialbubbleboostruralprotectsystemadapt |  
+| bip_39_word_no_space_2 | citizennovel |  
+| bip_39_word_no_space_3 | citizennovelglide |  
+| bip_39_word_no_space_4 | citizennovelglidehollow |  
+| bip_39_word_no_space_5 | citizennovelglidehollowsystem |  
+| bip_39_word_no_space_6 | citizennovelglidehollowsystemdenial |  
+| bip_39_word_no_space_7 | citizennovelglidehollowsystemdenialbubble |  
+| bip_39_word_no_space_8 | citizennovelglidehollowsystemdenialbubbleboost |  
+| bip_39_word_no_space_9 | citizennovelglidehollowsystemdenialbubbleboostrural |  
 | bip_39_word_space_0 | ['citizen', 'novel', 'glide', 'hollow', 'system', 'denial', 'bubble', 'boost', 'rural', 'protect', 'system', 'adapt'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen novel glide hollow system denial bubble boost rural protect |  

@@ -122,6 +122,18 @@ round
 dress
 board
 ensure |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marbleshytomatotoiletsleeprounddressboardensureunique |  
+| bip_39_word_no_space_11 | marbleshytomatotoiletsleeprounddressboardensureuniquevolume |  
+| bip_39_word_no_space_12 | marbleshytomatotoiletsleeprounddressboardensureuniquevolumeappear |  
+| bip_39_word_no_space_2 | marbleshy |  
+| bip_39_word_no_space_3 | marbleshytomato |  
+| bip_39_word_no_space_4 | marbleshytomatotoilet |  
+| bip_39_word_no_space_5 | marbleshytomatotoiletsleep |  
+| bip_39_word_no_space_6 | marbleshytomatotoiletsleepround |  
+| bip_39_word_no_space_7 | marbleshytomatotoiletsleeprounddress |  
+| bip_39_word_no_space_8 | marbleshytomatotoiletsleeprounddressboard |  
+| bip_39_word_no_space_9 | marbleshytomatotoiletsleeprounddressboardensure |  
 | bip_39_word_space_0 | ['marble', 'shy', 'tomato', 'toilet', 'sleep', 'round', 'dress', 'board', 'ensure', 'unique', 'volume', 'appear'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble shy tomato toilet sleep round dress board ensure unique |  

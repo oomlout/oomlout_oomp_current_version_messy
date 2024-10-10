@@ -122,6 +122,18 @@ forget
 zoo
 kitten
 grocery |  
+| bip_39_word_no_space_1 | honey |  
+| bip_39_word_no_space_10 | honeydebrisreceivetenantavocadoforgetzookittengroceryunusual |  
+| bip_39_word_no_space_11 | honeydebrisreceivetenantavocadoforgetzookittengroceryunusualblast |  
+| bip_39_word_no_space_12 | honeydebrisreceivetenantavocadoforgetzookittengroceryunusualblastapart |  
+| bip_39_word_no_space_2 | honeydebris |  
+| bip_39_word_no_space_3 | honeydebrisreceive |  
+| bip_39_word_no_space_4 | honeydebrisreceivetenant |  
+| bip_39_word_no_space_5 | honeydebrisreceivetenantavocado |  
+| bip_39_word_no_space_6 | honeydebrisreceivetenantavocadoforget |  
+| bip_39_word_no_space_7 | honeydebrisreceivetenantavocadoforgetzoo |  
+| bip_39_word_no_space_8 | honeydebrisreceivetenantavocadoforgetzookitten |  
+| bip_39_word_no_space_9 | honeydebrisreceivetenantavocadoforgetzookittengrocery |  
 | bip_39_word_space_0 | ['honey', 'debris', 'receive', 'tenant', 'avocado', 'forget', 'zoo', 'kitten', 'grocery', 'unusual', 'blast', 'apart'] |  
 | bip_39_word_space_1 | honey |  
 | bip_39_word_space_10 | honey debris receive tenant avocado forget zoo kitten grocery unusual |  

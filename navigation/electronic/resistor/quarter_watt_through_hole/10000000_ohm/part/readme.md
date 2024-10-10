@@ -122,6 +122,18 @@ toddler
 immune
 come
 program |  
+| bip_39_word_no_space_1 | coconut |  
+| bip_39_word_no_space_10 | coconutsnakeeastmangopursetoddlerimmunecomeprogramsuch |  
+| bip_39_word_no_space_11 | coconutsnakeeastmangopursetoddlerimmunecomeprogramsuchnotice |  
+| bip_39_word_no_space_12 | coconutsnakeeastmangopursetoddlerimmunecomeprogramsuchnoticeannual |  
+| bip_39_word_no_space_2 | coconutsnake |  
+| bip_39_word_no_space_3 | coconutsnakeeast |  
+| bip_39_word_no_space_4 | coconutsnakeeastmango |  
+| bip_39_word_no_space_5 | coconutsnakeeastmangopurse |  
+| bip_39_word_no_space_6 | coconutsnakeeastmangopursetoddler |  
+| bip_39_word_no_space_7 | coconutsnakeeastmangopursetoddlerimmune |  
+| bip_39_word_no_space_8 | coconutsnakeeastmangopursetoddlerimmunecome |  
+| bip_39_word_no_space_9 | coconutsnakeeastmangopursetoddlerimmunecomeprogram |  
 | bip_39_word_space_0 | ['coconut', 'snake', 'east', 'mango', 'purse', 'toddler', 'immune', 'come', 'program', 'such', 'notice', 'annual'] |  
 | bip_39_word_space_1 | coconut |  
 | bip_39_word_space_10 | coconut snake east mango purse toddler immune come program such |  

@@ -122,6 +122,18 @@ essence
 supply
 couch
 matrix |  
+| bip_39_word_no_space_1 | ecology |  
+| bip_39_word_no_space_10 | ecologyflagimmunestoolcraneessencesupplycouchmatrixsocial |  
+| bip_39_word_no_space_11 | ecologyflagimmunestoolcraneessencesupplycouchmatrixsocialsolar |  
+| bip_39_word_no_space_12 | ecologyflagimmunestoolcraneessencesupplycouchmatrixsocialsolaraudit |  
+| bip_39_word_no_space_2 | ecologyflag |  
+| bip_39_word_no_space_3 | ecologyflagimmune |  
+| bip_39_word_no_space_4 | ecologyflagimmunestool |  
+| bip_39_word_no_space_5 | ecologyflagimmunestoolcrane |  
+| bip_39_word_no_space_6 | ecologyflagimmunestoolcraneessence |  
+| bip_39_word_no_space_7 | ecologyflagimmunestoolcraneessencesupply |  
+| bip_39_word_no_space_8 | ecologyflagimmunestoolcraneessencesupplycouch |  
+| bip_39_word_no_space_9 | ecologyflagimmunestoolcraneessencesupplycouchmatrix |  
 | bip_39_word_space_0 | ['ecology', 'flag', 'immune', 'stool', 'crane', 'essence', 'supply', 'couch', 'matrix', 'social', 'solar', 'audit'] |  
 | bip_39_word_space_1 | ecology |  
 | bip_39_word_space_10 | ecology flag immune stool crane essence supply couch matrix social |  

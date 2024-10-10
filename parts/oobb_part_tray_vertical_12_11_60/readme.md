@@ -122,6 +122,18 @@ east
 initial
 glad
 ginger |  
+| bip_39_word_no_space_1 | ordinary |  
+| bip_39_word_no_space_10 | ordinarysectionevidencedeputysectioneastinitialgladgingershort |  
+| bip_39_word_no_space_11 | ordinarysectionevidencedeputysectioneastinitialgladgingershortbleak |  
+| bip_39_word_no_space_12 | ordinarysectionevidencedeputysectioneastinitialgladgingershortbleakattack |  
+| bip_39_word_no_space_2 | ordinarysection |  
+| bip_39_word_no_space_3 | ordinarysectionevidence |  
+| bip_39_word_no_space_4 | ordinarysectionevidencedeputy |  
+| bip_39_word_no_space_5 | ordinarysectionevidencedeputysection |  
+| bip_39_word_no_space_6 | ordinarysectionevidencedeputysectioneast |  
+| bip_39_word_no_space_7 | ordinarysectionevidencedeputysectioneastinitial |  
+| bip_39_word_no_space_8 | ordinarysectionevidencedeputysectioneastinitialglad |  
+| bip_39_word_no_space_9 | ordinarysectionevidencedeputysectioneastinitialgladginger |  
 | bip_39_word_space_0 | ['ordinary', 'section', 'evidence', 'deputy', 'section', 'east', 'initial', 'glad', 'ginger', 'short', 'bleak', 'attack'] |  
 | bip_39_word_space_1 | ordinary |  
 | bip_39_word_space_10 | ordinary section evidence deputy section east initial glad ginger short |  

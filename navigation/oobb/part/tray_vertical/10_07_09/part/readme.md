@@ -122,6 +122,18 @@ punch
 soft
 record
 human |  
+| bip_39_word_no_space_1 | grunt |  
+| bip_39_word_no_space_10 | gruntcancheeseaboutrevealpunchsoftrecordhumanmagnet |  
+| bip_39_word_no_space_11 | gruntcancheeseaboutrevealpunchsoftrecordhumanmagnetcustom |  
+| bip_39_word_no_space_12 | gruntcancheeseaboutrevealpunchsoftrecordhumanmagnetcustomannual |  
+| bip_39_word_no_space_2 | gruntcan |  
+| bip_39_word_no_space_3 | gruntcancheese |  
+| bip_39_word_no_space_4 | gruntcancheeseabout |  
+| bip_39_word_no_space_5 | gruntcancheeseaboutreveal |  
+| bip_39_word_no_space_6 | gruntcancheeseaboutrevealpunch |  
+| bip_39_word_no_space_7 | gruntcancheeseaboutrevealpunchsoft |  
+| bip_39_word_no_space_8 | gruntcancheeseaboutrevealpunchsoftrecord |  
+| bip_39_word_no_space_9 | gruntcancheeseaboutrevealpunchsoftrecordhuman |  
 | bip_39_word_space_0 | ['grunt', 'can', 'cheese', 'about', 'reveal', 'punch', 'soft', 'record', 'human', 'magnet', 'custom', 'annual'] |  
 | bip_39_word_space_1 | grunt |  
 | bip_39_word_space_10 | grunt can cheese about reveal punch soft record human magnet |  

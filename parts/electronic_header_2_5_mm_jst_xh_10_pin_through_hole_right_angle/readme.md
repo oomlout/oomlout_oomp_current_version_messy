@@ -122,6 +122,18 @@ random
 path
 cactus
 other |  
+| bip_39_word_no_space_1 | unhappy |  
+| bip_39_word_no_space_10 | unhappyvisitdefinehumbledismissrandompathcactusotherluggage |  
+| bip_39_word_no_space_11 | unhappyvisitdefinehumbledismissrandompathcactusotherluggageocean |  
+| bip_39_word_no_space_12 | unhappyvisitdefinehumbledismissrandompathcactusotherluggageoceanarena |  
+| bip_39_word_no_space_2 | unhappyvisit |  
+| bip_39_word_no_space_3 | unhappyvisitdefine |  
+| bip_39_word_no_space_4 | unhappyvisitdefinehumble |  
+| bip_39_word_no_space_5 | unhappyvisitdefinehumbledismiss |  
+| bip_39_word_no_space_6 | unhappyvisitdefinehumbledismissrandom |  
+| bip_39_word_no_space_7 | unhappyvisitdefinehumbledismissrandompath |  
+| bip_39_word_no_space_8 | unhappyvisitdefinehumbledismissrandompathcactus |  
+| bip_39_word_no_space_9 | unhappyvisitdefinehumbledismissrandompathcactusother |  
 | bip_39_word_space_0 | ['unhappy', 'visit', 'define', 'humble', 'dismiss', 'random', 'path', 'cactus', 'other', 'luggage', 'ocean', 'arena'] |  
 | bip_39_word_space_1 | unhappy |  
 | bip_39_word_space_10 | unhappy visit define humble dismiss random path cactus other luggage |  

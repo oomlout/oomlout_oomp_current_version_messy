@@ -122,6 +122,18 @@ basket
 consider
 wedding
 sport |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitripplerippleathleteponybasketconsiderweddingsporteconomy |  
+| bip_39_word_no_space_11 | habitripplerippleathleteponybasketconsiderweddingsporteconomycreek |  
+| bip_39_word_no_space_12 | habitripplerippleathleteponybasketconsiderweddingsporteconomycreekadmit |  
+| bip_39_word_no_space_2 | habitripple |  
+| bip_39_word_no_space_3 | habitrippleripple |  
+| bip_39_word_no_space_4 | habitripplerippleathlete |  
+| bip_39_word_no_space_5 | habitripplerippleathletepony |  
+| bip_39_word_no_space_6 | habitripplerippleathleteponybasket |  
+| bip_39_word_no_space_7 | habitripplerippleathleteponybasketconsider |  
+| bip_39_word_no_space_8 | habitripplerippleathleteponybasketconsiderwedding |  
+| bip_39_word_no_space_9 | habitripplerippleathleteponybasketconsiderweddingsport |  
 | bip_39_word_space_0 | ['habit', 'ripple', 'ripple', 'athlete', 'pony', 'basket', 'consider', 'wedding', 'sport', 'economy', 'creek', 'admit'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit ripple ripple athlete pony basket consider wedding sport economy |  

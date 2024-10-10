@@ -122,6 +122,18 @@ biology
 west
 term
 cushion |  
+| bip_39_word_no_space_1 | taxi |  
+| bip_39_word_no_space_10 | taxiawkwardhamsterarmyannualbiologywesttermcushiongrocery |  
+| bip_39_word_no_space_11 | taxiawkwardhamsterarmyannualbiologywesttermcushiongrocerypopular |  
+| bip_39_word_no_space_12 | taxiawkwardhamsterarmyannualbiologywesttermcushiongrocerypopularartefact |  
+| bip_39_word_no_space_2 | taxiawkward |  
+| bip_39_word_no_space_3 | taxiawkwardhamster |  
+| bip_39_word_no_space_4 | taxiawkwardhamsterarmy |  
+| bip_39_word_no_space_5 | taxiawkwardhamsterarmyannual |  
+| bip_39_word_no_space_6 | taxiawkwardhamsterarmyannualbiology |  
+| bip_39_word_no_space_7 | taxiawkwardhamsterarmyannualbiologywest |  
+| bip_39_word_no_space_8 | taxiawkwardhamsterarmyannualbiologywestterm |  
+| bip_39_word_no_space_9 | taxiawkwardhamsterarmyannualbiologywesttermcushion |  
 | bip_39_word_space_0 | ['taxi', 'awkward', 'hamster', 'army', 'annual', 'biology', 'west', 'term', 'cushion', 'grocery', 'popular', 'artefact'] |  
 | bip_39_word_space_1 | taxi |  
 | bip_39_word_space_10 | taxi awkward hamster army annual biology west term cushion grocery |  

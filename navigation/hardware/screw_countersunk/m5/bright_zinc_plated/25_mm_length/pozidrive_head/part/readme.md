@@ -122,6 +122,18 @@ tornado
 tackle
 coyote
 cram |  
+| bip_39_word_no_space_1 | cup |  
+| bip_39_word_no_space_10 | cupomitgiantgluequittornadotacklecoyotecrambone |  
+| bip_39_word_no_space_11 | cupomitgiantgluequittornadotacklecoyotecrambonespray |  
+| bip_39_word_no_space_12 | cupomitgiantgluequittornadotacklecoyotecrambonesprayaddict |  
+| bip_39_word_no_space_2 | cupomit |  
+| bip_39_word_no_space_3 | cupomitgiant |  
+| bip_39_word_no_space_4 | cupomitgiantglue |  
+| bip_39_word_no_space_5 | cupomitgiantgluequit |  
+| bip_39_word_no_space_6 | cupomitgiantgluequittornado |  
+| bip_39_word_no_space_7 | cupomitgiantgluequittornadotackle |  
+| bip_39_word_no_space_8 | cupomitgiantgluequittornadotacklecoyote |  
+| bip_39_word_no_space_9 | cupomitgiantgluequittornadotacklecoyotecram |  
 | bip_39_word_space_0 | ['cup', 'omit', 'giant', 'glue', 'quit', 'tornado', 'tackle', 'coyote', 'cram', 'bone', 'spray', 'addict'] |  
 | bip_39_word_space_1 | cup |  
 | bip_39_word_space_10 | cup omit giant glue quit tornado tackle coyote cram bone |  

@@ -122,6 +122,18 @@ emerge
 trigger
 illness
 gospel |  
+| bip_39_word_no_space_1 | okay |  
+| bip_39_word_no_space_10 | okayaugustbuyerarttellemergetriggerillnessgospeltrash |  
+| bip_39_word_no_space_11 | okayaugustbuyerarttellemergetriggerillnessgospeltrashgrape |  
+| bip_39_word_no_space_12 | okayaugustbuyerarttellemergetriggerillnessgospeltrashgrapeabstract |  
+| bip_39_word_no_space_2 | okayaugust |  
+| bip_39_word_no_space_3 | okayaugustbuyer |  
+| bip_39_word_no_space_4 | okayaugustbuyerart |  
+| bip_39_word_no_space_5 | okayaugustbuyerarttell |  
+| bip_39_word_no_space_6 | okayaugustbuyerarttellemerge |  
+| bip_39_word_no_space_7 | okayaugustbuyerarttellemergetrigger |  
+| bip_39_word_no_space_8 | okayaugustbuyerarttellemergetriggerillness |  
+| bip_39_word_no_space_9 | okayaugustbuyerarttellemergetriggerillnessgospel |  
 | bip_39_word_space_0 | ['okay', 'august', 'buyer', 'art', 'tell', 'emerge', 'trigger', 'illness', 'gospel', 'trash', 'grape', 'abstract'] |  
 | bip_39_word_space_1 | okay |  
 | bip_39_word_space_10 | okay august buyer art tell emerge trigger illness gospel trash |  

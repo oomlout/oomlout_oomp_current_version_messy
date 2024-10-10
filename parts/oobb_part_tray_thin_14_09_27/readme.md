@@ -122,6 +122,18 @@ wrestle
 amateur
 east
 pipe |  
+| bip_39_word_no_space_1 | slot |  
+| bip_39_word_no_space_10 | slotaprilwelcomeeasysteakwrestleamateureastpipeship |  
+| bip_39_word_no_space_11 | slotaprilwelcomeeasysteakwrestleamateureastpipeshipsmile |  
+| bip_39_word_no_space_12 | slotaprilwelcomeeasysteakwrestleamateureastpipeshipsmileadapt |  
+| bip_39_word_no_space_2 | slotapril |  
+| bip_39_word_no_space_3 | slotaprilwelcome |  
+| bip_39_word_no_space_4 | slotaprilwelcomeeasy |  
+| bip_39_word_no_space_5 | slotaprilwelcomeeasysteak |  
+| bip_39_word_no_space_6 | slotaprilwelcomeeasysteakwrestle |  
+| bip_39_word_no_space_7 | slotaprilwelcomeeasysteakwrestleamateur |  
+| bip_39_word_no_space_8 | slotaprilwelcomeeasysteakwrestleamateureast |  
+| bip_39_word_no_space_9 | slotaprilwelcomeeasysteakwrestleamateureastpipe |  
 | bip_39_word_space_0 | ['slot', 'april', 'welcome', 'easy', 'steak', 'wrestle', 'amateur', 'east', 'pipe', 'ship', 'smile', 'adapt'] |  
 | bip_39_word_space_1 | slot |  
 | bip_39_word_space_10 | slot april welcome easy steak wrestle amateur east pipe ship |  

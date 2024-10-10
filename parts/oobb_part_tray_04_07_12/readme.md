@@ -122,6 +122,18 @@ engine
 exhibit
 divert
 impact |  
+| bip_39_word_no_space_1 | nephew |  
+| bip_39_word_no_space_10 | nephewselectradiocricketinsideengineexhibitdivertimpactfancy |  
+| bip_39_word_no_space_11 | nephewselectradiocricketinsideengineexhibitdivertimpactfancydiamond |  
+| bip_39_word_no_space_12 | nephewselectradiocricketinsideengineexhibitdivertimpactfancydiamondacquire |  
+| bip_39_word_no_space_2 | nephewselect |  
+| bip_39_word_no_space_3 | nephewselectradio |  
+| bip_39_word_no_space_4 | nephewselectradiocricket |  
+| bip_39_word_no_space_5 | nephewselectradiocricketinside |  
+| bip_39_word_no_space_6 | nephewselectradiocricketinsideengine |  
+| bip_39_word_no_space_7 | nephewselectradiocricketinsideengineexhibit |  
+| bip_39_word_no_space_8 | nephewselectradiocricketinsideengineexhibitdivert |  
+| bip_39_word_no_space_9 | nephewselectradiocricketinsideengineexhibitdivertimpact |  
 | bip_39_word_space_0 | ['nephew', 'select', 'radio', 'cricket', 'inside', 'engine', 'exhibit', 'divert', 'impact', 'fancy', 'diamond', 'acquire'] |  
 | bip_39_word_space_1 | nephew |  
 | bip_39_word_space_10 | nephew select radio cricket inside engine exhibit divert impact fancy |  

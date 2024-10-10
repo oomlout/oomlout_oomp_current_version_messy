@@ -122,6 +122,18 @@ machine
 merry
 guard
 what |  
+| bip_39_word_no_space_1 | total |  
+| bip_39_word_no_space_10 | totalstairspledgefortunedirectmachinemerryguardwhatstove |  
+| bip_39_word_no_space_11 | totalstairspledgefortunedirectmachinemerryguardwhatstovematch |  
+| bip_39_word_no_space_12 | totalstairspledgefortunedirectmachinemerryguardwhatstovematchaddict |  
+| bip_39_word_no_space_2 | totalstairs |  
+| bip_39_word_no_space_3 | totalstairspledge |  
+| bip_39_word_no_space_4 | totalstairspledgefortune |  
+| bip_39_word_no_space_5 | totalstairspledgefortunedirect |  
+| bip_39_word_no_space_6 | totalstairspledgefortunedirectmachine |  
+| bip_39_word_no_space_7 | totalstairspledgefortunedirectmachinemerry |  
+| bip_39_word_no_space_8 | totalstairspledgefortunedirectmachinemerryguard |  
+| bip_39_word_no_space_9 | totalstairspledgefortunedirectmachinemerryguardwhat |  
 | bip_39_word_space_0 | ['total', 'stairs', 'pledge', 'fortune', 'direct', 'machine', 'merry', 'guard', 'what', 'stove', 'match', 'addict'] |  
 | bip_39_word_space_1 | total |  
 | bip_39_word_space_10 | total stairs pledge fortune direct machine merry guard what stove |  

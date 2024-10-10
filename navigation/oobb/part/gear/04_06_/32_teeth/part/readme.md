@@ -122,6 +122,18 @@ horn
 behave
 shift
 potato |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftfluidlaundryivorycurtainhornbehaveshiftpotatoweekend |  
+| bip_39_word_no_space_11 | giftfluidlaundryivorycurtainhornbehaveshiftpotatoweekendshoe |  
+| bip_39_word_no_space_12 | giftfluidlaundryivorycurtainhornbehaveshiftpotatoweekendshoeaugust |  
+| bip_39_word_no_space_2 | giftfluid |  
+| bip_39_word_no_space_3 | giftfluidlaundry |  
+| bip_39_word_no_space_4 | giftfluidlaundryivory |  
+| bip_39_word_no_space_5 | giftfluidlaundryivorycurtain |  
+| bip_39_word_no_space_6 | giftfluidlaundryivorycurtainhorn |  
+| bip_39_word_no_space_7 | giftfluidlaundryivorycurtainhornbehave |  
+| bip_39_word_no_space_8 | giftfluidlaundryivorycurtainhornbehaveshift |  
+| bip_39_word_no_space_9 | giftfluidlaundryivorycurtainhornbehaveshiftpotato |  
 | bip_39_word_space_0 | ['gift', 'fluid', 'laundry', 'ivory', 'curtain', 'horn', 'behave', 'shift', 'potato', 'weekend', 'shoe', 'august'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift fluid laundry ivory curtain horn behave shift potato weekend |  

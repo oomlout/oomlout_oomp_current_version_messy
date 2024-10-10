@@ -122,6 +122,18 @@ deer
 belt
 eyebrow
 need |  
+| bip_39_word_no_space_1 | quantum |  
+| bip_39_word_no_space_10 | quantumspoonbrotherfadepitchdeerbelteyebrowneedbalcony |  
+| bip_39_word_no_space_11 | quantumspoonbrotherfadepitchdeerbelteyebrowneedbalconynormal |  
+| bip_39_word_no_space_12 | quantumspoonbrotherfadepitchdeerbelteyebrowneedbalconynormaladapt |  
+| bip_39_word_no_space_2 | quantumspoon |  
+| bip_39_word_no_space_3 | quantumspoonbrother |  
+| bip_39_word_no_space_4 | quantumspoonbrotherfade |  
+| bip_39_word_no_space_5 | quantumspoonbrotherfadepitch |  
+| bip_39_word_no_space_6 | quantumspoonbrotherfadepitchdeer |  
+| bip_39_word_no_space_7 | quantumspoonbrotherfadepitchdeerbelt |  
+| bip_39_word_no_space_8 | quantumspoonbrotherfadepitchdeerbelteyebrow |  
+| bip_39_word_no_space_9 | quantumspoonbrotherfadepitchdeerbelteyebrowneed |  
 | bip_39_word_space_0 | ['quantum', 'spoon', 'brother', 'fade', 'pitch', 'deer', 'belt', 'eyebrow', 'need', 'balcony', 'normal', 'adapt'] |  
 | bip_39_word_space_1 | quantum |  
 | bip_39_word_space_10 | quantum spoon brother fade pitch deer belt eyebrow need balcony |  

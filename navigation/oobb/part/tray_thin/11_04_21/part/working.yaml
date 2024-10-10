@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hand
   swamp
 
   few'
+bip_39_word_no_space_1: hand
+bip_39_word_no_space_10: handwatercasinotiredalmostsquareuncleswampfewapart
+bip_39_word_no_space_11: handwatercasinotiredalmostsquareuncleswampfewapartembark
+bip_39_word_no_space_12: handwatercasinotiredalmostsquareuncleswampfewapartembarkabsurd
+bip_39_word_no_space_2: handwater
+bip_39_word_no_space_3: handwatercasino
+bip_39_word_no_space_4: handwatercasinotired
+bip_39_word_no_space_5: handwatercasinotiredalmost
+bip_39_word_no_space_6: handwatercasinotiredalmostsquare
+bip_39_word_no_space_7: handwatercasinotiredalmostsquareuncle
+bip_39_word_no_space_8: handwatercasinotiredalmostsquareuncleswamp
+bip_39_word_no_space_9: handwatercasinotiredalmostsquareuncleswampfew
 bip_39_word_space_0:
 - hand
 - water

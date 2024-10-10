@@ -122,6 +122,18 @@ surface
 family
 silk
 fall |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccerresultproudstablebrasssurfacefamilysilkfallkiwi |  
+| bip_39_word_no_space_11 | soccerresultproudstablebrasssurfacefamilysilkfallkiwiclay |  
+| bip_39_word_no_space_12 | soccerresultproudstablebrasssurfacefamilysilkfallkiwiclayaim |  
+| bip_39_word_no_space_2 | soccerresult |  
+| bip_39_word_no_space_3 | soccerresultproud |  
+| bip_39_word_no_space_4 | soccerresultproudstable |  
+| bip_39_word_no_space_5 | soccerresultproudstablebrass |  
+| bip_39_word_no_space_6 | soccerresultproudstablebrasssurface |  
+| bip_39_word_no_space_7 | soccerresultproudstablebrasssurfacefamily |  
+| bip_39_word_no_space_8 | soccerresultproudstablebrasssurfacefamilysilk |  
+| bip_39_word_no_space_9 | soccerresultproudstablebrasssurfacefamilysilkfall |  
 | bip_39_word_space_0 | ['soccer', 'result', 'proud', 'stable', 'brass', 'surface', 'family', 'silk', 'fall', 'kiwi', 'clay', 'aim'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer result proud stable brass surface family silk fall kiwi |  

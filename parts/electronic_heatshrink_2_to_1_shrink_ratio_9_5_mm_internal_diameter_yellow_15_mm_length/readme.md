@@ -122,6 +122,18 @@ reflect
 engine
 alley
 ugly |  
+| bip_39_word_no_space_1 | shield |  
+| bip_39_word_no_space_10 | shieldscaleschooltreecrossreflectenginealleyuglyhazard |  
+| bip_39_word_no_space_11 | shieldscaleschooltreecrossreflectenginealleyuglyhazardtoward |  
+| bip_39_word_no_space_12 | shieldscaleschooltreecrossreflectenginealleyuglyhazardtowardadult |  
+| bip_39_word_no_space_2 | shieldscale |  
+| bip_39_word_no_space_3 | shieldscaleschool |  
+| bip_39_word_no_space_4 | shieldscaleschooltree |  
+| bip_39_word_no_space_5 | shieldscaleschooltreecross |  
+| bip_39_word_no_space_6 | shieldscaleschooltreecrossreflect |  
+| bip_39_word_no_space_7 | shieldscaleschooltreecrossreflectengine |  
+| bip_39_word_no_space_8 | shieldscaleschooltreecrossreflectenginealley |  
+| bip_39_word_no_space_9 | shieldscaleschooltreecrossreflectenginealleyugly |  
 | bip_39_word_space_0 | ['shield', 'scale', 'school', 'tree', 'cross', 'reflect', 'engine', 'alley', 'ugly', 'hazard', 'toward', 'adult'] |  
 | bip_39_word_space_1 | shield |  
 | bip_39_word_space_10 | shield scale school tree cross reflect engine alley ugly hazard |  

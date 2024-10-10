@@ -122,6 +122,18 @@ board
 cream
 soon
 finger |  
+| bip_39_word_no_space_1 | culture |  
+| bip_39_word_no_space_10 | cultureopinionrecallcomicguideboardcreamsoonfingerrich |  
+| bip_39_word_no_space_11 | cultureopinionrecallcomicguideboardcreamsoonfingerrichpalm |  
+| bip_39_word_no_space_12 | cultureopinionrecallcomicguideboardcreamsoonfingerrichpalmattract |  
+| bip_39_word_no_space_2 | cultureopinion |  
+| bip_39_word_no_space_3 | cultureopinionrecall |  
+| bip_39_word_no_space_4 | cultureopinionrecallcomic |  
+| bip_39_word_no_space_5 | cultureopinionrecallcomicguide |  
+| bip_39_word_no_space_6 | cultureopinionrecallcomicguideboard |  
+| bip_39_word_no_space_7 | cultureopinionrecallcomicguideboardcream |  
+| bip_39_word_no_space_8 | cultureopinionrecallcomicguideboardcreamsoon |  
+| bip_39_word_no_space_9 | cultureopinionrecallcomicguideboardcreamsoonfinger |  
 | bip_39_word_space_0 | ['culture', 'opinion', 'recall', 'comic', 'guide', 'board', 'cream', 'soon', 'finger', 'rich', 'palm', 'attract'] |  
 | bip_39_word_space_1 | culture |  
 | bip_39_word_space_10 | culture opinion recall comic guide board cream soon finger rich |  

@@ -122,6 +122,18 @@ reunion
 keen
 firm
 warfare |  
+| bip_39_word_no_space_1 | position |  
+| bip_39_word_no_space_10 | positionjoinlegrecordbenefitreunionkeenfirmwarfaremuch |  
+| bip_39_word_no_space_11 | positionjoinlegrecordbenefitreunionkeenfirmwarfaremuchworld |  
+| bip_39_word_no_space_12 | positionjoinlegrecordbenefitreunionkeenfirmwarfaremuchworldamateur |  
+| bip_39_word_no_space_2 | positionjoin |  
+| bip_39_word_no_space_3 | positionjoinleg |  
+| bip_39_word_no_space_4 | positionjoinlegrecord |  
+| bip_39_word_no_space_5 | positionjoinlegrecordbenefit |  
+| bip_39_word_no_space_6 | positionjoinlegrecordbenefitreunion |  
+| bip_39_word_no_space_7 | positionjoinlegrecordbenefitreunionkeen |  
+| bip_39_word_no_space_8 | positionjoinlegrecordbenefitreunionkeenfirm |  
+| bip_39_word_no_space_9 | positionjoinlegrecordbenefitreunionkeenfirmwarfare |  
 | bip_39_word_space_0 | ['position', 'join', 'leg', 'record', 'benefit', 'reunion', 'keen', 'firm', 'warfare', 'much', 'world', 'amateur'] |  
 | bip_39_word_space_1 | position |  
 | bip_39_word_space_10 | position join leg record benefit reunion keen firm warfare much |  

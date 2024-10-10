@@ -122,6 +122,18 @@ post
 album
 lamp
 ostrich |  
+| bip_39_word_no_space_1 | picture |  
+| bip_39_word_no_space_10 | picturebestyearwatermangopostalbumlampostrichexhaust |  
+| bip_39_word_no_space_11 | picturebestyearwatermangopostalbumlampostrichexhaustrifle |  
+| bip_39_word_no_space_12 | picturebestyearwatermangopostalbumlampostrichexhaustrifleabsorb |  
+| bip_39_word_no_space_2 | picturebest |  
+| bip_39_word_no_space_3 | picturebestyear |  
+| bip_39_word_no_space_4 | picturebestyearwater |  
+| bip_39_word_no_space_5 | picturebestyearwatermango |  
+| bip_39_word_no_space_6 | picturebestyearwatermangopost |  
+| bip_39_word_no_space_7 | picturebestyearwatermangopostalbum |  
+| bip_39_word_no_space_8 | picturebestyearwatermangopostalbumlamp |  
+| bip_39_word_no_space_9 | picturebestyearwatermangopostalbumlampostrich |  
 | bip_39_word_space_0 | ['picture', 'best', 'year', 'water', 'mango', 'post', 'album', 'lamp', 'ostrich', 'exhaust', 'rifle', 'absorb'] |  
 | bip_39_word_space_1 | picture |  
 | bip_39_word_space_10 | picture best year water mango post album lamp ostrich exhaust |  

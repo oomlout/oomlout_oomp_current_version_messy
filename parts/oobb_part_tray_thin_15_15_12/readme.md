@@ -122,6 +122,18 @@ swarm
 grant
 slice
 gift |  
+| bip_39_word_no_space_1 | faculty |  
+| bip_39_word_no_space_10 | facultyrudepulseflamecubeswarmgrantslicegiftdefense |  
+| bip_39_word_no_space_11 | facultyrudepulseflamecubeswarmgrantslicegiftdefensefew |  
+| bip_39_word_no_space_12 | facultyrudepulseflamecubeswarmgrantslicegiftdefensefewamong |  
+| bip_39_word_no_space_2 | facultyrude |  
+| bip_39_word_no_space_3 | facultyrudepulse |  
+| bip_39_word_no_space_4 | facultyrudepulseflame |  
+| bip_39_word_no_space_5 | facultyrudepulseflamecube |  
+| bip_39_word_no_space_6 | facultyrudepulseflamecubeswarm |  
+| bip_39_word_no_space_7 | facultyrudepulseflamecubeswarmgrant |  
+| bip_39_word_no_space_8 | facultyrudepulseflamecubeswarmgrantslice |  
+| bip_39_word_no_space_9 | facultyrudepulseflamecubeswarmgrantslicegift |  
 | bip_39_word_space_0 | ['faculty', 'rude', 'pulse', 'flame', 'cube', 'swarm', 'grant', 'slice', 'gift', 'defense', 'few', 'among'] |  
 | bip_39_word_space_1 | faculty |  
 | bip_39_word_space_10 | faculty rude pulse flame cube swarm grant slice gift defense |  

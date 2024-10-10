@@ -122,6 +122,18 @@ chase
 december
 purity
 token |  
+| bip_39_word_no_space_1 | aspect |  
+| bip_39_word_no_space_10 | aspecttowardservicecouplealbumchasedecemberpuritytokenbuzz |  
+| bip_39_word_no_space_11 | aspecttowardservicecouplealbumchasedecemberpuritytokenbuzzbird |  
+| bip_39_word_no_space_12 | aspecttowardservicecouplealbumchasedecemberpuritytokenbuzzbirdartwork |  
+| bip_39_word_no_space_2 | aspecttoward |  
+| bip_39_word_no_space_3 | aspecttowardservice |  
+| bip_39_word_no_space_4 | aspecttowardservicecouple |  
+| bip_39_word_no_space_5 | aspecttowardservicecouplealbum |  
+| bip_39_word_no_space_6 | aspecttowardservicecouplealbumchase |  
+| bip_39_word_no_space_7 | aspecttowardservicecouplealbumchasedecember |  
+| bip_39_word_no_space_8 | aspecttowardservicecouplealbumchasedecemberpurity |  
+| bip_39_word_no_space_9 | aspecttowardservicecouplealbumchasedecemberpuritytoken |  
 | bip_39_word_space_0 | ['aspect', 'toward', 'service', 'couple', 'album', 'chase', 'december', 'purity', 'token', 'buzz', 'bird', 'artwork'] |  
 | bip_39_word_space_1 | aspect |  
 | bip_39_word_space_10 | aspect toward service couple album chase december purity token buzz |  

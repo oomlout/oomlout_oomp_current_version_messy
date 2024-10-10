@@ -122,6 +122,18 @@ ski
 latin
 sell
 today |  
+| bip_39_word_no_space_1 | kitten |  
+| bip_39_word_no_space_10 | kittenwisdomriflezoneroundskilatinselltodaythis |  
+| bip_39_word_no_space_11 | kittenwisdomriflezoneroundskilatinselltodaythischaos |  
+| bip_39_word_no_space_12 | kittenwisdomriflezoneroundskilatinselltodaythischaosact |  
+| bip_39_word_no_space_2 | kittenwisdom |  
+| bip_39_word_no_space_3 | kittenwisdomrifle |  
+| bip_39_word_no_space_4 | kittenwisdomriflezone |  
+| bip_39_word_no_space_5 | kittenwisdomriflezoneround |  
+| bip_39_word_no_space_6 | kittenwisdomriflezoneroundski |  
+| bip_39_word_no_space_7 | kittenwisdomriflezoneroundskilatin |  
+| bip_39_word_no_space_8 | kittenwisdomriflezoneroundskilatinsell |  
+| bip_39_word_no_space_9 | kittenwisdomriflezoneroundskilatinselltoday |  
 | bip_39_word_space_0 | ['kitten', 'wisdom', 'rifle', 'zone', 'round', 'ski', 'latin', 'sell', 'today', 'this', 'chaos', 'act'] |  
 | bip_39_word_space_1 | kitten |  
 | bip_39_word_space_10 | kitten wisdom rifle zone round ski latin sell today this |  

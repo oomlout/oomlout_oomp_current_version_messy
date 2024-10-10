@@ -122,6 +122,18 @@ twice
 gas
 devote
 stove |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatoiceclubmosquitonoveltwicegasdevotestovedirt |  
+| bip_39_word_no_space_11 | tomatoiceclubmosquitonoveltwicegasdevotestovedirtdegree |  
+| bip_39_word_no_space_12 | tomatoiceclubmosquitonoveltwicegasdevotestovedirtdegreeassault |  
+| bip_39_word_no_space_2 | tomatoice |  
+| bip_39_word_no_space_3 | tomatoiceclub |  
+| bip_39_word_no_space_4 | tomatoiceclubmosquito |  
+| bip_39_word_no_space_5 | tomatoiceclubmosquitonovel |  
+| bip_39_word_no_space_6 | tomatoiceclubmosquitonoveltwice |  
+| bip_39_word_no_space_7 | tomatoiceclubmosquitonoveltwicegas |  
+| bip_39_word_no_space_8 | tomatoiceclubmosquitonoveltwicegasdevote |  
+| bip_39_word_no_space_9 | tomatoiceclubmosquitonoveltwicegasdevotestove |  
 | bip_39_word_space_0 | ['tomato', 'ice', 'club', 'mosquito', 'novel', 'twice', 'gas', 'devote', 'stove', 'dirt', 'degree', 'assault'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato ice club mosquito novel twice gas devote stove dirt |  

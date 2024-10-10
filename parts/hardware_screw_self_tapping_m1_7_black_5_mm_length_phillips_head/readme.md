@@ -122,6 +122,18 @@ palm
 there
 scheme
 hand |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffpassdropwisemarketpalmthereschemehandordinary |  
+| bip_39_word_no_space_11 | staffpassdropwisemarketpalmthereschemehandordinaryrose |  
+| bip_39_word_no_space_12 | staffpassdropwisemarketpalmthereschemehandordinaryroseaccident |  
+| bip_39_word_no_space_2 | staffpass |  
+| bip_39_word_no_space_3 | staffpassdrop |  
+| bip_39_word_no_space_4 | staffpassdropwise |  
+| bip_39_word_no_space_5 | staffpassdropwisemarket |  
+| bip_39_word_no_space_6 | staffpassdropwisemarketpalm |  
+| bip_39_word_no_space_7 | staffpassdropwisemarketpalmthere |  
+| bip_39_word_no_space_8 | staffpassdropwisemarketpalmtherescheme |  
+| bip_39_word_no_space_9 | staffpassdropwisemarketpalmthereschemehand |  
 | bip_39_word_space_0 | ['staff', 'pass', 'drop', 'wise', 'market', 'palm', 'there', 'scheme', 'hand', 'ordinary', 'rose', 'accident'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff pass drop wise market palm there scheme hand ordinary |  

@@ -122,6 +122,18 @@ fatigue
 shine
 tide
 veteran |  
+| bip_39_word_no_space_1 | metal |  
+| bip_39_word_no_space_10 | metalletterhorsetunnelfarmfatigueshinetideveteranimmense |  
+| bip_39_word_no_space_11 | metalletterhorsetunnelfarmfatigueshinetideveteranimmensegravity |  
+| bip_39_word_no_space_12 | metalletterhorsetunnelfarmfatigueshinetideveteranimmensegravityapart |  
+| bip_39_word_no_space_2 | metalletter |  
+| bip_39_word_no_space_3 | metalletterhorse |  
+| bip_39_word_no_space_4 | metalletterhorsetunnel |  
+| bip_39_word_no_space_5 | metalletterhorsetunnelfarm |  
+| bip_39_word_no_space_6 | metalletterhorsetunnelfarmfatigue |  
+| bip_39_word_no_space_7 | metalletterhorsetunnelfarmfatigueshine |  
+| bip_39_word_no_space_8 | metalletterhorsetunnelfarmfatigueshinetide |  
+| bip_39_word_no_space_9 | metalletterhorsetunnelfarmfatigueshinetideveteran |  
 | bip_39_word_space_0 | ['metal', 'letter', 'horse', 'tunnel', 'farm', 'fatigue', 'shine', 'tide', 'veteran', 'immense', 'gravity', 'apart'] |  
 | bip_39_word_space_1 | metal |  
 | bip_39_word_space_10 | metal letter horse tunnel farm fatigue shine tide veteran immense |  

@@ -122,6 +122,18 @@ squirrel
 legal
 essence
 oppose |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofgriefbachelortopicquantumsquirrellegalessenceopposewhisper |  
+| bip_39_word_no_space_11 | proofgriefbachelortopicquantumsquirrellegalessenceopposewhisperladder |  
+| bip_39_word_no_space_12 | proofgriefbachelortopicquantumsquirrellegalessenceopposewhisperladderartwork |  
+| bip_39_word_no_space_2 | proofgrief |  
+| bip_39_word_no_space_3 | proofgriefbachelor |  
+| bip_39_word_no_space_4 | proofgriefbachelortopic |  
+| bip_39_word_no_space_5 | proofgriefbachelortopicquantum |  
+| bip_39_word_no_space_6 | proofgriefbachelortopicquantumsquirrel |  
+| bip_39_word_no_space_7 | proofgriefbachelortopicquantumsquirrellegal |  
+| bip_39_word_no_space_8 | proofgriefbachelortopicquantumsquirrellegalessence |  
+| bip_39_word_no_space_9 | proofgriefbachelortopicquantumsquirrellegalessenceoppose |  
 | bip_39_word_space_0 | ['proof', 'grief', 'bachelor', 'topic', 'quantum', 'squirrel', 'legal', 'essence', 'oppose', 'whisper', 'ladder', 'artwork'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof grief bachelor topic quantum squirrel legal essence oppose whisper |  

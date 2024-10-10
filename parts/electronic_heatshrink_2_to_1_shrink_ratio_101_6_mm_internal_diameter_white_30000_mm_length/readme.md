@@ -122,6 +122,18 @@ solve
 pair
 style
 quiz |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlopinioncanoereleasearrivesolvepairstylequizbrief |  
+| bip_39_word_no_space_11 | crawlopinioncanoereleasearrivesolvepairstylequizbriefscrap |  
+| bip_39_word_no_space_12 | crawlopinioncanoereleasearrivesolvepairstylequizbriefscrapadapt |  
+| bip_39_word_no_space_2 | crawlopinion |  
+| bip_39_word_no_space_3 | crawlopinioncanoe |  
+| bip_39_word_no_space_4 | crawlopinioncanoerelease |  
+| bip_39_word_no_space_5 | crawlopinioncanoereleasearrive |  
+| bip_39_word_no_space_6 | crawlopinioncanoereleasearrivesolve |  
+| bip_39_word_no_space_7 | crawlopinioncanoereleasearrivesolvepair |  
+| bip_39_word_no_space_8 | crawlopinioncanoereleasearrivesolvepairstyle |  
+| bip_39_word_no_space_9 | crawlopinioncanoereleasearrivesolvepairstylequiz |  
 | bip_39_word_space_0 | ['crawl', 'opinion', 'canoe', 'release', 'arrive', 'solve', 'pair', 'style', 'quiz', 'brief', 'scrap', 'adapt'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl opinion canoe release arrive solve pair style quiz brief |  

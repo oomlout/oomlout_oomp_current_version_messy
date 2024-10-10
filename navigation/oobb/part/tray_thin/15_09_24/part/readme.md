@@ -122,6 +122,18 @@ shove
 city
 torch
 dose |  
+| bip_39_word_no_space_1 | fun |  
+| bip_39_word_no_space_10 | funthenglidetowertokenshovecitytorchdoseresemble |  
+| bip_39_word_no_space_11 | funthenglidetowertokenshovecitytorchdoseresemblestill |  
+| bip_39_word_no_space_12 | funthenglidetowertokenshovecitytorchdoseresemblestillapril |  
+| bip_39_word_no_space_2 | funthen |  
+| bip_39_word_no_space_3 | funthenglide |  
+| bip_39_word_no_space_4 | funthenglidetower |  
+| bip_39_word_no_space_5 | funthenglidetowertoken |  
+| bip_39_word_no_space_6 | funthenglidetowertokenshove |  
+| bip_39_word_no_space_7 | funthenglidetowertokenshovecity |  
+| bip_39_word_no_space_8 | funthenglidetowertokenshovecitytorch |  
+| bip_39_word_no_space_9 | funthenglidetowertokenshovecitytorchdose |  
 | bip_39_word_space_0 | ['fun', 'then', 'glide', 'tower', 'token', 'shove', 'city', 'torch', 'dose', 'resemble', 'still', 'april'] |  
 | bip_39_word_space_1 | fun |  
 | bip_39_word_space_10 | fun then glide tower token shove city torch dose resemble |  

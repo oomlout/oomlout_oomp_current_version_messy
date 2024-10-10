@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'upset
   perfect
 
   echo'
+bip_39_word_no_space_1: upset
+bip_39_word_no_space_10: upsetspyhopeculturenightchuckleappleperfectechoclient
+bip_39_word_no_space_11: upsetspyhopeculturenightchuckleappleperfectechoclientfocus
+bip_39_word_no_space_12: upsetspyhopeculturenightchuckleappleperfectechoclientfocusaudit
+bip_39_word_no_space_2: upsetspy
+bip_39_word_no_space_3: upsetspyhope
+bip_39_word_no_space_4: upsetspyhopeculture
+bip_39_word_no_space_5: upsetspyhopeculturenight
+bip_39_word_no_space_6: upsetspyhopeculturenightchuckle
+bip_39_word_no_space_7: upsetspyhopeculturenightchuckleapple
+bip_39_word_no_space_8: upsetspyhopeculturenightchuckleappleperfect
+bip_39_word_no_space_9: upsetspyhopeculturenightchuckleappleperfectecho
 bip_39_word_space_0:
 - upset
 - spy

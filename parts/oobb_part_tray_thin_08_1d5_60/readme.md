@@ -122,6 +122,18 @@ water
 visual
 clever
 inside |  
+| bip_39_word_no_space_1 | robust |  
+| bip_39_word_no_space_10 | robustdonorpersonsaucerecyclewatervisualcleverinsidejeans |  
+| bip_39_word_no_space_11 | robustdonorpersonsaucerecyclewatervisualcleverinsidejeansdetail |  
+| bip_39_word_no_space_12 | robustdonorpersonsaucerecyclewatervisualcleverinsidejeansdetailacquire |  
+| bip_39_word_no_space_2 | robustdonor |  
+| bip_39_word_no_space_3 | robustdonorperson |  
+| bip_39_word_no_space_4 | robustdonorpersonsauce |  
+| bip_39_word_no_space_5 | robustdonorpersonsaucerecycle |  
+| bip_39_word_no_space_6 | robustdonorpersonsaucerecyclewater |  
+| bip_39_word_no_space_7 | robustdonorpersonsaucerecyclewatervisual |  
+| bip_39_word_no_space_8 | robustdonorpersonsaucerecyclewatervisualclever |  
+| bip_39_word_no_space_9 | robustdonorpersonsaucerecyclewatervisualcleverinside |  
 | bip_39_word_space_0 | ['robust', 'donor', 'person', 'sauce', 'recycle', 'water', 'visual', 'clever', 'inside', 'jeans', 'detail', 'acquire'] |  
 | bip_39_word_space_1 | robust |  
 | bip_39_word_space_10 | robust donor person sauce recycle water visual clever inside jeans |  

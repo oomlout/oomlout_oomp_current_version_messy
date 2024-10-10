@@ -122,6 +122,18 @@ address
 supply
 leisure
 response |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitness |  
+| bip_39_word_no_space_11 | welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitnesscrowd |  
+| bip_39_word_no_space_12 | welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitnesscrowdalley |  
+| bip_39_word_no_space_2 | welcomeinform |  
+| bip_39_word_no_space_3 | welcomeinformaccess |  
+| bip_39_word_no_space_4 | welcomeinformaccesswhisper |  
+| bip_39_word_no_space_5 | welcomeinformaccesswhisperpriority |  
+| bip_39_word_no_space_6 | welcomeinformaccesswhisperpriorityaddress |  
+| bip_39_word_no_space_7 | welcomeinformaccesswhisperpriorityaddresssupply |  
+| bip_39_word_no_space_8 | welcomeinformaccesswhisperpriorityaddresssupplyleisure |  
+| bip_39_word_no_space_9 | welcomeinformaccesswhisperpriorityaddresssupplyleisureresponse |  
 | bip_39_word_space_0 | ['welcome', 'inform', 'access', 'whisper', 'priority', 'address', 'supply', 'leisure', 'response', 'witness', 'crowd', 'alley'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome inform access whisper priority address supply leisure response witness |  

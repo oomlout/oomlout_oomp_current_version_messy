@@ -122,6 +122,18 @@ detail
 wine
 oval
 gesture |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footstagetossfoampledgedetailwineovalgesturescript |  
+| bip_39_word_no_space_11 | footstagetossfoampledgedetailwineovalgesturescriptpaddle |  
+| bip_39_word_no_space_12 | footstagetossfoampledgedetailwineovalgesturescriptpaddleabstract |  
+| bip_39_word_no_space_2 | footstage |  
+| bip_39_word_no_space_3 | footstagetoss |  
+| bip_39_word_no_space_4 | footstagetossfoam |  
+| bip_39_word_no_space_5 | footstagetossfoampledge |  
+| bip_39_word_no_space_6 | footstagetossfoampledgedetail |  
+| bip_39_word_no_space_7 | footstagetossfoampledgedetailwine |  
+| bip_39_word_no_space_8 | footstagetossfoampledgedetailwineoval |  
+| bip_39_word_no_space_9 | footstagetossfoampledgedetailwineovalgesture |  
 | bip_39_word_space_0 | ['foot', 'stage', 'toss', 'foam', 'pledge', 'detail', 'wine', 'oval', 'gesture', 'script', 'paddle', 'abstract'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot stage toss foam pledge detail wine oval gesture script |  

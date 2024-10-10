@@ -122,6 +122,18 @@ waste
 school
 chase
 write |  
+| bip_39_word_no_space_1 | bamboo |  
+| bip_39_word_no_space_10 | bamboothrowbriefdizzyfatwasteschoolchasewritecrack |  
+| bip_39_word_no_space_11 | bamboothrowbriefdizzyfatwasteschoolchasewritecracksimilar |  
+| bip_39_word_no_space_12 | bamboothrowbriefdizzyfatwasteschoolchasewritecracksimilarappear |  
+| bip_39_word_no_space_2 | bamboothrow |  
+| bip_39_word_no_space_3 | bamboothrowbrief |  
+| bip_39_word_no_space_4 | bamboothrowbriefdizzy |  
+| bip_39_word_no_space_5 | bamboothrowbriefdizzyfat |  
+| bip_39_word_no_space_6 | bamboothrowbriefdizzyfatwaste |  
+| bip_39_word_no_space_7 | bamboothrowbriefdizzyfatwasteschool |  
+| bip_39_word_no_space_8 | bamboothrowbriefdizzyfatwasteschoolchase |  
+| bip_39_word_no_space_9 | bamboothrowbriefdizzyfatwasteschoolchasewrite |  
 | bip_39_word_space_0 | ['bamboo', 'throw', 'brief', 'dizzy', 'fat', 'waste', 'school', 'chase', 'write', 'crack', 'similar', 'appear'] |  
 | bip_39_word_space_1 | bamboo |  
 | bip_39_word_space_10 | bamboo throw brief dizzy fat waste school chase write crack |  

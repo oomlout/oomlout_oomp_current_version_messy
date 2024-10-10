@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hover
   venue
 
   bench'
+bip_39_word_no_space_1: hover
+bip_39_word_no_space_10: hoverpistolpunchnomineetubegalaxybestvenuebenchcake
+bip_39_word_no_space_11: hoverpistolpunchnomineetubegalaxybestvenuebenchcakeozone
+bip_39_word_no_space_12: hoverpistolpunchnomineetubegalaxybestvenuebenchcakeozonearea
+bip_39_word_no_space_2: hoverpistol
+bip_39_word_no_space_3: hoverpistolpunch
+bip_39_word_no_space_4: hoverpistolpunchnominee
+bip_39_word_no_space_5: hoverpistolpunchnomineetube
+bip_39_word_no_space_6: hoverpistolpunchnomineetubegalaxy
+bip_39_word_no_space_7: hoverpistolpunchnomineetubegalaxybest
+bip_39_word_no_space_8: hoverpistolpunchnomineetubegalaxybestvenue
+bip_39_word_no_space_9: hoverpistolpunchnomineetubegalaxybestvenuebench
 bip_39_word_space_0:
 - hover
 - pistol

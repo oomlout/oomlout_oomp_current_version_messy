@@ -122,6 +122,18 @@ mesh
 annual
 fame
 quarter |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalksuccesschatcanvaspiecemeshannualfamequarterfigure |  
+| bip_39_word_no_space_11 | chalksuccesschatcanvaspiecemeshannualfamequarterfiguresunset |  
+| bip_39_word_no_space_12 | chalksuccesschatcanvaspiecemeshannualfamequarterfiguresunsetaugust |  
+| bip_39_word_no_space_2 | chalksuccess |  
+| bip_39_word_no_space_3 | chalksuccesschat |  
+| bip_39_word_no_space_4 | chalksuccesschatcanvas |  
+| bip_39_word_no_space_5 | chalksuccesschatcanvaspiece |  
+| bip_39_word_no_space_6 | chalksuccesschatcanvaspiecemesh |  
+| bip_39_word_no_space_7 | chalksuccesschatcanvaspiecemeshannual |  
+| bip_39_word_no_space_8 | chalksuccesschatcanvaspiecemeshannualfame |  
+| bip_39_word_no_space_9 | chalksuccesschatcanvaspiecemeshannualfamequarter |  
 | bip_39_word_space_0 | ['chalk', 'success', 'chat', 'canvas', 'piece', 'mesh', 'annual', 'fame', 'quarter', 'figure', 'sunset', 'august'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk success chat canvas piece mesh annual fame quarter figure |  

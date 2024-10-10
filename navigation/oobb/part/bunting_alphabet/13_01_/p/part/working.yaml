@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cargo
   fiscal
 
   fly'
+bip_39_word_no_space_1: cargo
+bip_39_word_no_space_10: cargorivalmeanaerobicprisonwrestlenuclearfiscalflycanvas
+bip_39_word_no_space_11: cargorivalmeanaerobicprisonwrestlenuclearfiscalflycanvaslunch
+bip_39_word_no_space_12: cargorivalmeanaerobicprisonwrestlenuclearfiscalflycanvaslunchapple
+bip_39_word_no_space_2: cargorival
+bip_39_word_no_space_3: cargorivalmean
+bip_39_word_no_space_4: cargorivalmeanaerobic
+bip_39_word_no_space_5: cargorivalmeanaerobicprison
+bip_39_word_no_space_6: cargorivalmeanaerobicprisonwrestle
+bip_39_word_no_space_7: cargorivalmeanaerobicprisonwrestlenuclear
+bip_39_word_no_space_8: cargorivalmeanaerobicprisonwrestlenuclearfiscal
+bip_39_word_no_space_9: cargorivalmeanaerobicprisonwrestlenuclearfiscalfly
 bip_39_word_space_0:
 - cargo
 - rival

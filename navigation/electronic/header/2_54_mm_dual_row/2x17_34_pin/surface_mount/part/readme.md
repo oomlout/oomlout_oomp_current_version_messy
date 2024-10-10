@@ -122,6 +122,18 @@ burst
 mirror
 area
 pitch |  
+| bip_39_word_no_space_1 | resource |  
+| bip_39_word_no_space_10 | resourcegadgetpopularunveiltissueburstmirrorareapitchelectric |  
+| bip_39_word_no_space_11 | resourcegadgetpopularunveiltissueburstmirrorareapitchelectricportion |  
+| bip_39_word_no_space_12 | resourcegadgetpopularunveiltissueburstmirrorareapitchelectricportionacid |  
+| bip_39_word_no_space_2 | resourcegadget |  
+| bip_39_word_no_space_3 | resourcegadgetpopular |  
+| bip_39_word_no_space_4 | resourcegadgetpopularunveil |  
+| bip_39_word_no_space_5 | resourcegadgetpopularunveiltissue |  
+| bip_39_word_no_space_6 | resourcegadgetpopularunveiltissueburst |  
+| bip_39_word_no_space_7 | resourcegadgetpopularunveiltissueburstmirror |  
+| bip_39_word_no_space_8 | resourcegadgetpopularunveiltissueburstmirrorarea |  
+| bip_39_word_no_space_9 | resourcegadgetpopularunveiltissueburstmirrorareapitch |  
 | bip_39_word_space_0 | ['resource', 'gadget', 'popular', 'unveil', 'tissue', 'burst', 'mirror', 'area', 'pitch', 'electric', 'portion', 'acid'] |  
 | bip_39_word_space_1 | resource |  
 | bip_39_word_space_10 | resource gadget popular unveil tissue burst mirror area pitch electric |  

@@ -122,6 +122,18 @@ midnight
 supreme
 able
 swear |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturebachelorquestioninformjellymidnightsupremeableswearclap |  
+| bip_39_word_no_space_11 | naturebachelorquestioninformjellymidnightsupremeableswearclapheavy |  
+| bip_39_word_no_space_12 | naturebachelorquestioninformjellymidnightsupremeableswearclapheavyadapt |  
+| bip_39_word_no_space_2 | naturebachelor |  
+| bip_39_word_no_space_3 | naturebachelorquestion |  
+| bip_39_word_no_space_4 | naturebachelorquestioninform |  
+| bip_39_word_no_space_5 | naturebachelorquestioninformjelly |  
+| bip_39_word_no_space_6 | naturebachelorquestioninformjellymidnight |  
+| bip_39_word_no_space_7 | naturebachelorquestioninformjellymidnightsupreme |  
+| bip_39_word_no_space_8 | naturebachelorquestioninformjellymidnightsupremeable |  
+| bip_39_word_no_space_9 | naturebachelorquestioninformjellymidnightsupremeableswear |  
 | bip_39_word_space_0 | ['nature', 'bachelor', 'question', 'inform', 'jelly', 'midnight', 'supreme', 'able', 'swear', 'clap', 'heavy', 'adapt'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature bachelor question inform jelly midnight supreme able swear clap |  

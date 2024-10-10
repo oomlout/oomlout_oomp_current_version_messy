@@ -122,6 +122,18 @@ antenna
 apart
 process
 brief |  
+| bip_39_word_no_space_1 | motor |  
+| bip_39_word_no_space_10 | motorfoundankleautopurchaseantennaapartprocessbriefinfant |  
+| bip_39_word_no_space_11 | motorfoundankleautopurchaseantennaapartprocessbriefinfantfetch |  
+| bip_39_word_no_space_12 | motorfoundankleautopurchaseantennaapartprocessbriefinfantfetchalmost |  
+| bip_39_word_no_space_2 | motorfound |  
+| bip_39_word_no_space_3 | motorfoundankle |  
+| bip_39_word_no_space_4 | motorfoundankleauto |  
+| bip_39_word_no_space_5 | motorfoundankleautopurchase |  
+| bip_39_word_no_space_6 | motorfoundankleautopurchaseantenna |  
+| bip_39_word_no_space_7 | motorfoundankleautopurchaseantennaapart |  
+| bip_39_word_no_space_8 | motorfoundankleautopurchaseantennaapartprocess |  
+| bip_39_word_no_space_9 | motorfoundankleautopurchaseantennaapartprocessbrief |  
 | bip_39_word_space_0 | ['motor', 'found', 'ankle', 'auto', 'purchase', 'antenna', 'apart', 'process', 'brief', 'infant', 'fetch', 'almost'] |  
 | bip_39_word_space_1 | motor |  
 | bip_39_word_space_10 | motor found ankle auto purchase antenna apart process brief infant |  

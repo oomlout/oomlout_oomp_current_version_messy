@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'will
   exhibit
 
   phone'
+bip_39_word_no_space_1: will
+bip_39_word_no_space_10: willshockactionruralbubbletentordinaryexhibitphonemilk
+bip_39_word_no_space_11: willshockactionruralbubbletentordinaryexhibitphonemilkchurn
+bip_39_word_no_space_12: willshockactionruralbubbletentordinaryexhibitphonemilkchurnabsent
+bip_39_word_no_space_2: willshock
+bip_39_word_no_space_3: willshockaction
+bip_39_word_no_space_4: willshockactionrural
+bip_39_word_no_space_5: willshockactionruralbubble
+bip_39_word_no_space_6: willshockactionruralbubbletent
+bip_39_word_no_space_7: willshockactionruralbubbletentordinary
+bip_39_word_no_space_8: willshockactionruralbubbletentordinaryexhibit
+bip_39_word_no_space_9: willshockactionruralbubbletentordinaryexhibitphone
 bip_39_word_space_0:
 - will
 - shock

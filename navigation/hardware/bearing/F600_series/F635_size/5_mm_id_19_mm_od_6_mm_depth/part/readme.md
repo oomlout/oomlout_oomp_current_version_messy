@@ -122,6 +122,18 @@ swear
 connect
 surprise
 mention |  
+| bip_39_word_no_space_1 | put |  
+| bip_39_word_no_space_10 | putbrickduringabilityteachswearconnectsurprisementioninhale |  
+| bip_39_word_no_space_11 | putbrickduringabilityteachswearconnectsurprisementioninhaleearth |  
+| bip_39_word_no_space_12 | putbrickduringabilityteachswearconnectsurprisementioninhaleearthabove |  
+| bip_39_word_no_space_2 | putbrick |  
+| bip_39_word_no_space_3 | putbrickduring |  
+| bip_39_word_no_space_4 | putbrickduringability |  
+| bip_39_word_no_space_5 | putbrickduringabilityteach |  
+| bip_39_word_no_space_6 | putbrickduringabilityteachswear |  
+| bip_39_word_no_space_7 | putbrickduringabilityteachswearconnect |  
+| bip_39_word_no_space_8 | putbrickduringabilityteachswearconnectsurprise |  
+| bip_39_word_no_space_9 | putbrickduringabilityteachswearconnectsurprisemention |  
 | bip_39_word_space_0 | ['put', 'brick', 'during', 'ability', 'teach', 'swear', 'connect', 'surprise', 'mention', 'inhale', 'earth', 'above'] |  
 | bip_39_word_space_1 | put |  
 | bip_39_word_space_10 | put brick during ability teach swear connect surprise mention inhale |  

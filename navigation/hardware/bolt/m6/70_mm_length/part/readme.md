@@ -122,6 +122,18 @@ diagram
 range
 disorder
 crack |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betraysiblingfruittherefirmdiagramrangedisordercrackseven |  
+| bip_39_word_no_space_11 | betraysiblingfruittherefirmdiagramrangedisordercracksevengate |  
+| bip_39_word_no_space_12 | betraysiblingfruittherefirmdiagramrangedisordercracksevengateaisle |  
+| bip_39_word_no_space_2 | betraysibling |  
+| bip_39_word_no_space_3 | betraysiblingfruit |  
+| bip_39_word_no_space_4 | betraysiblingfruitthere |  
+| bip_39_word_no_space_5 | betraysiblingfruittherefirm |  
+| bip_39_word_no_space_6 | betraysiblingfruittherefirmdiagram |  
+| bip_39_word_no_space_7 | betraysiblingfruittherefirmdiagramrange |  
+| bip_39_word_no_space_8 | betraysiblingfruittherefirmdiagramrangedisorder |  
+| bip_39_word_no_space_9 | betraysiblingfruittherefirmdiagramrangedisordercrack |  
 | bip_39_word_space_0 | ['betray', 'sibling', 'fruit', 'there', 'firm', 'diagram', 'range', 'disorder', 'crack', 'seven', 'gate', 'aisle'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray sibling fruit there firm diagram range disorder crack seven |  

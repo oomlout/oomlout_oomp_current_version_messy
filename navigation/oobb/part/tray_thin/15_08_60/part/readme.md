@@ -122,6 +122,18 @@ galaxy
 abstract
 there
 shadow |  
+| bip_39_word_no_space_1 | fiscal |  
+| bip_39_word_no_space_10 | fiscalsadsweetwestfiltergalaxyabstractthereshadowwin |  
+| bip_39_word_no_space_11 | fiscalsadsweetwestfiltergalaxyabstractthereshadowwinfortune |  
+| bip_39_word_no_space_12 | fiscalsadsweetwestfiltergalaxyabstractthereshadowwinfortuneauto |  
+| bip_39_word_no_space_2 | fiscalsad |  
+| bip_39_word_no_space_3 | fiscalsadsweet |  
+| bip_39_word_no_space_4 | fiscalsadsweetwest |  
+| bip_39_word_no_space_5 | fiscalsadsweetwestfilter |  
+| bip_39_word_no_space_6 | fiscalsadsweetwestfiltergalaxy |  
+| bip_39_word_no_space_7 | fiscalsadsweetwestfiltergalaxyabstract |  
+| bip_39_word_no_space_8 | fiscalsadsweetwestfiltergalaxyabstractthere |  
+| bip_39_word_no_space_9 | fiscalsadsweetwestfiltergalaxyabstractthereshadow |  
 | bip_39_word_space_0 | ['fiscal', 'sad', 'sweet', 'west', 'filter', 'galaxy', 'abstract', 'there', 'shadow', 'win', 'fortune', 'auto'] |  
 | bip_39_word_space_1 | fiscal |  
 | bip_39_word_space_10 | fiscal sad sweet west filter galaxy abstract there shadow win |  

@@ -122,6 +122,18 @@ turtle
 nature
 ecology
 hollow |  
+| bip_39_word_no_space_1 | open |  
+| bip_39_word_no_space_10 | openmustbounceexamplestandturtlenatureecologyhollowfuture |  
+| bip_39_word_no_space_11 | openmustbounceexamplestandturtlenatureecologyhollowfuturejuice |  
+| bip_39_word_no_space_12 | openmustbounceexamplestandturtlenatureecologyhollowfuturejuiceadult |  
+| bip_39_word_no_space_2 | openmust |  
+| bip_39_word_no_space_3 | openmustbounce |  
+| bip_39_word_no_space_4 | openmustbounceexample |  
+| bip_39_word_no_space_5 | openmustbounceexamplestand |  
+| bip_39_word_no_space_6 | openmustbounceexamplestandturtle |  
+| bip_39_word_no_space_7 | openmustbounceexamplestandturtlenature |  
+| bip_39_word_no_space_8 | openmustbounceexamplestandturtlenatureecology |  
+| bip_39_word_no_space_9 | openmustbounceexamplestandturtlenatureecologyhollow |  
 | bip_39_word_space_0 | ['open', 'must', 'bounce', 'example', 'stand', 'turtle', 'nature', 'ecology', 'hollow', 'future', 'juice', 'adult'] |  
 | bip_39_word_space_1 | open |  
 | bip_39_word_space_10 | open must bounce example stand turtle nature ecology hollow future |  

@@ -122,6 +122,18 @@ super
 donor
 maze
 together |  
+| bip_39_word_no_space_1 | lawn |  
+| bip_39_word_no_space_10 | lawndrumkiddashsaysuperdonormazetogetheridle |  
+| bip_39_word_no_space_11 | lawndrumkiddashsaysuperdonormazetogetheridlequarter |  
+| bip_39_word_no_space_12 | lawndrumkiddashsaysuperdonormazetogetheridlequarteraction |  
+| bip_39_word_no_space_2 | lawndrum |  
+| bip_39_word_no_space_3 | lawndrumkid |  
+| bip_39_word_no_space_4 | lawndrumkiddash |  
+| bip_39_word_no_space_5 | lawndrumkiddashsay |  
+| bip_39_word_no_space_6 | lawndrumkiddashsaysuper |  
+| bip_39_word_no_space_7 | lawndrumkiddashsaysuperdonor |  
+| bip_39_word_no_space_8 | lawndrumkiddashsaysuperdonormaze |  
+| bip_39_word_no_space_9 | lawndrumkiddashsaysuperdonormazetogether |  
 | bip_39_word_space_0 | ['lawn', 'drum', 'kid', 'dash', 'say', 'super', 'donor', 'maze', 'together', 'idle', 'quarter', 'action'] |  
 | bip_39_word_space_1 | lawn |  
 | bip_39_word_space_10 | lawn drum kid dash say super donor maze together idle |  

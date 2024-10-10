@@ -122,6 +122,18 @@ action
 hungry
 usage
 flower |  
+| bip_39_word_no_space_1 | buyer |  
+| bip_39_word_no_space_10 | buyershiverdaybeantinyactionhungryusageflowercross |  
+| bip_39_word_no_space_11 | buyershiverdaybeantinyactionhungryusageflowercrosscitizen |  
+| bip_39_word_no_space_12 | buyershiverdaybeantinyactionhungryusageflowercrosscitizenangry |  
+| bip_39_word_no_space_2 | buyershiver |  
+| bip_39_word_no_space_3 | buyershiverday |  
+| bip_39_word_no_space_4 | buyershiverdaybean |  
+| bip_39_word_no_space_5 | buyershiverdaybeantiny |  
+| bip_39_word_no_space_6 | buyershiverdaybeantinyaction |  
+| bip_39_word_no_space_7 | buyershiverdaybeantinyactionhungry |  
+| bip_39_word_no_space_8 | buyershiverdaybeantinyactionhungryusage |  
+| bip_39_word_no_space_9 | buyershiverdaybeantinyactionhungryusageflower |  
 | bip_39_word_space_0 | ['buyer', 'shiver', 'day', 'bean', 'tiny', 'action', 'hungry', 'usage', 'flower', 'cross', 'citizen', 'angry'] |  
 | bip_39_word_space_1 | buyer |  
 | bip_39_word_space_10 | buyer shiver day bean tiny action hungry usage flower cross |  

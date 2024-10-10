@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'alley
   cannon
 
   glove'
+bip_39_word_no_space_1: alley
+bip_39_word_no_space_10: alleyovenpowerpluckgospelmachinelunarcannonglovemain
+bip_39_word_no_space_11: alleyovenpowerpluckgospelmachinelunarcannonglovemainside
+bip_39_word_no_space_12: alleyovenpowerpluckgospelmachinelunarcannonglovemainsidearrange
+bip_39_word_no_space_2: alleyoven
+bip_39_word_no_space_3: alleyovenpower
+bip_39_word_no_space_4: alleyovenpowerpluck
+bip_39_word_no_space_5: alleyovenpowerpluckgospel
+bip_39_word_no_space_6: alleyovenpowerpluckgospelmachine
+bip_39_word_no_space_7: alleyovenpowerpluckgospelmachinelunar
+bip_39_word_no_space_8: alleyovenpowerpluckgospelmachinelunarcannon
+bip_39_word_no_space_9: alleyovenpowerpluckgospelmachinelunarcannonglove
 bip_39_word_space_0:
 - alley
 - oven

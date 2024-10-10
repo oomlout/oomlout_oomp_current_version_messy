@@ -122,6 +122,18 @@ elegant
 umbrella
 develop
 rhythm |  
+| bip_39_word_no_space_1 | brave |  
+| bip_39_word_no_space_10 | bravetrustpilotstudentblossomelegantumbrelladeveloprhythmglad |  
+| bip_39_word_no_space_11 | bravetrustpilotstudentblossomelegantumbrelladeveloprhythmgladluxury |  
+| bip_39_word_no_space_12 | bravetrustpilotstudentblossomelegantumbrelladeveloprhythmgladluxuryafford |  
+| bip_39_word_no_space_2 | bravetrust |  
+| bip_39_word_no_space_3 | bravetrustpilot |  
+| bip_39_word_no_space_4 | bravetrustpilotstudent |  
+| bip_39_word_no_space_5 | bravetrustpilotstudentblossom |  
+| bip_39_word_no_space_6 | bravetrustpilotstudentblossomelegant |  
+| bip_39_word_no_space_7 | bravetrustpilotstudentblossomelegantumbrella |  
+| bip_39_word_no_space_8 | bravetrustpilotstudentblossomelegantumbrelladevelop |  
+| bip_39_word_no_space_9 | bravetrustpilotstudentblossomelegantumbrelladeveloprhythm |  
 | bip_39_word_space_0 | ['brave', 'trust', 'pilot', 'student', 'blossom', 'elegant', 'umbrella', 'develop', 'rhythm', 'glad', 'luxury', 'afford'] |  
 | bip_39_word_space_1 | brave |  
 | bip_39_word_space_10 | brave trust pilot student blossom elegant umbrella develop rhythm glad |  

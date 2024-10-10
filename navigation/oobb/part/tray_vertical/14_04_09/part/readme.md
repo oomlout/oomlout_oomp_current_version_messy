@@ -122,6 +122,18 @@ steel
 road
 actress
 creek |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callloanpurchasehurtpraisesteelroadactresscreekdivert |  
+| bip_39_word_no_space_11 | callloanpurchasehurtpraisesteelroadactresscreekdivertinflict |  
+| bip_39_word_no_space_12 | callloanpurchasehurtpraisesteelroadactresscreekdivertinflictanswer |  
+| bip_39_word_no_space_2 | callloan |  
+| bip_39_word_no_space_3 | callloanpurchase |  
+| bip_39_word_no_space_4 | callloanpurchasehurt |  
+| bip_39_word_no_space_5 | callloanpurchasehurtpraise |  
+| bip_39_word_no_space_6 | callloanpurchasehurtpraisesteel |  
+| bip_39_word_no_space_7 | callloanpurchasehurtpraisesteelroad |  
+| bip_39_word_no_space_8 | callloanpurchasehurtpraisesteelroadactress |  
+| bip_39_word_no_space_9 | callloanpurchasehurtpraisesteelroadactresscreek |  
 | bip_39_word_space_0 | ['call', 'loan', 'purchase', 'hurt', 'praise', 'steel', 'road', 'actress', 'creek', 'divert', 'inflict', 'answer'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call loan purchase hurt praise steel road actress creek divert |  

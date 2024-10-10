@@ -122,6 +122,18 @@ quantum
 hobby
 pitch
 knee |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumshruggossipmistakesnakequantumhobbypitchkneepage |  
+| bip_39_word_no_space_11 | albumshruggossipmistakesnakequantumhobbypitchkneepagetorch |  
+| bip_39_word_no_space_12 | albumshruggossipmistakesnakequantumhobbypitchkneepagetorchadmit |  
+| bip_39_word_no_space_2 | albumshrug |  
+| bip_39_word_no_space_3 | albumshruggossip |  
+| bip_39_word_no_space_4 | albumshruggossipmistake |  
+| bip_39_word_no_space_5 | albumshruggossipmistakesnake |  
+| bip_39_word_no_space_6 | albumshruggossipmistakesnakequantum |  
+| bip_39_word_no_space_7 | albumshruggossipmistakesnakequantumhobby |  
+| bip_39_word_no_space_8 | albumshruggossipmistakesnakequantumhobbypitch |  
+| bip_39_word_no_space_9 | albumshruggossipmistakesnakequantumhobbypitchknee |  
 | bip_39_word_space_0 | ['album', 'shrug', 'gossip', 'mistake', 'snake', 'quantum', 'hobby', 'pitch', 'knee', 'page', 'torch', 'admit'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album shrug gossip mistake snake quantum hobby pitch knee page |  

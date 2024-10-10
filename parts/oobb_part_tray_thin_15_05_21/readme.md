@@ -122,6 +122,18 @@ funny
 glove
 napkin
 casual |  
+| bip_39_word_no_space_1 | donor |  
+| bip_39_word_no_space_10 | donorpatienttissuetomatoworldfunnyglovenapkincasualgiggle |  
+| bip_39_word_no_space_11 | donorpatienttissuetomatoworldfunnyglovenapkincasualgigglepepper |  
+| bip_39_word_no_space_12 | donorpatienttissuetomatoworldfunnyglovenapkincasualgigglepepperartist |  
+| bip_39_word_no_space_2 | donorpatient |  
+| bip_39_word_no_space_3 | donorpatienttissue |  
+| bip_39_word_no_space_4 | donorpatienttissuetomato |  
+| bip_39_word_no_space_5 | donorpatienttissuetomatoworld |  
+| bip_39_word_no_space_6 | donorpatienttissuetomatoworldfunny |  
+| bip_39_word_no_space_7 | donorpatienttissuetomatoworldfunnyglove |  
+| bip_39_word_no_space_8 | donorpatienttissuetomatoworldfunnyglovenapkin |  
+| bip_39_word_no_space_9 | donorpatienttissuetomatoworldfunnyglovenapkincasual |  
 | bip_39_word_space_0 | ['donor', 'patient', 'tissue', 'tomato', 'world', 'funny', 'glove', 'napkin', 'casual', 'giggle', 'pepper', 'artist'] |  
 | bip_39_word_space_1 | donor |  
 | bip_39_word_space_10 | donor patient tissue tomato world funny glove napkin casual giggle |  

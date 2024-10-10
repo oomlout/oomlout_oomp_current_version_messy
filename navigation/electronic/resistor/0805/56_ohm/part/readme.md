@@ -122,6 +122,18 @@ issue
 trend
 ability
 cool |  
+| bip_39_word_no_space_1 | brave |  
+| bip_39_word_no_space_10 | bravematchmailexoticdoorissuetrendabilitycoolmaid |  
+| bip_39_word_no_space_11 | bravematchmailexoticdoorissuetrendabilitycoolmaidbelt |  
+| bip_39_word_no_space_12 | bravematchmailexoticdoorissuetrendabilitycoolmaidbeltaunt |  
+| bip_39_word_no_space_2 | bravematch |  
+| bip_39_word_no_space_3 | bravematchmail |  
+| bip_39_word_no_space_4 | bravematchmailexotic |  
+| bip_39_word_no_space_5 | bravematchmailexoticdoor |  
+| bip_39_word_no_space_6 | bravematchmailexoticdoorissue |  
+| bip_39_word_no_space_7 | bravematchmailexoticdoorissuetrend |  
+| bip_39_word_no_space_8 | bravematchmailexoticdoorissuetrendability |  
+| bip_39_word_no_space_9 | bravematchmailexoticdoorissuetrendabilitycool |  
 | bip_39_word_space_0 | ['brave', 'match', 'mail', 'exotic', 'door', 'issue', 'trend', 'ability', 'cool', 'maid', 'belt', 'aunt'] |  
 | bip_39_word_space_1 | brave |  
 | bip_39_word_space_10 | brave match mail exotic door issue trend ability cool maid |  

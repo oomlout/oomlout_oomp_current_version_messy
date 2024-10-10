@@ -122,6 +122,18 @@ loop
 benefit
 mechanic
 snow |  
+| bip_39_word_no_space_1 | reason |  
+| bip_39_word_no_space_10 | reasonlawnnestanyexhibitloopbenefitmechanicsnowtornado |  
+| bip_39_word_no_space_11 | reasonlawnnestanyexhibitloopbenefitmechanicsnowtornadotown |  
+| bip_39_word_no_space_12 | reasonlawnnestanyexhibitloopbenefitmechanicsnowtornadotownaverage |  
+| bip_39_word_no_space_2 | reasonlawn |  
+| bip_39_word_no_space_3 | reasonlawnnest |  
+| bip_39_word_no_space_4 | reasonlawnnestany |  
+| bip_39_word_no_space_5 | reasonlawnnestanyexhibit |  
+| bip_39_word_no_space_6 | reasonlawnnestanyexhibitloop |  
+| bip_39_word_no_space_7 | reasonlawnnestanyexhibitloopbenefit |  
+| bip_39_word_no_space_8 | reasonlawnnestanyexhibitloopbenefitmechanic |  
+| bip_39_word_no_space_9 | reasonlawnnestanyexhibitloopbenefitmechanicsnow |  
 | bip_39_word_space_0 | ['reason', 'lawn', 'nest', 'any', 'exhibit', 'loop', 'benefit', 'mechanic', 'snow', 'tornado', 'town', 'average'] |  
 | bip_39_word_space_1 | reason |  
 | bip_39_word_space_10 | reason lawn nest any exhibit loop benefit mechanic snow tornado |  

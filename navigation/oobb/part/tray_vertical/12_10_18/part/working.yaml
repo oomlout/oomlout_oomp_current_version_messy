@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'useful
   inmate
 
   fresh'
+bip_39_word_no_space_1: useful
+bip_39_word_no_space_10: usefulhireorgandriftdinnerburgerleaveinmatefreshring
+bip_39_word_no_space_11: usefulhireorgandriftdinnerburgerleaveinmatefreshringproud
+bip_39_word_no_space_12: usefulhireorgandriftdinnerburgerleaveinmatefreshringproudarctic
+bip_39_word_no_space_2: usefulhire
+bip_39_word_no_space_3: usefulhireorgan
+bip_39_word_no_space_4: usefulhireorgandrift
+bip_39_word_no_space_5: usefulhireorgandriftdinner
+bip_39_word_no_space_6: usefulhireorgandriftdinnerburger
+bip_39_word_no_space_7: usefulhireorgandriftdinnerburgerleave
+bip_39_word_no_space_8: usefulhireorgandriftdinnerburgerleaveinmate
+bip_39_word_no_space_9: usefulhireorgandriftdinnerburgerleaveinmatefresh
 bip_39_word_space_0:
 - useful
 - hire

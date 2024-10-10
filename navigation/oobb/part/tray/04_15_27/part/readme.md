@@ -122,6 +122,18 @@ tornado
 stay
 weekend
 capable |  
+| bip_39_word_no_space_1 | divide |  
+| bip_39_word_no_space_10 | dividesectionseatwolfdunetornadostayweekendcapablediet |  
+| bip_39_word_no_space_11 | dividesectionseatwolfdunetornadostayweekendcapablediethedgehog |  
+| bip_39_word_no_space_12 | dividesectionseatwolfdunetornadostayweekendcapablediethedgehogadapt |  
+| bip_39_word_no_space_2 | dividesection |  
+| bip_39_word_no_space_3 | dividesectionseat |  
+| bip_39_word_no_space_4 | dividesectionseatwolf |  
+| bip_39_word_no_space_5 | dividesectionseatwolfdune |  
+| bip_39_word_no_space_6 | dividesectionseatwolfdunetornado |  
+| bip_39_word_no_space_7 | dividesectionseatwolfdunetornadostay |  
+| bip_39_word_no_space_8 | dividesectionseatwolfdunetornadostayweekend |  
+| bip_39_word_no_space_9 | dividesectionseatwolfdunetornadostayweekendcapable |  
 | bip_39_word_space_0 | ['divide', 'section', 'seat', 'wolf', 'dune', 'tornado', 'stay', 'weekend', 'capable', 'diet', 'hedgehog', 'adapt'] |  
 | bip_39_word_space_1 | divide |  
 | bip_39_word_space_10 | divide section seat wolf dune tornado stay weekend capable diet |  

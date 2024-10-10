@@ -122,6 +122,18 @@ pave
 price
 train
 river |  
+| bip_39_word_no_space_1 | goat |  
+| bip_39_word_no_space_10 | goatrobotripplediagramcliffpavepricetrainrivervoice |  
+| bip_39_word_no_space_11 | goatrobotripplediagramcliffpavepricetrainrivervoicebelow |  
+| bip_39_word_no_space_12 | goatrobotripplediagramcliffpavepricetrainrivervoicebelowarch |  
+| bip_39_word_no_space_2 | goatrobot |  
+| bip_39_word_no_space_3 | goatrobotripple |  
+| bip_39_word_no_space_4 | goatrobotripplediagram |  
+| bip_39_word_no_space_5 | goatrobotripplediagramcliff |  
+| bip_39_word_no_space_6 | goatrobotripplediagramcliffpave |  
+| bip_39_word_no_space_7 | goatrobotripplediagramcliffpaveprice |  
+| bip_39_word_no_space_8 | goatrobotripplediagramcliffpavepricetrain |  
+| bip_39_word_no_space_9 | goatrobotripplediagramcliffpavepricetrainriver |  
 | bip_39_word_space_0 | ['goat', 'robot', 'ripple', 'diagram', 'cliff', 'pave', 'price', 'train', 'river', 'voice', 'below', 'arch'] |  
 | bip_39_word_space_1 | goat |  
 | bip_39_word_space_10 | goat robot ripple diagram cliff pave price train river voice |  

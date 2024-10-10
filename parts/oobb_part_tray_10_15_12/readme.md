@@ -122,6 +122,18 @@ ghost
 horn
 toddler
 error |  
+| bip_39_word_no_space_1 | steel |  
+| bip_39_word_no_space_10 | steelnamezoneruderawghosthorntoddlererroroccur |  
+| bip_39_word_no_space_11 | steelnamezoneruderawghosthorntoddlererroroccurdepth |  
+| bip_39_word_no_space_12 | steelnamezoneruderawghosthorntoddlererroroccurdeptharm |  
+| bip_39_word_no_space_2 | steelname |  
+| bip_39_word_no_space_3 | steelnamezone |  
+| bip_39_word_no_space_4 | steelnamezonerude |  
+| bip_39_word_no_space_5 | steelnamezoneruderaw |  
+| bip_39_word_no_space_6 | steelnamezoneruderawghost |  
+| bip_39_word_no_space_7 | steelnamezoneruderawghosthorn |  
+| bip_39_word_no_space_8 | steelnamezoneruderawghosthorntoddler |  
+| bip_39_word_no_space_9 | steelnamezoneruderawghosthorntoddlererror |  
 | bip_39_word_space_0 | ['steel', 'name', 'zone', 'rude', 'raw', 'ghost', 'horn', 'toddler', 'error', 'occur', 'depth', 'arm'] |  
 | bip_39_word_space_1 | steel |  
 | bip_39_word_space_10 | steel name zone rude raw ghost horn toddler error occur |  

@@ -122,6 +122,18 @@ laptop
 hollow
 garlic
 swim |  
+| bip_39_word_no_space_1 | trick |  
+| bip_39_word_no_space_10 | trickdepthrevealleopardwraplaptophollowgarlicswimuntil |  
+| bip_39_word_no_space_11 | trickdepthrevealleopardwraplaptophollowgarlicswimuntilerupt |  
+| bip_39_word_no_space_12 | trickdepthrevealleopardwraplaptophollowgarlicswimuntileruptattack |  
+| bip_39_word_no_space_2 | trickdepth |  
+| bip_39_word_no_space_3 | trickdepthreveal |  
+| bip_39_word_no_space_4 | trickdepthrevealleopard |  
+| bip_39_word_no_space_5 | trickdepthrevealleopardwrap |  
+| bip_39_word_no_space_6 | trickdepthrevealleopardwraplaptop |  
+| bip_39_word_no_space_7 | trickdepthrevealleopardwraplaptophollow |  
+| bip_39_word_no_space_8 | trickdepthrevealleopardwraplaptophollowgarlic |  
+| bip_39_word_no_space_9 | trickdepthrevealleopardwraplaptophollowgarlicswim |  
 | bip_39_word_space_0 | ['trick', 'depth', 'reveal', 'leopard', 'wrap', 'laptop', 'hollow', 'garlic', 'swim', 'until', 'erupt', 'attack'] |  
 | bip_39_word_space_1 | trick |  
 | bip_39_word_space_10 | trick depth reveal leopard wrap laptop hollow garlic swim until |  

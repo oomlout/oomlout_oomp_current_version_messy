@@ -122,6 +122,18 @@ decorate
 label
 own
 suggest |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offpotatodaughtermerrygaspdecoratelabelownsuggestfew |  
+| bip_39_word_no_space_11 | offpotatodaughtermerrygaspdecoratelabelownsuggestfewstomach |  
+| bip_39_word_no_space_12 | offpotatodaughtermerrygaspdecoratelabelownsuggestfewstomachadapt |  
+| bip_39_word_no_space_2 | offpotato |  
+| bip_39_word_no_space_3 | offpotatodaughter |  
+| bip_39_word_no_space_4 | offpotatodaughtermerry |  
+| bip_39_word_no_space_5 | offpotatodaughtermerrygasp |  
+| bip_39_word_no_space_6 | offpotatodaughtermerrygaspdecorate |  
+| bip_39_word_no_space_7 | offpotatodaughtermerrygaspdecoratelabel |  
+| bip_39_word_no_space_8 | offpotatodaughtermerrygaspdecoratelabelown |  
+| bip_39_word_no_space_9 | offpotatodaughtermerrygaspdecoratelabelownsuggest |  
 | bip_39_word_space_0 | ['off', 'potato', 'daughter', 'merry', 'gasp', 'decorate', 'label', 'own', 'suggest', 'few', 'stomach', 'adapt'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off potato daughter merry gasp decorate label own suggest few |  

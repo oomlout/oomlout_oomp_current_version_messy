@@ -122,6 +122,18 @@ room
 south
 blush
 false |  
+| bip_39_word_no_space_1 | original |  
+| bip_39_word_no_space_10 | originalyarddumbaerobicunderroomsouthblushfalsegorilla |  
+| bip_39_word_no_space_11 | originalyarddumbaerobicunderroomsouthblushfalsegorillapeace |  
+| bip_39_word_no_space_12 | originalyarddumbaerobicunderroomsouthblushfalsegorillapeacealter |  
+| bip_39_word_no_space_2 | originalyard |  
+| bip_39_word_no_space_3 | originalyarddumb |  
+| bip_39_word_no_space_4 | originalyarddumbaerobic |  
+| bip_39_word_no_space_5 | originalyarddumbaerobicunder |  
+| bip_39_word_no_space_6 | originalyarddumbaerobicunderroom |  
+| bip_39_word_no_space_7 | originalyarddumbaerobicunderroomsouth |  
+| bip_39_word_no_space_8 | originalyarddumbaerobicunderroomsouthblush |  
+| bip_39_word_no_space_9 | originalyarddumbaerobicunderroomsouthblushfalse |  
 | bip_39_word_space_0 | ['original', 'yard', 'dumb', 'aerobic', 'under', 'room', 'south', 'blush', 'false', 'gorilla', 'peace', 'alter'] |  
 | bip_39_word_space_1 | original |  
 | bip_39_word_space_10 | original yard dumb aerobic under room south blush false gorilla |  

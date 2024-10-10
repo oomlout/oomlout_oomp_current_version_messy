@@ -122,6 +122,18 @@ panther
 baby
 private
 ozone |  
+| bip_39_word_no_space_1 | dust |  
+| bip_39_word_no_space_10 | dustsquareinspiregridsavepantherbabyprivateozonelanguage |  
+| bip_39_word_no_space_11 | dustsquareinspiregridsavepantherbabyprivateozonelanguagevisa |  
+| bip_39_word_no_space_12 | dustsquareinspiregridsavepantherbabyprivateozonelanguagevisaaccident |  
+| bip_39_word_no_space_2 | dustsquare |  
+| bip_39_word_no_space_3 | dustsquareinspire |  
+| bip_39_word_no_space_4 | dustsquareinspiregrid |  
+| bip_39_word_no_space_5 | dustsquareinspiregridsave |  
+| bip_39_word_no_space_6 | dustsquareinspiregridsavepanther |  
+| bip_39_word_no_space_7 | dustsquareinspiregridsavepantherbaby |  
+| bip_39_word_no_space_8 | dustsquareinspiregridsavepantherbabyprivate |  
+| bip_39_word_no_space_9 | dustsquareinspiregridsavepantherbabyprivateozone |  
 | bip_39_word_space_0 | ['dust', 'square', 'inspire', 'grid', 'save', 'panther', 'baby', 'private', 'ozone', 'language', 'visa', 'accident'] |  
 | bip_39_word_space_1 | dust |  
 | bip_39_word_space_10 | dust square inspire grid save panther baby private ozone language |  

@@ -122,6 +122,18 @@ vanish
 elegant
 fence
 flush |  
+| bip_39_word_no_space_1 | three |  
+| bip_39_word_no_space_10 | threechefforkconcertshaftvanishelegantfenceflushhip |  
+| bip_39_word_no_space_11 | threechefforkconcertshaftvanishelegantfenceflushhipquote |  
+| bip_39_word_no_space_12 | threechefforkconcertshaftvanishelegantfenceflushhipquotealmost |  
+| bip_39_word_no_space_2 | threechef |  
+| bip_39_word_no_space_3 | threecheffork |  
+| bip_39_word_no_space_4 | threechefforkconcert |  
+| bip_39_word_no_space_5 | threechefforkconcertshaft |  
+| bip_39_word_no_space_6 | threechefforkconcertshaftvanish |  
+| bip_39_word_no_space_7 | threechefforkconcertshaftvanishelegant |  
+| bip_39_word_no_space_8 | threechefforkconcertshaftvanishelegantfence |  
+| bip_39_word_no_space_9 | threechefforkconcertshaftvanishelegantfenceflush |  
 | bip_39_word_space_0 | ['three', 'chef', 'fork', 'concert', 'shaft', 'vanish', 'elegant', 'fence', 'flush', 'hip', 'quote', 'almost'] |  
 | bip_39_word_space_1 | three |  
 | bip_39_word_space_10 | three chef fork concert shaft vanish elegant fence flush hip |  

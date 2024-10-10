@@ -122,6 +122,18 @@ curtain
 must
 cup
 riot |  
+| bip_39_word_no_space_1 | until |  
+| bip_39_word_no_space_10 | untilsuchbeltleafenactcurtainmustcupriottumble |  
+| bip_39_word_no_space_11 | untilsuchbeltleafenactcurtainmustcupriottumblestem |  
+| bip_39_word_no_space_12 | untilsuchbeltleafenactcurtainmustcupriottumblestemanimal |  
+| bip_39_word_no_space_2 | untilsuch |  
+| bip_39_word_no_space_3 | untilsuchbelt |  
+| bip_39_word_no_space_4 | untilsuchbeltleaf |  
+| bip_39_word_no_space_5 | untilsuchbeltleafenact |  
+| bip_39_word_no_space_6 | untilsuchbeltleafenactcurtain |  
+| bip_39_word_no_space_7 | untilsuchbeltleafenactcurtainmust |  
+| bip_39_word_no_space_8 | untilsuchbeltleafenactcurtainmustcup |  
+| bip_39_word_no_space_9 | untilsuchbeltleafenactcurtainmustcupriot |  
 | bip_39_word_space_0 | ['until', 'such', 'belt', 'leaf', 'enact', 'curtain', 'must', 'cup', 'riot', 'tumble', 'stem', 'animal'] |  
 | bip_39_word_space_1 | until |  
 | bip_39_word_space_10 | until such belt leaf enact curtain must cup riot tumble |  

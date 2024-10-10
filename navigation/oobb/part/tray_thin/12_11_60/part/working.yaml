@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'talent
   tuna
 
   erosion'
+bip_39_word_no_space_1: talent
+bip_39_word_no_space_10: talentsureframeproofretreatfinejealoustunaerosionsoon
+bip_39_word_no_space_11: talentsureframeproofretreatfinejealoustunaerosionsooninsect
+bip_39_word_no_space_12: talentsureframeproofretreatfinejealoustunaerosionsooninsectalien
+bip_39_word_no_space_2: talentsure
+bip_39_word_no_space_3: talentsureframe
+bip_39_word_no_space_4: talentsureframeproof
+bip_39_word_no_space_5: talentsureframeproofretreat
+bip_39_word_no_space_6: talentsureframeproofretreatfine
+bip_39_word_no_space_7: talentsureframeproofretreatfinejealous
+bip_39_word_no_space_8: talentsureframeproofretreatfinejealoustuna
+bip_39_word_no_space_9: talentsureframeproofretreatfinejealoustunaerosion
 bip_39_word_space_0:
 - talent
 - sure

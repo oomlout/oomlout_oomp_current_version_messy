@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rifle
   spoon
 
   pink'
+bip_39_word_no_space_1: rifle
+bip_39_word_no_space_10: riflevocalpriorityregretforwardwestcramspoonpinkdove
+bip_39_word_no_space_11: riflevocalpriorityregretforwardwestcramspoonpinkdovetoss
+bip_39_word_no_space_12: riflevocalpriorityregretforwardwestcramspoonpinkdovetossartwork
+bip_39_word_no_space_2: riflevocal
+bip_39_word_no_space_3: riflevocalpriority
+bip_39_word_no_space_4: riflevocalpriorityregret
+bip_39_word_no_space_5: riflevocalpriorityregretforward
+bip_39_word_no_space_6: riflevocalpriorityregretforwardwest
+bip_39_word_no_space_7: riflevocalpriorityregretforwardwestcram
+bip_39_word_no_space_8: riflevocalpriorityregretforwardwestcramspoon
+bip_39_word_no_space_9: riflevocalpriorityregretforwardwestcramspoonpink
 bip_39_word_space_0:
 - rifle
 - vocal

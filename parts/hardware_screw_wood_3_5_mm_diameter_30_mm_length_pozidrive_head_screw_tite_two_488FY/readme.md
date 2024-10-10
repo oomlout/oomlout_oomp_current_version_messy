@@ -122,6 +122,18 @@ better
 catch
 blouse
 cool |  
+| bip_39_word_no_space_1 | radar |  
+| bip_39_word_no_space_10 | radardoubletermloudvaporbettercatchblousecoolbottom |  
+| bip_39_word_no_space_11 | radardoubletermloudvaporbettercatchblousecoolbottomenlist |  
+| bip_39_word_no_space_12 | radardoubletermloudvaporbettercatchblousecoolbottomenlistapple |  
+| bip_39_word_no_space_2 | radardouble |  
+| bip_39_word_no_space_3 | radardoubleterm |  
+| bip_39_word_no_space_4 | radardoubletermloud |  
+| bip_39_word_no_space_5 | radardoubletermloudvapor |  
+| bip_39_word_no_space_6 | radardoubletermloudvaporbetter |  
+| bip_39_word_no_space_7 | radardoubletermloudvaporbettercatch |  
+| bip_39_word_no_space_8 | radardoubletermloudvaporbettercatchblouse |  
+| bip_39_word_no_space_9 | radardoubletermloudvaporbettercatchblousecool |  
 | bip_39_word_space_0 | ['radar', 'double', 'term', 'loud', 'vapor', 'better', 'catch', 'blouse', 'cool', 'bottom', 'enlist', 'apple'] |  
 | bip_39_word_space_1 | radar |  
 | bip_39_word_space_10 | radar double term loud vapor better catch blouse cool bottom |  

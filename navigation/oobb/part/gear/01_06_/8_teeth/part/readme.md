@@ -122,6 +122,18 @@ unhappy
 mom
 rib
 venue |  
+| bip_39_word_no_space_1 | pig |  
+| bip_39_word_no_space_10 | piglyricsangermachinerocketunhappymomribvenuetry |  
+| bip_39_word_no_space_11 | piglyricsangermachinerocketunhappymomribvenuetrytomato |  
+| bip_39_word_no_space_12 | piglyricsangermachinerocketunhappymomribvenuetrytomatoart |  
+| bip_39_word_no_space_2 | piglyrics |  
+| bip_39_word_no_space_3 | piglyricsanger |  
+| bip_39_word_no_space_4 | piglyricsangermachine |  
+| bip_39_word_no_space_5 | piglyricsangermachinerocket |  
+| bip_39_word_no_space_6 | piglyricsangermachinerocketunhappy |  
+| bip_39_word_no_space_7 | piglyricsangermachinerocketunhappymom |  
+| bip_39_word_no_space_8 | piglyricsangermachinerocketunhappymomrib |  
+| bip_39_word_no_space_9 | piglyricsangermachinerocketunhappymomribvenue |  
 | bip_39_word_space_0 | ['pig', 'lyrics', 'anger', 'machine', 'rocket', 'unhappy', 'mom', 'rib', 'venue', 'try', 'tomato', 'art'] |  
 | bip_39_word_space_1 | pig |  
 | bip_39_word_space_10 | pig lyrics anger machine rocket unhappy mom rib venue try |  

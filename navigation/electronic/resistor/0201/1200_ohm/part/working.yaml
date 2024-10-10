@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'long
   glory
 
   rotate'
+bip_39_word_no_space_1: long
+bip_39_word_no_space_10: longscissorsfloorhilllatercodedemisegloryrotatebase
+bip_39_word_no_space_11: longscissorsfloorhilllatercodedemisegloryrotatebasegate
+bip_39_word_no_space_12: longscissorsfloorhilllatercodedemisegloryrotatebasegatealready
+bip_39_word_no_space_2: longscissors
+bip_39_word_no_space_3: longscissorsfloor
+bip_39_word_no_space_4: longscissorsfloorhill
+bip_39_word_no_space_5: longscissorsfloorhilllater
+bip_39_word_no_space_6: longscissorsfloorhilllatercode
+bip_39_word_no_space_7: longscissorsfloorhilllatercodedemise
+bip_39_word_no_space_8: longscissorsfloorhilllatercodedemiseglory
+bip_39_word_no_space_9: longscissorsfloorhilllatercodedemisegloryrotate
 bip_39_word_space_0:
 - long
 - scissors

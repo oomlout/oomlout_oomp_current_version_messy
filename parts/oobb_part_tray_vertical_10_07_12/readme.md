@@ -122,6 +122,18 @@ find
 slam
 puppy
 penalty |  
+| bip_39_word_no_space_1 | cross |  
+| bip_39_word_no_space_10 | crosslabdashceilinggaugefindslampuppypenaltyphone |  
+| bip_39_word_no_space_11 | crosslabdashceilinggaugefindslampuppypenaltyphonetopic |  
+| bip_39_word_no_space_12 | crosslabdashceilinggaugefindslampuppypenaltyphonetopicaverage |  
+| bip_39_word_no_space_2 | crosslab |  
+| bip_39_word_no_space_3 | crosslabdash |  
+| bip_39_word_no_space_4 | crosslabdashceiling |  
+| bip_39_word_no_space_5 | crosslabdashceilinggauge |  
+| bip_39_word_no_space_6 | crosslabdashceilinggaugefind |  
+| bip_39_word_no_space_7 | crosslabdashceilinggaugefindslam |  
+| bip_39_word_no_space_8 | crosslabdashceilinggaugefindslampuppy |  
+| bip_39_word_no_space_9 | crosslabdashceilinggaugefindslampuppypenalty |  
 | bip_39_word_space_0 | ['cross', 'lab', 'dash', 'ceiling', 'gauge', 'find', 'slam', 'puppy', 'penalty', 'phone', 'topic', 'average'] |  
 | bip_39_word_space_1 | cross |  
 | bip_39_word_space_10 | cross lab dash ceiling gauge find slam puppy penalty phone |  

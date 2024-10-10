@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'task
   math
 
   cup'
+bip_39_word_no_space_1: task
+bip_39_word_no_space_10: taskgardenhurtsyrupanydolphinmarblemathcupoutdoor
+bip_39_word_no_space_11: taskgardenhurtsyrupanydolphinmarblemathcupoutdoorokay
+bip_39_word_no_space_12: taskgardenhurtsyrupanydolphinmarblemathcupoutdoorokayarrow
+bip_39_word_no_space_2: taskgarden
+bip_39_word_no_space_3: taskgardenhurt
+bip_39_word_no_space_4: taskgardenhurtsyrup
+bip_39_word_no_space_5: taskgardenhurtsyrupany
+bip_39_word_no_space_6: taskgardenhurtsyrupanydolphin
+bip_39_word_no_space_7: taskgardenhurtsyrupanydolphinmarble
+bip_39_word_no_space_8: taskgardenhurtsyrupanydolphinmarblemath
+bip_39_word_no_space_9: taskgardenhurtsyrupanydolphinmarblemathcup
 bip_39_word_space_0:
 - task
 - garden

@@ -122,6 +122,18 @@ omit
 wreck
 column
 wrong |  
+| bip_39_word_no_space_1 | churn |  
+| bip_39_word_no_space_10 | churnrichmanruleauntomitwreckcolumnwrongfault |  
+| bip_39_word_no_space_11 | churnrichmanruleauntomitwreckcolumnwrongfaulttool |  
+| bip_39_word_no_space_12 | churnrichmanruleauntomitwreckcolumnwrongfaulttoolalarm |  
+| bip_39_word_no_space_2 | churnrich |  
+| bip_39_word_no_space_3 | churnrichman |  
+| bip_39_word_no_space_4 | churnrichmanrule |  
+| bip_39_word_no_space_5 | churnrichmanruleaunt |  
+| bip_39_word_no_space_6 | churnrichmanruleauntomit |  
+| bip_39_word_no_space_7 | churnrichmanruleauntomitwreck |  
+| bip_39_word_no_space_8 | churnrichmanruleauntomitwreckcolumn |  
+| bip_39_word_no_space_9 | churnrichmanruleauntomitwreckcolumnwrong |  
 | bip_39_word_space_0 | ['churn', 'rich', 'man', 'rule', 'aunt', 'omit', 'wreck', 'column', 'wrong', 'fault', 'tool', 'alarm'] |  
 | bip_39_word_space_1 | churn |  
 | bip_39_word_space_10 | churn rich man rule aunt omit wreck column wrong fault |  

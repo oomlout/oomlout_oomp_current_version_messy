@@ -122,6 +122,18 @@ oak
 fork
 old
 laugh |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | calltermarmyclerksphereoakforkoldlaughripple |  
+| bip_39_word_no_space_11 | calltermarmyclerksphereoakforkoldlaughripplefarm |  
+| bip_39_word_no_space_12 | calltermarmyclerksphereoakforkoldlaughripplefarmabuse |  
+| bip_39_word_no_space_2 | callterm |  
+| bip_39_word_no_space_3 | calltermarmy |  
+| bip_39_word_no_space_4 | calltermarmyclerk |  
+| bip_39_word_no_space_5 | calltermarmyclerksphere |  
+| bip_39_word_no_space_6 | calltermarmyclerksphereoak |  
+| bip_39_word_no_space_7 | calltermarmyclerksphereoakfork |  
+| bip_39_word_no_space_8 | calltermarmyclerksphereoakforkold |  
+| bip_39_word_no_space_9 | calltermarmyclerksphereoakforkoldlaugh |  
 | bip_39_word_space_0 | ['call', 'term', 'army', 'clerk', 'sphere', 'oak', 'fork', 'old', 'laugh', 'ripple', 'farm', 'abuse'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call term army clerk sphere oak fork old laugh ripple |  

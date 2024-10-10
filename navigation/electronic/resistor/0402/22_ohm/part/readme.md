@@ -122,6 +122,18 @@ bargain
 dinner
 pig
 style |  
+| bip_39_word_no_space_1 | opera |  
+| bip_39_word_no_space_10 | operafinalbulkgapneverbargaindinnerpigstylemedal |  
+| bip_39_word_no_space_11 | operafinalbulkgapneverbargaindinnerpigstylemedaldepart |  
+| bip_39_word_no_space_12 | operafinalbulkgapneverbargaindinnerpigstylemedaldepartalien |  
+| bip_39_word_no_space_2 | operafinal |  
+| bip_39_word_no_space_3 | operafinalbulk |  
+| bip_39_word_no_space_4 | operafinalbulkgap |  
+| bip_39_word_no_space_5 | operafinalbulkgapnever |  
+| bip_39_word_no_space_6 | operafinalbulkgapneverbargain |  
+| bip_39_word_no_space_7 | operafinalbulkgapneverbargaindinner |  
+| bip_39_word_no_space_8 | operafinalbulkgapneverbargaindinnerpig |  
+| bip_39_word_no_space_9 | operafinalbulkgapneverbargaindinnerpigstyle |  
 | bip_39_word_space_0 | ['opera', 'final', 'bulk', 'gap', 'never', 'bargain', 'dinner', 'pig', 'style', 'medal', 'depart', 'alien'] |  
 | bip_39_word_space_1 | opera |  
 | bip_39_word_space_10 | opera final bulk gap never bargain dinner pig style medal |  

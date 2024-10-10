@@ -122,6 +122,18 @@ arrive
 divide
 knife
 require |  
+| bip_39_word_no_space_1 | effort |  
+| bip_39_word_no_space_10 | effortpolicegoodcountrydegreearrivedividekniferequirecollect |  
+| bip_39_word_no_space_11 | effortpolicegoodcountrydegreearrivedividekniferequirecollectuncover |  
+| bip_39_word_no_space_12 | effortpolicegoodcountrydegreearrivedividekniferequirecollectuncoverabsent |  
+| bip_39_word_no_space_2 | effortpolice |  
+| bip_39_word_no_space_3 | effortpolicegood |  
+| bip_39_word_no_space_4 | effortpolicegoodcountry |  
+| bip_39_word_no_space_5 | effortpolicegoodcountrydegree |  
+| bip_39_word_no_space_6 | effortpolicegoodcountrydegreearrive |  
+| bip_39_word_no_space_7 | effortpolicegoodcountrydegreearrivedivide |  
+| bip_39_word_no_space_8 | effortpolicegoodcountrydegreearrivedivideknife |  
+| bip_39_word_no_space_9 | effortpolicegoodcountrydegreearrivedividekniferequire |  
 | bip_39_word_space_0 | ['effort', 'police', 'good', 'country', 'degree', 'arrive', 'divide', 'knife', 'require', 'collect', 'uncover', 'absent'] |  
 | bip_39_word_space_1 | effort |  
 | bip_39_word_space_10 | effort police good country degree arrive divide knife require collect |  

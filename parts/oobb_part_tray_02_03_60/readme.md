@@ -122,6 +122,18 @@ favorite
 adjust
 stuff
 attract |  
+| bip_39_word_no_space_1 | relax |  
+| bip_39_word_no_space_10 | relaxadjustcushionappearpearfavoriteadjuststuffattractover |  
+| bip_39_word_no_space_11 | relaxadjustcushionappearpearfavoriteadjuststuffattractovervisual |  
+| bip_39_word_no_space_12 | relaxadjustcushionappearpearfavoriteadjuststuffattractovervisualaverage |  
+| bip_39_word_no_space_2 | relaxadjust |  
+| bip_39_word_no_space_3 | relaxadjustcushion |  
+| bip_39_word_no_space_4 | relaxadjustcushionappear |  
+| bip_39_word_no_space_5 | relaxadjustcushionappearpear |  
+| bip_39_word_no_space_6 | relaxadjustcushionappearpearfavorite |  
+| bip_39_word_no_space_7 | relaxadjustcushionappearpearfavoriteadjust |  
+| bip_39_word_no_space_8 | relaxadjustcushionappearpearfavoriteadjuststuff |  
+| bip_39_word_no_space_9 | relaxadjustcushionappearpearfavoriteadjuststuffattract |  
 | bip_39_word_space_0 | ['relax', 'adjust', 'cushion', 'appear', 'pear', 'favorite', 'adjust', 'stuff', 'attract', 'over', 'visual', 'average'] |  
 | bip_39_word_space_1 | relax |  
 | bip_39_word_space_10 | relax adjust cushion appear pear favorite adjust stuff attract over |  

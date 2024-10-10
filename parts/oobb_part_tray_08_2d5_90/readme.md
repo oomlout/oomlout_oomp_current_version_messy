@@ -122,6 +122,18 @@ allow
 elevator
 obscure
 solar |  
+| bip_39_word_no_space_1 | memory |  
+| bip_39_word_no_space_10 | memorytiredtogetherchampionentryallowelevatorobscuresolarforum |  
+| bip_39_word_no_space_11 | memorytiredtogetherchampionentryallowelevatorobscuresolarforumcheap |  
+| bip_39_word_no_space_12 | memorytiredtogetherchampionentryallowelevatorobscuresolarforumcheapalley |  
+| bip_39_word_no_space_2 | memorytired |  
+| bip_39_word_no_space_3 | memorytiredtogether |  
+| bip_39_word_no_space_4 | memorytiredtogetherchampion |  
+| bip_39_word_no_space_5 | memorytiredtogetherchampionentry |  
+| bip_39_word_no_space_6 | memorytiredtogetherchampionentryallow |  
+| bip_39_word_no_space_7 | memorytiredtogetherchampionentryallowelevator |  
+| bip_39_word_no_space_8 | memorytiredtogetherchampionentryallowelevatorobscure |  
+| bip_39_word_no_space_9 | memorytiredtogetherchampionentryallowelevatorobscuresolar |  
 | bip_39_word_space_0 | ['memory', 'tired', 'together', 'champion', 'entry', 'allow', 'elevator', 'obscure', 'solar', 'forum', 'cheap', 'alley'] |  
 | bip_39_word_space_1 | memory |  
 | bip_39_word_space_10 | memory tired together champion entry allow elevator obscure solar forum |  

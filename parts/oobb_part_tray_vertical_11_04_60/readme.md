@@ -122,6 +122,18 @@ leopard
 acquire
 author
 cost |  
+| bip_39_word_no_space_1 | salad |  
+| bip_39_word_no_space_10 | saladobjectswordcannonroomleopardacquireauthorcostfrog |  
+| bip_39_word_no_space_11 | saladobjectswordcannonroomleopardacquireauthorcostfrogsplit |  
+| bip_39_word_no_space_12 | saladobjectswordcannonroomleopardacquireauthorcostfrogsplitaspect |  
+| bip_39_word_no_space_2 | saladobject |  
+| bip_39_word_no_space_3 | saladobjectsword |  
+| bip_39_word_no_space_4 | saladobjectswordcannon |  
+| bip_39_word_no_space_5 | saladobjectswordcannonroom |  
+| bip_39_word_no_space_6 | saladobjectswordcannonroomleopard |  
+| bip_39_word_no_space_7 | saladobjectswordcannonroomleopardacquire |  
+| bip_39_word_no_space_8 | saladobjectswordcannonroomleopardacquireauthor |  
+| bip_39_word_no_space_9 | saladobjectswordcannonroomleopardacquireauthorcost |  
 | bip_39_word_space_0 | ['salad', 'object', 'sword', 'cannon', 'room', 'leopard', 'acquire', 'author', 'cost', 'frog', 'split', 'aspect'] |  
 | bip_39_word_space_1 | salad |  
 | bip_39_word_space_10 | salad object sword cannon room leopard acquire author cost frog |  

@@ -122,6 +122,18 @@ raven
 glad
 void
 total |  
+| bip_39_word_no_space_1 | wheat |  
+| bip_39_word_no_space_10 | wheatpotatonapkinankleembarkravengladvoidtotalpriority |  
+| bip_39_word_no_space_11 | wheatpotatonapkinankleembarkravengladvoidtotalpriorityspatial |  
+| bip_39_word_no_space_12 | wheatpotatonapkinankleembarkravengladvoidtotalpriorityspatialathlete |  
+| bip_39_word_no_space_2 | wheatpotato |  
+| bip_39_word_no_space_3 | wheatpotatonapkin |  
+| bip_39_word_no_space_4 | wheatpotatonapkinankle |  
+| bip_39_word_no_space_5 | wheatpotatonapkinankleembark |  
+| bip_39_word_no_space_6 | wheatpotatonapkinankleembarkraven |  
+| bip_39_word_no_space_7 | wheatpotatonapkinankleembarkravenglad |  
+| bip_39_word_no_space_8 | wheatpotatonapkinankleembarkravengladvoid |  
+| bip_39_word_no_space_9 | wheatpotatonapkinankleembarkravengladvoidtotal |  
 | bip_39_word_space_0 | ['wheat', 'potato', 'napkin', 'ankle', 'embark', 'raven', 'glad', 'void', 'total', 'priority', 'spatial', 'athlete'] |  
 | bip_39_word_space_1 | wheat |  
 | bip_39_word_space_10 | wheat potato napkin ankle embark raven glad void total priority |  

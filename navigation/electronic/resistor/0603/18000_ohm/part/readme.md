@@ -122,6 +122,18 @@ head
 exhaust
 erase
 into |  
+| bip_39_word_no_space_1 | globe |  
+| bip_39_word_no_space_10 | globeshieldinputsockshootheadexhausteraseintoemerge |  
+| bip_39_word_no_space_11 | globeshieldinputsockshootheadexhausteraseintoemergebase |  
+| bip_39_word_no_space_12 | globeshieldinputsockshootheadexhausteraseintoemergebaseautumn |  
+| bip_39_word_no_space_2 | globeshield |  
+| bip_39_word_no_space_3 | globeshieldinput |  
+| bip_39_word_no_space_4 | globeshieldinputsock |  
+| bip_39_word_no_space_5 | globeshieldinputsockshoot |  
+| bip_39_word_no_space_6 | globeshieldinputsockshoothead |  
+| bip_39_word_no_space_7 | globeshieldinputsockshootheadexhaust |  
+| bip_39_word_no_space_8 | globeshieldinputsockshootheadexhausterase |  
+| bip_39_word_no_space_9 | globeshieldinputsockshootheadexhausteraseinto |  
 | bip_39_word_space_0 | ['globe', 'shield', 'input', 'sock', 'shoot', 'head', 'exhaust', 'erase', 'into', 'emerge', 'base', 'autumn'] |  
 | bip_39_word_space_1 | globe |  
 | bip_39_word_space_10 | globe shield input sock shoot head exhaust erase into emerge |  

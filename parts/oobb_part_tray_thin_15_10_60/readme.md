@@ -122,6 +122,18 @@ capable
 people
 brave
 release |  
+| bip_39_word_no_space_1 | more |  
+| bip_39_word_no_space_10 | moreaffordboatalleywashcapablepeoplebravereleasedivide |  
+| bip_39_word_no_space_11 | moreaffordboatalleywashcapablepeoplebravereleasedividelatin |  
+| bip_39_word_no_space_12 | moreaffordboatalleywashcapablepeoplebravereleasedividelatinauthor |  
+| bip_39_word_no_space_2 | moreafford |  
+| bip_39_word_no_space_3 | moreaffordboat |  
+| bip_39_word_no_space_4 | moreaffordboatalley |  
+| bip_39_word_no_space_5 | moreaffordboatalleywash |  
+| bip_39_word_no_space_6 | moreaffordboatalleywashcapable |  
+| bip_39_word_no_space_7 | moreaffordboatalleywashcapablepeople |  
+| bip_39_word_no_space_8 | moreaffordboatalleywashcapablepeoplebrave |  
+| bip_39_word_no_space_9 | moreaffordboatalleywashcapablepeoplebraverelease |  
 | bip_39_word_space_0 | ['more', 'afford', 'boat', 'alley', 'wash', 'capable', 'people', 'brave', 'release', 'divide', 'latin', 'author'] |  
 | bip_39_word_space_1 | more |  
 | bip_39_word_space_10 | more afford boat alley wash capable people brave release divide |  

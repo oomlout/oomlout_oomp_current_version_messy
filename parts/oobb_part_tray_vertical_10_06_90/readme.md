@@ -122,6 +122,18 @@ warm
 student
 private
 easy |  
+| bip_39_word_no_space_1 | gas |  
+| bip_39_word_no_space_10 | gasnutdivorcesurveylanguagewarmstudentprivateeasypig |  
+| bip_39_word_no_space_11 | gasnutdivorcesurveylanguagewarmstudentprivateeasypigfuel |  
+| bip_39_word_no_space_12 | gasnutdivorcesurveylanguagewarmstudentprivateeasypigfuelasset |  
+| bip_39_word_no_space_2 | gasnut |  
+| bip_39_word_no_space_3 | gasnutdivorce |  
+| bip_39_word_no_space_4 | gasnutdivorcesurvey |  
+| bip_39_word_no_space_5 | gasnutdivorcesurveylanguage |  
+| bip_39_word_no_space_6 | gasnutdivorcesurveylanguagewarm |  
+| bip_39_word_no_space_7 | gasnutdivorcesurveylanguagewarmstudent |  
+| bip_39_word_no_space_8 | gasnutdivorcesurveylanguagewarmstudentprivate |  
+| bip_39_word_no_space_9 | gasnutdivorcesurveylanguagewarmstudentprivateeasy |  
 | bip_39_word_space_0 | ['gas', 'nut', 'divorce', 'survey', 'language', 'warm', 'student', 'private', 'easy', 'pig', 'fuel', 'asset'] |  
 | bip_39_word_space_1 | gas |  
 | bip_39_word_space_10 | gas nut divorce survey language warm student private easy pig |  

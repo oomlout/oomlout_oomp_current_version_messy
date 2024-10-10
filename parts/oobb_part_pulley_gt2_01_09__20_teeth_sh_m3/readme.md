@@ -122,6 +122,18 @@ leave
 square
 dash
 wood |  
+| bip_39_word_no_space_1 | turn |  
+| bip_39_word_no_space_10 | turndiffersunnyyoungaccountleavesquaredashwooddry |  
+| bip_39_word_no_space_11 | turndiffersunnyyoungaccountleavesquaredashwooddryask |  
+| bip_39_word_no_space_12 | turndiffersunnyyoungaccountleavesquaredashwooddryaskaerobic |  
+| bip_39_word_no_space_2 | turndiffer |  
+| bip_39_word_no_space_3 | turndiffersunny |  
+| bip_39_word_no_space_4 | turndiffersunnyyoung |  
+| bip_39_word_no_space_5 | turndiffersunnyyoungaccount |  
+| bip_39_word_no_space_6 | turndiffersunnyyoungaccountleave |  
+| bip_39_word_no_space_7 | turndiffersunnyyoungaccountleavesquare |  
+| bip_39_word_no_space_8 | turndiffersunnyyoungaccountleavesquaredash |  
+| bip_39_word_no_space_9 | turndiffersunnyyoungaccountleavesquaredashwood |  
 | bip_39_word_space_0 | ['turn', 'differ', 'sunny', 'young', 'account', 'leave', 'square', 'dash', 'wood', 'dry', 'ask', 'aerobic'] |  
 | bip_39_word_space_1 | turn |  
 | bip_39_word_space_10 | turn differ sunny young account leave square dash wood dry |  

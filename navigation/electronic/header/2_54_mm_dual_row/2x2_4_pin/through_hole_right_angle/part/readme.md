@@ -122,6 +122,18 @@ since
 bulb
 toy
 shadow |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumskillcoffeekickislandsincebulbtoyshadowvictory |  
+| bip_39_word_no_space_11 | albumskillcoffeekickislandsincebulbtoyshadowvictorydescribe |  
+| bip_39_word_no_space_12 | albumskillcoffeekickislandsincebulbtoyshadowvictorydescribeadd |  
+| bip_39_word_no_space_2 | albumskill |  
+| bip_39_word_no_space_3 | albumskillcoffee |  
+| bip_39_word_no_space_4 | albumskillcoffeekick |  
+| bip_39_word_no_space_5 | albumskillcoffeekickisland |  
+| bip_39_word_no_space_6 | albumskillcoffeekickislandsince |  
+| bip_39_word_no_space_7 | albumskillcoffeekickislandsincebulb |  
+| bip_39_word_no_space_8 | albumskillcoffeekickislandsincebulbtoy |  
+| bip_39_word_no_space_9 | albumskillcoffeekickislandsincebulbtoyshadow |  
 | bip_39_word_space_0 | ['album', 'skill', 'coffee', 'kick', 'island', 'since', 'bulb', 'toy', 'shadow', 'victory', 'describe', 'add'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album skill coffee kick island since bulb toy shadow victory |  

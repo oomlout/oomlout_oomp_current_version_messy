@@ -122,6 +122,18 @@ wrap
 retreat
 opinion
 panel |  
+| bip_39_word_no_space_1 | recycle |  
+| bip_39_word_no_space_10 | recyclesongabandonzerotruckwrapretreatopinionpanelfall |  
+| bip_39_word_no_space_11 | recyclesongabandonzerotruckwrapretreatopinionpanelfallonce |  
+| bip_39_word_no_space_12 | recyclesongabandonzerotruckwrapretreatopinionpanelfallonceapril |  
+| bip_39_word_no_space_2 | recyclesong |  
+| bip_39_word_no_space_3 | recyclesongabandon |  
+| bip_39_word_no_space_4 | recyclesongabandonzero |  
+| bip_39_word_no_space_5 | recyclesongabandonzerotruck |  
+| bip_39_word_no_space_6 | recyclesongabandonzerotruckwrap |  
+| bip_39_word_no_space_7 | recyclesongabandonzerotruckwrapretreat |  
+| bip_39_word_no_space_8 | recyclesongabandonzerotruckwrapretreatopinion |  
+| bip_39_word_no_space_9 | recyclesongabandonzerotruckwrapretreatopinionpanel |  
 | bip_39_word_space_0 | ['recycle', 'song', 'abandon', 'zero', 'truck', 'wrap', 'retreat', 'opinion', 'panel', 'fall', 'once', 'april'] |  
 | bip_39_word_space_1 | recycle |  
 | bip_39_word_space_10 | recycle song abandon zero truck wrap retreat opinion panel fall |  

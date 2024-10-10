@@ -122,6 +122,18 @@ sister
 kitten
 chunk
 suffer |  
+| bip_39_word_no_space_1 | make |  
+| bip_39_word_no_space_10 | makealonegiraffetwosmoothsisterkittenchunksufferchuckle |  
+| bip_39_word_no_space_11 | makealonegiraffetwosmoothsisterkittenchunksufferchuckleusage |  
+| bip_39_word_no_space_12 | makealonegiraffetwosmoothsisterkittenchunksufferchuckleusageannual |  
+| bip_39_word_no_space_2 | makealone |  
+| bip_39_word_no_space_3 | makealonegiraffe |  
+| bip_39_word_no_space_4 | makealonegiraffetwo |  
+| bip_39_word_no_space_5 | makealonegiraffetwosmooth |  
+| bip_39_word_no_space_6 | makealonegiraffetwosmoothsister |  
+| bip_39_word_no_space_7 | makealonegiraffetwosmoothsisterkitten |  
+| bip_39_word_no_space_8 | makealonegiraffetwosmoothsisterkittenchunk |  
+| bip_39_word_no_space_9 | makealonegiraffetwosmoothsisterkittenchunksuffer |  
 | bip_39_word_space_0 | ['make', 'alone', 'giraffe', 'two', 'smooth', 'sister', 'kitten', 'chunk', 'suffer', 'chuckle', 'usage', 'annual'] |  
 | bip_39_word_space_1 | make |  
 | bip_39_word_space_10 | make alone giraffe two smooth sister kitten chunk suffer chuckle |  

@@ -122,6 +122,18 @@ rapid
 razor
 obey
 play |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemmenudreamvisaamusedrapidrazorobeyplaymeadow |  
+| bip_39_word_no_space_11 | itemmenudreamvisaamusedrapidrazorobeyplaymeadowequal |  
+| bip_39_word_no_space_12 | itemmenudreamvisaamusedrapidrazorobeyplaymeadowequalartist |  
+| bip_39_word_no_space_2 | itemmenu |  
+| bip_39_word_no_space_3 | itemmenudream |  
+| bip_39_word_no_space_4 | itemmenudreamvisa |  
+| bip_39_word_no_space_5 | itemmenudreamvisaamused |  
+| bip_39_word_no_space_6 | itemmenudreamvisaamusedrapid |  
+| bip_39_word_no_space_7 | itemmenudreamvisaamusedrapidrazor |  
+| bip_39_word_no_space_8 | itemmenudreamvisaamusedrapidrazorobey |  
+| bip_39_word_no_space_9 | itemmenudreamvisaamusedrapidrazorobeyplay |  
 | bip_39_word_space_0 | ['item', 'menu', 'dream', 'visa', 'amused', 'rapid', 'razor', 'obey', 'play', 'meadow', 'equal', 'artist'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item menu dream visa amused rapid razor obey play meadow |  

@@ -122,6 +122,18 @@ mother
 patch
 siren
 settle |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmacurvereopendestroypredictmotherpatchsirensettlewarfare |  
+| bip_39_word_no_space_11 | asthmacurvereopendestroypredictmotherpatchsirensettlewarfareappear |  
+| bip_39_word_no_space_12 | asthmacurvereopendestroypredictmotherpatchsirensettlewarfareappearangle |  
+| bip_39_word_no_space_2 | asthmacurve |  
+| bip_39_word_no_space_3 | asthmacurvereopen |  
+| bip_39_word_no_space_4 | asthmacurvereopendestroy |  
+| bip_39_word_no_space_5 | asthmacurvereopendestroypredict |  
+| bip_39_word_no_space_6 | asthmacurvereopendestroypredictmother |  
+| bip_39_word_no_space_7 | asthmacurvereopendestroypredictmotherpatch |  
+| bip_39_word_no_space_8 | asthmacurvereopendestroypredictmotherpatchsiren |  
+| bip_39_word_no_space_9 | asthmacurvereopendestroypredictmotherpatchsirensettle |  
 | bip_39_word_space_0 | ['asthma', 'curve', 'reopen', 'destroy', 'predict', 'mother', 'patch', 'siren', 'settle', 'warfare', 'appear', 'angle'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma curve reopen destroy predict mother patch siren settle warfare |  

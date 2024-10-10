@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'above
   prepare
 
   pizza'
+bip_39_word_no_space_1: above
+bip_39_word_no_space_10: abovecodealterhornswingsteeltoddlerpreparepizzablast
+bip_39_word_no_space_11: abovecodealterhornswingsteeltoddlerpreparepizzablastessence
+bip_39_word_no_space_12: abovecodealterhornswingsteeltoddlerpreparepizzablastessencealways
+bip_39_word_no_space_2: abovecode
+bip_39_word_no_space_3: abovecodealter
+bip_39_word_no_space_4: abovecodealterhorn
+bip_39_word_no_space_5: abovecodealterhornswing
+bip_39_word_no_space_6: abovecodealterhornswingsteel
+bip_39_word_no_space_7: abovecodealterhornswingsteeltoddler
+bip_39_word_no_space_8: abovecodealterhornswingsteeltoddlerprepare
+bip_39_word_no_space_9: abovecodealterhornswingsteeltoddlerpreparepizza
 bip_39_word_space_0:
 - above
 - code

@@ -122,6 +122,18 @@ adjust
 abandon
 web
 exotic |  
+| bip_39_word_no_space_1 | escape |  
+| bip_39_word_no_space_10 | escapebehindbooksaltdiceadjustabandonwebexoticathlete |  
+| bip_39_word_no_space_11 | escapebehindbooksaltdiceadjustabandonwebexoticathletekiwi |  
+| bip_39_word_no_space_12 | escapebehindbooksaltdiceadjustabandonwebexoticathletekiwiannual |  
+| bip_39_word_no_space_2 | escapebehind |  
+| bip_39_word_no_space_3 | escapebehindbook |  
+| bip_39_word_no_space_4 | escapebehindbooksalt |  
+| bip_39_word_no_space_5 | escapebehindbooksaltdice |  
+| bip_39_word_no_space_6 | escapebehindbooksaltdiceadjust |  
+| bip_39_word_no_space_7 | escapebehindbooksaltdiceadjustabandon |  
+| bip_39_word_no_space_8 | escapebehindbooksaltdiceadjustabandonweb |  
+| bip_39_word_no_space_9 | escapebehindbooksaltdiceadjustabandonwebexotic |  
 | bip_39_word_space_0 | ['escape', 'behind', 'book', 'salt', 'dice', 'adjust', 'abandon', 'web', 'exotic', 'athlete', 'kiwi', 'annual'] |  
 | bip_39_word_space_1 | escape |  
 | bip_39_word_space_10 | escape behind book salt dice adjust abandon web exotic athlete |  

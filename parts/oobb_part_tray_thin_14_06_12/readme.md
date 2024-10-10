@@ -122,6 +122,18 @@ chaos
 start
 note
 ceiling |  
+| bip_39_word_no_space_1 | tortoise |  
+| bip_39_word_no_space_10 | tortoisebreezethriveironloudchaosstartnoteceilingcomfort |  
+| bip_39_word_no_space_11 | tortoisebreezethriveironloudchaosstartnoteceilingcomfortenact |  
+| bip_39_word_no_space_12 | tortoisebreezethriveironloudchaosstartnoteceilingcomfortenactanger |  
+| bip_39_word_no_space_2 | tortoisebreeze |  
+| bip_39_word_no_space_3 | tortoisebreezethrive |  
+| bip_39_word_no_space_4 | tortoisebreezethriveiron |  
+| bip_39_word_no_space_5 | tortoisebreezethriveironloud |  
+| bip_39_word_no_space_6 | tortoisebreezethriveironloudchaos |  
+| bip_39_word_no_space_7 | tortoisebreezethriveironloudchaosstart |  
+| bip_39_word_no_space_8 | tortoisebreezethriveironloudchaosstartnote |  
+| bip_39_word_no_space_9 | tortoisebreezethriveironloudchaosstartnoteceiling |  
 | bip_39_word_space_0 | ['tortoise', 'breeze', 'thrive', 'iron', 'loud', 'chaos', 'start', 'note', 'ceiling', 'comfort', 'enact', 'anger'] |  
 | bip_39_word_space_1 | tortoise |  
 | bip_39_word_space_10 | tortoise breeze thrive iron loud chaos start note ceiling comfort |  

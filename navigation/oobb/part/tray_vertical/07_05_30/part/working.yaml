@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ritual
   deny
 
   rally'
+bip_39_word_no_space_1: ritual
+bip_39_word_no_space_10: ritualsponsorthreemetalcoralyouthintodenyrallybunker
+bip_39_word_no_space_11: ritualsponsorthreemetalcoralyouthintodenyrallybunkerexist
+bip_39_word_no_space_12: ritualsponsorthreemetalcoralyouthintodenyrallybunkerexistalpha
+bip_39_word_no_space_2: ritualsponsor
+bip_39_word_no_space_3: ritualsponsorthree
+bip_39_word_no_space_4: ritualsponsorthreemetal
+bip_39_word_no_space_5: ritualsponsorthreemetalcoral
+bip_39_word_no_space_6: ritualsponsorthreemetalcoralyouth
+bip_39_word_no_space_7: ritualsponsorthreemetalcoralyouthinto
+bip_39_word_no_space_8: ritualsponsorthreemetalcoralyouthintodeny
+bip_39_word_no_space_9: ritualsponsorthreemetalcoralyouthintodenyrally
 bip_39_word_space_0:
 - ritual
 - sponsor

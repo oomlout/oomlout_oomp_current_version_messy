@@ -122,6 +122,18 @@ hamster
 dune
 life
 balcony |  
+| bip_39_word_no_space_1 | pulse |  
+| bip_39_word_no_space_10 | pulsemomentemergeamounttouristhamsterdunelifebalconydeal |  
+| bip_39_word_no_space_11 | pulsemomentemergeamounttouristhamsterdunelifebalconydealallow |  
+| bip_39_word_no_space_12 | pulsemomentemergeamounttouristhamsterdunelifebalconydealallowankle |  
+| bip_39_word_no_space_2 | pulsemoment |  
+| bip_39_word_no_space_3 | pulsemomentemerge |  
+| bip_39_word_no_space_4 | pulsemomentemergeamount |  
+| bip_39_word_no_space_5 | pulsemomentemergeamounttourist |  
+| bip_39_word_no_space_6 | pulsemomentemergeamounttouristhamster |  
+| bip_39_word_no_space_7 | pulsemomentemergeamounttouristhamsterdune |  
+| bip_39_word_no_space_8 | pulsemomentemergeamounttouristhamsterdunelife |  
+| bip_39_word_no_space_9 | pulsemomentemergeamounttouristhamsterdunelifebalcony |  
 | bip_39_word_space_0 | ['pulse', 'moment', 'emerge', 'amount', 'tourist', 'hamster', 'dune', 'life', 'balcony', 'deal', 'allow', 'ankle'] |  
 | bip_39_word_space_1 | pulse |  
 | bip_39_word_space_10 | pulse moment emerge amount tourist hamster dune life balcony deal |  

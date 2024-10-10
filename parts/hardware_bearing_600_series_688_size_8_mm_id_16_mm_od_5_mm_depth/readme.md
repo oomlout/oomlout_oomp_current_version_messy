@@ -122,6 +122,18 @@ invest
 hold
 such
 cook |  
+| bip_39_word_no_space_1 | offer |  
+| bip_39_word_no_space_10 | offeruseconcertfencestuffinvestholdsuchcookkangaroo |  
+| bip_39_word_no_space_11 | offeruseconcertfencestuffinvestholdsuchcookkangaroocricket |  
+| bip_39_word_no_space_12 | offeruseconcertfencestuffinvestholdsuchcookkangaroocricketauto |  
+| bip_39_word_no_space_2 | offeruse |  
+| bip_39_word_no_space_3 | offeruseconcert |  
+| bip_39_word_no_space_4 | offeruseconcertfence |  
+| bip_39_word_no_space_5 | offeruseconcertfencestuff |  
+| bip_39_word_no_space_6 | offeruseconcertfencestuffinvest |  
+| bip_39_word_no_space_7 | offeruseconcertfencestuffinvesthold |  
+| bip_39_word_no_space_8 | offeruseconcertfencestuffinvestholdsuch |  
+| bip_39_word_no_space_9 | offeruseconcertfencestuffinvestholdsuchcook |  
 | bip_39_word_space_0 | ['offer', 'use', 'concert', 'fence', 'stuff', 'invest', 'hold', 'such', 'cook', 'kangaroo', 'cricket', 'auto'] |  
 | bip_39_word_space_1 | offer |  
 | bip_39_word_space_10 | offer use concert fence stuff invest hold such cook kangaroo |  

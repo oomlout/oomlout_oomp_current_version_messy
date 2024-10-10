@@ -122,6 +122,18 @@ shield
 crash
 ripple
 exchange |  
+| bip_39_word_no_space_1 | lamp |  
+| bip_39_word_no_space_10 | lampbreezeplasticmazespatialshieldcrashrippleexchangetissue |  
+| bip_39_word_no_space_11 | lampbreezeplasticmazespatialshieldcrashrippleexchangetissuecupboard |  
+| bip_39_word_no_space_12 | lampbreezeplasticmazespatialshieldcrashrippleexchangetissuecupboardasset |  
+| bip_39_word_no_space_2 | lampbreeze |  
+| bip_39_word_no_space_3 | lampbreezeplastic |  
+| bip_39_word_no_space_4 | lampbreezeplasticmaze |  
+| bip_39_word_no_space_5 | lampbreezeplasticmazespatial |  
+| bip_39_word_no_space_6 | lampbreezeplasticmazespatialshield |  
+| bip_39_word_no_space_7 | lampbreezeplasticmazespatialshieldcrash |  
+| bip_39_word_no_space_8 | lampbreezeplasticmazespatialshieldcrashripple |  
+| bip_39_word_no_space_9 | lampbreezeplasticmazespatialshieldcrashrippleexchange |  
 | bip_39_word_space_0 | ['lamp', 'breeze', 'plastic', 'maze', 'spatial', 'shield', 'crash', 'ripple', 'exchange', 'tissue', 'cupboard', 'asset'] |  
 | bip_39_word_space_1 | lamp |  
 | bip_39_word_space_10 | lamp breeze plastic maze spatial shield crash ripple exchange tissue |  

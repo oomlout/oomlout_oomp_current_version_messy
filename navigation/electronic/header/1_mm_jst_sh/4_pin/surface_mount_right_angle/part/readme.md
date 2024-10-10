@@ -122,6 +122,18 @@ expand
 proof
 dish
 design |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sideplacebeefwritehospitalexpandproofdishdesigntable |  
+| bip_39_word_no_space_11 | sideplacebeefwritehospitalexpandproofdishdesigntableyou |  
+| bip_39_word_no_space_12 | sideplacebeefwritehospitalexpandproofdishdesigntableyouapprove |  
+| bip_39_word_no_space_2 | sideplace |  
+| bip_39_word_no_space_3 | sideplacebeef |  
+| bip_39_word_no_space_4 | sideplacebeefwrite |  
+| bip_39_word_no_space_5 | sideplacebeefwritehospital |  
+| bip_39_word_no_space_6 | sideplacebeefwritehospitalexpand |  
+| bip_39_word_no_space_7 | sideplacebeefwritehospitalexpandproof |  
+| bip_39_word_no_space_8 | sideplacebeefwritehospitalexpandproofdish |  
+| bip_39_word_no_space_9 | sideplacebeefwritehospitalexpandproofdishdesign |  
 | bip_39_word_space_0 | ['side', 'place', 'beef', 'write', 'hospital', 'expand', 'proof', 'dish', 'design', 'table', 'you', 'approve'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side place beef write hospital expand proof dish design table |  

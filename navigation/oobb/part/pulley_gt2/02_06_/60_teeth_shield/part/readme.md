@@ -122,6 +122,18 @@ oxygen
 depth
 time
 expand |  
+| bip_39_word_no_space_1 | rib |  
+| bip_39_word_no_space_10 | ribgoldmagicmathangleoxygendepthtimeexpandreal |  
+| bip_39_word_no_space_11 | ribgoldmagicmathangleoxygendepthtimeexpandrealonce |  
+| bip_39_word_no_space_12 | ribgoldmagicmathangleoxygendepthtimeexpandrealonceadapt |  
+| bip_39_word_no_space_2 | ribgold |  
+| bip_39_word_no_space_3 | ribgoldmagic |  
+| bip_39_word_no_space_4 | ribgoldmagicmath |  
+| bip_39_word_no_space_5 | ribgoldmagicmathangle |  
+| bip_39_word_no_space_6 | ribgoldmagicmathangleoxygen |  
+| bip_39_word_no_space_7 | ribgoldmagicmathangleoxygendepth |  
+| bip_39_word_no_space_8 | ribgoldmagicmathangleoxygendepthtime |  
+| bip_39_word_no_space_9 | ribgoldmagicmathangleoxygendepthtimeexpand |  
 | bip_39_word_space_0 | ['rib', 'gold', 'magic', 'math', 'angle', 'oxygen', 'depth', 'time', 'expand', 'real', 'once', 'adapt'] |  
 | bip_39_word_space_1 | rib |  
 | bip_39_word_space_10 | rib gold magic math angle oxygen depth time expand real |  

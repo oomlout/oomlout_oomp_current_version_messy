@@ -122,6 +122,18 @@ slow
 mirror
 stand
 approve |  
+| bip_39_word_no_space_1 | toast |  
+| bip_39_word_no_space_10 | toastraceborrowcaptaindripslowmirrorstandapproveexecute |  
+| bip_39_word_no_space_11 | toastraceborrowcaptaindripslowmirrorstandapproveexecutenovel |  
+| bip_39_word_no_space_12 | toastraceborrowcaptaindripslowmirrorstandapproveexecutenovelabout |  
+| bip_39_word_no_space_2 | toastrace |  
+| bip_39_word_no_space_3 | toastraceborrow |  
+| bip_39_word_no_space_4 | toastraceborrowcaptain |  
+| bip_39_word_no_space_5 | toastraceborrowcaptaindrip |  
+| bip_39_word_no_space_6 | toastraceborrowcaptaindripslow |  
+| bip_39_word_no_space_7 | toastraceborrowcaptaindripslowmirror |  
+| bip_39_word_no_space_8 | toastraceborrowcaptaindripslowmirrorstand |  
+| bip_39_word_no_space_9 | toastraceborrowcaptaindripslowmirrorstandapprove |  
 | bip_39_word_space_0 | ['toast', 'race', 'borrow', 'captain', 'drip', 'slow', 'mirror', 'stand', 'approve', 'execute', 'novel', 'about'] |  
 | bip_39_word_space_1 | toast |  
 | bip_39_word_space_10 | toast race borrow captain drip slow mirror stand approve execute |  

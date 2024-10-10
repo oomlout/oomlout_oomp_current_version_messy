@@ -122,6 +122,18 @@ timber
 expire
 margin
 then |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentheroleavedumbdrifttimberexpiremarginthensugar |  
+| bip_39_word_no_space_11 | rentheroleavedumbdrifttimberexpiremarginthensugarsting |  
+| bip_39_word_no_space_12 | rentheroleavedumbdrifttimberexpiremarginthensugarstingachieve |  
+| bip_39_word_no_space_2 | renthero |  
+| bip_39_word_no_space_3 | rentheroleave |  
+| bip_39_word_no_space_4 | rentheroleavedumb |  
+| bip_39_word_no_space_5 | rentheroleavedumbdrift |  
+| bip_39_word_no_space_6 | rentheroleavedumbdrifttimber |  
+| bip_39_word_no_space_7 | rentheroleavedumbdrifttimberexpire |  
+| bip_39_word_no_space_8 | rentheroleavedumbdrifttimberexpiremargin |  
+| bip_39_word_no_space_9 | rentheroleavedumbdrifttimberexpiremarginthen |  
 | bip_39_word_space_0 | ['rent', 'hero', 'leave', 'dumb', 'drift', 'timber', 'expire', 'margin', 'then', 'sugar', 'sting', 'achieve'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent hero leave dumb drift timber expire margin then sugar |  

@@ -122,6 +122,18 @@ video
 pepper
 bright
 inquiry |  
+| bip_39_word_no_space_1 | gentle |  
+| bip_39_word_no_space_10 | gentlemeritlocalwintermaskvideopepperbrightinquiryfew |  
+| bip_39_word_no_space_11 | gentlemeritlocalwintermaskvideopepperbrightinquiryfewmechanic |  
+| bip_39_word_no_space_12 | gentlemeritlocalwintermaskvideopepperbrightinquiryfewmechanicacoustic |  
+| bip_39_word_no_space_2 | gentlemerit |  
+| bip_39_word_no_space_3 | gentlemeritlocal |  
+| bip_39_word_no_space_4 | gentlemeritlocalwinter |  
+| bip_39_word_no_space_5 | gentlemeritlocalwintermask |  
+| bip_39_word_no_space_6 | gentlemeritlocalwintermaskvideo |  
+| bip_39_word_no_space_7 | gentlemeritlocalwintermaskvideopepper |  
+| bip_39_word_no_space_8 | gentlemeritlocalwintermaskvideopepperbright |  
+| bip_39_word_no_space_9 | gentlemeritlocalwintermaskvideopepperbrightinquiry |  
 | bip_39_word_space_0 | ['gentle', 'merit', 'local', 'winter', 'mask', 'video', 'pepper', 'bright', 'inquiry', 'few', 'mechanic', 'acoustic'] |  
 | bip_39_word_space_1 | gentle |  
 | bip_39_word_space_10 | gentle merit local winter mask video pepper bright inquiry few |  

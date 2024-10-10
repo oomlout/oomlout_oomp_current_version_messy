@@ -122,6 +122,18 @@ you
 consider
 pact
 exhibit |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | serieswallloandefinedespairyouconsiderpactexhibitheavy |  
+| bip_39_word_no_space_11 | serieswallloandefinedespairyouconsiderpactexhibitheavydivide |  
+| bip_39_word_no_space_12 | serieswallloandefinedespairyouconsiderpactexhibitheavydivideaccident |  
+| bip_39_word_no_space_2 | serieswall |  
+| bip_39_word_no_space_3 | serieswallloan |  
+| bip_39_word_no_space_4 | serieswallloandefine |  
+| bip_39_word_no_space_5 | serieswallloandefinedespair |  
+| bip_39_word_no_space_6 | serieswallloandefinedespairyou |  
+| bip_39_word_no_space_7 | serieswallloandefinedespairyouconsider |  
+| bip_39_word_no_space_8 | serieswallloandefinedespairyouconsiderpact |  
+| bip_39_word_no_space_9 | serieswallloandefinedespairyouconsiderpactexhibit |  
 | bip_39_word_space_0 | ['series', 'wall', 'loan', 'define', 'despair', 'you', 'consider', 'pact', 'exhibit', 'heavy', 'divide', 'accident'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series wall loan define despair you consider pact exhibit heavy |  

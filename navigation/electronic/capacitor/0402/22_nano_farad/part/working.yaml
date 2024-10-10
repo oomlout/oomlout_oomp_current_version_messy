@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'excess
   room
 
   vocal'
+bip_39_word_no_space_1: excess
+bip_39_word_no_space_10: excessadjustcropheavytobaccomatrixcageroomvocalminute
+bip_39_word_no_space_11: excessadjustcropheavytobaccomatrixcageroomvocalminutedoctor
+bip_39_word_no_space_12: excessadjustcropheavytobaccomatrixcageroomvocalminutedoctoraccident
+bip_39_word_no_space_2: excessadjust
+bip_39_word_no_space_3: excessadjustcrop
+bip_39_word_no_space_4: excessadjustcropheavy
+bip_39_word_no_space_5: excessadjustcropheavytobacco
+bip_39_word_no_space_6: excessadjustcropheavytobaccomatrix
+bip_39_word_no_space_7: excessadjustcropheavytobaccomatrixcage
+bip_39_word_no_space_8: excessadjustcropheavytobaccomatrixcageroom
+bip_39_word_no_space_9: excessadjustcropheavytobaccomatrixcageroomvocal
 bip_39_word_space_0:
 - excess
 - adjust

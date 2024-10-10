@@ -122,6 +122,18 @@ culture
 oak
 old
 vicious |  
+| bip_39_word_no_space_1 | mouse |  
+| bip_39_word_no_space_10 | mousestaffsplitpoleloopcultureoakoldviciousrigid |  
+| bip_39_word_no_space_11 | mousestaffsplitpoleloopcultureoakoldviciousrigidlunar |  
+| bip_39_word_no_space_12 | mousestaffsplitpoleloopcultureoakoldviciousrigidlunaraddict |  
+| bip_39_word_no_space_2 | mousestaff |  
+| bip_39_word_no_space_3 | mousestaffsplit |  
+| bip_39_word_no_space_4 | mousestaffsplitpole |  
+| bip_39_word_no_space_5 | mousestaffsplitpoleloop |  
+| bip_39_word_no_space_6 | mousestaffsplitpoleloopculture |  
+| bip_39_word_no_space_7 | mousestaffsplitpoleloopcultureoak |  
+| bip_39_word_no_space_8 | mousestaffsplitpoleloopcultureoakold |  
+| bip_39_word_no_space_9 | mousestaffsplitpoleloopcultureoakoldvicious |  
 | bip_39_word_space_0 | ['mouse', 'staff', 'split', 'pole', 'loop', 'culture', 'oak', 'old', 'vicious', 'rigid', 'lunar', 'addict'] |  
 | bip_39_word_space_1 | mouse |  
 | bip_39_word_space_10 | mouse staff split pole loop culture oak old vicious rigid |  

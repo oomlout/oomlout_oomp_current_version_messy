@@ -122,6 +122,18 @@ amount
 engage
 favorite
 amateur |  
+| bip_39_word_no_space_1 | myth |  
+| bip_39_word_no_space_10 | mythaboutinsectitemabilityamountengagefavoriteamateurventure |  
+| bip_39_word_no_space_11 | mythaboutinsectitemabilityamountengagefavoriteamateurventurepipe |  
+| bip_39_word_no_space_12 | mythaboutinsectitemabilityamountengagefavoriteamateurventurepipeassist |  
+| bip_39_word_no_space_2 | mythabout |  
+| bip_39_word_no_space_3 | mythaboutinsect |  
+| bip_39_word_no_space_4 | mythaboutinsectitem |  
+| bip_39_word_no_space_5 | mythaboutinsectitemability |  
+| bip_39_word_no_space_6 | mythaboutinsectitemabilityamount |  
+| bip_39_word_no_space_7 | mythaboutinsectitemabilityamountengage |  
+| bip_39_word_no_space_8 | mythaboutinsectitemabilityamountengagefavorite |  
+| bip_39_word_no_space_9 | mythaboutinsectitemabilityamountengagefavoriteamateur |  
 | bip_39_word_space_0 | ['myth', 'about', 'insect', 'item', 'ability', 'amount', 'engage', 'favorite', 'amateur', 'venture', 'pipe', 'assist'] |  
 | bip_39_word_space_1 | myth |  
 | bip_39_word_space_10 | myth about insect item ability amount engage favorite amateur venture |  

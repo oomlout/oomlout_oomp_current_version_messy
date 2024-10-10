@@ -122,6 +122,18 @@ game
 little
 vessel
 opinion |  
+| bip_39_word_no_space_1 | cart |  
+| bip_39_word_no_space_10 | cartdesignminimumchampionfurygamelittlevesselopinionpig |  
+| bip_39_word_no_space_11 | cartdesignminimumchampionfurygamelittlevesselopinionpigchampion |  
+| bip_39_word_no_space_12 | cartdesignminimumchampionfurygamelittlevesselopinionpigchampionaccess |  
+| bip_39_word_no_space_2 | cartdesign |  
+| bip_39_word_no_space_3 | cartdesignminimum |  
+| bip_39_word_no_space_4 | cartdesignminimumchampion |  
+| bip_39_word_no_space_5 | cartdesignminimumchampionfury |  
+| bip_39_word_no_space_6 | cartdesignminimumchampionfurygame |  
+| bip_39_word_no_space_7 | cartdesignminimumchampionfurygamelittle |  
+| bip_39_word_no_space_8 | cartdesignminimumchampionfurygamelittlevessel |  
+| bip_39_word_no_space_9 | cartdesignminimumchampionfurygamelittlevesselopinion |  
 | bip_39_word_space_0 | ['cart', 'design', 'minimum', 'champion', 'fury', 'game', 'little', 'vessel', 'opinion', 'pig', 'champion', 'access'] |  
 | bip_39_word_space_1 | cart |  
 | bip_39_word_space_10 | cart design minimum champion fury game little vessel opinion pig |  

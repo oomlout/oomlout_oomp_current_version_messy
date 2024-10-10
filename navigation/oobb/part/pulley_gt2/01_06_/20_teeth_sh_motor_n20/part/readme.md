@@ -122,6 +122,18 @@ render
 embody
 net
 keen |  
+| bip_39_word_no_space_1 | universe |  
+| bip_39_word_no_space_10 | universeenrollmedalrecyclecementrenderembodynetkeenpride |  
+| bip_39_word_no_space_11 | universeenrollmedalrecyclecementrenderembodynetkeenprideslender |  
+| bip_39_word_no_space_12 | universeenrollmedalrecyclecementrenderembodynetkeenprideslenderaisle |  
+| bip_39_word_no_space_2 | universeenroll |  
+| bip_39_word_no_space_3 | universeenrollmedal |  
+| bip_39_word_no_space_4 | universeenrollmedalrecycle |  
+| bip_39_word_no_space_5 | universeenrollmedalrecyclecement |  
+| bip_39_word_no_space_6 | universeenrollmedalrecyclecementrender |  
+| bip_39_word_no_space_7 | universeenrollmedalrecyclecementrenderembody |  
+| bip_39_word_no_space_8 | universeenrollmedalrecyclecementrenderembodynet |  
+| bip_39_word_no_space_9 | universeenrollmedalrecyclecementrenderembodynetkeen |  
 | bip_39_word_space_0 | ['universe', 'enroll', 'medal', 'recycle', 'cement', 'render', 'embody', 'net', 'keen', 'pride', 'slender', 'aisle'] |  
 | bip_39_word_space_1 | universe |  
 | bip_39_word_space_10 | universe enroll medal recycle cement render embody net keen pride |  

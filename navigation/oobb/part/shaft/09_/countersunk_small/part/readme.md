@@ -122,6 +122,18 @@ ramp
 cupboard
 borrow
 paddle |  
+| bip_39_word_no_space_1 | effort |  
+| bip_39_word_no_space_10 | effortclaimsalonbiologyregionrampcupboardborrowpaddlepact |  
+| bip_39_word_no_space_11 | effortclaimsalonbiologyregionrampcupboardborrowpaddlepactmake |  
+| bip_39_word_no_space_12 | effortclaimsalonbiologyregionrampcupboardborrowpaddlepactmakeautumn |  
+| bip_39_word_no_space_2 | effortclaim |  
+| bip_39_word_no_space_3 | effortclaimsalon |  
+| bip_39_word_no_space_4 | effortclaimsalonbiology |  
+| bip_39_word_no_space_5 | effortclaimsalonbiologyregion |  
+| bip_39_word_no_space_6 | effortclaimsalonbiologyregionramp |  
+| bip_39_word_no_space_7 | effortclaimsalonbiologyregionrampcupboard |  
+| bip_39_word_no_space_8 | effortclaimsalonbiologyregionrampcupboardborrow |  
+| bip_39_word_no_space_9 | effortclaimsalonbiologyregionrampcupboardborrowpaddle |  
 | bip_39_word_space_0 | ['effort', 'claim', 'salon', 'biology', 'region', 'ramp', 'cupboard', 'borrow', 'paddle', 'pact', 'make', 'autumn'] |  
 | bip_39_word_space_1 | effort |  
 | bip_39_word_space_10 | effort claim salon biology region ramp cupboard borrow paddle pact |  

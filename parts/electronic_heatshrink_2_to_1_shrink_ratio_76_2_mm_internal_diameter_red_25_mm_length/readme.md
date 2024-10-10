@@ -122,6 +122,18 @@ bread
 advice
 uniform
 expand |  
+| bip_39_word_no_space_1 | double |  
+| bip_39_word_no_space_10 | doubleaimdiffersaymimicbreadadviceuniformexpandsiege |  
+| bip_39_word_no_space_11 | doubleaimdiffersaymimicbreadadviceuniformexpandsiegesyrup |  
+| bip_39_word_no_space_12 | doubleaimdiffersaymimicbreadadviceuniformexpandsiegesyrupalready |  
+| bip_39_word_no_space_2 | doubleaim |  
+| bip_39_word_no_space_3 | doubleaimdiffer |  
+| bip_39_word_no_space_4 | doubleaimdiffersay |  
+| bip_39_word_no_space_5 | doubleaimdiffersaymimic |  
+| bip_39_word_no_space_6 | doubleaimdiffersaymimicbread |  
+| bip_39_word_no_space_7 | doubleaimdiffersaymimicbreadadvice |  
+| bip_39_word_no_space_8 | doubleaimdiffersaymimicbreadadviceuniform |  
+| bip_39_word_no_space_9 | doubleaimdiffersaymimicbreadadviceuniformexpand |  
 | bip_39_word_space_0 | ['double', 'aim', 'differ', 'say', 'mimic', 'bread', 'advice', 'uniform', 'expand', 'siege', 'syrup', 'already'] |  
 | bip_39_word_space_1 | double |  
 | bip_39_word_space_10 | double aim differ say mimic bread advice uniform expand siege |  

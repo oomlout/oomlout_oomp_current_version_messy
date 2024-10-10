@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'purse
   length
 
   earth'
+bip_39_word_no_space_1: purse
+bip_39_word_no_space_10: pursepetsimilarjacketsegmentwastebrightlengthearthword
+bip_39_word_no_space_11: pursepetsimilarjacketsegmentwastebrightlengthearthwordselect
+bip_39_word_no_space_12: pursepetsimilarjacketsegmentwastebrightlengthearthwordselectapril
+bip_39_word_no_space_2: pursepet
+bip_39_word_no_space_3: pursepetsimilar
+bip_39_word_no_space_4: pursepetsimilarjacket
+bip_39_word_no_space_5: pursepetsimilarjacketsegment
+bip_39_word_no_space_6: pursepetsimilarjacketsegmentwaste
+bip_39_word_no_space_7: pursepetsimilarjacketsegmentwastebright
+bip_39_word_no_space_8: pursepetsimilarjacketsegmentwastebrightlength
+bip_39_word_no_space_9: pursepetsimilarjacketsegmentwastebrightlengthearth
 bip_39_word_space_0:
 - purse
 - pet

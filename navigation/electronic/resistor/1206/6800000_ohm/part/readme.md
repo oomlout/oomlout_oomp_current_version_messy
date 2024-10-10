@@ -122,6 +122,18 @@ lecture
 nut
 purchase
 laundry |  
+| bip_39_word_no_space_1 | tobacco |  
+| bip_39_word_no_space_10 | tobaccobikedonorexitinsanelecturenutpurchaselaundryamount |  
+| bip_39_word_no_space_11 | tobaccobikedonorexitinsanelecturenutpurchaselaundryamountcheese |  
+| bip_39_word_no_space_12 | tobaccobikedonorexitinsanelecturenutpurchaselaundryamountcheeseactor |  
+| bip_39_word_no_space_2 | tobaccobike |  
+| bip_39_word_no_space_3 | tobaccobikedonor |  
+| bip_39_word_no_space_4 | tobaccobikedonorexit |  
+| bip_39_word_no_space_5 | tobaccobikedonorexitinsane |  
+| bip_39_word_no_space_6 | tobaccobikedonorexitinsanelecture |  
+| bip_39_word_no_space_7 | tobaccobikedonorexitinsanelecturenut |  
+| bip_39_word_no_space_8 | tobaccobikedonorexitinsanelecturenutpurchase |  
+| bip_39_word_no_space_9 | tobaccobikedonorexitinsanelecturenutpurchaselaundry |  
 | bip_39_word_space_0 | ['tobacco', 'bike', 'donor', 'exit', 'insane', 'lecture', 'nut', 'purchase', 'laundry', 'amount', 'cheese', 'actor'] |  
 | bip_39_word_space_1 | tobacco |  
 | bip_39_word_space_10 | tobacco bike donor exit insane lecture nut purchase laundry amount |  

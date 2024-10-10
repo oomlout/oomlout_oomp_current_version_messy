@@ -122,6 +122,18 @@ maple
 track
 bench
 frozen |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennisuncleromancewetsuprememapletrackbenchfrozenjust |  
+| bip_39_word_no_space_11 | tennisuncleromancewetsuprememapletrackbenchfrozenjustinflict |  
+| bip_39_word_no_space_12 | tennisuncleromancewetsuprememapletrackbenchfrozenjustinflictadd |  
+| bip_39_word_no_space_2 | tennisuncle |  
+| bip_39_word_no_space_3 | tennisuncleromance |  
+| bip_39_word_no_space_4 | tennisuncleromancewet |  
+| bip_39_word_no_space_5 | tennisuncleromancewetsupreme |  
+| bip_39_word_no_space_6 | tennisuncleromancewetsuprememaple |  
+| bip_39_word_no_space_7 | tennisuncleromancewetsuprememapletrack |  
+| bip_39_word_no_space_8 | tennisuncleromancewetsuprememapletrackbench |  
+| bip_39_word_no_space_9 | tennisuncleromancewetsuprememapletrackbenchfrozen |  
 | bip_39_word_space_0 | ['tennis', 'uncle', 'romance', 'wet', 'supreme', 'maple', 'track', 'bench', 'frozen', 'just', 'inflict', 'add'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis uncle romance wet supreme maple track bench frozen just |  

@@ -122,6 +122,18 @@ magic
 soldier
 text
 note |  
+| bip_39_word_no_space_1 | amount |  
+| bip_39_word_no_space_10 | amountreceivefunreviewconfirmmagicsoldiertextnotemelody |  
+| bip_39_word_no_space_11 | amountreceivefunreviewconfirmmagicsoldiertextnotemelodymansion |  
+| bip_39_word_no_space_12 | amountreceivefunreviewconfirmmagicsoldiertextnotemelodymansionantique |  
+| bip_39_word_no_space_2 | amountreceive |  
+| bip_39_word_no_space_3 | amountreceivefun |  
+| bip_39_word_no_space_4 | amountreceivefunreview |  
+| bip_39_word_no_space_5 | amountreceivefunreviewconfirm |  
+| bip_39_word_no_space_6 | amountreceivefunreviewconfirmmagic |  
+| bip_39_word_no_space_7 | amountreceivefunreviewconfirmmagicsoldier |  
+| bip_39_word_no_space_8 | amountreceivefunreviewconfirmmagicsoldiertext |  
+| bip_39_word_no_space_9 | amountreceivefunreviewconfirmmagicsoldiertextnote |  
 | bip_39_word_space_0 | ['amount', 'receive', 'fun', 'review', 'confirm', 'magic', 'soldier', 'text', 'note', 'melody', 'mansion', 'antique'] |  
 | bip_39_word_space_1 | amount |  
 | bip_39_word_space_10 | amount receive fun review confirm magic soldier text note melody |  

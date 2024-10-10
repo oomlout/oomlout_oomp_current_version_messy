@@ -122,6 +122,18 @@ project
 solid
 accident
 payment |  
+| bip_39_word_no_space_1 | increase |  
+| bip_39_word_no_space_10 | increasecraftsloganthisartefactprojectsolidaccidentpaymentmelt |  
+| bip_39_word_no_space_11 | increasecraftsloganthisartefactprojectsolidaccidentpaymentmeltspread |  
+| bip_39_word_no_space_12 | increasecraftsloganthisartefactprojectsolidaccidentpaymentmeltspreadaugust |  
+| bip_39_word_no_space_2 | increasecraft |  
+| bip_39_word_no_space_3 | increasecraftslogan |  
+| bip_39_word_no_space_4 | increasecraftsloganthis |  
+| bip_39_word_no_space_5 | increasecraftsloganthisartefact |  
+| bip_39_word_no_space_6 | increasecraftsloganthisartefactproject |  
+| bip_39_word_no_space_7 | increasecraftsloganthisartefactprojectsolid |  
+| bip_39_word_no_space_8 | increasecraftsloganthisartefactprojectsolidaccident |  
+| bip_39_word_no_space_9 | increasecraftsloganthisartefactprojectsolidaccidentpayment |  
 | bip_39_word_space_0 | ['increase', 'craft', 'slogan', 'this', 'artefact', 'project', 'solid', 'accident', 'payment', 'melt', 'spread', 'august'] |  
 | bip_39_word_space_1 | increase |  
 | bip_39_word_space_10 | increase craft slogan this artefact project solid accident payment melt |  

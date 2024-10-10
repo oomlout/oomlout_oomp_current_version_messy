@@ -122,6 +122,18 @@ subject
 toddler
 execute
 source |  
+| bip_39_word_no_space_1 | electric |  
+| bip_39_word_no_space_10 | electricnorthboxusagemusclesubjecttoddlerexecutesourceimprove |  
+| bip_39_word_no_space_11 | electricnorthboxusagemusclesubjecttoddlerexecutesourceimproveturtle |  
+| bip_39_word_no_space_12 | electricnorthboxusagemusclesubjecttoddlerexecutesourceimproveturtleamateur |  
+| bip_39_word_no_space_2 | electricnorth |  
+| bip_39_word_no_space_3 | electricnorthbox |  
+| bip_39_word_no_space_4 | electricnorthboxusage |  
+| bip_39_word_no_space_5 | electricnorthboxusagemuscle |  
+| bip_39_word_no_space_6 | electricnorthboxusagemusclesubject |  
+| bip_39_word_no_space_7 | electricnorthboxusagemusclesubjecttoddler |  
+| bip_39_word_no_space_8 | electricnorthboxusagemusclesubjecttoddlerexecute |  
+| bip_39_word_no_space_9 | electricnorthboxusagemusclesubjecttoddlerexecutesource |  
 | bip_39_word_space_0 | ['electric', 'north', 'box', 'usage', 'muscle', 'subject', 'toddler', 'execute', 'source', 'improve', 'turtle', 'amateur'] |  
 | bip_39_word_space_1 | electric |  
 | bip_39_word_space_10 | electric north box usage muscle subject toddler execute source improve |  

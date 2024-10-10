@@ -122,6 +122,18 @@ flower
 crowd
 funny
 core |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatchiefaisleexposemilkflowercrowdfunnycorepriority |  
+| bip_39_word_no_space_11 | boatchiefaisleexposemilkflowercrowdfunnycoreprioritychange |  
+| bip_39_word_no_space_12 | boatchiefaisleexposemilkflowercrowdfunnycoreprioritychangeair |  
+| bip_39_word_no_space_2 | boatchief |  
+| bip_39_word_no_space_3 | boatchiefaisle |  
+| bip_39_word_no_space_4 | boatchiefaisleexpose |  
+| bip_39_word_no_space_5 | boatchiefaisleexposemilk |  
+| bip_39_word_no_space_6 | boatchiefaisleexposemilkflower |  
+| bip_39_word_no_space_7 | boatchiefaisleexposemilkflowercrowd |  
+| bip_39_word_no_space_8 | boatchiefaisleexposemilkflowercrowdfunny |  
+| bip_39_word_no_space_9 | boatchiefaisleexposemilkflowercrowdfunnycore |  
 | bip_39_word_space_0 | ['boat', 'chief', 'aisle', 'expose', 'milk', 'flower', 'crowd', 'funny', 'core', 'priority', 'change', 'air'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat chief aisle expose milk flower crowd funny core priority |  

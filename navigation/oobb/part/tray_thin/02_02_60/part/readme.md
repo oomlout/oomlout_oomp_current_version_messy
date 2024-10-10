@@ -122,6 +122,18 @@ absurd
 gallery
 scatter
 above |  
+| bip_39_word_no_space_1 | party |  
+| bip_39_word_no_space_10 | partybeginsomeonelevelactressabsurdgalleryscatterabovefix |  
+| bip_39_word_no_space_11 | partybeginsomeonelevelactressabsurdgalleryscatterabovefixcube |  
+| bip_39_word_no_space_12 | partybeginsomeonelevelactressabsurdgalleryscatterabovefixcubeadvice |  
+| bip_39_word_no_space_2 | partybegin |  
+| bip_39_word_no_space_3 | partybeginsomeone |  
+| bip_39_word_no_space_4 | partybeginsomeonelevel |  
+| bip_39_word_no_space_5 | partybeginsomeonelevelactress |  
+| bip_39_word_no_space_6 | partybeginsomeonelevelactressabsurd |  
+| bip_39_word_no_space_7 | partybeginsomeonelevelactressabsurdgallery |  
+| bip_39_word_no_space_8 | partybeginsomeonelevelactressabsurdgalleryscatter |  
+| bip_39_word_no_space_9 | partybeginsomeonelevelactressabsurdgalleryscatterabove |  
 | bip_39_word_space_0 | ['party', 'begin', 'someone', 'level', 'actress', 'absurd', 'gallery', 'scatter', 'above', 'fix', 'cube', 'advice'] |  
 | bip_39_word_space_1 | party |  
 | bip_39_word_space_10 | party begin someone level actress absurd gallery scatter above fix |  

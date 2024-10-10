@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'grunt
   hair
 
   fashion'
+bip_39_word_no_space_1: grunt
+bip_39_word_no_space_10: gruntcavewritestuffhawkcostsouphairfashionshrug
+bip_39_word_no_space_11: gruntcavewritestuffhawkcostsouphairfashionshrugsurvey
+bip_39_word_no_space_12: gruntcavewritestuffhawkcostsouphairfashionshrugsurveyany
+bip_39_word_no_space_2: gruntcave
+bip_39_word_no_space_3: gruntcavewrite
+bip_39_word_no_space_4: gruntcavewritestuff
+bip_39_word_no_space_5: gruntcavewritestuffhawk
+bip_39_word_no_space_6: gruntcavewritestuffhawkcost
+bip_39_word_no_space_7: gruntcavewritestuffhawkcostsoup
+bip_39_word_no_space_8: gruntcavewritestuffhawkcostsouphair
+bip_39_word_no_space_9: gruntcavewritestuffhawkcostsouphairfashion
 bip_39_word_space_0:
 - grunt
 - cave

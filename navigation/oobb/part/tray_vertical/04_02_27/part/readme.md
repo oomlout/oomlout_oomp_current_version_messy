@@ -122,6 +122,18 @@ metal
 lend
 wheat
 wheat |  
+| bip_39_word_no_space_1 | now |  
+| bip_39_word_no_space_10 | nowsaltfriendresistspawnmetallendwheatwheatcute |  
+| bip_39_word_no_space_11 | nowsaltfriendresistspawnmetallendwheatwheatcuteblossom |  
+| bip_39_word_no_space_12 | nowsaltfriendresistspawnmetallendwheatwheatcuteblossomamount |  
+| bip_39_word_no_space_2 | nowsalt |  
+| bip_39_word_no_space_3 | nowsaltfriend |  
+| bip_39_word_no_space_4 | nowsaltfriendresist |  
+| bip_39_word_no_space_5 | nowsaltfriendresistspawn |  
+| bip_39_word_no_space_6 | nowsaltfriendresistspawnmetal |  
+| bip_39_word_no_space_7 | nowsaltfriendresistspawnmetallend |  
+| bip_39_word_no_space_8 | nowsaltfriendresistspawnmetallendwheat |  
+| bip_39_word_no_space_9 | nowsaltfriendresistspawnmetallendwheatwheat |  
 | bip_39_word_space_0 | ['now', 'salt', 'friend', 'resist', 'spawn', 'metal', 'lend', 'wheat', 'wheat', 'cute', 'blossom', 'amount'] |  
 | bip_39_word_space_1 | now |  
 | bip_39_word_space_10 | now salt friend resist spawn metal lend wheat wheat cute |  

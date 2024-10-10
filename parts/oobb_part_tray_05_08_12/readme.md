@@ -122,6 +122,18 @@ remove
 parade
 gravity
 lesson |  
+| bip_39_word_no_space_1 | knee |  
+| bip_39_word_no_space_10 | kneepizzathoughtcapitalexoticremoveparadegravitylessontilt |  
+| bip_39_word_no_space_11 | kneepizzathoughtcapitalexoticremoveparadegravitylessontilthurry |  
+| bip_39_word_no_space_12 | kneepizzathoughtcapitalexoticremoveparadegravitylessontilthurryaim |  
+| bip_39_word_no_space_2 | kneepizza |  
+| bip_39_word_no_space_3 | kneepizzathought |  
+| bip_39_word_no_space_4 | kneepizzathoughtcapital |  
+| bip_39_word_no_space_5 | kneepizzathoughtcapitalexotic |  
+| bip_39_word_no_space_6 | kneepizzathoughtcapitalexoticremove |  
+| bip_39_word_no_space_7 | kneepizzathoughtcapitalexoticremoveparade |  
+| bip_39_word_no_space_8 | kneepizzathoughtcapitalexoticremoveparadegravity |  
+| bip_39_word_no_space_9 | kneepizzathoughtcapitalexoticremoveparadegravitylesson |  
 | bip_39_word_space_0 | ['knee', 'pizza', 'thought', 'capital', 'exotic', 'remove', 'parade', 'gravity', 'lesson', 'tilt', 'hurry', 'aim'] |  
 | bip_39_word_space_1 | knee |  
 | bip_39_word_space_10 | knee pizza thought capital exotic remove parade gravity lesson tilt |  

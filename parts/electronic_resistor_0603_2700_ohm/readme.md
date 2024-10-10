@@ -122,6 +122,18 @@ lunar
 mimic
 culture
 trigger |  
+| bip_39_word_no_space_1 | mix |  
+| bip_39_word_no_space_10 | mixcementallflagsituatelunarmimicculturetriggerboat |  
+| bip_39_word_no_space_11 | mixcementallflagsituatelunarmimicculturetriggerboatenter |  
+| bip_39_word_no_space_12 | mixcementallflagsituatelunarmimicculturetriggerboatenterapple |  
+| bip_39_word_no_space_2 | mixcement |  
+| bip_39_word_no_space_3 | mixcementall |  
+| bip_39_word_no_space_4 | mixcementallflag |  
+| bip_39_word_no_space_5 | mixcementallflagsituate |  
+| bip_39_word_no_space_6 | mixcementallflagsituatelunar |  
+| bip_39_word_no_space_7 | mixcementallflagsituatelunarmimic |  
+| bip_39_word_no_space_8 | mixcementallflagsituatelunarmimicculture |  
+| bip_39_word_no_space_9 | mixcementallflagsituatelunarmimicculturetrigger |  
 | bip_39_word_space_0 | ['mix', 'cement', 'all', 'flag', 'situate', 'lunar', 'mimic', 'culture', 'trigger', 'boat', 'enter', 'apple'] |  
 | bip_39_word_space_1 | mix |  
 | bip_39_word_space_10 | mix cement all flag situate lunar mimic culture trigger boat |  

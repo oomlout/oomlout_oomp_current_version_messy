@@ -122,6 +122,18 @@ another
 mango
 slot
 couple |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jewelextendwebembracebaseanothermangoslotcoupletragic |  
+| bip_39_word_no_space_11 | jewelextendwebembracebaseanothermangoslotcoupletragicenrich |  
+| bip_39_word_no_space_12 | jewelextendwebembracebaseanothermangoslotcoupletragicenrichalmost |  
+| bip_39_word_no_space_2 | jewelextend |  
+| bip_39_word_no_space_3 | jewelextendweb |  
+| bip_39_word_no_space_4 | jewelextendwebembrace |  
+| bip_39_word_no_space_5 | jewelextendwebembracebase |  
+| bip_39_word_no_space_6 | jewelextendwebembracebaseanother |  
+| bip_39_word_no_space_7 | jewelextendwebembracebaseanothermango |  
+| bip_39_word_no_space_8 | jewelextendwebembracebaseanothermangoslot |  
+| bip_39_word_no_space_9 | jewelextendwebembracebaseanothermangoslotcouple |  
 | bip_39_word_space_0 | ['jewel', 'extend', 'web', 'embrace', 'base', 'another', 'mango', 'slot', 'couple', 'tragic', 'enrich', 'almost'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel extend web embrace base another mango slot couple tragic |  

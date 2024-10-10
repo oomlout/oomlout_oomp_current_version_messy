@@ -122,6 +122,18 @@ middle
 universe
 physical
 raven |  
+| bip_39_word_no_space_1 | visit |  
+| bip_39_word_no_space_10 | visitpigeonmuseumtalentchaptermiddleuniversephysicalravenhockey |  
+| bip_39_word_no_space_11 | visitpigeonmuseumtalentchaptermiddleuniversephysicalravenhockeyaddress |  
+| bip_39_word_no_space_12 | visitpigeonmuseumtalentchaptermiddleuniversephysicalravenhockeyaddressadmit |  
+| bip_39_word_no_space_2 | visitpigeon |  
+| bip_39_word_no_space_3 | visitpigeonmuseum |  
+| bip_39_word_no_space_4 | visitpigeonmuseumtalent |  
+| bip_39_word_no_space_5 | visitpigeonmuseumtalentchapter |  
+| bip_39_word_no_space_6 | visitpigeonmuseumtalentchaptermiddle |  
+| bip_39_word_no_space_7 | visitpigeonmuseumtalentchaptermiddleuniverse |  
+| bip_39_word_no_space_8 | visitpigeonmuseumtalentchaptermiddleuniversephysical |  
+| bip_39_word_no_space_9 | visitpigeonmuseumtalentchaptermiddleuniversephysicalraven |  
 | bip_39_word_space_0 | ['visit', 'pigeon', 'museum', 'talent', 'chapter', 'middle', 'universe', 'physical', 'raven', 'hockey', 'address', 'admit'] |  
 | bip_39_word_space_1 | visit |  
 | bip_39_word_space_10 | visit pigeon museum talent chapter middle universe physical raven hockey |  

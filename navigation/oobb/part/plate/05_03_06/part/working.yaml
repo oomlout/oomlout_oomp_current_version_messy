@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'venture
   few
 
   lumber'
+bip_39_word_no_space_1: venture
+bip_39_word_no_space_10: venturenameuniquealarmhipcasemiseryfewlumbergrid
+bip_39_word_no_space_11: venturenameuniquealarmhipcasemiseryfewlumbergridcongress
+bip_39_word_no_space_12: venturenameuniquealarmhipcasemiseryfewlumbergridcongressaccuse
+bip_39_word_no_space_2: venturename
+bip_39_word_no_space_3: venturenameunique
+bip_39_word_no_space_4: venturenameuniquealarm
+bip_39_word_no_space_5: venturenameuniquealarmhip
+bip_39_word_no_space_6: venturenameuniquealarmhipcase
+bip_39_word_no_space_7: venturenameuniquealarmhipcasemisery
+bip_39_word_no_space_8: venturenameuniquealarmhipcasemiseryfew
+bip_39_word_no_space_9: venturenameuniquealarmhipcasemiseryfewlumber
 bip_39_word_space_0:
 - venture
 - name

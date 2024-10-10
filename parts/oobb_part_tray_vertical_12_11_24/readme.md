@@ -122,6 +122,18 @@ direct
 guide
 frown
 van |  
+| bip_39_word_no_space_1 | draft |  
+| bip_39_word_no_space_10 | draftexilemarblefoamfuturedirectguidefrownvanexile |  
+| bip_39_word_no_space_11 | draftexilemarblefoamfuturedirectguidefrownvanexilerural |  
+| bip_39_word_no_space_12 | draftexilemarblefoamfuturedirectguidefrownvanexileruralacquire |  
+| bip_39_word_no_space_2 | draftexile |  
+| bip_39_word_no_space_3 | draftexilemarble |  
+| bip_39_word_no_space_4 | draftexilemarblefoam |  
+| bip_39_word_no_space_5 | draftexilemarblefoamfuture |  
+| bip_39_word_no_space_6 | draftexilemarblefoamfuturedirect |  
+| bip_39_word_no_space_7 | draftexilemarblefoamfuturedirectguide |  
+| bip_39_word_no_space_8 | draftexilemarblefoamfuturedirectguidefrown |  
+| bip_39_word_no_space_9 | draftexilemarblefoamfuturedirectguidefrownvan |  
 | bip_39_word_space_0 | ['draft', 'exile', 'marble', 'foam', 'future', 'direct', 'guide', 'frown', 'van', 'exile', 'rural', 'acquire'] |  
 | bip_39_word_space_1 | draft |  
 | bip_39_word_space_10 | draft exile marble foam future direct guide frown van exile |  

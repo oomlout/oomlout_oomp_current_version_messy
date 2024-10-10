@@ -122,6 +122,18 @@ frozen
 window
 define
 peasant |  
+| bip_39_word_no_space_1 | deny |  
+| bip_39_word_no_space_10 | denyrudearmerosioncrackfrozenwindowdefinepeasantcrouch |  
+| bip_39_word_no_space_11 | denyrudearmerosioncrackfrozenwindowdefinepeasantcrouchcruel |  
+| bip_39_word_no_space_12 | denyrudearmerosioncrackfrozenwindowdefinepeasantcrouchcruelanswer |  
+| bip_39_word_no_space_2 | denyrude |  
+| bip_39_word_no_space_3 | denyrudearm |  
+| bip_39_word_no_space_4 | denyrudearmerosion |  
+| bip_39_word_no_space_5 | denyrudearmerosioncrack |  
+| bip_39_word_no_space_6 | denyrudearmerosioncrackfrozen |  
+| bip_39_word_no_space_7 | denyrudearmerosioncrackfrozenwindow |  
+| bip_39_word_no_space_8 | denyrudearmerosioncrackfrozenwindowdefine |  
+| bip_39_word_no_space_9 | denyrudearmerosioncrackfrozenwindowdefinepeasant |  
 | bip_39_word_space_0 | ['deny', 'rude', 'arm', 'erosion', 'crack', 'frozen', 'window', 'define', 'peasant', 'crouch', 'cruel', 'answer'] |  
 | bip_39_word_space_1 | deny |  
 | bip_39_word_space_10 | deny rude arm erosion crack frozen window define peasant crouch |  

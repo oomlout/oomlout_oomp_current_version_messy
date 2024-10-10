@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'post
   creek
 
   seven'
+bip_39_word_no_space_1: post
+bip_39_word_no_space_10: postshiverdriftmythalphaoysterpowdercreeksevenbean
+bip_39_word_no_space_11: postshiverdriftmythalphaoysterpowdercreeksevenbeannuclear
+bip_39_word_no_space_12: postshiverdriftmythalphaoysterpowdercreeksevenbeannuclearalpha
+bip_39_word_no_space_2: postshiver
+bip_39_word_no_space_3: postshiverdrift
+bip_39_word_no_space_4: postshiverdriftmyth
+bip_39_word_no_space_5: postshiverdriftmythalpha
+bip_39_word_no_space_6: postshiverdriftmythalphaoyster
+bip_39_word_no_space_7: postshiverdriftmythalphaoysterpowder
+bip_39_word_no_space_8: postshiverdriftmythalphaoysterpowdercreek
+bip_39_word_no_space_9: postshiverdriftmythalphaoysterpowdercreekseven
 bip_39_word_space_0:
 - post
 - shiver

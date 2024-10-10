@@ -122,6 +122,18 @@ figure
 never
 skill
 tongue |  
+| bip_39_word_no_space_1 | room |  
+| bip_39_word_no_space_10 | roomwiseburgercapitalfogfigureneverskilltongueresource |  
+| bip_39_word_no_space_11 | roomwiseburgercapitalfogfigureneverskilltongueresourcebarrel |  
+| bip_39_word_no_space_12 | roomwiseburgercapitalfogfigureneverskilltongueresourcebarrelarch |  
+| bip_39_word_no_space_2 | roomwise |  
+| bip_39_word_no_space_3 | roomwiseburger |  
+| bip_39_word_no_space_4 | roomwiseburgercapital |  
+| bip_39_word_no_space_5 | roomwiseburgercapitalfog |  
+| bip_39_word_no_space_6 | roomwiseburgercapitalfogfigure |  
+| bip_39_word_no_space_7 | roomwiseburgercapitalfogfigurenever |  
+| bip_39_word_no_space_8 | roomwiseburgercapitalfogfigureneverskill |  
+| bip_39_word_no_space_9 | roomwiseburgercapitalfogfigureneverskilltongue |  
 | bip_39_word_space_0 | ['room', 'wise', 'burger', 'capital', 'fog', 'figure', 'never', 'skill', 'tongue', 'resource', 'barrel', 'arch'] |  
 | bip_39_word_space_1 | room |  
 | bip_39_word_space_10 | room wise burger capital fog figure never skill tongue resource |  

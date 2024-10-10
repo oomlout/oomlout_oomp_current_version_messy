@@ -122,6 +122,18 @@ struggle
 bean
 soda
 vintage |  
+| bip_39_word_no_space_1 | protect |  
+| bip_39_word_no_space_10 | protecteditsoapmoralotherstrugglebeansodavintageenter |  
+| bip_39_word_no_space_11 | protecteditsoapmoralotherstrugglebeansodavintageentermass |  
+| bip_39_word_no_space_12 | protecteditsoapmoralotherstrugglebeansodavintageentermassadvice |  
+| bip_39_word_no_space_2 | protectedit |  
+| bip_39_word_no_space_3 | protecteditsoap |  
+| bip_39_word_no_space_4 | protecteditsoapmoral |  
+| bip_39_word_no_space_5 | protecteditsoapmoralother |  
+| bip_39_word_no_space_6 | protecteditsoapmoralotherstruggle |  
+| bip_39_word_no_space_7 | protecteditsoapmoralotherstrugglebean |  
+| bip_39_word_no_space_8 | protecteditsoapmoralotherstrugglebeansoda |  
+| bip_39_word_no_space_9 | protecteditsoapmoralotherstrugglebeansodavintage |  
 | bip_39_word_space_0 | ['protect', 'edit', 'soap', 'moral', 'other', 'struggle', 'bean', 'soda', 'vintage', 'enter', 'mass', 'advice'] |  
 | bip_39_word_space_1 | protect |  
 | bip_39_word_space_10 | protect edit soap moral other struggle bean soda vintage enter |  

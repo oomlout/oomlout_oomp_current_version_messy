@@ -122,6 +122,18 @@ destroy
 grape
 impulse
 apple |  
+| bip_39_word_no_space_1 | budget |  
+| bip_39_word_no_space_10 | budgetpenaltyruleexpectstampdestroygrapeimpulseappleeducate |  
+| bip_39_word_no_space_11 | budgetpenaltyruleexpectstampdestroygrapeimpulseappleeducateactor |  
+| bip_39_word_no_space_12 | budgetpenaltyruleexpectstampdestroygrapeimpulseappleeducateactoralpha |  
+| bip_39_word_no_space_2 | budgetpenalty |  
+| bip_39_word_no_space_3 | budgetpenaltyrule |  
+| bip_39_word_no_space_4 | budgetpenaltyruleexpect |  
+| bip_39_word_no_space_5 | budgetpenaltyruleexpectstamp |  
+| bip_39_word_no_space_6 | budgetpenaltyruleexpectstampdestroy |  
+| bip_39_word_no_space_7 | budgetpenaltyruleexpectstampdestroygrape |  
+| bip_39_word_no_space_8 | budgetpenaltyruleexpectstampdestroygrapeimpulse |  
+| bip_39_word_no_space_9 | budgetpenaltyruleexpectstampdestroygrapeimpulseapple |  
 | bip_39_word_space_0 | ['budget', 'penalty', 'rule', 'expect', 'stamp', 'destroy', 'grape', 'impulse', 'apple', 'educate', 'actor', 'alpha'] |  
 | bip_39_word_space_1 | budget |  
 | bip_39_word_space_10 | budget penalty rule expect stamp destroy grape impulse apple educate |  

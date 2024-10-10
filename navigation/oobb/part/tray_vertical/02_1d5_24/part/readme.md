@@ -122,6 +122,18 @@ tribe
 certain
 sausage
 theme |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bossquestionpridecrushswamptribecertainsausagethemeedit |  
+| bip_39_word_no_space_11 | bossquestionpridecrushswamptribecertainsausagethemeeditinvolve |  
+| bip_39_word_no_space_12 | bossquestionpridecrushswamptribecertainsausagethemeeditinvolveaisle |  
+| bip_39_word_no_space_2 | bossquestion |  
+| bip_39_word_no_space_3 | bossquestionpride |  
+| bip_39_word_no_space_4 | bossquestionpridecrush |  
+| bip_39_word_no_space_5 | bossquestionpridecrushswamp |  
+| bip_39_word_no_space_6 | bossquestionpridecrushswamptribe |  
+| bip_39_word_no_space_7 | bossquestionpridecrushswamptribecertain |  
+| bip_39_word_no_space_8 | bossquestionpridecrushswamptribecertainsausage |  
+| bip_39_word_no_space_9 | bossquestionpridecrushswamptribecertainsausagetheme |  
 | bip_39_word_space_0 | ['boss', 'question', 'pride', 'crush', 'swamp', 'tribe', 'certain', 'sausage', 'theme', 'edit', 'involve', 'aisle'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss question pride crush swamp tribe certain sausage theme edit |  

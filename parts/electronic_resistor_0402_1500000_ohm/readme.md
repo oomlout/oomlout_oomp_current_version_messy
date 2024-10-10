@@ -122,6 +122,18 @@ bulk
 awesome
 title
 message |  
+| bip_39_word_no_space_1 | abstract |  
+| bip_39_word_no_space_10 | abstractcaughtmarketpanelpluckbulkawesometitlemessagelike |  
+| bip_39_word_no_space_11 | abstractcaughtmarketpanelpluckbulkawesometitlemessagelikeboard |  
+| bip_39_word_no_space_12 | abstractcaughtmarketpanelpluckbulkawesometitlemessagelikeboardangle |  
+| bip_39_word_no_space_2 | abstractcaught |  
+| bip_39_word_no_space_3 | abstractcaughtmarket |  
+| bip_39_word_no_space_4 | abstractcaughtmarketpanel |  
+| bip_39_word_no_space_5 | abstractcaughtmarketpanelpluck |  
+| bip_39_word_no_space_6 | abstractcaughtmarketpanelpluckbulk |  
+| bip_39_word_no_space_7 | abstractcaughtmarketpanelpluckbulkawesome |  
+| bip_39_word_no_space_8 | abstractcaughtmarketpanelpluckbulkawesometitle |  
+| bip_39_word_no_space_9 | abstractcaughtmarketpanelpluckbulkawesometitlemessage |  
 | bip_39_word_space_0 | ['abstract', 'caught', 'market', 'panel', 'pluck', 'bulk', 'awesome', 'title', 'message', 'like', 'board', 'angle'] |  
 | bip_39_word_space_1 | abstract |  
 | bip_39_word_space_10 | abstract caught market panel pluck bulk awesome title message like |  

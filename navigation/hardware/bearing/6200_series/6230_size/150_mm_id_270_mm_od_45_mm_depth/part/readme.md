@@ -122,6 +122,18 @@ earn
 observe
 pond
 master |  
+| bip_39_word_no_space_1 | rubber |  
+| bip_39_word_no_space_10 | rubberlegprivatefrostmysteryearnobservepondmasterreport |  
+| bip_39_word_no_space_11 | rubberlegprivatefrostmysteryearnobservepondmasterreportpioneer |  
+| bip_39_word_no_space_12 | rubberlegprivatefrostmysteryearnobservepondmasterreportpioneeranxiety |  
+| bip_39_word_no_space_2 | rubberleg |  
+| bip_39_word_no_space_3 | rubberlegprivate |  
+| bip_39_word_no_space_4 | rubberlegprivatefrost |  
+| bip_39_word_no_space_5 | rubberlegprivatefrostmystery |  
+| bip_39_word_no_space_6 | rubberlegprivatefrostmysteryearn |  
+| bip_39_word_no_space_7 | rubberlegprivatefrostmysteryearnobserve |  
+| bip_39_word_no_space_8 | rubberlegprivatefrostmysteryearnobservepond |  
+| bip_39_word_no_space_9 | rubberlegprivatefrostmysteryearnobservepondmaster |  
 | bip_39_word_space_0 | ['rubber', 'leg', 'private', 'frost', 'mystery', 'earn', 'observe', 'pond', 'master', 'report', 'pioneer', 'anxiety'] |  
 | bip_39_word_space_1 | rubber |  
 | bip_39_word_space_10 | rubber leg private frost mystery earn observe pond master report |  

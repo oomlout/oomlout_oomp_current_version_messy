@@ -122,6 +122,18 @@ box
 junior
 cup
 demand |  
+| bip_39_word_no_space_1 | script |  
+| bip_39_word_no_space_10 | scriptmeshaddressadmitcradleboxjuniorcupdemandcheck |  
+| bip_39_word_no_space_11 | scriptmeshaddressadmitcradleboxjuniorcupdemandcheckcaution |  
+| bip_39_word_no_space_12 | scriptmeshaddressadmitcradleboxjuniorcupdemandcheckcautionadmit |  
+| bip_39_word_no_space_2 | scriptmesh |  
+| bip_39_word_no_space_3 | scriptmeshaddress |  
+| bip_39_word_no_space_4 | scriptmeshaddressadmit |  
+| bip_39_word_no_space_5 | scriptmeshaddressadmitcradle |  
+| bip_39_word_no_space_6 | scriptmeshaddressadmitcradlebox |  
+| bip_39_word_no_space_7 | scriptmeshaddressadmitcradleboxjunior |  
+| bip_39_word_no_space_8 | scriptmeshaddressadmitcradleboxjuniorcup |  
+| bip_39_word_no_space_9 | scriptmeshaddressadmitcradleboxjuniorcupdemand |  
 | bip_39_word_space_0 | ['script', 'mesh', 'address', 'admit', 'cradle', 'box', 'junior', 'cup', 'demand', 'check', 'caution', 'admit'] |  
 | bip_39_word_space_1 | script |  
 | bip_39_word_space_10 | script mesh address admit cradle box junior cup demand check |  

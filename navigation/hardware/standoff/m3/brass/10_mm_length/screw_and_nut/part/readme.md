@@ -122,6 +122,18 @@ craft
 obvious
 position
 tilt |  
+| bip_39_word_no_space_1 | polar |  
+| bip_39_word_no_space_10 | polardosefinishplanetsevencraftobviouspositiontiltcrash |  
+| bip_39_word_no_space_11 | polardosefinishplanetsevencraftobviouspositiontiltcrashcoin |  
+| bip_39_word_no_space_12 | polardosefinishplanetsevencraftobviouspositiontiltcrashcoinact |  
+| bip_39_word_no_space_2 | polardose |  
+| bip_39_word_no_space_3 | polardosefinish |  
+| bip_39_word_no_space_4 | polardosefinishplanet |  
+| bip_39_word_no_space_5 | polardosefinishplanetseven |  
+| bip_39_word_no_space_6 | polardosefinishplanetsevencraft |  
+| bip_39_word_no_space_7 | polardosefinishplanetsevencraftobvious |  
+| bip_39_word_no_space_8 | polardosefinishplanetsevencraftobviousposition |  
+| bip_39_word_no_space_9 | polardosefinishplanetsevencraftobviouspositiontilt |  
 | bip_39_word_space_0 | ['polar', 'dose', 'finish', 'planet', 'seven', 'craft', 'obvious', 'position', 'tilt', 'crash', 'coin', 'act'] |  
 | bip_39_word_space_1 | polar |  
 | bip_39_word_space_10 | polar dose finish planet seven craft obvious position tilt crash |  

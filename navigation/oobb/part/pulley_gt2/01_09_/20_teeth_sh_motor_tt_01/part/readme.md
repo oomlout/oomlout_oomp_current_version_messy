@@ -122,6 +122,18 @@ title
 august
 episode
 minute |  
+| bip_39_word_no_space_1 | fade |  
+| bip_39_word_no_space_10 | fadebonusgovernyoungextendtitleaugustepisodeminuteblossom |  
+| bip_39_word_no_space_11 | fadebonusgovernyoungextendtitleaugustepisodeminuteblossomfade |  
+| bip_39_word_no_space_12 | fadebonusgovernyoungextendtitleaugustepisodeminuteblossomfadeapple |  
+| bip_39_word_no_space_2 | fadebonus |  
+| bip_39_word_no_space_3 | fadebonusgovern |  
+| bip_39_word_no_space_4 | fadebonusgovernyoung |  
+| bip_39_word_no_space_5 | fadebonusgovernyoungextend |  
+| bip_39_word_no_space_6 | fadebonusgovernyoungextendtitle |  
+| bip_39_word_no_space_7 | fadebonusgovernyoungextendtitleaugust |  
+| bip_39_word_no_space_8 | fadebonusgovernyoungextendtitleaugustepisode |  
+| bip_39_word_no_space_9 | fadebonusgovernyoungextendtitleaugustepisodeminute |  
 | bip_39_word_space_0 | ['fade', 'bonus', 'govern', 'young', 'extend', 'title', 'august', 'episode', 'minute', 'blossom', 'fade', 'apple'] |  
 | bip_39_word_space_1 | fade |  
 | bip_39_word_space_10 | fade bonus govern young extend title august episode minute blossom |  

@@ -122,6 +122,18 @@ oak
 chair
 room
 cloth |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accesssteakeasyboildashoakchairroomclothbox |  
+| bip_39_word_no_space_11 | accesssteakeasyboildashoakchairroomclothboxflame |  
+| bip_39_word_no_space_12 | accesssteakeasyboildashoakchairroomclothboxflameasset |  
+| bip_39_word_no_space_2 | accesssteak |  
+| bip_39_word_no_space_3 | accesssteakeasy |  
+| bip_39_word_no_space_4 | accesssteakeasyboil |  
+| bip_39_word_no_space_5 | accesssteakeasyboildash |  
+| bip_39_word_no_space_6 | accesssteakeasyboildashoak |  
+| bip_39_word_no_space_7 | accesssteakeasyboildashoakchair |  
+| bip_39_word_no_space_8 | accesssteakeasyboildashoakchairroom |  
+| bip_39_word_no_space_9 | accesssteakeasyboildashoakchairroomcloth |  
 | bip_39_word_space_0 | ['access', 'steak', 'easy', 'boil', 'dash', 'oak', 'chair', 'room', 'cloth', 'box', 'flame', 'asset'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access steak easy boil dash oak chair room cloth box |  

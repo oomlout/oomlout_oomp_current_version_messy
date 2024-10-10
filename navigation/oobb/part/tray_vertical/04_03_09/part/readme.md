@@ -122,6 +122,18 @@ divorce
 bring
 roof
 make |  
+| bip_39_word_no_space_1 | exhibit |  
+| bip_39_word_no_space_10 | exhibitfiberfuturesuitdeclinedivorcebringroofmakesalad |  
+| bip_39_word_no_space_11 | exhibitfiberfuturesuitdeclinedivorcebringroofmakesaladsettle |  
+| bip_39_word_no_space_12 | exhibitfiberfuturesuitdeclinedivorcebringroofmakesaladsettleamount |  
+| bip_39_word_no_space_2 | exhibitfiber |  
+| bip_39_word_no_space_3 | exhibitfiberfuture |  
+| bip_39_word_no_space_4 | exhibitfiberfuturesuit |  
+| bip_39_word_no_space_5 | exhibitfiberfuturesuitdecline |  
+| bip_39_word_no_space_6 | exhibitfiberfuturesuitdeclinedivorce |  
+| bip_39_word_no_space_7 | exhibitfiberfuturesuitdeclinedivorcebring |  
+| bip_39_word_no_space_8 | exhibitfiberfuturesuitdeclinedivorcebringroof |  
+| bip_39_word_no_space_9 | exhibitfiberfuturesuitdeclinedivorcebringroofmake |  
 | bip_39_word_space_0 | ['exhibit', 'fiber', 'future', 'suit', 'decline', 'divorce', 'bring', 'roof', 'make', 'salad', 'settle', 'amount'] |  
 | bip_39_word_space_1 | exhibit |  
 | bip_39_word_space_10 | exhibit fiber future suit decline divorce bring roof make salad |  

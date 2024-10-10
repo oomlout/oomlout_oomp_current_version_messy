@@ -122,6 +122,18 @@ cheap
 hollow
 resemble
 defense |  
+| bip_39_word_no_space_1 | loud |  
+| bip_39_word_no_space_10 | loudbunkerpatternrazordentistcheaphollowresembledefensepencil |  
+| bip_39_word_no_space_11 | loudbunkerpatternrazordentistcheaphollowresembledefensepencilkidney |  
+| bip_39_word_no_space_12 | loudbunkerpatternrazordentistcheaphollowresembledefensepencilkidneyapart |  
+| bip_39_word_no_space_2 | loudbunker |  
+| bip_39_word_no_space_3 | loudbunkerpattern |  
+| bip_39_word_no_space_4 | loudbunkerpatternrazor |  
+| bip_39_word_no_space_5 | loudbunkerpatternrazordentist |  
+| bip_39_word_no_space_6 | loudbunkerpatternrazordentistcheap |  
+| bip_39_word_no_space_7 | loudbunkerpatternrazordentistcheaphollow |  
+| bip_39_word_no_space_8 | loudbunkerpatternrazordentistcheaphollowresemble |  
+| bip_39_word_no_space_9 | loudbunkerpatternrazordentistcheaphollowresembledefense |  
 | bip_39_word_space_0 | ['loud', 'bunker', 'pattern', 'razor', 'dentist', 'cheap', 'hollow', 'resemble', 'defense', 'pencil', 'kidney', 'apart'] |  
 | bip_39_word_space_1 | loud |  
 | bip_39_word_space_10 | loud bunker pattern razor dentist cheap hollow resemble defense pencil |  

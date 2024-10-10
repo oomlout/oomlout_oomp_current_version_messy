@@ -122,6 +122,18 @@ region
 pupil
 scan
 kiwi |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasonelectricpepperseedsellregionpupilscankiwirug |  
+| bip_39_word_no_space_11 | seasonelectricpepperseedsellregionpupilscankiwirugpraise |  
+| bip_39_word_no_space_12 | seasonelectricpepperseedsellregionpupilscankiwirugpraiseamateur |  
+| bip_39_word_no_space_2 | seasonelectric |  
+| bip_39_word_no_space_3 | seasonelectricpepper |  
+| bip_39_word_no_space_4 | seasonelectricpepperseed |  
+| bip_39_word_no_space_5 | seasonelectricpepperseedsell |  
+| bip_39_word_no_space_6 | seasonelectricpepperseedsellregion |  
+| bip_39_word_no_space_7 | seasonelectricpepperseedsellregionpupil |  
+| bip_39_word_no_space_8 | seasonelectricpepperseedsellregionpupilscan |  
+| bip_39_word_no_space_9 | seasonelectricpepperseedsellregionpupilscankiwi |  
 | bip_39_word_space_0 | ['season', 'electric', 'pepper', 'seed', 'sell', 'region', 'pupil', 'scan', 'kiwi', 'rug', 'praise', 'amateur'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season electric pepper seed sell region pupil scan kiwi rug |  

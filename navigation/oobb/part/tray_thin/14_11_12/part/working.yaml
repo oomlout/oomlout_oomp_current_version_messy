@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vote
   silver
 
   tide'
+bip_39_word_no_space_1: vote
+bip_39_word_no_space_10: voteaheadhorsemeadowblackfleecoppersilvertidemarble
+bip_39_word_no_space_11: voteaheadhorsemeadowblackfleecoppersilvertidemarbletransfer
+bip_39_word_no_space_12: voteaheadhorsemeadowblackfleecoppersilvertidemarbletransferarrest
+bip_39_word_no_space_2: voteahead
+bip_39_word_no_space_3: voteaheadhorse
+bip_39_word_no_space_4: voteaheadhorsemeadow
+bip_39_word_no_space_5: voteaheadhorsemeadowblack
+bip_39_word_no_space_6: voteaheadhorsemeadowblackflee
+bip_39_word_no_space_7: voteaheadhorsemeadowblackfleecopper
+bip_39_word_no_space_8: voteaheadhorsemeadowblackfleecoppersilver
+bip_39_word_no_space_9: voteaheadhorsemeadowblackfleecoppersilvertide
 bip_39_word_space_0:
 - vote
 - ahead

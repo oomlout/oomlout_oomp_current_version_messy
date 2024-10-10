@@ -122,6 +122,18 @@ situate
 category
 brain
 tree |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gainmazeroasttrophybattlesituatecategorybraintreeghost |  
+| bip_39_word_no_space_11 | gainmazeroasttrophybattlesituatecategorybraintreeghostshove |  
+| bip_39_word_no_space_12 | gainmazeroasttrophybattlesituatecategorybraintreeghostshoveapple |  
+| bip_39_word_no_space_2 | gainmaze |  
+| bip_39_word_no_space_3 | gainmazeroast |  
+| bip_39_word_no_space_4 | gainmazeroasttrophy |  
+| bip_39_word_no_space_5 | gainmazeroasttrophybattle |  
+| bip_39_word_no_space_6 | gainmazeroasttrophybattlesituate |  
+| bip_39_word_no_space_7 | gainmazeroasttrophybattlesituatecategory |  
+| bip_39_word_no_space_8 | gainmazeroasttrophybattlesituatecategorybrain |  
+| bip_39_word_no_space_9 | gainmazeroasttrophybattlesituatecategorybraintree |  
 | bip_39_word_space_0 | ['gain', 'maze', 'roast', 'trophy', 'battle', 'situate', 'category', 'brain', 'tree', 'ghost', 'shove', 'apple'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain maze roast trophy battle situate category brain tree ghost |  

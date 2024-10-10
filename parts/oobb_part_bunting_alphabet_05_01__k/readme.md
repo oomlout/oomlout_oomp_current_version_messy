@@ -122,6 +122,18 @@ affair
 flash
 provide
 phrase |  
+| bip_39_word_no_space_1 | volume |  
+| bip_39_word_no_space_10 | volumedismissslimrivermanualaffairflashprovidephrasegesture |  
+| bip_39_word_no_space_11 | volumedismissslimrivermanualaffairflashprovidephrasegestureplate |  
+| bip_39_word_no_space_12 | volumedismissslimrivermanualaffairflashprovidephrasegestureplateappear |  
+| bip_39_word_no_space_2 | volumedismiss |  
+| bip_39_word_no_space_3 | volumedismissslim |  
+| bip_39_word_no_space_4 | volumedismissslimriver |  
+| bip_39_word_no_space_5 | volumedismissslimrivermanual |  
+| bip_39_word_no_space_6 | volumedismissslimrivermanualaffair |  
+| bip_39_word_no_space_7 | volumedismissslimrivermanualaffairflash |  
+| bip_39_word_no_space_8 | volumedismissslimrivermanualaffairflashprovide |  
+| bip_39_word_no_space_9 | volumedismissslimrivermanualaffairflashprovidephrase |  
 | bip_39_word_space_0 | ['volume', 'dismiss', 'slim', 'river', 'manual', 'affair', 'flash', 'provide', 'phrase', 'gesture', 'plate', 'appear'] |  
 | bip_39_word_space_1 | volume |  
 | bip_39_word_space_10 | volume dismiss slim river manual affair flash provide phrase gesture |  

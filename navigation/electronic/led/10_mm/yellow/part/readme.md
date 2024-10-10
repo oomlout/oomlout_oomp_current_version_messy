@@ -122,6 +122,18 @@ pattern
 thrive
 stand
 enroll |  
+| bip_39_word_no_space_1 | little |  
+| bip_39_word_no_space_10 | littlecherryairbuyerdeputypatternthrivestandenrollactress |  
+| bip_39_word_no_space_11 | littlecherryairbuyerdeputypatternthrivestandenrollactresssalt |  
+| bip_39_word_no_space_12 | littlecherryairbuyerdeputypatternthrivestandenrollactresssaltarrange |  
+| bip_39_word_no_space_2 | littlecherry |  
+| bip_39_word_no_space_3 | littlecherryair |  
+| bip_39_word_no_space_4 | littlecherryairbuyer |  
+| bip_39_word_no_space_5 | littlecherryairbuyerdeputy |  
+| bip_39_word_no_space_6 | littlecherryairbuyerdeputypattern |  
+| bip_39_word_no_space_7 | littlecherryairbuyerdeputypatternthrive |  
+| bip_39_word_no_space_8 | littlecherryairbuyerdeputypatternthrivestand |  
+| bip_39_word_no_space_9 | littlecherryairbuyerdeputypatternthrivestandenroll |  
 | bip_39_word_space_0 | ['little', 'cherry', 'air', 'buyer', 'deputy', 'pattern', 'thrive', 'stand', 'enroll', 'actress', 'salt', 'arrange'] |  
 | bip_39_word_space_1 | little |  
 | bip_39_word_space_10 | little cherry air buyer deputy pattern thrive stand enroll actress |  

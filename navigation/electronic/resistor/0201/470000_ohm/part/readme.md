@@ -122,6 +122,18 @@ equal
 owner
 predict
 turn |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentreopenquizstatetorchequalownerpredictturnplease |  
+| bip_39_word_no_space_11 | silentreopenquizstatetorchequalownerpredictturnpleasespecial |  
+| bip_39_word_no_space_12 | silentreopenquizstatetorchequalownerpredictturnpleasespecialatom |  
+| bip_39_word_no_space_2 | silentreopen |  
+| bip_39_word_no_space_3 | silentreopenquiz |  
+| bip_39_word_no_space_4 | silentreopenquizstate |  
+| bip_39_word_no_space_5 | silentreopenquizstatetorch |  
+| bip_39_word_no_space_6 | silentreopenquizstatetorchequal |  
+| bip_39_word_no_space_7 | silentreopenquizstatetorchequalowner |  
+| bip_39_word_no_space_8 | silentreopenquizstatetorchequalownerpredict |  
+| bip_39_word_no_space_9 | silentreopenquizstatetorchequalownerpredictturn |  
 | bip_39_word_space_0 | ['silent', 'reopen', 'quiz', 'state', 'torch', 'equal', 'owner', 'predict', 'turn', 'please', 'special', 'atom'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent reopen quiz state torch equal owner predict turn please |  

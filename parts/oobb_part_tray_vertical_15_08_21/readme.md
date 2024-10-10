@@ -122,6 +122,18 @@ mosquito
 fish
 basic
 merge |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitcranesurespikedeskmosquitofishbasicmergehole |  
+| bip_39_word_no_space_11 | limitcranesurespikedeskmosquitofishbasicmergeholecomic |  
+| bip_39_word_no_space_12 | limitcranesurespikedeskmosquitofishbasicmergeholecomicafford |  
+| bip_39_word_no_space_2 | limitcrane |  
+| bip_39_word_no_space_3 | limitcranesure |  
+| bip_39_word_no_space_4 | limitcranesurespike |  
+| bip_39_word_no_space_5 | limitcranesurespikedesk |  
+| bip_39_word_no_space_6 | limitcranesurespikedeskmosquito |  
+| bip_39_word_no_space_7 | limitcranesurespikedeskmosquitofish |  
+| bip_39_word_no_space_8 | limitcranesurespikedeskmosquitofishbasic |  
+| bip_39_word_no_space_9 | limitcranesurespikedeskmosquitofishbasicmerge |  
 | bip_39_word_space_0 | ['limit', 'crane', 'sure', 'spike', 'desk', 'mosquito', 'fish', 'basic', 'merge', 'hole', 'comic', 'afford'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit crane sure spike desk mosquito fish basic merge hole |  

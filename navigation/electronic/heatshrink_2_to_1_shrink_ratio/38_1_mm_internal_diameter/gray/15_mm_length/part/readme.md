@@ -122,6 +122,18 @@ illness
 imitate
 brief
 earn |  
+| bip_39_word_no_space_1 | volume |  
+| bip_39_word_no_space_10 | volumejunkpresentwifejaguarillnessimitatebriefearndrum |  
+| bip_39_word_no_space_11 | volumejunkpresentwifejaguarillnessimitatebriefearndrumnight |  
+| bip_39_word_no_space_12 | volumejunkpresentwifejaguarillnessimitatebriefearndrumnightactual |  
+| bip_39_word_no_space_2 | volumejunk |  
+| bip_39_word_no_space_3 | volumejunkpresent |  
+| bip_39_word_no_space_4 | volumejunkpresentwife |  
+| bip_39_word_no_space_5 | volumejunkpresentwifejaguar |  
+| bip_39_word_no_space_6 | volumejunkpresentwifejaguarillness |  
+| bip_39_word_no_space_7 | volumejunkpresentwifejaguarillnessimitate |  
+| bip_39_word_no_space_8 | volumejunkpresentwifejaguarillnessimitatebrief |  
+| bip_39_word_no_space_9 | volumejunkpresentwifejaguarillnessimitatebriefearn |  
 | bip_39_word_space_0 | ['volume', 'junk', 'present', 'wife', 'jaguar', 'illness', 'imitate', 'brief', 'earn', 'drum', 'night', 'actual'] |  
 | bip_39_word_space_1 | volume |  
 | bip_39_word_space_10 | volume junk present wife jaguar illness imitate brief earn drum |  

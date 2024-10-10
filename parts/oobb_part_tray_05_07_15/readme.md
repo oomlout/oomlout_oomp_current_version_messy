@@ -122,6 +122,18 @@ donor
 cable
 boring
 invest |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misslunchrocketpointbriskdonorcableboringinvestborrow |  
+| bip_39_word_no_space_11 | misslunchrocketpointbriskdonorcableboringinvestborrowfall |  
+| bip_39_word_no_space_12 | misslunchrocketpointbriskdonorcableboringinvestborrowfallallow |  
+| bip_39_word_no_space_2 | misslunch |  
+| bip_39_word_no_space_3 | misslunchrocket |  
+| bip_39_word_no_space_4 | misslunchrocketpoint |  
+| bip_39_word_no_space_5 | misslunchrocketpointbrisk |  
+| bip_39_word_no_space_6 | misslunchrocketpointbriskdonor |  
+| bip_39_word_no_space_7 | misslunchrocketpointbriskdonorcable |  
+| bip_39_word_no_space_8 | misslunchrocketpointbriskdonorcableboring |  
+| bip_39_word_no_space_9 | misslunchrocketpointbriskdonorcableboringinvest |  
 | bip_39_word_space_0 | ['miss', 'lunch', 'rocket', 'point', 'brisk', 'donor', 'cable', 'boring', 'invest', 'borrow', 'fall', 'allow'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss lunch rocket point brisk donor cable boring invest borrow |  

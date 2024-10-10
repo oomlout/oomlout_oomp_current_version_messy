@@ -122,6 +122,18 @@ south
 arrange
 envelope
 infant |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymtagphysicalhelptitlesoutharrangeenvelopeinfantprice |  
+| bip_39_word_no_space_11 | gymtagphysicalhelptitlesoutharrangeenvelopeinfantpricesay |  
+| bip_39_word_no_space_12 | gymtagphysicalhelptitlesoutharrangeenvelopeinfantpricesayafraid |  
+| bip_39_word_no_space_2 | gymtag |  
+| bip_39_word_no_space_3 | gymtagphysical |  
+| bip_39_word_no_space_4 | gymtagphysicalhelp |  
+| bip_39_word_no_space_5 | gymtagphysicalhelptitle |  
+| bip_39_word_no_space_6 | gymtagphysicalhelptitlesouth |  
+| bip_39_word_no_space_7 | gymtagphysicalhelptitlesoutharrange |  
+| bip_39_word_no_space_8 | gymtagphysicalhelptitlesoutharrangeenvelope |  
+| bip_39_word_no_space_9 | gymtagphysicalhelptitlesoutharrangeenvelopeinfant |  
 | bip_39_word_space_0 | ['gym', 'tag', 'physical', 'help', 'title', 'south', 'arrange', 'envelope', 'infant', 'price', 'say', 'afraid'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym tag physical help title south arrange envelope infant price |  

@@ -122,6 +122,18 @@ acquire
 when
 urban
 word |  
+| bip_39_word_no_space_1 | divide |  
+| bip_39_word_no_space_10 | dividesimplethumbmarchensureacquirewhenurbanwordspatial |  
+| bip_39_word_no_space_11 | dividesimplethumbmarchensureacquirewhenurbanwordspatialdescribe |  
+| bip_39_word_no_space_12 | dividesimplethumbmarchensureacquirewhenurbanwordspatialdescribeaudit |  
+| bip_39_word_no_space_2 | dividesimple |  
+| bip_39_word_no_space_3 | dividesimplethumb |  
+| bip_39_word_no_space_4 | dividesimplethumbmarch |  
+| bip_39_word_no_space_5 | dividesimplethumbmarchensure |  
+| bip_39_word_no_space_6 | dividesimplethumbmarchensureacquire |  
+| bip_39_word_no_space_7 | dividesimplethumbmarchensureacquirewhen |  
+| bip_39_word_no_space_8 | dividesimplethumbmarchensureacquirewhenurban |  
+| bip_39_word_no_space_9 | dividesimplethumbmarchensureacquirewhenurbanword |  
 | bip_39_word_space_0 | ['divide', 'simple', 'thumb', 'march', 'ensure', 'acquire', 'when', 'urban', 'word', 'spatial', 'describe', 'audit'] |  
 | bip_39_word_space_1 | divide |  
 | bip_39_word_space_10 | divide simple thumb march ensure acquire when urban word spatial |  

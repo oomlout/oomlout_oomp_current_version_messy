@@ -122,6 +122,18 @@ file
 tumble
 rabbit
 weasel |  
+| bip_39_word_no_space_1 | couple |  
+| bip_39_word_no_space_10 | couplecautionbrandarmydirtfiletumblerabbitweaselclerk |  
+| bip_39_word_no_space_11 | couplecautionbrandarmydirtfiletumblerabbitweaselclerkfan |  
+| bip_39_word_no_space_12 | couplecautionbrandarmydirtfiletumblerabbitweaselclerkfanamong |  
+| bip_39_word_no_space_2 | couplecaution |  
+| bip_39_word_no_space_3 | couplecautionbrand |  
+| bip_39_word_no_space_4 | couplecautionbrandarmy |  
+| bip_39_word_no_space_5 | couplecautionbrandarmydirt |  
+| bip_39_word_no_space_6 | couplecautionbrandarmydirtfile |  
+| bip_39_word_no_space_7 | couplecautionbrandarmydirtfiletumble |  
+| bip_39_word_no_space_8 | couplecautionbrandarmydirtfiletumblerabbit |  
+| bip_39_word_no_space_9 | couplecautionbrandarmydirtfiletumblerabbitweasel |  
 | bip_39_word_space_0 | ['couple', 'caution', 'brand', 'army', 'dirt', 'file', 'tumble', 'rabbit', 'weasel', 'clerk', 'fan', 'among'] |  
 | bip_39_word_space_1 | couple |  
 | bip_39_word_space_10 | couple caution brand army dirt file tumble rabbit weasel clerk |  

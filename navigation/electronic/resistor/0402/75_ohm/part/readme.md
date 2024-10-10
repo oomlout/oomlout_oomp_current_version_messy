@@ -122,6 +122,18 @@ science
 cube
 settle
 silver |  
+| bip_39_word_no_space_1 | piece |  
+| bip_39_word_no_space_10 | pieceadvicezoohoneyforestsciencecubesettlesilverpear |  
+| bip_39_word_no_space_11 | pieceadvicezoohoneyforestsciencecubesettlesilverpearlanguage |  
+| bip_39_word_no_space_12 | pieceadvicezoohoneyforestsciencecubesettlesilverpearlanguagealone |  
+| bip_39_word_no_space_2 | pieceadvice |  
+| bip_39_word_no_space_3 | pieceadvicezoo |  
+| bip_39_word_no_space_4 | pieceadvicezoohoney |  
+| bip_39_word_no_space_5 | pieceadvicezoohoneyforest |  
+| bip_39_word_no_space_6 | pieceadvicezoohoneyforestscience |  
+| bip_39_word_no_space_7 | pieceadvicezoohoneyforestsciencecube |  
+| bip_39_word_no_space_8 | pieceadvicezoohoneyforestsciencecubesettle |  
+| bip_39_word_no_space_9 | pieceadvicezoohoneyforestsciencecubesettlesilver |  
 | bip_39_word_space_0 | ['piece', 'advice', 'zoo', 'honey', 'forest', 'science', 'cube', 'settle', 'silver', 'pear', 'language', 'alone'] |  
 | bip_39_word_space_1 | piece |  
 | bip_39_word_space_10 | piece advice zoo honey forest science cube settle silver pear |  

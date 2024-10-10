@@ -122,6 +122,18 @@ next
 moment
 actress
 voice |  
+| bip_39_word_no_space_1 | journey |  
+| bip_39_word_no_space_10 | journeyjellypaddlefatiguedropnextmomentactressvoicewelcome |  
+| bip_39_word_no_space_11 | journeyjellypaddlefatiguedropnextmomentactressvoicewelcomebless |  
+| bip_39_word_no_space_12 | journeyjellypaddlefatiguedropnextmomentactressvoicewelcomeblessargue |  
+| bip_39_word_no_space_2 | journeyjelly |  
+| bip_39_word_no_space_3 | journeyjellypaddle |  
+| bip_39_word_no_space_4 | journeyjellypaddlefatigue |  
+| bip_39_word_no_space_5 | journeyjellypaddlefatiguedrop |  
+| bip_39_word_no_space_6 | journeyjellypaddlefatiguedropnext |  
+| bip_39_word_no_space_7 | journeyjellypaddlefatiguedropnextmoment |  
+| bip_39_word_no_space_8 | journeyjellypaddlefatiguedropnextmomentactress |  
+| bip_39_word_no_space_9 | journeyjellypaddlefatiguedropnextmomentactressvoice |  
 | bip_39_word_space_0 | ['journey', 'jelly', 'paddle', 'fatigue', 'drop', 'next', 'moment', 'actress', 'voice', 'welcome', 'bless', 'argue'] |  
 | bip_39_word_space_1 | journey |  
 | bip_39_word_space_10 | journey jelly paddle fatigue drop next moment actress voice welcome |  

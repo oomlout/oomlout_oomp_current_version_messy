@@ -122,6 +122,18 @@ torch
 math
 mushroom
 author |  
+| bip_39_word_no_space_1 | common |  
+| bip_39_word_no_space_10 | commonpreventnomineeverbprimarytorchmathmushroomauthorrefuse |  
+| bip_39_word_no_space_11 | commonpreventnomineeverbprimarytorchmathmushroomauthorrefuseelder |  
+| bip_39_word_no_space_12 | commonpreventnomineeverbprimarytorchmathmushroomauthorrefuseelderalone |  
+| bip_39_word_no_space_2 | commonprevent |  
+| bip_39_word_no_space_3 | commonpreventnominee |  
+| bip_39_word_no_space_4 | commonpreventnomineeverb |  
+| bip_39_word_no_space_5 | commonpreventnomineeverbprimary |  
+| bip_39_word_no_space_6 | commonpreventnomineeverbprimarytorch |  
+| bip_39_word_no_space_7 | commonpreventnomineeverbprimarytorchmath |  
+| bip_39_word_no_space_8 | commonpreventnomineeverbprimarytorchmathmushroom |  
+| bip_39_word_no_space_9 | commonpreventnomineeverbprimarytorchmathmushroomauthor |  
 | bip_39_word_space_0 | ['common', 'prevent', 'nominee', 'verb', 'primary', 'torch', 'math', 'mushroom', 'author', 'refuse', 'elder', 'alone'] |  
 | bip_39_word_space_1 | common |  
 | bip_39_word_space_10 | common prevent nominee verb primary torch math mushroom author refuse |  

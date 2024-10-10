@@ -122,6 +122,18 @@ search
 ask
 orient
 usual |  
+| bip_39_word_no_space_1 | vote |  
+| bip_39_word_no_space_10 | votefortunealertsickradarsearchaskorientusualunhappy |  
+| bip_39_word_no_space_11 | votefortunealertsickradarsearchaskorientusualunhappyupdate |  
+| bip_39_word_no_space_12 | votefortunealertsickradarsearchaskorientusualunhappyupdatearea |  
+| bip_39_word_no_space_2 | votefortune |  
+| bip_39_word_no_space_3 | votefortunealert |  
+| bip_39_word_no_space_4 | votefortunealertsick |  
+| bip_39_word_no_space_5 | votefortunealertsickradar |  
+| bip_39_word_no_space_6 | votefortunealertsickradarsearch |  
+| bip_39_word_no_space_7 | votefortunealertsickradarsearchask |  
+| bip_39_word_no_space_8 | votefortunealertsickradarsearchaskorient |  
+| bip_39_word_no_space_9 | votefortunealertsickradarsearchaskorientusual |  
 | bip_39_word_space_0 | ['vote', 'fortune', 'alert', 'sick', 'radar', 'search', 'ask', 'orient', 'usual', 'unhappy', 'update', 'area'] |  
 | bip_39_word_space_1 | vote |  
 | bip_39_word_space_10 | vote fortune alert sick radar search ask orient usual unhappy |  

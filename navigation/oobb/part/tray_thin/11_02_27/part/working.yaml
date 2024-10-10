@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hybrid
   shield
 
   benefit'
+bip_39_word_no_space_1: hybrid
+bip_39_word_no_space_10: hybridtoiletsmilebeanmapletowertownshieldbenefitlounge
+bip_39_word_no_space_11: hybridtoiletsmilebeanmapletowertownshieldbenefitloungehand
+bip_39_word_no_space_12: hybridtoiletsmilebeanmapletowertownshieldbenefitloungehandadvice
+bip_39_word_no_space_2: hybridtoilet
+bip_39_word_no_space_3: hybridtoiletsmile
+bip_39_word_no_space_4: hybridtoiletsmilebean
+bip_39_word_no_space_5: hybridtoiletsmilebeanmaple
+bip_39_word_no_space_6: hybridtoiletsmilebeanmapletower
+bip_39_word_no_space_7: hybridtoiletsmilebeanmapletowertown
+bip_39_word_no_space_8: hybridtoiletsmilebeanmapletowertownshield
+bip_39_word_no_space_9: hybridtoiletsmilebeanmapletowertownshieldbenefit
 bip_39_word_space_0:
 - hybrid
 - toilet

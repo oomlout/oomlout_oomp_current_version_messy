@@ -122,6 +122,18 @@ spread
 merry
 coil
 eager |  
+| bip_39_word_no_space_1 | carry |  
+| bip_39_word_no_space_10 | carrysadorphanwitnesseruptspreadmerrycoileagertag |  
+| bip_39_word_no_space_11 | carrysadorphanwitnesseruptspreadmerrycoileagertagmerge |  
+| bip_39_word_no_space_12 | carrysadorphanwitnesseruptspreadmerrycoileagertagmergeapology |  
+| bip_39_word_no_space_2 | carrysad |  
+| bip_39_word_no_space_3 | carrysadorphan |  
+| bip_39_word_no_space_4 | carrysadorphanwitness |  
+| bip_39_word_no_space_5 | carrysadorphanwitnesserupt |  
+| bip_39_word_no_space_6 | carrysadorphanwitnesseruptspread |  
+| bip_39_word_no_space_7 | carrysadorphanwitnesseruptspreadmerry |  
+| bip_39_word_no_space_8 | carrysadorphanwitnesseruptspreadmerrycoil |  
+| bip_39_word_no_space_9 | carrysadorphanwitnesseruptspreadmerrycoileager |  
 | bip_39_word_space_0 | ['carry', 'sad', 'orphan', 'witness', 'erupt', 'spread', 'merry', 'coil', 'eager', 'tag', 'merge', 'apology'] |  
 | bip_39_word_space_1 | carry |  
 | bip_39_word_space_10 | carry sad orphan witness erupt spread merry coil eager tag |  

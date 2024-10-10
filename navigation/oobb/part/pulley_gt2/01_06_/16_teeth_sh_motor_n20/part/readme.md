@@ -122,6 +122,18 @@ cost
 napkin
 monitor
 sign |  
+| bip_39_word_no_space_1 | whip |  
+| bip_39_word_no_space_10 | whipjungleauctiondigitalpotatocostnapkinmonitorsigncategory |  
+| bip_39_word_no_space_11 | whipjungleauctiondigitalpotatocostnapkinmonitorsigncategorythrow |  
+| bip_39_word_no_space_12 | whipjungleauctiondigitalpotatocostnapkinmonitorsigncategorythrowattack |  
+| bip_39_word_no_space_2 | whipjungle |  
+| bip_39_word_no_space_3 | whipjungleauction |  
+| bip_39_word_no_space_4 | whipjungleauctiondigital |  
+| bip_39_word_no_space_5 | whipjungleauctiondigitalpotato |  
+| bip_39_word_no_space_6 | whipjungleauctiondigitalpotatocost |  
+| bip_39_word_no_space_7 | whipjungleauctiondigitalpotatocostnapkin |  
+| bip_39_word_no_space_8 | whipjungleauctiondigitalpotatocostnapkinmonitor |  
+| bip_39_word_no_space_9 | whipjungleauctiondigitalpotatocostnapkinmonitorsign |  
 | bip_39_word_space_0 | ['whip', 'jungle', 'auction', 'digital', 'potato', 'cost', 'napkin', 'monitor', 'sign', 'category', 'throw', 'attack'] |  
 | bip_39_word_space_1 | whip |  
 | bip_39_word_space_10 | whip jungle auction digital potato cost napkin monitor sign category |  

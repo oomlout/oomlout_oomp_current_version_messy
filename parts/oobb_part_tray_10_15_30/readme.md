@@ -122,6 +122,18 @@ canoe
 holiday
 gravity
 brass |  
+| bip_39_word_no_space_1 | town |  
+| bip_39_word_no_space_10 | towntrickevolveamusedopinioncanoeholidaygravitybrassstairs |  
+| bip_39_word_no_space_11 | towntrickevolveamusedopinioncanoeholidaygravitybrassstairsgirl |  
+| bip_39_word_no_space_12 | towntrickevolveamusedopinioncanoeholidaygravitybrassstairsgirlanswer |  
+| bip_39_word_no_space_2 | towntrick |  
+| bip_39_word_no_space_3 | towntrickevolve |  
+| bip_39_word_no_space_4 | towntrickevolveamused |  
+| bip_39_word_no_space_5 | towntrickevolveamusedopinion |  
+| bip_39_word_no_space_6 | towntrickevolveamusedopinioncanoe |  
+| bip_39_word_no_space_7 | towntrickevolveamusedopinioncanoeholiday |  
+| bip_39_word_no_space_8 | towntrickevolveamusedopinioncanoeholidaygravity |  
+| bip_39_word_no_space_9 | towntrickevolveamusedopinioncanoeholidaygravitybrass |  
 | bip_39_word_space_0 | ['town', 'trick', 'evolve', 'amused', 'opinion', 'canoe', 'holiday', 'gravity', 'brass', 'stairs', 'girl', 'answer'] |  
 | bip_39_word_space_1 | town |  
 | bip_39_word_space_10 | town trick evolve amused opinion canoe holiday gravity brass stairs |  

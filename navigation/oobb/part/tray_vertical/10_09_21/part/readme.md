@@ -122,6 +122,18 @@ gravity
 hour
 day
 pill |  
+| bip_39_word_no_space_1 | meadow |  
+| bip_39_word_no_space_10 | meadowhumblediamonddentiststadiumgravityhourdaypillmother |  
+| bip_39_word_no_space_11 | meadowhumblediamonddentiststadiumgravityhourdaypillmotherburger |  
+| bip_39_word_no_space_12 | meadowhumblediamonddentiststadiumgravityhourdaypillmotherburgerauthor |  
+| bip_39_word_no_space_2 | meadowhumble |  
+| bip_39_word_no_space_3 | meadowhumblediamond |  
+| bip_39_word_no_space_4 | meadowhumblediamonddentist |  
+| bip_39_word_no_space_5 | meadowhumblediamonddentiststadium |  
+| bip_39_word_no_space_6 | meadowhumblediamonddentiststadiumgravity |  
+| bip_39_word_no_space_7 | meadowhumblediamonddentiststadiumgravityhour |  
+| bip_39_word_no_space_8 | meadowhumblediamonddentiststadiumgravityhourday |  
+| bip_39_word_no_space_9 | meadowhumblediamonddentiststadiumgravityhourdaypill |  
 | bip_39_word_space_0 | ['meadow', 'humble', 'diamond', 'dentist', 'stadium', 'gravity', 'hour', 'day', 'pill', 'mother', 'burger', 'author'] |  
 | bip_39_word_space_1 | meadow |  
 | bip_39_word_space_10 | meadow humble diamond dentist stadium gravity hour day pill mother |  

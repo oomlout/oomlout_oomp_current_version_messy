@@ -122,6 +122,18 @@ oyster
 radar
 water
 uphold |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callengineelitemarriagetelloysterradarwaterupholdnovel |  
+| bip_39_word_no_space_11 | callengineelitemarriagetelloysterradarwaterupholdnovelbegin |  
+| bip_39_word_no_space_12 | callengineelitemarriagetelloysterradarwaterupholdnovelbeginaverage |  
+| bip_39_word_no_space_2 | callengine |  
+| bip_39_word_no_space_3 | callengineelite |  
+| bip_39_word_no_space_4 | callengineelitemarriage |  
+| bip_39_word_no_space_5 | callengineelitemarriagetell |  
+| bip_39_word_no_space_6 | callengineelitemarriagetelloyster |  
+| bip_39_word_no_space_7 | callengineelitemarriagetelloysterradar |  
+| bip_39_word_no_space_8 | callengineelitemarriagetelloysterradarwater |  
+| bip_39_word_no_space_9 | callengineelitemarriagetelloysterradarwateruphold |  
 | bip_39_word_space_0 | ['call', 'engine', 'elite', 'marriage', 'tell', 'oyster', 'radar', 'water', 'uphold', 'novel', 'begin', 'average'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call engine elite marriage tell oyster radar water uphold novel |  

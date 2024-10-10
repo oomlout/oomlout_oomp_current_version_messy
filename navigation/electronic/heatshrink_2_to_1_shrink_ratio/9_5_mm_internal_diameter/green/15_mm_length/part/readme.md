@@ -122,6 +122,18 @@ praise
 soon
 doctor
 cost |  
+| bip_39_word_no_space_1 | mesh |  
+| bip_39_word_no_space_10 | meshantennachefflagpipepraisesoondoctorcostderive |  
+| bip_39_word_no_space_11 | meshantennachefflagpipepraisesoondoctorcostderiveyoung |  
+| bip_39_word_no_space_12 | meshantennachefflagpipepraisesoondoctorcostderiveyoungappear |  
+| bip_39_word_no_space_2 | meshantenna |  
+| bip_39_word_no_space_3 | meshantennachef |  
+| bip_39_word_no_space_4 | meshantennachefflag |  
+| bip_39_word_no_space_5 | meshantennachefflagpipe |  
+| bip_39_word_no_space_6 | meshantennachefflagpipepraise |  
+| bip_39_word_no_space_7 | meshantennachefflagpipepraisesoon |  
+| bip_39_word_no_space_8 | meshantennachefflagpipepraisesoondoctor |  
+| bip_39_word_no_space_9 | meshantennachefflagpipepraisesoondoctorcost |  
 | bip_39_word_space_0 | ['mesh', 'antenna', 'chef', 'flag', 'pipe', 'praise', 'soon', 'doctor', 'cost', 'derive', 'young', 'appear'] |  
 | bip_39_word_space_1 | mesh |  
 | bip_39_word_space_10 | mesh antenna chef flag pipe praise soon doctor cost derive |  

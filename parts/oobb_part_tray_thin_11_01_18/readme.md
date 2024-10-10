@@ -122,6 +122,18 @@ mosquito
 camera
 nominee
 solution |  
+| bip_39_word_no_space_1 | physical |  
+| bip_39_word_no_space_10 | physicalbottomspatialrubberexpectmosquitocameranomineesolutionhealth |  
+| bip_39_word_no_space_11 | physicalbottomspatialrubberexpectmosquitocameranomineesolutionhealthtrouble |  
+| bip_39_word_no_space_12 | physicalbottomspatialrubberexpectmosquitocameranomineesolutionhealthtroubleaudit |  
+| bip_39_word_no_space_2 | physicalbottom |  
+| bip_39_word_no_space_3 | physicalbottomspatial |  
+| bip_39_word_no_space_4 | physicalbottomspatialrubber |  
+| bip_39_word_no_space_5 | physicalbottomspatialrubberexpect |  
+| bip_39_word_no_space_6 | physicalbottomspatialrubberexpectmosquito |  
+| bip_39_word_no_space_7 | physicalbottomspatialrubberexpectmosquitocamera |  
+| bip_39_word_no_space_8 | physicalbottomspatialrubberexpectmosquitocameranominee |  
+| bip_39_word_no_space_9 | physicalbottomspatialrubberexpectmosquitocameranomineesolution |  
 | bip_39_word_space_0 | ['physical', 'bottom', 'spatial', 'rubber', 'expect', 'mosquito', 'camera', 'nominee', 'solution', 'health', 'trouble', 'audit'] |  
 | bip_39_word_space_1 | physical |  
 | bip_39_word_space_10 | physical bottom spatial rubber expect mosquito camera nominee solution health |  

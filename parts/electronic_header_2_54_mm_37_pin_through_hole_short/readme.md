@@ -122,6 +122,18 @@ over
 tape
 reunion
 base |  
+| bip_39_word_no_space_1 | law |  
+| bip_39_word_no_space_10 | lawsaltpuddingreformforgetovertapereunionbasethank |  
+| bip_39_word_no_space_11 | lawsaltpuddingreformforgetovertapereunionbasethankmoon |  
+| bip_39_word_no_space_12 | lawsaltpuddingreformforgetovertapereunionbasethankmoonalready |  
+| bip_39_word_no_space_2 | lawsalt |  
+| bip_39_word_no_space_3 | lawsaltpudding |  
+| bip_39_word_no_space_4 | lawsaltpuddingreform |  
+| bip_39_word_no_space_5 | lawsaltpuddingreformforget |  
+| bip_39_word_no_space_6 | lawsaltpuddingreformforgetover |  
+| bip_39_word_no_space_7 | lawsaltpuddingreformforgetovertape |  
+| bip_39_word_no_space_8 | lawsaltpuddingreformforgetovertapereunion |  
+| bip_39_word_no_space_9 | lawsaltpuddingreformforgetovertapereunionbase |  
 | bip_39_word_space_0 | ['law', 'salt', 'pudding', 'reform', 'forget', 'over', 'tape', 'reunion', 'base', 'thank', 'moon', 'already'] |  
 | bip_39_word_space_1 | law |  
 | bip_39_word_space_10 | law salt pudding reform forget over tape reunion base thank |  

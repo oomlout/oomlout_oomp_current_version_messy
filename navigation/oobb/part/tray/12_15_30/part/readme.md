@@ -122,6 +122,18 @@ winter
 lens
 loud
 hen |  
+| bip_39_word_no_space_1 | gasp |  
+| bip_39_word_no_space_10 | gaspportionbrotherremindfloorwinterlensloudhendrama |  
+| bip_39_word_no_space_11 | gaspportionbrotherremindfloorwinterlensloudhendramalevel |  
+| bip_39_word_no_space_12 | gaspportionbrotherremindfloorwinterlensloudhendramalevelactual |  
+| bip_39_word_no_space_2 | gaspportion |  
+| bip_39_word_no_space_3 | gaspportionbrother |  
+| bip_39_word_no_space_4 | gaspportionbrotherremind |  
+| bip_39_word_no_space_5 | gaspportionbrotherremindfloor |  
+| bip_39_word_no_space_6 | gaspportionbrotherremindfloorwinter |  
+| bip_39_word_no_space_7 | gaspportionbrotherremindfloorwinterlens |  
+| bip_39_word_no_space_8 | gaspportionbrotherremindfloorwinterlensloud |  
+| bip_39_word_no_space_9 | gaspportionbrotherremindfloorwinterlensloudhen |  
 | bip_39_word_space_0 | ['gasp', 'portion', 'brother', 'remind', 'floor', 'winter', 'lens', 'loud', 'hen', 'drama', 'level', 'actual'] |  
 | bip_39_word_space_1 | gasp |  
 | bip_39_word_space_10 | gasp portion brother remind floor winter lens loud hen drama |  

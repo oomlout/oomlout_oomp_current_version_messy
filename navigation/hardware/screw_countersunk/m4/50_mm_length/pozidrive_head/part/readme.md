@@ -122,6 +122,18 @@ sound
 cloud
 boy
 blossom |  
+| bip_39_word_no_space_1 | session |  
+| bip_39_word_no_space_10 | sessiontorchcraterundobirthsoundcloudboyblossomissue |  
+| bip_39_word_no_space_11 | sessiontorchcraterundobirthsoundcloudboyblossomissueremember |  
+| bip_39_word_no_space_12 | sessiontorchcraterundobirthsoundcloudboyblossomissuerememberaffair |  
+| bip_39_word_no_space_2 | sessiontorch |  
+| bip_39_word_no_space_3 | sessiontorchcrater |  
+| bip_39_word_no_space_4 | sessiontorchcraterundo |  
+| bip_39_word_no_space_5 | sessiontorchcraterundobirth |  
+| bip_39_word_no_space_6 | sessiontorchcraterundobirthsound |  
+| bip_39_word_no_space_7 | sessiontorchcraterundobirthsoundcloud |  
+| bip_39_word_no_space_8 | sessiontorchcraterundobirthsoundcloudboy |  
+| bip_39_word_no_space_9 | sessiontorchcraterundobirthsoundcloudboyblossom |  
 | bip_39_word_space_0 | ['session', 'torch', 'crater', 'undo', 'birth', 'sound', 'cloud', 'boy', 'blossom', 'issue', 'remember', 'affair'] |  
 | bip_39_word_space_1 | session |  
 | bip_39_word_space_10 | session torch crater undo birth sound cloud boy blossom issue |  

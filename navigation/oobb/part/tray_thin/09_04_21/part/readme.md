@@ -122,6 +122,18 @@ candy
 replace
 toward
 hotel |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slenderreopenfrequentcanpridecandyreplacetowardhotelviolin |  
+| bip_39_word_no_space_11 | slenderreopenfrequentcanpridecandyreplacetowardhotelviolinmiddle |  
+| bip_39_word_no_space_12 | slenderreopenfrequentcanpridecandyreplacetowardhotelviolinmiddleauction |  
+| bip_39_word_no_space_2 | slenderreopen |  
+| bip_39_word_no_space_3 | slenderreopenfrequent |  
+| bip_39_word_no_space_4 | slenderreopenfrequentcan |  
+| bip_39_word_no_space_5 | slenderreopenfrequentcanpride |  
+| bip_39_word_no_space_6 | slenderreopenfrequentcanpridecandy |  
+| bip_39_word_no_space_7 | slenderreopenfrequentcanpridecandyreplace |  
+| bip_39_word_no_space_8 | slenderreopenfrequentcanpridecandyreplacetoward |  
+| bip_39_word_no_space_9 | slenderreopenfrequentcanpridecandyreplacetowardhotel |  
 | bip_39_word_space_0 | ['slender', 'reopen', 'frequent', 'can', 'pride', 'candy', 'replace', 'toward', 'hotel', 'violin', 'middle', 'auction'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender reopen frequent can pride candy replace toward hotel violin |  

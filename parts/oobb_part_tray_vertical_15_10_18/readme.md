@@ -122,6 +122,18 @@ meadow
 whip
 solution
 guilt |  
+| bip_39_word_no_space_1 | menu |  
+| bip_39_word_no_space_10 | menumotherwaitinjuryvotemeadowwhipsolutionguiltfloat |  
+| bip_39_word_no_space_11 | menumotherwaitinjuryvotemeadowwhipsolutionguiltfloatcan |  
+| bip_39_word_no_space_12 | menumotherwaitinjuryvotemeadowwhipsolutionguiltfloatcanaction |  
+| bip_39_word_no_space_2 | menumother |  
+| bip_39_word_no_space_3 | menumotherwait |  
+| bip_39_word_no_space_4 | menumotherwaitinjury |  
+| bip_39_word_no_space_5 | menumotherwaitinjuryvote |  
+| bip_39_word_no_space_6 | menumotherwaitinjuryvotemeadow |  
+| bip_39_word_no_space_7 | menumotherwaitinjuryvotemeadowwhip |  
+| bip_39_word_no_space_8 | menumotherwaitinjuryvotemeadowwhipsolution |  
+| bip_39_word_no_space_9 | menumotherwaitinjuryvotemeadowwhipsolutionguilt |  
 | bip_39_word_space_0 | ['menu', 'mother', 'wait', 'injury', 'vote', 'meadow', 'whip', 'solution', 'guilt', 'float', 'can', 'action'] |  
 | bip_39_word_space_1 | menu |  
 | bip_39_word_space_10 | menu mother wait injury vote meadow whip solution guilt float |  

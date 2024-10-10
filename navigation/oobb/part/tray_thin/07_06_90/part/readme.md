@@ -122,6 +122,18 @@ scheme
 vintage
 brave
 version |  
+| bip_39_word_no_space_1 | affair |  
+| bip_39_word_no_space_10 | affaircyclenightcanoeemergeschemevintagebraveversioncourse |  
+| bip_39_word_no_space_11 | affaircyclenightcanoeemergeschemevintagebraveversioncoursesalmon |  
+| bip_39_word_no_space_12 | affaircyclenightcanoeemergeschemevintagebraveversioncoursesalmonankle |  
+| bip_39_word_no_space_2 | affaircycle |  
+| bip_39_word_no_space_3 | affaircyclenight |  
+| bip_39_word_no_space_4 | affaircyclenightcanoe |  
+| bip_39_word_no_space_5 | affaircyclenightcanoeemerge |  
+| bip_39_word_no_space_6 | affaircyclenightcanoeemergescheme |  
+| bip_39_word_no_space_7 | affaircyclenightcanoeemergeschemevintage |  
+| bip_39_word_no_space_8 | affaircyclenightcanoeemergeschemevintagebrave |  
+| bip_39_word_no_space_9 | affaircyclenightcanoeemergeschemevintagebraveversion |  
 | bip_39_word_space_0 | ['affair', 'cycle', 'night', 'canoe', 'emerge', 'scheme', 'vintage', 'brave', 'version', 'course', 'salmon', 'ankle'] |  
 | bip_39_word_space_1 | affair |  
 | bip_39_word_space_10 | affair cycle night canoe emerge scheme vintage brave version course |  

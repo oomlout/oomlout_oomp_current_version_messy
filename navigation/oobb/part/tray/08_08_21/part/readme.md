@@ -122,6 +122,18 @@ shock
 unit
 ancient
 artefact |  
+| bip_39_word_no_space_1 | tone |  
+| bip_39_word_no_space_10 | toneholdabilityhockeyeraseshockunitancientartefactexotic |  
+| bip_39_word_no_space_11 | toneholdabilityhockeyeraseshockunitancientartefactexoticdismiss |  
+| bip_39_word_no_space_12 | toneholdabilityhockeyeraseshockunitancientartefactexoticdismissart |  
+| bip_39_word_no_space_2 | tonehold |  
+| bip_39_word_no_space_3 | toneholdability |  
+| bip_39_word_no_space_4 | toneholdabilityhockey |  
+| bip_39_word_no_space_5 | toneholdabilityhockeyerase |  
+| bip_39_word_no_space_6 | toneholdabilityhockeyeraseshock |  
+| bip_39_word_no_space_7 | toneholdabilityhockeyeraseshockunit |  
+| bip_39_word_no_space_8 | toneholdabilityhockeyeraseshockunitancient |  
+| bip_39_word_no_space_9 | toneholdabilityhockeyeraseshockunitancientartefact |  
 | bip_39_word_space_0 | ['tone', 'hold', 'ability', 'hockey', 'erase', 'shock', 'unit', 'ancient', 'artefact', 'exotic', 'dismiss', 'art'] |  
 | bip_39_word_space_1 | tone |  
 | bip_39_word_space_10 | tone hold ability hockey erase shock unit ancient artefact exotic |  

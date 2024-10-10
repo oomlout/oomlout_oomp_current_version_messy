@@ -122,6 +122,18 @@ hurt
 habit
 glory
 blade |  
+| bip_39_word_no_space_1 | wild |  
+| bip_39_word_no_space_10 | wildinsanegrocerylessonswordhurthabitglorybladefamily |  
+| bip_39_word_no_space_11 | wildinsanegrocerylessonswordhurthabitglorybladefamilynorth |  
+| bip_39_word_no_space_12 | wildinsanegrocerylessonswordhurthabitglorybladefamilynorthamateur |  
+| bip_39_word_no_space_2 | wildinsane |  
+| bip_39_word_no_space_3 | wildinsanegrocery |  
+| bip_39_word_no_space_4 | wildinsanegrocerylesson |  
+| bip_39_word_no_space_5 | wildinsanegrocerylessonsword |  
+| bip_39_word_no_space_6 | wildinsanegrocerylessonswordhurt |  
+| bip_39_word_no_space_7 | wildinsanegrocerylessonswordhurthabit |  
+| bip_39_word_no_space_8 | wildinsanegrocerylessonswordhurthabitglory |  
+| bip_39_word_no_space_9 | wildinsanegrocerylessonswordhurthabitgloryblade |  
 | bip_39_word_space_0 | ['wild', 'insane', 'grocery', 'lesson', 'sword', 'hurt', 'habit', 'glory', 'blade', 'family', 'north', 'amateur'] |  
 | bip_39_word_space_1 | wild |  
 | bip_39_word_space_10 | wild insane grocery lesson sword hurt habit glory blade family |  

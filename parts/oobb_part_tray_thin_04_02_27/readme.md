@@ -122,6 +122,18 @@ tent
 door
 forward
 chief |  
+| bip_39_word_no_space_1 | wagon |  
+| bip_39_word_no_space_10 | wagonsharestadiumtreepigeontentdoorforwardchiefblue |  
+| bip_39_word_no_space_11 | wagonsharestadiumtreepigeontentdoorforwardchiefbluelife |  
+| bip_39_word_no_space_12 | wagonsharestadiumtreepigeontentdoorforwardchiefbluelifeamateur |  
+| bip_39_word_no_space_2 | wagonshare |  
+| bip_39_word_no_space_3 | wagonsharestadium |  
+| bip_39_word_no_space_4 | wagonsharestadiumtree |  
+| bip_39_word_no_space_5 | wagonsharestadiumtreepigeon |  
+| bip_39_word_no_space_6 | wagonsharestadiumtreepigeontent |  
+| bip_39_word_no_space_7 | wagonsharestadiumtreepigeontentdoor |  
+| bip_39_word_no_space_8 | wagonsharestadiumtreepigeontentdoorforward |  
+| bip_39_word_no_space_9 | wagonsharestadiumtreepigeontentdoorforwardchief |  
 | bip_39_word_space_0 | ['wagon', 'share', 'stadium', 'tree', 'pigeon', 'tent', 'door', 'forward', 'chief', 'blue', 'life', 'amateur'] |  
 | bip_39_word_space_1 | wagon |  
 | bip_39_word_space_10 | wagon share stadium tree pigeon tent door forward chief blue |  

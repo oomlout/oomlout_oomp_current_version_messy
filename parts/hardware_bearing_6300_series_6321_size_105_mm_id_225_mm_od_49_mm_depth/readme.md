@@ -122,6 +122,18 @@ access
 thought
 general
 tide |  
+| bip_39_word_no_space_1 | broom |  
+| bip_39_word_no_space_10 | broomphotoessayinmatevideoaccessthoughtgeneraltidenever |  
+| bip_39_word_no_space_11 | broomphotoessayinmatevideoaccessthoughtgeneraltideneversecret |  
+| bip_39_word_no_space_12 | broomphotoessayinmatevideoaccessthoughtgeneraltideneversecretaim |  
+| bip_39_word_no_space_2 | broomphoto |  
+| bip_39_word_no_space_3 | broomphotoessay |  
+| bip_39_word_no_space_4 | broomphotoessayinmate |  
+| bip_39_word_no_space_5 | broomphotoessayinmatevideo |  
+| bip_39_word_no_space_6 | broomphotoessayinmatevideoaccess |  
+| bip_39_word_no_space_7 | broomphotoessayinmatevideoaccessthought |  
+| bip_39_word_no_space_8 | broomphotoessayinmatevideoaccessthoughtgeneral |  
+| bip_39_word_no_space_9 | broomphotoessayinmatevideoaccessthoughtgeneraltide |  
 | bip_39_word_space_0 | ['broom', 'photo', 'essay', 'inmate', 'video', 'access', 'thought', 'general', 'tide', 'never', 'secret', 'aim'] |  
 | bip_39_word_space_1 | broom |  
 | bip_39_word_space_10 | broom photo essay inmate video access thought general tide never |  

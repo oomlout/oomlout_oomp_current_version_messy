@@ -122,6 +122,18 @@ mail
 picture
 distance
 midnight |  
+| bip_39_word_no_space_1 | file |  
+| bip_39_word_no_space_10 | filezerolabelblastrainmailpicturedistancemidnightouter |  
+| bip_39_word_no_space_11 | filezerolabelblastrainmailpicturedistancemidnightouterengage |  
+| bip_39_word_no_space_12 | filezerolabelblastrainmailpicturedistancemidnightouterengagearrive |  
+| bip_39_word_no_space_2 | filezero |  
+| bip_39_word_no_space_3 | filezerolabel |  
+| bip_39_word_no_space_4 | filezerolabelblast |  
+| bip_39_word_no_space_5 | filezerolabelblastrain |  
+| bip_39_word_no_space_6 | filezerolabelblastrainmail |  
+| bip_39_word_no_space_7 | filezerolabelblastrainmailpicture |  
+| bip_39_word_no_space_8 | filezerolabelblastrainmailpicturedistance |  
+| bip_39_word_no_space_9 | filezerolabelblastrainmailpicturedistancemidnight |  
 | bip_39_word_space_0 | ['file', 'zero', 'label', 'blast', 'rain', 'mail', 'picture', 'distance', 'midnight', 'outer', 'engage', 'arrive'] |  
 | bip_39_word_space_1 | file |  
 | bip_39_word_space_10 | file zero label blast rain mail picture distance midnight outer |  

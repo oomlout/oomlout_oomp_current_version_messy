@@ -122,6 +122,18 @@ inflict
 acquire
 main
 strong |  
+| bip_39_word_no_space_1 | whisper |  
+| bip_39_word_no_space_10 | whispergluejoinsiblingmarbleinflictacquiremainstrongcruise |  
+| bip_39_word_no_space_11 | whispergluejoinsiblingmarbleinflictacquiremainstrongcruisetask |  
+| bip_39_word_no_space_12 | whispergluejoinsiblingmarbleinflictacquiremainstrongcruisetaskatom |  
+| bip_39_word_no_space_2 | whisperglue |  
+| bip_39_word_no_space_3 | whispergluejoin |  
+| bip_39_word_no_space_4 | whispergluejoinsibling |  
+| bip_39_word_no_space_5 | whispergluejoinsiblingmarble |  
+| bip_39_word_no_space_6 | whispergluejoinsiblingmarbleinflict |  
+| bip_39_word_no_space_7 | whispergluejoinsiblingmarbleinflictacquire |  
+| bip_39_word_no_space_8 | whispergluejoinsiblingmarbleinflictacquiremain |  
+| bip_39_word_no_space_9 | whispergluejoinsiblingmarbleinflictacquiremainstrong |  
 | bip_39_word_space_0 | ['whisper', 'glue', 'join', 'sibling', 'marble', 'inflict', 'acquire', 'main', 'strong', 'cruise', 'task', 'atom'] |  
 | bip_39_word_space_1 | whisper |  
 | bip_39_word_space_10 | whisper glue join sibling marble inflict acquire main strong cruise |  

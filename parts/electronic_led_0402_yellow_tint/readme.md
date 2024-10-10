@@ -122,6 +122,18 @@ auto
 float
 salon
 mind |  
+| bip_39_word_no_space_1 | believe |  
+| bip_39_word_no_space_10 | believewhatnutpaymentrepeatautofloatsalonmindpeople |  
+| bip_39_word_no_space_11 | believewhatnutpaymentrepeatautofloatsalonmindpeoplerural |  
+| bip_39_word_no_space_12 | believewhatnutpaymentrepeatautofloatsalonmindpeopleruralalter |  
+| bip_39_word_no_space_2 | believewhat |  
+| bip_39_word_no_space_3 | believewhatnut |  
+| bip_39_word_no_space_4 | believewhatnutpayment |  
+| bip_39_word_no_space_5 | believewhatnutpaymentrepeat |  
+| bip_39_word_no_space_6 | believewhatnutpaymentrepeatauto |  
+| bip_39_word_no_space_7 | believewhatnutpaymentrepeatautofloat |  
+| bip_39_word_no_space_8 | believewhatnutpaymentrepeatautofloatsalon |  
+| bip_39_word_no_space_9 | believewhatnutpaymentrepeatautofloatsalonmind |  
 | bip_39_word_space_0 | ['believe', 'what', 'nut', 'payment', 'repeat', 'auto', 'float', 'salon', 'mind', 'people', 'rural', 'alter'] |  
 | bip_39_word_space_1 | believe |  
 | bip_39_word_space_10 | believe what nut payment repeat auto float salon mind people |  

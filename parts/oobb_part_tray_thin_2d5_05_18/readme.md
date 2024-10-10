@@ -122,6 +122,18 @@ various
 blame
 ecology
 annual |  
+| bip_39_word_no_space_1 | essence |  
+| bip_39_word_no_space_10 | essenceinsanesustaintrulydefyvariousblameecologyannualparent |  
+| bip_39_word_no_space_11 | essenceinsanesustaintrulydefyvariousblameecologyannualparentweird |  
+| bip_39_word_no_space_12 | essenceinsanesustaintrulydefyvariousblameecologyannualparentweirdaunt |  
+| bip_39_word_no_space_2 | essenceinsane |  
+| bip_39_word_no_space_3 | essenceinsanesustain |  
+| bip_39_word_no_space_4 | essenceinsanesustaintruly |  
+| bip_39_word_no_space_5 | essenceinsanesustaintrulydefy |  
+| bip_39_word_no_space_6 | essenceinsanesustaintrulydefyvarious |  
+| bip_39_word_no_space_7 | essenceinsanesustaintrulydefyvariousblame |  
+| bip_39_word_no_space_8 | essenceinsanesustaintrulydefyvariousblameecology |  
+| bip_39_word_no_space_9 | essenceinsanesustaintrulydefyvariousblameecologyannual |  
 | bip_39_word_space_0 | ['essence', 'insane', 'sustain', 'truly', 'defy', 'various', 'blame', 'ecology', 'annual', 'parent', 'weird', 'aunt'] |  
 | bip_39_word_space_1 | essence |  
 | bip_39_word_space_10 | essence insane sustain truly defy various blame ecology annual parent |  

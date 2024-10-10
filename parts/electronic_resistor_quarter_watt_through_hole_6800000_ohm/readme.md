@@ -122,6 +122,18 @@ pond
 cry
 cruel
 mesh |  
+| bip_39_word_no_space_1 | elevator |  
+| bip_39_word_no_space_10 | elevatorcookdropsyruptonguepondcrycruelmeshwater |  
+| bip_39_word_no_space_11 | elevatorcookdropsyruptonguepondcrycruelmeshwaterimitate |  
+| bip_39_word_no_space_12 | elevatorcookdropsyruptonguepondcrycruelmeshwaterimitatearena |  
+| bip_39_word_no_space_2 | elevatorcook |  
+| bip_39_word_no_space_3 | elevatorcookdrop |  
+| bip_39_word_no_space_4 | elevatorcookdropsyrup |  
+| bip_39_word_no_space_5 | elevatorcookdropsyruptongue |  
+| bip_39_word_no_space_6 | elevatorcookdropsyruptonguepond |  
+| bip_39_word_no_space_7 | elevatorcookdropsyruptonguepondcry |  
+| bip_39_word_no_space_8 | elevatorcookdropsyruptonguepondcrycruel |  
+| bip_39_word_no_space_9 | elevatorcookdropsyruptonguepondcrycruelmesh |  
 | bip_39_word_space_0 | ['elevator', 'cook', 'drop', 'syrup', 'tongue', 'pond', 'cry', 'cruel', 'mesh', 'water', 'imitate', 'arena'] |  
 | bip_39_word_space_1 | elevator |  
 | bip_39_word_space_10 | elevator cook drop syrup tongue pond cry cruel mesh water |  

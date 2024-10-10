@@ -122,6 +122,18 @@ enact
 room
 shadow
 tobacco |  
+| bip_39_word_no_space_1 | february |  
+| bip_39_word_no_space_10 | februarygeniusbeltaislesituateenactroomshadowtobaccoorphan |  
+| bip_39_word_no_space_11 | februarygeniusbeltaislesituateenactroomshadowtobaccoorphanslogan |  
+| bip_39_word_no_space_12 | februarygeniusbeltaislesituateenactroomshadowtobaccoorphansloganancient |  
+| bip_39_word_no_space_2 | februarygenius |  
+| bip_39_word_no_space_3 | februarygeniusbelt |  
+| bip_39_word_no_space_4 | februarygeniusbeltaisle |  
+| bip_39_word_no_space_5 | februarygeniusbeltaislesituate |  
+| bip_39_word_no_space_6 | februarygeniusbeltaislesituateenact |  
+| bip_39_word_no_space_7 | februarygeniusbeltaislesituateenactroom |  
+| bip_39_word_no_space_8 | februarygeniusbeltaislesituateenactroomshadow |  
+| bip_39_word_no_space_9 | februarygeniusbeltaislesituateenactroomshadowtobacco |  
 | bip_39_word_space_0 | ['february', 'genius', 'belt', 'aisle', 'situate', 'enact', 'room', 'shadow', 'tobacco', 'orphan', 'slogan', 'ancient'] |  
 | bip_39_word_space_1 | february |  
 | bip_39_word_space_10 | february genius belt aisle situate enact room shadow tobacco orphan |  

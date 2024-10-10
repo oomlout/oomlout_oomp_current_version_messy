@@ -122,6 +122,18 @@ unfold
 bitter
 wild
 decorate |  
+| bip_39_word_no_space_1 | denial |  
+| bip_39_word_no_space_10 | denialpuppycargourgeshineunfoldbitterwilddecoratekiwi |  
+| bip_39_word_no_space_11 | denialpuppycargourgeshineunfoldbitterwilddecoratekiwiframe |  
+| bip_39_word_no_space_12 | denialpuppycargourgeshineunfoldbitterwilddecoratekiwiframeautumn |  
+| bip_39_word_no_space_2 | denialpuppy |  
+| bip_39_word_no_space_3 | denialpuppycargo |  
+| bip_39_word_no_space_4 | denialpuppycargourge |  
+| bip_39_word_no_space_5 | denialpuppycargourgeshine |  
+| bip_39_word_no_space_6 | denialpuppycargourgeshineunfold |  
+| bip_39_word_no_space_7 | denialpuppycargourgeshineunfoldbitter |  
+| bip_39_word_no_space_8 | denialpuppycargourgeshineunfoldbitterwild |  
+| bip_39_word_no_space_9 | denialpuppycargourgeshineunfoldbitterwilddecorate |  
 | bip_39_word_space_0 | ['denial', 'puppy', 'cargo', 'urge', 'shine', 'unfold', 'bitter', 'wild', 'decorate', 'kiwi', 'frame', 'autumn'] |  
 | bip_39_word_space_1 | denial |  
 | bip_39_word_space_10 | denial puppy cargo urge shine unfold bitter wild decorate kiwi |  

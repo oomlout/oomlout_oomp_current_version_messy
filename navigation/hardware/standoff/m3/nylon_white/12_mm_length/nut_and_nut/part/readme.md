@@ -122,6 +122,18 @@ spirit
 iron
 rival
 mail |  
+| bip_39_word_no_space_1 | wait |  
+| bip_39_word_no_space_10 | waitbleakbenefitundergeniusspiritironrivalmailcarbon |  
+| bip_39_word_no_space_11 | waitbleakbenefitundergeniusspiritironrivalmailcarbonmajor |  
+| bip_39_word_no_space_12 | waitbleakbenefitundergeniusspiritironrivalmailcarbonmajorargue |  
+| bip_39_word_no_space_2 | waitbleak |  
+| bip_39_word_no_space_3 | waitbleakbenefit |  
+| bip_39_word_no_space_4 | waitbleakbenefitunder |  
+| bip_39_word_no_space_5 | waitbleakbenefitundergenius |  
+| bip_39_word_no_space_6 | waitbleakbenefitundergeniusspirit |  
+| bip_39_word_no_space_7 | waitbleakbenefitundergeniusspiritiron |  
+| bip_39_word_no_space_8 | waitbleakbenefitundergeniusspiritironrival |  
+| bip_39_word_no_space_9 | waitbleakbenefitundergeniusspiritironrivalmail |  
 | bip_39_word_space_0 | ['wait', 'bleak', 'benefit', 'under', 'genius', 'spirit', 'iron', 'rival', 'mail', 'carbon', 'major', 'argue'] |  
 | bip_39_word_space_1 | wait |  
 | bip_39_word_space_10 | wait bleak benefit under genius spirit iron rival mail carbon |  

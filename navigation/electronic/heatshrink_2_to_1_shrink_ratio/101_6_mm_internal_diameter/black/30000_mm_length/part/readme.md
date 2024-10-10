@@ -122,6 +122,18 @@ leg
 teach
 bench
 ocean |  
+| bip_39_word_no_space_1 | move |  
+| bip_39_word_no_space_10 | movesolutionstepswamperodelegteachbenchoceansupreme |  
+| bip_39_word_no_space_11 | movesolutionstepswamperodelegteachbenchoceansupremequit |  
+| bip_39_word_no_space_12 | movesolutionstepswamperodelegteachbenchoceansupremequitauction |  
+| bip_39_word_no_space_2 | movesolution |  
+| bip_39_word_no_space_3 | movesolutionstep |  
+| bip_39_word_no_space_4 | movesolutionstepswamp |  
+| bip_39_word_no_space_5 | movesolutionstepswamperode |  
+| bip_39_word_no_space_6 | movesolutionstepswamperodeleg |  
+| bip_39_word_no_space_7 | movesolutionstepswamperodelegteach |  
+| bip_39_word_no_space_8 | movesolutionstepswamperodelegteachbench |  
+| bip_39_word_no_space_9 | movesolutionstepswamperodelegteachbenchocean |  
 | bip_39_word_space_0 | ['move', 'solution', 'step', 'swamp', 'erode', 'leg', 'teach', 'bench', 'ocean', 'supreme', 'quit', 'auction'] |  
 | bip_39_word_space_1 | move |  
 | bip_39_word_space_10 | move solution step swamp erode leg teach bench ocean supreme |  

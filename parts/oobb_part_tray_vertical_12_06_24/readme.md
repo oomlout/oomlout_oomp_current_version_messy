@@ -122,6 +122,18 @@ vote
 paddle
 fault
 govern |  
+| bip_39_word_no_space_1 | cactus |  
+| bip_39_word_no_space_10 | cactustonefingerdrillvacantvotepaddlefaultgovernsearch |  
+| bip_39_word_no_space_11 | cactustonefingerdrillvacantvotepaddlefaultgovernsearchnetwork |  
+| bip_39_word_no_space_12 | cactustonefingerdrillvacantvotepaddlefaultgovernsearchnetworkanimal |  
+| bip_39_word_no_space_2 | cactustone |  
+| bip_39_word_no_space_3 | cactustonefinger |  
+| bip_39_word_no_space_4 | cactustonefingerdrill |  
+| bip_39_word_no_space_5 | cactustonefingerdrillvacant |  
+| bip_39_word_no_space_6 | cactustonefingerdrillvacantvote |  
+| bip_39_word_no_space_7 | cactustonefingerdrillvacantvotepaddle |  
+| bip_39_word_no_space_8 | cactustonefingerdrillvacantvotepaddlefault |  
+| bip_39_word_no_space_9 | cactustonefingerdrillvacantvotepaddlefaultgovern |  
 | bip_39_word_space_0 | ['cactus', 'tone', 'finger', 'drill', 'vacant', 'vote', 'paddle', 'fault', 'govern', 'search', 'network', 'animal'] |  
 | bip_39_word_space_1 | cactus |  
 | bip_39_word_space_10 | cactus tone finger drill vacant vote paddle fault govern search |  

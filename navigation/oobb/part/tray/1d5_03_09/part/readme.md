@@ -122,6 +122,18 @@ pill
 zero
 turkey
 churn |  
+| bip_39_word_no_space_1 | behave |  
+| bip_39_word_no_space_10 | behaveaislebeginflowerdepartpillzeroturkeychurntobacco |  
+| bip_39_word_no_space_11 | behaveaislebeginflowerdepartpillzeroturkeychurntobaccoconduct |  
+| bip_39_word_no_space_12 | behaveaislebeginflowerdepartpillzeroturkeychurntobaccoconductarrest |  
+| bip_39_word_no_space_2 | behaveaisle |  
+| bip_39_word_no_space_3 | behaveaislebegin |  
+| bip_39_word_no_space_4 | behaveaislebeginflower |  
+| bip_39_word_no_space_5 | behaveaislebeginflowerdepart |  
+| bip_39_word_no_space_6 | behaveaislebeginflowerdepartpill |  
+| bip_39_word_no_space_7 | behaveaislebeginflowerdepartpillzero |  
+| bip_39_word_no_space_8 | behaveaislebeginflowerdepartpillzeroturkey |  
+| bip_39_word_no_space_9 | behaveaislebeginflowerdepartpillzeroturkeychurn |  
 | bip_39_word_space_0 | ['behave', 'aisle', 'begin', 'flower', 'depart', 'pill', 'zero', 'turkey', 'churn', 'tobacco', 'conduct', 'arrest'] |  
 | bip_39_word_space_1 | behave |  
 | bip_39_word_space_10 | behave aisle begin flower depart pill zero turkey churn tobacco |  

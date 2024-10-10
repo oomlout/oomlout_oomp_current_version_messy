@@ -122,6 +122,18 @@ voyage
 pole
 tray
 angle |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideabroomhairshrimpweaselvoyagepoletrayanglewalnut |  
+| bip_39_word_no_space_11 | ideabroomhairshrimpweaselvoyagepoletrayanglewalnutsnack |  
+| bip_39_word_no_space_12 | ideabroomhairshrimpweaselvoyagepoletrayanglewalnutsnackalarm |  
+| bip_39_word_no_space_2 | ideabroom |  
+| bip_39_word_no_space_3 | ideabroomhair |  
+| bip_39_word_no_space_4 | ideabroomhairshrimp |  
+| bip_39_word_no_space_5 | ideabroomhairshrimpweasel |  
+| bip_39_word_no_space_6 | ideabroomhairshrimpweaselvoyage |  
+| bip_39_word_no_space_7 | ideabroomhairshrimpweaselvoyagepole |  
+| bip_39_word_no_space_8 | ideabroomhairshrimpweaselvoyagepoletray |  
+| bip_39_word_no_space_9 | ideabroomhairshrimpweaselvoyagepoletrayangle |  
 | bip_39_word_space_0 | ['idea', 'broom', 'hair', 'shrimp', 'weasel', 'voyage', 'pole', 'tray', 'angle', 'walnut', 'snack', 'alarm'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea broom hair shrimp weasel voyage pole tray angle walnut |  

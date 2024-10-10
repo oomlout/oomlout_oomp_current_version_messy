@@ -122,6 +122,18 @@ citizen
 soft
 own
 stem |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblepursedrastictrapneckcitizensoftownstemupdate |  
+| bip_39_word_no_space_11 | resemblepursedrastictrapneckcitizensoftownstemupdatemuch |  
+| bip_39_word_no_space_12 | resemblepursedrastictrapneckcitizensoftownstemupdatemuchadmit |  
+| bip_39_word_no_space_2 | resemblepurse |  
+| bip_39_word_no_space_3 | resemblepursedrastic |  
+| bip_39_word_no_space_4 | resemblepursedrastictrap |  
+| bip_39_word_no_space_5 | resemblepursedrastictrapneck |  
+| bip_39_word_no_space_6 | resemblepursedrastictrapneckcitizen |  
+| bip_39_word_no_space_7 | resemblepursedrastictrapneckcitizensoft |  
+| bip_39_word_no_space_8 | resemblepursedrastictrapneckcitizensoftown |  
+| bip_39_word_no_space_9 | resemblepursedrastictrapneckcitizensoftownstem |  
 | bip_39_word_space_0 | ['resemble', 'purse', 'drastic', 'trap', 'neck', 'citizen', 'soft', 'own', 'stem', 'update', 'much', 'admit'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble purse drastic trap neck citizen soft own stem update |  

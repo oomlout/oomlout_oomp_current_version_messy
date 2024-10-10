@@ -122,6 +122,18 @@ term
 industry
 extra
 target |  
+| bip_39_word_no_space_1 | digital |  
+| bip_39_word_no_space_10 | digitalchimneylicensecreekneartermindustryextratargetostrich |  
+| bip_39_word_no_space_11 | digitalchimneylicensecreekneartermindustryextratargetostrichprefer |  
+| bip_39_word_no_space_12 | digitalchimneylicensecreekneartermindustryextratargetostrichpreferairport |  
+| bip_39_word_no_space_2 | digitalchimney |  
+| bip_39_word_no_space_3 | digitalchimneylicense |  
+| bip_39_word_no_space_4 | digitalchimneylicensecreek |  
+| bip_39_word_no_space_5 | digitalchimneylicensecreeknear |  
+| bip_39_word_no_space_6 | digitalchimneylicensecreeknearterm |  
+| bip_39_word_no_space_7 | digitalchimneylicensecreekneartermindustry |  
+| bip_39_word_no_space_8 | digitalchimneylicensecreekneartermindustryextra |  
+| bip_39_word_no_space_9 | digitalchimneylicensecreekneartermindustryextratarget |  
 | bip_39_word_space_0 | ['digital', 'chimney', 'license', 'creek', 'near', 'term', 'industry', 'extra', 'target', 'ostrich', 'prefer', 'airport'] |  
 | bip_39_word_space_1 | digital |  
 | bip_39_word_space_10 | digital chimney license creek near term industry extra target ostrich |  

@@ -122,6 +122,18 @@ dish
 cluster
 profit
 elevator |  
+| bip_39_word_no_space_1 | unaware |  
+| bip_39_word_no_space_10 | unawareinjectabandoncanvasviciousdishclusterprofitelevatortrouble |  
+| bip_39_word_no_space_11 | unawareinjectabandoncanvasviciousdishclusterprofitelevatortroubleleisure |  
+| bip_39_word_no_space_12 | unawareinjectabandoncanvasviciousdishclusterprofitelevatortroubleleisureavocado |  
+| bip_39_word_no_space_2 | unawareinject |  
+| bip_39_word_no_space_3 | unawareinjectabandon |  
+| bip_39_word_no_space_4 | unawareinjectabandoncanvas |  
+| bip_39_word_no_space_5 | unawareinjectabandoncanvasvicious |  
+| bip_39_word_no_space_6 | unawareinjectabandoncanvasviciousdish |  
+| bip_39_word_no_space_7 | unawareinjectabandoncanvasviciousdishcluster |  
+| bip_39_word_no_space_8 | unawareinjectabandoncanvasviciousdishclusterprofit |  
+| bip_39_word_no_space_9 | unawareinjectabandoncanvasviciousdishclusterprofitelevator |  
 | bip_39_word_space_0 | ['unaware', 'inject', 'abandon', 'canvas', 'vicious', 'dish', 'cluster', 'profit', 'elevator', 'trouble', 'leisure', 'avocado'] |  
 | bip_39_word_space_1 | unaware |  
 | bip_39_word_space_10 | unaware inject abandon canvas vicious dish cluster profit elevator trouble |  

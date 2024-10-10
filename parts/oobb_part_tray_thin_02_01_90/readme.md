@@ -122,6 +122,18 @@ crazy
 extra
 live
 art |  
+| bip_39_word_no_space_1 | fun |  
+| bip_39_word_no_space_10 | funemptyspiderannualaccusecrazyextraliveartbid |  
+| bip_39_word_no_space_11 | funemptyspiderannualaccusecrazyextraliveartbidadapt |  
+| bip_39_word_no_space_12 | funemptyspiderannualaccusecrazyextraliveartbidadaptalready |  
+| bip_39_word_no_space_2 | funempty |  
+| bip_39_word_no_space_3 | funemptyspider |  
+| bip_39_word_no_space_4 | funemptyspiderannual |  
+| bip_39_word_no_space_5 | funemptyspiderannualaccuse |  
+| bip_39_word_no_space_6 | funemptyspiderannualaccusecrazy |  
+| bip_39_word_no_space_7 | funemptyspiderannualaccusecrazyextra |  
+| bip_39_word_no_space_8 | funemptyspiderannualaccusecrazyextralive |  
+| bip_39_word_no_space_9 | funemptyspiderannualaccusecrazyextraliveart |  
 | bip_39_word_space_0 | ['fun', 'empty', 'spider', 'annual', 'accuse', 'crazy', 'extra', 'live', 'art', 'bid', 'adapt', 'already'] |  
 | bip_39_word_space_1 | fun |  
 | bip_39_word_space_10 | fun empty spider annual accuse crazy extra live art bid |  

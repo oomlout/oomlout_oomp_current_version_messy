@@ -122,6 +122,18 @@ dentist
 reject
 picnic
 sunset |  
+| bip_39_word_no_space_1 | loan |  
+| bip_39_word_no_space_10 | loanminutesessionbuyertypicaldentistrejectpicnicsunsetcome |  
+| bip_39_word_no_space_11 | loanminutesessionbuyertypicaldentistrejectpicnicsunsetcometrigger |  
+| bip_39_word_no_space_12 | loanminutesessionbuyertypicaldentistrejectpicnicsunsetcometriggerabsorb |  
+| bip_39_word_no_space_2 | loanminute |  
+| bip_39_word_no_space_3 | loanminutesession |  
+| bip_39_word_no_space_4 | loanminutesessionbuyer |  
+| bip_39_word_no_space_5 | loanminutesessionbuyertypical |  
+| bip_39_word_no_space_6 | loanminutesessionbuyertypicaldentist |  
+| bip_39_word_no_space_7 | loanminutesessionbuyertypicaldentistreject |  
+| bip_39_word_no_space_8 | loanminutesessionbuyertypicaldentistrejectpicnic |  
+| bip_39_word_no_space_9 | loanminutesessionbuyertypicaldentistrejectpicnicsunset |  
 | bip_39_word_space_0 | ['loan', 'minute', 'session', 'buyer', 'typical', 'dentist', 'reject', 'picnic', 'sunset', 'come', 'trigger', 'absorb'] |  
 | bip_39_word_space_1 | loan |  
 | bip_39_word_space_10 | loan minute session buyer typical dentist reject picnic sunset come |  

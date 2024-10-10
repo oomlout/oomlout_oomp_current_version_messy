@@ -122,6 +122,18 @@ orphan
 share
 crouch
 group |  
+| bip_39_word_no_space_1 | frog |  
+| bip_39_word_no_space_10 | frogburdenbulbthunderveteranorphansharecrouchgroupquarter |  
+| bip_39_word_no_space_11 | frogburdenbulbthunderveteranorphansharecrouchgroupquartercancel |  
+| bip_39_word_no_space_12 | frogburdenbulbthunderveteranorphansharecrouchgroupquartercancelattitude |  
+| bip_39_word_no_space_2 | frogburden |  
+| bip_39_word_no_space_3 | frogburdenbulb |  
+| bip_39_word_no_space_4 | frogburdenbulbthunder |  
+| bip_39_word_no_space_5 | frogburdenbulbthunderveteran |  
+| bip_39_word_no_space_6 | frogburdenbulbthunderveteranorphan |  
+| bip_39_word_no_space_7 | frogburdenbulbthunderveteranorphanshare |  
+| bip_39_word_no_space_8 | frogburdenbulbthunderveteranorphansharecrouch |  
+| bip_39_word_no_space_9 | frogburdenbulbthunderveteranorphansharecrouchgroup |  
 | bip_39_word_space_0 | ['frog', 'burden', 'bulb', 'thunder', 'veteran', 'orphan', 'share', 'crouch', 'group', 'quarter', 'cancel', 'attitude'] |  
 | bip_39_word_space_1 | frog |  
 | bip_39_word_space_10 | frog burden bulb thunder veteran orphan share crouch group quarter |  

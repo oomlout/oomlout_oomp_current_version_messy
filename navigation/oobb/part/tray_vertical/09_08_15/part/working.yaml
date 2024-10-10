@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'upon
   flag
 
   animal'
+bip_39_word_no_space_1: upon
+bip_39_word_no_space_10: uponbottomiconflipskatedoublemansionflaganimalicon
+bip_39_word_no_space_11: uponbottomiconflipskatedoublemansionflaganimalicondeputy
+bip_39_word_no_space_12: uponbottomiconflipskatedoublemansionflaganimalicondeputyannounce
+bip_39_word_no_space_2: uponbottom
+bip_39_word_no_space_3: uponbottomicon
+bip_39_word_no_space_4: uponbottomiconflip
+bip_39_word_no_space_5: uponbottomiconflipskate
+bip_39_word_no_space_6: uponbottomiconflipskatedouble
+bip_39_word_no_space_7: uponbottomiconflipskatedoublemansion
+bip_39_word_no_space_8: uponbottomiconflipskatedoublemansionflag
+bip_39_word_no_space_9: uponbottomiconflipskatedoublemansionflaganimal
 bip_39_word_space_0:
 - upon
 - bottom

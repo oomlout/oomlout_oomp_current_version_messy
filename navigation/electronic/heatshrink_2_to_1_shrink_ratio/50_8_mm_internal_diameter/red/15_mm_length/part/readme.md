@@ -122,6 +122,18 @@ aisle
 divert
 coconut
 topple |  
+| bip_39_word_no_space_1 | invite |  
+| bip_39_word_no_space_10 | invitecreditcrumbleexcessdefyaisledivertcoconuttopplecalm |  
+| bip_39_word_no_space_11 | invitecreditcrumbleexcessdefyaisledivertcoconuttopplecalmsoup |  
+| bip_39_word_no_space_12 | invitecreditcrumbleexcessdefyaisledivertcoconuttopplecalmsoupangle |  
+| bip_39_word_no_space_2 | invitecredit |  
+| bip_39_word_no_space_3 | invitecreditcrumble |  
+| bip_39_word_no_space_4 | invitecreditcrumbleexcess |  
+| bip_39_word_no_space_5 | invitecreditcrumbleexcessdefy |  
+| bip_39_word_no_space_6 | invitecreditcrumbleexcessdefyaisle |  
+| bip_39_word_no_space_7 | invitecreditcrumbleexcessdefyaisledivert |  
+| bip_39_word_no_space_8 | invitecreditcrumbleexcessdefyaisledivertcoconut |  
+| bip_39_word_no_space_9 | invitecreditcrumbleexcessdefyaisledivertcoconuttopple |  
 | bip_39_word_space_0 | ['invite', 'credit', 'crumble', 'excess', 'defy', 'aisle', 'divert', 'coconut', 'topple', 'calm', 'soup', 'angle'] |  
 | bip_39_word_space_1 | invite |  
 | bip_39_word_space_10 | invite credit crumble excess defy aisle divert coconut topple calm |  

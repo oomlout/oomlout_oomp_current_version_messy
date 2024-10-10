@@ -109,6 +109,17 @@ thought
 desert
 alert
 word |  
+| bip_39_word_no_space_1 | pelican |  
+| bip_39_word_no_space_10 | pelicanmodelsockcirclerelythoughtdesertalertwordtoward |  
+| bip_39_word_no_space_11 | pelicanmodelsockcirclerelythoughtdesertalertwordtowardrug |  
+| bip_39_word_no_space_2 | pelicanmodel |  
+| bip_39_word_no_space_3 | pelicanmodelsock |  
+| bip_39_word_no_space_4 | pelicanmodelsockcircle |  
+| bip_39_word_no_space_5 | pelicanmodelsockcirclerely |  
+| bip_39_word_no_space_6 | pelicanmodelsockcirclerelythought |  
+| bip_39_word_no_space_7 | pelicanmodelsockcirclerelythoughtdesert |  
+| bip_39_word_no_space_8 | pelicanmodelsockcirclerelythoughtdesertalert |  
+| bip_39_word_no_space_9 | pelicanmodelsockcirclerelythoughtdesertalertword |  
 | bip_39_word_space_0 | ['pelican', 'model', 'sock', 'circle', 'rely', 'thought', 'desert', 'alert', 'word', 'toward', 'rug'] |  
 | bip_39_word_space_1 | pelican |  
 | bip_39_word_space_10 | pelican model sock circle rely thought desert alert word toward |  

@@ -122,6 +122,18 @@ unfair
 metal
 blast
 educate |  
+| bip_39_word_no_space_1 | brain |  
+| bip_39_word_no_space_10 | braineternalrampswifttheoryunfairmetalblasteducateinvolve |  
+| bip_39_word_no_space_11 | braineternalrampswifttheoryunfairmetalblasteducateinvolvecar |  
+| bip_39_word_no_space_12 | braineternalrampswifttheoryunfairmetalblasteducateinvolvecaracquire |  
+| bip_39_word_no_space_2 | braineternal |  
+| bip_39_word_no_space_3 | braineternalramp |  
+| bip_39_word_no_space_4 | braineternalrampswift |  
+| bip_39_word_no_space_5 | braineternalrampswifttheory |  
+| bip_39_word_no_space_6 | braineternalrampswifttheoryunfair |  
+| bip_39_word_no_space_7 | braineternalrampswifttheoryunfairmetal |  
+| bip_39_word_no_space_8 | braineternalrampswifttheoryunfairmetalblast |  
+| bip_39_word_no_space_9 | braineternalrampswifttheoryunfairmetalblasteducate |  
 | bip_39_word_space_0 | ['brain', 'eternal', 'ramp', 'swift', 'theory', 'unfair', 'metal', 'blast', 'educate', 'involve', 'car', 'acquire'] |  
 | bip_39_word_space_1 | brain |  
 | bip_39_word_space_10 | brain eternal ramp swift theory unfair metal blast educate involve |  

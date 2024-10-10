@@ -122,6 +122,18 @@ analyst
 hamster
 increase
 slow |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisurefrogdisordernamearrangeanalysthamsterincreaseslowinjury |  
+| bip_39_word_no_space_11 | leisurefrogdisordernamearrangeanalysthamsterincreaseslowinjurynetwork |  
+| bip_39_word_no_space_12 | leisurefrogdisordernamearrangeanalysthamsterincreaseslowinjurynetworkactor |  
+| bip_39_word_no_space_2 | leisurefrog |  
+| bip_39_word_no_space_3 | leisurefrogdisorder |  
+| bip_39_word_no_space_4 | leisurefrogdisordername |  
+| bip_39_word_no_space_5 | leisurefrogdisordernamearrange |  
+| bip_39_word_no_space_6 | leisurefrogdisordernamearrangeanalyst |  
+| bip_39_word_no_space_7 | leisurefrogdisordernamearrangeanalysthamster |  
+| bip_39_word_no_space_8 | leisurefrogdisordernamearrangeanalysthamsterincrease |  
+| bip_39_word_no_space_9 | leisurefrogdisordernamearrangeanalysthamsterincreaseslow |  
 | bip_39_word_space_0 | ['leisure', 'frog', 'disorder', 'name', 'arrange', 'analyst', 'hamster', 'increase', 'slow', 'injury', 'network', 'actor'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure frog disorder name arrange analyst hamster increase slow injury |  

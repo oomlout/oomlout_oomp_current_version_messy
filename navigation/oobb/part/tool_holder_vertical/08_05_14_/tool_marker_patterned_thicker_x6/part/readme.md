@@ -122,6 +122,18 @@ kid
 erase
 broken
 smile |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefvacuumoriginalskifacultykiderasebrokensmileembark |  
+| bip_39_word_no_space_11 | chefvacuumoriginalskifacultykiderasebrokensmileembarkdrive |  
+| bip_39_word_no_space_12 | chefvacuumoriginalskifacultykiderasebrokensmileembarkdrivealbum |  
+| bip_39_word_no_space_2 | chefvacuum |  
+| bip_39_word_no_space_3 | chefvacuumoriginal |  
+| bip_39_word_no_space_4 | chefvacuumoriginalski |  
+| bip_39_word_no_space_5 | chefvacuumoriginalskifaculty |  
+| bip_39_word_no_space_6 | chefvacuumoriginalskifacultykid |  
+| bip_39_word_no_space_7 | chefvacuumoriginalskifacultykiderase |  
+| bip_39_word_no_space_8 | chefvacuumoriginalskifacultykiderasebroken |  
+| bip_39_word_no_space_9 | chefvacuumoriginalskifacultykiderasebrokensmile |  
 | bip_39_word_space_0 | ['chef', 'vacuum', 'original', 'ski', 'faculty', 'kid', 'erase', 'broken', 'smile', 'embark', 'drive', 'album'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef vacuum original ski faculty kid erase broken smile embark |  

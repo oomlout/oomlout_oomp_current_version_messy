@@ -122,6 +122,18 @@ cruise
 ensure
 output
 acquire |  
+| bip_39_word_no_space_1 | fat |  
+| bip_39_word_no_space_10 | fatelectriclaundryacrossattendcruiseensureoutputacquireforum |  
+| bip_39_word_no_space_11 | fatelectriclaundryacrossattendcruiseensureoutputacquireforuminvite |  
+| bip_39_word_no_space_12 | fatelectriclaundryacrossattendcruiseensureoutputacquireforuminviteactress |  
+| bip_39_word_no_space_2 | fatelectric |  
+| bip_39_word_no_space_3 | fatelectriclaundry |  
+| bip_39_word_no_space_4 | fatelectriclaundryacross |  
+| bip_39_word_no_space_5 | fatelectriclaundryacrossattend |  
+| bip_39_word_no_space_6 | fatelectriclaundryacrossattendcruise |  
+| bip_39_word_no_space_7 | fatelectriclaundryacrossattendcruiseensure |  
+| bip_39_word_no_space_8 | fatelectriclaundryacrossattendcruiseensureoutput |  
+| bip_39_word_no_space_9 | fatelectriclaundryacrossattendcruiseensureoutputacquire |  
 | bip_39_word_space_0 | ['fat', 'electric', 'laundry', 'across', 'attend', 'cruise', 'ensure', 'output', 'acquire', 'forum', 'invite', 'actress'] |  
 | bip_39_word_space_1 | fat |  
 | bip_39_word_space_10 | fat electric laundry across attend cruise ensure output acquire forum |  

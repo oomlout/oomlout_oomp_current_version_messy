@@ -122,6 +122,18 @@ ethics
 file
 act
 round |  
+| bip_39_word_no_space_1 | suggest |  
+| bip_39_word_no_space_10 | suggesttopiccoversmilecrossethicsfileactroundman |  
+| bip_39_word_no_space_11 | suggesttopiccoversmilecrossethicsfileactroundmanordinary |  
+| bip_39_word_no_space_12 | suggesttopiccoversmilecrossethicsfileactroundmanordinaryalmost |  
+| bip_39_word_no_space_2 | suggesttopic |  
+| bip_39_word_no_space_3 | suggesttopiccover |  
+| bip_39_word_no_space_4 | suggesttopiccoversmile |  
+| bip_39_word_no_space_5 | suggesttopiccoversmilecross |  
+| bip_39_word_no_space_6 | suggesttopiccoversmilecrossethics |  
+| bip_39_word_no_space_7 | suggesttopiccoversmilecrossethicsfile |  
+| bip_39_word_no_space_8 | suggesttopiccoversmilecrossethicsfileact |  
+| bip_39_word_no_space_9 | suggesttopiccoversmilecrossethicsfileactround |  
 | bip_39_word_space_0 | ['suggest', 'topic', 'cover', 'smile', 'cross', 'ethics', 'file', 'act', 'round', 'man', 'ordinary', 'almost'] |  
 | bip_39_word_space_1 | suggest |  
 | bip_39_word_space_10 | suggest topic cover smile cross ethics file act round man |  

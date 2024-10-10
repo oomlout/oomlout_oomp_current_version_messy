@@ -122,6 +122,18 @@ choose
 image
 indicate
 hurdle |  
+| bip_39_word_no_space_1 | upset |  
+| bip_39_word_no_space_10 | upsetaprilgingermountainemploychooseimageindicatehurdlework |  
+| bip_39_word_no_space_11 | upsetaprilgingermountainemploychooseimageindicatehurdleworkelement |  
+| bip_39_word_no_space_12 | upsetaprilgingermountainemploychooseimageindicatehurdleworkelementauto |  
+| bip_39_word_no_space_2 | upsetapril |  
+| bip_39_word_no_space_3 | upsetaprilginger |  
+| bip_39_word_no_space_4 | upsetaprilgingermountain |  
+| bip_39_word_no_space_5 | upsetaprilgingermountainemploy |  
+| bip_39_word_no_space_6 | upsetaprilgingermountainemploychoose |  
+| bip_39_word_no_space_7 | upsetaprilgingermountainemploychooseimage |  
+| bip_39_word_no_space_8 | upsetaprilgingermountainemploychooseimageindicate |  
+| bip_39_word_no_space_9 | upsetaprilgingermountainemploychooseimageindicatehurdle |  
 | bip_39_word_space_0 | ['upset', 'april', 'ginger', 'mountain', 'employ', 'choose', 'image', 'indicate', 'hurdle', 'work', 'element', 'auto'] |  
 | bip_39_word_space_1 | upset |  
 | bip_39_word_space_10 | upset april ginger mountain employ choose image indicate hurdle work |  

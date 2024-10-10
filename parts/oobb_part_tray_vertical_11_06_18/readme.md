@@ -122,6 +122,18 @@ siege
 submit
 stage
 fence |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipoutdoorhundredfurycomesiegesubmitstagefencepotato |  
+| bip_39_word_no_space_11 | shipoutdoorhundredfurycomesiegesubmitstagefencepotatomagnet |  
+| bip_39_word_no_space_12 | shipoutdoorhundredfurycomesiegesubmitstagefencepotatomagnetassume |  
+| bip_39_word_no_space_2 | shipoutdoor |  
+| bip_39_word_no_space_3 | shipoutdoorhundred |  
+| bip_39_word_no_space_4 | shipoutdoorhundredfury |  
+| bip_39_word_no_space_5 | shipoutdoorhundredfurycome |  
+| bip_39_word_no_space_6 | shipoutdoorhundredfurycomesiege |  
+| bip_39_word_no_space_7 | shipoutdoorhundredfurycomesiegesubmit |  
+| bip_39_word_no_space_8 | shipoutdoorhundredfurycomesiegesubmitstage |  
+| bip_39_word_no_space_9 | shipoutdoorhundredfurycomesiegesubmitstagefence |  
 | bip_39_word_space_0 | ['ship', 'outdoor', 'hundred', 'fury', 'come', 'siege', 'submit', 'stage', 'fence', 'potato', 'magnet', 'assume'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship outdoor hundred fury come siege submit stage fence potato |  

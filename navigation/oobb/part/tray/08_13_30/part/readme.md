@@ -122,6 +122,18 @@ omit
 silent
 wealth
 solve |  
+| bip_39_word_no_space_1 | final |  
+| bip_39_word_no_space_10 | finalscandependbusinessaccountomitsilentwealthsolvetransfer |  
+| bip_39_word_no_space_11 | finalscandependbusinessaccountomitsilentwealthsolvetransfercarpet |  
+| bip_39_word_no_space_12 | finalscandependbusinessaccountomitsilentwealthsolvetransfercarpetamong |  
+| bip_39_word_no_space_2 | finalscan |  
+| bip_39_word_no_space_3 | finalscandepend |  
+| bip_39_word_no_space_4 | finalscandependbusiness |  
+| bip_39_word_no_space_5 | finalscandependbusinessaccount |  
+| bip_39_word_no_space_6 | finalscandependbusinessaccountomit |  
+| bip_39_word_no_space_7 | finalscandependbusinessaccountomitsilent |  
+| bip_39_word_no_space_8 | finalscandependbusinessaccountomitsilentwealth |  
+| bip_39_word_no_space_9 | finalscandependbusinessaccountomitsilentwealthsolve |  
 | bip_39_word_space_0 | ['final', 'scan', 'depend', 'business', 'account', 'omit', 'silent', 'wealth', 'solve', 'transfer', 'carpet', 'among'] |  
 | bip_39_word_space_1 | final |  
 | bip_39_word_space_10 | final scan depend business account omit silent wealth solve transfer |  

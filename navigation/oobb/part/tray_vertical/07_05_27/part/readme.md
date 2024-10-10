@@ -122,6 +122,18 @@ main
 road
 sheriff
 supply |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectmountaincompanybloodmatchmainroadsheriffsupplypumpkin |  
+| bip_39_word_no_space_11 | perfectmountaincompanybloodmatchmainroadsheriffsupplypumpkinmind |  
+| bip_39_word_no_space_12 | perfectmountaincompanybloodmatchmainroadsheriffsupplypumpkinmindany |  
+| bip_39_word_no_space_2 | perfectmountain |  
+| bip_39_word_no_space_3 | perfectmountaincompany |  
+| bip_39_word_no_space_4 | perfectmountaincompanyblood |  
+| bip_39_word_no_space_5 | perfectmountaincompanybloodmatch |  
+| bip_39_word_no_space_6 | perfectmountaincompanybloodmatchmain |  
+| bip_39_word_no_space_7 | perfectmountaincompanybloodmatchmainroad |  
+| bip_39_word_no_space_8 | perfectmountaincompanybloodmatchmainroadsheriff |  
+| bip_39_word_no_space_9 | perfectmountaincompanybloodmatchmainroadsheriffsupply |  
 | bip_39_word_space_0 | ['perfect', 'mountain', 'company', 'blood', 'match', 'main', 'road', 'sheriff', 'supply', 'pumpkin', 'mind', 'any'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect mountain company blood match main road sheriff supply pumpkin |  

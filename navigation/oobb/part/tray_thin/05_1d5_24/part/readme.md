@@ -122,6 +122,18 @@ company
 hotel
 someone
 alter |  
+| bip_39_word_no_space_1 | cactus |  
+| bip_39_word_no_space_10 | cactuskeengovernbluescrapcompanyhotelsomeonealterlevel |  
+| bip_39_word_no_space_11 | cactuskeengovernbluescrapcompanyhotelsomeonealterleveldrive |  
+| bip_39_word_no_space_12 | cactuskeengovernbluescrapcompanyhotelsomeonealterleveldriveafraid |  
+| bip_39_word_no_space_2 | cactuskeen |  
+| bip_39_word_no_space_3 | cactuskeengovern |  
+| bip_39_word_no_space_4 | cactuskeengovernblue |  
+| bip_39_word_no_space_5 | cactuskeengovernbluescrap |  
+| bip_39_word_no_space_6 | cactuskeengovernbluescrapcompany |  
+| bip_39_word_no_space_7 | cactuskeengovernbluescrapcompanyhotel |  
+| bip_39_word_no_space_8 | cactuskeengovernbluescrapcompanyhotelsomeone |  
+| bip_39_word_no_space_9 | cactuskeengovernbluescrapcompanyhotelsomeonealter |  
 | bip_39_word_space_0 | ['cactus', 'keen', 'govern', 'blue', 'scrap', 'company', 'hotel', 'someone', 'alter', 'level', 'drive', 'afraid'] |  
 | bip_39_word_space_1 | cactus |  
 | bip_39_word_space_10 | cactus keen govern blue scrap company hotel someone alter level |  

@@ -122,6 +122,18 @@ swear
 rigid
 victory
 black |  
+| bip_39_word_no_space_1 | like |  
+| bip_39_word_no_space_10 | likelonelyyouspatialthenswearrigidvictoryblackmedia |  
+| bip_39_word_no_space_11 | likelonelyyouspatialthenswearrigidvictoryblackmediamammal |  
+| bip_39_word_no_space_12 | likelonelyyouspatialthenswearrigidvictoryblackmediamammalargue |  
+| bip_39_word_no_space_2 | likelonely |  
+| bip_39_word_no_space_3 | likelonelyyou |  
+| bip_39_word_no_space_4 | likelonelyyouspatial |  
+| bip_39_word_no_space_5 | likelonelyyouspatialthen |  
+| bip_39_word_no_space_6 | likelonelyyouspatialthenswear |  
+| bip_39_word_no_space_7 | likelonelyyouspatialthenswearrigid |  
+| bip_39_word_no_space_8 | likelonelyyouspatialthenswearrigidvictory |  
+| bip_39_word_no_space_9 | likelonelyyouspatialthenswearrigidvictoryblack |  
 | bip_39_word_space_0 | ['like', 'lonely', 'you', 'spatial', 'then', 'swear', 'rigid', 'victory', 'black', 'media', 'mammal', 'argue'] |  
 | bip_39_word_space_1 | like |  
 | bip_39_word_space_10 | like lonely you spatial then swear rigid victory black media |  

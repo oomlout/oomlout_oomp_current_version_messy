@@ -122,6 +122,18 @@ duty
 eight
 mushroom
 task |  
+| bip_39_word_no_space_1 | setup |  
+| bip_39_word_no_space_10 | setupgospelmiddleimageyoungdutyeightmushroomtaskmeadow |  
+| bip_39_word_no_space_11 | setupgospelmiddleimageyoungdutyeightmushroomtaskmeadowtrue |  
+| bip_39_word_no_space_12 | setupgospelmiddleimageyoungdutyeightmushroomtaskmeadowtruearrest |  
+| bip_39_word_no_space_2 | setupgospel |  
+| bip_39_word_no_space_3 | setupgospelmiddle |  
+| bip_39_word_no_space_4 | setupgospelmiddleimage |  
+| bip_39_word_no_space_5 | setupgospelmiddleimageyoung |  
+| bip_39_word_no_space_6 | setupgospelmiddleimageyoungduty |  
+| bip_39_word_no_space_7 | setupgospelmiddleimageyoungdutyeight |  
+| bip_39_word_no_space_8 | setupgospelmiddleimageyoungdutyeightmushroom |  
+| bip_39_word_no_space_9 | setupgospelmiddleimageyoungdutyeightmushroomtask |  
 | bip_39_word_space_0 | ['setup', 'gospel', 'middle', 'image', 'young', 'duty', 'eight', 'mushroom', 'task', 'meadow', 'true', 'arrest'] |  
 | bip_39_word_space_1 | setup |  
 | bip_39_word_space_10 | setup gospel middle image young duty eight mushroom task meadow |  

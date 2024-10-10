@@ -122,6 +122,18 @@ move
 swing
 second
 video |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimoaktheyhireozonemoveswingsecondvideoafford |  
+| bip_39_word_no_space_11 | trimoaktheyhireozonemoveswingsecondvideoaffordlayer |  
+| bip_39_word_no_space_12 | trimoaktheyhireozonemoveswingsecondvideoaffordlayeralpha |  
+| bip_39_word_no_space_2 | trimoak |  
+| bip_39_word_no_space_3 | trimoakthey |  
+| bip_39_word_no_space_4 | trimoaktheyhire |  
+| bip_39_word_no_space_5 | trimoaktheyhireozone |  
+| bip_39_word_no_space_6 | trimoaktheyhireozonemove |  
+| bip_39_word_no_space_7 | trimoaktheyhireozonemoveswing |  
+| bip_39_word_no_space_8 | trimoaktheyhireozonemoveswingsecond |  
+| bip_39_word_no_space_9 | trimoaktheyhireozonemoveswingsecondvideo |  
 | bip_39_word_space_0 | ['trim', 'oak', 'they', 'hire', 'ozone', 'move', 'swing', 'second', 'video', 'afford', 'layer', 'alpha'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim oak they hire ozone move swing second video afford |  

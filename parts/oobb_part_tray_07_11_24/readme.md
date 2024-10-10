@@ -122,6 +122,18 @@ famous
 pole
 push
 knee |  
+| bip_39_word_no_space_1 | ethics |  
+| bip_39_word_no_space_10 | ethicsreportmuseumeggrunfamouspolepushkneeinmate |  
+| bip_39_word_no_space_11 | ethicsreportmuseumeggrunfamouspolepushkneeinmategentle |  
+| bip_39_word_no_space_12 | ethicsreportmuseumeggrunfamouspolepushkneeinmategentleancient |  
+| bip_39_word_no_space_2 | ethicsreport |  
+| bip_39_word_no_space_3 | ethicsreportmuseum |  
+| bip_39_word_no_space_4 | ethicsreportmuseumegg |  
+| bip_39_word_no_space_5 | ethicsreportmuseumeggrun |  
+| bip_39_word_no_space_6 | ethicsreportmuseumeggrunfamous |  
+| bip_39_word_no_space_7 | ethicsreportmuseumeggrunfamouspole |  
+| bip_39_word_no_space_8 | ethicsreportmuseumeggrunfamouspolepush |  
+| bip_39_word_no_space_9 | ethicsreportmuseumeggrunfamouspolepushknee |  
 | bip_39_word_space_0 | ['ethics', 'report', 'museum', 'egg', 'run', 'famous', 'pole', 'push', 'knee', 'inmate', 'gentle', 'ancient'] |  
 | bip_39_word_space_1 | ethics |  
 | bip_39_word_space_10 | ethics report museum egg run famous pole push knee inmate |  

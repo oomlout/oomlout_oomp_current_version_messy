@@ -122,6 +122,18 @@ also
 cheese
 economy
 faculty |  
+| bip_39_word_no_space_1 | bench |  
+| bip_39_word_no_space_10 | benchislandsimpleapologythemealsocheeseeconomyfacultypalm |  
+| bip_39_word_no_space_11 | benchislandsimpleapologythemealsocheeseeconomyfacultypalmchild |  
+| bip_39_word_no_space_12 | benchislandsimpleapologythemealsocheeseeconomyfacultypalmchildancient |  
+| bip_39_word_no_space_2 | benchisland |  
+| bip_39_word_no_space_3 | benchislandsimple |  
+| bip_39_word_no_space_4 | benchislandsimpleapology |  
+| bip_39_word_no_space_5 | benchislandsimpleapologytheme |  
+| bip_39_word_no_space_6 | benchislandsimpleapologythemealso |  
+| bip_39_word_no_space_7 | benchislandsimpleapologythemealsocheese |  
+| bip_39_word_no_space_8 | benchislandsimpleapologythemealsocheeseeconomy |  
+| bip_39_word_no_space_9 | benchislandsimpleapologythemealsocheeseeconomyfaculty |  
 | bip_39_word_space_0 | ['bench', 'island', 'simple', 'apology', 'theme', 'also', 'cheese', 'economy', 'faculty', 'palm', 'child', 'ancient'] |  
 | bip_39_word_space_1 | bench |  
 | bip_39_word_space_10 | bench island simple apology theme also cheese economy faculty palm |  

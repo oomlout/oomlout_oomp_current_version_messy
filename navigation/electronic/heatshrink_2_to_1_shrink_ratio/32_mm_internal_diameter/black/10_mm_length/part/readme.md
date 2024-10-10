@@ -122,6 +122,18 @@ aerobic
 tragic
 carry
 beyond |  
+| bip_39_word_no_space_1 | disorder |  
+| bip_39_word_no_space_10 | disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatal |  
+| bip_39_word_no_space_11 | disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatalice |  
+| bip_39_word_no_space_12 | disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatalicearmor |  
+| bip_39_word_no_space_2 | disorderbind |  
+| bip_39_word_no_space_3 | disorderbindsmooth |  
+| bip_39_word_no_space_4 | disorderbindsmoothwaste |  
+| bip_39_word_no_space_5 | disorderbindsmoothwasteprivate |  
+| bip_39_word_no_space_6 | disorderbindsmoothwasteprivateaerobic |  
+| bip_39_word_no_space_7 | disorderbindsmoothwasteprivateaerobictragic |  
+| bip_39_word_no_space_8 | disorderbindsmoothwasteprivateaerobictragiccarry |  
+| bip_39_word_no_space_9 | disorderbindsmoothwasteprivateaerobictragiccarrybeyond |  
 | bip_39_word_space_0 | ['disorder', 'bind', 'smooth', 'waste', 'private', 'aerobic', 'tragic', 'carry', 'beyond', 'fatal', 'ice', 'armor'] |  
 | bip_39_word_space_1 | disorder |  
 | bip_39_word_space_10 | disorder bind smooth waste private aerobic tragic carry beyond fatal |  

@@ -122,6 +122,18 @@ draw
 video
 degree
 sample |  
+| bip_39_word_no_space_1 | mail |  
+| bip_39_word_no_space_10 | mailsuperusualcomforttrulydrawvideodegreesamplegospel |  
+| bip_39_word_no_space_11 | mailsuperusualcomforttrulydrawvideodegreesamplegospelbroom |  
+| bip_39_word_no_space_12 | mailsuperusualcomforttrulydrawvideodegreesamplegospelbroomaccount |  
+| bip_39_word_no_space_2 | mailsuper |  
+| bip_39_word_no_space_3 | mailsuperusual |  
+| bip_39_word_no_space_4 | mailsuperusualcomfort |  
+| bip_39_word_no_space_5 | mailsuperusualcomforttruly |  
+| bip_39_word_no_space_6 | mailsuperusualcomforttrulydraw |  
+| bip_39_word_no_space_7 | mailsuperusualcomforttrulydrawvideo |  
+| bip_39_word_no_space_8 | mailsuperusualcomforttrulydrawvideodegree |  
+| bip_39_word_no_space_9 | mailsuperusualcomforttrulydrawvideodegreesample |  
 | bip_39_word_space_0 | ['mail', 'super', 'usual', 'comfort', 'truly', 'draw', 'video', 'degree', 'sample', 'gospel', 'broom', 'account'] |  
 | bip_39_word_space_1 | mail |  
 | bip_39_word_space_10 | mail super usual comfort truly draw video degree sample gospel |  

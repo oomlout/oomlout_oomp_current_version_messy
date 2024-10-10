@@ -122,6 +122,18 @@ fine
 plunge
 kidney
 lazy |  
+| bip_39_word_no_space_1 | oven |  
+| bip_39_word_no_space_10 | ovenhobbymeatcrystalpulpfineplungekidneylazywarm |  
+| bip_39_word_no_space_11 | ovenhobbymeatcrystalpulpfineplungekidneylazywarmrib |  
+| bip_39_word_no_space_12 | ovenhobbymeatcrystalpulpfineplungekidneylazywarmribaudit |  
+| bip_39_word_no_space_2 | ovenhobby |  
+| bip_39_word_no_space_3 | ovenhobbymeat |  
+| bip_39_word_no_space_4 | ovenhobbymeatcrystal |  
+| bip_39_word_no_space_5 | ovenhobbymeatcrystalpulp |  
+| bip_39_word_no_space_6 | ovenhobbymeatcrystalpulpfine |  
+| bip_39_word_no_space_7 | ovenhobbymeatcrystalpulpfineplunge |  
+| bip_39_word_no_space_8 | ovenhobbymeatcrystalpulpfineplungekidney |  
+| bip_39_word_no_space_9 | ovenhobbymeatcrystalpulpfineplungekidneylazy |  
 | bip_39_word_space_0 | ['oven', 'hobby', 'meat', 'crystal', 'pulp', 'fine', 'plunge', 'kidney', 'lazy', 'warm', 'rib', 'audit'] |  
 | bip_39_word_space_1 | oven |  
 | bip_39_word_space_10 | oven hobby meat crystal pulp fine plunge kidney lazy warm |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'age
   merit
 
   bounce'
+bip_39_word_no_space_1: age
+bip_39_word_no_space_10: ageusagesupervoiceverifydangerfurymeritbouncerug
+bip_39_word_no_space_11: ageusagesupervoiceverifydangerfurymeritbouncerugpredict
+bip_39_word_no_space_12: ageusagesupervoiceverifydangerfurymeritbouncerugpredictathlete
+bip_39_word_no_space_2: ageusage
+bip_39_word_no_space_3: ageusagesuper
+bip_39_word_no_space_4: ageusagesupervoice
+bip_39_word_no_space_5: ageusagesupervoiceverify
+bip_39_word_no_space_6: ageusagesupervoiceverifydanger
+bip_39_word_no_space_7: ageusagesupervoiceverifydangerfury
+bip_39_word_no_space_8: ageusagesupervoiceverifydangerfurymerit
+bip_39_word_no_space_9: ageusagesupervoiceverifydangerfurymeritbounce
 bip_39_word_space_0:
 - age
 - usage

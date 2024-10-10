@@ -122,6 +122,18 @@ valid
 early
 impact
 target |  
+| bip_39_word_no_space_1 | liquid |  
+| bip_39_word_no_space_10 | liquidwestbusinesssizehubvalidearlyimpacttargetrecycle |  
+| bip_39_word_no_space_11 | liquidwestbusinesssizehubvalidearlyimpacttargetrecyclecannon |  
+| bip_39_word_no_space_12 | liquidwestbusinesssizehubvalidearlyimpacttargetrecyclecannonangry |  
+| bip_39_word_no_space_2 | liquidwest |  
+| bip_39_word_no_space_3 | liquidwestbusiness |  
+| bip_39_word_no_space_4 | liquidwestbusinesssize |  
+| bip_39_word_no_space_5 | liquidwestbusinesssizehub |  
+| bip_39_word_no_space_6 | liquidwestbusinesssizehubvalid |  
+| bip_39_word_no_space_7 | liquidwestbusinesssizehubvalidearly |  
+| bip_39_word_no_space_8 | liquidwestbusinesssizehubvalidearlyimpact |  
+| bip_39_word_no_space_9 | liquidwestbusinesssizehubvalidearlyimpacttarget |  
 | bip_39_word_space_0 | ['liquid', 'west', 'business', 'size', 'hub', 'valid', 'early', 'impact', 'target', 'recycle', 'cannon', 'angry'] |  
 | bip_39_word_space_1 | liquid |  
 | bip_39_word_space_10 | liquid west business size hub valid early impact target recycle |  

@@ -122,6 +122,18 @@ stand
 spoon
 swift
 seven |  
+| bip_39_word_no_space_1 | arrive |  
+| bip_39_word_no_space_10 | arrivealtermoviequalityvalidstandspoonswiftsevenmeasure |  
+| bip_39_word_no_space_11 | arrivealtermoviequalityvalidstandspoonswiftsevenmeasuredefense |  
+| bip_39_word_no_space_12 | arrivealtermoviequalityvalidstandspoonswiftsevenmeasuredefenseagree |  
+| bip_39_word_no_space_2 | arrivealter |  
+| bip_39_word_no_space_3 | arrivealtermovie |  
+| bip_39_word_no_space_4 | arrivealtermoviequality |  
+| bip_39_word_no_space_5 | arrivealtermoviequalityvalid |  
+| bip_39_word_no_space_6 | arrivealtermoviequalityvalidstand |  
+| bip_39_word_no_space_7 | arrivealtermoviequalityvalidstandspoon |  
+| bip_39_word_no_space_8 | arrivealtermoviequalityvalidstandspoonswift |  
+| bip_39_word_no_space_9 | arrivealtermoviequalityvalidstandspoonswiftseven |  
 | bip_39_word_space_0 | ['arrive', 'alter', 'movie', 'quality', 'valid', 'stand', 'spoon', 'swift', 'seven', 'measure', 'defense', 'agree'] |  
 | bip_39_word_space_1 | arrive |  
 | bip_39_word_space_10 | arrive alter movie quality valid stand spoon swift seven measure |  

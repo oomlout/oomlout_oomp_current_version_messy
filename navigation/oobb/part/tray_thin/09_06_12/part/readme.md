@@ -122,6 +122,18 @@ orphan
 dignity
 label
 fitness |  
+| bip_39_word_no_space_1 | all |  
+| bip_39_word_no_space_10 | allneverquickstarthardorphandignitylabelfitnesspurpose |  
+| bip_39_word_no_space_11 | allneverquickstarthardorphandignitylabelfitnesspurposejewel |  
+| bip_39_word_no_space_12 | allneverquickstarthardorphandignitylabelfitnesspurposejewelamount |  
+| bip_39_word_no_space_2 | allnever |  
+| bip_39_word_no_space_3 | allneverquick |  
+| bip_39_word_no_space_4 | allneverquickstart |  
+| bip_39_word_no_space_5 | allneverquickstarthard |  
+| bip_39_word_no_space_6 | allneverquickstarthardorphan |  
+| bip_39_word_no_space_7 | allneverquickstarthardorphandignity |  
+| bip_39_word_no_space_8 | allneverquickstarthardorphandignitylabel |  
+| bip_39_word_no_space_9 | allneverquickstarthardorphandignitylabelfitness |  
 | bip_39_word_space_0 | ['all', 'never', 'quick', 'start', 'hard', 'orphan', 'dignity', 'label', 'fitness', 'purpose', 'jewel', 'amount'] |  
 | bip_39_word_space_1 | all |  
 | bip_39_word_space_10 | all never quick start hard orphan dignity label fitness purpose |  

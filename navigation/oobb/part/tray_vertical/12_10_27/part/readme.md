@@ -122,6 +122,18 @@ spice
 hour
 never
 unhappy |  
+| bip_39_word_no_space_1 | oil |  
+| bip_39_word_no_space_10 | oilbrokensniffevokecraftspicehourneverunhappymetal |  
+| bip_39_word_no_space_11 | oilbrokensniffevokecraftspicehourneverunhappymetalcluster |  
+| bip_39_word_no_space_12 | oilbrokensniffevokecraftspicehourneverunhappymetalclusterabout |  
+| bip_39_word_no_space_2 | oilbroken |  
+| bip_39_word_no_space_3 | oilbrokensniff |  
+| bip_39_word_no_space_4 | oilbrokensniffevoke |  
+| bip_39_word_no_space_5 | oilbrokensniffevokecraft |  
+| bip_39_word_no_space_6 | oilbrokensniffevokecraftspice |  
+| bip_39_word_no_space_7 | oilbrokensniffevokecraftspicehour |  
+| bip_39_word_no_space_8 | oilbrokensniffevokecraftspicehournever |  
+| bip_39_word_no_space_9 | oilbrokensniffevokecraftspicehourneverunhappy |  
 | bip_39_word_space_0 | ['oil', 'broken', 'sniff', 'evoke', 'craft', 'spice', 'hour', 'never', 'unhappy', 'metal', 'cluster', 'about'] |  
 | bip_39_word_space_1 | oil |  
 | bip_39_word_space_10 | oil broken sniff evoke craft spice hour never unhappy metal |  

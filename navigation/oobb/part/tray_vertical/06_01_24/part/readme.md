@@ -122,6 +122,18 @@ gather
 any
 spoil
 tip |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualwhalemoonkiwiwestgatheranyspoiltipcelery |  
+| bip_39_word_no_space_11 | visualwhalemoonkiwiwestgatheranyspoiltipceleryhair |  
+| bip_39_word_no_space_12 | visualwhalemoonkiwiwestgatheranyspoiltipceleryhairaccuse |  
+| bip_39_word_no_space_2 | visualwhale |  
+| bip_39_word_no_space_3 | visualwhalemoon |  
+| bip_39_word_no_space_4 | visualwhalemoonkiwi |  
+| bip_39_word_no_space_5 | visualwhalemoonkiwiwest |  
+| bip_39_word_no_space_6 | visualwhalemoonkiwiwestgather |  
+| bip_39_word_no_space_7 | visualwhalemoonkiwiwestgatherany |  
+| bip_39_word_no_space_8 | visualwhalemoonkiwiwestgatheranyspoil |  
+| bip_39_word_no_space_9 | visualwhalemoonkiwiwestgatheranyspoiltip |  
 | bip_39_word_space_0 | ['visual', 'whale', 'moon', 'kiwi', 'west', 'gather', 'any', 'spoil', 'tip', 'celery', 'hair', 'accuse'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual whale moon kiwi west gather any spoil tip celery |  

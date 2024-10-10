@@ -122,6 +122,18 @@ thunder
 raven
 behave
 speed |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatothissaddletheorybundlethunderravenbehavespeedminute |  
+| bip_39_word_no_space_11 | tomatothissaddletheorybundlethunderravenbehavespeedminuteyouth |  
+| bip_39_word_no_space_12 | tomatothissaddletheorybundlethunderravenbehavespeedminuteyouthassault |  
+| bip_39_word_no_space_2 | tomatothis |  
+| bip_39_word_no_space_3 | tomatothissaddle |  
+| bip_39_word_no_space_4 | tomatothissaddletheory |  
+| bip_39_word_no_space_5 | tomatothissaddletheorybundle |  
+| bip_39_word_no_space_6 | tomatothissaddletheorybundlethunder |  
+| bip_39_word_no_space_7 | tomatothissaddletheorybundlethunderraven |  
+| bip_39_word_no_space_8 | tomatothissaddletheorybundlethunderravenbehave |  
+| bip_39_word_no_space_9 | tomatothissaddletheorybundlethunderravenbehavespeed |  
 | bip_39_word_space_0 | ['tomato', 'this', 'saddle', 'theory', 'bundle', 'thunder', 'raven', 'behave', 'speed', 'minute', 'youth', 'assault'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato this saddle theory bundle thunder raven behave speed minute |  

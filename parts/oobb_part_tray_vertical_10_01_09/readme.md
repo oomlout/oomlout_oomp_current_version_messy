@@ -122,6 +122,18 @@ awkward
 twin
 march
 rib |  
+| bip_39_word_no_space_1 | process |  
+| bip_39_word_no_space_10 | processcrypossiblebeautyneglectawkwardtwinmarchribblue |  
+| bip_39_word_no_space_11 | processcrypossiblebeautyneglectawkwardtwinmarchribblueflight |  
+| bip_39_word_no_space_12 | processcrypossiblebeautyneglectawkwardtwinmarchribblueflightanother |  
+| bip_39_word_no_space_2 | processcry |  
+| bip_39_word_no_space_3 | processcrypossible |  
+| bip_39_word_no_space_4 | processcrypossiblebeauty |  
+| bip_39_word_no_space_5 | processcrypossiblebeautyneglect |  
+| bip_39_word_no_space_6 | processcrypossiblebeautyneglectawkward |  
+| bip_39_word_no_space_7 | processcrypossiblebeautyneglectawkwardtwin |  
+| bip_39_word_no_space_8 | processcrypossiblebeautyneglectawkwardtwinmarch |  
+| bip_39_word_no_space_9 | processcrypossiblebeautyneglectawkwardtwinmarchrib |  
 | bip_39_word_space_0 | ['process', 'cry', 'possible', 'beauty', 'neglect', 'awkward', 'twin', 'march', 'rib', 'blue', 'flight', 'another'] |  
 | bip_39_word_space_1 | process |  
 | bip_39_word_space_10 | process cry possible beauty neglect awkward twin march rib blue |  

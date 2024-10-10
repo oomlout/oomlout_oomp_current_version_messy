@@ -122,6 +122,18 @@ seek
 answer
 minimum
 festival |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimflockusualslowpriceseekanswerminimumfestivalminor |  
+| bip_39_word_no_space_11 | trimflockusualslowpriceseekanswerminimumfestivalminoremerge |  
+| bip_39_word_no_space_12 | trimflockusualslowpriceseekanswerminimumfestivalminoremergeassume |  
+| bip_39_word_no_space_2 | trimflock |  
+| bip_39_word_no_space_3 | trimflockusual |  
+| bip_39_word_no_space_4 | trimflockusualslow |  
+| bip_39_word_no_space_5 | trimflockusualslowprice |  
+| bip_39_word_no_space_6 | trimflockusualslowpriceseek |  
+| bip_39_word_no_space_7 | trimflockusualslowpriceseekanswer |  
+| bip_39_word_no_space_8 | trimflockusualslowpriceseekanswerminimum |  
+| bip_39_word_no_space_9 | trimflockusualslowpriceseekanswerminimumfestival |  
 | bip_39_word_space_0 | ['trim', 'flock', 'usual', 'slow', 'price', 'seek', 'answer', 'minimum', 'festival', 'minor', 'emerge', 'assume'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim flock usual slow price seek answer minimum festival minor |  

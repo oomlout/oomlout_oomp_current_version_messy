@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wall
   lawn
 
   salute'
+bip_39_word_no_space_1: wall
+bip_39_word_no_space_10: wallspherethingcasualleadersodaempowerlawnsaluteauto
+bip_39_word_no_space_11: wallspherethingcasualleadersodaempowerlawnsaluteautotornado
+bip_39_word_no_space_12: wallspherethingcasualleadersodaempowerlawnsaluteautotornadoarch
+bip_39_word_no_space_2: wallsphere
+bip_39_word_no_space_3: wallspherething
+bip_39_word_no_space_4: wallspherethingcasual
+bip_39_word_no_space_5: wallspherethingcasualleader
+bip_39_word_no_space_6: wallspherethingcasualleadersoda
+bip_39_word_no_space_7: wallspherethingcasualleadersodaempower
+bip_39_word_no_space_8: wallspherethingcasualleadersodaempowerlawn
+bip_39_word_no_space_9: wallspherethingcasualleadersodaempowerlawnsalute
 bip_39_word_space_0:
 - wall
 - sphere

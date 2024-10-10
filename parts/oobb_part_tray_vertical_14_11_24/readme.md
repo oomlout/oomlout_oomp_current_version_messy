@@ -122,6 +122,18 @@ west
 glide
 rice
 talk |  
+| bip_39_word_no_space_1 | arena |  
+| bip_39_word_no_space_10 | arenatapemanagelessondumbwestglidericetalkcook |  
+| bip_39_word_no_space_11 | arenatapemanagelessondumbwestglidericetalkcookpet |  
+| bip_39_word_no_space_12 | arenatapemanagelessondumbwestglidericetalkcookpetadd |  
+| bip_39_word_no_space_2 | arenatape |  
+| bip_39_word_no_space_3 | arenatapemanage |  
+| bip_39_word_no_space_4 | arenatapemanagelesson |  
+| bip_39_word_no_space_5 | arenatapemanagelessondumb |  
+| bip_39_word_no_space_6 | arenatapemanagelessondumbwest |  
+| bip_39_word_no_space_7 | arenatapemanagelessondumbwestglide |  
+| bip_39_word_no_space_8 | arenatapemanagelessondumbwestgliderice |  
+| bip_39_word_no_space_9 | arenatapemanagelessondumbwestglidericetalk |  
 | bip_39_word_space_0 | ['arena', 'tape', 'manage', 'lesson', 'dumb', 'west', 'glide', 'rice', 'talk', 'cook', 'pet', 'add'] |  
 | bip_39_word_space_1 | arena |  
 | bip_39_word_space_10 | arena tape manage lesson dumb west glide rice talk cook |  

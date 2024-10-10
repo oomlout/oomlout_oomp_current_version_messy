@@ -122,6 +122,18 @@ leaf
 hurdle
 cabin
 mutual |  
+| bip_39_word_no_space_1 | upper |  
+| bip_39_word_no_space_10 | upperwristflushgigglepositionleafhurdlecabinmutualcrew |  
+| bip_39_word_no_space_11 | upperwristflushgigglepositionleafhurdlecabinmutualcrewstrong |  
+| bip_39_word_no_space_12 | upperwristflushgigglepositionleafhurdlecabinmutualcrewstrongauthor |  
+| bip_39_word_no_space_2 | upperwrist |  
+| bip_39_word_no_space_3 | upperwristflush |  
+| bip_39_word_no_space_4 | upperwristflushgiggle |  
+| bip_39_word_no_space_5 | upperwristflushgiggleposition |  
+| bip_39_word_no_space_6 | upperwristflushgigglepositionleaf |  
+| bip_39_word_no_space_7 | upperwristflushgigglepositionleafhurdle |  
+| bip_39_word_no_space_8 | upperwristflushgigglepositionleafhurdlecabin |  
+| bip_39_word_no_space_9 | upperwristflushgigglepositionleafhurdlecabinmutual |  
 | bip_39_word_space_0 | ['upper', 'wrist', 'flush', 'giggle', 'position', 'leaf', 'hurdle', 'cabin', 'mutual', 'crew', 'strong', 'author'] |  
 | bip_39_word_space_1 | upper |  
 | bip_39_word_space_10 | upper wrist flush giggle position leaf hurdle cabin mutual crew |  

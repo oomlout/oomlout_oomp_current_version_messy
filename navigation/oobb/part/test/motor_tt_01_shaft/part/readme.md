@@ -122,6 +122,18 @@ poverty
 unhappy
 parade
 link |  
+| bip_39_word_no_space_1 | decrease |  
+| bip_39_word_no_space_10 | decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraid |  
+| bip_39_word_no_space_11 | decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraidclock |  
+| bip_39_word_no_space_12 | decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraidclockarena |  
+| bip_39_word_no_space_2 | decreaseshrug |  
+| bip_39_word_no_space_3 | decreaseshrugtourist |  
+| bip_39_word_no_space_4 | decreaseshrugtouristparty |  
+| bip_39_word_no_space_5 | decreaseshrugtouristpartyrain |  
+| bip_39_word_no_space_6 | decreaseshrugtouristpartyrainpoverty |  
+| bip_39_word_no_space_7 | decreaseshrugtouristpartyrainpovertyunhappy |  
+| bip_39_word_no_space_8 | decreaseshrugtouristpartyrainpovertyunhappyparade |  
+| bip_39_word_no_space_9 | decreaseshrugtouristpartyrainpovertyunhappyparadelink |  
 | bip_39_word_space_0 | ['decrease', 'shrug', 'tourist', 'party', 'rain', 'poverty', 'unhappy', 'parade', 'link', 'afraid', 'clock', 'arena'] |  
 | bip_39_word_space_1 | decrease |  
 | bip_39_word_space_10 | decrease shrug tourist party rain poverty unhappy parade link afraid |  

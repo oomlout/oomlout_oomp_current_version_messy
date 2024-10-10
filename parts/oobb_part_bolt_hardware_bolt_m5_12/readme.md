@@ -122,6 +122,18 @@ fresh
 talent
 smoke
 grape |  
+| bip_39_word_no_space_1 | consider |  
+| bip_39_word_no_space_10 | considercoolcabinokaynosefreshtalentsmokegrapefew |  
+| bip_39_word_no_space_11 | considercoolcabinokaynosefreshtalentsmokegrapefewspirit |  
+| bip_39_word_no_space_12 | considercoolcabinokaynosefreshtalentsmokegrapefewspiritanxiety |  
+| bip_39_word_no_space_2 | considercool |  
+| bip_39_word_no_space_3 | considercoolcabin |  
+| bip_39_word_no_space_4 | considercoolcabinokay |  
+| bip_39_word_no_space_5 | considercoolcabinokaynose |  
+| bip_39_word_no_space_6 | considercoolcabinokaynosefresh |  
+| bip_39_word_no_space_7 | considercoolcabinokaynosefreshtalent |  
+| bip_39_word_no_space_8 | considercoolcabinokaynosefreshtalentsmoke |  
+| bip_39_word_no_space_9 | considercoolcabinokaynosefreshtalentsmokegrape |  
 | bip_39_word_space_0 | ['consider', 'cool', 'cabin', 'okay', 'nose', 'fresh', 'talent', 'smoke', 'grape', 'few', 'spirit', 'anxiety'] |  
 | bip_39_word_space_1 | consider |  
 | bip_39_word_space_10 | consider cool cabin okay nose fresh talent smoke grape few |  

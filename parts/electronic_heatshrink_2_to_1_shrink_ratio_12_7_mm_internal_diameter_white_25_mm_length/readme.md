@@ -122,6 +122,18 @@ enter
 timber
 anchor
 luxury |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstblueconvincebouncedropentertimberanchorluxuryspeak |  
+| bip_39_word_no_space_11 | firstblueconvincebouncedropentertimberanchorluxuryspeakexpire |  
+| bip_39_word_no_space_12 | firstblueconvincebouncedropentertimberanchorluxuryspeakexpireattitude |  
+| bip_39_word_no_space_2 | firstblue |  
+| bip_39_word_no_space_3 | firstblueconvince |  
+| bip_39_word_no_space_4 | firstblueconvincebounce |  
+| bip_39_word_no_space_5 | firstblueconvincebouncedrop |  
+| bip_39_word_no_space_6 | firstblueconvincebouncedropenter |  
+| bip_39_word_no_space_7 | firstblueconvincebouncedropentertimber |  
+| bip_39_word_no_space_8 | firstblueconvincebouncedropentertimberanchor |  
+| bip_39_word_no_space_9 | firstblueconvincebouncedropentertimberanchorluxury |  
 | bip_39_word_space_0 | ['first', 'blue', 'convince', 'bounce', 'drop', 'enter', 'timber', 'anchor', 'luxury', 'speak', 'expire', 'attitude'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first blue convince bounce drop enter timber anchor luxury speak |  

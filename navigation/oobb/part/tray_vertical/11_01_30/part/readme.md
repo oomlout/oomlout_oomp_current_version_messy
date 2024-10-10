@@ -122,6 +122,18 @@ rebel
 space
 ecology
 neglect |  
+| bip_39_word_no_space_1 | draw |  
+| bip_39_word_no_space_10 | drawendorsechaptervangirafferebelspaceecologyneglectcaptain |  
+| bip_39_word_no_space_11 | drawendorsechaptervangirafferebelspaceecologyneglectcaptainworld |  
+| bip_39_word_no_space_12 | drawendorsechaptervangirafferebelspaceecologyneglectcaptainworldavocado |  
+| bip_39_word_no_space_2 | drawendorse |  
+| bip_39_word_no_space_3 | drawendorsechapter |  
+| bip_39_word_no_space_4 | drawendorsechaptervan |  
+| bip_39_word_no_space_5 | drawendorsechaptervangiraffe |  
+| bip_39_word_no_space_6 | drawendorsechaptervangirafferebel |  
+| bip_39_word_no_space_7 | drawendorsechaptervangirafferebelspace |  
+| bip_39_word_no_space_8 | drawendorsechaptervangirafferebelspaceecology |  
+| bip_39_word_no_space_9 | drawendorsechaptervangirafferebelspaceecologyneglect |  
 | bip_39_word_space_0 | ['draw', 'endorse', 'chapter', 'van', 'giraffe', 'rebel', 'space', 'ecology', 'neglect', 'captain', 'world', 'avocado'] |  
 | bip_39_word_space_1 | draw |  
 | bip_39_word_space_10 | draw endorse chapter van giraffe rebel space ecology neglect captain |  

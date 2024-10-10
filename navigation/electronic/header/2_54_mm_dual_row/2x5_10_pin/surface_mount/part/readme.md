@@ -122,6 +122,18 @@ olympic
 day
 nice
 fold |  
+| bip_39_word_no_space_1 | diesel |  
+| bip_39_word_no_space_10 | dieselcaughttoiletabusemarriageolympicdaynicefoldalone |  
+| bip_39_word_no_space_11 | dieselcaughttoiletabusemarriageolympicdaynicefoldaloneindex |  
+| bip_39_word_no_space_12 | dieselcaughttoiletabusemarriageolympicdaynicefoldaloneindexanger |  
+| bip_39_word_no_space_2 | dieselcaught |  
+| bip_39_word_no_space_3 | dieselcaughttoilet |  
+| bip_39_word_no_space_4 | dieselcaughttoiletabuse |  
+| bip_39_word_no_space_5 | dieselcaughttoiletabusemarriage |  
+| bip_39_word_no_space_6 | dieselcaughttoiletabusemarriageolympic |  
+| bip_39_word_no_space_7 | dieselcaughttoiletabusemarriageolympicday |  
+| bip_39_word_no_space_8 | dieselcaughttoiletabusemarriageolympicdaynice |  
+| bip_39_word_no_space_9 | dieselcaughttoiletabusemarriageolympicdaynicefold |  
 | bip_39_word_space_0 | ['diesel', 'caught', 'toilet', 'abuse', 'marriage', 'olympic', 'day', 'nice', 'fold', 'alone', 'index', 'anger'] |  
 | bip_39_word_space_1 | diesel |  
 | bip_39_word_space_10 | diesel caught toilet abuse marriage olympic day nice fold alone |  

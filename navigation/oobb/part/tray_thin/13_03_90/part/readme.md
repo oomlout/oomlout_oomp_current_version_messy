@@ -122,6 +122,18 @@ legal
 ceiling
 two
 spy |  
+| bip_39_word_no_space_1 | aim |  
+| bip_39_word_no_space_10 | aimevokegovernignoreclawlegalceilingtwospymoral |  
+| bip_39_word_no_space_11 | aimevokegovernignoreclawlegalceilingtwospymoralpilot |  
+| bip_39_word_no_space_12 | aimevokegovernignoreclawlegalceilingtwospymoralpilotaround |  
+| bip_39_word_no_space_2 | aimevoke |  
+| bip_39_word_no_space_3 | aimevokegovern |  
+| bip_39_word_no_space_4 | aimevokegovernignore |  
+| bip_39_word_no_space_5 | aimevokegovernignoreclaw |  
+| bip_39_word_no_space_6 | aimevokegovernignoreclawlegal |  
+| bip_39_word_no_space_7 | aimevokegovernignoreclawlegalceiling |  
+| bip_39_word_no_space_8 | aimevokegovernignoreclawlegalceilingtwo |  
+| bip_39_word_no_space_9 | aimevokegovernignoreclawlegalceilingtwospy |  
 | bip_39_word_space_0 | ['aim', 'evoke', 'govern', 'ignore', 'claw', 'legal', 'ceiling', 'two', 'spy', 'moral', 'pilot', 'around'] |  
 | bip_39_word_space_1 | aim |  
 | bip_39_word_space_10 | aim evoke govern ignore claw legal ceiling two spy moral |  

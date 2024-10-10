@@ -122,6 +122,18 @@ biology
 legal
 find
 air |  
+| bip_39_word_no_space_1 | track |  
+| bip_39_word_no_space_10 | trackhunttruckmysterystrugglebiologylegalfindairbusiness |  
+| bip_39_word_no_space_11 | trackhunttruckmysterystrugglebiologylegalfindairbusinesssplit |  
+| bip_39_word_no_space_12 | trackhunttruckmysterystrugglebiologylegalfindairbusinesssplitalbum |  
+| bip_39_word_no_space_2 | trackhunt |  
+| bip_39_word_no_space_3 | trackhunttruck |  
+| bip_39_word_no_space_4 | trackhunttruckmystery |  
+| bip_39_word_no_space_5 | trackhunttruckmysterystruggle |  
+| bip_39_word_no_space_6 | trackhunttruckmysterystrugglebiology |  
+| bip_39_word_no_space_7 | trackhunttruckmysterystrugglebiologylegal |  
+| bip_39_word_no_space_8 | trackhunttruckmysterystrugglebiologylegalfind |  
+| bip_39_word_no_space_9 | trackhunttruckmysterystrugglebiologylegalfindair |  
 | bip_39_word_space_0 | ['track', 'hunt', 'truck', 'mystery', 'struggle', 'biology', 'legal', 'find', 'air', 'business', 'split', 'album'] |  
 | bip_39_word_space_1 | track |  
 | bip_39_word_space_10 | track hunt truck mystery struggle biology legal find air business |  

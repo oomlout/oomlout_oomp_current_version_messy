@@ -122,6 +122,18 @@ kangaroo
 that
 fabric
 saddle |  
+| bip_39_word_no_space_1 | toast |  
+| bip_39_word_no_space_10 | toastevolvehybridimpactexactkangaroothatfabricsaddleoblige |  
+| bip_39_word_no_space_11 | toastevolvehybridimpactexactkangaroothatfabricsaddleobligenerve |  
+| bip_39_word_no_space_12 | toastevolvehybridimpactexactkangaroothatfabricsaddleobligenerveactress |  
+| bip_39_word_no_space_2 | toastevolve |  
+| bip_39_word_no_space_3 | toastevolvehybrid |  
+| bip_39_word_no_space_4 | toastevolvehybridimpact |  
+| bip_39_word_no_space_5 | toastevolvehybridimpactexact |  
+| bip_39_word_no_space_6 | toastevolvehybridimpactexactkangaroo |  
+| bip_39_word_no_space_7 | toastevolvehybridimpactexactkangaroothat |  
+| bip_39_word_no_space_8 | toastevolvehybridimpactexactkangaroothatfabric |  
+| bip_39_word_no_space_9 | toastevolvehybridimpactexactkangaroothatfabricsaddle |  
 | bip_39_word_space_0 | ['toast', 'evolve', 'hybrid', 'impact', 'exact', 'kangaroo', 'that', 'fabric', 'saddle', 'oblige', 'nerve', 'actress'] |  
 | bip_39_word_space_1 | toast |  
 | bip_39_word_space_10 | toast evolve hybrid impact exact kangaroo that fabric saddle oblige |  

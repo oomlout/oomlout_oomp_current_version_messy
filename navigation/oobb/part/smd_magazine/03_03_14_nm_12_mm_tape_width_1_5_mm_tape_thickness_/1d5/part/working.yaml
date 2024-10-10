@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pattern
   evolve
 
   resemble'
+bip_39_word_no_space_1: pattern
+bip_39_word_no_space_10: patternladybookupsetdriftdosespiritevolveresemblebanana
+bip_39_word_no_space_11: patternladybookupsetdriftdosespiritevolveresemblebananadress
+bip_39_word_no_space_12: patternladybookupsetdriftdosespiritevolveresemblebananadressamazing
+bip_39_word_no_space_2: patternlady
+bip_39_word_no_space_3: patternladybook
+bip_39_word_no_space_4: patternladybookupset
+bip_39_word_no_space_5: patternladybookupsetdrift
+bip_39_word_no_space_6: patternladybookupsetdriftdose
+bip_39_word_no_space_7: patternladybookupsetdriftdosespirit
+bip_39_word_no_space_8: patternladybookupsetdriftdosespiritevolve
+bip_39_word_no_space_9: patternladybookupsetdriftdosespiritevolveresemble
 bip_39_word_space_0:
 - pattern
 - lady

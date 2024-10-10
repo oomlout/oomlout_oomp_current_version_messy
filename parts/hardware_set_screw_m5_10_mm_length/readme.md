@@ -122,6 +122,18 @@ force
 cover
 physical
 oven |  
+| bip_39_word_no_space_1 | chaos |  
+| bip_39_word_no_space_10 | chaoscangesturejeansepisodeforcecoverphysicalovenhistory |  
+| bip_39_word_no_space_11 | chaoscangesturejeansepisodeforcecoverphysicalovenhistorycensus |  
+| bip_39_word_no_space_12 | chaoscangesturejeansepisodeforcecoverphysicalovenhistorycensusage |  
+| bip_39_word_no_space_2 | chaoscan |  
+| bip_39_word_no_space_3 | chaoscangesture |  
+| bip_39_word_no_space_4 | chaoscangesturejeans |  
+| bip_39_word_no_space_5 | chaoscangesturejeansepisode |  
+| bip_39_word_no_space_6 | chaoscangesturejeansepisodeforce |  
+| bip_39_word_no_space_7 | chaoscangesturejeansepisodeforcecover |  
+| bip_39_word_no_space_8 | chaoscangesturejeansepisodeforcecoverphysical |  
+| bip_39_word_no_space_9 | chaoscangesturejeansepisodeforcecoverphysicaloven |  
 | bip_39_word_space_0 | ['chaos', 'can', 'gesture', 'jeans', 'episode', 'force', 'cover', 'physical', 'oven', 'history', 'census', 'age'] |  
 | bip_39_word_space_1 | chaos |  
 | bip_39_word_space_10 | chaos can gesture jeans episode force cover physical oven history |  

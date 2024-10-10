@@ -122,6 +122,18 @@ average
 impact
 aware
 under |  
+| bip_39_word_no_space_1 | punch |  
+| bip_39_word_no_space_10 | punchforestwitnesstopicperfectaverageimpactawareundertonight |  
+| bip_39_word_no_space_11 | punchforestwitnesstopicperfectaverageimpactawareundertonighttoken |  
+| bip_39_word_no_space_12 | punchforestwitnesstopicperfectaverageimpactawareundertonighttokenargue |  
+| bip_39_word_no_space_2 | punchforest |  
+| bip_39_word_no_space_3 | punchforestwitness |  
+| bip_39_word_no_space_4 | punchforestwitnesstopic |  
+| bip_39_word_no_space_5 | punchforestwitnesstopicperfect |  
+| bip_39_word_no_space_6 | punchforestwitnesstopicperfectaverage |  
+| bip_39_word_no_space_7 | punchforestwitnesstopicperfectaverageimpact |  
+| bip_39_word_no_space_8 | punchforestwitnesstopicperfectaverageimpactaware |  
+| bip_39_word_no_space_9 | punchforestwitnesstopicperfectaverageimpactawareunder |  
 | bip_39_word_space_0 | ['punch', 'forest', 'witness', 'topic', 'perfect', 'average', 'impact', 'aware', 'under', 'tonight', 'token', 'argue'] |  
 | bip_39_word_space_1 | punch |  
 | bip_39_word_space_10 | punch forest witness topic perfect average impact aware under tonight |  

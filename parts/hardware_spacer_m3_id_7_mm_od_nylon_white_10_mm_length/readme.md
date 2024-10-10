@@ -122,6 +122,18 @@ undo
 begin
 menu
 shield |  
+| bip_39_word_no_space_1 | trim |  
+| bip_39_word_no_space_10 | trimotherverifystadiumcastleundobeginmenushieldensure |  
+| bip_39_word_no_space_11 | trimotherverifystadiumcastleundobeginmenushieldensureallow |  
+| bip_39_word_no_space_12 | trimotherverifystadiumcastleundobeginmenushieldensureallowapprove |  
+| bip_39_word_no_space_2 | trimother |  
+| bip_39_word_no_space_3 | trimotherverify |  
+| bip_39_word_no_space_4 | trimotherverifystadium |  
+| bip_39_word_no_space_5 | trimotherverifystadiumcastle |  
+| bip_39_word_no_space_6 | trimotherverifystadiumcastleundo |  
+| bip_39_word_no_space_7 | trimotherverifystadiumcastleundobegin |  
+| bip_39_word_no_space_8 | trimotherverifystadiumcastleundobeginmenu |  
+| bip_39_word_no_space_9 | trimotherverifystadiumcastleundobeginmenushield |  
 | bip_39_word_space_0 | ['trim', 'other', 'verify', 'stadium', 'castle', 'undo', 'begin', 'menu', 'shield', 'ensure', 'allow', 'approve'] |  
 | bip_39_word_space_1 | trim |  
 | bip_39_word_space_10 | trim other verify stadium castle undo begin menu shield ensure |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'juice
   peace
 
   excuse'
+bip_39_word_no_space_1: juice
+bip_39_word_no_space_10: juiceaugustvoyagevisarawtastelicensepeaceexcusebrother
+bip_39_word_no_space_11: juiceaugustvoyagevisarawtastelicensepeaceexcusebrothercool
+bip_39_word_no_space_12: juiceaugustvoyagevisarawtastelicensepeaceexcusebrothercoolaction
+bip_39_word_no_space_2: juiceaugust
+bip_39_word_no_space_3: juiceaugustvoyage
+bip_39_word_no_space_4: juiceaugustvoyagevisa
+bip_39_word_no_space_5: juiceaugustvoyagevisaraw
+bip_39_word_no_space_6: juiceaugustvoyagevisarawtaste
+bip_39_word_no_space_7: juiceaugustvoyagevisarawtastelicense
+bip_39_word_no_space_8: juiceaugustvoyagevisarawtastelicensepeace
+bip_39_word_no_space_9: juiceaugustvoyagevisarawtastelicensepeaceexcuse
 bip_39_word_space_0:
 - juice
 - august

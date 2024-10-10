@@ -122,6 +122,18 @@ anger
 impose
 math
 beef |  
+| bip_39_word_no_space_1 | thunder |  
+| bip_39_word_no_space_10 | thundersecondreopenqualityplayangerimposemathbeefmixed |  
+| bip_39_word_no_space_11 | thundersecondreopenqualityplayangerimposemathbeefmixedowner |  
+| bip_39_word_no_space_12 | thundersecondreopenqualityplayangerimposemathbeefmixedownerautumn |  
+| bip_39_word_no_space_2 | thundersecond |  
+| bip_39_word_no_space_3 | thundersecondreopen |  
+| bip_39_word_no_space_4 | thundersecondreopenquality |  
+| bip_39_word_no_space_5 | thundersecondreopenqualityplay |  
+| bip_39_word_no_space_6 | thundersecondreopenqualityplayanger |  
+| bip_39_word_no_space_7 | thundersecondreopenqualityplayangerimpose |  
+| bip_39_word_no_space_8 | thundersecondreopenqualityplayangerimposemath |  
+| bip_39_word_no_space_9 | thundersecondreopenqualityplayangerimposemathbeef |  
 | bip_39_word_space_0 | ['thunder', 'second', 'reopen', 'quality', 'play', 'anger', 'impose', 'math', 'beef', 'mixed', 'owner', 'autumn'] |  
 | bip_39_word_space_1 | thunder |  
 | bip_39_word_space_10 | thunder second reopen quality play anger impose math beef mixed |  

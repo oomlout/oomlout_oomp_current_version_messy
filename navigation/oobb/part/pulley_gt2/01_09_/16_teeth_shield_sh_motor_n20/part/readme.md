@@ -122,6 +122,18 @@ snow
 soap
 still
 essay |  
+| bip_39_word_no_space_1 | weasel |  
+| bip_39_word_no_space_10 | weaselindicatedetailplanetsouthsnowsoapstillessaymessage |  
+| bip_39_word_no_space_11 | weaselindicatedetailplanetsouthsnowsoapstillessaymessageinfant |  
+| bip_39_word_no_space_12 | weaselindicatedetailplanetsouthsnowsoapstillessaymessageinfantamazing |  
+| bip_39_word_no_space_2 | weaselindicate |  
+| bip_39_word_no_space_3 | weaselindicatedetail |  
+| bip_39_word_no_space_4 | weaselindicatedetailplanet |  
+| bip_39_word_no_space_5 | weaselindicatedetailplanetsouth |  
+| bip_39_word_no_space_6 | weaselindicatedetailplanetsouthsnow |  
+| bip_39_word_no_space_7 | weaselindicatedetailplanetsouthsnowsoap |  
+| bip_39_word_no_space_8 | weaselindicatedetailplanetsouthsnowsoapstill |  
+| bip_39_word_no_space_9 | weaselindicatedetailplanetsouthsnowsoapstillessay |  
 | bip_39_word_space_0 | ['weasel', 'indicate', 'detail', 'planet', 'south', 'snow', 'soap', 'still', 'essay', 'message', 'infant', 'amazing'] |  
 | bip_39_word_space_1 | weasel |  
 | bip_39_word_space_10 | weasel indicate detail planet south snow soap still essay message |  

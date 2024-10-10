@@ -122,6 +122,18 @@ lady
 tonight
 word
 bleak |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintokaydashenacttentladytonightwordbleakmedal |  
+| bip_39_word_no_space_11 | faintokaydashenacttentladytonightwordbleakmedalcanal |  
+| bip_39_word_no_space_12 | faintokaydashenacttentladytonightwordbleakmedalcanalaerobic |  
+| bip_39_word_no_space_2 | faintokay |  
+| bip_39_word_no_space_3 | faintokaydash |  
+| bip_39_word_no_space_4 | faintokaydashenact |  
+| bip_39_word_no_space_5 | faintokaydashenacttent |  
+| bip_39_word_no_space_6 | faintokaydashenacttentlady |  
+| bip_39_word_no_space_7 | faintokaydashenacttentladytonight |  
+| bip_39_word_no_space_8 | faintokaydashenacttentladytonightword |  
+| bip_39_word_no_space_9 | faintokaydashenacttentladytonightwordbleak |  
 | bip_39_word_space_0 | ['faint', 'okay', 'dash', 'enact', 'tent', 'lady', 'tonight', 'word', 'bleak', 'medal', 'canal', 'aerobic'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint okay dash enact tent lady tonight word bleak medal |  

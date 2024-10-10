@@ -122,6 +122,18 @@ mobile
 color
 kid
 giggle |  
+| bip_39_word_no_space_1 | stumble |  
+| bip_39_word_no_space_10 | stumblemarketaprilfoxboymobilecolorkidgiggledepend |  
+| bip_39_word_no_space_11 | stumblemarketaprilfoxboymobilecolorkidgiggledependpurchase |  
+| bip_39_word_no_space_12 | stumblemarketaprilfoxboymobilecolorkidgiggledependpurchaseauction |  
+| bip_39_word_no_space_2 | stumblemarket |  
+| bip_39_word_no_space_3 | stumblemarketapril |  
+| bip_39_word_no_space_4 | stumblemarketaprilfox |  
+| bip_39_word_no_space_5 | stumblemarketaprilfoxboy |  
+| bip_39_word_no_space_6 | stumblemarketaprilfoxboymobile |  
+| bip_39_word_no_space_7 | stumblemarketaprilfoxboymobilecolor |  
+| bip_39_word_no_space_8 | stumblemarketaprilfoxboymobilecolorkid |  
+| bip_39_word_no_space_9 | stumblemarketaprilfoxboymobilecolorkidgiggle |  
 | bip_39_word_space_0 | ['stumble', 'market', 'april', 'fox', 'boy', 'mobile', 'color', 'kid', 'giggle', 'depend', 'purchase', 'auction'] |  
 | bip_39_word_space_1 | stumble |  
 | bip_39_word_space_10 | stumble market april fox boy mobile color kid giggle depend |  

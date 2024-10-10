@@ -122,6 +122,18 @@ bleak
 crowd
 donor
 album |  
+| bip_39_word_no_space_1 | prefer |  
+| bip_39_word_no_space_10 | preferquoteutilityvisualsolidbleakcrowddonoralbumpudding |  
+| bip_39_word_no_space_11 | preferquoteutilityvisualsolidbleakcrowddonoralbumpuddingduty |  
+| bip_39_word_no_space_12 | preferquoteutilityvisualsolidbleakcrowddonoralbumpuddingdutyaction |  
+| bip_39_word_no_space_2 | preferquote |  
+| bip_39_word_no_space_3 | preferquoteutility |  
+| bip_39_word_no_space_4 | preferquoteutilityvisual |  
+| bip_39_word_no_space_5 | preferquoteutilityvisualsolid |  
+| bip_39_word_no_space_6 | preferquoteutilityvisualsolidbleak |  
+| bip_39_word_no_space_7 | preferquoteutilityvisualsolidbleakcrowd |  
+| bip_39_word_no_space_8 | preferquoteutilityvisualsolidbleakcrowddonor |  
+| bip_39_word_no_space_9 | preferquoteutilityvisualsolidbleakcrowddonoralbum |  
 | bip_39_word_space_0 | ['prefer', 'quote', 'utility', 'visual', 'solid', 'bleak', 'crowd', 'donor', 'album', 'pudding', 'duty', 'action'] |  
 | bip_39_word_space_1 | prefer |  
 | bip_39_word_space_10 | prefer quote utility visual solid bleak crowd donor album pudding |  

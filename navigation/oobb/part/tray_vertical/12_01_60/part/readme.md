@@ -122,6 +122,18 @@ success
 common
 axis
 peanut |  
+| bip_39_word_no_space_1 | favorite |  
+| bip_39_word_no_space_10 | favoritedeclinevaultcrawlreturnsuccesscommonaxispeanutsure |  
+| bip_39_word_no_space_11 | favoritedeclinevaultcrawlreturnsuccesscommonaxispeanutsurecar |  
+| bip_39_word_no_space_12 | favoritedeclinevaultcrawlreturnsuccesscommonaxispeanutsurecaranother |  
+| bip_39_word_no_space_2 | favoritedecline |  
+| bip_39_word_no_space_3 | favoritedeclinevault |  
+| bip_39_word_no_space_4 | favoritedeclinevaultcrawl |  
+| bip_39_word_no_space_5 | favoritedeclinevaultcrawlreturn |  
+| bip_39_word_no_space_6 | favoritedeclinevaultcrawlreturnsuccess |  
+| bip_39_word_no_space_7 | favoritedeclinevaultcrawlreturnsuccesscommon |  
+| bip_39_word_no_space_8 | favoritedeclinevaultcrawlreturnsuccesscommonaxis |  
+| bip_39_word_no_space_9 | favoritedeclinevaultcrawlreturnsuccesscommonaxispeanut |  
 | bip_39_word_space_0 | ['favorite', 'decline', 'vault', 'crawl', 'return', 'success', 'common', 'axis', 'peanut', 'sure', 'car', 'another'] |  
 | bip_39_word_space_1 | favorite |  
 | bip_39_word_space_10 | favorite decline vault crawl return success common axis peanut sure |  

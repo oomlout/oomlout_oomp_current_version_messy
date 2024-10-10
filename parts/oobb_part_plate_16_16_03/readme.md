@@ -122,6 +122,18 @@ frog
 grid
 happy
 crack |  
+| bip_39_word_no_space_1 | eternal |  
+| bip_39_word_no_space_10 | eternalecologyslotcarrysuccessfroggridhappycrackdocument |  
+| bip_39_word_no_space_11 | eternalecologyslotcarrysuccessfroggridhappycrackdocumentbroccoli |  
+| bip_39_word_no_space_12 | eternalecologyslotcarrysuccessfroggridhappycrackdocumentbroccoliamazing |  
+| bip_39_word_no_space_2 | eternalecology |  
+| bip_39_word_no_space_3 | eternalecologyslot |  
+| bip_39_word_no_space_4 | eternalecologyslotcarry |  
+| bip_39_word_no_space_5 | eternalecologyslotcarrysuccess |  
+| bip_39_word_no_space_6 | eternalecologyslotcarrysuccessfrog |  
+| bip_39_word_no_space_7 | eternalecologyslotcarrysuccessfroggrid |  
+| bip_39_word_no_space_8 | eternalecologyslotcarrysuccessfroggridhappy |  
+| bip_39_word_no_space_9 | eternalecologyslotcarrysuccessfroggridhappycrack |  
 | bip_39_word_space_0 | ['eternal', 'ecology', 'slot', 'carry', 'success', 'frog', 'grid', 'happy', 'crack', 'document', 'broccoli', 'amazing'] |  
 | bip_39_word_space_1 | eternal |  
 | bip_39_word_space_10 | eternal ecology slot carry success frog grid happy crack document |  

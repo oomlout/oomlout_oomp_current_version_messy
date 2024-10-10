@@ -122,6 +122,18 @@ oak
 already
 napkin
 bid |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineethankoffvitaldeclineoakalreadynapkinbidwild |  
+| bip_39_word_no_space_11 | nomineethankoffvitaldeclineoakalreadynapkinbidwildcandy |  
+| bip_39_word_no_space_12 | nomineethankoffvitaldeclineoakalreadynapkinbidwildcandyart |  
+| bip_39_word_no_space_2 | nomineethank |  
+| bip_39_word_no_space_3 | nomineethankoff |  
+| bip_39_word_no_space_4 | nomineethankoffvital |  
+| bip_39_word_no_space_5 | nomineethankoffvitaldecline |  
+| bip_39_word_no_space_6 | nomineethankoffvitaldeclineoak |  
+| bip_39_word_no_space_7 | nomineethankoffvitaldeclineoakalready |  
+| bip_39_word_no_space_8 | nomineethankoffvitaldeclineoakalreadynapkin |  
+| bip_39_word_no_space_9 | nomineethankoffvitaldeclineoakalreadynapkinbid |  
 | bip_39_word_space_0 | ['nominee', 'thank', 'off', 'vital', 'decline', 'oak', 'already', 'napkin', 'bid', 'wild', 'candy', 'art'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee thank off vital decline oak already napkin bid wild |  

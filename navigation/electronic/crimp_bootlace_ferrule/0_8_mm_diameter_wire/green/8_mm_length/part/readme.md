@@ -122,6 +122,18 @@ float
 people
 chapter
 impose |  
+| bip_39_word_no_space_1 | cat |  
+| bip_39_word_no_space_10 | catnaivecrickethopenowfloatpeoplechapterimposeupon |  
+| bip_39_word_no_space_11 | catnaivecrickethopenowfloatpeoplechapterimposeuponlizard |  
+| bip_39_word_no_space_12 | catnaivecrickethopenowfloatpeoplechapterimposeuponlizardagain |  
+| bip_39_word_no_space_2 | catnaive |  
+| bip_39_word_no_space_3 | catnaivecricket |  
+| bip_39_word_no_space_4 | catnaivecrickethope |  
+| bip_39_word_no_space_5 | catnaivecrickethopenow |  
+| bip_39_word_no_space_6 | catnaivecrickethopenowfloat |  
+| bip_39_word_no_space_7 | catnaivecrickethopenowfloatpeople |  
+| bip_39_word_no_space_8 | catnaivecrickethopenowfloatpeoplechapter |  
+| bip_39_word_no_space_9 | catnaivecrickethopenowfloatpeoplechapterimpose |  
 | bip_39_word_space_0 | ['cat', 'naive', 'cricket', 'hope', 'now', 'float', 'people', 'chapter', 'impose', 'upon', 'lizard', 'again'] |  
 | bip_39_word_space_1 | cat |  
 | bip_39_word_space_10 | cat naive cricket hope now float people chapter impose upon |  

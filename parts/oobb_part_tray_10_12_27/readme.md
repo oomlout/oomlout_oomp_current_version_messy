@@ -122,6 +122,18 @@ between
 someone
 essay
 section |  
+| bip_39_word_no_space_1 | equal |  
+| bip_39_word_no_space_10 | equalclownpandapactcrackbetweensomeoneessaysectionbrother |  
+| bip_39_word_no_space_11 | equalclownpandapactcrackbetweensomeoneessaysectionbrothermillion |  
+| bip_39_word_no_space_12 | equalclownpandapactcrackbetweensomeoneessaysectionbrothermillionankle |  
+| bip_39_word_no_space_2 | equalclown |  
+| bip_39_word_no_space_3 | equalclownpanda |  
+| bip_39_word_no_space_4 | equalclownpandapact |  
+| bip_39_word_no_space_5 | equalclownpandapactcrack |  
+| bip_39_word_no_space_6 | equalclownpandapactcrackbetween |  
+| bip_39_word_no_space_7 | equalclownpandapactcrackbetweensomeone |  
+| bip_39_word_no_space_8 | equalclownpandapactcrackbetweensomeoneessay |  
+| bip_39_word_no_space_9 | equalclownpandapactcrackbetweensomeoneessaysection |  
 | bip_39_word_space_0 | ['equal', 'clown', 'panda', 'pact', 'crack', 'between', 'someone', 'essay', 'section', 'brother', 'million', 'ankle'] |  
 | bip_39_word_space_1 | equal |  
 | bip_39_word_space_10 | equal clown panda pact crack between someone essay section brother |  

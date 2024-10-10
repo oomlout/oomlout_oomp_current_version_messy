@@ -122,6 +122,18 @@ lava
 abuse
 run
 rack |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicmatteruncoverbonusspeciallavaabuserunrackfog |  
+| bip_39_word_no_space_11 | picnicmatteruncoverbonusspeciallavaabuserunrackfogdismiss |  
+| bip_39_word_no_space_12 | picnicmatteruncoverbonusspeciallavaabuserunrackfogdismissangry |  
+| bip_39_word_no_space_2 | picnicmatter |  
+| bip_39_word_no_space_3 | picnicmatteruncover |  
+| bip_39_word_no_space_4 | picnicmatteruncoverbonus |  
+| bip_39_word_no_space_5 | picnicmatteruncoverbonusspecial |  
+| bip_39_word_no_space_6 | picnicmatteruncoverbonusspeciallava |  
+| bip_39_word_no_space_7 | picnicmatteruncoverbonusspeciallavaabuse |  
+| bip_39_word_no_space_8 | picnicmatteruncoverbonusspeciallavaabuserun |  
+| bip_39_word_no_space_9 | picnicmatteruncoverbonusspeciallavaabuserunrack |  
 | bip_39_word_space_0 | ['picnic', 'matter', 'uncover', 'bonus', 'special', 'lava', 'abuse', 'run', 'rack', 'fog', 'dismiss', 'angry'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic matter uncover bonus special lava abuse run rack fog |  

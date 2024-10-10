@@ -122,6 +122,18 @@ load
 salad
 jewel
 twist |  
+| bip_39_word_no_space_1 | learn |  
+| bip_39_word_no_space_10 | learnsuchdepthlawexhaustloadsaladjeweltwistamused |  
+| bip_39_word_no_space_11 | learnsuchdepthlawexhaustloadsaladjeweltwistamusedmillion |  
+| bip_39_word_no_space_12 | learnsuchdepthlawexhaustloadsaladjeweltwistamusedmillionaddress |  
+| bip_39_word_no_space_2 | learnsuch |  
+| bip_39_word_no_space_3 | learnsuchdepth |  
+| bip_39_word_no_space_4 | learnsuchdepthlaw |  
+| bip_39_word_no_space_5 | learnsuchdepthlawexhaust |  
+| bip_39_word_no_space_6 | learnsuchdepthlawexhaustload |  
+| bip_39_word_no_space_7 | learnsuchdepthlawexhaustloadsalad |  
+| bip_39_word_no_space_8 | learnsuchdepthlawexhaustloadsaladjewel |  
+| bip_39_word_no_space_9 | learnsuchdepthlawexhaustloadsaladjeweltwist |  
 | bip_39_word_space_0 | ['learn', 'such', 'depth', 'law', 'exhaust', 'load', 'salad', 'jewel', 'twist', 'amused', 'million', 'address'] |  
 | bip_39_word_space_1 | learn |  
 | bip_39_word_space_10 | learn such depth law exhaust load salad jewel twist amused |  

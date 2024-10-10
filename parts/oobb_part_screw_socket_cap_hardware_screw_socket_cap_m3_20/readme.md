@@ -122,6 +122,18 @@ raven
 guitar
 scissors
 parrot |  
+| bip_39_word_no_space_1 | sustain |  
+| bip_39_word_no_space_10 | sustainbindloudtruckdiamondravenguitarscissorsparrotsize |  
+| bip_39_word_no_space_11 | sustainbindloudtruckdiamondravenguitarscissorsparrotsizesenior |  
+| bip_39_word_no_space_12 | sustainbindloudtruckdiamondravenguitarscissorsparrotsizeseniorartwork |  
+| bip_39_word_no_space_2 | sustainbind |  
+| bip_39_word_no_space_3 | sustainbindloud |  
+| bip_39_word_no_space_4 | sustainbindloudtruck |  
+| bip_39_word_no_space_5 | sustainbindloudtruckdiamond |  
+| bip_39_word_no_space_6 | sustainbindloudtruckdiamondraven |  
+| bip_39_word_no_space_7 | sustainbindloudtruckdiamondravenguitar |  
+| bip_39_word_no_space_8 | sustainbindloudtruckdiamondravenguitarscissors |  
+| bip_39_word_no_space_9 | sustainbindloudtruckdiamondravenguitarscissorsparrot |  
 | bip_39_word_space_0 | ['sustain', 'bind', 'loud', 'truck', 'diamond', 'raven', 'guitar', 'scissors', 'parrot', 'size', 'senior', 'artwork'] |  
 | bip_39_word_space_1 | sustain |  
 | bip_39_word_space_10 | sustain bind loud truck diamond raven guitar scissors parrot size |  

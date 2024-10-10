@@ -122,6 +122,18 @@ wall
 almost
 concert
 segment |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddlekidbirthtumblepovertywallalmostconcertsegmentchunk |  
+| bip_39_word_no_space_11 | saddlekidbirthtumblepovertywallalmostconcertsegmentchunkendorse |  
+| bip_39_word_no_space_12 | saddlekidbirthtumblepovertywallalmostconcertsegmentchunkendorseable |  
+| bip_39_word_no_space_2 | saddlekid |  
+| bip_39_word_no_space_3 | saddlekidbirth |  
+| bip_39_word_no_space_4 | saddlekidbirthtumble |  
+| bip_39_word_no_space_5 | saddlekidbirthtumblepoverty |  
+| bip_39_word_no_space_6 | saddlekidbirthtumblepovertywall |  
+| bip_39_word_no_space_7 | saddlekidbirthtumblepovertywallalmost |  
+| bip_39_word_no_space_8 | saddlekidbirthtumblepovertywallalmostconcert |  
+| bip_39_word_no_space_9 | saddlekidbirthtumblepovertywallalmostconcertsegment |  
 | bip_39_word_space_0 | ['saddle', 'kid', 'birth', 'tumble', 'poverty', 'wall', 'almost', 'concert', 'segment', 'chunk', 'endorse', 'able'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle kid birth tumble poverty wall almost concert segment chunk |  

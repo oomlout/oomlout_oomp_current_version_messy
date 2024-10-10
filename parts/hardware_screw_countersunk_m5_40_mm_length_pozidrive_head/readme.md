@@ -109,6 +109,17 @@ tenant
 gym
 report
 simple |  
+| bip_39_word_no_space_1 | return |  
+| bip_39_word_no_space_10 | returnhandindicatemindenacttenantgymreportsimpleparty |  
+| bip_39_word_no_space_11 | returnhandindicatemindenacttenantgymreportsimplepartypresent |  
+| bip_39_word_no_space_2 | returnhand |  
+| bip_39_word_no_space_3 | returnhandindicate |  
+| bip_39_word_no_space_4 | returnhandindicatemind |  
+| bip_39_word_no_space_5 | returnhandindicatemindenact |  
+| bip_39_word_no_space_6 | returnhandindicatemindenacttenant |  
+| bip_39_word_no_space_7 | returnhandindicatemindenacttenantgym |  
+| bip_39_word_no_space_8 | returnhandindicatemindenacttenantgymreport |  
+| bip_39_word_no_space_9 | returnhandindicatemindenacttenantgymreportsimple |  
 | bip_39_word_space_0 | ['return', 'hand', 'indicate', 'mind', 'enact', 'tenant', 'gym', 'report', 'simple', 'party', 'present'] |  
 | bip_39_word_space_1 | return |  
 | bip_39_word_space_10 | return hand indicate mind enact tenant gym report simple party |  

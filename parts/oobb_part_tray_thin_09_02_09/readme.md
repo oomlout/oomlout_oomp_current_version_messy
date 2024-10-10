@@ -122,6 +122,18 @@ start
 fold
 glimpse
 pole |  
+| bip_39_word_no_space_1 | unable |  
+| bip_39_word_no_space_10 | unableravenflysunsetcomicstartfoldglimpsepoleleader |  
+| bip_39_word_no_space_11 | unableravenflysunsetcomicstartfoldglimpsepoleleadercoast |  
+| bip_39_word_no_space_12 | unableravenflysunsetcomicstartfoldglimpsepoleleadercoastalone |  
+| bip_39_word_no_space_2 | unableraven |  
+| bip_39_word_no_space_3 | unableravenfly |  
+| bip_39_word_no_space_4 | unableravenflysunset |  
+| bip_39_word_no_space_5 | unableravenflysunsetcomic |  
+| bip_39_word_no_space_6 | unableravenflysunsetcomicstart |  
+| bip_39_word_no_space_7 | unableravenflysunsetcomicstartfold |  
+| bip_39_word_no_space_8 | unableravenflysunsetcomicstartfoldglimpse |  
+| bip_39_word_no_space_9 | unableravenflysunsetcomicstartfoldglimpsepole |  
 | bip_39_word_space_0 | ['unable', 'raven', 'fly', 'sunset', 'comic', 'start', 'fold', 'glimpse', 'pole', 'leader', 'coast', 'alone'] |  
 | bip_39_word_space_1 | unable |  
 | bip_39_word_space_10 | unable raven fly sunset comic start fold glimpse pole leader |  

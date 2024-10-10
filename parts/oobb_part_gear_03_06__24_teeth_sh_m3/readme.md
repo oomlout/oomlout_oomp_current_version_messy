@@ -122,6 +122,18 @@ pulp
 actor
 click
 damp |  
+| bip_39_word_no_space_1 | output |  
+| bip_39_word_no_space_10 | outputvalidhostglowstrikepulpactorclickdampsing |  
+| bip_39_word_no_space_11 | outputvalidhostglowstrikepulpactorclickdampsingimpulse |  
+| bip_39_word_no_space_12 | outputvalidhostglowstrikepulpactorclickdampsingimpulseappear |  
+| bip_39_word_no_space_2 | outputvalid |  
+| bip_39_word_no_space_3 | outputvalidhost |  
+| bip_39_word_no_space_4 | outputvalidhostglow |  
+| bip_39_word_no_space_5 | outputvalidhostglowstrike |  
+| bip_39_word_no_space_6 | outputvalidhostglowstrikepulp |  
+| bip_39_word_no_space_7 | outputvalidhostglowstrikepulpactor |  
+| bip_39_word_no_space_8 | outputvalidhostglowstrikepulpactorclick |  
+| bip_39_word_no_space_9 | outputvalidhostglowstrikepulpactorclickdamp |  
 | bip_39_word_space_0 | ['output', 'valid', 'host', 'glow', 'strike', 'pulp', 'actor', 'click', 'damp', 'sing', 'impulse', 'appear'] |  
 | bip_39_word_space_1 | output |  
 | bip_39_word_space_10 | output valid host glow strike pulp actor click damp sing |  

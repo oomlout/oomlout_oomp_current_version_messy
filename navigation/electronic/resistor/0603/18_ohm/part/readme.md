@@ -122,6 +122,18 @@ remain
 soft
 milk
 shrimp |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtual |  
+| bip_39_word_no_space_11 | selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtualprivate |  
+| bip_39_word_no_space_12 | selectnarrowfunnyminuteenoughremainsoftmilkshrimpvirtualprivateavocado |  
+| bip_39_word_no_space_2 | selectnarrow |  
+| bip_39_word_no_space_3 | selectnarrowfunny |  
+| bip_39_word_no_space_4 | selectnarrowfunnyminute |  
+| bip_39_word_no_space_5 | selectnarrowfunnyminuteenough |  
+| bip_39_word_no_space_6 | selectnarrowfunnyminuteenoughremain |  
+| bip_39_word_no_space_7 | selectnarrowfunnyminuteenoughremainsoft |  
+| bip_39_word_no_space_8 | selectnarrowfunnyminuteenoughremainsoftmilk |  
+| bip_39_word_no_space_9 | selectnarrowfunnyminuteenoughremainsoftmilkshrimp |  
 | bip_39_word_space_0 | ['select', 'narrow', 'funny', 'minute', 'enough', 'remain', 'soft', 'milk', 'shrimp', 'virtual', 'private', 'avocado'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select narrow funny minute enough remain soft milk shrimp virtual |  

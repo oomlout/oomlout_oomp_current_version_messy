@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shy
   point
 
   shadow'
+bip_39_word_no_space_1: shy
+bip_39_word_no_space_10: shyhornpresenttonegarbageputprosperpointshadowhabit
+bip_39_word_no_space_11: shyhornpresenttonegarbageputprosperpointshadowhabitsiren
+bip_39_word_no_space_12: shyhornpresenttonegarbageputprosperpointshadowhabitsirenaccount
+bip_39_word_no_space_2: shyhorn
+bip_39_word_no_space_3: shyhornpresent
+bip_39_word_no_space_4: shyhornpresenttone
+bip_39_word_no_space_5: shyhornpresenttonegarbage
+bip_39_word_no_space_6: shyhornpresenttonegarbageput
+bip_39_word_no_space_7: shyhornpresenttonegarbageputprosper
+bip_39_word_no_space_8: shyhornpresenttonegarbageputprosperpoint
+bip_39_word_no_space_9: shyhornpresenttonegarbageputprosperpointshadow
 bip_39_word_space_0:
 - shy
 - horn

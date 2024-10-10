@@ -122,6 +122,18 @@ fee
 angry
 assume
 silly |  
+| bip_39_word_no_space_1 | junior |  
+| bip_39_word_no_space_10 | juniornovelrequirevendorbuyerfeeangryassumesillybitter |  
+| bip_39_word_no_space_11 | juniornovelrequirevendorbuyerfeeangryassumesillybitterequal |  
+| bip_39_word_no_space_12 | juniornovelrequirevendorbuyerfeeangryassumesillybitterequalanswer |  
+| bip_39_word_no_space_2 | juniornovel |  
+| bip_39_word_no_space_3 | juniornovelrequire |  
+| bip_39_word_no_space_4 | juniornovelrequirevendor |  
+| bip_39_word_no_space_5 | juniornovelrequirevendorbuyer |  
+| bip_39_word_no_space_6 | juniornovelrequirevendorbuyerfee |  
+| bip_39_word_no_space_7 | juniornovelrequirevendorbuyerfeeangry |  
+| bip_39_word_no_space_8 | juniornovelrequirevendorbuyerfeeangryassume |  
+| bip_39_word_no_space_9 | juniornovelrequirevendorbuyerfeeangryassumesilly |  
 | bip_39_word_space_0 | ['junior', 'novel', 'require', 'vendor', 'buyer', 'fee', 'angry', 'assume', 'silly', 'bitter', 'equal', 'answer'] |  
 | bip_39_word_space_1 | junior |  
 | bip_39_word_space_10 | junior novel require vendor buyer fee angry assume silly bitter |  

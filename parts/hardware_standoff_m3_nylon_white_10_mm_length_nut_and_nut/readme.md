@@ -122,6 +122,18 @@ apart
 hunt
 toddler
 summer |  
+| bip_39_word_no_space_1 | message |  
+| bip_39_word_no_space_10 | messagelivederiveballuponaparthunttoddlersummerincome |  
+| bip_39_word_no_space_11 | messagelivederiveballuponaparthunttoddlersummerincomebecause |  
+| bip_39_word_no_space_12 | messagelivederiveballuponaparthunttoddlersummerincomebecausealter |  
+| bip_39_word_no_space_2 | messagelive |  
+| bip_39_word_no_space_3 | messagelivederive |  
+| bip_39_word_no_space_4 | messagelivederiveball |  
+| bip_39_word_no_space_5 | messagelivederiveballupon |  
+| bip_39_word_no_space_6 | messagelivederiveballuponapart |  
+| bip_39_word_no_space_7 | messagelivederiveballuponaparthunt |  
+| bip_39_word_no_space_8 | messagelivederiveballuponaparthunttoddler |  
+| bip_39_word_no_space_9 | messagelivederiveballuponaparthunttoddlersummer |  
 | bip_39_word_space_0 | ['message', 'live', 'derive', 'ball', 'upon', 'apart', 'hunt', 'toddler', 'summer', 'income', 'because', 'alter'] |  
 | bip_39_word_space_1 | message |  
 | bip_39_word_space_10 | message live derive ball upon apart hunt toddler summer income |  

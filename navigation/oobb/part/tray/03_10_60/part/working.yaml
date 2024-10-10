@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'desk
   truly
 
   orbit'
+bip_39_word_no_space_1: desk
+bip_39_word_no_space_10: deskgirlguardjobdaringpulpnoodletrulyorbitpilot
+bip_39_word_no_space_11: deskgirlguardjobdaringpulpnoodletrulyorbitpilotglobe
+bip_39_word_no_space_12: deskgirlguardjobdaringpulpnoodletrulyorbitpilotglobeanimal
+bip_39_word_no_space_2: deskgirl
+bip_39_word_no_space_3: deskgirlguard
+bip_39_word_no_space_4: deskgirlguardjob
+bip_39_word_no_space_5: deskgirlguardjobdaring
+bip_39_word_no_space_6: deskgirlguardjobdaringpulp
+bip_39_word_no_space_7: deskgirlguardjobdaringpulpnoodle
+bip_39_word_no_space_8: deskgirlguardjobdaringpulpnoodletruly
+bip_39_word_no_space_9: deskgirlguardjobdaringpulpnoodletrulyorbit
 bip_39_word_space_0:
 - desk
 - girl

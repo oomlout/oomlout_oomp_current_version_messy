@@ -122,6 +122,18 @@ rubber
 vapor
 universe
 border |  
+| bip_39_word_no_space_1 | friend |  
+| bip_39_word_no_space_10 | frienddegreeorphanpotterysomeonerubbervaporuniverseborderkind |  
+| bip_39_word_no_space_11 | frienddegreeorphanpotterysomeonerubbervaporuniverseborderkindaffair |  
+| bip_39_word_no_space_12 | frienddegreeorphanpotterysomeonerubbervaporuniverseborderkindaffairargue |  
+| bip_39_word_no_space_2 | frienddegree |  
+| bip_39_word_no_space_3 | frienddegreeorphan |  
+| bip_39_word_no_space_4 | frienddegreeorphanpottery |  
+| bip_39_word_no_space_5 | frienddegreeorphanpotterysomeone |  
+| bip_39_word_no_space_6 | frienddegreeorphanpotterysomeonerubber |  
+| bip_39_word_no_space_7 | frienddegreeorphanpotterysomeonerubbervapor |  
+| bip_39_word_no_space_8 | frienddegreeorphanpotterysomeonerubbervaporuniverse |  
+| bip_39_word_no_space_9 | frienddegreeorphanpotterysomeonerubbervaporuniverseborder |  
 | bip_39_word_space_0 | ['friend', 'degree', 'orphan', 'pottery', 'someone', 'rubber', 'vapor', 'universe', 'border', 'kind', 'affair', 'argue'] |  
 | bip_39_word_space_1 | friend |  
 | bip_39_word_space_10 | friend degree orphan pottery someone rubber vapor universe border kind |  

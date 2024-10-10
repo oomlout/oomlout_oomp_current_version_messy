@@ -122,6 +122,18 @@ brass
 vanish
 index
 gym |  
+| bip_39_word_no_space_1 | snake |  
+| bip_39_word_no_space_10 | snakeamazingnuclearsketchfilebrassvanishindexgyminstall |  
+| bip_39_word_no_space_11 | snakeamazingnuclearsketchfilebrassvanishindexgyminstallbean |  
+| bip_39_word_no_space_12 | snakeamazingnuclearsketchfilebrassvanishindexgyminstallbeanaccount |  
+| bip_39_word_no_space_2 | snakeamazing |  
+| bip_39_word_no_space_3 | snakeamazingnuclear |  
+| bip_39_word_no_space_4 | snakeamazingnuclearsketch |  
+| bip_39_word_no_space_5 | snakeamazingnuclearsketchfile |  
+| bip_39_word_no_space_6 | snakeamazingnuclearsketchfilebrass |  
+| bip_39_word_no_space_7 | snakeamazingnuclearsketchfilebrassvanish |  
+| bip_39_word_no_space_8 | snakeamazingnuclearsketchfilebrassvanishindex |  
+| bip_39_word_no_space_9 | snakeamazingnuclearsketchfilebrassvanishindexgym |  
 | bip_39_word_space_0 | ['snake', 'amazing', 'nuclear', 'sketch', 'file', 'brass', 'vanish', 'index', 'gym', 'install', 'bean', 'account'] |  
 | bip_39_word_space_1 | snake |  
 | bip_39_word_space_10 | snake amazing nuclear sketch file brass vanish index gym install |  

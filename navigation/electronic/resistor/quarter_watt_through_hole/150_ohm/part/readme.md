@@ -109,6 +109,17 @@ churn
 type
 prepare
 major |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | goodcarryadjustsoldierunderchurntypepreparemajorreport |  
+| bip_39_word_no_space_11 | goodcarryadjustsoldierunderchurntypepreparemajorreportlucky |  
+| bip_39_word_no_space_2 | goodcarry |  
+| bip_39_word_no_space_3 | goodcarryadjust |  
+| bip_39_word_no_space_4 | goodcarryadjustsoldier |  
+| bip_39_word_no_space_5 | goodcarryadjustsoldierunder |  
+| bip_39_word_no_space_6 | goodcarryadjustsoldierunderchurn |  
+| bip_39_word_no_space_7 | goodcarryadjustsoldierunderchurntype |  
+| bip_39_word_no_space_8 | goodcarryadjustsoldierunderchurntypeprepare |  
+| bip_39_word_no_space_9 | goodcarryadjustsoldierunderchurntypepreparemajor |  
 | bip_39_word_space_0 | ['good', 'carry', 'adjust', 'soldier', 'under', 'churn', 'type', 'prepare', 'major', 'report', 'lucky'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good carry adjust soldier under churn type prepare major report |  

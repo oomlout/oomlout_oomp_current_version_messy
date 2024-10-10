@@ -122,6 +122,18 @@ mosquito
 engage
 mesh
 lunch |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehicleinvesttrulygallerymiddlemosquitoengagemeshlunchsick |  
+| bip_39_word_no_space_11 | vehicleinvesttrulygallerymiddlemosquitoengagemeshlunchsicklamp |  
+| bip_39_word_no_space_12 | vehicleinvesttrulygallerymiddlemosquitoengagemeshlunchsicklampadmit |  
+| bip_39_word_no_space_2 | vehicleinvest |  
+| bip_39_word_no_space_3 | vehicleinvesttruly |  
+| bip_39_word_no_space_4 | vehicleinvesttrulygallery |  
+| bip_39_word_no_space_5 | vehicleinvesttrulygallerymiddle |  
+| bip_39_word_no_space_6 | vehicleinvesttrulygallerymiddlemosquito |  
+| bip_39_word_no_space_7 | vehicleinvesttrulygallerymiddlemosquitoengage |  
+| bip_39_word_no_space_8 | vehicleinvesttrulygallerymiddlemosquitoengagemesh |  
+| bip_39_word_no_space_9 | vehicleinvesttrulygallerymiddlemosquitoengagemeshlunch |  
 | bip_39_word_space_0 | ['vehicle', 'invest', 'truly', 'gallery', 'middle', 'mosquito', 'engage', 'mesh', 'lunch', 'sick', 'lamp', 'admit'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle invest truly gallery middle mosquito engage mesh lunch sick |  

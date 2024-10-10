@@ -122,6 +122,18 @@ you
 toss
 witness
 hill |  
+| bip_39_word_no_space_1 | relax |  
+| bip_39_word_no_space_10 | relaxpracticemutualluxuryyouthyoutosswitnesshillinch |  
+| bip_39_word_no_space_11 | relaxpracticemutualluxuryyouthyoutosswitnesshillinchvoice |  
+| bip_39_word_no_space_12 | relaxpracticemutualluxuryyouthyoutosswitnesshillinchvoiceassault |  
+| bip_39_word_no_space_2 | relaxpractice |  
+| bip_39_word_no_space_3 | relaxpracticemutual |  
+| bip_39_word_no_space_4 | relaxpracticemutualluxury |  
+| bip_39_word_no_space_5 | relaxpracticemutualluxuryyouth |  
+| bip_39_word_no_space_6 | relaxpracticemutualluxuryyouthyou |  
+| bip_39_word_no_space_7 | relaxpracticemutualluxuryyouthyoutoss |  
+| bip_39_word_no_space_8 | relaxpracticemutualluxuryyouthyoutosswitness |  
+| bip_39_word_no_space_9 | relaxpracticemutualluxuryyouthyoutosswitnesshill |  
 | bip_39_word_space_0 | ['relax', 'practice', 'mutual', 'luxury', 'youth', 'you', 'toss', 'witness', 'hill', 'inch', 'voice', 'assault'] |  
 | bip_39_word_space_1 | relax |  
 | bip_39_word_space_10 | relax practice mutual luxury youth you toss witness hill inch |  

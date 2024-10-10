@@ -122,6 +122,18 @@ coil
 orphan
 cousin
 caught |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naiveamuseddrawarenaenablecoilorphancousincaughtobserve |  
+| bip_39_word_no_space_11 | naiveamuseddrawarenaenablecoilorphancousincaughtobservenoodle |  
+| bip_39_word_no_space_12 | naiveamuseddrawarenaenablecoilorphancousincaughtobservenoodleacoustic |  
+| bip_39_word_no_space_2 | naiveamused |  
+| bip_39_word_no_space_3 | naiveamuseddraw |  
+| bip_39_word_no_space_4 | naiveamuseddrawarena |  
+| bip_39_word_no_space_5 | naiveamuseddrawarenaenable |  
+| bip_39_word_no_space_6 | naiveamuseddrawarenaenablecoil |  
+| bip_39_word_no_space_7 | naiveamuseddrawarenaenablecoilorphan |  
+| bip_39_word_no_space_8 | naiveamuseddrawarenaenablecoilorphancousin |  
+| bip_39_word_no_space_9 | naiveamuseddrawarenaenablecoilorphancousincaught |  
 | bip_39_word_space_0 | ['naive', 'amused', 'draw', 'arena', 'enable', 'coil', 'orphan', 'cousin', 'caught', 'observe', 'noodle', 'acoustic'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive amused draw arena enable coil orphan cousin caught observe |  

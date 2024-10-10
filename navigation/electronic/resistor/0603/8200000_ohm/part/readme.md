@@ -122,6 +122,18 @@ snap
 popular
 notice
 brief |  
+| bip_39_word_no_space_1 | pear |  
+| bip_39_word_no_space_10 | pearaltersuggestglassimpulsesnappopularnoticebriefsunset |  
+| bip_39_word_no_space_11 | pearaltersuggestglassimpulsesnappopularnoticebriefsunsetgive |  
+| bip_39_word_no_space_12 | pearaltersuggestglassimpulsesnappopularnoticebriefsunsetgivealways |  
+| bip_39_word_no_space_2 | pearalter |  
+| bip_39_word_no_space_3 | pearaltersuggest |  
+| bip_39_word_no_space_4 | pearaltersuggestglass |  
+| bip_39_word_no_space_5 | pearaltersuggestglassimpulse |  
+| bip_39_word_no_space_6 | pearaltersuggestglassimpulsesnap |  
+| bip_39_word_no_space_7 | pearaltersuggestglassimpulsesnappopular |  
+| bip_39_word_no_space_8 | pearaltersuggestglassimpulsesnappopularnotice |  
+| bip_39_word_no_space_9 | pearaltersuggestglassimpulsesnappopularnoticebrief |  
 | bip_39_word_space_0 | ['pear', 'alter', 'suggest', 'glass', 'impulse', 'snap', 'popular', 'notice', 'brief', 'sunset', 'give', 'always'] |  
 | bip_39_word_space_1 | pear |  
 | bip_39_word_space_10 | pear alter suggest glass impulse snap popular notice brief sunset |  

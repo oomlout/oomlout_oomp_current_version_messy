@@ -122,6 +122,18 @@ copper
 unveil
 dice
 address |  
+| bip_39_word_no_space_1 | layer |  
+| bip_39_word_no_space_10 | layerpointtreattrainimprovecopperunveildiceaddresspuppy |  
+| bip_39_word_no_space_11 | layerpointtreattrainimprovecopperunveildiceaddresspuppyerupt |  
+| bip_39_word_no_space_12 | layerpointtreattrainimprovecopperunveildiceaddresspuppyeruptamused |  
+| bip_39_word_no_space_2 | layerpoint |  
+| bip_39_word_no_space_3 | layerpointtreat |  
+| bip_39_word_no_space_4 | layerpointtreattrain |  
+| bip_39_word_no_space_5 | layerpointtreattrainimprove |  
+| bip_39_word_no_space_6 | layerpointtreattrainimprovecopper |  
+| bip_39_word_no_space_7 | layerpointtreattrainimprovecopperunveil |  
+| bip_39_word_no_space_8 | layerpointtreattrainimprovecopperunveildice |  
+| bip_39_word_no_space_9 | layerpointtreattrainimprovecopperunveildiceaddress |  
 | bip_39_word_space_0 | ['layer', 'point', 'treat', 'train', 'improve', 'copper', 'unveil', 'dice', 'address', 'puppy', 'erupt', 'amused'] |  
 | bip_39_word_space_1 | layer |  
 | bip_39_word_space_10 | layer point treat train improve copper unveil dice address puppy |  

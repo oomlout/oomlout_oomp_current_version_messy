@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sign
   talent
 
   nut'
+bip_39_word_no_space_1: sign
+bip_39_word_no_space_10: signonionusedinjuryreasonavocadofloattalentnutincrease
+bip_39_word_no_space_11: signonionusedinjuryreasonavocadofloattalentnutincreasejust
+bip_39_word_no_space_12: signonionusedinjuryreasonavocadofloattalentnutincreasejustappear
+bip_39_word_no_space_2: signonion
+bip_39_word_no_space_3: signonionused
+bip_39_word_no_space_4: signonionusedinjury
+bip_39_word_no_space_5: signonionusedinjuryreason
+bip_39_word_no_space_6: signonionusedinjuryreasonavocado
+bip_39_word_no_space_7: signonionusedinjuryreasonavocadofloat
+bip_39_word_no_space_8: signonionusedinjuryreasonavocadofloattalent
+bip_39_word_no_space_9: signonionusedinjuryreasonavocadofloattalentnut
 bip_39_word_space_0:
 - sign
 - onion

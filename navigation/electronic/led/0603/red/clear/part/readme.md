@@ -122,6 +122,18 @@ visa
 glad
 rigid
 galaxy |  
+| bip_39_word_no_space_1 | barrel |  
+| bip_39_word_no_space_10 | barrelexposesingspiritcreamvisagladrigidgalaxymerry |  
+| bip_39_word_no_space_11 | barrelexposesingspiritcreamvisagladrigidgalaxymerrysuch |  
+| bip_39_word_no_space_12 | barrelexposesingspiritcreamvisagladrigidgalaxymerrysuchaerobic |  
+| bip_39_word_no_space_2 | barrelexpose |  
+| bip_39_word_no_space_3 | barrelexposesing |  
+| bip_39_word_no_space_4 | barrelexposesingspirit |  
+| bip_39_word_no_space_5 | barrelexposesingspiritcream |  
+| bip_39_word_no_space_6 | barrelexposesingspiritcreamvisa |  
+| bip_39_word_no_space_7 | barrelexposesingspiritcreamvisaglad |  
+| bip_39_word_no_space_8 | barrelexposesingspiritcreamvisagladrigid |  
+| bip_39_word_no_space_9 | barrelexposesingspiritcreamvisagladrigidgalaxy |  
 | bip_39_word_space_0 | ['barrel', 'expose', 'sing', 'spirit', 'cream', 'visa', 'glad', 'rigid', 'galaxy', 'merry', 'such', 'aerobic'] |  
 | bip_39_word_space_1 | barrel |  
 | bip_39_word_space_10 | barrel expose sing spirit cream visa glad rigid galaxy merry |  

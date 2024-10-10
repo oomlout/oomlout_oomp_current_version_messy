@@ -122,6 +122,18 @@ retire
 april
 brave
 kangaroo |  
+| bip_39_word_no_space_1 | unhappy |  
+| bip_39_word_no_space_10 | unhappyinsanemangobestremindretireaprilbravekangaroofamous |  
+| bip_39_word_no_space_11 | unhappyinsanemangobestremindretireaprilbravekangaroofamousgeneral |  
+| bip_39_word_no_space_12 | unhappyinsanemangobestremindretireaprilbravekangaroofamousgeneralaisle |  
+| bip_39_word_no_space_2 | unhappyinsane |  
+| bip_39_word_no_space_3 | unhappyinsanemango |  
+| bip_39_word_no_space_4 | unhappyinsanemangobest |  
+| bip_39_word_no_space_5 | unhappyinsanemangobestremind |  
+| bip_39_word_no_space_6 | unhappyinsanemangobestremindretire |  
+| bip_39_word_no_space_7 | unhappyinsanemangobestremindretireapril |  
+| bip_39_word_no_space_8 | unhappyinsanemangobestremindretireaprilbrave |  
+| bip_39_word_no_space_9 | unhappyinsanemangobestremindretireaprilbravekangaroo |  
 | bip_39_word_space_0 | ['unhappy', 'insane', 'mango', 'best', 'remind', 'retire', 'april', 'brave', 'kangaroo', 'famous', 'general', 'aisle'] |  
 | bip_39_word_space_1 | unhappy |  
 | bip_39_word_space_10 | unhappy insane mango best remind retire april brave kangaroo famous |  

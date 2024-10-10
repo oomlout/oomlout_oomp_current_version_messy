@@ -122,6 +122,18 @@ butter
 gym
 long
 lucky |  
+| bip_39_word_no_space_1 | early |  
+| bip_39_word_no_space_10 | earlykidspicecrawlfrownbuttergymlongluckyuntil |  
+| bip_39_word_no_space_11 | earlykidspicecrawlfrownbuttergymlongluckyuntiltape |  
+| bip_39_word_no_space_12 | earlykidspicecrawlfrownbuttergymlongluckyuntiltapeaerobic |  
+| bip_39_word_no_space_2 | earlykid |  
+| bip_39_word_no_space_3 | earlykidspice |  
+| bip_39_word_no_space_4 | earlykidspicecrawl |  
+| bip_39_word_no_space_5 | earlykidspicecrawlfrown |  
+| bip_39_word_no_space_6 | earlykidspicecrawlfrownbutter |  
+| bip_39_word_no_space_7 | earlykidspicecrawlfrownbuttergym |  
+| bip_39_word_no_space_8 | earlykidspicecrawlfrownbuttergymlong |  
+| bip_39_word_no_space_9 | earlykidspicecrawlfrownbuttergymlonglucky |  
 | bip_39_word_space_0 | ['early', 'kid', 'spice', 'crawl', 'frown', 'butter', 'gym', 'long', 'lucky', 'until', 'tape', 'aerobic'] |  
 | bip_39_word_space_1 | early |  
 | bip_39_word_space_10 | early kid spice crawl frown butter gym long lucky until |  

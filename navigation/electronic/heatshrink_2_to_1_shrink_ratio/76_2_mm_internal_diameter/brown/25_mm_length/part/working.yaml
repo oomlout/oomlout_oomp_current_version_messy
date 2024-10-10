@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'piano
   slab
 
   more'
+bip_39_word_no_space_1: piano
+bip_39_word_no_space_10: pianoturkeyenterinvolvesamplerenewsecretslabmorerun
+bip_39_word_no_space_11: pianoturkeyenterinvolvesamplerenewsecretslabmorerunduck
+bip_39_word_no_space_12: pianoturkeyenterinvolvesamplerenewsecretslabmorerunduckadjust
+bip_39_word_no_space_2: pianoturkey
+bip_39_word_no_space_3: pianoturkeyenter
+bip_39_word_no_space_4: pianoturkeyenterinvolve
+bip_39_word_no_space_5: pianoturkeyenterinvolvesample
+bip_39_word_no_space_6: pianoturkeyenterinvolvesamplerenew
+bip_39_word_no_space_7: pianoturkeyenterinvolvesamplerenewsecret
+bip_39_word_no_space_8: pianoturkeyenterinvolvesamplerenewsecretslab
+bip_39_word_no_space_9: pianoturkeyenterinvolvesamplerenewsecretslabmore
 bip_39_word_space_0:
 - piano
 - turkey

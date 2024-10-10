@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'whisper
   session
 
   detail'
+bip_39_word_no_space_1: whisper
+bip_39_word_no_space_10: whispermetaltinywhatgluetreatthingsessiondetailcargo
+bip_39_word_no_space_11: whispermetaltinywhatgluetreatthingsessiondetailcargomatch
+bip_39_word_no_space_12: whispermetaltinywhatgluetreatthingsessiondetailcargomatcharm
+bip_39_word_no_space_2: whispermetal
+bip_39_word_no_space_3: whispermetaltiny
+bip_39_word_no_space_4: whispermetaltinywhat
+bip_39_word_no_space_5: whispermetaltinywhatglue
+bip_39_word_no_space_6: whispermetaltinywhatgluetreat
+bip_39_word_no_space_7: whispermetaltinywhatgluetreatthing
+bip_39_word_no_space_8: whispermetaltinywhatgluetreatthingsession
+bip_39_word_no_space_9: whispermetaltinywhatgluetreatthingsessiondetail
 bip_39_word_space_0:
 - whisper
 - metal

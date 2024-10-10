@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'panther
   begin
 
   lounge'
+bip_39_word_no_space_1: panther
+bip_39_word_no_space_10: pantheraroundovalaffairsocksaladpridebeginloungelunch
+bip_39_word_no_space_11: pantheraroundovalaffairsocksaladpridebeginloungelunchpresent
+bip_39_word_no_space_12: pantheraroundovalaffairsocksaladpridebeginloungelunchpresentadapt
+bip_39_word_no_space_2: pantheraround
+bip_39_word_no_space_3: pantheraroundoval
+bip_39_word_no_space_4: pantheraroundovalaffair
+bip_39_word_no_space_5: pantheraroundovalaffairsock
+bip_39_word_no_space_6: pantheraroundovalaffairsocksalad
+bip_39_word_no_space_7: pantheraroundovalaffairsocksaladpride
+bip_39_word_no_space_8: pantheraroundovalaffairsocksaladpridebegin
+bip_39_word_no_space_9: pantheraroundovalaffairsocksaladpridebeginlounge
 bip_39_word_space_0:
 - panther
 - around

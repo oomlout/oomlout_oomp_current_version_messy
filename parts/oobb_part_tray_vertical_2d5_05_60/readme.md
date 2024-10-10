@@ -122,6 +122,18 @@ canoe
 sea
 exercise
 swim |  
+| bip_39_word_no_space_1 | social |  
+| bip_39_word_no_space_10 | socialseminarsingstillnapkincanoeseaexerciseswimgoose |  
+| bip_39_word_no_space_11 | socialseminarsingstillnapkincanoeseaexerciseswimgoosepencil |  
+| bip_39_word_no_space_12 | socialseminarsingstillnapkincanoeseaexerciseswimgoosepencilanother |  
+| bip_39_word_no_space_2 | socialseminar |  
+| bip_39_word_no_space_3 | socialseminarsing |  
+| bip_39_word_no_space_4 | socialseminarsingstill |  
+| bip_39_word_no_space_5 | socialseminarsingstillnapkin |  
+| bip_39_word_no_space_6 | socialseminarsingstillnapkincanoe |  
+| bip_39_word_no_space_7 | socialseminarsingstillnapkincanoesea |  
+| bip_39_word_no_space_8 | socialseminarsingstillnapkincanoeseaexercise |  
+| bip_39_word_no_space_9 | socialseminarsingstillnapkincanoeseaexerciseswim |  
 | bip_39_word_space_0 | ['social', 'seminar', 'sing', 'still', 'napkin', 'canoe', 'sea', 'exercise', 'swim', 'goose', 'pencil', 'another'] |  
 | bip_39_word_space_1 | social |  
 | bip_39_word_space_10 | social seminar sing still napkin canoe sea exercise swim goose |  

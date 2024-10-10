@@ -122,6 +122,18 @@ axis
 level
 judge
 toy |  
+| bip_39_word_no_space_1 | meat |  
+| bip_39_word_no_space_10 | meatstairscompanyseasonvalveaxisleveljudgetoyticket |  
+| bip_39_word_no_space_11 | meatstairscompanyseasonvalveaxisleveljudgetoyticketexercise |  
+| bip_39_word_no_space_12 | meatstairscompanyseasonvalveaxisleveljudgetoyticketexerciseanger |  
+| bip_39_word_no_space_2 | meatstairs |  
+| bip_39_word_no_space_3 | meatstairscompany |  
+| bip_39_word_no_space_4 | meatstairscompanyseason |  
+| bip_39_word_no_space_5 | meatstairscompanyseasonvalve |  
+| bip_39_word_no_space_6 | meatstairscompanyseasonvalveaxis |  
+| bip_39_word_no_space_7 | meatstairscompanyseasonvalveaxislevel |  
+| bip_39_word_no_space_8 | meatstairscompanyseasonvalveaxisleveljudge |  
+| bip_39_word_no_space_9 | meatstairscompanyseasonvalveaxisleveljudgetoy |  
 | bip_39_word_space_0 | ['meat', 'stairs', 'company', 'season', 'valve', 'axis', 'level', 'judge', 'toy', 'ticket', 'exercise', 'anger'] |  
 | bip_39_word_space_1 | meat |  
 | bip_39_word_space_10 | meat stairs company season valve axis level judge toy ticket |  

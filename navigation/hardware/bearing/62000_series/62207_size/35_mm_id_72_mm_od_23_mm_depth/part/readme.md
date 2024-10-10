@@ -122,6 +122,18 @@ dance
 position
 balance
 onion |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artistcrosslampborrowfewdancepositionbalanceoniononce |  
+| bip_39_word_no_space_11 | artistcrosslampborrowfewdancepositionbalanceoniononcechoose |  
+| bip_39_word_no_space_12 | artistcrosslampborrowfewdancepositionbalanceoniononcechoosealien |  
+| bip_39_word_no_space_2 | artistcross |  
+| bip_39_word_no_space_3 | artistcrosslamp |  
+| bip_39_word_no_space_4 | artistcrosslampborrow |  
+| bip_39_word_no_space_5 | artistcrosslampborrowfew |  
+| bip_39_word_no_space_6 | artistcrosslampborrowfewdance |  
+| bip_39_word_no_space_7 | artistcrosslampborrowfewdanceposition |  
+| bip_39_word_no_space_8 | artistcrosslampborrowfewdancepositionbalance |  
+| bip_39_word_no_space_9 | artistcrosslampborrowfewdancepositionbalanceonion |  
 | bip_39_word_space_0 | ['artist', 'cross', 'lamp', 'borrow', 'few', 'dance', 'position', 'balance', 'onion', 'once', 'choose', 'alien'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist cross lamp borrow few dance position balance onion once |  

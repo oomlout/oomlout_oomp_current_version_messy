@@ -122,6 +122,18 @@ check
 scene
 aerobic
 embrace |  
+| bip_39_word_no_space_1 | enrich |  
+| bip_39_word_no_space_10 | enrichrigidvitalbreadannualchecksceneaerobicembracecousin |  
+| bip_39_word_no_space_11 | enrichrigidvitalbreadannualchecksceneaerobicembracecousinreceive |  
+| bip_39_word_no_space_12 | enrichrigidvitalbreadannualchecksceneaerobicembracecousinreceiveasset |  
+| bip_39_word_no_space_2 | enrichrigid |  
+| bip_39_word_no_space_3 | enrichrigidvital |  
+| bip_39_word_no_space_4 | enrichrigidvitalbread |  
+| bip_39_word_no_space_5 | enrichrigidvitalbreadannual |  
+| bip_39_word_no_space_6 | enrichrigidvitalbreadannualcheck |  
+| bip_39_word_no_space_7 | enrichrigidvitalbreadannualcheckscene |  
+| bip_39_word_no_space_8 | enrichrigidvitalbreadannualchecksceneaerobic |  
+| bip_39_word_no_space_9 | enrichrigidvitalbreadannualchecksceneaerobicembrace |  
 | bip_39_word_space_0 | ['enrich', 'rigid', 'vital', 'bread', 'annual', 'check', 'scene', 'aerobic', 'embrace', 'cousin', 'receive', 'asset'] |  
 | bip_39_word_space_1 | enrich |  
 | bip_39_word_space_10 | enrich rigid vital bread annual check scene aerobic embrace cousin |  

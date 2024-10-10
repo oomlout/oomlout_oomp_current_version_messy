@@ -122,6 +122,18 @@ genuine
 submit
 diet
 stage |  
+| bip_39_word_no_space_1 | very |  
+| bip_39_word_no_space_10 | veryutilitybeautyfictionrequiregenuinesubmitdietstageleg |  
+| bip_39_word_no_space_11 | veryutilitybeautyfictionrequiregenuinesubmitdietstagelegpretty |  
+| bip_39_word_no_space_12 | veryutilitybeautyfictionrequiregenuinesubmitdietstagelegprettyagain |  
+| bip_39_word_no_space_2 | veryutility |  
+| bip_39_word_no_space_3 | veryutilitybeauty |  
+| bip_39_word_no_space_4 | veryutilitybeautyfiction |  
+| bip_39_word_no_space_5 | veryutilitybeautyfictionrequire |  
+| bip_39_word_no_space_6 | veryutilitybeautyfictionrequiregenuine |  
+| bip_39_word_no_space_7 | veryutilitybeautyfictionrequiregenuinesubmit |  
+| bip_39_word_no_space_8 | veryutilitybeautyfictionrequiregenuinesubmitdiet |  
+| bip_39_word_no_space_9 | veryutilitybeautyfictionrequiregenuinesubmitdietstage |  
 | bip_39_word_space_0 | ['very', 'utility', 'beauty', 'fiction', 'require', 'genuine', 'submit', 'diet', 'stage', 'leg', 'pretty', 'again'] |  
 | bip_39_word_space_1 | very |  
 | bip_39_word_space_10 | very utility beauty fiction require genuine submit diet stage leg |  

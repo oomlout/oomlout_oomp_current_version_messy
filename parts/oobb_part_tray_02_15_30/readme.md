@@ -122,6 +122,18 @@ air
 alien
 million
 casual |  
+| bip_39_word_no_space_1 | oyster |  
+| bip_39_word_no_space_10 | oystercrystaljellyelderbrandairalienmillioncasualhave |  
+| bip_39_word_no_space_11 | oystercrystaljellyelderbrandairalienmillioncasualhavesister |  
+| bip_39_word_no_space_12 | oystercrystaljellyelderbrandairalienmillioncasualhavesisterargue |  
+| bip_39_word_no_space_2 | oystercrystal |  
+| bip_39_word_no_space_3 | oystercrystaljelly |  
+| bip_39_word_no_space_4 | oystercrystaljellyelder |  
+| bip_39_word_no_space_5 | oystercrystaljellyelderbrand |  
+| bip_39_word_no_space_6 | oystercrystaljellyelderbrandair |  
+| bip_39_word_no_space_7 | oystercrystaljellyelderbrandairalien |  
+| bip_39_word_no_space_8 | oystercrystaljellyelderbrandairalienmillion |  
+| bip_39_word_no_space_9 | oystercrystaljellyelderbrandairalienmillioncasual |  
 | bip_39_word_space_0 | ['oyster', 'crystal', 'jelly', 'elder', 'brand', 'air', 'alien', 'million', 'casual', 'have', 'sister', 'argue'] |  
 | bip_39_word_space_1 | oyster |  
 | bip_39_word_space_10 | oyster crystal jelly elder brand air alien million casual have |  

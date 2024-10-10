@@ -122,6 +122,18 @@ magnet
 trumpet
 rookie
 sample |  
+| bip_39_word_no_space_1 | future |  
+| bip_39_word_no_space_10 | futurestovecroprudejaguarmagnettrumpetrookiesampledignity |  
+| bip_39_word_no_space_11 | futurestovecroprudejaguarmagnettrumpetrookiesampledignitycabin |  
+| bip_39_word_no_space_12 | futurestovecroprudejaguarmagnettrumpetrookiesampledignitycabinarrest |  
+| bip_39_word_no_space_2 | futurestove |  
+| bip_39_word_no_space_3 | futurestovecrop |  
+| bip_39_word_no_space_4 | futurestovecroprude |  
+| bip_39_word_no_space_5 | futurestovecroprudejaguar |  
+| bip_39_word_no_space_6 | futurestovecroprudejaguarmagnet |  
+| bip_39_word_no_space_7 | futurestovecroprudejaguarmagnettrumpet |  
+| bip_39_word_no_space_8 | futurestovecroprudejaguarmagnettrumpetrookie |  
+| bip_39_word_no_space_9 | futurestovecroprudejaguarmagnettrumpetrookiesample |  
 | bip_39_word_space_0 | ['future', 'stove', 'crop', 'rude', 'jaguar', 'magnet', 'trumpet', 'rookie', 'sample', 'dignity', 'cabin', 'arrest'] |  
 | bip_39_word_space_1 | future |  
 | bip_39_word_space_10 | future stove crop rude jaguar magnet trumpet rookie sample dignity |  

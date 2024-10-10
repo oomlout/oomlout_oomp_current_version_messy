@@ -122,6 +122,18 @@ follow
 caution
 chimney
 game |  
+| bip_39_word_no_space_1 | lion |  
+| bip_39_word_no_space_10 | lionfindeggwreckrevealfollowcautionchimneygamedignity |  
+| bip_39_word_no_space_11 | lionfindeggwreckrevealfollowcautionchimneygamedignityknee |  
+| bip_39_word_no_space_12 | lionfindeggwreckrevealfollowcautionchimneygamedignitykneeapology |  
+| bip_39_word_no_space_2 | lionfind |  
+| bip_39_word_no_space_3 | lionfindegg |  
+| bip_39_word_no_space_4 | lionfindeggwreck |  
+| bip_39_word_no_space_5 | lionfindeggwreckreveal |  
+| bip_39_word_no_space_6 | lionfindeggwreckrevealfollow |  
+| bip_39_word_no_space_7 | lionfindeggwreckrevealfollowcaution |  
+| bip_39_word_no_space_8 | lionfindeggwreckrevealfollowcautionchimney |  
+| bip_39_word_no_space_9 | lionfindeggwreckrevealfollowcautionchimneygame |  
 | bip_39_word_space_0 | ['lion', 'find', 'egg', 'wreck', 'reveal', 'follow', 'caution', 'chimney', 'game', 'dignity', 'knee', 'apology'] |  
 | bip_39_word_space_1 | lion |  
 | bip_39_word_space_10 | lion find egg wreck reveal follow caution chimney game dignity |  

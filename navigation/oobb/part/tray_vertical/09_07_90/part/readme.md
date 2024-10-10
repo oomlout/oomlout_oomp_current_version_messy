@@ -122,6 +122,18 @@ inmate
 decide
 kitten
 wolf |  
+| bip_39_word_no_space_1 | wing |  
+| bip_39_word_no_space_10 | wingtypicalbachelorhandbitterinmatedecidekittenwolfblade |  
+| bip_39_word_no_space_11 | wingtypicalbachelorhandbitterinmatedecidekittenwolfbladerelease |  
+| bip_39_word_no_space_12 | wingtypicalbachelorhandbitterinmatedecidekittenwolfbladereleaseadd |  
+| bip_39_word_no_space_2 | wingtypical |  
+| bip_39_word_no_space_3 | wingtypicalbachelor |  
+| bip_39_word_no_space_4 | wingtypicalbachelorhand |  
+| bip_39_word_no_space_5 | wingtypicalbachelorhandbitter |  
+| bip_39_word_no_space_6 | wingtypicalbachelorhandbitterinmate |  
+| bip_39_word_no_space_7 | wingtypicalbachelorhandbitterinmatedecide |  
+| bip_39_word_no_space_8 | wingtypicalbachelorhandbitterinmatedecidekitten |  
+| bip_39_word_no_space_9 | wingtypicalbachelorhandbitterinmatedecidekittenwolf |  
 | bip_39_word_space_0 | ['wing', 'typical', 'bachelor', 'hand', 'bitter', 'inmate', 'decide', 'kitten', 'wolf', 'blade', 'release', 'add'] |  
 | bip_39_word_space_1 | wing |  
 | bip_39_word_space_10 | wing typical bachelor hand bitter inmate decide kitten wolf blade |  

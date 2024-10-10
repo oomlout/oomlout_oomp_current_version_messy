@@ -109,6 +109,17 @@ budget
 off
 jeans
 deer |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiqueabovehospitalsolutionprocessbudgetoffjeansdeerhello |  
+| bip_39_word_no_space_11 | antiqueabovehospitalsolutionprocessbudgetoffjeansdeerhellodanger |  
+| bip_39_word_no_space_2 | antiqueabove |  
+| bip_39_word_no_space_3 | antiqueabovehospital |  
+| bip_39_word_no_space_4 | antiqueabovehospitalsolution |  
+| bip_39_word_no_space_5 | antiqueabovehospitalsolutionprocess |  
+| bip_39_word_no_space_6 | antiqueabovehospitalsolutionprocessbudget |  
+| bip_39_word_no_space_7 | antiqueabovehospitalsolutionprocessbudgetoff |  
+| bip_39_word_no_space_8 | antiqueabovehospitalsolutionprocessbudgetoffjeans |  
+| bip_39_word_no_space_9 | antiqueabovehospitalsolutionprocessbudgetoffjeansdeer |  
 | bip_39_word_space_0 | ['antique', 'above', 'hospital', 'solution', 'process', 'budget', 'off', 'jeans', 'deer', 'hello', 'danger'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique above hospital solution process budget off jeans deer hello |  

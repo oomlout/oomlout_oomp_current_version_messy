@@ -122,6 +122,18 @@ stadium
 allow
 antique
 poverty |  
+| bip_39_word_no_space_1 | cheese |  
+| bip_39_word_no_space_10 | cheesetrulydirtnowlegstadiumallowantiquepovertydecorate |  
+| bip_39_word_no_space_11 | cheesetrulydirtnowlegstadiumallowantiquepovertydecoratetoddler |  
+| bip_39_word_no_space_12 | cheesetrulydirtnowlegstadiumallowantiquepovertydecoratetoddleracquire |  
+| bip_39_word_no_space_2 | cheesetruly |  
+| bip_39_word_no_space_3 | cheesetrulydirt |  
+| bip_39_word_no_space_4 | cheesetrulydirtnow |  
+| bip_39_word_no_space_5 | cheesetrulydirtnowleg |  
+| bip_39_word_no_space_6 | cheesetrulydirtnowlegstadium |  
+| bip_39_word_no_space_7 | cheesetrulydirtnowlegstadiumallow |  
+| bip_39_word_no_space_8 | cheesetrulydirtnowlegstadiumallowantique |  
+| bip_39_word_no_space_9 | cheesetrulydirtnowlegstadiumallowantiquepoverty |  
 | bip_39_word_space_0 | ['cheese', 'truly', 'dirt', 'now', 'leg', 'stadium', 'allow', 'antique', 'poverty', 'decorate', 'toddler', 'acquire'] |  
 | bip_39_word_space_1 | cheese |  
 | bip_39_word_space_10 | cheese truly dirt now leg stadium allow antique poverty decorate |  

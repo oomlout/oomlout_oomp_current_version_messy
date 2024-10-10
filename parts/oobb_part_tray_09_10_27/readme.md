@@ -122,6 +122,18 @@ stereo
 right
 uncle
 person |  
+| bip_39_word_no_space_1 | wage |  
+| bip_39_word_no_space_10 | wagemissawkwardprimarycaptainstereorightunclepersondrift |  
+| bip_39_word_no_space_11 | wagemissawkwardprimarycaptainstereorightunclepersondriftmessage |  
+| bip_39_word_no_space_12 | wagemissawkwardprimarycaptainstereorightunclepersondriftmessagealways |  
+| bip_39_word_no_space_2 | wagemiss |  
+| bip_39_word_no_space_3 | wagemissawkward |  
+| bip_39_word_no_space_4 | wagemissawkwardprimary |  
+| bip_39_word_no_space_5 | wagemissawkwardprimarycaptain |  
+| bip_39_word_no_space_6 | wagemissawkwardprimarycaptainstereo |  
+| bip_39_word_no_space_7 | wagemissawkwardprimarycaptainstereoright |  
+| bip_39_word_no_space_8 | wagemissawkwardprimarycaptainstereorightuncle |  
+| bip_39_word_no_space_9 | wagemissawkwardprimarycaptainstereorightuncleperson |  
 | bip_39_word_space_0 | ['wage', 'miss', 'awkward', 'primary', 'captain', 'stereo', 'right', 'uncle', 'person', 'drift', 'message', 'always'] |  
 | bip_39_word_space_1 | wage |  
 | bip_39_word_space_10 | wage miss awkward primary captain stereo right uncle person drift |  

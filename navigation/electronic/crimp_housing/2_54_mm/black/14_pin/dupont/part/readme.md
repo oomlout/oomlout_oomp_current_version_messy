@@ -122,6 +122,18 @@ gravity
 empty
 twelve
 advice |  
+| bip_39_word_no_space_1 | sea |  
+| bip_39_word_no_space_10 | seaintofilmsustainarcticgravityemptytwelveadvicesong |  
+| bip_39_word_no_space_11 | seaintofilmsustainarcticgravityemptytwelveadvicesongbiology |  
+| bip_39_word_no_space_12 | seaintofilmsustainarcticgravityemptytwelveadvicesongbiologyanalyst |  
+| bip_39_word_no_space_2 | seainto |  
+| bip_39_word_no_space_3 | seaintofilm |  
+| bip_39_word_no_space_4 | seaintofilmsustain |  
+| bip_39_word_no_space_5 | seaintofilmsustainarctic |  
+| bip_39_word_no_space_6 | seaintofilmsustainarcticgravity |  
+| bip_39_word_no_space_7 | seaintofilmsustainarcticgravityempty |  
+| bip_39_word_no_space_8 | seaintofilmsustainarcticgravityemptytwelve |  
+| bip_39_word_no_space_9 | seaintofilmsustainarcticgravityemptytwelveadvice |  
 | bip_39_word_space_0 | ['sea', 'into', 'film', 'sustain', 'arctic', 'gravity', 'empty', 'twelve', 'advice', 'song', 'biology', 'analyst'] |  
 | bip_39_word_space_1 | sea |  
 | bip_39_word_space_10 | sea into film sustain arctic gravity empty twelve advice song |  

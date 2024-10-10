@@ -122,6 +122,18 @@ planet
 great
 april
 say |  
+| bip_39_word_no_space_1 | rich |  
+| bip_39_word_no_space_10 | richarrangefeatureluxurybrownplanetgreataprilsaylecture |  
+| bip_39_word_no_space_11 | richarrangefeatureluxurybrownplanetgreataprilsaylectureinstall |  
+| bip_39_word_no_space_12 | richarrangefeatureluxurybrownplanetgreataprilsaylectureinstallalpha |  
+| bip_39_word_no_space_2 | richarrange |  
+| bip_39_word_no_space_3 | richarrangefeature |  
+| bip_39_word_no_space_4 | richarrangefeatureluxury |  
+| bip_39_word_no_space_5 | richarrangefeatureluxurybrown |  
+| bip_39_word_no_space_6 | richarrangefeatureluxurybrownplanet |  
+| bip_39_word_no_space_7 | richarrangefeatureluxurybrownplanetgreat |  
+| bip_39_word_no_space_8 | richarrangefeatureluxurybrownplanetgreatapril |  
+| bip_39_word_no_space_9 | richarrangefeatureluxurybrownplanetgreataprilsay |  
 | bip_39_word_space_0 | ['rich', 'arrange', 'feature', 'luxury', 'brown', 'planet', 'great', 'april', 'say', 'lecture', 'install', 'alpha'] |  
 | bip_39_word_space_1 | rich |  
 | bip_39_word_space_10 | rich arrange feature luxury brown planet great april say lecture |  

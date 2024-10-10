@@ -122,6 +122,18 @@ convince
 prosper
 master
 sudden |  
+| bip_39_word_no_space_1 | depart |  
+| bip_39_word_no_space_10 | departmasklawsuithuntcombineconvinceprospermastersuddendry |  
+| bip_39_word_no_space_11 | departmasklawsuithuntcombineconvinceprospermastersuddendryblur |  
+| bip_39_word_no_space_12 | departmasklawsuithuntcombineconvinceprospermastersuddendryblurask |  
+| bip_39_word_no_space_2 | departmask |  
+| bip_39_word_no_space_3 | departmasklawsuit |  
+| bip_39_word_no_space_4 | departmasklawsuithunt |  
+| bip_39_word_no_space_5 | departmasklawsuithuntcombine |  
+| bip_39_word_no_space_6 | departmasklawsuithuntcombineconvince |  
+| bip_39_word_no_space_7 | departmasklawsuithuntcombineconvinceprosper |  
+| bip_39_word_no_space_8 | departmasklawsuithuntcombineconvinceprospermaster |  
+| bip_39_word_no_space_9 | departmasklawsuithuntcombineconvinceprospermastersudden |  
 | bip_39_word_space_0 | ['depart', 'mask', 'lawsuit', 'hunt', 'combine', 'convince', 'prosper', 'master', 'sudden', 'dry', 'blur', 'ask'] |  
 | bip_39_word_space_1 | depart |  
 | bip_39_word_space_10 | depart mask lawsuit hunt combine convince prosper master sudden dry |  

@@ -122,6 +122,18 @@ cost
 group
 glad
 surge |  
+| bip_39_word_no_space_1 | supreme |  
+| bip_39_word_no_space_10 | supremefrownbarrelmagnetpagecostgroupgladsurgeenrich |  
+| bip_39_word_no_space_11 | supremefrownbarrelmagnetpagecostgroupgladsurgeenrichimpact |  
+| bip_39_word_no_space_12 | supremefrownbarrelmagnetpagecostgroupgladsurgeenrichimpactamused |  
+| bip_39_word_no_space_2 | supremefrown |  
+| bip_39_word_no_space_3 | supremefrownbarrel |  
+| bip_39_word_no_space_4 | supremefrownbarrelmagnet |  
+| bip_39_word_no_space_5 | supremefrownbarrelmagnetpage |  
+| bip_39_word_no_space_6 | supremefrownbarrelmagnetpagecost |  
+| bip_39_word_no_space_7 | supremefrownbarrelmagnetpagecostgroup |  
+| bip_39_word_no_space_8 | supremefrownbarrelmagnetpagecostgroupglad |  
+| bip_39_word_no_space_9 | supremefrownbarrelmagnetpagecostgroupgladsurge |  
 | bip_39_word_space_0 | ['supreme', 'frown', 'barrel', 'magnet', 'page', 'cost', 'group', 'glad', 'surge', 'enrich', 'impact', 'amused'] |  
 | bip_39_word_space_1 | supreme |  
 | bip_39_word_space_10 | supreme frown barrel magnet page cost group glad surge enrich |  

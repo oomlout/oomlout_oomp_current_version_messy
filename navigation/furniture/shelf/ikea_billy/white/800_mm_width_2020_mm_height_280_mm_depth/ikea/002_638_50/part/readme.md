@@ -122,6 +122,18 @@ very
 again
 scissors
 depart |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displaypursefeeafraidriotveryagainscissorsdepartintact |  
+| bip_39_word_no_space_11 | displaypursefeeafraidriotveryagainscissorsdepartintacthover |  
+| bip_39_word_no_space_12 | displaypursefeeafraidriotveryagainscissorsdepartintacthoveraddress |  
+| bip_39_word_no_space_2 | displaypurse |  
+| bip_39_word_no_space_3 | displaypursefee |  
+| bip_39_word_no_space_4 | displaypursefeeafraid |  
+| bip_39_word_no_space_5 | displaypursefeeafraidriot |  
+| bip_39_word_no_space_6 | displaypursefeeafraidriotvery |  
+| bip_39_word_no_space_7 | displaypursefeeafraidriotveryagain |  
+| bip_39_word_no_space_8 | displaypursefeeafraidriotveryagainscissors |  
+| bip_39_word_no_space_9 | displaypursefeeafraidriotveryagainscissorsdepart |  
 | bip_39_word_space_0 | ['display', 'purse', 'fee', 'afraid', 'riot', 'very', 'again', 'scissors', 'depart', 'intact', 'hover', 'address'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display purse fee afraid riot very again scissors depart intact |  

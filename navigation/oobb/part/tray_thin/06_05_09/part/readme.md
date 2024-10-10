@@ -122,6 +122,18 @@ trigger
 taste
 warfare
 digital |  
+| bip_39_word_no_space_1 | never |  
+| bip_39_word_no_space_10 | nevermuscletheysiblingquiztriggertastewarfaredigitalbuzz |  
+| bip_39_word_no_space_11 | nevermuscletheysiblingquiztriggertastewarfaredigitalbuzztribe |  
+| bip_39_word_no_space_12 | nevermuscletheysiblingquiztriggertastewarfaredigitalbuzztribearch |  
+| bip_39_word_no_space_2 | nevermuscle |  
+| bip_39_word_no_space_3 | nevermusclethey |  
+| bip_39_word_no_space_4 | nevermuscletheysibling |  
+| bip_39_word_no_space_5 | nevermuscletheysiblingquiz |  
+| bip_39_word_no_space_6 | nevermuscletheysiblingquiztrigger |  
+| bip_39_word_no_space_7 | nevermuscletheysiblingquiztriggertaste |  
+| bip_39_word_no_space_8 | nevermuscletheysiblingquiztriggertastewarfare |  
+| bip_39_word_no_space_9 | nevermuscletheysiblingquiztriggertastewarfaredigital |  
 | bip_39_word_space_0 | ['never', 'muscle', 'they', 'sibling', 'quiz', 'trigger', 'taste', 'warfare', 'digital', 'buzz', 'tribe', 'arch'] |  
 | bip_39_word_space_1 | never |  
 | bip_39_word_space_10 | never muscle they sibling quiz trigger taste warfare digital buzz |  

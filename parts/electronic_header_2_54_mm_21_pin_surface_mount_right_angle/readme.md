@@ -122,6 +122,18 @@ nominee
 grace
 tornado
 laundry |  
+| bip_39_word_no_space_1 | divorce |  
+| bip_39_word_no_space_10 | divorcesectionunablemosquitosentencenomineegracetornadolaundryalone |  
+| bip_39_word_no_space_11 | divorcesectionunablemosquitosentencenomineegracetornadolaundryaloneglobe |  
+| bip_39_word_no_space_12 | divorcesectionunablemosquitosentencenomineegracetornadolaundryaloneglobeattitude |  
+| bip_39_word_no_space_2 | divorcesection |  
+| bip_39_word_no_space_3 | divorcesectionunable |  
+| bip_39_word_no_space_4 | divorcesectionunablemosquito |  
+| bip_39_word_no_space_5 | divorcesectionunablemosquitosentence |  
+| bip_39_word_no_space_6 | divorcesectionunablemosquitosentencenominee |  
+| bip_39_word_no_space_7 | divorcesectionunablemosquitosentencenomineegrace |  
+| bip_39_word_no_space_8 | divorcesectionunablemosquitosentencenomineegracetornado |  
+| bip_39_word_no_space_9 | divorcesectionunablemosquitosentencenomineegracetornadolaundry |  
 | bip_39_word_space_0 | ['divorce', 'section', 'unable', 'mosquito', 'sentence', 'nominee', 'grace', 'tornado', 'laundry', 'alone', 'globe', 'attitude'] |  
 | bip_39_word_space_1 | divorce |  
 | bip_39_word_space_10 | divorce section unable mosquito sentence nominee grace tornado laundry alone |  

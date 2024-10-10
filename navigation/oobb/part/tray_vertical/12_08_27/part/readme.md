@@ -122,6 +122,18 @@ aunt
 lift
 penalty
 chuckle |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubpigcolumnenemytoyauntliftpenaltychucklecrazy |  
+| bip_39_word_no_space_11 | hubpigcolumnenemytoyauntliftpenaltychucklecrazysuccess |  
+| bip_39_word_no_space_12 | hubpigcolumnenemytoyauntliftpenaltychucklecrazysuccessathlete |  
+| bip_39_word_no_space_2 | hubpig |  
+| bip_39_word_no_space_3 | hubpigcolumn |  
+| bip_39_word_no_space_4 | hubpigcolumnenemy |  
+| bip_39_word_no_space_5 | hubpigcolumnenemytoy |  
+| bip_39_word_no_space_6 | hubpigcolumnenemytoyaunt |  
+| bip_39_word_no_space_7 | hubpigcolumnenemytoyauntlift |  
+| bip_39_word_no_space_8 | hubpigcolumnenemytoyauntliftpenalty |  
+| bip_39_word_no_space_9 | hubpigcolumnenemytoyauntliftpenaltychuckle |  
 | bip_39_word_space_0 | ['hub', 'pig', 'column', 'enemy', 'toy', 'aunt', 'lift', 'penalty', 'chuckle', 'crazy', 'success', 'athlete'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub pig column enemy toy aunt lift penalty chuckle crazy |  

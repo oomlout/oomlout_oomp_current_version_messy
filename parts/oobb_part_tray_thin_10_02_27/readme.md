@@ -122,6 +122,18 @@ truth
 current
 galaxy
 van |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountainframewritesoundducktruthcurrentgalaxyvanhalf |  
+| bip_39_word_no_space_11 | mountainframewritesoundducktruthcurrentgalaxyvanhalfsegment |  
+| bip_39_word_no_space_12 | mountainframewritesoundducktruthcurrentgalaxyvanhalfsegmentarrive |  
+| bip_39_word_no_space_2 | mountainframe |  
+| bip_39_word_no_space_3 | mountainframewrite |  
+| bip_39_word_no_space_4 | mountainframewritesound |  
+| bip_39_word_no_space_5 | mountainframewritesoundduck |  
+| bip_39_word_no_space_6 | mountainframewritesoundducktruth |  
+| bip_39_word_no_space_7 | mountainframewritesoundducktruthcurrent |  
+| bip_39_word_no_space_8 | mountainframewritesoundducktruthcurrentgalaxy |  
+| bip_39_word_no_space_9 | mountainframewritesoundducktruthcurrentgalaxyvan |  
 | bip_39_word_space_0 | ['mountain', 'frame', 'write', 'sound', 'duck', 'truth', 'current', 'galaxy', 'van', 'half', 'segment', 'arrive'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain frame write sound duck truth current galaxy van half |  

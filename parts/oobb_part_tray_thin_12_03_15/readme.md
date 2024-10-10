@@ -122,6 +122,18 @@ bleak
 bamboo
 peace
 pink |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | speciallightcrowdshiverstomachbleakbamboopeacepinkfinal |  
+| bip_39_word_no_space_11 | speciallightcrowdshiverstomachbleakbamboopeacepinkfinalbusy |  
+| bip_39_word_no_space_12 | speciallightcrowdshiverstomachbleakbamboopeacepinkfinalbusyachieve |  
+| bip_39_word_no_space_2 | speciallight |  
+| bip_39_word_no_space_3 | speciallightcrowd |  
+| bip_39_word_no_space_4 | speciallightcrowdshiver |  
+| bip_39_word_no_space_5 | speciallightcrowdshiverstomach |  
+| bip_39_word_no_space_6 | speciallightcrowdshiverstomachbleak |  
+| bip_39_word_no_space_7 | speciallightcrowdshiverstomachbleakbamboo |  
+| bip_39_word_no_space_8 | speciallightcrowdshiverstomachbleakbamboopeace |  
+| bip_39_word_no_space_9 | speciallightcrowdshiverstomachbleakbamboopeacepink |  
 | bip_39_word_space_0 | ['special', 'light', 'crowd', 'shiver', 'stomach', 'bleak', 'bamboo', 'peace', 'pink', 'final', 'busy', 'achieve'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special light crowd shiver stomach bleak bamboo peace pink final |  

@@ -122,6 +122,18 @@ nut
 canal
 eager
 notice |  
+| bip_39_word_no_space_1 | soap |  
+| bip_39_word_no_space_10 | soapwaspspendprotectsheriffnutcanaleagernoticedebris |  
+| bip_39_word_no_space_11 | soapwaspspendprotectsheriffnutcanaleagernoticedebrislaundry |  
+| bip_39_word_no_space_12 | soapwaspspendprotectsheriffnutcanaleagernoticedebrislaundryaddress |  
+| bip_39_word_no_space_2 | soapwasp |  
+| bip_39_word_no_space_3 | soapwaspspend |  
+| bip_39_word_no_space_4 | soapwaspspendprotect |  
+| bip_39_word_no_space_5 | soapwaspspendprotectsheriff |  
+| bip_39_word_no_space_6 | soapwaspspendprotectsheriffnut |  
+| bip_39_word_no_space_7 | soapwaspspendprotectsheriffnutcanal |  
+| bip_39_word_no_space_8 | soapwaspspendprotectsheriffnutcanaleager |  
+| bip_39_word_no_space_9 | soapwaspspendprotectsheriffnutcanaleagernotice |  
 | bip_39_word_space_0 | ['soap', 'wasp', 'spend', 'protect', 'sheriff', 'nut', 'canal', 'eager', 'notice', 'debris', 'laundry', 'address'] |  
 | bip_39_word_space_1 | soap |  
 | bip_39_word_space_10 | soap wasp spend protect sheriff nut canal eager notice debris |  

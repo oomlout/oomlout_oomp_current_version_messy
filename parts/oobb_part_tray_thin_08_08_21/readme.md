@@ -122,6 +122,18 @@ royal
 acid
 across
 glance |  
+| bip_39_word_no_space_1 | suspect |  
+| bip_39_word_no_space_10 | suspectreasonreunionargueitemroyalacidacrossglancefaith |  
+| bip_39_word_no_space_11 | suspectreasonreunionargueitemroyalacidacrossglancefaithridge |  
+| bip_39_word_no_space_12 | suspectreasonreunionargueitemroyalacidacrossglancefaithridgealcohol |  
+| bip_39_word_no_space_2 | suspectreason |  
+| bip_39_word_no_space_3 | suspectreasonreunion |  
+| bip_39_word_no_space_4 | suspectreasonreunionargue |  
+| bip_39_word_no_space_5 | suspectreasonreunionargueitem |  
+| bip_39_word_no_space_6 | suspectreasonreunionargueitemroyal |  
+| bip_39_word_no_space_7 | suspectreasonreunionargueitemroyalacid |  
+| bip_39_word_no_space_8 | suspectreasonreunionargueitemroyalacidacross |  
+| bip_39_word_no_space_9 | suspectreasonreunionargueitemroyalacidacrossglance |  
 | bip_39_word_space_0 | ['suspect', 'reason', 'reunion', 'argue', 'item', 'royal', 'acid', 'across', 'glance', 'faith', 'ridge', 'alcohol'] |  
 | bip_39_word_space_1 | suspect |  
 | bip_39_word_space_10 | suspect reason reunion argue item royal acid across glance faith |  

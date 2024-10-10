@@ -122,6 +122,18 @@ harbor
 purse
 initial
 jelly |  
+| bip_39_word_no_space_1 | salad |  
+| bip_39_word_no_space_10 | saladstreetsocialinhalemeltharborpurseinitialjellymultiply |  
+| bip_39_word_no_space_11 | saladstreetsocialinhalemeltharborpurseinitialjellymultiplytheory |  
+| bip_39_word_no_space_12 | saladstreetsocialinhalemeltharborpurseinitialjellymultiplytheoryapple |  
+| bip_39_word_no_space_2 | saladstreet |  
+| bip_39_word_no_space_3 | saladstreetsocial |  
+| bip_39_word_no_space_4 | saladstreetsocialinhale |  
+| bip_39_word_no_space_5 | saladstreetsocialinhalemelt |  
+| bip_39_word_no_space_6 | saladstreetsocialinhalemeltharbor |  
+| bip_39_word_no_space_7 | saladstreetsocialinhalemeltharborpurse |  
+| bip_39_word_no_space_8 | saladstreetsocialinhalemeltharborpurseinitial |  
+| bip_39_word_no_space_9 | saladstreetsocialinhalemeltharborpurseinitialjelly |  
 | bip_39_word_space_0 | ['salad', 'street', 'social', 'inhale', 'melt', 'harbor', 'purse', 'initial', 'jelly', 'multiply', 'theory', 'apple'] |  
 | bip_39_word_space_1 | salad |  
 | bip_39_word_space_10 | salad street social inhale melt harbor purse initial jelly multiply |  

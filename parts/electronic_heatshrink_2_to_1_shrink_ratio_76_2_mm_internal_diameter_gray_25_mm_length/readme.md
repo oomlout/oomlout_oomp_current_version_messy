@@ -122,6 +122,18 @@ this
 nest
 east
 oyster |  
+| bip_39_word_no_space_1 | around |  
+| bip_39_word_no_space_10 | arounddigitalexpectsimpleshootthisnesteastoysterperfect |  
+| bip_39_word_no_space_11 | arounddigitalexpectsimpleshootthisnesteastoysterperfectmirror |  
+| bip_39_word_no_space_12 | arounddigitalexpectsimpleshootthisnesteastoysterperfectmirrorantenna |  
+| bip_39_word_no_space_2 | arounddigital |  
+| bip_39_word_no_space_3 | arounddigitalexpect |  
+| bip_39_word_no_space_4 | arounddigitalexpectsimple |  
+| bip_39_word_no_space_5 | arounddigitalexpectsimpleshoot |  
+| bip_39_word_no_space_6 | arounddigitalexpectsimpleshootthis |  
+| bip_39_word_no_space_7 | arounddigitalexpectsimpleshootthisnest |  
+| bip_39_word_no_space_8 | arounddigitalexpectsimpleshootthisnesteast |  
+| bip_39_word_no_space_9 | arounddigitalexpectsimpleshootthisnesteastoyster |  
 | bip_39_word_space_0 | ['around', 'digital', 'expect', 'simple', 'shoot', 'this', 'nest', 'east', 'oyster', 'perfect', 'mirror', 'antenna'] |  
 | bip_39_word_space_1 | around |  
 | bip_39_word_space_10 | around digital expect simple shoot this nest east oyster perfect |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rack
   credit
 
   wheel'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackgrabpepperenoughwrongsilkwristcreditwheeldiagram
+bip_39_word_no_space_11: rackgrabpepperenoughwrongsilkwristcreditwheeldiagramtail
+bip_39_word_no_space_12: rackgrabpepperenoughwrongsilkwristcreditwheeldiagramtailauthor
+bip_39_word_no_space_2: rackgrab
+bip_39_word_no_space_3: rackgrabpepper
+bip_39_word_no_space_4: rackgrabpepperenough
+bip_39_word_no_space_5: rackgrabpepperenoughwrong
+bip_39_word_no_space_6: rackgrabpepperenoughwrongsilk
+bip_39_word_no_space_7: rackgrabpepperenoughwrongsilkwrist
+bip_39_word_no_space_8: rackgrabpepperenoughwrongsilkwristcredit
+bip_39_word_no_space_9: rackgrabpepperenoughwrongsilkwristcreditwheel
 bip_39_word_space_0:
 - rack
 - grab

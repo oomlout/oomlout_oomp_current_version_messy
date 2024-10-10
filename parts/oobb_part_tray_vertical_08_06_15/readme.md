@@ -122,6 +122,18 @@ peace
 trust
 fluid
 holiday |  
+| bip_39_word_no_space_1 | smile |  
+| bip_39_word_no_space_10 | smilemeasureadultrippleclosepeacetrustfluidholidayhabit |  
+| bip_39_word_no_space_11 | smilemeasureadultrippleclosepeacetrustfluidholidayhabitlaugh |  
+| bip_39_word_no_space_12 | smilemeasureadultrippleclosepeacetrustfluidholidayhabitlaughamateur |  
+| bip_39_word_no_space_2 | smilemeasure |  
+| bip_39_word_no_space_3 | smilemeasureadult |  
+| bip_39_word_no_space_4 | smilemeasureadultripple |  
+| bip_39_word_no_space_5 | smilemeasureadultrippleclose |  
+| bip_39_word_no_space_6 | smilemeasureadultrippleclosepeace |  
+| bip_39_word_no_space_7 | smilemeasureadultrippleclosepeacetrust |  
+| bip_39_word_no_space_8 | smilemeasureadultrippleclosepeacetrustfluid |  
+| bip_39_word_no_space_9 | smilemeasureadultrippleclosepeacetrustfluidholiday |  
 | bip_39_word_space_0 | ['smile', 'measure', 'adult', 'ripple', 'close', 'peace', 'trust', 'fluid', 'holiday', 'habit', 'laugh', 'amateur'] |  
 | bip_39_word_space_1 | smile |  
 | bip_39_word_space_10 | smile measure adult ripple close peace trust fluid holiday habit |  

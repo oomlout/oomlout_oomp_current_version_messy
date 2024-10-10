@@ -122,6 +122,18 @@ possible
 pyramid
 assault
 weasel |  
+| bip_39_word_no_space_1 | labor |  
+| bip_39_word_no_space_10 | laborvirusfancygorillasidepossiblepyramidassaultweaselzoo |  
+| bip_39_word_no_space_11 | laborvirusfancygorillasidepossiblepyramidassaultweaselzoocompany |  
+| bip_39_word_no_space_12 | laborvirusfancygorillasidepossiblepyramidassaultweaselzoocompanyanalyst |  
+| bip_39_word_no_space_2 | laborvirus |  
+| bip_39_word_no_space_3 | laborvirusfancy |  
+| bip_39_word_no_space_4 | laborvirusfancygorilla |  
+| bip_39_word_no_space_5 | laborvirusfancygorillaside |  
+| bip_39_word_no_space_6 | laborvirusfancygorillasidepossible |  
+| bip_39_word_no_space_7 | laborvirusfancygorillasidepossiblepyramid |  
+| bip_39_word_no_space_8 | laborvirusfancygorillasidepossiblepyramidassault |  
+| bip_39_word_no_space_9 | laborvirusfancygorillasidepossiblepyramidassaultweasel |  
 | bip_39_word_space_0 | ['labor', 'virus', 'fancy', 'gorilla', 'side', 'possible', 'pyramid', 'assault', 'weasel', 'zoo', 'company', 'analyst'] |  
 | bip_39_word_space_1 | labor |  
 | bip_39_word_space_10 | labor virus fancy gorilla side possible pyramid assault weasel zoo |  

@@ -122,6 +122,18 @@ sting
 any
 review
 faculty |  
+| bip_39_word_no_space_1 | inmate |  
+| bip_39_word_no_space_10 | inmatetrackriotsixfriendstinganyreviewfacultysoup |  
+| bip_39_word_no_space_11 | inmatetrackriotsixfriendstinganyreviewfacultysoupbroom |  
+| bip_39_word_no_space_12 | inmatetrackriotsixfriendstinganyreviewfacultysoupbroomacquire |  
+| bip_39_word_no_space_2 | inmatetrack |  
+| bip_39_word_no_space_3 | inmatetrackriot |  
+| bip_39_word_no_space_4 | inmatetrackriotsix |  
+| bip_39_word_no_space_5 | inmatetrackriotsixfriend |  
+| bip_39_word_no_space_6 | inmatetrackriotsixfriendsting |  
+| bip_39_word_no_space_7 | inmatetrackriotsixfriendstingany |  
+| bip_39_word_no_space_8 | inmatetrackriotsixfriendstinganyreview |  
+| bip_39_word_no_space_9 | inmatetrackriotsixfriendstinganyreviewfaculty |  
 | bip_39_word_space_0 | ['inmate', 'track', 'riot', 'six', 'friend', 'sting', 'any', 'review', 'faculty', 'soup', 'broom', 'acquire'] |  
 | bip_39_word_space_1 | inmate |  
 | bip_39_word_space_10 | inmate track riot six friend sting any review faculty soup |  

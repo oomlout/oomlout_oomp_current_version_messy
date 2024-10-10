@@ -122,6 +122,18 @@ limb
 light
 indoor
 horse |  
+| bip_39_word_no_space_1 | night |  
+| bip_39_word_no_space_10 | nightboxminorsegmentponylimblightindoorhorsemachine |  
+| bip_39_word_no_space_11 | nightboxminorsegmentponylimblightindoorhorsemachineadvice |  
+| bip_39_word_no_space_12 | nightboxminorsegmentponylimblightindoorhorsemachineadviceaccuse |  
+| bip_39_word_no_space_2 | nightbox |  
+| bip_39_word_no_space_3 | nightboxminor |  
+| bip_39_word_no_space_4 | nightboxminorsegment |  
+| bip_39_word_no_space_5 | nightboxminorsegmentpony |  
+| bip_39_word_no_space_6 | nightboxminorsegmentponylimb |  
+| bip_39_word_no_space_7 | nightboxminorsegmentponylimblight |  
+| bip_39_word_no_space_8 | nightboxminorsegmentponylimblightindoor |  
+| bip_39_word_no_space_9 | nightboxminorsegmentponylimblightindoorhorse |  
 | bip_39_word_space_0 | ['night', 'box', 'minor', 'segment', 'pony', 'limb', 'light', 'indoor', 'horse', 'machine', 'advice', 'accuse'] |  
 | bip_39_word_space_1 | night |  
 | bip_39_word_space_10 | night box minor segment pony limb light indoor horse machine |  

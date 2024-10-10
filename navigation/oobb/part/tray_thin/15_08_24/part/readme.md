@@ -122,6 +122,18 @@ retreat
 job
 narrow
 peanut |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comelabbullethusbandreformretreatjobnarrowpeanutrent |  
+| bip_39_word_no_space_11 | comelabbullethusbandreformretreatjobnarrowpeanutrentrange |  
+| bip_39_word_no_space_12 | comelabbullethusbandreformretreatjobnarrowpeanutrentrangeaverage |  
+| bip_39_word_no_space_2 | comelab |  
+| bip_39_word_no_space_3 | comelabbullet |  
+| bip_39_word_no_space_4 | comelabbullethusband |  
+| bip_39_word_no_space_5 | comelabbullethusbandreform |  
+| bip_39_word_no_space_6 | comelabbullethusbandreformretreat |  
+| bip_39_word_no_space_7 | comelabbullethusbandreformretreatjob |  
+| bip_39_word_no_space_8 | comelabbullethusbandreformretreatjobnarrow |  
+| bip_39_word_no_space_9 | comelabbullethusbandreformretreatjobnarrowpeanut |  
 | bip_39_word_space_0 | ['come', 'lab', 'bullet', 'husband', 'reform', 'retreat', 'job', 'narrow', 'peanut', 'rent', 'range', 'average'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come lab bullet husband reform retreat job narrow peanut rent |  

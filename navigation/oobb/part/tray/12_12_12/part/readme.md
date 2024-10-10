@@ -122,6 +122,18 @@ young
 humble
 region
 science |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peopleexpectwetpondgainyounghumbleregionsciencetrick |  
+| bip_39_word_no_space_11 | peopleexpectwetpondgainyounghumbleregionsciencetrickwealth |  
+| bip_39_word_no_space_12 | peopleexpectwetpondgainyounghumbleregionsciencetrickwealtharmed |  
+| bip_39_word_no_space_2 | peopleexpect |  
+| bip_39_word_no_space_3 | peopleexpectwet |  
+| bip_39_word_no_space_4 | peopleexpectwetpond |  
+| bip_39_word_no_space_5 | peopleexpectwetpondgain |  
+| bip_39_word_no_space_6 | peopleexpectwetpondgainyoung |  
+| bip_39_word_no_space_7 | peopleexpectwetpondgainyounghumble |  
+| bip_39_word_no_space_8 | peopleexpectwetpondgainyounghumbleregion |  
+| bip_39_word_no_space_9 | peopleexpectwetpondgainyounghumbleregionscience |  
 | bip_39_word_space_0 | ['people', 'expect', 'wet', 'pond', 'gain', 'young', 'humble', 'region', 'science', 'trick', 'wealth', 'armed'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people expect wet pond gain young humble region science trick |  

@@ -122,6 +122,18 @@ grace
 infant
 culture
 mosquito |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungewinterabilitywalnutbundlegraceinfantculturemosquitolife |  
+| bip_39_word_no_space_11 | plungewinterabilitywalnutbundlegraceinfantculturemosquitolifesuggest |  
+| bip_39_word_no_space_12 | plungewinterabilitywalnutbundlegraceinfantculturemosquitolifesuggestagent |  
+| bip_39_word_no_space_2 | plungewinter |  
+| bip_39_word_no_space_3 | plungewinterability |  
+| bip_39_word_no_space_4 | plungewinterabilitywalnut |  
+| bip_39_word_no_space_5 | plungewinterabilitywalnutbundle |  
+| bip_39_word_no_space_6 | plungewinterabilitywalnutbundlegrace |  
+| bip_39_word_no_space_7 | plungewinterabilitywalnutbundlegraceinfant |  
+| bip_39_word_no_space_8 | plungewinterabilitywalnutbundlegraceinfantculture |  
+| bip_39_word_no_space_9 | plungewinterabilitywalnutbundlegraceinfantculturemosquito |  
 | bip_39_word_space_0 | ['plunge', 'winter', 'ability', 'walnut', 'bundle', 'grace', 'infant', 'culture', 'mosquito', 'life', 'suggest', 'agent'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge winter ability walnut bundle grace infant culture mosquito life |  

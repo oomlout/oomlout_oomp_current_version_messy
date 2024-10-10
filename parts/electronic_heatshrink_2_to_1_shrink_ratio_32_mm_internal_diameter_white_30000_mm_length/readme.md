@@ -122,6 +122,18 @@ number
 crew
 mystery
 success |  
+| bip_39_word_no_space_1 | mix |  
+| bip_39_word_no_space_10 | mixtreattotalexposesquarenumbercrewmysterysuccesslevel |  
+| bip_39_word_no_space_11 | mixtreattotalexposesquarenumbercrewmysterysuccesslevelmenu |  
+| bip_39_word_no_space_12 | mixtreattotalexposesquarenumbercrewmysterysuccesslevelmenualarm |  
+| bip_39_word_no_space_2 | mixtreat |  
+| bip_39_word_no_space_3 | mixtreattotal |  
+| bip_39_word_no_space_4 | mixtreattotalexpose |  
+| bip_39_word_no_space_5 | mixtreattotalexposesquare |  
+| bip_39_word_no_space_6 | mixtreattotalexposesquarenumber |  
+| bip_39_word_no_space_7 | mixtreattotalexposesquarenumbercrew |  
+| bip_39_word_no_space_8 | mixtreattotalexposesquarenumbercrewmystery |  
+| bip_39_word_no_space_9 | mixtreattotalexposesquarenumbercrewmysterysuccess |  
 | bip_39_word_space_0 | ['mix', 'treat', 'total', 'expose', 'square', 'number', 'crew', 'mystery', 'success', 'level', 'menu', 'alarm'] |  
 | bip_39_word_space_1 | mix |  
 | bip_39_word_space_10 | mix treat total expose square number crew mystery success level |  

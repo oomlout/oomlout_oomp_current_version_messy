@@ -122,6 +122,18 @@ begin
 crucial
 joke
 logic |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netmisscapablepandabrainbegincrucialjokelogictaxi |  
+| bip_39_word_no_space_11 | netmisscapablepandabrainbegincrucialjokelogictaxiask |  
+| bip_39_word_no_space_12 | netmisscapablepandabrainbegincrucialjokelogictaxiaskarmy |  
+| bip_39_word_no_space_2 | netmiss |  
+| bip_39_word_no_space_3 | netmisscapable |  
+| bip_39_word_no_space_4 | netmisscapablepanda |  
+| bip_39_word_no_space_5 | netmisscapablepandabrain |  
+| bip_39_word_no_space_6 | netmisscapablepandabrainbegin |  
+| bip_39_word_no_space_7 | netmisscapablepandabrainbegincrucial |  
+| bip_39_word_no_space_8 | netmisscapablepandabrainbegincrucialjoke |  
+| bip_39_word_no_space_9 | netmisscapablepandabrainbegincrucialjokelogic |  
 | bip_39_word_space_0 | ['net', 'miss', 'capable', 'panda', 'brain', 'begin', 'crucial', 'joke', 'logic', 'taxi', 'ask', 'army'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net miss capable panda brain begin crucial joke logic taxi |  

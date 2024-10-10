@@ -122,6 +122,18 @@ palace
 resource
 duty
 wage |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalangerexercisesonghenpalaceresourcedutywagelight |  
+| bip_39_word_no_space_11 | loyalangerexercisesonghenpalaceresourcedutywagelightexplain |  
+| bip_39_word_no_space_12 | loyalangerexercisesonghenpalaceresourcedutywagelightexplainadapt |  
+| bip_39_word_no_space_2 | loyalanger |  
+| bip_39_word_no_space_3 | loyalangerexercise |  
+| bip_39_word_no_space_4 | loyalangerexercisesong |  
+| bip_39_word_no_space_5 | loyalangerexercisesonghen |  
+| bip_39_word_no_space_6 | loyalangerexercisesonghenpalace |  
+| bip_39_word_no_space_7 | loyalangerexercisesonghenpalaceresource |  
+| bip_39_word_no_space_8 | loyalangerexercisesonghenpalaceresourceduty |  
+| bip_39_word_no_space_9 | loyalangerexercisesonghenpalaceresourcedutywage |  
 | bip_39_word_space_0 | ['loyal', 'anger', 'exercise', 'song', 'hen', 'palace', 'resource', 'duty', 'wage', 'light', 'explain', 'adapt'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal anger exercise song hen palace resource duty wage light |  

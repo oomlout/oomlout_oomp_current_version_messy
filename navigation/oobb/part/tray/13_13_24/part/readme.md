@@ -122,6 +122,18 @@ black
 venue
 awesome
 lobster |  
+| bip_39_word_no_space_1 | pony |  
+| bip_39_word_no_space_10 | ponyuponrealringunitblackvenueawesomelobsteradult |  
+| bip_39_word_no_space_11 | ponyuponrealringunitblackvenueawesomelobsteradultunable |  
+| bip_39_word_no_space_12 | ponyuponrealringunitblackvenueawesomelobsteradultunableapple |  
+| bip_39_word_no_space_2 | ponyupon |  
+| bip_39_word_no_space_3 | ponyuponreal |  
+| bip_39_word_no_space_4 | ponyuponrealring |  
+| bip_39_word_no_space_5 | ponyuponrealringunit |  
+| bip_39_word_no_space_6 | ponyuponrealringunitblack |  
+| bip_39_word_no_space_7 | ponyuponrealringunitblackvenue |  
+| bip_39_word_no_space_8 | ponyuponrealringunitblackvenueawesome |  
+| bip_39_word_no_space_9 | ponyuponrealringunitblackvenueawesomelobster |  
 | bip_39_word_space_0 | ['pony', 'upon', 'real', 'ring', 'unit', 'black', 'venue', 'awesome', 'lobster', 'adult', 'unable', 'apple'] |  
 | bip_39_word_space_1 | pony |  
 | bip_39_word_space_10 | pony upon real ring unit black venue awesome lobster adult |  

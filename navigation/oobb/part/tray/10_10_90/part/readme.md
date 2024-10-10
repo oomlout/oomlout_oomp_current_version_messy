@@ -122,6 +122,18 @@ crystal
 cram
 first
 sense |  
+| bip_39_word_no_space_1 | great |  
+| bip_39_word_no_space_10 | greatartsincebrassgrapecrystalcramfirstsensebeef |  
+| bip_39_word_no_space_11 | greatartsincebrassgrapecrystalcramfirstsensebeefpatient |  
+| bip_39_word_no_space_12 | greatartsincebrassgrapecrystalcramfirstsensebeefpatientair |  
+| bip_39_word_no_space_2 | greatart |  
+| bip_39_word_no_space_3 | greatartsince |  
+| bip_39_word_no_space_4 | greatartsincebrass |  
+| bip_39_word_no_space_5 | greatartsincebrassgrape |  
+| bip_39_word_no_space_6 | greatartsincebrassgrapecrystal |  
+| bip_39_word_no_space_7 | greatartsincebrassgrapecrystalcram |  
+| bip_39_word_no_space_8 | greatartsincebrassgrapecrystalcramfirst |  
+| bip_39_word_no_space_9 | greatartsincebrassgrapecrystalcramfirstsense |  
 | bip_39_word_space_0 | ['great', 'art', 'since', 'brass', 'grape', 'crystal', 'cram', 'first', 'sense', 'beef', 'patient', 'air'] |  
 | bip_39_word_space_1 | great |  
 | bip_39_word_space_10 | great art since brass grape crystal cram first sense beef |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'purse
   stuff
 
   rug'
+bip_39_word_no_space_1: purse
+bip_39_word_no_space_10: purselazyclutchrocketspikesoftplaystuffrugmushroom
+bip_39_word_no_space_11: purselazyclutchrocketspikesoftplaystuffrugmushroomsituate
+bip_39_word_no_space_12: purselazyclutchrocketspikesoftplaystuffrugmushroomsituateartwork
+bip_39_word_no_space_2: purselazy
+bip_39_word_no_space_3: purselazyclutch
+bip_39_word_no_space_4: purselazyclutchrocket
+bip_39_word_no_space_5: purselazyclutchrocketspike
+bip_39_word_no_space_6: purselazyclutchrocketspikesoft
+bip_39_word_no_space_7: purselazyclutchrocketspikesoftplay
+bip_39_word_no_space_8: purselazyclutchrocketspikesoftplaystuff
+bip_39_word_no_space_9: purselazyclutchrocketspikesoftplaystuffrug
 bip_39_word_space_0:
 - purse
 - lazy

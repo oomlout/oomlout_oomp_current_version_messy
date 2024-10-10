@@ -122,6 +122,18 @@ utility
 syrup
 giraffe
 august |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranch |  
+| bip_39_word_no_space_11 | offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranchripple |  
+| bip_39_word_no_space_12 | offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranchrippleapology |  
+| bip_39_word_no_space_2 | offvehicle |  
+| bip_39_word_no_space_3 | offvehicledepend |  
+| bip_39_word_no_space_4 | offvehicledependmarriage |  
+| bip_39_word_no_space_5 | offvehicledependmarriageeconomy |  
+| bip_39_word_no_space_6 | offvehicledependmarriageeconomyutility |  
+| bip_39_word_no_space_7 | offvehicledependmarriageeconomyutilitysyrup |  
+| bip_39_word_no_space_8 | offvehicledependmarriageeconomyutilitysyrupgiraffe |  
+| bip_39_word_no_space_9 | offvehicledependmarriageeconomyutilitysyrupgiraffeaugust |  
 | bip_39_word_space_0 | ['off', 'vehicle', 'depend', 'marriage', 'economy', 'utility', 'syrup', 'giraffe', 'august', 'ranch', 'ripple', 'apology'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off vehicle depend marriage economy utility syrup giraffe august ranch |  

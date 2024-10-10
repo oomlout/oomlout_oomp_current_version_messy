@@ -122,6 +122,18 @@ forum
 mind
 try
 fat |  
+| bip_39_word_no_space_1 | teach |  
+| bip_39_word_no_space_10 | teachoctoberdrawneutralbrainforummindtryfatcaught |  
+| bip_39_word_no_space_11 | teachoctoberdrawneutralbrainforummindtryfatcaughtpayment |  
+| bip_39_word_no_space_12 | teachoctoberdrawneutralbrainforummindtryfatcaughtpaymentassault |  
+| bip_39_word_no_space_2 | teachoctober |  
+| bip_39_word_no_space_3 | teachoctoberdraw |  
+| bip_39_word_no_space_4 | teachoctoberdrawneutral |  
+| bip_39_word_no_space_5 | teachoctoberdrawneutralbrain |  
+| bip_39_word_no_space_6 | teachoctoberdrawneutralbrainforum |  
+| bip_39_word_no_space_7 | teachoctoberdrawneutralbrainforummind |  
+| bip_39_word_no_space_8 | teachoctoberdrawneutralbrainforummindtry |  
+| bip_39_word_no_space_9 | teachoctoberdrawneutralbrainforummindtryfat |  
 | bip_39_word_space_0 | ['teach', 'october', 'draw', 'neutral', 'brain', 'forum', 'mind', 'try', 'fat', 'caught', 'payment', 'assault'] |  
 | bip_39_word_space_1 | teach |  
 | bip_39_word_space_10 | teach october draw neutral brain forum mind try fat caught |  

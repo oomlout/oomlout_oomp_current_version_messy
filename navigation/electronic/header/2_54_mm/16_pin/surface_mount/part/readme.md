@@ -122,6 +122,18 @@ glove
 cable
 trust
 liquid |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | ruledonkeyexerciseexpectbestglovecabletrustliquidresource |  
+| bip_39_word_no_space_11 | ruledonkeyexerciseexpectbestglovecabletrustliquidresourceunable |  
+| bip_39_word_no_space_12 | ruledonkeyexerciseexpectbestglovecabletrustliquidresourceunablealcohol |  
+| bip_39_word_no_space_2 | ruledonkey |  
+| bip_39_word_no_space_3 | ruledonkeyexercise |  
+| bip_39_word_no_space_4 | ruledonkeyexerciseexpect |  
+| bip_39_word_no_space_5 | ruledonkeyexerciseexpectbest |  
+| bip_39_word_no_space_6 | ruledonkeyexerciseexpectbestglove |  
+| bip_39_word_no_space_7 | ruledonkeyexerciseexpectbestglovecable |  
+| bip_39_word_no_space_8 | ruledonkeyexerciseexpectbestglovecabletrust |  
+| bip_39_word_no_space_9 | ruledonkeyexerciseexpectbestglovecabletrustliquid |  
 | bip_39_word_space_0 | ['rule', 'donkey', 'exercise', 'expect', 'best', 'glove', 'cable', 'trust', 'liquid', 'resource', 'unable', 'alcohol'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule donkey exercise expect best glove cable trust liquid resource |  

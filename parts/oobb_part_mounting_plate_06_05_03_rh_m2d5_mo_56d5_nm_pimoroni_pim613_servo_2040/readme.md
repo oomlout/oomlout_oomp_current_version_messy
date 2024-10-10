@@ -122,6 +122,18 @@ aunt
 gaze
 exist
 bachelor |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewjacketrazorcoralmanauntgazeexistbachelornet |  
+| bip_39_word_no_space_11 | fewjacketrazorcoralmanauntgazeexistbachelornetvast |  
+| bip_39_word_no_space_12 | fewjacketrazorcoralmanauntgazeexistbachelornetvastanxiety |  
+| bip_39_word_no_space_2 | fewjacket |  
+| bip_39_word_no_space_3 | fewjacketrazor |  
+| bip_39_word_no_space_4 | fewjacketrazorcoral |  
+| bip_39_word_no_space_5 | fewjacketrazorcoralman |  
+| bip_39_word_no_space_6 | fewjacketrazorcoralmanaunt |  
+| bip_39_word_no_space_7 | fewjacketrazorcoralmanauntgaze |  
+| bip_39_word_no_space_8 | fewjacketrazorcoralmanauntgazeexist |  
+| bip_39_word_no_space_9 | fewjacketrazorcoralmanauntgazeexistbachelor |  
 | bip_39_word_space_0 | ['few', 'jacket', 'razor', 'coral', 'man', 'aunt', 'gaze', 'exist', 'bachelor', 'net', 'vast', 'anxiety'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few jacket razor coral man aunt gaze exist bachelor net |  

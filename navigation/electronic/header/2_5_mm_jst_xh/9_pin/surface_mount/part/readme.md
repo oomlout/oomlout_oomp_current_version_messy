@@ -122,6 +122,18 @@ dream
 book
 group
 pipe |  
+| bip_39_word_no_space_1 | mistake |  
+| bip_39_word_no_space_10 | mistakeneckfameboiloildreambookgrouppipeinch |  
+| bip_39_word_no_space_11 | mistakeneckfameboiloildreambookgrouppipeinchwise |  
+| bip_39_word_no_space_12 | mistakeneckfameboiloildreambookgrouppipeinchwiseaugust |  
+| bip_39_word_no_space_2 | mistakeneck |  
+| bip_39_word_no_space_3 | mistakeneckfame |  
+| bip_39_word_no_space_4 | mistakeneckfameboil |  
+| bip_39_word_no_space_5 | mistakeneckfameboiloil |  
+| bip_39_word_no_space_6 | mistakeneckfameboiloildream |  
+| bip_39_word_no_space_7 | mistakeneckfameboiloildreambook |  
+| bip_39_word_no_space_8 | mistakeneckfameboiloildreambookgroup |  
+| bip_39_word_no_space_9 | mistakeneckfameboiloildreambookgrouppipe |  
 | bip_39_word_space_0 | ['mistake', 'neck', 'fame', 'boil', 'oil', 'dream', 'book', 'group', 'pipe', 'inch', 'wise', 'august'] |  
 | bip_39_word_space_1 | mistake |  
 | bip_39_word_space_10 | mistake neck fame boil oil dream book group pipe inch |  

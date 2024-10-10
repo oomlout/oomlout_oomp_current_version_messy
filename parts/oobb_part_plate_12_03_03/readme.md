@@ -122,6 +122,18 @@ hurt
 cage
 hungry
 cheap |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keenscatterprefershrugcupboardhurtcagehungrycheaplock |  
+| bip_39_word_no_space_11 | keenscatterprefershrugcupboardhurtcagehungrycheaplockknock |  
+| bip_39_word_no_space_12 | keenscatterprefershrugcupboardhurtcagehungrycheaplockknockadjust |  
+| bip_39_word_no_space_2 | keenscatter |  
+| bip_39_word_no_space_3 | keenscatterprefer |  
+| bip_39_word_no_space_4 | keenscatterprefershrug |  
+| bip_39_word_no_space_5 | keenscatterprefershrugcupboard |  
+| bip_39_word_no_space_6 | keenscatterprefershrugcupboardhurt |  
+| bip_39_word_no_space_7 | keenscatterprefershrugcupboardhurtcage |  
+| bip_39_word_no_space_8 | keenscatterprefershrugcupboardhurtcagehungry |  
+| bip_39_word_no_space_9 | keenscatterprefershrugcupboardhurtcagehungrycheap |  
 | bip_39_word_space_0 | ['keen', 'scatter', 'prefer', 'shrug', 'cupboard', 'hurt', 'cage', 'hungry', 'cheap', 'lock', 'knock', 'adjust'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen scatter prefer shrug cupboard hurt cage hungry cheap lock |  

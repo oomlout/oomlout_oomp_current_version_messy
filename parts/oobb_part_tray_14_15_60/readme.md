@@ -122,6 +122,18 @@ enroll
 during
 dial
 master |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | trymiracleattendtideprofitenrollduringdialmastercircle |  
+| bip_39_word_no_space_11 | trymiracleattendtideprofitenrollduringdialmastercirclediagram |  
+| bip_39_word_no_space_12 | trymiracleattendtideprofitenrollduringdialmastercirclediagramarmor |  
+| bip_39_word_no_space_2 | trymiracle |  
+| bip_39_word_no_space_3 | trymiracleattend |  
+| bip_39_word_no_space_4 | trymiracleattendtide |  
+| bip_39_word_no_space_5 | trymiracleattendtideprofit |  
+| bip_39_word_no_space_6 | trymiracleattendtideprofitenroll |  
+| bip_39_word_no_space_7 | trymiracleattendtideprofitenrollduring |  
+| bip_39_word_no_space_8 | trymiracleattendtideprofitenrollduringdial |  
+| bip_39_word_no_space_9 | trymiracleattendtideprofitenrollduringdialmaster |  
 | bip_39_word_space_0 | ['try', 'miracle', 'attend', 'tide', 'profit', 'enroll', 'during', 'dial', 'master', 'circle', 'diagram', 'armor'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try miracle attend tide profit enroll during dial master circle |  

@@ -122,6 +122,18 @@ actual
 empower
 buffalo
 ready |  
+| bip_39_word_no_space_1 | warrior |  
+| bip_39_word_no_space_10 | warriorprettytonighthatwealthactualempowerbuffaloreadypretty |  
+| bip_39_word_no_space_11 | warriorprettytonighthatwealthactualempowerbuffaloreadyprettyresponse |  
+| bip_39_word_no_space_12 | warriorprettytonighthatwealthactualempowerbuffaloreadyprettyresponseactress |  
+| bip_39_word_no_space_2 | warriorpretty |  
+| bip_39_word_no_space_3 | warriorprettytonight |  
+| bip_39_word_no_space_4 | warriorprettytonighthat |  
+| bip_39_word_no_space_5 | warriorprettytonighthatwealth |  
+| bip_39_word_no_space_6 | warriorprettytonighthatwealthactual |  
+| bip_39_word_no_space_7 | warriorprettytonighthatwealthactualempower |  
+| bip_39_word_no_space_8 | warriorprettytonighthatwealthactualempowerbuffalo |  
+| bip_39_word_no_space_9 | warriorprettytonighthatwealthactualempowerbuffaloready |  
 | bip_39_word_space_0 | ['warrior', 'pretty', 'tonight', 'hat', 'wealth', 'actual', 'empower', 'buffalo', 'ready', 'pretty', 'response', 'actress'] |  
 | bip_39_word_space_1 | warrior |  
 | bip_39_word_space_10 | warrior pretty tonight hat wealth actual empower buffalo ready pretty |  

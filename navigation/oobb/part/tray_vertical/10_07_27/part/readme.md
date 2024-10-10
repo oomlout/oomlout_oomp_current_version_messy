@@ -122,6 +122,18 @@ betray
 foot
 figure
 sail |  
+| bip_39_word_no_space_1 | dial |  
+| bip_39_word_no_space_10 | dialmainillpandasuperbetrayfootfiguresailgrunt |  
+| bip_39_word_no_space_11 | dialmainillpandasuperbetrayfootfiguresailgruntagree |  
+| bip_39_word_no_space_12 | dialmainillpandasuperbetrayfootfiguresailgruntagreeapril |  
+| bip_39_word_no_space_2 | dialmain |  
+| bip_39_word_no_space_3 | dialmainill |  
+| bip_39_word_no_space_4 | dialmainillpanda |  
+| bip_39_word_no_space_5 | dialmainillpandasuper |  
+| bip_39_word_no_space_6 | dialmainillpandasuperbetray |  
+| bip_39_word_no_space_7 | dialmainillpandasuperbetrayfoot |  
+| bip_39_word_no_space_8 | dialmainillpandasuperbetrayfootfigure |  
+| bip_39_word_no_space_9 | dialmainillpandasuperbetrayfootfiguresail |  
 | bip_39_word_space_0 | ['dial', 'main', 'ill', 'panda', 'super', 'betray', 'foot', 'figure', 'sail', 'grunt', 'agree', 'april'] |  
 | bip_39_word_space_1 | dial |  
 | bip_39_word_space_10 | dial main ill panda super betray foot figure sail grunt |  

@@ -122,6 +122,18 @@ wife
 connect
 twice
 sauce |  
+| bip_39_word_no_space_1 | victory |  
+| bip_39_word_no_space_10 | victorychronicprosperfieldblackwifeconnecttwicesauceeasily |  
+| bip_39_word_no_space_11 | victorychronicprosperfieldblackwifeconnecttwicesauceeasilysister |  
+| bip_39_word_no_space_12 | victorychronicprosperfieldblackwifeconnecttwicesauceeasilysisteralien |  
+| bip_39_word_no_space_2 | victorychronic |  
+| bip_39_word_no_space_3 | victorychronicprosper |  
+| bip_39_word_no_space_4 | victorychronicprosperfield |  
+| bip_39_word_no_space_5 | victorychronicprosperfieldblack |  
+| bip_39_word_no_space_6 | victorychronicprosperfieldblackwife |  
+| bip_39_word_no_space_7 | victorychronicprosperfieldblackwifeconnect |  
+| bip_39_word_no_space_8 | victorychronicprosperfieldblackwifeconnecttwice |  
+| bip_39_word_no_space_9 | victorychronicprosperfieldblackwifeconnecttwicesauce |  
 | bip_39_word_space_0 | ['victory', 'chronic', 'prosper', 'field', 'black', 'wife', 'connect', 'twice', 'sauce', 'easily', 'sister', 'alien'] |  
 | bip_39_word_space_1 | victory |  
 | bip_39_word_space_10 | victory chronic prosper field black wife connect twice sauce easily |  

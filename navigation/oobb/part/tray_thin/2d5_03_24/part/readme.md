@@ -122,6 +122,18 @@ artwork
 soccer
 creek
 okay |  
+| bip_39_word_no_space_1 | turkey |  
+| bip_39_word_no_space_10 | turkeymaterialjustdisorderescapeartworksoccercreekokayvague |  
+| bip_39_word_no_space_11 | turkeymaterialjustdisorderescapeartworksoccercreekokayvaguelion |  
+| bip_39_word_no_space_12 | turkeymaterialjustdisorderescapeartworksoccercreekokayvaguelionamused |  
+| bip_39_word_no_space_2 | turkeymaterial |  
+| bip_39_word_no_space_3 | turkeymaterialjust |  
+| bip_39_word_no_space_4 | turkeymaterialjustdisorder |  
+| bip_39_word_no_space_5 | turkeymaterialjustdisorderescape |  
+| bip_39_word_no_space_6 | turkeymaterialjustdisorderescapeartwork |  
+| bip_39_word_no_space_7 | turkeymaterialjustdisorderescapeartworksoccer |  
+| bip_39_word_no_space_8 | turkeymaterialjustdisorderescapeartworksoccercreek |  
+| bip_39_word_no_space_9 | turkeymaterialjustdisorderescapeartworksoccercreekokay |  
 | bip_39_word_space_0 | ['turkey', 'material', 'just', 'disorder', 'escape', 'artwork', 'soccer', 'creek', 'okay', 'vague', 'lion', 'amused'] |  
 | bip_39_word_space_1 | turkey |  
 | bip_39_word_space_10 | turkey material just disorder escape artwork soccer creek okay vague |  

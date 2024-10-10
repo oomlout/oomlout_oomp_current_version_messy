@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'winner
   cloud
 
   radar'
+bip_39_word_no_space_1: winner
+bip_39_word_no_space_10: winnerpeacemerryaxisstuffoldcanalcloudradarvast
+bip_39_word_no_space_11: winnerpeacemerryaxisstuffoldcanalcloudradarvastuse
+bip_39_word_no_space_12: winnerpeacemerryaxisstuffoldcanalcloudradarvastuseaugust
+bip_39_word_no_space_2: winnerpeace
+bip_39_word_no_space_3: winnerpeacemerry
+bip_39_word_no_space_4: winnerpeacemerryaxis
+bip_39_word_no_space_5: winnerpeacemerryaxisstuff
+bip_39_word_no_space_6: winnerpeacemerryaxisstuffold
+bip_39_word_no_space_7: winnerpeacemerryaxisstuffoldcanal
+bip_39_word_no_space_8: winnerpeacemerryaxisstuffoldcanalcloud
+bip_39_word_no_space_9: winnerpeacemerryaxisstuffoldcanalcloudradar
 bip_39_word_space_0:
 - winner
 - peace

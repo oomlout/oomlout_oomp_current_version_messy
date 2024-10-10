@@ -122,6 +122,18 @@ sunset
 butter
 glow
 balance |  
+| bip_39_word_no_space_1 | stadium |  
+| bip_39_word_no_space_10 | stadiummergelibraryneglectpraisesunsetbutterglowbalanceattract |  
+| bip_39_word_no_space_11 | stadiummergelibraryneglectpraisesunsetbutterglowbalanceattractscare |  
+| bip_39_word_no_space_12 | stadiummergelibraryneglectpraisesunsetbutterglowbalanceattractscareacquire |  
+| bip_39_word_no_space_2 | stadiummerge |  
+| bip_39_word_no_space_3 | stadiummergelibrary |  
+| bip_39_word_no_space_4 | stadiummergelibraryneglect |  
+| bip_39_word_no_space_5 | stadiummergelibraryneglectpraise |  
+| bip_39_word_no_space_6 | stadiummergelibraryneglectpraisesunset |  
+| bip_39_word_no_space_7 | stadiummergelibraryneglectpraisesunsetbutter |  
+| bip_39_word_no_space_8 | stadiummergelibraryneglectpraisesunsetbutterglow |  
+| bip_39_word_no_space_9 | stadiummergelibraryneglectpraisesunsetbutterglowbalance |  
 | bip_39_word_space_0 | ['stadium', 'merge', 'library', 'neglect', 'praise', 'sunset', 'butter', 'glow', 'balance', 'attract', 'scare', 'acquire'] |  
 | bip_39_word_space_1 | stadium |  
 | bip_39_word_space_10 | stadium merge library neglect praise sunset butter glow balance attract |  

@@ -122,6 +122,18 @@ blouse
 crunch
 tell
 inner |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | henendorsecoloraddmobileblousecrunchtellinnertrigger |  
+| bip_39_word_no_space_11 | henendorsecoloraddmobileblousecrunchtellinnertriggerdrive |  
+| bip_39_word_no_space_12 | henendorsecoloraddmobileblousecrunchtellinnertriggerdriveask |  
+| bip_39_word_no_space_2 | henendorse |  
+| bip_39_word_no_space_3 | henendorsecolor |  
+| bip_39_word_no_space_4 | henendorsecoloradd |  
+| bip_39_word_no_space_5 | henendorsecoloraddmobile |  
+| bip_39_word_no_space_6 | henendorsecoloraddmobileblouse |  
+| bip_39_word_no_space_7 | henendorsecoloraddmobileblousecrunch |  
+| bip_39_word_no_space_8 | henendorsecoloraddmobileblousecrunchtell |  
+| bip_39_word_no_space_9 | henendorsecoloraddmobileblousecrunchtellinner |  
 | bip_39_word_space_0 | ['hen', 'endorse', 'color', 'add', 'mobile', 'blouse', 'crunch', 'tell', 'inner', 'trigger', 'drive', 'ask'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen endorse color add mobile blouse crunch tell inner trigger |  

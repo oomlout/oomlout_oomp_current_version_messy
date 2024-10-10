@@ -122,6 +122,18 @@ travel
 scheme
 grape
 balcony |  
+| bip_39_word_no_space_1 | angle |  
+| bip_39_word_no_space_10 | anglefewbelievekneecanceltravelschemegrapebalconylake |  
+| bip_39_word_no_space_11 | anglefewbelievekneecanceltravelschemegrapebalconylaketext |  
+| bip_39_word_no_space_12 | anglefewbelievekneecanceltravelschemegrapebalconylaketextauction |  
+| bip_39_word_no_space_2 | anglefew |  
+| bip_39_word_no_space_3 | anglefewbelieve |  
+| bip_39_word_no_space_4 | anglefewbelieveknee |  
+| bip_39_word_no_space_5 | anglefewbelievekneecancel |  
+| bip_39_word_no_space_6 | anglefewbelievekneecanceltravel |  
+| bip_39_word_no_space_7 | anglefewbelievekneecanceltravelscheme |  
+| bip_39_word_no_space_8 | anglefewbelievekneecanceltravelschemegrape |  
+| bip_39_word_no_space_9 | anglefewbelievekneecanceltravelschemegrapebalcony |  
 | bip_39_word_space_0 | ['angle', 'few', 'believe', 'knee', 'cancel', 'travel', 'scheme', 'grape', 'balcony', 'lake', 'text', 'auction'] |  
 | bip_39_word_space_1 | angle |  
 | bip_39_word_space_10 | angle few believe knee cancel travel scheme grape balcony lake |  

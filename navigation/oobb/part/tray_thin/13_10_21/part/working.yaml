@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chunk
   mandate
 
   jar'
+bip_39_word_no_space_1: chunk
+bip_39_word_no_space_10: chunksevenmarginluckyelderchimneynoisemandatejareye
+bip_39_word_no_space_11: chunksevenmarginluckyelderchimneynoisemandatejareyebulb
+bip_39_word_no_space_12: chunksevenmarginluckyelderchimneynoisemandatejareyebulbabsent
+bip_39_word_no_space_2: chunkseven
+bip_39_word_no_space_3: chunksevenmargin
+bip_39_word_no_space_4: chunksevenmarginlucky
+bip_39_word_no_space_5: chunksevenmarginluckyelder
+bip_39_word_no_space_6: chunksevenmarginluckyelderchimney
+bip_39_word_no_space_7: chunksevenmarginluckyelderchimneynoise
+bip_39_word_no_space_8: chunksevenmarginluckyelderchimneynoisemandate
+bip_39_word_no_space_9: chunksevenmarginluckyelderchimneynoisemandatejar
 bip_39_word_space_0:
 - chunk
 - seven

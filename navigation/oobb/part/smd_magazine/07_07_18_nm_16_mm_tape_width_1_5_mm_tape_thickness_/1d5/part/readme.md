@@ -122,6 +122,18 @@ eyebrow
 outer
 riot
 pride |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footothergathersouthnumbereyebrowouterriotpridedose |  
+| bip_39_word_no_space_11 | footothergathersouthnumbereyebrowouterriotpridedosemorning |  
+| bip_39_word_no_space_12 | footothergathersouthnumbereyebrowouterriotpridedosemorningarrow |  
+| bip_39_word_no_space_2 | footother |  
+| bip_39_word_no_space_3 | footothergather |  
+| bip_39_word_no_space_4 | footothergathersouth |  
+| bip_39_word_no_space_5 | footothergathersouthnumber |  
+| bip_39_word_no_space_6 | footothergathersouthnumbereyebrow |  
+| bip_39_word_no_space_7 | footothergathersouthnumbereyebrowouter |  
+| bip_39_word_no_space_8 | footothergathersouthnumbereyebrowouterriot |  
+| bip_39_word_no_space_9 | footothergathersouthnumbereyebrowouterriotpride |  
 | bip_39_word_space_0 | ['foot', 'other', 'gather', 'south', 'number', 'eyebrow', 'outer', 'riot', 'pride', 'dose', 'morning', 'arrow'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot other gather south number eyebrow outer riot pride dose |  

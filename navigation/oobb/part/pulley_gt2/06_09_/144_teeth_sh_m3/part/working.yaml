@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'club
   journey
 
   artefact'
+bip_39_word_no_space_1: club
+bip_39_word_no_space_10: clubtrashlaketowerglueinterestfreshjourneyartefactanother
+bip_39_word_no_space_11: clubtrashlaketowerglueinterestfreshjourneyartefactanotherecho
+bip_39_word_no_space_12: clubtrashlaketowerglueinterestfreshjourneyartefactanotherechoallow
+bip_39_word_no_space_2: clubtrash
+bip_39_word_no_space_3: clubtrashlake
+bip_39_word_no_space_4: clubtrashlaketower
+bip_39_word_no_space_5: clubtrashlaketowerglue
+bip_39_word_no_space_6: clubtrashlaketowerglueinterest
+bip_39_word_no_space_7: clubtrashlaketowerglueinterestfresh
+bip_39_word_no_space_8: clubtrashlaketowerglueinterestfreshjourney
+bip_39_word_no_space_9: clubtrashlaketowerglueinterestfreshjourneyartefact
 bip_39_word_space_0:
 - club
 - trash

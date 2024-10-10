@@ -122,6 +122,18 @@ choice
 simple
 coconut
 aware |  
+| bip_39_word_no_space_1 | window |  
+| bip_39_word_no_space_10 | windowrecallhatderiveglobechoicesimplecoconutawaretrouble |  
+| bip_39_word_no_space_11 | windowrecallhatderiveglobechoicesimplecoconutawaretroublewolf |  
+| bip_39_word_no_space_12 | windowrecallhatderiveglobechoicesimplecoconutawaretroublewolfangle |  
+| bip_39_word_no_space_2 | windowrecall |  
+| bip_39_word_no_space_3 | windowrecallhat |  
+| bip_39_word_no_space_4 | windowrecallhatderive |  
+| bip_39_word_no_space_5 | windowrecallhatderiveglobe |  
+| bip_39_word_no_space_6 | windowrecallhatderiveglobechoice |  
+| bip_39_word_no_space_7 | windowrecallhatderiveglobechoicesimple |  
+| bip_39_word_no_space_8 | windowrecallhatderiveglobechoicesimplecoconut |  
+| bip_39_word_no_space_9 | windowrecallhatderiveglobechoicesimplecoconutaware |  
 | bip_39_word_space_0 | ['window', 'recall', 'hat', 'derive', 'globe', 'choice', 'simple', 'coconut', 'aware', 'trouble', 'wolf', 'angle'] |  
 | bip_39_word_space_1 | window |  
 | bip_39_word_space_10 | window recall hat derive globe choice simple coconut aware trouble |  

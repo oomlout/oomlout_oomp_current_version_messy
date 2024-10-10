@@ -122,6 +122,18 @@ trouble
 giggle
 illness
 alter |  
+| bip_39_word_no_space_1 | stumble |  
+| bip_39_word_no_space_10 | stumblefamilypulpapologyordinarytroublegiggleillnessalterfront |  
+| bip_39_word_no_space_11 | stumblefamilypulpapologyordinarytroublegiggleillnessalterfrontvalid |  
+| bip_39_word_no_space_12 | stumblefamilypulpapologyordinarytroublegiggleillnessalterfrontvalidangle |  
+| bip_39_word_no_space_2 | stumblefamily |  
+| bip_39_word_no_space_3 | stumblefamilypulp |  
+| bip_39_word_no_space_4 | stumblefamilypulpapology |  
+| bip_39_word_no_space_5 | stumblefamilypulpapologyordinary |  
+| bip_39_word_no_space_6 | stumblefamilypulpapologyordinarytrouble |  
+| bip_39_word_no_space_7 | stumblefamilypulpapologyordinarytroublegiggle |  
+| bip_39_word_no_space_8 | stumblefamilypulpapologyordinarytroublegiggleillness |  
+| bip_39_word_no_space_9 | stumblefamilypulpapologyordinarytroublegiggleillnessalter |  
 | bip_39_word_space_0 | ['stumble', 'family', 'pulp', 'apology', 'ordinary', 'trouble', 'giggle', 'illness', 'alter', 'front', 'valid', 'angle'] |  
 | bip_39_word_space_1 | stumble |  
 | bip_39_word_space_10 | stumble family pulp apology ordinary trouble giggle illness alter front |  

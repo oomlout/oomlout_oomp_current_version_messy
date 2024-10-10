@@ -122,6 +122,18 @@ frost
 wrap
 illness
 hospital |  
+| bip_39_word_no_space_1 | rotate |  
+| bip_39_word_no_space_10 | rotatecakenursehelpyouthfrostwrapillnesshospitalleaf |  
+| bip_39_word_no_space_11 | rotatecakenursehelpyouthfrostwrapillnesshospitalleafpriority |  
+| bip_39_word_no_space_12 | rotatecakenursehelpyouthfrostwrapillnesshospitalleafpriorityagain |  
+| bip_39_word_no_space_2 | rotatecake |  
+| bip_39_word_no_space_3 | rotatecakenurse |  
+| bip_39_word_no_space_4 | rotatecakenursehelp |  
+| bip_39_word_no_space_5 | rotatecakenursehelpyouth |  
+| bip_39_word_no_space_6 | rotatecakenursehelpyouthfrost |  
+| bip_39_word_no_space_7 | rotatecakenursehelpyouthfrostwrap |  
+| bip_39_word_no_space_8 | rotatecakenursehelpyouthfrostwrapillness |  
+| bip_39_word_no_space_9 | rotatecakenursehelpyouthfrostwrapillnesshospital |  
 | bip_39_word_space_0 | ['rotate', 'cake', 'nurse', 'help', 'youth', 'frost', 'wrap', 'illness', 'hospital', 'leaf', 'priority', 'again'] |  
 | bip_39_word_space_1 | rotate |  
 | bip_39_word_space_10 | rotate cake nurse help youth frost wrap illness hospital leaf |  

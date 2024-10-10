@@ -122,6 +122,18 @@ vast
 mimic
 horse
 next |  
+| bip_39_word_no_space_1 | brother |  
+| bip_39_word_no_space_10 | brotherwebgrapeanalystseavastmimichorsenexttoken |  
+| bip_39_word_no_space_11 | brotherwebgrapeanalystseavastmimichorsenexttokenslide |  
+| bip_39_word_no_space_12 | brotherwebgrapeanalystseavastmimichorsenexttokenslideadvance |  
+| bip_39_word_no_space_2 | brotherweb |  
+| bip_39_word_no_space_3 | brotherwebgrape |  
+| bip_39_word_no_space_4 | brotherwebgrapeanalyst |  
+| bip_39_word_no_space_5 | brotherwebgrapeanalystsea |  
+| bip_39_word_no_space_6 | brotherwebgrapeanalystseavast |  
+| bip_39_word_no_space_7 | brotherwebgrapeanalystseavastmimic |  
+| bip_39_word_no_space_8 | brotherwebgrapeanalystseavastmimichorse |  
+| bip_39_word_no_space_9 | brotherwebgrapeanalystseavastmimichorsenext |  
 | bip_39_word_space_0 | ['brother', 'web', 'grape', 'analyst', 'sea', 'vast', 'mimic', 'horse', 'next', 'token', 'slide', 'advance'] |  
 | bip_39_word_space_1 | brother |  
 | bip_39_word_space_10 | brother web grape analyst sea vast mimic horse next token |  

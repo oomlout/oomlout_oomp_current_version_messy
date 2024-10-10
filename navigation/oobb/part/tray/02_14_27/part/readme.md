@@ -109,6 +109,17 @@ catch
 soccer
 tragic
 erode |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palaceprovideexpandbeautyerodecatchsoccertragicerodevocal |  
+| bip_39_word_no_space_11 | palaceprovideexpandbeautyerodecatchsoccertragicerodevocalorchard |  
+| bip_39_word_no_space_2 | palaceprovide |  
+| bip_39_word_no_space_3 | palaceprovideexpand |  
+| bip_39_word_no_space_4 | palaceprovideexpandbeauty |  
+| bip_39_word_no_space_5 | palaceprovideexpandbeautyerode |  
+| bip_39_word_no_space_6 | palaceprovideexpandbeautyerodecatch |  
+| bip_39_word_no_space_7 | palaceprovideexpandbeautyerodecatchsoccer |  
+| bip_39_word_no_space_8 | palaceprovideexpandbeautyerodecatchsoccertragic |  
+| bip_39_word_no_space_9 | palaceprovideexpandbeautyerodecatchsoccertragicerode |  
 | bip_39_word_space_0 | ['palace', 'provide', 'expand', 'beauty', 'erode', 'catch', 'soccer', 'tragic', 'erode', 'vocal', 'orchard'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace provide expand beauty erode catch soccer tragic erode vocal |  

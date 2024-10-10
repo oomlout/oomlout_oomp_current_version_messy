@@ -122,6 +122,18 @@ pistol
 you
 hover
 glance |  
+| bip_39_word_no_space_1 | mom |  
+| bip_39_word_no_space_10 | momdogacousticsubwayfrontpistolyouhoverglancescare |  
+| bip_39_word_no_space_11 | momdogacousticsubwayfrontpistolyouhoverglancescareugly |  
+| bip_39_word_no_space_12 | momdogacousticsubwayfrontpistolyouhoverglancescareuglyamused |  
+| bip_39_word_no_space_2 | momdog |  
+| bip_39_word_no_space_3 | momdogacoustic |  
+| bip_39_word_no_space_4 | momdogacousticsubway |  
+| bip_39_word_no_space_5 | momdogacousticsubwayfront |  
+| bip_39_word_no_space_6 | momdogacousticsubwayfrontpistol |  
+| bip_39_word_no_space_7 | momdogacousticsubwayfrontpistolyou |  
+| bip_39_word_no_space_8 | momdogacousticsubwayfrontpistolyouhover |  
+| bip_39_word_no_space_9 | momdogacousticsubwayfrontpistolyouhoverglance |  
 | bip_39_word_space_0 | ['mom', 'dog', 'acoustic', 'subway', 'front', 'pistol', 'you', 'hover', 'glance', 'scare', 'ugly', 'amused'] |  
 | bip_39_word_space_1 | mom |  
 | bip_39_word_space_10 | mom dog acoustic subway front pistol you hover glance scare |  

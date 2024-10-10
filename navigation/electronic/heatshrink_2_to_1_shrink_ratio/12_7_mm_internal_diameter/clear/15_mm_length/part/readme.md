@@ -122,6 +122,18 @@ deal
 soda
 pupil
 fine |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportawesomesurprisehammerabsorbdealsodapupilfineopinion |  
+| bip_39_word_no_space_11 | reportawesomesurprisehammerabsorbdealsodapupilfineopiniongame |  
+| bip_39_word_no_space_12 | reportawesomesurprisehammerabsorbdealsodapupilfineopiniongameanxiety |  
+| bip_39_word_no_space_2 | reportawesome |  
+| bip_39_word_no_space_3 | reportawesomesurprise |  
+| bip_39_word_no_space_4 | reportawesomesurprisehammer |  
+| bip_39_word_no_space_5 | reportawesomesurprisehammerabsorb |  
+| bip_39_word_no_space_6 | reportawesomesurprisehammerabsorbdeal |  
+| bip_39_word_no_space_7 | reportawesomesurprisehammerabsorbdealsoda |  
+| bip_39_word_no_space_8 | reportawesomesurprisehammerabsorbdealsodapupil |  
+| bip_39_word_no_space_9 | reportawesomesurprisehammerabsorbdealsodapupilfine |  
 | bip_39_word_space_0 | ['report', 'awesome', 'surprise', 'hammer', 'absorb', 'deal', 'soda', 'pupil', 'fine', 'opinion', 'game', 'anxiety'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report awesome surprise hammer absorb deal soda pupil fine opinion |  

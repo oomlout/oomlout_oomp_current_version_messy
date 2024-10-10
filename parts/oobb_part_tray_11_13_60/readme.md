@@ -122,6 +122,18 @@ morning
 become
 romance
 kiss |  
+| bip_39_word_no_space_1 | empty |  
+| bip_39_word_no_space_10 | emptydonategatherremoveindustrymorningbecomeromancekissdeliver |  
+| bip_39_word_no_space_11 | emptydonategatherremoveindustrymorningbecomeromancekissdelivertopic |  
+| bip_39_word_no_space_12 | emptydonategatherremoveindustrymorningbecomeromancekissdelivertopicafraid |  
+| bip_39_word_no_space_2 | emptydonate |  
+| bip_39_word_no_space_3 | emptydonategather |  
+| bip_39_word_no_space_4 | emptydonategatherremove |  
+| bip_39_word_no_space_5 | emptydonategatherremoveindustry |  
+| bip_39_word_no_space_6 | emptydonategatherremoveindustrymorning |  
+| bip_39_word_no_space_7 | emptydonategatherremoveindustrymorningbecome |  
+| bip_39_word_no_space_8 | emptydonategatherremoveindustrymorningbecomeromance |  
+| bip_39_word_no_space_9 | emptydonategatherremoveindustrymorningbecomeromancekiss |  
 | bip_39_word_space_0 | ['empty', 'donate', 'gather', 'remove', 'industry', 'morning', 'become', 'romance', 'kiss', 'deliver', 'topic', 'afraid'] |  
 | bip_39_word_space_1 | empty |  
 | bip_39_word_space_10 | empty donate gather remove industry morning become romance kiss deliver |  

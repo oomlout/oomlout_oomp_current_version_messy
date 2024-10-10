@@ -122,6 +122,18 @@ rifle
 hope
 train
 modify |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposestocksituateseekmeanriflehopetrainmodifycountry |  
+| bip_39_word_no_space_11 | opposestocksituateseekmeanriflehopetrainmodifycountrypair |  
+| bip_39_word_no_space_12 | opposestocksituateseekmeanriflehopetrainmodifycountrypairaverage |  
+| bip_39_word_no_space_2 | opposestock |  
+| bip_39_word_no_space_3 | opposestocksituate |  
+| bip_39_word_no_space_4 | opposestocksituateseek |  
+| bip_39_word_no_space_5 | opposestocksituateseekmean |  
+| bip_39_word_no_space_6 | opposestocksituateseekmeanrifle |  
+| bip_39_word_no_space_7 | opposestocksituateseekmeanriflehope |  
+| bip_39_word_no_space_8 | opposestocksituateseekmeanriflehopetrain |  
+| bip_39_word_no_space_9 | opposestocksituateseekmeanriflehopetrainmodify |  
 | bip_39_word_space_0 | ['oppose', 'stock', 'situate', 'seek', 'mean', 'rifle', 'hope', 'train', 'modify', 'country', 'pair', 'average'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose stock situate seek mean rifle hope train modify country |  

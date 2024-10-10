@@ -122,6 +122,18 @@ reject
 spoil
 hero
 canal |  
+| bip_39_word_no_space_1 | hockey |  
+| bip_39_word_no_space_10 | hockeyagegravityperfectrichrejectspoilherocanalfee |  
+| bip_39_word_no_space_11 | hockeyagegravityperfectrichrejectspoilherocanalfeemixture |  
+| bip_39_word_no_space_12 | hockeyagegravityperfectrichrejectspoilherocanalfeemixtureaunt |  
+| bip_39_word_no_space_2 | hockeyage |  
+| bip_39_word_no_space_3 | hockeyagegravity |  
+| bip_39_word_no_space_4 | hockeyagegravityperfect |  
+| bip_39_word_no_space_5 | hockeyagegravityperfectrich |  
+| bip_39_word_no_space_6 | hockeyagegravityperfectrichreject |  
+| bip_39_word_no_space_7 | hockeyagegravityperfectrichrejectspoil |  
+| bip_39_word_no_space_8 | hockeyagegravityperfectrichrejectspoilhero |  
+| bip_39_word_no_space_9 | hockeyagegravityperfectrichrejectspoilherocanal |  
 | bip_39_word_space_0 | ['hockey', 'age', 'gravity', 'perfect', 'rich', 'reject', 'spoil', 'hero', 'canal', 'fee', 'mixture', 'aunt'] |  
 | bip_39_word_space_1 | hockey |  
 | bip_39_word_space_10 | hockey age gravity perfect rich reject spoil hero canal fee |  

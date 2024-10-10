@@ -122,6 +122,18 @@ crash
 hold
 response
 fatal |  
+| bip_39_word_no_space_1 | grit |  
+| bip_39_word_no_space_10 | grittrafficupdateclubbananacrashholdresponsefatalnaive |  
+| bip_39_word_no_space_11 | grittrafficupdateclubbananacrashholdresponsefatalnaiveegg |  
+| bip_39_word_no_space_12 | grittrafficupdateclubbananacrashholdresponsefatalnaiveeggaugust |  
+| bip_39_word_no_space_2 | grittraffic |  
+| bip_39_word_no_space_3 | grittrafficupdate |  
+| bip_39_word_no_space_4 | grittrafficupdateclub |  
+| bip_39_word_no_space_5 | grittrafficupdateclubbanana |  
+| bip_39_word_no_space_6 | grittrafficupdateclubbananacrash |  
+| bip_39_word_no_space_7 | grittrafficupdateclubbananacrashhold |  
+| bip_39_word_no_space_8 | grittrafficupdateclubbananacrashholdresponse |  
+| bip_39_word_no_space_9 | grittrafficupdateclubbananacrashholdresponsefatal |  
 | bip_39_word_space_0 | ['grit', 'traffic', 'update', 'club', 'banana', 'crash', 'hold', 'response', 'fatal', 'naive', 'egg', 'august'] |  
 | bip_39_word_space_1 | grit |  
 | bip_39_word_space_10 | grit traffic update club banana crash hold response fatal naive |  

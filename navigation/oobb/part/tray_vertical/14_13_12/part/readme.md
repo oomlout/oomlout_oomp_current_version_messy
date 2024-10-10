@@ -109,6 +109,17 @@ security
 exile
 win
 pottery |  
+| bip_39_word_no_space_1 | head |  
+| bip_39_word_no_space_10 | headfantasyprovidequestionusesecurityexilewinpotterygreen |  
+| bip_39_word_no_space_11 | headfantasyprovidequestionusesecurityexilewinpotterygreenjacket |  
+| bip_39_word_no_space_2 | headfantasy |  
+| bip_39_word_no_space_3 | headfantasyprovide |  
+| bip_39_word_no_space_4 | headfantasyprovidequestion |  
+| bip_39_word_no_space_5 | headfantasyprovidequestionuse |  
+| bip_39_word_no_space_6 | headfantasyprovidequestionusesecurity |  
+| bip_39_word_no_space_7 | headfantasyprovidequestionusesecurityexile |  
+| bip_39_word_no_space_8 | headfantasyprovidequestionusesecurityexilewin |  
+| bip_39_word_no_space_9 | headfantasyprovidequestionusesecurityexilewinpottery |  
 | bip_39_word_space_0 | ['head', 'fantasy', 'provide', 'question', 'use', 'security', 'exile', 'win', 'pottery', 'green', 'jacket'] |  
 | bip_39_word_space_1 | head |  
 | bip_39_word_space_10 | head fantasy provide question use security exile win pottery green |  

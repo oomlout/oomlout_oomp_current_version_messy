@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tag
   rocket
 
   stock'
+bip_39_word_no_space_1: tag
+bip_39_word_no_space_10: tagmarchpushpalacemisspepperbananarocketstockgift
+bip_39_word_no_space_11: tagmarchpushpalacemisspepperbananarocketstockgifthorror
+bip_39_word_no_space_12: tagmarchpushpalacemisspepperbananarocketstockgifthorrorabsorb
+bip_39_word_no_space_2: tagmarch
+bip_39_word_no_space_3: tagmarchpush
+bip_39_word_no_space_4: tagmarchpushpalace
+bip_39_word_no_space_5: tagmarchpushpalacemiss
+bip_39_word_no_space_6: tagmarchpushpalacemisspepper
+bip_39_word_no_space_7: tagmarchpushpalacemisspepperbanana
+bip_39_word_no_space_8: tagmarchpushpalacemisspepperbananarocket
+bip_39_word_no_space_9: tagmarchpushpalacemisspepperbananarocketstock
 bip_39_word_space_0:
 - tag
 - march

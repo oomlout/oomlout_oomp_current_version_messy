@@ -122,6 +122,18 @@ curtain
 grape
 carpet
 ketchup |  
+| bip_39_word_no_space_1 | hat |  
+| bip_39_word_no_space_10 | hatmandeskhopeplaycurtaingrapecarpetketchuplesson |  
+| bip_39_word_no_space_11 | hatmandeskhopeplaycurtaingrapecarpetketchuplessonhalf |  
+| bip_39_word_no_space_12 | hatmandeskhopeplaycurtaingrapecarpetketchuplessonhalfangle |  
+| bip_39_word_no_space_2 | hatman |  
+| bip_39_word_no_space_3 | hatmandesk |  
+| bip_39_word_no_space_4 | hatmandeskhope |  
+| bip_39_word_no_space_5 | hatmandeskhopeplay |  
+| bip_39_word_no_space_6 | hatmandeskhopeplaycurtain |  
+| bip_39_word_no_space_7 | hatmandeskhopeplaycurtaingrape |  
+| bip_39_word_no_space_8 | hatmandeskhopeplaycurtaingrapecarpet |  
+| bip_39_word_no_space_9 | hatmandeskhopeplaycurtaingrapecarpetketchup |  
 | bip_39_word_space_0 | ['hat', 'man', 'desk', 'hope', 'play', 'curtain', 'grape', 'carpet', 'ketchup', 'lesson', 'half', 'angle'] |  
 | bip_39_word_space_1 | hat |  
 | bip_39_word_space_10 | hat man desk hope play curtain grape carpet ketchup lesson |  

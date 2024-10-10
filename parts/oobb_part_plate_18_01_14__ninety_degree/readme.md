@@ -122,6 +122,18 @@ umbrella
 mansion
 village
 hidden |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragictoothgaindaughtertiltumbrellamansionvillagehiddenflower |  
+| bip_39_word_no_space_11 | tragictoothgaindaughtertiltumbrellamansionvillagehiddenflowerstick |  
+| bip_39_word_no_space_12 | tragictoothgaindaughtertiltumbrellamansionvillagehiddenflowerstickarena |  
+| bip_39_word_no_space_2 | tragictooth |  
+| bip_39_word_no_space_3 | tragictoothgain |  
+| bip_39_word_no_space_4 | tragictoothgaindaughter |  
+| bip_39_word_no_space_5 | tragictoothgaindaughtertilt |  
+| bip_39_word_no_space_6 | tragictoothgaindaughtertiltumbrella |  
+| bip_39_word_no_space_7 | tragictoothgaindaughtertiltumbrellamansion |  
+| bip_39_word_no_space_8 | tragictoothgaindaughtertiltumbrellamansionvillage |  
+| bip_39_word_no_space_9 | tragictoothgaindaughtertiltumbrellamansionvillagehidden |  
 | bip_39_word_space_0 | ['tragic', 'tooth', 'gain', 'daughter', 'tilt', 'umbrella', 'mansion', 'village', 'hidden', 'flower', 'stick', 'arena'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic tooth gain daughter tilt umbrella mansion village hidden flower |  

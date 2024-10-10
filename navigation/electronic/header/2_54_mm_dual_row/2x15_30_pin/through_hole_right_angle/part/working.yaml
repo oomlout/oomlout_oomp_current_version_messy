@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'remember
   sick
 
   rug'
+bip_39_word_no_space_1: remember
+bip_39_word_no_space_10: rememberpowderrudemyselfsweetbadgeboatsickrugsuch
+bip_39_word_no_space_11: rememberpowderrudemyselfsweetbadgeboatsickrugsuchsenior
+bip_39_word_no_space_12: rememberpowderrudemyselfsweetbadgeboatsickrugsuchseniorage
+bip_39_word_no_space_2: rememberpowder
+bip_39_word_no_space_3: rememberpowderrude
+bip_39_word_no_space_4: rememberpowderrudemyself
+bip_39_word_no_space_5: rememberpowderrudemyselfsweet
+bip_39_word_no_space_6: rememberpowderrudemyselfsweetbadge
+bip_39_word_no_space_7: rememberpowderrudemyselfsweetbadgeboat
+bip_39_word_no_space_8: rememberpowderrudemyselfsweetbadgeboatsick
+bip_39_word_no_space_9: rememberpowderrudemyselfsweetbadgeboatsickrug
 bip_39_word_space_0:
 - remember
 - powder

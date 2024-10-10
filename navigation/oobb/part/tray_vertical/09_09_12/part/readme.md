@@ -122,6 +122,18 @@ open
 spirit
 doll
 naive |  
+| bip_39_word_no_space_1 | midnight |  
+| bip_39_word_no_space_10 | midnighthungryundertrapjoinopenspiritdollnaiveenhance |  
+| bip_39_word_no_space_11 | midnighthungryundertrapjoinopenspiritdollnaiveenhancehunt |  
+| bip_39_word_no_space_12 | midnighthungryundertrapjoinopenspiritdollnaiveenhancehuntalone |  
+| bip_39_word_no_space_2 | midnighthungry |  
+| bip_39_word_no_space_3 | midnighthungryunder |  
+| bip_39_word_no_space_4 | midnighthungryundertrap |  
+| bip_39_word_no_space_5 | midnighthungryundertrapjoin |  
+| bip_39_word_no_space_6 | midnighthungryundertrapjoinopen |  
+| bip_39_word_no_space_7 | midnighthungryundertrapjoinopenspirit |  
+| bip_39_word_no_space_8 | midnighthungryundertrapjoinopenspiritdoll |  
+| bip_39_word_no_space_9 | midnighthungryundertrapjoinopenspiritdollnaive |  
 | bip_39_word_space_0 | ['midnight', 'hungry', 'under', 'trap', 'join', 'open', 'spirit', 'doll', 'naive', 'enhance', 'hunt', 'alone'] |  
 | bip_39_word_space_1 | midnight |  
 | bip_39_word_space_10 | midnight hungry under trap join open spirit doll naive enhance |  

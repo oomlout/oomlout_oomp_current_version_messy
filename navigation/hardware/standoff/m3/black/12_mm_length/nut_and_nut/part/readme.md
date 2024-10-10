@@ -122,6 +122,18 @@ copy
 busy
 era
 insect |  
+| bip_39_word_no_space_1 | oblige |  
+| bip_39_word_no_space_10 | obligeplaymaximumintoorientcopybusyerainsectshop |  
+| bip_39_word_no_space_11 | obligeplaymaximumintoorientcopybusyerainsectshopconcert |  
+| bip_39_word_no_space_12 | obligeplaymaximumintoorientcopybusyerainsectshopconcertanger |  
+| bip_39_word_no_space_2 | obligeplay |  
+| bip_39_word_no_space_3 | obligeplaymaximum |  
+| bip_39_word_no_space_4 | obligeplaymaximuminto |  
+| bip_39_word_no_space_5 | obligeplaymaximumintoorient |  
+| bip_39_word_no_space_6 | obligeplaymaximumintoorientcopy |  
+| bip_39_word_no_space_7 | obligeplaymaximumintoorientcopybusy |  
+| bip_39_word_no_space_8 | obligeplaymaximumintoorientcopybusyera |  
+| bip_39_word_no_space_9 | obligeplaymaximumintoorientcopybusyerainsect |  
 | bip_39_word_space_0 | ['oblige', 'play', 'maximum', 'into', 'orient', 'copy', 'busy', 'era', 'insect', 'shop', 'concert', 'anger'] |  
 | bip_39_word_space_1 | oblige |  
 | bip_39_word_space_10 | oblige play maximum into orient copy busy era insect shop |  

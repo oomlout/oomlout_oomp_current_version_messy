@@ -122,6 +122,18 @@ artefact
 jealous
 permit
 hire |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosionloudagaindolphinrailartefactjealouspermithirehumor |  
+| bip_39_word_no_space_11 | erosionloudagaindolphinrailartefactjealouspermithirehumorgood |  
+| bip_39_word_no_space_12 | erosionloudagaindolphinrailartefactjealouspermithirehumorgoodarctic |  
+| bip_39_word_no_space_2 | erosionloud |  
+| bip_39_word_no_space_3 | erosionloudagain |  
+| bip_39_word_no_space_4 | erosionloudagaindolphin |  
+| bip_39_word_no_space_5 | erosionloudagaindolphinrail |  
+| bip_39_word_no_space_6 | erosionloudagaindolphinrailartefact |  
+| bip_39_word_no_space_7 | erosionloudagaindolphinrailartefactjealous |  
+| bip_39_word_no_space_8 | erosionloudagaindolphinrailartefactjealouspermit |  
+| bip_39_word_no_space_9 | erosionloudagaindolphinrailartefactjealouspermithire |  
 | bip_39_word_space_0 | ['erosion', 'loud', 'again', 'dolphin', 'rail', 'artefact', 'jealous', 'permit', 'hire', 'humor', 'good', 'arctic'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion loud again dolphin rail artefact jealous permit hire humor |  

@@ -122,6 +122,18 @@ science
 emerge
 easily
 vessel |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skinortherrorusualdieselscienceemergeeasilyvesselchampion |  
+| bip_39_word_no_space_11 | skinortherrorusualdieselscienceemergeeasilyvesselchampionsmile |  
+| bip_39_word_no_space_12 | skinortherrorusualdieselscienceemergeeasilyvesselchampionsmileachieve |  
+| bip_39_word_no_space_2 | skinorth |  
+| bip_39_word_no_space_3 | skinortherror |  
+| bip_39_word_no_space_4 | skinortherrorusual |  
+| bip_39_word_no_space_5 | skinortherrorusualdiesel |  
+| bip_39_word_no_space_6 | skinortherrorusualdieselscience |  
+| bip_39_word_no_space_7 | skinortherrorusualdieselscienceemerge |  
+| bip_39_word_no_space_8 | skinortherrorusualdieselscienceemergeeasily |  
+| bip_39_word_no_space_9 | skinortherrorusualdieselscienceemergeeasilyvessel |  
 | bip_39_word_space_0 | ['ski', 'north', 'error', 'usual', 'diesel', 'science', 'emerge', 'easily', 'vessel', 'champion', 'smile', 'achieve'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski north error usual diesel science emerge easily vessel champion |  

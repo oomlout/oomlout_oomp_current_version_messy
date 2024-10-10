@@ -122,6 +122,18 @@ trust
 broken
 much
 face |  
+| bip_39_word_no_space_1 | pyramid |  
+| bip_39_word_no_space_10 | pyramidurbanevidencewrapsourcetrustbrokenmuchfacealone |  
+| bip_39_word_no_space_11 | pyramidurbanevidencewrapsourcetrustbrokenmuchfacealonedance |  
+| bip_39_word_no_space_12 | pyramidurbanevidencewrapsourcetrustbrokenmuchfacealonedanceabstract |  
+| bip_39_word_no_space_2 | pyramidurban |  
+| bip_39_word_no_space_3 | pyramidurbanevidence |  
+| bip_39_word_no_space_4 | pyramidurbanevidencewrap |  
+| bip_39_word_no_space_5 | pyramidurbanevidencewrapsource |  
+| bip_39_word_no_space_6 | pyramidurbanevidencewrapsourcetrust |  
+| bip_39_word_no_space_7 | pyramidurbanevidencewrapsourcetrustbroken |  
+| bip_39_word_no_space_8 | pyramidurbanevidencewrapsourcetrustbrokenmuch |  
+| bip_39_word_no_space_9 | pyramidurbanevidencewrapsourcetrustbrokenmuchface |  
 | bip_39_word_space_0 | ['pyramid', 'urban', 'evidence', 'wrap', 'source', 'trust', 'broken', 'much', 'face', 'alone', 'dance', 'abstract'] |  
 | bip_39_word_space_1 | pyramid |  
 | bip_39_word_space_10 | pyramid urban evidence wrap source trust broken much face alone |  

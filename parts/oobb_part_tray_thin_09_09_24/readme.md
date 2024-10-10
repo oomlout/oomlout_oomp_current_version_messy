@@ -122,6 +122,18 @@ cram
 survey
 spell
 ceiling |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenwrestlebarrelgiraffeproofcramsurveyspellceilingozone |  
+| bip_39_word_no_space_11 | brokenwrestlebarrelgiraffeproofcramsurveyspellceilingozoneresist |  
+| bip_39_word_no_space_12 | brokenwrestlebarrelgiraffeproofcramsurveyspellceilingozoneresistallow |  
+| bip_39_word_no_space_2 | brokenwrestle |  
+| bip_39_word_no_space_3 | brokenwrestlebarrel |  
+| bip_39_word_no_space_4 | brokenwrestlebarrelgiraffe |  
+| bip_39_word_no_space_5 | brokenwrestlebarrelgiraffeproof |  
+| bip_39_word_no_space_6 | brokenwrestlebarrelgiraffeproofcram |  
+| bip_39_word_no_space_7 | brokenwrestlebarrelgiraffeproofcramsurvey |  
+| bip_39_word_no_space_8 | brokenwrestlebarrelgiraffeproofcramsurveyspell |  
+| bip_39_word_no_space_9 | brokenwrestlebarrelgiraffeproofcramsurveyspellceiling |  
 | bip_39_word_space_0 | ['broken', 'wrestle', 'barrel', 'giraffe', 'proof', 'cram', 'survey', 'spell', 'ceiling', 'ozone', 'resist', 'allow'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken wrestle barrel giraffe proof cram survey spell ceiling ozone |  

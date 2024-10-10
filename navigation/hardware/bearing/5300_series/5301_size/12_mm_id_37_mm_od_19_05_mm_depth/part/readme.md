@@ -122,6 +122,18 @@ dry
 basket
 left
 spend |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brasssnackonlineaccuselavadrybasketleftspendconvince |  
+| bip_39_word_no_space_11 | brasssnackonlineaccuselavadrybasketleftspendconvincedetail |  
+| bip_39_word_no_space_12 | brasssnackonlineaccuselavadrybasketleftspendconvincedetailadjust |  
+| bip_39_word_no_space_2 | brasssnack |  
+| bip_39_word_no_space_3 | brasssnackonline |  
+| bip_39_word_no_space_4 | brasssnackonlineaccuse |  
+| bip_39_word_no_space_5 | brasssnackonlineaccuselava |  
+| bip_39_word_no_space_6 | brasssnackonlineaccuselavadry |  
+| bip_39_word_no_space_7 | brasssnackonlineaccuselavadrybasket |  
+| bip_39_word_no_space_8 | brasssnackonlineaccuselavadrybasketleft |  
+| bip_39_word_no_space_9 | brasssnackonlineaccuselavadrybasketleftspend |  
 | bip_39_word_space_0 | ['brass', 'snack', 'online', 'accuse', 'lava', 'dry', 'basket', 'left', 'spend', 'convince', 'detail', 'adjust'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass snack online accuse lava dry basket left spend convince |  

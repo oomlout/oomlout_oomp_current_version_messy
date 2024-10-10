@@ -122,6 +122,18 @@ wing
 deal
 pass
 never |  
+| bip_39_word_no_space_1 | vacuum |  
+| bip_39_word_no_space_10 | vacuumconsiderthissoldierexpandwingdealpassnevermenu |  
+| bip_39_word_no_space_11 | vacuumconsiderthissoldierexpandwingdealpassnevermenughost |  
+| bip_39_word_no_space_12 | vacuumconsiderthissoldierexpandwingdealpassnevermenughostattend |  
+| bip_39_word_no_space_2 | vacuumconsider |  
+| bip_39_word_no_space_3 | vacuumconsiderthis |  
+| bip_39_word_no_space_4 | vacuumconsiderthissoldier |  
+| bip_39_word_no_space_5 | vacuumconsiderthissoldierexpand |  
+| bip_39_word_no_space_6 | vacuumconsiderthissoldierexpandwing |  
+| bip_39_word_no_space_7 | vacuumconsiderthissoldierexpandwingdeal |  
+| bip_39_word_no_space_8 | vacuumconsiderthissoldierexpandwingdealpass |  
+| bip_39_word_no_space_9 | vacuumconsiderthissoldierexpandwingdealpassnever |  
 | bip_39_word_space_0 | ['vacuum', 'consider', 'this', 'soldier', 'expand', 'wing', 'deal', 'pass', 'never', 'menu', 'ghost', 'attend'] |  
 | bip_39_word_space_1 | vacuum |  
 | bip_39_word_space_10 | vacuum consider this soldier expand wing deal pass never menu |  

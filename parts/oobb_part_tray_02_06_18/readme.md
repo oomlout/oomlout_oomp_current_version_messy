@@ -109,6 +109,17 @@ bitter
 west
 until
 lesson |  
+| bip_39_word_no_space_1 | path |  
+| bip_39_word_no_space_10 | pathfaceboilrebelfogbitterwestuntillessonsport |  
+| bip_39_word_no_space_11 | pathfaceboilrebelfogbitterwestuntillessonsportsummer |  
+| bip_39_word_no_space_2 | pathface |  
+| bip_39_word_no_space_3 | pathfaceboil |  
+| bip_39_word_no_space_4 | pathfaceboilrebel |  
+| bip_39_word_no_space_5 | pathfaceboilrebelfog |  
+| bip_39_word_no_space_6 | pathfaceboilrebelfogbitter |  
+| bip_39_word_no_space_7 | pathfaceboilrebelfogbitterwest |  
+| bip_39_word_no_space_8 | pathfaceboilrebelfogbitterwestuntil |  
+| bip_39_word_no_space_9 | pathfaceboilrebelfogbitterwestuntillesson |  
 | bip_39_word_space_0 | ['path', 'face', 'boil', 'rebel', 'fog', 'bitter', 'west', 'until', 'lesson', 'sport', 'summer'] |  
 | bip_39_word_space_1 | path |  
 | bip_39_word_space_10 | path face boil rebel fog bitter west until lesson sport |  

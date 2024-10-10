@@ -122,6 +122,18 @@ dolphin
 tired
 inch
 bullet |  
+| bip_39_word_no_space_1 | absurd |  
+| bip_39_word_no_space_10 | absurdpersongloomdiarydiamonddolphintiredinchbulletoctober |  
+| bip_39_word_no_space_11 | absurdpersongloomdiarydiamonddolphintiredinchbulletoctobertent |  
+| bip_39_word_no_space_12 | absurdpersongloomdiarydiamonddolphintiredinchbulletoctobertentarena |  
+| bip_39_word_no_space_2 | absurdperson |  
+| bip_39_word_no_space_3 | absurdpersongloom |  
+| bip_39_word_no_space_4 | absurdpersongloomdiary |  
+| bip_39_word_no_space_5 | absurdpersongloomdiarydiamond |  
+| bip_39_word_no_space_6 | absurdpersongloomdiarydiamonddolphin |  
+| bip_39_word_no_space_7 | absurdpersongloomdiarydiamonddolphintired |  
+| bip_39_word_no_space_8 | absurdpersongloomdiarydiamonddolphintiredinch |  
+| bip_39_word_no_space_9 | absurdpersongloomdiarydiamonddolphintiredinchbullet |  
 | bip_39_word_space_0 | ['absurd', 'person', 'gloom', 'diary', 'diamond', 'dolphin', 'tired', 'inch', 'bullet', 'october', 'tent', 'arena'] |  
 | bip_39_word_space_1 | absurd |  
 | bip_39_word_space_10 | absurd person gloom diary diamond dolphin tired inch bullet october |  

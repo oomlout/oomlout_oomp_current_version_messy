@@ -122,6 +122,18 @@ virtual
 rely
 since
 main |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulcheapoysterbehindmemoryvirtualrelysincemainjelly |  
+| bip_39_word_no_space_11 | usefulcheapoysterbehindmemoryvirtualrelysincemainjellyuncover |  
+| bip_39_word_no_space_12 | usefulcheapoysterbehindmemoryvirtualrelysincemainjellyuncoveradapt |  
+| bip_39_word_no_space_2 | usefulcheap |  
+| bip_39_word_no_space_3 | usefulcheapoyster |  
+| bip_39_word_no_space_4 | usefulcheapoysterbehind |  
+| bip_39_word_no_space_5 | usefulcheapoysterbehindmemory |  
+| bip_39_word_no_space_6 | usefulcheapoysterbehindmemoryvirtual |  
+| bip_39_word_no_space_7 | usefulcheapoysterbehindmemoryvirtualrely |  
+| bip_39_word_no_space_8 | usefulcheapoysterbehindmemoryvirtualrelysince |  
+| bip_39_word_no_space_9 | usefulcheapoysterbehindmemoryvirtualrelysincemain |  
 | bip_39_word_space_0 | ['useful', 'cheap', 'oyster', 'behind', 'memory', 'virtual', 'rely', 'since', 'main', 'jelly', 'uncover', 'adapt'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful cheap oyster behind memory virtual rely since main jelly |  

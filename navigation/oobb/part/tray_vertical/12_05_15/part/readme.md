@@ -122,6 +122,18 @@ bus
 afford
 pulp
 decide |  
+| bip_39_word_no_space_1 | hospital |  
+| bip_39_word_no_space_10 | hospitalchapterfancygoatfruitbusaffordpulpdecidenever |  
+| bip_39_word_no_space_11 | hospitalchapterfancygoatfruitbusaffordpulpdecidenevertrip |  
+| bip_39_word_no_space_12 | hospitalchapterfancygoatfruitbusaffordpulpdecidenevertripair |  
+| bip_39_word_no_space_2 | hospitalchapter |  
+| bip_39_word_no_space_3 | hospitalchapterfancy |  
+| bip_39_word_no_space_4 | hospitalchapterfancygoat |  
+| bip_39_word_no_space_5 | hospitalchapterfancygoatfruit |  
+| bip_39_word_no_space_6 | hospitalchapterfancygoatfruitbus |  
+| bip_39_word_no_space_7 | hospitalchapterfancygoatfruitbusafford |  
+| bip_39_word_no_space_8 | hospitalchapterfancygoatfruitbusaffordpulp |  
+| bip_39_word_no_space_9 | hospitalchapterfancygoatfruitbusaffordpulpdecide |  
 | bip_39_word_space_0 | ['hospital', 'chapter', 'fancy', 'goat', 'fruit', 'bus', 'afford', 'pulp', 'decide', 'never', 'trip', 'air'] |  
 | bip_39_word_space_1 | hospital |  
 | bip_39_word_space_10 | hospital chapter fancy goat fruit bus afford pulp decide never |  

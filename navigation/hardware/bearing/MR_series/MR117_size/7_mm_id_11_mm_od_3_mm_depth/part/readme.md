@@ -122,6 +122,18 @@ begin
 vital
 gesture
 left |  
+| bip_39_word_no_space_1 | warm |  
+| bip_39_word_no_space_10 | warmhorsearmyparkmeasurebeginvitalgesturelefttourist |  
+| bip_39_word_no_space_11 | warmhorsearmyparkmeasurebeginvitalgesturelefttouristjob |  
+| bip_39_word_no_space_12 | warmhorsearmyparkmeasurebeginvitalgesturelefttouristjobamused |  
+| bip_39_word_no_space_2 | warmhorse |  
+| bip_39_word_no_space_3 | warmhorsearmy |  
+| bip_39_word_no_space_4 | warmhorsearmypark |  
+| bip_39_word_no_space_5 | warmhorsearmyparkmeasure |  
+| bip_39_word_no_space_6 | warmhorsearmyparkmeasurebegin |  
+| bip_39_word_no_space_7 | warmhorsearmyparkmeasurebeginvital |  
+| bip_39_word_no_space_8 | warmhorsearmyparkmeasurebeginvitalgesture |  
+| bip_39_word_no_space_9 | warmhorsearmyparkmeasurebeginvitalgestureleft |  
 | bip_39_word_space_0 | ['warm', 'horse', 'army', 'park', 'measure', 'begin', 'vital', 'gesture', 'left', 'tourist', 'job', 'amused'] |  
 | bip_39_word_space_1 | warm |  
 | bip_39_word_space_10 | warm horse army park measure begin vital gesture left tourist |  

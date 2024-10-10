@@ -122,6 +122,18 @@ fire
 anger
 grit
 useless |  
+| bip_39_word_no_space_1 | mule |  
+| bip_39_word_no_space_10 | mulenorthflavorwiseabandonfireangergrituselessarrow |  
+| bip_39_word_no_space_11 | mulenorthflavorwiseabandonfireangergrituselessarrowmust |  
+| bip_39_word_no_space_12 | mulenorthflavorwiseabandonfireangergrituselessarrowmustadapt |  
+| bip_39_word_no_space_2 | mulenorth |  
+| bip_39_word_no_space_3 | mulenorthflavor |  
+| bip_39_word_no_space_4 | mulenorthflavorwise |  
+| bip_39_word_no_space_5 | mulenorthflavorwiseabandon |  
+| bip_39_word_no_space_6 | mulenorthflavorwiseabandonfire |  
+| bip_39_word_no_space_7 | mulenorthflavorwiseabandonfireanger |  
+| bip_39_word_no_space_8 | mulenorthflavorwiseabandonfireangergrit |  
+| bip_39_word_no_space_9 | mulenorthflavorwiseabandonfireangergrituseless |  
 | bip_39_word_space_0 | ['mule', 'north', 'flavor', 'wise', 'abandon', 'fire', 'anger', 'grit', 'useless', 'arrow', 'must', 'adapt'] |  
 | bip_39_word_space_1 | mule |  
 | bip_39_word_space_10 | mule north flavor wise abandon fire anger grit useless arrow |  

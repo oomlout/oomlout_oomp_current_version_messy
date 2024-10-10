@@ -122,6 +122,18 @@ dress
 opera
 person
 custom |  
+| bip_39_word_no_space_1 | hand |  
+| bip_39_word_no_space_10 | handindustryelegantfatalviabledressoperapersoncustomdolphin |  
+| bip_39_word_no_space_11 | handindustryelegantfatalviabledressoperapersoncustomdolphinnorth |  
+| bip_39_word_no_space_12 | handindustryelegantfatalviabledressoperapersoncustomdolphinnorthasset |  
+| bip_39_word_no_space_2 | handindustry |  
+| bip_39_word_no_space_3 | handindustryelegant |  
+| bip_39_word_no_space_4 | handindustryelegantfatal |  
+| bip_39_word_no_space_5 | handindustryelegantfatalviable |  
+| bip_39_word_no_space_6 | handindustryelegantfatalviabledress |  
+| bip_39_word_no_space_7 | handindustryelegantfatalviabledressopera |  
+| bip_39_word_no_space_8 | handindustryelegantfatalviabledressoperaperson |  
+| bip_39_word_no_space_9 | handindustryelegantfatalviabledressoperapersoncustom |  
 | bip_39_word_space_0 | ['hand', 'industry', 'elegant', 'fatal', 'viable', 'dress', 'opera', 'person', 'custom', 'dolphin', 'north', 'asset'] |  
 | bip_39_word_space_1 | hand |  
 | bip_39_word_space_10 | hand industry elegant fatal viable dress opera person custom dolphin |  

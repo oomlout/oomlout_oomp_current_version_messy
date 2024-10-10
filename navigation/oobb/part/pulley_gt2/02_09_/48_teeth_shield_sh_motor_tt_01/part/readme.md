@@ -122,6 +122,18 @@ illness
 divert
 praise
 cable |  
+| bip_39_word_no_space_1 | define |  
+| bip_39_word_no_space_10 | definesnackcactuselbowpageillnessdivertpraisecableproperty |  
+| bip_39_word_no_space_11 | definesnackcactuselbowpageillnessdivertpraisecablepropertystereo |  
+| bip_39_word_no_space_12 | definesnackcactuselbowpageillnessdivertpraisecablepropertystereoalmost |  
+| bip_39_word_no_space_2 | definesnack |  
+| bip_39_word_no_space_3 | definesnackcactus |  
+| bip_39_word_no_space_4 | definesnackcactuselbow |  
+| bip_39_word_no_space_5 | definesnackcactuselbowpage |  
+| bip_39_word_no_space_6 | definesnackcactuselbowpageillness |  
+| bip_39_word_no_space_7 | definesnackcactuselbowpageillnessdivert |  
+| bip_39_word_no_space_8 | definesnackcactuselbowpageillnessdivertpraise |  
+| bip_39_word_no_space_9 | definesnackcactuselbowpageillnessdivertpraisecable |  
 | bip_39_word_space_0 | ['define', 'snack', 'cactus', 'elbow', 'page', 'illness', 'divert', 'praise', 'cable', 'property', 'stereo', 'almost'] |  
 | bip_39_word_space_1 | define |  
 | bip_39_word_space_10 | define snack cactus elbow page illness divert praise cable property |  

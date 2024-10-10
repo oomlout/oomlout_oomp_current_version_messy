@@ -122,6 +122,18 @@ siege
 play
 happy
 open |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairskiadmitlightunhappysiegeplayhappyopencrush |  
+| bip_39_word_no_space_11 | chairskiadmitlightunhappysiegeplayhappyopencrushexcess |  
+| bip_39_word_no_space_12 | chairskiadmitlightunhappysiegeplayhappyopencrushexcessartefact |  
+| bip_39_word_no_space_2 | chairski |  
+| bip_39_word_no_space_3 | chairskiadmit |  
+| bip_39_word_no_space_4 | chairskiadmitlight |  
+| bip_39_word_no_space_5 | chairskiadmitlightunhappy |  
+| bip_39_word_no_space_6 | chairskiadmitlightunhappysiege |  
+| bip_39_word_no_space_7 | chairskiadmitlightunhappysiegeplay |  
+| bip_39_word_no_space_8 | chairskiadmitlightunhappysiegeplayhappy |  
+| bip_39_word_no_space_9 | chairskiadmitlightunhappysiegeplayhappyopen |  
 | bip_39_word_space_0 | ['chair', 'ski', 'admit', 'light', 'unhappy', 'siege', 'play', 'happy', 'open', 'crush', 'excess', 'artefact'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair ski admit light unhappy siege play happy open crush |  

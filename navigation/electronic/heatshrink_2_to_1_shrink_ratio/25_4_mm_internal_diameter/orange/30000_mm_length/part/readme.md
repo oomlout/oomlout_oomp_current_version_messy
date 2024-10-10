@@ -122,6 +122,18 @@ crash
 angle
 clap
 account |  
+| bip_39_word_no_space_1 | chimney |  
+| bip_39_word_no_space_10 | chimneyskiwhalegiraffeobligecrashangleclapaccountchat |  
+| bip_39_word_no_space_11 | chimneyskiwhalegiraffeobligecrashangleclapaccountchatblack |  
+| bip_39_word_no_space_12 | chimneyskiwhalegiraffeobligecrashangleclapaccountchatblackasset |  
+| bip_39_word_no_space_2 | chimneyski |  
+| bip_39_word_no_space_3 | chimneyskiwhale |  
+| bip_39_word_no_space_4 | chimneyskiwhalegiraffe |  
+| bip_39_word_no_space_5 | chimneyskiwhalegiraffeoblige |  
+| bip_39_word_no_space_6 | chimneyskiwhalegiraffeobligecrash |  
+| bip_39_word_no_space_7 | chimneyskiwhalegiraffeobligecrashangle |  
+| bip_39_word_no_space_8 | chimneyskiwhalegiraffeobligecrashangleclap |  
+| bip_39_word_no_space_9 | chimneyskiwhalegiraffeobligecrashangleclapaccount |  
 | bip_39_word_space_0 | ['chimney', 'ski', 'whale', 'giraffe', 'oblige', 'crash', 'angle', 'clap', 'account', 'chat', 'black', 'asset'] |  
 | bip_39_word_space_1 | chimney |  
 | bip_39_word_space_10 | chimney ski whale giraffe oblige crash angle clap account chat |  

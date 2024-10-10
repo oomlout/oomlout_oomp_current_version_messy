@@ -122,6 +122,18 @@ urban
 throw
 melody
 know |  
+| bip_39_word_no_space_1 | winter |  
+| bip_39_word_no_space_10 | winterfatheroceanlefthoneyurbanthrowmelodyknowmean |  
+| bip_39_word_no_space_11 | winterfatheroceanlefthoneyurbanthrowmelodyknowmeanimpose |  
+| bip_39_word_no_space_12 | winterfatheroceanlefthoneyurbanthrowmelodyknowmeanimposearound |  
+| bip_39_word_no_space_2 | winterfather |  
+| bip_39_word_no_space_3 | winterfatherocean |  
+| bip_39_word_no_space_4 | winterfatheroceanleft |  
+| bip_39_word_no_space_5 | winterfatheroceanlefthoney |  
+| bip_39_word_no_space_6 | winterfatheroceanlefthoneyurban |  
+| bip_39_word_no_space_7 | winterfatheroceanlefthoneyurbanthrow |  
+| bip_39_word_no_space_8 | winterfatheroceanlefthoneyurbanthrowmelody |  
+| bip_39_word_no_space_9 | winterfatheroceanlefthoneyurbanthrowmelodyknow |  
 | bip_39_word_space_0 | ['winter', 'father', 'ocean', 'left', 'honey', 'urban', 'throw', 'melody', 'know', 'mean', 'impose', 'around'] |  
 | bip_39_word_space_1 | winter |  
 | bip_39_word_space_10 | winter father ocean left honey urban throw melody know mean |  

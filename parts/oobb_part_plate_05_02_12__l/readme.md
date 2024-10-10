@@ -122,6 +122,18 @@ excuse
 keep
 village
 clog |  
+| bip_39_word_no_space_1 | apart |  
+| bip_39_word_no_space_10 | apartsubmitcatsnakerevealexcusekeepvillageclogabsorb |  
+| bip_39_word_no_space_11 | apartsubmitcatsnakerevealexcusekeepvillageclogabsorbidle |  
+| bip_39_word_no_space_12 | apartsubmitcatsnakerevealexcusekeepvillageclogabsorbidleachieve |  
+| bip_39_word_no_space_2 | apartsubmit |  
+| bip_39_word_no_space_3 | apartsubmitcat |  
+| bip_39_word_no_space_4 | apartsubmitcatsnake |  
+| bip_39_word_no_space_5 | apartsubmitcatsnakereveal |  
+| bip_39_word_no_space_6 | apartsubmitcatsnakerevealexcuse |  
+| bip_39_word_no_space_7 | apartsubmitcatsnakerevealexcusekeep |  
+| bip_39_word_no_space_8 | apartsubmitcatsnakerevealexcusekeepvillage |  
+| bip_39_word_no_space_9 | apartsubmitcatsnakerevealexcusekeepvillageclog |  
 | bip_39_word_space_0 | ['apart', 'submit', 'cat', 'snake', 'reveal', 'excuse', 'keep', 'village', 'clog', 'absorb', 'idle', 'achieve'] |  
 | bip_39_word_space_1 | apart |  
 | bip_39_word_space_10 | apart submit cat snake reveal excuse keep village clog absorb |  

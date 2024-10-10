@@ -122,6 +122,18 @@ lady
 observe
 shallow
 phone |  
+| bip_39_word_no_space_1 | turkey |  
+| bip_39_word_no_space_10 | turkeypriceaccountsellgritladyobserveshallowphonemaximum |  
+| bip_39_word_no_space_11 | turkeypriceaccountsellgritladyobserveshallowphonemaximumjaguar |  
+| bip_39_word_no_space_12 | turkeypriceaccountsellgritladyobserveshallowphonemaximumjaguaravocado |  
+| bip_39_word_no_space_2 | turkeyprice |  
+| bip_39_word_no_space_3 | turkeypriceaccount |  
+| bip_39_word_no_space_4 | turkeypriceaccountsell |  
+| bip_39_word_no_space_5 | turkeypriceaccountsellgrit |  
+| bip_39_word_no_space_6 | turkeypriceaccountsellgritlady |  
+| bip_39_word_no_space_7 | turkeypriceaccountsellgritladyobserve |  
+| bip_39_word_no_space_8 | turkeypriceaccountsellgritladyobserveshallow |  
+| bip_39_word_no_space_9 | turkeypriceaccountsellgritladyobserveshallowphone |  
 | bip_39_word_space_0 | ['turkey', 'price', 'account', 'sell', 'grit', 'lady', 'observe', 'shallow', 'phone', 'maximum', 'jaguar', 'avocado'] |  
 | bip_39_word_space_1 | turkey |  
 | bip_39_word_space_10 | turkey price account sell grit lady observe shallow phone maximum |  

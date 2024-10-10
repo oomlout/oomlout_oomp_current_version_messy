@@ -122,6 +122,18 @@ lobster
 action
 lady
 wait |  
+| bip_39_word_no_space_1 | color |  
+| bip_39_word_no_space_10 | colortrashmotorexampleboostlobsteractionladywaitrender |  
+| bip_39_word_no_space_11 | colortrashmotorexampleboostlobsteractionladywaitrendersail |  
+| bip_39_word_no_space_12 | colortrashmotorexampleboostlobsteractionladywaitrendersailamount |  
+| bip_39_word_no_space_2 | colortrash |  
+| bip_39_word_no_space_3 | colortrashmotor |  
+| bip_39_word_no_space_4 | colortrashmotorexample |  
+| bip_39_word_no_space_5 | colortrashmotorexampleboost |  
+| bip_39_word_no_space_6 | colortrashmotorexampleboostlobster |  
+| bip_39_word_no_space_7 | colortrashmotorexampleboostlobsteraction |  
+| bip_39_word_no_space_8 | colortrashmotorexampleboostlobsteractionlady |  
+| bip_39_word_no_space_9 | colortrashmotorexampleboostlobsteractionladywait |  
 | bip_39_word_space_0 | ['color', 'trash', 'motor', 'example', 'boost', 'lobster', 'action', 'lady', 'wait', 'render', 'sail', 'amount'] |  
 | bip_39_word_space_1 | color |  
 | bip_39_word_space_10 | color trash motor example boost lobster action lady wait render |  

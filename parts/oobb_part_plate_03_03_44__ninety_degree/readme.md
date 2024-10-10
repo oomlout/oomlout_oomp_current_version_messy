@@ -122,6 +122,18 @@ expect
 uncle
 remain
 collect |  
+| bip_39_word_no_space_1 | sphere |  
+| bip_39_word_no_space_10 | sphereexhausthistoryfoamgrainexpectuncleremaincollectregular |  
+| bip_39_word_no_space_11 | sphereexhausthistoryfoamgrainexpectuncleremaincollectregularshallow |  
+| bip_39_word_no_space_12 | sphereexhausthistoryfoamgrainexpectuncleremaincollectregularshallowalone |  
+| bip_39_word_no_space_2 | sphereexhaust |  
+| bip_39_word_no_space_3 | sphereexhausthistory |  
+| bip_39_word_no_space_4 | sphereexhausthistoryfoam |  
+| bip_39_word_no_space_5 | sphereexhausthistoryfoamgrain |  
+| bip_39_word_no_space_6 | sphereexhausthistoryfoamgrainexpect |  
+| bip_39_word_no_space_7 | sphereexhausthistoryfoamgrainexpectuncle |  
+| bip_39_word_no_space_8 | sphereexhausthistoryfoamgrainexpectuncleremain |  
+| bip_39_word_no_space_9 | sphereexhausthistoryfoamgrainexpectuncleremaincollect |  
 | bip_39_word_space_0 | ['sphere', 'exhaust', 'history', 'foam', 'grain', 'expect', 'uncle', 'remain', 'collect', 'regular', 'shallow', 'alone'] |  
 | bip_39_word_space_1 | sphere |  
 | bip_39_word_space_10 | sphere exhaust history foam grain expect uncle remain collect regular |  

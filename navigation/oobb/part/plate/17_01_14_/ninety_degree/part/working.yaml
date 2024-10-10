@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'outdoor
   anxiety
 
   tool'
+bip_39_word_no_space_1: outdoor
+bip_39_word_no_space_10: outdoorshadowalldrumfitputundoanxietytoolfile
+bip_39_word_no_space_11: outdoorshadowalldrumfitputundoanxietytoolfilequiz
+bip_39_word_no_space_12: outdoorshadowalldrumfitputundoanxietytoolfilequizartist
+bip_39_word_no_space_2: outdoorshadow
+bip_39_word_no_space_3: outdoorshadowall
+bip_39_word_no_space_4: outdoorshadowalldrum
+bip_39_word_no_space_5: outdoorshadowalldrumfit
+bip_39_word_no_space_6: outdoorshadowalldrumfitput
+bip_39_word_no_space_7: outdoorshadowalldrumfitputundo
+bip_39_word_no_space_8: outdoorshadowalldrumfitputundoanxiety
+bip_39_word_no_space_9: outdoorshadowalldrumfitputundoanxietytool
 bip_39_word_space_0:
 - outdoor
 - shadow

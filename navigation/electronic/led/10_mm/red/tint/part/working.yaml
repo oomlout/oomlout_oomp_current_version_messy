@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'place
   damage
 
   traffic'
+bip_39_word_no_space_1: place
+bip_39_word_no_space_10: placehenimpulsemovieannualonlinethoughtdamagetrafficfish
+bip_39_word_no_space_11: placehenimpulsemovieannualonlinethoughtdamagetrafficfishflag
+bip_39_word_no_space_12: placehenimpulsemovieannualonlinethoughtdamagetrafficfishflagalready
+bip_39_word_no_space_2: placehen
+bip_39_word_no_space_3: placehenimpulse
+bip_39_word_no_space_4: placehenimpulsemovie
+bip_39_word_no_space_5: placehenimpulsemovieannual
+bip_39_word_no_space_6: placehenimpulsemovieannualonline
+bip_39_word_no_space_7: placehenimpulsemovieannualonlinethought
+bip_39_word_no_space_8: placehenimpulsemovieannualonlinethoughtdamage
+bip_39_word_no_space_9: placehenimpulsemovieannualonlinethoughtdamagetraffic
 bip_39_word_space_0:
 - place
 - hen

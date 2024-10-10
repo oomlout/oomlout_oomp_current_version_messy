@@ -122,6 +122,18 @@ notable
 bag
 still
 glow |  
+| bip_39_word_no_space_1 | bless |  
+| bip_39_word_no_space_10 | blessembracebusechosoapnotablebagstillglownasty |  
+| bip_39_word_no_space_11 | blessembracebusechosoapnotablebagstillglownastybutter |  
+| bip_39_word_no_space_12 | blessembracebusechosoapnotablebagstillglownastybutterarch |  
+| bip_39_word_no_space_2 | blessembrace |  
+| bip_39_word_no_space_3 | blessembracebus |  
+| bip_39_word_no_space_4 | blessembracebusecho |  
+| bip_39_word_no_space_5 | blessembracebusechosoap |  
+| bip_39_word_no_space_6 | blessembracebusechosoapnotable |  
+| bip_39_word_no_space_7 | blessembracebusechosoapnotablebag |  
+| bip_39_word_no_space_8 | blessembracebusechosoapnotablebagstill |  
+| bip_39_word_no_space_9 | blessembracebusechosoapnotablebagstillglow |  
 | bip_39_word_space_0 | ['bless', 'embrace', 'bus', 'echo', 'soap', 'notable', 'bag', 'still', 'glow', 'nasty', 'butter', 'arch'] |  
 | bip_39_word_space_1 | bless |  
 | bip_39_word_space_10 | bless embrace bus echo soap notable bag still glow nasty |  

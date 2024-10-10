@@ -122,6 +122,18 @@ cycle
 effort
 caution
 toss |  
+| bip_39_word_no_space_1 | once |  
+| bip_39_word_no_space_10 | oncecabinquotenoiseleavecycleeffortcautiontossfiction |  
+| bip_39_word_no_space_11 | oncecabinquotenoiseleavecycleeffortcautiontossfictionshoot |  
+| bip_39_word_no_space_12 | oncecabinquotenoiseleavecycleeffortcautiontossfictionshootart |  
+| bip_39_word_no_space_2 | oncecabin |  
+| bip_39_word_no_space_3 | oncecabinquote |  
+| bip_39_word_no_space_4 | oncecabinquotenoise |  
+| bip_39_word_no_space_5 | oncecabinquotenoiseleave |  
+| bip_39_word_no_space_6 | oncecabinquotenoiseleavecycle |  
+| bip_39_word_no_space_7 | oncecabinquotenoiseleavecycleeffort |  
+| bip_39_word_no_space_8 | oncecabinquotenoiseleavecycleeffortcaution |  
+| bip_39_word_no_space_9 | oncecabinquotenoiseleavecycleeffortcautiontoss |  
 | bip_39_word_space_0 | ['once', 'cabin', 'quote', 'noise', 'leave', 'cycle', 'effort', 'caution', 'toss', 'fiction', 'shoot', 'art'] |  
 | bip_39_word_space_1 | once |  
 | bip_39_word_space_10 | once cabin quote noise leave cycle effort caution toss fiction |  

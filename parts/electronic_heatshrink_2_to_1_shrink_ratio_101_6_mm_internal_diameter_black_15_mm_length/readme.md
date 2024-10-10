@@ -122,6 +122,18 @@ royal
 genre
 jazz
 iron |  
+| bip_39_word_no_space_1 | veteran |  
+| bip_39_word_no_space_10 | veteranzebraeasymasterokayroyalgenrejazzirondecline |  
+| bip_39_word_no_space_11 | veteranzebraeasymasterokayroyalgenrejazzirondeclinehappy |  
+| bip_39_word_no_space_12 | veteranzebraeasymasterokayroyalgenrejazzirondeclinehappyavocado |  
+| bip_39_word_no_space_2 | veteranzebra |  
+| bip_39_word_no_space_3 | veteranzebraeasy |  
+| bip_39_word_no_space_4 | veteranzebraeasymaster |  
+| bip_39_word_no_space_5 | veteranzebraeasymasterokay |  
+| bip_39_word_no_space_6 | veteranzebraeasymasterokayroyal |  
+| bip_39_word_no_space_7 | veteranzebraeasymasterokayroyalgenre |  
+| bip_39_word_no_space_8 | veteranzebraeasymasterokayroyalgenrejazz |  
+| bip_39_word_no_space_9 | veteranzebraeasymasterokayroyalgenrejazziron |  
 | bip_39_word_space_0 | ['veteran', 'zebra', 'easy', 'master', 'okay', 'royal', 'genre', 'jazz', 'iron', 'decline', 'happy', 'avocado'] |  
 | bip_39_word_space_1 | veteran |  
 | bip_39_word_space_10 | veteran zebra easy master okay royal genre jazz iron decline |  

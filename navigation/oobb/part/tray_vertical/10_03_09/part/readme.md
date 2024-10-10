@@ -122,6 +122,18 @@ slush
 shoot
 floor
 abstract |  
+| bip_39_word_no_space_1 | inspire |  
+| bip_39_word_no_space_10 | inspireliargoosestockinsectslushshootfloorabstractpair |  
+| bip_39_word_no_space_11 | inspireliargoosestockinsectslushshootfloorabstractpaircraft |  
+| bip_39_word_no_space_12 | inspireliargoosestockinsectslushshootfloorabstractpaircraftarrest |  
+| bip_39_word_no_space_2 | inspireliar |  
+| bip_39_word_no_space_3 | inspireliargoose |  
+| bip_39_word_no_space_4 | inspireliargoosestock |  
+| bip_39_word_no_space_5 | inspireliargoosestockinsect |  
+| bip_39_word_no_space_6 | inspireliargoosestockinsectslush |  
+| bip_39_word_no_space_7 | inspireliargoosestockinsectslushshoot |  
+| bip_39_word_no_space_8 | inspireliargoosestockinsectslushshootfloor |  
+| bip_39_word_no_space_9 | inspireliargoosestockinsectslushshootfloorabstract |  
 | bip_39_word_space_0 | ['inspire', 'liar', 'goose', 'stock', 'insect', 'slush', 'shoot', 'floor', 'abstract', 'pair', 'craft', 'arrest'] |  
 | bip_39_word_space_1 | inspire |  
 | bip_39_word_space_10 | inspire liar goose stock insect slush shoot floor abstract pair |  

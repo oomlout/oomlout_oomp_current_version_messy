@@ -123,6 +123,18 @@ slot
 valve
 auto
 mosquito |  
+| bip_39_word_no_space_1 | exact |  
+| bip_39_word_no_space_10 | exactcanyontiredscorpioninspireslotvalveautomosquitosphere |  
+| bip_39_word_no_space_11 | exactcanyontiredscorpioninspireslotvalveautomosquitospherestart |  
+| bip_39_word_no_space_12 | exactcanyontiredscorpioninspireslotvalveautomosquitospherestartaccess |  
+| bip_39_word_no_space_2 | exactcanyon |  
+| bip_39_word_no_space_3 | exactcanyontired |  
+| bip_39_word_no_space_4 | exactcanyontiredscorpion |  
+| bip_39_word_no_space_5 | exactcanyontiredscorpioninspire |  
+| bip_39_word_no_space_6 | exactcanyontiredscorpioninspireslot |  
+| bip_39_word_no_space_7 | exactcanyontiredscorpioninspireslotvalve |  
+| bip_39_word_no_space_8 | exactcanyontiredscorpioninspireslotvalveauto |  
+| bip_39_word_no_space_9 | exactcanyontiredscorpioninspireslotvalveautomosquito |  
 | bip_39_word_space_0 | ['exact', 'canyon', 'tired', 'scorpion', 'inspire', 'slot', 'valve', 'auto', 'mosquito', 'sphere', 'start', 'access'] |  
 | bip_39_word_space_1 | exact |  
 | bip_39_word_space_10 | exact canyon tired scorpion inspire slot valve auto mosquito sphere |  

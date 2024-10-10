@@ -122,6 +122,18 @@ moment
 private
 clump
 sadness |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playachieveelderfixmushroommomentprivateclumpsadnesssix |  
+| bip_39_word_no_space_11 | playachieveelderfixmushroommomentprivateclumpsadnesssixbreeze |  
+| bip_39_word_no_space_12 | playachieveelderfixmushroommomentprivateclumpsadnesssixbreezealbum |  
+| bip_39_word_no_space_2 | playachieve |  
+| bip_39_word_no_space_3 | playachieveelder |  
+| bip_39_word_no_space_4 | playachieveelderfix |  
+| bip_39_word_no_space_5 | playachieveelderfixmushroom |  
+| bip_39_word_no_space_6 | playachieveelderfixmushroommoment |  
+| bip_39_word_no_space_7 | playachieveelderfixmushroommomentprivate |  
+| bip_39_word_no_space_8 | playachieveelderfixmushroommomentprivateclump |  
+| bip_39_word_no_space_9 | playachieveelderfixmushroommomentprivateclumpsadness |  
 | bip_39_word_space_0 | ['play', 'achieve', 'elder', 'fix', 'mushroom', 'moment', 'private', 'clump', 'sadness', 'six', 'breeze', 'album'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play achieve elder fix mushroom moment private clump sadness six |  

@@ -122,6 +122,18 @@ version
 weapon
 update
 tunnel |  
+| bip_39_word_no_space_1 | jungle |  
+| bip_39_word_no_space_10 | jungleouterfiscalluxurycancelversionweaponupdatetunneltwenty |  
+| bip_39_word_no_space_11 | jungleouterfiscalluxurycancelversionweaponupdatetunneltwentydentist |  
+| bip_39_word_no_space_12 | jungleouterfiscalluxurycancelversionweaponupdatetunneltwentydentistadapt |  
+| bip_39_word_no_space_2 | jungleouter |  
+| bip_39_word_no_space_3 | jungleouterfiscal |  
+| bip_39_word_no_space_4 | jungleouterfiscalluxury |  
+| bip_39_word_no_space_5 | jungleouterfiscalluxurycancel |  
+| bip_39_word_no_space_6 | jungleouterfiscalluxurycancelversion |  
+| bip_39_word_no_space_7 | jungleouterfiscalluxurycancelversionweapon |  
+| bip_39_word_no_space_8 | jungleouterfiscalluxurycancelversionweaponupdate |  
+| bip_39_word_no_space_9 | jungleouterfiscalluxurycancelversionweaponupdatetunnel |  
 | bip_39_word_space_0 | ['jungle', 'outer', 'fiscal', 'luxury', 'cancel', 'version', 'weapon', 'update', 'tunnel', 'twenty', 'dentist', 'adapt'] |  
 | bip_39_word_space_1 | jungle |  
 | bip_39_word_space_10 | jungle outer fiscal luxury cancel version weapon update tunnel twenty |  

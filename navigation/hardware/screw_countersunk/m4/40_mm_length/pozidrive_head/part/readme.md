@@ -122,6 +122,18 @@ armor
 cabin
 shop
 can |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removeverifythundersalutedesertarmorcabinshopcanbird |  
+| bip_39_word_no_space_11 | removeverifythundersalutedesertarmorcabinshopcanbirdtunnel |  
+| bip_39_word_no_space_12 | removeverifythundersalutedesertarmorcabinshopcanbirdtunneladd |  
+| bip_39_word_no_space_2 | removeverify |  
+| bip_39_word_no_space_3 | removeverifythunder |  
+| bip_39_word_no_space_4 | removeverifythundersalute |  
+| bip_39_word_no_space_5 | removeverifythundersalutedesert |  
+| bip_39_word_no_space_6 | removeverifythundersalutedesertarmor |  
+| bip_39_word_no_space_7 | removeverifythundersalutedesertarmorcabin |  
+| bip_39_word_no_space_8 | removeverifythundersalutedesertarmorcabinshop |  
+| bip_39_word_no_space_9 | removeverifythundersalutedesertarmorcabinshopcan |  
 | bip_39_word_space_0 | ['remove', 'verify', 'thunder', 'salute', 'desert', 'armor', 'cabin', 'shop', 'can', 'bird', 'tunnel', 'add'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove verify thunder salute desert armor cabin shop can bird |  

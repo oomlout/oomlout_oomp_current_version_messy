@@ -122,6 +122,18 @@ group
 river
 advance
 print |  
+| bip_39_word_no_space_1 | swift |  
+| bip_39_word_no_space_10 | swiftuniformouterexotickeygroupriveradvanceprintcrime |  
+| bip_39_word_no_space_11 | swiftuniformouterexotickeygroupriveradvanceprintcrimewear |  
+| bip_39_word_no_space_12 | swiftuniformouterexotickeygroupriveradvanceprintcrimewearactor |  
+| bip_39_word_no_space_2 | swiftuniform |  
+| bip_39_word_no_space_3 | swiftuniformouter |  
+| bip_39_word_no_space_4 | swiftuniformouterexotic |  
+| bip_39_word_no_space_5 | swiftuniformouterexotickey |  
+| bip_39_word_no_space_6 | swiftuniformouterexotickeygroup |  
+| bip_39_word_no_space_7 | swiftuniformouterexotickeygroupriver |  
+| bip_39_word_no_space_8 | swiftuniformouterexotickeygroupriveradvance |  
+| bip_39_word_no_space_9 | swiftuniformouterexotickeygroupriveradvanceprint |  
 | bip_39_word_space_0 | ['swift', 'uniform', 'outer', 'exotic', 'key', 'group', 'river', 'advance', 'print', 'crime', 'wear', 'actor'] |  
 | bip_39_word_space_1 | swift |  
 | bip_39_word_space_10 | swift uniform outer exotic key group river advance print crime |  

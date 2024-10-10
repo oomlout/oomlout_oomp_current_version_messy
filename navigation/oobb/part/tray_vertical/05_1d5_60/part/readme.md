@@ -122,6 +122,18 @@ illegal
 furnace
 defense
 there |  
+| bip_39_word_no_space_1 | screen |  
+| bip_39_word_no_space_10 | screenplacemagicviolinwishillegalfurnacedefensethereprogram |  
+| bip_39_word_no_space_11 | screenplacemagicviolinwishillegalfurnacedefensethereprogramshoulder |  
+| bip_39_word_no_space_12 | screenplacemagicviolinwishillegalfurnacedefensethereprogramshoulderankle |  
+| bip_39_word_no_space_2 | screenplace |  
+| bip_39_word_no_space_3 | screenplacemagic |  
+| bip_39_word_no_space_4 | screenplacemagicviolin |  
+| bip_39_word_no_space_5 | screenplacemagicviolinwish |  
+| bip_39_word_no_space_6 | screenplacemagicviolinwishillegal |  
+| bip_39_word_no_space_7 | screenplacemagicviolinwishillegalfurnace |  
+| bip_39_word_no_space_8 | screenplacemagicviolinwishillegalfurnacedefense |  
+| bip_39_word_no_space_9 | screenplacemagicviolinwishillegalfurnacedefensethere |  
 | bip_39_word_space_0 | ['screen', 'place', 'magic', 'violin', 'wish', 'illegal', 'furnace', 'defense', 'there', 'program', 'shoulder', 'ankle'] |  
 | bip_39_word_space_1 | screen |  
 | bip_39_word_space_10 | screen place magic violin wish illegal furnace defense there program |  

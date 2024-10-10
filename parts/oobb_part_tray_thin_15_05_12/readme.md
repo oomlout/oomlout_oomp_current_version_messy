@@ -122,6 +122,18 @@ fashion
 net
 grant
 obtain |  
+| bip_39_word_no_space_1 | produce |  
+| bip_39_word_no_space_10 | producethenrichdiarythreefashionnetgrantobtainflat |  
+| bip_39_word_no_space_11 | producethenrichdiarythreefashionnetgrantobtainflatdumb |  
+| bip_39_word_no_space_12 | producethenrichdiarythreefashionnetgrantobtainflatdumbankle |  
+| bip_39_word_no_space_2 | producethen |  
+| bip_39_word_no_space_3 | producethenrich |  
+| bip_39_word_no_space_4 | producethenrichdiary |  
+| bip_39_word_no_space_5 | producethenrichdiarythree |  
+| bip_39_word_no_space_6 | producethenrichdiarythreefashion |  
+| bip_39_word_no_space_7 | producethenrichdiarythreefashionnet |  
+| bip_39_word_no_space_8 | producethenrichdiarythreefashionnetgrant |  
+| bip_39_word_no_space_9 | producethenrichdiarythreefashionnetgrantobtain |  
 | bip_39_word_space_0 | ['produce', 'then', 'rich', 'diary', 'three', 'fashion', 'net', 'grant', 'obtain', 'flat', 'dumb', 'ankle'] |  
 | bip_39_word_space_1 | produce |  
 | bip_39_word_space_10 | produce then rich diary three fashion net grant obtain flat |  

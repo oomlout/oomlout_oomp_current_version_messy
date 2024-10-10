@@ -122,6 +122,18 @@ siren
 blame
 shuffle
 tuition |  
+| bip_39_word_no_space_1 | soft |  
+| bip_39_word_no_space_10 | softmillionuncoveradmitbirthsirenblameshuffletuitionattitude |  
+| bip_39_word_no_space_11 | softmillionuncoveradmitbirthsirenblameshuffletuitionattitudekiss |  
+| bip_39_word_no_space_12 | softmillionuncoveradmitbirthsirenblameshuffletuitionattitudekissagain |  
+| bip_39_word_no_space_2 | softmillion |  
+| bip_39_word_no_space_3 | softmillionuncover |  
+| bip_39_word_no_space_4 | softmillionuncoveradmit |  
+| bip_39_word_no_space_5 | softmillionuncoveradmitbirth |  
+| bip_39_word_no_space_6 | softmillionuncoveradmitbirthsiren |  
+| bip_39_word_no_space_7 | softmillionuncoveradmitbirthsirenblame |  
+| bip_39_word_no_space_8 | softmillionuncoveradmitbirthsirenblameshuffle |  
+| bip_39_word_no_space_9 | softmillionuncoveradmitbirthsirenblameshuffletuition |  
 | bip_39_word_space_0 | ['soft', 'million', 'uncover', 'admit', 'birth', 'siren', 'blame', 'shuffle', 'tuition', 'attitude', 'kiss', 'again'] |  
 | bip_39_word_space_1 | soft |  
 | bip_39_word_space_10 | soft million uncover admit birth siren blame shuffle tuition attitude |  

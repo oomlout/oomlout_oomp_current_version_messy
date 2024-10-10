@@ -122,6 +122,18 @@ quiz
 mouse
 cargo
 love |  
+| bip_39_word_no_space_1 | unhappy |  
+| bip_39_word_no_space_10 | unhappyunhappycarbonflydutchquizmousecargolovelaw |  
+| bip_39_word_no_space_11 | unhappyunhappycarbonflydutchquizmousecargolovelawtumble |  
+| bip_39_word_no_space_12 | unhappyunhappycarbonflydutchquizmousecargolovelawtumblearrive |  
+| bip_39_word_no_space_2 | unhappyunhappy |  
+| bip_39_word_no_space_3 | unhappyunhappycarbon |  
+| bip_39_word_no_space_4 | unhappyunhappycarbonfly |  
+| bip_39_word_no_space_5 | unhappyunhappycarbonflydutch |  
+| bip_39_word_no_space_6 | unhappyunhappycarbonflydutchquiz |  
+| bip_39_word_no_space_7 | unhappyunhappycarbonflydutchquizmouse |  
+| bip_39_word_no_space_8 | unhappyunhappycarbonflydutchquizmousecargo |  
+| bip_39_word_no_space_9 | unhappyunhappycarbonflydutchquizmousecargolove |  
 | bip_39_word_space_0 | ['unhappy', 'unhappy', 'carbon', 'fly', 'dutch', 'quiz', 'mouse', 'cargo', 'love', 'law', 'tumble', 'arrive'] |  
 | bip_39_word_space_1 | unhappy |  
 | bip_39_word_space_10 | unhappy unhappy carbon fly dutch quiz mouse cargo love law |  

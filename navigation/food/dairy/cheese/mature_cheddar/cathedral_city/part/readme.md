@@ -122,6 +122,18 @@ movie
 voyage
 time
 argue |  
+| bip_39_word_no_space_1 | position |  
+| bip_39_word_no_space_10 | positionswimfirmfrequentfostermovievoyagetimeargueswing |  
+| bip_39_word_no_space_11 | positionswimfirmfrequentfostermovievoyagetimeargueswingmerit |  
+| bip_39_word_no_space_12 | positionswimfirmfrequentfostermovievoyagetimeargueswingmeritallow |  
+| bip_39_word_no_space_2 | positionswim |  
+| bip_39_word_no_space_3 | positionswimfirm |  
+| bip_39_word_no_space_4 | positionswimfirmfrequent |  
+| bip_39_word_no_space_5 | positionswimfirmfrequentfoster |  
+| bip_39_word_no_space_6 | positionswimfirmfrequentfostermovie |  
+| bip_39_word_no_space_7 | positionswimfirmfrequentfostermovievoyage |  
+| bip_39_word_no_space_8 | positionswimfirmfrequentfostermovievoyagetime |  
+| bip_39_word_no_space_9 | positionswimfirmfrequentfostermovievoyagetimeargue |  
 | bip_39_word_space_0 | ['position', 'swim', 'firm', 'frequent', 'foster', 'movie', 'voyage', 'time', 'argue', 'swing', 'merit', 'allow'] |  
 | bip_39_word_space_1 | position |  
 | bip_39_word_space_10 | position swim firm frequent foster movie voyage time argue swing |  

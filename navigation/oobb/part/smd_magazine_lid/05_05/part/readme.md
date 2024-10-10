@@ -122,6 +122,18 @@ soft
 cradle
 credit
 develop |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisureevokebrokenfaintfleesoftcradlecreditdevelopaisle |  
+| bip_39_word_no_space_11 | leisureevokebrokenfaintfleesoftcradlecreditdevelopaisleexile |  
+| bip_39_word_no_space_12 | leisureevokebrokenfaintfleesoftcradlecreditdevelopaisleexileaddict |  
+| bip_39_word_no_space_2 | leisureevoke |  
+| bip_39_word_no_space_3 | leisureevokebroken |  
+| bip_39_word_no_space_4 | leisureevokebrokenfaint |  
+| bip_39_word_no_space_5 | leisureevokebrokenfaintflee |  
+| bip_39_word_no_space_6 | leisureevokebrokenfaintfleesoft |  
+| bip_39_word_no_space_7 | leisureevokebrokenfaintfleesoftcradle |  
+| bip_39_word_no_space_8 | leisureevokebrokenfaintfleesoftcradlecredit |  
+| bip_39_word_no_space_9 | leisureevokebrokenfaintfleesoftcradlecreditdevelop |  
 | bip_39_word_space_0 | ['leisure', 'evoke', 'broken', 'faint', 'flee', 'soft', 'cradle', 'credit', 'develop', 'aisle', 'exile', 'addict'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure evoke broken faint flee soft cradle credit develop aisle |  

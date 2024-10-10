@@ -122,6 +122,18 @@ olive
 custom
 inquiry
 sorry |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | membercoyoteliarchoosebriefolivecustominquirysorrynetwork |  
+| bip_39_word_no_space_11 | membercoyoteliarchoosebriefolivecustominquirysorrynetworkunlock |  
+| bip_39_word_no_space_12 | membercoyoteliarchoosebriefolivecustominquirysorrynetworkunlockankle |  
+| bip_39_word_no_space_2 | membercoyote |  
+| bip_39_word_no_space_3 | membercoyoteliar |  
+| bip_39_word_no_space_4 | membercoyoteliarchoose |  
+| bip_39_word_no_space_5 | membercoyoteliarchoosebrief |  
+| bip_39_word_no_space_6 | membercoyoteliarchoosebriefolive |  
+| bip_39_word_no_space_7 | membercoyoteliarchoosebriefolivecustom |  
+| bip_39_word_no_space_8 | membercoyoteliarchoosebriefolivecustominquiry |  
+| bip_39_word_no_space_9 | membercoyoteliarchoosebriefolivecustominquirysorry |  
 | bip_39_word_space_0 | ['member', 'coyote', 'liar', 'choose', 'brief', 'olive', 'custom', 'inquiry', 'sorry', 'network', 'unlock', 'ankle'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member coyote liar choose brief olive custom inquiry sorry network |  

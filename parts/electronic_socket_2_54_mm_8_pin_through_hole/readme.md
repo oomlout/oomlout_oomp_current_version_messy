@@ -122,6 +122,18 @@ poverty
 jeans
 lyrics
 swing |  
+| bip_39_word_no_space_1 | admit |  
+| bip_39_word_no_space_10 | admitaccountpluckhistorydisorderpovertyjeanslyricsswingarctic |  
+| bip_39_word_no_space_11 | admitaccountpluckhistorydisorderpovertyjeanslyricsswingarcticvolume |  
+| bip_39_word_no_space_12 | admitaccountpluckhistorydisorderpovertyjeanslyricsswingarcticvolumeaccident |  
+| bip_39_word_no_space_2 | admitaccount |  
+| bip_39_word_no_space_3 | admitaccountpluck |  
+| bip_39_word_no_space_4 | admitaccountpluckhistory |  
+| bip_39_word_no_space_5 | admitaccountpluckhistorydisorder |  
+| bip_39_word_no_space_6 | admitaccountpluckhistorydisorderpoverty |  
+| bip_39_word_no_space_7 | admitaccountpluckhistorydisorderpovertyjeans |  
+| bip_39_word_no_space_8 | admitaccountpluckhistorydisorderpovertyjeanslyrics |  
+| bip_39_word_no_space_9 | admitaccountpluckhistorydisorderpovertyjeanslyricsswing |  
 | bip_39_word_space_0 | ['admit', 'account', 'pluck', 'history', 'disorder', 'poverty', 'jeans', 'lyrics', 'swing', 'arctic', 'volume', 'accident'] |  
 | bip_39_word_space_1 | admit |  
 | bip_39_word_space_10 | admit account pluck history disorder poverty jeans lyrics swing arctic |  

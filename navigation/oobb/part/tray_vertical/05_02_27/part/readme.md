@@ -122,6 +122,18 @@ review
 public
 urban
 panther |  
+| bip_39_word_no_space_1 | protect |  
+| bip_39_word_no_space_10 | protectmoresubjectpointgenuinereviewpublicurbanpanthergoddess |  
+| bip_39_word_no_space_11 | protectmoresubjectpointgenuinereviewpublicurbanpanthergoddessunaware |  
+| bip_39_word_no_space_12 | protectmoresubjectpointgenuinereviewpublicurbanpanthergoddessunawareattend |  
+| bip_39_word_no_space_2 | protectmore |  
+| bip_39_word_no_space_3 | protectmoresubject |  
+| bip_39_word_no_space_4 | protectmoresubjectpoint |  
+| bip_39_word_no_space_5 | protectmoresubjectpointgenuine |  
+| bip_39_word_no_space_6 | protectmoresubjectpointgenuinereview |  
+| bip_39_word_no_space_7 | protectmoresubjectpointgenuinereviewpublic |  
+| bip_39_word_no_space_8 | protectmoresubjectpointgenuinereviewpublicurban |  
+| bip_39_word_no_space_9 | protectmoresubjectpointgenuinereviewpublicurbanpanther |  
 | bip_39_word_space_0 | ['protect', 'more', 'subject', 'point', 'genuine', 'review', 'public', 'urban', 'panther', 'goddess', 'unaware', 'attend'] |  
 | bip_39_word_space_1 | protect |  
 | bip_39_word_space_10 | protect more subject point genuine review public urban panther goddess |  

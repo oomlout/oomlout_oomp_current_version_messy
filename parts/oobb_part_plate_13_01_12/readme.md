@@ -122,6 +122,18 @@ retire
 sister
 shell
 south |  
+| bip_39_word_no_space_1 | enter |  
+| bip_39_word_no_space_10 | enterskirtpatternonionclaimretiresistershellsouthcattle |  
+| bip_39_word_no_space_11 | enterskirtpatternonionclaimretiresistershellsouthcattleage |  
+| bip_39_word_no_space_12 | enterskirtpatternonionclaimretiresistershellsouthcattleagearm |  
+| bip_39_word_no_space_2 | enterskirt |  
+| bip_39_word_no_space_3 | enterskirtpattern |  
+| bip_39_word_no_space_4 | enterskirtpatternonion |  
+| bip_39_word_no_space_5 | enterskirtpatternonionclaim |  
+| bip_39_word_no_space_6 | enterskirtpatternonionclaimretire |  
+| bip_39_word_no_space_7 | enterskirtpatternonionclaimretiresister |  
+| bip_39_word_no_space_8 | enterskirtpatternonionclaimretiresistershell |  
+| bip_39_word_no_space_9 | enterskirtpatternonionclaimretiresistershellsouth |  
 | bip_39_word_space_0 | ['enter', 'skirt', 'pattern', 'onion', 'claim', 'retire', 'sister', 'shell', 'south', 'cattle', 'age', 'arm'] |  
 | bip_39_word_space_1 | enter |  
 | bip_39_word_space_10 | enter skirt pattern onion claim retire sister shell south cattle |  

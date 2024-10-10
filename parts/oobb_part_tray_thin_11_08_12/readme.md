@@ -122,6 +122,18 @@ walk
 parrot
 visit
 wealth |  
+| bip_39_word_no_space_1 | short |  
+| bip_39_word_no_space_10 | shortsymbolupholdsweetfrogwalkparrotvisitwealthalways |  
+| bip_39_word_no_space_11 | shortsymbolupholdsweetfrogwalkparrotvisitwealthalwaysmeadow |  
+| bip_39_word_no_space_12 | shortsymbolupholdsweetfrogwalkparrotvisitwealthalwaysmeadowarrange |  
+| bip_39_word_no_space_2 | shortsymbol |  
+| bip_39_word_no_space_3 | shortsymboluphold |  
+| bip_39_word_no_space_4 | shortsymbolupholdsweet |  
+| bip_39_word_no_space_5 | shortsymbolupholdsweetfrog |  
+| bip_39_word_no_space_6 | shortsymbolupholdsweetfrogwalk |  
+| bip_39_word_no_space_7 | shortsymbolupholdsweetfrogwalkparrot |  
+| bip_39_word_no_space_8 | shortsymbolupholdsweetfrogwalkparrotvisit |  
+| bip_39_word_no_space_9 | shortsymbolupholdsweetfrogwalkparrotvisitwealth |  
 | bip_39_word_space_0 | ['short', 'symbol', 'uphold', 'sweet', 'frog', 'walk', 'parrot', 'visit', 'wealth', 'always', 'meadow', 'arrange'] |  
 | bip_39_word_space_1 | short |  
 | bip_39_word_space_10 | short symbol uphold sweet frog walk parrot visit wealth always |  

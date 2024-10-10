@@ -122,6 +122,18 @@ post
 mesh
 mixture
 brown |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | platedoorevoketwinindexpostmeshmixturebrownidea |  
+| bip_39_word_no_space_11 | platedoorevoketwinindexpostmeshmixturebrownideablouse |  
+| bip_39_word_no_space_12 | platedoorevoketwinindexpostmeshmixturebrownideablouseangry |  
+| bip_39_word_no_space_2 | platedoor |  
+| bip_39_word_no_space_3 | platedoorevoke |  
+| bip_39_word_no_space_4 | platedoorevoketwin |  
+| bip_39_word_no_space_5 | platedoorevoketwinindex |  
+| bip_39_word_no_space_6 | platedoorevoketwinindexpost |  
+| bip_39_word_no_space_7 | platedoorevoketwinindexpostmesh |  
+| bip_39_word_no_space_8 | platedoorevoketwinindexpostmeshmixture |  
+| bip_39_word_no_space_9 | platedoorevoketwinindexpostmeshmixturebrown |  
 | bip_39_word_space_0 | ['plate', 'door', 'evoke', 'twin', 'index', 'post', 'mesh', 'mixture', 'brown', 'idea', 'blouse', 'angry'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate door evoke twin index post mesh mixture brown idea |  

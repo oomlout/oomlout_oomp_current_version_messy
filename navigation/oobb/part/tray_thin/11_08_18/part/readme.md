@@ -122,6 +122,18 @@ cruel
 kiwi
 account
 wave |  
+| bip_39_word_no_space_1 | theory |  
+| bip_39_word_no_space_10 | theorymelodyguiltnastytransfercruelkiwiaccountwavecarpet |  
+| bip_39_word_no_space_11 | theorymelodyguiltnastytransfercruelkiwiaccountwavecarpetpulse |  
+| bip_39_word_no_space_12 | theorymelodyguiltnastytransfercruelkiwiaccountwavecarpetpulseaction |  
+| bip_39_word_no_space_2 | theorymelody |  
+| bip_39_word_no_space_3 | theorymelodyguilt |  
+| bip_39_word_no_space_4 | theorymelodyguiltnasty |  
+| bip_39_word_no_space_5 | theorymelodyguiltnastytransfer |  
+| bip_39_word_no_space_6 | theorymelodyguiltnastytransfercruel |  
+| bip_39_word_no_space_7 | theorymelodyguiltnastytransfercruelkiwi |  
+| bip_39_word_no_space_8 | theorymelodyguiltnastytransfercruelkiwiaccount |  
+| bip_39_word_no_space_9 | theorymelodyguiltnastytransfercruelkiwiaccountwave |  
 | bip_39_word_space_0 | ['theory', 'melody', 'guilt', 'nasty', 'transfer', 'cruel', 'kiwi', 'account', 'wave', 'carpet', 'pulse', 'action'] |  
 | bip_39_word_space_1 | theory |  
 | bip_39_word_space_10 | theory melody guilt nasty transfer cruel kiwi account wave carpet |  

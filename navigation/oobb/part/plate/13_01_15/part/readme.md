@@ -122,6 +122,18 @@ voyage
 mosquito
 cement
 tissue |  
+| bip_39_word_no_space_1 | hungry |  
+| bip_39_word_no_space_10 | hungrycanfaultkingdomaspectvoyagemosquitocementtissuenear |  
+| bip_39_word_no_space_11 | hungrycanfaultkingdomaspectvoyagemosquitocementtissuenearrefuse |  
+| bip_39_word_no_space_12 | hungrycanfaultkingdomaspectvoyagemosquitocementtissuenearrefuseaction |  
+| bip_39_word_no_space_2 | hungrycan |  
+| bip_39_word_no_space_3 | hungrycanfault |  
+| bip_39_word_no_space_4 | hungrycanfaultkingdom |  
+| bip_39_word_no_space_5 | hungrycanfaultkingdomaspect |  
+| bip_39_word_no_space_6 | hungrycanfaultkingdomaspectvoyage |  
+| bip_39_word_no_space_7 | hungrycanfaultkingdomaspectvoyagemosquito |  
+| bip_39_word_no_space_8 | hungrycanfaultkingdomaspectvoyagemosquitocement |  
+| bip_39_word_no_space_9 | hungrycanfaultkingdomaspectvoyagemosquitocementtissue |  
 | bip_39_word_space_0 | ['hungry', 'can', 'fault', 'kingdom', 'aspect', 'voyage', 'mosquito', 'cement', 'tissue', 'near', 'refuse', 'action'] |  
 | bip_39_word_space_1 | hungry |  
 | bip_39_word_space_10 | hungry can fault kingdom aspect voyage mosquito cement tissue near |  

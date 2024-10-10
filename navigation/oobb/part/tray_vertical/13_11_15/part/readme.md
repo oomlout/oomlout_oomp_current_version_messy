@@ -122,6 +122,18 @@ wheel
 order
 alone
 mother |  
+| bip_39_word_no_space_1 | squirrel |  
+| bip_39_word_no_space_10 | squirrelbeforealterprocessnetwheelorderalonemotherneutral |  
+| bip_39_word_no_space_11 | squirrelbeforealterprocessnetwheelorderalonemotherneutraldeny |  
+| bip_39_word_no_space_12 | squirrelbeforealterprocessnetwheelorderalonemotherneutraldenyaugust |  
+| bip_39_word_no_space_2 | squirrelbefore |  
+| bip_39_word_no_space_3 | squirrelbeforealter |  
+| bip_39_word_no_space_4 | squirrelbeforealterprocess |  
+| bip_39_word_no_space_5 | squirrelbeforealterprocessnet |  
+| bip_39_word_no_space_6 | squirrelbeforealterprocessnetwheel |  
+| bip_39_word_no_space_7 | squirrelbeforealterprocessnetwheelorder |  
+| bip_39_word_no_space_8 | squirrelbeforealterprocessnetwheelorderalone |  
+| bip_39_word_no_space_9 | squirrelbeforealterprocessnetwheelorderalonemother |  
 | bip_39_word_space_0 | ['squirrel', 'before', 'alter', 'process', 'net', 'wheel', 'order', 'alone', 'mother', 'neutral', 'deny', 'august'] |  
 | bip_39_word_space_1 | squirrel |  
 | bip_39_word_space_10 | squirrel before alter process net wheel order alone mother neutral |  

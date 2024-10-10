@@ -122,6 +122,18 @@ agree
 picture
 monitor
 inflict |  
+| bip_39_word_no_space_1 | release |  
+| bip_39_word_no_space_10 | releasesaucefurychaosfineagreepicturemonitorinflictsecurity |  
+| bip_39_word_no_space_11 | releasesaucefurychaosfineagreepicturemonitorinflictsecuritylight |  
+| bip_39_word_no_space_12 | releasesaucefurychaosfineagreepicturemonitorinflictsecuritylightabove |  
+| bip_39_word_no_space_2 | releasesauce |  
+| bip_39_word_no_space_3 | releasesaucefury |  
+| bip_39_word_no_space_4 | releasesaucefurychaos |  
+| bip_39_word_no_space_5 | releasesaucefurychaosfine |  
+| bip_39_word_no_space_6 | releasesaucefurychaosfineagree |  
+| bip_39_word_no_space_7 | releasesaucefurychaosfineagreepicture |  
+| bip_39_word_no_space_8 | releasesaucefurychaosfineagreepicturemonitor |  
+| bip_39_word_no_space_9 | releasesaucefurychaosfineagreepicturemonitorinflict |  
 | bip_39_word_space_0 | ['release', 'sauce', 'fury', 'chaos', 'fine', 'agree', 'picture', 'monitor', 'inflict', 'security', 'light', 'above'] |  
 | bip_39_word_space_1 | release |  
 | bip_39_word_space_10 | release sauce fury chaos fine agree picture monitor inflict security |  

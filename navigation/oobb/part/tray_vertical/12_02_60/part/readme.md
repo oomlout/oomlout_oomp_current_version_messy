@@ -122,6 +122,18 @@ toe
 plunge
 best
 random |  
+| bip_39_word_no_space_1 | social |  
+| bip_39_word_no_space_10 | socialtitlecushioneggdeertoeplungebestrandompublic |  
+| bip_39_word_no_space_11 | socialtitlecushioneggdeertoeplungebestrandompublicpeace |  
+| bip_39_word_no_space_12 | socialtitlecushioneggdeertoeplungebestrandompublicpeacearmor |  
+| bip_39_word_no_space_2 | socialtitle |  
+| bip_39_word_no_space_3 | socialtitlecushion |  
+| bip_39_word_no_space_4 | socialtitlecushionegg |  
+| bip_39_word_no_space_5 | socialtitlecushioneggdeer |  
+| bip_39_word_no_space_6 | socialtitlecushioneggdeertoe |  
+| bip_39_word_no_space_7 | socialtitlecushioneggdeertoeplunge |  
+| bip_39_word_no_space_8 | socialtitlecushioneggdeertoeplungebest |  
+| bip_39_word_no_space_9 | socialtitlecushioneggdeertoeplungebestrandom |  
 | bip_39_word_space_0 | ['social', 'title', 'cushion', 'egg', 'deer', 'toe', 'plunge', 'best', 'random', 'public', 'peace', 'armor'] |  
 | bip_39_word_space_1 | social |  
 | bip_39_word_space_10 | social title cushion egg deer toe plunge best random public |  

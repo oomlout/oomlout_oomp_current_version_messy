@@ -122,6 +122,18 @@ pause
 math
 analyst
 soul |  
+| bip_39_word_no_space_1 | spread |  
+| bip_39_word_no_space_10 | spreadmarriageerakisspossiblepausemathanalystsoulentire |  
+| bip_39_word_no_space_11 | spreadmarriageerakisspossiblepausemathanalystsoulentireunusual |  
+| bip_39_word_no_space_12 | spreadmarriageerakisspossiblepausemathanalystsoulentireunusualapril |  
+| bip_39_word_no_space_2 | spreadmarriage |  
+| bip_39_word_no_space_3 | spreadmarriageera |  
+| bip_39_word_no_space_4 | spreadmarriageerakiss |  
+| bip_39_word_no_space_5 | spreadmarriageerakisspossible |  
+| bip_39_word_no_space_6 | spreadmarriageerakisspossiblepause |  
+| bip_39_word_no_space_7 | spreadmarriageerakisspossiblepausemath |  
+| bip_39_word_no_space_8 | spreadmarriageerakisspossiblepausemathanalyst |  
+| bip_39_word_no_space_9 | spreadmarriageerakisspossiblepausemathanalystsoul |  
 | bip_39_word_space_0 | ['spread', 'marriage', 'era', 'kiss', 'possible', 'pause', 'math', 'analyst', 'soul', 'entire', 'unusual', 'april'] |  
 | bip_39_word_space_1 | spread |  
 | bip_39_word_space_10 | spread marriage era kiss possible pause math analyst soul entire |  

@@ -122,6 +122,18 @@ twelve
 midnight
 general
 input |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizelockpulpawarerugtwelvemidnightgeneralinputemotion |  
+| bip_39_word_no_space_11 | prizelockpulpawarerugtwelvemidnightgeneralinputemotionbless |  
+| bip_39_word_no_space_12 | prizelockpulpawarerugtwelvemidnightgeneralinputemotionblessall |  
+| bip_39_word_no_space_2 | prizelock |  
+| bip_39_word_no_space_3 | prizelockpulp |  
+| bip_39_word_no_space_4 | prizelockpulpaware |  
+| bip_39_word_no_space_5 | prizelockpulpawarerug |  
+| bip_39_word_no_space_6 | prizelockpulpawarerugtwelve |  
+| bip_39_word_no_space_7 | prizelockpulpawarerugtwelvemidnight |  
+| bip_39_word_no_space_8 | prizelockpulpawarerugtwelvemidnightgeneral |  
+| bip_39_word_no_space_9 | prizelockpulpawarerugtwelvemidnightgeneralinput |  
 | bip_39_word_space_0 | ['prize', 'lock', 'pulp', 'aware', 'rug', 'twelve', 'midnight', 'general', 'input', 'emotion', 'bless', 'all'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize lock pulp aware rug twelve midnight general input emotion |  

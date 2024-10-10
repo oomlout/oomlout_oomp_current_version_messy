@@ -122,6 +122,18 @@ blur
 sponsor
 duck
 vital |  
+| bip_39_word_no_space_1 | diary |  
+| bip_39_word_no_space_10 | diarypotterypulseaxisblastblursponsorduckvitalmillion |  
+| bip_39_word_no_space_11 | diarypotterypulseaxisblastblursponsorduckvitalmillionshoulder |  
+| bip_39_word_no_space_12 | diarypotterypulseaxisblastblursponsorduckvitalmillionshoulderact |  
+| bip_39_word_no_space_2 | diarypottery |  
+| bip_39_word_no_space_3 | diarypotterypulse |  
+| bip_39_word_no_space_4 | diarypotterypulseaxis |  
+| bip_39_word_no_space_5 | diarypotterypulseaxisblast |  
+| bip_39_word_no_space_6 | diarypotterypulseaxisblastblur |  
+| bip_39_word_no_space_7 | diarypotterypulseaxisblastblursponsor |  
+| bip_39_word_no_space_8 | diarypotterypulseaxisblastblursponsorduck |  
+| bip_39_word_no_space_9 | diarypotterypulseaxisblastblursponsorduckvital |  
 | bip_39_word_space_0 | ['diary', 'pottery', 'pulse', 'axis', 'blast', 'blur', 'sponsor', 'duck', 'vital', 'million', 'shoulder', 'act'] |  
 | bip_39_word_space_1 | diary |  
 | bip_39_word_space_10 | diary pottery pulse axis blast blur sponsor duck vital million |  

@@ -122,6 +122,18 @@ load
 unfair
 beef
 reform |  
+| bip_39_word_no_space_1 | grocery |  
+| bip_39_word_no_space_10 | groceryodorcitizenswallowsiegeloadunfairbeefreformorchard |  
+| bip_39_word_no_space_11 | groceryodorcitizenswallowsiegeloadunfairbeefreformorchardlimb |  
+| bip_39_word_no_space_12 | groceryodorcitizenswallowsiegeloadunfairbeefreformorchardlimbairport |  
+| bip_39_word_no_space_2 | groceryodor |  
+| bip_39_word_no_space_3 | groceryodorcitizen |  
+| bip_39_word_no_space_4 | groceryodorcitizenswallow |  
+| bip_39_word_no_space_5 | groceryodorcitizenswallowsiege |  
+| bip_39_word_no_space_6 | groceryodorcitizenswallowsiegeload |  
+| bip_39_word_no_space_7 | groceryodorcitizenswallowsiegeloadunfair |  
+| bip_39_word_no_space_8 | groceryodorcitizenswallowsiegeloadunfairbeef |  
+| bip_39_word_no_space_9 | groceryodorcitizenswallowsiegeloadunfairbeefreform |  
 | bip_39_word_space_0 | ['grocery', 'odor', 'citizen', 'swallow', 'siege', 'load', 'unfair', 'beef', 'reform', 'orchard', 'limb', 'airport'] |  
 | bip_39_word_space_1 | grocery |  
 | bip_39_word_space_10 | grocery odor citizen swallow siege load unfair beef reform orchard |  

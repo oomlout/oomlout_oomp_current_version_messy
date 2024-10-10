@@ -122,6 +122,18 @@ tourist
 midnight
 left
 brief |  
+| bip_39_word_no_space_1 | bid |  
+| bip_39_word_no_space_10 | bidfindlettercrashmastertouristmidnightleftbrieflegal |  
+| bip_39_word_no_space_11 | bidfindlettercrashmastertouristmidnightleftbrieflegalmanage |  
+| bip_39_word_no_space_12 | bidfindlettercrashmastertouristmidnightleftbrieflegalmanageadd |  
+| bip_39_word_no_space_2 | bidfind |  
+| bip_39_word_no_space_3 | bidfindletter |  
+| bip_39_word_no_space_4 | bidfindlettercrash |  
+| bip_39_word_no_space_5 | bidfindlettercrashmaster |  
+| bip_39_word_no_space_6 | bidfindlettercrashmastertourist |  
+| bip_39_word_no_space_7 | bidfindlettercrashmastertouristmidnight |  
+| bip_39_word_no_space_8 | bidfindlettercrashmastertouristmidnightleft |  
+| bip_39_word_no_space_9 | bidfindlettercrashmastertouristmidnightleftbrief |  
 | bip_39_word_space_0 | ['bid', 'find', 'letter', 'crash', 'master', 'tourist', 'midnight', 'left', 'brief', 'legal', 'manage', 'add'] |  
 | bip_39_word_space_1 | bid |  
 | bip_39_word_space_10 | bid find letter crash master tourist midnight left brief legal |  

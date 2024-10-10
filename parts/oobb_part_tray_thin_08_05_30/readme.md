@@ -122,6 +122,18 @@ depend
 luggage
 undo
 upset |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendbroccoliregretreleasedogdependluggageundoupsetsmooth |  
+| bip_39_word_no_space_11 | legendbroccoliregretreleasedogdependluggageundoupsetsmoothumbrella |  
+| bip_39_word_no_space_12 | legendbroccoliregretreleasedogdependluggageundoupsetsmoothumbrellaalarm |  
+| bip_39_word_no_space_2 | legendbroccoli |  
+| bip_39_word_no_space_3 | legendbroccoliregret |  
+| bip_39_word_no_space_4 | legendbroccoliregretrelease |  
+| bip_39_word_no_space_5 | legendbroccoliregretreleasedog |  
+| bip_39_word_no_space_6 | legendbroccoliregretreleasedogdepend |  
+| bip_39_word_no_space_7 | legendbroccoliregretreleasedogdependluggage |  
+| bip_39_word_no_space_8 | legendbroccoliregretreleasedogdependluggageundo |  
+| bip_39_word_no_space_9 | legendbroccoliregretreleasedogdependluggageundoupset |  
 | bip_39_word_space_0 | ['legend', 'broccoli', 'regret', 'release', 'dog', 'depend', 'luggage', 'undo', 'upset', 'smooth', 'umbrella', 'alarm'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend broccoli regret release dog depend luggage undo upset smooth |  

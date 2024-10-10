@@ -122,6 +122,18 @@ bubble
 crucial
 antique
 cat |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygendizzyhorrorunableplacebubblecrucialantiquecatearth |  
+| bip_39_word_no_space_11 | oxygendizzyhorrorunableplacebubblecrucialantiquecatearthnose |  
+| bip_39_word_no_space_12 | oxygendizzyhorrorunableplacebubblecrucialantiquecatearthnosealley |  
+| bip_39_word_no_space_2 | oxygendizzy |  
+| bip_39_word_no_space_3 | oxygendizzyhorror |  
+| bip_39_word_no_space_4 | oxygendizzyhorrorunable |  
+| bip_39_word_no_space_5 | oxygendizzyhorrorunableplace |  
+| bip_39_word_no_space_6 | oxygendizzyhorrorunableplacebubble |  
+| bip_39_word_no_space_7 | oxygendizzyhorrorunableplacebubblecrucial |  
+| bip_39_word_no_space_8 | oxygendizzyhorrorunableplacebubblecrucialantique |  
+| bip_39_word_no_space_9 | oxygendizzyhorrorunableplacebubblecrucialantiquecat |  
 | bip_39_word_space_0 | ['oxygen', 'dizzy', 'horror', 'unable', 'place', 'bubble', 'crucial', 'antique', 'cat', 'earth', 'nose', 'alley'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen dizzy horror unable place bubble crucial antique cat earth |  

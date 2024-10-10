@@ -122,6 +122,18 @@ fresh
 citizen
 orange
 enhance |  
+| bip_39_word_no_space_1 | upset |  
+| bip_39_word_no_space_10 | upsetmatrixswampinnocentsettlefreshcitizenorangeenhancevanish |  
+| bip_39_word_no_space_11 | upsetmatrixswampinnocentsettlefreshcitizenorangeenhancevanishcredit |  
+| bip_39_word_no_space_12 | upsetmatrixswampinnocentsettlefreshcitizenorangeenhancevanishcreditany |  
+| bip_39_word_no_space_2 | upsetmatrix |  
+| bip_39_word_no_space_3 | upsetmatrixswamp |  
+| bip_39_word_no_space_4 | upsetmatrixswampinnocent |  
+| bip_39_word_no_space_5 | upsetmatrixswampinnocentsettle |  
+| bip_39_word_no_space_6 | upsetmatrixswampinnocentsettlefresh |  
+| bip_39_word_no_space_7 | upsetmatrixswampinnocentsettlefreshcitizen |  
+| bip_39_word_no_space_8 | upsetmatrixswampinnocentsettlefreshcitizenorange |  
+| bip_39_word_no_space_9 | upsetmatrixswampinnocentsettlefreshcitizenorangeenhance |  
 | bip_39_word_space_0 | ['upset', 'matrix', 'swamp', 'innocent', 'settle', 'fresh', 'citizen', 'orange', 'enhance', 'vanish', 'credit', 'any'] |  
 | bip_39_word_space_1 | upset |  
 | bip_39_word_space_10 | upset matrix swamp innocent settle fresh citizen orange enhance vanish |  

@@ -122,6 +122,18 @@ aware
 fossil
 picture
 field |  
+| bip_39_word_no_space_1 | tornado |  
+| bip_39_word_no_space_10 | tornadoenhancegravityrabbitcandyawarefossilpicturefieldbar |  
+| bip_39_word_no_space_11 | tornadoenhancegravityrabbitcandyawarefossilpicturefieldbarcave |  
+| bip_39_word_no_space_12 | tornadoenhancegravityrabbitcandyawarefossilpicturefieldbarcaveapology |  
+| bip_39_word_no_space_2 | tornadoenhance |  
+| bip_39_word_no_space_3 | tornadoenhancegravity |  
+| bip_39_word_no_space_4 | tornadoenhancegravityrabbit |  
+| bip_39_word_no_space_5 | tornadoenhancegravityrabbitcandy |  
+| bip_39_word_no_space_6 | tornadoenhancegravityrabbitcandyaware |  
+| bip_39_word_no_space_7 | tornadoenhancegravityrabbitcandyawarefossil |  
+| bip_39_word_no_space_8 | tornadoenhancegravityrabbitcandyawarefossilpicture |  
+| bip_39_word_no_space_9 | tornadoenhancegravityrabbitcandyawarefossilpicturefield |  
 | bip_39_word_space_0 | ['tornado', 'enhance', 'gravity', 'rabbit', 'candy', 'aware', 'fossil', 'picture', 'field', 'bar', 'cave', 'apology'] |  
 | bip_39_word_space_1 | tornado |  
 | bip_39_word_space_10 | tornado enhance gravity rabbit candy aware fossil picture field bar |  

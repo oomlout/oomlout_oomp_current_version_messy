@@ -122,6 +122,18 @@ loop
 riot
 almost
 post |  
+| bip_39_word_no_space_1 | one |  
+| bip_39_word_no_space_10 | onelensaislesirenengageloopriotalmostpostcycle |  
+| bip_39_word_no_space_11 | onelensaislesirenengageloopriotalmostpostcycleglobe |  
+| bip_39_word_no_space_12 | onelensaislesirenengageloopriotalmostpostcycleglobearmed |  
+| bip_39_word_no_space_2 | onelens |  
+| bip_39_word_no_space_3 | onelensaisle |  
+| bip_39_word_no_space_4 | onelensaislesiren |  
+| bip_39_word_no_space_5 | onelensaislesirenengage |  
+| bip_39_word_no_space_6 | onelensaislesirenengageloop |  
+| bip_39_word_no_space_7 | onelensaislesirenengageloopriot |  
+| bip_39_word_no_space_8 | onelensaislesirenengageloopriotalmost |  
+| bip_39_word_no_space_9 | onelensaislesirenengageloopriotalmostpost |  
 | bip_39_word_space_0 | ['one', 'lens', 'aisle', 'siren', 'engage', 'loop', 'riot', 'almost', 'post', 'cycle', 'globe', 'armed'] |  
 | bip_39_word_space_1 | one |  
 | bip_39_word_space_10 | one lens aisle siren engage loop riot almost post cycle |  

@@ -122,6 +122,18 @@ coach
 method
 giant
 caught |  
+| bip_39_word_no_space_1 | face |  
+| bip_39_word_no_space_10 | facechoicepistolshoveaccountcoachmethodgiantcaughtshallow |  
+| bip_39_word_no_space_11 | facechoicepistolshoveaccountcoachmethodgiantcaughtshallowability |  
+| bip_39_word_no_space_12 | facechoicepistolshoveaccountcoachmethodgiantcaughtshallowabilityage |  
+| bip_39_word_no_space_2 | facechoice |  
+| bip_39_word_no_space_3 | facechoicepistol |  
+| bip_39_word_no_space_4 | facechoicepistolshove |  
+| bip_39_word_no_space_5 | facechoicepistolshoveaccount |  
+| bip_39_word_no_space_6 | facechoicepistolshoveaccountcoach |  
+| bip_39_word_no_space_7 | facechoicepistolshoveaccountcoachmethod |  
+| bip_39_word_no_space_8 | facechoicepistolshoveaccountcoachmethodgiant |  
+| bip_39_word_no_space_9 | facechoicepistolshoveaccountcoachmethodgiantcaught |  
 | bip_39_word_space_0 | ['face', 'choice', 'pistol', 'shove', 'account', 'coach', 'method', 'giant', 'caught', 'shallow', 'ability', 'age'] |  
 | bip_39_word_space_1 | face |  
 | bip_39_word_space_10 | face choice pistol shove account coach method giant caught shallow |  

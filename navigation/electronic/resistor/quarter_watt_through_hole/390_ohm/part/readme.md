@@ -122,6 +122,18 @@ hat
 forest
 excess
 minor |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middlebetweengrabaffordbrokenhatforestexcessminorforum |  
+| bip_39_word_no_space_11 | middlebetweengrabaffordbrokenhatforestexcessminorforummad |  
+| bip_39_word_no_space_12 | middlebetweengrabaffordbrokenhatforestexcessminorforummadathlete |  
+| bip_39_word_no_space_2 | middlebetween |  
+| bip_39_word_no_space_3 | middlebetweengrab |  
+| bip_39_word_no_space_4 | middlebetweengrabafford |  
+| bip_39_word_no_space_5 | middlebetweengrabaffordbroken |  
+| bip_39_word_no_space_6 | middlebetweengrabaffordbrokenhat |  
+| bip_39_word_no_space_7 | middlebetweengrabaffordbrokenhatforest |  
+| bip_39_word_no_space_8 | middlebetweengrabaffordbrokenhatforestexcess |  
+| bip_39_word_no_space_9 | middlebetweengrabaffordbrokenhatforestexcessminor |  
 | bip_39_word_space_0 | ['middle', 'between', 'grab', 'afford', 'broken', 'hat', 'forest', 'excess', 'minor', 'forum', 'mad', 'athlete'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle between grab afford broken hat forest excess minor forum |  

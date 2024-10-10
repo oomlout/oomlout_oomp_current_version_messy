@@ -122,6 +122,18 @@ edge
 holiday
 humor
 taxi |  
+| bip_39_word_no_space_1 | lunar |  
+| bip_39_word_no_space_10 | lunarangryarrangeaheadresistedgeholidayhumortaxiitem |  
+| bip_39_word_no_space_11 | lunarangryarrangeaheadresistedgeholidayhumortaxiitemdepend |  
+| bip_39_word_no_space_12 | lunarangryarrangeaheadresistedgeholidayhumortaxiitemdependadjust |  
+| bip_39_word_no_space_2 | lunarangry |  
+| bip_39_word_no_space_3 | lunarangryarrange |  
+| bip_39_word_no_space_4 | lunarangryarrangeahead |  
+| bip_39_word_no_space_5 | lunarangryarrangeaheadresist |  
+| bip_39_word_no_space_6 | lunarangryarrangeaheadresistedge |  
+| bip_39_word_no_space_7 | lunarangryarrangeaheadresistedgeholiday |  
+| bip_39_word_no_space_8 | lunarangryarrangeaheadresistedgeholidayhumor |  
+| bip_39_word_no_space_9 | lunarangryarrangeaheadresistedgeholidayhumortaxi |  
 | bip_39_word_space_0 | ['lunar', 'angry', 'arrange', 'ahead', 'resist', 'edge', 'holiday', 'humor', 'taxi', 'item', 'depend', 'adjust'] |  
 | bip_39_word_space_1 | lunar |  
 | bip_39_word_space_10 | lunar angry arrange ahead resist edge holiday humor taxi item |  

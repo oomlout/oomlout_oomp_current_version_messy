@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rapid
   slogan
 
   salt'
+bip_39_word_no_space_1: rapid
+bip_39_word_no_space_10: rapidgalleryaugustgoldfringeruncookslogansaltfood
+bip_39_word_no_space_11: rapidgalleryaugustgoldfringeruncookslogansaltfoodclock
+bip_39_word_no_space_12: rapidgalleryaugustgoldfringeruncookslogansaltfoodclockachieve
+bip_39_word_no_space_2: rapidgallery
+bip_39_word_no_space_3: rapidgalleryaugust
+bip_39_word_no_space_4: rapidgalleryaugustgold
+bip_39_word_no_space_5: rapidgalleryaugustgoldfringe
+bip_39_word_no_space_6: rapidgalleryaugustgoldfringerun
+bip_39_word_no_space_7: rapidgalleryaugustgoldfringeruncook
+bip_39_word_no_space_8: rapidgalleryaugustgoldfringeruncookslogan
+bip_39_word_no_space_9: rapidgalleryaugustgoldfringeruncookslogansalt
 bip_39_word_space_0:
 - rapid
 - gallery

@@ -109,6 +109,17 @@ subject
 refuse
 dash
 kiwi |  
+| bip_39_word_no_space_1 | dress |  
+| bip_39_word_no_space_10 | dressgloryaskequalwealthsubjectrefusedashkiwiluggage |  
+| bip_39_word_no_space_11 | dressgloryaskequalwealthsubjectrefusedashkiwiluggagereflect |  
+| bip_39_word_no_space_2 | dressglory |  
+| bip_39_word_no_space_3 | dressgloryask |  
+| bip_39_word_no_space_4 | dressgloryaskequal |  
+| bip_39_word_no_space_5 | dressgloryaskequalwealth |  
+| bip_39_word_no_space_6 | dressgloryaskequalwealthsubject |  
+| bip_39_word_no_space_7 | dressgloryaskequalwealthsubjectrefuse |  
+| bip_39_word_no_space_8 | dressgloryaskequalwealthsubjectrefusedash |  
+| bip_39_word_no_space_9 | dressgloryaskequalwealthsubjectrefusedashkiwi |  
 | bip_39_word_space_0 | ['dress', 'glory', 'ask', 'equal', 'wealth', 'subject', 'refuse', 'dash', 'kiwi', 'luggage', 'reflect'] |  
 | bip_39_word_space_1 | dress |  
 | bip_39_word_space_10 | dress glory ask equal wealth subject refuse dash kiwi luggage |  

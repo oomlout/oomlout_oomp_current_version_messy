@@ -122,6 +122,18 @@ smile
 detect
 cement
 wagon |  
+| bip_39_word_no_space_1 | copy |  
+| bip_39_word_no_space_10 | copysnapfoamensuretidesmiledetectcementwagonbetter |  
+| bip_39_word_no_space_11 | copysnapfoamensuretidesmiledetectcementwagonbetterequip |  
+| bip_39_word_no_space_12 | copysnapfoamensuretidesmiledetectcementwagonbetterequipalbum |  
+| bip_39_word_no_space_2 | copysnap |  
+| bip_39_word_no_space_3 | copysnapfoam |  
+| bip_39_word_no_space_4 | copysnapfoamensure |  
+| bip_39_word_no_space_5 | copysnapfoamensuretide |  
+| bip_39_word_no_space_6 | copysnapfoamensuretidesmile |  
+| bip_39_word_no_space_7 | copysnapfoamensuretidesmiledetect |  
+| bip_39_word_no_space_8 | copysnapfoamensuretidesmiledetectcement |  
+| bip_39_word_no_space_9 | copysnapfoamensuretidesmiledetectcementwagon |  
 | bip_39_word_space_0 | ['copy', 'snap', 'foam', 'ensure', 'tide', 'smile', 'detect', 'cement', 'wagon', 'better', 'equip', 'album'] |  
 | bip_39_word_space_1 | copy |  
 | bip_39_word_space_10 | copy snap foam ensure tide smile detect cement wagon better |  

@@ -122,6 +122,18 @@ traffic
 fiction
 town
 vanish |  
+| bip_39_word_no_space_1 | veteran |  
+| bip_39_word_no_space_10 | veterancaughtridgetodaygazetrafficfictiontownvanishmemory |  
+| bip_39_word_no_space_11 | veterancaughtridgetodaygazetrafficfictiontownvanishmemoryblue |  
+| bip_39_word_no_space_12 | veterancaughtridgetodaygazetrafficfictiontownvanishmemoryblueact |  
+| bip_39_word_no_space_2 | veterancaught |  
+| bip_39_word_no_space_3 | veterancaughtridge |  
+| bip_39_word_no_space_4 | veterancaughtridgetoday |  
+| bip_39_word_no_space_5 | veterancaughtridgetodaygaze |  
+| bip_39_word_no_space_6 | veterancaughtridgetodaygazetraffic |  
+| bip_39_word_no_space_7 | veterancaughtridgetodaygazetrafficfiction |  
+| bip_39_word_no_space_8 | veterancaughtridgetodaygazetrafficfictiontown |  
+| bip_39_word_no_space_9 | veterancaughtridgetodaygazetrafficfictiontownvanish |  
 | bip_39_word_space_0 | ['veteran', 'caught', 'ridge', 'today', 'gaze', 'traffic', 'fiction', 'town', 'vanish', 'memory', 'blue', 'act'] |  
 | bip_39_word_space_1 | veteran |  
 | bip_39_word_space_10 | veteran caught ridge today gaze traffic fiction town vanish memory |  

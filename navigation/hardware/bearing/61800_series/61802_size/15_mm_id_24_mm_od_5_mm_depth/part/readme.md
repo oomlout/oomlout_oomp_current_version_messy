@@ -122,6 +122,18 @@ spirit
 pipe
 tree
 debris |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middlehomedecorateunlockorientspiritpipetreedebristourist |  
+| bip_39_word_no_space_11 | middlehomedecorateunlockorientspiritpipetreedebristouristneither |  
+| bip_39_word_no_space_12 | middlehomedecorateunlockorientspiritpipetreedebristouristneitheractor |  
+| bip_39_word_no_space_2 | middlehome |  
+| bip_39_word_no_space_3 | middlehomedecorate |  
+| bip_39_word_no_space_4 | middlehomedecorateunlock |  
+| bip_39_word_no_space_5 | middlehomedecorateunlockorient |  
+| bip_39_word_no_space_6 | middlehomedecorateunlockorientspirit |  
+| bip_39_word_no_space_7 | middlehomedecorateunlockorientspiritpipe |  
+| bip_39_word_no_space_8 | middlehomedecorateunlockorientspiritpipetree |  
+| bip_39_word_no_space_9 | middlehomedecorateunlockorientspiritpipetreedebris |  
 | bip_39_word_space_0 | ['middle', 'home', 'decorate', 'unlock', 'orient', 'spirit', 'pipe', 'tree', 'debris', 'tourist', 'neither', 'actor'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle home decorate unlock orient spirit pipe tree debris tourist |  

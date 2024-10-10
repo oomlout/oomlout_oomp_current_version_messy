@@ -122,6 +122,18 @@ moon
 cake
 pull
 ring |  
+| bip_39_word_no_space_1 | celery |  
+| bip_39_word_no_space_10 | celeryironlensguessstaffmooncakepullringslim |  
+| bip_39_word_no_space_11 | celeryironlensguessstaffmooncakepullringslimmom |  
+| bip_39_word_no_space_12 | celeryironlensguessstaffmooncakepullringslimmomalpha |  
+| bip_39_word_no_space_2 | celeryiron |  
+| bip_39_word_no_space_3 | celeryironlens |  
+| bip_39_word_no_space_4 | celeryironlensguess |  
+| bip_39_word_no_space_5 | celeryironlensguessstaff |  
+| bip_39_word_no_space_6 | celeryironlensguessstaffmoon |  
+| bip_39_word_no_space_7 | celeryironlensguessstaffmooncake |  
+| bip_39_word_no_space_8 | celeryironlensguessstaffmooncakepull |  
+| bip_39_word_no_space_9 | celeryironlensguessstaffmooncakepullring |  
 | bip_39_word_space_0 | ['celery', 'iron', 'lens', 'guess', 'staff', 'moon', 'cake', 'pull', 'ring', 'slim', 'mom', 'alpha'] |  
 | bip_39_word_space_1 | celery |  
 | bip_39_word_space_10 | celery iron lens guess staff moon cake pull ring slim |  

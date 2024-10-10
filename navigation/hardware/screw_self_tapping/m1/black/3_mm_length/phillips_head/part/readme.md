@@ -122,6 +122,18 @@ fiscal
 fossil
 alarm
 stumble |  
+| bip_39_word_no_space_1 | type |  
+| bip_39_word_no_space_10 | typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillage |  
+| bip_39_word_no_space_11 | typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillagegrief |  
+| bip_39_word_no_space_12 | typeaddictbrokenaheadawkwardfiscalfossilalarmstumblevillagegriefaim |  
+| bip_39_word_no_space_2 | typeaddict |  
+| bip_39_word_no_space_3 | typeaddictbroken |  
+| bip_39_word_no_space_4 | typeaddictbrokenahead |  
+| bip_39_word_no_space_5 | typeaddictbrokenaheadawkward |  
+| bip_39_word_no_space_6 | typeaddictbrokenaheadawkwardfiscal |  
+| bip_39_word_no_space_7 | typeaddictbrokenaheadawkwardfiscalfossil |  
+| bip_39_word_no_space_8 | typeaddictbrokenaheadawkwardfiscalfossilalarm |  
+| bip_39_word_no_space_9 | typeaddictbrokenaheadawkwardfiscalfossilalarmstumble |  
 | bip_39_word_space_0 | ['type', 'addict', 'broken', 'ahead', 'awkward', 'fiscal', 'fossil', 'alarm', 'stumble', 'village', 'grief', 'aim'] |  
 | bip_39_word_space_1 | type |  
 | bip_39_word_space_10 | type addict broken ahead awkward fiscal fossil alarm stumble village |  

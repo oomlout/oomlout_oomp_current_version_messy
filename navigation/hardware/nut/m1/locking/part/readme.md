@@ -122,6 +122,18 @@ admit
 essence
 picture
 promote |  
+| bip_39_word_no_space_1 | income |  
+| bip_39_word_no_space_10 | incomedemisedevotepraisetreeadmitessencepicturepromoteblue |  
+| bip_39_word_no_space_11 | incomedemisedevotepraisetreeadmitessencepicturepromoteblueessence |  
+| bip_39_word_no_space_12 | incomedemisedevotepraisetreeadmitessencepicturepromoteblueessenceaccount |  
+| bip_39_word_no_space_2 | incomedemise |  
+| bip_39_word_no_space_3 | incomedemisedevote |  
+| bip_39_word_no_space_4 | incomedemisedevotepraise |  
+| bip_39_word_no_space_5 | incomedemisedevotepraisetree |  
+| bip_39_word_no_space_6 | incomedemisedevotepraisetreeadmit |  
+| bip_39_word_no_space_7 | incomedemisedevotepraisetreeadmitessence |  
+| bip_39_word_no_space_8 | incomedemisedevotepraisetreeadmitessencepicture |  
+| bip_39_word_no_space_9 | incomedemisedevotepraisetreeadmitessencepicturepromote |  
 | bip_39_word_space_0 | ['income', 'demise', 'devote', 'praise', 'tree', 'admit', 'essence', 'picture', 'promote', 'blue', 'essence', 'account'] |  
 | bip_39_word_space_1 | income |  
 | bip_39_word_space_10 | income demise devote praise tree admit essence picture promote blue |  

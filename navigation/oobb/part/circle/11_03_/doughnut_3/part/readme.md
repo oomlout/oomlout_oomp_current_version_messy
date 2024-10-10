@@ -122,6 +122,18 @@ biology
 office
 celery
 end |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energywallharshvalveupsetbiologyofficeceleryendswing |  
+| bip_39_word_no_space_11 | energywallharshvalveupsetbiologyofficeceleryendswingthought |  
+| bip_39_word_no_space_12 | energywallharshvalveupsetbiologyofficeceleryendswingthoughtaerobic |  
+| bip_39_word_no_space_2 | energywall |  
+| bip_39_word_no_space_3 | energywallharsh |  
+| bip_39_word_no_space_4 | energywallharshvalve |  
+| bip_39_word_no_space_5 | energywallharshvalveupset |  
+| bip_39_word_no_space_6 | energywallharshvalveupsetbiology |  
+| bip_39_word_no_space_7 | energywallharshvalveupsetbiologyoffice |  
+| bip_39_word_no_space_8 | energywallharshvalveupsetbiologyofficecelery |  
+| bip_39_word_no_space_9 | energywallharshvalveupsetbiologyofficeceleryend |  
 | bip_39_word_space_0 | ['energy', 'wall', 'harsh', 'valve', 'upset', 'biology', 'office', 'celery', 'end', 'swing', 'thought', 'aerobic'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy wall harsh valve upset biology office celery end swing |  

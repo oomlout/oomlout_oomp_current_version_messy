@@ -122,6 +122,18 @@ smooth
 degree
 update
 wedding |  
+| bip_39_word_no_space_1 | square |  
+| bip_39_word_no_space_10 | squaredwarforphandutycategorysmoothdegreeupdateweddingexhibit |  
+| bip_39_word_no_space_11 | squaredwarforphandutycategorysmoothdegreeupdateweddingexhibitgather |  
+| bip_39_word_no_space_12 | squaredwarforphandutycategorysmoothdegreeupdateweddingexhibitgatherafford |  
+| bip_39_word_no_space_2 | squaredwarf |  
+| bip_39_word_no_space_3 | squaredwarforphan |  
+| bip_39_word_no_space_4 | squaredwarforphanduty |  
+| bip_39_word_no_space_5 | squaredwarforphandutycategory |  
+| bip_39_word_no_space_6 | squaredwarforphandutycategorysmooth |  
+| bip_39_word_no_space_7 | squaredwarforphandutycategorysmoothdegree |  
+| bip_39_word_no_space_8 | squaredwarforphandutycategorysmoothdegreeupdate |  
+| bip_39_word_no_space_9 | squaredwarforphandutycategorysmoothdegreeupdatewedding |  
 | bip_39_word_space_0 | ['square', 'dwarf', 'orphan', 'duty', 'category', 'smooth', 'degree', 'update', 'wedding', 'exhibit', 'gather', 'afford'] |  
 | bip_39_word_space_1 | square |  
 | bip_39_word_space_10 | square dwarf orphan duty category smooth degree update wedding exhibit |  

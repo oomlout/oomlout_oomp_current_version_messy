@@ -122,6 +122,18 @@ toss
 imitate
 aerobic
 pizza |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotteryvisitsyrupdirectciviltossimitateaerobicpizzacurious |  
+| bip_39_word_no_space_11 | lotteryvisitsyrupdirectciviltossimitateaerobicpizzacuriousdecorate |  
+| bip_39_word_no_space_12 | lotteryvisitsyrupdirectciviltossimitateaerobicpizzacuriousdecoratealone |  
+| bip_39_word_no_space_2 | lotteryvisit |  
+| bip_39_word_no_space_3 | lotteryvisitsyrup |  
+| bip_39_word_no_space_4 | lotteryvisitsyrupdirect |  
+| bip_39_word_no_space_5 | lotteryvisitsyrupdirectcivil |  
+| bip_39_word_no_space_6 | lotteryvisitsyrupdirectciviltoss |  
+| bip_39_word_no_space_7 | lotteryvisitsyrupdirectciviltossimitate |  
+| bip_39_word_no_space_8 | lotteryvisitsyrupdirectciviltossimitateaerobic |  
+| bip_39_word_no_space_9 | lotteryvisitsyrupdirectciviltossimitateaerobicpizza |  
 | bip_39_word_space_0 | ['lottery', 'visit', 'syrup', 'direct', 'civil', 'toss', 'imitate', 'aerobic', 'pizza', 'curious', 'decorate', 'alone'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery visit syrup direct civil toss imitate aerobic pizza curious |  

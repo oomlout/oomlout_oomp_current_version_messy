@@ -122,6 +122,18 @@ spoil
 solve
 govern
 armor |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwayhumorabovepistolinsidespoilsolvegovernarmorkeep |  
+| bip_39_word_no_space_11 | runwayhumorabovepistolinsidespoilsolvegovernarmorkeeprender |  
+| bip_39_word_no_space_12 | runwayhumorabovepistolinsidespoilsolvegovernarmorkeeprenderabove |  
+| bip_39_word_no_space_2 | runwayhumor |  
+| bip_39_word_no_space_3 | runwayhumorabove |  
+| bip_39_word_no_space_4 | runwayhumorabovepistol |  
+| bip_39_word_no_space_5 | runwayhumorabovepistolinside |  
+| bip_39_word_no_space_6 | runwayhumorabovepistolinsidespoil |  
+| bip_39_word_no_space_7 | runwayhumorabovepistolinsidespoilsolve |  
+| bip_39_word_no_space_8 | runwayhumorabovepistolinsidespoilsolvegovern |  
+| bip_39_word_no_space_9 | runwayhumorabovepistolinsidespoilsolvegovernarmor |  
 | bip_39_word_space_0 | ['runway', 'humor', 'above', 'pistol', 'inside', 'spoil', 'solve', 'govern', 'armor', 'keep', 'render', 'above'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway humor above pistol inside spoil solve govern armor keep |  

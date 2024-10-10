@@ -122,6 +122,18 @@ tomato
 damp
 funny
 hill |  
+| bip_39_word_no_space_1 | combine |  
+| bip_39_word_no_space_10 | combineselltrainpianominimumtomatodampfunnyhillrecall |  
+| bip_39_word_no_space_11 | combineselltrainpianominimumtomatodampfunnyhillrecallsong |  
+| bip_39_word_no_space_12 | combineselltrainpianominimumtomatodampfunnyhillrecallsongadd |  
+| bip_39_word_no_space_2 | combinesell |  
+| bip_39_word_no_space_3 | combineselltrain |  
+| bip_39_word_no_space_4 | combineselltrainpiano |  
+| bip_39_word_no_space_5 | combineselltrainpianominimum |  
+| bip_39_word_no_space_6 | combineselltrainpianominimumtomato |  
+| bip_39_word_no_space_7 | combineselltrainpianominimumtomatodamp |  
+| bip_39_word_no_space_8 | combineselltrainpianominimumtomatodampfunny |  
+| bip_39_word_no_space_9 | combineselltrainpianominimumtomatodampfunnyhill |  
 | bip_39_word_space_0 | ['combine', 'sell', 'train', 'piano', 'minimum', 'tomato', 'damp', 'funny', 'hill', 'recall', 'song', 'add'] |  
 | bip_39_word_space_1 | combine |  
 | bip_39_word_space_10 | combine sell train piano minimum tomato damp funny hill recall |  

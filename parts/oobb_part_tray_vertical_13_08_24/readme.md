@@ -122,6 +122,18 @@ van
 foam
 basic
 flight |  
+| bip_39_word_no_space_1 | kidney |  
+| bip_39_word_no_space_10 | kidneyreasonmeadowcagecarbonvanfoambasicflightsudden |  
+| bip_39_word_no_space_11 | kidneyreasonmeadowcagecarbonvanfoambasicflightsuddenaffair |  
+| bip_39_word_no_space_12 | kidneyreasonmeadowcagecarbonvanfoambasicflightsuddenaffairalways |  
+| bip_39_word_no_space_2 | kidneyreason |  
+| bip_39_word_no_space_3 | kidneyreasonmeadow |  
+| bip_39_word_no_space_4 | kidneyreasonmeadowcage |  
+| bip_39_word_no_space_5 | kidneyreasonmeadowcagecarbon |  
+| bip_39_word_no_space_6 | kidneyreasonmeadowcagecarbonvan |  
+| bip_39_word_no_space_7 | kidneyreasonmeadowcagecarbonvanfoam |  
+| bip_39_word_no_space_8 | kidneyreasonmeadowcagecarbonvanfoambasic |  
+| bip_39_word_no_space_9 | kidneyreasonmeadowcagecarbonvanfoambasicflight |  
 | bip_39_word_space_0 | ['kidney', 'reason', 'meadow', 'cage', 'carbon', 'van', 'foam', 'basic', 'flight', 'sudden', 'affair', 'always'] |  
 | bip_39_word_space_1 | kidney |  
 | bip_39_word_space_10 | kidney reason meadow cage carbon van foam basic flight sudden |  

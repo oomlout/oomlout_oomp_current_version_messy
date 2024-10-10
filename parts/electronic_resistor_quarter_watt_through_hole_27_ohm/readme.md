@@ -122,6 +122,18 @@ file
 gentle
 rug
 guide |  
+| bip_39_word_no_space_1 | correct |  
+| bip_39_word_no_space_10 | correctenginemonsterfallordinaryfilegentlerugguidepalm |  
+| bip_39_word_no_space_11 | correctenginemonsterfallordinaryfilegentlerugguidepalmcaution |  
+| bip_39_word_no_space_12 | correctenginemonsterfallordinaryfilegentlerugguidepalmcautionanother |  
+| bip_39_word_no_space_2 | correctengine |  
+| bip_39_word_no_space_3 | correctenginemonster |  
+| bip_39_word_no_space_4 | correctenginemonsterfall |  
+| bip_39_word_no_space_5 | correctenginemonsterfallordinary |  
+| bip_39_word_no_space_6 | correctenginemonsterfallordinaryfile |  
+| bip_39_word_no_space_7 | correctenginemonsterfallordinaryfilegentle |  
+| bip_39_word_no_space_8 | correctenginemonsterfallordinaryfilegentlerug |  
+| bip_39_word_no_space_9 | correctenginemonsterfallordinaryfilegentlerugguide |  
 | bip_39_word_space_0 | ['correct', 'engine', 'monster', 'fall', 'ordinary', 'file', 'gentle', 'rug', 'guide', 'palm', 'caution', 'another'] |  
 | bip_39_word_space_1 | correct |  
 | bip_39_word_space_10 | correct engine monster fall ordinary file gentle rug guide palm |  

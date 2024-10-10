@@ -122,6 +122,18 @@ diamond
 cage
 crop
 field |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicclaimpartygloryskulldiamondcagecropfieldmercy |  
+| bip_39_word_no_space_11 | picnicclaimpartygloryskulldiamondcagecropfieldmercyhelp |  
+| bip_39_word_no_space_12 | picnicclaimpartygloryskulldiamondcagecropfieldmercyhelpaddress |  
+| bip_39_word_no_space_2 | picnicclaim |  
+| bip_39_word_no_space_3 | picnicclaimparty |  
+| bip_39_word_no_space_4 | picnicclaimpartyglory |  
+| bip_39_word_no_space_5 | picnicclaimpartygloryskull |  
+| bip_39_word_no_space_6 | picnicclaimpartygloryskulldiamond |  
+| bip_39_word_no_space_7 | picnicclaimpartygloryskulldiamondcage |  
+| bip_39_word_no_space_8 | picnicclaimpartygloryskulldiamondcagecrop |  
+| bip_39_word_no_space_9 | picnicclaimpartygloryskulldiamondcagecropfield |  
 | bip_39_word_space_0 | ['picnic', 'claim', 'party', 'glory', 'skull', 'diamond', 'cage', 'crop', 'field', 'mercy', 'help', 'address'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic claim party glory skull diamond cage crop field mercy |  

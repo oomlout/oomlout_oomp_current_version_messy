@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'frog
   fine
 
   muffin'
+bip_39_word_no_space_1: frog
+bip_39_word_no_space_10: frogclimbgridsurprisedetectleftdeputyfinemuffinendorse
+bip_39_word_no_space_11: frogclimbgridsurprisedetectleftdeputyfinemuffinendorseenrich
+bip_39_word_no_space_12: frogclimbgridsurprisedetectleftdeputyfinemuffinendorseenrichartwork
+bip_39_word_no_space_2: frogclimb
+bip_39_word_no_space_3: frogclimbgrid
+bip_39_word_no_space_4: frogclimbgridsurprise
+bip_39_word_no_space_5: frogclimbgridsurprisedetect
+bip_39_word_no_space_6: frogclimbgridsurprisedetectleft
+bip_39_word_no_space_7: frogclimbgridsurprisedetectleftdeputy
+bip_39_word_no_space_8: frogclimbgridsurprisedetectleftdeputyfine
+bip_39_word_no_space_9: frogclimbgridsurprisedetectleftdeputyfinemuffin
 bip_39_word_space_0:
 - frog
 - climb

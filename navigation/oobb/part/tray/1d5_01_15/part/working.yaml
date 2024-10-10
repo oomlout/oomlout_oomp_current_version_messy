@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'crisp
   huge
 
   hour'
+bip_39_word_no_space_1: crisp
+bip_39_word_no_space_10: crispsaymotoroneclustergridglimpsehugehourbid
+bip_39_word_no_space_11: crispsaymotoroneclustergridglimpsehugehourbidtitle
+bip_39_word_no_space_12: crispsaymotoroneclustergridglimpsehugehourbidtitleachieve
+bip_39_word_no_space_2: crispsay
+bip_39_word_no_space_3: crispsaymotor
+bip_39_word_no_space_4: crispsaymotorone
+bip_39_word_no_space_5: crispsaymotoronecluster
+bip_39_word_no_space_6: crispsaymotoroneclustergrid
+bip_39_word_no_space_7: crispsaymotoroneclustergridglimpse
+bip_39_word_no_space_8: crispsaymotoroneclustergridglimpsehuge
+bip_39_word_no_space_9: crispsaymotoroneclustergridglimpsehugehour
 bip_39_word_space_0:
 - crisp
 - say

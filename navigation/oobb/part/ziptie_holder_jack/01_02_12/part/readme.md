@@ -122,6 +122,18 @@ bring
 twelve
 cushion
 benefit |  
+| bip_39_word_no_space_1 | fatal |  
+| bip_39_word_no_space_10 | fatalharvestvehicledutchcandybringtwelvecushionbenefitcrouch |  
+| bip_39_word_no_space_11 | fatalharvestvehicledutchcandybringtwelvecushionbenefitcrouchclub |  
+| bip_39_word_no_space_12 | fatalharvestvehicledutchcandybringtwelvecushionbenefitcrouchclubaddress |  
+| bip_39_word_no_space_2 | fatalharvest |  
+| bip_39_word_no_space_3 | fatalharvestvehicle |  
+| bip_39_word_no_space_4 | fatalharvestvehicledutch |  
+| bip_39_word_no_space_5 | fatalharvestvehicledutchcandy |  
+| bip_39_word_no_space_6 | fatalharvestvehicledutchcandybring |  
+| bip_39_word_no_space_7 | fatalharvestvehicledutchcandybringtwelve |  
+| bip_39_word_no_space_8 | fatalharvestvehicledutchcandybringtwelvecushion |  
+| bip_39_word_no_space_9 | fatalharvestvehicledutchcandybringtwelvecushionbenefit |  
 | bip_39_word_space_0 | ['fatal', 'harvest', 'vehicle', 'dutch', 'candy', 'bring', 'twelve', 'cushion', 'benefit', 'crouch', 'club', 'address'] |  
 | bip_39_word_space_1 | fatal |  
 | bip_39_word_space_10 | fatal harvest vehicle dutch candy bring twelve cushion benefit crouch |  

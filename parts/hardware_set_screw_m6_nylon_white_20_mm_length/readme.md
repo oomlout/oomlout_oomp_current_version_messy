@@ -122,6 +122,18 @@ nation
 ladder
 stone
 board |  
+| bip_39_word_no_space_1 | swap |  
+| bip_39_word_no_space_10 | swaphavetransferwheelcrouchnationladderstoneboardclump |  
+| bip_39_word_no_space_11 | swaphavetransferwheelcrouchnationladderstoneboardclumpdish |  
+| bip_39_word_no_space_12 | swaphavetransferwheelcrouchnationladderstoneboardclumpdishaim |  
+| bip_39_word_no_space_2 | swaphave |  
+| bip_39_word_no_space_3 | swaphavetransfer |  
+| bip_39_word_no_space_4 | swaphavetransferwheel |  
+| bip_39_word_no_space_5 | swaphavetransferwheelcrouch |  
+| bip_39_word_no_space_6 | swaphavetransferwheelcrouchnation |  
+| bip_39_word_no_space_7 | swaphavetransferwheelcrouchnationladder |  
+| bip_39_word_no_space_8 | swaphavetransferwheelcrouchnationladderstone |  
+| bip_39_word_no_space_9 | swaphavetransferwheelcrouchnationladderstoneboard |  
 | bip_39_word_space_0 | ['swap', 'have', 'transfer', 'wheel', 'crouch', 'nation', 'ladder', 'stone', 'board', 'clump', 'dish', 'aim'] |  
 | bip_39_word_space_1 | swap |  
 | bip_39_word_space_10 | swap have transfer wheel crouch nation ladder stone board clump |  

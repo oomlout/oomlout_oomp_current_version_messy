@@ -122,6 +122,18 @@ tonight
 myself
 damage
 street |  
+| bip_39_word_no_space_1 | edit |  
+| bip_39_word_no_space_10 | editchapterphysicalfloortypetonightmyselfdamagestreetdelay |  
+| bip_39_word_no_space_11 | editchapterphysicalfloortypetonightmyselfdamagestreetdelaysyrup |  
+| bip_39_word_no_space_12 | editchapterphysicalfloortypetonightmyselfdamagestreetdelaysyrupaugust |  
+| bip_39_word_no_space_2 | editchapter |  
+| bip_39_word_no_space_3 | editchapterphysical |  
+| bip_39_word_no_space_4 | editchapterphysicalfloor |  
+| bip_39_word_no_space_5 | editchapterphysicalfloortype |  
+| bip_39_word_no_space_6 | editchapterphysicalfloortypetonight |  
+| bip_39_word_no_space_7 | editchapterphysicalfloortypetonightmyself |  
+| bip_39_word_no_space_8 | editchapterphysicalfloortypetonightmyselfdamage |  
+| bip_39_word_no_space_9 | editchapterphysicalfloortypetonightmyselfdamagestreet |  
 | bip_39_word_space_0 | ['edit', 'chapter', 'physical', 'floor', 'type', 'tonight', 'myself', 'damage', 'street', 'delay', 'syrup', 'august'] |  
 | bip_39_word_space_1 | edit |  
 | bip_39_word_space_10 | edit chapter physical floor type tonight myself damage street delay |  

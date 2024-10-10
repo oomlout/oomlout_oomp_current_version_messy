@@ -122,6 +122,18 @@ swift
 spell
 diet
 hen |  
+| bip_39_word_no_space_1 | develop |  
+| bip_39_word_no_space_10 | developtoypossibledetectroastswiftspelldiethenswap |  
+| bip_39_word_no_space_11 | developtoypossibledetectroastswiftspelldiethenswapthank |  
+| bip_39_word_no_space_12 | developtoypossibledetectroastswiftspelldiethenswapthankagain |  
+| bip_39_word_no_space_2 | developtoy |  
+| bip_39_word_no_space_3 | developtoypossible |  
+| bip_39_word_no_space_4 | developtoypossibledetect |  
+| bip_39_word_no_space_5 | developtoypossibledetectroast |  
+| bip_39_word_no_space_6 | developtoypossibledetectroastswift |  
+| bip_39_word_no_space_7 | developtoypossibledetectroastswiftspell |  
+| bip_39_word_no_space_8 | developtoypossibledetectroastswiftspelldiet |  
+| bip_39_word_no_space_9 | developtoypossibledetectroastswiftspelldiethen |  
 | bip_39_word_space_0 | ['develop', 'toy', 'possible', 'detect', 'roast', 'swift', 'spell', 'diet', 'hen', 'swap', 'thank', 'again'] |  
 | bip_39_word_space_1 | develop |  
 | bip_39_word_space_10 | develop toy possible detect roast swift spell diet hen swap |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gossip
   follow
 
   edge'
+bip_39_word_no_space_1: gossip
+bip_39_word_no_space_10: gossipcolumnwayswearletterkitchenboilfollowedgeslim
+bip_39_word_no_space_11: gossipcolumnwayswearletterkitchenboilfollowedgeslimnight
+bip_39_word_no_space_12: gossipcolumnwayswearletterkitchenboilfollowedgeslimnightaffair
+bip_39_word_no_space_2: gossipcolumn
+bip_39_word_no_space_3: gossipcolumnway
+bip_39_word_no_space_4: gossipcolumnwayswear
+bip_39_word_no_space_5: gossipcolumnwayswearletter
+bip_39_word_no_space_6: gossipcolumnwayswearletterkitchen
+bip_39_word_no_space_7: gossipcolumnwayswearletterkitchenboil
+bip_39_word_no_space_8: gossipcolumnwayswearletterkitchenboilfollow
+bip_39_word_no_space_9: gossipcolumnwayswearletterkitchenboilfollowedge
 bip_39_word_space_0:
 - gossip
 - column

@@ -122,6 +122,18 @@ sleep
 canvas
 key
 frost |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | trypantherhoodpositiontubesleepcanvaskeyfrostcousin |  
+| bip_39_word_no_space_11 | trypantherhoodpositiontubesleepcanvaskeyfrostcousinwater |  
+| bip_39_word_no_space_12 | trypantherhoodpositiontubesleepcanvaskeyfrostcousinwaterafraid |  
+| bip_39_word_no_space_2 | trypanther |  
+| bip_39_word_no_space_3 | trypantherhood |  
+| bip_39_word_no_space_4 | trypantherhoodposition |  
+| bip_39_word_no_space_5 | trypantherhoodpositiontube |  
+| bip_39_word_no_space_6 | trypantherhoodpositiontubesleep |  
+| bip_39_word_no_space_7 | trypantherhoodpositiontubesleepcanvas |  
+| bip_39_word_no_space_8 | trypantherhoodpositiontubesleepcanvaskey |  
+| bip_39_word_no_space_9 | trypantherhoodpositiontubesleepcanvaskeyfrost |  
 | bip_39_word_space_0 | ['try', 'panther', 'hood', 'position', 'tube', 'sleep', 'canvas', 'key', 'frost', 'cousin', 'water', 'afraid'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try panther hood position tube sleep canvas key frost cousin |  

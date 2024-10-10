@@ -122,6 +122,18 @@ valley
 primary
 empower
 shield |  
+| bip_39_word_no_space_1 | glide |  
+| bip_39_word_no_space_10 | glidesymptomexplaindrillsearchvalleyprimaryempowershieldeither |  
+| bip_39_word_no_space_11 | glidesymptomexplaindrillsearchvalleyprimaryempowershieldeitherbuild |  
+| bip_39_word_no_space_12 | glidesymptomexplaindrillsearchvalleyprimaryempowershieldeitherbuildacquire |  
+| bip_39_word_no_space_2 | glidesymptom |  
+| bip_39_word_no_space_3 | glidesymptomexplain |  
+| bip_39_word_no_space_4 | glidesymptomexplaindrill |  
+| bip_39_word_no_space_5 | glidesymptomexplaindrillsearch |  
+| bip_39_word_no_space_6 | glidesymptomexplaindrillsearchvalley |  
+| bip_39_word_no_space_7 | glidesymptomexplaindrillsearchvalleyprimary |  
+| bip_39_word_no_space_8 | glidesymptomexplaindrillsearchvalleyprimaryempower |  
+| bip_39_word_no_space_9 | glidesymptomexplaindrillsearchvalleyprimaryempowershield |  
 | bip_39_word_space_0 | ['glide', 'symptom', 'explain', 'drill', 'search', 'valley', 'primary', 'empower', 'shield', 'either', 'build', 'acquire'] |  
 | bip_39_word_space_1 | glide |  
 | bip_39_word_space_10 | glide symptom explain drill search valley primary empower shield either |  

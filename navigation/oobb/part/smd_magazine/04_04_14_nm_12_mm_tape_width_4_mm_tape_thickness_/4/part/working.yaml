@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'rubber
   busy
 
   enlist'
+bip_39_word_no_space_1: rubber
+bip_39_word_no_space_10: rubberhappymiraclethenwinterboyeggbusyenlistjump
+bip_39_word_no_space_11: rubberhappymiraclethenwinterboyeggbusyenlistjumpadvice
+bip_39_word_no_space_2: rubberhappy
+bip_39_word_no_space_3: rubberhappymiracle
+bip_39_word_no_space_4: rubberhappymiraclethen
+bip_39_word_no_space_5: rubberhappymiraclethenwinter
+bip_39_word_no_space_6: rubberhappymiraclethenwinterboy
+bip_39_word_no_space_7: rubberhappymiraclethenwinterboyegg
+bip_39_word_no_space_8: rubberhappymiraclethenwinterboyeggbusy
+bip_39_word_no_space_9: rubberhappymiraclethenwinterboyeggbusyenlist
 bip_39_word_space_0:
 - rubber
 - happy

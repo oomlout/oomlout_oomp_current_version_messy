@@ -122,6 +122,18 @@ double
 black
 road
 inhale |  
+| bip_39_word_no_space_1 | flat |  
+| bip_39_word_no_space_10 | flatrideadviceretreatdangerdoubleblackroadinhalemaximum |  
+| bip_39_word_no_space_11 | flatrideadviceretreatdangerdoubleblackroadinhalemaximumwest |  
+| bip_39_word_no_space_12 | flatrideadviceretreatdangerdoubleblackroadinhalemaximumwestadd |  
+| bip_39_word_no_space_2 | flatride |  
+| bip_39_word_no_space_3 | flatrideadvice |  
+| bip_39_word_no_space_4 | flatrideadviceretreat |  
+| bip_39_word_no_space_5 | flatrideadviceretreatdanger |  
+| bip_39_word_no_space_6 | flatrideadviceretreatdangerdouble |  
+| bip_39_word_no_space_7 | flatrideadviceretreatdangerdoubleblack |  
+| bip_39_word_no_space_8 | flatrideadviceretreatdangerdoubleblackroad |  
+| bip_39_word_no_space_9 | flatrideadviceretreatdangerdoubleblackroadinhale |  
 | bip_39_word_space_0 | ['flat', 'ride', 'advice', 'retreat', 'danger', 'double', 'black', 'road', 'inhale', 'maximum', 'west', 'add'] |  
 | bip_39_word_space_1 | flat |  
 | bip_39_word_space_10 | flat ride advice retreat danger double black road inhale maximum |  

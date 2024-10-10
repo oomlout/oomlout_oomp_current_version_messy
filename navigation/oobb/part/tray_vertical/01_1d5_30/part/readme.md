@@ -122,6 +122,18 @@ latin
 voice
 orange
 flavor |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worryignorehugeagreebroccolilatinvoiceorangeflavorsiren |  
+| bip_39_word_no_space_11 | worryignorehugeagreebroccolilatinvoiceorangeflavorsirenkid |  
+| bip_39_word_no_space_12 | worryignorehugeagreebroccolilatinvoiceorangeflavorsirenkidannual |  
+| bip_39_word_no_space_2 | worryignore |  
+| bip_39_word_no_space_3 | worryignorehuge |  
+| bip_39_word_no_space_4 | worryignorehugeagree |  
+| bip_39_word_no_space_5 | worryignorehugeagreebroccoli |  
+| bip_39_word_no_space_6 | worryignorehugeagreebroccolilatin |  
+| bip_39_word_no_space_7 | worryignorehugeagreebroccolilatinvoice |  
+| bip_39_word_no_space_8 | worryignorehugeagreebroccolilatinvoiceorange |  
+| bip_39_word_no_space_9 | worryignorehugeagreebroccolilatinvoiceorangeflavor |  
 | bip_39_word_space_0 | ['worry', 'ignore', 'huge', 'agree', 'broccoli', 'latin', 'voice', 'orange', 'flavor', 'siren', 'kid', 'annual'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry ignore huge agree broccoli latin voice orange flavor siren |  

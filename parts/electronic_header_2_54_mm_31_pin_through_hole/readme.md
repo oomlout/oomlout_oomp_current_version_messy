@@ -122,6 +122,18 @@ coil
 limit
 sell
 drop |  
+| bip_39_word_no_space_1 | into |  
+| bip_39_word_no_space_10 | intobrownbronzewinterdegreecoillimitselldropadult |  
+| bip_39_word_no_space_11 | intobrownbronzewinterdegreecoillimitselldropadultgarage |  
+| bip_39_word_no_space_12 | intobrownbronzewinterdegreecoillimitselldropadultgarageadult |  
+| bip_39_word_no_space_2 | intobrown |  
+| bip_39_word_no_space_3 | intobrownbronze |  
+| bip_39_word_no_space_4 | intobrownbronzewinter |  
+| bip_39_word_no_space_5 | intobrownbronzewinterdegree |  
+| bip_39_word_no_space_6 | intobrownbronzewinterdegreecoil |  
+| bip_39_word_no_space_7 | intobrownbronzewinterdegreecoillimit |  
+| bip_39_word_no_space_8 | intobrownbronzewinterdegreecoillimitsell |  
+| bip_39_word_no_space_9 | intobrownbronzewinterdegreecoillimitselldrop |  
 | bip_39_word_space_0 | ['into', 'brown', 'bronze', 'winter', 'degree', 'coil', 'limit', 'sell', 'drop', 'adult', 'garage', 'adult'] |  
 | bip_39_word_space_1 | into |  
 | bip_39_word_space_10 | into brown bronze winter degree coil limit sell drop adult |  

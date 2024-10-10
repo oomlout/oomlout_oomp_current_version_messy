@@ -122,6 +122,18 @@ couple
 system
 load
 drum |  
+| bip_39_word_no_space_1 | giant |  
+| bip_39_word_no_space_10 | giantpolarstageduringcashcouplesystemloaddrumminute |  
+| bip_39_word_no_space_11 | giantpolarstageduringcashcouplesystemloaddrumminutecliff |  
+| bip_39_word_no_space_12 | giantpolarstageduringcashcouplesystemloaddrumminutecliffanger |  
+| bip_39_word_no_space_2 | giantpolar |  
+| bip_39_word_no_space_3 | giantpolarstage |  
+| bip_39_word_no_space_4 | giantpolarstageduring |  
+| bip_39_word_no_space_5 | giantpolarstageduringcash |  
+| bip_39_word_no_space_6 | giantpolarstageduringcashcouple |  
+| bip_39_word_no_space_7 | giantpolarstageduringcashcouplesystem |  
+| bip_39_word_no_space_8 | giantpolarstageduringcashcouplesystemload |  
+| bip_39_word_no_space_9 | giantpolarstageduringcashcouplesystemloaddrum |  
 | bip_39_word_space_0 | ['giant', 'polar', 'stage', 'during', 'cash', 'couple', 'system', 'load', 'drum', 'minute', 'cliff', 'anger'] |  
 | bip_39_word_space_1 | giant |  
 | bip_39_word_space_10 | giant polar stage during cash couple system load drum minute |  

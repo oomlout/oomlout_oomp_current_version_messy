@@ -122,6 +122,18 @@ lobster
 bundle
 merry
 dinosaur |  
+| bip_39_word_no_space_1 | parrot |  
+| bip_39_word_no_space_10 | parrotmaidpuzzlekittenseniorlobsterbundlemerrydinosaurpeople |  
+| bip_39_word_no_space_11 | parrotmaidpuzzlekittenseniorlobsterbundlemerrydinosaurpeoplemix |  
+| bip_39_word_no_space_12 | parrotmaidpuzzlekittenseniorlobsterbundlemerrydinosaurpeoplemixantenna |  
+| bip_39_word_no_space_2 | parrotmaid |  
+| bip_39_word_no_space_3 | parrotmaidpuzzle |  
+| bip_39_word_no_space_4 | parrotmaidpuzzlekitten |  
+| bip_39_word_no_space_5 | parrotmaidpuzzlekittensenior |  
+| bip_39_word_no_space_6 | parrotmaidpuzzlekittenseniorlobster |  
+| bip_39_word_no_space_7 | parrotmaidpuzzlekittenseniorlobsterbundle |  
+| bip_39_word_no_space_8 | parrotmaidpuzzlekittenseniorlobsterbundlemerry |  
+| bip_39_word_no_space_9 | parrotmaidpuzzlekittenseniorlobsterbundlemerrydinosaur |  
 | bip_39_word_space_0 | ['parrot', 'maid', 'puzzle', 'kitten', 'senior', 'lobster', 'bundle', 'merry', 'dinosaur', 'people', 'mix', 'antenna'] |  
 | bip_39_word_space_1 | parrot |  
 | bip_39_word_space_10 | parrot maid puzzle kitten senior lobster bundle merry dinosaur people |  

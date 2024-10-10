@@ -122,6 +122,18 @@ round
 barrel
 rice
 you |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintagreebodysubjectdogroundbarrelriceyousweet |  
+| bip_39_word_no_space_11 | faintagreebodysubjectdogroundbarrelriceyousweetthrow |  
+| bip_39_word_no_space_12 | faintagreebodysubjectdogroundbarrelriceyousweetthrowaccuse |  
+| bip_39_word_no_space_2 | faintagree |  
+| bip_39_word_no_space_3 | faintagreebody |  
+| bip_39_word_no_space_4 | faintagreebodysubject |  
+| bip_39_word_no_space_5 | faintagreebodysubjectdog |  
+| bip_39_word_no_space_6 | faintagreebodysubjectdoground |  
+| bip_39_word_no_space_7 | faintagreebodysubjectdogroundbarrel |  
+| bip_39_word_no_space_8 | faintagreebodysubjectdogroundbarrelrice |  
+| bip_39_word_no_space_9 | faintagreebodysubjectdogroundbarrelriceyou |  
 | bip_39_word_space_0 | ['faint', 'agree', 'body', 'subject', 'dog', 'round', 'barrel', 'rice', 'you', 'sweet', 'throw', 'accuse'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint agree body subject dog round barrel rice you sweet |  

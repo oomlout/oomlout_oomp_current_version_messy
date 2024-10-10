@@ -122,6 +122,18 @@ camp
 flag
 paper
 lecture |  
+| bip_39_word_no_space_1 | gadget |  
+| bip_39_word_no_space_10 | gadgetopposeboydaringpovertycampflagpaperlectureraven |  
+| bip_39_word_no_space_11 | gadgetopposeboydaringpovertycampflagpaperlectureravengloom |  
+| bip_39_word_no_space_12 | gadgetopposeboydaringpovertycampflagpaperlectureravengloomactual |  
+| bip_39_word_no_space_2 | gadgetoppose |  
+| bip_39_word_no_space_3 | gadgetopposeboy |  
+| bip_39_word_no_space_4 | gadgetopposeboydaring |  
+| bip_39_word_no_space_5 | gadgetopposeboydaringpoverty |  
+| bip_39_word_no_space_6 | gadgetopposeboydaringpovertycamp |  
+| bip_39_word_no_space_7 | gadgetopposeboydaringpovertycampflag |  
+| bip_39_word_no_space_8 | gadgetopposeboydaringpovertycampflagpaper |  
+| bip_39_word_no_space_9 | gadgetopposeboydaringpovertycampflagpaperlecture |  
 | bip_39_word_space_0 | ['gadget', 'oppose', 'boy', 'daring', 'poverty', 'camp', 'flag', 'paper', 'lecture', 'raven', 'gloom', 'actual'] |  
 | bip_39_word_space_1 | gadget |  
 | bip_39_word_space_10 | gadget oppose boy daring poverty camp flag paper lecture raven |  

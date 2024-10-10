@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'anxiety
   move
 
   puppy'
+bip_39_word_no_space_1: anxiety
+bip_39_word_no_space_10: anxietyaskmarginwrestlepicnicwashspinmovepuppythank
+bip_39_word_no_space_11: anxietyaskmarginwrestlepicnicwashspinmovepuppythankbrother
+bip_39_word_no_space_12: anxietyaskmarginwrestlepicnicwashspinmovepuppythankbrotheraddict
+bip_39_word_no_space_2: anxietyask
+bip_39_word_no_space_3: anxietyaskmargin
+bip_39_word_no_space_4: anxietyaskmarginwrestle
+bip_39_word_no_space_5: anxietyaskmarginwrestlepicnic
+bip_39_word_no_space_6: anxietyaskmarginwrestlepicnicwash
+bip_39_word_no_space_7: anxietyaskmarginwrestlepicnicwashspin
+bip_39_word_no_space_8: anxietyaskmarginwrestlepicnicwashspinmove
+bip_39_word_no_space_9: anxietyaskmarginwrestlepicnicwashspinmovepuppy
 bip_39_word_space_0:
 - anxiety
 - ask

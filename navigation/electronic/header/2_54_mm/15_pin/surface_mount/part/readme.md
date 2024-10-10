@@ -122,6 +122,18 @@ cup
 tired
 mistake
 kit |  
+| bip_39_word_no_space_1 | elevator |  
+| bip_39_word_no_space_10 | elevatortunnelfixdenialoutputcuptiredmistakekitmonkey |  
+| bip_39_word_no_space_11 | elevatortunnelfixdenialoutputcuptiredmistakekitmonkeysniff |  
+| bip_39_word_no_space_12 | elevatortunnelfixdenialoutputcuptiredmistakekitmonkeysniffaction |  
+| bip_39_word_no_space_2 | elevatortunnel |  
+| bip_39_word_no_space_3 | elevatortunnelfix |  
+| bip_39_word_no_space_4 | elevatortunnelfixdenial |  
+| bip_39_word_no_space_5 | elevatortunnelfixdenialoutput |  
+| bip_39_word_no_space_6 | elevatortunnelfixdenialoutputcup |  
+| bip_39_word_no_space_7 | elevatortunnelfixdenialoutputcuptired |  
+| bip_39_word_no_space_8 | elevatortunnelfixdenialoutputcuptiredmistake |  
+| bip_39_word_no_space_9 | elevatortunnelfixdenialoutputcuptiredmistakekit |  
 | bip_39_word_space_0 | ['elevator', 'tunnel', 'fix', 'denial', 'output', 'cup', 'tired', 'mistake', 'kit', 'monkey', 'sniff', 'action'] |  
 | bip_39_word_space_1 | elevator |  
 | bip_39_word_space_10 | elevator tunnel fix denial output cup tired mistake kit monkey |  

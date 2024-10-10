@@ -122,6 +122,18 @@ faith
 renew
 flee
 vessel |  
+| bip_39_word_no_space_1 | wage |  
+| bip_39_word_no_space_10 | wageanglelinksalmondeerfaithrenewfleevesselhockey |  
+| bip_39_word_no_space_11 | wageanglelinksalmondeerfaithrenewfleevesselhockeything |  
+| bip_39_word_no_space_12 | wageanglelinksalmondeerfaithrenewfleevesselhockeythingalmost |  
+| bip_39_word_no_space_2 | wageangle |  
+| bip_39_word_no_space_3 | wageanglelink |  
+| bip_39_word_no_space_4 | wageanglelinksalmon |  
+| bip_39_word_no_space_5 | wageanglelinksalmondeer |  
+| bip_39_word_no_space_6 | wageanglelinksalmondeerfaith |  
+| bip_39_word_no_space_7 | wageanglelinksalmondeerfaithrenew |  
+| bip_39_word_no_space_8 | wageanglelinksalmondeerfaithrenewflee |  
+| bip_39_word_no_space_9 | wageanglelinksalmondeerfaithrenewfleevessel |  
 | bip_39_word_space_0 | ['wage', 'angle', 'link', 'salmon', 'deer', 'faith', 'renew', 'flee', 'vessel', 'hockey', 'thing', 'almost'] |  
 | bip_39_word_space_1 | wage |  
 | bip_39_word_space_10 | wage angle link salmon deer faith renew flee vessel hockey |  

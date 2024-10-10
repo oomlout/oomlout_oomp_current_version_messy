@@ -122,6 +122,18 @@ begin
 pottery
 clean
 flush |  
+| bip_39_word_no_space_1 | cream |  
+| bip_39_word_no_space_10 | creamstadiummeasureponyplungebeginpotterycleanflushremind |  
+| bip_39_word_no_space_11 | creamstadiummeasureponyplungebeginpotterycleanflushremindslam |  
+| bip_39_word_no_space_12 | creamstadiummeasureponyplungebeginpotterycleanflushremindslamalready |  
+| bip_39_word_no_space_2 | creamstadium |  
+| bip_39_word_no_space_3 | creamstadiummeasure |  
+| bip_39_word_no_space_4 | creamstadiummeasurepony |  
+| bip_39_word_no_space_5 | creamstadiummeasureponyplunge |  
+| bip_39_word_no_space_6 | creamstadiummeasureponyplungebegin |  
+| bip_39_word_no_space_7 | creamstadiummeasureponyplungebeginpottery |  
+| bip_39_word_no_space_8 | creamstadiummeasureponyplungebeginpotteryclean |  
+| bip_39_word_no_space_9 | creamstadiummeasureponyplungebeginpotterycleanflush |  
 | bip_39_word_space_0 | ['cream', 'stadium', 'measure', 'pony', 'plunge', 'begin', 'pottery', 'clean', 'flush', 'remind', 'slam', 'already'] |  
 | bip_39_word_space_1 | cream |  
 | bip_39_word_space_10 | cream stadium measure pony plunge begin pottery clean flush remind |  

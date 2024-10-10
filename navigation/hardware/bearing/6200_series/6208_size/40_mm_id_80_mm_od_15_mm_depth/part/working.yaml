@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'slab
   cheese
 
   catch'
+bip_39_word_no_space_1: slab
+bip_39_word_no_space_10: slabauctionbecomebulbtoothgladtoothcheesecatchinvite
+bip_39_word_no_space_11: slabauctionbecomebulbtoothgladtoothcheesecatchinvitesolution
+bip_39_word_no_space_12: slabauctionbecomebulbtoothgladtoothcheesecatchinvitesolutionalarm
+bip_39_word_no_space_2: slabauction
+bip_39_word_no_space_3: slabauctionbecome
+bip_39_word_no_space_4: slabauctionbecomebulb
+bip_39_word_no_space_5: slabauctionbecomebulbtooth
+bip_39_word_no_space_6: slabauctionbecomebulbtoothglad
+bip_39_word_no_space_7: slabauctionbecomebulbtoothgladtooth
+bip_39_word_no_space_8: slabauctionbecomebulbtoothgladtoothcheese
+bip_39_word_no_space_9: slabauctionbecomebulbtoothgladtoothcheesecatch
 bip_39_word_space_0:
 - slab
 - auction

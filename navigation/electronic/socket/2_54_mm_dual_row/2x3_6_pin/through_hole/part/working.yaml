@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'round
   twelve
 
   film'
+bip_39_word_no_space_1: round
+bip_39_word_no_space_10: roundmimicseminardealprisonolderasetwelvefilmstay
+bip_39_word_no_space_11: roundmimicseminardealprisonolderasetwelvefilmstayacquire
+bip_39_word_no_space_12: roundmimicseminardealprisonolderasetwelvefilmstayacquireachieve
+bip_39_word_no_space_2: roundmimic
+bip_39_word_no_space_3: roundmimicseminar
+bip_39_word_no_space_4: roundmimicseminardeal
+bip_39_word_no_space_5: roundmimicseminardealprison
+bip_39_word_no_space_6: roundmimicseminardealprisonold
+bip_39_word_no_space_7: roundmimicseminardealprisonolderase
+bip_39_word_no_space_8: roundmimicseminardealprisonolderasetwelve
+bip_39_word_no_space_9: roundmimicseminardealprisonolderasetwelvefilm
 bip_39_word_space_0:
 - round
 - mimic

@@ -122,6 +122,18 @@ volume
 trap
 tennis
 dignity |  
+| bip_39_word_no_space_1 | harvest |  
+| bip_39_word_no_space_10 | harvestprisonkingdomgainvisavolumetraptennisdignitygame |  
+| bip_39_word_no_space_11 | harvestprisonkingdomgainvisavolumetraptennisdignitygamewant |  
+| bip_39_word_no_space_12 | harvestprisonkingdomgainvisavolumetraptennisdignitygamewantahead |  
+| bip_39_word_no_space_2 | harvestprison |  
+| bip_39_word_no_space_3 | harvestprisonkingdom |  
+| bip_39_word_no_space_4 | harvestprisonkingdomgain |  
+| bip_39_word_no_space_5 | harvestprisonkingdomgainvisa |  
+| bip_39_word_no_space_6 | harvestprisonkingdomgainvisavolume |  
+| bip_39_word_no_space_7 | harvestprisonkingdomgainvisavolumetrap |  
+| bip_39_word_no_space_8 | harvestprisonkingdomgainvisavolumetraptennis |  
+| bip_39_word_no_space_9 | harvestprisonkingdomgainvisavolumetraptennisdignity |  
 | bip_39_word_space_0 | ['harvest', 'prison', 'kingdom', 'gain', 'visa', 'volume', 'trap', 'tennis', 'dignity', 'game', 'want', 'ahead'] |  
 | bip_39_word_space_1 | harvest |  
 | bip_39_word_space_10 | harvest prison kingdom gain visa volume trap tennis dignity game |  

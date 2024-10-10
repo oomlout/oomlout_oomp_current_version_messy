@@ -122,6 +122,18 @@ mouse
 nasty
 length
 hunt |  
+| bip_39_word_no_space_1 | shoe |  
+| bip_39_word_no_space_10 | shoebreadraremiseryworkmousenastylengthhuntcorn |  
+| bip_39_word_no_space_11 | shoebreadraremiseryworkmousenastylengthhuntcornhawk |  
+| bip_39_word_no_space_12 | shoebreadraremiseryworkmousenastylengthhuntcornhawkacid |  
+| bip_39_word_no_space_2 | shoebread |  
+| bip_39_word_no_space_3 | shoebreadrare |  
+| bip_39_word_no_space_4 | shoebreadraremisery |  
+| bip_39_word_no_space_5 | shoebreadraremiserywork |  
+| bip_39_word_no_space_6 | shoebreadraremiseryworkmouse |  
+| bip_39_word_no_space_7 | shoebreadraremiseryworkmousenasty |  
+| bip_39_word_no_space_8 | shoebreadraremiseryworkmousenastylength |  
+| bip_39_word_no_space_9 | shoebreadraremiseryworkmousenastylengthhunt |  
 | bip_39_word_space_0 | ['shoe', 'bread', 'rare', 'misery', 'work', 'mouse', 'nasty', 'length', 'hunt', 'corn', 'hawk', 'acid'] |  
 | bip_39_word_space_1 | shoe |  
 | bip_39_word_space_10 | shoe bread rare misery work mouse nasty length hunt corn |  

@@ -122,6 +122,18 @@ tiger
 marble
 chronic
 private |  
+| bip_39_word_no_space_1 | poverty |  
+| bip_39_word_no_space_10 | povertyinjuryturtleshoulderfamilytigermarblechronicprivateparrot |  
+| bip_39_word_no_space_11 | povertyinjuryturtleshoulderfamilytigermarblechronicprivateparrotwagon |  
+| bip_39_word_no_space_12 | povertyinjuryturtleshoulderfamilytigermarblechronicprivateparrotwagonanalyst |  
+| bip_39_word_no_space_2 | povertyinjury |  
+| bip_39_word_no_space_3 | povertyinjuryturtle |  
+| bip_39_word_no_space_4 | povertyinjuryturtleshoulder |  
+| bip_39_word_no_space_5 | povertyinjuryturtleshoulderfamily |  
+| bip_39_word_no_space_6 | povertyinjuryturtleshoulderfamilytiger |  
+| bip_39_word_no_space_7 | povertyinjuryturtleshoulderfamilytigermarble |  
+| bip_39_word_no_space_8 | povertyinjuryturtleshoulderfamilytigermarblechronic |  
+| bip_39_word_no_space_9 | povertyinjuryturtleshoulderfamilytigermarblechronicprivate |  
 | bip_39_word_space_0 | ['poverty', 'injury', 'turtle', 'shoulder', 'family', 'tiger', 'marble', 'chronic', 'private', 'parrot', 'wagon', 'analyst'] |  
 | bip_39_word_space_1 | poverty |  
 | bip_39_word_space_10 | poverty injury turtle shoulder family tiger marble chronic private parrot |  

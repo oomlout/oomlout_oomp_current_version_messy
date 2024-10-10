@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'kiwi
   paper
 
   vivid'
+bip_39_word_no_space_1: kiwi
+bip_39_word_no_space_10: kiwioliveseedawarelegendgaugequantumpapervividerosion
+bip_39_word_no_space_11: kiwioliveseedawarelegendgaugequantumpapervividerosiongrab
+bip_39_word_no_space_12: kiwioliveseedawarelegendgaugequantumpapervividerosiongrabadult
+bip_39_word_no_space_2: kiwiolive
+bip_39_word_no_space_3: kiwioliveseed
+bip_39_word_no_space_4: kiwioliveseedaware
+bip_39_word_no_space_5: kiwioliveseedawarelegend
+bip_39_word_no_space_6: kiwioliveseedawarelegendgauge
+bip_39_word_no_space_7: kiwioliveseedawarelegendgaugequantum
+bip_39_word_no_space_8: kiwioliveseedawarelegendgaugequantumpaper
+bip_39_word_no_space_9: kiwioliveseedawarelegendgaugequantumpapervivid
 bip_39_word_space_0:
 - kiwi
 - olive

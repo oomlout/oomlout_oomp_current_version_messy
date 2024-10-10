@@ -122,6 +122,18 @@ betray
 kitchen
 track
 version |  
+| bip_39_word_no_space_1 | include |  
+| bip_39_word_no_space_10 | includebarelymeasurebuyerparkbetraykitchentrackversionexample |  
+| bip_39_word_no_space_11 | includebarelymeasurebuyerparkbetraykitchentrackversionexamplewall |  
+| bip_39_word_no_space_12 | includebarelymeasurebuyerparkbetraykitchentrackversionexamplewalladjust |  
+| bip_39_word_no_space_2 | includebarely |  
+| bip_39_word_no_space_3 | includebarelymeasure |  
+| bip_39_word_no_space_4 | includebarelymeasurebuyer |  
+| bip_39_word_no_space_5 | includebarelymeasurebuyerpark |  
+| bip_39_word_no_space_6 | includebarelymeasurebuyerparkbetray |  
+| bip_39_word_no_space_7 | includebarelymeasurebuyerparkbetraykitchen |  
+| bip_39_word_no_space_8 | includebarelymeasurebuyerparkbetraykitchentrack |  
+| bip_39_word_no_space_9 | includebarelymeasurebuyerparkbetraykitchentrackversion |  
 | bip_39_word_space_0 | ['include', 'barely', 'measure', 'buyer', 'park', 'betray', 'kitchen', 'track', 'version', 'example', 'wall', 'adjust'] |  
 | bip_39_word_space_1 | include |  
 | bip_39_word_space_10 | include barely measure buyer park betray kitchen track version example |  

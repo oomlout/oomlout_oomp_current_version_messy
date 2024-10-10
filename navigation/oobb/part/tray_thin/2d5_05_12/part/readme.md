@@ -122,6 +122,18 @@ trim
 pave
 border
 luxury |  
+| bip_39_word_no_space_1 | defy |  
+| bip_39_word_no_space_10 | defykidguardtheyconfirmtrimpaveborderluxurydrift |  
+| bip_39_word_no_space_11 | defykidguardtheyconfirmtrimpaveborderluxurydriftemerge |  
+| bip_39_word_no_space_12 | defykidguardtheyconfirmtrimpaveborderluxurydriftemergeattitude |  
+| bip_39_word_no_space_2 | defykid |  
+| bip_39_word_no_space_3 | defykidguard |  
+| bip_39_word_no_space_4 | defykidguardthey |  
+| bip_39_word_no_space_5 | defykidguardtheyconfirm |  
+| bip_39_word_no_space_6 | defykidguardtheyconfirmtrim |  
+| bip_39_word_no_space_7 | defykidguardtheyconfirmtrimpave |  
+| bip_39_word_no_space_8 | defykidguardtheyconfirmtrimpaveborder |  
+| bip_39_word_no_space_9 | defykidguardtheyconfirmtrimpaveborderluxury |  
 | bip_39_word_space_0 | ['defy', 'kid', 'guard', 'they', 'confirm', 'trim', 'pave', 'border', 'luxury', 'drift', 'emerge', 'attitude'] |  
 | bip_39_word_space_1 | defy |  
 | bip_39_word_space_10 | defy kid guard they confirm trim pave border luxury drift |  

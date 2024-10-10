@@ -122,6 +122,18 @@ aerobic
 room
 smart
 blue |  
+| bip_39_word_no_space_1 | room |  
+| bip_39_word_no_space_10 | roomawesomefaithpuritycottonaerobicroomsmartbluecousin |  
+| bip_39_word_no_space_11 | roomawesomefaithpuritycottonaerobicroomsmartbluecousinreceive |  
+| bip_39_word_no_space_12 | roomawesomefaithpuritycottonaerobicroomsmartbluecousinreceivearena |  
+| bip_39_word_no_space_2 | roomawesome |  
+| bip_39_word_no_space_3 | roomawesomefaith |  
+| bip_39_word_no_space_4 | roomawesomefaithpurity |  
+| bip_39_word_no_space_5 | roomawesomefaithpuritycotton |  
+| bip_39_word_no_space_6 | roomawesomefaithpuritycottonaerobic |  
+| bip_39_word_no_space_7 | roomawesomefaithpuritycottonaerobicroom |  
+| bip_39_word_no_space_8 | roomawesomefaithpuritycottonaerobicroomsmart |  
+| bip_39_word_no_space_9 | roomawesomefaithpuritycottonaerobicroomsmartblue |  
 | bip_39_word_space_0 | ['room', 'awesome', 'faith', 'purity', 'cotton', 'aerobic', 'room', 'smart', 'blue', 'cousin', 'receive', 'arena'] |  
 | bip_39_word_space_1 | room |  
 | bip_39_word_space_10 | room awesome faith purity cotton aerobic room smart blue cousin |  

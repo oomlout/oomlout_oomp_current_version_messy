@@ -122,6 +122,18 @@ print
 embrace
 response
 gadget |  
+| bip_39_word_no_space_1 | educate |  
+| bip_39_word_no_space_10 | educategloomentrytiltsirenprintembraceresponsegadgetlemon |  
+| bip_39_word_no_space_11 | educategloomentrytiltsirenprintembraceresponsegadgetlemonpeace |  
+| bip_39_word_no_space_12 | educategloomentrytiltsirenprintembraceresponsegadgetlemonpeacearch |  
+| bip_39_word_no_space_2 | educategloom |  
+| bip_39_word_no_space_3 | educategloomentry |  
+| bip_39_word_no_space_4 | educategloomentrytilt |  
+| bip_39_word_no_space_5 | educategloomentrytiltsiren |  
+| bip_39_word_no_space_6 | educategloomentrytiltsirenprint |  
+| bip_39_word_no_space_7 | educategloomentrytiltsirenprintembrace |  
+| bip_39_word_no_space_8 | educategloomentrytiltsirenprintembraceresponse |  
+| bip_39_word_no_space_9 | educategloomentrytiltsirenprintembraceresponsegadget |  
 | bip_39_word_space_0 | ['educate', 'gloom', 'entry', 'tilt', 'siren', 'print', 'embrace', 'response', 'gadget', 'lemon', 'peace', 'arch'] |  
 | bip_39_word_space_1 | educate |  
 | bip_39_word_space_10 | educate gloom entry tilt siren print embrace response gadget lemon |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clog
   audit
 
   describe'
+bip_39_word_no_space_1: clog
+bip_39_word_no_space_10: clogfarmfallmessagebeachturkeyaugustauditdescriberack
+bip_39_word_no_space_11: clogfarmfallmessagebeachturkeyaugustauditdescriberackindex
+bip_39_word_no_space_12: clogfarmfallmessagebeachturkeyaugustauditdescriberackindexaugust
+bip_39_word_no_space_2: clogfarm
+bip_39_word_no_space_3: clogfarmfall
+bip_39_word_no_space_4: clogfarmfallmessage
+bip_39_word_no_space_5: clogfarmfallmessagebeach
+bip_39_word_no_space_6: clogfarmfallmessagebeachturkey
+bip_39_word_no_space_7: clogfarmfallmessagebeachturkeyaugust
+bip_39_word_no_space_8: clogfarmfallmessagebeachturkeyaugustaudit
+bip_39_word_no_space_9: clogfarmfallmessagebeachturkeyaugustauditdescribe
 bip_39_word_space_0:
 - clog
 - farm

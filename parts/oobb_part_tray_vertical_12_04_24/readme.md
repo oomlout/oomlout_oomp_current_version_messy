@@ -122,6 +122,18 @@ struggle
 radio
 actor
 rule |  
+| bip_39_word_no_space_1 | forward |  
+| bip_39_word_no_space_10 | forwardtumbleelementwhipmoralstruggleradioactorruleobey |  
+| bip_39_word_no_space_11 | forwardtumbleelementwhipmoralstruggleradioactorruleobeysupply |  
+| bip_39_word_no_space_12 | forwardtumbleelementwhipmoralstruggleradioactorruleobeysupplyaunt |  
+| bip_39_word_no_space_2 | forwardtumble |  
+| bip_39_word_no_space_3 | forwardtumbleelement |  
+| bip_39_word_no_space_4 | forwardtumbleelementwhip |  
+| bip_39_word_no_space_5 | forwardtumbleelementwhipmoral |  
+| bip_39_word_no_space_6 | forwardtumbleelementwhipmoralstruggle |  
+| bip_39_word_no_space_7 | forwardtumbleelementwhipmoralstruggleradio |  
+| bip_39_word_no_space_8 | forwardtumbleelementwhipmoralstruggleradioactor |  
+| bip_39_word_no_space_9 | forwardtumbleelementwhipmoralstruggleradioactorrule |  
 | bip_39_word_space_0 | ['forward', 'tumble', 'element', 'whip', 'moral', 'struggle', 'radio', 'actor', 'rule', 'obey', 'supply', 'aunt'] |  
 | bip_39_word_space_1 | forward |  
 | bip_39_word_space_10 | forward tumble element whip moral struggle radio actor rule obey |  

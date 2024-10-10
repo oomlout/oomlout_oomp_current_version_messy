@@ -122,6 +122,18 @@ afraid
 cigar
 auction
 barrel |  
+| bip_39_word_no_space_1 | equip |  
+| bip_39_word_no_space_10 | equipnoisefeedsaywingafraidcigarauctionbarrelaware |  
+| bip_39_word_no_space_11 | equipnoisefeedsaywingafraidcigarauctionbarrelawareawful |  
+| bip_39_word_no_space_12 | equipnoisefeedsaywingafraidcigarauctionbarrelawareawfulasthma |  
+| bip_39_word_no_space_2 | equipnoise |  
+| bip_39_word_no_space_3 | equipnoisefeed |  
+| bip_39_word_no_space_4 | equipnoisefeedsay |  
+| bip_39_word_no_space_5 | equipnoisefeedsaywing |  
+| bip_39_word_no_space_6 | equipnoisefeedsaywingafraid |  
+| bip_39_word_no_space_7 | equipnoisefeedsaywingafraidcigar |  
+| bip_39_word_no_space_8 | equipnoisefeedsaywingafraidcigarauction |  
+| bip_39_word_no_space_9 | equipnoisefeedsaywingafraidcigarauctionbarrel |  
 | bip_39_word_space_0 | ['equip', 'noise', 'feed', 'say', 'wing', 'afraid', 'cigar', 'auction', 'barrel', 'aware', 'awful', 'asthma'] |  
 | bip_39_word_space_1 | equip |  
 | bip_39_word_space_10 | equip noise feed say wing afraid cigar auction barrel aware |  

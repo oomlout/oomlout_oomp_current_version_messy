@@ -122,6 +122,18 @@ eyebrow
 music
 remind
 erase |  
+| bip_39_word_no_space_1 | skull |  
+| bip_39_word_no_space_10 | skullvoicenamedonkeynegativeeyebrowmusicreminderasemule |  
+| bip_39_word_no_space_11 | skullvoicenamedonkeynegativeeyebrowmusicreminderasemulemother |  
+| bip_39_word_no_space_12 | skullvoicenamedonkeynegativeeyebrowmusicreminderasemulemotherattend |  
+| bip_39_word_no_space_2 | skullvoice |  
+| bip_39_word_no_space_3 | skullvoicename |  
+| bip_39_word_no_space_4 | skullvoicenamedonkey |  
+| bip_39_word_no_space_5 | skullvoicenamedonkeynegative |  
+| bip_39_word_no_space_6 | skullvoicenamedonkeynegativeeyebrow |  
+| bip_39_word_no_space_7 | skullvoicenamedonkeynegativeeyebrowmusic |  
+| bip_39_word_no_space_8 | skullvoicenamedonkeynegativeeyebrowmusicremind |  
+| bip_39_word_no_space_9 | skullvoicenamedonkeynegativeeyebrowmusicreminderase |  
 | bip_39_word_space_0 | ['skull', 'voice', 'name', 'donkey', 'negative', 'eyebrow', 'music', 'remind', 'erase', 'mule', 'mother', 'attend'] |  
 | bip_39_word_space_1 | skull |  
 | bip_39_word_space_10 | skull voice name donkey negative eyebrow music remind erase mule |  

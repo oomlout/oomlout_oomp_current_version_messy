@@ -122,6 +122,18 @@ alpha
 text
 park
 place |  
+| bip_39_word_no_space_1 | food |  
+| bip_39_word_no_space_10 | fooddriftliarechoeducatealphatextparkplacebeauty |  
+| bip_39_word_no_space_11 | fooddriftliarechoeducatealphatextparkplacebeautymuffin |  
+| bip_39_word_no_space_12 | fooddriftliarechoeducatealphatextparkplacebeautymuffinaccess |  
+| bip_39_word_no_space_2 | fooddrift |  
+| bip_39_word_no_space_3 | fooddriftliar |  
+| bip_39_word_no_space_4 | fooddriftliarecho |  
+| bip_39_word_no_space_5 | fooddriftliarechoeducate |  
+| bip_39_word_no_space_6 | fooddriftliarechoeducatealpha |  
+| bip_39_word_no_space_7 | fooddriftliarechoeducatealphatext |  
+| bip_39_word_no_space_8 | fooddriftliarechoeducatealphatextpark |  
+| bip_39_word_no_space_9 | fooddriftliarechoeducatealphatextparkplace |  
 | bip_39_word_space_0 | ['food', 'drift', 'liar', 'echo', 'educate', 'alpha', 'text', 'park', 'place', 'beauty', 'muffin', 'access'] |  
 | bip_39_word_space_1 | food |  
 | bip_39_word_space_10 | food drift liar echo educate alpha text park place beauty |  

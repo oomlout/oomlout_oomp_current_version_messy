@@ -122,6 +122,18 @@ code
 mention
 license
 install |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misscushionspotnephewhungrycodementionlicenseinstallwelcome |  
+| bip_39_word_no_space_11 | misscushionspotnephewhungrycodementionlicenseinstallwelcomeaugust |  
+| bip_39_word_no_space_12 | misscushionspotnephewhungrycodementionlicenseinstallwelcomeaugustaddress |  
+| bip_39_word_no_space_2 | misscushion |  
+| bip_39_word_no_space_3 | misscushionspot |  
+| bip_39_word_no_space_4 | misscushionspotnephew |  
+| bip_39_word_no_space_5 | misscushionspotnephewhungry |  
+| bip_39_word_no_space_6 | misscushionspotnephewhungrycode |  
+| bip_39_word_no_space_7 | misscushionspotnephewhungrycodemention |  
+| bip_39_word_no_space_8 | misscushionspotnephewhungrycodementionlicense |  
+| bip_39_word_no_space_9 | misscushionspotnephewhungrycodementionlicenseinstall |  
 | bip_39_word_space_0 | ['miss', 'cushion', 'spot', 'nephew', 'hungry', 'code', 'mention', 'license', 'install', 'welcome', 'august', 'address'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss cushion spot nephew hungry code mention license install welcome |  

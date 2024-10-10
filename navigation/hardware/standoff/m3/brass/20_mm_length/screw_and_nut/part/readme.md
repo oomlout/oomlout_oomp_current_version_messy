@@ -122,6 +122,18 @@ renew
 fresh
 drastic
 blouse |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguefuturetigerbicyclepeanutrenewfreshdrasticblousenear |  
+| bip_39_word_no_space_11 | tonguefuturetigerbicyclepeanutrenewfreshdrasticblousenearprison |  
+| bip_39_word_no_space_12 | tonguefuturetigerbicyclepeanutrenewfreshdrasticblousenearprisonadapt |  
+| bip_39_word_no_space_2 | tonguefuture |  
+| bip_39_word_no_space_3 | tonguefuturetiger |  
+| bip_39_word_no_space_4 | tonguefuturetigerbicycle |  
+| bip_39_word_no_space_5 | tonguefuturetigerbicyclepeanut |  
+| bip_39_word_no_space_6 | tonguefuturetigerbicyclepeanutrenew |  
+| bip_39_word_no_space_7 | tonguefuturetigerbicyclepeanutrenewfresh |  
+| bip_39_word_no_space_8 | tonguefuturetigerbicyclepeanutrenewfreshdrastic |  
+| bip_39_word_no_space_9 | tonguefuturetigerbicyclepeanutrenewfreshdrasticblouse |  
 | bip_39_word_space_0 | ['tongue', 'future', 'tiger', 'bicycle', 'peanut', 'renew', 'fresh', 'drastic', 'blouse', 'near', 'prison', 'adapt'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue future tiger bicycle peanut renew fresh drastic blouse near |  

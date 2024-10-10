@@ -122,6 +122,18 @@ ribbon
 detail
 brown
 calm |  
+| bip_39_word_no_space_1 | squeeze |  
+| bip_39_word_no_space_10 | squeezetroubledecemberopinionhaveribbondetailbrowncalmalbum |  
+| bip_39_word_no_space_11 | squeezetroubledecemberopinionhaveribbondetailbrowncalmalbumdenial |  
+| bip_39_word_no_space_12 | squeezetroubledecemberopinionhaveribbondetailbrowncalmalbumdenialapology |  
+| bip_39_word_no_space_2 | squeezetrouble |  
+| bip_39_word_no_space_3 | squeezetroubledecember |  
+| bip_39_word_no_space_4 | squeezetroubledecemberopinion |  
+| bip_39_word_no_space_5 | squeezetroubledecemberopinionhave |  
+| bip_39_word_no_space_6 | squeezetroubledecemberopinionhaveribbon |  
+| bip_39_word_no_space_7 | squeezetroubledecemberopinionhaveribbondetail |  
+| bip_39_word_no_space_8 | squeezetroubledecemberopinionhaveribbondetailbrown |  
+| bip_39_word_no_space_9 | squeezetroubledecemberopinionhaveribbondetailbrowncalm |  
 | bip_39_word_space_0 | ['squeeze', 'trouble', 'december', 'opinion', 'have', 'ribbon', 'detail', 'brown', 'calm', 'album', 'denial', 'apology'] |  
 | bip_39_word_space_1 | squeeze |  
 | bip_39_word_space_10 | squeeze trouble december opinion have ribbon detail brown calm album |  

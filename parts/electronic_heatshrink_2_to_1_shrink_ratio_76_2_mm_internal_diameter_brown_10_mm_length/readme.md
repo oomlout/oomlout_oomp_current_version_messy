@@ -122,6 +122,18 @@ people
 comic
 collect
 pizza |  
+| bip_39_word_no_space_1 | motion |  
+| bip_39_word_no_space_10 | motionbrickislandsprayquantumpeoplecomiccollectpizzadecline |  
+| bip_39_word_no_space_11 | motionbrickislandsprayquantumpeoplecomiccollectpizzadeclineasset |  
+| bip_39_word_no_space_12 | motionbrickislandsprayquantumpeoplecomiccollectpizzadeclineassetasset |  
+| bip_39_word_no_space_2 | motionbrick |  
+| bip_39_word_no_space_3 | motionbrickisland |  
+| bip_39_word_no_space_4 | motionbrickislandspray |  
+| bip_39_word_no_space_5 | motionbrickislandsprayquantum |  
+| bip_39_word_no_space_6 | motionbrickislandsprayquantumpeople |  
+| bip_39_word_no_space_7 | motionbrickislandsprayquantumpeoplecomic |  
+| bip_39_word_no_space_8 | motionbrickislandsprayquantumpeoplecomiccollect |  
+| bip_39_word_no_space_9 | motionbrickislandsprayquantumpeoplecomiccollectpizza |  
 | bip_39_word_space_0 | ['motion', 'brick', 'island', 'spray', 'quantum', 'people', 'comic', 'collect', 'pizza', 'decline', 'asset', 'asset'] |  
 | bip_39_word_space_1 | motion |  
 | bip_39_word_space_10 | motion brick island spray quantum people comic collect pizza decline |  

@@ -122,6 +122,18 @@ betray
 gentle
 nominee
 party |  
+| bip_39_word_no_space_1 | razor |  
+| bip_39_word_no_space_10 | razorstateeyemattercomicbetraygentlenomineepartyelite |  
+| bip_39_word_no_space_11 | razorstateeyemattercomicbetraygentlenomineepartyelitebulb |  
+| bip_39_word_no_space_12 | razorstateeyemattercomicbetraygentlenomineepartyelitebulbacquire |  
+| bip_39_word_no_space_2 | razorstate |  
+| bip_39_word_no_space_3 | razorstateeye |  
+| bip_39_word_no_space_4 | razorstateeyematter |  
+| bip_39_word_no_space_5 | razorstateeyemattercomic |  
+| bip_39_word_no_space_6 | razorstateeyemattercomicbetray |  
+| bip_39_word_no_space_7 | razorstateeyemattercomicbetraygentle |  
+| bip_39_word_no_space_8 | razorstateeyemattercomicbetraygentlenominee |  
+| bip_39_word_no_space_9 | razorstateeyemattercomicbetraygentlenomineeparty |  
 | bip_39_word_space_0 | ['razor', 'state', 'eye', 'matter', 'comic', 'betray', 'gentle', 'nominee', 'party', 'elite', 'bulb', 'acquire'] |  
 | bip_39_word_space_1 | razor |  
 | bip_39_word_space_10 | razor state eye matter comic betray gentle nominee party elite |  

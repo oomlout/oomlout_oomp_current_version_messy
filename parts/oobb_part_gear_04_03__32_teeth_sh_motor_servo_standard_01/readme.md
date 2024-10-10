@@ -122,6 +122,18 @@ collect
 hen
 couch
 saddle |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizentrumpetcherrytagsweetcollecthencouchsaddlealone |  
+| bip_39_word_no_space_11 | citizentrumpetcherrytagsweetcollecthencouchsaddlealonepayment |  
+| bip_39_word_no_space_12 | citizentrumpetcherrytagsweetcollecthencouchsaddlealonepaymentangle |  
+| bip_39_word_no_space_2 | citizentrumpet |  
+| bip_39_word_no_space_3 | citizentrumpetcherry |  
+| bip_39_word_no_space_4 | citizentrumpetcherrytag |  
+| bip_39_word_no_space_5 | citizentrumpetcherrytagsweet |  
+| bip_39_word_no_space_6 | citizentrumpetcherrytagsweetcollect |  
+| bip_39_word_no_space_7 | citizentrumpetcherrytagsweetcollecthen |  
+| bip_39_word_no_space_8 | citizentrumpetcherrytagsweetcollecthencouch |  
+| bip_39_word_no_space_9 | citizentrumpetcherrytagsweetcollecthencouchsaddle |  
 | bip_39_word_space_0 | ['citizen', 'trumpet', 'cherry', 'tag', 'sweet', 'collect', 'hen', 'couch', 'saddle', 'alone', 'payment', 'angle'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen trumpet cherry tag sweet collect hen couch saddle alone |  

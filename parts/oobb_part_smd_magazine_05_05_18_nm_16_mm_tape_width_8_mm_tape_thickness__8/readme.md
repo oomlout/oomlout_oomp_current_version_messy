@@ -122,6 +122,18 @@ smart
 trouble
 comfort
 absorb |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmost |  
+| bip_39_word_no_space_11 | eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmostspecial |  
+| bip_39_word_no_space_12 | eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmostspecialanimal |  
+| bip_39_word_no_space_2 | eyetrade |  
+| bip_39_word_no_space_3 | eyetradeelectric |  
+| bip_39_word_no_space_4 | eyetradeelectricrazor |  
+| bip_39_word_no_space_5 | eyetradeelectricrazorrescue |  
+| bip_39_word_no_space_6 | eyetradeelectricrazorrescuesmart |  
+| bip_39_word_no_space_7 | eyetradeelectricrazorrescuesmarttrouble |  
+| bip_39_word_no_space_8 | eyetradeelectricrazorrescuesmarttroublecomfort |  
+| bip_39_word_no_space_9 | eyetradeelectricrazorrescuesmarttroublecomfortabsorb |  
 | bip_39_word_space_0 | ['eye', 'trade', 'electric', 'razor', 'rescue', 'smart', 'trouble', 'comfort', 'absorb', 'almost', 'special', 'animal'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye trade electric razor rescue smart trouble comfort absorb almost |  

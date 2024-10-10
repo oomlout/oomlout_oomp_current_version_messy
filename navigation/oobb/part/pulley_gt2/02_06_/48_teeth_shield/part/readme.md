@@ -122,6 +122,18 @@ word
 stomach
 swarm
 cup |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidaytouristvalleyparentbarelywordstomachswarmcupoval |  
+| bip_39_word_no_space_11 | holidaytouristvalleyparentbarelywordstomachswarmcupovalrecord |  
+| bip_39_word_no_space_12 | holidaytouristvalleyparentbarelywordstomachswarmcupovalrecordalley |  
+| bip_39_word_no_space_2 | holidaytourist |  
+| bip_39_word_no_space_3 | holidaytouristvalley |  
+| bip_39_word_no_space_4 | holidaytouristvalleyparent |  
+| bip_39_word_no_space_5 | holidaytouristvalleyparentbarely |  
+| bip_39_word_no_space_6 | holidaytouristvalleyparentbarelyword |  
+| bip_39_word_no_space_7 | holidaytouristvalleyparentbarelywordstomach |  
+| bip_39_word_no_space_8 | holidaytouristvalleyparentbarelywordstomachswarm |  
+| bip_39_word_no_space_9 | holidaytouristvalleyparentbarelywordstomachswarmcup |  
 | bip_39_word_space_0 | ['holiday', 'tourist', 'valley', 'parent', 'barely', 'word', 'stomach', 'swarm', 'cup', 'oval', 'record', 'alley'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday tourist valley parent barely word stomach swarm cup oval |  

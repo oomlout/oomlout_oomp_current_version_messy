@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spare
   picture
 
   undo'
+bip_39_word_no_space_1: spare
+bip_39_word_no_space_10: sparemythtermblanketribbonrulechairpictureundoantenna
+bip_39_word_no_space_11: sparemythtermblanketribbonrulechairpictureundoantennahope
+bip_39_word_no_space_12: sparemythtermblanketribbonrulechairpictureundoantennahopeamazing
+bip_39_word_no_space_2: sparemyth
+bip_39_word_no_space_3: sparemythterm
+bip_39_word_no_space_4: sparemythtermblanket
+bip_39_word_no_space_5: sparemythtermblanketribbon
+bip_39_word_no_space_6: sparemythtermblanketribbonrule
+bip_39_word_no_space_7: sparemythtermblanketribbonrulechair
+bip_39_word_no_space_8: sparemythtermblanketribbonrulechairpicture
+bip_39_word_no_space_9: sparemythtermblanketribbonrulechairpictureundo
 bip_39_word_space_0:
 - spare
 - myth

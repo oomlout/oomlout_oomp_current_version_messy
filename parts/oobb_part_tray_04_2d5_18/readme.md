@@ -122,6 +122,18 @@ wing
 output
 stem
 ketchup |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | provideeyenoticeouterpulpwingoutputstemketchupdisagree |  
+| bip_39_word_no_space_11 | provideeyenoticeouterpulpwingoutputstemketchupdisagreehazard |  
+| bip_39_word_no_space_12 | provideeyenoticeouterpulpwingoutputstemketchupdisagreehazardantenna |  
+| bip_39_word_no_space_2 | provideeye |  
+| bip_39_word_no_space_3 | provideeyenotice |  
+| bip_39_word_no_space_4 | provideeyenoticeouter |  
+| bip_39_word_no_space_5 | provideeyenoticeouterpulp |  
+| bip_39_word_no_space_6 | provideeyenoticeouterpulpwing |  
+| bip_39_word_no_space_7 | provideeyenoticeouterpulpwingoutput |  
+| bip_39_word_no_space_8 | provideeyenoticeouterpulpwingoutputstem |  
+| bip_39_word_no_space_9 | provideeyenoticeouterpulpwingoutputstemketchup |  
 | bip_39_word_space_0 | ['provide', 'eye', 'notice', 'outer', 'pulp', 'wing', 'output', 'stem', 'ketchup', 'disagree', 'hazard', 'antenna'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide eye notice outer pulp wing output stem ketchup disagree |  

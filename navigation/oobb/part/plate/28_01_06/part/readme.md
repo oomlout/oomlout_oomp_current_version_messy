@@ -122,6 +122,18 @@ acoustic
 neck
 square
 drop |  
+| bip_39_word_no_space_1 | address |  
+| bip_39_word_no_space_10 | addressinmateattendlaundryenrollacousticnecksquaredroptwo |  
+| bip_39_word_no_space_11 | addressinmateattendlaundryenrollacousticnecksquaredroptwoattitude |  
+| bip_39_word_no_space_12 | addressinmateattendlaundryenrollacousticnecksquaredroptwoattitudealmost |  
+| bip_39_word_no_space_2 | addressinmate |  
+| bip_39_word_no_space_3 | addressinmateattend |  
+| bip_39_word_no_space_4 | addressinmateattendlaundry |  
+| bip_39_word_no_space_5 | addressinmateattendlaundryenroll |  
+| bip_39_word_no_space_6 | addressinmateattendlaundryenrollacoustic |  
+| bip_39_word_no_space_7 | addressinmateattendlaundryenrollacousticneck |  
+| bip_39_word_no_space_8 | addressinmateattendlaundryenrollacousticnecksquare |  
+| bip_39_word_no_space_9 | addressinmateattendlaundryenrollacousticnecksquaredrop |  
 | bip_39_word_space_0 | ['address', 'inmate', 'attend', 'laundry', 'enroll', 'acoustic', 'neck', 'square', 'drop', 'two', 'attitude', 'almost'] |  
 | bip_39_word_space_1 | address |  
 | bip_39_word_space_10 | address inmate attend laundry enroll acoustic neck square drop two |  

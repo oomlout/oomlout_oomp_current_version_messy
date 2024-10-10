@@ -122,6 +122,18 @@ into
 airport
 mean
 party |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposefrogicedenylazyintoairportmeanpartybless |  
+| bip_39_word_no_space_11 | imposefrogicedenylazyintoairportmeanpartyblessneglect |  
+| bip_39_word_no_space_12 | imposefrogicedenylazyintoairportmeanpartyblessneglectabsurd |  
+| bip_39_word_no_space_2 | imposefrog |  
+| bip_39_word_no_space_3 | imposefrogice |  
+| bip_39_word_no_space_4 | imposefrogicedeny |  
+| bip_39_word_no_space_5 | imposefrogicedenylazy |  
+| bip_39_word_no_space_6 | imposefrogicedenylazyinto |  
+| bip_39_word_no_space_7 | imposefrogicedenylazyintoairport |  
+| bip_39_word_no_space_8 | imposefrogicedenylazyintoairportmean |  
+| bip_39_word_no_space_9 | imposefrogicedenylazyintoairportmeanparty |  
 | bip_39_word_space_0 | ['impose', 'frog', 'ice', 'deny', 'lazy', 'into', 'airport', 'mean', 'party', 'bless', 'neglect', 'absurd'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose frog ice deny lazy into airport mean party bless |  

@@ -122,6 +122,18 @@ gaze
 snake
 plunge
 ensure |  
+| bip_39_word_no_space_1 | traffic |  
+| bip_39_word_no_space_10 | trafficjaradmitclubnowgazesnakeplungeensurebroccoli |  
+| bip_39_word_no_space_11 | trafficjaradmitclubnowgazesnakeplungeensurebroccoliblossom |  
+| bip_39_word_no_space_12 | trafficjaradmitclubnowgazesnakeplungeensurebroccoliblossomabstract |  
+| bip_39_word_no_space_2 | trafficjar |  
+| bip_39_word_no_space_3 | trafficjaradmit |  
+| bip_39_word_no_space_4 | trafficjaradmitclub |  
+| bip_39_word_no_space_5 | trafficjaradmitclubnow |  
+| bip_39_word_no_space_6 | trafficjaradmitclubnowgaze |  
+| bip_39_word_no_space_7 | trafficjaradmitclubnowgazesnake |  
+| bip_39_word_no_space_8 | trafficjaradmitclubnowgazesnakeplunge |  
+| bip_39_word_no_space_9 | trafficjaradmitclubnowgazesnakeplungeensure |  
 | bip_39_word_space_0 | ['traffic', 'jar', 'admit', 'club', 'now', 'gaze', 'snake', 'plunge', 'ensure', 'broccoli', 'blossom', 'abstract'] |  
 | bip_39_word_space_1 | traffic |  
 | bip_39_word_space_10 | traffic jar admit club now gaze snake plunge ensure broccoli |  

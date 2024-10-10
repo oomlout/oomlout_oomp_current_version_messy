@@ -122,6 +122,18 @@ buddy
 cash
 park
 twenty |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifeanchorfilterfootbubblebuddycashparktwentywindow |  
+| bip_39_word_no_space_11 | knifeanchorfilterfootbubblebuddycashparktwentywindowsyrup |  
+| bip_39_word_no_space_12 | knifeanchorfilterfootbubblebuddycashparktwentywindowsyrupamazing |  
+| bip_39_word_no_space_2 | knifeanchor |  
+| bip_39_word_no_space_3 | knifeanchorfilter |  
+| bip_39_word_no_space_4 | knifeanchorfilterfoot |  
+| bip_39_word_no_space_5 | knifeanchorfilterfootbubble |  
+| bip_39_word_no_space_6 | knifeanchorfilterfootbubblebuddy |  
+| bip_39_word_no_space_7 | knifeanchorfilterfootbubblebuddycash |  
+| bip_39_word_no_space_8 | knifeanchorfilterfootbubblebuddycashpark |  
+| bip_39_word_no_space_9 | knifeanchorfilterfootbubblebuddycashparktwenty |  
 | bip_39_word_space_0 | ['knife', 'anchor', 'filter', 'foot', 'bubble', 'buddy', 'cash', 'park', 'twenty', 'window', 'syrup', 'amazing'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife anchor filter foot bubble buddy cash park twenty window |  

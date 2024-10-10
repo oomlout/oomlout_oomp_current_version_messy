@@ -122,6 +122,18 @@ soul
 define
 brand
 book |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardprettyfetchsentenceyousouldefinebrandbookanxiety |  
+| bip_39_word_no_space_11 | rewardprettyfetchsentenceyousouldefinebrandbookanxietycommon |  
+| bip_39_word_no_space_12 | rewardprettyfetchsentenceyousouldefinebrandbookanxietycommonadapt |  
+| bip_39_word_no_space_2 | rewardpretty |  
+| bip_39_word_no_space_3 | rewardprettyfetch |  
+| bip_39_word_no_space_4 | rewardprettyfetchsentence |  
+| bip_39_word_no_space_5 | rewardprettyfetchsentenceyou |  
+| bip_39_word_no_space_6 | rewardprettyfetchsentenceyousoul |  
+| bip_39_word_no_space_7 | rewardprettyfetchsentenceyousouldefine |  
+| bip_39_word_no_space_8 | rewardprettyfetchsentenceyousouldefinebrand |  
+| bip_39_word_no_space_9 | rewardprettyfetchsentenceyousouldefinebrandbook |  
 | bip_39_word_space_0 | ['reward', 'pretty', 'fetch', 'sentence', 'you', 'soul', 'define', 'brand', 'book', 'anxiety', 'common', 'adapt'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward pretty fetch sentence you soul define brand book anxiety |  

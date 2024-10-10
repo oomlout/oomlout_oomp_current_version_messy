@@ -122,6 +122,18 @@ draw
 suit
 pull
 gap |  
+| bip_39_word_no_space_1 | harvest |  
+| bip_39_word_no_space_10 | harvesthabitscatterfrozenlegaldrawsuitpullgapgold |  
+| bip_39_word_no_space_11 | harvesthabitscatterfrozenlegaldrawsuitpullgapgoldneutral |  
+| bip_39_word_no_space_12 | harvesthabitscatterfrozenlegaldrawsuitpullgapgoldneutralantique |  
+| bip_39_word_no_space_2 | harvesthabit |  
+| bip_39_word_no_space_3 | harvesthabitscatter |  
+| bip_39_word_no_space_4 | harvesthabitscatterfrozen |  
+| bip_39_word_no_space_5 | harvesthabitscatterfrozenlegal |  
+| bip_39_word_no_space_6 | harvesthabitscatterfrozenlegaldraw |  
+| bip_39_word_no_space_7 | harvesthabitscatterfrozenlegaldrawsuit |  
+| bip_39_word_no_space_8 | harvesthabitscatterfrozenlegaldrawsuitpull |  
+| bip_39_word_no_space_9 | harvesthabitscatterfrozenlegaldrawsuitpullgap |  
 | bip_39_word_space_0 | ['harvest', 'habit', 'scatter', 'frozen', 'legal', 'draw', 'suit', 'pull', 'gap', 'gold', 'neutral', 'antique'] |  
 | bip_39_word_space_1 | harvest |  
 | bip_39_word_space_10 | harvest habit scatter frozen legal draw suit pull gap gold |  

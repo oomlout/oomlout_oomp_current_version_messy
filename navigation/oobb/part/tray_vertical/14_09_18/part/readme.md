@@ -122,6 +122,18 @@ bulb
 tired
 garlic
 vote |  
+| bip_39_word_no_space_1 | fruit |  
+| bip_39_word_no_space_10 | fruittestsimilarimpulseroutebulbtiredgarlicvoteamong |  
+| bip_39_word_no_space_11 | fruittestsimilarimpulseroutebulbtiredgarlicvoteamongcement |  
+| bip_39_word_no_space_12 | fruittestsimilarimpulseroutebulbtiredgarlicvoteamongcementabsorb |  
+| bip_39_word_no_space_2 | fruittest |  
+| bip_39_word_no_space_3 | fruittestsimilar |  
+| bip_39_word_no_space_4 | fruittestsimilarimpulse |  
+| bip_39_word_no_space_5 | fruittestsimilarimpulseroute |  
+| bip_39_word_no_space_6 | fruittestsimilarimpulseroutebulb |  
+| bip_39_word_no_space_7 | fruittestsimilarimpulseroutebulbtired |  
+| bip_39_word_no_space_8 | fruittestsimilarimpulseroutebulbtiredgarlic |  
+| bip_39_word_no_space_9 | fruittestsimilarimpulseroutebulbtiredgarlicvote |  
 | bip_39_word_space_0 | ['fruit', 'test', 'similar', 'impulse', 'route', 'bulb', 'tired', 'garlic', 'vote', 'among', 'cement', 'absorb'] |  
 | bip_39_word_space_1 | fruit |  
 | bip_39_word_space_10 | fruit test similar impulse route bulb tired garlic vote among |  

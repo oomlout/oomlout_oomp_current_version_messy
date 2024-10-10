@@ -122,6 +122,18 @@ grocery
 seat
 voyage
 cost |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worrystemcushionforwardomitgroceryseatvoyagecostold |  
+| bip_39_word_no_space_11 | worrystemcushionforwardomitgroceryseatvoyagecostolddecember |  
+| bip_39_word_no_space_12 | worrystemcushionforwardomitgroceryseatvoyagecostolddecemberaverage |  
+| bip_39_word_no_space_2 | worrystem |  
+| bip_39_word_no_space_3 | worrystemcushion |  
+| bip_39_word_no_space_4 | worrystemcushionforward |  
+| bip_39_word_no_space_5 | worrystemcushionforwardomit |  
+| bip_39_word_no_space_6 | worrystemcushionforwardomitgrocery |  
+| bip_39_word_no_space_7 | worrystemcushionforwardomitgroceryseat |  
+| bip_39_word_no_space_8 | worrystemcushionforwardomitgroceryseatvoyage |  
+| bip_39_word_no_space_9 | worrystemcushionforwardomitgroceryseatvoyagecost |  
 | bip_39_word_space_0 | ['worry', 'stem', 'cushion', 'forward', 'omit', 'grocery', 'seat', 'voyage', 'cost', 'old', 'december', 'average'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry stem cushion forward omit grocery seat voyage cost old |  

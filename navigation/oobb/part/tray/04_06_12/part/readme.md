@@ -122,6 +122,18 @@ frog
 worry
 juice
 local |  
+| bip_39_word_no_space_1 | crisp |  
+| bip_39_word_no_space_10 | crispcoilhistorytreatbeanfrogworryjuicelocalvery |  
+| bip_39_word_no_space_11 | crispcoilhistorytreatbeanfrogworryjuicelocalverycopy |  
+| bip_39_word_no_space_12 | crispcoilhistorytreatbeanfrogworryjuicelocalverycopyacross |  
+| bip_39_word_no_space_2 | crispcoil |  
+| bip_39_word_no_space_3 | crispcoilhistory |  
+| bip_39_word_no_space_4 | crispcoilhistorytreat |  
+| bip_39_word_no_space_5 | crispcoilhistorytreatbean |  
+| bip_39_word_no_space_6 | crispcoilhistorytreatbeanfrog |  
+| bip_39_word_no_space_7 | crispcoilhistorytreatbeanfrogworry |  
+| bip_39_word_no_space_8 | crispcoilhistorytreatbeanfrogworryjuice |  
+| bip_39_word_no_space_9 | crispcoilhistorytreatbeanfrogworryjuicelocal |  
 | bip_39_word_space_0 | ['crisp', 'coil', 'history', 'treat', 'bean', 'frog', 'worry', 'juice', 'local', 'very', 'copy', 'across'] |  
 | bip_39_word_space_1 | crisp |  
 | bip_39_word_space_10 | crisp coil history treat bean frog worry juice local very |  

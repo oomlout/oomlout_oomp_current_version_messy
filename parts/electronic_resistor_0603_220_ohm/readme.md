@@ -122,6 +122,18 @@ air
 turkey
 author
 like |  
+| bip_39_word_no_space_1 | charge |  
+| bip_39_word_no_space_10 | chargejellyinjuryarmydragonairturkeyauthorlikeawesome |  
+| bip_39_word_no_space_11 | chargejellyinjuryarmydragonairturkeyauthorlikeawesomevideo |  
+| bip_39_word_no_space_12 | chargejellyinjuryarmydragonairturkeyauthorlikeawesomevideoabstract |  
+| bip_39_word_no_space_2 | chargejelly |  
+| bip_39_word_no_space_3 | chargejellyinjury |  
+| bip_39_word_no_space_4 | chargejellyinjuryarmy |  
+| bip_39_word_no_space_5 | chargejellyinjuryarmydragon |  
+| bip_39_word_no_space_6 | chargejellyinjuryarmydragonair |  
+| bip_39_word_no_space_7 | chargejellyinjuryarmydragonairturkey |  
+| bip_39_word_no_space_8 | chargejellyinjuryarmydragonairturkeyauthor |  
+| bip_39_word_no_space_9 | chargejellyinjuryarmydragonairturkeyauthorlike |  
 | bip_39_word_space_0 | ['charge', 'jelly', 'injury', 'army', 'dragon', 'air', 'turkey', 'author', 'like', 'awesome', 'video', 'abstract'] |  
 | bip_39_word_space_1 | charge |  
 | bip_39_word_space_10 | charge jelly injury army dragon air turkey author like awesome |  

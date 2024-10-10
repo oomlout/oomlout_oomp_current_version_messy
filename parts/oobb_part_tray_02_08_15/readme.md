@@ -122,6 +122,18 @@ flag
 heavy
 paddle
 below |  
+| bip_39_word_no_space_1 | cousin |  
+| bip_39_word_no_space_10 | cousinspoonbeltrecordpossibleflagheavypaddlebelowslow |  
+| bip_39_word_no_space_11 | cousinspoonbeltrecordpossibleflagheavypaddlebelowslowmyth |  
+| bip_39_word_no_space_12 | cousinspoonbeltrecordpossibleflagheavypaddlebelowslowmythafraid |  
+| bip_39_word_no_space_2 | cousinspoon |  
+| bip_39_word_no_space_3 | cousinspoonbelt |  
+| bip_39_word_no_space_4 | cousinspoonbeltrecord |  
+| bip_39_word_no_space_5 | cousinspoonbeltrecordpossible |  
+| bip_39_word_no_space_6 | cousinspoonbeltrecordpossibleflag |  
+| bip_39_word_no_space_7 | cousinspoonbeltrecordpossibleflagheavy |  
+| bip_39_word_no_space_8 | cousinspoonbeltrecordpossibleflagheavypaddle |  
+| bip_39_word_no_space_9 | cousinspoonbeltrecordpossibleflagheavypaddlebelow |  
 | bip_39_word_space_0 | ['cousin', 'spoon', 'belt', 'record', 'possible', 'flag', 'heavy', 'paddle', 'below', 'slow', 'myth', 'afraid'] |  
 | bip_39_word_space_1 | cousin |  
 | bip_39_word_space_10 | cousin spoon belt record possible flag heavy paddle below slow |  

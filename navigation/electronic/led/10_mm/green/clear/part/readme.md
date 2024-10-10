@@ -122,6 +122,18 @@ mule
 own
 fine
 box |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudediceboatmomentremindmuleownfineboxelite |  
+| bip_39_word_no_space_11 | attitudediceboatmomentremindmuleownfineboxelitemonitor |  
+| bip_39_word_no_space_12 | attitudediceboatmomentremindmuleownfineboxelitemonitorair |  
+| bip_39_word_no_space_2 | attitudedice |  
+| bip_39_word_no_space_3 | attitudediceboat |  
+| bip_39_word_no_space_4 | attitudediceboatmoment |  
+| bip_39_word_no_space_5 | attitudediceboatmomentremind |  
+| bip_39_word_no_space_6 | attitudediceboatmomentremindmule |  
+| bip_39_word_no_space_7 | attitudediceboatmomentremindmuleown |  
+| bip_39_word_no_space_8 | attitudediceboatmomentremindmuleownfine |  
+| bip_39_word_no_space_9 | attitudediceboatmomentremindmuleownfinebox |  
 | bip_39_word_space_0 | ['attitude', 'dice', 'boat', 'moment', 'remind', 'mule', 'own', 'fine', 'box', 'elite', 'monitor', 'air'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude dice boat moment remind mule own fine box elite |  

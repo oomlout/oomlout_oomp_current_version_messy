@@ -122,6 +122,18 @@ evolve
 corn
 cost
 cereal |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | niceculturekiwiswarmcouchevolvecorncostcerealgarden |  
+| bip_39_word_no_space_11 | niceculturekiwiswarmcouchevolvecorncostcerealgardenmath |  
+| bip_39_word_no_space_12 | niceculturekiwiswarmcouchevolvecorncostcerealgardenmatharctic |  
+| bip_39_word_no_space_2 | niceculture |  
+| bip_39_word_no_space_3 | niceculturekiwi |  
+| bip_39_word_no_space_4 | niceculturekiwiswarm |  
+| bip_39_word_no_space_5 | niceculturekiwiswarmcouch |  
+| bip_39_word_no_space_6 | niceculturekiwiswarmcouchevolve |  
+| bip_39_word_no_space_7 | niceculturekiwiswarmcouchevolvecorn |  
+| bip_39_word_no_space_8 | niceculturekiwiswarmcouchevolvecorncost |  
+| bip_39_word_no_space_9 | niceculturekiwiswarmcouchevolvecorncostcereal |  
 | bip_39_word_space_0 | ['nice', 'culture', 'kiwi', 'swarm', 'couch', 'evolve', 'corn', 'cost', 'cereal', 'garden', 'math', 'arctic'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice culture kiwi swarm couch evolve corn cost cereal garden |  

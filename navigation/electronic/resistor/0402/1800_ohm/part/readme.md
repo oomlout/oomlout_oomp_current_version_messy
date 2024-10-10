@@ -122,6 +122,18 @@ inquiry
 situate
 timber
 buyer |  
+| bip_39_word_no_space_1 | child |  
+| bip_39_word_no_space_10 | childloanbarelybudgetpantherinquirysituatetimberbuyerspeak |  
+| bip_39_word_no_space_11 | childloanbarelybudgetpantherinquirysituatetimberbuyerspeakdegree |  
+| bip_39_word_no_space_12 | childloanbarelybudgetpantherinquirysituatetimberbuyerspeakdegreealley |  
+| bip_39_word_no_space_2 | childloan |  
+| bip_39_word_no_space_3 | childloanbarely |  
+| bip_39_word_no_space_4 | childloanbarelybudget |  
+| bip_39_word_no_space_5 | childloanbarelybudgetpanther |  
+| bip_39_word_no_space_6 | childloanbarelybudgetpantherinquiry |  
+| bip_39_word_no_space_7 | childloanbarelybudgetpantherinquirysituate |  
+| bip_39_word_no_space_8 | childloanbarelybudgetpantherinquirysituatetimber |  
+| bip_39_word_no_space_9 | childloanbarelybudgetpantherinquirysituatetimberbuyer |  
 | bip_39_word_space_0 | ['child', 'loan', 'barely', 'budget', 'panther', 'inquiry', 'situate', 'timber', 'buyer', 'speak', 'degree', 'alley'] |  
 | bip_39_word_space_1 | child |  
 | bip_39_word_space_10 | child loan barely budget panther inquiry situate timber buyer speak |  

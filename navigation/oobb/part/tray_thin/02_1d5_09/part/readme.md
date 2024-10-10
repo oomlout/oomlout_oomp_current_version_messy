@@ -122,6 +122,18 @@ adapt
 attack
 company
 roast |  
+| bip_39_word_no_space_1 | mirror |  
+| bip_39_word_no_space_10 | mirrorgymforkwristhumbleadaptattackcompanyroastsolar |  
+| bip_39_word_no_space_11 | mirrorgymforkwristhumbleadaptattackcompanyroastsolartrial |  
+| bip_39_word_no_space_12 | mirrorgymforkwristhumbleadaptattackcompanyroastsolartrialamount |  
+| bip_39_word_no_space_2 | mirrorgym |  
+| bip_39_word_no_space_3 | mirrorgymfork |  
+| bip_39_word_no_space_4 | mirrorgymforkwrist |  
+| bip_39_word_no_space_5 | mirrorgymforkwristhumble |  
+| bip_39_word_no_space_6 | mirrorgymforkwristhumbleadapt |  
+| bip_39_word_no_space_7 | mirrorgymforkwristhumbleadaptattack |  
+| bip_39_word_no_space_8 | mirrorgymforkwristhumbleadaptattackcompany |  
+| bip_39_word_no_space_9 | mirrorgymforkwristhumbleadaptattackcompanyroast |  
 | bip_39_word_space_0 | ['mirror', 'gym', 'fork', 'wrist', 'humble', 'adapt', 'attack', 'company', 'roast', 'solar', 'trial', 'amount'] |  
 | bip_39_word_space_1 | mirror |  
 | bip_39_word_space_10 | mirror gym fork wrist humble adapt attack company roast solar |  

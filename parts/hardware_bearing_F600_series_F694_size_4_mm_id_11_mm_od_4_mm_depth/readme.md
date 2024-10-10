@@ -122,6 +122,18 @@ burden
 uncle
 glove
 cup |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illrescueridefooddomainburdenuncleglovecupglad |  
+| bip_39_word_no_space_11 | illrescueridefooddomainburdenuncleglovecupgladlatin |  
+| bip_39_word_no_space_12 | illrescueridefooddomainburdenuncleglovecupgladlatinanother |  
+| bip_39_word_no_space_2 | illrescue |  
+| bip_39_word_no_space_3 | illrescueride |  
+| bip_39_word_no_space_4 | illrescueridefood |  
+| bip_39_word_no_space_5 | illrescueridefooddomain |  
+| bip_39_word_no_space_6 | illrescueridefooddomainburden |  
+| bip_39_word_no_space_7 | illrescueridefooddomainburdenuncle |  
+| bip_39_word_no_space_8 | illrescueridefooddomainburdenuncleglove |  
+| bip_39_word_no_space_9 | illrescueridefooddomainburdenuncleglovecup |  
 | bip_39_word_space_0 | ['ill', 'rescue', 'ride', 'food', 'domain', 'burden', 'uncle', 'glove', 'cup', 'glad', 'latin', 'another'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill rescue ride food domain burden uncle glove cup glad |  

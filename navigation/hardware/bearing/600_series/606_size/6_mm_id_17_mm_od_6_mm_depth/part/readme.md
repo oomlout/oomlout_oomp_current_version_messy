@@ -122,6 +122,18 @@ donkey
 width
 bleak
 bag |  
+| bip_39_word_no_space_1 | question |  
+| bip_39_word_no_space_10 | questionroofcoachmythstrategydonkeywidthbleakbagmachine |  
+| bip_39_word_no_space_11 | questionroofcoachmythstrategydonkeywidthbleakbagmachineskull |  
+| bip_39_word_no_space_12 | questionroofcoachmythstrategydonkeywidthbleakbagmachineskullapology |  
+| bip_39_word_no_space_2 | questionroof |  
+| bip_39_word_no_space_3 | questionroofcoach |  
+| bip_39_word_no_space_4 | questionroofcoachmyth |  
+| bip_39_word_no_space_5 | questionroofcoachmythstrategy |  
+| bip_39_word_no_space_6 | questionroofcoachmythstrategydonkey |  
+| bip_39_word_no_space_7 | questionroofcoachmythstrategydonkeywidth |  
+| bip_39_word_no_space_8 | questionroofcoachmythstrategydonkeywidthbleak |  
+| bip_39_word_no_space_9 | questionroofcoachmythstrategydonkeywidthbleakbag |  
 | bip_39_word_space_0 | ['question', 'roof', 'coach', 'myth', 'strategy', 'donkey', 'width', 'bleak', 'bag', 'machine', 'skull', 'apology'] |  
 | bip_39_word_space_1 | question |  
 | bip_39_word_space_10 | question roof coach myth strategy donkey width bleak bag machine |  

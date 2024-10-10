@@ -122,6 +122,18 @@ loop
 stadium
 access
 coconut |  
+| bip_39_word_no_space_1 | sauce |  
+| bip_39_word_no_space_10 | sauceblindgluehubshyloopstadiumaccesscoconutportion |  
+| bip_39_word_no_space_11 | sauceblindgluehubshyloopstadiumaccesscoconutportionclient |  
+| bip_39_word_no_space_12 | sauceblindgluehubshyloopstadiumaccesscoconutportionclientappear |  
+| bip_39_word_no_space_2 | sauceblind |  
+| bip_39_word_no_space_3 | sauceblindglue |  
+| bip_39_word_no_space_4 | sauceblindgluehub |  
+| bip_39_word_no_space_5 | sauceblindgluehubshy |  
+| bip_39_word_no_space_6 | sauceblindgluehubshyloop |  
+| bip_39_word_no_space_7 | sauceblindgluehubshyloopstadium |  
+| bip_39_word_no_space_8 | sauceblindgluehubshyloopstadiumaccess |  
+| bip_39_word_no_space_9 | sauceblindgluehubshyloopstadiumaccesscoconut |  
 | bip_39_word_space_0 | ['sauce', 'blind', 'glue', 'hub', 'shy', 'loop', 'stadium', 'access', 'coconut', 'portion', 'client', 'appear'] |  
 | bip_39_word_space_1 | sauce |  
 | bip_39_word_space_10 | sauce blind glue hub shy loop stadium access coconut portion |  

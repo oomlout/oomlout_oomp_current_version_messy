@@ -122,6 +122,18 @@ lizard
 dwarf
 fire
 warm |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefdisplaywaitnastybosslizarddwarffirewarmsalute |  
+| bip_39_word_no_space_11 | griefdisplaywaitnastybosslizarddwarffirewarmsalutedraft |  
+| bip_39_word_no_space_12 | griefdisplaywaitnastybosslizarddwarffirewarmsalutedraftadvice |  
+| bip_39_word_no_space_2 | griefdisplay |  
+| bip_39_word_no_space_3 | griefdisplaywait |  
+| bip_39_word_no_space_4 | griefdisplaywaitnasty |  
+| bip_39_word_no_space_5 | griefdisplaywaitnastyboss |  
+| bip_39_word_no_space_6 | griefdisplaywaitnastybosslizard |  
+| bip_39_word_no_space_7 | griefdisplaywaitnastybosslizarddwarf |  
+| bip_39_word_no_space_8 | griefdisplaywaitnastybosslizarddwarffire |  
+| bip_39_word_no_space_9 | griefdisplaywaitnastybosslizarddwarffirewarm |  
 | bip_39_word_space_0 | ['grief', 'display', 'wait', 'nasty', 'boss', 'lizard', 'dwarf', 'fire', 'warm', 'salute', 'draft', 'advice'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief display wait nasty boss lizard dwarf fire warm salute |  

@@ -122,6 +122,18 @@ usage
 parent
 ride
 use |  
+| bip_39_word_no_space_1 | taxi |  
+| bip_39_word_no_space_10 | taxiunitmixedfandespairusageparentrideusehope |  
+| bip_39_word_no_space_11 | taxiunitmixedfandespairusageparentrideusehopenurse |  
+| bip_39_word_no_space_12 | taxiunitmixedfandespairusageparentrideusehopenurseaccuse |  
+| bip_39_word_no_space_2 | taxiunit |  
+| bip_39_word_no_space_3 | taxiunitmixed |  
+| bip_39_word_no_space_4 | taxiunitmixedfan |  
+| bip_39_word_no_space_5 | taxiunitmixedfandespair |  
+| bip_39_word_no_space_6 | taxiunitmixedfandespairusage |  
+| bip_39_word_no_space_7 | taxiunitmixedfandespairusageparent |  
+| bip_39_word_no_space_8 | taxiunitmixedfandespairusageparentride |  
+| bip_39_word_no_space_9 | taxiunitmixedfandespairusageparentrideuse |  
 | bip_39_word_space_0 | ['taxi', 'unit', 'mixed', 'fan', 'despair', 'usage', 'parent', 'ride', 'use', 'hope', 'nurse', 'accuse'] |  
 | bip_39_word_space_1 | taxi |  
 | bip_39_word_space_10 | taxi unit mixed fan despair usage parent ride use hope |  

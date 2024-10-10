@@ -122,6 +122,18 @@ shed
 carpet
 melody
 spawn |  
+| bip_39_word_no_space_1 | museum |  
+| bip_39_word_no_space_10 | museumbulkdinnerpageravenshedcarpetmelodyspawncrush |  
+| bip_39_word_no_space_11 | museumbulkdinnerpageravenshedcarpetmelodyspawncrushlucky |  
+| bip_39_word_no_space_12 | museumbulkdinnerpageravenshedcarpetmelodyspawncrushluckyarea |  
+| bip_39_word_no_space_2 | museumbulk |  
+| bip_39_word_no_space_3 | museumbulkdinner |  
+| bip_39_word_no_space_4 | museumbulkdinnerpage |  
+| bip_39_word_no_space_5 | museumbulkdinnerpageraven |  
+| bip_39_word_no_space_6 | museumbulkdinnerpageravenshed |  
+| bip_39_word_no_space_7 | museumbulkdinnerpageravenshedcarpet |  
+| bip_39_word_no_space_8 | museumbulkdinnerpageravenshedcarpetmelody |  
+| bip_39_word_no_space_9 | museumbulkdinnerpageravenshedcarpetmelodyspawn |  
 | bip_39_word_space_0 | ['museum', 'bulk', 'dinner', 'page', 'raven', 'shed', 'carpet', 'melody', 'spawn', 'crush', 'lucky', 'area'] |  
 | bip_39_word_space_1 | museum |  
 | bip_39_word_space_10 | museum bulk dinner page raven shed carpet melody spawn crush |  

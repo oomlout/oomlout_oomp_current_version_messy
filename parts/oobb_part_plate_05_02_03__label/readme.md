@@ -122,6 +122,18 @@ verb
 clog
 seek
 clean |  
+| bip_39_word_no_space_1 | legal |  
+| bip_39_word_no_space_10 | legalgatherantiquephysicalantennaverbclogseekcleanmedia |  
+| bip_39_word_no_space_11 | legalgatherantiquephysicalantennaverbclogseekcleanmediaglue |  
+| bip_39_word_no_space_12 | legalgatherantiquephysicalantennaverbclogseekcleanmediaglueauto |  
+| bip_39_word_no_space_2 | legalgather |  
+| bip_39_word_no_space_3 | legalgatherantique |  
+| bip_39_word_no_space_4 | legalgatherantiquephysical |  
+| bip_39_word_no_space_5 | legalgatherantiquephysicalantenna |  
+| bip_39_word_no_space_6 | legalgatherantiquephysicalantennaverb |  
+| bip_39_word_no_space_7 | legalgatherantiquephysicalantennaverbclog |  
+| bip_39_word_no_space_8 | legalgatherantiquephysicalantennaverbclogseek |  
+| bip_39_word_no_space_9 | legalgatherantiquephysicalantennaverbclogseekclean |  
 | bip_39_word_space_0 | ['legal', 'gather', 'antique', 'physical', 'antenna', 'verb', 'clog', 'seek', 'clean', 'media', 'glue', 'auto'] |  
 | bip_39_word_space_1 | legal |  
 | bip_39_word_space_10 | legal gather antique physical antenna verb clog seek clean media |  

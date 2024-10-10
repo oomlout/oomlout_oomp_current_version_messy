@@ -122,6 +122,18 @@ finish
 silly
 joy
 any |  
+| bip_39_word_no_space_1 | ripple |  
+| bip_39_word_no_space_10 | rippleexampleexhibitsausageofficefinishsillyjoyanylike |  
+| bip_39_word_no_space_11 | rippleexampleexhibitsausageofficefinishsillyjoyanylikemoon |  
+| bip_39_word_no_space_12 | rippleexampleexhibitsausageofficefinishsillyjoyanylikemoonautumn |  
+| bip_39_word_no_space_2 | rippleexample |  
+| bip_39_word_no_space_3 | rippleexampleexhibit |  
+| bip_39_word_no_space_4 | rippleexampleexhibitsausage |  
+| bip_39_word_no_space_5 | rippleexampleexhibitsausageoffice |  
+| bip_39_word_no_space_6 | rippleexampleexhibitsausageofficefinish |  
+| bip_39_word_no_space_7 | rippleexampleexhibitsausageofficefinishsilly |  
+| bip_39_word_no_space_8 | rippleexampleexhibitsausageofficefinishsillyjoy |  
+| bip_39_word_no_space_9 | rippleexampleexhibitsausageofficefinishsillyjoyany |  
 | bip_39_word_space_0 | ['ripple', 'example', 'exhibit', 'sausage', 'office', 'finish', 'silly', 'joy', 'any', 'like', 'moon', 'autumn'] |  
 | bip_39_word_space_1 | ripple |  
 | bip_39_word_space_10 | ripple example exhibit sausage office finish silly joy any like |  

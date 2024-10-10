@@ -122,6 +122,18 @@ lizard
 image
 eagle
 brand |  
+| bip_39_word_no_space_1 | curtain |  
+| bip_39_word_no_space_10 | curtainwinnersorryburstcorrectlizardimageeaglebrandswift |  
+| bip_39_word_no_space_11 | curtainwinnersorryburstcorrectlizardimageeaglebrandswifterode |  
+| bip_39_word_no_space_12 | curtainwinnersorryburstcorrectlizardimageeaglebrandswifterodeabsent |  
+| bip_39_word_no_space_2 | curtainwinner |  
+| bip_39_word_no_space_3 | curtainwinnersorry |  
+| bip_39_word_no_space_4 | curtainwinnersorryburst |  
+| bip_39_word_no_space_5 | curtainwinnersorryburstcorrect |  
+| bip_39_word_no_space_6 | curtainwinnersorryburstcorrectlizard |  
+| bip_39_word_no_space_7 | curtainwinnersorryburstcorrectlizardimage |  
+| bip_39_word_no_space_8 | curtainwinnersorryburstcorrectlizardimageeagle |  
+| bip_39_word_no_space_9 | curtainwinnersorryburstcorrectlizardimageeaglebrand |  
 | bip_39_word_space_0 | ['curtain', 'winner', 'sorry', 'burst', 'correct', 'lizard', 'image', 'eagle', 'brand', 'swift', 'erode', 'absent'] |  
 | bip_39_word_space_1 | curtain |  
 | bip_39_word_space_10 | curtain winner sorry burst correct lizard image eagle brand swift |  

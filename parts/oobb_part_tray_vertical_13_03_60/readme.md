@@ -122,6 +122,18 @@ need
 ring
 record
 endorse |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offthenturkeyelephantcrushneedringrecordendorsebind |  
+| bip_39_word_no_space_11 | offthenturkeyelephantcrushneedringrecordendorsebindrib |  
+| bip_39_word_no_space_12 | offthenturkeyelephantcrushneedringrecordendorsebindribattack |  
+| bip_39_word_no_space_2 | offthen |  
+| bip_39_word_no_space_3 | offthenturkey |  
+| bip_39_word_no_space_4 | offthenturkeyelephant |  
+| bip_39_word_no_space_5 | offthenturkeyelephantcrush |  
+| bip_39_word_no_space_6 | offthenturkeyelephantcrushneed |  
+| bip_39_word_no_space_7 | offthenturkeyelephantcrushneedring |  
+| bip_39_word_no_space_8 | offthenturkeyelephantcrushneedringrecord |  
+| bip_39_word_no_space_9 | offthenturkeyelephantcrushneedringrecordendorse |  
 | bip_39_word_space_0 | ['off', 'then', 'turkey', 'elephant', 'crush', 'need', 'ring', 'record', 'endorse', 'bind', 'rib', 'attack'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off then turkey elephant crush need ring record endorse bind |  

@@ -122,6 +122,18 @@ harvest
 brush
 income
 hammer |  
+| bip_39_word_no_space_1 | orphan |  
+| bip_39_word_no_space_10 | orphanwearfireisolatepresentharvestbrushincomehammerextra |  
+| bip_39_word_no_space_11 | orphanwearfireisolatepresentharvestbrushincomehammerextraact |  
+| bip_39_word_no_space_12 | orphanwearfireisolatepresentharvestbrushincomehammerextraactaerobic |  
+| bip_39_word_no_space_2 | orphanwear |  
+| bip_39_word_no_space_3 | orphanwearfire |  
+| bip_39_word_no_space_4 | orphanwearfireisolate |  
+| bip_39_word_no_space_5 | orphanwearfireisolatepresent |  
+| bip_39_word_no_space_6 | orphanwearfireisolatepresentharvest |  
+| bip_39_word_no_space_7 | orphanwearfireisolatepresentharvestbrush |  
+| bip_39_word_no_space_8 | orphanwearfireisolatepresentharvestbrushincome |  
+| bip_39_word_no_space_9 | orphanwearfireisolatepresentharvestbrushincomehammer |  
 | bip_39_word_space_0 | ['orphan', 'wear', 'fire', 'isolate', 'present', 'harvest', 'brush', 'income', 'hammer', 'extra', 'act', 'aerobic'] |  
 | bip_39_word_space_1 | orphan |  
 | bip_39_word_space_10 | orphan wear fire isolate present harvest brush income hammer extra |  

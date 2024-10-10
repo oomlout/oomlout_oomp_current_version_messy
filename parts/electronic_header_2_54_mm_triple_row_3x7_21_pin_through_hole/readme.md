@@ -122,6 +122,18 @@ start
 rose
 imitate
 swap |  
+| bip_39_word_no_space_1 | shrug |  
+| bip_39_word_no_space_10 | shrugseedretreatsortmeatstartroseimitateswapdose |  
+| bip_39_word_no_space_11 | shrugseedretreatsortmeatstartroseimitateswapdoselift |  
+| bip_39_word_no_space_12 | shrugseedretreatsortmeatstartroseimitateswapdoseliftahead |  
+| bip_39_word_no_space_2 | shrugseed |  
+| bip_39_word_no_space_3 | shrugseedretreat |  
+| bip_39_word_no_space_4 | shrugseedretreatsort |  
+| bip_39_word_no_space_5 | shrugseedretreatsortmeat |  
+| bip_39_word_no_space_6 | shrugseedretreatsortmeatstart |  
+| bip_39_word_no_space_7 | shrugseedretreatsortmeatstartrose |  
+| bip_39_word_no_space_8 | shrugseedretreatsortmeatstartroseimitate |  
+| bip_39_word_no_space_9 | shrugseedretreatsortmeatstartroseimitateswap |  
 | bip_39_word_space_0 | ['shrug', 'seed', 'retreat', 'sort', 'meat', 'start', 'rose', 'imitate', 'swap', 'dose', 'lift', 'ahead'] |  
 | bip_39_word_space_1 | shrug |  
 | bip_39_word_space_10 | shrug seed retreat sort meat start rose imitate swap dose |  

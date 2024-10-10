@@ -122,6 +122,18 @@ flush
 cram
 half
 index |  
+| bip_39_word_no_space_1 | amateur |  
+| bip_39_word_no_space_10 | amateurpeoplesausageclumpcousinflushcramhalfindexoutput |  
+| bip_39_word_no_space_11 | amateurpeoplesausageclumpcousinflushcramhalfindexoutputexit |  
+| bip_39_word_no_space_12 | amateurpeoplesausageclumpcousinflushcramhalfindexoutputexitartist |  
+| bip_39_word_no_space_2 | amateurpeople |  
+| bip_39_word_no_space_3 | amateurpeoplesausage |  
+| bip_39_word_no_space_4 | amateurpeoplesausageclump |  
+| bip_39_word_no_space_5 | amateurpeoplesausageclumpcousin |  
+| bip_39_word_no_space_6 | amateurpeoplesausageclumpcousinflush |  
+| bip_39_word_no_space_7 | amateurpeoplesausageclumpcousinflushcram |  
+| bip_39_word_no_space_8 | amateurpeoplesausageclumpcousinflushcramhalf |  
+| bip_39_word_no_space_9 | amateurpeoplesausageclumpcousinflushcramhalfindex |  
 | bip_39_word_space_0 | ['amateur', 'people', 'sausage', 'clump', 'cousin', 'flush', 'cram', 'half', 'index', 'output', 'exit', 'artist'] |  
 | bip_39_word_space_1 | amateur |  
 | bip_39_word_space_10 | amateur people sausage clump cousin flush cram half index output |  

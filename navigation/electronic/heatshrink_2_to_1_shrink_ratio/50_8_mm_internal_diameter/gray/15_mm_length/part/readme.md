@@ -122,6 +122,18 @@ renew
 radio
 repair
 isolate |  
+| bip_39_word_no_space_1 | twenty |  
+| bip_39_word_no_space_10 | twentyjewelfuryidlegainrenewradiorepairisolatetrap |  
+| bip_39_word_no_space_11 | twentyjewelfuryidlegainrenewradiorepairisolatetraponly |  
+| bip_39_word_no_space_12 | twentyjewelfuryidlegainrenewradiorepairisolatetraponlyalready |  
+| bip_39_word_no_space_2 | twentyjewel |  
+| bip_39_word_no_space_3 | twentyjewelfury |  
+| bip_39_word_no_space_4 | twentyjewelfuryidle |  
+| bip_39_word_no_space_5 | twentyjewelfuryidlegain |  
+| bip_39_word_no_space_6 | twentyjewelfuryidlegainrenew |  
+| bip_39_word_no_space_7 | twentyjewelfuryidlegainrenewradio |  
+| bip_39_word_no_space_8 | twentyjewelfuryidlegainrenewradiorepair |  
+| bip_39_word_no_space_9 | twentyjewelfuryidlegainrenewradiorepairisolate |  
 | bip_39_word_space_0 | ['twenty', 'jewel', 'fury', 'idle', 'gain', 'renew', 'radio', 'repair', 'isolate', 'trap', 'only', 'already'] |  
 | bip_39_word_space_1 | twenty |  
 | bip_39_word_space_10 | twenty jewel fury idle gain renew radio repair isolate trap |  

@@ -122,6 +122,18 @@ film
 improve
 alcohol
 festival |  
+| bip_39_word_no_space_1 | similar |  
+| bip_39_word_no_space_10 | similarwinkdriftfingerturtlefilmimprovealcoholfestivaltruly |  
+| bip_39_word_no_space_11 | similarwinkdriftfingerturtlefilmimprovealcoholfestivaltrulypluck |  
+| bip_39_word_no_space_12 | similarwinkdriftfingerturtlefilmimprovealcoholfestivaltrulypluckantenna |  
+| bip_39_word_no_space_2 | similarwink |  
+| bip_39_word_no_space_3 | similarwinkdrift |  
+| bip_39_word_no_space_4 | similarwinkdriftfinger |  
+| bip_39_word_no_space_5 | similarwinkdriftfingerturtle |  
+| bip_39_word_no_space_6 | similarwinkdriftfingerturtlefilm |  
+| bip_39_word_no_space_7 | similarwinkdriftfingerturtlefilmimprove |  
+| bip_39_word_no_space_8 | similarwinkdriftfingerturtlefilmimprovealcohol |  
+| bip_39_word_no_space_9 | similarwinkdriftfingerturtlefilmimprovealcoholfestival |  
 | bip_39_word_space_0 | ['similar', 'wink', 'drift', 'finger', 'turtle', 'film', 'improve', 'alcohol', 'festival', 'truly', 'pluck', 'antenna'] |  
 | bip_39_word_space_1 | similar |  
 | bip_39_word_space_10 | similar wink drift finger turtle film improve alcohol festival truly |  

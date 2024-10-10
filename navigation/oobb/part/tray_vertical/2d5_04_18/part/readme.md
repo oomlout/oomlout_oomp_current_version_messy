@@ -122,6 +122,18 @@ sword
 earth
 debris
 say |  
+| bip_39_word_no_space_1 | between |  
+| bip_39_word_no_space_10 | betweenforesthatorganwelcomeswordearthdebrissaymore |  
+| bip_39_word_no_space_11 | betweenforesthatorganwelcomeswordearthdebrissaymoreability |  
+| bip_39_word_no_space_12 | betweenforesthatorganwelcomeswordearthdebrissaymoreabilityabout |  
+| bip_39_word_no_space_2 | betweenforest |  
+| bip_39_word_no_space_3 | betweenforesthat |  
+| bip_39_word_no_space_4 | betweenforesthatorgan |  
+| bip_39_word_no_space_5 | betweenforesthatorganwelcome |  
+| bip_39_word_no_space_6 | betweenforesthatorganwelcomesword |  
+| bip_39_word_no_space_7 | betweenforesthatorganwelcomeswordearth |  
+| bip_39_word_no_space_8 | betweenforesthatorganwelcomeswordearthdebris |  
+| bip_39_word_no_space_9 | betweenforesthatorganwelcomeswordearthdebrissay |  
 | bip_39_word_space_0 | ['between', 'forest', 'hat', 'organ', 'welcome', 'sword', 'earth', 'debris', 'say', 'more', 'ability', 'about'] |  
 | bip_39_word_space_1 | between |  
 | bip_39_word_space_10 | between forest hat organ welcome sword earth debris say more |  

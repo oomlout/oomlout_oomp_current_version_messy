@@ -122,6 +122,18 @@ web
 female
 today
 gospel |  
+| bip_39_word_no_space_1 | prosper |  
+| bip_39_word_no_space_10 | prosperhabitalldrylegwebfemaletodaygospelhedgehog |  
+| bip_39_word_no_space_11 | prosperhabitalldrylegwebfemaletodaygospelhedgehogalmost |  
+| bip_39_word_no_space_12 | prosperhabitalldrylegwebfemaletodaygospelhedgehogalmostaddict |  
+| bip_39_word_no_space_2 | prosperhabit |  
+| bip_39_word_no_space_3 | prosperhabitall |  
+| bip_39_word_no_space_4 | prosperhabitalldry |  
+| bip_39_word_no_space_5 | prosperhabitalldryleg |  
+| bip_39_word_no_space_6 | prosperhabitalldrylegweb |  
+| bip_39_word_no_space_7 | prosperhabitalldrylegwebfemale |  
+| bip_39_word_no_space_8 | prosperhabitalldrylegwebfemaletoday |  
+| bip_39_word_no_space_9 | prosperhabitalldrylegwebfemaletodaygospel |  
 | bip_39_word_space_0 | ['prosper', 'habit', 'all', 'dry', 'leg', 'web', 'female', 'today', 'gospel', 'hedgehog', 'almost', 'addict'] |  
 | bip_39_word_space_1 | prosper |  
 | bip_39_word_space_10 | prosper habit all dry leg web female today gospel hedgehog |  

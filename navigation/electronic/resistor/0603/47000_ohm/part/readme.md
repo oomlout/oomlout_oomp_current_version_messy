@@ -122,6 +122,18 @@ toast
 bench
 moon
 table |  
+| bip_39_word_no_space_1 | imitate |  
+| bip_39_word_no_space_10 | imitateflamecraftuselessenlisttoastbenchmoontablerobot |  
+| bip_39_word_no_space_11 | imitateflamecraftuselessenlisttoastbenchmoontablerobotrepeat |  
+| bip_39_word_no_space_12 | imitateflamecraftuselessenlisttoastbenchmoontablerobotrepeatarrow |  
+| bip_39_word_no_space_2 | imitateflame |  
+| bip_39_word_no_space_3 | imitateflamecraft |  
+| bip_39_word_no_space_4 | imitateflamecraftuseless |  
+| bip_39_word_no_space_5 | imitateflamecraftuselessenlist |  
+| bip_39_word_no_space_6 | imitateflamecraftuselessenlisttoast |  
+| bip_39_word_no_space_7 | imitateflamecraftuselessenlisttoastbench |  
+| bip_39_word_no_space_8 | imitateflamecraftuselessenlisttoastbenchmoon |  
+| bip_39_word_no_space_9 | imitateflamecraftuselessenlisttoastbenchmoontable |  
 | bip_39_word_space_0 | ['imitate', 'flame', 'craft', 'useless', 'enlist', 'toast', 'bench', 'moon', 'table', 'robot', 'repeat', 'arrow'] |  
 | bip_39_word_space_1 | imitate |  
 | bip_39_word_space_10 | imitate flame craft useless enlist toast bench moon table robot |  

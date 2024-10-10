@@ -122,6 +122,18 @@ champion
 fox
 giraffe
 school |  
+| bip_39_word_no_space_1 | adapt |  
+| bip_39_word_no_space_10 | adaptbreezeballpalmwestchampionfoxgiraffeschoolenjoy |  
+| bip_39_word_no_space_11 | adaptbreezeballpalmwestchampionfoxgiraffeschoolenjoytrial |  
+| bip_39_word_no_space_12 | adaptbreezeballpalmwestchampionfoxgiraffeschoolenjoytrialabsorb |  
+| bip_39_word_no_space_2 | adaptbreeze |  
+| bip_39_word_no_space_3 | adaptbreezeball |  
+| bip_39_word_no_space_4 | adaptbreezeballpalm |  
+| bip_39_word_no_space_5 | adaptbreezeballpalmwest |  
+| bip_39_word_no_space_6 | adaptbreezeballpalmwestchampion |  
+| bip_39_word_no_space_7 | adaptbreezeballpalmwestchampionfox |  
+| bip_39_word_no_space_8 | adaptbreezeballpalmwestchampionfoxgiraffe |  
+| bip_39_word_no_space_9 | adaptbreezeballpalmwestchampionfoxgiraffeschool |  
 | bip_39_word_space_0 | ['adapt', 'breeze', 'ball', 'palm', 'west', 'champion', 'fox', 'giraffe', 'school', 'enjoy', 'trial', 'absorb'] |  
 | bip_39_word_space_1 | adapt |  
 | bip_39_word_space_10 | adapt breeze ball palm west champion fox giraffe school enjoy |  

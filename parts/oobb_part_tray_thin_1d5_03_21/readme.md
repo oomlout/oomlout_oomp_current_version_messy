@@ -122,6 +122,18 @@ awkward
 insect
 sadness
 review |  
+| bip_39_word_no_space_1 | such |  
+| bip_39_word_no_space_10 | suchresponselimitofficemajorawkwardinsectsadnessreviewdirect |  
+| bip_39_word_no_space_11 | suchresponselimitofficemajorawkwardinsectsadnessreviewdirectsupreme |  
+| bip_39_word_no_space_12 | suchresponselimitofficemajorawkwardinsectsadnessreviewdirectsupremeadapt |  
+| bip_39_word_no_space_2 | suchresponse |  
+| bip_39_word_no_space_3 | suchresponselimit |  
+| bip_39_word_no_space_4 | suchresponselimitoffice |  
+| bip_39_word_no_space_5 | suchresponselimitofficemajor |  
+| bip_39_word_no_space_6 | suchresponselimitofficemajorawkward |  
+| bip_39_word_no_space_7 | suchresponselimitofficemajorawkwardinsect |  
+| bip_39_word_no_space_8 | suchresponselimitofficemajorawkwardinsectsadness |  
+| bip_39_word_no_space_9 | suchresponselimitofficemajorawkwardinsectsadnessreview |  
 | bip_39_word_space_0 | ['such', 'response', 'limit', 'office', 'major', 'awkward', 'insect', 'sadness', 'review', 'direct', 'supreme', 'adapt'] |  
 | bip_39_word_space_1 | such |  
 | bip_39_word_space_10 | such response limit office major awkward insect sadness review direct |  

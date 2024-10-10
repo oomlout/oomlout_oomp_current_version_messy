@@ -122,6 +122,18 @@ will
 emerge
 quiz
 under |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betrayproducesquirrelsailbronzewillemergequizunderaddict |  
+| bip_39_word_no_space_11 | betrayproducesquirrelsailbronzewillemergequizunderaddictpoem |  
+| bip_39_word_no_space_12 | betrayproducesquirrelsailbronzewillemergequizunderaddictpoemanswer |  
+| bip_39_word_no_space_2 | betrayproduce |  
+| bip_39_word_no_space_3 | betrayproducesquirrel |  
+| bip_39_word_no_space_4 | betrayproducesquirrelsail |  
+| bip_39_word_no_space_5 | betrayproducesquirrelsailbronze |  
+| bip_39_word_no_space_6 | betrayproducesquirrelsailbronzewill |  
+| bip_39_word_no_space_7 | betrayproducesquirrelsailbronzewillemerge |  
+| bip_39_word_no_space_8 | betrayproducesquirrelsailbronzewillemergequiz |  
+| bip_39_word_no_space_9 | betrayproducesquirrelsailbronzewillemergequizunder |  
 | bip_39_word_space_0 | ['betray', 'produce', 'squirrel', 'sail', 'bronze', 'will', 'emerge', 'quiz', 'under', 'addict', 'poem', 'answer'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray produce squirrel sail bronze will emerge quiz under addict |  

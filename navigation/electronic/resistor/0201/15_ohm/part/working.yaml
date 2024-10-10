@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'canyon
   dwarf
 
   street'
+bip_39_word_no_space_1: canyon
+bip_39_word_no_space_10: canyontenantdenyclawfenceamateurdutydwarfstreetdigital
+bip_39_word_no_space_11: canyontenantdenyclawfenceamateurdutydwarfstreetdigitalload
+bip_39_word_no_space_12: canyontenantdenyclawfenceamateurdutydwarfstreetdigitalloadattack
+bip_39_word_no_space_2: canyontenant
+bip_39_word_no_space_3: canyontenantdeny
+bip_39_word_no_space_4: canyontenantdenyclaw
+bip_39_word_no_space_5: canyontenantdenyclawfence
+bip_39_word_no_space_6: canyontenantdenyclawfenceamateur
+bip_39_word_no_space_7: canyontenantdenyclawfenceamateurduty
+bip_39_word_no_space_8: canyontenantdenyclawfenceamateurdutydwarf
+bip_39_word_no_space_9: canyontenantdenyclawfenceamateurdutydwarfstreet
 bip_39_word_space_0:
 - canyon
 - tenant

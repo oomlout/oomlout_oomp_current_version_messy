@@ -122,6 +122,18 @@ patient
 piano
 casino
 rally |  
+| bip_39_word_no_space_1 | kitchen |  
+| bip_39_word_no_space_10 | kitchenpanelnationjustmediapatientpianocasinorallylaptop |  
+| bip_39_word_no_space_11 | kitchenpanelnationjustmediapatientpianocasinorallylaptoptorch |  
+| bip_39_word_no_space_12 | kitchenpanelnationjustmediapatientpianocasinorallylaptoptorchalready |  
+| bip_39_word_no_space_2 | kitchenpanel |  
+| bip_39_word_no_space_3 | kitchenpanelnation |  
+| bip_39_word_no_space_4 | kitchenpanelnationjust |  
+| bip_39_word_no_space_5 | kitchenpanelnationjustmedia |  
+| bip_39_word_no_space_6 | kitchenpanelnationjustmediapatient |  
+| bip_39_word_no_space_7 | kitchenpanelnationjustmediapatientpiano |  
+| bip_39_word_no_space_8 | kitchenpanelnationjustmediapatientpianocasino |  
+| bip_39_word_no_space_9 | kitchenpanelnationjustmediapatientpianocasinorally |  
 | bip_39_word_space_0 | ['kitchen', 'panel', 'nation', 'just', 'media', 'patient', 'piano', 'casino', 'rally', 'laptop', 'torch', 'already'] |  
 | bip_39_word_space_1 | kitchen |  
 | bip_39_word_space_10 | kitchen panel nation just media patient piano casino rally laptop |  

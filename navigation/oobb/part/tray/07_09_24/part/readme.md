@@ -122,6 +122,18 @@ uphold
 basic
 clap
 same |  
+| bip_39_word_no_space_1 | pottery |  
+| bip_39_word_no_space_10 | potterysillyhopetrumpetmandateupholdbasicclapsameattitude |  
+| bip_39_word_no_space_11 | potterysillyhopetrumpetmandateupholdbasicclapsameattitudearrow |  
+| bip_39_word_no_space_12 | potterysillyhopetrumpetmandateupholdbasicclapsameattitudearrowavocado |  
+| bip_39_word_no_space_2 | potterysilly |  
+| bip_39_word_no_space_3 | potterysillyhope |  
+| bip_39_word_no_space_4 | potterysillyhopetrumpet |  
+| bip_39_word_no_space_5 | potterysillyhopetrumpetmandate |  
+| bip_39_word_no_space_6 | potterysillyhopetrumpetmandateuphold |  
+| bip_39_word_no_space_7 | potterysillyhopetrumpetmandateupholdbasic |  
+| bip_39_word_no_space_8 | potterysillyhopetrumpetmandateupholdbasicclap |  
+| bip_39_word_no_space_9 | potterysillyhopetrumpetmandateupholdbasicclapsame |  
 | bip_39_word_space_0 | ['pottery', 'silly', 'hope', 'trumpet', 'mandate', 'uphold', 'basic', 'clap', 'same', 'attitude', 'arrow', 'avocado'] |  
 | bip_39_word_space_1 | pottery |  
 | bip_39_word_space_10 | pottery silly hope trumpet mandate uphold basic clap same attitude |  

@@ -122,6 +122,18 @@ rare
 jealous
 capital
 insect |  
+| bip_39_word_no_space_1 | rural |  
+| bip_39_word_no_space_10 | ruralgoverncompanyolivemeadowrarejealouscapitalinsecthurry |  
+| bip_39_word_no_space_11 | ruralgoverncompanyolivemeadowrarejealouscapitalinsecthurryexcess |  
+| bip_39_word_no_space_12 | ruralgoverncompanyolivemeadowrarejealouscapitalinsecthurryexcessagent |  
+| bip_39_word_no_space_2 | ruralgovern |  
+| bip_39_word_no_space_3 | ruralgoverncompany |  
+| bip_39_word_no_space_4 | ruralgoverncompanyolive |  
+| bip_39_word_no_space_5 | ruralgoverncompanyolivemeadow |  
+| bip_39_word_no_space_6 | ruralgoverncompanyolivemeadowrare |  
+| bip_39_word_no_space_7 | ruralgoverncompanyolivemeadowrarejealous |  
+| bip_39_word_no_space_8 | ruralgoverncompanyolivemeadowrarejealouscapital |  
+| bip_39_word_no_space_9 | ruralgoverncompanyolivemeadowrarejealouscapitalinsect |  
 | bip_39_word_space_0 | ['rural', 'govern', 'company', 'olive', 'meadow', 'rare', 'jealous', 'capital', 'insect', 'hurry', 'excess', 'agent'] |  
 | bip_39_word_space_1 | rural |  
 | bip_39_word_space_10 | rural govern company olive meadow rare jealous capital insect hurry |  

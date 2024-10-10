@@ -122,6 +122,18 @@ glory
 lumber
 whip
 goat |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstvehiclezebrabuddyshyglorylumberwhipgoatfashion |  
+| bip_39_word_no_space_11 | firstvehiclezebrabuddyshyglorylumberwhipgoatfashionkey |  
+| bip_39_word_no_space_12 | firstvehiclezebrabuddyshyglorylumberwhipgoatfashionkeyalbum |  
+| bip_39_word_no_space_2 | firstvehicle |  
+| bip_39_word_no_space_3 | firstvehiclezebra |  
+| bip_39_word_no_space_4 | firstvehiclezebrabuddy |  
+| bip_39_word_no_space_5 | firstvehiclezebrabuddyshy |  
+| bip_39_word_no_space_6 | firstvehiclezebrabuddyshyglory |  
+| bip_39_word_no_space_7 | firstvehiclezebrabuddyshyglorylumber |  
+| bip_39_word_no_space_8 | firstvehiclezebrabuddyshyglorylumberwhip |  
+| bip_39_word_no_space_9 | firstvehiclezebrabuddyshyglorylumberwhipgoat |  
 | bip_39_word_space_0 | ['first', 'vehicle', 'zebra', 'buddy', 'shy', 'glory', 'lumber', 'whip', 'goat', 'fashion', 'key', 'album'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first vehicle zebra buddy shy glory lumber whip goat fashion |  

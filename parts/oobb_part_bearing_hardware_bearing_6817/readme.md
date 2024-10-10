@@ -122,6 +122,18 @@ limb
 observe
 sell
 scorpion |  
+| bip_39_word_no_space_1 | float |  
+| bip_39_word_no_space_10 | floatrazortermgreenivorylimbobservesellscorpionhorror |  
+| bip_39_word_no_space_11 | floatrazortermgreenivorylimbobservesellscorpionhorrornumber |  
+| bip_39_word_no_space_12 | floatrazortermgreenivorylimbobservesellscorpionhorrornumberaim |  
+| bip_39_word_no_space_2 | floatrazor |  
+| bip_39_word_no_space_3 | floatrazorterm |  
+| bip_39_word_no_space_4 | floatrazortermgreen |  
+| bip_39_word_no_space_5 | floatrazortermgreenivory |  
+| bip_39_word_no_space_6 | floatrazortermgreenivorylimb |  
+| bip_39_word_no_space_7 | floatrazortermgreenivorylimbobserve |  
+| bip_39_word_no_space_8 | floatrazortermgreenivorylimbobservesell |  
+| bip_39_word_no_space_9 | floatrazortermgreenivorylimbobservesellscorpion |  
 | bip_39_word_space_0 | ['float', 'razor', 'term', 'green', 'ivory', 'limb', 'observe', 'sell', 'scorpion', 'horror', 'number', 'aim'] |  
 | bip_39_word_space_1 | float |  
 | bip_39_word_space_10 | float razor term green ivory limb observe sell scorpion horror |  

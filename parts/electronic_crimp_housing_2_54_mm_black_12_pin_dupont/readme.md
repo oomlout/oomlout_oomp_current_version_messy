@@ -122,6 +122,18 @@ security
 process
 begin
 bicycle |  
+| bip_39_word_no_space_1 | argue |  
+| bip_39_word_no_space_10 | arguebarrelanalystrobustfoilsecurityprocessbeginbicyclebus |  
+| bip_39_word_no_space_11 | arguebarrelanalystrobustfoilsecurityprocessbeginbicyclebusyoung |  
+| bip_39_word_no_space_12 | arguebarrelanalystrobustfoilsecurityprocessbeginbicyclebusyoungarmy |  
+| bip_39_word_no_space_2 | arguebarrel |  
+| bip_39_word_no_space_3 | arguebarrelanalyst |  
+| bip_39_word_no_space_4 | arguebarrelanalystrobust |  
+| bip_39_word_no_space_5 | arguebarrelanalystrobustfoil |  
+| bip_39_word_no_space_6 | arguebarrelanalystrobustfoilsecurity |  
+| bip_39_word_no_space_7 | arguebarrelanalystrobustfoilsecurityprocess |  
+| bip_39_word_no_space_8 | arguebarrelanalystrobustfoilsecurityprocessbegin |  
+| bip_39_word_no_space_9 | arguebarrelanalystrobustfoilsecurityprocessbeginbicycle |  
 | bip_39_word_space_0 | ['argue', 'barrel', 'analyst', 'robust', 'foil', 'security', 'process', 'begin', 'bicycle', 'bus', 'young', 'army'] |  
 | bip_39_word_space_1 | argue |  
 | bip_39_word_space_10 | argue barrel analyst robust foil security process begin bicycle bus |  

@@ -122,6 +122,18 @@ struggle
 scorpion
 elephant
 maximum |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinicdialrulecommonliftstrugglescorpionelephantmaximumwish |  
+| bip_39_word_no_space_11 | clinicdialrulecommonliftstrugglescorpionelephantmaximumwishquality |  
+| bip_39_word_no_space_12 | clinicdialrulecommonliftstrugglescorpionelephantmaximumwishqualityamused |  
+| bip_39_word_no_space_2 | clinicdial |  
+| bip_39_word_no_space_3 | clinicdialrule |  
+| bip_39_word_no_space_4 | clinicdialrulecommon |  
+| bip_39_word_no_space_5 | clinicdialrulecommonlift |  
+| bip_39_word_no_space_6 | clinicdialrulecommonliftstruggle |  
+| bip_39_word_no_space_7 | clinicdialrulecommonliftstrugglescorpion |  
+| bip_39_word_no_space_8 | clinicdialrulecommonliftstrugglescorpionelephant |  
+| bip_39_word_no_space_9 | clinicdialrulecommonliftstrugglescorpionelephantmaximum |  
 | bip_39_word_space_0 | ['clinic', 'dial', 'rule', 'common', 'lift', 'struggle', 'scorpion', 'elephant', 'maximum', 'wish', 'quality', 'amused'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic dial rule common lift struggle scorpion elephant maximum wish |  

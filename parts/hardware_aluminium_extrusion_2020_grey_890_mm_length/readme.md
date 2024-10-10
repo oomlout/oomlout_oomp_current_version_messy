@@ -122,6 +122,18 @@ husband
 impact
 gym
 stage |  
+| bip_39_word_no_space_1 | present |  
+| bip_39_word_no_space_10 | presentsystemcannondesertorchardhusbandimpactgymstagecancel |  
+| bip_39_word_no_space_11 | presentsystemcannondesertorchardhusbandimpactgymstagecancelamazing |  
+| bip_39_word_no_space_12 | presentsystemcannondesertorchardhusbandimpactgymstagecancelamazingauction |  
+| bip_39_word_no_space_2 | presentsystem |  
+| bip_39_word_no_space_3 | presentsystemcannon |  
+| bip_39_word_no_space_4 | presentsystemcannondesert |  
+| bip_39_word_no_space_5 | presentsystemcannondesertorchard |  
+| bip_39_word_no_space_6 | presentsystemcannondesertorchardhusband |  
+| bip_39_word_no_space_7 | presentsystemcannondesertorchardhusbandimpact |  
+| bip_39_word_no_space_8 | presentsystemcannondesertorchardhusbandimpactgym |  
+| bip_39_word_no_space_9 | presentsystemcannondesertorchardhusbandimpactgymstage |  
 | bip_39_word_space_0 | ['present', 'system', 'cannon', 'desert', 'orchard', 'husband', 'impact', 'gym', 'stage', 'cancel', 'amazing', 'auction'] |  
 | bip_39_word_space_1 | present |  
 | bip_39_word_space_10 | present system cannon desert orchard husband impact gym stage cancel |  

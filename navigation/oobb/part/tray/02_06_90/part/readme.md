@@ -122,6 +122,18 @@ umbrella
 praise
 spirit
 math |  
+| bip_39_word_no_space_1 | borrow |  
+| bip_39_word_no_space_10 | borrowenlistillegalswingexciteumbrellapraisespiritmathnorth |  
+| bip_39_word_no_space_11 | borrowenlistillegalswingexciteumbrellapraisespiritmathnorthsearch |  
+| bip_39_word_no_space_12 | borrowenlistillegalswingexciteumbrellapraisespiritmathnorthsearchart |  
+| bip_39_word_no_space_2 | borrowenlist |  
+| bip_39_word_no_space_3 | borrowenlistillegal |  
+| bip_39_word_no_space_4 | borrowenlistillegalswing |  
+| bip_39_word_no_space_5 | borrowenlistillegalswingexcite |  
+| bip_39_word_no_space_6 | borrowenlistillegalswingexciteumbrella |  
+| bip_39_word_no_space_7 | borrowenlistillegalswingexciteumbrellapraise |  
+| bip_39_word_no_space_8 | borrowenlistillegalswingexciteumbrellapraisespirit |  
+| bip_39_word_no_space_9 | borrowenlistillegalswingexciteumbrellapraisespiritmath |  
 | bip_39_word_space_0 | ['borrow', 'enlist', 'illegal', 'swing', 'excite', 'umbrella', 'praise', 'spirit', 'math', 'north', 'search', 'art'] |  
 | bip_39_word_space_1 | borrow |  
 | bip_39_word_space_10 | borrow enlist illegal swing excite umbrella praise spirit math north |  

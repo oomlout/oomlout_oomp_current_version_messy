@@ -122,6 +122,18 @@ debate
 humble
 lion
 seat |  
+| bip_39_word_no_space_1 | marriage |  
+| bip_39_word_no_space_10 | marriagemachineshrugsadnessparadedebatehumblelionseattoilet |  
+| bip_39_word_no_space_11 | marriagemachineshrugsadnessparadedebatehumblelionseattoiletasset |  
+| bip_39_word_no_space_12 | marriagemachineshrugsadnessparadedebatehumblelionseattoiletassetadvance |  
+| bip_39_word_no_space_2 | marriagemachine |  
+| bip_39_word_no_space_3 | marriagemachineshrug |  
+| bip_39_word_no_space_4 | marriagemachineshrugsadness |  
+| bip_39_word_no_space_5 | marriagemachineshrugsadnessparade |  
+| bip_39_word_no_space_6 | marriagemachineshrugsadnessparadedebate |  
+| bip_39_word_no_space_7 | marriagemachineshrugsadnessparadedebatehumble |  
+| bip_39_word_no_space_8 | marriagemachineshrugsadnessparadedebatehumblelion |  
+| bip_39_word_no_space_9 | marriagemachineshrugsadnessparadedebatehumblelionseat |  
 | bip_39_word_space_0 | ['marriage', 'machine', 'shrug', 'sadness', 'parade', 'debate', 'humble', 'lion', 'seat', 'toilet', 'asset', 'advance'] |  
 | bip_39_word_space_1 | marriage |  
 | bip_39_word_space_10 | marriage machine shrug sadness parade debate humble lion seat toilet |  

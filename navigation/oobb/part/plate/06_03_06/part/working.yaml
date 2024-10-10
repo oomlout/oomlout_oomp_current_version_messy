@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'village
   make
 
   seat'
+bip_39_word_no_space_1: village
+bip_39_word_no_space_10: villageplucksuchcookwidthwinnermimicmakeseatlawsuit
+bip_39_word_no_space_11: villageplucksuchcookwidthwinnermimicmakeseatlawsuitblast
+bip_39_word_no_space_12: villageplucksuchcookwidthwinnermimicmakeseatlawsuitblastadmit
+bip_39_word_no_space_2: villagepluck
+bip_39_word_no_space_3: villageplucksuch
+bip_39_word_no_space_4: villageplucksuchcook
+bip_39_word_no_space_5: villageplucksuchcookwidth
+bip_39_word_no_space_6: villageplucksuchcookwidthwinner
+bip_39_word_no_space_7: villageplucksuchcookwidthwinnermimic
+bip_39_word_no_space_8: villageplucksuchcookwidthwinnermimicmake
+bip_39_word_no_space_9: villageplucksuchcookwidthwinnermimicmakeseat
 bip_39_word_space_0:
 - village
 - pluck

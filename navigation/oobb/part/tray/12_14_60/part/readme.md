@@ -122,6 +122,18 @@ patient
 top
 direct
 present |  
+| bip_39_word_no_space_1 | process |  
+| bip_39_word_no_space_10 | processfurnaceslightmeasureethicspatienttopdirectpresenthammer |  
+| bip_39_word_no_space_11 | processfurnaceslightmeasureethicspatienttopdirectpresenthammerbrief |  
+| bip_39_word_no_space_12 | processfurnaceslightmeasureethicspatienttopdirectpresenthammerbriefamused |  
+| bip_39_word_no_space_2 | processfurnace |  
+| bip_39_word_no_space_3 | processfurnaceslight |  
+| bip_39_word_no_space_4 | processfurnaceslightmeasure |  
+| bip_39_word_no_space_5 | processfurnaceslightmeasureethics |  
+| bip_39_word_no_space_6 | processfurnaceslightmeasureethicspatient |  
+| bip_39_word_no_space_7 | processfurnaceslightmeasureethicspatienttop |  
+| bip_39_word_no_space_8 | processfurnaceslightmeasureethicspatienttopdirect |  
+| bip_39_word_no_space_9 | processfurnaceslightmeasureethicspatienttopdirectpresent |  
 | bip_39_word_space_0 | ['process', 'furnace', 'slight', 'measure', 'ethics', 'patient', 'top', 'direct', 'present', 'hammer', 'brief', 'amused'] |  
 | bip_39_word_space_1 | process |  
 | bip_39_word_space_10 | process furnace slight measure ethics patient top direct present hammer |  

@@ -122,6 +122,18 @@ equip
 concert
 opinion
 gossip |  
+| bip_39_word_no_space_1 | analyst |  
+| bip_39_word_no_space_10 | analystcheckmatchfantasysameequipconcertopiniongossipbehave |  
+| bip_39_word_no_space_11 | analystcheckmatchfantasysameequipconcertopiniongossipbehavegoddess |  
+| bip_39_word_no_space_12 | analystcheckmatchfantasysameequipconcertopiniongossipbehavegoddessachieve |  
+| bip_39_word_no_space_2 | analystcheck |  
+| bip_39_word_no_space_3 | analystcheckmatch |  
+| bip_39_word_no_space_4 | analystcheckmatchfantasy |  
+| bip_39_word_no_space_5 | analystcheckmatchfantasysame |  
+| bip_39_word_no_space_6 | analystcheckmatchfantasysameequip |  
+| bip_39_word_no_space_7 | analystcheckmatchfantasysameequipconcert |  
+| bip_39_word_no_space_8 | analystcheckmatchfantasysameequipconcertopinion |  
+| bip_39_word_no_space_9 | analystcheckmatchfantasysameequipconcertopiniongossip |  
 | bip_39_word_space_0 | ['analyst', 'check', 'match', 'fantasy', 'same', 'equip', 'concert', 'opinion', 'gossip', 'behave', 'goddess', 'achieve'] |  
 | bip_39_word_space_1 | analyst |  
 | bip_39_word_space_10 | analyst check match fantasy same equip concert opinion gossip behave |  

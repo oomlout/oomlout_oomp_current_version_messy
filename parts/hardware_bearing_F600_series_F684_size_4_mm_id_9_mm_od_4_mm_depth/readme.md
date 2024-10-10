@@ -122,6 +122,18 @@ manage
 borrow
 series
 repeat |  
+| bip_39_word_no_space_1 | prize |  
+| bip_39_word_no_space_10 | prizedonkeyscrubmediadegreemanageborrowseriesrepeatconduct |  
+| bip_39_word_no_space_11 | prizedonkeyscrubmediadegreemanageborrowseriesrepeatconductcouple |  
+| bip_39_word_no_space_12 | prizedonkeyscrubmediadegreemanageborrowseriesrepeatconductcoupleamused |  
+| bip_39_word_no_space_2 | prizedonkey |  
+| bip_39_word_no_space_3 | prizedonkeyscrub |  
+| bip_39_word_no_space_4 | prizedonkeyscrubmedia |  
+| bip_39_word_no_space_5 | prizedonkeyscrubmediadegree |  
+| bip_39_word_no_space_6 | prizedonkeyscrubmediadegreemanage |  
+| bip_39_word_no_space_7 | prizedonkeyscrubmediadegreemanageborrow |  
+| bip_39_word_no_space_8 | prizedonkeyscrubmediadegreemanageborrowseries |  
+| bip_39_word_no_space_9 | prizedonkeyscrubmediadegreemanageborrowseriesrepeat |  
 | bip_39_word_space_0 | ['prize', 'donkey', 'scrub', 'media', 'degree', 'manage', 'borrow', 'series', 'repeat', 'conduct', 'couple', 'amused'] |  
 | bip_39_word_space_1 | prize |  
 | bip_39_word_space_10 | prize donkey scrub media degree manage borrow series repeat conduct |  

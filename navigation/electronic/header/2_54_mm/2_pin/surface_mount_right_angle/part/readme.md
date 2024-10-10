@@ -122,6 +122,18 @@ nose
 firm
 leave
 admit |  
+| bip_39_word_no_space_1 | forward |  
+| bip_39_word_no_space_10 | forwardopinionupholdbuzztiltnosefirmleaveadmitsiege |  
+| bip_39_word_no_space_11 | forwardopinionupholdbuzztiltnosefirmleaveadmitsiegestable |  
+| bip_39_word_no_space_12 | forwardopinionupholdbuzztiltnosefirmleaveadmitsiegestableabove |  
+| bip_39_word_no_space_2 | forwardopinion |  
+| bip_39_word_no_space_3 | forwardopinionuphold |  
+| bip_39_word_no_space_4 | forwardopinionupholdbuzz |  
+| bip_39_word_no_space_5 | forwardopinionupholdbuzztilt |  
+| bip_39_word_no_space_6 | forwardopinionupholdbuzztiltnose |  
+| bip_39_word_no_space_7 | forwardopinionupholdbuzztiltnosefirm |  
+| bip_39_word_no_space_8 | forwardopinionupholdbuzztiltnosefirmleave |  
+| bip_39_word_no_space_9 | forwardopinionupholdbuzztiltnosefirmleaveadmit |  
 | bip_39_word_space_0 | ['forward', 'opinion', 'uphold', 'buzz', 'tilt', 'nose', 'firm', 'leave', 'admit', 'siege', 'stable', 'above'] |  
 | bip_39_word_space_1 | forward |  
 | bip_39_word_space_10 | forward opinion uphold buzz tilt nose firm leave admit siege |  

@@ -122,6 +122,18 @@ course
 midnight
 fire
 sword |  
+| bip_39_word_no_space_1 | pepper |  
+| bip_39_word_no_space_10 | pepperhorsesouloutdoorfostercoursemidnightfireswordsomeone |  
+| bip_39_word_no_space_11 | pepperhorsesouloutdoorfostercoursemidnightfireswordsomeoneoil |  
+| bip_39_word_no_space_12 | pepperhorsesouloutdoorfostercoursemidnightfireswordsomeoneoilalien |  
+| bip_39_word_no_space_2 | pepperhorse |  
+| bip_39_word_no_space_3 | pepperhorsesoul |  
+| bip_39_word_no_space_4 | pepperhorsesouloutdoor |  
+| bip_39_word_no_space_5 | pepperhorsesouloutdoorfoster |  
+| bip_39_word_no_space_6 | pepperhorsesouloutdoorfostercourse |  
+| bip_39_word_no_space_7 | pepperhorsesouloutdoorfostercoursemidnight |  
+| bip_39_word_no_space_8 | pepperhorsesouloutdoorfostercoursemidnightfire |  
+| bip_39_word_no_space_9 | pepperhorsesouloutdoorfostercoursemidnightfiresword |  
 | bip_39_word_space_0 | ['pepper', 'horse', 'soul', 'outdoor', 'foster', 'course', 'midnight', 'fire', 'sword', 'someone', 'oil', 'alien'] |  
 | bip_39_word_space_1 | pepper |  
 | bip_39_word_space_10 | pepper horse soul outdoor foster course midnight fire sword someone |  

@@ -122,6 +122,18 @@ ignore
 shove
 globe
 margin |  
+| bip_39_word_no_space_1 | kid |  
+| bip_39_word_no_space_10 | kidsockloungefinalmobileignoreshoveglobemarginargue |  
+| bip_39_word_no_space_11 | kidsockloungefinalmobileignoreshoveglobemarginarguelibrary |  
+| bip_39_word_no_space_12 | kidsockloungefinalmobileignoreshoveglobemarginarguelibraryaction |  
+| bip_39_word_no_space_2 | kidsock |  
+| bip_39_word_no_space_3 | kidsocklounge |  
+| bip_39_word_no_space_4 | kidsockloungefinal |  
+| bip_39_word_no_space_5 | kidsockloungefinalmobile |  
+| bip_39_word_no_space_6 | kidsockloungefinalmobileignore |  
+| bip_39_word_no_space_7 | kidsockloungefinalmobileignoreshove |  
+| bip_39_word_no_space_8 | kidsockloungefinalmobileignoreshoveglobe |  
+| bip_39_word_no_space_9 | kidsockloungefinalmobileignoreshoveglobemargin |  
 | bip_39_word_space_0 | ['kid', 'sock', 'lounge', 'final', 'mobile', 'ignore', 'shove', 'globe', 'margin', 'argue', 'library', 'action'] |  
 | bip_39_word_space_1 | kid |  
 | bip_39_word_space_10 | kid sock lounge final mobile ignore shove globe margin argue |  

@@ -122,6 +122,18 @@ prefer
 shallow
 fitness
 plunge |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | goodweaponmedalpondblossomprefershallowfitnessplungegold |  
+| bip_39_word_no_space_11 | goodweaponmedalpondblossomprefershallowfitnessplungegoldcousin |  
+| bip_39_word_no_space_12 | goodweaponmedalpondblossomprefershallowfitnessplungegoldcousinabout |  
+| bip_39_word_no_space_2 | goodweapon |  
+| bip_39_word_no_space_3 | goodweaponmedal |  
+| bip_39_word_no_space_4 | goodweaponmedalpond |  
+| bip_39_word_no_space_5 | goodweaponmedalpondblossom |  
+| bip_39_word_no_space_6 | goodweaponmedalpondblossomprefer |  
+| bip_39_word_no_space_7 | goodweaponmedalpondblossomprefershallow |  
+| bip_39_word_no_space_8 | goodweaponmedalpondblossomprefershallowfitness |  
+| bip_39_word_no_space_9 | goodweaponmedalpondblossomprefershallowfitnessplunge |  
 | bip_39_word_space_0 | ['good', 'weapon', 'medal', 'pond', 'blossom', 'prefer', 'shallow', 'fitness', 'plunge', 'gold', 'cousin', 'about'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good weapon medal pond blossom prefer shallow fitness plunge gold |  

@@ -122,6 +122,18 @@ renew
 wolf
 chair
 search |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainpostwantdespairoilrenewwolfchairsearchscale |  
+| bip_39_word_no_space_11 | grainpostwantdespairoilrenewwolfchairsearchscalebuddy |  
+| bip_39_word_no_space_12 | grainpostwantdespairoilrenewwolfchairsearchscalebuddyaunt |  
+| bip_39_word_no_space_2 | grainpost |  
+| bip_39_word_no_space_3 | grainpostwant |  
+| bip_39_word_no_space_4 | grainpostwantdespair |  
+| bip_39_word_no_space_5 | grainpostwantdespairoil |  
+| bip_39_word_no_space_6 | grainpostwantdespairoilrenew |  
+| bip_39_word_no_space_7 | grainpostwantdespairoilrenewwolf |  
+| bip_39_word_no_space_8 | grainpostwantdespairoilrenewwolfchair |  
+| bip_39_word_no_space_9 | grainpostwantdespairoilrenewwolfchairsearch |  
 | bip_39_word_space_0 | ['grain', 'post', 'want', 'despair', 'oil', 'renew', 'wolf', 'chair', 'search', 'scale', 'buddy', 'aunt'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain post want despair oil renew wolf chair search scale |  

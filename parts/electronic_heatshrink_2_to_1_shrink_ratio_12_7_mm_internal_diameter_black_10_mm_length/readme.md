@@ -122,6 +122,18 @@ sister
 acid
 clown
 quarter |  
+| bip_39_word_no_space_1 | summer |  
+| bip_39_word_no_space_10 | summerpetseedpicturerugsisteracidclownquartervisual |  
+| bip_39_word_no_space_11 | summerpetseedpicturerugsisteracidclownquartervisualwonder |  
+| bip_39_word_no_space_12 | summerpetseedpicturerugsisteracidclownquartervisualwonderafford |  
+| bip_39_word_no_space_2 | summerpet |  
+| bip_39_word_no_space_3 | summerpetseed |  
+| bip_39_word_no_space_4 | summerpetseedpicture |  
+| bip_39_word_no_space_5 | summerpetseedpicturerug |  
+| bip_39_word_no_space_6 | summerpetseedpicturerugsister |  
+| bip_39_word_no_space_7 | summerpetseedpicturerugsisteracid |  
+| bip_39_word_no_space_8 | summerpetseedpicturerugsisteracidclown |  
+| bip_39_word_no_space_9 | summerpetseedpicturerugsisteracidclownquarter |  
 | bip_39_word_space_0 | ['summer', 'pet', 'seed', 'picture', 'rug', 'sister', 'acid', 'clown', 'quarter', 'visual', 'wonder', 'afford'] |  
 | bip_39_word_space_1 | summer |  
 | bip_39_word_space_10 | summer pet seed picture rug sister acid clown quarter visual |  

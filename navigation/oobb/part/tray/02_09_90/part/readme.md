@@ -122,6 +122,18 @@ elephant
 toddler
 happy
 term |  
+| bip_39_word_no_space_1 | giggle |  
+| bip_39_word_no_space_10 | giggleuniqueforwardsamplemasterelephanttoddlerhappytermregular |  
+| bip_39_word_no_space_11 | giggleuniqueforwardsamplemasterelephanttoddlerhappytermregularenlist |  
+| bip_39_word_no_space_12 | giggleuniqueforwardsamplemasterelephanttoddlerhappytermregularenlistacross |  
+| bip_39_word_no_space_2 | giggleunique |  
+| bip_39_word_no_space_3 | giggleuniqueforward |  
+| bip_39_word_no_space_4 | giggleuniqueforwardsample |  
+| bip_39_word_no_space_5 | giggleuniqueforwardsamplemaster |  
+| bip_39_word_no_space_6 | giggleuniqueforwardsamplemasterelephant |  
+| bip_39_word_no_space_7 | giggleuniqueforwardsamplemasterelephanttoddler |  
+| bip_39_word_no_space_8 | giggleuniqueforwardsamplemasterelephanttoddlerhappy |  
+| bip_39_word_no_space_9 | giggleuniqueforwardsamplemasterelephanttoddlerhappyterm |  
 | bip_39_word_space_0 | ['giggle', 'unique', 'forward', 'sample', 'master', 'elephant', 'toddler', 'happy', 'term', 'regular', 'enlist', 'across'] |  
 | bip_39_word_space_1 | giggle |  
 | bip_39_word_space_10 | giggle unique forward sample master elephant toddler happy term regular |  

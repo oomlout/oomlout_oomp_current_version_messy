@@ -122,6 +122,18 @@ wheel
 good
 sweet
 bind |  
+| bip_39_word_no_space_1 | owner |  
+| bip_39_word_no_space_10 | ownermidnightnapkinhumblesportwheelgoodsweetbindcopper |  
+| bip_39_word_no_space_11 | ownermidnightnapkinhumblesportwheelgoodsweetbindcopperperson |  
+| bip_39_word_no_space_12 | ownermidnightnapkinhumblesportwheelgoodsweetbindcopperpersonantenna |  
+| bip_39_word_no_space_2 | ownermidnight |  
+| bip_39_word_no_space_3 | ownermidnightnapkin |  
+| bip_39_word_no_space_4 | ownermidnightnapkinhumble |  
+| bip_39_word_no_space_5 | ownermidnightnapkinhumblesport |  
+| bip_39_word_no_space_6 | ownermidnightnapkinhumblesportwheel |  
+| bip_39_word_no_space_7 | ownermidnightnapkinhumblesportwheelgood |  
+| bip_39_word_no_space_8 | ownermidnightnapkinhumblesportwheelgoodsweet |  
+| bip_39_word_no_space_9 | ownermidnightnapkinhumblesportwheelgoodsweetbind |  
 | bip_39_word_space_0 | ['owner', 'midnight', 'napkin', 'humble', 'sport', 'wheel', 'good', 'sweet', 'bind', 'copper', 'person', 'antenna'] |  
 | bip_39_word_space_1 | owner |  
 | bip_39_word_space_10 | owner midnight napkin humble sport wheel good sweet bind copper |  

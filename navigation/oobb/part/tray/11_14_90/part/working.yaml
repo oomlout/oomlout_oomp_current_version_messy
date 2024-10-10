@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'unfold
   across
 
   offer'
+bip_39_word_no_space_1: unfold
+bip_39_word_no_space_10: unfoldgrasscakestonebuilddisordertoneacrossoffercredit
+bip_39_word_no_space_11: unfoldgrasscakestonebuilddisordertoneacrossoffercreditcheap
+bip_39_word_no_space_12: unfoldgrasscakestonebuilddisordertoneacrossoffercreditcheapachieve
+bip_39_word_no_space_2: unfoldgrass
+bip_39_word_no_space_3: unfoldgrasscake
+bip_39_word_no_space_4: unfoldgrasscakestone
+bip_39_word_no_space_5: unfoldgrasscakestonebuild
+bip_39_word_no_space_6: unfoldgrasscakestonebuilddisorder
+bip_39_word_no_space_7: unfoldgrasscakestonebuilddisordertone
+bip_39_word_no_space_8: unfoldgrasscakestonebuilddisordertoneacross
+bip_39_word_no_space_9: unfoldgrasscakestonebuilddisordertoneacrossoffer
 bip_39_word_space_0:
 - unfold
 - grass

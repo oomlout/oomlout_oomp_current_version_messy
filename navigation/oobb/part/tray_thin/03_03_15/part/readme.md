@@ -122,6 +122,18 @@ palace
 silk
 park
 rural |  
+| bip_39_word_no_space_1 | october |  
+| bip_39_word_no_space_10 | octoberdelivermadcardtowardpalacesilkparkruralfile |  
+| bip_39_word_no_space_11 | octoberdelivermadcardtowardpalacesilkparkruralfileagent |  
+| bip_39_word_no_space_12 | octoberdelivermadcardtowardpalacesilkparkruralfileagentangry |  
+| bip_39_word_no_space_2 | octoberdeliver |  
+| bip_39_word_no_space_3 | octoberdelivermad |  
+| bip_39_word_no_space_4 | octoberdelivermadcard |  
+| bip_39_word_no_space_5 | octoberdelivermadcardtoward |  
+| bip_39_word_no_space_6 | octoberdelivermadcardtowardpalace |  
+| bip_39_word_no_space_7 | octoberdelivermadcardtowardpalacesilk |  
+| bip_39_word_no_space_8 | octoberdelivermadcardtowardpalacesilkpark |  
+| bip_39_word_no_space_9 | octoberdelivermadcardtowardpalacesilkparkrural |  
 | bip_39_word_space_0 | ['october', 'deliver', 'mad', 'card', 'toward', 'palace', 'silk', 'park', 'rural', 'file', 'agent', 'angry'] |  
 | bip_39_word_space_1 | october |  
 | bip_39_word_space_10 | october deliver mad card toward palace silk park rural file |  

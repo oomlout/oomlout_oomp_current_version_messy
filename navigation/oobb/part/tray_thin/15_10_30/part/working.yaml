@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'police
   bacon
 
   essence'
+bip_39_word_no_space_1: police
+bip_39_word_no_space_10: policelensanyinitialoperatwospiderbaconessencehamster
+bip_39_word_no_space_11: policelensanyinitialoperatwospiderbaconessencehamsterwool
+bip_39_word_no_space_12: policelensanyinitialoperatwospiderbaconessencehamsterwoolagain
+bip_39_word_no_space_2: policelens
+bip_39_word_no_space_3: policelensany
+bip_39_word_no_space_4: policelensanyinitial
+bip_39_word_no_space_5: policelensanyinitialopera
+bip_39_word_no_space_6: policelensanyinitialoperatwo
+bip_39_word_no_space_7: policelensanyinitialoperatwospider
+bip_39_word_no_space_8: policelensanyinitialoperatwospiderbacon
+bip_39_word_no_space_9: policelensanyinitialoperatwospiderbaconessence
 bip_39_word_space_0:
 - police
 - lens

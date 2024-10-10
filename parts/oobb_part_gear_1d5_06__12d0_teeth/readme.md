@@ -122,6 +122,18 @@ express
 endorse
 where
 message |  
+| bip_39_word_no_space_1 | security |  
+| bip_39_word_no_space_10 | securitypigmushroomfrontheadexpressendorsewheremessagecharge |  
+| bip_39_word_no_space_11 | securitypigmushroomfrontheadexpressendorsewheremessagechargecanvas |  
+| bip_39_word_no_space_12 | securitypigmushroomfrontheadexpressendorsewheremessagechargecanvasask |  
+| bip_39_word_no_space_2 | securitypig |  
+| bip_39_word_no_space_3 | securitypigmushroom |  
+| bip_39_word_no_space_4 | securitypigmushroomfront |  
+| bip_39_word_no_space_5 | securitypigmushroomfronthead |  
+| bip_39_word_no_space_6 | securitypigmushroomfrontheadexpress |  
+| bip_39_word_no_space_7 | securitypigmushroomfrontheadexpressendorse |  
+| bip_39_word_no_space_8 | securitypigmushroomfrontheadexpressendorsewhere |  
+| bip_39_word_no_space_9 | securitypigmushroomfrontheadexpressendorsewheremessage |  
 | bip_39_word_space_0 | ['security', 'pig', 'mushroom', 'front', 'head', 'express', 'endorse', 'where', 'message', 'charge', 'canvas', 'ask'] |  
 | bip_39_word_space_1 | security |  
 | bip_39_word_space_10 | security pig mushroom front head express endorse where message charge |  

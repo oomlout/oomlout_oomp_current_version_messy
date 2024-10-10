@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'diet
   task
 
   ability'
+bip_39_word_no_space_1: diet
+bip_39_word_no_space_10: dietlogicdepositappleburstnowfebruarytaskabilitygiraffe
+bip_39_word_no_space_11: dietlogicdepositappleburstnowfebruarytaskabilitygiraffeshrug
+bip_39_word_no_space_12: dietlogicdepositappleburstnowfebruarytaskabilitygiraffeshrugadd
+bip_39_word_no_space_2: dietlogic
+bip_39_word_no_space_3: dietlogicdeposit
+bip_39_word_no_space_4: dietlogicdepositapple
+bip_39_word_no_space_5: dietlogicdepositappleburst
+bip_39_word_no_space_6: dietlogicdepositappleburstnow
+bip_39_word_no_space_7: dietlogicdepositappleburstnowfebruary
+bip_39_word_no_space_8: dietlogicdepositappleburstnowfebruarytask
+bip_39_word_no_space_9: dietlogicdepositappleburstnowfebruarytaskability
 bip_39_word_space_0:
 - diet
 - logic

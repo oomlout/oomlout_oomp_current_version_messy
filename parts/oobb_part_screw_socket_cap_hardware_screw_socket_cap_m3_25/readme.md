@@ -122,6 +122,18 @@ timber
 crucial
 insect
 language |  
+| bip_39_word_no_space_1 | aim |  
+| bip_39_word_no_space_10 | aimupholdnapkinimitatekittimbercrucialinsectlanguagedeputy |  
+| bip_39_word_no_space_11 | aimupholdnapkinimitatekittimbercrucialinsectlanguagedeputyrare |  
+| bip_39_word_no_space_12 | aimupholdnapkinimitatekittimbercrucialinsectlanguagedeputyrareabstract |  
+| bip_39_word_no_space_2 | aimuphold |  
+| bip_39_word_no_space_3 | aimupholdnapkin |  
+| bip_39_word_no_space_4 | aimupholdnapkinimitate |  
+| bip_39_word_no_space_5 | aimupholdnapkinimitatekit |  
+| bip_39_word_no_space_6 | aimupholdnapkinimitatekittimber |  
+| bip_39_word_no_space_7 | aimupholdnapkinimitatekittimbercrucial |  
+| bip_39_word_no_space_8 | aimupholdnapkinimitatekittimbercrucialinsect |  
+| bip_39_word_no_space_9 | aimupholdnapkinimitatekittimbercrucialinsectlanguage |  
 | bip_39_word_space_0 | ['aim', 'uphold', 'napkin', 'imitate', 'kit', 'timber', 'crucial', 'insect', 'language', 'deputy', 'rare', 'abstract'] |  
 | bip_39_word_space_1 | aim |  
 | bip_39_word_space_10 | aim uphold napkin imitate kit timber crucial insect language deputy |  

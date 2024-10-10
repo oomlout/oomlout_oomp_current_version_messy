@@ -122,6 +122,18 @@ neglect
 fiction
 exclude
 blossom |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | loopsixtumbleelectricsuspectneglectfictionexcludeblossomknock |  
+| bip_39_word_no_space_11 | loopsixtumbleelectricsuspectneglectfictionexcludeblossomknockvacuum |  
+| bip_39_word_no_space_12 | loopsixtumbleelectricsuspectneglectfictionexcludeblossomknockvacuumangry |  
+| bip_39_word_no_space_2 | loopsix |  
+| bip_39_word_no_space_3 | loopsixtumble |  
+| bip_39_word_no_space_4 | loopsixtumbleelectric |  
+| bip_39_word_no_space_5 | loopsixtumbleelectricsuspect |  
+| bip_39_word_no_space_6 | loopsixtumbleelectricsuspectneglect |  
+| bip_39_word_no_space_7 | loopsixtumbleelectricsuspectneglectfiction |  
+| bip_39_word_no_space_8 | loopsixtumbleelectricsuspectneglectfictionexclude |  
+| bip_39_word_no_space_9 | loopsixtumbleelectricsuspectneglectfictionexcludeblossom |  
 | bip_39_word_space_0 | ['loop', 'six', 'tumble', 'electric', 'suspect', 'neglect', 'fiction', 'exclude', 'blossom', 'knock', 'vacuum', 'angry'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop six tumble electric suspect neglect fiction exclude blossom knock |  

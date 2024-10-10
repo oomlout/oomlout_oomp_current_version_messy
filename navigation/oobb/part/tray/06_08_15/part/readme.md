@@ -122,6 +122,18 @@ nominee
 since
 state
 crater |  
+| bip_39_word_no_space_1 | media |  
+| bip_39_word_no_space_10 | mediabronzewrongsalonstovenomineesincestatecraterpark |  
+| bip_39_word_no_space_11 | mediabronzewrongsalonstovenomineesincestatecraterparkromance |  
+| bip_39_word_no_space_12 | mediabronzewrongsalonstovenomineesincestatecraterparkromanceattitude |  
+| bip_39_word_no_space_2 | mediabronze |  
+| bip_39_word_no_space_3 | mediabronzewrong |  
+| bip_39_word_no_space_4 | mediabronzewrongsalon |  
+| bip_39_word_no_space_5 | mediabronzewrongsalonstove |  
+| bip_39_word_no_space_6 | mediabronzewrongsalonstovenominee |  
+| bip_39_word_no_space_7 | mediabronzewrongsalonstovenomineesince |  
+| bip_39_word_no_space_8 | mediabronzewrongsalonstovenomineesincestate |  
+| bip_39_word_no_space_9 | mediabronzewrongsalonstovenomineesincestatecrater |  
 | bip_39_word_space_0 | ['media', 'bronze', 'wrong', 'salon', 'stove', 'nominee', 'since', 'state', 'crater', 'park', 'romance', 'attitude'] |  
 | bip_39_word_space_1 | media |  
 | bip_39_word_space_10 | media bronze wrong salon stove nominee since state crater park |  

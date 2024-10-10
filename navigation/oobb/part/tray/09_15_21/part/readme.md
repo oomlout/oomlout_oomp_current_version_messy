@@ -122,6 +122,18 @@ shed
 boring
 early
 medal |  
+| bip_39_word_no_space_1 | vague |  
+| bip_39_word_no_space_10 | vaguecupboardhardcoyoteprospershedboringearlymedalhen |  
+| bip_39_word_no_space_11 | vaguecupboardhardcoyoteprospershedboringearlymedalhenlittle |  
+| bip_39_word_no_space_12 | vaguecupboardhardcoyoteprospershedboringearlymedalhenlittleasthma |  
+| bip_39_word_no_space_2 | vaguecupboard |  
+| bip_39_word_no_space_3 | vaguecupboardhard |  
+| bip_39_word_no_space_4 | vaguecupboardhardcoyote |  
+| bip_39_word_no_space_5 | vaguecupboardhardcoyoteprosper |  
+| bip_39_word_no_space_6 | vaguecupboardhardcoyoteprospershed |  
+| bip_39_word_no_space_7 | vaguecupboardhardcoyoteprospershedboring |  
+| bip_39_word_no_space_8 | vaguecupboardhardcoyoteprospershedboringearly |  
+| bip_39_word_no_space_9 | vaguecupboardhardcoyoteprospershedboringearlymedal |  
 | bip_39_word_space_0 | ['vague', 'cupboard', 'hard', 'coyote', 'prosper', 'shed', 'boring', 'early', 'medal', 'hen', 'little', 'asthma'] |  
 | bip_39_word_space_1 | vague |  
 | bip_39_word_space_10 | vague cupboard hard coyote prosper shed boring early medal hen |  

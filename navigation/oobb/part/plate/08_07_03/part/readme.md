@@ -122,6 +122,18 @@ cotton
 scorpion
 pig
 worth |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wireprojecthighcheapbravecottonscorpionpigworthbrave |  
+| bip_39_word_no_space_11 | wireprojecthighcheapbravecottonscorpionpigworthbravecertain |  
+| bip_39_word_no_space_12 | wireprojecthighcheapbravecottonscorpionpigworthbravecertainassume |  
+| bip_39_word_no_space_2 | wireproject |  
+| bip_39_word_no_space_3 | wireprojecthigh |  
+| bip_39_word_no_space_4 | wireprojecthighcheap |  
+| bip_39_word_no_space_5 | wireprojecthighcheapbrave |  
+| bip_39_word_no_space_6 | wireprojecthighcheapbravecotton |  
+| bip_39_word_no_space_7 | wireprojecthighcheapbravecottonscorpion |  
+| bip_39_word_no_space_8 | wireprojecthighcheapbravecottonscorpionpig |  
+| bip_39_word_no_space_9 | wireprojecthighcheapbravecottonscorpionpigworth |  
 | bip_39_word_space_0 | ['wire', 'project', 'high', 'cheap', 'brave', 'cotton', 'scorpion', 'pig', 'worth', 'brave', 'certain', 'assume'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire project high cheap brave cotton scorpion pig worth brave |  

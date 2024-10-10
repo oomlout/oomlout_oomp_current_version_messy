@@ -122,6 +122,18 @@ ancient
 coil
 artefact
 wood |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | membercoyotesuddenacidoxygenancientcoilartefactwoodsausage |  
+| bip_39_word_no_space_11 | membercoyotesuddenacidoxygenancientcoilartefactwoodsausageuniform |  
+| bip_39_word_no_space_12 | membercoyotesuddenacidoxygenancientcoilartefactwoodsausageuniformalter |  
+| bip_39_word_no_space_2 | membercoyote |  
+| bip_39_word_no_space_3 | membercoyotesudden |  
+| bip_39_word_no_space_4 | membercoyotesuddenacid |  
+| bip_39_word_no_space_5 | membercoyotesuddenacidoxygen |  
+| bip_39_word_no_space_6 | membercoyotesuddenacidoxygenancient |  
+| bip_39_word_no_space_7 | membercoyotesuddenacidoxygenancientcoil |  
+| bip_39_word_no_space_8 | membercoyotesuddenacidoxygenancientcoilartefact |  
+| bip_39_word_no_space_9 | membercoyotesuddenacidoxygenancientcoilartefactwood |  
 | bip_39_word_space_0 | ['member', 'coyote', 'sudden', 'acid', 'oxygen', 'ancient', 'coil', 'artefact', 'wood', 'sausage', 'uniform', 'alter'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member coyote sudden acid oxygen ancient coil artefact wood sausage |  

@@ -122,6 +122,18 @@ six
 north
 license
 tragic |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highgeneralkickroofschemesixnorthlicensetragicprosper |  
+| bip_39_word_no_space_11 | highgeneralkickroofschemesixnorthlicensetragicprosperowner |  
+| bip_39_word_no_space_12 | highgeneralkickroofschemesixnorthlicensetragicprosperownerarch |  
+| bip_39_word_no_space_2 | highgeneral |  
+| bip_39_word_no_space_3 | highgeneralkick |  
+| bip_39_word_no_space_4 | highgeneralkickroof |  
+| bip_39_word_no_space_5 | highgeneralkickroofscheme |  
+| bip_39_word_no_space_6 | highgeneralkickroofschemesix |  
+| bip_39_word_no_space_7 | highgeneralkickroofschemesixnorth |  
+| bip_39_word_no_space_8 | highgeneralkickroofschemesixnorthlicense |  
+| bip_39_word_no_space_9 | highgeneralkickroofschemesixnorthlicensetragic |  
 | bip_39_word_space_0 | ['high', 'general', 'kick', 'roof', 'scheme', 'six', 'north', 'license', 'tragic', 'prosper', 'owner', 'arch'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high general kick roof scheme six north license tragic prosper |  

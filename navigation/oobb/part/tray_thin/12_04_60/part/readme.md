@@ -122,6 +122,18 @@ eternal
 walk
 siege
 ready |  
+| bip_39_word_no_space_1 | gloom |  
+| bip_39_word_no_space_10 | gloomeruptbossinputmansioneternalwalksiegereadyproject |  
+| bip_39_word_no_space_11 | gloomeruptbossinputmansioneternalwalksiegereadyprojectattract |  
+| bip_39_word_no_space_12 | gloomeruptbossinputmansioneternalwalksiegereadyprojectattractarmor |  
+| bip_39_word_no_space_2 | gloomerupt |  
+| bip_39_word_no_space_3 | gloomeruptboss |  
+| bip_39_word_no_space_4 | gloomeruptbossinput |  
+| bip_39_word_no_space_5 | gloomeruptbossinputmansion |  
+| bip_39_word_no_space_6 | gloomeruptbossinputmansioneternal |  
+| bip_39_word_no_space_7 | gloomeruptbossinputmansioneternalwalk |  
+| bip_39_word_no_space_8 | gloomeruptbossinputmansioneternalwalksiege |  
+| bip_39_word_no_space_9 | gloomeruptbossinputmansioneternalwalksiegeready |  
 | bip_39_word_space_0 | ['gloom', 'erupt', 'boss', 'input', 'mansion', 'eternal', 'walk', 'siege', 'ready', 'project', 'attract', 'armor'] |  
 | bip_39_word_space_1 | gloom |  
 | bip_39_word_space_10 | gloom erupt boss input mansion eternal walk siege ready project |  

@@ -122,6 +122,18 @@ nation
 disorder
 initial
 place |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonnervechoicetornadoevidencenationdisorderinitialplacenerve |  
+| bip_39_word_no_space_11 | ribbonnervechoicetornadoevidencenationdisorderinitialplacenerveloan |  
+| bip_39_word_no_space_12 | ribbonnervechoicetornadoevidencenationdisorderinitialplacenerveloanassist |  
+| bip_39_word_no_space_2 | ribbonnerve |  
+| bip_39_word_no_space_3 | ribbonnervechoice |  
+| bip_39_word_no_space_4 | ribbonnervechoicetornado |  
+| bip_39_word_no_space_5 | ribbonnervechoicetornadoevidence |  
+| bip_39_word_no_space_6 | ribbonnervechoicetornadoevidencenation |  
+| bip_39_word_no_space_7 | ribbonnervechoicetornadoevidencenationdisorder |  
+| bip_39_word_no_space_8 | ribbonnervechoicetornadoevidencenationdisorderinitial |  
+| bip_39_word_no_space_9 | ribbonnervechoicetornadoevidencenationdisorderinitialplace |  
 | bip_39_word_space_0 | ['ribbon', 'nerve', 'choice', 'tornado', 'evidence', 'nation', 'disorder', 'initial', 'place', 'nerve', 'loan', 'assist'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon nerve choice tornado evidence nation disorder initial place nerve |  

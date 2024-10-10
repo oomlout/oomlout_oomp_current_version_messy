@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'churn
   maple
 
   razor'
+bip_39_word_no_space_1: churn
+bip_39_word_no_space_10: churnsoulrounddizzyhavechapterrelaxmaplerazorzone
+bip_39_word_no_space_11: churnsoulrounddizzyhavechapterrelaxmaplerazorzoneenact
+bip_39_word_no_space_12: churnsoulrounddizzyhavechapterrelaxmaplerazorzoneenactassume
+bip_39_word_no_space_2: churnsoul
+bip_39_word_no_space_3: churnsoulround
+bip_39_word_no_space_4: churnsoulrounddizzy
+bip_39_word_no_space_5: churnsoulrounddizzyhave
+bip_39_word_no_space_6: churnsoulrounddizzyhavechapter
+bip_39_word_no_space_7: churnsoulrounddizzyhavechapterrelax
+bip_39_word_no_space_8: churnsoulrounddizzyhavechapterrelaxmaple
+bip_39_word_no_space_9: churnsoulrounddizzyhavechapterrelaxmaplerazor
 bip_39_word_space_0:
 - churn
 - soul

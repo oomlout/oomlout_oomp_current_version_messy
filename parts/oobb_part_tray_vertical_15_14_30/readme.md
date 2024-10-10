@@ -122,6 +122,18 @@ carbon
 uniform
 law
 badge |  
+| bip_39_word_no_space_1 | lunar |  
+| bip_39_word_no_space_10 | lunarloantypicalfuelnestcarbonuniformlawbadgebox |  
+| bip_39_word_no_space_11 | lunarloantypicalfuelnestcarbonuniformlawbadgeboxlong |  
+| bip_39_word_no_space_12 | lunarloantypicalfuelnestcarbonuniformlawbadgeboxlongachieve |  
+| bip_39_word_no_space_2 | lunarloan |  
+| bip_39_word_no_space_3 | lunarloantypical |  
+| bip_39_word_no_space_4 | lunarloantypicalfuel |  
+| bip_39_word_no_space_5 | lunarloantypicalfuelnest |  
+| bip_39_word_no_space_6 | lunarloantypicalfuelnestcarbon |  
+| bip_39_word_no_space_7 | lunarloantypicalfuelnestcarbonuniform |  
+| bip_39_word_no_space_8 | lunarloantypicalfuelnestcarbonuniformlaw |  
+| bip_39_word_no_space_9 | lunarloantypicalfuelnestcarbonuniformlawbadge |  
 | bip_39_word_space_0 | ['lunar', 'loan', 'typical', 'fuel', 'nest', 'carbon', 'uniform', 'law', 'badge', 'box', 'long', 'achieve'] |  
 | bip_39_word_space_1 | lunar |  
 | bip_39_word_space_10 | lunar loan typical fuel nest carbon uniform law badge box |  

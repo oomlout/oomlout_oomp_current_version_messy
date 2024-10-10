@@ -122,6 +122,18 @@ enlist
 special
 bronze
 will |  
+| bip_39_word_no_space_1 | rural |  
+| bip_39_word_no_space_10 | ruralafraidaxisrangecannonenlistspecialbronzewillsolar |  
+| bip_39_word_no_space_11 | ruralafraidaxisrangecannonenlistspecialbronzewillsolaruphold |  
+| bip_39_word_no_space_12 | ruralafraidaxisrangecannonenlistspecialbronzewillsolarupholdalone |  
+| bip_39_word_no_space_2 | ruralafraid |  
+| bip_39_word_no_space_3 | ruralafraidaxis |  
+| bip_39_word_no_space_4 | ruralafraidaxisrange |  
+| bip_39_word_no_space_5 | ruralafraidaxisrangecannon |  
+| bip_39_word_no_space_6 | ruralafraidaxisrangecannonenlist |  
+| bip_39_word_no_space_7 | ruralafraidaxisrangecannonenlistspecial |  
+| bip_39_word_no_space_8 | ruralafraidaxisrangecannonenlistspecialbronze |  
+| bip_39_word_no_space_9 | ruralafraidaxisrangecannonenlistspecialbronzewill |  
 | bip_39_word_space_0 | ['rural', 'afraid', 'axis', 'range', 'cannon', 'enlist', 'special', 'bronze', 'will', 'solar', 'uphold', 'alone'] |  
 | bip_39_word_space_1 | rural |  
 | bip_39_word_space_10 | rural afraid axis range cannon enlist special bronze will solar |  

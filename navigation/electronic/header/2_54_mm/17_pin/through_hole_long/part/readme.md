@@ -122,6 +122,18 @@ bargain
 record
 device
 romance |  
+| bip_39_word_no_space_1 | learn |  
+| bip_39_word_no_space_10 | learnstrugglewastegymcuriousbargainrecorddeviceromanceround |  
+| bip_39_word_no_space_11 | learnstrugglewastegymcuriousbargainrecorddeviceromanceroundheart |  
+| bip_39_word_no_space_12 | learnstrugglewastegymcuriousbargainrecorddeviceromanceroundheartauto |  
+| bip_39_word_no_space_2 | learnstruggle |  
+| bip_39_word_no_space_3 | learnstrugglewaste |  
+| bip_39_word_no_space_4 | learnstrugglewastegym |  
+| bip_39_word_no_space_5 | learnstrugglewastegymcurious |  
+| bip_39_word_no_space_6 | learnstrugglewastegymcuriousbargain |  
+| bip_39_word_no_space_7 | learnstrugglewastegymcuriousbargainrecord |  
+| bip_39_word_no_space_8 | learnstrugglewastegymcuriousbargainrecorddevice |  
+| bip_39_word_no_space_9 | learnstrugglewastegymcuriousbargainrecorddeviceromance |  
 | bip_39_word_space_0 | ['learn', 'struggle', 'waste', 'gym', 'curious', 'bargain', 'record', 'device', 'romance', 'round', 'heart', 'auto'] |  
 | bip_39_word_space_1 | learn |  
 | bip_39_word_space_10 | learn struggle waste gym curious bargain record device romance round |  

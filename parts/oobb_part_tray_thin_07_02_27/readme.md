@@ -122,6 +122,18 @@ matter
 discover
 ten
 tip |  
+| bip_39_word_no_space_1 | pudding |  
+| bip_39_word_no_space_10 | puddingabsentfamilyasthmacigarmatterdiscovertentipfavorite |  
+| bip_39_word_no_space_11 | puddingabsentfamilyasthmacigarmatterdiscovertentipfavoriteinjury |  
+| bip_39_word_no_space_12 | puddingabsentfamilyasthmacigarmatterdiscovertentipfavoriteinjuryall |  
+| bip_39_word_no_space_2 | puddingabsent |  
+| bip_39_word_no_space_3 | puddingabsentfamily |  
+| bip_39_word_no_space_4 | puddingabsentfamilyasthma |  
+| bip_39_word_no_space_5 | puddingabsentfamilyasthmacigar |  
+| bip_39_word_no_space_6 | puddingabsentfamilyasthmacigarmatter |  
+| bip_39_word_no_space_7 | puddingabsentfamilyasthmacigarmatterdiscover |  
+| bip_39_word_no_space_8 | puddingabsentfamilyasthmacigarmatterdiscoverten |  
+| bip_39_word_no_space_9 | puddingabsentfamilyasthmacigarmatterdiscovertentip |  
 | bip_39_word_space_0 | ['pudding', 'absent', 'family', 'asthma', 'cigar', 'matter', 'discover', 'ten', 'tip', 'favorite', 'injury', 'all'] |  
 | bip_39_word_space_1 | pudding |  
 | bip_39_word_space_10 | pudding absent family asthma cigar matter discover ten tip favorite |  

@@ -122,6 +122,18 @@ mountain
 copper
 garment
 inner |  
+| bip_39_word_no_space_1 | beach |  
+| bip_39_word_no_space_10 | beachcheffamilyvolcanoschememountaincoppergarmentinnerdemand |  
+| bip_39_word_no_space_11 | beachcheffamilyvolcanoschememountaincoppergarmentinnerdemandangle |  
+| bip_39_word_no_space_12 | beachcheffamilyvolcanoschememountaincoppergarmentinnerdemandangleamateur |  
+| bip_39_word_no_space_2 | beachchef |  
+| bip_39_word_no_space_3 | beachcheffamily |  
+| bip_39_word_no_space_4 | beachcheffamilyvolcano |  
+| bip_39_word_no_space_5 | beachcheffamilyvolcanoscheme |  
+| bip_39_word_no_space_6 | beachcheffamilyvolcanoschememountain |  
+| bip_39_word_no_space_7 | beachcheffamilyvolcanoschememountaincopper |  
+| bip_39_word_no_space_8 | beachcheffamilyvolcanoschememountaincoppergarment |  
+| bip_39_word_no_space_9 | beachcheffamilyvolcanoschememountaincoppergarmentinner |  
 | bip_39_word_space_0 | ['beach', 'chef', 'family', 'volcano', 'scheme', 'mountain', 'copper', 'garment', 'inner', 'demand', 'angle', 'amateur'] |  
 | bip_39_word_space_1 | beach |  
 | bip_39_word_space_10 | beach chef family volcano scheme mountain copper garment inner demand |  

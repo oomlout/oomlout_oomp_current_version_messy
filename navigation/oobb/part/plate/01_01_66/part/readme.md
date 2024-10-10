@@ -122,6 +122,18 @@ lion
 chef
 private
 only |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attacklittlebenchslowproducelionchefprivateonlyput |  
+| bip_39_word_no_space_11 | attacklittlebenchslowproducelionchefprivateonlyputhammer |  
+| bip_39_word_no_space_12 | attacklittlebenchslowproducelionchefprivateonlyputhammeradjust |  
+| bip_39_word_no_space_2 | attacklittle |  
+| bip_39_word_no_space_3 | attacklittlebench |  
+| bip_39_word_no_space_4 | attacklittlebenchslow |  
+| bip_39_word_no_space_5 | attacklittlebenchslowproduce |  
+| bip_39_word_no_space_6 | attacklittlebenchslowproducelion |  
+| bip_39_word_no_space_7 | attacklittlebenchslowproducelionchef |  
+| bip_39_word_no_space_8 | attacklittlebenchslowproducelionchefprivate |  
+| bip_39_word_no_space_9 | attacklittlebenchslowproducelionchefprivateonly |  
 | bip_39_word_space_0 | ['attack', 'little', 'bench', 'slow', 'produce', 'lion', 'chef', 'private', 'only', 'put', 'hammer', 'adjust'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack little bench slow produce lion chef private only put |  

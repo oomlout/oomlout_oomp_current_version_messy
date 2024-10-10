@@ -122,6 +122,18 @@ news
 daring
 place
 expect |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscureresistslighttankunveilnewsdaringplaceexpecttragic |  
+| bip_39_word_no_space_11 | obscureresistslighttankunveilnewsdaringplaceexpecttragicalready |  
+| bip_39_word_no_space_12 | obscureresistslighttankunveilnewsdaringplaceexpecttragicalreadyalready |  
+| bip_39_word_no_space_2 | obscureresist |  
+| bip_39_word_no_space_3 | obscureresistslight |  
+| bip_39_word_no_space_4 | obscureresistslighttank |  
+| bip_39_word_no_space_5 | obscureresistslighttankunveil |  
+| bip_39_word_no_space_6 | obscureresistslighttankunveilnews |  
+| bip_39_word_no_space_7 | obscureresistslighttankunveilnewsdaring |  
+| bip_39_word_no_space_8 | obscureresistslighttankunveilnewsdaringplace |  
+| bip_39_word_no_space_9 | obscureresistslighttankunveilnewsdaringplaceexpect |  
 | bip_39_word_space_0 | ['obscure', 'resist', 'slight', 'tank', 'unveil', 'news', 'daring', 'place', 'expect', 'tragic', 'already', 'already'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure resist slight tank unveil news daring place expect tragic |  

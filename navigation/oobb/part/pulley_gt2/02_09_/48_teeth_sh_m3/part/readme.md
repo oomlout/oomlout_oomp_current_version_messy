@@ -122,6 +122,18 @@ begin
 myself
 armed
 actor |  
+| bip_39_word_no_space_1 | pen |  
+| bip_39_word_no_space_10 | penfleerallytrashscrapbeginmyselfarmedactormeadow |  
+| bip_39_word_no_space_11 | penfleerallytrashscrapbeginmyselfarmedactormeadowpuppy |  
+| bip_39_word_no_space_12 | penfleerallytrashscrapbeginmyselfarmedactormeadowpuppyaerobic |  
+| bip_39_word_no_space_2 | penflee |  
+| bip_39_word_no_space_3 | penfleerally |  
+| bip_39_word_no_space_4 | penfleerallytrash |  
+| bip_39_word_no_space_5 | penfleerallytrashscrap |  
+| bip_39_word_no_space_6 | penfleerallytrashscrapbegin |  
+| bip_39_word_no_space_7 | penfleerallytrashscrapbeginmyself |  
+| bip_39_word_no_space_8 | penfleerallytrashscrapbeginmyselfarmed |  
+| bip_39_word_no_space_9 | penfleerallytrashscrapbeginmyselfarmedactor |  
 | bip_39_word_space_0 | ['pen', 'flee', 'rally', 'trash', 'scrap', 'begin', 'myself', 'armed', 'actor', 'meadow', 'puppy', 'aerobic'] |  
 | bip_39_word_space_1 | pen |  
 | bip_39_word_space_10 | pen flee rally trash scrap begin myself armed actor meadow |  

@@ -122,6 +122,18 @@ alone
 page
 public
 sand |  
+| bip_39_word_no_space_1 | purchase |  
+| bip_39_word_no_space_10 | purchasebeforeimagelogicrookiealonepagepublicsanduphold |  
+| bip_39_word_no_space_11 | purchasebeforeimagelogicrookiealonepagepublicsandupholdmonitor |  
+| bip_39_word_no_space_12 | purchasebeforeimagelogicrookiealonepagepublicsandupholdmonitoracquire |  
+| bip_39_word_no_space_2 | purchasebefore |  
+| bip_39_word_no_space_3 | purchasebeforeimage |  
+| bip_39_word_no_space_4 | purchasebeforeimagelogic |  
+| bip_39_word_no_space_5 | purchasebeforeimagelogicrookie |  
+| bip_39_word_no_space_6 | purchasebeforeimagelogicrookiealone |  
+| bip_39_word_no_space_7 | purchasebeforeimagelogicrookiealonepage |  
+| bip_39_word_no_space_8 | purchasebeforeimagelogicrookiealonepagepublic |  
+| bip_39_word_no_space_9 | purchasebeforeimagelogicrookiealonepagepublicsand |  
 | bip_39_word_space_0 | ['purchase', 'before', 'image', 'logic', 'rookie', 'alone', 'page', 'public', 'sand', 'uphold', 'monitor', 'acquire'] |  
 | bip_39_word_space_1 | purchase |  
 | bip_39_word_space_10 | purchase before image logic rookie alone page public sand uphold |  

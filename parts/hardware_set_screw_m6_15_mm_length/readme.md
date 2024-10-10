@@ -122,6 +122,18 @@ orient
 assume
 joke
 toward |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessdepartmaximumgrantrainorientassumejoketowardexile |  
+| bip_39_word_no_space_11 | excessdepartmaximumgrantrainorientassumejoketowardexilesoccer |  
+| bip_39_word_no_space_12 | excessdepartmaximumgrantrainorientassumejoketowardexilesocceraround |  
+| bip_39_word_no_space_2 | excessdepart |  
+| bip_39_word_no_space_3 | excessdepartmaximum |  
+| bip_39_word_no_space_4 | excessdepartmaximumgrant |  
+| bip_39_word_no_space_5 | excessdepartmaximumgrantrain |  
+| bip_39_word_no_space_6 | excessdepartmaximumgrantrainorient |  
+| bip_39_word_no_space_7 | excessdepartmaximumgrantrainorientassume |  
+| bip_39_word_no_space_8 | excessdepartmaximumgrantrainorientassumejoke |  
+| bip_39_word_no_space_9 | excessdepartmaximumgrantrainorientassumejoketoward |  
 | bip_39_word_space_0 | ['excess', 'depart', 'maximum', 'grant', 'rain', 'orient', 'assume', 'joke', 'toward', 'exile', 'soccer', 'around'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess depart maximum grant rain orient assume joke toward exile |  

@@ -122,6 +122,18 @@ very
 west
 cheap
 heart |  
+| bip_39_word_no_space_1 | episode |  
+| bip_39_word_no_space_10 | episodespeakthatsmoothprimaryverywestcheapheartshuffle |  
+| bip_39_word_no_space_11 | episodespeakthatsmoothprimaryverywestcheapheartshufflestand |  
+| bip_39_word_no_space_12 | episodespeakthatsmoothprimaryverywestcheapheartshufflestandabsent |  
+| bip_39_word_no_space_2 | episodespeak |  
+| bip_39_word_no_space_3 | episodespeakthat |  
+| bip_39_word_no_space_4 | episodespeakthatsmooth |  
+| bip_39_word_no_space_5 | episodespeakthatsmoothprimary |  
+| bip_39_word_no_space_6 | episodespeakthatsmoothprimaryvery |  
+| bip_39_word_no_space_7 | episodespeakthatsmoothprimaryverywest |  
+| bip_39_word_no_space_8 | episodespeakthatsmoothprimaryverywestcheap |  
+| bip_39_word_no_space_9 | episodespeakthatsmoothprimaryverywestcheapheart |  
 | bip_39_word_space_0 | ['episode', 'speak', 'that', 'smooth', 'primary', 'very', 'west', 'cheap', 'heart', 'shuffle', 'stand', 'absent'] |  
 | bip_39_word_space_1 | episode |  
 | bip_39_word_space_10 | episode speak that smooth primary very west cheap heart shuffle |  

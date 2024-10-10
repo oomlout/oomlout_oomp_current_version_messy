@@ -122,6 +122,18 @@ spike
 alarm
 zero
 bag |  
+| bip_39_word_no_space_1 | park |  
+| bip_39_word_no_space_10 | parkgarmentwordsecurityfirmspikealarmzerobagexcuse |  
+| bip_39_word_no_space_11 | parkgarmentwordsecurityfirmspikealarmzerobagexcuseeight |  
+| bip_39_word_no_space_12 | parkgarmentwordsecurityfirmspikealarmzerobagexcuseeightaunt |  
+| bip_39_word_no_space_2 | parkgarment |  
+| bip_39_word_no_space_3 | parkgarmentword |  
+| bip_39_word_no_space_4 | parkgarmentwordsecurity |  
+| bip_39_word_no_space_5 | parkgarmentwordsecurityfirm |  
+| bip_39_word_no_space_6 | parkgarmentwordsecurityfirmspike |  
+| bip_39_word_no_space_7 | parkgarmentwordsecurityfirmspikealarm |  
+| bip_39_word_no_space_8 | parkgarmentwordsecurityfirmspikealarmzero |  
+| bip_39_word_no_space_9 | parkgarmentwordsecurityfirmspikealarmzerobag |  
 | bip_39_word_space_0 | ['park', 'garment', 'word', 'security', 'firm', 'spike', 'alarm', 'zero', 'bag', 'excuse', 'eight', 'aunt'] |  
 | bip_39_word_space_1 | park |  
 | bip_39_word_space_10 | park garment word security firm spike alarm zero bag excuse |  

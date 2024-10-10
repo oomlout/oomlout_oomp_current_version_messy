@@ -122,6 +122,18 @@ track
 any
 danger
 gown |  
+| bip_39_word_no_space_1 | wisdom |  
+| bip_39_word_no_space_10 | wisdomeastrabbitmiddlestatetrackanydangergownbargain |  
+| bip_39_word_no_space_11 | wisdomeastrabbitmiddlestatetrackanydangergownbargainfloat |  
+| bip_39_word_no_space_12 | wisdomeastrabbitmiddlestatetrackanydangergownbargainfloatarrange |  
+| bip_39_word_no_space_2 | wisdomeast |  
+| bip_39_word_no_space_3 | wisdomeastrabbit |  
+| bip_39_word_no_space_4 | wisdomeastrabbitmiddle |  
+| bip_39_word_no_space_5 | wisdomeastrabbitmiddlestate |  
+| bip_39_word_no_space_6 | wisdomeastrabbitmiddlestatetrack |  
+| bip_39_word_no_space_7 | wisdomeastrabbitmiddlestatetrackany |  
+| bip_39_word_no_space_8 | wisdomeastrabbitmiddlestatetrackanydanger |  
+| bip_39_word_no_space_9 | wisdomeastrabbitmiddlestatetrackanydangergown |  
 | bip_39_word_space_0 | ['wisdom', 'east', 'rabbit', 'middle', 'state', 'track', 'any', 'danger', 'gown', 'bargain', 'float', 'arrange'] |  
 | bip_39_word_space_1 | wisdom |  
 | bip_39_word_space_10 | wisdom east rabbit middle state track any danger gown bargain |  

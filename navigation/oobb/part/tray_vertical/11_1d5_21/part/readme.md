@@ -122,6 +122,18 @@ kitten
 return
 fun
 shrimp |  
+| bip_39_word_no_space_1 | super |  
+| bip_39_word_no_space_10 | supersymptomclogkeenslidekittenreturnfunshrimplizard |  
+| bip_39_word_no_space_11 | supersymptomclogkeenslidekittenreturnfunshrimplizardpolar |  
+| bip_39_word_no_space_12 | supersymptomclogkeenslidekittenreturnfunshrimplizardpolaraerobic |  
+| bip_39_word_no_space_2 | supersymptom |  
+| bip_39_word_no_space_3 | supersymptomclog |  
+| bip_39_word_no_space_4 | supersymptomclogkeen |  
+| bip_39_word_no_space_5 | supersymptomclogkeenslide |  
+| bip_39_word_no_space_6 | supersymptomclogkeenslidekitten |  
+| bip_39_word_no_space_7 | supersymptomclogkeenslidekittenreturn |  
+| bip_39_word_no_space_8 | supersymptomclogkeenslidekittenreturnfun |  
+| bip_39_word_no_space_9 | supersymptomclogkeenslidekittenreturnfunshrimp |  
 | bip_39_word_space_0 | ['super', 'symptom', 'clog', 'keen', 'slide', 'kitten', 'return', 'fun', 'shrimp', 'lizard', 'polar', 'aerobic'] |  
 | bip_39_word_space_1 | super |  
 | bip_39_word_space_10 | super symptom clog keen slide kitten return fun shrimp lizard |  

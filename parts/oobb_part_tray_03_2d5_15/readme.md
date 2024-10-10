@@ -122,6 +122,18 @@ entire
 food
 detect
 essence |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | apriliceclerkbustalkentirefooddetectessenceairport |  
+| bip_39_word_no_space_11 | apriliceclerkbustalkentirefooddetectessenceairporttorch |  
+| bip_39_word_no_space_12 | apriliceclerkbustalkentirefooddetectessenceairporttorchactor |  
+| bip_39_word_no_space_2 | aprilice |  
+| bip_39_word_no_space_3 | apriliceclerk |  
+| bip_39_word_no_space_4 | apriliceclerkbus |  
+| bip_39_word_no_space_5 | apriliceclerkbustalk |  
+| bip_39_word_no_space_6 | apriliceclerkbustalkentire |  
+| bip_39_word_no_space_7 | apriliceclerkbustalkentirefood |  
+| bip_39_word_no_space_8 | apriliceclerkbustalkentirefooddetect |  
+| bip_39_word_no_space_9 | apriliceclerkbustalkentirefooddetectessence |  
 | bip_39_word_space_0 | ['april', 'ice', 'clerk', 'bus', 'talk', 'entire', 'food', 'detect', 'essence', 'airport', 'torch', 'actor'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april ice clerk bus talk entire food detect essence airport |  

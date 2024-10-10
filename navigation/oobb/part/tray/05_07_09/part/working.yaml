@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'guess
   devote
 
   dust'
+bip_39_word_no_space_1: guess
+bip_39_word_no_space_10: guesssalutepictureclayvirussoundsportdevotedustitem
+bip_39_word_no_space_11: guesssalutepictureclayvirussoundsportdevotedustitemabove
+bip_39_word_no_space_12: guesssalutepictureclayvirussoundsportdevotedustitemabovealone
+bip_39_word_no_space_2: guesssalute
+bip_39_word_no_space_3: guesssalutepicture
+bip_39_word_no_space_4: guesssalutepictureclay
+bip_39_word_no_space_5: guesssalutepictureclayvirus
+bip_39_word_no_space_6: guesssalutepictureclayvirussound
+bip_39_word_no_space_7: guesssalutepictureclayvirussoundsport
+bip_39_word_no_space_8: guesssalutepictureclayvirussoundsportdevote
+bip_39_word_no_space_9: guesssalutepictureclayvirussoundsportdevotedust
 bip_39_word_space_0:
 - guess
 - salute

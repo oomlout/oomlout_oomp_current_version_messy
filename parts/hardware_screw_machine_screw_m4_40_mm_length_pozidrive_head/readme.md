@@ -109,6 +109,17 @@ effort
 fall
 addict
 mean |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slendersmartreflectlizardblesseffortfalladdictmeanflee |  
+| bip_39_word_no_space_11 | slendersmartreflectlizardblesseffortfalladdictmeanfleerunway |  
+| bip_39_word_no_space_2 | slendersmart |  
+| bip_39_word_no_space_3 | slendersmartreflect |  
+| bip_39_word_no_space_4 | slendersmartreflectlizard |  
+| bip_39_word_no_space_5 | slendersmartreflectlizardbless |  
+| bip_39_word_no_space_6 | slendersmartreflectlizardblesseffort |  
+| bip_39_word_no_space_7 | slendersmartreflectlizardblesseffortfall |  
+| bip_39_word_no_space_8 | slendersmartreflectlizardblesseffortfalladdict |  
+| bip_39_word_no_space_9 | slendersmartreflectlizardblesseffortfalladdictmean |  
 | bip_39_word_space_0 | ['slender', 'smart', 'reflect', 'lizard', 'bless', 'effort', 'fall', 'addict', 'mean', 'flee', 'runway'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender smart reflect lizard bless effort fall addict mean flee |  

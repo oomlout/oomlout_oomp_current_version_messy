@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bleak
   attract
 
   scrub'
+bip_39_word_no_space_1: bleak
+bip_39_word_no_space_10: bleakpriceregionapologyappeartoesunattractscrubsugar
+bip_39_word_no_space_11: bleakpriceregionapologyappeartoesunattractscrubsugarfebruary
+bip_39_word_no_space_12: bleakpriceregionapologyappeartoesunattractscrubsugarfebruaryarrange
+bip_39_word_no_space_2: bleakprice
+bip_39_word_no_space_3: bleakpriceregion
+bip_39_word_no_space_4: bleakpriceregionapology
+bip_39_word_no_space_5: bleakpriceregionapologyappear
+bip_39_word_no_space_6: bleakpriceregionapologyappeartoe
+bip_39_word_no_space_7: bleakpriceregionapologyappeartoesun
+bip_39_word_no_space_8: bleakpriceregionapologyappeartoesunattract
+bip_39_word_no_space_9: bleakpriceregionapologyappeartoesunattractscrub
 bip_39_word_space_0:
 - bleak
 - price

@@ -122,6 +122,18 @@ cereal
 vintage
 switch
 viable |  
+| bip_39_word_no_space_1 | ride |  
+| bip_39_word_no_space_10 | ridebrightaxisdoorventurecerealvintageswitchviableonion |  
+| bip_39_word_no_space_11 | ridebrightaxisdoorventurecerealvintageswitchviableoniontorch |  
+| bip_39_word_no_space_12 | ridebrightaxisdoorventurecerealvintageswitchviableoniontorchassist |  
+| bip_39_word_no_space_2 | ridebright |  
+| bip_39_word_no_space_3 | ridebrightaxis |  
+| bip_39_word_no_space_4 | ridebrightaxisdoor |  
+| bip_39_word_no_space_5 | ridebrightaxisdoorventure |  
+| bip_39_word_no_space_6 | ridebrightaxisdoorventurecereal |  
+| bip_39_word_no_space_7 | ridebrightaxisdoorventurecerealvintage |  
+| bip_39_word_no_space_8 | ridebrightaxisdoorventurecerealvintageswitch |  
+| bip_39_word_no_space_9 | ridebrightaxisdoorventurecerealvintageswitchviable |  
 | bip_39_word_space_0 | ['ride', 'bright', 'axis', 'door', 'venture', 'cereal', 'vintage', 'switch', 'viable', 'onion', 'torch', 'assist'] |  
 | bip_39_word_space_1 | ride |  
 | bip_39_word_space_10 | ride bright axis door venture cereal vintage switch viable onion |  

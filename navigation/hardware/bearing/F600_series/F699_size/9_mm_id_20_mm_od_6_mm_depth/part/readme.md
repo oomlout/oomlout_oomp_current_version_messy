@@ -122,6 +122,18 @@ spell
 innocent
 install
 found |  
+| bip_39_word_no_space_1 | split |  
+| bip_39_word_no_space_10 | splitimprovewillrecyclesignspellinnocentinstallfoundfirst |  
+| bip_39_word_no_space_11 | splitimprovewillrecyclesignspellinnocentinstallfoundfirstobey |  
+| bip_39_word_no_space_12 | splitimprovewillrecyclesignspellinnocentinstallfoundfirstobeyaction |  
+| bip_39_word_no_space_2 | splitimprove |  
+| bip_39_word_no_space_3 | splitimprovewill |  
+| bip_39_word_no_space_4 | splitimprovewillrecycle |  
+| bip_39_word_no_space_5 | splitimprovewillrecyclesign |  
+| bip_39_word_no_space_6 | splitimprovewillrecyclesignspell |  
+| bip_39_word_no_space_7 | splitimprovewillrecyclesignspellinnocent |  
+| bip_39_word_no_space_8 | splitimprovewillrecyclesignspellinnocentinstall |  
+| bip_39_word_no_space_9 | splitimprovewillrecyclesignspellinnocentinstallfound |  
 | bip_39_word_space_0 | ['split', 'improve', 'will', 'recycle', 'sign', 'spell', 'innocent', 'install', 'found', 'first', 'obey', 'action'] |  
 | bip_39_word_space_1 | split |  
 | bip_39_word_space_10 | split improve will recycle sign spell innocent install found first |  

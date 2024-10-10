@@ -122,6 +122,18 @@ issue
 area
 amateur
 hamster |  
+| bip_39_word_no_space_1 | hazard |  
+| bip_39_word_no_space_10 | hazardadvicedefyglasstribeissueareaamateurhamsterunit |  
+| bip_39_word_no_space_11 | hazardadvicedefyglasstribeissueareaamateurhamsterunitlarge |  
+| bip_39_word_no_space_12 | hazardadvicedefyglasstribeissueareaamateurhamsterunitlargeability |  
+| bip_39_word_no_space_2 | hazardadvice |  
+| bip_39_word_no_space_3 | hazardadvicedefy |  
+| bip_39_word_no_space_4 | hazardadvicedefyglass |  
+| bip_39_word_no_space_5 | hazardadvicedefyglasstribe |  
+| bip_39_word_no_space_6 | hazardadvicedefyglasstribeissue |  
+| bip_39_word_no_space_7 | hazardadvicedefyglasstribeissuearea |  
+| bip_39_word_no_space_8 | hazardadvicedefyglasstribeissueareaamateur |  
+| bip_39_word_no_space_9 | hazardadvicedefyglasstribeissueareaamateurhamster |  
 | bip_39_word_space_0 | ['hazard', 'advice', 'defy', 'glass', 'tribe', 'issue', 'area', 'amateur', 'hamster', 'unit', 'large', 'ability'] |  
 | bip_39_word_space_1 | hazard |  
 | bip_39_word_space_10 | hazard advice defy glass tribe issue area amateur hamster unit |  

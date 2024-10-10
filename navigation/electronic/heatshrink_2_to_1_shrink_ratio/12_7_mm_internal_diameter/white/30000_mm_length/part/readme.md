@@ -122,6 +122,18 @@ next
 load
 profit
 toddler |  
+| bip_39_word_no_space_1 | risk |  
+| bip_39_word_no_space_10 | riskemptymailtonightsiegenextloadprofittoddlerdrastic |  
+| bip_39_word_no_space_11 | riskemptymailtonightsiegenextloadprofittoddlerdrasticlesson |  
+| bip_39_word_no_space_12 | riskemptymailtonightsiegenextloadprofittoddlerdrasticlessonannual |  
+| bip_39_word_no_space_2 | riskempty |  
+| bip_39_word_no_space_3 | riskemptymail |  
+| bip_39_word_no_space_4 | riskemptymailtonight |  
+| bip_39_word_no_space_5 | riskemptymailtonightsiege |  
+| bip_39_word_no_space_6 | riskemptymailtonightsiegenext |  
+| bip_39_word_no_space_7 | riskemptymailtonightsiegenextload |  
+| bip_39_word_no_space_8 | riskemptymailtonightsiegenextloadprofit |  
+| bip_39_word_no_space_9 | riskemptymailtonightsiegenextloadprofittoddler |  
 | bip_39_word_space_0 | ['risk', 'empty', 'mail', 'tonight', 'siege', 'next', 'load', 'profit', 'toddler', 'drastic', 'lesson', 'annual'] |  
 | bip_39_word_space_1 | risk |  
 | bip_39_word_space_10 | risk empty mail tonight siege next load profit toddler drastic |  

@@ -122,6 +122,18 @@ foam
 gauge
 seed
 worth |  
+| bip_39_word_no_space_1 | axis |  
+| bip_39_word_no_space_10 | axisrightgarmentallowvalvefoamgaugeseedworthhard |  
+| bip_39_word_no_space_11 | axisrightgarmentallowvalvefoamgaugeseedworthhardfront |  
+| bip_39_word_no_space_12 | axisrightgarmentallowvalvefoamgaugeseedworthhardfrontaverage |  
+| bip_39_word_no_space_2 | axisright |  
+| bip_39_word_no_space_3 | axisrightgarment |  
+| bip_39_word_no_space_4 | axisrightgarmentallow |  
+| bip_39_word_no_space_5 | axisrightgarmentallowvalve |  
+| bip_39_word_no_space_6 | axisrightgarmentallowvalvefoam |  
+| bip_39_word_no_space_7 | axisrightgarmentallowvalvefoamgauge |  
+| bip_39_word_no_space_8 | axisrightgarmentallowvalvefoamgaugeseed |  
+| bip_39_word_no_space_9 | axisrightgarmentallowvalvefoamgaugeseedworth |  
 | bip_39_word_space_0 | ['axis', 'right', 'garment', 'allow', 'valve', 'foam', 'gauge', 'seed', 'worth', 'hard', 'front', 'average'] |  
 | bip_39_word_space_1 | axis |  
 | bip_39_word_space_10 | axis right garment allow valve foam gauge seed worth hard |  

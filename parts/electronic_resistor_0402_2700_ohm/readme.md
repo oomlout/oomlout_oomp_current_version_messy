@@ -122,6 +122,18 @@ source
 office
 half
 artwork |  
+| bip_39_word_no_space_1 | curve |  
+| bip_39_word_no_space_10 | curvemeanovenonioncolorsourceofficehalfartworknews |  
+| bip_39_word_no_space_11 | curvemeanovenonioncolorsourceofficehalfartworknewssoul |  
+| bip_39_word_no_space_12 | curvemeanovenonioncolorsourceofficehalfartworknewssoulapology |  
+| bip_39_word_no_space_2 | curvemean |  
+| bip_39_word_no_space_3 | curvemeanoven |  
+| bip_39_word_no_space_4 | curvemeanovenonion |  
+| bip_39_word_no_space_5 | curvemeanovenonioncolor |  
+| bip_39_word_no_space_6 | curvemeanovenonioncolorsource |  
+| bip_39_word_no_space_7 | curvemeanovenonioncolorsourceoffice |  
+| bip_39_word_no_space_8 | curvemeanovenonioncolorsourceofficehalf |  
+| bip_39_word_no_space_9 | curvemeanovenonioncolorsourceofficehalfartwork |  
 | bip_39_word_space_0 | ['curve', 'mean', 'oven', 'onion', 'color', 'source', 'office', 'half', 'artwork', 'news', 'soul', 'apology'] |  
 | bip_39_word_space_1 | curve |  
 | bip_39_word_space_10 | curve mean oven onion color source office half artwork news |  

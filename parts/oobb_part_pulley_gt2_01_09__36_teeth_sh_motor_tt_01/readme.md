@@ -122,6 +122,18 @@ sail
 iron
 decide
 ring |  
+| bip_39_word_no_space_1 | absent |  
+| bip_39_word_no_space_10 | absentexitpuppypointboatsailirondecideringprotect |  
+| bip_39_word_no_space_11 | absentexitpuppypointboatsailirondecideringprotectnut |  
+| bip_39_word_no_space_12 | absentexitpuppypointboatsailirondecideringprotectnutauto |  
+| bip_39_word_no_space_2 | absentexit |  
+| bip_39_word_no_space_3 | absentexitpuppy |  
+| bip_39_word_no_space_4 | absentexitpuppypoint |  
+| bip_39_word_no_space_5 | absentexitpuppypointboat |  
+| bip_39_word_no_space_6 | absentexitpuppypointboatsail |  
+| bip_39_word_no_space_7 | absentexitpuppypointboatsailiron |  
+| bip_39_word_no_space_8 | absentexitpuppypointboatsailirondecide |  
+| bip_39_word_no_space_9 | absentexitpuppypointboatsailirondecidering |  
 | bip_39_word_space_0 | ['absent', 'exit', 'puppy', 'point', 'boat', 'sail', 'iron', 'decide', 'ring', 'protect', 'nut', 'auto'] |  
 | bip_39_word_space_1 | absent |  
 | bip_39_word_space_10 | absent exit puppy point boat sail iron decide ring protect |  

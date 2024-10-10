@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ice
   clever
 
   system'
+bip_39_word_no_space_1: ice
+bip_39_word_no_space_10: icegirlinjectlobstertigercleanideacleversystemplunge
+bip_39_word_no_space_11: icegirlinjectlobstertigercleanideacleversystemplungerich
+bip_39_word_no_space_12: icegirlinjectlobstertigercleanideacleversystemplungerichartist
+bip_39_word_no_space_2: icegirl
+bip_39_word_no_space_3: icegirlinject
+bip_39_word_no_space_4: icegirlinjectlobster
+bip_39_word_no_space_5: icegirlinjectlobstertiger
+bip_39_word_no_space_6: icegirlinjectlobstertigerclean
+bip_39_word_no_space_7: icegirlinjectlobstertigercleanidea
+bip_39_word_no_space_8: icegirlinjectlobstertigercleanideaclever
+bip_39_word_no_space_9: icegirlinjectlobstertigercleanideacleversystem
 bip_39_word_space_0:
 - ice
 - girl

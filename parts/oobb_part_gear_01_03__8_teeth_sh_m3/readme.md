@@ -122,6 +122,18 @@ remind
 butter
 series
 rug |  
+| bip_39_word_no_space_1 | whisper |  
+| bip_39_word_no_space_10 | whisperopposejacketeagletestremindbutterseriesrugaccuse |  
+| bip_39_word_no_space_11 | whisperopposejacketeagletestremindbutterseriesrugaccusegarden |  
+| bip_39_word_no_space_12 | whisperopposejacketeagletestremindbutterseriesrugaccusegardenadult |  
+| bip_39_word_no_space_2 | whisperoppose |  
+| bip_39_word_no_space_3 | whisperopposejacket |  
+| bip_39_word_no_space_4 | whisperopposejacketeagle |  
+| bip_39_word_no_space_5 | whisperopposejacketeagletest |  
+| bip_39_word_no_space_6 | whisperopposejacketeagletestremind |  
+| bip_39_word_no_space_7 | whisperopposejacketeagletestremindbutter |  
+| bip_39_word_no_space_8 | whisperopposejacketeagletestremindbutterseries |  
+| bip_39_word_no_space_9 | whisperopposejacketeagletestremindbutterseriesrug |  
 | bip_39_word_space_0 | ['whisper', 'oppose', 'jacket', 'eagle', 'test', 'remind', 'butter', 'series', 'rug', 'accuse', 'garden', 'adult'] |  
 | bip_39_word_space_1 | whisper |  
 | bip_39_word_space_10 | whisper oppose jacket eagle test remind butter series rug accuse |  

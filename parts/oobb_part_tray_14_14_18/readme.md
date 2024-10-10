@@ -122,6 +122,18 @@ suit
 program
 puppy
 right |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepheighttoweragaindiarysuitprogrampuppyrightwinter |  
+| bip_39_word_no_space_11 | sleepheighttoweragaindiarysuitprogrampuppyrightwinterpower |  
+| bip_39_word_no_space_12 | sleepheighttoweragaindiarysuitprogrampuppyrightwinterpowerassume |  
+| bip_39_word_no_space_2 | sleepheight |  
+| bip_39_word_no_space_3 | sleepheighttower |  
+| bip_39_word_no_space_4 | sleepheighttoweragain |  
+| bip_39_word_no_space_5 | sleepheighttoweragaindiary |  
+| bip_39_word_no_space_6 | sleepheighttoweragaindiarysuit |  
+| bip_39_word_no_space_7 | sleepheighttoweragaindiarysuitprogram |  
+| bip_39_word_no_space_8 | sleepheighttoweragaindiarysuitprogrampuppy |  
+| bip_39_word_no_space_9 | sleepheighttoweragaindiarysuitprogrampuppyright |  
 | bip_39_word_space_0 | ['sleep', 'height', 'tower', 'again', 'diary', 'suit', 'program', 'puppy', 'right', 'winter', 'power', 'assume'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep height tower again diary suit program puppy right winter |  

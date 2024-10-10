@@ -122,6 +122,18 @@ evoke
 stuff
 brief
 roof |  
+| bip_39_word_no_space_1 | damp |  
+| bip_39_word_no_space_10 | dampironostrichinsidesportevokestuffbriefrooftopple |  
+| bip_39_word_no_space_11 | dampironostrichinsidesportevokestuffbriefrooftopplewear |  
+| bip_39_word_no_space_12 | dampironostrichinsidesportevokestuffbriefrooftopplewearagree |  
+| bip_39_word_no_space_2 | dampiron |  
+| bip_39_word_no_space_3 | dampironostrich |  
+| bip_39_word_no_space_4 | dampironostrichinside |  
+| bip_39_word_no_space_5 | dampironostrichinsidesport |  
+| bip_39_word_no_space_6 | dampironostrichinsidesportevoke |  
+| bip_39_word_no_space_7 | dampironostrichinsidesportevokestuff |  
+| bip_39_word_no_space_8 | dampironostrichinsidesportevokestuffbrief |  
+| bip_39_word_no_space_9 | dampironostrichinsidesportevokestuffbriefroof |  
 | bip_39_word_space_0 | ['damp', 'iron', 'ostrich', 'inside', 'sport', 'evoke', 'stuff', 'brief', 'roof', 'topple', 'wear', 'agree'] |  
 | bip_39_word_space_1 | damp |  
 | bip_39_word_space_10 | damp iron ostrich inside sport evoke stuff brief roof topple |  

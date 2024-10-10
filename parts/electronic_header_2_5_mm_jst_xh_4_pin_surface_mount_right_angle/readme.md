@@ -122,6 +122,18 @@ flight
 budget
 initial
 sausage |  
+| bip_39_word_no_space_1 | heavy |  
+| bip_39_word_no_space_10 | heavywateralertcurrentpyramidflightbudgetinitialsausagemedal |  
+| bip_39_word_no_space_11 | heavywateralertcurrentpyramidflightbudgetinitialsausagemedalgentle |  
+| bip_39_word_no_space_12 | heavywateralertcurrentpyramidflightbudgetinitialsausagemedalgentleabstract |  
+| bip_39_word_no_space_2 | heavywater |  
+| bip_39_word_no_space_3 | heavywateralert |  
+| bip_39_word_no_space_4 | heavywateralertcurrent |  
+| bip_39_word_no_space_5 | heavywateralertcurrentpyramid |  
+| bip_39_word_no_space_6 | heavywateralertcurrentpyramidflight |  
+| bip_39_word_no_space_7 | heavywateralertcurrentpyramidflightbudget |  
+| bip_39_word_no_space_8 | heavywateralertcurrentpyramidflightbudgetinitial |  
+| bip_39_word_no_space_9 | heavywateralertcurrentpyramidflightbudgetinitialsausage |  
 | bip_39_word_space_0 | ['heavy', 'water', 'alert', 'current', 'pyramid', 'flight', 'budget', 'initial', 'sausage', 'medal', 'gentle', 'abstract'] |  
 | bip_39_word_space_1 | heavy |  
 | bip_39_word_space_10 | heavy water alert current pyramid flight budget initial sausage medal |  

@@ -122,6 +122,18 @@ adjust
 dust
 february
 interest |  
+| bip_39_word_no_space_1 | room |  
+| bip_39_word_no_space_10 | roomshedboxbracketturtleadjustdustfebruaryinterestgoose |  
+| bip_39_word_no_space_11 | roomshedboxbracketturtleadjustdustfebruaryinterestgoosevarious |  
+| bip_39_word_no_space_12 | roomshedboxbracketturtleadjustdustfebruaryinterestgoosevariousarmed |  
+| bip_39_word_no_space_2 | roomshed |  
+| bip_39_word_no_space_3 | roomshedbox |  
+| bip_39_word_no_space_4 | roomshedboxbracket |  
+| bip_39_word_no_space_5 | roomshedboxbracketturtle |  
+| bip_39_word_no_space_6 | roomshedboxbracketturtleadjust |  
+| bip_39_word_no_space_7 | roomshedboxbracketturtleadjustdust |  
+| bip_39_word_no_space_8 | roomshedboxbracketturtleadjustdustfebruary |  
+| bip_39_word_no_space_9 | roomshedboxbracketturtleadjustdustfebruaryinterest |  
 | bip_39_word_space_0 | ['room', 'shed', 'box', 'bracket', 'turtle', 'adjust', 'dust', 'february', 'interest', 'goose', 'various', 'armed'] |  
 | bip_39_word_space_1 | room |  
 | bip_39_word_space_10 | room shed box bracket turtle adjust dust february interest goose |  

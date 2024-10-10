@@ -122,6 +122,18 @@ fetch
 shadow
 know
 slot |  
+| bip_39_word_no_space_1 | abstract |  
+| bip_39_word_no_space_10 | abstractphysicalmeanshortgesturefetchshadowknowslotcome |  
+| bip_39_word_no_space_11 | abstractphysicalmeanshortgesturefetchshadowknowslotcomerigid |  
+| bip_39_word_no_space_12 | abstractphysicalmeanshortgesturefetchshadowknowslotcomerigidacquire |  
+| bip_39_word_no_space_2 | abstractphysical |  
+| bip_39_word_no_space_3 | abstractphysicalmean |  
+| bip_39_word_no_space_4 | abstractphysicalmeanshort |  
+| bip_39_word_no_space_5 | abstractphysicalmeanshortgesture |  
+| bip_39_word_no_space_6 | abstractphysicalmeanshortgesturefetch |  
+| bip_39_word_no_space_7 | abstractphysicalmeanshortgesturefetchshadow |  
+| bip_39_word_no_space_8 | abstractphysicalmeanshortgesturefetchshadowknow |  
+| bip_39_word_no_space_9 | abstractphysicalmeanshortgesturefetchshadowknowslot |  
 | bip_39_word_space_0 | ['abstract', 'physical', 'mean', 'short', 'gesture', 'fetch', 'shadow', 'know', 'slot', 'come', 'rigid', 'acquire'] |  
 | bip_39_word_space_1 | abstract |  
 | bip_39_word_space_10 | abstract physical mean short gesture fetch shadow know slot come |  

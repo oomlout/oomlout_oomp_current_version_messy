@@ -122,6 +122,18 @@ light
 few
 work
 pioneer |  
+| bip_39_word_no_space_1 | dish |  
+| bip_39_word_no_space_10 | dishmooncomfortbetraypaymentlightfewworkpioneermotion |  
+| bip_39_word_no_space_11 | dishmooncomfortbetraypaymentlightfewworkpioneermotionsort |  
+| bip_39_word_no_space_12 | dishmooncomfortbetraypaymentlightfewworkpioneermotionsortarmy |  
+| bip_39_word_no_space_2 | dishmoon |  
+| bip_39_word_no_space_3 | dishmooncomfort |  
+| bip_39_word_no_space_4 | dishmooncomfortbetray |  
+| bip_39_word_no_space_5 | dishmooncomfortbetraypayment |  
+| bip_39_word_no_space_6 | dishmooncomfortbetraypaymentlight |  
+| bip_39_word_no_space_7 | dishmooncomfortbetraypaymentlightfew |  
+| bip_39_word_no_space_8 | dishmooncomfortbetraypaymentlightfewwork |  
+| bip_39_word_no_space_9 | dishmooncomfortbetraypaymentlightfewworkpioneer |  
 | bip_39_word_space_0 | ['dish', 'moon', 'comfort', 'betray', 'payment', 'light', 'few', 'work', 'pioneer', 'motion', 'sort', 'army'] |  
 | bip_39_word_space_1 | dish |  
 | bip_39_word_space_10 | dish moon comfort betray payment light few work pioneer motion |  

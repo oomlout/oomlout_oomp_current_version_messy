@@ -122,6 +122,18 @@ hand
 actual
 measure
 identify |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palaceshellfemaleassumeclubhandactualmeasureidentifypretty |  
+| bip_39_word_no_space_11 | palaceshellfemaleassumeclubhandactualmeasureidentifyprettygenre |  
+| bip_39_word_no_space_12 | palaceshellfemaleassumeclubhandactualmeasureidentifyprettygenreapple |  
+| bip_39_word_no_space_2 | palaceshell |  
+| bip_39_word_no_space_3 | palaceshellfemale |  
+| bip_39_word_no_space_4 | palaceshellfemaleassume |  
+| bip_39_word_no_space_5 | palaceshellfemaleassumeclub |  
+| bip_39_word_no_space_6 | palaceshellfemaleassumeclubhand |  
+| bip_39_word_no_space_7 | palaceshellfemaleassumeclubhandactual |  
+| bip_39_word_no_space_8 | palaceshellfemaleassumeclubhandactualmeasure |  
+| bip_39_word_no_space_9 | palaceshellfemaleassumeclubhandactualmeasureidentify |  
 | bip_39_word_space_0 | ['palace', 'shell', 'female', 'assume', 'club', 'hand', 'actual', 'measure', 'identify', 'pretty', 'genre', 'apple'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace shell female assume club hand actual measure identify pretty |  

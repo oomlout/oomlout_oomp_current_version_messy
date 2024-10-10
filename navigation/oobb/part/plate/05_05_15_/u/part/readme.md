@@ -122,6 +122,18 @@ soda
 relax
 bicycle
 chaos |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdose |  
+| bip_39_word_no_space_11 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecember |  
+| bip_39_word_no_space_12 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecemberanxiety |  
+| bip_39_word_no_space_2 | bronzedestroy |  
+| bip_39_word_no_space_3 | bronzedestroyinitial |  
+| bip_39_word_no_space_4 | bronzedestroyinitialspecial |  
+| bip_39_word_no_space_5 | bronzedestroyinitialspecialrepeat |  
+| bip_39_word_no_space_6 | bronzedestroyinitialspecialrepeatsoda |  
+| bip_39_word_no_space_7 | bronzedestroyinitialspecialrepeatsodarelax |  
+| bip_39_word_no_space_8 | bronzedestroyinitialspecialrepeatsodarelaxbicycle |  
+| bip_39_word_no_space_9 | bronzedestroyinitialspecialrepeatsodarelaxbicyclechaos |  
 | bip_39_word_space_0 | ['bronze', 'destroy', 'initial', 'special', 'repeat', 'soda', 'relax', 'bicycle', 'chaos', 'dose', 'december', 'anxiety'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze destroy initial special repeat soda relax bicycle chaos dose |  

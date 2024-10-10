@@ -122,6 +122,18 @@ fence
 inspire
 call
 ocean |  
+| bip_39_word_no_space_1 | before |  
+| bip_39_word_no_space_10 | beforegigglereliefstartregularfenceinspirecalloceanuncle |  
+| bip_39_word_no_space_11 | beforegigglereliefstartregularfenceinspirecalloceanuncleold |  
+| bip_39_word_no_space_12 | beforegigglereliefstartregularfenceinspirecalloceanuncleoldalert |  
+| bip_39_word_no_space_2 | beforegiggle |  
+| bip_39_word_no_space_3 | beforegigglerelief |  
+| bip_39_word_no_space_4 | beforegigglereliefstart |  
+| bip_39_word_no_space_5 | beforegigglereliefstartregular |  
+| bip_39_word_no_space_6 | beforegigglereliefstartregularfence |  
+| bip_39_word_no_space_7 | beforegigglereliefstartregularfenceinspire |  
+| bip_39_word_no_space_8 | beforegigglereliefstartregularfenceinspirecall |  
+| bip_39_word_no_space_9 | beforegigglereliefstartregularfenceinspirecallocean |  
 | bip_39_word_space_0 | ['before', 'giggle', 'relief', 'start', 'regular', 'fence', 'inspire', 'call', 'ocean', 'uncle', 'old', 'alert'] |  
 | bip_39_word_space_1 | before |  
 | bip_39_word_space_10 | before giggle relief start regular fence inspire call ocean uncle |  

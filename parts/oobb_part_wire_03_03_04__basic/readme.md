@@ -122,6 +122,18 @@ range
 black
 kiss
 joy |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelyislandtunasensevoicerangeblackkissjoyreunion |  
+| bip_39_word_no_space_11 | lonelyislandtunasensevoicerangeblackkissjoyreunionincome |  
+| bip_39_word_no_space_12 | lonelyislandtunasensevoicerangeblackkissjoyreunionincomearena |  
+| bip_39_word_no_space_2 | lonelyisland |  
+| bip_39_word_no_space_3 | lonelyislandtuna |  
+| bip_39_word_no_space_4 | lonelyislandtunasense |  
+| bip_39_word_no_space_5 | lonelyislandtunasensevoice |  
+| bip_39_word_no_space_6 | lonelyislandtunasensevoicerange |  
+| bip_39_word_no_space_7 | lonelyislandtunasensevoicerangeblack |  
+| bip_39_word_no_space_8 | lonelyislandtunasensevoicerangeblackkiss |  
+| bip_39_word_no_space_9 | lonelyislandtunasensevoicerangeblackkissjoy |  
 | bip_39_word_space_0 | ['lonely', 'island', 'tuna', 'sense', 'voice', 'range', 'black', 'kiss', 'joy', 'reunion', 'income', 'arena'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely island tuna sense voice range black kiss joy reunion |  

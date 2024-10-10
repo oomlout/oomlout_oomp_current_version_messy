@@ -122,6 +122,18 @@ boring
 travel
 smart
 elite |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipnestawesomespiritpitchboringtravelsmartelitenumber |  
+| bip_39_word_no_space_11 | shipnestawesomespiritpitchboringtravelsmartelitenumberclap |  
+| bip_39_word_no_space_12 | shipnestawesomespiritpitchboringtravelsmartelitenumberclaparea |  
+| bip_39_word_no_space_2 | shipnest |  
+| bip_39_word_no_space_3 | shipnestawesome |  
+| bip_39_word_no_space_4 | shipnestawesomespirit |  
+| bip_39_word_no_space_5 | shipnestawesomespiritpitch |  
+| bip_39_word_no_space_6 | shipnestawesomespiritpitchboring |  
+| bip_39_word_no_space_7 | shipnestawesomespiritpitchboringtravel |  
+| bip_39_word_no_space_8 | shipnestawesomespiritpitchboringtravelsmart |  
+| bip_39_word_no_space_9 | shipnestawesomespiritpitchboringtravelsmartelite |  
 | bip_39_word_space_0 | ['ship', 'nest', 'awesome', 'spirit', 'pitch', 'boring', 'travel', 'smart', 'elite', 'number', 'clap', 'area'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship nest awesome spirit pitch boring travel smart elite number |  

@@ -122,6 +122,18 @@ orchard
 scout
 acquire
 beyond |  
+| bip_39_word_no_space_1 | vast |  
+| bip_39_word_no_space_10 | vastbuyerhaveindexmanorchardscoutacquirebeyondroast |  
+| bip_39_word_no_space_11 | vastbuyerhaveindexmanorchardscoutacquirebeyondroastapart |  
+| bip_39_word_no_space_12 | vastbuyerhaveindexmanorchardscoutacquirebeyondroastapartadvance |  
+| bip_39_word_no_space_2 | vastbuyer |  
+| bip_39_word_no_space_3 | vastbuyerhave |  
+| bip_39_word_no_space_4 | vastbuyerhaveindex |  
+| bip_39_word_no_space_5 | vastbuyerhaveindexman |  
+| bip_39_word_no_space_6 | vastbuyerhaveindexmanorchard |  
+| bip_39_word_no_space_7 | vastbuyerhaveindexmanorchardscout |  
+| bip_39_word_no_space_8 | vastbuyerhaveindexmanorchardscoutacquire |  
+| bip_39_word_no_space_9 | vastbuyerhaveindexmanorchardscoutacquirebeyond |  
 | bip_39_word_space_0 | ['vast', 'buyer', 'have', 'index', 'man', 'orchard', 'scout', 'acquire', 'beyond', 'roast', 'apart', 'advance'] |  
 | bip_39_word_space_1 | vast |  
 | bip_39_word_space_10 | vast buyer have index man orchard scout acquire beyond roast |  

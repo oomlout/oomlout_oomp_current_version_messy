@@ -122,6 +122,18 @@ switch
 tuna
 vivid
 laptop |  
+| bip_39_word_no_space_1 | stove |  
+| bip_39_word_no_space_10 | stovegymatomobvioussorryswitchtunavividlaptopfuture |  
+| bip_39_word_no_space_11 | stovegymatomobvioussorryswitchtunavividlaptopfutureneglect |  
+| bip_39_word_no_space_12 | stovegymatomobvioussorryswitchtunavividlaptopfutureneglectaudit |  
+| bip_39_word_no_space_2 | stovegym |  
+| bip_39_word_no_space_3 | stovegymatom |  
+| bip_39_word_no_space_4 | stovegymatomobvious |  
+| bip_39_word_no_space_5 | stovegymatomobvioussorry |  
+| bip_39_word_no_space_6 | stovegymatomobvioussorryswitch |  
+| bip_39_word_no_space_7 | stovegymatomobvioussorryswitchtuna |  
+| bip_39_word_no_space_8 | stovegymatomobvioussorryswitchtunavivid |  
+| bip_39_word_no_space_9 | stovegymatomobvioussorryswitchtunavividlaptop |  
 | bip_39_word_space_0 | ['stove', 'gym', 'atom', 'obvious', 'sorry', 'switch', 'tuna', 'vivid', 'laptop', 'future', 'neglect', 'audit'] |  
 | bip_39_word_space_1 | stove |  
 | bip_39_word_space_10 | stove gym atom obvious sorry switch tuna vivid laptop future |  

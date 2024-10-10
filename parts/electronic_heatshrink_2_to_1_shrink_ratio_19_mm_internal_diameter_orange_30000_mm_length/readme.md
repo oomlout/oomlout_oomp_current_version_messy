@@ -122,6 +122,18 @@ reopen
 alert
 chunk
 simple |  
+| bip_39_word_no_space_1 | embrace |  
+| bip_39_word_no_space_10 | embracemeshtwistnightdetectreopenalertchunksimplereopen |  
+| bip_39_word_no_space_11 | embracemeshtwistnightdetectreopenalertchunksimplereopenpistol |  
+| bip_39_word_no_space_12 | embracemeshtwistnightdetectreopenalertchunksimplereopenpistolanother |  
+| bip_39_word_no_space_2 | embracemesh |  
+| bip_39_word_no_space_3 | embracemeshtwist |  
+| bip_39_word_no_space_4 | embracemeshtwistnight |  
+| bip_39_word_no_space_5 | embracemeshtwistnightdetect |  
+| bip_39_word_no_space_6 | embracemeshtwistnightdetectreopen |  
+| bip_39_word_no_space_7 | embracemeshtwistnightdetectreopenalert |  
+| bip_39_word_no_space_8 | embracemeshtwistnightdetectreopenalertchunk |  
+| bip_39_word_no_space_9 | embracemeshtwistnightdetectreopenalertchunksimple |  
 | bip_39_word_space_0 | ['embrace', 'mesh', 'twist', 'night', 'detect', 'reopen', 'alert', 'chunk', 'simple', 'reopen', 'pistol', 'another'] |  
 | bip_39_word_space_1 | embrace |  
 | bip_39_word_space_10 | embrace mesh twist night detect reopen alert chunk simple reopen |  

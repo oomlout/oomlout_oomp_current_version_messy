@@ -122,6 +122,18 @@ cause
 ribbon
 gain
 river |  
+| bip_39_word_no_space_1 | medal |  
+| bip_39_word_no_space_10 | medalsuspectpatrolratherostrichcauseribbongainrivereye |  
+| bip_39_word_no_space_11 | medalsuspectpatrolratherostrichcauseribbongainrivereyeladder |  
+| bip_39_word_no_space_12 | medalsuspectpatrolratherostrichcauseribbongainrivereyeladderabsurd |  
+| bip_39_word_no_space_2 | medalsuspect |  
+| bip_39_word_no_space_3 | medalsuspectpatrol |  
+| bip_39_word_no_space_4 | medalsuspectpatrolrather |  
+| bip_39_word_no_space_5 | medalsuspectpatrolratherostrich |  
+| bip_39_word_no_space_6 | medalsuspectpatrolratherostrichcause |  
+| bip_39_word_no_space_7 | medalsuspectpatrolratherostrichcauseribbon |  
+| bip_39_word_no_space_8 | medalsuspectpatrolratherostrichcauseribbongain |  
+| bip_39_word_no_space_9 | medalsuspectpatrolratherostrichcauseribbongainriver |  
 | bip_39_word_space_0 | ['medal', 'suspect', 'patrol', 'rather', 'ostrich', 'cause', 'ribbon', 'gain', 'river', 'eye', 'ladder', 'absurd'] |  
 | bip_39_word_space_1 | medal |  
 | bip_39_word_space_10 | medal suspect patrol rather ostrich cause ribbon gain river eye |  

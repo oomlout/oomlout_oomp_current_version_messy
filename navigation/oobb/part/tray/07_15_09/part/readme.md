@@ -122,6 +122,18 @@ choice
 verb
 sentence
 achieve |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementcoveroilendorseelementchoiceverbsentenceachieveburger |  
+| bip_39_word_no_space_11 | elementcoveroilendorseelementchoiceverbsentenceachieveburgergarlic |  
+| bip_39_word_no_space_12 | elementcoveroilendorseelementchoiceverbsentenceachieveburgergarlicafford |  
+| bip_39_word_no_space_2 | elementcover |  
+| bip_39_word_no_space_3 | elementcoveroil |  
+| bip_39_word_no_space_4 | elementcoveroilendorse |  
+| bip_39_word_no_space_5 | elementcoveroilendorseelement |  
+| bip_39_word_no_space_6 | elementcoveroilendorseelementchoice |  
+| bip_39_word_no_space_7 | elementcoveroilendorseelementchoiceverb |  
+| bip_39_word_no_space_8 | elementcoveroilendorseelementchoiceverbsentence |  
+| bip_39_word_no_space_9 | elementcoveroilendorseelementchoiceverbsentenceachieve |  
 | bip_39_word_space_0 | ['element', 'cover', 'oil', 'endorse', 'element', 'choice', 'verb', 'sentence', 'achieve', 'burger', 'garlic', 'afford'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element cover oil endorse element choice verb sentence achieve burger |  

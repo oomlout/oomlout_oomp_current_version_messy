@@ -122,6 +122,18 @@ lend
 hamster
 awake
 burst |  
+| bip_39_word_no_space_1 | song |  
+| bip_39_word_no_space_10 | songpleaseadvanceevidencereveallendhamsterawakebursthungry |  
+| bip_39_word_no_space_11 | songpleaseadvanceevidencereveallendhamsterawakebursthungrybunker |  
+| bip_39_word_no_space_12 | songpleaseadvanceevidencereveallendhamsterawakebursthungrybunkeraisle |  
+| bip_39_word_no_space_2 | songplease |  
+| bip_39_word_no_space_3 | songpleaseadvance |  
+| bip_39_word_no_space_4 | songpleaseadvanceevidence |  
+| bip_39_word_no_space_5 | songpleaseadvanceevidencereveal |  
+| bip_39_word_no_space_6 | songpleaseadvanceevidencereveallend |  
+| bip_39_word_no_space_7 | songpleaseadvanceevidencereveallendhamster |  
+| bip_39_word_no_space_8 | songpleaseadvanceevidencereveallendhamsterawake |  
+| bip_39_word_no_space_9 | songpleaseadvanceevidencereveallendhamsterawakeburst |  
 | bip_39_word_space_0 | ['song', 'please', 'advance', 'evidence', 'reveal', 'lend', 'hamster', 'awake', 'burst', 'hungry', 'bunker', 'aisle'] |  
 | bip_39_word_space_1 | song |  
 | bip_39_word_space_10 | song please advance evidence reveal lend hamster awake burst hungry |  

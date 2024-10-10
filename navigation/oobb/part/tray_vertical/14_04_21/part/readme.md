@@ -122,6 +122,18 @@ metal
 local
 social
 snap |  
+| bip_39_word_no_space_1 | coyote |  
+| bip_39_word_no_space_10 | coyotefarmeracoffeelegalmetallocalsocialsnapsuspect |  
+| bip_39_word_no_space_11 | coyotefarmeracoffeelegalmetallocalsocialsnapsuspectnice |  
+| bip_39_word_no_space_12 | coyotefarmeracoffeelegalmetallocalsocialsnapsuspectniceactual |  
+| bip_39_word_no_space_2 | coyotefarm |  
+| bip_39_word_no_space_3 | coyotefarmera |  
+| bip_39_word_no_space_4 | coyotefarmeracoffee |  
+| bip_39_word_no_space_5 | coyotefarmeracoffeelegal |  
+| bip_39_word_no_space_6 | coyotefarmeracoffeelegalmetal |  
+| bip_39_word_no_space_7 | coyotefarmeracoffeelegalmetallocal |  
+| bip_39_word_no_space_8 | coyotefarmeracoffeelegalmetallocalsocial |  
+| bip_39_word_no_space_9 | coyotefarmeracoffeelegalmetallocalsocialsnap |  
 | bip_39_word_space_0 | ['coyote', 'farm', 'era', 'coffee', 'legal', 'metal', 'local', 'social', 'snap', 'suspect', 'nice', 'actual'] |  
 | bip_39_word_space_1 | coyote |  
 | bip_39_word_space_10 | coyote farm era coffee legal metal local social snap suspect |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'know
   orange
 
   wage'
+bip_39_word_no_space_1: know
+bip_39_word_no_space_10: knowsecondviewanydinnerareahungryorangewageclinic
+bip_39_word_no_space_11: knowsecondviewanydinnerareahungryorangewageclinicclaim
+bip_39_word_no_space_12: knowsecondviewanydinnerareahungryorangewageclinicclaimartefact
+bip_39_word_no_space_2: knowsecond
+bip_39_word_no_space_3: knowsecondview
+bip_39_word_no_space_4: knowsecondviewany
+bip_39_word_no_space_5: knowsecondviewanydinner
+bip_39_word_no_space_6: knowsecondviewanydinnerarea
+bip_39_word_no_space_7: knowsecondviewanydinnerareahungry
+bip_39_word_no_space_8: knowsecondviewanydinnerareahungryorange
+bip_39_word_no_space_9: knowsecondviewanydinnerareahungryorangewage
 bip_39_word_space_0:
 - know
 - second

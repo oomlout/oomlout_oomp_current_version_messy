@@ -122,6 +122,18 @@ zebra
 lion
 cinnamon
 crazy |  
+| bip_39_word_no_space_1 | muffin |  
+| bip_39_word_no_space_10 | muffinguardgigglecrossalarmzebralioncinnamoncrazyfebruary |  
+| bip_39_word_no_space_11 | muffinguardgigglecrossalarmzebralioncinnamoncrazyfebruaryslab |  
+| bip_39_word_no_space_12 | muffinguardgigglecrossalarmzebralioncinnamoncrazyfebruaryslabatom |  
+| bip_39_word_no_space_2 | muffinguard |  
+| bip_39_word_no_space_3 | muffinguardgiggle |  
+| bip_39_word_no_space_4 | muffinguardgigglecross |  
+| bip_39_word_no_space_5 | muffinguardgigglecrossalarm |  
+| bip_39_word_no_space_6 | muffinguardgigglecrossalarmzebra |  
+| bip_39_word_no_space_7 | muffinguardgigglecrossalarmzebralion |  
+| bip_39_word_no_space_8 | muffinguardgigglecrossalarmzebralioncinnamon |  
+| bip_39_word_no_space_9 | muffinguardgigglecrossalarmzebralioncinnamoncrazy |  
 | bip_39_word_space_0 | ['muffin', 'guard', 'giggle', 'cross', 'alarm', 'zebra', 'lion', 'cinnamon', 'crazy', 'february', 'slab', 'atom'] |  
 | bip_39_word_space_1 | muffin |  
 | bip_39_word_space_10 | muffin guard giggle cross alarm zebra lion cinnamon crazy february |  

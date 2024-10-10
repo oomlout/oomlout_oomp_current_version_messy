@@ -122,6 +122,18 @@ cradle
 hunt
 margin
 syrup |  
+| bip_39_word_no_space_1 | insect |  
+| bip_39_word_no_space_10 | insectzonechurndiagrammodelcradlehuntmarginsyrupbomb |  
+| bip_39_word_no_space_11 | insectzonechurndiagrammodelcradlehuntmarginsyrupbombgovern |  
+| bip_39_word_no_space_12 | insectzonechurndiagrammodelcradlehuntmarginsyrupbombgovernalpha |  
+| bip_39_word_no_space_2 | insectzone |  
+| bip_39_word_no_space_3 | insectzonechurn |  
+| bip_39_word_no_space_4 | insectzonechurndiagram |  
+| bip_39_word_no_space_5 | insectzonechurndiagrammodel |  
+| bip_39_word_no_space_6 | insectzonechurndiagrammodelcradle |  
+| bip_39_word_no_space_7 | insectzonechurndiagrammodelcradlehunt |  
+| bip_39_word_no_space_8 | insectzonechurndiagrammodelcradlehuntmargin |  
+| bip_39_word_no_space_9 | insectzonechurndiagrammodelcradlehuntmarginsyrup |  
 | bip_39_word_space_0 | ['insect', 'zone', 'churn', 'diagram', 'model', 'cradle', 'hunt', 'margin', 'syrup', 'bomb', 'govern', 'alpha'] |  
 | bip_39_word_space_1 | insect |  
 | bip_39_word_space_10 | insect zone churn diagram model cradle hunt margin syrup bomb |  

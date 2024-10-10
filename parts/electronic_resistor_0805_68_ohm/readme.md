@@ -122,6 +122,18 @@ excite
 soon
 swim
 leg |  
+| bip_39_word_no_space_1 | alley |  
+| bip_39_word_no_space_10 | alleyfalseaerobichockeyinsectexcitesoonswimleggentle |  
+| bip_39_word_no_space_11 | alleyfalseaerobichockeyinsectexcitesoonswimleggentlecrime |  
+| bip_39_word_no_space_12 | alleyfalseaerobichockeyinsectexcitesoonswimleggentlecrimeadmit |  
+| bip_39_word_no_space_2 | alleyfalse |  
+| bip_39_word_no_space_3 | alleyfalseaerobic |  
+| bip_39_word_no_space_4 | alleyfalseaerobichockey |  
+| bip_39_word_no_space_5 | alleyfalseaerobichockeyinsect |  
+| bip_39_word_no_space_6 | alleyfalseaerobichockeyinsectexcite |  
+| bip_39_word_no_space_7 | alleyfalseaerobichockeyinsectexcitesoon |  
+| bip_39_word_no_space_8 | alleyfalseaerobichockeyinsectexcitesoonswim |  
+| bip_39_word_no_space_9 | alleyfalseaerobichockeyinsectexcitesoonswimleg |  
 | bip_39_word_space_0 | ['alley', 'false', 'aerobic', 'hockey', 'insect', 'excite', 'soon', 'swim', 'leg', 'gentle', 'crime', 'admit'] |  
 | bip_39_word_space_1 | alley |  
 | bip_39_word_space_10 | alley false aerobic hockey insect excite soon swim leg gentle |  

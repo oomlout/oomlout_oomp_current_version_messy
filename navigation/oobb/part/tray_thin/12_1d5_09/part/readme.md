@@ -122,6 +122,18 @@ giraffe
 polar
 pretty
 enforce |  
+| bip_39_word_no_space_1 | hub |  
+| bip_39_word_no_space_10 | hubdrawdespairtradefadegiraffepolarprettyenforceroom |  
+| bip_39_word_no_space_11 | hubdrawdespairtradefadegiraffepolarprettyenforceroomfrog |  
+| bip_39_word_no_space_12 | hubdrawdespairtradefadegiraffepolarprettyenforceroomfrogagent |  
+| bip_39_word_no_space_2 | hubdraw |  
+| bip_39_word_no_space_3 | hubdrawdespair |  
+| bip_39_word_no_space_4 | hubdrawdespairtrade |  
+| bip_39_word_no_space_5 | hubdrawdespairtradefade |  
+| bip_39_word_no_space_6 | hubdrawdespairtradefadegiraffe |  
+| bip_39_word_no_space_7 | hubdrawdespairtradefadegiraffepolar |  
+| bip_39_word_no_space_8 | hubdrawdespairtradefadegiraffepolarpretty |  
+| bip_39_word_no_space_9 | hubdrawdespairtradefadegiraffepolarprettyenforce |  
 | bip_39_word_space_0 | ['hub', 'draw', 'despair', 'trade', 'fade', 'giraffe', 'polar', 'pretty', 'enforce', 'room', 'frog', 'agent'] |  
 | bip_39_word_space_1 | hub |  
 | bip_39_word_space_10 | hub draw despair trade fade giraffe polar pretty enforce room |  

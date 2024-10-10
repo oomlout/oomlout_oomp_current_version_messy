@@ -122,6 +122,18 @@ style
 team
 enemy
 dash |  
+| bip_39_word_no_space_1 | economy |  
+| bip_39_word_no_space_10 | economycrushglideanalystleopardstyleteamenemydashgym |  
+| bip_39_word_no_space_11 | economycrushglideanalystleopardstyleteamenemydashgymmelt |  
+| bip_39_word_no_space_12 | economycrushglideanalystleopardstyleteamenemydashgymmeltaim |  
+| bip_39_word_no_space_2 | economycrush |  
+| bip_39_word_no_space_3 | economycrushglide |  
+| bip_39_word_no_space_4 | economycrushglideanalyst |  
+| bip_39_word_no_space_5 | economycrushglideanalystleopard |  
+| bip_39_word_no_space_6 | economycrushglideanalystleopardstyle |  
+| bip_39_word_no_space_7 | economycrushglideanalystleopardstyleteam |  
+| bip_39_word_no_space_8 | economycrushglideanalystleopardstyleteamenemy |  
+| bip_39_word_no_space_9 | economycrushglideanalystleopardstyleteamenemydash |  
 | bip_39_word_space_0 | ['economy', 'crush', 'glide', 'analyst', 'leopard', 'style', 'team', 'enemy', 'dash', 'gym', 'melt', 'aim'] |  
 | bip_39_word_space_1 | economy |  
 | bip_39_word_space_10 | economy crush glide analyst leopard style team enemy dash gym |  

@@ -122,6 +122,18 @@ argue
 give
 guide
 topic |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatbeanpearnightsimilararguegiveguidetopicmaster |  
+| bip_39_word_no_space_11 | whatbeanpearnightsimilararguegiveguidetopicmastertoy |  
+| bip_39_word_no_space_12 | whatbeanpearnightsimilararguegiveguidetopicmastertoyamount |  
+| bip_39_word_no_space_2 | whatbean |  
+| bip_39_word_no_space_3 | whatbeanpear |  
+| bip_39_word_no_space_4 | whatbeanpearnight |  
+| bip_39_word_no_space_5 | whatbeanpearnightsimilar |  
+| bip_39_word_no_space_6 | whatbeanpearnightsimilarargue |  
+| bip_39_word_no_space_7 | whatbeanpearnightsimilararguegive |  
+| bip_39_word_no_space_8 | whatbeanpearnightsimilararguegiveguide |  
+| bip_39_word_no_space_9 | whatbeanpearnightsimilararguegiveguidetopic |  
 | bip_39_word_space_0 | ['what', 'bean', 'pear', 'night', 'similar', 'argue', 'give', 'guide', 'topic', 'master', 'toy', 'amount'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what bean pear night similar argue give guide topic master |  

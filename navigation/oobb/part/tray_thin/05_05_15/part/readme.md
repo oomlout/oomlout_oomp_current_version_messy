@@ -122,6 +122,18 @@ one
 gold
 enter
 tourist |  
+| bip_39_word_no_space_1 | lyrics |  
+| bip_39_word_no_space_10 | lyricsrebuildgoodabsentbalanceonegoldentertouristmixed |  
+| bip_39_word_no_space_11 | lyricsrebuildgoodabsentbalanceonegoldentertouristmixedholiday |  
+| bip_39_word_no_space_12 | lyricsrebuildgoodabsentbalanceonegoldentertouristmixedholidayamong |  
+| bip_39_word_no_space_2 | lyricsrebuild |  
+| bip_39_word_no_space_3 | lyricsrebuildgood |  
+| bip_39_word_no_space_4 | lyricsrebuildgoodabsent |  
+| bip_39_word_no_space_5 | lyricsrebuildgoodabsentbalance |  
+| bip_39_word_no_space_6 | lyricsrebuildgoodabsentbalanceone |  
+| bip_39_word_no_space_7 | lyricsrebuildgoodabsentbalanceonegold |  
+| bip_39_word_no_space_8 | lyricsrebuildgoodabsentbalanceonegoldenter |  
+| bip_39_word_no_space_9 | lyricsrebuildgoodabsentbalanceonegoldentertourist |  
 | bip_39_word_space_0 | ['lyrics', 'rebuild', 'good', 'absent', 'balance', 'one', 'gold', 'enter', 'tourist', 'mixed', 'holiday', 'among'] |  
 | bip_39_word_space_1 | lyrics |  
 | bip_39_word_space_10 | lyrics rebuild good absent balance one gold enter tourist mixed |  

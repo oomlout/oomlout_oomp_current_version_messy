@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gospel
   culture
 
   token'
+bip_39_word_no_space_1: gospel
+bip_39_word_no_space_10: gospelindextwinsilentinjurykeyresembleculturetokenstumble
+bip_39_word_no_space_11: gospelindextwinsilentinjurykeyresembleculturetokenstumblefrog
+bip_39_word_no_space_12: gospelindextwinsilentinjurykeyresembleculturetokenstumblefrogabout
+bip_39_word_no_space_2: gospelindex
+bip_39_word_no_space_3: gospelindextwin
+bip_39_word_no_space_4: gospelindextwinsilent
+bip_39_word_no_space_5: gospelindextwinsilentinjury
+bip_39_word_no_space_6: gospelindextwinsilentinjurykey
+bip_39_word_no_space_7: gospelindextwinsilentinjurykeyresemble
+bip_39_word_no_space_8: gospelindextwinsilentinjurykeyresembleculture
+bip_39_word_no_space_9: gospelindextwinsilentinjurykeyresembleculturetoken
 bip_39_word_space_0:
 - gospel
 - index

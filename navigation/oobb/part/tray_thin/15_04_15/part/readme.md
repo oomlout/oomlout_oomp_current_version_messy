@@ -122,6 +122,18 @@ crane
 trap
 dragon
 since |  
+| bip_39_word_no_space_1 | wish |  
+| bip_39_word_no_space_10 | wishworrysurgekidneyprizecranetrapdragonsincefancy |  
+| bip_39_word_no_space_11 | wishworrysurgekidneyprizecranetrapdragonsincefancydaughter |  
+| bip_39_word_no_space_12 | wishworrysurgekidneyprizecranetrapdragonsincefancydaughteraccess |  
+| bip_39_word_no_space_2 | wishworry |  
+| bip_39_word_no_space_3 | wishworrysurge |  
+| bip_39_word_no_space_4 | wishworrysurgekidney |  
+| bip_39_word_no_space_5 | wishworrysurgekidneyprize |  
+| bip_39_word_no_space_6 | wishworrysurgekidneyprizecrane |  
+| bip_39_word_no_space_7 | wishworrysurgekidneyprizecranetrap |  
+| bip_39_word_no_space_8 | wishworrysurgekidneyprizecranetrapdragon |  
+| bip_39_word_no_space_9 | wishworrysurgekidneyprizecranetrapdragonsince |  
 | bip_39_word_space_0 | ['wish', 'worry', 'surge', 'kidney', 'prize', 'crane', 'trap', 'dragon', 'since', 'fancy', 'daughter', 'access'] |  
 | bip_39_word_space_1 | wish |  
 | bip_39_word_space_10 | wish worry surge kidney prize crane trap dragon since fancy |  

@@ -122,6 +122,18 @@ category
 grab
 cabin
 shine |  
+| bip_39_word_no_space_1 | soft |  
+| bip_39_word_no_space_10 | softroastcrucialembracevalvecategorygrabcabinshineduty |  
+| bip_39_word_no_space_11 | softroastcrucialembracevalvecategorygrabcabinshinedutyfinger |  
+| bip_39_word_no_space_12 | softroastcrucialembracevalvecategorygrabcabinshinedutyfingeractual |  
+| bip_39_word_no_space_2 | softroast |  
+| bip_39_word_no_space_3 | softroastcrucial |  
+| bip_39_word_no_space_4 | softroastcrucialembrace |  
+| bip_39_word_no_space_5 | softroastcrucialembracevalve |  
+| bip_39_word_no_space_6 | softroastcrucialembracevalvecategory |  
+| bip_39_word_no_space_7 | softroastcrucialembracevalvecategorygrab |  
+| bip_39_word_no_space_8 | softroastcrucialembracevalvecategorygrabcabin |  
+| bip_39_word_no_space_9 | softroastcrucialembracevalvecategorygrabcabinshine |  
 | bip_39_word_space_0 | ['soft', 'roast', 'crucial', 'embrace', 'valve', 'category', 'grab', 'cabin', 'shine', 'duty', 'finger', 'actual'] |  
 | bip_39_word_space_1 | soft |  
 | bip_39_word_space_10 | soft roast crucial embrace valve category grab cabin shine duty |  

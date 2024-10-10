@@ -122,6 +122,18 @@ leave
 illegal
 olive
 loud |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentinvestdaymodifyclerkleaveillegaloliveloudrose |  
+| bip_39_word_no_space_11 | silentinvestdaymodifyclerkleaveillegaloliveloudrosemobile |  
+| bip_39_word_no_space_12 | silentinvestdaymodifyclerkleaveillegaloliveloudrosemobileaccuse |  
+| bip_39_word_no_space_2 | silentinvest |  
+| bip_39_word_no_space_3 | silentinvestday |  
+| bip_39_word_no_space_4 | silentinvestdaymodify |  
+| bip_39_word_no_space_5 | silentinvestdaymodifyclerk |  
+| bip_39_word_no_space_6 | silentinvestdaymodifyclerkleave |  
+| bip_39_word_no_space_7 | silentinvestdaymodifyclerkleaveillegal |  
+| bip_39_word_no_space_8 | silentinvestdaymodifyclerkleaveillegalolive |  
+| bip_39_word_no_space_9 | silentinvestdaymodifyclerkleaveillegaloliveloud |  
 | bip_39_word_space_0 | ['silent', 'invest', 'day', 'modify', 'clerk', 'leave', 'illegal', 'olive', 'loud', 'rose', 'mobile', 'accuse'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent invest day modify clerk leave illegal olive loud rose |  

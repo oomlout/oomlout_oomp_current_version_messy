@@ -122,6 +122,18 @@ economy
 chapter
 connect
 hybrid |  
+| bip_39_word_no_space_1 | property |  
+| bip_39_word_no_space_10 | propertyroastdonateapplefoodeconomychapterconnecthybridsilent |  
+| bip_39_word_no_space_11 | propertyroastdonateapplefoodeconomychapterconnecthybridsilentadd |  
+| bip_39_word_no_space_12 | propertyroastdonateapplefoodeconomychapterconnecthybridsilentaddactor |  
+| bip_39_word_no_space_2 | propertyroast |  
+| bip_39_word_no_space_3 | propertyroastdonate |  
+| bip_39_word_no_space_4 | propertyroastdonateapple |  
+| bip_39_word_no_space_5 | propertyroastdonateapplefood |  
+| bip_39_word_no_space_6 | propertyroastdonateapplefoodeconomy |  
+| bip_39_word_no_space_7 | propertyroastdonateapplefoodeconomychapter |  
+| bip_39_word_no_space_8 | propertyroastdonateapplefoodeconomychapterconnect |  
+| bip_39_word_no_space_9 | propertyroastdonateapplefoodeconomychapterconnecthybrid |  
 | bip_39_word_space_0 | ['property', 'roast', 'donate', 'apple', 'food', 'economy', 'chapter', 'connect', 'hybrid', 'silent', 'add', 'actor'] |  
 | bip_39_word_space_1 | property |  
 | bip_39_word_space_10 | property roast donate apple food economy chapter connect hybrid silent |  

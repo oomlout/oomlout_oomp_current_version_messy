@@ -122,6 +122,18 @@ inmate
 carbon
 family
 trip |  
+| bip_39_word_no_space_1 | exile |  
+| bip_39_word_no_space_10 | exilerescuetroublepursedropinmatecarbonfamilytripchair |  
+| bip_39_word_no_space_11 | exilerescuetroublepursedropinmatecarbonfamilytripchairignore |  
+| bip_39_word_no_space_12 | exilerescuetroublepursedropinmatecarbonfamilytripchairignoreaim |  
+| bip_39_word_no_space_2 | exilerescue |  
+| bip_39_word_no_space_3 | exilerescuetrouble |  
+| bip_39_word_no_space_4 | exilerescuetroublepurse |  
+| bip_39_word_no_space_5 | exilerescuetroublepursedrop |  
+| bip_39_word_no_space_6 | exilerescuetroublepursedropinmate |  
+| bip_39_word_no_space_7 | exilerescuetroublepursedropinmatecarbon |  
+| bip_39_word_no_space_8 | exilerescuetroublepursedropinmatecarbonfamily |  
+| bip_39_word_no_space_9 | exilerescuetroublepursedropinmatecarbonfamilytrip |  
 | bip_39_word_space_0 | ['exile', 'rescue', 'trouble', 'purse', 'drop', 'inmate', 'carbon', 'family', 'trip', 'chair', 'ignore', 'aim'] |  
 | bip_39_word_space_1 | exile |  
 | bip_39_word_space_10 | exile rescue trouble purse drop inmate carbon family trip chair |  

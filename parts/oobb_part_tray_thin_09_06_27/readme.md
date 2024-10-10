@@ -122,6 +122,18 @@ obtain
 ramp
 vocal
 forward |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keenstocksocialpullpinkobtainrampvocalforwardbiology |  
+| bip_39_word_no_space_11 | keenstocksocialpullpinkobtainrampvocalforwardbiologyvictory |  
+| bip_39_word_no_space_12 | keenstocksocialpullpinkobtainrampvocalforwardbiologyvictoryannual |  
+| bip_39_word_no_space_2 | keenstock |  
+| bip_39_word_no_space_3 | keenstocksocial |  
+| bip_39_word_no_space_4 | keenstocksocialpull |  
+| bip_39_word_no_space_5 | keenstocksocialpullpink |  
+| bip_39_word_no_space_6 | keenstocksocialpullpinkobtain |  
+| bip_39_word_no_space_7 | keenstocksocialpullpinkobtainramp |  
+| bip_39_word_no_space_8 | keenstocksocialpullpinkobtainrampvocal |  
+| bip_39_word_no_space_9 | keenstocksocialpullpinkobtainrampvocalforward |  
 | bip_39_word_space_0 | ['keen', 'stock', 'social', 'pull', 'pink', 'obtain', 'ramp', 'vocal', 'forward', 'biology', 'victory', 'annual'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen stock social pull pink obtain ramp vocal forward biology |  

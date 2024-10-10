@@ -122,6 +122,18 @@ air
 warfare
 angle
 buyer |  
+| bip_39_word_no_space_1 | inhale |  
+| bip_39_word_no_space_10 | inhalecredittruthreplacebenchairwarfareanglebuyertwo |  
+| bip_39_word_no_space_11 | inhalecredittruthreplacebenchairwarfareanglebuyertwoclean |  
+| bip_39_word_no_space_12 | inhalecredittruthreplacebenchairwarfareanglebuyertwocleanalien |  
+| bip_39_word_no_space_2 | inhalecredit |  
+| bip_39_word_no_space_3 | inhalecredittruth |  
+| bip_39_word_no_space_4 | inhalecredittruthreplace |  
+| bip_39_word_no_space_5 | inhalecredittruthreplacebench |  
+| bip_39_word_no_space_6 | inhalecredittruthreplacebenchair |  
+| bip_39_word_no_space_7 | inhalecredittruthreplacebenchairwarfare |  
+| bip_39_word_no_space_8 | inhalecredittruthreplacebenchairwarfareangle |  
+| bip_39_word_no_space_9 | inhalecredittruthreplacebenchairwarfareanglebuyer |  
 | bip_39_word_space_0 | ['inhale', 'credit', 'truth', 'replace', 'bench', 'air', 'warfare', 'angle', 'buyer', 'two', 'clean', 'alien'] |  
 | bip_39_word_space_1 | inhale |  
 | bip_39_word_space_10 | inhale credit truth replace bench air warfare angle buyer two |  

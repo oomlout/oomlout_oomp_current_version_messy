@@ -122,6 +122,18 @@ orient
 force
 glad
 figure |  
+| bip_39_word_no_space_1 | spring |  
+| bip_39_word_no_space_10 | springdomainhalfbulbswordorientforcegladfigurebonus |  
+| bip_39_word_no_space_11 | springdomainhalfbulbswordorientforcegladfigurebonusaccess |  
+| bip_39_word_no_space_12 | springdomainhalfbulbswordorientforcegladfigurebonusaccessalter |  
+| bip_39_word_no_space_2 | springdomain |  
+| bip_39_word_no_space_3 | springdomainhalf |  
+| bip_39_word_no_space_4 | springdomainhalfbulb |  
+| bip_39_word_no_space_5 | springdomainhalfbulbsword |  
+| bip_39_word_no_space_6 | springdomainhalfbulbswordorient |  
+| bip_39_word_no_space_7 | springdomainhalfbulbswordorientforce |  
+| bip_39_word_no_space_8 | springdomainhalfbulbswordorientforceglad |  
+| bip_39_word_no_space_9 | springdomainhalfbulbswordorientforcegladfigure |  
 | bip_39_word_space_0 | ['spring', 'domain', 'half', 'bulb', 'sword', 'orient', 'force', 'glad', 'figure', 'bonus', 'access', 'alter'] |  
 | bip_39_word_space_1 | spring |  
 | bip_39_word_space_10 | spring domain half bulb sword orient force glad figure bonus |  

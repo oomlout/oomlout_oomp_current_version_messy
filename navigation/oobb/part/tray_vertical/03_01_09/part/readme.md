@@ -122,6 +122,18 @@ focus
 crowd
 good
 axis |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shaftfatiguemenuneithermiddlefocuscrowdgoodaxisecho |  
+| bip_39_word_no_space_11 | shaftfatiguemenuneithermiddlefocuscrowdgoodaxisechowindow |  
+| bip_39_word_no_space_12 | shaftfatiguemenuneithermiddlefocuscrowdgoodaxisechowindowatom |  
+| bip_39_word_no_space_2 | shaftfatigue |  
+| bip_39_word_no_space_3 | shaftfatiguemenu |  
+| bip_39_word_no_space_4 | shaftfatiguemenuneither |  
+| bip_39_word_no_space_5 | shaftfatiguemenuneithermiddle |  
+| bip_39_word_no_space_6 | shaftfatiguemenuneithermiddlefocus |  
+| bip_39_word_no_space_7 | shaftfatiguemenuneithermiddlefocuscrowd |  
+| bip_39_word_no_space_8 | shaftfatiguemenuneithermiddlefocuscrowdgood |  
+| bip_39_word_no_space_9 | shaftfatiguemenuneithermiddlefocuscrowdgoodaxis |  
 | bip_39_word_space_0 | ['shaft', 'fatigue', 'menu', 'neither', 'middle', 'focus', 'crowd', 'good', 'axis', 'echo', 'window', 'atom'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft fatigue menu neither middle focus crowd good axis echo |  

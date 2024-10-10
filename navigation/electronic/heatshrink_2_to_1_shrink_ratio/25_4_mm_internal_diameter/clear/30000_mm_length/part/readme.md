@@ -122,6 +122,18 @@ youth
 dry
 million
 rhythm |  
+| bip_39_word_no_space_1 | decrease |  
+| bip_39_word_no_space_10 | decreaseregularexcessradiolensyouthdrymillionrhythmcream |  
+| bip_39_word_no_space_11 | decreaseregularexcessradiolensyouthdrymillionrhythmcreamcarry |  
+| bip_39_word_no_space_12 | decreaseregularexcessradiolensyouthdrymillionrhythmcreamcarryabsent |  
+| bip_39_word_no_space_2 | decreaseregular |  
+| bip_39_word_no_space_3 | decreaseregularexcess |  
+| bip_39_word_no_space_4 | decreaseregularexcessradio |  
+| bip_39_word_no_space_5 | decreaseregularexcessradiolens |  
+| bip_39_word_no_space_6 | decreaseregularexcessradiolensyouth |  
+| bip_39_word_no_space_7 | decreaseregularexcessradiolensyouthdry |  
+| bip_39_word_no_space_8 | decreaseregularexcessradiolensyouthdrymillion |  
+| bip_39_word_no_space_9 | decreaseregularexcessradiolensyouthdrymillionrhythm |  
 | bip_39_word_space_0 | ['decrease', 'regular', 'excess', 'radio', 'lens', 'youth', 'dry', 'million', 'rhythm', 'cream', 'carry', 'absent'] |  
 | bip_39_word_space_1 | decrease |  
 | bip_39_word_space_10 | decrease regular excess radio lens youth dry million rhythm cream |  

@@ -122,6 +122,18 @@ cause
 cushion
 rose
 box |  
+| bip_39_word_no_space_1 | entry |  
+| bip_39_word_no_space_10 | entrysheriffaverageeasyignorecausecushionroseboxfloor |  
+| bip_39_word_no_space_11 | entrysheriffaverageeasyignorecausecushionroseboxfloorfit |  
+| bip_39_word_no_space_12 | entrysheriffaverageeasyignorecausecushionroseboxfloorfitangle |  
+| bip_39_word_no_space_2 | entrysheriff |  
+| bip_39_word_no_space_3 | entrysheriffaverage |  
+| bip_39_word_no_space_4 | entrysheriffaverageeasy |  
+| bip_39_word_no_space_5 | entrysheriffaverageeasyignore |  
+| bip_39_word_no_space_6 | entrysheriffaverageeasyignorecause |  
+| bip_39_word_no_space_7 | entrysheriffaverageeasyignorecausecushion |  
+| bip_39_word_no_space_8 | entrysheriffaverageeasyignorecausecushionrose |  
+| bip_39_word_no_space_9 | entrysheriffaverageeasyignorecausecushionrosebox |  
 | bip_39_word_space_0 | ['entry', 'sheriff', 'average', 'easy', 'ignore', 'cause', 'cushion', 'rose', 'box', 'floor', 'fit', 'angle'] |  
 | bip_39_word_space_1 | entry |  
 | bip_39_word_space_10 | entry sheriff average easy ignore cause cushion rose box floor |  

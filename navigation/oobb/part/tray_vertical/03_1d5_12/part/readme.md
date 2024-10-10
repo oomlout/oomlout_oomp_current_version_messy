@@ -122,6 +122,18 @@ parade
 mixture
 wrong
 age |  
+| bip_39_word_no_space_1 | kiss |  
+| bip_39_word_no_space_10 | kissweaselcrowdactpossibleparademixturewrongageshrug |  
+| bip_39_word_no_space_11 | kissweaselcrowdactpossibleparademixturewrongageshrugreduce |  
+| bip_39_word_no_space_12 | kissweaselcrowdactpossibleparademixturewrongageshrugreduceaim |  
+| bip_39_word_no_space_2 | kissweasel |  
+| bip_39_word_no_space_3 | kissweaselcrowd |  
+| bip_39_word_no_space_4 | kissweaselcrowdact |  
+| bip_39_word_no_space_5 | kissweaselcrowdactpossible |  
+| bip_39_word_no_space_6 | kissweaselcrowdactpossibleparade |  
+| bip_39_word_no_space_7 | kissweaselcrowdactpossibleparademixture |  
+| bip_39_word_no_space_8 | kissweaselcrowdactpossibleparademixturewrong |  
+| bip_39_word_no_space_9 | kissweaselcrowdactpossibleparademixturewrongage |  
 | bip_39_word_space_0 | ['kiss', 'weasel', 'crowd', 'act', 'possible', 'parade', 'mixture', 'wrong', 'age', 'shrug', 'reduce', 'aim'] |  
 | bip_39_word_space_1 | kiss |  
 | bip_39_word_space_10 | kiss weasel crowd act possible parade mixture wrong age shrug |  

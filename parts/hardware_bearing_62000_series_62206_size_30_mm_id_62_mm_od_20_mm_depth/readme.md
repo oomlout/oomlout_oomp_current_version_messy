@@ -122,6 +122,18 @@ twice
 mountain
 catalog
 legend |  
+| bip_39_word_no_space_1 | poet |  
+| bip_39_word_no_space_10 | poetadvancesteeltoddleraddicttwicemountaincataloglegendcivil |  
+| bip_39_word_no_space_11 | poetadvancesteeltoddleraddicttwicemountaincataloglegendcivilscout |  
+| bip_39_word_no_space_12 | poetadvancesteeltoddleraddicttwicemountaincataloglegendcivilscoutachieve |  
+| bip_39_word_no_space_2 | poetadvance |  
+| bip_39_word_no_space_3 | poetadvancesteel |  
+| bip_39_word_no_space_4 | poetadvancesteeltoddler |  
+| bip_39_word_no_space_5 | poetadvancesteeltoddleraddict |  
+| bip_39_word_no_space_6 | poetadvancesteeltoddleraddicttwice |  
+| bip_39_word_no_space_7 | poetadvancesteeltoddleraddicttwicemountain |  
+| bip_39_word_no_space_8 | poetadvancesteeltoddleraddicttwicemountaincatalog |  
+| bip_39_word_no_space_9 | poetadvancesteeltoddleraddicttwicemountaincataloglegend |  
 | bip_39_word_space_0 | ['poet', 'advance', 'steel', 'toddler', 'addict', 'twice', 'mountain', 'catalog', 'legend', 'civil', 'scout', 'achieve'] |  
 | bip_39_word_space_1 | poet |  
 | bip_39_word_space_10 | poet advance steel toddler addict twice mountain catalog legend civil |  

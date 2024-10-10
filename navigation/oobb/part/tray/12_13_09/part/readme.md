@@ -122,6 +122,18 @@ undo
 palace
 dwarf
 yard |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armcuteblastbuddywrongundopalacedwarfyardsponsor |  
+| bip_39_word_no_space_11 | armcuteblastbuddywrongundopalacedwarfyardsponsorarrange |  
+| bip_39_word_no_space_12 | armcuteblastbuddywrongundopalacedwarfyardsponsorarrangeany |  
+| bip_39_word_no_space_2 | armcute |  
+| bip_39_word_no_space_3 | armcuteblast |  
+| bip_39_word_no_space_4 | armcuteblastbuddy |  
+| bip_39_word_no_space_5 | armcuteblastbuddywrong |  
+| bip_39_word_no_space_6 | armcuteblastbuddywrongundo |  
+| bip_39_word_no_space_7 | armcuteblastbuddywrongundopalace |  
+| bip_39_word_no_space_8 | armcuteblastbuddywrongundopalacedwarf |  
+| bip_39_word_no_space_9 | armcuteblastbuddywrongundopalacedwarfyard |  
 | bip_39_word_space_0 | ['arm', 'cute', 'blast', 'buddy', 'wrong', 'undo', 'palace', 'dwarf', 'yard', 'sponsor', 'arrange', 'any'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm cute blast buddy wrong undo palace dwarf yard sponsor |  

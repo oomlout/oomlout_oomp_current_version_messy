@@ -122,6 +122,18 @@ abandon
 cluster
 major
 maid |  
+| bip_39_word_no_space_1 | fox |  
+| bip_39_word_no_space_10 | foxharborrelieftennishillabandonclustermajormaidtag |  
+| bip_39_word_no_space_11 | foxharborrelieftennishillabandonclustermajormaidtagorient |  
+| bip_39_word_no_space_12 | foxharborrelieftennishillabandonclustermajormaidtagorientadd |  
+| bip_39_word_no_space_2 | foxharbor |  
+| bip_39_word_no_space_3 | foxharborrelief |  
+| bip_39_word_no_space_4 | foxharborrelieftennis |  
+| bip_39_word_no_space_5 | foxharborrelieftennishill |  
+| bip_39_word_no_space_6 | foxharborrelieftennishillabandon |  
+| bip_39_word_no_space_7 | foxharborrelieftennishillabandoncluster |  
+| bip_39_word_no_space_8 | foxharborrelieftennishillabandonclustermajor |  
+| bip_39_word_no_space_9 | foxharborrelieftennishillabandonclustermajormaid |  
 | bip_39_word_space_0 | ['fox', 'harbor', 'relief', 'tennis', 'hill', 'abandon', 'cluster', 'major', 'maid', 'tag', 'orient', 'add'] |  
 | bip_39_word_space_1 | fox |  
 | bip_39_word_space_10 | fox harbor relief tennis hill abandon cluster major maid tag |  

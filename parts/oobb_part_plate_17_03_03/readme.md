@@ -122,6 +122,18 @@ wisdom
 nut
 rocket
 balcony |  
+| bip_39_word_no_space_1 | exact |  
+| bip_39_word_no_space_10 | exactanotherqualitynegativedrywisdomnutrocketbalconyview |  
+| bip_39_word_no_space_11 | exactanotherqualitynegativedrywisdomnutrocketbalconyviewpunch |  
+| bip_39_word_no_space_12 | exactanotherqualitynegativedrywisdomnutrocketbalconyviewpuncharch |  
+| bip_39_word_no_space_2 | exactanother |  
+| bip_39_word_no_space_3 | exactanotherquality |  
+| bip_39_word_no_space_4 | exactanotherqualitynegative |  
+| bip_39_word_no_space_5 | exactanotherqualitynegativedry |  
+| bip_39_word_no_space_6 | exactanotherqualitynegativedrywisdom |  
+| bip_39_word_no_space_7 | exactanotherqualitynegativedrywisdomnut |  
+| bip_39_word_no_space_8 | exactanotherqualitynegativedrywisdomnutrocket |  
+| bip_39_word_no_space_9 | exactanotherqualitynegativedrywisdomnutrocketbalcony |  
 | bip_39_word_space_0 | ['exact', 'another', 'quality', 'negative', 'dry', 'wisdom', 'nut', 'rocket', 'balcony', 'view', 'punch', 'arch'] |  
 | bip_39_word_space_1 | exact |  
 | bip_39_word_space_10 | exact another quality negative dry wisdom nut rocket balcony view |  

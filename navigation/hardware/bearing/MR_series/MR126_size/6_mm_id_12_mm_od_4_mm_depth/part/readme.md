@@ -122,6 +122,18 @@ document
 girl
 junk
 afraid |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposeswitchorangeartefactmasterdocumentgirljunkafraidarrest |  
+| bip_39_word_no_space_11 | imposeswitchorangeartefactmasterdocumentgirljunkafraidarrestsport |  
+| bip_39_word_no_space_12 | imposeswitchorangeartefactmasterdocumentgirljunkafraidarrestsportaddress |  
+| bip_39_word_no_space_2 | imposeswitch |  
+| bip_39_word_no_space_3 | imposeswitchorange |  
+| bip_39_word_no_space_4 | imposeswitchorangeartefact |  
+| bip_39_word_no_space_5 | imposeswitchorangeartefactmaster |  
+| bip_39_word_no_space_6 | imposeswitchorangeartefactmasterdocument |  
+| bip_39_word_no_space_7 | imposeswitchorangeartefactmasterdocumentgirl |  
+| bip_39_word_no_space_8 | imposeswitchorangeartefactmasterdocumentgirljunk |  
+| bip_39_word_no_space_9 | imposeswitchorangeartefactmasterdocumentgirljunkafraid |  
 | bip_39_word_space_0 | ['impose', 'switch', 'orange', 'artefact', 'master', 'document', 'girl', 'junk', 'afraid', 'arrest', 'sport', 'address'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose switch orange artefact master document girl junk afraid arrest |  

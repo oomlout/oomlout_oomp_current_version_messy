@@ -122,6 +122,18 @@ nation
 chef
 hurry
 master |  
+| bip_39_word_no_space_1 | car |  
+| bip_39_word_no_space_10 | carrobustuncleagentjaguarnationchefhurrymasternormal |  
+| bip_39_word_no_space_11 | carrobustuncleagentjaguarnationchefhurrymasternormalbird |  
+| bip_39_word_no_space_12 | carrobustuncleagentjaguarnationchefhurrymasternormalbirdassume |  
+| bip_39_word_no_space_2 | carrobust |  
+| bip_39_word_no_space_3 | carrobustuncle |  
+| bip_39_word_no_space_4 | carrobustuncleagent |  
+| bip_39_word_no_space_5 | carrobustuncleagentjaguar |  
+| bip_39_word_no_space_6 | carrobustuncleagentjaguarnation |  
+| bip_39_word_no_space_7 | carrobustuncleagentjaguarnationchef |  
+| bip_39_word_no_space_8 | carrobustuncleagentjaguarnationchefhurry |  
+| bip_39_word_no_space_9 | carrobustuncleagentjaguarnationchefhurrymaster |  
 | bip_39_word_space_0 | ['car', 'robust', 'uncle', 'agent', 'jaguar', 'nation', 'chef', 'hurry', 'master', 'normal', 'bird', 'assume'] |  
 | bip_39_word_space_1 | car |  
 | bip_39_word_space_10 | car robust uncle agent jaguar nation chef hurry master normal |  

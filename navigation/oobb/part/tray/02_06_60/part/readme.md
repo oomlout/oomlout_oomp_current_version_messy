@@ -122,6 +122,18 @@ deputy
 welcome
 anxiety
 excite |  
+| bip_39_word_no_space_1 | suffer |  
+| bip_39_word_no_space_10 | suffereightelegantnamerescuedeputywelcomeanxietyexcitecool |  
+| bip_39_word_no_space_11 | suffereightelegantnamerescuedeputywelcomeanxietyexcitecoolhazard |  
+| bip_39_word_no_space_12 | suffereightelegantnamerescuedeputywelcomeanxietyexcitecoolhazardapology |  
+| bip_39_word_no_space_2 | suffereight |  
+| bip_39_word_no_space_3 | suffereightelegant |  
+| bip_39_word_no_space_4 | suffereightelegantname |  
+| bip_39_word_no_space_5 | suffereightelegantnamerescue |  
+| bip_39_word_no_space_6 | suffereightelegantnamerescuedeputy |  
+| bip_39_word_no_space_7 | suffereightelegantnamerescuedeputywelcome |  
+| bip_39_word_no_space_8 | suffereightelegantnamerescuedeputywelcomeanxiety |  
+| bip_39_word_no_space_9 | suffereightelegantnamerescuedeputywelcomeanxietyexcite |  
 | bip_39_word_space_0 | ['suffer', 'eight', 'elegant', 'name', 'rescue', 'deputy', 'welcome', 'anxiety', 'excite', 'cool', 'hazard', 'apology'] |  
 | bip_39_word_space_1 | suffer |  
 | bip_39_word_space_10 | suffer eight elegant name rescue deputy welcome anxiety excite cool |  

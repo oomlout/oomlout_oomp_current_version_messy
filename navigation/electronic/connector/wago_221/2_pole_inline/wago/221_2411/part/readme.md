@@ -122,6 +122,18 @@ basket
 merry
 foot
 sail |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympicallowmanraintonebasketmerryfootsailshield |  
+| bip_39_word_no_space_11 | olympicallowmanraintonebasketmerryfootsailshieldtissue |  
+| bip_39_word_no_space_12 | olympicallowmanraintonebasketmerryfootsailshieldtissueabsent |  
+| bip_39_word_no_space_2 | olympicallow |  
+| bip_39_word_no_space_3 | olympicallowman |  
+| bip_39_word_no_space_4 | olympicallowmanrain |  
+| bip_39_word_no_space_5 | olympicallowmanraintone |  
+| bip_39_word_no_space_6 | olympicallowmanraintonebasket |  
+| bip_39_word_no_space_7 | olympicallowmanraintonebasketmerry |  
+| bip_39_word_no_space_8 | olympicallowmanraintonebasketmerryfoot |  
+| bip_39_word_no_space_9 | olympicallowmanraintonebasketmerryfootsail |  
 | bip_39_word_space_0 | ['olympic', 'allow', 'man', 'rain', 'tone', 'basket', 'merry', 'foot', 'sail', 'shield', 'tissue', 'absent'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic allow man rain tone basket merry foot sail shield |  

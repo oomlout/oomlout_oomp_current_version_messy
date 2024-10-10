@@ -122,6 +122,18 @@ exclude
 erode
 design
 task |  
+| bip_39_word_no_space_1 | stuff |  
+| bip_39_word_no_space_10 | stuffghostlimitbunkerhusbandexcludeerodedesigntaskperfect |  
+| bip_39_word_no_space_11 | stuffghostlimitbunkerhusbandexcludeerodedesigntaskperfectecology |  
+| bip_39_word_no_space_12 | stuffghostlimitbunkerhusbandexcludeerodedesigntaskperfectecologyadvice |  
+| bip_39_word_no_space_2 | stuffghost |  
+| bip_39_word_no_space_3 | stuffghostlimit |  
+| bip_39_word_no_space_4 | stuffghostlimitbunker |  
+| bip_39_word_no_space_5 | stuffghostlimitbunkerhusband |  
+| bip_39_word_no_space_6 | stuffghostlimitbunkerhusbandexclude |  
+| bip_39_word_no_space_7 | stuffghostlimitbunkerhusbandexcludeerode |  
+| bip_39_word_no_space_8 | stuffghostlimitbunkerhusbandexcludeerodedesign |  
+| bip_39_word_no_space_9 | stuffghostlimitbunkerhusbandexcludeerodedesigntask |  
 | bip_39_word_space_0 | ['stuff', 'ghost', 'limit', 'bunker', 'husband', 'exclude', 'erode', 'design', 'task', 'perfect', 'ecology', 'advice'] |  
 | bip_39_word_space_1 | stuff |  
 | bip_39_word_space_10 | stuff ghost limit bunker husband exclude erode design task perfect |  

@@ -122,6 +122,18 @@ iron
 multiply
 subway
 jeans |  
+| bip_39_word_no_space_1 | tattoo |  
+| bip_39_word_no_space_10 | tattoozeroshoulderhollowurbanironmultiplysubwayjeansrobust |  
+| bip_39_word_no_space_11 | tattoozeroshoulderhollowurbanironmultiplysubwayjeansrobustdaring |  
+| bip_39_word_no_space_12 | tattoozeroshoulderhollowurbanironmultiplysubwayjeansrobustdaringafraid |  
+| bip_39_word_no_space_2 | tattoozero |  
+| bip_39_word_no_space_3 | tattoozeroshoulder |  
+| bip_39_word_no_space_4 | tattoozeroshoulderhollow |  
+| bip_39_word_no_space_5 | tattoozeroshoulderhollowurban |  
+| bip_39_word_no_space_6 | tattoozeroshoulderhollowurbaniron |  
+| bip_39_word_no_space_7 | tattoozeroshoulderhollowurbanironmultiply |  
+| bip_39_word_no_space_8 | tattoozeroshoulderhollowurbanironmultiplysubway |  
+| bip_39_word_no_space_9 | tattoozeroshoulderhollowurbanironmultiplysubwayjeans |  
 | bip_39_word_space_0 | ['tattoo', 'zero', 'shoulder', 'hollow', 'urban', 'iron', 'multiply', 'subway', 'jeans', 'robust', 'daring', 'afraid'] |  
 | bip_39_word_space_1 | tattoo |  
 | bip_39_word_space_10 | tattoo zero shoulder hollow urban iron multiply subway jeans robust |  

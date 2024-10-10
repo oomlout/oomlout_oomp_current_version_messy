@@ -122,6 +122,18 @@ error
 captain
 trend
 congress |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenmammalloungechunktrayerrorcaptaintrendcongressgesture |  
+| bip_39_word_no_space_11 | citizenmammalloungechunktrayerrorcaptaintrendcongressgesturecluster |  
+| bip_39_word_no_space_12 | citizenmammalloungechunktrayerrorcaptaintrendcongressgestureclusteralso |  
+| bip_39_word_no_space_2 | citizenmammal |  
+| bip_39_word_no_space_3 | citizenmammallounge |  
+| bip_39_word_no_space_4 | citizenmammalloungechunk |  
+| bip_39_word_no_space_5 | citizenmammalloungechunktray |  
+| bip_39_word_no_space_6 | citizenmammalloungechunktrayerror |  
+| bip_39_word_no_space_7 | citizenmammalloungechunktrayerrorcaptain |  
+| bip_39_word_no_space_8 | citizenmammalloungechunktrayerrorcaptaintrend |  
+| bip_39_word_no_space_9 | citizenmammalloungechunktrayerrorcaptaintrendcongress |  
 | bip_39_word_space_0 | ['citizen', 'mammal', 'lounge', 'chunk', 'tray', 'error', 'captain', 'trend', 'congress', 'gesture', 'cluster', 'also'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen mammal lounge chunk tray error captain trend congress gesture |  

@@ -122,6 +122,18 @@ guilt
 welcome
 float
 affair |  
+| bip_39_word_no_space_1 | record |  
+| bip_39_word_no_space_10 | recordbutterkeenfederalchoiceguiltwelcomefloataffairbecause |  
+| bip_39_word_no_space_11 | recordbutterkeenfederalchoiceguiltwelcomefloataffairbecausecrash |  
+| bip_39_word_no_space_12 | recordbutterkeenfederalchoiceguiltwelcomefloataffairbecausecrashattitude |  
+| bip_39_word_no_space_2 | recordbutter |  
+| bip_39_word_no_space_3 | recordbutterkeen |  
+| bip_39_word_no_space_4 | recordbutterkeenfederal |  
+| bip_39_word_no_space_5 | recordbutterkeenfederalchoice |  
+| bip_39_word_no_space_6 | recordbutterkeenfederalchoiceguilt |  
+| bip_39_word_no_space_7 | recordbutterkeenfederalchoiceguiltwelcome |  
+| bip_39_word_no_space_8 | recordbutterkeenfederalchoiceguiltwelcomefloat |  
+| bip_39_word_no_space_9 | recordbutterkeenfederalchoiceguiltwelcomefloataffair |  
 | bip_39_word_space_0 | ['record', 'butter', 'keen', 'federal', 'choice', 'guilt', 'welcome', 'float', 'affair', 'because', 'crash', 'attitude'] |  
 | bip_39_word_space_1 | record |  
 | bip_39_word_space_10 | record butter keen federal choice guilt welcome float affair because |  

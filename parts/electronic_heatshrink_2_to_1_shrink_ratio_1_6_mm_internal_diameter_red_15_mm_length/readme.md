@@ -122,6 +122,18 @@ ladder
 degree
 father
 floor |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicedecadeslushconductlogicladderdegreefatherfloorzebra |  
+| bip_39_word_no_space_11 | spicedecadeslushconductlogicladderdegreefatherfloorzebranorth |  
+| bip_39_word_no_space_12 | spicedecadeslushconductlogicladderdegreefatherfloorzebranortharmed |  
+| bip_39_word_no_space_2 | spicedecade |  
+| bip_39_word_no_space_3 | spicedecadeslush |  
+| bip_39_word_no_space_4 | spicedecadeslushconduct |  
+| bip_39_word_no_space_5 | spicedecadeslushconductlogic |  
+| bip_39_word_no_space_6 | spicedecadeslushconductlogicladder |  
+| bip_39_word_no_space_7 | spicedecadeslushconductlogicladderdegree |  
+| bip_39_word_no_space_8 | spicedecadeslushconductlogicladderdegreefather |  
+| bip_39_word_no_space_9 | spicedecadeslushconductlogicladderdegreefatherfloor |  
 | bip_39_word_space_0 | ['spice', 'decade', 'slush', 'conduct', 'logic', 'ladder', 'degree', 'father', 'floor', 'zebra', 'north', 'armed'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice decade slush conduct logic ladder degree father floor zebra |  

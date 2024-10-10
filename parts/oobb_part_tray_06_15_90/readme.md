@@ -122,6 +122,18 @@ draft
 pepper
 tooth
 elite |  
+| bip_39_word_no_space_1 | main |  
+| bip_39_word_no_space_10 | maingridverbconcertmemberdraftpeppertootheliteloop |  
+| bip_39_word_no_space_11 | maingridverbconcertmemberdraftpeppertootheliteloopendless |  
+| bip_39_word_no_space_12 | maingridverbconcertmemberdraftpeppertootheliteloopendlessact |  
+| bip_39_word_no_space_2 | maingrid |  
+| bip_39_word_no_space_3 | maingridverb |  
+| bip_39_word_no_space_4 | maingridverbconcert |  
+| bip_39_word_no_space_5 | maingridverbconcertmember |  
+| bip_39_word_no_space_6 | maingridverbconcertmemberdraft |  
+| bip_39_word_no_space_7 | maingridverbconcertmemberdraftpepper |  
+| bip_39_word_no_space_8 | maingridverbconcertmemberdraftpeppertooth |  
+| bip_39_word_no_space_9 | maingridverbconcertmemberdraftpeppertoothelite |  
 | bip_39_word_space_0 | ['main', 'grid', 'verb', 'concert', 'member', 'draft', 'pepper', 'tooth', 'elite', 'loop', 'endless', 'act'] |  
 | bip_39_word_space_1 | main |  
 | bip_39_word_space_10 | main grid verb concert member draft pepper tooth elite loop |  

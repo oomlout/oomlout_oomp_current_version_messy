@@ -122,6 +122,18 @@ cave
 today
 fluid
 soon |  
+| bip_39_word_no_space_1 | oak |  
+| bip_39_word_no_space_10 | oakslamrenewawakeexchangecavetodayfluidsoonjump |  
+| bip_39_word_no_space_11 | oakslamrenewawakeexchangecavetodayfluidsoonjumpfuture |  
+| bip_39_word_no_space_12 | oakslamrenewawakeexchangecavetodayfluidsoonjumpfutureapprove |  
+| bip_39_word_no_space_2 | oakslam |  
+| bip_39_word_no_space_3 | oakslamrenew |  
+| bip_39_word_no_space_4 | oakslamrenewawake |  
+| bip_39_word_no_space_5 | oakslamrenewawakeexchange |  
+| bip_39_word_no_space_6 | oakslamrenewawakeexchangecave |  
+| bip_39_word_no_space_7 | oakslamrenewawakeexchangecavetoday |  
+| bip_39_word_no_space_8 | oakslamrenewawakeexchangecavetodayfluid |  
+| bip_39_word_no_space_9 | oakslamrenewawakeexchangecavetodayfluidsoon |  
 | bip_39_word_space_0 | ['oak', 'slam', 'renew', 'awake', 'exchange', 'cave', 'today', 'fluid', 'soon', 'jump', 'future', 'approve'] |  
 | bip_39_word_space_1 | oak |  
 | bip_39_word_space_10 | oak slam renew awake exchange cave today fluid soon jump |  

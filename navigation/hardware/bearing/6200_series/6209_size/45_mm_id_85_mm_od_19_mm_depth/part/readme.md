@@ -122,6 +122,18 @@ bright
 ramp
 chaos
 hollow |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragiletouristmercyuniquethankbrightrampchaoshollowdecide |  
+| bip_39_word_no_space_11 | fragiletouristmercyuniquethankbrightrampchaoshollowdecidepilot |  
+| bip_39_word_no_space_12 | fragiletouristmercyuniquethankbrightrampchaoshollowdecidepilotaction |  
+| bip_39_word_no_space_2 | fragiletourist |  
+| bip_39_word_no_space_3 | fragiletouristmercy |  
+| bip_39_word_no_space_4 | fragiletouristmercyunique |  
+| bip_39_word_no_space_5 | fragiletouristmercyuniquethank |  
+| bip_39_word_no_space_6 | fragiletouristmercyuniquethankbright |  
+| bip_39_word_no_space_7 | fragiletouristmercyuniquethankbrightramp |  
+| bip_39_word_no_space_8 | fragiletouristmercyuniquethankbrightrampchaos |  
+| bip_39_word_no_space_9 | fragiletouristmercyuniquethankbrightrampchaoshollow |  
 | bip_39_word_space_0 | ['fragile', 'tourist', 'mercy', 'unique', 'thank', 'bright', 'ramp', 'chaos', 'hollow', 'decide', 'pilot', 'action'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile tourist mercy unique thank bright ramp chaos hollow decide |  

@@ -122,6 +122,18 @@ room
 time
 coffee
 black |  
+| bip_39_word_no_space_1 | want |  
+| bip_39_word_no_space_10 | wantconsidersizeexilepraiseroomtimecoffeeblackframe |  
+| bip_39_word_no_space_11 | wantconsidersizeexilepraiseroomtimecoffeeblackframecupboard |  
+| bip_39_word_no_space_12 | wantconsidersizeexilepraiseroomtimecoffeeblackframecupboardactress |  
+| bip_39_word_no_space_2 | wantconsider |  
+| bip_39_word_no_space_3 | wantconsidersize |  
+| bip_39_word_no_space_4 | wantconsidersizeexile |  
+| bip_39_word_no_space_5 | wantconsidersizeexilepraise |  
+| bip_39_word_no_space_6 | wantconsidersizeexilepraiseroom |  
+| bip_39_word_no_space_7 | wantconsidersizeexilepraiseroomtime |  
+| bip_39_word_no_space_8 | wantconsidersizeexilepraiseroomtimecoffee |  
+| bip_39_word_no_space_9 | wantconsidersizeexilepraiseroomtimecoffeeblack |  
 | bip_39_word_space_0 | ['want', 'consider', 'size', 'exile', 'praise', 'room', 'time', 'coffee', 'black', 'frame', 'cupboard', 'actress'] |  
 | bip_39_word_space_1 | want |  
 | bip_39_word_space_10 | want consider size exile praise room time coffee black frame |  

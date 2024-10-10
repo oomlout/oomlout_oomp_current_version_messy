@@ -122,6 +122,18 @@ session
 suffer
 bleak
 lonely |  
+| bip_39_word_no_space_1 | attract |  
+| bip_39_word_no_space_10 | attracttalentdecemberstoneloadsessionsufferbleaklonelymatch |  
+| bip_39_word_no_space_11 | attracttalentdecemberstoneloadsessionsufferbleaklonelymatcheducate |  
+| bip_39_word_no_space_12 | attracttalentdecemberstoneloadsessionsufferbleaklonelymatcheducateannual |  
+| bip_39_word_no_space_2 | attracttalent |  
+| bip_39_word_no_space_3 | attracttalentdecember |  
+| bip_39_word_no_space_4 | attracttalentdecemberstone |  
+| bip_39_word_no_space_5 | attracttalentdecemberstoneload |  
+| bip_39_word_no_space_6 | attracttalentdecemberstoneloadsession |  
+| bip_39_word_no_space_7 | attracttalentdecemberstoneloadsessionsuffer |  
+| bip_39_word_no_space_8 | attracttalentdecemberstoneloadsessionsufferbleak |  
+| bip_39_word_no_space_9 | attracttalentdecemberstoneloadsessionsufferbleaklonely |  
 | bip_39_word_space_0 | ['attract', 'talent', 'december', 'stone', 'load', 'session', 'suffer', 'bleak', 'lonely', 'match', 'educate', 'annual'] |  
 | bip_39_word_space_1 | attract |  
 | bip_39_word_space_10 | attract talent december stone load session suffer bleak lonely match |  

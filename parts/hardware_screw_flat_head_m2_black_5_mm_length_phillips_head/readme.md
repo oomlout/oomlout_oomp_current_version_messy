@@ -122,6 +122,18 @@ enact
 siren
 habit
 window |  
+| bip_39_word_no_space_1 | maid |  
+| bip_39_word_no_space_10 | maidbriskinheritabusecircleenactsirenhabitwindowcrater |  
+| bip_39_word_no_space_11 | maidbriskinheritabusecircleenactsirenhabitwindowcrateralarm |  
+| bip_39_word_no_space_12 | maidbriskinheritabusecircleenactsirenhabitwindowcrateralarmactress |  
+| bip_39_word_no_space_2 | maidbrisk |  
+| bip_39_word_no_space_3 | maidbriskinherit |  
+| bip_39_word_no_space_4 | maidbriskinheritabuse |  
+| bip_39_word_no_space_5 | maidbriskinheritabusecircle |  
+| bip_39_word_no_space_6 | maidbriskinheritabusecircleenact |  
+| bip_39_word_no_space_7 | maidbriskinheritabusecircleenactsiren |  
+| bip_39_word_no_space_8 | maidbriskinheritabusecircleenactsirenhabit |  
+| bip_39_word_no_space_9 | maidbriskinheritabusecircleenactsirenhabitwindow |  
 | bip_39_word_space_0 | ['maid', 'brisk', 'inherit', 'abuse', 'circle', 'enact', 'siren', 'habit', 'window', 'crater', 'alarm', 'actress'] |  
 | bip_39_word_space_1 | maid |  
 | bip_39_word_space_10 | maid brisk inherit abuse circle enact siren habit window crater |  

@@ -122,6 +122,18 @@ voice
 comic
 cry
 yellow |  
+| bip_39_word_no_space_1 | shadow |  
+| bip_39_word_no_space_10 | shadowrelygrainmeadowsplitvoicecomiccryyellowpost |  
+| bip_39_word_no_space_11 | shadowrelygrainmeadowsplitvoicecomiccryyellowpostdirect |  
+| bip_39_word_no_space_12 | shadowrelygrainmeadowsplitvoicecomiccryyellowpostdirectanalyst |  
+| bip_39_word_no_space_2 | shadowrely |  
+| bip_39_word_no_space_3 | shadowrelygrain |  
+| bip_39_word_no_space_4 | shadowrelygrainmeadow |  
+| bip_39_word_no_space_5 | shadowrelygrainmeadowsplit |  
+| bip_39_word_no_space_6 | shadowrelygrainmeadowsplitvoice |  
+| bip_39_word_no_space_7 | shadowrelygrainmeadowsplitvoicecomic |  
+| bip_39_word_no_space_8 | shadowrelygrainmeadowsplitvoicecomiccry |  
+| bip_39_word_no_space_9 | shadowrelygrainmeadowsplitvoicecomiccryyellow |  
 | bip_39_word_space_0 | ['shadow', 'rely', 'grain', 'meadow', 'split', 'voice', 'comic', 'cry', 'yellow', 'post', 'direct', 'analyst'] |  
 | bip_39_word_space_1 | shadow |  
 | bip_39_word_space_10 | shadow rely grain meadow split voice comic cry yellow post |  

@@ -122,6 +122,18 @@ half
 mad
 gym
 citizen |  
+| bip_39_word_no_space_1 | reform |  
+| bip_39_word_no_space_10 | reformhospitalshelleasyenvelopehalfmadgymcitizencurve |  
+| bip_39_word_no_space_11 | reformhospitalshelleasyenvelopehalfmadgymcitizencurvedocument |  
+| bip_39_word_no_space_12 | reformhospitalshelleasyenvelopehalfmadgymcitizencurvedocumentalbum |  
+| bip_39_word_no_space_2 | reformhospital |  
+| bip_39_word_no_space_3 | reformhospitalshell |  
+| bip_39_word_no_space_4 | reformhospitalshelleasy |  
+| bip_39_word_no_space_5 | reformhospitalshelleasyenvelope |  
+| bip_39_word_no_space_6 | reformhospitalshelleasyenvelopehalf |  
+| bip_39_word_no_space_7 | reformhospitalshelleasyenvelopehalfmad |  
+| bip_39_word_no_space_8 | reformhospitalshelleasyenvelopehalfmadgym |  
+| bip_39_word_no_space_9 | reformhospitalshelleasyenvelopehalfmadgymcitizen |  
 | bip_39_word_space_0 | ['reform', 'hospital', 'shell', 'easy', 'envelope', 'half', 'mad', 'gym', 'citizen', 'curve', 'document', 'album'] |  
 | bip_39_word_space_1 | reform |  
 | bip_39_word_space_10 | reform hospital shell easy envelope half mad gym citizen curve |  

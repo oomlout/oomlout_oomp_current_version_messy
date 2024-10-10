@@ -122,6 +122,18 @@ foster
 inject
 there
 nature |  
+| bip_39_word_no_space_1 | cat |  
+| bip_39_word_no_space_10 | catmilliondramaswearsuggestfosterinjecttherenaturerural |  
+| bip_39_word_no_space_11 | catmilliondramaswearsuggestfosterinjecttherenatureruralcake |  
+| bip_39_word_no_space_12 | catmilliondramaswearsuggestfosterinjecttherenatureruralcakeanswer |  
+| bip_39_word_no_space_2 | catmillion |  
+| bip_39_word_no_space_3 | catmilliondrama |  
+| bip_39_word_no_space_4 | catmilliondramaswear |  
+| bip_39_word_no_space_5 | catmilliondramaswearsuggest |  
+| bip_39_word_no_space_6 | catmilliondramaswearsuggestfoster |  
+| bip_39_word_no_space_7 | catmilliondramaswearsuggestfosterinject |  
+| bip_39_word_no_space_8 | catmilliondramaswearsuggestfosterinjectthere |  
+| bip_39_word_no_space_9 | catmilliondramaswearsuggestfosterinjecttherenature |  
 | bip_39_word_space_0 | ['cat', 'million', 'drama', 'swear', 'suggest', 'foster', 'inject', 'there', 'nature', 'rural', 'cake', 'answer'] |  
 | bip_39_word_space_1 | cat |  
 | bip_39_word_space_10 | cat million drama swear suggest foster inject there nature rural |  

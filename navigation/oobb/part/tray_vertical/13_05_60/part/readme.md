@@ -122,6 +122,18 @@ siege
 rotate
 lyrics
 pride |  
+| bip_39_word_no_space_1 | athlete |  
+| bip_39_word_no_space_10 | athletebudgetcombineeditcatalogsiegerotatelyricspridedonkey |  
+| bip_39_word_no_space_11 | athletebudgetcombineeditcatalogsiegerotatelyricspridedonkeygrocery |  
+| bip_39_word_no_space_12 | athletebudgetcombineeditcatalogsiegerotatelyricspridedonkeygroceryask |  
+| bip_39_word_no_space_2 | athletebudget |  
+| bip_39_word_no_space_3 | athletebudgetcombine |  
+| bip_39_word_no_space_4 | athletebudgetcombineedit |  
+| bip_39_word_no_space_5 | athletebudgetcombineeditcatalog |  
+| bip_39_word_no_space_6 | athletebudgetcombineeditcatalogsiege |  
+| bip_39_word_no_space_7 | athletebudgetcombineeditcatalogsiegerotate |  
+| bip_39_word_no_space_8 | athletebudgetcombineeditcatalogsiegerotatelyrics |  
+| bip_39_word_no_space_9 | athletebudgetcombineeditcatalogsiegerotatelyricspride |  
 | bip_39_word_space_0 | ['athlete', 'budget', 'combine', 'edit', 'catalog', 'siege', 'rotate', 'lyrics', 'pride', 'donkey', 'grocery', 'ask'] |  
 | bip_39_word_space_1 | athlete |  
 | bip_39_word_space_10 | athlete budget combine edit catalog siege rotate lyrics pride donkey |  

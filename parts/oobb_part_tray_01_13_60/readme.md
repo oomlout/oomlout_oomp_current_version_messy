@@ -122,6 +122,18 @@ banana
 earth
 carpet
 soup |  
+| bip_39_word_no_space_1 | pulp |  
+| bip_39_word_no_space_10 | pulpcasualsensehundredgossipbananaearthcarpetsoupleave |  
+| bip_39_word_no_space_11 | pulpcasualsensehundredgossipbananaearthcarpetsoupleavespeak |  
+| bip_39_word_no_space_12 | pulpcasualsensehundredgossipbananaearthcarpetsoupleavespeakapart |  
+| bip_39_word_no_space_2 | pulpcasual |  
+| bip_39_word_no_space_3 | pulpcasualsense |  
+| bip_39_word_no_space_4 | pulpcasualsensehundred |  
+| bip_39_word_no_space_5 | pulpcasualsensehundredgossip |  
+| bip_39_word_no_space_6 | pulpcasualsensehundredgossipbanana |  
+| bip_39_word_no_space_7 | pulpcasualsensehundredgossipbananaearth |  
+| bip_39_word_no_space_8 | pulpcasualsensehundredgossipbananaearthcarpet |  
+| bip_39_word_no_space_9 | pulpcasualsensehundredgossipbananaearthcarpetsoup |  
 | bip_39_word_space_0 | ['pulp', 'casual', 'sense', 'hundred', 'gossip', 'banana', 'earth', 'carpet', 'soup', 'leave', 'speak', 'apart'] |  
 | bip_39_word_space_1 | pulp |  
 | bip_39_word_space_10 | pulp casual sense hundred gossip banana earth carpet soup leave |  

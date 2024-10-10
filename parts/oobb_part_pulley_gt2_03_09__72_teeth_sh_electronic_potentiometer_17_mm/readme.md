@@ -122,6 +122,18 @@ kite
 reopen
 error
 buffalo |  
+| bip_39_word_no_space_1 | doctor |  
+| bip_39_word_no_space_10 | doctorelephantquoteleopardcherrykitereopenerrorbuffalolunar |  
+| bip_39_word_no_space_11 | doctorelephantquoteleopardcherrykitereopenerrorbuffalolunarfind |  
+| bip_39_word_no_space_12 | doctorelephantquoteleopardcherrykitereopenerrorbuffalolunarfindasthma |  
+| bip_39_word_no_space_2 | doctorelephant |  
+| bip_39_word_no_space_3 | doctorelephantquote |  
+| bip_39_word_no_space_4 | doctorelephantquoteleopard |  
+| bip_39_word_no_space_5 | doctorelephantquoteleopardcherry |  
+| bip_39_word_no_space_6 | doctorelephantquoteleopardcherrykite |  
+| bip_39_word_no_space_7 | doctorelephantquoteleopardcherrykitereopen |  
+| bip_39_word_no_space_8 | doctorelephantquoteleopardcherrykitereopenerror |  
+| bip_39_word_no_space_9 | doctorelephantquoteleopardcherrykitereopenerrorbuffalo |  
 | bip_39_word_space_0 | ['doctor', 'elephant', 'quote', 'leopard', 'cherry', 'kite', 'reopen', 'error', 'buffalo', 'lunar', 'find', 'asthma'] |  
 | bip_39_word_space_1 | doctor |  
 | bip_39_word_space_10 | doctor elephant quote leopard cherry kite reopen error buffalo lunar |  

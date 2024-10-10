@@ -122,6 +122,18 @@ topple
 waste
 thought
 spray |  
+| bip_39_word_no_space_1 | broom |  
+| bip_39_word_no_space_10 | broomventurebloodparrotraccoontopplewastethoughtspraytry |  
+| bip_39_word_no_space_11 | broomventurebloodparrotraccoontopplewastethoughtspraytrysame |  
+| bip_39_word_no_space_12 | broomventurebloodparrotraccoontopplewastethoughtspraytrysamearea |  
+| bip_39_word_no_space_2 | broomventure |  
+| bip_39_word_no_space_3 | broomventureblood |  
+| bip_39_word_no_space_4 | broomventurebloodparrot |  
+| bip_39_word_no_space_5 | broomventurebloodparrotraccoon |  
+| bip_39_word_no_space_6 | broomventurebloodparrotraccoontopple |  
+| bip_39_word_no_space_7 | broomventurebloodparrotraccoontopplewaste |  
+| bip_39_word_no_space_8 | broomventurebloodparrotraccoontopplewastethought |  
+| bip_39_word_no_space_9 | broomventurebloodparrotraccoontopplewastethoughtspray |  
 | bip_39_word_space_0 | ['broom', 'venture', 'blood', 'parrot', 'raccoon', 'topple', 'waste', 'thought', 'spray', 'try', 'same', 'area'] |  
 | bip_39_word_space_1 | broom |  
 | bip_39_word_space_10 | broom venture blood parrot raccoon topple waste thought spray try |  

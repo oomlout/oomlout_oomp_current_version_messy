@@ -122,6 +122,18 @@ magnet
 ahead
 ripple
 bulb |  
+| bip_39_word_no_space_1 | because |  
+| bip_39_word_no_space_10 | becausegenuinebasewhatcabbagemagnetaheadripplebulbbest |  
+| bip_39_word_no_space_11 | becausegenuinebasewhatcabbagemagnetaheadripplebulbbestproperty |  
+| bip_39_word_no_space_12 | becausegenuinebasewhatcabbagemagnetaheadripplebulbbestpropertyavocado |  
+| bip_39_word_no_space_2 | becausegenuine |  
+| bip_39_word_no_space_3 | becausegenuinebase |  
+| bip_39_word_no_space_4 | becausegenuinebasewhat |  
+| bip_39_word_no_space_5 | becausegenuinebasewhatcabbage |  
+| bip_39_word_no_space_6 | becausegenuinebasewhatcabbagemagnet |  
+| bip_39_word_no_space_7 | becausegenuinebasewhatcabbagemagnetahead |  
+| bip_39_word_no_space_8 | becausegenuinebasewhatcabbagemagnetaheadripple |  
+| bip_39_word_no_space_9 | becausegenuinebasewhatcabbagemagnetaheadripplebulb |  
 | bip_39_word_space_0 | ['because', 'genuine', 'base', 'what', 'cabbage', 'magnet', 'ahead', 'ripple', 'bulb', 'best', 'property', 'avocado'] |  
 | bip_39_word_space_1 | because |  
 | bip_39_word_space_10 | because genuine base what cabbage magnet ahead ripple bulb best |  

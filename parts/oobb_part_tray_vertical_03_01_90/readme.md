@@ -122,6 +122,18 @@ enough
 sense
 tunnel
 gun |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energyunitcolumnlecturecakeenoughsensetunnelgunactor |  
+| bip_39_word_no_space_11 | energyunitcolumnlecturecakeenoughsensetunnelgunactoreither |  
+| bip_39_word_no_space_12 | energyunitcolumnlecturecakeenoughsensetunnelgunactoreitherapart |  
+| bip_39_word_no_space_2 | energyunit |  
+| bip_39_word_no_space_3 | energyunitcolumn |  
+| bip_39_word_no_space_4 | energyunitcolumnlecture |  
+| bip_39_word_no_space_5 | energyunitcolumnlecturecake |  
+| bip_39_word_no_space_6 | energyunitcolumnlecturecakeenough |  
+| bip_39_word_no_space_7 | energyunitcolumnlecturecakeenoughsense |  
+| bip_39_word_no_space_8 | energyunitcolumnlecturecakeenoughsensetunnel |  
+| bip_39_word_no_space_9 | energyunitcolumnlecturecakeenoughsensetunnelgun |  
 | bip_39_word_space_0 | ['energy', 'unit', 'column', 'lecture', 'cake', 'enough', 'sense', 'tunnel', 'gun', 'actor', 'either', 'apart'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy unit column lecture cake enough sense tunnel gun actor |  

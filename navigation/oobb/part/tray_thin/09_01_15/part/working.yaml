@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bundle
   deliver
 
   tray'
+bip_39_word_no_space_1: bundle
+bip_39_word_no_space_10: bundlehardhammercliffpigeonwristcatdelivertrayopera
+bip_39_word_no_space_11: bundlehardhammercliffpigeonwristcatdelivertrayoperaenforce
+bip_39_word_no_space_12: bundlehardhammercliffpigeonwristcatdelivertrayoperaenforceanchor
+bip_39_word_no_space_2: bundlehard
+bip_39_word_no_space_3: bundlehardhammer
+bip_39_word_no_space_4: bundlehardhammercliff
+bip_39_word_no_space_5: bundlehardhammercliffpigeon
+bip_39_word_no_space_6: bundlehardhammercliffpigeonwrist
+bip_39_word_no_space_7: bundlehardhammercliffpigeonwristcat
+bip_39_word_no_space_8: bundlehardhammercliffpigeonwristcatdeliver
+bip_39_word_no_space_9: bundlehardhammercliffpigeonwristcatdelivertray
 bip_39_word_space_0:
 - bundle
 - hard

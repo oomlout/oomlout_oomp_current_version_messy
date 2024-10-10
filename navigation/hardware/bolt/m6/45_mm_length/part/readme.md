@@ -122,6 +122,18 @@ moment
 promote
 more
 vendor |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toebeachensureescapeoptionmomentpromotemorevendorunaware |  
+| bip_39_word_no_space_11 | toebeachensureescapeoptionmomentpromotemorevendorunawareshallow |  
+| bip_39_word_no_space_12 | toebeachensureescapeoptionmomentpromotemorevendorunawareshallowattract |  
+| bip_39_word_no_space_2 | toebeach |  
+| bip_39_word_no_space_3 | toebeachensure |  
+| bip_39_word_no_space_4 | toebeachensureescape |  
+| bip_39_word_no_space_5 | toebeachensureescapeoption |  
+| bip_39_word_no_space_6 | toebeachensureescapeoptionmoment |  
+| bip_39_word_no_space_7 | toebeachensureescapeoptionmomentpromote |  
+| bip_39_word_no_space_8 | toebeachensureescapeoptionmomentpromotemore |  
+| bip_39_word_no_space_9 | toebeachensureescapeoptionmomentpromotemorevendor |  
 | bip_39_word_space_0 | ['toe', 'beach', 'ensure', 'escape', 'option', 'moment', 'promote', 'more', 'vendor', 'unaware', 'shallow', 'attract'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe beach ensure escape option moment promote more vendor unaware |  

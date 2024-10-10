@@ -122,6 +122,18 @@ receive
 plug
 sail
 poem |  
+| bip_39_word_no_space_1 | any |  
+| bip_39_word_no_space_10 | anyvalleyspatialnetworkcolorreceiveplugsailpoemhuman |  
+| bip_39_word_no_space_11 | anyvalleyspatialnetworkcolorreceiveplugsailpoemhumanimpulse |  
+| bip_39_word_no_space_12 | anyvalleyspatialnetworkcolorreceiveplugsailpoemhumanimpulseassume |  
+| bip_39_word_no_space_2 | anyvalley |  
+| bip_39_word_no_space_3 | anyvalleyspatial |  
+| bip_39_word_no_space_4 | anyvalleyspatialnetwork |  
+| bip_39_word_no_space_5 | anyvalleyspatialnetworkcolor |  
+| bip_39_word_no_space_6 | anyvalleyspatialnetworkcolorreceive |  
+| bip_39_word_no_space_7 | anyvalleyspatialnetworkcolorreceiveplug |  
+| bip_39_word_no_space_8 | anyvalleyspatialnetworkcolorreceiveplugsail |  
+| bip_39_word_no_space_9 | anyvalleyspatialnetworkcolorreceiveplugsailpoem |  
 | bip_39_word_space_0 | ['any', 'valley', 'spatial', 'network', 'color', 'receive', 'plug', 'sail', 'poem', 'human', 'impulse', 'assume'] |  
 | bip_39_word_space_1 | any |  
 | bip_39_word_space_10 | any valley spatial network color receive plug sail poem human |  

@@ -122,6 +122,18 @@ sight
 social
 twenty
 year |  
+| bip_39_word_no_space_1 | hint |  
+| bip_39_word_no_space_10 | hintexerciseglueshinemousesightsocialtwentyyearassault |  
+| bip_39_word_no_space_11 | hintexerciseglueshinemousesightsocialtwentyyearassaultoff |  
+| bip_39_word_no_space_12 | hintexerciseglueshinemousesightsocialtwentyyearassaultoffankle |  
+| bip_39_word_no_space_2 | hintexercise |  
+| bip_39_word_no_space_3 | hintexerciseglue |  
+| bip_39_word_no_space_4 | hintexerciseglueshine |  
+| bip_39_word_no_space_5 | hintexerciseglueshinemouse |  
+| bip_39_word_no_space_6 | hintexerciseglueshinemousesight |  
+| bip_39_word_no_space_7 | hintexerciseglueshinemousesightsocial |  
+| bip_39_word_no_space_8 | hintexerciseglueshinemousesightsocialtwenty |  
+| bip_39_word_no_space_9 | hintexerciseglueshinemousesightsocialtwentyyear |  
 | bip_39_word_space_0 | ['hint', 'exercise', 'glue', 'shine', 'mouse', 'sight', 'social', 'twenty', 'year', 'assault', 'off', 'ankle'] |  
 | bip_39_word_space_1 | hint |  
 | bip_39_word_space_10 | hint exercise glue shine mouse sight social twenty year assault |  

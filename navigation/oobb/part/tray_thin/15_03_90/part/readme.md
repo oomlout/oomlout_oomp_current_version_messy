@@ -122,6 +122,18 @@ plastic
 clog
 dirt
 town |  
+| bip_39_word_no_space_1 | pet |  
+| bip_39_word_no_space_10 | petdesknorthclusterzoneplasticclogdirttownthunder |  
+| bip_39_word_no_space_11 | petdesknorthclusterzoneplasticclogdirttownthunderdamp |  
+| bip_39_word_no_space_12 | petdesknorthclusterzoneplasticclogdirttownthunderdampalmost |  
+| bip_39_word_no_space_2 | petdesk |  
+| bip_39_word_no_space_3 | petdesknorth |  
+| bip_39_word_no_space_4 | petdesknorthcluster |  
+| bip_39_word_no_space_5 | petdesknorthclusterzone |  
+| bip_39_word_no_space_6 | petdesknorthclusterzoneplastic |  
+| bip_39_word_no_space_7 | petdesknorthclusterzoneplasticclog |  
+| bip_39_word_no_space_8 | petdesknorthclusterzoneplasticclogdirt |  
+| bip_39_word_no_space_9 | petdesknorthclusterzoneplasticclogdirttown |  
 | bip_39_word_space_0 | ['pet', 'desk', 'north', 'cluster', 'zone', 'plastic', 'clog', 'dirt', 'town', 'thunder', 'damp', 'almost'] |  
 | bip_39_word_space_1 | pet |  
 | bip_39_word_space_10 | pet desk north cluster zone plastic clog dirt town thunder |  

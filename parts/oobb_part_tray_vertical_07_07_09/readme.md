@@ -122,6 +122,18 @@ maximum
 actress
 armed
 afraid |  
+| bip_39_word_no_space_1 | bottom |  
+| bip_39_word_no_space_10 | bottomfixvillagenumbervictorymaximumactressarmedafraidwhen |  
+| bip_39_word_no_space_11 | bottomfixvillagenumbervictorymaximumactressarmedafraidwhenecology |  
+| bip_39_word_no_space_12 | bottomfixvillagenumbervictorymaximumactressarmedafraidwhenecologyancient |  
+| bip_39_word_no_space_2 | bottomfix |  
+| bip_39_word_no_space_3 | bottomfixvillage |  
+| bip_39_word_no_space_4 | bottomfixvillagenumber |  
+| bip_39_word_no_space_5 | bottomfixvillagenumbervictory |  
+| bip_39_word_no_space_6 | bottomfixvillagenumbervictorymaximum |  
+| bip_39_word_no_space_7 | bottomfixvillagenumbervictorymaximumactress |  
+| bip_39_word_no_space_8 | bottomfixvillagenumbervictorymaximumactressarmed |  
+| bip_39_word_no_space_9 | bottomfixvillagenumbervictorymaximumactressarmedafraid |  
 | bip_39_word_space_0 | ['bottom', 'fix', 'village', 'number', 'victory', 'maximum', 'actress', 'armed', 'afraid', 'when', 'ecology', 'ancient'] |  
 | bip_39_word_space_1 | bottom |  
 | bip_39_word_space_10 | bottom fix village number victory maximum actress armed afraid when |  

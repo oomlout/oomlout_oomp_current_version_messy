@@ -122,6 +122,18 @@ middle
 bottom
 cost
 fabric |  
+| bip_39_word_no_space_1 | benefit |  
+| bip_39_word_no_space_10 | benefitevokefrozendivorcebirdmiddlebottomcostfabricgown |  
+| bip_39_word_no_space_11 | benefitevokefrozendivorcebirdmiddlebottomcostfabricgowndecline |  
+| bip_39_word_no_space_12 | benefitevokefrozendivorcebirdmiddlebottomcostfabricgowndeclineability |  
+| bip_39_word_no_space_2 | benefitevoke |  
+| bip_39_word_no_space_3 | benefitevokefrozen |  
+| bip_39_word_no_space_4 | benefitevokefrozendivorce |  
+| bip_39_word_no_space_5 | benefitevokefrozendivorcebird |  
+| bip_39_word_no_space_6 | benefitevokefrozendivorcebirdmiddle |  
+| bip_39_word_no_space_7 | benefitevokefrozendivorcebirdmiddlebottom |  
+| bip_39_word_no_space_8 | benefitevokefrozendivorcebirdmiddlebottomcost |  
+| bip_39_word_no_space_9 | benefitevokefrozendivorcebirdmiddlebottomcostfabric |  
 | bip_39_word_space_0 | ['benefit', 'evoke', 'frozen', 'divorce', 'bird', 'middle', 'bottom', 'cost', 'fabric', 'gown', 'decline', 'ability'] |  
 | bip_39_word_space_1 | benefit |  
 | bip_39_word_space_10 | benefit evoke frozen divorce bird middle bottom cost fabric gown |  

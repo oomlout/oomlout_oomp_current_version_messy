@@ -122,6 +122,18 @@ giggle
 bracket
 decade
 engage |  
+| bip_39_word_no_space_1 | fiscal |  
+| bip_39_word_no_space_10 | fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsent |  
+| bip_39_word_no_space_11 | fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsentthing |  
+| bip_39_word_no_space_12 | fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsentthingact |  
+| bip_39_word_no_space_2 | fiscaldistance |  
+| bip_39_word_no_space_3 | fiscaldistanceodor |  
+| bip_39_word_no_space_4 | fiscaldistanceodorsilver |  
+| bip_39_word_no_space_5 | fiscaldistanceodorsilverinspire |  
+| bip_39_word_no_space_6 | fiscaldistanceodorsilverinspiregiggle |  
+| bip_39_word_no_space_7 | fiscaldistanceodorsilverinspiregigglebracket |  
+| bip_39_word_no_space_8 | fiscaldistanceodorsilverinspiregigglebracketdecade |  
+| bip_39_word_no_space_9 | fiscaldistanceodorsilverinspiregigglebracketdecadeengage |  
 | bip_39_word_space_0 | ['fiscal', 'distance', 'odor', 'silver', 'inspire', 'giggle', 'bracket', 'decade', 'engage', 'absent', 'thing', 'act'] |  
 | bip_39_word_space_1 | fiscal |  
 | bip_39_word_space_10 | fiscal distance odor silver inspire giggle bracket decade engage absent |  

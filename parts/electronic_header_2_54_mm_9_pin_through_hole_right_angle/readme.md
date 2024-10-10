@@ -122,6 +122,18 @@ muffin
 until
 latin
 twenty |  
+| bip_39_word_no_space_1 | pear |  
+| bip_39_word_no_space_10 | peardignitypandaairportnicemuffinuntillatintwentystove |  
+| bip_39_word_no_space_11 | peardignitypandaairportnicemuffinuntillatintwentystovepatrol |  
+| bip_39_word_no_space_12 | peardignitypandaairportnicemuffinuntillatintwentystovepatrolallow |  
+| bip_39_word_no_space_2 | peardignity |  
+| bip_39_word_no_space_3 | peardignitypanda |  
+| bip_39_word_no_space_4 | peardignitypandaairport |  
+| bip_39_word_no_space_5 | peardignitypandaairportnice |  
+| bip_39_word_no_space_6 | peardignitypandaairportnicemuffin |  
+| bip_39_word_no_space_7 | peardignitypandaairportnicemuffinuntil |  
+| bip_39_word_no_space_8 | peardignitypandaairportnicemuffinuntillatin |  
+| bip_39_word_no_space_9 | peardignitypandaairportnicemuffinuntillatintwenty |  
 | bip_39_word_space_0 | ['pear', 'dignity', 'panda', 'airport', 'nice', 'muffin', 'until', 'latin', 'twenty', 'stove', 'patrol', 'allow'] |  
 | bip_39_word_space_1 | pear |  
 | bip_39_word_space_10 | pear dignity panda airport nice muffin until latin twenty stove |  

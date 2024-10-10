@@ -122,6 +122,18 @@ dash
 unit
 worth
 essence |  
+| bip_39_word_no_space_1 | potato |  
+| bip_39_word_no_space_10 | potatomorningmessagevideodevicedashunitworthessencedeny |  
+| bip_39_word_no_space_11 | potatomorningmessagevideodevicedashunitworthessencedenynoodle |  
+| bip_39_word_no_space_12 | potatomorningmessagevideodevicedashunitworthessencedenynoodleattend |  
+| bip_39_word_no_space_2 | potatomorning |  
+| bip_39_word_no_space_3 | potatomorningmessage |  
+| bip_39_word_no_space_4 | potatomorningmessagevideo |  
+| bip_39_word_no_space_5 | potatomorningmessagevideodevice |  
+| bip_39_word_no_space_6 | potatomorningmessagevideodevicedash |  
+| bip_39_word_no_space_7 | potatomorningmessagevideodevicedashunit |  
+| bip_39_word_no_space_8 | potatomorningmessagevideodevicedashunitworth |  
+| bip_39_word_no_space_9 | potatomorningmessagevideodevicedashunitworthessence |  
 | bip_39_word_space_0 | ['potato', 'morning', 'message', 'video', 'device', 'dash', 'unit', 'worth', 'essence', 'deny', 'noodle', 'attend'] |  
 | bip_39_word_space_1 | potato |  
 | bip_39_word_space_10 | potato morning message video device dash unit worth essence deny |  

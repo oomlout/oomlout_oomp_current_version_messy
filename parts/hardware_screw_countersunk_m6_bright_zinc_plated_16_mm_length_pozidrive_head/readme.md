@@ -122,6 +122,18 @@ midnight
 sibling
 winter
 cargo |  
+| bip_39_word_no_space_1 | bleak |  
+| bip_39_word_no_space_10 | bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkey |  
+| bip_39_word_no_space_11 | bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkeytoss |  
+| bip_39_word_no_space_12 | bleakpluckvacuumrightendorsemidnightsiblingwintercargomonkeytossartefact |  
+| bip_39_word_no_space_2 | bleakpluck |  
+| bip_39_word_no_space_3 | bleakpluckvacuum |  
+| bip_39_word_no_space_4 | bleakpluckvacuumright |  
+| bip_39_word_no_space_5 | bleakpluckvacuumrightendorse |  
+| bip_39_word_no_space_6 | bleakpluckvacuumrightendorsemidnight |  
+| bip_39_word_no_space_7 | bleakpluckvacuumrightendorsemidnightsibling |  
+| bip_39_word_no_space_8 | bleakpluckvacuumrightendorsemidnightsiblingwinter |  
+| bip_39_word_no_space_9 | bleakpluckvacuumrightendorsemidnightsiblingwintercargo |  
 | bip_39_word_space_0 | ['bleak', 'pluck', 'vacuum', 'right', 'endorse', 'midnight', 'sibling', 'winter', 'cargo', 'monkey', 'toss', 'artefact'] |  
 | bip_39_word_space_1 | bleak |  
 | bip_39_word_space_10 | bleak pluck vacuum right endorse midnight sibling winter cargo monkey |  

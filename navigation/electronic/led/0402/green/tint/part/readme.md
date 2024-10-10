@@ -122,6 +122,18 @@ claim
 solve
 trial
 wheat |  
+| bip_39_word_no_space_1 | exercise |  
+| bip_39_word_no_space_10 | exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpion |  
+| bip_39_word_no_space_11 | exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpionwoman |  
+| bip_39_word_no_space_12 | exerciseawesometruthawfulfinishclaimsolvetrialwheatscorpionwomanact |  
+| bip_39_word_no_space_2 | exerciseawesome |  
+| bip_39_word_no_space_3 | exerciseawesometruth |  
+| bip_39_word_no_space_4 | exerciseawesometruthawful |  
+| bip_39_word_no_space_5 | exerciseawesometruthawfulfinish |  
+| bip_39_word_no_space_6 | exerciseawesometruthawfulfinishclaim |  
+| bip_39_word_no_space_7 | exerciseawesometruthawfulfinishclaimsolve |  
+| bip_39_word_no_space_8 | exerciseawesometruthawfulfinishclaimsolvetrial |  
+| bip_39_word_no_space_9 | exerciseawesometruthawfulfinishclaimsolvetrialwheat |  
 | bip_39_word_space_0 | ['exercise', 'awesome', 'truth', 'awful', 'finish', 'claim', 'solve', 'trial', 'wheat', 'scorpion', 'woman', 'act'] |  
 | bip_39_word_space_1 | exercise |  
 | bip_39_word_space_10 | exercise awesome truth awful finish claim solve trial wheat scorpion |  

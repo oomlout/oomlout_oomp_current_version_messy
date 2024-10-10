@@ -122,6 +122,18 @@ rain
 derive
 wing
 truth |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | serviceforcefamilyexerciseyoungrainderivewingtruthgaze |  
+| bip_39_word_no_space_11 | serviceforcefamilyexerciseyoungrainderivewingtruthgazeonce |  
+| bip_39_word_no_space_12 | serviceforcefamilyexerciseyoungrainderivewingtruthgazeoncearrange |  
+| bip_39_word_no_space_2 | serviceforce |  
+| bip_39_word_no_space_3 | serviceforcefamily |  
+| bip_39_word_no_space_4 | serviceforcefamilyexercise |  
+| bip_39_word_no_space_5 | serviceforcefamilyexerciseyoung |  
+| bip_39_word_no_space_6 | serviceforcefamilyexerciseyoungrain |  
+| bip_39_word_no_space_7 | serviceforcefamilyexerciseyoungrainderive |  
+| bip_39_word_no_space_8 | serviceforcefamilyexerciseyoungrainderivewing |  
+| bip_39_word_no_space_9 | serviceforcefamilyexerciseyoungrainderivewingtruth |  
 | bip_39_word_space_0 | ['service', 'force', 'family', 'exercise', 'young', 'rain', 'derive', 'wing', 'truth', 'gaze', 'once', 'arrange'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service force family exercise young rain derive wing truth gaze |  

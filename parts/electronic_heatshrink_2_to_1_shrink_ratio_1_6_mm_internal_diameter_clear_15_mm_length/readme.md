@@ -122,6 +122,18 @@ dune
 worry
 endorse
 able |  
+| bip_39_word_no_space_1 | walk |  
+| bip_39_word_no_space_10 | walkindoorelbowenlisttruthduneworryendorseablethis |  
+| bip_39_word_no_space_11 | walkindoorelbowenlisttruthduneworryendorseablethissibling |  
+| bip_39_word_no_space_12 | walkindoorelbowenlisttruthduneworryendorseablethissiblingaverage |  
+| bip_39_word_no_space_2 | walkindoor |  
+| bip_39_word_no_space_3 | walkindoorelbow |  
+| bip_39_word_no_space_4 | walkindoorelbowenlist |  
+| bip_39_word_no_space_5 | walkindoorelbowenlisttruth |  
+| bip_39_word_no_space_6 | walkindoorelbowenlisttruthdune |  
+| bip_39_word_no_space_7 | walkindoorelbowenlisttruthduneworry |  
+| bip_39_word_no_space_8 | walkindoorelbowenlisttruthduneworryendorse |  
+| bip_39_word_no_space_9 | walkindoorelbowenlisttruthduneworryendorseable |  
 | bip_39_word_space_0 | ['walk', 'indoor', 'elbow', 'enlist', 'truth', 'dune', 'worry', 'endorse', 'able', 'this', 'sibling', 'average'] |  
 | bip_39_word_space_1 | walk |  
 | bip_39_word_space_10 | walk indoor elbow enlist truth dune worry endorse able this |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gauge
   lens
 
   nest'
+bip_39_word_no_space_1: gauge
+bip_39_word_no_space_10: gaugehostcrewdebriscastlesunartworklensnestrail
+bip_39_word_no_space_11: gaugehostcrewdebriscastlesunartworklensnestraildiesel
+bip_39_word_no_space_12: gaugehostcrewdebriscastlesunartworklensnestraildieselartwork
+bip_39_word_no_space_2: gaugehost
+bip_39_word_no_space_3: gaugehostcrew
+bip_39_word_no_space_4: gaugehostcrewdebris
+bip_39_word_no_space_5: gaugehostcrewdebriscastle
+bip_39_word_no_space_6: gaugehostcrewdebriscastlesun
+bip_39_word_no_space_7: gaugehostcrewdebriscastlesunartwork
+bip_39_word_no_space_8: gaugehostcrewdebriscastlesunartworklens
+bip_39_word_no_space_9: gaugehostcrewdebriscastlesunartworklensnest
 bip_39_word_space_0:
 - gauge
 - host

@@ -122,6 +122,18 @@ educate
 cereal
 blood
 right |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misschampionnursedumbmuscleeducatecerealbloodrightdiesel |  
+| bip_39_word_no_space_11 | misschampionnursedumbmuscleeducatecerealbloodrightdieselrotate |  
+| bip_39_word_no_space_12 | misschampionnursedumbmuscleeducatecerealbloodrightdieselrotateamused |  
+| bip_39_word_no_space_2 | misschampion |  
+| bip_39_word_no_space_3 | misschampionnurse |  
+| bip_39_word_no_space_4 | misschampionnursedumb |  
+| bip_39_word_no_space_5 | misschampionnursedumbmuscle |  
+| bip_39_word_no_space_6 | misschampionnursedumbmuscleeducate |  
+| bip_39_word_no_space_7 | misschampionnursedumbmuscleeducatecereal |  
+| bip_39_word_no_space_8 | misschampionnursedumbmuscleeducatecerealblood |  
+| bip_39_word_no_space_9 | misschampionnursedumbmuscleeducatecerealbloodright |  
 | bip_39_word_space_0 | ['miss', 'champion', 'nurse', 'dumb', 'muscle', 'educate', 'cereal', 'blood', 'right', 'diesel', 'rotate', 'amused'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss champion nurse dumb muscle educate cereal blood right diesel |  

@@ -122,6 +122,18 @@ scrap
 memory
 slim
 exile |  
+| bip_39_word_no_space_1 | finish |  
+| bip_39_word_no_space_10 | finishdaughtermirrorfatheralertscrapmemoryslimexilebarely |  
+| bip_39_word_no_space_11 | finishdaughtermirrorfatheralertscrapmemoryslimexilebarelybusy |  
+| bip_39_word_no_space_12 | finishdaughtermirrorfatheralertscrapmemoryslimexilebarelybusyamateur |  
+| bip_39_word_no_space_2 | finishdaughter |  
+| bip_39_word_no_space_3 | finishdaughtermirror |  
+| bip_39_word_no_space_4 | finishdaughtermirrorfather |  
+| bip_39_word_no_space_5 | finishdaughtermirrorfatheralert |  
+| bip_39_word_no_space_6 | finishdaughtermirrorfatheralertscrap |  
+| bip_39_word_no_space_7 | finishdaughtermirrorfatheralertscrapmemory |  
+| bip_39_word_no_space_8 | finishdaughtermirrorfatheralertscrapmemoryslim |  
+| bip_39_word_no_space_9 | finishdaughtermirrorfatheralertscrapmemoryslimexile |  
 | bip_39_word_space_0 | ['finish', 'daughter', 'mirror', 'father', 'alert', 'scrap', 'memory', 'slim', 'exile', 'barely', 'busy', 'amateur'] |  
 | bip_39_word_space_1 | finish |  
 | bip_39_word_space_10 | finish daughter mirror father alert scrap memory slim exile barely |  

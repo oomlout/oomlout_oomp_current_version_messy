@@ -122,6 +122,18 @@ capable
 toddler
 device
 depend |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glassheadextendsingcloudcapabletoddlerdevicedependquestion |  
+| bip_39_word_no_space_11 | glassheadextendsingcloudcapabletoddlerdevicedependquestionacid |  
+| bip_39_word_no_space_12 | glassheadextendsingcloudcapabletoddlerdevicedependquestionacidalarm |  
+| bip_39_word_no_space_2 | glasshead |  
+| bip_39_word_no_space_3 | glassheadextend |  
+| bip_39_word_no_space_4 | glassheadextendsing |  
+| bip_39_word_no_space_5 | glassheadextendsingcloud |  
+| bip_39_word_no_space_6 | glassheadextendsingcloudcapable |  
+| bip_39_word_no_space_7 | glassheadextendsingcloudcapabletoddler |  
+| bip_39_word_no_space_8 | glassheadextendsingcloudcapabletoddlerdevice |  
+| bip_39_word_no_space_9 | glassheadextendsingcloudcapabletoddlerdevicedepend |  
 | bip_39_word_space_0 | ['glass', 'head', 'extend', 'sing', 'cloud', 'capable', 'toddler', 'device', 'depend', 'question', 'acid', 'alarm'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass head extend sing cloud capable toddler device depend question |  

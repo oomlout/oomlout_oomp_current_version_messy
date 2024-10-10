@@ -122,6 +122,18 @@ humor
 sting
 sunny
 cruise |  
+| bip_39_word_no_space_1 | target |  
+| bip_39_word_no_space_10 | targetrightspherestreetsickhumorstingsunnycruiseframe |  
+| bip_39_word_no_space_11 | targetrightspherestreetsickhumorstingsunnycruiseframeromance |  
+| bip_39_word_no_space_12 | targetrightspherestreetsickhumorstingsunnycruiseframeromanceanxiety |  
+| bip_39_word_no_space_2 | targetright |  
+| bip_39_word_no_space_3 | targetrightsphere |  
+| bip_39_word_no_space_4 | targetrightspherestreet |  
+| bip_39_word_no_space_5 | targetrightspherestreetsick |  
+| bip_39_word_no_space_6 | targetrightspherestreetsickhumor |  
+| bip_39_word_no_space_7 | targetrightspherestreetsickhumorsting |  
+| bip_39_word_no_space_8 | targetrightspherestreetsickhumorstingsunny |  
+| bip_39_word_no_space_9 | targetrightspherestreetsickhumorstingsunnycruise |  
 | bip_39_word_space_0 | ['target', 'right', 'sphere', 'street', 'sick', 'humor', 'sting', 'sunny', 'cruise', 'frame', 'romance', 'anxiety'] |  
 | bip_39_word_space_1 | target |  
 | bip_39_word_space_10 | target right sphere street sick humor sting sunny cruise frame |  

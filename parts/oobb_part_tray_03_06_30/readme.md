@@ -122,6 +122,18 @@ deal
 roast
 brave
 eye |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagefurywidefossilouterdealroastbraveeyefaculty |  
+| bip_39_word_no_space_11 | vintagefurywidefossilouterdealroastbraveeyefacultyalready |  
+| bip_39_word_no_space_12 | vintagefurywidefossilouterdealroastbraveeyefacultyalreadyanxiety |  
+| bip_39_word_no_space_2 | vintagefury |  
+| bip_39_word_no_space_3 | vintagefurywide |  
+| bip_39_word_no_space_4 | vintagefurywidefossil |  
+| bip_39_word_no_space_5 | vintagefurywidefossilouter |  
+| bip_39_word_no_space_6 | vintagefurywidefossilouterdeal |  
+| bip_39_word_no_space_7 | vintagefurywidefossilouterdealroast |  
+| bip_39_word_no_space_8 | vintagefurywidefossilouterdealroastbrave |  
+| bip_39_word_no_space_9 | vintagefurywidefossilouterdealroastbraveeye |  
 | bip_39_word_space_0 | ['vintage', 'fury', 'wide', 'fossil', 'outer', 'deal', 'roast', 'brave', 'eye', 'faculty', 'already', 'anxiety'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage fury wide fossil outer deal roast brave eye faculty |  

@@ -122,6 +122,18 @@ kit
 vintage
 avocado
 dust |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonlendobligecycleaboutkitvintageavocadodustfat |  
+| bip_39_word_no_space_11 | lemonlendobligecycleaboutkitvintageavocadodustfatsalon |  
+| bip_39_word_no_space_12 | lemonlendobligecycleaboutkitvintageavocadodustfatsalonabuse |  
+| bip_39_word_no_space_2 | lemonlend |  
+| bip_39_word_no_space_3 | lemonlendoblige |  
+| bip_39_word_no_space_4 | lemonlendobligecycle |  
+| bip_39_word_no_space_5 | lemonlendobligecycleabout |  
+| bip_39_word_no_space_6 | lemonlendobligecycleaboutkit |  
+| bip_39_word_no_space_7 | lemonlendobligecycleaboutkitvintage |  
+| bip_39_word_no_space_8 | lemonlendobligecycleaboutkitvintageavocado |  
+| bip_39_word_no_space_9 | lemonlendobligecycleaboutkitvintageavocadodust |  
 | bip_39_word_space_0 | ['lemon', 'lend', 'oblige', 'cycle', 'about', 'kit', 'vintage', 'avocado', 'dust', 'fat', 'salon', 'abuse'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon lend oblige cycle about kit vintage avocado dust fat |  

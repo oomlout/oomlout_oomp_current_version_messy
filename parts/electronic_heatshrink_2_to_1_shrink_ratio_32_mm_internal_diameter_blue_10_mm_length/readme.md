@@ -122,6 +122,18 @@ what
 metal
 hold
 dry |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spidermagnetspaceozoneatomwhatmetalholddryodor |  
+| bip_39_word_no_space_11 | spidermagnetspaceozoneatomwhatmetalholddryodorstick |  
+| bip_39_word_no_space_12 | spidermagnetspaceozoneatomwhatmetalholddryodorstickact |  
+| bip_39_word_no_space_2 | spidermagnet |  
+| bip_39_word_no_space_3 | spidermagnetspace |  
+| bip_39_word_no_space_4 | spidermagnetspaceozone |  
+| bip_39_word_no_space_5 | spidermagnetspaceozoneatom |  
+| bip_39_word_no_space_6 | spidermagnetspaceozoneatomwhat |  
+| bip_39_word_no_space_7 | spidermagnetspaceozoneatomwhatmetal |  
+| bip_39_word_no_space_8 | spidermagnetspaceozoneatomwhatmetalhold |  
+| bip_39_word_no_space_9 | spidermagnetspaceozoneatomwhatmetalholddry |  
 | bip_39_word_space_0 | ['spider', 'magnet', 'space', 'ozone', 'atom', 'what', 'metal', 'hold', 'dry', 'odor', 'stick', 'act'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider magnet space ozone atom what metal hold dry odor |  

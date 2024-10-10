@@ -122,6 +122,18 @@ equip
 evil
 better
 slight |  
+| bip_39_word_no_space_1 | depend |  
+| bip_39_word_no_space_10 | dependhorrortapedynamicpurseequipevilbetterslightrubber |  
+| bip_39_word_no_space_11 | dependhorrortapedynamicpurseequipevilbetterslightrubberduck |  
+| bip_39_word_no_space_12 | dependhorrortapedynamicpurseequipevilbetterslightrubberduckanimal |  
+| bip_39_word_no_space_2 | dependhorror |  
+| bip_39_word_no_space_3 | dependhorrortape |  
+| bip_39_word_no_space_4 | dependhorrortapedynamic |  
+| bip_39_word_no_space_5 | dependhorrortapedynamicpurse |  
+| bip_39_word_no_space_6 | dependhorrortapedynamicpurseequip |  
+| bip_39_word_no_space_7 | dependhorrortapedynamicpurseequipevil |  
+| bip_39_word_no_space_8 | dependhorrortapedynamicpurseequipevilbetter |  
+| bip_39_word_no_space_9 | dependhorrortapedynamicpurseequipevilbetterslight |  
 | bip_39_word_space_0 | ['depend', 'horror', 'tape', 'dynamic', 'purse', 'equip', 'evil', 'better', 'slight', 'rubber', 'duck', 'animal'] |  
 | bip_39_word_space_1 | depend |  
 | bip_39_word_space_10 | depend horror tape dynamic purse equip evil better slight rubber |  

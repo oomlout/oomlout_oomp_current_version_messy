@@ -122,6 +122,18 @@ distance
 hint
 bench
 social |  
+| bip_39_word_no_space_1 | refuse |  
+| bip_39_word_no_space_10 | refuseinflictemploycensusshydistancehintbenchsocialhumble |  
+| bip_39_word_no_space_11 | refuseinflictemploycensusshydistancehintbenchsocialhumbleanswer |  
+| bip_39_word_no_space_12 | refuseinflictemploycensusshydistancehintbenchsocialhumbleanswerangle |  
+| bip_39_word_no_space_2 | refuseinflict |  
+| bip_39_word_no_space_3 | refuseinflictemploy |  
+| bip_39_word_no_space_4 | refuseinflictemploycensus |  
+| bip_39_word_no_space_5 | refuseinflictemploycensusshy |  
+| bip_39_word_no_space_6 | refuseinflictemploycensusshydistance |  
+| bip_39_word_no_space_7 | refuseinflictemploycensusshydistancehint |  
+| bip_39_word_no_space_8 | refuseinflictemploycensusshydistancehintbench |  
+| bip_39_word_no_space_9 | refuseinflictemploycensusshydistancehintbenchsocial |  
 | bip_39_word_space_0 | ['refuse', 'inflict', 'employ', 'census', 'shy', 'distance', 'hint', 'bench', 'social', 'humble', 'answer', 'angle'] |  
 | bip_39_word_space_1 | refuse |  
 | bip_39_word_space_10 | refuse inflict employ census shy distance hint bench social humble |  

@@ -122,6 +122,18 @@ tunnel
 you
 found
 blush |  
+| bip_39_word_no_space_1 | news |  
+| bip_39_word_no_space_10 | newsexecutethumbkneewoodtunnelyoufoundblushpaper |  
+| bip_39_word_no_space_11 | newsexecutethumbkneewoodtunnelyoufoundblushpaperbarrel |  
+| bip_39_word_no_space_12 | newsexecutethumbkneewoodtunnelyoufoundblushpaperbarrelavocado |  
+| bip_39_word_no_space_2 | newsexecute |  
+| bip_39_word_no_space_3 | newsexecutethumb |  
+| bip_39_word_no_space_4 | newsexecutethumbknee |  
+| bip_39_word_no_space_5 | newsexecutethumbkneewood |  
+| bip_39_word_no_space_6 | newsexecutethumbkneewoodtunnel |  
+| bip_39_word_no_space_7 | newsexecutethumbkneewoodtunnelyou |  
+| bip_39_word_no_space_8 | newsexecutethumbkneewoodtunnelyoufound |  
+| bip_39_word_no_space_9 | newsexecutethumbkneewoodtunnelyoufoundblush |  
 | bip_39_word_space_0 | ['news', 'execute', 'thumb', 'knee', 'wood', 'tunnel', 'you', 'found', 'blush', 'paper', 'barrel', 'avocado'] |  
 | bip_39_word_space_1 | news |  
 | bip_39_word_space_10 | news execute thumb knee wood tunnel you found blush paper |  

@@ -122,6 +122,18 @@ rack
 myself
 trip
 use |  
+| bip_39_word_no_space_1 | senior |  
+| bip_39_word_no_space_10 | seniortripstockagreeyearrackmyselftripusecruel |  
+| bip_39_word_no_space_11 | seniortripstockagreeyearrackmyselftripusecruelhood |  
+| bip_39_word_no_space_12 | seniortripstockagreeyearrackmyselftripusecruelhoodaround |  
+| bip_39_word_no_space_2 | seniortrip |  
+| bip_39_word_no_space_3 | seniortripstock |  
+| bip_39_word_no_space_4 | seniortripstockagree |  
+| bip_39_word_no_space_5 | seniortripstockagreeyear |  
+| bip_39_word_no_space_6 | seniortripstockagreeyearrack |  
+| bip_39_word_no_space_7 | seniortripstockagreeyearrackmyself |  
+| bip_39_word_no_space_8 | seniortripstockagreeyearrackmyselftrip |  
+| bip_39_word_no_space_9 | seniortripstockagreeyearrackmyselftripuse |  
 | bip_39_word_space_0 | ['senior', 'trip', 'stock', 'agree', 'year', 'rack', 'myself', 'trip', 'use', 'cruel', 'hood', 'around'] |  
 | bip_39_word_space_1 | senior |  
 | bip_39_word_space_10 | senior trip stock agree year rack myself trip use cruel |  

@@ -122,6 +122,18 @@ uniform
 veteran
 crazy
 upon |  
+| bip_39_word_no_space_1 | near |  
+| bip_39_word_no_space_10 | nearcubepropertyvocalcloseuniformveterancrazyuponcrunch |  
+| bip_39_word_no_space_11 | nearcubepropertyvocalcloseuniformveterancrazyuponcrunchbanana |  
+| bip_39_word_no_space_12 | nearcubepropertyvocalcloseuniformveterancrazyuponcrunchbananaaisle |  
+| bip_39_word_no_space_2 | nearcube |  
+| bip_39_word_no_space_3 | nearcubeproperty |  
+| bip_39_word_no_space_4 | nearcubepropertyvocal |  
+| bip_39_word_no_space_5 | nearcubepropertyvocalclose |  
+| bip_39_word_no_space_6 | nearcubepropertyvocalcloseuniform |  
+| bip_39_word_no_space_7 | nearcubepropertyvocalcloseuniformveteran |  
+| bip_39_word_no_space_8 | nearcubepropertyvocalcloseuniformveterancrazy |  
+| bip_39_word_no_space_9 | nearcubepropertyvocalcloseuniformveterancrazyupon |  
 | bip_39_word_space_0 | ['near', 'cube', 'property', 'vocal', 'close', 'uniform', 'veteran', 'crazy', 'upon', 'crunch', 'banana', 'aisle'] |  
 | bip_39_word_space_1 | near |  
 | bip_39_word_space_10 | near cube property vocal close uniform veteran crazy upon crunch |  

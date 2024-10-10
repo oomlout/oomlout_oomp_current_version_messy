@@ -122,6 +122,18 @@ enrich
 industry
 fossil
 liar |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguar |  
+| bip_39_word_no_space_11 | mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguarvelvet |  
+| bip_39_word_no_space_12 | mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguarvelvetagent |  
+| bip_39_word_no_space_2 | mountainstrategy |  
+| bip_39_word_no_space_3 | mountainstrategyostrich |  
+| bip_39_word_no_space_4 | mountainstrategyostrichadmit |  
+| bip_39_word_no_space_5 | mountainstrategyostrichadmitcrouch |  
+| bip_39_word_no_space_6 | mountainstrategyostrichadmitcrouchenrich |  
+| bip_39_word_no_space_7 | mountainstrategyostrichadmitcrouchenrichindustry |  
+| bip_39_word_no_space_8 | mountainstrategyostrichadmitcrouchenrichindustryfossil |  
+| bip_39_word_no_space_9 | mountainstrategyostrichadmitcrouchenrichindustryfossilliar |  
 | bip_39_word_space_0 | ['mountain', 'strategy', 'ostrich', 'admit', 'crouch', 'enrich', 'industry', 'fossil', 'liar', 'jaguar', 'velvet', 'agent'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain strategy ostrich admit crouch enrich industry fossil liar jaguar |  

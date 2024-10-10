@@ -122,6 +122,18 @@ knife
 chair
 trim
 airport |  
+| bip_39_word_no_space_1 | phrase |  
+| bip_39_word_no_space_10 | phrasemovienephewlivelibertyknifechairtrimairportguess |  
+| bip_39_word_no_space_11 | phrasemovienephewlivelibertyknifechairtrimairportguessdrill |  
+| bip_39_word_no_space_12 | phrasemovienephewlivelibertyknifechairtrimairportguessdrillanalyst |  
+| bip_39_word_no_space_2 | phrasemovie |  
+| bip_39_word_no_space_3 | phrasemovienephew |  
+| bip_39_word_no_space_4 | phrasemovienephewlive |  
+| bip_39_word_no_space_5 | phrasemovienephewliveliberty |  
+| bip_39_word_no_space_6 | phrasemovienephewlivelibertyknife |  
+| bip_39_word_no_space_7 | phrasemovienephewlivelibertyknifechair |  
+| bip_39_word_no_space_8 | phrasemovienephewlivelibertyknifechairtrim |  
+| bip_39_word_no_space_9 | phrasemovienephewlivelibertyknifechairtrimairport |  
 | bip_39_word_space_0 | ['phrase', 'movie', 'nephew', 'live', 'liberty', 'knife', 'chair', 'trim', 'airport', 'guess', 'drill', 'analyst'] |  
 | bip_39_word_space_1 | phrase |  
 | bip_39_word_space_10 | phrase movie nephew live liberty knife chair trim airport guess |  

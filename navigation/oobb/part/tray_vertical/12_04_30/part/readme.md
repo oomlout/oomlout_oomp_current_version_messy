@@ -122,6 +122,18 @@ staff
 this
 pulse
 purse |  
+| bip_39_word_no_space_1 | absorb |  
+| bip_39_word_no_space_10 | absorbjacketfileworrydepartstaffthispulsepurseclump |  
+| bip_39_word_no_space_11 | absorbjacketfileworrydepartstaffthispulsepurseclumpstool |  
+| bip_39_word_no_space_12 | absorbjacketfileworrydepartstaffthispulsepurseclumpstoolanxiety |  
+| bip_39_word_no_space_2 | absorbjacket |  
+| bip_39_word_no_space_3 | absorbjacketfile |  
+| bip_39_word_no_space_4 | absorbjacketfileworry |  
+| bip_39_word_no_space_5 | absorbjacketfileworrydepart |  
+| bip_39_word_no_space_6 | absorbjacketfileworrydepartstaff |  
+| bip_39_word_no_space_7 | absorbjacketfileworrydepartstaffthis |  
+| bip_39_word_no_space_8 | absorbjacketfileworrydepartstaffthispulse |  
+| bip_39_word_no_space_9 | absorbjacketfileworrydepartstaffthispulsepurse |  
 | bip_39_word_space_0 | ['absorb', 'jacket', 'file', 'worry', 'depart', 'staff', 'this', 'pulse', 'purse', 'clump', 'stool', 'anxiety'] |  
 | bip_39_word_space_1 | absorb |  
 | bip_39_word_space_10 | absorb jacket file worry depart staff this pulse purse clump |  

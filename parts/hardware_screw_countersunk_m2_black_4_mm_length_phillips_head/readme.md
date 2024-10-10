@@ -122,6 +122,18 @@ arrive
 noodle
 praise
 rib |  
+| bip_39_word_no_space_1 | opera |  
+| bip_39_word_no_space_10 | operausagestairsjobenterarrivenoodlepraiseribleg |  
+| bip_39_word_no_space_11 | operausagestairsjobenterarrivenoodlepraiseribleghamster |  
+| bip_39_word_no_space_12 | operausagestairsjobenterarrivenoodlepraiseribleghamsteranimal |  
+| bip_39_word_no_space_2 | operausage |  
+| bip_39_word_no_space_3 | operausagestairs |  
+| bip_39_word_no_space_4 | operausagestairsjob |  
+| bip_39_word_no_space_5 | operausagestairsjobenter |  
+| bip_39_word_no_space_6 | operausagestairsjobenterarrive |  
+| bip_39_word_no_space_7 | operausagestairsjobenterarrivenoodle |  
+| bip_39_word_no_space_8 | operausagestairsjobenterarrivenoodlepraise |  
+| bip_39_word_no_space_9 | operausagestairsjobenterarrivenoodlepraiserib |  
 | bip_39_word_space_0 | ['opera', 'usage', 'stairs', 'job', 'enter', 'arrive', 'noodle', 'praise', 'rib', 'leg', 'hamster', 'animal'] |  
 | bip_39_word_space_1 | opera |  
 | bip_39_word_space_10 | opera usage stairs job enter arrive noodle praise rib leg |  

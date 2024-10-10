@@ -122,6 +122,18 @@ liar
 cluster
 canvas
 concert |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wiredizzyfruitdiseasetotalliarclustercanvasconcertfind |  
+| bip_39_word_no_space_11 | wiredizzyfruitdiseasetotalliarclustercanvasconcertfindresource |  
+| bip_39_word_no_space_12 | wiredizzyfruitdiseasetotalliarclustercanvasconcertfindresourcealter |  
+| bip_39_word_no_space_2 | wiredizzy |  
+| bip_39_word_no_space_3 | wiredizzyfruit |  
+| bip_39_word_no_space_4 | wiredizzyfruitdisease |  
+| bip_39_word_no_space_5 | wiredizzyfruitdiseasetotal |  
+| bip_39_word_no_space_6 | wiredizzyfruitdiseasetotalliar |  
+| bip_39_word_no_space_7 | wiredizzyfruitdiseasetotalliarcluster |  
+| bip_39_word_no_space_8 | wiredizzyfruitdiseasetotalliarclustercanvas |  
+| bip_39_word_no_space_9 | wiredizzyfruitdiseasetotalliarclustercanvasconcert |  
 | bip_39_word_space_0 | ['wire', 'dizzy', 'fruit', 'disease', 'total', 'liar', 'cluster', 'canvas', 'concert', 'find', 'resource', 'alter'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire dizzy fruit disease total liar cluster canvas concert find |  

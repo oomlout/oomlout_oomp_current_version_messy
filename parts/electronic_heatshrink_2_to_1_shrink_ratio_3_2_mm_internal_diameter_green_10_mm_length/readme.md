@@ -122,6 +122,18 @@ ready
 bread
 rural
 minute |  
+| bip_39_word_no_space_1 | search |  
+| bip_39_word_no_space_10 | searchprettypondaheadtherereadybreadruralminutecushion |  
+| bip_39_word_no_space_11 | searchprettypondaheadtherereadybreadruralminutecushioncandy |  
+| bip_39_word_no_space_12 | searchprettypondaheadtherereadybreadruralminutecushioncandyauthor |  
+| bip_39_word_no_space_2 | searchpretty |  
+| bip_39_word_no_space_3 | searchprettypond |  
+| bip_39_word_no_space_4 | searchprettypondahead |  
+| bip_39_word_no_space_5 | searchprettypondaheadthere |  
+| bip_39_word_no_space_6 | searchprettypondaheadthereready |  
+| bip_39_word_no_space_7 | searchprettypondaheadtherereadybread |  
+| bip_39_word_no_space_8 | searchprettypondaheadtherereadybreadrural |  
+| bip_39_word_no_space_9 | searchprettypondaheadtherereadybreadruralminute |  
 | bip_39_word_space_0 | ['search', 'pretty', 'pond', 'ahead', 'there', 'ready', 'bread', 'rural', 'minute', 'cushion', 'candy', 'author'] |  
 | bip_39_word_space_1 | search |  
 | bip_39_word_space_10 | search pretty pond ahead there ready bread rural minute cushion |  

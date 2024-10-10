@@ -122,6 +122,18 @@ exchange
 cause
 bundle
 hand |  
+| bip_39_word_no_space_1 | amused |  
+| bip_39_word_no_space_10 | amusedshivertapedreamglareexchangecausebundlehandtalk |  
+| bip_39_word_no_space_11 | amusedshivertapedreamglareexchangecausebundlehandtalkcannon |  
+| bip_39_word_no_space_12 | amusedshivertapedreamglareexchangecausebundlehandtalkcannonaddict |  
+| bip_39_word_no_space_2 | amusedshiver |  
+| bip_39_word_no_space_3 | amusedshivertape |  
+| bip_39_word_no_space_4 | amusedshivertapedream |  
+| bip_39_word_no_space_5 | amusedshivertapedreamglare |  
+| bip_39_word_no_space_6 | amusedshivertapedreamglareexchange |  
+| bip_39_word_no_space_7 | amusedshivertapedreamglareexchangecause |  
+| bip_39_word_no_space_8 | amusedshivertapedreamglareexchangecausebundle |  
+| bip_39_word_no_space_9 | amusedshivertapedreamglareexchangecausebundlehand |  
 | bip_39_word_space_0 | ['amused', 'shiver', 'tape', 'dream', 'glare', 'exchange', 'cause', 'bundle', 'hand', 'talk', 'cannon', 'addict'] |  
 | bip_39_word_space_1 | amused |  
 | bip_39_word_space_10 | amused shiver tape dream glare exchange cause bundle hand talk |  

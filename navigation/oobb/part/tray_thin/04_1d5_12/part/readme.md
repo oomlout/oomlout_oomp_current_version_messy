@@ -122,6 +122,18 @@ accident
 icon
 deputy
 enlist |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wirerefusesolarpinklinkaccidenticondeputyenlistexpress |  
+| bip_39_word_no_space_11 | wirerefusesolarpinklinkaccidenticondeputyenlistexpressabandon |  
+| bip_39_word_no_space_12 | wirerefusesolarpinklinkaccidenticondeputyenlistexpressabandonany |  
+| bip_39_word_no_space_2 | wirerefuse |  
+| bip_39_word_no_space_3 | wirerefusesolar |  
+| bip_39_word_no_space_4 | wirerefusesolarpink |  
+| bip_39_word_no_space_5 | wirerefusesolarpinklink |  
+| bip_39_word_no_space_6 | wirerefusesolarpinklinkaccident |  
+| bip_39_word_no_space_7 | wirerefusesolarpinklinkaccidenticon |  
+| bip_39_word_no_space_8 | wirerefusesolarpinklinkaccidenticondeputy |  
+| bip_39_word_no_space_9 | wirerefusesolarpinklinkaccidenticondeputyenlist |  
 | bip_39_word_space_0 | ['wire', 'refuse', 'solar', 'pink', 'link', 'accident', 'icon', 'deputy', 'enlist', 'express', 'abandon', 'any'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire refuse solar pink link accident icon deputy enlist express |  

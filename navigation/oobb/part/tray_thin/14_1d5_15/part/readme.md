@@ -122,6 +122,18 @@ era
 cake
 trumpet
 snake |  
+| bip_39_word_no_space_1 | purpose |  
+| bip_39_word_no_space_10 | purposenewslaborsugarholderacaketrumpetsnakefood |  
+| bip_39_word_no_space_11 | purposenewslaborsugarholderacaketrumpetsnakefoodbetray |  
+| bip_39_word_no_space_12 | purposenewslaborsugarholderacaketrumpetsnakefoodbetrayacoustic |  
+| bip_39_word_no_space_2 | purposenews |  
+| bip_39_word_no_space_3 | purposenewslabor |  
+| bip_39_word_no_space_4 | purposenewslaborsugar |  
+| bip_39_word_no_space_5 | purposenewslaborsugarhold |  
+| bip_39_word_no_space_6 | purposenewslaborsugarholdera |  
+| bip_39_word_no_space_7 | purposenewslaborsugarholderacake |  
+| bip_39_word_no_space_8 | purposenewslaborsugarholderacaketrumpet |  
+| bip_39_word_no_space_9 | purposenewslaborsugarholderacaketrumpetsnake |  
 | bip_39_word_space_0 | ['purpose', 'news', 'labor', 'sugar', 'hold', 'era', 'cake', 'trumpet', 'snake', 'food', 'betray', 'acoustic'] |  
 | bip_39_word_space_1 | purpose |  
 | bip_39_word_space_10 | purpose news labor sugar hold era cake trumpet snake food |  

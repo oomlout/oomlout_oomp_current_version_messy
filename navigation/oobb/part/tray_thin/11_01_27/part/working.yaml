@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'icon
   float
 
   toddler'
+bip_39_word_no_space_1: icon
+bip_39_word_no_space_10: iconableflightorangescraplensemotionfloattoddlertopple
+bip_39_word_no_space_11: iconableflightorangescraplensemotionfloattoddlertopplefamous
+bip_39_word_no_space_12: iconableflightorangescraplensemotionfloattoddlertopplefamousanimal
+bip_39_word_no_space_2: iconable
+bip_39_word_no_space_3: iconableflight
+bip_39_word_no_space_4: iconableflightorange
+bip_39_word_no_space_5: iconableflightorangescrap
+bip_39_word_no_space_6: iconableflightorangescraplens
+bip_39_word_no_space_7: iconableflightorangescraplensemotion
+bip_39_word_no_space_8: iconableflightorangescraplensemotionfloat
+bip_39_word_no_space_9: iconableflightorangescraplensemotionfloattoddler
 bip_39_word_space_0:
 - icon
 - able

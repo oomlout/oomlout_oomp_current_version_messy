@@ -122,6 +122,18 @@ useless
 parrot
 heart
 upon |  
+| bip_39_word_no_space_1 | adapt |  
+| bip_39_word_no_space_10 | adapttowerlazyrebeleffortuselessparrotheartuponpipe |  
+| bip_39_word_no_space_11 | adapttowerlazyrebeleffortuselessparrotheartuponpipedenial |  
+| bip_39_word_no_space_12 | adapttowerlazyrebeleffortuselessparrotheartuponpipedenialamused |  
+| bip_39_word_no_space_2 | adapttower |  
+| bip_39_word_no_space_3 | adapttowerlazy |  
+| bip_39_word_no_space_4 | adapttowerlazyrebel |  
+| bip_39_word_no_space_5 | adapttowerlazyrebeleffort |  
+| bip_39_word_no_space_6 | adapttowerlazyrebeleffortuseless |  
+| bip_39_word_no_space_7 | adapttowerlazyrebeleffortuselessparrot |  
+| bip_39_word_no_space_8 | adapttowerlazyrebeleffortuselessparrotheart |  
+| bip_39_word_no_space_9 | adapttowerlazyrebeleffortuselessparrotheartupon |  
 | bip_39_word_space_0 | ['adapt', 'tower', 'lazy', 'rebel', 'effort', 'useless', 'parrot', 'heart', 'upon', 'pipe', 'denial', 'amused'] |  
 | bip_39_word_space_1 | adapt |  
 | bip_39_word_space_10 | adapt tower lazy rebel effort useless parrot heart upon pipe |  

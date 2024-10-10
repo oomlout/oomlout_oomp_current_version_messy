@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'donate
   surprise
 
   shed'
+bip_39_word_no_space_1: donate
+bip_39_word_no_space_10: donaterepeatpalmgritnoisesingkeensurpriseshedbecause
+bip_39_word_no_space_11: donaterepeatpalmgritnoisesingkeensurpriseshedbecauseroute
+bip_39_word_no_space_12: donaterepeatpalmgritnoisesingkeensurpriseshedbecauserouteabstract
+bip_39_word_no_space_2: donaterepeat
+bip_39_word_no_space_3: donaterepeatpalm
+bip_39_word_no_space_4: donaterepeatpalmgrit
+bip_39_word_no_space_5: donaterepeatpalmgritnoise
+bip_39_word_no_space_6: donaterepeatpalmgritnoisesing
+bip_39_word_no_space_7: donaterepeatpalmgritnoisesingkeen
+bip_39_word_no_space_8: donaterepeatpalmgritnoisesingkeensurprise
+bip_39_word_no_space_9: donaterepeatpalmgritnoisesingkeensurpriseshed
 bip_39_word_space_0:
 - donate
 - repeat

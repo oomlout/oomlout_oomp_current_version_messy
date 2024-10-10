@@ -122,6 +122,18 @@ unhappy
 merry
 style
 raw |  
+| bip_39_word_no_space_1 | poet |  
+| bip_39_word_no_space_10 | poetorangejunglenationswordunhappymerrystylerawremain |  
+| bip_39_word_no_space_11 | poetorangejunglenationswordunhappymerrystylerawremainvarious |  
+| bip_39_word_no_space_12 | poetorangejunglenationswordunhappymerrystylerawremainvariousattack |  
+| bip_39_word_no_space_2 | poetorange |  
+| bip_39_word_no_space_3 | poetorangejungle |  
+| bip_39_word_no_space_4 | poetorangejunglenation |  
+| bip_39_word_no_space_5 | poetorangejunglenationsword |  
+| bip_39_word_no_space_6 | poetorangejunglenationswordunhappy |  
+| bip_39_word_no_space_7 | poetorangejunglenationswordunhappymerry |  
+| bip_39_word_no_space_8 | poetorangejunglenationswordunhappymerrystyle |  
+| bip_39_word_no_space_9 | poetorangejunglenationswordunhappymerrystyleraw |  
 | bip_39_word_space_0 | ['poet', 'orange', 'jungle', 'nation', 'sword', 'unhappy', 'merry', 'style', 'raw', 'remain', 'various', 'attack'] |  
 | bip_39_word_space_1 | poet |  
 | bip_39_word_space_10 | poet orange jungle nation sword unhappy merry style raw remain |  

@@ -122,6 +122,18 @@ region
 beyond
 material
 asthma |  
+| bip_39_word_no_space_1 | brass |  
+| bip_39_word_no_space_10 | brassmajorvictoryoffercolorregionbeyondmaterialasthmaworry |  
+| bip_39_word_no_space_11 | brassmajorvictoryoffercolorregionbeyondmaterialasthmaworryriot |  
+| bip_39_word_no_space_12 | brassmajorvictoryoffercolorregionbeyondmaterialasthmaworryriotaspect |  
+| bip_39_word_no_space_2 | brassmajor |  
+| bip_39_word_no_space_3 | brassmajorvictory |  
+| bip_39_word_no_space_4 | brassmajorvictoryoffer |  
+| bip_39_word_no_space_5 | brassmajorvictoryoffercolor |  
+| bip_39_word_no_space_6 | brassmajorvictoryoffercolorregion |  
+| bip_39_word_no_space_7 | brassmajorvictoryoffercolorregionbeyond |  
+| bip_39_word_no_space_8 | brassmajorvictoryoffercolorregionbeyondmaterial |  
+| bip_39_word_no_space_9 | brassmajorvictoryoffercolorregionbeyondmaterialasthma |  
 | bip_39_word_space_0 | ['brass', 'major', 'victory', 'offer', 'color', 'region', 'beyond', 'material', 'asthma', 'worry', 'riot', 'aspect'] |  
 | bip_39_word_space_1 | brass |  
 | bip_39_word_space_10 | brass major victory offer color region beyond material asthma worry |  

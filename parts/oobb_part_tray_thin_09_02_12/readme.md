@@ -122,6 +122,18 @@ fox
 business
 episode
 rule |  
+| bip_39_word_no_space_1 | train |  
+| bip_39_word_no_space_10 | trainsegmentwrecksurpriseoperafoxbusinessepisoderuleterm |  
+| bip_39_word_no_space_11 | trainsegmentwrecksurpriseoperafoxbusinessepisoderuletermarrange |  
+| bip_39_word_no_space_12 | trainsegmentwrecksurpriseoperafoxbusinessepisoderuletermarrangeabout |  
+| bip_39_word_no_space_2 | trainsegment |  
+| bip_39_word_no_space_3 | trainsegmentwreck |  
+| bip_39_word_no_space_4 | trainsegmentwrecksurprise |  
+| bip_39_word_no_space_5 | trainsegmentwrecksurpriseopera |  
+| bip_39_word_no_space_6 | trainsegmentwrecksurpriseoperafox |  
+| bip_39_word_no_space_7 | trainsegmentwrecksurpriseoperafoxbusiness |  
+| bip_39_word_no_space_8 | trainsegmentwrecksurpriseoperafoxbusinessepisode |  
+| bip_39_word_no_space_9 | trainsegmentwrecksurpriseoperafoxbusinessepisoderule |  
 | bip_39_word_space_0 | ['train', 'segment', 'wreck', 'surprise', 'opera', 'fox', 'business', 'episode', 'rule', 'term', 'arrange', 'about'] |  
 | bip_39_word_space_1 | train |  
 | bip_39_word_space_10 | train segment wreck surprise opera fox business episode rule term |  

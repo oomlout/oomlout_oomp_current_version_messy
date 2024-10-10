@@ -122,6 +122,18 @@ machine
 police
 garage
 fun |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlmachinepatternfiscalblastmachinepolicegaragefunforget |  
+| bip_39_word_no_space_11 | crawlmachinepatternfiscalblastmachinepolicegaragefunforgetcoin |  
+| bip_39_word_no_space_12 | crawlmachinepatternfiscalblastmachinepolicegaragefunforgetcoinartwork |  
+| bip_39_word_no_space_2 | crawlmachine |  
+| bip_39_word_no_space_3 | crawlmachinepattern |  
+| bip_39_word_no_space_4 | crawlmachinepatternfiscal |  
+| bip_39_word_no_space_5 | crawlmachinepatternfiscalblast |  
+| bip_39_word_no_space_6 | crawlmachinepatternfiscalblastmachine |  
+| bip_39_word_no_space_7 | crawlmachinepatternfiscalblastmachinepolice |  
+| bip_39_word_no_space_8 | crawlmachinepatternfiscalblastmachinepolicegarage |  
+| bip_39_word_no_space_9 | crawlmachinepatternfiscalblastmachinepolicegaragefun |  
 | bip_39_word_space_0 | ['crawl', 'machine', 'pattern', 'fiscal', 'blast', 'machine', 'police', 'garage', 'fun', 'forget', 'coin', 'artwork'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl machine pattern fiscal blast machine police garage fun forget |  

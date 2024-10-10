@@ -122,6 +122,18 @@ icon
 outside
 bonus
 quantum |  
+| bip_39_word_no_space_1 | fashion |  
+| bip_39_word_no_space_10 | fashionneckcabinstepslowiconoutsidebonusquantumarmy |  
+| bip_39_word_no_space_11 | fashionneckcabinstepslowiconoutsidebonusquantumarmyretire |  
+| bip_39_word_no_space_12 | fashionneckcabinstepslowiconoutsidebonusquantumarmyretireantique |  
+| bip_39_word_no_space_2 | fashionneck |  
+| bip_39_word_no_space_3 | fashionneckcabin |  
+| bip_39_word_no_space_4 | fashionneckcabinstep |  
+| bip_39_word_no_space_5 | fashionneckcabinstepslow |  
+| bip_39_word_no_space_6 | fashionneckcabinstepslowicon |  
+| bip_39_word_no_space_7 | fashionneckcabinstepslowiconoutside |  
+| bip_39_word_no_space_8 | fashionneckcabinstepslowiconoutsidebonus |  
+| bip_39_word_no_space_9 | fashionneckcabinstepslowiconoutsidebonusquantum |  
 | bip_39_word_space_0 | ['fashion', 'neck', 'cabin', 'step', 'slow', 'icon', 'outside', 'bonus', 'quantum', 'army', 'retire', 'antique'] |  
 | bip_39_word_space_1 | fashion |  
 | bip_39_word_space_10 | fashion neck cabin step slow icon outside bonus quantum army |  

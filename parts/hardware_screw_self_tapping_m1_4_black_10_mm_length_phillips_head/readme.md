@@ -122,6 +122,18 @@ media
 flower
 banana
 casino |  
+| bip_39_word_no_space_1 | imitate |  
+| bip_39_word_no_space_10 | imitateswitchbalconyroutecagemediaflowerbananacasinohard |  
+| bip_39_word_no_space_11 | imitateswitchbalconyroutecagemediaflowerbananacasinohardindoor |  
+| bip_39_word_no_space_12 | imitateswitchbalconyroutecagemediaflowerbananacasinohardindoorarm |  
+| bip_39_word_no_space_2 | imitateswitch |  
+| bip_39_word_no_space_3 | imitateswitchbalcony |  
+| bip_39_word_no_space_4 | imitateswitchbalconyroute |  
+| bip_39_word_no_space_5 | imitateswitchbalconyroutecage |  
+| bip_39_word_no_space_6 | imitateswitchbalconyroutecagemedia |  
+| bip_39_word_no_space_7 | imitateswitchbalconyroutecagemediaflower |  
+| bip_39_word_no_space_8 | imitateswitchbalconyroutecagemediaflowerbanana |  
+| bip_39_word_no_space_9 | imitateswitchbalconyroutecagemediaflowerbananacasino |  
 | bip_39_word_space_0 | ['imitate', 'switch', 'balcony', 'route', 'cage', 'media', 'flower', 'banana', 'casino', 'hard', 'indoor', 'arm'] |  
 | bip_39_word_space_1 | imitate |  
 | bip_39_word_space_10 | imitate switch balcony route cage media flower banana casino hard |  

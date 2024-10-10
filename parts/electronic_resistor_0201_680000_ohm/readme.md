@@ -122,6 +122,18 @@ manual
 system
 knife
 poet |  
+| bip_39_word_no_space_1 | negative |  
+| bip_39_word_no_space_10 | negativeartefacthistoryrampevokemanualsystemknifepoetgallery |  
+| bip_39_word_no_space_11 | negativeartefacthistoryrampevokemanualsystemknifepoetgallerydirect |  
+| bip_39_word_no_space_12 | negativeartefacthistoryrampevokemanualsystemknifepoetgallerydirectamateur |  
+| bip_39_word_no_space_2 | negativeartefact |  
+| bip_39_word_no_space_3 | negativeartefacthistory |  
+| bip_39_word_no_space_4 | negativeartefacthistoryramp |  
+| bip_39_word_no_space_5 | negativeartefacthistoryrampevoke |  
+| bip_39_word_no_space_6 | negativeartefacthistoryrampevokemanual |  
+| bip_39_word_no_space_7 | negativeartefacthistoryrampevokemanualsystem |  
+| bip_39_word_no_space_8 | negativeartefacthistoryrampevokemanualsystemknife |  
+| bip_39_word_no_space_9 | negativeartefacthistoryrampevokemanualsystemknifepoet |  
 | bip_39_word_space_0 | ['negative', 'artefact', 'history', 'ramp', 'evoke', 'manual', 'system', 'knife', 'poet', 'gallery', 'direct', 'amateur'] |  
 | bip_39_word_space_1 | negative |  
 | bip_39_word_space_10 | negative artefact history ramp evoke manual system knife poet gallery |  

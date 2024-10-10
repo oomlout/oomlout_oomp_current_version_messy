@@ -122,6 +122,18 @@ sense
 pass
 decide
 cousin |  
+| bip_39_word_no_space_1 | poet |  
+| bip_39_word_no_space_10 | poetparentclerkpromoteresponsesensepassdecidecousinowner |  
+| bip_39_word_no_space_11 | poetparentclerkpromoteresponsesensepassdecidecousinownerwagon |  
+| bip_39_word_no_space_12 | poetparentclerkpromoteresponsesensepassdecidecousinownerwagonabsurd |  
+| bip_39_word_no_space_2 | poetparent |  
+| bip_39_word_no_space_3 | poetparentclerk |  
+| bip_39_word_no_space_4 | poetparentclerkpromote |  
+| bip_39_word_no_space_5 | poetparentclerkpromoteresponse |  
+| bip_39_word_no_space_6 | poetparentclerkpromoteresponsesense |  
+| bip_39_word_no_space_7 | poetparentclerkpromoteresponsesensepass |  
+| bip_39_word_no_space_8 | poetparentclerkpromoteresponsesensepassdecide |  
+| bip_39_word_no_space_9 | poetparentclerkpromoteresponsesensepassdecidecousin |  
 | bip_39_word_space_0 | ['poet', 'parent', 'clerk', 'promote', 'response', 'sense', 'pass', 'decide', 'cousin', 'owner', 'wagon', 'absurd'] |  
 | bip_39_word_space_1 | poet |  
 | bip_39_word_space_10 | poet parent clerk promote response sense pass decide cousin owner |  

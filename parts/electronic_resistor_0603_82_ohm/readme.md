@@ -122,6 +122,18 @@ lift
 jump
 snap
 robust |  
+| bip_39_word_no_space_1 | evolve |  
+| bip_39_word_no_space_10 | evolvestandevolverecallevidenceliftjumpsnaprobuststomach |  
+| bip_39_word_no_space_11 | evolvestandevolverecallevidenceliftjumpsnaprobuststomachconcert |  
+| bip_39_word_no_space_12 | evolvestandevolverecallevidenceliftjumpsnaprobuststomachconcertamused |  
+| bip_39_word_no_space_2 | evolvestand |  
+| bip_39_word_no_space_3 | evolvestandevolve |  
+| bip_39_word_no_space_4 | evolvestandevolverecall |  
+| bip_39_word_no_space_5 | evolvestandevolverecallevidence |  
+| bip_39_word_no_space_6 | evolvestandevolverecallevidencelift |  
+| bip_39_word_no_space_7 | evolvestandevolverecallevidenceliftjump |  
+| bip_39_word_no_space_8 | evolvestandevolverecallevidenceliftjumpsnap |  
+| bip_39_word_no_space_9 | evolvestandevolverecallevidenceliftjumpsnaprobust |  
 | bip_39_word_space_0 | ['evolve', 'stand', 'evolve', 'recall', 'evidence', 'lift', 'jump', 'snap', 'robust', 'stomach', 'concert', 'amused'] |  
 | bip_39_word_space_1 | evolve |  
 | bip_39_word_space_10 | evolve stand evolve recall evidence lift jump snap robust stomach |  

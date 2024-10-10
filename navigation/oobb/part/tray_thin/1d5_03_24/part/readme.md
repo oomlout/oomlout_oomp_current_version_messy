@@ -122,6 +122,18 @@ prevent
 scan
 rigid
 bean |  
+| bip_39_word_no_space_1 | art |  
+| bip_39_word_no_space_10 | artduckslushenrichclawpreventscanrigidbeanbike |  
+| bip_39_word_no_space_11 | artduckslushenrichclawpreventscanrigidbeanbikemusic |  
+| bip_39_word_no_space_12 | artduckslushenrichclawpreventscanrigidbeanbikemusicact |  
+| bip_39_word_no_space_2 | artduck |  
+| bip_39_word_no_space_3 | artduckslush |  
+| bip_39_word_no_space_4 | artduckslushenrich |  
+| bip_39_word_no_space_5 | artduckslushenrichclaw |  
+| bip_39_word_no_space_6 | artduckslushenrichclawprevent |  
+| bip_39_word_no_space_7 | artduckslushenrichclawpreventscan |  
+| bip_39_word_no_space_8 | artduckslushenrichclawpreventscanrigid |  
+| bip_39_word_no_space_9 | artduckslushenrichclawpreventscanrigidbean |  
 | bip_39_word_space_0 | ['art', 'duck', 'slush', 'enrich', 'claw', 'prevent', 'scan', 'rigid', 'bean', 'bike', 'music', 'act'] |  
 | bip_39_word_space_1 | art |  
 | bip_39_word_space_10 | art duck slush enrich claw prevent scan rigid bean bike |  

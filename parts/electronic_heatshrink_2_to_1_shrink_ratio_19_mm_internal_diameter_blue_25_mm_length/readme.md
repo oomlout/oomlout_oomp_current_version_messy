@@ -122,6 +122,18 @@ senior
 scrub
 hip
 damp |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblerookiejointurtlevictoryseniorscrubhipdampdonate |  
+| bip_39_word_no_space_11 | marblerookiejointurtlevictoryseniorscrubhipdampdonatecouch |  
+| bip_39_word_no_space_12 | marblerookiejointurtlevictoryseniorscrubhipdampdonatecouchanalyst |  
+| bip_39_word_no_space_2 | marblerookie |  
+| bip_39_word_no_space_3 | marblerookiejoin |  
+| bip_39_word_no_space_4 | marblerookiejointurtle |  
+| bip_39_word_no_space_5 | marblerookiejointurtlevictory |  
+| bip_39_word_no_space_6 | marblerookiejointurtlevictorysenior |  
+| bip_39_word_no_space_7 | marblerookiejointurtlevictoryseniorscrub |  
+| bip_39_word_no_space_8 | marblerookiejointurtlevictoryseniorscrubhip |  
+| bip_39_word_no_space_9 | marblerookiejointurtlevictoryseniorscrubhipdamp |  
 | bip_39_word_space_0 | ['marble', 'rookie', 'join', 'turtle', 'victory', 'senior', 'scrub', 'hip', 'damp', 'donate', 'couch', 'analyst'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble rookie join turtle victory senior scrub hip damp donate |  

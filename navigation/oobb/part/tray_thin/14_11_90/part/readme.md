@@ -122,6 +122,18 @@ space
 foam
 engage
 refuse |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blousefurybunkerribbonislandspacefoamengagerefuseprevent |  
+| bip_39_word_no_space_11 | blousefurybunkerribbonislandspacefoamengagerefusepreventnumber |  
+| bip_39_word_no_space_12 | blousefurybunkerribbonislandspacefoamengagerefusepreventnumberartwork |  
+| bip_39_word_no_space_2 | blousefury |  
+| bip_39_word_no_space_3 | blousefurybunker |  
+| bip_39_word_no_space_4 | blousefurybunkerribbon |  
+| bip_39_word_no_space_5 | blousefurybunkerribbonisland |  
+| bip_39_word_no_space_6 | blousefurybunkerribbonislandspace |  
+| bip_39_word_no_space_7 | blousefurybunkerribbonislandspacefoam |  
+| bip_39_word_no_space_8 | blousefurybunkerribbonislandspacefoamengage |  
+| bip_39_word_no_space_9 | blousefurybunkerribbonislandspacefoamengagerefuse |  
 | bip_39_word_space_0 | ['blouse', 'fury', 'bunker', 'ribbon', 'island', 'space', 'foam', 'engage', 'refuse', 'prevent', 'number', 'artwork'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse fury bunker ribbon island space foam engage refuse prevent |  

@@ -122,6 +122,18 @@ actor
 accident
 harbor
 solid |  
+| bip_39_word_no_space_1 | garment |  
+| bip_39_word_no_space_10 | garmentsoccerrepeatrippleslabactoraccidentharborsolidfun |  
+| bip_39_word_no_space_11 | garmentsoccerrepeatrippleslabactoraccidentharborsolidfunscreen |  
+| bip_39_word_no_space_12 | garmentsoccerrepeatrippleslabactoraccidentharborsolidfunscreenaffair |  
+| bip_39_word_no_space_2 | garmentsoccer |  
+| bip_39_word_no_space_3 | garmentsoccerrepeat |  
+| bip_39_word_no_space_4 | garmentsoccerrepeatripple |  
+| bip_39_word_no_space_5 | garmentsoccerrepeatrippleslab |  
+| bip_39_word_no_space_6 | garmentsoccerrepeatrippleslabactor |  
+| bip_39_word_no_space_7 | garmentsoccerrepeatrippleslabactoraccident |  
+| bip_39_word_no_space_8 | garmentsoccerrepeatrippleslabactoraccidentharbor |  
+| bip_39_word_no_space_9 | garmentsoccerrepeatrippleslabactoraccidentharborsolid |  
 | bip_39_word_space_0 | ['garment', 'soccer', 'repeat', 'ripple', 'slab', 'actor', 'accident', 'harbor', 'solid', 'fun', 'screen', 'affair'] |  
 | bip_39_word_space_1 | garment |  
 | bip_39_word_space_10 | garment soccer repeat ripple slab actor accident harbor solid fun |  

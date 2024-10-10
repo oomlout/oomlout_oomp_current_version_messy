@@ -122,6 +122,18 @@ repeat
 maze
 answer
 shallow |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampcalllonelybubbleshiprepeatmazeanswershallowinjury |  
+| bip_39_word_no_space_11 | stampcalllonelybubbleshiprepeatmazeanswershallowinjurygossip |  
+| bip_39_word_no_space_12 | stampcalllonelybubbleshiprepeatmazeanswershallowinjurygossipartefact |  
+| bip_39_word_no_space_2 | stampcall |  
+| bip_39_word_no_space_3 | stampcalllonely |  
+| bip_39_word_no_space_4 | stampcalllonelybubble |  
+| bip_39_word_no_space_5 | stampcalllonelybubbleship |  
+| bip_39_word_no_space_6 | stampcalllonelybubbleshiprepeat |  
+| bip_39_word_no_space_7 | stampcalllonelybubbleshiprepeatmaze |  
+| bip_39_word_no_space_8 | stampcalllonelybubbleshiprepeatmazeanswer |  
+| bip_39_word_no_space_9 | stampcalllonelybubbleshiprepeatmazeanswershallow |  
 | bip_39_word_space_0 | ['stamp', 'call', 'lonely', 'bubble', 'ship', 'repeat', 'maze', 'answer', 'shallow', 'injury', 'gossip', 'artefact'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp call lonely bubble ship repeat maze answer shallow injury |  

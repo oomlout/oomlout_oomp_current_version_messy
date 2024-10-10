@@ -122,6 +122,18 @@ seminar
 run
 come
 coconut |  
+| bip_39_word_no_space_1 | wife |  
+| bip_39_word_no_space_10 | wifebeautyinnocentjokecoilseminarruncomecoconutwealth |  
+| bip_39_word_no_space_11 | wifebeautyinnocentjokecoilseminarruncomecoconutwealthbuild |  
+| bip_39_word_no_space_12 | wifebeautyinnocentjokecoilseminarruncomecoconutwealthbuildaffair |  
+| bip_39_word_no_space_2 | wifebeauty |  
+| bip_39_word_no_space_3 | wifebeautyinnocent |  
+| bip_39_word_no_space_4 | wifebeautyinnocentjoke |  
+| bip_39_word_no_space_5 | wifebeautyinnocentjokecoil |  
+| bip_39_word_no_space_6 | wifebeautyinnocentjokecoilseminar |  
+| bip_39_word_no_space_7 | wifebeautyinnocentjokecoilseminarrun |  
+| bip_39_word_no_space_8 | wifebeautyinnocentjokecoilseminarruncome |  
+| bip_39_word_no_space_9 | wifebeautyinnocentjokecoilseminarruncomecoconut |  
 | bip_39_word_space_0 | ['wife', 'beauty', 'innocent', 'joke', 'coil', 'seminar', 'run', 'come', 'coconut', 'wealth', 'build', 'affair'] |  
 | bip_39_word_space_1 | wife |  
 | bip_39_word_space_10 | wife beauty innocent joke coil seminar run come coconut wealth |  

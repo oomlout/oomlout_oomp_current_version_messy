@@ -122,6 +122,18 @@ illegal
 argue
 neglect
 east |  
+| bip_39_word_no_space_1 | federal |  
+| bip_39_word_no_space_10 | federaldeclinerigidmoonutilityillegalargueneglecteastkitchen |  
+| bip_39_word_no_space_11 | federaldeclinerigidmoonutilityillegalargueneglecteastkitchenfeed |  
+| bip_39_word_no_space_12 | federaldeclinerigidmoonutilityillegalargueneglecteastkitchenfeedarrest |  
+| bip_39_word_no_space_2 | federaldecline |  
+| bip_39_word_no_space_3 | federaldeclinerigid |  
+| bip_39_word_no_space_4 | federaldeclinerigidmoon |  
+| bip_39_word_no_space_5 | federaldeclinerigidmoonutility |  
+| bip_39_word_no_space_6 | federaldeclinerigidmoonutilityillegal |  
+| bip_39_word_no_space_7 | federaldeclinerigidmoonutilityillegalargue |  
+| bip_39_word_no_space_8 | federaldeclinerigidmoonutilityillegalargueneglect |  
+| bip_39_word_no_space_9 | federaldeclinerigidmoonutilityillegalargueneglecteast |  
 | bip_39_word_space_0 | ['federal', 'decline', 'rigid', 'moon', 'utility', 'illegal', 'argue', 'neglect', 'east', 'kitchen', 'feed', 'arrest'] |  
 | bip_39_word_space_1 | federal |  
 | bip_39_word_space_10 | federal decline rigid moon utility illegal argue neglect east kitchen |  

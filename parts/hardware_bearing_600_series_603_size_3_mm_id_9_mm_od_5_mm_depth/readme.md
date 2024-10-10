@@ -122,6 +122,18 @@ awesome
 fit
 bag
 guard |  
+| bip_39_word_no_space_1 | balcony |  
+| bip_39_word_no_space_10 | balconychickencapitalcurtainsortawesomefitbagguardart |  
+| bip_39_word_no_space_11 | balconychickencapitalcurtainsortawesomefitbagguardartgallery |  
+| bip_39_word_no_space_12 | balconychickencapitalcurtainsortawesomefitbagguardartgalleryadjust |  
+| bip_39_word_no_space_2 | balconychicken |  
+| bip_39_word_no_space_3 | balconychickencapital |  
+| bip_39_word_no_space_4 | balconychickencapitalcurtain |  
+| bip_39_word_no_space_5 | balconychickencapitalcurtainsort |  
+| bip_39_word_no_space_6 | balconychickencapitalcurtainsortawesome |  
+| bip_39_word_no_space_7 | balconychickencapitalcurtainsortawesomefit |  
+| bip_39_word_no_space_8 | balconychickencapitalcurtainsortawesomefitbag |  
+| bip_39_word_no_space_9 | balconychickencapitalcurtainsortawesomefitbagguard |  
 | bip_39_word_space_0 | ['balcony', 'chicken', 'capital', 'curtain', 'sort', 'awesome', 'fit', 'bag', 'guard', 'art', 'gallery', 'adjust'] |  
 | bip_39_word_space_1 | balcony |  
 | bip_39_word_space_10 | balcony chicken capital curtain sort awesome fit bag guard art |  

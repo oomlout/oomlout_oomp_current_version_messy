@@ -122,6 +122,18 @@ total
 orient
 parent
 still |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigidnoticedevotewealthcaughttotalorientparentstillgossip |  
+| bip_39_word_no_space_11 | rigidnoticedevotewealthcaughttotalorientparentstillgossipabstract |  
+| bip_39_word_no_space_12 | rigidnoticedevotewealthcaughttotalorientparentstillgossipabstractabout |  
+| bip_39_word_no_space_2 | rigidnotice |  
+| bip_39_word_no_space_3 | rigidnoticedevote |  
+| bip_39_word_no_space_4 | rigidnoticedevotewealth |  
+| bip_39_word_no_space_5 | rigidnoticedevotewealthcaught |  
+| bip_39_word_no_space_6 | rigidnoticedevotewealthcaughttotal |  
+| bip_39_word_no_space_7 | rigidnoticedevotewealthcaughttotalorient |  
+| bip_39_word_no_space_8 | rigidnoticedevotewealthcaughttotalorientparent |  
+| bip_39_word_no_space_9 | rigidnoticedevotewealthcaughttotalorientparentstill |  
 | bip_39_word_space_0 | ['rigid', 'notice', 'devote', 'wealth', 'caught', 'total', 'orient', 'parent', 'still', 'gossip', 'abstract', 'about'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid notice devote wealth caught total orient parent still gossip |  

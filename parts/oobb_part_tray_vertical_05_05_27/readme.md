@@ -122,6 +122,18 @@ bamboo
 wagon
 nerve
 tired |  
+| bip_39_word_no_space_1 | cube |  
+| bip_39_word_no_space_10 | cubeagentdetailalreadywisebamboowagonnervetiredanchor |  
+| bip_39_word_no_space_11 | cubeagentdetailalreadywisebamboowagonnervetiredanchorproject |  
+| bip_39_word_no_space_12 | cubeagentdetailalreadywisebamboowagonnervetiredanchorprojectaccess |  
+| bip_39_word_no_space_2 | cubeagent |  
+| bip_39_word_no_space_3 | cubeagentdetail |  
+| bip_39_word_no_space_4 | cubeagentdetailalready |  
+| bip_39_word_no_space_5 | cubeagentdetailalreadywise |  
+| bip_39_word_no_space_6 | cubeagentdetailalreadywisebamboo |  
+| bip_39_word_no_space_7 | cubeagentdetailalreadywisebamboowagon |  
+| bip_39_word_no_space_8 | cubeagentdetailalreadywisebamboowagonnerve |  
+| bip_39_word_no_space_9 | cubeagentdetailalreadywisebamboowagonnervetired |  
 | bip_39_word_space_0 | ['cube', 'agent', 'detail', 'already', 'wise', 'bamboo', 'wagon', 'nerve', 'tired', 'anchor', 'project', 'access'] |  
 | bip_39_word_space_1 | cube |  
 | bip_39_word_space_10 | cube agent detail already wise bamboo wagon nerve tired anchor |  

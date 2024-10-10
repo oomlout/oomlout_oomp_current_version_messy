@@ -122,6 +122,18 @@ soft
 mansion
 session
 cram |  
+| bip_39_word_no_space_1 | grocery |  
+| bip_39_word_no_space_10 | grocerysourceaheaddrumtheresoftmansionsessioncramcoil |  
+| bip_39_word_no_space_11 | grocerysourceaheaddrumtheresoftmansionsessioncramcoilthrive |  
+| bip_39_word_no_space_12 | grocerysourceaheaddrumtheresoftmansionsessioncramcoilthrivearrange |  
+| bip_39_word_no_space_2 | grocerysource |  
+| bip_39_word_no_space_3 | grocerysourceahead |  
+| bip_39_word_no_space_4 | grocerysourceaheaddrum |  
+| bip_39_word_no_space_5 | grocerysourceaheaddrumthere |  
+| bip_39_word_no_space_6 | grocerysourceaheaddrumtheresoft |  
+| bip_39_word_no_space_7 | grocerysourceaheaddrumtheresoftmansion |  
+| bip_39_word_no_space_8 | grocerysourceaheaddrumtheresoftmansionsession |  
+| bip_39_word_no_space_9 | grocerysourceaheaddrumtheresoftmansionsessioncram |  
 | bip_39_word_space_0 | ['grocery', 'source', 'ahead', 'drum', 'there', 'soft', 'mansion', 'session', 'cram', 'coil', 'thrive', 'arrange'] |  
 | bip_39_word_space_1 | grocery |  
 | bip_39_word_space_10 | grocery source ahead drum there soft mansion session cram coil |  

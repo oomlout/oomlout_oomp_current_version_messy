@@ -122,6 +122,18 @@ salmon
 subway
 grief
 festival |  
+| bip_39_word_no_space_1 | congress |  
+| bip_39_word_no_space_10 | congressgluefamilyinvitepurposesalmonsubwaygrieffestivaloffice |  
+| bip_39_word_no_space_11 | congressgluefamilyinvitepurposesalmonsubwaygrieffestivalofficeadjust |  
+| bip_39_word_no_space_12 | congressgluefamilyinvitepurposesalmonsubwaygrieffestivalofficeadjustamong |  
+| bip_39_word_no_space_2 | congressglue |  
+| bip_39_word_no_space_3 | congressgluefamily |  
+| bip_39_word_no_space_4 | congressgluefamilyinvite |  
+| bip_39_word_no_space_5 | congressgluefamilyinvitepurpose |  
+| bip_39_word_no_space_6 | congressgluefamilyinvitepurposesalmon |  
+| bip_39_word_no_space_7 | congressgluefamilyinvitepurposesalmonsubway |  
+| bip_39_word_no_space_8 | congressgluefamilyinvitepurposesalmonsubwaygrief |  
+| bip_39_word_no_space_9 | congressgluefamilyinvitepurposesalmonsubwaygrieffestival |  
 | bip_39_word_space_0 | ['congress', 'glue', 'family', 'invite', 'purpose', 'salmon', 'subway', 'grief', 'festival', 'office', 'adjust', 'among'] |  
 | bip_39_word_space_1 | congress |  
 | bip_39_word_space_10 | congress glue family invite purpose salmon subway grief festival office |  

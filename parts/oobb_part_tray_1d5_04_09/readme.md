@@ -122,6 +122,18 @@ dawn
 attend
 hood
 proud |  
+| bip_39_word_no_space_1 | sting |  
+| bip_39_word_no_space_10 | stingshaftweddinguselesstoppledawnattendhoodprouddiary |  
+| bip_39_word_no_space_11 | stingshaftweddinguselesstoppledawnattendhoodprouddiarymaid |  
+| bip_39_word_no_space_12 | stingshaftweddinguselesstoppledawnattendhoodprouddiarymaidadvance |  
+| bip_39_word_no_space_2 | stingshaft |  
+| bip_39_word_no_space_3 | stingshaftwedding |  
+| bip_39_word_no_space_4 | stingshaftweddinguseless |  
+| bip_39_word_no_space_5 | stingshaftweddinguselesstopple |  
+| bip_39_word_no_space_6 | stingshaftweddinguselesstoppledawn |  
+| bip_39_word_no_space_7 | stingshaftweddinguselesstoppledawnattend |  
+| bip_39_word_no_space_8 | stingshaftweddinguselesstoppledawnattendhood |  
+| bip_39_word_no_space_9 | stingshaftweddinguselesstoppledawnattendhoodproud |  
 | bip_39_word_space_0 | ['sting', 'shaft', 'wedding', 'useless', 'topple', 'dawn', 'attend', 'hood', 'proud', 'diary', 'maid', 'advance'] |  
 | bip_39_word_space_1 | sting |  
 | bip_39_word_space_10 | sting shaft wedding useless topple dawn attend hood proud diary |  

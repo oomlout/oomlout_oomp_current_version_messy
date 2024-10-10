@@ -122,6 +122,18 @@ win
 rural
 inner
 beef |  
+| bip_39_word_no_space_1 | prosper |  
+| bip_39_word_no_space_10 | prosperinsiderighttankhavewinruralinnerbeefskate |  
+| bip_39_word_no_space_11 | prosperinsiderighttankhavewinruralinnerbeefskateargue |  
+| bip_39_word_no_space_12 | prosperinsiderighttankhavewinruralinnerbeefskatearguealone |  
+| bip_39_word_no_space_2 | prosperinside |  
+| bip_39_word_no_space_3 | prosperinsideright |  
+| bip_39_word_no_space_4 | prosperinsiderighttank |  
+| bip_39_word_no_space_5 | prosperinsiderighttankhave |  
+| bip_39_word_no_space_6 | prosperinsiderighttankhavewin |  
+| bip_39_word_no_space_7 | prosperinsiderighttankhavewinrural |  
+| bip_39_word_no_space_8 | prosperinsiderighttankhavewinruralinner |  
+| bip_39_word_no_space_9 | prosperinsiderighttankhavewinruralinnerbeef |  
 | bip_39_word_space_0 | ['prosper', 'inside', 'right', 'tank', 'have', 'win', 'rural', 'inner', 'beef', 'skate', 'argue', 'alone'] |  
 | bip_39_word_space_1 | prosper |  
 | bip_39_word_space_10 | prosper inside right tank have win rural inner beef skate |  

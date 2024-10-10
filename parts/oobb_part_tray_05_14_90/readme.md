@@ -122,6 +122,18 @@ marine
 step
 truly
 force |  
+| bip_39_word_no_space_1 | drill |  
+| bip_39_word_no_space_10 | drilleasilywomanwitnessstairsmarinesteptrulyforcecore |  
+| bip_39_word_no_space_11 | drilleasilywomanwitnessstairsmarinesteptrulyforcecoremarket |  
+| bip_39_word_no_space_12 | drilleasilywomanwitnessstairsmarinesteptrulyforcecoremarketarrange |  
+| bip_39_word_no_space_2 | drilleasily |  
+| bip_39_word_no_space_3 | drilleasilywoman |  
+| bip_39_word_no_space_4 | drilleasilywomanwitness |  
+| bip_39_word_no_space_5 | drilleasilywomanwitnessstairs |  
+| bip_39_word_no_space_6 | drilleasilywomanwitnessstairsmarine |  
+| bip_39_word_no_space_7 | drilleasilywomanwitnessstairsmarinestep |  
+| bip_39_word_no_space_8 | drilleasilywomanwitnessstairsmarinesteptruly |  
+| bip_39_word_no_space_9 | drilleasilywomanwitnessstairsmarinesteptrulyforce |  
 | bip_39_word_space_0 | ['drill', 'easily', 'woman', 'witness', 'stairs', 'marine', 'step', 'truly', 'force', 'core', 'market', 'arrange'] |  
 | bip_39_word_space_1 | drill |  
 | bip_39_word_space_10 | drill easily woman witness stairs marine step truly force core |  

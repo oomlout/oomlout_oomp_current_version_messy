@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'puppy
   dice
 
   harvest'
+bip_39_word_no_space_1: puppy
+bip_39_word_no_space_10: puppyrandomexpecthollowsoulgarlicstemdiceharvestinclude
+bip_39_word_no_space_11: puppyrandomexpecthollowsoulgarlicstemdiceharvestincludewrong
+bip_39_word_no_space_12: puppyrandomexpecthollowsoulgarlicstemdiceharvestincludewrongabsurd
+bip_39_word_no_space_2: puppyrandom
+bip_39_word_no_space_3: puppyrandomexpect
+bip_39_word_no_space_4: puppyrandomexpecthollow
+bip_39_word_no_space_5: puppyrandomexpecthollowsoul
+bip_39_word_no_space_6: puppyrandomexpecthollowsoulgarlic
+bip_39_word_no_space_7: puppyrandomexpecthollowsoulgarlicstem
+bip_39_word_no_space_8: puppyrandomexpecthollowsoulgarlicstemdice
+bip_39_word_no_space_9: puppyrandomexpecthollowsoulgarlicstemdiceharvest
 bip_39_word_space_0:
 - puppy
 - random

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'below
   witness
 
   rural'
+bip_39_word_no_space_1: below
+bip_39_word_no_space_10: belowturnbriskoftenmutualnowpeoplewitnessruralneither
+bip_39_word_no_space_11: belowturnbriskoftenmutualnowpeoplewitnessruralneitherexact
+bip_39_word_no_space_12: belowturnbriskoftenmutualnowpeoplewitnessruralneitherexactask
+bip_39_word_no_space_2: belowturn
+bip_39_word_no_space_3: belowturnbrisk
+bip_39_word_no_space_4: belowturnbriskoften
+bip_39_word_no_space_5: belowturnbriskoftenmutual
+bip_39_word_no_space_6: belowturnbriskoftenmutualnow
+bip_39_word_no_space_7: belowturnbriskoftenmutualnowpeople
+bip_39_word_no_space_8: belowturnbriskoftenmutualnowpeoplewitness
+bip_39_word_no_space_9: belowturnbriskoftenmutualnowpeoplewitnessrural
 bip_39_word_space_0:
 - below
 - turn

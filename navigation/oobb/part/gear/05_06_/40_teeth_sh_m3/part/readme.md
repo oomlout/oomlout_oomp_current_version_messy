@@ -122,6 +122,18 @@ volcano
 tone
 grow
 talk |  
+| bip_39_word_no_space_1 | gallery |  
+| bip_39_word_no_space_10 | galleryargueravendwarfethicsvolcanotonegrowtalkplay |  
+| bip_39_word_no_space_11 | galleryargueravendwarfethicsvolcanotonegrowtalkplaytoddler |  
+| bip_39_word_no_space_12 | galleryargueravendwarfethicsvolcanotonegrowtalkplaytoddlerartwork |  
+| bip_39_word_no_space_2 | galleryargue |  
+| bip_39_word_no_space_3 | galleryargueraven |  
+| bip_39_word_no_space_4 | galleryargueravendwarf |  
+| bip_39_word_no_space_5 | galleryargueravendwarfethics |  
+| bip_39_word_no_space_6 | galleryargueravendwarfethicsvolcano |  
+| bip_39_word_no_space_7 | galleryargueravendwarfethicsvolcanotone |  
+| bip_39_word_no_space_8 | galleryargueravendwarfethicsvolcanotonegrow |  
+| bip_39_word_no_space_9 | galleryargueravendwarfethicsvolcanotonegrowtalk |  
 | bip_39_word_space_0 | ['gallery', 'argue', 'raven', 'dwarf', 'ethics', 'volcano', 'tone', 'grow', 'talk', 'play', 'toddler', 'artwork'] |  
 | bip_39_word_space_1 | gallery |  
 | bip_39_word_space_10 | gallery argue raven dwarf ethics volcano tone grow talk play |  

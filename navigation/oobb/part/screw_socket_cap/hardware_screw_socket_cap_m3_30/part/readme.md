@@ -122,6 +122,18 @@ dinosaur
 swift
 play
 favorite |  
+| bip_39_word_no_space_1 | until |  
+| bip_39_word_no_space_10 | untiluniformmasterclogupholddinosaurswiftplayfavoritecase |  
+| bip_39_word_no_space_11 | untiluniformmasterclogupholddinosaurswiftplayfavoritecaserent |  
+| bip_39_word_no_space_12 | untiluniformmasterclogupholddinosaurswiftplayfavoritecaserentamong |  
+| bip_39_word_no_space_2 | untiluniform |  
+| bip_39_word_no_space_3 | untiluniformmaster |  
+| bip_39_word_no_space_4 | untiluniformmasterclog |  
+| bip_39_word_no_space_5 | untiluniformmastercloguphold |  
+| bip_39_word_no_space_6 | untiluniformmasterclogupholddinosaur |  
+| bip_39_word_no_space_7 | untiluniformmasterclogupholddinosaurswift |  
+| bip_39_word_no_space_8 | untiluniformmasterclogupholddinosaurswiftplay |  
+| bip_39_word_no_space_9 | untiluniformmasterclogupholddinosaurswiftplayfavorite |  
 | bip_39_word_space_0 | ['until', 'uniform', 'master', 'clog', 'uphold', 'dinosaur', 'swift', 'play', 'favorite', 'case', 'rent', 'among'] |  
 | bip_39_word_space_1 | until |  
 | bip_39_word_space_10 | until uniform master clog uphold dinosaur swift play favorite case |  

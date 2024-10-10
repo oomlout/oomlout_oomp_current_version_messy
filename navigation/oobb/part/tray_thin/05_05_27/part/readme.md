@@ -122,6 +122,18 @@ dice
 plate
 adult
 stock |  
+| bip_39_word_no_space_1 | joke |  
+| bip_39_word_no_space_10 | jokeusefulupholdgarbageshipdiceplateadultstockstep |  
+| bip_39_word_no_space_11 | jokeusefulupholdgarbageshipdiceplateadultstockstepjust |  
+| bip_39_word_no_space_12 | jokeusefulupholdgarbageshipdiceplateadultstockstepjustarrive |  
+| bip_39_word_no_space_2 | jokeuseful |  
+| bip_39_word_no_space_3 | jokeusefuluphold |  
+| bip_39_word_no_space_4 | jokeusefulupholdgarbage |  
+| bip_39_word_no_space_5 | jokeusefulupholdgarbageship |  
+| bip_39_word_no_space_6 | jokeusefulupholdgarbageshipdice |  
+| bip_39_word_no_space_7 | jokeusefulupholdgarbageshipdiceplate |  
+| bip_39_word_no_space_8 | jokeusefulupholdgarbageshipdiceplateadult |  
+| bip_39_word_no_space_9 | jokeusefulupholdgarbageshipdiceplateadultstock |  
 | bip_39_word_space_0 | ['joke', 'useful', 'uphold', 'garbage', 'ship', 'dice', 'plate', 'adult', 'stock', 'step', 'just', 'arrive'] |  
 | bip_39_word_space_1 | joke |  
 | bip_39_word_space_10 | joke useful uphold garbage ship dice plate adult stock step |  

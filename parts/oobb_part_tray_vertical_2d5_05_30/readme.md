@@ -122,6 +122,18 @@ expose
 wedding
 they
 solution |  
+| bip_39_word_no_space_1 | acoustic |  
+| bip_39_word_no_space_10 | acousticsouploadbasetattooexposeweddingtheysolutioncomfort |  
+| bip_39_word_no_space_11 | acousticsouploadbasetattooexposeweddingtheysolutioncomfortduty |  
+| bip_39_word_no_space_12 | acousticsouploadbasetattooexposeweddingtheysolutioncomfortdutyable |  
+| bip_39_word_no_space_2 | acousticsoup |  
+| bip_39_word_no_space_3 | acousticsoupload |  
+| bip_39_word_no_space_4 | acousticsouploadbase |  
+| bip_39_word_no_space_5 | acousticsouploadbasetattoo |  
+| bip_39_word_no_space_6 | acousticsouploadbasetattooexpose |  
+| bip_39_word_no_space_7 | acousticsouploadbasetattooexposewedding |  
+| bip_39_word_no_space_8 | acousticsouploadbasetattooexposeweddingthey |  
+| bip_39_word_no_space_9 | acousticsouploadbasetattooexposeweddingtheysolution |  
 | bip_39_word_space_0 | ['acoustic', 'soup', 'load', 'base', 'tattoo', 'expose', 'wedding', 'they', 'solution', 'comfort', 'duty', 'able'] |  
 | bip_39_word_space_1 | acoustic |  
 | bip_39_word_space_10 | acoustic soup load base tattoo expose wedding they solution comfort |  

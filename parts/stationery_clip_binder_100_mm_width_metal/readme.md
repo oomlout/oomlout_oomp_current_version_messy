@@ -122,6 +122,18 @@ wear
 frame
 bleak
 response |  
+| bip_39_word_no_space_1 | army |  
+| bip_39_word_no_space_10 | armyrotatefigureriverfencewearframebleakresponsebreeze |  
+| bip_39_word_no_space_11 | armyrotatefigureriverfencewearframebleakresponsebreezedice |  
+| bip_39_word_no_space_12 | armyrotatefigureriverfencewearframebleakresponsebreezediceannounce |  
+| bip_39_word_no_space_2 | armyrotate |  
+| bip_39_word_no_space_3 | armyrotatefigure |  
+| bip_39_word_no_space_4 | armyrotatefigureriver |  
+| bip_39_word_no_space_5 | armyrotatefigureriverfence |  
+| bip_39_word_no_space_6 | armyrotatefigureriverfencewear |  
+| bip_39_word_no_space_7 | armyrotatefigureriverfencewearframe |  
+| bip_39_word_no_space_8 | armyrotatefigureriverfencewearframebleak |  
+| bip_39_word_no_space_9 | armyrotatefigureriverfencewearframebleakresponse |  
 | bip_39_word_space_0 | ['army', 'rotate', 'figure', 'river', 'fence', 'wear', 'frame', 'bleak', 'response', 'breeze', 'dice', 'announce'] |  
 | bip_39_word_space_1 | army |  
 | bip_39_word_space_10 | army rotate figure river fence wear frame bleak response breeze |  

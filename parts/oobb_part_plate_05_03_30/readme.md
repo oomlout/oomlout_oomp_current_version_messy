@@ -122,6 +122,18 @@ midnight
 mistake
 swap
 finish |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildclogcruisegentlecookmidnightmistakeswapfinishcart |  
+| bip_39_word_no_space_11 | rebuildclogcruisegentlecookmidnightmistakeswapfinishcartoffice |  
+| bip_39_word_no_space_12 | rebuildclogcruisegentlecookmidnightmistakeswapfinishcartofficeantenna |  
+| bip_39_word_no_space_2 | rebuildclog |  
+| bip_39_word_no_space_3 | rebuildclogcruise |  
+| bip_39_word_no_space_4 | rebuildclogcruisegentle |  
+| bip_39_word_no_space_5 | rebuildclogcruisegentlecook |  
+| bip_39_word_no_space_6 | rebuildclogcruisegentlecookmidnight |  
+| bip_39_word_no_space_7 | rebuildclogcruisegentlecookmidnightmistake |  
+| bip_39_word_no_space_8 | rebuildclogcruisegentlecookmidnightmistakeswap |  
+| bip_39_word_no_space_9 | rebuildclogcruisegentlecookmidnightmistakeswapfinish |  
 | bip_39_word_space_0 | ['rebuild', 'clog', 'cruise', 'gentle', 'cook', 'midnight', 'mistake', 'swap', 'finish', 'cart', 'office', 'antenna'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild clog cruise gentle cook midnight mistake swap finish cart |  

@@ -122,6 +122,18 @@ trip
 loop
 cool
 delay |  
+| bip_39_word_no_space_1 | frozen |  
+| bip_39_word_no_space_10 | frozenmaidimposedamagepartytriploopcooldelayinject |  
+| bip_39_word_no_space_11 | frozenmaidimposedamagepartytriploopcooldelayinjectworry |  
+| bip_39_word_no_space_12 | frozenmaidimposedamagepartytriploopcooldelayinjectworryabuse |  
+| bip_39_word_no_space_2 | frozenmaid |  
+| bip_39_word_no_space_3 | frozenmaidimpose |  
+| bip_39_word_no_space_4 | frozenmaidimposedamage |  
+| bip_39_word_no_space_5 | frozenmaidimposedamageparty |  
+| bip_39_word_no_space_6 | frozenmaidimposedamagepartytrip |  
+| bip_39_word_no_space_7 | frozenmaidimposedamagepartytriploop |  
+| bip_39_word_no_space_8 | frozenmaidimposedamagepartytriploopcool |  
+| bip_39_word_no_space_9 | frozenmaidimposedamagepartytriploopcooldelay |  
 | bip_39_word_space_0 | ['frozen', 'maid', 'impose', 'damage', 'party', 'trip', 'loop', 'cool', 'delay', 'inject', 'worry', 'abuse'] |  
 | bip_39_word_space_1 | frozen |  
 | bip_39_word_space_10 | frozen maid impose damage party trip loop cool delay inject |  

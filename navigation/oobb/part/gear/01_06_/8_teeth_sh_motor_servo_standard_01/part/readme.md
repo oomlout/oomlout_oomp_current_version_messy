@@ -122,6 +122,18 @@ teach
 chalk
 breeze
 pull |  
+| bip_39_word_no_space_1 | skill |  
+| bip_39_word_no_space_10 | skillrebelnaturetopicmiddleteachchalkbreezepullwhale |  
+| bip_39_word_no_space_11 | skillrebelnaturetopicmiddleteachchalkbreezepullwhalecloth |  
+| bip_39_word_no_space_12 | skillrebelnaturetopicmiddleteachchalkbreezepullwhaleclothargue |  
+| bip_39_word_no_space_2 | skillrebel |  
+| bip_39_word_no_space_3 | skillrebelnature |  
+| bip_39_word_no_space_4 | skillrebelnaturetopic |  
+| bip_39_word_no_space_5 | skillrebelnaturetopicmiddle |  
+| bip_39_word_no_space_6 | skillrebelnaturetopicmiddleteach |  
+| bip_39_word_no_space_7 | skillrebelnaturetopicmiddleteachchalk |  
+| bip_39_word_no_space_8 | skillrebelnaturetopicmiddleteachchalkbreeze |  
+| bip_39_word_no_space_9 | skillrebelnaturetopicmiddleteachchalkbreezepull |  
 | bip_39_word_space_0 | ['skill', 'rebel', 'nature', 'topic', 'middle', 'teach', 'chalk', 'breeze', 'pull', 'whale', 'cloth', 'argue'] |  
 | bip_39_word_space_1 | skill |  
 | bip_39_word_space_10 | skill rebel nature topic middle teach chalk breeze pull whale |  

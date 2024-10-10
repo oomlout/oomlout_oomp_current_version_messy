@@ -122,6 +122,18 @@ month
 easy
 secret
 police |  
+| bip_39_word_no_space_1 | source |  
+| bip_39_word_no_space_10 | sourceindoorassaultclogexhaustmontheasysecretpolicetraffic |  
+| bip_39_word_no_space_11 | sourceindoorassaultclogexhaustmontheasysecretpolicetrafficpanther |  
+| bip_39_word_no_space_12 | sourceindoorassaultclogexhaustmontheasysecretpolicetrafficpantherassist |  
+| bip_39_word_no_space_2 | sourceindoor |  
+| bip_39_word_no_space_3 | sourceindoorassault |  
+| bip_39_word_no_space_4 | sourceindoorassaultclog |  
+| bip_39_word_no_space_5 | sourceindoorassaultclogexhaust |  
+| bip_39_word_no_space_6 | sourceindoorassaultclogexhaustmonth |  
+| bip_39_word_no_space_7 | sourceindoorassaultclogexhaustmontheasy |  
+| bip_39_word_no_space_8 | sourceindoorassaultclogexhaustmontheasysecret |  
+| bip_39_word_no_space_9 | sourceindoorassaultclogexhaustmontheasysecretpolice |  
 | bip_39_word_space_0 | ['source', 'indoor', 'assault', 'clog', 'exhaust', 'month', 'easy', 'secret', 'police', 'traffic', 'panther', 'assist'] |  
 | bip_39_word_space_1 | source |  
 | bip_39_word_space_10 | source indoor assault clog exhaust month easy secret police traffic |  

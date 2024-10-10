@@ -122,6 +122,18 @@ worry
 surround
 ivory
 risk |  
+| bip_39_word_no_space_1 | title |  
+| bip_39_word_no_space_10 | titlepiecegrapeorchardspiderworrysurroundivoryrisklight |  
+| bip_39_word_no_space_11 | titlepiecegrapeorchardspiderworrysurroundivoryrisklightgalaxy |  
+| bip_39_word_no_space_12 | titlepiecegrapeorchardspiderworrysurroundivoryrisklightgalaxyasset |  
+| bip_39_word_no_space_2 | titlepiece |  
+| bip_39_word_no_space_3 | titlepiecegrape |  
+| bip_39_word_no_space_4 | titlepiecegrapeorchard |  
+| bip_39_word_no_space_5 | titlepiecegrapeorchardspider |  
+| bip_39_word_no_space_6 | titlepiecegrapeorchardspiderworry |  
+| bip_39_word_no_space_7 | titlepiecegrapeorchardspiderworrysurround |  
+| bip_39_word_no_space_8 | titlepiecegrapeorchardspiderworrysurroundivory |  
+| bip_39_word_no_space_9 | titlepiecegrapeorchardspiderworrysurroundivoryrisk |  
 | bip_39_word_space_0 | ['title', 'piece', 'grape', 'orchard', 'spider', 'worry', 'surround', 'ivory', 'risk', 'light', 'galaxy', 'asset'] |  
 | bip_39_word_space_1 | title |  
 | bip_39_word_space_10 | title piece grape orchard spider worry surround ivory risk light |  

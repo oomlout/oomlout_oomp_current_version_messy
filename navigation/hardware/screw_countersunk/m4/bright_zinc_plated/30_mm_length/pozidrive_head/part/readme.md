@@ -122,6 +122,18 @@ mistake
 spin
 balcony
 young |  
+| bip_39_word_no_space_1 | anxiety |  
+| bip_39_word_no_space_10 | anxietyvocalpositionrenderstatemistakespinbalconyyoungdepart |  
+| bip_39_word_no_space_11 | anxietyvocalpositionrenderstatemistakespinbalconyyoungdepartadvice |  
+| bip_39_word_no_space_12 | anxietyvocalpositionrenderstatemistakespinbalconyyoungdepartadviceauto |  
+| bip_39_word_no_space_2 | anxietyvocal |  
+| bip_39_word_no_space_3 | anxietyvocalposition |  
+| bip_39_word_no_space_4 | anxietyvocalpositionrender |  
+| bip_39_word_no_space_5 | anxietyvocalpositionrenderstate |  
+| bip_39_word_no_space_6 | anxietyvocalpositionrenderstatemistake |  
+| bip_39_word_no_space_7 | anxietyvocalpositionrenderstatemistakespin |  
+| bip_39_word_no_space_8 | anxietyvocalpositionrenderstatemistakespinbalcony |  
+| bip_39_word_no_space_9 | anxietyvocalpositionrenderstatemistakespinbalconyyoung |  
 | bip_39_word_space_0 | ['anxiety', 'vocal', 'position', 'render', 'state', 'mistake', 'spin', 'balcony', 'young', 'depart', 'advice', 'auto'] |  
 | bip_39_word_space_1 | anxiety |  
 | bip_39_word_space_10 | anxiety vocal position render state mistake spin balcony young depart |  

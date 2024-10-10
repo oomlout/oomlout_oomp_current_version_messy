@@ -122,6 +122,18 @@ twist
 wealth
 piece
 awake |  
+| bip_39_word_no_space_1 | wing |  
+| bip_39_word_no_space_10 | wingfindelbowkidseminartwistwealthpieceawakesuit |  
+| bip_39_word_no_space_11 | wingfindelbowkidseminartwistwealthpieceawakesuitfirm |  
+| bip_39_word_no_space_12 | wingfindelbowkidseminartwistwealthpieceawakesuitfirmattract |  
+| bip_39_word_no_space_2 | wingfind |  
+| bip_39_word_no_space_3 | wingfindelbow |  
+| bip_39_word_no_space_4 | wingfindelbowkid |  
+| bip_39_word_no_space_5 | wingfindelbowkidseminar |  
+| bip_39_word_no_space_6 | wingfindelbowkidseminartwist |  
+| bip_39_word_no_space_7 | wingfindelbowkidseminartwistwealth |  
+| bip_39_word_no_space_8 | wingfindelbowkidseminartwistwealthpiece |  
+| bip_39_word_no_space_9 | wingfindelbowkidseminartwistwealthpieceawake |  
 | bip_39_word_space_0 | ['wing', 'find', 'elbow', 'kid', 'seminar', 'twist', 'wealth', 'piece', 'awake', 'suit', 'firm', 'attract'] |  
 | bip_39_word_space_1 | wing |  
 | bip_39_word_space_10 | wing find elbow kid seminar twist wealth piece awake suit |  

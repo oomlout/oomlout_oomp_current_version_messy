@@ -122,6 +122,18 @@ giant
 boss
 discover
 arrow |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniquemuffinbossinvolveembodygiantbossdiscoverarrowharsh |  
+| bip_39_word_no_space_11 | uniquemuffinbossinvolveembodygiantbossdiscoverarrowharshsetup |  
+| bip_39_word_no_space_12 | uniquemuffinbossinvolveembodygiantbossdiscoverarrowharshsetupauthor |  
+| bip_39_word_no_space_2 | uniquemuffin |  
+| bip_39_word_no_space_3 | uniquemuffinboss |  
+| bip_39_word_no_space_4 | uniquemuffinbossinvolve |  
+| bip_39_word_no_space_5 | uniquemuffinbossinvolveembody |  
+| bip_39_word_no_space_6 | uniquemuffinbossinvolveembodygiant |  
+| bip_39_word_no_space_7 | uniquemuffinbossinvolveembodygiantboss |  
+| bip_39_word_no_space_8 | uniquemuffinbossinvolveembodygiantbossdiscover |  
+| bip_39_word_no_space_9 | uniquemuffinbossinvolveembodygiantbossdiscoverarrow |  
 | bip_39_word_space_0 | ['unique', 'muffin', 'boss', 'involve', 'embody', 'giant', 'boss', 'discover', 'arrow', 'harsh', 'setup', 'author'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique muffin boss involve embody giant boss discover arrow harsh |  

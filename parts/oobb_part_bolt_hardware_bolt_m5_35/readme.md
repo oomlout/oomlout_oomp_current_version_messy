@@ -122,6 +122,18 @@ amazing
 quantum
 mechanic
 style |  
+| bip_39_word_no_space_1 | sausage |  
+| bip_39_word_no_space_10 | sausagecarpetwherebrowndustamazingquantummechanicstyledentist |  
+| bip_39_word_no_space_11 | sausagecarpetwherebrowndustamazingquantummechanicstyledentistlogic |  
+| bip_39_word_no_space_12 | sausagecarpetwherebrowndustamazingquantummechanicstyledentistlogicarch |  
+| bip_39_word_no_space_2 | sausagecarpet |  
+| bip_39_word_no_space_3 | sausagecarpetwhere |  
+| bip_39_word_no_space_4 | sausagecarpetwherebrown |  
+| bip_39_word_no_space_5 | sausagecarpetwherebrowndust |  
+| bip_39_word_no_space_6 | sausagecarpetwherebrowndustamazing |  
+| bip_39_word_no_space_7 | sausagecarpetwherebrowndustamazingquantum |  
+| bip_39_word_no_space_8 | sausagecarpetwherebrowndustamazingquantummechanic |  
+| bip_39_word_no_space_9 | sausagecarpetwherebrowndustamazingquantummechanicstyle |  
 | bip_39_word_space_0 | ['sausage', 'carpet', 'where', 'brown', 'dust', 'amazing', 'quantum', 'mechanic', 'style', 'dentist', 'logic', 'arch'] |  
 | bip_39_word_space_1 | sausage |  
 | bip_39_word_space_10 | sausage carpet where brown dust amazing quantum mechanic style dentist |  

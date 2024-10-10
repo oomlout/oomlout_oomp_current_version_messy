@@ -122,6 +122,18 @@ canvas
 clog
 couch
 plate |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | gloveyearhundredboatindoorcanvasclogcouchplatemethod |  
+| bip_39_word_no_space_11 | gloveyearhundredboatindoorcanvasclogcouchplatemethodalert |  
+| bip_39_word_no_space_12 | gloveyearhundredboatindoorcanvasclogcouchplatemethodalertafford |  
+| bip_39_word_no_space_2 | gloveyear |  
+| bip_39_word_no_space_3 | gloveyearhundred |  
+| bip_39_word_no_space_4 | gloveyearhundredboat |  
+| bip_39_word_no_space_5 | gloveyearhundredboatindoor |  
+| bip_39_word_no_space_6 | gloveyearhundredboatindoorcanvas |  
+| bip_39_word_no_space_7 | gloveyearhundredboatindoorcanvasclog |  
+| bip_39_word_no_space_8 | gloveyearhundredboatindoorcanvasclogcouch |  
+| bip_39_word_no_space_9 | gloveyearhundredboatindoorcanvasclogcouchplate |  
 | bip_39_word_space_0 | ['glove', 'year', 'hundred', 'boat', 'indoor', 'canvas', 'clog', 'couch', 'plate', 'method', 'alert', 'afford'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove year hundred boat indoor canvas clog couch plate method |  

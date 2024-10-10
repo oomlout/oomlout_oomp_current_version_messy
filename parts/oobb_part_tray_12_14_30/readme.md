@@ -122,6 +122,18 @@ cabbage
 top
 athlete
 shallow |  
+| bip_39_word_no_space_1 | popular |  
+| bip_39_word_no_space_10 | popularkidneyomitpoleofficecabbagetopathleteshallowanchor |  
+| bip_39_word_no_space_11 | popularkidneyomitpoleofficecabbagetopathleteshallowanchorcloth |  
+| bip_39_word_no_space_12 | popularkidneyomitpoleofficecabbagetopathleteshallowanchorclothangry |  
+| bip_39_word_no_space_2 | popularkidney |  
+| bip_39_word_no_space_3 | popularkidneyomit |  
+| bip_39_word_no_space_4 | popularkidneyomitpole |  
+| bip_39_word_no_space_5 | popularkidneyomitpoleoffice |  
+| bip_39_word_no_space_6 | popularkidneyomitpoleofficecabbage |  
+| bip_39_word_no_space_7 | popularkidneyomitpoleofficecabbagetop |  
+| bip_39_word_no_space_8 | popularkidneyomitpoleofficecabbagetopathlete |  
+| bip_39_word_no_space_9 | popularkidneyomitpoleofficecabbagetopathleteshallow |  
 | bip_39_word_space_0 | ['popular', 'kidney', 'omit', 'pole', 'office', 'cabbage', 'top', 'athlete', 'shallow', 'anchor', 'cloth', 'angry'] |  
 | bip_39_word_space_1 | popular |  
 | bip_39_word_space_10 | popular kidney omit pole office cabbage top athlete shallow anchor |  

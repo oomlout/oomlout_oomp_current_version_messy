@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'point
   lemon
 
   pony'
+bip_39_word_no_space_1: point
+bip_39_word_no_space_10: pointvolcanochildarmfunalonesmoothlemonponybase
+bip_39_word_no_space_11: pointvolcanochildarmfunalonesmoothlemonponybasefragile
+bip_39_word_no_space_12: pointvolcanochildarmfunalonesmoothlemonponybasefragileaccess
+bip_39_word_no_space_2: pointvolcano
+bip_39_word_no_space_3: pointvolcanochild
+bip_39_word_no_space_4: pointvolcanochildarm
+bip_39_word_no_space_5: pointvolcanochildarmfun
+bip_39_word_no_space_6: pointvolcanochildarmfunalone
+bip_39_word_no_space_7: pointvolcanochildarmfunalonesmooth
+bip_39_word_no_space_8: pointvolcanochildarmfunalonesmoothlemon
+bip_39_word_no_space_9: pointvolcanochildarmfunalonesmoothlemonpony
 bip_39_word_space_0:
 - point
 - volcano

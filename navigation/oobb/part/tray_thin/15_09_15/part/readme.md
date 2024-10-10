@@ -122,6 +122,18 @@ indoor
 soon
 mammal
 rubber |  
+| bip_39_word_no_space_1 | arena |  
+| bip_39_word_no_space_10 | arenaacquiregiantactionnegativeindoorsoonmammalrubberquestion |  
+| bip_39_word_no_space_11 | arenaacquiregiantactionnegativeindoorsoonmammalrubberquestiongreat |  
+| bip_39_word_no_space_12 | arenaacquiregiantactionnegativeindoorsoonmammalrubberquestiongreatarrest |  
+| bip_39_word_no_space_2 | arenaacquire |  
+| bip_39_word_no_space_3 | arenaacquiregiant |  
+| bip_39_word_no_space_4 | arenaacquiregiantaction |  
+| bip_39_word_no_space_5 | arenaacquiregiantactionnegative |  
+| bip_39_word_no_space_6 | arenaacquiregiantactionnegativeindoor |  
+| bip_39_word_no_space_7 | arenaacquiregiantactionnegativeindoorsoon |  
+| bip_39_word_no_space_8 | arenaacquiregiantactionnegativeindoorsoonmammal |  
+| bip_39_word_no_space_9 | arenaacquiregiantactionnegativeindoorsoonmammalrubber |  
 | bip_39_word_space_0 | ['arena', 'acquire', 'giant', 'action', 'negative', 'indoor', 'soon', 'mammal', 'rubber', 'question', 'great', 'arrest'] |  
 | bip_39_word_space_1 | arena |  
 | bip_39_word_space_10 | arena acquire giant action negative indoor soon mammal rubber question |  

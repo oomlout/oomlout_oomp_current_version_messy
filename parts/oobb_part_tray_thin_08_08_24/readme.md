@@ -122,6 +122,18 @@ kit
 squirrel
 vibrant
 charge |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitimmensespacecenturydevelopkitsquirrelvibrantchargedefine |  
+| bip_39_word_no_space_11 | habitimmensespacecenturydevelopkitsquirrelvibrantchargedefinesting |  
+| bip_39_word_no_space_12 | habitimmensespacecenturydevelopkitsquirrelvibrantchargedefinestingassume |  
+| bip_39_word_no_space_2 | habitimmense |  
+| bip_39_word_no_space_3 | habitimmensespace |  
+| bip_39_word_no_space_4 | habitimmensespacecentury |  
+| bip_39_word_no_space_5 | habitimmensespacecenturydevelop |  
+| bip_39_word_no_space_6 | habitimmensespacecenturydevelopkit |  
+| bip_39_word_no_space_7 | habitimmensespacecenturydevelopkitsquirrel |  
+| bip_39_word_no_space_8 | habitimmensespacecenturydevelopkitsquirrelvibrant |  
+| bip_39_word_no_space_9 | habitimmensespacecenturydevelopkitsquirrelvibrantcharge |  
 | bip_39_word_space_0 | ['habit', 'immense', 'space', 'century', 'develop', 'kit', 'squirrel', 'vibrant', 'charge', 'define', 'sting', 'assume'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit immense space century develop kit squirrel vibrant charge define |  

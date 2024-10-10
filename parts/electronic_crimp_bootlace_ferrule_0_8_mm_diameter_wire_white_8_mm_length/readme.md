@@ -122,6 +122,18 @@ bread
 spoil
 vessel
 camera |  
+| bip_39_word_no_space_1 | depth |  
+| bip_39_word_no_space_10 | depthhedgehogseatyouelbowbreadspoilvesselcameraloyal |  
+| bip_39_word_no_space_11 | depthhedgehogseatyouelbowbreadspoilvesselcameraloyalswamp |  
+| bip_39_word_no_space_12 | depthhedgehogseatyouelbowbreadspoilvesselcameraloyalswampabstract |  
+| bip_39_word_no_space_2 | depthhedgehog |  
+| bip_39_word_no_space_3 | depthhedgehogseat |  
+| bip_39_word_no_space_4 | depthhedgehogseatyou |  
+| bip_39_word_no_space_5 | depthhedgehogseatyouelbow |  
+| bip_39_word_no_space_6 | depthhedgehogseatyouelbowbread |  
+| bip_39_word_no_space_7 | depthhedgehogseatyouelbowbreadspoil |  
+| bip_39_word_no_space_8 | depthhedgehogseatyouelbowbreadspoilvessel |  
+| bip_39_word_no_space_9 | depthhedgehogseatyouelbowbreadspoilvesselcamera |  
 | bip_39_word_space_0 | ['depth', 'hedgehog', 'seat', 'you', 'elbow', 'bread', 'spoil', 'vessel', 'camera', 'loyal', 'swamp', 'abstract'] |  
 | bip_39_word_space_1 | depth |  
 | bip_39_word_space_10 | depth hedgehog seat you elbow bread spoil vessel camera loyal |  

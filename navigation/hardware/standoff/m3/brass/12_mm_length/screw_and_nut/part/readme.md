@@ -122,6 +122,18 @@ produce
 unit
 school
 share |  
+| bip_39_word_no_space_1 | zone |  
+| bip_39_word_no_space_10 | zoneseekpolicefootlockproduceunitschoolshareother |  
+| bip_39_word_no_space_11 | zoneseekpolicefootlockproduceunitschoolshareotheraware |  
+| bip_39_word_no_space_12 | zoneseekpolicefootlockproduceunitschoolshareotherawareair |  
+| bip_39_word_no_space_2 | zoneseek |  
+| bip_39_word_no_space_3 | zoneseekpolice |  
+| bip_39_word_no_space_4 | zoneseekpolicefoot |  
+| bip_39_word_no_space_5 | zoneseekpolicefootlock |  
+| bip_39_word_no_space_6 | zoneseekpolicefootlockproduce |  
+| bip_39_word_no_space_7 | zoneseekpolicefootlockproduceunit |  
+| bip_39_word_no_space_8 | zoneseekpolicefootlockproduceunitschool |  
+| bip_39_word_no_space_9 | zoneseekpolicefootlockproduceunitschoolshare |  
 | bip_39_word_space_0 | ['zone', 'seek', 'police', 'foot', 'lock', 'produce', 'unit', 'school', 'share', 'other', 'aware', 'air'] |  
 | bip_39_word_space_1 | zone |  
 | bip_39_word_space_10 | zone seek police foot lock produce unit school share other |  

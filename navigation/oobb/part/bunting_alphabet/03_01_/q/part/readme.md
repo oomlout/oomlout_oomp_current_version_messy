@@ -122,6 +122,18 @@ illness
 quick
 nice
 bring |  
+| bip_39_word_no_space_1 | van |  
+| bip_39_word_no_space_10 | vangasblurrejectfloatillnessquicknicebringsolar |  
+| bip_39_word_no_space_11 | vangasblurrejectfloatillnessquicknicebringsolarwindow |  
+| bip_39_word_no_space_12 | vangasblurrejectfloatillnessquicknicebringsolarwindowappear |  
+| bip_39_word_no_space_2 | vangas |  
+| bip_39_word_no_space_3 | vangasblur |  
+| bip_39_word_no_space_4 | vangasblurreject |  
+| bip_39_word_no_space_5 | vangasblurrejectfloat |  
+| bip_39_word_no_space_6 | vangasblurrejectfloatillness |  
+| bip_39_word_no_space_7 | vangasblurrejectfloatillnessquick |  
+| bip_39_word_no_space_8 | vangasblurrejectfloatillnessquicknice |  
+| bip_39_word_no_space_9 | vangasblurrejectfloatillnessquicknicebring |  
 | bip_39_word_space_0 | ['van', 'gas', 'blur', 'reject', 'float', 'illness', 'quick', 'nice', 'bring', 'solar', 'window', 'appear'] |  
 | bip_39_word_space_1 | van |  
 | bip_39_word_space_10 | van gas blur reject float illness quick nice bring solar |  

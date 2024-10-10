@@ -122,6 +122,18 @@ salmon
 steak
 remain
 panther |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardflavorprimarynextsketchsalmonsteakremainpanthermeasure |  
+| bip_39_word_no_space_11 | boardflavorprimarynextsketchsalmonsteakremainpanthermeasurevalve |  
+| bip_39_word_no_space_12 | boardflavorprimarynextsketchsalmonsteakremainpanthermeasurevalveart |  
+| bip_39_word_no_space_2 | boardflavor |  
+| bip_39_word_no_space_3 | boardflavorprimary |  
+| bip_39_word_no_space_4 | boardflavorprimarynext |  
+| bip_39_word_no_space_5 | boardflavorprimarynextsketch |  
+| bip_39_word_no_space_6 | boardflavorprimarynextsketchsalmon |  
+| bip_39_word_no_space_7 | boardflavorprimarynextsketchsalmonsteak |  
+| bip_39_word_no_space_8 | boardflavorprimarynextsketchsalmonsteakremain |  
+| bip_39_word_no_space_9 | boardflavorprimarynextsketchsalmonsteakremainpanther |  
 | bip_39_word_space_0 | ['board', 'flavor', 'primary', 'next', 'sketch', 'salmon', 'steak', 'remain', 'panther', 'measure', 'valve', 'art'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board flavor primary next sketch salmon steak remain panther measure |  

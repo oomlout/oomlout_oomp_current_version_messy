@@ -122,6 +122,18 @@ couple
 left
 noodle
 dove |  
+| bip_39_word_no_space_1 | clog |  
+| bip_39_word_no_space_10 | clograrekingdomjellymutualcoupleleftnoodledoveuseful |  
+| bip_39_word_no_space_11 | clograrekingdomjellymutualcoupleleftnoodledoveusefulobey |  
+| bip_39_word_no_space_12 | clograrekingdomjellymutualcoupleleftnoodledoveusefulobeyaction |  
+| bip_39_word_no_space_2 | clograre |  
+| bip_39_word_no_space_3 | clograrekingdom |  
+| bip_39_word_no_space_4 | clograrekingdomjelly |  
+| bip_39_word_no_space_5 | clograrekingdomjellymutual |  
+| bip_39_word_no_space_6 | clograrekingdomjellymutualcouple |  
+| bip_39_word_no_space_7 | clograrekingdomjellymutualcoupleleft |  
+| bip_39_word_no_space_8 | clograrekingdomjellymutualcoupleleftnoodle |  
+| bip_39_word_no_space_9 | clograrekingdomjellymutualcoupleleftnoodledove |  
 | bip_39_word_space_0 | ['clog', 'rare', 'kingdom', 'jelly', 'mutual', 'couple', 'left', 'noodle', 'dove', 'useful', 'obey', 'action'] |  
 | bip_39_word_space_1 | clog |  
 | bip_39_word_space_10 | clog rare kingdom jelly mutual couple left noodle dove useful |  

@@ -122,6 +122,18 @@ kitchen
 service
 extend
 merit |  
+| bip_39_word_no_space_1 | crumble |  
+| bip_39_word_no_space_10 | crumblebetterribfiguretoykitchenserviceextendmerittongue |  
+| bip_39_word_no_space_11 | crumblebetterribfiguretoykitchenserviceextendmerittongueknee |  
+| bip_39_word_no_space_12 | crumblebetterribfiguretoykitchenserviceextendmerittonguekneealley |  
+| bip_39_word_no_space_2 | crumblebetter |  
+| bip_39_word_no_space_3 | crumblebetterrib |  
+| bip_39_word_no_space_4 | crumblebetterribfigure |  
+| bip_39_word_no_space_5 | crumblebetterribfiguretoy |  
+| bip_39_word_no_space_6 | crumblebetterribfiguretoykitchen |  
+| bip_39_word_no_space_7 | crumblebetterribfiguretoykitchenservice |  
+| bip_39_word_no_space_8 | crumblebetterribfiguretoykitchenserviceextend |  
+| bip_39_word_no_space_9 | crumblebetterribfiguretoykitchenserviceextendmerit |  
 | bip_39_word_space_0 | ['crumble', 'better', 'rib', 'figure', 'toy', 'kitchen', 'service', 'extend', 'merit', 'tongue', 'knee', 'alley'] |  
 | bip_39_word_space_1 | crumble |  
 | bip_39_word_space_10 | crumble better rib figure toy kitchen service extend merit tongue |  

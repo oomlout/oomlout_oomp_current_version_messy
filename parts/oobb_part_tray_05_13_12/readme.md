@@ -122,6 +122,18 @@ apology
 setup
 sheriff
 cost |  
+| bip_39_word_no_space_1 | position |  
+| bip_39_word_no_space_10 | positionsoonrudeabovecatalogapologysetupsheriffcostriver |  
+| bip_39_word_no_space_11 | positionsoonrudeabovecatalogapologysetupsheriffcostrivervalve |  
+| bip_39_word_no_space_12 | positionsoonrudeabovecatalogapologysetupsheriffcostrivervalveabsurd |  
+| bip_39_word_no_space_2 | positionsoon |  
+| bip_39_word_no_space_3 | positionsoonrude |  
+| bip_39_word_no_space_4 | positionsoonrudeabove |  
+| bip_39_word_no_space_5 | positionsoonrudeabovecatalog |  
+| bip_39_word_no_space_6 | positionsoonrudeabovecatalogapology |  
+| bip_39_word_no_space_7 | positionsoonrudeabovecatalogapologysetup |  
+| bip_39_word_no_space_8 | positionsoonrudeabovecatalogapologysetupsheriff |  
+| bip_39_word_no_space_9 | positionsoonrudeabovecatalogapologysetupsheriffcost |  
 | bip_39_word_space_0 | ['position', 'soon', 'rude', 'above', 'catalog', 'apology', 'setup', 'sheriff', 'cost', 'river', 'valve', 'absurd'] |  
 | bip_39_word_space_1 | position |  
 | bip_39_word_space_10 | position soon rude above catalog apology setup sheriff cost river |  

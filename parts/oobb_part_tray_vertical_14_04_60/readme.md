@@ -122,6 +122,18 @@ rice
 mesh
 skate
 elder |  
+| bip_39_word_no_space_1 | crowd |  
+| bip_39_word_no_space_10 | crowdappearrunlampcranericemeshskateelderprosper |  
+| bip_39_word_no_space_11 | crowdappearrunlampcranericemeshskateelderprosperkiss |  
+| bip_39_word_no_space_12 | crowdappearrunlampcranericemeshskateelderprosperkissalley |  
+| bip_39_word_no_space_2 | crowdappear |  
+| bip_39_word_no_space_3 | crowdappearrun |  
+| bip_39_word_no_space_4 | crowdappearrunlamp |  
+| bip_39_word_no_space_5 | crowdappearrunlampcrane |  
+| bip_39_word_no_space_6 | crowdappearrunlampcranerice |  
+| bip_39_word_no_space_7 | crowdappearrunlampcranericemesh |  
+| bip_39_word_no_space_8 | crowdappearrunlampcranericemeshskate |  
+| bip_39_word_no_space_9 | crowdappearrunlampcranericemeshskateelder |  
 | bip_39_word_space_0 | ['crowd', 'appear', 'run', 'lamp', 'crane', 'rice', 'mesh', 'skate', 'elder', 'prosper', 'kiss', 'alley'] |  
 | bip_39_word_space_1 | crowd |  
 | bip_39_word_space_10 | crowd appear run lamp crane rice mesh skate elder prosper |  

@@ -122,6 +122,18 @@ dragon
 silly
 still
 forget |  
+| bip_39_word_no_space_1 | brand |  
+| bip_39_word_no_space_10 | brandclinicexpireretireathletedragonsillystillforgetrisk |  
+| bip_39_word_no_space_11 | brandclinicexpireretireathletedragonsillystillforgetriskaccess |  
+| bip_39_word_no_space_12 | brandclinicexpireretireathletedragonsillystillforgetriskaccessair |  
+| bip_39_word_no_space_2 | brandclinic |  
+| bip_39_word_no_space_3 | brandclinicexpire |  
+| bip_39_word_no_space_4 | brandclinicexpireretire |  
+| bip_39_word_no_space_5 | brandclinicexpireretireathlete |  
+| bip_39_word_no_space_6 | brandclinicexpireretireathletedragon |  
+| bip_39_word_no_space_7 | brandclinicexpireretireathletedragonsilly |  
+| bip_39_word_no_space_8 | brandclinicexpireretireathletedragonsillystill |  
+| bip_39_word_no_space_9 | brandclinicexpireretireathletedragonsillystillforget |  
 | bip_39_word_space_0 | ['brand', 'clinic', 'expire', 'retire', 'athlete', 'dragon', 'silly', 'still', 'forget', 'risk', 'access', 'air'] |  
 | bip_39_word_space_1 | brand |  
 | bip_39_word_space_10 | brand clinic expire retire athlete dragon silly still forget risk |  

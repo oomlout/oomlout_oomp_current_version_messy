@@ -122,6 +122,18 @@ connect
 vault
 track
 vintage |  
+| bip_39_word_no_space_1 | silver |  
+| bip_39_word_no_space_10 | silvercatchlargeclubcashconnectvaulttrackvintageguard |  
+| bip_39_word_no_space_11 | silvercatchlargeclubcashconnectvaulttrackvintageguardapology |  
+| bip_39_word_no_space_12 | silvercatchlargeclubcashconnectvaulttrackvintageguardapologyattend |  
+| bip_39_word_no_space_2 | silvercatch |  
+| bip_39_word_no_space_3 | silvercatchlarge |  
+| bip_39_word_no_space_4 | silvercatchlargeclub |  
+| bip_39_word_no_space_5 | silvercatchlargeclubcash |  
+| bip_39_word_no_space_6 | silvercatchlargeclubcashconnect |  
+| bip_39_word_no_space_7 | silvercatchlargeclubcashconnectvault |  
+| bip_39_word_no_space_8 | silvercatchlargeclubcashconnectvaulttrack |  
+| bip_39_word_no_space_9 | silvercatchlargeclubcashconnectvaulttrackvintage |  
 | bip_39_word_space_0 | ['silver', 'catch', 'large', 'club', 'cash', 'connect', 'vault', 'track', 'vintage', 'guard', 'apology', 'attend'] |  
 | bip_39_word_space_1 | silver |  
 | bip_39_word_space_10 | silver catch large club cash connect vault track vintage guard |  

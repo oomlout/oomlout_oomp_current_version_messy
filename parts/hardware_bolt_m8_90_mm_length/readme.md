@@ -122,6 +122,18 @@ poem
 girl
 clever
 chimney |  
+| bip_39_word_no_space_1 | seven |  
+| bip_39_word_no_space_10 | sevengoodtunausefulcigarpoemgirlcleverchimneycook |  
+| bip_39_word_no_space_11 | sevengoodtunausefulcigarpoemgirlcleverchimneycooksmall |  
+| bip_39_word_no_space_12 | sevengoodtunausefulcigarpoemgirlcleverchimneycooksmallaunt |  
+| bip_39_word_no_space_2 | sevengood |  
+| bip_39_word_no_space_3 | sevengoodtuna |  
+| bip_39_word_no_space_4 | sevengoodtunauseful |  
+| bip_39_word_no_space_5 | sevengoodtunausefulcigar |  
+| bip_39_word_no_space_6 | sevengoodtunausefulcigarpoem |  
+| bip_39_word_no_space_7 | sevengoodtunausefulcigarpoemgirl |  
+| bip_39_word_no_space_8 | sevengoodtunausefulcigarpoemgirlclever |  
+| bip_39_word_no_space_9 | sevengoodtunausefulcigarpoemgirlcleverchimney |  
 | bip_39_word_space_0 | ['seven', 'good', 'tuna', 'useful', 'cigar', 'poem', 'girl', 'clever', 'chimney', 'cook', 'small', 'aunt'] |  
 | bip_39_word_space_1 | seven |  
 | bip_39_word_space_10 | seven good tuna useful cigar poem girl clever chimney cook |  

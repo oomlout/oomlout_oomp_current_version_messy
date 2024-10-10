@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'easily
   peasant
 
   monster'
+bip_39_word_no_space_1: easily
+bip_39_word_no_space_10: easilyoftendirtbecomeentireobtainboxpeasantmonsterpoint
+bip_39_word_no_space_11: easilyoftendirtbecomeentireobtainboxpeasantmonsterpointharvest
+bip_39_word_no_space_12: easilyoftendirtbecomeentireobtainboxpeasantmonsterpointharvestask
+bip_39_word_no_space_2: easilyoften
+bip_39_word_no_space_3: easilyoftendirt
+bip_39_word_no_space_4: easilyoftendirtbecome
+bip_39_word_no_space_5: easilyoftendirtbecomeentire
+bip_39_word_no_space_6: easilyoftendirtbecomeentireobtain
+bip_39_word_no_space_7: easilyoftendirtbecomeentireobtainbox
+bip_39_word_no_space_8: easilyoftendirtbecomeentireobtainboxpeasant
+bip_39_word_no_space_9: easilyoftendirtbecomeentireobtainboxpeasantmonster
 bip_39_word_space_0:
 - easily
 - often

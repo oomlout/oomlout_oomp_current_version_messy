@@ -122,6 +122,18 @@ scheme
 strike
 hero
 oppose |  
+| bip_39_word_no_space_1 | rug |  
+| bip_39_word_no_space_10 | rugalarmrobustcodebindschemestrikeheroopposepet |  
+| bip_39_word_no_space_11 | rugalarmrobustcodebindschemestrikeheroopposepetrabbit |  
+| bip_39_word_no_space_12 | rugalarmrobustcodebindschemestrikeheroopposepetrabbitassist |  
+| bip_39_word_no_space_2 | rugalarm |  
+| bip_39_word_no_space_3 | rugalarmrobust |  
+| bip_39_word_no_space_4 | rugalarmrobustcode |  
+| bip_39_word_no_space_5 | rugalarmrobustcodebind |  
+| bip_39_word_no_space_6 | rugalarmrobustcodebindscheme |  
+| bip_39_word_no_space_7 | rugalarmrobustcodebindschemestrike |  
+| bip_39_word_no_space_8 | rugalarmrobustcodebindschemestrikehero |  
+| bip_39_word_no_space_9 | rugalarmrobustcodebindschemestrikeherooppose |  
 | bip_39_word_space_0 | ['rug', 'alarm', 'robust', 'code', 'bind', 'scheme', 'strike', 'hero', 'oppose', 'pet', 'rabbit', 'assist'] |  
 | bip_39_word_space_1 | rug |  
 | bip_39_word_space_10 | rug alarm robust code bind scheme strike hero oppose pet |  

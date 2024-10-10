@@ -122,6 +122,18 @@ opinion
 beyond
 belt
 rate |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | cantonguerebuildcertainoneopinionbeyondbeltratesilk |  
+| bip_39_word_no_space_11 | cantonguerebuildcertainoneopinionbeyondbeltratesilkdeposit |  
+| bip_39_word_no_space_12 | cantonguerebuildcertainoneopinionbeyondbeltratesilkdepositarrest |  
+| bip_39_word_no_space_2 | cantongue |  
+| bip_39_word_no_space_3 | cantonguerebuild |  
+| bip_39_word_no_space_4 | cantonguerebuildcertain |  
+| bip_39_word_no_space_5 | cantonguerebuildcertainone |  
+| bip_39_word_no_space_6 | cantonguerebuildcertainoneopinion |  
+| bip_39_word_no_space_7 | cantonguerebuildcertainoneopinionbeyond |  
+| bip_39_word_no_space_8 | cantonguerebuildcertainoneopinionbeyondbelt |  
+| bip_39_word_no_space_9 | cantonguerebuildcertainoneopinionbeyondbeltrate |  
 | bip_39_word_space_0 | ['can', 'tongue', 'rebuild', 'certain', 'one', 'opinion', 'beyond', 'belt', 'rate', 'silk', 'deposit', 'arrest'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can tongue rebuild certain one opinion beyond belt rate silk |  

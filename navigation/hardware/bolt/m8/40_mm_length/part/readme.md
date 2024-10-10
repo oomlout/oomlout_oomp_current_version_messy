@@ -122,6 +122,18 @@ palm
 ready
 coin
 fashion |  
+| bip_39_word_no_space_1 | nephew |  
+| bip_39_word_no_space_10 | nephewrailpieceacidtunapalmreadycoinfashioneconomy |  
+| bip_39_word_no_space_11 | nephewrailpieceacidtunapalmreadycoinfashioneconomypigeon |  
+| bip_39_word_no_space_12 | nephewrailpieceacidtunapalmreadycoinfashioneconomypigeonattract |  
+| bip_39_word_no_space_2 | nephewrail |  
+| bip_39_word_no_space_3 | nephewrailpiece |  
+| bip_39_word_no_space_4 | nephewrailpieceacid |  
+| bip_39_word_no_space_5 | nephewrailpieceacidtuna |  
+| bip_39_word_no_space_6 | nephewrailpieceacidtunapalm |  
+| bip_39_word_no_space_7 | nephewrailpieceacidtunapalmready |  
+| bip_39_word_no_space_8 | nephewrailpieceacidtunapalmreadycoin |  
+| bip_39_word_no_space_9 | nephewrailpieceacidtunapalmreadycoinfashion |  
 | bip_39_word_space_0 | ['nephew', 'rail', 'piece', 'acid', 'tuna', 'palm', 'ready', 'coin', 'fashion', 'economy', 'pigeon', 'attract'] |  
 | bip_39_word_space_1 | nephew |  
 | bip_39_word_space_10 | nephew rail piece acid tuna palm ready coin fashion economy |  

@@ -122,6 +122,18 @@ enforce
 skill
 suit
 smoke |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportleaderexplainsailtopenforceskillsuitsmokeindoor |  
+| bip_39_word_no_space_11 | reportleaderexplainsailtopenforceskillsuitsmokeindoorelectric |  
+| bip_39_word_no_space_12 | reportleaderexplainsailtopenforceskillsuitsmokeindoorelectricarch |  
+| bip_39_word_no_space_2 | reportleader |  
+| bip_39_word_no_space_3 | reportleaderexplain |  
+| bip_39_word_no_space_4 | reportleaderexplainsail |  
+| bip_39_word_no_space_5 | reportleaderexplainsailtop |  
+| bip_39_word_no_space_6 | reportleaderexplainsailtopenforce |  
+| bip_39_word_no_space_7 | reportleaderexplainsailtopenforceskill |  
+| bip_39_word_no_space_8 | reportleaderexplainsailtopenforceskillsuit |  
+| bip_39_word_no_space_9 | reportleaderexplainsailtopenforceskillsuitsmoke |  
 | bip_39_word_space_0 | ['report', 'leader', 'explain', 'sail', 'top', 'enforce', 'skill', 'suit', 'smoke', 'indoor', 'electric', 'arch'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report leader explain sail top enforce skill suit smoke indoor |  

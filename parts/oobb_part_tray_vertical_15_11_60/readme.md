@@ -122,6 +122,18 @@ diesel
 legend
 stove
 swamp |  
+| bip_39_word_no_space_1 | law |  
+| bip_39_word_no_space_10 | lawbookfacetonguetokendiesellegendstoveswampplay |  
+| bip_39_word_no_space_11 | lawbookfacetonguetokendiesellegendstoveswampplayquote |  
+| bip_39_word_no_space_12 | lawbookfacetonguetokendiesellegendstoveswampplayquoteadmit |  
+| bip_39_word_no_space_2 | lawbook |  
+| bip_39_word_no_space_3 | lawbookface |  
+| bip_39_word_no_space_4 | lawbookfacetongue |  
+| bip_39_word_no_space_5 | lawbookfacetonguetoken |  
+| bip_39_word_no_space_6 | lawbookfacetonguetokendiesel |  
+| bip_39_word_no_space_7 | lawbookfacetonguetokendiesellegend |  
+| bip_39_word_no_space_8 | lawbookfacetonguetokendiesellegendstove |  
+| bip_39_word_no_space_9 | lawbookfacetonguetokendiesellegendstoveswamp |  
 | bip_39_word_space_0 | ['law', 'book', 'face', 'tongue', 'token', 'diesel', 'legend', 'stove', 'swamp', 'play', 'quote', 'admit'] |  
 | bip_39_word_space_1 | law |  
 | bip_39_word_space_10 | law book face tongue token diesel legend stove swamp play |  

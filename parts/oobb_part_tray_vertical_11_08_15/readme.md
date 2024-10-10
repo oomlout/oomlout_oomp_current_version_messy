@@ -122,6 +122,18 @@ again
 cement
 service
 panel |  
+| bip_39_word_no_space_1 | chicken |  
+| bip_39_word_no_space_10 | chickenreflectgridspoilresponseagaincementservicepanelsense |  
+| bip_39_word_no_space_11 | chickenreflectgridspoilresponseagaincementservicepanelsensecake |  
+| bip_39_word_no_space_12 | chickenreflectgridspoilresponseagaincementservicepanelsensecakeapprove |  
+| bip_39_word_no_space_2 | chickenreflect |  
+| bip_39_word_no_space_3 | chickenreflectgrid |  
+| bip_39_word_no_space_4 | chickenreflectgridspoil |  
+| bip_39_word_no_space_5 | chickenreflectgridspoilresponse |  
+| bip_39_word_no_space_6 | chickenreflectgridspoilresponseagain |  
+| bip_39_word_no_space_7 | chickenreflectgridspoilresponseagaincement |  
+| bip_39_word_no_space_8 | chickenreflectgridspoilresponseagaincementservice |  
+| bip_39_word_no_space_9 | chickenreflectgridspoilresponseagaincementservicepanel |  
 | bip_39_word_space_0 | ['chicken', 'reflect', 'grid', 'spoil', 'response', 'again', 'cement', 'service', 'panel', 'sense', 'cake', 'approve'] |  
 | bip_39_word_space_1 | chicken |  
 | bip_39_word_space_10 | chicken reflect grid spoil response again cement service panel sense |  

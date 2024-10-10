@@ -122,6 +122,18 @@ width
 find
 civil
 inhale |  
+| bip_39_word_no_space_1 | brief |  
+| bip_39_word_no_space_10 | briefcostscissorsidentifyitemwidthfindcivilinhaletruly |  
+| bip_39_word_no_space_11 | briefcostscissorsidentifyitemwidthfindcivilinhaletrulyinnocent |  
+| bip_39_word_no_space_12 | briefcostscissorsidentifyitemwidthfindcivilinhaletrulyinnocentangle |  
+| bip_39_word_no_space_2 | briefcost |  
+| bip_39_word_no_space_3 | briefcostscissors |  
+| bip_39_word_no_space_4 | briefcostscissorsidentify |  
+| bip_39_word_no_space_5 | briefcostscissorsidentifyitem |  
+| bip_39_word_no_space_6 | briefcostscissorsidentifyitemwidth |  
+| bip_39_word_no_space_7 | briefcostscissorsidentifyitemwidthfind |  
+| bip_39_word_no_space_8 | briefcostscissorsidentifyitemwidthfindcivil |  
+| bip_39_word_no_space_9 | briefcostscissorsidentifyitemwidthfindcivilinhale |  
 | bip_39_word_space_0 | ['brief', 'cost', 'scissors', 'identify', 'item', 'width', 'find', 'civil', 'inhale', 'truly', 'innocent', 'angle'] |  
 | bip_39_word_space_1 | brief |  
 | bip_39_word_space_10 | brief cost scissors identify item width find civil inhale truly |  

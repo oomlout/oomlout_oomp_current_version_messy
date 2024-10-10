@@ -122,6 +122,18 @@ family
 about
 cabbage
 weekend |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | claptellabsentskulldaringfamilyaboutcabbageweekendvague |  
+| bip_39_word_no_space_11 | claptellabsentskulldaringfamilyaboutcabbageweekendvaguefestival |  
+| bip_39_word_no_space_12 | claptellabsentskulldaringfamilyaboutcabbageweekendvaguefestivalapprove |  
+| bip_39_word_no_space_2 | claptell |  
+| bip_39_word_no_space_3 | claptellabsent |  
+| bip_39_word_no_space_4 | claptellabsentskull |  
+| bip_39_word_no_space_5 | claptellabsentskulldaring |  
+| bip_39_word_no_space_6 | claptellabsentskulldaringfamily |  
+| bip_39_word_no_space_7 | claptellabsentskulldaringfamilyabout |  
+| bip_39_word_no_space_8 | claptellabsentskulldaringfamilyaboutcabbage |  
+| bip_39_word_no_space_9 | claptellabsentskulldaringfamilyaboutcabbageweekend |  
 | bip_39_word_space_0 | ['clap', 'tell', 'absent', 'skull', 'daring', 'family', 'about', 'cabbage', 'weekend', 'vague', 'festival', 'approve'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap tell absent skull daring family about cabbage weekend vague |  

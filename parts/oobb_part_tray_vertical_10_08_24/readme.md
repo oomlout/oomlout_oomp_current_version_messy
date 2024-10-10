@@ -122,6 +122,18 @@ crater
 space
 apology
 ritual |  
+| bip_39_word_no_space_1 | float |  
+| bip_39_word_no_space_10 | floatregionhistorycargoheightcraterspaceapologyritualpatrol |  
+| bip_39_word_no_space_11 | floatregionhistorycargoheightcraterspaceapologyritualpatrolfault |  
+| bip_39_word_no_space_12 | floatregionhistorycargoheightcraterspaceapologyritualpatrolfaultamused |  
+| bip_39_word_no_space_2 | floatregion |  
+| bip_39_word_no_space_3 | floatregionhistory |  
+| bip_39_word_no_space_4 | floatregionhistorycargo |  
+| bip_39_word_no_space_5 | floatregionhistorycargoheight |  
+| bip_39_word_no_space_6 | floatregionhistorycargoheightcrater |  
+| bip_39_word_no_space_7 | floatregionhistorycargoheightcraterspace |  
+| bip_39_word_no_space_8 | floatregionhistorycargoheightcraterspaceapology |  
+| bip_39_word_no_space_9 | floatregionhistorycargoheightcraterspaceapologyritual |  
 | bip_39_word_space_0 | ['float', 'region', 'history', 'cargo', 'height', 'crater', 'space', 'apology', 'ritual', 'patrol', 'fault', 'amused'] |  
 | bip_39_word_space_1 | float |  
 | bip_39_word_space_10 | float region history cargo height crater space apology ritual patrol |  

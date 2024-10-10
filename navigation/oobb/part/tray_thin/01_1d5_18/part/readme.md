@@ -122,6 +122,18 @@ quit
 capital
 afraid
 depend |  
+| bip_39_word_no_space_1 | brown |  
+| bip_39_word_no_space_10 | browngorillaestaterhythmtattooquitcapitalafraiddependblind |  
+| bip_39_word_no_space_11 | browngorillaestaterhythmtattooquitcapitalafraiddependblindwild |  
+| bip_39_word_no_space_12 | browngorillaestaterhythmtattooquitcapitalafraiddependblindwildalter |  
+| bip_39_word_no_space_2 | browngorilla |  
+| bip_39_word_no_space_3 | browngorillaestate |  
+| bip_39_word_no_space_4 | browngorillaestaterhythm |  
+| bip_39_word_no_space_5 | browngorillaestaterhythmtattoo |  
+| bip_39_word_no_space_6 | browngorillaestaterhythmtattooquit |  
+| bip_39_word_no_space_7 | browngorillaestaterhythmtattooquitcapital |  
+| bip_39_word_no_space_8 | browngorillaestaterhythmtattooquitcapitalafraid |  
+| bip_39_word_no_space_9 | browngorillaestaterhythmtattooquitcapitalafraiddepend |  
 | bip_39_word_space_0 | ['brown', 'gorilla', 'estate', 'rhythm', 'tattoo', 'quit', 'capital', 'afraid', 'depend', 'blind', 'wild', 'alter'] |  
 | bip_39_word_space_1 | brown |  
 | bip_39_word_space_10 | brown gorilla estate rhythm tattoo quit capital afraid depend blind |  

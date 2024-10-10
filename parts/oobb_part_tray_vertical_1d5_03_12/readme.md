@@ -122,6 +122,18 @@ awake
 car
 bonus
 attitude |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attackdetectlibertypeanutdogawakecarbonusattitudeinvolve |  
+| bip_39_word_no_space_11 | attackdetectlibertypeanutdogawakecarbonusattitudeinvolvedinner |  
+| bip_39_word_no_space_12 | attackdetectlibertypeanutdogawakecarbonusattitudeinvolvedinnerauction |  
+| bip_39_word_no_space_2 | attackdetect |  
+| bip_39_word_no_space_3 | attackdetectliberty |  
+| bip_39_word_no_space_4 | attackdetectlibertypeanut |  
+| bip_39_word_no_space_5 | attackdetectlibertypeanutdog |  
+| bip_39_word_no_space_6 | attackdetectlibertypeanutdogawake |  
+| bip_39_word_no_space_7 | attackdetectlibertypeanutdogawakecar |  
+| bip_39_word_no_space_8 | attackdetectlibertypeanutdogawakecarbonus |  
+| bip_39_word_no_space_9 | attackdetectlibertypeanutdogawakecarbonusattitude |  
 | bip_39_word_space_0 | ['attack', 'detect', 'liberty', 'peanut', 'dog', 'awake', 'car', 'bonus', 'attitude', 'involve', 'dinner', 'auction'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack detect liberty peanut dog awake car bonus attitude involve |  

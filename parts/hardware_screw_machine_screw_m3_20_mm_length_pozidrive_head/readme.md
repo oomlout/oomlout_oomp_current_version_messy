@@ -122,6 +122,18 @@ luggage
 miss
 special
 drama |  
+| bip_39_word_no_space_1 | dress |  
+| bip_39_word_no_space_10 | dresslenddoseriskcastleluggagemissspecialdramahealth |  
+| bip_39_word_no_space_11 | dresslenddoseriskcastleluggagemissspecialdramahealthgospel |  
+| bip_39_word_no_space_12 | dresslenddoseriskcastleluggagemissspecialdramahealthgospelagain |  
+| bip_39_word_no_space_2 | dresslend |  
+| bip_39_word_no_space_3 | dresslenddose |  
+| bip_39_word_no_space_4 | dresslenddoserisk |  
+| bip_39_word_no_space_5 | dresslenddoseriskcastle |  
+| bip_39_word_no_space_6 | dresslenddoseriskcastleluggage |  
+| bip_39_word_no_space_7 | dresslenddoseriskcastleluggagemiss |  
+| bip_39_word_no_space_8 | dresslenddoseriskcastleluggagemissspecial |  
+| bip_39_word_no_space_9 | dresslenddoseriskcastleluggagemissspecialdrama |  
 | bip_39_word_space_0 | ['dress', 'lend', 'dose', 'risk', 'castle', 'luggage', 'miss', 'special', 'drama', 'health', 'gospel', 'again'] |  
 | bip_39_word_space_1 | dress |  
 | bip_39_word_space_10 | dress lend dose risk castle luggage miss special drama health |  

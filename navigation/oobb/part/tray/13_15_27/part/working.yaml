@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'toe
   finish
 
   bread'
+bip_39_word_no_space_1: toe
+bip_39_word_no_space_10: toeinsidestrategyclubeggendorseaccessfinishbreadbullet
+bip_39_word_no_space_11: toeinsidestrategyclubeggendorseaccessfinishbreadbulletplace
+bip_39_word_no_space_12: toeinsidestrategyclubeggendorseaccessfinishbreadbulletplacearrive
+bip_39_word_no_space_2: toeinside
+bip_39_word_no_space_3: toeinsidestrategy
+bip_39_word_no_space_4: toeinsidestrategyclub
+bip_39_word_no_space_5: toeinsidestrategyclubegg
+bip_39_word_no_space_6: toeinsidestrategyclubeggendorse
+bip_39_word_no_space_7: toeinsidestrategyclubeggendorseaccess
+bip_39_word_no_space_8: toeinsidestrategyclubeggendorseaccessfinish
+bip_39_word_no_space_9: toeinsidestrategyclubeggendorseaccessfinishbread
 bip_39_word_space_0:
 - toe
 - inside

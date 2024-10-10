@@ -122,6 +122,18 @@ paddle
 kite
 bread
 lemon |  
+| bip_39_word_no_space_1 | monitor |  
+| bip_39_word_no_space_10 | monitorquotecabinrobustfencepaddlekitebreadlemongoddess |  
+| bip_39_word_no_space_11 | monitorquotecabinrobustfencepaddlekitebreadlemongoddessbless |  
+| bip_39_word_no_space_12 | monitorquotecabinrobustfencepaddlekitebreadlemongoddessblessapple |  
+| bip_39_word_no_space_2 | monitorquote |  
+| bip_39_word_no_space_3 | monitorquotecabin |  
+| bip_39_word_no_space_4 | monitorquotecabinrobust |  
+| bip_39_word_no_space_5 | monitorquotecabinrobustfence |  
+| bip_39_word_no_space_6 | monitorquotecabinrobustfencepaddle |  
+| bip_39_word_no_space_7 | monitorquotecabinrobustfencepaddlekite |  
+| bip_39_word_no_space_8 | monitorquotecabinrobustfencepaddlekitebread |  
+| bip_39_word_no_space_9 | monitorquotecabinrobustfencepaddlekitebreadlemon |  
 | bip_39_word_space_0 | ['monitor', 'quote', 'cabin', 'robust', 'fence', 'paddle', 'kite', 'bread', 'lemon', 'goddess', 'bless', 'apple'] |  
 | bip_39_word_space_1 | monitor |  
 | bip_39_word_space_10 | monitor quote cabin robust fence paddle kite bread lemon goddess |  

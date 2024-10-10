@@ -122,6 +122,18 @@ borrow
 common
 rice
 slab |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilealcoholcrucialmousecloudborrowcommonriceslabjourney |  
+| bip_39_word_no_space_11 | mobilealcoholcrucialmousecloudborrowcommonriceslabjourneydizzy |  
+| bip_39_word_no_space_12 | mobilealcoholcrucialmousecloudborrowcommonriceslabjourneydizzyartefact |  
+| bip_39_word_no_space_2 | mobilealcohol |  
+| bip_39_word_no_space_3 | mobilealcoholcrucial |  
+| bip_39_word_no_space_4 | mobilealcoholcrucialmouse |  
+| bip_39_word_no_space_5 | mobilealcoholcrucialmousecloud |  
+| bip_39_word_no_space_6 | mobilealcoholcrucialmousecloudborrow |  
+| bip_39_word_no_space_7 | mobilealcoholcrucialmousecloudborrowcommon |  
+| bip_39_word_no_space_8 | mobilealcoholcrucialmousecloudborrowcommonrice |  
+| bip_39_word_no_space_9 | mobilealcoholcrucialmousecloudborrowcommonriceslab |  
 | bip_39_word_space_0 | ['mobile', 'alcohol', 'crucial', 'mouse', 'cloud', 'borrow', 'common', 'rice', 'slab', 'journey', 'dizzy', 'artefact'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile alcohol crucial mouse cloud borrow common rice slab journey |  

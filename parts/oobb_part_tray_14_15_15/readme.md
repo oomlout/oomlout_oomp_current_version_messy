@@ -109,6 +109,17 @@ assault
 patrol
 aerobic
 loan |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenstoveisolateglovearrowassaultpatrolaerobicloanalbum |  
+| bip_39_word_no_space_11 | citizenstoveisolateglovearrowassaultpatrolaerobicloanalbumscorpion |  
+| bip_39_word_no_space_2 | citizenstove |  
+| bip_39_word_no_space_3 | citizenstoveisolate |  
+| bip_39_word_no_space_4 | citizenstoveisolateglove |  
+| bip_39_word_no_space_5 | citizenstoveisolateglovearrow |  
+| bip_39_word_no_space_6 | citizenstoveisolateglovearrowassault |  
+| bip_39_word_no_space_7 | citizenstoveisolateglovearrowassaultpatrol |  
+| bip_39_word_no_space_8 | citizenstoveisolateglovearrowassaultpatrolaerobic |  
+| bip_39_word_no_space_9 | citizenstoveisolateglovearrowassaultpatrolaerobicloan |  
 | bip_39_word_space_0 | ['citizen', 'stove', 'isolate', 'glove', 'arrow', 'assault', 'patrol', 'aerobic', 'loan', 'album', 'scorpion'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen stove isolate glove arrow assault patrol aerobic loan album |  

@@ -122,6 +122,18 @@ ten
 physical
 core
 inhale |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialpuddingcasinosecondsunsettenphysicalcoreinhalespray |  
+| bip_39_word_no_space_11 | specialpuddingcasinosecondsunsettenphysicalcoreinhalespraymachine |  
+| bip_39_word_no_space_12 | specialpuddingcasinosecondsunsettenphysicalcoreinhalespraymachineartist |  
+| bip_39_word_no_space_2 | specialpudding |  
+| bip_39_word_no_space_3 | specialpuddingcasino |  
+| bip_39_word_no_space_4 | specialpuddingcasinosecond |  
+| bip_39_word_no_space_5 | specialpuddingcasinosecondsunset |  
+| bip_39_word_no_space_6 | specialpuddingcasinosecondsunsetten |  
+| bip_39_word_no_space_7 | specialpuddingcasinosecondsunsettenphysical |  
+| bip_39_word_no_space_8 | specialpuddingcasinosecondsunsettenphysicalcore |  
+| bip_39_word_no_space_9 | specialpuddingcasinosecondsunsettenphysicalcoreinhale |  
 | bip_39_word_space_0 | ['special', 'pudding', 'casino', 'second', 'sunset', 'ten', 'physical', 'core', 'inhale', 'spray', 'machine', 'artist'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special pudding casino second sunset ten physical core inhale spray |  

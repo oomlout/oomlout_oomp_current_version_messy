@@ -122,6 +122,18 @@ hip
 junk
 skull
 motor |  
+| bip_39_word_no_space_1 | dash |  
+| bip_39_word_no_space_10 | dashdigitalgasowneyehipjunkskullmotortravel |  
+| bip_39_word_no_space_11 | dashdigitalgasowneyehipjunkskullmotortravelbottom |  
+| bip_39_word_no_space_12 | dashdigitalgasowneyehipjunkskullmotortravelbottomalert |  
+| bip_39_word_no_space_2 | dashdigital |  
+| bip_39_word_no_space_3 | dashdigitalgas |  
+| bip_39_word_no_space_4 | dashdigitalgasown |  
+| bip_39_word_no_space_5 | dashdigitalgasowneye |  
+| bip_39_word_no_space_6 | dashdigitalgasowneyehip |  
+| bip_39_word_no_space_7 | dashdigitalgasowneyehipjunk |  
+| bip_39_word_no_space_8 | dashdigitalgasowneyehipjunkskull |  
+| bip_39_word_no_space_9 | dashdigitalgasowneyehipjunkskullmotor |  
 | bip_39_word_space_0 | ['dash', 'digital', 'gas', 'own', 'eye', 'hip', 'junk', 'skull', 'motor', 'travel', 'bottom', 'alert'] |  
 | bip_39_word_space_1 | dash |  
 | bip_39_word_space_10 | dash digital gas own eye hip junk skull motor travel |  

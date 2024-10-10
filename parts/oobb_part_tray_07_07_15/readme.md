@@ -122,6 +122,18 @@ arrow
 extend
 size
 resist |  
+| bip_39_word_no_space_1 | frequent |  
+| bip_39_word_no_space_10 | frequentforwardresemblefruitcactusarrowextendsizeresistsoul |  
+| bip_39_word_no_space_11 | frequentforwardresemblefruitcactusarrowextendsizeresistsoulmatch |  
+| bip_39_word_no_space_12 | frequentforwardresemblefruitcactusarrowextendsizeresistsoulmatchalcohol |  
+| bip_39_word_no_space_2 | frequentforward |  
+| bip_39_word_no_space_3 | frequentforwardresemble |  
+| bip_39_word_no_space_4 | frequentforwardresemblefruit |  
+| bip_39_word_no_space_5 | frequentforwardresemblefruitcactus |  
+| bip_39_word_no_space_6 | frequentforwardresemblefruitcactusarrow |  
+| bip_39_word_no_space_7 | frequentforwardresemblefruitcactusarrowextend |  
+| bip_39_word_no_space_8 | frequentforwardresemblefruitcactusarrowextendsize |  
+| bip_39_word_no_space_9 | frequentforwardresemblefruitcactusarrowextendsizeresist |  
 | bip_39_word_space_0 | ['frequent', 'forward', 'resemble', 'fruit', 'cactus', 'arrow', 'extend', 'size', 'resist', 'soul', 'match', 'alcohol'] |  
 | bip_39_word_space_1 | frequent |  
 | bip_39_word_space_10 | frequent forward resemble fruit cactus arrow extend size resist soul |  

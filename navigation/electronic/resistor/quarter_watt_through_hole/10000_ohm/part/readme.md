@@ -122,6 +122,18 @@ attend
 office
 antique
 donkey |  
+| bip_39_word_no_space_1 | winner |  
+| bip_39_word_no_space_10 | winnerlinklanguagewaitexposeattendofficeantiquedonkeypepper |  
+| bip_39_word_no_space_11 | winnerlinklanguagewaitexposeattendofficeantiquedonkeypepperscript |  
+| bip_39_word_no_space_12 | winnerlinklanguagewaitexposeattendofficeantiquedonkeypepperscriptaction |  
+| bip_39_word_no_space_2 | winnerlink |  
+| bip_39_word_no_space_3 | winnerlinklanguage |  
+| bip_39_word_no_space_4 | winnerlinklanguagewait |  
+| bip_39_word_no_space_5 | winnerlinklanguagewaitexpose |  
+| bip_39_word_no_space_6 | winnerlinklanguagewaitexposeattend |  
+| bip_39_word_no_space_7 | winnerlinklanguagewaitexposeattendoffice |  
+| bip_39_word_no_space_8 | winnerlinklanguagewaitexposeattendofficeantique |  
+| bip_39_word_no_space_9 | winnerlinklanguagewaitexposeattendofficeantiquedonkey |  
 | bip_39_word_space_0 | ['winner', 'link', 'language', 'wait', 'expose', 'attend', 'office', 'antique', 'donkey', 'pepper', 'script', 'action'] |  
 | bip_39_word_space_1 | winner |  
 | bip_39_word_space_10 | winner link language wait expose attend office antique donkey pepper |  

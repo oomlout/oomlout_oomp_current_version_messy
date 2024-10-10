@@ -122,6 +122,18 @@ example
 army
 slogan
 abuse |  
+| bip_39_word_no_space_1 | volcano |  
+| bip_39_word_no_space_10 | volcanodragonbenchstepslenderexamplearmysloganabuseconsider |  
+| bip_39_word_no_space_11 | volcanodragonbenchstepslenderexamplearmysloganabuseconsidercaptain |  
+| bip_39_word_no_space_12 | volcanodragonbenchstepslenderexamplearmysloganabuseconsidercaptainattack |  
+| bip_39_word_no_space_2 | volcanodragon |  
+| bip_39_word_no_space_3 | volcanodragonbench |  
+| bip_39_word_no_space_4 | volcanodragonbenchstep |  
+| bip_39_word_no_space_5 | volcanodragonbenchstepslender |  
+| bip_39_word_no_space_6 | volcanodragonbenchstepslenderexample |  
+| bip_39_word_no_space_7 | volcanodragonbenchstepslenderexamplearmy |  
+| bip_39_word_no_space_8 | volcanodragonbenchstepslenderexamplearmyslogan |  
+| bip_39_word_no_space_9 | volcanodragonbenchstepslenderexamplearmysloganabuse |  
 | bip_39_word_space_0 | ['volcano', 'dragon', 'bench', 'step', 'slender', 'example', 'army', 'slogan', 'abuse', 'consider', 'captain', 'attack'] |  
 | bip_39_word_space_1 | volcano |  
 | bip_39_word_space_10 | volcano dragon bench step slender example army slogan abuse consider |  

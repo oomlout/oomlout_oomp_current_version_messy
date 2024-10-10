@@ -122,6 +122,18 @@ grape
 wedding
 gauge
 surge |  
+| bip_39_word_no_space_1 | charge |  
+| bip_39_word_no_space_10 | chargelinkoftendryanalystgrapeweddinggaugesurgegiant |  
+| bip_39_word_no_space_11 | chargelinkoftendryanalystgrapeweddinggaugesurgegiantgarlic |  
+| bip_39_word_no_space_12 | chargelinkoftendryanalystgrapeweddinggaugesurgegiantgarlicalready |  
+| bip_39_word_no_space_2 | chargelink |  
+| bip_39_word_no_space_3 | chargelinkoften |  
+| bip_39_word_no_space_4 | chargelinkoftendry |  
+| bip_39_word_no_space_5 | chargelinkoftendryanalyst |  
+| bip_39_word_no_space_6 | chargelinkoftendryanalystgrape |  
+| bip_39_word_no_space_7 | chargelinkoftendryanalystgrapewedding |  
+| bip_39_word_no_space_8 | chargelinkoftendryanalystgrapeweddinggauge |  
+| bip_39_word_no_space_9 | chargelinkoftendryanalystgrapeweddinggaugesurge |  
 | bip_39_word_space_0 | ['charge', 'link', 'often', 'dry', 'analyst', 'grape', 'wedding', 'gauge', 'surge', 'giant', 'garlic', 'already'] |  
 | bip_39_word_space_1 | charge |  
 | bip_39_word_space_10 | charge link often dry analyst grape wedding gauge surge giant |  

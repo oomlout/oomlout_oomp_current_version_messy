@@ -122,6 +122,18 @@ midnight
 game
 latin
 bird |  
+| bip_39_word_no_space_1 | upgrade |  
+| bip_39_word_no_space_10 | upgradewaspweaponadvicelendmidnightgamelatinbirddish |  
+| bip_39_word_no_space_11 | upgradewaspweaponadvicelendmidnightgamelatinbirddishdiamond |  
+| bip_39_word_no_space_12 | upgradewaspweaponadvicelendmidnightgamelatinbirddishdiamondadd |  
+| bip_39_word_no_space_2 | upgradewasp |  
+| bip_39_word_no_space_3 | upgradewaspweapon |  
+| bip_39_word_no_space_4 | upgradewaspweaponadvice |  
+| bip_39_word_no_space_5 | upgradewaspweaponadvicelend |  
+| bip_39_word_no_space_6 | upgradewaspweaponadvicelendmidnight |  
+| bip_39_word_no_space_7 | upgradewaspweaponadvicelendmidnightgame |  
+| bip_39_word_no_space_8 | upgradewaspweaponadvicelendmidnightgamelatin |  
+| bip_39_word_no_space_9 | upgradewaspweaponadvicelendmidnightgamelatinbird |  
 | bip_39_word_space_0 | ['upgrade', 'wasp', 'weapon', 'advice', 'lend', 'midnight', 'game', 'latin', 'bird', 'dish', 'diamond', 'add'] |  
 | bip_39_word_space_1 | upgrade |  
 | bip_39_word_space_10 | upgrade wasp weapon advice lend midnight game latin bird dish |  

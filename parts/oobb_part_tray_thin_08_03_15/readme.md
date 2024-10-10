@@ -122,6 +122,18 @@ catch
 fork
 perfect
 busy |  
+| bip_39_word_no_space_1 | silk |  
+| bip_39_word_no_space_10 | silksmoothdecadescalequotecatchforkperfectbusycool |  
+| bip_39_word_no_space_11 | silksmoothdecadescalequotecatchforkperfectbusycoolstage |  
+| bip_39_word_no_space_12 | silksmoothdecadescalequotecatchforkperfectbusycoolstageany |  
+| bip_39_word_no_space_2 | silksmooth |  
+| bip_39_word_no_space_3 | silksmoothdecade |  
+| bip_39_word_no_space_4 | silksmoothdecadescale |  
+| bip_39_word_no_space_5 | silksmoothdecadescalequote |  
+| bip_39_word_no_space_6 | silksmoothdecadescalequotecatch |  
+| bip_39_word_no_space_7 | silksmoothdecadescalequotecatchfork |  
+| bip_39_word_no_space_8 | silksmoothdecadescalequotecatchforkperfect |  
+| bip_39_word_no_space_9 | silksmoothdecadescalequotecatchforkperfectbusy |  
 | bip_39_word_space_0 | ['silk', 'smooth', 'decade', 'scale', 'quote', 'catch', 'fork', 'perfect', 'busy', 'cool', 'stage', 'any'] |  
 | bip_39_word_space_1 | silk |  
 | bip_39_word_space_10 | silk smooth decade scale quote catch fork perfect busy cool |  

@@ -122,6 +122,18 @@ piano
 item
 vendor
 deposit |  
+| bip_39_word_no_space_1 | ostrich |  
+| bip_39_word_no_space_10 | ostrichmeltspidergrapeomitpianoitemvendordepositselect |  
+| bip_39_word_no_space_11 | ostrichmeltspidergrapeomitpianoitemvendordepositselectpurpose |  
+| bip_39_word_no_space_12 | ostrichmeltspidergrapeomitpianoitemvendordepositselectpurposeantenna |  
+| bip_39_word_no_space_2 | ostrichmelt |  
+| bip_39_word_no_space_3 | ostrichmeltspider |  
+| bip_39_word_no_space_4 | ostrichmeltspidergrape |  
+| bip_39_word_no_space_5 | ostrichmeltspidergrapeomit |  
+| bip_39_word_no_space_6 | ostrichmeltspidergrapeomitpiano |  
+| bip_39_word_no_space_7 | ostrichmeltspidergrapeomitpianoitem |  
+| bip_39_word_no_space_8 | ostrichmeltspidergrapeomitpianoitemvendor |  
+| bip_39_word_no_space_9 | ostrichmeltspidergrapeomitpianoitemvendordeposit |  
 | bip_39_word_space_0 | ['ostrich', 'melt', 'spider', 'grape', 'omit', 'piano', 'item', 'vendor', 'deposit', 'select', 'purpose', 'antenna'] |  
 | bip_39_word_space_1 | ostrich |  
 | bip_39_word_space_10 | ostrich melt spider grape omit piano item vendor deposit select |  

@@ -122,6 +122,18 @@ gravity
 nephew
 ball
 family |  
+| bip_39_word_no_space_1 | adjust |  
+| bip_39_word_no_space_10 | adjustnoisedinosaurtrappopulargravitynephewballfamilysurprise |  
+| bip_39_word_no_space_11 | adjustnoisedinosaurtrappopulargravitynephewballfamilysurprisefurnace |  
+| bip_39_word_no_space_12 | adjustnoisedinosaurtrappopulargravitynephewballfamilysurprisefurnaceacoustic |  
+| bip_39_word_no_space_2 | adjustnoise |  
+| bip_39_word_no_space_3 | adjustnoisedinosaur |  
+| bip_39_word_no_space_4 | adjustnoisedinosaurtrap |  
+| bip_39_word_no_space_5 | adjustnoisedinosaurtrappopular |  
+| bip_39_word_no_space_6 | adjustnoisedinosaurtrappopulargravity |  
+| bip_39_word_no_space_7 | adjustnoisedinosaurtrappopulargravitynephew |  
+| bip_39_word_no_space_8 | adjustnoisedinosaurtrappopulargravitynephewball |  
+| bip_39_word_no_space_9 | adjustnoisedinosaurtrappopulargravitynephewballfamily |  
 | bip_39_word_space_0 | ['adjust', 'noise', 'dinosaur', 'trap', 'popular', 'gravity', 'nephew', 'ball', 'family', 'surprise', 'furnace', 'acoustic'] |  
 | bip_39_word_space_1 | adjust |  
 | bip_39_word_space_10 | adjust noise dinosaur trap popular gravity nephew ball family surprise |  

@@ -122,6 +122,18 @@ brother
 police
 pencil
 slow |  
+| bip_39_word_no_space_1 | coral |  
+| bip_39_word_no_space_10 | coralgarmenthedgehogappearbelievebrotherpolicepencilslowhair |  
+| bip_39_word_no_space_11 | coralgarmenthedgehogappearbelievebrotherpolicepencilslowhaircrime |  
+| bip_39_word_no_space_12 | coralgarmenthedgehogappearbelievebrotherpolicepencilslowhaircrimeadd |  
+| bip_39_word_no_space_2 | coralgarment |  
+| bip_39_word_no_space_3 | coralgarmenthedgehog |  
+| bip_39_word_no_space_4 | coralgarmenthedgehogappear |  
+| bip_39_word_no_space_5 | coralgarmenthedgehogappearbelieve |  
+| bip_39_word_no_space_6 | coralgarmenthedgehogappearbelievebrother |  
+| bip_39_word_no_space_7 | coralgarmenthedgehogappearbelievebrotherpolice |  
+| bip_39_word_no_space_8 | coralgarmenthedgehogappearbelievebrotherpolicepencil |  
+| bip_39_word_no_space_9 | coralgarmenthedgehogappearbelievebrotherpolicepencilslow |  
 | bip_39_word_space_0 | ['coral', 'garment', 'hedgehog', 'appear', 'believe', 'brother', 'police', 'pencil', 'slow', 'hair', 'crime', 'add'] |  
 | bip_39_word_space_1 | coral |  
 | bip_39_word_space_10 | coral garment hedgehog appear believe brother police pencil slow hair |  

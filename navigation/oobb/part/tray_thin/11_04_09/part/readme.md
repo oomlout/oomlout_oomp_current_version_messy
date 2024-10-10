@@ -122,6 +122,18 @@ ahead
 alarm
 raise
 motion |  
+| bip_39_word_no_space_1 | shadow |  
+| bip_39_word_no_space_10 | shadowwaveonionherobicycleaheadalarmraisemotionscissors |  
+| bip_39_word_no_space_11 | shadowwaveonionherobicycleaheadalarmraisemotionscissorsglass |  
+| bip_39_word_no_space_12 | shadowwaveonionherobicycleaheadalarmraisemotionscissorsglassagent |  
+| bip_39_word_no_space_2 | shadowwave |  
+| bip_39_word_no_space_3 | shadowwaveonion |  
+| bip_39_word_no_space_4 | shadowwaveonionhero |  
+| bip_39_word_no_space_5 | shadowwaveonionherobicycle |  
+| bip_39_word_no_space_6 | shadowwaveonionherobicycleahead |  
+| bip_39_word_no_space_7 | shadowwaveonionherobicycleaheadalarm |  
+| bip_39_word_no_space_8 | shadowwaveonionherobicycleaheadalarmraise |  
+| bip_39_word_no_space_9 | shadowwaveonionherobicycleaheadalarmraisemotion |  
 | bip_39_word_space_0 | ['shadow', 'wave', 'onion', 'hero', 'bicycle', 'ahead', 'alarm', 'raise', 'motion', 'scissors', 'glass', 'agent'] |  
 | bip_39_word_space_1 | shadow |  
 | bip_39_word_space_10 | shadow wave onion hero bicycle ahead alarm raise motion scissors |  

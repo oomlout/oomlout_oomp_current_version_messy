@@ -122,6 +122,18 @@ cactus
 daughter
 vast
 culture |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wrongdoseunfairautorapidcactusdaughtervastculturetwist |  
+| bip_39_word_no_space_11 | wrongdoseunfairautorapidcactusdaughtervastculturetwistpoet |  
+| bip_39_word_no_space_12 | wrongdoseunfairautorapidcactusdaughtervastculturetwistpoetadvance |  
+| bip_39_word_no_space_2 | wrongdose |  
+| bip_39_word_no_space_3 | wrongdoseunfair |  
+| bip_39_word_no_space_4 | wrongdoseunfairauto |  
+| bip_39_word_no_space_5 | wrongdoseunfairautorapid |  
+| bip_39_word_no_space_6 | wrongdoseunfairautorapidcactus |  
+| bip_39_word_no_space_7 | wrongdoseunfairautorapidcactusdaughter |  
+| bip_39_word_no_space_8 | wrongdoseunfairautorapidcactusdaughtervast |  
+| bip_39_word_no_space_9 | wrongdoseunfairautorapidcactusdaughtervastculture |  
 | bip_39_word_space_0 | ['wrong', 'dose', 'unfair', 'auto', 'rapid', 'cactus', 'daughter', 'vast', 'culture', 'twist', 'poet', 'advance'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong dose unfair auto rapid cactus daughter vast culture twist |  

@@ -122,6 +122,18 @@ paper
 surround
 pelican
 control |  
+| bip_39_word_no_space_1 | soda |  
+| bip_39_word_no_space_10 | sodacarttongueapplecrouchpapersurroundpelicancontroltunnel |  
+| bip_39_word_no_space_11 | sodacarttongueapplecrouchpapersurroundpelicancontroltunnelring |  
+| bip_39_word_no_space_12 | sodacarttongueapplecrouchpapersurroundpelicancontroltunnelringamazing |  
+| bip_39_word_no_space_2 | sodacart |  
+| bip_39_word_no_space_3 | sodacarttongue |  
+| bip_39_word_no_space_4 | sodacarttongueapple |  
+| bip_39_word_no_space_5 | sodacarttongueapplecrouch |  
+| bip_39_word_no_space_6 | sodacarttongueapplecrouchpaper |  
+| bip_39_word_no_space_7 | sodacarttongueapplecrouchpapersurround |  
+| bip_39_word_no_space_8 | sodacarttongueapplecrouchpapersurroundpelican |  
+| bip_39_word_no_space_9 | sodacarttongueapplecrouchpapersurroundpelicancontrol |  
 | bip_39_word_space_0 | ['soda', 'cart', 'tongue', 'apple', 'crouch', 'paper', 'surround', 'pelican', 'control', 'tunnel', 'ring', 'amazing'] |  
 | bip_39_word_space_1 | soda |  
 | bip_39_word_space_10 | soda cart tongue apple crouch paper surround pelican control tunnel |  

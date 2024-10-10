@@ -122,6 +122,18 @@ sustain
 hobby
 actor
 muffin |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicfetchmyselfadultswordsustainhobbyactormuffingorilla |  
+| bip_39_word_no_space_11 | picnicfetchmyselfadultswordsustainhobbyactormuffingorillaensure |  
+| bip_39_word_no_space_12 | picnicfetchmyselfadultswordsustainhobbyactormuffingorillaensureabstract |  
+| bip_39_word_no_space_2 | picnicfetch |  
+| bip_39_word_no_space_3 | picnicfetchmyself |  
+| bip_39_word_no_space_4 | picnicfetchmyselfadult |  
+| bip_39_word_no_space_5 | picnicfetchmyselfadultsword |  
+| bip_39_word_no_space_6 | picnicfetchmyselfadultswordsustain |  
+| bip_39_word_no_space_7 | picnicfetchmyselfadultswordsustainhobby |  
+| bip_39_word_no_space_8 | picnicfetchmyselfadultswordsustainhobbyactor |  
+| bip_39_word_no_space_9 | picnicfetchmyselfadultswordsustainhobbyactormuffin |  
 | bip_39_word_space_0 | ['picnic', 'fetch', 'myself', 'adult', 'sword', 'sustain', 'hobby', 'actor', 'muffin', 'gorilla', 'ensure', 'abstract'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic fetch myself adult sword sustain hobby actor muffin gorilla |  

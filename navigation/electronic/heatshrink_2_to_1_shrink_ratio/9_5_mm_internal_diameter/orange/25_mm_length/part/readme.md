@@ -122,6 +122,18 @@ welcome
 conduct
 will
 crucial |  
+| bip_39_word_no_space_1 | amazing |  
+| bip_39_word_no_space_10 | amazingtroubleaboveoxygenmustwelcomeconductwillcrucialgrid |  
+| bip_39_word_no_space_11 | amazingtroubleaboveoxygenmustwelcomeconductwillcrucialgridcredit |  
+| bip_39_word_no_space_12 | amazingtroubleaboveoxygenmustwelcomeconductwillcrucialgridcreditangry |  
+| bip_39_word_no_space_2 | amazingtrouble |  
+| bip_39_word_no_space_3 | amazingtroubleabove |  
+| bip_39_word_no_space_4 | amazingtroubleaboveoxygen |  
+| bip_39_word_no_space_5 | amazingtroubleaboveoxygenmust |  
+| bip_39_word_no_space_6 | amazingtroubleaboveoxygenmustwelcome |  
+| bip_39_word_no_space_7 | amazingtroubleaboveoxygenmustwelcomeconduct |  
+| bip_39_word_no_space_8 | amazingtroubleaboveoxygenmustwelcomeconductwill |  
+| bip_39_word_no_space_9 | amazingtroubleaboveoxygenmustwelcomeconductwillcrucial |  
 | bip_39_word_space_0 | ['amazing', 'trouble', 'above', 'oxygen', 'must', 'welcome', 'conduct', 'will', 'crucial', 'grid', 'credit', 'angry'] |  
 | bip_39_word_space_1 | amazing |  
 | bip_39_word_space_10 | amazing trouble above oxygen must welcome conduct will crucial grid |  

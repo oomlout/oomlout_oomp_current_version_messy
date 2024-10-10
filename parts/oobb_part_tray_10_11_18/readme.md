@@ -122,6 +122,18 @@ snap
 cheap
 interest
 core |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validlettercattleneedinspiresnapcheapinterestcorebone |  
+| bip_39_word_no_space_11 | validlettercattleneedinspiresnapcheapinterestcorebonepoem |  
+| bip_39_word_no_space_12 | validlettercattleneedinspiresnapcheapinterestcorebonepoemamused |  
+| bip_39_word_no_space_2 | validletter |  
+| bip_39_word_no_space_3 | validlettercattle |  
+| bip_39_word_no_space_4 | validlettercattleneed |  
+| bip_39_word_no_space_5 | validlettercattleneedinspire |  
+| bip_39_word_no_space_6 | validlettercattleneedinspiresnap |  
+| bip_39_word_no_space_7 | validlettercattleneedinspiresnapcheap |  
+| bip_39_word_no_space_8 | validlettercattleneedinspiresnapcheapinterest |  
+| bip_39_word_no_space_9 | validlettercattleneedinspiresnapcheapinterestcore |  
 | bip_39_word_space_0 | ['valid', 'letter', 'cattle', 'need', 'inspire', 'snap', 'cheap', 'interest', 'core', 'bone', 'poem', 'amused'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid letter cattle need inspire snap cheap interest core bone |  

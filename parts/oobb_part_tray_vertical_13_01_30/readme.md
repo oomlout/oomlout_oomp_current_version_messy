@@ -122,6 +122,18 @@ usage
 kangaroo
 come
 release |  
+| bip_39_word_no_space_1 | hair |  
+| bip_39_word_no_space_10 | hairtumblepolarrhythmknowusagekangaroocomereleasecaught |  
+| bip_39_word_no_space_11 | hairtumblepolarrhythmknowusagekangaroocomereleasecaughtpresent |  
+| bip_39_word_no_space_12 | hairtumblepolarrhythmknowusagekangaroocomereleasecaughtpresentacquire |  
+| bip_39_word_no_space_2 | hairtumble |  
+| bip_39_word_no_space_3 | hairtumblepolar |  
+| bip_39_word_no_space_4 | hairtumblepolarrhythm |  
+| bip_39_word_no_space_5 | hairtumblepolarrhythmknow |  
+| bip_39_word_no_space_6 | hairtumblepolarrhythmknowusage |  
+| bip_39_word_no_space_7 | hairtumblepolarrhythmknowusagekangaroo |  
+| bip_39_word_no_space_8 | hairtumblepolarrhythmknowusagekangaroocome |  
+| bip_39_word_no_space_9 | hairtumblepolarrhythmknowusagekangaroocomerelease |  
 | bip_39_word_space_0 | ['hair', 'tumble', 'polar', 'rhythm', 'know', 'usage', 'kangaroo', 'come', 'release', 'caught', 'present', 'acquire'] |  
 | bip_39_word_space_1 | hair |  
 | bip_39_word_space_10 | hair tumble polar rhythm know usage kangaroo come release caught |  

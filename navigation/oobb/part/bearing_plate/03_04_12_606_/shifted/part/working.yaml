@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'world
   judge
 
   need'
+bip_39_word_no_space_1: world
+bip_39_word_no_space_10: worldclockbagfaintspringchimneyexpressjudgeneediron
+bip_39_word_no_space_11: worldclockbagfaintspringchimneyexpressjudgeneedironbench
+bip_39_word_no_space_12: worldclockbagfaintspringchimneyexpressjudgeneedironbenchapart
+bip_39_word_no_space_2: worldclock
+bip_39_word_no_space_3: worldclockbag
+bip_39_word_no_space_4: worldclockbagfaint
+bip_39_word_no_space_5: worldclockbagfaintspring
+bip_39_word_no_space_6: worldclockbagfaintspringchimney
+bip_39_word_no_space_7: worldclockbagfaintspringchimneyexpress
+bip_39_word_no_space_8: worldclockbagfaintspringchimneyexpressjudge
+bip_39_word_no_space_9: worldclockbagfaintspringchimneyexpressjudgeneed
 bip_39_word_space_0:
 - world
 - clock

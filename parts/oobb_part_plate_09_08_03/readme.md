@@ -122,6 +122,18 @@ electric
 awkward
 wood
 secret |  
+| bip_39_word_no_space_1 | demise |  
+| bip_39_word_no_space_10 | demisetotaltwicemiserymuseumelectricawkwardwoodsecretspot |  
+| bip_39_word_no_space_11 | demisetotaltwicemiserymuseumelectricawkwardwoodsecretspotslice |  
+| bip_39_word_no_space_12 | demisetotaltwicemiserymuseumelectricawkwardwoodsecretspotsliceabstract |  
+| bip_39_word_no_space_2 | demisetotal |  
+| bip_39_word_no_space_3 | demisetotaltwice |  
+| bip_39_word_no_space_4 | demisetotaltwicemisery |  
+| bip_39_word_no_space_5 | demisetotaltwicemiserymuseum |  
+| bip_39_word_no_space_6 | demisetotaltwicemiserymuseumelectric |  
+| bip_39_word_no_space_7 | demisetotaltwicemiserymuseumelectricawkward |  
+| bip_39_word_no_space_8 | demisetotaltwicemiserymuseumelectricawkwardwood |  
+| bip_39_word_no_space_9 | demisetotaltwicemiserymuseumelectricawkwardwoodsecret |  
 | bip_39_word_space_0 | ['demise', 'total', 'twice', 'misery', 'museum', 'electric', 'awkward', 'wood', 'secret', 'spot', 'slice', 'abstract'] |  
 | bip_39_word_space_1 | demise |  
 | bip_39_word_space_10 | demise total twice misery museum electric awkward wood secret spot |  

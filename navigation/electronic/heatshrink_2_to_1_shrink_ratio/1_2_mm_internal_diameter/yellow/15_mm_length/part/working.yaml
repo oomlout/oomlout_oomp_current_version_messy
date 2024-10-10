@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dawn
   maid
 
   coin'
+bip_39_word_no_space_1: dawn
+bip_39_word_no_space_10: dawncarpetchasehuntnegativesilentcurtainmaidcoinbridge
+bip_39_word_no_space_11: dawncarpetchasehuntnegativesilentcurtainmaidcoinbridgebottom
+bip_39_word_no_space_12: dawncarpetchasehuntnegativesilentcurtainmaidcoinbridgebottomabsorb
+bip_39_word_no_space_2: dawncarpet
+bip_39_word_no_space_3: dawncarpetchase
+bip_39_word_no_space_4: dawncarpetchasehunt
+bip_39_word_no_space_5: dawncarpetchasehuntnegative
+bip_39_word_no_space_6: dawncarpetchasehuntnegativesilent
+bip_39_word_no_space_7: dawncarpetchasehuntnegativesilentcurtain
+bip_39_word_no_space_8: dawncarpetchasehuntnegativesilentcurtainmaid
+bip_39_word_no_space_9: dawncarpetchasehuntnegativesilentcurtainmaidcoin
 bip_39_word_space_0:
 - dawn
 - carpet

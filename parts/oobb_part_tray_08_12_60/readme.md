@@ -122,6 +122,18 @@ envelope
 radio
 output
 wife |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyprospersailpracticewireenveloperadiooutputwifegrocery |  
+| bip_39_word_no_space_11 | hobbyprospersailpracticewireenveloperadiooutputwifegroceryspice |  
+| bip_39_word_no_space_12 | hobbyprospersailpracticewireenveloperadiooutputwifegroceryspiceaccess |  
+| bip_39_word_no_space_2 | hobbyprosper |  
+| bip_39_word_no_space_3 | hobbyprospersail |  
+| bip_39_word_no_space_4 | hobbyprospersailpractice |  
+| bip_39_word_no_space_5 | hobbyprospersailpracticewire |  
+| bip_39_word_no_space_6 | hobbyprospersailpracticewireenvelope |  
+| bip_39_word_no_space_7 | hobbyprospersailpracticewireenveloperadio |  
+| bip_39_word_no_space_8 | hobbyprospersailpracticewireenveloperadiooutput |  
+| bip_39_word_no_space_9 | hobbyprospersailpracticewireenveloperadiooutputwife |  
 | bip_39_word_space_0 | ['hobby', 'prosper', 'sail', 'practice', 'wire', 'envelope', 'radio', 'output', 'wife', 'grocery', 'spice', 'access'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby prosper sail practice wire envelope radio output wife grocery |  

@@ -122,6 +122,18 @@ brush
 tube
 mask
 system |  
+| bip_39_word_no_space_1 | drama |  
+| bip_39_word_no_space_10 | dramaislandhipvelvetemptybrushtubemasksystemtoe |  
+| bip_39_word_no_space_11 | dramaislandhipvelvetemptybrushtubemasksystemtoeuseless |  
+| bip_39_word_no_space_12 | dramaislandhipvelvetemptybrushtubemasksystemtoeuselessaisle |  
+| bip_39_word_no_space_2 | dramaisland |  
+| bip_39_word_no_space_3 | dramaislandhip |  
+| bip_39_word_no_space_4 | dramaislandhipvelvet |  
+| bip_39_word_no_space_5 | dramaislandhipvelvetempty |  
+| bip_39_word_no_space_6 | dramaislandhipvelvetemptybrush |  
+| bip_39_word_no_space_7 | dramaislandhipvelvetemptybrushtube |  
+| bip_39_word_no_space_8 | dramaislandhipvelvetemptybrushtubemask |  
+| bip_39_word_no_space_9 | dramaislandhipvelvetemptybrushtubemasksystem |  
 | bip_39_word_space_0 | ['drama', 'island', 'hip', 'velvet', 'empty', 'brush', 'tube', 'mask', 'system', 'toe', 'useless', 'aisle'] |  
 | bip_39_word_space_1 | drama |  
 | bip_39_word_space_10 | drama island hip velvet empty brush tube mask system toe |  

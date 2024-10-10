@@ -122,6 +122,18 @@ outdoor
 mammal
 hollow
 evil |  
+| bip_39_word_no_space_1 | correct |  
+| bip_39_word_no_space_10 | correctangryuniversespringtreeoutdoormammalhollowevilnorth |  
+| bip_39_word_no_space_11 | correctangryuniversespringtreeoutdoormammalhollowevilnorthsource |  
+| bip_39_word_no_space_12 | correctangryuniversespringtreeoutdoormammalhollowevilnorthsourceagent |  
+| bip_39_word_no_space_2 | correctangry |  
+| bip_39_word_no_space_3 | correctangryuniverse |  
+| bip_39_word_no_space_4 | correctangryuniversespring |  
+| bip_39_word_no_space_5 | correctangryuniversespringtree |  
+| bip_39_word_no_space_6 | correctangryuniversespringtreeoutdoor |  
+| bip_39_word_no_space_7 | correctangryuniversespringtreeoutdoormammal |  
+| bip_39_word_no_space_8 | correctangryuniversespringtreeoutdoormammalhollow |  
+| bip_39_word_no_space_9 | correctangryuniversespringtreeoutdoormammalhollowevil |  
 | bip_39_word_space_0 | ['correct', 'angry', 'universe', 'spring', 'tree', 'outdoor', 'mammal', 'hollow', 'evil', 'north', 'source', 'agent'] |  
 | bip_39_word_space_1 | correct |  
 | bip_39_word_space_10 | correct angry universe spring tree outdoor mammal hollow evil north |  

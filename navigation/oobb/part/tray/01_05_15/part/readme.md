@@ -122,6 +122,18 @@ area
 kingdom
 hub
 convince |  
+| bip_39_word_no_space_1 | diagram |  
+| bip_39_word_no_space_10 | diagramthrowallowthoughtviableareakingdomhubconvincefestival |  
+| bip_39_word_no_space_11 | diagramthrowallowthoughtviableareakingdomhubconvincefestivalfinish |  
+| bip_39_word_no_space_12 | diagramthrowallowthoughtviableareakingdomhubconvincefestivalfinisharch |  
+| bip_39_word_no_space_2 | diagramthrow |  
+| bip_39_word_no_space_3 | diagramthrowallow |  
+| bip_39_word_no_space_4 | diagramthrowallowthought |  
+| bip_39_word_no_space_5 | diagramthrowallowthoughtviable |  
+| bip_39_word_no_space_6 | diagramthrowallowthoughtviablearea |  
+| bip_39_word_no_space_7 | diagramthrowallowthoughtviableareakingdom |  
+| bip_39_word_no_space_8 | diagramthrowallowthoughtviableareakingdomhub |  
+| bip_39_word_no_space_9 | diagramthrowallowthoughtviableareakingdomhubconvince |  
 | bip_39_word_space_0 | ['diagram', 'throw', 'allow', 'thought', 'viable', 'area', 'kingdom', 'hub', 'convince', 'festival', 'finish', 'arch'] |  
 | bip_39_word_space_1 | diagram |  
 | bip_39_word_space_10 | diagram throw allow thought viable area kingdom hub convince festival |  

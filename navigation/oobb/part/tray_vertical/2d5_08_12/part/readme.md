@@ -122,6 +122,18 @@ supply
 script
 opinion
 bitter |  
+| bip_39_word_no_space_1 | fish |  
+| bip_39_word_no_space_10 | fishworldalcoholshiveruniquesupplyscriptopinionbitterstone |  
+| bip_39_word_no_space_11 | fishworldalcoholshiveruniquesupplyscriptopinionbitterstonering |  
+| bip_39_word_no_space_12 | fishworldalcoholshiveruniquesupplyscriptopinionbitterstoneringancient |  
+| bip_39_word_no_space_2 | fishworld |  
+| bip_39_word_no_space_3 | fishworldalcohol |  
+| bip_39_word_no_space_4 | fishworldalcoholshiver |  
+| bip_39_word_no_space_5 | fishworldalcoholshiverunique |  
+| bip_39_word_no_space_6 | fishworldalcoholshiveruniquesupply |  
+| bip_39_word_no_space_7 | fishworldalcoholshiveruniquesupplyscript |  
+| bip_39_word_no_space_8 | fishworldalcoholshiveruniquesupplyscriptopinion |  
+| bip_39_word_no_space_9 | fishworldalcoholshiveruniquesupplyscriptopinionbitter |  
 | bip_39_word_space_0 | ['fish', 'world', 'alcohol', 'shiver', 'unique', 'supply', 'script', 'opinion', 'bitter', 'stone', 'ring', 'ancient'] |  
 | bip_39_word_space_1 | fish |  
 | bip_39_word_space_10 | fish world alcohol shiver unique supply script opinion bitter stone |  

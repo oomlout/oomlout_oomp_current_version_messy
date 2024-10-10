@@ -122,6 +122,18 @@ badge
 custom
 speed
 turtle |  
+| bip_39_word_no_space_1 | opera |  
+| bip_39_word_no_space_10 | operasheriffbriefsnapcancelbadgecustomspeedturtletrade |  
+| bip_39_word_no_space_11 | operasheriffbriefsnapcancelbadgecustomspeedturtletradewhisper |  
+| bip_39_word_no_space_12 | operasheriffbriefsnapcancelbadgecustomspeedturtletradewhisperalter |  
+| bip_39_word_no_space_2 | operasheriff |  
+| bip_39_word_no_space_3 | operasheriffbrief |  
+| bip_39_word_no_space_4 | operasheriffbriefsnap |  
+| bip_39_word_no_space_5 | operasheriffbriefsnapcancel |  
+| bip_39_word_no_space_6 | operasheriffbriefsnapcancelbadge |  
+| bip_39_word_no_space_7 | operasheriffbriefsnapcancelbadgecustom |  
+| bip_39_word_no_space_8 | operasheriffbriefsnapcancelbadgecustomspeed |  
+| bip_39_word_no_space_9 | operasheriffbriefsnapcancelbadgecustomspeedturtle |  
 | bip_39_word_space_0 | ['opera', 'sheriff', 'brief', 'snap', 'cancel', 'badge', 'custom', 'speed', 'turtle', 'trade', 'whisper', 'alter'] |  
 | bip_39_word_space_1 | opera |  
 | bip_39_word_space_10 | opera sheriff brief snap cancel badge custom speed turtle trade |  

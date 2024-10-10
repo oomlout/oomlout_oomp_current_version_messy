@@ -122,6 +122,18 @@ history
 rebel
 execute
 diet |  
+| bip_39_word_no_space_1 | category |  
+| bip_39_word_no_space_10 | categorytankhintglovesixhistoryrebelexecutediettarget |  
+| bip_39_word_no_space_11 | categorytankhintglovesixhistoryrebelexecutediettargetfriend |  
+| bip_39_word_no_space_12 | categorytankhintglovesixhistoryrebelexecutediettargetfriendarch |  
+| bip_39_word_no_space_2 | categorytank |  
+| bip_39_word_no_space_3 | categorytankhint |  
+| bip_39_word_no_space_4 | categorytankhintglove |  
+| bip_39_word_no_space_5 | categorytankhintglovesix |  
+| bip_39_word_no_space_6 | categorytankhintglovesixhistory |  
+| bip_39_word_no_space_7 | categorytankhintglovesixhistoryrebel |  
+| bip_39_word_no_space_8 | categorytankhintglovesixhistoryrebelexecute |  
+| bip_39_word_no_space_9 | categorytankhintglovesixhistoryrebelexecutediet |  
 | bip_39_word_space_0 | ['category', 'tank', 'hint', 'glove', 'six', 'history', 'rebel', 'execute', 'diet', 'target', 'friend', 'arch'] |  
 | bip_39_word_space_1 | category |  
 | bip_39_word_space_10 | category tank hint glove six history rebel execute diet target |  

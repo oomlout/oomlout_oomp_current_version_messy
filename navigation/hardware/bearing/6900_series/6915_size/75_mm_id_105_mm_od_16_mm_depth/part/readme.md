@@ -122,6 +122,18 @@ carpet
 control
 waste
 obtain |  
+| bip_39_word_no_space_1 | quality |  
+| bip_39_word_no_space_10 | qualityrepeatinformresultdismisscarpetcontrolwasteobtainmyth |  
+| bip_39_word_no_space_11 | qualityrepeatinformresultdismisscarpetcontrolwasteobtainmythslide |  
+| bip_39_word_no_space_12 | qualityrepeatinformresultdismisscarpetcontrolwasteobtainmythslideapprove |  
+| bip_39_word_no_space_2 | qualityrepeat |  
+| bip_39_word_no_space_3 | qualityrepeatinform |  
+| bip_39_word_no_space_4 | qualityrepeatinformresult |  
+| bip_39_word_no_space_5 | qualityrepeatinformresultdismiss |  
+| bip_39_word_no_space_6 | qualityrepeatinformresultdismisscarpet |  
+| bip_39_word_no_space_7 | qualityrepeatinformresultdismisscarpetcontrol |  
+| bip_39_word_no_space_8 | qualityrepeatinformresultdismisscarpetcontrolwaste |  
+| bip_39_word_no_space_9 | qualityrepeatinformresultdismisscarpetcontrolwasteobtain |  
 | bip_39_word_space_0 | ['quality', 'repeat', 'inform', 'result', 'dismiss', 'carpet', 'control', 'waste', 'obtain', 'myth', 'slide', 'approve'] |  
 | bip_39_word_space_1 | quality |  
 | bip_39_word_space_10 | quality repeat inform result dismiss carpet control waste obtain myth |  

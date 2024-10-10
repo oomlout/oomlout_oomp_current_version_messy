@@ -122,6 +122,18 @@ fly
 erosion
 relief
 word |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardoftenjazzpolardriveflyerosionreliefwordoppose |  
+| bip_39_word_no_space_11 | rewardoftenjazzpolardriveflyerosionreliefwordopposehunt |  
+| bip_39_word_no_space_12 | rewardoftenjazzpolardriveflyerosionreliefwordopposehuntacquire |  
+| bip_39_word_no_space_2 | rewardoften |  
+| bip_39_word_no_space_3 | rewardoftenjazz |  
+| bip_39_word_no_space_4 | rewardoftenjazzpolar |  
+| bip_39_word_no_space_5 | rewardoftenjazzpolardrive |  
+| bip_39_word_no_space_6 | rewardoftenjazzpolardrivefly |  
+| bip_39_word_no_space_7 | rewardoftenjazzpolardriveflyerosion |  
+| bip_39_word_no_space_8 | rewardoftenjazzpolardriveflyerosionrelief |  
+| bip_39_word_no_space_9 | rewardoftenjazzpolardriveflyerosionreliefword |  
 | bip_39_word_space_0 | ['reward', 'often', 'jazz', 'polar', 'drive', 'fly', 'erosion', 'relief', 'word', 'oppose', 'hunt', 'acquire'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward often jazz polar drive fly erosion relief word oppose |  

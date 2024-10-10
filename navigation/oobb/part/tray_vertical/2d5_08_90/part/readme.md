@@ -122,6 +122,18 @@ derive
 seven
 razor
 zero |  
+| bip_39_word_no_space_1 | illness |  
+| bip_39_word_no_space_10 | illnesssourcepalmnosefeaturederivesevenrazorzeroeither |  
+| bip_39_word_no_space_11 | illnesssourcepalmnosefeaturederivesevenrazorzeroeitherlawn |  
+| bip_39_word_no_space_12 | illnesssourcepalmnosefeaturederivesevenrazorzeroeitherlawnanchor |  
+| bip_39_word_no_space_2 | illnesssource |  
+| bip_39_word_no_space_3 | illnesssourcepalm |  
+| bip_39_word_no_space_4 | illnesssourcepalmnose |  
+| bip_39_word_no_space_5 | illnesssourcepalmnosefeature |  
+| bip_39_word_no_space_6 | illnesssourcepalmnosefeaturederive |  
+| bip_39_word_no_space_7 | illnesssourcepalmnosefeaturederiveseven |  
+| bip_39_word_no_space_8 | illnesssourcepalmnosefeaturederivesevenrazor |  
+| bip_39_word_no_space_9 | illnesssourcepalmnosefeaturederivesevenrazorzero |  
 | bip_39_word_space_0 | ['illness', 'source', 'palm', 'nose', 'feature', 'derive', 'seven', 'razor', 'zero', 'either', 'lawn', 'anchor'] |  
 | bip_39_word_space_1 | illness |  
 | bip_39_word_space_10 | illness source palm nose feature derive seven razor zero either |  

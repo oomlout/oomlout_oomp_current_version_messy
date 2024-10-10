@@ -122,6 +122,18 @@ wolf
 unfold
 question
 stick |  
+| bip_39_word_no_space_1 | celery |  
+| bip_39_word_no_space_10 | celeryhostmultiplyboringmagnetwolfunfoldquestionsticklabor |  
+| bip_39_word_no_space_11 | celeryhostmultiplyboringmagnetwolfunfoldquestionsticklabormaterial |  
+| bip_39_word_no_space_12 | celeryhostmultiplyboringmagnetwolfunfoldquestionsticklabormaterialarm |  
+| bip_39_word_no_space_2 | celeryhost |  
+| bip_39_word_no_space_3 | celeryhostmultiply |  
+| bip_39_word_no_space_4 | celeryhostmultiplyboring |  
+| bip_39_word_no_space_5 | celeryhostmultiplyboringmagnet |  
+| bip_39_word_no_space_6 | celeryhostmultiplyboringmagnetwolf |  
+| bip_39_word_no_space_7 | celeryhostmultiplyboringmagnetwolfunfold |  
+| bip_39_word_no_space_8 | celeryhostmultiplyboringmagnetwolfunfoldquestion |  
+| bip_39_word_no_space_9 | celeryhostmultiplyboringmagnetwolfunfoldquestionstick |  
 | bip_39_word_space_0 | ['celery', 'host', 'multiply', 'boring', 'magnet', 'wolf', 'unfold', 'question', 'stick', 'labor', 'material', 'arm'] |  
 | bip_39_word_space_1 | celery |  
 | bip_39_word_space_10 | celery host multiply boring magnet wolf unfold question stick labor |  

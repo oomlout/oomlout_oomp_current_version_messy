@@ -122,6 +122,18 @@ pattern
 because
 enact
 foster |  
+| bip_39_word_no_space_1 | soccer |  
+| bip_39_word_no_space_10 | soccerlaptoptenniscreamgazepatternbecauseenactfostercool |  
+| bip_39_word_no_space_11 | soccerlaptoptenniscreamgazepatternbecauseenactfostercoolburden |  
+| bip_39_word_no_space_12 | soccerlaptoptenniscreamgazepatternbecauseenactfostercoolburdenangle |  
+| bip_39_word_no_space_2 | soccerlaptop |  
+| bip_39_word_no_space_3 | soccerlaptoptennis |  
+| bip_39_word_no_space_4 | soccerlaptoptenniscream |  
+| bip_39_word_no_space_5 | soccerlaptoptenniscreamgaze |  
+| bip_39_word_no_space_6 | soccerlaptoptenniscreamgazepattern |  
+| bip_39_word_no_space_7 | soccerlaptoptenniscreamgazepatternbecause |  
+| bip_39_word_no_space_8 | soccerlaptoptenniscreamgazepatternbecauseenact |  
+| bip_39_word_no_space_9 | soccerlaptoptenniscreamgazepatternbecauseenactfoster |  
 | bip_39_word_space_0 | ['soccer', 'laptop', 'tennis', 'cream', 'gaze', 'pattern', 'because', 'enact', 'foster', 'cool', 'burden', 'angle'] |  
 | bip_39_word_space_1 | soccer |  
 | bip_39_word_space_10 | soccer laptop tennis cream gaze pattern because enact foster cool |  

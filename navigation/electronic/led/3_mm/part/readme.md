@@ -122,6 +122,18 @@ like
 give
 violin
 outside |  
+| bip_39_word_no_space_1 | dawn |  
+| bip_39_word_no_space_10 | dawnfoamactiononlytennislikegiveviolinoutsidecurve |  
+| bip_39_word_no_space_11 | dawnfoamactiononlytennislikegiveviolinoutsidecurveblast |  
+| bip_39_word_no_space_12 | dawnfoamactiononlytennislikegiveviolinoutsidecurveblastachieve |  
+| bip_39_word_no_space_2 | dawnfoam |  
+| bip_39_word_no_space_3 | dawnfoamaction |  
+| bip_39_word_no_space_4 | dawnfoamactiononly |  
+| bip_39_word_no_space_5 | dawnfoamactiononlytennis |  
+| bip_39_word_no_space_6 | dawnfoamactiononlytennislike |  
+| bip_39_word_no_space_7 | dawnfoamactiononlytennislikegive |  
+| bip_39_word_no_space_8 | dawnfoamactiononlytennislikegiveviolin |  
+| bip_39_word_no_space_9 | dawnfoamactiononlytennislikegiveviolinoutside |  
 | bip_39_word_space_0 | ['dawn', 'foam', 'action', 'only', 'tennis', 'like', 'give', 'violin', 'outside', 'curve', 'blast', 'achieve'] |  
 | bip_39_word_space_1 | dawn |  
 | bip_39_word_space_10 | dawn foam action only tennis like give violin outside curve |  

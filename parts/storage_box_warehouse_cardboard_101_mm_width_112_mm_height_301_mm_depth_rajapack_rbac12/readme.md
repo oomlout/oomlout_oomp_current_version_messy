@@ -122,6 +122,18 @@ hen
 fancy
 whisper
 damp |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrossaimscoutchairstumblehenfancywhisperdamppistol |  
+| bip_39_word_no_space_11 | acrossaimscoutchairstumblehenfancywhisperdamppistoltopic |  
+| bip_39_word_no_space_12 | acrossaimscoutchairstumblehenfancywhisperdamppistoltopicarmy |  
+| bip_39_word_no_space_2 | acrossaim |  
+| bip_39_word_no_space_3 | acrossaimscout |  
+| bip_39_word_no_space_4 | acrossaimscoutchair |  
+| bip_39_word_no_space_5 | acrossaimscoutchairstumble |  
+| bip_39_word_no_space_6 | acrossaimscoutchairstumblehen |  
+| bip_39_word_no_space_7 | acrossaimscoutchairstumblehenfancy |  
+| bip_39_word_no_space_8 | acrossaimscoutchairstumblehenfancywhisper |  
+| bip_39_word_no_space_9 | acrossaimscoutchairstumblehenfancywhisperdamp |  
 | bip_39_word_space_0 | ['across', 'aim', 'scout', 'chair', 'stumble', 'hen', 'fancy', 'whisper', 'damp', 'pistol', 'topic', 'army'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across aim scout chair stumble hen fancy whisper damp pistol |  

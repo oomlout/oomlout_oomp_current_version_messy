@@ -122,6 +122,18 @@ gown
 inhale
 team
 service |  
+| bip_39_word_no_space_1 | funny |  
+| bip_39_word_no_space_10 | funnytrimmusicauntnephewgowninhaleteamservicecry |  
+| bip_39_word_no_space_11 | funnytrimmusicauntnephewgowninhaleteamservicecrydisease |  
+| bip_39_word_no_space_12 | funnytrimmusicauntnephewgowninhaleteamservicecrydiseaseangle |  
+| bip_39_word_no_space_2 | funnytrim |  
+| bip_39_word_no_space_3 | funnytrimmusic |  
+| bip_39_word_no_space_4 | funnytrimmusicaunt |  
+| bip_39_word_no_space_5 | funnytrimmusicauntnephew |  
+| bip_39_word_no_space_6 | funnytrimmusicauntnephewgown |  
+| bip_39_word_no_space_7 | funnytrimmusicauntnephewgowninhale |  
+| bip_39_word_no_space_8 | funnytrimmusicauntnephewgowninhaleteam |  
+| bip_39_word_no_space_9 | funnytrimmusicauntnephewgowninhaleteamservice |  
 | bip_39_word_space_0 | ['funny', 'trim', 'music', 'aunt', 'nephew', 'gown', 'inhale', 'team', 'service', 'cry', 'disease', 'angle'] |  
 | bip_39_word_space_1 | funny |  
 | bip_39_word_space_10 | funny trim music aunt nephew gown inhale team service cry |  

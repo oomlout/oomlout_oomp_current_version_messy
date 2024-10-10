@@ -122,6 +122,18 @@ rival
 above
 web
 live |  
+| bip_39_word_no_space_1 | melody |  
+| bip_39_word_no_space_10 | melodyfallusespringbetrayrivalaboveweblivegap |  
+| bip_39_word_no_space_11 | melodyfallusespringbetrayrivalaboveweblivegapdepend |  
+| bip_39_word_no_space_12 | melodyfallusespringbetrayrivalaboveweblivegapdependarea |  
+| bip_39_word_no_space_2 | melodyfall |  
+| bip_39_word_no_space_3 | melodyfalluse |  
+| bip_39_word_no_space_4 | melodyfallusespring |  
+| bip_39_word_no_space_5 | melodyfallusespringbetray |  
+| bip_39_word_no_space_6 | melodyfallusespringbetrayrival |  
+| bip_39_word_no_space_7 | melodyfallusespringbetrayrivalabove |  
+| bip_39_word_no_space_8 | melodyfallusespringbetrayrivalaboveweb |  
+| bip_39_word_no_space_9 | melodyfallusespringbetrayrivalaboveweblive |  
 | bip_39_word_space_0 | ['melody', 'fall', 'use', 'spring', 'betray', 'rival', 'above', 'web', 'live', 'gap', 'depend', 'area'] |  
 | bip_39_word_space_1 | melody |  
 | bip_39_word_space_10 | melody fall use spring betray rival above web live gap |  

@@ -122,6 +122,18 @@ word
 lens
 found
 hint |  
+| bip_39_word_no_space_1 | process |  
+| bip_39_word_no_space_10 | processnestgirltodaygridwordlensfoundhintsmall |  
+| bip_39_word_no_space_11 | processnestgirltodaygridwordlensfoundhintsmallarmed |  
+| bip_39_word_no_space_12 | processnestgirltodaygridwordlensfoundhintsmallarmedalso |  
+| bip_39_word_no_space_2 | processnest |  
+| bip_39_word_no_space_3 | processnestgirl |  
+| bip_39_word_no_space_4 | processnestgirltoday |  
+| bip_39_word_no_space_5 | processnestgirltodaygrid |  
+| bip_39_word_no_space_6 | processnestgirltodaygridword |  
+| bip_39_word_no_space_7 | processnestgirltodaygridwordlens |  
+| bip_39_word_no_space_8 | processnestgirltodaygridwordlensfound |  
+| bip_39_word_no_space_9 | processnestgirltodaygridwordlensfoundhint |  
 | bip_39_word_space_0 | ['process', 'nest', 'girl', 'today', 'grid', 'word', 'lens', 'found', 'hint', 'small', 'armed', 'also'] |  
 | bip_39_word_space_1 | process |  
 | bip_39_word_space_10 | process nest girl today grid word lens found hint small |  

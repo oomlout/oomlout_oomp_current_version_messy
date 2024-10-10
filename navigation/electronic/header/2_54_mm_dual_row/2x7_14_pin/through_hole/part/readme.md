@@ -122,6 +122,18 @@ glance
 poem
 whale
 auction |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagegiftnegativeangerrocketglancepoemwhaleauctionsuggest |  
+| bip_39_word_no_space_11 | cagegiftnegativeangerrocketglancepoemwhaleauctionsuggestendorse |  
+| bip_39_word_no_space_12 | cagegiftnegativeangerrocketglancepoemwhaleauctionsuggestendorseassist |  
+| bip_39_word_no_space_2 | cagegift |  
+| bip_39_word_no_space_3 | cagegiftnegative |  
+| bip_39_word_no_space_4 | cagegiftnegativeanger |  
+| bip_39_word_no_space_5 | cagegiftnegativeangerrocket |  
+| bip_39_word_no_space_6 | cagegiftnegativeangerrocketglance |  
+| bip_39_word_no_space_7 | cagegiftnegativeangerrocketglancepoem |  
+| bip_39_word_no_space_8 | cagegiftnegativeangerrocketglancepoemwhale |  
+| bip_39_word_no_space_9 | cagegiftnegativeangerrocketglancepoemwhaleauction |  
 | bip_39_word_space_0 | ['cage', 'gift', 'negative', 'anger', 'rocket', 'glance', 'poem', 'whale', 'auction', 'suggest', 'endorse', 'assist'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage gift negative anger rocket glance poem whale auction suggest |  

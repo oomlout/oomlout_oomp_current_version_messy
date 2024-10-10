@@ -122,6 +122,18 @@ shadow
 control
 maximum
 neither |  
+| bip_39_word_no_space_1 | involve |  
+| bip_39_word_no_space_10 | involveuntildoublechargeareashadowcontrolmaximumneithervarious |  
+| bip_39_word_no_space_11 | involveuntildoublechargeareashadowcontrolmaximumneithervariousexact |  
+| bip_39_word_no_space_12 | involveuntildoublechargeareashadowcontrolmaximumneithervariousexactadvice |  
+| bip_39_word_no_space_2 | involveuntil |  
+| bip_39_word_no_space_3 | involveuntildouble |  
+| bip_39_word_no_space_4 | involveuntildoublecharge |  
+| bip_39_word_no_space_5 | involveuntildoublechargearea |  
+| bip_39_word_no_space_6 | involveuntildoublechargeareashadow |  
+| bip_39_word_no_space_7 | involveuntildoublechargeareashadowcontrol |  
+| bip_39_word_no_space_8 | involveuntildoublechargeareashadowcontrolmaximum |  
+| bip_39_word_no_space_9 | involveuntildoublechargeareashadowcontrolmaximumneither |  
 | bip_39_word_space_0 | ['involve', 'until', 'double', 'charge', 'area', 'shadow', 'control', 'maximum', 'neither', 'various', 'exact', 'advice'] |  
 | bip_39_word_space_1 | involve |  
 | bip_39_word_space_10 | involve until double charge area shadow control maximum neither various |  

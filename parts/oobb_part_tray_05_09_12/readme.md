@@ -122,6 +122,18 @@ rule
 rebuild
 rib
 fabric |  
+| bip_39_word_no_space_1 | behave |  
+| bip_39_word_no_space_10 | behavekitchencampduringribrulerebuildribfabricrescue |  
+| bip_39_word_no_space_11 | behavekitchencampduringribrulerebuildribfabricrescuemargin |  
+| bip_39_word_no_space_12 | behavekitchencampduringribrulerebuildribfabricrescuemarginability |  
+| bip_39_word_no_space_2 | behavekitchen |  
+| bip_39_word_no_space_3 | behavekitchencamp |  
+| bip_39_word_no_space_4 | behavekitchencampduring |  
+| bip_39_word_no_space_5 | behavekitchencampduringrib |  
+| bip_39_word_no_space_6 | behavekitchencampduringribrule |  
+| bip_39_word_no_space_7 | behavekitchencampduringribrulerebuild |  
+| bip_39_word_no_space_8 | behavekitchencampduringribrulerebuildrib |  
+| bip_39_word_no_space_9 | behavekitchencampduringribrulerebuildribfabric |  
 | bip_39_word_space_0 | ['behave', 'kitchen', 'camp', 'during', 'rib', 'rule', 'rebuild', 'rib', 'fabric', 'rescue', 'margin', 'ability'] |  
 | bip_39_word_space_1 | behave |  
 | bip_39_word_space_10 | behave kitchen camp during rib rule rebuild rib fabric rescue |  

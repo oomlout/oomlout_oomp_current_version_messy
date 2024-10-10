@@ -122,6 +122,18 @@ waste
 detect
 twin
 snap |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandproblemmenupathgospelwastedetecttwinsnapeasily |  
+| bip_39_word_no_space_11 | sandproblemmenupathgospelwastedetecttwinsnapeasilysuch |  
+| bip_39_word_no_space_12 | sandproblemmenupathgospelwastedetecttwinsnapeasilysuchask |  
+| bip_39_word_no_space_2 | sandproblem |  
+| bip_39_word_no_space_3 | sandproblemmenu |  
+| bip_39_word_no_space_4 | sandproblemmenupath |  
+| bip_39_word_no_space_5 | sandproblemmenupathgospel |  
+| bip_39_word_no_space_6 | sandproblemmenupathgospelwaste |  
+| bip_39_word_no_space_7 | sandproblemmenupathgospelwastedetect |  
+| bip_39_word_no_space_8 | sandproblemmenupathgospelwastedetecttwin |  
+| bip_39_word_no_space_9 | sandproblemmenupathgospelwastedetecttwinsnap |  
 | bip_39_word_space_0 | ['sand', 'problem', 'menu', 'path', 'gospel', 'waste', 'detect', 'twin', 'snap', 'easily', 'such', 'ask'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand problem menu path gospel waste detect twin snap easily |  

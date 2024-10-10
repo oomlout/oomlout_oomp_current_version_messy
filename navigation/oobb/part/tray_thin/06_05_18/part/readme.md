@@ -122,6 +122,18 @@ stomach
 arctic
 pupil
 enemy |  
+| bip_39_word_no_space_1 | august |  
+| bip_39_word_no_space_10 | augustnapkinexecutebenefitwonderstomacharcticpupilenemyinput |  
+| bip_39_word_no_space_11 | augustnapkinexecutebenefitwonderstomacharcticpupilenemyinputimitate |  
+| bip_39_word_no_space_12 | augustnapkinexecutebenefitwonderstomacharcticpupilenemyinputimitatealter |  
+| bip_39_word_no_space_2 | augustnapkin |  
+| bip_39_word_no_space_3 | augustnapkinexecute |  
+| bip_39_word_no_space_4 | augustnapkinexecutebenefit |  
+| bip_39_word_no_space_5 | augustnapkinexecutebenefitwonder |  
+| bip_39_word_no_space_6 | augustnapkinexecutebenefitwonderstomach |  
+| bip_39_word_no_space_7 | augustnapkinexecutebenefitwonderstomacharctic |  
+| bip_39_word_no_space_8 | augustnapkinexecutebenefitwonderstomacharcticpupil |  
+| bip_39_word_no_space_9 | augustnapkinexecutebenefitwonderstomacharcticpupilenemy |  
 | bip_39_word_space_0 | ['august', 'napkin', 'execute', 'benefit', 'wonder', 'stomach', 'arctic', 'pupil', 'enemy', 'input', 'imitate', 'alter'] |  
 | bip_39_word_space_1 | august |  
 | bip_39_word_space_10 | august napkin execute benefit wonder stomach arctic pupil enemy input |  

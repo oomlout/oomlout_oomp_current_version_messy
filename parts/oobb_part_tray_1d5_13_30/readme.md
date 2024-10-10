@@ -122,6 +122,18 @@ pyramid
 prepare
 blanket
 jewel |  
+| bip_39_word_no_space_1 | nurse |  
+| bip_39_word_no_space_10 | nurseprintelevatormangocomicpyramidprepareblanketjewelradar |  
+| bip_39_word_no_space_11 | nurseprintelevatormangocomicpyramidprepareblanketjewelradarhub |  
+| bip_39_word_no_space_12 | nurseprintelevatormangocomicpyramidprepareblanketjewelradarhubalways |  
+| bip_39_word_no_space_2 | nurseprint |  
+| bip_39_word_no_space_3 | nurseprintelevator |  
+| bip_39_word_no_space_4 | nurseprintelevatormango |  
+| bip_39_word_no_space_5 | nurseprintelevatormangocomic |  
+| bip_39_word_no_space_6 | nurseprintelevatormangocomicpyramid |  
+| bip_39_word_no_space_7 | nurseprintelevatormangocomicpyramidprepare |  
+| bip_39_word_no_space_8 | nurseprintelevatormangocomicpyramidprepareblanket |  
+| bip_39_word_no_space_9 | nurseprintelevatormangocomicpyramidprepareblanketjewel |  
 | bip_39_word_space_0 | ['nurse', 'print', 'elevator', 'mango', 'comic', 'pyramid', 'prepare', 'blanket', 'jewel', 'radar', 'hub', 'always'] |  
 | bip_39_word_space_1 | nurse |  
 | bip_39_word_space_10 | nurse print elevator mango comic pyramid prepare blanket jewel radar |  

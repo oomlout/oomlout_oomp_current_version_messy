@@ -122,6 +122,18 @@ hamster
 gift
 melody
 donkey |  
+| bip_39_word_no_space_1 | alien |  
+| bip_39_word_no_space_10 | alienstepdiaryenterturkeyhamstergiftmelodydonkeyadjust |  
+| bip_39_word_no_space_11 | alienstepdiaryenterturkeyhamstergiftmelodydonkeyadjustcupboard |  
+| bip_39_word_no_space_12 | alienstepdiaryenterturkeyhamstergiftmelodydonkeyadjustcupboardarrive |  
+| bip_39_word_no_space_2 | alienstep |  
+| bip_39_word_no_space_3 | alienstepdiary |  
+| bip_39_word_no_space_4 | alienstepdiaryenter |  
+| bip_39_word_no_space_5 | alienstepdiaryenterturkey |  
+| bip_39_word_no_space_6 | alienstepdiaryenterturkeyhamster |  
+| bip_39_word_no_space_7 | alienstepdiaryenterturkeyhamstergift |  
+| bip_39_word_no_space_8 | alienstepdiaryenterturkeyhamstergiftmelody |  
+| bip_39_word_no_space_9 | alienstepdiaryenterturkeyhamstergiftmelodydonkey |  
 | bip_39_word_space_0 | ['alien', 'step', 'diary', 'enter', 'turkey', 'hamster', 'gift', 'melody', 'donkey', 'adjust', 'cupboard', 'arrive'] |  
 | bip_39_word_space_1 | alien |  
 | bip_39_word_space_10 | alien step diary enter turkey hamster gift melody donkey adjust |  

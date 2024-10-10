@@ -122,6 +122,18 @@ panther
 degree
 civil
 once |  
+| bip_39_word_no_space_1 | around |  
+| bip_39_word_no_space_10 | aroundlumberwinklaborpaymentpantherdegreeciviloncecredit |  
+| bip_39_word_no_space_11 | aroundlumberwinklaborpaymentpantherdegreeciviloncecreditgrocery |  
+| bip_39_word_no_space_12 | aroundlumberwinklaborpaymentpantherdegreeciviloncecreditgroceryarmor |  
+| bip_39_word_no_space_2 | aroundlumber |  
+| bip_39_word_no_space_3 | aroundlumberwink |  
+| bip_39_word_no_space_4 | aroundlumberwinklabor |  
+| bip_39_word_no_space_5 | aroundlumberwinklaborpayment |  
+| bip_39_word_no_space_6 | aroundlumberwinklaborpaymentpanther |  
+| bip_39_word_no_space_7 | aroundlumberwinklaborpaymentpantherdegree |  
+| bip_39_word_no_space_8 | aroundlumberwinklaborpaymentpantherdegreecivil |  
+| bip_39_word_no_space_9 | aroundlumberwinklaborpaymentpantherdegreecivilonce |  
 | bip_39_word_space_0 | ['around', 'lumber', 'wink', 'labor', 'payment', 'panther', 'degree', 'civil', 'once', 'credit', 'grocery', 'armor'] |  
 | bip_39_word_space_1 | around |  
 | bip_39_word_space_10 | around lumber wink labor payment panther degree civil once credit |  

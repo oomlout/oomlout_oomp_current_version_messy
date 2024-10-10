@@ -122,6 +122,18 @@ retire
 try
 rebel
 duty |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewarduncoverreportfishaddressretiretryrebeldutyoyster |  
+| bip_39_word_no_space_11 | rewarduncoverreportfishaddressretiretryrebeldutyoysterexact |  
+| bip_39_word_no_space_12 | rewarduncoverreportfishaddressretiretryrebeldutyoysterexactangry |  
+| bip_39_word_no_space_2 | rewarduncover |  
+| bip_39_word_no_space_3 | rewarduncoverreport |  
+| bip_39_word_no_space_4 | rewarduncoverreportfish |  
+| bip_39_word_no_space_5 | rewarduncoverreportfishaddress |  
+| bip_39_word_no_space_6 | rewarduncoverreportfishaddressretire |  
+| bip_39_word_no_space_7 | rewarduncoverreportfishaddressretiretry |  
+| bip_39_word_no_space_8 | rewarduncoverreportfishaddressretiretryrebel |  
+| bip_39_word_no_space_9 | rewarduncoverreportfishaddressretiretryrebelduty |  
 | bip_39_word_space_0 | ['reward', 'uncover', 'report', 'fish', 'address', 'retire', 'try', 'rebel', 'duty', 'oyster', 'exact', 'angry'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward uncover report fish address retire try rebel duty oyster |  

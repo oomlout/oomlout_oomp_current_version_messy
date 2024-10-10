@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'reason
   milk
 
   social'
+bip_39_word_no_space_1: reason
+bip_39_word_no_space_10: reasonregionmergeshinedashessencedicemilksocialtongue
+bip_39_word_no_space_11: reasonregionmergeshinedashessencedicemilksocialtonguehistory
+bip_39_word_no_space_12: reasonregionmergeshinedashessencedicemilksocialtonguehistoryafford
+bip_39_word_no_space_2: reasonregion
+bip_39_word_no_space_3: reasonregionmerge
+bip_39_word_no_space_4: reasonregionmergeshine
+bip_39_word_no_space_5: reasonregionmergeshinedash
+bip_39_word_no_space_6: reasonregionmergeshinedashessence
+bip_39_word_no_space_7: reasonregionmergeshinedashessencedice
+bip_39_word_no_space_8: reasonregionmergeshinedashessencedicemilk
+bip_39_word_no_space_9: reasonregionmergeshinedashessencedicemilksocial
 bip_39_word_space_0:
 - reason
 - region

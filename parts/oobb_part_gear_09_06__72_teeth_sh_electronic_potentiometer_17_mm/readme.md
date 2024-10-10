@@ -122,6 +122,18 @@ surface
 garbage
 ritual
 small |  
+| bip_39_word_no_space_1 | retire |  
+| bip_39_word_no_space_10 | retiretrulywarfarechargeladysurfacegarbageritualsmalldeputy |  
+| bip_39_word_no_space_11 | retiretrulywarfarechargeladysurfacegarbageritualsmalldeputypistol |  
+| bip_39_word_no_space_12 | retiretrulywarfarechargeladysurfacegarbageritualsmalldeputypistolalbum |  
+| bip_39_word_no_space_2 | retiretruly |  
+| bip_39_word_no_space_3 | retiretrulywarfare |  
+| bip_39_word_no_space_4 | retiretrulywarfarecharge |  
+| bip_39_word_no_space_5 | retiretrulywarfarechargelady |  
+| bip_39_word_no_space_6 | retiretrulywarfarechargeladysurface |  
+| bip_39_word_no_space_7 | retiretrulywarfarechargeladysurfacegarbage |  
+| bip_39_word_no_space_8 | retiretrulywarfarechargeladysurfacegarbageritual |  
+| bip_39_word_no_space_9 | retiretrulywarfarechargeladysurfacegarbageritualsmall |  
 | bip_39_word_space_0 | ['retire', 'truly', 'warfare', 'charge', 'lady', 'surface', 'garbage', 'ritual', 'small', 'deputy', 'pistol', 'album'] |  
 | bip_39_word_space_1 | retire |  
 | bip_39_word_space_10 | retire truly warfare charge lady surface garbage ritual small deputy |  

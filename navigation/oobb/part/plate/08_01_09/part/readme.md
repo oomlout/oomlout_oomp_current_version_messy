@@ -122,6 +122,18 @@ famous
 silk
 dentist
 actress |  
+| bip_39_word_no_space_1 | stove |  
+| bip_39_word_no_space_10 | stovearrangepianopearfrownfamoussilkdentistactressavocado |  
+| bip_39_word_no_space_11 | stovearrangepianopearfrownfamoussilkdentistactressavocadogreen |  
+| bip_39_word_no_space_12 | stovearrangepianopearfrownfamoussilkdentistactressavocadogreenaim |  
+| bip_39_word_no_space_2 | stovearrange |  
+| bip_39_word_no_space_3 | stovearrangepiano |  
+| bip_39_word_no_space_4 | stovearrangepianopear |  
+| bip_39_word_no_space_5 | stovearrangepianopearfrown |  
+| bip_39_word_no_space_6 | stovearrangepianopearfrownfamous |  
+| bip_39_word_no_space_7 | stovearrangepianopearfrownfamoussilk |  
+| bip_39_word_no_space_8 | stovearrangepianopearfrownfamoussilkdentist |  
+| bip_39_word_no_space_9 | stovearrangepianopearfrownfamoussilkdentistactress |  
 | bip_39_word_space_0 | ['stove', 'arrange', 'piano', 'pear', 'frown', 'famous', 'silk', 'dentist', 'actress', 'avocado', 'green', 'aim'] |  
 | bip_39_word_space_1 | stove |  
 | bip_39_word_space_10 | stove arrange piano pear frown famous silk dentist actress avocado |  

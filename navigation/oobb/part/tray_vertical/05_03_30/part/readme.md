@@ -122,6 +122,18 @@ celery
 battle
 robust
 viable |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | areacasinobelievesticktraycelerybattlerobustviablethumb |  
+| bip_39_word_no_space_11 | areacasinobelievesticktraycelerybattlerobustviablethumbromance |  
+| bip_39_word_no_space_12 | areacasinobelievesticktraycelerybattlerobustviablethumbromanceairport |  
+| bip_39_word_no_space_2 | areacasino |  
+| bip_39_word_no_space_3 | areacasinobelieve |  
+| bip_39_word_no_space_4 | areacasinobelievestick |  
+| bip_39_word_no_space_5 | areacasinobelievesticktray |  
+| bip_39_word_no_space_6 | areacasinobelievesticktraycelery |  
+| bip_39_word_no_space_7 | areacasinobelievesticktraycelerybattle |  
+| bip_39_word_no_space_8 | areacasinobelievesticktraycelerybattlerobust |  
+| bip_39_word_no_space_9 | areacasinobelievesticktraycelerybattlerobustviable |  
 | bip_39_word_space_0 | ['area', 'casino', 'believe', 'stick', 'tray', 'celery', 'battle', 'robust', 'viable', 'thumb', 'romance', 'airport'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area casino believe stick tray celery battle robust viable thumb |  

@@ -122,6 +122,18 @@ slow
 ceiling
 crawl
 game |  
+| bip_39_word_no_space_1 | bless |  
+| bip_39_word_no_space_10 | blessmarineminutewillwreckslowceilingcrawlgamewoman |  
+| bip_39_word_no_space_11 | blessmarineminutewillwreckslowceilingcrawlgamewomanomit |  
+| bip_39_word_no_space_12 | blessmarineminutewillwreckslowceilingcrawlgamewomanomitaerobic |  
+| bip_39_word_no_space_2 | blessmarine |  
+| bip_39_word_no_space_3 | blessmarineminute |  
+| bip_39_word_no_space_4 | blessmarineminutewill |  
+| bip_39_word_no_space_5 | blessmarineminutewillwreck |  
+| bip_39_word_no_space_6 | blessmarineminutewillwreckslow |  
+| bip_39_word_no_space_7 | blessmarineminutewillwreckslowceiling |  
+| bip_39_word_no_space_8 | blessmarineminutewillwreckslowceilingcrawl |  
+| bip_39_word_no_space_9 | blessmarineminutewillwreckslowceilingcrawlgame |  
 | bip_39_word_space_0 | ['bless', 'marine', 'minute', 'will', 'wreck', 'slow', 'ceiling', 'crawl', 'game', 'woman', 'omit', 'aerobic'] |  
 | bip_39_word_space_1 | bless |  
 | bip_39_word_space_10 | bless marine minute will wreck slow ceiling crawl game woman |  

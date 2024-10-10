@@ -122,6 +122,18 @@ elite
 silk
 type
 clever |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | loopsolarbouncestereothumbelitesilktypeclevermerry |  
+| bip_39_word_no_space_11 | loopsolarbouncestereothumbelitesilktypeclevermerrysister |  
+| bip_39_word_no_space_12 | loopsolarbouncestereothumbelitesilktypeclevermerrysisteralien |  
+| bip_39_word_no_space_2 | loopsolar |  
+| bip_39_word_no_space_3 | loopsolarbounce |  
+| bip_39_word_no_space_4 | loopsolarbouncestereo |  
+| bip_39_word_no_space_5 | loopsolarbouncestereothumb |  
+| bip_39_word_no_space_6 | loopsolarbouncestereothumbelite |  
+| bip_39_word_no_space_7 | loopsolarbouncestereothumbelitesilk |  
+| bip_39_word_no_space_8 | loopsolarbouncestereothumbelitesilktype |  
+| bip_39_word_no_space_9 | loopsolarbouncestereothumbelitesilktypeclever |  
 | bip_39_word_space_0 | ['loop', 'solar', 'bounce', 'stereo', 'thumb', 'elite', 'silk', 'type', 'clever', 'merry', 'sister', 'alien'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop solar bounce stereo thumb elite silk type clever merry |  

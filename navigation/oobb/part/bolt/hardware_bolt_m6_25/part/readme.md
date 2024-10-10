@@ -122,6 +122,18 @@ indicate
 van
 flash
 muffin |  
+| bip_39_word_no_space_1 | suspect |  
+| bip_39_word_no_space_10 | suspectjeanscrazyaprilnutindicatevanflashmuffinlobster |  
+| bip_39_word_no_space_11 | suspectjeanscrazyaprilnutindicatevanflashmuffinlobstertower |  
+| bip_39_word_no_space_12 | suspectjeanscrazyaprilnutindicatevanflashmuffinlobstertoweracross |  
+| bip_39_word_no_space_2 | suspectjeans |  
+| bip_39_word_no_space_3 | suspectjeanscrazy |  
+| bip_39_word_no_space_4 | suspectjeanscrazyapril |  
+| bip_39_word_no_space_5 | suspectjeanscrazyaprilnut |  
+| bip_39_word_no_space_6 | suspectjeanscrazyaprilnutindicate |  
+| bip_39_word_no_space_7 | suspectjeanscrazyaprilnutindicatevan |  
+| bip_39_word_no_space_8 | suspectjeanscrazyaprilnutindicatevanflash |  
+| bip_39_word_no_space_9 | suspectjeanscrazyaprilnutindicatevanflashmuffin |  
 | bip_39_word_space_0 | ['suspect', 'jeans', 'crazy', 'april', 'nut', 'indicate', 'van', 'flash', 'muffin', 'lobster', 'tower', 'across'] |  
 | bip_39_word_space_1 | suspect |  
 | bip_39_word_space_10 | suspect jeans crazy april nut indicate van flash muffin lobster |  

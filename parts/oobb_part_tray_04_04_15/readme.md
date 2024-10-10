@@ -122,6 +122,18 @@ file
 cheese
 coral
 gift |  
+| bip_39_word_no_space_1 | face |  
+| bip_39_word_no_space_10 | faceraisetunasketchfragilefilecheesecoralgifthost |  
+| bip_39_word_no_space_11 | faceraisetunasketchfragilefilecheesecoralgifthostshove |  
+| bip_39_word_no_space_12 | faceraisetunasketchfragilefilecheesecoralgifthostshoveancient |  
+| bip_39_word_no_space_2 | faceraise |  
+| bip_39_word_no_space_3 | faceraisetuna |  
+| bip_39_word_no_space_4 | faceraisetunasketch |  
+| bip_39_word_no_space_5 | faceraisetunasketchfragile |  
+| bip_39_word_no_space_6 | faceraisetunasketchfragilefile |  
+| bip_39_word_no_space_7 | faceraisetunasketchfragilefilecheese |  
+| bip_39_word_no_space_8 | faceraisetunasketchfragilefilecheesecoral |  
+| bip_39_word_no_space_9 | faceraisetunasketchfragilefilecheesecoralgift |  
 | bip_39_word_space_0 | ['face', 'raise', 'tuna', 'sketch', 'fragile', 'file', 'cheese', 'coral', 'gift', 'host', 'shove', 'ancient'] |  
 | bip_39_word_space_1 | face |  
 | bip_39_word_space_10 | face raise tuna sketch fragile file cheese coral gift host |  

@@ -122,6 +122,18 @@ tiger
 bargain
 tortoise
 relax |  
+| bip_39_word_no_space_1 | humor |  
+| bip_39_word_no_space_10 | humorkindlongpicnicsametigerbargaintortoiserelaxspatial |  
+| bip_39_word_no_space_11 | humorkindlongpicnicsametigerbargaintortoiserelaxspatialknife |  
+| bip_39_word_no_space_12 | humorkindlongpicnicsametigerbargaintortoiserelaxspatialknifealpha |  
+| bip_39_word_no_space_2 | humorkind |  
+| bip_39_word_no_space_3 | humorkindlong |  
+| bip_39_word_no_space_4 | humorkindlongpicnic |  
+| bip_39_word_no_space_5 | humorkindlongpicnicsame |  
+| bip_39_word_no_space_6 | humorkindlongpicnicsametiger |  
+| bip_39_word_no_space_7 | humorkindlongpicnicsametigerbargain |  
+| bip_39_word_no_space_8 | humorkindlongpicnicsametigerbargaintortoise |  
+| bip_39_word_no_space_9 | humorkindlongpicnicsametigerbargaintortoiserelax |  
 | bip_39_word_space_0 | ['humor', 'kind', 'long', 'picnic', 'same', 'tiger', 'bargain', 'tortoise', 'relax', 'spatial', 'knife', 'alpha'] |  
 | bip_39_word_space_1 | humor |  
 | bip_39_word_space_10 | humor kind long picnic same tiger bargain tortoise relax spatial |  

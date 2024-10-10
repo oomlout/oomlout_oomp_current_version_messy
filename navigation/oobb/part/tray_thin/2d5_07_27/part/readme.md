@@ -122,6 +122,18 @@ achieve
 error
 provide
 heart |  
+| bip_39_word_no_space_1 | exchange |  
+| bip_39_word_no_space_10 | exchangeridealbumtossbalanceachieveerrorprovideheartborrow |  
+| bip_39_word_no_space_11 | exchangeridealbumtossbalanceachieveerrorprovideheartborrowcollect |  
+| bip_39_word_no_space_12 | exchangeridealbumtossbalanceachieveerrorprovideheartborrowcollectangle |  
+| bip_39_word_no_space_2 | exchangeride |  
+| bip_39_word_no_space_3 | exchangeridealbum |  
+| bip_39_word_no_space_4 | exchangeridealbumtoss |  
+| bip_39_word_no_space_5 | exchangeridealbumtossbalance |  
+| bip_39_word_no_space_6 | exchangeridealbumtossbalanceachieve |  
+| bip_39_word_no_space_7 | exchangeridealbumtossbalanceachieveerror |  
+| bip_39_word_no_space_8 | exchangeridealbumtossbalanceachieveerrorprovide |  
+| bip_39_word_no_space_9 | exchangeridealbumtossbalanceachieveerrorprovideheart |  
 | bip_39_word_space_0 | ['exchange', 'ride', 'album', 'toss', 'balance', 'achieve', 'error', 'provide', 'heart', 'borrow', 'collect', 'angle'] |  
 | bip_39_word_space_1 | exchange |  
 | bip_39_word_space_10 | exchange ride album toss balance achieve error provide heart borrow |  

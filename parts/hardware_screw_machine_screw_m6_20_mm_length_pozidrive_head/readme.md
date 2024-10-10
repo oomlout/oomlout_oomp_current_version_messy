@@ -122,6 +122,18 @@ vast
 slam
 pet
 bridge |  
+| bip_39_word_no_space_1 | say |  
+| bip_39_word_no_space_10 | sayslenderscrubostrichdreamvastslampetbridgehen |  
+| bip_39_word_no_space_11 | sayslenderscrubostrichdreamvastslampetbridgehenscript |  
+| bip_39_word_no_space_12 | sayslenderscrubostrichdreamvastslampetbridgehenscriptaddress |  
+| bip_39_word_no_space_2 | sayslender |  
+| bip_39_word_no_space_3 | sayslenderscrub |  
+| bip_39_word_no_space_4 | sayslenderscrubostrich |  
+| bip_39_word_no_space_5 | sayslenderscrubostrichdream |  
+| bip_39_word_no_space_6 | sayslenderscrubostrichdreamvast |  
+| bip_39_word_no_space_7 | sayslenderscrubostrichdreamvastslam |  
+| bip_39_word_no_space_8 | sayslenderscrubostrichdreamvastslampet |  
+| bip_39_word_no_space_9 | sayslenderscrubostrichdreamvastslampetbridge |  
 | bip_39_word_space_0 | ['say', 'slender', 'scrub', 'ostrich', 'dream', 'vast', 'slam', 'pet', 'bridge', 'hen', 'script', 'address'] |  
 | bip_39_word_space_1 | say |  
 | bip_39_word_space_10 | say slender scrub ostrich dream vast slam pet bridge hen |  

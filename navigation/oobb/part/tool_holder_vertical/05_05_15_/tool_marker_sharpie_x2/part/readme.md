@@ -122,6 +122,18 @@ venue
 retire
 trigger
 secret |  
+| bip_39_word_no_space_1 | opinion |  
+| bip_39_word_no_space_10 | opinionwherebuddycoursetragicvenueretiretriggersecretnoble |  
+| bip_39_word_no_space_11 | opinionwherebuddycoursetragicvenueretiretriggersecretnoblelimb |  
+| bip_39_word_no_space_12 | opinionwherebuddycoursetragicvenueretiretriggersecretnoblelimbamazing |  
+| bip_39_word_no_space_2 | opinionwhere |  
+| bip_39_word_no_space_3 | opinionwherebuddy |  
+| bip_39_word_no_space_4 | opinionwherebuddycourse |  
+| bip_39_word_no_space_5 | opinionwherebuddycoursetragic |  
+| bip_39_word_no_space_6 | opinionwherebuddycoursetragicvenue |  
+| bip_39_word_no_space_7 | opinionwherebuddycoursetragicvenueretire |  
+| bip_39_word_no_space_8 | opinionwherebuddycoursetragicvenueretiretrigger |  
+| bip_39_word_no_space_9 | opinionwherebuddycoursetragicvenueretiretriggersecret |  
 | bip_39_word_space_0 | ['opinion', 'where', 'buddy', 'course', 'tragic', 'venue', 'retire', 'trigger', 'secret', 'noble', 'limb', 'amazing'] |  
 | bip_39_word_space_1 | opinion |  
 | bip_39_word_space_10 | opinion where buddy course tragic venue retire trigger secret noble |  

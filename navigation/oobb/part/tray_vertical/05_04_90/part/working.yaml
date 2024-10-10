@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'emerge
   isolate
 
   volcano'
+bip_39_word_no_space_1: emerge
+bip_39_word_no_space_10: emergeableponyreformcoffeeneckhopeisolatevolcanohelp
+bip_39_word_no_space_11: emergeableponyreformcoffeeneckhopeisolatevolcanohelpfault
+bip_39_word_no_space_12: emergeableponyreformcoffeeneckhopeisolatevolcanohelpfaultarmed
+bip_39_word_no_space_2: emergeable
+bip_39_word_no_space_3: emergeablepony
+bip_39_word_no_space_4: emergeableponyreform
+bip_39_word_no_space_5: emergeableponyreformcoffee
+bip_39_word_no_space_6: emergeableponyreformcoffeeneck
+bip_39_word_no_space_7: emergeableponyreformcoffeeneckhope
+bip_39_word_no_space_8: emergeableponyreformcoffeeneckhopeisolate
+bip_39_word_no_space_9: emergeableponyreformcoffeeneckhopeisolatevolcano
 bip_39_word_space_0:
 - emerge
 - able

@@ -122,6 +122,18 @@ sell
 test
 cigar
 stay |  
+| bip_39_word_no_space_1 | script |  
+| bip_39_word_no_space_10 | scriptcombinetaxipraiseessenceselltestcigarstaymandate |  
+| bip_39_word_no_space_11 | scriptcombinetaxipraiseessenceselltestcigarstaymandateawful |  
+| bip_39_word_no_space_12 | scriptcombinetaxipraiseessenceselltestcigarstaymandateawfulappear |  
+| bip_39_word_no_space_2 | scriptcombine |  
+| bip_39_word_no_space_3 | scriptcombinetaxi |  
+| bip_39_word_no_space_4 | scriptcombinetaxipraise |  
+| bip_39_word_no_space_5 | scriptcombinetaxipraiseessence |  
+| bip_39_word_no_space_6 | scriptcombinetaxipraiseessencesell |  
+| bip_39_word_no_space_7 | scriptcombinetaxipraiseessenceselltest |  
+| bip_39_word_no_space_8 | scriptcombinetaxipraiseessenceselltestcigar |  
+| bip_39_word_no_space_9 | scriptcombinetaxipraiseessenceselltestcigarstay |  
 | bip_39_word_space_0 | ['script', 'combine', 'taxi', 'praise', 'essence', 'sell', 'test', 'cigar', 'stay', 'mandate', 'awful', 'appear'] |  
 | bip_39_word_space_1 | script |  
 | bip_39_word_space_10 | script combine taxi praise essence sell test cigar stay mandate |  

@@ -122,6 +122,18 @@ dice
 hero
 sausage
 captain |  
+| bip_39_word_no_space_1 | law |  
+| bip_39_word_no_space_10 | lawindicateprosperrebelcarrydiceherosausagecaptainalien |  
+| bip_39_word_no_space_11 | lawindicateprosperrebelcarrydiceherosausagecaptainalienadapt |  
+| bip_39_word_no_space_12 | lawindicateprosperrebelcarrydiceherosausagecaptainalienadaptamused |  
+| bip_39_word_no_space_2 | lawindicate |  
+| bip_39_word_no_space_3 | lawindicateprosper |  
+| bip_39_word_no_space_4 | lawindicateprosperrebel |  
+| bip_39_word_no_space_5 | lawindicateprosperrebelcarry |  
+| bip_39_word_no_space_6 | lawindicateprosperrebelcarrydice |  
+| bip_39_word_no_space_7 | lawindicateprosperrebelcarrydicehero |  
+| bip_39_word_no_space_8 | lawindicateprosperrebelcarrydiceherosausage |  
+| bip_39_word_no_space_9 | lawindicateprosperrebelcarrydiceherosausagecaptain |  
 | bip_39_word_space_0 | ['law', 'indicate', 'prosper', 'rebel', 'carry', 'dice', 'hero', 'sausage', 'captain', 'alien', 'adapt', 'amused'] |  
 | bip_39_word_space_1 | law |  
 | bip_39_word_space_10 | law indicate prosper rebel carry dice hero sausage captain alien |  

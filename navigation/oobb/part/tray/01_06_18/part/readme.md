@@ -122,6 +122,18 @@ bitter
 cream
 shaft
 turkey |  
+| bip_39_word_no_space_1 | captain |  
+| bip_39_word_no_space_10 | captainloanrecipedenyharborbittercreamshaftturkeybetween |  
+| bip_39_word_no_space_11 | captainloanrecipedenyharborbittercreamshaftturkeybetweenurban |  
+| bip_39_word_no_space_12 | captainloanrecipedenyharborbittercreamshaftturkeybetweenurbanagree |  
+| bip_39_word_no_space_2 | captainloan |  
+| bip_39_word_no_space_3 | captainloanrecipe |  
+| bip_39_word_no_space_4 | captainloanrecipedeny |  
+| bip_39_word_no_space_5 | captainloanrecipedenyharbor |  
+| bip_39_word_no_space_6 | captainloanrecipedenyharborbitter |  
+| bip_39_word_no_space_7 | captainloanrecipedenyharborbittercream |  
+| bip_39_word_no_space_8 | captainloanrecipedenyharborbittercreamshaft |  
+| bip_39_word_no_space_9 | captainloanrecipedenyharborbittercreamshaftturkey |  
 | bip_39_word_space_0 | ['captain', 'loan', 'recipe', 'deny', 'harbor', 'bitter', 'cream', 'shaft', 'turkey', 'between', 'urban', 'agree'] |  
 | bip_39_word_space_1 | captain |  
 | bip_39_word_space_10 | captain loan recipe deny harbor bitter cream shaft turkey between |  

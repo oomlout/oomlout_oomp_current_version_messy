@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'creek
   dirt
 
   quantum'
+bip_39_word_no_space_1: creek
+bip_39_word_no_space_10: creekmergewifehabitsponsorphoneerodedirtquantummonitor
+bip_39_word_no_space_11: creekmergewifehabitsponsorphoneerodedirtquantummonitornarrow
+bip_39_word_no_space_12: creekmergewifehabitsponsorphoneerodedirtquantummonitornarrowalley
+bip_39_word_no_space_2: creekmerge
+bip_39_word_no_space_3: creekmergewife
+bip_39_word_no_space_4: creekmergewifehabit
+bip_39_word_no_space_5: creekmergewifehabitsponsor
+bip_39_word_no_space_6: creekmergewifehabitsponsorphone
+bip_39_word_no_space_7: creekmergewifehabitsponsorphoneerode
+bip_39_word_no_space_8: creekmergewifehabitsponsorphoneerodedirt
+bip_39_word_no_space_9: creekmergewifehabitsponsorphoneerodedirtquantum
 bip_39_word_space_0:
 - creek
 - merge

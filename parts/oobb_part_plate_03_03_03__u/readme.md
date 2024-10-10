@@ -122,6 +122,18 @@ tag
 weather
 pumpkin
 fresh |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energyrippleepisodeglidemoontagweatherpumpkinfreshindicate |  
+| bip_39_word_no_space_11 | energyrippleepisodeglidemoontagweatherpumpkinfreshindicaterecall |  
+| bip_39_word_no_space_12 | energyrippleepisodeglidemoontagweatherpumpkinfreshindicaterecallarrange |  
+| bip_39_word_no_space_2 | energyripple |  
+| bip_39_word_no_space_3 | energyrippleepisode |  
+| bip_39_word_no_space_4 | energyrippleepisodeglide |  
+| bip_39_word_no_space_5 | energyrippleepisodeglidemoon |  
+| bip_39_word_no_space_6 | energyrippleepisodeglidemoontag |  
+| bip_39_word_no_space_7 | energyrippleepisodeglidemoontagweather |  
+| bip_39_word_no_space_8 | energyrippleepisodeglidemoontagweatherpumpkin |  
+| bip_39_word_no_space_9 | energyrippleepisodeglidemoontagweatherpumpkinfresh |  
 | bip_39_word_space_0 | ['energy', 'ripple', 'episode', 'glide', 'moon', 'tag', 'weather', 'pumpkin', 'fresh', 'indicate', 'recall', 'arrange'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy ripple episode glide moon tag weather pumpkin fresh indicate |  

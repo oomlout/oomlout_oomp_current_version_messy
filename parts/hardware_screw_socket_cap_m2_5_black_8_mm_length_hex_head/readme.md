@@ -122,6 +122,18 @@ champion
 announce
 bulk
 remember |  
+| bip_39_word_no_space_1 | rather |  
+| bip_39_word_no_space_10 | rathertrendchargelaundryvividchampionannouncebulkrememberboost |  
+| bip_39_word_no_space_11 | rathertrendchargelaundryvividchampionannouncebulkrememberboostmirror |  
+| bip_39_word_no_space_12 | rathertrendchargelaundryvividchampionannouncebulkrememberboostmirroralter |  
+| bip_39_word_no_space_2 | rathertrend |  
+| bip_39_word_no_space_3 | rathertrendcharge |  
+| bip_39_word_no_space_4 | rathertrendchargelaundry |  
+| bip_39_word_no_space_5 | rathertrendchargelaundryvivid |  
+| bip_39_word_no_space_6 | rathertrendchargelaundryvividchampion |  
+| bip_39_word_no_space_7 | rathertrendchargelaundryvividchampionannounce |  
+| bip_39_word_no_space_8 | rathertrendchargelaundryvividchampionannouncebulk |  
+| bip_39_word_no_space_9 | rathertrendchargelaundryvividchampionannouncebulkremember |  
 | bip_39_word_space_0 | ['rather', 'trend', 'charge', 'laundry', 'vivid', 'champion', 'announce', 'bulk', 'remember', 'boost', 'mirror', 'alter'] |  
 | bip_39_word_space_1 | rather |  
 | bip_39_word_space_10 | rather trend charge laundry vivid champion announce bulk remember boost |  

@@ -122,6 +122,18 @@ rule
 siren
 lunch
 stone |  
+| bip_39_word_no_space_1 | snow |  
+| bip_39_word_no_space_10 | snowmeatswimbracketmosquitorulesirenlunchstonetrain |  
+| bip_39_word_no_space_11 | snowmeatswimbracketmosquitorulesirenlunchstonetraincrawl |  
+| bip_39_word_no_space_12 | snowmeatswimbracketmosquitorulesirenlunchstonetraincrawlapril |  
+| bip_39_word_no_space_2 | snowmeat |  
+| bip_39_word_no_space_3 | snowmeatswim |  
+| bip_39_word_no_space_4 | snowmeatswimbracket |  
+| bip_39_word_no_space_5 | snowmeatswimbracketmosquito |  
+| bip_39_word_no_space_6 | snowmeatswimbracketmosquitorule |  
+| bip_39_word_no_space_7 | snowmeatswimbracketmosquitorulesiren |  
+| bip_39_word_no_space_8 | snowmeatswimbracketmosquitorulesirenlunch |  
+| bip_39_word_no_space_9 | snowmeatswimbracketmosquitorulesirenlunchstone |  
 | bip_39_word_space_0 | ['snow', 'meat', 'swim', 'bracket', 'mosquito', 'rule', 'siren', 'lunch', 'stone', 'train', 'crawl', 'april'] |  
 | bip_39_word_space_1 | snow |  
 | bip_39_word_space_10 | snow meat swim bracket mosquito rule siren lunch stone train |  

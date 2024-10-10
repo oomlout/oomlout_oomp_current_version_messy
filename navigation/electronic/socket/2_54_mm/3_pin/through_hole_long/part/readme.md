@@ -122,6 +122,18 @@ affair
 start
 angry
 outdoor |  
+| bip_39_word_no_space_1 | whip |  
+| bip_39_word_no_space_10 | whipglareexercisesectiongravityaffairstartangryoutdoorfury |  
+| bip_39_word_no_space_11 | whipglareexercisesectiongravityaffairstartangryoutdoorfurytoe |  
+| bip_39_word_no_space_12 | whipglareexercisesectiongravityaffairstartangryoutdoorfurytoealso |  
+| bip_39_word_no_space_2 | whipglare |  
+| bip_39_word_no_space_3 | whipglareexercise |  
+| bip_39_word_no_space_4 | whipglareexercisesection |  
+| bip_39_word_no_space_5 | whipglareexercisesectiongravity |  
+| bip_39_word_no_space_6 | whipglareexercisesectiongravityaffair |  
+| bip_39_word_no_space_7 | whipglareexercisesectiongravityaffairstart |  
+| bip_39_word_no_space_8 | whipglareexercisesectiongravityaffairstartangry |  
+| bip_39_word_no_space_9 | whipglareexercisesectiongravityaffairstartangryoutdoor |  
 | bip_39_word_space_0 | ['whip', 'glare', 'exercise', 'section', 'gravity', 'affair', 'start', 'angry', 'outdoor', 'fury', 'toe', 'also'] |  
 | bip_39_word_space_1 | whip |  
 | bip_39_word_space_10 | whip glare exercise section gravity affair start angry outdoor fury |  

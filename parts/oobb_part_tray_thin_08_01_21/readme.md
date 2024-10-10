@@ -122,6 +122,18 @@ cherry
 regular
 taxi
 stuff |  
+| bip_39_word_no_space_1 | share |  
+| bip_39_word_no_space_10 | sharestayviciouspopularcatalogcherryregulartaxistuffsport |  
+| bip_39_word_no_space_11 | sharestayviciouspopularcatalogcherryregulartaxistuffsportgoddess |  
+| bip_39_word_no_space_12 | sharestayviciouspopularcatalogcherryregulartaxistuffsportgoddessanother |  
+| bip_39_word_no_space_2 | sharestay |  
+| bip_39_word_no_space_3 | sharestayvicious |  
+| bip_39_word_no_space_4 | sharestayviciouspopular |  
+| bip_39_word_no_space_5 | sharestayviciouspopularcatalog |  
+| bip_39_word_no_space_6 | sharestayviciouspopularcatalogcherry |  
+| bip_39_word_no_space_7 | sharestayviciouspopularcatalogcherryregular |  
+| bip_39_word_no_space_8 | sharestayviciouspopularcatalogcherryregulartaxi |  
+| bip_39_word_no_space_9 | sharestayviciouspopularcatalogcherryregulartaxistuff |  
 | bip_39_word_space_0 | ['share', 'stay', 'vicious', 'popular', 'catalog', 'cherry', 'regular', 'taxi', 'stuff', 'sport', 'goddess', 'another'] |  
 | bip_39_word_space_1 | share |  
 | bip_39_word_space_10 | share stay vicious popular catalog cherry regular taxi stuff sport |  

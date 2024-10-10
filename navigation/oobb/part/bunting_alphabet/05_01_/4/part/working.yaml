@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rack
   want
 
   sail'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackusagehumanonenetworkunhappymaplewantsailjoin
+bip_39_word_no_space_11: rackusagehumanonenetworkunhappymaplewantsailjoinmarket
+bip_39_word_no_space_12: rackusagehumanonenetworkunhappymaplewantsailjoinmarketassault
+bip_39_word_no_space_2: rackusage
+bip_39_word_no_space_3: rackusagehuman
+bip_39_word_no_space_4: rackusagehumanone
+bip_39_word_no_space_5: rackusagehumanonenetwork
+bip_39_word_no_space_6: rackusagehumanonenetworkunhappy
+bip_39_word_no_space_7: rackusagehumanonenetworkunhappymaple
+bip_39_word_no_space_8: rackusagehumanonenetworkunhappymaplewant
+bip_39_word_no_space_9: rackusagehumanonenetworkunhappymaplewantsail
 bip_39_word_space_0:
 - rack
 - usage

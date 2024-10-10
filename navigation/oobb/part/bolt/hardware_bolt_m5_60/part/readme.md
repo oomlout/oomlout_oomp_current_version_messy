@@ -122,6 +122,18 @@ erase
 vendor
 name
 always |  
+| bip_39_word_no_space_1 | skull |  
+| bip_39_word_no_space_10 | skullapprovereformtipgrowerasevendornamealwayslaw |  
+| bip_39_word_no_space_11 | skullapprovereformtipgrowerasevendornamealwayslawday |  
+| bip_39_word_no_space_12 | skullapprovereformtipgrowerasevendornamealwayslawdayapprove |  
+| bip_39_word_no_space_2 | skullapprove |  
+| bip_39_word_no_space_3 | skullapprovereform |  
+| bip_39_word_no_space_4 | skullapprovereformtip |  
+| bip_39_word_no_space_5 | skullapprovereformtipgrow |  
+| bip_39_word_no_space_6 | skullapprovereformtipgrowerase |  
+| bip_39_word_no_space_7 | skullapprovereformtipgrowerasevendor |  
+| bip_39_word_no_space_8 | skullapprovereformtipgrowerasevendorname |  
+| bip_39_word_no_space_9 | skullapprovereformtipgrowerasevendornamealways |  
 | bip_39_word_space_0 | ['skull', 'approve', 'reform', 'tip', 'grow', 'erase', 'vendor', 'name', 'always', 'law', 'day', 'approve'] |  
 | bip_39_word_space_1 | skull |  
 | bip_39_word_space_10 | skull approve reform tip grow erase vendor name always law |  

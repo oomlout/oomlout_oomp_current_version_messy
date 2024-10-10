@@ -122,6 +122,18 @@ sword
 bullet
 popular
 picnic |  
+| bip_39_word_no_space_1 | orphan |  
+| bip_39_word_no_space_10 | orphanparrotnastyangertroubleswordbulletpopularpicniccorrect |  
+| bip_39_word_no_space_11 | orphanparrotnastyangertroubleswordbulletpopularpicniccorrectinterest |  
+| bip_39_word_no_space_12 | orphanparrotnastyangertroubleswordbulletpopularpicniccorrectinterestactress |  
+| bip_39_word_no_space_2 | orphanparrot |  
+| bip_39_word_no_space_3 | orphanparrotnasty |  
+| bip_39_word_no_space_4 | orphanparrotnastyanger |  
+| bip_39_word_no_space_5 | orphanparrotnastyangertrouble |  
+| bip_39_word_no_space_6 | orphanparrotnastyangertroublesword |  
+| bip_39_word_no_space_7 | orphanparrotnastyangertroubleswordbullet |  
+| bip_39_word_no_space_8 | orphanparrotnastyangertroubleswordbulletpopular |  
+| bip_39_word_no_space_9 | orphanparrotnastyangertroubleswordbulletpopularpicnic |  
 | bip_39_word_space_0 | ['orphan', 'parrot', 'nasty', 'anger', 'trouble', 'sword', 'bullet', 'popular', 'picnic', 'correct', 'interest', 'actress'] |  
 | bip_39_word_space_1 | orphan |  
 | bip_39_word_space_10 | orphan parrot nasty anger trouble sword bullet popular picnic correct |  

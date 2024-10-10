@@ -122,6 +122,18 @@ twelve
 board
 frozen
 ostrich |  
+| bip_39_word_no_space_1 | decorate |  
+| bip_39_word_no_space_10 | decorateboatrecallcannondreamtwelveboardfrozenostrichunder |  
+| bip_39_word_no_space_11 | decorateboatrecallcannondreamtwelveboardfrozenostrichunderhobby |  
+| bip_39_word_no_space_12 | decorateboatrecallcannondreamtwelveboardfrozenostrichunderhobbyassist |  
+| bip_39_word_no_space_2 | decorateboat |  
+| bip_39_word_no_space_3 | decorateboatrecall |  
+| bip_39_word_no_space_4 | decorateboatrecallcannon |  
+| bip_39_word_no_space_5 | decorateboatrecallcannondream |  
+| bip_39_word_no_space_6 | decorateboatrecallcannondreamtwelve |  
+| bip_39_word_no_space_7 | decorateboatrecallcannondreamtwelveboard |  
+| bip_39_word_no_space_8 | decorateboatrecallcannondreamtwelveboardfrozen |  
+| bip_39_word_no_space_9 | decorateboatrecallcannondreamtwelveboardfrozenostrich |  
 | bip_39_word_space_0 | ['decorate', 'boat', 'recall', 'cannon', 'dream', 'twelve', 'board', 'frozen', 'ostrich', 'under', 'hobby', 'assist'] |  
 | bip_39_word_space_1 | decorate |  
 | bip_39_word_space_10 | decorate boat recall cannon dream twelve board frozen ostrich under |  

@@ -122,6 +122,18 @@ flee
 actor
 arrest
 oblige |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toeemergeverifypresentaccidentfleeactorarrestobligespoil |  
+| bip_39_word_no_space_11 | toeemergeverifypresentaccidentfleeactorarrestobligespoilweapon |  
+| bip_39_word_no_space_12 | toeemergeverifypresentaccidentfleeactorarrestobligespoilweaponahead |  
+| bip_39_word_no_space_2 | toeemerge |  
+| bip_39_word_no_space_3 | toeemergeverify |  
+| bip_39_word_no_space_4 | toeemergeverifypresent |  
+| bip_39_word_no_space_5 | toeemergeverifypresentaccident |  
+| bip_39_word_no_space_6 | toeemergeverifypresentaccidentflee |  
+| bip_39_word_no_space_7 | toeemergeverifypresentaccidentfleeactor |  
+| bip_39_word_no_space_8 | toeemergeverifypresentaccidentfleeactorarrest |  
+| bip_39_word_no_space_9 | toeemergeverifypresentaccidentfleeactorarrestoblige |  
 | bip_39_word_space_0 | ['toe', 'emerge', 'verify', 'present', 'accident', 'flee', 'actor', 'arrest', 'oblige', 'spoil', 'weapon', 'ahead'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe emerge verify present accident flee actor arrest oblige spoil |  

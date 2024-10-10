@@ -122,6 +122,18 @@ champion
 soon
 flip
 impose |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachmonkeyenablecattlecomechampionsoonflipimposecrisp |  
+| bip_39_word_no_space_11 | stomachmonkeyenablecattlecomechampionsoonflipimposecrispdepend |  
+| bip_39_word_no_space_12 | stomachmonkeyenablecattlecomechampionsoonflipimposecrispdependalert |  
+| bip_39_word_no_space_2 | stomachmonkey |  
+| bip_39_word_no_space_3 | stomachmonkeyenable |  
+| bip_39_word_no_space_4 | stomachmonkeyenablecattle |  
+| bip_39_word_no_space_5 | stomachmonkeyenablecattlecome |  
+| bip_39_word_no_space_6 | stomachmonkeyenablecattlecomechampion |  
+| bip_39_word_no_space_7 | stomachmonkeyenablecattlecomechampionsoon |  
+| bip_39_word_no_space_8 | stomachmonkeyenablecattlecomechampionsoonflip |  
+| bip_39_word_no_space_9 | stomachmonkeyenablecattlecomechampionsoonflipimpose |  
 | bip_39_word_space_0 | ['stomach', 'monkey', 'enable', 'cattle', 'come', 'champion', 'soon', 'flip', 'impose', 'crisp', 'depend', 'alert'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach monkey enable cattle come champion soon flip impose crisp |  

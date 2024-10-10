@@ -122,6 +122,18 @@ ski
 dice
 crisp
 must |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | nicevoicefemalekittenchickenskidicecrispmustcherry |  
+| bip_39_word_no_space_11 | nicevoicefemalekittenchickenskidicecrispmustcherrymillion |  
+| bip_39_word_no_space_12 | nicevoicefemalekittenchickenskidicecrispmustcherrymillionamount |  
+| bip_39_word_no_space_2 | nicevoice |  
+| bip_39_word_no_space_3 | nicevoicefemale |  
+| bip_39_word_no_space_4 | nicevoicefemalekitten |  
+| bip_39_word_no_space_5 | nicevoicefemalekittenchicken |  
+| bip_39_word_no_space_6 | nicevoicefemalekittenchickenski |  
+| bip_39_word_no_space_7 | nicevoicefemalekittenchickenskidice |  
+| bip_39_word_no_space_8 | nicevoicefemalekittenchickenskidicecrisp |  
+| bip_39_word_no_space_9 | nicevoicefemalekittenchickenskidicecrispmust |  
 | bip_39_word_space_0 | ['nice', 'voice', 'female', 'kitten', 'chicken', 'ski', 'dice', 'crisp', 'must', 'cherry', 'million', 'amount'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice voice female kitten chicken ski dice crisp must cherry |  

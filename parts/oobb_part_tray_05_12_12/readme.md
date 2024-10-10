@@ -122,6 +122,18 @@ blue
 primary
 host
 dish |  
+| bip_39_word_no_space_1 | document |  
+| bip_39_word_no_space_10 | documentfruitpredictprojectbloodblueprimaryhostdishspread |  
+| bip_39_word_no_space_11 | documentfruitpredictprojectbloodblueprimaryhostdishspreadpull |  
+| bip_39_word_no_space_12 | documentfruitpredictprojectbloodblueprimaryhostdishspreadpullagain |  
+| bip_39_word_no_space_2 | documentfruit |  
+| bip_39_word_no_space_3 | documentfruitpredict |  
+| bip_39_word_no_space_4 | documentfruitpredictproject |  
+| bip_39_word_no_space_5 | documentfruitpredictprojectblood |  
+| bip_39_word_no_space_6 | documentfruitpredictprojectbloodblue |  
+| bip_39_word_no_space_7 | documentfruitpredictprojectbloodblueprimary |  
+| bip_39_word_no_space_8 | documentfruitpredictprojectbloodblueprimaryhost |  
+| bip_39_word_no_space_9 | documentfruitpredictprojectbloodblueprimaryhostdish |  
 | bip_39_word_space_0 | ['document', 'fruit', 'predict', 'project', 'blood', 'blue', 'primary', 'host', 'dish', 'spread', 'pull', 'again'] |  
 | bip_39_word_space_1 | document |  
 | bip_39_word_space_10 | document fruit predict project blood blue primary host dish spread |  

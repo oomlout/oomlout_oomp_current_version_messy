@@ -122,6 +122,18 @@ dinner
 cheese
 victory
 black |  
+| bip_39_word_no_space_1 | round |  
+| bip_39_word_no_space_10 | roundpointbusinessincomeloopdinnercheesevictoryblackreunion |  
+| bip_39_word_no_space_11 | roundpointbusinessincomeloopdinnercheesevictoryblackreunionduty |  
+| bip_39_word_no_space_12 | roundpointbusinessincomeloopdinnercheesevictoryblackreuniondutyattitude |  
+| bip_39_word_no_space_2 | roundpoint |  
+| bip_39_word_no_space_3 | roundpointbusiness |  
+| bip_39_word_no_space_4 | roundpointbusinessincome |  
+| bip_39_word_no_space_5 | roundpointbusinessincomeloop |  
+| bip_39_word_no_space_6 | roundpointbusinessincomeloopdinner |  
+| bip_39_word_no_space_7 | roundpointbusinessincomeloopdinnercheese |  
+| bip_39_word_no_space_8 | roundpointbusinessincomeloopdinnercheesevictory |  
+| bip_39_word_no_space_9 | roundpointbusinessincomeloopdinnercheesevictoryblack |  
 | bip_39_word_space_0 | ['round', 'point', 'business', 'income', 'loop', 'dinner', 'cheese', 'victory', 'black', 'reunion', 'duty', 'attitude'] |  
 | bip_39_word_space_1 | round |  
 | bip_39_word_space_10 | round point business income loop dinner cheese victory black reunion |  

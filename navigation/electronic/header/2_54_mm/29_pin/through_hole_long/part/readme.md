@@ -122,6 +122,18 @@ huge
 jewel
 seat
 glimpse |  
+| bip_39_word_no_space_1 | enrich |  
+| bip_39_word_no_space_10 | enrichwebhintplungehoodhugejewelseatglimpseattitude |  
+| bip_39_word_no_space_11 | enrichwebhintplungehoodhugejewelseatglimpseattitudeprovide |  
+| bip_39_word_no_space_12 | enrichwebhintplungehoodhugejewelseatglimpseattitudeprovideassault |  
+| bip_39_word_no_space_2 | enrichweb |  
+| bip_39_word_no_space_3 | enrichwebhint |  
+| bip_39_word_no_space_4 | enrichwebhintplunge |  
+| bip_39_word_no_space_5 | enrichwebhintplungehood |  
+| bip_39_word_no_space_6 | enrichwebhintplungehoodhuge |  
+| bip_39_word_no_space_7 | enrichwebhintplungehoodhugejewel |  
+| bip_39_word_no_space_8 | enrichwebhintplungehoodhugejewelseat |  
+| bip_39_word_no_space_9 | enrichwebhintplungehoodhugejewelseatglimpse |  
 | bip_39_word_space_0 | ['enrich', 'web', 'hint', 'plunge', 'hood', 'huge', 'jewel', 'seat', 'glimpse', 'attitude', 'provide', 'assault'] |  
 | bip_39_word_space_1 | enrich |  
 | bip_39_word_space_10 | enrich web hint plunge hood huge jewel seat glimpse attitude |  

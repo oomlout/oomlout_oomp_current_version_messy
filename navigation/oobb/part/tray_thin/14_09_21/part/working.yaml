@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shuffle
   version
 
   mouse'
+bip_39_word_no_space_1: shuffle
+bip_39_word_no_space_10: shufflegoverntagwristdecidetwiceonceversionmouselend
+bip_39_word_no_space_11: shufflegoverntagwristdecidetwiceonceversionmouselendexist
+bip_39_word_no_space_12: shufflegoverntagwristdecidetwiceonceversionmouselendexistarch
+bip_39_word_no_space_2: shufflegovern
+bip_39_word_no_space_3: shufflegoverntag
+bip_39_word_no_space_4: shufflegoverntagwrist
+bip_39_word_no_space_5: shufflegoverntagwristdecide
+bip_39_word_no_space_6: shufflegoverntagwristdecidetwice
+bip_39_word_no_space_7: shufflegoverntagwristdecidetwiceonce
+bip_39_word_no_space_8: shufflegoverntagwristdecidetwiceonceversion
+bip_39_word_no_space_9: shufflegoverntagwristdecidetwiceonceversionmouse
 bip_39_word_space_0:
 - shuffle
 - govern

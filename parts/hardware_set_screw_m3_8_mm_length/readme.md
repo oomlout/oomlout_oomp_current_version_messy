@@ -122,6 +122,18 @@ under
 ostrich
 inspire
 agree |  
+| bip_39_word_no_space_1 | seed |  
+| bip_39_word_no_space_10 | seedmushroomaprildevicepovertyunderostrichinspireagreeaction |  
+| bip_39_word_no_space_11 | seedmushroomaprildevicepovertyunderostrichinspireagreeactionjust |  
+| bip_39_word_no_space_12 | seedmushroomaprildevicepovertyunderostrichinspireagreeactionjustany |  
+| bip_39_word_no_space_2 | seedmushroom |  
+| bip_39_word_no_space_3 | seedmushroomapril |  
+| bip_39_word_no_space_4 | seedmushroomaprildevice |  
+| bip_39_word_no_space_5 | seedmushroomaprildevicepoverty |  
+| bip_39_word_no_space_6 | seedmushroomaprildevicepovertyunder |  
+| bip_39_word_no_space_7 | seedmushroomaprildevicepovertyunderostrich |  
+| bip_39_word_no_space_8 | seedmushroomaprildevicepovertyunderostrichinspire |  
+| bip_39_word_no_space_9 | seedmushroomaprildevicepovertyunderostrichinspireagree |  
 | bip_39_word_space_0 | ['seed', 'mushroom', 'april', 'device', 'poverty', 'under', 'ostrich', 'inspire', 'agree', 'action', 'just', 'any'] |  
 | bip_39_word_space_1 | seed |  
 | bip_39_word_space_10 | seed mushroom april device poverty under ostrich inspire agree action |  

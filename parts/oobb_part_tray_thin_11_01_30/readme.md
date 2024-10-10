@@ -122,6 +122,18 @@ episode
 ice
 lawn
 treat |  
+| bip_39_word_no_space_1 | bread |  
+| bip_39_word_no_space_10 | breadnewswagerepeatskirtepisodeicelawntreatonly |  
+| bip_39_word_no_space_11 | breadnewswagerepeatskirtepisodeicelawntreatonlymercy |  
+| bip_39_word_no_space_12 | breadnewswagerepeatskirtepisodeicelawntreatonlymercyalien |  
+| bip_39_word_no_space_2 | breadnews |  
+| bip_39_word_no_space_3 | breadnewswage |  
+| bip_39_word_no_space_4 | breadnewswagerepeat |  
+| bip_39_word_no_space_5 | breadnewswagerepeatskirt |  
+| bip_39_word_no_space_6 | breadnewswagerepeatskirtepisode |  
+| bip_39_word_no_space_7 | breadnewswagerepeatskirtepisodeice |  
+| bip_39_word_no_space_8 | breadnewswagerepeatskirtepisodeicelawn |  
+| bip_39_word_no_space_9 | breadnewswagerepeatskirtepisodeicelawntreat |  
 | bip_39_word_space_0 | ['bread', 'news', 'wage', 'repeat', 'skirt', 'episode', 'ice', 'lawn', 'treat', 'only', 'mercy', 'alien'] |  
 | bip_39_word_space_1 | bread |  
 | bip_39_word_space_10 | bread news wage repeat skirt episode ice lawn treat only |  

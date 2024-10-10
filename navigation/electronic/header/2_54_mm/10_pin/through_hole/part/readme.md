@@ -122,6 +122,18 @@ hello
 industry
 law
 need |  
+| bip_39_word_no_space_1 | intact |  
+| bip_39_word_no_space_10 | intactvendorspeedmaidneedhelloindustrylawneedcrater |  
+| bip_39_word_no_space_11 | intactvendorspeedmaidneedhelloindustrylawneedcratercube |  
+| bip_39_word_no_space_12 | intactvendorspeedmaidneedhelloindustrylawneedcratercubeauction |  
+| bip_39_word_no_space_2 | intactvendor |  
+| bip_39_word_no_space_3 | intactvendorspeed |  
+| bip_39_word_no_space_4 | intactvendorspeedmaid |  
+| bip_39_word_no_space_5 | intactvendorspeedmaidneed |  
+| bip_39_word_no_space_6 | intactvendorspeedmaidneedhello |  
+| bip_39_word_no_space_7 | intactvendorspeedmaidneedhelloindustry |  
+| bip_39_word_no_space_8 | intactvendorspeedmaidneedhelloindustrylaw |  
+| bip_39_word_no_space_9 | intactvendorspeedmaidneedhelloindustrylawneed |  
 | bip_39_word_space_0 | ['intact', 'vendor', 'speed', 'maid', 'need', 'hello', 'industry', 'law', 'need', 'crater', 'cube', 'auction'] |  
 | bip_39_word_space_1 | intact |  
 | bip_39_word_space_10 | intact vendor speed maid need hello industry law need crater |  

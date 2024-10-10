@@ -122,6 +122,18 @@ winner
 camera
 drop
 pause |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstsituateunawarefurnacenextwinnercameradroppauseminute |  
+| bip_39_word_no_space_11 | burstsituateunawarefurnacenextwinnercameradroppauseminutetortoise |  
+| bip_39_word_no_space_12 | burstsituateunawarefurnacenextwinnercameradroppauseminutetortoiseaffair |  
+| bip_39_word_no_space_2 | burstsituate |  
+| bip_39_word_no_space_3 | burstsituateunaware |  
+| bip_39_word_no_space_4 | burstsituateunawarefurnace |  
+| bip_39_word_no_space_5 | burstsituateunawarefurnacenext |  
+| bip_39_word_no_space_6 | burstsituateunawarefurnacenextwinner |  
+| bip_39_word_no_space_7 | burstsituateunawarefurnacenextwinnercamera |  
+| bip_39_word_no_space_8 | burstsituateunawarefurnacenextwinnercameradrop |  
+| bip_39_word_no_space_9 | burstsituateunawarefurnacenextwinnercameradroppause |  
 | bip_39_word_space_0 | ['burst', 'situate', 'unaware', 'furnace', 'next', 'winner', 'camera', 'drop', 'pause', 'minute', 'tortoise', 'affair'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst situate unaware furnace next winner camera drop pause minute |  

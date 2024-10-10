@@ -122,6 +122,18 @@ original
 naive
 coast
 traffic |  
+| bip_39_word_no_space_1 | pledge |  
+| bip_39_word_no_space_10 | pledgeshaftcementdovecementoriginalnaivecoasttrafficonly |  
+| bip_39_word_no_space_11 | pledgeshaftcementdovecementoriginalnaivecoasttrafficonlypatient |  
+| bip_39_word_no_space_12 | pledgeshaftcementdovecementoriginalnaivecoasttrafficonlypatientafford |  
+| bip_39_word_no_space_2 | pledgeshaft |  
+| bip_39_word_no_space_3 | pledgeshaftcement |  
+| bip_39_word_no_space_4 | pledgeshaftcementdove |  
+| bip_39_word_no_space_5 | pledgeshaftcementdovecement |  
+| bip_39_word_no_space_6 | pledgeshaftcementdovecementoriginal |  
+| bip_39_word_no_space_7 | pledgeshaftcementdovecementoriginalnaive |  
+| bip_39_word_no_space_8 | pledgeshaftcementdovecementoriginalnaivecoast |  
+| bip_39_word_no_space_9 | pledgeshaftcementdovecementoriginalnaivecoasttraffic |  
 | bip_39_word_space_0 | ['pledge', 'shaft', 'cement', 'dove', 'cement', 'original', 'naive', 'coast', 'traffic', 'only', 'patient', 'afford'] |  
 | bip_39_word_space_1 | pledge |  
 | bip_39_word_space_10 | pledge shaft cement dove cement original naive coast traffic only |  

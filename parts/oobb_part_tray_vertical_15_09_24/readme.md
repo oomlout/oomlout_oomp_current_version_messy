@@ -122,6 +122,18 @@ digital
 very
 riot
 surround |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skiswimlicenselockregiondigitalveryriotsurroundunable |  
+| bip_39_word_no_space_11 | skiswimlicenselockregiondigitalveryriotsurroundunablefly |  
+| bip_39_word_no_space_12 | skiswimlicenselockregiondigitalveryriotsurroundunableflyaunt |  
+| bip_39_word_no_space_2 | skiswim |  
+| bip_39_word_no_space_3 | skiswimlicense |  
+| bip_39_word_no_space_4 | skiswimlicenselock |  
+| bip_39_word_no_space_5 | skiswimlicenselockregion |  
+| bip_39_word_no_space_6 | skiswimlicenselockregiondigital |  
+| bip_39_word_no_space_7 | skiswimlicenselockregiondigitalvery |  
+| bip_39_word_no_space_8 | skiswimlicenselockregiondigitalveryriot |  
+| bip_39_word_no_space_9 | skiswimlicenselockregiondigitalveryriotsurround |  
 | bip_39_word_space_0 | ['ski', 'swim', 'license', 'lock', 'region', 'digital', 'very', 'riot', 'surround', 'unable', 'fly', 'aunt'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski swim license lock region digital very riot surround unable |  

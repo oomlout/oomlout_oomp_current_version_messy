@@ -122,6 +122,18 @@ supply
 replace
 tide
 about |  
+| bip_39_word_no_space_1 | brick |  
+| bip_39_word_no_space_10 | brickmadmajormonsterteamsupplyreplacetideaboutsibling |  
+| bip_39_word_no_space_11 | brickmadmajormonsterteamsupplyreplacetideaboutsiblingentire |  
+| bip_39_word_no_space_12 | brickmadmajormonsterteamsupplyreplacetideaboutsiblingentireassume |  
+| bip_39_word_no_space_2 | brickmad |  
+| bip_39_word_no_space_3 | brickmadmajor |  
+| bip_39_word_no_space_4 | brickmadmajormonster |  
+| bip_39_word_no_space_5 | brickmadmajormonsterteam |  
+| bip_39_word_no_space_6 | brickmadmajormonsterteamsupply |  
+| bip_39_word_no_space_7 | brickmadmajormonsterteamsupplyreplace |  
+| bip_39_word_no_space_8 | brickmadmajormonsterteamsupplyreplacetide |  
+| bip_39_word_no_space_9 | brickmadmajormonsterteamsupplyreplacetideabout |  
 | bip_39_word_space_0 | ['brick', 'mad', 'major', 'monster', 'team', 'supply', 'replace', 'tide', 'about', 'sibling', 'entire', 'assume'] |  
 | bip_39_word_space_1 | brick |  
 | bip_39_word_space_10 | brick mad major monster team supply replace tide about sibling |  

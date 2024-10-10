@@ -122,6 +122,18 @@ toward
 ugly
 abstract
 else |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefbannersoundmomentpersontowarduglyabstractelsehope |  
+| bip_39_word_no_space_11 | griefbannersoundmomentpersontowarduglyabstractelsehopealways |  
+| bip_39_word_no_space_12 | griefbannersoundmomentpersontowarduglyabstractelsehopealwaysaudit |  
+| bip_39_word_no_space_2 | griefbanner |  
+| bip_39_word_no_space_3 | griefbannersound |  
+| bip_39_word_no_space_4 | griefbannersoundmoment |  
+| bip_39_word_no_space_5 | griefbannersoundmomentperson |  
+| bip_39_word_no_space_6 | griefbannersoundmomentpersontoward |  
+| bip_39_word_no_space_7 | griefbannersoundmomentpersontowardugly |  
+| bip_39_word_no_space_8 | griefbannersoundmomentpersontowarduglyabstract |  
+| bip_39_word_no_space_9 | griefbannersoundmomentpersontowarduglyabstractelse |  
 | bip_39_word_space_0 | ['grief', 'banner', 'sound', 'moment', 'person', 'toward', 'ugly', 'abstract', 'else', 'hope', 'always', 'audit'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief banner sound moment person toward ugly abstract else hope |  

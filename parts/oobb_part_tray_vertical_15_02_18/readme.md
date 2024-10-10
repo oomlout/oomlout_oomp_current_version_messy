@@ -122,6 +122,18 @@ company
 upgrade
 trend
 outer |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actionfacetowardsoftscissorscompanyupgradetrendoutersight |  
+| bip_39_word_no_space_11 | actionfacetowardsoftscissorscompanyupgradetrendoutersightwonder |  
+| bip_39_word_no_space_12 | actionfacetowardsoftscissorscompanyupgradetrendoutersightwonderask |  
+| bip_39_word_no_space_2 | actionface |  
+| bip_39_word_no_space_3 | actionfacetoward |  
+| bip_39_word_no_space_4 | actionfacetowardsoft |  
+| bip_39_word_no_space_5 | actionfacetowardsoftscissors |  
+| bip_39_word_no_space_6 | actionfacetowardsoftscissorscompany |  
+| bip_39_word_no_space_7 | actionfacetowardsoftscissorscompanyupgrade |  
+| bip_39_word_no_space_8 | actionfacetowardsoftscissorscompanyupgradetrend |  
+| bip_39_word_no_space_9 | actionfacetowardsoftscissorscompanyupgradetrendouter |  
 | bip_39_word_space_0 | ['action', 'face', 'toward', 'soft', 'scissors', 'company', 'upgrade', 'trend', 'outer', 'sight', 'wonder', 'ask'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action face toward soft scissors company upgrade trend outer sight |  

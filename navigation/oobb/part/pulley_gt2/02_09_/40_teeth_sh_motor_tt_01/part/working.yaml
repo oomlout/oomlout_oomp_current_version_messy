@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'guard
   ball
 
   oval'
+bip_39_word_no_space_1: guard
+bip_39_word_no_space_10: guardroomdrumcoachwrestlekissfuryballovalmedia
+bip_39_word_no_space_11: guardroomdrumcoachwrestlekissfuryballovalmediafence
+bip_39_word_no_space_12: guardroomdrumcoachwrestlekissfuryballovalmediafenceangry
+bip_39_word_no_space_2: guardroom
+bip_39_word_no_space_3: guardroomdrum
+bip_39_word_no_space_4: guardroomdrumcoach
+bip_39_word_no_space_5: guardroomdrumcoachwrestle
+bip_39_word_no_space_6: guardroomdrumcoachwrestlekiss
+bip_39_word_no_space_7: guardroomdrumcoachwrestlekissfury
+bip_39_word_no_space_8: guardroomdrumcoachwrestlekissfuryball
+bip_39_word_no_space_9: guardroomdrumcoachwrestlekissfuryballoval
 bip_39_word_space_0:
 - guard
 - room

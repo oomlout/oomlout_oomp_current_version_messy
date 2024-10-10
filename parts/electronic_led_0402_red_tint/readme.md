@@ -122,6 +122,18 @@ power
 coil
 win
 pen |  
+| bip_39_word_no_space_1 | wheat |  
+| bip_39_word_no_space_10 | wheatlectureexpandusualvesselpowercoilwinpenpanic |  
+| bip_39_word_no_space_11 | wheatlectureexpandusualvesselpowercoilwinpenpanicblame |  
+| bip_39_word_no_space_12 | wheatlectureexpandusualvesselpowercoilwinpenpanicblamealter |  
+| bip_39_word_no_space_2 | wheatlecture |  
+| bip_39_word_no_space_3 | wheatlectureexpand |  
+| bip_39_word_no_space_4 | wheatlectureexpandusual |  
+| bip_39_word_no_space_5 | wheatlectureexpandusualvessel |  
+| bip_39_word_no_space_6 | wheatlectureexpandusualvesselpower |  
+| bip_39_word_no_space_7 | wheatlectureexpandusualvesselpowercoil |  
+| bip_39_word_no_space_8 | wheatlectureexpandusualvesselpowercoilwin |  
+| bip_39_word_no_space_9 | wheatlectureexpandusualvesselpowercoilwinpen |  
 | bip_39_word_space_0 | ['wheat', 'lecture', 'expand', 'usual', 'vessel', 'power', 'coil', 'win', 'pen', 'panic', 'blame', 'alter'] |  
 | bip_39_word_space_1 | wheat |  
 | bip_39_word_space_10 | wheat lecture expand usual vessel power coil win pen panic |  

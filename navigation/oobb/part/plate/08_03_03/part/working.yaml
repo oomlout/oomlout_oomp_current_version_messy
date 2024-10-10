@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'paddle
   health
 
   shoulder'
+bip_39_word_no_space_1: paddle
+bip_39_word_no_space_10: paddleverbeducateminorkitalreadymomhealthshoulderoutdoor
+bip_39_word_no_space_11: paddleverbeducateminorkitalreadymomhealthshoulderoutdoordeer
+bip_39_word_no_space_12: paddleverbeducateminorkitalreadymomhealthshoulderoutdoordeerachieve
+bip_39_word_no_space_2: paddleverb
+bip_39_word_no_space_3: paddleverbeducate
+bip_39_word_no_space_4: paddleverbeducateminor
+bip_39_word_no_space_5: paddleverbeducateminorkit
+bip_39_word_no_space_6: paddleverbeducateminorkitalready
+bip_39_word_no_space_7: paddleverbeducateminorkitalreadymom
+bip_39_word_no_space_8: paddleverbeducateminorkitalreadymomhealth
+bip_39_word_no_space_9: paddleverbeducateminorkitalreadymomhealthshoulder
 bip_39_word_space_0:
 - paddle
 - verb

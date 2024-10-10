@@ -122,6 +122,18 @@ tube
 note
 cake
 awful |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotteryrotateargueyouthrobusttubenotecakeawfulfound |  
+| bip_39_word_no_space_11 | lotteryrotateargueyouthrobusttubenotecakeawfulfoundgorilla |  
+| bip_39_word_no_space_12 | lotteryrotateargueyouthrobusttubenotecakeawfulfoundgorillaassist |  
+| bip_39_word_no_space_2 | lotteryrotate |  
+| bip_39_word_no_space_3 | lotteryrotateargue |  
+| bip_39_word_no_space_4 | lotteryrotateargueyouth |  
+| bip_39_word_no_space_5 | lotteryrotateargueyouthrobust |  
+| bip_39_word_no_space_6 | lotteryrotateargueyouthrobusttube |  
+| bip_39_word_no_space_7 | lotteryrotateargueyouthrobusttubenote |  
+| bip_39_word_no_space_8 | lotteryrotateargueyouthrobusttubenotecake |  
+| bip_39_word_no_space_9 | lotteryrotateargueyouthrobusttubenotecakeawful |  
 | bip_39_word_space_0 | ['lottery', 'rotate', 'argue', 'youth', 'robust', 'tube', 'note', 'cake', 'awful', 'found', 'gorilla', 'assist'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery rotate argue youth robust tube note cake awful found |  

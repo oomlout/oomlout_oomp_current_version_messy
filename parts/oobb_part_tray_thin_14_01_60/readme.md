@@ -122,6 +122,18 @@ purchase
 miss
 ask
 tribe |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | areavoidobtainaccessclawpurchasemissasktribeabsent |  
+| bip_39_word_no_space_11 | areavoidobtainaccessclawpurchasemissasktribeabsentnoodle |  
+| bip_39_word_no_space_12 | areavoidobtainaccessclawpurchasemissasktribeabsentnoodlealley |  
+| bip_39_word_no_space_2 | areavoid |  
+| bip_39_word_no_space_3 | areavoidobtain |  
+| bip_39_word_no_space_4 | areavoidobtainaccess |  
+| bip_39_word_no_space_5 | areavoidobtainaccessclaw |  
+| bip_39_word_no_space_6 | areavoidobtainaccessclawpurchase |  
+| bip_39_word_no_space_7 | areavoidobtainaccessclawpurchasemiss |  
+| bip_39_word_no_space_8 | areavoidobtainaccessclawpurchasemissask |  
+| bip_39_word_no_space_9 | areavoidobtainaccessclawpurchasemissasktribe |  
 | bip_39_word_space_0 | ['area', 'void', 'obtain', 'access', 'claw', 'purchase', 'miss', 'ask', 'tribe', 'absent', 'noodle', 'alley'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area void obtain access claw purchase miss ask tribe absent |  

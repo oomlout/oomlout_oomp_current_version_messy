@@ -122,6 +122,18 @@ host
 bird
 eager
 before |  
+| bip_39_word_no_space_1 | example |  
+| bip_39_word_no_space_10 | examplecigarenoughswapdefinehostbirdeagerbeforeroyal |  
+| bip_39_word_no_space_11 | examplecigarenoughswapdefinehostbirdeagerbeforeroyalanger |  
+| bip_39_word_no_space_12 | examplecigarenoughswapdefinehostbirdeagerbeforeroyalangeradvice |  
+| bip_39_word_no_space_2 | examplecigar |  
+| bip_39_word_no_space_3 | examplecigarenough |  
+| bip_39_word_no_space_4 | examplecigarenoughswap |  
+| bip_39_word_no_space_5 | examplecigarenoughswapdefine |  
+| bip_39_word_no_space_6 | examplecigarenoughswapdefinehost |  
+| bip_39_word_no_space_7 | examplecigarenoughswapdefinehostbird |  
+| bip_39_word_no_space_8 | examplecigarenoughswapdefinehostbirdeager |  
+| bip_39_word_no_space_9 | examplecigarenoughswapdefinehostbirdeagerbefore |  
 | bip_39_word_space_0 | ['example', 'cigar', 'enough', 'swap', 'define', 'host', 'bird', 'eager', 'before', 'royal', 'anger', 'advice'] |  
 | bip_39_word_space_1 | example |  
 | bip_39_word_space_10 | example cigar enough swap define host bird eager before royal |  

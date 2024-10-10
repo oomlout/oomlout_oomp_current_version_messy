@@ -122,6 +122,18 @@ fine
 river
 urban
 yellow |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoonshoulderlibraryfoundcreamfineriverurbanyellowpen |  
+| bip_39_word_no_space_11 | spoonshoulderlibraryfoundcreamfineriverurbanyellowpentoe |  
+| bip_39_word_no_space_12 | spoonshoulderlibraryfoundcreamfineriverurbanyellowpentoeafraid |  
+| bip_39_word_no_space_2 | spoonshoulder |  
+| bip_39_word_no_space_3 | spoonshoulderlibrary |  
+| bip_39_word_no_space_4 | spoonshoulderlibraryfound |  
+| bip_39_word_no_space_5 | spoonshoulderlibraryfoundcream |  
+| bip_39_word_no_space_6 | spoonshoulderlibraryfoundcreamfine |  
+| bip_39_word_no_space_7 | spoonshoulderlibraryfoundcreamfineriver |  
+| bip_39_word_no_space_8 | spoonshoulderlibraryfoundcreamfineriverurban |  
+| bip_39_word_no_space_9 | spoonshoulderlibraryfoundcreamfineriverurbanyellow |  
 | bip_39_word_space_0 | ['spoon', 'shoulder', 'library', 'found', 'cream', 'fine', 'river', 'urban', 'yellow', 'pen', 'toe', 'afraid'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon shoulder library found cream fine river urban yellow pen |  

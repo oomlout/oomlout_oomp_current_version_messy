@@ -122,6 +122,18 @@ theory
 series
 sand
 indoor |  
+| bip_39_word_no_space_1 | yellow |  
+| bip_39_word_no_space_10 | yellowgesturesciencelumberjellytheoryseriessandindoordevote |  
+| bip_39_word_no_space_11 | yellowgesturesciencelumberjellytheoryseriessandindoordevotesix |  
+| bip_39_word_no_space_12 | yellowgesturesciencelumberjellytheoryseriessandindoordevotesixadapt |  
+| bip_39_word_no_space_2 | yellowgesture |  
+| bip_39_word_no_space_3 | yellowgesturescience |  
+| bip_39_word_no_space_4 | yellowgesturesciencelumber |  
+| bip_39_word_no_space_5 | yellowgesturesciencelumberjelly |  
+| bip_39_word_no_space_6 | yellowgesturesciencelumberjellytheory |  
+| bip_39_word_no_space_7 | yellowgesturesciencelumberjellytheoryseries |  
+| bip_39_word_no_space_8 | yellowgesturesciencelumberjellytheoryseriessand |  
+| bip_39_word_no_space_9 | yellowgesturesciencelumberjellytheoryseriessandindoor |  
 | bip_39_word_space_0 | ['yellow', 'gesture', 'science', 'lumber', 'jelly', 'theory', 'series', 'sand', 'indoor', 'devote', 'six', 'adapt'] |  
 | bip_39_word_space_1 | yellow |  
 | bip_39_word_space_10 | yellow gesture science lumber jelly theory series sand indoor devote |  

@@ -122,6 +122,18 @@ tuition
 decide
 shop
 inflict |  
+| bip_39_word_no_space_1 | modify |  
+| bip_39_word_no_space_10 | modifyivorywiseneveroceantuitiondecideshopinflictexecute |  
+| bip_39_word_no_space_11 | modifyivorywiseneveroceantuitiondecideshopinflictexecuteincome |  
+| bip_39_word_no_space_12 | modifyivorywiseneveroceantuitiondecideshopinflictexecuteincomeact |  
+| bip_39_word_no_space_2 | modifyivory |  
+| bip_39_word_no_space_3 | modifyivorywise |  
+| bip_39_word_no_space_4 | modifyivorywisenever |  
+| bip_39_word_no_space_5 | modifyivorywiseneverocean |  
+| bip_39_word_no_space_6 | modifyivorywiseneveroceantuition |  
+| bip_39_word_no_space_7 | modifyivorywiseneveroceantuitiondecide |  
+| bip_39_word_no_space_8 | modifyivorywiseneveroceantuitiondecideshop |  
+| bip_39_word_no_space_9 | modifyivorywiseneveroceantuitiondecideshopinflict |  
 | bip_39_word_space_0 | ['modify', 'ivory', 'wise', 'never', 'ocean', 'tuition', 'decide', 'shop', 'inflict', 'execute', 'income', 'act'] |  
 | bip_39_word_space_1 | modify |  
 | bip_39_word_space_10 | modify ivory wise never ocean tuition decide shop inflict execute |  

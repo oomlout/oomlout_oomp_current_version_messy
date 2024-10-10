@@ -122,6 +122,18 @@ sleep
 milk
 harbor
 parade |  
+| bip_39_word_no_space_1 | trash |  
+| bip_39_word_no_space_10 | trashtodaytruthsurprisetrucksleepmilkharborparademistake |  
+| bip_39_word_no_space_11 | trashtodaytruthsurprisetrucksleepmilkharborparademistakezebra |  
+| bip_39_word_no_space_12 | trashtodaytruthsurprisetrucksleepmilkharborparademistakezebraassault |  
+| bip_39_word_no_space_2 | trashtoday |  
+| bip_39_word_no_space_3 | trashtodaytruth |  
+| bip_39_word_no_space_4 | trashtodaytruthsurprise |  
+| bip_39_word_no_space_5 | trashtodaytruthsurprisetruck |  
+| bip_39_word_no_space_6 | trashtodaytruthsurprisetrucksleep |  
+| bip_39_word_no_space_7 | trashtodaytruthsurprisetrucksleepmilk |  
+| bip_39_word_no_space_8 | trashtodaytruthsurprisetrucksleepmilkharbor |  
+| bip_39_word_no_space_9 | trashtodaytruthsurprisetrucksleepmilkharborparade |  
 | bip_39_word_space_0 | ['trash', 'today', 'truth', 'surprise', 'truck', 'sleep', 'milk', 'harbor', 'parade', 'mistake', 'zebra', 'assault'] |  
 | bip_39_word_space_1 | trash |  
 | bip_39_word_space_10 | trash today truth surprise truck sleep milk harbor parade mistake |  

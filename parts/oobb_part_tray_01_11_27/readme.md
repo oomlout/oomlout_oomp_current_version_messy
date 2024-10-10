@@ -122,6 +122,18 @@ away
 note
 abandon
 pipe |  
+| bip_39_word_no_space_1 | plastic |  
+| bip_39_word_no_space_10 | plasticmoonretreataccessvirtualawaynoteabandonpipecage |  
+| bip_39_word_no_space_11 | plasticmoonretreataccessvirtualawaynoteabandonpipecagejaguar |  
+| bip_39_word_no_space_12 | plasticmoonretreataccessvirtualawaynoteabandonpipecagejaguaracoustic |  
+| bip_39_word_no_space_2 | plasticmoon |  
+| bip_39_word_no_space_3 | plasticmoonretreat |  
+| bip_39_word_no_space_4 | plasticmoonretreataccess |  
+| bip_39_word_no_space_5 | plasticmoonretreataccessvirtual |  
+| bip_39_word_no_space_6 | plasticmoonretreataccessvirtualaway |  
+| bip_39_word_no_space_7 | plasticmoonretreataccessvirtualawaynote |  
+| bip_39_word_no_space_8 | plasticmoonretreataccessvirtualawaynoteabandon |  
+| bip_39_word_no_space_9 | plasticmoonretreataccessvirtualawaynoteabandonpipe |  
 | bip_39_word_space_0 | ['plastic', 'moon', 'retreat', 'access', 'virtual', 'away', 'note', 'abandon', 'pipe', 'cage', 'jaguar', 'acoustic'] |  
 | bip_39_word_space_1 | plastic |  
 | bip_39_word_space_10 | plastic moon retreat access virtual away note abandon pipe cage |  

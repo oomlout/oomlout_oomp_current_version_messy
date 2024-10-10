@@ -122,6 +122,18 @@ dream
 valley
 uniform
 wealth |  
+| bip_39_word_no_space_1 | useless |  
+| bip_39_word_no_space_10 | uselessrailhybridfacultysurveydreamvalleyuniformwealthlift |  
+| bip_39_word_no_space_11 | uselessrailhybridfacultysurveydreamvalleyuniformwealthliftroof |  
+| bip_39_word_no_space_12 | uselessrailhybridfacultysurveydreamvalleyuniformwealthliftroofagain |  
+| bip_39_word_no_space_2 | uselessrail |  
+| bip_39_word_no_space_3 | uselessrailhybrid |  
+| bip_39_word_no_space_4 | uselessrailhybridfaculty |  
+| bip_39_word_no_space_5 | uselessrailhybridfacultysurvey |  
+| bip_39_word_no_space_6 | uselessrailhybridfacultysurveydream |  
+| bip_39_word_no_space_7 | uselessrailhybridfacultysurveydreamvalley |  
+| bip_39_word_no_space_8 | uselessrailhybridfacultysurveydreamvalleyuniform |  
+| bip_39_word_no_space_9 | uselessrailhybridfacultysurveydreamvalleyuniformwealth |  
 | bip_39_word_space_0 | ['useless', 'rail', 'hybrid', 'faculty', 'survey', 'dream', 'valley', 'uniform', 'wealth', 'lift', 'roof', 'again'] |  
 | bip_39_word_space_1 | useless |  
 | bip_39_word_space_10 | useless rail hybrid faculty survey dream valley uniform wealth lift |  

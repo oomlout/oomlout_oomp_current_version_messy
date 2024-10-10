@@ -122,6 +122,18 @@ clutch
 fiction
 bread
 coconut |  
+| bip_39_word_no_space_1 | pet |  
+| bip_39_word_no_space_10 | petsomeonejustcanoedonorclutchfictionbreadcoconutkidney |  
+| bip_39_word_no_space_11 | petsomeonejustcanoedonorclutchfictionbreadcoconutkidneyaction |  
+| bip_39_word_no_space_12 | petsomeonejustcanoedonorclutchfictionbreadcoconutkidneyactionalready |  
+| bip_39_word_no_space_2 | petsomeone |  
+| bip_39_word_no_space_3 | petsomeonejust |  
+| bip_39_word_no_space_4 | petsomeonejustcanoe |  
+| bip_39_word_no_space_5 | petsomeonejustcanoedonor |  
+| bip_39_word_no_space_6 | petsomeonejustcanoedonorclutch |  
+| bip_39_word_no_space_7 | petsomeonejustcanoedonorclutchfiction |  
+| bip_39_word_no_space_8 | petsomeonejustcanoedonorclutchfictionbread |  
+| bip_39_word_no_space_9 | petsomeonejustcanoedonorclutchfictionbreadcoconut |  
 | bip_39_word_space_0 | ['pet', 'someone', 'just', 'canoe', 'donor', 'clutch', 'fiction', 'bread', 'coconut', 'kidney', 'action', 'already'] |  
 | bip_39_word_space_1 | pet |  
 | bip_39_word_space_10 | pet someone just canoe donor clutch fiction bread coconut kidney |  

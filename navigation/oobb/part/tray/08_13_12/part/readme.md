@@ -122,6 +122,18 @@ state
 light
 loop
 aerobic |  
+| bip_39_word_no_space_1 | smile |  
+| bip_39_word_no_space_10 | smiletattoolyricssaymaterialstatelightloopaerobicwonder |  
+| bip_39_word_no_space_11 | smiletattoolyricssaymaterialstatelightloopaerobicwonderstep |  
+| bip_39_word_no_space_12 | smiletattoolyricssaymaterialstatelightloopaerobicwondersteparrive |  
+| bip_39_word_no_space_2 | smiletattoo |  
+| bip_39_word_no_space_3 | smiletattoolyrics |  
+| bip_39_word_no_space_4 | smiletattoolyricssay |  
+| bip_39_word_no_space_5 | smiletattoolyricssaymaterial |  
+| bip_39_word_no_space_6 | smiletattoolyricssaymaterialstate |  
+| bip_39_word_no_space_7 | smiletattoolyricssaymaterialstatelight |  
+| bip_39_word_no_space_8 | smiletattoolyricssaymaterialstatelightloop |  
+| bip_39_word_no_space_9 | smiletattoolyricssaymaterialstatelightloopaerobic |  
 | bip_39_word_space_0 | ['smile', 'tattoo', 'lyrics', 'say', 'material', 'state', 'light', 'loop', 'aerobic', 'wonder', 'step', 'arrive'] |  
 | bip_39_word_space_1 | smile |  
 | bip_39_word_space_10 | smile tattoo lyrics say material state light loop aerobic wonder |  

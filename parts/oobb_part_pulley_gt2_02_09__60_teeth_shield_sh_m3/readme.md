@@ -109,6 +109,17 @@ future
 kind
 rent
 nice |  
+| bip_39_word_no_space_1 | price |  
+| bip_39_word_no_space_10 | pricephotocraftwalkyoungfuturekindrentniceship |  
+| bip_39_word_no_space_11 | pricephotocraftwalkyoungfuturekindrentniceshipdrop |  
+| bip_39_word_no_space_2 | pricephoto |  
+| bip_39_word_no_space_3 | pricephotocraft |  
+| bip_39_word_no_space_4 | pricephotocraftwalk |  
+| bip_39_word_no_space_5 | pricephotocraftwalkyoung |  
+| bip_39_word_no_space_6 | pricephotocraftwalkyoungfuture |  
+| bip_39_word_no_space_7 | pricephotocraftwalkyoungfuturekind |  
+| bip_39_word_no_space_8 | pricephotocraftwalkyoungfuturekindrent |  
+| bip_39_word_no_space_9 | pricephotocraftwalkyoungfuturekindrentnice |  
 | bip_39_word_space_0 | ['price', 'photo', 'craft', 'walk', 'young', 'future', 'kind', 'rent', 'nice', 'ship', 'drop'] |  
 | bip_39_word_space_1 | price |  
 | bip_39_word_space_10 | price photo craft walk young future kind rent nice ship |  

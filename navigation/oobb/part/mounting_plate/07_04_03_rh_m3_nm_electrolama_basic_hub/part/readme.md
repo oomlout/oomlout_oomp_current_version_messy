@@ -122,6 +122,18 @@ trim
 limb
 decrease
 office |  
+| bip_39_word_no_space_1 | excite |  
+| bip_39_word_no_space_10 | excitematterswitchrenewfemaletrimlimbdecreaseofficejuice |  
+| bip_39_word_no_space_11 | excitematterswitchrenewfemaletrimlimbdecreaseofficejuicebrisk |  
+| bip_39_word_no_space_12 | excitematterswitchrenewfemaletrimlimbdecreaseofficejuicebriskantique |  
+| bip_39_word_no_space_2 | excitematter |  
+| bip_39_word_no_space_3 | excitematterswitch |  
+| bip_39_word_no_space_4 | excitematterswitchrenew |  
+| bip_39_word_no_space_5 | excitematterswitchrenewfemale |  
+| bip_39_word_no_space_6 | excitematterswitchrenewfemaletrim |  
+| bip_39_word_no_space_7 | excitematterswitchrenewfemaletrimlimb |  
+| bip_39_word_no_space_8 | excitematterswitchrenewfemaletrimlimbdecrease |  
+| bip_39_word_no_space_9 | excitematterswitchrenewfemaletrimlimbdecreaseoffice |  
 | bip_39_word_space_0 | ['excite', 'matter', 'switch', 'renew', 'female', 'trim', 'limb', 'decrease', 'office', 'juice', 'brisk', 'antique'] |  
 | bip_39_word_space_1 | excite |  
 | bip_39_word_space_10 | excite matter switch renew female trim limb decrease office juice |  

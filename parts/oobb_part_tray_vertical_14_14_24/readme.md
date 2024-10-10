@@ -122,6 +122,18 @@ dove
 buffalo
 fall
 insane |  
+| bip_39_word_no_space_1 | stage |  
+| bip_39_word_no_space_10 | stagetonightseniorbuzzozonedovebuffalofallinsanedigital |  
+| bip_39_word_no_space_11 | stagetonightseniorbuzzozonedovebuffalofallinsanedigitalwin |  
+| bip_39_word_no_space_12 | stagetonightseniorbuzzozonedovebuffalofallinsanedigitalwinadult |  
+| bip_39_word_no_space_2 | stagetonight |  
+| bip_39_word_no_space_3 | stagetonightsenior |  
+| bip_39_word_no_space_4 | stagetonightseniorbuzz |  
+| bip_39_word_no_space_5 | stagetonightseniorbuzzozone |  
+| bip_39_word_no_space_6 | stagetonightseniorbuzzozonedove |  
+| bip_39_word_no_space_7 | stagetonightseniorbuzzozonedovebuffalo |  
+| bip_39_word_no_space_8 | stagetonightseniorbuzzozonedovebuffalofall |  
+| bip_39_word_no_space_9 | stagetonightseniorbuzzozonedovebuffalofallinsane |  
 | bip_39_word_space_0 | ['stage', 'tonight', 'senior', 'buzz', 'ozone', 'dove', 'buffalo', 'fall', 'insane', 'digital', 'win', 'adult'] |  
 | bip_39_word_space_1 | stage |  
 | bip_39_word_space_10 | stage tonight senior buzz ozone dove buffalo fall insane digital |  

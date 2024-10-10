@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'erupt
   tooth
 
   bacon'
+bip_39_word_no_space_1: erupt
+bip_39_word_no_space_10: erupthopeenrolladmitmiseryjeansmeattoothbacontrim
+bip_39_word_no_space_11: erupthopeenrolladmitmiseryjeansmeattoothbacontrimgalaxy
+bip_39_word_no_space_12: erupthopeenrolladmitmiseryjeansmeattoothbacontrimgalaxyany
+bip_39_word_no_space_2: erupthope
+bip_39_word_no_space_3: erupthopeenroll
+bip_39_word_no_space_4: erupthopeenrolladmit
+bip_39_word_no_space_5: erupthopeenrolladmitmisery
+bip_39_word_no_space_6: erupthopeenrolladmitmiseryjeans
+bip_39_word_no_space_7: erupthopeenrolladmitmiseryjeansmeat
+bip_39_word_no_space_8: erupthopeenrolladmitmiseryjeansmeattooth
+bip_39_word_no_space_9: erupthopeenrolladmitmiseryjeansmeattoothbacon
 bip_39_word_space_0:
 - erupt
 - hope

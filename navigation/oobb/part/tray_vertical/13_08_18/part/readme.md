@@ -122,6 +122,18 @@ monitor
 legal
 parent
 unhappy |  
+| bip_39_word_no_space_1 | enhance |  
+| bip_39_word_no_space_10 | enhanceforgethireclarifynuclearmonitorlegalparentunhappygiant |  
+| bip_39_word_no_space_11 | enhanceforgethireclarifynuclearmonitorlegalparentunhappygiantsuper |  
+| bip_39_word_no_space_12 | enhanceforgethireclarifynuclearmonitorlegalparentunhappygiantsuperabove |  
+| bip_39_word_no_space_2 | enhanceforget |  
+| bip_39_word_no_space_3 | enhanceforgethire |  
+| bip_39_word_no_space_4 | enhanceforgethireclarify |  
+| bip_39_word_no_space_5 | enhanceforgethireclarifynuclear |  
+| bip_39_word_no_space_6 | enhanceforgethireclarifynuclearmonitor |  
+| bip_39_word_no_space_7 | enhanceforgethireclarifynuclearmonitorlegal |  
+| bip_39_word_no_space_8 | enhanceforgethireclarifynuclearmonitorlegalparent |  
+| bip_39_word_no_space_9 | enhanceforgethireclarifynuclearmonitorlegalparentunhappy |  
 | bip_39_word_space_0 | ['enhance', 'forget', 'hire', 'clarify', 'nuclear', 'monitor', 'legal', 'parent', 'unhappy', 'giant', 'super', 'above'] |  
 | bip_39_word_space_1 | enhance |  
 | bip_39_word_space_10 | enhance forget hire clarify nuclear monitor legal parent unhappy giant |  

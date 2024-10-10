@@ -122,6 +122,18 @@ view
 cousin
 shift
 test |  
+| bip_39_word_no_space_1 | journey |  
+| bip_39_word_no_space_10 | journeydresshungrycrushresourceviewcousinshifttestdonkey |  
+| bip_39_word_no_space_11 | journeydresshungrycrushresourceviewcousinshifttestdonkeyname |  
+| bip_39_word_no_space_12 | journeydresshungrycrushresourceviewcousinshifttestdonkeynameaverage |  
+| bip_39_word_no_space_2 | journeydress |  
+| bip_39_word_no_space_3 | journeydresshungry |  
+| bip_39_word_no_space_4 | journeydresshungrycrush |  
+| bip_39_word_no_space_5 | journeydresshungrycrushresource |  
+| bip_39_word_no_space_6 | journeydresshungrycrushresourceview |  
+| bip_39_word_no_space_7 | journeydresshungrycrushresourceviewcousin |  
+| bip_39_word_no_space_8 | journeydresshungrycrushresourceviewcousinshift |  
+| bip_39_word_no_space_9 | journeydresshungrycrushresourceviewcousinshifttest |  
 | bip_39_word_space_0 | ['journey', 'dress', 'hungry', 'crush', 'resource', 'view', 'cousin', 'shift', 'test', 'donkey', 'name', 'average'] |  
 | bip_39_word_space_1 | journey |  
 | bip_39_word_space_10 | journey dress hungry crush resource view cousin shift test donkey |  

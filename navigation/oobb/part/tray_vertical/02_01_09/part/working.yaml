@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soft
   visit
 
   milk'
+bip_39_word_no_space_1: soft
+bip_39_word_no_space_10: softmuseumcleanspiritjunkwalnutbrothervisitmilkoak
+bip_39_word_no_space_11: softmuseumcleanspiritjunkwalnutbrothervisitmilkoakplunge
+bip_39_word_no_space_12: softmuseumcleanspiritjunkwalnutbrothervisitmilkoakplungearmor
+bip_39_word_no_space_2: softmuseum
+bip_39_word_no_space_3: softmuseumclean
+bip_39_word_no_space_4: softmuseumcleanspirit
+bip_39_word_no_space_5: softmuseumcleanspiritjunk
+bip_39_word_no_space_6: softmuseumcleanspiritjunkwalnut
+bip_39_word_no_space_7: softmuseumcleanspiritjunkwalnutbrother
+bip_39_word_no_space_8: softmuseumcleanspiritjunkwalnutbrothervisit
+bip_39_word_no_space_9: softmuseumcleanspiritjunkwalnutbrothervisitmilk
 bip_39_word_space_0:
 - soft
 - museum

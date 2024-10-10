@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lunch
   claim
 
   age'
+bip_39_word_no_space_1: lunch
+bip_39_word_no_space_10: lunchwhipmarketunablepoetauctionblackclaimagemule
+bip_39_word_no_space_11: lunchwhipmarketunablepoetauctionblackclaimagemuleraven
+bip_39_word_no_space_12: lunchwhipmarketunablepoetauctionblackclaimagemuleravenasset
+bip_39_word_no_space_2: lunchwhip
+bip_39_word_no_space_3: lunchwhipmarket
+bip_39_word_no_space_4: lunchwhipmarketunable
+bip_39_word_no_space_5: lunchwhipmarketunablepoet
+bip_39_word_no_space_6: lunchwhipmarketunablepoetauction
+bip_39_word_no_space_7: lunchwhipmarketunablepoetauctionblack
+bip_39_word_no_space_8: lunchwhipmarketunablepoetauctionblackclaim
+bip_39_word_no_space_9: lunchwhipmarketunablepoetauctionblackclaimage
 bip_39_word_space_0:
 - lunch
 - whip

@@ -122,6 +122,18 @@ damage
 surge
 link
 stairs |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | gundetailclockdashwalkdamagesurgelinkstairstilt |  
+| bip_39_word_no_space_11 | gundetailclockdashwalkdamagesurgelinkstairstiltbetween |  
+| bip_39_word_no_space_12 | gundetailclockdashwalkdamagesurgelinkstairstiltbetweenaerobic |  
+| bip_39_word_no_space_2 | gundetail |  
+| bip_39_word_no_space_3 | gundetailclock |  
+| bip_39_word_no_space_4 | gundetailclockdash |  
+| bip_39_word_no_space_5 | gundetailclockdashwalk |  
+| bip_39_word_no_space_6 | gundetailclockdashwalkdamage |  
+| bip_39_word_no_space_7 | gundetailclockdashwalkdamagesurge |  
+| bip_39_word_no_space_8 | gundetailclockdashwalkdamagesurgelink |  
+| bip_39_word_no_space_9 | gundetailclockdashwalkdamagesurgelinkstairs |  
 | bip_39_word_space_0 | ['gun', 'detail', 'clock', 'dash', 'walk', 'damage', 'surge', 'link', 'stairs', 'tilt', 'between', 'aerobic'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun detail clock dash walk damage surge link stairs tilt |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'beef
   current
 
   suffer'
+bip_39_word_no_space_1: beef
+bip_39_word_no_space_10: beefmountaindecreasenamedogrugbuzzcurrentsufferfashion
+bip_39_word_no_space_11: beefmountaindecreasenamedogrugbuzzcurrentsufferfashionnet
+bip_39_word_no_space_12: beefmountaindecreasenamedogrugbuzzcurrentsufferfashionnetanchor
+bip_39_word_no_space_2: beefmountain
+bip_39_word_no_space_3: beefmountaindecrease
+bip_39_word_no_space_4: beefmountaindecreasename
+bip_39_word_no_space_5: beefmountaindecreasenamedog
+bip_39_word_no_space_6: beefmountaindecreasenamedogrug
+bip_39_word_no_space_7: beefmountaindecreasenamedogrugbuzz
+bip_39_word_no_space_8: beefmountaindecreasenamedogrugbuzzcurrent
+bip_39_word_no_space_9: beefmountaindecreasenamedogrugbuzzcurrentsuffer
 bip_39_word_space_0:
 - beef
 - mountain

@@ -122,6 +122,18 @@ trap
 injury
 catalog
 abstract |  
+| bip_39_word_no_space_1 | hello |  
+| bip_39_word_no_space_10 | hellowordobscureumbrellacategorytrapinjurycatalogabstractbargain |  
+| bip_39_word_no_space_11 | hellowordobscureumbrellacategorytrapinjurycatalogabstractbargaingrief |  
+| bip_39_word_no_space_12 | hellowordobscureumbrellacategorytrapinjurycatalogabstractbargaingriefadd |  
+| bip_39_word_no_space_2 | helloword |  
+| bip_39_word_no_space_3 | hellowordobscure |  
+| bip_39_word_no_space_4 | hellowordobscureumbrella |  
+| bip_39_word_no_space_5 | hellowordobscureumbrellacategory |  
+| bip_39_word_no_space_6 | hellowordobscureumbrellacategorytrap |  
+| bip_39_word_no_space_7 | hellowordobscureumbrellacategorytrapinjury |  
+| bip_39_word_no_space_8 | hellowordobscureumbrellacategorytrapinjurycatalog |  
+| bip_39_word_no_space_9 | hellowordobscureumbrellacategorytrapinjurycatalogabstract |  
 | bip_39_word_space_0 | ['hello', 'word', 'obscure', 'umbrella', 'category', 'trap', 'injury', 'catalog', 'abstract', 'bargain', 'grief', 'add'] |  
 | bip_39_word_space_1 | hello |  
 | bip_39_word_space_10 | hello word obscure umbrella category trap injury catalog abstract bargain |  

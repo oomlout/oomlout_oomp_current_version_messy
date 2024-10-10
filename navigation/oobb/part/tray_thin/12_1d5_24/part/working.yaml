@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'own
   truly
 
   vehicle'
+bip_39_word_no_space_1: own
+bip_39_word_no_space_10: ownthemetriggercutekitbrownhumbletrulyvehiclephysical
+bip_39_word_no_space_11: ownthemetriggercutekitbrownhumbletrulyvehiclephysicalsquirrel
+bip_39_word_no_space_12: ownthemetriggercutekitbrownhumbletrulyvehiclephysicalsquirrelautumn
+bip_39_word_no_space_2: owntheme
+bip_39_word_no_space_3: ownthemetrigger
+bip_39_word_no_space_4: ownthemetriggercute
+bip_39_word_no_space_5: ownthemetriggercutekit
+bip_39_word_no_space_6: ownthemetriggercutekitbrown
+bip_39_word_no_space_7: ownthemetriggercutekitbrownhumble
+bip_39_word_no_space_8: ownthemetriggercutekitbrownhumbletruly
+bip_39_word_no_space_9: ownthemetriggercutekitbrownhumbletrulyvehicle
 bip_39_word_space_0:
 - own
 - theme

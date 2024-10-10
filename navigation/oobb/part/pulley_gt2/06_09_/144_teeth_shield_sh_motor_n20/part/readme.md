@@ -122,6 +122,18 @@ dynamic
 rather
 trumpet
 tide |  
+| bip_39_word_no_space_1 | toward |  
+| bip_39_word_no_space_10 | towardmaplefarmoldslushdynamicrathertrumpettideopen |  
+| bip_39_word_no_space_11 | towardmaplefarmoldslushdynamicrathertrumpettideopenmeat |  
+| bip_39_word_no_space_12 | towardmaplefarmoldslushdynamicrathertrumpettideopenmeatair |  
+| bip_39_word_no_space_2 | towardmaple |  
+| bip_39_word_no_space_3 | towardmaplefarm |  
+| bip_39_word_no_space_4 | towardmaplefarmold |  
+| bip_39_word_no_space_5 | towardmaplefarmoldslush |  
+| bip_39_word_no_space_6 | towardmaplefarmoldslushdynamic |  
+| bip_39_word_no_space_7 | towardmaplefarmoldslushdynamicrather |  
+| bip_39_word_no_space_8 | towardmaplefarmoldslushdynamicrathertrumpet |  
+| bip_39_word_no_space_9 | towardmaplefarmoldslushdynamicrathertrumpettide |  
 | bip_39_word_space_0 | ['toward', 'maple', 'farm', 'old', 'slush', 'dynamic', 'rather', 'trumpet', 'tide', 'open', 'meat', 'air'] |  
 | bip_39_word_space_1 | toward |  
 | bip_39_word_space_10 | toward maple farm old slush dynamic rather trumpet tide open |  

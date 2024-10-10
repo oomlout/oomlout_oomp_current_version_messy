@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'crazy
   minor
 
   agree'
+bip_39_word_no_space_1: crazy
+bip_39_word_no_space_10: crazyengagewelcomebusvendorfallgiraffeminoragreephoto
+bip_39_word_no_space_11: crazyengagewelcomebusvendorfallgiraffeminoragreephotodiamond
+bip_39_word_no_space_12: crazyengagewelcomebusvendorfallgiraffeminoragreephotodiamondargue
+bip_39_word_no_space_2: crazyengage
+bip_39_word_no_space_3: crazyengagewelcome
+bip_39_word_no_space_4: crazyengagewelcomebus
+bip_39_word_no_space_5: crazyengagewelcomebusvendor
+bip_39_word_no_space_6: crazyengagewelcomebusvendorfall
+bip_39_word_no_space_7: crazyengagewelcomebusvendorfallgiraffe
+bip_39_word_no_space_8: crazyengagewelcomebusvendorfallgiraffeminor
+bip_39_word_no_space_9: crazyengagewelcomebusvendorfallgiraffeminoragree
 bip_39_word_space_0:
 - crazy
 - engage

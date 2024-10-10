@@ -122,6 +122,18 @@ horror
 actress
 hamster
 wait |  
+| bip_39_word_no_space_1 | leaf |  
+| bip_39_word_no_space_10 | leafshallowbiologymuffinversionhorroractresshamsterwaitlizard |  
+| bip_39_word_no_space_11 | leafshallowbiologymuffinversionhorroractresshamsterwaitlizardspike |  
+| bip_39_word_no_space_12 | leafshallowbiologymuffinversionhorroractresshamsterwaitlizardspikeauction |  
+| bip_39_word_no_space_2 | leafshallow |  
+| bip_39_word_no_space_3 | leafshallowbiology |  
+| bip_39_word_no_space_4 | leafshallowbiologymuffin |  
+| bip_39_word_no_space_5 | leafshallowbiologymuffinversion |  
+| bip_39_word_no_space_6 | leafshallowbiologymuffinversionhorror |  
+| bip_39_word_no_space_7 | leafshallowbiologymuffinversionhorroractress |  
+| bip_39_word_no_space_8 | leafshallowbiologymuffinversionhorroractresshamster |  
+| bip_39_word_no_space_9 | leafshallowbiologymuffinversionhorroractresshamsterwait |  
 | bip_39_word_space_0 | ['leaf', 'shallow', 'biology', 'muffin', 'version', 'horror', 'actress', 'hamster', 'wait', 'lizard', 'spike', 'auction'] |  
 | bip_39_word_space_1 | leaf |  
 | bip_39_word_space_10 | leaf shallow biology muffin version horror actress hamster wait lizard |  

@@ -122,6 +122,18 @@ boring
 skull
 light
 then |  
+| bip_39_word_no_space_1 | busy |  
+| bip_39_word_no_space_10 | busyreasonseekjeanseitherboringskulllightthenmuseum |  
+| bip_39_word_no_space_11 | busyreasonseekjeanseitherboringskulllightthenmuseumhelp |  
+| bip_39_word_no_space_12 | busyreasonseekjeanseitherboringskulllightthenmuseumhelpamateur |  
+| bip_39_word_no_space_2 | busyreason |  
+| bip_39_word_no_space_3 | busyreasonseek |  
+| bip_39_word_no_space_4 | busyreasonseekjeans |  
+| bip_39_word_no_space_5 | busyreasonseekjeanseither |  
+| bip_39_word_no_space_6 | busyreasonseekjeanseitherboring |  
+| bip_39_word_no_space_7 | busyreasonseekjeanseitherboringskull |  
+| bip_39_word_no_space_8 | busyreasonseekjeanseitherboringskulllight |  
+| bip_39_word_no_space_9 | busyreasonseekjeanseitherboringskulllightthen |  
 | bip_39_word_space_0 | ['busy', 'reason', 'seek', 'jeans', 'either', 'boring', 'skull', 'light', 'then', 'museum', 'help', 'amateur'] |  
 | bip_39_word_space_1 | busy |  
 | bip_39_word_space_10 | busy reason seek jeans either boring skull light then museum |  

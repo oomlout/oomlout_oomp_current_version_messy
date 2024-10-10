@@ -122,6 +122,18 @@ hundred
 crawl
 minute
 advice |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldthrivewavetrackregrethundredcrawlminuteadviceaim |  
+| bip_39_word_no_space_11 | oldthrivewavetrackregrethundredcrawlminuteadviceaimgasp |  
+| bip_39_word_no_space_12 | oldthrivewavetrackregrethundredcrawlminuteadviceaimgasparrange |  
+| bip_39_word_no_space_2 | oldthrive |  
+| bip_39_word_no_space_3 | oldthrivewave |  
+| bip_39_word_no_space_4 | oldthrivewavetrack |  
+| bip_39_word_no_space_5 | oldthrivewavetrackregret |  
+| bip_39_word_no_space_6 | oldthrivewavetrackregrethundred |  
+| bip_39_word_no_space_7 | oldthrivewavetrackregrethundredcrawl |  
+| bip_39_word_no_space_8 | oldthrivewavetrackregrethundredcrawlminute |  
+| bip_39_word_no_space_9 | oldthrivewavetrackregrethundredcrawlminuteadvice |  
 | bip_39_word_space_0 | ['old', 'thrive', 'wave', 'track', 'regret', 'hundred', 'crawl', 'minute', 'advice', 'aim', 'gasp', 'arrange'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old thrive wave track regret hundred crawl minute advice aim |  

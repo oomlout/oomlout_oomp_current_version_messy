@@ -122,6 +122,18 @@ camp
 host
 faculty
 mechanic |  
+| bip_39_word_no_space_1 | gadget |  
+| bip_39_word_no_space_10 | gadgetfoxannualchapterrabbitcamphostfacultymechanicopera |  
+| bip_39_word_no_space_11 | gadgetfoxannualchapterrabbitcamphostfacultymechanicoperafault |  
+| bip_39_word_no_space_12 | gadgetfoxannualchapterrabbitcamphostfacultymechanicoperafaultarea |  
+| bip_39_word_no_space_2 | gadgetfox |  
+| bip_39_word_no_space_3 | gadgetfoxannual |  
+| bip_39_word_no_space_4 | gadgetfoxannualchapter |  
+| bip_39_word_no_space_5 | gadgetfoxannualchapterrabbit |  
+| bip_39_word_no_space_6 | gadgetfoxannualchapterrabbitcamp |  
+| bip_39_word_no_space_7 | gadgetfoxannualchapterrabbitcamphost |  
+| bip_39_word_no_space_8 | gadgetfoxannualchapterrabbitcamphostfaculty |  
+| bip_39_word_no_space_9 | gadgetfoxannualchapterrabbitcamphostfacultymechanic |  
 | bip_39_word_space_0 | ['gadget', 'fox', 'annual', 'chapter', 'rabbit', 'camp', 'host', 'faculty', 'mechanic', 'opera', 'fault', 'area'] |  
 | bip_39_word_space_1 | gadget |  
 | bip_39_word_space_10 | gadget fox annual chapter rabbit camp host faculty mechanic opera |  

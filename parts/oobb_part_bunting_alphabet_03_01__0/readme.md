@@ -122,6 +122,18 @@ suffer
 put
 captain
 kiwi |  
+| bip_39_word_no_space_1 | pattern |  
+| bip_39_word_no_space_10 | patternveryincludesingsicksufferputcaptainkiwicaution |  
+| bip_39_word_no_space_11 | patternveryincludesingsicksufferputcaptainkiwicautionscorpion |  
+| bip_39_word_no_space_12 | patternveryincludesingsicksufferputcaptainkiwicautionscorpionappear |  
+| bip_39_word_no_space_2 | patternvery |  
+| bip_39_word_no_space_3 | patternveryinclude |  
+| bip_39_word_no_space_4 | patternveryincludesing |  
+| bip_39_word_no_space_5 | patternveryincludesingsick |  
+| bip_39_word_no_space_6 | patternveryincludesingsicksuffer |  
+| bip_39_word_no_space_7 | patternveryincludesingsicksufferput |  
+| bip_39_word_no_space_8 | patternveryincludesingsicksufferputcaptain |  
+| bip_39_word_no_space_9 | patternveryincludesingsicksufferputcaptainkiwi |  
 | bip_39_word_space_0 | ['pattern', 'very', 'include', 'sing', 'sick', 'suffer', 'put', 'captain', 'kiwi', 'caution', 'scorpion', 'appear'] |  
 | bip_39_word_space_1 | pattern |  
 | bip_39_word_space_10 | pattern very include sing sick suffer put captain kiwi caution |  

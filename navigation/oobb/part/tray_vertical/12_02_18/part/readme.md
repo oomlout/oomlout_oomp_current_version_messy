@@ -122,6 +122,18 @@ shoe
 faith
 drama
 letter |  
+| bip_39_word_no_space_1 | polar |  
+| bip_39_word_no_space_10 | polarsmallmysteryincomedeclineshoefaithdramaletterachieve |  
+| bip_39_word_no_space_11 | polarsmallmysteryincomedeclineshoefaithdramaletterachievegame |  
+| bip_39_word_no_space_12 | polarsmallmysteryincomedeclineshoefaithdramaletterachievegameargue |  
+| bip_39_word_no_space_2 | polarsmall |  
+| bip_39_word_no_space_3 | polarsmallmystery |  
+| bip_39_word_no_space_4 | polarsmallmysteryincome |  
+| bip_39_word_no_space_5 | polarsmallmysteryincomedecline |  
+| bip_39_word_no_space_6 | polarsmallmysteryincomedeclineshoe |  
+| bip_39_word_no_space_7 | polarsmallmysteryincomedeclineshoefaith |  
+| bip_39_word_no_space_8 | polarsmallmysteryincomedeclineshoefaithdrama |  
+| bip_39_word_no_space_9 | polarsmallmysteryincomedeclineshoefaithdramaletter |  
 | bip_39_word_space_0 | ['polar', 'small', 'mystery', 'income', 'decline', 'shoe', 'faith', 'drama', 'letter', 'achieve', 'game', 'argue'] |  
 | bip_39_word_space_1 | polar |  
 | bip_39_word_space_10 | polar small mystery income decline shoe faith drama letter achieve |  

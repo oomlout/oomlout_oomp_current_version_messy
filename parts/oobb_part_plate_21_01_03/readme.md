@@ -122,6 +122,18 @@ tank
 scene
 someone
 labor |  
+| bip_39_word_no_space_1 | vacant |  
+| bip_39_word_no_space_10 | vacantflipverystockmangotankscenesomeonelabortube |  
+| bip_39_word_no_space_11 | vacantflipverystockmangotankscenesomeonelabortubeanother |  
+| bip_39_word_no_space_12 | vacantflipverystockmangotankscenesomeonelabortubeanotheradd |  
+| bip_39_word_no_space_2 | vacantflip |  
+| bip_39_word_no_space_3 | vacantflipvery |  
+| bip_39_word_no_space_4 | vacantflipverystock |  
+| bip_39_word_no_space_5 | vacantflipverystockmango |  
+| bip_39_word_no_space_6 | vacantflipverystockmangotank |  
+| bip_39_word_no_space_7 | vacantflipverystockmangotankscene |  
+| bip_39_word_no_space_8 | vacantflipverystockmangotankscenesomeone |  
+| bip_39_word_no_space_9 | vacantflipverystockmangotankscenesomeonelabor |  
 | bip_39_word_space_0 | ['vacant', 'flip', 'very', 'stock', 'mango', 'tank', 'scene', 'someone', 'labor', 'tube', 'another', 'add'] |  
 | bip_39_word_space_1 | vacant |  
 | bip_39_word_space_10 | vacant flip very stock mango tank scene someone labor tube |  

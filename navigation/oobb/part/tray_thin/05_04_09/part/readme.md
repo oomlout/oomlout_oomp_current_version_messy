@@ -122,6 +122,18 @@ maid
 whale
 business
 critic |  
+| bip_39_word_no_space_1 | penalty |  
+| bip_39_word_no_space_10 | penaltysqueezewitnessensureveteranmaidwhalebusinesscriticindex |  
+| bip_39_word_no_space_11 | penaltysqueezewitnessensureveteranmaidwhalebusinesscriticindexpower |  
+| bip_39_word_no_space_12 | penaltysqueezewitnessensureveteranmaidwhalebusinesscriticindexpoweravocado |  
+| bip_39_word_no_space_2 | penaltysqueeze |  
+| bip_39_word_no_space_3 | penaltysqueezewitness |  
+| bip_39_word_no_space_4 | penaltysqueezewitnessensure |  
+| bip_39_word_no_space_5 | penaltysqueezewitnessensureveteran |  
+| bip_39_word_no_space_6 | penaltysqueezewitnessensureveteranmaid |  
+| bip_39_word_no_space_7 | penaltysqueezewitnessensureveteranmaidwhale |  
+| bip_39_word_no_space_8 | penaltysqueezewitnessensureveteranmaidwhalebusiness |  
+| bip_39_word_no_space_9 | penaltysqueezewitnessensureveteranmaidwhalebusinesscritic |  
 | bip_39_word_space_0 | ['penalty', 'squeeze', 'witness', 'ensure', 'veteran', 'maid', 'whale', 'business', 'critic', 'index', 'power', 'avocado'] |  
 | bip_39_word_space_1 | penalty |  
 | bip_39_word_space_10 | penalty squeeze witness ensure veteran maid whale business critic index |  

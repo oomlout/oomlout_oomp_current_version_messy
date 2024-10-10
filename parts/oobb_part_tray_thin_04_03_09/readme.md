@@ -122,6 +122,18 @@ choose
 decrease
 diamond
 calm |  
+| bip_39_word_no_space_1 | label |  
+| bip_39_word_no_space_10 | labelsuperbuzzboosturbanchoosedecreasediamondcalmluggage |  
+| bip_39_word_no_space_11 | labelsuperbuzzboosturbanchoosedecreasediamondcalmluggagesomeone |  
+| bip_39_word_no_space_12 | labelsuperbuzzboosturbanchoosedecreasediamondcalmluggagesomeonearrive |  
+| bip_39_word_no_space_2 | labelsuper |  
+| bip_39_word_no_space_3 | labelsuperbuzz |  
+| bip_39_word_no_space_4 | labelsuperbuzzboost |  
+| bip_39_word_no_space_5 | labelsuperbuzzboosturban |  
+| bip_39_word_no_space_6 | labelsuperbuzzboosturbanchoose |  
+| bip_39_word_no_space_7 | labelsuperbuzzboosturbanchoosedecrease |  
+| bip_39_word_no_space_8 | labelsuperbuzzboosturbanchoosedecreasediamond |  
+| bip_39_word_no_space_9 | labelsuperbuzzboosturbanchoosedecreasediamondcalm |  
 | bip_39_word_space_0 | ['label', 'super', 'buzz', 'boost', 'urban', 'choose', 'decrease', 'diamond', 'calm', 'luggage', 'someone', 'arrive'] |  
 | bip_39_word_space_1 | label |  
 | bip_39_word_space_10 | label super buzz boost urban choose decrease diamond calm luggage |  

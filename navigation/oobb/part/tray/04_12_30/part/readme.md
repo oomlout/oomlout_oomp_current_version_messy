@@ -122,6 +122,18 @@ flock
 brand
 predict
 borrow |  
+| bip_39_word_no_space_1 | lake |  
+| bip_39_word_no_space_10 | lakecuriousdevicedetectdependflockbrandpredictborrowlion |  
+| bip_39_word_no_space_11 | lakecuriousdevicedetectdependflockbrandpredictborrowlionhold |  
+| bip_39_word_no_space_12 | lakecuriousdevicedetectdependflockbrandpredictborrowlionholdask |  
+| bip_39_word_no_space_2 | lakecurious |  
+| bip_39_word_no_space_3 | lakecuriousdevice |  
+| bip_39_word_no_space_4 | lakecuriousdevicedetect |  
+| bip_39_word_no_space_5 | lakecuriousdevicedetectdepend |  
+| bip_39_word_no_space_6 | lakecuriousdevicedetectdependflock |  
+| bip_39_word_no_space_7 | lakecuriousdevicedetectdependflockbrand |  
+| bip_39_word_no_space_8 | lakecuriousdevicedetectdependflockbrandpredict |  
+| bip_39_word_no_space_9 | lakecuriousdevicedetectdependflockbrandpredictborrow |  
 | bip_39_word_space_0 | ['lake', 'curious', 'device', 'detect', 'depend', 'flock', 'brand', 'predict', 'borrow', 'lion', 'hold', 'ask'] |  
 | bip_39_word_space_1 | lake |  
 | bip_39_word_space_10 | lake curious device detect depend flock brand predict borrow lion |  

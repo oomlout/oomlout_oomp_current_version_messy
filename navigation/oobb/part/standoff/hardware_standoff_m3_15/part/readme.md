@@ -122,6 +122,18 @@ smile
 pudding
 appear
 lesson |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | envelopeloyalobviouscontrolbabysmilepuddingappearlessonglove |  
+| bip_39_word_no_space_11 | envelopeloyalobviouscontrolbabysmilepuddingappearlessonglovereason |  
+| bip_39_word_no_space_12 | envelopeloyalobviouscontrolbabysmilepuddingappearlessonglovereasonacross |  
+| bip_39_word_no_space_2 | envelopeloyal |  
+| bip_39_word_no_space_3 | envelopeloyalobvious |  
+| bip_39_word_no_space_4 | envelopeloyalobviouscontrol |  
+| bip_39_word_no_space_5 | envelopeloyalobviouscontrolbaby |  
+| bip_39_word_no_space_6 | envelopeloyalobviouscontrolbabysmile |  
+| bip_39_word_no_space_7 | envelopeloyalobviouscontrolbabysmilepudding |  
+| bip_39_word_no_space_8 | envelopeloyalobviouscontrolbabysmilepuddingappear |  
+| bip_39_word_no_space_9 | envelopeloyalobviouscontrolbabysmilepuddingappearlesson |  
 | bip_39_word_space_0 | ['envelope', 'loyal', 'obvious', 'control', 'baby', 'smile', 'pudding', 'appear', 'lesson', 'glove', 'reason', 'across'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope loyal obvious control baby smile pudding appear lesson glove |  

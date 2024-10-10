@@ -122,6 +122,18 @@ account
 wasp
 credit
 prison |  
+| bip_39_word_no_space_1 | filter |  
+| bip_39_word_no_space_10 | filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluck |  
+| bip_39_word_no_space_11 | filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluckbeef |  
+| bip_39_word_no_space_12 | filtersegmentfiscalpavecrimeaccountwaspcreditprisonpluckbeefacross |  
+| bip_39_word_no_space_2 | filtersegment |  
+| bip_39_word_no_space_3 | filtersegmentfiscal |  
+| bip_39_word_no_space_4 | filtersegmentfiscalpave |  
+| bip_39_word_no_space_5 | filtersegmentfiscalpavecrime |  
+| bip_39_word_no_space_6 | filtersegmentfiscalpavecrimeaccount |  
+| bip_39_word_no_space_7 | filtersegmentfiscalpavecrimeaccountwasp |  
+| bip_39_word_no_space_8 | filtersegmentfiscalpavecrimeaccountwaspcredit |  
+| bip_39_word_no_space_9 | filtersegmentfiscalpavecrimeaccountwaspcreditprison |  
 | bip_39_word_space_0 | ['filter', 'segment', 'fiscal', 'pave', 'crime', 'account', 'wasp', 'credit', 'prison', 'pluck', 'beef', 'across'] |  
 | bip_39_word_space_1 | filter |  
 | bip_39_word_space_10 | filter segment fiscal pave crime account wasp credit prison pluck |  

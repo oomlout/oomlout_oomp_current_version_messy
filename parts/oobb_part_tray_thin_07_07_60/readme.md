@@ -122,6 +122,18 @@ bind
 extra
 obtain
 slogan |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cageconcertlayerwrapstandbindextraobtainsloganboil |  
+| bip_39_word_no_space_11 | cageconcertlayerwrapstandbindextraobtainsloganboillaw |  
+| bip_39_word_no_space_12 | cageconcertlayerwrapstandbindextraobtainsloganboillawargue |  
+| bip_39_word_no_space_2 | cageconcert |  
+| bip_39_word_no_space_3 | cageconcertlayer |  
+| bip_39_word_no_space_4 | cageconcertlayerwrap |  
+| bip_39_word_no_space_5 | cageconcertlayerwrapstand |  
+| bip_39_word_no_space_6 | cageconcertlayerwrapstandbind |  
+| bip_39_word_no_space_7 | cageconcertlayerwrapstandbindextra |  
+| bip_39_word_no_space_8 | cageconcertlayerwrapstandbindextraobtain |  
+| bip_39_word_no_space_9 | cageconcertlayerwrapstandbindextraobtainslogan |  
 | bip_39_word_space_0 | ['cage', 'concert', 'layer', 'wrap', 'stand', 'bind', 'extra', 'obtain', 'slogan', 'boil', 'law', 'argue'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage concert layer wrap stand bind extra obtain slogan boil |  

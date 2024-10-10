@@ -122,6 +122,18 @@ happy
 bike
 film
 tilt |  
+| bip_39_word_no_space_1 | civil |  
+| bip_39_word_no_space_10 | civilincomeranchsunsetsupremehappybikefilmtiltwolf |  
+| bip_39_word_no_space_11 | civilincomeranchsunsetsupremehappybikefilmtiltwolfsad |  
+| bip_39_word_no_space_12 | civilincomeranchsunsetsupremehappybikefilmtiltwolfsadathlete |  
+| bip_39_word_no_space_2 | civilincome |  
+| bip_39_word_no_space_3 | civilincomeranch |  
+| bip_39_word_no_space_4 | civilincomeranchsunset |  
+| bip_39_word_no_space_5 | civilincomeranchsunsetsupreme |  
+| bip_39_word_no_space_6 | civilincomeranchsunsetsupremehappy |  
+| bip_39_word_no_space_7 | civilincomeranchsunsetsupremehappybike |  
+| bip_39_word_no_space_8 | civilincomeranchsunsetsupremehappybikefilm |  
+| bip_39_word_no_space_9 | civilincomeranchsunsetsupremehappybikefilmtilt |  
 | bip_39_word_space_0 | ['civil', 'income', 'ranch', 'sunset', 'supreme', 'happy', 'bike', 'film', 'tilt', 'wolf', 'sad', 'athlete'] |  
 | bip_39_word_space_1 | civil |  
 | bip_39_word_space_10 | civil income ranch sunset supreme happy bike film tilt wolf |  

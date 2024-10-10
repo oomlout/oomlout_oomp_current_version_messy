@@ -122,6 +122,18 @@ choice
 belt
 price
 suit |  
+| bip_39_word_no_space_1 | owner |  
+| bip_39_word_no_space_10 | ownerfloatwrapsplitmarinechoicebeltpricesuitoval |  
+| bip_39_word_no_space_11 | ownerfloatwrapsplitmarinechoicebeltpricesuitovalprovide |  
+| bip_39_word_no_space_12 | ownerfloatwrapsplitmarinechoicebeltpricesuitovalprovideannual |  
+| bip_39_word_no_space_2 | ownerfloat |  
+| bip_39_word_no_space_3 | ownerfloatwrap |  
+| bip_39_word_no_space_4 | ownerfloatwrapsplit |  
+| bip_39_word_no_space_5 | ownerfloatwrapsplitmarine |  
+| bip_39_word_no_space_6 | ownerfloatwrapsplitmarinechoice |  
+| bip_39_word_no_space_7 | ownerfloatwrapsplitmarinechoicebelt |  
+| bip_39_word_no_space_8 | ownerfloatwrapsplitmarinechoicebeltprice |  
+| bip_39_word_no_space_9 | ownerfloatwrapsplitmarinechoicebeltpricesuit |  
 | bip_39_word_space_0 | ['owner', 'float', 'wrap', 'split', 'marine', 'choice', 'belt', 'price', 'suit', 'oval', 'provide', 'annual'] |  
 | bip_39_word_space_1 | owner |  
 | bip_39_word_space_10 | owner float wrap split marine choice belt price suit oval |  

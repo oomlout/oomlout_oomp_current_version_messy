@@ -122,6 +122,18 @@ dismiss
 bind
 senior
 peanut |  
+| bip_39_word_no_space_1 | monster |  
+| bip_39_word_no_space_10 | monsterassaultmanualwantdespairdismissbindseniorpeanutpicnic |  
+| bip_39_word_no_space_11 | monsterassaultmanualwantdespairdismissbindseniorpeanutpicnicexact |  
+| bip_39_word_no_space_12 | monsterassaultmanualwantdespairdismissbindseniorpeanutpicnicexactacid |  
+| bip_39_word_no_space_2 | monsterassault |  
+| bip_39_word_no_space_3 | monsterassaultmanual |  
+| bip_39_word_no_space_4 | monsterassaultmanualwant |  
+| bip_39_word_no_space_5 | monsterassaultmanualwantdespair |  
+| bip_39_word_no_space_6 | monsterassaultmanualwantdespairdismiss |  
+| bip_39_word_no_space_7 | monsterassaultmanualwantdespairdismissbind |  
+| bip_39_word_no_space_8 | monsterassaultmanualwantdespairdismissbindsenior |  
+| bip_39_word_no_space_9 | monsterassaultmanualwantdespairdismissbindseniorpeanut |  
 | bip_39_word_space_0 | ['monster', 'assault', 'manual', 'want', 'despair', 'dismiss', 'bind', 'senior', 'peanut', 'picnic', 'exact', 'acid'] |  
 | bip_39_word_space_1 | monster |  
 | bip_39_word_space_10 | monster assault manual want despair dismiss bind senior peanut picnic |  

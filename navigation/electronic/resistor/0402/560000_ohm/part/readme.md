@@ -122,6 +122,18 @@ discover
 hand
 black
 element |  
+| bip_39_word_no_space_1 | naive |  
+| bip_39_word_no_space_10 | naivewarfareimitategarmentjuicediscoverhandblackelementbuyer |  
+| bip_39_word_no_space_11 | naivewarfareimitategarmentjuicediscoverhandblackelementbuyercry |  
+| bip_39_word_no_space_12 | naivewarfareimitategarmentjuicediscoverhandblackelementbuyercryanchor |  
+| bip_39_word_no_space_2 | naivewarfare |  
+| bip_39_word_no_space_3 | naivewarfareimitate |  
+| bip_39_word_no_space_4 | naivewarfareimitategarment |  
+| bip_39_word_no_space_5 | naivewarfareimitategarmentjuice |  
+| bip_39_word_no_space_6 | naivewarfareimitategarmentjuicediscover |  
+| bip_39_word_no_space_7 | naivewarfareimitategarmentjuicediscoverhand |  
+| bip_39_word_no_space_8 | naivewarfareimitategarmentjuicediscoverhandblack |  
+| bip_39_word_no_space_9 | naivewarfareimitategarmentjuicediscoverhandblackelement |  
 | bip_39_word_space_0 | ['naive', 'warfare', 'imitate', 'garment', 'juice', 'discover', 'hand', 'black', 'element', 'buyer', 'cry', 'anchor'] |  
 | bip_39_word_space_1 | naive |  
 | bip_39_word_space_10 | naive warfare imitate garment juice discover hand black element buyer |  

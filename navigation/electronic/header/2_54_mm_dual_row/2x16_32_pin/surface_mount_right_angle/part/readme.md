@@ -122,6 +122,18 @@ doctor
 ostrich
 rent
 rug |  
+| bip_39_word_no_space_1 | orchard |  
+| bip_39_word_no_space_10 | orchardanygenuinetotalseekdoctorostrichrentrugside |  
+| bip_39_word_no_space_11 | orchardanygenuinetotalseekdoctorostrichrentrugsidelevel |  
+| bip_39_word_no_space_12 | orchardanygenuinetotalseekdoctorostrichrentrugsidelevelafford |  
+| bip_39_word_no_space_2 | orchardany |  
+| bip_39_word_no_space_3 | orchardanygenuine |  
+| bip_39_word_no_space_4 | orchardanygenuinetotal |  
+| bip_39_word_no_space_5 | orchardanygenuinetotalseek |  
+| bip_39_word_no_space_6 | orchardanygenuinetotalseekdoctor |  
+| bip_39_word_no_space_7 | orchardanygenuinetotalseekdoctorostrich |  
+| bip_39_word_no_space_8 | orchardanygenuinetotalseekdoctorostrichrent |  
+| bip_39_word_no_space_9 | orchardanygenuinetotalseekdoctorostrichrentrug |  
 | bip_39_word_space_0 | ['orchard', 'any', 'genuine', 'total', 'seek', 'doctor', 'ostrich', 'rent', 'rug', 'side', 'level', 'afford'] |  
 | bip_39_word_space_1 | orchard |  
 | bip_39_word_space_10 | orchard any genuine total seek doctor ostrich rent rug side |  

@@ -122,6 +122,18 @@ broccoli
 pupil
 shield
 merge |  
+| bip_39_word_no_space_1 | fence |  
+| bip_39_word_no_space_10 | fencewildrookieliquidpursebroccolipupilshieldmergepen |  
+| bip_39_word_no_space_11 | fencewildrookieliquidpursebroccolipupilshieldmergepenprivate |  
+| bip_39_word_no_space_12 | fencewildrookieliquidpursebroccolipupilshieldmergepenprivateanxiety |  
+| bip_39_word_no_space_2 | fencewild |  
+| bip_39_word_no_space_3 | fencewildrookie |  
+| bip_39_word_no_space_4 | fencewildrookieliquid |  
+| bip_39_word_no_space_5 | fencewildrookieliquidpurse |  
+| bip_39_word_no_space_6 | fencewildrookieliquidpursebroccoli |  
+| bip_39_word_no_space_7 | fencewildrookieliquidpursebroccolipupil |  
+| bip_39_word_no_space_8 | fencewildrookieliquidpursebroccolipupilshield |  
+| bip_39_word_no_space_9 | fencewildrookieliquidpursebroccolipupilshieldmerge |  
 | bip_39_word_space_0 | ['fence', 'wild', 'rookie', 'liquid', 'purse', 'broccoli', 'pupil', 'shield', 'merge', 'pen', 'private', 'anxiety'] |  
 | bip_39_word_space_1 | fence |  
 | bip_39_word_space_10 | fence wild rookie liquid purse broccoli pupil shield merge pen |  

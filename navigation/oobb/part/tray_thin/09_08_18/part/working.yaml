@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hammer
   cruel
 
   fame'
+bip_39_word_no_space_1: hammer
+bip_39_word_no_space_10: hammerthrowworklionfocusreformindicatecruelfameturkey
+bip_39_word_no_space_11: hammerthrowworklionfocusreformindicatecruelfameturkeyleopard
+bip_39_word_no_space_12: hammerthrowworklionfocusreformindicatecruelfameturkeyleopardapology
+bip_39_word_no_space_2: hammerthrow
+bip_39_word_no_space_3: hammerthrowwork
+bip_39_word_no_space_4: hammerthrowworklion
+bip_39_word_no_space_5: hammerthrowworklionfocus
+bip_39_word_no_space_6: hammerthrowworklionfocusreform
+bip_39_word_no_space_7: hammerthrowworklionfocusreformindicate
+bip_39_word_no_space_8: hammerthrowworklionfocusreformindicatecruel
+bip_39_word_no_space_9: hammerthrowworklionfocusreformindicatecruelfame
 bip_39_word_space_0:
 - hammer
 - throw

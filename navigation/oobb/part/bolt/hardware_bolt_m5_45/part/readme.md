@@ -122,6 +122,18 @@ club
 make
 silver
 general |  
+| bip_39_word_no_space_1 | dust |  
+| bip_39_word_no_space_10 | dustrudehoneyutilitybraveclubmakesilvergeneralduty |  
+| bip_39_word_no_space_11 | dustrudehoneyutilitybraveclubmakesilvergeneraldutysetup |  
+| bip_39_word_no_space_12 | dustrudehoneyutilitybraveclubmakesilvergeneraldutysetupacid |  
+| bip_39_word_no_space_2 | dustrude |  
+| bip_39_word_no_space_3 | dustrudehoney |  
+| bip_39_word_no_space_4 | dustrudehoneyutility |  
+| bip_39_word_no_space_5 | dustrudehoneyutilitybrave |  
+| bip_39_word_no_space_6 | dustrudehoneyutilitybraveclub |  
+| bip_39_word_no_space_7 | dustrudehoneyutilitybraveclubmake |  
+| bip_39_word_no_space_8 | dustrudehoneyutilitybraveclubmakesilver |  
+| bip_39_word_no_space_9 | dustrudehoneyutilitybraveclubmakesilvergeneral |  
 | bip_39_word_space_0 | ['dust', 'rude', 'honey', 'utility', 'brave', 'club', 'make', 'silver', 'general', 'duty', 'setup', 'acid'] |  
 | bip_39_word_space_1 | dust |  
 | bip_39_word_space_10 | dust rude honey utility brave club make silver general duty |  

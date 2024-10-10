@@ -122,6 +122,18 @@ page
 promote
 ready
 already |  
+| bip_39_word_no_space_1 | girl |  
+| bip_39_word_no_space_10 | girlvoyageforumcoupledividepagepromotereadyalreadypraise |  
+| bip_39_word_no_space_11 | girlvoyageforumcoupledividepagepromotereadyalreadypraisecredit |  
+| bip_39_word_no_space_12 | girlvoyageforumcoupledividepagepromotereadyalreadypraisecreditangry |  
+| bip_39_word_no_space_2 | girlvoyage |  
+| bip_39_word_no_space_3 | girlvoyageforum |  
+| bip_39_word_no_space_4 | girlvoyageforumcouple |  
+| bip_39_word_no_space_5 | girlvoyageforumcoupledivide |  
+| bip_39_word_no_space_6 | girlvoyageforumcoupledividepage |  
+| bip_39_word_no_space_7 | girlvoyageforumcoupledividepagepromote |  
+| bip_39_word_no_space_8 | girlvoyageforumcoupledividepagepromoteready |  
+| bip_39_word_no_space_9 | girlvoyageforumcoupledividepagepromotereadyalready |  
 | bip_39_word_space_0 | ['girl', 'voyage', 'forum', 'couple', 'divide', 'page', 'promote', 'ready', 'already', 'praise', 'credit', 'angry'] |  
 | bip_39_word_space_1 | girl |  
 | bip_39_word_space_10 | girl voyage forum couple divide page promote ready already praise |  

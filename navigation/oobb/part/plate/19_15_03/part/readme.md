@@ -122,6 +122,18 @@ canvas
 abandon
 garlic
 immune |  
+| bip_39_word_no_space_1 | travel |  
+| bip_39_word_no_space_10 | travelhighguessgardenlivecanvasabandongarlicimmuneketchup |  
+| bip_39_word_no_space_11 | travelhighguessgardenlivecanvasabandongarlicimmuneketchupterm |  
+| bip_39_word_no_space_12 | travelhighguessgardenlivecanvasabandongarlicimmuneketchuptermattract |  
+| bip_39_word_no_space_2 | travelhigh |  
+| bip_39_word_no_space_3 | travelhighguess |  
+| bip_39_word_no_space_4 | travelhighguessgarden |  
+| bip_39_word_no_space_5 | travelhighguessgardenlive |  
+| bip_39_word_no_space_6 | travelhighguessgardenlivecanvas |  
+| bip_39_word_no_space_7 | travelhighguessgardenlivecanvasabandon |  
+| bip_39_word_no_space_8 | travelhighguessgardenlivecanvasabandongarlic |  
+| bip_39_word_no_space_9 | travelhighguessgardenlivecanvasabandongarlicimmune |  
 | bip_39_word_space_0 | ['travel', 'high', 'guess', 'garden', 'live', 'canvas', 'abandon', 'garlic', 'immune', 'ketchup', 'term', 'attract'] |  
 | bip_39_word_space_1 | travel |  
 | bip_39_word_space_10 | travel high guess garden live canvas abandon garlic immune ketchup |  

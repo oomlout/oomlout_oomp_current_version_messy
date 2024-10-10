@@ -122,6 +122,18 @@ nut
 north
 escape
 faint |  
+| bip_39_word_no_space_1 | corn |  
+| bip_39_word_no_space_10 | cornpersonhollowpandashieldnutnorthescapefaintfloat |  
+| bip_39_word_no_space_11 | cornpersonhollowpandashieldnutnorthescapefaintfloatsecond |  
+| bip_39_word_no_space_12 | cornpersonhollowpandashieldnutnorthescapefaintfloatsecondappear |  
+| bip_39_word_no_space_2 | cornperson |  
+| bip_39_word_no_space_3 | cornpersonhollow |  
+| bip_39_word_no_space_4 | cornpersonhollowpanda |  
+| bip_39_word_no_space_5 | cornpersonhollowpandashield |  
+| bip_39_word_no_space_6 | cornpersonhollowpandashieldnut |  
+| bip_39_word_no_space_7 | cornpersonhollowpandashieldnutnorth |  
+| bip_39_word_no_space_8 | cornpersonhollowpandashieldnutnorthescape |  
+| bip_39_word_no_space_9 | cornpersonhollowpandashieldnutnorthescapefaint |  
 | bip_39_word_space_0 | ['corn', 'person', 'hollow', 'panda', 'shield', 'nut', 'north', 'escape', 'faint', 'float', 'second', 'appear'] |  
 | bip_39_word_space_1 | corn |  
 | bip_39_word_space_10 | corn person hollow panda shield nut north escape faint float |  

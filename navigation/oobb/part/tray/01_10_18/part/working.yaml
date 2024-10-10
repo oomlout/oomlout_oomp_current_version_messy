@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'common
   build
 
   impulse'
+bip_39_word_no_space_1: common
+bip_39_word_no_space_10: commonbuildislandringagewrestletortoisebuildimpulsegauge
+bip_39_word_no_space_11: commonbuildislandringagewrestletortoisebuildimpulsegaugeglue
+bip_39_word_no_space_12: commonbuildislandringagewrestletortoisebuildimpulsegaugeglueattract
+bip_39_word_no_space_2: commonbuild
+bip_39_word_no_space_3: commonbuildisland
+bip_39_word_no_space_4: commonbuildislandring
+bip_39_word_no_space_5: commonbuildislandringage
+bip_39_word_no_space_6: commonbuildislandringagewrestle
+bip_39_word_no_space_7: commonbuildislandringagewrestletortoise
+bip_39_word_no_space_8: commonbuildislandringagewrestletortoisebuild
+bip_39_word_no_space_9: commonbuildislandringagewrestletortoisebuildimpulse
 bip_39_word_space_0:
 - common
 - build

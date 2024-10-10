@@ -122,6 +122,18 @@ oven
 desert
 immune
 lounge |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actiondiamondmomoftenpurchaseovendesertimmuneloungeturkey |  
+| bip_39_word_no_space_11 | actiondiamondmomoftenpurchaseovendesertimmuneloungeturkeyafraid |  
+| bip_39_word_no_space_12 | actiondiamondmomoftenpurchaseovendesertimmuneloungeturkeyafraidannounce |  
+| bip_39_word_no_space_2 | actiondiamond |  
+| bip_39_word_no_space_3 | actiondiamondmom |  
+| bip_39_word_no_space_4 | actiondiamondmomoften |  
+| bip_39_word_no_space_5 | actiondiamondmomoftenpurchase |  
+| bip_39_word_no_space_6 | actiondiamondmomoftenpurchaseoven |  
+| bip_39_word_no_space_7 | actiondiamondmomoftenpurchaseovendesert |  
+| bip_39_word_no_space_8 | actiondiamondmomoftenpurchaseovendesertimmune |  
+| bip_39_word_no_space_9 | actiondiamondmomoftenpurchaseovendesertimmunelounge |  
 | bip_39_word_space_0 | ['action', 'diamond', 'mom', 'often', 'purchase', 'oven', 'desert', 'immune', 'lounge', 'turkey', 'afraid', 'announce'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action diamond mom often purchase oven desert immune lounge turkey |  

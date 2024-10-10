@@ -122,6 +122,18 @@ night
 bench
 hair
 scorpion |  
+| bip_39_word_no_space_1 | bless |  
+| bip_39_word_no_space_10 | blessbeltexhibittalenthomenightbenchhairscorpionfestival |  
+| bip_39_word_no_space_11 | blessbeltexhibittalenthomenightbenchhairscorpionfestivaloffer |  
+| bip_39_word_no_space_12 | blessbeltexhibittalenthomenightbenchhairscorpionfestivalofferattitude |  
+| bip_39_word_no_space_2 | blessbelt |  
+| bip_39_word_no_space_3 | blessbeltexhibit |  
+| bip_39_word_no_space_4 | blessbeltexhibittalent |  
+| bip_39_word_no_space_5 | blessbeltexhibittalenthome |  
+| bip_39_word_no_space_6 | blessbeltexhibittalenthomenight |  
+| bip_39_word_no_space_7 | blessbeltexhibittalenthomenightbench |  
+| bip_39_word_no_space_8 | blessbeltexhibittalenthomenightbenchhair |  
+| bip_39_word_no_space_9 | blessbeltexhibittalenthomenightbenchhairscorpion |  
 | bip_39_word_space_0 | ['bless', 'belt', 'exhibit', 'talent', 'home', 'night', 'bench', 'hair', 'scorpion', 'festival', 'offer', 'attitude'] |  
 | bip_39_word_space_1 | bless |  
 | bip_39_word_space_10 | bless belt exhibit talent home night bench hair scorpion festival |  

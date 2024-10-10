@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'era
   canoe
 
   little'
+bip_39_word_no_space_1: era
+bip_39_word_no_space_10: erabirdneglectkickmasknewsmetalcanoelittlecouch
+bip_39_word_no_space_11: erabirdneglectkickmasknewsmetalcanoelittlecouchdecorate
+bip_39_word_no_space_12: erabirdneglectkickmasknewsmetalcanoelittlecouchdecorateabove
+bip_39_word_no_space_2: erabird
+bip_39_word_no_space_3: erabirdneglect
+bip_39_word_no_space_4: erabirdneglectkick
+bip_39_word_no_space_5: erabirdneglectkickmask
+bip_39_word_no_space_6: erabirdneglectkickmasknews
+bip_39_word_no_space_7: erabirdneglectkickmasknewsmetal
+bip_39_word_no_space_8: erabirdneglectkickmasknewsmetalcanoe
+bip_39_word_no_space_9: erabirdneglectkickmasknewsmetalcanoelittle
 bip_39_word_space_0:
 - era
 - bird

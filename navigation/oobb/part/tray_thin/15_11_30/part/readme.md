@@ -122,6 +122,18 @@ sell
 special
 hamster
 name |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tossdaringcopperflightlinksellspecialhamsternamecompany |  
+| bip_39_word_no_space_11 | tossdaringcopperflightlinksellspecialhamsternamecompanytreat |  
+| bip_39_word_no_space_12 | tossdaringcopperflightlinksellspecialhamsternamecompanytreatacid |  
+| bip_39_word_no_space_2 | tossdaring |  
+| bip_39_word_no_space_3 | tossdaringcopper |  
+| bip_39_word_no_space_4 | tossdaringcopperflight |  
+| bip_39_word_no_space_5 | tossdaringcopperflightlink |  
+| bip_39_word_no_space_6 | tossdaringcopperflightlinksell |  
+| bip_39_word_no_space_7 | tossdaringcopperflightlinksellspecial |  
+| bip_39_word_no_space_8 | tossdaringcopperflightlinksellspecialhamster |  
+| bip_39_word_no_space_9 | tossdaringcopperflightlinksellspecialhamstername |  
 | bip_39_word_space_0 | ['toss', 'daring', 'copper', 'flight', 'link', 'sell', 'special', 'hamster', 'name', 'company', 'treat', 'acid'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss daring copper flight link sell special hamster name company |  

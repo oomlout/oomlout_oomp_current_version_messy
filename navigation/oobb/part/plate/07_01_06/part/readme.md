@@ -122,6 +122,18 @@ frown
 sample
 stay
 maze |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenissuezonepatchdisorderfrownsamplestaymazeenhance |  
+| bip_39_word_no_space_11 | burdenissuezonepatchdisorderfrownsamplestaymazeenhancerigid |  
+| bip_39_word_no_space_12 | burdenissuezonepatchdisorderfrownsamplestaymazeenhancerigidaccuse |  
+| bip_39_word_no_space_2 | burdenissue |  
+| bip_39_word_no_space_3 | burdenissuezone |  
+| bip_39_word_no_space_4 | burdenissuezonepatch |  
+| bip_39_word_no_space_5 | burdenissuezonepatchdisorder |  
+| bip_39_word_no_space_6 | burdenissuezonepatchdisorderfrown |  
+| bip_39_word_no_space_7 | burdenissuezonepatchdisorderfrownsample |  
+| bip_39_word_no_space_8 | burdenissuezonepatchdisorderfrownsamplestay |  
+| bip_39_word_no_space_9 | burdenissuezonepatchdisorderfrownsamplestaymaze |  
 | bip_39_word_space_0 | ['burden', 'issue', 'zone', 'patch', 'disorder', 'frown', 'sample', 'stay', 'maze', 'enhance', 'rigid', 'accuse'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden issue zone patch disorder frown sample stay maze enhance |  

@@ -122,6 +122,18 @@ fiction
 plastic
 retreat
 buzz |  
+| bip_39_word_no_space_1 | result |  
+| bip_39_word_no_space_10 | resultactionreturnmachinescreenfictionplasticretreatbuzzpepper |  
+| bip_39_word_no_space_11 | resultactionreturnmachinescreenfictionplasticretreatbuzzpeppershed |  
+| bip_39_word_no_space_12 | resultactionreturnmachinescreenfictionplasticretreatbuzzpeppershedanger |  
+| bip_39_word_no_space_2 | resultaction |  
+| bip_39_word_no_space_3 | resultactionreturn |  
+| bip_39_word_no_space_4 | resultactionreturnmachine |  
+| bip_39_word_no_space_5 | resultactionreturnmachinescreen |  
+| bip_39_word_no_space_6 | resultactionreturnmachinescreenfiction |  
+| bip_39_word_no_space_7 | resultactionreturnmachinescreenfictionplastic |  
+| bip_39_word_no_space_8 | resultactionreturnmachinescreenfictionplasticretreat |  
+| bip_39_word_no_space_9 | resultactionreturnmachinescreenfictionplasticretreatbuzz |  
 | bip_39_word_space_0 | ['result', 'action', 'return', 'machine', 'screen', 'fiction', 'plastic', 'retreat', 'buzz', 'pepper', 'shed', 'anger'] |  
 | bip_39_word_space_1 | result |  
 | bip_39_word_space_10 | result action return machine screen fiction plastic retreat buzz pepper |  

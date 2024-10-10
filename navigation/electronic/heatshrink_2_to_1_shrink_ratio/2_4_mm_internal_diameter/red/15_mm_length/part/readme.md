@@ -122,6 +122,18 @@ off
 crater
 forum
 duty |  
+| bip_39_word_no_space_1 | skill |  
+| bip_39_word_no_space_10 | skillpoolangrycomeflameoffcraterforumdutyamused |  
+| bip_39_word_no_space_11 | skillpoolangrycomeflameoffcraterforumdutyamusedawkward |  
+| bip_39_word_no_space_12 | skillpoolangrycomeflameoffcraterforumdutyamusedawkwardalley |  
+| bip_39_word_no_space_2 | skillpool |  
+| bip_39_word_no_space_3 | skillpoolangry |  
+| bip_39_word_no_space_4 | skillpoolangrycome |  
+| bip_39_word_no_space_5 | skillpoolangrycomeflame |  
+| bip_39_word_no_space_6 | skillpoolangrycomeflameoff |  
+| bip_39_word_no_space_7 | skillpoolangrycomeflameoffcrater |  
+| bip_39_word_no_space_8 | skillpoolangrycomeflameoffcraterforum |  
+| bip_39_word_no_space_9 | skillpoolangrycomeflameoffcraterforumduty |  
 | bip_39_word_space_0 | ['skill', 'pool', 'angry', 'come', 'flame', 'off', 'crater', 'forum', 'duty', 'amused', 'awkward', 'alley'] |  
 | bip_39_word_space_1 | skill |  
 | bip_39_word_space_10 | skill pool angry come flame off crater forum duty amused |  

@@ -122,6 +122,18 @@ grass
 repeat
 grass
 nuclear |  
+| bip_39_word_no_space_1 | winter |  
+| bip_39_word_no_space_10 | winterwealthbamboovisitchickengrassrepeatgrassnuclearraccoon |  
+| bip_39_word_no_space_11 | winterwealthbamboovisitchickengrassrepeatgrassnuclearraccoonwest |  
+| bip_39_word_no_space_12 | winterwealthbamboovisitchickengrassrepeatgrassnuclearraccoonwestahead |  
+| bip_39_word_no_space_2 | winterwealth |  
+| bip_39_word_no_space_3 | winterwealthbamboo |  
+| bip_39_word_no_space_4 | winterwealthbamboovisit |  
+| bip_39_word_no_space_5 | winterwealthbamboovisitchicken |  
+| bip_39_word_no_space_6 | winterwealthbamboovisitchickengrass |  
+| bip_39_word_no_space_7 | winterwealthbamboovisitchickengrassrepeat |  
+| bip_39_word_no_space_8 | winterwealthbamboovisitchickengrassrepeatgrass |  
+| bip_39_word_no_space_9 | winterwealthbamboovisitchickengrassrepeatgrassnuclear |  
 | bip_39_word_space_0 | ['winter', 'wealth', 'bamboo', 'visit', 'chicken', 'grass', 'repeat', 'grass', 'nuclear', 'raccoon', 'west', 'ahead'] |  
 | bip_39_word_space_1 | winter |  
 | bip_39_word_space_10 | winter wealth bamboo visit chicken grass repeat grass nuclear raccoon |  

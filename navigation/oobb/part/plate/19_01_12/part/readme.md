@@ -122,6 +122,18 @@ element
 violin
 swing
 jewel |  
+| bip_39_word_no_space_1 | easy |  
+| bip_39_word_no_space_10 | easysisterlikeutilitydynamicelementviolinswingjewelurban |  
+| bip_39_word_no_space_11 | easysisterlikeutilitydynamicelementviolinswingjewelurbanbegin |  
+| bip_39_word_no_space_12 | easysisterlikeutilitydynamicelementviolinswingjewelurbanbeginamateur |  
+| bip_39_word_no_space_2 | easysister |  
+| bip_39_word_no_space_3 | easysisterlike |  
+| bip_39_word_no_space_4 | easysisterlikeutility |  
+| bip_39_word_no_space_5 | easysisterlikeutilitydynamic |  
+| bip_39_word_no_space_6 | easysisterlikeutilitydynamicelement |  
+| bip_39_word_no_space_7 | easysisterlikeutilitydynamicelementviolin |  
+| bip_39_word_no_space_8 | easysisterlikeutilitydynamicelementviolinswing |  
+| bip_39_word_no_space_9 | easysisterlikeutilitydynamicelementviolinswingjewel |  
 | bip_39_word_space_0 | ['easy', 'sister', 'like', 'utility', 'dynamic', 'element', 'violin', 'swing', 'jewel', 'urban', 'begin', 'amateur'] |  
 | bip_39_word_space_1 | easy |  
 | bip_39_word_space_10 | easy sister like utility dynamic element violin swing jewel urban |  

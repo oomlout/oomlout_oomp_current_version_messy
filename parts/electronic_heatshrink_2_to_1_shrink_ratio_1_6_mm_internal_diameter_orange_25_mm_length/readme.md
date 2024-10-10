@@ -122,6 +122,18 @@ dice
 reward
 potato
 near |  
+| bip_39_word_no_space_1 | simple |  
+| bip_39_word_no_space_10 | simpleaccounttoddlerwisdombodydicerewardpotatoneartennis |  
+| bip_39_word_no_space_11 | simpleaccounttoddlerwisdombodydicerewardpotatoneartennisinch |  
+| bip_39_word_no_space_12 | simpleaccounttoddlerwisdombodydicerewardpotatoneartennisinchalcohol |  
+| bip_39_word_no_space_2 | simpleaccount |  
+| bip_39_word_no_space_3 | simpleaccounttoddler |  
+| bip_39_word_no_space_4 | simpleaccounttoddlerwisdom |  
+| bip_39_word_no_space_5 | simpleaccounttoddlerwisdombody |  
+| bip_39_word_no_space_6 | simpleaccounttoddlerwisdombodydice |  
+| bip_39_word_no_space_7 | simpleaccounttoddlerwisdombodydicereward |  
+| bip_39_word_no_space_8 | simpleaccounttoddlerwisdombodydicerewardpotato |  
+| bip_39_word_no_space_9 | simpleaccounttoddlerwisdombodydicerewardpotatonear |  
 | bip_39_word_space_0 | ['simple', 'account', 'toddler', 'wisdom', 'body', 'dice', 'reward', 'potato', 'near', 'tennis', 'inch', 'alcohol'] |  
 | bip_39_word_space_1 | simple |  
 | bip_39_word_space_10 | simple account toddler wisdom body dice reward potato near tennis |  

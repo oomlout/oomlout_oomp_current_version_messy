@@ -122,6 +122,18 @@ police
 viable
 hurdle
 hammer |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illspellperfectswapproofpoliceviablehurdlehammermore |  
+| bip_39_word_no_space_11 | illspellperfectswapproofpoliceviablehurdlehammermoredecorate |  
+| bip_39_word_no_space_12 | illspellperfectswapproofpoliceviablehurdlehammermoredecorateasthma |  
+| bip_39_word_no_space_2 | illspell |  
+| bip_39_word_no_space_3 | illspellperfect |  
+| bip_39_word_no_space_4 | illspellperfectswap |  
+| bip_39_word_no_space_5 | illspellperfectswapproof |  
+| bip_39_word_no_space_6 | illspellperfectswapproofpolice |  
+| bip_39_word_no_space_7 | illspellperfectswapproofpoliceviable |  
+| bip_39_word_no_space_8 | illspellperfectswapproofpoliceviablehurdle |  
+| bip_39_word_no_space_9 | illspellperfectswapproofpoliceviablehurdlehammer |  
 | bip_39_word_space_0 | ['ill', 'spell', 'perfect', 'swap', 'proof', 'police', 'viable', 'hurdle', 'hammer', 'more', 'decorate', 'asthma'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill spell perfect swap proof police viable hurdle hammer more |  

@@ -122,6 +122,18 @@ car
 industry
 fitness
 swift |  
+| bip_39_word_no_space_1 | furnace |  
+| bip_39_word_no_space_10 | furnacebeforecallironoftencarindustryfitnessswiftdog |  
+| bip_39_word_no_space_11 | furnacebeforecallironoftencarindustryfitnessswiftdogvirtual |  
+| bip_39_word_no_space_12 | furnacebeforecallironoftencarindustryfitnessswiftdogvirtualapril |  
+| bip_39_word_no_space_2 | furnacebefore |  
+| bip_39_word_no_space_3 | furnacebeforecall |  
+| bip_39_word_no_space_4 | furnacebeforecalliron |  
+| bip_39_word_no_space_5 | furnacebeforecallironoften |  
+| bip_39_word_no_space_6 | furnacebeforecallironoftencar |  
+| bip_39_word_no_space_7 | furnacebeforecallironoftencarindustry |  
+| bip_39_word_no_space_8 | furnacebeforecallironoftencarindustryfitness |  
+| bip_39_word_no_space_9 | furnacebeforecallironoftencarindustryfitnessswift |  
 | bip_39_word_space_0 | ['furnace', 'before', 'call', 'iron', 'often', 'car', 'industry', 'fitness', 'swift', 'dog', 'virtual', 'april'] |  
 | bip_39_word_space_1 | furnace |  
 | bip_39_word_space_10 | furnace before call iron often car industry fitness swift dog |  

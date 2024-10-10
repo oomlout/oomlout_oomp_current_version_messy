@@ -124,6 +124,18 @@ travel
 capital
 erupt
 either |  
+| bip_39_word_no_space_1 | throw |  
+| bip_39_word_no_space_10 | throwaroundtodaytheoryunawaretravelcapitalerupteithertoy |  
+| bip_39_word_no_space_11 | throwaroundtodaytheoryunawaretravelcapitalerupteithertoypoint |  
+| bip_39_word_no_space_12 | throwaroundtodaytheoryunawaretravelcapitalerupteithertoypointarrow |  
+| bip_39_word_no_space_2 | throwaround |  
+| bip_39_word_no_space_3 | throwaroundtoday |  
+| bip_39_word_no_space_4 | throwaroundtodaytheory |  
+| bip_39_word_no_space_5 | throwaroundtodaytheoryunaware |  
+| bip_39_word_no_space_6 | throwaroundtodaytheoryunawaretravel |  
+| bip_39_word_no_space_7 | throwaroundtodaytheoryunawaretravelcapital |  
+| bip_39_word_no_space_8 | throwaroundtodaytheoryunawaretravelcapitalerupt |  
+| bip_39_word_no_space_9 | throwaroundtodaytheoryunawaretravelcapitalerupteither |  
 | bip_39_word_space_0 | ['throw', 'around', 'today', 'theory', 'unaware', 'travel', 'capital', 'erupt', 'either', 'toy', 'point', 'arrow'] |  
 | bip_39_word_space_1 | throw |  
 | bip_39_word_space_10 | throw around today theory unaware travel capital erupt either toy |  

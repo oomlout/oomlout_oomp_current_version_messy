@@ -122,6 +122,18 @@ expose
 stem
 century
 weapon |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | waysightcleverfevercraftexposestemcenturyweapongroup |  
+| bip_39_word_no_space_11 | waysightcleverfevercraftexposestemcenturyweapongroupslide |  
+| bip_39_word_no_space_12 | waysightcleverfevercraftexposestemcenturyweapongroupslideancient |  
+| bip_39_word_no_space_2 | waysight |  
+| bip_39_word_no_space_3 | waysightclever |  
+| bip_39_word_no_space_4 | waysightcleverfever |  
+| bip_39_word_no_space_5 | waysightcleverfevercraft |  
+| bip_39_word_no_space_6 | waysightcleverfevercraftexpose |  
+| bip_39_word_no_space_7 | waysightcleverfevercraftexposestem |  
+| bip_39_word_no_space_8 | waysightcleverfevercraftexposestemcentury |  
+| bip_39_word_no_space_9 | waysightcleverfevercraftexposestemcenturyweapon |  
 | bip_39_word_space_0 | ['way', 'sight', 'clever', 'fever', 'craft', 'expose', 'stem', 'century', 'weapon', 'group', 'slide', 'ancient'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way sight clever fever craft expose stem century weapon group |  

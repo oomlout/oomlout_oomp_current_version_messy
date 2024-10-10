@@ -122,6 +122,18 @@ artwork
 client
 because
 broken |  
+| bip_39_word_no_space_1 | economy |  
+| bip_39_word_no_space_10 | economyplasticspecialdebatebounceartworkclientbecausebrokenmidnight |  
+| bip_39_word_no_space_11 | economyplasticspecialdebatebounceartworkclientbecausebrokenmidnightdanger |  
+| bip_39_word_no_space_12 | economyplasticspecialdebatebounceartworkclientbecausebrokenmidnightdangerabout |  
+| bip_39_word_no_space_2 | economyplastic |  
+| bip_39_word_no_space_3 | economyplasticspecial |  
+| bip_39_word_no_space_4 | economyplasticspecialdebate |  
+| bip_39_word_no_space_5 | economyplasticspecialdebatebounce |  
+| bip_39_word_no_space_6 | economyplasticspecialdebatebounceartwork |  
+| bip_39_word_no_space_7 | economyplasticspecialdebatebounceartworkclient |  
+| bip_39_word_no_space_8 | economyplasticspecialdebatebounceartworkclientbecause |  
+| bip_39_word_no_space_9 | economyplasticspecialdebatebounceartworkclientbecausebroken |  
 | bip_39_word_space_0 | ['economy', 'plastic', 'special', 'debate', 'bounce', 'artwork', 'client', 'because', 'broken', 'midnight', 'danger', 'about'] |  
 | bip_39_word_space_1 | economy |  
 | bip_39_word_space_10 | economy plastic special debate bounce artwork client because broken midnight |  

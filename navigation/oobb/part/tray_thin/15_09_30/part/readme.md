@@ -122,6 +122,18 @@ border
 sleep
 sudden
 math |  
+| bip_39_word_no_space_1 | candy |  
+| bip_39_word_no_space_10 | candyaddicttreatproofgatebordersleepsuddenmathtank |  
+| bip_39_word_no_space_11 | candyaddicttreatproofgatebordersleepsuddenmathtankchef |  
+| bip_39_word_no_space_12 | candyaddicttreatproofgatebordersleepsuddenmathtankchefalmost |  
+| bip_39_word_no_space_2 | candyaddict |  
+| bip_39_word_no_space_3 | candyaddicttreat |  
+| bip_39_word_no_space_4 | candyaddicttreatproof |  
+| bip_39_word_no_space_5 | candyaddicttreatproofgate |  
+| bip_39_word_no_space_6 | candyaddicttreatproofgateborder |  
+| bip_39_word_no_space_7 | candyaddicttreatproofgatebordersleep |  
+| bip_39_word_no_space_8 | candyaddicttreatproofgatebordersleepsudden |  
+| bip_39_word_no_space_9 | candyaddicttreatproofgatebordersleepsuddenmath |  
 | bip_39_word_space_0 | ['candy', 'addict', 'treat', 'proof', 'gate', 'border', 'sleep', 'sudden', 'math', 'tank', 'chef', 'almost'] |  
 | bip_39_word_space_1 | candy |  
 | bip_39_word_space_10 | candy addict treat proof gate border sleep sudden math tank |  

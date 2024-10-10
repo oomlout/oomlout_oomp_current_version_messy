@@ -122,6 +122,18 @@ regret
 buffalo
 hole
 evoke |  
+| bip_39_word_no_space_1 | green |  
+| bip_39_word_no_space_10 | greeneasysolutionconfirmanyregretbuffaloholeevokepeanut |  
+| bip_39_word_no_space_11 | greeneasysolutionconfirmanyregretbuffaloholeevokepeanutwhen |  
+| bip_39_word_no_space_12 | greeneasysolutionconfirmanyregretbuffaloholeevokepeanutwhenarch |  
+| bip_39_word_no_space_2 | greeneasy |  
+| bip_39_word_no_space_3 | greeneasysolution |  
+| bip_39_word_no_space_4 | greeneasysolutionconfirm |  
+| bip_39_word_no_space_5 | greeneasysolutionconfirmany |  
+| bip_39_word_no_space_6 | greeneasysolutionconfirmanyregret |  
+| bip_39_word_no_space_7 | greeneasysolutionconfirmanyregretbuffalo |  
+| bip_39_word_no_space_8 | greeneasysolutionconfirmanyregretbuffalohole |  
+| bip_39_word_no_space_9 | greeneasysolutionconfirmanyregretbuffaloholeevoke |  
 | bip_39_word_space_0 | ['green', 'easy', 'solution', 'confirm', 'any', 'regret', 'buffalo', 'hole', 'evoke', 'peanut', 'when', 'arch'] |  
 | bip_39_word_space_1 | green |  
 | bip_39_word_space_10 | green easy solution confirm any regret buffalo hole evoke peanut |  

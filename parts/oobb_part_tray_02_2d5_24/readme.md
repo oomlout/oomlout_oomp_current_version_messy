@@ -122,6 +122,18 @@ bundle
 bid
 fee
 true |  
+| bip_39_word_no_space_1 | rude |  
+| bip_39_word_no_space_10 | rudeshoveadvancescripttwinbundlebidfeetrueafford |  
+| bip_39_word_no_space_11 | rudeshoveadvancescripttwinbundlebidfeetrueaffordvolcano |  
+| bip_39_word_no_space_12 | rudeshoveadvancescripttwinbundlebidfeetrueaffordvolcanoattack |  
+| bip_39_word_no_space_2 | rudeshove |  
+| bip_39_word_no_space_3 | rudeshoveadvance |  
+| bip_39_word_no_space_4 | rudeshoveadvancescript |  
+| bip_39_word_no_space_5 | rudeshoveadvancescripttwin |  
+| bip_39_word_no_space_6 | rudeshoveadvancescripttwinbundle |  
+| bip_39_word_no_space_7 | rudeshoveadvancescripttwinbundlebid |  
+| bip_39_word_no_space_8 | rudeshoveadvancescripttwinbundlebidfee |  
+| bip_39_word_no_space_9 | rudeshoveadvancescripttwinbundlebidfeetrue |  
 | bip_39_word_space_0 | ['rude', 'shove', 'advance', 'script', 'twin', 'bundle', 'bid', 'fee', 'true', 'afford', 'volcano', 'attack'] |  
 | bip_39_word_space_1 | rude |  
 | bip_39_word_space_10 | rude shove advance script twin bundle bid fee true afford |  

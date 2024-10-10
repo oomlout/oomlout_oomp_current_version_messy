@@ -122,6 +122,18 @@ spare
 miracle
 scissors
 infant |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officeturkeyphonejewellemonsparemiraclescissorsinfantflag |  
+| bip_39_word_no_space_11 | officeturkeyphonejewellemonsparemiraclescissorsinfantflagjacket |  
+| bip_39_word_no_space_12 | officeturkeyphonejewellemonsparemiraclescissorsinfantflagjacketanger |  
+| bip_39_word_no_space_2 | officeturkey |  
+| bip_39_word_no_space_3 | officeturkeyphone |  
+| bip_39_word_no_space_4 | officeturkeyphonejewel |  
+| bip_39_word_no_space_5 | officeturkeyphonejewellemon |  
+| bip_39_word_no_space_6 | officeturkeyphonejewellemonspare |  
+| bip_39_word_no_space_7 | officeturkeyphonejewellemonsparemiracle |  
+| bip_39_word_no_space_8 | officeturkeyphonejewellemonsparemiraclescissors |  
+| bip_39_word_no_space_9 | officeturkeyphonejewellemonsparemiraclescissorsinfant |  
 | bip_39_word_space_0 | ['office', 'turkey', 'phone', 'jewel', 'lemon', 'spare', 'miracle', 'scissors', 'infant', 'flag', 'jacket', 'anger'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office turkey phone jewel lemon spare miracle scissors infant flag |  

@@ -122,6 +122,18 @@ stadium
 promote
 feed
 recall |  
+| bip_39_word_no_space_1 | cruise |  
+| bip_39_word_no_space_10 | cruisegreatengineintactgaragestadiumpromotefeedrecallextend |  
+| bip_39_word_no_space_11 | cruisegreatengineintactgaragestadiumpromotefeedrecallextendgovern |  
+| bip_39_word_no_space_12 | cruisegreatengineintactgaragestadiumpromotefeedrecallextendgovernaddict |  
+| bip_39_word_no_space_2 | cruisegreat |  
+| bip_39_word_no_space_3 | cruisegreatengine |  
+| bip_39_word_no_space_4 | cruisegreatengineintact |  
+| bip_39_word_no_space_5 | cruisegreatengineintactgarage |  
+| bip_39_word_no_space_6 | cruisegreatengineintactgaragestadium |  
+| bip_39_word_no_space_7 | cruisegreatengineintactgaragestadiumpromote |  
+| bip_39_word_no_space_8 | cruisegreatengineintactgaragestadiumpromotefeed |  
+| bip_39_word_no_space_9 | cruisegreatengineintactgaragestadiumpromotefeedrecall |  
 | bip_39_word_space_0 | ['cruise', 'great', 'engine', 'intact', 'garage', 'stadium', 'promote', 'feed', 'recall', 'extend', 'govern', 'addict'] |  
 | bip_39_word_space_1 | cruise |  
 | bip_39_word_space_10 | cruise great engine intact garage stadium promote feed recall extend |  

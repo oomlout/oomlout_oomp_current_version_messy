@@ -122,6 +122,18 @@ execute
 scissors
 theme
 setup |  
+| bip_39_word_no_space_1 | target |  
+| bip_39_word_no_space_10 | targetanxietyfootlatershockexecutescissorsthemesetupvault |  
+| bip_39_word_no_space_11 | targetanxietyfootlatershockexecutescissorsthemesetupvaultgap |  
+| bip_39_word_no_space_12 | targetanxietyfootlatershockexecutescissorsthemesetupvaultgapage |  
+| bip_39_word_no_space_2 | targetanxiety |  
+| bip_39_word_no_space_3 | targetanxietyfoot |  
+| bip_39_word_no_space_4 | targetanxietyfootlater |  
+| bip_39_word_no_space_5 | targetanxietyfootlatershock |  
+| bip_39_word_no_space_6 | targetanxietyfootlatershockexecute |  
+| bip_39_word_no_space_7 | targetanxietyfootlatershockexecutescissors |  
+| bip_39_word_no_space_8 | targetanxietyfootlatershockexecutescissorstheme |  
+| bip_39_word_no_space_9 | targetanxietyfootlatershockexecutescissorsthemesetup |  
 | bip_39_word_space_0 | ['target', 'anxiety', 'foot', 'later', 'shock', 'execute', 'scissors', 'theme', 'setup', 'vault', 'gap', 'age'] |  
 | bip_39_word_space_1 | target |  
 | bip_39_word_space_10 | target anxiety foot later shock execute scissors theme setup vault |  

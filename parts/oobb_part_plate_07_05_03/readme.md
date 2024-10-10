@@ -122,6 +122,18 @@ horn
 course
 label
 belt |  
+| bip_39_word_no_space_1 | valley |  
+| bip_39_word_no_space_10 | valleyhybriddraftenginebirdhorncourselabelbeltlyrics |  
+| bip_39_word_no_space_11 | valleyhybriddraftenginebirdhorncourselabelbeltlyricsomit |  
+| bip_39_word_no_space_12 | valleyhybriddraftenginebirdhorncourselabelbeltlyricsomitaerobic |  
+| bip_39_word_no_space_2 | valleyhybrid |  
+| bip_39_word_no_space_3 | valleyhybriddraft |  
+| bip_39_word_no_space_4 | valleyhybriddraftengine |  
+| bip_39_word_no_space_5 | valleyhybriddraftenginebird |  
+| bip_39_word_no_space_6 | valleyhybriddraftenginebirdhorn |  
+| bip_39_word_no_space_7 | valleyhybriddraftenginebirdhorncourse |  
+| bip_39_word_no_space_8 | valleyhybriddraftenginebirdhorncourselabel |  
+| bip_39_word_no_space_9 | valleyhybriddraftenginebirdhorncourselabelbelt |  
 | bip_39_word_space_0 | ['valley', 'hybrid', 'draft', 'engine', 'bird', 'horn', 'course', 'label', 'belt', 'lyrics', 'omit', 'aerobic'] |  
 | bip_39_word_space_1 | valley |  
 | bip_39_word_space_10 | valley hybrid draft engine bird horn course label belt lyrics |  

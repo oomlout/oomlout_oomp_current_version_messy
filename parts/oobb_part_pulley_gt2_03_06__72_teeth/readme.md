@@ -122,6 +122,18 @@ twenty
 food
 error
 guess |  
+| bip_39_word_no_space_1 | universe |  
+| bip_39_word_no_space_10 | universewhatcrashdesignregrettwentyfooderrorguessinput |  
+| bip_39_word_no_space_11 | universewhatcrashdesignregrettwentyfooderrorguessinputwheel |  
+| bip_39_word_no_space_12 | universewhatcrashdesignregrettwentyfooderrorguessinputwheelanimal |  
+| bip_39_word_no_space_2 | universewhat |  
+| bip_39_word_no_space_3 | universewhatcrash |  
+| bip_39_word_no_space_4 | universewhatcrashdesign |  
+| bip_39_word_no_space_5 | universewhatcrashdesignregret |  
+| bip_39_word_no_space_6 | universewhatcrashdesignregrettwenty |  
+| bip_39_word_no_space_7 | universewhatcrashdesignregrettwentyfood |  
+| bip_39_word_no_space_8 | universewhatcrashdesignregrettwentyfooderror |  
+| bip_39_word_no_space_9 | universewhatcrashdesignregrettwentyfooderrorguess |  
 | bip_39_word_space_0 | ['universe', 'what', 'crash', 'design', 'regret', 'twenty', 'food', 'error', 'guess', 'input', 'wheel', 'animal'] |  
 | bip_39_word_space_1 | universe |  
 | bip_39_word_space_10 | universe what crash design regret twenty food error guess input |  

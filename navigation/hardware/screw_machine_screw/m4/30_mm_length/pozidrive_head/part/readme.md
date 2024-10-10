@@ -122,6 +122,18 @@ topple
 attract
 door
 talent |  
+| bip_39_word_no_space_1 | copy |  
+| bip_39_word_no_space_10 | copyplanetmeaneconomypicturetoppleattractdoortalentupgrade |  
+| bip_39_word_no_space_11 | copyplanetmeaneconomypicturetoppleattractdoortalentupgradefee |  
+| bip_39_word_no_space_12 | copyplanetmeaneconomypicturetoppleattractdoortalentupgradefeearrive |  
+| bip_39_word_no_space_2 | copyplanet |  
+| bip_39_word_no_space_3 | copyplanetmean |  
+| bip_39_word_no_space_4 | copyplanetmeaneconomy |  
+| bip_39_word_no_space_5 | copyplanetmeaneconomypicture |  
+| bip_39_word_no_space_6 | copyplanetmeaneconomypicturetopple |  
+| bip_39_word_no_space_7 | copyplanetmeaneconomypicturetoppleattract |  
+| bip_39_word_no_space_8 | copyplanetmeaneconomypicturetoppleattractdoor |  
+| bip_39_word_no_space_9 | copyplanetmeaneconomypicturetoppleattractdoortalent |  
 | bip_39_word_space_0 | ['copy', 'planet', 'mean', 'economy', 'picture', 'topple', 'attract', 'door', 'talent', 'upgrade', 'fee', 'arrive'] |  
 | bip_39_word_space_1 | copy |  
 | bip_39_word_space_10 | copy planet mean economy picture topple attract door talent upgrade |  

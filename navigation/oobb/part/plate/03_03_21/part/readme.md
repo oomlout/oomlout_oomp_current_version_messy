@@ -122,6 +122,18 @@ document
 donkey
 begin
 sudden |  
+| bip_39_word_no_space_1 | august |  
+| bip_39_word_no_space_10 | augustdogpigeonjunkmachinedocumentdonkeybeginsuddengarment |  
+| bip_39_word_no_space_11 | augustdogpigeonjunkmachinedocumentdonkeybeginsuddengarmentdecrease |  
+| bip_39_word_no_space_12 | augustdogpigeonjunkmachinedocumentdonkeybeginsuddengarmentdecreaseapple |  
+| bip_39_word_no_space_2 | augustdog |  
+| bip_39_word_no_space_3 | augustdogpigeon |  
+| bip_39_word_no_space_4 | augustdogpigeonjunk |  
+| bip_39_word_no_space_5 | augustdogpigeonjunkmachine |  
+| bip_39_word_no_space_6 | augustdogpigeonjunkmachinedocument |  
+| bip_39_word_no_space_7 | augustdogpigeonjunkmachinedocumentdonkey |  
+| bip_39_word_no_space_8 | augustdogpigeonjunkmachinedocumentdonkeybegin |  
+| bip_39_word_no_space_9 | augustdogpigeonjunkmachinedocumentdonkeybeginsudden |  
 | bip_39_word_space_0 | ['august', 'dog', 'pigeon', 'junk', 'machine', 'document', 'donkey', 'begin', 'sudden', 'garment', 'decrease', 'apple'] |  
 | bip_39_word_space_1 | august |  
 | bip_39_word_space_10 | august dog pigeon junk machine document donkey begin sudden garment |  

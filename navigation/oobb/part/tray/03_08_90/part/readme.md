@@ -122,6 +122,18 @@ dentist
 bleak
 clump
 post |  
+| bip_39_word_no_space_1 | top |  
+| bip_39_word_no_space_10 | topsensewinomitnervedentistbleakclumppostcouch |  
+| bip_39_word_no_space_11 | topsensewinomitnervedentistbleakclumppostcouchholiday |  
+| bip_39_word_no_space_12 | topsensewinomitnervedentistbleakclumppostcouchholidayarmed |  
+| bip_39_word_no_space_2 | topsense |  
+| bip_39_word_no_space_3 | topsensewin |  
+| bip_39_word_no_space_4 | topsensewinomit |  
+| bip_39_word_no_space_5 | topsensewinomitnerve |  
+| bip_39_word_no_space_6 | topsensewinomitnervedentist |  
+| bip_39_word_no_space_7 | topsensewinomitnervedentistbleak |  
+| bip_39_word_no_space_8 | topsensewinomitnervedentistbleakclump |  
+| bip_39_word_no_space_9 | topsensewinomitnervedentistbleakclumppost |  
 | bip_39_word_space_0 | ['top', 'sense', 'win', 'omit', 'nerve', 'dentist', 'bleak', 'clump', 'post', 'couch', 'holiday', 'armed'] |  
 | bip_39_word_space_1 | top |  
 | bip_39_word_space_10 | top sense win omit nerve dentist bleak clump post couch |  

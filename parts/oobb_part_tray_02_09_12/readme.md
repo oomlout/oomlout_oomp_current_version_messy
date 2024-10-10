@@ -122,6 +122,18 @@ off
 wish
 capable
 much |  
+| bip_39_word_no_space_1 | fish |  
+| bip_39_word_no_space_10 | fishleaderfinishorchardrebuildoffwishcapablemuchused |  
+| bip_39_word_no_space_11 | fishleaderfinishorchardrebuildoffwishcapablemuchuseddragon |  
+| bip_39_word_no_space_12 | fishleaderfinishorchardrebuildoffwishcapablemuchuseddragonabout |  
+| bip_39_word_no_space_2 | fishleader |  
+| bip_39_word_no_space_3 | fishleaderfinish |  
+| bip_39_word_no_space_4 | fishleaderfinishorchard |  
+| bip_39_word_no_space_5 | fishleaderfinishorchardrebuild |  
+| bip_39_word_no_space_6 | fishleaderfinishorchardrebuildoff |  
+| bip_39_word_no_space_7 | fishleaderfinishorchardrebuildoffwish |  
+| bip_39_word_no_space_8 | fishleaderfinishorchardrebuildoffwishcapable |  
+| bip_39_word_no_space_9 | fishleaderfinishorchardrebuildoffwishcapablemuch |  
 | bip_39_word_space_0 | ['fish', 'leader', 'finish', 'orchard', 'rebuild', 'off', 'wish', 'capable', 'much', 'used', 'dragon', 'about'] |  
 | bip_39_word_space_1 | fish |  
 | bip_39_word_space_10 | fish leader finish orchard rebuild off wish capable much used |  

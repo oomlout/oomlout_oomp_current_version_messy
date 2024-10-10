@@ -122,6 +122,18 @@ replace
 orbit
 barrel
 area |  
+| bip_39_word_no_space_1 | grant |  
+| bip_39_word_no_space_10 | granthalfpropertyroastyoungreplaceorbitbarrelarearabbit |  
+| bip_39_word_no_space_11 | granthalfpropertyroastyoungreplaceorbitbarrelarearabbittragic |  
+| bip_39_word_no_space_12 | granthalfpropertyroastyoungreplaceorbitbarrelarearabbittragicabsorb |  
+| bip_39_word_no_space_2 | granthalf |  
+| bip_39_word_no_space_3 | granthalfproperty |  
+| bip_39_word_no_space_4 | granthalfpropertyroast |  
+| bip_39_word_no_space_5 | granthalfpropertyroastyoung |  
+| bip_39_word_no_space_6 | granthalfpropertyroastyoungreplace |  
+| bip_39_word_no_space_7 | granthalfpropertyroastyoungreplaceorbit |  
+| bip_39_word_no_space_8 | granthalfpropertyroastyoungreplaceorbitbarrel |  
+| bip_39_word_no_space_9 | granthalfpropertyroastyoungreplaceorbitbarrelarea |  
 | bip_39_word_space_0 | ['grant', 'half', 'property', 'roast', 'young', 'replace', 'orbit', 'barrel', 'area', 'rabbit', 'tragic', 'absorb'] |  
 | bip_39_word_space_1 | grant |  
 | bip_39_word_space_10 | grant half property roast young replace orbit barrel area rabbit |  

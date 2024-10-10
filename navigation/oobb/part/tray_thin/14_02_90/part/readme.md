@@ -122,6 +122,18 @@ crumble
 struggle
 cup
 margin |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumcabingigglesuggestneedcrumblestrugglecupmarginwinner |  
+| bip_39_word_no_space_11 | albumcabingigglesuggestneedcrumblestrugglecupmarginwinnermule |  
+| bip_39_word_no_space_12 | albumcabingigglesuggestneedcrumblestrugglecupmarginwinnermuleapprove |  
+| bip_39_word_no_space_2 | albumcabin |  
+| bip_39_word_no_space_3 | albumcabingiggle |  
+| bip_39_word_no_space_4 | albumcabingigglesuggest |  
+| bip_39_word_no_space_5 | albumcabingigglesuggestneed |  
+| bip_39_word_no_space_6 | albumcabingigglesuggestneedcrumble |  
+| bip_39_word_no_space_7 | albumcabingigglesuggestneedcrumblestruggle |  
+| bip_39_word_no_space_8 | albumcabingigglesuggestneedcrumblestrugglecup |  
+| bip_39_word_no_space_9 | albumcabingigglesuggestneedcrumblestrugglecupmargin |  
 | bip_39_word_space_0 | ['album', 'cabin', 'giggle', 'suggest', 'need', 'crumble', 'struggle', 'cup', 'margin', 'winner', 'mule', 'approve'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album cabin giggle suggest need crumble struggle cup margin winner |  

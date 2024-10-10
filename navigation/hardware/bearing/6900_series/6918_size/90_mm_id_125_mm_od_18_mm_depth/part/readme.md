@@ -122,6 +122,18 @@ social
 junior
 test
 benefit |  
+| bip_39_word_no_space_1 | enhance |  
+| bip_39_word_no_space_10 | enhanceuselesstrendblastjealoussocialjuniortestbenefittwist |  
+| bip_39_word_no_space_11 | enhanceuselesstrendblastjealoussocialjuniortestbenefittwistcompany |  
+| bip_39_word_no_space_12 | enhanceuselesstrendblastjealoussocialjuniortestbenefittwistcompanyabsorb |  
+| bip_39_word_no_space_2 | enhanceuseless |  
+| bip_39_word_no_space_3 | enhanceuselesstrend |  
+| bip_39_word_no_space_4 | enhanceuselesstrendblast |  
+| bip_39_word_no_space_5 | enhanceuselesstrendblastjealous |  
+| bip_39_word_no_space_6 | enhanceuselesstrendblastjealoussocial |  
+| bip_39_word_no_space_7 | enhanceuselesstrendblastjealoussocialjunior |  
+| bip_39_word_no_space_8 | enhanceuselesstrendblastjealoussocialjuniortest |  
+| bip_39_word_no_space_9 | enhanceuselesstrendblastjealoussocialjuniortestbenefit |  
 | bip_39_word_space_0 | ['enhance', 'useless', 'trend', 'blast', 'jealous', 'social', 'junior', 'test', 'benefit', 'twist', 'company', 'absorb'] |  
 | bip_39_word_space_1 | enhance |  
 | bip_39_word_space_10 | enhance useless trend blast jealous social junior test benefit twist |  

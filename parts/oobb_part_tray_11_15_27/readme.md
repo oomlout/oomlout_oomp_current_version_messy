@@ -122,6 +122,18 @@ vault
 envelope
 drift
 cinnamon |  
+| bip_39_word_no_space_1 | visit |  
+| bip_39_word_no_space_10 | visitlittlesteeltodayclubvaultenvelopedriftcinnamondecrease |  
+| bip_39_word_no_space_11 | visitlittlesteeltodayclubvaultenvelopedriftcinnamondecreaseventure |  
+| bip_39_word_no_space_12 | visitlittlesteeltodayclubvaultenvelopedriftcinnamondecreaseventureargue |  
+| bip_39_word_no_space_2 | visitlittle |  
+| bip_39_word_no_space_3 | visitlittlesteel |  
+| bip_39_word_no_space_4 | visitlittlesteeltoday |  
+| bip_39_word_no_space_5 | visitlittlesteeltodayclub |  
+| bip_39_word_no_space_6 | visitlittlesteeltodayclubvault |  
+| bip_39_word_no_space_7 | visitlittlesteeltodayclubvaultenvelope |  
+| bip_39_word_no_space_8 | visitlittlesteeltodayclubvaultenvelopedrift |  
+| bip_39_word_no_space_9 | visitlittlesteeltodayclubvaultenvelopedriftcinnamon |  
 | bip_39_word_space_0 | ['visit', 'little', 'steel', 'today', 'club', 'vault', 'envelope', 'drift', 'cinnamon', 'decrease', 'venture', 'argue'] |  
 | bip_39_word_space_1 | visit |  
 | bip_39_word_space_10 | visit little steel today club vault envelope drift cinnamon decrease |  

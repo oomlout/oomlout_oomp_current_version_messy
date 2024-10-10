@@ -122,6 +122,18 @@ pencil
 pipe
 green
 uncover |  
+| bip_39_word_no_space_1 | carry |  
+| bip_39_word_no_space_10 | carryiceunfolddrivesnakepencilpipegreenuncoveradd |  
+| bip_39_word_no_space_11 | carryiceunfolddrivesnakepencilpipegreenuncoveraddplate |  
+| bip_39_word_no_space_12 | carryiceunfolddrivesnakepencilpipegreenuncoveraddplateanger |  
+| bip_39_word_no_space_2 | carryice |  
+| bip_39_word_no_space_3 | carryiceunfold |  
+| bip_39_word_no_space_4 | carryiceunfolddrive |  
+| bip_39_word_no_space_5 | carryiceunfolddrivesnake |  
+| bip_39_word_no_space_6 | carryiceunfolddrivesnakepencil |  
+| bip_39_word_no_space_7 | carryiceunfolddrivesnakepencilpipe |  
+| bip_39_word_no_space_8 | carryiceunfolddrivesnakepencilpipegreen |  
+| bip_39_word_no_space_9 | carryiceunfolddrivesnakepencilpipegreenuncover |  
 | bip_39_word_space_0 | ['carry', 'ice', 'unfold', 'drive', 'snake', 'pencil', 'pipe', 'green', 'uncover', 'add', 'plate', 'anger'] |  
 | bip_39_word_space_1 | carry |  
 | bip_39_word_space_10 | carry ice unfold drive snake pencil pipe green uncover add |  

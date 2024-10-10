@@ -122,6 +122,18 @@ leisure
 champion
 scorpion
 insect |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasoncashseatearnsunnyleisurechampionscorpioninsectfluid |  
+| bip_39_word_no_space_11 | seasoncashseatearnsunnyleisurechampionscorpioninsectfluidslab |  
+| bip_39_word_no_space_12 | seasoncashseatearnsunnyleisurechampionscorpioninsectfluidslababsorb |  
+| bip_39_word_no_space_2 | seasoncash |  
+| bip_39_word_no_space_3 | seasoncashseat |  
+| bip_39_word_no_space_4 | seasoncashseatearn |  
+| bip_39_word_no_space_5 | seasoncashseatearnsunny |  
+| bip_39_word_no_space_6 | seasoncashseatearnsunnyleisure |  
+| bip_39_word_no_space_7 | seasoncashseatearnsunnyleisurechampion |  
+| bip_39_word_no_space_8 | seasoncashseatearnsunnyleisurechampionscorpion |  
+| bip_39_word_no_space_9 | seasoncashseatearnsunnyleisurechampionscorpioninsect |  
 | bip_39_word_space_0 | ['season', 'cash', 'seat', 'earn', 'sunny', 'leisure', 'champion', 'scorpion', 'insect', 'fluid', 'slab', 'absorb'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season cash seat earn sunny leisure champion scorpion insect fluid |  

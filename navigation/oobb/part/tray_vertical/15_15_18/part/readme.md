@@ -122,6 +122,18 @@ oval
 pupil
 stem
 oil |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofbrainlayerbusyliquidovalpupilstemoilexpand |  
+| bip_39_word_no_space_11 | proofbrainlayerbusyliquidovalpupilstemoilexpandprivate |  
+| bip_39_word_no_space_12 | proofbrainlayerbusyliquidovalpupilstemoilexpandprivatearm |  
+| bip_39_word_no_space_2 | proofbrain |  
+| bip_39_word_no_space_3 | proofbrainlayer |  
+| bip_39_word_no_space_4 | proofbrainlayerbusy |  
+| bip_39_word_no_space_5 | proofbrainlayerbusyliquid |  
+| bip_39_word_no_space_6 | proofbrainlayerbusyliquidoval |  
+| bip_39_word_no_space_7 | proofbrainlayerbusyliquidovalpupil |  
+| bip_39_word_no_space_8 | proofbrainlayerbusyliquidovalpupilstem |  
+| bip_39_word_no_space_9 | proofbrainlayerbusyliquidovalpupilstemoil |  
 | bip_39_word_space_0 | ['proof', 'brain', 'layer', 'busy', 'liquid', 'oval', 'pupil', 'stem', 'oil', 'expand', 'private', 'arm'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof brain layer busy liquid oval pupil stem oil expand |  

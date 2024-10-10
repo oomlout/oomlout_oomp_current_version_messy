@@ -122,6 +122,18 @@ day
 burden
 draw
 firm |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accessfamousnuclearfoilskirtdayburdendrawfirmpilot |  
+| bip_39_word_no_space_11 | accessfamousnuclearfoilskirtdayburdendrawfirmpilotgym |  
+| bip_39_word_no_space_12 | accessfamousnuclearfoilskirtdayburdendrawfirmpilotgymautumn |  
+| bip_39_word_no_space_2 | accessfamous |  
+| bip_39_word_no_space_3 | accessfamousnuclear |  
+| bip_39_word_no_space_4 | accessfamousnuclearfoil |  
+| bip_39_word_no_space_5 | accessfamousnuclearfoilskirt |  
+| bip_39_word_no_space_6 | accessfamousnuclearfoilskirtday |  
+| bip_39_word_no_space_7 | accessfamousnuclearfoilskirtdayburden |  
+| bip_39_word_no_space_8 | accessfamousnuclearfoilskirtdayburdendraw |  
+| bip_39_word_no_space_9 | accessfamousnuclearfoilskirtdayburdendrawfirm |  
 | bip_39_word_space_0 | ['access', 'famous', 'nuclear', 'foil', 'skirt', 'day', 'burden', 'draw', 'firm', 'pilot', 'gym', 'autumn'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access famous nuclear foil skirt day burden draw firm pilot |  

@@ -122,6 +122,18 @@ view
 access
 because
 describe |  
+| bip_39_word_no_space_1 | income |  
+| bip_39_word_no_space_10 | incomepleasefocusliquidrookieviewaccessbecausedescribebecause |  
+| bip_39_word_no_space_11 | incomepleasefocusliquidrookieviewaccessbecausedescribebecausequick |  
+| bip_39_word_no_space_12 | incomepleasefocusliquidrookieviewaccessbecausedescribebecausequickaspect |  
+| bip_39_word_no_space_2 | incomeplease |  
+| bip_39_word_no_space_3 | incomepleasefocus |  
+| bip_39_word_no_space_4 | incomepleasefocusliquid |  
+| bip_39_word_no_space_5 | incomepleasefocusliquidrookie |  
+| bip_39_word_no_space_6 | incomepleasefocusliquidrookieview |  
+| bip_39_word_no_space_7 | incomepleasefocusliquidrookieviewaccess |  
+| bip_39_word_no_space_8 | incomepleasefocusliquidrookieviewaccessbecause |  
+| bip_39_word_no_space_9 | incomepleasefocusliquidrookieviewaccessbecausedescribe |  
 | bip_39_word_space_0 | ['income', 'please', 'focus', 'liquid', 'rookie', 'view', 'access', 'because', 'describe', 'because', 'quick', 'aspect'] |  
 | bip_39_word_space_1 | income |  
 | bip_39_word_space_10 | income please focus liquid rookie view access because describe because |  

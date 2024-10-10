@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'project
   diet
 
   load'
+bip_39_word_no_space_1: project
+bip_39_word_no_space_10: projectsportethicsenoughstepfloorstreetdietloadspeed
+bip_39_word_no_space_11: projectsportethicsenoughstepfloorstreetdietloadspeedaerobic
+bip_39_word_no_space_12: projectsportethicsenoughstepfloorstreetdietloadspeedaerobicarea
+bip_39_word_no_space_2: projectsport
+bip_39_word_no_space_3: projectsportethics
+bip_39_word_no_space_4: projectsportethicsenough
+bip_39_word_no_space_5: projectsportethicsenoughstep
+bip_39_word_no_space_6: projectsportethicsenoughstepfloor
+bip_39_word_no_space_7: projectsportethicsenoughstepfloorstreet
+bip_39_word_no_space_8: projectsportethicsenoughstepfloorstreetdiet
+bip_39_word_no_space_9: projectsportethicsenoughstepfloorstreetdietload
 bip_39_word_space_0:
 - project
 - sport

@@ -122,6 +122,18 @@ oak
 south
 side
 message |  
+| bip_39_word_no_space_1 | divide |  
+| bip_39_word_no_space_10 | divideendorsecrunchperfectcastleoaksouthsidemessagedesk |  
+| bip_39_word_no_space_11 | divideendorsecrunchperfectcastleoaksouthsidemessagedeskloud |  
+| bip_39_word_no_space_12 | divideendorsecrunchperfectcastleoaksouthsidemessagedeskloudaunt |  
+| bip_39_word_no_space_2 | divideendorse |  
+| bip_39_word_no_space_3 | divideendorsecrunch |  
+| bip_39_word_no_space_4 | divideendorsecrunchperfect |  
+| bip_39_word_no_space_5 | divideendorsecrunchperfectcastle |  
+| bip_39_word_no_space_6 | divideendorsecrunchperfectcastleoak |  
+| bip_39_word_no_space_7 | divideendorsecrunchperfectcastleoaksouth |  
+| bip_39_word_no_space_8 | divideendorsecrunchperfectcastleoaksouthside |  
+| bip_39_word_no_space_9 | divideendorsecrunchperfectcastleoaksouthsidemessage |  
 | bip_39_word_space_0 | ['divide', 'endorse', 'crunch', 'perfect', 'castle', 'oak', 'south', 'side', 'message', 'desk', 'loud', 'aunt'] |  
 | bip_39_word_space_1 | divide |  
 | bip_39_word_space_10 | divide endorse crunch perfect castle oak south side message desk |  

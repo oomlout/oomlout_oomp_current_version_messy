@@ -122,6 +122,18 @@ satoshi
 entry
 chunk
 sting |  
+| bip_39_word_no_space_1 | basic |  
+| bip_39_word_no_space_10 | basicvacuumtypehubdismisssatoshientrychunkstingrefuse |  
+| bip_39_word_no_space_11 | basicvacuumtypehubdismisssatoshientrychunkstingrefusenetwork |  
+| bip_39_word_no_space_12 | basicvacuumtypehubdismisssatoshientrychunkstingrefusenetworkaccount |  
+| bip_39_word_no_space_2 | basicvacuum |  
+| bip_39_word_no_space_3 | basicvacuumtype |  
+| bip_39_word_no_space_4 | basicvacuumtypehub |  
+| bip_39_word_no_space_5 | basicvacuumtypehubdismiss |  
+| bip_39_word_no_space_6 | basicvacuumtypehubdismisssatoshi |  
+| bip_39_word_no_space_7 | basicvacuumtypehubdismisssatoshientry |  
+| bip_39_word_no_space_8 | basicvacuumtypehubdismisssatoshientrychunk |  
+| bip_39_word_no_space_9 | basicvacuumtypehubdismisssatoshientrychunksting |  
 | bip_39_word_space_0 | ['basic', 'vacuum', 'type', 'hub', 'dismiss', 'satoshi', 'entry', 'chunk', 'sting', 'refuse', 'network', 'account'] |  
 | bip_39_word_space_1 | basic |  
 | bip_39_word_space_10 | basic vacuum type hub dismiss satoshi entry chunk sting refuse |  

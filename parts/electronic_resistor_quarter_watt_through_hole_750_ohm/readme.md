@@ -122,6 +122,18 @@ warrior
 fitness
 dress
 churn |  
+| bip_39_word_no_space_1 | short |  
+| bip_39_word_no_space_10 | shortacquirelazyexerciseepisodewarriorfitnessdresschurnerosion |  
+| bip_39_word_no_space_11 | shortacquirelazyexerciseepisodewarriorfitnessdresschurnerosionsmart |  
+| bip_39_word_no_space_12 | shortacquirelazyexerciseepisodewarriorfitnessdresschurnerosionsmartapril |  
+| bip_39_word_no_space_2 | shortacquire |  
+| bip_39_word_no_space_3 | shortacquirelazy |  
+| bip_39_word_no_space_4 | shortacquirelazyexercise |  
+| bip_39_word_no_space_5 | shortacquirelazyexerciseepisode |  
+| bip_39_word_no_space_6 | shortacquirelazyexerciseepisodewarrior |  
+| bip_39_word_no_space_7 | shortacquirelazyexerciseepisodewarriorfitness |  
+| bip_39_word_no_space_8 | shortacquirelazyexerciseepisodewarriorfitnessdress |  
+| bip_39_word_no_space_9 | shortacquirelazyexerciseepisodewarriorfitnessdresschurn |  
 | bip_39_word_space_0 | ['short', 'acquire', 'lazy', 'exercise', 'episode', 'warrior', 'fitness', 'dress', 'churn', 'erosion', 'smart', 'april'] |  
 | bip_39_word_space_1 | short |  
 | bip_39_word_space_10 | short acquire lazy exercise episode warrior fitness dress churn erosion |  

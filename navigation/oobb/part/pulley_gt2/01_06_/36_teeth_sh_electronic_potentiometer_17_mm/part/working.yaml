@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'huge
   human
 
   oven'
+bip_39_word_no_space_1: huge
+bip_39_word_no_space_10: hugewestasthmaerosionlefttwinloophumanovenlecture
+bip_39_word_no_space_11: hugewestasthmaerosionlefttwinloophumanovenlecturenice
+bip_39_word_no_space_12: hugewestasthmaerosionlefttwinloophumanovenlectureniceaccess
+bip_39_word_no_space_2: hugewest
+bip_39_word_no_space_3: hugewestasthma
+bip_39_word_no_space_4: hugewestasthmaerosion
+bip_39_word_no_space_5: hugewestasthmaerosionleft
+bip_39_word_no_space_6: hugewestasthmaerosionlefttwin
+bip_39_word_no_space_7: hugewestasthmaerosionlefttwinloop
+bip_39_word_no_space_8: hugewestasthmaerosionlefttwinloophuman
+bip_39_word_no_space_9: hugewestasthmaerosionlefttwinloophumanoven
 bip_39_word_space_0:
 - huge
 - west

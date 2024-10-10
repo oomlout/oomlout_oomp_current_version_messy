@@ -122,6 +122,18 @@ mobile
 lazy
 mouse
 mosquito |  
+| bip_39_word_no_space_1 | motor |  
+| bip_39_word_no_space_10 | motormemorypatientchoicesiegemobilelazymousemosquitogrow |  
+| bip_39_word_no_space_11 | motormemorypatientchoicesiegemobilelazymousemosquitogrowtruck |  
+| bip_39_word_no_space_12 | motormemorypatientchoicesiegemobilelazymousemosquitogrowtruckaddress |  
+| bip_39_word_no_space_2 | motormemory |  
+| bip_39_word_no_space_3 | motormemorypatient |  
+| bip_39_word_no_space_4 | motormemorypatientchoice |  
+| bip_39_word_no_space_5 | motormemorypatientchoicesiege |  
+| bip_39_word_no_space_6 | motormemorypatientchoicesiegemobile |  
+| bip_39_word_no_space_7 | motormemorypatientchoicesiegemobilelazy |  
+| bip_39_word_no_space_8 | motormemorypatientchoicesiegemobilelazymouse |  
+| bip_39_word_no_space_9 | motormemorypatientchoicesiegemobilelazymousemosquito |  
 | bip_39_word_space_0 | ['motor', 'memory', 'patient', 'choice', 'siege', 'mobile', 'lazy', 'mouse', 'mosquito', 'grow', 'truck', 'address'] |  
 | bip_39_word_space_1 | motor |  
 | bip_39_word_space_10 | motor memory patient choice siege mobile lazy mouse mosquito grow |  

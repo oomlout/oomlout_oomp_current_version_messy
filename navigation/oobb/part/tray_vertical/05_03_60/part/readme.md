@@ -122,6 +122,18 @@ bean
 very
 wish
 vendor |  
+| bip_39_word_no_space_1 | topple |  
+| bip_39_word_no_space_10 | toppletongueflatfiscalcolumnbeanverywishvendorignore |  
+| bip_39_word_no_space_11 | toppletongueflatfiscalcolumnbeanverywishvendorignoreketchup |  
+| bip_39_word_no_space_12 | toppletongueflatfiscalcolumnbeanverywishvendorignoreketchupalert |  
+| bip_39_word_no_space_2 | toppletongue |  
+| bip_39_word_no_space_3 | toppletongueflat |  
+| bip_39_word_no_space_4 | toppletongueflatfiscal |  
+| bip_39_word_no_space_5 | toppletongueflatfiscalcolumn |  
+| bip_39_word_no_space_6 | toppletongueflatfiscalcolumnbean |  
+| bip_39_word_no_space_7 | toppletongueflatfiscalcolumnbeanvery |  
+| bip_39_word_no_space_8 | toppletongueflatfiscalcolumnbeanverywish |  
+| bip_39_word_no_space_9 | toppletongueflatfiscalcolumnbeanverywishvendor |  
 | bip_39_word_space_0 | ['topple', 'tongue', 'flat', 'fiscal', 'column', 'bean', 'very', 'wish', 'vendor', 'ignore', 'ketchup', 'alert'] |  
 | bip_39_word_space_1 | topple |  
 | bip_39_word_space_10 | topple tongue flat fiscal column bean very wish vendor ignore |  

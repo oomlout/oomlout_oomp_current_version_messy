@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'approve
   dad
 
   clinic'
+bip_39_word_no_space_1: approve
+bip_39_word_no_space_10: approvevehicleriveractbadgepulsecitizendadclinicangle
+bip_39_word_no_space_11: approvevehicleriveractbadgepulsecitizendadclinicangleyouth
+bip_39_word_no_space_12: approvevehicleriveractbadgepulsecitizendadclinicangleyouthabuse
+bip_39_word_no_space_2: approvevehicle
+bip_39_word_no_space_3: approvevehicleriver
+bip_39_word_no_space_4: approvevehicleriveract
+bip_39_word_no_space_5: approvevehicleriveractbadge
+bip_39_word_no_space_6: approvevehicleriveractbadgepulse
+bip_39_word_no_space_7: approvevehicleriveractbadgepulsecitizen
+bip_39_word_no_space_8: approvevehicleriveractbadgepulsecitizendad
+bip_39_word_no_space_9: approvevehicleriveractbadgepulsecitizendadclinic
 bip_39_word_space_0:
 - approve
 - vehicle

@@ -122,6 +122,18 @@ vapor
 attitude
 spring
 solve |  
+| bip_39_word_no_space_1 | dinosaur |  
+| bip_39_word_no_space_10 | dinosaurseminarbreezefictionweaponvaporattitudespringsolveexcess |  
+| bip_39_word_no_space_11 | dinosaurseminarbreezefictionweaponvaporattitudespringsolveexcessstick |  
+| bip_39_word_no_space_12 | dinosaurseminarbreezefictionweaponvaporattitudespringsolveexcessstickarctic |  
+| bip_39_word_no_space_2 | dinosaurseminar |  
+| bip_39_word_no_space_3 | dinosaurseminarbreeze |  
+| bip_39_word_no_space_4 | dinosaurseminarbreezefiction |  
+| bip_39_word_no_space_5 | dinosaurseminarbreezefictionweapon |  
+| bip_39_word_no_space_6 | dinosaurseminarbreezefictionweaponvapor |  
+| bip_39_word_no_space_7 | dinosaurseminarbreezefictionweaponvaporattitude |  
+| bip_39_word_no_space_8 | dinosaurseminarbreezefictionweaponvaporattitudespring |  
+| bip_39_word_no_space_9 | dinosaurseminarbreezefictionweaponvaporattitudespringsolve |  
 | bip_39_word_space_0 | ['dinosaur', 'seminar', 'breeze', 'fiction', 'weapon', 'vapor', 'attitude', 'spring', 'solve', 'excess', 'stick', 'arctic'] |  
 | bip_39_word_space_1 | dinosaur |  
 | bip_39_word_space_10 | dinosaur seminar breeze fiction weapon vapor attitude spring solve excess |  

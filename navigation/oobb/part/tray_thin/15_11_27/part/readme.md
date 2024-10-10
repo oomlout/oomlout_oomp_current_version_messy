@@ -122,6 +122,18 @@ artefact
 mix
 liberty
 car |  
+| bip_39_word_no_space_1 | gather |  
+| bip_39_word_no_space_10 | gatherexecuteevilcaughtancientartefactmixlibertycarsteel |  
+| bip_39_word_no_space_11 | gatherexecuteevilcaughtancientartefactmixlibertycarsteelhealth |  
+| bip_39_word_no_space_12 | gatherexecuteevilcaughtancientartefactmixlibertycarsteelhealthaffair |  
+| bip_39_word_no_space_2 | gatherexecute |  
+| bip_39_word_no_space_3 | gatherexecuteevil |  
+| bip_39_word_no_space_4 | gatherexecuteevilcaught |  
+| bip_39_word_no_space_5 | gatherexecuteevilcaughtancient |  
+| bip_39_word_no_space_6 | gatherexecuteevilcaughtancientartefact |  
+| bip_39_word_no_space_7 | gatherexecuteevilcaughtancientartefactmix |  
+| bip_39_word_no_space_8 | gatherexecuteevilcaughtancientartefactmixliberty |  
+| bip_39_word_no_space_9 | gatherexecuteevilcaughtancientartefactmixlibertycar |  
 | bip_39_word_space_0 | ['gather', 'execute', 'evil', 'caught', 'ancient', 'artefact', 'mix', 'liberty', 'car', 'steel', 'health', 'affair'] |  
 | bip_39_word_space_1 | gather |  
 | bip_39_word_space_10 | gather execute evil caught ancient artefact mix liberty car steel |  

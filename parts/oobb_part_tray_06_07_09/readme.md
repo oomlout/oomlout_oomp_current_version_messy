@@ -122,6 +122,18 @@ tooth
 price
 core
 scissors |  
+| bip_39_word_no_space_1 | transfer |  
+| bip_39_word_no_space_10 | transferquizrescuecaughtdrifttoothpricecorescissorshawk |  
+| bip_39_word_no_space_11 | transferquizrescuecaughtdrifttoothpricecorescissorshawkbundle |  
+| bip_39_word_no_space_12 | transferquizrescuecaughtdrifttoothpricecorescissorshawkbundleaccuse |  
+| bip_39_word_no_space_2 | transferquiz |  
+| bip_39_word_no_space_3 | transferquizrescue |  
+| bip_39_word_no_space_4 | transferquizrescuecaught |  
+| bip_39_word_no_space_5 | transferquizrescuecaughtdrift |  
+| bip_39_word_no_space_6 | transferquizrescuecaughtdrifttooth |  
+| bip_39_word_no_space_7 | transferquizrescuecaughtdrifttoothprice |  
+| bip_39_word_no_space_8 | transferquizrescuecaughtdrifttoothpricecore |  
+| bip_39_word_no_space_9 | transferquizrescuecaughtdrifttoothpricecorescissors |  
 | bip_39_word_space_0 | ['transfer', 'quiz', 'rescue', 'caught', 'drift', 'tooth', 'price', 'core', 'scissors', 'hawk', 'bundle', 'accuse'] |  
 | bip_39_word_space_1 | transfer |  
 | bip_39_word_space_10 | transfer quiz rescue caught drift tooth price core scissors hawk |  

@@ -122,6 +122,18 @@ chunk
 oven
 tray
 organ |  
+| bip_39_word_no_space_1 | bench |  
+| bip_39_word_no_space_10 | benchacquirecaughtanotherautumnchunkoventrayorganjoke |  
+| bip_39_word_no_space_11 | benchacquirecaughtanotherautumnchunkoventrayorganjokevintage |  
+| bip_39_word_no_space_12 | benchacquirecaughtanotherautumnchunkoventrayorganjokevintageattend |  
+| bip_39_word_no_space_2 | benchacquire |  
+| bip_39_word_no_space_3 | benchacquirecaught |  
+| bip_39_word_no_space_4 | benchacquirecaughtanother |  
+| bip_39_word_no_space_5 | benchacquirecaughtanotherautumn |  
+| bip_39_word_no_space_6 | benchacquirecaughtanotherautumnchunk |  
+| bip_39_word_no_space_7 | benchacquirecaughtanotherautumnchunkoven |  
+| bip_39_word_no_space_8 | benchacquirecaughtanotherautumnchunkoventray |  
+| bip_39_word_no_space_9 | benchacquirecaughtanotherautumnchunkoventrayorgan |  
 | bip_39_word_space_0 | ['bench', 'acquire', 'caught', 'another', 'autumn', 'chunk', 'oven', 'tray', 'organ', 'joke', 'vintage', 'attend'] |  
 | bip_39_word_space_1 | bench |  
 | bip_39_word_space_10 | bench acquire caught another autumn chunk oven tray organ joke |  

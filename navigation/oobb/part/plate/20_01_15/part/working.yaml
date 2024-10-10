@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'man
   promote
 
   inquiry'
+bip_39_word_no_space_1: man
+bip_39_word_no_space_10: manelsedisplaytigertopicratherprotectpromoteinquirygather
+bip_39_word_no_space_11: manelsedisplaytigertopicratherprotectpromoteinquirygatherripple
+bip_39_word_no_space_12: manelsedisplaytigertopicratherprotectpromoteinquirygatherrippleanxiety
+bip_39_word_no_space_2: manelse
+bip_39_word_no_space_3: manelsedisplay
+bip_39_word_no_space_4: manelsedisplaytiger
+bip_39_word_no_space_5: manelsedisplaytigertopic
+bip_39_word_no_space_6: manelsedisplaytigertopicrather
+bip_39_word_no_space_7: manelsedisplaytigertopicratherprotect
+bip_39_word_no_space_8: manelsedisplaytigertopicratherprotectpromote
+bip_39_word_no_space_9: manelsedisplaytigertopicratherprotectpromoteinquiry
 bip_39_word_space_0:
 - man
 - else

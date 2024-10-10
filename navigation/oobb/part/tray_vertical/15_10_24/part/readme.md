@@ -109,6 +109,17 @@ across
 hover
 kind
 fashion |  
+| bip_39_word_no_space_1 | monitor |  
+| bip_39_word_no_space_10 | monitoralcoholelseapologyeconomyacrosshoverkindfashionriot |  
+| bip_39_word_no_space_11 | monitoralcoholelseapologyeconomyacrosshoverkindfashionriotmask |  
+| bip_39_word_no_space_2 | monitoralcohol |  
+| bip_39_word_no_space_3 | monitoralcoholelse |  
+| bip_39_word_no_space_4 | monitoralcoholelseapology |  
+| bip_39_word_no_space_5 | monitoralcoholelseapologyeconomy |  
+| bip_39_word_no_space_6 | monitoralcoholelseapologyeconomyacross |  
+| bip_39_word_no_space_7 | monitoralcoholelseapologyeconomyacrosshover |  
+| bip_39_word_no_space_8 | monitoralcoholelseapologyeconomyacrosshoverkind |  
+| bip_39_word_no_space_9 | monitoralcoholelseapologyeconomyacrosshoverkindfashion |  
 | bip_39_word_space_0 | ['monitor', 'alcohol', 'else', 'apology', 'economy', 'across', 'hover', 'kind', 'fashion', 'riot', 'mask'] |  
 | bip_39_word_space_1 | monitor |  
 | bip_39_word_space_10 | monitor alcohol else apology economy across hover kind fashion riot |  

@@ -122,6 +122,18 @@ moment
 puzzle
 problem
 mass |  
+| bip_39_word_no_space_1 | laptop |  
+| bip_39_word_no_space_10 | laptopwhipbreadbambooawfulmomentpuzzleproblemmassdeer |  
+| bip_39_word_no_space_11 | laptopwhipbreadbambooawfulmomentpuzzleproblemmassdeerall |  
+| bip_39_word_no_space_12 | laptopwhipbreadbambooawfulmomentpuzzleproblemmassdeerallapology |  
+| bip_39_word_no_space_2 | laptopwhip |  
+| bip_39_word_no_space_3 | laptopwhipbread |  
+| bip_39_word_no_space_4 | laptopwhipbreadbamboo |  
+| bip_39_word_no_space_5 | laptopwhipbreadbambooawful |  
+| bip_39_word_no_space_6 | laptopwhipbreadbambooawfulmoment |  
+| bip_39_word_no_space_7 | laptopwhipbreadbambooawfulmomentpuzzle |  
+| bip_39_word_no_space_8 | laptopwhipbreadbambooawfulmomentpuzzleproblem |  
+| bip_39_word_no_space_9 | laptopwhipbreadbambooawfulmomentpuzzleproblemmass |  
 | bip_39_word_space_0 | ['laptop', 'whip', 'bread', 'bamboo', 'awful', 'moment', 'puzzle', 'problem', 'mass', 'deer', 'all', 'apology'] |  
 | bip_39_word_space_1 | laptop |  
 | bip_39_word_space_10 | laptop whip bread bamboo awful moment puzzle problem mass deer |  

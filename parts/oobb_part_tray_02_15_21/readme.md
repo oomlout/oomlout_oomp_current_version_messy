@@ -122,6 +122,18 @@ example
 private
 damage
 stadium |  
+| bip_39_word_no_space_1 | boring |  
+| bip_39_word_no_space_10 | boringrigidmangousualunderexampleprivatedamagestadiumdoctor |  
+| bip_39_word_no_space_11 | boringrigidmangousualunderexampleprivatedamagestadiumdoctorfigure |  
+| bip_39_word_no_space_12 | boringrigidmangousualunderexampleprivatedamagestadiumdoctorfigureacid |  
+| bip_39_word_no_space_2 | boringrigid |  
+| bip_39_word_no_space_3 | boringrigidmango |  
+| bip_39_word_no_space_4 | boringrigidmangousual |  
+| bip_39_word_no_space_5 | boringrigidmangousualunder |  
+| bip_39_word_no_space_6 | boringrigidmangousualunderexample |  
+| bip_39_word_no_space_7 | boringrigidmangousualunderexampleprivate |  
+| bip_39_word_no_space_8 | boringrigidmangousualunderexampleprivatedamage |  
+| bip_39_word_no_space_9 | boringrigidmangousualunderexampleprivatedamagestadium |  
 | bip_39_word_space_0 | ['boring', 'rigid', 'mango', 'usual', 'under', 'example', 'private', 'damage', 'stadium', 'doctor', 'figure', 'acid'] |  
 | bip_39_word_space_1 | boring |  
 | bip_39_word_space_10 | boring rigid mango usual under example private damage stadium doctor |  

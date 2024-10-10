@@ -122,6 +122,18 @@ oven
 step
 canoe
 flush |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelwinclickrichsurveyovenstepcanoeflushmajor |  
+| bip_39_word_no_space_11 | modelwinclickrichsurveyovenstepcanoeflushmajorfeature |  
+| bip_39_word_no_space_12 | modelwinclickrichsurveyovenstepcanoeflushmajorfeatureaccuse |  
+| bip_39_word_no_space_2 | modelwin |  
+| bip_39_word_no_space_3 | modelwinclick |  
+| bip_39_word_no_space_4 | modelwinclickrich |  
+| bip_39_word_no_space_5 | modelwinclickrichsurvey |  
+| bip_39_word_no_space_6 | modelwinclickrichsurveyoven |  
+| bip_39_word_no_space_7 | modelwinclickrichsurveyovenstep |  
+| bip_39_word_no_space_8 | modelwinclickrichsurveyovenstepcanoe |  
+| bip_39_word_no_space_9 | modelwinclickrichsurveyovenstepcanoeflush |  
 | bip_39_word_space_0 | ['model', 'win', 'click', 'rich', 'survey', 'oven', 'step', 'canoe', 'flush', 'major', 'feature', 'accuse'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model win click rich survey oven step canoe flush major |  

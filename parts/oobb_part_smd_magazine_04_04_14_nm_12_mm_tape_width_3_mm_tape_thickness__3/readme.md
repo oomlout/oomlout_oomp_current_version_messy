@@ -122,6 +122,18 @@ wish
 oppose
 music
 click |  
+| bip_39_word_no_space_1 | virtual |  
+| bip_39_word_no_space_10 | virtualfrequenterosionthisgunwishopposemusicclickblack |  
+| bip_39_word_no_space_11 | virtualfrequenterosionthisgunwishopposemusicclickblackvacuum |  
+| bip_39_word_no_space_12 | virtualfrequenterosionthisgunwishopposemusicclickblackvacuumanimal |  
+| bip_39_word_no_space_2 | virtualfrequent |  
+| bip_39_word_no_space_3 | virtualfrequenterosion |  
+| bip_39_word_no_space_4 | virtualfrequenterosionthis |  
+| bip_39_word_no_space_5 | virtualfrequenterosionthisgun |  
+| bip_39_word_no_space_6 | virtualfrequenterosionthisgunwish |  
+| bip_39_word_no_space_7 | virtualfrequenterosionthisgunwishoppose |  
+| bip_39_word_no_space_8 | virtualfrequenterosionthisgunwishopposemusic |  
+| bip_39_word_no_space_9 | virtualfrequenterosionthisgunwishopposemusicclick |  
 | bip_39_word_space_0 | ['virtual', 'frequent', 'erosion', 'this', 'gun', 'wish', 'oppose', 'music', 'click', 'black', 'vacuum', 'animal'] |  
 | bip_39_word_space_1 | virtual |  
 | bip_39_word_space_10 | virtual frequent erosion this gun wish oppose music click black |  

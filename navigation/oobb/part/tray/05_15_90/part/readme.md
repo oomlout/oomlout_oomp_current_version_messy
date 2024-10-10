@@ -122,6 +122,18 @@ leg
 grocery
 drift
 elephant |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagemotherfriendadvanceidleleggrocerydriftelephantclimb |  
+| bip_39_word_no_space_11 | vintagemotherfriendadvanceidleleggrocerydriftelephantclimbunaware |  
+| bip_39_word_no_space_12 | vintagemotherfriendadvanceidleleggrocerydriftelephantclimbunawarearctic |  
+| bip_39_word_no_space_2 | vintagemother |  
+| bip_39_word_no_space_3 | vintagemotherfriend |  
+| bip_39_word_no_space_4 | vintagemotherfriendadvance |  
+| bip_39_word_no_space_5 | vintagemotherfriendadvanceidle |  
+| bip_39_word_no_space_6 | vintagemotherfriendadvanceidleleg |  
+| bip_39_word_no_space_7 | vintagemotherfriendadvanceidleleggrocery |  
+| bip_39_word_no_space_8 | vintagemotherfriendadvanceidleleggrocerydrift |  
+| bip_39_word_no_space_9 | vintagemotherfriendadvanceidleleggrocerydriftelephant |  
 | bip_39_word_space_0 | ['vintage', 'mother', 'friend', 'advance', 'idle', 'leg', 'grocery', 'drift', 'elephant', 'climb', 'unaware', 'arctic'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage mother friend advance idle leg grocery drift elephant climb |  

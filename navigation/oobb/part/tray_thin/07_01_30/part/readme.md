@@ -122,6 +122,18 @@ need
 east
 cable
 undo |  
+| bip_39_word_no_space_1 | veteran |  
+| bip_39_word_no_space_10 | veterantermsolidshortrevealneedeastcableundolayer |  
+| bip_39_word_no_space_11 | veterantermsolidshortrevealneedeastcableundolayergospel |  
+| bip_39_word_no_space_12 | veterantermsolidshortrevealneedeastcableundolayergospelacquire |  
+| bip_39_word_no_space_2 | veteranterm |  
+| bip_39_word_no_space_3 | veterantermsolid |  
+| bip_39_word_no_space_4 | veterantermsolidshort |  
+| bip_39_word_no_space_5 | veterantermsolidshortreveal |  
+| bip_39_word_no_space_6 | veterantermsolidshortrevealneed |  
+| bip_39_word_no_space_7 | veterantermsolidshortrevealneedeast |  
+| bip_39_word_no_space_8 | veterantermsolidshortrevealneedeastcable |  
+| bip_39_word_no_space_9 | veterantermsolidshortrevealneedeastcableundo |  
 | bip_39_word_space_0 | ['veteran', 'term', 'solid', 'short', 'reveal', 'need', 'east', 'cable', 'undo', 'layer', 'gospel', 'acquire'] |  
 | bip_39_word_space_1 | veteran |  
 | bip_39_word_space_10 | veteran term solid short reveal need east cable undo layer |  

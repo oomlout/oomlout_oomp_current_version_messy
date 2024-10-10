@@ -122,6 +122,18 @@ region
 trade
 hazard
 doll |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinricehornscattergirlregiontradehazarddollmidnight |  
+| bip_39_word_no_space_11 | dolphinricehornscattergirlregiontradehazarddollmidnightleaf |  
+| bip_39_word_no_space_12 | dolphinricehornscattergirlregiontradehazarddollmidnightleafadd |  
+| bip_39_word_no_space_2 | dolphinrice |  
+| bip_39_word_no_space_3 | dolphinricehorn |  
+| bip_39_word_no_space_4 | dolphinricehornscatter |  
+| bip_39_word_no_space_5 | dolphinricehornscattergirl |  
+| bip_39_word_no_space_6 | dolphinricehornscattergirlregion |  
+| bip_39_word_no_space_7 | dolphinricehornscattergirlregiontrade |  
+| bip_39_word_no_space_8 | dolphinricehornscattergirlregiontradehazard |  
+| bip_39_word_no_space_9 | dolphinricehornscattergirlregiontradehazarddoll |  
 | bip_39_word_space_0 | ['dolphin', 'rice', 'horn', 'scatter', 'girl', 'region', 'trade', 'hazard', 'doll', 'midnight', 'leaf', 'add'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin rice horn scatter girl region trade hazard doll midnight |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'list
   skull
 
   pepper'
+bip_39_word_no_space_1: list
+bip_39_word_no_space_10: listweatherstingbindzebraborrowflightskullpeppersample
+bip_39_word_no_space_11: listweatherstingbindzebraborrowflightskullpeppersamplethree
+bip_39_word_no_space_12: listweatherstingbindzebraborrowflightskullpeppersamplethreeattend
+bip_39_word_no_space_2: listweather
+bip_39_word_no_space_3: listweathersting
+bip_39_word_no_space_4: listweatherstingbind
+bip_39_word_no_space_5: listweatherstingbindzebra
+bip_39_word_no_space_6: listweatherstingbindzebraborrow
+bip_39_word_no_space_7: listweatherstingbindzebraborrowflight
+bip_39_word_no_space_8: listweatherstingbindzebraborrowflightskull
+bip_39_word_no_space_9: listweatherstingbindzebraborrowflightskullpepper
 bip_39_word_space_0:
 - list
 - weather

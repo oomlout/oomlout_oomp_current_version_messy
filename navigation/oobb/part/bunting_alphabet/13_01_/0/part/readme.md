@@ -122,6 +122,18 @@ comfort
 benefit
 budget
 fog |  
+| bip_39_word_no_space_1 | price |  
+| bip_39_word_no_space_10 | pricefreshdigitalwantsongcomfortbenefitbudgetfogsalute |  
+| bip_39_word_no_space_11 | pricefreshdigitalwantsongcomfortbenefitbudgetfogsalutecarry |  
+| bip_39_word_no_space_12 | pricefreshdigitalwantsongcomfortbenefitbudgetfogsalutecarryallow |  
+| bip_39_word_no_space_2 | pricefresh |  
+| bip_39_word_no_space_3 | pricefreshdigital |  
+| bip_39_word_no_space_4 | pricefreshdigitalwant |  
+| bip_39_word_no_space_5 | pricefreshdigitalwantsong |  
+| bip_39_word_no_space_6 | pricefreshdigitalwantsongcomfort |  
+| bip_39_word_no_space_7 | pricefreshdigitalwantsongcomfortbenefit |  
+| bip_39_word_no_space_8 | pricefreshdigitalwantsongcomfortbenefitbudget |  
+| bip_39_word_no_space_9 | pricefreshdigitalwantsongcomfortbenefitbudgetfog |  
 | bip_39_word_space_0 | ['price', 'fresh', 'digital', 'want', 'song', 'comfort', 'benefit', 'budget', 'fog', 'salute', 'carry', 'allow'] |  
 | bip_39_word_space_1 | price |  
 | bip_39_word_space_10 | price fresh digital want song comfort benefit budget fog salute |  

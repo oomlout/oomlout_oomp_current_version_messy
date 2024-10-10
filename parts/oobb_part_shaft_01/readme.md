@@ -122,6 +122,18 @@ ankle
 vote
 cute
 brown |  
+| bip_39_word_no_space_1 | maze |  
+| bip_39_word_no_space_10 | mazeminutebecomenetcustomanklevotecutebrownhost |  
+| bip_39_word_no_space_11 | mazeminutebecomenetcustomanklevotecutebrownhostarrest |  
+| bip_39_word_no_space_12 | mazeminutebecomenetcustomanklevotecutebrownhostarrestanger |  
+| bip_39_word_no_space_2 | mazeminute |  
+| bip_39_word_no_space_3 | mazeminutebecome |  
+| bip_39_word_no_space_4 | mazeminutebecomenet |  
+| bip_39_word_no_space_5 | mazeminutebecomenetcustom |  
+| bip_39_word_no_space_6 | mazeminutebecomenetcustomankle |  
+| bip_39_word_no_space_7 | mazeminutebecomenetcustomanklevote |  
+| bip_39_word_no_space_8 | mazeminutebecomenetcustomanklevotecute |  
+| bip_39_word_no_space_9 | mazeminutebecomenetcustomanklevotecutebrown |  
 | bip_39_word_space_0 | ['maze', 'minute', 'become', 'net', 'custom', 'ankle', 'vote', 'cute', 'brown', 'host', 'arrest', 'anger'] |  
 | bip_39_word_space_1 | maze |  
 | bip_39_word_space_10 | maze minute become net custom ankle vote cute brown host |  

@@ -122,6 +122,18 @@ neither
 glass
 movie
 local |  
+| bip_39_word_no_space_1 | goddess |  
+| bip_39_word_no_space_10 | goddesstrainpalmnastywingneitherglassmovielocallonely |  
+| bip_39_word_no_space_11 | goddesstrainpalmnastywingneitherglassmovielocallonelydiffer |  
+| bip_39_word_no_space_12 | goddesstrainpalmnastywingneitherglassmovielocallonelydifferany |  
+| bip_39_word_no_space_2 | goddesstrain |  
+| bip_39_word_no_space_3 | goddesstrainpalm |  
+| bip_39_word_no_space_4 | goddesstrainpalmnasty |  
+| bip_39_word_no_space_5 | goddesstrainpalmnastywing |  
+| bip_39_word_no_space_6 | goddesstrainpalmnastywingneither |  
+| bip_39_word_no_space_7 | goddesstrainpalmnastywingneitherglass |  
+| bip_39_word_no_space_8 | goddesstrainpalmnastywingneitherglassmovie |  
+| bip_39_word_no_space_9 | goddesstrainpalmnastywingneitherglassmovielocal |  
 | bip_39_word_space_0 | ['goddess', 'train', 'palm', 'nasty', 'wing', 'neither', 'glass', 'movie', 'local', 'lonely', 'differ', 'any'] |  
 | bip_39_word_space_1 | goddess |  
 | bip_39_word_space_10 | goddess train palm nasty wing neither glass movie local lonely |  

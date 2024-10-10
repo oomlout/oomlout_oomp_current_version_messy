@@ -122,6 +122,18 @@ renew
 churn
 balance
 note |  
+| bip_39_word_no_space_1 | hard |  
+| bip_39_word_no_space_10 | hardcactusspinsiegejokerenewchurnbalancenoteapart |  
+| bip_39_word_no_space_11 | hardcactusspinsiegejokerenewchurnbalancenoteapartcurrent |  
+| bip_39_word_no_space_12 | hardcactusspinsiegejokerenewchurnbalancenoteapartcurrentartefact |  
+| bip_39_word_no_space_2 | hardcactus |  
+| bip_39_word_no_space_3 | hardcactusspin |  
+| bip_39_word_no_space_4 | hardcactusspinsiege |  
+| bip_39_word_no_space_5 | hardcactusspinsiegejoke |  
+| bip_39_word_no_space_6 | hardcactusspinsiegejokerenew |  
+| bip_39_word_no_space_7 | hardcactusspinsiegejokerenewchurn |  
+| bip_39_word_no_space_8 | hardcactusspinsiegejokerenewchurnbalance |  
+| bip_39_word_no_space_9 | hardcactusspinsiegejokerenewchurnbalancenote |  
 | bip_39_word_space_0 | ['hard', 'cactus', 'spin', 'siege', 'joke', 'renew', 'churn', 'balance', 'note', 'apart', 'current', 'artefact'] |  
 | bip_39_word_space_1 | hard |  
 | bip_39_word_space_10 | hard cactus spin siege joke renew churn balance note apart |  

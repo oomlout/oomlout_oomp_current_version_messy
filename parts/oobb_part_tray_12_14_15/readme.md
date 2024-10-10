@@ -122,6 +122,18 @@ endless
 love
 program
 hurry |  
+| bip_39_word_no_space_1 | hire |  
+| bip_39_word_no_space_10 | hireinvestuniversedumbfalseendlessloveprogramhurryarctic |  
+| bip_39_word_no_space_11 | hireinvestuniversedumbfalseendlessloveprogramhurryarcticfantasy |  
+| bip_39_word_no_space_12 | hireinvestuniversedumbfalseendlessloveprogramhurryarcticfantasyancient |  
+| bip_39_word_no_space_2 | hireinvest |  
+| bip_39_word_no_space_3 | hireinvestuniverse |  
+| bip_39_word_no_space_4 | hireinvestuniversedumb |  
+| bip_39_word_no_space_5 | hireinvestuniversedumbfalse |  
+| bip_39_word_no_space_6 | hireinvestuniversedumbfalseendless |  
+| bip_39_word_no_space_7 | hireinvestuniversedumbfalseendlesslove |  
+| bip_39_word_no_space_8 | hireinvestuniversedumbfalseendlessloveprogram |  
+| bip_39_word_no_space_9 | hireinvestuniversedumbfalseendlessloveprogramhurry |  
 | bip_39_word_space_0 | ['hire', 'invest', 'universe', 'dumb', 'false', 'endless', 'love', 'program', 'hurry', 'arctic', 'fantasy', 'ancient'] |  
 | bip_39_word_space_1 | hire |  
 | bip_39_word_space_10 | hire invest universe dumb false endless love program hurry arctic |  

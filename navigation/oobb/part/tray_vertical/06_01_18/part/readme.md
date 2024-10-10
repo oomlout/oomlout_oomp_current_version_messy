@@ -122,6 +122,18 @@ stove
 maple
 harvest
 weather |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactskirtshellkicknuclearstovemapleharvestweatherstill |  
+| bip_39_word_no_space_11 | pactskirtshellkicknuclearstovemapleharvestweatherstillpromote |  
+| bip_39_word_no_space_12 | pactskirtshellkicknuclearstovemapleharvestweatherstillpromoteapart |  
+| bip_39_word_no_space_2 | pactskirt |  
+| bip_39_word_no_space_3 | pactskirtshell |  
+| bip_39_word_no_space_4 | pactskirtshellkick |  
+| bip_39_word_no_space_5 | pactskirtshellkicknuclear |  
+| bip_39_word_no_space_6 | pactskirtshellkicknuclearstove |  
+| bip_39_word_no_space_7 | pactskirtshellkicknuclearstovemaple |  
+| bip_39_word_no_space_8 | pactskirtshellkicknuclearstovemapleharvest |  
+| bip_39_word_no_space_9 | pactskirtshellkicknuclearstovemapleharvestweather |  
 | bip_39_word_space_0 | ['pact', 'skirt', 'shell', 'kick', 'nuclear', 'stove', 'maple', 'harvest', 'weather', 'still', 'promote', 'apart'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact skirt shell kick nuclear stove maple harvest weather still |  

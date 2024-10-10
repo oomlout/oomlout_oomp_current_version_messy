@@ -122,6 +122,18 @@ federal
 walnut
 devote
 panda |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerfibertellgaspnestfederalwalnutdevotepandaaccess |  
+| bip_39_word_no_space_11 | toddlerfibertellgaspnestfederalwalnutdevotepandaaccesspoem |  
+| bip_39_word_no_space_12 | toddlerfibertellgaspnestfederalwalnutdevotepandaaccesspoemagain |  
+| bip_39_word_no_space_2 | toddlerfiber |  
+| bip_39_word_no_space_3 | toddlerfibertell |  
+| bip_39_word_no_space_4 | toddlerfibertellgasp |  
+| bip_39_word_no_space_5 | toddlerfibertellgaspnest |  
+| bip_39_word_no_space_6 | toddlerfibertellgaspnestfederal |  
+| bip_39_word_no_space_7 | toddlerfibertellgaspnestfederalwalnut |  
+| bip_39_word_no_space_8 | toddlerfibertellgaspnestfederalwalnutdevote |  
+| bip_39_word_no_space_9 | toddlerfibertellgaspnestfederalwalnutdevotepanda |  
 | bip_39_word_space_0 | ['toddler', 'fiber', 'tell', 'gasp', 'nest', 'federal', 'walnut', 'devote', 'panda', 'access', 'poem', 'again'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler fiber tell gasp nest federal walnut devote panda access |  

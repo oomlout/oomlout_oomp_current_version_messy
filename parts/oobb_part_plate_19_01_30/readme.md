@@ -122,6 +122,18 @@ story
 wedding
 knife
 meadow |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonfringepinkviolintellstoryweddingknifemeadowgiggle |  
+| bip_39_word_no_space_11 | ribbonfringepinkviolintellstoryweddingknifemeadowgiggleaway |  
+| bip_39_word_no_space_12 | ribbonfringepinkviolintellstoryweddingknifemeadowgiggleawayaspect |  
+| bip_39_word_no_space_2 | ribbonfringe |  
+| bip_39_word_no_space_3 | ribbonfringepink |  
+| bip_39_word_no_space_4 | ribbonfringepinkviolin |  
+| bip_39_word_no_space_5 | ribbonfringepinkviolintell |  
+| bip_39_word_no_space_6 | ribbonfringepinkviolintellstory |  
+| bip_39_word_no_space_7 | ribbonfringepinkviolintellstorywedding |  
+| bip_39_word_no_space_8 | ribbonfringepinkviolintellstoryweddingknife |  
+| bip_39_word_no_space_9 | ribbonfringepinkviolintellstoryweddingknifemeadow |  
 | bip_39_word_space_0 | ['ribbon', 'fringe', 'pink', 'violin', 'tell', 'story', 'wedding', 'knife', 'meadow', 'giggle', 'away', 'aspect'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon fringe pink violin tell story wedding knife meadow giggle |  

@@ -122,6 +122,18 @@ mandate
 blur
 bus
 jazz |  
+| bip_39_word_no_space_1 | snap |  
+| bip_39_word_no_space_10 | snaphaveattendmyselfhoodmandateblurbusjazzocean |  
+| bip_39_word_no_space_11 | snaphaveattendmyselfhoodmandateblurbusjazzoceankiwi |  
+| bip_39_word_no_space_12 | snaphaveattendmyselfhoodmandateblurbusjazzoceankiwiapprove |  
+| bip_39_word_no_space_2 | snaphave |  
+| bip_39_word_no_space_3 | snaphaveattend |  
+| bip_39_word_no_space_4 | snaphaveattendmyself |  
+| bip_39_word_no_space_5 | snaphaveattendmyselfhood |  
+| bip_39_word_no_space_6 | snaphaveattendmyselfhoodmandate |  
+| bip_39_word_no_space_7 | snaphaveattendmyselfhoodmandateblur |  
+| bip_39_word_no_space_8 | snaphaveattendmyselfhoodmandateblurbus |  
+| bip_39_word_no_space_9 | snaphaveattendmyselfhoodmandateblurbusjazz |  
 | bip_39_word_space_0 | ['snap', 'have', 'attend', 'myself', 'hood', 'mandate', 'blur', 'bus', 'jazz', 'ocean', 'kiwi', 'approve'] |  
 | bip_39_word_space_1 | snap |  
 | bip_39_word_space_10 | snap have attend myself hood mandate blur bus jazz ocean |  

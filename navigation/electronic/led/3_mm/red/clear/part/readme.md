@@ -122,6 +122,18 @@ smart
 present
 ask
 rare |  
+| bip_39_word_no_space_1 | devote |  
+| bip_39_word_no_space_10 | devotepipestockmergegoldsmartpresentaskrareverify |  
+| bip_39_word_no_space_11 | devotepipestockmergegoldsmartpresentaskrareverifyscout |  
+| bip_39_word_no_space_12 | devotepipestockmergegoldsmartpresentaskrareverifyscoutabuse |  
+| bip_39_word_no_space_2 | devotepipe |  
+| bip_39_word_no_space_3 | devotepipestock |  
+| bip_39_word_no_space_4 | devotepipestockmerge |  
+| bip_39_word_no_space_5 | devotepipestockmergegold |  
+| bip_39_word_no_space_6 | devotepipestockmergegoldsmart |  
+| bip_39_word_no_space_7 | devotepipestockmergegoldsmartpresent |  
+| bip_39_word_no_space_8 | devotepipestockmergegoldsmartpresentask |  
+| bip_39_word_no_space_9 | devotepipestockmergegoldsmartpresentaskrare |  
 | bip_39_word_space_0 | ['devote', 'pipe', 'stock', 'merge', 'gold', 'smart', 'present', 'ask', 'rare', 'verify', 'scout', 'abuse'] |  
 | bip_39_word_space_1 | devote |  
 | bip_39_word_space_10 | devote pipe stock merge gold smart present ask rare verify |  

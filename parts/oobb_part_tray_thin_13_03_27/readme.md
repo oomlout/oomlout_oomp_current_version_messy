@@ -122,6 +122,18 @@ enlist
 join
 flight
 mutual |  
+| bip_39_word_no_space_1 | grape |  
+| bip_39_word_no_space_10 | grapeintosaluteantiqueasthmaenlistjoinflightmutualtissue |  
+| bip_39_word_no_space_11 | grapeintosaluteantiqueasthmaenlistjoinflightmutualtissuespend |  
+| bip_39_word_no_space_12 | grapeintosaluteantiqueasthmaenlistjoinflightmutualtissuespendahead |  
+| bip_39_word_no_space_2 | grapeinto |  
+| bip_39_word_no_space_3 | grapeintosalute |  
+| bip_39_word_no_space_4 | grapeintosaluteantique |  
+| bip_39_word_no_space_5 | grapeintosaluteantiqueasthma |  
+| bip_39_word_no_space_6 | grapeintosaluteantiqueasthmaenlist |  
+| bip_39_word_no_space_7 | grapeintosaluteantiqueasthmaenlistjoin |  
+| bip_39_word_no_space_8 | grapeintosaluteantiqueasthmaenlistjoinflight |  
+| bip_39_word_no_space_9 | grapeintosaluteantiqueasthmaenlistjoinflightmutual |  
 | bip_39_word_space_0 | ['grape', 'into', 'salute', 'antique', 'asthma', 'enlist', 'join', 'flight', 'mutual', 'tissue', 'spend', 'ahead'] |  
 | bip_39_word_space_1 | grape |  
 | bip_39_word_space_10 | grape into salute antique asthma enlist join flight mutual tissue |  

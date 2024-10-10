@@ -122,6 +122,18 @@ toast
 drum
 print
 shoot |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blousepricestairsrenderrendertoastdrumprintshootcapital |  
+| bip_39_word_no_space_11 | blousepricestairsrenderrendertoastdrumprintshootcapitalmushroom |  
+| bip_39_word_no_space_12 | blousepricestairsrenderrendertoastdrumprintshootcapitalmushroomaerobic |  
+| bip_39_word_no_space_2 | blouseprice |  
+| bip_39_word_no_space_3 | blousepricestairs |  
+| bip_39_word_no_space_4 | blousepricestairsrender |  
+| bip_39_word_no_space_5 | blousepricestairsrenderrender |  
+| bip_39_word_no_space_6 | blousepricestairsrenderrendertoast |  
+| bip_39_word_no_space_7 | blousepricestairsrenderrendertoastdrum |  
+| bip_39_word_no_space_8 | blousepricestairsrenderrendertoastdrumprint |  
+| bip_39_word_no_space_9 | blousepricestairsrenderrendertoastdrumprintshoot |  
 | bip_39_word_space_0 | ['blouse', 'price', 'stairs', 'render', 'render', 'toast', 'drum', 'print', 'shoot', 'capital', 'mushroom', 'aerobic'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse price stairs render render toast drum print shoot capital |  

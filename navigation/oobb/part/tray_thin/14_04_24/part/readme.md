@@ -122,6 +122,18 @@ candy
 clown
 field
 outer |  
+| bip_39_word_no_space_1 | receive |  
+| bip_39_word_no_space_10 | receivecricketelevatorbeforedashcandyclownfieldouterbuyer |  
+| bip_39_word_no_space_11 | receivecricketelevatorbeforedashcandyclownfieldouterbuyerwidth |  
+| bip_39_word_no_space_12 | receivecricketelevatorbeforedashcandyclownfieldouterbuyerwidthaffair |  
+| bip_39_word_no_space_2 | receivecricket |  
+| bip_39_word_no_space_3 | receivecricketelevator |  
+| bip_39_word_no_space_4 | receivecricketelevatorbefore |  
+| bip_39_word_no_space_5 | receivecricketelevatorbeforedash |  
+| bip_39_word_no_space_6 | receivecricketelevatorbeforedashcandy |  
+| bip_39_word_no_space_7 | receivecricketelevatorbeforedashcandyclown |  
+| bip_39_word_no_space_8 | receivecricketelevatorbeforedashcandyclownfield |  
+| bip_39_word_no_space_9 | receivecricketelevatorbeforedashcandyclownfieldouter |  
 | bip_39_word_space_0 | ['receive', 'cricket', 'elevator', 'before', 'dash', 'candy', 'clown', 'field', 'outer', 'buyer', 'width', 'affair'] |  
 | bip_39_word_space_1 | receive |  
 | bip_39_word_space_10 | receive cricket elevator before dash candy clown field outer buyer |  

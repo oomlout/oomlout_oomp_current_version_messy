@@ -122,6 +122,18 @@ trick
 gloom
 dry
 web |  
+| bip_39_word_no_space_1 | birth |  
+| bip_39_word_no_space_10 | birthcountryexpirefewsciencetrickgloomdrywebugly |  
+| bip_39_word_no_space_11 | birthcountryexpirefewsciencetrickgloomdrywebuglyfestival |  
+| bip_39_word_no_space_12 | birthcountryexpirefewsciencetrickgloomdrywebuglyfestivalability |  
+| bip_39_word_no_space_2 | birthcountry |  
+| bip_39_word_no_space_3 | birthcountryexpire |  
+| bip_39_word_no_space_4 | birthcountryexpirefew |  
+| bip_39_word_no_space_5 | birthcountryexpirefewscience |  
+| bip_39_word_no_space_6 | birthcountryexpirefewsciencetrick |  
+| bip_39_word_no_space_7 | birthcountryexpirefewsciencetrickgloom |  
+| bip_39_word_no_space_8 | birthcountryexpirefewsciencetrickgloomdry |  
+| bip_39_word_no_space_9 | birthcountryexpirefewsciencetrickgloomdryweb |  
 | bip_39_word_space_0 | ['birth', 'country', 'expire', 'few', 'science', 'trick', 'gloom', 'dry', 'web', 'ugly', 'festival', 'ability'] |  
 | bip_39_word_space_1 | birth |  
 | bip_39_word_space_10 | birth country expire few science trick gloom dry web ugly |  

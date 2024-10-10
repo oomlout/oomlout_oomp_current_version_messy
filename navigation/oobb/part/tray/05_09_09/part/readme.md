@@ -122,6 +122,18 @@ cannon
 year
 broom
 similar |  
+| bip_39_word_no_space_1 | caution |  
+| bip_39_word_no_space_10 | cautionsorrychangetrademeancannonyearbroomsimilarshuffle |  
+| bip_39_word_no_space_11 | cautionsorrychangetrademeancannonyearbroomsimilarshufflelazy |  
+| bip_39_word_no_space_12 | cautionsorrychangetrademeancannonyearbroomsimilarshufflelazyautumn |  
+| bip_39_word_no_space_2 | cautionsorry |  
+| bip_39_word_no_space_3 | cautionsorrychange |  
+| bip_39_word_no_space_4 | cautionsorrychangetrade |  
+| bip_39_word_no_space_5 | cautionsorrychangetrademean |  
+| bip_39_word_no_space_6 | cautionsorrychangetrademeancannon |  
+| bip_39_word_no_space_7 | cautionsorrychangetrademeancannonyear |  
+| bip_39_word_no_space_8 | cautionsorrychangetrademeancannonyearbroom |  
+| bip_39_word_no_space_9 | cautionsorrychangetrademeancannonyearbroomsimilar |  
 | bip_39_word_space_0 | ['caution', 'sorry', 'change', 'trade', 'mean', 'cannon', 'year', 'broom', 'similar', 'shuffle', 'lazy', 'autumn'] |  
 | bip_39_word_space_1 | caution |  
 | bip_39_word_space_10 | caution sorry change trade mean cannon year broom similar shuffle |  

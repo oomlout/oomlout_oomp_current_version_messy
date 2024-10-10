@@ -122,6 +122,18 @@ party
 awesome
 collect
 club |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinicgalaxypelicanbehindlawpartyawesomecollectclubwine |  
+| bip_39_word_no_space_11 | clinicgalaxypelicanbehindlawpartyawesomecollectclubwinerally |  
+| bip_39_word_no_space_12 | clinicgalaxypelicanbehindlawpartyawesomecollectclubwinerallyasset |  
+| bip_39_word_no_space_2 | clinicgalaxy |  
+| bip_39_word_no_space_3 | clinicgalaxypelican |  
+| bip_39_word_no_space_4 | clinicgalaxypelicanbehind |  
+| bip_39_word_no_space_5 | clinicgalaxypelicanbehindlaw |  
+| bip_39_word_no_space_6 | clinicgalaxypelicanbehindlawparty |  
+| bip_39_word_no_space_7 | clinicgalaxypelicanbehindlawpartyawesome |  
+| bip_39_word_no_space_8 | clinicgalaxypelicanbehindlawpartyawesomecollect |  
+| bip_39_word_no_space_9 | clinicgalaxypelicanbehindlawpartyawesomecollectclub |  
 | bip_39_word_space_0 | ['clinic', 'galaxy', 'pelican', 'behind', 'law', 'party', 'awesome', 'collect', 'club', 'wine', 'rally', 'asset'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic galaxy pelican behind law party awesome collect club wine |  

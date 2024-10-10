@@ -122,6 +122,18 @@ march
 sick
 trust
 leader |  
+| bip_39_word_no_space_1 | claim |  
+| bip_39_word_no_space_10 | claimassetpanelkitchenlovemarchsicktrustleadersister |  
+| bip_39_word_no_space_11 | claimassetpanelkitchenlovemarchsicktrustleadersisterexplain |  
+| bip_39_word_no_space_12 | claimassetpanelkitchenlovemarchsicktrustleadersisterexplainassist |  
+| bip_39_word_no_space_2 | claimasset |  
+| bip_39_word_no_space_3 | claimassetpanel |  
+| bip_39_word_no_space_4 | claimassetpanelkitchen |  
+| bip_39_word_no_space_5 | claimassetpanelkitchenlove |  
+| bip_39_word_no_space_6 | claimassetpanelkitchenlovemarch |  
+| bip_39_word_no_space_7 | claimassetpanelkitchenlovemarchsick |  
+| bip_39_word_no_space_8 | claimassetpanelkitchenlovemarchsicktrust |  
+| bip_39_word_no_space_9 | claimassetpanelkitchenlovemarchsicktrustleader |  
 | bip_39_word_space_0 | ['claim', 'asset', 'panel', 'kitchen', 'love', 'march', 'sick', 'trust', 'leader', 'sister', 'explain', 'assist'] |  
 | bip_39_word_space_1 | claim |  
 | bip_39_word_space_10 | claim asset panel kitchen love march sick trust leader sister |  

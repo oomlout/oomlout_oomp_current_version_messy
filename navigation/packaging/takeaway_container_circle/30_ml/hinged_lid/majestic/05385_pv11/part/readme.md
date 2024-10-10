@@ -124,6 +124,18 @@ doctor
 coconut
 baby
 dismiss |  
+| bip_39_word_no_space_1 | eyebrow |  
+| bip_39_word_no_space_10 | eyebrowartefactcanthemeattractdoctorcoconutbabydismissinvite |  
+| bip_39_word_no_space_11 | eyebrowartefactcanthemeattractdoctorcoconutbabydismissinvitetuna |  
+| bip_39_word_no_space_12 | eyebrowartefactcanthemeattractdoctorcoconutbabydismissinvitetunaautumn |  
+| bip_39_word_no_space_2 | eyebrowartefact |  
+| bip_39_word_no_space_3 | eyebrowartefactcan |  
+| bip_39_word_no_space_4 | eyebrowartefactcantheme |  
+| bip_39_word_no_space_5 | eyebrowartefactcanthemeattract |  
+| bip_39_word_no_space_6 | eyebrowartefactcanthemeattractdoctor |  
+| bip_39_word_no_space_7 | eyebrowartefactcanthemeattractdoctorcoconut |  
+| bip_39_word_no_space_8 | eyebrowartefactcanthemeattractdoctorcoconutbaby |  
+| bip_39_word_no_space_9 | eyebrowartefactcanthemeattractdoctorcoconutbabydismiss |  
 | bip_39_word_space_0 | ['eyebrow', 'artefact', 'can', 'theme', 'attract', 'doctor', 'coconut', 'baby', 'dismiss', 'invite', 'tuna', 'autumn'] |  
 | bip_39_word_space_1 | eyebrow |  
 | bip_39_word_space_10 | eyebrow artefact can theme attract doctor coconut baby dismiss invite |  

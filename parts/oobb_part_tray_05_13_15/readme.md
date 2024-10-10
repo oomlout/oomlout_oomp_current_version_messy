@@ -122,6 +122,18 @@ sugar
 army
 sick
 output |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displaypatientwitnessbracketoriginalsugararmysickoutputsouth |  
+| bip_39_word_no_space_11 | displaypatientwitnessbracketoriginalsugararmysickoutputsouthembark |  
+| bip_39_word_no_space_12 | displaypatientwitnessbracketoriginalsugararmysickoutputsouthembarkapril |  
+| bip_39_word_no_space_2 | displaypatient |  
+| bip_39_word_no_space_3 | displaypatientwitness |  
+| bip_39_word_no_space_4 | displaypatientwitnessbracket |  
+| bip_39_word_no_space_5 | displaypatientwitnessbracketoriginal |  
+| bip_39_word_no_space_6 | displaypatientwitnessbracketoriginalsugar |  
+| bip_39_word_no_space_7 | displaypatientwitnessbracketoriginalsugararmy |  
+| bip_39_word_no_space_8 | displaypatientwitnessbracketoriginalsugararmysick |  
+| bip_39_word_no_space_9 | displaypatientwitnessbracketoriginalsugararmysickoutput |  
 | bip_39_word_space_0 | ['display', 'patient', 'witness', 'bracket', 'original', 'sugar', 'army', 'sick', 'output', 'south', 'embark', 'april'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display patient witness bracket original sugar army sick output south |  

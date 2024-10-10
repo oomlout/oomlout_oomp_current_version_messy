@@ -122,6 +122,18 @@ spider
 reason
 almost
 payment |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportfathermergeannualalterspiderreasonalmostpaymenteasily |  
+| bip_39_word_no_space_11 | sportfathermergeannualalterspiderreasonalmostpaymenteasilyabsurd |  
+| bip_39_word_no_space_12 | sportfathermergeannualalterspiderreasonalmostpaymenteasilyabsurdagain |  
+| bip_39_word_no_space_2 | sportfather |  
+| bip_39_word_no_space_3 | sportfathermerge |  
+| bip_39_word_no_space_4 | sportfathermergeannual |  
+| bip_39_word_no_space_5 | sportfathermergeannualalter |  
+| bip_39_word_no_space_6 | sportfathermergeannualalterspider |  
+| bip_39_word_no_space_7 | sportfathermergeannualalterspiderreason |  
+| bip_39_word_no_space_8 | sportfathermergeannualalterspiderreasonalmost |  
+| bip_39_word_no_space_9 | sportfathermergeannualalterspiderreasonalmostpayment |  
 | bip_39_word_space_0 | ['sport', 'father', 'merge', 'annual', 'alter', 'spider', 'reason', 'almost', 'payment', 'easily', 'absurd', 'again'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport father merge annual alter spider reason almost payment easily |  

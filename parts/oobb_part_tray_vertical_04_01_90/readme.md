@@ -122,6 +122,18 @@ immune
 shy
 dance
 wire |  
+| bip_39_word_no_space_1 | snack |  
+| bip_39_word_no_space_10 | snackpowdertextdreamtwistimmuneshydancewiresyrup |  
+| bip_39_word_no_space_11 | snackpowdertextdreamtwistimmuneshydancewiresyruptraffic |  
+| bip_39_word_no_space_12 | snackpowdertextdreamtwistimmuneshydancewiresyruptrafficabstract |  
+| bip_39_word_no_space_2 | snackpowder |  
+| bip_39_word_no_space_3 | snackpowdertext |  
+| bip_39_word_no_space_4 | snackpowdertextdream |  
+| bip_39_word_no_space_5 | snackpowdertextdreamtwist |  
+| bip_39_word_no_space_6 | snackpowdertextdreamtwistimmune |  
+| bip_39_word_no_space_7 | snackpowdertextdreamtwistimmuneshy |  
+| bip_39_word_no_space_8 | snackpowdertextdreamtwistimmuneshydance |  
+| bip_39_word_no_space_9 | snackpowdertextdreamtwistimmuneshydancewire |  
 | bip_39_word_space_0 | ['snack', 'powder', 'text', 'dream', 'twist', 'immune', 'shy', 'dance', 'wire', 'syrup', 'traffic', 'abstract'] |  
 | bip_39_word_space_1 | snack |  
 | bip_39_word_space_10 | snack powder text dream twist immune shy dance wire syrup |  

@@ -122,6 +122,18 @@ slush
 text
 trophy
 teach |  
+| bip_39_word_no_space_1 | degree |  
+| bip_39_word_no_space_10 | degreeclothallowfollowunusualslushtexttrophyteachgrant |  
+| bip_39_word_no_space_11 | degreeclothallowfollowunusualslushtexttrophyteachgrantorchard |  
+| bip_39_word_no_space_12 | degreeclothallowfollowunusualslushtexttrophyteachgrantorchardarena |  
+| bip_39_word_no_space_2 | degreecloth |  
+| bip_39_word_no_space_3 | degreeclothallow |  
+| bip_39_word_no_space_4 | degreeclothallowfollow |  
+| bip_39_word_no_space_5 | degreeclothallowfollowunusual |  
+| bip_39_word_no_space_6 | degreeclothallowfollowunusualslush |  
+| bip_39_word_no_space_7 | degreeclothallowfollowunusualslushtext |  
+| bip_39_word_no_space_8 | degreeclothallowfollowunusualslushtexttrophy |  
+| bip_39_word_no_space_9 | degreeclothallowfollowunusualslushtexttrophyteach |  
 | bip_39_word_space_0 | ['degree', 'cloth', 'allow', 'follow', 'unusual', 'slush', 'text', 'trophy', 'teach', 'grant', 'orchard', 'arena'] |  
 | bip_39_word_space_1 | degree |  
 | bip_39_word_space_10 | degree cloth allow follow unusual slush text trophy teach grant |  

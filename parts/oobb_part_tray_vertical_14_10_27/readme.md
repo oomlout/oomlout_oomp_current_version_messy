@@ -122,6 +122,18 @@ magic
 clip
 used
 account |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hournetworkcornuntilacrossmagicclipusedaccountfun |  
+| bip_39_word_no_space_11 | hournetworkcornuntilacrossmagicclipusedaccountfunchuckle |  
+| bip_39_word_no_space_12 | hournetworkcornuntilacrossmagicclipusedaccountfunchuckleachieve |  
+| bip_39_word_no_space_2 | hournetwork |  
+| bip_39_word_no_space_3 | hournetworkcorn |  
+| bip_39_word_no_space_4 | hournetworkcornuntil |  
+| bip_39_word_no_space_5 | hournetworkcornuntilacross |  
+| bip_39_word_no_space_6 | hournetworkcornuntilacrossmagic |  
+| bip_39_word_no_space_7 | hournetworkcornuntilacrossmagicclip |  
+| bip_39_word_no_space_8 | hournetworkcornuntilacrossmagicclipused |  
+| bip_39_word_no_space_9 | hournetworkcornuntilacrossmagicclipusedaccount |  
 | bip_39_word_space_0 | ['hour', 'network', 'corn', 'until', 'across', 'magic', 'clip', 'used', 'account', 'fun', 'chuckle', 'achieve'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour network corn until across magic clip used account fun |  

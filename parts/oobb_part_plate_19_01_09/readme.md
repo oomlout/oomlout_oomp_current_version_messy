@@ -122,6 +122,18 @@ zebra
 liberty
 fee
 review |  
+| bip_39_word_no_space_1 | capital |  
+| bip_39_word_no_space_10 | capitalladderhistoryheadbottomzebralibertyfeereviewreduce |  
+| bip_39_word_no_space_11 | capitalladderhistoryheadbottomzebralibertyfeereviewreducemystery |  
+| bip_39_word_no_space_12 | capitalladderhistoryheadbottomzebralibertyfeereviewreducemysteryalone |  
+| bip_39_word_no_space_2 | capitalladder |  
+| bip_39_word_no_space_3 | capitalladderhistory |  
+| bip_39_word_no_space_4 | capitalladderhistoryhead |  
+| bip_39_word_no_space_5 | capitalladderhistoryheadbottom |  
+| bip_39_word_no_space_6 | capitalladderhistoryheadbottomzebra |  
+| bip_39_word_no_space_7 | capitalladderhistoryheadbottomzebraliberty |  
+| bip_39_word_no_space_8 | capitalladderhistoryheadbottomzebralibertyfee |  
+| bip_39_word_no_space_9 | capitalladderhistoryheadbottomzebralibertyfeereview |  
 | bip_39_word_space_0 | ['capital', 'ladder', 'history', 'head', 'bottom', 'zebra', 'liberty', 'fee', 'review', 'reduce', 'mystery', 'alone'] |  
 | bip_39_word_space_1 | capital |  
 | bip_39_word_space_10 | capital ladder history head bottom zebra liberty fee review reduce |  

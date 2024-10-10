@@ -122,6 +122,18 @@ carpet
 vicious
 boss
 truck |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | houraffordenemyofferstrikecarpetviciousbosstruckchest |  
+| bip_39_word_no_space_11 | houraffordenemyofferstrikecarpetviciousbosstruckchestslot |  
+| bip_39_word_no_space_12 | houraffordenemyofferstrikecarpetviciousbosstruckchestslotactor |  
+| bip_39_word_no_space_2 | hourafford |  
+| bip_39_word_no_space_3 | houraffordenemy |  
+| bip_39_word_no_space_4 | houraffordenemyoffer |  
+| bip_39_word_no_space_5 | houraffordenemyofferstrike |  
+| bip_39_word_no_space_6 | houraffordenemyofferstrikecarpet |  
+| bip_39_word_no_space_7 | houraffordenemyofferstrikecarpetvicious |  
+| bip_39_word_no_space_8 | houraffordenemyofferstrikecarpetviciousboss |  
+| bip_39_word_no_space_9 | houraffordenemyofferstrikecarpetviciousbosstruck |  
 | bip_39_word_space_0 | ['hour', 'afford', 'enemy', 'offer', 'strike', 'carpet', 'vicious', 'boss', 'truck', 'chest', 'slot', 'actor'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour afford enemy offer strike carpet vicious boss truck chest |  

@@ -122,6 +122,18 @@ hard
 desert
 between
 blame |  
+| bip_39_word_no_space_1 | swear |  
+| bip_39_word_no_space_10 | swearpanelamateurimmensesmokeharddesertbetweenblamerough |  
+| bip_39_word_no_space_11 | swearpanelamateurimmensesmokeharddesertbetweenblameroughhazard |  
+| bip_39_word_no_space_12 | swearpanelamateurimmensesmokeharddesertbetweenblameroughhazardabove |  
+| bip_39_word_no_space_2 | swearpanel |  
+| bip_39_word_no_space_3 | swearpanelamateur |  
+| bip_39_word_no_space_4 | swearpanelamateurimmense |  
+| bip_39_word_no_space_5 | swearpanelamateurimmensesmoke |  
+| bip_39_word_no_space_6 | swearpanelamateurimmensesmokehard |  
+| bip_39_word_no_space_7 | swearpanelamateurimmensesmokeharddesert |  
+| bip_39_word_no_space_8 | swearpanelamateurimmensesmokeharddesertbetween |  
+| bip_39_word_no_space_9 | swearpanelamateurimmensesmokeharddesertbetweenblame |  
 | bip_39_word_space_0 | ['swear', 'panel', 'amateur', 'immense', 'smoke', 'hard', 'desert', 'between', 'blame', 'rough', 'hazard', 'above'] |  
 | bip_39_word_space_1 | swear |  
 | bip_39_word_space_10 | swear panel amateur immense smoke hard desert between blame rough |  

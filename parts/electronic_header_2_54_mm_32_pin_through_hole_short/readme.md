@@ -122,6 +122,18 @@ confirm
 permit
 game
 fiction |  
+| bip_39_word_no_space_1 | chase |  
+| bip_39_word_no_space_10 | chasesirenunusualtowerkickconfirmpermitgamefictionbrave |  
+| bip_39_word_no_space_11 | chasesirenunusualtowerkickconfirmpermitgamefictionbraveradar |  
+| bip_39_word_no_space_12 | chasesirenunusualtowerkickconfirmpermitgamefictionbraveradarauthor |  
+| bip_39_word_no_space_2 | chasesiren |  
+| bip_39_word_no_space_3 | chasesirenunusual |  
+| bip_39_word_no_space_4 | chasesirenunusualtower |  
+| bip_39_word_no_space_5 | chasesirenunusualtowerkick |  
+| bip_39_word_no_space_6 | chasesirenunusualtowerkickconfirm |  
+| bip_39_word_no_space_7 | chasesirenunusualtowerkickconfirmpermit |  
+| bip_39_word_no_space_8 | chasesirenunusualtowerkickconfirmpermitgame |  
+| bip_39_word_no_space_9 | chasesirenunusualtowerkickconfirmpermitgamefiction |  
 | bip_39_word_space_0 | ['chase', 'siren', 'unusual', 'tower', 'kick', 'confirm', 'permit', 'game', 'fiction', 'brave', 'radar', 'author'] |  
 | bip_39_word_space_1 | chase |  
 | bip_39_word_space_10 | chase siren unusual tower kick confirm permit game fiction brave |  

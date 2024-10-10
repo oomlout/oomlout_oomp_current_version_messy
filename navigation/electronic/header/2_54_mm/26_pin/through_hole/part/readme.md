@@ -122,6 +122,18 @@ elbow
 tribe
 unusual
 output |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachgroupenrollflockleopardelbowtribeunusualoutputrandom |  
+| bip_39_word_no_space_11 | stomachgroupenrollflockleopardelbowtribeunusualoutputrandomdescribe |  
+| bip_39_word_no_space_12 | stomachgroupenrollflockleopardelbowtribeunusualoutputrandomdescribeactual |  
+| bip_39_word_no_space_2 | stomachgroup |  
+| bip_39_word_no_space_3 | stomachgroupenroll |  
+| bip_39_word_no_space_4 | stomachgroupenrollflock |  
+| bip_39_word_no_space_5 | stomachgroupenrollflockleopard |  
+| bip_39_word_no_space_6 | stomachgroupenrollflockleopardelbow |  
+| bip_39_word_no_space_7 | stomachgroupenrollflockleopardelbowtribe |  
+| bip_39_word_no_space_8 | stomachgroupenrollflockleopardelbowtribeunusual |  
+| bip_39_word_no_space_9 | stomachgroupenrollflockleopardelbowtribeunusualoutput |  
 | bip_39_word_space_0 | ['stomach', 'group', 'enroll', 'flock', 'leopard', 'elbow', 'tribe', 'unusual', 'output', 'random', 'describe', 'actual'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach group enroll flock leopard elbow tribe unusual output random |  

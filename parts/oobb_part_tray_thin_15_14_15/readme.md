@@ -122,6 +122,18 @@ slim
 morning
 raise
 maple |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | codeborderarrestshortbarrelslimmorningraisemaplegospel |  
+| bip_39_word_no_space_11 | codeborderarrestshortbarrelslimmorningraisemaplegospelhole |  
+| bip_39_word_no_space_12 | codeborderarrestshortbarrelslimmorningraisemaplegospelholearctic |  
+| bip_39_word_no_space_2 | codeborder |  
+| bip_39_word_no_space_3 | codeborderarrest |  
+| bip_39_word_no_space_4 | codeborderarrestshort |  
+| bip_39_word_no_space_5 | codeborderarrestshortbarrel |  
+| bip_39_word_no_space_6 | codeborderarrestshortbarrelslim |  
+| bip_39_word_no_space_7 | codeborderarrestshortbarrelslimmorning |  
+| bip_39_word_no_space_8 | codeborderarrestshortbarrelslimmorningraise |  
+| bip_39_word_no_space_9 | codeborderarrestshortbarrelslimmorningraisemaple |  
 | bip_39_word_space_0 | ['code', 'border', 'arrest', 'short', 'barrel', 'slim', 'morning', 'raise', 'maple', 'gospel', 'hole', 'arctic'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code border arrest short barrel slim morning raise maple gospel |  

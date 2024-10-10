@@ -122,6 +122,18 @@ unique
 glass
 arrive
 web |  
+| bip_39_word_no_space_1 | wash |  
+| bip_39_word_no_space_10 | washsnifftidestudentdisplayuniqueglassarrivewebmake |  
+| bip_39_word_no_space_11 | washsnifftidestudentdisplayuniqueglassarrivewebmakesuper |  
+| bip_39_word_no_space_12 | washsnifftidestudentdisplayuniqueglassarrivewebmakesuperattract |  
+| bip_39_word_no_space_2 | washsniff |  
+| bip_39_word_no_space_3 | washsnifftide |  
+| bip_39_word_no_space_4 | washsnifftidestudent |  
+| bip_39_word_no_space_5 | washsnifftidestudentdisplay |  
+| bip_39_word_no_space_6 | washsnifftidestudentdisplayunique |  
+| bip_39_word_no_space_7 | washsnifftidestudentdisplayuniqueglass |  
+| bip_39_word_no_space_8 | washsnifftidestudentdisplayuniqueglassarrive |  
+| bip_39_word_no_space_9 | washsnifftidestudentdisplayuniqueglassarriveweb |  
 | bip_39_word_space_0 | ['wash', 'sniff', 'tide', 'student', 'display', 'unique', 'glass', 'arrive', 'web', 'make', 'super', 'attract'] |  
 | bip_39_word_space_1 | wash |  
 | bip_39_word_space_10 | wash sniff tide student display unique glass arrive web make |  

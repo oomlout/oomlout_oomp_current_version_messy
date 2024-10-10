@@ -122,6 +122,18 @@ early
 congress
 dash
 prison |  
+| bip_39_word_no_space_1 | sudden |  
+| bip_39_word_no_space_10 | suddenivorybicycleaspectargueearlycongressdashprisonoffer |  
+| bip_39_word_no_space_11 | suddenivorybicycleaspectargueearlycongressdashprisonoffersail |  
+| bip_39_word_no_space_12 | suddenivorybicycleaspectargueearlycongressdashprisonoffersailattract |  
+| bip_39_word_no_space_2 | suddenivory |  
+| bip_39_word_no_space_3 | suddenivorybicycle |  
+| bip_39_word_no_space_4 | suddenivorybicycleaspect |  
+| bip_39_word_no_space_5 | suddenivorybicycleaspectargue |  
+| bip_39_word_no_space_6 | suddenivorybicycleaspectargueearly |  
+| bip_39_word_no_space_7 | suddenivorybicycleaspectargueearlycongress |  
+| bip_39_word_no_space_8 | suddenivorybicycleaspectargueearlycongressdash |  
+| bip_39_word_no_space_9 | suddenivorybicycleaspectargueearlycongressdashprison |  
 | bip_39_word_space_0 | ['sudden', 'ivory', 'bicycle', 'aspect', 'argue', 'early', 'congress', 'dash', 'prison', 'offer', 'sail', 'attract'] |  
 | bip_39_word_space_1 | sudden |  
 | bip_39_word_space_10 | sudden ivory bicycle aspect argue early congress dash prison offer |  

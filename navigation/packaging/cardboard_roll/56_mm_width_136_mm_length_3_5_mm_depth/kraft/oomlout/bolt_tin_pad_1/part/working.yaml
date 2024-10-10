@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sign
   voice
 
   elder'
+bip_39_word_no_space_1: sign
+bip_39_word_no_space_10: signhundredtrimnestarchsenseuponvoiceelderenact
+bip_39_word_no_space_11: signhundredtrimnestarchsenseuponvoiceelderenactboil
+bip_39_word_no_space_12: signhundredtrimnestarchsenseuponvoiceelderenactboilanother
+bip_39_word_no_space_2: signhundred
+bip_39_word_no_space_3: signhundredtrim
+bip_39_word_no_space_4: signhundredtrimnest
+bip_39_word_no_space_5: signhundredtrimnestarch
+bip_39_word_no_space_6: signhundredtrimnestarchsense
+bip_39_word_no_space_7: signhundredtrimnestarchsenseupon
+bip_39_word_no_space_8: signhundredtrimnestarchsenseuponvoice
+bip_39_word_no_space_9: signhundredtrimnestarchsenseuponvoiceelder
 bip_39_word_space_0:
 - sign
 - hundred

@@ -122,6 +122,18 @@ enforce
 major
 size
 protect |  
+| bip_39_word_no_space_1 | labor |  
+| bip_39_word_no_space_10 | laborvolcanocategoryrackroadenforcemajorsizeprotectsell |  
+| bip_39_word_no_space_11 | laborvolcanocategoryrackroadenforcemajorsizeprotectsellcanoe |  
+| bip_39_word_no_space_12 | laborvolcanocategoryrackroadenforcemajorsizeprotectsellcanoeanimal |  
+| bip_39_word_no_space_2 | laborvolcano |  
+| bip_39_word_no_space_3 | laborvolcanocategory |  
+| bip_39_word_no_space_4 | laborvolcanocategoryrack |  
+| bip_39_word_no_space_5 | laborvolcanocategoryrackroad |  
+| bip_39_word_no_space_6 | laborvolcanocategoryrackroadenforce |  
+| bip_39_word_no_space_7 | laborvolcanocategoryrackroadenforcemajor |  
+| bip_39_word_no_space_8 | laborvolcanocategoryrackroadenforcemajorsize |  
+| bip_39_word_no_space_9 | laborvolcanocategoryrackroadenforcemajorsizeprotect |  
 | bip_39_word_space_0 | ['labor', 'volcano', 'category', 'rack', 'road', 'enforce', 'major', 'size', 'protect', 'sell', 'canoe', 'animal'] |  
 | bip_39_word_space_1 | labor |  
 | bip_39_word_space_10 | labor volcano category rack road enforce major size protect sell |  

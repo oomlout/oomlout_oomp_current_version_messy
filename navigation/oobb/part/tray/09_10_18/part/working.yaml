@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sad
   sweet
 
   can'
+bip_39_word_no_space_1: sad
+bip_39_word_no_space_10: sadvehiclemansionpigeonfruityouquicksweetcanindoor
+bip_39_word_no_space_11: sadvehiclemansionpigeonfruityouquicksweetcanindoortaxi
+bip_39_word_no_space_12: sadvehiclemansionpigeonfruityouquicksweetcanindoortaxiarmy
+bip_39_word_no_space_2: sadvehicle
+bip_39_word_no_space_3: sadvehiclemansion
+bip_39_word_no_space_4: sadvehiclemansionpigeon
+bip_39_word_no_space_5: sadvehiclemansionpigeonfruit
+bip_39_word_no_space_6: sadvehiclemansionpigeonfruityou
+bip_39_word_no_space_7: sadvehiclemansionpigeonfruityouquick
+bip_39_word_no_space_8: sadvehiclemansionpigeonfruityouquicksweet
+bip_39_word_no_space_9: sadvehiclemansionpigeonfruityouquicksweetcan
 bip_39_word_space_0:
 - sad
 - vehicle

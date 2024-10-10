@@ -122,6 +122,18 @@ mercy
 equal
 pave
 emerge |  
+| bip_39_word_no_space_1 | topic |  
+| bip_39_word_no_space_10 | topickingdomscreenfancyfoilmercyequalpaveemergeannual |  
+| bip_39_word_no_space_11 | topickingdomscreenfancyfoilmercyequalpaveemergeannualmovie |  
+| bip_39_word_no_space_12 | topickingdomscreenfancyfoilmercyequalpaveemergeannualmovieaccident |  
+| bip_39_word_no_space_2 | topickingdom |  
+| bip_39_word_no_space_3 | topickingdomscreen |  
+| bip_39_word_no_space_4 | topickingdomscreenfancy |  
+| bip_39_word_no_space_5 | topickingdomscreenfancyfoil |  
+| bip_39_word_no_space_6 | topickingdomscreenfancyfoilmercy |  
+| bip_39_word_no_space_7 | topickingdomscreenfancyfoilmercyequal |  
+| bip_39_word_no_space_8 | topickingdomscreenfancyfoilmercyequalpave |  
+| bip_39_word_no_space_9 | topickingdomscreenfancyfoilmercyequalpaveemerge |  
 | bip_39_word_space_0 | ['topic', 'kingdom', 'screen', 'fancy', 'foil', 'mercy', 'equal', 'pave', 'emerge', 'annual', 'movie', 'accident'] |  
 | bip_39_word_space_1 | topic |  
 | bip_39_word_space_10 | topic kingdom screen fancy foil mercy equal pave emerge annual |  

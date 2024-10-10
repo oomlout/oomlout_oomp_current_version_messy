@@ -122,6 +122,18 @@ crisp
 vocal
 sadness
 acoustic |  
+| bip_39_word_no_space_1 | side |  
+| bip_39_word_no_space_10 | sideskullluggagefictionimmunecrispvocalsadnessacousticforward |  
+| bip_39_word_no_space_11 | sideskullluggagefictionimmunecrispvocalsadnessacousticforwardstone |  
+| bip_39_word_no_space_12 | sideskullluggagefictionimmunecrispvocalsadnessacousticforwardstoneagree |  
+| bip_39_word_no_space_2 | sideskull |  
+| bip_39_word_no_space_3 | sideskullluggage |  
+| bip_39_word_no_space_4 | sideskullluggagefiction |  
+| bip_39_word_no_space_5 | sideskullluggagefictionimmune |  
+| bip_39_word_no_space_6 | sideskullluggagefictionimmunecrisp |  
+| bip_39_word_no_space_7 | sideskullluggagefictionimmunecrispvocal |  
+| bip_39_word_no_space_8 | sideskullluggagefictionimmunecrispvocalsadness |  
+| bip_39_word_no_space_9 | sideskullluggagefictionimmunecrispvocalsadnessacoustic |  
 | bip_39_word_space_0 | ['side', 'skull', 'luggage', 'fiction', 'immune', 'crisp', 'vocal', 'sadness', 'acoustic', 'forward', 'stone', 'agree'] |  
 | bip_39_word_space_1 | side |  
 | bip_39_word_space_10 | side skull luggage fiction immune crisp vocal sadness acoustic forward |  

@@ -122,6 +122,18 @@ spin
 uncover
 abuse
 believe |  
+| bip_39_word_no_space_1 | planet |  
+| bip_39_word_no_space_10 | planetangrychimneyreflecttentspinuncoverabusebelievepilot |  
+| bip_39_word_no_space_11 | planetangrychimneyreflecttentspinuncoverabusebelievepilotslight |  
+| bip_39_word_no_space_12 | planetangrychimneyreflecttentspinuncoverabusebelievepilotslightaddict |  
+| bip_39_word_no_space_2 | planetangry |  
+| bip_39_word_no_space_3 | planetangrychimney |  
+| bip_39_word_no_space_4 | planetangrychimneyreflect |  
+| bip_39_word_no_space_5 | planetangrychimneyreflecttent |  
+| bip_39_word_no_space_6 | planetangrychimneyreflecttentspin |  
+| bip_39_word_no_space_7 | planetangrychimneyreflecttentspinuncover |  
+| bip_39_word_no_space_8 | planetangrychimneyreflecttentspinuncoverabuse |  
+| bip_39_word_no_space_9 | planetangrychimneyreflecttentspinuncoverabusebelieve |  
 | bip_39_word_space_0 | ['planet', 'angry', 'chimney', 'reflect', 'tent', 'spin', 'uncover', 'abuse', 'believe', 'pilot', 'slight', 'addict'] |  
 | bip_39_word_space_1 | planet |  
 | bip_39_word_space_10 | planet angry chimney reflect tent spin uncover abuse believe pilot |  

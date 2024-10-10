@@ -122,6 +122,18 @@ bamboo
 beach
 between
 beef |  
+| bip_39_word_no_space_1 | tilt |  
+| bip_39_word_no_space_10 | tiltpowercerealsoonframebamboobeachbetweenbeefkidney |  
+| bip_39_word_no_space_11 | tiltpowercerealsoonframebamboobeachbetweenbeefkidneyshrimp |  
+| bip_39_word_no_space_12 | tiltpowercerealsoonframebamboobeachbetweenbeefkidneyshrimpair |  
+| bip_39_word_no_space_2 | tiltpower |  
+| bip_39_word_no_space_3 | tiltpowercereal |  
+| bip_39_word_no_space_4 | tiltpowercerealsoon |  
+| bip_39_word_no_space_5 | tiltpowercerealsoonframe |  
+| bip_39_word_no_space_6 | tiltpowercerealsoonframebamboo |  
+| bip_39_word_no_space_7 | tiltpowercerealsoonframebamboobeach |  
+| bip_39_word_no_space_8 | tiltpowercerealsoonframebamboobeachbetween |  
+| bip_39_word_no_space_9 | tiltpowercerealsoonframebamboobeachbetweenbeef |  
 | bip_39_word_space_0 | ['tilt', 'power', 'cereal', 'soon', 'frame', 'bamboo', 'beach', 'between', 'beef', 'kidney', 'shrimp', 'air'] |  
 | bip_39_word_space_1 | tilt |  
 | bip_39_word_space_10 | tilt power cereal soon frame bamboo beach between beef kidney |  

@@ -122,6 +122,18 @@ oppose
 network
 chapter
 critic |  
+| bip_39_word_no_space_1 | much |  
+| bip_39_word_no_space_10 | muchdanceflipslidenextopposenetworkchaptercriticflat |  
+| bip_39_word_no_space_11 | muchdanceflipslidenextopposenetworkchaptercriticflatscene |  
+| bip_39_word_no_space_12 | muchdanceflipslidenextopposenetworkchaptercriticflatsceneaim |  
+| bip_39_word_no_space_2 | muchdance |  
+| bip_39_word_no_space_3 | muchdanceflip |  
+| bip_39_word_no_space_4 | muchdanceflipslide |  
+| bip_39_word_no_space_5 | muchdanceflipslidenext |  
+| bip_39_word_no_space_6 | muchdanceflipslidenextoppose |  
+| bip_39_word_no_space_7 | muchdanceflipslidenextopposenetwork |  
+| bip_39_word_no_space_8 | muchdanceflipslidenextopposenetworkchapter |  
+| bip_39_word_no_space_9 | muchdanceflipslidenextopposenetworkchaptercritic |  
 | bip_39_word_space_0 | ['much', 'dance', 'flip', 'slide', 'next', 'oppose', 'network', 'chapter', 'critic', 'flat', 'scene', 'aim'] |  
 | bip_39_word_space_1 | much |  
 | bip_39_word_space_10 | much dance flip slide next oppose network chapter critic flat |  

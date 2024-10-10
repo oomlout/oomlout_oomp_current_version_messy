@@ -122,6 +122,18 @@ supply
 ethics
 dog
 item |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmafluidyoungreuniontravelsupplyethicsdogitemdecline |  
+| bip_39_word_no_space_11 | asthmafluidyoungreuniontravelsupplyethicsdogitemdeclineluxury |  
+| bip_39_word_no_space_12 | asthmafluidyoungreuniontravelsupplyethicsdogitemdeclineluxuryarctic |  
+| bip_39_word_no_space_2 | asthmafluid |  
+| bip_39_word_no_space_3 | asthmafluidyoung |  
+| bip_39_word_no_space_4 | asthmafluidyoungreunion |  
+| bip_39_word_no_space_5 | asthmafluidyoungreuniontravel |  
+| bip_39_word_no_space_6 | asthmafluidyoungreuniontravelsupply |  
+| bip_39_word_no_space_7 | asthmafluidyoungreuniontravelsupplyethics |  
+| bip_39_word_no_space_8 | asthmafluidyoungreuniontravelsupplyethicsdog |  
+| bip_39_word_no_space_9 | asthmafluidyoungreuniontravelsupplyethicsdogitem |  
 | bip_39_word_space_0 | ['asthma', 'fluid', 'young', 'reunion', 'travel', 'supply', 'ethics', 'dog', 'item', 'decline', 'luxury', 'arctic'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma fluid young reunion travel supply ethics dog item decline |  

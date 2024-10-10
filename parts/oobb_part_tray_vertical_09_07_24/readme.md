@@ -122,6 +122,18 @@ suit
 hunt
 gasp
 kit |  
+| bip_39_word_no_space_1 | village |  
+| bip_39_word_no_space_10 | villageidentifyislandfrontsheriffsuithuntgaspkitmiss |  
+| bip_39_word_no_space_11 | villageidentifyislandfrontsheriffsuithuntgaspkitmisspen |  
+| bip_39_word_no_space_12 | villageidentifyislandfrontsheriffsuithuntgaspkitmisspenability |  
+| bip_39_word_no_space_2 | villageidentify |  
+| bip_39_word_no_space_3 | villageidentifyisland |  
+| bip_39_word_no_space_4 | villageidentifyislandfront |  
+| bip_39_word_no_space_5 | villageidentifyislandfrontsheriff |  
+| bip_39_word_no_space_6 | villageidentifyislandfrontsheriffsuit |  
+| bip_39_word_no_space_7 | villageidentifyislandfrontsheriffsuithunt |  
+| bip_39_word_no_space_8 | villageidentifyislandfrontsheriffsuithuntgasp |  
+| bip_39_word_no_space_9 | villageidentifyislandfrontsheriffsuithuntgaspkit |  
 | bip_39_word_space_0 | ['village', 'identify', 'island', 'front', 'sheriff', 'suit', 'hunt', 'gasp', 'kit', 'miss', 'pen', 'ability'] |  
 | bip_39_word_space_1 | village |  
 | bip_39_word_space_10 | village identify island front sheriff suit hunt gasp kit miss |  

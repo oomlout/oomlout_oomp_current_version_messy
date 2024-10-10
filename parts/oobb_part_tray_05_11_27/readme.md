@@ -122,6 +122,18 @@ neither
 mother
 blast
 upper |  
+| bip_39_word_no_space_1 | boy |  
+| bip_39_word_no_space_10 | boywinkspirithumorglanceneithermotherblastupperchase |  
+| bip_39_word_no_space_11 | boywinkspirithumorglanceneithermotherblastupperchasepolar |  
+| bip_39_word_no_space_12 | boywinkspirithumorglanceneithermotherblastupperchasepolaralone |  
+| bip_39_word_no_space_2 | boywink |  
+| bip_39_word_no_space_3 | boywinkspirit |  
+| bip_39_word_no_space_4 | boywinkspirithumor |  
+| bip_39_word_no_space_5 | boywinkspirithumorglance |  
+| bip_39_word_no_space_6 | boywinkspirithumorglanceneither |  
+| bip_39_word_no_space_7 | boywinkspirithumorglanceneithermother |  
+| bip_39_word_no_space_8 | boywinkspirithumorglanceneithermotherblast |  
+| bip_39_word_no_space_9 | boywinkspirithumorglanceneithermotherblastupper |  
 | bip_39_word_space_0 | ['boy', 'wink', 'spirit', 'humor', 'glance', 'neither', 'mother', 'blast', 'upper', 'chase', 'polar', 'alone'] |  
 | bip_39_word_space_1 | boy |  
 | bip_39_word_space_10 | boy wink spirit humor glance neither mother blast upper chase |  

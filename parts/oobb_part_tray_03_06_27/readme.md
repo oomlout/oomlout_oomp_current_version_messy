@@ -122,6 +122,18 @@ chaos
 hobby
 zebra
 print |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrosslotteryengageevildevicechaoshobbyzebraprintkeep |  
+| bip_39_word_no_space_11 | acrosslotteryengageevildevicechaoshobbyzebraprintkeeplevel |  
+| bip_39_word_no_space_12 | acrosslotteryengageevildevicechaoshobbyzebraprintkeeplevelaccuse |  
+| bip_39_word_no_space_2 | acrosslottery |  
+| bip_39_word_no_space_3 | acrosslotteryengage |  
+| bip_39_word_no_space_4 | acrosslotteryengageevil |  
+| bip_39_word_no_space_5 | acrosslotteryengageevildevice |  
+| bip_39_word_no_space_6 | acrosslotteryengageevildevicechaos |  
+| bip_39_word_no_space_7 | acrosslotteryengageevildevicechaoshobby |  
+| bip_39_word_no_space_8 | acrosslotteryengageevildevicechaoshobbyzebra |  
+| bip_39_word_no_space_9 | acrosslotteryengageevildevicechaoshobbyzebraprint |  
 | bip_39_word_space_0 | ['across', 'lottery', 'engage', 'evil', 'device', 'chaos', 'hobby', 'zebra', 'print', 'keep', 'level', 'accuse'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across lottery engage evil device chaos hobby zebra print keep |  

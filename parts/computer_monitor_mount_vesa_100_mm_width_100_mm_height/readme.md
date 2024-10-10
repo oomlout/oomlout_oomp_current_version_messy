@@ -122,6 +122,18 @@ wine
 retire
 coach
 drastic |  
+| bip_39_word_no_space_1 | illness |  
+| bip_39_word_no_space_10 | illnesscoffeenoticemainwonderwineretirecoachdrastictiger |  
+| bip_39_word_no_space_11 | illnesscoffeenoticemainwonderwineretirecoachdrastictigerliar |  
+| bip_39_word_no_space_12 | illnesscoffeenoticemainwonderwineretirecoachdrastictigerliararctic |  
+| bip_39_word_no_space_2 | illnesscoffee |  
+| bip_39_word_no_space_3 | illnesscoffeenotice |  
+| bip_39_word_no_space_4 | illnesscoffeenoticemain |  
+| bip_39_word_no_space_5 | illnesscoffeenoticemainwonder |  
+| bip_39_word_no_space_6 | illnesscoffeenoticemainwonderwine |  
+| bip_39_word_no_space_7 | illnesscoffeenoticemainwonderwineretire |  
+| bip_39_word_no_space_8 | illnesscoffeenoticemainwonderwineretirecoach |  
+| bip_39_word_no_space_9 | illnesscoffeenoticemainwonderwineretirecoachdrastic |  
 | bip_39_word_space_0 | ['illness', 'coffee', 'notice', 'main', 'wonder', 'wine', 'retire', 'coach', 'drastic', 'tiger', 'liar', 'arctic'] |  
 | bip_39_word_space_1 | illness |  
 | bip_39_word_space_10 | illness coffee notice main wonder wine retire coach drastic tiger |  

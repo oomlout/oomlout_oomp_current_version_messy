@@ -122,6 +122,18 @@ jealous
 worth
 cloud
 second |  
+| bip_39_word_no_space_1 | danger |  
+| bip_39_word_no_space_10 | dangerholetransferjumpaddictjealousworthcloudsecondstomach |  
+| bip_39_word_no_space_11 | dangerholetransferjumpaddictjealousworthcloudsecondstomachcrew |  
+| bip_39_word_no_space_12 | dangerholetransferjumpaddictjealousworthcloudsecondstomachcrewarmy |  
+| bip_39_word_no_space_2 | dangerhole |  
+| bip_39_word_no_space_3 | dangerholetransfer |  
+| bip_39_word_no_space_4 | dangerholetransferjump |  
+| bip_39_word_no_space_5 | dangerholetransferjumpaddict |  
+| bip_39_word_no_space_6 | dangerholetransferjumpaddictjealous |  
+| bip_39_word_no_space_7 | dangerholetransferjumpaddictjealousworth |  
+| bip_39_word_no_space_8 | dangerholetransferjumpaddictjealousworthcloud |  
+| bip_39_word_no_space_9 | dangerholetransferjumpaddictjealousworthcloudsecond |  
 | bip_39_word_space_0 | ['danger', 'hole', 'transfer', 'jump', 'addict', 'jealous', 'worth', 'cloud', 'second', 'stomach', 'crew', 'army'] |  
 | bip_39_word_space_1 | danger |  
 | bip_39_word_space_10 | danger hole transfer jump addict jealous worth cloud second stomach |  

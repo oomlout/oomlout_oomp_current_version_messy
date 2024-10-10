@@ -122,6 +122,18 @@ anger
 nature
 artefact
 similar |  
+| bip_39_word_no_space_1 | grid |  
+| bip_39_word_no_space_10 | gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenew |  
+| bip_39_word_no_space_11 | gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenewordinary |  
+| bip_39_word_no_space_12 | gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenewordinaryalter |  
+| bip_39_word_no_space_2 | gridluxury |  
+| bip_39_word_no_space_3 | gridluxuryneglect |  
+| bip_39_word_no_space_4 | gridluxuryneglectalcohol |  
+| bip_39_word_no_space_5 | gridluxuryneglectalcoholpumpkin |  
+| bip_39_word_no_space_6 | gridluxuryneglectalcoholpumpkinanger |  
+| bip_39_word_no_space_7 | gridluxuryneglectalcoholpumpkinangernature |  
+| bip_39_word_no_space_8 | gridluxuryneglectalcoholpumpkinangernatureartefact |  
+| bip_39_word_no_space_9 | gridluxuryneglectalcoholpumpkinangernatureartefactsimilar |  
 | bip_39_word_space_0 | ['grid', 'luxury', 'neglect', 'alcohol', 'pumpkin', 'anger', 'nature', 'artefact', 'similar', 'renew', 'ordinary', 'alter'] |  
 | bip_39_word_space_1 | grid |  
 | bip_39_word_space_10 | grid luxury neglect alcohol pumpkin anger nature artefact similar renew |  

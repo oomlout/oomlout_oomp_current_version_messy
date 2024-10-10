@@ -122,6 +122,18 @@ ritual
 endless
 carry
 bus |  
+| bip_39_word_no_space_1 | century |  
+| bip_39_word_no_space_10 | centurycoilcodemushroomappleritualendlesscarrybuspen |  
+| bip_39_word_no_space_11 | centurycoilcodemushroomappleritualendlesscarrybuspenagain |  
+| bip_39_word_no_space_12 | centurycoilcodemushroomappleritualendlesscarrybuspenagainaudit |  
+| bip_39_word_no_space_2 | centurycoil |  
+| bip_39_word_no_space_3 | centurycoilcode |  
+| bip_39_word_no_space_4 | centurycoilcodemushroom |  
+| bip_39_word_no_space_5 | centurycoilcodemushroomapple |  
+| bip_39_word_no_space_6 | centurycoilcodemushroomappleritual |  
+| bip_39_word_no_space_7 | centurycoilcodemushroomappleritualendless |  
+| bip_39_word_no_space_8 | centurycoilcodemushroomappleritualendlesscarry |  
+| bip_39_word_no_space_9 | centurycoilcodemushroomappleritualendlesscarrybus |  
 | bip_39_word_space_0 | ['century', 'coil', 'code', 'mushroom', 'apple', 'ritual', 'endless', 'carry', 'bus', 'pen', 'again', 'audit'] |  
 | bip_39_word_space_1 | century |  
 | bip_39_word_space_10 | century coil code mushroom apple ritual endless carry bus pen |  

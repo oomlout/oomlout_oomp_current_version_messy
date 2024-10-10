@@ -122,6 +122,18 @@ cancel
 heavy
 athlete
 enroll |  
+| bip_39_word_no_space_1 | argue |  
+| bip_39_word_no_space_10 | arguecattransferpraisetoycancelheavyathleteenrollmoon |  
+| bip_39_word_no_space_11 | arguecattransferpraisetoycancelheavyathleteenrollmoonozone |  
+| bip_39_word_no_space_12 | arguecattransferpraisetoycancelheavyathleteenrollmoonozoneasset |  
+| bip_39_word_no_space_2 | arguecat |  
+| bip_39_word_no_space_3 | arguecattransfer |  
+| bip_39_word_no_space_4 | arguecattransferpraise |  
+| bip_39_word_no_space_5 | arguecattransferpraisetoy |  
+| bip_39_word_no_space_6 | arguecattransferpraisetoycancel |  
+| bip_39_word_no_space_7 | arguecattransferpraisetoycancelheavy |  
+| bip_39_word_no_space_8 | arguecattransferpraisetoycancelheavyathlete |  
+| bip_39_word_no_space_9 | arguecattransferpraisetoycancelheavyathleteenroll |  
 | bip_39_word_space_0 | ['argue', 'cat', 'transfer', 'praise', 'toy', 'cancel', 'heavy', 'athlete', 'enroll', 'moon', 'ozone', 'asset'] |  
 | bip_39_word_space_1 | argue |  
 | bip_39_word_space_10 | argue cat transfer praise toy cancel heavy athlete enroll moon |  

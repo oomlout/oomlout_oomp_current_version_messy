@@ -122,6 +122,18 @@ fatal
 yellow
 bench
 symbol |  
+| bip_39_word_no_space_1 | jacket |  
+| bip_39_word_no_space_10 | jacketriskuponreopenturkeyfatalyellowbenchsymbolaway |  
+| bip_39_word_no_space_11 | jacketriskuponreopenturkeyfatalyellowbenchsymbolawayhover |  
+| bip_39_word_no_space_12 | jacketriskuponreopenturkeyfatalyellowbenchsymbolawayhoverattitude |  
+| bip_39_word_no_space_2 | jacketrisk |  
+| bip_39_word_no_space_3 | jacketriskupon |  
+| bip_39_word_no_space_4 | jacketriskuponreopen |  
+| bip_39_word_no_space_5 | jacketriskuponreopenturkey |  
+| bip_39_word_no_space_6 | jacketriskuponreopenturkeyfatal |  
+| bip_39_word_no_space_7 | jacketriskuponreopenturkeyfatalyellow |  
+| bip_39_word_no_space_8 | jacketriskuponreopenturkeyfatalyellowbench |  
+| bip_39_word_no_space_9 | jacketriskuponreopenturkeyfatalyellowbenchsymbol |  
 | bip_39_word_space_0 | ['jacket', 'risk', 'upon', 'reopen', 'turkey', 'fatal', 'yellow', 'bench', 'symbol', 'away', 'hover', 'attitude'] |  
 | bip_39_word_space_1 | jacket |  
 | bip_39_word_space_10 | jacket risk upon reopen turkey fatal yellow bench symbol away |  

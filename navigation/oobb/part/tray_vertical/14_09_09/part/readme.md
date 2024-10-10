@@ -122,6 +122,18 @@ segment
 flock
 august
 giggle |  
+| bip_39_word_no_space_1 | super |  
+| bip_39_word_no_space_10 | supercoconutaccusegesturenecksegmentflockaugustgiggleoutput |  
+| bip_39_word_no_space_11 | supercoconutaccusegesturenecksegmentflockaugustgiggleoutputten |  
+| bip_39_word_no_space_12 | supercoconutaccusegesturenecksegmentflockaugustgiggleoutputtenage |  
+| bip_39_word_no_space_2 | supercoconut |  
+| bip_39_word_no_space_3 | supercoconutaccuse |  
+| bip_39_word_no_space_4 | supercoconutaccusegesture |  
+| bip_39_word_no_space_5 | supercoconutaccusegestureneck |  
+| bip_39_word_no_space_6 | supercoconutaccusegesturenecksegment |  
+| bip_39_word_no_space_7 | supercoconutaccusegesturenecksegmentflock |  
+| bip_39_word_no_space_8 | supercoconutaccusegesturenecksegmentflockaugust |  
+| bip_39_word_no_space_9 | supercoconutaccusegesturenecksegmentflockaugustgiggle |  
 | bip_39_word_space_0 | ['super', 'coconut', 'accuse', 'gesture', 'neck', 'segment', 'flock', 'august', 'giggle', 'output', 'ten', 'age'] |  
 | bip_39_word_space_1 | super |  
 | bip_39_word_space_10 | super coconut accuse gesture neck segment flock august giggle output |  

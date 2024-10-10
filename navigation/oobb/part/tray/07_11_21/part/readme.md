@@ -122,6 +122,18 @@ pill
 honey
 town
 loan |  
+| bip_39_word_no_space_1 | expect |  
+| bip_39_word_no_space_10 | expecttomatoownerfingermorepillhoneytownloanvisual |  
+| bip_39_word_no_space_11 | expecttomatoownerfingermorepillhoneytownloanvisualraccoon |  
+| bip_39_word_no_space_12 | expecttomatoownerfingermorepillhoneytownloanvisualraccoonallow |  
+| bip_39_word_no_space_2 | expecttomato |  
+| bip_39_word_no_space_3 | expecttomatoowner |  
+| bip_39_word_no_space_4 | expecttomatoownerfinger |  
+| bip_39_word_no_space_5 | expecttomatoownerfingermore |  
+| bip_39_word_no_space_6 | expecttomatoownerfingermorepill |  
+| bip_39_word_no_space_7 | expecttomatoownerfingermorepillhoney |  
+| bip_39_word_no_space_8 | expecttomatoownerfingermorepillhoneytown |  
+| bip_39_word_no_space_9 | expecttomatoownerfingermorepillhoneytownloan |  
 | bip_39_word_space_0 | ['expect', 'tomato', 'owner', 'finger', 'more', 'pill', 'honey', 'town', 'loan', 'visual', 'raccoon', 'allow'] |  
 | bip_39_word_space_1 | expect |  
 | bip_39_word_space_10 | expect tomato owner finger more pill honey town loan visual |  

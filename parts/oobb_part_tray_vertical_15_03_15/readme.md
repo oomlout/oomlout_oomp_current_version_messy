@@ -122,6 +122,18 @@ apart
 hollow
 midnight
 cattle |  
+| bip_39_word_no_space_1 | lizard |  
+| bip_39_word_no_space_10 | lizardyardoffcoconutcorrectaparthollowmidnightcattlereopen |  
+| bip_39_word_no_space_11 | lizardyardoffcoconutcorrectaparthollowmidnightcattlereopenstudent |  
+| bip_39_word_no_space_12 | lizardyardoffcoconutcorrectaparthollowmidnightcattlereopenstudentaffair |  
+| bip_39_word_no_space_2 | lizardyard |  
+| bip_39_word_no_space_3 | lizardyardoff |  
+| bip_39_word_no_space_4 | lizardyardoffcoconut |  
+| bip_39_word_no_space_5 | lizardyardoffcoconutcorrect |  
+| bip_39_word_no_space_6 | lizardyardoffcoconutcorrectapart |  
+| bip_39_word_no_space_7 | lizardyardoffcoconutcorrectaparthollow |  
+| bip_39_word_no_space_8 | lizardyardoffcoconutcorrectaparthollowmidnight |  
+| bip_39_word_no_space_9 | lizardyardoffcoconutcorrectaparthollowmidnightcattle |  
 | bip_39_word_space_0 | ['lizard', 'yard', 'off', 'coconut', 'correct', 'apart', 'hollow', 'midnight', 'cattle', 'reopen', 'student', 'affair'] |  
 | bip_39_word_space_1 | lizard |  
 | bip_39_word_space_10 | lizard yard off coconut correct apart hollow midnight cattle reopen |  

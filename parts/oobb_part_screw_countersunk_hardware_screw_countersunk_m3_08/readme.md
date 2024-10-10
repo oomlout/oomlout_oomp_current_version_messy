@@ -122,6 +122,18 @@ tray
 taxi
 toward
 want |  
+| bip_39_word_no_space_1 | slab |  
+| bip_39_word_no_space_10 | slabwestswimaffairfictiontraytaxitowardwantmobile |  
+| bip_39_word_no_space_11 | slabwestswimaffairfictiontraytaxitowardwantmobilelong |  
+| bip_39_word_no_space_12 | slabwestswimaffairfictiontraytaxitowardwantmobilelongalready |  
+| bip_39_word_no_space_2 | slabwest |  
+| bip_39_word_no_space_3 | slabwestswim |  
+| bip_39_word_no_space_4 | slabwestswimaffair |  
+| bip_39_word_no_space_5 | slabwestswimaffairfiction |  
+| bip_39_word_no_space_6 | slabwestswimaffairfictiontray |  
+| bip_39_word_no_space_7 | slabwestswimaffairfictiontraytaxi |  
+| bip_39_word_no_space_8 | slabwestswimaffairfictiontraytaxitoward |  
+| bip_39_word_no_space_9 | slabwestswimaffairfictiontraytaxitowardwant |  
 | bip_39_word_space_0 | ['slab', 'west', 'swim', 'affair', 'fiction', 'tray', 'taxi', 'toward', 'want', 'mobile', 'long', 'already'] |  
 | bip_39_word_space_1 | slab |  
 | bip_39_word_space_10 | slab west swim affair fiction tray taxi toward want mobile |  

@@ -122,6 +122,18 @@ dad
 forest
 power
 ripple |  
+| bip_39_word_no_space_1 | move |  
+| bip_39_word_no_space_10 | moveannualchoicepulseopposedadforestpowerripplescare |  
+| bip_39_word_no_space_11 | moveannualchoicepulseopposedadforestpowerripplescareupdate |  
+| bip_39_word_no_space_12 | moveannualchoicepulseopposedadforestpowerripplescareupdateagain |  
+| bip_39_word_no_space_2 | moveannual |  
+| bip_39_word_no_space_3 | moveannualchoice |  
+| bip_39_word_no_space_4 | moveannualchoicepulse |  
+| bip_39_word_no_space_5 | moveannualchoicepulseoppose |  
+| bip_39_word_no_space_6 | moveannualchoicepulseopposedad |  
+| bip_39_word_no_space_7 | moveannualchoicepulseopposedadforest |  
+| bip_39_word_no_space_8 | moveannualchoicepulseopposedadforestpower |  
+| bip_39_word_no_space_9 | moveannualchoicepulseopposedadforestpowerripple |  
 | bip_39_word_space_0 | ['move', 'annual', 'choice', 'pulse', 'oppose', 'dad', 'forest', 'power', 'ripple', 'scare', 'update', 'again'] |  
 | bip_39_word_space_1 | move |  
 | bip_39_word_space_10 | move annual choice pulse oppose dad forest power ripple scare |  

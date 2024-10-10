@@ -122,6 +122,18 @@ because
 assault
 build
 upon |  
+| bip_39_word_no_space_1 | use |  
+| bip_39_word_no_space_10 | usetuitiontoemoviegriefbecauseassaultbuilduponseed |  
+| bip_39_word_no_space_11 | usetuitiontoemoviegriefbecauseassaultbuilduponseedearth |  
+| bip_39_word_no_space_12 | usetuitiontoemoviegriefbecauseassaultbuilduponseedearthapple |  
+| bip_39_word_no_space_2 | usetuition |  
+| bip_39_word_no_space_3 | usetuitiontoe |  
+| bip_39_word_no_space_4 | usetuitiontoemovie |  
+| bip_39_word_no_space_5 | usetuitiontoemoviegrief |  
+| bip_39_word_no_space_6 | usetuitiontoemoviegriefbecause |  
+| bip_39_word_no_space_7 | usetuitiontoemoviegriefbecauseassault |  
+| bip_39_word_no_space_8 | usetuitiontoemoviegriefbecauseassaultbuild |  
+| bip_39_word_no_space_9 | usetuitiontoemoviegriefbecauseassaultbuildupon |  
 | bip_39_word_space_0 | ['use', 'tuition', 'toe', 'movie', 'grief', 'because', 'assault', 'build', 'upon', 'seed', 'earth', 'apple'] |  
 | bip_39_word_space_1 | use |  
 | bip_39_word_space_10 | use tuition toe movie grief because assault build upon seed |  

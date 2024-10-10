@@ -122,6 +122,18 @@ glance
 enjoy
 injury
 year |  
+| bip_39_word_no_space_1 | index |  
+| bip_39_word_no_space_10 | indexveteranidlecraftinheritglanceenjoyinjuryyearcopy |  
+| bip_39_word_no_space_11 | indexveteranidlecraftinheritglanceenjoyinjuryyearcopystove |  
+| bip_39_word_no_space_12 | indexveteranidlecraftinheritglanceenjoyinjuryyearcopystoveability |  
+| bip_39_word_no_space_2 | indexveteran |  
+| bip_39_word_no_space_3 | indexveteranidle |  
+| bip_39_word_no_space_4 | indexveteranidlecraft |  
+| bip_39_word_no_space_5 | indexveteranidlecraftinherit |  
+| bip_39_word_no_space_6 | indexveteranidlecraftinheritglance |  
+| bip_39_word_no_space_7 | indexveteranidlecraftinheritglanceenjoy |  
+| bip_39_word_no_space_8 | indexveteranidlecraftinheritglanceenjoyinjury |  
+| bip_39_word_no_space_9 | indexveteranidlecraftinheritglanceenjoyinjuryyear |  
 | bip_39_word_space_0 | ['index', 'veteran', 'idle', 'craft', 'inherit', 'glance', 'enjoy', 'injury', 'year', 'copy', 'stove', 'ability'] |  
 | bip_39_word_space_1 | index |  
 | bip_39_word_space_10 | index veteran idle craft inherit glance enjoy injury year copy |  

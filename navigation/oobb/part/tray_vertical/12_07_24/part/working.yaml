@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bridge
   urge
 
   float'
+bip_39_word_no_space_1: bridge
+bip_39_word_no_space_10: bridgeladyverbluggagebelievepieceswampurgefloatbuzz
+bip_39_word_no_space_11: bridgeladyverbluggagebelievepieceswampurgefloatbuzzaction
+bip_39_word_no_space_12: bridgeladyverbluggagebelievepieceswampurgefloatbuzzactionadvice
+bip_39_word_no_space_2: bridgelady
+bip_39_word_no_space_3: bridgeladyverb
+bip_39_word_no_space_4: bridgeladyverbluggage
+bip_39_word_no_space_5: bridgeladyverbluggagebelieve
+bip_39_word_no_space_6: bridgeladyverbluggagebelievepiece
+bip_39_word_no_space_7: bridgeladyverbluggagebelievepieceswamp
+bip_39_word_no_space_8: bridgeladyverbluggagebelievepieceswampurge
+bip_39_word_no_space_9: bridgeladyverbluggagebelievepieceswampurgefloat
 bip_39_word_space_0:
 - bridge
 - lady

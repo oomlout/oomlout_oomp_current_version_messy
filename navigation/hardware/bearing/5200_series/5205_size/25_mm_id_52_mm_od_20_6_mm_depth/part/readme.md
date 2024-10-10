@@ -122,6 +122,18 @@ guilt
 fiber
 amazing
 rug |  
+| bip_39_word_no_space_1 | october |  
+| bip_39_word_no_space_10 | octoberpublicovenlooppurseguiltfiberamazingrugbreeze |  
+| bip_39_word_no_space_11 | octoberpublicovenlooppurseguiltfiberamazingrugbreezetable |  
+| bip_39_word_no_space_12 | octoberpublicovenlooppurseguiltfiberamazingrugbreezetablealley |  
+| bip_39_word_no_space_2 | octoberpublic |  
+| bip_39_word_no_space_3 | octoberpublicoven |  
+| bip_39_word_no_space_4 | octoberpublicovenloop |  
+| bip_39_word_no_space_5 | octoberpublicovenlooppurse |  
+| bip_39_word_no_space_6 | octoberpublicovenlooppurseguilt |  
+| bip_39_word_no_space_7 | octoberpublicovenlooppurseguiltfiber |  
+| bip_39_word_no_space_8 | octoberpublicovenlooppurseguiltfiberamazing |  
+| bip_39_word_no_space_9 | octoberpublicovenlooppurseguiltfiberamazingrug |  
 | bip_39_word_space_0 | ['october', 'public', 'oven', 'loop', 'purse', 'guilt', 'fiber', 'amazing', 'rug', 'breeze', 'table', 'alley'] |  
 | bip_39_word_space_1 | october |  
 | bip_39_word_space_10 | october public oven loop purse guilt fiber amazing rug breeze |  

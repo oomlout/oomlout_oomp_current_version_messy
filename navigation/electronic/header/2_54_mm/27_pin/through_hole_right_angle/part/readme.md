@@ -122,6 +122,18 @@ lecture
 tackle
 common
 final |  
+| bip_39_word_no_space_1 | evolve |  
+| bip_39_word_no_space_10 | evolvesphereinfantringviablelecturetacklecommonfinalelephant |  
+| bip_39_word_no_space_11 | evolvesphereinfantringviablelecturetacklecommonfinalelephantfall |  
+| bip_39_word_no_space_12 | evolvesphereinfantringviablelecturetacklecommonfinalelephantfallafford |  
+| bip_39_word_no_space_2 | evolvesphere |  
+| bip_39_word_no_space_3 | evolvesphereinfant |  
+| bip_39_word_no_space_4 | evolvesphereinfantring |  
+| bip_39_word_no_space_5 | evolvesphereinfantringviable |  
+| bip_39_word_no_space_6 | evolvesphereinfantringviablelecture |  
+| bip_39_word_no_space_7 | evolvesphereinfantringviablelecturetackle |  
+| bip_39_word_no_space_8 | evolvesphereinfantringviablelecturetacklecommon |  
+| bip_39_word_no_space_9 | evolvesphereinfantringviablelecturetacklecommonfinal |  
 | bip_39_word_space_0 | ['evolve', 'sphere', 'infant', 'ring', 'viable', 'lecture', 'tackle', 'common', 'final', 'elephant', 'fall', 'afford'] |  
 | bip_39_word_space_1 | evolve |  
 | bip_39_word_space_10 | evolve sphere infant ring viable lecture tackle common final elephant |  

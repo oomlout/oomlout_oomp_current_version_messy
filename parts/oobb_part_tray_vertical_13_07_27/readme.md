@@ -122,6 +122,18 @@ share
 action
 cloth
 woman |  
+| bip_39_word_no_space_1 | twin |  
+| bip_39_word_no_space_10 | twinpanthermixtureapologybenchshareactionclothwomanspawn |  
+| bip_39_word_no_space_11 | twinpanthermixtureapologybenchshareactionclothwomanspawncourse |  
+| bip_39_word_no_space_12 | twinpanthermixtureapologybenchshareactionclothwomanspawncoursearrow |  
+| bip_39_word_no_space_2 | twinpanther |  
+| bip_39_word_no_space_3 | twinpanthermixture |  
+| bip_39_word_no_space_4 | twinpanthermixtureapology |  
+| bip_39_word_no_space_5 | twinpanthermixtureapologybench |  
+| bip_39_word_no_space_6 | twinpanthermixtureapologybenchshare |  
+| bip_39_word_no_space_7 | twinpanthermixtureapologybenchshareaction |  
+| bip_39_word_no_space_8 | twinpanthermixtureapologybenchshareactioncloth |  
+| bip_39_word_no_space_9 | twinpanthermixtureapologybenchshareactionclothwoman |  
 | bip_39_word_space_0 | ['twin', 'panther', 'mixture', 'apology', 'bench', 'share', 'action', 'cloth', 'woman', 'spawn', 'course', 'arrow'] |  
 | bip_39_word_space_1 | twin |  
 | bip_39_word_space_10 | twin panther mixture apology bench share action cloth woman spawn |  

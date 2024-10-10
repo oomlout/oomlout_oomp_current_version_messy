@@ -122,6 +122,18 @@ shell
 expect
 around
 balance |  
+| bip_39_word_no_space_1 | clean |  
+| bip_39_word_no_space_10 | cleansmallcityvideofireshellexpectaroundbalanceuse |  
+| bip_39_word_no_space_11 | cleansmallcityvideofireshellexpectaroundbalanceusemoment |  
+| bip_39_word_no_space_12 | cleansmallcityvideofireshellexpectaroundbalanceusemomentassist |  
+| bip_39_word_no_space_2 | cleansmall |  
+| bip_39_word_no_space_3 | cleansmallcity |  
+| bip_39_word_no_space_4 | cleansmallcityvideo |  
+| bip_39_word_no_space_5 | cleansmallcityvideofire |  
+| bip_39_word_no_space_6 | cleansmallcityvideofireshell |  
+| bip_39_word_no_space_7 | cleansmallcityvideofireshellexpect |  
+| bip_39_word_no_space_8 | cleansmallcityvideofireshellexpectaround |  
+| bip_39_word_no_space_9 | cleansmallcityvideofireshellexpectaroundbalance |  
 | bip_39_word_space_0 | ['clean', 'small', 'city', 'video', 'fire', 'shell', 'expect', 'around', 'balance', 'use', 'moment', 'assist'] |  
 | bip_39_word_space_1 | clean |  
 | bip_39_word_space_10 | clean small city video fire shell expect around balance use |  

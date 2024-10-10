@@ -122,6 +122,18 @@ wine
 trap
 wing
 regular |  
+| bip_39_word_no_space_1 | rookie |  
+| bip_39_word_no_space_10 | rookielanguagesillysteakbundlewinetrapwingregularpolar |  
+| bip_39_word_no_space_11 | rookielanguagesillysteakbundlewinetrapwingregularpolardepth |  
+| bip_39_word_no_space_12 | rookielanguagesillysteakbundlewinetrapwingregularpolardepthahead |  
+| bip_39_word_no_space_2 | rookielanguage |  
+| bip_39_word_no_space_3 | rookielanguagesilly |  
+| bip_39_word_no_space_4 | rookielanguagesillysteak |  
+| bip_39_word_no_space_5 | rookielanguagesillysteakbundle |  
+| bip_39_word_no_space_6 | rookielanguagesillysteakbundlewine |  
+| bip_39_word_no_space_7 | rookielanguagesillysteakbundlewinetrap |  
+| bip_39_word_no_space_8 | rookielanguagesillysteakbundlewinetrapwing |  
+| bip_39_word_no_space_9 | rookielanguagesillysteakbundlewinetrapwingregular |  
 | bip_39_word_space_0 | ['rookie', 'language', 'silly', 'steak', 'bundle', 'wine', 'trap', 'wing', 'regular', 'polar', 'depth', 'ahead'] |  
 | bip_39_word_space_1 | rookie |  
 | bip_39_word_space_10 | rookie language silly steak bundle wine trap wing regular polar |  

@@ -122,6 +122,18 @@ horse
 happy
 increase
 monitor |  
+| bip_39_word_no_space_1 | stand |  
+| bip_39_word_no_space_10 | standoutputburstclouderupthorsehappyincreasemonitorchicken |  
+| bip_39_word_no_space_11 | standoutputburstclouderupthorsehappyincreasemonitorchickengrain |  
+| bip_39_word_no_space_12 | standoutputburstclouderupthorsehappyincreasemonitorchickengrainalert |  
+| bip_39_word_no_space_2 | standoutput |  
+| bip_39_word_no_space_3 | standoutputburst |  
+| bip_39_word_no_space_4 | standoutputburstcloud |  
+| bip_39_word_no_space_5 | standoutputburstclouderupt |  
+| bip_39_word_no_space_6 | standoutputburstclouderupthorse |  
+| bip_39_word_no_space_7 | standoutputburstclouderupthorsehappy |  
+| bip_39_word_no_space_8 | standoutputburstclouderupthorsehappyincrease |  
+| bip_39_word_no_space_9 | standoutputburstclouderupthorsehappyincreasemonitor |  
 | bip_39_word_space_0 | ['stand', 'output', 'burst', 'cloud', 'erupt', 'horse', 'happy', 'increase', 'monitor', 'chicken', 'grain', 'alert'] |  
 | bip_39_word_space_1 | stand |  
 | bip_39_word_space_10 | stand output burst cloud erupt horse happy increase monitor chicken |  

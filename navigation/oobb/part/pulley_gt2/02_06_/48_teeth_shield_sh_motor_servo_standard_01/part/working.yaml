@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'iron
   move
 
   much'
+bip_39_word_no_space_1: iron
+bip_39_word_no_space_10: ironbuildlocknumberheartswampnervemovemuchfiber
+bip_39_word_no_space_11: ironbuildlocknumberheartswampnervemovemuchfiberspace
+bip_39_word_no_space_12: ironbuildlocknumberheartswampnervemovemuchfiberspacealone
+bip_39_word_no_space_2: ironbuild
+bip_39_word_no_space_3: ironbuildlock
+bip_39_word_no_space_4: ironbuildlocknumber
+bip_39_word_no_space_5: ironbuildlocknumberheart
+bip_39_word_no_space_6: ironbuildlocknumberheartswamp
+bip_39_word_no_space_7: ironbuildlocknumberheartswampnerve
+bip_39_word_no_space_8: ironbuildlocknumberheartswampnervemove
+bip_39_word_no_space_9: ironbuildlocknumberheartswampnervemovemuch
 bip_39_word_space_0:
 - iron
 - build

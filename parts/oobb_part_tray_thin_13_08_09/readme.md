@@ -122,6 +122,18 @@ miracle
 tail
 bean
 analyst |  
+| bip_39_word_no_space_1 | update |  
+| bip_39_word_no_space_10 | updatelevelfragilevisaabsorbmiracletailbeananalystwest |  
+| bip_39_word_no_space_11 | updatelevelfragilevisaabsorbmiracletailbeananalystwestexpire |  
+| bip_39_word_no_space_12 | updatelevelfragilevisaabsorbmiracletailbeananalystwestexpireassist |  
+| bip_39_word_no_space_2 | updatelevel |  
+| bip_39_word_no_space_3 | updatelevelfragile |  
+| bip_39_word_no_space_4 | updatelevelfragilevisa |  
+| bip_39_word_no_space_5 | updatelevelfragilevisaabsorb |  
+| bip_39_word_no_space_6 | updatelevelfragilevisaabsorbmiracle |  
+| bip_39_word_no_space_7 | updatelevelfragilevisaabsorbmiracletail |  
+| bip_39_word_no_space_8 | updatelevelfragilevisaabsorbmiracletailbean |  
+| bip_39_word_no_space_9 | updatelevelfragilevisaabsorbmiracletailbeananalyst |  
 | bip_39_word_space_0 | ['update', 'level', 'fragile', 'visa', 'absorb', 'miracle', 'tail', 'bean', 'analyst', 'west', 'expire', 'assist'] |  
 | bip_39_word_space_1 | update |  
 | bip_39_word_space_10 | update level fragile visa absorb miracle tail bean analyst west |  

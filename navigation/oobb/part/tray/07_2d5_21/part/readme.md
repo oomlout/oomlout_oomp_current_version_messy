@@ -122,6 +122,18 @@ enable
 clerk
 purpose
 fabric |  
+| bip_39_word_no_space_1 | glide |  
+| bip_39_word_no_space_10 | glidecurvepromoteembodyarmedenableclerkpurposefabricillness |  
+| bip_39_word_no_space_11 | glidecurvepromoteembodyarmedenableclerkpurposefabricillnesstool |  
+| bip_39_word_no_space_12 | glidecurvepromoteembodyarmedenableclerkpurposefabricillnesstoolantenna |  
+| bip_39_word_no_space_2 | glidecurve |  
+| bip_39_word_no_space_3 | glidecurvepromote |  
+| bip_39_word_no_space_4 | glidecurvepromoteembody |  
+| bip_39_word_no_space_5 | glidecurvepromoteembodyarmed |  
+| bip_39_word_no_space_6 | glidecurvepromoteembodyarmedenable |  
+| bip_39_word_no_space_7 | glidecurvepromoteembodyarmedenableclerk |  
+| bip_39_word_no_space_8 | glidecurvepromoteembodyarmedenableclerkpurpose |  
+| bip_39_word_no_space_9 | glidecurvepromoteembodyarmedenableclerkpurposefabric |  
 | bip_39_word_space_0 | ['glide', 'curve', 'promote', 'embody', 'armed', 'enable', 'clerk', 'purpose', 'fabric', 'illness', 'tool', 'antenna'] |  
 | bip_39_word_space_1 | glide |  
 | bip_39_word_space_10 | glide curve promote embody armed enable clerk purpose fabric illness |  

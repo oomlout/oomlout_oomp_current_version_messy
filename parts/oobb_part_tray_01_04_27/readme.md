@@ -122,6 +122,18 @@ merit
 feel
 couch
 copy |  
+| bip_39_word_no_space_1 | diamond |  
+| bip_39_word_no_space_10 | diamondmagicdepththeorycruisemeritfeelcouchcopyallow |  
+| bip_39_word_no_space_11 | diamondmagicdepththeorycruisemeritfeelcouchcopyallowforward |  
+| bip_39_word_no_space_12 | diamondmagicdepththeorycruisemeritfeelcouchcopyallowforwardabout |  
+| bip_39_word_no_space_2 | diamondmagic |  
+| bip_39_word_no_space_3 | diamondmagicdepth |  
+| bip_39_word_no_space_4 | diamondmagicdepththeory |  
+| bip_39_word_no_space_5 | diamondmagicdepththeorycruise |  
+| bip_39_word_no_space_6 | diamondmagicdepththeorycruisemerit |  
+| bip_39_word_no_space_7 | diamondmagicdepththeorycruisemeritfeel |  
+| bip_39_word_no_space_8 | diamondmagicdepththeorycruisemeritfeelcouch |  
+| bip_39_word_no_space_9 | diamondmagicdepththeorycruisemeritfeelcouchcopy |  
 | bip_39_word_space_0 | ['diamond', 'magic', 'depth', 'theory', 'cruise', 'merit', 'feel', 'couch', 'copy', 'allow', 'forward', 'about'] |  
 | bip_39_word_space_1 | diamond |  
 | bip_39_word_space_10 | diamond magic depth theory cruise merit feel couch copy allow |  

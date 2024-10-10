@@ -122,6 +122,18 @@ undo
 price
 leg
 deer |  
+| bip_39_word_no_space_1 | sure |  
+| bip_39_word_no_space_10 | sureexecuteusagepaymentdisorderundopricelegdeerleopard |  
+| bip_39_word_no_space_11 | sureexecuteusagepaymentdisorderundopricelegdeerleoparddiamond |  
+| bip_39_word_no_space_12 | sureexecuteusagepaymentdisorderundopricelegdeerleoparddiamondalert |  
+| bip_39_word_no_space_2 | sureexecute |  
+| bip_39_word_no_space_3 | sureexecuteusage |  
+| bip_39_word_no_space_4 | sureexecuteusagepayment |  
+| bip_39_word_no_space_5 | sureexecuteusagepaymentdisorder |  
+| bip_39_word_no_space_6 | sureexecuteusagepaymentdisorderundo |  
+| bip_39_word_no_space_7 | sureexecuteusagepaymentdisorderundoprice |  
+| bip_39_word_no_space_8 | sureexecuteusagepaymentdisorderundopriceleg |  
+| bip_39_word_no_space_9 | sureexecuteusagepaymentdisorderundopricelegdeer |  
 | bip_39_word_space_0 | ['sure', 'execute', 'usage', 'payment', 'disorder', 'undo', 'price', 'leg', 'deer', 'leopard', 'diamond', 'alert'] |  
 | bip_39_word_space_1 | sure |  
 | bip_39_word_space_10 | sure execute usage payment disorder undo price leg deer leopard |  

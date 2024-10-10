@@ -122,6 +122,18 @@ farm
 radio
 rookie
 absorb |  
+| bip_39_word_no_space_1 | buddy |  
+| bip_39_word_no_space_10 | buddysodamosquitosmiledomainfarmradiorookieabsorbarch |  
+| bip_39_word_no_space_11 | buddysodamosquitosmiledomainfarmradiorookieabsorbarchstay |  
+| bip_39_word_no_space_12 | buddysodamosquitosmiledomainfarmradiorookieabsorbarchstayadapt |  
+| bip_39_word_no_space_2 | buddysoda |  
+| bip_39_word_no_space_3 | buddysodamosquito |  
+| bip_39_word_no_space_4 | buddysodamosquitosmile |  
+| bip_39_word_no_space_5 | buddysodamosquitosmiledomain |  
+| bip_39_word_no_space_6 | buddysodamosquitosmiledomainfarm |  
+| bip_39_word_no_space_7 | buddysodamosquitosmiledomainfarmradio |  
+| bip_39_word_no_space_8 | buddysodamosquitosmiledomainfarmradiorookie |  
+| bip_39_word_no_space_9 | buddysodamosquitosmiledomainfarmradiorookieabsorb |  
 | bip_39_word_space_0 | ['buddy', 'soda', 'mosquito', 'smile', 'domain', 'farm', 'radio', 'rookie', 'absorb', 'arch', 'stay', 'adapt'] |  
 | bip_39_word_space_1 | buddy |  
 | bip_39_word_space_10 | buddy soda mosquito smile domain farm radio rookie absorb arch |  

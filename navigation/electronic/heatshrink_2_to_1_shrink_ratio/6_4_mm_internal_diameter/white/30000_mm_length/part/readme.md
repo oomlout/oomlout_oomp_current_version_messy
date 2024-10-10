@@ -122,6 +122,18 @@ thumb
 urban
 affair
 gather |  
+| bip_39_word_no_space_1 | shrimp |  
+| bip_39_word_no_space_10 | shrimpvibrantamazingpuzzlewreckthumburbanaffairgatherticket |  
+| bip_39_word_no_space_11 | shrimpvibrantamazingpuzzlewreckthumburbanaffairgatherticketrival |  
+| bip_39_word_no_space_12 | shrimpvibrantamazingpuzzlewreckthumburbanaffairgatherticketrivalabove |  
+| bip_39_word_no_space_2 | shrimpvibrant |  
+| bip_39_word_no_space_3 | shrimpvibrantamazing |  
+| bip_39_word_no_space_4 | shrimpvibrantamazingpuzzle |  
+| bip_39_word_no_space_5 | shrimpvibrantamazingpuzzlewreck |  
+| bip_39_word_no_space_6 | shrimpvibrantamazingpuzzlewreckthumb |  
+| bip_39_word_no_space_7 | shrimpvibrantamazingpuzzlewreckthumburban |  
+| bip_39_word_no_space_8 | shrimpvibrantamazingpuzzlewreckthumburbanaffair |  
+| bip_39_word_no_space_9 | shrimpvibrantamazingpuzzlewreckthumburbanaffairgather |  
 | bip_39_word_space_0 | ['shrimp', 'vibrant', 'amazing', 'puzzle', 'wreck', 'thumb', 'urban', 'affair', 'gather', 'ticket', 'rival', 'above'] |  
 | bip_39_word_space_1 | shrimp |  
 | bip_39_word_space_10 | shrimp vibrant amazing puzzle wreck thumb urban affair gather ticket |  

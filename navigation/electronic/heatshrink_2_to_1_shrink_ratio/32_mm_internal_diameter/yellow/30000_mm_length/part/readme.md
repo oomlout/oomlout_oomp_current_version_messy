@@ -122,6 +122,18 @@ spell
 resist
 warm
 poem |  
+| bip_39_word_no_space_1 | ecology |  
+| bip_39_word_no_space_10 | ecologyfeesleepwordleopardspellresistwarmpoemcinnamon |  
+| bip_39_word_no_space_11 | ecologyfeesleepwordleopardspellresistwarmpoemcinnamonancient |  
+| bip_39_word_no_space_12 | ecologyfeesleepwordleopardspellresistwarmpoemcinnamonancientantenna |  
+| bip_39_word_no_space_2 | ecologyfee |  
+| bip_39_word_no_space_3 | ecologyfeesleep |  
+| bip_39_word_no_space_4 | ecologyfeesleepword |  
+| bip_39_word_no_space_5 | ecologyfeesleepwordleopard |  
+| bip_39_word_no_space_6 | ecologyfeesleepwordleopardspell |  
+| bip_39_word_no_space_7 | ecologyfeesleepwordleopardspellresist |  
+| bip_39_word_no_space_8 | ecologyfeesleepwordleopardspellresistwarm |  
+| bip_39_word_no_space_9 | ecologyfeesleepwordleopardspellresistwarmpoem |  
 | bip_39_word_space_0 | ['ecology', 'fee', 'sleep', 'word', 'leopard', 'spell', 'resist', 'warm', 'poem', 'cinnamon', 'ancient', 'antenna'] |  
 | bip_39_word_space_1 | ecology |  
 | bip_39_word_space_10 | ecology fee sleep word leopard spell resist warm poem cinnamon |  

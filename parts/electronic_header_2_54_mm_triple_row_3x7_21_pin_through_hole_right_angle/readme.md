@@ -122,6 +122,18 @@ author
 play
 enjoy
 energy |  
+| bip_39_word_no_space_1 | coyote |  
+| bip_39_word_no_space_10 | coyoteprivateventureantennahelpauthorplayenjoyenergyrace |  
+| bip_39_word_no_space_11 | coyoteprivateventureantennahelpauthorplayenjoyenergyracebody |  
+| bip_39_word_no_space_12 | coyoteprivateventureantennahelpauthorplayenjoyenergyracebodyair |  
+| bip_39_word_no_space_2 | coyoteprivate |  
+| bip_39_word_no_space_3 | coyoteprivateventure |  
+| bip_39_word_no_space_4 | coyoteprivateventureantenna |  
+| bip_39_word_no_space_5 | coyoteprivateventureantennahelp |  
+| bip_39_word_no_space_6 | coyoteprivateventureantennahelpauthor |  
+| bip_39_word_no_space_7 | coyoteprivateventureantennahelpauthorplay |  
+| bip_39_word_no_space_8 | coyoteprivateventureantennahelpauthorplayenjoy |  
+| bip_39_word_no_space_9 | coyoteprivateventureantennahelpauthorplayenjoyenergy |  
 | bip_39_word_space_0 | ['coyote', 'private', 'venture', 'antenna', 'help', 'author', 'play', 'enjoy', 'energy', 'race', 'body', 'air'] |  
 | bip_39_word_space_1 | coyote |  
 | bip_39_word_space_10 | coyote private venture antenna help author play enjoy energy race |  

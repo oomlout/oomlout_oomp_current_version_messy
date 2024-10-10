@@ -122,6 +122,18 @@ other
 humor
 prosper
 sort |  
+| bip_39_word_no_space_1 | sun |  
+| bip_39_word_no_space_10 | sunaddindicatestoveluggageotherhumorprospersortfix |  
+| bip_39_word_no_space_11 | sunaddindicatestoveluggageotherhumorprospersortfixprogram |  
+| bip_39_word_no_space_12 | sunaddindicatestoveluggageotherhumorprospersortfixprogramasthma |  
+| bip_39_word_no_space_2 | sunadd |  
+| bip_39_word_no_space_3 | sunaddindicate |  
+| bip_39_word_no_space_4 | sunaddindicatestove |  
+| bip_39_word_no_space_5 | sunaddindicatestoveluggage |  
+| bip_39_word_no_space_6 | sunaddindicatestoveluggageother |  
+| bip_39_word_no_space_7 | sunaddindicatestoveluggageotherhumor |  
+| bip_39_word_no_space_8 | sunaddindicatestoveluggageotherhumorprosper |  
+| bip_39_word_no_space_9 | sunaddindicatestoveluggageotherhumorprospersort |  
 | bip_39_word_space_0 | ['sun', 'add', 'indicate', 'stove', 'luggage', 'other', 'humor', 'prosper', 'sort', 'fix', 'program', 'asthma'] |  
 | bip_39_word_space_1 | sun |  
 | bip_39_word_space_10 | sun add indicate stove luggage other humor prosper sort fix |  

@@ -122,6 +122,18 @@ click
 comfort
 arm
 blue |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shopflipshellvideojellyclickcomfortarmblueinmate |  
+| bip_39_word_no_space_11 | shopflipshellvideojellyclickcomfortarmblueinmateegg |  
+| bip_39_word_no_space_12 | shopflipshellvideojellyclickcomfortarmblueinmateeggalarm |  
+| bip_39_word_no_space_2 | shopflip |  
+| bip_39_word_no_space_3 | shopflipshell |  
+| bip_39_word_no_space_4 | shopflipshellvideo |  
+| bip_39_word_no_space_5 | shopflipshellvideojelly |  
+| bip_39_word_no_space_6 | shopflipshellvideojellyclick |  
+| bip_39_word_no_space_7 | shopflipshellvideojellyclickcomfort |  
+| bip_39_word_no_space_8 | shopflipshellvideojellyclickcomfortarm |  
+| bip_39_word_no_space_9 | shopflipshellvideojellyclickcomfortarmblue |  
 | bip_39_word_space_0 | ['shop', 'flip', 'shell', 'video', 'jelly', 'click', 'comfort', 'arm', 'blue', 'inmate', 'egg', 'alarm'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop flip shell video jelly click comfort arm blue inmate |  

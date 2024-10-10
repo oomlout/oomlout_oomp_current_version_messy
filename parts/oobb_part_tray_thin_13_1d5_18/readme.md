@@ -122,6 +122,18 @@ soft
 hungry
 box
 sign |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposespiderequippointreformsofthungryboxsignfuture |  
+| bip_39_word_no_space_11 | opposespiderequippointreformsofthungryboxsignfuturefall |  
+| bip_39_word_no_space_12 | opposespiderequippointreformsofthungryboxsignfuturefallahead |  
+| bip_39_word_no_space_2 | opposespider |  
+| bip_39_word_no_space_3 | opposespiderequip |  
+| bip_39_word_no_space_4 | opposespiderequippoint |  
+| bip_39_word_no_space_5 | opposespiderequippointreform |  
+| bip_39_word_no_space_6 | opposespiderequippointreformsoft |  
+| bip_39_word_no_space_7 | opposespiderequippointreformsofthungry |  
+| bip_39_word_no_space_8 | opposespiderequippointreformsofthungrybox |  
+| bip_39_word_no_space_9 | opposespiderequippointreformsofthungryboxsign |  
 | bip_39_word_space_0 | ['oppose', 'spider', 'equip', 'point', 'reform', 'soft', 'hungry', 'box', 'sign', 'future', 'fall', 'ahead'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose spider equip point reform soft hungry box sign future |  

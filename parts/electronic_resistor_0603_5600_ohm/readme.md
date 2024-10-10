@@ -122,6 +122,18 @@ broken
 give
 vibrant
 arm |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingrabbitwingsadnessbulletbrokengivevibrantarmsauce |  
+| bip_39_word_no_space_11 | weddingrabbitwingsadnessbulletbrokengivevibrantarmsaucehundred |  
+| bip_39_word_no_space_12 | weddingrabbitwingsadnessbulletbrokengivevibrantarmsaucehundredaccount |  
+| bip_39_word_no_space_2 | weddingrabbit |  
+| bip_39_word_no_space_3 | weddingrabbitwing |  
+| bip_39_word_no_space_4 | weddingrabbitwingsadness |  
+| bip_39_word_no_space_5 | weddingrabbitwingsadnessbullet |  
+| bip_39_word_no_space_6 | weddingrabbitwingsadnessbulletbroken |  
+| bip_39_word_no_space_7 | weddingrabbitwingsadnessbulletbrokengive |  
+| bip_39_word_no_space_8 | weddingrabbitwingsadnessbulletbrokengivevibrant |  
+| bip_39_word_no_space_9 | weddingrabbitwingsadnessbulletbrokengivevibrantarm |  
 | bip_39_word_space_0 | ['wedding', 'rabbit', 'wing', 'sadness', 'bullet', 'broken', 'give', 'vibrant', 'arm', 'sauce', 'hundred', 'account'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding rabbit wing sadness bullet broken give vibrant arm sauce |  

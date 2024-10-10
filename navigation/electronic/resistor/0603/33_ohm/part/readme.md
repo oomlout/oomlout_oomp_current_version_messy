@@ -122,6 +122,18 @@ goddess
 tape
 net
 shadow |  
+| bip_39_word_no_space_1 | this |  
+| bip_39_word_no_space_10 | thisgarageviewflipslushgoddesstapenetshadowcube |  
+| bip_39_word_no_space_11 | thisgarageviewflipslushgoddesstapenetshadowcubedose |  
+| bip_39_word_no_space_12 | thisgarageviewflipslushgoddesstapenetshadowcubedoseabsent |  
+| bip_39_word_no_space_2 | thisgarage |  
+| bip_39_word_no_space_3 | thisgarageview |  
+| bip_39_word_no_space_4 | thisgarageviewflip |  
+| bip_39_word_no_space_5 | thisgarageviewflipslush |  
+| bip_39_word_no_space_6 | thisgarageviewflipslushgoddess |  
+| bip_39_word_no_space_7 | thisgarageviewflipslushgoddesstape |  
+| bip_39_word_no_space_8 | thisgarageviewflipslushgoddesstapenet |  
+| bip_39_word_no_space_9 | thisgarageviewflipslushgoddesstapenetshadow |  
 | bip_39_word_space_0 | ['this', 'garage', 'view', 'flip', 'slush', 'goddess', 'tape', 'net', 'shadow', 'cube', 'dose', 'absent'] |  
 | bip_39_word_space_1 | this |  
 | bip_39_word_space_10 | this garage view flip slush goddess tape net shadow cube |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'resist
   worry
 
   dash'
+bip_39_word_no_space_1: resist
+bip_39_word_no_space_10: resistwearinmateholdnumbergrabexactworrydashmiracle
+bip_39_word_no_space_11: resistwearinmateholdnumbergrabexactworrydashmiracleabsent
+bip_39_word_no_space_12: resistwearinmateholdnumbergrabexactworrydashmiracleabsentasthma
+bip_39_word_no_space_2: resistwear
+bip_39_word_no_space_3: resistwearinmate
+bip_39_word_no_space_4: resistwearinmatehold
+bip_39_word_no_space_5: resistwearinmateholdnumber
+bip_39_word_no_space_6: resistwearinmateholdnumbergrab
+bip_39_word_no_space_7: resistwearinmateholdnumbergrabexact
+bip_39_word_no_space_8: resistwearinmateholdnumbergrabexactworry
+bip_39_word_no_space_9: resistwearinmateholdnumbergrabexactworrydash
 bip_39_word_space_0:
 - resist
 - wear

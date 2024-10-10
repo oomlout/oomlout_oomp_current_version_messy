@@ -122,6 +122,18 @@ rice
 business
 fatigue
 prepare |  
+| bip_39_word_no_space_1 | amateur |  
+| bip_39_word_no_space_10 | amateurtermuponcardkindricebusinessfatigueprepareglove |  
+| bip_39_word_no_space_11 | amateurtermuponcardkindricebusinessfatigueprepareglovegood |  
+| bip_39_word_no_space_12 | amateurtermuponcardkindricebusinessfatigueprepareglovegoodarmy |  
+| bip_39_word_no_space_2 | amateurterm |  
+| bip_39_word_no_space_3 | amateurtermupon |  
+| bip_39_word_no_space_4 | amateurtermuponcard |  
+| bip_39_word_no_space_5 | amateurtermuponcardkind |  
+| bip_39_word_no_space_6 | amateurtermuponcardkindrice |  
+| bip_39_word_no_space_7 | amateurtermuponcardkindricebusiness |  
+| bip_39_word_no_space_8 | amateurtermuponcardkindricebusinessfatigue |  
+| bip_39_word_no_space_9 | amateurtermuponcardkindricebusinessfatigueprepare |  
 | bip_39_word_space_0 | ['amateur', 'term', 'upon', 'card', 'kind', 'rice', 'business', 'fatigue', 'prepare', 'glove', 'good', 'army'] |  
 | bip_39_word_space_1 | amateur |  
 | bip_39_word_space_10 | amateur term upon card kind rice business fatigue prepare glove |  

@@ -122,6 +122,18 @@ fancy
 capital
 soldier
 found |  
+| bip_39_word_no_space_1 | modify |  
+| bip_39_word_no_space_10 | modifyholewarriorflyvaporfancycapitalsoldierfounddream |  
+| bip_39_word_no_space_11 | modifyholewarriorflyvaporfancycapitalsoldierfounddreamanimal |  
+| bip_39_word_no_space_12 | modifyholewarriorflyvaporfancycapitalsoldierfounddreamanimalanalyst |  
+| bip_39_word_no_space_2 | modifyhole |  
+| bip_39_word_no_space_3 | modifyholewarrior |  
+| bip_39_word_no_space_4 | modifyholewarriorfly |  
+| bip_39_word_no_space_5 | modifyholewarriorflyvapor |  
+| bip_39_word_no_space_6 | modifyholewarriorflyvaporfancy |  
+| bip_39_word_no_space_7 | modifyholewarriorflyvaporfancycapital |  
+| bip_39_word_no_space_8 | modifyholewarriorflyvaporfancycapitalsoldier |  
+| bip_39_word_no_space_9 | modifyholewarriorflyvaporfancycapitalsoldierfound |  
 | bip_39_word_space_0 | ['modify', 'hole', 'warrior', 'fly', 'vapor', 'fancy', 'capital', 'soldier', 'found', 'dream', 'animal', 'analyst'] |  
 | bip_39_word_space_1 | modify |  
 | bip_39_word_space_10 | modify hole warrior fly vapor fancy capital soldier found dream |  

@@ -122,6 +122,18 @@ domain
 coyote
 you
 industry |  
+| bip_39_word_no_space_1 | enable |  
+| bip_39_word_no_space_10 | enabletheyextendfruitimprovedomaincoyoteyouindustryspare |  
+| bip_39_word_no_space_11 | enabletheyextendfruitimprovedomaincoyoteyouindustryspareliquid |  
+| bip_39_word_no_space_12 | enabletheyextendfruitimprovedomaincoyoteyouindustryspareliquidamong |  
+| bip_39_word_no_space_2 | enablethey |  
+| bip_39_word_no_space_3 | enabletheyextend |  
+| bip_39_word_no_space_4 | enabletheyextendfruit |  
+| bip_39_word_no_space_5 | enabletheyextendfruitimprove |  
+| bip_39_word_no_space_6 | enabletheyextendfruitimprovedomain |  
+| bip_39_word_no_space_7 | enabletheyextendfruitimprovedomaincoyote |  
+| bip_39_word_no_space_8 | enabletheyextendfruitimprovedomaincoyoteyou |  
+| bip_39_word_no_space_9 | enabletheyextendfruitimprovedomaincoyoteyouindustry |  
 | bip_39_word_space_0 | ['enable', 'they', 'extend', 'fruit', 'improve', 'domain', 'coyote', 'you', 'industry', 'spare', 'liquid', 'among'] |  
 | bip_39_word_space_1 | enable |  
 | bip_39_word_space_10 | enable they extend fruit improve domain coyote you industry spare |  

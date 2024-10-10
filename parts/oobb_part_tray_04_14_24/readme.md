@@ -122,6 +122,18 @@ metal
 risk
 rescue
 sadness |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhaustfrequentinmateentireeagermetalriskrescuesadnessrubber |  
+| bip_39_word_no_space_11 | exhaustfrequentinmateentireeagermetalriskrescuesadnessrubberview |  
+| bip_39_word_no_space_12 | exhaustfrequentinmateentireeagermetalriskrescuesadnessrubberviewalley |  
+| bip_39_word_no_space_2 | exhaustfrequent |  
+| bip_39_word_no_space_3 | exhaustfrequentinmate |  
+| bip_39_word_no_space_4 | exhaustfrequentinmateentire |  
+| bip_39_word_no_space_5 | exhaustfrequentinmateentireeager |  
+| bip_39_word_no_space_6 | exhaustfrequentinmateentireeagermetal |  
+| bip_39_word_no_space_7 | exhaustfrequentinmateentireeagermetalrisk |  
+| bip_39_word_no_space_8 | exhaustfrequentinmateentireeagermetalriskrescue |  
+| bip_39_word_no_space_9 | exhaustfrequentinmateentireeagermetalriskrescuesadness |  
 | bip_39_word_space_0 | ['exhaust', 'frequent', 'inmate', 'entire', 'eager', 'metal', 'risk', 'rescue', 'sadness', 'rubber', 'view', 'alley'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust frequent inmate entire eager metal risk rescue sadness rubber |  

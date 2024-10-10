@@ -122,6 +122,18 @@ cool
 tool
 diesel
 antique |  
+| bip_39_word_no_space_1 | already |  
+| bip_39_word_no_space_10 | alreadymotherindexalphadepositcooltooldieselantiquecost |  
+| bip_39_word_no_space_11 | alreadymotherindexalphadepositcooltooldieselantiquecostexile |  
+| bip_39_word_no_space_12 | alreadymotherindexalphadepositcooltooldieselantiquecostexilearmed |  
+| bip_39_word_no_space_2 | alreadymother |  
+| bip_39_word_no_space_3 | alreadymotherindex |  
+| bip_39_word_no_space_4 | alreadymotherindexalpha |  
+| bip_39_word_no_space_5 | alreadymotherindexalphadeposit |  
+| bip_39_word_no_space_6 | alreadymotherindexalphadepositcool |  
+| bip_39_word_no_space_7 | alreadymotherindexalphadepositcooltool |  
+| bip_39_word_no_space_8 | alreadymotherindexalphadepositcooltooldiesel |  
+| bip_39_word_no_space_9 | alreadymotherindexalphadepositcooltooldieselantique |  
 | bip_39_word_space_0 | ['already', 'mother', 'index', 'alpha', 'deposit', 'cool', 'tool', 'diesel', 'antique', 'cost', 'exile', 'armed'] |  
 | bip_39_word_space_1 | already |  
 | bip_39_word_space_10 | already mother index alpha deposit cool tool diesel antique cost |  

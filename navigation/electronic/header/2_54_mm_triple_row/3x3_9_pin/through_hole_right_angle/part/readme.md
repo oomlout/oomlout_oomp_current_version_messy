@@ -122,6 +122,18 @@ inch
 dish
 chimney
 book |  
+| bip_39_word_no_space_1 | scorpion |  
+| bip_39_word_no_space_10 | scorpionclogpilotmaidspreadinchdishchimneybookdeny |  
+| bip_39_word_no_space_11 | scorpionclogpilotmaidspreadinchdishchimneybookdenymaid |  
+| bip_39_word_no_space_12 | scorpionclogpilotmaidspreadinchdishchimneybookdenymaidaunt |  
+| bip_39_word_no_space_2 | scorpionclog |  
+| bip_39_word_no_space_3 | scorpionclogpilot |  
+| bip_39_word_no_space_4 | scorpionclogpilotmaid |  
+| bip_39_word_no_space_5 | scorpionclogpilotmaidspread |  
+| bip_39_word_no_space_6 | scorpionclogpilotmaidspreadinch |  
+| bip_39_word_no_space_7 | scorpionclogpilotmaidspreadinchdish |  
+| bip_39_word_no_space_8 | scorpionclogpilotmaidspreadinchdishchimney |  
+| bip_39_word_no_space_9 | scorpionclogpilotmaidspreadinchdishchimneybook |  
 | bip_39_word_space_0 | ['scorpion', 'clog', 'pilot', 'maid', 'spread', 'inch', 'dish', 'chimney', 'book', 'deny', 'maid', 'aunt'] |  
 | bip_39_word_space_1 | scorpion |  
 | bip_39_word_space_10 | scorpion clog pilot maid spread inch dish chimney book deny |  

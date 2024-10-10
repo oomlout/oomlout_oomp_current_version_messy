@@ -122,6 +122,18 @@ wreck
 cloud
 allow
 twice |  
+| bip_39_word_no_space_1 | gate |  
+| bip_39_word_no_space_10 | gateinmatefriendwaitfirmwreckcloudallowtwicemaid |  
+| bip_39_word_no_space_11 | gateinmatefriendwaitfirmwreckcloudallowtwicemaidable |  
+| bip_39_word_no_space_12 | gateinmatefriendwaitfirmwreckcloudallowtwicemaidableangry |  
+| bip_39_word_no_space_2 | gateinmate |  
+| bip_39_word_no_space_3 | gateinmatefriend |  
+| bip_39_word_no_space_4 | gateinmatefriendwait |  
+| bip_39_word_no_space_5 | gateinmatefriendwaitfirm |  
+| bip_39_word_no_space_6 | gateinmatefriendwaitfirmwreck |  
+| bip_39_word_no_space_7 | gateinmatefriendwaitfirmwreckcloud |  
+| bip_39_word_no_space_8 | gateinmatefriendwaitfirmwreckcloudallow |  
+| bip_39_word_no_space_9 | gateinmatefriendwaitfirmwreckcloudallowtwice |  
 | bip_39_word_space_0 | ['gate', 'inmate', 'friend', 'wait', 'firm', 'wreck', 'cloud', 'allow', 'twice', 'maid', 'able', 'angry'] |  
 | bip_39_word_space_1 | gate |  
 | bip_39_word_space_10 | gate inmate friend wait firm wreck cloud allow twice maid |  

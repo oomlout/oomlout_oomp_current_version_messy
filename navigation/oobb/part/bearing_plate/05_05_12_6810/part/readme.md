@@ -122,6 +122,18 @@ turtle
 bacon
 cabbage
 ginger |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymadmitrackliftabsentturtlebaconcabbagegingerdisagree |  
+| bip_39_word_no_space_11 | gymadmitrackliftabsentturtlebaconcabbagegingerdisagreeinvest |  
+| bip_39_word_no_space_12 | gymadmitrackliftabsentturtlebaconcabbagegingerdisagreeinvestassist |  
+| bip_39_word_no_space_2 | gymadmit |  
+| bip_39_word_no_space_3 | gymadmitrack |  
+| bip_39_word_no_space_4 | gymadmitracklift |  
+| bip_39_word_no_space_5 | gymadmitrackliftabsent |  
+| bip_39_word_no_space_6 | gymadmitrackliftabsentturtle |  
+| bip_39_word_no_space_7 | gymadmitrackliftabsentturtlebacon |  
+| bip_39_word_no_space_8 | gymadmitrackliftabsentturtlebaconcabbage |  
+| bip_39_word_no_space_9 | gymadmitrackliftabsentturtlebaconcabbageginger |  
 | bip_39_word_space_0 | ['gym', 'admit', 'rack', 'lift', 'absent', 'turtle', 'bacon', 'cabbage', 'ginger', 'disagree', 'invest', 'assist'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym admit rack lift absent turtle bacon cabbage ginger disagree |  

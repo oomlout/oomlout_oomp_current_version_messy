@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'minute
   peace
 
   ahead'
+bip_39_word_no_space_1: minute
+bip_39_word_no_space_10: minutetigerfewsillyairimmensemulepeaceaheadtwice
+bip_39_word_no_space_11: minutetigerfewsillyairimmensemulepeaceaheadtwiceyoung
+bip_39_word_no_space_12: minutetigerfewsillyairimmensemulepeaceaheadtwiceyoungalien
+bip_39_word_no_space_2: minutetiger
+bip_39_word_no_space_3: minutetigerfew
+bip_39_word_no_space_4: minutetigerfewsilly
+bip_39_word_no_space_5: minutetigerfewsillyair
+bip_39_word_no_space_6: minutetigerfewsillyairimmense
+bip_39_word_no_space_7: minutetigerfewsillyairimmensemule
+bip_39_word_no_space_8: minutetigerfewsillyairimmensemulepeace
+bip_39_word_no_space_9: minutetigerfewsillyairimmensemulepeaceahead
 bip_39_word_space_0:
 - minute
 - tiger

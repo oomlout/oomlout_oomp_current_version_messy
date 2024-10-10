@@ -122,6 +122,18 @@ pilot
 catch
 relax
 valid |  
+| bip_39_word_no_space_1 | roof |  
+| bip_39_word_no_space_10 | rooflightsilentmeltawfulpilotcatchrelaxvalidtravel |  
+| bip_39_word_no_space_11 | rooflightsilentmeltawfulpilotcatchrelaxvalidtravelginger |  
+| bip_39_word_no_space_12 | rooflightsilentmeltawfulpilotcatchrelaxvalidtravelgingeranxiety |  
+| bip_39_word_no_space_2 | rooflight |  
+| bip_39_word_no_space_3 | rooflightsilent |  
+| bip_39_word_no_space_4 | rooflightsilentmelt |  
+| bip_39_word_no_space_5 | rooflightsilentmeltawful |  
+| bip_39_word_no_space_6 | rooflightsilentmeltawfulpilot |  
+| bip_39_word_no_space_7 | rooflightsilentmeltawfulpilotcatch |  
+| bip_39_word_no_space_8 | rooflightsilentmeltawfulpilotcatchrelax |  
+| bip_39_word_no_space_9 | rooflightsilentmeltawfulpilotcatchrelaxvalid |  
 | bip_39_word_space_0 | ['roof', 'light', 'silent', 'melt', 'awful', 'pilot', 'catch', 'relax', 'valid', 'travel', 'ginger', 'anxiety'] |  
 | bip_39_word_space_1 | roof |  
 | bip_39_word_space_10 | roof light silent melt awful pilot catch relax valid travel |  

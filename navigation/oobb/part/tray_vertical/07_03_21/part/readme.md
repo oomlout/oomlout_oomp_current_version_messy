@@ -122,6 +122,18 @@ giggle
 goddess
 beach
 call |  
+| bip_39_word_no_space_1 | when |  
+| bip_39_word_no_space_10 | whenkidsadportionanklegigglegoddessbeachcallwave |  
+| bip_39_word_no_space_11 | whenkidsadportionanklegigglegoddessbeachcallwavescheme |  
+| bip_39_word_no_space_12 | whenkidsadportionanklegigglegoddessbeachcallwaveschemeabsorb |  
+| bip_39_word_no_space_2 | whenkid |  
+| bip_39_word_no_space_3 | whenkidsad |  
+| bip_39_word_no_space_4 | whenkidsadportion |  
+| bip_39_word_no_space_5 | whenkidsadportionankle |  
+| bip_39_word_no_space_6 | whenkidsadportionanklegiggle |  
+| bip_39_word_no_space_7 | whenkidsadportionanklegigglegoddess |  
+| bip_39_word_no_space_8 | whenkidsadportionanklegigglegoddessbeach |  
+| bip_39_word_no_space_9 | whenkidsadportionanklegigglegoddessbeachcall |  
 | bip_39_word_space_0 | ['when', 'kid', 'sad', 'portion', 'ankle', 'giggle', 'goddess', 'beach', 'call', 'wave', 'scheme', 'absorb'] |  
 | bip_39_word_space_1 | when |  
 | bip_39_word_space_10 | when kid sad portion ankle giggle goddess beach call wave |  

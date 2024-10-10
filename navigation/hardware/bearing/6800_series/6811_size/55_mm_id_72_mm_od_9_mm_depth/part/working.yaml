@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'access
   attract
 
   blue'
+bip_39_word_no_space_1: access
+bip_39_word_no_space_10: accessableprovideevokelumberlinkcargoattractbluebundle
+bip_39_word_no_space_11: accessableprovideevokelumberlinkcargoattractbluebundlelift
+bip_39_word_no_space_12: accessableprovideevokelumberlinkcargoattractbluebundleliftagain
+bip_39_word_no_space_2: accessable
+bip_39_word_no_space_3: accessableprovide
+bip_39_word_no_space_4: accessableprovideevoke
+bip_39_word_no_space_5: accessableprovideevokelumber
+bip_39_word_no_space_6: accessableprovideevokelumberlink
+bip_39_word_no_space_7: accessableprovideevokelumberlinkcargo
+bip_39_word_no_space_8: accessableprovideevokelumberlinkcargoattract
+bip_39_word_no_space_9: accessableprovideevokelumberlinkcargoattractblue
 bip_39_word_space_0:
 - access
 - able

@@ -122,6 +122,18 @@ doctor
 safe
 stone
 release |  
+| bip_39_word_no_space_1 | either |  
+| bip_39_word_no_space_10 | eitherverbestateburdenlaptopdoctorsafestonereleaseblossom |  
+| bip_39_word_no_space_11 | eitherverbestateburdenlaptopdoctorsafestonereleaseblossomreceive |  
+| bip_39_word_no_space_12 | eitherverbestateburdenlaptopdoctorsafestonereleaseblossomreceiveamong |  
+| bip_39_word_no_space_2 | eitherverb |  
+| bip_39_word_no_space_3 | eitherverbestate |  
+| bip_39_word_no_space_4 | eitherverbestateburden |  
+| bip_39_word_no_space_5 | eitherverbestateburdenlaptop |  
+| bip_39_word_no_space_6 | eitherverbestateburdenlaptopdoctor |  
+| bip_39_word_no_space_7 | eitherverbestateburdenlaptopdoctorsafe |  
+| bip_39_word_no_space_8 | eitherverbestateburdenlaptopdoctorsafestone |  
+| bip_39_word_no_space_9 | eitherverbestateburdenlaptopdoctorsafestonerelease |  
 | bip_39_word_space_0 | ['either', 'verb', 'estate', 'burden', 'laptop', 'doctor', 'safe', 'stone', 'release', 'blossom', 'receive', 'among'] |  
 | bip_39_word_space_1 | either |  
 | bip_39_word_space_10 | either verb estate burden laptop doctor safe stone release blossom |  

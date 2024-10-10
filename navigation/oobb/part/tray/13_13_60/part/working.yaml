@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stem
   brave
 
   eight'
+bip_39_word_no_space_1: stem
+bip_39_word_no_space_10: stempuddingtopplevillagetanktunawidthbraveeightalter
+bip_39_word_no_space_11: stempuddingtopplevillagetanktunawidthbraveeightalterapple
+bip_39_word_no_space_12: stempuddingtopplevillagetanktunawidthbraveeightalterappleatom
+bip_39_word_no_space_2: stempudding
+bip_39_word_no_space_3: stempuddingtopple
+bip_39_word_no_space_4: stempuddingtopplevillage
+bip_39_word_no_space_5: stempuddingtopplevillagetank
+bip_39_word_no_space_6: stempuddingtopplevillagetanktuna
+bip_39_word_no_space_7: stempuddingtopplevillagetanktunawidth
+bip_39_word_no_space_8: stempuddingtopplevillagetanktunawidthbrave
+bip_39_word_no_space_9: stempuddingtopplevillagetanktunawidthbraveeight
 bip_39_word_space_0:
 - stem
 - pudding

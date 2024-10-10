@@ -122,6 +122,18 @@ unique
 depend
 spirit
 kitten |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintaerobicbeananalystmaximumuniquedependspiritkittenfaint |  
+| bip_39_word_no_space_11 | faintaerobicbeananalystmaximumuniquedependspiritkittenfaintchronic |  
+| bip_39_word_no_space_12 | faintaerobicbeananalystmaximumuniquedependspiritkittenfaintchronicaddict |  
+| bip_39_word_no_space_2 | faintaerobic |  
+| bip_39_word_no_space_3 | faintaerobicbean |  
+| bip_39_word_no_space_4 | faintaerobicbeananalyst |  
+| bip_39_word_no_space_5 | faintaerobicbeananalystmaximum |  
+| bip_39_word_no_space_6 | faintaerobicbeananalystmaximumunique |  
+| bip_39_word_no_space_7 | faintaerobicbeananalystmaximumuniquedepend |  
+| bip_39_word_no_space_8 | faintaerobicbeananalystmaximumuniquedependspirit |  
+| bip_39_word_no_space_9 | faintaerobicbeananalystmaximumuniquedependspiritkitten |  
 | bip_39_word_space_0 | ['faint', 'aerobic', 'bean', 'analyst', 'maximum', 'unique', 'depend', 'spirit', 'kitten', 'faint', 'chronic', 'addict'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint aerobic bean analyst maximum unique depend spirit kitten faint |  

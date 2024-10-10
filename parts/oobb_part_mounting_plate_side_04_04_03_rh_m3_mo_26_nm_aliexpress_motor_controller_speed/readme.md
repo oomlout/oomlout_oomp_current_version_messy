@@ -122,6 +122,18 @@ violin
 pair
 wrestle
 prefer |  
+| bip_39_word_no_space_1 | grocery |  
+| bip_39_word_no_space_10 | grocerymuchbudgetcliffamountviolinpairwrestlepreferecology |  
+| bip_39_word_no_space_11 | grocerymuchbudgetcliffamountviolinpairwrestlepreferecologyskate |  
+| bip_39_word_no_space_12 | grocerymuchbudgetcliffamountviolinpairwrestlepreferecologyskateart |  
+| bip_39_word_no_space_2 | grocerymuch |  
+| bip_39_word_no_space_3 | grocerymuchbudget |  
+| bip_39_word_no_space_4 | grocerymuchbudgetcliff |  
+| bip_39_word_no_space_5 | grocerymuchbudgetcliffamount |  
+| bip_39_word_no_space_6 | grocerymuchbudgetcliffamountviolin |  
+| bip_39_word_no_space_7 | grocerymuchbudgetcliffamountviolinpair |  
+| bip_39_word_no_space_8 | grocerymuchbudgetcliffamountviolinpairwrestle |  
+| bip_39_word_no_space_9 | grocerymuchbudgetcliffamountviolinpairwrestleprefer |  
 | bip_39_word_space_0 | ['grocery', 'much', 'budget', 'cliff', 'amount', 'violin', 'pair', 'wrestle', 'prefer', 'ecology', 'skate', 'art'] |  
 | bip_39_word_space_1 | grocery |  
 | bip_39_word_space_10 | grocery much budget cliff amount violin pair wrestle prefer ecology |  

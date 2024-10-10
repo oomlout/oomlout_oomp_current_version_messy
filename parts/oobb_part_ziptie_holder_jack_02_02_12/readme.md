@@ -122,6 +122,18 @@ oblige
 right
 saddle
 thought |  
+| bip_39_word_no_space_1 | require |  
+| bip_39_word_no_space_10 | requiresurveyposttomatogroceryobligerightsaddlethoughtpet |  
+| bip_39_word_no_space_11 | requiresurveyposttomatogroceryobligerightsaddlethoughtpetdonate |  
+| bip_39_word_no_space_12 | requiresurveyposttomatogroceryobligerightsaddlethoughtpetdonateagent |  
+| bip_39_word_no_space_2 | requiresurvey |  
+| bip_39_word_no_space_3 | requiresurveypost |  
+| bip_39_word_no_space_4 | requiresurveyposttomato |  
+| bip_39_word_no_space_5 | requiresurveyposttomatogrocery |  
+| bip_39_word_no_space_6 | requiresurveyposttomatogroceryoblige |  
+| bip_39_word_no_space_7 | requiresurveyposttomatogroceryobligeright |  
+| bip_39_word_no_space_8 | requiresurveyposttomatogroceryobligerightsaddle |  
+| bip_39_word_no_space_9 | requiresurveyposttomatogroceryobligerightsaddlethought |  
 | bip_39_word_space_0 | ['require', 'survey', 'post', 'tomato', 'grocery', 'oblige', 'right', 'saddle', 'thought', 'pet', 'donate', 'agent'] |  
 | bip_39_word_space_1 | require |  
 | bip_39_word_space_10 | require survey post tomato grocery oblige right saddle thought pet |  

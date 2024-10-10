@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'april
   replace
 
   lyrics'
+bip_39_word_no_space_1: april
+bip_39_word_no_space_10: aprilscoutincomegeneralshoelaughcrawlreplacelyricscactus
+bip_39_word_no_space_11: aprilscoutincomegeneralshoelaughcrawlreplacelyricscactusleave
+bip_39_word_no_space_12: aprilscoutincomegeneralshoelaughcrawlreplacelyricscactusleaveapple
+bip_39_word_no_space_2: aprilscout
+bip_39_word_no_space_3: aprilscoutincome
+bip_39_word_no_space_4: aprilscoutincomegeneral
+bip_39_word_no_space_5: aprilscoutincomegeneralshoe
+bip_39_word_no_space_6: aprilscoutincomegeneralshoelaugh
+bip_39_word_no_space_7: aprilscoutincomegeneralshoelaughcrawl
+bip_39_word_no_space_8: aprilscoutincomegeneralshoelaughcrawlreplace
+bip_39_word_no_space_9: aprilscoutincomegeneralshoelaughcrawlreplacelyrics
 bip_39_word_space_0:
 - april
 - scout

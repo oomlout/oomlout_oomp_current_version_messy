@@ -122,6 +122,18 @@ pride
 much
 time
 scout |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardsilverfamilytoddlercottonpridemuchtimescoutschool |  
+| bip_39_word_no_space_11 | boardsilverfamilytoddlercottonpridemuchtimescoutschoollucky |  
+| bip_39_word_no_space_12 | boardsilverfamilytoddlercottonpridemuchtimescoutschoolluckyarrive |  
+| bip_39_word_no_space_2 | boardsilver |  
+| bip_39_word_no_space_3 | boardsilverfamily |  
+| bip_39_word_no_space_4 | boardsilverfamilytoddler |  
+| bip_39_word_no_space_5 | boardsilverfamilytoddlercotton |  
+| bip_39_word_no_space_6 | boardsilverfamilytoddlercottonpride |  
+| bip_39_word_no_space_7 | boardsilverfamilytoddlercottonpridemuch |  
+| bip_39_word_no_space_8 | boardsilverfamilytoddlercottonpridemuchtime |  
+| bip_39_word_no_space_9 | boardsilverfamilytoddlercottonpridemuchtimescout |  
 | bip_39_word_space_0 | ['board', 'silver', 'family', 'toddler', 'cotton', 'pride', 'much', 'time', 'scout', 'school', 'lucky', 'arrive'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board silver family toddler cotton pride much time scout school |  

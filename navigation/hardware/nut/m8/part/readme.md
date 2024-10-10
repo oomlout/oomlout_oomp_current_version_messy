@@ -122,6 +122,18 @@ river
 scorpion
 you
 west |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glassessenceslenderchalkvirusriverscorpionyouwestsail |  
+| bip_39_word_no_space_11 | glassessenceslenderchalkvirusriverscorpionyouwestsailupon |  
+| bip_39_word_no_space_12 | glassessenceslenderchalkvirusriverscorpionyouwestsailuponalbum |  
+| bip_39_word_no_space_2 | glassessence |  
+| bip_39_word_no_space_3 | glassessenceslender |  
+| bip_39_word_no_space_4 | glassessenceslenderchalk |  
+| bip_39_word_no_space_5 | glassessenceslenderchalkvirus |  
+| bip_39_word_no_space_6 | glassessenceslenderchalkvirusriver |  
+| bip_39_word_no_space_7 | glassessenceslenderchalkvirusriverscorpion |  
+| bip_39_word_no_space_8 | glassessenceslenderchalkvirusriverscorpionyou |  
+| bip_39_word_no_space_9 | glassessenceslenderchalkvirusriverscorpionyouwest |  
 | bip_39_word_space_0 | ['glass', 'essence', 'slender', 'chalk', 'virus', 'river', 'scorpion', 'you', 'west', 'sail', 'upon', 'album'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass essence slender chalk virus river scorpion you west sail |  

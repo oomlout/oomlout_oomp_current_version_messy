@@ -122,6 +122,18 @@ ready
 minute
 lumber
 jaguar |  
+| bip_39_word_no_space_1 | farm |  
+| bip_39_word_no_space_10 | farmerosioncomfortecologyglobereadyminutelumberjaguarscare |  
+| bip_39_word_no_space_11 | farmerosioncomfortecologyglobereadyminutelumberjaguarscarescene |  
+| bip_39_word_no_space_12 | farmerosioncomfortecologyglobereadyminutelumberjaguarscaresceneadapt |  
+| bip_39_word_no_space_2 | farmerosion |  
+| bip_39_word_no_space_3 | farmerosioncomfort |  
+| bip_39_word_no_space_4 | farmerosioncomfortecology |  
+| bip_39_word_no_space_5 | farmerosioncomfortecologyglobe |  
+| bip_39_word_no_space_6 | farmerosioncomfortecologyglobeready |  
+| bip_39_word_no_space_7 | farmerosioncomfortecologyglobereadyminute |  
+| bip_39_word_no_space_8 | farmerosioncomfortecologyglobereadyminutelumber |  
+| bip_39_word_no_space_9 | farmerosioncomfortecologyglobereadyminutelumberjaguar |  
 | bip_39_word_space_0 | ['farm', 'erosion', 'comfort', 'ecology', 'globe', 'ready', 'minute', 'lumber', 'jaguar', 'scare', 'scene', 'adapt'] |  
 | bip_39_word_space_1 | farm |  
 | bip_39_word_space_10 | farm erosion comfort ecology globe ready minute lumber jaguar scare |  

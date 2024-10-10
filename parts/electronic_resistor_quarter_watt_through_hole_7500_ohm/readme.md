@@ -109,6 +109,17 @@ claw
 similar
 silent
 dice |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | ankleunfairsmartempowerticketclawsimilarsilentdicestate |  
+| bip_39_word_no_space_11 | ankleunfairsmartempowerticketclawsimilarsilentdicestatehusband |  
+| bip_39_word_no_space_2 | ankleunfair |  
+| bip_39_word_no_space_3 | ankleunfairsmart |  
+| bip_39_word_no_space_4 | ankleunfairsmartempower |  
+| bip_39_word_no_space_5 | ankleunfairsmartempowerticket |  
+| bip_39_word_no_space_6 | ankleunfairsmartempowerticketclaw |  
+| bip_39_word_no_space_7 | ankleunfairsmartempowerticketclawsimilar |  
+| bip_39_word_no_space_8 | ankleunfairsmartempowerticketclawsimilarsilent |  
+| bip_39_word_no_space_9 | ankleunfairsmartempowerticketclawsimilarsilentdice |  
 | bip_39_word_space_0 | ['ankle', 'unfair', 'smart', 'empower', 'ticket', 'claw', 'similar', 'silent', 'dice', 'state', 'husband'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle unfair smart empower ticket claw similar silent dice state |  

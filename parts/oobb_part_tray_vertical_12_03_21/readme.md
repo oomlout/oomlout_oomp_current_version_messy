@@ -122,6 +122,18 @@ bar
 scene
 yard
 also |  
+| bip_39_word_no_space_1 | defy |  
+| bip_39_word_no_space_10 | defygiveconvincedestroystrategybarsceneyardalsoribbon |  
+| bip_39_word_no_space_11 | defygiveconvincedestroystrategybarsceneyardalsoribbonnow |  
+| bip_39_word_no_space_12 | defygiveconvincedestroystrategybarsceneyardalsoribbonnowadult |  
+| bip_39_word_no_space_2 | defygive |  
+| bip_39_word_no_space_3 | defygiveconvince |  
+| bip_39_word_no_space_4 | defygiveconvincedestroy |  
+| bip_39_word_no_space_5 | defygiveconvincedestroystrategy |  
+| bip_39_word_no_space_6 | defygiveconvincedestroystrategybar |  
+| bip_39_word_no_space_7 | defygiveconvincedestroystrategybarscene |  
+| bip_39_word_no_space_8 | defygiveconvincedestroystrategybarsceneyard |  
+| bip_39_word_no_space_9 | defygiveconvincedestroystrategybarsceneyardalso |  
 | bip_39_word_space_0 | ['defy', 'give', 'convince', 'destroy', 'strategy', 'bar', 'scene', 'yard', 'also', 'ribbon', 'now', 'adult'] |  
 | bip_39_word_space_1 | defy |  
 | bip_39_word_space_10 | defy give convince destroy strategy bar scene yard also ribbon |  

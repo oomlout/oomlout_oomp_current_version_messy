@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tennis
   okay
 
   unveil'
+bip_39_word_no_space_1: tennis
+bip_39_word_no_space_10: tennisrebuildsandovalsettlenestexileokayunveilsearch
+bip_39_word_no_space_11: tennisrebuildsandovalsettlenestexileokayunveilsearchbook
+bip_39_word_no_space_12: tennisrebuildsandovalsettlenestexileokayunveilsearchbookalmost
+bip_39_word_no_space_2: tennisrebuild
+bip_39_word_no_space_3: tennisrebuildsand
+bip_39_word_no_space_4: tennisrebuildsandoval
+bip_39_word_no_space_5: tennisrebuildsandovalsettle
+bip_39_word_no_space_6: tennisrebuildsandovalsettlenest
+bip_39_word_no_space_7: tennisrebuildsandovalsettlenestexile
+bip_39_word_no_space_8: tennisrebuildsandovalsettlenestexileokay
+bip_39_word_no_space_9: tennisrebuildsandovalsettlenestexileokayunveil
 bip_39_word_space_0:
 - tennis
 - rebuild

@@ -122,6 +122,18 @@ fancy
 shrug
 spawn
 human |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatosubmitawakesuitridgefancyshrugspawnhumanlibrary |  
+| bip_39_word_no_space_11 | tomatosubmitawakesuitridgefancyshrugspawnhumanlibrarylobster |  
+| bip_39_word_no_space_12 | tomatosubmitawakesuitridgefancyshrugspawnhumanlibrarylobsterarrange |  
+| bip_39_word_no_space_2 | tomatosubmit |  
+| bip_39_word_no_space_3 | tomatosubmitawake |  
+| bip_39_word_no_space_4 | tomatosubmitawakesuit |  
+| bip_39_word_no_space_5 | tomatosubmitawakesuitridge |  
+| bip_39_word_no_space_6 | tomatosubmitawakesuitridgefancy |  
+| bip_39_word_no_space_7 | tomatosubmitawakesuitridgefancyshrug |  
+| bip_39_word_no_space_8 | tomatosubmitawakesuitridgefancyshrugspawn |  
+| bip_39_word_no_space_9 | tomatosubmitawakesuitridgefancyshrugspawnhuman |  
 | bip_39_word_space_0 | ['tomato', 'submit', 'awake', 'suit', 'ridge', 'fancy', 'shrug', 'spawn', 'human', 'library', 'lobster', 'arrange'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato submit awake suit ridge fancy shrug spawn human library |  

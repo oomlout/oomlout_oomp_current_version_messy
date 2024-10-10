@@ -122,6 +122,18 @@ arctic
 energy
 siege
 elbow |  
+| bip_39_word_no_space_1 | number |  
+| bip_39_word_no_space_10 | numbersniffpupilmedalsweetarcticenergysiegeelbowfinish |  
+| bip_39_word_no_space_11 | numbersniffpupilmedalsweetarcticenergysiegeelbowfinishtoast |  
+| bip_39_word_no_space_12 | numbersniffpupilmedalsweetarcticenergysiegeelbowfinishtoastanalyst |  
+| bip_39_word_no_space_2 | numbersniff |  
+| bip_39_word_no_space_3 | numbersniffpupil |  
+| bip_39_word_no_space_4 | numbersniffpupilmedal |  
+| bip_39_word_no_space_5 | numbersniffpupilmedalsweet |  
+| bip_39_word_no_space_6 | numbersniffpupilmedalsweetarctic |  
+| bip_39_word_no_space_7 | numbersniffpupilmedalsweetarcticenergy |  
+| bip_39_word_no_space_8 | numbersniffpupilmedalsweetarcticenergysiege |  
+| bip_39_word_no_space_9 | numbersniffpupilmedalsweetarcticenergysiegeelbow |  
 | bip_39_word_space_0 | ['number', 'sniff', 'pupil', 'medal', 'sweet', 'arctic', 'energy', 'siege', 'elbow', 'finish', 'toast', 'analyst'] |  
 | bip_39_word_space_1 | number |  
 | bip_39_word_space_10 | number sniff pupil medal sweet arctic energy siege elbow finish |  

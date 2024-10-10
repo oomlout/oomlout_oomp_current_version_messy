@@ -122,6 +122,18 @@ urban
 reform
 club
 sight |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | ruleearlyalwaysfeelblasturbanreformclubsightrepair |  
+| bip_39_word_no_space_11 | ruleearlyalwaysfeelblasturbanreformclubsightrepairtilt |  
+| bip_39_word_no_space_12 | ruleearlyalwaysfeelblasturbanreformclubsightrepairtiltagain |  
+| bip_39_word_no_space_2 | ruleearly |  
+| bip_39_word_no_space_3 | ruleearlyalways |  
+| bip_39_word_no_space_4 | ruleearlyalwaysfeel |  
+| bip_39_word_no_space_5 | ruleearlyalwaysfeelblast |  
+| bip_39_word_no_space_6 | ruleearlyalwaysfeelblasturban |  
+| bip_39_word_no_space_7 | ruleearlyalwaysfeelblasturbanreform |  
+| bip_39_word_no_space_8 | ruleearlyalwaysfeelblasturbanreformclub |  
+| bip_39_word_no_space_9 | ruleearlyalwaysfeelblasturbanreformclubsight |  
 | bip_39_word_space_0 | ['rule', 'early', 'always', 'feel', 'blast', 'urban', 'reform', 'club', 'sight', 'repair', 'tilt', 'again'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule early always feel blast urban reform club sight repair |  

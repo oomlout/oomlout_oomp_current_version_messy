@@ -122,6 +122,18 @@ arena
 farm
 pony
 diesel |  
+| bip_39_word_no_space_1 | expire |  
+| bip_39_word_no_space_10 | expirepantherlaughoptionmotherarenafarmponydieselsurround |  
+| bip_39_word_no_space_11 | expirepantherlaughoptionmotherarenafarmponydieselsurroundoven |  
+| bip_39_word_no_space_12 | expirepantherlaughoptionmotherarenafarmponydieselsurroundovenalso |  
+| bip_39_word_no_space_2 | expirepanther |  
+| bip_39_word_no_space_3 | expirepantherlaugh |  
+| bip_39_word_no_space_4 | expirepantherlaughoption |  
+| bip_39_word_no_space_5 | expirepantherlaughoptionmother |  
+| bip_39_word_no_space_6 | expirepantherlaughoptionmotherarena |  
+| bip_39_word_no_space_7 | expirepantherlaughoptionmotherarenafarm |  
+| bip_39_word_no_space_8 | expirepantherlaughoptionmotherarenafarmpony |  
+| bip_39_word_no_space_9 | expirepantherlaughoptionmotherarenafarmponydiesel |  
 | bip_39_word_space_0 | ['expire', 'panther', 'laugh', 'option', 'mother', 'arena', 'farm', 'pony', 'diesel', 'surround', 'oven', 'also'] |  
 | bip_39_word_space_1 | expire |  
 | bip_39_word_space_10 | expire panther laugh option mother arena farm pony diesel surround |  

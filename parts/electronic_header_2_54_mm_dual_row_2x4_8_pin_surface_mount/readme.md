@@ -122,6 +122,18 @@ coast
 consider
 receive
 gesture |  
+| bip_39_word_no_space_1 | fragile |  
+| bip_39_word_no_space_10 | fragileproudmaildeputytacklecoastconsiderreceivegestureside |  
+| bip_39_word_no_space_11 | fragileproudmaildeputytacklecoastconsiderreceivegesturesideglobe |  
+| bip_39_word_no_space_12 | fragileproudmaildeputytacklecoastconsiderreceivegesturesideglobearm |  
+| bip_39_word_no_space_2 | fragileproud |  
+| bip_39_word_no_space_3 | fragileproudmail |  
+| bip_39_word_no_space_4 | fragileproudmaildeputy |  
+| bip_39_word_no_space_5 | fragileproudmaildeputytackle |  
+| bip_39_word_no_space_6 | fragileproudmaildeputytacklecoast |  
+| bip_39_word_no_space_7 | fragileproudmaildeputytacklecoastconsider |  
+| bip_39_word_no_space_8 | fragileproudmaildeputytacklecoastconsiderreceive |  
+| bip_39_word_no_space_9 | fragileproudmaildeputytacklecoastconsiderreceivegesture |  
 | bip_39_word_space_0 | ['fragile', 'proud', 'mail', 'deputy', 'tackle', 'coast', 'consider', 'receive', 'gesture', 'side', 'globe', 'arm'] |  
 | bip_39_word_space_1 | fragile |  
 | bip_39_word_space_10 | fragile proud mail deputy tackle coast consider receive gesture side |  

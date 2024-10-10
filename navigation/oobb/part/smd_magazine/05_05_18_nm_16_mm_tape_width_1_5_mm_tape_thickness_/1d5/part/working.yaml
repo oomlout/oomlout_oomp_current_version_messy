@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blur
   region
 
   drum'
+bip_39_word_no_space_1: blur
+bip_39_word_no_space_10: blurgrapepoetbargainhintsellpiperegiondrumhire
+bip_39_word_no_space_11: blurgrapepoetbargainhintsellpiperegiondrumhirelogic
+bip_39_word_no_space_12: blurgrapepoetbargainhintsellpiperegiondrumhirelogicattract
+bip_39_word_no_space_2: blurgrape
+bip_39_word_no_space_3: blurgrapepoet
+bip_39_word_no_space_4: blurgrapepoetbargain
+bip_39_word_no_space_5: blurgrapepoetbargainhint
+bip_39_word_no_space_6: blurgrapepoetbargainhintsell
+bip_39_word_no_space_7: blurgrapepoetbargainhintsellpipe
+bip_39_word_no_space_8: blurgrapepoetbargainhintsellpiperegion
+bip_39_word_no_space_9: blurgrapepoetbargainhintsellpiperegiondrum
 bip_39_word_space_0:
 - blur
 - grape

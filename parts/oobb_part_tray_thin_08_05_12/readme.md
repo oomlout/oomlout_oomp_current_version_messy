@@ -122,6 +122,18 @@ oxygen
 forward
 aware
 settle |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideasetupodorsmalldampoxygenforwardawaresettleproperty |  
+| bip_39_word_no_space_11 | ideasetupodorsmalldampoxygenforwardawaresettlepropertydeliver |  
+| bip_39_word_no_space_12 | ideasetupodorsmalldampoxygenforwardawaresettlepropertydeliverapple |  
+| bip_39_word_no_space_2 | ideasetup |  
+| bip_39_word_no_space_3 | ideasetupodor |  
+| bip_39_word_no_space_4 | ideasetupodorsmall |  
+| bip_39_word_no_space_5 | ideasetupodorsmalldamp |  
+| bip_39_word_no_space_6 | ideasetupodorsmalldampoxygen |  
+| bip_39_word_no_space_7 | ideasetupodorsmalldampoxygenforward |  
+| bip_39_word_no_space_8 | ideasetupodorsmalldampoxygenforwardaware |  
+| bip_39_word_no_space_9 | ideasetupodorsmalldampoxygenforwardawaresettle |  
 | bip_39_word_space_0 | ['idea', 'setup', 'odor', 'small', 'damp', 'oxygen', 'forward', 'aware', 'settle', 'property', 'deliver', 'apple'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea setup odor small damp oxygen forward aware settle property |  

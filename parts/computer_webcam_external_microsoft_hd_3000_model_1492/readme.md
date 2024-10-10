@@ -122,6 +122,18 @@ crater
 april
 car
 empty |  
+| bip_39_word_no_space_1 | tool |  
+| bip_39_word_no_space_10 | toolmanualclawfishcouchcrateraprilcaremptyoak |  
+| bip_39_word_no_space_11 | toolmanualclawfishcouchcrateraprilcaremptyoakolympic |  
+| bip_39_word_no_space_12 | toolmanualclawfishcouchcrateraprilcaremptyoakolympicalready |  
+| bip_39_word_no_space_2 | toolmanual |  
+| bip_39_word_no_space_3 | toolmanualclaw |  
+| bip_39_word_no_space_4 | toolmanualclawfish |  
+| bip_39_word_no_space_5 | toolmanualclawfishcouch |  
+| bip_39_word_no_space_6 | toolmanualclawfishcouchcrater |  
+| bip_39_word_no_space_7 | toolmanualclawfishcouchcraterapril |  
+| bip_39_word_no_space_8 | toolmanualclawfishcouchcrateraprilcar |  
+| bip_39_word_no_space_9 | toolmanualclawfishcouchcrateraprilcarempty |  
 | bip_39_word_space_0 | ['tool', 'manual', 'claw', 'fish', 'couch', 'crater', 'april', 'car', 'empty', 'oak', 'olympic', 'already'] |  
 | bip_39_word_space_1 | tool |  
 | bip_39_word_space_10 | tool manual claw fish couch crater april car empty oak |  

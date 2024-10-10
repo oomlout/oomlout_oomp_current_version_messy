@@ -122,6 +122,18 @@ change
 must
 teach
 struggle |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhausttwistconnectventurecrucialchangemustteachstruggleerosion |  
+| bip_39_word_no_space_11 | exhausttwistconnectventurecrucialchangemustteachstruggleerosionfly |  
+| bip_39_word_no_space_12 | exhausttwistconnectventurecrucialchangemustteachstruggleerosionflyantenna |  
+| bip_39_word_no_space_2 | exhausttwist |  
+| bip_39_word_no_space_3 | exhausttwistconnect |  
+| bip_39_word_no_space_4 | exhausttwistconnectventure |  
+| bip_39_word_no_space_5 | exhausttwistconnectventurecrucial |  
+| bip_39_word_no_space_6 | exhausttwistconnectventurecrucialchange |  
+| bip_39_word_no_space_7 | exhausttwistconnectventurecrucialchangemust |  
+| bip_39_word_no_space_8 | exhausttwistconnectventurecrucialchangemustteach |  
+| bip_39_word_no_space_9 | exhausttwistconnectventurecrucialchangemustteachstruggle |  
 | bip_39_word_space_0 | ['exhaust', 'twist', 'connect', 'venture', 'crucial', 'change', 'must', 'teach', 'struggle', 'erosion', 'fly', 'antenna'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust twist connect venture crucial change must teach struggle erosion |  

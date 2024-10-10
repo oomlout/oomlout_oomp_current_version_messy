@@ -122,6 +122,18 @@ total
 clown
 truck
 olive |  
+| bip_39_word_no_space_1 | elite |  
+| bip_39_word_no_space_10 | elitepatientnorthovalvalvetotalclowntruckoliveload |  
+| bip_39_word_no_space_11 | elitepatientnorthovalvalvetotalclowntruckoliveloadvalid |  
+| bip_39_word_no_space_12 | elitepatientnorthovalvalvetotalclowntruckoliveloadvalidadvice |  
+| bip_39_word_no_space_2 | elitepatient |  
+| bip_39_word_no_space_3 | elitepatientnorth |  
+| bip_39_word_no_space_4 | elitepatientnorthoval |  
+| bip_39_word_no_space_5 | elitepatientnorthovalvalve |  
+| bip_39_word_no_space_6 | elitepatientnorthovalvalvetotal |  
+| bip_39_word_no_space_7 | elitepatientnorthovalvalvetotalclown |  
+| bip_39_word_no_space_8 | elitepatientnorthovalvalvetotalclowntruck |  
+| bip_39_word_no_space_9 | elitepatientnorthovalvalvetotalclowntruckolive |  
 | bip_39_word_space_0 | ['elite', 'patient', 'north', 'oval', 'valve', 'total', 'clown', 'truck', 'olive', 'load', 'valid', 'advice'] |  
 | bip_39_word_space_1 | elite |  
 | bip_39_word_space_10 | elite patient north oval valve total clown truck olive load |  

@@ -122,6 +122,18 @@ more
 because
 list
 oval |  
+| bip_39_word_no_space_1 | noble |  
+| bip_39_word_no_space_10 | nobleglidetrumpethorrorendlessmorebecauselistovaldecade |  
+| bip_39_word_no_space_11 | nobleglidetrumpethorrorendlessmorebecauselistovaldecadestage |  
+| bip_39_word_no_space_12 | nobleglidetrumpethorrorendlessmorebecauselistovaldecadestageactress |  
+| bip_39_word_no_space_2 | nobleglide |  
+| bip_39_word_no_space_3 | nobleglidetrumpet |  
+| bip_39_word_no_space_4 | nobleglidetrumpethorror |  
+| bip_39_word_no_space_5 | nobleglidetrumpethorrorendless |  
+| bip_39_word_no_space_6 | nobleglidetrumpethorrorendlessmore |  
+| bip_39_word_no_space_7 | nobleglidetrumpethorrorendlessmorebecause |  
+| bip_39_word_no_space_8 | nobleglidetrumpethorrorendlessmorebecauselist |  
+| bip_39_word_no_space_9 | nobleglidetrumpethorrorendlessmorebecauselistoval |  
 | bip_39_word_space_0 | ['noble', 'glide', 'trumpet', 'horror', 'endless', 'more', 'because', 'list', 'oval', 'decade', 'stage', 'actress'] |  
 | bip_39_word_space_1 | noble |  
 | bip_39_word_space_10 | noble glide trumpet horror endless more because list oval decade |  

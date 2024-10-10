@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'setup
   acid
 
   this'
+bip_39_word_no_space_1: setup
+bip_39_word_no_space_10: setupscalewhattorchsisterfeelwrapacidthistoast
+bip_39_word_no_space_11: setupscalewhattorchsisterfeelwrapacidthistoastfold
+bip_39_word_no_space_2: setupscale
+bip_39_word_no_space_3: setupscalewhat
+bip_39_word_no_space_4: setupscalewhattorch
+bip_39_word_no_space_5: setupscalewhattorchsister
+bip_39_word_no_space_6: setupscalewhattorchsisterfeel
+bip_39_word_no_space_7: setupscalewhattorchsisterfeelwrap
+bip_39_word_no_space_8: setupscalewhattorchsisterfeelwrapacid
+bip_39_word_no_space_9: setupscalewhattorchsisterfeelwrapacidthis
 bip_39_word_space_0:
 - setup
 - scale

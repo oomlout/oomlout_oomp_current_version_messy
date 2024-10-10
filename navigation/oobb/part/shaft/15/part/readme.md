@@ -122,6 +122,18 @@ occur
 increase
 local
 fog |  
+| bip_39_word_no_space_1 | fox |  
+| bip_39_word_no_space_10 | foxoperaplasticodortentoccurincreaselocalfogquiz |  
+| bip_39_word_no_space_11 | foxoperaplasticodortentoccurincreaselocalfogquizlocal |  
+| bip_39_word_no_space_12 | foxoperaplasticodortentoccurincreaselocalfogquizlocalapril |  
+| bip_39_word_no_space_2 | foxopera |  
+| bip_39_word_no_space_3 | foxoperaplastic |  
+| bip_39_word_no_space_4 | foxoperaplasticodor |  
+| bip_39_word_no_space_5 | foxoperaplasticodortent |  
+| bip_39_word_no_space_6 | foxoperaplasticodortentoccur |  
+| bip_39_word_no_space_7 | foxoperaplasticodortentoccurincrease |  
+| bip_39_word_no_space_8 | foxoperaplasticodortentoccurincreaselocal |  
+| bip_39_word_no_space_9 | foxoperaplasticodortentoccurincreaselocalfog |  
 | bip_39_word_space_0 | ['fox', 'opera', 'plastic', 'odor', 'tent', 'occur', 'increase', 'local', 'fog', 'quiz', 'local', 'april'] |  
 | bip_39_word_space_1 | fox |  
 | bip_39_word_space_10 | fox opera plastic odor tent occur increase local fog quiz |  

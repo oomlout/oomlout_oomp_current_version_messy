@@ -122,6 +122,18 @@ stand
 index
 awesome
 tray |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramsecuritysupplymangoozonestandindexawesometraycouple |  
+| bip_39_word_no_space_11 | cramsecuritysupplymangoozonestandindexawesometraycouplebundle |  
+| bip_39_word_no_space_12 | cramsecuritysupplymangoozonestandindexawesometraycouplebundlealley |  
+| bip_39_word_no_space_2 | cramsecurity |  
+| bip_39_word_no_space_3 | cramsecuritysupply |  
+| bip_39_word_no_space_4 | cramsecuritysupplymango |  
+| bip_39_word_no_space_5 | cramsecuritysupplymangoozone |  
+| bip_39_word_no_space_6 | cramsecuritysupplymangoozonestand |  
+| bip_39_word_no_space_7 | cramsecuritysupplymangoozonestandindex |  
+| bip_39_word_no_space_8 | cramsecuritysupplymangoozonestandindexawesome |  
+| bip_39_word_no_space_9 | cramsecuritysupplymangoozonestandindexawesometray |  
 | bip_39_word_space_0 | ['cram', 'security', 'supply', 'mango', 'ozone', 'stand', 'index', 'awesome', 'tray', 'couple', 'bundle', 'alley'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram security supply mango ozone stand index awesome tray couple |  

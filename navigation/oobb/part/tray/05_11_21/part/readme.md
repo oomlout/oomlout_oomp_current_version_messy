@@ -122,6 +122,18 @@ cable
 alcohol
 blind
 lazy |  
+| bip_39_word_no_space_1 | put |  
+| bip_39_word_no_space_10 | putitemawaydepartinstallcablealcoholblindlazyhip |  
+| bip_39_word_no_space_11 | putitemawaydepartinstallcablealcoholblindlazyhipalter |  
+| bip_39_word_no_space_12 | putitemawaydepartinstallcablealcoholblindlazyhipalterarch |  
+| bip_39_word_no_space_2 | putitem |  
+| bip_39_word_no_space_3 | putitemaway |  
+| bip_39_word_no_space_4 | putitemawaydepart |  
+| bip_39_word_no_space_5 | putitemawaydepartinstall |  
+| bip_39_word_no_space_6 | putitemawaydepartinstallcable |  
+| bip_39_word_no_space_7 | putitemawaydepartinstallcablealcohol |  
+| bip_39_word_no_space_8 | putitemawaydepartinstallcablealcoholblind |  
+| bip_39_word_no_space_9 | putitemawaydepartinstallcablealcoholblindlazy |  
 | bip_39_word_space_0 | ['put', 'item', 'away', 'depart', 'install', 'cable', 'alcohol', 'blind', 'lazy', 'hip', 'alter', 'arch'] |  
 | bip_39_word_space_1 | put |  
 | bip_39_word_space_10 | put item away depart install cable alcohol blind lazy hip |  

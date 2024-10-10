@@ -122,6 +122,18 @@ virus
 nuclear
 donor
 muffin |  
+| bip_39_word_no_space_1 | indoor |  
+| bip_39_word_no_space_10 | indoorsooncrackquestionamazingvirusnucleardonormuffinblack |  
+| bip_39_word_no_space_11 | indoorsooncrackquestionamazingvirusnucleardonormuffinblackwhere |  
+| bip_39_word_no_space_12 | indoorsooncrackquestionamazingvirusnucleardonormuffinblackwhereagent |  
+| bip_39_word_no_space_2 | indoorsoon |  
+| bip_39_word_no_space_3 | indoorsooncrack |  
+| bip_39_word_no_space_4 | indoorsooncrackquestion |  
+| bip_39_word_no_space_5 | indoorsooncrackquestionamazing |  
+| bip_39_word_no_space_6 | indoorsooncrackquestionamazingvirus |  
+| bip_39_word_no_space_7 | indoorsooncrackquestionamazingvirusnuclear |  
+| bip_39_word_no_space_8 | indoorsooncrackquestionamazingvirusnucleardonor |  
+| bip_39_word_no_space_9 | indoorsooncrackquestionamazingvirusnucleardonormuffin |  
 | bip_39_word_space_0 | ['indoor', 'soon', 'crack', 'question', 'amazing', 'virus', 'nuclear', 'donor', 'muffin', 'black', 'where', 'agent'] |  
 | bip_39_word_space_1 | indoor |  
 | bip_39_word_space_10 | indoor soon crack question amazing virus nuclear donor muffin black |  

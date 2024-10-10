@@ -122,6 +122,18 @@ olympic
 muscle
 stock
 type |  
+| bip_39_word_no_space_1 | trap |  
+| bip_39_word_no_space_10 | trapgasabilitydonatepowderolympicmusclestocktypesuit |  
+| bip_39_word_no_space_11 | trapgasabilitydonatepowderolympicmusclestocktypesuitpet |  
+| bip_39_word_no_space_12 | trapgasabilitydonatepowderolympicmusclestocktypesuitpetalarm |  
+| bip_39_word_no_space_2 | trapgas |  
+| bip_39_word_no_space_3 | trapgasability |  
+| bip_39_word_no_space_4 | trapgasabilitydonate |  
+| bip_39_word_no_space_5 | trapgasabilitydonatepowder |  
+| bip_39_word_no_space_6 | trapgasabilitydonatepowderolympic |  
+| bip_39_word_no_space_7 | trapgasabilitydonatepowderolympicmuscle |  
+| bip_39_word_no_space_8 | trapgasabilitydonatepowderolympicmusclestock |  
+| bip_39_word_no_space_9 | trapgasabilitydonatepowderolympicmusclestocktype |  
 | bip_39_word_space_0 | ['trap', 'gas', 'ability', 'donate', 'powder', 'olympic', 'muscle', 'stock', 'type', 'suit', 'pet', 'alarm'] |  
 | bip_39_word_space_1 | trap |  
 | bip_39_word_space_10 | trap gas ability donate powder olympic muscle stock type suit |  

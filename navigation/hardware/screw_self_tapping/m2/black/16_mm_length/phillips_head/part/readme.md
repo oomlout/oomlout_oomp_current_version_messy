@@ -122,6 +122,18 @@ door
 lesson
 audit
 hundred |  
+| bip_39_word_no_space_1 | test |  
+| bip_39_word_no_space_10 | testrigidpurityregularstadiumdoorlessonaudithundredjunior |  
+| bip_39_word_no_space_11 | testrigidpurityregularstadiumdoorlessonaudithundredjuniorelder |  
+| bip_39_word_no_space_12 | testrigidpurityregularstadiumdoorlessonaudithundredjuniorelderapology |  
+| bip_39_word_no_space_2 | testrigid |  
+| bip_39_word_no_space_3 | testrigidpurity |  
+| bip_39_word_no_space_4 | testrigidpurityregular |  
+| bip_39_word_no_space_5 | testrigidpurityregularstadium |  
+| bip_39_word_no_space_6 | testrigidpurityregularstadiumdoor |  
+| bip_39_word_no_space_7 | testrigidpurityregularstadiumdoorlesson |  
+| bip_39_word_no_space_8 | testrigidpurityregularstadiumdoorlessonaudit |  
+| bip_39_word_no_space_9 | testrigidpurityregularstadiumdoorlessonaudithundred |  
 | bip_39_word_space_0 | ['test', 'rigid', 'purity', 'regular', 'stadium', 'door', 'lesson', 'audit', 'hundred', 'junior', 'elder', 'apology'] |  
 | bip_39_word_space_1 | test |  
 | bip_39_word_space_10 | test rigid purity regular stadium door lesson audit hundred junior |  

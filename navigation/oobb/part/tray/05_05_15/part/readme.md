@@ -122,6 +122,18 @@ elbow
 father
 loyal
 travel |  
+| bip_39_word_no_space_1 | market |  
+| bip_39_word_no_space_10 | marketboilonionpetdilemmaelbowfatherloyaltravelcastle |  
+| bip_39_word_no_space_11 | marketboilonionpetdilemmaelbowfatherloyaltravelcastlemesh |  
+| bip_39_word_no_space_12 | marketboilonionpetdilemmaelbowfatherloyaltravelcastlemeshart |  
+| bip_39_word_no_space_2 | marketboil |  
+| bip_39_word_no_space_3 | marketboilonion |  
+| bip_39_word_no_space_4 | marketboilonionpet |  
+| bip_39_word_no_space_5 | marketboilonionpetdilemma |  
+| bip_39_word_no_space_6 | marketboilonionpetdilemmaelbow |  
+| bip_39_word_no_space_7 | marketboilonionpetdilemmaelbowfather |  
+| bip_39_word_no_space_8 | marketboilonionpetdilemmaelbowfatherloyal |  
+| bip_39_word_no_space_9 | marketboilonionpetdilemmaelbowfatherloyaltravel |  
 | bip_39_word_space_0 | ['market', 'boil', 'onion', 'pet', 'dilemma', 'elbow', 'father', 'loyal', 'travel', 'castle', 'mesh', 'art'] |  
 | bip_39_word_space_1 | market |  
 | bip_39_word_space_10 | market boil onion pet dilemma elbow father loyal travel castle |  

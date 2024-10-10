@@ -122,6 +122,18 @@ empower
 gap
 sniff
 what |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturelumberoutsideinnocentlawsuitempowergapsniffwhatnaive |  
+| bip_39_word_no_space_11 | naturelumberoutsideinnocentlawsuitempowergapsniffwhatnaivedistance |  
+| bip_39_word_no_space_12 | naturelumberoutsideinnocentlawsuitempowergapsniffwhatnaivedistanceargue |  
+| bip_39_word_no_space_2 | naturelumber |  
+| bip_39_word_no_space_3 | naturelumberoutside |  
+| bip_39_word_no_space_4 | naturelumberoutsideinnocent |  
+| bip_39_word_no_space_5 | naturelumberoutsideinnocentlawsuit |  
+| bip_39_word_no_space_6 | naturelumberoutsideinnocentlawsuitempower |  
+| bip_39_word_no_space_7 | naturelumberoutsideinnocentlawsuitempowergap |  
+| bip_39_word_no_space_8 | naturelumberoutsideinnocentlawsuitempowergapsniff |  
+| bip_39_word_no_space_9 | naturelumberoutsideinnocentlawsuitempowergapsniffwhat |  
 | bip_39_word_space_0 | ['nature', 'lumber', 'outside', 'innocent', 'lawsuit', 'empower', 'gap', 'sniff', 'what', 'naive', 'distance', 'argue'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature lumber outside innocent lawsuit empower gap sniff what naive |  

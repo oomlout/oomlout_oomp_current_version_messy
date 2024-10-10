@@ -122,6 +122,18 @@ hand
 bottom
 surprise
 round |  
+| bip_39_word_no_space_1 | miracle |  
+| bip_39_word_no_space_10 | miracleautoclipbodyactionhandbottomsurpriseroundrich |  
+| bip_39_word_no_space_11 | miracleautoclipbodyactionhandbottomsurpriseroundrichstove |  
+| bip_39_word_no_space_12 | miracleautoclipbodyactionhandbottomsurpriseroundrichstoveable |  
+| bip_39_word_no_space_2 | miracleauto |  
+| bip_39_word_no_space_3 | miracleautoclip |  
+| bip_39_word_no_space_4 | miracleautoclipbody |  
+| bip_39_word_no_space_5 | miracleautoclipbodyaction |  
+| bip_39_word_no_space_6 | miracleautoclipbodyactionhand |  
+| bip_39_word_no_space_7 | miracleautoclipbodyactionhandbottom |  
+| bip_39_word_no_space_8 | miracleautoclipbodyactionhandbottomsurprise |  
+| bip_39_word_no_space_9 | miracleautoclipbodyactionhandbottomsurpriseround |  
 | bip_39_word_space_0 | ['miracle', 'auto', 'clip', 'body', 'action', 'hand', 'bottom', 'surprise', 'round', 'rich', 'stove', 'able'] |  
 | bip_39_word_space_1 | miracle |  
 | bip_39_word_space_10 | miracle auto clip body action hand bottom surprise round rich |  

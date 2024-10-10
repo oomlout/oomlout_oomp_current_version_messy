@@ -122,6 +122,18 @@ firm
 spawn
 harbor
 parrot |  
+| bip_39_word_no_space_1 | produce |  
+| bip_39_word_no_space_10 | produceteachunablenowabsurdfirmspawnharborparrotsample |  
+| bip_39_word_no_space_11 | produceteachunablenowabsurdfirmspawnharborparrotsamplelibrary |  
+| bip_39_word_no_space_12 | produceteachunablenowabsurdfirmspawnharborparrotsamplelibraryanimal |  
+| bip_39_word_no_space_2 | produceteach |  
+| bip_39_word_no_space_3 | produceteachunable |  
+| bip_39_word_no_space_4 | produceteachunablenow |  
+| bip_39_word_no_space_5 | produceteachunablenowabsurd |  
+| bip_39_word_no_space_6 | produceteachunablenowabsurdfirm |  
+| bip_39_word_no_space_7 | produceteachunablenowabsurdfirmspawn |  
+| bip_39_word_no_space_8 | produceteachunablenowabsurdfirmspawnharbor |  
+| bip_39_word_no_space_9 | produceteachunablenowabsurdfirmspawnharborparrot |  
 | bip_39_word_space_0 | ['produce', 'teach', 'unable', 'now', 'absurd', 'firm', 'spawn', 'harbor', 'parrot', 'sample', 'library', 'animal'] |  
 | bip_39_word_space_1 | produce |  
 | bip_39_word_space_10 | produce teach unable now absurd firm spawn harbor parrot sample |  

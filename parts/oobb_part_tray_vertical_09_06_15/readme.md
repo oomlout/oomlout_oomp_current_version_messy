@@ -122,6 +122,18 @@ faith
 stumble
 crater
 region |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymgasptennispitchbunkerfaithstumblecraterregiondress |  
+| bip_39_word_no_space_11 | gymgasptennispitchbunkerfaithstumblecraterregiondressfather |  
+| bip_39_word_no_space_12 | gymgasptennispitchbunkerfaithstumblecraterregiondressfatherassault |  
+| bip_39_word_no_space_2 | gymgasp |  
+| bip_39_word_no_space_3 | gymgasptennis |  
+| bip_39_word_no_space_4 | gymgasptennispitch |  
+| bip_39_word_no_space_5 | gymgasptennispitchbunker |  
+| bip_39_word_no_space_6 | gymgasptennispitchbunkerfaith |  
+| bip_39_word_no_space_7 | gymgasptennispitchbunkerfaithstumble |  
+| bip_39_word_no_space_8 | gymgasptennispitchbunkerfaithstumblecrater |  
+| bip_39_word_no_space_9 | gymgasptennispitchbunkerfaithstumblecraterregion |  
 | bip_39_word_space_0 | ['gym', 'gasp', 'tennis', 'pitch', 'bunker', 'faith', 'stumble', 'crater', 'region', 'dress', 'father', 'assault'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym gasp tennis pitch bunker faith stumble crater region dress |  

@@ -122,6 +122,18 @@ target
 lake
 father
 visit |  
+| bip_39_word_no_space_1 | problem |  
+| bip_39_word_no_space_10 | problemstartplaceribsupertargetlakefathervisitchaos |  
+| bip_39_word_no_space_11 | problemstartplaceribsupertargetlakefathervisitchaosfind |  
+| bip_39_word_no_space_12 | problemstartplaceribsupertargetlakefathervisitchaosfindarmy |  
+| bip_39_word_no_space_2 | problemstart |  
+| bip_39_word_no_space_3 | problemstartplace |  
+| bip_39_word_no_space_4 | problemstartplacerib |  
+| bip_39_word_no_space_5 | problemstartplaceribsuper |  
+| bip_39_word_no_space_6 | problemstartplaceribsupertarget |  
+| bip_39_word_no_space_7 | problemstartplaceribsupertargetlake |  
+| bip_39_word_no_space_8 | problemstartplaceribsupertargetlakefather |  
+| bip_39_word_no_space_9 | problemstartplaceribsupertargetlakefathervisit |  
 | bip_39_word_space_0 | ['problem', 'start', 'place', 'rib', 'super', 'target', 'lake', 'father', 'visit', 'chaos', 'find', 'army'] |  
 | bip_39_word_space_1 | problem |  
 | bip_39_word_space_10 | problem start place rib super target lake father visit chaos |  

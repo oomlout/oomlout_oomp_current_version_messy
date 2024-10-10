@@ -122,6 +122,18 @@ setup
 piece
 dust
 year |  
+| bip_39_word_no_space_1 | roast |  
+| bip_39_word_no_space_10 | roastidleelsesixdevotesetuppiecedustyearlawn |  
+| bip_39_word_no_space_11 | roastidleelsesixdevotesetuppiecedustyearlawninvest |  
+| bip_39_word_no_space_12 | roastidleelsesixdevotesetuppiecedustyearlawninvestalone |  
+| bip_39_word_no_space_2 | roastidle |  
+| bip_39_word_no_space_3 | roastidleelse |  
+| bip_39_word_no_space_4 | roastidleelsesix |  
+| bip_39_word_no_space_5 | roastidleelsesixdevote |  
+| bip_39_word_no_space_6 | roastidleelsesixdevotesetup |  
+| bip_39_word_no_space_7 | roastidleelsesixdevotesetuppiece |  
+| bip_39_word_no_space_8 | roastidleelsesixdevotesetuppiecedust |  
+| bip_39_word_no_space_9 | roastidleelsesixdevotesetuppiecedustyear |  
 | bip_39_word_space_0 | ['roast', 'idle', 'else', 'six', 'devote', 'setup', 'piece', 'dust', 'year', 'lawn', 'invest', 'alone'] |  
 | bip_39_word_space_1 | roast |  
 | bip_39_word_space_10 | roast idle else six devote setup piece dust year lawn |  

@@ -122,6 +122,18 @@ unfair
 program
 rebel
 faculty |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | danceexoticsnackcrumbletissueunfairprogramrebelfacultysave |  
+| bip_39_word_no_space_11 | danceexoticsnackcrumbletissueunfairprogramrebelfacultysavearctic |  
+| bip_39_word_no_space_12 | danceexoticsnackcrumbletissueunfairprogramrebelfacultysavearcticact |  
+| bip_39_word_no_space_2 | danceexotic |  
+| bip_39_word_no_space_3 | danceexoticsnack |  
+| bip_39_word_no_space_4 | danceexoticsnackcrumble |  
+| bip_39_word_no_space_5 | danceexoticsnackcrumbletissue |  
+| bip_39_word_no_space_6 | danceexoticsnackcrumbletissueunfair |  
+| bip_39_word_no_space_7 | danceexoticsnackcrumbletissueunfairprogram |  
+| bip_39_word_no_space_8 | danceexoticsnackcrumbletissueunfairprogramrebel |  
+| bip_39_word_no_space_9 | danceexoticsnackcrumbletissueunfairprogramrebelfaculty |  
 | bip_39_word_space_0 | ['dance', 'exotic', 'snack', 'crumble', 'tissue', 'unfair', 'program', 'rebel', 'faculty', 'save', 'arctic', 'act'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance exotic snack crumble tissue unfair program rebel faculty save |  

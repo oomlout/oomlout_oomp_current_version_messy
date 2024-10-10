@@ -122,6 +122,18 @@ perfect
 crew
 olympic
 excuse |  
+| bip_39_word_no_space_1 | already |  
+| bip_39_word_no_space_10 | alreadydriftleftpencilfederalperfectcrewolympicexcuseverify |  
+| bip_39_word_no_space_11 | alreadydriftleftpencilfederalperfectcrewolympicexcuseverifymail |  
+| bip_39_word_no_space_12 | alreadydriftleftpencilfederalperfectcrewolympicexcuseverifymailactor |  
+| bip_39_word_no_space_2 | alreadydrift |  
+| bip_39_word_no_space_3 | alreadydriftleft |  
+| bip_39_word_no_space_4 | alreadydriftleftpencil |  
+| bip_39_word_no_space_5 | alreadydriftleftpencilfederal |  
+| bip_39_word_no_space_6 | alreadydriftleftpencilfederalperfect |  
+| bip_39_word_no_space_7 | alreadydriftleftpencilfederalperfectcrew |  
+| bip_39_word_no_space_8 | alreadydriftleftpencilfederalperfectcrewolympic |  
+| bip_39_word_no_space_9 | alreadydriftleftpencilfederalperfectcrewolympicexcuse |  
 | bip_39_word_space_0 | ['already', 'drift', 'left', 'pencil', 'federal', 'perfect', 'crew', 'olympic', 'excuse', 'verify', 'mail', 'actor'] |  
 | bip_39_word_space_1 | already |  
 | bip_39_word_space_10 | already drift left pencil federal perfect crew olympic excuse verify |  

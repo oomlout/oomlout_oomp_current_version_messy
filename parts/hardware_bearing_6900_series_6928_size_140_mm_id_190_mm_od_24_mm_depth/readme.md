@@ -122,6 +122,18 @@ verb
 stadium
 battle
 stock |  
+| bip_39_word_no_space_1 | slide |  
+| bip_39_word_no_space_10 | slidewaterrobotsenseuntilverbstadiumbattlestockquestion |  
+| bip_39_word_no_space_11 | slidewaterrobotsenseuntilverbstadiumbattlestockquestionwolf |  
+| bip_39_word_no_space_12 | slidewaterrobotsenseuntilverbstadiumbattlestockquestionwolfathlete |  
+| bip_39_word_no_space_2 | slidewater |  
+| bip_39_word_no_space_3 | slidewaterrobot |  
+| bip_39_word_no_space_4 | slidewaterrobotsense |  
+| bip_39_word_no_space_5 | slidewaterrobotsenseuntil |  
+| bip_39_word_no_space_6 | slidewaterrobotsenseuntilverb |  
+| bip_39_word_no_space_7 | slidewaterrobotsenseuntilverbstadium |  
+| bip_39_word_no_space_8 | slidewaterrobotsenseuntilverbstadiumbattle |  
+| bip_39_word_no_space_9 | slidewaterrobotsenseuntilverbstadiumbattlestock |  
 | bip_39_word_space_0 | ['slide', 'water', 'robot', 'sense', 'until', 'verb', 'stadium', 'battle', 'stock', 'question', 'wolf', 'athlete'] |  
 | bip_39_word_space_1 | slide |  
 | bip_39_word_space_10 | slide water robot sense until verb stadium battle stock question |  

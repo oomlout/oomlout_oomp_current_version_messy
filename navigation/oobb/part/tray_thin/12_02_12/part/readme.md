@@ -122,6 +122,18 @@ theme
 fashion
 habit
 inch |  
+| bip_39_word_no_space_1 | coyote |  
+| bip_39_word_no_space_10 | coyotedeskvaultlunchreopenthemefashionhabitinchbounce |  
+| bip_39_word_no_space_11 | coyotedeskvaultlunchreopenthemefashionhabitinchbouncebrief |  
+| bip_39_word_no_space_12 | coyotedeskvaultlunchreopenthemefashionhabitinchbouncebriefabsurd |  
+| bip_39_word_no_space_2 | coyotedesk |  
+| bip_39_word_no_space_3 | coyotedeskvault |  
+| bip_39_word_no_space_4 | coyotedeskvaultlunch |  
+| bip_39_word_no_space_5 | coyotedeskvaultlunchreopen |  
+| bip_39_word_no_space_6 | coyotedeskvaultlunchreopentheme |  
+| bip_39_word_no_space_7 | coyotedeskvaultlunchreopenthemefashion |  
+| bip_39_word_no_space_8 | coyotedeskvaultlunchreopenthemefashionhabit |  
+| bip_39_word_no_space_9 | coyotedeskvaultlunchreopenthemefashionhabitinch |  
 | bip_39_word_space_0 | ['coyote', 'desk', 'vault', 'lunch', 'reopen', 'theme', 'fashion', 'habit', 'inch', 'bounce', 'brief', 'absurd'] |  
 | bip_39_word_space_1 | coyote |  
 | bip_39_word_space_10 | coyote desk vault lunch reopen theme fashion habit inch bounce |  

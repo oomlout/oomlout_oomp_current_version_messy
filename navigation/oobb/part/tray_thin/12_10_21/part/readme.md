@@ -122,6 +122,18 @@ practice
 front
 gown
 drop |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscuresaladreliefsystemradarpracticefrontgowndropghost |  
+| bip_39_word_no_space_11 | obscuresaladreliefsystemradarpracticefrontgowndropghostpride |  
+| bip_39_word_no_space_12 | obscuresaladreliefsystemradarpracticefrontgowndropghostprideaccident |  
+| bip_39_word_no_space_2 | obscuresalad |  
+| bip_39_word_no_space_3 | obscuresaladrelief |  
+| bip_39_word_no_space_4 | obscuresaladreliefsystem |  
+| bip_39_word_no_space_5 | obscuresaladreliefsystemradar |  
+| bip_39_word_no_space_6 | obscuresaladreliefsystemradarpractice |  
+| bip_39_word_no_space_7 | obscuresaladreliefsystemradarpracticefront |  
+| bip_39_word_no_space_8 | obscuresaladreliefsystemradarpracticefrontgown |  
+| bip_39_word_no_space_9 | obscuresaladreliefsystemradarpracticefrontgowndrop |  
 | bip_39_word_space_0 | ['obscure', 'salad', 'relief', 'system', 'radar', 'practice', 'front', 'gown', 'drop', 'ghost', 'pride', 'accident'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure salad relief system radar practice front gown drop ghost |  

@@ -122,6 +122,18 @@ track
 kiwi
 viable
 box |  
+| bip_39_word_no_space_1 | this |  
+| bip_39_word_no_space_10 | thishourpepperusefulparenttrackkiwiviableboxkite |  
+| bip_39_word_no_space_11 | thishourpepperusefulparenttrackkiwiviableboxkiteyouth |  
+| bip_39_word_no_space_12 | thishourpepperusefulparenttrackkiwiviableboxkiteyouthalarm |  
+| bip_39_word_no_space_2 | thishour |  
+| bip_39_word_no_space_3 | thishourpepper |  
+| bip_39_word_no_space_4 | thishourpepperuseful |  
+| bip_39_word_no_space_5 | thishourpepperusefulparent |  
+| bip_39_word_no_space_6 | thishourpepperusefulparenttrack |  
+| bip_39_word_no_space_7 | thishourpepperusefulparenttrackkiwi |  
+| bip_39_word_no_space_8 | thishourpepperusefulparenttrackkiwiviable |  
+| bip_39_word_no_space_9 | thishourpepperusefulparenttrackkiwiviablebox |  
 | bip_39_word_space_0 | ['this', 'hour', 'pepper', 'useful', 'parent', 'track', 'kiwi', 'viable', 'box', 'kite', 'youth', 'alarm'] |  
 | bip_39_word_space_1 | this |  
 | bip_39_word_space_10 | this hour pepper useful parent track kiwi viable box kite |  

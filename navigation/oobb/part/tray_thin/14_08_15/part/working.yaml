@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'exhaust
   salute
 
   crop'
+bip_39_word_no_space_1: exhaust
+bip_39_word_no_space_10: exhaustcanwhendetailmajorelbowroadsalutecropgoat
+bip_39_word_no_space_11: exhaustcanwhendetailmajorelbowroadsalutecropgoatdismiss
+bip_39_word_no_space_12: exhaustcanwhendetailmajorelbowroadsalutecropgoatdismissalone
+bip_39_word_no_space_2: exhaustcan
+bip_39_word_no_space_3: exhaustcanwhen
+bip_39_word_no_space_4: exhaustcanwhendetail
+bip_39_word_no_space_5: exhaustcanwhendetailmajor
+bip_39_word_no_space_6: exhaustcanwhendetailmajorelbow
+bip_39_word_no_space_7: exhaustcanwhendetailmajorelbowroad
+bip_39_word_no_space_8: exhaustcanwhendetailmajorelbowroadsalute
+bip_39_word_no_space_9: exhaustcanwhendetailmajorelbowroadsalutecrop
 bip_39_word_space_0:
 - exhaust
 - can

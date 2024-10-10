@@ -122,6 +122,18 @@ sun
 auto
 wisdom
 earth |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenvenuetomorrowputdependsunautowisdomearthschool |  
+| bip_39_word_no_space_11 | brokenvenuetomorrowputdependsunautowisdomearthschoolguess |  
+| bip_39_word_no_space_12 | brokenvenuetomorrowputdependsunautowisdomearthschoolguessanswer |  
+| bip_39_word_no_space_2 | brokenvenue |  
+| bip_39_word_no_space_3 | brokenvenuetomorrow |  
+| bip_39_word_no_space_4 | brokenvenuetomorrowput |  
+| bip_39_word_no_space_5 | brokenvenuetomorrowputdepend |  
+| bip_39_word_no_space_6 | brokenvenuetomorrowputdependsun |  
+| bip_39_word_no_space_7 | brokenvenuetomorrowputdependsunauto |  
+| bip_39_word_no_space_8 | brokenvenuetomorrowputdependsunautowisdom |  
+| bip_39_word_no_space_9 | brokenvenuetomorrowputdependsunautowisdomearth |  
 | bip_39_word_space_0 | ['broken', 'venue', 'tomorrow', 'put', 'depend', 'sun', 'auto', 'wisdom', 'earth', 'school', 'guess', 'answer'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken venue tomorrow put depend sun auto wisdom earth school |  

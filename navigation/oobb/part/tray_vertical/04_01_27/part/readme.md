@@ -122,6 +122,18 @@ scatter
 sugar
 defy
 fabric |  
+| bip_39_word_no_space_1 | combine |  
+| bip_39_word_no_space_10 | combinesugaryellowarchlovescattersugardefyfabricmust |  
+| bip_39_word_no_space_11 | combinesugaryellowarchlovescattersugardefyfabricmustskirt |  
+| bip_39_word_no_space_12 | combinesugaryellowarchlovescattersugardefyfabricmustskirtabsurd |  
+| bip_39_word_no_space_2 | combinesugar |  
+| bip_39_word_no_space_3 | combinesugaryellow |  
+| bip_39_word_no_space_4 | combinesugaryellowarch |  
+| bip_39_word_no_space_5 | combinesugaryellowarchlove |  
+| bip_39_word_no_space_6 | combinesugaryellowarchlovescatter |  
+| bip_39_word_no_space_7 | combinesugaryellowarchlovescattersugar |  
+| bip_39_word_no_space_8 | combinesugaryellowarchlovescattersugardefy |  
+| bip_39_word_no_space_9 | combinesugaryellowarchlovescattersugardefyfabric |  
 | bip_39_word_space_0 | ['combine', 'sugar', 'yellow', 'arch', 'love', 'scatter', 'sugar', 'defy', 'fabric', 'must', 'skirt', 'absurd'] |  
 | bip_39_word_space_1 | combine |  
 | bip_39_word_space_10 | combine sugar yellow arch love scatter sugar defy fabric must |  

@@ -122,6 +122,18 @@ embark
 offer
 flag
 thought |  
+| bip_39_word_no_space_1 | evoke |  
+| bip_39_word_no_space_10 | evokehammersodamiseryattitudeembarkofferflagthoughtlimit |  
+| bip_39_word_no_space_11 | evokehammersodamiseryattitudeembarkofferflagthoughtlimitcoil |  
+| bip_39_word_no_space_12 | evokehammersodamiseryattitudeembarkofferflagthoughtlimitcoilabsorb |  
+| bip_39_word_no_space_2 | evokehammer |  
+| bip_39_word_no_space_3 | evokehammersoda |  
+| bip_39_word_no_space_4 | evokehammersodamisery |  
+| bip_39_word_no_space_5 | evokehammersodamiseryattitude |  
+| bip_39_word_no_space_6 | evokehammersodamiseryattitudeembark |  
+| bip_39_word_no_space_7 | evokehammersodamiseryattitudeembarkoffer |  
+| bip_39_word_no_space_8 | evokehammersodamiseryattitudeembarkofferflag |  
+| bip_39_word_no_space_9 | evokehammersodamiseryattitudeembarkofferflagthought |  
 | bip_39_word_space_0 | ['evoke', 'hammer', 'soda', 'misery', 'attitude', 'embark', 'offer', 'flag', 'thought', 'limit', 'coil', 'absorb'] |  
 | bip_39_word_space_1 | evoke |  
 | bip_39_word_space_10 | evoke hammer soda misery attitude embark offer flag thought limit |  

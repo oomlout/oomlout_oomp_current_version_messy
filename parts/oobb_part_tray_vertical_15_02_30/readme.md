@@ -122,6 +122,18 @@ angle
 forget
 myself
 stick |  
+| bip_39_word_no_space_1 | funny |  
+| bip_39_word_no_space_10 | funnywarriorsweetgiggledynamicangleforgetmyselfstickrecycle |  
+| bip_39_word_no_space_11 | funnywarriorsweetgiggledynamicangleforgetmyselfstickrecycleresponse |  
+| bip_39_word_no_space_12 | funnywarriorsweetgiggledynamicangleforgetmyselfstickrecycleresponseapart |  
+| bip_39_word_no_space_2 | funnywarrior |  
+| bip_39_word_no_space_3 | funnywarriorsweet |  
+| bip_39_word_no_space_4 | funnywarriorsweetgiggle |  
+| bip_39_word_no_space_5 | funnywarriorsweetgiggledynamic |  
+| bip_39_word_no_space_6 | funnywarriorsweetgiggledynamicangle |  
+| bip_39_word_no_space_7 | funnywarriorsweetgiggledynamicangleforget |  
+| bip_39_word_no_space_8 | funnywarriorsweetgiggledynamicangleforgetmyself |  
+| bip_39_word_no_space_9 | funnywarriorsweetgiggledynamicangleforgetmyselfstick |  
 | bip_39_word_space_0 | ['funny', 'warrior', 'sweet', 'giggle', 'dynamic', 'angle', 'forget', 'myself', 'stick', 'recycle', 'response', 'apart'] |  
 | bip_39_word_space_1 | funny |  
 | bip_39_word_space_10 | funny warrior sweet giggle dynamic angle forget myself stick recycle |  

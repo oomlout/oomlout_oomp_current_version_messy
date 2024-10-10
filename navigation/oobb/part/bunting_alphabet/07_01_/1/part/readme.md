@@ -122,6 +122,18 @@ broccoli
 shrimp
 hope
 rude |  
+| bip_39_word_no_space_1 | maximum |  
+| bip_39_word_no_space_10 | maximumstomachbeefinsectblanketbroccolishrimphoperudewalnut |  
+| bip_39_word_no_space_11 | maximumstomachbeefinsectblanketbroccolishrimphoperudewalnutwink |  
+| bip_39_word_no_space_12 | maximumstomachbeefinsectblanketbroccolishrimphoperudewalnutwinkaction |  
+| bip_39_word_no_space_2 | maximumstomach |  
+| bip_39_word_no_space_3 | maximumstomachbeef |  
+| bip_39_word_no_space_4 | maximumstomachbeefinsect |  
+| bip_39_word_no_space_5 | maximumstomachbeefinsectblanket |  
+| bip_39_word_no_space_6 | maximumstomachbeefinsectblanketbroccoli |  
+| bip_39_word_no_space_7 | maximumstomachbeefinsectblanketbroccolishrimp |  
+| bip_39_word_no_space_8 | maximumstomachbeefinsectblanketbroccolishrimphope |  
+| bip_39_word_no_space_9 | maximumstomachbeefinsectblanketbroccolishrimphoperude |  
 | bip_39_word_space_0 | ['maximum', 'stomach', 'beef', 'insect', 'blanket', 'broccoli', 'shrimp', 'hope', 'rude', 'walnut', 'wink', 'action'] |  
 | bip_39_word_space_1 | maximum |  
 | bip_39_word_space_10 | maximum stomach beef insect blanket broccoli shrimp hope rude walnut |  

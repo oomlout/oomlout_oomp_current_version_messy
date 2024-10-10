@@ -122,6 +122,18 @@ pole
 panda
 media
 speak |  
+| bip_39_word_no_space_1 | pudding |  
+| bip_39_word_no_space_10 | puddingnobleminorspawnpiecepolepandamediaspeakload |  
+| bip_39_word_no_space_11 | puddingnobleminorspawnpiecepolepandamediaspeakloadmiracle |  
+| bip_39_word_no_space_12 | puddingnobleminorspawnpiecepolepandamediaspeakloadmiraclealert |  
+| bip_39_word_no_space_2 | puddingnoble |  
+| bip_39_word_no_space_3 | puddingnobleminor |  
+| bip_39_word_no_space_4 | puddingnobleminorspawn |  
+| bip_39_word_no_space_5 | puddingnobleminorspawnpiece |  
+| bip_39_word_no_space_6 | puddingnobleminorspawnpiecepole |  
+| bip_39_word_no_space_7 | puddingnobleminorspawnpiecepolepanda |  
+| bip_39_word_no_space_8 | puddingnobleminorspawnpiecepolepandamedia |  
+| bip_39_word_no_space_9 | puddingnobleminorspawnpiecepolepandamediaspeak |  
 | bip_39_word_space_0 | ['pudding', 'noble', 'minor', 'spawn', 'piece', 'pole', 'panda', 'media', 'speak', 'load', 'miracle', 'alert'] |  
 | bip_39_word_space_1 | pudding |  
 | bip_39_word_space_10 | pudding noble minor spawn piece pole panda media speak load |  

@@ -122,6 +122,18 @@ message
 stage
 merry
 fish |  
+| bip_39_word_no_space_1 | town |  
+| bip_39_word_no_space_10 | townzerotomorrowvictoryweekendmessagestagemerryfishstick |  
+| bip_39_word_no_space_11 | townzerotomorrowvictoryweekendmessagestagemerryfishsticknear |  
+| bip_39_word_no_space_12 | townzerotomorrowvictoryweekendmessagestagemerryfishstickneararena |  
+| bip_39_word_no_space_2 | townzero |  
+| bip_39_word_no_space_3 | townzerotomorrow |  
+| bip_39_word_no_space_4 | townzerotomorrowvictory |  
+| bip_39_word_no_space_5 | townzerotomorrowvictoryweekend |  
+| bip_39_word_no_space_6 | townzerotomorrowvictoryweekendmessage |  
+| bip_39_word_no_space_7 | townzerotomorrowvictoryweekendmessagestage |  
+| bip_39_word_no_space_8 | townzerotomorrowvictoryweekendmessagestagemerry |  
+| bip_39_word_no_space_9 | townzerotomorrowvictoryweekendmessagestagemerryfish |  
 | bip_39_word_space_0 | ['town', 'zero', 'tomorrow', 'victory', 'weekend', 'message', 'stage', 'merry', 'fish', 'stick', 'near', 'arena'] |  
 | bip_39_word_space_1 | town |  
 | bip_39_word_space_10 | town zero tomorrow victory weekend message stage merry fish stick |  

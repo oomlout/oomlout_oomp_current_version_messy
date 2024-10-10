@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'maze
   salt
 
   soda'
+bip_39_word_no_space_1: maze
+bip_39_word_no_space_10: mazesimilaryouwolfuntilpenkiwisaltsodaoil
+bip_39_word_no_space_11: mazesimilaryouwolfuntilpenkiwisaltsodaoilbag
+bip_39_word_no_space_12: mazesimilaryouwolfuntilpenkiwisaltsodaoilbagaugust
+bip_39_word_no_space_2: mazesimilar
+bip_39_word_no_space_3: mazesimilaryou
+bip_39_word_no_space_4: mazesimilaryouwolf
+bip_39_word_no_space_5: mazesimilaryouwolfuntil
+bip_39_word_no_space_6: mazesimilaryouwolfuntilpen
+bip_39_word_no_space_7: mazesimilaryouwolfuntilpenkiwi
+bip_39_word_no_space_8: mazesimilaryouwolfuntilpenkiwisalt
+bip_39_word_no_space_9: mazesimilaryouwolfuntilpenkiwisaltsoda
 bip_39_word_space_0:
 - maze
 - similar

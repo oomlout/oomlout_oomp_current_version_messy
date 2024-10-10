@@ -122,6 +122,18 @@ balcony
 quantum
 mercy
 cruel |  
+| bip_39_word_no_space_1 | symptom |  
+| bip_39_word_no_space_10 | symptomliquidrandomsoundloyalbalconyquantummercycruelreform |  
+| bip_39_word_no_space_11 | symptomliquidrandomsoundloyalbalconyquantummercycruelreformoutdoor |  
+| bip_39_word_no_space_12 | symptomliquidrandomsoundloyalbalconyquantummercycruelreformoutdooranxiety |  
+| bip_39_word_no_space_2 | symptomliquid |  
+| bip_39_word_no_space_3 | symptomliquidrandom |  
+| bip_39_word_no_space_4 | symptomliquidrandomsound |  
+| bip_39_word_no_space_5 | symptomliquidrandomsoundloyal |  
+| bip_39_word_no_space_6 | symptomliquidrandomsoundloyalbalcony |  
+| bip_39_word_no_space_7 | symptomliquidrandomsoundloyalbalconyquantum |  
+| bip_39_word_no_space_8 | symptomliquidrandomsoundloyalbalconyquantummercy |  
+| bip_39_word_no_space_9 | symptomliquidrandomsoundloyalbalconyquantummercycruel |  
 | bip_39_word_space_0 | ['symptom', 'liquid', 'random', 'sound', 'loyal', 'balcony', 'quantum', 'mercy', 'cruel', 'reform', 'outdoor', 'anxiety'] |  
 | bip_39_word_space_1 | symptom |  
 | bip_39_word_space_10 | symptom liquid random sound loyal balcony quantum mercy cruel reform |  

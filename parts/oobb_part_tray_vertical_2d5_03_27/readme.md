@@ -122,6 +122,18 @@ luxury
 puzzle
 adjust
 type |  
+| bip_39_word_no_space_1 | brave |  
+| bip_39_word_no_space_10 | bravederivetypevariousclipluxurypuzzleadjusttypeweekend |  
+| bip_39_word_no_space_11 | bravederivetypevariousclipluxurypuzzleadjusttypeweekendrose |  
+| bip_39_word_no_space_12 | bravederivetypevariousclipluxurypuzzleadjusttypeweekendroseaffair |  
+| bip_39_word_no_space_2 | bravederive |  
+| bip_39_word_no_space_3 | bravederivetype |  
+| bip_39_word_no_space_4 | bravederivetypevarious |  
+| bip_39_word_no_space_5 | bravederivetypevariousclip |  
+| bip_39_word_no_space_6 | bravederivetypevariousclipluxury |  
+| bip_39_word_no_space_7 | bravederivetypevariousclipluxurypuzzle |  
+| bip_39_word_no_space_8 | bravederivetypevariousclipluxurypuzzleadjust |  
+| bip_39_word_no_space_9 | bravederivetypevariousclipluxurypuzzleadjusttype |  
 | bip_39_word_space_0 | ['brave', 'derive', 'type', 'various', 'clip', 'luxury', 'puzzle', 'adjust', 'type', 'weekend', 'rose', 'affair'] |  
 | bip_39_word_space_1 | brave |  
 | bip_39_word_space_10 | brave derive type various clip luxury puzzle adjust type weekend |  

@@ -122,6 +122,18 @@ forest
 round
 million
 excite |  
+| bip_39_word_no_space_1 | stable |  
+| bip_39_word_no_space_10 | stableclawecologyalcoholbehindforestroundmillionexciteextend |  
+| bip_39_word_no_space_11 | stableclawecologyalcoholbehindforestroundmillionexciteextendsoul |  
+| bip_39_word_no_space_12 | stableclawecologyalcoholbehindforestroundmillionexciteextendsoulannual |  
+| bip_39_word_no_space_2 | stableclaw |  
+| bip_39_word_no_space_3 | stableclawecology |  
+| bip_39_word_no_space_4 | stableclawecologyalcohol |  
+| bip_39_word_no_space_5 | stableclawecologyalcoholbehind |  
+| bip_39_word_no_space_6 | stableclawecologyalcoholbehindforest |  
+| bip_39_word_no_space_7 | stableclawecologyalcoholbehindforestround |  
+| bip_39_word_no_space_8 | stableclawecologyalcoholbehindforestroundmillion |  
+| bip_39_word_no_space_9 | stableclawecologyalcoholbehindforestroundmillionexcite |  
 | bip_39_word_space_0 | ['stable', 'claw', 'ecology', 'alcohol', 'behind', 'forest', 'round', 'million', 'excite', 'extend', 'soul', 'annual'] |  
 | bip_39_word_space_1 | stable |  
 | bip_39_word_space_10 | stable claw ecology alcohol behind forest round million excite extend |  

@@ -122,6 +122,18 @@ identify
 relax
 feature
 island |  
+| bip_39_word_no_space_1 | live |  
+| bip_39_word_no_space_10 | liveswampboostintactcuriousidentifyrelaxfeatureislandelite |  
+| bip_39_word_no_space_11 | liveswampboostintactcuriousidentifyrelaxfeatureislandeliteridge |  
+| bip_39_word_no_space_12 | liveswampboostintactcuriousidentifyrelaxfeatureislandeliteridgeaim |  
+| bip_39_word_no_space_2 | liveswamp |  
+| bip_39_word_no_space_3 | liveswampboost |  
+| bip_39_word_no_space_4 | liveswampboostintact |  
+| bip_39_word_no_space_5 | liveswampboostintactcurious |  
+| bip_39_word_no_space_6 | liveswampboostintactcuriousidentify |  
+| bip_39_word_no_space_7 | liveswampboostintactcuriousidentifyrelax |  
+| bip_39_word_no_space_8 | liveswampboostintactcuriousidentifyrelaxfeature |  
+| bip_39_word_no_space_9 | liveswampboostintactcuriousidentifyrelaxfeatureisland |  
 | bip_39_word_space_0 | ['live', 'swamp', 'boost', 'intact', 'curious', 'identify', 'relax', 'feature', 'island', 'elite', 'ridge', 'aim'] |  
 | bip_39_word_space_1 | live |  
 | bip_39_word_space_10 | live swamp boost intact curious identify relax feature island elite |  

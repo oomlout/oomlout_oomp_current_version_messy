@@ -122,6 +122,18 @@ hurt
 render
 area
 another |  
+| bip_39_word_no_space_1 | sight |  
+| bip_39_word_no_space_10 | sightanybosstravelinstallhurtrenderareaanothertwelve |  
+| bip_39_word_no_space_11 | sightanybosstravelinstallhurtrenderareaanothertwelvearrive |  
+| bip_39_word_no_space_12 | sightanybosstravelinstallhurtrenderareaanothertwelvearriveannounce |  
+| bip_39_word_no_space_2 | sightany |  
+| bip_39_word_no_space_3 | sightanyboss |  
+| bip_39_word_no_space_4 | sightanybosstravel |  
+| bip_39_word_no_space_5 | sightanybosstravelinstall |  
+| bip_39_word_no_space_6 | sightanybosstravelinstallhurt |  
+| bip_39_word_no_space_7 | sightanybosstravelinstallhurtrender |  
+| bip_39_word_no_space_8 | sightanybosstravelinstallhurtrenderarea |  
+| bip_39_word_no_space_9 | sightanybosstravelinstallhurtrenderareaanother |  
 | bip_39_word_space_0 | ['sight', 'any', 'boss', 'travel', 'install', 'hurt', 'render', 'area', 'another', 'twelve', 'arrive', 'announce'] |  
 | bip_39_word_space_1 | sight |  
 | bip_39_word_space_10 | sight any boss travel install hurt render area another twelve |  

@@ -122,6 +122,18 @@ direct
 crime
 acquire
 ridge |  
+| bip_39_word_no_space_1 | coast |  
+| bip_39_word_no_space_10 | coastdietreadysidecomicdirectcrimeacquireridgespare |  
+| bip_39_word_no_space_11 | coastdietreadysidecomicdirectcrimeacquireridgesparewarfare |  
+| bip_39_word_no_space_12 | coastdietreadysidecomicdirectcrimeacquireridgesparewarfareaugust |  
+| bip_39_word_no_space_2 | coastdiet |  
+| bip_39_word_no_space_3 | coastdietready |  
+| bip_39_word_no_space_4 | coastdietreadyside |  
+| bip_39_word_no_space_5 | coastdietreadysidecomic |  
+| bip_39_word_no_space_6 | coastdietreadysidecomicdirect |  
+| bip_39_word_no_space_7 | coastdietreadysidecomicdirectcrime |  
+| bip_39_word_no_space_8 | coastdietreadysidecomicdirectcrimeacquire |  
+| bip_39_word_no_space_9 | coastdietreadysidecomicdirectcrimeacquireridge |  
 | bip_39_word_space_0 | ['coast', 'diet', 'ready', 'side', 'comic', 'direct', 'crime', 'acquire', 'ridge', 'spare', 'warfare', 'august'] |  
 | bip_39_word_space_1 | coast |  
 | bip_39_word_space_10 | coast diet ready side comic direct crime acquire ridge spare |  

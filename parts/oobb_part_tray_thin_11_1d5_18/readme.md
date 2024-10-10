@@ -122,6 +122,18 @@ penalty
 adult
 fly
 gap |  
+| bip_39_word_no_space_1 | daughter |  
+| bip_39_word_no_space_10 | daughtercavevendorweekendlunarpenaltyadultflygapsimple |  
+| bip_39_word_no_space_11 | daughtercavevendorweekendlunarpenaltyadultflygapsimpleroom |  
+| bip_39_word_no_space_12 | daughtercavevendorweekendlunarpenaltyadultflygapsimpleroomaudit |  
+| bip_39_word_no_space_2 | daughtercave |  
+| bip_39_word_no_space_3 | daughtercavevendor |  
+| bip_39_word_no_space_4 | daughtercavevendorweekend |  
+| bip_39_word_no_space_5 | daughtercavevendorweekendlunar |  
+| bip_39_word_no_space_6 | daughtercavevendorweekendlunarpenalty |  
+| bip_39_word_no_space_7 | daughtercavevendorweekendlunarpenaltyadult |  
+| bip_39_word_no_space_8 | daughtercavevendorweekendlunarpenaltyadultfly |  
+| bip_39_word_no_space_9 | daughtercavevendorweekendlunarpenaltyadultflygap |  
 | bip_39_word_space_0 | ['daughter', 'cave', 'vendor', 'weekend', 'lunar', 'penalty', 'adult', 'fly', 'gap', 'simple', 'room', 'audit'] |  
 | bip_39_word_space_1 | daughter |  
 | bip_39_word_space_10 | daughter cave vendor weekend lunar penalty adult fly gap simple |  

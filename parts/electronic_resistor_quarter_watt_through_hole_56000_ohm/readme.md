@@ -122,6 +122,18 @@ sister
 stomach
 symbol
 small |  
+| bip_39_word_no_space_1 | civil |  
+| bip_39_word_no_space_10 | civilshooturbanfuturedivertsisterstomachsymbolsmallpen |  
+| bip_39_word_no_space_11 | civilshooturbanfuturedivertsisterstomachsymbolsmallpendetect |  
+| bip_39_word_no_space_12 | civilshooturbanfuturedivertsisterstomachsymbolsmallpendetectartwork |  
+| bip_39_word_no_space_2 | civilshoot |  
+| bip_39_word_no_space_3 | civilshooturban |  
+| bip_39_word_no_space_4 | civilshooturbanfuture |  
+| bip_39_word_no_space_5 | civilshooturbanfuturedivert |  
+| bip_39_word_no_space_6 | civilshooturbanfuturedivertsister |  
+| bip_39_word_no_space_7 | civilshooturbanfuturedivertsisterstomach |  
+| bip_39_word_no_space_8 | civilshooturbanfuturedivertsisterstomachsymbol |  
+| bip_39_word_no_space_9 | civilshooturbanfuturedivertsisterstomachsymbolsmall |  
 | bip_39_word_space_0 | ['civil', 'shoot', 'urban', 'future', 'divert', 'sister', 'stomach', 'symbol', 'small', 'pen', 'detect', 'artwork'] |  
 | bip_39_word_space_1 | civil |  
 | bip_39_word_space_10 | civil shoot urban future divert sister stomach symbol small pen |  

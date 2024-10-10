@@ -122,6 +122,18 @@ survey
 public
 sword
 permit |  
+| bip_39_word_no_space_1 | phrase |  
+| bip_39_word_no_space_10 | phrasecoursecrouchwheelscorpionsurveypublicswordpermitsea |  
+| bip_39_word_no_space_11 | phrasecoursecrouchwheelscorpionsurveypublicswordpermitseaduty |  
+| bip_39_word_no_space_12 | phrasecoursecrouchwheelscorpionsurveypublicswordpermitseadutyalcohol |  
+| bip_39_word_no_space_2 | phrasecourse |  
+| bip_39_word_no_space_3 | phrasecoursecrouch |  
+| bip_39_word_no_space_4 | phrasecoursecrouchwheel |  
+| bip_39_word_no_space_5 | phrasecoursecrouchwheelscorpion |  
+| bip_39_word_no_space_6 | phrasecoursecrouchwheelscorpionsurvey |  
+| bip_39_word_no_space_7 | phrasecoursecrouchwheelscorpionsurveypublic |  
+| bip_39_word_no_space_8 | phrasecoursecrouchwheelscorpionsurveypublicsword |  
+| bip_39_word_no_space_9 | phrasecoursecrouchwheelscorpionsurveypublicswordpermit |  
 | bip_39_word_space_0 | ['phrase', 'course', 'crouch', 'wheel', 'scorpion', 'survey', 'public', 'sword', 'permit', 'sea', 'duty', 'alcohol'] |  
 | bip_39_word_space_1 | phrase |  
 | bip_39_word_space_10 | phrase course crouch wheel scorpion survey public sword permit sea |  

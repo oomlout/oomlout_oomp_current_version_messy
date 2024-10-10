@@ -122,6 +122,18 @@ napkin
 steel
 wool
 marble |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artistlockroughduckstrugglenapkinsteelwoolmarblesafe |  
+| bip_39_word_no_space_11 | artistlockroughduckstrugglenapkinsteelwoolmarblesafedamp |  
+| bip_39_word_no_space_12 | artistlockroughduckstrugglenapkinsteelwoolmarblesafedampactual |  
+| bip_39_word_no_space_2 | artistlock |  
+| bip_39_word_no_space_3 | artistlockrough |  
+| bip_39_word_no_space_4 | artistlockroughduck |  
+| bip_39_word_no_space_5 | artistlockroughduckstruggle |  
+| bip_39_word_no_space_6 | artistlockroughduckstrugglenapkin |  
+| bip_39_word_no_space_7 | artistlockroughduckstrugglenapkinsteel |  
+| bip_39_word_no_space_8 | artistlockroughduckstrugglenapkinsteelwool |  
+| bip_39_word_no_space_9 | artistlockroughduckstrugglenapkinsteelwoolmarble |  
 | bip_39_word_space_0 | ['artist', 'lock', 'rough', 'duck', 'struggle', 'napkin', 'steel', 'wool', 'marble', 'safe', 'damp', 'actual'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist lock rough duck struggle napkin steel wool marble safe |  

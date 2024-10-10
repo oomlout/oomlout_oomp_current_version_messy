@@ -122,6 +122,18 @@ claim
 demand
 march
 opinion |  
+| bip_39_word_no_space_1 | release |  
+| bip_39_word_no_space_10 | releaseclerkannouncegrabphotoclaimdemandmarchopinionaccident |  
+| bip_39_word_no_space_11 | releaseclerkannouncegrabphotoclaimdemandmarchopinionaccidentvast |  
+| bip_39_word_no_space_12 | releaseclerkannouncegrabphotoclaimdemandmarchopinionaccidentvastadjust |  
+| bip_39_word_no_space_2 | releaseclerk |  
+| bip_39_word_no_space_3 | releaseclerkannounce |  
+| bip_39_word_no_space_4 | releaseclerkannouncegrab |  
+| bip_39_word_no_space_5 | releaseclerkannouncegrabphoto |  
+| bip_39_word_no_space_6 | releaseclerkannouncegrabphotoclaim |  
+| bip_39_word_no_space_7 | releaseclerkannouncegrabphotoclaimdemand |  
+| bip_39_word_no_space_8 | releaseclerkannouncegrabphotoclaimdemandmarch |  
+| bip_39_word_no_space_9 | releaseclerkannouncegrabphotoclaimdemandmarchopinion |  
 | bip_39_word_space_0 | ['release', 'clerk', 'announce', 'grab', 'photo', 'claim', 'demand', 'march', 'opinion', 'accident', 'vast', 'adjust'] |  
 | bip_39_word_space_1 | release |  
 | bip_39_word_space_10 | release clerk announce grab photo claim demand march opinion accident |  

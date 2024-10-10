@@ -122,6 +122,18 @@ panda
 setup
 spin
 sick |  
+| bip_39_word_no_space_1 | twenty |  
+| bip_39_word_no_space_10 | twentyblossomgraperoofcookpandasetupspinsickemerge |  
+| bip_39_word_no_space_11 | twentyblossomgraperoofcookpandasetupspinsickemergeworld |  
+| bip_39_word_no_space_12 | twentyblossomgraperoofcookpandasetupspinsickemergeworldany |  
+| bip_39_word_no_space_2 | twentyblossom |  
+| bip_39_word_no_space_3 | twentyblossomgrape |  
+| bip_39_word_no_space_4 | twentyblossomgraperoof |  
+| bip_39_word_no_space_5 | twentyblossomgraperoofcook |  
+| bip_39_word_no_space_6 | twentyblossomgraperoofcookpanda |  
+| bip_39_word_no_space_7 | twentyblossomgraperoofcookpandasetup |  
+| bip_39_word_no_space_8 | twentyblossomgraperoofcookpandasetupspin |  
+| bip_39_word_no_space_9 | twentyblossomgraperoofcookpandasetupspinsick |  
 | bip_39_word_space_0 | ['twenty', 'blossom', 'grape', 'roof', 'cook', 'panda', 'setup', 'spin', 'sick', 'emerge', 'world', 'any'] |  
 | bip_39_word_space_1 | twenty |  
 | bip_39_word_space_10 | twenty blossom grape roof cook panda setup spin sick emerge |  

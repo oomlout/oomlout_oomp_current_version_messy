@@ -122,6 +122,18 @@ dice
 ugly
 empty
 brown |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardsenioroftenfooddrilldiceuglyemptybrowntrumpet |  
+| bip_39_word_no_space_11 | boardsenioroftenfooddrilldiceuglyemptybrowntrumpeterupt |  
+| bip_39_word_no_space_12 | boardsenioroftenfooddrilldiceuglyemptybrowntrumpeteruptappear |  
+| bip_39_word_no_space_2 | boardsenior |  
+| bip_39_word_no_space_3 | boardsenioroften |  
+| bip_39_word_no_space_4 | boardsenioroftenfood |  
+| bip_39_word_no_space_5 | boardsenioroftenfooddrill |  
+| bip_39_word_no_space_6 | boardsenioroftenfooddrilldice |  
+| bip_39_word_no_space_7 | boardsenioroftenfooddrilldiceugly |  
+| bip_39_word_no_space_8 | boardsenioroftenfooddrilldiceuglyempty |  
+| bip_39_word_no_space_9 | boardsenioroftenfooddrilldiceuglyemptybrown |  
 | bip_39_word_space_0 | ['board', 'senior', 'often', 'food', 'drill', 'dice', 'ugly', 'empty', 'brown', 'trumpet', 'erupt', 'appear'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board senior often food drill dice ugly empty brown trumpet |  

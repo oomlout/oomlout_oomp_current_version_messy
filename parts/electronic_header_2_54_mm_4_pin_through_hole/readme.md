@@ -122,6 +122,18 @@ exit
 pride
 tomorrow
 ozone |  
+| bip_39_word_no_space_1 | void |  
+| bip_39_word_no_space_10 | voidmythfirstwashcrimeexitpridetomorrowozonecomic |  
+| bip_39_word_no_space_11 | voidmythfirstwashcrimeexitpridetomorrowozonecomicbody |  
+| bip_39_word_no_space_12 | voidmythfirstwashcrimeexitpridetomorrowozonecomicbodyability |  
+| bip_39_word_no_space_2 | voidmyth |  
+| bip_39_word_no_space_3 | voidmythfirst |  
+| bip_39_word_no_space_4 | voidmythfirstwash |  
+| bip_39_word_no_space_5 | voidmythfirstwashcrime |  
+| bip_39_word_no_space_6 | voidmythfirstwashcrimeexit |  
+| bip_39_word_no_space_7 | voidmythfirstwashcrimeexitpride |  
+| bip_39_word_no_space_8 | voidmythfirstwashcrimeexitpridetomorrow |  
+| bip_39_word_no_space_9 | voidmythfirstwashcrimeexitpridetomorrowozone |  
 | bip_39_word_space_0 | ['void', 'myth', 'first', 'wash', 'crime', 'exit', 'pride', 'tomorrow', 'ozone', 'comic', 'body', 'ability'] |  
 | bip_39_word_space_1 | void |  
 | bip_39_word_space_10 | void myth first wash crime exit pride tomorrow ozone comic |  

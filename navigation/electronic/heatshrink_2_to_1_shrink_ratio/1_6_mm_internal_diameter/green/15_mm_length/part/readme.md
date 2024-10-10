@@ -122,6 +122,18 @@ bulb
 anchor
 pepper
 divorce |  
+| bip_39_word_no_space_1 | stone |  
+| bip_39_word_no_space_10 | stoneshallowbuildtruesweetbulbanchorpepperdivorcebacon |  
+| bip_39_word_no_space_11 | stoneshallowbuildtruesweetbulbanchorpepperdivorcebaconclick |  
+| bip_39_word_no_space_12 | stoneshallowbuildtruesweetbulbanchorpepperdivorcebaconclickasthma |  
+| bip_39_word_no_space_2 | stoneshallow |  
+| bip_39_word_no_space_3 | stoneshallowbuild |  
+| bip_39_word_no_space_4 | stoneshallowbuildtrue |  
+| bip_39_word_no_space_5 | stoneshallowbuildtruesweet |  
+| bip_39_word_no_space_6 | stoneshallowbuildtruesweetbulb |  
+| bip_39_word_no_space_7 | stoneshallowbuildtruesweetbulbanchor |  
+| bip_39_word_no_space_8 | stoneshallowbuildtruesweetbulbanchorpepper |  
+| bip_39_word_no_space_9 | stoneshallowbuildtruesweetbulbanchorpepperdivorce |  
 | bip_39_word_space_0 | ['stone', 'shallow', 'build', 'true', 'sweet', 'bulb', 'anchor', 'pepper', 'divorce', 'bacon', 'click', 'asthma'] |  
 | bip_39_word_space_1 | stone |  
 | bip_39_word_space_10 | stone shallow build true sweet bulb anchor pepper divorce bacon |  

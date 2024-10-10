@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'attend
   awesome
 
   club'
+bip_39_word_no_space_1: attend
+bip_39_word_no_space_10: attendawesomesteelfitnessfuryjarjellyawesomeclublearn
+bip_39_word_no_space_11: attendawesomesteelfitnessfuryjarjellyawesomeclublearntiny
+bip_39_word_no_space_12: attendawesomesteelfitnessfuryjarjellyawesomeclublearntinyapril
+bip_39_word_no_space_2: attendawesome
+bip_39_word_no_space_3: attendawesomesteel
+bip_39_word_no_space_4: attendawesomesteelfitness
+bip_39_word_no_space_5: attendawesomesteelfitnessfury
+bip_39_word_no_space_6: attendawesomesteelfitnessfuryjar
+bip_39_word_no_space_7: attendawesomesteelfitnessfuryjarjelly
+bip_39_word_no_space_8: attendawesomesteelfitnessfuryjarjellyawesome
+bip_39_word_no_space_9: attendawesomesteelfitnessfuryjarjellyawesomeclub
 bip_39_word_space_0:
 - attend
 - awesome

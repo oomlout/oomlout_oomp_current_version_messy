@@ -122,6 +122,18 @@ swarm
 impact
 casual
 art |  
+| bip_39_word_no_space_1 | panic |  
+| bip_39_word_no_space_10 | panicwarmrefuseminimumfenceswarmimpactcasualartdouble |  
+| bip_39_word_no_space_11 | panicwarmrefuseminimumfenceswarmimpactcasualartdoublegoose |  
+| bip_39_word_no_space_12 | panicwarmrefuseminimumfenceswarmimpactcasualartdoublegooseaffair |  
+| bip_39_word_no_space_2 | panicwarm |  
+| bip_39_word_no_space_3 | panicwarmrefuse |  
+| bip_39_word_no_space_4 | panicwarmrefuseminimum |  
+| bip_39_word_no_space_5 | panicwarmrefuseminimumfence |  
+| bip_39_word_no_space_6 | panicwarmrefuseminimumfenceswarm |  
+| bip_39_word_no_space_7 | panicwarmrefuseminimumfenceswarmimpact |  
+| bip_39_word_no_space_8 | panicwarmrefuseminimumfenceswarmimpactcasual |  
+| bip_39_word_no_space_9 | panicwarmrefuseminimumfenceswarmimpactcasualart |  
 | bip_39_word_space_0 | ['panic', 'warm', 'refuse', 'minimum', 'fence', 'swarm', 'impact', 'casual', 'art', 'double', 'goose', 'affair'] |  
 | bip_39_word_space_1 | panic |  
 | bip_39_word_space_10 | panic warm refuse minimum fence swarm impact casual art double |  

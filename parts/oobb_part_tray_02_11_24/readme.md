@@ -122,6 +122,18 @@ affair
 thank
 fancy
 laundry |  
+| bip_39_word_no_space_1 | fringe |  
+| bip_39_word_no_space_10 | fringebulblightfrostmarginaffairthankfancylaundrydynamic |  
+| bip_39_word_no_space_11 | fringebulblightfrostmarginaffairthankfancylaundrydynamicmenu |  
+| bip_39_word_no_space_12 | fringebulblightfrostmarginaffairthankfancylaundrydynamicmenuachieve |  
+| bip_39_word_no_space_2 | fringebulb |  
+| bip_39_word_no_space_3 | fringebulblight |  
+| bip_39_word_no_space_4 | fringebulblightfrost |  
+| bip_39_word_no_space_5 | fringebulblightfrostmargin |  
+| bip_39_word_no_space_6 | fringebulblightfrostmarginaffair |  
+| bip_39_word_no_space_7 | fringebulblightfrostmarginaffairthank |  
+| bip_39_word_no_space_8 | fringebulblightfrostmarginaffairthankfancy |  
+| bip_39_word_no_space_9 | fringebulblightfrostmarginaffairthankfancylaundry |  
 | bip_39_word_space_0 | ['fringe', 'bulb', 'light', 'frost', 'margin', 'affair', 'thank', 'fancy', 'laundry', 'dynamic', 'menu', 'achieve'] |  
 | bip_39_word_space_1 | fringe |  
 | bip_39_word_space_10 | fringe bulb light frost margin affair thank fancy laundry dynamic |  

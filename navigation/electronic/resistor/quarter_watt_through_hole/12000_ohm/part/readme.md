@@ -122,6 +122,18 @@ ensure
 blast
 search
 suit |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artisthungryverifybonuswreckensureblastsearchsuitsolar |  
+| bip_39_word_no_space_11 | artisthungryverifybonuswreckensureblastsearchsuitsolarcute |  
+| bip_39_word_no_space_12 | artisthungryverifybonuswreckensureblastsearchsuitsolarcutealarm |  
+| bip_39_word_no_space_2 | artisthungry |  
+| bip_39_word_no_space_3 | artisthungryverify |  
+| bip_39_word_no_space_4 | artisthungryverifybonus |  
+| bip_39_word_no_space_5 | artisthungryverifybonuswreck |  
+| bip_39_word_no_space_6 | artisthungryverifybonuswreckensure |  
+| bip_39_word_no_space_7 | artisthungryverifybonuswreckensureblast |  
+| bip_39_word_no_space_8 | artisthungryverifybonuswreckensureblastsearch |  
+| bip_39_word_no_space_9 | artisthungryverifybonuswreckensureblastsearchsuit |  
 | bip_39_word_space_0 | ['artist', 'hungry', 'verify', 'bonus', 'wreck', 'ensure', 'blast', 'search', 'suit', 'solar', 'cute', 'alarm'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist hungry verify bonus wreck ensure blast search suit solar |  

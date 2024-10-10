@@ -122,6 +122,18 @@ nature
 breeze
 magnet
 more |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendfacultyactionlightbleaknaturebreezemagnetmoreexcess |  
+| bip_39_word_no_space_11 | legendfacultyactionlightbleaknaturebreezemagnetmoreexcesskiss |  
+| bip_39_word_no_space_12 | legendfacultyactionlightbleaknaturebreezemagnetmoreexcesskissalbum |  
+| bip_39_word_no_space_2 | legendfaculty |  
+| bip_39_word_no_space_3 | legendfacultyaction |  
+| bip_39_word_no_space_4 | legendfacultyactionlight |  
+| bip_39_word_no_space_5 | legendfacultyactionlightbleak |  
+| bip_39_word_no_space_6 | legendfacultyactionlightbleaknature |  
+| bip_39_word_no_space_7 | legendfacultyactionlightbleaknaturebreeze |  
+| bip_39_word_no_space_8 | legendfacultyactionlightbleaknaturebreezemagnet |  
+| bip_39_word_no_space_9 | legendfacultyactionlightbleaknaturebreezemagnetmore |  
 | bip_39_word_space_0 | ['legend', 'faculty', 'action', 'light', 'bleak', 'nature', 'breeze', 'magnet', 'more', 'excess', 'kiss', 'album'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend faculty action light bleak nature breeze magnet more excess |  

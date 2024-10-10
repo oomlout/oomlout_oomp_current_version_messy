@@ -122,6 +122,18 @@ nominee
 slim
 buyer
 bronze |  
+| bip_39_word_no_space_1 | razor |  
+| bip_39_word_no_space_10 | razorfacestrugglecornnapkinnomineeslimbuyerbronzebusiness |  
+| bip_39_word_no_space_11 | razorfacestrugglecornnapkinnomineeslimbuyerbronzebusinessdress |  
+| bip_39_word_no_space_12 | razorfacestrugglecornnapkinnomineeslimbuyerbronzebusinessdressamong |  
+| bip_39_word_no_space_2 | razorface |  
+| bip_39_word_no_space_3 | razorfacestruggle |  
+| bip_39_word_no_space_4 | razorfacestrugglecorn |  
+| bip_39_word_no_space_5 | razorfacestrugglecornnapkin |  
+| bip_39_word_no_space_6 | razorfacestrugglecornnapkinnominee |  
+| bip_39_word_no_space_7 | razorfacestrugglecornnapkinnomineeslim |  
+| bip_39_word_no_space_8 | razorfacestrugglecornnapkinnomineeslimbuyer |  
+| bip_39_word_no_space_9 | razorfacestrugglecornnapkinnomineeslimbuyerbronze |  
 | bip_39_word_space_0 | ['razor', 'face', 'struggle', 'corn', 'napkin', 'nominee', 'slim', 'buyer', 'bronze', 'business', 'dress', 'among'] |  
 | bip_39_word_space_1 | razor |  
 | bip_39_word_space_10 | razor face struggle corn napkin nominee slim buyer bronze business |  

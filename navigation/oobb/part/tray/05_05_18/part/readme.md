@@ -122,6 +122,18 @@ begin
 food
 upon
 boil |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familynetworkrevealitemhamsterbeginfooduponboilrain |  
+| bip_39_word_no_space_11 | familynetworkrevealitemhamsterbeginfooduponboilrainflip |  
+| bip_39_word_no_space_12 | familynetworkrevealitemhamsterbeginfooduponboilrainflipattend |  
+| bip_39_word_no_space_2 | familynetwork |  
+| bip_39_word_no_space_3 | familynetworkreveal |  
+| bip_39_word_no_space_4 | familynetworkrevealitem |  
+| bip_39_word_no_space_5 | familynetworkrevealitemhamster |  
+| bip_39_word_no_space_6 | familynetworkrevealitemhamsterbegin |  
+| bip_39_word_no_space_7 | familynetworkrevealitemhamsterbeginfood |  
+| bip_39_word_no_space_8 | familynetworkrevealitemhamsterbeginfoodupon |  
+| bip_39_word_no_space_9 | familynetworkrevealitemhamsterbeginfooduponboil |  
 | bip_39_word_space_0 | ['family', 'network', 'reveal', 'item', 'hamster', 'begin', 'food', 'upon', 'boil', 'rain', 'flip', 'attend'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family network reveal item hamster begin food upon boil rain |  

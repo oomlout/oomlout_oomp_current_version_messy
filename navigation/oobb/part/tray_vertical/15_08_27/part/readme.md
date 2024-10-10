@@ -122,6 +122,18 @@ today
 swamp
 bottom
 report |  
+| bip_39_word_no_space_1 | alcohol |  
+| bip_39_word_no_space_10 | alcoholgentleupperphysicalsadtodayswampbottomreportbrick |  
+| bip_39_word_no_space_11 | alcoholgentleupperphysicalsadtodayswampbottomreportbrickcarbon |  
+| bip_39_word_no_space_12 | alcoholgentleupperphysicalsadtodayswampbottomreportbrickcarbonalien |  
+| bip_39_word_no_space_2 | alcoholgentle |  
+| bip_39_word_no_space_3 | alcoholgentleupper |  
+| bip_39_word_no_space_4 | alcoholgentleupperphysical |  
+| bip_39_word_no_space_5 | alcoholgentleupperphysicalsad |  
+| bip_39_word_no_space_6 | alcoholgentleupperphysicalsadtoday |  
+| bip_39_word_no_space_7 | alcoholgentleupperphysicalsadtodayswamp |  
+| bip_39_word_no_space_8 | alcoholgentleupperphysicalsadtodayswampbottom |  
+| bip_39_word_no_space_9 | alcoholgentleupperphysicalsadtodayswampbottomreport |  
 | bip_39_word_space_0 | ['alcohol', 'gentle', 'upper', 'physical', 'sad', 'today', 'swamp', 'bottom', 'report', 'brick', 'carbon', 'alien'] |  
 | bip_39_word_space_1 | alcohol |  
 | bip_39_word_space_10 | alcohol gentle upper physical sad today swamp bottom report brick |  

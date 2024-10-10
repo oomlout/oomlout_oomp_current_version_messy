@@ -122,6 +122,18 @@ vibrant
 north
 method
 smooth |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peoplecomeknockskinquotevibrantnorthmethodsmoothunlock |  
+| bip_39_word_no_space_11 | peoplecomeknockskinquotevibrantnorthmethodsmoothunlockbulk |  
+| bip_39_word_no_space_12 | peoplecomeknockskinquotevibrantnorthmethodsmoothunlockbulkalmost |  
+| bip_39_word_no_space_2 | peoplecome |  
+| bip_39_word_no_space_3 | peoplecomeknock |  
+| bip_39_word_no_space_4 | peoplecomeknockskin |  
+| bip_39_word_no_space_5 | peoplecomeknockskinquote |  
+| bip_39_word_no_space_6 | peoplecomeknockskinquotevibrant |  
+| bip_39_word_no_space_7 | peoplecomeknockskinquotevibrantnorth |  
+| bip_39_word_no_space_8 | peoplecomeknockskinquotevibrantnorthmethod |  
+| bip_39_word_no_space_9 | peoplecomeknockskinquotevibrantnorthmethodsmooth |  
 | bip_39_word_space_0 | ['people', 'come', 'knock', 'skin', 'quote', 'vibrant', 'north', 'method', 'smooth', 'unlock', 'bulk', 'almost'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people come knock skin quote vibrant north method smooth unlock |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fiscal
   toast
 
   stone'
+bip_39_word_no_space_1: fiscal
+bip_39_word_no_space_10: fiscalfoodlazyrulejustboilheadtoaststonecheap
+bip_39_word_no_space_11: fiscalfoodlazyrulejustboilheadtoaststonecheapspoon
+bip_39_word_no_space_12: fiscalfoodlazyrulejustboilheadtoaststonecheapspoonagree
+bip_39_word_no_space_2: fiscalfood
+bip_39_word_no_space_3: fiscalfoodlazy
+bip_39_word_no_space_4: fiscalfoodlazyrule
+bip_39_word_no_space_5: fiscalfoodlazyrulejust
+bip_39_word_no_space_6: fiscalfoodlazyrulejustboil
+bip_39_word_no_space_7: fiscalfoodlazyrulejustboilhead
+bip_39_word_no_space_8: fiscalfoodlazyrulejustboilheadtoast
+bip_39_word_no_space_9: fiscalfoodlazyrulejustboilheadtoaststone
 bip_39_word_space_0:
 - fiscal
 - food

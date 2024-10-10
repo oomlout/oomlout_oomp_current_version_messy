@@ -122,6 +122,18 @@ core
 tongue
 pledge
 favorite |  
+| bip_39_word_no_space_1 | honey |  
+| bip_39_word_no_space_10 | honeyfenceuncoversaddlesolidcoretonguepledgefavoritebecause |  
+| bip_39_word_no_space_11 | honeyfenceuncoversaddlesolidcoretonguepledgefavoritebecauseclaim |  
+| bip_39_word_no_space_12 | honeyfenceuncoversaddlesolidcoretonguepledgefavoritebecauseclaimattend |  
+| bip_39_word_no_space_2 | honeyfence |  
+| bip_39_word_no_space_3 | honeyfenceuncover |  
+| bip_39_word_no_space_4 | honeyfenceuncoversaddle |  
+| bip_39_word_no_space_5 | honeyfenceuncoversaddlesolid |  
+| bip_39_word_no_space_6 | honeyfenceuncoversaddlesolidcore |  
+| bip_39_word_no_space_7 | honeyfenceuncoversaddlesolidcoretongue |  
+| bip_39_word_no_space_8 | honeyfenceuncoversaddlesolidcoretonguepledge |  
+| bip_39_word_no_space_9 | honeyfenceuncoversaddlesolidcoretonguepledgefavorite |  
 | bip_39_word_space_0 | ['honey', 'fence', 'uncover', 'saddle', 'solid', 'core', 'tongue', 'pledge', 'favorite', 'because', 'claim', 'attend'] |  
 | bip_39_word_space_1 | honey |  
 | bip_39_word_space_10 | honey fence uncover saddle solid core tongue pledge favorite because |  

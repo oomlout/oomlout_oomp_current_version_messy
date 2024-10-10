@@ -122,6 +122,18 @@ ritual
 supreme
 nominee
 judge |  
+| bip_39_word_no_space_1 | muscle |  
+| bip_39_word_no_space_10 | musclestumblepalaceriotwashritualsupremenomineejudgecapital |  
+| bip_39_word_no_space_11 | musclestumblepalaceriotwashritualsupremenomineejudgecapitaldonor |  
+| bip_39_word_no_space_12 | musclestumblepalaceriotwashritualsupremenomineejudgecapitaldonorartwork |  
+| bip_39_word_no_space_2 | musclestumble |  
+| bip_39_word_no_space_3 | musclestumblepalace |  
+| bip_39_word_no_space_4 | musclestumblepalaceriot |  
+| bip_39_word_no_space_5 | musclestumblepalaceriotwash |  
+| bip_39_word_no_space_6 | musclestumblepalaceriotwashritual |  
+| bip_39_word_no_space_7 | musclestumblepalaceriotwashritualsupreme |  
+| bip_39_word_no_space_8 | musclestumblepalaceriotwashritualsupremenominee |  
+| bip_39_word_no_space_9 | musclestumblepalaceriotwashritualsupremenomineejudge |  
 | bip_39_word_space_0 | ['muscle', 'stumble', 'palace', 'riot', 'wash', 'ritual', 'supreme', 'nominee', 'judge', 'capital', 'donor', 'artwork'] |  
 | bip_39_word_space_1 | muscle |  
 | bip_39_word_space_10 | muscle stumble palace riot wash ritual supreme nominee judge capital |  

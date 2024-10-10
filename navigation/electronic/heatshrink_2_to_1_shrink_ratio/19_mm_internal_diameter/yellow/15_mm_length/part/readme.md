@@ -122,6 +122,18 @@ monster
 carry
 rail
 electric |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilgoosespellmelodysugarmonstercarryrailelectricpole |  
+| bip_39_word_no_space_11 | aprilgoosespellmelodysugarmonstercarryrailelectricpolecanvas |  
+| bip_39_word_no_space_12 | aprilgoosespellmelodysugarmonstercarryrailelectricpolecanvasactor |  
+| bip_39_word_no_space_2 | aprilgoose |  
+| bip_39_word_no_space_3 | aprilgoosespell |  
+| bip_39_word_no_space_4 | aprilgoosespellmelody |  
+| bip_39_word_no_space_5 | aprilgoosespellmelodysugar |  
+| bip_39_word_no_space_6 | aprilgoosespellmelodysugarmonster |  
+| bip_39_word_no_space_7 | aprilgoosespellmelodysugarmonstercarry |  
+| bip_39_word_no_space_8 | aprilgoosespellmelodysugarmonstercarryrail |  
+| bip_39_word_no_space_9 | aprilgoosespellmelodysugarmonstercarryrailelectric |  
 | bip_39_word_space_0 | ['april', 'goose', 'spell', 'melody', 'sugar', 'monster', 'carry', 'rail', 'electric', 'pole', 'canvas', 'actor'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april goose spell melody sugar monster carry rail electric pole |  

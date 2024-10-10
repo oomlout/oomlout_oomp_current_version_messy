@@ -122,6 +122,18 @@ truck
 cheese
 stomach
 project |  
+| bip_39_word_no_space_1 | deal |  
+| bip_39_word_no_space_10 | dealblouseorangeprovidetalenttruckcheesestomachprojectmother |  
+| bip_39_word_no_space_11 | dealblouseorangeprovidetalenttruckcheesestomachprojectmothershare |  
+| bip_39_word_no_space_12 | dealblouseorangeprovidetalenttruckcheesestomachprojectmothersharealpha |  
+| bip_39_word_no_space_2 | dealblouse |  
+| bip_39_word_no_space_3 | dealblouseorange |  
+| bip_39_word_no_space_4 | dealblouseorangeprovide |  
+| bip_39_word_no_space_5 | dealblouseorangeprovidetalent |  
+| bip_39_word_no_space_6 | dealblouseorangeprovidetalenttruck |  
+| bip_39_word_no_space_7 | dealblouseorangeprovidetalenttruckcheese |  
+| bip_39_word_no_space_8 | dealblouseorangeprovidetalenttruckcheesestomach |  
+| bip_39_word_no_space_9 | dealblouseorangeprovidetalenttruckcheesestomachproject |  
 | bip_39_word_space_0 | ['deal', 'blouse', 'orange', 'provide', 'talent', 'truck', 'cheese', 'stomach', 'project', 'mother', 'share', 'alpha'] |  
 | bip_39_word_space_1 | deal |  
 | bip_39_word_space_10 | deal blouse orange provide talent truck cheese stomach project mother |  

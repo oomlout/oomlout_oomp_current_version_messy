@@ -122,6 +122,18 @@ van
 orphan
 rail
 old |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblefograthercryclarifyvanorphanrailoldhundred |  
+| bip_39_word_no_space_11 | resemblefograthercryclarifyvanorphanrailoldhundredanalyst |  
+| bip_39_word_no_space_12 | resemblefograthercryclarifyvanorphanrailoldhundredanalystanimal |  
+| bip_39_word_no_space_2 | resemblefog |  
+| bip_39_word_no_space_3 | resemblefograther |  
+| bip_39_word_no_space_4 | resemblefograthercry |  
+| bip_39_word_no_space_5 | resemblefograthercryclarify |  
+| bip_39_word_no_space_6 | resemblefograthercryclarifyvan |  
+| bip_39_word_no_space_7 | resemblefograthercryclarifyvanorphan |  
+| bip_39_word_no_space_8 | resemblefograthercryclarifyvanorphanrail |  
+| bip_39_word_no_space_9 | resemblefograthercryclarifyvanorphanrailold |  
 | bip_39_word_space_0 | ['resemble', 'fog', 'rather', 'cry', 'clarify', 'van', 'orphan', 'rail', 'old', 'hundred', 'analyst', 'animal'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble fog rather cry clarify van orphan rail old hundred |  

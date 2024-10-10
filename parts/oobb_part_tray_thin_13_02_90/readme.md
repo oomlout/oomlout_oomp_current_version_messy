@@ -122,6 +122,18 @@ panel
 message
 depart
 silver |  
+| bip_39_word_no_space_1 | biology |  
+| bip_39_word_no_space_10 | biologyanotherworksaluteeducatepanelmessagedepartsilvernation |  
+| bip_39_word_no_space_11 | biologyanotherworksaluteeducatepanelmessagedepartsilvernationyoung |  
+| bip_39_word_no_space_12 | biologyanotherworksaluteeducatepanelmessagedepartsilvernationyoungadjust |  
+| bip_39_word_no_space_2 | biologyanother |  
+| bip_39_word_no_space_3 | biologyanotherwork |  
+| bip_39_word_no_space_4 | biologyanotherworksalute |  
+| bip_39_word_no_space_5 | biologyanotherworksaluteeducate |  
+| bip_39_word_no_space_6 | biologyanotherworksaluteeducatepanel |  
+| bip_39_word_no_space_7 | biologyanotherworksaluteeducatepanelmessage |  
+| bip_39_word_no_space_8 | biologyanotherworksaluteeducatepanelmessagedepart |  
+| bip_39_word_no_space_9 | biologyanotherworksaluteeducatepanelmessagedepartsilver |  
 | bip_39_word_space_0 | ['biology', 'another', 'work', 'salute', 'educate', 'panel', 'message', 'depart', 'silver', 'nation', 'young', 'adjust'] |  
 | bip_39_word_space_1 | biology |  
 | bip_39_word_space_10 | biology another work salute educate panel message depart silver nation |  

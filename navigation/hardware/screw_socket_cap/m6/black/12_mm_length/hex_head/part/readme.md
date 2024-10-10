@@ -122,6 +122,18 @@ million
 cushion
 buddy
 cricket |  
+| bip_39_word_no_space_1 | blind |  
+| bip_39_word_no_space_10 | blindarrivebrieffishcrewmillioncushionbuddycricketmaximum |  
+| bip_39_word_no_space_11 | blindarrivebrieffishcrewmillioncushionbuddycricketmaximumozone |  
+| bip_39_word_no_space_12 | blindarrivebrieffishcrewmillioncushionbuddycricketmaximumozoneaverage |  
+| bip_39_word_no_space_2 | blindarrive |  
+| bip_39_word_no_space_3 | blindarrivebrief |  
+| bip_39_word_no_space_4 | blindarrivebrieffish |  
+| bip_39_word_no_space_5 | blindarrivebrieffishcrew |  
+| bip_39_word_no_space_6 | blindarrivebrieffishcrewmillion |  
+| bip_39_word_no_space_7 | blindarrivebrieffishcrewmillioncushion |  
+| bip_39_word_no_space_8 | blindarrivebrieffishcrewmillioncushionbuddy |  
+| bip_39_word_no_space_9 | blindarrivebrieffishcrewmillioncushionbuddycricket |  
 | bip_39_word_space_0 | ['blind', 'arrive', 'brief', 'fish', 'crew', 'million', 'cushion', 'buddy', 'cricket', 'maximum', 'ozone', 'average'] |  
 | bip_39_word_space_1 | blind |  
 | bip_39_word_space_10 | blind arrive brief fish crew million cushion buddy cricket maximum |  

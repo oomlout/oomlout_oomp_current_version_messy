@@ -122,6 +122,18 @@ noble
 knife
 rent
 cotton |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bullethedgehogdescribemaidadmitnoblekniferentcottonfade |  
+| bip_39_word_no_space_11 | bullethedgehogdescribemaidadmitnoblekniferentcottonfadefilter |  
+| bip_39_word_no_space_12 | bullethedgehogdescribemaidadmitnoblekniferentcottonfadefilterattitude |  
+| bip_39_word_no_space_2 | bullethedgehog |  
+| bip_39_word_no_space_3 | bullethedgehogdescribe |  
+| bip_39_word_no_space_4 | bullethedgehogdescribemaid |  
+| bip_39_word_no_space_5 | bullethedgehogdescribemaidadmit |  
+| bip_39_word_no_space_6 | bullethedgehogdescribemaidadmitnoble |  
+| bip_39_word_no_space_7 | bullethedgehogdescribemaidadmitnobleknife |  
+| bip_39_word_no_space_8 | bullethedgehogdescribemaidadmitnoblekniferent |  
+| bip_39_word_no_space_9 | bullethedgehogdescribemaidadmitnoblekniferentcotton |  
 | bip_39_word_space_0 | ['bullet', 'hedgehog', 'describe', 'maid', 'admit', 'noble', 'knife', 'rent', 'cotton', 'fade', 'filter', 'attitude'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet hedgehog describe maid admit noble knife rent cotton fade |  

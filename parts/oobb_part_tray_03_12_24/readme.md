@@ -122,6 +122,18 @@ royal
 category
 patrol
 drop |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peoplefrequentfragilecontrolquestionroyalcategorypatroldropmilk |  
+| bip_39_word_no_space_11 | peoplefrequentfragilecontrolquestionroyalcategorypatroldropmilkoctober |  
+| bip_39_word_no_space_12 | peoplefrequentfragilecontrolquestionroyalcategorypatroldropmilkoctoberassist |  
+| bip_39_word_no_space_2 | peoplefrequent |  
+| bip_39_word_no_space_3 | peoplefrequentfragile |  
+| bip_39_word_no_space_4 | peoplefrequentfragilecontrol |  
+| bip_39_word_no_space_5 | peoplefrequentfragilecontrolquestion |  
+| bip_39_word_no_space_6 | peoplefrequentfragilecontrolquestionroyal |  
+| bip_39_word_no_space_7 | peoplefrequentfragilecontrolquestionroyalcategory |  
+| bip_39_word_no_space_8 | peoplefrequentfragilecontrolquestionroyalcategorypatrol |  
+| bip_39_word_no_space_9 | peoplefrequentfragilecontrolquestionroyalcategorypatroldrop |  
 | bip_39_word_space_0 | ['people', 'frequent', 'fragile', 'control', 'question', 'royal', 'category', 'patrol', 'drop', 'milk', 'october', 'assist'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people frequent fragile control question royal category patrol drop milk |  

@@ -122,6 +122,18 @@ again
 cash
 around
 village |  
+| bip_39_word_no_space_1 | october |  
+| bip_39_word_no_space_10 | octobertogetherfringemusttransferagaincasharoundvillagecivil |  
+| bip_39_word_no_space_11 | octobertogetherfringemusttransferagaincasharoundvillagecivilonline |  
+| bip_39_word_no_space_12 | octobertogetherfringemusttransferagaincasharoundvillagecivilonlineabsent |  
+| bip_39_word_no_space_2 | octobertogether |  
+| bip_39_word_no_space_3 | octobertogetherfringe |  
+| bip_39_word_no_space_4 | octobertogetherfringemust |  
+| bip_39_word_no_space_5 | octobertogetherfringemusttransfer |  
+| bip_39_word_no_space_6 | octobertogetherfringemusttransferagain |  
+| bip_39_word_no_space_7 | octobertogetherfringemusttransferagaincash |  
+| bip_39_word_no_space_8 | octobertogetherfringemusttransferagaincasharound |  
+| bip_39_word_no_space_9 | octobertogetherfringemusttransferagaincasharoundvillage |  
 | bip_39_word_space_0 | ['october', 'together', 'fringe', 'must', 'transfer', 'again', 'cash', 'around', 'village', 'civil', 'online', 'absent'] |  
 | bip_39_word_space_1 | october |  
 | bip_39_word_space_10 | october together fringe must transfer again cash around village civil |  

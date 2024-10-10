@@ -122,6 +122,18 @@ gorilla
 click
 pony
 strong |  
+| bip_39_word_no_space_1 | donkey |  
+| bip_39_word_no_space_10 | donkeyfinegaspcrawlchimneygorillaclickponystrongawesome |  
+| bip_39_word_no_space_11 | donkeyfinegaspcrawlchimneygorillaclickponystrongawesomenose |  
+| bip_39_word_no_space_12 | donkeyfinegaspcrawlchimneygorillaclickponystrongawesomenoseaudit |  
+| bip_39_word_no_space_2 | donkeyfine |  
+| bip_39_word_no_space_3 | donkeyfinegasp |  
+| bip_39_word_no_space_4 | donkeyfinegaspcrawl |  
+| bip_39_word_no_space_5 | donkeyfinegaspcrawlchimney |  
+| bip_39_word_no_space_6 | donkeyfinegaspcrawlchimneygorilla |  
+| bip_39_word_no_space_7 | donkeyfinegaspcrawlchimneygorillaclick |  
+| bip_39_word_no_space_8 | donkeyfinegaspcrawlchimneygorillaclickpony |  
+| bip_39_word_no_space_9 | donkeyfinegaspcrawlchimneygorillaclickponystrong |  
 | bip_39_word_space_0 | ['donkey', 'fine', 'gasp', 'crawl', 'chimney', 'gorilla', 'click', 'pony', 'strong', 'awesome', 'nose', 'audit'] |  
 | bip_39_word_space_1 | donkey |  
 | bip_39_word_space_10 | donkey fine gasp crawl chimney gorilla click pony strong awesome |  

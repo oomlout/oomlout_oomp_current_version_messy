@@ -122,6 +122,18 @@ web
 marble
 claw
 cover |  
+| bip_39_word_no_space_1 | wise |  
+| bip_39_word_no_space_10 | wisecoolsettlefacenowwebmarbleclawcoverheart |  
+| bip_39_word_no_space_11 | wisecoolsettlefacenowwebmarbleclawcoverheartsalute |  
+| bip_39_word_no_space_12 | wisecoolsettlefacenowwebmarbleclawcoverheartsalutearctic |  
+| bip_39_word_no_space_2 | wisecool |  
+| bip_39_word_no_space_3 | wisecoolsettle |  
+| bip_39_word_no_space_4 | wisecoolsettleface |  
+| bip_39_word_no_space_5 | wisecoolsettlefacenow |  
+| bip_39_word_no_space_6 | wisecoolsettlefacenowweb |  
+| bip_39_word_no_space_7 | wisecoolsettlefacenowwebmarble |  
+| bip_39_word_no_space_8 | wisecoolsettlefacenowwebmarbleclaw |  
+| bip_39_word_no_space_9 | wisecoolsettlefacenowwebmarbleclawcover |  
 | bip_39_word_space_0 | ['wise', 'cool', 'settle', 'face', 'now', 'web', 'marble', 'claw', 'cover', 'heart', 'salute', 'arctic'] |  
 | bip_39_word_space_1 | wise |  
 | bip_39_word_space_10 | wise cool settle face now web marble claw cover heart |  

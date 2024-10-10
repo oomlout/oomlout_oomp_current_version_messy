@@ -122,6 +122,18 @@ bench
 shell
 gasp
 crawl |  
+| bip_39_word_no_space_1 | off |  
+| bip_39_word_no_space_10 | offsunsecretproofproudbenchshellgaspcrawljacket |  
+| bip_39_word_no_space_11 | offsunsecretproofproudbenchshellgaspcrawljacketright |  
+| bip_39_word_no_space_12 | offsunsecretproofproudbenchshellgaspcrawljacketrightarmy |  
+| bip_39_word_no_space_2 | offsun |  
+| bip_39_word_no_space_3 | offsunsecret |  
+| bip_39_word_no_space_4 | offsunsecretproof |  
+| bip_39_word_no_space_5 | offsunsecretproofproud |  
+| bip_39_word_no_space_6 | offsunsecretproofproudbench |  
+| bip_39_word_no_space_7 | offsunsecretproofproudbenchshell |  
+| bip_39_word_no_space_8 | offsunsecretproofproudbenchshellgasp |  
+| bip_39_word_no_space_9 | offsunsecretproofproudbenchshellgaspcrawl |  
 | bip_39_word_space_0 | ['off', 'sun', 'secret', 'proof', 'proud', 'bench', 'shell', 'gasp', 'crawl', 'jacket', 'right', 'army'] |  
 | bip_39_word_space_1 | off |  
 | bip_39_word_space_10 | off sun secret proof proud bench shell gasp crawl jacket |  

@@ -122,6 +122,18 @@ giant
 age
 brick
 addict |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatgarageamazinggreatexistgiantagebrickaddictfish |  
+| bip_39_word_no_space_11 | whatgarageamazinggreatexistgiantagebrickaddictfishfuture |  
+| bip_39_word_no_space_12 | whatgarageamazinggreatexistgiantagebrickaddictfishfuturealso |  
+| bip_39_word_no_space_2 | whatgarage |  
+| bip_39_word_no_space_3 | whatgarageamazing |  
+| bip_39_word_no_space_4 | whatgarageamazinggreat |  
+| bip_39_word_no_space_5 | whatgarageamazinggreatexist |  
+| bip_39_word_no_space_6 | whatgarageamazinggreatexistgiant |  
+| bip_39_word_no_space_7 | whatgarageamazinggreatexistgiantage |  
+| bip_39_word_no_space_8 | whatgarageamazinggreatexistgiantagebrick |  
+| bip_39_word_no_space_9 | whatgarageamazinggreatexistgiantagebrickaddict |  
 | bip_39_word_space_0 | ['what', 'garage', 'amazing', 'great', 'exist', 'giant', 'age', 'brick', 'addict', 'fish', 'future', 'also'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what garage amazing great exist giant age brick addict fish |  

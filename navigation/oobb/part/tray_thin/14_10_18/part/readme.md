@@ -122,6 +122,18 @@ daughter
 oak
 crack
 become |  
+| bip_39_word_no_space_1 | limb |  
+| bip_39_word_no_space_10 | limbportioncovervehiclemanualdaughteroakcrackbecomehen |  
+| bip_39_word_no_space_11 | limbportioncovervehiclemanualdaughteroakcrackbecomehencoffee |  
+| bip_39_word_no_space_12 | limbportioncovervehiclemanualdaughteroakcrackbecomehencoffeeapprove |  
+| bip_39_word_no_space_2 | limbportion |  
+| bip_39_word_no_space_3 | limbportioncover |  
+| bip_39_word_no_space_4 | limbportioncovervehicle |  
+| bip_39_word_no_space_5 | limbportioncovervehiclemanual |  
+| bip_39_word_no_space_6 | limbportioncovervehiclemanualdaughter |  
+| bip_39_word_no_space_7 | limbportioncovervehiclemanualdaughteroak |  
+| bip_39_word_no_space_8 | limbportioncovervehiclemanualdaughteroakcrack |  
+| bip_39_word_no_space_9 | limbportioncovervehiclemanualdaughteroakcrackbecome |  
 | bip_39_word_space_0 | ['limb', 'portion', 'cover', 'vehicle', 'manual', 'daughter', 'oak', 'crack', 'become', 'hen', 'coffee', 'approve'] |  
 | bip_39_word_space_1 | limb |  
 | bip_39_word_space_10 | limb portion cover vehicle manual daughter oak crack become hen |  

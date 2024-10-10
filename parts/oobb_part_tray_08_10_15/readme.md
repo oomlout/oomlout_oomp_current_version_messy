@@ -122,6 +122,18 @@ soap
 aerobic
 system
 imitate |  
+| bip_39_word_no_space_1 | orchard |  
+| bip_39_word_no_space_10 | orchardfaintcarryshufflevendorsoapaerobicsystemimitatehead |  
+| bip_39_word_no_space_11 | orchardfaintcarryshufflevendorsoapaerobicsystemimitateheadspeak |  
+| bip_39_word_no_space_12 | orchardfaintcarryshufflevendorsoapaerobicsystemimitateheadspeakactress |  
+| bip_39_word_no_space_2 | orchardfaint |  
+| bip_39_word_no_space_3 | orchardfaintcarry |  
+| bip_39_word_no_space_4 | orchardfaintcarryshuffle |  
+| bip_39_word_no_space_5 | orchardfaintcarryshufflevendor |  
+| bip_39_word_no_space_6 | orchardfaintcarryshufflevendorsoap |  
+| bip_39_word_no_space_7 | orchardfaintcarryshufflevendorsoapaerobic |  
+| bip_39_word_no_space_8 | orchardfaintcarryshufflevendorsoapaerobicsystem |  
+| bip_39_word_no_space_9 | orchardfaintcarryshufflevendorsoapaerobicsystemimitate |  
 | bip_39_word_space_0 | ['orchard', 'faint', 'carry', 'shuffle', 'vendor', 'soap', 'aerobic', 'system', 'imitate', 'head', 'speak', 'actress'] |  
 | bip_39_word_space_1 | orchard |  
 | bip_39_word_space_10 | orchard faint carry shuffle vendor soap aerobic system imitate head |  

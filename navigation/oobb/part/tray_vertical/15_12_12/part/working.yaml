@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pear
   olympic
 
   grit'
+bip_39_word_no_space_1: pear
+bip_39_word_no_space_10: pearinhalecopyconductwinterhomequarterolympicgritindex
+bip_39_word_no_space_11: pearinhalecopyconductwinterhomequarterolympicgritindexthree
+bip_39_word_no_space_12: pearinhalecopyconductwinterhomequarterolympicgritindexthreeapprove
+bip_39_word_no_space_2: pearinhale
+bip_39_word_no_space_3: pearinhalecopy
+bip_39_word_no_space_4: pearinhalecopyconduct
+bip_39_word_no_space_5: pearinhalecopyconductwinter
+bip_39_word_no_space_6: pearinhalecopyconductwinterhome
+bip_39_word_no_space_7: pearinhalecopyconductwinterhomequarter
+bip_39_word_no_space_8: pearinhalecopyconductwinterhomequarterolympic
+bip_39_word_no_space_9: pearinhalecopyconductwinterhomequarterolympicgrit
 bip_39_word_space_0:
 - pear
 - inhale

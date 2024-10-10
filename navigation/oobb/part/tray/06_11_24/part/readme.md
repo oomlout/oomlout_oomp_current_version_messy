@@ -122,6 +122,18 @@ siege
 meat
 scan
 sail |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misspushaffaircertainsolutionsiegemeatscansailtilt |  
+| bip_39_word_no_space_11 | misspushaffaircertainsolutionsiegemeatscansailtiltkitchen |  
+| bip_39_word_no_space_12 | misspushaffaircertainsolutionsiegemeatscansailtiltkitchenahead |  
+| bip_39_word_no_space_2 | misspush |  
+| bip_39_word_no_space_3 | misspushaffair |  
+| bip_39_word_no_space_4 | misspushaffaircertain |  
+| bip_39_word_no_space_5 | misspushaffaircertainsolution |  
+| bip_39_word_no_space_6 | misspushaffaircertainsolutionsiege |  
+| bip_39_word_no_space_7 | misspushaffaircertainsolutionsiegemeat |  
+| bip_39_word_no_space_8 | misspushaffaircertainsolutionsiegemeatscan |  
+| bip_39_word_no_space_9 | misspushaffaircertainsolutionsiegemeatscansail |  
 | bip_39_word_space_0 | ['miss', 'push', 'affair', 'certain', 'solution', 'siege', 'meat', 'scan', 'sail', 'tilt', 'kitchen', 'ahead'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss push affair certain solution siege meat scan sail tilt |  

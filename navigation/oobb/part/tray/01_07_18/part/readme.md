@@ -122,6 +122,18 @@ devote
 holiday
 seminar
 eyebrow |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holeunusualrabbitvividhubdevoteholidayseminareyebrowrelax |  
+| bip_39_word_no_space_11 | holeunusualrabbitvividhubdevoteholidayseminareyebrowrelaxtragic |  
+| bip_39_word_no_space_12 | holeunusualrabbitvividhubdevoteholidayseminareyebrowrelaxtragicasthma |  
+| bip_39_word_no_space_2 | holeunusual |  
+| bip_39_word_no_space_3 | holeunusualrabbit |  
+| bip_39_word_no_space_4 | holeunusualrabbitvivid |  
+| bip_39_word_no_space_5 | holeunusualrabbitvividhub |  
+| bip_39_word_no_space_6 | holeunusualrabbitvividhubdevote |  
+| bip_39_word_no_space_7 | holeunusualrabbitvividhubdevoteholiday |  
+| bip_39_word_no_space_8 | holeunusualrabbitvividhubdevoteholidayseminar |  
+| bip_39_word_no_space_9 | holeunusualrabbitvividhubdevoteholidayseminareyebrow |  
 | bip_39_word_space_0 | ['hole', 'unusual', 'rabbit', 'vivid', 'hub', 'devote', 'holiday', 'seminar', 'eyebrow', 'relax', 'tragic', 'asthma'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole unusual rabbit vivid hub devote holiday seminar eyebrow relax |  

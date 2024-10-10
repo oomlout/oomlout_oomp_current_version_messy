@@ -122,6 +122,18 @@ divert
 uncle
 sunset
 struggle |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposeyardbeautyindoorcookdivertunclesunsetstrugglefinger |  
+| bip_39_word_no_space_11 | imposeyardbeautyindoorcookdivertunclesunsetstrugglefingerfruit |  
+| bip_39_word_no_space_12 | imposeyardbeautyindoorcookdivertunclesunsetstrugglefingerfruitaction |  
+| bip_39_word_no_space_2 | imposeyard |  
+| bip_39_word_no_space_3 | imposeyardbeauty |  
+| bip_39_word_no_space_4 | imposeyardbeautyindoor |  
+| bip_39_word_no_space_5 | imposeyardbeautyindoorcook |  
+| bip_39_word_no_space_6 | imposeyardbeautyindoorcookdivert |  
+| bip_39_word_no_space_7 | imposeyardbeautyindoorcookdivertuncle |  
+| bip_39_word_no_space_8 | imposeyardbeautyindoorcookdivertunclesunset |  
+| bip_39_word_no_space_9 | imposeyardbeautyindoorcookdivertunclesunsetstruggle |  
 | bip_39_word_space_0 | ['impose', 'yard', 'beauty', 'indoor', 'cook', 'divert', 'uncle', 'sunset', 'struggle', 'finger', 'fruit', 'action'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose yard beauty indoor cook divert uncle sunset struggle finger |  

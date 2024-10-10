@@ -122,6 +122,18 @@ luggage
 flower
 bargain
 method |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramreopenpitchenjoyquoteluggageflowerbargainmethodelephant |  
+| bip_39_word_no_space_11 | cramreopenpitchenjoyquoteluggageflowerbargainmethodelephantbundle |  
+| bip_39_word_no_space_12 | cramreopenpitchenjoyquoteluggageflowerbargainmethodelephantbundleact |  
+| bip_39_word_no_space_2 | cramreopen |  
+| bip_39_word_no_space_3 | cramreopenpitch |  
+| bip_39_word_no_space_4 | cramreopenpitchenjoy |  
+| bip_39_word_no_space_5 | cramreopenpitchenjoyquote |  
+| bip_39_word_no_space_6 | cramreopenpitchenjoyquoteluggage |  
+| bip_39_word_no_space_7 | cramreopenpitchenjoyquoteluggageflower |  
+| bip_39_word_no_space_8 | cramreopenpitchenjoyquoteluggageflowerbargain |  
+| bip_39_word_no_space_9 | cramreopenpitchenjoyquoteluggageflowerbargainmethod |  
 | bip_39_word_space_0 | ['cram', 'reopen', 'pitch', 'enjoy', 'quote', 'luggage', 'flower', 'bargain', 'method', 'elephant', 'bundle', 'act'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram reopen pitch enjoy quote luggage flower bargain method elephant |  

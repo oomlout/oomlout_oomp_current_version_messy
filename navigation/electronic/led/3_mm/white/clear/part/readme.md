@@ -122,6 +122,18 @@ buddy
 question
 crawl
 clean |  
+| bip_39_word_no_space_1 | oven |  
+| bip_39_word_no_space_10 | ovenhunthellofollowstembuddyquestioncrawlcleanstay |  
+| bip_39_word_no_space_11 | ovenhunthellofollowstembuddyquestioncrawlcleanstayquantum |  
+| bip_39_word_no_space_12 | ovenhunthellofollowstembuddyquestioncrawlcleanstayquantumamateur |  
+| bip_39_word_no_space_2 | ovenhunt |  
+| bip_39_word_no_space_3 | ovenhunthello |  
+| bip_39_word_no_space_4 | ovenhunthellofollow |  
+| bip_39_word_no_space_5 | ovenhunthellofollowstem |  
+| bip_39_word_no_space_6 | ovenhunthellofollowstembuddy |  
+| bip_39_word_no_space_7 | ovenhunthellofollowstembuddyquestion |  
+| bip_39_word_no_space_8 | ovenhunthellofollowstembuddyquestioncrawl |  
+| bip_39_word_no_space_9 | ovenhunthellofollowstembuddyquestioncrawlclean |  
 | bip_39_word_space_0 | ['oven', 'hunt', 'hello', 'follow', 'stem', 'buddy', 'question', 'crawl', 'clean', 'stay', 'quantum', 'amateur'] |  
 | bip_39_word_space_1 | oven |  
 | bip_39_word_space_10 | oven hunt hello follow stem buddy question crawl clean stay |  

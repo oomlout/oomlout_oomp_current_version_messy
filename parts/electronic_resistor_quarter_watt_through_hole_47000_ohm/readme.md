@@ -122,6 +122,18 @@ venue
 gadget
 carry
 charge |  
+| bip_39_word_no_space_1 | bulk |  
+| bip_39_word_no_space_10 | bulkbleakcrumblequitassaultvenuegadgetcarrychargetag |  
+| bip_39_word_no_space_11 | bulkbleakcrumblequitassaultvenuegadgetcarrychargetagprison |  
+| bip_39_word_no_space_12 | bulkbleakcrumblequitassaultvenuegadgetcarrychargetagprisonauto |  
+| bip_39_word_no_space_2 | bulkbleak |  
+| bip_39_word_no_space_3 | bulkbleakcrumble |  
+| bip_39_word_no_space_4 | bulkbleakcrumblequit |  
+| bip_39_word_no_space_5 | bulkbleakcrumblequitassault |  
+| bip_39_word_no_space_6 | bulkbleakcrumblequitassaultvenue |  
+| bip_39_word_no_space_7 | bulkbleakcrumblequitassaultvenuegadget |  
+| bip_39_word_no_space_8 | bulkbleakcrumblequitassaultvenuegadgetcarry |  
+| bip_39_word_no_space_9 | bulkbleakcrumblequitassaultvenuegadgetcarrycharge |  
 | bip_39_word_space_0 | ['bulk', 'bleak', 'crumble', 'quit', 'assault', 'venue', 'gadget', 'carry', 'charge', 'tag', 'prison', 'auto'] |  
 | bip_39_word_space_1 | bulk |  
 | bip_39_word_space_10 | bulk bleak crumble quit assault venue gadget carry charge tag |  

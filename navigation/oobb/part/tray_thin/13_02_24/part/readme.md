@@ -122,6 +122,18 @@ female
 urge
 best
 pull |  
+| bip_39_word_no_space_1 | addict |  
+| bip_39_word_no_space_10 | addicterosionbusinesskickremindfemaleurgebestpullangle |  
+| bip_39_word_no_space_11 | addicterosionbusinesskickremindfemaleurgebestpullangledinner |  
+| bip_39_word_no_space_12 | addicterosionbusinesskickremindfemaleurgebestpullangledinnerassume |  
+| bip_39_word_no_space_2 | addicterosion |  
+| bip_39_word_no_space_3 | addicterosionbusiness |  
+| bip_39_word_no_space_4 | addicterosionbusinesskick |  
+| bip_39_word_no_space_5 | addicterosionbusinesskickremind |  
+| bip_39_word_no_space_6 | addicterosionbusinesskickremindfemale |  
+| bip_39_word_no_space_7 | addicterosionbusinesskickremindfemaleurge |  
+| bip_39_word_no_space_8 | addicterosionbusinesskickremindfemaleurgebest |  
+| bip_39_word_no_space_9 | addicterosionbusinesskickremindfemaleurgebestpull |  
 | bip_39_word_space_0 | ['addict', 'erosion', 'business', 'kick', 'remind', 'female', 'urge', 'best', 'pull', 'angle', 'dinner', 'assume'] |  
 | bip_39_word_space_1 | addict |  
 | bip_39_word_space_10 | addict erosion business kick remind female urge best pull angle |  

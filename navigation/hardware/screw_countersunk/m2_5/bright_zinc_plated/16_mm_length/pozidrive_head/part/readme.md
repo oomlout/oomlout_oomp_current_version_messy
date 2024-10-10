@@ -122,6 +122,18 @@ genius
 execute
 need
 lamp |  
+| bip_39_word_no_space_1 | sun |  
+| bip_39_word_no_space_10 | sunvolumefeedscanresemblegeniusexecuteneedlampketchup |  
+| bip_39_word_no_space_11 | sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairs |  
+| bip_39_word_no_space_12 | sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairsarrange |  
+| bip_39_word_no_space_2 | sunvolume |  
+| bip_39_word_no_space_3 | sunvolumefeed |  
+| bip_39_word_no_space_4 | sunvolumefeedscan |  
+| bip_39_word_no_space_5 | sunvolumefeedscanresemble |  
+| bip_39_word_no_space_6 | sunvolumefeedscanresemblegenius |  
+| bip_39_word_no_space_7 | sunvolumefeedscanresemblegeniusexecute |  
+| bip_39_word_no_space_8 | sunvolumefeedscanresemblegeniusexecuteneed |  
+| bip_39_word_no_space_9 | sunvolumefeedscanresemblegeniusexecuteneedlamp |  
 | bip_39_word_space_0 | ['sun', 'volume', 'feed', 'scan', 'resemble', 'genius', 'execute', 'need', 'lamp', 'ketchup', 'stairs', 'arrange'] |  
 | bip_39_word_space_1 | sun |  
 | bip_39_word_space_10 | sun volume feed scan resemble genius execute need lamp ketchup |  

@@ -122,6 +122,18 @@ walk
 pipe
 six
 leave |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bulletprimarysqueezeoiljeanswalkpipesixleaveagree |  
+| bip_39_word_no_space_11 | bulletprimarysqueezeoiljeanswalkpipesixleaveagreewhale |  
+| bip_39_word_no_space_12 | bulletprimarysqueezeoiljeanswalkpipesixleaveagreewhaleavocado |  
+| bip_39_word_no_space_2 | bulletprimary |  
+| bip_39_word_no_space_3 | bulletprimarysqueeze |  
+| bip_39_word_no_space_4 | bulletprimarysqueezeoil |  
+| bip_39_word_no_space_5 | bulletprimarysqueezeoiljeans |  
+| bip_39_word_no_space_6 | bulletprimarysqueezeoiljeanswalk |  
+| bip_39_word_no_space_7 | bulletprimarysqueezeoiljeanswalkpipe |  
+| bip_39_word_no_space_8 | bulletprimarysqueezeoiljeanswalkpipesix |  
+| bip_39_word_no_space_9 | bulletprimarysqueezeoiljeanswalkpipesixleave |  
 | bip_39_word_space_0 | ['bullet', 'primary', 'squeeze', 'oil', 'jeans', 'walk', 'pipe', 'six', 'leave', 'agree', 'whale', 'avocado'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet primary squeeze oil jeans walk pipe six leave agree |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spray
   maid
 
   sponsor'
+bip_39_word_no_space_1: spray
+bip_39_word_no_space_10: sprayjoyponylicenserememberoutersolidmaidsponsorexpect
+bip_39_word_no_space_11: sprayjoyponylicenserememberoutersolidmaidsponsorexpectcabbage
+bip_39_word_no_space_12: sprayjoyponylicenserememberoutersolidmaidsponsorexpectcabbagearound
+bip_39_word_no_space_2: sprayjoy
+bip_39_word_no_space_3: sprayjoypony
+bip_39_word_no_space_4: sprayjoyponylicense
+bip_39_word_no_space_5: sprayjoyponylicenseremember
+bip_39_word_no_space_6: sprayjoyponylicenserememberouter
+bip_39_word_no_space_7: sprayjoyponylicenserememberoutersolid
+bip_39_word_no_space_8: sprayjoyponylicenserememberoutersolidmaid
+bip_39_word_no_space_9: sprayjoyponylicenserememberoutersolidmaidsponsor
 bip_39_word_space_0:
 - spray
 - joy

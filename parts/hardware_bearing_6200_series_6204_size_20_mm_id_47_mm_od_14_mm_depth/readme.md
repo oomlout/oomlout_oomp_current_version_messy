@@ -122,6 +122,18 @@ chimney
 garden
 payment
 swap |  
+| bip_39_word_no_space_1 | metal |  
+| bip_39_word_no_space_10 | metalreopenpeanutsailtragicchimneygardenpaymentswapmarble |  
+| bip_39_word_no_space_11 | metalreopenpeanutsailtragicchimneygardenpaymentswapmarblegarbage |  
+| bip_39_word_no_space_12 | metalreopenpeanutsailtragicchimneygardenpaymentswapmarblegarbagealso |  
+| bip_39_word_no_space_2 | metalreopen |  
+| bip_39_word_no_space_3 | metalreopenpeanut |  
+| bip_39_word_no_space_4 | metalreopenpeanutsail |  
+| bip_39_word_no_space_5 | metalreopenpeanutsailtragic |  
+| bip_39_word_no_space_6 | metalreopenpeanutsailtragicchimney |  
+| bip_39_word_no_space_7 | metalreopenpeanutsailtragicchimneygarden |  
+| bip_39_word_no_space_8 | metalreopenpeanutsailtragicchimneygardenpayment |  
+| bip_39_word_no_space_9 | metalreopenpeanutsailtragicchimneygardenpaymentswap |  
 | bip_39_word_space_0 | ['metal', 'reopen', 'peanut', 'sail', 'tragic', 'chimney', 'garden', 'payment', 'swap', 'marble', 'garbage', 'also'] |  
 | bip_39_word_space_1 | metal |  
 | bip_39_word_space_10 | metal reopen peanut sail tragic chimney garden payment swap marble |  

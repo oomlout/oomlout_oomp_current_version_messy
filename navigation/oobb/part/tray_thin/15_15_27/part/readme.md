@@ -122,6 +122,18 @@ poem
 cost
 cloth
 cave |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omituselessspellrookieholidaypoemcostclothcavethumb |  
+| bip_39_word_no_space_11 | omituselessspellrookieholidaypoemcostclothcavethumbvanish |  
+| bip_39_word_no_space_12 | omituselessspellrookieholidaypoemcostclothcavethumbvanishalbum |  
+| bip_39_word_no_space_2 | omituseless |  
+| bip_39_word_no_space_3 | omituselessspell |  
+| bip_39_word_no_space_4 | omituselessspellrookie |  
+| bip_39_word_no_space_5 | omituselessspellrookieholiday |  
+| bip_39_word_no_space_6 | omituselessspellrookieholidaypoem |  
+| bip_39_word_no_space_7 | omituselessspellrookieholidaypoemcost |  
+| bip_39_word_no_space_8 | omituselessspellrookieholidaypoemcostcloth |  
+| bip_39_word_no_space_9 | omituselessspellrookieholidaypoemcostclothcave |  
 | bip_39_word_space_0 | ['omit', 'useless', 'spell', 'rookie', 'holiday', 'poem', 'cost', 'cloth', 'cave', 'thumb', 'vanish', 'album'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit useless spell rookie holiday poem cost cloth cave thumb |  

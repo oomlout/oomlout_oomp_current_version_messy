@@ -122,6 +122,18 @@ direct
 trust
 sock
 execute |  
+| bip_39_word_no_space_1 | east |  
+| bip_39_word_no_space_10 | eastomitcolumnlunchfiscaldirecttrustsockexecutemanage |  
+| bip_39_word_no_space_11 | eastomitcolumnlunchfiscaldirecttrustsockexecutemanageadd |  
+| bip_39_word_no_space_12 | eastomitcolumnlunchfiscaldirecttrustsockexecutemanageaddalone |  
+| bip_39_word_no_space_2 | eastomit |  
+| bip_39_word_no_space_3 | eastomitcolumn |  
+| bip_39_word_no_space_4 | eastomitcolumnlunch |  
+| bip_39_word_no_space_5 | eastomitcolumnlunchfiscal |  
+| bip_39_word_no_space_6 | eastomitcolumnlunchfiscaldirect |  
+| bip_39_word_no_space_7 | eastomitcolumnlunchfiscaldirecttrust |  
+| bip_39_word_no_space_8 | eastomitcolumnlunchfiscaldirecttrustsock |  
+| bip_39_word_no_space_9 | eastomitcolumnlunchfiscaldirecttrustsockexecute |  
 | bip_39_word_space_0 | ['east', 'omit', 'column', 'lunch', 'fiscal', 'direct', 'trust', 'sock', 'execute', 'manage', 'add', 'alone'] |  
 | bip_39_word_space_1 | east |  
 | bip_39_word_space_10 | east omit column lunch fiscal direct trust sock execute manage |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'always
   urge
 
   silver'
+bip_39_word_no_space_1: always
+bip_39_word_no_space_10: alwaystwisturgereopencashquicksecondurgesilvercushion
+bip_39_word_no_space_11: alwaystwisturgereopencashquicksecondurgesilvercushionpizza
+bip_39_word_no_space_12: alwaystwisturgereopencashquicksecondurgesilvercushionpizzaadd
+bip_39_word_no_space_2: alwaystwist
+bip_39_word_no_space_3: alwaystwisturge
+bip_39_word_no_space_4: alwaystwisturgereopen
+bip_39_word_no_space_5: alwaystwisturgereopencash
+bip_39_word_no_space_6: alwaystwisturgereopencashquick
+bip_39_word_no_space_7: alwaystwisturgereopencashquicksecond
+bip_39_word_no_space_8: alwaystwisturgereopencashquicksecondurge
+bip_39_word_no_space_9: alwaystwisturgereopencashquicksecondurgesilver
 bip_39_word_space_0:
 - always
 - twist

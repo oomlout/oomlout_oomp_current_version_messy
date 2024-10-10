@@ -122,6 +122,18 @@ acid
 logic
 attitude
 finger |  
+| bip_39_word_no_space_1 | shove |  
+| bip_39_word_no_space_10 | shovenomineedecreasegiraffecollectacidlogicattitudefingerpower |  
+| bip_39_word_no_space_11 | shovenomineedecreasegiraffecollectacidlogicattitudefingerpowerhello |  
+| bip_39_word_no_space_12 | shovenomineedecreasegiraffecollectacidlogicattitudefingerpowerhelloable |  
+| bip_39_word_no_space_2 | shovenominee |  
+| bip_39_word_no_space_3 | shovenomineedecrease |  
+| bip_39_word_no_space_4 | shovenomineedecreasegiraffe |  
+| bip_39_word_no_space_5 | shovenomineedecreasegiraffecollect |  
+| bip_39_word_no_space_6 | shovenomineedecreasegiraffecollectacid |  
+| bip_39_word_no_space_7 | shovenomineedecreasegiraffecollectacidlogic |  
+| bip_39_word_no_space_8 | shovenomineedecreasegiraffecollectacidlogicattitude |  
+| bip_39_word_no_space_9 | shovenomineedecreasegiraffecollectacidlogicattitudefinger |  
 | bip_39_word_space_0 | ['shove', 'nominee', 'decrease', 'giraffe', 'collect', 'acid', 'logic', 'attitude', 'finger', 'power', 'hello', 'able'] |  
 | bip_39_word_space_1 | shove |  
 | bip_39_word_space_10 | shove nominee decrease giraffe collect acid logic attitude finger power |  

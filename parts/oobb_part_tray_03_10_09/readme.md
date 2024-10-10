@@ -122,6 +122,18 @@ reduce
 loop
 goddess
 roast |  
+| bip_39_word_no_space_1 | animal |  
+| bip_39_word_no_space_10 | animalzebracopyjourneydeerreduceloopgoddessroastenough |  
+| bip_39_word_no_space_11 | animalzebracopyjourneydeerreduceloopgoddessroastenoughrebel |  
+| bip_39_word_no_space_12 | animalzebracopyjourneydeerreduceloopgoddessroastenoughrebelapril |  
+| bip_39_word_no_space_2 | animalzebra |  
+| bip_39_word_no_space_3 | animalzebracopy |  
+| bip_39_word_no_space_4 | animalzebracopyjourney |  
+| bip_39_word_no_space_5 | animalzebracopyjourneydeer |  
+| bip_39_word_no_space_6 | animalzebracopyjourneydeerreduce |  
+| bip_39_word_no_space_7 | animalzebracopyjourneydeerreduceloop |  
+| bip_39_word_no_space_8 | animalzebracopyjourneydeerreduceloopgoddess |  
+| bip_39_word_no_space_9 | animalzebracopyjourneydeerreduceloopgoddessroast |  
 | bip_39_word_space_0 | ['animal', 'zebra', 'copy', 'journey', 'deer', 'reduce', 'loop', 'goddess', 'roast', 'enough', 'rebel', 'april'] |  
 | bip_39_word_space_1 | animal |  
 | bip_39_word_space_10 | animal zebra copy journey deer reduce loop goddess roast enough |  

@@ -122,6 +122,18 @@ scrub
 nice
 dawn
 puzzle |  
+| bip_39_word_no_space_1 | job |  
+| bip_39_word_no_space_10 | jobburdenparrotsalmonskatescrubnicedawnpuzzleexhaust |  
+| bip_39_word_no_space_11 | jobburdenparrotsalmonskatescrubnicedawnpuzzleexhaustdisease |  
+| bip_39_word_no_space_12 | jobburdenparrotsalmonskatescrubnicedawnpuzzleexhaustdiseasearrow |  
+| bip_39_word_no_space_2 | jobburden |  
+| bip_39_word_no_space_3 | jobburdenparrot |  
+| bip_39_word_no_space_4 | jobburdenparrotsalmon |  
+| bip_39_word_no_space_5 | jobburdenparrotsalmonskate |  
+| bip_39_word_no_space_6 | jobburdenparrotsalmonskatescrub |  
+| bip_39_word_no_space_7 | jobburdenparrotsalmonskatescrubnice |  
+| bip_39_word_no_space_8 | jobburdenparrotsalmonskatescrubnicedawn |  
+| bip_39_word_no_space_9 | jobburdenparrotsalmonskatescrubnicedawnpuzzle |  
 | bip_39_word_space_0 | ['job', 'burden', 'parrot', 'salmon', 'skate', 'scrub', 'nice', 'dawn', 'puzzle', 'exhaust', 'disease', 'arrow'] |  
 | bip_39_word_space_1 | job |  
 | bip_39_word_space_10 | job burden parrot salmon skate scrub nice dawn puzzle exhaust |  

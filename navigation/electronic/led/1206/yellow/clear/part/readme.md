@@ -122,6 +122,18 @@ unusual
 usual
 traffic
 hen |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energynoisepoempelicanclawunusualusualtraffichensilent |  
+| bip_39_word_no_space_11 | energynoisepoempelicanclawunusualusualtraffichensilentdream |  
+| bip_39_word_no_space_12 | energynoisepoempelicanclawunusualusualtraffichensilentdreamassume |  
+| bip_39_word_no_space_2 | energynoise |  
+| bip_39_word_no_space_3 | energynoisepoem |  
+| bip_39_word_no_space_4 | energynoisepoempelican |  
+| bip_39_word_no_space_5 | energynoisepoempelicanclaw |  
+| bip_39_word_no_space_6 | energynoisepoempelicanclawunusual |  
+| bip_39_word_no_space_7 | energynoisepoempelicanclawunusualusual |  
+| bip_39_word_no_space_8 | energynoisepoempelicanclawunusualusualtraffic |  
+| bip_39_word_no_space_9 | energynoisepoempelicanclawunusualusualtraffichen |  
 | bip_39_word_space_0 | ['energy', 'noise', 'poem', 'pelican', 'claw', 'unusual', 'usual', 'traffic', 'hen', 'silent', 'dream', 'assume'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy noise poem pelican claw unusual usual traffic hen silent |  

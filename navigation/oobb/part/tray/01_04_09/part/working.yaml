@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'secret
   knee
 
   you'
+bip_39_word_no_space_1: secret
+bip_39_word_no_space_10: secretanalystridgeunablemuffinhighworrykneeyouescape
+bip_39_word_no_space_11: secretanalystridgeunablemuffinhighworrykneeyouescapelist
+bip_39_word_no_space_12: secretanalystridgeunablemuffinhighworrykneeyouescapelistacross
+bip_39_word_no_space_2: secretanalyst
+bip_39_word_no_space_3: secretanalystridge
+bip_39_word_no_space_4: secretanalystridgeunable
+bip_39_word_no_space_5: secretanalystridgeunablemuffin
+bip_39_word_no_space_6: secretanalystridgeunablemuffinhigh
+bip_39_word_no_space_7: secretanalystridgeunablemuffinhighworry
+bip_39_word_no_space_8: secretanalystridgeunablemuffinhighworryknee
+bip_39_word_no_space_9: secretanalystridgeunablemuffinhighworrykneeyou
 bip_39_word_space_0:
 - secret
 - analyst

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'opera
   table
 
   tomorrow'
+bip_39_word_no_space_1: opera
+bip_39_word_no_space_10: operastovefeetraincritichelmetneedtabletomorrowspoon
+bip_39_word_no_space_11: operastovefeetraincritichelmetneedtabletomorrowspooncertain
+bip_39_word_no_space_12: operastovefeetraincritichelmetneedtabletomorrowspooncertainamateur
+bip_39_word_no_space_2: operastove
+bip_39_word_no_space_3: operastovefee
+bip_39_word_no_space_4: operastovefeetrain
+bip_39_word_no_space_5: operastovefeetraincritic
+bip_39_word_no_space_6: operastovefeetraincritichelmet
+bip_39_word_no_space_7: operastovefeetraincritichelmetneed
+bip_39_word_no_space_8: operastovefeetraincritichelmetneedtable
+bip_39_word_no_space_9: operastovefeetraincritichelmetneedtabletomorrow
 bip_39_word_space_0:
 - opera
 - stove

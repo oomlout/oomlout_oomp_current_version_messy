@@ -122,6 +122,18 @@ weasel
 salt
 ignore
 vault |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | prooflaptoptossforumfoamweaselsaltignorevaultadvice |  
+| bip_39_word_no_space_11 | prooflaptoptossforumfoamweaselsaltignorevaultadvicesell |  
+| bip_39_word_no_space_12 | prooflaptoptossforumfoamweaselsaltignorevaultadvicesellapple |  
+| bip_39_word_no_space_2 | prooflaptop |  
+| bip_39_word_no_space_3 | prooflaptoptoss |  
+| bip_39_word_no_space_4 | prooflaptoptossforum |  
+| bip_39_word_no_space_5 | prooflaptoptossforumfoam |  
+| bip_39_word_no_space_6 | prooflaptoptossforumfoamweasel |  
+| bip_39_word_no_space_7 | prooflaptoptossforumfoamweaselsalt |  
+| bip_39_word_no_space_8 | prooflaptoptossforumfoamweaselsaltignore |  
+| bip_39_word_no_space_9 | prooflaptoptossforumfoamweaselsaltignorevault |  
 | bip_39_word_space_0 | ['proof', 'laptop', 'toss', 'forum', 'foam', 'weasel', 'salt', 'ignore', 'vault', 'advice', 'sell', 'apple'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof laptop toss forum foam weasel salt ignore vault advice |  

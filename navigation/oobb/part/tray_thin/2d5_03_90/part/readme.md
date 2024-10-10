@@ -122,6 +122,18 @@ south
 uniform
 upgrade
 silent |  
+| bip_39_word_no_space_1 | upper |  
+| bip_39_word_no_space_10 | upperbidsortrelaxleisuresouthuniformupgradesilentdepth |  
+| bip_39_word_no_space_11 | upperbidsortrelaxleisuresouthuniformupgradesilentdepthflag |  
+| bip_39_word_no_space_12 | upperbidsortrelaxleisuresouthuniformupgradesilentdepthflagapprove |  
+| bip_39_word_no_space_2 | upperbid |  
+| bip_39_word_no_space_3 | upperbidsort |  
+| bip_39_word_no_space_4 | upperbidsortrelax |  
+| bip_39_word_no_space_5 | upperbidsortrelaxleisure |  
+| bip_39_word_no_space_6 | upperbidsortrelaxleisuresouth |  
+| bip_39_word_no_space_7 | upperbidsortrelaxleisuresouthuniform |  
+| bip_39_word_no_space_8 | upperbidsortrelaxleisuresouthuniformupgrade |  
+| bip_39_word_no_space_9 | upperbidsortrelaxleisuresouthuniformupgradesilent |  
 | bip_39_word_space_0 | ['upper', 'bid', 'sort', 'relax', 'leisure', 'south', 'uniform', 'upgrade', 'silent', 'depth', 'flag', 'approve'] |  
 | bip_39_word_space_1 | upper |  
 | bip_39_word_space_10 | upper bid sort relax leisure south uniform upgrade silent depth |  

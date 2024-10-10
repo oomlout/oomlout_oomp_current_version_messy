@@ -122,6 +122,18 @@ one
 modify
 daring
 speed |  
+| bip_39_word_no_space_1 | sand |  
+| bip_39_word_no_space_10 | sandinhalebodyexileoctoberonemodifydaringspeedrisk |  
+| bip_39_word_no_space_11 | sandinhalebodyexileoctoberonemodifydaringspeedriskacross |  
+| bip_39_word_no_space_12 | sandinhalebodyexileoctoberonemodifydaringspeedriskacrossantenna |  
+| bip_39_word_no_space_2 | sandinhale |  
+| bip_39_word_no_space_3 | sandinhalebody |  
+| bip_39_word_no_space_4 | sandinhalebodyexile |  
+| bip_39_word_no_space_5 | sandinhalebodyexileoctober |  
+| bip_39_word_no_space_6 | sandinhalebodyexileoctoberone |  
+| bip_39_word_no_space_7 | sandinhalebodyexileoctoberonemodify |  
+| bip_39_word_no_space_8 | sandinhalebodyexileoctoberonemodifydaring |  
+| bip_39_word_no_space_9 | sandinhalebodyexileoctoberonemodifydaringspeed |  
 | bip_39_word_space_0 | ['sand', 'inhale', 'body', 'exile', 'october', 'one', 'modify', 'daring', 'speed', 'risk', 'across', 'antenna'] |  
 | bip_39_word_space_1 | sand |  
 | bip_39_word_space_10 | sand inhale body exile october one modify daring speed risk |  

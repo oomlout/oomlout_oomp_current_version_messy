@@ -122,6 +122,18 @@ fly
 coin
 write
 term |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposesadnessnapkinjustrevealflycoinwritetermjunior |  
+| bip_39_word_no_space_11 | opposesadnessnapkinjustrevealflycoinwritetermjuniormaid |  
+| bip_39_word_no_space_12 | opposesadnessnapkinjustrevealflycoinwritetermjuniormaidalmost |  
+| bip_39_word_no_space_2 | opposesadness |  
+| bip_39_word_no_space_3 | opposesadnessnapkin |  
+| bip_39_word_no_space_4 | opposesadnessnapkinjust |  
+| bip_39_word_no_space_5 | opposesadnessnapkinjustreveal |  
+| bip_39_word_no_space_6 | opposesadnessnapkinjustrevealfly |  
+| bip_39_word_no_space_7 | opposesadnessnapkinjustrevealflycoin |  
+| bip_39_word_no_space_8 | opposesadnessnapkinjustrevealflycoinwrite |  
+| bip_39_word_no_space_9 | opposesadnessnapkinjustrevealflycoinwriteterm |  
 | bip_39_word_space_0 | ['oppose', 'sadness', 'napkin', 'just', 'reveal', 'fly', 'coin', 'write', 'term', 'junior', 'maid', 'almost'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose sadness napkin just reveal fly coin write term junior |  

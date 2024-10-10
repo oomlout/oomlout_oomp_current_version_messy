@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'solve
   purchase
 
   speak'
+bip_39_word_no_space_1: solve
+bip_39_word_no_space_10: solveimposepullcattrimremaininsanepurchasespeakbread
+bip_39_word_no_space_11: solveimposepullcattrimremaininsanepurchasespeakbreadmotor
+bip_39_word_no_space_12: solveimposepullcattrimremaininsanepurchasespeakbreadmotorauction
+bip_39_word_no_space_2: solveimpose
+bip_39_word_no_space_3: solveimposepull
+bip_39_word_no_space_4: solveimposepullcat
+bip_39_word_no_space_5: solveimposepullcattrim
+bip_39_word_no_space_6: solveimposepullcattrimremain
+bip_39_word_no_space_7: solveimposepullcattrimremaininsane
+bip_39_word_no_space_8: solveimposepullcattrimremaininsanepurchase
+bip_39_word_no_space_9: solveimposepullcattrimremaininsanepurchasespeak
 bip_39_word_space_0:
 - solve
 - impose

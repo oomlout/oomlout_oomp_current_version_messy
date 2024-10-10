@@ -122,6 +122,18 @@ prefer
 cry
 ten
 nice |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairtrapserviceceleryventureprefercrytennicelittle |  
+| bip_39_word_no_space_11 | repairtrapserviceceleryventureprefercrytennicelittlefame |  
+| bip_39_word_no_space_12 | repairtrapserviceceleryventureprefercrytennicelittlefameacoustic |  
+| bip_39_word_no_space_2 | repairtrap |  
+| bip_39_word_no_space_3 | repairtrapservice |  
+| bip_39_word_no_space_4 | repairtrapservicecelery |  
+| bip_39_word_no_space_5 | repairtrapserviceceleryventure |  
+| bip_39_word_no_space_6 | repairtrapserviceceleryventureprefer |  
+| bip_39_word_no_space_7 | repairtrapserviceceleryventureprefercry |  
+| bip_39_word_no_space_8 | repairtrapserviceceleryventureprefercryten |  
+| bip_39_word_no_space_9 | repairtrapserviceceleryventureprefercrytennice |  
 | bip_39_word_space_0 | ['repair', 'trap', 'service', 'celery', 'venture', 'prefer', 'cry', 'ten', 'nice', 'little', 'fame', 'acoustic'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair trap service celery venture prefer cry ten nice little |  

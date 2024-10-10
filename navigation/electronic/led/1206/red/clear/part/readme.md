@@ -122,6 +122,18 @@ entire
 ostrich
 ancient
 twenty |  
+| bip_39_word_no_space_1 | wait |  
+| bip_39_word_no_space_10 | waitroundviewclinicfilmentireostrichancienttwentysnack |  
+| bip_39_word_no_space_11 | waitroundviewclinicfilmentireostrichancienttwentysnackbasic |  
+| bip_39_word_no_space_12 | waitroundviewclinicfilmentireostrichancienttwentysnackbasicaddict |  
+| bip_39_word_no_space_2 | waitround |  
+| bip_39_word_no_space_3 | waitroundview |  
+| bip_39_word_no_space_4 | waitroundviewclinic |  
+| bip_39_word_no_space_5 | waitroundviewclinicfilm |  
+| bip_39_word_no_space_6 | waitroundviewclinicfilmentire |  
+| bip_39_word_no_space_7 | waitroundviewclinicfilmentireostrich |  
+| bip_39_word_no_space_8 | waitroundviewclinicfilmentireostrichancient |  
+| bip_39_word_no_space_9 | waitroundviewclinicfilmentireostrichancienttwenty |  
 | bip_39_word_space_0 | ['wait', 'round', 'view', 'clinic', 'film', 'entire', 'ostrich', 'ancient', 'twenty', 'snack', 'basic', 'addict'] |  
 | bip_39_word_space_1 | wait |  
 | bip_39_word_space_10 | wait round view clinic film entire ostrich ancient twenty snack |  

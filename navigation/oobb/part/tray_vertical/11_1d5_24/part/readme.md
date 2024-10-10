@@ -122,6 +122,18 @@ absorb
 chalk
 arrive
 someone |  
+| bip_39_word_no_space_1 | cruise |  
+| bip_39_word_no_space_10 | cruiseversionscarehenglimpseabsorbchalkarrivesomeonefoster |  
+| bip_39_word_no_space_11 | cruiseversionscarehenglimpseabsorbchalkarrivesomeonefosterrather |  
+| bip_39_word_no_space_12 | cruiseversionscarehenglimpseabsorbchalkarrivesomeonefosterratheranimal |  
+| bip_39_word_no_space_2 | cruiseversion |  
+| bip_39_word_no_space_3 | cruiseversionscare |  
+| bip_39_word_no_space_4 | cruiseversionscarehen |  
+| bip_39_word_no_space_5 | cruiseversionscarehenglimpse |  
+| bip_39_word_no_space_6 | cruiseversionscarehenglimpseabsorb |  
+| bip_39_word_no_space_7 | cruiseversionscarehenglimpseabsorbchalk |  
+| bip_39_word_no_space_8 | cruiseversionscarehenglimpseabsorbchalkarrive |  
+| bip_39_word_no_space_9 | cruiseversionscarehenglimpseabsorbchalkarrivesomeone |  
 | bip_39_word_space_0 | ['cruise', 'version', 'scare', 'hen', 'glimpse', 'absorb', 'chalk', 'arrive', 'someone', 'foster', 'rather', 'animal'] |  
 | bip_39_word_space_1 | cruise |  
 | bip_39_word_space_10 | cruise version scare hen glimpse absorb chalk arrive someone foster |  

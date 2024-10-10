@@ -122,6 +122,18 @@ during
 have
 recipe
 laptop |  
+| bip_39_word_no_space_1 | palm |  
+| bip_39_word_no_space_10 | palmdentistparentbonedreamduringhaverecipelaptopachieve |  
+| bip_39_word_no_space_11 | palmdentistparentbonedreamduringhaverecipelaptopachievetrumpet |  
+| bip_39_word_no_space_12 | palmdentistparentbonedreamduringhaverecipelaptopachievetrumpetaccess |  
+| bip_39_word_no_space_2 | palmdentist |  
+| bip_39_word_no_space_3 | palmdentistparent |  
+| bip_39_word_no_space_4 | palmdentistparentbone |  
+| bip_39_word_no_space_5 | palmdentistparentbonedream |  
+| bip_39_word_no_space_6 | palmdentistparentbonedreamduring |  
+| bip_39_word_no_space_7 | palmdentistparentbonedreamduringhave |  
+| bip_39_word_no_space_8 | palmdentistparentbonedreamduringhaverecipe |  
+| bip_39_word_no_space_9 | palmdentistparentbonedreamduringhaverecipelaptop |  
 | bip_39_word_space_0 | ['palm', 'dentist', 'parent', 'bone', 'dream', 'during', 'have', 'recipe', 'laptop', 'achieve', 'trumpet', 'access'] |  
 | bip_39_word_space_1 | palm |  
 | bip_39_word_space_10 | palm dentist parent bone dream during have recipe laptop achieve |  

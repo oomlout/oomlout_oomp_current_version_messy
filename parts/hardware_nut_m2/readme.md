@@ -122,6 +122,18 @@ fox
 flower
 dad
 source |  
+| bip_39_word_no_space_1 | weasel |  
+| bip_39_word_no_space_10 | weaselfetchbreezewarmvirusfoxflowerdadsourceexchange |  
+| bip_39_word_no_space_11 | weaselfetchbreezewarmvirusfoxflowerdadsourceexchangeglad |  
+| bip_39_word_no_space_12 | weaselfetchbreezewarmvirusfoxflowerdadsourceexchangegladagain |  
+| bip_39_word_no_space_2 | weaselfetch |  
+| bip_39_word_no_space_3 | weaselfetchbreeze |  
+| bip_39_word_no_space_4 | weaselfetchbreezewarm |  
+| bip_39_word_no_space_5 | weaselfetchbreezewarmvirus |  
+| bip_39_word_no_space_6 | weaselfetchbreezewarmvirusfox |  
+| bip_39_word_no_space_7 | weaselfetchbreezewarmvirusfoxflower |  
+| bip_39_word_no_space_8 | weaselfetchbreezewarmvirusfoxflowerdad |  
+| bip_39_word_no_space_9 | weaselfetchbreezewarmvirusfoxflowerdadsource |  
 | bip_39_word_space_0 | ['weasel', 'fetch', 'breeze', 'warm', 'virus', 'fox', 'flower', 'dad', 'source', 'exchange', 'glad', 'again'] |  
 | bip_39_word_space_1 | weasel |  
 | bip_39_word_space_10 | weasel fetch breeze warm virus fox flower dad source exchange |  

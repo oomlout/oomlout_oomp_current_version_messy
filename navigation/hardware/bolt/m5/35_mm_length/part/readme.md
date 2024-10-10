@@ -122,6 +122,18 @@ possible
 wire
 oppose
 under |  
+| bip_39_word_no_space_1 | wink |  
+| bip_39_word_no_space_10 | winkvalidfortunepresentdutchpossiblewireopposeundermerge |  
+| bip_39_word_no_space_11 | winkvalidfortunepresentdutchpossiblewireopposeundermergesunny |  
+| bip_39_word_no_space_12 | winkvalidfortunepresentdutchpossiblewireopposeundermergesunnyangle |  
+| bip_39_word_no_space_2 | winkvalid |  
+| bip_39_word_no_space_3 | winkvalidfortune |  
+| bip_39_word_no_space_4 | winkvalidfortunepresent |  
+| bip_39_word_no_space_5 | winkvalidfortunepresentdutch |  
+| bip_39_word_no_space_6 | winkvalidfortunepresentdutchpossible |  
+| bip_39_word_no_space_7 | winkvalidfortunepresentdutchpossiblewire |  
+| bip_39_word_no_space_8 | winkvalidfortunepresentdutchpossiblewireoppose |  
+| bip_39_word_no_space_9 | winkvalidfortunepresentdutchpossiblewireopposeunder |  
 | bip_39_word_space_0 | ['wink', 'valid', 'fortune', 'present', 'dutch', 'possible', 'wire', 'oppose', 'under', 'merge', 'sunny', 'angle'] |  
 | bip_39_word_space_1 | wink |  
 | bip_39_word_space_10 | wink valid fortune present dutch possible wire oppose under merge |  

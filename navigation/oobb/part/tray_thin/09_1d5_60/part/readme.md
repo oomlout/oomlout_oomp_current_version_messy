@@ -122,6 +122,18 @@ hood
 ridge
 panther
 praise |  
+| bip_39_word_no_space_1 | emerge |  
+| bip_39_word_no_space_10 | emergecottonextraratherflockhoodridgepantherpraiseanxiety |  
+| bip_39_word_no_space_11 | emergecottonextraratherflockhoodridgepantherpraiseanxietyfemale |  
+| bip_39_word_no_space_12 | emergecottonextraratherflockhoodridgepantherpraiseanxietyfemaleactress |  
+| bip_39_word_no_space_2 | emergecotton |  
+| bip_39_word_no_space_3 | emergecottonextra |  
+| bip_39_word_no_space_4 | emergecottonextrarather |  
+| bip_39_word_no_space_5 | emergecottonextraratherflock |  
+| bip_39_word_no_space_6 | emergecottonextraratherflockhood |  
+| bip_39_word_no_space_7 | emergecottonextraratherflockhoodridge |  
+| bip_39_word_no_space_8 | emergecottonextraratherflockhoodridgepanther |  
+| bip_39_word_no_space_9 | emergecottonextraratherflockhoodridgepantherpraise |  
 | bip_39_word_space_0 | ['emerge', 'cotton', 'extra', 'rather', 'flock', 'hood', 'ridge', 'panther', 'praise', 'anxiety', 'female', 'actress'] |  
 | bip_39_word_space_1 | emerge |  
 | bip_39_word_space_10 | emerge cotton extra rather flock hood ridge panther praise anxiety |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'royal
   future
 
   tube'
+bip_39_word_no_space_1: royal
+bip_39_word_no_space_10: royalbenefitcoupleoffslicedependfeefuturetubesoap
+bip_39_word_no_space_11: royalbenefitcoupleoffslicedependfeefuturetubesoapdomain
+bip_39_word_no_space_12: royalbenefitcoupleoffslicedependfeefuturetubesoapdomainaffair
+bip_39_word_no_space_2: royalbenefit
+bip_39_word_no_space_3: royalbenefitcouple
+bip_39_word_no_space_4: royalbenefitcoupleoff
+bip_39_word_no_space_5: royalbenefitcoupleoffslice
+bip_39_word_no_space_6: royalbenefitcoupleoffslicedepend
+bip_39_word_no_space_7: royalbenefitcoupleoffslicedependfee
+bip_39_word_no_space_8: royalbenefitcoupleoffslicedependfeefuture
+bip_39_word_no_space_9: royalbenefitcoupleoffslicedependfeefuturetube
 bip_39_word_space_0:
 - royal
 - benefit

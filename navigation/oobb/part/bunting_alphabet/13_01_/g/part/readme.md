@@ -122,6 +122,18 @@ cage
 client
 air
 method |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | nicepopularagentmustcausecageclientairmethodsyrup |  
+| bip_39_word_no_space_11 | nicepopularagentmustcausecageclientairmethodsyrupsuper |  
+| bip_39_word_no_space_12 | nicepopularagentmustcausecageclientairmethodsyrupsuperaugust |  
+| bip_39_word_no_space_2 | nicepopular |  
+| bip_39_word_no_space_3 | nicepopularagent |  
+| bip_39_word_no_space_4 | nicepopularagentmust |  
+| bip_39_word_no_space_5 | nicepopularagentmustcause |  
+| bip_39_word_no_space_6 | nicepopularagentmustcausecage |  
+| bip_39_word_no_space_7 | nicepopularagentmustcausecageclient |  
+| bip_39_word_no_space_8 | nicepopularagentmustcausecageclientair |  
+| bip_39_word_no_space_9 | nicepopularagentmustcausecageclientairmethod |  
 | bip_39_word_space_0 | ['nice', 'popular', 'agent', 'must', 'cause', 'cage', 'client', 'air', 'method', 'syrup', 'super', 'august'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice popular agent must cause cage client air method syrup |  

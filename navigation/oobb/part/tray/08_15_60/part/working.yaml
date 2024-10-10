@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tongue
   fault
 
   bus'
+bip_39_word_no_space_1: tongue
+bip_39_word_no_space_10: tonguepondescapetunafewboringlegfaultbusfinish
+bip_39_word_no_space_11: tonguepondescapetunafewboringlegfaultbusfinishfantasy
+bip_39_word_no_space_12: tonguepondescapetunafewboringlegfaultbusfinishfantasyattitude
+bip_39_word_no_space_2: tonguepond
+bip_39_word_no_space_3: tonguepondescape
+bip_39_word_no_space_4: tonguepondescapetuna
+bip_39_word_no_space_5: tonguepondescapetunafew
+bip_39_word_no_space_6: tonguepondescapetunafewboring
+bip_39_word_no_space_7: tonguepondescapetunafewboringleg
+bip_39_word_no_space_8: tonguepondescapetunafewboringlegfault
+bip_39_word_no_space_9: tonguepondescapetunafewboringlegfaultbus
 bip_39_word_space_0:
 - tongue
 - pond

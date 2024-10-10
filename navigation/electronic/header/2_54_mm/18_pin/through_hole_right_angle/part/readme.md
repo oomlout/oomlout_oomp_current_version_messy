@@ -122,6 +122,18 @@ quit
 hen
 reward
 earn |  
+| bip_39_word_no_space_1 | goose |  
+| bip_39_word_no_space_10 | goosejellyfoildistancethemequithenrewardearngoat |  
+| bip_39_word_no_space_11 | goosejellyfoildistancethemequithenrewardearngoatsun |  
+| bip_39_word_no_space_12 | goosejellyfoildistancethemequithenrewardearngoatsunabsurd |  
+| bip_39_word_no_space_2 | goosejelly |  
+| bip_39_word_no_space_3 | goosejellyfoil |  
+| bip_39_word_no_space_4 | goosejellyfoildistance |  
+| bip_39_word_no_space_5 | goosejellyfoildistancetheme |  
+| bip_39_word_no_space_6 | goosejellyfoildistancethemequit |  
+| bip_39_word_no_space_7 | goosejellyfoildistancethemequithen |  
+| bip_39_word_no_space_8 | goosejellyfoildistancethemequithenreward |  
+| bip_39_word_no_space_9 | goosejellyfoildistancethemequithenrewardearn |  
 | bip_39_word_space_0 | ['goose', 'jelly', 'foil', 'distance', 'theme', 'quit', 'hen', 'reward', 'earn', 'goat', 'sun', 'absurd'] |  
 | bip_39_word_space_1 | goose |  
 | bip_39_word_space_10 | goose jelly foil distance theme quit hen reward earn goat |  

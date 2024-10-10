@@ -122,6 +122,18 @@ clutch
 report
 master
 second |  
+| bip_39_word_no_space_1 | thrive |  
+| bip_39_word_no_space_10 | thriveshinebarmiraclesnackclutchreportmastersecondgrab |  
+| bip_39_word_no_space_11 | thriveshinebarmiraclesnackclutchreportmastersecondgrabslot |  
+| bip_39_word_no_space_12 | thriveshinebarmiraclesnackclutchreportmastersecondgrabslotage |  
+| bip_39_word_no_space_2 | thriveshine |  
+| bip_39_word_no_space_3 | thriveshinebar |  
+| bip_39_word_no_space_4 | thriveshinebarmiracle |  
+| bip_39_word_no_space_5 | thriveshinebarmiraclesnack |  
+| bip_39_word_no_space_6 | thriveshinebarmiraclesnackclutch |  
+| bip_39_word_no_space_7 | thriveshinebarmiraclesnackclutchreport |  
+| bip_39_word_no_space_8 | thriveshinebarmiraclesnackclutchreportmaster |  
+| bip_39_word_no_space_9 | thriveshinebarmiraclesnackclutchreportmastersecond |  
 | bip_39_word_space_0 | ['thrive', 'shine', 'bar', 'miracle', 'snack', 'clutch', 'report', 'master', 'second', 'grab', 'slot', 'age'] |  
 | bip_39_word_space_1 | thrive |  
 | bip_39_word_space_10 | thrive shine bar miracle snack clutch report master second grab |  

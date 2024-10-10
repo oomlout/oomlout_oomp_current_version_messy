@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'false
   nominee
 
   panic'
+bip_39_word_no_space_1: 'false'
+bip_39_word_no_space_10: falsetalentgowndumbfaitharchcameranomineepaniccore
+bip_39_word_no_space_11: falsetalentgowndumbfaitharchcameranomineepaniccorejar
+bip_39_word_no_space_12: falsetalentgowndumbfaitharchcameranomineepaniccorejaratom
+bip_39_word_no_space_2: falsetalent
+bip_39_word_no_space_3: falsetalentgown
+bip_39_word_no_space_4: falsetalentgowndumb
+bip_39_word_no_space_5: falsetalentgowndumbfaith
+bip_39_word_no_space_6: falsetalentgowndumbfaitharch
+bip_39_word_no_space_7: falsetalentgowndumbfaitharchcamera
+bip_39_word_no_space_8: falsetalentgowndumbfaitharchcameranominee
+bip_39_word_no_space_9: falsetalentgowndumbfaitharchcameranomineepanic
 bip_39_word_space_0:
 - 'false'
 - talent

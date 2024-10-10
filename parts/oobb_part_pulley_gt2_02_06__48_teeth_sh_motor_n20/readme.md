@@ -122,6 +122,18 @@ either
 cancel
 guess
 client |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportmammalonedinnerquantumeithercancelguessclientdinosaur |  
+| bip_39_word_no_space_11 | sportmammalonedinnerquantumeithercancelguessclientdinosaurcage |  
+| bip_39_word_no_space_12 | sportmammalonedinnerquantumeithercancelguessclientdinosaurcageaffair |  
+| bip_39_word_no_space_2 | sportmammal |  
+| bip_39_word_no_space_3 | sportmammalone |  
+| bip_39_word_no_space_4 | sportmammalonedinner |  
+| bip_39_word_no_space_5 | sportmammalonedinnerquantum |  
+| bip_39_word_no_space_6 | sportmammalonedinnerquantumeither |  
+| bip_39_word_no_space_7 | sportmammalonedinnerquantumeithercancel |  
+| bip_39_word_no_space_8 | sportmammalonedinnerquantumeithercancelguess |  
+| bip_39_word_no_space_9 | sportmammalonedinnerquantumeithercancelguessclient |  
 | bip_39_word_space_0 | ['sport', 'mammal', 'one', 'dinner', 'quantum', 'either', 'cancel', 'guess', 'client', 'dinosaur', 'cage', 'affair'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport mammal one dinner quantum either cancel guess client dinosaur |  

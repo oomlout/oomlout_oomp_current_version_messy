@@ -122,6 +122,18 @@ deliver
 flight
 unusual
 link |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildfloorarmortopmuchdeliverflightunusuallinkkeep |  
+| bip_39_word_no_space_11 | rebuildfloorarmortopmuchdeliverflightunusuallinkkeepleave |  
+| bip_39_word_no_space_12 | rebuildfloorarmortopmuchdeliverflightunusuallinkkeepleaveallow |  
+| bip_39_word_no_space_2 | rebuildfloor |  
+| bip_39_word_no_space_3 | rebuildfloorarmor |  
+| bip_39_word_no_space_4 | rebuildfloorarmortop |  
+| bip_39_word_no_space_5 | rebuildfloorarmortopmuch |  
+| bip_39_word_no_space_6 | rebuildfloorarmortopmuchdeliver |  
+| bip_39_word_no_space_7 | rebuildfloorarmortopmuchdeliverflight |  
+| bip_39_word_no_space_8 | rebuildfloorarmortopmuchdeliverflightunusual |  
+| bip_39_word_no_space_9 | rebuildfloorarmortopmuchdeliverflightunusuallink |  
 | bip_39_word_space_0 | ['rebuild', 'floor', 'armor', 'top', 'much', 'deliver', 'flight', 'unusual', 'link', 'keep', 'leave', 'allow'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild floor armor top much deliver flight unusual link keep |  

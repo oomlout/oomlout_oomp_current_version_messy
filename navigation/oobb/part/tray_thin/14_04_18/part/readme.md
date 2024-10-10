@@ -122,6 +122,18 @@ hard
 purchase
 lamp
 hint |  
+| bip_39_word_no_space_1 | inner |  
+| bip_39_word_no_space_10 | innerneutraldespairneglectensurehardpurchaselamphintbetween |  
+| bip_39_word_no_space_11 | innerneutraldespairneglectensurehardpurchaselamphintbetweencoconut |  
+| bip_39_word_no_space_12 | innerneutraldespairneglectensurehardpurchaselamphintbetweencoconutapart |  
+| bip_39_word_no_space_2 | innerneutral |  
+| bip_39_word_no_space_3 | innerneutraldespair |  
+| bip_39_word_no_space_4 | innerneutraldespairneglect |  
+| bip_39_word_no_space_5 | innerneutraldespairneglectensure |  
+| bip_39_word_no_space_6 | innerneutraldespairneglectensurehard |  
+| bip_39_word_no_space_7 | innerneutraldespairneglectensurehardpurchase |  
+| bip_39_word_no_space_8 | innerneutraldespairneglectensurehardpurchaselamp |  
+| bip_39_word_no_space_9 | innerneutraldespairneglectensurehardpurchaselamphint |  
 | bip_39_word_space_0 | ['inner', 'neutral', 'despair', 'neglect', 'ensure', 'hard', 'purchase', 'lamp', 'hint', 'between', 'coconut', 'apart'] |  
 | bip_39_word_space_1 | inner |  
 | bip_39_word_space_10 | inner neutral despair neglect ensure hard purchase lamp hint between |  

@@ -122,6 +122,18 @@ run
 ready
 club
 topic |  
+| bip_39_word_no_space_1 | camp |  
+| bip_39_word_no_space_10 | campboringpianoinputaerobicrunreadyclubtopictwist |  
+| bip_39_word_no_space_11 | campboringpianoinputaerobicrunreadyclubtopictwistahead |  
+| bip_39_word_no_space_12 | campboringpianoinputaerobicrunreadyclubtopictwistaheadautumn |  
+| bip_39_word_no_space_2 | campboring |  
+| bip_39_word_no_space_3 | campboringpiano |  
+| bip_39_word_no_space_4 | campboringpianoinput |  
+| bip_39_word_no_space_5 | campboringpianoinputaerobic |  
+| bip_39_word_no_space_6 | campboringpianoinputaerobicrun |  
+| bip_39_word_no_space_7 | campboringpianoinputaerobicrunready |  
+| bip_39_word_no_space_8 | campboringpianoinputaerobicrunreadyclub |  
+| bip_39_word_no_space_9 | campboringpianoinputaerobicrunreadyclubtopic |  
 | bip_39_word_space_0 | ['camp', 'boring', 'piano', 'input', 'aerobic', 'run', 'ready', 'club', 'topic', 'twist', 'ahead', 'autumn'] |  
 | bip_39_word_space_1 | camp |  
 | bip_39_word_space_10 | camp boring piano input aerobic run ready club topic twist |  

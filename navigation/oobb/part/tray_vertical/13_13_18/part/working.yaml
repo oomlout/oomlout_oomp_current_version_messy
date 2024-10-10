@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lunch
   cost
 
   until'
+bip_39_word_no_space_1: lunch
+bip_39_word_no_space_10: lunchzoostairsbiologyunfoldoldpicniccostuntilsecond
+bip_39_word_no_space_11: lunchzoostairsbiologyunfoldoldpicniccostuntilsecondagree
+bip_39_word_no_space_12: lunchzoostairsbiologyunfoldoldpicniccostuntilsecondagreeavocado
+bip_39_word_no_space_2: lunchzoo
+bip_39_word_no_space_3: lunchzoostairs
+bip_39_word_no_space_4: lunchzoostairsbiology
+bip_39_word_no_space_5: lunchzoostairsbiologyunfold
+bip_39_word_no_space_6: lunchzoostairsbiologyunfoldold
+bip_39_word_no_space_7: lunchzoostairsbiologyunfoldoldpicnic
+bip_39_word_no_space_8: lunchzoostairsbiologyunfoldoldpicniccost
+bip_39_word_no_space_9: lunchzoostairsbiologyunfoldoldpicniccostuntil
 bip_39_word_space_0:
 - lunch
 - zoo

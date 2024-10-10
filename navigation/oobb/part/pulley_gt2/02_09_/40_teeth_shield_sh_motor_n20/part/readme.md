@@ -122,6 +122,18 @@ oxygen
 feel
 repair
 just |  
+| bip_39_word_no_space_1 | tell |  
+| bip_39_word_no_space_10 | tellspraydefineribbondayoxygenfeelrepairjustsalon |  
+| bip_39_word_no_space_11 | tellspraydefineribbondayoxygenfeelrepairjustsalonrival |  
+| bip_39_word_no_space_12 | tellspraydefineribbondayoxygenfeelrepairjustsalonrivalaccuse |  
+| bip_39_word_no_space_2 | tellspray |  
+| bip_39_word_no_space_3 | tellspraydefine |  
+| bip_39_word_no_space_4 | tellspraydefineribbon |  
+| bip_39_word_no_space_5 | tellspraydefineribbonday |  
+| bip_39_word_no_space_6 | tellspraydefineribbondayoxygen |  
+| bip_39_word_no_space_7 | tellspraydefineribbondayoxygenfeel |  
+| bip_39_word_no_space_8 | tellspraydefineribbondayoxygenfeelrepair |  
+| bip_39_word_no_space_9 | tellspraydefineribbondayoxygenfeelrepairjust |  
 | bip_39_word_space_0 | ['tell', 'spray', 'define', 'ribbon', 'day', 'oxygen', 'feel', 'repair', 'just', 'salon', 'rival', 'accuse'] |  
 | bip_39_word_space_1 | tell |  
 | bip_39_word_space_10 | tell spray define ribbon day oxygen feel repair just salon |  

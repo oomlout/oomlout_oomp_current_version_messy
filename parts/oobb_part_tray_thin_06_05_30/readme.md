@@ -122,6 +122,18 @@ gorilla
 plunge
 feed
 ivory |  
+| bip_39_word_no_space_1 | few |  
+| bip_39_word_no_space_10 | fewseminarpioneercurtainprintgorillaplungefeedivoryvalley |  
+| bip_39_word_no_space_11 | fewseminarpioneercurtainprintgorillaplungefeedivoryvalleyglance |  
+| bip_39_word_no_space_12 | fewseminarpioneercurtainprintgorillaplungefeedivoryvalleyglancealready |  
+| bip_39_word_no_space_2 | fewseminar |  
+| bip_39_word_no_space_3 | fewseminarpioneer |  
+| bip_39_word_no_space_4 | fewseminarpioneercurtain |  
+| bip_39_word_no_space_5 | fewseminarpioneercurtainprint |  
+| bip_39_word_no_space_6 | fewseminarpioneercurtainprintgorilla |  
+| bip_39_word_no_space_7 | fewseminarpioneercurtainprintgorillaplunge |  
+| bip_39_word_no_space_8 | fewseminarpioneercurtainprintgorillaplungefeed |  
+| bip_39_word_no_space_9 | fewseminarpioneercurtainprintgorillaplungefeedivory |  
 | bip_39_word_space_0 | ['few', 'seminar', 'pioneer', 'curtain', 'print', 'gorilla', 'plunge', 'feed', 'ivory', 'valley', 'glance', 'already'] |  
 | bip_39_word_space_1 | few |  
 | bip_39_word_space_10 | few seminar pioneer curtain print gorilla plunge feed ivory valley |  

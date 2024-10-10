@@ -122,6 +122,18 @@ sudden
 require
 rubber
 square |  
+| bip_39_word_no_space_1 | convince |  
+| bip_39_word_no_space_10 | convincenoticepleasepulppeppersuddenrequirerubbersquaremaster |  
+| bip_39_word_no_space_11 | convincenoticepleasepulppeppersuddenrequirerubbersquaremasternormal |  
+| bip_39_word_no_space_12 | convincenoticepleasepulppeppersuddenrequirerubbersquaremasternormalagent |  
+| bip_39_word_no_space_2 | convincenotice |  
+| bip_39_word_no_space_3 | convincenoticeplease |  
+| bip_39_word_no_space_4 | convincenoticepleasepulp |  
+| bip_39_word_no_space_5 | convincenoticepleasepulppepper |  
+| bip_39_word_no_space_6 | convincenoticepleasepulppeppersudden |  
+| bip_39_word_no_space_7 | convincenoticepleasepulppeppersuddenrequire |  
+| bip_39_word_no_space_8 | convincenoticepleasepulppeppersuddenrequirerubber |  
+| bip_39_word_no_space_9 | convincenoticepleasepulppeppersuddenrequirerubbersquare |  
 | bip_39_word_space_0 | ['convince', 'notice', 'please', 'pulp', 'pepper', 'sudden', 'require', 'rubber', 'square', 'master', 'normal', 'agent'] |  
 | bip_39_word_space_1 | convince |  
 | bip_39_word_space_10 | convince notice please pulp pepper sudden require rubber square master |  

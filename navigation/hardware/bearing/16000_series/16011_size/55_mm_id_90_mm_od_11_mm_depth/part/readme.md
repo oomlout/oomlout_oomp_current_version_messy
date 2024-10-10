@@ -122,6 +122,18 @@ laugh
 middle
 attend
 symptom |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circleendunfairsweetsweetlaughmiddleattendsymptomhorror |  
+| bip_39_word_no_space_11 | circleendunfairsweetsweetlaughmiddleattendsymptomhorrorenemy |  
+| bip_39_word_no_space_12 | circleendunfairsweetsweetlaughmiddleattendsymptomhorrorenemyact |  
+| bip_39_word_no_space_2 | circleend |  
+| bip_39_word_no_space_3 | circleendunfair |  
+| bip_39_word_no_space_4 | circleendunfairsweet |  
+| bip_39_word_no_space_5 | circleendunfairsweetsweet |  
+| bip_39_word_no_space_6 | circleendunfairsweetsweetlaugh |  
+| bip_39_word_no_space_7 | circleendunfairsweetsweetlaughmiddle |  
+| bip_39_word_no_space_8 | circleendunfairsweetsweetlaughmiddleattend |  
+| bip_39_word_no_space_9 | circleendunfairsweetsweetlaughmiddleattendsymptom |  
 | bip_39_word_space_0 | ['circle', 'end', 'unfair', 'sweet', 'sweet', 'laugh', 'middle', 'attend', 'symptom', 'horror', 'enemy', 'act'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle end unfair sweet sweet laugh middle attend symptom horror |  

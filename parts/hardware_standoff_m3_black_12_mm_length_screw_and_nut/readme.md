@@ -122,6 +122,18 @@ rebuild
 proof
 deliver
 gym |  
+| bip_39_word_no_space_1 | start |  
+| bip_39_word_no_space_10 | startturnalbumchargesiderebuildproofdelivergympicnic |  
+| bip_39_word_no_space_11 | startturnalbumchargesiderebuildproofdelivergympicnicbid |  
+| bip_39_word_no_space_12 | startturnalbumchargesiderebuildproofdelivergympicnicbidassault |  
+| bip_39_word_no_space_2 | startturn |  
+| bip_39_word_no_space_3 | startturnalbum |  
+| bip_39_word_no_space_4 | startturnalbumcharge |  
+| bip_39_word_no_space_5 | startturnalbumchargeside |  
+| bip_39_word_no_space_6 | startturnalbumchargesiderebuild |  
+| bip_39_word_no_space_7 | startturnalbumchargesiderebuildproof |  
+| bip_39_word_no_space_8 | startturnalbumchargesiderebuildproofdeliver |  
+| bip_39_word_no_space_9 | startturnalbumchargesiderebuildproofdelivergym |  
 | bip_39_word_space_0 | ['start', 'turn', 'album', 'charge', 'side', 'rebuild', 'proof', 'deliver', 'gym', 'picnic', 'bid', 'assault'] |  
 | bip_39_word_space_1 | start |  
 | bip_39_word_space_10 | start turn album charge side rebuild proof deliver gym picnic |  

@@ -122,6 +122,18 @@ ahead
 party
 tower
 language |  
+| bip_39_word_no_space_1 | neglect |  
+| bip_39_word_no_space_10 | neglectsmokecameradevicefaultaheadpartytowerlanguagecave |  
+| bip_39_word_no_space_11 | neglectsmokecameradevicefaultaheadpartytowerlanguagecavemarch |  
+| bip_39_word_no_space_12 | neglectsmokecameradevicefaultaheadpartytowerlanguagecavemarcharctic |  
+| bip_39_word_no_space_2 | neglectsmoke |  
+| bip_39_word_no_space_3 | neglectsmokecamera |  
+| bip_39_word_no_space_4 | neglectsmokecameradevice |  
+| bip_39_word_no_space_5 | neglectsmokecameradevicefault |  
+| bip_39_word_no_space_6 | neglectsmokecameradevicefaultahead |  
+| bip_39_word_no_space_7 | neglectsmokecameradevicefaultaheadparty |  
+| bip_39_word_no_space_8 | neglectsmokecameradevicefaultaheadpartytower |  
+| bip_39_word_no_space_9 | neglectsmokecameradevicefaultaheadpartytowerlanguage |  
 | bip_39_word_space_0 | ['neglect', 'smoke', 'camera', 'device', 'fault', 'ahead', 'party', 'tower', 'language', 'cave', 'march', 'arctic'] |  
 | bip_39_word_space_1 | neglect |  
 | bip_39_word_space_10 | neglect smoke camera device fault ahead party tower language cave |  

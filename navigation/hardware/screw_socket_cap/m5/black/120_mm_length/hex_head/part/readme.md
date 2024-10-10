@@ -122,6 +122,18 @@ receive
 topple
 crouch
 require |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturemuseumcherrydivorcepuddingreceivetopplecrouchrequireculture |  
+| bip_39_word_no_space_11 | naturemuseumcherrydivorcepuddingreceivetopplecrouchrequireculturefragile |  
+| bip_39_word_no_space_12 | naturemuseumcherrydivorcepuddingreceivetopplecrouchrequireculturefragileattend |  
+| bip_39_word_no_space_2 | naturemuseum |  
+| bip_39_word_no_space_3 | naturemuseumcherry |  
+| bip_39_word_no_space_4 | naturemuseumcherrydivorce |  
+| bip_39_word_no_space_5 | naturemuseumcherrydivorcepudding |  
+| bip_39_word_no_space_6 | naturemuseumcherrydivorcepuddingreceive |  
+| bip_39_word_no_space_7 | naturemuseumcherrydivorcepuddingreceivetopple |  
+| bip_39_word_no_space_8 | naturemuseumcherrydivorcepuddingreceivetopplecrouch |  
+| bip_39_word_no_space_9 | naturemuseumcherrydivorcepuddingreceivetopplecrouchrequire |  
 | bip_39_word_space_0 | ['nature', 'museum', 'cherry', 'divorce', 'pudding', 'receive', 'topple', 'crouch', 'require', 'culture', 'fragile', 'attend'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature museum cherry divorce pudding receive topple crouch require culture |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bubble
   exchange
 
   mango'
+bip_39_word_no_space_1: bubble
+bip_39_word_no_space_10: bubbleitemcubelistattendcityimitateexchangemangonominee
+bip_39_word_no_space_11: bubbleitemcubelistattendcityimitateexchangemangonomineegarbage
+bip_39_word_no_space_12: bubbleitemcubelistattendcityimitateexchangemangonomineegarbageactor
+bip_39_word_no_space_2: bubbleitem
+bip_39_word_no_space_3: bubbleitemcube
+bip_39_word_no_space_4: bubbleitemcubelist
+bip_39_word_no_space_5: bubbleitemcubelistattend
+bip_39_word_no_space_6: bubbleitemcubelistattendcity
+bip_39_word_no_space_7: bubbleitemcubelistattendcityimitate
+bip_39_word_no_space_8: bubbleitemcubelistattendcityimitateexchange
+bip_39_word_no_space_9: bubbleitemcubelistattendcityimitateexchangemango
 bip_39_word_space_0:
 - bubble
 - item

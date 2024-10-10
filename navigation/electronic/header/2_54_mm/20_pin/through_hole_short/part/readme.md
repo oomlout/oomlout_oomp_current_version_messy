@@ -122,6 +122,18 @@ drip
 paper
 special
 deputy |  
+| bip_39_word_no_space_1 | minor |  
+| bip_39_word_no_space_10 | minoruniquemustflushnoticedrippaperspecialdeputyconsider |  
+| bip_39_word_no_space_11 | minoruniquemustflushnoticedrippaperspecialdeputyconsiderportion |  
+| bip_39_word_no_space_12 | minoruniquemustflushnoticedrippaperspecialdeputyconsiderportionargue |  
+| bip_39_word_no_space_2 | minorunique |  
+| bip_39_word_no_space_3 | minoruniquemust |  
+| bip_39_word_no_space_4 | minoruniquemustflush |  
+| bip_39_word_no_space_5 | minoruniquemustflushnotice |  
+| bip_39_word_no_space_6 | minoruniquemustflushnoticedrip |  
+| bip_39_word_no_space_7 | minoruniquemustflushnoticedrippaper |  
+| bip_39_word_no_space_8 | minoruniquemustflushnoticedrippaperspecial |  
+| bip_39_word_no_space_9 | minoruniquemustflushnoticedrippaperspecialdeputy |  
 | bip_39_word_space_0 | ['minor', 'unique', 'must', 'flush', 'notice', 'drip', 'paper', 'special', 'deputy', 'consider', 'portion', 'argue'] |  
 | bip_39_word_space_1 | minor |  
 | bip_39_word_space_10 | minor unique must flush notice drip paper special deputy consider |  

@@ -122,6 +122,18 @@ plunge
 term
 slow
 state |  
+| bip_39_word_no_space_1 | lawn |  
+| bip_39_word_no_space_10 | lawngravitygapodorequipplungetermslowstatepole |  
+| bip_39_word_no_space_11 | lawngravitygapodorequipplungetermslowstatepolewage |  
+| bip_39_word_no_space_12 | lawngravitygapodorequipplungetermslowstatepolewagealways |  
+| bip_39_word_no_space_2 | lawngravity |  
+| bip_39_word_no_space_3 | lawngravitygap |  
+| bip_39_word_no_space_4 | lawngravitygapodor |  
+| bip_39_word_no_space_5 | lawngravitygapodorequip |  
+| bip_39_word_no_space_6 | lawngravitygapodorequipplunge |  
+| bip_39_word_no_space_7 | lawngravitygapodorequipplungeterm |  
+| bip_39_word_no_space_8 | lawngravitygapodorequipplungetermslow |  
+| bip_39_word_no_space_9 | lawngravitygapodorequipplungetermslowstate |  
 | bip_39_word_space_0 | ['lawn', 'gravity', 'gap', 'odor', 'equip', 'plunge', 'term', 'slow', 'state', 'pole', 'wage', 'always'] |  
 | bip_39_word_space_1 | lawn |  
 | bip_39_word_space_10 | lawn gravity gap odor equip plunge term slow state pole |  

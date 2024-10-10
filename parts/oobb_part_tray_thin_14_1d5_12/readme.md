@@ -122,6 +122,18 @@ satisfy
 board
 excess
 notice |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitjudgeexhaustfrogfabricsatisfyboardexcessnoticenight |  
+| bip_39_word_no_space_11 | limitjudgeexhaustfrogfabricsatisfyboardexcessnoticenightolympic |  
+| bip_39_word_no_space_12 | limitjudgeexhaustfrogfabricsatisfyboardexcessnoticenightolympicartwork |  
+| bip_39_word_no_space_2 | limitjudge |  
+| bip_39_word_no_space_3 | limitjudgeexhaust |  
+| bip_39_word_no_space_4 | limitjudgeexhaustfrog |  
+| bip_39_word_no_space_5 | limitjudgeexhaustfrogfabric |  
+| bip_39_word_no_space_6 | limitjudgeexhaustfrogfabricsatisfy |  
+| bip_39_word_no_space_7 | limitjudgeexhaustfrogfabricsatisfyboard |  
+| bip_39_word_no_space_8 | limitjudgeexhaustfrogfabricsatisfyboardexcess |  
+| bip_39_word_no_space_9 | limitjudgeexhaustfrogfabricsatisfyboardexcessnotice |  
 | bip_39_word_space_0 | ['limit', 'judge', 'exhaust', 'frog', 'fabric', 'satisfy', 'board', 'excess', 'notice', 'night', 'olympic', 'artwork'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit judge exhaust frog fabric satisfy board excess notice night |  

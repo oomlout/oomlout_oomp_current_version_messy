@@ -122,6 +122,18 @@ stumble
 asthma
 text
 embody |  
+| bip_39_word_no_space_1 | hat |  
+| bip_39_word_no_space_10 | hatswimsunsubmitcandystumbleasthmatextembodyguess |  
+| bip_39_word_no_space_11 | hatswimsunsubmitcandystumbleasthmatextembodyguessvicious |  
+| bip_39_word_no_space_12 | hatswimsunsubmitcandystumbleasthmatextembodyguessviciousannual |  
+| bip_39_word_no_space_2 | hatswim |  
+| bip_39_word_no_space_3 | hatswimsun |  
+| bip_39_word_no_space_4 | hatswimsunsubmit |  
+| bip_39_word_no_space_5 | hatswimsunsubmitcandy |  
+| bip_39_word_no_space_6 | hatswimsunsubmitcandystumble |  
+| bip_39_word_no_space_7 | hatswimsunsubmitcandystumbleasthma |  
+| bip_39_word_no_space_8 | hatswimsunsubmitcandystumbleasthmatext |  
+| bip_39_word_no_space_9 | hatswimsunsubmitcandystumbleasthmatextembody |  
 | bip_39_word_space_0 | ['hat', 'swim', 'sun', 'submit', 'candy', 'stumble', 'asthma', 'text', 'embody', 'guess', 'vicious', 'annual'] |  
 | bip_39_word_space_1 | hat |  
 | bip_39_word_space_10 | hat swim sun submit candy stumble asthma text embody guess |  

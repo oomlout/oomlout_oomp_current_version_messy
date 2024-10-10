@@ -122,6 +122,18 @@ lab
 morning
 satisfy
 crunch |  
+| bip_39_word_no_space_1 | promote |  
+| bip_39_word_no_space_10 | promotepencilmoregingerfatlabmorningsatisfycrunchprocess |  
+| bip_39_word_no_space_11 | promotepencilmoregingerfatlabmorningsatisfycrunchprocesspoem |  
+| bip_39_word_no_space_12 | promotepencilmoregingerfatlabmorningsatisfycrunchprocesspoemadvance |  
+| bip_39_word_no_space_2 | promotepencil |  
+| bip_39_word_no_space_3 | promotepencilmore |  
+| bip_39_word_no_space_4 | promotepencilmoreginger |  
+| bip_39_word_no_space_5 | promotepencilmoregingerfat |  
+| bip_39_word_no_space_6 | promotepencilmoregingerfatlab |  
+| bip_39_word_no_space_7 | promotepencilmoregingerfatlabmorning |  
+| bip_39_word_no_space_8 | promotepencilmoregingerfatlabmorningsatisfy |  
+| bip_39_word_no_space_9 | promotepencilmoregingerfatlabmorningsatisfycrunch |  
 | bip_39_word_space_0 | ['promote', 'pencil', 'more', 'ginger', 'fat', 'lab', 'morning', 'satisfy', 'crunch', 'process', 'poem', 'advance'] |  
 | bip_39_word_space_1 | promote |  
 | bip_39_word_space_10 | promote pencil more ginger fat lab morning satisfy crunch process |  

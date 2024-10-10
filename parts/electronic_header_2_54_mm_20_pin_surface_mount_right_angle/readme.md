@@ -122,6 +122,18 @@ sadness
 furnace
 room
 snack |  
+| bip_39_word_no_space_1 | state |  
+| bip_39_word_no_space_10 | statetalentcarryreformpandasadnessfurnaceroomsnackhurt |  
+| bip_39_word_no_space_11 | statetalentcarryreformpandasadnessfurnaceroomsnackhurtresemble |  
+| bip_39_word_no_space_12 | statetalentcarryreformpandasadnessfurnaceroomsnackhurtresembleattend |  
+| bip_39_word_no_space_2 | statetalent |  
+| bip_39_word_no_space_3 | statetalentcarry |  
+| bip_39_word_no_space_4 | statetalentcarryreform |  
+| bip_39_word_no_space_5 | statetalentcarryreformpanda |  
+| bip_39_word_no_space_6 | statetalentcarryreformpandasadness |  
+| bip_39_word_no_space_7 | statetalentcarryreformpandasadnessfurnace |  
+| bip_39_word_no_space_8 | statetalentcarryreformpandasadnessfurnaceroom |  
+| bip_39_word_no_space_9 | statetalentcarryreformpandasadnessfurnaceroomsnack |  
 | bip_39_word_space_0 | ['state', 'talent', 'carry', 'reform', 'panda', 'sadness', 'furnace', 'room', 'snack', 'hurt', 'resemble', 'attend'] |  
 | bip_39_word_space_1 | state |  
 | bip_39_word_space_10 | state talent carry reform panda sadness furnace room snack hurt |  

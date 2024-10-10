@@ -122,6 +122,18 @@ trust
 guilt
 onion
 miss |  
+| bip_39_word_no_space_1 | sadness |  
+| bip_39_word_no_space_10 | sadnesscabbagecupinformfrequenttrustguiltonionmissrhythm |  
+| bip_39_word_no_space_11 | sadnesscabbagecupinformfrequenttrustguiltonionmissrhythmpicture |  
+| bip_39_word_no_space_12 | sadnesscabbagecupinformfrequenttrustguiltonionmissrhythmpictureanalyst |  
+| bip_39_word_no_space_2 | sadnesscabbage |  
+| bip_39_word_no_space_3 | sadnesscabbagecup |  
+| bip_39_word_no_space_4 | sadnesscabbagecupinform |  
+| bip_39_word_no_space_5 | sadnesscabbagecupinformfrequent |  
+| bip_39_word_no_space_6 | sadnesscabbagecupinformfrequenttrust |  
+| bip_39_word_no_space_7 | sadnesscabbagecupinformfrequenttrustguilt |  
+| bip_39_word_no_space_8 | sadnesscabbagecupinformfrequenttrustguiltonion |  
+| bip_39_word_no_space_9 | sadnesscabbagecupinformfrequenttrustguiltonionmiss |  
 | bip_39_word_space_0 | ['sadness', 'cabbage', 'cup', 'inform', 'frequent', 'trust', 'guilt', 'onion', 'miss', 'rhythm', 'picture', 'analyst'] |  
 | bip_39_word_space_1 | sadness |  
 | bip_39_word_space_10 | sadness cabbage cup inform frequent trust guilt onion miss rhythm |  

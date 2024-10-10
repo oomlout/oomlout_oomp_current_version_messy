@@ -122,6 +122,18 @@ vacant
 flock
 floor
 document |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | seriesportionavoidborrowbreezevacantflockfloordocumentrefuse |  
+| bip_39_word_no_space_11 | seriesportionavoidborrowbreezevacantflockfloordocumentrefusephoto |  
+| bip_39_word_no_space_12 | seriesportionavoidborrowbreezevacantflockfloordocumentrefusephotoaverage |  
+| bip_39_word_no_space_2 | seriesportion |  
+| bip_39_word_no_space_3 | seriesportionavoid |  
+| bip_39_word_no_space_4 | seriesportionavoidborrow |  
+| bip_39_word_no_space_5 | seriesportionavoidborrowbreeze |  
+| bip_39_word_no_space_6 | seriesportionavoidborrowbreezevacant |  
+| bip_39_word_no_space_7 | seriesportionavoidborrowbreezevacantflock |  
+| bip_39_word_no_space_8 | seriesportionavoidborrowbreezevacantflockfloor |  
+| bip_39_word_no_space_9 | seriesportionavoidborrowbreezevacantflockfloordocument |  
 | bip_39_word_space_0 | ['series', 'portion', 'avoid', 'borrow', 'breeze', 'vacant', 'flock', 'floor', 'document', 'refuse', 'photo', 'average'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series portion avoid borrow breeze vacant flock floor document refuse |  

@@ -122,6 +122,18 @@ glow
 labor
 kidney
 pioneer |  
+| bip_39_word_no_space_1 | stuff |  
+| bip_39_word_no_space_10 | stuffupondetectprojectimageglowlaborkidneypioneeraverage |  
+| bip_39_word_no_space_11 | stuffupondetectprojectimageglowlaborkidneypioneeraveragecastle |  
+| bip_39_word_no_space_12 | stuffupondetectprojectimageglowlaborkidneypioneeraveragecastleattend |  
+| bip_39_word_no_space_2 | stuffupon |  
+| bip_39_word_no_space_3 | stuffupondetect |  
+| bip_39_word_no_space_4 | stuffupondetectproject |  
+| bip_39_word_no_space_5 | stuffupondetectprojectimage |  
+| bip_39_word_no_space_6 | stuffupondetectprojectimageglow |  
+| bip_39_word_no_space_7 | stuffupondetectprojectimageglowlabor |  
+| bip_39_word_no_space_8 | stuffupondetectprojectimageglowlaborkidney |  
+| bip_39_word_no_space_9 | stuffupondetectprojectimageglowlaborkidneypioneer |  
 | bip_39_word_space_0 | ['stuff', 'upon', 'detect', 'project', 'image', 'glow', 'labor', 'kidney', 'pioneer', 'average', 'castle', 'attend'] |  
 | bip_39_word_space_1 | stuff |  
 | bip_39_word_space_10 | stuff upon detect project image glow labor kidney pioneer average |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'field
   unusual
 
   crew'
+bip_39_word_no_space_1: field
+bip_39_word_no_space_10: fieldsilentgoldbelievewreckodorguardunusualcrewdisagree
+bip_39_word_no_space_11: fieldsilentgoldbelievewreckodorguardunusualcrewdisagreelaundry
+bip_39_word_no_space_12: fieldsilentgoldbelievewreckodorguardunusualcrewdisagreelaundryactual
+bip_39_word_no_space_2: fieldsilent
+bip_39_word_no_space_3: fieldsilentgold
+bip_39_word_no_space_4: fieldsilentgoldbelieve
+bip_39_word_no_space_5: fieldsilentgoldbelievewreck
+bip_39_word_no_space_6: fieldsilentgoldbelievewreckodor
+bip_39_word_no_space_7: fieldsilentgoldbelievewreckodorguard
+bip_39_word_no_space_8: fieldsilentgoldbelievewreckodorguardunusual
+bip_39_word_no_space_9: fieldsilentgoldbelievewreckodorguardunusualcrew
 bip_39_word_space_0:
 - field
 - silent

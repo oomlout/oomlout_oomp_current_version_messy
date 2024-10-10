@@ -122,6 +122,18 @@ pledge
 struggle
 leave
 hub |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueappledivorceboilhintpledgestruggleleavehuboctober |  
+| bip_39_word_no_space_11 | issueappledivorceboilhintpledgestruggleleavehuboctoberreason |  
+| bip_39_word_no_space_12 | issueappledivorceboilhintpledgestruggleleavehuboctoberreasonapprove |  
+| bip_39_word_no_space_2 | issueapple |  
+| bip_39_word_no_space_3 | issueappledivorce |  
+| bip_39_word_no_space_4 | issueappledivorceboil |  
+| bip_39_word_no_space_5 | issueappledivorceboilhint |  
+| bip_39_word_no_space_6 | issueappledivorceboilhintpledge |  
+| bip_39_word_no_space_7 | issueappledivorceboilhintpledgestruggle |  
+| bip_39_word_no_space_8 | issueappledivorceboilhintpledgestruggleleave |  
+| bip_39_word_no_space_9 | issueappledivorceboilhintpledgestruggleleavehub |  
 | bip_39_word_space_0 | ['issue', 'apple', 'divorce', 'boil', 'hint', 'pledge', 'struggle', 'leave', 'hub', 'october', 'reason', 'approve'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue apple divorce boil hint pledge struggle leave hub october |  

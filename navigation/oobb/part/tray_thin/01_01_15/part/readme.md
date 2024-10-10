@@ -122,6 +122,18 @@ wrestle
 answer
 city
 design |  
+| bip_39_word_no_space_1 | case |  
+| bip_39_word_no_space_10 | casespicefragileuniformhurdlewrestleanswercitydesignmule |  
+| bip_39_word_no_space_11 | casespicefragileuniformhurdlewrestleanswercitydesignmulestaff |  
+| bip_39_word_no_space_12 | casespicefragileuniformhurdlewrestleanswercitydesignmulestaffathlete |  
+| bip_39_word_no_space_2 | casespice |  
+| bip_39_word_no_space_3 | casespicefragile |  
+| bip_39_word_no_space_4 | casespicefragileuniform |  
+| bip_39_word_no_space_5 | casespicefragileuniformhurdle |  
+| bip_39_word_no_space_6 | casespicefragileuniformhurdlewrestle |  
+| bip_39_word_no_space_7 | casespicefragileuniformhurdlewrestleanswer |  
+| bip_39_word_no_space_8 | casespicefragileuniformhurdlewrestleanswercity |  
+| bip_39_word_no_space_9 | casespicefragileuniformhurdlewrestleanswercitydesign |  
 | bip_39_word_space_0 | ['case', 'spice', 'fragile', 'uniform', 'hurdle', 'wrestle', 'answer', 'city', 'design', 'mule', 'staff', 'athlete'] |  
 | bip_39_word_space_1 | case |  
 | bip_39_word_space_10 | case spice fragile uniform hurdle wrestle answer city design mule |  

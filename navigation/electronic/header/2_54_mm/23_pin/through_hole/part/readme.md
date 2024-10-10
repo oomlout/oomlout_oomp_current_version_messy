@@ -122,6 +122,18 @@ negative
 indicate
 virtual
 local |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelrecyclelawmeritsegmentnegativeindicatevirtuallocalrocket |  
+| bip_39_word_no_space_11 | modelrecyclelawmeritsegmentnegativeindicatevirtuallocalrocketdouble |  
+| bip_39_word_no_space_12 | modelrecyclelawmeritsegmentnegativeindicatevirtuallocalrocketdoubleauthor |  
+| bip_39_word_no_space_2 | modelrecycle |  
+| bip_39_word_no_space_3 | modelrecyclelaw |  
+| bip_39_word_no_space_4 | modelrecyclelawmerit |  
+| bip_39_word_no_space_5 | modelrecyclelawmeritsegment |  
+| bip_39_word_no_space_6 | modelrecyclelawmeritsegmentnegative |  
+| bip_39_word_no_space_7 | modelrecyclelawmeritsegmentnegativeindicate |  
+| bip_39_word_no_space_8 | modelrecyclelawmeritsegmentnegativeindicatevirtual |  
+| bip_39_word_no_space_9 | modelrecyclelawmeritsegmentnegativeindicatevirtuallocal |  
 | bip_39_word_space_0 | ['model', 'recycle', 'law', 'merit', 'segment', 'negative', 'indicate', 'virtual', 'local', 'rocket', 'double', 'author'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model recycle law merit segment negative indicate virtual local rocket |  

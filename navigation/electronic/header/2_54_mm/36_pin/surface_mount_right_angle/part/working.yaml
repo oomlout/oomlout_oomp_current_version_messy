@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stage
   cruel
 
   gas'
+bip_39_word_no_space_1: stage
+bip_39_word_no_space_10: stagearrestearthtoolglancenearawakecruelgascanoe
+bip_39_word_no_space_11: stagearrestearthtoolglancenearawakecruelgascanoewire
+bip_39_word_no_space_12: stagearrestearthtoolglancenearawakecruelgascanoewirealert
+bip_39_word_no_space_2: stagearrest
+bip_39_word_no_space_3: stagearrestearth
+bip_39_word_no_space_4: stagearrestearthtool
+bip_39_word_no_space_5: stagearrestearthtoolglance
+bip_39_word_no_space_6: stagearrestearthtoolglancenear
+bip_39_word_no_space_7: stagearrestearthtoolglancenearawake
+bip_39_word_no_space_8: stagearrestearthtoolglancenearawakecruel
+bip_39_word_no_space_9: stagearrestearthtoolglancenearawakecruelgas
 bip_39_word_space_0:
 - stage
 - arrest

@@ -122,6 +122,18 @@ hard
 flee
 electric
 fiscal |  
+| bip_39_word_no_space_1 | piece |  
+| bip_39_word_no_space_10 | piecekittenprefersilentrallyhardfleeelectricfiscalsoup |  
+| bip_39_word_no_space_11 | piecekittenprefersilentrallyhardfleeelectricfiscalsoupsix |  
+| bip_39_word_no_space_12 | piecekittenprefersilentrallyhardfleeelectricfiscalsoupsixagent |  
+| bip_39_word_no_space_2 | piecekitten |  
+| bip_39_word_no_space_3 | piecekittenprefer |  
+| bip_39_word_no_space_4 | piecekittenprefersilent |  
+| bip_39_word_no_space_5 | piecekittenprefersilentrally |  
+| bip_39_word_no_space_6 | piecekittenprefersilentrallyhard |  
+| bip_39_word_no_space_7 | piecekittenprefersilentrallyhardflee |  
+| bip_39_word_no_space_8 | piecekittenprefersilentrallyhardfleeelectric |  
+| bip_39_word_no_space_9 | piecekittenprefersilentrallyhardfleeelectricfiscal |  
 | bip_39_word_space_0 | ['piece', 'kitten', 'prefer', 'silent', 'rally', 'hard', 'flee', 'electric', 'fiscal', 'soup', 'six', 'agent'] |  
 | bip_39_word_space_1 | piece |  
 | bip_39_word_space_10 | piece kitten prefer silent rally hard flee electric fiscal soup |  

@@ -122,6 +122,18 @@ priority
 clog
 assist
 ugly |  
+| bip_39_word_no_space_1 | delay |  
+| bip_39_word_no_space_10 | delayhurdletortoisehintmysterypriorityclogassistuglyfold |  
+| bip_39_word_no_space_11 | delayhurdletortoisehintmysterypriorityclogassistuglyfoldpumpkin |  
+| bip_39_word_no_space_12 | delayhurdletortoisehintmysterypriorityclogassistuglyfoldpumpkinagain |  
+| bip_39_word_no_space_2 | delayhurdle |  
+| bip_39_word_no_space_3 | delayhurdletortoise |  
+| bip_39_word_no_space_4 | delayhurdletortoisehint |  
+| bip_39_word_no_space_5 | delayhurdletortoisehintmystery |  
+| bip_39_word_no_space_6 | delayhurdletortoisehintmysterypriority |  
+| bip_39_word_no_space_7 | delayhurdletortoisehintmysterypriorityclog |  
+| bip_39_word_no_space_8 | delayhurdletortoisehintmysterypriorityclogassist |  
+| bip_39_word_no_space_9 | delayhurdletortoisehintmysterypriorityclogassistugly |  
 | bip_39_word_space_0 | ['delay', 'hurdle', 'tortoise', 'hint', 'mystery', 'priority', 'clog', 'assist', 'ugly', 'fold', 'pumpkin', 'again'] |  
 | bip_39_word_space_1 | delay |  
 | bip_39_word_space_10 | delay hurdle tortoise hint mystery priority clog assist ugly fold |  

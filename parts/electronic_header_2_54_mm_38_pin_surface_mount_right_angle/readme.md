@@ -122,6 +122,18 @@ panda
 submit
 clown
 owner |  
+| bip_39_word_no_space_1 | check |  
+| bip_39_word_no_space_10 | checkartistpowernoseflowerpandasubmitclownownerpermit |  
+| bip_39_word_no_space_11 | checkartistpowernoseflowerpandasubmitclownownerpermitorder |  
+| bip_39_word_no_space_12 | checkartistpowernoseflowerpandasubmitclownownerpermitorderalbum |  
+| bip_39_word_no_space_2 | checkartist |  
+| bip_39_word_no_space_3 | checkartistpower |  
+| bip_39_word_no_space_4 | checkartistpowernose |  
+| bip_39_word_no_space_5 | checkartistpowernoseflower |  
+| bip_39_word_no_space_6 | checkartistpowernoseflowerpanda |  
+| bip_39_word_no_space_7 | checkartistpowernoseflowerpandasubmit |  
+| bip_39_word_no_space_8 | checkartistpowernoseflowerpandasubmitclown |  
+| bip_39_word_no_space_9 | checkartistpowernoseflowerpandasubmitclownowner |  
 | bip_39_word_space_0 | ['check', 'artist', 'power', 'nose', 'flower', 'panda', 'submit', 'clown', 'owner', 'permit', 'order', 'album'] |  
 | bip_39_word_space_1 | check |  
 | bip_39_word_space_10 | check artist power nose flower panda submit clown owner permit |  

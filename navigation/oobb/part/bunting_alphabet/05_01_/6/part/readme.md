@@ -122,6 +122,18 @@ east
 wealth
 amazing
 wave |  
+| bip_39_word_no_space_1 | fatigue |  
+| bip_39_word_no_space_10 | fatiguediscoverrooftigerantiqueeastwealthamazingwavecrisp |  
+| bip_39_word_no_space_11 | fatiguediscoverrooftigerantiqueeastwealthamazingwavecrispfuel |  
+| bip_39_word_no_space_12 | fatiguediscoverrooftigerantiqueeastwealthamazingwavecrispfuelacoustic |  
+| bip_39_word_no_space_2 | fatiguediscover |  
+| bip_39_word_no_space_3 | fatiguediscoverroof |  
+| bip_39_word_no_space_4 | fatiguediscoverrooftiger |  
+| bip_39_word_no_space_5 | fatiguediscoverrooftigerantique |  
+| bip_39_word_no_space_6 | fatiguediscoverrooftigerantiqueeast |  
+| bip_39_word_no_space_7 | fatiguediscoverrooftigerantiqueeastwealth |  
+| bip_39_word_no_space_8 | fatiguediscoverrooftigerantiqueeastwealthamazing |  
+| bip_39_word_no_space_9 | fatiguediscoverrooftigerantiqueeastwealthamazingwave |  
 | bip_39_word_space_0 | ['fatigue', 'discover', 'roof', 'tiger', 'antique', 'east', 'wealth', 'amazing', 'wave', 'crisp', 'fuel', 'acoustic'] |  
 | bip_39_word_space_1 | fatigue |  
 | bip_39_word_space_10 | fatigue discover roof tiger antique east wealth amazing wave crisp |  

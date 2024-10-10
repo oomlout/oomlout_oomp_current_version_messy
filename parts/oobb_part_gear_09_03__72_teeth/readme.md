@@ -122,6 +122,18 @@ october
 volcano
 onion
 bag |  
+| bip_39_word_no_space_1 | system |  
+| bip_39_word_no_space_10 | systemfebruaryozonetoothcousinoctobervolcanoonionbagresist |  
+| bip_39_word_no_space_11 | systemfebruaryozonetoothcousinoctobervolcanoonionbagresisttaxi |  
+| bip_39_word_no_space_12 | systemfebruaryozonetoothcousinoctobervolcanoonionbagresisttaxiabove |  
+| bip_39_word_no_space_2 | systemfebruary |  
+| bip_39_word_no_space_3 | systemfebruaryozone |  
+| bip_39_word_no_space_4 | systemfebruaryozonetooth |  
+| bip_39_word_no_space_5 | systemfebruaryozonetoothcousin |  
+| bip_39_word_no_space_6 | systemfebruaryozonetoothcousinoctober |  
+| bip_39_word_no_space_7 | systemfebruaryozonetoothcousinoctobervolcano |  
+| bip_39_word_no_space_8 | systemfebruaryozonetoothcousinoctobervolcanoonion |  
+| bip_39_word_no_space_9 | systemfebruaryozonetoothcousinoctobervolcanoonionbag |  
 | bip_39_word_space_0 | ['system', 'february', 'ozone', 'tooth', 'cousin', 'october', 'volcano', 'onion', 'bag', 'resist', 'taxi', 'above'] |  
 | bip_39_word_space_1 | system |  
 | bip_39_word_space_10 | system february ozone tooth cousin october volcano onion bag resist |  

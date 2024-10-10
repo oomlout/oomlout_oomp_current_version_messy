@@ -122,6 +122,18 @@ stadium
 melt
 mammal
 model |  
+| bip_39_word_no_space_1 | city |  
+| bip_39_word_no_space_10 | cityteachforgetlargeintactstadiummeltmammalmodelupdate |  
+| bip_39_word_no_space_11 | cityteachforgetlargeintactstadiummeltmammalmodelupdatesorry |  
+| bip_39_word_no_space_12 | cityteachforgetlargeintactstadiummeltmammalmodelupdatesorryaccuse |  
+| bip_39_word_no_space_2 | cityteach |  
+| bip_39_word_no_space_3 | cityteachforget |  
+| bip_39_word_no_space_4 | cityteachforgetlarge |  
+| bip_39_word_no_space_5 | cityteachforgetlargeintact |  
+| bip_39_word_no_space_6 | cityteachforgetlargeintactstadium |  
+| bip_39_word_no_space_7 | cityteachforgetlargeintactstadiummelt |  
+| bip_39_word_no_space_8 | cityteachforgetlargeintactstadiummeltmammal |  
+| bip_39_word_no_space_9 | cityteachforgetlargeintactstadiummeltmammalmodel |  
 | bip_39_word_space_0 | ['city', 'teach', 'forget', 'large', 'intact', 'stadium', 'melt', 'mammal', 'model', 'update', 'sorry', 'accuse'] |  
 | bip_39_word_space_1 | city |  
 | bip_39_word_space_10 | city teach forget large intact stadium melt mammal model update |  

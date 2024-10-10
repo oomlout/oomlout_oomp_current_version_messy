@@ -122,6 +122,18 @@ earth
 adapt
 violin
 kick |  
+| bip_39_word_no_space_1 | phone |  
+| bip_39_word_no_space_10 | phonehorsedevoteticketislandearthadaptviolinkickheavy |  
+| bip_39_word_no_space_11 | phonehorsedevoteticketislandearthadaptviolinkickheavyart |  
+| bip_39_word_no_space_12 | phonehorsedevoteticketislandearthadaptviolinkickheavyartaunt |  
+| bip_39_word_no_space_2 | phonehorse |  
+| bip_39_word_no_space_3 | phonehorsedevote |  
+| bip_39_word_no_space_4 | phonehorsedevoteticket |  
+| bip_39_word_no_space_5 | phonehorsedevoteticketisland |  
+| bip_39_word_no_space_6 | phonehorsedevoteticketislandearth |  
+| bip_39_word_no_space_7 | phonehorsedevoteticketislandearthadapt |  
+| bip_39_word_no_space_8 | phonehorsedevoteticketislandearthadaptviolin |  
+| bip_39_word_no_space_9 | phonehorsedevoteticketislandearthadaptviolinkick |  
 | bip_39_word_space_0 | ['phone', 'horse', 'devote', 'ticket', 'island', 'earth', 'adapt', 'violin', 'kick', 'heavy', 'art', 'aunt'] |  
 | bip_39_word_space_1 | phone |  
 | bip_39_word_space_10 | phone horse devote ticket island earth adapt violin kick heavy |  

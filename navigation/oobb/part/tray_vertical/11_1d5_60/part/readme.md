@@ -122,6 +122,18 @@ spy
 ten
 melody
 upset |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removeenrichhopemobileenemyspytenmelodyupsetfragile |  
+| bip_39_word_no_space_11 | removeenrichhopemobileenemyspytenmelodyupsetfragilepolice |  
+| bip_39_word_no_space_12 | removeenrichhopemobileenemyspytenmelodyupsetfragilepoliceauthor |  
+| bip_39_word_no_space_2 | removeenrich |  
+| bip_39_word_no_space_3 | removeenrichhope |  
+| bip_39_word_no_space_4 | removeenrichhopemobile |  
+| bip_39_word_no_space_5 | removeenrichhopemobileenemy |  
+| bip_39_word_no_space_6 | removeenrichhopemobileenemyspy |  
+| bip_39_word_no_space_7 | removeenrichhopemobileenemyspyten |  
+| bip_39_word_no_space_8 | removeenrichhopemobileenemyspytenmelody |  
+| bip_39_word_no_space_9 | removeenrichhopemobileenemyspytenmelodyupset |  
 | bip_39_word_space_0 | ['remove', 'enrich', 'hope', 'mobile', 'enemy', 'spy', 'ten', 'melody', 'upset', 'fragile', 'police', 'author'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove enrich hope mobile enemy spy ten melody upset fragile |  

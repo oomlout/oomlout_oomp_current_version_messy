@@ -122,6 +122,18 @@ hidden
 must
 beyond
 tribe |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchtonightautumncuriousfloathiddenmustbeyondtribewarrior |  
+| bip_39_word_no_space_11 | patchtonightautumncuriousfloathiddenmustbeyondtribewarriorsun |  
+| bip_39_word_no_space_12 | patchtonightautumncuriousfloathiddenmustbeyondtribewarriorsunaddress |  
+| bip_39_word_no_space_2 | patchtonight |  
+| bip_39_word_no_space_3 | patchtonightautumn |  
+| bip_39_word_no_space_4 | patchtonightautumncurious |  
+| bip_39_word_no_space_5 | patchtonightautumncuriousfloat |  
+| bip_39_word_no_space_6 | patchtonightautumncuriousfloathidden |  
+| bip_39_word_no_space_7 | patchtonightautumncuriousfloathiddenmust |  
+| bip_39_word_no_space_8 | patchtonightautumncuriousfloathiddenmustbeyond |  
+| bip_39_word_no_space_9 | patchtonightautumncuriousfloathiddenmustbeyondtribe |  
 | bip_39_word_space_0 | ['patch', 'tonight', 'autumn', 'curious', 'float', 'hidden', 'must', 'beyond', 'tribe', 'warrior', 'sun', 'address'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch tonight autumn curious float hidden must beyond tribe warrior |  

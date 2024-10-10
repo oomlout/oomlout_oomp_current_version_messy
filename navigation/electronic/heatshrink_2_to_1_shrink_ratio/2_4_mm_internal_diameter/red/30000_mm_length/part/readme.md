@@ -122,6 +122,18 @@ exchange
 throw
 ahead
 surge |  
+| bip_39_word_no_space_1 | universe |  
+| bip_39_word_no_space_10 | universefaithspatialcoconutcallexchangethrowaheadsurgematter |  
+| bip_39_word_no_space_11 | universefaithspatialcoconutcallexchangethrowaheadsurgemattermiddle |  
+| bip_39_word_no_space_12 | universefaithspatialcoconutcallexchangethrowaheadsurgemattermiddleancient |  
+| bip_39_word_no_space_2 | universefaith |  
+| bip_39_word_no_space_3 | universefaithspatial |  
+| bip_39_word_no_space_4 | universefaithspatialcoconut |  
+| bip_39_word_no_space_5 | universefaithspatialcoconutcall |  
+| bip_39_word_no_space_6 | universefaithspatialcoconutcallexchange |  
+| bip_39_word_no_space_7 | universefaithspatialcoconutcallexchangethrow |  
+| bip_39_word_no_space_8 | universefaithspatialcoconutcallexchangethrowahead |  
+| bip_39_word_no_space_9 | universefaithspatialcoconutcallexchangethrowaheadsurge |  
 | bip_39_word_space_0 | ['universe', 'faith', 'spatial', 'coconut', 'call', 'exchange', 'throw', 'ahead', 'surge', 'matter', 'middle', 'ancient'] |  
 | bip_39_word_space_1 | universe |  
 | bip_39_word_space_10 | universe faith spatial coconut call exchange throw ahead surge matter |  

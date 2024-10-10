@@ -122,6 +122,18 @@ gaze
 fringe
 faint
 they |  
+| bip_39_word_no_space_1 | figure |  
+| bip_39_word_no_space_10 | figurewaterpleasestablesatoshigazefringefainttheypower |  
+| bip_39_word_no_space_11 | figurewaterpleasestablesatoshigazefringefainttheypowerradar |  
+| bip_39_word_no_space_12 | figurewaterpleasestablesatoshigazefringefainttheypowerradarany |  
+| bip_39_word_no_space_2 | figurewater |  
+| bip_39_word_no_space_3 | figurewaterplease |  
+| bip_39_word_no_space_4 | figurewaterpleasestable |  
+| bip_39_word_no_space_5 | figurewaterpleasestablesatoshi |  
+| bip_39_word_no_space_6 | figurewaterpleasestablesatoshigaze |  
+| bip_39_word_no_space_7 | figurewaterpleasestablesatoshigazefringe |  
+| bip_39_word_no_space_8 | figurewaterpleasestablesatoshigazefringefaint |  
+| bip_39_word_no_space_9 | figurewaterpleasestablesatoshigazefringefaintthey |  
 | bip_39_word_space_0 | ['figure', 'water', 'please', 'stable', 'satoshi', 'gaze', 'fringe', 'faint', 'they', 'power', 'radar', 'any'] |  
 | bip_39_word_space_1 | figure |  
 | bip_39_word_space_10 | figure water please stable satoshi gaze fringe faint they power |  

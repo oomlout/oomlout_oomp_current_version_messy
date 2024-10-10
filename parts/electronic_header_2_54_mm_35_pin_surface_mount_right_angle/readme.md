@@ -122,6 +122,18 @@ dice
 fiscal
 obey
 sudden |  
+| bip_39_word_no_space_1 | move |  
+| bip_39_word_no_space_10 | movepulsedivideaccountstilldicefiscalobeysuddenissue |  
+| bip_39_word_no_space_11 | movepulsedivideaccountstilldicefiscalobeysuddenissueweb |  
+| bip_39_word_no_space_12 | movepulsedivideaccountstilldicefiscalobeysuddenissuewebalso |  
+| bip_39_word_no_space_2 | movepulse |  
+| bip_39_word_no_space_3 | movepulsedivide |  
+| bip_39_word_no_space_4 | movepulsedivideaccount |  
+| bip_39_word_no_space_5 | movepulsedivideaccountstill |  
+| bip_39_word_no_space_6 | movepulsedivideaccountstilldice |  
+| bip_39_word_no_space_7 | movepulsedivideaccountstilldicefiscal |  
+| bip_39_word_no_space_8 | movepulsedivideaccountstilldicefiscalobey |  
+| bip_39_word_no_space_9 | movepulsedivideaccountstilldicefiscalobeysudden |  
 | bip_39_word_space_0 | ['move', 'pulse', 'divide', 'account', 'still', 'dice', 'fiscal', 'obey', 'sudden', 'issue', 'web', 'also'] |  
 | bip_39_word_space_1 | move |  
 | bip_39_word_space_10 | move pulse divide account still dice fiscal obey sudden issue |  

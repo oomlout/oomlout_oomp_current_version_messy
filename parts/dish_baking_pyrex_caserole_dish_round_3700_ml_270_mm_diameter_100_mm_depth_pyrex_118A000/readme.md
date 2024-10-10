@@ -122,6 +122,18 @@ seminar
 window
 rely
 neutral |  
+| bip_39_word_no_space_1 | dove |  
+| bip_39_word_no_space_10 | dovevillageclarifytoastderiveseminarwindowrelyneutralranch |  
+| bip_39_word_no_space_11 | dovevillageclarifytoastderiveseminarwindowrelyneutralranchdecade |  
+| bip_39_word_no_space_12 | dovevillageclarifytoastderiveseminarwindowrelyneutralranchdecadeauction |  
+| bip_39_word_no_space_2 | dovevillage |  
+| bip_39_word_no_space_3 | dovevillageclarify |  
+| bip_39_word_no_space_4 | dovevillageclarifytoast |  
+| bip_39_word_no_space_5 | dovevillageclarifytoastderive |  
+| bip_39_word_no_space_6 | dovevillageclarifytoastderiveseminar |  
+| bip_39_word_no_space_7 | dovevillageclarifytoastderiveseminarwindow |  
+| bip_39_word_no_space_8 | dovevillageclarifytoastderiveseminarwindowrely |  
+| bip_39_word_no_space_9 | dovevillageclarifytoastderiveseminarwindowrelyneutral |  
 | bip_39_word_space_0 | ['dove', 'village', 'clarify', 'toast', 'derive', 'seminar', 'window', 'rely', 'neutral', 'ranch', 'decade', 'auction'] |  
 | bip_39_word_space_1 | dove |  
 | bip_39_word_space_10 | dove village clarify toast derive seminar window rely neutral ranch |  

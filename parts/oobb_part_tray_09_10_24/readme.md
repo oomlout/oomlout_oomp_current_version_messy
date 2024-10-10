@@ -122,6 +122,18 @@ magic
 walk
 pottery
 pumpkin |  
+| bip_39_word_no_space_1 | taste |  
+| bip_39_word_no_space_10 | tastediagramguidecubepanicmagicwalkpotterypumpkinthumb |  
+| bip_39_word_no_space_11 | tastediagramguidecubepanicmagicwalkpotterypumpkinthumbput |  
+| bip_39_word_no_space_12 | tastediagramguidecubepanicmagicwalkpotterypumpkinthumbputartist |  
+| bip_39_word_no_space_2 | tastediagram |  
+| bip_39_word_no_space_3 | tastediagramguide |  
+| bip_39_word_no_space_4 | tastediagramguidecube |  
+| bip_39_word_no_space_5 | tastediagramguidecubepanic |  
+| bip_39_word_no_space_6 | tastediagramguidecubepanicmagic |  
+| bip_39_word_no_space_7 | tastediagramguidecubepanicmagicwalk |  
+| bip_39_word_no_space_8 | tastediagramguidecubepanicmagicwalkpottery |  
+| bip_39_word_no_space_9 | tastediagramguidecubepanicmagicwalkpotterypumpkin |  
 | bip_39_word_space_0 | ['taste', 'diagram', 'guide', 'cube', 'panic', 'magic', 'walk', 'pottery', 'pumpkin', 'thumb', 'put', 'artist'] |  
 | bip_39_word_space_1 | taste |  
 | bip_39_word_space_10 | taste diagram guide cube panic magic walk pottery pumpkin thumb |  

@@ -122,6 +122,18 @@ panel
 quick
 warfare
 sure |  
+| bip_39_word_no_space_1 | alert |  
+| bip_39_word_no_space_10 | alertembracearrestmeadowlibertypanelquickwarfaresurequote |  
+| bip_39_word_no_space_11 | alertembracearrestmeadowlibertypanelquickwarfaresurequotezoo |  
+| bip_39_word_no_space_12 | alertembracearrestmeadowlibertypanelquickwarfaresurequotezooalways |  
+| bip_39_word_no_space_2 | alertembrace |  
+| bip_39_word_no_space_3 | alertembracearrest |  
+| bip_39_word_no_space_4 | alertembracearrestmeadow |  
+| bip_39_word_no_space_5 | alertembracearrestmeadowliberty |  
+| bip_39_word_no_space_6 | alertembracearrestmeadowlibertypanel |  
+| bip_39_word_no_space_7 | alertembracearrestmeadowlibertypanelquick |  
+| bip_39_word_no_space_8 | alertembracearrestmeadowlibertypanelquickwarfare |  
+| bip_39_word_no_space_9 | alertembracearrestmeadowlibertypanelquickwarfaresure |  
 | bip_39_word_space_0 | ['alert', 'embrace', 'arrest', 'meadow', 'liberty', 'panel', 'quick', 'warfare', 'sure', 'quote', 'zoo', 'always'] |  
 | bip_39_word_space_1 | alert |  
 | bip_39_word_space_10 | alert embrace arrest meadow liberty panel quick warfare sure quote |  

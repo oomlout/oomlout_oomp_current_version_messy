@@ -122,6 +122,18 @@ rain
 attack
 spoon
 horror |  
+| bip_39_word_no_space_1 | exhaust |  
+| bip_39_word_no_space_10 | exhaustblastforwardturtlepracticerainattackspoonhorrorboat |  
+| bip_39_word_no_space_11 | exhaustblastforwardturtlepracticerainattackspoonhorrorboatalready |  
+| bip_39_word_no_space_12 | exhaustblastforwardturtlepracticerainattackspoonhorrorboatalreadyasthma |  
+| bip_39_word_no_space_2 | exhaustblast |  
+| bip_39_word_no_space_3 | exhaustblastforward |  
+| bip_39_word_no_space_4 | exhaustblastforwardturtle |  
+| bip_39_word_no_space_5 | exhaustblastforwardturtlepractice |  
+| bip_39_word_no_space_6 | exhaustblastforwardturtlepracticerain |  
+| bip_39_word_no_space_7 | exhaustblastforwardturtlepracticerainattack |  
+| bip_39_word_no_space_8 | exhaustblastforwardturtlepracticerainattackspoon |  
+| bip_39_word_no_space_9 | exhaustblastforwardturtlepracticerainattackspoonhorror |  
 | bip_39_word_space_0 | ['exhaust', 'blast', 'forward', 'turtle', 'practice', 'rain', 'attack', 'spoon', 'horror', 'boat', 'already', 'asthma'] |  
 | bip_39_word_space_1 | exhaust |  
 | bip_39_word_space_10 | exhaust blast forward turtle practice rain attack spoon horror boat |  

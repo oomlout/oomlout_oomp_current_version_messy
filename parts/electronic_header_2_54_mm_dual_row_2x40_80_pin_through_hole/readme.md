@@ -122,6 +122,18 @@ curtain
 also
 report
 alpha |  
+| bip_39_word_no_space_1 | book |  
+| bip_39_word_no_space_10 | booklunchlibrarytripcheesecurtainalsoreportalphaliquid |  
+| bip_39_word_no_space_11 | booklunchlibrarytripcheesecurtainalsoreportalphaliquidtool |  
+| bip_39_word_no_space_12 | booklunchlibrarytripcheesecurtainalsoreportalphaliquidtoolauction |  
+| bip_39_word_no_space_2 | booklunch |  
+| bip_39_word_no_space_3 | booklunchlibrary |  
+| bip_39_word_no_space_4 | booklunchlibrarytrip |  
+| bip_39_word_no_space_5 | booklunchlibrarytripcheese |  
+| bip_39_word_no_space_6 | booklunchlibrarytripcheesecurtain |  
+| bip_39_word_no_space_7 | booklunchlibrarytripcheesecurtainalso |  
+| bip_39_word_no_space_8 | booklunchlibrarytripcheesecurtainalsoreport |  
+| bip_39_word_no_space_9 | booklunchlibrarytripcheesecurtainalsoreportalpha |  
 | bip_39_word_space_0 | ['book', 'lunch', 'library', 'trip', 'cheese', 'curtain', 'also', 'report', 'alpha', 'liquid', 'tool', 'auction'] |  
 | bip_39_word_space_1 | book |  
 | bip_39_word_space_10 | book lunch library trip cheese curtain also report alpha liquid |  

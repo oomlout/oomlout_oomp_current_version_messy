@@ -122,6 +122,18 @@ arrive
 satoshi
 floor
 disagree |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftmarblespendmaterialbasearrivesatoshifloordisagreeapple |  
+| bip_39_word_no_space_11 | giftmarblespendmaterialbasearrivesatoshifloordisagreeapplewave |  
+| bip_39_word_no_space_12 | giftmarblespendmaterialbasearrivesatoshifloordisagreeapplewaveaddress |  
+| bip_39_word_no_space_2 | giftmarble |  
+| bip_39_word_no_space_3 | giftmarblespend |  
+| bip_39_word_no_space_4 | giftmarblespendmaterial |  
+| bip_39_word_no_space_5 | giftmarblespendmaterialbase |  
+| bip_39_word_no_space_6 | giftmarblespendmaterialbasearrive |  
+| bip_39_word_no_space_7 | giftmarblespendmaterialbasearrivesatoshi |  
+| bip_39_word_no_space_8 | giftmarblespendmaterialbasearrivesatoshifloor |  
+| bip_39_word_no_space_9 | giftmarblespendmaterialbasearrivesatoshifloordisagree |  
 | bip_39_word_space_0 | ['gift', 'marble', 'spend', 'material', 'base', 'arrive', 'satoshi', 'floor', 'disagree', 'apple', 'wave', 'address'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift marble spend material base arrive satoshi floor disagree apple |  

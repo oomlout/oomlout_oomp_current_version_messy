@@ -122,6 +122,18 @@ disease
 hub
 clutch
 tip |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavehoneycensussevenhugediseasehubclutchtipillness |  
+| bip_39_word_no_space_11 | cavehoneycensussevenhugediseasehubclutchtipillnessmethod |  
+| bip_39_word_no_space_12 | cavehoneycensussevenhugediseasehubclutchtipillnessmethodacoustic |  
+| bip_39_word_no_space_2 | cavehoney |  
+| bip_39_word_no_space_3 | cavehoneycensus |  
+| bip_39_word_no_space_4 | cavehoneycensusseven |  
+| bip_39_word_no_space_5 | cavehoneycensussevenhuge |  
+| bip_39_word_no_space_6 | cavehoneycensussevenhugedisease |  
+| bip_39_word_no_space_7 | cavehoneycensussevenhugediseasehub |  
+| bip_39_word_no_space_8 | cavehoneycensussevenhugediseasehubclutch |  
+| bip_39_word_no_space_9 | cavehoneycensussevenhugediseasehubclutchtip |  
 | bip_39_word_space_0 | ['cave', 'honey', 'census', 'seven', 'huge', 'disease', 'hub', 'clutch', 'tip', 'illness', 'method', 'acoustic'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave honey census seven huge disease hub clutch tip illness |  

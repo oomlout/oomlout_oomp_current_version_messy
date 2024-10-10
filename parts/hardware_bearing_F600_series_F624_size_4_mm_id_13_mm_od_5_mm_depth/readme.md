@@ -122,6 +122,18 @@ verify
 proud
 comfort
 drill |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netreformspringlocalnephewverifyproudcomfortdrillshift |  
+| bip_39_word_no_space_11 | netreformspringlocalnephewverifyproudcomfortdrillshiftwhale |  
+| bip_39_word_no_space_12 | netreformspringlocalnephewverifyproudcomfortdrillshiftwhaleaunt |  
+| bip_39_word_no_space_2 | netreform |  
+| bip_39_word_no_space_3 | netreformspring |  
+| bip_39_word_no_space_4 | netreformspringlocal |  
+| bip_39_word_no_space_5 | netreformspringlocalnephew |  
+| bip_39_word_no_space_6 | netreformspringlocalnephewverify |  
+| bip_39_word_no_space_7 | netreformspringlocalnephewverifyproud |  
+| bip_39_word_no_space_8 | netreformspringlocalnephewverifyproudcomfort |  
+| bip_39_word_no_space_9 | netreformspringlocalnephewverifyproudcomfortdrill |  
 | bip_39_word_space_0 | ['net', 'reform', 'spring', 'local', 'nephew', 'verify', 'proud', 'comfort', 'drill', 'shift', 'whale', 'aunt'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net reform spring local nephew verify proud comfort drill shift |  

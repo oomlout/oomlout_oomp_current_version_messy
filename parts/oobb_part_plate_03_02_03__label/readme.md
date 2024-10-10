@@ -122,6 +122,18 @@ finger
 faint
 evoke
 major |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toepolarfrozenpreferelectricfingerfaintevokemajorlive |  
+| bip_39_word_no_space_11 | toepolarfrozenpreferelectricfingerfaintevokemajorlivefemale |  
+| bip_39_word_no_space_12 | toepolarfrozenpreferelectricfingerfaintevokemajorlivefemaleasthma |  
+| bip_39_word_no_space_2 | toepolar |  
+| bip_39_word_no_space_3 | toepolarfrozen |  
+| bip_39_word_no_space_4 | toepolarfrozenprefer |  
+| bip_39_word_no_space_5 | toepolarfrozenpreferelectric |  
+| bip_39_word_no_space_6 | toepolarfrozenpreferelectricfinger |  
+| bip_39_word_no_space_7 | toepolarfrozenpreferelectricfingerfaint |  
+| bip_39_word_no_space_8 | toepolarfrozenpreferelectricfingerfaintevoke |  
+| bip_39_word_no_space_9 | toepolarfrozenpreferelectricfingerfaintevokemajor |  
 | bip_39_word_space_0 | ['toe', 'polar', 'frozen', 'prefer', 'electric', 'finger', 'faint', 'evoke', 'major', 'live', 'female', 'asthma'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe polar frozen prefer electric finger faint evoke major live |  

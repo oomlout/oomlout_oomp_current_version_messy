@@ -122,6 +122,18 @@ word
 roast
 crime
 magic |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | phototigervoyagebeforetiredwordroastcrimemagiclab |  
+| bip_39_word_no_space_11 | phototigervoyagebeforetiredwordroastcrimemagiclabfan |  
+| bip_39_word_no_space_12 | phototigervoyagebeforetiredwordroastcrimemagiclabfanasthma |  
+| bip_39_word_no_space_2 | phototiger |  
+| bip_39_word_no_space_3 | phototigervoyage |  
+| bip_39_word_no_space_4 | phototigervoyagebefore |  
+| bip_39_word_no_space_5 | phototigervoyagebeforetired |  
+| bip_39_word_no_space_6 | phototigervoyagebeforetiredword |  
+| bip_39_word_no_space_7 | phototigervoyagebeforetiredwordroast |  
+| bip_39_word_no_space_8 | phototigervoyagebeforetiredwordroastcrime |  
+| bip_39_word_no_space_9 | phototigervoyagebeforetiredwordroastcrimemagic |  
 | bip_39_word_space_0 | ['photo', 'tiger', 'voyage', 'before', 'tired', 'word', 'roast', 'crime', 'magic', 'lab', 'fan', 'asthma'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo tiger voyage before tired word roast crime magic lab |  

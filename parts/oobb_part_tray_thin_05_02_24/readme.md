@@ -122,6 +122,18 @@ approve
 noodle
 sample
 price |  
+| bip_39_word_no_space_1 | oak |  
+| bip_39_word_no_space_10 | oakcactusdrivehourunhappyapprovenoodlesamplepriceproperty |  
+| bip_39_word_no_space_11 | oakcactusdrivehourunhappyapprovenoodlesamplepricepropertyminute |  
+| bip_39_word_no_space_12 | oakcactusdrivehourunhappyapprovenoodlesamplepricepropertyminutealways |  
+| bip_39_word_no_space_2 | oakcactus |  
+| bip_39_word_no_space_3 | oakcactusdrive |  
+| bip_39_word_no_space_4 | oakcactusdrivehour |  
+| bip_39_word_no_space_5 | oakcactusdrivehourunhappy |  
+| bip_39_word_no_space_6 | oakcactusdrivehourunhappyapprove |  
+| bip_39_word_no_space_7 | oakcactusdrivehourunhappyapprovenoodle |  
+| bip_39_word_no_space_8 | oakcactusdrivehourunhappyapprovenoodlesample |  
+| bip_39_word_no_space_9 | oakcactusdrivehourunhappyapprovenoodlesampleprice |  
 | bip_39_word_space_0 | ['oak', 'cactus', 'drive', 'hour', 'unhappy', 'approve', 'noodle', 'sample', 'price', 'property', 'minute', 'always'] |  
 | bip_39_word_space_1 | oak |  
 | bip_39_word_space_10 | oak cactus drive hour unhappy approve noodle sample price property |  

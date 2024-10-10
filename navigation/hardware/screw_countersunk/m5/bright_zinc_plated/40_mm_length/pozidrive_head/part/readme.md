@@ -122,6 +122,18 @@ coral
 rifle
 equal
 small |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtlepreferdressozoneparkcoralrifleequalsmallfaith |  
+| bip_39_word_no_space_11 | turtlepreferdressozoneparkcoralrifleequalsmallfaithinstall |  
+| bip_39_word_no_space_12 | turtlepreferdressozoneparkcoralrifleequalsmallfaithinstallauction |  
+| bip_39_word_no_space_2 | turtleprefer |  
+| bip_39_word_no_space_3 | turtlepreferdress |  
+| bip_39_word_no_space_4 | turtlepreferdressozone |  
+| bip_39_word_no_space_5 | turtlepreferdressozonepark |  
+| bip_39_word_no_space_6 | turtlepreferdressozoneparkcoral |  
+| bip_39_word_no_space_7 | turtlepreferdressozoneparkcoralrifle |  
+| bip_39_word_no_space_8 | turtlepreferdressozoneparkcoralrifleequal |  
+| bip_39_word_no_space_9 | turtlepreferdressozoneparkcoralrifleequalsmall |  
 | bip_39_word_space_0 | ['turtle', 'prefer', 'dress', 'ozone', 'park', 'coral', 'rifle', 'equal', 'small', 'faith', 'install', 'auction'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle prefer dress ozone park coral rifle equal small faith |  

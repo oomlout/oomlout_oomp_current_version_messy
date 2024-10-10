@@ -122,6 +122,18 @@ helmet
 bridge
 sing
 remain |  
+| bip_39_word_no_space_1 | remember |  
+| bip_39_word_no_space_10 | rememberactorscorpionneeddeserthelmetbridgesingremainalways |  
+| bip_39_word_no_space_11 | rememberactorscorpionneeddeserthelmetbridgesingremainalwaysold |  
+| bip_39_word_no_space_12 | rememberactorscorpionneeddeserthelmetbridgesingremainalwaysoldapril |  
+| bip_39_word_no_space_2 | rememberactor |  
+| bip_39_word_no_space_3 | rememberactorscorpion |  
+| bip_39_word_no_space_4 | rememberactorscorpionneed |  
+| bip_39_word_no_space_5 | rememberactorscorpionneeddesert |  
+| bip_39_word_no_space_6 | rememberactorscorpionneeddeserthelmet |  
+| bip_39_word_no_space_7 | rememberactorscorpionneeddeserthelmetbridge |  
+| bip_39_word_no_space_8 | rememberactorscorpionneeddeserthelmetbridgesing |  
+| bip_39_word_no_space_9 | rememberactorscorpionneeddeserthelmetbridgesingremain |  
 | bip_39_word_space_0 | ['remember', 'actor', 'scorpion', 'need', 'desert', 'helmet', 'bridge', 'sing', 'remain', 'always', 'old', 'april'] |  
 | bip_39_word_space_1 | remember |  
 | bip_39_word_space_10 | remember actor scorpion need desert helmet bridge sing remain always |  

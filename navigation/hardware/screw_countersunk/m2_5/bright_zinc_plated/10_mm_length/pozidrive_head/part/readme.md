@@ -122,6 +122,18 @@ choice
 seminar
 defense
 chapter |  
+| bip_39_word_no_space_1 | like |  
+| bip_39_word_no_space_10 | likedaughteroutermodelfrostchoiceseminardefensechapterkangaroo |  
+| bip_39_word_no_space_11 | likedaughteroutermodelfrostchoiceseminardefensechapterkangaroocereal |  
+| bip_39_word_no_space_12 | likedaughteroutermodelfrostchoiceseminardefensechapterkangaroocerealapprove |  
+| bip_39_word_no_space_2 | likedaughter |  
+| bip_39_word_no_space_3 | likedaughterouter |  
+| bip_39_word_no_space_4 | likedaughteroutermodel |  
+| bip_39_word_no_space_5 | likedaughteroutermodelfrost |  
+| bip_39_word_no_space_6 | likedaughteroutermodelfrostchoice |  
+| bip_39_word_no_space_7 | likedaughteroutermodelfrostchoiceseminar |  
+| bip_39_word_no_space_8 | likedaughteroutermodelfrostchoiceseminardefense |  
+| bip_39_word_no_space_9 | likedaughteroutermodelfrostchoiceseminardefensechapter |  
 | bip_39_word_space_0 | ['like', 'daughter', 'outer', 'model', 'frost', 'choice', 'seminar', 'defense', 'chapter', 'kangaroo', 'cereal', 'approve'] |  
 | bip_39_word_space_1 | like |  
 | bip_39_word_space_10 | like daughter outer model frost choice seminar defense chapter kangaroo |  

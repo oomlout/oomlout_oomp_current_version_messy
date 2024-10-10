@@ -122,6 +122,18 @@ shove
 raise
 concert
 clock |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settlespeakmushroomdaughterentershoveraiseconcertclockalien |  
+| bip_39_word_no_space_11 | settlespeakmushroomdaughterentershoveraiseconcertclockaliendrastic |  
+| bip_39_word_no_space_12 | settlespeakmushroomdaughterentershoveraiseconcertclockaliendrasticasset |  
+| bip_39_word_no_space_2 | settlespeak |  
+| bip_39_word_no_space_3 | settlespeakmushroom |  
+| bip_39_word_no_space_4 | settlespeakmushroomdaughter |  
+| bip_39_word_no_space_5 | settlespeakmushroomdaughterenter |  
+| bip_39_word_no_space_6 | settlespeakmushroomdaughterentershove |  
+| bip_39_word_no_space_7 | settlespeakmushroomdaughterentershoveraise |  
+| bip_39_word_no_space_8 | settlespeakmushroomdaughterentershoveraiseconcert |  
+| bip_39_word_no_space_9 | settlespeakmushroomdaughterentershoveraiseconcertclock |  
 | bip_39_word_space_0 | ['settle', 'speak', 'mushroom', 'daughter', 'enter', 'shove', 'raise', 'concert', 'clock', 'alien', 'drastic', 'asset'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle speak mushroom daughter enter shove raise concert clock alien |  

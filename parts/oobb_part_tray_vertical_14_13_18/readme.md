@@ -122,6 +122,18 @@ fabric
 whale
 anxiety
 mobile |  
+| bip_39_word_no_space_1 | chronic |  
+| bip_39_word_no_space_10 | chronicacidsightpuzzleancientfabricwhaleanxietymobilesafe |  
+| bip_39_word_no_space_11 | chronicacidsightpuzzleancientfabricwhaleanxietymobilesafelittle |  
+| bip_39_word_no_space_12 | chronicacidsightpuzzleancientfabricwhaleanxietymobilesafelittleahead |  
+| bip_39_word_no_space_2 | chronicacid |  
+| bip_39_word_no_space_3 | chronicacidsight |  
+| bip_39_word_no_space_4 | chronicacidsightpuzzle |  
+| bip_39_word_no_space_5 | chronicacidsightpuzzleancient |  
+| bip_39_word_no_space_6 | chronicacidsightpuzzleancientfabric |  
+| bip_39_word_no_space_7 | chronicacidsightpuzzleancientfabricwhale |  
+| bip_39_word_no_space_8 | chronicacidsightpuzzleancientfabricwhaleanxiety |  
+| bip_39_word_no_space_9 | chronicacidsightpuzzleancientfabricwhaleanxietymobile |  
 | bip_39_word_space_0 | ['chronic', 'acid', 'sight', 'puzzle', 'ancient', 'fabric', 'whale', 'anxiety', 'mobile', 'safe', 'little', 'ahead'] |  
 | bip_39_word_space_1 | chronic |  
 | bip_39_word_space_10 | chronic acid sight puzzle ancient fabric whale anxiety mobile safe |  

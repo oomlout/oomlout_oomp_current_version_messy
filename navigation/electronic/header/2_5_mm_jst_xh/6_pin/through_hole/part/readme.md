@@ -122,6 +122,18 @@ april
 small
 doctor
 tooth |  
+| bip_39_word_no_space_1 | cancel |  
+| bip_39_word_no_space_10 | canceleasilycashqualityovalaprilsmalldoctortoothmystery |  
+| bip_39_word_no_space_11 | canceleasilycashqualityovalaprilsmalldoctortoothmysterysuccess |  
+| bip_39_word_no_space_12 | canceleasilycashqualityovalaprilsmalldoctortoothmysterysuccessaction |  
+| bip_39_word_no_space_2 | canceleasily |  
+| bip_39_word_no_space_3 | canceleasilycash |  
+| bip_39_word_no_space_4 | canceleasilycashquality |  
+| bip_39_word_no_space_5 | canceleasilycashqualityoval |  
+| bip_39_word_no_space_6 | canceleasilycashqualityovalapril |  
+| bip_39_word_no_space_7 | canceleasilycashqualityovalaprilsmall |  
+| bip_39_word_no_space_8 | canceleasilycashqualityovalaprilsmalldoctor |  
+| bip_39_word_no_space_9 | canceleasilycashqualityovalaprilsmalldoctortooth |  
 | bip_39_word_space_0 | ['cancel', 'easily', 'cash', 'quality', 'oval', 'april', 'small', 'doctor', 'tooth', 'mystery', 'success', 'action'] |  
 | bip_39_word_space_1 | cancel |  
 | bip_39_word_space_10 | cancel easily cash quality oval april small doctor tooth mystery |  

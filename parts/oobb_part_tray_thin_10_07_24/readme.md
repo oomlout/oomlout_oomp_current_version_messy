@@ -122,6 +122,18 @@ monkey
 arrive
 private
 purse |  
+| bip_39_word_no_space_1 | soup |  
+| bip_39_word_no_space_10 | souppraiseurbanfeedclevermonkeyarriveprivatepurseslogan |  
+| bip_39_word_no_space_11 | souppraiseurbanfeedclevermonkeyarriveprivatepursesloganmuscle |  
+| bip_39_word_no_space_12 | souppraiseurbanfeedclevermonkeyarriveprivatepursesloganmuscleavocado |  
+| bip_39_word_no_space_2 | souppraise |  
+| bip_39_word_no_space_3 | souppraiseurban |  
+| bip_39_word_no_space_4 | souppraiseurbanfeed |  
+| bip_39_word_no_space_5 | souppraiseurbanfeedclever |  
+| bip_39_word_no_space_6 | souppraiseurbanfeedclevermonkey |  
+| bip_39_word_no_space_7 | souppraiseurbanfeedclevermonkeyarrive |  
+| bip_39_word_no_space_8 | souppraiseurbanfeedclevermonkeyarriveprivate |  
+| bip_39_word_no_space_9 | souppraiseurbanfeedclevermonkeyarriveprivatepurse |  
 | bip_39_word_space_0 | ['soup', 'praise', 'urban', 'feed', 'clever', 'monkey', 'arrive', 'private', 'purse', 'slogan', 'muscle', 'avocado'] |  
 | bip_39_word_space_1 | soup |  
 | bip_39_word_space_10 | soup praise urban feed clever monkey arrive private purse slogan |  

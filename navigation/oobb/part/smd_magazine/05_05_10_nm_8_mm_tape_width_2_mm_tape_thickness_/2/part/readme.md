@@ -122,6 +122,18 @@ hurt
 lock
 slight
 panel |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigiddirttrimupperinmatehurtlockslightpanelpurse |  
+| bip_39_word_no_space_11 | rigiddirttrimupperinmatehurtlockslightpanelpursemammal |  
+| bip_39_word_no_space_12 | rigiddirttrimupperinmatehurtlockslightpanelpursemammalaccount |  
+| bip_39_word_no_space_2 | rigiddirt |  
+| bip_39_word_no_space_3 | rigiddirttrim |  
+| bip_39_word_no_space_4 | rigiddirttrimupper |  
+| bip_39_word_no_space_5 | rigiddirttrimupperinmate |  
+| bip_39_word_no_space_6 | rigiddirttrimupperinmatehurt |  
+| bip_39_word_no_space_7 | rigiddirttrimupperinmatehurtlock |  
+| bip_39_word_no_space_8 | rigiddirttrimupperinmatehurtlockslight |  
+| bip_39_word_no_space_9 | rigiddirttrimupperinmatehurtlockslightpanel |  
 | bip_39_word_space_0 | ['rigid', 'dirt', 'trim', 'upper', 'inmate', 'hurt', 'lock', 'slight', 'panel', 'purse', 'mammal', 'account'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid dirt trim upper inmate hurt lock slight panel purse |  

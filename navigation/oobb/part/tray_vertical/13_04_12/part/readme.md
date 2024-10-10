@@ -122,6 +122,18 @@ trade
 adult
 rely
 fire |  
+| bip_39_word_no_space_1 | bargain |  
+| bip_39_word_no_space_10 | bargainflowerwildlikerequiretradeadultrelyfireable |  
+| bip_39_word_no_space_11 | bargainflowerwildlikerequiretradeadultrelyfireablealarm |  
+| bip_39_word_no_space_12 | bargainflowerwildlikerequiretradeadultrelyfireablealarmantenna |  
+| bip_39_word_no_space_2 | bargainflower |  
+| bip_39_word_no_space_3 | bargainflowerwild |  
+| bip_39_word_no_space_4 | bargainflowerwildlike |  
+| bip_39_word_no_space_5 | bargainflowerwildlikerequire |  
+| bip_39_word_no_space_6 | bargainflowerwildlikerequiretrade |  
+| bip_39_word_no_space_7 | bargainflowerwildlikerequiretradeadult |  
+| bip_39_word_no_space_8 | bargainflowerwildlikerequiretradeadultrely |  
+| bip_39_word_no_space_9 | bargainflowerwildlikerequiretradeadultrelyfire |  
 | bip_39_word_space_0 | ['bargain', 'flower', 'wild', 'like', 'require', 'trade', 'adult', 'rely', 'fire', 'able', 'alarm', 'antenna'] |  
 | bip_39_word_space_1 | bargain |  
 | bip_39_word_space_10 | bargain flower wild like require trade adult rely fire able |  

@@ -122,6 +122,18 @@ desert
 few
 theory
 system |  
+| bip_39_word_no_space_1 | punch |  
+| bip_39_word_no_space_10 | punchhourgivefieldmagnetdesertfewtheorysystemfirst |  
+| bip_39_word_no_space_11 | punchhourgivefieldmagnetdesertfewtheorysystemfirstclip |  
+| bip_39_word_no_space_12 | punchhourgivefieldmagnetdesertfewtheorysystemfirstclipalarm |  
+| bip_39_word_no_space_2 | punchhour |  
+| bip_39_word_no_space_3 | punchhourgive |  
+| bip_39_word_no_space_4 | punchhourgivefield |  
+| bip_39_word_no_space_5 | punchhourgivefieldmagnet |  
+| bip_39_word_no_space_6 | punchhourgivefieldmagnetdesert |  
+| bip_39_word_no_space_7 | punchhourgivefieldmagnetdesertfew |  
+| bip_39_word_no_space_8 | punchhourgivefieldmagnetdesertfewtheory |  
+| bip_39_word_no_space_9 | punchhourgivefieldmagnetdesertfewtheorysystem |  
 | bip_39_word_space_0 | ['punch', 'hour', 'give', 'field', 'magnet', 'desert', 'few', 'theory', 'system', 'first', 'clip', 'alarm'] |  
 | bip_39_word_space_1 | punch |  
 | bip_39_word_space_10 | punch hour give field magnet desert few theory system first |  

@@ -122,6 +122,18 @@ oblige
 match
 soap
 music |  
+| bip_39_word_no_space_1 | total |  
+| bip_39_word_no_space_10 | totalsomeonevisaprofitchairobligematchsoapmusicsock |  
+| bip_39_word_no_space_11 | totalsomeonevisaprofitchairobligematchsoapmusicsockstone |  
+| bip_39_word_no_space_12 | totalsomeonevisaprofitchairobligematchsoapmusicsockstoneaccident |  
+| bip_39_word_no_space_2 | totalsomeone |  
+| bip_39_word_no_space_3 | totalsomeonevisa |  
+| bip_39_word_no_space_4 | totalsomeonevisaprofit |  
+| bip_39_word_no_space_5 | totalsomeonevisaprofitchair |  
+| bip_39_word_no_space_6 | totalsomeonevisaprofitchairoblige |  
+| bip_39_word_no_space_7 | totalsomeonevisaprofitchairobligematch |  
+| bip_39_word_no_space_8 | totalsomeonevisaprofitchairobligematchsoap |  
+| bip_39_word_no_space_9 | totalsomeonevisaprofitchairobligematchsoapmusic |  
 | bip_39_word_space_0 | ['total', 'someone', 'visa', 'profit', 'chair', 'oblige', 'match', 'soap', 'music', 'sock', 'stone', 'accident'] |  
 | bip_39_word_space_1 | total |  
 | bip_39_word_space_10 | total someone visa profit chair oblige match soap music sock |  

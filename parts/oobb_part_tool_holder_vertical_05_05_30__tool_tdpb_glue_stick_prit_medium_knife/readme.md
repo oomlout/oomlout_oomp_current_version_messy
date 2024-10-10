@@ -122,6 +122,18 @@ submit
 relax
 orange
 expose |  
+| bip_39_word_no_space_1 | actor |  
+| bip_39_word_no_space_10 | actormechanicentrylaterlobstersubmitrelaxorangeexposespider |  
+| bip_39_word_no_space_11 | actormechanicentrylaterlobstersubmitrelaxorangeexposespiderdoctor |  
+| bip_39_word_no_space_12 | actormechanicentrylaterlobstersubmitrelaxorangeexposespiderdoctorangry |  
+| bip_39_word_no_space_2 | actormechanic |  
+| bip_39_word_no_space_3 | actormechanicentry |  
+| bip_39_word_no_space_4 | actormechanicentrylater |  
+| bip_39_word_no_space_5 | actormechanicentrylaterlobster |  
+| bip_39_word_no_space_6 | actormechanicentrylaterlobstersubmit |  
+| bip_39_word_no_space_7 | actormechanicentrylaterlobstersubmitrelax |  
+| bip_39_word_no_space_8 | actormechanicentrylaterlobstersubmitrelaxorange |  
+| bip_39_word_no_space_9 | actormechanicentrylaterlobstersubmitrelaxorangeexpose |  
 | bip_39_word_space_0 | ['actor', 'mechanic', 'entry', 'later', 'lobster', 'submit', 'relax', 'orange', 'expose', 'spider', 'doctor', 'angry'] |  
 | bip_39_word_space_1 | actor |  
 | bip_39_word_space_10 | actor mechanic entry later lobster submit relax orange expose spider |  

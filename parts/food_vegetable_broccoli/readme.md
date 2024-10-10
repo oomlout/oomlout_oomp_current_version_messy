@@ -122,6 +122,18 @@ more
 position
 code
 faculty |  
+| bip_39_word_no_space_1 | swarm |  
+| bip_39_word_no_space_10 | swarmconfirmsymptompolicegigglemorepositioncodefacultydry |  
+| bip_39_word_no_space_11 | swarmconfirmsymptompolicegigglemorepositioncodefacultydryhold |  
+| bip_39_word_no_space_12 | swarmconfirmsymptompolicegigglemorepositioncodefacultydryholdaround |  
+| bip_39_word_no_space_2 | swarmconfirm |  
+| bip_39_word_no_space_3 | swarmconfirmsymptom |  
+| bip_39_word_no_space_4 | swarmconfirmsymptompolice |  
+| bip_39_word_no_space_5 | swarmconfirmsymptompolicegiggle |  
+| bip_39_word_no_space_6 | swarmconfirmsymptompolicegigglemore |  
+| bip_39_word_no_space_7 | swarmconfirmsymptompolicegigglemoreposition |  
+| bip_39_word_no_space_8 | swarmconfirmsymptompolicegigglemorepositioncode |  
+| bip_39_word_no_space_9 | swarmconfirmsymptompolicegigglemorepositioncodefaculty |  
 | bip_39_word_space_0 | ['swarm', 'confirm', 'symptom', 'police', 'giggle', 'more', 'position', 'code', 'faculty', 'dry', 'hold', 'around'] |  
 | bip_39_word_space_1 | swarm |  
 | bip_39_word_space_10 | swarm confirm symptom police giggle more position code faculty dry |  

@@ -122,6 +122,18 @@ rich
 episode
 blossom
 shrimp |  
+| bip_39_word_no_space_1 | base |  
+| bip_39_word_no_space_10 | basedancesplitinjuryimmunerichepisodeblossomshrimplawn |  
+| bip_39_word_no_space_11 | basedancesplitinjuryimmunerichepisodeblossomshrimplawndune |  
+| bip_39_word_no_space_12 | basedancesplitinjuryimmunerichepisodeblossomshrimplawndunealpha |  
+| bip_39_word_no_space_2 | basedance |  
+| bip_39_word_no_space_3 | basedancesplit |  
+| bip_39_word_no_space_4 | basedancesplitinjury |  
+| bip_39_word_no_space_5 | basedancesplitinjuryimmune |  
+| bip_39_word_no_space_6 | basedancesplitinjuryimmunerich |  
+| bip_39_word_no_space_7 | basedancesplitinjuryimmunerichepisode |  
+| bip_39_word_no_space_8 | basedancesplitinjuryimmunerichepisodeblossom |  
+| bip_39_word_no_space_9 | basedancesplitinjuryimmunerichepisodeblossomshrimp |  
 | bip_39_word_space_0 | ['base', 'dance', 'split', 'injury', 'immune', 'rich', 'episode', 'blossom', 'shrimp', 'lawn', 'dune', 'alpha'] |  
 | bip_39_word_space_1 | base |  
 | bip_39_word_space_10 | base dance split injury immune rich episode blossom shrimp lawn |  

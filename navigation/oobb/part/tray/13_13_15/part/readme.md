@@ -122,6 +122,18 @@ service
 detect
 current
 stadium |  
+| bip_39_word_no_space_1 | salt |  
+| bip_39_word_no_space_10 | saltnoisetheoryagreestumbleservicedetectcurrentstadiumsqueeze |  
+| bip_39_word_no_space_11 | saltnoisetheoryagreestumbleservicedetectcurrentstadiumsqueezeemerge |  
+| bip_39_word_no_space_12 | saltnoisetheoryagreestumbleservicedetectcurrentstadiumsqueezeemergeantenna |  
+| bip_39_word_no_space_2 | saltnoise |  
+| bip_39_word_no_space_3 | saltnoisetheory |  
+| bip_39_word_no_space_4 | saltnoisetheoryagree |  
+| bip_39_word_no_space_5 | saltnoisetheoryagreestumble |  
+| bip_39_word_no_space_6 | saltnoisetheoryagreestumbleservice |  
+| bip_39_word_no_space_7 | saltnoisetheoryagreestumbleservicedetect |  
+| bip_39_word_no_space_8 | saltnoisetheoryagreestumbleservicedetectcurrent |  
+| bip_39_word_no_space_9 | saltnoisetheoryagreestumbleservicedetectcurrentstadium |  
 | bip_39_word_space_0 | ['salt', 'noise', 'theory', 'agree', 'stumble', 'service', 'detect', 'current', 'stadium', 'squeeze', 'emerge', 'antenna'] |  
 | bip_39_word_space_1 | salt |  
 | bip_39_word_space_10 | salt noise theory agree stumble service detect current stadium squeeze |  

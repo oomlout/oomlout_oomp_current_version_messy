@@ -122,6 +122,18 @@ tank
 legend
 soccer
 era |  
+| bip_39_word_no_space_1 | waste |  
+| bip_39_word_no_space_10 | wasteabsentwonderyouthsimilartanklegendsoccereraspawn |  
+| bip_39_word_no_space_11 | wasteabsentwonderyouthsimilartanklegendsoccereraspawnlearn |  
+| bip_39_word_no_space_12 | wasteabsentwonderyouthsimilartanklegendsoccereraspawnlearnallow |  
+| bip_39_word_no_space_2 | wasteabsent |  
+| bip_39_word_no_space_3 | wasteabsentwonder |  
+| bip_39_word_no_space_4 | wasteabsentwonderyouth |  
+| bip_39_word_no_space_5 | wasteabsentwonderyouthsimilar |  
+| bip_39_word_no_space_6 | wasteabsentwonderyouthsimilartank |  
+| bip_39_word_no_space_7 | wasteabsentwonderyouthsimilartanklegend |  
+| bip_39_word_no_space_8 | wasteabsentwonderyouthsimilartanklegendsoccer |  
+| bip_39_word_no_space_9 | wasteabsentwonderyouthsimilartanklegendsoccerera |  
 | bip_39_word_space_0 | ['waste', 'absent', 'wonder', 'youth', 'similar', 'tank', 'legend', 'soccer', 'era', 'spawn', 'learn', 'allow'] |  
 | bip_39_word_space_1 | waste |  
 | bip_39_word_space_10 | waste absent wonder youth similar tank legend soccer era spawn |  

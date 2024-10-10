@@ -122,6 +122,18 @@ sting
 grape
 siege
 much |  
+| bip_39_word_no_space_1 | major |  
+| bip_39_word_no_space_10 | majorwinkillegalheavyancientstinggrapesiegemuchpromote |  
+| bip_39_word_no_space_11 | majorwinkillegalheavyancientstinggrapesiegemuchpromotewheat |  
+| bip_39_word_no_space_12 | majorwinkillegalheavyancientstinggrapesiegemuchpromotewheatable |  
+| bip_39_word_no_space_2 | majorwink |  
+| bip_39_word_no_space_3 | majorwinkillegal |  
+| bip_39_word_no_space_4 | majorwinkillegalheavy |  
+| bip_39_word_no_space_5 | majorwinkillegalheavyancient |  
+| bip_39_word_no_space_6 | majorwinkillegalheavyancientsting |  
+| bip_39_word_no_space_7 | majorwinkillegalheavyancientstinggrape |  
+| bip_39_word_no_space_8 | majorwinkillegalheavyancientstinggrapesiege |  
+| bip_39_word_no_space_9 | majorwinkillegalheavyancientstinggrapesiegemuch |  
 | bip_39_word_space_0 | ['major', 'wink', 'illegal', 'heavy', 'ancient', 'sting', 'grape', 'siege', 'much', 'promote', 'wheat', 'able'] |  
 | bip_39_word_space_1 | major |  
 | bip_39_word_space_10 | major wink illegal heavy ancient sting grape siege much promote |  

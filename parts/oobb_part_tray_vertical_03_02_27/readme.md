@@ -122,6 +122,18 @@ census
 rug
 weekend
 tragic |  
+| bip_39_word_no_space_1 | file |  
+| bip_39_word_no_space_10 | filepitchminutefalsefishcensusrugweekendtragicerase |  
+| bip_39_word_no_space_11 | filepitchminutefalsefishcensusrugweekendtragicerasegrunt |  
+| bip_39_word_no_space_12 | filepitchminutefalsefishcensusrugweekendtragicerasegruntartefact |  
+| bip_39_word_no_space_2 | filepitch |  
+| bip_39_word_no_space_3 | filepitchminute |  
+| bip_39_word_no_space_4 | filepitchminutefalse |  
+| bip_39_word_no_space_5 | filepitchminutefalsefish |  
+| bip_39_word_no_space_6 | filepitchminutefalsefishcensus |  
+| bip_39_word_no_space_7 | filepitchminutefalsefishcensusrug |  
+| bip_39_word_no_space_8 | filepitchminutefalsefishcensusrugweekend |  
+| bip_39_word_no_space_9 | filepitchminutefalsefishcensusrugweekendtragic |  
 | bip_39_word_space_0 | ['file', 'pitch', 'minute', 'false', 'fish', 'census', 'rug', 'weekend', 'tragic', 'erase', 'grunt', 'artefact'] |  
 | bip_39_word_space_1 | file |  
 | bip_39_word_space_10 | file pitch minute false fish census rug weekend tragic erase |  

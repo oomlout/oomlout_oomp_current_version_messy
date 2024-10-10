@@ -122,6 +122,18 @@ upper
 mistake
 glimpse
 coin |  
+| bip_39_word_no_space_1 | ocean |  
+| bip_39_word_no_space_10 | oceandressmachinepotatoscatteruppermistakeglimpsecoinwool |  
+| bip_39_word_no_space_11 | oceandressmachinepotatoscatteruppermistakeglimpsecoinwoolspace |  
+| bip_39_word_no_space_12 | oceandressmachinepotatoscatteruppermistakeglimpsecoinwoolspaceadmit |  
+| bip_39_word_no_space_2 | oceandress |  
+| bip_39_word_no_space_3 | oceandressmachine |  
+| bip_39_word_no_space_4 | oceandressmachinepotato |  
+| bip_39_word_no_space_5 | oceandressmachinepotatoscatter |  
+| bip_39_word_no_space_6 | oceandressmachinepotatoscatterupper |  
+| bip_39_word_no_space_7 | oceandressmachinepotatoscatteruppermistake |  
+| bip_39_word_no_space_8 | oceandressmachinepotatoscatteruppermistakeglimpse |  
+| bip_39_word_no_space_9 | oceandressmachinepotatoscatteruppermistakeglimpsecoin |  
 | bip_39_word_space_0 | ['ocean', 'dress', 'machine', 'potato', 'scatter', 'upper', 'mistake', 'glimpse', 'coin', 'wool', 'space', 'admit'] |  
 | bip_39_word_space_1 | ocean |  
 | bip_39_word_space_10 | ocean dress machine potato scatter upper mistake glimpse coin wool |  

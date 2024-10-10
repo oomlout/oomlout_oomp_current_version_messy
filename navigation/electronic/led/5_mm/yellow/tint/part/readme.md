@@ -122,6 +122,18 @@ seminar
 anchor
 tomorrow
 rotate |  
+| bip_39_word_no_space_1 | blush |  
+| bip_39_word_no_space_10 | blushexactcanalattituderoyalseminaranchortomorrowrotateevoke |  
+| bip_39_word_no_space_11 | blushexactcanalattituderoyalseminaranchortomorrowrotateevokeupper |  
+| bip_39_word_no_space_12 | blushexactcanalattituderoyalseminaranchortomorrowrotateevokeupperasthma |  
+| bip_39_word_no_space_2 | blushexact |  
+| bip_39_word_no_space_3 | blushexactcanal |  
+| bip_39_word_no_space_4 | blushexactcanalattitude |  
+| bip_39_word_no_space_5 | blushexactcanalattituderoyal |  
+| bip_39_word_no_space_6 | blushexactcanalattituderoyalseminar |  
+| bip_39_word_no_space_7 | blushexactcanalattituderoyalseminaranchor |  
+| bip_39_word_no_space_8 | blushexactcanalattituderoyalseminaranchortomorrow |  
+| bip_39_word_no_space_9 | blushexactcanalattituderoyalseminaranchortomorrowrotate |  
 | bip_39_word_space_0 | ['blush', 'exact', 'canal', 'attitude', 'royal', 'seminar', 'anchor', 'tomorrow', 'rotate', 'evoke', 'upper', 'asthma'] |  
 | bip_39_word_space_1 | blush |  
 | bip_39_word_space_10 | blush exact canal attitude royal seminar anchor tomorrow rotate evoke |  

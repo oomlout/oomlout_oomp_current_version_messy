@@ -122,6 +122,18 @@ useless
 sting
 tissue
 box |  
+| bip_39_word_no_space_1 | dress |  
+| bip_39_word_no_space_10 | dressletterflametornadodinosauruselessstingtissueboxearth |  
+| bip_39_word_no_space_11 | dressletterflametornadodinosauruselessstingtissueboxearthyouth |  
+| bip_39_word_no_space_12 | dressletterflametornadodinosauruselessstingtissueboxearthyouthalso |  
+| bip_39_word_no_space_2 | dressletter |  
+| bip_39_word_no_space_3 | dressletterflame |  
+| bip_39_word_no_space_4 | dressletterflametornado |  
+| bip_39_word_no_space_5 | dressletterflametornadodinosaur |  
+| bip_39_word_no_space_6 | dressletterflametornadodinosauruseless |  
+| bip_39_word_no_space_7 | dressletterflametornadodinosauruselesssting |  
+| bip_39_word_no_space_8 | dressletterflametornadodinosauruselessstingtissue |  
+| bip_39_word_no_space_9 | dressletterflametornadodinosauruselessstingtissuebox |  
 | bip_39_word_space_0 | ['dress', 'letter', 'flame', 'tornado', 'dinosaur', 'useless', 'sting', 'tissue', 'box', 'earth', 'youth', 'also'] |  
 | bip_39_word_space_1 | dress |  
 | bip_39_word_space_10 | dress letter flame tornado dinosaur useless sting tissue box earth |  

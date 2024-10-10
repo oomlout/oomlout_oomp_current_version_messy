@@ -122,6 +122,18 @@ dose
 vague
 just
 protect |  
+| bip_39_word_no_space_1 | trigger |  
+| bip_39_word_no_space_10 | triggerscreensuddenloadhalfdosevaguejustprotectdash |  
+| bip_39_word_no_space_11 | triggerscreensuddenloadhalfdosevaguejustprotectdashvelvet |  
+| bip_39_word_no_space_12 | triggerscreensuddenloadhalfdosevaguejustprotectdashvelvetaugust |  
+| bip_39_word_no_space_2 | triggerscreen |  
+| bip_39_word_no_space_3 | triggerscreensudden |  
+| bip_39_word_no_space_4 | triggerscreensuddenload |  
+| bip_39_word_no_space_5 | triggerscreensuddenloadhalf |  
+| bip_39_word_no_space_6 | triggerscreensuddenloadhalfdose |  
+| bip_39_word_no_space_7 | triggerscreensuddenloadhalfdosevague |  
+| bip_39_word_no_space_8 | triggerscreensuddenloadhalfdosevaguejust |  
+| bip_39_word_no_space_9 | triggerscreensuddenloadhalfdosevaguejustprotect |  
 | bip_39_word_space_0 | ['trigger', 'screen', 'sudden', 'load', 'half', 'dose', 'vague', 'just', 'protect', 'dash', 'velvet', 'august'] |  
 | bip_39_word_space_1 | trigger |  
 | bip_39_word_space_10 | trigger screen sudden load half dose vague just protect dash |  

@@ -122,6 +122,18 @@ cheese
 biology
 main
 replace |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalagaininsanesmalltimbercheesebiologymainreplaceforce |  
+| bip_39_word_no_space_11 | loyalagaininsanesmalltimbercheesebiologymainreplaceforcetumble |  
+| bip_39_word_no_space_12 | loyalagaininsanesmalltimbercheesebiologymainreplaceforcetumbleabsurd |  
+| bip_39_word_no_space_2 | loyalagain |  
+| bip_39_word_no_space_3 | loyalagaininsane |  
+| bip_39_word_no_space_4 | loyalagaininsanesmall |  
+| bip_39_word_no_space_5 | loyalagaininsanesmalltimber |  
+| bip_39_word_no_space_6 | loyalagaininsanesmalltimbercheese |  
+| bip_39_word_no_space_7 | loyalagaininsanesmalltimbercheesebiology |  
+| bip_39_word_no_space_8 | loyalagaininsanesmalltimbercheesebiologymain |  
+| bip_39_word_no_space_9 | loyalagaininsanesmalltimbercheesebiologymainreplace |  
 | bip_39_word_space_0 | ['loyal', 'again', 'insane', 'small', 'timber', 'cheese', 'biology', 'main', 'replace', 'force', 'tumble', 'absurd'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal again insane small timber cheese biology main replace force |  

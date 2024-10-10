@@ -122,6 +122,18 @@ song
 three
 cost
 audit |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmenteruptwomantwinhellosongthreecostauditunknown |  
+| bip_39_word_no_space_11 | segmenteruptwomantwinhellosongthreecostauditunknowncancel |  
+| bip_39_word_no_space_12 | segmenteruptwomantwinhellosongthreecostauditunknowncancelaspect |  
+| bip_39_word_no_space_2 | segmenterupt |  
+| bip_39_word_no_space_3 | segmenteruptwoman |  
+| bip_39_word_no_space_4 | segmenteruptwomantwin |  
+| bip_39_word_no_space_5 | segmenteruptwomantwinhello |  
+| bip_39_word_no_space_6 | segmenteruptwomantwinhellosong |  
+| bip_39_word_no_space_7 | segmenteruptwomantwinhellosongthree |  
+| bip_39_word_no_space_8 | segmenteruptwomantwinhellosongthreecost |  
+| bip_39_word_no_space_9 | segmenteruptwomantwinhellosongthreecostaudit |  
 | bip_39_word_space_0 | ['segment', 'erupt', 'woman', 'twin', 'hello', 'song', 'three', 'cost', 'audit', 'unknown', 'cancel', 'aspect'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment erupt woman twin hello song three cost audit unknown |  

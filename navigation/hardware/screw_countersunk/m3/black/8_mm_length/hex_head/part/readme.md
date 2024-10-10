@@ -122,6 +122,18 @@ transfer
 hover
 rural
 ability |  
+| bip_39_word_no_space_1 | pyramid |  
+| bip_39_word_no_space_10 | pyramidchoosecampcardadulttransferhoverruralabilityhire |  
+| bip_39_word_no_space_11 | pyramidchoosecampcardadulttransferhoverruralabilityhiretoward |  
+| bip_39_word_no_space_12 | pyramidchoosecampcardadulttransferhoverruralabilityhiretowardantenna |  
+| bip_39_word_no_space_2 | pyramidchoose |  
+| bip_39_word_no_space_3 | pyramidchoosecamp |  
+| bip_39_word_no_space_4 | pyramidchoosecampcard |  
+| bip_39_word_no_space_5 | pyramidchoosecampcardadult |  
+| bip_39_word_no_space_6 | pyramidchoosecampcardadulttransfer |  
+| bip_39_word_no_space_7 | pyramidchoosecampcardadulttransferhover |  
+| bip_39_word_no_space_8 | pyramidchoosecampcardadulttransferhoverrural |  
+| bip_39_word_no_space_9 | pyramidchoosecampcardadulttransferhoverruralability |  
 | bip_39_word_space_0 | ['pyramid', 'choose', 'camp', 'card', 'adult', 'transfer', 'hover', 'rural', 'ability', 'hire', 'toward', 'antenna'] |  
 | bip_39_word_space_1 | pyramid |  
 | bip_39_word_space_10 | pyramid choose camp card adult transfer hover rural ability hire |  

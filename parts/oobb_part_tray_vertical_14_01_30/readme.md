@@ -122,6 +122,18 @@ hope
 target
 net
 error |  
+| bip_39_word_no_space_1 | huge |  
+| bip_39_word_no_space_10 | hugechoosederiveseatabsurdhopetargetneterrorchange |  
+| bip_39_word_no_space_11 | hugechoosederiveseatabsurdhopetargetneterrorchangeopera |  
+| bip_39_word_no_space_12 | hugechoosederiveseatabsurdhopetargetneterrorchangeoperaaisle |  
+| bip_39_word_no_space_2 | hugechoose |  
+| bip_39_word_no_space_3 | hugechoosederive |  
+| bip_39_word_no_space_4 | hugechoosederiveseat |  
+| bip_39_word_no_space_5 | hugechoosederiveseatabsurd |  
+| bip_39_word_no_space_6 | hugechoosederiveseatabsurdhope |  
+| bip_39_word_no_space_7 | hugechoosederiveseatabsurdhopetarget |  
+| bip_39_word_no_space_8 | hugechoosederiveseatabsurdhopetargetnet |  
+| bip_39_word_no_space_9 | hugechoosederiveseatabsurdhopetargetneterror |  
 | bip_39_word_space_0 | ['huge', 'choose', 'derive', 'seat', 'absurd', 'hope', 'target', 'net', 'error', 'change', 'opera', 'aisle'] |  
 | bip_39_word_space_1 | huge |  
 | bip_39_word_space_10 | huge choose derive seat absurd hope target net error change |  

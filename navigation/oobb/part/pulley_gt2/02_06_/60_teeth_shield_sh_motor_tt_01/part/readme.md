@@ -122,6 +122,18 @@ tell
 economy
 siren
 large |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardstagefeedoftensilvertelleconomysirenlargealready |  
+| bip_39_word_no_space_11 | boardstagefeedoftensilvertelleconomysirenlargealreadyjudge |  
+| bip_39_word_no_space_12 | boardstagefeedoftensilvertelleconomysirenlargealreadyjudgeallow |  
+| bip_39_word_no_space_2 | boardstage |  
+| bip_39_word_no_space_3 | boardstagefeed |  
+| bip_39_word_no_space_4 | boardstagefeedoften |  
+| bip_39_word_no_space_5 | boardstagefeedoftensilver |  
+| bip_39_word_no_space_6 | boardstagefeedoftensilvertell |  
+| bip_39_word_no_space_7 | boardstagefeedoftensilvertelleconomy |  
+| bip_39_word_no_space_8 | boardstagefeedoftensilvertelleconomysiren |  
+| bip_39_word_no_space_9 | boardstagefeedoftensilvertelleconomysirenlarge |  
 | bip_39_word_space_0 | ['board', 'stage', 'feed', 'often', 'silver', 'tell', 'economy', 'siren', 'large', 'already', 'judge', 'allow'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board stage feed often silver tell economy siren large already |  

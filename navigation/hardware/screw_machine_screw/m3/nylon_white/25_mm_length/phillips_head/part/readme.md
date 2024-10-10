@@ -122,6 +122,18 @@ grain
 tube
 pigeon
 random |  
+| bip_39_word_no_space_1 | october |  
+| bip_39_word_no_space_10 | octobercomfortdogmultiplyvintagegraintubepigeonrandomjazz |  
+| bip_39_word_no_space_11 | octobercomfortdogmultiplyvintagegraintubepigeonrandomjazzcause |  
+| bip_39_word_no_space_12 | octobercomfortdogmultiplyvintagegraintubepigeonrandomjazzcausealmost |  
+| bip_39_word_no_space_2 | octobercomfort |  
+| bip_39_word_no_space_3 | octobercomfortdog |  
+| bip_39_word_no_space_4 | octobercomfortdogmultiply |  
+| bip_39_word_no_space_5 | octobercomfortdogmultiplyvintage |  
+| bip_39_word_no_space_6 | octobercomfortdogmultiplyvintagegrain |  
+| bip_39_word_no_space_7 | octobercomfortdogmultiplyvintagegraintube |  
+| bip_39_word_no_space_8 | octobercomfortdogmultiplyvintagegraintubepigeon |  
+| bip_39_word_no_space_9 | octobercomfortdogmultiplyvintagegraintubepigeonrandom |  
 | bip_39_word_space_0 | ['october', 'comfort', 'dog', 'multiply', 'vintage', 'grain', 'tube', 'pigeon', 'random', 'jazz', 'cause', 'almost'] |  
 | bip_39_word_space_1 | october |  
 | bip_39_word_space_10 | october comfort dog multiply vintage grain tube pigeon random jazz |  

@@ -122,6 +122,18 @@ hungry
 three
 worry
 vehicle |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | goodshivercirclesaltjunglehungrythreeworryvehicledaughter |  
+| bip_39_word_no_space_11 | goodshivercirclesaltjunglehungrythreeworryvehicledaughtercement |  
+| bip_39_word_no_space_12 | goodshivercirclesaltjunglehungrythreeworryvehicledaughtercementalmost |  
+| bip_39_word_no_space_2 | goodshiver |  
+| bip_39_word_no_space_3 | goodshivercircle |  
+| bip_39_word_no_space_4 | goodshivercirclesalt |  
+| bip_39_word_no_space_5 | goodshivercirclesaltjungle |  
+| bip_39_word_no_space_6 | goodshivercirclesaltjunglehungry |  
+| bip_39_word_no_space_7 | goodshivercirclesaltjunglehungrythree |  
+| bip_39_word_no_space_8 | goodshivercirclesaltjunglehungrythreeworry |  
+| bip_39_word_no_space_9 | goodshivercirclesaltjunglehungrythreeworryvehicle |  
 | bip_39_word_space_0 | ['good', 'shiver', 'circle', 'salt', 'jungle', 'hungry', 'three', 'worry', 'vehicle', 'daughter', 'cement', 'almost'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good shiver circle salt jungle hungry three worry vehicle daughter |  

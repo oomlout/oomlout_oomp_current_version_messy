@@ -122,6 +122,18 @@ dinosaur
 wine
 lobster
 mechanic |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omittrulymeasureawfulsolvedinosaurwinelobstermechanicanxiety |  
+| bip_39_word_no_space_11 | omittrulymeasureawfulsolvedinosaurwinelobstermechanicanxietydesk |  
+| bip_39_word_no_space_12 | omittrulymeasureawfulsolvedinosaurwinelobstermechanicanxietydeskanger |  
+| bip_39_word_no_space_2 | omittruly |  
+| bip_39_word_no_space_3 | omittrulymeasure |  
+| bip_39_word_no_space_4 | omittrulymeasureawful |  
+| bip_39_word_no_space_5 | omittrulymeasureawfulsolve |  
+| bip_39_word_no_space_6 | omittrulymeasureawfulsolvedinosaur |  
+| bip_39_word_no_space_7 | omittrulymeasureawfulsolvedinosaurwine |  
+| bip_39_word_no_space_8 | omittrulymeasureawfulsolvedinosaurwinelobster |  
+| bip_39_word_no_space_9 | omittrulymeasureawfulsolvedinosaurwinelobstermechanic |  
 | bip_39_word_space_0 | ['omit', 'truly', 'measure', 'awful', 'solve', 'dinosaur', 'wine', 'lobster', 'mechanic', 'anxiety', 'desk', 'anger'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit truly measure awful solve dinosaur wine lobster mechanic anxiety |  

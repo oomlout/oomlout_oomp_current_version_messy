@@ -122,6 +122,18 @@ village
 tired
 head
 slim |  
+| bip_39_word_no_space_1 | endless |  
+| bip_39_word_no_space_10 | endlesstripprosperremainmuchvillagetiredheadslimcattle |  
+| bip_39_word_no_space_11 | endlesstripprosperremainmuchvillagetiredheadslimcattleattack |  
+| bip_39_word_no_space_12 | endlesstripprosperremainmuchvillagetiredheadslimcattleattackattend |  
+| bip_39_word_no_space_2 | endlesstrip |  
+| bip_39_word_no_space_3 | endlesstripprosper |  
+| bip_39_word_no_space_4 | endlesstripprosperremain |  
+| bip_39_word_no_space_5 | endlesstripprosperremainmuch |  
+| bip_39_word_no_space_6 | endlesstripprosperremainmuchvillage |  
+| bip_39_word_no_space_7 | endlesstripprosperremainmuchvillagetired |  
+| bip_39_word_no_space_8 | endlesstripprosperremainmuchvillagetiredhead |  
+| bip_39_word_no_space_9 | endlesstripprosperremainmuchvillagetiredheadslim |  
 | bip_39_word_space_0 | ['endless', 'trip', 'prosper', 'remain', 'much', 'village', 'tired', 'head', 'slim', 'cattle', 'attack', 'attend'] |  
 | bip_39_word_space_1 | endless |  
 | bip_39_word_space_10 | endless trip prosper remain much village tired head slim cattle |  

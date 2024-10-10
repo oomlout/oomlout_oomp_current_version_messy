@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fan
   gown
 
   merit'
+bip_39_word_no_space_1: fan
+bip_39_word_no_space_10: fanpepperwestketchupseedbuyercouplegownmeriterror
+bip_39_word_no_space_11: fanpepperwestketchupseedbuyercouplegownmeriterrorphrase
+bip_39_word_no_space_12: fanpepperwestketchupseedbuyercouplegownmeriterrorphraseafraid
+bip_39_word_no_space_2: fanpepper
+bip_39_word_no_space_3: fanpepperwest
+bip_39_word_no_space_4: fanpepperwestketchup
+bip_39_word_no_space_5: fanpepperwestketchupseed
+bip_39_word_no_space_6: fanpepperwestketchupseedbuyer
+bip_39_word_no_space_7: fanpepperwestketchupseedbuyercouple
+bip_39_word_no_space_8: fanpepperwestketchupseedbuyercouplegown
+bip_39_word_no_space_9: fanpepperwestketchupseedbuyercouplegownmerit
 bip_39_word_space_0:
 - fan
 - pepper

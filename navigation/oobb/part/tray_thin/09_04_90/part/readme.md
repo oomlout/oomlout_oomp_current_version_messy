@@ -122,6 +122,18 @@ allow
 surround
 minor
 success |  
+| bip_39_word_no_space_1 | float |  
+| bip_39_word_no_space_10 | floatrainmiraclelaborportionallowsurroundminorsuccesscrumble |  
+| bip_39_word_no_space_11 | floatrainmiraclelaborportionallowsurroundminorsuccesscrumblelittle |  
+| bip_39_word_no_space_12 | floatrainmiraclelaborportionallowsurroundminorsuccesscrumblelittleantique |  
+| bip_39_word_no_space_2 | floatrain |  
+| bip_39_word_no_space_3 | floatrainmiracle |  
+| bip_39_word_no_space_4 | floatrainmiraclelabor |  
+| bip_39_word_no_space_5 | floatrainmiraclelaborportion |  
+| bip_39_word_no_space_6 | floatrainmiraclelaborportionallow |  
+| bip_39_word_no_space_7 | floatrainmiraclelaborportionallowsurround |  
+| bip_39_word_no_space_8 | floatrainmiraclelaborportionallowsurroundminor |  
+| bip_39_word_no_space_9 | floatrainmiraclelaborportionallowsurroundminorsuccess |  
 | bip_39_word_space_0 | ['float', 'rain', 'miracle', 'labor', 'portion', 'allow', 'surround', 'minor', 'success', 'crumble', 'little', 'antique'] |  
 | bip_39_word_space_1 | float |  
 | bip_39_word_space_10 | float rain miracle labor portion allow surround minor success crumble |  

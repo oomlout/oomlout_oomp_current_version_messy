@@ -122,6 +122,18 @@ style
 episode
 plug
 deposit |  
+| bip_39_word_no_space_1 | feed |  
+| bip_39_word_no_space_10 | feedrobotforkmousespendstyleepisodeplugdepositdose |  
+| bip_39_word_no_space_11 | feedrobotforkmousespendstyleepisodeplugdepositdoseisland |  
+| bip_39_word_no_space_12 | feedrobotforkmousespendstyleepisodeplugdepositdoseislandankle |  
+| bip_39_word_no_space_2 | feedrobot |  
+| bip_39_word_no_space_3 | feedrobotfork |  
+| bip_39_word_no_space_4 | feedrobotforkmouse |  
+| bip_39_word_no_space_5 | feedrobotforkmousespend |  
+| bip_39_word_no_space_6 | feedrobotforkmousespendstyle |  
+| bip_39_word_no_space_7 | feedrobotforkmousespendstyleepisode |  
+| bip_39_word_no_space_8 | feedrobotforkmousespendstyleepisodeplug |  
+| bip_39_word_no_space_9 | feedrobotforkmousespendstyleepisodeplugdeposit |  
 | bip_39_word_space_0 | ['feed', 'robot', 'fork', 'mouse', 'spend', 'style', 'episode', 'plug', 'deposit', 'dose', 'island', 'ankle'] |  
 | bip_39_word_space_1 | feed |  
 | bip_39_word_space_10 | feed robot fork mouse spend style episode plug deposit dose |  

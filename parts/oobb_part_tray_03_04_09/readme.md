@@ -122,6 +122,18 @@ discover
 victory
 tissue
 pigeon |  
+| bip_39_word_no_space_1 | tired |  
+| bip_39_word_no_space_10 | tirednarrowfederalboardtonguediscovervictorytissuepigeongenre |  
+| bip_39_word_no_space_11 | tirednarrowfederalboardtonguediscovervictorytissuepigeongenrecupboard |  
+| bip_39_word_no_space_12 | tirednarrowfederalboardtonguediscovervictorytissuepigeongenrecupboardarmed |  
+| bip_39_word_no_space_2 | tirednarrow |  
+| bip_39_word_no_space_3 | tirednarrowfederal |  
+| bip_39_word_no_space_4 | tirednarrowfederalboard |  
+| bip_39_word_no_space_5 | tirednarrowfederalboardtongue |  
+| bip_39_word_no_space_6 | tirednarrowfederalboardtonguediscover |  
+| bip_39_word_no_space_7 | tirednarrowfederalboardtonguediscovervictory |  
+| bip_39_word_no_space_8 | tirednarrowfederalboardtonguediscovervictorytissue |  
+| bip_39_word_no_space_9 | tirednarrowfederalboardtonguediscovervictorytissuepigeon |  
 | bip_39_word_space_0 | ['tired', 'narrow', 'federal', 'board', 'tongue', 'discover', 'victory', 'tissue', 'pigeon', 'genre', 'cupboard', 'armed'] |  
 | bip_39_word_space_1 | tired |  
 | bip_39_word_space_10 | tired narrow federal board tongue discover victory tissue pigeon genre |  

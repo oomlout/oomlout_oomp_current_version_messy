@@ -122,6 +122,18 @@ sort
 dune
 allow
 organ |  
+| bip_39_word_no_space_1 | clump |  
+| bip_39_word_no_space_10 | clumpaddrisklevelinnocentsortdunealloworganpony |  
+| bip_39_word_no_space_11 | clumpaddrisklevelinnocentsortdunealloworganponysing |  
+| bip_39_word_no_space_12 | clumpaddrisklevelinnocentsortdunealloworganponysinganchor |  
+| bip_39_word_no_space_2 | clumpadd |  
+| bip_39_word_no_space_3 | clumpaddrisk |  
+| bip_39_word_no_space_4 | clumpaddrisklevel |  
+| bip_39_word_no_space_5 | clumpaddrisklevelinnocent |  
+| bip_39_word_no_space_6 | clumpaddrisklevelinnocentsort |  
+| bip_39_word_no_space_7 | clumpaddrisklevelinnocentsortdune |  
+| bip_39_word_no_space_8 | clumpaddrisklevelinnocentsortduneallow |  
+| bip_39_word_no_space_9 | clumpaddrisklevelinnocentsortdunealloworgan |  
 | bip_39_word_space_0 | ['clump', 'add', 'risk', 'level', 'innocent', 'sort', 'dune', 'allow', 'organ', 'pony', 'sing', 'anchor'] |  
 | bip_39_word_space_1 | clump |  
 | bip_39_word_space_10 | clump add risk level innocent sort dune allow organ pony |  

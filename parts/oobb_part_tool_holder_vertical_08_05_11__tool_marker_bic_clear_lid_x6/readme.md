@@ -122,6 +122,18 @@ inflict
 place
 stuff
 dilemma |  
+| bip_39_word_no_space_1 | next |  
+| bip_39_word_no_space_10 | nextbehindresultjarwhipinflictplacestuffdilemmaassume |  
+| bip_39_word_no_space_11 | nextbehindresultjarwhipinflictplacestuffdilemmaassumeatom |  
+| bip_39_word_no_space_12 | nextbehindresultjarwhipinflictplacestuffdilemmaassumeatomaccount |  
+| bip_39_word_no_space_2 | nextbehind |  
+| bip_39_word_no_space_3 | nextbehindresult |  
+| bip_39_word_no_space_4 | nextbehindresultjar |  
+| bip_39_word_no_space_5 | nextbehindresultjarwhip |  
+| bip_39_word_no_space_6 | nextbehindresultjarwhipinflict |  
+| bip_39_word_no_space_7 | nextbehindresultjarwhipinflictplace |  
+| bip_39_word_no_space_8 | nextbehindresultjarwhipinflictplacestuff |  
+| bip_39_word_no_space_9 | nextbehindresultjarwhipinflictplacestuffdilemma |  
 | bip_39_word_space_0 | ['next', 'behind', 'result', 'jar', 'whip', 'inflict', 'place', 'stuff', 'dilemma', 'assume', 'atom', 'account'] |  
 | bip_39_word_space_1 | next |  
 | bip_39_word_space_10 | next behind result jar whip inflict place stuff dilemma assume |  

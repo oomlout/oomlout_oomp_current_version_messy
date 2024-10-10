@@ -122,6 +122,18 @@ family
 item
 pass
 famous |  
+| bip_39_word_no_space_1 | dawn |  
+| bip_39_word_no_space_10 | dawnwestsickkeenthatfamilyitempassfamouspoem |  
+| bip_39_word_no_space_11 | dawnwestsickkeenthatfamilyitempassfamouspoemjunk |  
+| bip_39_word_no_space_12 | dawnwestsickkeenthatfamilyitempassfamouspoemjunkasset |  
+| bip_39_word_no_space_2 | dawnwest |  
+| bip_39_word_no_space_3 | dawnwestsick |  
+| bip_39_word_no_space_4 | dawnwestsickkeen |  
+| bip_39_word_no_space_5 | dawnwestsickkeenthat |  
+| bip_39_word_no_space_6 | dawnwestsickkeenthatfamily |  
+| bip_39_word_no_space_7 | dawnwestsickkeenthatfamilyitem |  
+| bip_39_word_no_space_8 | dawnwestsickkeenthatfamilyitempass |  
+| bip_39_word_no_space_9 | dawnwestsickkeenthatfamilyitempassfamous |  
 | bip_39_word_space_0 | ['dawn', 'west', 'sick', 'keen', 'that', 'family', 'item', 'pass', 'famous', 'poem', 'junk', 'asset'] |  
 | bip_39_word_space_1 | dawn |  
 | bip_39_word_space_10 | dawn west sick keen that family item pass famous poem |  

@@ -122,6 +122,18 @@ stuff
 relief
 shoot
 judge |  
+| bip_39_word_no_space_1 | predict |  
+| bip_39_word_no_space_10 | predictgrantwasppeoplemaplestuffreliefshootjudgenorth |  
+| bip_39_word_no_space_11 | predictgrantwasppeoplemaplestuffreliefshootjudgenorthanswer |  
+| bip_39_word_no_space_12 | predictgrantwasppeoplemaplestuffreliefshootjudgenorthansweranger |  
+| bip_39_word_no_space_2 | predictgrant |  
+| bip_39_word_no_space_3 | predictgrantwasp |  
+| bip_39_word_no_space_4 | predictgrantwasppeople |  
+| bip_39_word_no_space_5 | predictgrantwasppeoplemaple |  
+| bip_39_word_no_space_6 | predictgrantwasppeoplemaplestuff |  
+| bip_39_word_no_space_7 | predictgrantwasppeoplemaplestuffrelief |  
+| bip_39_word_no_space_8 | predictgrantwasppeoplemaplestuffreliefshoot |  
+| bip_39_word_no_space_9 | predictgrantwasppeoplemaplestuffreliefshootjudge |  
 | bip_39_word_space_0 | ['predict', 'grant', 'wasp', 'people', 'maple', 'stuff', 'relief', 'shoot', 'judge', 'north', 'answer', 'anger'] |  
 | bip_39_word_space_1 | predict |  
 | bip_39_word_space_10 | predict grant wasp people maple stuff relief shoot judge north |  

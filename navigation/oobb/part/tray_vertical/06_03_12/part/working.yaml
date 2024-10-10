@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'thing
   hunt
 
   rubber'
+bip_39_word_no_space_1: thing
+bip_39_word_no_space_10: thingdizzyzonedecoratewhiprobustcanoehuntrubberlight
+bip_39_word_no_space_11: thingdizzyzonedecoratewhiprobustcanoehuntrubberlightstate
+bip_39_word_no_space_12: thingdizzyzonedecoratewhiprobustcanoehuntrubberlightstatealarm
+bip_39_word_no_space_2: thingdizzy
+bip_39_word_no_space_3: thingdizzyzone
+bip_39_word_no_space_4: thingdizzyzonedecorate
+bip_39_word_no_space_5: thingdizzyzonedecoratewhip
+bip_39_word_no_space_6: thingdizzyzonedecoratewhiprobust
+bip_39_word_no_space_7: thingdizzyzonedecoratewhiprobustcanoe
+bip_39_word_no_space_8: thingdizzyzonedecoratewhiprobustcanoehunt
+bip_39_word_no_space_9: thingdizzyzonedecoratewhiprobustcanoehuntrubber
 bip_39_word_space_0:
 - thing
 - dizzy

@@ -122,6 +122,18 @@ vault
 involve
 few
 invite |  
+| bip_39_word_no_space_1 | nurse |  
+| bip_39_word_no_space_10 | nursepuddingchiefdayidlevaultinvolvefewinviteuseless |  
+| bip_39_word_no_space_11 | nursepuddingchiefdayidlevaultinvolvefewinviteuselessfresh |  
+| bip_39_word_no_space_12 | nursepuddingchiefdayidlevaultinvolvefewinviteuselessfreshattitude |  
+| bip_39_word_no_space_2 | nursepudding |  
+| bip_39_word_no_space_3 | nursepuddingchief |  
+| bip_39_word_no_space_4 | nursepuddingchiefday |  
+| bip_39_word_no_space_5 | nursepuddingchiefdayidle |  
+| bip_39_word_no_space_6 | nursepuddingchiefdayidlevault |  
+| bip_39_word_no_space_7 | nursepuddingchiefdayidlevaultinvolve |  
+| bip_39_word_no_space_8 | nursepuddingchiefdayidlevaultinvolvefew |  
+| bip_39_word_no_space_9 | nursepuddingchiefdayidlevaultinvolvefewinvite |  
 | bip_39_word_space_0 | ['nurse', 'pudding', 'chief', 'day', 'idle', 'vault', 'involve', 'few', 'invite', 'useless', 'fresh', 'attitude'] |  
 | bip_39_word_space_1 | nurse |  
 | bip_39_word_space_10 | nurse pudding chief day idle vault involve few invite useless |  

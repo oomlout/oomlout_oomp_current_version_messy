@@ -122,6 +122,18 @@ pitch
 crush
 step
 trend |  
+| bip_39_word_no_space_1 | stuff |  
+| bip_39_word_no_space_10 | stuffcreekhandbeforebuzzpitchcrushsteptrendlottery |  
+| bip_39_word_no_space_11 | stuffcreekhandbeforebuzzpitchcrushsteptrendlotterybusiness |  
+| bip_39_word_no_space_12 | stuffcreekhandbeforebuzzpitchcrushsteptrendlotterybusinessage |  
+| bip_39_word_no_space_2 | stuffcreek |  
+| bip_39_word_no_space_3 | stuffcreekhand |  
+| bip_39_word_no_space_4 | stuffcreekhandbefore |  
+| bip_39_word_no_space_5 | stuffcreekhandbeforebuzz |  
+| bip_39_word_no_space_6 | stuffcreekhandbeforebuzzpitch |  
+| bip_39_word_no_space_7 | stuffcreekhandbeforebuzzpitchcrush |  
+| bip_39_word_no_space_8 | stuffcreekhandbeforebuzzpitchcrushstep |  
+| bip_39_word_no_space_9 | stuffcreekhandbeforebuzzpitchcrushsteptrend |  
 | bip_39_word_space_0 | ['stuff', 'creek', 'hand', 'before', 'buzz', 'pitch', 'crush', 'step', 'trend', 'lottery', 'business', 'age'] |  
 | bip_39_word_space_1 | stuff |  
 | bip_39_word_space_10 | stuff creek hand before buzz pitch crush step trend lottery |  

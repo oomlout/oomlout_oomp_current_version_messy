@@ -122,6 +122,18 @@ angle
 machine
 patrol
 use |  
+| bip_39_word_no_space_1 | void |  
+| bip_39_word_no_space_10 | voidtheredumbbidgovernanglemachinepatrolusezone |  
+| bip_39_word_no_space_11 | voidtheredumbbidgovernanglemachinepatrolusezonemarriage |  
+| bip_39_word_no_space_12 | voidtheredumbbidgovernanglemachinepatrolusezonemarriageanalyst |  
+| bip_39_word_no_space_2 | voidthere |  
+| bip_39_word_no_space_3 | voidtheredumb |  
+| bip_39_word_no_space_4 | voidtheredumbbid |  
+| bip_39_word_no_space_5 | voidtheredumbbidgovern |  
+| bip_39_word_no_space_6 | voidtheredumbbidgovernangle |  
+| bip_39_word_no_space_7 | voidtheredumbbidgovernanglemachine |  
+| bip_39_word_no_space_8 | voidtheredumbbidgovernanglemachinepatrol |  
+| bip_39_word_no_space_9 | voidtheredumbbidgovernanglemachinepatroluse |  
 | bip_39_word_space_0 | ['void', 'there', 'dumb', 'bid', 'govern', 'angle', 'machine', 'patrol', 'use', 'zone', 'marriage', 'analyst'] |  
 | bip_39_word_space_1 | void |  
 | bip_39_word_space_10 | void there dumb bid govern angle machine patrol use zone |  

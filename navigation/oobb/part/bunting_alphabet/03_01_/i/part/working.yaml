@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dance
   flag
 
   sunny'
+bip_39_word_no_space_1: dance
+bip_39_word_no_space_10: dancewinnerprogramnovelcandyseaeasyflagsunnyramp
+bip_39_word_no_space_11: dancewinnerprogramnovelcandyseaeasyflagsunnyramppiece
+bip_39_word_no_space_12: dancewinnerprogramnovelcandyseaeasyflagsunnyramppiecealley
+bip_39_word_no_space_2: dancewinner
+bip_39_word_no_space_3: dancewinnerprogram
+bip_39_word_no_space_4: dancewinnerprogramnovel
+bip_39_word_no_space_5: dancewinnerprogramnovelcandy
+bip_39_word_no_space_6: dancewinnerprogramnovelcandysea
+bip_39_word_no_space_7: dancewinnerprogramnovelcandyseaeasy
+bip_39_word_no_space_8: dancewinnerprogramnovelcandyseaeasyflag
+bip_39_word_no_space_9: dancewinnerprogramnovelcandyseaeasyflagsunny
 bip_39_word_space_0:
 - dance
 - winner

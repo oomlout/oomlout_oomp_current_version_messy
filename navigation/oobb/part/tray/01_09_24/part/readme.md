@@ -122,6 +122,18 @@ fit
 advice
 fabric
 level |  
+| bip_39_word_no_space_1 | engage |  
+| bip_39_word_no_space_10 | engagewarmepisodecitizenmomentfitadvicefabriclevelfox |  
+| bip_39_word_no_space_11 | engagewarmepisodecitizenmomentfitadvicefabriclevelfoxthought |  
+| bip_39_word_no_space_12 | engagewarmepisodecitizenmomentfitadvicefabriclevelfoxthoughtanother |  
+| bip_39_word_no_space_2 | engagewarm |  
+| bip_39_word_no_space_3 | engagewarmepisode |  
+| bip_39_word_no_space_4 | engagewarmepisodecitizen |  
+| bip_39_word_no_space_5 | engagewarmepisodecitizenmoment |  
+| bip_39_word_no_space_6 | engagewarmepisodecitizenmomentfit |  
+| bip_39_word_no_space_7 | engagewarmepisodecitizenmomentfitadvice |  
+| bip_39_word_no_space_8 | engagewarmepisodecitizenmomentfitadvicefabric |  
+| bip_39_word_no_space_9 | engagewarmepisodecitizenmomentfitadvicefabriclevel |  
 | bip_39_word_space_0 | ['engage', 'warm', 'episode', 'citizen', 'moment', 'fit', 'advice', 'fabric', 'level', 'fox', 'thought', 'another'] |  
 | bip_39_word_space_1 | engage |  
 | bip_39_word_space_10 | engage warm episode citizen moment fit advice fabric level fox |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'useless
   level
 
   infant'
+bip_39_word_no_space_1: useless
+bip_39_word_no_space_10: uselesscometoothradioghostpathabsentlevelinfantshallow
+bip_39_word_no_space_11: uselesscometoothradioghostpathabsentlevelinfantshallowhelmet
+bip_39_word_no_space_12: uselesscometoothradioghostpathabsentlevelinfantshallowhelmetadmit
+bip_39_word_no_space_2: uselesscome
+bip_39_word_no_space_3: uselesscometooth
+bip_39_word_no_space_4: uselesscometoothradio
+bip_39_word_no_space_5: uselesscometoothradioghost
+bip_39_word_no_space_6: uselesscometoothradioghostpath
+bip_39_word_no_space_7: uselesscometoothradioghostpathabsent
+bip_39_word_no_space_8: uselesscometoothradioghostpathabsentlevel
+bip_39_word_no_space_9: uselesscometoothradioghostpathabsentlevelinfant
 bip_39_word_space_0:
 - useless
 - come

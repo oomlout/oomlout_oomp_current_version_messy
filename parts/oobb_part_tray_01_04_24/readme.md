@@ -122,6 +122,18 @@ hip
 eight
 master
 south |  
+| bip_39_word_no_space_1 | injury |  
+| bip_39_word_no_space_10 | injuryeagleladyinnergadgethipeightmastersouthfun |  
+| bip_39_word_no_space_11 | injuryeagleladyinnergadgethipeightmastersouthfunsorry |  
+| bip_39_word_no_space_12 | injuryeagleladyinnergadgethipeightmastersouthfunsorryapprove |  
+| bip_39_word_no_space_2 | injuryeagle |  
+| bip_39_word_no_space_3 | injuryeaglelady |  
+| bip_39_word_no_space_4 | injuryeagleladyinner |  
+| bip_39_word_no_space_5 | injuryeagleladyinnergadget |  
+| bip_39_word_no_space_6 | injuryeagleladyinnergadgethip |  
+| bip_39_word_no_space_7 | injuryeagleladyinnergadgethipeight |  
+| bip_39_word_no_space_8 | injuryeagleladyinnergadgethipeightmaster |  
+| bip_39_word_no_space_9 | injuryeagleladyinnergadgethipeightmastersouth |  
 | bip_39_word_space_0 | ['injury', 'eagle', 'lady', 'inner', 'gadget', 'hip', 'eight', 'master', 'south', 'fun', 'sorry', 'approve'] |  
 | bip_39_word_space_1 | injury |  
 | bip_39_word_space_10 | injury eagle lady inner gadget hip eight master south fun |  

@@ -122,6 +122,18 @@ lady
 valve
 robust
 myself |  
+| bip_39_word_no_space_1 | path |  
+| bip_39_word_no_space_10 | pathtransferneedleaderrelaxladyvalverobustmyselfcorn |  
+| bip_39_word_no_space_11 | pathtransferneedleaderrelaxladyvalverobustmyselfcorntext |  
+| bip_39_word_no_space_12 | pathtransferneedleaderrelaxladyvalverobustmyselfcorntextalso |  
+| bip_39_word_no_space_2 | pathtransfer |  
+| bip_39_word_no_space_3 | pathtransferneed |  
+| bip_39_word_no_space_4 | pathtransferneedleader |  
+| bip_39_word_no_space_5 | pathtransferneedleaderrelax |  
+| bip_39_word_no_space_6 | pathtransferneedleaderrelaxlady |  
+| bip_39_word_no_space_7 | pathtransferneedleaderrelaxladyvalve |  
+| bip_39_word_no_space_8 | pathtransferneedleaderrelaxladyvalverobust |  
+| bip_39_word_no_space_9 | pathtransferneedleaderrelaxladyvalverobustmyself |  
 | bip_39_word_space_0 | ['path', 'transfer', 'need', 'leader', 'relax', 'lady', 'valve', 'robust', 'myself', 'corn', 'text', 'also'] |  
 | bip_39_word_space_1 | path |  
 | bip_39_word_space_10 | path transfer need leader relax lady valve robust myself corn |  

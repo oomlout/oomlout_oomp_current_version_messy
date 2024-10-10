@@ -122,6 +122,18 @@ tree
 ocean
 divorce
 engine |  
+| bip_39_word_no_space_1 | vocal |  
+| bip_39_word_no_space_10 | vocalmemberminutequizjackettreeoceandivorceengineglad |  
+| bip_39_word_no_space_11 | vocalmemberminutequizjackettreeoceandivorceenginegladphoto |  
+| bip_39_word_no_space_12 | vocalmemberminutequizjackettreeoceandivorceenginegladphotoable |  
+| bip_39_word_no_space_2 | vocalmember |  
+| bip_39_word_no_space_3 | vocalmemberminute |  
+| bip_39_word_no_space_4 | vocalmemberminutequiz |  
+| bip_39_word_no_space_5 | vocalmemberminutequizjacket |  
+| bip_39_word_no_space_6 | vocalmemberminutequizjackettree |  
+| bip_39_word_no_space_7 | vocalmemberminutequizjackettreeocean |  
+| bip_39_word_no_space_8 | vocalmemberminutequizjackettreeoceandivorce |  
+| bip_39_word_no_space_9 | vocalmemberminutequizjackettreeoceandivorceengine |  
 | bip_39_word_space_0 | ['vocal', 'member', 'minute', 'quiz', 'jacket', 'tree', 'ocean', 'divorce', 'engine', 'glad', 'photo', 'able'] |  
 | bip_39_word_space_1 | vocal |  
 | bip_39_word_space_10 | vocal member minute quiz jacket tree ocean divorce engine glad |  

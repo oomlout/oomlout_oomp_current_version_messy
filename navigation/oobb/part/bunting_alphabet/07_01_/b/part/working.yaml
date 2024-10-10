@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'reflect
   tomato
 
   select'
+bip_39_word_no_space_1: reflect
+bip_39_word_no_space_10: reflectboxmilklumbernephewdetectpaddletomatoselectorchard
+bip_39_word_no_space_11: reflectboxmilklumbernephewdetectpaddletomatoselectorchardweird
+bip_39_word_no_space_12: reflectboxmilklumbernephewdetectpaddletomatoselectorchardweirdalert
+bip_39_word_no_space_2: reflectbox
+bip_39_word_no_space_3: reflectboxmilk
+bip_39_word_no_space_4: reflectboxmilklumber
+bip_39_word_no_space_5: reflectboxmilklumbernephew
+bip_39_word_no_space_6: reflectboxmilklumbernephewdetect
+bip_39_word_no_space_7: reflectboxmilklumbernephewdetectpaddle
+bip_39_word_no_space_8: reflectboxmilklumbernephewdetectpaddletomato
+bip_39_word_no_space_9: reflectboxmilklumbernephewdetectpaddletomatoselect
 bip_39_word_space_0:
 - reflect
 - box

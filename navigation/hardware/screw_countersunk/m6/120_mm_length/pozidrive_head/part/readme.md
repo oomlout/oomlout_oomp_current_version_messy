@@ -122,6 +122,18 @@ draft
 acoustic
 edit
 ignore |  
+| bip_39_word_no_space_1 | rich |  
+| bip_39_word_no_space_10 | richpolicefeedstrategyfrequentdraftacousticeditignorefork |  
+| bip_39_word_no_space_11 | richpolicefeedstrategyfrequentdraftacousticeditignoreforkspawn |  
+| bip_39_word_no_space_12 | richpolicefeedstrategyfrequentdraftacousticeditignoreforkspawnartwork |  
+| bip_39_word_no_space_2 | richpolice |  
+| bip_39_word_no_space_3 | richpolicefeed |  
+| bip_39_word_no_space_4 | richpolicefeedstrategy |  
+| bip_39_word_no_space_5 | richpolicefeedstrategyfrequent |  
+| bip_39_word_no_space_6 | richpolicefeedstrategyfrequentdraft |  
+| bip_39_word_no_space_7 | richpolicefeedstrategyfrequentdraftacoustic |  
+| bip_39_word_no_space_8 | richpolicefeedstrategyfrequentdraftacousticedit |  
+| bip_39_word_no_space_9 | richpolicefeedstrategyfrequentdraftacousticeditignore |  
 | bip_39_word_space_0 | ['rich', 'police', 'feed', 'strategy', 'frequent', 'draft', 'acoustic', 'edit', 'ignore', 'fork', 'spawn', 'artwork'] |  
 | bip_39_word_space_1 | rich |  
 | bip_39_word_space_10 | rich police feed strategy frequent draft acoustic edit ignore fork |  

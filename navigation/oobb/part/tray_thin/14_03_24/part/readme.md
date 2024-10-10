@@ -122,6 +122,18 @@ tomato
 street
 record
 unlock |  
+| bip_39_word_no_space_1 | prosper |  
+| bip_39_word_no_space_10 | prospersoulwindowwisecaptaintomatostreetrecordunlockpenalty |  
+| bip_39_word_no_space_11 | prospersoulwindowwisecaptaintomatostreetrecordunlockpenaltyimpulse |  
+| bip_39_word_no_space_12 | prospersoulwindowwisecaptaintomatostreetrecordunlockpenaltyimpulseapril |  
+| bip_39_word_no_space_2 | prospersoul |  
+| bip_39_word_no_space_3 | prospersoulwindow |  
+| bip_39_word_no_space_4 | prospersoulwindowwise |  
+| bip_39_word_no_space_5 | prospersoulwindowwisecaptain |  
+| bip_39_word_no_space_6 | prospersoulwindowwisecaptaintomato |  
+| bip_39_word_no_space_7 | prospersoulwindowwisecaptaintomatostreet |  
+| bip_39_word_no_space_8 | prospersoulwindowwisecaptaintomatostreetrecord |  
+| bip_39_word_no_space_9 | prospersoulwindowwisecaptaintomatostreetrecordunlock |  
 | bip_39_word_space_0 | ['prosper', 'soul', 'window', 'wise', 'captain', 'tomato', 'street', 'record', 'unlock', 'penalty', 'impulse', 'april'] |  
 | bip_39_word_space_1 | prosper |  
 | bip_39_word_space_10 | prosper soul window wise captain tomato street record unlock penalty |  

@@ -122,6 +122,18 @@ leisure
 bulb
 swim
 taste |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holecoaststageactinitialleisurebulbswimtastecabbage |  
+| bip_39_word_no_space_11 | holecoaststageactinitialleisurebulbswimtastecabbagethrow |  
+| bip_39_word_no_space_12 | holecoaststageactinitialleisurebulbswimtastecabbagethrowaerobic |  
+| bip_39_word_no_space_2 | holecoast |  
+| bip_39_word_no_space_3 | holecoaststage |  
+| bip_39_word_no_space_4 | holecoaststageact |  
+| bip_39_word_no_space_5 | holecoaststageactinitial |  
+| bip_39_word_no_space_6 | holecoaststageactinitialleisure |  
+| bip_39_word_no_space_7 | holecoaststageactinitialleisurebulb |  
+| bip_39_word_no_space_8 | holecoaststageactinitialleisurebulbswim |  
+| bip_39_word_no_space_9 | holecoaststageactinitialleisurebulbswimtaste |  
 | bip_39_word_space_0 | ['hole', 'coast', 'stage', 'act', 'initial', 'leisure', 'bulb', 'swim', 'taste', 'cabbage', 'throw', 'aerobic'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole coast stage act initial leisure bulb swim taste cabbage |  

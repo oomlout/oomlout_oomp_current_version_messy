@@ -122,6 +122,18 @@ coyote
 heavy
 casino
 unique |  
+| bip_39_word_no_space_1 | input |  
+| bip_39_word_no_space_10 | inputeggsqueezestemopposecoyoteheavycasinouniqueafford |  
+| bip_39_word_no_space_11 | inputeggsqueezestemopposecoyoteheavycasinouniqueafforddice |  
+| bip_39_word_no_space_12 | inputeggsqueezestemopposecoyoteheavycasinouniqueafforddiceattend |  
+| bip_39_word_no_space_2 | inputegg |  
+| bip_39_word_no_space_3 | inputeggsqueeze |  
+| bip_39_word_no_space_4 | inputeggsqueezestem |  
+| bip_39_word_no_space_5 | inputeggsqueezestemoppose |  
+| bip_39_word_no_space_6 | inputeggsqueezestemopposecoyote |  
+| bip_39_word_no_space_7 | inputeggsqueezestemopposecoyoteheavy |  
+| bip_39_word_no_space_8 | inputeggsqueezestemopposecoyoteheavycasino |  
+| bip_39_word_no_space_9 | inputeggsqueezestemopposecoyoteheavycasinounique |  
 | bip_39_word_space_0 | ['input', 'egg', 'squeeze', 'stem', 'oppose', 'coyote', 'heavy', 'casino', 'unique', 'afford', 'dice', 'attend'] |  
 | bip_39_word_space_1 | input |  
 | bip_39_word_space_10 | input egg squeeze stem oppose coyote heavy casino unique afford |  

@@ -122,6 +122,18 @@ valley
 wild
 electric
 animal |  
+| bip_39_word_no_space_1 | cool |  
+| bip_39_word_no_space_10 | coolliarresemblesnackrealvalleywildelectricanimalconcert |  
+| bip_39_word_no_space_11 | coolliarresemblesnackrealvalleywildelectricanimalconcertwrite |  
+| bip_39_word_no_space_12 | coolliarresemblesnackrealvalleywildelectricanimalconcertwriteamount |  
+| bip_39_word_no_space_2 | coolliar |  
+| bip_39_word_no_space_3 | coolliarresemble |  
+| bip_39_word_no_space_4 | coolliarresemblesnack |  
+| bip_39_word_no_space_5 | coolliarresemblesnackreal |  
+| bip_39_word_no_space_6 | coolliarresemblesnackrealvalley |  
+| bip_39_word_no_space_7 | coolliarresemblesnackrealvalleywild |  
+| bip_39_word_no_space_8 | coolliarresemblesnackrealvalleywildelectric |  
+| bip_39_word_no_space_9 | coolliarresemblesnackrealvalleywildelectricanimal |  
 | bip_39_word_space_0 | ['cool', 'liar', 'resemble', 'snack', 'real', 'valley', 'wild', 'electric', 'animal', 'concert', 'write', 'amount'] |  
 | bip_39_word_space_1 | cool |  
 | bip_39_word_space_10 | cool liar resemble snack real valley wild electric animal concert |  

@@ -122,6 +122,18 @@ waste
 client
 coast
 hungry |  
+| bip_39_word_no_space_1 | humor |  
+| bip_39_word_no_space_10 | humorexhibitgravityrichaugustwasteclientcoasthungrykeen |  
+| bip_39_word_no_space_11 | humorexhibitgravityrichaugustwasteclientcoasthungrykeenrequire |  
+| bip_39_word_no_space_12 | humorexhibitgravityrichaugustwasteclientcoasthungrykeenrequireattract |  
+| bip_39_word_no_space_2 | humorexhibit |  
+| bip_39_word_no_space_3 | humorexhibitgravity |  
+| bip_39_word_no_space_4 | humorexhibitgravityrich |  
+| bip_39_word_no_space_5 | humorexhibitgravityrichaugust |  
+| bip_39_word_no_space_6 | humorexhibitgravityrichaugustwaste |  
+| bip_39_word_no_space_7 | humorexhibitgravityrichaugustwasteclient |  
+| bip_39_word_no_space_8 | humorexhibitgravityrichaugustwasteclientcoast |  
+| bip_39_word_no_space_9 | humorexhibitgravityrichaugustwasteclientcoasthungry |  
 | bip_39_word_space_0 | ['humor', 'exhibit', 'gravity', 'rich', 'august', 'waste', 'client', 'coast', 'hungry', 'keen', 'require', 'attract'] |  
 | bip_39_word_space_1 | humor |  
 | bip_39_word_space_10 | humor exhibit gravity rich august waste client coast hungry keen |  

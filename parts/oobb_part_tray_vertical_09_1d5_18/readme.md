@@ -122,6 +122,18 @@ pledge
 finger
 settle
 deputy |  
+| bip_39_word_no_space_1 | author |  
+| bip_39_word_no_space_10 | authorexoticcurtainculturemotherpledgefingersettledeputyamazing |  
+| bip_39_word_no_space_11 | authorexoticcurtainculturemotherpledgefingersettledeputyamazingdolphin |  
+| bip_39_word_no_space_12 | authorexoticcurtainculturemotherpledgefingersettledeputyamazingdolphinabsurd |  
+| bip_39_word_no_space_2 | authorexotic |  
+| bip_39_word_no_space_3 | authorexoticcurtain |  
+| bip_39_word_no_space_4 | authorexoticcurtainculture |  
+| bip_39_word_no_space_5 | authorexoticcurtainculturemother |  
+| bip_39_word_no_space_6 | authorexoticcurtainculturemotherpledge |  
+| bip_39_word_no_space_7 | authorexoticcurtainculturemotherpledgefinger |  
+| bip_39_word_no_space_8 | authorexoticcurtainculturemotherpledgefingersettle |  
+| bip_39_word_no_space_9 | authorexoticcurtainculturemotherpledgefingersettledeputy |  
 | bip_39_word_space_0 | ['author', 'exotic', 'curtain', 'culture', 'mother', 'pledge', 'finger', 'settle', 'deputy', 'amazing', 'dolphin', 'absurd'] |  
 | bip_39_word_space_1 | author |  
 | bip_39_word_space_10 | author exotic curtain culture mother pledge finger settle deputy amazing |  

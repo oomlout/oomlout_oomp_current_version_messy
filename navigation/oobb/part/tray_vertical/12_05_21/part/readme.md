@@ -122,6 +122,18 @@ bacon
 shed
 ugly
 toilet |  
+| bip_39_word_no_space_1 | demand |  
+| bip_39_word_no_space_10 | demandangercricketupgradeventurebaconsheduglytoiletginger |  
+| bip_39_word_no_space_11 | demandangercricketupgradeventurebaconsheduglytoiletgingeroffice |  
+| bip_39_word_no_space_12 | demandangercricketupgradeventurebaconsheduglytoiletgingerofficealways |  
+| bip_39_word_no_space_2 | demandanger |  
+| bip_39_word_no_space_3 | demandangercricket |  
+| bip_39_word_no_space_4 | demandangercricketupgrade |  
+| bip_39_word_no_space_5 | demandangercricketupgradeventure |  
+| bip_39_word_no_space_6 | demandangercricketupgradeventurebacon |  
+| bip_39_word_no_space_7 | demandangercricketupgradeventurebaconshed |  
+| bip_39_word_no_space_8 | demandangercricketupgradeventurebaconshedugly |  
+| bip_39_word_no_space_9 | demandangercricketupgradeventurebaconsheduglytoilet |  
 | bip_39_word_space_0 | ['demand', 'anger', 'cricket', 'upgrade', 'venture', 'bacon', 'shed', 'ugly', 'toilet', 'ginger', 'office', 'always'] |  
 | bip_39_word_space_1 | demand |  
 | bip_39_word_space_10 | demand anger cricket upgrade venture bacon shed ugly toilet ginger |  

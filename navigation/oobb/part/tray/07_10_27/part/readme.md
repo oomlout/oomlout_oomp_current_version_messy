@@ -122,6 +122,18 @@ eight
 narrow
 juice
 avocado |  
+| bip_39_word_no_space_1 | cherry |  
+| bip_39_word_no_space_10 | cherryunfoldgospelartefactneteightnarrowjuiceavocadotalent |  
+| bip_39_word_no_space_11 | cherryunfoldgospelartefactneteightnarrowjuiceavocadotalentcraft |  
+| bip_39_word_no_space_12 | cherryunfoldgospelartefactneteightnarrowjuiceavocadotalentcraftargue |  
+| bip_39_word_no_space_2 | cherryunfold |  
+| bip_39_word_no_space_3 | cherryunfoldgospel |  
+| bip_39_word_no_space_4 | cherryunfoldgospelartefact |  
+| bip_39_word_no_space_5 | cherryunfoldgospelartefactnet |  
+| bip_39_word_no_space_6 | cherryunfoldgospelartefactneteight |  
+| bip_39_word_no_space_7 | cherryunfoldgospelartefactneteightnarrow |  
+| bip_39_word_no_space_8 | cherryunfoldgospelartefactneteightnarrowjuice |  
+| bip_39_word_no_space_9 | cherryunfoldgospelartefactneteightnarrowjuiceavocado |  
 | bip_39_word_space_0 | ['cherry', 'unfold', 'gospel', 'artefact', 'net', 'eight', 'narrow', 'juice', 'avocado', 'talent', 'craft', 'argue'] |  
 | bip_39_word_space_1 | cherry |  
 | bip_39_word_space_10 | cherry unfold gospel artefact net eight narrow juice avocado talent |  

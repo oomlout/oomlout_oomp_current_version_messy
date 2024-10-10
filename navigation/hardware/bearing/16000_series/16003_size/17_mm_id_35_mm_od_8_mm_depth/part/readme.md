@@ -122,6 +122,18 @@ load
 fatigue
 spot
 powder |  
+| bip_39_word_no_space_1 | system |  
+| bip_39_word_no_space_10 | systemvoidrentcoralnameloadfatiguespotpowderflock |  
+| bip_39_word_no_space_11 | systemvoidrentcoralnameloadfatiguespotpowderflockunit |  
+| bip_39_word_no_space_12 | systemvoidrentcoralnameloadfatiguespotpowderflockunitathlete |  
+| bip_39_word_no_space_2 | systemvoid |  
+| bip_39_word_no_space_3 | systemvoidrent |  
+| bip_39_word_no_space_4 | systemvoidrentcoral |  
+| bip_39_word_no_space_5 | systemvoidrentcoralname |  
+| bip_39_word_no_space_6 | systemvoidrentcoralnameload |  
+| bip_39_word_no_space_7 | systemvoidrentcoralnameloadfatigue |  
+| bip_39_word_no_space_8 | systemvoidrentcoralnameloadfatiguespot |  
+| bip_39_word_no_space_9 | systemvoidrentcoralnameloadfatiguespotpowder |  
 | bip_39_word_space_0 | ['system', 'void', 'rent', 'coral', 'name', 'load', 'fatigue', 'spot', 'powder', 'flock', 'unit', 'athlete'] |  
 | bip_39_word_space_1 | system |  
 | bip_39_word_space_10 | system void rent coral name load fatigue spot powder flock |  

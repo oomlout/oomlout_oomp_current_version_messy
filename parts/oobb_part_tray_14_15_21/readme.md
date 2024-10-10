@@ -122,6 +122,18 @@ tribe
 absent
 identify
 junk |  
+| bip_39_word_no_space_1 | device |  
+| bip_39_word_no_space_10 | devicesuggestmechanicareasiegetribeabsentidentifyjunkvenue |  
+| bip_39_word_no_space_11 | devicesuggestmechanicareasiegetribeabsentidentifyjunkvenuestate |  
+| bip_39_word_no_space_12 | devicesuggestmechanicareasiegetribeabsentidentifyjunkvenuestateaugust |  
+| bip_39_word_no_space_2 | devicesuggest |  
+| bip_39_word_no_space_3 | devicesuggestmechanic |  
+| bip_39_word_no_space_4 | devicesuggestmechanicarea |  
+| bip_39_word_no_space_5 | devicesuggestmechanicareasiege |  
+| bip_39_word_no_space_6 | devicesuggestmechanicareasiegetribe |  
+| bip_39_word_no_space_7 | devicesuggestmechanicareasiegetribeabsent |  
+| bip_39_word_no_space_8 | devicesuggestmechanicareasiegetribeabsentidentify |  
+| bip_39_word_no_space_9 | devicesuggestmechanicareasiegetribeabsentidentifyjunk |  
 | bip_39_word_space_0 | ['device', 'suggest', 'mechanic', 'area', 'siege', 'tribe', 'absent', 'identify', 'junk', 'venue', 'state', 'august'] |  
 | bip_39_word_space_1 | device |  
 | bip_39_word_space_10 | device suggest mechanic area siege tribe absent identify junk venue |  

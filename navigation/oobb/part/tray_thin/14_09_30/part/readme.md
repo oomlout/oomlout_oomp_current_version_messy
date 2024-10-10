@@ -122,6 +122,18 @@ music
 thank
 april
 donate |  
+| bip_39_word_no_space_1 | butter |  
+| bip_39_word_no_space_10 | butterguessvoicepoolfevermusicthankaprildonatetail |  
+| bip_39_word_no_space_11 | butterguessvoicepoolfevermusicthankaprildonatetailmove |  
+| bip_39_word_no_space_12 | butterguessvoicepoolfevermusicthankaprildonatetailmoveangry |  
+| bip_39_word_no_space_2 | butterguess |  
+| bip_39_word_no_space_3 | butterguessvoice |  
+| bip_39_word_no_space_4 | butterguessvoicepool |  
+| bip_39_word_no_space_5 | butterguessvoicepoolfever |  
+| bip_39_word_no_space_6 | butterguessvoicepoolfevermusic |  
+| bip_39_word_no_space_7 | butterguessvoicepoolfevermusicthank |  
+| bip_39_word_no_space_8 | butterguessvoicepoolfevermusicthankapril |  
+| bip_39_word_no_space_9 | butterguessvoicepoolfevermusicthankaprildonate |  
 | bip_39_word_space_0 | ['butter', 'guess', 'voice', 'pool', 'fever', 'music', 'thank', 'april', 'donate', 'tail', 'move', 'angry'] |  
 | bip_39_word_space_1 | butter |  
 | bip_39_word_space_10 | butter guess voice pool fever music thank april donate tail |  

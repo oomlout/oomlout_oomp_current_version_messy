@@ -109,6 +109,17 @@ zero
 holiday
 pluck
 sport |  
+| bip_39_word_no_space_1 | execute |  
+| bip_39_word_no_space_10 | executeyellowunawarepanicplacezeroholidayplucksportphoto |  
+| bip_39_word_no_space_11 | executeyellowunawarepanicplacezeroholidayplucksportphotocrane |  
+| bip_39_word_no_space_2 | executeyellow |  
+| bip_39_word_no_space_3 | executeyellowunaware |  
+| bip_39_word_no_space_4 | executeyellowunawarepanic |  
+| bip_39_word_no_space_5 | executeyellowunawarepanicplace |  
+| bip_39_word_no_space_6 | executeyellowunawarepanicplacezero |  
+| bip_39_word_no_space_7 | executeyellowunawarepanicplacezeroholiday |  
+| bip_39_word_no_space_8 | executeyellowunawarepanicplacezeroholidaypluck |  
+| bip_39_word_no_space_9 | executeyellowunawarepanicplacezeroholidayplucksport |  
 | bip_39_word_space_0 | ['execute', 'yellow', 'unaware', 'panic', 'place', 'zero', 'holiday', 'pluck', 'sport', 'photo', 'crane'] |  
 | bip_39_word_space_1 | execute |  
 | bip_39_word_space_10 | execute yellow unaware panic place zero holiday pluck sport photo |  

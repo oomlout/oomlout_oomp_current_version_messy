@@ -122,6 +122,18 @@ flee
 section
 novel
 hire |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | nicearenainjurybeltdragonfleesectionnovelhirepink |  
+| bip_39_word_no_space_11 | nicearenainjurybeltdragonfleesectionnovelhirepinkskate |  
+| bip_39_word_no_space_12 | nicearenainjurybeltdragonfleesectionnovelhirepinkskateantique |  
+| bip_39_word_no_space_2 | nicearena |  
+| bip_39_word_no_space_3 | nicearenainjury |  
+| bip_39_word_no_space_4 | nicearenainjurybelt |  
+| bip_39_word_no_space_5 | nicearenainjurybeltdragon |  
+| bip_39_word_no_space_6 | nicearenainjurybeltdragonflee |  
+| bip_39_word_no_space_7 | nicearenainjurybeltdragonfleesection |  
+| bip_39_word_no_space_8 | nicearenainjurybeltdragonfleesectionnovel |  
+| bip_39_word_no_space_9 | nicearenainjurybeltdragonfleesectionnovelhire |  
 | bip_39_word_space_0 | ['nice', 'arena', 'injury', 'belt', 'dragon', 'flee', 'section', 'novel', 'hire', 'pink', 'skate', 'antique'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice arena injury belt dragon flee section novel hire pink |  

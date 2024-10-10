@@ -122,6 +122,18 @@ cheese
 original
 potato
 lobster |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondradarenhancescoutshrimpcheeseoriginalpotatolobsterbody |  
+| bip_39_word_no_space_11 | secondradarenhancescoutshrimpcheeseoriginalpotatolobsterbodychalk |  
+| bip_39_word_no_space_12 | secondradarenhancescoutshrimpcheeseoriginalpotatolobsterbodychalkarctic |  
+| bip_39_word_no_space_2 | secondradar |  
+| bip_39_word_no_space_3 | secondradarenhance |  
+| bip_39_word_no_space_4 | secondradarenhancescout |  
+| bip_39_word_no_space_5 | secondradarenhancescoutshrimp |  
+| bip_39_word_no_space_6 | secondradarenhancescoutshrimpcheese |  
+| bip_39_word_no_space_7 | secondradarenhancescoutshrimpcheeseoriginal |  
+| bip_39_word_no_space_8 | secondradarenhancescoutshrimpcheeseoriginalpotato |  
+| bip_39_word_no_space_9 | secondradarenhancescoutshrimpcheeseoriginalpotatolobster |  
 | bip_39_word_space_0 | ['second', 'radar', 'enhance', 'scout', 'shrimp', 'cheese', 'original', 'potato', 'lobster', 'body', 'chalk', 'arctic'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second radar enhance scout shrimp cheese original potato lobster body |  

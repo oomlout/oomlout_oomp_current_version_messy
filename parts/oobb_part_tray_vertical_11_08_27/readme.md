@@ -122,6 +122,18 @@ display
 film
 keen
 devote |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepfaultdisagreereleasesufferdisplayfilmkeendevotebaby |  
+| bip_39_word_no_space_11 | sleepfaultdisagreereleasesufferdisplayfilmkeendevotebabytide |  
+| bip_39_word_no_space_12 | sleepfaultdisagreereleasesufferdisplayfilmkeendevotebabytideatom |  
+| bip_39_word_no_space_2 | sleepfault |  
+| bip_39_word_no_space_3 | sleepfaultdisagree |  
+| bip_39_word_no_space_4 | sleepfaultdisagreerelease |  
+| bip_39_word_no_space_5 | sleepfaultdisagreereleasesuffer |  
+| bip_39_word_no_space_6 | sleepfaultdisagreereleasesufferdisplay |  
+| bip_39_word_no_space_7 | sleepfaultdisagreereleasesufferdisplayfilm |  
+| bip_39_word_no_space_8 | sleepfaultdisagreereleasesufferdisplayfilmkeen |  
+| bip_39_word_no_space_9 | sleepfaultdisagreereleasesufferdisplayfilmkeendevote |  
 | bip_39_word_space_0 | ['sleep', 'fault', 'disagree', 'release', 'suffer', 'display', 'film', 'keen', 'devote', 'baby', 'tide', 'atom'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep fault disagree release suffer display film keen devote baby |  

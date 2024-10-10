@@ -122,6 +122,18 @@ park
 tiger
 embrace
 slice |  
+| bip_39_word_no_space_1 | fortune |  
+| bip_39_word_no_space_10 | fortuneflowerhubcardutyparktigerembraceslicechoose |  
+| bip_39_word_no_space_11 | fortuneflowerhubcardutyparktigerembraceslicechoosesubject |  
+| bip_39_word_no_space_12 | fortuneflowerhubcardutyparktigerembraceslicechoosesubjectamount |  
+| bip_39_word_no_space_2 | fortuneflower |  
+| bip_39_word_no_space_3 | fortuneflowerhub |  
+| bip_39_word_no_space_4 | fortuneflowerhubcar |  
+| bip_39_word_no_space_5 | fortuneflowerhubcarduty |  
+| bip_39_word_no_space_6 | fortuneflowerhubcardutypark |  
+| bip_39_word_no_space_7 | fortuneflowerhubcardutyparktiger |  
+| bip_39_word_no_space_8 | fortuneflowerhubcardutyparktigerembrace |  
+| bip_39_word_no_space_9 | fortuneflowerhubcardutyparktigerembraceslice |  
 | bip_39_word_space_0 | ['fortune', 'flower', 'hub', 'car', 'duty', 'park', 'tiger', 'embrace', 'slice', 'choose', 'subject', 'amount'] |  
 | bip_39_word_space_1 | fortune |  
 | bip_39_word_space_10 | fortune flower hub car duty park tiger embrace slice choose |  

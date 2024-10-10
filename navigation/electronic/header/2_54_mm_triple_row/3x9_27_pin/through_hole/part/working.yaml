@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ostrich
   gun
 
   skill'
+bip_39_word_no_space_1: ostrich
+bip_39_word_no_space_10: ostrichownstruggledaymixapproverealgunskillmutual
+bip_39_word_no_space_11: ostrichownstruggledaymixapproverealgunskillmutualbulb
+bip_39_word_no_space_12: ostrichownstruggledaymixapproverealgunskillmutualbulballow
+bip_39_word_no_space_2: ostrichown
+bip_39_word_no_space_3: ostrichownstruggle
+bip_39_word_no_space_4: ostrichownstruggleday
+bip_39_word_no_space_5: ostrichownstruggledaymix
+bip_39_word_no_space_6: ostrichownstruggledaymixapprove
+bip_39_word_no_space_7: ostrichownstruggledaymixapprovereal
+bip_39_word_no_space_8: ostrichownstruggledaymixapproverealgun
+bip_39_word_no_space_9: ostrichownstruggledaymixapproverealgunskill
 bip_39_word_space_0:
 - ostrich
 - own

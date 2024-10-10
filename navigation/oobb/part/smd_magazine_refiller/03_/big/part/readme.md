@@ -122,6 +122,18 @@ planet
 casino
 logic
 stomach |  
+| bip_39_word_no_space_1 | lake |  
+| bip_39_word_no_space_10 | laketrackfoundhobbytalentplanetcasinologicstomachunable |  
+| bip_39_word_no_space_11 | laketrackfoundhobbytalentplanetcasinologicstomachunablebrown |  
+| bip_39_word_no_space_12 | laketrackfoundhobbytalentplanetcasinologicstomachunablebrownart |  
+| bip_39_word_no_space_2 | laketrack |  
+| bip_39_word_no_space_3 | laketrackfound |  
+| bip_39_word_no_space_4 | laketrackfoundhobby |  
+| bip_39_word_no_space_5 | laketrackfoundhobbytalent |  
+| bip_39_word_no_space_6 | laketrackfoundhobbytalentplanet |  
+| bip_39_word_no_space_7 | laketrackfoundhobbytalentplanetcasino |  
+| bip_39_word_no_space_8 | laketrackfoundhobbytalentplanetcasinologic |  
+| bip_39_word_no_space_9 | laketrackfoundhobbytalentplanetcasinologicstomach |  
 | bip_39_word_space_0 | ['lake', 'track', 'found', 'hobby', 'talent', 'planet', 'casino', 'logic', 'stomach', 'unable', 'brown', 'art'] |  
 | bip_39_word_space_1 | lake |  
 | bip_39_word_space_10 | lake track found hobby talent planet casino logic stomach unable |  

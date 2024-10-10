@@ -122,6 +122,18 @@ cushion
 organ
 track
 wide |  
+| bip_39_word_no_space_1 | gather |  
+| bip_39_word_no_space_10 | gathershootsomeoneticketbunkercushionorgantrackwidewear |  
+| bip_39_word_no_space_11 | gathershootsomeoneticketbunkercushionorgantrackwidewearbrush |  
+| bip_39_word_no_space_12 | gathershootsomeoneticketbunkercushionorgantrackwidewearbrushaim |  
+| bip_39_word_no_space_2 | gathershoot |  
+| bip_39_word_no_space_3 | gathershootsomeone |  
+| bip_39_word_no_space_4 | gathershootsomeoneticket |  
+| bip_39_word_no_space_5 | gathershootsomeoneticketbunker |  
+| bip_39_word_no_space_6 | gathershootsomeoneticketbunkercushion |  
+| bip_39_word_no_space_7 | gathershootsomeoneticketbunkercushionorgan |  
+| bip_39_word_no_space_8 | gathershootsomeoneticketbunkercushionorgantrack |  
+| bip_39_word_no_space_9 | gathershootsomeoneticketbunkercushionorgantrackwide |  
 | bip_39_word_space_0 | ['gather', 'shoot', 'someone', 'ticket', 'bunker', 'cushion', 'organ', 'track', 'wide', 'wear', 'brush', 'aim'] |  
 | bip_39_word_space_1 | gather |  
 | bip_39_word_space_10 | gather shoot someone ticket bunker cushion organ track wide wear |  

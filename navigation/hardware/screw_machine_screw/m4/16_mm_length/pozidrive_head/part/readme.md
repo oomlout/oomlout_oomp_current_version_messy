@@ -122,6 +122,18 @@ crisp
 ribbon
 horse
 orchard |  
+| bip_39_word_no_space_1 | olive |  
+| bip_39_word_no_space_10 | oliveimproveaislepatchresponsecrispribbonhorseorchardnut |  
+| bip_39_word_no_space_11 | oliveimproveaislepatchresponsecrispribbonhorseorchardnuttransfer |  
+| bip_39_word_no_space_12 | oliveimproveaislepatchresponsecrispribbonhorseorchardnuttransferacid |  
+| bip_39_word_no_space_2 | oliveimprove |  
+| bip_39_word_no_space_3 | oliveimproveaisle |  
+| bip_39_word_no_space_4 | oliveimproveaislepatch |  
+| bip_39_word_no_space_5 | oliveimproveaislepatchresponse |  
+| bip_39_word_no_space_6 | oliveimproveaislepatchresponsecrisp |  
+| bip_39_word_no_space_7 | oliveimproveaislepatchresponsecrispribbon |  
+| bip_39_word_no_space_8 | oliveimproveaislepatchresponsecrispribbonhorse |  
+| bip_39_word_no_space_9 | oliveimproveaislepatchresponsecrispribbonhorseorchard |  
 | bip_39_word_space_0 | ['olive', 'improve', 'aisle', 'patch', 'response', 'crisp', 'ribbon', 'horse', 'orchard', 'nut', 'transfer', 'acid'] |  
 | bip_39_word_space_1 | olive |  
 | bip_39_word_space_10 | olive improve aisle patch response crisp ribbon horse orchard nut |  

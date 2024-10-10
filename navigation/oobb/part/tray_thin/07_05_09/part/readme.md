@@ -122,6 +122,18 @@ target
 hole
 cereal
 infant |  
+| bip_39_word_no_space_1 | choice |  
+| bip_39_word_no_space_10 | choiceeitherveryoctoberorienttargetholecerealinfantdream |  
+| bip_39_word_no_space_11 | choiceeitherveryoctoberorienttargetholecerealinfantdreamradio |  
+| bip_39_word_no_space_12 | choiceeitherveryoctoberorienttargetholecerealinfantdreamradioaspect |  
+| bip_39_word_no_space_2 | choiceeither |  
+| bip_39_word_no_space_3 | choiceeithervery |  
+| bip_39_word_no_space_4 | choiceeitherveryoctober |  
+| bip_39_word_no_space_5 | choiceeitherveryoctoberorient |  
+| bip_39_word_no_space_6 | choiceeitherveryoctoberorienttarget |  
+| bip_39_word_no_space_7 | choiceeitherveryoctoberorienttargethole |  
+| bip_39_word_no_space_8 | choiceeitherveryoctoberorienttargetholecereal |  
+| bip_39_word_no_space_9 | choiceeitherveryoctoberorienttargetholecerealinfant |  
 | bip_39_word_space_0 | ['choice', 'either', 'very', 'october', 'orient', 'target', 'hole', 'cereal', 'infant', 'dream', 'radio', 'aspect'] |  
 | bip_39_word_space_1 | choice |  
 | bip_39_word_space_10 | choice either very october orient target hole cereal infant dream |  

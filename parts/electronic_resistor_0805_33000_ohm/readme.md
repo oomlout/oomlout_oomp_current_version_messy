@@ -122,6 +122,18 @@ bachelor
 turtle
 mouse
 almost |  
+| bip_39_word_no_space_1 | airport |  
+| bip_39_word_no_space_10 | airportraceabilitybirdmechanicbachelorturtlemousealmostribbon |  
+| bip_39_word_no_space_11 | airportraceabilitybirdmechanicbachelorturtlemousealmostribbonerase |  
+| bip_39_word_no_space_12 | airportraceabilitybirdmechanicbachelorturtlemousealmostribboneraseartefact |  
+| bip_39_word_no_space_2 | airportrace |  
+| bip_39_word_no_space_3 | airportraceability |  
+| bip_39_word_no_space_4 | airportraceabilitybird |  
+| bip_39_word_no_space_5 | airportraceabilitybirdmechanic |  
+| bip_39_word_no_space_6 | airportraceabilitybirdmechanicbachelor |  
+| bip_39_word_no_space_7 | airportraceabilitybirdmechanicbachelorturtle |  
+| bip_39_word_no_space_8 | airportraceabilitybirdmechanicbachelorturtlemouse |  
+| bip_39_word_no_space_9 | airportraceabilitybirdmechanicbachelorturtlemousealmost |  
 | bip_39_word_space_0 | ['airport', 'race', 'ability', 'bird', 'mechanic', 'bachelor', 'turtle', 'mouse', 'almost', 'ribbon', 'erase', 'artefact'] |  
 | bip_39_word_space_1 | airport |  
 | bip_39_word_space_10 | airport race ability bird mechanic bachelor turtle mouse almost ribbon |  

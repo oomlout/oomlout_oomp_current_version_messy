@@ -122,6 +122,18 @@ manual
 notice
 injury
 rubber |  
+| bip_39_word_no_space_1 | unlock |  
+| bip_39_word_no_space_10 | unlockexisteternalgalaxyexpandmanualnoticeinjuryrubbernovel |  
+| bip_39_word_no_space_11 | unlockexisteternalgalaxyexpandmanualnoticeinjuryrubbernovelacquire |  
+| bip_39_word_no_space_12 | unlockexisteternalgalaxyexpandmanualnoticeinjuryrubbernovelacquireapril |  
+| bip_39_word_no_space_2 | unlockexist |  
+| bip_39_word_no_space_3 | unlockexisteternal |  
+| bip_39_word_no_space_4 | unlockexisteternalgalaxy |  
+| bip_39_word_no_space_5 | unlockexisteternalgalaxyexpand |  
+| bip_39_word_no_space_6 | unlockexisteternalgalaxyexpandmanual |  
+| bip_39_word_no_space_7 | unlockexisteternalgalaxyexpandmanualnotice |  
+| bip_39_word_no_space_8 | unlockexisteternalgalaxyexpandmanualnoticeinjury |  
+| bip_39_word_no_space_9 | unlockexisteternalgalaxyexpandmanualnoticeinjuryrubber |  
 | bip_39_word_space_0 | ['unlock', 'exist', 'eternal', 'galaxy', 'expand', 'manual', 'notice', 'injury', 'rubber', 'novel', 'acquire', 'april'] |  
 | bip_39_word_space_1 | unlock |  
 | bip_39_word_space_10 | unlock exist eternal galaxy expand manual notice injury rubber novel |  

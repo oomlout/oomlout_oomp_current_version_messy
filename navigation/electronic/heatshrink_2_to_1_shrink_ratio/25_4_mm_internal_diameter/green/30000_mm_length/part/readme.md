@@ -122,6 +122,18 @@ brother
 turkey
 goose
 rail |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officeeliteofferuptretreatbrotherturkeygooserailsettle |  
+| bip_39_word_no_space_11 | officeeliteofferuptretreatbrotherturkeygooserailsettlesupreme |  
+| bip_39_word_no_space_12 | officeeliteofferuptretreatbrotherturkeygooserailsettlesupremealpha |  
+| bip_39_word_no_space_2 | officeelite |  
+| bip_39_word_no_space_3 | officeeliteoff |  
+| bip_39_word_no_space_4 | officeeliteofferupt |  
+| bip_39_word_no_space_5 | officeeliteofferuptretreat |  
+| bip_39_word_no_space_6 | officeeliteofferuptretreatbrother |  
+| bip_39_word_no_space_7 | officeeliteofferuptretreatbrotherturkey |  
+| bip_39_word_no_space_8 | officeeliteofferuptretreatbrotherturkeygoose |  
+| bip_39_word_no_space_9 | officeeliteofferuptretreatbrotherturkeygooserail |  
 | bip_39_word_space_0 | ['office', 'elite', 'off', 'erupt', 'retreat', 'brother', 'turkey', 'goose', 'rail', 'settle', 'supreme', 'alpha'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office elite off erupt retreat brother turkey goose rail settle |  

@@ -122,6 +122,18 @@ tattoo
 exclude
 range
 glow |  
+| bip_39_word_no_space_1 | click |  
+| bip_39_word_no_space_10 | clickendlessphotocruisemarkettattooexcluderangeglowlawn |  
+| bip_39_word_no_space_11 | clickendlessphotocruisemarkettattooexcluderangeglowlawnbefore |  
+| bip_39_word_no_space_12 | clickendlessphotocruisemarkettattooexcluderangeglowlawnbeforeall |  
+| bip_39_word_no_space_2 | clickendless |  
+| bip_39_word_no_space_3 | clickendlessphoto |  
+| bip_39_word_no_space_4 | clickendlessphotocruise |  
+| bip_39_word_no_space_5 | clickendlessphotocruisemarket |  
+| bip_39_word_no_space_6 | clickendlessphotocruisemarkettattoo |  
+| bip_39_word_no_space_7 | clickendlessphotocruisemarkettattooexclude |  
+| bip_39_word_no_space_8 | clickendlessphotocruisemarkettattooexcluderange |  
+| bip_39_word_no_space_9 | clickendlessphotocruisemarkettattooexcluderangeglow |  
 | bip_39_word_space_0 | ['click', 'endless', 'photo', 'cruise', 'market', 'tattoo', 'exclude', 'range', 'glow', 'lawn', 'before', 'all'] |  
 | bip_39_word_space_1 | click |  
 | bip_39_word_space_10 | click endless photo cruise market tattoo exclude range glow lawn |  

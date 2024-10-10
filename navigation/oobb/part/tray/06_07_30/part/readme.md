@@ -122,6 +122,18 @@ mechanic
 resist
 knee
 salon |  
+| bip_39_word_no_space_1 | build |  
+| bip_39_word_no_space_10 | buildtreerareerasoundmechanicresistkneesalonplay |  
+| bip_39_word_no_space_11 | buildtreerareerasoundmechanicresistkneesalonplayangry |  
+| bip_39_word_no_space_12 | buildtreerareerasoundmechanicresistkneesalonplayangryaspect |  
+| bip_39_word_no_space_2 | buildtree |  
+| bip_39_word_no_space_3 | buildtreerare |  
+| bip_39_word_no_space_4 | buildtreerareera |  
+| bip_39_word_no_space_5 | buildtreerareerasound |  
+| bip_39_word_no_space_6 | buildtreerareerasoundmechanic |  
+| bip_39_word_no_space_7 | buildtreerareerasoundmechanicresist |  
+| bip_39_word_no_space_8 | buildtreerareerasoundmechanicresistknee |  
+| bip_39_word_no_space_9 | buildtreerareerasoundmechanicresistkneesalon |  
 | bip_39_word_space_0 | ['build', 'tree', 'rare', 'era', 'sound', 'mechanic', 'resist', 'knee', 'salon', 'play', 'angry', 'aspect'] |  
 | bip_39_word_space_1 | build |  
 | bip_39_word_space_10 | build tree rare era sound mechanic resist knee salon play |  

@@ -122,6 +122,18 @@ okay
 tobacco
 west
 brain |  
+| bip_39_word_no_space_1 | napkin |  
+| bip_39_word_no_space_10 | napkinbuspuppysingconfirmokaytobaccowestbrainalbum |  
+| bip_39_word_no_space_11 | napkinbuspuppysingconfirmokaytobaccowestbrainalbumphone |  
+| bip_39_word_no_space_12 | napkinbuspuppysingconfirmokaytobaccowestbrainalbumphonealarm |  
+| bip_39_word_no_space_2 | napkinbus |  
+| bip_39_word_no_space_3 | napkinbuspuppy |  
+| bip_39_word_no_space_4 | napkinbuspuppysing |  
+| bip_39_word_no_space_5 | napkinbuspuppysingconfirm |  
+| bip_39_word_no_space_6 | napkinbuspuppysingconfirmokay |  
+| bip_39_word_no_space_7 | napkinbuspuppysingconfirmokaytobacco |  
+| bip_39_word_no_space_8 | napkinbuspuppysingconfirmokaytobaccowest |  
+| bip_39_word_no_space_9 | napkinbuspuppysingconfirmokaytobaccowestbrain |  
 | bip_39_word_space_0 | ['napkin', 'bus', 'puppy', 'sing', 'confirm', 'okay', 'tobacco', 'west', 'brain', 'album', 'phone', 'alarm'] |  
 | bip_39_word_space_1 | napkin |  
 | bip_39_word_space_10 | napkin bus puppy sing confirm okay tobacco west brain album |  

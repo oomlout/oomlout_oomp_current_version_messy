@@ -122,6 +122,18 @@ hint
 thunder
 seat
 glare |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keenswampempowerrequirewhenhintthunderseatglaredesign |  
+| bip_39_word_no_space_11 | keenswampempowerrequirewhenhintthunderseatglaredesignobtain |  
+| bip_39_word_no_space_12 | keenswampempowerrequirewhenhintthunderseatglaredesignobtainarmed |  
+| bip_39_word_no_space_2 | keenswamp |  
+| bip_39_word_no_space_3 | keenswampempower |  
+| bip_39_word_no_space_4 | keenswampempowerrequire |  
+| bip_39_word_no_space_5 | keenswampempowerrequirewhen |  
+| bip_39_word_no_space_6 | keenswampempowerrequirewhenhint |  
+| bip_39_word_no_space_7 | keenswampempowerrequirewhenhintthunder |  
+| bip_39_word_no_space_8 | keenswampempowerrequirewhenhintthunderseat |  
+| bip_39_word_no_space_9 | keenswampempowerrequirewhenhintthunderseatglare |  
 | bip_39_word_space_0 | ['keen', 'swamp', 'empower', 'require', 'when', 'hint', 'thunder', 'seat', 'glare', 'design', 'obtain', 'armed'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen swamp empower require when hint thunder seat glare design |  

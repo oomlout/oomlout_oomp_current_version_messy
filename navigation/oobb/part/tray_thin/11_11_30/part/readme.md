@@ -122,6 +122,18 @@ illness
 joy
 main
 beef |  
+| bip_39_word_no_space_1 | angle |  
+| bip_39_word_no_space_10 | angleseminarwhiprangecanalillnessjoymainbeefpatrol |  
+| bip_39_word_no_space_11 | angleseminarwhiprangecanalillnessjoymainbeefpatroldilemma |  
+| bip_39_word_no_space_12 | angleseminarwhiprangecanalillnessjoymainbeefpatroldilemmaaim |  
+| bip_39_word_no_space_2 | angleseminar |  
+| bip_39_word_no_space_3 | angleseminarwhip |  
+| bip_39_word_no_space_4 | angleseminarwhiprange |  
+| bip_39_word_no_space_5 | angleseminarwhiprangecanal |  
+| bip_39_word_no_space_6 | angleseminarwhiprangecanalillness |  
+| bip_39_word_no_space_7 | angleseminarwhiprangecanalillnessjoy |  
+| bip_39_word_no_space_8 | angleseminarwhiprangecanalillnessjoymain |  
+| bip_39_word_no_space_9 | angleseminarwhiprangecanalillnessjoymainbeef |  
 | bip_39_word_space_0 | ['angle', 'seminar', 'whip', 'range', 'canal', 'illness', 'joy', 'main', 'beef', 'patrol', 'dilemma', 'aim'] |  
 | bip_39_word_space_1 | angle |  
 | bip_39_word_space_10 | angle seminar whip range canal illness joy main beef patrol |  

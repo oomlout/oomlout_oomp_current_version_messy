@@ -122,6 +122,18 @@ segment
 asset
 afraid
 brand |  
+| bip_39_word_no_space_1 | collect |  
+| bip_39_word_no_space_10 | collectgeneralassetgaugebelowsegmentassetafraidbrandindoor |  
+| bip_39_word_no_space_11 | collectgeneralassetgaugebelowsegmentassetafraidbrandindoorcoin |  
+| bip_39_word_no_space_12 | collectgeneralassetgaugebelowsegmentassetafraidbrandindoorcoinankle |  
+| bip_39_word_no_space_2 | collectgeneral |  
+| bip_39_word_no_space_3 | collectgeneralasset |  
+| bip_39_word_no_space_4 | collectgeneralassetgauge |  
+| bip_39_word_no_space_5 | collectgeneralassetgaugebelow |  
+| bip_39_word_no_space_6 | collectgeneralassetgaugebelowsegment |  
+| bip_39_word_no_space_7 | collectgeneralassetgaugebelowsegmentasset |  
+| bip_39_word_no_space_8 | collectgeneralassetgaugebelowsegmentassetafraid |  
+| bip_39_word_no_space_9 | collectgeneralassetgaugebelowsegmentassetafraidbrand |  
 | bip_39_word_space_0 | ['collect', 'general', 'asset', 'gauge', 'below', 'segment', 'asset', 'afraid', 'brand', 'indoor', 'coin', 'ankle'] |  
 | bip_39_word_space_1 | collect |  
 | bip_39_word_space_10 | collect general asset gauge below segment asset afraid brand indoor |  

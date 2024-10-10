@@ -122,6 +122,18 @@ senior
 involve
 absorb
 upset |  
+| bip_39_word_no_space_1 | audit |  
+| bip_39_word_no_space_10 | auditlinkparentunitmixedseniorinvolveabsorbupsetrail |  
+| bip_39_word_no_space_11 | auditlinkparentunitmixedseniorinvolveabsorbupsetrailview |  
+| bip_39_word_no_space_12 | auditlinkparentunitmixedseniorinvolveabsorbupsetrailviewanxiety |  
+| bip_39_word_no_space_2 | auditlink |  
+| bip_39_word_no_space_3 | auditlinkparent |  
+| bip_39_word_no_space_4 | auditlinkparentunit |  
+| bip_39_word_no_space_5 | auditlinkparentunitmixed |  
+| bip_39_word_no_space_6 | auditlinkparentunitmixedsenior |  
+| bip_39_word_no_space_7 | auditlinkparentunitmixedseniorinvolve |  
+| bip_39_word_no_space_8 | auditlinkparentunitmixedseniorinvolveabsorb |  
+| bip_39_word_no_space_9 | auditlinkparentunitmixedseniorinvolveabsorbupset |  
 | bip_39_word_space_0 | ['audit', 'link', 'parent', 'unit', 'mixed', 'senior', 'involve', 'absorb', 'upset', 'rail', 'view', 'anxiety'] |  
 | bip_39_word_space_1 | audit |  
 | bip_39_word_space_10 | audit link parent unit mixed senior involve absorb upset rail |  

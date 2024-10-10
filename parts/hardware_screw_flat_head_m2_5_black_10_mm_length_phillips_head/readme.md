@@ -122,6 +122,18 @@ budget
 topic
 gallery
 action |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenearlyfadeseaangrybudgettopicgalleryactioninspire |  
+| bip_39_word_no_space_11 | burdenearlyfadeseaangrybudgettopicgalleryactioninspireinspire |  
+| bip_39_word_no_space_12 | burdenearlyfadeseaangrybudgettopicgalleryactioninspireinspireagree |  
+| bip_39_word_no_space_2 | burdenearly |  
+| bip_39_word_no_space_3 | burdenearlyfade |  
+| bip_39_word_no_space_4 | burdenearlyfadesea |  
+| bip_39_word_no_space_5 | burdenearlyfadeseaangry |  
+| bip_39_word_no_space_6 | burdenearlyfadeseaangrybudget |  
+| bip_39_word_no_space_7 | burdenearlyfadeseaangrybudgettopic |  
+| bip_39_word_no_space_8 | burdenearlyfadeseaangrybudgettopicgallery |  
+| bip_39_word_no_space_9 | burdenearlyfadeseaangrybudgettopicgalleryaction |  
 | bip_39_word_space_0 | ['burden', 'early', 'fade', 'sea', 'angry', 'budget', 'topic', 'gallery', 'action', 'inspire', 'inspire', 'agree'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden early fade sea angry budget topic gallery action inspire |  

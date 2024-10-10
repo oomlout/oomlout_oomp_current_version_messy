@@ -122,6 +122,18 @@ usual
 label
 alone
 little |  
+| bip_39_word_no_space_1 | sugar |  
+| bip_39_word_no_space_10 | sugarblanketsolargaugebecauseusuallabelalonelittlepink |  
+| bip_39_word_no_space_11 | sugarblanketsolargaugebecauseusuallabelalonelittlepinkcup |  
+| bip_39_word_no_space_12 | sugarblanketsolargaugebecauseusuallabelalonelittlepinkcupall |  
+| bip_39_word_no_space_2 | sugarblanket |  
+| bip_39_word_no_space_3 | sugarblanketsolar |  
+| bip_39_word_no_space_4 | sugarblanketsolargauge |  
+| bip_39_word_no_space_5 | sugarblanketsolargaugebecause |  
+| bip_39_word_no_space_6 | sugarblanketsolargaugebecauseusual |  
+| bip_39_word_no_space_7 | sugarblanketsolargaugebecauseusuallabel |  
+| bip_39_word_no_space_8 | sugarblanketsolargaugebecauseusuallabelalone |  
+| bip_39_word_no_space_9 | sugarblanketsolargaugebecauseusuallabelalonelittle |  
 | bip_39_word_space_0 | ['sugar', 'blanket', 'solar', 'gauge', 'because', 'usual', 'label', 'alone', 'little', 'pink', 'cup', 'all'] |  
 | bip_39_word_space_1 | sugar |  
 | bip_39_word_space_10 | sugar blanket solar gauge because usual label alone little pink |  

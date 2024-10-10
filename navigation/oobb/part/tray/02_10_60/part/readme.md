@@ -122,6 +122,18 @@ pull
 voice
 forward
 depend |  
+| bip_39_word_no_space_1 | renew |  
+| bip_39_word_no_space_10 | renewdescribesubmitnoticeinflictpullvoiceforwarddependbadge |  
+| bip_39_word_no_space_11 | renewdescribesubmitnoticeinflictpullvoiceforwarddependbadgestage |  
+| bip_39_word_no_space_12 | renewdescribesubmitnoticeinflictpullvoiceforwarddependbadgestageamount |  
+| bip_39_word_no_space_2 | renewdescribe |  
+| bip_39_word_no_space_3 | renewdescribesubmit |  
+| bip_39_word_no_space_4 | renewdescribesubmitnotice |  
+| bip_39_word_no_space_5 | renewdescribesubmitnoticeinflict |  
+| bip_39_word_no_space_6 | renewdescribesubmitnoticeinflictpull |  
+| bip_39_word_no_space_7 | renewdescribesubmitnoticeinflictpullvoice |  
+| bip_39_word_no_space_8 | renewdescribesubmitnoticeinflictpullvoiceforward |  
+| bip_39_word_no_space_9 | renewdescribesubmitnoticeinflictpullvoiceforwarddepend |  
 | bip_39_word_space_0 | ['renew', 'describe', 'submit', 'notice', 'inflict', 'pull', 'voice', 'forward', 'depend', 'badge', 'stage', 'amount'] |  
 | bip_39_word_space_1 | renew |  
 | bip_39_word_space_10 | renew describe submit notice inflict pull voice forward depend badge |  

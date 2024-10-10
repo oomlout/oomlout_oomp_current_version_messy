@@ -122,6 +122,18 @@ ask
 dirt
 wet
 design |  
+| bip_39_word_no_space_1 | gadget |  
+| bip_39_word_no_space_10 | gadgetextrafallcrueldecreaseaskdirtwetdesignbird |  
+| bip_39_word_no_space_11 | gadgetextrafallcrueldecreaseaskdirtwetdesignbirduse |  
+| bip_39_word_no_space_12 | gadgetextrafallcrueldecreaseaskdirtwetdesignbirduseangle |  
+| bip_39_word_no_space_2 | gadgetextra |  
+| bip_39_word_no_space_3 | gadgetextrafall |  
+| bip_39_word_no_space_4 | gadgetextrafallcruel |  
+| bip_39_word_no_space_5 | gadgetextrafallcrueldecrease |  
+| bip_39_word_no_space_6 | gadgetextrafallcrueldecreaseask |  
+| bip_39_word_no_space_7 | gadgetextrafallcrueldecreaseaskdirt |  
+| bip_39_word_no_space_8 | gadgetextrafallcrueldecreaseaskdirtwet |  
+| bip_39_word_no_space_9 | gadgetextrafallcrueldecreaseaskdirtwetdesign |  
 | bip_39_word_space_0 | ['gadget', 'extra', 'fall', 'cruel', 'decrease', 'ask', 'dirt', 'wet', 'design', 'bird', 'use', 'angle'] |  
 | bip_39_word_space_1 | gadget |  
 | bip_39_word_space_10 | gadget extra fall cruel decrease ask dirt wet design bird |  

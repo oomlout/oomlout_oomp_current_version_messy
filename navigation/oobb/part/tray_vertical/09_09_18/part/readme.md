@@ -122,6 +122,18 @@ start
 anchor
 leave
 shine |  
+| bip_39_word_no_space_1 | enable |  
+| bip_39_word_no_space_10 | enableimpulseloungevotemotorstartanchorleaveshineswap |  
+| bip_39_word_no_space_11 | enableimpulseloungevotemotorstartanchorleaveshineswaptoday |  
+| bip_39_word_no_space_12 | enableimpulseloungevotemotorstartanchorleaveshineswaptodayahead |  
+| bip_39_word_no_space_2 | enableimpulse |  
+| bip_39_word_no_space_3 | enableimpulselounge |  
+| bip_39_word_no_space_4 | enableimpulseloungevote |  
+| bip_39_word_no_space_5 | enableimpulseloungevotemotor |  
+| bip_39_word_no_space_6 | enableimpulseloungevotemotorstart |  
+| bip_39_word_no_space_7 | enableimpulseloungevotemotorstartanchor |  
+| bip_39_word_no_space_8 | enableimpulseloungevotemotorstartanchorleave |  
+| bip_39_word_no_space_9 | enableimpulseloungevotemotorstartanchorleaveshine |  
 | bip_39_word_space_0 | ['enable', 'impulse', 'lounge', 'vote', 'motor', 'start', 'anchor', 'leave', 'shine', 'swap', 'today', 'ahead'] |  
 | bip_39_word_space_1 | enable |  
 | bip_39_word_space_10 | enable impulse lounge vote motor start anchor leave shine swap |  

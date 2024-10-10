@@ -122,6 +122,18 @@ ensure
 enough
 nephew
 detect |  
+| bip_39_word_no_space_1 | shop |  
+| bip_39_word_no_space_10 | shoptrackdreamoperaincludeensureenoughnephewdetectlottery |  
+| bip_39_word_no_space_11 | shoptrackdreamoperaincludeensureenoughnephewdetectlotteryshare |  
+| bip_39_word_no_space_12 | shoptrackdreamoperaincludeensureenoughnephewdetectlotteryshareauthor |  
+| bip_39_word_no_space_2 | shoptrack |  
+| bip_39_word_no_space_3 | shoptrackdream |  
+| bip_39_word_no_space_4 | shoptrackdreamopera |  
+| bip_39_word_no_space_5 | shoptrackdreamoperainclude |  
+| bip_39_word_no_space_6 | shoptrackdreamoperaincludeensure |  
+| bip_39_word_no_space_7 | shoptrackdreamoperaincludeensureenough |  
+| bip_39_word_no_space_8 | shoptrackdreamoperaincludeensureenoughnephew |  
+| bip_39_word_no_space_9 | shoptrackdreamoperaincludeensureenoughnephewdetect |  
 | bip_39_word_space_0 | ['shop', 'track', 'dream', 'opera', 'include', 'ensure', 'enough', 'nephew', 'detect', 'lottery', 'share', 'author'] |  
 | bip_39_word_space_1 | shop |  
 | bip_39_word_space_10 | shop track dream opera include ensure enough nephew detect lottery |  

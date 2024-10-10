@@ -122,6 +122,18 @@ hamster
 pupil
 dry
 cereal |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparealbumrounddraftincludehamsterpupildrycerealtalk |  
+| bip_39_word_no_space_11 | preparealbumrounddraftincludehamsterpupildrycerealtalkcasual |  
+| bip_39_word_no_space_12 | preparealbumrounddraftincludehamsterpupildrycerealtalkcasualanger |  
+| bip_39_word_no_space_2 | preparealbum |  
+| bip_39_word_no_space_3 | preparealbumround |  
+| bip_39_word_no_space_4 | preparealbumrounddraft |  
+| bip_39_word_no_space_5 | preparealbumrounddraftinclude |  
+| bip_39_word_no_space_6 | preparealbumrounddraftincludehamster |  
+| bip_39_word_no_space_7 | preparealbumrounddraftincludehamsterpupil |  
+| bip_39_word_no_space_8 | preparealbumrounddraftincludehamsterpupildry |  
+| bip_39_word_no_space_9 | preparealbumrounddraftincludehamsterpupildrycereal |  
 | bip_39_word_space_0 | ['prepare', 'album', 'round', 'draft', 'include', 'hamster', 'pupil', 'dry', 'cereal', 'talk', 'casual', 'anger'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare album round draft include hamster pupil dry cereal talk |  

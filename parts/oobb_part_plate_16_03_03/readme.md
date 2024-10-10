@@ -122,6 +122,18 @@ erode
 amateur
 lava
 jazz |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decideholdquizemotionvendorerodeamateurlavajazzillness |  
+| bip_39_word_no_space_11 | decideholdquizemotionvendorerodeamateurlavajazzillnessnest |  
+| bip_39_word_no_space_12 | decideholdquizemotionvendorerodeamateurlavajazzillnessnestability |  
+| bip_39_word_no_space_2 | decidehold |  
+| bip_39_word_no_space_3 | decideholdquiz |  
+| bip_39_word_no_space_4 | decideholdquizemotion |  
+| bip_39_word_no_space_5 | decideholdquizemotionvendor |  
+| bip_39_word_no_space_6 | decideholdquizemotionvendorerode |  
+| bip_39_word_no_space_7 | decideholdquizemotionvendorerodeamateur |  
+| bip_39_word_no_space_8 | decideholdquizemotionvendorerodeamateurlava |  
+| bip_39_word_no_space_9 | decideholdquizemotionvendorerodeamateurlavajazz |  
 | bip_39_word_space_0 | ['decide', 'hold', 'quiz', 'emotion', 'vendor', 'erode', 'amateur', 'lava', 'jazz', 'illness', 'nest', 'ability'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide hold quiz emotion vendor erode amateur lava jazz illness |  

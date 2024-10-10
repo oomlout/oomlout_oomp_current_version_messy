@@ -122,6 +122,18 @@ inherit
 kid
 balance
 reunion |  
+| bip_39_word_no_space_1 | child |  
+| bip_39_word_no_space_10 | childwolfpepperpeargyminheritkidbalancereunionexcite |  
+| bip_39_word_no_space_11 | childwolfpepperpeargyminheritkidbalancereunionexcitespin |  
+| bip_39_word_no_space_12 | childwolfpepperpeargyminheritkidbalancereunionexcitespinartefact |  
+| bip_39_word_no_space_2 | childwolf |  
+| bip_39_word_no_space_3 | childwolfpepper |  
+| bip_39_word_no_space_4 | childwolfpepperpear |  
+| bip_39_word_no_space_5 | childwolfpepperpeargym |  
+| bip_39_word_no_space_6 | childwolfpepperpeargyminherit |  
+| bip_39_word_no_space_7 | childwolfpepperpeargyminheritkid |  
+| bip_39_word_no_space_8 | childwolfpepperpeargyminheritkidbalance |  
+| bip_39_word_no_space_9 | childwolfpepperpeargyminheritkidbalancereunion |  
 | bip_39_word_space_0 | ['child', 'wolf', 'pepper', 'pear', 'gym', 'inherit', 'kid', 'balance', 'reunion', 'excite', 'spin', 'artefact'] |  
 | bip_39_word_space_1 | child |  
 | bip_39_word_space_10 | child wolf pepper pear gym inherit kid balance reunion excite |  

@@ -122,6 +122,18 @@ stick
 opera
 debate
 brain |  
+| bip_39_word_no_space_1 | tackle |  
+| bip_39_word_no_space_10 | tacklebubblehundredtripremainstickoperadebatebrainelite |  
+| bip_39_word_no_space_11 | tacklebubblehundredtripremainstickoperadebatebrainelitelimb |  
+| bip_39_word_no_space_12 | tacklebubblehundredtripremainstickoperadebatebrainelitelimbassault |  
+| bip_39_word_no_space_2 | tacklebubble |  
+| bip_39_word_no_space_3 | tacklebubblehundred |  
+| bip_39_word_no_space_4 | tacklebubblehundredtrip |  
+| bip_39_word_no_space_5 | tacklebubblehundredtripremain |  
+| bip_39_word_no_space_6 | tacklebubblehundredtripremainstick |  
+| bip_39_word_no_space_7 | tacklebubblehundredtripremainstickopera |  
+| bip_39_word_no_space_8 | tacklebubblehundredtripremainstickoperadebate |  
+| bip_39_word_no_space_9 | tacklebubblehundredtripremainstickoperadebatebrain |  
 | bip_39_word_space_0 | ['tackle', 'bubble', 'hundred', 'trip', 'remain', 'stick', 'opera', 'debate', 'brain', 'elite', 'limb', 'assault'] |  
 | bip_39_word_space_1 | tackle |  
 | bip_39_word_space_10 | tackle bubble hundred trip remain stick opera debate brain elite |  

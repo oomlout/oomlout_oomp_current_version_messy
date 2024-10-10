@@ -122,6 +122,18 @@ put
 lounge
 angle
 ask |  
+| bip_39_word_no_space_1 | cart |  
+| bip_39_word_no_space_10 | cartpepperbrasswaitrigidputloungeangleaskstool |  
+| bip_39_word_no_space_11 | cartpepperbrasswaitrigidputloungeangleaskstoolabsorb |  
+| bip_39_word_no_space_12 | cartpepperbrasswaitrigidputloungeangleaskstoolabsorbautumn |  
+| bip_39_word_no_space_2 | cartpepper |  
+| bip_39_word_no_space_3 | cartpepperbrass |  
+| bip_39_word_no_space_4 | cartpepperbrasswait |  
+| bip_39_word_no_space_5 | cartpepperbrasswaitrigid |  
+| bip_39_word_no_space_6 | cartpepperbrasswaitrigidput |  
+| bip_39_word_no_space_7 | cartpepperbrasswaitrigidputlounge |  
+| bip_39_word_no_space_8 | cartpepperbrasswaitrigidputloungeangle |  
+| bip_39_word_no_space_9 | cartpepperbrasswaitrigidputloungeangleask |  
 | bip_39_word_space_0 | ['cart', 'pepper', 'brass', 'wait', 'rigid', 'put', 'lounge', 'angle', 'ask', 'stool', 'absorb', 'autumn'] |  
 | bip_39_word_space_1 | cart |  
 | bip_39_word_space_10 | cart pepper brass wait rigid put lounge angle ask stool |  

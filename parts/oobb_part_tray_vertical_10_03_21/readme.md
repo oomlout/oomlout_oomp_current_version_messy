@@ -122,6 +122,18 @@ woman
 flame
 key
 divide |  
+| bip_39_word_no_space_1 | expire |  
+| bip_39_word_no_space_10 | expireantiquecupvacantcriticwomanflamekeydivideflower |  
+| bip_39_word_no_space_11 | expireantiquecupvacantcriticwomanflamekeydivideflowernation |  
+| bip_39_word_no_space_12 | expireantiquecupvacantcriticwomanflamekeydivideflowernationapple |  
+| bip_39_word_no_space_2 | expireantique |  
+| bip_39_word_no_space_3 | expireantiquecup |  
+| bip_39_word_no_space_4 | expireantiquecupvacant |  
+| bip_39_word_no_space_5 | expireantiquecupvacantcritic |  
+| bip_39_word_no_space_6 | expireantiquecupvacantcriticwoman |  
+| bip_39_word_no_space_7 | expireantiquecupvacantcriticwomanflame |  
+| bip_39_word_no_space_8 | expireantiquecupvacantcriticwomanflamekey |  
+| bip_39_word_no_space_9 | expireantiquecupvacantcriticwomanflamekeydivide |  
 | bip_39_word_space_0 | ['expire', 'antique', 'cup', 'vacant', 'critic', 'woman', 'flame', 'key', 'divide', 'flower', 'nation', 'apple'] |  
 | bip_39_word_space_1 | expire |  
 | bip_39_word_space_10 | expire antique cup vacant critic woman flame key divide flower |  

@@ -122,6 +122,18 @@ current
 cat
 bundle
 east |  
+| bip_39_word_no_space_1 | debate |  
+| bip_39_word_no_space_10 | debateclinicstereoarguelabcurrentcatbundleeastpear |  
+| bip_39_word_no_space_11 | debateclinicstereoarguelabcurrentcatbundleeastpearzebra |  
+| bip_39_word_no_space_12 | debateclinicstereoarguelabcurrentcatbundleeastpearzebraasset |  
+| bip_39_word_no_space_2 | debateclinic |  
+| bip_39_word_no_space_3 | debateclinicstereo |  
+| bip_39_word_no_space_4 | debateclinicstereoargue |  
+| bip_39_word_no_space_5 | debateclinicstereoarguelab |  
+| bip_39_word_no_space_6 | debateclinicstereoarguelabcurrent |  
+| bip_39_word_no_space_7 | debateclinicstereoarguelabcurrentcat |  
+| bip_39_word_no_space_8 | debateclinicstereoarguelabcurrentcatbundle |  
+| bip_39_word_no_space_9 | debateclinicstereoarguelabcurrentcatbundleeast |  
 | bip_39_word_space_0 | ['debate', 'clinic', 'stereo', 'argue', 'lab', 'current', 'cat', 'bundle', 'east', 'pear', 'zebra', 'asset'] |  
 | bip_39_word_space_1 | debate |  
 | bip_39_word_space_10 | debate clinic stereo argue lab current cat bundle east pear |  

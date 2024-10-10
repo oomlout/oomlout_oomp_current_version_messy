@@ -122,6 +122,18 @@ kick
 royal
 always
 brown |  
+| bip_39_word_no_space_1 | enter |  
+| bip_39_word_no_space_10 | enterconfirmpantherbaconguardkickroyalalwaysbrownalways |  
+| bip_39_word_no_space_11 | enterconfirmpantherbaconguardkickroyalalwaysbrownalwaysanother |  
+| bip_39_word_no_space_12 | enterconfirmpantherbaconguardkickroyalalwaysbrownalwaysanotherattitude |  
+| bip_39_word_no_space_2 | enterconfirm |  
+| bip_39_word_no_space_3 | enterconfirmpanther |  
+| bip_39_word_no_space_4 | enterconfirmpantherbacon |  
+| bip_39_word_no_space_5 | enterconfirmpantherbaconguard |  
+| bip_39_word_no_space_6 | enterconfirmpantherbaconguardkick |  
+| bip_39_word_no_space_7 | enterconfirmpantherbaconguardkickroyal |  
+| bip_39_word_no_space_8 | enterconfirmpantherbaconguardkickroyalalways |  
+| bip_39_word_no_space_9 | enterconfirmpantherbaconguardkickroyalalwaysbrown |  
 | bip_39_word_space_0 | ['enter', 'confirm', 'panther', 'bacon', 'guard', 'kick', 'royal', 'always', 'brown', 'always', 'another', 'attitude'] |  
 | bip_39_word_space_1 | enter |  
 | bip_39_word_space_10 | enter confirm panther bacon guard kick royal always brown always |  

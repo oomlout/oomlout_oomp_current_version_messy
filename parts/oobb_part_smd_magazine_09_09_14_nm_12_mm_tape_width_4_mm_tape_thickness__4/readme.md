@@ -122,6 +122,18 @@ paper
 wash
 choose
 elevator |  
+| bip_39_word_no_space_1 | outside |  
+| bip_39_word_no_space_10 | outsidebabylabortrashthrivepaperwashchooseelevatorspatial |  
+| bip_39_word_no_space_11 | outsidebabylabortrashthrivepaperwashchooseelevatorspatialcorn |  
+| bip_39_word_no_space_12 | outsidebabylabortrashthrivepaperwashchooseelevatorspatialcornafraid |  
+| bip_39_word_no_space_2 | outsidebaby |  
+| bip_39_word_no_space_3 | outsidebabylabor |  
+| bip_39_word_no_space_4 | outsidebabylabortrash |  
+| bip_39_word_no_space_5 | outsidebabylabortrashthrive |  
+| bip_39_word_no_space_6 | outsidebabylabortrashthrivepaper |  
+| bip_39_word_no_space_7 | outsidebabylabortrashthrivepaperwash |  
+| bip_39_word_no_space_8 | outsidebabylabortrashthrivepaperwashchoose |  
+| bip_39_word_no_space_9 | outsidebabylabortrashthrivepaperwashchooseelevator |  
 | bip_39_word_space_0 | ['outside', 'baby', 'labor', 'trash', 'thrive', 'paper', 'wash', 'choose', 'elevator', 'spatial', 'corn', 'afraid'] |  
 | bip_39_word_space_1 | outside |  
 | bip_39_word_space_10 | outside baby labor trash thrive paper wash choose elevator spatial |  

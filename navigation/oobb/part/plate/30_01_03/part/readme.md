@@ -122,6 +122,18 @@ crime
 better
 assume
 crack |  
+| bip_39_word_no_space_1 | focus |  
+| bip_39_word_no_space_10 | focusemployshortverifybeefcrimebetterassumecracksunset |  
+| bip_39_word_no_space_11 | focusemployshortverifybeefcrimebetterassumecracksunsetforum |  
+| bip_39_word_no_space_12 | focusemployshortverifybeefcrimebetterassumecracksunsetforumallow |  
+| bip_39_word_no_space_2 | focusemploy |  
+| bip_39_word_no_space_3 | focusemployshort |  
+| bip_39_word_no_space_4 | focusemployshortverify |  
+| bip_39_word_no_space_5 | focusemployshortverifybeef |  
+| bip_39_word_no_space_6 | focusemployshortverifybeefcrime |  
+| bip_39_word_no_space_7 | focusemployshortverifybeefcrimebetter |  
+| bip_39_word_no_space_8 | focusemployshortverifybeefcrimebetterassume |  
+| bip_39_word_no_space_9 | focusemployshortverifybeefcrimebetterassumecrack |  
 | bip_39_word_space_0 | ['focus', 'employ', 'short', 'verify', 'beef', 'crime', 'better', 'assume', 'crack', 'sunset', 'forum', 'allow'] |  
 | bip_39_word_space_1 | focus |  
 | bip_39_word_space_10 | focus employ short verify beef crime better assume crack sunset |  

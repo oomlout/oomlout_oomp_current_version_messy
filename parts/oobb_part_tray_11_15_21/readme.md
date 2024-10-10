@@ -122,6 +122,18 @@ satisfy
 orphan
 space
 average |  
+| bip_39_word_no_space_1 | vote |  
+| bip_39_word_no_space_10 | voteexotictailgoodtrafficsatisfyorphanspaceaveragecoyote |  
+| bip_39_word_no_space_11 | voteexotictailgoodtrafficsatisfyorphanspaceaveragecoyoterefuse |  
+| bip_39_word_no_space_12 | voteexotictailgoodtrafficsatisfyorphanspaceaveragecoyoterefusealways |  
+| bip_39_word_no_space_2 | voteexotic |  
+| bip_39_word_no_space_3 | voteexotictail |  
+| bip_39_word_no_space_4 | voteexotictailgood |  
+| bip_39_word_no_space_5 | voteexotictailgoodtraffic |  
+| bip_39_word_no_space_6 | voteexotictailgoodtrafficsatisfy |  
+| bip_39_word_no_space_7 | voteexotictailgoodtrafficsatisfyorphan |  
+| bip_39_word_no_space_8 | voteexotictailgoodtrafficsatisfyorphanspace |  
+| bip_39_word_no_space_9 | voteexotictailgoodtrafficsatisfyorphanspaceaverage |  
 | bip_39_word_space_0 | ['vote', 'exotic', 'tail', 'good', 'traffic', 'satisfy', 'orphan', 'space', 'average', 'coyote', 'refuse', 'always'] |  
 | bip_39_word_space_1 | vote |  
 | bip_39_word_space_10 | vote exotic tail good traffic satisfy orphan space average coyote |  

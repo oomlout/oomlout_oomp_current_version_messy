@@ -122,6 +122,18 @@ remain
 stage
 neutral
 glimpse |  
+| bip_39_word_no_space_1 | horse |  
+| bip_39_word_no_space_10 | horsenephewwilldwarfcapitalremainstageneutralglimpseminimum |  
+| bip_39_word_no_space_11 | horsenephewwilldwarfcapitalremainstageneutralglimpseminimumstudent |  
+| bip_39_word_no_space_12 | horsenephewwilldwarfcapitalremainstageneutralglimpseminimumstudentarmor |  
+| bip_39_word_no_space_2 | horsenephew |  
+| bip_39_word_no_space_3 | horsenephewwill |  
+| bip_39_word_no_space_4 | horsenephewwilldwarf |  
+| bip_39_word_no_space_5 | horsenephewwilldwarfcapital |  
+| bip_39_word_no_space_6 | horsenephewwilldwarfcapitalremain |  
+| bip_39_word_no_space_7 | horsenephewwilldwarfcapitalremainstage |  
+| bip_39_word_no_space_8 | horsenephewwilldwarfcapitalremainstageneutral |  
+| bip_39_word_no_space_9 | horsenephewwilldwarfcapitalremainstageneutralglimpse |  
 | bip_39_word_space_0 | ['horse', 'nephew', 'will', 'dwarf', 'capital', 'remain', 'stage', 'neutral', 'glimpse', 'minimum', 'student', 'armor'] |  
 | bip_39_word_space_1 | horse |  
 | bip_39_word_space_10 | horse nephew will dwarf capital remain stage neutral glimpse minimum |  

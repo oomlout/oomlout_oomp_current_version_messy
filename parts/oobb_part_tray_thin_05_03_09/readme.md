@@ -122,6 +122,18 @@ result
 dance
 drift
 subway |  
+| bip_39_word_no_space_1 | urban |  
+| bip_39_word_no_space_10 | urbanpigagainswitchemptyresultdancedriftsubwayknow |  
+| bip_39_word_no_space_11 | urbanpigagainswitchemptyresultdancedriftsubwayknowrefuse |  
+| bip_39_word_no_space_12 | urbanpigagainswitchemptyresultdancedriftsubwayknowrefuseaddress |  
+| bip_39_word_no_space_2 | urbanpig |  
+| bip_39_word_no_space_3 | urbanpigagain |  
+| bip_39_word_no_space_4 | urbanpigagainswitch |  
+| bip_39_word_no_space_5 | urbanpigagainswitchempty |  
+| bip_39_word_no_space_6 | urbanpigagainswitchemptyresult |  
+| bip_39_word_no_space_7 | urbanpigagainswitchemptyresultdance |  
+| bip_39_word_no_space_8 | urbanpigagainswitchemptyresultdancedrift |  
+| bip_39_word_no_space_9 | urbanpigagainswitchemptyresultdancedriftsubway |  
 | bip_39_word_space_0 | ['urban', 'pig', 'again', 'switch', 'empty', 'result', 'dance', 'drift', 'subway', 'know', 'refuse', 'address'] |  
 | bip_39_word_space_1 | urban |  
 | bip_39_word_space_10 | urban pig again switch empty result dance drift subway know |  

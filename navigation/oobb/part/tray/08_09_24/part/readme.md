@@ -122,6 +122,18 @@ waste
 bubble
 own
 acquire |  
+| bip_39_word_no_space_1 | rotate |  
+| bip_39_word_no_space_10 | rotatebulkexpirenotableclinicwastebubbleownacquireperson |  
+| bip_39_word_no_space_11 | rotatebulkexpirenotableclinicwastebubbleownacquirepersonlady |  
+| bip_39_word_no_space_12 | rotatebulkexpirenotableclinicwastebubbleownacquirepersonladyasset |  
+| bip_39_word_no_space_2 | rotatebulk |  
+| bip_39_word_no_space_3 | rotatebulkexpire |  
+| bip_39_word_no_space_4 | rotatebulkexpirenotable |  
+| bip_39_word_no_space_5 | rotatebulkexpirenotableclinic |  
+| bip_39_word_no_space_6 | rotatebulkexpirenotableclinicwaste |  
+| bip_39_word_no_space_7 | rotatebulkexpirenotableclinicwastebubble |  
+| bip_39_word_no_space_8 | rotatebulkexpirenotableclinicwastebubbleown |  
+| bip_39_word_no_space_9 | rotatebulkexpirenotableclinicwastebubbleownacquire |  
 | bip_39_word_space_0 | ['rotate', 'bulk', 'expire', 'notable', 'clinic', 'waste', 'bubble', 'own', 'acquire', 'person', 'lady', 'asset'] |  
 | bip_39_word_space_1 | rotate |  
 | bip_39_word_space_10 | rotate bulk expire notable clinic waste bubble own acquire person |  

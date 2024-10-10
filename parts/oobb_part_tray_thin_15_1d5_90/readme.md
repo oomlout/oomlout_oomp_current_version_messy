@@ -122,6 +122,18 @@ possible
 ritual
 merry
 panther |  
+| bip_39_word_no_space_1 | jump |  
+| bip_39_word_no_space_10 | jumpceilingrookieweatherthankpossibleritualmerrypantherbeef |  
+| bip_39_word_no_space_11 | jumpceilingrookieweatherthankpossibleritualmerrypantherbeefunlock |  
+| bip_39_word_no_space_12 | jumpceilingrookieweatherthankpossibleritualmerrypantherbeefunlockanimal |  
+| bip_39_word_no_space_2 | jumpceiling |  
+| bip_39_word_no_space_3 | jumpceilingrookie |  
+| bip_39_word_no_space_4 | jumpceilingrookieweather |  
+| bip_39_word_no_space_5 | jumpceilingrookieweatherthank |  
+| bip_39_word_no_space_6 | jumpceilingrookieweatherthankpossible |  
+| bip_39_word_no_space_7 | jumpceilingrookieweatherthankpossibleritual |  
+| bip_39_word_no_space_8 | jumpceilingrookieweatherthankpossibleritualmerry |  
+| bip_39_word_no_space_9 | jumpceilingrookieweatherthankpossibleritualmerrypanther |  
 | bip_39_word_space_0 | ['jump', 'ceiling', 'rookie', 'weather', 'thank', 'possible', 'ritual', 'merry', 'panther', 'beef', 'unlock', 'animal'] |  
 | bip_39_word_space_1 | jump |  
 | bip_39_word_space_10 | jump ceiling rookie weather thank possible ritual merry panther beef |  

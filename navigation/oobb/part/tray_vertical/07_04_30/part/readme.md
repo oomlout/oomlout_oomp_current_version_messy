@@ -122,6 +122,18 @@ utility
 divert
 mushroom
 error |  
+| bip_39_word_no_space_1 | entry |  
+| bip_39_word_no_space_10 | entrymathcameramatterableutilitydivertmushroomerroropen |  
+| bip_39_word_no_space_11 | entrymathcameramatterableutilitydivertmushroomerroropensocial |  
+| bip_39_word_no_space_12 | entrymathcameramatterableutilitydivertmushroomerroropensocialamong |  
+| bip_39_word_no_space_2 | entrymath |  
+| bip_39_word_no_space_3 | entrymathcamera |  
+| bip_39_word_no_space_4 | entrymathcameramatter |  
+| bip_39_word_no_space_5 | entrymathcameramatterable |  
+| bip_39_word_no_space_6 | entrymathcameramatterableutility |  
+| bip_39_word_no_space_7 | entrymathcameramatterableutilitydivert |  
+| bip_39_word_no_space_8 | entrymathcameramatterableutilitydivertmushroom |  
+| bip_39_word_no_space_9 | entrymathcameramatterableutilitydivertmushroomerror |  
 | bip_39_word_space_0 | ['entry', 'math', 'camera', 'matter', 'able', 'utility', 'divert', 'mushroom', 'error', 'open', 'social', 'among'] |  
 | bip_39_word_space_1 | entry |  
 | bip_39_word_space_10 | entry math camera matter able utility divert mushroom error open |  

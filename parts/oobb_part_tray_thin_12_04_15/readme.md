@@ -122,6 +122,18 @@ trim
 shock
 wisdom
 style |  
+| bip_39_word_no_space_1 | minute |  
+| bip_39_word_no_space_10 | minuteenhancelicensethrowslottrimshockwisdomstyleleave |  
+| bip_39_word_no_space_11 | minuteenhancelicensethrowslottrimshockwisdomstyleleaveunaware |  
+| bip_39_word_no_space_12 | minuteenhancelicensethrowslottrimshockwisdomstyleleaveunawareannounce |  
+| bip_39_word_no_space_2 | minuteenhance |  
+| bip_39_word_no_space_3 | minuteenhancelicense |  
+| bip_39_word_no_space_4 | minuteenhancelicensethrow |  
+| bip_39_word_no_space_5 | minuteenhancelicensethrowslot |  
+| bip_39_word_no_space_6 | minuteenhancelicensethrowslottrim |  
+| bip_39_word_no_space_7 | minuteenhancelicensethrowslottrimshock |  
+| bip_39_word_no_space_8 | minuteenhancelicensethrowslottrimshockwisdom |  
+| bip_39_word_no_space_9 | minuteenhancelicensethrowslottrimshockwisdomstyle |  
 | bip_39_word_space_0 | ['minute', 'enhance', 'license', 'throw', 'slot', 'trim', 'shock', 'wisdom', 'style', 'leave', 'unaware', 'announce'] |  
 | bip_39_word_space_1 | minute |  
 | bip_39_word_space_10 | minute enhance license throw slot trim shock wisdom style leave |  

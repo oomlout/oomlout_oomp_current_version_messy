@@ -122,6 +122,18 @@ upgrade
 repair
 sleep
 cram |  
+| bip_39_word_no_space_1 | insect |  
+| bip_39_word_no_space_10 | insectgazevillagecarryquitupgraderepairsleepcramfound |  
+| bip_39_word_no_space_11 | insectgazevillagecarryquitupgraderepairsleepcramfoundtape |  
+| bip_39_word_no_space_12 | insectgazevillagecarryquitupgraderepairsleepcramfoundtapeaerobic |  
+| bip_39_word_no_space_2 | insectgaze |  
+| bip_39_word_no_space_3 | insectgazevillage |  
+| bip_39_word_no_space_4 | insectgazevillagecarry |  
+| bip_39_word_no_space_5 | insectgazevillagecarryquit |  
+| bip_39_word_no_space_6 | insectgazevillagecarryquitupgrade |  
+| bip_39_word_no_space_7 | insectgazevillagecarryquitupgraderepair |  
+| bip_39_word_no_space_8 | insectgazevillagecarryquitupgraderepairsleep |  
+| bip_39_word_no_space_9 | insectgazevillagecarryquitupgraderepairsleepcram |  
 | bip_39_word_space_0 | ['insect', 'gaze', 'village', 'carry', 'quit', 'upgrade', 'repair', 'sleep', 'cram', 'found', 'tape', 'aerobic'] |  
 | bip_39_word_space_1 | insect |  
 | bip_39_word_space_10 | insect gaze village carry quit upgrade repair sleep cram found |  

@@ -122,6 +122,18 @@ robot
 noodle
 cross
 cute |  
+| bip_39_word_no_space_1 | drastic |  
+| bip_39_word_no_space_10 | drasticjuniororchardlizardpatrolrobotnoodlecrosscuteenough |  
+| bip_39_word_no_space_11 | drasticjuniororchardlizardpatrolrobotnoodlecrosscuteenoughsausage |  
+| bip_39_word_no_space_12 | drasticjuniororchardlizardpatrolrobotnoodlecrosscuteenoughsausageacross |  
+| bip_39_word_no_space_2 | drasticjunior |  
+| bip_39_word_no_space_3 | drasticjuniororchard |  
+| bip_39_word_no_space_4 | drasticjuniororchardlizard |  
+| bip_39_word_no_space_5 | drasticjuniororchardlizardpatrol |  
+| bip_39_word_no_space_6 | drasticjuniororchardlizardpatrolrobot |  
+| bip_39_word_no_space_7 | drasticjuniororchardlizardpatrolrobotnoodle |  
+| bip_39_word_no_space_8 | drasticjuniororchardlizardpatrolrobotnoodlecross |  
+| bip_39_word_no_space_9 | drasticjuniororchardlizardpatrolrobotnoodlecrosscute |  
 | bip_39_word_space_0 | ['drastic', 'junior', 'orchard', 'lizard', 'patrol', 'robot', 'noodle', 'cross', 'cute', 'enough', 'sausage', 'across'] |  
 | bip_39_word_space_1 | drastic |  
 | bip_39_word_space_10 | drastic junior orchard lizard patrol robot noodle cross cute enough |  

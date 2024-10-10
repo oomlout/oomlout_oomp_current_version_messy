@@ -122,6 +122,18 @@ steak
 tooth
 absent
 knife |  
+| bip_39_word_no_space_1 | boring |  
+| bip_39_word_no_space_10 | boringcontrolhumorflipdesignsteaktoothabsentknifestomach |  
+| bip_39_word_no_space_11 | boringcontrolhumorflipdesignsteaktoothabsentknifestomachstory |  
+| bip_39_word_no_space_12 | boringcontrolhumorflipdesignsteaktoothabsentknifestomachstoryalley |  
+| bip_39_word_no_space_2 | boringcontrol |  
+| bip_39_word_no_space_3 | boringcontrolhumor |  
+| bip_39_word_no_space_4 | boringcontrolhumorflip |  
+| bip_39_word_no_space_5 | boringcontrolhumorflipdesign |  
+| bip_39_word_no_space_6 | boringcontrolhumorflipdesignsteak |  
+| bip_39_word_no_space_7 | boringcontrolhumorflipdesignsteaktooth |  
+| bip_39_word_no_space_8 | boringcontrolhumorflipdesignsteaktoothabsent |  
+| bip_39_word_no_space_9 | boringcontrolhumorflipdesignsteaktoothabsentknife |  
 | bip_39_word_space_0 | ['boring', 'control', 'humor', 'flip', 'design', 'steak', 'tooth', 'absent', 'knife', 'stomach', 'story', 'alley'] |  
 | bip_39_word_space_1 | boring |  
 | bip_39_word_space_10 | boring control humor flip design steak tooth absent knife stomach |  

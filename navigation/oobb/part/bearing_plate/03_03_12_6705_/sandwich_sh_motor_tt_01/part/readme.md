@@ -122,6 +122,18 @@ empower
 file
 prison
 object |  
+| bip_39_word_no_space_1 | furnace |  
+| bip_39_word_no_space_10 | furnacefiltercarpetsayreliefempowerfileprisonobjectidle |  
+| bip_39_word_no_space_11 | furnacefiltercarpetsayreliefempowerfileprisonobjectidleyouth |  
+| bip_39_word_no_space_12 | furnacefiltercarpetsayreliefempowerfileprisonobjectidleyouthadmit |  
+| bip_39_word_no_space_2 | furnacefilter |  
+| bip_39_word_no_space_3 | furnacefiltercarpet |  
+| bip_39_word_no_space_4 | furnacefiltercarpetsay |  
+| bip_39_word_no_space_5 | furnacefiltercarpetsayrelief |  
+| bip_39_word_no_space_6 | furnacefiltercarpetsayreliefempower |  
+| bip_39_word_no_space_7 | furnacefiltercarpetsayreliefempowerfile |  
+| bip_39_word_no_space_8 | furnacefiltercarpetsayreliefempowerfileprison |  
+| bip_39_word_no_space_9 | furnacefiltercarpetsayreliefempowerfileprisonobject |  
 | bip_39_word_space_0 | ['furnace', 'filter', 'carpet', 'say', 'relief', 'empower', 'file', 'prison', 'object', 'idle', 'youth', 'admit'] |  
 | bip_39_word_space_1 | furnace |  
 | bip_39_word_space_10 | furnace filter carpet say relief empower file prison object idle |  

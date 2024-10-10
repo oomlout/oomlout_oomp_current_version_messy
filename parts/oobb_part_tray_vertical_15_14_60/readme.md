@@ -122,6 +122,18 @@ cricket
 trade
 duty
 van |  
+| bip_39_word_no_space_1 | solution |  
+| bip_39_word_no_space_10 | solutiontissuerescueelegantlendcrickettradedutyvanshare |  
+| bip_39_word_no_space_11 | solutiontissuerescueelegantlendcrickettradedutyvanshareclinic |  
+| bip_39_word_no_space_12 | solutiontissuerescueelegantlendcrickettradedutyvanshareclinicaffair |  
+| bip_39_word_no_space_2 | solutiontissue |  
+| bip_39_word_no_space_3 | solutiontissuerescue |  
+| bip_39_word_no_space_4 | solutiontissuerescueelegant |  
+| bip_39_word_no_space_5 | solutiontissuerescueelegantlend |  
+| bip_39_word_no_space_6 | solutiontissuerescueelegantlendcricket |  
+| bip_39_word_no_space_7 | solutiontissuerescueelegantlendcrickettrade |  
+| bip_39_word_no_space_8 | solutiontissuerescueelegantlendcrickettradeduty |  
+| bip_39_word_no_space_9 | solutiontissuerescueelegantlendcrickettradedutyvan |  
 | bip_39_word_space_0 | ['solution', 'tissue', 'rescue', 'elegant', 'lend', 'cricket', 'trade', 'duty', 'van', 'share', 'clinic', 'affair'] |  
 | bip_39_word_space_1 | solution |  
 | bip_39_word_space_10 | solution tissue rescue elegant lend cricket trade duty van share |  

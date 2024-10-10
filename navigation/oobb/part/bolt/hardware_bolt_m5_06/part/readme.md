@@ -122,6 +122,18 @@ oil
 skull
 hospital
 tuition |  
+| bip_39_word_no_space_1 | north |  
+| bip_39_word_no_space_10 | northdietcoindignitycrossoilskullhospitaltuitionhost |  
+| bip_39_word_no_space_11 | northdietcoindignitycrossoilskullhospitaltuitionhoststick |  
+| bip_39_word_no_space_12 | northdietcoindignitycrossoilskullhospitaltuitionhoststickalpha |  
+| bip_39_word_no_space_2 | northdiet |  
+| bip_39_word_no_space_3 | northdietcoin |  
+| bip_39_word_no_space_4 | northdietcoindignity |  
+| bip_39_word_no_space_5 | northdietcoindignitycross |  
+| bip_39_word_no_space_6 | northdietcoindignitycrossoil |  
+| bip_39_word_no_space_7 | northdietcoindignitycrossoilskull |  
+| bip_39_word_no_space_8 | northdietcoindignitycrossoilskullhospital |  
+| bip_39_word_no_space_9 | northdietcoindignitycrossoilskullhospitaltuition |  
 | bip_39_word_space_0 | ['north', 'diet', 'coin', 'dignity', 'cross', 'oil', 'skull', 'hospital', 'tuition', 'host', 'stick', 'alpha'] |  
 | bip_39_word_space_1 | north |  
 | bip_39_word_space_10 | north diet coin dignity cross oil skull hospital tuition host |  

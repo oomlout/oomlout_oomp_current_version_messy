@@ -122,6 +122,18 @@ blade
 village
 maximum
 valve |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendcruelglobeflightdustbladevillagemaximumvalvesugar |  
+| bip_39_word_no_space_11 | attendcruelglobeflightdustbladevillagemaximumvalvesugarforum |  
+| bip_39_word_no_space_12 | attendcruelglobeflightdustbladevillagemaximumvalvesugarforumamused |  
+| bip_39_word_no_space_2 | attendcruel |  
+| bip_39_word_no_space_3 | attendcruelglobe |  
+| bip_39_word_no_space_4 | attendcruelglobeflight |  
+| bip_39_word_no_space_5 | attendcruelglobeflightdust |  
+| bip_39_word_no_space_6 | attendcruelglobeflightdustblade |  
+| bip_39_word_no_space_7 | attendcruelglobeflightdustbladevillage |  
+| bip_39_word_no_space_8 | attendcruelglobeflightdustbladevillagemaximum |  
+| bip_39_word_no_space_9 | attendcruelglobeflightdustbladevillagemaximumvalve |  
 | bip_39_word_space_0 | ['attend', 'cruel', 'globe', 'flight', 'dust', 'blade', 'village', 'maximum', 'valve', 'sugar', 'forum', 'amused'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend cruel globe flight dust blade village maximum valve sugar |  

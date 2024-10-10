@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scare
   boil
 
   nation'
+bip_39_word_no_space_1: scare
+bip_39_word_no_space_10: scarewinkcostpushemptyputmanageboilnationmelt
+bip_39_word_no_space_11: scarewinkcostpushemptyputmanageboilnationmeltfoil
+bip_39_word_no_space_12: scarewinkcostpushemptyputmanageboilnationmeltfoiladapt
+bip_39_word_no_space_2: scarewink
+bip_39_word_no_space_3: scarewinkcost
+bip_39_word_no_space_4: scarewinkcostpush
+bip_39_word_no_space_5: scarewinkcostpushempty
+bip_39_word_no_space_6: scarewinkcostpushemptyput
+bip_39_word_no_space_7: scarewinkcostpushemptyputmanage
+bip_39_word_no_space_8: scarewinkcostpushemptyputmanageboil
+bip_39_word_no_space_9: scarewinkcostpushemptyputmanageboilnation
 bip_39_word_space_0:
 - scare
 - wink

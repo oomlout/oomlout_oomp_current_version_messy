@@ -122,6 +122,18 @@ peanut
 humor
 toe
 drip |  
+| bip_39_word_no_space_1 | sure |  
+| bip_39_word_no_space_10 | suretrustindooromittrendpeanuthumortoedripmajor |  
+| bip_39_word_no_space_11 | suretrustindooromittrendpeanuthumortoedripmajoralone |  
+| bip_39_word_no_space_12 | suretrustindooromittrendpeanuthumortoedripmajoralonearrive |  
+| bip_39_word_no_space_2 | suretrust |  
+| bip_39_word_no_space_3 | suretrustindoor |  
+| bip_39_word_no_space_4 | suretrustindooromit |  
+| bip_39_word_no_space_5 | suretrustindooromittrend |  
+| bip_39_word_no_space_6 | suretrustindooromittrendpeanut |  
+| bip_39_word_no_space_7 | suretrustindooromittrendpeanuthumor |  
+| bip_39_word_no_space_8 | suretrustindooromittrendpeanuthumortoe |  
+| bip_39_word_no_space_9 | suretrustindooromittrendpeanuthumortoedrip |  
 | bip_39_word_space_0 | ['sure', 'trust', 'indoor', 'omit', 'trend', 'peanut', 'humor', 'toe', 'drip', 'major', 'alone', 'arrive'] |  
 | bip_39_word_space_1 | sure |  
 | bip_39_word_space_10 | sure trust indoor omit trend peanut humor toe drip major |  

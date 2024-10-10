@@ -122,6 +122,18 @@ grape
 kitten
 never
 popular |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgecrazyteammuseumexchangegrapekittenneverpopularmad |  
+| bip_39_word_no_space_11 | judgecrazyteammuseumexchangegrapekittenneverpopularmadrandom |  
+| bip_39_word_no_space_12 | judgecrazyteammuseumexchangegrapekittenneverpopularmadrandomattitude |  
+| bip_39_word_no_space_2 | judgecrazy |  
+| bip_39_word_no_space_3 | judgecrazyteam |  
+| bip_39_word_no_space_4 | judgecrazyteammuseum |  
+| bip_39_word_no_space_5 | judgecrazyteammuseumexchange |  
+| bip_39_word_no_space_6 | judgecrazyteammuseumexchangegrape |  
+| bip_39_word_no_space_7 | judgecrazyteammuseumexchangegrapekitten |  
+| bip_39_word_no_space_8 | judgecrazyteammuseumexchangegrapekittennever |  
+| bip_39_word_no_space_9 | judgecrazyteammuseumexchangegrapekittenneverpopular |  
 | bip_39_word_space_0 | ['judge', 'crazy', 'team', 'museum', 'exchange', 'grape', 'kitten', 'never', 'popular', 'mad', 'random', 'attitude'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge crazy team museum exchange grape kitten never popular mad |  

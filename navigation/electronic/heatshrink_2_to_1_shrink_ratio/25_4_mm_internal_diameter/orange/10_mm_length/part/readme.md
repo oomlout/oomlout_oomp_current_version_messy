@@ -122,6 +122,18 @@ call
 people
 opinion
 quit |  
+| bip_39_word_no_space_1 | walnut |  
+| bip_39_word_no_space_10 | walnutcrystaldynamicschemenetworkcallpeopleopinionquitfiber |  
+| bip_39_word_no_space_11 | walnutcrystaldynamicschemenetworkcallpeopleopinionquitfiberseven |  
+| bip_39_word_no_space_12 | walnutcrystaldynamicschemenetworkcallpeopleopinionquitfibersevenalert |  
+| bip_39_word_no_space_2 | walnutcrystal |  
+| bip_39_word_no_space_3 | walnutcrystaldynamic |  
+| bip_39_word_no_space_4 | walnutcrystaldynamicscheme |  
+| bip_39_word_no_space_5 | walnutcrystaldynamicschemenetwork |  
+| bip_39_word_no_space_6 | walnutcrystaldynamicschemenetworkcall |  
+| bip_39_word_no_space_7 | walnutcrystaldynamicschemenetworkcallpeople |  
+| bip_39_word_no_space_8 | walnutcrystaldynamicschemenetworkcallpeopleopinion |  
+| bip_39_word_no_space_9 | walnutcrystaldynamicschemenetworkcallpeopleopinionquit |  
 | bip_39_word_space_0 | ['walnut', 'crystal', 'dynamic', 'scheme', 'network', 'call', 'people', 'opinion', 'quit', 'fiber', 'seven', 'alert'] |  
 | bip_39_word_space_1 | walnut |  
 | bip_39_word_space_10 | walnut crystal dynamic scheme network call people opinion quit fiber |  

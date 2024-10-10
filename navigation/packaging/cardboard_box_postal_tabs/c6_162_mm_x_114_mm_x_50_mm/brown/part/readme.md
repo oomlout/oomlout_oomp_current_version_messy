@@ -124,6 +124,18 @@ bacon
 either
 minute
 sea |  
+| bip_39_word_no_space_1 | catalog |  
+| bip_39_word_no_space_10 | cataloglimitsadnessnaturemeritbaconeitherminuteseaphrase |  
+| bip_39_word_no_space_11 | cataloglimitsadnessnaturemeritbaconeitherminuteseaphraseexpand |  
+| bip_39_word_no_space_12 | cataloglimitsadnessnaturemeritbaconeitherminuteseaphraseexpandarmor |  
+| bip_39_word_no_space_2 | cataloglimit |  
+| bip_39_word_no_space_3 | cataloglimitsadness |  
+| bip_39_word_no_space_4 | cataloglimitsadnessnature |  
+| bip_39_word_no_space_5 | cataloglimitsadnessnaturemerit |  
+| bip_39_word_no_space_6 | cataloglimitsadnessnaturemeritbacon |  
+| bip_39_word_no_space_7 | cataloglimitsadnessnaturemeritbaconeither |  
+| bip_39_word_no_space_8 | cataloglimitsadnessnaturemeritbaconeitherminute |  
+| bip_39_word_no_space_9 | cataloglimitsadnessnaturemeritbaconeitherminutesea |  
 | bip_39_word_space_0 | ['catalog', 'limit', 'sadness', 'nature', 'merit', 'bacon', 'either', 'minute', 'sea', 'phrase', 'expand', 'armor'] |  
 | bip_39_word_space_1 | catalog |  
 | bip_39_word_space_10 | catalog limit sadness nature merit bacon either minute sea phrase |  

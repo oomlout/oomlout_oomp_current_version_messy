@@ -122,6 +122,18 @@ winter
 depend
 stove
 scare |  
+| bip_39_word_no_space_1 | trouble |  
+| bip_39_word_no_space_10 | troublechickenissuemirrorlanguagewinterdependstovescarebid |  
+| bip_39_word_no_space_11 | troublechickenissuemirrorlanguagewinterdependstovescarebidfruit |  
+| bip_39_word_no_space_12 | troublechickenissuemirrorlanguagewinterdependstovescarebidfruitamount |  
+| bip_39_word_no_space_2 | troublechicken |  
+| bip_39_word_no_space_3 | troublechickenissue |  
+| bip_39_word_no_space_4 | troublechickenissuemirror |  
+| bip_39_word_no_space_5 | troublechickenissuemirrorlanguage |  
+| bip_39_word_no_space_6 | troublechickenissuemirrorlanguagewinter |  
+| bip_39_word_no_space_7 | troublechickenissuemirrorlanguagewinterdepend |  
+| bip_39_word_no_space_8 | troublechickenissuemirrorlanguagewinterdependstove |  
+| bip_39_word_no_space_9 | troublechickenissuemirrorlanguagewinterdependstovescare |  
 | bip_39_word_space_0 | ['trouble', 'chicken', 'issue', 'mirror', 'language', 'winter', 'depend', 'stove', 'scare', 'bid', 'fruit', 'amount'] |  
 | bip_39_word_space_1 | trouble |  
 | bip_39_word_space_10 | trouble chicken issue mirror language winter depend stove scare bid |  

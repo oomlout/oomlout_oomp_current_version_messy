@@ -122,6 +122,18 @@ steak
 flee
 need
 siren |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltrichpassdivorceceilingsteakfleeneedsirenactress |  
+| bip_39_word_no_space_11 | meltrichpassdivorceceilingsteakfleeneedsirenactressfebruary |  
+| bip_39_word_no_space_12 | meltrichpassdivorceceilingsteakfleeneedsirenactressfebruaryasthma |  
+| bip_39_word_no_space_2 | meltrich |  
+| bip_39_word_no_space_3 | meltrichpass |  
+| bip_39_word_no_space_4 | meltrichpassdivorce |  
+| bip_39_word_no_space_5 | meltrichpassdivorceceiling |  
+| bip_39_word_no_space_6 | meltrichpassdivorceceilingsteak |  
+| bip_39_word_no_space_7 | meltrichpassdivorceceilingsteakflee |  
+| bip_39_word_no_space_8 | meltrichpassdivorceceilingsteakfleeneed |  
+| bip_39_word_no_space_9 | meltrichpassdivorceceilingsteakfleeneedsiren |  
 | bip_39_word_space_0 | ['melt', 'rich', 'pass', 'divorce', 'ceiling', 'steak', 'flee', 'need', 'siren', 'actress', 'february', 'asthma'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt rich pass divorce ceiling steak flee need siren actress |  

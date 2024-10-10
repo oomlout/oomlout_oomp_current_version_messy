@@ -122,6 +122,18 @@ medal
 magnet
 rare
 earn |  
+| bip_39_word_no_space_1 | wrist |  
+| bip_39_word_no_space_10 | wristthencoredashcatchmedalmagnetrareearnjudge |  
+| bip_39_word_no_space_11 | wristthencoredashcatchmedalmagnetrareearnjudgehorse |  
+| bip_39_word_no_space_12 | wristthencoredashcatchmedalmagnetrareearnjudgehorseantique |  
+| bip_39_word_no_space_2 | wristthen |  
+| bip_39_word_no_space_3 | wristthencore |  
+| bip_39_word_no_space_4 | wristthencoredash |  
+| bip_39_word_no_space_5 | wristthencoredashcatch |  
+| bip_39_word_no_space_6 | wristthencoredashcatchmedal |  
+| bip_39_word_no_space_7 | wristthencoredashcatchmedalmagnet |  
+| bip_39_word_no_space_8 | wristthencoredashcatchmedalmagnetrare |  
+| bip_39_word_no_space_9 | wristthencoredashcatchmedalmagnetrareearn |  
 | bip_39_word_space_0 | ['wrist', 'then', 'core', 'dash', 'catch', 'medal', 'magnet', 'rare', 'earn', 'judge', 'horse', 'antique'] |  
 | bip_39_word_space_1 | wrist |  
 | bip_39_word_space_10 | wrist then core dash catch medal magnet rare earn judge |  

@@ -122,6 +122,18 @@ tilt
 hero
 hope
 often |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousblooddogshifthungrytiltherohopeoftenfame |  
+| bip_39_word_no_space_11 | viciousblooddogshifthungrytiltherohopeoftenfamediesel |  
+| bip_39_word_no_space_12 | viciousblooddogshifthungrytiltherohopeoftenfamedieselagain |  
+| bip_39_word_no_space_2 | viciousblood |  
+| bip_39_word_no_space_3 | viciousblooddog |  
+| bip_39_word_no_space_4 | viciousblooddogshift |  
+| bip_39_word_no_space_5 | viciousblooddogshifthungry |  
+| bip_39_word_no_space_6 | viciousblooddogshifthungrytilt |  
+| bip_39_word_no_space_7 | viciousblooddogshifthungrytilthero |  
+| bip_39_word_no_space_8 | viciousblooddogshifthungrytiltherohope |  
+| bip_39_word_no_space_9 | viciousblooddogshifthungrytiltherohopeoften |  
 | bip_39_word_space_0 | ['vicious', 'blood', 'dog', 'shift', 'hungry', 'tilt', 'hero', 'hope', 'often', 'fame', 'diesel', 'again'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious blood dog shift hungry tilt hero hope often fame |  

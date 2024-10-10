@@ -122,6 +122,18 @@ sustain
 control
 arch
 segment |  
+| bip_39_word_no_space_1 | wool |  
+| bip_39_word_no_space_10 | woolsniffnorthnoterunsustaincontrolarchsegmentinherit |  
+| bip_39_word_no_space_11 | woolsniffnorthnoterunsustaincontrolarchsegmentinheritglass |  
+| bip_39_word_no_space_12 | woolsniffnorthnoterunsustaincontrolarchsegmentinheritglassadmit |  
+| bip_39_word_no_space_2 | woolsniff |  
+| bip_39_word_no_space_3 | woolsniffnorth |  
+| bip_39_word_no_space_4 | woolsniffnorthnote |  
+| bip_39_word_no_space_5 | woolsniffnorthnoterun |  
+| bip_39_word_no_space_6 | woolsniffnorthnoterunsustain |  
+| bip_39_word_no_space_7 | woolsniffnorthnoterunsustaincontrol |  
+| bip_39_word_no_space_8 | woolsniffnorthnoterunsustaincontrolarch |  
+| bip_39_word_no_space_9 | woolsniffnorthnoterunsustaincontrolarchsegment |  
 | bip_39_word_space_0 | ['wool', 'sniff', 'north', 'note', 'run', 'sustain', 'control', 'arch', 'segment', 'inherit', 'glass', 'admit'] |  
 | bip_39_word_space_1 | wool |  
 | bip_39_word_space_10 | wool sniff north note run sustain control arch segment inherit |  

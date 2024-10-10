@@ -122,6 +122,18 @@ man
 park
 night
 rubber |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffsecuritysightjazzseekmanparknightrubberfiber |  
+| bip_39_word_no_space_11 | staffsecuritysightjazzseekmanparknightrubberfiberwall |  
+| bip_39_word_no_space_12 | staffsecuritysightjazzseekmanparknightrubberfiberwallanger |  
+| bip_39_word_no_space_2 | staffsecurity |  
+| bip_39_word_no_space_3 | staffsecuritysight |  
+| bip_39_word_no_space_4 | staffsecuritysightjazz |  
+| bip_39_word_no_space_5 | staffsecuritysightjazzseek |  
+| bip_39_word_no_space_6 | staffsecuritysightjazzseekman |  
+| bip_39_word_no_space_7 | staffsecuritysightjazzseekmanpark |  
+| bip_39_word_no_space_8 | staffsecuritysightjazzseekmanparknight |  
+| bip_39_word_no_space_9 | staffsecuritysightjazzseekmanparknightrubber |  
 | bip_39_word_space_0 | ['staff', 'security', 'sight', 'jazz', 'seek', 'man', 'park', 'night', 'rubber', 'fiber', 'wall', 'anger'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff security sight jazz seek man park night rubber fiber |  

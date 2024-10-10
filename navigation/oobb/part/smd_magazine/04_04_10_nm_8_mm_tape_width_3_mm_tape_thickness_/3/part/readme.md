@@ -122,6 +122,18 @@ service
 doctor
 response
 arena |  
+| bip_39_word_no_space_1 | jar |  
+| bip_39_word_no_space_10 | jarnetworkfootfrogcerealservicedoctorresponsearenamoment |  
+| bip_39_word_no_space_11 | jarnetworkfootfrogcerealservicedoctorresponsearenamomenthoney |  
+| bip_39_word_no_space_12 | jarnetworkfootfrogcerealservicedoctorresponsearenamomenthoneyassume |  
+| bip_39_word_no_space_2 | jarnetwork |  
+| bip_39_word_no_space_3 | jarnetworkfoot |  
+| bip_39_word_no_space_4 | jarnetworkfootfrog |  
+| bip_39_word_no_space_5 | jarnetworkfootfrogcereal |  
+| bip_39_word_no_space_6 | jarnetworkfootfrogcerealservice |  
+| bip_39_word_no_space_7 | jarnetworkfootfrogcerealservicedoctor |  
+| bip_39_word_no_space_8 | jarnetworkfootfrogcerealservicedoctorresponse |  
+| bip_39_word_no_space_9 | jarnetworkfootfrogcerealservicedoctorresponsearena |  
 | bip_39_word_space_0 | ['jar', 'network', 'foot', 'frog', 'cereal', 'service', 'doctor', 'response', 'arena', 'moment', 'honey', 'assume'] |  
 | bip_39_word_space_1 | jar |  
 | bip_39_word_space_10 | jar network foot frog cereal service doctor response arena moment |  

@@ -122,6 +122,18 @@ stick
 talk
 thunder
 final |  
+| bip_39_word_no_space_1 | angle |  
+| bip_39_word_no_space_10 | anglepulpsymbolmixturetomorrowsticktalkthunderfinalarmor |  
+| bip_39_word_no_space_11 | anglepulpsymbolmixturetomorrowsticktalkthunderfinalarmorsun |  
+| bip_39_word_no_space_12 | anglepulpsymbolmixturetomorrowsticktalkthunderfinalarmorsunaccess |  
+| bip_39_word_no_space_2 | anglepulp |  
+| bip_39_word_no_space_3 | anglepulpsymbol |  
+| bip_39_word_no_space_4 | anglepulpsymbolmixture |  
+| bip_39_word_no_space_5 | anglepulpsymbolmixturetomorrow |  
+| bip_39_word_no_space_6 | anglepulpsymbolmixturetomorrowstick |  
+| bip_39_word_no_space_7 | anglepulpsymbolmixturetomorrowsticktalk |  
+| bip_39_word_no_space_8 | anglepulpsymbolmixturetomorrowsticktalkthunder |  
+| bip_39_word_no_space_9 | anglepulpsymbolmixturetomorrowsticktalkthunderfinal |  
 | bip_39_word_space_0 | ['angle', 'pulp', 'symbol', 'mixture', 'tomorrow', 'stick', 'talk', 'thunder', 'final', 'armor', 'sun', 'access'] |  
 | bip_39_word_space_1 | angle |  
 | bip_39_word_space_10 | angle pulp symbol mixture tomorrow stick talk thunder final armor |  

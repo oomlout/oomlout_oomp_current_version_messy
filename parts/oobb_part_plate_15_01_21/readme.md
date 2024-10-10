@@ -122,6 +122,18 @@ farm
 seek
 receive
 swift |  
+| bip_39_word_no_space_1 | kitten |  
+| bip_39_word_no_space_10 | kittenridefederalresultrabbitfarmseekreceiveswiftappear |  
+| bip_39_word_no_space_11 | kittenridefederalresultrabbitfarmseekreceiveswiftappearmilk |  
+| bip_39_word_no_space_12 | kittenridefederalresultrabbitfarmseekreceiveswiftappearmilkapology |  
+| bip_39_word_no_space_2 | kittenride |  
+| bip_39_word_no_space_3 | kittenridefederal |  
+| bip_39_word_no_space_4 | kittenridefederalresult |  
+| bip_39_word_no_space_5 | kittenridefederalresultrabbit |  
+| bip_39_word_no_space_6 | kittenridefederalresultrabbitfarm |  
+| bip_39_word_no_space_7 | kittenridefederalresultrabbitfarmseek |  
+| bip_39_word_no_space_8 | kittenridefederalresultrabbitfarmseekreceive |  
+| bip_39_word_no_space_9 | kittenridefederalresultrabbitfarmseekreceiveswift |  
 | bip_39_word_space_0 | ['kitten', 'ride', 'federal', 'result', 'rabbit', 'farm', 'seek', 'receive', 'swift', 'appear', 'milk', 'apology'] |  
 | bip_39_word_space_1 | kitten |  
 | bip_39_word_space_10 | kitten ride federal result rabbit farm seek receive swift appear |  

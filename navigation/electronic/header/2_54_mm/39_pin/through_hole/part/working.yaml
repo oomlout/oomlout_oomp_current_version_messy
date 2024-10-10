@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'month
   drum
 
   latin'
+bip_39_word_no_space_1: month
+bip_39_word_no_space_10: monthplugbracketraingazeidleraisedrumlatinrobust
+bip_39_word_no_space_11: monthplugbracketraingazeidleraisedrumlatinrobustengine
+bip_39_word_no_space_12: monthplugbracketraingazeidleraisedrumlatinrobustengineaddress
+bip_39_word_no_space_2: monthplug
+bip_39_word_no_space_3: monthplugbracket
+bip_39_word_no_space_4: monthplugbracketrain
+bip_39_word_no_space_5: monthplugbracketraingaze
+bip_39_word_no_space_6: monthplugbracketraingazeidle
+bip_39_word_no_space_7: monthplugbracketraingazeidleraise
+bip_39_word_no_space_8: monthplugbracketraingazeidleraisedrum
+bip_39_word_no_space_9: monthplugbracketraingazeidleraisedrumlatin
 bip_39_word_space_0:
 - month
 - plug

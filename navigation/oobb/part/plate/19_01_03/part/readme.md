@@ -122,6 +122,18 @@ lounge
 chalk
 bullet
 become |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | leghostreopenkickbrightloungechalkbulletbecomedrastic |  
+| bip_39_word_no_space_11 | leghostreopenkickbrightloungechalkbulletbecomedrasticderive |  
+| bip_39_word_no_space_12 | leghostreopenkickbrightloungechalkbulletbecomedrasticderiveaisle |  
+| bip_39_word_no_space_2 | leghost |  
+| bip_39_word_no_space_3 | leghostreopen |  
+| bip_39_word_no_space_4 | leghostreopenkick |  
+| bip_39_word_no_space_5 | leghostreopenkickbright |  
+| bip_39_word_no_space_6 | leghostreopenkickbrightlounge |  
+| bip_39_word_no_space_7 | leghostreopenkickbrightloungechalk |  
+| bip_39_word_no_space_8 | leghostreopenkickbrightloungechalkbullet |  
+| bip_39_word_no_space_9 | leghostreopenkickbrightloungechalkbulletbecome |  
 | bip_39_word_space_0 | ['leg', 'host', 'reopen', 'kick', 'bright', 'lounge', 'chalk', 'bullet', 'become', 'drastic', 'derive', 'aisle'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg host reopen kick bright lounge chalk bullet become drastic |  

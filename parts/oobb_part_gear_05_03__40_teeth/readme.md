@@ -122,6 +122,18 @@ moment
 smooth
 soda
 orphan |  
+| bip_39_word_no_space_1 | grid |  
+| bip_39_word_no_space_10 | gridinsaneeggspendtiredmomentsmoothsodaorphanconnect |  
+| bip_39_word_no_space_11 | gridinsaneeggspendtiredmomentsmoothsodaorphanconnectsustain |  
+| bip_39_word_no_space_12 | gridinsaneeggspendtiredmomentsmoothsodaorphanconnectsustainany |  
+| bip_39_word_no_space_2 | gridinsane |  
+| bip_39_word_no_space_3 | gridinsaneegg |  
+| bip_39_word_no_space_4 | gridinsaneeggspend |  
+| bip_39_word_no_space_5 | gridinsaneeggspendtired |  
+| bip_39_word_no_space_6 | gridinsaneeggspendtiredmoment |  
+| bip_39_word_no_space_7 | gridinsaneeggspendtiredmomentsmooth |  
+| bip_39_word_no_space_8 | gridinsaneeggspendtiredmomentsmoothsoda |  
+| bip_39_word_no_space_9 | gridinsaneeggspendtiredmomentsmoothsodaorphan |  
 | bip_39_word_space_0 | ['grid', 'insane', 'egg', 'spend', 'tired', 'moment', 'smooth', 'soda', 'orphan', 'connect', 'sustain', 'any'] |  
 | bip_39_word_space_1 | grid |  
 | bip_39_word_space_10 | grid insane egg spend tired moment smooth soda orphan connect |  

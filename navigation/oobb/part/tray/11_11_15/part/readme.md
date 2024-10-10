@@ -122,6 +122,18 @@ barely
 indicate
 speak
 chaos |  
+| bip_39_word_no_space_1 | census |  
+| bip_39_word_no_space_10 | censusquestionenoughlizardnumberbarelyindicatespeakchaosribbon |  
+| bip_39_word_no_space_11 | censusquestionenoughlizardnumberbarelyindicatespeakchaosribbonodor |  
+| bip_39_word_no_space_12 | censusquestionenoughlizardnumberbarelyindicatespeakchaosribbonodorapprove |  
+| bip_39_word_no_space_2 | censusquestion |  
+| bip_39_word_no_space_3 | censusquestionenough |  
+| bip_39_word_no_space_4 | censusquestionenoughlizard |  
+| bip_39_word_no_space_5 | censusquestionenoughlizardnumber |  
+| bip_39_word_no_space_6 | censusquestionenoughlizardnumberbarely |  
+| bip_39_word_no_space_7 | censusquestionenoughlizardnumberbarelyindicate |  
+| bip_39_word_no_space_8 | censusquestionenoughlizardnumberbarelyindicatespeak |  
+| bip_39_word_no_space_9 | censusquestionenoughlizardnumberbarelyindicatespeakchaos |  
 | bip_39_word_space_0 | ['census', 'question', 'enough', 'lizard', 'number', 'barely', 'indicate', 'speak', 'chaos', 'ribbon', 'odor', 'approve'] |  
 | bip_39_word_space_1 | census |  
 | bip_39_word_space_10 | census question enough lizard number barely indicate speak chaos ribbon |  

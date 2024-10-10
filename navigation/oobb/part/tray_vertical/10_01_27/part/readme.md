@@ -122,6 +122,18 @@ error
 bird
 property
 barrel |  
+| bip_39_word_no_space_1 | mirror |  
+| bip_39_word_no_space_10 | mirroruponunderchurnentererrorbirdpropertybarrelmouse |  
+| bip_39_word_no_space_11 | mirroruponunderchurnentererrorbirdpropertybarrelmouseprice |  
+| bip_39_word_no_space_12 | mirroruponunderchurnentererrorbirdpropertybarrelmousepricealready |  
+| bip_39_word_no_space_2 | mirrorupon |  
+| bip_39_word_no_space_3 | mirroruponunder |  
+| bip_39_word_no_space_4 | mirroruponunderchurn |  
+| bip_39_word_no_space_5 | mirroruponunderchurnenter |  
+| bip_39_word_no_space_6 | mirroruponunderchurnentererror |  
+| bip_39_word_no_space_7 | mirroruponunderchurnentererrorbird |  
+| bip_39_word_no_space_8 | mirroruponunderchurnentererrorbirdproperty |  
+| bip_39_word_no_space_9 | mirroruponunderchurnentererrorbirdpropertybarrel |  
 | bip_39_word_space_0 | ['mirror', 'upon', 'under', 'churn', 'enter', 'error', 'bird', 'property', 'barrel', 'mouse', 'price', 'already'] |  
 | bip_39_word_space_1 | mirror |  
 | bip_39_word_space_10 | mirror upon under churn enter error bird property barrel mouse |  

@@ -122,6 +122,18 @@ aerobic
 swear
 frequent
 cash |  
+| bip_39_word_no_space_1 | flash |  
+| bip_39_word_no_space_10 | flashsuntheorygenuineuseaerobicswearfrequentcashsection |  
+| bip_39_word_no_space_11 | flashsuntheorygenuineuseaerobicswearfrequentcashsectioncarbon |  
+| bip_39_word_no_space_12 | flashsuntheorygenuineuseaerobicswearfrequentcashsectioncarbonallow |  
+| bip_39_word_no_space_2 | flashsun |  
+| bip_39_word_no_space_3 | flashsuntheory |  
+| bip_39_word_no_space_4 | flashsuntheorygenuine |  
+| bip_39_word_no_space_5 | flashsuntheorygenuineuse |  
+| bip_39_word_no_space_6 | flashsuntheorygenuineuseaerobic |  
+| bip_39_word_no_space_7 | flashsuntheorygenuineuseaerobicswear |  
+| bip_39_word_no_space_8 | flashsuntheorygenuineuseaerobicswearfrequent |  
+| bip_39_word_no_space_9 | flashsuntheorygenuineuseaerobicswearfrequentcash |  
 | bip_39_word_space_0 | ['flash', 'sun', 'theory', 'genuine', 'use', 'aerobic', 'swear', 'frequent', 'cash', 'section', 'carbon', 'allow'] |  
 | bip_39_word_space_1 | flash |  
 | bip_39_word_space_10 | flash sun theory genuine use aerobic swear frequent cash section |  

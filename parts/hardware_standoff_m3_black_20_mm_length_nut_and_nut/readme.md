@@ -122,6 +122,18 @@ curve
 lecture
 noble
 tomato |  
+| bip_39_word_no_space_1 | tail |  
+| bip_39_word_no_space_10 | tailpromotedesertturtleselectcurvelecturenobletomatovocal |  
+| bip_39_word_no_space_11 | tailpromotedesertturtleselectcurvelecturenobletomatovocalmotion |  
+| bip_39_word_no_space_12 | tailpromotedesertturtleselectcurvelecturenobletomatovocalmotionadmit |  
+| bip_39_word_no_space_2 | tailpromote |  
+| bip_39_word_no_space_3 | tailpromotedesert |  
+| bip_39_word_no_space_4 | tailpromotedesertturtle |  
+| bip_39_word_no_space_5 | tailpromotedesertturtleselect |  
+| bip_39_word_no_space_6 | tailpromotedesertturtleselectcurve |  
+| bip_39_word_no_space_7 | tailpromotedesertturtleselectcurvelecture |  
+| bip_39_word_no_space_8 | tailpromotedesertturtleselectcurvelecturenoble |  
+| bip_39_word_no_space_9 | tailpromotedesertturtleselectcurvelecturenobletomato |  
 | bip_39_word_space_0 | ['tail', 'promote', 'desert', 'turtle', 'select', 'curve', 'lecture', 'noble', 'tomato', 'vocal', 'motion', 'admit'] |  
 | bip_39_word_space_1 | tail |  
 | bip_39_word_space_10 | tail promote desert turtle select curve lecture noble tomato vocal |  

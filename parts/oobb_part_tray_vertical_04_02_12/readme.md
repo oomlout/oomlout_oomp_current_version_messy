@@ -122,6 +122,18 @@ bring
 rare
 gravity
 vintage |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondozonereformentireunveilbringraregravityvintagehammer |  
+| bip_39_word_no_space_11 | secondozonereformentireunveilbringraregravityvintagehammerdegree |  
+| bip_39_word_no_space_12 | secondozonereformentireunveilbringraregravityvintagehammerdegreealcohol |  
+| bip_39_word_no_space_2 | secondozone |  
+| bip_39_word_no_space_3 | secondozonereform |  
+| bip_39_word_no_space_4 | secondozonereformentire |  
+| bip_39_word_no_space_5 | secondozonereformentireunveil |  
+| bip_39_word_no_space_6 | secondozonereformentireunveilbring |  
+| bip_39_word_no_space_7 | secondozonereformentireunveilbringrare |  
+| bip_39_word_no_space_8 | secondozonereformentireunveilbringraregravity |  
+| bip_39_word_no_space_9 | secondozonereformentireunveilbringraregravityvintage |  
 | bip_39_word_space_0 | ['second', 'ozone', 'reform', 'entire', 'unveil', 'bring', 'rare', 'gravity', 'vintage', 'hammer', 'degree', 'alcohol'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second ozone reform entire unveil bring rare gravity vintage hammer |  

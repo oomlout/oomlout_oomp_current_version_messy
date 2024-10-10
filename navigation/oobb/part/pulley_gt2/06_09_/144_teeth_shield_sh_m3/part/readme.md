@@ -122,6 +122,18 @@ salon
 arrive
 require
 apart |  
+| bip_39_word_no_space_1 | finger |  
+| bip_39_word_no_space_10 | fingerspoonbloodtalentscoutsalonarriverequireapartnapkin |  
+| bip_39_word_no_space_11 | fingerspoonbloodtalentscoutsalonarriverequireapartnapkinearth |  
+| bip_39_word_no_space_12 | fingerspoonbloodtalentscoutsalonarriverequireapartnapkinearthahead |  
+| bip_39_word_no_space_2 | fingerspoon |  
+| bip_39_word_no_space_3 | fingerspoonblood |  
+| bip_39_word_no_space_4 | fingerspoonbloodtalent |  
+| bip_39_word_no_space_5 | fingerspoonbloodtalentscout |  
+| bip_39_word_no_space_6 | fingerspoonbloodtalentscoutsalon |  
+| bip_39_word_no_space_7 | fingerspoonbloodtalentscoutsalonarrive |  
+| bip_39_word_no_space_8 | fingerspoonbloodtalentscoutsalonarriverequire |  
+| bip_39_word_no_space_9 | fingerspoonbloodtalentscoutsalonarriverequireapart |  
 | bip_39_word_space_0 | ['finger', 'spoon', 'blood', 'talent', 'scout', 'salon', 'arrive', 'require', 'apart', 'napkin', 'earth', 'ahead'] |  
 | bip_39_word_space_1 | finger |  
 | bip_39_word_space_10 | finger spoon blood talent scout salon arrive require apart napkin |  

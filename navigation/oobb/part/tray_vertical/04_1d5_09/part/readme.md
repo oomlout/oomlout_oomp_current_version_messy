@@ -122,6 +122,18 @@ silent
 before
 cable
 choose |  
+| bip_39_word_no_space_1 | fever |  
+| bip_39_word_no_space_10 | feverpowerartefactstemwiresilentbeforecablechoosehuge |  
+| bip_39_word_no_space_11 | feverpowerartefactstemwiresilentbeforecablechoosehugearound |  
+| bip_39_word_no_space_12 | feverpowerartefactstemwiresilentbeforecablechoosehugearoundabout |  
+| bip_39_word_no_space_2 | feverpower |  
+| bip_39_word_no_space_3 | feverpowerartefact |  
+| bip_39_word_no_space_4 | feverpowerartefactstem |  
+| bip_39_word_no_space_5 | feverpowerartefactstemwire |  
+| bip_39_word_no_space_6 | feverpowerartefactstemwiresilent |  
+| bip_39_word_no_space_7 | feverpowerartefactstemwiresilentbefore |  
+| bip_39_word_no_space_8 | feverpowerartefactstemwiresilentbeforecable |  
+| bip_39_word_no_space_9 | feverpowerartefactstemwiresilentbeforecablechoose |  
 | bip_39_word_space_0 | ['fever', 'power', 'artefact', 'stem', 'wire', 'silent', 'before', 'cable', 'choose', 'huge', 'around', 'about'] |  
 | bip_39_word_space_1 | fever |  
 | bip_39_word_space_10 | fever power artefact stem wire silent before cable choose huge |  

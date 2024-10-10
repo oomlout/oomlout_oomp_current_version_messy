@@ -122,6 +122,18 @@ mass
 trade
 flush
 leisure |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playherosanddemandfeemasstradeflushleisurenest |  
+| bip_39_word_no_space_11 | playherosanddemandfeemasstradeflushleisureneststumble |  
+| bip_39_word_no_space_12 | playherosanddemandfeemasstradeflushleisureneststumbleancient |  
+| bip_39_word_no_space_2 | playhero |  
+| bip_39_word_no_space_3 | playherosand |  
+| bip_39_word_no_space_4 | playherosanddemand |  
+| bip_39_word_no_space_5 | playherosanddemandfee |  
+| bip_39_word_no_space_6 | playherosanddemandfeemass |  
+| bip_39_word_no_space_7 | playherosanddemandfeemasstrade |  
+| bip_39_word_no_space_8 | playherosanddemandfeemasstradeflush |  
+| bip_39_word_no_space_9 | playherosanddemandfeemasstradeflushleisure |  
 | bip_39_word_space_0 | ['play', 'hero', 'sand', 'demand', 'fee', 'mass', 'trade', 'flush', 'leisure', 'nest', 'stumble', 'ancient'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play hero sand demand fee mass trade flush leisure nest |  

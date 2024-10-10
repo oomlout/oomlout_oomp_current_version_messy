@@ -122,6 +122,18 @@ false
 tuition
 century
 recipe |  
+| bip_39_word_no_space_1 | receive |  
+| bip_39_word_no_space_10 | receivebunkermoongentlethrowfalsetuitioncenturyrecipesalt |  
+| bip_39_word_no_space_11 | receivebunkermoongentlethrowfalsetuitioncenturyrecipesaltcool |  
+| bip_39_word_no_space_12 | receivebunkermoongentlethrowfalsetuitioncenturyrecipesaltcoolalbum |  
+| bip_39_word_no_space_2 | receivebunker |  
+| bip_39_word_no_space_3 | receivebunkermoon |  
+| bip_39_word_no_space_4 | receivebunkermoongentle |  
+| bip_39_word_no_space_5 | receivebunkermoongentlethrow |  
+| bip_39_word_no_space_6 | receivebunkermoongentlethrowfalse |  
+| bip_39_word_no_space_7 | receivebunkermoongentlethrowfalsetuition |  
+| bip_39_word_no_space_8 | receivebunkermoongentlethrowfalsetuitioncentury |  
+| bip_39_word_no_space_9 | receivebunkermoongentlethrowfalsetuitioncenturyrecipe |  
 | bip_39_word_space_0 | ['receive', 'bunker', 'moon', 'gentle', 'throw', 'false', 'tuition', 'century', 'recipe', 'salt', 'cool', 'album'] |  
 | bip_39_word_space_1 | receive |  
 | bip_39_word_space_10 | receive bunker moon gentle throw false tuition century recipe salt |  

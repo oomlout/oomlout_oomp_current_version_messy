@@ -122,6 +122,18 @@ lift
 sister
 damp
 shiver |  
+| bip_39_word_no_space_1 | recall |  
+| bip_39_word_no_space_10 | recallchurnwalnutpiececarryliftsisterdampshivertrophy |  
+| bip_39_word_no_space_11 | recallchurnwalnutpiececarryliftsisterdampshivertrophyfall |  
+| bip_39_word_no_space_12 | recallchurnwalnutpiececarryliftsisterdampshivertrophyfallalert |  
+| bip_39_word_no_space_2 | recallchurn |  
+| bip_39_word_no_space_3 | recallchurnwalnut |  
+| bip_39_word_no_space_4 | recallchurnwalnutpiece |  
+| bip_39_word_no_space_5 | recallchurnwalnutpiececarry |  
+| bip_39_word_no_space_6 | recallchurnwalnutpiececarrylift |  
+| bip_39_word_no_space_7 | recallchurnwalnutpiececarryliftsister |  
+| bip_39_word_no_space_8 | recallchurnwalnutpiececarryliftsisterdamp |  
+| bip_39_word_no_space_9 | recallchurnwalnutpiececarryliftsisterdampshiver |  
 | bip_39_word_space_0 | ['recall', 'churn', 'walnut', 'piece', 'carry', 'lift', 'sister', 'damp', 'shiver', 'trophy', 'fall', 'alert'] |  
 | bip_39_word_space_1 | recall |  
 | bip_39_word_space_10 | recall churn walnut piece carry lift sister damp shiver trophy |  

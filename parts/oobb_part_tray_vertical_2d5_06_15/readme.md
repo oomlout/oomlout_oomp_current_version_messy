@@ -122,6 +122,18 @@ tank
 salon
 grape
 prevent |  
+| bip_39_word_no_space_1 | live |  
+| bip_39_word_no_space_10 | livebonusbringlimitbustanksalongrapepreventstrike |  
+| bip_39_word_no_space_11 | livebonusbringlimitbustanksalongrapepreventstrikeafraid |  
+| bip_39_word_no_space_12 | livebonusbringlimitbustanksalongrapepreventstrikeafraidartist |  
+| bip_39_word_no_space_2 | livebonus |  
+| bip_39_word_no_space_3 | livebonusbring |  
+| bip_39_word_no_space_4 | livebonusbringlimit |  
+| bip_39_word_no_space_5 | livebonusbringlimitbus |  
+| bip_39_word_no_space_6 | livebonusbringlimitbustank |  
+| bip_39_word_no_space_7 | livebonusbringlimitbustanksalon |  
+| bip_39_word_no_space_8 | livebonusbringlimitbustanksalongrape |  
+| bip_39_word_no_space_9 | livebonusbringlimitbustanksalongrapeprevent |  
 | bip_39_word_space_0 | ['live', 'bonus', 'bring', 'limit', 'bus', 'tank', 'salon', 'grape', 'prevent', 'strike', 'afraid', 'artist'] |  
 | bip_39_word_space_1 | live |  
 | bip_39_word_space_10 | live bonus bring limit bus tank salon grape prevent strike |  

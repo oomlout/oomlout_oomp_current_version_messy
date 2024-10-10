@@ -122,6 +122,18 @@ junk
 uphold
 spend
 era |  
+| bip_39_word_no_space_1 | legal |  
+| bip_39_word_no_space_10 | legalwilleagerancientauctionjunkupholdspenderabrief |  
+| bip_39_word_no_space_11 | legalwilleagerancientauctionjunkupholdspenderabriefdinosaur |  
+| bip_39_word_no_space_12 | legalwilleagerancientauctionjunkupholdspenderabriefdinosaurafraid |  
+| bip_39_word_no_space_2 | legalwill |  
+| bip_39_word_no_space_3 | legalwilleager |  
+| bip_39_word_no_space_4 | legalwilleagerancient |  
+| bip_39_word_no_space_5 | legalwilleagerancientauction |  
+| bip_39_word_no_space_6 | legalwilleagerancientauctionjunk |  
+| bip_39_word_no_space_7 | legalwilleagerancientauctionjunkuphold |  
+| bip_39_word_no_space_8 | legalwilleagerancientauctionjunkupholdspend |  
+| bip_39_word_no_space_9 | legalwilleagerancientauctionjunkupholdspendera |  
 | bip_39_word_space_0 | ['legal', 'will', 'eager', 'ancient', 'auction', 'junk', 'uphold', 'spend', 'era', 'brief', 'dinosaur', 'afraid'] |  
 | bip_39_word_space_1 | legal |  
 | bip_39_word_space_10 | legal will eager ancient auction junk uphold spend era brief |  

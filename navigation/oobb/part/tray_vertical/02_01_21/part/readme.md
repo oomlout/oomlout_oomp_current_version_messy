@@ -122,6 +122,18 @@ margin
 absurd
 cloth
 dinner |  
+| bip_39_word_no_space_1 | win |  
+| bip_39_word_no_space_10 | wincasescriptdaylargemarginabsurdclothdinnersymptom |  
+| bip_39_word_no_space_11 | wincasescriptdaylargemarginabsurdclothdinnersymptomtattoo |  
+| bip_39_word_no_space_12 | wincasescriptdaylargemarginabsurdclothdinnersymptomtattooanswer |  
+| bip_39_word_no_space_2 | wincase |  
+| bip_39_word_no_space_3 | wincasescript |  
+| bip_39_word_no_space_4 | wincasescriptday |  
+| bip_39_word_no_space_5 | wincasescriptdaylarge |  
+| bip_39_word_no_space_6 | wincasescriptdaylargemargin |  
+| bip_39_word_no_space_7 | wincasescriptdaylargemarginabsurd |  
+| bip_39_word_no_space_8 | wincasescriptdaylargemarginabsurdcloth |  
+| bip_39_word_no_space_9 | wincasescriptdaylargemarginabsurdclothdinner |  
 | bip_39_word_space_0 | ['win', 'case', 'script', 'day', 'large', 'margin', 'absurd', 'cloth', 'dinner', 'symptom', 'tattoo', 'answer'] |  
 | bip_39_word_space_1 | win |  
 | bip_39_word_space_10 | win case script day large margin absurd cloth dinner symptom |  

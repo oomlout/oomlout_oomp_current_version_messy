@@ -122,6 +122,18 @@ invest
 caught
 hazard
 art |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtledecreaseoptionpunchunfairinvestcaughthazardartequal |  
+| bip_39_word_no_space_11 | turtledecreaseoptionpunchunfairinvestcaughthazardartequalpower |  
+| bip_39_word_no_space_12 | turtledecreaseoptionpunchunfairinvestcaughthazardartequalpoweracquire |  
+| bip_39_word_no_space_2 | turtledecrease |  
+| bip_39_word_no_space_3 | turtledecreaseoption |  
+| bip_39_word_no_space_4 | turtledecreaseoptionpunch |  
+| bip_39_word_no_space_5 | turtledecreaseoptionpunchunfair |  
+| bip_39_word_no_space_6 | turtledecreaseoptionpunchunfairinvest |  
+| bip_39_word_no_space_7 | turtledecreaseoptionpunchunfairinvestcaught |  
+| bip_39_word_no_space_8 | turtledecreaseoptionpunchunfairinvestcaughthazard |  
+| bip_39_word_no_space_9 | turtledecreaseoptionpunchunfairinvestcaughthazardart |  
 | bip_39_word_space_0 | ['turtle', 'decrease', 'option', 'punch', 'unfair', 'invest', 'caught', 'hazard', 'art', 'equal', 'power', 'acquire'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle decrease option punch unfair invest caught hazard art equal |  

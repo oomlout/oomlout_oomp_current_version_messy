@@ -122,6 +122,18 @@ usual
 delay
 flash
 suggest |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photowhaleawaresalmoncancelusualdelayflashsuggestwalk |  
+| bip_39_word_no_space_11 | photowhaleawaresalmoncancelusualdelayflashsuggestwalkadmit |  
+| bip_39_word_no_space_12 | photowhaleawaresalmoncancelusualdelayflashsuggestwalkadmitarmor |  
+| bip_39_word_no_space_2 | photowhale |  
+| bip_39_word_no_space_3 | photowhaleaware |  
+| bip_39_word_no_space_4 | photowhaleawaresalmon |  
+| bip_39_word_no_space_5 | photowhaleawaresalmoncancel |  
+| bip_39_word_no_space_6 | photowhaleawaresalmoncancelusual |  
+| bip_39_word_no_space_7 | photowhaleawaresalmoncancelusualdelay |  
+| bip_39_word_no_space_8 | photowhaleawaresalmoncancelusualdelayflash |  
+| bip_39_word_no_space_9 | photowhaleawaresalmoncancelusualdelayflashsuggest |  
 | bip_39_word_space_0 | ['photo', 'whale', 'aware', 'salmon', 'cancel', 'usual', 'delay', 'flash', 'suggest', 'walk', 'admit', 'armor'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo whale aware salmon cancel usual delay flash suggest walk |  

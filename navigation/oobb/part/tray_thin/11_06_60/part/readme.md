@@ -122,6 +122,18 @@ memory
 profit
 example
 essay |  
+| bip_39_word_no_space_1 | cable |  
+| bip_39_word_no_space_10 | cablelawnanyofferpledgememoryprofitexampleessayvital |  
+| bip_39_word_no_space_11 | cablelawnanyofferpledgememoryprofitexampleessayvitaltray |  
+| bip_39_word_no_space_12 | cablelawnanyofferpledgememoryprofitexampleessayvitaltrayattract |  
+| bip_39_word_no_space_2 | cablelawn |  
+| bip_39_word_no_space_3 | cablelawnany |  
+| bip_39_word_no_space_4 | cablelawnanyoffer |  
+| bip_39_word_no_space_5 | cablelawnanyofferpledge |  
+| bip_39_word_no_space_6 | cablelawnanyofferpledgememory |  
+| bip_39_word_no_space_7 | cablelawnanyofferpledgememoryprofit |  
+| bip_39_word_no_space_8 | cablelawnanyofferpledgememoryprofitexample |  
+| bip_39_word_no_space_9 | cablelawnanyofferpledgememoryprofitexampleessay |  
 | bip_39_word_space_0 | ['cable', 'lawn', 'any', 'offer', 'pledge', 'memory', 'profit', 'example', 'essay', 'vital', 'tray', 'attract'] |  
 | bip_39_word_space_1 | cable |  
 | bip_39_word_space_10 | cable lawn any offer pledge memory profit example essay vital |  

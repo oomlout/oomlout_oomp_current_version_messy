@@ -122,6 +122,18 @@ canoe
 boring
 orange
 outer |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonskillpausepotatopoolcanoeboringorangeouterscience |  
+| bip_39_word_no_space_11 | lemonskillpausepotatopoolcanoeboringorangeouterscienceglove |  
+| bip_39_word_no_space_12 | lemonskillpausepotatopoolcanoeboringorangeoutersciencegloveabout |  
+| bip_39_word_no_space_2 | lemonskill |  
+| bip_39_word_no_space_3 | lemonskillpause |  
+| bip_39_word_no_space_4 | lemonskillpausepotato |  
+| bip_39_word_no_space_5 | lemonskillpausepotatopool |  
+| bip_39_word_no_space_6 | lemonskillpausepotatopoolcanoe |  
+| bip_39_word_no_space_7 | lemonskillpausepotatopoolcanoeboring |  
+| bip_39_word_no_space_8 | lemonskillpausepotatopoolcanoeboringorange |  
+| bip_39_word_no_space_9 | lemonskillpausepotatopoolcanoeboringorangeouter |  
 | bip_39_word_space_0 | ['lemon', 'skill', 'pause', 'potato', 'pool', 'canoe', 'boring', 'orange', 'outer', 'science', 'glove', 'about'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon skill pause potato pool canoe boring orange outer science |  

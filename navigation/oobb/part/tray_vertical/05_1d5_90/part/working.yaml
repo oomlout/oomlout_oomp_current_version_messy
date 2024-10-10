@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'absent
   glass
 
   chase'
+bip_39_word_no_space_1: absent
+bip_39_word_no_space_10: absentnetinjectvalleystampkissbasketglasschasemonitor
+bip_39_word_no_space_11: absentnetinjectvalleystampkissbasketglasschasemonitordecline
+bip_39_word_no_space_12: absentnetinjectvalleystampkissbasketglasschasemonitordeclineankle
+bip_39_word_no_space_2: absentnet
+bip_39_word_no_space_3: absentnetinject
+bip_39_word_no_space_4: absentnetinjectvalley
+bip_39_word_no_space_5: absentnetinjectvalleystamp
+bip_39_word_no_space_6: absentnetinjectvalleystampkiss
+bip_39_word_no_space_7: absentnetinjectvalleystampkissbasket
+bip_39_word_no_space_8: absentnetinjectvalleystampkissbasketglass
+bip_39_word_no_space_9: absentnetinjectvalleystampkissbasketglasschase
 bip_39_word_space_0:
 - absent
 - net

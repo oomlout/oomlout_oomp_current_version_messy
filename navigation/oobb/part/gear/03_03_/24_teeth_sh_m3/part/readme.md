@@ -122,6 +122,18 @@ ice
 peace
 travel
 friend |  
+| bip_39_word_no_space_1 | curious |  
+| bip_39_word_no_space_10 | curiouscoachretireneverhungryicepeacetravelfriendfinish |  
+| bip_39_word_no_space_11 | curiouscoachretireneverhungryicepeacetravelfriendfinishlazy |  
+| bip_39_word_no_space_12 | curiouscoachretireneverhungryicepeacetravelfriendfinishlazyaisle |  
+| bip_39_word_no_space_2 | curiouscoach |  
+| bip_39_word_no_space_3 | curiouscoachretire |  
+| bip_39_word_no_space_4 | curiouscoachretirenever |  
+| bip_39_word_no_space_5 | curiouscoachretireneverhungry |  
+| bip_39_word_no_space_6 | curiouscoachretireneverhungryice |  
+| bip_39_word_no_space_7 | curiouscoachretireneverhungryicepeace |  
+| bip_39_word_no_space_8 | curiouscoachretireneverhungryicepeacetravel |  
+| bip_39_word_no_space_9 | curiouscoachretireneverhungryicepeacetravelfriend |  
 | bip_39_word_space_0 | ['curious', 'coach', 'retire', 'never', 'hungry', 'ice', 'peace', 'travel', 'friend', 'finish', 'lazy', 'aisle'] |  
 | bip_39_word_space_1 | curious |  
 | bip_39_word_space_10 | curious coach retire never hungry ice peace travel friend finish |  

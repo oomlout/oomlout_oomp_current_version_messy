@@ -122,6 +122,18 @@ car
 refuse
 legal
 vendor |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flockbuttermathpeppergaincarrefuselegalvendorclimb |  
+| bip_39_word_no_space_11 | flockbuttermathpeppergaincarrefuselegalvendorclimbball |  
+| bip_39_word_no_space_12 | flockbuttermathpeppergaincarrefuselegalvendorclimbballalley |  
+| bip_39_word_no_space_2 | flockbutter |  
+| bip_39_word_no_space_3 | flockbuttermath |  
+| bip_39_word_no_space_4 | flockbuttermathpepper |  
+| bip_39_word_no_space_5 | flockbuttermathpeppergain |  
+| bip_39_word_no_space_6 | flockbuttermathpeppergaincar |  
+| bip_39_word_no_space_7 | flockbuttermathpeppergaincarrefuse |  
+| bip_39_word_no_space_8 | flockbuttermathpeppergaincarrefuselegal |  
+| bip_39_word_no_space_9 | flockbuttermathpeppergaincarrefuselegalvendor |  
 | bip_39_word_space_0 | ['flock', 'butter', 'math', 'pepper', 'gain', 'car', 'refuse', 'legal', 'vendor', 'climb', 'ball', 'alley'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock butter math pepper gain car refuse legal vendor climb |  

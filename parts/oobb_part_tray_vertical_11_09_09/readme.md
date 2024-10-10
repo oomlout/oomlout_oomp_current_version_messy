@@ -122,6 +122,18 @@ round
 reopen
 rely
 space |  
+| bip_39_word_no_space_1 | exile |  
+| bip_39_word_no_space_10 | exiledusteagerstartillegalroundreopenrelyspacemidnight |  
+| bip_39_word_no_space_11 | exiledusteagerstartillegalroundreopenrelyspacemidnightvehicle |  
+| bip_39_word_no_space_12 | exiledusteagerstartillegalroundreopenrelyspacemidnightvehicleabsent |  
+| bip_39_word_no_space_2 | exiledust |  
+| bip_39_word_no_space_3 | exiledusteager |  
+| bip_39_word_no_space_4 | exiledusteagerstart |  
+| bip_39_word_no_space_5 | exiledusteagerstartillegal |  
+| bip_39_word_no_space_6 | exiledusteagerstartillegalround |  
+| bip_39_word_no_space_7 | exiledusteagerstartillegalroundreopen |  
+| bip_39_word_no_space_8 | exiledusteagerstartillegalroundreopenrely |  
+| bip_39_word_no_space_9 | exiledusteagerstartillegalroundreopenrelyspace |  
 | bip_39_word_space_0 | ['exile', 'dust', 'eager', 'start', 'illegal', 'round', 'reopen', 'rely', 'space', 'midnight', 'vehicle', 'absent'] |  
 | bip_39_word_space_1 | exile |  
 | bip_39_word_space_10 | exile dust eager start illegal round reopen rely space midnight |  

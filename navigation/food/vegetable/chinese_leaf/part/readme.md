@@ -122,6 +122,18 @@ stage
 faculty
 muscle
 assault |  
+| bip_39_word_no_space_1 | nose |  
+| bip_39_word_no_space_10 | nosesoftonionfocusvelvetstagefacultymuscleassaultedit |  
+| bip_39_word_no_space_11 | nosesoftonionfocusvelvetstagefacultymuscleassaulteditprefer |  
+| bip_39_word_no_space_12 | nosesoftonionfocusvelvetstagefacultymuscleassaulteditpreferart |  
+| bip_39_word_no_space_2 | nosesoft |  
+| bip_39_word_no_space_3 | nosesoftonion |  
+| bip_39_word_no_space_4 | nosesoftonionfocus |  
+| bip_39_word_no_space_5 | nosesoftonionfocusvelvet |  
+| bip_39_word_no_space_6 | nosesoftonionfocusvelvetstage |  
+| bip_39_word_no_space_7 | nosesoftonionfocusvelvetstagefaculty |  
+| bip_39_word_no_space_8 | nosesoftonionfocusvelvetstagefacultymuscle |  
+| bip_39_word_no_space_9 | nosesoftonionfocusvelvetstagefacultymuscleassault |  
 | bip_39_word_space_0 | ['nose', 'soft', 'onion', 'focus', 'velvet', 'stage', 'faculty', 'muscle', 'assault', 'edit', 'prefer', 'art'] |  
 | bip_39_word_space_1 | nose |  
 | bip_39_word_space_10 | nose soft onion focus velvet stage faculty muscle assault edit |  

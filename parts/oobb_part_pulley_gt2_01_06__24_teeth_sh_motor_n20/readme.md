@@ -122,6 +122,18 @@ birth
 depend
 all
 renew |  
+| bip_39_word_no_space_1 | film |  
+| bip_39_word_no_space_10 | filmgrasscollectbalancesoupbirthdependallrenewplanet |  
+| bip_39_word_no_space_11 | filmgrasscollectbalancesoupbirthdependallrenewplanetlogic |  
+| bip_39_word_no_space_12 | filmgrasscollectbalancesoupbirthdependallrenewplanetlogicalways |  
+| bip_39_word_no_space_2 | filmgrass |  
+| bip_39_word_no_space_3 | filmgrasscollect |  
+| bip_39_word_no_space_4 | filmgrasscollectbalance |  
+| bip_39_word_no_space_5 | filmgrasscollectbalancesoup |  
+| bip_39_word_no_space_6 | filmgrasscollectbalancesoupbirth |  
+| bip_39_word_no_space_7 | filmgrasscollectbalancesoupbirthdepend |  
+| bip_39_word_no_space_8 | filmgrasscollectbalancesoupbirthdependall |  
+| bip_39_word_no_space_9 | filmgrasscollectbalancesoupbirthdependallrenew |  
 | bip_39_word_space_0 | ['film', 'grass', 'collect', 'balance', 'soup', 'birth', 'depend', 'all', 'renew', 'planet', 'logic', 'always'] |  
 | bip_39_word_space_1 | film |  
 | bip_39_word_space_10 | film grass collect balance soup birth depend all renew planet |  

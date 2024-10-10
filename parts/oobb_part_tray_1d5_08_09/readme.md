@@ -122,6 +122,18 @@ cabin
 rug
 destroy
 battle |  
+| bip_39_word_no_space_1 | letter |  
+| bip_39_word_no_space_10 | letterspiritgoldcookcupboardcabinrugdestroybattleinform |  
+| bip_39_word_no_space_11 | letterspiritgoldcookcupboardcabinrugdestroybattleinformloyal |  
+| bip_39_word_no_space_12 | letterspiritgoldcookcupboardcabinrugdestroybattleinformloyalachieve |  
+| bip_39_word_no_space_2 | letterspirit |  
+| bip_39_word_no_space_3 | letterspiritgold |  
+| bip_39_word_no_space_4 | letterspiritgoldcook |  
+| bip_39_word_no_space_5 | letterspiritgoldcookcupboard |  
+| bip_39_word_no_space_6 | letterspiritgoldcookcupboardcabin |  
+| bip_39_word_no_space_7 | letterspiritgoldcookcupboardcabinrug |  
+| bip_39_word_no_space_8 | letterspiritgoldcookcupboardcabinrugdestroy |  
+| bip_39_word_no_space_9 | letterspiritgoldcookcupboardcabinrugdestroybattle |  
 | bip_39_word_space_0 | ['letter', 'spirit', 'gold', 'cook', 'cupboard', 'cabin', 'rug', 'destroy', 'battle', 'inform', 'loyal', 'achieve'] |  
 | bip_39_word_space_1 | letter |  
 | bip_39_word_space_10 | letter spirit gold cook cupboard cabin rug destroy battle inform |  

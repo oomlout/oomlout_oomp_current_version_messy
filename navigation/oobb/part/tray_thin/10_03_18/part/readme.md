@@ -122,6 +122,18 @@ judge
 display
 suspect
 student |  
+| bip_39_word_no_space_1 | amused |  
+| bip_39_word_no_space_10 | amusedchurnwingbirderosionjudgedisplaysuspectstudentbroken |  
+| bip_39_word_no_space_11 | amusedchurnwingbirderosionjudgedisplaysuspectstudentbrokenwasp |  
+| bip_39_word_no_space_12 | amusedchurnwingbirderosionjudgedisplaysuspectstudentbrokenwaspadult |  
+| bip_39_word_no_space_2 | amusedchurn |  
+| bip_39_word_no_space_3 | amusedchurnwing |  
+| bip_39_word_no_space_4 | amusedchurnwingbird |  
+| bip_39_word_no_space_5 | amusedchurnwingbirderosion |  
+| bip_39_word_no_space_6 | amusedchurnwingbirderosionjudge |  
+| bip_39_word_no_space_7 | amusedchurnwingbirderosionjudgedisplay |  
+| bip_39_word_no_space_8 | amusedchurnwingbirderosionjudgedisplaysuspect |  
+| bip_39_word_no_space_9 | amusedchurnwingbirderosionjudgedisplaysuspectstudent |  
 | bip_39_word_space_0 | ['amused', 'churn', 'wing', 'bird', 'erosion', 'judge', 'display', 'suspect', 'student', 'broken', 'wasp', 'adult'] |  
 | bip_39_word_space_1 | amused |  
 | bip_39_word_space_10 | amused churn wing bird erosion judge display suspect student broken |  

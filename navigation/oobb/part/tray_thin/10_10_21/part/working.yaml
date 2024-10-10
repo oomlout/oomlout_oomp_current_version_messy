@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sample
   easy
 
   jelly'
+bip_39_word_no_space_1: sample
+bip_39_word_no_space_10: samplebuffalotoothpluckcoinstaffloopeasyjellypear
+bip_39_word_no_space_11: samplebuffalotoothpluckcoinstaffloopeasyjellypeartwice
+bip_39_word_no_space_12: samplebuffalotoothpluckcoinstaffloopeasyjellypeartwicearrow
+bip_39_word_no_space_2: samplebuffalo
+bip_39_word_no_space_3: samplebuffalotooth
+bip_39_word_no_space_4: samplebuffalotoothpluck
+bip_39_word_no_space_5: samplebuffalotoothpluckcoin
+bip_39_word_no_space_6: samplebuffalotoothpluckcoinstaff
+bip_39_word_no_space_7: samplebuffalotoothpluckcoinstaffloop
+bip_39_word_no_space_8: samplebuffalotoothpluckcoinstaffloopeasy
+bip_39_word_no_space_9: samplebuffalotoothpluckcoinstaffloopeasyjelly
 bip_39_word_space_0:
 - sample
 - buffalo

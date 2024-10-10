@@ -122,6 +122,18 @@ property
 season
 oxygen
 whip |  
+| bip_39_word_no_space_1 | dismiss |  
+| bip_39_word_no_space_10 | dismisspulsealwayssaddlereopenpropertyseasonoxygenwhipchurn |  
+| bip_39_word_no_space_11 | dismisspulsealwayssaddlereopenpropertyseasonoxygenwhipchurnexchange |  
+| bip_39_word_no_space_12 | dismisspulsealwayssaddlereopenpropertyseasonoxygenwhipchurnexchangearm |  
+| bip_39_word_no_space_2 | dismisspulse |  
+| bip_39_word_no_space_3 | dismisspulsealways |  
+| bip_39_word_no_space_4 | dismisspulsealwayssaddle |  
+| bip_39_word_no_space_5 | dismisspulsealwayssaddlereopen |  
+| bip_39_word_no_space_6 | dismisspulsealwayssaddlereopenproperty |  
+| bip_39_word_no_space_7 | dismisspulsealwayssaddlereopenpropertyseason |  
+| bip_39_word_no_space_8 | dismisspulsealwayssaddlereopenpropertyseasonoxygen |  
+| bip_39_word_no_space_9 | dismisspulsealwayssaddlereopenpropertyseasonoxygenwhip |  
 | bip_39_word_space_0 | ['dismiss', 'pulse', 'always', 'saddle', 'reopen', 'property', 'season', 'oxygen', 'whip', 'churn', 'exchange', 'arm'] |  
 | bip_39_word_space_1 | dismiss |  
 | bip_39_word_space_10 | dismiss pulse always saddle reopen property season oxygen whip churn |  

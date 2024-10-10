@@ -122,6 +122,18 @@ skate
 flight
 winter
 mean |  
+| bip_39_word_no_space_1 | lazy |  
+| bip_39_word_no_space_10 | lazyintactshieldstomachfeatureskateflightwintermeanseat |  
+| bip_39_word_no_space_11 | lazyintactshieldstomachfeatureskateflightwintermeanseatteam |  
+| bip_39_word_no_space_12 | lazyintactshieldstomachfeatureskateflightwintermeanseatteamartist |  
+| bip_39_word_no_space_2 | lazyintact |  
+| bip_39_word_no_space_3 | lazyintactshield |  
+| bip_39_word_no_space_4 | lazyintactshieldstomach |  
+| bip_39_word_no_space_5 | lazyintactshieldstomachfeature |  
+| bip_39_word_no_space_6 | lazyintactshieldstomachfeatureskate |  
+| bip_39_word_no_space_7 | lazyintactshieldstomachfeatureskateflight |  
+| bip_39_word_no_space_8 | lazyintactshieldstomachfeatureskateflightwinter |  
+| bip_39_word_no_space_9 | lazyintactshieldstomachfeatureskateflightwintermean |  
 | bip_39_word_space_0 | ['lazy', 'intact', 'shield', 'stomach', 'feature', 'skate', 'flight', 'winter', 'mean', 'seat', 'team', 'artist'] |  
 | bip_39_word_space_1 | lazy |  
 | bip_39_word_space_10 | lazy intact shield stomach feature skate flight winter mean seat |  

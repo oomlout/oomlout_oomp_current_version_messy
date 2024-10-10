@@ -122,6 +122,18 @@ palace
 noise
 domain
 multiply |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palacegymhotelbettershadowpalacenoisedomainmultiplygrid |  
+| bip_39_word_no_space_11 | palacegymhotelbettershadowpalacenoisedomainmultiplygridlunar |  
+| bip_39_word_no_space_12 | palacegymhotelbettershadowpalacenoisedomainmultiplygridlunararrow |  
+| bip_39_word_no_space_2 | palacegym |  
+| bip_39_word_no_space_3 | palacegymhotel |  
+| bip_39_word_no_space_4 | palacegymhotelbetter |  
+| bip_39_word_no_space_5 | palacegymhotelbettershadow |  
+| bip_39_word_no_space_6 | palacegymhotelbettershadowpalace |  
+| bip_39_word_no_space_7 | palacegymhotelbettershadowpalacenoise |  
+| bip_39_word_no_space_8 | palacegymhotelbettershadowpalacenoisedomain |  
+| bip_39_word_no_space_9 | palacegymhotelbettershadowpalacenoisedomainmultiply |  
 | bip_39_word_space_0 | ['palace', 'gym', 'hotel', 'better', 'shadow', 'palace', 'noise', 'domain', 'multiply', 'grid', 'lunar', 'arrow'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace gym hotel better shadow palace noise domain multiply grid |  

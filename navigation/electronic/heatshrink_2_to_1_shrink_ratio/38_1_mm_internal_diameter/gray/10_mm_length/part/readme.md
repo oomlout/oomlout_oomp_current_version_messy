@@ -122,6 +122,18 @@ apology
 belt
 cross
 issue |  
+| bip_39_word_no_space_1 | tent |  
+| bip_39_word_no_space_10 | tentmaincutemodifybulbapologybeltcrossissueperfect |  
+| bip_39_word_no_space_11 | tentmaincutemodifybulbapologybeltcrossissueperfectrocket |  
+| bip_39_word_no_space_12 | tentmaincutemodifybulbapologybeltcrossissueperfectrocketaim |  
+| bip_39_word_no_space_2 | tentmain |  
+| bip_39_word_no_space_3 | tentmaincute |  
+| bip_39_word_no_space_4 | tentmaincutemodify |  
+| bip_39_word_no_space_5 | tentmaincutemodifybulb |  
+| bip_39_word_no_space_6 | tentmaincutemodifybulbapology |  
+| bip_39_word_no_space_7 | tentmaincutemodifybulbapologybelt |  
+| bip_39_word_no_space_8 | tentmaincutemodifybulbapologybeltcross |  
+| bip_39_word_no_space_9 | tentmaincutemodifybulbapologybeltcrossissue |  
 | bip_39_word_space_0 | ['tent', 'main', 'cute', 'modify', 'bulb', 'apology', 'belt', 'cross', 'issue', 'perfect', 'rocket', 'aim'] |  
 | bip_39_word_space_1 | tent |  
 | bip_39_word_space_10 | tent main cute modify bulb apology belt cross issue perfect |  

@@ -122,6 +122,18 @@ grain
 know
 point
 image |  
+| bip_39_word_no_space_1 | lumber |  
+| bip_39_word_no_space_10 | lumberridewhalephrasepermitgrainknowpointimagedaughter |  
+| bip_39_word_no_space_11 | lumberridewhalephrasepermitgrainknowpointimagedaughterwool |  
+| bip_39_word_no_space_12 | lumberridewhalephrasepermitgrainknowpointimagedaughterwoolagent |  
+| bip_39_word_no_space_2 | lumberride |  
+| bip_39_word_no_space_3 | lumberridewhale |  
+| bip_39_word_no_space_4 | lumberridewhalephrase |  
+| bip_39_word_no_space_5 | lumberridewhalephrasepermit |  
+| bip_39_word_no_space_6 | lumberridewhalephrasepermitgrain |  
+| bip_39_word_no_space_7 | lumberridewhalephrasepermitgrainknow |  
+| bip_39_word_no_space_8 | lumberridewhalephrasepermitgrainknowpoint |  
+| bip_39_word_no_space_9 | lumberridewhalephrasepermitgrainknowpointimage |  
 | bip_39_word_space_0 | ['lumber', 'ride', 'whale', 'phrase', 'permit', 'grain', 'know', 'point', 'image', 'daughter', 'wool', 'agent'] |  
 | bip_39_word_space_1 | lumber |  
 | bip_39_word_space_10 | lumber ride whale phrase permit grain know point image daughter |  

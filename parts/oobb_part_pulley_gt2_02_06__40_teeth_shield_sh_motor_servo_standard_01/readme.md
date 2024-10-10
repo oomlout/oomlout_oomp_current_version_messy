@@ -122,6 +122,18 @@ frown
 jungle
 yellow
 lawsuit |  
+| bip_39_word_no_space_1 | fiction |  
+| bip_39_word_no_space_10 | fictionhavejustwordskinfrownjungleyellowlawsuitpush |  
+| bip_39_word_no_space_11 | fictionhavejustwordskinfrownjungleyellowlawsuitpushcheap |  
+| bip_39_word_no_space_12 | fictionhavejustwordskinfrownjungleyellowlawsuitpushcheapanimal |  
+| bip_39_word_no_space_2 | fictionhave |  
+| bip_39_word_no_space_3 | fictionhavejust |  
+| bip_39_word_no_space_4 | fictionhavejustword |  
+| bip_39_word_no_space_5 | fictionhavejustwordskin |  
+| bip_39_word_no_space_6 | fictionhavejustwordskinfrown |  
+| bip_39_word_no_space_7 | fictionhavejustwordskinfrownjungle |  
+| bip_39_word_no_space_8 | fictionhavejustwordskinfrownjungleyellow |  
+| bip_39_word_no_space_9 | fictionhavejustwordskinfrownjungleyellowlawsuit |  
 | bip_39_word_space_0 | ['fiction', 'have', 'just', 'word', 'skin', 'frown', 'jungle', 'yellow', 'lawsuit', 'push', 'cheap', 'animal'] |  
 | bip_39_word_space_1 | fiction |  
 | bip_39_word_space_10 | fiction have just word skin frown jungle yellow lawsuit push |  

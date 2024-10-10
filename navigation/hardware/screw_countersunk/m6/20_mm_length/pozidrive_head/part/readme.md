@@ -122,6 +122,18 @@ canoe
 point
 guard
 swing |  
+| bip_39_word_no_space_1 | state |  
+| bip_39_word_no_space_10 | statetortoiseketchuprequiresongcanoepointguardswingwarrior |  
+| bip_39_word_no_space_11 | statetortoiseketchuprequiresongcanoepointguardswingwarriorcute |  
+| bip_39_word_no_space_12 | statetortoiseketchuprequiresongcanoepointguardswingwarriorcutearmed |  
+| bip_39_word_no_space_2 | statetortoise |  
+| bip_39_word_no_space_3 | statetortoiseketchup |  
+| bip_39_word_no_space_4 | statetortoiseketchuprequire |  
+| bip_39_word_no_space_5 | statetortoiseketchuprequiresong |  
+| bip_39_word_no_space_6 | statetortoiseketchuprequiresongcanoe |  
+| bip_39_word_no_space_7 | statetortoiseketchuprequiresongcanoepoint |  
+| bip_39_word_no_space_8 | statetortoiseketchuprequiresongcanoepointguard |  
+| bip_39_word_no_space_9 | statetortoiseketchuprequiresongcanoepointguardswing |  
 | bip_39_word_space_0 | ['state', 'tortoise', 'ketchup', 'require', 'song', 'canoe', 'point', 'guard', 'swing', 'warrior', 'cute', 'armed'] |  
 | bip_39_word_space_1 | state |  
 | bip_39_word_space_10 | state tortoise ketchup require song canoe point guard swing warrior |  

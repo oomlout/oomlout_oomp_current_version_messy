@@ -122,6 +122,18 @@ cheese
 recycle
 master
 actress |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefuponsheriffheavywisecheeserecyclemasteractressdragon |  
+| bip_39_word_no_space_11 | chiefuponsheriffheavywisecheeserecyclemasteractressdragonfantasy |  
+| bip_39_word_no_space_12 | chiefuponsheriffheavywisecheeserecyclemasteractressdragonfantasyacoustic |  
+| bip_39_word_no_space_2 | chiefupon |  
+| bip_39_word_no_space_3 | chiefuponsheriff |  
+| bip_39_word_no_space_4 | chiefuponsheriffheavy |  
+| bip_39_word_no_space_5 | chiefuponsheriffheavywise |  
+| bip_39_word_no_space_6 | chiefuponsheriffheavywisecheese |  
+| bip_39_word_no_space_7 | chiefuponsheriffheavywisecheeserecycle |  
+| bip_39_word_no_space_8 | chiefuponsheriffheavywisecheeserecyclemaster |  
+| bip_39_word_no_space_9 | chiefuponsheriffheavywisecheeserecyclemasteractress |  
 | bip_39_word_space_0 | ['chief', 'upon', 'sheriff', 'heavy', 'wise', 'cheese', 'recycle', 'master', 'actress', 'dragon', 'fantasy', 'acoustic'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief upon sheriff heavy wise cheese recycle master actress dragon |  

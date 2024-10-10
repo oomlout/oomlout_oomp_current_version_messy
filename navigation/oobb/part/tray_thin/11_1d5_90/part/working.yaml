@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scrub
   inquiry
 
   vote'
+bip_39_word_no_space_1: scrub
+bip_39_word_no_space_10: scrubtosscopycanauntstandpluginquiryvotefurnace
+bip_39_word_no_space_11: scrubtosscopycanauntstandpluginquiryvotefurnaceamount
+bip_39_word_no_space_12: scrubtosscopycanauntstandpluginquiryvotefurnaceamountasset
+bip_39_word_no_space_2: scrubtoss
+bip_39_word_no_space_3: scrubtosscopy
+bip_39_word_no_space_4: scrubtosscopycan
+bip_39_word_no_space_5: scrubtosscopycanaunt
+bip_39_word_no_space_6: scrubtosscopycanauntstand
+bip_39_word_no_space_7: scrubtosscopycanauntstandplug
+bip_39_word_no_space_8: scrubtosscopycanauntstandpluginquiry
+bip_39_word_no_space_9: scrubtosscopycanauntstandpluginquiryvote
 bip_39_word_space_0:
 - scrub
 - toss

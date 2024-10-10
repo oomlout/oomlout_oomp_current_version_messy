@@ -122,6 +122,18 @@ estate
 rifle
 bullet
 beauty |  
+| bip_39_word_no_space_1 | notice |  
+| bip_39_word_no_space_10 | noticebonelicensemagnetimitateestateriflebulletbeautyrefuse |  
+| bip_39_word_no_space_11 | noticebonelicensemagnetimitateestateriflebulletbeautyrefusecruel |  
+| bip_39_word_no_space_12 | noticebonelicensemagnetimitateestateriflebulletbeautyrefusecruelattitude |  
+| bip_39_word_no_space_2 | noticebone |  
+| bip_39_word_no_space_3 | noticebonelicense |  
+| bip_39_word_no_space_4 | noticebonelicensemagnet |  
+| bip_39_word_no_space_5 | noticebonelicensemagnetimitate |  
+| bip_39_word_no_space_6 | noticebonelicensemagnetimitateestate |  
+| bip_39_word_no_space_7 | noticebonelicensemagnetimitateestaterifle |  
+| bip_39_word_no_space_8 | noticebonelicensemagnetimitateestateriflebullet |  
+| bip_39_word_no_space_9 | noticebonelicensemagnetimitateestateriflebulletbeauty |  
 | bip_39_word_space_0 | ['notice', 'bone', 'license', 'magnet', 'imitate', 'estate', 'rifle', 'bullet', 'beauty', 'refuse', 'cruel', 'attitude'] |  
 | bip_39_word_space_1 | notice |  
 | bip_39_word_space_10 | notice bone license magnet imitate estate rifle bullet beauty refuse |  

@@ -122,6 +122,18 @@ mix
 biology
 journey
 cement |  
+| bip_39_word_no_space_1 | message |  
+| bip_39_word_no_space_10 | messageviewdinosaurkisstrafficmixbiologyjourneycementgarden |  
+| bip_39_word_no_space_11 | messageviewdinosaurkisstrafficmixbiologyjourneycementgardendonkey |  
+| bip_39_word_no_space_12 | messageviewdinosaurkisstrafficmixbiologyjourneycementgardendonkeyagree |  
+| bip_39_word_no_space_2 | messageview |  
+| bip_39_word_no_space_3 | messageviewdinosaur |  
+| bip_39_word_no_space_4 | messageviewdinosaurkiss |  
+| bip_39_word_no_space_5 | messageviewdinosaurkisstraffic |  
+| bip_39_word_no_space_6 | messageviewdinosaurkisstrafficmix |  
+| bip_39_word_no_space_7 | messageviewdinosaurkisstrafficmixbiology |  
+| bip_39_word_no_space_8 | messageviewdinosaurkisstrafficmixbiologyjourney |  
+| bip_39_word_no_space_9 | messageviewdinosaurkisstrafficmixbiologyjourneycement |  
 | bip_39_word_space_0 | ['message', 'view', 'dinosaur', 'kiss', 'traffic', 'mix', 'biology', 'journey', 'cement', 'garden', 'donkey', 'agree'] |  
 | bip_39_word_space_1 | message |  
 | bip_39_word_space_10 | message view dinosaur kiss traffic mix biology journey cement garden |  

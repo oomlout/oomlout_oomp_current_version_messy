@@ -122,6 +122,18 @@ then
 evil
 bamboo
 sense |  
+| bip_39_word_no_space_1 | forget |  
+| bip_39_word_no_space_10 | forgetoriginalsiblingwageclientthenevilbamboosensewire |  
+| bip_39_word_no_space_11 | forgetoriginalsiblingwageclientthenevilbamboosensewiretwice |  
+| bip_39_word_no_space_12 | forgetoriginalsiblingwageclientthenevilbamboosensewiretwiceantenna |  
+| bip_39_word_no_space_2 | forgetoriginal |  
+| bip_39_word_no_space_3 | forgetoriginalsibling |  
+| bip_39_word_no_space_4 | forgetoriginalsiblingwage |  
+| bip_39_word_no_space_5 | forgetoriginalsiblingwageclient |  
+| bip_39_word_no_space_6 | forgetoriginalsiblingwageclientthen |  
+| bip_39_word_no_space_7 | forgetoriginalsiblingwageclientthenevil |  
+| bip_39_word_no_space_8 | forgetoriginalsiblingwageclientthenevilbamboo |  
+| bip_39_word_no_space_9 | forgetoriginalsiblingwageclientthenevilbamboosense |  
 | bip_39_word_space_0 | ['forget', 'original', 'sibling', 'wage', 'client', 'then', 'evil', 'bamboo', 'sense', 'wire', 'twice', 'antenna'] |  
 | bip_39_word_space_1 | forget |  
 | bip_39_word_space_10 | forget original sibling wage client then evil bamboo sense wire |  

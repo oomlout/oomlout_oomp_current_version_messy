@@ -122,6 +122,18 @@ industry
 best
 chuckle
 warrior |  
+| bip_39_word_no_space_1 | ocean |  
+| bip_39_word_no_space_10 | oceanentrypopularwifecupboardindustrybestchucklewarriorrather |  
+| bip_39_word_no_space_11 | oceanentrypopularwifecupboardindustrybestchucklewarriorrathermask |  
+| bip_39_word_no_space_12 | oceanentrypopularwifecupboardindustrybestchucklewarriorrathermaskauto |  
+| bip_39_word_no_space_2 | oceanentry |  
+| bip_39_word_no_space_3 | oceanentrypopular |  
+| bip_39_word_no_space_4 | oceanentrypopularwife |  
+| bip_39_word_no_space_5 | oceanentrypopularwifecupboard |  
+| bip_39_word_no_space_6 | oceanentrypopularwifecupboardindustry |  
+| bip_39_word_no_space_7 | oceanentrypopularwifecupboardindustrybest |  
+| bip_39_word_no_space_8 | oceanentrypopularwifecupboardindustrybestchuckle |  
+| bip_39_word_no_space_9 | oceanentrypopularwifecupboardindustrybestchucklewarrior |  
 | bip_39_word_space_0 | ['ocean', 'entry', 'popular', 'wife', 'cupboard', 'industry', 'best', 'chuckle', 'warrior', 'rather', 'mask', 'auto'] |  
 | bip_39_word_space_1 | ocean |  
 | bip_39_word_space_10 | ocean entry popular wife cupboard industry best chuckle warrior rather |  

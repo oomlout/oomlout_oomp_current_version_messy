@@ -122,6 +122,18 @@ peace
 unaware
 six
 rule |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glassbreadneverpuddinghumanpeaceunawaresixrulehalf |  
+| bip_39_word_no_space_11 | glassbreadneverpuddinghumanpeaceunawaresixrulehalfmonster |  
+| bip_39_word_no_space_12 | glassbreadneverpuddinghumanpeaceunawaresixrulehalfmonsterable |  
+| bip_39_word_no_space_2 | glassbread |  
+| bip_39_word_no_space_3 | glassbreadnever |  
+| bip_39_word_no_space_4 | glassbreadneverpudding |  
+| bip_39_word_no_space_5 | glassbreadneverpuddinghuman |  
+| bip_39_word_no_space_6 | glassbreadneverpuddinghumanpeace |  
+| bip_39_word_no_space_7 | glassbreadneverpuddinghumanpeaceunaware |  
+| bip_39_word_no_space_8 | glassbreadneverpuddinghumanpeaceunawaresix |  
+| bip_39_word_no_space_9 | glassbreadneverpuddinghumanpeaceunawaresixrule |  
 | bip_39_word_space_0 | ['glass', 'bread', 'never', 'pudding', 'human', 'peace', 'unaware', 'six', 'rule', 'half', 'monster', 'able'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass bread never pudding human peace unaware six rule half |  

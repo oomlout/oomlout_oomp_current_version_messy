@@ -122,6 +122,18 @@ garbage
 young
 fire
 donate |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessviciouslumbervacuumproducegarbageyoungfiredonaterally |  
+| bip_39_word_no_space_11 | fitnessviciouslumbervacuumproducegarbageyoungfiredonaterallymind |  
+| bip_39_word_no_space_12 | fitnessviciouslumbervacuumproducegarbageyoungfiredonaterallymindabstract |  
+| bip_39_word_no_space_2 | fitnessvicious |  
+| bip_39_word_no_space_3 | fitnessviciouslumber |  
+| bip_39_word_no_space_4 | fitnessviciouslumbervacuum |  
+| bip_39_word_no_space_5 | fitnessviciouslumbervacuumproduce |  
+| bip_39_word_no_space_6 | fitnessviciouslumbervacuumproducegarbage |  
+| bip_39_word_no_space_7 | fitnessviciouslumbervacuumproducegarbageyoung |  
+| bip_39_word_no_space_8 | fitnessviciouslumbervacuumproducegarbageyoungfire |  
+| bip_39_word_no_space_9 | fitnessviciouslumbervacuumproducegarbageyoungfiredonate |  
 | bip_39_word_space_0 | ['fitness', 'vicious', 'lumber', 'vacuum', 'produce', 'garbage', 'young', 'fire', 'donate', 'rally', 'mind', 'abstract'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness vicious lumber vacuum produce garbage young fire donate rally |  

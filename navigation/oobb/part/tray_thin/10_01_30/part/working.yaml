@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ecology
   very
 
   pledge'
+bip_39_word_no_space_1: ecology
+bip_39_word_no_space_10: ecologysustainmaincheesesnapbaseclayverypledgegenre
+bip_39_word_no_space_11: ecologysustainmaincheesesnapbaseclayverypledgegenregovern
+bip_39_word_no_space_12: ecologysustainmaincheesesnapbaseclayverypledgegenregovernability
+bip_39_word_no_space_2: ecologysustain
+bip_39_word_no_space_3: ecologysustainmain
+bip_39_word_no_space_4: ecologysustainmaincheese
+bip_39_word_no_space_5: ecologysustainmaincheesesnap
+bip_39_word_no_space_6: ecologysustainmaincheesesnapbase
+bip_39_word_no_space_7: ecologysustainmaincheesesnapbaseclay
+bip_39_word_no_space_8: ecologysustainmaincheesesnapbaseclayvery
+bip_39_word_no_space_9: ecologysustainmaincheesesnapbaseclayverypledge
 bip_39_word_space_0:
 - ecology
 - sustain

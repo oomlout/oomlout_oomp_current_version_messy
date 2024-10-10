@@ -122,6 +122,18 @@ hurt
 security
 latin
 vote |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportcaptaindepthgoodfleehurtsecuritylatinvoteenlist |  
+| bip_39_word_no_space_11 | sportcaptaindepthgoodfleehurtsecuritylatinvoteenlistexpand |  
+| bip_39_word_no_space_12 | sportcaptaindepthgoodfleehurtsecuritylatinvoteenlistexpandaccident |  
+| bip_39_word_no_space_2 | sportcaptain |  
+| bip_39_word_no_space_3 | sportcaptaindepth |  
+| bip_39_word_no_space_4 | sportcaptaindepthgood |  
+| bip_39_word_no_space_5 | sportcaptaindepthgoodflee |  
+| bip_39_word_no_space_6 | sportcaptaindepthgoodfleehurt |  
+| bip_39_word_no_space_7 | sportcaptaindepthgoodfleehurtsecurity |  
+| bip_39_word_no_space_8 | sportcaptaindepthgoodfleehurtsecuritylatin |  
+| bip_39_word_no_space_9 | sportcaptaindepthgoodfleehurtsecuritylatinvote |  
 | bip_39_word_space_0 | ['sport', 'captain', 'depth', 'good', 'flee', 'hurt', 'security', 'latin', 'vote', 'enlist', 'expand', 'accident'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport captain depth good flee hurt security latin vote enlist |  

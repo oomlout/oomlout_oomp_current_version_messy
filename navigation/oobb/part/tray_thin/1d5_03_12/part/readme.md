@@ -122,6 +122,18 @@ inquiry
 impact
 village
 quiz |  
+| bip_39_word_no_space_1 | lazy |  
+| bip_39_word_no_space_10 | lazyhospitalcoppersessionraccooninquiryimpactvillagequizshock |  
+| bip_39_word_no_space_11 | lazyhospitalcoppersessionraccooninquiryimpactvillagequizshockfrog |  
+| bip_39_word_no_space_12 | lazyhospitalcoppersessionraccooninquiryimpactvillagequizshockfroganger |  
+| bip_39_word_no_space_2 | lazyhospital |  
+| bip_39_word_no_space_3 | lazyhospitalcopper |  
+| bip_39_word_no_space_4 | lazyhospitalcoppersession |  
+| bip_39_word_no_space_5 | lazyhospitalcoppersessionraccoon |  
+| bip_39_word_no_space_6 | lazyhospitalcoppersessionraccooninquiry |  
+| bip_39_word_no_space_7 | lazyhospitalcoppersessionraccooninquiryimpact |  
+| bip_39_word_no_space_8 | lazyhospitalcoppersessionraccooninquiryimpactvillage |  
+| bip_39_word_no_space_9 | lazyhospitalcoppersessionraccooninquiryimpactvillagequiz |  
 | bip_39_word_space_0 | ['lazy', 'hospital', 'copper', 'session', 'raccoon', 'inquiry', 'impact', 'village', 'quiz', 'shock', 'frog', 'anger'] |  
 | bip_39_word_space_1 | lazy |  
 | bip_39_word_space_10 | lazy hospital copper session raccoon inquiry impact village quiz shock |  

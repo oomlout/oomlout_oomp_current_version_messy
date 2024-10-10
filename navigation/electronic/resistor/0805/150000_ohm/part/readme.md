@@ -122,6 +122,18 @@ rival
 agent
 clerk
 mesh |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tongueregionwonderpeacedicerivalagentclerkmeshhybrid |  
+| bip_39_word_no_space_11 | tongueregionwonderpeacedicerivalagentclerkmeshhybridshallow |  
+| bip_39_word_no_space_12 | tongueregionwonderpeacedicerivalagentclerkmeshhybridshallowalone |  
+| bip_39_word_no_space_2 | tongueregion |  
+| bip_39_word_no_space_3 | tongueregionwonder |  
+| bip_39_word_no_space_4 | tongueregionwonderpeace |  
+| bip_39_word_no_space_5 | tongueregionwonderpeacedice |  
+| bip_39_word_no_space_6 | tongueregionwonderpeacedicerival |  
+| bip_39_word_no_space_7 | tongueregionwonderpeacedicerivalagent |  
+| bip_39_word_no_space_8 | tongueregionwonderpeacedicerivalagentclerk |  
+| bip_39_word_no_space_9 | tongueregionwonderpeacedicerivalagentclerkmesh |  
 | bip_39_word_space_0 | ['tongue', 'region', 'wonder', 'peace', 'dice', 'rival', 'agent', 'clerk', 'mesh', 'hybrid', 'shallow', 'alone'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue region wonder peace dice rival agent clerk mesh hybrid |  

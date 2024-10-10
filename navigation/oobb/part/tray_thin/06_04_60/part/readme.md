@@ -122,6 +122,18 @@ mobile
 approve
 lunar
 okay |  
+| bip_39_word_no_space_1 | foam |  
+| bip_39_word_no_space_10 | foampositioncritictokencementmobileapprovelunarokayswim |  
+| bip_39_word_no_space_11 | foampositioncritictokencementmobileapprovelunarokayswimfront |  
+| bip_39_word_no_space_12 | foampositioncritictokencementmobileapprovelunarokayswimfrontalbum |  
+| bip_39_word_no_space_2 | foamposition |  
+| bip_39_word_no_space_3 | foampositioncritic |  
+| bip_39_word_no_space_4 | foampositioncritictoken |  
+| bip_39_word_no_space_5 | foampositioncritictokencement |  
+| bip_39_word_no_space_6 | foampositioncritictokencementmobile |  
+| bip_39_word_no_space_7 | foampositioncritictokencementmobileapprove |  
+| bip_39_word_no_space_8 | foampositioncritictokencementmobileapprovelunar |  
+| bip_39_word_no_space_9 | foampositioncritictokencementmobileapprovelunarokay |  
 | bip_39_word_space_0 | ['foam', 'position', 'critic', 'token', 'cement', 'mobile', 'approve', 'lunar', 'okay', 'swim', 'front', 'album'] |  
 | bip_39_word_space_1 | foam |  
 | bip_39_word_space_10 | foam position critic token cement mobile approve lunar okay swim |  

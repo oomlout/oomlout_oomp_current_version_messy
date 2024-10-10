@@ -122,6 +122,18 @@ useful
 dolphin
 mind
 carpet |  
+| bip_39_word_no_space_1 | suggest |  
+| bip_39_word_no_space_10 | suggestindoordogdutchdivideusefuldolphinmindcarpetraccoon |  
+| bip_39_word_no_space_11 | suggestindoordogdutchdivideusefuldolphinmindcarpetraccoonlight |  
+| bip_39_word_no_space_12 | suggestindoordogdutchdivideusefuldolphinmindcarpetraccoonlightagain |  
+| bip_39_word_no_space_2 | suggestindoor |  
+| bip_39_word_no_space_3 | suggestindoordog |  
+| bip_39_word_no_space_4 | suggestindoordogdutch |  
+| bip_39_word_no_space_5 | suggestindoordogdutchdivide |  
+| bip_39_word_no_space_6 | suggestindoordogdutchdivideuseful |  
+| bip_39_word_no_space_7 | suggestindoordogdutchdivideusefuldolphin |  
+| bip_39_word_no_space_8 | suggestindoordogdutchdivideusefuldolphinmind |  
+| bip_39_word_no_space_9 | suggestindoordogdutchdivideusefuldolphinmindcarpet |  
 | bip_39_word_space_0 | ['suggest', 'indoor', 'dog', 'dutch', 'divide', 'useful', 'dolphin', 'mind', 'carpet', 'raccoon', 'light', 'again'] |  
 | bip_39_word_space_1 | suggest |  
 | bip_39_word_space_10 | suggest indoor dog dutch divide useful dolphin mind carpet raccoon |  

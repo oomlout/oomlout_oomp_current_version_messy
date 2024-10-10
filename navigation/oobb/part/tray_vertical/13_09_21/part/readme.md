@@ -122,6 +122,18 @@ daughter
 lake
 tuition
 frequent |  
+| bip_39_word_no_space_1 | ordinary |  
+| bip_39_word_no_space_10 | ordinarytypeselltortoisecatdaughterlaketuitionfrequentspray |  
+| bip_39_word_no_space_11 | ordinarytypeselltortoisecatdaughterlaketuitionfrequentspraysmooth |  
+| bip_39_word_no_space_12 | ordinarytypeselltortoisecatdaughterlaketuitionfrequentspraysmootharrange |  
+| bip_39_word_no_space_2 | ordinarytype |  
+| bip_39_word_no_space_3 | ordinarytypesell |  
+| bip_39_word_no_space_4 | ordinarytypeselltortoise |  
+| bip_39_word_no_space_5 | ordinarytypeselltortoisecat |  
+| bip_39_word_no_space_6 | ordinarytypeselltortoisecatdaughter |  
+| bip_39_word_no_space_7 | ordinarytypeselltortoisecatdaughterlake |  
+| bip_39_word_no_space_8 | ordinarytypeselltortoisecatdaughterlaketuition |  
+| bip_39_word_no_space_9 | ordinarytypeselltortoisecatdaughterlaketuitionfrequent |  
 | bip_39_word_space_0 | ['ordinary', 'type', 'sell', 'tortoise', 'cat', 'daughter', 'lake', 'tuition', 'frequent', 'spray', 'smooth', 'arrange'] |  
 | bip_39_word_space_1 | ordinary |  
 | bip_39_word_space_10 | ordinary type sell tortoise cat daughter lake tuition frequent spray |  

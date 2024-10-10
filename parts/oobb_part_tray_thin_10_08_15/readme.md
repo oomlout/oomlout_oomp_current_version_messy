@@ -122,6 +122,18 @@ uncle
 region
 swift
 kiwi |  
+| bip_39_word_no_space_1 | joy |  
+| bip_39_word_no_space_10 | joywestrazorstoneexampleuncleregionswiftkiwibrave |  
+| bip_39_word_no_space_11 | joywestrazorstoneexampleuncleregionswiftkiwibravegarage |  
+| bip_39_word_no_space_12 | joywestrazorstoneexampleuncleregionswiftkiwibravegarageasset |  
+| bip_39_word_no_space_2 | joywest |  
+| bip_39_word_no_space_3 | joywestrazor |  
+| bip_39_word_no_space_4 | joywestrazorstone |  
+| bip_39_word_no_space_5 | joywestrazorstoneexample |  
+| bip_39_word_no_space_6 | joywestrazorstoneexampleuncle |  
+| bip_39_word_no_space_7 | joywestrazorstoneexampleuncleregion |  
+| bip_39_word_no_space_8 | joywestrazorstoneexampleuncleregionswift |  
+| bip_39_word_no_space_9 | joywestrazorstoneexampleuncleregionswiftkiwi |  
 | bip_39_word_space_0 | ['joy', 'west', 'razor', 'stone', 'example', 'uncle', 'region', 'swift', 'kiwi', 'brave', 'garage', 'asset'] |  
 | bip_39_word_space_1 | joy |  
 | bip_39_word_space_10 | joy west razor stone example uncle region swift kiwi brave |  

@@ -122,6 +122,18 @@ emerge
 derive
 evil
 squeeze |  
+| bip_39_word_no_space_1 | appear |  
+| bip_39_word_no_space_10 | appearanswerrepeatharborfallemergederiveevilsqueezeimprove |  
+| bip_39_word_no_space_11 | appearanswerrepeatharborfallemergederiveevilsqueezeimprovefriend |  
+| bip_39_word_no_space_12 | appearanswerrepeatharborfallemergederiveevilsqueezeimprovefriendassist |  
+| bip_39_word_no_space_2 | appearanswer |  
+| bip_39_word_no_space_3 | appearanswerrepeat |  
+| bip_39_word_no_space_4 | appearanswerrepeatharbor |  
+| bip_39_word_no_space_5 | appearanswerrepeatharborfall |  
+| bip_39_word_no_space_6 | appearanswerrepeatharborfallemerge |  
+| bip_39_word_no_space_7 | appearanswerrepeatharborfallemergederive |  
+| bip_39_word_no_space_8 | appearanswerrepeatharborfallemergederiveevil |  
+| bip_39_word_no_space_9 | appearanswerrepeatharborfallemergederiveevilsqueeze |  
 | bip_39_word_space_0 | ['appear', 'answer', 'repeat', 'harbor', 'fall', 'emerge', 'derive', 'evil', 'squeeze', 'improve', 'friend', 'assist'] |  
 | bip_39_word_space_1 | appear |  
 | bip_39_word_space_10 | appear answer repeat harbor fall emerge derive evil squeeze improve |  

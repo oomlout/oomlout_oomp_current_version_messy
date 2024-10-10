@@ -122,6 +122,18 @@ arrow
 obvious
 blouse
 tuition |  
+| bip_39_word_no_space_1 | smooth |  
+| bip_39_word_no_space_10 | smoothgingerimitatefetchobjectarrowobviousblousetuitionartefact |  
+| bip_39_word_no_space_11 | smoothgingerimitatefetchobjectarrowobviousblousetuitionartefactrather |  
+| bip_39_word_no_space_12 | smoothgingerimitatefetchobjectarrowobviousblousetuitionartefactratheraerobic |  
+| bip_39_word_no_space_2 | smoothginger |  
+| bip_39_word_no_space_3 | smoothgingerimitate |  
+| bip_39_word_no_space_4 | smoothgingerimitatefetch |  
+| bip_39_word_no_space_5 | smoothgingerimitatefetchobject |  
+| bip_39_word_no_space_6 | smoothgingerimitatefetchobjectarrow |  
+| bip_39_word_no_space_7 | smoothgingerimitatefetchobjectarrowobvious |  
+| bip_39_word_no_space_8 | smoothgingerimitatefetchobjectarrowobviousblouse |  
+| bip_39_word_no_space_9 | smoothgingerimitatefetchobjectarrowobviousblousetuition |  
 | bip_39_word_space_0 | ['smooth', 'ginger', 'imitate', 'fetch', 'object', 'arrow', 'obvious', 'blouse', 'tuition', 'artefact', 'rather', 'aerobic'] |  
 | bip_39_word_space_1 | smooth |  
 | bip_39_word_space_10 | smooth ginger imitate fetch object arrow obvious blouse tuition artefact |  

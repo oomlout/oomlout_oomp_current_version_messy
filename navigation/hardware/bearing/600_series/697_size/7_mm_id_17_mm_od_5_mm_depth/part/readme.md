@@ -122,6 +122,18 @@ motor
 toddler
 quick
 promote |  
+| bip_39_word_no_space_1 | reform |  
+| bip_39_word_no_space_10 | reformgarlicparentliftsolvemotortoddlerquickpromotechalk |  
+| bip_39_word_no_space_11 | reformgarlicparentliftsolvemotortoddlerquickpromotechalkexotic |  
+| bip_39_word_no_space_12 | reformgarlicparentliftsolvemotortoddlerquickpromotechalkexoticasset |  
+| bip_39_word_no_space_2 | reformgarlic |  
+| bip_39_word_no_space_3 | reformgarlicparent |  
+| bip_39_word_no_space_4 | reformgarlicparentlift |  
+| bip_39_word_no_space_5 | reformgarlicparentliftsolve |  
+| bip_39_word_no_space_6 | reformgarlicparentliftsolvemotor |  
+| bip_39_word_no_space_7 | reformgarlicparentliftsolvemotortoddler |  
+| bip_39_word_no_space_8 | reformgarlicparentliftsolvemotortoddlerquick |  
+| bip_39_word_no_space_9 | reformgarlicparentliftsolvemotortoddlerquickpromote |  
 | bip_39_word_space_0 | ['reform', 'garlic', 'parent', 'lift', 'solve', 'motor', 'toddler', 'quick', 'promote', 'chalk', 'exotic', 'asset'] |  
 | bip_39_word_space_1 | reform |  
 | bip_39_word_space_10 | reform garlic parent lift solve motor toddler quick promote chalk |  

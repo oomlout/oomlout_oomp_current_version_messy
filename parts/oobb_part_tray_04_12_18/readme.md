@@ -122,6 +122,18 @@ mango
 leave
 barrel
 spread |  
+| bip_39_word_no_space_1 | quiz |  
+| bip_39_word_no_space_10 | quizicethememisstravelmangoleavebarrelspreadorgan |  
+| bip_39_word_no_space_11 | quizicethememisstravelmangoleavebarrelspreadorganequip |  
+| bip_39_word_no_space_12 | quizicethememisstravelmangoleavebarrelspreadorganequiparm |  
+| bip_39_word_no_space_2 | quizice |  
+| bip_39_word_no_space_3 | quizicetheme |  
+| bip_39_word_no_space_4 | quizicethememiss |  
+| bip_39_word_no_space_5 | quizicethememisstravel |  
+| bip_39_word_no_space_6 | quizicethememisstravelmango |  
+| bip_39_word_no_space_7 | quizicethememisstravelmangoleave |  
+| bip_39_word_no_space_8 | quizicethememisstravelmangoleavebarrel |  
+| bip_39_word_no_space_9 | quizicethememisstravelmangoleavebarrelspread |  
 | bip_39_word_space_0 | ['quiz', 'ice', 'theme', 'miss', 'travel', 'mango', 'leave', 'barrel', 'spread', 'organ', 'equip', 'arm'] |  
 | bip_39_word_space_1 | quiz |  
 | bip_39_word_space_10 | quiz ice theme miss travel mango leave barrel spread organ |  

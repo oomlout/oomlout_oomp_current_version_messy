@@ -122,6 +122,18 @@ allow
 absent
 slight
 island |  
+| bip_39_word_no_space_1 | deliver |  
+| bip_39_word_no_space_10 | deliverhollowtripomitcupallowabsentslightislanddepart |  
+| bip_39_word_no_space_11 | deliverhollowtripomitcupallowabsentslightislanddeparttrade |  
+| bip_39_word_no_space_12 | deliverhollowtripomitcupallowabsentslightislanddeparttradearmed |  
+| bip_39_word_no_space_2 | deliverhollow |  
+| bip_39_word_no_space_3 | deliverhollowtrip |  
+| bip_39_word_no_space_4 | deliverhollowtripomit |  
+| bip_39_word_no_space_5 | deliverhollowtripomitcup |  
+| bip_39_word_no_space_6 | deliverhollowtripomitcupallow |  
+| bip_39_word_no_space_7 | deliverhollowtripomitcupallowabsent |  
+| bip_39_word_no_space_8 | deliverhollowtripomitcupallowabsentslight |  
+| bip_39_word_no_space_9 | deliverhollowtripomitcupallowabsentslightisland |  
 | bip_39_word_space_0 | ['deliver', 'hollow', 'trip', 'omit', 'cup', 'allow', 'absent', 'slight', 'island', 'depart', 'trade', 'armed'] |  
 | bip_39_word_space_1 | deliver |  
 | bip_39_word_space_10 | deliver hollow trip omit cup allow absent slight island depart |  

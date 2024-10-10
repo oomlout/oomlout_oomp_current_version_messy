@@ -122,6 +122,18 @@ announce
 cheese
 quote
 exclude |  
+| bip_39_word_no_space_1 | cradle |  
+| bip_39_word_no_space_10 | cradleclimbinnerpuritythingannouncecheesequoteexcludeendorse |  
+| bip_39_word_no_space_11 | cradleclimbinnerpuritythingannouncecheesequoteexcludeendorsemixture |  
+| bip_39_word_no_space_12 | cradleclimbinnerpuritythingannouncecheesequoteexcludeendorsemixtureassist |  
+| bip_39_word_no_space_2 | cradleclimb |  
+| bip_39_word_no_space_3 | cradleclimbinner |  
+| bip_39_word_no_space_4 | cradleclimbinnerpurity |  
+| bip_39_word_no_space_5 | cradleclimbinnerpuritything |  
+| bip_39_word_no_space_6 | cradleclimbinnerpuritythingannounce |  
+| bip_39_word_no_space_7 | cradleclimbinnerpuritythingannouncecheese |  
+| bip_39_word_no_space_8 | cradleclimbinnerpuritythingannouncecheesequote |  
+| bip_39_word_no_space_9 | cradleclimbinnerpuritythingannouncecheesequoteexclude |  
 | bip_39_word_space_0 | ['cradle', 'climb', 'inner', 'purity', 'thing', 'announce', 'cheese', 'quote', 'exclude', 'endorse', 'mixture', 'assist'] |  
 | bip_39_word_space_1 | cradle |  
 | bip_39_word_space_10 | cradle climb inner purity thing announce cheese quote exclude endorse |  

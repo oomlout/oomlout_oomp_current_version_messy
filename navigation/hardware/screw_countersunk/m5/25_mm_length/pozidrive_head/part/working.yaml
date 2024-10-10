@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'measure
   ozone
 
   armor'
+bip_39_word_no_space_1: measure
+bip_39_word_no_space_10: measuremergeswapsnapnumbercultureshineozonearmorlimb
+bip_39_word_no_space_11: measuremergeswapsnapnumbercultureshineozonearmorlimblimb
+bip_39_word_no_space_12: measuremergeswapsnapnumbercultureshineozonearmorlimblimbabove
+bip_39_word_no_space_2: measuremerge
+bip_39_word_no_space_3: measuremergeswap
+bip_39_word_no_space_4: measuremergeswapsnap
+bip_39_word_no_space_5: measuremergeswapsnapnumber
+bip_39_word_no_space_6: measuremergeswapsnapnumberculture
+bip_39_word_no_space_7: measuremergeswapsnapnumbercultureshine
+bip_39_word_no_space_8: measuremergeswapsnapnumbercultureshineozone
+bip_39_word_no_space_9: measuremergeswapsnapnumbercultureshineozonearmor
 bip_39_word_space_0:
 - measure
 - merge

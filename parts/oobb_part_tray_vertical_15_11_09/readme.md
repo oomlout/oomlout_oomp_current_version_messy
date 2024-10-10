@@ -122,6 +122,18 @@ magnet
 own
 river
 circle |  
+| bip_39_word_no_space_1 | coconut |  
+| bip_39_word_no_space_10 | coconutsayarmwetscriptmagnetownrivercircletime |  
+| bip_39_word_no_space_11 | coconutsayarmwetscriptmagnetownrivercircletimelaptop |  
+| bip_39_word_no_space_12 | coconutsayarmwetscriptmagnetownrivercircletimelaptoparrange |  
+| bip_39_word_no_space_2 | coconutsay |  
+| bip_39_word_no_space_3 | coconutsayarm |  
+| bip_39_word_no_space_4 | coconutsayarmwet |  
+| bip_39_word_no_space_5 | coconutsayarmwetscript |  
+| bip_39_word_no_space_6 | coconutsayarmwetscriptmagnet |  
+| bip_39_word_no_space_7 | coconutsayarmwetscriptmagnetown |  
+| bip_39_word_no_space_8 | coconutsayarmwetscriptmagnetownriver |  
+| bip_39_word_no_space_9 | coconutsayarmwetscriptmagnetownrivercircle |  
 | bip_39_word_space_0 | ['coconut', 'say', 'arm', 'wet', 'script', 'magnet', 'own', 'river', 'circle', 'time', 'laptop', 'arrange'] |  
 | bip_39_word_space_1 | coconut |  
 | bip_39_word_space_10 | coconut say arm wet script magnet own river circle time |  

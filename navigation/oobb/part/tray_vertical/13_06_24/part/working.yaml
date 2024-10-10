@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'save
   fence
 
   repeat'
+bip_39_word_no_space_1: save
+bip_39_word_no_space_10: saveabilitycheeseagainsoulmarginrecipefencerepeatnominee
+bip_39_word_no_space_11: saveabilitycheeseagainsoulmarginrecipefencerepeatnomineeseries
+bip_39_word_no_space_12: saveabilitycheeseagainsoulmarginrecipefencerepeatnomineeseriesalone
+bip_39_word_no_space_2: saveability
+bip_39_word_no_space_3: saveabilitycheese
+bip_39_word_no_space_4: saveabilitycheeseagain
+bip_39_word_no_space_5: saveabilitycheeseagainsoul
+bip_39_word_no_space_6: saveabilitycheeseagainsoulmargin
+bip_39_word_no_space_7: saveabilitycheeseagainsoulmarginrecipe
+bip_39_word_no_space_8: saveabilitycheeseagainsoulmarginrecipefence
+bip_39_word_no_space_9: saveabilitycheeseagainsoulmarginrecipefencerepeat
 bip_39_word_space_0:
 - save
 - ability

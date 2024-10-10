@@ -122,6 +122,18 @@ kitten
 limb
 busy
 planet |  
+| bip_39_word_no_space_1 | amount |  
+| bip_39_word_no_space_10 | amountrudeguardrealgarbagekittenlimbbusyplanetcrawl |  
+| bip_39_word_no_space_11 | amountrudeguardrealgarbagekittenlimbbusyplanetcrawlstreet |  
+| bip_39_word_no_space_12 | amountrudeguardrealgarbagekittenlimbbusyplanetcrawlstreetapology |  
+| bip_39_word_no_space_2 | amountrude |  
+| bip_39_word_no_space_3 | amountrudeguard |  
+| bip_39_word_no_space_4 | amountrudeguardreal |  
+| bip_39_word_no_space_5 | amountrudeguardrealgarbage |  
+| bip_39_word_no_space_6 | amountrudeguardrealgarbagekitten |  
+| bip_39_word_no_space_7 | amountrudeguardrealgarbagekittenlimb |  
+| bip_39_word_no_space_8 | amountrudeguardrealgarbagekittenlimbbusy |  
+| bip_39_word_no_space_9 | amountrudeguardrealgarbagekittenlimbbusyplanet |  
 | bip_39_word_space_0 | ['amount', 'rude', 'guard', 'real', 'garbage', 'kitten', 'limb', 'busy', 'planet', 'crawl', 'street', 'apology'] |  
 | bip_39_word_space_1 | amount |  
 | bip_39_word_space_10 | amount rude guard real garbage kitten limb busy planet crawl |  

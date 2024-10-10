@@ -122,6 +122,18 @@ limb
 bid
 thank
 below |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | sellkidfetchshockclaimlimbbidthankbelowbroken |  
+| bip_39_word_no_space_11 | sellkidfetchshockclaimlimbbidthankbelowbrokenoak |  
+| bip_39_word_no_space_12 | sellkidfetchshockclaimlimbbidthankbelowbrokenoakaccuse |  
+| bip_39_word_no_space_2 | sellkid |  
+| bip_39_word_no_space_3 | sellkidfetch |  
+| bip_39_word_no_space_4 | sellkidfetchshock |  
+| bip_39_word_no_space_5 | sellkidfetchshockclaim |  
+| bip_39_word_no_space_6 | sellkidfetchshockclaimlimb |  
+| bip_39_word_no_space_7 | sellkidfetchshockclaimlimbbid |  
+| bip_39_word_no_space_8 | sellkidfetchshockclaimlimbbidthank |  
+| bip_39_word_no_space_9 | sellkidfetchshockclaimlimbbidthankbelow |  
 | bip_39_word_space_0 | ['sell', 'kid', 'fetch', 'shock', 'claim', 'limb', 'bid', 'thank', 'below', 'broken', 'oak', 'accuse'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell kid fetch shock claim limb bid thank below broken |  

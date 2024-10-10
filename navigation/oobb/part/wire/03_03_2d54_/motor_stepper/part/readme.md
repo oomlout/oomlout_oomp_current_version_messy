@@ -122,6 +122,18 @@ alone
 bring
 course
 chase |  
+| bip_39_word_no_space_1 | business |  
+| bip_39_word_no_space_10 | businessstonesamecouplemanalonebringcoursechasehope |  
+| bip_39_word_no_space_11 | businessstonesamecouplemanalonebringcoursechasehopeplug |  
+| bip_39_word_no_space_12 | businessstonesamecouplemanalonebringcoursechasehopeplugalbum |  
+| bip_39_word_no_space_2 | businessstone |  
+| bip_39_word_no_space_3 | businessstonesame |  
+| bip_39_word_no_space_4 | businessstonesamecouple |  
+| bip_39_word_no_space_5 | businessstonesamecoupleman |  
+| bip_39_word_no_space_6 | businessstonesamecouplemanalone |  
+| bip_39_word_no_space_7 | businessstonesamecouplemanalonebring |  
+| bip_39_word_no_space_8 | businessstonesamecouplemanalonebringcourse |  
+| bip_39_word_no_space_9 | businessstonesamecouplemanalonebringcoursechase |  
 | bip_39_word_space_0 | ['business', 'stone', 'same', 'couple', 'man', 'alone', 'bring', 'course', 'chase', 'hope', 'plug', 'album'] |  
 | bip_39_word_space_1 | business |  
 | bip_39_word_space_10 | business stone same couple man alone bring course chase hope |  

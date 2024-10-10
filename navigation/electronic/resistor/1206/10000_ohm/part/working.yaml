@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clock
   rate
 
   pet'
+bip_39_word_no_space_1: clock
+bip_39_word_no_space_10: clockbrownbuildcontrolblindmetalthisratepettool
+bip_39_word_no_space_11: clockbrownbuildcontrolblindmetalthisratepettoolcover
+bip_39_word_no_space_12: clockbrownbuildcontrolblindmetalthisratepettoolcoveraffair
+bip_39_word_no_space_2: clockbrown
+bip_39_word_no_space_3: clockbrownbuild
+bip_39_word_no_space_4: clockbrownbuildcontrol
+bip_39_word_no_space_5: clockbrownbuildcontrolblind
+bip_39_word_no_space_6: clockbrownbuildcontrolblindmetal
+bip_39_word_no_space_7: clockbrownbuildcontrolblindmetalthis
+bip_39_word_no_space_8: clockbrownbuildcontrolblindmetalthisrate
+bip_39_word_no_space_9: clockbrownbuildcontrolblindmetalthisratepet
 bip_39_word_space_0:
 - clock
 - brown

@@ -122,6 +122,18 @@ alone
 tunnel
 ill
 mixed |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessstereoparentfiscalarchalonetunnelillmixeddoctor |  
+| bip_39_word_no_space_11 | excessstereoparentfiscalarchalonetunnelillmixeddoctorgrape |  
+| bip_39_word_no_space_12 | excessstereoparentfiscalarchalonetunnelillmixeddoctorgrapeaccident |  
+| bip_39_word_no_space_2 | excessstereo |  
+| bip_39_word_no_space_3 | excessstereoparent |  
+| bip_39_word_no_space_4 | excessstereoparentfiscal |  
+| bip_39_word_no_space_5 | excessstereoparentfiscalarch |  
+| bip_39_word_no_space_6 | excessstereoparentfiscalarchalone |  
+| bip_39_word_no_space_7 | excessstereoparentfiscalarchalonetunnel |  
+| bip_39_word_no_space_8 | excessstereoparentfiscalarchalonetunnelill |  
+| bip_39_word_no_space_9 | excessstereoparentfiscalarchalonetunnelillmixed |  
 | bip_39_word_space_0 | ['excess', 'stereo', 'parent', 'fiscal', 'arch', 'alone', 'tunnel', 'ill', 'mixed', 'doctor', 'grape', 'accident'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess stereo parent fiscal arch alone tunnel ill mixed doctor |  

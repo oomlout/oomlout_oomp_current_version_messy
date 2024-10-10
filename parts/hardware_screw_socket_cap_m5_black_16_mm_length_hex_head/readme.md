@@ -122,6 +122,18 @@ polar
 accuse
 echo
 phone |  
+| bip_39_word_no_space_1 | huge |  
+| bip_39_word_no_space_10 | hugesoccermimicslightsidepolaraccuseechophonejar |  
+| bip_39_word_no_space_11 | hugesoccermimicslightsidepolaraccuseechophonejarcrucial |  
+| bip_39_word_no_space_12 | hugesoccermimicslightsidepolaraccuseechophonejarcrucialattitude |  
+| bip_39_word_no_space_2 | hugesoccer |  
+| bip_39_word_no_space_3 | hugesoccermimic |  
+| bip_39_word_no_space_4 | hugesoccermimicslight |  
+| bip_39_word_no_space_5 | hugesoccermimicslightside |  
+| bip_39_word_no_space_6 | hugesoccermimicslightsidepolar |  
+| bip_39_word_no_space_7 | hugesoccermimicslightsidepolaraccuse |  
+| bip_39_word_no_space_8 | hugesoccermimicslightsidepolaraccuseecho |  
+| bip_39_word_no_space_9 | hugesoccermimicslightsidepolaraccuseechophone |  
 | bip_39_word_space_0 | ['huge', 'soccer', 'mimic', 'slight', 'side', 'polar', 'accuse', 'echo', 'phone', 'jar', 'crucial', 'attitude'] |  
 | bip_39_word_space_1 | huge |  
 | bip_39_word_space_10 | huge soccer mimic slight side polar accuse echo phone jar |  

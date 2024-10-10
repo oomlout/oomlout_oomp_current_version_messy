@@ -122,6 +122,18 @@ teach
 about
 envelope
 urban |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagewarriorweaselfancywhaleteachaboutenvelopeurbanenhance |  
+| bip_39_word_no_space_11 | vintagewarriorweaselfancywhaleteachaboutenvelopeurbanenhancereveal |  
+| bip_39_word_no_space_12 | vintagewarriorweaselfancywhaleteachaboutenvelopeurbanenhancerevealappear |  
+| bip_39_word_no_space_2 | vintagewarrior |  
+| bip_39_word_no_space_3 | vintagewarriorweasel |  
+| bip_39_word_no_space_4 | vintagewarriorweaselfancy |  
+| bip_39_word_no_space_5 | vintagewarriorweaselfancywhale |  
+| bip_39_word_no_space_6 | vintagewarriorweaselfancywhaleteach |  
+| bip_39_word_no_space_7 | vintagewarriorweaselfancywhaleteachabout |  
+| bip_39_word_no_space_8 | vintagewarriorweaselfancywhaleteachaboutenvelope |  
+| bip_39_word_no_space_9 | vintagewarriorweaselfancywhaleteachaboutenvelopeurban |  
 | bip_39_word_space_0 | ['vintage', 'warrior', 'weasel', 'fancy', 'whale', 'teach', 'about', 'envelope', 'urban', 'enhance', 'reveal', 'appear'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage warrior weasel fancy whale teach about envelope urban enhance |  

@@ -122,6 +122,18 @@ autumn
 food
 regret
 average |  
+| bip_39_word_no_space_1 | amateur |  
+| bip_39_word_no_space_10 | amateursouthuniversesetupmeanautumnfoodregretaverageselect |  
+| bip_39_word_no_space_11 | amateursouthuniversesetupmeanautumnfoodregretaverageselecttask |  
+| bip_39_word_no_space_12 | amateursouthuniversesetupmeanautumnfoodregretaverageselecttaskalbum |  
+| bip_39_word_no_space_2 | amateursouth |  
+| bip_39_word_no_space_3 | amateursouthuniverse |  
+| bip_39_word_no_space_4 | amateursouthuniversesetup |  
+| bip_39_word_no_space_5 | amateursouthuniversesetupmean |  
+| bip_39_word_no_space_6 | amateursouthuniversesetupmeanautumn |  
+| bip_39_word_no_space_7 | amateursouthuniversesetupmeanautumnfood |  
+| bip_39_word_no_space_8 | amateursouthuniversesetupmeanautumnfoodregret |  
+| bip_39_word_no_space_9 | amateursouthuniversesetupmeanautumnfoodregretaverage |  
 | bip_39_word_space_0 | ['amateur', 'south', 'universe', 'setup', 'mean', 'autumn', 'food', 'regret', 'average', 'select', 'task', 'album'] |  
 | bip_39_word_space_1 | amateur |  
 | bip_39_word_space_10 | amateur south universe setup mean autumn food regret average select |  

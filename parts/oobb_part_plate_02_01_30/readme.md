@@ -122,6 +122,18 @@ glad
 fantasy
 number
 flee |  
+| bip_39_word_no_space_1 | cousin |  
+| bip_39_word_no_space_10 | cousinkittenvaguekidvisagladfantasynumberfleeawesome |  
+| bip_39_word_no_space_11 | cousinkittenvaguekidvisagladfantasynumberfleeawesomefound |  
+| bip_39_word_no_space_12 | cousinkittenvaguekidvisagladfantasynumberfleeawesomefoundarrive |  
+| bip_39_word_no_space_2 | cousinkitten |  
+| bip_39_word_no_space_3 | cousinkittenvague |  
+| bip_39_word_no_space_4 | cousinkittenvaguekid |  
+| bip_39_word_no_space_5 | cousinkittenvaguekidvisa |  
+| bip_39_word_no_space_6 | cousinkittenvaguekidvisaglad |  
+| bip_39_word_no_space_7 | cousinkittenvaguekidvisagladfantasy |  
+| bip_39_word_no_space_8 | cousinkittenvaguekidvisagladfantasynumber |  
+| bip_39_word_no_space_9 | cousinkittenvaguekidvisagladfantasynumberflee |  
 | bip_39_word_space_0 | ['cousin', 'kitten', 'vague', 'kid', 'visa', 'glad', 'fantasy', 'number', 'flee', 'awesome', 'found', 'arrive'] |  
 | bip_39_word_space_1 | cousin |  
 | bip_39_word_space_10 | cousin kitten vague kid visa glad fantasy number flee awesome |  

@@ -122,6 +122,18 @@ mean
 wood
 sunset
 weather |  
+| bip_39_word_no_space_1 | social |  
+| bip_39_word_no_space_10 | socialswordauditexcludefacultymeanwoodsunsetweatherswallow |  
+| bip_39_word_no_space_11 | socialswordauditexcludefacultymeanwoodsunsetweatherswallowhome |  
+| bip_39_word_no_space_12 | socialswordauditexcludefacultymeanwoodsunsetweatherswallowhomeancient |  
+| bip_39_word_no_space_2 | socialsword |  
+| bip_39_word_no_space_3 | socialswordaudit |  
+| bip_39_word_no_space_4 | socialswordauditexclude |  
+| bip_39_word_no_space_5 | socialswordauditexcludefaculty |  
+| bip_39_word_no_space_6 | socialswordauditexcludefacultymean |  
+| bip_39_word_no_space_7 | socialswordauditexcludefacultymeanwood |  
+| bip_39_word_no_space_8 | socialswordauditexcludefacultymeanwoodsunset |  
+| bip_39_word_no_space_9 | socialswordauditexcludefacultymeanwoodsunsetweather |  
 | bip_39_word_space_0 | ['social', 'sword', 'audit', 'exclude', 'faculty', 'mean', 'wood', 'sunset', 'weather', 'swallow', 'home', 'ancient'] |  
 | bip_39_word_space_1 | social |  
 | bip_39_word_space_10 | social sword audit exclude faculty mean wood sunset weather swallow |  

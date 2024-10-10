@@ -122,6 +122,18 @@ credit
 whisper
 hover
 candy |  
+| bip_39_word_no_space_1 | enhance |  
+| bip_39_word_no_space_10 | enhanceordinarybrickswimowncreditwhisperhovercandydisplay |  
+| bip_39_word_no_space_11 | enhanceordinarybrickswimowncreditwhisperhovercandydisplaykidney |  
+| bip_39_word_no_space_12 | enhanceordinarybrickswimowncreditwhisperhovercandydisplaykidneyassume |  
+| bip_39_word_no_space_2 | enhanceordinary |  
+| bip_39_word_no_space_3 | enhanceordinarybrick |  
+| bip_39_word_no_space_4 | enhanceordinarybrickswim |  
+| bip_39_word_no_space_5 | enhanceordinarybrickswimown |  
+| bip_39_word_no_space_6 | enhanceordinarybrickswimowncredit |  
+| bip_39_word_no_space_7 | enhanceordinarybrickswimowncreditwhisper |  
+| bip_39_word_no_space_8 | enhanceordinarybrickswimowncreditwhisperhover |  
+| bip_39_word_no_space_9 | enhanceordinarybrickswimowncreditwhisperhovercandy |  
 | bip_39_word_space_0 | ['enhance', 'ordinary', 'brick', 'swim', 'own', 'credit', 'whisper', 'hover', 'candy', 'display', 'kidney', 'assume'] |  
 | bip_39_word_space_1 | enhance |  
 | bip_39_word_space_10 | enhance ordinary brick swim own credit whisper hover candy display |  

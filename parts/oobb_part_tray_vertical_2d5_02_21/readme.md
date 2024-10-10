@@ -109,6 +109,17 @@ radar
 frame
 roast
 slight |  
+| bip_39_word_no_space_1 | diamond |  
+| bip_39_word_no_space_10 | diamondcarryswingauthorignoreradarframeroastslightbusy |  
+| bip_39_word_no_space_11 | diamondcarryswingauthorignoreradarframeroastslightbusycanyon |  
+| bip_39_word_no_space_2 | diamondcarry |  
+| bip_39_word_no_space_3 | diamondcarryswing |  
+| bip_39_word_no_space_4 | diamondcarryswingauthor |  
+| bip_39_word_no_space_5 | diamondcarryswingauthorignore |  
+| bip_39_word_no_space_6 | diamondcarryswingauthorignoreradar |  
+| bip_39_word_no_space_7 | diamondcarryswingauthorignoreradarframe |  
+| bip_39_word_no_space_8 | diamondcarryswingauthorignoreradarframeroast |  
+| bip_39_word_no_space_9 | diamondcarryswingauthorignoreradarframeroastslight |  
 | bip_39_word_space_0 | ['diamond', 'carry', 'swing', 'author', 'ignore', 'radar', 'frame', 'roast', 'slight', 'busy', 'canyon'] |  
 | bip_39_word_space_1 | diamond |  
 | bip_39_word_space_10 | diamond carry swing author ignore radar frame roast slight busy |  

@@ -122,6 +122,18 @@ laundry
 divorce
 scale
 rug |  
+| bip_39_word_no_space_1 | mass |  
+| bip_39_word_no_space_10 | massriceeducatevanishcanoelaundrydivorcescalerugacoustic |  
+| bip_39_word_no_space_11 | massriceeducatevanishcanoelaundrydivorcescalerugacoustictaste |  
+| bip_39_word_no_space_12 | massriceeducatevanishcanoelaundrydivorcescalerugacoustictasteall |  
+| bip_39_word_no_space_2 | massrice |  
+| bip_39_word_no_space_3 | massriceeducate |  
+| bip_39_word_no_space_4 | massriceeducatevanish |  
+| bip_39_word_no_space_5 | massriceeducatevanishcanoe |  
+| bip_39_word_no_space_6 | massriceeducatevanishcanoelaundry |  
+| bip_39_word_no_space_7 | massriceeducatevanishcanoelaundrydivorce |  
+| bip_39_word_no_space_8 | massriceeducatevanishcanoelaundrydivorcescale |  
+| bip_39_word_no_space_9 | massriceeducatevanishcanoelaundrydivorcescalerug |  
 | bip_39_word_space_0 | ['mass', 'rice', 'educate', 'vanish', 'canoe', 'laundry', 'divorce', 'scale', 'rug', 'acoustic', 'taste', 'all'] |  
 | bip_39_word_space_1 | mass |  
 | bip_39_word_space_10 | mass rice educate vanish canoe laundry divorce scale rug acoustic |  

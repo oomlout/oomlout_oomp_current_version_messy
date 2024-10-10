@@ -122,6 +122,18 @@ club
 jazz
 vintage
 fault |  
+| bip_39_word_no_space_1 | slim |  
+| bip_39_word_no_space_10 | slimrealscorpionawkwardnastyclubjazzvintagefaultembody |  
+| bip_39_word_no_space_11 | slimrealscorpionawkwardnastyclubjazzvintagefaultembodyseries |  
+| bip_39_word_no_space_12 | slimrealscorpionawkwardnastyclubjazzvintagefaultembodyseriesarmy |  
+| bip_39_word_no_space_2 | slimreal |  
+| bip_39_word_no_space_3 | slimrealscorpion |  
+| bip_39_word_no_space_4 | slimrealscorpionawkward |  
+| bip_39_word_no_space_5 | slimrealscorpionawkwardnasty |  
+| bip_39_word_no_space_6 | slimrealscorpionawkwardnastyclub |  
+| bip_39_word_no_space_7 | slimrealscorpionawkwardnastyclubjazz |  
+| bip_39_word_no_space_8 | slimrealscorpionawkwardnastyclubjazzvintage |  
+| bip_39_word_no_space_9 | slimrealscorpionawkwardnastyclubjazzvintagefault |  
 | bip_39_word_space_0 | ['slim', 'real', 'scorpion', 'awkward', 'nasty', 'club', 'jazz', 'vintage', 'fault', 'embody', 'series', 'army'] |  
 | bip_39_word_space_1 | slim |  
 | bip_39_word_space_10 | slim real scorpion awkward nasty club jazz vintage fault embody |  

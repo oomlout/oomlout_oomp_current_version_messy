@@ -122,6 +122,18 @@ pact
 choose
 broom
 enhance |  
+| bip_39_word_no_space_1 | drift |  
+| bip_39_word_no_space_10 | driftsymbolmadbindspecialpactchoosebroomenhancesettle |  
+| bip_39_word_no_space_11 | driftsymbolmadbindspecialpactchoosebroomenhancesettlepen |  
+| bip_39_word_no_space_12 | driftsymbolmadbindspecialpactchoosebroomenhancesettlepenaccuse |  
+| bip_39_word_no_space_2 | driftsymbol |  
+| bip_39_word_no_space_3 | driftsymbolmad |  
+| bip_39_word_no_space_4 | driftsymbolmadbind |  
+| bip_39_word_no_space_5 | driftsymbolmadbindspecial |  
+| bip_39_word_no_space_6 | driftsymbolmadbindspecialpact |  
+| bip_39_word_no_space_7 | driftsymbolmadbindspecialpactchoose |  
+| bip_39_word_no_space_8 | driftsymbolmadbindspecialpactchoosebroom |  
+| bip_39_word_no_space_9 | driftsymbolmadbindspecialpactchoosebroomenhance |  
 | bip_39_word_space_0 | ['drift', 'symbol', 'mad', 'bind', 'special', 'pact', 'choose', 'broom', 'enhance', 'settle', 'pen', 'accuse'] |  
 | bip_39_word_space_1 | drift |  
 | bip_39_word_space_10 | drift symbol mad bind special pact choose broom enhance settle |  

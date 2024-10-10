@@ -122,6 +122,18 @@ husband
 salute
 achieve
 paper |  
+| bip_39_word_no_space_1 | reunion |  
+| bip_39_word_no_space_10 | reunioninitialcementwritepriorityhusbandsaluteachievepaperflame |  
+| bip_39_word_no_space_11 | reunioninitialcementwritepriorityhusbandsaluteachievepaperflamebelow |  
+| bip_39_word_no_space_12 | reunioninitialcementwritepriorityhusbandsaluteachievepaperflamebelowapprove |  
+| bip_39_word_no_space_2 | reunioninitial |  
+| bip_39_word_no_space_3 | reunioninitialcement |  
+| bip_39_word_no_space_4 | reunioninitialcementwrite |  
+| bip_39_word_no_space_5 | reunioninitialcementwritepriority |  
+| bip_39_word_no_space_6 | reunioninitialcementwritepriorityhusband |  
+| bip_39_word_no_space_7 | reunioninitialcementwritepriorityhusbandsalute |  
+| bip_39_word_no_space_8 | reunioninitialcementwritepriorityhusbandsaluteachieve |  
+| bip_39_word_no_space_9 | reunioninitialcementwritepriorityhusbandsaluteachievepaper |  
 | bip_39_word_space_0 | ['reunion', 'initial', 'cement', 'write', 'priority', 'husband', 'salute', 'achieve', 'paper', 'flame', 'below', 'approve'] |  
 | bip_39_word_space_1 | reunion |  
 | bip_39_word_space_10 | reunion initial cement write priority husband salute achieve paper flame |  

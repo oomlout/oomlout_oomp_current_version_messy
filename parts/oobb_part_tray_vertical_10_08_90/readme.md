@@ -122,6 +122,18 @@ sniff
 apology
 surprise
 keen |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | anklehurdletunacashpracticesniffapologysurprisekeenjust |  
+| bip_39_word_no_space_11 | anklehurdletunacashpracticesniffapologysurprisekeenjustwinter |  
+| bip_39_word_no_space_12 | anklehurdletunacashpracticesniffapologysurprisekeenjustwinterauthor |  
+| bip_39_word_no_space_2 | anklehurdle |  
+| bip_39_word_no_space_3 | anklehurdletuna |  
+| bip_39_word_no_space_4 | anklehurdletunacash |  
+| bip_39_word_no_space_5 | anklehurdletunacashpractice |  
+| bip_39_word_no_space_6 | anklehurdletunacashpracticesniff |  
+| bip_39_word_no_space_7 | anklehurdletunacashpracticesniffapology |  
+| bip_39_word_no_space_8 | anklehurdletunacashpracticesniffapologysurprise |  
+| bip_39_word_no_space_9 | anklehurdletunacashpracticesniffapologysurprisekeen |  
 | bip_39_word_space_0 | ['ankle', 'hurdle', 'tuna', 'cash', 'practice', 'sniff', 'apology', 'surprise', 'keen', 'just', 'winter', 'author'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle hurdle tuna cash practice sniff apology surprise keen just |  

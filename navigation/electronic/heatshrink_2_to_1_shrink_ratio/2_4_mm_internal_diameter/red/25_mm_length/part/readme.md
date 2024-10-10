@@ -122,6 +122,18 @@ blouse
 next
 main
 wide |  
+| bip_39_word_no_space_1 | filter |  
+| bip_39_word_no_space_10 | filterindexbirdpencilholidayblousenextmainwidevery |  
+| bip_39_word_no_space_11 | filterindexbirdpencilholidayblousenextmainwideverynature |  
+| bip_39_word_no_space_12 | filterindexbirdpencilholidayblousenextmainwideverynatureassist |  
+| bip_39_word_no_space_2 | filterindex |  
+| bip_39_word_no_space_3 | filterindexbird |  
+| bip_39_word_no_space_4 | filterindexbirdpencil |  
+| bip_39_word_no_space_5 | filterindexbirdpencilholiday |  
+| bip_39_word_no_space_6 | filterindexbirdpencilholidayblouse |  
+| bip_39_word_no_space_7 | filterindexbirdpencilholidayblousenext |  
+| bip_39_word_no_space_8 | filterindexbirdpencilholidayblousenextmain |  
+| bip_39_word_no_space_9 | filterindexbirdpencilholidayblousenextmainwide |  
 | bip_39_word_space_0 | ['filter', 'index', 'bird', 'pencil', 'holiday', 'blouse', 'next', 'main', 'wide', 'very', 'nature', 'assist'] |  
 | bip_39_word_space_1 | filter |  
 | bip_39_word_space_10 | filter index bird pencil holiday blouse next main wide very |  

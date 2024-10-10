@@ -122,6 +122,18 @@ inquiry
 uphold
 tenant
 lazy |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguecashdrastichalfdropinquiryupholdtenantlazyclimb |  
+| bip_39_word_no_space_11 | tonguecashdrastichalfdropinquiryupholdtenantlazyclimbboost |  
+| bip_39_word_no_space_12 | tonguecashdrastichalfdropinquiryupholdtenantlazyclimbboostamount |  
+| bip_39_word_no_space_2 | tonguecash |  
+| bip_39_word_no_space_3 | tonguecashdrastic |  
+| bip_39_word_no_space_4 | tonguecashdrastichalf |  
+| bip_39_word_no_space_5 | tonguecashdrastichalfdrop |  
+| bip_39_word_no_space_6 | tonguecashdrastichalfdropinquiry |  
+| bip_39_word_no_space_7 | tonguecashdrastichalfdropinquiryuphold |  
+| bip_39_word_no_space_8 | tonguecashdrastichalfdropinquiryupholdtenant |  
+| bip_39_word_no_space_9 | tonguecashdrastichalfdropinquiryupholdtenantlazy |  
 | bip_39_word_space_0 | ['tongue', 'cash', 'drastic', 'half', 'drop', 'inquiry', 'uphold', 'tenant', 'lazy', 'climb', 'boost', 'amount'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue cash drastic half drop inquiry uphold tenant lazy climb |  

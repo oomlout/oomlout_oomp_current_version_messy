@@ -122,6 +122,18 @@ lazy
 early
 dutch
 swallow |  
+| bip_39_word_no_space_1 | reunion |  
+| bip_39_word_no_space_10 | reunionartfeecaughtsadnesslazyearlydutchswallowdignity |  
+| bip_39_word_no_space_11 | reunionartfeecaughtsadnesslazyearlydutchswallowdignitypeople |  
+| bip_39_word_no_space_12 | reunionartfeecaughtsadnesslazyearlydutchswallowdignitypeopleactor |  
+| bip_39_word_no_space_2 | reunionart |  
+| bip_39_word_no_space_3 | reunionartfee |  
+| bip_39_word_no_space_4 | reunionartfeecaught |  
+| bip_39_word_no_space_5 | reunionartfeecaughtsadness |  
+| bip_39_word_no_space_6 | reunionartfeecaughtsadnesslazy |  
+| bip_39_word_no_space_7 | reunionartfeecaughtsadnesslazyearly |  
+| bip_39_word_no_space_8 | reunionartfeecaughtsadnesslazyearlydutch |  
+| bip_39_word_no_space_9 | reunionartfeecaughtsadnesslazyearlydutchswallow |  
 | bip_39_word_space_0 | ['reunion', 'art', 'fee', 'caught', 'sadness', 'lazy', 'early', 'dutch', 'swallow', 'dignity', 'people', 'actor'] |  
 | bip_39_word_space_1 | reunion |  
 | bip_39_word_space_10 | reunion art fee caught sadness lazy early dutch swallow dignity |  

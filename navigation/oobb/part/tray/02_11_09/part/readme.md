@@ -122,6 +122,18 @@ visa
 few
 knock
 muffin |  
+| bip_39_word_no_space_1 | fly |  
+| bip_39_word_no_space_10 | flylonelyairinhaledecembervisafewknockmuffinpanel |  
+| bip_39_word_no_space_11 | flylonelyairinhaledecembervisafewknockmuffinpanelpenalty |  
+| bip_39_word_no_space_12 | flylonelyairinhaledecembervisafewknockmuffinpanelpenaltyacquire |  
+| bip_39_word_no_space_2 | flylonely |  
+| bip_39_word_no_space_3 | flylonelyair |  
+| bip_39_word_no_space_4 | flylonelyairinhale |  
+| bip_39_word_no_space_5 | flylonelyairinhaledecember |  
+| bip_39_word_no_space_6 | flylonelyairinhaledecembervisa |  
+| bip_39_word_no_space_7 | flylonelyairinhaledecembervisafew |  
+| bip_39_word_no_space_8 | flylonelyairinhaledecembervisafewknock |  
+| bip_39_word_no_space_9 | flylonelyairinhaledecembervisafewknockmuffin |  
 | bip_39_word_space_0 | ['fly', 'lonely', 'air', 'inhale', 'december', 'visa', 'few', 'knock', 'muffin', 'panel', 'penalty', 'acquire'] |  
 | bip_39_word_space_1 | fly |  
 | bip_39_word_space_10 | fly lonely air inhale december visa few knock muffin panel |  

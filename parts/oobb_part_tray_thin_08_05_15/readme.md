@@ -122,6 +122,18 @@ door
 glide
 sound
 unit |  
+| bip_39_word_no_space_1 | actress |  
+| bip_39_word_no_space_10 | actresshospitalcrispunableofferdoorglidesoundunitgather |  
+| bip_39_word_no_space_11 | actresshospitalcrispunableofferdoorglidesoundunitgatherperson |  
+| bip_39_word_no_space_12 | actresshospitalcrispunableofferdoorglidesoundunitgatherpersonapprove |  
+| bip_39_word_no_space_2 | actresshospital |  
+| bip_39_word_no_space_3 | actresshospitalcrisp |  
+| bip_39_word_no_space_4 | actresshospitalcrispunable |  
+| bip_39_word_no_space_5 | actresshospitalcrispunableoffer |  
+| bip_39_word_no_space_6 | actresshospitalcrispunableofferdoor |  
+| bip_39_word_no_space_7 | actresshospitalcrispunableofferdoorglide |  
+| bip_39_word_no_space_8 | actresshospitalcrispunableofferdoorglidesound |  
+| bip_39_word_no_space_9 | actresshospitalcrispunableofferdoorglidesoundunit |  
 | bip_39_word_space_0 | ['actress', 'hospital', 'crisp', 'unable', 'offer', 'door', 'glide', 'sound', 'unit', 'gather', 'person', 'approve'] |  
 | bip_39_word_space_1 | actress |  
 | bip_39_word_space_10 | actress hospital crisp unable offer door glide sound unit gather |  

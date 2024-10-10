@@ -122,6 +122,18 @@ visit
 ice
 van
 uniform |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemsqueezehealthmonitorpaddlevisiticevanuniformsea |  
+| bip_39_word_no_space_11 | itemsqueezehealthmonitorpaddlevisiticevanuniformseacustom |  
+| bip_39_word_no_space_12 | itemsqueezehealthmonitorpaddlevisiticevanuniformseacustomask |  
+| bip_39_word_no_space_2 | itemsqueeze |  
+| bip_39_word_no_space_3 | itemsqueezehealth |  
+| bip_39_word_no_space_4 | itemsqueezehealthmonitor |  
+| bip_39_word_no_space_5 | itemsqueezehealthmonitorpaddle |  
+| bip_39_word_no_space_6 | itemsqueezehealthmonitorpaddlevisit |  
+| bip_39_word_no_space_7 | itemsqueezehealthmonitorpaddlevisitice |  
+| bip_39_word_no_space_8 | itemsqueezehealthmonitorpaddlevisiticevan |  
+| bip_39_word_no_space_9 | itemsqueezehealthmonitorpaddlevisiticevanuniform |  
 | bip_39_word_space_0 | ['item', 'squeeze', 'health', 'monitor', 'paddle', 'visit', 'ice', 'van', 'uniform', 'sea', 'custom', 'ask'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item squeeze health monitor paddle visit ice van uniform sea |  

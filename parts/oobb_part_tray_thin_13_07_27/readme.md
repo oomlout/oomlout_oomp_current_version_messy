@@ -122,6 +122,18 @@ blade
 enrich
 theme
 weather |  
+| bip_39_word_no_space_1 | orbit |  
+| bip_39_word_no_space_10 | orbitfacecorrectparadedealbladeenrichthemeweathernice |  
+| bip_39_word_no_space_11 | orbitfacecorrectparadedealbladeenrichthemeweathernicehip |  
+| bip_39_word_no_space_12 | orbitfacecorrectparadedealbladeenrichthemeweathernicehipassist |  
+| bip_39_word_no_space_2 | orbitface |  
+| bip_39_word_no_space_3 | orbitfacecorrect |  
+| bip_39_word_no_space_4 | orbitfacecorrectparade |  
+| bip_39_word_no_space_5 | orbitfacecorrectparadedeal |  
+| bip_39_word_no_space_6 | orbitfacecorrectparadedealblade |  
+| bip_39_word_no_space_7 | orbitfacecorrectparadedealbladeenrich |  
+| bip_39_word_no_space_8 | orbitfacecorrectparadedealbladeenrichtheme |  
+| bip_39_word_no_space_9 | orbitfacecorrectparadedealbladeenrichthemeweather |  
 | bip_39_word_space_0 | ['orbit', 'face', 'correct', 'parade', 'deal', 'blade', 'enrich', 'theme', 'weather', 'nice', 'hip', 'assist'] |  
 | bip_39_word_space_1 | orbit |  
 | bip_39_word_space_10 | orbit face correct parade deal blade enrich theme weather nice |  

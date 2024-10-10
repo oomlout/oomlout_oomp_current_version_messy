@@ -122,6 +122,18 @@ gather
 sight
 misery
 castle |  
+| bip_39_word_no_space_1 | tribe |  
+| bip_39_word_no_space_10 | tribecoachliftdebatemimicgathersightmiserycastletwin |  
+| bip_39_word_no_space_11 | tribecoachliftdebatemimicgathersightmiserycastletwincluster |  
+| bip_39_word_no_space_12 | tribecoachliftdebatemimicgathersightmiserycastletwinclusterany |  
+| bip_39_word_no_space_2 | tribecoach |  
+| bip_39_word_no_space_3 | tribecoachlift |  
+| bip_39_word_no_space_4 | tribecoachliftdebate |  
+| bip_39_word_no_space_5 | tribecoachliftdebatemimic |  
+| bip_39_word_no_space_6 | tribecoachliftdebatemimicgather |  
+| bip_39_word_no_space_7 | tribecoachliftdebatemimicgathersight |  
+| bip_39_word_no_space_8 | tribecoachliftdebatemimicgathersightmisery |  
+| bip_39_word_no_space_9 | tribecoachliftdebatemimicgathersightmiserycastle |  
 | bip_39_word_space_0 | ['tribe', 'coach', 'lift', 'debate', 'mimic', 'gather', 'sight', 'misery', 'castle', 'twin', 'cluster', 'any'] |  
 | bip_39_word_space_1 | tribe |  
 | bip_39_word_space_10 | tribe coach lift debate mimic gather sight misery castle twin |  

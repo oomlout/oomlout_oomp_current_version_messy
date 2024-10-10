@@ -122,6 +122,18 @@ uncle
 catalog
 hand
 couch |  
+| bip_39_word_no_space_1 | found |  
+| bip_39_word_no_space_10 | foundblousedrasticmutualneitherunclecataloghandcouchtown |  
+| bip_39_word_no_space_11 | foundblousedrasticmutualneitherunclecataloghandcouchtownartwork |  
+| bip_39_word_no_space_12 | foundblousedrasticmutualneitherunclecataloghandcouchtownartworkasthma |  
+| bip_39_word_no_space_2 | foundblouse |  
+| bip_39_word_no_space_3 | foundblousedrastic |  
+| bip_39_word_no_space_4 | foundblousedrasticmutual |  
+| bip_39_word_no_space_5 | foundblousedrasticmutualneither |  
+| bip_39_word_no_space_6 | foundblousedrasticmutualneitheruncle |  
+| bip_39_word_no_space_7 | foundblousedrasticmutualneitherunclecatalog |  
+| bip_39_word_no_space_8 | foundblousedrasticmutualneitherunclecataloghand |  
+| bip_39_word_no_space_9 | foundblousedrasticmutualneitherunclecataloghandcouch |  
 | bip_39_word_space_0 | ['found', 'blouse', 'drastic', 'mutual', 'neither', 'uncle', 'catalog', 'hand', 'couch', 'town', 'artwork', 'asthma'] |  
 | bip_39_word_space_1 | found |  
 | bip_39_word_space_10 | found blouse drastic mutual neither uncle catalog hand couch town |  

@@ -122,6 +122,18 @@ prepare
 reopen
 gasp
 display |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectschemeagainplaynoblepreparereopengaspdisplaycode |  
+| bip_39_word_no_space_11 | perfectschemeagainplaynoblepreparereopengaspdisplaycodeenable |  
+| bip_39_word_no_space_12 | perfectschemeagainplaynoblepreparereopengaspdisplaycodeenablealways |  
+| bip_39_word_no_space_2 | perfectscheme |  
+| bip_39_word_no_space_3 | perfectschemeagain |  
+| bip_39_word_no_space_4 | perfectschemeagainplay |  
+| bip_39_word_no_space_5 | perfectschemeagainplaynoble |  
+| bip_39_word_no_space_6 | perfectschemeagainplaynobleprepare |  
+| bip_39_word_no_space_7 | perfectschemeagainplaynoblepreparereopen |  
+| bip_39_word_no_space_8 | perfectschemeagainplaynoblepreparereopengasp |  
+| bip_39_word_no_space_9 | perfectschemeagainplaynoblepreparereopengaspdisplay |  
 | bip_39_word_space_0 | ['perfect', 'scheme', 'again', 'play', 'noble', 'prepare', 'reopen', 'gasp', 'display', 'code', 'enable', 'always'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect scheme again play noble prepare reopen gasp display code |  

@@ -122,6 +122,18 @@ ranch
 real
 clown
 wait |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | mustmazeraremuchphysicalranchrealclownwaitsession |  
+| bip_39_word_no_space_11 | mustmazeraremuchphysicalranchrealclownwaitsessionnoise |  
+| bip_39_word_no_space_12 | mustmazeraremuchphysicalranchrealclownwaitsessionnoisealone |  
+| bip_39_word_no_space_2 | mustmaze |  
+| bip_39_word_no_space_3 | mustmazerare |  
+| bip_39_word_no_space_4 | mustmazeraremuch |  
+| bip_39_word_no_space_5 | mustmazeraremuchphysical |  
+| bip_39_word_no_space_6 | mustmazeraremuchphysicalranch |  
+| bip_39_word_no_space_7 | mustmazeraremuchphysicalranchreal |  
+| bip_39_word_no_space_8 | mustmazeraremuchphysicalranchrealclown |  
+| bip_39_word_no_space_9 | mustmazeraremuchphysicalranchrealclownwait |  
 | bip_39_word_space_0 | ['must', 'maze', 'rare', 'much', 'physical', 'ranch', 'real', 'clown', 'wait', 'session', 'noise', 'alone'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must maze rare much physical ranch real clown wait session |  

@@ -122,6 +122,18 @@ curious
 brave
 concert
 gospel |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitglovecoreaerobicvideocuriousbraveconcertgospelunable |  
+| bip_39_word_no_space_11 | habitglovecoreaerobicvideocuriousbraveconcertgospelunablehead |  
+| bip_39_word_no_space_12 | habitglovecoreaerobicvideocuriousbraveconcertgospelunableheadamazing |  
+| bip_39_word_no_space_2 | habitglove |  
+| bip_39_word_no_space_3 | habitglovecore |  
+| bip_39_word_no_space_4 | habitglovecoreaerobic |  
+| bip_39_word_no_space_5 | habitglovecoreaerobicvideo |  
+| bip_39_word_no_space_6 | habitglovecoreaerobicvideocurious |  
+| bip_39_word_no_space_7 | habitglovecoreaerobicvideocuriousbrave |  
+| bip_39_word_no_space_8 | habitglovecoreaerobicvideocuriousbraveconcert |  
+| bip_39_word_no_space_9 | habitglovecoreaerobicvideocuriousbraveconcertgospel |  
 | bip_39_word_space_0 | ['habit', 'glove', 'core', 'aerobic', 'video', 'curious', 'brave', 'concert', 'gospel', 'unable', 'head', 'amazing'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit glove core aerobic video curious brave concert gospel unable |  

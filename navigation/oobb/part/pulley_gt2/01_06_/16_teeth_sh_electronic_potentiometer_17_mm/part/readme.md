@@ -122,6 +122,18 @@ theme
 man
 slight
 inherit |  
+| bip_39_word_no_space_1 | donor |  
+| bip_39_word_no_space_10 | donorapologygeneralbreadgigglethememanslightinheritplace |  
+| bip_39_word_no_space_11 | donorapologygeneralbreadgigglethememanslightinheritplacecement |  
+| bip_39_word_no_space_12 | donorapologygeneralbreadgigglethememanslightinheritplacecementasthma |  
+| bip_39_word_no_space_2 | donorapology |  
+| bip_39_word_no_space_3 | donorapologygeneral |  
+| bip_39_word_no_space_4 | donorapologygeneralbread |  
+| bip_39_word_no_space_5 | donorapologygeneralbreadgiggle |  
+| bip_39_word_no_space_6 | donorapologygeneralbreadgiggletheme |  
+| bip_39_word_no_space_7 | donorapologygeneralbreadgigglethememan |  
+| bip_39_word_no_space_8 | donorapologygeneralbreadgigglethememanslight |  
+| bip_39_word_no_space_9 | donorapologygeneralbreadgigglethememanslightinherit |  
 | bip_39_word_space_0 | ['donor', 'apology', 'general', 'bread', 'giggle', 'theme', 'man', 'slight', 'inherit', 'place', 'cement', 'asthma'] |  
 | bip_39_word_space_1 | donor |  
 | bip_39_word_space_10 | donor apology general bread giggle theme man slight inherit place |  

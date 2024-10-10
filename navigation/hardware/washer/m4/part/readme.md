@@ -122,6 +122,18 @@ gas
 almost
 comfort
 flash |  
+| bip_39_word_no_space_1 | whip |  
+| bip_39_word_no_space_10 | whipcruisecavevolcanopiggasalmostcomfortflashconsider |  
+| bip_39_word_no_space_11 | whipcruisecavevolcanopiggasalmostcomfortflashconsiderball |  
+| bip_39_word_no_space_12 | whipcruisecavevolcanopiggasalmostcomfortflashconsiderballacoustic |  
+| bip_39_word_no_space_2 | whipcruise |  
+| bip_39_word_no_space_3 | whipcruisecave |  
+| bip_39_word_no_space_4 | whipcruisecavevolcano |  
+| bip_39_word_no_space_5 | whipcruisecavevolcanopig |  
+| bip_39_word_no_space_6 | whipcruisecavevolcanopiggas |  
+| bip_39_word_no_space_7 | whipcruisecavevolcanopiggasalmost |  
+| bip_39_word_no_space_8 | whipcruisecavevolcanopiggasalmostcomfort |  
+| bip_39_word_no_space_9 | whipcruisecavevolcanopiggasalmostcomfortflash |  
 | bip_39_word_space_0 | ['whip', 'cruise', 'cave', 'volcano', 'pig', 'gas', 'almost', 'comfort', 'flash', 'consider', 'ball', 'acoustic'] |  
 | bip_39_word_space_1 | whip |  
 | bip_39_word_space_10 | whip cruise cave volcano pig gas almost comfort flash consider |  

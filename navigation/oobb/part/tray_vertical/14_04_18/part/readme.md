@@ -122,6 +122,18 @@ frame
 begin
 collect
 attend |  
+| bip_39_word_no_space_1 | harbor |  
+| bip_39_word_no_space_10 | harborwritehybridgoatshootframebegincollectattendecology |  
+| bip_39_word_no_space_11 | harborwritehybridgoatshootframebegincollectattendecologyroad |  
+| bip_39_word_no_space_12 | harborwritehybridgoatshootframebegincollectattendecologyroadalter |  
+| bip_39_word_no_space_2 | harborwrite |  
+| bip_39_word_no_space_3 | harborwritehybrid |  
+| bip_39_word_no_space_4 | harborwritehybridgoat |  
+| bip_39_word_no_space_5 | harborwritehybridgoatshoot |  
+| bip_39_word_no_space_6 | harborwritehybridgoatshootframe |  
+| bip_39_word_no_space_7 | harborwritehybridgoatshootframebegin |  
+| bip_39_word_no_space_8 | harborwritehybridgoatshootframebegincollect |  
+| bip_39_word_no_space_9 | harborwritehybridgoatshootframebegincollectattend |  
 | bip_39_word_space_0 | ['harbor', 'write', 'hybrid', 'goat', 'shoot', 'frame', 'begin', 'collect', 'attend', 'ecology', 'road', 'alter'] |  
 | bip_39_word_space_1 | harbor |  
 | bip_39_word_space_10 | harbor write hybrid goat shoot frame begin collect attend ecology |  

@@ -122,6 +122,18 @@ kind
 virtual
 broom
 april |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiquezonerobustexcitestuffkindvirtualbroomaprilthunder |  
+| bip_39_word_no_space_11 | antiquezonerobustexcitestuffkindvirtualbroomaprilthunderdetail |  
+| bip_39_word_no_space_12 | antiquezonerobustexcitestuffkindvirtualbroomaprilthunderdetailadapt |  
+| bip_39_word_no_space_2 | antiquezone |  
+| bip_39_word_no_space_3 | antiquezonerobust |  
+| bip_39_word_no_space_4 | antiquezonerobustexcite |  
+| bip_39_word_no_space_5 | antiquezonerobustexcitestuff |  
+| bip_39_word_no_space_6 | antiquezonerobustexcitestuffkind |  
+| bip_39_word_no_space_7 | antiquezonerobustexcitestuffkindvirtual |  
+| bip_39_word_no_space_8 | antiquezonerobustexcitestuffkindvirtualbroom |  
+| bip_39_word_no_space_9 | antiquezonerobustexcitestuffkindvirtualbroomapril |  
 | bip_39_word_space_0 | ['antique', 'zone', 'robust', 'excite', 'stuff', 'kind', 'virtual', 'broom', 'april', 'thunder', 'detail', 'adapt'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique zone robust excite stuff kind virtual broom april thunder |  

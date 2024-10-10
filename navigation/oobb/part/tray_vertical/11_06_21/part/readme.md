@@ -122,6 +122,18 @@ enlist
 climb
 beach
 icon |  
+| bip_39_word_no_space_1 | outside |  
+| bip_39_word_no_space_10 | outsidedomainstrikesingsuddenenlistclimbbeachiconacoustic |  
+| bip_39_word_no_space_11 | outsidedomainstrikesingsuddenenlistclimbbeachiconacousticsuit |  
+| bip_39_word_no_space_12 | outsidedomainstrikesingsuddenenlistclimbbeachiconacousticsuitafraid |  
+| bip_39_word_no_space_2 | outsidedomain |  
+| bip_39_word_no_space_3 | outsidedomainstrike |  
+| bip_39_word_no_space_4 | outsidedomainstrikesing |  
+| bip_39_word_no_space_5 | outsidedomainstrikesingsudden |  
+| bip_39_word_no_space_6 | outsidedomainstrikesingsuddenenlist |  
+| bip_39_word_no_space_7 | outsidedomainstrikesingsuddenenlistclimb |  
+| bip_39_word_no_space_8 | outsidedomainstrikesingsuddenenlistclimbbeach |  
+| bip_39_word_no_space_9 | outsidedomainstrikesingsuddenenlistclimbbeachicon |  
 | bip_39_word_space_0 | ['outside', 'domain', 'strike', 'sing', 'sudden', 'enlist', 'climb', 'beach', 'icon', 'acoustic', 'suit', 'afraid'] |  
 | bip_39_word_space_1 | outside |  
 | bip_39_word_space_10 | outside domain strike sing sudden enlist climb beach icon acoustic |  

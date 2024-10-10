@@ -122,6 +122,18 @@ one
 nurse
 canal
 baby |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftpulpfabricliquidjunioronenursecanalbabyfabric |  
+| bip_39_word_no_space_11 | giftpulpfabricliquidjunioronenursecanalbabyfabrichost |  
+| bip_39_word_no_space_12 | giftpulpfabricliquidjunioronenursecanalbabyfabrichostathlete |  
+| bip_39_word_no_space_2 | giftpulp |  
+| bip_39_word_no_space_3 | giftpulpfabric |  
+| bip_39_word_no_space_4 | giftpulpfabricliquid |  
+| bip_39_word_no_space_5 | giftpulpfabricliquidjunior |  
+| bip_39_word_no_space_6 | giftpulpfabricliquidjuniorone |  
+| bip_39_word_no_space_7 | giftpulpfabricliquidjunioronenurse |  
+| bip_39_word_no_space_8 | giftpulpfabricliquidjunioronenursecanal |  
+| bip_39_word_no_space_9 | giftpulpfabricliquidjunioronenursecanalbaby |  
 | bip_39_word_space_0 | ['gift', 'pulp', 'fabric', 'liquid', 'junior', 'one', 'nurse', 'canal', 'baby', 'fabric', 'host', 'athlete'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift pulp fabric liquid junior one nurse canal baby fabric |  

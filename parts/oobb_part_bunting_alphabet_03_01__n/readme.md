@@ -122,6 +122,18 @@ anxiety
 essence
 end
 hurry |  
+| bip_39_word_no_space_1 | surge |  
+| bip_39_word_no_space_10 | surgeseasonpupilmosquitobarelyanxietyessenceendhurrystock |  
+| bip_39_word_no_space_11 | surgeseasonpupilmosquitobarelyanxietyessenceendhurrystockalmost |  
+| bip_39_word_no_space_12 | surgeseasonpupilmosquitobarelyanxietyessenceendhurrystockalmostapart |  
+| bip_39_word_no_space_2 | surgeseason |  
+| bip_39_word_no_space_3 | surgeseasonpupil |  
+| bip_39_word_no_space_4 | surgeseasonpupilmosquito |  
+| bip_39_word_no_space_5 | surgeseasonpupilmosquitobarely |  
+| bip_39_word_no_space_6 | surgeseasonpupilmosquitobarelyanxiety |  
+| bip_39_word_no_space_7 | surgeseasonpupilmosquitobarelyanxietyessence |  
+| bip_39_word_no_space_8 | surgeseasonpupilmosquitobarelyanxietyessenceend |  
+| bip_39_word_no_space_9 | surgeseasonpupilmosquitobarelyanxietyessenceendhurry |  
 | bip_39_word_space_0 | ['surge', 'season', 'pupil', 'mosquito', 'barely', 'anxiety', 'essence', 'end', 'hurry', 'stock', 'almost', 'apart'] |  
 | bip_39_word_space_1 | surge |  
 | bip_39_word_space_10 | surge season pupil mosquito barely anxiety essence end hurry stock |  

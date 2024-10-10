@@ -122,6 +122,18 @@ fancy
 differ
 toss
 vault |  
+| bip_39_word_no_space_1 | edge |  
+| bip_39_word_no_space_10 | edgeoutdooreagleethicsaddfancydiffertossvaulttooth |  
+| bip_39_word_no_space_11 | edgeoutdooreagleethicsaddfancydiffertossvaulttoothmuch |  
+| bip_39_word_no_space_12 | edgeoutdooreagleethicsaddfancydiffertossvaulttoothmuchasset |  
+| bip_39_word_no_space_2 | edgeoutdoor |  
+| bip_39_word_no_space_3 | edgeoutdooreagle |  
+| bip_39_word_no_space_4 | edgeoutdooreagleethics |  
+| bip_39_word_no_space_5 | edgeoutdooreagleethicsadd |  
+| bip_39_word_no_space_6 | edgeoutdooreagleethicsaddfancy |  
+| bip_39_word_no_space_7 | edgeoutdooreagleethicsaddfancydiffer |  
+| bip_39_word_no_space_8 | edgeoutdooreagleethicsaddfancydiffertoss |  
+| bip_39_word_no_space_9 | edgeoutdooreagleethicsaddfancydiffertossvault |  
 | bip_39_word_space_0 | ['edge', 'outdoor', 'eagle', 'ethics', 'add', 'fancy', 'differ', 'toss', 'vault', 'tooth', 'much', 'asset'] |  
 | bip_39_word_space_1 | edge |  
 | bip_39_word_space_10 | edge outdoor eagle ethics add fancy differ toss vault tooth |  

@@ -122,6 +122,18 @@ force
 crash
 love
 bridge |  
+| bip_39_word_no_space_1 | tent |  
+| bip_39_word_no_space_10 | tentblanketbrassdrivelistforcecrashlovebridgeeight |  
+| bip_39_word_no_space_11 | tentblanketbrassdrivelistforcecrashlovebridgeeightflight |  
+| bip_39_word_no_space_12 | tentblanketbrassdrivelistforcecrashlovebridgeeightflightagain |  
+| bip_39_word_no_space_2 | tentblanket |  
+| bip_39_word_no_space_3 | tentblanketbrass |  
+| bip_39_word_no_space_4 | tentblanketbrassdrive |  
+| bip_39_word_no_space_5 | tentblanketbrassdrivelist |  
+| bip_39_word_no_space_6 | tentblanketbrassdrivelistforce |  
+| bip_39_word_no_space_7 | tentblanketbrassdrivelistforcecrash |  
+| bip_39_word_no_space_8 | tentblanketbrassdrivelistforcecrashlove |  
+| bip_39_word_no_space_9 | tentblanketbrassdrivelistforcecrashlovebridge |  
 | bip_39_word_space_0 | ['tent', 'blanket', 'brass', 'drive', 'list', 'force', 'crash', 'love', 'bridge', 'eight', 'flight', 'again'] |  
 | bip_39_word_space_1 | tent |  
 | bip_39_word_space_10 | tent blanket brass drive list force crash love bridge eight |  

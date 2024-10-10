@@ -122,6 +122,18 @@ stove
 shoe
 flag
 vibrant |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directmapledonatenoblecloudstoveshoeflagvibrantsolution |  
+| bip_39_word_no_space_11 | directmapledonatenoblecloudstoveshoeflagvibrantsolutionwool |  
+| bip_39_word_no_space_12 | directmapledonatenoblecloudstoveshoeflagvibrantsolutionwoolalert |  
+| bip_39_word_no_space_2 | directmaple |  
+| bip_39_word_no_space_3 | directmapledonate |  
+| bip_39_word_no_space_4 | directmapledonatenoble |  
+| bip_39_word_no_space_5 | directmapledonatenoblecloud |  
+| bip_39_word_no_space_6 | directmapledonatenoblecloudstove |  
+| bip_39_word_no_space_7 | directmapledonatenoblecloudstoveshoe |  
+| bip_39_word_no_space_8 | directmapledonatenoblecloudstoveshoeflag |  
+| bip_39_word_no_space_9 | directmapledonatenoblecloudstoveshoeflagvibrant |  
 | bip_39_word_space_0 | ['direct', 'maple', 'donate', 'noble', 'cloud', 'stove', 'shoe', 'flag', 'vibrant', 'solution', 'wool', 'alert'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct maple donate noble cloud stove shoe flag vibrant solution |  

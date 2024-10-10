@@ -122,6 +122,18 @@ coil
 duty
 train
 sunset |  
+| bip_39_word_no_space_1 | humble |  
+| bip_39_word_no_space_10 | humbleboneshockfringeevolvecoildutytrainsunsetjudge |  
+| bip_39_word_no_space_11 | humbleboneshockfringeevolvecoildutytrainsunsetjudgecall |  
+| bip_39_word_no_space_12 | humbleboneshockfringeevolvecoildutytrainsunsetjudgecallanimal |  
+| bip_39_word_no_space_2 | humblebone |  
+| bip_39_word_no_space_3 | humbleboneshock |  
+| bip_39_word_no_space_4 | humbleboneshockfringe |  
+| bip_39_word_no_space_5 | humbleboneshockfringeevolve |  
+| bip_39_word_no_space_6 | humbleboneshockfringeevolvecoil |  
+| bip_39_word_no_space_7 | humbleboneshockfringeevolvecoilduty |  
+| bip_39_word_no_space_8 | humbleboneshockfringeevolvecoildutytrain |  
+| bip_39_word_no_space_9 | humbleboneshockfringeevolvecoildutytrainsunset |  
 | bip_39_word_space_0 | ['humble', 'bone', 'shock', 'fringe', 'evolve', 'coil', 'duty', 'train', 'sunset', 'judge', 'call', 'animal'] |  
 | bip_39_word_space_1 | humble |  
 | bip_39_word_space_10 | humble bone shock fringe evolve coil duty train sunset judge |  

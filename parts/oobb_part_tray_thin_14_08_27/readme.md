@@ -122,6 +122,18 @@ soup
 river
 tired
 salute |  
+| bip_39_word_no_space_1 | bus |  
+| bip_39_word_no_space_10 | busstocksquarewalkelbowsouprivertiredsalutepost |  
+| bip_39_word_no_space_11 | busstocksquarewalkelbowsouprivertiredsalutepostnose |  
+| bip_39_word_no_space_12 | busstocksquarewalkelbowsouprivertiredsalutepostnoseannounce |  
+| bip_39_word_no_space_2 | busstock |  
+| bip_39_word_no_space_3 | busstocksquare |  
+| bip_39_word_no_space_4 | busstocksquarewalk |  
+| bip_39_word_no_space_5 | busstocksquarewalkelbow |  
+| bip_39_word_no_space_6 | busstocksquarewalkelbowsoup |  
+| bip_39_word_no_space_7 | busstocksquarewalkelbowsoupriver |  
+| bip_39_word_no_space_8 | busstocksquarewalkelbowsouprivertired |  
+| bip_39_word_no_space_9 | busstocksquarewalkelbowsouprivertiredsalute |  
 | bip_39_word_space_0 | ['bus', 'stock', 'square', 'walk', 'elbow', 'soup', 'river', 'tired', 'salute', 'post', 'nose', 'announce'] |  
 | bip_39_word_space_1 | bus |  
 | bip_39_word_space_10 | bus stock square walk elbow soup river tired salute post |  

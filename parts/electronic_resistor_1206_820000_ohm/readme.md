@@ -122,6 +122,18 @@ asthma
 elevator
 renew
 trick |  
+| bip_39_word_no_space_1 | able |  
+| bip_39_word_no_space_10 | ablevenuevictoryseconddenyasthmaelevatorrenewtricksomeone |  
+| bip_39_word_no_space_11 | ablevenuevictoryseconddenyasthmaelevatorrenewtricksomeonehat |  
+| bip_39_word_no_space_12 | ablevenuevictoryseconddenyasthmaelevatorrenewtricksomeonehatalcohol |  
+| bip_39_word_no_space_2 | ablevenue |  
+| bip_39_word_no_space_3 | ablevenuevictory |  
+| bip_39_word_no_space_4 | ablevenuevictorysecond |  
+| bip_39_word_no_space_5 | ablevenuevictoryseconddeny |  
+| bip_39_word_no_space_6 | ablevenuevictoryseconddenyasthma |  
+| bip_39_word_no_space_7 | ablevenuevictoryseconddenyasthmaelevator |  
+| bip_39_word_no_space_8 | ablevenuevictoryseconddenyasthmaelevatorrenew |  
+| bip_39_word_no_space_9 | ablevenuevictoryseconddenyasthmaelevatorrenewtrick |  
 | bip_39_word_space_0 | ['able', 'venue', 'victory', 'second', 'deny', 'asthma', 'elevator', 'renew', 'trick', 'someone', 'hat', 'alcohol'] |  
 | bip_39_word_space_1 | able |  
 | bip_39_word_space_10 | able venue victory second deny asthma elevator renew trick someone |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'boil
   duck
 
   benefit'
+bip_39_word_no_space_1: boil
+bip_39_word_no_space_10: boilmeanaffordmulerememberinterestaffordduckbenefitempower
+bip_39_word_no_space_11: boilmeanaffordmulerememberinterestaffordduckbenefitempowerreject
+bip_39_word_no_space_12: boilmeanaffordmulerememberinterestaffordduckbenefitempowerrejectarch
+bip_39_word_no_space_2: boilmean
+bip_39_word_no_space_3: boilmeanafford
+bip_39_word_no_space_4: boilmeanaffordmule
+bip_39_word_no_space_5: boilmeanaffordmuleremember
+bip_39_word_no_space_6: boilmeanaffordmulerememberinterest
+bip_39_word_no_space_7: boilmeanaffordmulerememberinterestafford
+bip_39_word_no_space_8: boilmeanaffordmulerememberinterestaffordduck
+bip_39_word_no_space_9: boilmeanaffordmulerememberinterestaffordduckbenefit
 bip_39_word_space_0:
 - boil
 - mean

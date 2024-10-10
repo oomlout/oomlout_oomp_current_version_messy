@@ -109,6 +109,17 @@ govern
 subject
 theme
 aspect |  
+| bip_39_word_no_space_1 | please |  
+| bip_39_word_no_space_10 | pleasemythwifemeasuremonthgovernsubjectthemeaspectnurse |  
+| bip_39_word_no_space_11 | pleasemythwifemeasuremonthgovernsubjectthemeaspectnurselaw |  
+| bip_39_word_no_space_2 | pleasemyth |  
+| bip_39_word_no_space_3 | pleasemythwife |  
+| bip_39_word_no_space_4 | pleasemythwifemeasure |  
+| bip_39_word_no_space_5 | pleasemythwifemeasuremonth |  
+| bip_39_word_no_space_6 | pleasemythwifemeasuremonthgovern |  
+| bip_39_word_no_space_7 | pleasemythwifemeasuremonthgovernsubject |  
+| bip_39_word_no_space_8 | pleasemythwifemeasuremonthgovernsubjecttheme |  
+| bip_39_word_no_space_9 | pleasemythwifemeasuremonthgovernsubjectthemeaspect |  
 | bip_39_word_space_0 | ['please', 'myth', 'wife', 'measure', 'month', 'govern', 'subject', 'theme', 'aspect', 'nurse', 'law'] |  
 | bip_39_word_space_1 | please |  
 | bip_39_word_space_10 | please myth wife measure month govern subject theme aspect nurse |  

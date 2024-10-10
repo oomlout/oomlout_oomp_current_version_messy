@@ -109,6 +109,17 @@ view
 source
 wage
 warrior |  
+| bip_39_word_no_space_1 | news |  
+| bip_39_word_no_space_10 | newsartwomanstruggleindexviewsourcewagewarriorradio |  
+| bip_39_word_no_space_11 | newsartwomanstruggleindexviewsourcewagewarriorradioelbow |  
+| bip_39_word_no_space_2 | newsart |  
+| bip_39_word_no_space_3 | newsartwoman |  
+| bip_39_word_no_space_4 | newsartwomanstruggle |  
+| bip_39_word_no_space_5 | newsartwomanstruggleindex |  
+| bip_39_word_no_space_6 | newsartwomanstruggleindexview |  
+| bip_39_word_no_space_7 | newsartwomanstruggleindexviewsource |  
+| bip_39_word_no_space_8 | newsartwomanstruggleindexviewsourcewage |  
+| bip_39_word_no_space_9 | newsartwomanstruggleindexviewsourcewagewarrior |  
 | bip_39_word_space_0 | ['news', 'art', 'woman', 'struggle', 'index', 'view', 'source', 'wage', 'warrior', 'radio', 'elbow'] |  
 | bip_39_word_space_1 | news |  
 | bip_39_word_space_10 | news art woman struggle index view source wage warrior radio |  

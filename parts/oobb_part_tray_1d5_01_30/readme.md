@@ -122,6 +122,18 @@ bottom
 blossom
 oven
 celery |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchremainflipliketimebottomblossomovencelerystory |  
+| bip_39_word_no_space_11 | matchremainflipliketimebottomblossomovencelerystorycompany |  
+| bip_39_word_no_space_12 | matchremainflipliketimebottomblossomovencelerystorycompanyaccess |  
+| bip_39_word_no_space_2 | matchremain |  
+| bip_39_word_no_space_3 | matchremainflip |  
+| bip_39_word_no_space_4 | matchremainfliplike |  
+| bip_39_word_no_space_5 | matchremainflipliketime |  
+| bip_39_word_no_space_6 | matchremainflipliketimebottom |  
+| bip_39_word_no_space_7 | matchremainflipliketimebottomblossom |  
+| bip_39_word_no_space_8 | matchremainflipliketimebottomblossomoven |  
+| bip_39_word_no_space_9 | matchremainflipliketimebottomblossomovencelery |  
 | bip_39_word_space_0 | ['match', 'remain', 'flip', 'like', 'time', 'bottom', 'blossom', 'oven', 'celery', 'story', 'company', 'access'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match remain flip like time bottom blossom oven celery story |  

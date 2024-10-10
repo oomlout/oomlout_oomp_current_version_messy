@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'option
   ride
 
   error'
+bip_39_word_no_space_1: option
+bip_39_word_no_space_10: optionerrorsleepnormalicontodayrabbitrideerrorabout
+bip_39_word_no_space_11: optionerrorsleepnormalicontodayrabbitrideerrorabouttogether
+bip_39_word_no_space_12: optionerrorsleepnormalicontodayrabbitrideerrorabouttogetheramount
+bip_39_word_no_space_2: optionerror
+bip_39_word_no_space_3: optionerrorsleep
+bip_39_word_no_space_4: optionerrorsleepnormal
+bip_39_word_no_space_5: optionerrorsleepnormalicon
+bip_39_word_no_space_6: optionerrorsleepnormalicontoday
+bip_39_word_no_space_7: optionerrorsleepnormalicontodayrabbit
+bip_39_word_no_space_8: optionerrorsleepnormalicontodayrabbitride
+bip_39_word_no_space_9: optionerrorsleepnormalicontodayrabbitrideerror
 bip_39_word_space_0:
 - option
 - error

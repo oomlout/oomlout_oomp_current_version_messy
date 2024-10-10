@@ -122,6 +122,18 @@ admit
 shop
 predict
 entry |  
+| bip_39_word_no_space_1 | satisfy |  
+| bip_39_word_no_space_10 | satisfysleepjudgecrawlaspectadmitshoppredictentrypaper |  
+| bip_39_word_no_space_11 | satisfysleepjudgecrawlaspectadmitshoppredictentrypaperdeposit |  
+| bip_39_word_no_space_12 | satisfysleepjudgecrawlaspectadmitshoppredictentrypaperdepositauction |  
+| bip_39_word_no_space_2 | satisfysleep |  
+| bip_39_word_no_space_3 | satisfysleepjudge |  
+| bip_39_word_no_space_4 | satisfysleepjudgecrawl |  
+| bip_39_word_no_space_5 | satisfysleepjudgecrawlaspect |  
+| bip_39_word_no_space_6 | satisfysleepjudgecrawlaspectadmit |  
+| bip_39_word_no_space_7 | satisfysleepjudgecrawlaspectadmitshop |  
+| bip_39_word_no_space_8 | satisfysleepjudgecrawlaspectadmitshoppredict |  
+| bip_39_word_no_space_9 | satisfysleepjudgecrawlaspectadmitshoppredictentry |  
 | bip_39_word_space_0 | ['satisfy', 'sleep', 'judge', 'crawl', 'aspect', 'admit', 'shop', 'predict', 'entry', 'paper', 'deposit', 'auction'] |  
 | bip_39_word_space_1 | satisfy |  
 | bip_39_word_space_10 | satisfy sleep judge crawl aspect admit shop predict entry paper |  

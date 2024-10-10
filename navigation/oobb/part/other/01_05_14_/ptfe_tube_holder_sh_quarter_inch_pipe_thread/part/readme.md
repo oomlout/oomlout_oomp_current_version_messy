@@ -122,6 +122,18 @@ coral
 thunder
 tackle
 witness |  
+| bip_39_word_no_space_1 | ring |  
+| bip_39_word_no_space_10 | ringaffairvalidslicetonecoralthundertacklewitnessgive |  
+| bip_39_word_no_space_11 | ringaffairvalidslicetonecoralthundertacklewitnessgivemaximum |  
+| bip_39_word_no_space_12 | ringaffairvalidslicetonecoralthundertacklewitnessgivemaximumabsurd |  
+| bip_39_word_no_space_2 | ringaffair |  
+| bip_39_word_no_space_3 | ringaffairvalid |  
+| bip_39_word_no_space_4 | ringaffairvalidslice |  
+| bip_39_word_no_space_5 | ringaffairvalidslicetone |  
+| bip_39_word_no_space_6 | ringaffairvalidslicetonecoral |  
+| bip_39_word_no_space_7 | ringaffairvalidslicetonecoralthunder |  
+| bip_39_word_no_space_8 | ringaffairvalidslicetonecoralthundertackle |  
+| bip_39_word_no_space_9 | ringaffairvalidslicetonecoralthundertacklewitness |  
 | bip_39_word_space_0 | ['ring', 'affair', 'valid', 'slice', 'tone', 'coral', 'thunder', 'tackle', 'witness', 'give', 'maximum', 'absurd'] |  
 | bip_39_word_space_1 | ring |  
 | bip_39_word_space_10 | ring affair valid slice tone coral thunder tackle witness give |  

@@ -122,6 +122,18 @@ cool
 tomorrow
 ready
 expose |  
+| bip_39_word_no_space_1 | paper |  
+| bip_39_word_no_space_10 | paperromanceevidenceschemeremindcooltomorrowreadyexposesimilar |  
+| bip_39_word_no_space_11 | paperromanceevidenceschemeremindcooltomorrowreadyexposesimilarclerk |  
+| bip_39_word_no_space_12 | paperromanceevidenceschemeremindcooltomorrowreadyexposesimilarclerkavocado |  
+| bip_39_word_no_space_2 | paperromance |  
+| bip_39_word_no_space_3 | paperromanceevidence |  
+| bip_39_word_no_space_4 | paperromanceevidencescheme |  
+| bip_39_word_no_space_5 | paperromanceevidenceschemeremind |  
+| bip_39_word_no_space_6 | paperromanceevidenceschemeremindcool |  
+| bip_39_word_no_space_7 | paperromanceevidenceschemeremindcooltomorrow |  
+| bip_39_word_no_space_8 | paperromanceevidenceschemeremindcooltomorrowready |  
+| bip_39_word_no_space_9 | paperromanceevidenceschemeremindcooltomorrowreadyexpose |  
 | bip_39_word_space_0 | ['paper', 'romance', 'evidence', 'scheme', 'remind', 'cool', 'tomorrow', 'ready', 'expose', 'similar', 'clerk', 'avocado'] |  
 | bip_39_word_space_1 | paper |  
 | bip_39_word_space_10 | paper romance evidence scheme remind cool tomorrow ready expose similar |  

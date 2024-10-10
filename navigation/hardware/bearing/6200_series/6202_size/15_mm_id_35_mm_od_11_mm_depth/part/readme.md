@@ -122,6 +122,18 @@ caught
 false
 duck
 lion |  
+| bip_39_word_no_space_1 | chaos |  
+| bip_39_word_no_space_10 | chaosplasticmindcradlepyramidcaughtfalseducklionsay |  
+| bip_39_word_no_space_11 | chaosplasticmindcradlepyramidcaughtfalseducklionsaycurious |  
+| bip_39_word_no_space_12 | chaosplasticmindcradlepyramidcaughtfalseducklionsaycuriousaverage |  
+| bip_39_word_no_space_2 | chaosplastic |  
+| bip_39_word_no_space_3 | chaosplasticmind |  
+| bip_39_word_no_space_4 | chaosplasticmindcradle |  
+| bip_39_word_no_space_5 | chaosplasticmindcradlepyramid |  
+| bip_39_word_no_space_6 | chaosplasticmindcradlepyramidcaught |  
+| bip_39_word_no_space_7 | chaosplasticmindcradlepyramidcaughtfalse |  
+| bip_39_word_no_space_8 | chaosplasticmindcradlepyramidcaughtfalseduck |  
+| bip_39_word_no_space_9 | chaosplasticmindcradlepyramidcaughtfalseducklion |  
 | bip_39_word_space_0 | ['chaos', 'plastic', 'mind', 'cradle', 'pyramid', 'caught', 'false', 'duck', 'lion', 'say', 'curious', 'average'] |  
 | bip_39_word_space_1 | chaos |  
 | bip_39_word_space_10 | chaos plastic mind cradle pyramid caught false duck lion say |  

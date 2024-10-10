@@ -122,6 +122,18 @@ tragic
 under
 happy
 shuffle |  
+| bip_39_word_no_space_1 | collect |  
+| bip_39_word_no_space_10 | collectsetupcrampostdrumtragicunderhappyshufflesiege |  
+| bip_39_word_no_space_11 | collectsetupcrampostdrumtragicunderhappyshufflesiegesuggest |  
+| bip_39_word_no_space_12 | collectsetupcrampostdrumtragicunderhappyshufflesiegesuggestaccident |  
+| bip_39_word_no_space_2 | collectsetup |  
+| bip_39_word_no_space_3 | collectsetupcram |  
+| bip_39_word_no_space_4 | collectsetupcrampost |  
+| bip_39_word_no_space_5 | collectsetupcrampostdrum |  
+| bip_39_word_no_space_6 | collectsetupcrampostdrumtragic |  
+| bip_39_word_no_space_7 | collectsetupcrampostdrumtragicunder |  
+| bip_39_word_no_space_8 | collectsetupcrampostdrumtragicunderhappy |  
+| bip_39_word_no_space_9 | collectsetupcrampostdrumtragicunderhappyshuffle |  
 | bip_39_word_space_0 | ['collect', 'setup', 'cram', 'post', 'drum', 'tragic', 'under', 'happy', 'shuffle', 'siege', 'suggest', 'accident'] |  
 | bip_39_word_space_1 | collect |  
 | bip_39_word_space_10 | collect setup cram post drum tragic under happy shuffle siege |  

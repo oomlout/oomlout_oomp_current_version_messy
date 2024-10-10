@@ -122,6 +122,18 @@ retreat
 demand
 direct
 slot |  
+| bip_39_word_no_space_1 | glue |  
+| bip_39_word_no_space_10 | gluebrotherridekidneyappleretreatdemanddirectslotorgan |  
+| bip_39_word_no_space_11 | gluebrotherridekidneyappleretreatdemanddirectslotorganevoke |  
+| bip_39_word_no_space_12 | gluebrotherridekidneyappleretreatdemanddirectslotorganevokeassist |  
+| bip_39_word_no_space_2 | gluebrother |  
+| bip_39_word_no_space_3 | gluebrotherride |  
+| bip_39_word_no_space_4 | gluebrotherridekidney |  
+| bip_39_word_no_space_5 | gluebrotherridekidneyapple |  
+| bip_39_word_no_space_6 | gluebrotherridekidneyappleretreat |  
+| bip_39_word_no_space_7 | gluebrotherridekidneyappleretreatdemand |  
+| bip_39_word_no_space_8 | gluebrotherridekidneyappleretreatdemanddirect |  
+| bip_39_word_no_space_9 | gluebrotherridekidneyappleretreatdemanddirectslot |  
 | bip_39_word_space_0 | ['glue', 'brother', 'ride', 'kidney', 'apple', 'retreat', 'demand', 'direct', 'slot', 'organ', 'evoke', 'assist'] |  
 | bip_39_word_space_1 | glue |  
 | bip_39_word_space_10 | glue brother ride kidney apple retreat demand direct slot organ |  

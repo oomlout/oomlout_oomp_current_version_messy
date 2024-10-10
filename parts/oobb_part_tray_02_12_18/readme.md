@@ -122,6 +122,18 @@ vivid
 diagram
 argue
 source |  
+| bip_39_word_no_space_1 | gold |  
+| bip_39_word_no_space_10 | goldfrownstrikefosterperfectvividdiagramarguesourceerupt |  
+| bip_39_word_no_space_11 | goldfrownstrikefosterperfectvividdiagramarguesourceeruptglance |  
+| bip_39_word_no_space_12 | goldfrownstrikefosterperfectvividdiagramarguesourceeruptglanceappear |  
+| bip_39_word_no_space_2 | goldfrown |  
+| bip_39_word_no_space_3 | goldfrownstrike |  
+| bip_39_word_no_space_4 | goldfrownstrikefoster |  
+| bip_39_word_no_space_5 | goldfrownstrikefosterperfect |  
+| bip_39_word_no_space_6 | goldfrownstrikefosterperfectvivid |  
+| bip_39_word_no_space_7 | goldfrownstrikefosterperfectvividdiagram |  
+| bip_39_word_no_space_8 | goldfrownstrikefosterperfectvividdiagramargue |  
+| bip_39_word_no_space_9 | goldfrownstrikefosterperfectvividdiagramarguesource |  
 | bip_39_word_space_0 | ['gold', 'frown', 'strike', 'foster', 'perfect', 'vivid', 'diagram', 'argue', 'source', 'erupt', 'glance', 'appear'] |  
 | bip_39_word_space_1 | gold |  
 | bip_39_word_space_10 | gold frown strike foster perfect vivid diagram argue source erupt |  

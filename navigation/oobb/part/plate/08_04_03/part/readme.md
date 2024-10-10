@@ -122,6 +122,18 @@ month
 recycle
 ginger
 tube |  
+| bip_39_word_no_space_1 | galaxy |  
+| bip_39_word_no_space_10 | galaxybeyondmandatepluckbravemonthrecyclegingertubesail |  
+| bip_39_word_no_space_11 | galaxybeyondmandatepluckbravemonthrecyclegingertubesailother |  
+| bip_39_word_no_space_12 | galaxybeyondmandatepluckbravemonthrecyclegingertubesailotherall |  
+| bip_39_word_no_space_2 | galaxybeyond |  
+| bip_39_word_no_space_3 | galaxybeyondmandate |  
+| bip_39_word_no_space_4 | galaxybeyondmandatepluck |  
+| bip_39_word_no_space_5 | galaxybeyondmandatepluckbrave |  
+| bip_39_word_no_space_6 | galaxybeyondmandatepluckbravemonth |  
+| bip_39_word_no_space_7 | galaxybeyondmandatepluckbravemonthrecycle |  
+| bip_39_word_no_space_8 | galaxybeyondmandatepluckbravemonthrecycleginger |  
+| bip_39_word_no_space_9 | galaxybeyondmandatepluckbravemonthrecyclegingertube |  
 | bip_39_word_space_0 | ['galaxy', 'beyond', 'mandate', 'pluck', 'brave', 'month', 'recycle', 'ginger', 'tube', 'sail', 'other', 'all'] |  
 | bip_39_word_space_1 | galaxy |  
 | bip_39_word_space_10 | galaxy beyond mandate pluck brave month recycle ginger tube sail |  

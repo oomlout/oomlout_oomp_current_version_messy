@@ -122,6 +122,18 @@ surprise
 easy
 uphold
 follow |  
+| bip_39_word_no_space_1 | agree |  
+| bip_39_word_no_space_10 | agreeroundwrestleaheadthissurpriseeasyupholdfollowgreat |  
+| bip_39_word_no_space_11 | agreeroundwrestleaheadthissurpriseeasyupholdfollowgreatpluck |  
+| bip_39_word_no_space_12 | agreeroundwrestleaheadthissurpriseeasyupholdfollowgreatpluckabout |  
+| bip_39_word_no_space_2 | agreeround |  
+| bip_39_word_no_space_3 | agreeroundwrestle |  
+| bip_39_word_no_space_4 | agreeroundwrestleahead |  
+| bip_39_word_no_space_5 | agreeroundwrestleaheadthis |  
+| bip_39_word_no_space_6 | agreeroundwrestleaheadthissurprise |  
+| bip_39_word_no_space_7 | agreeroundwrestleaheadthissurpriseeasy |  
+| bip_39_word_no_space_8 | agreeroundwrestleaheadthissurpriseeasyuphold |  
+| bip_39_word_no_space_9 | agreeroundwrestleaheadthissurpriseeasyupholdfollow |  
 | bip_39_word_space_0 | ['agree', 'round', 'wrestle', 'ahead', 'this', 'surprise', 'easy', 'uphold', 'follow', 'great', 'pluck', 'about'] |  
 | bip_39_word_space_1 | agree |  
 | bip_39_word_space_10 | agree round wrestle ahead this surprise easy uphold follow great |  

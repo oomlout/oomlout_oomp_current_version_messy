@@ -122,6 +122,18 @@ awkward
 local
 warm
 forget |  
+| bip_39_word_no_space_1 | chapter |  
+| bip_39_word_no_space_10 | chaptersoundcoralalbumhalfawkwardlocalwarmforgetfound |  
+| bip_39_word_no_space_11 | chaptersoundcoralalbumhalfawkwardlocalwarmforgetfoundwhen |  
+| bip_39_word_no_space_12 | chaptersoundcoralalbumhalfawkwardlocalwarmforgetfoundwhenarrange |  
+| bip_39_word_no_space_2 | chaptersound |  
+| bip_39_word_no_space_3 | chaptersoundcoral |  
+| bip_39_word_no_space_4 | chaptersoundcoralalbum |  
+| bip_39_word_no_space_5 | chaptersoundcoralalbumhalf |  
+| bip_39_word_no_space_6 | chaptersoundcoralalbumhalfawkward |  
+| bip_39_word_no_space_7 | chaptersoundcoralalbumhalfawkwardlocal |  
+| bip_39_word_no_space_8 | chaptersoundcoralalbumhalfawkwardlocalwarm |  
+| bip_39_word_no_space_9 | chaptersoundcoralalbumhalfawkwardlocalwarmforget |  
 | bip_39_word_space_0 | ['chapter', 'sound', 'coral', 'album', 'half', 'awkward', 'local', 'warm', 'forget', 'found', 'when', 'arrange'] |  
 | bip_39_word_space_1 | chapter |  
 | bip_39_word_space_10 | chapter sound coral album half awkward local warm forget found |  

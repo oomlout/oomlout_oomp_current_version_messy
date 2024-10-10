@@ -122,6 +122,18 @@ spray
 wing
 army
 jar |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentglideomitrawoysterspraywingarmyjardecline |  
+| bip_39_word_no_space_11 | accidentglideomitrawoysterspraywingarmyjardeclinebamboo |  
+| bip_39_word_no_space_12 | accidentglideomitrawoysterspraywingarmyjardeclinebambooalready |  
+| bip_39_word_no_space_2 | accidentglide |  
+| bip_39_word_no_space_3 | accidentglideomit |  
+| bip_39_word_no_space_4 | accidentglideomitraw |  
+| bip_39_word_no_space_5 | accidentglideomitrawoyster |  
+| bip_39_word_no_space_6 | accidentglideomitrawoysterspray |  
+| bip_39_word_no_space_7 | accidentglideomitrawoysterspraywing |  
+| bip_39_word_no_space_8 | accidentglideomitrawoysterspraywingarmy |  
+| bip_39_word_no_space_9 | accidentglideomitrawoysterspraywingarmyjar |  
 | bip_39_word_space_0 | ['accident', 'glide', 'omit', 'raw', 'oyster', 'spray', 'wing', 'army', 'jar', 'decline', 'bamboo', 'already'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident glide omit raw oyster spray wing army jar decline |  

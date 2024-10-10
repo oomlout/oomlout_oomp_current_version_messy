@@ -122,6 +122,18 @@ assume
 relax
 absurd
 review |  
+| bip_39_word_no_space_1 | parade |  
+| bip_39_word_no_space_10 | paradepoolalleyfossildiseaseassumerelaxabsurdreviewventure |  
+| bip_39_word_no_space_11 | paradepoolalleyfossildiseaseassumerelaxabsurdreviewventuresqueeze |  
+| bip_39_word_no_space_12 | paradepoolalleyfossildiseaseassumerelaxabsurdreviewventuresqueezeamateur |  
+| bip_39_word_no_space_2 | paradepool |  
+| bip_39_word_no_space_3 | paradepoolalley |  
+| bip_39_word_no_space_4 | paradepoolalleyfossil |  
+| bip_39_word_no_space_5 | paradepoolalleyfossildisease |  
+| bip_39_word_no_space_6 | paradepoolalleyfossildiseaseassume |  
+| bip_39_word_no_space_7 | paradepoolalleyfossildiseaseassumerelax |  
+| bip_39_word_no_space_8 | paradepoolalleyfossildiseaseassumerelaxabsurd |  
+| bip_39_word_no_space_9 | paradepoolalleyfossildiseaseassumerelaxabsurdreview |  
 | bip_39_word_space_0 | ['parade', 'pool', 'alley', 'fossil', 'disease', 'assume', 'relax', 'absurd', 'review', 'venture', 'squeeze', 'amateur'] |  
 | bip_39_word_space_1 | parade |  
 | bip_39_word_space_10 | parade pool alley fossil disease assume relax absurd review venture |  

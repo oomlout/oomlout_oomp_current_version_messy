@@ -122,6 +122,18 @@ scatter
 abandon
 sheriff
 jelly |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenmarginnaturearrivestaffscatterabandonsheriffjellyslab |  
+| bip_39_word_no_space_11 | brokenmarginnaturearrivestaffscatterabandonsheriffjellyslabescape |  
+| bip_39_word_no_space_12 | brokenmarginnaturearrivestaffscatterabandonsheriffjellyslabescapealbum |  
+| bip_39_word_no_space_2 | brokenmargin |  
+| bip_39_word_no_space_3 | brokenmarginnature |  
+| bip_39_word_no_space_4 | brokenmarginnaturearrive |  
+| bip_39_word_no_space_5 | brokenmarginnaturearrivestaff |  
+| bip_39_word_no_space_6 | brokenmarginnaturearrivestaffscatter |  
+| bip_39_word_no_space_7 | brokenmarginnaturearrivestaffscatterabandon |  
+| bip_39_word_no_space_8 | brokenmarginnaturearrivestaffscatterabandonsheriff |  
+| bip_39_word_no_space_9 | brokenmarginnaturearrivestaffscatterabandonsheriffjelly |  
 | bip_39_word_space_0 | ['broken', 'margin', 'nature', 'arrive', 'staff', 'scatter', 'abandon', 'sheriff', 'jelly', 'slab', 'escape', 'album'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken margin nature arrive staff scatter abandon sheriff jelly slab |  

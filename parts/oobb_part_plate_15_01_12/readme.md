@@ -122,6 +122,18 @@ notice
 apple
 elder
 grit |  
+| bip_39_word_no_space_1 | require |  
+| bip_39_word_no_space_10 | requirestinganglechairpanelnoticeappleeldergritpyramid |  
+| bip_39_word_no_space_11 | requirestinganglechairpanelnoticeappleeldergritpyramidperson |  
+| bip_39_word_no_space_12 | requirestinganglechairpanelnoticeappleeldergritpyramidpersonapart |  
+| bip_39_word_no_space_2 | requiresting |  
+| bip_39_word_no_space_3 | requirestingangle |  
+| bip_39_word_no_space_4 | requirestinganglechair |  
+| bip_39_word_no_space_5 | requirestinganglechairpanel |  
+| bip_39_word_no_space_6 | requirestinganglechairpanelnotice |  
+| bip_39_word_no_space_7 | requirestinganglechairpanelnoticeapple |  
+| bip_39_word_no_space_8 | requirestinganglechairpanelnoticeappleelder |  
+| bip_39_word_no_space_9 | requirestinganglechairpanelnoticeappleeldergrit |  
 | bip_39_word_space_0 | ['require', 'sting', 'angle', 'chair', 'panel', 'notice', 'apple', 'elder', 'grit', 'pyramid', 'person', 'apart'] |  
 | bip_39_word_space_1 | require |  
 | bip_39_word_space_10 | require sting angle chair panel notice apple elder grit pyramid |  

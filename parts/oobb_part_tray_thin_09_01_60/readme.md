@@ -122,6 +122,18 @@ cloth
 tiny
 quit
 lyrics |  
+| bip_39_word_no_space_1 | jar |  
+| bip_39_word_no_space_10 | jarskillfoundhoteloriginalclothtinyquitlyricsforest |  
+| bip_39_word_no_space_11 | jarskillfoundhoteloriginalclothtinyquitlyricsforestmind |  
+| bip_39_word_no_space_12 | jarskillfoundhoteloriginalclothtinyquitlyricsforestmindabout |  
+| bip_39_word_no_space_2 | jarskill |  
+| bip_39_word_no_space_3 | jarskillfound |  
+| bip_39_word_no_space_4 | jarskillfoundhotel |  
+| bip_39_word_no_space_5 | jarskillfoundhoteloriginal |  
+| bip_39_word_no_space_6 | jarskillfoundhoteloriginalcloth |  
+| bip_39_word_no_space_7 | jarskillfoundhoteloriginalclothtiny |  
+| bip_39_word_no_space_8 | jarskillfoundhoteloriginalclothtinyquit |  
+| bip_39_word_no_space_9 | jarskillfoundhoteloriginalclothtinyquitlyrics |  
 | bip_39_word_space_0 | ['jar', 'skill', 'found', 'hotel', 'original', 'cloth', 'tiny', 'quit', 'lyrics', 'forest', 'mind', 'about'] |  
 | bip_39_word_space_1 | jar |  
 | bip_39_word_space_10 | jar skill found hotel original cloth tiny quit lyrics forest |  

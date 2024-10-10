@@ -122,6 +122,18 @@ jealous
 remove
 organ
 cloud |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miseryshorttrophyconnectstockjealousremoveorgancloudside |  
+| bip_39_word_no_space_11 | miseryshorttrophyconnectstockjealousremoveorgancloudsidefire |  
+| bip_39_word_no_space_12 | miseryshorttrophyconnectstockjealousremoveorgancloudsidefireapology |  
+| bip_39_word_no_space_2 | miseryshort |  
+| bip_39_word_no_space_3 | miseryshorttrophy |  
+| bip_39_word_no_space_4 | miseryshorttrophyconnect |  
+| bip_39_word_no_space_5 | miseryshorttrophyconnectstock |  
+| bip_39_word_no_space_6 | miseryshorttrophyconnectstockjealous |  
+| bip_39_word_no_space_7 | miseryshorttrophyconnectstockjealousremove |  
+| bip_39_word_no_space_8 | miseryshorttrophyconnectstockjealousremoveorgan |  
+| bip_39_word_no_space_9 | miseryshorttrophyconnectstockjealousremoveorgancloud |  
 | bip_39_word_space_0 | ['misery', 'short', 'trophy', 'connect', 'stock', 'jealous', 'remove', 'organ', 'cloud', 'side', 'fire', 'apology'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery short trophy connect stock jealous remove organ cloud side |  

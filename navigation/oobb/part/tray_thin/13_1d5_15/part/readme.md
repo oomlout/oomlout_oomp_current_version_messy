@@ -122,6 +122,18 @@ neither
 riot
 lion
 jar |  
+| bip_39_word_no_space_1 | north |  
+| bip_39_word_no_space_10 | northscrubramppolarissueneitherriotlionjardrive |  
+| bip_39_word_no_space_11 | northscrubramppolarissueneitherriotlionjardriveexhaust |  
+| bip_39_word_no_space_12 | northscrubramppolarissueneitherriotlionjardriveexhaustalmost |  
+| bip_39_word_no_space_2 | northscrub |  
+| bip_39_word_no_space_3 | northscrubramp |  
+| bip_39_word_no_space_4 | northscrubramppolar |  
+| bip_39_word_no_space_5 | northscrubramppolarissue |  
+| bip_39_word_no_space_6 | northscrubramppolarissueneither |  
+| bip_39_word_no_space_7 | northscrubramppolarissueneitherriot |  
+| bip_39_word_no_space_8 | northscrubramppolarissueneitherriotlion |  
+| bip_39_word_no_space_9 | northscrubramppolarissueneitherriotlionjar |  
 | bip_39_word_space_0 | ['north', 'scrub', 'ramp', 'polar', 'issue', 'neither', 'riot', 'lion', 'jar', 'drive', 'exhaust', 'almost'] |  
 | bip_39_word_space_1 | north |  
 | bip_39_word_space_10 | north scrub ramp polar issue neither riot lion jar drive |  

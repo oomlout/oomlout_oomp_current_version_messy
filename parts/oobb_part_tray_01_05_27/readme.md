@@ -122,6 +122,18 @@ hen
 crystal
 mountain
 gospel |  
+| bip_39_word_no_space_1 | differ |  
+| bip_39_word_no_space_10 | differallhurrymobilemyselfhencrystalmountaingospelquestion |  
+| bip_39_word_no_space_11 | differallhurrymobilemyselfhencrystalmountaingospelquestionmosquito |  
+| bip_39_word_no_space_12 | differallhurrymobilemyselfhencrystalmountaingospelquestionmosquitoanother |  
+| bip_39_word_no_space_2 | differall |  
+| bip_39_word_no_space_3 | differallhurry |  
+| bip_39_word_no_space_4 | differallhurrymobile |  
+| bip_39_word_no_space_5 | differallhurrymobilemyself |  
+| bip_39_word_no_space_6 | differallhurrymobilemyselfhen |  
+| bip_39_word_no_space_7 | differallhurrymobilemyselfhencrystal |  
+| bip_39_word_no_space_8 | differallhurrymobilemyselfhencrystalmountain |  
+| bip_39_word_no_space_9 | differallhurrymobilemyselfhencrystalmountaingospel |  
 | bip_39_word_space_0 | ['differ', 'all', 'hurry', 'mobile', 'myself', 'hen', 'crystal', 'mountain', 'gospel', 'question', 'mosquito', 'another'] |  
 | bip_39_word_space_1 | differ |  
 | bip_39_word_space_10 | differ all hurry mobile myself hen crystal mountain gospel question |  

@@ -122,6 +122,18 @@ climb
 fix
 outdoor
 winner |  
+| bip_39_word_no_space_1 | open |  
+| bip_39_word_no_space_10 | openclocksteakshoemonitorclimbfixoutdoorwinnerjazz |  
+| bip_39_word_no_space_11 | openclocksteakshoemonitorclimbfixoutdoorwinnerjazzdisplay |  
+| bip_39_word_no_space_12 | openclocksteakshoemonitorclimbfixoutdoorwinnerjazzdisplayalpha |  
+| bip_39_word_no_space_2 | openclock |  
+| bip_39_word_no_space_3 | openclocksteak |  
+| bip_39_word_no_space_4 | openclocksteakshoe |  
+| bip_39_word_no_space_5 | openclocksteakshoemonitor |  
+| bip_39_word_no_space_6 | openclocksteakshoemonitorclimb |  
+| bip_39_word_no_space_7 | openclocksteakshoemonitorclimbfix |  
+| bip_39_word_no_space_8 | openclocksteakshoemonitorclimbfixoutdoor |  
+| bip_39_word_no_space_9 | openclocksteakshoemonitorclimbfixoutdoorwinner |  
 | bip_39_word_space_0 | ['open', 'clock', 'steak', 'shoe', 'monitor', 'climb', 'fix', 'outdoor', 'winner', 'jazz', 'display', 'alpha'] |  
 | bip_39_word_space_1 | open |  
 | bip_39_word_space_10 | open clock steak shoe monitor climb fix outdoor winner jazz |  

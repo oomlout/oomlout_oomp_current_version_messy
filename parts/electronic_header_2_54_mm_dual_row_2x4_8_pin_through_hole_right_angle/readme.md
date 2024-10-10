@@ -122,6 +122,18 @@ voice
 million
 warm
 auto |  
+| bip_39_word_no_space_1 | either |  
+| bip_39_word_no_space_10 | eitherrampdaringdivideunablevoicemillionwarmautomystery |  
+| bip_39_word_no_space_11 | eitherrampdaringdivideunablevoicemillionwarmautomysteryverb |  
+| bip_39_word_no_space_12 | eitherrampdaringdivideunablevoicemillionwarmautomysteryverbability |  
+| bip_39_word_no_space_2 | eitherramp |  
+| bip_39_word_no_space_3 | eitherrampdaring |  
+| bip_39_word_no_space_4 | eitherrampdaringdivide |  
+| bip_39_word_no_space_5 | eitherrampdaringdivideunable |  
+| bip_39_word_no_space_6 | eitherrampdaringdivideunablevoice |  
+| bip_39_word_no_space_7 | eitherrampdaringdivideunablevoicemillion |  
+| bip_39_word_no_space_8 | eitherrampdaringdivideunablevoicemillionwarm |  
+| bip_39_word_no_space_9 | eitherrampdaringdivideunablevoicemillionwarmauto |  
 | bip_39_word_space_0 | ['either', 'ramp', 'daring', 'divide', 'unable', 'voice', 'million', 'warm', 'auto', 'mystery', 'verb', 'ability'] |  
 | bip_39_word_space_1 | either |  
 | bip_39_word_space_10 | either ramp daring divide unable voice million warm auto mystery |  

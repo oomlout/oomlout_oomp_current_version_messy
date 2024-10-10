@@ -122,6 +122,18 @@ thumb
 destroy
 romance
 polar |  
+| bip_39_word_no_space_1 | mean |  
+| bip_39_word_no_space_10 | meanelevatorsunnypredictsmooththumbdestroyromancepolardevice |  
+| bip_39_word_no_space_11 | meanelevatorsunnypredictsmooththumbdestroyromancepolardevicepath |  
+| bip_39_word_no_space_12 | meanelevatorsunnypredictsmooththumbdestroyromancepolardevicepathagent |  
+| bip_39_word_no_space_2 | meanelevator |  
+| bip_39_word_no_space_3 | meanelevatorsunny |  
+| bip_39_word_no_space_4 | meanelevatorsunnypredict |  
+| bip_39_word_no_space_5 | meanelevatorsunnypredictsmooth |  
+| bip_39_word_no_space_6 | meanelevatorsunnypredictsmooththumb |  
+| bip_39_word_no_space_7 | meanelevatorsunnypredictsmooththumbdestroy |  
+| bip_39_word_no_space_8 | meanelevatorsunnypredictsmooththumbdestroyromance |  
+| bip_39_word_no_space_9 | meanelevatorsunnypredictsmooththumbdestroyromancepolar |  
 | bip_39_word_space_0 | ['mean', 'elevator', 'sunny', 'predict', 'smooth', 'thumb', 'destroy', 'romance', 'polar', 'device', 'path', 'agent'] |  
 | bip_39_word_space_1 | mean |  
 | bip_39_word_space_10 | mean elevator sunny predict smooth thumb destroy romance polar device |  

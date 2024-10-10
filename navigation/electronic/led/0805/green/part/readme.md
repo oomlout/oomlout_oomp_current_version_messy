@@ -122,6 +122,18 @@ dynamic
 chuckle
 wagon
 patrol |  
+| bip_39_word_no_space_1 | catalog |  
+| bip_39_word_no_space_10 | catalogroadcaptaintouristbecausedynamicchucklewagonpatrolfold |  
+| bip_39_word_no_space_11 | catalogroadcaptaintouristbecausedynamicchucklewagonpatrolfoldlegal |  
+| bip_39_word_no_space_12 | catalogroadcaptaintouristbecausedynamicchucklewagonpatrolfoldlegalanchor |  
+| bip_39_word_no_space_2 | catalogroad |  
+| bip_39_word_no_space_3 | catalogroadcaptain |  
+| bip_39_word_no_space_4 | catalogroadcaptaintourist |  
+| bip_39_word_no_space_5 | catalogroadcaptaintouristbecause |  
+| bip_39_word_no_space_6 | catalogroadcaptaintouristbecausedynamic |  
+| bip_39_word_no_space_7 | catalogroadcaptaintouristbecausedynamicchuckle |  
+| bip_39_word_no_space_8 | catalogroadcaptaintouristbecausedynamicchucklewagon |  
+| bip_39_word_no_space_9 | catalogroadcaptaintouristbecausedynamicchucklewagonpatrol |  
 | bip_39_word_space_0 | ['catalog', 'road', 'captain', 'tourist', 'because', 'dynamic', 'chuckle', 'wagon', 'patrol', 'fold', 'legal', 'anchor'] |  
 | bip_39_word_space_1 | catalog |  
 | bip_39_word_space_10 | catalog road captain tourist because dynamic chuckle wagon patrol fold |  

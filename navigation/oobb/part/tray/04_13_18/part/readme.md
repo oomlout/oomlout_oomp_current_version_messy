@@ -122,6 +122,18 @@ close
 gorilla
 audit
 math |  
+| bip_39_word_no_space_1 | slide |  
+| bip_39_word_no_space_10 | slideelderverifysolareducateclosegorillaauditmathnerve |  
+| bip_39_word_no_space_11 | slideelderverifysolareducateclosegorillaauditmathnervefarm |  
+| bip_39_word_no_space_12 | slideelderverifysolareducateclosegorillaauditmathnervefarmarctic |  
+| bip_39_word_no_space_2 | slideelder |  
+| bip_39_word_no_space_3 | slideelderverify |  
+| bip_39_word_no_space_4 | slideelderverifysolar |  
+| bip_39_word_no_space_5 | slideelderverifysolareducate |  
+| bip_39_word_no_space_6 | slideelderverifysolareducateclose |  
+| bip_39_word_no_space_7 | slideelderverifysolareducateclosegorilla |  
+| bip_39_word_no_space_8 | slideelderverifysolareducateclosegorillaaudit |  
+| bip_39_word_no_space_9 | slideelderverifysolareducateclosegorillaauditmath |  
 | bip_39_word_space_0 | ['slide', 'elder', 'verify', 'solar', 'educate', 'close', 'gorilla', 'audit', 'math', 'nerve', 'farm', 'arctic'] |  
 | bip_39_word_space_1 | slide |  
 | bip_39_word_space_10 | slide elder verify solar educate close gorilla audit math nerve |  

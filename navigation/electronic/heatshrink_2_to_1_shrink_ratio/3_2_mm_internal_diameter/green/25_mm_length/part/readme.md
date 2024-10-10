@@ -122,6 +122,18 @@ admit
 post
 visit
 planet |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeywalkhistorybubblealcoholadmitpostvisitplanetbullet |  
+| bip_39_word_no_space_11 | monkeywalkhistorybubblealcoholadmitpostvisitplanetbulletslow |  
+| bip_39_word_no_space_12 | monkeywalkhistorybubblealcoholadmitpostvisitplanetbulletslowaddress |  
+| bip_39_word_no_space_2 | monkeywalk |  
+| bip_39_word_no_space_3 | monkeywalkhistory |  
+| bip_39_word_no_space_4 | monkeywalkhistorybubble |  
+| bip_39_word_no_space_5 | monkeywalkhistorybubblealcohol |  
+| bip_39_word_no_space_6 | monkeywalkhistorybubblealcoholadmit |  
+| bip_39_word_no_space_7 | monkeywalkhistorybubblealcoholadmitpost |  
+| bip_39_word_no_space_8 | monkeywalkhistorybubblealcoholadmitpostvisit |  
+| bip_39_word_no_space_9 | monkeywalkhistorybubblealcoholadmitpostvisitplanet |  
 | bip_39_word_space_0 | ['monkey', 'walk', 'history', 'bubble', 'alcohol', 'admit', 'post', 'visit', 'planet', 'bullet', 'slow', 'address'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey walk history bubble alcohol admit post visit planet bullet |  

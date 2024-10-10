@@ -122,6 +122,18 @@ mask
 answer
 throw
 midnight |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwayfeverhammerslushwreckmaskanswerthrowmidnightteam |  
+| bip_39_word_no_space_11 | runwayfeverhammerslushwreckmaskanswerthrowmidnightteammirror |  
+| bip_39_word_no_space_12 | runwayfeverhammerslushwreckmaskanswerthrowmidnightteammirrorability |  
+| bip_39_word_no_space_2 | runwayfever |  
+| bip_39_word_no_space_3 | runwayfeverhammer |  
+| bip_39_word_no_space_4 | runwayfeverhammerslush |  
+| bip_39_word_no_space_5 | runwayfeverhammerslushwreck |  
+| bip_39_word_no_space_6 | runwayfeverhammerslushwreckmask |  
+| bip_39_word_no_space_7 | runwayfeverhammerslushwreckmaskanswer |  
+| bip_39_word_no_space_8 | runwayfeverhammerslushwreckmaskanswerthrow |  
+| bip_39_word_no_space_9 | runwayfeverhammerslushwreckmaskanswerthrowmidnight |  
 | bip_39_word_space_0 | ['runway', 'fever', 'hammer', 'slush', 'wreck', 'mask', 'answer', 'throw', 'midnight', 'team', 'mirror', 'ability'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway fever hammer slush wreck mask answer throw midnight team |  

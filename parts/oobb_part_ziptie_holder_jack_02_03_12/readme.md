@@ -122,6 +122,18 @@ health
 have
 arch
 diary |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | clapchiefswapgymdayhealthhavearchdiarykey |  
+| bip_39_word_no_space_11 | clapchiefswapgymdayhealthhavearchdiarykeyquantum |  
+| bip_39_word_no_space_12 | clapchiefswapgymdayhealthhavearchdiarykeyquantumassault |  
+| bip_39_word_no_space_2 | clapchief |  
+| bip_39_word_no_space_3 | clapchiefswap |  
+| bip_39_word_no_space_4 | clapchiefswapgym |  
+| bip_39_word_no_space_5 | clapchiefswapgymday |  
+| bip_39_word_no_space_6 | clapchiefswapgymdayhealth |  
+| bip_39_word_no_space_7 | clapchiefswapgymdayhealthhave |  
+| bip_39_word_no_space_8 | clapchiefswapgymdayhealthhavearch |  
+| bip_39_word_no_space_9 | clapchiefswapgymdayhealthhavearchdiary |  
 | bip_39_word_space_0 | ['clap', 'chief', 'swap', 'gym', 'day', 'health', 'have', 'arch', 'diary', 'key', 'quantum', 'assault'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap chief swap gym day health have arch diary key |  

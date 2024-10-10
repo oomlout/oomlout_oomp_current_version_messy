@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'expand
   excess
 
   type'
+bip_39_word_no_space_1: expand
+bip_39_word_no_space_10: expandcarryworlddeclinecrushunusualangleexcesstypeshy
+bip_39_word_no_space_11: expandcarryworlddeclinecrushunusualangleexcesstypeshystaff
+bip_39_word_no_space_12: expandcarryworlddeclinecrushunusualangleexcesstypeshystaffaudit
+bip_39_word_no_space_2: expandcarry
+bip_39_word_no_space_3: expandcarryworld
+bip_39_word_no_space_4: expandcarryworlddecline
+bip_39_word_no_space_5: expandcarryworlddeclinecrush
+bip_39_word_no_space_6: expandcarryworlddeclinecrushunusual
+bip_39_word_no_space_7: expandcarryworlddeclinecrushunusualangle
+bip_39_word_no_space_8: expandcarryworlddeclinecrushunusualangleexcess
+bip_39_word_no_space_9: expandcarryworlddeclinecrushunusualangleexcesstype
 bip_39_word_space_0:
 - expand
 - carry

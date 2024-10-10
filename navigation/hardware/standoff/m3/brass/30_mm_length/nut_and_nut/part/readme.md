@@ -122,6 +122,18 @@ spatial
 brush
 boil
 nothing |  
+| bip_39_word_no_space_1 | cloud |  
+| bip_39_word_no_space_10 | cloudcriticromanceclifffootspatialbrushboilnothingbunker |  
+| bip_39_word_no_space_11 | cloudcriticromanceclifffootspatialbrushboilnothingbunkerenforce |  
+| bip_39_word_no_space_12 | cloudcriticromanceclifffootspatialbrushboilnothingbunkerenforcealien |  
+| bip_39_word_no_space_2 | cloudcritic |  
+| bip_39_word_no_space_3 | cloudcriticromance |  
+| bip_39_word_no_space_4 | cloudcriticromancecliff |  
+| bip_39_word_no_space_5 | cloudcriticromanceclifffoot |  
+| bip_39_word_no_space_6 | cloudcriticromanceclifffootspatial |  
+| bip_39_word_no_space_7 | cloudcriticromanceclifffootspatialbrush |  
+| bip_39_word_no_space_8 | cloudcriticromanceclifffootspatialbrushboil |  
+| bip_39_word_no_space_9 | cloudcriticromanceclifffootspatialbrushboilnothing |  
 | bip_39_word_space_0 | ['cloud', 'critic', 'romance', 'cliff', 'foot', 'spatial', 'brush', 'boil', 'nothing', 'bunker', 'enforce', 'alien'] |  
 | bip_39_word_space_1 | cloud |  
 | bip_39_word_space_10 | cloud critic romance cliff foot spatial brush boil nothing bunker |  

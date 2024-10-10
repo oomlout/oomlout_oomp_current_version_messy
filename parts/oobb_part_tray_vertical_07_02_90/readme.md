@@ -122,6 +122,18 @@ drive
 disagree
 priority
 obvious |  
+| bip_39_word_no_space_1 | combine |  
+| bip_39_word_no_space_10 | combineresponsefatrebelpuddingdrivedisagreepriorityobviousrotate |  
+| bip_39_word_no_space_11 | combineresponsefatrebelpuddingdrivedisagreepriorityobviousrotateflavor |  
+| bip_39_word_no_space_12 | combineresponsefatrebelpuddingdrivedisagreepriorityobviousrotateflavorapril |  
+| bip_39_word_no_space_2 | combineresponse |  
+| bip_39_word_no_space_3 | combineresponsefat |  
+| bip_39_word_no_space_4 | combineresponsefatrebel |  
+| bip_39_word_no_space_5 | combineresponsefatrebelpudding |  
+| bip_39_word_no_space_6 | combineresponsefatrebelpuddingdrive |  
+| bip_39_word_no_space_7 | combineresponsefatrebelpuddingdrivedisagree |  
+| bip_39_word_no_space_8 | combineresponsefatrebelpuddingdrivedisagreepriority |  
+| bip_39_word_no_space_9 | combineresponsefatrebelpuddingdrivedisagreepriorityobvious |  
 | bip_39_word_space_0 | ['combine', 'response', 'fat', 'rebel', 'pudding', 'drive', 'disagree', 'priority', 'obvious', 'rotate', 'flavor', 'april'] |  
 | bip_39_word_space_1 | combine |  
 | bip_39_word_space_10 | combine response fat rebel pudding drive disagree priority obvious rotate |  

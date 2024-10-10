@@ -122,6 +122,18 @@ eight
 accident
 fix
 century |  
+| bip_39_word_no_space_1 | peasant |  
+| bip_39_word_no_space_10 | peasantdelaybrothervoyageventureeightaccidentfixcenturytomorrow |  
+| bip_39_word_no_space_11 | peasantdelaybrothervoyageventureeightaccidentfixcenturytomorrowvirtual |  
+| bip_39_word_no_space_12 | peasantdelaybrothervoyageventureeightaccidentfixcenturytomorrowvirtualalter |  
+| bip_39_word_no_space_2 | peasantdelay |  
+| bip_39_word_no_space_3 | peasantdelaybrother |  
+| bip_39_word_no_space_4 | peasantdelaybrothervoyage |  
+| bip_39_word_no_space_5 | peasantdelaybrothervoyageventure |  
+| bip_39_word_no_space_6 | peasantdelaybrothervoyageventureeight |  
+| bip_39_word_no_space_7 | peasantdelaybrothervoyageventureeightaccident |  
+| bip_39_word_no_space_8 | peasantdelaybrothervoyageventureeightaccidentfix |  
+| bip_39_word_no_space_9 | peasantdelaybrothervoyageventureeightaccidentfixcentury |  
 | bip_39_word_space_0 | ['peasant', 'delay', 'brother', 'voyage', 'venture', 'eight', 'accident', 'fix', 'century', 'tomorrow', 'virtual', 'alter'] |  
 | bip_39_word_space_1 | peasant |  
 | bip_39_word_space_10 | peasant delay brother voyage venture eight accident fix century tomorrow |  

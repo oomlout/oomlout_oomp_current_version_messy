@@ -122,6 +122,18 @@ quote
 thunder
 donate
 company |  
+| bip_39_word_no_space_1 | leopard |  
+| bip_39_word_no_space_10 | leopardschemeonlygrantswampquotethunderdonatecompanysuch |  
+| bip_39_word_no_space_11 | leopardschemeonlygrantswampquotethunderdonatecompanysuchpet |  
+| bip_39_word_no_space_12 | leopardschemeonlygrantswampquotethunderdonatecompanysuchpetalways |  
+| bip_39_word_no_space_2 | leopardscheme |  
+| bip_39_word_no_space_3 | leopardschemeonly |  
+| bip_39_word_no_space_4 | leopardschemeonlygrant |  
+| bip_39_word_no_space_5 | leopardschemeonlygrantswamp |  
+| bip_39_word_no_space_6 | leopardschemeonlygrantswampquote |  
+| bip_39_word_no_space_7 | leopardschemeonlygrantswampquotethunder |  
+| bip_39_word_no_space_8 | leopardschemeonlygrantswampquotethunderdonate |  
+| bip_39_word_no_space_9 | leopardschemeonlygrantswampquotethunderdonatecompany |  
 | bip_39_word_space_0 | ['leopard', 'scheme', 'only', 'grant', 'swamp', 'quote', 'thunder', 'donate', 'company', 'such', 'pet', 'always'] |  
 | bip_39_word_space_1 | leopard |  
 | bip_39_word_space_10 | leopard scheme only grant swamp quote thunder donate company such |  

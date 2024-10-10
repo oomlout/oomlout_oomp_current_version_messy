@@ -122,6 +122,18 @@ glance
 trigger
 cook
 feed |  
+| bip_39_word_no_space_1 | all |  
+| bip_39_word_no_space_10 | allorangefootwheatmyselfglancetriggercookfeedadapt |  
+| bip_39_word_no_space_11 | allorangefootwheatmyselfglancetriggercookfeedadaptarrange |  
+| bip_39_word_no_space_12 | allorangefootwheatmyselfglancetriggercookfeedadaptarrangeannounce |  
+| bip_39_word_no_space_2 | allorange |  
+| bip_39_word_no_space_3 | allorangefoot |  
+| bip_39_word_no_space_4 | allorangefootwheat |  
+| bip_39_word_no_space_5 | allorangefootwheatmyself |  
+| bip_39_word_no_space_6 | allorangefootwheatmyselfglance |  
+| bip_39_word_no_space_7 | allorangefootwheatmyselfglancetrigger |  
+| bip_39_word_no_space_8 | allorangefootwheatmyselfglancetriggercook |  
+| bip_39_word_no_space_9 | allorangefootwheatmyselfglancetriggercookfeed |  
 | bip_39_word_space_0 | ['all', 'orange', 'foot', 'wheat', 'myself', 'glance', 'trigger', 'cook', 'feed', 'adapt', 'arrange', 'announce'] |  
 | bip_39_word_space_1 | all |  
 | bip_39_word_space_10 | all orange foot wheat myself glance trigger cook feed adapt |  

@@ -122,6 +122,18 @@ invite
 donkey
 winner
 hybrid |  
+| bip_39_word_no_space_1 | define |  
+| bip_39_word_no_space_10 | definelizardbossairportpluckinvitedonkeywinnerhybridcluster |  
+| bip_39_word_no_space_11 | definelizardbossairportpluckinvitedonkeywinnerhybridclusterweird |  
+| bip_39_word_no_space_12 | definelizardbossairportpluckinvitedonkeywinnerhybridclusterweirdauction |  
+| bip_39_word_no_space_2 | definelizard |  
+| bip_39_word_no_space_3 | definelizardboss |  
+| bip_39_word_no_space_4 | definelizardbossairport |  
+| bip_39_word_no_space_5 | definelizardbossairportpluck |  
+| bip_39_word_no_space_6 | definelizardbossairportpluckinvite |  
+| bip_39_word_no_space_7 | definelizardbossairportpluckinvitedonkey |  
+| bip_39_word_no_space_8 | definelizardbossairportpluckinvitedonkeywinner |  
+| bip_39_word_no_space_9 | definelizardbossairportpluckinvitedonkeywinnerhybrid |  
 | bip_39_word_space_0 | ['define', 'lizard', 'boss', 'airport', 'pluck', 'invite', 'donkey', 'winner', 'hybrid', 'cluster', 'weird', 'auction'] |  
 | bip_39_word_space_1 | define |  
 | bip_39_word_space_10 | define lizard boss airport pluck invite donkey winner hybrid cluster |  

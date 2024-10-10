@@ -122,6 +122,18 @@ casual
 amount
 element
 ostrich |  
+| bip_39_word_no_space_1 | tortoise |  
+| bip_39_word_no_space_10 | tortoiseaprilwinseasonsweetcasualamountelementostrichhelmet |  
+| bip_39_word_no_space_11 | tortoiseaprilwinseasonsweetcasualamountelementostrichhelmetassume |  
+| bip_39_word_no_space_12 | tortoiseaprilwinseasonsweetcasualamountelementostrichhelmetassumeadvice |  
+| bip_39_word_no_space_2 | tortoiseapril |  
+| bip_39_word_no_space_3 | tortoiseaprilwin |  
+| bip_39_word_no_space_4 | tortoiseaprilwinseason |  
+| bip_39_word_no_space_5 | tortoiseaprilwinseasonsweet |  
+| bip_39_word_no_space_6 | tortoiseaprilwinseasonsweetcasual |  
+| bip_39_word_no_space_7 | tortoiseaprilwinseasonsweetcasualamount |  
+| bip_39_word_no_space_8 | tortoiseaprilwinseasonsweetcasualamountelement |  
+| bip_39_word_no_space_9 | tortoiseaprilwinseasonsweetcasualamountelementostrich |  
 | bip_39_word_space_0 | ['tortoise', 'april', 'win', 'season', 'sweet', 'casual', 'amount', 'element', 'ostrich', 'helmet', 'assume', 'advice'] |  
 | bip_39_word_space_1 | tortoise |  
 | bip_39_word_space_10 | tortoise april win season sweet casual amount element ostrich helmet |  

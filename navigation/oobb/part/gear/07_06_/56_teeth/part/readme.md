@@ -122,6 +122,18 @@ notice
 dutch
 guard
 city |  
+| bip_39_word_no_space_1 | aspect |  
+| bip_39_word_no_space_10 | aspectlaborcarpetouterlearnnoticedutchguardcitysquirrel |  
+| bip_39_word_no_space_11 | aspectlaborcarpetouterlearnnoticedutchguardcitysquirrelbuddy |  
+| bip_39_word_no_space_12 | aspectlaborcarpetouterlearnnoticedutchguardcitysquirrelbuddyankle |  
+| bip_39_word_no_space_2 | aspectlabor |  
+| bip_39_word_no_space_3 | aspectlaborcarpet |  
+| bip_39_word_no_space_4 | aspectlaborcarpetouter |  
+| bip_39_word_no_space_5 | aspectlaborcarpetouterlearn |  
+| bip_39_word_no_space_6 | aspectlaborcarpetouterlearnnotice |  
+| bip_39_word_no_space_7 | aspectlaborcarpetouterlearnnoticedutch |  
+| bip_39_word_no_space_8 | aspectlaborcarpetouterlearnnoticedutchguard |  
+| bip_39_word_no_space_9 | aspectlaborcarpetouterlearnnoticedutchguardcity |  
 | bip_39_word_space_0 | ['aspect', 'labor', 'carpet', 'outer', 'learn', 'notice', 'dutch', 'guard', 'city', 'squirrel', 'buddy', 'ankle'] |  
 | bip_39_word_space_1 | aspect |  
 | bip_39_word_space_10 | aspect labor carpet outer learn notice dutch guard city squirrel |  

@@ -122,6 +122,18 @@ rug
 elevator
 eyebrow
 fringe |  
+| bip_39_word_no_space_1 | audit |  
+| bip_39_word_no_space_10 | auditmodifysettlespeakcomfortrugelevatoreyebrowfringeorchard |  
+| bip_39_word_no_space_11 | auditmodifysettlespeakcomfortrugelevatoreyebrowfringeorchardsniff |  
+| bip_39_word_no_space_12 | auditmodifysettlespeakcomfortrugelevatoreyebrowfringeorchardsniffappear |  
+| bip_39_word_no_space_2 | auditmodify |  
+| bip_39_word_no_space_3 | auditmodifysettle |  
+| bip_39_word_no_space_4 | auditmodifysettlespeak |  
+| bip_39_word_no_space_5 | auditmodifysettlespeakcomfort |  
+| bip_39_word_no_space_6 | auditmodifysettlespeakcomfortrug |  
+| bip_39_word_no_space_7 | auditmodifysettlespeakcomfortrugelevator |  
+| bip_39_word_no_space_8 | auditmodifysettlespeakcomfortrugelevatoreyebrow |  
+| bip_39_word_no_space_9 | auditmodifysettlespeakcomfortrugelevatoreyebrowfringe |  
 | bip_39_word_space_0 | ['audit', 'modify', 'settle', 'speak', 'comfort', 'rug', 'elevator', 'eyebrow', 'fringe', 'orchard', 'sniff', 'appear'] |  
 | bip_39_word_space_1 | audit |  
 | bip_39_word_space_10 | audit modify settle speak comfort rug elevator eyebrow fringe orchard |  

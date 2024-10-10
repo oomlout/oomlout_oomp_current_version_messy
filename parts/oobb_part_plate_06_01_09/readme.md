@@ -122,6 +122,18 @@ empty
 enable
 cushion
 hole |  
+| bip_39_word_no_space_1 | check |  
+| bip_39_word_no_space_10 | checkoysterraretonightwreckemptyenablecushionholeknow |  
+| bip_39_word_no_space_11 | checkoysterraretonightwreckemptyenablecushionholeknowsort |  
+| bip_39_word_no_space_12 | checkoysterraretonightwreckemptyenablecushionholeknowsortalien |  
+| bip_39_word_no_space_2 | checkoyster |  
+| bip_39_word_no_space_3 | checkoysterrare |  
+| bip_39_word_no_space_4 | checkoysterraretonight |  
+| bip_39_word_no_space_5 | checkoysterraretonightwreck |  
+| bip_39_word_no_space_6 | checkoysterraretonightwreckempty |  
+| bip_39_word_no_space_7 | checkoysterraretonightwreckemptyenable |  
+| bip_39_word_no_space_8 | checkoysterraretonightwreckemptyenablecushion |  
+| bip_39_word_no_space_9 | checkoysterraretonightwreckemptyenablecushionhole |  
 | bip_39_word_space_0 | ['check', 'oyster', 'rare', 'tonight', 'wreck', 'empty', 'enable', 'cushion', 'hole', 'know', 'sort', 'alien'] |  
 | bip_39_word_space_1 | check |  
 | bip_39_word_space_10 | check oyster rare tonight wreck empty enable cushion hole know |  

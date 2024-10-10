@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'street
   grit
 
   differ'
+bip_39_word_no_space_1: street
+bip_39_word_no_space_10: streetoutercasinocanoetextcashupongritdiffersame
+bip_39_word_no_space_11: streetoutercasinocanoetextcashupongritdiffersametape
+bip_39_word_no_space_12: streetoutercasinocanoetextcashupongritdiffersametapearm
+bip_39_word_no_space_2: streetouter
+bip_39_word_no_space_3: streetoutercasino
+bip_39_word_no_space_4: streetoutercasinocanoe
+bip_39_word_no_space_5: streetoutercasinocanoetext
+bip_39_word_no_space_6: streetoutercasinocanoetextcash
+bip_39_word_no_space_7: streetoutercasinocanoetextcashupon
+bip_39_word_no_space_8: streetoutercasinocanoetextcashupongrit
+bip_39_word_no_space_9: streetoutercasinocanoetextcashupongritdiffer
 bip_39_word_space_0:
 - street
 - outer

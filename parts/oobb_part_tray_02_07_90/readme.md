@@ -122,6 +122,18 @@ file
 health
 cream
 pistol |  
+| bip_39_word_no_space_1 | casual |  
+| bip_39_word_no_space_10 | casualchronicanxietyconcertcapitalfilehealthcreampistolfront |  
+| bip_39_word_no_space_11 | casualchronicanxietyconcertcapitalfilehealthcreampistolfrontsalon |  
+| bip_39_word_no_space_12 | casualchronicanxietyconcertcapitalfilehealthcreampistolfrontsalonalter |  
+| bip_39_word_no_space_2 | casualchronic |  
+| bip_39_word_no_space_3 | casualchronicanxiety |  
+| bip_39_word_no_space_4 | casualchronicanxietyconcert |  
+| bip_39_word_no_space_5 | casualchronicanxietyconcertcapital |  
+| bip_39_word_no_space_6 | casualchronicanxietyconcertcapitalfile |  
+| bip_39_word_no_space_7 | casualchronicanxietyconcertcapitalfilehealth |  
+| bip_39_word_no_space_8 | casualchronicanxietyconcertcapitalfilehealthcream |  
+| bip_39_word_no_space_9 | casualchronicanxietyconcertcapitalfilehealthcreampistol |  
 | bip_39_word_space_0 | ['casual', 'chronic', 'anxiety', 'concert', 'capital', 'file', 'health', 'cream', 'pistol', 'front', 'salon', 'alter'] |  
 | bip_39_word_space_1 | casual |  
 | bip_39_word_space_10 | casual chronic anxiety concert capital file health cream pistol front |  

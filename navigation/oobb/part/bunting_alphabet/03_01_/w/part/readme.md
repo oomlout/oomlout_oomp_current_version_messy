@@ -122,6 +122,18 @@ balcony
 twenty
 text
 sugar |  
+| bip_39_word_no_space_1 | video |  
+| bip_39_word_no_space_10 | videobrotherdizzyrightbirdbalconytwentytextsugarimpulse |  
+| bip_39_word_no_space_11 | videobrotherdizzyrightbirdbalconytwentytextsugarimpulsemajor |  
+| bip_39_word_no_space_12 | videobrotherdizzyrightbirdbalconytwentytextsugarimpulsemajorauthor |  
+| bip_39_word_no_space_2 | videobrother |  
+| bip_39_word_no_space_3 | videobrotherdizzy |  
+| bip_39_word_no_space_4 | videobrotherdizzyright |  
+| bip_39_word_no_space_5 | videobrotherdizzyrightbird |  
+| bip_39_word_no_space_6 | videobrotherdizzyrightbirdbalcony |  
+| bip_39_word_no_space_7 | videobrotherdizzyrightbirdbalconytwenty |  
+| bip_39_word_no_space_8 | videobrotherdizzyrightbirdbalconytwentytext |  
+| bip_39_word_no_space_9 | videobrotherdizzyrightbirdbalconytwentytextsugar |  
 | bip_39_word_space_0 | ['video', 'brother', 'dizzy', 'right', 'bird', 'balcony', 'twenty', 'text', 'sugar', 'impulse', 'major', 'author'] |  
 | bip_39_word_space_1 | video |  
 | bip_39_word_space_10 | video brother dizzy right bird balcony twenty text sugar impulse |  

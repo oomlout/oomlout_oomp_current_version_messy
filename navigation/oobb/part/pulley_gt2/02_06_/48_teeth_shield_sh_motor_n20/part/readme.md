@@ -122,6 +122,18 @@ leaf
 soccer
 onion
 borrow |  
+| bip_39_word_no_space_1 | blue |  
+| bip_39_word_no_space_10 | bluehardwolfscanmiddleleafsocceronionborrowdiamond |  
+| bip_39_word_no_space_11 | bluehardwolfscanmiddleleafsocceronionborrowdiamonddespair |  
+| bip_39_word_no_space_12 | bluehardwolfscanmiddleleafsocceronionborrowdiamonddespairair |  
+| bip_39_word_no_space_2 | bluehard |  
+| bip_39_word_no_space_3 | bluehardwolf |  
+| bip_39_word_no_space_4 | bluehardwolfscan |  
+| bip_39_word_no_space_5 | bluehardwolfscanmiddle |  
+| bip_39_word_no_space_6 | bluehardwolfscanmiddleleaf |  
+| bip_39_word_no_space_7 | bluehardwolfscanmiddleleafsoccer |  
+| bip_39_word_no_space_8 | bluehardwolfscanmiddleleafsocceronion |  
+| bip_39_word_no_space_9 | bluehardwolfscanmiddleleafsocceronionborrow |  
 | bip_39_word_space_0 | ['blue', 'hard', 'wolf', 'scan', 'middle', 'leaf', 'soccer', 'onion', 'borrow', 'diamond', 'despair', 'air'] |  
 | bip_39_word_space_1 | blue |  
 | bip_39_word_space_10 | blue hard wolf scan middle leaf soccer onion borrow diamond |  

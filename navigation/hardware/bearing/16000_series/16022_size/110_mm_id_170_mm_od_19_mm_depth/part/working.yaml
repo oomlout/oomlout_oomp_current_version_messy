@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bamboo
   proof
 
   inform'
+bip_39_word_no_space_1: bamboo
+bip_39_word_no_space_10: bambooglarecanstartfrontcodegroupproofinformstairs
+bip_39_word_no_space_11: bambooglarecanstartfrontcodegroupproofinformstairsoxygen
+bip_39_word_no_space_12: bambooglarecanstartfrontcodegroupproofinformstairsoxygenacoustic
+bip_39_word_no_space_2: bambooglare
+bip_39_word_no_space_3: bambooglarecan
+bip_39_word_no_space_4: bambooglarecanstart
+bip_39_word_no_space_5: bambooglarecanstartfront
+bip_39_word_no_space_6: bambooglarecanstartfrontcode
+bip_39_word_no_space_7: bambooglarecanstartfrontcodegroup
+bip_39_word_no_space_8: bambooglarecanstartfrontcodegroupproof
+bip_39_word_no_space_9: bambooglarecanstartfrontcodegroupproofinform
 bip_39_word_space_0:
 - bamboo
 - glare

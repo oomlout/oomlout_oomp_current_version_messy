@@ -122,6 +122,18 @@ paper
 search
 boss
 enhance |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | sampleathleteacousticsmartauditpapersearchbossenhancelamp |  
+| bip_39_word_no_space_11 | sampleathleteacousticsmartauditpapersearchbossenhancelampdismiss |  
+| bip_39_word_no_space_12 | sampleathleteacousticsmartauditpapersearchbossenhancelampdismissarmed |  
+| bip_39_word_no_space_2 | sampleathlete |  
+| bip_39_word_no_space_3 | sampleathleteacoustic |  
+| bip_39_word_no_space_4 | sampleathleteacousticsmart |  
+| bip_39_word_no_space_5 | sampleathleteacousticsmartaudit |  
+| bip_39_word_no_space_6 | sampleathleteacousticsmartauditpaper |  
+| bip_39_word_no_space_7 | sampleathleteacousticsmartauditpapersearch |  
+| bip_39_word_no_space_8 | sampleathleteacousticsmartauditpapersearchboss |  
+| bip_39_word_no_space_9 | sampleathleteacousticsmartauditpapersearchbossenhance |  
 | bip_39_word_space_0 | ['sample', 'athlete', 'acoustic', 'smart', 'audit', 'paper', 'search', 'boss', 'enhance', 'lamp', 'dismiss', 'armed'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample athlete acoustic smart audit paper search boss enhance lamp |  

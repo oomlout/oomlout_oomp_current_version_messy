@@ -122,6 +122,18 @@ garment
 unusual
 tip
 arrest |  
+| bip_39_word_no_space_1 | tube |  
+| bip_39_word_no_space_10 | tubeinvolvearcticgiveblanketgarmentunusualtiparrestscrub |  
+| bip_39_word_no_space_11 | tubeinvolvearcticgiveblanketgarmentunusualtiparrestscrubtornado |  
+| bip_39_word_no_space_12 | tubeinvolvearcticgiveblanketgarmentunusualtiparrestscrubtornadoanxiety |  
+| bip_39_word_no_space_2 | tubeinvolve |  
+| bip_39_word_no_space_3 | tubeinvolvearctic |  
+| bip_39_word_no_space_4 | tubeinvolvearcticgive |  
+| bip_39_word_no_space_5 | tubeinvolvearcticgiveblanket |  
+| bip_39_word_no_space_6 | tubeinvolvearcticgiveblanketgarment |  
+| bip_39_word_no_space_7 | tubeinvolvearcticgiveblanketgarmentunusual |  
+| bip_39_word_no_space_8 | tubeinvolvearcticgiveblanketgarmentunusualtip |  
+| bip_39_word_no_space_9 | tubeinvolvearcticgiveblanketgarmentunusualtiparrest |  
 | bip_39_word_space_0 | ['tube', 'involve', 'arctic', 'give', 'blanket', 'garment', 'unusual', 'tip', 'arrest', 'scrub', 'tornado', 'anxiety'] |  
 | bip_39_word_space_1 | tube |  
 | bip_39_word_space_10 | tube involve arctic give blanket garment unusual tip arrest scrub |  

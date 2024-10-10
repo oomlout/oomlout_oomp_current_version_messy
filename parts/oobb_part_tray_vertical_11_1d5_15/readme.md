@@ -122,6 +122,18 @@ large
 vicious
 type
 canyon |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | grainaislelegendsquarewindowlargevicioustypecanyonopen |  
+| bip_39_word_no_space_11 | grainaislelegendsquarewindowlargevicioustypecanyonopenput |  
+| bip_39_word_no_space_12 | grainaislelegendsquarewindowlargevicioustypecanyonopenputaccident |  
+| bip_39_word_no_space_2 | grainaisle |  
+| bip_39_word_no_space_3 | grainaislelegend |  
+| bip_39_word_no_space_4 | grainaislelegendsquare |  
+| bip_39_word_no_space_5 | grainaislelegendsquarewindow |  
+| bip_39_word_no_space_6 | grainaislelegendsquarewindowlarge |  
+| bip_39_word_no_space_7 | grainaislelegendsquarewindowlargevicious |  
+| bip_39_word_no_space_8 | grainaislelegendsquarewindowlargevicioustype |  
+| bip_39_word_no_space_9 | grainaislelegendsquarewindowlargevicioustypecanyon |  
 | bip_39_word_space_0 | ['grain', 'aisle', 'legend', 'square', 'window', 'large', 'vicious', 'type', 'canyon', 'open', 'put', 'accident'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain aisle legend square window large vicious type canyon open |  

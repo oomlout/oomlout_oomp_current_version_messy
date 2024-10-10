@@ -122,6 +122,18 @@ cushion
 draw
 camera
 dry |  
+| bip_39_word_no_space_1 | task |  
+| bip_39_word_no_space_10 | taskembracepeppertonightedgecushiondrawcameradryquit |  
+| bip_39_word_no_space_11 | taskembracepeppertonightedgecushiondrawcameradryquitelevator |  
+| bip_39_word_no_space_12 | taskembracepeppertonightedgecushiondrawcameradryquitelevatoraunt |  
+| bip_39_word_no_space_2 | taskembrace |  
+| bip_39_word_no_space_3 | taskembracepepper |  
+| bip_39_word_no_space_4 | taskembracepeppertonight |  
+| bip_39_word_no_space_5 | taskembracepeppertonightedge |  
+| bip_39_word_no_space_6 | taskembracepeppertonightedgecushion |  
+| bip_39_word_no_space_7 | taskembracepeppertonightedgecushiondraw |  
+| bip_39_word_no_space_8 | taskembracepeppertonightedgecushiondrawcamera |  
+| bip_39_word_no_space_9 | taskembracepeppertonightedgecushiondrawcameradry |  
 | bip_39_word_space_0 | ['task', 'embrace', 'pepper', 'tonight', 'edge', 'cushion', 'draw', 'camera', 'dry', 'quit', 'elevator', 'aunt'] |  
 | bip_39_word_space_1 | task |  
 | bip_39_word_space_10 | task embrace pepper tonight edge cushion draw camera dry quit |  

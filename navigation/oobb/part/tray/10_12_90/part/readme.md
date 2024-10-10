@@ -122,6 +122,18 @@ now
 trend
 grid
 drum |  
+| bip_39_word_no_space_1 | valve |  
+| bip_39_word_no_space_10 | valvefiscalobjectmonitorfringenowtrendgriddrumsave |  
+| bip_39_word_no_space_11 | valvefiscalobjectmonitorfringenowtrendgriddrumsaveperson |  
+| bip_39_word_no_space_12 | valvefiscalobjectmonitorfringenowtrendgriddrumsavepersonarmor |  
+| bip_39_word_no_space_2 | valvefiscal |  
+| bip_39_word_no_space_3 | valvefiscalobject |  
+| bip_39_word_no_space_4 | valvefiscalobjectmonitor |  
+| bip_39_word_no_space_5 | valvefiscalobjectmonitorfringe |  
+| bip_39_word_no_space_6 | valvefiscalobjectmonitorfringenow |  
+| bip_39_word_no_space_7 | valvefiscalobjectmonitorfringenowtrend |  
+| bip_39_word_no_space_8 | valvefiscalobjectmonitorfringenowtrendgrid |  
+| bip_39_word_no_space_9 | valvefiscalobjectmonitorfringenowtrendgriddrum |  
 | bip_39_word_space_0 | ['valve', 'fiscal', 'object', 'monitor', 'fringe', 'now', 'trend', 'grid', 'drum', 'save', 'person', 'armor'] |  
 | bip_39_word_space_1 | valve |  
 | bip_39_word_space_10 | valve fiscal object monitor fringe now trend grid drum save |  

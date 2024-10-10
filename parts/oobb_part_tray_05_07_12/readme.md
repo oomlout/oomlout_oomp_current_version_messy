@@ -122,6 +122,18 @@ addict
 minimum
 asset
 swear |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuilddovemoredoveenrichaddictminimumassetswearfatal |  
+| bip_39_word_no_space_11 | rebuilddovemoredoveenrichaddictminimumassetswearfatalperfect |  
+| bip_39_word_no_space_12 | rebuilddovemoredoveenrichaddictminimumassetswearfatalperfectany |  
+| bip_39_word_no_space_2 | rebuilddove |  
+| bip_39_word_no_space_3 | rebuilddovemore |  
+| bip_39_word_no_space_4 | rebuilddovemoredove |  
+| bip_39_word_no_space_5 | rebuilddovemoredoveenrich |  
+| bip_39_word_no_space_6 | rebuilddovemoredoveenrichaddict |  
+| bip_39_word_no_space_7 | rebuilddovemoredoveenrichaddictminimum |  
+| bip_39_word_no_space_8 | rebuilddovemoredoveenrichaddictminimumasset |  
+| bip_39_word_no_space_9 | rebuilddovemoredoveenrichaddictminimumassetswear |  
 | bip_39_word_space_0 | ['rebuild', 'dove', 'more', 'dove', 'enrich', 'addict', 'minimum', 'asset', 'swear', 'fatal', 'perfect', 'any'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild dove more dove enrich addict minimum asset swear fatal |  

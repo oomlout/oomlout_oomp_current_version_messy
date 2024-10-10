@@ -122,6 +122,18 @@ apart
 eyebrow
 spring
 used |  
+| bip_39_word_no_space_1 | super |  
+| bip_39_word_no_space_10 | superregretstrikekiteatomaparteyebrowspringusedwagon |  
+| bip_39_word_no_space_11 | superregretstrikekiteatomaparteyebrowspringusedwagonpanic |  
+| bip_39_word_no_space_12 | superregretstrikekiteatomaparteyebrowspringusedwagonpanicadapt |  
+| bip_39_word_no_space_2 | superregret |  
+| bip_39_word_no_space_3 | superregretstrike |  
+| bip_39_word_no_space_4 | superregretstrikekite |  
+| bip_39_word_no_space_5 | superregretstrikekiteatom |  
+| bip_39_word_no_space_6 | superregretstrikekiteatomapart |  
+| bip_39_word_no_space_7 | superregretstrikekiteatomaparteyebrow |  
+| bip_39_word_no_space_8 | superregretstrikekiteatomaparteyebrowspring |  
+| bip_39_word_no_space_9 | superregretstrikekiteatomaparteyebrowspringused |  
 | bip_39_word_space_0 | ['super', 'regret', 'strike', 'kite', 'atom', 'apart', 'eyebrow', 'spring', 'used', 'wagon', 'panic', 'adapt'] |  
 | bip_39_word_space_1 | super |  
 | bip_39_word_space_10 | super regret strike kite atom apart eyebrow spring used wagon |  

@@ -122,6 +122,18 @@ reason
 sibling
 arrive
 floor |  
+| bip_39_word_no_space_1 | luggage |  
+| bip_39_word_no_space_10 | luggagegentlecushionachievefitnessreasonsiblingarrivefloorgrape |  
+| bip_39_word_no_space_11 | luggagegentlecushionachievefitnessreasonsiblingarrivefloorgrapehollow |  
+| bip_39_word_no_space_12 | luggagegentlecushionachievefitnessreasonsiblingarrivefloorgrapehollowafford |  
+| bip_39_word_no_space_2 | luggagegentle |  
+| bip_39_word_no_space_3 | luggagegentlecushion |  
+| bip_39_word_no_space_4 | luggagegentlecushionachieve |  
+| bip_39_word_no_space_5 | luggagegentlecushionachievefitness |  
+| bip_39_word_no_space_6 | luggagegentlecushionachievefitnessreason |  
+| bip_39_word_no_space_7 | luggagegentlecushionachievefitnessreasonsibling |  
+| bip_39_word_no_space_8 | luggagegentlecushionachievefitnessreasonsiblingarrive |  
+| bip_39_word_no_space_9 | luggagegentlecushionachievefitnessreasonsiblingarrivefloor |  
 | bip_39_word_space_0 | ['luggage', 'gentle', 'cushion', 'achieve', 'fitness', 'reason', 'sibling', 'arrive', 'floor', 'grape', 'hollow', 'afford'] |  
 | bip_39_word_space_1 | luggage |  
 | bip_39_word_space_10 | luggage gentle cushion achieve fitness reason sibling arrive floor grape |  

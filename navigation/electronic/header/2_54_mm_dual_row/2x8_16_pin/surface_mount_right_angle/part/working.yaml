@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chair
   guitar
 
   moral'
+bip_39_word_no_space_1: chair
+bip_39_word_no_space_10: chairwoolpupilpavechimneyuponlemonguitarmoralaway
+bip_39_word_no_space_11: chairwoolpupilpavechimneyuponlemonguitarmoralawayagree
+bip_39_word_no_space_12: chairwoolpupilpavechimneyuponlemonguitarmoralawayagreeahead
+bip_39_word_no_space_2: chairwool
+bip_39_word_no_space_3: chairwoolpupil
+bip_39_word_no_space_4: chairwoolpupilpave
+bip_39_word_no_space_5: chairwoolpupilpavechimney
+bip_39_word_no_space_6: chairwoolpupilpavechimneyupon
+bip_39_word_no_space_7: chairwoolpupilpavechimneyuponlemon
+bip_39_word_no_space_8: chairwoolpupilpavechimneyuponlemonguitar
+bip_39_word_no_space_9: chairwoolpupilpavechimneyuponlemonguitarmoral
 bip_39_word_space_0:
 - chair
 - wool

@@ -122,6 +122,18 @@ crew
 door
 market
 nut |  
+| bip_39_word_no_space_1 | tree |  
+| bip_39_word_no_space_10 | treemagiccombineserieseagercrewdoormarketnutman |  
+| bip_39_word_no_space_11 | treemagiccombineserieseagercrewdoormarketnutmanwoman |  
+| bip_39_word_no_space_12 | treemagiccombineserieseagercrewdoormarketnutmanwomanactress |  
+| bip_39_word_no_space_2 | treemagic |  
+| bip_39_word_no_space_3 | treemagiccombine |  
+| bip_39_word_no_space_4 | treemagiccombineseries |  
+| bip_39_word_no_space_5 | treemagiccombineserieseager |  
+| bip_39_word_no_space_6 | treemagiccombineserieseagercrew |  
+| bip_39_word_no_space_7 | treemagiccombineserieseagercrewdoor |  
+| bip_39_word_no_space_8 | treemagiccombineserieseagercrewdoormarket |  
+| bip_39_word_no_space_9 | treemagiccombineserieseagercrewdoormarketnut |  
 | bip_39_word_space_0 | ['tree', 'magic', 'combine', 'series', 'eager', 'crew', 'door', 'market', 'nut', 'man', 'woman', 'actress'] |  
 | bip_39_word_space_1 | tree |  
 | bip_39_word_space_10 | tree magic combine series eager crew door market nut man |  

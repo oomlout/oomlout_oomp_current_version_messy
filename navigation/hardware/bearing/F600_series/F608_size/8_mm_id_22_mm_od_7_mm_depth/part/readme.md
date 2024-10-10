@@ -122,6 +122,18 @@ educate
 naive
 galaxy
 copper |  
+| bip_39_word_no_space_1 | stage |  
+| bip_39_word_no_space_10 | stagesaddlegingereraseuponeducatenaivegalaxycoppervocal |  
+| bip_39_word_no_space_11 | stagesaddlegingereraseuponeducatenaivegalaxycoppervocalneglect |  
+| bip_39_word_no_space_12 | stagesaddlegingereraseuponeducatenaivegalaxycoppervocalneglectadult |  
+| bip_39_word_no_space_2 | stagesaddle |  
+| bip_39_word_no_space_3 | stagesaddleginger |  
+| bip_39_word_no_space_4 | stagesaddlegingererase |  
+| bip_39_word_no_space_5 | stagesaddlegingereraseupon |  
+| bip_39_word_no_space_6 | stagesaddlegingereraseuponeducate |  
+| bip_39_word_no_space_7 | stagesaddlegingereraseuponeducatenaive |  
+| bip_39_word_no_space_8 | stagesaddlegingereraseuponeducatenaivegalaxy |  
+| bip_39_word_no_space_9 | stagesaddlegingereraseuponeducatenaivegalaxycopper |  
 | bip_39_word_space_0 | ['stage', 'saddle', 'ginger', 'erase', 'upon', 'educate', 'naive', 'galaxy', 'copper', 'vocal', 'neglect', 'adult'] |  
 | bip_39_word_space_1 | stage |  
 | bip_39_word_space_10 | stage saddle ginger erase upon educate naive galaxy copper vocal |  

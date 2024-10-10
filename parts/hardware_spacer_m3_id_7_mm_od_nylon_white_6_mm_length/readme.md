@@ -122,6 +122,18 @@ hungry
 thunder
 gallery
 similar |  
+| bip_39_word_no_space_1 | mask |  
+| bip_39_word_no_space_10 | masktimesupremedressvanishhungrythundergallerysimilargame |  
+| bip_39_word_no_space_11 | masktimesupremedressvanishhungrythundergallerysimilargamenight |  
+| bip_39_word_no_space_12 | masktimesupremedressvanishhungrythundergallerysimilargamenightaccident |  
+| bip_39_word_no_space_2 | masktime |  
+| bip_39_word_no_space_3 | masktimesupreme |  
+| bip_39_word_no_space_4 | masktimesupremedress |  
+| bip_39_word_no_space_5 | masktimesupremedressvanish |  
+| bip_39_word_no_space_6 | masktimesupremedressvanishhungry |  
+| bip_39_word_no_space_7 | masktimesupremedressvanishhungrythunder |  
+| bip_39_word_no_space_8 | masktimesupremedressvanishhungrythundergallery |  
+| bip_39_word_no_space_9 | masktimesupremedressvanishhungrythundergallerysimilar |  
 | bip_39_word_space_0 | ['mask', 'time', 'supreme', 'dress', 'vanish', 'hungry', 'thunder', 'gallery', 'similar', 'game', 'night', 'accident'] |  
 | bip_39_word_space_1 | mask |  
 | bip_39_word_space_10 | mask time supreme dress vanish hungry thunder gallery similar game |  

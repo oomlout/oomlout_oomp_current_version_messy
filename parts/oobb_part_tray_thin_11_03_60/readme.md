@@ -122,6 +122,18 @@ girl
 share
 repeat
 century |  
+| bip_39_word_no_space_1 | width |  
+| bip_39_word_no_space_10 | widthsqueezelockdutyslicegirlsharerepeatcenturykidney |  
+| bip_39_word_no_space_11 | widthsqueezelockdutyslicegirlsharerepeatcenturykidneyvoice |  
+| bip_39_word_no_space_12 | widthsqueezelockdutyslicegirlsharerepeatcenturykidneyvoicealley |  
+| bip_39_word_no_space_2 | widthsqueeze |  
+| bip_39_word_no_space_3 | widthsqueezelock |  
+| bip_39_word_no_space_4 | widthsqueezelockduty |  
+| bip_39_word_no_space_5 | widthsqueezelockdutyslice |  
+| bip_39_word_no_space_6 | widthsqueezelockdutyslicegirl |  
+| bip_39_word_no_space_7 | widthsqueezelockdutyslicegirlshare |  
+| bip_39_word_no_space_8 | widthsqueezelockdutyslicegirlsharerepeat |  
+| bip_39_word_no_space_9 | widthsqueezelockdutyslicegirlsharerepeatcentury |  
 | bip_39_word_space_0 | ['width', 'squeeze', 'lock', 'duty', 'slice', 'girl', 'share', 'repeat', 'century', 'kidney', 'voice', 'alley'] |  
 | bip_39_word_space_1 | width |  
 | bip_39_word_space_10 | width squeeze lock duty slice girl share repeat century kidney |  

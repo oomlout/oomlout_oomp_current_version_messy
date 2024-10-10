@@ -122,6 +122,18 @@ obvious
 wine
 spray
 hospital |  
+| bip_39_word_no_space_1 | connect |  
+| bip_39_word_no_space_10 | connectromancepactembodylemonobviouswinesprayhospitalinhale |  
+| bip_39_word_no_space_11 | connectromancepactembodylemonobviouswinesprayhospitalinhaleleader |  
+| bip_39_word_no_space_12 | connectromancepactembodylemonobviouswinesprayhospitalinhaleleaderaerobic |  
+| bip_39_word_no_space_2 | connectromance |  
+| bip_39_word_no_space_3 | connectromancepact |  
+| bip_39_word_no_space_4 | connectromancepactembody |  
+| bip_39_word_no_space_5 | connectromancepactembodylemon |  
+| bip_39_word_no_space_6 | connectromancepactembodylemonobvious |  
+| bip_39_word_no_space_7 | connectromancepactembodylemonobviouswine |  
+| bip_39_word_no_space_8 | connectromancepactembodylemonobviouswinespray |  
+| bip_39_word_no_space_9 | connectromancepactembodylemonobviouswinesprayhospital |  
 | bip_39_word_space_0 | ['connect', 'romance', 'pact', 'embody', 'lemon', 'obvious', 'wine', 'spray', 'hospital', 'inhale', 'leader', 'aerobic'] |  
 | bip_39_word_space_1 | connect |  
 | bip_39_word_space_10 | connect romance pact embody lemon obvious wine spray hospital inhale |  

@@ -122,6 +122,18 @@ echo
 olympic
 hazard
 country |  
+| bip_39_word_no_space_1 | client |  
+| bip_39_word_no_space_10 | clientdraftarchexhibitgiraffeechoolympichazardcountrymaid |  
+| bip_39_word_no_space_11 | clientdraftarchexhibitgiraffeechoolympichazardcountrymaidluggage |  
+| bip_39_word_no_space_12 | clientdraftarchexhibitgiraffeechoolympichazardcountrymaidluggageaerobic |  
+| bip_39_word_no_space_2 | clientdraft |  
+| bip_39_word_no_space_3 | clientdraftarch |  
+| bip_39_word_no_space_4 | clientdraftarchexhibit |  
+| bip_39_word_no_space_5 | clientdraftarchexhibitgiraffe |  
+| bip_39_word_no_space_6 | clientdraftarchexhibitgiraffeecho |  
+| bip_39_word_no_space_7 | clientdraftarchexhibitgiraffeechoolympic |  
+| bip_39_word_no_space_8 | clientdraftarchexhibitgiraffeechoolympichazard |  
+| bip_39_word_no_space_9 | clientdraftarchexhibitgiraffeechoolympichazardcountry |  
 | bip_39_word_space_0 | ['client', 'draft', 'arch', 'exhibit', 'giraffe', 'echo', 'olympic', 'hazard', 'country', 'maid', 'luggage', 'aerobic'] |  
 | bip_39_word_space_1 | client |  
 | bip_39_word_space_10 | client draft arch exhibit giraffe echo olympic hazard country maid |  

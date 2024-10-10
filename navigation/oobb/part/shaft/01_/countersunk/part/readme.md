@@ -122,6 +122,18 @@ initial
 oxygen
 rose
 width |  
+| bip_39_word_no_space_1 | stock |  
+| bip_39_word_no_space_10 | stockviolineyeletterclickinitialoxygenrosewidthgeneral |  
+| bip_39_word_no_space_11 | stockviolineyeletterclickinitialoxygenrosewidthgeneraleasy |  
+| bip_39_word_no_space_12 | stockviolineyeletterclickinitialoxygenrosewidthgeneraleasyagain |  
+| bip_39_word_no_space_2 | stockviolin |  
+| bip_39_word_no_space_3 | stockviolineye |  
+| bip_39_word_no_space_4 | stockviolineyeletter |  
+| bip_39_word_no_space_5 | stockviolineyeletterclick |  
+| bip_39_word_no_space_6 | stockviolineyeletterclickinitial |  
+| bip_39_word_no_space_7 | stockviolineyeletterclickinitialoxygen |  
+| bip_39_word_no_space_8 | stockviolineyeletterclickinitialoxygenrose |  
+| bip_39_word_no_space_9 | stockviolineyeletterclickinitialoxygenrosewidth |  
 | bip_39_word_space_0 | ['stock', 'violin', 'eye', 'letter', 'click', 'initial', 'oxygen', 'rose', 'width', 'general', 'easy', 'again'] |  
 | bip_39_word_space_1 | stock |  
 | bip_39_word_space_10 | stock violin eye letter click initial oxygen rose width general |  

@@ -122,6 +122,18 @@ sound
 process
 donor
 belt |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glasscandyresponseanybunkersoundprocessdonorbelthint |  
+| bip_39_word_no_space_11 | glasscandyresponseanybunkersoundprocessdonorbelthintbenefit |  
+| bip_39_word_no_space_12 | glasscandyresponseanybunkersoundprocessdonorbelthintbenefitadjust |  
+| bip_39_word_no_space_2 | glasscandy |  
+| bip_39_word_no_space_3 | glasscandyresponse |  
+| bip_39_word_no_space_4 | glasscandyresponseany |  
+| bip_39_word_no_space_5 | glasscandyresponseanybunker |  
+| bip_39_word_no_space_6 | glasscandyresponseanybunkersound |  
+| bip_39_word_no_space_7 | glasscandyresponseanybunkersoundprocess |  
+| bip_39_word_no_space_8 | glasscandyresponseanybunkersoundprocessdonor |  
+| bip_39_word_no_space_9 | glasscandyresponseanybunkersoundprocessdonorbelt |  
 | bip_39_word_space_0 | ['glass', 'candy', 'response', 'any', 'bunker', 'sound', 'process', 'donor', 'belt', 'hint', 'benefit', 'adjust'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass candy response any bunker sound process donor belt hint |  

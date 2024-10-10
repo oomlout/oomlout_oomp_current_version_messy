@@ -122,6 +122,18 @@ crouch
 lucky
 picnic
 invest |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitpavejaguarlobsterprisoncrouchluckypicnicinvestlens |  
+| bip_39_word_no_space_11 | limitpavejaguarlobsterprisoncrouchluckypicnicinvestlenscross |  
+| bip_39_word_no_space_12 | limitpavejaguarlobsterprisoncrouchluckypicnicinvestlenscrossadd |  
+| bip_39_word_no_space_2 | limitpave |  
+| bip_39_word_no_space_3 | limitpavejaguar |  
+| bip_39_word_no_space_4 | limitpavejaguarlobster |  
+| bip_39_word_no_space_5 | limitpavejaguarlobsterprison |  
+| bip_39_word_no_space_6 | limitpavejaguarlobsterprisoncrouch |  
+| bip_39_word_no_space_7 | limitpavejaguarlobsterprisoncrouchlucky |  
+| bip_39_word_no_space_8 | limitpavejaguarlobsterprisoncrouchluckypicnic |  
+| bip_39_word_no_space_9 | limitpavejaguarlobsterprisoncrouchluckypicnicinvest |  
 | bip_39_word_space_0 | ['limit', 'pave', 'jaguar', 'lobster', 'prison', 'crouch', 'lucky', 'picnic', 'invest', 'lens', 'cross', 'add'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit pave jaguar lobster prison crouch lucky picnic invest lens |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'access
   super
 
   invest'
+bip_39_word_no_space_1: access
+bip_39_word_no_space_10: accessfooddigitalcarryrecyclehornentersuperinvestmodel
+bip_39_word_no_space_11: accessfooddigitalcarryrecyclehornentersuperinvestmodeldumb
+bip_39_word_no_space_12: accessfooddigitalcarryrecyclehornentersuperinvestmodeldumbarmed
+bip_39_word_no_space_2: accessfood
+bip_39_word_no_space_3: accessfooddigital
+bip_39_word_no_space_4: accessfooddigitalcarry
+bip_39_word_no_space_5: accessfooddigitalcarryrecycle
+bip_39_word_no_space_6: accessfooddigitalcarryrecyclehorn
+bip_39_word_no_space_7: accessfooddigitalcarryrecyclehornenter
+bip_39_word_no_space_8: accessfooddigitalcarryrecyclehornentersuper
+bip_39_word_no_space_9: accessfooddigitalcarryrecyclehornentersuperinvest
 bip_39_word_space_0:
 - access
 - food

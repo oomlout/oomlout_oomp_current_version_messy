@@ -122,6 +122,18 @@ payment
 hover
 dust
 knife |  
+| bip_39_word_no_space_1 | obvious |  
+| bip_39_word_no_space_10 | obvioustimevastrapidtonightpaymenthoverdustknifesnack |  
+| bip_39_word_no_space_11 | obvioustimevastrapidtonightpaymenthoverdustknifesnackclap |  
+| bip_39_word_no_space_12 | obvioustimevastrapidtonightpaymenthoverdustknifesnackclapahead |  
+| bip_39_word_no_space_2 | obvioustime |  
+| bip_39_word_no_space_3 | obvioustimevast |  
+| bip_39_word_no_space_4 | obvioustimevastrapid |  
+| bip_39_word_no_space_5 | obvioustimevastrapidtonight |  
+| bip_39_word_no_space_6 | obvioustimevastrapidtonightpayment |  
+| bip_39_word_no_space_7 | obvioustimevastrapidtonightpaymenthover |  
+| bip_39_word_no_space_8 | obvioustimevastrapidtonightpaymenthoverdust |  
+| bip_39_word_no_space_9 | obvioustimevastrapidtonightpaymenthoverdustknife |  
 | bip_39_word_space_0 | ['obvious', 'time', 'vast', 'rapid', 'tonight', 'payment', 'hover', 'dust', 'knife', 'snack', 'clap', 'ahead'] |  
 | bip_39_word_space_1 | obvious |  
 | bip_39_word_space_10 | obvious time vast rapid tonight payment hover dust knife snack |  

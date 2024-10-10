@@ -122,6 +122,18 @@ tonight
 legend
 diagram
 view |  
+| bip_39_word_no_space_1 | account |  
+| bip_39_word_no_space_10 | accountsteelindexantennavacanttonightlegenddiagramviewcement |  
+| bip_39_word_no_space_11 | accountsteelindexantennavacanttonightlegenddiagramviewcementride |  
+| bip_39_word_no_space_12 | accountsteelindexantennavacanttonightlegenddiagramviewcementrideaim |  
+| bip_39_word_no_space_2 | accountsteel |  
+| bip_39_word_no_space_3 | accountsteelindex |  
+| bip_39_word_no_space_4 | accountsteelindexantenna |  
+| bip_39_word_no_space_5 | accountsteelindexantennavacant |  
+| bip_39_word_no_space_6 | accountsteelindexantennavacanttonight |  
+| bip_39_word_no_space_7 | accountsteelindexantennavacanttonightlegend |  
+| bip_39_word_no_space_8 | accountsteelindexantennavacanttonightlegenddiagram |  
+| bip_39_word_no_space_9 | accountsteelindexantennavacanttonightlegenddiagramview |  
 | bip_39_word_space_0 | ['account', 'steel', 'index', 'antenna', 'vacant', 'tonight', 'legend', 'diagram', 'view', 'cement', 'ride', 'aim'] |  
 | bip_39_word_space_1 | account |  
 | bip_39_word_space_10 | account steel index antenna vacant tonight legend diagram view cement |  

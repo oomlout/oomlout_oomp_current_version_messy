@@ -122,6 +122,18 @@ shine
 supply
 aunt
 purse |  
+| bip_39_word_no_space_1 | lyrics |  
+| bip_39_word_no_space_10 | lyricsislandcrycupboardcompanyshinesupplyauntpurseuniverse |  
+| bip_39_word_no_space_11 | lyricsislandcrycupboardcompanyshinesupplyauntpurseuniversesadness |  
+| bip_39_word_no_space_12 | lyricsislandcrycupboardcompanyshinesupplyauntpurseuniversesadnessabsent |  
+| bip_39_word_no_space_2 | lyricsisland |  
+| bip_39_word_no_space_3 | lyricsislandcry |  
+| bip_39_word_no_space_4 | lyricsislandcrycupboard |  
+| bip_39_word_no_space_5 | lyricsislandcrycupboardcompany |  
+| bip_39_word_no_space_6 | lyricsislandcrycupboardcompanyshine |  
+| bip_39_word_no_space_7 | lyricsislandcrycupboardcompanyshinesupply |  
+| bip_39_word_no_space_8 | lyricsislandcrycupboardcompanyshinesupplyaunt |  
+| bip_39_word_no_space_9 | lyricsislandcrycupboardcompanyshinesupplyauntpurse |  
 | bip_39_word_space_0 | ['lyrics', 'island', 'cry', 'cupboard', 'company', 'shine', 'supply', 'aunt', 'purse', 'universe', 'sadness', 'absent'] |  
 | bip_39_word_space_1 | lyrics |  
 | bip_39_word_space_10 | lyrics island cry cupboard company shine supply aunt purse universe |  

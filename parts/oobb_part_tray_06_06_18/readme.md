@@ -122,6 +122,18 @@ bargain
 reunion
 tongue
 pond |  
+| bip_39_word_no_space_1 | relief |  
+| bip_39_word_no_space_10 | relieftimecurvekeencommonbargainreuniontonguepondinclude |  
+| bip_39_word_no_space_11 | relieftimecurvekeencommonbargainreuniontonguepondincludeflame |  
+| bip_39_word_no_space_12 | relieftimecurvekeencommonbargainreuniontonguepondincludeflameatom |  
+| bip_39_word_no_space_2 | relieftime |  
+| bip_39_word_no_space_3 | relieftimecurve |  
+| bip_39_word_no_space_4 | relieftimecurvekeen |  
+| bip_39_word_no_space_5 | relieftimecurvekeencommon |  
+| bip_39_word_no_space_6 | relieftimecurvekeencommonbargain |  
+| bip_39_word_no_space_7 | relieftimecurvekeencommonbargainreunion |  
+| bip_39_word_no_space_8 | relieftimecurvekeencommonbargainreuniontongue |  
+| bip_39_word_no_space_9 | relieftimecurvekeencommonbargainreuniontonguepond |  
 | bip_39_word_space_0 | ['relief', 'time', 'curve', 'keen', 'common', 'bargain', 'reunion', 'tongue', 'pond', 'include', 'flame', 'atom'] |  
 | bip_39_word_space_1 | relief |  
 | bip_39_word_space_10 | relief time curve keen common bargain reunion tongue pond include |  

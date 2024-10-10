@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clown
   radar
 
   hand'
+bip_39_word_no_space_1: clown
+bip_39_word_no_space_10: clownsecretroyalfacerepairhabitspotradarhanddivide
+bip_39_word_no_space_11: clownsecretroyalfacerepairhabitspotradarhanddividepoverty
+bip_39_word_no_space_12: clownsecretroyalfacerepairhabitspotradarhanddividepovertyamazing
+bip_39_word_no_space_2: clownsecret
+bip_39_word_no_space_3: clownsecretroyal
+bip_39_word_no_space_4: clownsecretroyalface
+bip_39_word_no_space_5: clownsecretroyalfacerepair
+bip_39_word_no_space_6: clownsecretroyalfacerepairhabit
+bip_39_word_no_space_7: clownsecretroyalfacerepairhabitspot
+bip_39_word_no_space_8: clownsecretroyalfacerepairhabitspotradar
+bip_39_word_no_space_9: clownsecretroyalfacerepairhabitspotradarhand
 bip_39_word_space_0:
 - clown
 - secret

@@ -122,6 +122,18 @@ kite
 fever
 utility
 amazing |  
+| bip_39_word_no_space_1 | pattern |  
+| bip_39_word_no_space_10 | patternjumpbehavemainmusclekitefeverutilityamazingcereal |  
+| bip_39_word_no_space_11 | patternjumpbehavemainmusclekitefeverutilityamazingcerealapril |  
+| bip_39_word_no_space_12 | patternjumpbehavemainmusclekitefeverutilityamazingcerealaprilapple |  
+| bip_39_word_no_space_2 | patternjump |  
+| bip_39_word_no_space_3 | patternjumpbehave |  
+| bip_39_word_no_space_4 | patternjumpbehavemain |  
+| bip_39_word_no_space_5 | patternjumpbehavemainmuscle |  
+| bip_39_word_no_space_6 | patternjumpbehavemainmusclekite |  
+| bip_39_word_no_space_7 | patternjumpbehavemainmusclekitefever |  
+| bip_39_word_no_space_8 | patternjumpbehavemainmusclekitefeverutility |  
+| bip_39_word_no_space_9 | patternjumpbehavemainmusclekitefeverutilityamazing |  
 | bip_39_word_space_0 | ['pattern', 'jump', 'behave', 'main', 'muscle', 'kite', 'fever', 'utility', 'amazing', 'cereal', 'april', 'apple'] |  
 | bip_39_word_space_1 | pattern |  
 | bip_39_word_space_10 | pattern jump behave main muscle kite fever utility amazing cereal |  

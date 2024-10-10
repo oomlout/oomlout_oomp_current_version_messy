@@ -122,6 +122,18 @@ hurt
 dignity
 cricket
 traffic |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueupholdsirenautocleverhurtdignitycrickettrafficstem |  
+| bip_39_word_no_space_11 | issueupholdsirenautocleverhurtdignitycrickettrafficstemshoot |  
+| bip_39_word_no_space_12 | issueupholdsirenautocleverhurtdignitycrickettrafficstemshootall |  
+| bip_39_word_no_space_2 | issueuphold |  
+| bip_39_word_no_space_3 | issueupholdsiren |  
+| bip_39_word_no_space_4 | issueupholdsirenauto |  
+| bip_39_word_no_space_5 | issueupholdsirenautoclever |  
+| bip_39_word_no_space_6 | issueupholdsirenautocleverhurt |  
+| bip_39_word_no_space_7 | issueupholdsirenautocleverhurtdignity |  
+| bip_39_word_no_space_8 | issueupholdsirenautocleverhurtdignitycricket |  
+| bip_39_word_no_space_9 | issueupholdsirenautocleverhurtdignitycrickettraffic |  
 | bip_39_word_space_0 | ['issue', 'uphold', 'siren', 'auto', 'clever', 'hurt', 'dignity', 'cricket', 'traffic', 'stem', 'shoot', 'all'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue uphold siren auto clever hurt dignity cricket traffic stem |  

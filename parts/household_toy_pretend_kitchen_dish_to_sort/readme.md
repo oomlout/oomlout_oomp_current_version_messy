@@ -122,6 +122,18 @@ baby
 trouble
 helmet
 barrel |  
+| bip_39_word_no_space_1 | age |  
+| bip_39_word_no_space_10 | agepicturescissorsbronzeresemblebabytroublehelmetbarrelpill |  
+| bip_39_word_no_space_11 | agepicturescissorsbronzeresemblebabytroublehelmetbarrelpillboard |  
+| bip_39_word_no_space_12 | agepicturescissorsbronzeresemblebabytroublehelmetbarrelpillboardaugust |  
+| bip_39_word_no_space_2 | agepicture |  
+| bip_39_word_no_space_3 | agepicturescissors |  
+| bip_39_word_no_space_4 | agepicturescissorsbronze |  
+| bip_39_word_no_space_5 | agepicturescissorsbronzeresemble |  
+| bip_39_word_no_space_6 | agepicturescissorsbronzeresemblebaby |  
+| bip_39_word_no_space_7 | agepicturescissorsbronzeresemblebabytrouble |  
+| bip_39_word_no_space_8 | agepicturescissorsbronzeresemblebabytroublehelmet |  
+| bip_39_word_no_space_9 | agepicturescissorsbronzeresemblebabytroublehelmetbarrel |  
 | bip_39_word_space_0 | ['age', 'picture', 'scissors', 'bronze', 'resemble', 'baby', 'trouble', 'helmet', 'barrel', 'pill', 'board', 'august'] |  
 | bip_39_word_space_1 | age |  
 | bip_39_word_space_10 | age picture scissors bronze resemble baby trouble helmet barrel pill |  

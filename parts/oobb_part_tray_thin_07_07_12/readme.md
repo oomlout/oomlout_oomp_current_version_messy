@@ -122,6 +122,18 @@ barrel
 notable
 tissue
 furnace |  
+| bip_39_word_no_space_1 | predict |  
+| bip_39_word_no_space_10 | predictsmartskullunveilmangobarrelnotabletissuefurnacedeny |  
+| bip_39_word_no_space_11 | predictsmartskullunveilmangobarrelnotabletissuefurnacedenyuseful |  
+| bip_39_word_no_space_12 | predictsmartskullunveilmangobarrelnotabletissuefurnacedenyusefulanchor |  
+| bip_39_word_no_space_2 | predictsmart |  
+| bip_39_word_no_space_3 | predictsmartskull |  
+| bip_39_word_no_space_4 | predictsmartskullunveil |  
+| bip_39_word_no_space_5 | predictsmartskullunveilmango |  
+| bip_39_word_no_space_6 | predictsmartskullunveilmangobarrel |  
+| bip_39_word_no_space_7 | predictsmartskullunveilmangobarrelnotable |  
+| bip_39_word_no_space_8 | predictsmartskullunveilmangobarrelnotabletissue |  
+| bip_39_word_no_space_9 | predictsmartskullunveilmangobarrelnotabletissuefurnace |  
 | bip_39_word_space_0 | ['predict', 'smart', 'skull', 'unveil', 'mango', 'barrel', 'notable', 'tissue', 'furnace', 'deny', 'useful', 'anchor'] |  
 | bip_39_word_space_1 | predict |  
 | bip_39_word_space_10 | predict smart skull unveil mango barrel notable tissue furnace deny |  

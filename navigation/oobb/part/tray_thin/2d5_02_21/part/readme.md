@@ -122,6 +122,18 @@ patch
 around
 prison
 bullet |  
+| bip_39_word_no_space_1 | swear |  
+| bip_39_word_no_space_10 | swearbitterwildmessagelevelpatcharoundprisonbulletscout |  
+| bip_39_word_no_space_11 | swearbitterwildmessagelevelpatcharoundprisonbulletscoutinch |  
+| bip_39_word_no_space_12 | swearbitterwildmessagelevelpatcharoundprisonbulletscoutinchacquire |  
+| bip_39_word_no_space_2 | swearbitter |  
+| bip_39_word_no_space_3 | swearbitterwild |  
+| bip_39_word_no_space_4 | swearbitterwildmessage |  
+| bip_39_word_no_space_5 | swearbitterwildmessagelevel |  
+| bip_39_word_no_space_6 | swearbitterwildmessagelevelpatch |  
+| bip_39_word_no_space_7 | swearbitterwildmessagelevelpatcharound |  
+| bip_39_word_no_space_8 | swearbitterwildmessagelevelpatcharoundprison |  
+| bip_39_word_no_space_9 | swearbitterwildmessagelevelpatcharoundprisonbullet |  
 | bip_39_word_space_0 | ['swear', 'bitter', 'wild', 'message', 'level', 'patch', 'around', 'prison', 'bullet', 'scout', 'inch', 'acquire'] |  
 | bip_39_word_space_1 | swear |  
 | bip_39_word_space_10 | swear bitter wild message level patch around prison bullet scout |  

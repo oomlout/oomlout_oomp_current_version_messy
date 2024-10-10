@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'census
   mixture
 
   century'
+bip_39_word_no_space_1: census
+bip_39_word_no_space_10: censusfindexitawarelifeverifyvapormixturecenturyflash
+bip_39_word_no_space_11: censusfindexitawarelifeverifyvapormixturecenturyflashdog
+bip_39_word_no_space_12: censusfindexitawarelifeverifyvapormixturecenturyflashdogabuse
+bip_39_word_no_space_2: censusfind
+bip_39_word_no_space_3: censusfindexit
+bip_39_word_no_space_4: censusfindexitaware
+bip_39_word_no_space_5: censusfindexitawarelife
+bip_39_word_no_space_6: censusfindexitawarelifeverify
+bip_39_word_no_space_7: censusfindexitawarelifeverifyvapor
+bip_39_word_no_space_8: censusfindexitawarelifeverifyvapormixture
+bip_39_word_no_space_9: censusfindexitawarelifeverifyvapormixturecentury
 bip_39_word_space_0:
 - census
 - find

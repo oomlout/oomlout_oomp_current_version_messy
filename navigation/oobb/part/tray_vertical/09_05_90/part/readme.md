@@ -122,6 +122,18 @@ liar
 skirt
 transfer
 glass |  
+| bip_39_word_no_space_1 | tobacco |  
+| bip_39_word_no_space_10 | tobaccoorchardchargesurgechurnliarskirttransferglassmom |  
+| bip_39_word_no_space_11 | tobaccoorchardchargesurgechurnliarskirttransferglassmomfashion |  
+| bip_39_word_no_space_12 | tobaccoorchardchargesurgechurnliarskirttransferglassmomfashionattend |  
+| bip_39_word_no_space_2 | tobaccoorchard |  
+| bip_39_word_no_space_3 | tobaccoorchardcharge |  
+| bip_39_word_no_space_4 | tobaccoorchardchargesurge |  
+| bip_39_word_no_space_5 | tobaccoorchardchargesurgechurn |  
+| bip_39_word_no_space_6 | tobaccoorchardchargesurgechurnliar |  
+| bip_39_word_no_space_7 | tobaccoorchardchargesurgechurnliarskirt |  
+| bip_39_word_no_space_8 | tobaccoorchardchargesurgechurnliarskirttransfer |  
+| bip_39_word_no_space_9 | tobaccoorchardchargesurgechurnliarskirttransferglass |  
 | bip_39_word_space_0 | ['tobacco', 'orchard', 'charge', 'surge', 'churn', 'liar', 'skirt', 'transfer', 'glass', 'mom', 'fashion', 'attend'] |  
 | bip_39_word_space_1 | tobacco |  
 | bip_39_word_space_10 | tobacco orchard charge surge churn liar skirt transfer glass mom |  

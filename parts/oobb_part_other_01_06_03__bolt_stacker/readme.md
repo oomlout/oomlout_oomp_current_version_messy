@@ -122,6 +122,18 @@ improve
 power
 pluck
 patrol |  
+| bip_39_word_no_space_1 | strong |  
+| bip_39_word_no_space_10 | strongprosperenterbabyfindimprovepowerpluckpatrolanchor |  
+| bip_39_word_no_space_11 | strongprosperenterbabyfindimprovepowerpluckpatrolanchorspring |  
+| bip_39_word_no_space_12 | strongprosperenterbabyfindimprovepowerpluckpatrolanchorspringamateur |  
+| bip_39_word_no_space_2 | strongprosper |  
+| bip_39_word_no_space_3 | strongprosperenter |  
+| bip_39_word_no_space_4 | strongprosperenterbaby |  
+| bip_39_word_no_space_5 | strongprosperenterbabyfind |  
+| bip_39_word_no_space_6 | strongprosperenterbabyfindimprove |  
+| bip_39_word_no_space_7 | strongprosperenterbabyfindimprovepower |  
+| bip_39_word_no_space_8 | strongprosperenterbabyfindimprovepowerpluck |  
+| bip_39_word_no_space_9 | strongprosperenterbabyfindimprovepowerpluckpatrol |  
 | bip_39_word_space_0 | ['strong', 'prosper', 'enter', 'baby', 'find', 'improve', 'power', 'pluck', 'patrol', 'anchor', 'spring', 'amateur'] |  
 | bip_39_word_space_1 | strong |  
 | bip_39_word_space_10 | strong prosper enter baby find improve power pluck patrol anchor |  

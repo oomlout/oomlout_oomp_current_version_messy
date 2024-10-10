@@ -122,6 +122,18 @@ more
 safe
 defense
 slim |  
+| bip_39_word_no_space_1 | sword |  
+| bip_39_word_no_space_10 | swordableketchupparrotslendermoresafedefenseslimblood |  
+| bip_39_word_no_space_11 | swordableketchupparrotslendermoresafedefenseslimbloodpayment |  
+| bip_39_word_no_space_12 | swordableketchupparrotslendermoresafedefenseslimbloodpaymentalert |  
+| bip_39_word_no_space_2 | swordable |  
+| bip_39_word_no_space_3 | swordableketchup |  
+| bip_39_word_no_space_4 | swordableketchupparrot |  
+| bip_39_word_no_space_5 | swordableketchupparrotslender |  
+| bip_39_word_no_space_6 | swordableketchupparrotslendermore |  
+| bip_39_word_no_space_7 | swordableketchupparrotslendermoresafe |  
+| bip_39_word_no_space_8 | swordableketchupparrotslendermoresafedefense |  
+| bip_39_word_no_space_9 | swordableketchupparrotslendermoresafedefenseslim |  
 | bip_39_word_space_0 | ['sword', 'able', 'ketchup', 'parrot', 'slender', 'more', 'safe', 'defense', 'slim', 'blood', 'payment', 'alert'] |  
 | bip_39_word_space_1 | sword |  
 | bip_39_word_space_10 | sword able ketchup parrot slender more safe defense slim blood |  

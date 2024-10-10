@@ -122,6 +122,18 @@ bread
 luxury
 govern
 visa |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessstairsvalidcreditcastlebreadluxurygovernvisawitness |  
+| bip_39_word_no_space_11 | fitnessstairsvalidcreditcastlebreadluxurygovernvisawitnessship |  
+| bip_39_word_no_space_12 | fitnessstairsvalidcreditcastlebreadluxurygovernvisawitnessshipany |  
+| bip_39_word_no_space_2 | fitnessstairs |  
+| bip_39_word_no_space_3 | fitnessstairsvalid |  
+| bip_39_word_no_space_4 | fitnessstairsvalidcredit |  
+| bip_39_word_no_space_5 | fitnessstairsvalidcreditcastle |  
+| bip_39_word_no_space_6 | fitnessstairsvalidcreditcastlebread |  
+| bip_39_word_no_space_7 | fitnessstairsvalidcreditcastlebreadluxury |  
+| bip_39_word_no_space_8 | fitnessstairsvalidcreditcastlebreadluxurygovern |  
+| bip_39_word_no_space_9 | fitnessstairsvalidcreditcastlebreadluxurygovernvisa |  
 | bip_39_word_space_0 | ['fitness', 'stairs', 'valid', 'credit', 'castle', 'bread', 'luxury', 'govern', 'visa', 'witness', 'ship', 'any'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness stairs valid credit castle bread luxury govern visa witness |  

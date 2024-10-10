@@ -122,6 +122,18 @@ weasel
 grace
 curious
 lobster |  
+| bip_39_word_no_space_1 | ice |  
+| bip_39_word_no_space_10 | icepigplungeshiparmedweaselgracecuriouslobstertissue |  
+| bip_39_word_no_space_11 | icepigplungeshiparmedweaselgracecuriouslobstertissuenormal |  
+| bip_39_word_no_space_12 | icepigplungeshiparmedweaselgracecuriouslobstertissuenormalartist |  
+| bip_39_word_no_space_2 | icepig |  
+| bip_39_word_no_space_3 | icepigplunge |  
+| bip_39_word_no_space_4 | icepigplungeship |  
+| bip_39_word_no_space_5 | icepigplungeshiparmed |  
+| bip_39_word_no_space_6 | icepigplungeshiparmedweasel |  
+| bip_39_word_no_space_7 | icepigplungeshiparmedweaselgrace |  
+| bip_39_word_no_space_8 | icepigplungeshiparmedweaselgracecurious |  
+| bip_39_word_no_space_9 | icepigplungeshiparmedweaselgracecuriouslobster |  
 | bip_39_word_space_0 | ['ice', 'pig', 'plunge', 'ship', 'armed', 'weasel', 'grace', 'curious', 'lobster', 'tissue', 'normal', 'artist'] |  
 | bip_39_word_space_1 | ice |  
 | bip_39_word_space_10 | ice pig plunge ship armed weasel grace curious lobster tissue |  

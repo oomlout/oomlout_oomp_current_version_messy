@@ -122,6 +122,18 @@ swim
 badge
 monster
 permit |  
+| bip_39_word_no_space_1 | barely |  
+| bip_39_word_no_space_10 | barelyclickpumpkinoceanshallowswimbadgemonsterpermitshuffle |  
+| bip_39_word_no_space_11 | barelyclickpumpkinoceanshallowswimbadgemonsterpermitshuffleboard |  
+| bip_39_word_no_space_12 | barelyclickpumpkinoceanshallowswimbadgemonsterpermitshuffleboardafford |  
+| bip_39_word_no_space_2 | barelyclick |  
+| bip_39_word_no_space_3 | barelyclickpumpkin |  
+| bip_39_word_no_space_4 | barelyclickpumpkinocean |  
+| bip_39_word_no_space_5 | barelyclickpumpkinoceanshallow |  
+| bip_39_word_no_space_6 | barelyclickpumpkinoceanshallowswim |  
+| bip_39_word_no_space_7 | barelyclickpumpkinoceanshallowswimbadge |  
+| bip_39_word_no_space_8 | barelyclickpumpkinoceanshallowswimbadgemonster |  
+| bip_39_word_no_space_9 | barelyclickpumpkinoceanshallowswimbadgemonsterpermit |  
 | bip_39_word_space_0 | ['barely', 'click', 'pumpkin', 'ocean', 'shallow', 'swim', 'badge', 'monster', 'permit', 'shuffle', 'board', 'afford'] |  
 | bip_39_word_space_1 | barely |  
 | bip_39_word_space_10 | barely click pumpkin ocean shallow swim badge monster permit shuffle |  

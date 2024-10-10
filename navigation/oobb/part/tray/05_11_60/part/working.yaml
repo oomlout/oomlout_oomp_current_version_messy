@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'depart
   word
 
   kangaroo'
+bip_39_word_no_space_1: depart
+bip_39_word_no_space_10: departtheyinsaneholidaytrimghostwidewordkangaroorepair
+bip_39_word_no_space_11: departtheyinsaneholidaytrimghostwidewordkangaroorepairconcert
+bip_39_word_no_space_2: departthey
+bip_39_word_no_space_3: departtheyinsane
+bip_39_word_no_space_4: departtheyinsaneholiday
+bip_39_word_no_space_5: departtheyinsaneholidaytrim
+bip_39_word_no_space_6: departtheyinsaneholidaytrimghost
+bip_39_word_no_space_7: departtheyinsaneholidaytrimghostwide
+bip_39_word_no_space_8: departtheyinsaneholidaytrimghostwideword
+bip_39_word_no_space_9: departtheyinsaneholidaytrimghostwidewordkangaroo
 bip_39_word_space_0:
 - depart
 - they

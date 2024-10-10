@@ -122,6 +122,18 @@ laptop
 glass
 reflect
 ordinary |  
+| bip_39_word_no_space_1 | smooth |  
+| bip_39_word_no_space_10 | smoothvideopencilmonkeybelievelaptopglassreflectordinaryeye |  
+| bip_39_word_no_space_11 | smoothvideopencilmonkeybelievelaptopglassreflectordinaryeyerude |  
+| bip_39_word_no_space_12 | smoothvideopencilmonkeybelievelaptopglassreflectordinaryeyerudeaudit |  
+| bip_39_word_no_space_2 | smoothvideo |  
+| bip_39_word_no_space_3 | smoothvideopencil |  
+| bip_39_word_no_space_4 | smoothvideopencilmonkey |  
+| bip_39_word_no_space_5 | smoothvideopencilmonkeybelieve |  
+| bip_39_word_no_space_6 | smoothvideopencilmonkeybelievelaptop |  
+| bip_39_word_no_space_7 | smoothvideopencilmonkeybelievelaptopglass |  
+| bip_39_word_no_space_8 | smoothvideopencilmonkeybelievelaptopglassreflect |  
+| bip_39_word_no_space_9 | smoothvideopencilmonkeybelievelaptopglassreflectordinary |  
 | bip_39_word_space_0 | ['smooth', 'video', 'pencil', 'monkey', 'believe', 'laptop', 'glass', 'reflect', 'ordinary', 'eye', 'rude', 'audit'] |  
 | bip_39_word_space_1 | smooth |  
 | bip_39_word_space_10 | smooth video pencil monkey believe laptop glass reflect ordinary eye |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'trash
   loyal
 
   helmet'
+bip_39_word_no_space_1: trash
+bip_39_word_no_space_10: trashadultpointfeverknowboyhusbandloyalhelmetpriority
+bip_39_word_no_space_11: trashadultpointfeverknowboyhusbandloyalhelmetpriorityslight
+bip_39_word_no_space_12: trashadultpointfeverknowboyhusbandloyalhelmetpriorityslightattitude
+bip_39_word_no_space_2: trashadult
+bip_39_word_no_space_3: trashadultpoint
+bip_39_word_no_space_4: trashadultpointfever
+bip_39_word_no_space_5: trashadultpointfeverknow
+bip_39_word_no_space_6: trashadultpointfeverknowboy
+bip_39_word_no_space_7: trashadultpointfeverknowboyhusband
+bip_39_word_no_space_8: trashadultpointfeverknowboyhusbandloyal
+bip_39_word_no_space_9: trashadultpointfeverknowboyhusbandloyalhelmet
 bip_39_word_space_0:
 - trash
 - adult

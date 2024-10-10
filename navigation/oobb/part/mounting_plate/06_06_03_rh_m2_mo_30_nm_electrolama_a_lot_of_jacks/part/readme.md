@@ -122,6 +122,18 @@ wood
 aim
 rebel
 ill |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raiseclubgrabcramrandomwoodaimrebelillnight |  
+| bip_39_word_no_space_11 | raiseclubgrabcramrandomwoodaimrebelillnightcotton |  
+| bip_39_word_no_space_12 | raiseclubgrabcramrandomwoodaimrebelillnightcottonalley |  
+| bip_39_word_no_space_2 | raiseclub |  
+| bip_39_word_no_space_3 | raiseclubgrab |  
+| bip_39_word_no_space_4 | raiseclubgrabcram |  
+| bip_39_word_no_space_5 | raiseclubgrabcramrandom |  
+| bip_39_word_no_space_6 | raiseclubgrabcramrandomwood |  
+| bip_39_word_no_space_7 | raiseclubgrabcramrandomwoodaim |  
+| bip_39_word_no_space_8 | raiseclubgrabcramrandomwoodaimrebel |  
+| bip_39_word_no_space_9 | raiseclubgrabcramrandomwoodaimrebelill |  
 | bip_39_word_space_0 | ['raise', 'club', 'grab', 'cram', 'random', 'wood', 'aim', 'rebel', 'ill', 'night', 'cotton', 'alley'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise club grab cram random wood aim rebel ill night |  

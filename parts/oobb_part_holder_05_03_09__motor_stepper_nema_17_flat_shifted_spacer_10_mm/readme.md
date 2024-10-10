@@ -122,6 +122,18 @@ avoid
 short
 bomb
 wage |  
+| bip_39_word_no_space_1 | angry |  
+| bip_39_word_no_space_10 | angrytribeversionintactinsaneavoidshortbombwagedynamic |  
+| bip_39_word_no_space_11 | angrytribeversionintactinsaneavoidshortbombwagedynamicfarm |  
+| bip_39_word_no_space_12 | angrytribeversionintactinsaneavoidshortbombwagedynamicfarmalmost |  
+| bip_39_word_no_space_2 | angrytribe |  
+| bip_39_word_no_space_3 | angrytribeversion |  
+| bip_39_word_no_space_4 | angrytribeversionintact |  
+| bip_39_word_no_space_5 | angrytribeversionintactinsane |  
+| bip_39_word_no_space_6 | angrytribeversionintactinsaneavoid |  
+| bip_39_word_no_space_7 | angrytribeversionintactinsaneavoidshort |  
+| bip_39_word_no_space_8 | angrytribeversionintactinsaneavoidshortbomb |  
+| bip_39_word_no_space_9 | angrytribeversionintactinsaneavoidshortbombwage |  
 | bip_39_word_space_0 | ['angry', 'tribe', 'version', 'intact', 'insane', 'avoid', 'short', 'bomb', 'wage', 'dynamic', 'farm', 'almost'] |  
 | bip_39_word_space_1 | angry |  
 | bip_39_word_space_10 | angry tribe version intact insane avoid short bomb wage dynamic |  

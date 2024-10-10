@@ -122,6 +122,18 @@ inside
 ceiling
 nurse
 worry |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkfantasyearlyenactpaymentinsideceilingnurseworryweird |  
+| bip_39_word_no_space_11 | chalkfantasyearlyenactpaymentinsideceilingnurseworryweirdumbrella |  
+| bip_39_word_no_space_12 | chalkfantasyearlyenactpaymentinsideceilingnurseworryweirdumbrellaasset |  
+| bip_39_word_no_space_2 | chalkfantasy |  
+| bip_39_word_no_space_3 | chalkfantasyearly |  
+| bip_39_word_no_space_4 | chalkfantasyearlyenact |  
+| bip_39_word_no_space_5 | chalkfantasyearlyenactpayment |  
+| bip_39_word_no_space_6 | chalkfantasyearlyenactpaymentinside |  
+| bip_39_word_no_space_7 | chalkfantasyearlyenactpaymentinsideceiling |  
+| bip_39_word_no_space_8 | chalkfantasyearlyenactpaymentinsideceilingnurse |  
+| bip_39_word_no_space_9 | chalkfantasyearlyenactpaymentinsideceilingnurseworry |  
 | bip_39_word_space_0 | ['chalk', 'fantasy', 'early', 'enact', 'payment', 'inside', 'ceiling', 'nurse', 'worry', 'weird', 'umbrella', 'asset'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk fantasy early enact payment inside ceiling nurse worry weird |  

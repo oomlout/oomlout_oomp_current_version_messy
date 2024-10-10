@@ -122,6 +122,18 @@ slide
 spread
 farm
 weekend |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | henturtledashjumpcraterslidespreadfarmweekendwrestle |  
+| bip_39_word_no_space_11 | henturtledashjumpcraterslidespreadfarmweekendwrestlecaution |  
+| bip_39_word_no_space_12 | henturtledashjumpcraterslidespreadfarmweekendwrestlecautionartist |  
+| bip_39_word_no_space_2 | henturtle |  
+| bip_39_word_no_space_3 | henturtledash |  
+| bip_39_word_no_space_4 | henturtledashjump |  
+| bip_39_word_no_space_5 | henturtledashjumpcrater |  
+| bip_39_word_no_space_6 | henturtledashjumpcraterslide |  
+| bip_39_word_no_space_7 | henturtledashjumpcraterslidespread |  
+| bip_39_word_no_space_8 | henturtledashjumpcraterslidespreadfarm |  
+| bip_39_word_no_space_9 | henturtledashjumpcraterslidespreadfarmweekend |  
 | bip_39_word_space_0 | ['hen', 'turtle', 'dash', 'jump', 'crater', 'slide', 'spread', 'farm', 'weekend', 'wrestle', 'caution', 'artist'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen turtle dash jump crater slide spread farm weekend wrestle |  

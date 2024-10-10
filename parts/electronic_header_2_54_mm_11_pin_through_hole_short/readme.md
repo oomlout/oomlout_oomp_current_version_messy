@@ -122,6 +122,18 @@ okay
 pretty
 exile
 loan |  
+| bip_39_word_no_space_1 | faculty |  
+| bip_39_word_no_space_10 | facultyswingtailblamecycleokayprettyexileloangossip |  
+| bip_39_word_no_space_11 | facultyswingtailblamecycleokayprettyexileloangossipdeputy |  
+| bip_39_word_no_space_12 | facultyswingtailblamecycleokayprettyexileloangossipdeputyalpha |  
+| bip_39_word_no_space_2 | facultyswing |  
+| bip_39_word_no_space_3 | facultyswingtail |  
+| bip_39_word_no_space_4 | facultyswingtailblame |  
+| bip_39_word_no_space_5 | facultyswingtailblamecycle |  
+| bip_39_word_no_space_6 | facultyswingtailblamecycleokay |  
+| bip_39_word_no_space_7 | facultyswingtailblamecycleokaypretty |  
+| bip_39_word_no_space_8 | facultyswingtailblamecycleokayprettyexile |  
+| bip_39_word_no_space_9 | facultyswingtailblamecycleokayprettyexileloan |  
 | bip_39_word_space_0 | ['faculty', 'swing', 'tail', 'blame', 'cycle', 'okay', 'pretty', 'exile', 'loan', 'gossip', 'deputy', 'alpha'] |  
 | bip_39_word_space_1 | faculty |  
 | bip_39_word_space_10 | faculty swing tail blame cycle okay pretty exile loan gossip |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tomorrow
   oval
 
   biology'
+bip_39_word_no_space_1: tomorrow
+bip_39_word_no_space_10: tomorrowboxivoryequalverbbreadsadovalbiologyonline
+bip_39_word_no_space_11: tomorrowboxivoryequalverbbreadsadovalbiologyonlinereason
+bip_39_word_no_space_12: tomorrowboxivoryequalverbbreadsadovalbiologyonlinereasonarctic
+bip_39_word_no_space_2: tomorrowbox
+bip_39_word_no_space_3: tomorrowboxivory
+bip_39_word_no_space_4: tomorrowboxivoryequal
+bip_39_word_no_space_5: tomorrowboxivoryequalverb
+bip_39_word_no_space_6: tomorrowboxivoryequalverbbread
+bip_39_word_no_space_7: tomorrowboxivoryequalverbbreadsad
+bip_39_word_no_space_8: tomorrowboxivoryequalverbbreadsadoval
+bip_39_word_no_space_9: tomorrowboxivoryequalverbbreadsadovalbiology
 bip_39_word_space_0:
 - tomorrow
 - box

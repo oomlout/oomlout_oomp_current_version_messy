@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chicken
   indoor
 
   ostrich'
+bip_39_word_no_space_1: chicken
+bip_39_word_no_space_10: chickenchalktwodivorceitemgoatbounceindoorostrichhammer
+bip_39_word_no_space_11: chickenchalktwodivorceitemgoatbounceindoorostrichhammerprint
+bip_39_word_no_space_12: chickenchalktwodivorceitemgoatbounceindoorostrichhammerprintabuse
+bip_39_word_no_space_2: chickenchalk
+bip_39_word_no_space_3: chickenchalktwo
+bip_39_word_no_space_4: chickenchalktwodivorce
+bip_39_word_no_space_5: chickenchalktwodivorceitem
+bip_39_word_no_space_6: chickenchalktwodivorceitemgoat
+bip_39_word_no_space_7: chickenchalktwodivorceitemgoatbounce
+bip_39_word_no_space_8: chickenchalktwodivorceitemgoatbounceindoor
+bip_39_word_no_space_9: chickenchalktwodivorceitemgoatbounceindoorostrich
 bip_39_word_space_0:
 - chicken
 - chalk

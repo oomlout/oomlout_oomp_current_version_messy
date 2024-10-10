@@ -122,6 +122,18 @@ hole
 episode
 jealous
 fence |  
+| bip_39_word_no_space_1 | remind |  
+| bip_39_word_no_space_10 | remindstonesimpletheorymarriageholeepisodejealousfencerule |  
+| bip_39_word_no_space_11 | remindstonesimpletheorymarriageholeepisodejealousfencerulevote |  
+| bip_39_word_no_space_12 | remindstonesimpletheorymarriageholeepisodejealousfencerulevotealley |  
+| bip_39_word_no_space_2 | remindstone |  
+| bip_39_word_no_space_3 | remindstonesimple |  
+| bip_39_word_no_space_4 | remindstonesimpletheory |  
+| bip_39_word_no_space_5 | remindstonesimpletheorymarriage |  
+| bip_39_word_no_space_6 | remindstonesimpletheorymarriagehole |  
+| bip_39_word_no_space_7 | remindstonesimpletheorymarriageholeepisode |  
+| bip_39_word_no_space_8 | remindstonesimpletheorymarriageholeepisodejealous |  
+| bip_39_word_no_space_9 | remindstonesimpletheorymarriageholeepisodejealousfence |  
 | bip_39_word_space_0 | ['remind', 'stone', 'simple', 'theory', 'marriage', 'hole', 'episode', 'jealous', 'fence', 'rule', 'vote', 'alley'] |  
 | bip_39_word_space_1 | remind |  
 | bip_39_word_space_10 | remind stone simple theory marriage hole episode jealous fence rule |  

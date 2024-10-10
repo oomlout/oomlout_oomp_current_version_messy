@@ -122,6 +122,18 @@ knife
 claw
 unhappy
 citizen |  
+| bip_39_word_no_space_1 | around |  
+| bip_39_word_no_space_10 | aroundsayreturnjustfunnyknifeclawunhappycitizenhotel |  
+| bip_39_word_no_space_11 | aroundsayreturnjustfunnyknifeclawunhappycitizenhotelslim |  
+| bip_39_word_no_space_12 | aroundsayreturnjustfunnyknifeclawunhappycitizenhotelslimadapt |  
+| bip_39_word_no_space_2 | aroundsay |  
+| bip_39_word_no_space_3 | aroundsayreturn |  
+| bip_39_word_no_space_4 | aroundsayreturnjust |  
+| bip_39_word_no_space_5 | aroundsayreturnjustfunny |  
+| bip_39_word_no_space_6 | aroundsayreturnjustfunnyknife |  
+| bip_39_word_no_space_7 | aroundsayreturnjustfunnyknifeclaw |  
+| bip_39_word_no_space_8 | aroundsayreturnjustfunnyknifeclawunhappy |  
+| bip_39_word_no_space_9 | aroundsayreturnjustfunnyknifeclawunhappycitizen |  
 | bip_39_word_space_0 | ['around', 'say', 'return', 'just', 'funny', 'knife', 'claw', 'unhappy', 'citizen', 'hotel', 'slim', 'adapt'] |  
 | bip_39_word_space_1 | around |  
 | bip_39_word_space_10 | around say return just funny knife claw unhappy citizen hotel |  

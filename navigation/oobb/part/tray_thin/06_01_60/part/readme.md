@@ -122,6 +122,18 @@ define
 point
 elegant
 faith |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furysoftpitchpieceflashdefinepointelegantfaithowner |  
+| bip_39_word_no_space_11 | furysoftpitchpieceflashdefinepointelegantfaithowneramount |  
+| bip_39_word_no_space_12 | furysoftpitchpieceflashdefinepointelegantfaithowneramountanalyst |  
+| bip_39_word_no_space_2 | furysoft |  
+| bip_39_word_no_space_3 | furysoftpitch |  
+| bip_39_word_no_space_4 | furysoftpitchpiece |  
+| bip_39_word_no_space_5 | furysoftpitchpieceflash |  
+| bip_39_word_no_space_6 | furysoftpitchpieceflashdefine |  
+| bip_39_word_no_space_7 | furysoftpitchpieceflashdefinepoint |  
+| bip_39_word_no_space_8 | furysoftpitchpieceflashdefinepointelegant |  
+| bip_39_word_no_space_9 | furysoftpitchpieceflashdefinepointelegantfaith |  
 | bip_39_word_space_0 | ['fury', 'soft', 'pitch', 'piece', 'flash', 'define', 'point', 'elegant', 'faith', 'owner', 'amount', 'analyst'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury soft pitch piece flash define point elegant faith owner |  

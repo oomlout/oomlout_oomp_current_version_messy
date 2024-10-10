@@ -122,6 +122,18 @@ add
 parade
 question
 top |  
+| bip_39_word_no_space_1 | state |  
+| bip_39_word_no_space_10 | stateshallowceilingpersonrugaddparadequestiontopshiver |  
+| bip_39_word_no_space_11 | stateshallowceilingpersonrugaddparadequestiontopshiverstem |  
+| bip_39_word_no_space_12 | stateshallowceilingpersonrugaddparadequestiontopshiverstemacross |  
+| bip_39_word_no_space_2 | stateshallow |  
+| bip_39_word_no_space_3 | stateshallowceiling |  
+| bip_39_word_no_space_4 | stateshallowceilingperson |  
+| bip_39_word_no_space_5 | stateshallowceilingpersonrug |  
+| bip_39_word_no_space_6 | stateshallowceilingpersonrugadd |  
+| bip_39_word_no_space_7 | stateshallowceilingpersonrugaddparade |  
+| bip_39_word_no_space_8 | stateshallowceilingpersonrugaddparadequestion |  
+| bip_39_word_no_space_9 | stateshallowceilingpersonrugaddparadequestiontop |  
 | bip_39_word_space_0 | ['state', 'shallow', 'ceiling', 'person', 'rug', 'add', 'parade', 'question', 'top', 'shiver', 'stem', 'across'] |  
 | bip_39_word_space_1 | state |  
 | bip_39_word_space_10 | state shallow ceiling person rug add parade question top shiver |  

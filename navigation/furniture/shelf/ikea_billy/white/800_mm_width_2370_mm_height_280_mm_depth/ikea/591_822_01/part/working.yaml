@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'before
   alter
 
   hello'
+bip_39_word_no_space_1: before
+bip_39_word_no_space_10: beforetowermethodgaragedoublebikeopenalterhellostumble
+bip_39_word_no_space_11: beforetowermethodgaragedoublebikeopenalterhellostumblefeature
+bip_39_word_no_space_12: beforetowermethodgaragedoublebikeopenalterhellostumblefeatureahead
+bip_39_word_no_space_2: beforetower
+bip_39_word_no_space_3: beforetowermethod
+bip_39_word_no_space_4: beforetowermethodgarage
+bip_39_word_no_space_5: beforetowermethodgaragedouble
+bip_39_word_no_space_6: beforetowermethodgaragedoublebike
+bip_39_word_no_space_7: beforetowermethodgaragedoublebikeopen
+bip_39_word_no_space_8: beforetowermethodgaragedoublebikeopenalter
+bip_39_word_no_space_9: beforetowermethodgaragedoublebikeopenalterhello
 bip_39_word_space_0:
 - before
 - tower

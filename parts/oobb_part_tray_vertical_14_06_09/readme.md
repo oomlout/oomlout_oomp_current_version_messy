@@ -122,6 +122,18 @@ lava
 differ
 elevator
 update |  
+| bip_39_word_no_space_1 | tilt |  
+| bip_39_word_no_space_10 | tiltcomicprojectcupsurveylavadifferelevatorupdateshrug |  
+| bip_39_word_no_space_11 | tiltcomicprojectcupsurveylavadifferelevatorupdateshrugplease |  
+| bip_39_word_no_space_12 | tiltcomicprojectcupsurveylavadifferelevatorupdateshrugpleaseapprove |  
+| bip_39_word_no_space_2 | tiltcomic |  
+| bip_39_word_no_space_3 | tiltcomicproject |  
+| bip_39_word_no_space_4 | tiltcomicprojectcup |  
+| bip_39_word_no_space_5 | tiltcomicprojectcupsurvey |  
+| bip_39_word_no_space_6 | tiltcomicprojectcupsurveylava |  
+| bip_39_word_no_space_7 | tiltcomicprojectcupsurveylavadiffer |  
+| bip_39_word_no_space_8 | tiltcomicprojectcupsurveylavadifferelevator |  
+| bip_39_word_no_space_9 | tiltcomicprojectcupsurveylavadifferelevatorupdate |  
 | bip_39_word_space_0 | ['tilt', 'comic', 'project', 'cup', 'survey', 'lava', 'differ', 'elevator', 'update', 'shrug', 'please', 'approve'] |  
 | bip_39_word_space_1 | tilt |  
 | bip_39_word_space_10 | tilt comic project cup survey lava differ elevator update shrug |  

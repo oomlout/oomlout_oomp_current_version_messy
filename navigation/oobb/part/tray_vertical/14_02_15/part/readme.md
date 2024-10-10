@@ -122,6 +122,18 @@ benefit
 someone
 tenant
 genre |  
+| bip_39_word_no_space_1 | mind |  
+| bip_39_word_no_space_10 | mindhurrywingkissborderbenefitsomeonetenantgenrematerial |  
+| bip_39_word_no_space_11 | mindhurrywingkissborderbenefitsomeonetenantgenrematerialpen |  
+| bip_39_word_no_space_12 | mindhurrywingkissborderbenefitsomeonetenantgenrematerialpenattitude |  
+| bip_39_word_no_space_2 | mindhurry |  
+| bip_39_word_no_space_3 | mindhurrywing |  
+| bip_39_word_no_space_4 | mindhurrywingkiss |  
+| bip_39_word_no_space_5 | mindhurrywingkissborder |  
+| bip_39_word_no_space_6 | mindhurrywingkissborderbenefit |  
+| bip_39_word_no_space_7 | mindhurrywingkissborderbenefitsomeone |  
+| bip_39_word_no_space_8 | mindhurrywingkissborderbenefitsomeonetenant |  
+| bip_39_word_no_space_9 | mindhurrywingkissborderbenefitsomeonetenantgenre |  
 | bip_39_word_space_0 | ['mind', 'hurry', 'wing', 'kiss', 'border', 'benefit', 'someone', 'tenant', 'genre', 'material', 'pen', 'attitude'] |  
 | bip_39_word_space_1 | mind |  
 | bip_39_word_space_10 | mind hurry wing kiss border benefit someone tenant genre material |  

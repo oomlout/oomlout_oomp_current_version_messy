@@ -122,6 +122,18 @@ clap
 ice
 happy
 cupboard |  
+| bip_39_word_no_space_1 | cushion |  
+| bip_39_word_no_space_10 | cushionozonegraperangeminimumclapicehappycupboardchase |  
+| bip_39_word_no_space_11 | cushionozonegraperangeminimumclapicehappycupboardchasenest |  
+| bip_39_word_no_space_12 | cushionozonegraperangeminimumclapicehappycupboardchasenestattitude |  
+| bip_39_word_no_space_2 | cushionozone |  
+| bip_39_word_no_space_3 | cushionozonegrape |  
+| bip_39_word_no_space_4 | cushionozonegraperange |  
+| bip_39_word_no_space_5 | cushionozonegraperangeminimum |  
+| bip_39_word_no_space_6 | cushionozonegraperangeminimumclap |  
+| bip_39_word_no_space_7 | cushionozonegraperangeminimumclapice |  
+| bip_39_word_no_space_8 | cushionozonegraperangeminimumclapicehappy |  
+| bip_39_word_no_space_9 | cushionozonegraperangeminimumclapicehappycupboard |  
 | bip_39_word_space_0 | ['cushion', 'ozone', 'grape', 'range', 'minimum', 'clap', 'ice', 'happy', 'cupboard', 'chase', 'nest', 'attitude'] |  
 | bip_39_word_space_1 | cushion |  
 | bip_39_word_space_10 | cushion ozone grape range minimum clap ice happy cupboard chase |  

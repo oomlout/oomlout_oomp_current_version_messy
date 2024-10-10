@@ -122,6 +122,18 @@ ripple
 defense
 salute
 like |  
+| bip_39_word_no_space_1 | language |  
+| bip_39_word_no_space_10 | languagevillagebudgetthoughtsiblingrippledefensesalutelikedesign |  
+| bip_39_word_no_space_11 | languagevillagebudgetthoughtsiblingrippledefensesalutelikedesignborrow |  
+| bip_39_word_no_space_12 | languagevillagebudgetthoughtsiblingrippledefensesalutelikedesignborrowatom |  
+| bip_39_word_no_space_2 | languagevillage |  
+| bip_39_word_no_space_3 | languagevillagebudget |  
+| bip_39_word_no_space_4 | languagevillagebudgetthought |  
+| bip_39_word_no_space_5 | languagevillagebudgetthoughtsibling |  
+| bip_39_word_no_space_6 | languagevillagebudgetthoughtsiblingripple |  
+| bip_39_word_no_space_7 | languagevillagebudgetthoughtsiblingrippledefense |  
+| bip_39_word_no_space_8 | languagevillagebudgetthoughtsiblingrippledefensesalute |  
+| bip_39_word_no_space_9 | languagevillagebudgetthoughtsiblingrippledefensesalutelike |  
 | bip_39_word_space_0 | ['language', 'village', 'budget', 'thought', 'sibling', 'ripple', 'defense', 'salute', 'like', 'design', 'borrow', 'atom'] |  
 | bip_39_word_space_1 | language |  
 | bip_39_word_space_10 | language village budget thought sibling ripple defense salute like design |  

@@ -122,6 +122,18 @@ core
 quote
 lecture
 denial |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtletopcatalogdentistcabincorequotelecturedenialunusual |  
+| bip_39_word_no_space_11 | turtletopcatalogdentistcabincorequotelecturedenialunusualchaos |  
+| bip_39_word_no_space_12 | turtletopcatalogdentistcabincorequotelecturedenialunusualchaosauthor |  
+| bip_39_word_no_space_2 | turtletop |  
+| bip_39_word_no_space_3 | turtletopcatalog |  
+| bip_39_word_no_space_4 | turtletopcatalogdentist |  
+| bip_39_word_no_space_5 | turtletopcatalogdentistcabin |  
+| bip_39_word_no_space_6 | turtletopcatalogdentistcabincore |  
+| bip_39_word_no_space_7 | turtletopcatalogdentistcabincorequote |  
+| bip_39_word_no_space_8 | turtletopcatalogdentistcabincorequotelecture |  
+| bip_39_word_no_space_9 | turtletopcatalogdentistcabincorequotelecturedenial |  
 | bip_39_word_space_0 | ['turtle', 'top', 'catalog', 'dentist', 'cabin', 'core', 'quote', 'lecture', 'denial', 'unusual', 'chaos', 'author'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle top catalog dentist cabin core quote lecture denial unusual |  

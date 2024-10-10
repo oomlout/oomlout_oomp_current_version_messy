@@ -122,6 +122,18 @@ liquid
 derive
 plug
 popular |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentknowassaultdoseseekliquidderiveplugpopularstaff |  
+| bip_39_word_no_space_11 | accidentknowassaultdoseseekliquidderiveplugpopularstaffbalance |  
+| bip_39_word_no_space_12 | accidentknowassaultdoseseekliquidderiveplugpopularstaffbalanceangry |  
+| bip_39_word_no_space_2 | accidentknow |  
+| bip_39_word_no_space_3 | accidentknowassault |  
+| bip_39_word_no_space_4 | accidentknowassaultdose |  
+| bip_39_word_no_space_5 | accidentknowassaultdoseseek |  
+| bip_39_word_no_space_6 | accidentknowassaultdoseseekliquid |  
+| bip_39_word_no_space_7 | accidentknowassaultdoseseekliquidderive |  
+| bip_39_word_no_space_8 | accidentknowassaultdoseseekliquidderiveplug |  
+| bip_39_word_no_space_9 | accidentknowassaultdoseseekliquidderiveplugpopular |  
 | bip_39_word_space_0 | ['accident', 'know', 'assault', 'dose', 'seek', 'liquid', 'derive', 'plug', 'popular', 'staff', 'balance', 'angry'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident know assault dose seek liquid derive plug popular staff |  

@@ -122,6 +122,18 @@ chaos
 another
 chair
 below |  
+| bip_39_word_no_space_1 | creek |  
+| bip_39_word_no_space_10 | creekdecoratethiscupdrumchaosanotherchairbelowupgrade |  
+| bip_39_word_no_space_11 | creekdecoratethiscupdrumchaosanotherchairbelowupgradepelican |  
+| bip_39_word_no_space_12 | creekdecoratethiscupdrumchaosanotherchairbelowupgradepelicanadvice |  
+| bip_39_word_no_space_2 | creekdecorate |  
+| bip_39_word_no_space_3 | creekdecoratethis |  
+| bip_39_word_no_space_4 | creekdecoratethiscup |  
+| bip_39_word_no_space_5 | creekdecoratethiscupdrum |  
+| bip_39_word_no_space_6 | creekdecoratethiscupdrumchaos |  
+| bip_39_word_no_space_7 | creekdecoratethiscupdrumchaosanother |  
+| bip_39_word_no_space_8 | creekdecoratethiscupdrumchaosanotherchair |  
+| bip_39_word_no_space_9 | creekdecoratethiscupdrumchaosanotherchairbelow |  
 | bip_39_word_space_0 | ['creek', 'decorate', 'this', 'cup', 'drum', 'chaos', 'another', 'chair', 'below', 'upgrade', 'pelican', 'advice'] |  
 | bip_39_word_space_1 | creek |  
 | bip_39_word_space_10 | creek decorate this cup drum chaos another chair below upgrade |  

@@ -122,6 +122,18 @@ shoot
 aim
 pulp
 sure |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmaelementvesselsunnyblindshootaimpulpsurecluster |  
+| bip_39_word_no_space_11 | asthmaelementvesselsunnyblindshootaimpulpsureclusterflame |  
+| bip_39_word_no_space_12 | asthmaelementvesselsunnyblindshootaimpulpsureclusterflameaunt |  
+| bip_39_word_no_space_2 | asthmaelement |  
+| bip_39_word_no_space_3 | asthmaelementvessel |  
+| bip_39_word_no_space_4 | asthmaelementvesselsunny |  
+| bip_39_word_no_space_5 | asthmaelementvesselsunnyblind |  
+| bip_39_word_no_space_6 | asthmaelementvesselsunnyblindshoot |  
+| bip_39_word_no_space_7 | asthmaelementvesselsunnyblindshootaim |  
+| bip_39_word_no_space_8 | asthmaelementvesselsunnyblindshootaimpulp |  
+| bip_39_word_no_space_9 | asthmaelementvesselsunnyblindshootaimpulpsure |  
 | bip_39_word_space_0 | ['asthma', 'element', 'vessel', 'sunny', 'blind', 'shoot', 'aim', 'pulp', 'sure', 'cluster', 'flame', 'aunt'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma element vessel sunny blind shoot aim pulp sure cluster |  

@@ -122,6 +122,18 @@ maximum
 way
 flower
 shift |  
+| bip_39_word_no_space_1 | junk |  
+| bip_39_word_no_space_10 | junkpupilharborunknownhusbandmaximumwayflowershiftedit |  
+| bip_39_word_no_space_11 | junkpupilharborunknownhusbandmaximumwayflowershifteditcup |  
+| bip_39_word_no_space_12 | junkpupilharborunknownhusbandmaximumwayflowershifteditcupanger |  
+| bip_39_word_no_space_2 | junkpupil |  
+| bip_39_word_no_space_3 | junkpupilharbor |  
+| bip_39_word_no_space_4 | junkpupilharborunknown |  
+| bip_39_word_no_space_5 | junkpupilharborunknownhusband |  
+| bip_39_word_no_space_6 | junkpupilharborunknownhusbandmaximum |  
+| bip_39_word_no_space_7 | junkpupilharborunknownhusbandmaximumway |  
+| bip_39_word_no_space_8 | junkpupilharborunknownhusbandmaximumwayflower |  
+| bip_39_word_no_space_9 | junkpupilharborunknownhusbandmaximumwayflowershift |  
 | bip_39_word_space_0 | ['junk', 'pupil', 'harbor', 'unknown', 'husband', 'maximum', 'way', 'flower', 'shift', 'edit', 'cup', 'anger'] |  
 | bip_39_word_space_1 | junk |  
 | bip_39_word_space_10 | junk pupil harbor unknown husband maximum way flower shift edit |  

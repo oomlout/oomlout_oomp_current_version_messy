@@ -122,6 +122,18 @@ trigger
 flight
 infant
 crucial |  
+| bip_39_word_no_space_1 | tube |  
+| bip_39_word_no_space_10 | tubesquirrelstovespoillocaltriggerflightinfantcrucialtrash |  
+| bip_39_word_no_space_11 | tubesquirrelstovespoillocaltriggerflightinfantcrucialtrashspawn |  
+| bip_39_word_no_space_12 | tubesquirrelstovespoillocaltriggerflightinfantcrucialtrashspawnamateur |  
+| bip_39_word_no_space_2 | tubesquirrel |  
+| bip_39_word_no_space_3 | tubesquirrelstove |  
+| bip_39_word_no_space_4 | tubesquirrelstovespoil |  
+| bip_39_word_no_space_5 | tubesquirrelstovespoillocal |  
+| bip_39_word_no_space_6 | tubesquirrelstovespoillocaltrigger |  
+| bip_39_word_no_space_7 | tubesquirrelstovespoillocaltriggerflight |  
+| bip_39_word_no_space_8 | tubesquirrelstovespoillocaltriggerflightinfant |  
+| bip_39_word_no_space_9 | tubesquirrelstovespoillocaltriggerflightinfantcrucial |  
 | bip_39_word_space_0 | ['tube', 'squirrel', 'stove', 'spoil', 'local', 'trigger', 'flight', 'infant', 'crucial', 'trash', 'spawn', 'amateur'] |  
 | bip_39_word_space_1 | tube |  
 | bip_39_word_space_10 | tube squirrel stove spoil local trigger flight infant crucial trash |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ask
   physical
 
   long'
+bip_39_word_no_space_1: ask
+bip_39_word_no_space_10: askthissatisfyflagbasenursecraterphysicallongbeyond
+bip_39_word_no_space_11: askthissatisfyflagbasenursecraterphysicallongbeyondfeed
+bip_39_word_no_space_12: askthissatisfyflagbasenursecraterphysicallongbeyondfeedact
+bip_39_word_no_space_2: askthis
+bip_39_word_no_space_3: askthissatisfy
+bip_39_word_no_space_4: askthissatisfyflag
+bip_39_word_no_space_5: askthissatisfyflagbase
+bip_39_word_no_space_6: askthissatisfyflagbasenurse
+bip_39_word_no_space_7: askthissatisfyflagbasenursecrater
+bip_39_word_no_space_8: askthissatisfyflagbasenursecraterphysical
+bip_39_word_no_space_9: askthissatisfyflagbasenursecraterphysicallong
 bip_39_word_space_0:
 - ask
 - this

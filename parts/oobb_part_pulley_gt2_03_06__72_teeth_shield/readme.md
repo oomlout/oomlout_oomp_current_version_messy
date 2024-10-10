@@ -122,6 +122,18 @@ twice
 damp
 giant
 bacon |  
+| bip_39_word_no_space_1 | room |  
+| bip_39_word_no_space_10 | roombuddyyouthcolorrobusttwicedampgiantbaconrack |  
+| bip_39_word_no_space_11 | roombuddyyouthcolorrobusttwicedampgiantbaconrackhave |  
+| bip_39_word_no_space_12 | roombuddyyouthcolorrobusttwicedampgiantbaconrackhavealso |  
+| bip_39_word_no_space_2 | roombuddy |  
+| bip_39_word_no_space_3 | roombuddyyouth |  
+| bip_39_word_no_space_4 | roombuddyyouthcolor |  
+| bip_39_word_no_space_5 | roombuddyyouthcolorrobust |  
+| bip_39_word_no_space_6 | roombuddyyouthcolorrobusttwice |  
+| bip_39_word_no_space_7 | roombuddyyouthcolorrobusttwicedamp |  
+| bip_39_word_no_space_8 | roombuddyyouthcolorrobusttwicedampgiant |  
+| bip_39_word_no_space_9 | roombuddyyouthcolorrobusttwicedampgiantbacon |  
 | bip_39_word_space_0 | ['room', 'buddy', 'youth', 'color', 'robust', 'twice', 'damp', 'giant', 'bacon', 'rack', 'have', 'also'] |  
 | bip_39_word_space_1 | room |  
 | bip_39_word_space_10 | room buddy youth color robust twice damp giant bacon rack |  

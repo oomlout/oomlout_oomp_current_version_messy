@@ -122,6 +122,18 @@ guard
 act
 mention
 someone |  
+| bip_39_word_no_space_1 | midnight |  
+| bip_39_word_no_space_10 | midnightsquarearmsquarecousinguardactmentionsomeonespeed |  
+| bip_39_word_no_space_11 | midnightsquarearmsquarecousinguardactmentionsomeonespeedzoo |  
+| bip_39_word_no_space_12 | midnightsquarearmsquarecousinguardactmentionsomeonespeedzooattract |  
+| bip_39_word_no_space_2 | midnightsquare |  
+| bip_39_word_no_space_3 | midnightsquarearm |  
+| bip_39_word_no_space_4 | midnightsquarearmsquare |  
+| bip_39_word_no_space_5 | midnightsquarearmsquarecousin |  
+| bip_39_word_no_space_6 | midnightsquarearmsquarecousinguard |  
+| bip_39_word_no_space_7 | midnightsquarearmsquarecousinguardact |  
+| bip_39_word_no_space_8 | midnightsquarearmsquarecousinguardactmention |  
+| bip_39_word_no_space_9 | midnightsquarearmsquarecousinguardactmentionsomeone |  
 | bip_39_word_space_0 | ['midnight', 'square', 'arm', 'square', 'cousin', 'guard', 'act', 'mention', 'someone', 'speed', 'zoo', 'attract'] |  
 | bip_39_word_space_1 | midnight |  
 | bip_39_word_space_10 | midnight square arm square cousin guard act mention someone speed |  

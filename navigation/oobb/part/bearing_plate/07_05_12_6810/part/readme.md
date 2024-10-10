@@ -122,6 +122,18 @@ good
 stereo
 someone
 room |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logicrejectratesuggestvesselgoodstereosomeoneroomspeed |  
+| bip_39_word_no_space_11 | logicrejectratesuggestvesselgoodstereosomeoneroomspeedsort |  
+| bip_39_word_no_space_12 | logicrejectratesuggestvesselgoodstereosomeoneroomspeedsortaerobic |  
+| bip_39_word_no_space_2 | logicreject |  
+| bip_39_word_no_space_3 | logicrejectrate |  
+| bip_39_word_no_space_4 | logicrejectratesuggest |  
+| bip_39_word_no_space_5 | logicrejectratesuggestvessel |  
+| bip_39_word_no_space_6 | logicrejectratesuggestvesselgood |  
+| bip_39_word_no_space_7 | logicrejectratesuggestvesselgoodstereo |  
+| bip_39_word_no_space_8 | logicrejectratesuggestvesselgoodstereosomeone |  
+| bip_39_word_no_space_9 | logicrejectratesuggestvesselgoodstereosomeoneroom |  
 | bip_39_word_space_0 | ['logic', 'reject', 'rate', 'suggest', 'vessel', 'good', 'stereo', 'someone', 'room', 'speed', 'sort', 'aerobic'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic reject rate suggest vessel good stereo someone room speed |  

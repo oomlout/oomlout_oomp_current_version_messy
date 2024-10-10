@@ -122,6 +122,18 @@ noble
 extra
 vintage
 wedding |  
+| bip_39_word_no_space_1 | point |  
+| bip_39_word_no_space_10 | pointsiegeprettyevildampnobleextravintageweddingover |  
+| bip_39_word_no_space_11 | pointsiegeprettyevildampnobleextravintageweddingoverbecause |  
+| bip_39_word_no_space_12 | pointsiegeprettyevildampnobleextravintageweddingoverbecauseauction |  
+| bip_39_word_no_space_2 | pointsiege |  
+| bip_39_word_no_space_3 | pointsiegepretty |  
+| bip_39_word_no_space_4 | pointsiegeprettyevil |  
+| bip_39_word_no_space_5 | pointsiegeprettyevildamp |  
+| bip_39_word_no_space_6 | pointsiegeprettyevildampnoble |  
+| bip_39_word_no_space_7 | pointsiegeprettyevildampnobleextra |  
+| bip_39_word_no_space_8 | pointsiegeprettyevildampnobleextravintage |  
+| bip_39_word_no_space_9 | pointsiegeprettyevildampnobleextravintagewedding |  
 | bip_39_word_space_0 | ['point', 'siege', 'pretty', 'evil', 'damp', 'noble', 'extra', 'vintage', 'wedding', 'over', 'because', 'auction'] |  
 | bip_39_word_space_1 | point |  
 | bip_39_word_space_10 | point siege pretty evil damp noble extra vintage wedding over |  

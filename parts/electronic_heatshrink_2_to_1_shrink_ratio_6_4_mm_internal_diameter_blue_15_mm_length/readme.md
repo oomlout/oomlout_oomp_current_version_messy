@@ -122,6 +122,18 @@ inspire
 axis
 pulse
 beach |  
+| bip_39_word_no_space_1 | trap |  
+| bip_39_word_no_space_10 | trapaspectgymdisagreeclubinspireaxispulsebeachbehind |  
+| bip_39_word_no_space_11 | trapaspectgymdisagreeclubinspireaxispulsebeachbehindsort |  
+| bip_39_word_no_space_12 | trapaspectgymdisagreeclubinspireaxispulsebeachbehindsortaccident |  
+| bip_39_word_no_space_2 | trapaspect |  
+| bip_39_word_no_space_3 | trapaspectgym |  
+| bip_39_word_no_space_4 | trapaspectgymdisagree |  
+| bip_39_word_no_space_5 | trapaspectgymdisagreeclub |  
+| bip_39_word_no_space_6 | trapaspectgymdisagreeclubinspire |  
+| bip_39_word_no_space_7 | trapaspectgymdisagreeclubinspireaxis |  
+| bip_39_word_no_space_8 | trapaspectgymdisagreeclubinspireaxispulse |  
+| bip_39_word_no_space_9 | trapaspectgymdisagreeclubinspireaxispulsebeach |  
 | bip_39_word_space_0 | ['trap', 'aspect', 'gym', 'disagree', 'club', 'inspire', 'axis', 'pulse', 'beach', 'behind', 'sort', 'accident'] |  
 | bip_39_word_space_1 | trap |  
 | bip_39_word_space_10 | trap aspect gym disagree club inspire axis pulse beach behind |  

@@ -122,6 +122,18 @@ balance
 talent
 mountain
 square |  
+| bip_39_word_no_space_1 | wrist |  
+| bip_39_word_no_space_10 | wristlunchdignityexistalreadybalancetalentmountainsquarenapkin |  
+| bip_39_word_no_space_11 | wristlunchdignityexistalreadybalancetalentmountainsquarenapkinerode |  
+| bip_39_word_no_space_12 | wristlunchdignityexistalreadybalancetalentmountainsquarenapkinerodealbum |  
+| bip_39_word_no_space_2 | wristlunch |  
+| bip_39_word_no_space_3 | wristlunchdignity |  
+| bip_39_word_no_space_4 | wristlunchdignityexist |  
+| bip_39_word_no_space_5 | wristlunchdignityexistalready |  
+| bip_39_word_no_space_6 | wristlunchdignityexistalreadybalance |  
+| bip_39_word_no_space_7 | wristlunchdignityexistalreadybalancetalent |  
+| bip_39_word_no_space_8 | wristlunchdignityexistalreadybalancetalentmountain |  
+| bip_39_word_no_space_9 | wristlunchdignityexistalreadybalancetalentmountainsquare |  
 | bip_39_word_space_0 | ['wrist', 'lunch', 'dignity', 'exist', 'already', 'balance', 'talent', 'mountain', 'square', 'napkin', 'erode', 'album'] |  
 | bip_39_word_space_1 | wrist |  
 | bip_39_word_space_10 | wrist lunch dignity exist already balance talent mountain square napkin |  

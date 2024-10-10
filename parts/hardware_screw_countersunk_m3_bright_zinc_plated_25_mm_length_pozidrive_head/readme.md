@@ -122,6 +122,18 @@ wise
 tunnel
 busy
 enter |  
+| bip_39_word_no_space_1 | treat |  
+| bip_39_word_no_space_10 | treatopposehurdlecementrailwisetunnelbusyenterhome |  
+| bip_39_word_no_space_11 | treatopposehurdlecementrailwisetunnelbusyenterhomeobvious |  
+| bip_39_word_no_space_12 | treatopposehurdlecementrailwisetunnelbusyenterhomeobviousarmy |  
+| bip_39_word_no_space_2 | treatoppose |  
+| bip_39_word_no_space_3 | treatopposehurdle |  
+| bip_39_word_no_space_4 | treatopposehurdlecement |  
+| bip_39_word_no_space_5 | treatopposehurdlecementrail |  
+| bip_39_word_no_space_6 | treatopposehurdlecementrailwise |  
+| bip_39_word_no_space_7 | treatopposehurdlecementrailwisetunnel |  
+| bip_39_word_no_space_8 | treatopposehurdlecementrailwisetunnelbusy |  
+| bip_39_word_no_space_9 | treatopposehurdlecementrailwisetunnelbusyenter |  
 | bip_39_word_space_0 | ['treat', 'oppose', 'hurdle', 'cement', 'rail', 'wise', 'tunnel', 'busy', 'enter', 'home', 'obvious', 'army'] |  
 | bip_39_word_space_1 | treat |  
 | bip_39_word_space_10 | treat oppose hurdle cement rail wise tunnel busy enter home |  

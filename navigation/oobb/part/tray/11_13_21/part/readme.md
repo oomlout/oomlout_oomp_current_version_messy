@@ -122,6 +122,18 @@ champion
 armor
 tone
 winner |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validrapidcrowdhazardupdatechampionarmortonewinnergallery |  
+| bip_39_word_no_space_11 | validrapidcrowdhazardupdatechampionarmortonewinnergallerytrigger |  
+| bip_39_word_no_space_12 | validrapidcrowdhazardupdatechampionarmortonewinnergallerytriggerassist |  
+| bip_39_word_no_space_2 | validrapid |  
+| bip_39_word_no_space_3 | validrapidcrowd |  
+| bip_39_word_no_space_4 | validrapidcrowdhazard |  
+| bip_39_word_no_space_5 | validrapidcrowdhazardupdate |  
+| bip_39_word_no_space_6 | validrapidcrowdhazardupdatechampion |  
+| bip_39_word_no_space_7 | validrapidcrowdhazardupdatechampionarmor |  
+| bip_39_word_no_space_8 | validrapidcrowdhazardupdatechampionarmortone |  
+| bip_39_word_no_space_9 | validrapidcrowdhazardupdatechampionarmortonewinner |  
 | bip_39_word_space_0 | ['valid', 'rapid', 'crowd', 'hazard', 'update', 'champion', 'armor', 'tone', 'winner', 'gallery', 'trigger', 'assist'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid rapid crowd hazard update champion armor tone winner gallery |  

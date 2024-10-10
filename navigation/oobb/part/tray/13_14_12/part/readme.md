@@ -122,6 +122,18 @@ canal
 nasty
 meadow
 boy |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifelyricsmountainappleindoorcanalnastymeadowboyspeed |  
+| bip_39_word_no_space_11 | knifelyricsmountainappleindoorcanalnastymeadowboyspeedleader |  
+| bip_39_word_no_space_12 | knifelyricsmountainappleindoorcanalnastymeadowboyspeedleaderaspect |  
+| bip_39_word_no_space_2 | knifelyrics |  
+| bip_39_word_no_space_3 | knifelyricsmountain |  
+| bip_39_word_no_space_4 | knifelyricsmountainapple |  
+| bip_39_word_no_space_5 | knifelyricsmountainappleindoor |  
+| bip_39_word_no_space_6 | knifelyricsmountainappleindoorcanal |  
+| bip_39_word_no_space_7 | knifelyricsmountainappleindoorcanalnasty |  
+| bip_39_word_no_space_8 | knifelyricsmountainappleindoorcanalnastymeadow |  
+| bip_39_word_no_space_9 | knifelyricsmountainappleindoorcanalnastymeadowboy |  
 | bip_39_word_space_0 | ['knife', 'lyrics', 'mountain', 'apple', 'indoor', 'canal', 'nasty', 'meadow', 'boy', 'speed', 'leader', 'aspect'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife lyrics mountain apple indoor canal nasty meadow boy speed |  

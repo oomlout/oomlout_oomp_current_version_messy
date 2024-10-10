@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ring
   rice
 
   meat'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringmediaspherehedgehogbouncewinnervirusricemeatdoll
+bip_39_word_no_space_11: ringmediaspherehedgehogbouncewinnervirusricemeatdollfantasy
+bip_39_word_no_space_12: ringmediaspherehedgehogbouncewinnervirusricemeatdollfantasyabstract
+bip_39_word_no_space_2: ringmedia
+bip_39_word_no_space_3: ringmediasphere
+bip_39_word_no_space_4: ringmediaspherehedgehog
+bip_39_word_no_space_5: ringmediaspherehedgehogbounce
+bip_39_word_no_space_6: ringmediaspherehedgehogbouncewinner
+bip_39_word_no_space_7: ringmediaspherehedgehogbouncewinnervirus
+bip_39_word_no_space_8: ringmediaspherehedgehogbouncewinnervirusrice
+bip_39_word_no_space_9: ringmediaspherehedgehogbouncewinnervirusricemeat
 bip_39_word_space_0:
 - ring
 - media

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'air
   bread
 
   nasty'
+bip_39_word_no_space_1: air
+bip_39_word_no_space_10: aircandygreatraincrucialtowardpeanutbreadnastyslender
+bip_39_word_no_space_11: aircandygreatraincrucialtowardpeanutbreadnastyslendercase
+bip_39_word_no_space_12: aircandygreatraincrucialtowardpeanutbreadnastyslendercaseadmit
+bip_39_word_no_space_2: aircandy
+bip_39_word_no_space_3: aircandygreat
+bip_39_word_no_space_4: aircandygreatrain
+bip_39_word_no_space_5: aircandygreatraincrucial
+bip_39_word_no_space_6: aircandygreatraincrucialtoward
+bip_39_word_no_space_7: aircandygreatraincrucialtowardpeanut
+bip_39_word_no_space_8: aircandygreatraincrucialtowardpeanutbread
+bip_39_word_no_space_9: aircandygreatraincrucialtowardpeanutbreadnasty
 bip_39_word_space_0:
 - air
 - candy

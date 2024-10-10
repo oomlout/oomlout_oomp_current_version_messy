@@ -122,6 +122,18 @@ wedding
 birth
 ship
 such |  
+| bip_39_word_no_space_1 | area |  
+| bip_39_word_no_space_10 | areaenlistworktalkmoveweddingbirthshipsuchapprove |  
+| bip_39_word_no_space_11 | areaenlistworktalkmoveweddingbirthshipsuchapprovesession |  
+| bip_39_word_no_space_12 | areaenlistworktalkmoveweddingbirthshipsuchapprovesessionarmed |  
+| bip_39_word_no_space_2 | areaenlist |  
+| bip_39_word_no_space_3 | areaenlistwork |  
+| bip_39_word_no_space_4 | areaenlistworktalk |  
+| bip_39_word_no_space_5 | areaenlistworktalkmove |  
+| bip_39_word_no_space_6 | areaenlistworktalkmovewedding |  
+| bip_39_word_no_space_7 | areaenlistworktalkmoveweddingbirth |  
+| bip_39_word_no_space_8 | areaenlistworktalkmoveweddingbirthship |  
+| bip_39_word_no_space_9 | areaenlistworktalkmoveweddingbirthshipsuch |  
 | bip_39_word_space_0 | ['area', 'enlist', 'work', 'talk', 'move', 'wedding', 'birth', 'ship', 'such', 'approve', 'session', 'armed'] |  
 | bip_39_word_space_1 | area |  
 | bip_39_word_space_10 | area enlist work talk move wedding birth ship such approve |  

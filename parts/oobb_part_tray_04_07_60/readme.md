@@ -122,6 +122,18 @@ provide
 kid
 enlist
 inhale |  
+| bip_39_word_no_space_1 | icon |  
+| bip_39_word_no_space_10 | iconseahumanwhispercrumbleprovidekidenlistinhalearrow |  
+| bip_39_word_no_space_11 | iconseahumanwhispercrumbleprovidekidenlistinhalearrowcrack |  
+| bip_39_word_no_space_12 | iconseahumanwhispercrumbleprovidekidenlistinhalearrowcrackaround |  
+| bip_39_word_no_space_2 | iconsea |  
+| bip_39_word_no_space_3 | iconseahuman |  
+| bip_39_word_no_space_4 | iconseahumanwhisper |  
+| bip_39_word_no_space_5 | iconseahumanwhispercrumble |  
+| bip_39_word_no_space_6 | iconseahumanwhispercrumbleprovide |  
+| bip_39_word_no_space_7 | iconseahumanwhispercrumbleprovidekid |  
+| bip_39_word_no_space_8 | iconseahumanwhispercrumbleprovidekidenlist |  
+| bip_39_word_no_space_9 | iconseahumanwhispercrumbleprovidekidenlistinhale |  
 | bip_39_word_space_0 | ['icon', 'sea', 'human', 'whisper', 'crumble', 'provide', 'kid', 'enlist', 'inhale', 'arrow', 'crack', 'around'] |  
 | bip_39_word_space_1 | icon |  
 | bip_39_word_space_10 | icon sea human whisper crumble provide kid enlist inhale arrow |  

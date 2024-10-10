@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'charge
   renew
 
   inquiry'
+bip_39_word_no_space_1: charge
+bip_39_word_no_space_10: chargedutyvastgeniusremovehockeyrandomrenewinquiryscare
+bip_39_word_no_space_11: chargedutyvastgeniusremovehockeyrandomrenewinquiryscareabsurd
+bip_39_word_no_space_12: chargedutyvastgeniusremovehockeyrandomrenewinquiryscareabsurdauto
+bip_39_word_no_space_2: chargeduty
+bip_39_word_no_space_3: chargedutyvast
+bip_39_word_no_space_4: chargedutyvastgenius
+bip_39_word_no_space_5: chargedutyvastgeniusremove
+bip_39_word_no_space_6: chargedutyvastgeniusremovehockey
+bip_39_word_no_space_7: chargedutyvastgeniusremovehockeyrandom
+bip_39_word_no_space_8: chargedutyvastgeniusremovehockeyrandomrenew
+bip_39_word_no_space_9: chargedutyvastgeniusremovehockeyrandomrenewinquiry
 bip_39_word_space_0:
 - charge
 - duty

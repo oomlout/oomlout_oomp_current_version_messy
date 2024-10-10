@@ -122,6 +122,18 @@ love
 bus
 life
 input |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relygrasspolarpowdershadowlovebuslifeinputnovel |  
+| bip_39_word_no_space_11 | relygrasspolarpowdershadowlovebuslifeinputnovelwave |  
+| bip_39_word_no_space_12 | relygrasspolarpowdershadowlovebuslifeinputnovelwaveantique |  
+| bip_39_word_no_space_2 | relygrass |  
+| bip_39_word_no_space_3 | relygrasspolar |  
+| bip_39_word_no_space_4 | relygrasspolarpowder |  
+| bip_39_word_no_space_5 | relygrasspolarpowdershadow |  
+| bip_39_word_no_space_6 | relygrasspolarpowdershadowlove |  
+| bip_39_word_no_space_7 | relygrasspolarpowdershadowlovebus |  
+| bip_39_word_no_space_8 | relygrasspolarpowdershadowlovebuslife |  
+| bip_39_word_no_space_9 | relygrasspolarpowdershadowlovebuslifeinput |  
 | bip_39_word_space_0 | ['rely', 'grass', 'polar', 'powder', 'shadow', 'love', 'bus', 'life', 'input', 'novel', 'wave', 'antique'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely grass polar powder shadow love bus life input novel |  

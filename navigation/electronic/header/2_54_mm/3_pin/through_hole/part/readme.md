@@ -122,6 +122,18 @@ lawsuit
 fiscal
 solution
 wonder |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousfielddrinkhintachievelawsuitfiscalsolutionwonderdiesel |  
+| bip_39_word_no_space_11 | viciousfielddrinkhintachievelawsuitfiscalsolutionwonderdieselrepeat |  
+| bip_39_word_no_space_12 | viciousfielddrinkhintachievelawsuitfiscalsolutionwonderdieselrepeatannual |  
+| bip_39_word_no_space_2 | viciousfield |  
+| bip_39_word_no_space_3 | viciousfielddrink |  
+| bip_39_word_no_space_4 | viciousfielddrinkhint |  
+| bip_39_word_no_space_5 | viciousfielddrinkhintachieve |  
+| bip_39_word_no_space_6 | viciousfielddrinkhintachievelawsuit |  
+| bip_39_word_no_space_7 | viciousfielddrinkhintachievelawsuitfiscal |  
+| bip_39_word_no_space_8 | viciousfielddrinkhintachievelawsuitfiscalsolution |  
+| bip_39_word_no_space_9 | viciousfielddrinkhintachievelawsuitfiscalsolutionwonder |  
 | bip_39_word_space_0 | ['vicious', 'field', 'drink', 'hint', 'achieve', 'lawsuit', 'fiscal', 'solution', 'wonder', 'diesel', 'repeat', 'annual'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious field drink hint achieve lawsuit fiscal solution wonder diesel |  

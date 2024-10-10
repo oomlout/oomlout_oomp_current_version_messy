@@ -122,6 +122,18 @@ believe
 disease
 output
 tiny |  
+| bip_39_word_no_space_1 | art |  
+| bip_39_word_no_space_10 | artfrogframefantasyassistbelievediseaseoutputtinyshoot |  
+| bip_39_word_no_space_11 | artfrogframefantasyassistbelievediseaseoutputtinyshootgravity |  
+| bip_39_word_no_space_12 | artfrogframefantasyassistbelievediseaseoutputtinyshootgravityattend |  
+| bip_39_word_no_space_2 | artfrog |  
+| bip_39_word_no_space_3 | artfrogframe |  
+| bip_39_word_no_space_4 | artfrogframefantasy |  
+| bip_39_word_no_space_5 | artfrogframefantasyassist |  
+| bip_39_word_no_space_6 | artfrogframefantasyassistbelieve |  
+| bip_39_word_no_space_7 | artfrogframefantasyassistbelievedisease |  
+| bip_39_word_no_space_8 | artfrogframefantasyassistbelievediseaseoutput |  
+| bip_39_word_no_space_9 | artfrogframefantasyassistbelievediseaseoutputtiny |  
 | bip_39_word_space_0 | ['art', 'frog', 'frame', 'fantasy', 'assist', 'believe', 'disease', 'output', 'tiny', 'shoot', 'gravity', 'attend'] |  
 | bip_39_word_space_1 | art |  
 | bip_39_word_space_10 | art frog frame fantasy assist believe disease output tiny shoot |  

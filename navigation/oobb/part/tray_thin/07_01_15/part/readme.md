@@ -122,6 +122,18 @@ year
 number
 devote
 joy |  
+| bip_39_word_no_space_1 | devote |  
+| bip_39_word_no_space_10 | devotemarketmimicstrikedeskyearnumberdevotejoywink |  
+| bip_39_word_no_space_11 | devotemarketmimicstrikedeskyearnumberdevotejoywinkfaith |  
+| bip_39_word_no_space_12 | devotemarketmimicstrikedeskyearnumberdevotejoywinkfaithannounce |  
+| bip_39_word_no_space_2 | devotemarket |  
+| bip_39_word_no_space_3 | devotemarketmimic |  
+| bip_39_word_no_space_4 | devotemarketmimicstrike |  
+| bip_39_word_no_space_5 | devotemarketmimicstrikedesk |  
+| bip_39_word_no_space_6 | devotemarketmimicstrikedeskyear |  
+| bip_39_word_no_space_7 | devotemarketmimicstrikedeskyearnumber |  
+| bip_39_word_no_space_8 | devotemarketmimicstrikedeskyearnumberdevote |  
+| bip_39_word_no_space_9 | devotemarketmimicstrikedeskyearnumberdevotejoy |  
 | bip_39_word_space_0 | ['devote', 'market', 'mimic', 'strike', 'desk', 'year', 'number', 'devote', 'joy', 'wink', 'faith', 'announce'] |  
 | bip_39_word_space_1 | devote |  
 | bip_39_word_space_10 | devote market mimic strike desk year number devote joy wink |  

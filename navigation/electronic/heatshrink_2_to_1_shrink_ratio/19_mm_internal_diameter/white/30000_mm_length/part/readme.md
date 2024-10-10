@@ -122,6 +122,18 @@ net
 exchange
 cake
 polar |  
+| bip_39_word_no_space_1 | small |  
+| bip_39_word_no_space_10 | smallconductearnvehiclecoyotenetexchangecakepolarplastic |  
+| bip_39_word_no_space_11 | smallconductearnvehiclecoyotenetexchangecakepolarplasticfeel |  
+| bip_39_word_no_space_12 | smallconductearnvehiclecoyotenetexchangecakepolarplasticfeelassume |  
+| bip_39_word_no_space_2 | smallconduct |  
+| bip_39_word_no_space_3 | smallconductearn |  
+| bip_39_word_no_space_4 | smallconductearnvehicle |  
+| bip_39_word_no_space_5 | smallconductearnvehiclecoyote |  
+| bip_39_word_no_space_6 | smallconductearnvehiclecoyotenet |  
+| bip_39_word_no_space_7 | smallconductearnvehiclecoyotenetexchange |  
+| bip_39_word_no_space_8 | smallconductearnvehiclecoyotenetexchangecake |  
+| bip_39_word_no_space_9 | smallconductearnvehiclecoyotenetexchangecakepolar |  
 | bip_39_word_space_0 | ['small', 'conduct', 'earn', 'vehicle', 'coyote', 'net', 'exchange', 'cake', 'polar', 'plastic', 'feel', 'assume'] |  
 | bip_39_word_space_1 | small |  
 | bip_39_word_space_10 | small conduct earn vehicle coyote net exchange cake polar plastic |  

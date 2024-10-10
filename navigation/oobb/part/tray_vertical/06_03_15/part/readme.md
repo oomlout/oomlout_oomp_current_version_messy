@@ -122,6 +122,18 @@ dash
 zero
 record
 galaxy |  
+| bip_39_word_no_space_1 | relax |  
+| bip_39_word_no_space_10 | relaxmakeokaypioneersweetdashzerorecordgalaxycram |  
+| bip_39_word_no_space_11 | relaxmakeokaypioneersweetdashzerorecordgalaxycramthere |  
+| bip_39_word_no_space_12 | relaxmakeokaypioneersweetdashzerorecordgalaxycramthereactual |  
+| bip_39_word_no_space_2 | relaxmake |  
+| bip_39_word_no_space_3 | relaxmakeokay |  
+| bip_39_word_no_space_4 | relaxmakeokaypioneer |  
+| bip_39_word_no_space_5 | relaxmakeokaypioneersweet |  
+| bip_39_word_no_space_6 | relaxmakeokaypioneersweetdash |  
+| bip_39_word_no_space_7 | relaxmakeokaypioneersweetdashzero |  
+| bip_39_word_no_space_8 | relaxmakeokaypioneersweetdashzerorecord |  
+| bip_39_word_no_space_9 | relaxmakeokaypioneersweetdashzerorecordgalaxy |  
 | bip_39_word_space_0 | ['relax', 'make', 'okay', 'pioneer', 'sweet', 'dash', 'zero', 'record', 'galaxy', 'cram', 'there', 'actual'] |  
 | bip_39_word_space_1 | relax |  
 | bip_39_word_space_10 | relax make okay pioneer sweet dash zero record galaxy cram |  

@@ -122,6 +122,18 @@ theory
 muffin
 napkin
 tube |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistoldecemberdecadereminddrivetheorymuffinnapkintubepeasant |  
+| bip_39_word_no_space_11 | pistoldecemberdecadereminddrivetheorymuffinnapkintubepeasantbicycle |  
+| bip_39_word_no_space_12 | pistoldecemberdecadereminddrivetheorymuffinnapkintubepeasantbicycleaugust |  
+| bip_39_word_no_space_2 | pistoldecember |  
+| bip_39_word_no_space_3 | pistoldecemberdecade |  
+| bip_39_word_no_space_4 | pistoldecemberdecaderemind |  
+| bip_39_word_no_space_5 | pistoldecemberdecadereminddrive |  
+| bip_39_word_no_space_6 | pistoldecemberdecadereminddrivetheory |  
+| bip_39_word_no_space_7 | pistoldecemberdecadereminddrivetheorymuffin |  
+| bip_39_word_no_space_8 | pistoldecemberdecadereminddrivetheorymuffinnapkin |  
+| bip_39_word_no_space_9 | pistoldecemberdecadereminddrivetheorymuffinnapkintube |  
 | bip_39_word_space_0 | ['pistol', 'december', 'decade', 'remind', 'drive', 'theory', 'muffin', 'napkin', 'tube', 'peasant', 'bicycle', 'august'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol december decade remind drive theory muffin napkin tube peasant |  

@@ -122,6 +122,18 @@ miss
 ready
 fork
 rough |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangaroofinishvacuumpelicandismissmissreadyforkroughcome |  
+| bip_39_word_no_space_11 | kangaroofinishvacuumpelicandismissmissreadyforkroughcomemultiply |  
+| bip_39_word_no_space_12 | kangaroofinishvacuumpelicandismissmissreadyforkroughcomemultiplyadapt |  
+| bip_39_word_no_space_2 | kangaroofinish |  
+| bip_39_word_no_space_3 | kangaroofinishvacuum |  
+| bip_39_word_no_space_4 | kangaroofinishvacuumpelican |  
+| bip_39_word_no_space_5 | kangaroofinishvacuumpelicandismiss |  
+| bip_39_word_no_space_6 | kangaroofinishvacuumpelicandismissmiss |  
+| bip_39_word_no_space_7 | kangaroofinishvacuumpelicandismissmissready |  
+| bip_39_word_no_space_8 | kangaroofinishvacuumpelicandismissmissreadyfork |  
+| bip_39_word_no_space_9 | kangaroofinishvacuumpelicandismissmissreadyforkrough |  
 | bip_39_word_space_0 | ['kangaroo', 'finish', 'vacuum', 'pelican', 'dismiss', 'miss', 'ready', 'fork', 'rough', 'come', 'multiply', 'adapt'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo finish vacuum pelican dismiss miss ready fork rough come |  

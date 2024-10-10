@@ -122,6 +122,18 @@ poet
 prevent
 palm
 across |  
+| bip_39_word_no_space_1 | head |  
+| bip_39_word_no_space_10 | headpipecomfortfieldgingerpoetpreventpalmacrossmodel |  
+| bip_39_word_no_space_11 | headpipecomfortfieldgingerpoetpreventpalmacrossmodelaugust |  
+| bip_39_word_no_space_12 | headpipecomfortfieldgingerpoetpreventpalmacrossmodelaugustaccident |  
+| bip_39_word_no_space_2 | headpipe |  
+| bip_39_word_no_space_3 | headpipecomfort |  
+| bip_39_word_no_space_4 | headpipecomfortfield |  
+| bip_39_word_no_space_5 | headpipecomfortfieldginger |  
+| bip_39_word_no_space_6 | headpipecomfortfieldgingerpoet |  
+| bip_39_word_no_space_7 | headpipecomfortfieldgingerpoetprevent |  
+| bip_39_word_no_space_8 | headpipecomfortfieldgingerpoetpreventpalm |  
+| bip_39_word_no_space_9 | headpipecomfortfieldgingerpoetpreventpalmacross |  
 | bip_39_word_space_0 | ['head', 'pipe', 'comfort', 'field', 'ginger', 'poet', 'prevent', 'palm', 'across', 'model', 'august', 'accident'] |  
 | bip_39_word_space_1 | head |  
 | bip_39_word_space_10 | head pipe comfort field ginger poet prevent palm across model |  

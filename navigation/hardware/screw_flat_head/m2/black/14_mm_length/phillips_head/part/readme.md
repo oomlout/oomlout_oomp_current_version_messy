@@ -122,6 +122,18 @@ approve
 dentist
 sign
 shift |  
+| bip_39_word_no_space_1 | transfer |  
+| bip_39_word_no_space_10 | transferlimitsurgeleveladdictapprovedentistsignshiftlaundry |  
+| bip_39_word_no_space_11 | transferlimitsurgeleveladdictapprovedentistsignshiftlaundrywet |  
+| bip_39_word_no_space_12 | transferlimitsurgeleveladdictapprovedentistsignshiftlaundrywetauthor |  
+| bip_39_word_no_space_2 | transferlimit |  
+| bip_39_word_no_space_3 | transferlimitsurge |  
+| bip_39_word_no_space_4 | transferlimitsurgelevel |  
+| bip_39_word_no_space_5 | transferlimitsurgeleveladdict |  
+| bip_39_word_no_space_6 | transferlimitsurgeleveladdictapprove |  
+| bip_39_word_no_space_7 | transferlimitsurgeleveladdictapprovedentist |  
+| bip_39_word_no_space_8 | transferlimitsurgeleveladdictapprovedentistsign |  
+| bip_39_word_no_space_9 | transferlimitsurgeleveladdictapprovedentistsignshift |  
 | bip_39_word_space_0 | ['transfer', 'limit', 'surge', 'level', 'addict', 'approve', 'dentist', 'sign', 'shift', 'laundry', 'wet', 'author'] |  
 | bip_39_word_space_1 | transfer |  
 | bip_39_word_space_10 | transfer limit surge level addict approve dentist sign shift laundry |  

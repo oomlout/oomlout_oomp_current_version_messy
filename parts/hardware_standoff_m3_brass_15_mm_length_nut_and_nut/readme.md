@@ -122,6 +122,18 @@ vehicle
 mirror
 drum
 impose |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marbleanxietyblastcheffanvehiclemirrordrumimposecoconut |  
+| bip_39_word_no_space_11 | marbleanxietyblastcheffanvehiclemirrordrumimposecoconuteyebrow |  
+| bip_39_word_no_space_12 | marbleanxietyblastcheffanvehiclemirrordrumimposecoconuteyebrowalien |  
+| bip_39_word_no_space_2 | marbleanxiety |  
+| bip_39_word_no_space_3 | marbleanxietyblast |  
+| bip_39_word_no_space_4 | marbleanxietyblastchef |  
+| bip_39_word_no_space_5 | marbleanxietyblastcheffan |  
+| bip_39_word_no_space_6 | marbleanxietyblastcheffanvehicle |  
+| bip_39_word_no_space_7 | marbleanxietyblastcheffanvehiclemirror |  
+| bip_39_word_no_space_8 | marbleanxietyblastcheffanvehiclemirrordrum |  
+| bip_39_word_no_space_9 | marbleanxietyblastcheffanvehiclemirrordrumimpose |  
 | bip_39_word_space_0 | ['marble', 'anxiety', 'blast', 'chef', 'fan', 'vehicle', 'mirror', 'drum', 'impose', 'coconut', 'eyebrow', 'alien'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble anxiety blast chef fan vehicle mirror drum impose coconut |  

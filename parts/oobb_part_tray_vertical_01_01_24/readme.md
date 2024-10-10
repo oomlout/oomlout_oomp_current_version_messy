@@ -122,6 +122,18 @@ inner
 junior
 course
 eyebrow |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moonsunnyflushdialketchupinnerjuniorcourseeyebrowexcuse |  
+| bip_39_word_no_space_11 | moonsunnyflushdialketchupinnerjuniorcourseeyebrowexcusecivil |  
+| bip_39_word_no_space_12 | moonsunnyflushdialketchupinnerjuniorcourseeyebrowexcusecivilaim |  
+| bip_39_word_no_space_2 | moonsunny |  
+| bip_39_word_no_space_3 | moonsunnyflush |  
+| bip_39_word_no_space_4 | moonsunnyflushdial |  
+| bip_39_word_no_space_5 | moonsunnyflushdialketchup |  
+| bip_39_word_no_space_6 | moonsunnyflushdialketchupinner |  
+| bip_39_word_no_space_7 | moonsunnyflushdialketchupinnerjunior |  
+| bip_39_word_no_space_8 | moonsunnyflushdialketchupinnerjuniorcourse |  
+| bip_39_word_no_space_9 | moonsunnyflushdialketchupinnerjuniorcourseeyebrow |  
 | bip_39_word_space_0 | ['moon', 'sunny', 'flush', 'dial', 'ketchup', 'inner', 'junior', 'course', 'eyebrow', 'excuse', 'civil', 'aim'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon sunny flush dial ketchup inner junior course eyebrow excuse |  

@@ -122,6 +122,18 @@ alpha
 acid
 immune
 keen |  
+| bip_39_word_no_space_1 | alley |  
+| bip_39_word_no_space_10 | alleypanictornadoeagleticketalphaacidimmunekeenantenna |  
+| bip_39_word_no_space_11 | alleypanictornadoeagleticketalphaacidimmunekeenantennastick |  
+| bip_39_word_no_space_12 | alleypanictornadoeagleticketalphaacidimmunekeenantennastickaction |  
+| bip_39_word_no_space_2 | alleypanic |  
+| bip_39_word_no_space_3 | alleypanictornado |  
+| bip_39_word_no_space_4 | alleypanictornadoeagle |  
+| bip_39_word_no_space_5 | alleypanictornadoeagleticket |  
+| bip_39_word_no_space_6 | alleypanictornadoeagleticketalpha |  
+| bip_39_word_no_space_7 | alleypanictornadoeagleticketalphaacid |  
+| bip_39_word_no_space_8 | alleypanictornadoeagleticketalphaacidimmune |  
+| bip_39_word_no_space_9 | alleypanictornadoeagleticketalphaacidimmunekeen |  
 | bip_39_word_space_0 | ['alley', 'panic', 'tornado', 'eagle', 'ticket', 'alpha', 'acid', 'immune', 'keen', 'antenna', 'stick', 'action'] |  
 | bip_39_word_space_1 | alley |  
 | bip_39_word_space_10 | alley panic tornado eagle ticket alpha acid immune keen antenna |  

@@ -122,6 +122,18 @@ code
 pyramid
 pig
 motor |  
+| bip_39_word_no_space_1 | pride |  
+| bip_39_word_no_space_10 | prideswampgadgetcelerylocalcodepyramidpigmotoragent |  
+| bip_39_word_no_space_11 | prideswampgadgetcelerylocalcodepyramidpigmotoragentwise |  
+| bip_39_word_no_space_12 | prideswampgadgetcelerylocalcodepyramidpigmotoragentwiseankle |  
+| bip_39_word_no_space_2 | prideswamp |  
+| bip_39_word_no_space_3 | prideswampgadget |  
+| bip_39_word_no_space_4 | prideswampgadgetcelery |  
+| bip_39_word_no_space_5 | prideswampgadgetcelerylocal |  
+| bip_39_word_no_space_6 | prideswampgadgetcelerylocalcode |  
+| bip_39_word_no_space_7 | prideswampgadgetcelerylocalcodepyramid |  
+| bip_39_word_no_space_8 | prideswampgadgetcelerylocalcodepyramidpig |  
+| bip_39_word_no_space_9 | prideswampgadgetcelerylocalcodepyramidpigmotor |  
 | bip_39_word_space_0 | ['pride', 'swamp', 'gadget', 'celery', 'local', 'code', 'pyramid', 'pig', 'motor', 'agent', 'wise', 'ankle'] |  
 | bip_39_word_space_1 | pride |  
 | bip_39_word_space_10 | pride swamp gadget celery local code pyramid pig motor agent |  

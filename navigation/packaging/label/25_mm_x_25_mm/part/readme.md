@@ -122,6 +122,18 @@ need
 together
 atom
 brush |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingmarineassetleafthenneedtogetheratombrushuncover |  
+| bip_39_word_no_space_11 | weddingmarineassetleafthenneedtogetheratombrushuncoverwalk |  
+| bip_39_word_no_space_12 | weddingmarineassetleafthenneedtogetheratombrushuncoverwalkable |  
+| bip_39_word_no_space_2 | weddingmarine |  
+| bip_39_word_no_space_3 | weddingmarineasset |  
+| bip_39_word_no_space_4 | weddingmarineassetleaf |  
+| bip_39_word_no_space_5 | weddingmarineassetleafthen |  
+| bip_39_word_no_space_6 | weddingmarineassetleafthenneed |  
+| bip_39_word_no_space_7 | weddingmarineassetleafthenneedtogether |  
+| bip_39_word_no_space_8 | weddingmarineassetleafthenneedtogetheratom |  
+| bip_39_word_no_space_9 | weddingmarineassetleafthenneedtogetheratombrush |  
 | bip_39_word_space_0 | ['wedding', 'marine', 'asset', 'leaf', 'then', 'need', 'together', 'atom', 'brush', 'uncover', 'walk', 'able'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding marine asset leaf then need together atom brush uncover |  

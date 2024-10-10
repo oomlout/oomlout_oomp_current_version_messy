@@ -122,6 +122,18 @@ pen
 junk
 increase
 invite |  
+| bip_39_word_no_space_1 | frozen |  
+| bip_39_word_no_space_10 | frozenleopardminuteillegalknifepenjunkincreaseinvitelong |  
+| bip_39_word_no_space_11 | frozenleopardminuteillegalknifepenjunkincreaseinvitelongclimb |  
+| bip_39_word_no_space_12 | frozenleopardminuteillegalknifepenjunkincreaseinvitelongclimbaunt |  
+| bip_39_word_no_space_2 | frozenleopard |  
+| bip_39_word_no_space_3 | frozenleopardminute |  
+| bip_39_word_no_space_4 | frozenleopardminuteillegal |  
+| bip_39_word_no_space_5 | frozenleopardminuteillegalknife |  
+| bip_39_word_no_space_6 | frozenleopardminuteillegalknifepen |  
+| bip_39_word_no_space_7 | frozenleopardminuteillegalknifepenjunk |  
+| bip_39_word_no_space_8 | frozenleopardminuteillegalknifepenjunkincrease |  
+| bip_39_word_no_space_9 | frozenleopardminuteillegalknifepenjunkincreaseinvite |  
 | bip_39_word_space_0 | ['frozen', 'leopard', 'minute', 'illegal', 'knife', 'pen', 'junk', 'increase', 'invite', 'long', 'climb', 'aunt'] |  
 | bip_39_word_space_1 | frozen |  
 | bip_39_word_space_10 | frozen leopard minute illegal knife pen junk increase invite long |  

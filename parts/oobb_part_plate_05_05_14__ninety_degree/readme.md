@@ -122,6 +122,18 @@ become
 degree
 better
 host |  
+| bip_39_word_no_space_1 | limb |  
+| bip_39_word_no_space_10 | limbcrimenameboostfruitbecomedegreebetterhostathlete |  
+| bip_39_word_no_space_11 | limbcrimenameboostfruitbecomedegreebetterhostathletehidden |  
+| bip_39_word_no_space_12 | limbcrimenameboostfruitbecomedegreebetterhostathletehiddenafford |  
+| bip_39_word_no_space_2 | limbcrime |  
+| bip_39_word_no_space_3 | limbcrimename |  
+| bip_39_word_no_space_4 | limbcrimenameboost |  
+| bip_39_word_no_space_5 | limbcrimenameboostfruit |  
+| bip_39_word_no_space_6 | limbcrimenameboostfruitbecome |  
+| bip_39_word_no_space_7 | limbcrimenameboostfruitbecomedegree |  
+| bip_39_word_no_space_8 | limbcrimenameboostfruitbecomedegreebetter |  
+| bip_39_word_no_space_9 | limbcrimenameboostfruitbecomedegreebetterhost |  
 | bip_39_word_space_0 | ['limb', 'crime', 'name', 'boost', 'fruit', 'become', 'degree', 'better', 'host', 'athlete', 'hidden', 'afford'] |  
 | bip_39_word_space_1 | limb |  
 | bip_39_word_space_10 | limb crime name boost fruit become degree better host athlete |  

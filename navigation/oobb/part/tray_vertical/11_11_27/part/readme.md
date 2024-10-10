@@ -122,6 +122,18 @@ wide
 moral
 afraid
 forest |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | codeupsetpassguidesignwidemoralafraidforestbubble |  
+| bip_39_word_no_space_11 | codeupsetpassguidesignwidemoralafraidforestbubblefind |  
+| bip_39_word_no_space_12 | codeupsetpassguidesignwidemoralafraidforestbubblefindacquire |  
+| bip_39_word_no_space_2 | codeupset |  
+| bip_39_word_no_space_3 | codeupsetpass |  
+| bip_39_word_no_space_4 | codeupsetpassguide |  
+| bip_39_word_no_space_5 | codeupsetpassguidesign |  
+| bip_39_word_no_space_6 | codeupsetpassguidesignwide |  
+| bip_39_word_no_space_7 | codeupsetpassguidesignwidemoral |  
+| bip_39_word_no_space_8 | codeupsetpassguidesignwidemoralafraid |  
+| bip_39_word_no_space_9 | codeupsetpassguidesignwidemoralafraidforest |  
 | bip_39_word_space_0 | ['code', 'upset', 'pass', 'guide', 'sign', 'wide', 'moral', 'afraid', 'forest', 'bubble', 'find', 'acquire'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code upset pass guide sign wide moral afraid forest bubble |  

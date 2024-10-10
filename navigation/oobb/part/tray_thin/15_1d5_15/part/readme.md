@@ -122,6 +122,18 @@ dolphin
 fan
 upper
 trial |  
+| bip_39_word_no_space_1 | carpet |  
+| bip_39_word_no_space_10 | carpetplatecupboarddismissmakedolphinfanuppertrialdonate |  
+| bip_39_word_no_space_11 | carpetplatecupboarddismissmakedolphinfanuppertrialdonatewife |  
+| bip_39_word_no_space_12 | carpetplatecupboarddismissmakedolphinfanuppertrialdonatewifeaddict |  
+| bip_39_word_no_space_2 | carpetplate |  
+| bip_39_word_no_space_3 | carpetplatecupboard |  
+| bip_39_word_no_space_4 | carpetplatecupboarddismiss |  
+| bip_39_word_no_space_5 | carpetplatecupboarddismissmake |  
+| bip_39_word_no_space_6 | carpetplatecupboarddismissmakedolphin |  
+| bip_39_word_no_space_7 | carpetplatecupboarddismissmakedolphinfan |  
+| bip_39_word_no_space_8 | carpetplatecupboarddismissmakedolphinfanupper |  
+| bip_39_word_no_space_9 | carpetplatecupboarddismissmakedolphinfanuppertrial |  
 | bip_39_word_space_0 | ['carpet', 'plate', 'cupboard', 'dismiss', 'make', 'dolphin', 'fan', 'upper', 'trial', 'donate', 'wife', 'addict'] |  
 | bip_39_word_space_1 | carpet |  
 | bip_39_word_space_10 | carpet plate cupboard dismiss make dolphin fan upper trial donate |  

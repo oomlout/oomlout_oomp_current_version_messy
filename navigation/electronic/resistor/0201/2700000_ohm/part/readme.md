@@ -122,6 +122,18 @@ clarify
 woman
 pause
 affair |  
+| bip_39_word_no_space_1 | phrase |  
+| bip_39_word_no_space_10 | phraseensurespreadpanicvoiceclarifywomanpauseaffaircake |  
+| bip_39_word_no_space_11 | phraseensurespreadpanicvoiceclarifywomanpauseaffaircakehold |  
+| bip_39_word_no_space_12 | phraseensurespreadpanicvoiceclarifywomanpauseaffaircakeholdamong |  
+| bip_39_word_no_space_2 | phraseensure |  
+| bip_39_word_no_space_3 | phraseensurespread |  
+| bip_39_word_no_space_4 | phraseensurespreadpanic |  
+| bip_39_word_no_space_5 | phraseensurespreadpanicvoice |  
+| bip_39_word_no_space_6 | phraseensurespreadpanicvoiceclarify |  
+| bip_39_word_no_space_7 | phraseensurespreadpanicvoiceclarifywoman |  
+| bip_39_word_no_space_8 | phraseensurespreadpanicvoiceclarifywomanpause |  
+| bip_39_word_no_space_9 | phraseensurespreadpanicvoiceclarifywomanpauseaffair |  
 | bip_39_word_space_0 | ['phrase', 'ensure', 'spread', 'panic', 'voice', 'clarify', 'woman', 'pause', 'affair', 'cake', 'hold', 'among'] |  
 | bip_39_word_space_1 | phrase |  
 | bip_39_word_space_10 | phrase ensure spread panic voice clarify woman pause affair cake |  

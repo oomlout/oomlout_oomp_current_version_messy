@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mimic
   shed
 
   awake'
+bip_39_word_no_space_1: mimic
+bip_39_word_no_space_10: mimiclabelgladcosttragicsomeonespoilshedawakeawful
+bip_39_word_no_space_11: mimiclabelgladcosttragicsomeonespoilshedawakeawfulmobile
+bip_39_word_no_space_12: mimiclabelgladcosttragicsomeonespoilshedawakeawfulmobileattend
+bip_39_word_no_space_2: mimiclabel
+bip_39_word_no_space_3: mimiclabelglad
+bip_39_word_no_space_4: mimiclabelgladcost
+bip_39_word_no_space_5: mimiclabelgladcosttragic
+bip_39_word_no_space_6: mimiclabelgladcosttragicsomeone
+bip_39_word_no_space_7: mimiclabelgladcosttragicsomeonespoil
+bip_39_word_no_space_8: mimiclabelgladcosttragicsomeonespoilshed
+bip_39_word_no_space_9: mimiclabelgladcosttragicsomeonespoilshedawake
 bip_39_word_space_0:
 - mimic
 - label

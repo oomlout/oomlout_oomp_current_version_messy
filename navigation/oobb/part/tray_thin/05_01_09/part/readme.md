@@ -122,6 +122,18 @@ damage
 goddess
 elbow
 empower |  
+| bip_39_word_no_space_1 | awake |  
+| bip_39_word_no_space_10 | awakeannualcheaphighsufferdamagegoddesselbowempowerspot |  
+| bip_39_word_no_space_11 | awakeannualcheaphighsufferdamagegoddesselbowempowerspotempower |  
+| bip_39_word_no_space_12 | awakeannualcheaphighsufferdamagegoddesselbowempowerspotempowerathlete |  
+| bip_39_word_no_space_2 | awakeannual |  
+| bip_39_word_no_space_3 | awakeannualcheap |  
+| bip_39_word_no_space_4 | awakeannualcheaphigh |  
+| bip_39_word_no_space_5 | awakeannualcheaphighsuffer |  
+| bip_39_word_no_space_6 | awakeannualcheaphighsufferdamage |  
+| bip_39_word_no_space_7 | awakeannualcheaphighsufferdamagegoddess |  
+| bip_39_word_no_space_8 | awakeannualcheaphighsufferdamagegoddesselbow |  
+| bip_39_word_no_space_9 | awakeannualcheaphighsufferdamagegoddesselbowempower |  
 | bip_39_word_space_0 | ['awake', 'annual', 'cheap', 'high', 'suffer', 'damage', 'goddess', 'elbow', 'empower', 'spot', 'empower', 'athlete'] |  
 | bip_39_word_space_1 | awake |  
 | bip_39_word_space_10 | awake annual cheap high suffer damage goddess elbow empower spot |  

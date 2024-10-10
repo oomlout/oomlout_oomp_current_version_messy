@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'video
   lamp
 
   filter'
+bip_39_word_no_space_1: video
+bip_39_word_no_space_10: videoaliensourcecrushpotatofabricdifferlampfiltersolve
+bip_39_word_no_space_11: videoaliensourcecrushpotatofabricdifferlampfiltersolvewinter
+bip_39_word_no_space_12: videoaliensourcecrushpotatofabricdifferlampfiltersolvewinteranchor
+bip_39_word_no_space_2: videoalien
+bip_39_word_no_space_3: videoaliensource
+bip_39_word_no_space_4: videoaliensourcecrush
+bip_39_word_no_space_5: videoaliensourcecrushpotato
+bip_39_word_no_space_6: videoaliensourcecrushpotatofabric
+bip_39_word_no_space_7: videoaliensourcecrushpotatofabricdiffer
+bip_39_word_no_space_8: videoaliensourcecrushpotatofabricdifferlamp
+bip_39_word_no_space_9: videoaliensourcecrushpotatofabricdifferlampfilter
 bip_39_word_space_0:
 - video
 - alien

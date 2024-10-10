@@ -122,6 +122,18 @@ dinosaur
 chef
 juice
 gown |  
+| bip_39_word_no_space_1 | favorite |  
+| bip_39_word_no_space_10 | favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslim |  
+| bip_39_word_no_space_11 | favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslimrice |  
+| bip_39_word_no_space_12 | favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslimricealley |  
+| bip_39_word_no_space_2 | favoritenuclear |  
+| bip_39_word_no_space_3 | favoritenucleartruly |  
+| bip_39_word_no_space_4 | favoritenucleartrulyunhappy |  
+| bip_39_word_no_space_5 | favoritenucleartrulyunhappyhover |  
+| bip_39_word_no_space_6 | favoritenucleartrulyunhappyhoverdinosaur |  
+| bip_39_word_no_space_7 | favoritenucleartrulyunhappyhoverdinosaurchef |  
+| bip_39_word_no_space_8 | favoritenucleartrulyunhappyhoverdinosaurchefjuice |  
+| bip_39_word_no_space_9 | favoritenucleartrulyunhappyhoverdinosaurchefjuicegown |  
 | bip_39_word_space_0 | ['favorite', 'nuclear', 'truly', 'unhappy', 'hover', 'dinosaur', 'chef', 'juice', 'gown', 'slim', 'rice', 'alley'] |  
 | bip_39_word_space_1 | favorite |  
 | bip_39_word_space_10 | favorite nuclear truly unhappy hover dinosaur chef juice gown slim |  

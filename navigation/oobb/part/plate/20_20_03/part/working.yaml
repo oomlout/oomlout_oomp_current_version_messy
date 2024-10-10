@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pluck
   sand
 
   panel'
+bip_39_word_no_space_1: pluck
+bip_39_word_no_space_10: plucklunarangertouristfinalvoyagefunnysandpanelsoft
+bip_39_word_no_space_11: plucklunarangertouristfinalvoyagefunnysandpanelsoftsymbol
+bip_39_word_no_space_12: plucklunarangertouristfinalvoyagefunnysandpanelsoftsymboladapt
+bip_39_word_no_space_2: plucklunar
+bip_39_word_no_space_3: plucklunaranger
+bip_39_word_no_space_4: plucklunarangertourist
+bip_39_word_no_space_5: plucklunarangertouristfinal
+bip_39_word_no_space_6: plucklunarangertouristfinalvoyage
+bip_39_word_no_space_7: plucklunarangertouristfinalvoyagefunny
+bip_39_word_no_space_8: plucklunarangertouristfinalvoyagefunnysand
+bip_39_word_no_space_9: plucklunarangertouristfinalvoyagefunnysandpanel
 bip_39_word_space_0:
 - pluck
 - lunar

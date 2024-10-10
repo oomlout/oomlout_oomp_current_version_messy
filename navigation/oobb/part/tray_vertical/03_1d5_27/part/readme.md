@@ -122,6 +122,18 @@ core
 mention
 valve
 perfect |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artistoceansessioncheeseweirdcorementionvalveperfecttail |  
+| bip_39_word_no_space_11 | artistoceansessioncheeseweirdcorementionvalveperfecttailswap |  
+| bip_39_word_no_space_12 | artistoceansessioncheeseweirdcorementionvalveperfecttailswapautumn |  
+| bip_39_word_no_space_2 | artistocean |  
+| bip_39_word_no_space_3 | artistoceansession |  
+| bip_39_word_no_space_4 | artistoceansessioncheese |  
+| bip_39_word_no_space_5 | artistoceansessioncheeseweird |  
+| bip_39_word_no_space_6 | artistoceansessioncheeseweirdcore |  
+| bip_39_word_no_space_7 | artistoceansessioncheeseweirdcoremention |  
+| bip_39_word_no_space_8 | artistoceansessioncheeseweirdcorementionvalve |  
+| bip_39_word_no_space_9 | artistoceansessioncheeseweirdcorementionvalveperfect |  
 | bip_39_word_space_0 | ['artist', 'ocean', 'session', 'cheese', 'weird', 'core', 'mention', 'valve', 'perfect', 'tail', 'swap', 'autumn'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist ocean session cheese weird core mention valve perfect tail |  

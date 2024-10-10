@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cry
   arrive
 
   wonder'
+bip_39_word_no_space_1: cry
+bip_39_word_no_space_10: cryboatadvancesonggrapecupbracketarrivewonderworld
+bip_39_word_no_space_11: cryboatadvancesonggrapecupbracketarrivewonderworldclown
+bip_39_word_no_space_12: cryboatadvancesonggrapecupbracketarrivewonderworldclownassist
+bip_39_word_no_space_2: cryboat
+bip_39_word_no_space_3: cryboatadvance
+bip_39_word_no_space_4: cryboatadvancesong
+bip_39_word_no_space_5: cryboatadvancesonggrape
+bip_39_word_no_space_6: cryboatadvancesonggrapecup
+bip_39_word_no_space_7: cryboatadvancesonggrapecupbracket
+bip_39_word_no_space_8: cryboatadvancesonggrapecupbracketarrive
+bip_39_word_no_space_9: cryboatadvancesonggrapecupbracketarrivewonder
 bip_39_word_space_0:
 - cry
 - boat

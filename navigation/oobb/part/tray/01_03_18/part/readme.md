@@ -122,6 +122,18 @@ cycle
 idea
 blouse
 vault |  
+| bip_39_word_no_space_1 | chaos |  
+| bip_39_word_no_space_10 | chaoschalktinyobjectturtlecycleideablousevaultsymptom |  
+| bip_39_word_no_space_11 | chaoschalktinyobjectturtlecycleideablousevaultsymptombusiness |  
+| bip_39_word_no_space_12 | chaoschalktinyobjectturtlecycleideablousevaultsymptombusinessalter |  
+| bip_39_word_no_space_2 | chaoschalk |  
+| bip_39_word_no_space_3 | chaoschalktiny |  
+| bip_39_word_no_space_4 | chaoschalktinyobject |  
+| bip_39_word_no_space_5 | chaoschalktinyobjectturtle |  
+| bip_39_word_no_space_6 | chaoschalktinyobjectturtlecycle |  
+| bip_39_word_no_space_7 | chaoschalktinyobjectturtlecycleidea |  
+| bip_39_word_no_space_8 | chaoschalktinyobjectturtlecycleideablouse |  
+| bip_39_word_no_space_9 | chaoschalktinyobjectturtlecycleideablousevault |  
 | bip_39_word_space_0 | ['chaos', 'chalk', 'tiny', 'object', 'turtle', 'cycle', 'idea', 'blouse', 'vault', 'symptom', 'business', 'alter'] |  
 | bip_39_word_space_1 | chaos |  
 | bip_39_word_space_10 | chaos chalk tiny object turtle cycle idea blouse vault symptom |  

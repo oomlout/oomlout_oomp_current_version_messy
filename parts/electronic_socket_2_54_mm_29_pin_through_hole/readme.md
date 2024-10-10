@@ -122,6 +122,18 @@ possible
 hurry
 spawn
 early |  
+| bip_39_word_no_space_1 | skin |  
+| bip_39_word_no_space_10 | skinfinalnursesaddleplungepossiblehurryspawnearlytribe |  
+| bip_39_word_no_space_11 | skinfinalnursesaddleplungepossiblehurryspawnearlytribenow |  
+| bip_39_word_no_space_12 | skinfinalnursesaddleplungepossiblehurryspawnearlytribenowasset |  
+| bip_39_word_no_space_2 | skinfinal |  
+| bip_39_word_no_space_3 | skinfinalnurse |  
+| bip_39_word_no_space_4 | skinfinalnursesaddle |  
+| bip_39_word_no_space_5 | skinfinalnursesaddleplunge |  
+| bip_39_word_no_space_6 | skinfinalnursesaddleplungepossible |  
+| bip_39_word_no_space_7 | skinfinalnursesaddleplungepossiblehurry |  
+| bip_39_word_no_space_8 | skinfinalnursesaddleplungepossiblehurryspawn |  
+| bip_39_word_no_space_9 | skinfinalnursesaddleplungepossiblehurryspawnearly |  
 | bip_39_word_space_0 | ['skin', 'final', 'nurse', 'saddle', 'plunge', 'possible', 'hurry', 'spawn', 'early', 'tribe', 'now', 'asset'] |  
 | bip_39_word_space_1 | skin |  
 | bip_39_word_space_10 | skin final nurse saddle plunge possible hurry spawn early tribe |  

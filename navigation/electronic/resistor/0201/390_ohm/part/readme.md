@@ -122,6 +122,18 @@ exist
 buddy
 glare
 civil |  
+| bip_39_word_no_space_1 | crew |  
+| bip_39_word_no_space_10 | crewcoralcreamagentreflectexistbuddyglarecivilepisode |  
+| bip_39_word_no_space_11 | crewcoralcreamagentreflectexistbuddyglarecivilepisodeaxis |  
+| bip_39_word_no_space_12 | crewcoralcreamagentreflectexistbuddyglarecivilepisodeaxisaunt |  
+| bip_39_word_no_space_2 | crewcoral |  
+| bip_39_word_no_space_3 | crewcoralcream |  
+| bip_39_word_no_space_4 | crewcoralcreamagent |  
+| bip_39_word_no_space_5 | crewcoralcreamagentreflect |  
+| bip_39_word_no_space_6 | crewcoralcreamagentreflectexist |  
+| bip_39_word_no_space_7 | crewcoralcreamagentreflectexistbuddy |  
+| bip_39_word_no_space_8 | crewcoralcreamagentreflectexistbuddyglare |  
+| bip_39_word_no_space_9 | crewcoralcreamagentreflectexistbuddyglarecivil |  
 | bip_39_word_space_0 | ['crew', 'coral', 'cream', 'agent', 'reflect', 'exist', 'buddy', 'glare', 'civil', 'episode', 'axis', 'aunt'] |  
 | bip_39_word_space_1 | crew |  
 | bip_39_word_space_10 | crew coral cream agent reflect exist buddy glare civil episode |  

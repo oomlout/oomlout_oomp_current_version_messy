@@ -122,6 +122,18 @@ boost
 slight
 caught
 tower |  
+| bip_39_word_no_space_1 | timber |  
+| bip_39_word_no_space_10 | timbermidnighttradedisplayslotboostslightcaughttowerfat |  
+| bip_39_word_no_space_11 | timbermidnighttradedisplayslotboostslightcaughttowerfatfigure |  
+| bip_39_word_no_space_12 | timbermidnighttradedisplayslotboostslightcaughttowerfatfigureattitude |  
+| bip_39_word_no_space_2 | timbermidnight |  
+| bip_39_word_no_space_3 | timbermidnighttrade |  
+| bip_39_word_no_space_4 | timbermidnighttradedisplay |  
+| bip_39_word_no_space_5 | timbermidnighttradedisplayslot |  
+| bip_39_word_no_space_6 | timbermidnighttradedisplayslotboost |  
+| bip_39_word_no_space_7 | timbermidnighttradedisplayslotboostslight |  
+| bip_39_word_no_space_8 | timbermidnighttradedisplayslotboostslightcaught |  
+| bip_39_word_no_space_9 | timbermidnighttradedisplayslotboostslightcaughttower |  
 | bip_39_word_space_0 | ['timber', 'midnight', 'trade', 'display', 'slot', 'boost', 'slight', 'caught', 'tower', 'fat', 'figure', 'attitude'] |  
 | bip_39_word_space_1 | timber |  
 | bip_39_word_space_10 | timber midnight trade display slot boost slight caught tower fat |  

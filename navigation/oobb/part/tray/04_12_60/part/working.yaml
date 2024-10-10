@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'glance
   mutual
 
   remove'
+bip_39_word_no_space_1: glance
+bip_39_word_no_space_10: glancewinkmiseryfemaleswingremoveheavymutualremoveshift
+bip_39_word_no_space_11: glancewinkmiseryfemaleswingremoveheavymutualremoveshiftchaos
+bip_39_word_no_space_12: glancewinkmiseryfemaleswingremoveheavymutualremoveshiftchaosantenna
+bip_39_word_no_space_2: glancewink
+bip_39_word_no_space_3: glancewinkmisery
+bip_39_word_no_space_4: glancewinkmiseryfemale
+bip_39_word_no_space_5: glancewinkmiseryfemaleswing
+bip_39_word_no_space_6: glancewinkmiseryfemaleswingremove
+bip_39_word_no_space_7: glancewinkmiseryfemaleswingremoveheavy
+bip_39_word_no_space_8: glancewinkmiseryfemaleswingremoveheavymutual
+bip_39_word_no_space_9: glancewinkmiseryfemaleswingremoveheavymutualremove
 bip_39_word_space_0:
 - glance
 - wink

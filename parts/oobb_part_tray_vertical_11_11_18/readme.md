@@ -122,6 +122,18 @@ fall
 buffalo
 robust
 senior |  
+| bip_39_word_no_space_1 | divert |  
+| bip_39_word_no_space_10 | divertcarbonbirdmadpaddlefallbuffalorobustseniorelite |  
+| bip_39_word_no_space_11 | divertcarbonbirdmadpaddlefallbuffalorobustsenioreliterecipe |  
+| bip_39_word_no_space_12 | divertcarbonbirdmadpaddlefallbuffalorobustsenioreliterecipeability |  
+| bip_39_word_no_space_2 | divertcarbon |  
+| bip_39_word_no_space_3 | divertcarbonbird |  
+| bip_39_word_no_space_4 | divertcarbonbirdmad |  
+| bip_39_word_no_space_5 | divertcarbonbirdmadpaddle |  
+| bip_39_word_no_space_6 | divertcarbonbirdmadpaddlefall |  
+| bip_39_word_no_space_7 | divertcarbonbirdmadpaddlefallbuffalo |  
+| bip_39_word_no_space_8 | divertcarbonbirdmadpaddlefallbuffalorobust |  
+| bip_39_word_no_space_9 | divertcarbonbirdmadpaddlefallbuffalorobustsenior |  
 | bip_39_word_space_0 | ['divert', 'carbon', 'bird', 'mad', 'paddle', 'fall', 'buffalo', 'robust', 'senior', 'elite', 'recipe', 'ability'] |  
 | bip_39_word_space_1 | divert |  
 | bip_39_word_space_10 | divert carbon bird mad paddle fall buffalo robust senior elite |  

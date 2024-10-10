@@ -122,6 +122,18 @@ target
 fruit
 fork
 faculty |  
+| bip_39_word_no_space_1 | shift |  
+| bip_39_word_no_space_10 | shifteasymuleamongmiddletargetfruitforkfacultyassault |  
+| bip_39_word_no_space_11 | shifteasymuleamongmiddletargetfruitforkfacultyassaultquote |  
+| bip_39_word_no_space_12 | shifteasymuleamongmiddletargetfruitforkfacultyassaultquoteargue |  
+| bip_39_word_no_space_2 | shifteasy |  
+| bip_39_word_no_space_3 | shifteasymule |  
+| bip_39_word_no_space_4 | shifteasymuleamong |  
+| bip_39_word_no_space_5 | shifteasymuleamongmiddle |  
+| bip_39_word_no_space_6 | shifteasymuleamongmiddletarget |  
+| bip_39_word_no_space_7 | shifteasymuleamongmiddletargetfruit |  
+| bip_39_word_no_space_8 | shifteasymuleamongmiddletargetfruitfork |  
+| bip_39_word_no_space_9 | shifteasymuleamongmiddletargetfruitforkfaculty |  
 | bip_39_word_space_0 | ['shift', 'easy', 'mule', 'among', 'middle', 'target', 'fruit', 'fork', 'faculty', 'assault', 'quote', 'argue'] |  
 | bip_39_word_space_1 | shift |  
 | bip_39_word_space_10 | shift easy mule among middle target fruit fork faculty assault |  

@@ -122,6 +122,18 @@ permit
 fog
 other
 palace |  
+| bip_39_word_no_space_1 | garlic |  
+| bip_39_word_no_space_10 | garlicgridlegendtoolhoneypermitfogotherpalacedevote |  
+| bip_39_word_no_space_11 | garlicgridlegendtoolhoneypermitfogotherpalacedevotereason |  
+| bip_39_word_no_space_12 | garlicgridlegendtoolhoneypermitfogotherpalacedevotereasonalready |  
+| bip_39_word_no_space_2 | garlicgrid |  
+| bip_39_word_no_space_3 | garlicgridlegend |  
+| bip_39_word_no_space_4 | garlicgridlegendtool |  
+| bip_39_word_no_space_5 | garlicgridlegendtoolhoney |  
+| bip_39_word_no_space_6 | garlicgridlegendtoolhoneypermit |  
+| bip_39_word_no_space_7 | garlicgridlegendtoolhoneypermitfog |  
+| bip_39_word_no_space_8 | garlicgridlegendtoolhoneypermitfogother |  
+| bip_39_word_no_space_9 | garlicgridlegendtoolhoneypermitfogotherpalace |  
 | bip_39_word_space_0 | ['garlic', 'grid', 'legend', 'tool', 'honey', 'permit', 'fog', 'other', 'palace', 'devote', 'reason', 'already'] |  
 | bip_39_word_space_1 | garlic |  
 | bip_39_word_space_10 | garlic grid legend tool honey permit fog other palace devote |  

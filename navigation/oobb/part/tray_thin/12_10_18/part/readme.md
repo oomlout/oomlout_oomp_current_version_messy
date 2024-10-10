@@ -122,6 +122,18 @@ loop
 tonight
 point
 divide |  
+| bip_39_word_no_space_1 | live |  
+| bip_39_word_no_space_10 | livethunderretirehairwaterlooptonightpointdivideblade |  
+| bip_39_word_no_space_11 | livethunderretirehairwaterlooptonightpointdividebladevillage |  
+| bip_39_word_no_space_12 | livethunderretirehairwaterlooptonightpointdividebladevillageafford |  
+| bip_39_word_no_space_2 | livethunder |  
+| bip_39_word_no_space_3 | livethunderretire |  
+| bip_39_word_no_space_4 | livethunderretirehair |  
+| bip_39_word_no_space_5 | livethunderretirehairwater |  
+| bip_39_word_no_space_6 | livethunderretirehairwaterloop |  
+| bip_39_word_no_space_7 | livethunderretirehairwaterlooptonight |  
+| bip_39_word_no_space_8 | livethunderretirehairwaterlooptonightpoint |  
+| bip_39_word_no_space_9 | livethunderretirehairwaterlooptonightpointdivide |  
 | bip_39_word_space_0 | ['live', 'thunder', 'retire', 'hair', 'water', 'loop', 'tonight', 'point', 'divide', 'blade', 'village', 'afford'] |  
 | bip_39_word_space_1 | live |  
 | bip_39_word_space_10 | live thunder retire hair water loop tonight point divide blade |  

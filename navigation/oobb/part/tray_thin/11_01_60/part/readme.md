@@ -122,6 +122,18 @@ gentle
 aerobic
 agree
 used |  
+| bip_39_word_no_space_1 | govern |  
+| bip_39_word_no_space_10 | governstemupgradetankshivergentleaerobicagreeusedflush |  
+| bip_39_word_no_space_11 | governstemupgradetankshivergentleaerobicagreeusedflushblouse |  
+| bip_39_word_no_space_12 | governstemupgradetankshivergentleaerobicagreeusedflushblousearrow |  
+| bip_39_word_no_space_2 | governstem |  
+| bip_39_word_no_space_3 | governstemupgrade |  
+| bip_39_word_no_space_4 | governstemupgradetank |  
+| bip_39_word_no_space_5 | governstemupgradetankshiver |  
+| bip_39_word_no_space_6 | governstemupgradetankshivergentle |  
+| bip_39_word_no_space_7 | governstemupgradetankshivergentleaerobic |  
+| bip_39_word_no_space_8 | governstemupgradetankshivergentleaerobicagree |  
+| bip_39_word_no_space_9 | governstemupgradetankshivergentleaerobicagreeused |  
 | bip_39_word_space_0 | ['govern', 'stem', 'upgrade', 'tank', 'shiver', 'gentle', 'aerobic', 'agree', 'used', 'flush', 'blouse', 'arrow'] |  
 | bip_39_word_space_1 | govern |  
 | bip_39_word_space_10 | govern stem upgrade tank shiver gentle aerobic agree used flush |  

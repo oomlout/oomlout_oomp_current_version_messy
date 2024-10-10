@@ -122,6 +122,18 @@ able
 cheese
 devote
 flock |  
+| bip_39_word_no_space_1 | grass |  
+| bip_39_word_no_space_10 | grassquizrareprocessgiftablecheesedevoteflockimpulse |  
+| bip_39_word_no_space_11 | grassquizrareprocessgiftablecheesedevoteflockimpulseoffice |  
+| bip_39_word_no_space_12 | grassquizrareprocessgiftablecheesedevoteflockimpulseofficearmor |  
+| bip_39_word_no_space_2 | grassquiz |  
+| bip_39_word_no_space_3 | grassquizrare |  
+| bip_39_word_no_space_4 | grassquizrareprocess |  
+| bip_39_word_no_space_5 | grassquizrareprocessgift |  
+| bip_39_word_no_space_6 | grassquizrareprocessgiftable |  
+| bip_39_word_no_space_7 | grassquizrareprocessgiftablecheese |  
+| bip_39_word_no_space_8 | grassquizrareprocessgiftablecheesedevote |  
+| bip_39_word_no_space_9 | grassquizrareprocessgiftablecheesedevoteflock |  
 | bip_39_word_space_0 | ['grass', 'quiz', 'rare', 'process', 'gift', 'able', 'cheese', 'devote', 'flock', 'impulse', 'office', 'armor'] |  
 | bip_39_word_space_1 | grass |  
 | bip_39_word_space_10 | grass quiz rare process gift able cheese devote flock impulse |  

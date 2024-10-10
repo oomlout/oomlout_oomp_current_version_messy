@@ -122,6 +122,18 @@ hole
 attract
 exhaust
 candy |  
+| bip_39_word_no_space_1 | source |  
+| bip_39_word_no_space_10 | sourcespyyouspicemyselfholeattractexhaustcandyusual |  
+| bip_39_word_no_space_11 | sourcespyyouspicemyselfholeattractexhaustcandyusualera |  
+| bip_39_word_no_space_12 | sourcespyyouspicemyselfholeattractexhaustcandyusualeraassist |  
+| bip_39_word_no_space_2 | sourcespy |  
+| bip_39_word_no_space_3 | sourcespyyou |  
+| bip_39_word_no_space_4 | sourcespyyouspice |  
+| bip_39_word_no_space_5 | sourcespyyouspicemyself |  
+| bip_39_word_no_space_6 | sourcespyyouspicemyselfhole |  
+| bip_39_word_no_space_7 | sourcespyyouspicemyselfholeattract |  
+| bip_39_word_no_space_8 | sourcespyyouspicemyselfholeattractexhaust |  
+| bip_39_word_no_space_9 | sourcespyyouspicemyselfholeattractexhaustcandy |  
 | bip_39_word_space_0 | ['source', 'spy', 'you', 'spice', 'myself', 'hole', 'attract', 'exhaust', 'candy', 'usual', 'era', 'assist'] |  
 | bip_39_word_space_1 | source |  
 | bip_39_word_space_10 | source spy you spice myself hole attract exhaust candy usual |  

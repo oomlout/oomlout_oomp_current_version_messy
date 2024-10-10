@@ -122,6 +122,18 @@ audit
 obtain
 market
 one |  
+| bip_39_word_no_space_1 | divide |  
+| bip_39_word_no_space_10 | dividesituatetrumpetportionchaosauditobtainmarketonegap |  
+| bip_39_word_no_space_11 | dividesituatetrumpetportionchaosauditobtainmarketonegapfence |  
+| bip_39_word_no_space_12 | dividesituatetrumpetportionchaosauditobtainmarketonegapfenceappear |  
+| bip_39_word_no_space_2 | dividesituate |  
+| bip_39_word_no_space_3 | dividesituatetrumpet |  
+| bip_39_word_no_space_4 | dividesituatetrumpetportion |  
+| bip_39_word_no_space_5 | dividesituatetrumpetportionchaos |  
+| bip_39_word_no_space_6 | dividesituatetrumpetportionchaosaudit |  
+| bip_39_word_no_space_7 | dividesituatetrumpetportionchaosauditobtain |  
+| bip_39_word_no_space_8 | dividesituatetrumpetportionchaosauditobtainmarket |  
+| bip_39_word_no_space_9 | dividesituatetrumpetportionchaosauditobtainmarketone |  
 | bip_39_word_space_0 | ['divide', 'situate', 'trumpet', 'portion', 'chaos', 'audit', 'obtain', 'market', 'one', 'gap', 'fence', 'appear'] |  
 | bip_39_word_space_1 | divide |  
 | bip_39_word_space_10 | divide situate trumpet portion chaos audit obtain market one gap |  

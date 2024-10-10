@@ -122,6 +122,18 @@ receive
 love
 aerobic
 social |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguecurvetruckspotaddreceiveloveaerobicsocialcopy |  
+| bip_39_word_no_space_11 | tonguecurvetruckspotaddreceiveloveaerobicsocialcopyinsect |  
+| bip_39_word_no_space_12 | tonguecurvetruckspotaddreceiveloveaerobicsocialcopyinsectactress |  
+| bip_39_word_no_space_2 | tonguecurve |  
+| bip_39_word_no_space_3 | tonguecurvetruck |  
+| bip_39_word_no_space_4 | tonguecurvetruckspot |  
+| bip_39_word_no_space_5 | tonguecurvetruckspotadd |  
+| bip_39_word_no_space_6 | tonguecurvetruckspotaddreceive |  
+| bip_39_word_no_space_7 | tonguecurvetruckspotaddreceivelove |  
+| bip_39_word_no_space_8 | tonguecurvetruckspotaddreceiveloveaerobic |  
+| bip_39_word_no_space_9 | tonguecurvetruckspotaddreceiveloveaerobicsocial |  
 | bip_39_word_space_0 | ['tongue', 'curve', 'truck', 'spot', 'add', 'receive', 'love', 'aerobic', 'social', 'copy', 'insect', 'actress'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue curve truck spot add receive love aerobic social copy |  

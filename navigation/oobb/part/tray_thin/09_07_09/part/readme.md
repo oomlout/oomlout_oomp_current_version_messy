@@ -122,6 +122,18 @@ sock
 kick
 twelve
 stomach |  
+| bip_39_word_no_space_1 | coast |  
+| bip_39_word_no_space_10 | coastcutetossgentlebananasockkicktwelvestomachdoll |  
+| bip_39_word_no_space_11 | coastcutetossgentlebananasockkicktwelvestomachdolltoken |  
+| bip_39_word_no_space_12 | coastcutetossgentlebananasockkicktwelvestomachdolltokenasset |  
+| bip_39_word_no_space_2 | coastcute |  
+| bip_39_word_no_space_3 | coastcutetoss |  
+| bip_39_word_no_space_4 | coastcutetossgentle |  
+| bip_39_word_no_space_5 | coastcutetossgentlebanana |  
+| bip_39_word_no_space_6 | coastcutetossgentlebananasock |  
+| bip_39_word_no_space_7 | coastcutetossgentlebananasockkick |  
+| bip_39_word_no_space_8 | coastcutetossgentlebananasockkicktwelve |  
+| bip_39_word_no_space_9 | coastcutetossgentlebananasockkicktwelvestomach |  
 | bip_39_word_space_0 | ['coast', 'cute', 'toss', 'gentle', 'banana', 'sock', 'kick', 'twelve', 'stomach', 'doll', 'token', 'asset'] |  
 | bip_39_word_space_1 | coast |  
 | bip_39_word_space_10 | coast cute toss gentle banana sock kick twelve stomach doll |  

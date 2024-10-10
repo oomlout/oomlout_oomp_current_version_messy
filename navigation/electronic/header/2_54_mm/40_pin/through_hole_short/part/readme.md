@@ -122,6 +122,18 @@ convince
 donate
 danger
 library |  
+| bip_39_word_no_space_1 | bar |  
+| bip_39_word_no_space_10 | barbitterelevatoroftentowardconvincedonatedangerlibraryadult |  
+| bip_39_word_no_space_11 | barbitterelevatoroftentowardconvincedonatedangerlibraryadultveteran |  
+| bip_39_word_no_space_12 | barbitterelevatoroftentowardconvincedonatedangerlibraryadultveteranany |  
+| bip_39_word_no_space_2 | barbitter |  
+| bip_39_word_no_space_3 | barbitterelevator |  
+| bip_39_word_no_space_4 | barbitterelevatoroften |  
+| bip_39_word_no_space_5 | barbitterelevatoroftentoward |  
+| bip_39_word_no_space_6 | barbitterelevatoroftentowardconvince |  
+| bip_39_word_no_space_7 | barbitterelevatoroftentowardconvincedonate |  
+| bip_39_word_no_space_8 | barbitterelevatoroftentowardconvincedonatedanger |  
+| bip_39_word_no_space_9 | barbitterelevatoroftentowardconvincedonatedangerlibrary |  
 | bip_39_word_space_0 | ['bar', 'bitter', 'elevator', 'often', 'toward', 'convince', 'donate', 'danger', 'library', 'adult', 'veteran', 'any'] |  
 | bip_39_word_space_1 | bar |  
 | bip_39_word_space_10 | bar bitter elevator often toward convince donate danger library adult |  

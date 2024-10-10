@@ -122,6 +122,18 @@ neck
 ride
 stumble
 fiction |  
+| bip_39_word_no_space_1 | hover |  
+| bip_39_word_no_space_10 | hoverpencilroastmerrylongneckridestumblefictioncurious |  
+| bip_39_word_no_space_11 | hoverpencilroastmerrylongneckridestumblefictioncuriousclose |  
+| bip_39_word_no_space_12 | hoverpencilroastmerrylongneckridestumblefictioncuriouscloseauthor |  
+| bip_39_word_no_space_2 | hoverpencil |  
+| bip_39_word_no_space_3 | hoverpencilroast |  
+| bip_39_word_no_space_4 | hoverpencilroastmerry |  
+| bip_39_word_no_space_5 | hoverpencilroastmerrylong |  
+| bip_39_word_no_space_6 | hoverpencilroastmerrylongneck |  
+| bip_39_word_no_space_7 | hoverpencilroastmerrylongneckride |  
+| bip_39_word_no_space_8 | hoverpencilroastmerrylongneckridestumble |  
+| bip_39_word_no_space_9 | hoverpencilroastmerrylongneckridestumblefiction |  
 | bip_39_word_space_0 | ['hover', 'pencil', 'roast', 'merry', 'long', 'neck', 'ride', 'stumble', 'fiction', 'curious', 'close', 'author'] |  
 | bip_39_word_space_1 | hover |  
 | bip_39_word_space_10 | hover pencil roast merry long neck ride stumble fiction curious |  

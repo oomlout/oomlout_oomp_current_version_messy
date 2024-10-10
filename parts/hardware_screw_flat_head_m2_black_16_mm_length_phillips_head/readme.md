@@ -122,6 +122,18 @@ genuine
 expire
 practice
 target |  
+| bip_39_word_no_space_1 | remain |  
+| bip_39_word_no_space_10 | remainbehavetackleaugustworthgenuineexpirepracticetargetalways |  
+| bip_39_word_no_space_11 | remainbehavetackleaugustworthgenuineexpirepracticetargetalwaysexpect |  
+| bip_39_word_no_space_12 | remainbehavetackleaugustworthgenuineexpirepracticetargetalwaysexpectalways |  
+| bip_39_word_no_space_2 | remainbehave |  
+| bip_39_word_no_space_3 | remainbehavetackle |  
+| bip_39_word_no_space_4 | remainbehavetackleaugust |  
+| bip_39_word_no_space_5 | remainbehavetackleaugustworth |  
+| bip_39_word_no_space_6 | remainbehavetackleaugustworthgenuine |  
+| bip_39_word_no_space_7 | remainbehavetackleaugustworthgenuineexpire |  
+| bip_39_word_no_space_8 | remainbehavetackleaugustworthgenuineexpirepractice |  
+| bip_39_word_no_space_9 | remainbehavetackleaugustworthgenuineexpirepracticetarget |  
 | bip_39_word_space_0 | ['remain', 'behave', 'tackle', 'august', 'worth', 'genuine', 'expire', 'practice', 'target', 'always', 'expect', 'always'] |  
 | bip_39_word_space_1 | remain |  
 | bip_39_word_space_10 | remain behave tackle august worth genuine expire practice target always |  

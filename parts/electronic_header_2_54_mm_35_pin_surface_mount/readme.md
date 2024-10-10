@@ -122,6 +122,18 @@ duty
 cake
 bracket
 occur |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitospinbunkerricegooddutycakebracketoccurmisery |  
+| bip_39_word_no_space_11 | mosquitospinbunkerricegooddutycakebracketoccurmiseryglobe |  
+| bip_39_word_no_space_12 | mosquitospinbunkerricegooddutycakebracketoccurmiseryglobearrange |  
+| bip_39_word_no_space_2 | mosquitospin |  
+| bip_39_word_no_space_3 | mosquitospinbunker |  
+| bip_39_word_no_space_4 | mosquitospinbunkerrice |  
+| bip_39_word_no_space_5 | mosquitospinbunkerricegood |  
+| bip_39_word_no_space_6 | mosquitospinbunkerricegoodduty |  
+| bip_39_word_no_space_7 | mosquitospinbunkerricegooddutycake |  
+| bip_39_word_no_space_8 | mosquitospinbunkerricegooddutycakebracket |  
+| bip_39_word_no_space_9 | mosquitospinbunkerricegooddutycakebracketoccur |  
 | bip_39_word_space_0 | ['mosquito', 'spin', 'bunker', 'rice', 'good', 'duty', 'cake', 'bracket', 'occur', 'misery', 'globe', 'arrange'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito spin bunker rice good duty cake bracket occur misery |  

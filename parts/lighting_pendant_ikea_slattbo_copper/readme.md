@@ -109,6 +109,17 @@ muffin
 egg
 myself
 neck |  
+| bip_39_word_no_space_1 | aunt |  
+| bip_39_word_no_space_10 | auntwisdomrequiretouristscattermuffineggmyselfneckrecall |  
+| bip_39_word_no_space_11 | auntwisdomrequiretouristscattermuffineggmyselfneckrecalloil |  
+| bip_39_word_no_space_2 | auntwisdom |  
+| bip_39_word_no_space_3 | auntwisdomrequire |  
+| bip_39_word_no_space_4 | auntwisdomrequiretourist |  
+| bip_39_word_no_space_5 | auntwisdomrequiretouristscatter |  
+| bip_39_word_no_space_6 | auntwisdomrequiretouristscattermuffin |  
+| bip_39_word_no_space_7 | auntwisdomrequiretouristscattermuffinegg |  
+| bip_39_word_no_space_8 | auntwisdomrequiretouristscattermuffineggmyself |  
+| bip_39_word_no_space_9 | auntwisdomrequiretouristscattermuffineggmyselfneck |  
 | bip_39_word_space_0 | ['aunt', 'wisdom', 'require', 'tourist', 'scatter', 'muffin', 'egg', 'myself', 'neck', 'recall', 'oil'] |  
 | bip_39_word_space_1 | aunt |  
 | bip_39_word_space_10 | aunt wisdom require tourist scatter muffin egg myself neck recall |  

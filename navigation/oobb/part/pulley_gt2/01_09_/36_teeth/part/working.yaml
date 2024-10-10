@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'script
   merit
 
   what'
+bip_39_word_no_space_1: script
+bip_39_word_no_space_10: scriptcatchlakemergefinisharmedpipemeritwhatsketch
+bip_39_word_no_space_11: scriptcatchlakemergefinisharmedpipemeritwhatsketchpowder
+bip_39_word_no_space_12: scriptcatchlakemergefinisharmedpipemeritwhatsketchpowderannounce
+bip_39_word_no_space_2: scriptcatch
+bip_39_word_no_space_3: scriptcatchlake
+bip_39_word_no_space_4: scriptcatchlakemerge
+bip_39_word_no_space_5: scriptcatchlakemergefinish
+bip_39_word_no_space_6: scriptcatchlakemergefinisharmed
+bip_39_word_no_space_7: scriptcatchlakemergefinisharmedpipe
+bip_39_word_no_space_8: scriptcatchlakemergefinisharmedpipemerit
+bip_39_word_no_space_9: scriptcatchlakemergefinisharmedpipemeritwhat
 bip_39_word_space_0:
 - script
 - catch

@@ -122,6 +122,18 @@ rib
 romance
 over
 knee |  
+| bip_39_word_no_space_1 | ritual |  
+| bip_39_word_no_space_10 | ritualgirafferawrangeshootribromanceoverkneegloom |  
+| bip_39_word_no_space_11 | ritualgirafferawrangeshootribromanceoverkneegloomgrocery |  
+| bip_39_word_no_space_12 | ritualgirafferawrangeshootribromanceoverkneegloomgroceryactual |  
+| bip_39_word_no_space_2 | ritualgiraffe |  
+| bip_39_word_no_space_3 | ritualgirafferaw |  
+| bip_39_word_no_space_4 | ritualgirafferawrange |  
+| bip_39_word_no_space_5 | ritualgirafferawrangeshoot |  
+| bip_39_word_no_space_6 | ritualgirafferawrangeshootrib |  
+| bip_39_word_no_space_7 | ritualgirafferawrangeshootribromance |  
+| bip_39_word_no_space_8 | ritualgirafferawrangeshootribromanceover |  
+| bip_39_word_no_space_9 | ritualgirafferawrangeshootribromanceoverknee |  
 | bip_39_word_space_0 | ['ritual', 'giraffe', 'raw', 'range', 'shoot', 'rib', 'romance', 'over', 'knee', 'gloom', 'grocery', 'actual'] |  
 | bip_39_word_space_1 | ritual |  
 | bip_39_word_space_10 | ritual giraffe raw range shoot rib romance over knee gloom |  

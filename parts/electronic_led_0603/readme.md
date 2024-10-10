@@ -122,6 +122,18 @@ west
 fall
 riot
 capital |  
+| bip_39_word_no_space_1 | then |  
+| bip_39_word_no_space_10 | thentastepuppyaheadturkeywestfallriotcapitalpizza |  
+| bip_39_word_no_space_11 | thentastepuppyaheadturkeywestfallriotcapitalpizzamarble |  
+| bip_39_word_no_space_12 | thentastepuppyaheadturkeywestfallriotcapitalpizzamarbleadvice |  
+| bip_39_word_no_space_2 | thentaste |  
+| bip_39_word_no_space_3 | thentastepuppy |  
+| bip_39_word_no_space_4 | thentastepuppyahead |  
+| bip_39_word_no_space_5 | thentastepuppyaheadturkey |  
+| bip_39_word_no_space_6 | thentastepuppyaheadturkeywest |  
+| bip_39_word_no_space_7 | thentastepuppyaheadturkeywestfall |  
+| bip_39_word_no_space_8 | thentastepuppyaheadturkeywestfallriot |  
+| bip_39_word_no_space_9 | thentastepuppyaheadturkeywestfallriotcapital |  
 | bip_39_word_space_0 | ['then', 'taste', 'puppy', 'ahead', 'turkey', 'west', 'fall', 'riot', 'capital', 'pizza', 'marble', 'advice'] |  
 | bip_39_word_space_1 | then |  
 | bip_39_word_space_10 | then taste puppy ahead turkey west fall riot capital pizza |  

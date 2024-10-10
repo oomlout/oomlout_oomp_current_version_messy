@@ -122,6 +122,18 @@ steak
 proud
 car
 story |  
+| bip_39_word_no_space_1 | cheap |  
+| bip_39_word_no_space_10 | cheapstyleloudgeniussicksteakproudcarstorywitness |  
+| bip_39_word_no_space_11 | cheapstyleloudgeniussicksteakproudcarstorywitnesswest |  
+| bip_39_word_no_space_12 | cheapstyleloudgeniussicksteakproudcarstorywitnesswestact |  
+| bip_39_word_no_space_2 | cheapstyle |  
+| bip_39_word_no_space_3 | cheapstyleloud |  
+| bip_39_word_no_space_4 | cheapstyleloudgenius |  
+| bip_39_word_no_space_5 | cheapstyleloudgeniussick |  
+| bip_39_word_no_space_6 | cheapstyleloudgeniussicksteak |  
+| bip_39_word_no_space_7 | cheapstyleloudgeniussicksteakproud |  
+| bip_39_word_no_space_8 | cheapstyleloudgeniussicksteakproudcar |  
+| bip_39_word_no_space_9 | cheapstyleloudgeniussicksteakproudcarstory |  
 | bip_39_word_space_0 | ['cheap', 'style', 'loud', 'genius', 'sick', 'steak', 'proud', 'car', 'story', 'witness', 'west', 'act'] |  
 | bip_39_word_space_1 | cheap |  
 | bip_39_word_space_10 | cheap style loud genius sick steak proud car story witness |  

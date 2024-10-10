@@ -122,6 +122,18 @@ pulse
 decide
 since
 divert |  
+| bip_39_word_no_space_1 | stumble |  
+| bip_39_word_no_space_10 | stumbledomaincrumbleiconkickpulsedecidesincedivertgoat |  
+| bip_39_word_no_space_11 | stumbledomaincrumbleiconkickpulsedecidesincedivertgoatpanic |  
+| bip_39_word_no_space_12 | stumbledomaincrumbleiconkickpulsedecidesincedivertgoatpanicantique |  
+| bip_39_word_no_space_2 | stumbledomain |  
+| bip_39_word_no_space_3 | stumbledomaincrumble |  
+| bip_39_word_no_space_4 | stumbledomaincrumbleicon |  
+| bip_39_word_no_space_5 | stumbledomaincrumbleiconkick |  
+| bip_39_word_no_space_6 | stumbledomaincrumbleiconkickpulse |  
+| bip_39_word_no_space_7 | stumbledomaincrumbleiconkickpulsedecide |  
+| bip_39_word_no_space_8 | stumbledomaincrumbleiconkickpulsedecidesince |  
+| bip_39_word_no_space_9 | stumbledomaincrumbleiconkickpulsedecidesincedivert |  
 | bip_39_word_space_0 | ['stumble', 'domain', 'crumble', 'icon', 'kick', 'pulse', 'decide', 'since', 'divert', 'goat', 'panic', 'antique'] |  
 | bip_39_word_space_1 | stumble |  
 | bip_39_word_space_10 | stumble domain crumble icon kick pulse decide since divert goat |  

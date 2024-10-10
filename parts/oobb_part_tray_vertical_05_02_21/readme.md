@@ -122,6 +122,18 @@ foster
 knee
 top
 neutral |  
+| bip_39_word_no_space_1 | helmet |  
+| bip_39_word_no_space_10 | helmetupdatewrongspoilsmoothfosterkneetopneutralpanda |  
+| bip_39_word_no_space_11 | helmetupdatewrongspoilsmoothfosterkneetopneutralpandafinish |  
+| bip_39_word_no_space_12 | helmetupdatewrongspoilsmoothfosterkneetopneutralpandafinishadvice |  
+| bip_39_word_no_space_2 | helmetupdate |  
+| bip_39_word_no_space_3 | helmetupdatewrong |  
+| bip_39_word_no_space_4 | helmetupdatewrongspoil |  
+| bip_39_word_no_space_5 | helmetupdatewrongspoilsmooth |  
+| bip_39_word_no_space_6 | helmetupdatewrongspoilsmoothfoster |  
+| bip_39_word_no_space_7 | helmetupdatewrongspoilsmoothfosterknee |  
+| bip_39_word_no_space_8 | helmetupdatewrongspoilsmoothfosterkneetop |  
+| bip_39_word_no_space_9 | helmetupdatewrongspoilsmoothfosterkneetopneutral |  
 | bip_39_word_space_0 | ['helmet', 'update', 'wrong', 'spoil', 'smooth', 'foster', 'knee', 'top', 'neutral', 'panda', 'finish', 'advice'] |  
 | bip_39_word_space_1 | helmet |  
 | bip_39_word_space_10 | helmet update wrong spoil smooth foster knee top neutral panda |  

@@ -122,6 +122,18 @@ fuel
 jump
 giggle
 diet |  
+| bip_39_word_no_space_1 | husband |  
+| bip_39_word_no_space_10 | husbandquickpianochairauctionfueljumpgigglediethawk |  
+| bip_39_word_no_space_11 | husbandquickpianochairauctionfueljumpgigglediethawkkeen |  
+| bip_39_word_no_space_12 | husbandquickpianochairauctionfueljumpgigglediethawkkeenaccess |  
+| bip_39_word_no_space_2 | husbandquick |  
+| bip_39_word_no_space_3 | husbandquickpiano |  
+| bip_39_word_no_space_4 | husbandquickpianochair |  
+| bip_39_word_no_space_5 | husbandquickpianochairauction |  
+| bip_39_word_no_space_6 | husbandquickpianochairauctionfuel |  
+| bip_39_word_no_space_7 | husbandquickpianochairauctionfueljump |  
+| bip_39_word_no_space_8 | husbandquickpianochairauctionfueljumpgiggle |  
+| bip_39_word_no_space_9 | husbandquickpianochairauctionfueljumpgigglediet |  
 | bip_39_word_space_0 | ['husband', 'quick', 'piano', 'chair', 'auction', 'fuel', 'jump', 'giggle', 'diet', 'hawk', 'keen', 'access'] |  
 | bip_39_word_space_1 | husband |  
 | bip_39_word_space_10 | husband quick piano chair auction fuel jump giggle diet hawk |  

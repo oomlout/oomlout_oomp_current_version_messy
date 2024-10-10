@@ -122,6 +122,18 @@ horror
 core
 valid
 pretty |  
+| bip_39_word_no_space_1 | earth |  
+| bip_39_word_no_space_10 | earthpistolspreadenforceagreehorrorcorevalidprettylocal |  
+| bip_39_word_no_space_11 | earthpistolspreadenforceagreehorrorcorevalidprettylocalpossible |  
+| bip_39_word_no_space_12 | earthpistolspreadenforceagreehorrorcorevalidprettylocalpossibleaffair |  
+| bip_39_word_no_space_2 | earthpistol |  
+| bip_39_word_no_space_3 | earthpistolspread |  
+| bip_39_word_no_space_4 | earthpistolspreadenforce |  
+| bip_39_word_no_space_5 | earthpistolspreadenforceagree |  
+| bip_39_word_no_space_6 | earthpistolspreadenforceagreehorror |  
+| bip_39_word_no_space_7 | earthpistolspreadenforceagreehorrorcore |  
+| bip_39_word_no_space_8 | earthpistolspreadenforceagreehorrorcorevalid |  
+| bip_39_word_no_space_9 | earthpistolspreadenforceagreehorrorcorevalidpretty |  
 | bip_39_word_space_0 | ['earth', 'pistol', 'spread', 'enforce', 'agree', 'horror', 'core', 'valid', 'pretty', 'local', 'possible', 'affair'] |  
 | bip_39_word_space_1 | earth |  
 | bip_39_word_space_10 | earth pistol spread enforce agree horror core valid pretty local |  

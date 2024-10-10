@@ -122,6 +122,18 @@ badge
 bullet
 false
 that |  
+| bip_39_word_no_space_1 | abuse |  
+| bip_39_word_no_space_10 | abusegrassvolcanocleverunitbadgebulletfalsethatgarden |  
+| bip_39_word_no_space_11 | abusegrassvolcanocleverunitbadgebulletfalsethatgardenname |  
+| bip_39_word_no_space_12 | abusegrassvolcanocleverunitbadgebulletfalsethatgardennamearch |  
+| bip_39_word_no_space_2 | abusegrass |  
+| bip_39_word_no_space_3 | abusegrassvolcano |  
+| bip_39_word_no_space_4 | abusegrassvolcanoclever |  
+| bip_39_word_no_space_5 | abusegrassvolcanocleverunit |  
+| bip_39_word_no_space_6 | abusegrassvolcanocleverunitbadge |  
+| bip_39_word_no_space_7 | abusegrassvolcanocleverunitbadgebullet |  
+| bip_39_word_no_space_8 | abusegrassvolcanocleverunitbadgebulletfalse |  
+| bip_39_word_no_space_9 | abusegrassvolcanocleverunitbadgebulletfalsethat |  
 | bip_39_word_space_0 | ['abuse', 'grass', 'volcano', 'clever', 'unit', 'badge', 'bullet', 'false', 'that', 'garden', 'name', 'arch'] |  
 | bip_39_word_space_1 | abuse |  
 | bip_39_word_space_10 | abuse grass volcano clever unit badge bullet false that garden |  

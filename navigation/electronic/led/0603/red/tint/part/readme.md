@@ -122,6 +122,18 @@ link
 goose
 time
 vibrant |  
+| bip_39_word_no_space_1 | maze |  
+| bip_39_word_no_space_10 | mazedebatecrushsummerchildlinkgoosetimevibrantcigar |  
+| bip_39_word_no_space_11 | mazedebatecrushsummerchildlinkgoosetimevibrantcigararound |  
+| bip_39_word_no_space_12 | mazedebatecrushsummerchildlinkgoosetimevibrantcigararoundaddress |  
+| bip_39_word_no_space_2 | mazedebate |  
+| bip_39_word_no_space_3 | mazedebatecrush |  
+| bip_39_word_no_space_4 | mazedebatecrushsummer |  
+| bip_39_word_no_space_5 | mazedebatecrushsummerchild |  
+| bip_39_word_no_space_6 | mazedebatecrushsummerchildlink |  
+| bip_39_word_no_space_7 | mazedebatecrushsummerchildlinkgoose |  
+| bip_39_word_no_space_8 | mazedebatecrushsummerchildlinkgoosetime |  
+| bip_39_word_no_space_9 | mazedebatecrushsummerchildlinkgoosetimevibrant |  
 | bip_39_word_space_0 | ['maze', 'debate', 'crush', 'summer', 'child', 'link', 'goose', 'time', 'vibrant', 'cigar', 'around', 'address'] |  
 | bip_39_word_space_1 | maze |  
 | bip_39_word_space_10 | maze debate crush summer child link goose time vibrant cigar |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'size
   lucky
 
   bird'
+bip_39_word_no_space_1: size
+bip_39_word_no_space_10: sizedonateviableownchampioncensuschildluckybirdkeen
+bip_39_word_no_space_11: sizedonateviableownchampioncensuschildluckybirdkeenpresent
+bip_39_word_no_space_12: sizedonateviableownchampioncensuschildluckybirdkeenpresentany
+bip_39_word_no_space_2: sizedonate
+bip_39_word_no_space_3: sizedonateviable
+bip_39_word_no_space_4: sizedonateviableown
+bip_39_word_no_space_5: sizedonateviableownchampion
+bip_39_word_no_space_6: sizedonateviableownchampioncensus
+bip_39_word_no_space_7: sizedonateviableownchampioncensuschild
+bip_39_word_no_space_8: sizedonateviableownchampioncensuschildlucky
+bip_39_word_no_space_9: sizedonateviableownchampioncensuschildluckybird
 bip_39_word_space_0:
 - size
 - donate

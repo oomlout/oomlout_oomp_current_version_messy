@@ -122,6 +122,18 @@ federal
 naive
 drum
 secret |  
+| bip_39_word_no_space_1 | boring |  
+| bip_39_word_no_space_10 | boringdevelopdemiseagewashfederalnaivedrumsecretuse |  
+| bip_39_word_no_space_11 | boringdevelopdemiseagewashfederalnaivedrumsecretusewire |  
+| bip_39_word_no_space_12 | boringdevelopdemiseagewashfederalnaivedrumsecretusewireabout |  
+| bip_39_word_no_space_2 | boringdevelop |  
+| bip_39_word_no_space_3 | boringdevelopdemise |  
+| bip_39_word_no_space_4 | boringdevelopdemiseage |  
+| bip_39_word_no_space_5 | boringdevelopdemiseagewash |  
+| bip_39_word_no_space_6 | boringdevelopdemiseagewashfederal |  
+| bip_39_word_no_space_7 | boringdevelopdemiseagewashfederalnaive |  
+| bip_39_word_no_space_8 | boringdevelopdemiseagewashfederalnaivedrum |  
+| bip_39_word_no_space_9 | boringdevelopdemiseagewashfederalnaivedrumsecret |  
 | bip_39_word_space_0 | ['boring', 'develop', 'demise', 'age', 'wash', 'federal', 'naive', 'drum', 'secret', 'use', 'wire', 'about'] |  
 | bip_39_word_space_1 | boring |  
 | bip_39_word_space_10 | boring develop demise age wash federal naive drum secret use |  

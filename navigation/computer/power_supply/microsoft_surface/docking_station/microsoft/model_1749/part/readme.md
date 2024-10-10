@@ -122,6 +122,18 @@ end
 taxi
 gasp
 mesh |  
+| bip_39_word_no_space_1 | chapter |  
+| bip_39_word_no_space_10 | chaptermuscleskinslideuponendtaxigaspmeshdove |  
+| bip_39_word_no_space_11 | chaptermuscleskinslideuponendtaxigaspmeshdovesteel |  
+| bip_39_word_no_space_12 | chaptermuscleskinslideuponendtaxigaspmeshdovesteelangry |  
+| bip_39_word_no_space_2 | chaptermuscle |  
+| bip_39_word_no_space_3 | chaptermuscleskin |  
+| bip_39_word_no_space_4 | chaptermuscleskinslide |  
+| bip_39_word_no_space_5 | chaptermuscleskinslideupon |  
+| bip_39_word_no_space_6 | chaptermuscleskinslideuponend |  
+| bip_39_word_no_space_7 | chaptermuscleskinslideuponendtaxi |  
+| bip_39_word_no_space_8 | chaptermuscleskinslideuponendtaxigasp |  
+| bip_39_word_no_space_9 | chaptermuscleskinslideuponendtaxigaspmesh |  
 | bip_39_word_space_0 | ['chapter', 'muscle', 'skin', 'slide', 'upon', 'end', 'taxi', 'gasp', 'mesh', 'dove', 'steel', 'angry'] |  
 | bip_39_word_space_1 | chapter |  
 | bip_39_word_space_10 | chapter muscle skin slide upon end taxi gasp mesh dove |  

@@ -122,6 +122,18 @@ lottery
 wreck
 decide
 cool |  
+| bip_39_word_no_space_1 | measure |  
+| bip_39_word_no_space_10 | measuredenytrumpetfreshtracklotterywreckdecidecooldilemma |  
+| bip_39_word_no_space_11 | measuredenytrumpetfreshtracklotterywreckdecidecooldilemmauseless |  
+| bip_39_word_no_space_12 | measuredenytrumpetfreshtracklotterywreckdecidecooldilemmauselessacquire |  
+| bip_39_word_no_space_2 | measuredeny |  
+| bip_39_word_no_space_3 | measuredenytrumpet |  
+| bip_39_word_no_space_4 | measuredenytrumpetfresh |  
+| bip_39_word_no_space_5 | measuredenytrumpetfreshtrack |  
+| bip_39_word_no_space_6 | measuredenytrumpetfreshtracklottery |  
+| bip_39_word_no_space_7 | measuredenytrumpetfreshtracklotterywreck |  
+| bip_39_word_no_space_8 | measuredenytrumpetfreshtracklotterywreckdecide |  
+| bip_39_word_no_space_9 | measuredenytrumpetfreshtracklotterywreckdecidecool |  
 | bip_39_word_space_0 | ['measure', 'deny', 'trumpet', 'fresh', 'track', 'lottery', 'wreck', 'decide', 'cool', 'dilemma', 'useless', 'acquire'] |  
 | bip_39_word_space_1 | measure |  
 | bip_39_word_space_10 | measure deny trumpet fresh track lottery wreck decide cool dilemma |  

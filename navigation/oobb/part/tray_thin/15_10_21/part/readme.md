@@ -122,6 +122,18 @@ exact
 roast
 coffee
 wink |  
+| bip_39_word_no_space_1 | mass |  
+| bip_39_word_no_space_10 | masscirclewingopiniongloryexactroastcoffeewinkcrumble |  
+| bip_39_word_no_space_11 | masscirclewingopiniongloryexactroastcoffeewinkcrumblemachine |  
+| bip_39_word_no_space_12 | masscirclewingopiniongloryexactroastcoffeewinkcrumblemachineabove |  
+| bip_39_word_no_space_2 | masscircle |  
+| bip_39_word_no_space_3 | masscirclewing |  
+| bip_39_word_no_space_4 | masscirclewingopinion |  
+| bip_39_word_no_space_5 | masscirclewingopinionglory |  
+| bip_39_word_no_space_6 | masscirclewingopiniongloryexact |  
+| bip_39_word_no_space_7 | masscirclewingopiniongloryexactroast |  
+| bip_39_word_no_space_8 | masscirclewingopiniongloryexactroastcoffee |  
+| bip_39_word_no_space_9 | masscirclewingopiniongloryexactroastcoffeewink |  
 | bip_39_word_space_0 | ['mass', 'circle', 'wing', 'opinion', 'glory', 'exact', 'roast', 'coffee', 'wink', 'crumble', 'machine', 'above'] |  
 | bip_39_word_space_1 | mass |  
 | bip_39_word_space_10 | mass circle wing opinion glory exact roast coffee wink crumble |  

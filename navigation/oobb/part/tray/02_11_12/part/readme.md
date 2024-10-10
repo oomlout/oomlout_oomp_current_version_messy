@@ -122,6 +122,18 @@ blast
 dash
 stem
 shrug |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declineextracurtainpandafeelblastdashstemshrugholiday |  
+| bip_39_word_no_space_11 | declineextracurtainpandafeelblastdashstemshrugholidaywant |  
+| bip_39_word_no_space_12 | declineextracurtainpandafeelblastdashstemshrugholidaywantart |  
+| bip_39_word_no_space_2 | declineextra |  
+| bip_39_word_no_space_3 | declineextracurtain |  
+| bip_39_word_no_space_4 | declineextracurtainpanda |  
+| bip_39_word_no_space_5 | declineextracurtainpandafeel |  
+| bip_39_word_no_space_6 | declineextracurtainpandafeelblast |  
+| bip_39_word_no_space_7 | declineextracurtainpandafeelblastdash |  
+| bip_39_word_no_space_8 | declineextracurtainpandafeelblastdashstem |  
+| bip_39_word_no_space_9 | declineextracurtainpandafeelblastdashstemshrug |  
 | bip_39_word_space_0 | ['decline', 'extra', 'curtain', 'panda', 'feel', 'blast', 'dash', 'stem', 'shrug', 'holiday', 'want', 'art'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline extra curtain panda feel blast dash stem shrug holiday |  

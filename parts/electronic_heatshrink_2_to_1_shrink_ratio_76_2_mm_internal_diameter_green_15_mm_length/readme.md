@@ -122,6 +122,18 @@ between
 yard
 peanut
 illness |  
+| bip_39_word_no_space_1 | riot |  
+| bip_39_word_no_space_10 | riotcattlehealthendstablebetweenyardpeanutillnessfruit |  
+| bip_39_word_no_space_11 | riotcattlehealthendstablebetweenyardpeanutillnessfruitmath |  
+| bip_39_word_no_space_12 | riotcattlehealthendstablebetweenyardpeanutillnessfruitmathanalyst |  
+| bip_39_word_no_space_2 | riotcattle |  
+| bip_39_word_no_space_3 | riotcattlehealth |  
+| bip_39_word_no_space_4 | riotcattlehealthend |  
+| bip_39_word_no_space_5 | riotcattlehealthendstable |  
+| bip_39_word_no_space_6 | riotcattlehealthendstablebetween |  
+| bip_39_word_no_space_7 | riotcattlehealthendstablebetweenyard |  
+| bip_39_word_no_space_8 | riotcattlehealthendstablebetweenyardpeanut |  
+| bip_39_word_no_space_9 | riotcattlehealthendstablebetweenyardpeanutillness |  
 | bip_39_word_space_0 | ['riot', 'cattle', 'health', 'end', 'stable', 'between', 'yard', 'peanut', 'illness', 'fruit', 'math', 'analyst'] |  
 | bip_39_word_space_1 | riot |  
 | bip_39_word_space_10 | riot cattle health end stable between yard peanut illness fruit |  

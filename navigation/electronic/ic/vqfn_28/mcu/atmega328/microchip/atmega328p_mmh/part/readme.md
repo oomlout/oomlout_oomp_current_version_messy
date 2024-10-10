@@ -122,6 +122,18 @@ bless
 silent
 energy
 advice |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactactortwentymiraclesheriffblesssilentenergyadvicetrain |  
+| bip_39_word_no_space_11 | pactactortwentymiraclesheriffblesssilentenergyadvicetrainaudit |  
+| bip_39_word_no_space_12 | pactactortwentymiraclesheriffblesssilentenergyadvicetrainauditalarm |  
+| bip_39_word_no_space_2 | pactactor |  
+| bip_39_word_no_space_3 | pactactortwenty |  
+| bip_39_word_no_space_4 | pactactortwentymiracle |  
+| bip_39_word_no_space_5 | pactactortwentymiraclesheriff |  
+| bip_39_word_no_space_6 | pactactortwentymiraclesheriffbless |  
+| bip_39_word_no_space_7 | pactactortwentymiraclesheriffblesssilent |  
+| bip_39_word_no_space_8 | pactactortwentymiraclesheriffblesssilentenergy |  
+| bip_39_word_no_space_9 | pactactortwentymiraclesheriffblesssilentenergyadvice |  
 | bip_39_word_space_0 | ['pact', 'actor', 'twenty', 'miracle', 'sheriff', 'bless', 'silent', 'energy', 'advice', 'train', 'audit', 'alarm'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact actor twenty miracle sheriff bless silent energy advice train |  

@@ -122,6 +122,18 @@ crouch
 summer
 census
 attitude |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagerangeamongversiontwocrouchsummercensusattitudejelly |  
+| bip_39_word_no_space_11 | cagerangeamongversiontwocrouchsummercensusattitudejellykit |  
+| bip_39_word_no_space_12 | cagerangeamongversiontwocrouchsummercensusattitudejellykitantenna |  
+| bip_39_word_no_space_2 | cagerange |  
+| bip_39_word_no_space_3 | cagerangeamong |  
+| bip_39_word_no_space_4 | cagerangeamongversion |  
+| bip_39_word_no_space_5 | cagerangeamongversiontwo |  
+| bip_39_word_no_space_6 | cagerangeamongversiontwocrouch |  
+| bip_39_word_no_space_7 | cagerangeamongversiontwocrouchsummer |  
+| bip_39_word_no_space_8 | cagerangeamongversiontwocrouchsummercensus |  
+| bip_39_word_no_space_9 | cagerangeamongversiontwocrouchsummercensusattitude |  
 | bip_39_word_space_0 | ['cage', 'range', 'among', 'version', 'two', 'crouch', 'summer', 'census', 'attitude', 'jelly', 'kit', 'antenna'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage range among version two crouch summer census attitude jelly |  

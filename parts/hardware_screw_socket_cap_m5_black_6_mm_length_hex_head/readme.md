@@ -122,6 +122,18 @@ dismiss
 gallery
 solution
 beach |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deermainmixedmansionaliendismissgallerysolutionbeachcalm |  
+| bip_39_word_no_space_11 | deermainmixedmansionaliendismissgallerysolutionbeachcalmtenant |  
+| bip_39_word_no_space_12 | deermainmixedmansionaliendismissgallerysolutionbeachcalmtenantatom |  
+| bip_39_word_no_space_2 | deermain |  
+| bip_39_word_no_space_3 | deermainmixed |  
+| bip_39_word_no_space_4 | deermainmixedmansion |  
+| bip_39_word_no_space_5 | deermainmixedmansionalien |  
+| bip_39_word_no_space_6 | deermainmixedmansionaliendismiss |  
+| bip_39_word_no_space_7 | deermainmixedmansionaliendismissgallery |  
+| bip_39_word_no_space_8 | deermainmixedmansionaliendismissgallerysolution |  
+| bip_39_word_no_space_9 | deermainmixedmansionaliendismissgallerysolutionbeach |  
 | bip_39_word_space_0 | ['deer', 'main', 'mixed', 'mansion', 'alien', 'dismiss', 'gallery', 'solution', 'beach', 'calm', 'tenant', 'atom'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer main mixed mansion alien dismiss gallery solution beach calm |  

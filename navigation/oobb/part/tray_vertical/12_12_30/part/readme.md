@@ -122,6 +122,18 @@ sock
 weapon
 random
 health |  
+| bip_39_word_no_space_1 | knife |  
+| bip_39_word_no_space_10 | knifesquirrelsourceexactroomsockweaponrandomhealthproduce |  
+| bip_39_word_no_space_11 | knifesquirrelsourceexactroomsockweaponrandomhealthproducerabbit |  
+| bip_39_word_no_space_12 | knifesquirrelsourceexactroomsockweaponrandomhealthproducerabbitanimal |  
+| bip_39_word_no_space_2 | knifesquirrel |  
+| bip_39_word_no_space_3 | knifesquirrelsource |  
+| bip_39_word_no_space_4 | knifesquirrelsourceexact |  
+| bip_39_word_no_space_5 | knifesquirrelsourceexactroom |  
+| bip_39_word_no_space_6 | knifesquirrelsourceexactroomsock |  
+| bip_39_word_no_space_7 | knifesquirrelsourceexactroomsockweapon |  
+| bip_39_word_no_space_8 | knifesquirrelsourceexactroomsockweaponrandom |  
+| bip_39_word_no_space_9 | knifesquirrelsourceexactroomsockweaponrandomhealth |  
 | bip_39_word_space_0 | ['knife', 'squirrel', 'source', 'exact', 'room', 'sock', 'weapon', 'random', 'health', 'produce', 'rabbit', 'animal'] |  
 | bip_39_word_space_1 | knife |  
 | bip_39_word_space_10 | knife squirrel source exact room sock weapon random health produce |  

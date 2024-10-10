@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lamp
   oppose
 
   spin'
+bip_39_word_no_space_1: lamp
+bip_39_word_no_space_10: lampdieselrosesiblingstrongrobustsatisfyopposespinchampion
+bip_39_word_no_space_11: lampdieselrosesiblingstrongrobustsatisfyopposespinchampionlaw
+bip_39_word_no_space_12: lampdieselrosesiblingstrongrobustsatisfyopposespinchampionlawantique
+bip_39_word_no_space_2: lampdiesel
+bip_39_word_no_space_3: lampdieselrose
+bip_39_word_no_space_4: lampdieselrosesibling
+bip_39_word_no_space_5: lampdieselrosesiblingstrong
+bip_39_word_no_space_6: lampdieselrosesiblingstrongrobust
+bip_39_word_no_space_7: lampdieselrosesiblingstrongrobustsatisfy
+bip_39_word_no_space_8: lampdieselrosesiblingstrongrobustsatisfyoppose
+bip_39_word_no_space_9: lampdieselrosesiblingstrongrobustsatisfyopposespin
 bip_39_word_space_0:
 - lamp
 - diesel

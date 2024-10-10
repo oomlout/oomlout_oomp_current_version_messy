@@ -122,6 +122,18 @@ device
 jacket
 embody
 balance |  
+| bip_39_word_no_space_1 | assume |  
+| bip_39_word_no_space_10 | assumehospitalholeclutchtypicaldevicejacketembodybalancetag |  
+| bip_39_word_no_space_11 | assumehospitalholeclutchtypicaldevicejacketembodybalancetagwine |  
+| bip_39_word_no_space_12 | assumehospitalholeclutchtypicaldevicejacketembodybalancetagwineanxiety |  
+| bip_39_word_no_space_2 | assumehospital |  
+| bip_39_word_no_space_3 | assumehospitalhole |  
+| bip_39_word_no_space_4 | assumehospitalholeclutch |  
+| bip_39_word_no_space_5 | assumehospitalholeclutchtypical |  
+| bip_39_word_no_space_6 | assumehospitalholeclutchtypicaldevice |  
+| bip_39_word_no_space_7 | assumehospitalholeclutchtypicaldevicejacket |  
+| bip_39_word_no_space_8 | assumehospitalholeclutchtypicaldevicejacketembody |  
+| bip_39_word_no_space_9 | assumehospitalholeclutchtypicaldevicejacketembodybalance |  
 | bip_39_word_space_0 | ['assume', 'hospital', 'hole', 'clutch', 'typical', 'device', 'jacket', 'embody', 'balance', 'tag', 'wine', 'anxiety'] |  
 | bip_39_word_space_1 | assume |  
 | bip_39_word_space_10 | assume hospital hole clutch typical device jacket embody balance tag |  

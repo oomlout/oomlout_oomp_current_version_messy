@@ -122,6 +122,18 @@ behind
 armed
 nut
 grid |  
+| bip_39_word_no_space_1 | close |  
+| bip_39_word_no_space_10 | closejustpigeonchucklegamebehindarmednutgridfashion |  
+| bip_39_word_no_space_11 | closejustpigeonchucklegamebehindarmednutgridfashionendless |  
+| bip_39_word_no_space_12 | closejustpigeonchucklegamebehindarmednutgridfashionendlessadvice |  
+| bip_39_word_no_space_2 | closejust |  
+| bip_39_word_no_space_3 | closejustpigeon |  
+| bip_39_word_no_space_4 | closejustpigeonchuckle |  
+| bip_39_word_no_space_5 | closejustpigeonchucklegame |  
+| bip_39_word_no_space_6 | closejustpigeonchucklegamebehind |  
+| bip_39_word_no_space_7 | closejustpigeonchucklegamebehindarmed |  
+| bip_39_word_no_space_8 | closejustpigeonchucklegamebehindarmednut |  
+| bip_39_word_no_space_9 | closejustpigeonchucklegamebehindarmednutgrid |  
 | bip_39_word_space_0 | ['close', 'just', 'pigeon', 'chuckle', 'game', 'behind', 'armed', 'nut', 'grid', 'fashion', 'endless', 'advice'] |  
 | bip_39_word_space_1 | close |  
 | bip_39_word_space_10 | close just pigeon chuckle game behind armed nut grid fashion |  

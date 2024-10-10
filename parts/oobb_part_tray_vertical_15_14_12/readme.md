@@ -122,6 +122,18 @@ supply
 evidence
 cool
 moral |  
+| bip_39_word_no_space_1 | else |  
+| bip_39_word_no_space_10 | elseageponypeacelightsupplyevidencecoolmoraltoward |  
+| bip_39_word_no_space_11 | elseageponypeacelightsupplyevidencecoolmoraltowardspeak |  
+| bip_39_word_no_space_12 | elseageponypeacelightsupplyevidencecoolmoraltowardspeakafford |  
+| bip_39_word_no_space_2 | elseage |  
+| bip_39_word_no_space_3 | elseagepony |  
+| bip_39_word_no_space_4 | elseageponypeace |  
+| bip_39_word_no_space_5 | elseageponypeacelight |  
+| bip_39_word_no_space_6 | elseageponypeacelightsupply |  
+| bip_39_word_no_space_7 | elseageponypeacelightsupplyevidence |  
+| bip_39_word_no_space_8 | elseageponypeacelightsupplyevidencecool |  
+| bip_39_word_no_space_9 | elseageponypeacelightsupplyevidencecoolmoral |  
 | bip_39_word_space_0 | ['else', 'age', 'pony', 'peace', 'light', 'supply', 'evidence', 'cool', 'moral', 'toward', 'speak', 'afford'] |  
 | bip_39_word_space_1 | else |  
 | bip_39_word_space_10 | else age pony peace light supply evidence cool moral toward |  

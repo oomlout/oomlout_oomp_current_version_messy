@@ -122,6 +122,18 @@ long
 acquire
 benefit
 lamp |  
+| bip_39_word_no_space_1 | mouse |  
+| bip_39_word_no_space_10 | mousepipeblurgenuineminutelongacquirebenefitlampweekend |  
+| bip_39_word_no_space_11 | mousepipeblurgenuineminutelongacquirebenefitlampweekendreject |  
+| bip_39_word_no_space_12 | mousepipeblurgenuineminutelongacquirebenefitlampweekendrejectafraid |  
+| bip_39_word_no_space_2 | mousepipe |  
+| bip_39_word_no_space_3 | mousepipeblur |  
+| bip_39_word_no_space_4 | mousepipeblurgenuine |  
+| bip_39_word_no_space_5 | mousepipeblurgenuineminute |  
+| bip_39_word_no_space_6 | mousepipeblurgenuineminutelong |  
+| bip_39_word_no_space_7 | mousepipeblurgenuineminutelongacquire |  
+| bip_39_word_no_space_8 | mousepipeblurgenuineminutelongacquirebenefit |  
+| bip_39_word_no_space_9 | mousepipeblurgenuineminutelongacquirebenefitlamp |  
 | bip_39_word_space_0 | ['mouse', 'pipe', 'blur', 'genuine', 'minute', 'long', 'acquire', 'benefit', 'lamp', 'weekend', 'reject', 'afraid'] |  
 | bip_39_word_space_1 | mouse |  
 | bip_39_word_space_10 | mouse pipe blur genuine minute long acquire benefit lamp weekend |  

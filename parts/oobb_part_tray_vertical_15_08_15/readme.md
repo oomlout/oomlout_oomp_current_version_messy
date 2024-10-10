@@ -122,6 +122,18 @@ expose
 extend
 mobile
 glue |  
+| bip_39_word_no_space_1 | silk |  
+| bip_39_word_no_space_10 | silksolvefilmrefuseshareexposeextendmobileglueaction |  
+| bip_39_word_no_space_11 | silksolvefilmrefuseshareexposeextendmobileglueactionbottom |  
+| bip_39_word_no_space_12 | silksolvefilmrefuseshareexposeextendmobileglueactionbottomalter |  
+| bip_39_word_no_space_2 | silksolve |  
+| bip_39_word_no_space_3 | silksolvefilm |  
+| bip_39_word_no_space_4 | silksolvefilmrefuse |  
+| bip_39_word_no_space_5 | silksolvefilmrefuseshare |  
+| bip_39_word_no_space_6 | silksolvefilmrefuseshareexpose |  
+| bip_39_word_no_space_7 | silksolvefilmrefuseshareexposeextend |  
+| bip_39_word_no_space_8 | silksolvefilmrefuseshareexposeextendmobile |  
+| bip_39_word_no_space_9 | silksolvefilmrefuseshareexposeextendmobileglue |  
 | bip_39_word_space_0 | ['silk', 'solve', 'film', 'refuse', 'share', 'expose', 'extend', 'mobile', 'glue', 'action', 'bottom', 'alter'] |  
 | bip_39_word_space_1 | silk |  
 | bip_39_word_space_10 | silk solve film refuse share expose extend mobile glue action |  

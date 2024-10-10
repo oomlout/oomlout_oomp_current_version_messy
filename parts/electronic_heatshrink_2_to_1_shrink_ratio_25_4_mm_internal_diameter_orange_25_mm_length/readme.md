@@ -122,6 +122,18 @@ mind
 gold
 joke
 horn |  
+| bip_39_word_no_space_1 | cruise |  
+| bip_39_word_no_space_10 | cruiseicegluecodeshieldmindgoldjokehornfabric |  
+| bip_39_word_no_space_11 | cruiseicegluecodeshieldmindgoldjokehornfabricround |  
+| bip_39_word_no_space_12 | cruiseicegluecodeshieldmindgoldjokehornfabricroundany |  
+| bip_39_word_no_space_2 | cruiseice |  
+| bip_39_word_no_space_3 | cruiseiceglue |  
+| bip_39_word_no_space_4 | cruiseicegluecode |  
+| bip_39_word_no_space_5 | cruiseicegluecodeshield |  
+| bip_39_word_no_space_6 | cruiseicegluecodeshieldmind |  
+| bip_39_word_no_space_7 | cruiseicegluecodeshieldmindgold |  
+| bip_39_word_no_space_8 | cruiseicegluecodeshieldmindgoldjoke |  
+| bip_39_word_no_space_9 | cruiseicegluecodeshieldmindgoldjokehorn |  
 | bip_39_word_space_0 | ['cruise', 'ice', 'glue', 'code', 'shield', 'mind', 'gold', 'joke', 'horn', 'fabric', 'round', 'any'] |  
 | bip_39_word_space_1 | cruise |  
 | bip_39_word_space_10 | cruise ice glue code shield mind gold joke horn fabric |  

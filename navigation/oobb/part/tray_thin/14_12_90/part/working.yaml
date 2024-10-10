@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bulb
   congress
 
   forget'
+bip_39_word_no_space_1: bulb
+bip_39_word_no_space_10: bulbmedalcrushscraphockeyshrugforumcongressforgetcrater
+bip_39_word_no_space_11: bulbmedalcrushscraphockeyshrugforumcongressforgetcraterprogram
+bip_39_word_no_space_12: bulbmedalcrushscraphockeyshrugforumcongressforgetcraterprogramalmost
+bip_39_word_no_space_2: bulbmedal
+bip_39_word_no_space_3: bulbmedalcrush
+bip_39_word_no_space_4: bulbmedalcrushscrap
+bip_39_word_no_space_5: bulbmedalcrushscraphockey
+bip_39_word_no_space_6: bulbmedalcrushscraphockeyshrug
+bip_39_word_no_space_7: bulbmedalcrushscraphockeyshrugforum
+bip_39_word_no_space_8: bulbmedalcrushscraphockeyshrugforumcongress
+bip_39_word_no_space_9: bulbmedalcrushscraphockeyshrugforumcongressforget
 bip_39_word_space_0:
 - bulb
 - medal

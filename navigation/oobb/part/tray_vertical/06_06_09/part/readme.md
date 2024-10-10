@@ -122,6 +122,18 @@ era
 blur
 shift
 sphere |  
+| bip_39_word_no_space_1 | audit |  
+| bip_39_word_no_space_10 | auditpolesoccerbrokenweterablurshiftspheredream |  
+| bip_39_word_no_space_11 | auditpolesoccerbrokenweterablurshiftspheredreamentire |  
+| bip_39_word_no_space_12 | auditpolesoccerbrokenweterablurshiftspheredreamentireaugust |  
+| bip_39_word_no_space_2 | auditpole |  
+| bip_39_word_no_space_3 | auditpolesoccer |  
+| bip_39_word_no_space_4 | auditpolesoccerbroken |  
+| bip_39_word_no_space_5 | auditpolesoccerbrokenwet |  
+| bip_39_word_no_space_6 | auditpolesoccerbrokenwetera |  
+| bip_39_word_no_space_7 | auditpolesoccerbrokenweterablur |  
+| bip_39_word_no_space_8 | auditpolesoccerbrokenweterablurshift |  
+| bip_39_word_no_space_9 | auditpolesoccerbrokenweterablurshiftsphere |  
 | bip_39_word_space_0 | ['audit', 'pole', 'soccer', 'broken', 'wet', 'era', 'blur', 'shift', 'sphere', 'dream', 'entire', 'august'] |  
 | bip_39_word_space_1 | audit |  
 | bip_39_word_space_10 | audit pole soccer broken wet era blur shift sphere dream |  

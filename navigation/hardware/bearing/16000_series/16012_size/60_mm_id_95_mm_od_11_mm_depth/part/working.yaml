@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'draw
   glide
 
   soap'
+bip_39_word_no_space_1: draw
+bip_39_word_no_space_10: drawnationanotheranytomorrowneckmustglidesoapten
+bip_39_word_no_space_11: drawnationanotheranytomorrowneckmustglidesoaptentide
+bip_39_word_no_space_12: drawnationanotheranytomorrowneckmustglidesoaptentideannounce
+bip_39_word_no_space_2: drawnation
+bip_39_word_no_space_3: drawnationanother
+bip_39_word_no_space_4: drawnationanotherany
+bip_39_word_no_space_5: drawnationanotheranytomorrow
+bip_39_word_no_space_6: drawnationanotheranytomorrowneck
+bip_39_word_no_space_7: drawnationanotheranytomorrowneckmust
+bip_39_word_no_space_8: drawnationanotheranytomorrowneckmustglide
+bip_39_word_no_space_9: drawnationanotheranytomorrowneckmustglidesoap
 bip_39_word_space_0:
 - draw
 - nation

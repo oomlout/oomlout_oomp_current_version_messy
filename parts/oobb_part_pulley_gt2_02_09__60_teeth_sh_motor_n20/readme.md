@@ -122,6 +122,18 @@ spot
 dust
 fringe
 shine |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announceancientillbadgesnackspotdustfringeshinegentle |  
+| bip_39_word_no_space_11 | announceancientillbadgesnackspotdustfringeshinegentleable |  
+| bip_39_word_no_space_12 | announceancientillbadgesnackspotdustfringeshinegentleableauthor |  
+| bip_39_word_no_space_2 | announceancient |  
+| bip_39_word_no_space_3 | announceancientill |  
+| bip_39_word_no_space_4 | announceancientillbadge |  
+| bip_39_word_no_space_5 | announceancientillbadgesnack |  
+| bip_39_word_no_space_6 | announceancientillbadgesnackspot |  
+| bip_39_word_no_space_7 | announceancientillbadgesnackspotdust |  
+| bip_39_word_no_space_8 | announceancientillbadgesnackspotdustfringe |  
+| bip_39_word_no_space_9 | announceancientillbadgesnackspotdustfringeshine |  
 | bip_39_word_space_0 | ['announce', 'ancient', 'ill', 'badge', 'snack', 'spot', 'dust', 'fringe', 'shine', 'gentle', 'able', 'author'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce ancient ill badge snack spot dust fringe shine gentle |  

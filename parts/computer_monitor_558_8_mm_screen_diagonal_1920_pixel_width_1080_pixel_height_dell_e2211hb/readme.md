@@ -122,6 +122,18 @@ awful
 typical
 salt
 achieve |  
+| bip_39_word_no_space_1 | blood |  
+| bip_39_word_no_space_10 | bloodriceblousewebguideawfultypicalsaltachievechoice |  
+| bip_39_word_no_space_11 | bloodriceblousewebguideawfultypicalsaltachievechoiceforward |  
+| bip_39_word_no_space_12 | bloodriceblousewebguideawfultypicalsaltachievechoiceforwardair |  
+| bip_39_word_no_space_2 | bloodrice |  
+| bip_39_word_no_space_3 | bloodriceblouse |  
+| bip_39_word_no_space_4 | bloodriceblouseweb |  
+| bip_39_word_no_space_5 | bloodriceblousewebguide |  
+| bip_39_word_no_space_6 | bloodriceblousewebguideawful |  
+| bip_39_word_no_space_7 | bloodriceblousewebguideawfultypical |  
+| bip_39_word_no_space_8 | bloodriceblousewebguideawfultypicalsalt |  
+| bip_39_word_no_space_9 | bloodriceblousewebguideawfultypicalsaltachieve |  
 | bip_39_word_space_0 | ['blood', 'rice', 'blouse', 'web', 'guide', 'awful', 'typical', 'salt', 'achieve', 'choice', 'forward', 'air'] |  
 | bip_39_word_space_1 | blood |  
 | bip_39_word_space_10 | blood rice blouse web guide awful typical salt achieve choice |  

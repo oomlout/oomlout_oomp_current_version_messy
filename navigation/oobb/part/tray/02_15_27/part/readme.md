@@ -122,6 +122,18 @@ mistake
 slab
 firm
 work |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectdescribedisplayunusualweddingmistakeslabfirmworksettle |  
+| bip_39_word_no_space_11 | perfectdescribedisplayunusualweddingmistakeslabfirmworksettlesample |  
+| bip_39_word_no_space_12 | perfectdescribedisplayunusualweddingmistakeslabfirmworksettlesampleabuse |  
+| bip_39_word_no_space_2 | perfectdescribe |  
+| bip_39_word_no_space_3 | perfectdescribedisplay |  
+| bip_39_word_no_space_4 | perfectdescribedisplayunusual |  
+| bip_39_word_no_space_5 | perfectdescribedisplayunusualwedding |  
+| bip_39_word_no_space_6 | perfectdescribedisplayunusualweddingmistake |  
+| bip_39_word_no_space_7 | perfectdescribedisplayunusualweddingmistakeslab |  
+| bip_39_word_no_space_8 | perfectdescribedisplayunusualweddingmistakeslabfirm |  
+| bip_39_word_no_space_9 | perfectdescribedisplayunusualweddingmistakeslabfirmwork |  
 | bip_39_word_space_0 | ['perfect', 'describe', 'display', 'unusual', 'wedding', 'mistake', 'slab', 'firm', 'work', 'settle', 'sample', 'abuse'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect describe display unusual wedding mistake slab firm work settle |  

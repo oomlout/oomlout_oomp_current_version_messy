@@ -122,6 +122,18 @@ zone
 pear
 letter
 boat |  
+| bip_39_word_no_space_1 | enforce |  
+| bip_39_word_no_space_10 | enforceaccountgrieffirstsilentzonepearletterboatdash |  
+| bip_39_word_no_space_11 | enforceaccountgrieffirstsilentzonepearletterboatdashtrouble |  
+| bip_39_word_no_space_12 | enforceaccountgrieffirstsilentzonepearletterboatdashtroubleavocado |  
+| bip_39_word_no_space_2 | enforceaccount |  
+| bip_39_word_no_space_3 | enforceaccountgrief |  
+| bip_39_word_no_space_4 | enforceaccountgrieffirst |  
+| bip_39_word_no_space_5 | enforceaccountgrieffirstsilent |  
+| bip_39_word_no_space_6 | enforceaccountgrieffirstsilentzone |  
+| bip_39_word_no_space_7 | enforceaccountgrieffirstsilentzonepear |  
+| bip_39_word_no_space_8 | enforceaccountgrieffirstsilentzonepearletter |  
+| bip_39_word_no_space_9 | enforceaccountgrieffirstsilentzonepearletterboat |  
 | bip_39_word_space_0 | ['enforce', 'account', 'grief', 'first', 'silent', 'zone', 'pear', 'letter', 'boat', 'dash', 'trouble', 'avocado'] |  
 | bip_39_word_space_1 | enforce |  
 | bip_39_word_space_10 | enforce account grief first silent zone pear letter boat dash |  

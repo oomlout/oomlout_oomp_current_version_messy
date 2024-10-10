@@ -122,6 +122,18 @@ better
 prize
 pizza
 wealth |  
+| bip_39_word_no_space_1 | badge |  
+| bip_39_word_no_space_10 | badgeribbonabilitybusyweddingbetterprizepizzawealthmyth |  
+| bip_39_word_no_space_11 | badgeribbonabilitybusyweddingbetterprizepizzawealthmythreplace |  
+| bip_39_word_no_space_12 | badgeribbonabilitybusyweddingbetterprizepizzawealthmythreplaceapart |  
+| bip_39_word_no_space_2 | badgeribbon |  
+| bip_39_word_no_space_3 | badgeribbonability |  
+| bip_39_word_no_space_4 | badgeribbonabilitybusy |  
+| bip_39_word_no_space_5 | badgeribbonabilitybusywedding |  
+| bip_39_word_no_space_6 | badgeribbonabilitybusyweddingbetter |  
+| bip_39_word_no_space_7 | badgeribbonabilitybusyweddingbetterprize |  
+| bip_39_word_no_space_8 | badgeribbonabilitybusyweddingbetterprizepizza |  
+| bip_39_word_no_space_9 | badgeribbonabilitybusyweddingbetterprizepizzawealth |  
 | bip_39_word_space_0 | ['badge', 'ribbon', 'ability', 'busy', 'wedding', 'better', 'prize', 'pizza', 'wealth', 'myth', 'replace', 'apart'] |  
 | bip_39_word_space_1 | badge |  
 | bip_39_word_space_10 | badge ribbon ability busy wedding better prize pizza wealth myth |  

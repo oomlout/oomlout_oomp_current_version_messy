@@ -122,6 +122,18 @@ summer
 obvious
 casino
 fancy |  
+| bip_39_word_no_space_1 | tuition |  
+| bip_39_word_no_space_10 | tuitionscissorscallcertainsincesummerobviouscasinofancywinter |  
+| bip_39_word_no_space_11 | tuitionscissorscallcertainsincesummerobviouscasinofancywinterearth |  
+| bip_39_word_no_space_12 | tuitionscissorscallcertainsincesummerobviouscasinofancywinterearthage |  
+| bip_39_word_no_space_2 | tuitionscissors |  
+| bip_39_word_no_space_3 | tuitionscissorscall |  
+| bip_39_word_no_space_4 | tuitionscissorscallcertain |  
+| bip_39_word_no_space_5 | tuitionscissorscallcertainsince |  
+| bip_39_word_no_space_6 | tuitionscissorscallcertainsincesummer |  
+| bip_39_word_no_space_7 | tuitionscissorscallcertainsincesummerobvious |  
+| bip_39_word_no_space_8 | tuitionscissorscallcertainsincesummerobviouscasino |  
+| bip_39_word_no_space_9 | tuitionscissorscallcertainsincesummerobviouscasinofancy |  
 | bip_39_word_space_0 | ['tuition', 'scissors', 'call', 'certain', 'since', 'summer', 'obvious', 'casino', 'fancy', 'winter', 'earth', 'age'] |  
 | bip_39_word_space_1 | tuition |  
 | bip_39_word_space_10 | tuition scissors call certain since summer obvious casino fancy winter |  

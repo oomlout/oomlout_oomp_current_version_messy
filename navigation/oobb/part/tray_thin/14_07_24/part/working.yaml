@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ecology
   team
 
   mention'
+bip_39_word_no_space_1: ecology
+bip_39_word_no_space_10: ecologydetectroadcavecoyotecratermazeteammentionfamous
+bip_39_word_no_space_11: ecologydetectroadcavecoyotecratermazeteammentionfamousalter
+bip_39_word_no_space_12: ecologydetectroadcavecoyotecratermazeteammentionfamousalterattract
+bip_39_word_no_space_2: ecologydetect
+bip_39_word_no_space_3: ecologydetectroad
+bip_39_word_no_space_4: ecologydetectroadcave
+bip_39_word_no_space_5: ecologydetectroadcavecoyote
+bip_39_word_no_space_6: ecologydetectroadcavecoyotecrater
+bip_39_word_no_space_7: ecologydetectroadcavecoyotecratermaze
+bip_39_word_no_space_8: ecologydetectroadcavecoyotecratermazeteam
+bip_39_word_no_space_9: ecologydetectroadcavecoyotecratermazeteammention
 bip_39_word_space_0:
 - ecology
 - detect

@@ -122,6 +122,18 @@ saddle
 resource
 city
 health |  
+| bip_39_word_no_space_1 | square |  
+| bip_39_word_no_space_10 | squareclaimcapablealwaysamusedsaddleresourcecityhealthyear |  
+| bip_39_word_no_space_11 | squareclaimcapablealwaysamusedsaddleresourcecityhealthyearinsect |  
+| bip_39_word_no_space_12 | squareclaimcapablealwaysamusedsaddleresourcecityhealthyearinsectantique |  
+| bip_39_word_no_space_2 | squareclaim |  
+| bip_39_word_no_space_3 | squareclaimcapable |  
+| bip_39_word_no_space_4 | squareclaimcapablealways |  
+| bip_39_word_no_space_5 | squareclaimcapablealwaysamused |  
+| bip_39_word_no_space_6 | squareclaimcapablealwaysamusedsaddle |  
+| bip_39_word_no_space_7 | squareclaimcapablealwaysamusedsaddleresource |  
+| bip_39_word_no_space_8 | squareclaimcapablealwaysamusedsaddleresourcecity |  
+| bip_39_word_no_space_9 | squareclaimcapablealwaysamusedsaddleresourcecityhealth |  
 | bip_39_word_space_0 | ['square', 'claim', 'capable', 'always', 'amused', 'saddle', 'resource', 'city', 'health', 'year', 'insect', 'antique'] |  
 | bip_39_word_space_1 | square |  
 | bip_39_word_space_10 | square claim capable always amused saddle resource city health year |  

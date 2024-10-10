@@ -122,6 +122,18 @@ legal
 text
 keep
 length |  
+| bip_39_word_no_space_1 | daughter |  
+| bip_39_word_no_space_10 | daughterenhancemarchwaspwheellegaltextkeeplengthmobile |  
+| bip_39_word_no_space_11 | daughterenhancemarchwaspwheellegaltextkeeplengthmobileempower |  
+| bip_39_word_no_space_12 | daughterenhancemarchwaspwheellegaltextkeeplengthmobileempoweralso |  
+| bip_39_word_no_space_2 | daughterenhance |  
+| bip_39_word_no_space_3 | daughterenhancemarch |  
+| bip_39_word_no_space_4 | daughterenhancemarchwasp |  
+| bip_39_word_no_space_5 | daughterenhancemarchwaspwheel |  
+| bip_39_word_no_space_6 | daughterenhancemarchwaspwheellegal |  
+| bip_39_word_no_space_7 | daughterenhancemarchwaspwheellegaltext |  
+| bip_39_word_no_space_8 | daughterenhancemarchwaspwheellegaltextkeep |  
+| bip_39_word_no_space_9 | daughterenhancemarchwaspwheellegaltextkeeplength |  
 | bip_39_word_space_0 | ['daughter', 'enhance', 'march', 'wasp', 'wheel', 'legal', 'text', 'keep', 'length', 'mobile', 'empower', 'also'] |  
 | bip_39_word_space_1 | daughter |  
 | bip_39_word_space_10 | daughter enhance march wasp wheel legal text keep length mobile |  

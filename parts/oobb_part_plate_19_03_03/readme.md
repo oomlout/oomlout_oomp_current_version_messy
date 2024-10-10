@@ -122,6 +122,18 @@ park
 print
 void
 shuffle |  
+| bip_39_word_no_space_1 | cheap |  
+| bip_39_word_no_space_10 | cheapfoilfrownspherelittleparkprintvoidshufflecotton |  
+| bip_39_word_no_space_11 | cheapfoilfrownspherelittleparkprintvoidshufflecottonspecial |  
+| bip_39_word_no_space_12 | cheapfoilfrownspherelittleparkprintvoidshufflecottonspecialall |  
+| bip_39_word_no_space_2 | cheapfoil |  
+| bip_39_word_no_space_3 | cheapfoilfrown |  
+| bip_39_word_no_space_4 | cheapfoilfrownsphere |  
+| bip_39_word_no_space_5 | cheapfoilfrownspherelittle |  
+| bip_39_word_no_space_6 | cheapfoilfrownspherelittlepark |  
+| bip_39_word_no_space_7 | cheapfoilfrownspherelittleparkprint |  
+| bip_39_word_no_space_8 | cheapfoilfrownspherelittleparkprintvoid |  
+| bip_39_word_no_space_9 | cheapfoilfrownspherelittleparkprintvoidshuffle |  
 | bip_39_word_space_0 | ['cheap', 'foil', 'frown', 'sphere', 'little', 'park', 'print', 'void', 'shuffle', 'cotton', 'special', 'all'] |  
 | bip_39_word_space_1 | cheap |  
 | bip_39_word_space_10 | cheap foil frown sphere little park print void shuffle cotton |  

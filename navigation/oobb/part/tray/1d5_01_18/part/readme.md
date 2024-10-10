@@ -122,6 +122,18 @@ secret
 muscle
 modify
 dutch |  
+| bip_39_word_no_space_1 | rather |  
+| bip_39_word_no_space_10 | ratherschemeancientbicyclegoddesssecretmusclemodifydutchtalent |  
+| bip_39_word_no_space_11 | ratherschemeancientbicyclegoddesssecretmusclemodifydutchtalentclimb |  
+| bip_39_word_no_space_12 | ratherschemeancientbicyclegoddesssecretmusclemodifydutchtalentclimbassist |  
+| bip_39_word_no_space_2 | ratherscheme |  
+| bip_39_word_no_space_3 | ratherschemeancient |  
+| bip_39_word_no_space_4 | ratherschemeancientbicycle |  
+| bip_39_word_no_space_5 | ratherschemeancientbicyclegoddess |  
+| bip_39_word_no_space_6 | ratherschemeancientbicyclegoddesssecret |  
+| bip_39_word_no_space_7 | ratherschemeancientbicyclegoddesssecretmuscle |  
+| bip_39_word_no_space_8 | ratherschemeancientbicyclegoddesssecretmusclemodify |  
+| bip_39_word_no_space_9 | ratherschemeancientbicyclegoddesssecretmusclemodifydutch |  
 | bip_39_word_space_0 | ['rather', 'scheme', 'ancient', 'bicycle', 'goddess', 'secret', 'muscle', 'modify', 'dutch', 'talent', 'climb', 'assist'] |  
 | bip_39_word_space_1 | rather |  
 | bip_39_word_space_10 | rather scheme ancient bicycle goddess secret muscle modify dutch talent |  

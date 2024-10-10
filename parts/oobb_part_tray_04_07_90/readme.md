@@ -122,6 +122,18 @@ dutch
 trust
 cruel
 feature |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchfuturehealthequiptipdutchtrustcruelfeaturejungle |  
+| bip_39_word_no_space_11 | matchfuturehealthequiptipdutchtrustcruelfeaturejungleketchup |  
+| bip_39_word_no_space_12 | matchfuturehealthequiptipdutchtrustcruelfeaturejungleketchupacross |  
+| bip_39_word_no_space_2 | matchfuture |  
+| bip_39_word_no_space_3 | matchfuturehealth |  
+| bip_39_word_no_space_4 | matchfuturehealthequip |  
+| bip_39_word_no_space_5 | matchfuturehealthequiptip |  
+| bip_39_word_no_space_6 | matchfuturehealthequiptipdutch |  
+| bip_39_word_no_space_7 | matchfuturehealthequiptipdutchtrust |  
+| bip_39_word_no_space_8 | matchfuturehealthequiptipdutchtrustcruel |  
+| bip_39_word_no_space_9 | matchfuturehealthequiptipdutchtrustcruelfeature |  
 | bip_39_word_space_0 | ['match', 'future', 'health', 'equip', 'tip', 'dutch', 'trust', 'cruel', 'feature', 'jungle', 'ketchup', 'across'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match future health equip tip dutch trust cruel feature jungle |  

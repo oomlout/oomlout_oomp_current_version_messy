@@ -122,6 +122,18 @@ poverty
 butter
 veteran
 lucky |  
+| bip_39_word_no_space_1 | sad |  
+| bip_39_word_no_space_10 | sadrailargueheadspraypovertybutterveteranluckyharsh |  
+| bip_39_word_no_space_11 | sadrailargueheadspraypovertybutterveteranluckyharshcomfort |  
+| bip_39_word_no_space_12 | sadrailargueheadspraypovertybutterveteranluckyharshcomfortair |  
+| bip_39_word_no_space_2 | sadrail |  
+| bip_39_word_no_space_3 | sadrailargue |  
+| bip_39_word_no_space_4 | sadrailarguehead |  
+| bip_39_word_no_space_5 | sadrailargueheadspray |  
+| bip_39_word_no_space_6 | sadrailargueheadspraypoverty |  
+| bip_39_word_no_space_7 | sadrailargueheadspraypovertybutter |  
+| bip_39_word_no_space_8 | sadrailargueheadspraypovertybutterveteran |  
+| bip_39_word_no_space_9 | sadrailargueheadspraypovertybutterveteranlucky |  
 | bip_39_word_space_0 | ['sad', 'rail', 'argue', 'head', 'spray', 'poverty', 'butter', 'veteran', 'lucky', 'harsh', 'comfort', 'air'] |  
 | bip_39_word_space_1 | sad |  
 | bip_39_word_space_10 | sad rail argue head spray poverty butter veteran lucky harsh |  

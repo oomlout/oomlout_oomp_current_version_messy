@@ -122,6 +122,18 @@ insect
 mouse
 tuition
 subject |  
+| bip_39_word_no_space_1 | drip |  
+| bip_39_word_no_space_10 | dripfueluselessvitalendlessinsectmousetuitionsubjectsolid |  
+| bip_39_word_no_space_11 | dripfueluselessvitalendlessinsectmousetuitionsubjectsolidcool |  
+| bip_39_word_no_space_12 | dripfueluselessvitalendlessinsectmousetuitionsubjectsolidcoolabsent |  
+| bip_39_word_no_space_2 | dripfuel |  
+| bip_39_word_no_space_3 | dripfueluseless |  
+| bip_39_word_no_space_4 | dripfueluselessvital |  
+| bip_39_word_no_space_5 | dripfueluselessvitalendless |  
+| bip_39_word_no_space_6 | dripfueluselessvitalendlessinsect |  
+| bip_39_word_no_space_7 | dripfueluselessvitalendlessinsectmouse |  
+| bip_39_word_no_space_8 | dripfueluselessvitalendlessinsectmousetuition |  
+| bip_39_word_no_space_9 | dripfueluselessvitalendlessinsectmousetuitionsubject |  
 | bip_39_word_space_0 | ['drip', 'fuel', 'useless', 'vital', 'endless', 'insect', 'mouse', 'tuition', 'subject', 'solid', 'cool', 'absent'] |  
 | bip_39_word_space_1 | drip |  
 | bip_39_word_space_10 | drip fuel useless vital endless insect mouse tuition subject solid |  

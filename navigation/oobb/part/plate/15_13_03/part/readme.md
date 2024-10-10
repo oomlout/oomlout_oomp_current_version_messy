@@ -122,6 +122,18 @@ debate
 metal
 curtain
 budget |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flametradehoneyvitalgriddebatemetalcurtainbudgethand |  
+| bip_39_word_no_space_11 | flametradehoneyvitalgriddebatemetalcurtainbudgethandsquirrel |  
+| bip_39_word_no_space_12 | flametradehoneyvitalgriddebatemetalcurtainbudgethandsquirrelantique |  
+| bip_39_word_no_space_2 | flametrade |  
+| bip_39_word_no_space_3 | flametradehoney |  
+| bip_39_word_no_space_4 | flametradehoneyvital |  
+| bip_39_word_no_space_5 | flametradehoneyvitalgrid |  
+| bip_39_word_no_space_6 | flametradehoneyvitalgriddebate |  
+| bip_39_word_no_space_7 | flametradehoneyvitalgriddebatemetal |  
+| bip_39_word_no_space_8 | flametradehoneyvitalgriddebatemetalcurtain |  
+| bip_39_word_no_space_9 | flametradehoneyvitalgriddebatemetalcurtainbudget |  
 | bip_39_word_space_0 | ['flame', 'trade', 'honey', 'vital', 'grid', 'debate', 'metal', 'curtain', 'budget', 'hand', 'squirrel', 'antique'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame trade honey vital grid debate metal curtain budget hand |  

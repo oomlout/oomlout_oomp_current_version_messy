@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wear
   victory
 
   wait'
+bip_39_word_no_space_1: wear
+bip_39_word_no_space_10: wearholidayverypuppylicensezoocrimevictorywaitfigure
+bip_39_word_no_space_11: wearholidayverypuppylicensezoocrimevictorywaitfigureshy
+bip_39_word_no_space_12: wearholidayverypuppylicensezoocrimevictorywaitfigureshyahead
+bip_39_word_no_space_2: wearholiday
+bip_39_word_no_space_3: wearholidayvery
+bip_39_word_no_space_4: wearholidayverypuppy
+bip_39_word_no_space_5: wearholidayverypuppylicense
+bip_39_word_no_space_6: wearholidayverypuppylicensezoo
+bip_39_word_no_space_7: wearholidayverypuppylicensezoocrime
+bip_39_word_no_space_8: wearholidayverypuppylicensezoocrimevictory
+bip_39_word_no_space_9: wearholidayverypuppylicensezoocrimevictorywait
 bip_39_word_space_0:
 - wear
 - holiday

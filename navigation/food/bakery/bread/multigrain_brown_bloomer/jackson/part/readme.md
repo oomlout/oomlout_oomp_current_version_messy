@@ -122,6 +122,18 @@ step
 supreme
 maximum
 range |  
+| bip_39_word_no_space_1 | write |  
+| bip_39_word_no_space_10 | writepinkspeakcommonofficestepsuprememaximumrangeclown |  
+| bip_39_word_no_space_11 | writepinkspeakcommonofficestepsuprememaximumrangeclownexist |  
+| bip_39_word_no_space_12 | writepinkspeakcommonofficestepsuprememaximumrangeclownexistall |  
+| bip_39_word_no_space_2 | writepink |  
+| bip_39_word_no_space_3 | writepinkspeak |  
+| bip_39_word_no_space_4 | writepinkspeakcommon |  
+| bip_39_word_no_space_5 | writepinkspeakcommonoffice |  
+| bip_39_word_no_space_6 | writepinkspeakcommonofficestep |  
+| bip_39_word_no_space_7 | writepinkspeakcommonofficestepsupreme |  
+| bip_39_word_no_space_8 | writepinkspeakcommonofficestepsuprememaximum |  
+| bip_39_word_no_space_9 | writepinkspeakcommonofficestepsuprememaximumrange |  
 | bip_39_word_space_0 | ['write', 'pink', 'speak', 'common', 'office', 'step', 'supreme', 'maximum', 'range', 'clown', 'exist', 'all'] |  
 | bip_39_word_space_1 | write |  
 | bip_39_word_space_10 | write pink speak common office step supreme maximum range clown |  

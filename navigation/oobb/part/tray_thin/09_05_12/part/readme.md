@@ -122,6 +122,18 @@ network
 reform
 lake
 only |  
+| bip_39_word_no_space_1 | spring |  
+| bip_39_word_no_space_10 | springbirthvacantearthdinosaurnetworkreformlakeonlycrack |  
+| bip_39_word_no_space_11 | springbirthvacantearthdinosaurnetworkreformlakeonlycrackscrap |  
+| bip_39_word_no_space_12 | springbirthvacantearthdinosaurnetworkreformlakeonlycrackscrapabsurd |  
+| bip_39_word_no_space_2 | springbirth |  
+| bip_39_word_no_space_3 | springbirthvacant |  
+| bip_39_word_no_space_4 | springbirthvacantearth |  
+| bip_39_word_no_space_5 | springbirthvacantearthdinosaur |  
+| bip_39_word_no_space_6 | springbirthvacantearthdinosaurnetwork |  
+| bip_39_word_no_space_7 | springbirthvacantearthdinosaurnetworkreform |  
+| bip_39_word_no_space_8 | springbirthvacantearthdinosaurnetworkreformlake |  
+| bip_39_word_no_space_9 | springbirthvacantearthdinosaurnetworkreformlakeonly |  
 | bip_39_word_space_0 | ['spring', 'birth', 'vacant', 'earth', 'dinosaur', 'network', 'reform', 'lake', 'only', 'crack', 'scrap', 'absurd'] |  
 | bip_39_word_space_1 | spring |  
 | bip_39_word_space_10 | spring birth vacant earth dinosaur network reform lake only crack |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'coffee
   festival
 
   goat'
+bip_39_word_no_space_1: coffee
+bip_39_word_no_space_10: coffeebeforearmsolidalterbelowvisualfestivalgoatrookie
+bip_39_word_no_space_11: coffeebeforearmsolidalterbelowvisualfestivalgoatrookiesilent
+bip_39_word_no_space_12: coffeebeforearmsolidalterbelowvisualfestivalgoatrookiesilentanchor
+bip_39_word_no_space_2: coffeebefore
+bip_39_word_no_space_3: coffeebeforearm
+bip_39_word_no_space_4: coffeebeforearmsolid
+bip_39_word_no_space_5: coffeebeforearmsolidalter
+bip_39_word_no_space_6: coffeebeforearmsolidalterbelow
+bip_39_word_no_space_7: coffeebeforearmsolidalterbelowvisual
+bip_39_word_no_space_8: coffeebeforearmsolidalterbelowvisualfestival
+bip_39_word_no_space_9: coffeebeforearmsolidalterbelowvisualfestivalgoat
 bip_39_word_space_0:
 - coffee
 - before

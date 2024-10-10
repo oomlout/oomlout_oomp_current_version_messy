@@ -122,6 +122,18 @@ sister
 maze
 add
 sell |  
+| bip_39_word_no_space_1 | bind |  
+| bip_39_word_no_space_10 | bindatomculturewalkskinsistermazeaddsellsilk |  
+| bip_39_word_no_space_11 | bindatomculturewalkskinsistermazeaddsellsilkthrive |  
+| bip_39_word_no_space_12 | bindatomculturewalkskinsistermazeaddsellsilkthriveappear |  
+| bip_39_word_no_space_2 | bindatom |  
+| bip_39_word_no_space_3 | bindatomculture |  
+| bip_39_word_no_space_4 | bindatomculturewalk |  
+| bip_39_word_no_space_5 | bindatomculturewalkskin |  
+| bip_39_word_no_space_6 | bindatomculturewalkskinsister |  
+| bip_39_word_no_space_7 | bindatomculturewalkskinsistermaze |  
+| bip_39_word_no_space_8 | bindatomculturewalkskinsistermazeadd |  
+| bip_39_word_no_space_9 | bindatomculturewalkskinsistermazeaddsell |  
 | bip_39_word_space_0 | ['bind', 'atom', 'culture', 'walk', 'skin', 'sister', 'maze', 'add', 'sell', 'silk', 'thrive', 'appear'] |  
 | bip_39_word_space_1 | bind |  
 | bip_39_word_space_10 | bind atom culture walk skin sister maze add sell silk |  

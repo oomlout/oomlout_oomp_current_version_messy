@@ -122,6 +122,18 @@ labor
 kidney
 bid
 club |  
+| bip_39_word_no_space_1 | arrest |  
+| bip_39_word_no_space_10 | arrestaimstingjokeaddlaborkidneybidclubmail |  
+| bip_39_word_no_space_11 | arrestaimstingjokeaddlaborkidneybidclubmailrobust |  
+| bip_39_word_no_space_12 | arrestaimstingjokeaddlaborkidneybidclubmailrobustasthma |  
+| bip_39_word_no_space_2 | arrestaim |  
+| bip_39_word_no_space_3 | arrestaimsting |  
+| bip_39_word_no_space_4 | arrestaimstingjoke |  
+| bip_39_word_no_space_5 | arrestaimstingjokeadd |  
+| bip_39_word_no_space_6 | arrestaimstingjokeaddlabor |  
+| bip_39_word_no_space_7 | arrestaimstingjokeaddlaborkidney |  
+| bip_39_word_no_space_8 | arrestaimstingjokeaddlaborkidneybid |  
+| bip_39_word_no_space_9 | arrestaimstingjokeaddlaborkidneybidclub |  
 | bip_39_word_space_0 | ['arrest', 'aim', 'sting', 'joke', 'add', 'labor', 'kidney', 'bid', 'club', 'mail', 'robust', 'asthma'] |  
 | bip_39_word_space_1 | arrest |  
 | bip_39_word_space_10 | arrest aim sting joke add labor kidney bid club mail |  

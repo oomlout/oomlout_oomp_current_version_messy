@@ -122,6 +122,18 @@ canyon
 lady
 banana
 earth |  
+| bip_39_word_no_space_1 | hat |  
+| bip_39_word_no_space_10 | hatraceversiontackledramacanyonladybananaearthmaple |  
+| bip_39_word_no_space_11 | hatraceversiontackledramacanyonladybananaearthmaplelobster |  
+| bip_39_word_no_space_12 | hatraceversiontackledramacanyonladybananaearthmaplelobsteraerobic |  
+| bip_39_word_no_space_2 | hatrace |  
+| bip_39_word_no_space_3 | hatraceversion |  
+| bip_39_word_no_space_4 | hatraceversiontackle |  
+| bip_39_word_no_space_5 | hatraceversiontackledrama |  
+| bip_39_word_no_space_6 | hatraceversiontackledramacanyon |  
+| bip_39_word_no_space_7 | hatraceversiontackledramacanyonlady |  
+| bip_39_word_no_space_8 | hatraceversiontackledramacanyonladybanana |  
+| bip_39_word_no_space_9 | hatraceversiontackledramacanyonladybananaearth |  
 | bip_39_word_space_0 | ['hat', 'race', 'version', 'tackle', 'drama', 'canyon', 'lady', 'banana', 'earth', 'maple', 'lobster', 'aerobic'] |  
 | bip_39_word_space_1 | hat |  
 | bip_39_word_space_10 | hat race version tackle drama canyon lady banana earth maple |  

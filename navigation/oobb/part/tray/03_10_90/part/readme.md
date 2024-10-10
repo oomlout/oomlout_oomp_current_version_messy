@@ -122,6 +122,18 @@ salt
 stable
 render
 pumpkin |  
+| bip_39_word_no_space_1 | skull |  
+| bip_39_word_no_space_10 | skulldecademidnightinitialproblemsaltstablerenderpumpkinfeel |  
+| bip_39_word_no_space_11 | skulldecademidnightinitialproblemsaltstablerenderpumpkinfeelstruggle |  
+| bip_39_word_no_space_12 | skulldecademidnightinitialproblemsaltstablerenderpumpkinfeelstruggleankle |  
+| bip_39_word_no_space_2 | skulldecade |  
+| bip_39_word_no_space_3 | skulldecademidnight |  
+| bip_39_word_no_space_4 | skulldecademidnightinitial |  
+| bip_39_word_no_space_5 | skulldecademidnightinitialproblem |  
+| bip_39_word_no_space_6 | skulldecademidnightinitialproblemsalt |  
+| bip_39_word_no_space_7 | skulldecademidnightinitialproblemsaltstable |  
+| bip_39_word_no_space_8 | skulldecademidnightinitialproblemsaltstablerender |  
+| bip_39_word_no_space_9 | skulldecademidnightinitialproblemsaltstablerenderpumpkin |  
 | bip_39_word_space_0 | ['skull', 'decade', 'midnight', 'initial', 'problem', 'salt', 'stable', 'render', 'pumpkin', 'feel', 'struggle', 'ankle'] |  
 | bip_39_word_space_1 | skull |  
 | bip_39_word_space_10 | skull decade midnight initial problem salt stable render pumpkin feel |  

@@ -122,6 +122,18 @@ proud
 tilt
 earn
 frown |  
+| bip_39_word_no_space_1 | calm |  
+| bip_39_word_no_space_10 | calmsurveyconductvisaexpandproudtiltearnfrownaccount |  
+| bip_39_word_no_space_11 | calmsurveyconductvisaexpandproudtiltearnfrownaccountcard |  
+| bip_39_word_no_space_12 | calmsurveyconductvisaexpandproudtiltearnfrownaccountcardaddress |  
+| bip_39_word_no_space_2 | calmsurvey |  
+| bip_39_word_no_space_3 | calmsurveyconduct |  
+| bip_39_word_no_space_4 | calmsurveyconductvisa |  
+| bip_39_word_no_space_5 | calmsurveyconductvisaexpand |  
+| bip_39_word_no_space_6 | calmsurveyconductvisaexpandproud |  
+| bip_39_word_no_space_7 | calmsurveyconductvisaexpandproudtilt |  
+| bip_39_word_no_space_8 | calmsurveyconductvisaexpandproudtiltearn |  
+| bip_39_word_no_space_9 | calmsurveyconductvisaexpandproudtiltearnfrown |  
 | bip_39_word_space_0 | ['calm', 'survey', 'conduct', 'visa', 'expand', 'proud', 'tilt', 'earn', 'frown', 'account', 'card', 'address'] |  
 | bip_39_word_space_1 | calm |  
 | bip_39_word_space_10 | calm survey conduct visa expand proud tilt earn frown account |  

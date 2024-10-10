@@ -122,6 +122,18 @@ spare
 nut
 ride
 mean |  
+| bip_39_word_no_space_1 | celery |  
+| bip_39_word_no_space_10 | celerytoiletphotocupreformsparenutridemeancushion |  
+| bip_39_word_no_space_11 | celerytoiletphotocupreformsparenutridemeancushionkidney |  
+| bip_39_word_no_space_12 | celerytoiletphotocupreformsparenutridemeancushionkidneyable |  
+| bip_39_word_no_space_2 | celerytoilet |  
+| bip_39_word_no_space_3 | celerytoiletphoto |  
+| bip_39_word_no_space_4 | celerytoiletphotocup |  
+| bip_39_word_no_space_5 | celerytoiletphotocupreform |  
+| bip_39_word_no_space_6 | celerytoiletphotocupreformspare |  
+| bip_39_word_no_space_7 | celerytoiletphotocupreformsparenut |  
+| bip_39_word_no_space_8 | celerytoiletphotocupreformsparenutride |  
+| bip_39_word_no_space_9 | celerytoiletphotocupreformsparenutridemean |  
 | bip_39_word_space_0 | ['celery', 'toilet', 'photo', 'cup', 'reform', 'spare', 'nut', 'ride', 'mean', 'cushion', 'kidney', 'able'] |  
 | bip_39_word_space_1 | celery |  
 | bip_39_word_space_10 | celery toilet photo cup reform spare nut ride mean cushion |  

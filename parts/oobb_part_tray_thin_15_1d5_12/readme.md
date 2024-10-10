@@ -122,6 +122,18 @@ mimic
 trial
 powder
 tenant |  
+| bip_39_word_no_space_1 | skin |  
+| bip_39_word_no_space_10 | skindirtsystemexitrecipemimictrialpowdertenantcactus |  
+| bip_39_word_no_space_11 | skindirtsystemexitrecipemimictrialpowdertenantcactusstate |  
+| bip_39_word_no_space_12 | skindirtsystemexitrecipemimictrialpowdertenantcactusstateaudit |  
+| bip_39_word_no_space_2 | skindirt |  
+| bip_39_word_no_space_3 | skindirtsystem |  
+| bip_39_word_no_space_4 | skindirtsystemexit |  
+| bip_39_word_no_space_5 | skindirtsystemexitrecipe |  
+| bip_39_word_no_space_6 | skindirtsystemexitrecipemimic |  
+| bip_39_word_no_space_7 | skindirtsystemexitrecipemimictrial |  
+| bip_39_word_no_space_8 | skindirtsystemexitrecipemimictrialpowder |  
+| bip_39_word_no_space_9 | skindirtsystemexitrecipemimictrialpowdertenant |  
 | bip_39_word_space_0 | ['skin', 'dirt', 'system', 'exit', 'recipe', 'mimic', 'trial', 'powder', 'tenant', 'cactus', 'state', 'audit'] |  
 | bip_39_word_space_1 | skin |  
 | bip_39_word_space_10 | skin dirt system exit recipe mimic trial powder tenant cactus |  

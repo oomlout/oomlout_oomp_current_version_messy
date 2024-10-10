@@ -122,6 +122,18 @@ ill
 target
 repair
 keen |  
+| bip_39_word_no_space_1 | baby |  
+| bip_39_word_no_space_10 | babypassfeaturerecallshedilltargetrepairkeensuit |  
+| bip_39_word_no_space_11 | babypassfeaturerecallshedilltargetrepairkeensuitseven |  
+| bip_39_word_no_space_12 | babypassfeaturerecallshedilltargetrepairkeensuitsevenable |  
+| bip_39_word_no_space_2 | babypass |  
+| bip_39_word_no_space_3 | babypassfeature |  
+| bip_39_word_no_space_4 | babypassfeaturerecall |  
+| bip_39_word_no_space_5 | babypassfeaturerecallshed |  
+| bip_39_word_no_space_6 | babypassfeaturerecallshedill |  
+| bip_39_word_no_space_7 | babypassfeaturerecallshedilltarget |  
+| bip_39_word_no_space_8 | babypassfeaturerecallshedilltargetrepair |  
+| bip_39_word_no_space_9 | babypassfeaturerecallshedilltargetrepairkeen |  
 | bip_39_word_space_0 | ['baby', 'pass', 'feature', 'recall', 'shed', 'ill', 'target', 'repair', 'keen', 'suit', 'seven', 'able'] |  
 | bip_39_word_space_1 | baby |  
 | bip_39_word_space_10 | baby pass feature recall shed ill target repair keen suit |  

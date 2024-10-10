@@ -122,6 +122,18 @@ march
 version
 pioneer
 knife |  
+| bip_39_word_no_space_1 | faculty |  
+| bip_39_word_no_space_10 | facultyproblemcanyonringpopularmarchversionpioneerknifesun |  
+| bip_39_word_no_space_11 | facultyproblemcanyonringpopularmarchversionpioneerknifesunmule |  
+| bip_39_word_no_space_12 | facultyproblemcanyonringpopularmarchversionpioneerknifesunmuleapology |  
+| bip_39_word_no_space_2 | facultyproblem |  
+| bip_39_word_no_space_3 | facultyproblemcanyon |  
+| bip_39_word_no_space_4 | facultyproblemcanyonring |  
+| bip_39_word_no_space_5 | facultyproblemcanyonringpopular |  
+| bip_39_word_no_space_6 | facultyproblemcanyonringpopularmarch |  
+| bip_39_word_no_space_7 | facultyproblemcanyonringpopularmarchversion |  
+| bip_39_word_no_space_8 | facultyproblemcanyonringpopularmarchversionpioneer |  
+| bip_39_word_no_space_9 | facultyproblemcanyonringpopularmarchversionpioneerknife |  
 | bip_39_word_space_0 | ['faculty', 'problem', 'canyon', 'ring', 'popular', 'march', 'version', 'pioneer', 'knife', 'sun', 'mule', 'apology'] |  
 | bip_39_word_space_1 | faculty |  
 | bip_39_word_space_10 | faculty problem canyon ring popular march version pioneer knife sun |  

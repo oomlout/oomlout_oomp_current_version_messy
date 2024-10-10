@@ -122,6 +122,18 @@ must
 noodle
 place
 coin |  
+| bip_39_word_no_space_1 | twice |  
+| bip_39_word_no_space_10 | twicedishchimneydustpactmustnoodleplacecoindevote |  
+| bip_39_word_no_space_11 | twicedishchimneydustpactmustnoodleplacecoindevotecrater |  
+| bip_39_word_no_space_12 | twicedishchimneydustpactmustnoodleplacecoindevotecraterauto |  
+| bip_39_word_no_space_2 | twicedish |  
+| bip_39_word_no_space_3 | twicedishchimney |  
+| bip_39_word_no_space_4 | twicedishchimneydust |  
+| bip_39_word_no_space_5 | twicedishchimneydustpact |  
+| bip_39_word_no_space_6 | twicedishchimneydustpactmust |  
+| bip_39_word_no_space_7 | twicedishchimneydustpactmustnoodle |  
+| bip_39_word_no_space_8 | twicedishchimneydustpactmustnoodleplace |  
+| bip_39_word_no_space_9 | twicedishchimneydustpactmustnoodleplacecoin |  
 | bip_39_word_space_0 | ['twice', 'dish', 'chimney', 'dust', 'pact', 'must', 'noodle', 'place', 'coin', 'devote', 'crater', 'auto'] |  
 | bip_39_word_space_1 | twice |  
 | bip_39_word_space_10 | twice dish chimney dust pact must noodle place coin devote |  

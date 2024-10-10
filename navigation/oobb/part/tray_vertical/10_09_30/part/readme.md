@@ -122,6 +122,18 @@ argue
 above
 pigeon
 flame |  
+| bip_39_word_no_space_1 | mystery |  
+| bip_39_word_no_space_10 | mysterypatternfemaleobtainaugustargueabovepigeonflamegiraffe |  
+| bip_39_word_no_space_11 | mysterypatternfemaleobtainaugustargueabovepigeonflamegiraffehire |  
+| bip_39_word_no_space_12 | mysterypatternfemaleobtainaugustargueabovepigeonflamegiraffehireaffair |  
+| bip_39_word_no_space_2 | mysterypattern |  
+| bip_39_word_no_space_3 | mysterypatternfemale |  
+| bip_39_word_no_space_4 | mysterypatternfemaleobtain |  
+| bip_39_word_no_space_5 | mysterypatternfemaleobtainaugust |  
+| bip_39_word_no_space_6 | mysterypatternfemaleobtainaugustargue |  
+| bip_39_word_no_space_7 | mysterypatternfemaleobtainaugustargueabove |  
+| bip_39_word_no_space_8 | mysterypatternfemaleobtainaugustargueabovepigeon |  
+| bip_39_word_no_space_9 | mysterypatternfemaleobtainaugustargueabovepigeonflame |  
 | bip_39_word_space_0 | ['mystery', 'pattern', 'female', 'obtain', 'august', 'argue', 'above', 'pigeon', 'flame', 'giraffe', 'hire', 'affair'] |  
 | bip_39_word_space_1 | mystery |  
 | bip_39_word_space_10 | mystery pattern female obtain august argue above pigeon flame giraffe |  

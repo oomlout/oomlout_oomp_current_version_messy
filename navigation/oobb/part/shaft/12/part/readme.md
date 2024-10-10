@@ -122,6 +122,18 @@ raw
 dust
 keen
 coast |  
+| bip_39_word_no_space_1 | genuine |  
+| bip_39_word_no_space_10 | genuineaimdepositloanmountainrawdustkeencoasttext |  
+| bip_39_word_no_space_11 | genuineaimdepositloanmountainrawdustkeencoasttextluxury |  
+| bip_39_word_no_space_12 | genuineaimdepositloanmountainrawdustkeencoasttextluxuryapple |  
+| bip_39_word_no_space_2 | genuineaim |  
+| bip_39_word_no_space_3 | genuineaimdeposit |  
+| bip_39_word_no_space_4 | genuineaimdepositloan |  
+| bip_39_word_no_space_5 | genuineaimdepositloanmountain |  
+| bip_39_word_no_space_6 | genuineaimdepositloanmountainraw |  
+| bip_39_word_no_space_7 | genuineaimdepositloanmountainrawdust |  
+| bip_39_word_no_space_8 | genuineaimdepositloanmountainrawdustkeen |  
+| bip_39_word_no_space_9 | genuineaimdepositloanmountainrawdustkeencoast |  
 | bip_39_word_space_0 | ['genuine', 'aim', 'deposit', 'loan', 'mountain', 'raw', 'dust', 'keen', 'coast', 'text', 'luxury', 'apple'] |  
 | bip_39_word_space_1 | genuine |  
 | bip_39_word_space_10 | genuine aim deposit loan mountain raw dust keen coast text |  

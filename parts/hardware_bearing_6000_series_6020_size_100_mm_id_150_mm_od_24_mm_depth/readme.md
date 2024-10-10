@@ -122,6 +122,18 @@ current
 argue
 prosper
 coral |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairrevealfragilekneebirdcurrentargueprospercoralempower |  
+| bip_39_word_no_space_11 | chairrevealfragilekneebirdcurrentargueprospercoralempowerassume |  
+| bip_39_word_no_space_12 | chairrevealfragilekneebirdcurrentargueprospercoralempowerassumeattitude |  
+| bip_39_word_no_space_2 | chairreveal |  
+| bip_39_word_no_space_3 | chairrevealfragile |  
+| bip_39_word_no_space_4 | chairrevealfragileknee |  
+| bip_39_word_no_space_5 | chairrevealfragilekneebird |  
+| bip_39_word_no_space_6 | chairrevealfragilekneebirdcurrent |  
+| bip_39_word_no_space_7 | chairrevealfragilekneebirdcurrentargue |  
+| bip_39_word_no_space_8 | chairrevealfragilekneebirdcurrentargueprosper |  
+| bip_39_word_no_space_9 | chairrevealfragilekneebirdcurrentargueprospercoral |  
 | bip_39_word_space_0 | ['chair', 'reveal', 'fragile', 'knee', 'bird', 'current', 'argue', 'prosper', 'coral', 'empower', 'assume', 'attitude'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair reveal fragile knee bird current argue prosper coral empower |  

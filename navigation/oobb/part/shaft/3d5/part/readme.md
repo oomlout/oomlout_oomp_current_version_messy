@@ -122,6 +122,18 @@ charge
 urge
 delay
 giraffe |  
+| bip_39_word_no_space_1 | deposit |  
+| bip_39_word_no_space_10 | depositletterideathrivescatterchargeurgedelaygiraffecan |  
+| bip_39_word_no_space_11 | depositletterideathrivescatterchargeurgedelaygiraffecanrigid |  
+| bip_39_word_no_space_12 | depositletterideathrivescatterchargeurgedelaygiraffecanrigidabuse |  
+| bip_39_word_no_space_2 | depositletter |  
+| bip_39_word_no_space_3 | depositletteridea |  
+| bip_39_word_no_space_4 | depositletterideathrive |  
+| bip_39_word_no_space_5 | depositletterideathrivescatter |  
+| bip_39_word_no_space_6 | depositletterideathrivescattercharge |  
+| bip_39_word_no_space_7 | depositletterideathrivescatterchargeurge |  
+| bip_39_word_no_space_8 | depositletterideathrivescatterchargeurgedelay |  
+| bip_39_word_no_space_9 | depositletterideathrivescatterchargeurgedelaygiraffe |  
 | bip_39_word_space_0 | ['deposit', 'letter', 'idea', 'thrive', 'scatter', 'charge', 'urge', 'delay', 'giraffe', 'can', 'rigid', 'abuse'] |  
 | bip_39_word_space_1 | deposit |  
 | bip_39_word_space_10 | deposit letter idea thrive scatter charge urge delay giraffe can |  

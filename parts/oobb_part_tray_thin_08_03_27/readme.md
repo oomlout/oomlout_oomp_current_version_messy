@@ -122,6 +122,18 @@ earn
 actor
 utility
 multiply |  
+| bip_39_word_no_space_1 | genius |  
+| bip_39_word_no_space_10 | geniusconvincecraftseminaroceanearnactorutilitymultiplyketchup |  
+| bip_39_word_no_space_11 | geniusconvincecraftseminaroceanearnactorutilitymultiplyketchupminute |  
+| bip_39_word_no_space_12 | geniusconvincecraftseminaroceanearnactorutilitymultiplyketchupminuteanimal |  
+| bip_39_word_no_space_2 | geniusconvince |  
+| bip_39_word_no_space_3 | geniusconvincecraft |  
+| bip_39_word_no_space_4 | geniusconvincecraftseminar |  
+| bip_39_word_no_space_5 | geniusconvincecraftseminarocean |  
+| bip_39_word_no_space_6 | geniusconvincecraftseminaroceanearn |  
+| bip_39_word_no_space_7 | geniusconvincecraftseminaroceanearnactor |  
+| bip_39_word_no_space_8 | geniusconvincecraftseminaroceanearnactorutility |  
+| bip_39_word_no_space_9 | geniusconvincecraftseminaroceanearnactorutilitymultiply |  
 | bip_39_word_space_0 | ['genius', 'convince', 'craft', 'seminar', 'ocean', 'earn', 'actor', 'utility', 'multiply', 'ketchup', 'minute', 'animal'] |  
 | bip_39_word_space_1 | genius |  
 | bip_39_word_space_10 | genius convince craft seminar ocean earn actor utility multiply ketchup |  

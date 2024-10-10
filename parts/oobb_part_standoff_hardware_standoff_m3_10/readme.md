@@ -122,6 +122,18 @@ vivid
 law
 corn
 poverty |  
+| bip_39_word_no_space_1 | ahead |  
+| bip_39_word_no_space_10 | aheadwaymatrixmooncenturyvividlawcornpovertydefy |  
+| bip_39_word_no_space_11 | aheadwaymatrixmooncenturyvividlawcornpovertydefypush |  
+| bip_39_word_no_space_12 | aheadwaymatrixmooncenturyvividlawcornpovertydefypushany |  
+| bip_39_word_no_space_2 | aheadway |  
+| bip_39_word_no_space_3 | aheadwaymatrix |  
+| bip_39_word_no_space_4 | aheadwaymatrixmoon |  
+| bip_39_word_no_space_5 | aheadwaymatrixmooncentury |  
+| bip_39_word_no_space_6 | aheadwaymatrixmooncenturyvivid |  
+| bip_39_word_no_space_7 | aheadwaymatrixmooncenturyvividlaw |  
+| bip_39_word_no_space_8 | aheadwaymatrixmooncenturyvividlawcorn |  
+| bip_39_word_no_space_9 | aheadwaymatrixmooncenturyvividlawcornpoverty |  
 | bip_39_word_space_0 | ['ahead', 'way', 'matrix', 'moon', 'century', 'vivid', 'law', 'corn', 'poverty', 'defy', 'push', 'any'] |  
 | bip_39_word_space_1 | ahead |  
 | bip_39_word_space_10 | ahead way matrix moon century vivid law corn poverty defy |  

@@ -122,6 +122,18 @@ pass
 degree
 junk
 anxiety |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudeadmitoperadesignmiddlepassdegreejunkanxietybrick |  
+| bip_39_word_no_space_11 | attitudeadmitoperadesignmiddlepassdegreejunkanxietybrickfebruary |  
+| bip_39_word_no_space_12 | attitudeadmitoperadesignmiddlepassdegreejunkanxietybrickfebruaryantenna |  
+| bip_39_word_no_space_2 | attitudeadmit |  
+| bip_39_word_no_space_3 | attitudeadmitopera |  
+| bip_39_word_no_space_4 | attitudeadmitoperadesign |  
+| bip_39_word_no_space_5 | attitudeadmitoperadesignmiddle |  
+| bip_39_word_no_space_6 | attitudeadmitoperadesignmiddlepass |  
+| bip_39_word_no_space_7 | attitudeadmitoperadesignmiddlepassdegree |  
+| bip_39_word_no_space_8 | attitudeadmitoperadesignmiddlepassdegreejunk |  
+| bip_39_word_no_space_9 | attitudeadmitoperadesignmiddlepassdegreejunkanxiety |  
 | bip_39_word_space_0 | ['attitude', 'admit', 'opera', 'design', 'middle', 'pass', 'degree', 'junk', 'anxiety', 'brick', 'february', 'antenna'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude admit opera design middle pass degree junk anxiety brick |  

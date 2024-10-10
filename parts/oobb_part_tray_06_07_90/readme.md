@@ -122,6 +122,18 @@ radio
 belt
 say
 clump |  
+| bip_39_word_no_space_1 | artwork |  
+| bip_39_word_no_space_10 | artworkorderoutputfaultfaithradiobeltsayclumpconcert |  
+| bip_39_word_no_space_11 | artworkorderoutputfaultfaithradiobeltsayclumpconcertstereo |  
+| bip_39_word_no_space_12 | artworkorderoutputfaultfaithradiobeltsayclumpconcertstereoaffair |  
+| bip_39_word_no_space_2 | artworkorder |  
+| bip_39_word_no_space_3 | artworkorderoutput |  
+| bip_39_word_no_space_4 | artworkorderoutputfault |  
+| bip_39_word_no_space_5 | artworkorderoutputfaultfaith |  
+| bip_39_word_no_space_6 | artworkorderoutputfaultfaithradio |  
+| bip_39_word_no_space_7 | artworkorderoutputfaultfaithradiobelt |  
+| bip_39_word_no_space_8 | artworkorderoutputfaultfaithradiobeltsay |  
+| bip_39_word_no_space_9 | artworkorderoutputfaultfaithradiobeltsayclump |  
 | bip_39_word_space_0 | ['artwork', 'order', 'output', 'fault', 'faith', 'radio', 'belt', 'say', 'clump', 'concert', 'stereo', 'affair'] |  
 | bip_39_word_space_1 | artwork |  
 | bip_39_word_space_10 | artwork order output fault faith radio belt say clump concert |  

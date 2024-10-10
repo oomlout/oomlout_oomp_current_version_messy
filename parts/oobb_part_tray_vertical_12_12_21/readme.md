@@ -122,6 +122,18 @@ gesture
 deputy
 text
 park |  
+| bip_39_word_no_space_1 | owner |  
+| bip_39_word_no_space_10 | ownerbeforetaskluckyspotgesturedeputytextparkvault |  
+| bip_39_word_no_space_11 | ownerbeforetaskluckyspotgesturedeputytextparkvaulteagle |  
+| bip_39_word_no_space_12 | ownerbeforetaskluckyspotgesturedeputytextparkvaulteaglearch |  
+| bip_39_word_no_space_2 | ownerbefore |  
+| bip_39_word_no_space_3 | ownerbeforetask |  
+| bip_39_word_no_space_4 | ownerbeforetasklucky |  
+| bip_39_word_no_space_5 | ownerbeforetaskluckyspot |  
+| bip_39_word_no_space_6 | ownerbeforetaskluckyspotgesture |  
+| bip_39_word_no_space_7 | ownerbeforetaskluckyspotgesturedeputy |  
+| bip_39_word_no_space_8 | ownerbeforetaskluckyspotgesturedeputytext |  
+| bip_39_word_no_space_9 | ownerbeforetaskluckyspotgesturedeputytextpark |  
 | bip_39_word_space_0 | ['owner', 'before', 'task', 'lucky', 'spot', 'gesture', 'deputy', 'text', 'park', 'vault', 'eagle', 'arch'] |  
 | bip_39_word_space_1 | owner |  
 | bip_39_word_space_10 | owner before task lucky spot gesture deputy text park vault |  

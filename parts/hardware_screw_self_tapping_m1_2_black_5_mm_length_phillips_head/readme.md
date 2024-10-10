@@ -122,6 +122,18 @@ march
 clean
 hurdle
 apology |  
+| bip_39_word_no_space_1 | ginger |  
+| bip_39_word_no_space_10 | gingerclarifyshieldwarmlazymarchcleanhurdleapologydonor |  
+| bip_39_word_no_space_11 | gingerclarifyshieldwarmlazymarchcleanhurdleapologydonorstomach |  
+| bip_39_word_no_space_12 | gingerclarifyshieldwarmlazymarchcleanhurdleapologydonorstomachaffair |  
+| bip_39_word_no_space_2 | gingerclarify |  
+| bip_39_word_no_space_3 | gingerclarifyshield |  
+| bip_39_word_no_space_4 | gingerclarifyshieldwarm |  
+| bip_39_word_no_space_5 | gingerclarifyshieldwarmlazy |  
+| bip_39_word_no_space_6 | gingerclarifyshieldwarmlazymarch |  
+| bip_39_word_no_space_7 | gingerclarifyshieldwarmlazymarchclean |  
+| bip_39_word_no_space_8 | gingerclarifyshieldwarmlazymarchcleanhurdle |  
+| bip_39_word_no_space_9 | gingerclarifyshieldwarmlazymarchcleanhurdleapology |  
 | bip_39_word_space_0 | ['ginger', 'clarify', 'shield', 'warm', 'lazy', 'march', 'clean', 'hurdle', 'apology', 'donor', 'stomach', 'affair'] |  
 | bip_39_word_space_1 | ginger |  
 | bip_39_word_space_10 | ginger clarify shield warm lazy march clean hurdle apology donor |  

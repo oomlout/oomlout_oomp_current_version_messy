@@ -122,6 +122,18 @@ patch
 oblige
 focus
 lyrics |  
+| bip_39_word_no_space_1 | unfair |  
+| bip_39_word_no_space_10 | unfairclusternormalagentjunkpatchobligefocuslyricsancient |  
+| bip_39_word_no_space_11 | unfairclusternormalagentjunkpatchobligefocuslyricsancientleft |  
+| bip_39_word_no_space_12 | unfairclusternormalagentjunkpatchobligefocuslyricsancientleftall |  
+| bip_39_word_no_space_2 | unfaircluster |  
+| bip_39_word_no_space_3 | unfairclusternormal |  
+| bip_39_word_no_space_4 | unfairclusternormalagent |  
+| bip_39_word_no_space_5 | unfairclusternormalagentjunk |  
+| bip_39_word_no_space_6 | unfairclusternormalagentjunkpatch |  
+| bip_39_word_no_space_7 | unfairclusternormalagentjunkpatchoblige |  
+| bip_39_word_no_space_8 | unfairclusternormalagentjunkpatchobligefocus |  
+| bip_39_word_no_space_9 | unfairclusternormalagentjunkpatchobligefocuslyrics |  
 | bip_39_word_space_0 | ['unfair', 'cluster', 'normal', 'agent', 'junk', 'patch', 'oblige', 'focus', 'lyrics', 'ancient', 'left', 'all'] |  
 | bip_39_word_space_1 | unfair |  
 | bip_39_word_space_10 | unfair cluster normal agent junk patch oblige focus lyrics ancient |  

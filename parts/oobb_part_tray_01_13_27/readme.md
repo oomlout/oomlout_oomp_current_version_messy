@@ -122,6 +122,18 @@ setup
 stage
 hope
 salute |  
+| bip_39_word_no_space_1 | scout |  
+| bip_39_word_no_space_10 | scoutnoiseretreatdistancesorrysetupstagehopesalutenoble |  
+| bip_39_word_no_space_11 | scoutnoiseretreatdistancesorrysetupstagehopesalutenobleerode |  
+| bip_39_word_no_space_12 | scoutnoiseretreatdistancesorrysetupstagehopesalutenobleerodeartwork |  
+| bip_39_word_no_space_2 | scoutnoise |  
+| bip_39_word_no_space_3 | scoutnoiseretreat |  
+| bip_39_word_no_space_4 | scoutnoiseretreatdistance |  
+| bip_39_word_no_space_5 | scoutnoiseretreatdistancesorry |  
+| bip_39_word_no_space_6 | scoutnoiseretreatdistancesorrysetup |  
+| bip_39_word_no_space_7 | scoutnoiseretreatdistancesorrysetupstage |  
+| bip_39_word_no_space_8 | scoutnoiseretreatdistancesorrysetupstagehope |  
+| bip_39_word_no_space_9 | scoutnoiseretreatdistancesorrysetupstagehopesalute |  
 | bip_39_word_space_0 | ['scout', 'noise', 'retreat', 'distance', 'sorry', 'setup', 'stage', 'hope', 'salute', 'noble', 'erode', 'artwork'] |  
 | bip_39_word_space_1 | scout |  
 | bip_39_word_space_10 | scout noise retreat distance sorry setup stage hope salute noble |  

@@ -122,6 +122,18 @@ famous
 ready
 replace
 diary |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | glovecasinolanguagegameabilityfamousreadyreplacediaryessay |  
+| bip_39_word_no_space_11 | glovecasinolanguagegameabilityfamousreadyreplacediaryessayantique |  
+| bip_39_word_no_space_12 | glovecasinolanguagegameabilityfamousreadyreplacediaryessayantiqueassist |  
+| bip_39_word_no_space_2 | glovecasino |  
+| bip_39_word_no_space_3 | glovecasinolanguage |  
+| bip_39_word_no_space_4 | glovecasinolanguagegame |  
+| bip_39_word_no_space_5 | glovecasinolanguagegameability |  
+| bip_39_word_no_space_6 | glovecasinolanguagegameabilityfamous |  
+| bip_39_word_no_space_7 | glovecasinolanguagegameabilityfamousready |  
+| bip_39_word_no_space_8 | glovecasinolanguagegameabilityfamousreadyreplace |  
+| bip_39_word_no_space_9 | glovecasinolanguagegameabilityfamousreadyreplacediary |  
 | bip_39_word_space_0 | ['glove', 'casino', 'language', 'game', 'ability', 'famous', 'ready', 'replace', 'diary', 'essay', 'antique', 'assist'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove casino language game ability famous ready replace diary essay |  

@@ -122,6 +122,18 @@ chronic
 struggle
 kite
 fatal |  
+| bip_39_word_no_space_1 | moon |  
+| bip_39_word_no_space_10 | moonguardnarrownationnomineechronicstrugglekitefatalenroll |  
+| bip_39_word_no_space_11 | moonguardnarrownationnomineechronicstrugglekitefatalenrollhammer |  
+| bip_39_word_no_space_12 | moonguardnarrownationnomineechronicstrugglekitefatalenrollhammeradjust |  
+| bip_39_word_no_space_2 | moonguard |  
+| bip_39_word_no_space_3 | moonguardnarrow |  
+| bip_39_word_no_space_4 | moonguardnarrownation |  
+| bip_39_word_no_space_5 | moonguardnarrownationnominee |  
+| bip_39_word_no_space_6 | moonguardnarrownationnomineechronic |  
+| bip_39_word_no_space_7 | moonguardnarrownationnomineechronicstruggle |  
+| bip_39_word_no_space_8 | moonguardnarrownationnomineechronicstrugglekite |  
+| bip_39_word_no_space_9 | moonguardnarrownationnomineechronicstrugglekitefatal |  
 | bip_39_word_space_0 | ['moon', 'guard', 'narrow', 'nation', 'nominee', 'chronic', 'struggle', 'kite', 'fatal', 'enroll', 'hammer', 'adjust'] |  
 | bip_39_word_space_1 | moon |  
 | bip_39_word_space_10 | moon guard narrow nation nominee chronic struggle kite fatal enroll |  

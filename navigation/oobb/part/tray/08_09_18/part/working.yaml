@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'honey
   quote
 
   unable'
+bip_39_word_no_space_1: honey
+bip_39_word_no_space_10: honeysaucehazardjuniorowncriticoriginalquoteunablefirm
+bip_39_word_no_space_11: honeysaucehazardjuniorowncriticoriginalquoteunablefirmwood
+bip_39_word_no_space_12: honeysaucehazardjuniorowncriticoriginalquoteunablefirmwoodaccident
+bip_39_word_no_space_2: honeysauce
+bip_39_word_no_space_3: honeysaucehazard
+bip_39_word_no_space_4: honeysaucehazardjunior
+bip_39_word_no_space_5: honeysaucehazardjuniorown
+bip_39_word_no_space_6: honeysaucehazardjuniorowncritic
+bip_39_word_no_space_7: honeysaucehazardjuniorowncriticoriginal
+bip_39_word_no_space_8: honeysaucehazardjuniorowncriticoriginalquote
+bip_39_word_no_space_9: honeysaucehazardjuniorowncriticoriginalquoteunable
 bip_39_word_space_0:
 - honey
 - sauce

@@ -122,6 +122,18 @@ process
 tortoise
 census
 collect |  
+| bip_39_word_no_space_1 | orchard |  
+| bip_39_word_no_space_10 | orcharddevicecramroundgiftprocesstortoisecensuscollectmatter |  
+| bip_39_word_no_space_11 | orcharddevicecramroundgiftprocesstortoisecensuscollectmatterevolve |  
+| bip_39_word_no_space_12 | orcharddevicecramroundgiftprocesstortoisecensuscollectmatterevolveactress |  
+| bip_39_word_no_space_2 | orcharddevice |  
+| bip_39_word_no_space_3 | orcharddevicecram |  
+| bip_39_word_no_space_4 | orcharddevicecramround |  
+| bip_39_word_no_space_5 | orcharddevicecramroundgift |  
+| bip_39_word_no_space_6 | orcharddevicecramroundgiftprocess |  
+| bip_39_word_no_space_7 | orcharddevicecramroundgiftprocesstortoise |  
+| bip_39_word_no_space_8 | orcharddevicecramroundgiftprocesstortoisecensus |  
+| bip_39_word_no_space_9 | orcharddevicecramroundgiftprocesstortoisecensuscollect |  
 | bip_39_word_space_0 | ['orchard', 'device', 'cram', 'round', 'gift', 'process', 'tortoise', 'census', 'collect', 'matter', 'evolve', 'actress'] |  
 | bip_39_word_space_1 | orchard |  
 | bip_39_word_space_10 | orchard device cram round gift process tortoise census collect matter |  

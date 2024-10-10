@@ -122,6 +122,18 @@ click
 thought
 mosquito
 cloth |  
+| bip_39_word_no_space_1 | evoke |  
+| bip_39_word_no_space_10 | evokecouplerarefaceawesomeclickthoughtmosquitoclothgun |  
+| bip_39_word_no_space_11 | evokecouplerarefaceawesomeclickthoughtmosquitoclothgunneither |  
+| bip_39_word_no_space_12 | evokecouplerarefaceawesomeclickthoughtmosquitoclothgunneitherartefact |  
+| bip_39_word_no_space_2 | evokecouple |  
+| bip_39_word_no_space_3 | evokecouplerare |  
+| bip_39_word_no_space_4 | evokecouplerareface |  
+| bip_39_word_no_space_5 | evokecouplerarefaceawesome |  
+| bip_39_word_no_space_6 | evokecouplerarefaceawesomeclick |  
+| bip_39_word_no_space_7 | evokecouplerarefaceawesomeclickthought |  
+| bip_39_word_no_space_8 | evokecouplerarefaceawesomeclickthoughtmosquito |  
+| bip_39_word_no_space_9 | evokecouplerarefaceawesomeclickthoughtmosquitocloth |  
 | bip_39_word_space_0 | ['evoke', 'couple', 'rare', 'face', 'awesome', 'click', 'thought', 'mosquito', 'cloth', 'gun', 'neither', 'artefact'] |  
 | bip_39_word_space_1 | evoke |  
 | bip_39_word_space_10 | evoke couple rare face awesome click thought mosquito cloth gun |  

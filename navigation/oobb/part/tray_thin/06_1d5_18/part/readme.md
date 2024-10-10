@@ -122,6 +122,18 @@ snap
 myself
 lawsuit
 hundred |  
+| bip_39_word_no_space_1 | seat |  
+| bip_39_word_no_space_10 | seatdollsmartdreamventuresnapmyselflawsuithundredaunt |  
+| bip_39_word_no_space_11 | seatdollsmartdreamventuresnapmyselflawsuithundredauntsouth |  
+| bip_39_word_no_space_12 | seatdollsmartdreamventuresnapmyselflawsuithundredauntsouthart |  
+| bip_39_word_no_space_2 | seatdoll |  
+| bip_39_word_no_space_3 | seatdollsmart |  
+| bip_39_word_no_space_4 | seatdollsmartdream |  
+| bip_39_word_no_space_5 | seatdollsmartdreamventure |  
+| bip_39_word_no_space_6 | seatdollsmartdreamventuresnap |  
+| bip_39_word_no_space_7 | seatdollsmartdreamventuresnapmyself |  
+| bip_39_word_no_space_8 | seatdollsmartdreamventuresnapmyselflawsuit |  
+| bip_39_word_no_space_9 | seatdollsmartdreamventuresnapmyselflawsuithundred |  
 | bip_39_word_space_0 | ['seat', 'doll', 'smart', 'dream', 'venture', 'snap', 'myself', 'lawsuit', 'hundred', 'aunt', 'south', 'art'] |  
 | bip_39_word_space_1 | seat |  
 | bip_39_word_space_10 | seat doll smart dream venture snap myself lawsuit hundred aunt |  

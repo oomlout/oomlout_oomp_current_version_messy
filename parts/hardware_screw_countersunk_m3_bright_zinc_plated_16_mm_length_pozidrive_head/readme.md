@@ -122,6 +122,18 @@ law
 scrap
 clinic
 scene |  
+| bip_39_word_no_space_1 | depth |  
+| bip_39_word_no_space_10 | depthrotatefetchpenaltyobtainlawscrapclinicscenetruth |  
+| bip_39_word_no_space_11 | depthrotatefetchpenaltyobtainlawscrapclinicscenetruthmyth |  
+| bip_39_word_no_space_12 | depthrotatefetchpenaltyobtainlawscrapclinicscenetruthmytharrange |  
+| bip_39_word_no_space_2 | depthrotate |  
+| bip_39_word_no_space_3 | depthrotatefetch |  
+| bip_39_word_no_space_4 | depthrotatefetchpenalty |  
+| bip_39_word_no_space_5 | depthrotatefetchpenaltyobtain |  
+| bip_39_word_no_space_6 | depthrotatefetchpenaltyobtainlaw |  
+| bip_39_word_no_space_7 | depthrotatefetchpenaltyobtainlawscrap |  
+| bip_39_word_no_space_8 | depthrotatefetchpenaltyobtainlawscrapclinic |  
+| bip_39_word_no_space_9 | depthrotatefetchpenaltyobtainlawscrapclinicscene |  
 | bip_39_word_space_0 | ['depth', 'rotate', 'fetch', 'penalty', 'obtain', 'law', 'scrap', 'clinic', 'scene', 'truth', 'myth', 'arrange'] |  
 | bip_39_word_space_1 | depth |  
 | bip_39_word_space_10 | depth rotate fetch penalty obtain law scrap clinic scene truth |  

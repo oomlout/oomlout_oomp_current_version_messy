@@ -122,6 +122,18 @@ layer
 hub
 replace
 display |  
+| bip_39_word_no_space_1 | mimic |  
+| bip_39_word_no_space_10 | mimicmarinecrawlpaymentradarlayerhubreplacedisplayretire |  
+| bip_39_word_no_space_11 | mimicmarinecrawlpaymentradarlayerhubreplacedisplayretirerobust |  
+| bip_39_word_no_space_12 | mimicmarinecrawlpaymentradarlayerhubreplacedisplayretirerobustabuse |  
+| bip_39_word_no_space_2 | mimicmarine |  
+| bip_39_word_no_space_3 | mimicmarinecrawl |  
+| bip_39_word_no_space_4 | mimicmarinecrawlpayment |  
+| bip_39_word_no_space_5 | mimicmarinecrawlpaymentradar |  
+| bip_39_word_no_space_6 | mimicmarinecrawlpaymentradarlayer |  
+| bip_39_word_no_space_7 | mimicmarinecrawlpaymentradarlayerhub |  
+| bip_39_word_no_space_8 | mimicmarinecrawlpaymentradarlayerhubreplace |  
+| bip_39_word_no_space_9 | mimicmarinecrawlpaymentradarlayerhubreplacedisplay |  
 | bip_39_word_space_0 | ['mimic', 'marine', 'crawl', 'payment', 'radar', 'layer', 'hub', 'replace', 'display', 'retire', 'robust', 'abuse'] |  
 | bip_39_word_space_1 | mimic |  
 | bip_39_word_space_10 | mimic marine crawl payment radar layer hub replace display retire |  

@@ -122,6 +122,18 @@ human
 hand
 raven
 now |  
+| bip_39_word_no_space_1 | robust |  
+| bip_39_word_no_space_10 | robustcertainfavoriteobtaindeparthumanhandravennowsister |  
+| bip_39_word_no_space_11 | robustcertainfavoriteobtaindeparthumanhandravennowsisterthree |  
+| bip_39_word_no_space_12 | robustcertainfavoriteobtaindeparthumanhandravennowsisterthreeannounce |  
+| bip_39_word_no_space_2 | robustcertain |  
+| bip_39_word_no_space_3 | robustcertainfavorite |  
+| bip_39_word_no_space_4 | robustcertainfavoriteobtain |  
+| bip_39_word_no_space_5 | robustcertainfavoriteobtaindepart |  
+| bip_39_word_no_space_6 | robustcertainfavoriteobtaindeparthuman |  
+| bip_39_word_no_space_7 | robustcertainfavoriteobtaindeparthumanhand |  
+| bip_39_word_no_space_8 | robustcertainfavoriteobtaindeparthumanhandraven |  
+| bip_39_word_no_space_9 | robustcertainfavoriteobtaindeparthumanhandravennow |  
 | bip_39_word_space_0 | ['robust', 'certain', 'favorite', 'obtain', 'depart', 'human', 'hand', 'raven', 'now', 'sister', 'three', 'announce'] |  
 | bip_39_word_space_1 | robust |  
 | bip_39_word_space_10 | robust certain favorite obtain depart human hand raven now sister |  

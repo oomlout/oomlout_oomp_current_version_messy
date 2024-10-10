@@ -122,6 +122,18 @@ attend
 giraffe
 cheap
 assault |  
+| bip_39_word_no_space_1 | task |  
+| bip_39_word_no_space_10 | taskeastgroceryexpressbundleattendgiraffecheapassaultanswer |  
+| bip_39_word_no_space_11 | taskeastgroceryexpressbundleattendgiraffecheapassaultanswerreport |  
+| bip_39_word_no_space_12 | taskeastgroceryexpressbundleattendgiraffecheapassaultanswerreportarrange |  
+| bip_39_word_no_space_2 | taskeast |  
+| bip_39_word_no_space_3 | taskeastgrocery |  
+| bip_39_word_no_space_4 | taskeastgroceryexpress |  
+| bip_39_word_no_space_5 | taskeastgroceryexpressbundle |  
+| bip_39_word_no_space_6 | taskeastgroceryexpressbundleattend |  
+| bip_39_word_no_space_7 | taskeastgroceryexpressbundleattendgiraffe |  
+| bip_39_word_no_space_8 | taskeastgroceryexpressbundleattendgiraffecheap |  
+| bip_39_word_no_space_9 | taskeastgroceryexpressbundleattendgiraffecheapassault |  
 | bip_39_word_space_0 | ['task', 'east', 'grocery', 'express', 'bundle', 'attend', 'giraffe', 'cheap', 'assault', 'answer', 'report', 'arrange'] |  
 | bip_39_word_space_1 | task |  
 | bip_39_word_space_10 | task east grocery express bundle attend giraffe cheap assault answer |  

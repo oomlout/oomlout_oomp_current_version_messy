@@ -122,6 +122,18 @@ install
 rebuild
 raccoon
 fat |  
+| bip_39_word_no_space_1 | legal |  
+| bip_39_word_no_space_10 | legalsearchremindstemsimpleinstallrebuildraccoonfatowner |  
+| bip_39_word_no_space_11 | legalsearchremindstemsimpleinstallrebuildraccoonfatownercompany |  
+| bip_39_word_no_space_12 | legalsearchremindstemsimpleinstallrebuildraccoonfatownercompanyact |  
+| bip_39_word_no_space_2 | legalsearch |  
+| bip_39_word_no_space_3 | legalsearchremind |  
+| bip_39_word_no_space_4 | legalsearchremindstem |  
+| bip_39_word_no_space_5 | legalsearchremindstemsimple |  
+| bip_39_word_no_space_6 | legalsearchremindstemsimpleinstall |  
+| bip_39_word_no_space_7 | legalsearchremindstemsimpleinstallrebuild |  
+| bip_39_word_no_space_8 | legalsearchremindstemsimpleinstallrebuildraccoon |  
+| bip_39_word_no_space_9 | legalsearchremindstemsimpleinstallrebuildraccoonfat |  
 | bip_39_word_space_0 | ['legal', 'search', 'remind', 'stem', 'simple', 'install', 'rebuild', 'raccoon', 'fat', 'owner', 'company', 'act'] |  
 | bip_39_word_space_1 | legal |  
 | bip_39_word_space_10 | legal search remind stem simple install rebuild raccoon fat owner |  

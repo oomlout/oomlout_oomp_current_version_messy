@@ -122,6 +122,18 @@ custom
 include
 barely
 hammer |  
+| bip_39_word_no_space_1 | rely |  
+| bip_39_word_no_space_10 | relynapkintodayloungeafraidcustomincludebarelyhammermuseum |  
+| bip_39_word_no_space_11 | relynapkintodayloungeafraidcustomincludebarelyhammermuseumzero |  
+| bip_39_word_no_space_12 | relynapkintodayloungeafraidcustomincludebarelyhammermuseumzeroadult |  
+| bip_39_word_no_space_2 | relynapkin |  
+| bip_39_word_no_space_3 | relynapkintoday |  
+| bip_39_word_no_space_4 | relynapkintodaylounge |  
+| bip_39_word_no_space_5 | relynapkintodayloungeafraid |  
+| bip_39_word_no_space_6 | relynapkintodayloungeafraidcustom |  
+| bip_39_word_no_space_7 | relynapkintodayloungeafraidcustominclude |  
+| bip_39_word_no_space_8 | relynapkintodayloungeafraidcustomincludebarely |  
+| bip_39_word_no_space_9 | relynapkintodayloungeafraidcustomincludebarelyhammer |  
 | bip_39_word_space_0 | ['rely', 'napkin', 'today', 'lounge', 'afraid', 'custom', 'include', 'barely', 'hammer', 'museum', 'zero', 'adult'] |  
 | bip_39_word_space_1 | rely |  
 | bip_39_word_space_10 | rely napkin today lounge afraid custom include barely hammer museum |  

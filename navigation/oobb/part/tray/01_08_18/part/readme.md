@@ -122,6 +122,18 @@ disagree
 garbage
 sing
 entry |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineeforestgaspdecidegarlicdisagreegarbagesingentryminute |  
+| bip_39_word_no_space_11 | nomineeforestgaspdecidegarlicdisagreegarbagesingentryminutealarm |  
+| bip_39_word_no_space_12 | nomineeforestgaspdecidegarlicdisagreegarbagesingentryminutealarmattract |  
+| bip_39_word_no_space_2 | nomineeforest |  
+| bip_39_word_no_space_3 | nomineeforestgasp |  
+| bip_39_word_no_space_4 | nomineeforestgaspdecide |  
+| bip_39_word_no_space_5 | nomineeforestgaspdecidegarlic |  
+| bip_39_word_no_space_6 | nomineeforestgaspdecidegarlicdisagree |  
+| bip_39_word_no_space_7 | nomineeforestgaspdecidegarlicdisagreegarbage |  
+| bip_39_word_no_space_8 | nomineeforestgaspdecidegarlicdisagreegarbagesing |  
+| bip_39_word_no_space_9 | nomineeforestgaspdecidegarlicdisagreegarbagesingentry |  
 | bip_39_word_space_0 | ['nominee', 'forest', 'gasp', 'decide', 'garlic', 'disagree', 'garbage', 'sing', 'entry', 'minute', 'alarm', 'attract'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee forest gasp decide garlic disagree garbage sing entry minute |  

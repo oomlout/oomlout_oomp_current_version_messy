@@ -109,6 +109,17 @@ learn
 frame
 farm
 subway |  
+| bip_39_word_no_space_1 | suspect |  
+| bip_39_word_no_space_10 | suspectcreeklonelypavetoddlerlearnframefarmsubwayfringe |  
+| bip_39_word_no_space_11 | suspectcreeklonelypavetoddlerlearnframefarmsubwayfringeenergy |  
+| bip_39_word_no_space_2 | suspectcreek |  
+| bip_39_word_no_space_3 | suspectcreeklonely |  
+| bip_39_word_no_space_4 | suspectcreeklonelypave |  
+| bip_39_word_no_space_5 | suspectcreeklonelypavetoddler |  
+| bip_39_word_no_space_6 | suspectcreeklonelypavetoddlerlearn |  
+| bip_39_word_no_space_7 | suspectcreeklonelypavetoddlerlearnframe |  
+| bip_39_word_no_space_8 | suspectcreeklonelypavetoddlerlearnframefarm |  
+| bip_39_word_no_space_9 | suspectcreeklonelypavetoddlerlearnframefarmsubway |  
 | bip_39_word_space_0 | ['suspect', 'creek', 'lonely', 'pave', 'toddler', 'learn', 'frame', 'farm', 'subway', 'fringe', 'energy'] |  
 | bip_39_word_space_1 | suspect |  
 | bip_39_word_space_10 | suspect creek lonely pave toddler learn frame farm subway fringe |  

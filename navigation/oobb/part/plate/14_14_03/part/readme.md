@@ -122,6 +122,18 @@ today
 want
 trophy
 uncover |  
+| bip_39_word_no_space_1 | tape |  
+| bip_39_word_no_space_10 | tapephysicalnarrowtapebidtodaywanttrophyuncoverfury |  
+| bip_39_word_no_space_11 | tapephysicalnarrowtapebidtodaywanttrophyuncoverfurybleak |  
+| bip_39_word_no_space_12 | tapephysicalnarrowtapebidtodaywanttrophyuncoverfurybleakapology |  
+| bip_39_word_no_space_2 | tapephysical |  
+| bip_39_word_no_space_3 | tapephysicalnarrow |  
+| bip_39_word_no_space_4 | tapephysicalnarrowtape |  
+| bip_39_word_no_space_5 | tapephysicalnarrowtapebid |  
+| bip_39_word_no_space_6 | tapephysicalnarrowtapebidtoday |  
+| bip_39_word_no_space_7 | tapephysicalnarrowtapebidtodaywant |  
+| bip_39_word_no_space_8 | tapephysicalnarrowtapebidtodaywanttrophy |  
+| bip_39_word_no_space_9 | tapephysicalnarrowtapebidtodaywanttrophyuncover |  
 | bip_39_word_space_0 | ['tape', 'physical', 'narrow', 'tape', 'bid', 'today', 'want', 'trophy', 'uncover', 'fury', 'bleak', 'apology'] |  
 | bip_39_word_space_1 | tape |  
 | bip_39_word_space_10 | tape physical narrow tape bid today want trophy uncover fury |  

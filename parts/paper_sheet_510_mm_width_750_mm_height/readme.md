@@ -122,6 +122,18 @@ diamond
 taxi
 derive
 chief |  
+| bip_39_word_no_space_1 | shine |  
+| bip_39_word_no_space_10 | shineclientbaconlawndegreediamondtaxiderivechiefloyal |  
+| bip_39_word_no_space_11 | shineclientbaconlawndegreediamondtaxiderivechiefloyalthunder |  
+| bip_39_word_no_space_12 | shineclientbaconlawndegreediamondtaxiderivechiefloyalthunderabsorb |  
+| bip_39_word_no_space_2 | shineclient |  
+| bip_39_word_no_space_3 | shineclientbacon |  
+| bip_39_word_no_space_4 | shineclientbaconlawn |  
+| bip_39_word_no_space_5 | shineclientbaconlawndegree |  
+| bip_39_word_no_space_6 | shineclientbaconlawndegreediamond |  
+| bip_39_word_no_space_7 | shineclientbaconlawndegreediamondtaxi |  
+| bip_39_word_no_space_8 | shineclientbaconlawndegreediamondtaxiderive |  
+| bip_39_word_no_space_9 | shineclientbaconlawndegreediamondtaxiderivechief |  
 | bip_39_word_space_0 | ['shine', 'client', 'bacon', 'lawn', 'degree', 'diamond', 'taxi', 'derive', 'chief', 'loyal', 'thunder', 'absorb'] |  
 | bip_39_word_space_1 | shine |  
 | bip_39_word_space_10 | shine client bacon lawn degree diamond taxi derive chief loyal |  

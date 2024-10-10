@@ -122,6 +122,18 @@ legend
 sting
 destroy
 lady |  
+| bip_39_word_no_space_1 | economy |  
+| bip_39_word_no_space_10 | economyupgradeponyfashionvolcanolegendstingdestroyladypeace |  
+| bip_39_word_no_space_11 | economyupgradeponyfashionvolcanolegendstingdestroyladypeaceover |  
+| bip_39_word_no_space_12 | economyupgradeponyfashionvolcanolegendstingdestroyladypeaceoveralpha |  
+| bip_39_word_no_space_2 | economyupgrade |  
+| bip_39_word_no_space_3 | economyupgradepony |  
+| bip_39_word_no_space_4 | economyupgradeponyfashion |  
+| bip_39_word_no_space_5 | economyupgradeponyfashionvolcano |  
+| bip_39_word_no_space_6 | economyupgradeponyfashionvolcanolegend |  
+| bip_39_word_no_space_7 | economyupgradeponyfashionvolcanolegendsting |  
+| bip_39_word_no_space_8 | economyupgradeponyfashionvolcanolegendstingdestroy |  
+| bip_39_word_no_space_9 | economyupgradeponyfashionvolcanolegendstingdestroylady |  
 | bip_39_word_space_0 | ['economy', 'upgrade', 'pony', 'fashion', 'volcano', 'legend', 'sting', 'destroy', 'lady', 'peace', 'over', 'alpha'] |  
 | bip_39_word_space_1 | economy |  
 | bip_39_word_space_10 | economy upgrade pony fashion volcano legend sting destroy lady peace |  

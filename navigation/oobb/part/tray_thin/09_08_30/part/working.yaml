@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'kick
   alcohol
 
   nice'
+bip_39_word_no_space_1: kick
+bip_39_word_no_space_10: kickmuffintripgovernpaperpuppystrikealcoholniceremember
+bip_39_word_no_space_11: kickmuffintripgovernpaperpuppystrikealcoholnicerememberhalf
+bip_39_word_no_space_12: kickmuffintripgovernpaperpuppystrikealcoholnicerememberhalfacid
+bip_39_word_no_space_2: kickmuffin
+bip_39_word_no_space_3: kickmuffintrip
+bip_39_word_no_space_4: kickmuffintripgovern
+bip_39_word_no_space_5: kickmuffintripgovernpaper
+bip_39_word_no_space_6: kickmuffintripgovernpaperpuppy
+bip_39_word_no_space_7: kickmuffintripgovernpaperpuppystrike
+bip_39_word_no_space_8: kickmuffintripgovernpaperpuppystrikealcohol
+bip_39_word_no_space_9: kickmuffintripgovernpaperpuppystrikealcoholnice
 bip_39_word_space_0:
 - kick
 - muffin

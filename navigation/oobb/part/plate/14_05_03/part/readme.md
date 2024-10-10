@@ -122,6 +122,18 @@ sunny
 riot
 soon
 sauce |  
+| bip_39_word_no_space_1 | club |  
+| bip_39_word_no_space_10 | clubkindglobecomicbenefitsunnyriotsoonsauceclump |  
+| bip_39_word_no_space_11 | clubkindglobecomicbenefitsunnyriotsoonsauceclumpfatigue |  
+| bip_39_word_no_space_12 | clubkindglobecomicbenefitsunnyriotsoonsauceclumpfatigueaverage |  
+| bip_39_word_no_space_2 | clubkind |  
+| bip_39_word_no_space_3 | clubkindglobe |  
+| bip_39_word_no_space_4 | clubkindglobecomic |  
+| bip_39_word_no_space_5 | clubkindglobecomicbenefit |  
+| bip_39_word_no_space_6 | clubkindglobecomicbenefitsunny |  
+| bip_39_word_no_space_7 | clubkindglobecomicbenefitsunnyriot |  
+| bip_39_word_no_space_8 | clubkindglobecomicbenefitsunnyriotsoon |  
+| bip_39_word_no_space_9 | clubkindglobecomicbenefitsunnyriotsoonsauce |  
 | bip_39_word_space_0 | ['club', 'kind', 'globe', 'comic', 'benefit', 'sunny', 'riot', 'soon', 'sauce', 'clump', 'fatigue', 'average'] |  
 | bip_39_word_space_1 | club |  
 | bip_39_word_space_10 | club kind globe comic benefit sunny riot soon sauce clump |  

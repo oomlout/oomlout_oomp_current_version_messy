@@ -122,6 +122,18 @@ combine
 clutch
 chronic
 merit |  
+| bip_39_word_no_space_1 | eternal |  
+| bip_39_word_no_space_10 | eternaldressemotionsimpleseasoncombineclutchchronicmeritclay |  
+| bip_39_word_no_space_11 | eternaldressemotionsimpleseasoncombineclutchchronicmeritclaychoice |  
+| bip_39_word_no_space_12 | eternaldressemotionsimpleseasoncombineclutchchronicmeritclaychoiceanchor |  
+| bip_39_word_no_space_2 | eternaldress |  
+| bip_39_word_no_space_3 | eternaldressemotion |  
+| bip_39_word_no_space_4 | eternaldressemotionsimple |  
+| bip_39_word_no_space_5 | eternaldressemotionsimpleseason |  
+| bip_39_word_no_space_6 | eternaldressemotionsimpleseasoncombine |  
+| bip_39_word_no_space_7 | eternaldressemotionsimpleseasoncombineclutch |  
+| bip_39_word_no_space_8 | eternaldressemotionsimpleseasoncombineclutchchronic |  
+| bip_39_word_no_space_9 | eternaldressemotionsimpleseasoncombineclutchchronicmerit |  
 | bip_39_word_space_0 | ['eternal', 'dress', 'emotion', 'simple', 'season', 'combine', 'clutch', 'chronic', 'merit', 'clay', 'choice', 'anchor'] |  
 | bip_39_word_space_1 | eternal |  
 | bip_39_word_space_10 | eternal dress emotion simple season combine clutch chronic merit clay |  

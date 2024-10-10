@@ -122,6 +122,18 @@ glance
 receive
 space
 rival |  
+| bip_39_word_no_space_1 | crisp |  
+| bip_39_word_no_space_10 | crispnosepensufferenvelopeglancereceivespacerivalpicture |  
+| bip_39_word_no_space_11 | crispnosepensufferenvelopeglancereceivespacerivalpicturesand |  
+| bip_39_word_no_space_12 | crispnosepensufferenvelopeglancereceivespacerivalpicturesandaerobic |  
+| bip_39_word_no_space_2 | crispnose |  
+| bip_39_word_no_space_3 | crispnosepen |  
+| bip_39_word_no_space_4 | crispnosepensuffer |  
+| bip_39_word_no_space_5 | crispnosepensufferenvelope |  
+| bip_39_word_no_space_6 | crispnosepensufferenvelopeglance |  
+| bip_39_word_no_space_7 | crispnosepensufferenvelopeglancereceive |  
+| bip_39_word_no_space_8 | crispnosepensufferenvelopeglancereceivespace |  
+| bip_39_word_no_space_9 | crispnosepensufferenvelopeglancereceivespacerival |  
 | bip_39_word_space_0 | ['crisp', 'nose', 'pen', 'suffer', 'envelope', 'glance', 'receive', 'space', 'rival', 'picture', 'sand', 'aerobic'] |  
 | bip_39_word_space_1 | crisp |  
 | bip_39_word_space_10 | crisp nose pen suffer envelope glance receive space rival picture |  

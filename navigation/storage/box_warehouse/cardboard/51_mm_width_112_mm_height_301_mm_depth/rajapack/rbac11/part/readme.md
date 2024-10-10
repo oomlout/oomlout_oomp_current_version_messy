@@ -122,6 +122,18 @@ wink
 creek
 clever
 connect |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatsurveycasesurveysuitwinkcreekcleverconnectcute |  
+| bip_39_word_no_space_11 | whatsurveycasesurveysuitwinkcreekcleverconnectcuteessay |  
+| bip_39_word_no_space_12 | whatsurveycasesurveysuitwinkcreekcleverconnectcuteessayabout |  
+| bip_39_word_no_space_2 | whatsurvey |  
+| bip_39_word_no_space_3 | whatsurveycase |  
+| bip_39_word_no_space_4 | whatsurveycasesurvey |  
+| bip_39_word_no_space_5 | whatsurveycasesurveysuit |  
+| bip_39_word_no_space_6 | whatsurveycasesurveysuitwink |  
+| bip_39_word_no_space_7 | whatsurveycasesurveysuitwinkcreek |  
+| bip_39_word_no_space_8 | whatsurveycasesurveysuitwinkcreekclever |  
+| bip_39_word_no_space_9 | whatsurveycasesurveysuitwinkcreekcleverconnect |  
 | bip_39_word_space_0 | ['what', 'survey', 'case', 'survey', 'suit', 'wink', 'creek', 'clever', 'connect', 'cute', 'essay', 'about'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what survey case survey suit wink creek clever connect cute |  

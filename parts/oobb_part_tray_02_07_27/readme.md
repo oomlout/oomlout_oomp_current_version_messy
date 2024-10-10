@@ -122,6 +122,18 @@ code
 use
 oven
 excite |  
+| bip_39_word_no_space_1 | horse |  
+| bip_39_word_no_space_10 | horsecattlestovehabithugecodeuseovenexcitevelvet |  
+| bip_39_word_no_space_11 | horsecattlestovehabithugecodeuseovenexcitevelvetpioneer |  
+| bip_39_word_no_space_12 | horsecattlestovehabithugecodeuseovenexcitevelvetpioneeraverage |  
+| bip_39_word_no_space_2 | horsecattle |  
+| bip_39_word_no_space_3 | horsecattlestove |  
+| bip_39_word_no_space_4 | horsecattlestovehabit |  
+| bip_39_word_no_space_5 | horsecattlestovehabithuge |  
+| bip_39_word_no_space_6 | horsecattlestovehabithugecode |  
+| bip_39_word_no_space_7 | horsecattlestovehabithugecodeuse |  
+| bip_39_word_no_space_8 | horsecattlestovehabithugecodeuseoven |  
+| bip_39_word_no_space_9 | horsecattlestovehabithugecodeuseovenexcite |  
 | bip_39_word_space_0 | ['horse', 'cattle', 'stove', 'habit', 'huge', 'code', 'use', 'oven', 'excite', 'velvet', 'pioneer', 'average'] |  
 | bip_39_word_space_1 | horse |  
 | bip_39_word_space_10 | horse cattle stove habit huge code use oven excite velvet |  

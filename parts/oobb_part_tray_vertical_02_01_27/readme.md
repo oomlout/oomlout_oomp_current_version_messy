@@ -122,6 +122,18 @@ bleak
 vanish
 creek
 document |  
+| bip_39_word_no_space_1 | arrive |  
+| bip_39_word_no_space_10 | arrivecoverinformtouristworthbleakvanishcreekdocumentstart |  
+| bip_39_word_no_space_11 | arrivecoverinformtouristworthbleakvanishcreekdocumentstartvirus |  
+| bip_39_word_no_space_12 | arrivecoverinformtouristworthbleakvanishcreekdocumentstartvirusasset |  
+| bip_39_word_no_space_2 | arrivecover |  
+| bip_39_word_no_space_3 | arrivecoverinform |  
+| bip_39_word_no_space_4 | arrivecoverinformtourist |  
+| bip_39_word_no_space_5 | arrivecoverinformtouristworth |  
+| bip_39_word_no_space_6 | arrivecoverinformtouristworthbleak |  
+| bip_39_word_no_space_7 | arrivecoverinformtouristworthbleakvanish |  
+| bip_39_word_no_space_8 | arrivecoverinformtouristworthbleakvanishcreek |  
+| bip_39_word_no_space_9 | arrivecoverinformtouristworthbleakvanishcreekdocument |  
 | bip_39_word_space_0 | ['arrive', 'cover', 'inform', 'tourist', 'worth', 'bleak', 'vanish', 'creek', 'document', 'start', 'virus', 'asset'] |  
 | bip_39_word_space_1 | arrive |  
 | bip_39_word_space_10 | arrive cover inform tourist worth bleak vanish creek document start |  

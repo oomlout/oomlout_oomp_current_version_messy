@@ -122,6 +122,18 @@ treat
 federal
 voice
 order |  
+| bip_39_word_no_space_1 | range |  
+| bip_39_word_no_space_10 | rangecutesqueezestandalcoholtreatfederalvoiceorderreunion |  
+| bip_39_word_no_space_11 | rangecutesqueezestandalcoholtreatfederalvoiceorderreunionpony |  
+| bip_39_word_no_space_12 | rangecutesqueezestandalcoholtreatfederalvoiceorderreunionponyabout |  
+| bip_39_word_no_space_2 | rangecute |  
+| bip_39_word_no_space_3 | rangecutesqueeze |  
+| bip_39_word_no_space_4 | rangecutesqueezestand |  
+| bip_39_word_no_space_5 | rangecutesqueezestandalcohol |  
+| bip_39_word_no_space_6 | rangecutesqueezestandalcoholtreat |  
+| bip_39_word_no_space_7 | rangecutesqueezestandalcoholtreatfederal |  
+| bip_39_word_no_space_8 | rangecutesqueezestandalcoholtreatfederalvoice |  
+| bip_39_word_no_space_9 | rangecutesqueezestandalcoholtreatfederalvoiceorder |  
 | bip_39_word_space_0 | ['range', 'cute', 'squeeze', 'stand', 'alcohol', 'treat', 'federal', 'voice', 'order', 'reunion', 'pony', 'about'] |  
 | bip_39_word_space_1 | range |  
 | bip_39_word_space_10 | range cute squeeze stand alcohol treat federal voice order reunion |  

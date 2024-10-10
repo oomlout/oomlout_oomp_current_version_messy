@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'flavor
   fit
 
   velvet'
+bip_39_word_no_space_1: flavor
+bip_39_word_no_space_10: flavorbeginaloneclockkeyhuntobservefitvelvetmule
+bip_39_word_no_space_11: flavorbeginaloneclockkeyhuntobservefitvelvetmuleice
+bip_39_word_no_space_12: flavorbeginaloneclockkeyhuntobservefitvelvetmuleicealso
+bip_39_word_no_space_2: flavorbegin
+bip_39_word_no_space_3: flavorbeginalone
+bip_39_word_no_space_4: flavorbeginaloneclock
+bip_39_word_no_space_5: flavorbeginaloneclockkey
+bip_39_word_no_space_6: flavorbeginaloneclockkeyhunt
+bip_39_word_no_space_7: flavorbeginaloneclockkeyhuntobserve
+bip_39_word_no_space_8: flavorbeginaloneclockkeyhuntobservefit
+bip_39_word_no_space_9: flavorbeginaloneclockkeyhuntobservefitvelvet
 bip_39_word_space_0:
 - flavor
 - begin

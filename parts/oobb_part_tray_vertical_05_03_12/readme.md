@@ -122,6 +122,18 @@ crucial
 assault
 sweet
 solid |  
+| bip_39_word_no_space_1 | ask |  
+| bip_39_word_no_space_10 | askpositionpeanutnosehipcrucialassaultsweetsolidguide |  
+| bip_39_word_no_space_11 | askpositionpeanutnosehipcrucialassaultsweetsolidguidefound |  
+| bip_39_word_no_space_12 | askpositionpeanutnosehipcrucialassaultsweetsolidguidefoundairport |  
+| bip_39_word_no_space_2 | askposition |  
+| bip_39_word_no_space_3 | askpositionpeanut |  
+| bip_39_word_no_space_4 | askpositionpeanutnose |  
+| bip_39_word_no_space_5 | askpositionpeanutnosehip |  
+| bip_39_word_no_space_6 | askpositionpeanutnosehipcrucial |  
+| bip_39_word_no_space_7 | askpositionpeanutnosehipcrucialassault |  
+| bip_39_word_no_space_8 | askpositionpeanutnosehipcrucialassaultsweet |  
+| bip_39_word_no_space_9 | askpositionpeanutnosehipcrucialassaultsweetsolid |  
 | bip_39_word_space_0 | ['ask', 'position', 'peanut', 'nose', 'hip', 'crucial', 'assault', 'sweet', 'solid', 'guide', 'found', 'airport'] |  
 | bip_39_word_space_1 | ask |  
 | bip_39_word_space_10 | ask position peanut nose hip crucial assault sweet solid guide |  

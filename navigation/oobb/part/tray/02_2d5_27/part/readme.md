@@ -122,6 +122,18 @@ gown
 shoulder
 palm
 fame |  
+| bip_39_word_no_space_1 | box |  
+| bip_39_word_no_space_10 | boxlaptoppatchbottomdepositgownshoulderpalmfamecrisp |  
+| bip_39_word_no_space_11 | boxlaptoppatchbottomdepositgownshoulderpalmfamecrispclose |  
+| bip_39_word_no_space_12 | boxlaptoppatchbottomdepositgownshoulderpalmfamecrispclosealone |  
+| bip_39_word_no_space_2 | boxlaptop |  
+| bip_39_word_no_space_3 | boxlaptoppatch |  
+| bip_39_word_no_space_4 | boxlaptoppatchbottom |  
+| bip_39_word_no_space_5 | boxlaptoppatchbottomdeposit |  
+| bip_39_word_no_space_6 | boxlaptoppatchbottomdepositgown |  
+| bip_39_word_no_space_7 | boxlaptoppatchbottomdepositgownshoulder |  
+| bip_39_word_no_space_8 | boxlaptoppatchbottomdepositgownshoulderpalm |  
+| bip_39_word_no_space_9 | boxlaptoppatchbottomdepositgownshoulderpalmfame |  
 | bip_39_word_space_0 | ['box', 'laptop', 'patch', 'bottom', 'deposit', 'gown', 'shoulder', 'palm', 'fame', 'crisp', 'close', 'alone'] |  
 | bip_39_word_space_1 | box |  
 | bip_39_word_space_10 | box laptop patch bottom deposit gown shoulder palm fame crisp |  

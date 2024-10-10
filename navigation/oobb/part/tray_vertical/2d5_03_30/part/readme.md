@@ -122,6 +122,18 @@ almost
 daughter
 spoon
 hint |  
+| bip_39_word_no_space_1 | trash |  
+| bip_39_word_no_space_10 | trashstylemandatecoconutopinionalmostdaughterspoonhintunfold |  
+| bip_39_word_no_space_11 | trashstylemandatecoconutopinionalmostdaughterspoonhintunfoldprivate |  
+| bip_39_word_no_space_12 | trashstylemandatecoconutopinionalmostdaughterspoonhintunfoldprivatealone |  
+| bip_39_word_no_space_2 | trashstyle |  
+| bip_39_word_no_space_3 | trashstylemandate |  
+| bip_39_word_no_space_4 | trashstylemandatecoconut |  
+| bip_39_word_no_space_5 | trashstylemandatecoconutopinion |  
+| bip_39_word_no_space_6 | trashstylemandatecoconutopinionalmost |  
+| bip_39_word_no_space_7 | trashstylemandatecoconutopinionalmostdaughter |  
+| bip_39_word_no_space_8 | trashstylemandatecoconutopinionalmostdaughterspoon |  
+| bip_39_word_no_space_9 | trashstylemandatecoconutopinionalmostdaughterspoonhint |  
 | bip_39_word_space_0 | ['trash', 'style', 'mandate', 'coconut', 'opinion', 'almost', 'daughter', 'spoon', 'hint', 'unfold', 'private', 'alone'] |  
 | bip_39_word_space_1 | trash |  
 | bip_39_word_space_10 | trash style mandate coconut opinion almost daughter spoon hint unfold |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'next
   canvas
 
   insect'
+bip_39_word_no_space_1: next
+bip_39_word_no_space_10: nextcamerafocuscabinvaulthandladdercanvasinsectcorrect
+bip_39_word_no_space_11: nextcamerafocuscabinvaulthandladdercanvasinsectcorrectartefact
+bip_39_word_no_space_12: nextcamerafocuscabinvaulthandladdercanvasinsectcorrectartefactantique
+bip_39_word_no_space_2: nextcamera
+bip_39_word_no_space_3: nextcamerafocus
+bip_39_word_no_space_4: nextcamerafocuscabin
+bip_39_word_no_space_5: nextcamerafocuscabinvault
+bip_39_word_no_space_6: nextcamerafocuscabinvaulthand
+bip_39_word_no_space_7: nextcamerafocuscabinvaulthandladder
+bip_39_word_no_space_8: nextcamerafocuscabinvaulthandladdercanvas
+bip_39_word_no_space_9: nextcamerafocuscabinvaulthandladdercanvasinsect
 bip_39_word_space_0:
 - next
 - camera

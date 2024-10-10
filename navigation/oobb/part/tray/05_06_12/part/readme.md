@@ -122,6 +122,18 @@ cheese
 imitate
 collect
 pledge |  
+| bip_39_word_no_space_1 | unable |  
+| bip_39_word_no_space_10 | unablesimplesuccesscutethatcheeseimitatecollectpledgenothing |  
+| bip_39_word_no_space_11 | unablesimplesuccesscutethatcheeseimitatecollectpledgenothingtransfer |  
+| bip_39_word_no_space_12 | unablesimplesuccesscutethatcheeseimitatecollectpledgenothingtransferannounce |  
+| bip_39_word_no_space_2 | unablesimple |  
+| bip_39_word_no_space_3 | unablesimplesuccess |  
+| bip_39_word_no_space_4 | unablesimplesuccesscute |  
+| bip_39_word_no_space_5 | unablesimplesuccesscutethat |  
+| bip_39_word_no_space_6 | unablesimplesuccesscutethatcheese |  
+| bip_39_word_no_space_7 | unablesimplesuccesscutethatcheeseimitate |  
+| bip_39_word_no_space_8 | unablesimplesuccesscutethatcheeseimitatecollect |  
+| bip_39_word_no_space_9 | unablesimplesuccesscutethatcheeseimitatecollectpledge |  
 | bip_39_word_space_0 | ['unable', 'simple', 'success', 'cute', 'that', 'cheese', 'imitate', 'collect', 'pledge', 'nothing', 'transfer', 'announce'] |  
 | bip_39_word_space_1 | unable |  
 | bip_39_word_space_10 | unable simple success cute that cheese imitate collect pledge nothing |  

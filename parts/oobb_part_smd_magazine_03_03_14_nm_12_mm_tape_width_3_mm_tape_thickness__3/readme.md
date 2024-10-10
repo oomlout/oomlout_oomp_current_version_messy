@@ -122,6 +122,18 @@ minimum
 good
 twist
 erupt |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitofutureleveldevotekangaroominimumgoodtwisteruptsecond |  
+| bip_39_word_no_space_11 | mosquitofutureleveldevotekangaroominimumgoodtwisteruptsecondrecycle |  
+| bip_39_word_no_space_12 | mosquitofutureleveldevotekangaroominimumgoodtwisteruptsecondrecycleaspect |  
+| bip_39_word_no_space_2 | mosquitofuture |  
+| bip_39_word_no_space_3 | mosquitofuturelevel |  
+| bip_39_word_no_space_4 | mosquitofutureleveldevote |  
+| bip_39_word_no_space_5 | mosquitofutureleveldevotekangaroo |  
+| bip_39_word_no_space_6 | mosquitofutureleveldevotekangaroominimum |  
+| bip_39_word_no_space_7 | mosquitofutureleveldevotekangaroominimumgood |  
+| bip_39_word_no_space_8 | mosquitofutureleveldevotekangaroominimumgoodtwist |  
+| bip_39_word_no_space_9 | mosquitofutureleveldevotekangaroominimumgoodtwisterupt |  
 | bip_39_word_space_0 | ['mosquito', 'future', 'level', 'devote', 'kangaroo', 'minimum', 'good', 'twist', 'erupt', 'second', 'recycle', 'aspect'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito future level devote kangaroo minimum good twist erupt second |  

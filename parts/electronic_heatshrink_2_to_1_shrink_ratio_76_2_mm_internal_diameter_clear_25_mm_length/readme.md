@@ -122,6 +122,18 @@ duck
 paddle
 pig
 comfort |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarkidderivebeforeoutsideduckpaddlepigcomfortbean |  
+| bip_39_word_no_space_11 | cigarkidderivebeforeoutsideduckpaddlepigcomfortbeanmisery |  
+| bip_39_word_no_space_12 | cigarkidderivebeforeoutsideduckpaddlepigcomfortbeanmiseryabove |  
+| bip_39_word_no_space_2 | cigarkid |  
+| bip_39_word_no_space_3 | cigarkidderive |  
+| bip_39_word_no_space_4 | cigarkidderivebefore |  
+| bip_39_word_no_space_5 | cigarkidderivebeforeoutside |  
+| bip_39_word_no_space_6 | cigarkidderivebeforeoutsideduck |  
+| bip_39_word_no_space_7 | cigarkidderivebeforeoutsideduckpaddle |  
+| bip_39_word_no_space_8 | cigarkidderivebeforeoutsideduckpaddlepig |  
+| bip_39_word_no_space_9 | cigarkidderivebeforeoutsideduckpaddlepigcomfort |  
 | bip_39_word_space_0 | ['cigar', 'kid', 'derive', 'before', 'outside', 'duck', 'paddle', 'pig', 'comfort', 'bean', 'misery', 'above'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar kid derive before outside duck paddle pig comfort bean |  

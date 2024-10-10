@@ -122,6 +122,18 @@ holiday
 blush
 across
 party |  
+| bip_39_word_no_space_1 | bullet |  
+| bip_39_word_no_space_10 | bulletbluecementacquiresoftholidayblushacrosspartydignity |  
+| bip_39_word_no_space_11 | bulletbluecementacquiresoftholidayblushacrosspartydignityspoil |  
+| bip_39_word_no_space_12 | bulletbluecementacquiresoftholidayblushacrosspartydignityspoilassault |  
+| bip_39_word_no_space_2 | bulletblue |  
+| bip_39_word_no_space_3 | bulletbluecement |  
+| bip_39_word_no_space_4 | bulletbluecementacquire |  
+| bip_39_word_no_space_5 | bulletbluecementacquiresoft |  
+| bip_39_word_no_space_6 | bulletbluecementacquiresoftholiday |  
+| bip_39_word_no_space_7 | bulletbluecementacquiresoftholidayblush |  
+| bip_39_word_no_space_8 | bulletbluecementacquiresoftholidayblushacross |  
+| bip_39_word_no_space_9 | bulletbluecementacquiresoftholidayblushacrossparty |  
 | bip_39_word_space_0 | ['bullet', 'blue', 'cement', 'acquire', 'soft', 'holiday', 'blush', 'across', 'party', 'dignity', 'spoil', 'assault'] |  
 | bip_39_word_space_1 | bullet |  
 | bip_39_word_space_10 | bullet blue cement acquire soft holiday blush across party dignity |  

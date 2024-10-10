@@ -122,6 +122,18 @@ erupt
 ahead
 input
 truck |  
+| bip_39_word_no_space_1 | mass |  
+| bip_39_word_no_space_10 | masssongenforceenemyindicateeruptaheadinputtruckmammal |  
+| bip_39_word_no_space_11 | masssongenforceenemyindicateeruptaheadinputtruckmammalsleep |  
+| bip_39_word_no_space_12 | masssongenforceenemyindicateeruptaheadinputtruckmammalsleepauto |  
+| bip_39_word_no_space_2 | masssong |  
+| bip_39_word_no_space_3 | masssongenforce |  
+| bip_39_word_no_space_4 | masssongenforceenemy |  
+| bip_39_word_no_space_5 | masssongenforceenemyindicate |  
+| bip_39_word_no_space_6 | masssongenforceenemyindicateerupt |  
+| bip_39_word_no_space_7 | masssongenforceenemyindicateeruptahead |  
+| bip_39_word_no_space_8 | masssongenforceenemyindicateeruptaheadinput |  
+| bip_39_word_no_space_9 | masssongenforceenemyindicateeruptaheadinputtruck |  
 | bip_39_word_space_0 | ['mass', 'song', 'enforce', 'enemy', 'indicate', 'erupt', 'ahead', 'input', 'truck', 'mammal', 'sleep', 'auto'] |  
 | bip_39_word_space_1 | mass |  
 | bip_39_word_space_10 | mass song enforce enemy indicate erupt ahead input truck mammal |  

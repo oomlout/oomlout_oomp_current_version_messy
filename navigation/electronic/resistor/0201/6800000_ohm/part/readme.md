@@ -122,6 +122,18 @@ office
 voyage
 can
 birth |  
+| bip_39_word_no_space_1 | material |  
+| bip_39_word_no_space_10 | materialpowerequalpigeongoodofficevoyagecanbirthtown |  
+| bip_39_word_no_space_11 | materialpowerequalpigeongoodofficevoyagecanbirthtownfetch |  
+| bip_39_word_no_space_12 | materialpowerequalpigeongoodofficevoyagecanbirthtownfetchartist |  
+| bip_39_word_no_space_2 | materialpower |  
+| bip_39_word_no_space_3 | materialpowerequal |  
+| bip_39_word_no_space_4 | materialpowerequalpigeon |  
+| bip_39_word_no_space_5 | materialpowerequalpigeongood |  
+| bip_39_word_no_space_6 | materialpowerequalpigeongoodoffice |  
+| bip_39_word_no_space_7 | materialpowerequalpigeongoodofficevoyage |  
+| bip_39_word_no_space_8 | materialpowerequalpigeongoodofficevoyagecan |  
+| bip_39_word_no_space_9 | materialpowerequalpigeongoodofficevoyagecanbirth |  
 | bip_39_word_space_0 | ['material', 'power', 'equal', 'pigeon', 'good', 'office', 'voyage', 'can', 'birth', 'town', 'fetch', 'artist'] |  
 | bip_39_word_space_1 | material |  
 | bip_39_word_space_10 | material power equal pigeon good office voyage can birth town |  

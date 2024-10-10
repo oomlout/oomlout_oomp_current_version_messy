@@ -122,6 +122,18 @@ arena
 wave
 update
 ethics |  
+| bip_39_word_no_space_1 | fame |  
+| bip_39_word_no_space_10 | famehoverbookcasemergearenawaveupdateethicscode |  
+| bip_39_word_no_space_11 | famehoverbookcasemergearenawaveupdateethicscodemain |  
+| bip_39_word_no_space_12 | famehoverbookcasemergearenawaveupdateethicscodemainamateur |  
+| bip_39_word_no_space_2 | famehover |  
+| bip_39_word_no_space_3 | famehoverbook |  
+| bip_39_word_no_space_4 | famehoverbookcase |  
+| bip_39_word_no_space_5 | famehoverbookcasemerge |  
+| bip_39_word_no_space_6 | famehoverbookcasemergearena |  
+| bip_39_word_no_space_7 | famehoverbookcasemergearenawave |  
+| bip_39_word_no_space_8 | famehoverbookcasemergearenawaveupdate |  
+| bip_39_word_no_space_9 | famehoverbookcasemergearenawaveupdateethics |  
 | bip_39_word_space_0 | ['fame', 'hover', 'book', 'case', 'merge', 'arena', 'wave', 'update', 'ethics', 'code', 'main', 'amateur'] |  
 | bip_39_word_space_1 | fame |  
 | bip_39_word_space_10 | fame hover book case merge arena wave update ethics code |  

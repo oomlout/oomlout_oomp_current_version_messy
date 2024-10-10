@@ -122,6 +122,18 @@ logic
 like
 artwork
 toy |  
+| bip_39_word_no_space_1 | craft |  
+| bip_39_word_no_space_10 | craftleafstamplunarracklogiclikeartworktoyorchard |  
+| bip_39_word_no_space_11 | craftleafstamplunarracklogiclikeartworktoyorchardlecture |  
+| bip_39_word_no_space_12 | craftleafstamplunarracklogiclikeartworktoyorchardlectureabuse |  
+| bip_39_word_no_space_2 | craftleaf |  
+| bip_39_word_no_space_3 | craftleafstamp |  
+| bip_39_word_no_space_4 | craftleafstamplunar |  
+| bip_39_word_no_space_5 | craftleafstamplunarrack |  
+| bip_39_word_no_space_6 | craftleafstamplunarracklogic |  
+| bip_39_word_no_space_7 | craftleafstamplunarracklogiclike |  
+| bip_39_word_no_space_8 | craftleafstamplunarracklogiclikeartwork |  
+| bip_39_word_no_space_9 | craftleafstamplunarracklogiclikeartworktoy |  
 | bip_39_word_space_0 | ['craft', 'leaf', 'stamp', 'lunar', 'rack', 'logic', 'like', 'artwork', 'toy', 'orchard', 'lecture', 'abuse'] |  
 | bip_39_word_space_1 | craft |  
 | bip_39_word_space_10 | craft leaf stamp lunar rack logic like artwork toy orchard |  

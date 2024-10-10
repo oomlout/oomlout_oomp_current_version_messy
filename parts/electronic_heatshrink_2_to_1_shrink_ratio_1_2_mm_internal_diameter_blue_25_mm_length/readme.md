@@ -122,6 +122,18 @@ gauge
 boost
 dwarf
 milk |  
+| bip_39_word_no_space_1 | calm |  
+| bip_39_word_no_space_10 | calmwinterleveltubesadnessgaugeboostdwarfmilktower |  
+| bip_39_word_no_space_11 | calmwinterleveltubesadnessgaugeboostdwarfmilktowerimitate |  
+| bip_39_word_no_space_12 | calmwinterleveltubesadnessgaugeboostdwarfmilktowerimitateacquire |  
+| bip_39_word_no_space_2 | calmwinter |  
+| bip_39_word_no_space_3 | calmwinterlevel |  
+| bip_39_word_no_space_4 | calmwinterleveltube |  
+| bip_39_word_no_space_5 | calmwinterleveltubesadness |  
+| bip_39_word_no_space_6 | calmwinterleveltubesadnessgauge |  
+| bip_39_word_no_space_7 | calmwinterleveltubesadnessgaugeboost |  
+| bip_39_word_no_space_8 | calmwinterleveltubesadnessgaugeboostdwarf |  
+| bip_39_word_no_space_9 | calmwinterleveltubesadnessgaugeboostdwarfmilk |  
 | bip_39_word_space_0 | ['calm', 'winter', 'level', 'tube', 'sadness', 'gauge', 'boost', 'dwarf', 'milk', 'tower', 'imitate', 'acquire'] |  
 | bip_39_word_space_1 | calm |  
 | bip_39_word_space_10 | calm winter level tube sadness gauge boost dwarf milk tower |  

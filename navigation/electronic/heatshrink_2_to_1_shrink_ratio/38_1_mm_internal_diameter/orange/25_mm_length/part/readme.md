@@ -122,6 +122,18 @@ nice
 remain
 cause
 actual |  
+| bip_39_word_no_space_1 | young |  
+| bip_39_word_no_space_10 | youngsubmitcargowantbusniceremaincauseactuallogic |  
+| bip_39_word_no_space_11 | youngsubmitcargowantbusniceremaincauseactuallogicbusiness |  
+| bip_39_word_no_space_12 | youngsubmitcargowantbusniceremaincauseactuallogicbusinessantenna |  
+| bip_39_word_no_space_2 | youngsubmit |  
+| bip_39_word_no_space_3 | youngsubmitcargo |  
+| bip_39_word_no_space_4 | youngsubmitcargowant |  
+| bip_39_word_no_space_5 | youngsubmitcargowantbus |  
+| bip_39_word_no_space_6 | youngsubmitcargowantbusnice |  
+| bip_39_word_no_space_7 | youngsubmitcargowantbusniceremain |  
+| bip_39_word_no_space_8 | youngsubmitcargowantbusniceremaincause |  
+| bip_39_word_no_space_9 | youngsubmitcargowantbusniceremaincauseactual |  
 | bip_39_word_space_0 | ['young', 'submit', 'cargo', 'want', 'bus', 'nice', 'remain', 'cause', 'actual', 'logic', 'business', 'antenna'] |  
 | bip_39_word_space_1 | young |  
 | bip_39_word_space_10 | young submit cargo want bus nice remain cause actual logic |  

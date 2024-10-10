@@ -122,6 +122,18 @@ account
 idle
 powder
 print |  
+| bip_39_word_no_space_1 | immense |  
+| bip_39_word_no_space_10 | immensevolumefleeexpressconvinceaccountidlepowderprintmust |  
+| bip_39_word_no_space_11 | immensevolumefleeexpressconvinceaccountidlepowderprintmustlake |  
+| bip_39_word_no_space_12 | immensevolumefleeexpressconvinceaccountidlepowderprintmustlakeassault |  
+| bip_39_word_no_space_2 | immensevolume |  
+| bip_39_word_no_space_3 | immensevolumeflee |  
+| bip_39_word_no_space_4 | immensevolumefleeexpress |  
+| bip_39_word_no_space_5 | immensevolumefleeexpressconvince |  
+| bip_39_word_no_space_6 | immensevolumefleeexpressconvinceaccount |  
+| bip_39_word_no_space_7 | immensevolumefleeexpressconvinceaccountidle |  
+| bip_39_word_no_space_8 | immensevolumefleeexpressconvinceaccountidlepowder |  
+| bip_39_word_no_space_9 | immensevolumefleeexpressconvinceaccountidlepowderprint |  
 | bip_39_word_space_0 | ['immense', 'volume', 'flee', 'express', 'convince', 'account', 'idle', 'powder', 'print', 'must', 'lake', 'assault'] |  
 | bip_39_word_space_1 | immense |  
 | bip_39_word_space_10 | immense volume flee express convince account idle powder print must |  

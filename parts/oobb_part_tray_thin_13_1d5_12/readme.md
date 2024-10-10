@@ -122,6 +122,18 @@ swarm
 height
 impose
 vague |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintfurytitleceilingdepositswarmheightimposevagueweb |  
+| bip_39_word_no_space_11 | faintfurytitleceilingdepositswarmheightimposevaguewebcalm |  
+| bip_39_word_no_space_12 | faintfurytitleceilingdepositswarmheightimposevaguewebcalmactor |  
+| bip_39_word_no_space_2 | faintfury |  
+| bip_39_word_no_space_3 | faintfurytitle |  
+| bip_39_word_no_space_4 | faintfurytitleceiling |  
+| bip_39_word_no_space_5 | faintfurytitleceilingdeposit |  
+| bip_39_word_no_space_6 | faintfurytitleceilingdepositswarm |  
+| bip_39_word_no_space_7 | faintfurytitleceilingdepositswarmheight |  
+| bip_39_word_no_space_8 | faintfurytitleceilingdepositswarmheightimpose |  
+| bip_39_word_no_space_9 | faintfurytitleceilingdepositswarmheightimposevague |  
 | bip_39_word_space_0 | ['faint', 'fury', 'title', 'ceiling', 'deposit', 'swarm', 'height', 'impose', 'vague', 'web', 'calm', 'actor'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint fury title ceiling deposit swarm height impose vague web |  

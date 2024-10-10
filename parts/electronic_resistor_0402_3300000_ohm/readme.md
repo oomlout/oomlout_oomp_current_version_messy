@@ -122,6 +122,18 @@ miss
 night
 clump
 food |  
+| bip_39_word_no_space_1 | cash |  
+| bip_39_word_no_space_10 | cashmiddlesuccessnewshockeymissnightclumpfoodletter |  
+| bip_39_word_no_space_11 | cashmiddlesuccessnewshockeymissnightclumpfoodletterdress |  
+| bip_39_word_no_space_12 | cashmiddlesuccessnewshockeymissnightclumpfoodletterdressankle |  
+| bip_39_word_no_space_2 | cashmiddle |  
+| bip_39_word_no_space_3 | cashmiddlesuccess |  
+| bip_39_word_no_space_4 | cashmiddlesuccessnews |  
+| bip_39_word_no_space_5 | cashmiddlesuccessnewshockey |  
+| bip_39_word_no_space_6 | cashmiddlesuccessnewshockeymiss |  
+| bip_39_word_no_space_7 | cashmiddlesuccessnewshockeymissnight |  
+| bip_39_word_no_space_8 | cashmiddlesuccessnewshockeymissnightclump |  
+| bip_39_word_no_space_9 | cashmiddlesuccessnewshockeymissnightclumpfood |  
 | bip_39_word_space_0 | ['cash', 'middle', 'success', 'news', 'hockey', 'miss', 'night', 'clump', 'food', 'letter', 'dress', 'ankle'] |  
 | bip_39_word_space_1 | cash |  
 | bip_39_word_space_10 | cash middle success news hockey miss night clump food letter |  

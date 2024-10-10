@@ -122,6 +122,18 @@ gauge
 eager
 enforce
 document |  
+| bip_39_word_no_space_1 | boil |  
+| bip_39_word_no_space_10 | boilpreventmilkcradledumbgaugeeagerenforcedocumentriot |  
+| bip_39_word_no_space_11 | boilpreventmilkcradledumbgaugeeagerenforcedocumentriotact |  
+| bip_39_word_no_space_12 | boilpreventmilkcradledumbgaugeeagerenforcedocumentriotactaccident |  
+| bip_39_word_no_space_2 | boilprevent |  
+| bip_39_word_no_space_3 | boilpreventmilk |  
+| bip_39_word_no_space_4 | boilpreventmilkcradle |  
+| bip_39_word_no_space_5 | boilpreventmilkcradledumb |  
+| bip_39_word_no_space_6 | boilpreventmilkcradledumbgauge |  
+| bip_39_word_no_space_7 | boilpreventmilkcradledumbgaugeeager |  
+| bip_39_word_no_space_8 | boilpreventmilkcradledumbgaugeeagerenforce |  
+| bip_39_word_no_space_9 | boilpreventmilkcradledumbgaugeeagerenforcedocument |  
 | bip_39_word_space_0 | ['boil', 'prevent', 'milk', 'cradle', 'dumb', 'gauge', 'eager', 'enforce', 'document', 'riot', 'act', 'accident'] |  
 | bip_39_word_space_1 | boil |  
 | bip_39_word_space_10 | boil prevent milk cradle dumb gauge eager enforce document riot |  

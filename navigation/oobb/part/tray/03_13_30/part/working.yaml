@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shoot
   dust
 
   rescue'
+bip_39_word_no_space_1: shoot
+bip_39_word_no_space_10: shootcoverincreasecopyvendorthreetireddustrescuewage
+bip_39_word_no_space_11: shootcoverincreasecopyvendorthreetireddustrescuewageachieve
+bip_39_word_no_space_12: shootcoverincreasecopyvendorthreetireddustrescuewageachieveallow
+bip_39_word_no_space_2: shootcover
+bip_39_word_no_space_3: shootcoverincrease
+bip_39_word_no_space_4: shootcoverincreasecopy
+bip_39_word_no_space_5: shootcoverincreasecopyvendor
+bip_39_word_no_space_6: shootcoverincreasecopyvendorthree
+bip_39_word_no_space_7: shootcoverincreasecopyvendorthreetired
+bip_39_word_no_space_8: shootcoverincreasecopyvendorthreetireddust
+bip_39_word_no_space_9: shootcoverincreasecopyvendorthreetireddustrescue
 bip_39_word_space_0:
 - shoot
 - cover

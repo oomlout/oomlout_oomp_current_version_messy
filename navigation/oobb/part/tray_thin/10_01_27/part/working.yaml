@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'thank
   mystery
 
   unknown'
+bip_39_word_no_space_1: thank
+bip_39_word_no_space_10: thankfatlocalexoticmeltdrivetrustmysteryunknownwall
+bip_39_word_no_space_11: thankfatlocalexoticmeltdrivetrustmysteryunknownwallbind
+bip_39_word_no_space_12: thankfatlocalexoticmeltdrivetrustmysteryunknownwallbindamateur
+bip_39_word_no_space_2: thankfat
+bip_39_word_no_space_3: thankfatlocal
+bip_39_word_no_space_4: thankfatlocalexotic
+bip_39_word_no_space_5: thankfatlocalexoticmelt
+bip_39_word_no_space_6: thankfatlocalexoticmeltdrive
+bip_39_word_no_space_7: thankfatlocalexoticmeltdrivetrust
+bip_39_word_no_space_8: thankfatlocalexoticmeltdrivetrustmystery
+bip_39_word_no_space_9: thankfatlocalexoticmeltdrivetrustmysteryunknown
 bip_39_word_space_0:
 - thank
 - fat

@@ -122,6 +122,18 @@ hint
 scrub
 refuse
 arm |  
+| bip_39_word_no_space_1 | capable |  
+| bip_39_word_no_space_10 | capablesoulspecialdepositexpirehintscrubrefusearmskirt |  
+| bip_39_word_no_space_11 | capablesoulspecialdepositexpirehintscrubrefusearmskirtunder |  
+| bip_39_word_no_space_12 | capablesoulspecialdepositexpirehintscrubrefusearmskirtunderattitude |  
+| bip_39_word_no_space_2 | capablesoul |  
+| bip_39_word_no_space_3 | capablesoulspecial |  
+| bip_39_word_no_space_4 | capablesoulspecialdeposit |  
+| bip_39_word_no_space_5 | capablesoulspecialdepositexpire |  
+| bip_39_word_no_space_6 | capablesoulspecialdepositexpirehint |  
+| bip_39_word_no_space_7 | capablesoulspecialdepositexpirehintscrub |  
+| bip_39_word_no_space_8 | capablesoulspecialdepositexpirehintscrubrefuse |  
+| bip_39_word_no_space_9 | capablesoulspecialdepositexpirehintscrubrefusearm |  
 | bip_39_word_space_0 | ['capable', 'soul', 'special', 'deposit', 'expire', 'hint', 'scrub', 'refuse', 'arm', 'skirt', 'under', 'attitude'] |  
 | bip_39_word_space_1 | capable |  
 | bip_39_word_space_10 | capable soul special deposit expire hint scrub refuse arm skirt |  

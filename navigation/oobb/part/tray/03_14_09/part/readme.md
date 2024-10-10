@@ -122,6 +122,18 @@ olympic
 fat
 stool
 toy |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highteachtogetherwritequestionolympicfatstooltoyslush |  
+| bip_39_word_no_space_11 | highteachtogetherwritequestionolympicfatstooltoyslushurge |  
+| bip_39_word_no_space_12 | highteachtogetherwritequestionolympicfatstooltoyslushurgearound |  
+| bip_39_word_no_space_2 | highteach |  
+| bip_39_word_no_space_3 | highteachtogether |  
+| bip_39_word_no_space_4 | highteachtogetherwrite |  
+| bip_39_word_no_space_5 | highteachtogetherwritequestion |  
+| bip_39_word_no_space_6 | highteachtogetherwritequestionolympic |  
+| bip_39_word_no_space_7 | highteachtogetherwritequestionolympicfat |  
+| bip_39_word_no_space_8 | highteachtogetherwritequestionolympicfatstool |  
+| bip_39_word_no_space_9 | highteachtogetherwritequestionolympicfatstooltoy |  
 | bip_39_word_space_0 | ['high', 'teach', 'together', 'write', 'question', 'olympic', 'fat', 'stool', 'toy', 'slush', 'urge', 'around'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high teach together write question olympic fat stool toy slush |  

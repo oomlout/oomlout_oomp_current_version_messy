@@ -122,6 +122,18 @@ tornado
 olive
 sleep
 service |  
+| bip_39_word_no_space_1 | again |  
+| bip_39_word_no_space_10 | againsafeflockbambooaheadtornadoolivesleepserviceforce |  
+| bip_39_word_no_space_11 | againsafeflockbambooaheadtornadoolivesleepserviceforcetilt |  
+| bip_39_word_no_space_12 | againsafeflockbambooaheadtornadoolivesleepserviceforcetiltattend |  
+| bip_39_word_no_space_2 | againsafe |  
+| bip_39_word_no_space_3 | againsafeflock |  
+| bip_39_word_no_space_4 | againsafeflockbamboo |  
+| bip_39_word_no_space_5 | againsafeflockbambooahead |  
+| bip_39_word_no_space_6 | againsafeflockbambooaheadtornado |  
+| bip_39_word_no_space_7 | againsafeflockbambooaheadtornadoolive |  
+| bip_39_word_no_space_8 | againsafeflockbambooaheadtornadoolivesleep |  
+| bip_39_word_no_space_9 | againsafeflockbambooaheadtornadoolivesleepservice |  
 | bip_39_word_space_0 | ['again', 'safe', 'flock', 'bamboo', 'ahead', 'tornado', 'olive', 'sleep', 'service', 'force', 'tilt', 'attend'] |  
 | bip_39_word_space_1 | again |  
 | bip_39_word_space_10 | again safe flock bamboo ahead tornado olive sleep service force |  

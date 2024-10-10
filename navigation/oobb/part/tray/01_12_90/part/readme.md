@@ -122,6 +122,18 @@ armed
 promote
 team
 lottery |  
+| bip_39_word_no_space_1 | tide |  
+| bip_39_word_no_space_10 | tideplaysodainterestlamparmedpromoteteamlotteryalter |  
+| bip_39_word_no_space_11 | tideplaysodainterestlamparmedpromoteteamlotteryalterodor |  
+| bip_39_word_no_space_12 | tideplaysodainterestlamparmedpromoteteamlotteryalterodorability |  
+| bip_39_word_no_space_2 | tideplay |  
+| bip_39_word_no_space_3 | tideplaysoda |  
+| bip_39_word_no_space_4 | tideplaysodainterest |  
+| bip_39_word_no_space_5 | tideplaysodainterestlamp |  
+| bip_39_word_no_space_6 | tideplaysodainterestlamparmed |  
+| bip_39_word_no_space_7 | tideplaysodainterestlamparmedpromote |  
+| bip_39_word_no_space_8 | tideplaysodainterestlamparmedpromoteteam |  
+| bip_39_word_no_space_9 | tideplaysodainterestlamparmedpromoteteamlottery |  
 | bip_39_word_space_0 | ['tide', 'play', 'soda', 'interest', 'lamp', 'armed', 'promote', 'team', 'lottery', 'alter', 'odor', 'ability'] |  
 | bip_39_word_space_1 | tide |  
 | bip_39_word_space_10 | tide play soda interest lamp armed promote team lottery alter |  

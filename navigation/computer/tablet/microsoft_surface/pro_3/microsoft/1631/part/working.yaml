@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ghost
   argue
 
   seven'
+bip_39_word_no_space_1: ghost
+bip_39_word_no_space_10: ghostrangeroughsiegesoaprescueschoolarguesevenelephant
+bip_39_word_no_space_11: ghostrangeroughsiegesoaprescueschoolarguesevenelephantschool
+bip_39_word_no_space_12: ghostrangeroughsiegesoaprescueschoolarguesevenelephantschoolamong
+bip_39_word_no_space_2: ghostrange
+bip_39_word_no_space_3: ghostrangerough
+bip_39_word_no_space_4: ghostrangeroughsiege
+bip_39_word_no_space_5: ghostrangeroughsiegesoap
+bip_39_word_no_space_6: ghostrangeroughsiegesoaprescue
+bip_39_word_no_space_7: ghostrangeroughsiegesoaprescueschool
+bip_39_word_no_space_8: ghostrangeroughsiegesoaprescueschoolargue
+bip_39_word_no_space_9: ghostrangeroughsiegesoaprescueschoolargueseven
 bip_39_word_space_0:
 - ghost
 - range

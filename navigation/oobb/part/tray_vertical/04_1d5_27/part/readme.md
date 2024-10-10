@@ -122,6 +122,18 @@ stem
 intact
 forward
 actual |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturemidnightensureticketafraidstemintactforwardactualfury |  
+| bip_39_word_no_space_11 | naturemidnightensureticketafraidstemintactforwardactualfuryreal |  
+| bip_39_word_no_space_12 | naturemidnightensureticketafraidstemintactforwardactualfuryrealaccess |  
+| bip_39_word_no_space_2 | naturemidnight |  
+| bip_39_word_no_space_3 | naturemidnightensure |  
+| bip_39_word_no_space_4 | naturemidnightensureticket |  
+| bip_39_word_no_space_5 | naturemidnightensureticketafraid |  
+| bip_39_word_no_space_6 | naturemidnightensureticketafraidstem |  
+| bip_39_word_no_space_7 | naturemidnightensureticketafraidstemintact |  
+| bip_39_word_no_space_8 | naturemidnightensureticketafraidstemintactforward |  
+| bip_39_word_no_space_9 | naturemidnightensureticketafraidstemintactforwardactual |  
 | bip_39_word_space_0 | ['nature', 'midnight', 'ensure', 'ticket', 'afraid', 'stem', 'intact', 'forward', 'actual', 'fury', 'real', 'access'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature midnight ensure ticket afraid stem intact forward actual fury |  

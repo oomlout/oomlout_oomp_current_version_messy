@@ -122,6 +122,18 @@ near
 trade
 orphan
 into |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscurecitythrivevehiclecricketneartradeorphanintoafford |  
+| bip_39_word_no_space_11 | obscurecitythrivevehiclecricketneartradeorphanintoaffordfringe |  
+| bip_39_word_no_space_12 | obscurecitythrivevehiclecricketneartradeorphanintoaffordfringeaccount |  
+| bip_39_word_no_space_2 | obscurecity |  
+| bip_39_word_no_space_3 | obscurecitythrive |  
+| bip_39_word_no_space_4 | obscurecitythrivevehicle |  
+| bip_39_word_no_space_5 | obscurecitythrivevehiclecricket |  
+| bip_39_word_no_space_6 | obscurecitythrivevehiclecricketnear |  
+| bip_39_word_no_space_7 | obscurecitythrivevehiclecricketneartrade |  
+| bip_39_word_no_space_8 | obscurecitythrivevehiclecricketneartradeorphan |  
+| bip_39_word_no_space_9 | obscurecitythrivevehiclecricketneartradeorphaninto |  
 | bip_39_word_space_0 | ['obscure', 'city', 'thrive', 'vehicle', 'cricket', 'near', 'trade', 'orphan', 'into', 'afford', 'fringe', 'account'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure city thrive vehicle cricket near trade orphan into afford |  

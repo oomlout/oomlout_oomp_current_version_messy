@@ -122,6 +122,18 @@ miss
 modify
 detail
 across |  
+| bip_39_word_no_space_1 | slight |  
+| bip_39_word_no_space_10 | slighttypelavadripsignmissmodifydetailacrossbase |  
+| bip_39_word_no_space_11 | slighttypelavadripsignmissmodifydetailacrossbasecrush |  
+| bip_39_word_no_space_12 | slighttypelavadripsignmissmodifydetailacrossbasecrushargue |  
+| bip_39_word_no_space_2 | slighttype |  
+| bip_39_word_no_space_3 | slighttypelava |  
+| bip_39_word_no_space_4 | slighttypelavadrip |  
+| bip_39_word_no_space_5 | slighttypelavadripsign |  
+| bip_39_word_no_space_6 | slighttypelavadripsignmiss |  
+| bip_39_word_no_space_7 | slighttypelavadripsignmissmodify |  
+| bip_39_word_no_space_8 | slighttypelavadripsignmissmodifydetail |  
+| bip_39_word_no_space_9 | slighttypelavadripsignmissmodifydetailacross |  
 | bip_39_word_space_0 | ['slight', 'type', 'lava', 'drip', 'sign', 'miss', 'modify', 'detail', 'across', 'base', 'crush', 'argue'] |  
 | bip_39_word_space_1 | slight |  
 | bip_39_word_space_10 | slight type lava drip sign miss modify detail across base |  

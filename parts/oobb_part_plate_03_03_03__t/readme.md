@@ -122,6 +122,18 @@ you
 arctic
 junk
 snake |  
+| bip_39_word_no_space_1 | oak |  
+| bip_39_word_no_space_10 | oakpaddlepitchhungryvisayouarcticjunksnakegrit |  
+| bip_39_word_no_space_11 | oakpaddlepitchhungryvisayouarcticjunksnakegritfox |  
+| bip_39_word_no_space_12 | oakpaddlepitchhungryvisayouarcticjunksnakegritfoxattitude |  
+| bip_39_word_no_space_2 | oakpaddle |  
+| bip_39_word_no_space_3 | oakpaddlepitch |  
+| bip_39_word_no_space_4 | oakpaddlepitchhungry |  
+| bip_39_word_no_space_5 | oakpaddlepitchhungryvisa |  
+| bip_39_word_no_space_6 | oakpaddlepitchhungryvisayou |  
+| bip_39_word_no_space_7 | oakpaddlepitchhungryvisayouarctic |  
+| bip_39_word_no_space_8 | oakpaddlepitchhungryvisayouarcticjunk |  
+| bip_39_word_no_space_9 | oakpaddlepitchhungryvisayouarcticjunksnake |  
 | bip_39_word_space_0 | ['oak', 'paddle', 'pitch', 'hungry', 'visa', 'you', 'arctic', 'junk', 'snake', 'grit', 'fox', 'attitude'] |  
 | bip_39_word_space_1 | oak |  
 | bip_39_word_space_10 | oak paddle pitch hungry visa you arctic junk snake grit |  

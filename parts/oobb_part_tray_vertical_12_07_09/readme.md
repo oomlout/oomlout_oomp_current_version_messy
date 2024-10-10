@@ -122,6 +122,18 @@ december
 beach
 survey
 couch |  
+| bip_39_word_no_space_1 | deliver |  
+| bip_39_word_no_space_10 | deliverdrinkvisadraftfiberdecemberbeachsurveycouchmatrix |  
+| bip_39_word_no_space_11 | deliverdrinkvisadraftfiberdecemberbeachsurveycouchmatrixinform |  
+| bip_39_word_no_space_12 | deliverdrinkvisadraftfiberdecemberbeachsurveycouchmatrixinformavocado |  
+| bip_39_word_no_space_2 | deliverdrink |  
+| bip_39_word_no_space_3 | deliverdrinkvisa |  
+| bip_39_word_no_space_4 | deliverdrinkvisadraft |  
+| bip_39_word_no_space_5 | deliverdrinkvisadraftfiber |  
+| bip_39_word_no_space_6 | deliverdrinkvisadraftfiberdecember |  
+| bip_39_word_no_space_7 | deliverdrinkvisadraftfiberdecemberbeach |  
+| bip_39_word_no_space_8 | deliverdrinkvisadraftfiberdecemberbeachsurvey |  
+| bip_39_word_no_space_9 | deliverdrinkvisadraftfiberdecemberbeachsurveycouch |  
 | bip_39_word_space_0 | ['deliver', 'drink', 'visa', 'draft', 'fiber', 'december', 'beach', 'survey', 'couch', 'matrix', 'inform', 'avocado'] |  
 | bip_39_word_space_1 | deliver |  
 | bip_39_word_space_10 | deliver drink visa draft fiber december beach survey couch matrix |  

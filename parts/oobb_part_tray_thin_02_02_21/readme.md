@@ -122,6 +122,18 @@ reduce
 cube
 copy
 claw |  
+| bip_39_word_no_space_1 | novel |  
+| bip_39_word_no_space_10 | novelintactgainknowringreducecubecopyclawdistance |  
+| bip_39_word_no_space_11 | novelintactgainknowringreducecubecopyclawdistancemotion |  
+| bip_39_word_no_space_12 | novelintactgainknowringreducecubecopyclawdistancemotionafford |  
+| bip_39_word_no_space_2 | novelintact |  
+| bip_39_word_no_space_3 | novelintactgain |  
+| bip_39_word_no_space_4 | novelintactgainknow |  
+| bip_39_word_no_space_5 | novelintactgainknowring |  
+| bip_39_word_no_space_6 | novelintactgainknowringreduce |  
+| bip_39_word_no_space_7 | novelintactgainknowringreducecube |  
+| bip_39_word_no_space_8 | novelintactgainknowringreducecubecopy |  
+| bip_39_word_no_space_9 | novelintactgainknowringreducecubecopyclaw |  
 | bip_39_word_space_0 | ['novel', 'intact', 'gain', 'know', 'ring', 'reduce', 'cube', 'copy', 'claw', 'distance', 'motion', 'afford'] |  
 | bip_39_word_space_1 | novel |  
 | bip_39_word_space_10 | novel intact gain know ring reduce cube copy claw distance |  

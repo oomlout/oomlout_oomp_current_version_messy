@@ -122,6 +122,18 @@ dog
 ship
 fetch
 also |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomerelymemoryforcerebuilddogshipfetchalsoarena |  
+| bip_39_word_no_space_11 | welcomerelymemoryforcerebuilddogshipfetchalsoarenabar |  
+| bip_39_word_no_space_12 | welcomerelymemoryforcerebuilddogshipfetchalsoarenabaraccess |  
+| bip_39_word_no_space_2 | welcomerely |  
+| bip_39_word_no_space_3 | welcomerelymemory |  
+| bip_39_word_no_space_4 | welcomerelymemoryforce |  
+| bip_39_word_no_space_5 | welcomerelymemoryforcerebuild |  
+| bip_39_word_no_space_6 | welcomerelymemoryforcerebuilddog |  
+| bip_39_word_no_space_7 | welcomerelymemoryforcerebuilddogship |  
+| bip_39_word_no_space_8 | welcomerelymemoryforcerebuilddogshipfetch |  
+| bip_39_word_no_space_9 | welcomerelymemoryforcerebuilddogshipfetchalso |  
 | bip_39_word_space_0 | ['welcome', 'rely', 'memory', 'force', 'rebuild', 'dog', 'ship', 'fetch', 'also', 'arena', 'bar', 'access'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome rely memory force rebuild dog ship fetch also arena |  

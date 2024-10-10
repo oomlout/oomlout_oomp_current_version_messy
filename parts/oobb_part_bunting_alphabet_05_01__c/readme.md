@@ -122,6 +122,18 @@ acquire
 certain
 bottom
 squeeze |  
+| bip_39_word_no_space_1 | outer |  
+| bip_39_word_no_space_10 | outerspiderlearnfreshpracticeacquirecertainbottomsqueezesqueeze |  
+| bip_39_word_no_space_11 | outerspiderlearnfreshpracticeacquirecertainbottomsqueezesqueezebleak |  
+| bip_39_word_no_space_12 | outerspiderlearnfreshpracticeacquirecertainbottomsqueezesqueezebleakalone |  
+| bip_39_word_no_space_2 | outerspider |  
+| bip_39_word_no_space_3 | outerspiderlearn |  
+| bip_39_word_no_space_4 | outerspiderlearnfresh |  
+| bip_39_word_no_space_5 | outerspiderlearnfreshpractice |  
+| bip_39_word_no_space_6 | outerspiderlearnfreshpracticeacquire |  
+| bip_39_word_no_space_7 | outerspiderlearnfreshpracticeacquirecertain |  
+| bip_39_word_no_space_8 | outerspiderlearnfreshpracticeacquirecertainbottom |  
+| bip_39_word_no_space_9 | outerspiderlearnfreshpracticeacquirecertainbottomsqueeze |  
 | bip_39_word_space_0 | ['outer', 'spider', 'learn', 'fresh', 'practice', 'acquire', 'certain', 'bottom', 'squeeze', 'squeeze', 'bleak', 'alone'] |  
 | bip_39_word_space_1 | outer |  
 | bip_39_word_space_10 | outer spider learn fresh practice acquire certain bottom squeeze squeeze |  

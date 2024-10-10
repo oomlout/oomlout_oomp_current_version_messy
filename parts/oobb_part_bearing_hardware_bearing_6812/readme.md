@@ -122,6 +122,18 @@ tool
 pink
 humor
 leisure |  
+| bip_39_word_no_space_1 | stage |  
+| bip_39_word_no_space_10 | stagelocalgiggleclownanimaltoolpinkhumorleisurehappy |  
+| bip_39_word_no_space_11 | stagelocalgiggleclownanimaltoolpinkhumorleisurehappyclaw |  
+| bip_39_word_no_space_12 | stagelocalgiggleclownanimaltoolpinkhumorleisurehappyclawagent |  
+| bip_39_word_no_space_2 | stagelocal |  
+| bip_39_word_no_space_3 | stagelocalgiggle |  
+| bip_39_word_no_space_4 | stagelocalgiggleclown |  
+| bip_39_word_no_space_5 | stagelocalgiggleclownanimal |  
+| bip_39_word_no_space_6 | stagelocalgiggleclownanimaltool |  
+| bip_39_word_no_space_7 | stagelocalgiggleclownanimaltoolpink |  
+| bip_39_word_no_space_8 | stagelocalgiggleclownanimaltoolpinkhumor |  
+| bip_39_word_no_space_9 | stagelocalgiggleclownanimaltoolpinkhumorleisure |  
 | bip_39_word_space_0 | ['stage', 'local', 'giggle', 'clown', 'animal', 'tool', 'pink', 'humor', 'leisure', 'happy', 'claw', 'agent'] |  
 | bip_39_word_space_1 | stage |  
 | bip_39_word_space_10 | stage local giggle clown animal tool pink humor leisure happy |  

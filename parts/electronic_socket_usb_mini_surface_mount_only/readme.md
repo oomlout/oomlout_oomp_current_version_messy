@@ -122,6 +122,18 @@ frequent
 loud
 cattle
 shoe |  
+| bip_39_word_no_space_1 | school |  
+| bip_39_word_no_space_10 | schoolinchalcoholwetincomefrequentloudcattleshoeactual |  
+| bip_39_word_no_space_11 | schoolinchalcoholwetincomefrequentloudcattleshoeactualglass |  
+| bip_39_word_no_space_12 | schoolinchalcoholwetincomefrequentloudcattleshoeactualglassaddict |  
+| bip_39_word_no_space_2 | schoolinch |  
+| bip_39_word_no_space_3 | schoolinchalcohol |  
+| bip_39_word_no_space_4 | schoolinchalcoholwet |  
+| bip_39_word_no_space_5 | schoolinchalcoholwetincome |  
+| bip_39_word_no_space_6 | schoolinchalcoholwetincomefrequent |  
+| bip_39_word_no_space_7 | schoolinchalcoholwetincomefrequentloud |  
+| bip_39_word_no_space_8 | schoolinchalcoholwetincomefrequentloudcattle |  
+| bip_39_word_no_space_9 | schoolinchalcoholwetincomefrequentloudcattleshoe |  
 | bip_39_word_space_0 | ['school', 'inch', 'alcohol', 'wet', 'income', 'frequent', 'loud', 'cattle', 'shoe', 'actual', 'glass', 'addict'] |  
 | bip_39_word_space_1 | school |  
 | bip_39_word_space_10 | school inch alcohol wet income frequent loud cattle shoe actual |  

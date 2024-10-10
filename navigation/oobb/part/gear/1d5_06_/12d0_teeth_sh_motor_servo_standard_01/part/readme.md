@@ -122,6 +122,18 @@ exit
 ankle
 people
 material |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingblackpatchtaxitoiletexitanklepeoplematerialtrap |  
+| bip_39_word_no_space_11 | weddingblackpatchtaxitoiletexitanklepeoplematerialtrapinput |  
+| bip_39_word_no_space_12 | weddingblackpatchtaxitoiletexitanklepeoplematerialtrapinputactual |  
+| bip_39_word_no_space_2 | weddingblack |  
+| bip_39_word_no_space_3 | weddingblackpatch |  
+| bip_39_word_no_space_4 | weddingblackpatchtaxi |  
+| bip_39_word_no_space_5 | weddingblackpatchtaxitoilet |  
+| bip_39_word_no_space_6 | weddingblackpatchtaxitoiletexit |  
+| bip_39_word_no_space_7 | weddingblackpatchtaxitoiletexitankle |  
+| bip_39_word_no_space_8 | weddingblackpatchtaxitoiletexitanklepeople |  
+| bip_39_word_no_space_9 | weddingblackpatchtaxitoiletexitanklepeoplematerial |  
 | bip_39_word_space_0 | ['wedding', 'black', 'patch', 'taxi', 'toilet', 'exit', 'ankle', 'people', 'material', 'trap', 'input', 'actual'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding black patch taxi toilet exit ankle people material trap |  

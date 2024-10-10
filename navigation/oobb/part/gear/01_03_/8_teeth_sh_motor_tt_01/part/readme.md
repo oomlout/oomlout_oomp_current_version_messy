@@ -122,6 +122,18 @@ mistake
 umbrella
 long
 switch |  
+| bip_39_word_no_space_1 | entire |  
+| bip_39_word_no_space_10 | entiredizzybesterrorhornmistakeumbrellalongswitchjelly |  
+| bip_39_word_no_space_11 | entiredizzybesterrorhornmistakeumbrellalongswitchjellysmooth |  
+| bip_39_word_no_space_12 | entiredizzybesterrorhornmistakeumbrellalongswitchjellysmoothargue |  
+| bip_39_word_no_space_2 | entiredizzy |  
+| bip_39_word_no_space_3 | entiredizzybest |  
+| bip_39_word_no_space_4 | entiredizzybesterror |  
+| bip_39_word_no_space_5 | entiredizzybesterrorhorn |  
+| bip_39_word_no_space_6 | entiredizzybesterrorhornmistake |  
+| bip_39_word_no_space_7 | entiredizzybesterrorhornmistakeumbrella |  
+| bip_39_word_no_space_8 | entiredizzybesterrorhornmistakeumbrellalong |  
+| bip_39_word_no_space_9 | entiredizzybesterrorhornmistakeumbrellalongswitch |  
 | bip_39_word_space_0 | ['entire', 'dizzy', 'best', 'error', 'horn', 'mistake', 'umbrella', 'long', 'switch', 'jelly', 'smooth', 'argue'] |  
 | bip_39_word_space_1 | entire |  
 | bip_39_word_space_10 | entire dizzy best error horn mistake umbrella long switch jelly |  

@@ -122,6 +122,18 @@ blood
 virtual
 goat
 lake |  
+| bip_39_word_no_space_1 | start |  
+| bip_39_word_no_space_10 | startwifeeastassetsilkbloodvirtualgoatlakeproof |  
+| bip_39_word_no_space_11 | startwifeeastassetsilkbloodvirtualgoatlakeproofriot |  
+| bip_39_word_no_space_12 | startwifeeastassetsilkbloodvirtualgoatlakeproofriotannounce |  
+| bip_39_word_no_space_2 | startwife |  
+| bip_39_word_no_space_3 | startwifeeast |  
+| bip_39_word_no_space_4 | startwifeeastasset |  
+| bip_39_word_no_space_5 | startwifeeastassetsilk |  
+| bip_39_word_no_space_6 | startwifeeastassetsilkblood |  
+| bip_39_word_no_space_7 | startwifeeastassetsilkbloodvirtual |  
+| bip_39_word_no_space_8 | startwifeeastassetsilkbloodvirtualgoat |  
+| bip_39_word_no_space_9 | startwifeeastassetsilkbloodvirtualgoatlake |  
 | bip_39_word_space_0 | ['start', 'wife', 'east', 'asset', 'silk', 'blood', 'virtual', 'goat', 'lake', 'proof', 'riot', 'announce'] |  
 | bip_39_word_space_1 | start |  
 | bip_39_word_space_10 | start wife east asset silk blood virtual goat lake proof |  

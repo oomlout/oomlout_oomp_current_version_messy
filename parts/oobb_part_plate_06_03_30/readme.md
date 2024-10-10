@@ -122,6 +122,18 @@ solar
 volume
 whip
 glare |  
+| bip_39_word_no_space_1 | wealth |  
+| bip_39_word_no_space_10 | wealthmatrixrigidstickcanalsolarvolumewhipglareguide |  
+| bip_39_word_no_space_11 | wealthmatrixrigidstickcanalsolarvolumewhipglareguidechapter |  
+| bip_39_word_no_space_12 | wealthmatrixrigidstickcanalsolarvolumewhipglareguidechapterappear |  
+| bip_39_word_no_space_2 | wealthmatrix |  
+| bip_39_word_no_space_3 | wealthmatrixrigid |  
+| bip_39_word_no_space_4 | wealthmatrixrigidstick |  
+| bip_39_word_no_space_5 | wealthmatrixrigidstickcanal |  
+| bip_39_word_no_space_6 | wealthmatrixrigidstickcanalsolar |  
+| bip_39_word_no_space_7 | wealthmatrixrigidstickcanalsolarvolume |  
+| bip_39_word_no_space_8 | wealthmatrixrigidstickcanalsolarvolumewhip |  
+| bip_39_word_no_space_9 | wealthmatrixrigidstickcanalsolarvolumewhipglare |  
 | bip_39_word_space_0 | ['wealth', 'matrix', 'rigid', 'stick', 'canal', 'solar', 'volume', 'whip', 'glare', 'guide', 'chapter', 'appear'] |  
 | bip_39_word_space_1 | wealth |  
 | bip_39_word_space_10 | wealth matrix rigid stick canal solar volume whip glare guide |  

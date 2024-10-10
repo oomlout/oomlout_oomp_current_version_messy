@@ -122,6 +122,18 @@ link
 spell
 embrace
 eyebrow |  
+| bip_39_word_no_space_1 | impact |  
+| bip_39_word_no_space_10 | impactcinnamongunlunarslimlinkspellembraceeyebrowonion |  
+| bip_39_word_no_space_11 | impactcinnamongunlunarslimlinkspellembraceeyebrowoniondeliver |  
+| bip_39_word_no_space_12 | impactcinnamongunlunarslimlinkspellembraceeyebrowoniondeliverarrange |  
+| bip_39_word_no_space_2 | impactcinnamon |  
+| bip_39_word_no_space_3 | impactcinnamongun |  
+| bip_39_word_no_space_4 | impactcinnamongunlunar |  
+| bip_39_word_no_space_5 | impactcinnamongunlunarslim |  
+| bip_39_word_no_space_6 | impactcinnamongunlunarslimlink |  
+| bip_39_word_no_space_7 | impactcinnamongunlunarslimlinkspell |  
+| bip_39_word_no_space_8 | impactcinnamongunlunarslimlinkspellembrace |  
+| bip_39_word_no_space_9 | impactcinnamongunlunarslimlinkspellembraceeyebrow |  
 | bip_39_word_space_0 | ['impact', 'cinnamon', 'gun', 'lunar', 'slim', 'link', 'spell', 'embrace', 'eyebrow', 'onion', 'deliver', 'arrange'] |  
 | bip_39_word_space_1 | impact |  
 | bip_39_word_space_10 | impact cinnamon gun lunar slim link spell embrace eyebrow onion |  

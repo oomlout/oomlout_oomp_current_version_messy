@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'agent
   violin
 
   bag'
+bip_39_word_no_space_1: agent
+bip_39_word_no_space_10: agenttinydecoratebringsaladmosquitoshopviolinbagolive
+bip_39_word_no_space_11: agenttinydecoratebringsaladmosquitoshopviolinbagoliveway
+bip_39_word_no_space_12: agenttinydecoratebringsaladmosquitoshopviolinbagolivewayask
+bip_39_word_no_space_2: agenttiny
+bip_39_word_no_space_3: agenttinydecorate
+bip_39_word_no_space_4: agenttinydecoratebring
+bip_39_word_no_space_5: agenttinydecoratebringsalad
+bip_39_word_no_space_6: agenttinydecoratebringsaladmosquito
+bip_39_word_no_space_7: agenttinydecoratebringsaladmosquitoshop
+bip_39_word_no_space_8: agenttinydecoratebringsaladmosquitoshopviolin
+bip_39_word_no_space_9: agenttinydecoratebringsaladmosquitoshopviolinbag
 bip_39_word_space_0:
 - agent
 - tiny

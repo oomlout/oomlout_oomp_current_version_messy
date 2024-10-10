@@ -122,6 +122,18 @@ rookie
 goddess
 logic
 head |  
+| bip_39_word_no_space_1 | setup |  
+| bip_39_word_no_space_10 | setupsymbolreflectimposegaprookiegoddesslogicheadshed |  
+| bip_39_word_no_space_11 | setupsymbolreflectimposegaprookiegoddesslogicheadshednorth |  
+| bip_39_word_no_space_12 | setupsymbolreflectimposegaprookiegoddesslogicheadshednorthaspect |  
+| bip_39_word_no_space_2 | setupsymbol |  
+| bip_39_word_no_space_3 | setupsymbolreflect |  
+| bip_39_word_no_space_4 | setupsymbolreflectimpose |  
+| bip_39_word_no_space_5 | setupsymbolreflectimposegap |  
+| bip_39_word_no_space_6 | setupsymbolreflectimposegaprookie |  
+| bip_39_word_no_space_7 | setupsymbolreflectimposegaprookiegoddess |  
+| bip_39_word_no_space_8 | setupsymbolreflectimposegaprookiegoddesslogic |  
+| bip_39_word_no_space_9 | setupsymbolreflectimposegaprookiegoddesslogichead |  
 | bip_39_word_space_0 | ['setup', 'symbol', 'reflect', 'impose', 'gap', 'rookie', 'goddess', 'logic', 'head', 'shed', 'north', 'aspect'] |  
 | bip_39_word_space_1 | setup |  
 | bip_39_word_space_10 | setup symbol reflect impose gap rookie goddess logic head shed |  

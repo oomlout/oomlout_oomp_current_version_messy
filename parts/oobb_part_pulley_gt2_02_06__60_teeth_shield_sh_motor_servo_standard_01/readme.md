@@ -122,6 +122,18 @@ glad
 voyage
 mosquito
 diamond |  
+| bip_39_word_no_space_1 | dwarf |  
+| bip_39_word_no_space_10 | dwarfsaddletankpurityimagegladvoyagemosquitodiamondcrash |  
+| bip_39_word_no_space_11 | dwarfsaddletankpurityimagegladvoyagemosquitodiamondcrashpear |  
+| bip_39_word_no_space_12 | dwarfsaddletankpurityimagegladvoyagemosquitodiamondcrashpeararea |  
+| bip_39_word_no_space_2 | dwarfsaddle |  
+| bip_39_word_no_space_3 | dwarfsaddletank |  
+| bip_39_word_no_space_4 | dwarfsaddletankpurity |  
+| bip_39_word_no_space_5 | dwarfsaddletankpurityimage |  
+| bip_39_word_no_space_6 | dwarfsaddletankpurityimageglad |  
+| bip_39_word_no_space_7 | dwarfsaddletankpurityimagegladvoyage |  
+| bip_39_word_no_space_8 | dwarfsaddletankpurityimagegladvoyagemosquito |  
+| bip_39_word_no_space_9 | dwarfsaddletankpurityimagegladvoyagemosquitodiamond |  
 | bip_39_word_space_0 | ['dwarf', 'saddle', 'tank', 'purity', 'image', 'glad', 'voyage', 'mosquito', 'diamond', 'crash', 'pear', 'area'] |  
 | bip_39_word_space_1 | dwarf |  
 | bip_39_word_space_10 | dwarf saddle tank purity image glad voyage mosquito diamond crash |  

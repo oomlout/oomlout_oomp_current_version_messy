@@ -122,6 +122,18 @@ quit
 health
 unusual
 element |  
+| bip_39_word_no_space_1 | punch |  
+| bip_39_word_no_space_10 | punchbraincapabletagputquithealthunusualelementunique |  
+| bip_39_word_no_space_11 | punchbraincapabletagputquithealthunusualelementuniquedwarf |  
+| bip_39_word_no_space_12 | punchbraincapabletagputquithealthunusualelementuniquedwarfalone |  
+| bip_39_word_no_space_2 | punchbrain |  
+| bip_39_word_no_space_3 | punchbraincapable |  
+| bip_39_word_no_space_4 | punchbraincapabletag |  
+| bip_39_word_no_space_5 | punchbraincapabletagput |  
+| bip_39_word_no_space_6 | punchbraincapabletagputquit |  
+| bip_39_word_no_space_7 | punchbraincapabletagputquithealth |  
+| bip_39_word_no_space_8 | punchbraincapabletagputquithealthunusual |  
+| bip_39_word_no_space_9 | punchbraincapabletagputquithealthunusualelement |  
 | bip_39_word_space_0 | ['punch', 'brain', 'capable', 'tag', 'put', 'quit', 'health', 'unusual', 'element', 'unique', 'dwarf', 'alone'] |  
 | bip_39_word_space_1 | punch |  
 | bip_39_word_space_10 | punch brain capable tag put quit health unusual element unique |  

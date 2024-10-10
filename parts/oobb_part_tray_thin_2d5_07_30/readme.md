@@ -122,6 +122,18 @@ room
 tourist
 turtle
 beef |  
+| bip_39_word_no_space_1 | method |  
+| bip_39_word_no_space_10 | methodmirrorsuspectviolinsloganroomtouristturtlebeefslide |  
+| bip_39_word_no_space_11 | methodmirrorsuspectviolinsloganroomtouristturtlebeefslideadvice |  
+| bip_39_word_no_space_12 | methodmirrorsuspectviolinsloganroomtouristturtlebeefslideadviceaudit |  
+| bip_39_word_no_space_2 | methodmirror |  
+| bip_39_word_no_space_3 | methodmirrorsuspect |  
+| bip_39_word_no_space_4 | methodmirrorsuspectviolin |  
+| bip_39_word_no_space_5 | methodmirrorsuspectviolinslogan |  
+| bip_39_word_no_space_6 | methodmirrorsuspectviolinsloganroom |  
+| bip_39_word_no_space_7 | methodmirrorsuspectviolinsloganroomtourist |  
+| bip_39_word_no_space_8 | methodmirrorsuspectviolinsloganroomtouristturtle |  
+| bip_39_word_no_space_9 | methodmirrorsuspectviolinsloganroomtouristturtlebeef |  
 | bip_39_word_space_0 | ['method', 'mirror', 'suspect', 'violin', 'slogan', 'room', 'tourist', 'turtle', 'beef', 'slide', 'advice', 'audit'] |  
 | bip_39_word_space_1 | method |  
 | bip_39_word_space_10 | method mirror suspect violin slogan room tourist turtle beef slide |  

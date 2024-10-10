@@ -122,6 +122,18 @@ answer
 pottery
 worry
 violin |  
+| bip_39_word_no_space_1 | myth |  
+| bip_39_word_no_space_10 | mythpooldashswingchairanswerpotteryworryviolindespair |  
+| bip_39_word_no_space_11 | mythpooldashswingchairanswerpotteryworryviolindespairiron |  
+| bip_39_word_no_space_12 | mythpooldashswingchairanswerpotteryworryviolindespairironacross |  
+| bip_39_word_no_space_2 | mythpool |  
+| bip_39_word_no_space_3 | mythpooldash |  
+| bip_39_word_no_space_4 | mythpooldashswing |  
+| bip_39_word_no_space_5 | mythpooldashswingchair |  
+| bip_39_word_no_space_6 | mythpooldashswingchairanswer |  
+| bip_39_word_no_space_7 | mythpooldashswingchairanswerpottery |  
+| bip_39_word_no_space_8 | mythpooldashswingchairanswerpotteryworry |  
+| bip_39_word_no_space_9 | mythpooldashswingchairanswerpotteryworryviolin |  
 | bip_39_word_space_0 | ['myth', 'pool', 'dash', 'swing', 'chair', 'answer', 'pottery', 'worry', 'violin', 'despair', 'iron', 'across'] |  
 | bip_39_word_space_1 | myth |  
 | bip_39_word_space_10 | myth pool dash swing chair answer pottery worry violin despair |  

@@ -122,6 +122,18 @@ vote
 catch
 design
 hollow |  
+| bip_39_word_no_space_1 | boil |  
+| bip_39_word_no_space_10 | boildevelopdropmatchdismissvotecatchdesignhollowpunch |  
+| bip_39_word_no_space_11 | boildevelopdropmatchdismissvotecatchdesignhollowpunchtone |  
+| bip_39_word_no_space_12 | boildevelopdropmatchdismissvotecatchdesignhollowpunchtoneallow |  
+| bip_39_word_no_space_2 | boildevelop |  
+| bip_39_word_no_space_3 | boildevelopdrop |  
+| bip_39_word_no_space_4 | boildevelopdropmatch |  
+| bip_39_word_no_space_5 | boildevelopdropmatchdismiss |  
+| bip_39_word_no_space_6 | boildevelopdropmatchdismissvote |  
+| bip_39_word_no_space_7 | boildevelopdropmatchdismissvotecatch |  
+| bip_39_word_no_space_8 | boildevelopdropmatchdismissvotecatchdesign |  
+| bip_39_word_no_space_9 | boildevelopdropmatchdismissvotecatchdesignhollow |  
 | bip_39_word_space_0 | ['boil', 'develop', 'drop', 'match', 'dismiss', 'vote', 'catch', 'design', 'hollow', 'punch', 'tone', 'allow'] |  
 | bip_39_word_space_1 | boil |  
 | bip_39_word_space_10 | boil develop drop match dismiss vote catch design hollow punch |  

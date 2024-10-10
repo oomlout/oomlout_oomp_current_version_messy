@@ -122,6 +122,18 @@ notice
 library
 orange
 piano |  
+| bip_39_word_no_space_1 | panda |  
+| bip_39_word_no_space_10 | pandaskateclusterearthassumenoticelibraryorangepianobleak |  
+| bip_39_word_no_space_11 | pandaskateclusterearthassumenoticelibraryorangepianobleaksurvey |  
+| bip_39_word_no_space_12 | pandaskateclusterearthassumenoticelibraryorangepianobleaksurveyaerobic |  
+| bip_39_word_no_space_2 | pandaskate |  
+| bip_39_word_no_space_3 | pandaskatecluster |  
+| bip_39_word_no_space_4 | pandaskateclusterearth |  
+| bip_39_word_no_space_5 | pandaskateclusterearthassume |  
+| bip_39_word_no_space_6 | pandaskateclusterearthassumenotice |  
+| bip_39_word_no_space_7 | pandaskateclusterearthassumenoticelibrary |  
+| bip_39_word_no_space_8 | pandaskateclusterearthassumenoticelibraryorange |  
+| bip_39_word_no_space_9 | pandaskateclusterearthassumenoticelibraryorangepiano |  
 | bip_39_word_space_0 | ['panda', 'skate', 'cluster', 'earth', 'assume', 'notice', 'library', 'orange', 'piano', 'bleak', 'survey', 'aerobic'] |  
 | bip_39_word_space_1 | panda |  
 | bip_39_word_space_10 | panda skate cluster earth assume notice library orange piano bleak |  

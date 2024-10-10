@@ -122,6 +122,18 @@ laundry
 food
 glue
 print |  
+| bip_39_word_no_space_1 | write |  
+| bip_39_word_no_space_10 | writegossipnomineesecretskirtlaundryfoodglueprintlawsuit |  
+| bip_39_word_no_space_11 | writegossipnomineesecretskirtlaundryfoodglueprintlawsuitsurprise |  
+| bip_39_word_no_space_12 | writegossipnomineesecretskirtlaundryfoodglueprintlawsuitsurpriseage |  
+| bip_39_word_no_space_2 | writegossip |  
+| bip_39_word_no_space_3 | writegossipnominee |  
+| bip_39_word_no_space_4 | writegossipnomineesecret |  
+| bip_39_word_no_space_5 | writegossipnomineesecretskirt |  
+| bip_39_word_no_space_6 | writegossipnomineesecretskirtlaundry |  
+| bip_39_word_no_space_7 | writegossipnomineesecretskirtlaundryfood |  
+| bip_39_word_no_space_8 | writegossipnomineesecretskirtlaundryfoodglue |  
+| bip_39_word_no_space_9 | writegossipnomineesecretskirtlaundryfoodglueprint |  
 | bip_39_word_space_0 | ['write', 'gossip', 'nominee', 'secret', 'skirt', 'laundry', 'food', 'glue', 'print', 'lawsuit', 'surprise', 'age'] |  
 | bip_39_word_space_1 | write |  
 | bip_39_word_space_10 | write gossip nominee secret skirt laundry food glue print lawsuit |  

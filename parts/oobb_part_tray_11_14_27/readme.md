@@ -122,6 +122,18 @@ speak
 august
 october
 bench |  
+| bip_39_word_no_space_1 | arch |  
+| bip_39_word_no_space_10 | archweartheoryprimarybetweenspeakaugustoctoberbenchuniverse |  
+| bip_39_word_no_space_11 | archweartheoryprimarybetweenspeakaugustoctoberbenchuniverseletter |  
+| bip_39_word_no_space_12 | archweartheoryprimarybetweenspeakaugustoctoberbenchuniverseletteraisle |  
+| bip_39_word_no_space_2 | archwear |  
+| bip_39_word_no_space_3 | archweartheory |  
+| bip_39_word_no_space_4 | archweartheoryprimary |  
+| bip_39_word_no_space_5 | archweartheoryprimarybetween |  
+| bip_39_word_no_space_6 | archweartheoryprimarybetweenspeak |  
+| bip_39_word_no_space_7 | archweartheoryprimarybetweenspeakaugust |  
+| bip_39_word_no_space_8 | archweartheoryprimarybetweenspeakaugustoctober |  
+| bip_39_word_no_space_9 | archweartheoryprimarybetweenspeakaugustoctoberbench |  
 | bip_39_word_space_0 | ['arch', 'wear', 'theory', 'primary', 'between', 'speak', 'august', 'october', 'bench', 'universe', 'letter', 'aisle'] |  
 | bip_39_word_space_1 | arch |  
 | bip_39_word_space_10 | arch wear theory primary between speak august october bench universe |  

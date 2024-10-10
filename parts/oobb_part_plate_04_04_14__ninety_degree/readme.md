@@ -122,6 +122,18 @@ defy
 debate
 antique
 upon |  
+| bip_39_word_no_space_1 | tip |  
+| bip_39_word_no_space_10 | tipgoodtonguehistoryfiberdefydebateantiqueuponoften |  
+| bip_39_word_no_space_11 | tipgoodtonguehistoryfiberdefydebateantiqueuponoftencanoe |  
+| bip_39_word_no_space_12 | tipgoodtonguehistoryfiberdefydebateantiqueuponoftencanoeamong |  
+| bip_39_word_no_space_2 | tipgood |  
+| bip_39_word_no_space_3 | tipgoodtongue |  
+| bip_39_word_no_space_4 | tipgoodtonguehistory |  
+| bip_39_word_no_space_5 | tipgoodtonguehistoryfiber |  
+| bip_39_word_no_space_6 | tipgoodtonguehistoryfiberdefy |  
+| bip_39_word_no_space_7 | tipgoodtonguehistoryfiberdefydebate |  
+| bip_39_word_no_space_8 | tipgoodtonguehistoryfiberdefydebateantique |  
+| bip_39_word_no_space_9 | tipgoodtonguehistoryfiberdefydebateantiqueupon |  
 | bip_39_word_space_0 | ['tip', 'good', 'tongue', 'history', 'fiber', 'defy', 'debate', 'antique', 'upon', 'often', 'canoe', 'among'] |  
 | bip_39_word_space_1 | tip |  
 | bip_39_word_space_10 | tip good tongue history fiber defy debate antique upon often |  

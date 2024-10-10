@@ -122,6 +122,18 @@ effort
 basket
 guide
 adapt |  
+| bip_39_word_no_space_1 | ahead |  
+| bip_39_word_no_space_10 | aheadathleteexercisedinosaurbrighteffortbasketguideadaptdefense |  
+| bip_39_word_no_space_11 | aheadathleteexercisedinosaurbrighteffortbasketguideadaptdefenseendorse |  
+| bip_39_word_no_space_12 | aheadathleteexercisedinosaurbrighteffortbasketguideadaptdefenseendorsealcohol |  
+| bip_39_word_no_space_2 | aheadathlete |  
+| bip_39_word_no_space_3 | aheadathleteexercise |  
+| bip_39_word_no_space_4 | aheadathleteexercisedinosaur |  
+| bip_39_word_no_space_5 | aheadathleteexercisedinosaurbright |  
+| bip_39_word_no_space_6 | aheadathleteexercisedinosaurbrighteffort |  
+| bip_39_word_no_space_7 | aheadathleteexercisedinosaurbrighteffortbasket |  
+| bip_39_word_no_space_8 | aheadathleteexercisedinosaurbrighteffortbasketguide |  
+| bip_39_word_no_space_9 | aheadathleteexercisedinosaurbrighteffortbasketguideadapt |  
 | bip_39_word_space_0 | ['ahead', 'athlete', 'exercise', 'dinosaur', 'bright', 'effort', 'basket', 'guide', 'adapt', 'defense', 'endorse', 'alcohol'] |  
 | bip_39_word_space_1 | ahead |  
 | bip_39_word_space_10 | ahead athlete exercise dinosaur bright effort basket guide adapt defense |  

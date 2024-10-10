@@ -122,6 +122,18 @@ vital
 segment
 across
 siege |  
+| bip_39_word_no_space_1 | walk |  
+| bip_39_word_no_space_10 | walkgentlerawresourceneckvitalsegmentacrosssiegesenior |  
+| bip_39_word_no_space_11 | walkgentlerawresourceneckvitalsegmentacrosssiegeseniorissue |  
+| bip_39_word_no_space_12 | walkgentlerawresourceneckvitalsegmentacrosssiegeseniorissueabuse |  
+| bip_39_word_no_space_2 | walkgentle |  
+| bip_39_word_no_space_3 | walkgentleraw |  
+| bip_39_word_no_space_4 | walkgentlerawresource |  
+| bip_39_word_no_space_5 | walkgentlerawresourceneck |  
+| bip_39_word_no_space_6 | walkgentlerawresourceneckvital |  
+| bip_39_word_no_space_7 | walkgentlerawresourceneckvitalsegment |  
+| bip_39_word_no_space_8 | walkgentlerawresourceneckvitalsegmentacross |  
+| bip_39_word_no_space_9 | walkgentlerawresourceneckvitalsegmentacrosssiege |  
 | bip_39_word_space_0 | ['walk', 'gentle', 'raw', 'resource', 'neck', 'vital', 'segment', 'across', 'siege', 'senior', 'issue', 'abuse'] |  
 | bip_39_word_space_1 | walk |  
 | bip_39_word_space_10 | walk gentle raw resource neck vital segment across siege senior |  

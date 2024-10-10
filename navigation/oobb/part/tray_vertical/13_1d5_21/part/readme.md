@@ -122,6 +122,18 @@ execute
 enact
 vacuum
 drop |  
+| bip_39_word_no_space_1 | response |  
+| bip_39_word_no_space_10 | responseoutputalreadygravitynastyexecuteenactvacuumdropskirt |  
+| bip_39_word_no_space_11 | responseoutputalreadygravitynastyexecuteenactvacuumdropskirthorror |  
+| bip_39_word_no_space_12 | responseoutputalreadygravitynastyexecuteenactvacuumdropskirthorroraddress |  
+| bip_39_word_no_space_2 | responseoutput |  
+| bip_39_word_no_space_3 | responseoutputalready |  
+| bip_39_word_no_space_4 | responseoutputalreadygravity |  
+| bip_39_word_no_space_5 | responseoutputalreadygravitynasty |  
+| bip_39_word_no_space_6 | responseoutputalreadygravitynastyexecute |  
+| bip_39_word_no_space_7 | responseoutputalreadygravitynastyexecuteenact |  
+| bip_39_word_no_space_8 | responseoutputalreadygravitynastyexecuteenactvacuum |  
+| bip_39_word_no_space_9 | responseoutputalreadygravitynastyexecuteenactvacuumdrop |  
 | bip_39_word_space_0 | ['response', 'output', 'already', 'gravity', 'nasty', 'execute', 'enact', 'vacuum', 'drop', 'skirt', 'horror', 'address'] |  
 | bip_39_word_space_1 | response |  
 | bip_39_word_space_10 | response output already gravity nasty execute enact vacuum drop skirt |  

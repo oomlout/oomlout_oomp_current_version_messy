@@ -122,6 +122,18 @@ skate
 empty
 dinosaur
 joy |  
+| bip_39_word_no_space_1 | pill |  
+| bip_39_word_no_space_10 | pillcrackpracticeemergeequipskateemptydinosaurjoypride |  
+| bip_39_word_no_space_11 | pillcrackpracticeemergeequipskateemptydinosaurjoypriderare |  
+| bip_39_word_no_space_12 | pillcrackpracticeemergeequipskateemptydinosaurjoypriderareannual |  
+| bip_39_word_no_space_2 | pillcrack |  
+| bip_39_word_no_space_3 | pillcrackpractice |  
+| bip_39_word_no_space_4 | pillcrackpracticeemerge |  
+| bip_39_word_no_space_5 | pillcrackpracticeemergeequip |  
+| bip_39_word_no_space_6 | pillcrackpracticeemergeequipskate |  
+| bip_39_word_no_space_7 | pillcrackpracticeemergeequipskateempty |  
+| bip_39_word_no_space_8 | pillcrackpracticeemergeequipskateemptydinosaur |  
+| bip_39_word_no_space_9 | pillcrackpracticeemergeequipskateemptydinosaurjoy |  
 | bip_39_word_space_0 | ['pill', 'crack', 'practice', 'emerge', 'equip', 'skate', 'empty', 'dinosaur', 'joy', 'pride', 'rare', 'annual'] |  
 | bip_39_word_space_1 | pill |  
 | bip_39_word_space_10 | pill crack practice emerge equip skate empty dinosaur joy pride |  

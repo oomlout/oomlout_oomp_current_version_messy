@@ -122,6 +122,18 @@ ripple
 crew
 speak
 rule |  
+| bip_39_word_no_space_1 | chunk |  
+| bip_39_word_no_space_10 | chunktrophyrippleoysterjewelripplecrewspeakrulesubject |  
+| bip_39_word_no_space_11 | chunktrophyrippleoysterjewelripplecrewspeakrulesubjectregret |  
+| bip_39_word_no_space_12 | chunktrophyrippleoysterjewelripplecrewspeakrulesubjectregretask |  
+| bip_39_word_no_space_2 | chunktrophy |  
+| bip_39_word_no_space_3 | chunktrophyripple |  
+| bip_39_word_no_space_4 | chunktrophyrippleoyster |  
+| bip_39_word_no_space_5 | chunktrophyrippleoysterjewel |  
+| bip_39_word_no_space_6 | chunktrophyrippleoysterjewelripple |  
+| bip_39_word_no_space_7 | chunktrophyrippleoysterjewelripplecrew |  
+| bip_39_word_no_space_8 | chunktrophyrippleoysterjewelripplecrewspeak |  
+| bip_39_word_no_space_9 | chunktrophyrippleoysterjewelripplecrewspeakrule |  
 | bip_39_word_space_0 | ['chunk', 'trophy', 'ripple', 'oyster', 'jewel', 'ripple', 'crew', 'speak', 'rule', 'subject', 'regret', 'ask'] |  
 | bip_39_word_space_1 | chunk |  
 | bip_39_word_space_10 | chunk trophy ripple oyster jewel ripple crew speak rule subject |  

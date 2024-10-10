@@ -122,6 +122,18 @@ minor
 demise
 grab
 dune |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raiseswiftmilkfetchspatialminordemisegrabdunehistory |  
+| bip_39_word_no_space_11 | raiseswiftmilkfetchspatialminordemisegrabdunehistoryball |  
+| bip_39_word_no_space_12 | raiseswiftmilkfetchspatialminordemisegrabdunehistoryballarmy |  
+| bip_39_word_no_space_2 | raiseswift |  
+| bip_39_word_no_space_3 | raiseswiftmilk |  
+| bip_39_word_no_space_4 | raiseswiftmilkfetch |  
+| bip_39_word_no_space_5 | raiseswiftmilkfetchspatial |  
+| bip_39_word_no_space_6 | raiseswiftmilkfetchspatialminor |  
+| bip_39_word_no_space_7 | raiseswiftmilkfetchspatialminordemise |  
+| bip_39_word_no_space_8 | raiseswiftmilkfetchspatialminordemisegrab |  
+| bip_39_word_no_space_9 | raiseswiftmilkfetchspatialminordemisegrabdune |  
 | bip_39_word_space_0 | ['raise', 'swift', 'milk', 'fetch', 'spatial', 'minor', 'demise', 'grab', 'dune', 'history', 'ball', 'army'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise swift milk fetch spatial minor demise grab dune history |  

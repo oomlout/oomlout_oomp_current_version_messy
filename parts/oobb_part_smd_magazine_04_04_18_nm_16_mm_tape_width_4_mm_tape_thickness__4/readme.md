@@ -122,6 +122,18 @@ gather
 dirt
 dolphin
 match |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | coderoutelakedealprovidegatherdirtdolphinmatchwink |  
+| bip_39_word_no_space_11 | coderoutelakedealprovidegatherdirtdolphinmatchwinkangry |  
+| bip_39_word_no_space_12 | coderoutelakedealprovidegatherdirtdolphinmatchwinkangryabsorb |  
+| bip_39_word_no_space_2 | coderoute |  
+| bip_39_word_no_space_3 | coderoutelake |  
+| bip_39_word_no_space_4 | coderoutelakedeal |  
+| bip_39_word_no_space_5 | coderoutelakedealprovide |  
+| bip_39_word_no_space_6 | coderoutelakedealprovidegather |  
+| bip_39_word_no_space_7 | coderoutelakedealprovidegatherdirt |  
+| bip_39_word_no_space_8 | coderoutelakedealprovidegatherdirtdolphin |  
+| bip_39_word_no_space_9 | coderoutelakedealprovidegatherdirtdolphinmatch |  
 | bip_39_word_space_0 | ['code', 'route', 'lake', 'deal', 'provide', 'gather', 'dirt', 'dolphin', 'match', 'wink', 'angry', 'absorb'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code route lake deal provide gather dirt dolphin match wink |  

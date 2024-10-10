@@ -122,6 +122,18 @@ outdoor
 used
 wing
 such |  
+| bip_39_word_no_space_1 | present |  
+| bip_39_word_no_space_10 | presentseminarclaimversionkitoutdoorusedwingsuchmirror |  
+| bip_39_word_no_space_11 | presentseminarclaimversionkitoutdoorusedwingsuchmirrordeposit |  
+| bip_39_word_no_space_12 | presentseminarclaimversionkitoutdoorusedwingsuchmirrordepositangle |  
+| bip_39_word_no_space_2 | presentseminar |  
+| bip_39_word_no_space_3 | presentseminarclaim |  
+| bip_39_word_no_space_4 | presentseminarclaimversion |  
+| bip_39_word_no_space_5 | presentseminarclaimversionkit |  
+| bip_39_word_no_space_6 | presentseminarclaimversionkitoutdoor |  
+| bip_39_word_no_space_7 | presentseminarclaimversionkitoutdoorused |  
+| bip_39_word_no_space_8 | presentseminarclaimversionkitoutdoorusedwing |  
+| bip_39_word_no_space_9 | presentseminarclaimversionkitoutdoorusedwingsuch |  
 | bip_39_word_space_0 | ['present', 'seminar', 'claim', 'version', 'kit', 'outdoor', 'used', 'wing', 'such', 'mirror', 'deposit', 'angle'] |  
 | bip_39_word_space_1 | present |  
 | bip_39_word_space_10 | present seminar claim version kit outdoor used wing such mirror |  

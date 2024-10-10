@@ -122,6 +122,18 @@ captain
 humble
 lounge
 access |  
+| bip_39_word_no_space_1 | uphold |  
+| bip_39_word_no_space_10 | upholdindustryimitatemovietwentycaptainhumbleloungeaccessmarket |  
+| bip_39_word_no_space_11 | upholdindustryimitatemovietwentycaptainhumbleloungeaccessmarkethundred |  
+| bip_39_word_no_space_12 | upholdindustryimitatemovietwentycaptainhumbleloungeaccessmarkethundredaction |  
+| bip_39_word_no_space_2 | upholdindustry |  
+| bip_39_word_no_space_3 | upholdindustryimitate |  
+| bip_39_word_no_space_4 | upholdindustryimitatemovie |  
+| bip_39_word_no_space_5 | upholdindustryimitatemovietwenty |  
+| bip_39_word_no_space_6 | upholdindustryimitatemovietwentycaptain |  
+| bip_39_word_no_space_7 | upholdindustryimitatemovietwentycaptainhumble |  
+| bip_39_word_no_space_8 | upholdindustryimitatemovietwentycaptainhumblelounge |  
+| bip_39_word_no_space_9 | upholdindustryimitatemovietwentycaptainhumbleloungeaccess |  
 | bip_39_word_space_0 | ['uphold', 'industry', 'imitate', 'movie', 'twenty', 'captain', 'humble', 'lounge', 'access', 'market', 'hundred', 'action'] |  
 | bip_39_word_space_1 | uphold |  
 | bip_39_word_space_10 | uphold industry imitate movie twenty captain humble lounge access market |  

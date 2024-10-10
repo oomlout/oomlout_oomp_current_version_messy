@@ -122,6 +122,18 @@ weekend
 biology
 gap
 donor |  
+| bip_39_word_no_space_1 | pull |  
+| bip_39_word_no_space_10 | pullknifecrueljuniordeliverweekendbiologygapdonoraccess |  
+| bip_39_word_no_space_11 | pullknifecrueljuniordeliverweekendbiologygapdonoraccessprotect |  
+| bip_39_word_no_space_12 | pullknifecrueljuniordeliverweekendbiologygapdonoraccessprotectarrive |  
+| bip_39_word_no_space_2 | pullknife |  
+| bip_39_word_no_space_3 | pullknifecruel |  
+| bip_39_word_no_space_4 | pullknifecrueljunior |  
+| bip_39_word_no_space_5 | pullknifecrueljuniordeliver |  
+| bip_39_word_no_space_6 | pullknifecrueljuniordeliverweekend |  
+| bip_39_word_no_space_7 | pullknifecrueljuniordeliverweekendbiology |  
+| bip_39_word_no_space_8 | pullknifecrueljuniordeliverweekendbiologygap |  
+| bip_39_word_no_space_9 | pullknifecrueljuniordeliverweekendbiologygapdonor |  
 | bip_39_word_space_0 | ['pull', 'knife', 'cruel', 'junior', 'deliver', 'weekend', 'biology', 'gap', 'donor', 'access', 'protect', 'arrive'] |  
 | bip_39_word_space_1 | pull |  
 | bip_39_word_space_10 | pull knife cruel junior deliver weekend biology gap donor access |  

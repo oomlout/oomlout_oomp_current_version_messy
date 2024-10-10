@@ -122,6 +122,18 @@ pudding
 coil
 interest
 defy |  
+| bip_39_word_no_space_1 | vivid |  
+| bip_39_word_no_space_10 | vividcushionfuturewashcargopuddingcoilinterestdefymatch |  
+| bip_39_word_no_space_11 | vividcushionfuturewashcargopuddingcoilinterestdefymatchsocial |  
+| bip_39_word_no_space_12 | vividcushionfuturewashcargopuddingcoilinterestdefymatchsocialattend |  
+| bip_39_word_no_space_2 | vividcushion |  
+| bip_39_word_no_space_3 | vividcushionfuture |  
+| bip_39_word_no_space_4 | vividcushionfuturewash |  
+| bip_39_word_no_space_5 | vividcushionfuturewashcargo |  
+| bip_39_word_no_space_6 | vividcushionfuturewashcargopudding |  
+| bip_39_word_no_space_7 | vividcushionfuturewashcargopuddingcoil |  
+| bip_39_word_no_space_8 | vividcushionfuturewashcargopuddingcoilinterest |  
+| bip_39_word_no_space_9 | vividcushionfuturewashcargopuddingcoilinterestdefy |  
 | bip_39_word_space_0 | ['vivid', 'cushion', 'future', 'wash', 'cargo', 'pudding', 'coil', 'interest', 'defy', 'match', 'social', 'attend'] |  
 | bip_39_word_space_1 | vivid |  
 | bip_39_word_space_10 | vivid cushion future wash cargo pudding coil interest defy match |  

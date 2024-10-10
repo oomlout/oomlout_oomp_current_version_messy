@@ -122,6 +122,18 @@ safe
 misery
 company
 fade |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasonfancysettlegigglejuniorsafemiserycompanyfadespider |  
+| bip_39_word_no_space_11 | seasonfancysettlegigglejuniorsafemiserycompanyfadespiderbridge |  
+| bip_39_word_no_space_12 | seasonfancysettlegigglejuniorsafemiserycompanyfadespiderbridgeabsurd |  
+| bip_39_word_no_space_2 | seasonfancy |  
+| bip_39_word_no_space_3 | seasonfancysettle |  
+| bip_39_word_no_space_4 | seasonfancysettlegiggle |  
+| bip_39_word_no_space_5 | seasonfancysettlegigglejunior |  
+| bip_39_word_no_space_6 | seasonfancysettlegigglejuniorsafe |  
+| bip_39_word_no_space_7 | seasonfancysettlegigglejuniorsafemisery |  
+| bip_39_word_no_space_8 | seasonfancysettlegigglejuniorsafemiserycompany |  
+| bip_39_word_no_space_9 | seasonfancysettlegigglejuniorsafemiserycompanyfade |  
 | bip_39_word_space_0 | ['season', 'fancy', 'settle', 'giggle', 'junior', 'safe', 'misery', 'company', 'fade', 'spider', 'bridge', 'absurd'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season fancy settle giggle junior safe misery company fade spider |  

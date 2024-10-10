@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blame
   cute
 
   verb'
+bip_39_word_no_space_1: blame
+bip_39_word_no_space_10: blamenovelspacedinnerawakeaccesshedgehogcuteverbdizzy
+bip_39_word_no_space_11: blamenovelspacedinnerawakeaccesshedgehogcuteverbdizzyassume
+bip_39_word_no_space_12: blamenovelspacedinnerawakeaccesshedgehogcuteverbdizzyassumeacross
+bip_39_word_no_space_2: blamenovel
+bip_39_word_no_space_3: blamenovelspace
+bip_39_word_no_space_4: blamenovelspacedinner
+bip_39_word_no_space_5: blamenovelspacedinnerawake
+bip_39_word_no_space_6: blamenovelspacedinnerawakeaccess
+bip_39_word_no_space_7: blamenovelspacedinnerawakeaccesshedgehog
+bip_39_word_no_space_8: blamenovelspacedinnerawakeaccesshedgehogcute
+bip_39_word_no_space_9: blamenovelspacedinnerawakeaccesshedgehogcuteverb
 bip_39_word_space_0:
 - blame
 - novel

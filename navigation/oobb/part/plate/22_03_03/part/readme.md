@@ -122,6 +122,18 @@ near
 inquiry
 grain
 join |  
+| bip_39_word_no_space_1 | guess |  
+| bip_39_word_no_space_10 | guesscrewtowndenysuspectnearinquirygrainjoinfront |  
+| bip_39_word_no_space_11 | guesscrewtowndenysuspectnearinquirygrainjoinfrontimage |  
+| bip_39_word_no_space_12 | guesscrewtowndenysuspectnearinquirygrainjoinfrontimageaffair |  
+| bip_39_word_no_space_2 | guesscrew |  
+| bip_39_word_no_space_3 | guesscrewtown |  
+| bip_39_word_no_space_4 | guesscrewtowndeny |  
+| bip_39_word_no_space_5 | guesscrewtowndenysuspect |  
+| bip_39_word_no_space_6 | guesscrewtowndenysuspectnear |  
+| bip_39_word_no_space_7 | guesscrewtowndenysuspectnearinquiry |  
+| bip_39_word_no_space_8 | guesscrewtowndenysuspectnearinquirygrain |  
+| bip_39_word_no_space_9 | guesscrewtowndenysuspectnearinquirygrainjoin |  
 | bip_39_word_space_0 | ['guess', 'crew', 'town', 'deny', 'suspect', 'near', 'inquiry', 'grain', 'join', 'front', 'image', 'affair'] |  
 | bip_39_word_space_1 | guess |  
 | bip_39_word_space_10 | guess crew town deny suspect near inquiry grain join front |  

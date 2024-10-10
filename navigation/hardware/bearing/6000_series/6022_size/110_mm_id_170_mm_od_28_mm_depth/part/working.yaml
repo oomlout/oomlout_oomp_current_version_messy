@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hope
   cereal
 
   cabin'
+bip_39_word_no_space_1: hope
+bip_39_word_no_space_10: hopeendlessdetectcarbonpushspraynestcerealcabinboost
+bip_39_word_no_space_11: hopeendlessdetectcarbonpushspraynestcerealcabinboostridge
+bip_39_word_no_space_12: hopeendlessdetectcarbonpushspraynestcerealcabinboostridgearea
+bip_39_word_no_space_2: hopeendless
+bip_39_word_no_space_3: hopeendlessdetect
+bip_39_word_no_space_4: hopeendlessdetectcarbon
+bip_39_word_no_space_5: hopeendlessdetectcarbonpush
+bip_39_word_no_space_6: hopeendlessdetectcarbonpushspray
+bip_39_word_no_space_7: hopeendlessdetectcarbonpushspraynest
+bip_39_word_no_space_8: hopeendlessdetectcarbonpushspraynestcereal
+bip_39_word_no_space_9: hopeendlessdetectcarbonpushspraynestcerealcabin
 bip_39_word_space_0:
 - hope
 - endless

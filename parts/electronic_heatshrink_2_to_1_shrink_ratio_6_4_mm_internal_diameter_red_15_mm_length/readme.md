@@ -122,6 +122,18 @@ medal
 bamboo
 carbon
 assault |  
+| bip_39_word_no_space_1 | credit |  
+| bip_39_word_no_space_10 | credithusbandnutpolarwallmedalbamboocarbonassaultsurvey |  
+| bip_39_word_no_space_11 | credithusbandnutpolarwallmedalbamboocarbonassaultsurveygoose |  
+| bip_39_word_no_space_12 | credithusbandnutpolarwallmedalbamboocarbonassaultsurveygooseattack |  
+| bip_39_word_no_space_2 | credithusband |  
+| bip_39_word_no_space_3 | credithusbandnut |  
+| bip_39_word_no_space_4 | credithusbandnutpolar |  
+| bip_39_word_no_space_5 | credithusbandnutpolarwall |  
+| bip_39_word_no_space_6 | credithusbandnutpolarwallmedal |  
+| bip_39_word_no_space_7 | credithusbandnutpolarwallmedalbamboo |  
+| bip_39_word_no_space_8 | credithusbandnutpolarwallmedalbamboocarbon |  
+| bip_39_word_no_space_9 | credithusbandnutpolarwallmedalbamboocarbonassault |  
 | bip_39_word_space_0 | ['credit', 'husband', 'nut', 'polar', 'wall', 'medal', 'bamboo', 'carbon', 'assault', 'survey', 'goose', 'attack'] |  
 | bip_39_word_space_1 | credit |  
 | bip_39_word_space_10 | credit husband nut polar wall medal bamboo carbon assault survey |  

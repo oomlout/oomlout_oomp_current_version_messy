@@ -122,6 +122,18 @@ author
 van
 mean
 start |  
+| bip_39_word_no_space_1 | anchor |  
+| bip_39_word_no_space_10 | anchorgloomenvelopewingdamageauthorvanmeanstartauto |  
+| bip_39_word_no_space_11 | anchorgloomenvelopewingdamageauthorvanmeanstartautothunder |  
+| bip_39_word_no_space_12 | anchorgloomenvelopewingdamageauthorvanmeanstartautothunderaudit |  
+| bip_39_word_no_space_2 | anchorgloom |  
+| bip_39_word_no_space_3 | anchorgloomenvelope |  
+| bip_39_word_no_space_4 | anchorgloomenvelopewing |  
+| bip_39_word_no_space_5 | anchorgloomenvelopewingdamage |  
+| bip_39_word_no_space_6 | anchorgloomenvelopewingdamageauthor |  
+| bip_39_word_no_space_7 | anchorgloomenvelopewingdamageauthorvan |  
+| bip_39_word_no_space_8 | anchorgloomenvelopewingdamageauthorvanmean |  
+| bip_39_word_no_space_9 | anchorgloomenvelopewingdamageauthorvanmeanstart |  
 | bip_39_word_space_0 | ['anchor', 'gloom', 'envelope', 'wing', 'damage', 'author', 'van', 'mean', 'start', 'auto', 'thunder', 'audit'] |  
 | bip_39_word_space_1 | anchor |  
 | bip_39_word_space_10 | anchor gloom envelope wing damage author van mean start auto |  

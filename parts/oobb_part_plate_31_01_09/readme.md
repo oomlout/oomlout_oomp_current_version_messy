@@ -122,6 +122,18 @@ sound
 million
 purchase
 add |  
+| bip_39_word_no_space_1 | garden |  
+| bip_39_word_no_space_10 | gardenindexchasedumbbelowsoundmillionpurchaseaddmenu |  
+| bip_39_word_no_space_11 | gardenindexchasedumbbelowsoundmillionpurchaseaddmenucushion |  
+| bip_39_word_no_space_12 | gardenindexchasedumbbelowsoundmillionpurchaseaddmenucushionapart |  
+| bip_39_word_no_space_2 | gardenindex |  
+| bip_39_word_no_space_3 | gardenindexchase |  
+| bip_39_word_no_space_4 | gardenindexchasedumb |  
+| bip_39_word_no_space_5 | gardenindexchasedumbbelow |  
+| bip_39_word_no_space_6 | gardenindexchasedumbbelowsound |  
+| bip_39_word_no_space_7 | gardenindexchasedumbbelowsoundmillion |  
+| bip_39_word_no_space_8 | gardenindexchasedumbbelowsoundmillionpurchase |  
+| bip_39_word_no_space_9 | gardenindexchasedumbbelowsoundmillionpurchaseadd |  
 | bip_39_word_space_0 | ['garden', 'index', 'chase', 'dumb', 'below', 'sound', 'million', 'purchase', 'add', 'menu', 'cushion', 'apart'] |  
 | bip_39_word_space_1 | garden |  
 | bip_39_word_space_10 | garden index chase dumb below sound million purchase add menu |  

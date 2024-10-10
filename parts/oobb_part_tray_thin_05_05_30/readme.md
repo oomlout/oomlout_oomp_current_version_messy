@@ -122,6 +122,18 @@ memory
 valid
 give
 couple |  
+| bip_39_word_no_space_1 | relief |  
+| bip_39_word_no_space_10 | reliefantiquesciencegroupreadymemoryvalidgivecouplecliff |  
+| bip_39_word_no_space_11 | reliefantiquesciencegroupreadymemoryvalidgivecouplecliffrebuild |  
+| bip_39_word_no_space_12 | reliefantiquesciencegroupreadymemoryvalidgivecouplecliffrebuildage |  
+| bip_39_word_no_space_2 | reliefantique |  
+| bip_39_word_no_space_3 | reliefantiquescience |  
+| bip_39_word_no_space_4 | reliefantiquesciencegroup |  
+| bip_39_word_no_space_5 | reliefantiquesciencegroupready |  
+| bip_39_word_no_space_6 | reliefantiquesciencegroupreadymemory |  
+| bip_39_word_no_space_7 | reliefantiquesciencegroupreadymemoryvalid |  
+| bip_39_word_no_space_8 | reliefantiquesciencegroupreadymemoryvalidgive |  
+| bip_39_word_no_space_9 | reliefantiquesciencegroupreadymemoryvalidgivecouple |  
 | bip_39_word_space_0 | ['relief', 'antique', 'science', 'group', 'ready', 'memory', 'valid', 'give', 'couple', 'cliff', 'rebuild', 'age'] |  
 | bip_39_word_space_1 | relief |  
 | bip_39_word_space_10 | relief antique science group ready memory valid give couple cliff |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'echo
   hockey
 
   project'
+bip_39_word_no_space_1: echo
+bip_39_word_no_space_10: echodragonchaoswomannapkininhaleparkhockeyprojectcorrect
+bip_39_word_no_space_11: echodragonchaoswomannapkininhaleparkhockeyprojectcorrectissue
+bip_39_word_no_space_12: echodragonchaoswomannapkininhaleparkhockeyprojectcorrectissueacquire
+bip_39_word_no_space_2: echodragon
+bip_39_word_no_space_3: echodragonchaos
+bip_39_word_no_space_4: echodragonchaoswoman
+bip_39_word_no_space_5: echodragonchaoswomannapkin
+bip_39_word_no_space_6: echodragonchaoswomannapkininhale
+bip_39_word_no_space_7: echodragonchaoswomannapkininhalepark
+bip_39_word_no_space_8: echodragonchaoswomannapkininhaleparkhockey
+bip_39_word_no_space_9: echodragonchaoswomannapkininhaleparkhockeyproject
 bip_39_word_space_0:
 - echo
 - dragon

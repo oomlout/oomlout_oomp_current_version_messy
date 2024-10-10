@@ -122,6 +122,18 @@ virus
 organ
 say
 cliff |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendspeakloadechorotatevirusorgansaycliffcup |  
+| bip_39_word_no_space_11 | legendspeakloadechorotatevirusorgansaycliffcupedge |  
+| bip_39_word_no_space_12 | legendspeakloadechorotatevirusorgansaycliffcupedgeabsurd |  
+| bip_39_word_no_space_2 | legendspeak |  
+| bip_39_word_no_space_3 | legendspeakload |  
+| bip_39_word_no_space_4 | legendspeakloadecho |  
+| bip_39_word_no_space_5 | legendspeakloadechorotate |  
+| bip_39_word_no_space_6 | legendspeakloadechorotatevirus |  
+| bip_39_word_no_space_7 | legendspeakloadechorotatevirusorgan |  
+| bip_39_word_no_space_8 | legendspeakloadechorotatevirusorgansay |  
+| bip_39_word_no_space_9 | legendspeakloadechorotatevirusorgansaycliff |  
 | bip_39_word_space_0 | ['legend', 'speak', 'load', 'echo', 'rotate', 'virus', 'organ', 'say', 'cliff', 'cup', 'edge', 'absurd'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend speak load echo rotate virus organ say cliff cup |  

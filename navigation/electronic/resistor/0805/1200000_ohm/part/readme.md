@@ -122,6 +122,18 @@ crystal
 sense
 copy
 slam |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentbehindfeaturetokendocumentcrystalsensecopyslamlizard |  
+| bip_39_word_no_space_11 | accidentbehindfeaturetokendocumentcrystalsensecopyslamlizardharvest |  
+| bip_39_word_no_space_12 | accidentbehindfeaturetokendocumentcrystalsensecopyslamlizardharvestalert |  
+| bip_39_word_no_space_2 | accidentbehind |  
+| bip_39_word_no_space_3 | accidentbehindfeature |  
+| bip_39_word_no_space_4 | accidentbehindfeaturetoken |  
+| bip_39_word_no_space_5 | accidentbehindfeaturetokendocument |  
+| bip_39_word_no_space_6 | accidentbehindfeaturetokendocumentcrystal |  
+| bip_39_word_no_space_7 | accidentbehindfeaturetokendocumentcrystalsense |  
+| bip_39_word_no_space_8 | accidentbehindfeaturetokendocumentcrystalsensecopy |  
+| bip_39_word_no_space_9 | accidentbehindfeaturetokendocumentcrystalsensecopyslam |  
 | bip_39_word_space_0 | ['accident', 'behind', 'feature', 'token', 'document', 'crystal', 'sense', 'copy', 'slam', 'lizard', 'harvest', 'alert'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident behind feature token document crystal sense copy slam lizard |  

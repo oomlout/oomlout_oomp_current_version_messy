@@ -122,6 +122,18 @@ poet
 belt
 lock
 wage |  
+| bip_39_word_no_space_1 | bubble |  
+| bip_39_word_no_space_10 | bubblecenturyurgepetshortpoetbeltlockwagebulk |  
+| bip_39_word_no_space_11 | bubblecenturyurgepetshortpoetbeltlockwagebulkidentify |  
+| bip_39_word_no_space_12 | bubblecenturyurgepetshortpoetbeltlockwagebulkidentifyasset |  
+| bip_39_word_no_space_2 | bubblecentury |  
+| bip_39_word_no_space_3 | bubblecenturyurge |  
+| bip_39_word_no_space_4 | bubblecenturyurgepet |  
+| bip_39_word_no_space_5 | bubblecenturyurgepetshort |  
+| bip_39_word_no_space_6 | bubblecenturyurgepetshortpoet |  
+| bip_39_word_no_space_7 | bubblecenturyurgepetshortpoetbelt |  
+| bip_39_word_no_space_8 | bubblecenturyurgepetshortpoetbeltlock |  
+| bip_39_word_no_space_9 | bubblecenturyurgepetshortpoetbeltlockwage |  
 | bip_39_word_space_0 | ['bubble', 'century', 'urge', 'pet', 'short', 'poet', 'belt', 'lock', 'wage', 'bulk', 'identify', 'asset'] |  
 | bip_39_word_space_1 | bubble |  
 | bip_39_word_space_10 | bubble century urge pet short poet belt lock wage bulk |  

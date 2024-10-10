@@ -122,6 +122,18 @@ note
 gorilla
 gospel
 scout |  
+| bip_39_word_no_space_1 | advice |  
+| bip_39_word_no_space_10 | advicefeverupholdtargetgigglenotegorillagospelscoutteach |  
+| bip_39_word_no_space_11 | advicefeverupholdtargetgigglenotegorillagospelscoutteachdenial |  
+| bip_39_word_no_space_12 | advicefeverupholdtargetgigglenotegorillagospelscoutteachdenialalso |  
+| bip_39_word_no_space_2 | advicefever |  
+| bip_39_word_no_space_3 | advicefeveruphold |  
+| bip_39_word_no_space_4 | advicefeverupholdtarget |  
+| bip_39_word_no_space_5 | advicefeverupholdtargetgiggle |  
+| bip_39_word_no_space_6 | advicefeverupholdtargetgigglenote |  
+| bip_39_word_no_space_7 | advicefeverupholdtargetgigglenotegorilla |  
+| bip_39_word_no_space_8 | advicefeverupholdtargetgigglenotegorillagospel |  
+| bip_39_word_no_space_9 | advicefeverupholdtargetgigglenotegorillagospelscout |  
 | bip_39_word_space_0 | ['advice', 'fever', 'uphold', 'target', 'giggle', 'note', 'gorilla', 'gospel', 'scout', 'teach', 'denial', 'also'] |  
 | bip_39_word_space_1 | advice |  
 | bip_39_word_space_10 | advice fever uphold target giggle note gorilla gospel scout teach |  

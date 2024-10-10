@@ -122,6 +122,18 @@ fatal
 barely
 silk
 easily |  
+| bip_39_word_no_space_1 | hazard |  
+| bip_39_word_no_space_10 | hazardkindprintcactusignorefatalbarelysilkeasilyswim |  
+| bip_39_word_no_space_11 | hazardkindprintcactusignorefatalbarelysilkeasilyswimprint |  
+| bip_39_word_no_space_12 | hazardkindprintcactusignorefatalbarelysilkeasilyswimprintapril |  
+| bip_39_word_no_space_2 | hazardkind |  
+| bip_39_word_no_space_3 | hazardkindprint |  
+| bip_39_word_no_space_4 | hazardkindprintcactus |  
+| bip_39_word_no_space_5 | hazardkindprintcactusignore |  
+| bip_39_word_no_space_6 | hazardkindprintcactusignorefatal |  
+| bip_39_word_no_space_7 | hazardkindprintcactusignorefatalbarely |  
+| bip_39_word_no_space_8 | hazardkindprintcactusignorefatalbarelysilk |  
+| bip_39_word_no_space_9 | hazardkindprintcactusignorefatalbarelysilkeasily |  
 | bip_39_word_space_0 | ['hazard', 'kind', 'print', 'cactus', 'ignore', 'fatal', 'barely', 'silk', 'easily', 'swim', 'print', 'april'] |  
 | bip_39_word_space_1 | hazard |  
 | bip_39_word_space_10 | hazard kind print cactus ignore fatal barely silk easily swim |  

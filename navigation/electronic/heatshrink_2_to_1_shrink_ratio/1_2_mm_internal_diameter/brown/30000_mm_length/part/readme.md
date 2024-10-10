@@ -122,6 +122,18 @@ lizard
 shock
 paddle
 logic |  
+| bip_39_word_no_space_1 | joke |  
+| bip_39_word_no_space_10 | jokeautumncoffeechickenslicelizardshockpaddlelogicvictory |  
+| bip_39_word_no_space_11 | jokeautumncoffeechickenslicelizardshockpaddlelogicvictorypatient |  
+| bip_39_word_no_space_12 | jokeautumncoffeechickenslicelizardshockpaddlelogicvictorypatientaction |  
+| bip_39_word_no_space_2 | jokeautumn |  
+| bip_39_word_no_space_3 | jokeautumncoffee |  
+| bip_39_word_no_space_4 | jokeautumncoffeechicken |  
+| bip_39_word_no_space_5 | jokeautumncoffeechickenslice |  
+| bip_39_word_no_space_6 | jokeautumncoffeechickenslicelizard |  
+| bip_39_word_no_space_7 | jokeautumncoffeechickenslicelizardshock |  
+| bip_39_word_no_space_8 | jokeautumncoffeechickenslicelizardshockpaddle |  
+| bip_39_word_no_space_9 | jokeautumncoffeechickenslicelizardshockpaddlelogic |  
 | bip_39_word_space_0 | ['joke', 'autumn', 'coffee', 'chicken', 'slice', 'lizard', 'shock', 'paddle', 'logic', 'victory', 'patient', 'action'] |  
 | bip_39_word_space_1 | joke |  
 | bip_39_word_space_10 | joke autumn coffee chicken slice lizard shock paddle logic victory |  

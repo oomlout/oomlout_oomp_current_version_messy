@@ -122,6 +122,18 @@ myself
 amount
 mule
 enemy |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmahurryolivesalonremainmyselfamountmuleenemyspy |  
+| bip_39_word_no_space_11 | dilemmahurryolivesalonremainmyselfamountmuleenemyspyodor |  
+| bip_39_word_no_space_12 | dilemmahurryolivesalonremainmyselfamountmuleenemyspyodoralready |  
+| bip_39_word_no_space_2 | dilemmahurry |  
+| bip_39_word_no_space_3 | dilemmahurryolive |  
+| bip_39_word_no_space_4 | dilemmahurryolivesalon |  
+| bip_39_word_no_space_5 | dilemmahurryolivesalonremain |  
+| bip_39_word_no_space_6 | dilemmahurryolivesalonremainmyself |  
+| bip_39_word_no_space_7 | dilemmahurryolivesalonremainmyselfamount |  
+| bip_39_word_no_space_8 | dilemmahurryolivesalonremainmyselfamountmule |  
+| bip_39_word_no_space_9 | dilemmahurryolivesalonremainmyselfamountmuleenemy |  
 | bip_39_word_space_0 | ['dilemma', 'hurry', 'olive', 'salon', 'remain', 'myself', 'amount', 'mule', 'enemy', 'spy', 'odor', 'already'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma hurry olive salon remain myself amount mule enemy spy |  

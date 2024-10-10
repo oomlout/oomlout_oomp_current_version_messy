@@ -122,6 +122,18 @@ crisp
 priority
 region
 beef |  
+| bip_39_word_no_space_1 | web |  
+| bip_39_word_no_space_10 | webonlyweatherstatedividecrisppriorityregionbeeforphan |  
+| bip_39_word_no_space_11 | webonlyweatherstatedividecrisppriorityregionbeeforphanaway |  
+| bip_39_word_no_space_12 | webonlyweatherstatedividecrisppriorityregionbeeforphanawayarrive |  
+| bip_39_word_no_space_2 | webonly |  
+| bip_39_word_no_space_3 | webonlyweather |  
+| bip_39_word_no_space_4 | webonlyweatherstate |  
+| bip_39_word_no_space_5 | webonlyweatherstatedivide |  
+| bip_39_word_no_space_6 | webonlyweatherstatedividecrisp |  
+| bip_39_word_no_space_7 | webonlyweatherstatedividecrisppriority |  
+| bip_39_word_no_space_8 | webonlyweatherstatedividecrisppriorityregion |  
+| bip_39_word_no_space_9 | webonlyweatherstatedividecrisppriorityregionbeef |  
 | bip_39_word_space_0 | ['web', 'only', 'weather', 'state', 'divide', 'crisp', 'priority', 'region', 'beef', 'orphan', 'away', 'arrive'] |  
 | bip_39_word_space_1 | web |  
 | bip_39_word_space_10 | web only weather state divide crisp priority region beef orphan |  

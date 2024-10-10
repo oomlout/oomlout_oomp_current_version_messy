@@ -122,6 +122,18 @@ symptom
 fuel
 raise
 liberty |  
+| bip_39_word_no_space_1 | suggest |  
+| bip_39_word_no_space_10 | suggestusehistoryrefusenewssymptomfuelraiselibertyoriginal |  
+| bip_39_word_no_space_11 | suggestusehistoryrefusenewssymptomfuelraiselibertyoriginalbrother |  
+| bip_39_word_no_space_12 | suggestusehistoryrefusenewssymptomfuelraiselibertyoriginalbrotherarea |  
+| bip_39_word_no_space_2 | suggestuse |  
+| bip_39_word_no_space_3 | suggestusehistory |  
+| bip_39_word_no_space_4 | suggestusehistoryrefuse |  
+| bip_39_word_no_space_5 | suggestusehistoryrefusenews |  
+| bip_39_word_no_space_6 | suggestusehistoryrefusenewssymptom |  
+| bip_39_word_no_space_7 | suggestusehistoryrefusenewssymptomfuel |  
+| bip_39_word_no_space_8 | suggestusehistoryrefusenewssymptomfuelraise |  
+| bip_39_word_no_space_9 | suggestusehistoryrefusenewssymptomfuelraiseliberty |  
 | bip_39_word_space_0 | ['suggest', 'use', 'history', 'refuse', 'news', 'symptom', 'fuel', 'raise', 'liberty', 'original', 'brother', 'area'] |  
 | bip_39_word_space_1 | suggest |  
 | bip_39_word_space_10 | suggest use history refuse news symptom fuel raise liberty original |  

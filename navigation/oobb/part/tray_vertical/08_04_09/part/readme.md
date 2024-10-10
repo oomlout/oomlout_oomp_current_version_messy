@@ -122,6 +122,18 @@ inner
 place
 two
 link |  
+| bip_39_word_no_space_1 | time |  
+| bip_39_word_no_space_10 | timeangryswingwilddemiseinnerplacetwolinkwin |  
+| bip_39_word_no_space_11 | timeangryswingwilddemiseinnerplacetwolinkwinspend |  
+| bip_39_word_no_space_12 | timeangryswingwilddemiseinnerplacetwolinkwinspendabsurd |  
+| bip_39_word_no_space_2 | timeangry |  
+| bip_39_word_no_space_3 | timeangryswing |  
+| bip_39_word_no_space_4 | timeangryswingwild |  
+| bip_39_word_no_space_5 | timeangryswingwilddemise |  
+| bip_39_word_no_space_6 | timeangryswingwilddemiseinner |  
+| bip_39_word_no_space_7 | timeangryswingwilddemiseinnerplace |  
+| bip_39_word_no_space_8 | timeangryswingwilddemiseinnerplacetwo |  
+| bip_39_word_no_space_9 | timeangryswingwilddemiseinnerplacetwolink |  
 | bip_39_word_space_0 | ['time', 'angry', 'swing', 'wild', 'demise', 'inner', 'place', 'two', 'link', 'win', 'spend', 'absurd'] |  
 | bip_39_word_space_1 | time |  
 | bip_39_word_space_10 | time angry swing wild demise inner place two link win |  

@@ -122,6 +122,18 @@ sorry
 anchor
 firm
 lawsuit |  
+| bip_39_word_no_space_1 | cook |  
+| bip_39_word_no_space_10 | cookdeclinesecondfebruarycapitalsorryanchorfirmlawsuitparade |  
+| bip_39_word_no_space_11 | cookdeclinesecondfebruarycapitalsorryanchorfirmlawsuitparadechoice |  
+| bip_39_word_no_space_12 | cookdeclinesecondfebruarycapitalsorryanchorfirmlawsuitparadechoiceaugust |  
+| bip_39_word_no_space_2 | cookdecline |  
+| bip_39_word_no_space_3 | cookdeclinesecond |  
+| bip_39_word_no_space_4 | cookdeclinesecondfebruary |  
+| bip_39_word_no_space_5 | cookdeclinesecondfebruarycapital |  
+| bip_39_word_no_space_6 | cookdeclinesecondfebruarycapitalsorry |  
+| bip_39_word_no_space_7 | cookdeclinesecondfebruarycapitalsorryanchor |  
+| bip_39_word_no_space_8 | cookdeclinesecondfebruarycapitalsorryanchorfirm |  
+| bip_39_word_no_space_9 | cookdeclinesecondfebruarycapitalsorryanchorfirmlawsuit |  
 | bip_39_word_space_0 | ['cook', 'decline', 'second', 'february', 'capital', 'sorry', 'anchor', 'firm', 'lawsuit', 'parade', 'choice', 'august'] |  
 | bip_39_word_space_1 | cook |  
 | bip_39_word_space_10 | cook decline second february capital sorry anchor firm lawsuit parade |  

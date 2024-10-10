@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'desk
   sketch
 
   loan'
+bip_39_word_no_space_1: desk
+bip_39_word_no_space_10: deskarchdespairinvolvesunnyreflectexecutesketchloantrue
+bip_39_word_no_space_11: deskarchdespairinvolvesunnyreflectexecutesketchloantruebalcony
+bip_39_word_no_space_12: deskarchdespairinvolvesunnyreflectexecutesketchloantruebalconyarmed
+bip_39_word_no_space_2: deskarch
+bip_39_word_no_space_3: deskarchdespair
+bip_39_word_no_space_4: deskarchdespairinvolve
+bip_39_word_no_space_5: deskarchdespairinvolvesunny
+bip_39_word_no_space_6: deskarchdespairinvolvesunnyreflect
+bip_39_word_no_space_7: deskarchdespairinvolvesunnyreflectexecute
+bip_39_word_no_space_8: deskarchdespairinvolvesunnyreflectexecutesketch
+bip_39_word_no_space_9: deskarchdespairinvolvesunnyreflectexecutesketchloan
 bip_39_word_space_0:
 - desk
 - arch

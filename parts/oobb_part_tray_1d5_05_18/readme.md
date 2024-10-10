@@ -122,6 +122,18 @@ cool
 party
 brief
 improve |  
+| bip_39_word_no_space_1 | novel |  
+| bip_39_word_no_space_10 | novelorchardechorhythmgalaxycoolpartybriefimprovewage |  
+| bip_39_word_no_space_11 | novelorchardechorhythmgalaxycoolpartybriefimprovewagestomach |  
+| bip_39_word_no_space_12 | novelorchardechorhythmgalaxycoolpartybriefimprovewagestomachabstract |  
+| bip_39_word_no_space_2 | novelorchard |  
+| bip_39_word_no_space_3 | novelorchardecho |  
+| bip_39_word_no_space_4 | novelorchardechorhythm |  
+| bip_39_word_no_space_5 | novelorchardechorhythmgalaxy |  
+| bip_39_word_no_space_6 | novelorchardechorhythmgalaxycool |  
+| bip_39_word_no_space_7 | novelorchardechorhythmgalaxycoolparty |  
+| bip_39_word_no_space_8 | novelorchardechorhythmgalaxycoolpartybrief |  
+| bip_39_word_no_space_9 | novelorchardechorhythmgalaxycoolpartybriefimprove |  
 | bip_39_word_space_0 | ['novel', 'orchard', 'echo', 'rhythm', 'galaxy', 'cool', 'party', 'brief', 'improve', 'wage', 'stomach', 'abstract'] |  
 | bip_39_word_space_1 | novel |  
 | bip_39_word_space_10 | novel orchard echo rhythm galaxy cool party brief improve wage |  

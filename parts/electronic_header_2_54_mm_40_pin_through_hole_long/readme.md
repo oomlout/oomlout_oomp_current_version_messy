@@ -122,6 +122,18 @@ frost
 analyst
 style
 myth |  
+| bip_39_word_no_space_1 | stadium |  
+| bip_39_word_no_space_10 | stadiumlavazooimprovedosefrostanalyststylemythsentence |  
+| bip_39_word_no_space_11 | stadiumlavazooimprovedosefrostanalyststylemythsentenceupgrade |  
+| bip_39_word_no_space_12 | stadiumlavazooimprovedosefrostanalyststylemythsentenceupgradeany |  
+| bip_39_word_no_space_2 | stadiumlava |  
+| bip_39_word_no_space_3 | stadiumlavazoo |  
+| bip_39_word_no_space_4 | stadiumlavazooimprove |  
+| bip_39_word_no_space_5 | stadiumlavazooimprovedose |  
+| bip_39_word_no_space_6 | stadiumlavazooimprovedosefrost |  
+| bip_39_word_no_space_7 | stadiumlavazooimprovedosefrostanalyst |  
+| bip_39_word_no_space_8 | stadiumlavazooimprovedosefrostanalyststyle |  
+| bip_39_word_no_space_9 | stadiumlavazooimprovedosefrostanalyststylemyth |  
 | bip_39_word_space_0 | ['stadium', 'lava', 'zoo', 'improve', 'dose', 'frost', 'analyst', 'style', 'myth', 'sentence', 'upgrade', 'any'] |  
 | bip_39_word_space_1 | stadium |  
 | bip_39_word_space_10 | stadium lava zoo improve dose frost analyst style myth sentence |  

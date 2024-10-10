@@ -122,6 +122,18 @@ economy
 snake
 neither
 pause |  
+| bip_39_word_no_space_1 | sentence |  
+| bip_39_word_no_space_10 | sentencebamboostaffzerolengtheconomysnakeneitherpausetable |  
+| bip_39_word_no_space_11 | sentencebamboostaffzerolengtheconomysnakeneitherpausetableresult |  
+| bip_39_word_no_space_12 | sentencebamboostaffzerolengtheconomysnakeneitherpausetableresultanalyst |  
+| bip_39_word_no_space_2 | sentencebamboo |  
+| bip_39_word_no_space_3 | sentencebamboostaff |  
+| bip_39_word_no_space_4 | sentencebamboostaffzero |  
+| bip_39_word_no_space_5 | sentencebamboostaffzerolength |  
+| bip_39_word_no_space_6 | sentencebamboostaffzerolengtheconomy |  
+| bip_39_word_no_space_7 | sentencebamboostaffzerolengtheconomysnake |  
+| bip_39_word_no_space_8 | sentencebamboostaffzerolengtheconomysnakeneither |  
+| bip_39_word_no_space_9 | sentencebamboostaffzerolengtheconomysnakeneitherpause |  
 | bip_39_word_space_0 | ['sentence', 'bamboo', 'staff', 'zero', 'length', 'economy', 'snake', 'neither', 'pause', 'table', 'result', 'analyst'] |  
 | bip_39_word_space_1 | sentence |  
 | bip_39_word_space_10 | sentence bamboo staff zero length economy snake neither pause table |  

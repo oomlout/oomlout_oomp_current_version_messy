@@ -122,6 +122,18 @@ guitar
 gold
 theory
 mercy |  
+| bip_39_word_no_space_1 | october |  
+| bip_39_word_no_space_10 | octoberartistleafswiftregretguitargoldtheorymercyevolve |  
+| bip_39_word_no_space_11 | octoberartistleafswiftregretguitargoldtheorymercyevolvejoy |  
+| bip_39_word_no_space_12 | octoberartistleafswiftregretguitargoldtheorymercyevolvejoyanother |  
+| bip_39_word_no_space_2 | octoberartist |  
+| bip_39_word_no_space_3 | octoberartistleaf |  
+| bip_39_word_no_space_4 | octoberartistleafswift |  
+| bip_39_word_no_space_5 | octoberartistleafswiftregret |  
+| bip_39_word_no_space_6 | octoberartistleafswiftregretguitar |  
+| bip_39_word_no_space_7 | octoberartistleafswiftregretguitargold |  
+| bip_39_word_no_space_8 | octoberartistleafswiftregretguitargoldtheory |  
+| bip_39_word_no_space_9 | octoberartistleafswiftregretguitargoldtheorymercy |  
 | bip_39_word_space_0 | ['october', 'artist', 'leaf', 'swift', 'regret', 'guitar', 'gold', 'theory', 'mercy', 'evolve', 'joy', 'another'] |  
 | bip_39_word_space_1 | october |  
 | bip_39_word_space_10 | october artist leaf swift regret guitar gold theory mercy evolve |  

@@ -109,6 +109,17 @@ way
 december
 estate
 term |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decidebuddycomfortpalmupholdwaydecemberestatetermdoll |  
+| bip_39_word_no_space_11 | decidebuddycomfortpalmupholdwaydecemberestatetermdolllunch |  
+| bip_39_word_no_space_2 | decidebuddy |  
+| bip_39_word_no_space_3 | decidebuddycomfort |  
+| bip_39_word_no_space_4 | decidebuddycomfortpalm |  
+| bip_39_word_no_space_5 | decidebuddycomfortpalmuphold |  
+| bip_39_word_no_space_6 | decidebuddycomfortpalmupholdway |  
+| bip_39_word_no_space_7 | decidebuddycomfortpalmupholdwaydecember |  
+| bip_39_word_no_space_8 | decidebuddycomfortpalmupholdwaydecemberestate |  
+| bip_39_word_no_space_9 | decidebuddycomfortpalmupholdwaydecemberestateterm |  
 | bip_39_word_space_0 | ['decide', 'buddy', 'comfort', 'palm', 'uphold', 'way', 'december', 'estate', 'term', 'doll', 'lunch'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide buddy comfort palm uphold way december estate term doll |  

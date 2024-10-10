@@ -122,6 +122,18 @@ ski
 peace
 jacket
 slab |  
+| bip_39_word_no_space_1 | soon |  
+| bip_39_word_no_space_10 | soontravelboostaffordartistskipeacejacketslablend |  
+| bip_39_word_no_space_11 | soontravelboostaffordartistskipeacejacketslablendivory |  
+| bip_39_word_no_space_12 | soontravelboostaffordartistskipeacejacketslablendivoryassist |  
+| bip_39_word_no_space_2 | soontravel |  
+| bip_39_word_no_space_3 | soontravelboost |  
+| bip_39_word_no_space_4 | soontravelboostafford |  
+| bip_39_word_no_space_5 | soontravelboostaffordartist |  
+| bip_39_word_no_space_6 | soontravelboostaffordartistski |  
+| bip_39_word_no_space_7 | soontravelboostaffordartistskipeace |  
+| bip_39_word_no_space_8 | soontravelboostaffordartistskipeacejacket |  
+| bip_39_word_no_space_9 | soontravelboostaffordartistskipeacejacketslab |  
 | bip_39_word_space_0 | ['soon', 'travel', 'boost', 'afford', 'artist', 'ski', 'peace', 'jacket', 'slab', 'lend', 'ivory', 'assist'] |  
 | bip_39_word_space_1 | soon |  
 | bip_39_word_space_10 | soon travel boost afford artist ski peace jacket slab lend |  

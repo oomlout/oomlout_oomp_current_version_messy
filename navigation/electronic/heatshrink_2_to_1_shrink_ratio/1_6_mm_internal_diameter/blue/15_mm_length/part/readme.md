@@ -122,6 +122,18 @@ shy
 solution
 rate
 little |  
+| bip_39_word_no_space_1 | chimney |  
+| bip_39_word_no_space_10 | chimneywhalecottonshaftdoubleshysolutionratelittlecurrent |  
+| bip_39_word_no_space_11 | chimneywhalecottonshaftdoubleshysolutionratelittlecurrenttwice |  
+| bip_39_word_no_space_12 | chimneywhalecottonshaftdoubleshysolutionratelittlecurrenttwiceabout |  
+| bip_39_word_no_space_2 | chimneywhale |  
+| bip_39_word_no_space_3 | chimneywhalecotton |  
+| bip_39_word_no_space_4 | chimneywhalecottonshaft |  
+| bip_39_word_no_space_5 | chimneywhalecottonshaftdouble |  
+| bip_39_word_no_space_6 | chimneywhalecottonshaftdoubleshy |  
+| bip_39_word_no_space_7 | chimneywhalecottonshaftdoubleshysolution |  
+| bip_39_word_no_space_8 | chimneywhalecottonshaftdoubleshysolutionrate |  
+| bip_39_word_no_space_9 | chimneywhalecottonshaftdoubleshysolutionratelittle |  
 | bip_39_word_space_0 | ['chimney', 'whale', 'cotton', 'shaft', 'double', 'shy', 'solution', 'rate', 'little', 'current', 'twice', 'about'] |  
 | bip_39_word_space_1 | chimney |  
 | bip_39_word_space_10 | chimney whale cotton shaft double shy solution rate little current |  

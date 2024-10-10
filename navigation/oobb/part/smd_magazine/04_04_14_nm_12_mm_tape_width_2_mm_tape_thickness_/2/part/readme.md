@@ -122,6 +122,18 @@ educate
 town
 scout
 prison |  
+| bip_39_word_no_space_1 | banana |  
+| bip_39_word_no_space_10 | bananajunksolutionjuiceliquideducatetownscoutprisonfee |  
+| bip_39_word_no_space_11 | bananajunksolutionjuiceliquideducatetownscoutprisonfeestruggle |  
+| bip_39_word_no_space_12 | bananajunksolutionjuiceliquideducatetownscoutprisonfeestrugglearrow |  
+| bip_39_word_no_space_2 | bananajunk |  
+| bip_39_word_no_space_3 | bananajunksolution |  
+| bip_39_word_no_space_4 | bananajunksolutionjuice |  
+| bip_39_word_no_space_5 | bananajunksolutionjuiceliquid |  
+| bip_39_word_no_space_6 | bananajunksolutionjuiceliquideducate |  
+| bip_39_word_no_space_7 | bananajunksolutionjuiceliquideducatetown |  
+| bip_39_word_no_space_8 | bananajunksolutionjuiceliquideducatetownscout |  
+| bip_39_word_no_space_9 | bananajunksolutionjuiceliquideducatetownscoutprison |  
 | bip_39_word_space_0 | ['banana', 'junk', 'solution', 'juice', 'liquid', 'educate', 'town', 'scout', 'prison', 'fee', 'struggle', 'arrow'] |  
 | bip_39_word_space_1 | banana |  
 | bip_39_word_space_10 | banana junk solution juice liquid educate town scout prison fee |  

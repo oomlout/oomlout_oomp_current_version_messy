@@ -122,6 +122,18 @@ camp
 hub
 gap
 panel |  
+| bip_39_word_no_space_1 | festival |  
+| bip_39_word_no_space_10 | festivaljoketestclubanycamphubgappanelritual |  
+| bip_39_word_no_space_11 | festivaljoketestclubanycamphubgappanelritualmother |  
+| bip_39_word_no_space_12 | festivaljoketestclubanycamphubgappanelritualmotheranxiety |  
+| bip_39_word_no_space_2 | festivaljoke |  
+| bip_39_word_no_space_3 | festivaljoketest |  
+| bip_39_word_no_space_4 | festivaljoketestclub |  
+| bip_39_word_no_space_5 | festivaljoketestclubany |  
+| bip_39_word_no_space_6 | festivaljoketestclubanycamp |  
+| bip_39_word_no_space_7 | festivaljoketestclubanycamphub |  
+| bip_39_word_no_space_8 | festivaljoketestclubanycamphubgap |  
+| bip_39_word_no_space_9 | festivaljoketestclubanycamphubgappanel |  
 | bip_39_word_space_0 | ['festival', 'joke', 'test', 'club', 'any', 'camp', 'hub', 'gap', 'panel', 'ritual', 'mother', 'anxiety'] |  
 | bip_39_word_space_1 | festival |  
 | bip_39_word_space_10 | festival joke test club any camp hub gap panel ritual |  

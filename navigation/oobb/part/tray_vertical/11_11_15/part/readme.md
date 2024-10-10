@@ -122,6 +122,18 @@ label
 holiday
 rural
 spawn |  
+| bip_39_word_no_space_1 | thunder |  
+| bip_39_word_no_space_10 | thunderkangaroomeandependweblabelholidayruralspawnorder |  
+| bip_39_word_no_space_11 | thunderkangaroomeandependweblabelholidayruralspawnordercricket |  
+| bip_39_word_no_space_12 | thunderkangaroomeandependweblabelholidayruralspawnordercricketalpha |  
+| bip_39_word_no_space_2 | thunderkangaroo |  
+| bip_39_word_no_space_3 | thunderkangaroomean |  
+| bip_39_word_no_space_4 | thunderkangaroomeandepend |  
+| bip_39_word_no_space_5 | thunderkangaroomeandependweb |  
+| bip_39_word_no_space_6 | thunderkangaroomeandependweblabel |  
+| bip_39_word_no_space_7 | thunderkangaroomeandependweblabelholiday |  
+| bip_39_word_no_space_8 | thunderkangaroomeandependweblabelholidayrural |  
+| bip_39_word_no_space_9 | thunderkangaroomeandependweblabelholidayruralspawn |  
 | bip_39_word_space_0 | ['thunder', 'kangaroo', 'mean', 'depend', 'web', 'label', 'holiday', 'rural', 'spawn', 'order', 'cricket', 'alpha'] |  
 | bip_39_word_space_1 | thunder |  
 | bip_39_word_space_10 | thunder kangaroo mean depend web label holiday rural spawn order |  

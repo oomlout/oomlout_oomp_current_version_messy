@@ -122,6 +122,18 @@ sunset
 scrub
 limb
 wrap |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancesuccessaskexoticclothsunsetscrublimbwrapmyself |  
+| bip_39_word_no_space_11 | dancesuccessaskexoticclothsunsetscrublimbwrapmyselfspoil |  
+| bip_39_word_no_space_12 | dancesuccessaskexoticclothsunsetscrublimbwrapmyselfspoilarch |  
+| bip_39_word_no_space_2 | dancesuccess |  
+| bip_39_word_no_space_3 | dancesuccessask |  
+| bip_39_word_no_space_4 | dancesuccessaskexotic |  
+| bip_39_word_no_space_5 | dancesuccessaskexoticcloth |  
+| bip_39_word_no_space_6 | dancesuccessaskexoticclothsunset |  
+| bip_39_word_no_space_7 | dancesuccessaskexoticclothsunsetscrub |  
+| bip_39_word_no_space_8 | dancesuccessaskexoticclothsunsetscrublimb |  
+| bip_39_word_no_space_9 | dancesuccessaskexoticclothsunsetscrublimbwrap |  
 | bip_39_word_space_0 | ['dance', 'success', 'ask', 'exotic', 'cloth', 'sunset', 'scrub', 'limb', 'wrap', 'myself', 'spoil', 'arch'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance success ask exotic cloth sunset scrub limb wrap myself |  

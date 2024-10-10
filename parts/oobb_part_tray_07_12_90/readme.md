@@ -122,6 +122,18 @@ desk
 okay
 title
 sudden |  
+| bip_39_word_no_space_1 | echo |  
+| bip_39_word_no_space_10 | echowhereshyunableringdeskokaytitlesuddenpaper |  
+| bip_39_word_no_space_11 | echowhereshyunableringdeskokaytitlesuddenpaperparade |  
+| bip_39_word_no_space_12 | echowhereshyunableringdeskokaytitlesuddenpaperparadeasthma |  
+| bip_39_word_no_space_2 | echowhere |  
+| bip_39_word_no_space_3 | echowhereshy |  
+| bip_39_word_no_space_4 | echowhereshyunable |  
+| bip_39_word_no_space_5 | echowhereshyunablering |  
+| bip_39_word_no_space_6 | echowhereshyunableringdesk |  
+| bip_39_word_no_space_7 | echowhereshyunableringdeskokay |  
+| bip_39_word_no_space_8 | echowhereshyunableringdeskokaytitle |  
+| bip_39_word_no_space_9 | echowhereshyunableringdeskokaytitlesudden |  
 | bip_39_word_space_0 | ['echo', 'where', 'shy', 'unable', 'ring', 'desk', 'okay', 'title', 'sudden', 'paper', 'parade', 'asthma'] |  
 | bip_39_word_space_1 | echo |  
 | bip_39_word_space_10 | echo where shy unable ring desk okay title sudden paper |  

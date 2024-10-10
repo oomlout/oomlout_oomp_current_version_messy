@@ -122,6 +122,18 @@ boost
 merge
 beef
 behave |  
+| bip_39_word_no_space_1 | crucial |  
+| bip_39_word_no_space_10 | crucialmiracleabandonpolicestoveboostmergebeefbehavestruggle |  
+| bip_39_word_no_space_11 | crucialmiracleabandonpolicestoveboostmergebeefbehavestruggleexhibit |  
+| bip_39_word_no_space_12 | crucialmiracleabandonpolicestoveboostmergebeefbehavestruggleexhibitarea |  
+| bip_39_word_no_space_2 | crucialmiracle |  
+| bip_39_word_no_space_3 | crucialmiracleabandon |  
+| bip_39_word_no_space_4 | crucialmiracleabandonpolice |  
+| bip_39_word_no_space_5 | crucialmiracleabandonpolicestove |  
+| bip_39_word_no_space_6 | crucialmiracleabandonpolicestoveboost |  
+| bip_39_word_no_space_7 | crucialmiracleabandonpolicestoveboostmerge |  
+| bip_39_word_no_space_8 | crucialmiracleabandonpolicestoveboostmergebeef |  
+| bip_39_word_no_space_9 | crucialmiracleabandonpolicestoveboostmergebeefbehave |  
 | bip_39_word_space_0 | ['crucial', 'miracle', 'abandon', 'police', 'stove', 'boost', 'merge', 'beef', 'behave', 'struggle', 'exhibit', 'area'] |  
 | bip_39_word_space_1 | crucial |  
 | bip_39_word_space_10 | crucial miracle abandon police stove boost merge beef behave struggle |  

@@ -122,6 +122,18 @@ giggle
 mansion
 army
 slide |  
+| bip_39_word_no_space_1 | able |  
+| bip_39_word_no_space_10 | ablelizarddragongluemoralgigglemansionarmyslidethis |  
+| bip_39_word_no_space_11 | ablelizarddragongluemoralgigglemansionarmyslidethiscarbon |  
+| bip_39_word_no_space_12 | ablelizarddragongluemoralgigglemansionarmyslidethiscarbonaccount |  
+| bip_39_word_no_space_2 | ablelizard |  
+| bip_39_word_no_space_3 | ablelizarddragon |  
+| bip_39_word_no_space_4 | ablelizarddragonglue |  
+| bip_39_word_no_space_5 | ablelizarddragongluemoral |  
+| bip_39_word_no_space_6 | ablelizarddragongluemoralgiggle |  
+| bip_39_word_no_space_7 | ablelizarddragongluemoralgigglemansion |  
+| bip_39_word_no_space_8 | ablelizarddragongluemoralgigglemansionarmy |  
+| bip_39_word_no_space_9 | ablelizarddragongluemoralgigglemansionarmyslide |  
 | bip_39_word_space_0 | ['able', 'lizard', 'dragon', 'glue', 'moral', 'giggle', 'mansion', 'army', 'slide', 'this', 'carbon', 'account'] |  
 | bip_39_word_space_1 | able |  
 | bip_39_word_space_10 | able lizard dragon glue moral giggle mansion army slide this |  

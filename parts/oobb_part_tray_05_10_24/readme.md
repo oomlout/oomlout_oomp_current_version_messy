@@ -122,6 +122,18 @@ tube
 service
 foil
 aware |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessbuyerbrownopposeridetubeservicefoilawarecomfort |  
+| bip_39_word_no_space_11 | fitnessbuyerbrownopposeridetubeservicefoilawarecomfortdirt |  
+| bip_39_word_no_space_12 | fitnessbuyerbrownopposeridetubeservicefoilawarecomfortdirtanother |  
+| bip_39_word_no_space_2 | fitnessbuyer |  
+| bip_39_word_no_space_3 | fitnessbuyerbrown |  
+| bip_39_word_no_space_4 | fitnessbuyerbrownoppose |  
+| bip_39_word_no_space_5 | fitnessbuyerbrownopposeride |  
+| bip_39_word_no_space_6 | fitnessbuyerbrownopposeridetube |  
+| bip_39_word_no_space_7 | fitnessbuyerbrownopposeridetubeservice |  
+| bip_39_word_no_space_8 | fitnessbuyerbrownopposeridetubeservicefoil |  
+| bip_39_word_no_space_9 | fitnessbuyerbrownopposeridetubeservicefoilaware |  
 | bip_39_word_space_0 | ['fitness', 'buyer', 'brown', 'oppose', 'ride', 'tube', 'service', 'foil', 'aware', 'comfort', 'dirt', 'another'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness buyer brown oppose ride tube service foil aware comfort |  

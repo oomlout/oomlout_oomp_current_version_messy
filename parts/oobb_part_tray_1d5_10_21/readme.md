@@ -122,6 +122,18 @@ citizen
 omit
 cable
 bracket |  
+| bip_39_word_no_space_1 | shiver |  
+| bip_39_word_no_space_10 | shiverunfoldpluckradarlioncitizenomitcablebracketinspire |  
+| bip_39_word_no_space_11 | shiverunfoldpluckradarlioncitizenomitcablebracketinspireclerk |  
+| bip_39_word_no_space_12 | shiverunfoldpluckradarlioncitizenomitcablebracketinspireclerkafraid |  
+| bip_39_word_no_space_2 | shiverunfold |  
+| bip_39_word_no_space_3 | shiverunfoldpluck |  
+| bip_39_word_no_space_4 | shiverunfoldpluckradar |  
+| bip_39_word_no_space_5 | shiverunfoldpluckradarlion |  
+| bip_39_word_no_space_6 | shiverunfoldpluckradarlioncitizen |  
+| bip_39_word_no_space_7 | shiverunfoldpluckradarlioncitizenomit |  
+| bip_39_word_no_space_8 | shiverunfoldpluckradarlioncitizenomitcable |  
+| bip_39_word_no_space_9 | shiverunfoldpluckradarlioncitizenomitcablebracket |  
 | bip_39_word_space_0 | ['shiver', 'unfold', 'pluck', 'radar', 'lion', 'citizen', 'omit', 'cable', 'bracket', 'inspire', 'clerk', 'afraid'] |  
 | bip_39_word_space_1 | shiver |  
 | bip_39_word_space_10 | shiver unfold pluck radar lion citizen omit cable bracket inspire |  

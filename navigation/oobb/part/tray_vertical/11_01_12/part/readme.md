@@ -122,6 +122,18 @@ gift
 punch
 wrestle
 scissors |  
+| bip_39_word_no_space_1 | arrange |  
+| bip_39_word_no_space_10 | arrangenervefarmdaringverifygiftpunchwrestlescissorsinmate |  
+| bip_39_word_no_space_11 | arrangenervefarmdaringverifygiftpunchwrestlescissorsinmateoften |  
+| bip_39_word_no_space_12 | arrangenervefarmdaringverifygiftpunchwrestlescissorsinmateoftenalso |  
+| bip_39_word_no_space_2 | arrangenerve |  
+| bip_39_word_no_space_3 | arrangenervefarm |  
+| bip_39_word_no_space_4 | arrangenervefarmdaring |  
+| bip_39_word_no_space_5 | arrangenervefarmdaringverify |  
+| bip_39_word_no_space_6 | arrangenervefarmdaringverifygift |  
+| bip_39_word_no_space_7 | arrangenervefarmdaringverifygiftpunch |  
+| bip_39_word_no_space_8 | arrangenervefarmdaringverifygiftpunchwrestle |  
+| bip_39_word_no_space_9 | arrangenervefarmdaringverifygiftpunchwrestlescissors |  
 | bip_39_word_space_0 | ['arrange', 'nerve', 'farm', 'daring', 'verify', 'gift', 'punch', 'wrestle', 'scissors', 'inmate', 'often', 'also'] |  
 | bip_39_word_space_1 | arrange |  
 | bip_39_word_space_10 | arrange nerve farm daring verify gift punch wrestle scissors inmate |  

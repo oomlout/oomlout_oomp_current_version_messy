@@ -122,6 +122,18 @@ top
 tube
 park
 adjust |  
+| bip_39_word_no_space_1 | imitate |  
+| bip_39_word_no_space_10 | imitatefalsebrainpyramidrealtoptubeparkadjustbar |  
+| bip_39_word_no_space_11 | imitatefalsebrainpyramidrealtoptubeparkadjustbarargue |  
+| bip_39_word_no_space_12 | imitatefalsebrainpyramidrealtoptubeparkadjustbararguearrest |  
+| bip_39_word_no_space_2 | imitatefalse |  
+| bip_39_word_no_space_3 | imitatefalsebrain |  
+| bip_39_word_no_space_4 | imitatefalsebrainpyramid |  
+| bip_39_word_no_space_5 | imitatefalsebrainpyramidreal |  
+| bip_39_word_no_space_6 | imitatefalsebrainpyramidrealtop |  
+| bip_39_word_no_space_7 | imitatefalsebrainpyramidrealtoptube |  
+| bip_39_word_no_space_8 | imitatefalsebrainpyramidrealtoptubepark |  
+| bip_39_word_no_space_9 | imitatefalsebrainpyramidrealtoptubeparkadjust |  
 | bip_39_word_space_0 | ['imitate', 'false', 'brain', 'pyramid', 'real', 'top', 'tube', 'park', 'adjust', 'bar', 'argue', 'arrest'] |  
 | bip_39_word_space_1 | imitate |  
 | bip_39_word_space_10 | imitate false brain pyramid real top tube park adjust bar |  

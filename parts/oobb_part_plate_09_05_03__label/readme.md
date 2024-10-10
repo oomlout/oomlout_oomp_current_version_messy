@@ -122,6 +122,18 @@ select
 primary
 nerve
 sun |  
+| bip_39_word_no_space_1 | kick |  
+| bip_39_word_no_space_10 | kickgatherelsealarmadmitselectprimarynervesunthing |  
+| bip_39_word_no_space_11 | kickgatherelsealarmadmitselectprimarynervesunthinghope |  
+| bip_39_word_no_space_12 | kickgatherelsealarmadmitselectprimarynervesunthinghopeancient |  
+| bip_39_word_no_space_2 | kickgather |  
+| bip_39_word_no_space_3 | kickgatherelse |  
+| bip_39_word_no_space_4 | kickgatherelsealarm |  
+| bip_39_word_no_space_5 | kickgatherelsealarmadmit |  
+| bip_39_word_no_space_6 | kickgatherelsealarmadmitselect |  
+| bip_39_word_no_space_7 | kickgatherelsealarmadmitselectprimary |  
+| bip_39_word_no_space_8 | kickgatherelsealarmadmitselectprimarynerve |  
+| bip_39_word_no_space_9 | kickgatherelsealarmadmitselectprimarynervesun |  
 | bip_39_word_space_0 | ['kick', 'gather', 'else', 'alarm', 'admit', 'select', 'primary', 'nerve', 'sun', 'thing', 'hope', 'ancient'] |  
 | bip_39_word_space_1 | kick |  
 | bip_39_word_space_10 | kick gather else alarm admit select primary nerve sun thing |  

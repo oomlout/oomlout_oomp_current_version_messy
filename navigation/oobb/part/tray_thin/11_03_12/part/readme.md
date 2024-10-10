@@ -122,6 +122,18 @@ carry
 business
 great
 valid |  
+| bip_39_word_no_space_1 | animal |  
+| bip_39_word_no_space_10 | animaldraftwarriorgrapeluxurycarrybusinessgreatvalidscorpion |  
+| bip_39_word_no_space_11 | animaldraftwarriorgrapeluxurycarrybusinessgreatvalidscorpiondad |  
+| bip_39_word_no_space_12 | animaldraftwarriorgrapeluxurycarrybusinessgreatvalidscorpiondadannual |  
+| bip_39_word_no_space_2 | animaldraft |  
+| bip_39_word_no_space_3 | animaldraftwarrior |  
+| bip_39_word_no_space_4 | animaldraftwarriorgrape |  
+| bip_39_word_no_space_5 | animaldraftwarriorgrapeluxury |  
+| bip_39_word_no_space_6 | animaldraftwarriorgrapeluxurycarry |  
+| bip_39_word_no_space_7 | animaldraftwarriorgrapeluxurycarrybusiness |  
+| bip_39_word_no_space_8 | animaldraftwarriorgrapeluxurycarrybusinessgreat |  
+| bip_39_word_no_space_9 | animaldraftwarriorgrapeluxurycarrybusinessgreatvalid |  
 | bip_39_word_space_0 | ['animal', 'draft', 'warrior', 'grape', 'luxury', 'carry', 'business', 'great', 'valid', 'scorpion', 'dad', 'annual'] |  
 | bip_39_word_space_1 | animal |  
 | bip_39_word_space_10 | animal draft warrior grape luxury carry business great valid scorpion |  

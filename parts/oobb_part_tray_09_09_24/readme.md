@@ -122,6 +122,18 @@ open
 rent
 trend
 more |  
+| bip_39_word_no_space_1 | whale |  
+| bip_39_word_no_space_10 | whaletonightcraftpandahappyopenrenttrendmoreecology |  
+| bip_39_word_no_space_11 | whaletonightcraftpandahappyopenrenttrendmoreecologytorch |  
+| bip_39_word_no_space_12 | whaletonightcraftpandahappyopenrenttrendmoreecologytorchamused |  
+| bip_39_word_no_space_2 | whaletonight |  
+| bip_39_word_no_space_3 | whaletonightcraft |  
+| bip_39_word_no_space_4 | whaletonightcraftpanda |  
+| bip_39_word_no_space_5 | whaletonightcraftpandahappy |  
+| bip_39_word_no_space_6 | whaletonightcraftpandahappyopen |  
+| bip_39_word_no_space_7 | whaletonightcraftpandahappyopenrent |  
+| bip_39_word_no_space_8 | whaletonightcraftpandahappyopenrenttrend |  
+| bip_39_word_no_space_9 | whaletonightcraftpandahappyopenrenttrendmore |  
 | bip_39_word_space_0 | ['whale', 'tonight', 'craft', 'panda', 'happy', 'open', 'rent', 'trend', 'more', 'ecology', 'torch', 'amused'] |  
 | bip_39_word_space_1 | whale |  
 | bip_39_word_space_10 | whale tonight craft panda happy open rent trend more ecology |  

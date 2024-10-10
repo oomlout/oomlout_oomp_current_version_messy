@@ -122,6 +122,18 @@ immune
 valve
 else
 twist |  
+| bip_39_word_no_space_1 | asthma |  
+| bip_39_word_no_space_10 | asthmasensedisorderaugustincreaseimmunevalveelsetwistjuice |  
+| bip_39_word_no_space_11 | asthmasensedisorderaugustincreaseimmunevalveelsetwistjuiceloud |  
+| bip_39_word_no_space_12 | asthmasensedisorderaugustincreaseimmunevalveelsetwistjuiceloudantique |  
+| bip_39_word_no_space_2 | asthmasense |  
+| bip_39_word_no_space_3 | asthmasensedisorder |  
+| bip_39_word_no_space_4 | asthmasensedisorderaugust |  
+| bip_39_word_no_space_5 | asthmasensedisorderaugustincrease |  
+| bip_39_word_no_space_6 | asthmasensedisorderaugustincreaseimmune |  
+| bip_39_word_no_space_7 | asthmasensedisorderaugustincreaseimmunevalve |  
+| bip_39_word_no_space_8 | asthmasensedisorderaugustincreaseimmunevalveelse |  
+| bip_39_word_no_space_9 | asthmasensedisorderaugustincreaseimmunevalveelsetwist |  
 | bip_39_word_space_0 | ['asthma', 'sense', 'disorder', 'august', 'increase', 'immune', 'valve', 'else', 'twist', 'juice', 'loud', 'antique'] |  
 | bip_39_word_space_1 | asthma |  
 | bip_39_word_space_10 | asthma sense disorder august increase immune valve else twist juice |  

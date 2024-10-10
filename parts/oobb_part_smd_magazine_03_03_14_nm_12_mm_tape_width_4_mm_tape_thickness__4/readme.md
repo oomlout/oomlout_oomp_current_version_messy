@@ -122,6 +122,18 @@ search
 book
 screen
 dune |  
+| bip_39_word_no_space_1 | large |  
+| bip_39_word_no_space_10 | largevirtualhillsniffunfoldsearchbookscreendunepumpkin |  
+| bip_39_word_no_space_11 | largevirtualhillsniffunfoldsearchbookscreendunepumpkinchoice |  
+| bip_39_word_no_space_12 | largevirtualhillsniffunfoldsearchbookscreendunepumpkinchoiceagree |  
+| bip_39_word_no_space_2 | largevirtual |  
+| bip_39_word_no_space_3 | largevirtualhill |  
+| bip_39_word_no_space_4 | largevirtualhillsniff |  
+| bip_39_word_no_space_5 | largevirtualhillsniffunfold |  
+| bip_39_word_no_space_6 | largevirtualhillsniffunfoldsearch |  
+| bip_39_word_no_space_7 | largevirtualhillsniffunfoldsearchbook |  
+| bip_39_word_no_space_8 | largevirtualhillsniffunfoldsearchbookscreen |  
+| bip_39_word_no_space_9 | largevirtualhillsniffunfoldsearchbookscreendune |  
 | bip_39_word_space_0 | ['large', 'virtual', 'hill', 'sniff', 'unfold', 'search', 'book', 'screen', 'dune', 'pumpkin', 'choice', 'agree'] |  
 | bip_39_word_space_1 | large |  
 | bip_39_word_space_10 | large virtual hill sniff unfold search book screen dune pumpkin |  

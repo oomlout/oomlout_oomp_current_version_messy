@@ -122,6 +122,18 @@ actor
 offer
 same
 position |  
+| bip_39_word_no_space_1 | flip |  
+| bip_39_word_no_space_10 | flipleafincreasecriticjuiceactoroffersamepositionboost |  
+| bip_39_word_no_space_11 | flipleafincreasecriticjuiceactoroffersamepositionboostinvest |  
+| bip_39_word_no_space_12 | flipleafincreasecriticjuiceactoroffersamepositionboostinvestarctic |  
+| bip_39_word_no_space_2 | flipleaf |  
+| bip_39_word_no_space_3 | flipleafincrease |  
+| bip_39_word_no_space_4 | flipleafincreasecritic |  
+| bip_39_word_no_space_5 | flipleafincreasecriticjuice |  
+| bip_39_word_no_space_6 | flipleafincreasecriticjuiceactor |  
+| bip_39_word_no_space_7 | flipleafincreasecriticjuiceactoroffer |  
+| bip_39_word_no_space_8 | flipleafincreasecriticjuiceactoroffersame |  
+| bip_39_word_no_space_9 | flipleafincreasecriticjuiceactoroffersameposition |  
 | bip_39_word_space_0 | ['flip', 'leaf', 'increase', 'critic', 'juice', 'actor', 'offer', 'same', 'position', 'boost', 'invest', 'arctic'] |  
 | bip_39_word_space_1 | flip |  
 | bip_39_word_space_10 | flip leaf increase critic juice actor offer same position boost |  

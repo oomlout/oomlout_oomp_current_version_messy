@@ -122,6 +122,18 @@ celery
 opera
 portion
 gaze |  
+| bip_39_word_no_space_1 | comfort |  
+| bip_39_word_no_space_10 | comfortpolesilktwentyjewelceleryoperaportiongazeanswer |  
+| bip_39_word_no_space_11 | comfortpolesilktwentyjewelceleryoperaportiongazeanswerdisorder |  
+| bip_39_word_no_space_12 | comfortpolesilktwentyjewelceleryoperaportiongazeanswerdisorderalarm |  
+| bip_39_word_no_space_2 | comfortpole |  
+| bip_39_word_no_space_3 | comfortpolesilk |  
+| bip_39_word_no_space_4 | comfortpolesilktwenty |  
+| bip_39_word_no_space_5 | comfortpolesilktwentyjewel |  
+| bip_39_word_no_space_6 | comfortpolesilktwentyjewelcelery |  
+| bip_39_word_no_space_7 | comfortpolesilktwentyjewelceleryopera |  
+| bip_39_word_no_space_8 | comfortpolesilktwentyjewelceleryoperaportion |  
+| bip_39_word_no_space_9 | comfortpolesilktwentyjewelceleryoperaportiongaze |  
 | bip_39_word_space_0 | ['comfort', 'pole', 'silk', 'twenty', 'jewel', 'celery', 'opera', 'portion', 'gaze', 'answer', 'disorder', 'alarm'] |  
 | bip_39_word_space_1 | comfort |  
 | bip_39_word_space_10 | comfort pole silk twenty jewel celery opera portion gaze answer |  

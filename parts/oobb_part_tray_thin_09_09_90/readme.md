@@ -122,6 +122,18 @@ embrace
 pelican
 interest
 dragon |  
+| bip_39_word_no_space_1 | resemble |  
+| bip_39_word_no_space_10 | resemblemeanliarneckfosterembracepelicaninterestdragonstick |  
+| bip_39_word_no_space_11 | resemblemeanliarneckfosterembracepelicaninterestdragonstickfloor |  
+| bip_39_word_no_space_12 | resemblemeanliarneckfosterembracepelicaninterestdragonstickflooramount |  
+| bip_39_word_no_space_2 | resemblemean |  
+| bip_39_word_no_space_3 | resemblemeanliar |  
+| bip_39_word_no_space_4 | resemblemeanliarneck |  
+| bip_39_word_no_space_5 | resemblemeanliarneckfoster |  
+| bip_39_word_no_space_6 | resemblemeanliarneckfosterembrace |  
+| bip_39_word_no_space_7 | resemblemeanliarneckfosterembracepelican |  
+| bip_39_word_no_space_8 | resemblemeanliarneckfosterembracepelicaninterest |  
+| bip_39_word_no_space_9 | resemblemeanliarneckfosterembracepelicaninterestdragon |  
 | bip_39_word_space_0 | ['resemble', 'mean', 'liar', 'neck', 'foster', 'embrace', 'pelican', 'interest', 'dragon', 'stick', 'floor', 'amount'] |  
 | bip_39_word_space_1 | resemble |  
 | bip_39_word_space_10 | resemble mean liar neck foster embrace pelican interest dragon stick |  

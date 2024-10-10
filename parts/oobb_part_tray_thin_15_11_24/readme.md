@@ -122,6 +122,18 @@ load
 icon
 dress
 accuse |  
+| bip_39_word_no_space_1 | length |  
+| bip_39_word_no_space_10 | lengthsilkdolphinviolintwelveloadicondressaccusethumb |  
+| bip_39_word_no_space_11 | lengthsilkdolphinviolintwelveloadicondressaccusethumbasthma |  
+| bip_39_word_no_space_12 | lengthsilkdolphinviolintwelveloadicondressaccusethumbasthmaartwork |  
+| bip_39_word_no_space_2 | lengthsilk |  
+| bip_39_word_no_space_3 | lengthsilkdolphin |  
+| bip_39_word_no_space_4 | lengthsilkdolphinviolin |  
+| bip_39_word_no_space_5 | lengthsilkdolphinviolintwelve |  
+| bip_39_word_no_space_6 | lengthsilkdolphinviolintwelveload |  
+| bip_39_word_no_space_7 | lengthsilkdolphinviolintwelveloadicon |  
+| bip_39_word_no_space_8 | lengthsilkdolphinviolintwelveloadicondress |  
+| bip_39_word_no_space_9 | lengthsilkdolphinviolintwelveloadicondressaccuse |  
 | bip_39_word_space_0 | ['length', 'silk', 'dolphin', 'violin', 'twelve', 'load', 'icon', 'dress', 'accuse', 'thumb', 'asthma', 'artwork'] |  
 | bip_39_word_space_1 | length |  
 | bip_39_word_space_10 | length silk dolphin violin twelve load icon dress accuse thumb |  

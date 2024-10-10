@@ -122,6 +122,18 @@ latin
 submit
 ginger
 tilt |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approvecongressclerksalutefixlatinsubmitgingertiltknow |  
+| bip_39_word_no_space_11 | approvecongressclerksalutefixlatinsubmitgingertiltknowmiss |  
+| bip_39_word_no_space_12 | approvecongressclerksalutefixlatinsubmitgingertiltknowmissadjust |  
+| bip_39_word_no_space_2 | approvecongress |  
+| bip_39_word_no_space_3 | approvecongressclerk |  
+| bip_39_word_no_space_4 | approvecongressclerksalute |  
+| bip_39_word_no_space_5 | approvecongressclerksalutefix |  
+| bip_39_word_no_space_6 | approvecongressclerksalutefixlatin |  
+| bip_39_word_no_space_7 | approvecongressclerksalutefixlatinsubmit |  
+| bip_39_word_no_space_8 | approvecongressclerksalutefixlatinsubmitginger |  
+| bip_39_word_no_space_9 | approvecongressclerksalutefixlatinsubmitgingertilt |  
 | bip_39_word_space_0 | ['approve', 'congress', 'clerk', 'salute', 'fix', 'latin', 'submit', 'ginger', 'tilt', 'know', 'miss', 'adjust'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve congress clerk salute fix latin submit ginger tilt know |  

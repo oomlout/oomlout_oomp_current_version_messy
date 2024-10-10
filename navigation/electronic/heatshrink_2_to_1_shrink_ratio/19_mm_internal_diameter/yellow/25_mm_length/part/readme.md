@@ -122,6 +122,18 @@ warm
 mail
 evoke
 claim |  
+| bip_39_word_no_space_1 | middle |  
+| bip_39_word_no_space_10 | middleceilingvanishoffvaguewarmmailevokeclaimrange |  
+| bip_39_word_no_space_11 | middleceilingvanishoffvaguewarmmailevokeclaimrangegrunt |  
+| bip_39_word_no_space_12 | middleceilingvanishoffvaguewarmmailevokeclaimrangegruntattract |  
+| bip_39_word_no_space_2 | middleceiling |  
+| bip_39_word_no_space_3 | middleceilingvanish |  
+| bip_39_word_no_space_4 | middleceilingvanishoff |  
+| bip_39_word_no_space_5 | middleceilingvanishoffvague |  
+| bip_39_word_no_space_6 | middleceilingvanishoffvaguewarm |  
+| bip_39_word_no_space_7 | middleceilingvanishoffvaguewarmmail |  
+| bip_39_word_no_space_8 | middleceilingvanishoffvaguewarmmailevoke |  
+| bip_39_word_no_space_9 | middleceilingvanishoffvaguewarmmailevokeclaim |  
 | bip_39_word_space_0 | ['middle', 'ceiling', 'vanish', 'off', 'vague', 'warm', 'mail', 'evoke', 'claim', 'range', 'grunt', 'attract'] |  
 | bip_39_word_space_1 | middle |  
 | bip_39_word_space_10 | middle ceiling vanish off vague warm mail evoke claim range |  

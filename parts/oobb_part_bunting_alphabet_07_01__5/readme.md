@@ -122,6 +122,18 @@ crowd
 small
 unlock
 west |  
+| bip_39_word_no_space_1 | chaos |  
+| bip_39_word_no_space_10 | chaosputscoutcurrentcancelcrowdsmallunlockwestworry |  
+| bip_39_word_no_space_11 | chaosputscoutcurrentcancelcrowdsmallunlockwestworrymango |  
+| bip_39_word_no_space_12 | chaosputscoutcurrentcancelcrowdsmallunlockwestworrymangoadvance |  
+| bip_39_word_no_space_2 | chaosput |  
+| bip_39_word_no_space_3 | chaosputscout |  
+| bip_39_word_no_space_4 | chaosputscoutcurrent |  
+| bip_39_word_no_space_5 | chaosputscoutcurrentcancel |  
+| bip_39_word_no_space_6 | chaosputscoutcurrentcancelcrowd |  
+| bip_39_word_no_space_7 | chaosputscoutcurrentcancelcrowdsmall |  
+| bip_39_word_no_space_8 | chaosputscoutcurrentcancelcrowdsmallunlock |  
+| bip_39_word_no_space_9 | chaosputscoutcurrentcancelcrowdsmallunlockwest |  
 | bip_39_word_space_0 | ['chaos', 'put', 'scout', 'current', 'cancel', 'crowd', 'small', 'unlock', 'west', 'worry', 'mango', 'advance'] |  
 | bip_39_word_space_1 | chaos |  
 | bip_39_word_space_10 | chaos put scout current cancel crowd small unlock west worry |  

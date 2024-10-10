@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wasp
   swamp
 
   size'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspfrequentidledietseawaitringswampsizehint
+bip_39_word_no_space_11: waspfrequentidledietseawaitringswampsizehintpole
+bip_39_word_no_space_12: waspfrequentidledietseawaitringswampsizehintpolearmy
+bip_39_word_no_space_2: waspfrequent
+bip_39_word_no_space_3: waspfrequentidle
+bip_39_word_no_space_4: waspfrequentidlediet
+bip_39_word_no_space_5: waspfrequentidledietsea
+bip_39_word_no_space_6: waspfrequentidledietseawait
+bip_39_word_no_space_7: waspfrequentidledietseawaitring
+bip_39_word_no_space_8: waspfrequentidledietseawaitringswamp
+bip_39_word_no_space_9: waspfrequentidledietseawaitringswampsize
 bip_39_word_space_0:
 - wasp
 - frequent

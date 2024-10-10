@@ -122,6 +122,18 @@ copper
 similar
 betray
 color |  
+| bip_39_word_no_space_1 | goose |  
+| bip_39_word_no_space_10 | gooseorientreportblindclaimcoppersimilarbetraycolorpair |  
+| bip_39_word_no_space_11 | gooseorientreportblindclaimcoppersimilarbetraycolorpaircopy |  
+| bip_39_word_no_space_12 | gooseorientreportblindclaimcoppersimilarbetraycolorpaircopyanalyst |  
+| bip_39_word_no_space_2 | gooseorient |  
+| bip_39_word_no_space_3 | gooseorientreport |  
+| bip_39_word_no_space_4 | gooseorientreportblind |  
+| bip_39_word_no_space_5 | gooseorientreportblindclaim |  
+| bip_39_word_no_space_6 | gooseorientreportblindclaimcopper |  
+| bip_39_word_no_space_7 | gooseorientreportblindclaimcoppersimilar |  
+| bip_39_word_no_space_8 | gooseorientreportblindclaimcoppersimilarbetray |  
+| bip_39_word_no_space_9 | gooseorientreportblindclaimcoppersimilarbetraycolor |  
 | bip_39_word_space_0 | ['goose', 'orient', 'report', 'blind', 'claim', 'copper', 'similar', 'betray', 'color', 'pair', 'copy', 'analyst'] |  
 | bip_39_word_space_1 | goose |  
 | bip_39_word_space_10 | goose orient report blind claim copper similar betray color pair |  

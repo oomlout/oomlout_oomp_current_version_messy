@@ -122,6 +122,18 @@ improve
 output
 sun
 galaxy |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | providetotaldigitaloneordinaryimproveoutputsungalaxytunnel |  
+| bip_39_word_no_space_11 | providetotaldigitaloneordinaryimproveoutputsungalaxytunnelgrocery |  
+| bip_39_word_no_space_12 | providetotaldigitaloneordinaryimproveoutputsungalaxytunnelgroceryacquire |  
+| bip_39_word_no_space_2 | providetotal |  
+| bip_39_word_no_space_3 | providetotaldigital |  
+| bip_39_word_no_space_4 | providetotaldigitalone |  
+| bip_39_word_no_space_5 | providetotaldigitaloneordinary |  
+| bip_39_word_no_space_6 | providetotaldigitaloneordinaryimprove |  
+| bip_39_word_no_space_7 | providetotaldigitaloneordinaryimproveoutput |  
+| bip_39_word_no_space_8 | providetotaldigitaloneordinaryimproveoutputsun |  
+| bip_39_word_no_space_9 | providetotaldigitaloneordinaryimproveoutputsungalaxy |  
 | bip_39_word_space_0 | ['provide', 'total', 'digital', 'one', 'ordinary', 'improve', 'output', 'sun', 'galaxy', 'tunnel', 'grocery', 'acquire'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide total digital one ordinary improve output sun galaxy tunnel |  

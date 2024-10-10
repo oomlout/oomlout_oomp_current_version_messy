@@ -122,6 +122,18 @@ weasel
 auction
 science
 elite |  
+| bip_39_word_no_space_1 | nasty |  
+| bip_39_word_no_space_10 | nastydropbeforesessioncombineweaselauctionscienceelitenormal |  
+| bip_39_word_no_space_11 | nastydropbeforesessioncombineweaselauctionscienceelitenormalsand |  
+| bip_39_word_no_space_12 | nastydropbeforesessioncombineweaselauctionscienceelitenormalsandaround |  
+| bip_39_word_no_space_2 | nastydrop |  
+| bip_39_word_no_space_3 | nastydropbefore |  
+| bip_39_word_no_space_4 | nastydropbeforesession |  
+| bip_39_word_no_space_5 | nastydropbeforesessioncombine |  
+| bip_39_word_no_space_6 | nastydropbeforesessioncombineweasel |  
+| bip_39_word_no_space_7 | nastydropbeforesessioncombineweaselauction |  
+| bip_39_word_no_space_8 | nastydropbeforesessioncombineweaselauctionscience |  
+| bip_39_word_no_space_9 | nastydropbeforesessioncombineweaselauctionscienceelite |  
 | bip_39_word_space_0 | ['nasty', 'drop', 'before', 'session', 'combine', 'weasel', 'auction', 'science', 'elite', 'normal', 'sand', 'around'] |  
 | bip_39_word_space_1 | nasty |  
 | bip_39_word_space_10 | nasty drop before session combine weasel auction science elite normal |  

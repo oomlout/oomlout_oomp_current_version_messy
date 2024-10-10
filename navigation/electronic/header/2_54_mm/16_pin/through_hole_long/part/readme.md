@@ -122,6 +122,18 @@ atom
 disease
 spawn
 animal |  
+| bip_39_word_no_space_1 | ranch |  
+| bip_39_word_no_space_10 | ranchelbowrequiresixstairsatomdiseasespawnanimalreject |  
+| bip_39_word_no_space_11 | ranchelbowrequiresixstairsatomdiseasespawnanimalrejectupper |  
+| bip_39_word_no_space_12 | ranchelbowrequiresixstairsatomdiseasespawnanimalrejectupperartwork |  
+| bip_39_word_no_space_2 | ranchelbow |  
+| bip_39_word_no_space_3 | ranchelbowrequire |  
+| bip_39_word_no_space_4 | ranchelbowrequiresix |  
+| bip_39_word_no_space_5 | ranchelbowrequiresixstairs |  
+| bip_39_word_no_space_6 | ranchelbowrequiresixstairsatom |  
+| bip_39_word_no_space_7 | ranchelbowrequiresixstairsatomdisease |  
+| bip_39_word_no_space_8 | ranchelbowrequiresixstairsatomdiseasespawn |  
+| bip_39_word_no_space_9 | ranchelbowrequiresixstairsatomdiseasespawnanimal |  
 | bip_39_word_space_0 | ['ranch', 'elbow', 'require', 'six', 'stairs', 'atom', 'disease', 'spawn', 'animal', 'reject', 'upper', 'artwork'] |  
 | bip_39_word_space_1 | ranch |  
 | bip_39_word_space_10 | ranch elbow require six stairs atom disease spawn animal reject |  

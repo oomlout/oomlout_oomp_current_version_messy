@@ -122,6 +122,18 @@ perfect
 ignore
 warfare
 reject |  
+| bip_39_word_no_space_1 | flame |  
+| bip_39_word_no_space_10 | flameathletecertainoptionarrangeperfectignorewarfarerejectremain |  
+| bip_39_word_no_space_11 | flameathletecertainoptionarrangeperfectignorewarfarerejectremainwrestle |  
+| bip_39_word_no_space_12 | flameathletecertainoptionarrangeperfectignorewarfarerejectremainwrestleavocado |  
+| bip_39_word_no_space_2 | flameathlete |  
+| bip_39_word_no_space_3 | flameathletecertain |  
+| bip_39_word_no_space_4 | flameathletecertainoption |  
+| bip_39_word_no_space_5 | flameathletecertainoptionarrange |  
+| bip_39_word_no_space_6 | flameathletecertainoptionarrangeperfect |  
+| bip_39_word_no_space_7 | flameathletecertainoptionarrangeperfectignore |  
+| bip_39_word_no_space_8 | flameathletecertainoptionarrangeperfectignorewarfare |  
+| bip_39_word_no_space_9 | flameathletecertainoptionarrangeperfectignorewarfarereject |  
 | bip_39_word_space_0 | ['flame', 'athlete', 'certain', 'option', 'arrange', 'perfect', 'ignore', 'warfare', 'reject', 'remain', 'wrestle', 'avocado'] |  
 | bip_39_word_space_1 | flame |  
 | bip_39_word_space_10 | flame athlete certain option arrange perfect ignore warfare reject remain |  

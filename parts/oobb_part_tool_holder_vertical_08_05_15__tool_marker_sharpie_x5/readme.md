@@ -122,6 +122,18 @@ absorb
 giraffe
 later
 twelve |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thatbuzzrotatemagicbladeabsorbgiraffelatertwelveaccount |  
+| bip_39_word_no_space_11 | thatbuzzrotatemagicbladeabsorbgiraffelatertwelveaccountcause |  
+| bip_39_word_no_space_12 | thatbuzzrotatemagicbladeabsorbgiraffelatertwelveaccountcauseattend |  
+| bip_39_word_no_space_2 | thatbuzz |  
+| bip_39_word_no_space_3 | thatbuzzrotate |  
+| bip_39_word_no_space_4 | thatbuzzrotatemagic |  
+| bip_39_word_no_space_5 | thatbuzzrotatemagicblade |  
+| bip_39_word_no_space_6 | thatbuzzrotatemagicbladeabsorb |  
+| bip_39_word_no_space_7 | thatbuzzrotatemagicbladeabsorbgiraffe |  
+| bip_39_word_no_space_8 | thatbuzzrotatemagicbladeabsorbgiraffelater |  
+| bip_39_word_no_space_9 | thatbuzzrotatemagicbladeabsorbgiraffelatertwelve |  
 | bip_39_word_space_0 | ['that', 'buzz', 'rotate', 'magic', 'blade', 'absorb', 'giraffe', 'later', 'twelve', 'account', 'cause', 'attend'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that buzz rotate magic blade absorb giraffe later twelve account |  

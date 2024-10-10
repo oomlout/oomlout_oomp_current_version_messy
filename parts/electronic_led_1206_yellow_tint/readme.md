@@ -122,6 +122,18 @@ love
 art
 sick
 rotate |  
+| bip_39_word_no_space_1 | amazing |  
+| bip_39_word_no_space_10 | amazingallowwebnastyblessloveartsickrotatedolphin |  
+| bip_39_word_no_space_11 | amazingallowwebnastyblessloveartsickrotatedolphinmarriage |  
+| bip_39_word_no_space_12 | amazingallowwebnastyblessloveartsickrotatedolphinmarriageattract |  
+| bip_39_word_no_space_2 | amazingallow |  
+| bip_39_word_no_space_3 | amazingallowweb |  
+| bip_39_word_no_space_4 | amazingallowwebnasty |  
+| bip_39_word_no_space_5 | amazingallowwebnastybless |  
+| bip_39_word_no_space_6 | amazingallowwebnastyblesslove |  
+| bip_39_word_no_space_7 | amazingallowwebnastyblessloveart |  
+| bip_39_word_no_space_8 | amazingallowwebnastyblessloveartsick |  
+| bip_39_word_no_space_9 | amazingallowwebnastyblessloveartsickrotate |  
 | bip_39_word_space_0 | ['amazing', 'allow', 'web', 'nasty', 'bless', 'love', 'art', 'sick', 'rotate', 'dolphin', 'marriage', 'attract'] |  
 | bip_39_word_space_1 | amazing |  
 | bip_39_word_space_10 | amazing allow web nasty bless love art sick rotate dolphin |  

@@ -122,6 +122,18 @@ genius
 danger
 stumble
 calm |  
+| bip_39_word_no_space_1 | other |  
+| bip_39_word_no_space_10 | otherpathcancelprimarysensegeniusdangerstumblecalmunit |  
+| bip_39_word_no_space_11 | otherpathcancelprimarysensegeniusdangerstumblecalmunitmaze |  
+| bip_39_word_no_space_12 | otherpathcancelprimarysensegeniusdangerstumblecalmunitmazeagent |  
+| bip_39_word_no_space_2 | otherpath |  
+| bip_39_word_no_space_3 | otherpathcancel |  
+| bip_39_word_no_space_4 | otherpathcancelprimary |  
+| bip_39_word_no_space_5 | otherpathcancelprimarysense |  
+| bip_39_word_no_space_6 | otherpathcancelprimarysensegenius |  
+| bip_39_word_no_space_7 | otherpathcancelprimarysensegeniusdanger |  
+| bip_39_word_no_space_8 | otherpathcancelprimarysensegeniusdangerstumble |  
+| bip_39_word_no_space_9 | otherpathcancelprimarysensegeniusdangerstumblecalm |  
 | bip_39_word_space_0 | ['other', 'path', 'cancel', 'primary', 'sense', 'genius', 'danger', 'stumble', 'calm', 'unit', 'maze', 'agent'] |  
 | bip_39_word_space_1 | other |  
 | bip_39_word_space_10 | other path cancel primary sense genius danger stumble calm unit |  

@@ -122,6 +122,18 @@ illness
 swallow
 gym
 scan |  
+| bip_39_word_no_space_1 | agree |  
+| bip_39_word_no_space_10 | agreevalidsodaunfairgiggleillnessswallowgymscanten |  
+| bip_39_word_no_space_11 | agreevalidsodaunfairgiggleillnessswallowgymscantenflush |  
+| bip_39_word_no_space_12 | agreevalidsodaunfairgiggleillnessswallowgymscantenflushabsent |  
+| bip_39_word_no_space_2 | agreevalid |  
+| bip_39_word_no_space_3 | agreevalidsoda |  
+| bip_39_word_no_space_4 | agreevalidsodaunfair |  
+| bip_39_word_no_space_5 | agreevalidsodaunfairgiggle |  
+| bip_39_word_no_space_6 | agreevalidsodaunfairgiggleillness |  
+| bip_39_word_no_space_7 | agreevalidsodaunfairgiggleillnessswallow |  
+| bip_39_word_no_space_8 | agreevalidsodaunfairgiggleillnessswallowgym |  
+| bip_39_word_no_space_9 | agreevalidsodaunfairgiggleillnessswallowgymscan |  
 | bip_39_word_space_0 | ['agree', 'valid', 'soda', 'unfair', 'giggle', 'illness', 'swallow', 'gym', 'scan', 'ten', 'flush', 'absent'] |  
 | bip_39_word_space_1 | agree |  
 | bip_39_word_space_10 | agree valid soda unfair giggle illness swallow gym scan ten |  

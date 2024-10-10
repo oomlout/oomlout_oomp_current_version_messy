@@ -122,6 +122,18 @@ autumn
 tattoo
 first
 side |  
+| bip_39_word_no_space_1 | certain |  
+| bip_39_word_no_space_10 | certainmoveenforcehockeydenialautumntattoofirstsideweather |  
+| bip_39_word_no_space_11 | certainmoveenforcehockeydenialautumntattoofirstsideweatherspeed |  
+| bip_39_word_no_space_12 | certainmoveenforcehockeydenialautumntattoofirstsideweatherspeedacid |  
+| bip_39_word_no_space_2 | certainmove |  
+| bip_39_word_no_space_3 | certainmoveenforce |  
+| bip_39_word_no_space_4 | certainmoveenforcehockey |  
+| bip_39_word_no_space_5 | certainmoveenforcehockeydenial |  
+| bip_39_word_no_space_6 | certainmoveenforcehockeydenialautumn |  
+| bip_39_word_no_space_7 | certainmoveenforcehockeydenialautumntattoo |  
+| bip_39_word_no_space_8 | certainmoveenforcehockeydenialautumntattoofirst |  
+| bip_39_word_no_space_9 | certainmoveenforcehockeydenialautumntattoofirstside |  
 | bip_39_word_space_0 | ['certain', 'move', 'enforce', 'hockey', 'denial', 'autumn', 'tattoo', 'first', 'side', 'weather', 'speed', 'acid'] |  
 | bip_39_word_space_1 | certain |  
 | bip_39_word_space_10 | certain move enforce hockey denial autumn tattoo first side weather |  

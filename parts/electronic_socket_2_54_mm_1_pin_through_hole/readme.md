@@ -122,6 +122,18 @@ prevent
 false
 cram
 amount |  
+| bip_39_word_no_space_1 | own |  
+| bip_39_word_no_space_10 | ownmiseryprettyageweaponpreventfalsecramamountmerit |  
+| bip_39_word_no_space_11 | ownmiseryprettyageweaponpreventfalsecramamountmeritshrug |  
+| bip_39_word_no_space_12 | ownmiseryprettyageweaponpreventfalsecramamountmeritshrugavocado |  
+| bip_39_word_no_space_2 | ownmisery |  
+| bip_39_word_no_space_3 | ownmiserypretty |  
+| bip_39_word_no_space_4 | ownmiseryprettyage |  
+| bip_39_word_no_space_5 | ownmiseryprettyageweapon |  
+| bip_39_word_no_space_6 | ownmiseryprettyageweaponprevent |  
+| bip_39_word_no_space_7 | ownmiseryprettyageweaponpreventfalse |  
+| bip_39_word_no_space_8 | ownmiseryprettyageweaponpreventfalsecram |  
+| bip_39_word_no_space_9 | ownmiseryprettyageweaponpreventfalsecramamount |  
 | bip_39_word_space_0 | ['own', 'misery', 'pretty', 'age', 'weapon', 'prevent', 'false', 'cram', 'amount', 'merit', 'shrug', 'avocado'] |  
 | bip_39_word_space_1 | own |  
 | bip_39_word_space_10 | own misery pretty age weapon prevent false cram amount merit |  

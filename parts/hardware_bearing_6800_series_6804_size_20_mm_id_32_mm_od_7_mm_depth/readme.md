@@ -122,6 +122,18 @@ normal
 switch
 fire
 because |  
+| bip_39_word_no_space_1 | gauge |  
+| bip_39_word_no_space_10 | gaugepondevolvelibraryroyalnormalswitchfirebecauseoblige |  
+| bip_39_word_no_space_11 | gaugepondevolvelibraryroyalnormalswitchfirebecauseobligeeast |  
+| bip_39_word_no_space_12 | gaugepondevolvelibraryroyalnormalswitchfirebecauseobligeeastaction |  
+| bip_39_word_no_space_2 | gaugepond |  
+| bip_39_word_no_space_3 | gaugepondevolve |  
+| bip_39_word_no_space_4 | gaugepondevolvelibrary |  
+| bip_39_word_no_space_5 | gaugepondevolvelibraryroyal |  
+| bip_39_word_no_space_6 | gaugepondevolvelibraryroyalnormal |  
+| bip_39_word_no_space_7 | gaugepondevolvelibraryroyalnormalswitch |  
+| bip_39_word_no_space_8 | gaugepondevolvelibraryroyalnormalswitchfire |  
+| bip_39_word_no_space_9 | gaugepondevolvelibraryroyalnormalswitchfirebecause |  
 | bip_39_word_space_0 | ['gauge', 'pond', 'evolve', 'library', 'royal', 'normal', 'switch', 'fire', 'because', 'oblige', 'east', 'action'] |  
 | bip_39_word_space_1 | gauge |  
 | bip_39_word_space_10 | gauge pond evolve library royal normal switch fire because oblige |  

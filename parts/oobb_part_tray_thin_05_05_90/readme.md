@@ -122,6 +122,18 @@ spin
 anxiety
 avocado
 muscle |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospeldescribepondglobecleanspinanxietyavocadomusclecontrol |  
+| bip_39_word_no_space_11 | gospeldescribepondglobecleanspinanxietyavocadomusclecontrolremove |  
+| bip_39_word_no_space_12 | gospeldescribepondglobecleanspinanxietyavocadomusclecontrolremovealbum |  
+| bip_39_word_no_space_2 | gospeldescribe |  
+| bip_39_word_no_space_3 | gospeldescribepond |  
+| bip_39_word_no_space_4 | gospeldescribepondglobe |  
+| bip_39_word_no_space_5 | gospeldescribepondglobeclean |  
+| bip_39_word_no_space_6 | gospeldescribepondglobecleanspin |  
+| bip_39_word_no_space_7 | gospeldescribepondglobecleanspinanxiety |  
+| bip_39_word_no_space_8 | gospeldescribepondglobecleanspinanxietyavocado |  
+| bip_39_word_no_space_9 | gospeldescribepondglobecleanspinanxietyavocadomuscle |  
 | bip_39_word_space_0 | ['gospel', 'describe', 'pond', 'globe', 'clean', 'spin', 'anxiety', 'avocado', 'muscle', 'control', 'remove', 'album'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel describe pond globe clean spin anxiety avocado muscle control |  

@@ -122,6 +122,18 @@ patient
 material
 lab
 reform |  
+| bip_39_word_no_space_1 | bonus |  
+| bip_39_word_no_space_10 | bonusprivatedecreasetogetherschemepatientmateriallabreformtortoise |  
+| bip_39_word_no_space_11 | bonusprivatedecreasetogetherschemepatientmateriallabreformtortoiseleisure |  
+| bip_39_word_no_space_12 | bonusprivatedecreasetogetherschemepatientmateriallabreformtortoiseleisurealpha |  
+| bip_39_word_no_space_2 | bonusprivate |  
+| bip_39_word_no_space_3 | bonusprivatedecrease |  
+| bip_39_word_no_space_4 | bonusprivatedecreasetogether |  
+| bip_39_word_no_space_5 | bonusprivatedecreasetogetherscheme |  
+| bip_39_word_no_space_6 | bonusprivatedecreasetogetherschemepatient |  
+| bip_39_word_no_space_7 | bonusprivatedecreasetogetherschemepatientmaterial |  
+| bip_39_word_no_space_8 | bonusprivatedecreasetogetherschemepatientmateriallab |  
+| bip_39_word_no_space_9 | bonusprivatedecreasetogetherschemepatientmateriallabreform |  
 | bip_39_word_space_0 | ['bonus', 'private', 'decrease', 'together', 'scheme', 'patient', 'material', 'lab', 'reform', 'tortoise', 'leisure', 'alpha'] |  
 | bip_39_word_space_1 | bonus |  
 | bip_39_word_space_10 | bonus private decrease together scheme patient material lab reform tortoise |  

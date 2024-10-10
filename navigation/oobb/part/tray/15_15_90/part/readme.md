@@ -122,6 +122,18 @@ rifle
 cherry
 you
 way |  
+| bip_39_word_no_space_1 | blame |  
+| bip_39_word_no_space_10 | blameriverbuzzslabbounceriflecherryyouwaycrouch |  
+| bip_39_word_no_space_11 | blameriverbuzzslabbounceriflecherryyouwaycrouchsong |  
+| bip_39_word_no_space_12 | blameriverbuzzslabbounceriflecherryyouwaycrouchsongallow |  
+| bip_39_word_no_space_2 | blameriver |  
+| bip_39_word_no_space_3 | blameriverbuzz |  
+| bip_39_word_no_space_4 | blameriverbuzzslab |  
+| bip_39_word_no_space_5 | blameriverbuzzslabbounce |  
+| bip_39_word_no_space_6 | blameriverbuzzslabbouncerifle |  
+| bip_39_word_no_space_7 | blameriverbuzzslabbounceriflecherry |  
+| bip_39_word_no_space_8 | blameriverbuzzslabbounceriflecherryyou |  
+| bip_39_word_no_space_9 | blameriverbuzzslabbounceriflecherryyouway |  
 | bip_39_word_space_0 | ['blame', 'river', 'buzz', 'slab', 'bounce', 'rifle', 'cherry', 'you', 'way', 'crouch', 'song', 'allow'] |  
 | bip_39_word_space_1 | blame |  
 | bip_39_word_space_10 | blame river buzz slab bounce rifle cherry you way crouch |  

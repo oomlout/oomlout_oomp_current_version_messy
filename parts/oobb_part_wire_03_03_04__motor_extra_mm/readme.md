@@ -109,6 +109,17 @@ glass
 rival
 broccoli
 interest |  
+| bip_39_word_no_space_1 | circle |  
+| bip_39_word_no_space_10 | circlesaltblindhalfdoveglassrivalbroccoliinterestpyramid |  
+| bip_39_word_no_space_11 | circlesaltblindhalfdoveglassrivalbroccoliinterestpyramidvisit |  
+| bip_39_word_no_space_2 | circlesalt |  
+| bip_39_word_no_space_3 | circlesaltblind |  
+| bip_39_word_no_space_4 | circlesaltblindhalf |  
+| bip_39_word_no_space_5 | circlesaltblindhalfdove |  
+| bip_39_word_no_space_6 | circlesaltblindhalfdoveglass |  
+| bip_39_word_no_space_7 | circlesaltblindhalfdoveglassrival |  
+| bip_39_word_no_space_8 | circlesaltblindhalfdoveglassrivalbroccoli |  
+| bip_39_word_no_space_9 | circlesaltblindhalfdoveglassrivalbroccoliinterest |  
 | bip_39_word_space_0 | ['circle', 'salt', 'blind', 'half', 'dove', 'glass', 'rival', 'broccoli', 'interest', 'pyramid', 'visit'] |  
 | bip_39_word_space_1 | circle |  
 | bip_39_word_space_10 | circle salt blind half dove glass rival broccoli interest pyramid |  

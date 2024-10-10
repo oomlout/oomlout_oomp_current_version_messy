@@ -122,6 +122,18 @@ rare
 vivid
 coral
 axis |  
+| bip_39_word_no_space_1 | game |  
+| bip_39_word_no_space_10 | gamewarfarereliefcoupleshaftrarevividcoralaxislittle |  
+| bip_39_word_no_space_11 | gamewarfarereliefcoupleshaftrarevividcoralaxislittlespace |  
+| bip_39_word_no_space_12 | gamewarfarereliefcoupleshaftrarevividcoralaxislittlespaceability |  
+| bip_39_word_no_space_2 | gamewarfare |  
+| bip_39_word_no_space_3 | gamewarfarerelief |  
+| bip_39_word_no_space_4 | gamewarfarereliefcouple |  
+| bip_39_word_no_space_5 | gamewarfarereliefcoupleshaft |  
+| bip_39_word_no_space_6 | gamewarfarereliefcoupleshaftrare |  
+| bip_39_word_no_space_7 | gamewarfarereliefcoupleshaftrarevivid |  
+| bip_39_word_no_space_8 | gamewarfarereliefcoupleshaftrarevividcoral |  
+| bip_39_word_no_space_9 | gamewarfarereliefcoupleshaftrarevividcoralaxis |  
 | bip_39_word_space_0 | ['game', 'warfare', 'relief', 'couple', 'shaft', 'rare', 'vivid', 'coral', 'axis', 'little', 'space', 'ability'] |  
 | bip_39_word_space_1 | game |  
 | bip_39_word_space_10 | game warfare relief couple shaft rare vivid coral axis little |  

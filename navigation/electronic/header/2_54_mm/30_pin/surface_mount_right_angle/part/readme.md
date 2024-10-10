@@ -122,6 +122,18 @@ mechanic
 faculty
 certain
 mother |  
+| bip_39_word_no_space_1 | sad |  
+| bip_39_word_no_space_10 | sadfancyantennamargincraftmechanicfacultycertainmotherfield |  
+| bip_39_word_no_space_11 | sadfancyantennamargincraftmechanicfacultycertainmotherfieldlabel |  
+| bip_39_word_no_space_12 | sadfancyantennamargincraftmechanicfacultycertainmotherfieldlabelapprove |  
+| bip_39_word_no_space_2 | sadfancy |  
+| bip_39_word_no_space_3 | sadfancyantenna |  
+| bip_39_word_no_space_4 | sadfancyantennamargin |  
+| bip_39_word_no_space_5 | sadfancyantennamargincraft |  
+| bip_39_word_no_space_6 | sadfancyantennamargincraftmechanic |  
+| bip_39_word_no_space_7 | sadfancyantennamargincraftmechanicfaculty |  
+| bip_39_word_no_space_8 | sadfancyantennamargincraftmechanicfacultycertain |  
+| bip_39_word_no_space_9 | sadfancyantennamargincraftmechanicfacultycertainmother |  
 | bip_39_word_space_0 | ['sad', 'fancy', 'antenna', 'margin', 'craft', 'mechanic', 'faculty', 'certain', 'mother', 'field', 'label', 'approve'] |  
 | bip_39_word_space_1 | sad |  
 | bip_39_word_space_10 | sad fancy antenna margin craft mechanic faculty certain mother field |  

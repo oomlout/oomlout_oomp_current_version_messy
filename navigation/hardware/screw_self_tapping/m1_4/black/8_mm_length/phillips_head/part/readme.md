@@ -122,6 +122,18 @@ copper
 seek
 ice
 book |  
+| bip_39_word_no_space_1 | cost |  
+| bip_39_word_no_space_10 | costtunneltidecoursedaycopperseekicebookstaff |  
+| bip_39_word_no_space_11 | costtunneltidecoursedaycopperseekicebookstaffnever |  
+| bip_39_word_no_space_12 | costtunneltidecoursedaycopperseekicebookstaffneverattack |  
+| bip_39_word_no_space_2 | costtunnel |  
+| bip_39_word_no_space_3 | costtunneltide |  
+| bip_39_word_no_space_4 | costtunneltidecourse |  
+| bip_39_word_no_space_5 | costtunneltidecourseday |  
+| bip_39_word_no_space_6 | costtunneltidecoursedaycopper |  
+| bip_39_word_no_space_7 | costtunneltidecoursedaycopperseek |  
+| bip_39_word_no_space_8 | costtunneltidecoursedaycopperseekice |  
+| bip_39_word_no_space_9 | costtunneltidecoursedaycopperseekicebook |  
 | bip_39_word_space_0 | ['cost', 'tunnel', 'tide', 'course', 'day', 'copper', 'seek', 'ice', 'book', 'staff', 'never', 'attack'] |  
 | bip_39_word_space_1 | cost |  
 | bip_39_word_space_10 | cost tunnel tide course day copper seek ice book staff |  

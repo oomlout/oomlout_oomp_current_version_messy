@@ -122,6 +122,18 @@ cinnamon
 general
 route
 warm |  
+| bip_39_word_no_space_1 | visa |  
+| bip_39_word_no_space_10 | visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchapter |  
+| bip_39_word_no_space_11 | visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchaptermaster |  
+| bip_39_word_no_space_12 | visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchaptermasteractor |  
+| bip_39_word_no_space_2 | visaflight |  
+| bip_39_word_no_space_3 | visaflightbracket |  
+| bip_39_word_no_space_4 | visaflightbracketuniverse |  
+| bip_39_word_no_space_5 | visaflightbracketuniverseoutdoor |  
+| bip_39_word_no_space_6 | visaflightbracketuniverseoutdoorcinnamon |  
+| bip_39_word_no_space_7 | visaflightbracketuniverseoutdoorcinnamongeneral |  
+| bip_39_word_no_space_8 | visaflightbracketuniverseoutdoorcinnamongeneralroute |  
+| bip_39_word_no_space_9 | visaflightbracketuniverseoutdoorcinnamongeneralroutewarm |  
 | bip_39_word_space_0 | ['visa', 'flight', 'bracket', 'universe', 'outdoor', 'cinnamon', 'general', 'route', 'warm', 'chapter', 'master', 'actor'] |  
 | bip_39_word_space_1 | visa |  
 | bip_39_word_space_10 | visa flight bracket universe outdoor cinnamon general route warm chapter |  

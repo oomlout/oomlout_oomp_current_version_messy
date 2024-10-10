@@ -122,6 +122,18 @@ divert
 hard
 pattern
 half |  
+| bip_39_word_no_space_1 | cruel |  
+| bip_39_word_no_space_10 | cruelallgiftstereojoindiverthardpatternhalfclown |  
+| bip_39_word_no_space_11 | cruelallgiftstereojoindiverthardpatternhalfclownjourney |  
+| bip_39_word_no_space_12 | cruelallgiftstereojoindiverthardpatternhalfclownjourneyadvice |  
+| bip_39_word_no_space_2 | cruelall |  
+| bip_39_word_no_space_3 | cruelallgift |  
+| bip_39_word_no_space_4 | cruelallgiftstereo |  
+| bip_39_word_no_space_5 | cruelallgiftstereojoin |  
+| bip_39_word_no_space_6 | cruelallgiftstereojoindivert |  
+| bip_39_word_no_space_7 | cruelallgiftstereojoindiverthard |  
+| bip_39_word_no_space_8 | cruelallgiftstereojoindiverthardpattern |  
+| bip_39_word_no_space_9 | cruelallgiftstereojoindiverthardpatternhalf |  
 | bip_39_word_space_0 | ['cruel', 'all', 'gift', 'stereo', 'join', 'divert', 'hard', 'pattern', 'half', 'clown', 'journey', 'advice'] |  
 | bip_39_word_space_1 | cruel |  
 | bip_39_word_space_10 | cruel all gift stereo join divert hard pattern half clown |  

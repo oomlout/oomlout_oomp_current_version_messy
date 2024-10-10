@@ -122,6 +122,18 @@ giggle
 tone
 pause
 sense |  
+| bip_39_word_no_space_1 | problem |  
+| bip_39_word_no_space_10 | problemdietshrugdividemarblegiggletonepausesenseoutside |  
+| bip_39_word_no_space_11 | problemdietshrugdividemarblegiggletonepausesenseoutsidecasual |  
+| bip_39_word_no_space_12 | problemdietshrugdividemarblegiggletonepausesenseoutsidecasualafraid |  
+| bip_39_word_no_space_2 | problemdiet |  
+| bip_39_word_no_space_3 | problemdietshrug |  
+| bip_39_word_no_space_4 | problemdietshrugdivide |  
+| bip_39_word_no_space_5 | problemdietshrugdividemarble |  
+| bip_39_word_no_space_6 | problemdietshrugdividemarblegiggle |  
+| bip_39_word_no_space_7 | problemdietshrugdividemarblegiggletone |  
+| bip_39_word_no_space_8 | problemdietshrugdividemarblegiggletonepause |  
+| bip_39_word_no_space_9 | problemdietshrugdividemarblegiggletonepausesense |  
 | bip_39_word_space_0 | ['problem', 'diet', 'shrug', 'divide', 'marble', 'giggle', 'tone', 'pause', 'sense', 'outside', 'casual', 'afraid'] |  
 | bip_39_word_space_1 | problem |  
 | bip_39_word_space_10 | problem diet shrug divide marble giggle tone pause sense outside |  

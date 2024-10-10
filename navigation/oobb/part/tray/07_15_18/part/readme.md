@@ -122,6 +122,18 @@ lecture
 undo
 correct
 please |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenwheelranchmenuexactlectureundocorrectpleasemeat |  
+| bip_39_word_no_space_11 | oftenwheelranchmenuexactlectureundocorrectpleasemeatanswer |  
+| bip_39_word_no_space_12 | oftenwheelranchmenuexactlectureundocorrectpleasemeatanswerarea |  
+| bip_39_word_no_space_2 | oftenwheel |  
+| bip_39_word_no_space_3 | oftenwheelranch |  
+| bip_39_word_no_space_4 | oftenwheelranchmenu |  
+| bip_39_word_no_space_5 | oftenwheelranchmenuexact |  
+| bip_39_word_no_space_6 | oftenwheelranchmenuexactlecture |  
+| bip_39_word_no_space_7 | oftenwheelranchmenuexactlectureundo |  
+| bip_39_word_no_space_8 | oftenwheelranchmenuexactlectureundocorrect |  
+| bip_39_word_no_space_9 | oftenwheelranchmenuexactlectureundocorrectplease |  
 | bip_39_word_space_0 | ['often', 'wheel', 'ranch', 'menu', 'exact', 'lecture', 'undo', 'correct', 'please', 'meat', 'answer', 'area'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often wheel ranch menu exact lecture undo correct please meat |  

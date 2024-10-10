@@ -122,6 +122,18 @@ barrel
 august
 sniff
 home |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magicomitrebelfringetrophybarrelaugustsniffhomepunch |  
+| bip_39_word_no_space_11 | magicomitrebelfringetrophybarrelaugustsniffhomepunchflash |  
+| bip_39_word_no_space_12 | magicomitrebelfringetrophybarrelaugustsniffhomepunchflashaspect |  
+| bip_39_word_no_space_2 | magicomit |  
+| bip_39_word_no_space_3 | magicomitrebel |  
+| bip_39_word_no_space_4 | magicomitrebelfringe |  
+| bip_39_word_no_space_5 | magicomitrebelfringetrophy |  
+| bip_39_word_no_space_6 | magicomitrebelfringetrophybarrel |  
+| bip_39_word_no_space_7 | magicomitrebelfringetrophybarrelaugust |  
+| bip_39_word_no_space_8 | magicomitrebelfringetrophybarrelaugustsniff |  
+| bip_39_word_no_space_9 | magicomitrebelfringetrophybarrelaugustsniffhome |  
 | bip_39_word_space_0 | ['magic', 'omit', 'rebel', 'fringe', 'trophy', 'barrel', 'august', 'sniff', 'home', 'punch', 'flash', 'aspect'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic omit rebel fringe trophy barrel august sniff home punch |  

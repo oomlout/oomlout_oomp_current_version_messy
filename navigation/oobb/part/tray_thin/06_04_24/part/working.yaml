@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'powder
   floor
 
   clerk'
+bip_39_word_no_space_1: powder
+bip_39_word_no_space_10: powdercupenableshieldordinaryfoxrulefloorclerkvirus
+bip_39_word_no_space_11: powdercupenableshieldordinaryfoxrulefloorclerkvirusten
+bip_39_word_no_space_12: powdercupenableshieldordinaryfoxrulefloorclerkvirustenamong
+bip_39_word_no_space_2: powdercup
+bip_39_word_no_space_3: powdercupenable
+bip_39_word_no_space_4: powdercupenableshield
+bip_39_word_no_space_5: powdercupenableshieldordinary
+bip_39_word_no_space_6: powdercupenableshieldordinaryfox
+bip_39_word_no_space_7: powdercupenableshieldordinaryfoxrule
+bip_39_word_no_space_8: powdercupenableshieldordinaryfoxrulefloor
+bip_39_word_no_space_9: powdercupenableshieldordinaryfoxrulefloorclerk
 bip_39_word_space_0:
 - powder
 - cup

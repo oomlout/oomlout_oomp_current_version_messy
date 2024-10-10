@@ -122,6 +122,18 @@ creek
 tongue
 memory
 habit |  
+| bip_39_word_no_space_1 | toe |  
+| bip_39_word_no_space_10 | toenegativestonemorecliffcreektonguememoryhabitcool |  
+| bip_39_word_no_space_11 | toenegativestonemorecliffcreektonguememoryhabitcoolpath |  
+| bip_39_word_no_space_12 | toenegativestonemorecliffcreektonguememoryhabitcoolpathaudit |  
+| bip_39_word_no_space_2 | toenegative |  
+| bip_39_word_no_space_3 | toenegativestone |  
+| bip_39_word_no_space_4 | toenegativestonemore |  
+| bip_39_word_no_space_5 | toenegativestonemorecliff |  
+| bip_39_word_no_space_6 | toenegativestonemorecliffcreek |  
+| bip_39_word_no_space_7 | toenegativestonemorecliffcreektongue |  
+| bip_39_word_no_space_8 | toenegativestonemorecliffcreektonguememory |  
+| bip_39_word_no_space_9 | toenegativestonemorecliffcreektonguememoryhabit |  
 | bip_39_word_space_0 | ['toe', 'negative', 'stone', 'more', 'cliff', 'creek', 'tongue', 'memory', 'habit', 'cool', 'path', 'audit'] |  
 | bip_39_word_space_1 | toe |  
 | bip_39_word_space_10 | toe negative stone more cliff creek tongue memory habit cool |  

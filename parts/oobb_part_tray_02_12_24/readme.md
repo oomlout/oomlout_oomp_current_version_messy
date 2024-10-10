@@ -122,6 +122,18 @@ design
 weapon
 document
 minimum |  
+| bip_39_word_no_space_1 | depart |  
+| bip_39_word_no_space_10 | departdrumcherrypledgeignoredesignweapondocumentminimumtrash |  
+| bip_39_word_no_space_11 | departdrumcherrypledgeignoredesignweapondocumentminimumtrashfavorite |  
+| bip_39_word_no_space_12 | departdrumcherrypledgeignoredesignweapondocumentminimumtrashfavoriteart |  
+| bip_39_word_no_space_2 | departdrum |  
+| bip_39_word_no_space_3 | departdrumcherry |  
+| bip_39_word_no_space_4 | departdrumcherrypledge |  
+| bip_39_word_no_space_5 | departdrumcherrypledgeignore |  
+| bip_39_word_no_space_6 | departdrumcherrypledgeignoredesign |  
+| bip_39_word_no_space_7 | departdrumcherrypledgeignoredesignweapon |  
+| bip_39_word_no_space_8 | departdrumcherrypledgeignoredesignweapondocument |  
+| bip_39_word_no_space_9 | departdrumcherrypledgeignoredesignweapondocumentminimum |  
 | bip_39_word_space_0 | ['depart', 'drum', 'cherry', 'pledge', 'ignore', 'design', 'weapon', 'document', 'minimum', 'trash', 'favorite', 'art'] |  
 | bip_39_word_space_1 | depart |  
 | bip_39_word_space_10 | depart drum cherry pledge ignore design weapon document minimum trash |  

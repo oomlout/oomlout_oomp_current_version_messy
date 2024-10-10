@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pause
   zone
 
   room'
+bip_39_word_no_space_1: pause
+bip_39_word_no_space_10: pausequotetreatwallblanketsocialtrashzoneroomcry
+bip_39_word_no_space_11: pausequotetreatwallblanketsocialtrashzoneroomcryapril
+bip_39_word_no_space_12: pausequotetreatwallblanketsocialtrashzoneroomcryaprilallow
+bip_39_word_no_space_2: pausequote
+bip_39_word_no_space_3: pausequotetreat
+bip_39_word_no_space_4: pausequotetreatwall
+bip_39_word_no_space_5: pausequotetreatwallblanket
+bip_39_word_no_space_6: pausequotetreatwallblanketsocial
+bip_39_word_no_space_7: pausequotetreatwallblanketsocialtrash
+bip_39_word_no_space_8: pausequotetreatwallblanketsocialtrashzone
+bip_39_word_no_space_9: pausequotetreatwallblanketsocialtrashzoneroom
 bip_39_word_space_0:
 - pause
 - quote

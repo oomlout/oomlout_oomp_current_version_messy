@@ -122,6 +122,18 @@ second
 avocado
 receive
 elephant |  
+| bip_39_word_no_space_1 | fee |  
+| bip_39_word_no_space_10 | feephotosuspectworthstadiumsecondavocadoreceiveelephantnetwork |  
+| bip_39_word_no_space_11 | feephotosuspectworthstadiumsecondavocadoreceiveelephantnetworktackle |  
+| bip_39_word_no_space_12 | feephotosuspectworthstadiumsecondavocadoreceiveelephantnetworktackleactress |  
+| bip_39_word_no_space_2 | feephoto |  
+| bip_39_word_no_space_3 | feephotosuspect |  
+| bip_39_word_no_space_4 | feephotosuspectworth |  
+| bip_39_word_no_space_5 | feephotosuspectworthstadium |  
+| bip_39_word_no_space_6 | feephotosuspectworthstadiumsecond |  
+| bip_39_word_no_space_7 | feephotosuspectworthstadiumsecondavocado |  
+| bip_39_word_no_space_8 | feephotosuspectworthstadiumsecondavocadoreceive |  
+| bip_39_word_no_space_9 | feephotosuspectworthstadiumsecondavocadoreceiveelephant |  
 | bip_39_word_space_0 | ['fee', 'photo', 'suspect', 'worth', 'stadium', 'second', 'avocado', 'receive', 'elephant', 'network', 'tackle', 'actress'] |  
 | bip_39_word_space_1 | fee |  
 | bip_39_word_space_10 | fee photo suspect worth stadium second avocado receive elephant network |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hire
   hotel
 
   wool'
+bip_39_word_no_space_1: hire
+bip_39_word_no_space_10: hiredieselfacultyjunkrequireprizeworthhotelwooldecide
+bip_39_word_no_space_11: hiredieselfacultyjunkrequireprizeworthhotelwooldecidecountry
+bip_39_word_no_space_12: hiredieselfacultyjunkrequireprizeworthhotelwooldecidecountryamused
+bip_39_word_no_space_2: hirediesel
+bip_39_word_no_space_3: hiredieselfaculty
+bip_39_word_no_space_4: hiredieselfacultyjunk
+bip_39_word_no_space_5: hiredieselfacultyjunkrequire
+bip_39_word_no_space_6: hiredieselfacultyjunkrequireprize
+bip_39_word_no_space_7: hiredieselfacultyjunkrequireprizeworth
+bip_39_word_no_space_8: hiredieselfacultyjunkrequireprizeworthhotel
+bip_39_word_no_space_9: hiredieselfacultyjunkrequireprizeworthhotelwool
 bip_39_word_space_0:
 - hire
 - diesel

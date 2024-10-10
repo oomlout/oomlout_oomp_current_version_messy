@@ -122,6 +122,18 @@ cloud
 kind
 since
 note |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitinnerimpacttwentysausagecloudkindsincenoteglow |  
+| bip_39_word_no_space_11 | limitinnerimpacttwentysausagecloudkindsincenoteglowtwice |  
+| bip_39_word_no_space_12 | limitinnerimpacttwentysausagecloudkindsincenoteglowtwiceanchor |  
+| bip_39_word_no_space_2 | limitinner |  
+| bip_39_word_no_space_3 | limitinnerimpact |  
+| bip_39_word_no_space_4 | limitinnerimpacttwenty |  
+| bip_39_word_no_space_5 | limitinnerimpacttwentysausage |  
+| bip_39_word_no_space_6 | limitinnerimpacttwentysausagecloud |  
+| bip_39_word_no_space_7 | limitinnerimpacttwentysausagecloudkind |  
+| bip_39_word_no_space_8 | limitinnerimpacttwentysausagecloudkindsince |  
+| bip_39_word_no_space_9 | limitinnerimpacttwentysausagecloudkindsincenote |  
 | bip_39_word_space_0 | ['limit', 'inner', 'impact', 'twenty', 'sausage', 'cloud', 'kind', 'since', 'note', 'glow', 'twice', 'anchor'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit inner impact twenty sausage cloud kind since note glow |  

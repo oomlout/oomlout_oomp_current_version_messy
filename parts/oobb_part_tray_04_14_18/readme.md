@@ -122,6 +122,18 @@ scene
 negative
 awkward
 rifle |  
+| bip_39_word_no_space_1 | profit |  
+| bip_39_word_no_space_10 | profitinjuryelbowperfectarrestscenenegativeawkwardrifleswear |  
+| bip_39_word_no_space_11 | profitinjuryelbowperfectarrestscenenegativeawkwardrifleswearmelody |  
+| bip_39_word_no_space_12 | profitinjuryelbowperfectarrestscenenegativeawkwardrifleswearmelodyalone |  
+| bip_39_word_no_space_2 | profitinjury |  
+| bip_39_word_no_space_3 | profitinjuryelbow |  
+| bip_39_word_no_space_4 | profitinjuryelbowperfect |  
+| bip_39_word_no_space_5 | profitinjuryelbowperfectarrest |  
+| bip_39_word_no_space_6 | profitinjuryelbowperfectarrestscene |  
+| bip_39_word_no_space_7 | profitinjuryelbowperfectarrestscenenegative |  
+| bip_39_word_no_space_8 | profitinjuryelbowperfectarrestscenenegativeawkward |  
+| bip_39_word_no_space_9 | profitinjuryelbowperfectarrestscenenegativeawkwardrifle |  
 | bip_39_word_space_0 | ['profit', 'injury', 'elbow', 'perfect', 'arrest', 'scene', 'negative', 'awkward', 'rifle', 'swear', 'melody', 'alone'] |  
 | bip_39_word_space_1 | profit |  
 | bip_39_word_space_10 | profit injury elbow perfect arrest scene negative awkward rifle swear |  

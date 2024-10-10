@@ -122,6 +122,18 @@ art
 globe
 naive
 undo |  
+| bip_39_word_no_space_1 | thank |  
+| bip_39_word_no_space_10 | thankcouplebelowtideminuteartglobenaiveundodefy |  
+| bip_39_word_no_space_11 | thankcouplebelowtideminuteartglobenaiveundodefyrude |  
+| bip_39_word_no_space_12 | thankcouplebelowtideminuteartglobenaiveundodefyrudeadjust |  
+| bip_39_word_no_space_2 | thankcouple |  
+| bip_39_word_no_space_3 | thankcouplebelow |  
+| bip_39_word_no_space_4 | thankcouplebelowtide |  
+| bip_39_word_no_space_5 | thankcouplebelowtideminute |  
+| bip_39_word_no_space_6 | thankcouplebelowtideminuteart |  
+| bip_39_word_no_space_7 | thankcouplebelowtideminuteartglobe |  
+| bip_39_word_no_space_8 | thankcouplebelowtideminuteartglobenaive |  
+| bip_39_word_no_space_9 | thankcouplebelowtideminuteartglobenaiveundo |  
 | bip_39_word_space_0 | ['thank', 'couple', 'below', 'tide', 'minute', 'art', 'globe', 'naive', 'undo', 'defy', 'rude', 'adjust'] |  
 | bip_39_word_space_1 | thank |  
 | bip_39_word_space_10 | thank couple below tide minute art globe naive undo defy |  

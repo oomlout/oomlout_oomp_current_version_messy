@@ -122,6 +122,18 @@ coyote
 oil
 horn
 calm |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietlifeinnernoodlerudecoyoteoilhorncalmriot |  
+| bip_39_word_no_space_11 | dietlifeinnernoodlerudecoyoteoilhorncalmriotvehicle |  
+| bip_39_word_no_space_12 | dietlifeinnernoodlerudecoyoteoilhorncalmriotvehiclealter |  
+| bip_39_word_no_space_2 | dietlife |  
+| bip_39_word_no_space_3 | dietlifeinner |  
+| bip_39_word_no_space_4 | dietlifeinnernoodle |  
+| bip_39_word_no_space_5 | dietlifeinnernoodlerude |  
+| bip_39_word_no_space_6 | dietlifeinnernoodlerudecoyote |  
+| bip_39_word_no_space_7 | dietlifeinnernoodlerudecoyoteoil |  
+| bip_39_word_no_space_8 | dietlifeinnernoodlerudecoyoteoilhorn |  
+| bip_39_word_no_space_9 | dietlifeinnernoodlerudecoyoteoilhorncalm |  
 | bip_39_word_space_0 | ['diet', 'life', 'inner', 'noodle', 'rude', 'coyote', 'oil', 'horn', 'calm', 'riot', 'vehicle', 'alter'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet life inner noodle rude coyote oil horn calm riot |  

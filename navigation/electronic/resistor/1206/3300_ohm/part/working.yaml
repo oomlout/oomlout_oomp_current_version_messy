@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wide
   screen
 
   stay'
+bip_39_word_no_space_1: wide
+bip_39_word_no_space_10: widespicetodaymosquitosaladexcludebabyscreenstayactress
+bip_39_word_no_space_11: widespicetodaymosquitosaladexcludebabyscreenstayactressconsider
+bip_39_word_no_space_12: widespicetodaymosquitosaladexcludebabyscreenstayactressconsideraudit
+bip_39_word_no_space_2: widespice
+bip_39_word_no_space_3: widespicetoday
+bip_39_word_no_space_4: widespicetodaymosquito
+bip_39_word_no_space_5: widespicetodaymosquitosalad
+bip_39_word_no_space_6: widespicetodaymosquitosaladexclude
+bip_39_word_no_space_7: widespicetodaymosquitosaladexcludebaby
+bip_39_word_no_space_8: widespicetodaymosquitosaladexcludebabyscreen
+bip_39_word_no_space_9: widespicetodaymosquitosaladexcludebabyscreenstay
 bip_39_word_space_0:
 - wide
 - spice

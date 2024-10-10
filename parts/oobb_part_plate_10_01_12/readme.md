@@ -122,6 +122,18 @@ scene
 mask
 symbol
 ladder |  
+| bip_39_word_no_space_1 | road |  
+| bip_39_word_no_space_10 | roadceleryscorpiontrainspoonscenemasksymbolladderlunch |  
+| bip_39_word_no_space_11 | roadceleryscorpiontrainspoonscenemasksymbolladderlunchunknown |  
+| bip_39_word_no_space_12 | roadceleryscorpiontrainspoonscenemasksymbolladderlunchunknownarmor |  
+| bip_39_word_no_space_2 | roadcelery |  
+| bip_39_word_no_space_3 | roadceleryscorpion |  
+| bip_39_word_no_space_4 | roadceleryscorpiontrain |  
+| bip_39_word_no_space_5 | roadceleryscorpiontrainspoon |  
+| bip_39_word_no_space_6 | roadceleryscorpiontrainspoonscene |  
+| bip_39_word_no_space_7 | roadceleryscorpiontrainspoonscenemask |  
+| bip_39_word_no_space_8 | roadceleryscorpiontrainspoonscenemasksymbol |  
+| bip_39_word_no_space_9 | roadceleryscorpiontrainspoonscenemasksymbolladder |  
 | bip_39_word_space_0 | ['road', 'celery', 'scorpion', 'train', 'spoon', 'scene', 'mask', 'symbol', 'ladder', 'lunch', 'unknown', 'armor'] |  
 | bip_39_word_space_1 | road |  
 | bip_39_word_space_10 | road celery scorpion train spoon scene mask symbol ladder lunch |  

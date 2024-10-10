@@ -122,6 +122,18 @@ turtle
 gather
 ring
 tomato |  
+| bip_39_word_no_space_1 | wedding |  
+| bip_39_word_no_space_10 | weddingeruptportionshinewarriorturtlegatherringtomatorifle |  
+| bip_39_word_no_space_11 | weddingeruptportionshinewarriorturtlegatherringtomatorifleguard |  
+| bip_39_word_no_space_12 | weddingeruptportionshinewarriorturtlegatherringtomatorifleguardartist |  
+| bip_39_word_no_space_2 | weddingerupt |  
+| bip_39_word_no_space_3 | weddingeruptportion |  
+| bip_39_word_no_space_4 | weddingeruptportionshine |  
+| bip_39_word_no_space_5 | weddingeruptportionshinewarrior |  
+| bip_39_word_no_space_6 | weddingeruptportionshinewarriorturtle |  
+| bip_39_word_no_space_7 | weddingeruptportionshinewarriorturtlegather |  
+| bip_39_word_no_space_8 | weddingeruptportionshinewarriorturtlegatherring |  
+| bip_39_word_no_space_9 | weddingeruptportionshinewarriorturtlegatherringtomato |  
 | bip_39_word_space_0 | ['wedding', 'erupt', 'portion', 'shine', 'warrior', 'turtle', 'gather', 'ring', 'tomato', 'rifle', 'guard', 'artist'] |  
 | bip_39_word_space_1 | wedding |  
 | bip_39_word_space_10 | wedding erupt portion shine warrior turtle gather ring tomato rifle |  

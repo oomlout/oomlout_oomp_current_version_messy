@@ -122,6 +122,18 @@ solar
 wood
 mixture
 boss |  
+| bip_39_word_no_space_1 | wise |  
+| bip_39_word_no_space_10 | wiserideswearabsurdyearsolarwoodmixturebosswisdom |  
+| bip_39_word_no_space_11 | wiserideswearabsurdyearsolarwoodmixturebosswisdomtalent |  
+| bip_39_word_no_space_12 | wiserideswearabsurdyearsolarwoodmixturebosswisdomtalentarrive |  
+| bip_39_word_no_space_2 | wiseride |  
+| bip_39_word_no_space_3 | wiserideswear |  
+| bip_39_word_no_space_4 | wiserideswearabsurd |  
+| bip_39_word_no_space_5 | wiserideswearabsurdyear |  
+| bip_39_word_no_space_6 | wiserideswearabsurdyearsolar |  
+| bip_39_word_no_space_7 | wiserideswearabsurdyearsolarwood |  
+| bip_39_word_no_space_8 | wiserideswearabsurdyearsolarwoodmixture |  
+| bip_39_word_no_space_9 | wiserideswearabsurdyearsolarwoodmixtureboss |  
 | bip_39_word_space_0 | ['wise', 'ride', 'swear', 'absurd', 'year', 'solar', 'wood', 'mixture', 'boss', 'wisdom', 'talent', 'arrive'] |  
 | bip_39_word_space_1 | wise |  
 | bip_39_word_space_10 | wise ride swear absurd year solar wood mixture boss wisdom |  

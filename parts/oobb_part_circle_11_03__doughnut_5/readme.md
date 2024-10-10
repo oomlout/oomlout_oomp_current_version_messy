@@ -122,6 +122,18 @@ drama
 cabin
 neutral
 shock |  
+| bip_39_word_no_space_1 | balance |  
+| bip_39_word_no_space_10 | balancewashcorecoillikedramacabinneutralshockhen |  
+| bip_39_word_no_space_11 | balancewashcorecoillikedramacabinneutralshockhenwet |  
+| bip_39_word_no_space_12 | balancewashcorecoillikedramacabinneutralshockhenwetalien |  
+| bip_39_word_no_space_2 | balancewash |  
+| bip_39_word_no_space_3 | balancewashcore |  
+| bip_39_word_no_space_4 | balancewashcorecoil |  
+| bip_39_word_no_space_5 | balancewashcorecoillike |  
+| bip_39_word_no_space_6 | balancewashcorecoillikedrama |  
+| bip_39_word_no_space_7 | balancewashcorecoillikedramacabin |  
+| bip_39_word_no_space_8 | balancewashcorecoillikedramacabinneutral |  
+| bip_39_word_no_space_9 | balancewashcorecoillikedramacabinneutralshock |  
 | bip_39_word_space_0 | ['balance', 'wash', 'core', 'coil', 'like', 'drama', 'cabin', 'neutral', 'shock', 'hen', 'wet', 'alien'] |  
 | bip_39_word_space_1 | balance |  
 | bip_39_word_space_10 | balance wash core coil like drama cabin neutral shock hen |  

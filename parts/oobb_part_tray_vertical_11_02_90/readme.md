@@ -122,6 +122,18 @@ glare
 clown
 road
 eyebrow |  
+| bip_39_word_no_space_1 | test |  
+| bip_39_word_no_space_10 | testsheriffenableholdreduceglareclownroadeyebrowview |  
+| bip_39_word_no_space_11 | testsheriffenableholdreduceglareclownroadeyebrowvieworange |  
+| bip_39_word_no_space_12 | testsheriffenableholdreduceglareclownroadeyebrowvieworangeartist |  
+| bip_39_word_no_space_2 | testsheriff |  
+| bip_39_word_no_space_3 | testsheriffenable |  
+| bip_39_word_no_space_4 | testsheriffenablehold |  
+| bip_39_word_no_space_5 | testsheriffenableholdreduce |  
+| bip_39_word_no_space_6 | testsheriffenableholdreduceglare |  
+| bip_39_word_no_space_7 | testsheriffenableholdreduceglareclown |  
+| bip_39_word_no_space_8 | testsheriffenableholdreduceglareclownroad |  
+| bip_39_word_no_space_9 | testsheriffenableholdreduceglareclownroadeyebrow |  
 | bip_39_word_space_0 | ['test', 'sheriff', 'enable', 'hold', 'reduce', 'glare', 'clown', 'road', 'eyebrow', 'view', 'orange', 'artist'] |  
 | bip_39_word_space_1 | test |  
 | bip_39_word_space_10 | test sheriff enable hold reduce glare clown road eyebrow view |  

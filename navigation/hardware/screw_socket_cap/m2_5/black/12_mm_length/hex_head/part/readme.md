@@ -122,6 +122,18 @@ admit
 venture
 pioneer
 spice |  
+| bip_39_word_no_space_1 | culture |  
+| bip_39_word_no_space_10 | culturethinggreataddcolumnadmitventurepioneerspicemedal |  
+| bip_39_word_no_space_11 | culturethinggreataddcolumnadmitventurepioneerspicemedalupdate |  
+| bip_39_word_no_space_12 | culturethinggreataddcolumnadmitventurepioneerspicemedalupdateavocado |  
+| bip_39_word_no_space_2 | culturething |  
+| bip_39_word_no_space_3 | culturethinggreat |  
+| bip_39_word_no_space_4 | culturethinggreatadd |  
+| bip_39_word_no_space_5 | culturethinggreataddcolumn |  
+| bip_39_word_no_space_6 | culturethinggreataddcolumnadmit |  
+| bip_39_word_no_space_7 | culturethinggreataddcolumnadmitventure |  
+| bip_39_word_no_space_8 | culturethinggreataddcolumnadmitventurepioneer |  
+| bip_39_word_no_space_9 | culturethinggreataddcolumnadmitventurepioneerspice |  
 | bip_39_word_space_0 | ['culture', 'thing', 'great', 'add', 'column', 'admit', 'venture', 'pioneer', 'spice', 'medal', 'update', 'avocado'] |  
 | bip_39_word_space_1 | culture |  
 | bip_39_word_space_10 | culture thing great add column admit venture pioneer spice medal |  

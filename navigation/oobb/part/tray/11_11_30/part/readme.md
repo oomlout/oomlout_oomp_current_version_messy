@@ -122,6 +122,18 @@ defy
 shock
 manual
 found |  
+| bip_39_word_no_space_1 | vacant |  
+| bip_39_word_no_space_10 | vacantwaveclumpaffairgesturedefyshockmanualfoundthunder |  
+| bip_39_word_no_space_11 | vacantwaveclumpaffairgesturedefyshockmanualfoundthunderagain |  
+| bip_39_word_no_space_12 | vacantwaveclumpaffairgesturedefyshockmanualfoundthunderagainapology |  
+| bip_39_word_no_space_2 | vacantwave |  
+| bip_39_word_no_space_3 | vacantwaveclump |  
+| bip_39_word_no_space_4 | vacantwaveclumpaffair |  
+| bip_39_word_no_space_5 | vacantwaveclumpaffairgesture |  
+| bip_39_word_no_space_6 | vacantwaveclumpaffairgesturedefy |  
+| bip_39_word_no_space_7 | vacantwaveclumpaffairgesturedefyshock |  
+| bip_39_word_no_space_8 | vacantwaveclumpaffairgesturedefyshockmanual |  
+| bip_39_word_no_space_9 | vacantwaveclumpaffairgesturedefyshockmanualfound |  
 | bip_39_word_space_0 | ['vacant', 'wave', 'clump', 'affair', 'gesture', 'defy', 'shock', 'manual', 'found', 'thunder', 'again', 'apology'] |  
 | bip_39_word_space_1 | vacant |  
 | bip_39_word_space_10 | vacant wave clump affair gesture defy shock manual found thunder |  

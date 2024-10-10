@@ -122,6 +122,18 @@ master
 smoke
 sadness
 offer |  
+| bip_39_word_no_space_1 | mention |  
+| bip_39_word_no_space_10 | mentionbroccolishrugmixnapkinmastersmokesadnessofferbaby |  
+| bip_39_word_no_space_11 | mentionbroccolishrugmixnapkinmastersmokesadnessofferbabyelse |  
+| bip_39_word_no_space_12 | mentionbroccolishrugmixnapkinmastersmokesadnessofferbabyelseattitude |  
+| bip_39_word_no_space_2 | mentionbroccoli |  
+| bip_39_word_no_space_3 | mentionbroccolishrug |  
+| bip_39_word_no_space_4 | mentionbroccolishrugmix |  
+| bip_39_word_no_space_5 | mentionbroccolishrugmixnapkin |  
+| bip_39_word_no_space_6 | mentionbroccolishrugmixnapkinmaster |  
+| bip_39_word_no_space_7 | mentionbroccolishrugmixnapkinmastersmoke |  
+| bip_39_word_no_space_8 | mentionbroccolishrugmixnapkinmastersmokesadness |  
+| bip_39_word_no_space_9 | mentionbroccolishrugmixnapkinmastersmokesadnessoffer |  
 | bip_39_word_space_0 | ['mention', 'broccoli', 'shrug', 'mix', 'napkin', 'master', 'smoke', 'sadness', 'offer', 'baby', 'else', 'attitude'] |  
 | bip_39_word_space_1 | mention |  
 | bip_39_word_space_10 | mention broccoli shrug mix napkin master smoke sadness offer baby |  

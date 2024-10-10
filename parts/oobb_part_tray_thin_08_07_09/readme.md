@@ -122,6 +122,18 @@ city
 differ
 civil
 useful |  
+| bip_39_word_no_space_1 | uncover |  
+| bip_39_word_no_space_10 | uncoverbestfavoritecodechickencitydiffercivilusefullanguage |  
+| bip_39_word_no_space_11 | uncoverbestfavoritecodechickencitydiffercivilusefullanguagefringe |  
+| bip_39_word_no_space_12 | uncoverbestfavoritecodechickencitydiffercivilusefullanguagefringeabsorb |  
+| bip_39_word_no_space_2 | uncoverbest |  
+| bip_39_word_no_space_3 | uncoverbestfavorite |  
+| bip_39_word_no_space_4 | uncoverbestfavoritecode |  
+| bip_39_word_no_space_5 | uncoverbestfavoritecodechicken |  
+| bip_39_word_no_space_6 | uncoverbestfavoritecodechickencity |  
+| bip_39_word_no_space_7 | uncoverbestfavoritecodechickencitydiffer |  
+| bip_39_word_no_space_8 | uncoverbestfavoritecodechickencitydiffercivil |  
+| bip_39_word_no_space_9 | uncoverbestfavoritecodechickencitydifferciviluseful |  
 | bip_39_word_space_0 | ['uncover', 'best', 'favorite', 'code', 'chicken', 'city', 'differ', 'civil', 'useful', 'language', 'fringe', 'absorb'] |  
 | bip_39_word_space_1 | uncover |  
 | bip_39_word_space_10 | uncover best favorite code chicken city differ civil useful language |  

@@ -122,6 +122,18 @@ clown
 asset
 menu
 salad |  
+| bip_39_word_no_space_1 | innocent |  
+| bip_39_word_no_space_10 | innocentmysteryproblemdirectozoneclownassetmenusaladspecial |  
+| bip_39_word_no_space_11 | innocentmysteryproblemdirectozoneclownassetmenusaladspecialantique |  
+| bip_39_word_no_space_12 | innocentmysteryproblemdirectozoneclownassetmenusaladspecialantiqueacoustic |  
+| bip_39_word_no_space_2 | innocentmystery |  
+| bip_39_word_no_space_3 | innocentmysteryproblem |  
+| bip_39_word_no_space_4 | innocentmysteryproblemdirect |  
+| bip_39_word_no_space_5 | innocentmysteryproblemdirectozone |  
+| bip_39_word_no_space_6 | innocentmysteryproblemdirectozoneclown |  
+| bip_39_word_no_space_7 | innocentmysteryproblemdirectozoneclownasset |  
+| bip_39_word_no_space_8 | innocentmysteryproblemdirectozoneclownassetmenu |  
+| bip_39_word_no_space_9 | innocentmysteryproblemdirectozoneclownassetmenusalad |  
 | bip_39_word_space_0 | ['innocent', 'mystery', 'problem', 'direct', 'ozone', 'clown', 'asset', 'menu', 'salad', 'special', 'antique', 'acoustic'] |  
 | bip_39_word_space_1 | innocent |  
 | bip_39_word_space_10 | innocent mystery problem direct ozone clown asset menu salad special |  

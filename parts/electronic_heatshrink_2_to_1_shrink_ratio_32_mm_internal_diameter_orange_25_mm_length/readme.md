@@ -122,6 +122,18 @@ curious
 patrol
 search
 core |  
+| bip_39_word_no_space_1 | arctic |  
+| bip_39_word_no_space_10 | arcticquitgritbetweenputcuriouspatrolsearchcorematrix |  
+| bip_39_word_no_space_11 | arcticquitgritbetweenputcuriouspatrolsearchcorematrixbike |  
+| bip_39_word_no_space_12 | arcticquitgritbetweenputcuriouspatrolsearchcorematrixbikeaunt |  
+| bip_39_word_no_space_2 | arcticquit |  
+| bip_39_word_no_space_3 | arcticquitgrit |  
+| bip_39_word_no_space_4 | arcticquitgritbetween |  
+| bip_39_word_no_space_5 | arcticquitgritbetweenput |  
+| bip_39_word_no_space_6 | arcticquitgritbetweenputcurious |  
+| bip_39_word_no_space_7 | arcticquitgritbetweenputcuriouspatrol |  
+| bip_39_word_no_space_8 | arcticquitgritbetweenputcuriouspatrolsearch |  
+| bip_39_word_no_space_9 | arcticquitgritbetweenputcuriouspatrolsearchcore |  
 | bip_39_word_space_0 | ['arctic', 'quit', 'grit', 'between', 'put', 'curious', 'patrol', 'search', 'core', 'matrix', 'bike', 'aunt'] |  
 | bip_39_word_space_1 | arctic |  
 | bip_39_word_space_10 | arctic quit grit between put curious patrol search core matrix |  

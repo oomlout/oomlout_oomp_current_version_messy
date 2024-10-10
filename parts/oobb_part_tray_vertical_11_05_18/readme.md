@@ -122,6 +122,18 @@ stay
 tennis
 crack
 crunch |  
+| bip_39_word_no_space_1 | desert |  
+| bip_39_word_no_space_10 | desertelserookiecoraltrafficstaytenniscrackcrunchglove |  
+| bip_39_word_no_space_11 | desertelserookiecoraltrafficstaytenniscrackcrunchglovetruck |  
+| bip_39_word_no_space_12 | desertelserookiecoraltrafficstaytenniscrackcrunchglovetruckarrow |  
+| bip_39_word_no_space_2 | desertelse |  
+| bip_39_word_no_space_3 | desertelserookie |  
+| bip_39_word_no_space_4 | desertelserookiecoral |  
+| bip_39_word_no_space_5 | desertelserookiecoraltraffic |  
+| bip_39_word_no_space_6 | desertelserookiecoraltrafficstay |  
+| bip_39_word_no_space_7 | desertelserookiecoraltrafficstaytennis |  
+| bip_39_word_no_space_8 | desertelserookiecoraltrafficstaytenniscrack |  
+| bip_39_word_no_space_9 | desertelserookiecoraltrafficstaytenniscrackcrunch |  
 | bip_39_word_space_0 | ['desert', 'else', 'rookie', 'coral', 'traffic', 'stay', 'tennis', 'crack', 'crunch', 'glove', 'truck', 'arrow'] |  
 | bip_39_word_space_1 | desert |  
 | bip_39_word_space_10 | desert else rookie coral traffic stay tennis crack crunch glove |  

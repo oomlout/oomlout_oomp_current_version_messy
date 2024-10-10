@@ -122,6 +122,18 @@ fiber
 access
 vote
 sketch |  
+| bip_39_word_no_space_1 | scatter |  
+| bip_39_word_no_space_10 | scatterexpirefalsemaidnoticefiberaccessvotesketchgood |  
+| bip_39_word_no_space_11 | scatterexpirefalsemaidnoticefiberaccessvotesketchgoodnation |  
+| bip_39_word_no_space_12 | scatterexpirefalsemaidnoticefiberaccessvotesketchgoodnationavocado |  
+| bip_39_word_no_space_2 | scatterexpire |  
+| bip_39_word_no_space_3 | scatterexpirefalse |  
+| bip_39_word_no_space_4 | scatterexpirefalsemaid |  
+| bip_39_word_no_space_5 | scatterexpirefalsemaidnotice |  
+| bip_39_word_no_space_6 | scatterexpirefalsemaidnoticefiber |  
+| bip_39_word_no_space_7 | scatterexpirefalsemaidnoticefiberaccess |  
+| bip_39_word_no_space_8 | scatterexpirefalsemaidnoticefiberaccessvote |  
+| bip_39_word_no_space_9 | scatterexpirefalsemaidnoticefiberaccessvotesketch |  
 | bip_39_word_space_0 | ['scatter', 'expire', 'false', 'maid', 'notice', 'fiber', 'access', 'vote', 'sketch', 'good', 'nation', 'avocado'] |  
 | bip_39_word_space_1 | scatter |  
 | bip_39_word_space_10 | scatter expire false maid notice fiber access vote sketch good |  

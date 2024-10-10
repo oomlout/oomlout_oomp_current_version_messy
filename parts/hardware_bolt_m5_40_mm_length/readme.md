@@ -122,6 +122,18 @@ pudding
 refuse
 vague
 elite |  
+| bip_39_word_no_space_1 | country |  
+| bip_39_word_no_space_10 | countrybouncewagonvanhairpuddingrefusevagueelitesmile |  
+| bip_39_word_no_space_11 | countrybouncewagonvanhairpuddingrefusevagueelitesmilestage |  
+| bip_39_word_no_space_12 | countrybouncewagonvanhairpuddingrefusevagueelitesmilestageabove |  
+| bip_39_word_no_space_2 | countrybounce |  
+| bip_39_word_no_space_3 | countrybouncewagon |  
+| bip_39_word_no_space_4 | countrybouncewagonvan |  
+| bip_39_word_no_space_5 | countrybouncewagonvanhair |  
+| bip_39_word_no_space_6 | countrybouncewagonvanhairpudding |  
+| bip_39_word_no_space_7 | countrybouncewagonvanhairpuddingrefuse |  
+| bip_39_word_no_space_8 | countrybouncewagonvanhairpuddingrefusevague |  
+| bip_39_word_no_space_9 | countrybouncewagonvanhairpuddingrefusevagueelite |  
 | bip_39_word_space_0 | ['country', 'bounce', 'wagon', 'van', 'hair', 'pudding', 'refuse', 'vague', 'elite', 'smile', 'stage', 'above'] |  
 | bip_39_word_space_1 | country |  
 | bip_39_word_space_10 | country bounce wagon van hair pudding refuse vague elite smile |  

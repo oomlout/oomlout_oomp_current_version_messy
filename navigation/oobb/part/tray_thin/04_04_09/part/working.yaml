@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'violin
   install
 
   foster'
+bip_39_word_no_space_1: violin
+bip_39_word_no_space_10: violinnationtopdivideessaywalkmathinstallfosteradapt
+bip_39_word_no_space_11: violinnationtopdivideessaywalkmathinstallfosteradaptupset
+bip_39_word_no_space_12: violinnationtopdivideessaywalkmathinstallfosteradaptupsetartefact
+bip_39_word_no_space_2: violinnation
+bip_39_word_no_space_3: violinnationtop
+bip_39_word_no_space_4: violinnationtopdivide
+bip_39_word_no_space_5: violinnationtopdivideessay
+bip_39_word_no_space_6: violinnationtopdivideessaywalk
+bip_39_word_no_space_7: violinnationtopdivideessaywalkmath
+bip_39_word_no_space_8: violinnationtopdivideessaywalkmathinstall
+bip_39_word_no_space_9: violinnationtopdivideessaywalkmathinstallfoster
 bip_39_word_space_0:
 - violin
 - nation

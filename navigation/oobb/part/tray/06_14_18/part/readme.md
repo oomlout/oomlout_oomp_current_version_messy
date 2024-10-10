@@ -122,6 +122,18 @@ double
 rather
 injury
 provide |  
+| bip_39_word_no_space_1 | pluck |  
+| bip_39_word_no_space_10 | pluckdutchideaprettyvoyagedoubleratherinjuryprovidecycle |  
+| bip_39_word_no_space_11 | pluckdutchideaprettyvoyagedoubleratherinjuryprovidecyclerule |  
+| bip_39_word_no_space_12 | pluckdutchideaprettyvoyagedoubleratherinjuryprovidecycleruleaudit |  
+| bip_39_word_no_space_2 | pluckdutch |  
+| bip_39_word_no_space_3 | pluckdutchidea |  
+| bip_39_word_no_space_4 | pluckdutchideapretty |  
+| bip_39_word_no_space_5 | pluckdutchideaprettyvoyage |  
+| bip_39_word_no_space_6 | pluckdutchideaprettyvoyagedouble |  
+| bip_39_word_no_space_7 | pluckdutchideaprettyvoyagedoublerather |  
+| bip_39_word_no_space_8 | pluckdutchideaprettyvoyagedoubleratherinjury |  
+| bip_39_word_no_space_9 | pluckdutchideaprettyvoyagedoubleratherinjuryprovide |  
 | bip_39_word_space_0 | ['pluck', 'dutch', 'idea', 'pretty', 'voyage', 'double', 'rather', 'injury', 'provide', 'cycle', 'rule', 'audit'] |  
 | bip_39_word_space_1 | pluck |  
 | bip_39_word_space_10 | pluck dutch idea pretty voyage double rather injury provide cycle |  

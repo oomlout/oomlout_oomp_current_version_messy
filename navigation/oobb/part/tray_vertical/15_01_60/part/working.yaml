@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'admit
   family
 
   plunge'
+bip_39_word_no_space_1: admit
+bip_39_word_no_space_10: admitbordertruecranecloudbetterwearfamilyplungeplunge
+bip_39_word_no_space_11: admitbordertruecranecloudbetterwearfamilyplungeplungeaddict
+bip_39_word_no_space_12: admitbordertruecranecloudbetterwearfamilyplungeplungeaddictaround
+bip_39_word_no_space_2: admitborder
+bip_39_word_no_space_3: admitbordertrue
+bip_39_word_no_space_4: admitbordertruecrane
+bip_39_word_no_space_5: admitbordertruecranecloud
+bip_39_word_no_space_6: admitbordertruecranecloudbetter
+bip_39_word_no_space_7: admitbordertruecranecloudbetterwear
+bip_39_word_no_space_8: admitbordertruecranecloudbetterwearfamily
+bip_39_word_no_space_9: admitbordertruecranecloudbetterwearfamilyplunge
 bip_39_word_space_0:
 - admit
 - border

@@ -122,6 +122,18 @@ popular
 lava
 camp
 alone |  
+| bip_39_word_no_space_1 | carpet |  
+| bip_39_word_no_space_10 | carpetdollsurfacesellheavypopularlavacampaloneload |  
+| bip_39_word_no_space_11 | carpetdollsurfacesellheavypopularlavacampaloneloadmonster |  
+| bip_39_word_no_space_12 | carpetdollsurfacesellheavypopularlavacampaloneloadmonsteraudit |  
+| bip_39_word_no_space_2 | carpetdoll |  
+| bip_39_word_no_space_3 | carpetdollsurface |  
+| bip_39_word_no_space_4 | carpetdollsurfacesell |  
+| bip_39_word_no_space_5 | carpetdollsurfacesellheavy |  
+| bip_39_word_no_space_6 | carpetdollsurfacesellheavypopular |  
+| bip_39_word_no_space_7 | carpetdollsurfacesellheavypopularlava |  
+| bip_39_word_no_space_8 | carpetdollsurfacesellheavypopularlavacamp |  
+| bip_39_word_no_space_9 | carpetdollsurfacesellheavypopularlavacampalone |  
 | bip_39_word_space_0 | ['carpet', 'doll', 'surface', 'sell', 'heavy', 'popular', 'lava', 'camp', 'alone', 'load', 'monster', 'audit'] |  
 | bip_39_word_space_1 | carpet |  
 | bip_39_word_space_10 | carpet doll surface sell heavy popular lava camp alone load |  

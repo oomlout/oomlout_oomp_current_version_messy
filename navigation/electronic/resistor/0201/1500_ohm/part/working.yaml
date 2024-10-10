@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'craft
   ridge
 
   curtain'
+bip_39_word_no_space_1: craft
+bip_39_word_no_space_10: craftjokereturngoldgalaxynetworkbeyondridgecurtainaction
+bip_39_word_no_space_11: craftjokereturngoldgalaxynetworkbeyondridgecurtainactiondirt
+bip_39_word_no_space_12: craftjokereturngoldgalaxynetworkbeyondridgecurtainactiondirtabove
+bip_39_word_no_space_2: craftjoke
+bip_39_word_no_space_3: craftjokereturn
+bip_39_word_no_space_4: craftjokereturngold
+bip_39_word_no_space_5: craftjokereturngoldgalaxy
+bip_39_word_no_space_6: craftjokereturngoldgalaxynetwork
+bip_39_word_no_space_7: craftjokereturngoldgalaxynetworkbeyond
+bip_39_word_no_space_8: craftjokereturngoldgalaxynetworkbeyondridge
+bip_39_word_no_space_9: craftjokereturngoldgalaxynetworkbeyondridgecurtain
 bip_39_word_space_0:
 - craft
 - joke

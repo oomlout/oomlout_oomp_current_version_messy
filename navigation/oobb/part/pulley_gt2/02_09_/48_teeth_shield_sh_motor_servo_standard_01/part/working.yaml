@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'outside
   gain
 
   valid'
+bip_39_word_no_space_1: outside
+bip_39_word_no_space_10: outsidetorchweirdstandrazordesignbecausegainvalidalien
+bip_39_word_no_space_11: outsidetorchweirdstandrazordesignbecausegainvalidalienrug
+bip_39_word_no_space_12: outsidetorchweirdstandrazordesignbecausegainvalidalienrugannual
+bip_39_word_no_space_2: outsidetorch
+bip_39_word_no_space_3: outsidetorchweird
+bip_39_word_no_space_4: outsidetorchweirdstand
+bip_39_word_no_space_5: outsidetorchweirdstandrazor
+bip_39_word_no_space_6: outsidetorchweirdstandrazordesign
+bip_39_word_no_space_7: outsidetorchweirdstandrazordesignbecause
+bip_39_word_no_space_8: outsidetorchweirdstandrazordesignbecausegain
+bip_39_word_no_space_9: outsidetorchweirdstandrazordesignbecausegainvalid
 bip_39_word_space_0:
 - outside
 - torch

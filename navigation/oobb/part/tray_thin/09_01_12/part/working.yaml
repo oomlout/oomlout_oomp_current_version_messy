@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gold
   tongue
 
   proof'
+bip_39_word_no_space_1: gold
+bip_39_word_no_space_10: goldportionbriefwantprojectexcuseexisttongueproofinclude
+bip_39_word_no_space_11: goldportionbriefwantprojectexcuseexisttongueproofincludealert
+bip_39_word_no_space_12: goldportionbriefwantprojectexcuseexisttongueproofincludealertaccess
+bip_39_word_no_space_2: goldportion
+bip_39_word_no_space_3: goldportionbrief
+bip_39_word_no_space_4: goldportionbriefwant
+bip_39_word_no_space_5: goldportionbriefwantproject
+bip_39_word_no_space_6: goldportionbriefwantprojectexcuse
+bip_39_word_no_space_7: goldportionbriefwantprojectexcuseexist
+bip_39_word_no_space_8: goldportionbriefwantprojectexcuseexisttongue
+bip_39_word_no_space_9: goldportionbriefwantprojectexcuseexisttongueproof
 bip_39_word_space_0:
 - gold
 - portion

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fence
   stone
 
   novel'
+bip_39_word_no_space_1: fence
+bip_39_word_no_space_10: fencemiraclemarinesweargainlakeimagestonenovelaccident
+bip_39_word_no_space_11: fencemiraclemarinesweargainlakeimagestonenovelaccidentloyal
+bip_39_word_no_space_12: fencemiraclemarinesweargainlakeimagestonenovelaccidentloyalair
+bip_39_word_no_space_2: fencemiracle
+bip_39_word_no_space_3: fencemiraclemarine
+bip_39_word_no_space_4: fencemiraclemarineswear
+bip_39_word_no_space_5: fencemiraclemarinesweargain
+bip_39_word_no_space_6: fencemiraclemarinesweargainlake
+bip_39_word_no_space_7: fencemiraclemarinesweargainlakeimage
+bip_39_word_no_space_8: fencemiraclemarinesweargainlakeimagestone
+bip_39_word_no_space_9: fencemiraclemarinesweargainlakeimagestonenovel
 bip_39_word_space_0:
 - fence
 - miracle

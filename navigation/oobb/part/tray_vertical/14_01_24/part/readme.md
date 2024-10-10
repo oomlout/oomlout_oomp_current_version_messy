@@ -122,6 +122,18 @@ topple
 crisp
 fine
 scissors |  
+| bip_39_word_no_space_1 | lounge |  
+| bip_39_word_no_space_10 | loungeartefactequalproofgesturetopplecrispfinescissorscurve |  
+| bip_39_word_no_space_11 | loungeartefactequalproofgesturetopplecrispfinescissorscurvegrief |  
+| bip_39_word_no_space_12 | loungeartefactequalproofgesturetopplecrispfinescissorscurvegriefannual |  
+| bip_39_word_no_space_2 | loungeartefact |  
+| bip_39_word_no_space_3 | loungeartefactequal |  
+| bip_39_word_no_space_4 | loungeartefactequalproof |  
+| bip_39_word_no_space_5 | loungeartefactequalproofgesture |  
+| bip_39_word_no_space_6 | loungeartefactequalproofgesturetopple |  
+| bip_39_word_no_space_7 | loungeartefactequalproofgesturetopplecrisp |  
+| bip_39_word_no_space_8 | loungeartefactequalproofgesturetopplecrispfine |  
+| bip_39_word_no_space_9 | loungeartefactequalproofgesturetopplecrispfinescissors |  
 | bip_39_word_space_0 | ['lounge', 'artefact', 'equal', 'proof', 'gesture', 'topple', 'crisp', 'fine', 'scissors', 'curve', 'grief', 'annual'] |  
 | bip_39_word_space_1 | lounge |  
 | bip_39_word_space_10 | lounge artefact equal proof gesture topple crisp fine scissors curve |  

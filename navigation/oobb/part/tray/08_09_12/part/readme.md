@@ -122,6 +122,18 @@ office
 will
 deliver
 behave |  
+| bip_39_word_no_space_1 | metal |  
+| bip_39_word_no_space_10 | metalwastetruckinvitetreatofficewilldeliverbehavevalid |  
+| bip_39_word_no_space_11 | metalwastetruckinvitetreatofficewilldeliverbehavevalidquality |  
+| bip_39_word_no_space_12 | metalwastetruckinvitetreatofficewilldeliverbehavevalidqualityamateur |  
+| bip_39_word_no_space_2 | metalwaste |  
+| bip_39_word_no_space_3 | metalwastetruck |  
+| bip_39_word_no_space_4 | metalwastetruckinvite |  
+| bip_39_word_no_space_5 | metalwastetruckinvitetreat |  
+| bip_39_word_no_space_6 | metalwastetruckinvitetreatoffice |  
+| bip_39_word_no_space_7 | metalwastetruckinvitetreatofficewill |  
+| bip_39_word_no_space_8 | metalwastetruckinvitetreatofficewilldeliver |  
+| bip_39_word_no_space_9 | metalwastetruckinvitetreatofficewilldeliverbehave |  
 | bip_39_word_space_0 | ['metal', 'waste', 'truck', 'invite', 'treat', 'office', 'will', 'deliver', 'behave', 'valid', 'quality', 'amateur'] |  
 | bip_39_word_space_1 | metal |  
 | bip_39_word_space_10 | metal waste truck invite treat office will deliver behave valid |  

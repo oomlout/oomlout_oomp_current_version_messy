@@ -122,6 +122,18 @@ anxiety
 crisp
 tragic
 rail |  
+| bip_39_word_no_space_1 | daring |  
+| bip_39_word_no_space_10 | daringpatientdemandnextsmartanxietycrisptragicrailpudding |  
+| bip_39_word_no_space_11 | daringpatientdemandnextsmartanxietycrisptragicrailpuddingchapter |  
+| bip_39_word_no_space_12 | daringpatientdemandnextsmartanxietycrisptragicrailpuddingchapterassist |  
+| bip_39_word_no_space_2 | daringpatient |  
+| bip_39_word_no_space_3 | daringpatientdemand |  
+| bip_39_word_no_space_4 | daringpatientdemandnext |  
+| bip_39_word_no_space_5 | daringpatientdemandnextsmart |  
+| bip_39_word_no_space_6 | daringpatientdemandnextsmartanxiety |  
+| bip_39_word_no_space_7 | daringpatientdemandnextsmartanxietycrisp |  
+| bip_39_word_no_space_8 | daringpatientdemandnextsmartanxietycrisptragic |  
+| bip_39_word_no_space_9 | daringpatientdemandnextsmartanxietycrisptragicrail |  
 | bip_39_word_space_0 | ['daring', 'patient', 'demand', 'next', 'smart', 'anxiety', 'crisp', 'tragic', 'rail', 'pudding', 'chapter', 'assist'] |  
 | bip_39_word_space_1 | daring |  
 | bip_39_word_space_10 | daring patient demand next smart anxiety crisp tragic rail pudding |  

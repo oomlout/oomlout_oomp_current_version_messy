@@ -122,6 +122,18 @@ advance
 supreme
 bronze
 burst |  
+| bip_39_word_no_space_1 | crunch |  
+| bip_39_word_no_space_10 | crunchcoyotememoryoakturkeyadvancesupremebronzeburstcrew |  
+| bip_39_word_no_space_11 | crunchcoyotememoryoakturkeyadvancesupremebronzeburstcrewoyster |  
+| bip_39_word_no_space_12 | crunchcoyotememoryoakturkeyadvancesupremebronzeburstcrewoysterabstract |  
+| bip_39_word_no_space_2 | crunchcoyote |  
+| bip_39_word_no_space_3 | crunchcoyotememory |  
+| bip_39_word_no_space_4 | crunchcoyotememoryoak |  
+| bip_39_word_no_space_5 | crunchcoyotememoryoakturkey |  
+| bip_39_word_no_space_6 | crunchcoyotememoryoakturkeyadvance |  
+| bip_39_word_no_space_7 | crunchcoyotememoryoakturkeyadvancesupreme |  
+| bip_39_word_no_space_8 | crunchcoyotememoryoakturkeyadvancesupremebronze |  
+| bip_39_word_no_space_9 | crunchcoyotememoryoakturkeyadvancesupremebronzeburst |  
 | bip_39_word_space_0 | ['crunch', 'coyote', 'memory', 'oak', 'turkey', 'advance', 'supreme', 'bronze', 'burst', 'crew', 'oyster', 'abstract'] |  
 | bip_39_word_space_1 | crunch |  
 | bip_39_word_space_10 | crunch coyote memory oak turkey advance supreme bronze burst crew |  

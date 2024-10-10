@@ -122,6 +122,18 @@ wasp
 whisper
 woman
 maid |  
+| bip_39_word_no_space_1 | boost |  
+| bip_39_word_no_space_10 | boostpotterymainmercychasewaspwhisperwomanmaidtell |  
+| bip_39_word_no_space_11 | boostpotterymainmercychasewaspwhisperwomanmaidtellcopy |  
+| bip_39_word_no_space_12 | boostpotterymainmercychasewaspwhisperwomanmaidtellcopyaccess |  
+| bip_39_word_no_space_2 | boostpottery |  
+| bip_39_word_no_space_3 | boostpotterymain |  
+| bip_39_word_no_space_4 | boostpotterymainmercy |  
+| bip_39_word_no_space_5 | boostpotterymainmercychase |  
+| bip_39_word_no_space_6 | boostpotterymainmercychasewasp |  
+| bip_39_word_no_space_7 | boostpotterymainmercychasewaspwhisper |  
+| bip_39_word_no_space_8 | boostpotterymainmercychasewaspwhisperwoman |  
+| bip_39_word_no_space_9 | boostpotterymainmercychasewaspwhisperwomanmaid |  
 | bip_39_word_space_0 | ['boost', 'pottery', 'main', 'mercy', 'chase', 'wasp', 'whisper', 'woman', 'maid', 'tell', 'copy', 'access'] |  
 | bip_39_word_space_1 | boost |  
 | bip_39_word_space_10 | boost pottery main mercy chase wasp whisper woman maid tell |  

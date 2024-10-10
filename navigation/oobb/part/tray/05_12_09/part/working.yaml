@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fine
   exhaust
 
   now'
+bip_39_word_no_space_1: fine
+bip_39_word_no_space_10: finesensetissuetermhiddenblamedawnexhaustnowpulp
+bip_39_word_no_space_11: finesensetissuetermhiddenblamedawnexhaustnowpulpcarpet
+bip_39_word_no_space_12: finesensetissuetermhiddenblamedawnexhaustnowpulpcarpetable
+bip_39_word_no_space_2: finesense
+bip_39_word_no_space_3: finesensetissue
+bip_39_word_no_space_4: finesensetissueterm
+bip_39_word_no_space_5: finesensetissuetermhidden
+bip_39_word_no_space_6: finesensetissuetermhiddenblame
+bip_39_word_no_space_7: finesensetissuetermhiddenblamedawn
+bip_39_word_no_space_8: finesensetissuetermhiddenblamedawnexhaust
+bip_39_word_no_space_9: finesensetissuetermhiddenblamedawnexhaustnow
 bip_39_word_space_0:
 - fine
 - sense

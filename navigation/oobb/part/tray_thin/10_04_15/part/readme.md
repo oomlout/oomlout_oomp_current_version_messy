@@ -122,6 +122,18 @@ disorder
 galaxy
 loop
 reason |  
+| bip_39_word_no_space_1 | extra |  
+| bip_39_word_no_space_10 | extraletterimmensedripeffortdisordergalaxyloopreasonkiss |  
+| bip_39_word_no_space_11 | extraletterimmensedripeffortdisordergalaxyloopreasonkissclog |  
+| bip_39_word_no_space_12 | extraletterimmensedripeffortdisordergalaxyloopreasonkissclogauthor |  
+| bip_39_word_no_space_2 | extraletter |  
+| bip_39_word_no_space_3 | extraletterimmense |  
+| bip_39_word_no_space_4 | extraletterimmensedrip |  
+| bip_39_word_no_space_5 | extraletterimmensedripeffort |  
+| bip_39_word_no_space_6 | extraletterimmensedripeffortdisorder |  
+| bip_39_word_no_space_7 | extraletterimmensedripeffortdisordergalaxy |  
+| bip_39_word_no_space_8 | extraletterimmensedripeffortdisordergalaxyloop |  
+| bip_39_word_no_space_9 | extraletterimmensedripeffortdisordergalaxyloopreason |  
 | bip_39_word_space_0 | ['extra', 'letter', 'immense', 'drip', 'effort', 'disorder', 'galaxy', 'loop', 'reason', 'kiss', 'clog', 'author'] |  
 | bip_39_word_space_1 | extra |  
 | bip_39_word_space_10 | extra letter immense drip effort disorder galaxy loop reason kiss |  

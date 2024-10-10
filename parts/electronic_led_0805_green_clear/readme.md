@@ -122,6 +122,18 @@ treat
 peace
 kiwi
 approve |  
+| bip_39_word_no_space_1 | custom |  
+| bip_39_word_no_space_10 | customcycleaugustpactkneetreatpeacekiwiapprovejealous |  
+| bip_39_word_no_space_11 | customcycleaugustpactkneetreatpeacekiwiapprovejealousscare |  
+| bip_39_word_no_space_12 | customcycleaugustpactkneetreatpeacekiwiapprovejealousscarealpha |  
+| bip_39_word_no_space_2 | customcycle |  
+| bip_39_word_no_space_3 | customcycleaugust |  
+| bip_39_word_no_space_4 | customcycleaugustpact |  
+| bip_39_word_no_space_5 | customcycleaugustpactknee |  
+| bip_39_word_no_space_6 | customcycleaugustpactkneetreat |  
+| bip_39_word_no_space_7 | customcycleaugustpactkneetreatpeace |  
+| bip_39_word_no_space_8 | customcycleaugustpactkneetreatpeacekiwi |  
+| bip_39_word_no_space_9 | customcycleaugustpactkneetreatpeacekiwiapprove |  
 | bip_39_word_space_0 | ['custom', 'cycle', 'august', 'pact', 'knee', 'treat', 'peace', 'kiwi', 'approve', 'jealous', 'scare', 'alpha'] |  
 | bip_39_word_space_1 | custom |  
 | bip_39_word_space_10 | custom cycle august pact knee treat peace kiwi approve jealous |  

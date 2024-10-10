@@ -122,6 +122,18 @@ rack
 palace
 rhythm
 sand |  
+| bip_39_word_no_space_1 | deal |  
+| bip_39_word_no_space_10 | dealsystemawfulbonespendrackpalacerhythmsandcome |  
+| bip_39_word_no_space_11 | dealsystemawfulbonespendrackpalacerhythmsandcomeactual |  
+| bip_39_word_no_space_12 | dealsystemawfulbonespendrackpalacerhythmsandcomeactualadapt |  
+| bip_39_word_no_space_2 | dealsystem |  
+| bip_39_word_no_space_3 | dealsystemawful |  
+| bip_39_word_no_space_4 | dealsystemawfulbone |  
+| bip_39_word_no_space_5 | dealsystemawfulbonespend |  
+| bip_39_word_no_space_6 | dealsystemawfulbonespendrack |  
+| bip_39_word_no_space_7 | dealsystemawfulbonespendrackpalace |  
+| bip_39_word_no_space_8 | dealsystemawfulbonespendrackpalacerhythm |  
+| bip_39_word_no_space_9 | dealsystemawfulbonespendrackpalacerhythmsand |  
 | bip_39_word_space_0 | ['deal', 'system', 'awful', 'bone', 'spend', 'rack', 'palace', 'rhythm', 'sand', 'come', 'actual', 'adapt'] |  
 | bip_39_word_space_1 | deal |  
 | bip_39_word_space_10 | deal system awful bone spend rack palace rhythm sand come |  

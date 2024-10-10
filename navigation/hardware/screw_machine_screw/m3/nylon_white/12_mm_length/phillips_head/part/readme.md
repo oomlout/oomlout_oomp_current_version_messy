@@ -122,6 +122,18 @@ sister
 sport
 cloth
 size |  
+| bip_39_word_no_space_1 | absurd |  
+| bip_39_word_no_space_10 | absurdnorthcheckheadnorthsistersportclothsizeriot |  
+| bip_39_word_no_space_11 | absurdnorthcheckheadnorthsistersportclothsizeriotplastic |  
+| bip_39_word_no_space_12 | absurdnorthcheckheadnorthsistersportclothsizeriotplasticarch |  
+| bip_39_word_no_space_2 | absurdnorth |  
+| bip_39_word_no_space_3 | absurdnorthcheck |  
+| bip_39_word_no_space_4 | absurdnorthcheckhead |  
+| bip_39_word_no_space_5 | absurdnorthcheckheadnorth |  
+| bip_39_word_no_space_6 | absurdnorthcheckheadnorthsister |  
+| bip_39_word_no_space_7 | absurdnorthcheckheadnorthsistersport |  
+| bip_39_word_no_space_8 | absurdnorthcheckheadnorthsistersportcloth |  
+| bip_39_word_no_space_9 | absurdnorthcheckheadnorthsistersportclothsize |  
 | bip_39_word_space_0 | ['absurd', 'north', 'check', 'head', 'north', 'sister', 'sport', 'cloth', 'size', 'riot', 'plastic', 'arch'] |  
 | bip_39_word_space_1 | absurd |  
 | bip_39_word_space_10 | absurd north check head north sister sport cloth size riot |  

@@ -122,6 +122,18 @@ cricket
 prosper
 slab
 blade |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | usedcurtainmutualscatterketchupcricketprosperslabbladehurt |  
+| bip_39_word_no_space_11 | usedcurtainmutualscatterketchupcricketprosperslabbladehurtmotor |  
+| bip_39_word_no_space_12 | usedcurtainmutualscatterketchupcricketprosperslabbladehurtmotoranother |  
+| bip_39_word_no_space_2 | usedcurtain |  
+| bip_39_word_no_space_3 | usedcurtainmutual |  
+| bip_39_word_no_space_4 | usedcurtainmutualscatter |  
+| bip_39_word_no_space_5 | usedcurtainmutualscatterketchup |  
+| bip_39_word_no_space_6 | usedcurtainmutualscatterketchupcricket |  
+| bip_39_word_no_space_7 | usedcurtainmutualscatterketchupcricketprosper |  
+| bip_39_word_no_space_8 | usedcurtainmutualscatterketchupcricketprosperslab |  
+| bip_39_word_no_space_9 | usedcurtainmutualscatterketchupcricketprosperslabblade |  
 | bip_39_word_space_0 | ['used', 'curtain', 'mutual', 'scatter', 'ketchup', 'cricket', 'prosper', 'slab', 'blade', 'hurt', 'motor', 'another'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used curtain mutual scatter ketchup cricket prosper slab blade hurt |  

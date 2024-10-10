@@ -122,6 +122,18 @@ dolphin
 illegal
 subject
 call |  
+| bip_39_word_no_space_1 | claim |  
+| bip_39_word_no_space_10 | claimbleakbicyclescreengravitydolphinillegalsubjectcallillegal |  
+| bip_39_word_no_space_11 | claimbleakbicyclescreengravitydolphinillegalsubjectcallillegalrelease |  
+| bip_39_word_no_space_12 | claimbleakbicyclescreengravitydolphinillegalsubjectcallillegalreleaseaverage |  
+| bip_39_word_no_space_2 | claimbleak |  
+| bip_39_word_no_space_3 | claimbleakbicycle |  
+| bip_39_word_no_space_4 | claimbleakbicyclescreen |  
+| bip_39_word_no_space_5 | claimbleakbicyclescreengravity |  
+| bip_39_word_no_space_6 | claimbleakbicyclescreengravitydolphin |  
+| bip_39_word_no_space_7 | claimbleakbicyclescreengravitydolphinillegal |  
+| bip_39_word_no_space_8 | claimbleakbicyclescreengravitydolphinillegalsubject |  
+| bip_39_word_no_space_9 | claimbleakbicyclescreengravitydolphinillegalsubjectcall |  
 | bip_39_word_space_0 | ['claim', 'bleak', 'bicycle', 'screen', 'gravity', 'dolphin', 'illegal', 'subject', 'call', 'illegal', 'release', 'average'] |  
 | bip_39_word_space_1 | claim |  
 | bip_39_word_space_10 | claim bleak bicycle screen gravity dolphin illegal subject call illegal |  

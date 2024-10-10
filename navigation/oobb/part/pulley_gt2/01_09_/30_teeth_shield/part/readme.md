@@ -122,6 +122,18 @@ phone
 toilet
 cement
 game |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officerecalldriftbananazonephonetoiletcementgamenever |  
+| bip_39_word_no_space_11 | officerecalldriftbananazonephonetoiletcementgamenevercitizen |  
+| bip_39_word_no_space_12 | officerecalldriftbananazonephonetoiletcementgamenevercitizenankle |  
+| bip_39_word_no_space_2 | officerecall |  
+| bip_39_word_no_space_3 | officerecalldrift |  
+| bip_39_word_no_space_4 | officerecalldriftbanana |  
+| bip_39_word_no_space_5 | officerecalldriftbananazone |  
+| bip_39_word_no_space_6 | officerecalldriftbananazonephone |  
+| bip_39_word_no_space_7 | officerecalldriftbananazonephonetoilet |  
+| bip_39_word_no_space_8 | officerecalldriftbananazonephonetoiletcement |  
+| bip_39_word_no_space_9 | officerecalldriftbananazonephonetoiletcementgame |  
 | bip_39_word_space_0 | ['office', 'recall', 'drift', 'banana', 'zone', 'phone', 'toilet', 'cement', 'game', 'never', 'citizen', 'ankle'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office recall drift banana zone phone toilet cement game never |  

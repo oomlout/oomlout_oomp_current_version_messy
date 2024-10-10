@@ -122,6 +122,18 @@ trial
 meadow
 mushroom
 inhale |  
+| bip_39_word_no_space_1 | shine |  
+| bip_39_word_no_space_10 | shineerodeshouldergravityairtrialmeadowmushroominhalequarter |  
+| bip_39_word_no_space_11 | shineerodeshouldergravityairtrialmeadowmushroominhalequarterdamp |  
+| bip_39_word_no_space_12 | shineerodeshouldergravityairtrialmeadowmushroominhalequarterdampartefact |  
+| bip_39_word_no_space_2 | shineerode |  
+| bip_39_word_no_space_3 | shineerodeshoulder |  
+| bip_39_word_no_space_4 | shineerodeshouldergravity |  
+| bip_39_word_no_space_5 | shineerodeshouldergravityair |  
+| bip_39_word_no_space_6 | shineerodeshouldergravityairtrial |  
+| bip_39_word_no_space_7 | shineerodeshouldergravityairtrialmeadow |  
+| bip_39_word_no_space_8 | shineerodeshouldergravityairtrialmeadowmushroom |  
+| bip_39_word_no_space_9 | shineerodeshouldergravityairtrialmeadowmushroominhale |  
 | bip_39_word_space_0 | ['shine', 'erode', 'shoulder', 'gravity', 'air', 'trial', 'meadow', 'mushroom', 'inhale', 'quarter', 'damp', 'artefact'] |  
 | bip_39_word_space_1 | shine |  
 | bip_39_word_space_10 | shine erode shoulder gravity air trial meadow mushroom inhale quarter |  

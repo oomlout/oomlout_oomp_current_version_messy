@@ -122,6 +122,18 @@ mesh
 learn
 loop
 nurse |  
+| bip_39_word_no_space_1 | world |  
+| bip_39_word_no_space_10 | worldseniorlionmustsistermeshlearnloopnurseidle |  
+| bip_39_word_no_space_11 | worldseniorlionmustsistermeshlearnloopnurseidleboard |  
+| bip_39_word_no_space_12 | worldseniorlionmustsistermeshlearnloopnurseidleboardask |  
+| bip_39_word_no_space_2 | worldsenior |  
+| bip_39_word_no_space_3 | worldseniorlion |  
+| bip_39_word_no_space_4 | worldseniorlionmust |  
+| bip_39_word_no_space_5 | worldseniorlionmustsister |  
+| bip_39_word_no_space_6 | worldseniorlionmustsistermesh |  
+| bip_39_word_no_space_7 | worldseniorlionmustsistermeshlearn |  
+| bip_39_word_no_space_8 | worldseniorlionmustsistermeshlearnloop |  
+| bip_39_word_no_space_9 | worldseniorlionmustsistermeshlearnloopnurse |  
 | bip_39_word_space_0 | ['world', 'senior', 'lion', 'must', 'sister', 'mesh', 'learn', 'loop', 'nurse', 'idle', 'board', 'ask'] |  
 | bip_39_word_space_1 | world |  
 | bip_39_word_space_10 | world senior lion must sister mesh learn loop nurse idle |  

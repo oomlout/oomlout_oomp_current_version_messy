@@ -122,6 +122,18 @@ later
 foil
 fee
 market |  
+| bip_39_word_no_space_1 | say |  
+| bip_39_word_no_space_10 | saybachelorhaircupdustlaterfoilfeemarketinterest |  
+| bip_39_word_no_space_11 | saybachelorhaircupdustlaterfoilfeemarketinterestsoup |  
+| bip_39_word_no_space_12 | saybachelorhaircupdustlaterfoilfeemarketinterestsoupactor |  
+| bip_39_word_no_space_2 | saybachelor |  
+| bip_39_word_no_space_3 | saybachelorhair |  
+| bip_39_word_no_space_4 | saybachelorhaircup |  
+| bip_39_word_no_space_5 | saybachelorhaircupdust |  
+| bip_39_word_no_space_6 | saybachelorhaircupdustlater |  
+| bip_39_word_no_space_7 | saybachelorhaircupdustlaterfoil |  
+| bip_39_word_no_space_8 | saybachelorhaircupdustlaterfoilfee |  
+| bip_39_word_no_space_9 | saybachelorhaircupdustlaterfoilfeemarket |  
 | bip_39_word_space_0 | ['say', 'bachelor', 'hair', 'cup', 'dust', 'later', 'foil', 'fee', 'market', 'interest', 'soup', 'actor'] |  
 | bip_39_word_space_1 | say |  
 | bip_39_word_space_10 | say bachelor hair cup dust later foil fee market interest |  

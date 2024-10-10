@@ -122,6 +122,18 @@ illness
 corn
 oppose
 all |  
+| bip_39_word_no_space_1 | ethics |  
+| bip_39_word_no_space_10 | ethicsorientpausedefensecrunchillnesscornopposeallextra |  
+| bip_39_word_no_space_11 | ethicsorientpausedefensecrunchillnesscornopposeallextragiant |  
+| bip_39_word_no_space_12 | ethicsorientpausedefensecrunchillnesscornopposeallextragiantanswer |  
+| bip_39_word_no_space_2 | ethicsorient |  
+| bip_39_word_no_space_3 | ethicsorientpause |  
+| bip_39_word_no_space_4 | ethicsorientpausedefense |  
+| bip_39_word_no_space_5 | ethicsorientpausedefensecrunch |  
+| bip_39_word_no_space_6 | ethicsorientpausedefensecrunchillness |  
+| bip_39_word_no_space_7 | ethicsorientpausedefensecrunchillnesscorn |  
+| bip_39_word_no_space_8 | ethicsorientpausedefensecrunchillnesscornoppose |  
+| bip_39_word_no_space_9 | ethicsorientpausedefensecrunchillnesscornopposeall |  
 | bip_39_word_space_0 | ['ethics', 'orient', 'pause', 'defense', 'crunch', 'illness', 'corn', 'oppose', 'all', 'extra', 'giant', 'answer'] |  
 | bip_39_word_space_1 | ethics |  
 | bip_39_word_space_10 | ethics orient pause defense crunch illness corn oppose all extra |  

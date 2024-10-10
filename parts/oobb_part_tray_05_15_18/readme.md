@@ -122,6 +122,18 @@ float
 belt
 orient
 alone |  
+| bip_39_word_no_space_1 | neither |  
+| bip_39_word_no_space_10 | neitheratomgrabgenerallaptopfloatbeltorientalonefront |  
+| bip_39_word_no_space_11 | neitheratomgrabgenerallaptopfloatbeltorientalonefronthobby |  
+| bip_39_word_no_space_12 | neitheratomgrabgenerallaptopfloatbeltorientalonefronthobbyarm |  
+| bip_39_word_no_space_2 | neitheratom |  
+| bip_39_word_no_space_3 | neitheratomgrab |  
+| bip_39_word_no_space_4 | neitheratomgrabgeneral |  
+| bip_39_word_no_space_5 | neitheratomgrabgenerallaptop |  
+| bip_39_word_no_space_6 | neitheratomgrabgenerallaptopfloat |  
+| bip_39_word_no_space_7 | neitheratomgrabgenerallaptopfloatbelt |  
+| bip_39_word_no_space_8 | neitheratomgrabgenerallaptopfloatbeltorient |  
+| bip_39_word_no_space_9 | neitheratomgrabgenerallaptopfloatbeltorientalone |  
 | bip_39_word_space_0 | ['neither', 'atom', 'grab', 'general', 'laptop', 'float', 'belt', 'orient', 'alone', 'front', 'hobby', 'arm'] |  
 | bip_39_word_space_1 | neither |  
 | bip_39_word_space_10 | neither atom grab general laptop float belt orient alone front |  

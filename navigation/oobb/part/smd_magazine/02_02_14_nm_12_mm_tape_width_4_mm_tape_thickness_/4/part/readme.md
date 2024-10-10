@@ -122,6 +122,18 @@ pill
 mansion
 north
 divert |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | missusechatmasspyramidpillmansionnorthdivertthank |  
+| bip_39_word_no_space_11 | missusechatmasspyramidpillmansionnorthdivertthanklatin |  
+| bip_39_word_no_space_12 | missusechatmasspyramidpillmansionnorthdivertthanklatinafford |  
+| bip_39_word_no_space_2 | missuse |  
+| bip_39_word_no_space_3 | missusechat |  
+| bip_39_word_no_space_4 | missusechatmass |  
+| bip_39_word_no_space_5 | missusechatmasspyramid |  
+| bip_39_word_no_space_6 | missusechatmasspyramidpill |  
+| bip_39_word_no_space_7 | missusechatmasspyramidpillmansion |  
+| bip_39_word_no_space_8 | missusechatmasspyramidpillmansionnorth |  
+| bip_39_word_no_space_9 | missusechatmasspyramidpillmansionnorthdivert |  
 | bip_39_word_space_0 | ['miss', 'use', 'chat', 'mass', 'pyramid', 'pill', 'mansion', 'north', 'divert', 'thank', 'latin', 'afford'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss use chat mass pyramid pill mansion north divert thank |  

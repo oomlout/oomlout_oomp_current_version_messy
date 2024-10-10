@@ -122,6 +122,18 @@ egg
 enlist
 stove
 bargain |  
+| bip_39_word_no_space_1 | unit |  
+| bip_39_word_no_space_10 | unitcandyputwiredolphineggenliststovebargainmobile |  
+| bip_39_word_no_space_11 | unitcandyputwiredolphineggenliststovebargainmobilevast |  
+| bip_39_word_no_space_12 | unitcandyputwiredolphineggenliststovebargainmobilevastassist |  
+| bip_39_word_no_space_2 | unitcandy |  
+| bip_39_word_no_space_3 | unitcandyput |  
+| bip_39_word_no_space_4 | unitcandyputwire |  
+| bip_39_word_no_space_5 | unitcandyputwiredolphin |  
+| bip_39_word_no_space_6 | unitcandyputwiredolphinegg |  
+| bip_39_word_no_space_7 | unitcandyputwiredolphineggenlist |  
+| bip_39_word_no_space_8 | unitcandyputwiredolphineggenliststove |  
+| bip_39_word_no_space_9 | unitcandyputwiredolphineggenliststovebargain |  
 | bip_39_word_space_0 | ['unit', 'candy', 'put', 'wire', 'dolphin', 'egg', 'enlist', 'stove', 'bargain', 'mobile', 'vast', 'assist'] |  
 | bip_39_word_space_1 | unit |  
 | bip_39_word_space_10 | unit candy put wire dolphin egg enlist stove bargain mobile |  

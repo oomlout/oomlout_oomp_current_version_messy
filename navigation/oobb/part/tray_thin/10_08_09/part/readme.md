@@ -122,6 +122,18 @@ load
 kit
 much
 kid |  
+| bip_39_word_no_space_1 | chuckle |  
+| bip_39_word_no_space_10 | chuckleshiverhorrorquickfebruaryloadkitmuchkidwool |  
+| bip_39_word_no_space_11 | chuckleshiverhorrorquickfebruaryloadkitmuchkidwoolusage |  
+| bip_39_word_no_space_12 | chuckleshiverhorrorquickfebruaryloadkitmuchkidwoolusageamused |  
+| bip_39_word_no_space_2 | chuckleshiver |  
+| bip_39_word_no_space_3 | chuckleshiverhorror |  
+| bip_39_word_no_space_4 | chuckleshiverhorrorquick |  
+| bip_39_word_no_space_5 | chuckleshiverhorrorquickfebruary |  
+| bip_39_word_no_space_6 | chuckleshiverhorrorquickfebruaryload |  
+| bip_39_word_no_space_7 | chuckleshiverhorrorquickfebruaryloadkit |  
+| bip_39_word_no_space_8 | chuckleshiverhorrorquickfebruaryloadkitmuch |  
+| bip_39_word_no_space_9 | chuckleshiverhorrorquickfebruaryloadkitmuchkid |  
 | bip_39_word_space_0 | ['chuckle', 'shiver', 'horror', 'quick', 'february', 'load', 'kit', 'much', 'kid', 'wool', 'usage', 'amused'] |  
 | bip_39_word_space_1 | chuckle |  
 | bip_39_word_space_10 | chuckle shiver horror quick february load kit much kid wool |  

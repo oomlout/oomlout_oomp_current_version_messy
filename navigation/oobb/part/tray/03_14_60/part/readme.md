@@ -122,6 +122,18 @@ edit
 armor
 maid
 witness |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feelkingdomrebelwhalefitnesseditarmormaidwitnesscandy |  
+| bip_39_word_no_space_11 | feelkingdomrebelwhalefitnesseditarmormaidwitnesscandyjunk |  
+| bip_39_word_no_space_12 | feelkingdomrebelwhalefitnesseditarmormaidwitnesscandyjunkacid |  
+| bip_39_word_no_space_2 | feelkingdom |  
+| bip_39_word_no_space_3 | feelkingdomrebel |  
+| bip_39_word_no_space_4 | feelkingdomrebelwhale |  
+| bip_39_word_no_space_5 | feelkingdomrebelwhalefitness |  
+| bip_39_word_no_space_6 | feelkingdomrebelwhalefitnessedit |  
+| bip_39_word_no_space_7 | feelkingdomrebelwhalefitnesseditarmor |  
+| bip_39_word_no_space_8 | feelkingdomrebelwhalefitnesseditarmormaid |  
+| bip_39_word_no_space_9 | feelkingdomrebelwhalefitnesseditarmormaidwitness |  
 | bip_39_word_space_0 | ['feel', 'kingdom', 'rebel', 'whale', 'fitness', 'edit', 'armor', 'maid', 'witness', 'candy', 'junk', 'acid'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel kingdom rebel whale fitness edit armor maid witness candy |  

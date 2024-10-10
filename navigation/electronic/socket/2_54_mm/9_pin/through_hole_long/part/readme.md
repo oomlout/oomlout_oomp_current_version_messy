@@ -122,6 +122,18 @@ van
 must
 reward
 junk |  
+| bip_39_word_no_space_1 | situate |  
+| bip_39_word_no_space_10 | situatejungledinnerleopardgainvanmustrewardjunkonline |  
+| bip_39_word_no_space_11 | situatejungledinnerleopardgainvanmustrewardjunkonlineunaware |  
+| bip_39_word_no_space_12 | situatejungledinnerleopardgainvanmustrewardjunkonlineunawareart |  
+| bip_39_word_no_space_2 | situatejungle |  
+| bip_39_word_no_space_3 | situatejungledinner |  
+| bip_39_word_no_space_4 | situatejungledinnerleopard |  
+| bip_39_word_no_space_5 | situatejungledinnerleopardgain |  
+| bip_39_word_no_space_6 | situatejungledinnerleopardgainvan |  
+| bip_39_word_no_space_7 | situatejungledinnerleopardgainvanmust |  
+| bip_39_word_no_space_8 | situatejungledinnerleopardgainvanmustreward |  
+| bip_39_word_no_space_9 | situatejungledinnerleopardgainvanmustrewardjunk |  
 | bip_39_word_space_0 | ['situate', 'jungle', 'dinner', 'leopard', 'gain', 'van', 'must', 'reward', 'junk', 'online', 'unaware', 'art'] |  
 | bip_39_word_space_1 | situate |  
 | bip_39_word_space_10 | situate jungle dinner leopard gain van must reward junk online |  

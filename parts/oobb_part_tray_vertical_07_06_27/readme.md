@@ -122,6 +122,18 @@ mutual
 fancy
 ramp
 success |  
+| bip_39_word_no_space_1 | since |  
+| bip_39_word_no_space_10 | sincecomeviruswisdomtargetmutualfancyrampsuccessblue |  
+| bip_39_word_no_space_11 | sincecomeviruswisdomtargetmutualfancyrampsuccessblueignore |  
+| bip_39_word_no_space_12 | sincecomeviruswisdomtargetmutualfancyrampsuccessblueignoreanxiety |  
+| bip_39_word_no_space_2 | sincecome |  
+| bip_39_word_no_space_3 | sincecomevirus |  
+| bip_39_word_no_space_4 | sincecomeviruswisdom |  
+| bip_39_word_no_space_5 | sincecomeviruswisdomtarget |  
+| bip_39_word_no_space_6 | sincecomeviruswisdomtargetmutual |  
+| bip_39_word_no_space_7 | sincecomeviruswisdomtargetmutualfancy |  
+| bip_39_word_no_space_8 | sincecomeviruswisdomtargetmutualfancyramp |  
+| bip_39_word_no_space_9 | sincecomeviruswisdomtargetmutualfancyrampsuccess |  
 | bip_39_word_space_0 | ['since', 'come', 'virus', 'wisdom', 'target', 'mutual', 'fancy', 'ramp', 'success', 'blue', 'ignore', 'anxiety'] |  
 | bip_39_word_space_1 | since |  
 | bip_39_word_space_10 | since come virus wisdom target mutual fancy ramp success blue |  

@@ -122,6 +122,18 @@ shoulder
 noodle
 outside
 rival |  
+| bip_39_word_no_space_1 | tired |  
+| bip_39_word_no_space_10 | tiredgridcolorsecurityspoilshouldernoodleoutsiderivalfluid |  
+| bip_39_word_no_space_11 | tiredgridcolorsecurityspoilshouldernoodleoutsiderivalfluidharbor |  
+| bip_39_word_no_space_12 | tiredgridcolorsecurityspoilshouldernoodleoutsiderivalfluidharborachieve |  
+| bip_39_word_no_space_2 | tiredgrid |  
+| bip_39_word_no_space_3 | tiredgridcolor |  
+| bip_39_word_no_space_4 | tiredgridcolorsecurity |  
+| bip_39_word_no_space_5 | tiredgridcolorsecurityspoil |  
+| bip_39_word_no_space_6 | tiredgridcolorsecurityspoilshoulder |  
+| bip_39_word_no_space_7 | tiredgridcolorsecurityspoilshouldernoodle |  
+| bip_39_word_no_space_8 | tiredgridcolorsecurityspoilshouldernoodleoutside |  
+| bip_39_word_no_space_9 | tiredgridcolorsecurityspoilshouldernoodleoutsiderival |  
 | bip_39_word_space_0 | ['tired', 'grid', 'color', 'security', 'spoil', 'shoulder', 'noodle', 'outside', 'rival', 'fluid', 'harbor', 'achieve'] |  
 | bip_39_word_space_1 | tired |  
 | bip_39_word_space_10 | tired grid color security spoil shoulder noodle outside rival fluid |  

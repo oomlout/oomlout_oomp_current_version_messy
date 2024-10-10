@@ -122,6 +122,18 @@ arrow
 country
 bulb
 help |  
+| bip_39_word_no_space_1 | fatigue |  
+| bip_39_word_no_space_10 | fatigueaimharshmixturetalkarrowcountrybulbhelpfoster |  
+| bip_39_word_no_space_11 | fatigueaimharshmixturetalkarrowcountrybulbhelpfosterdinner |  
+| bip_39_word_no_space_12 | fatigueaimharshmixturetalkarrowcountrybulbhelpfosterdinneralways |  
+| bip_39_word_no_space_2 | fatigueaim |  
+| bip_39_word_no_space_3 | fatigueaimharsh |  
+| bip_39_word_no_space_4 | fatigueaimharshmixture |  
+| bip_39_word_no_space_5 | fatigueaimharshmixturetalk |  
+| bip_39_word_no_space_6 | fatigueaimharshmixturetalkarrow |  
+| bip_39_word_no_space_7 | fatigueaimharshmixturetalkarrowcountry |  
+| bip_39_word_no_space_8 | fatigueaimharshmixturetalkarrowcountrybulb |  
+| bip_39_word_no_space_9 | fatigueaimharshmixturetalkarrowcountrybulbhelp |  
 | bip_39_word_space_0 | ['fatigue', 'aim', 'harsh', 'mixture', 'talk', 'arrow', 'country', 'bulb', 'help', 'foster', 'dinner', 'always'] |  
 | bip_39_word_space_1 | fatigue |  
 | bip_39_word_space_10 | fatigue aim harsh mixture talk arrow country bulb help foster |  

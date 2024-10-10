@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rare
   despair
 
   mountain'
+bip_39_word_no_space_1: rare
+bip_39_word_no_space_10: rareresulthourmansubjectshrugrecycledespairmountainwarrior
+bip_39_word_no_space_11: rareresulthourmansubjectshrugrecycledespairmountainwarriorhope
+bip_39_word_no_space_12: rareresulthourmansubjectshrugrecycledespairmountainwarriorhopearea
+bip_39_word_no_space_2: rareresult
+bip_39_word_no_space_3: rareresulthour
+bip_39_word_no_space_4: rareresulthourman
+bip_39_word_no_space_5: rareresulthourmansubject
+bip_39_word_no_space_6: rareresulthourmansubjectshrug
+bip_39_word_no_space_7: rareresulthourmansubjectshrugrecycle
+bip_39_word_no_space_8: rareresulthourmansubjectshrugrecycledespair
+bip_39_word_no_space_9: rareresulthourmansubjectshrugrecycledespairmountain
 bip_39_word_space_0:
 - rare
 - result

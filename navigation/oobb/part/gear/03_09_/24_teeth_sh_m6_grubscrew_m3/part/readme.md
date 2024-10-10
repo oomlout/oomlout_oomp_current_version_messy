@@ -122,6 +122,18 @@ surge
 neutral
 clever
 hurt |  
+| bip_39_word_no_space_1 | umbrella |  
+| bip_39_word_no_space_10 | umbrellahighalterpulseexpiresurgeneutralcleverhurtweb |  
+| bip_39_word_no_space_11 | umbrellahighalterpulseexpiresurgeneutralcleverhurtwebtonight |  
+| bip_39_word_no_space_12 | umbrellahighalterpulseexpiresurgeneutralcleverhurtwebtonightaugust |  
+| bip_39_word_no_space_2 | umbrellahigh |  
+| bip_39_word_no_space_3 | umbrellahighalter |  
+| bip_39_word_no_space_4 | umbrellahighalterpulse |  
+| bip_39_word_no_space_5 | umbrellahighalterpulseexpire |  
+| bip_39_word_no_space_6 | umbrellahighalterpulseexpiresurge |  
+| bip_39_word_no_space_7 | umbrellahighalterpulseexpiresurgeneutral |  
+| bip_39_word_no_space_8 | umbrellahighalterpulseexpiresurgeneutralclever |  
+| bip_39_word_no_space_9 | umbrellahighalterpulseexpiresurgeneutralcleverhurt |  
 | bip_39_word_space_0 | ['umbrella', 'high', 'alter', 'pulse', 'expire', 'surge', 'neutral', 'clever', 'hurt', 'web', 'tonight', 'august'] |  
 | bip_39_word_space_1 | umbrella |  
 | bip_39_word_space_10 | umbrella high alter pulse expire surge neutral clever hurt web |  

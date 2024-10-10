@@ -122,6 +122,18 @@ start
 edge
 ozone
 moral |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbagecreditkeywalnutblanketstartedgeozonemoraldetail |  
+| bip_39_word_no_space_11 | cabbagecreditkeywalnutblanketstartedgeozonemoraldetailscheme |  
+| bip_39_word_no_space_12 | cabbagecreditkeywalnutblanketstartedgeozonemoraldetailschemeaccount |  
+| bip_39_word_no_space_2 | cabbagecredit |  
+| bip_39_word_no_space_3 | cabbagecreditkey |  
+| bip_39_word_no_space_4 | cabbagecreditkeywalnut |  
+| bip_39_word_no_space_5 | cabbagecreditkeywalnutblanket |  
+| bip_39_word_no_space_6 | cabbagecreditkeywalnutblanketstart |  
+| bip_39_word_no_space_7 | cabbagecreditkeywalnutblanketstartedge |  
+| bip_39_word_no_space_8 | cabbagecreditkeywalnutblanketstartedgeozone |  
+| bip_39_word_no_space_9 | cabbagecreditkeywalnutblanketstartedgeozonemoral |  
 | bip_39_word_space_0 | ['cabbage', 'credit', 'key', 'walnut', 'blanket', 'start', 'edge', 'ozone', 'moral', 'detail', 'scheme', 'account'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage credit key walnut blanket start edge ozone moral detail |  

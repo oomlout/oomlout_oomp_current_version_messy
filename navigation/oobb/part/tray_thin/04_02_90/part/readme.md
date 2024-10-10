@@ -122,6 +122,18 @@ merry
 actual
 little
 empower |  
+| bip_39_word_no_space_1 | object |  
+| bip_39_word_no_space_10 | objectdefynightissuewantmerryactuallittleempowerbasket |  
+| bip_39_word_no_space_11 | objectdefynightissuewantmerryactuallittleempowerbasketwhisper |  
+| bip_39_word_no_space_12 | objectdefynightissuewantmerryactuallittleempowerbasketwhisperable |  
+| bip_39_word_no_space_2 | objectdefy |  
+| bip_39_word_no_space_3 | objectdefynight |  
+| bip_39_word_no_space_4 | objectdefynightissue |  
+| bip_39_word_no_space_5 | objectdefynightissuewant |  
+| bip_39_word_no_space_6 | objectdefynightissuewantmerry |  
+| bip_39_word_no_space_7 | objectdefynightissuewantmerryactual |  
+| bip_39_word_no_space_8 | objectdefynightissuewantmerryactuallittle |  
+| bip_39_word_no_space_9 | objectdefynightissuewantmerryactuallittleempower |  
 | bip_39_word_space_0 | ['object', 'defy', 'night', 'issue', 'want', 'merry', 'actual', 'little', 'empower', 'basket', 'whisper', 'able'] |  
 | bip_39_word_space_1 | object |  
 | bip_39_word_space_10 | object defy night issue want merry actual little empower basket |  

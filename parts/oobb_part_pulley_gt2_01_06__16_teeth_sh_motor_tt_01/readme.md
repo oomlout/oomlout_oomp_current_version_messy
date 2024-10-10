@@ -122,6 +122,18 @@ divide
 piano
 mosquito
 memory |  
+| bip_39_word_no_space_1 | energy |  
+| bip_39_word_no_space_10 | energylifemyselfdiseasebecomedividepianomosquitomemoryrain |  
+| bip_39_word_no_space_11 | energylifemyselfdiseasebecomedividepianomosquitomemoryrainthrow |  
+| bip_39_word_no_space_12 | energylifemyselfdiseasebecomedividepianomosquitomemoryrainthrowapology |  
+| bip_39_word_no_space_2 | energylife |  
+| bip_39_word_no_space_3 | energylifemyself |  
+| bip_39_word_no_space_4 | energylifemyselfdisease |  
+| bip_39_word_no_space_5 | energylifemyselfdiseasebecome |  
+| bip_39_word_no_space_6 | energylifemyselfdiseasebecomedivide |  
+| bip_39_word_no_space_7 | energylifemyselfdiseasebecomedividepiano |  
+| bip_39_word_no_space_8 | energylifemyselfdiseasebecomedividepianomosquito |  
+| bip_39_word_no_space_9 | energylifemyselfdiseasebecomedividepianomosquitomemory |  
 | bip_39_word_space_0 | ['energy', 'life', 'myself', 'disease', 'become', 'divide', 'piano', 'mosquito', 'memory', 'rain', 'throw', 'apology'] |  
 | bip_39_word_space_1 | energy |  
 | bip_39_word_space_10 | energy life myself disease become divide piano mosquito memory rain |  

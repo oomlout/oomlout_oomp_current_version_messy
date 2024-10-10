@@ -122,6 +122,18 @@ bright
 icon
 inform
 afraid |  
+| bip_39_word_no_space_1 | gun |  
+| bip_39_word_no_space_10 | gunneutralaroundtrapskillbrighticoninformafraidwedding |  
+| bip_39_word_no_space_11 | gunneutralaroundtrapskillbrighticoninformafraidweddingintact |  
+| bip_39_word_no_space_12 | gunneutralaroundtrapskillbrighticoninformafraidweddingintactachieve |  
+| bip_39_word_no_space_2 | gunneutral |  
+| bip_39_word_no_space_3 | gunneutralaround |  
+| bip_39_word_no_space_4 | gunneutralaroundtrap |  
+| bip_39_word_no_space_5 | gunneutralaroundtrapskill |  
+| bip_39_word_no_space_6 | gunneutralaroundtrapskillbright |  
+| bip_39_word_no_space_7 | gunneutralaroundtrapskillbrighticon |  
+| bip_39_word_no_space_8 | gunneutralaroundtrapskillbrighticoninform |  
+| bip_39_word_no_space_9 | gunneutralaroundtrapskillbrighticoninformafraid |  
 | bip_39_word_space_0 | ['gun', 'neutral', 'around', 'trap', 'skill', 'bright', 'icon', 'inform', 'afraid', 'wedding', 'intact', 'achieve'] |  
 | bip_39_word_space_1 | gun |  
 | bip_39_word_space_10 | gun neutral around trap skill bright icon inform afraid wedding |  

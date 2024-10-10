@@ -122,6 +122,18 @@ auto
 brown
 wrap
 dinner |  
+| bip_39_word_no_space_1 | glory |  
+| bip_39_word_no_space_10 | glorytitleyoutheldervanautobrownwrapdinnereyebrow |  
+| bip_39_word_no_space_11 | glorytitleyoutheldervanautobrownwrapdinnereyebrowpig |  
+| bip_39_word_no_space_12 | glorytitleyoutheldervanautobrownwrapdinnereyebrowpigamount |  
+| bip_39_word_no_space_2 | glorytitle |  
+| bip_39_word_no_space_3 | glorytitleyouth |  
+| bip_39_word_no_space_4 | glorytitleyouthelder |  
+| bip_39_word_no_space_5 | glorytitleyoutheldervan |  
+| bip_39_word_no_space_6 | glorytitleyoutheldervanauto |  
+| bip_39_word_no_space_7 | glorytitleyoutheldervanautobrown |  
+| bip_39_word_no_space_8 | glorytitleyoutheldervanautobrownwrap |  
+| bip_39_word_no_space_9 | glorytitleyoutheldervanautobrownwrapdinner |  
 | bip_39_word_space_0 | ['glory', 'title', 'youth', 'elder', 'van', 'auto', 'brown', 'wrap', 'dinner', 'eyebrow', 'pig', 'amount'] |  
 | bip_39_word_space_1 | glory |  
 | bip_39_word_space_10 | glory title youth elder van auto brown wrap dinner eyebrow |  

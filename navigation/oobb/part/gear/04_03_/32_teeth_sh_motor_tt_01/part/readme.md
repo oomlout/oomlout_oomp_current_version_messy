@@ -122,6 +122,18 @@ scissors
 valid
 behind
 island |  
+| bip_39_word_no_space_1 | dice |  
+| bip_39_word_no_space_10 | diceorangemeasuretoddlerboatscissorsvalidbehindislandrough |  
+| bip_39_word_no_space_11 | diceorangemeasuretoddlerboatscissorsvalidbehindislandroughhotel |  
+| bip_39_word_no_space_12 | diceorangemeasuretoddlerboatscissorsvalidbehindislandroughhotelantenna |  
+| bip_39_word_no_space_2 | diceorange |  
+| bip_39_word_no_space_3 | diceorangemeasure |  
+| bip_39_word_no_space_4 | diceorangemeasuretoddler |  
+| bip_39_word_no_space_5 | diceorangemeasuretoddlerboat |  
+| bip_39_word_no_space_6 | diceorangemeasuretoddlerboatscissors |  
+| bip_39_word_no_space_7 | diceorangemeasuretoddlerboatscissorsvalid |  
+| bip_39_word_no_space_8 | diceorangemeasuretoddlerboatscissorsvalidbehind |  
+| bip_39_word_no_space_9 | diceorangemeasuretoddlerboatscissorsvalidbehindisland |  
 | bip_39_word_space_0 | ['dice', 'orange', 'measure', 'toddler', 'boat', 'scissors', 'valid', 'behind', 'island', 'rough', 'hotel', 'antenna'] |  
 | bip_39_word_space_1 | dice |  
 | bip_39_word_space_10 | dice orange measure toddler boat scissors valid behind island rough |  

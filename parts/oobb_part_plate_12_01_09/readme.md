@@ -122,6 +122,18 @@ scene
 umbrella
 siren
 another |  
+| bip_39_word_no_space_1 | spin |  
+| bip_39_word_no_space_10 | spindawnstaffsavelettersceneumbrellasirenanotherbunker |  
+| bip_39_word_no_space_11 | spindawnstaffsavelettersceneumbrellasirenanotherbunkerhealth |  
+| bip_39_word_no_space_12 | spindawnstaffsavelettersceneumbrellasirenanotherbunkerhealthanchor |  
+| bip_39_word_no_space_2 | spindawn |  
+| bip_39_word_no_space_3 | spindawnstaff |  
+| bip_39_word_no_space_4 | spindawnstaffsave |  
+| bip_39_word_no_space_5 | spindawnstaffsaveletter |  
+| bip_39_word_no_space_6 | spindawnstaffsaveletterscene |  
+| bip_39_word_no_space_7 | spindawnstaffsavelettersceneumbrella |  
+| bip_39_word_no_space_8 | spindawnstaffsavelettersceneumbrellasiren |  
+| bip_39_word_no_space_9 | spindawnstaffsavelettersceneumbrellasirenanother |  
 | bip_39_word_space_0 | ['spin', 'dawn', 'staff', 'save', 'letter', 'scene', 'umbrella', 'siren', 'another', 'bunker', 'health', 'anchor'] |  
 | bip_39_word_space_1 | spin |  
 | bip_39_word_space_10 | spin dawn staff save letter scene umbrella siren another bunker |  

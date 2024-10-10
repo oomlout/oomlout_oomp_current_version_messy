@@ -122,6 +122,18 @@ evil
 choice
 civil
 tray |  
+| bip_39_word_no_space_1 | captain |  
+| bip_39_word_no_space_10 | captainfamilykitchenembodyeducateevilchoiceciviltraypicnic |  
+| bip_39_word_no_space_11 | captainfamilykitchenembodyeducateevilchoiceciviltraypicnicleft |  
+| bip_39_word_no_space_12 | captainfamilykitchenembodyeducateevilchoiceciviltraypicnicleftamused |  
+| bip_39_word_no_space_2 | captainfamily |  
+| bip_39_word_no_space_3 | captainfamilykitchen |  
+| bip_39_word_no_space_4 | captainfamilykitchenembody |  
+| bip_39_word_no_space_5 | captainfamilykitchenembodyeducate |  
+| bip_39_word_no_space_6 | captainfamilykitchenembodyeducateevil |  
+| bip_39_word_no_space_7 | captainfamilykitchenembodyeducateevilchoice |  
+| bip_39_word_no_space_8 | captainfamilykitchenembodyeducateevilchoicecivil |  
+| bip_39_word_no_space_9 | captainfamilykitchenembodyeducateevilchoiceciviltray |  
 | bip_39_word_space_0 | ['captain', 'family', 'kitchen', 'embody', 'educate', 'evil', 'choice', 'civil', 'tray', 'picnic', 'left', 'amused'] |  
 | bip_39_word_space_1 | captain |  
 | bip_39_word_space_10 | captain family kitchen embody educate evil choice civil tray picnic |  

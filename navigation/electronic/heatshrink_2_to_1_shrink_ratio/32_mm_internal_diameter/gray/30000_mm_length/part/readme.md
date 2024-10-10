@@ -122,6 +122,18 @@ music
 upper
 illness
 valid |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furymiddletrayriskcatmusicupperillnessvalidsalon |  
+| bip_39_word_no_space_11 | furymiddletrayriskcatmusicupperillnessvalidsaloncredit |  
+| bip_39_word_no_space_12 | furymiddletrayriskcatmusicupperillnessvalidsaloncreditabsurd |  
+| bip_39_word_no_space_2 | furymiddle |  
+| bip_39_word_no_space_3 | furymiddletray |  
+| bip_39_word_no_space_4 | furymiddletrayrisk |  
+| bip_39_word_no_space_5 | furymiddletrayriskcat |  
+| bip_39_word_no_space_6 | furymiddletrayriskcatmusic |  
+| bip_39_word_no_space_7 | furymiddletrayriskcatmusicupper |  
+| bip_39_word_no_space_8 | furymiddletrayriskcatmusicupperillness |  
+| bip_39_word_no_space_9 | furymiddletrayriskcatmusicupperillnessvalid |  
 | bip_39_word_space_0 | ['fury', 'middle', 'tray', 'risk', 'cat', 'music', 'upper', 'illness', 'valid', 'salon', 'credit', 'absurd'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury middle tray risk cat music upper illness valid salon |  

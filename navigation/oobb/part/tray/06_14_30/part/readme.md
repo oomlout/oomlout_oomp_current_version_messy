@@ -122,6 +122,18 @@ holiday
 denial
 impose
 purse |  
+| bip_39_word_no_space_1 | stable |  
+| bip_39_word_no_space_10 | stableorbitacidfrequentvolumeholidaydenialimposepursebrave |  
+| bip_39_word_no_space_11 | stableorbitacidfrequentvolumeholidaydenialimposepursebravewrist |  
+| bip_39_word_no_space_12 | stableorbitacidfrequentvolumeholidaydenialimposepursebravewristauto |  
+| bip_39_word_no_space_2 | stableorbit |  
+| bip_39_word_no_space_3 | stableorbitacid |  
+| bip_39_word_no_space_4 | stableorbitacidfrequent |  
+| bip_39_word_no_space_5 | stableorbitacidfrequentvolume |  
+| bip_39_word_no_space_6 | stableorbitacidfrequentvolumeholiday |  
+| bip_39_word_no_space_7 | stableorbitacidfrequentvolumeholidaydenial |  
+| bip_39_word_no_space_8 | stableorbitacidfrequentvolumeholidaydenialimpose |  
+| bip_39_word_no_space_9 | stableorbitacidfrequentvolumeholidaydenialimposepurse |  
 | bip_39_word_space_0 | ['stable', 'orbit', 'acid', 'frequent', 'volume', 'holiday', 'denial', 'impose', 'purse', 'brave', 'wrist', 'auto'] |  
 | bip_39_word_space_1 | stable |  
 | bip_39_word_space_10 | stable orbit acid frequent volume holiday denial impose purse brave |  

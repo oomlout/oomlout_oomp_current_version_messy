@@ -122,6 +122,18 @@ achieve
 drop
 polar
 erase |  
+| bip_39_word_no_space_1 | taxi |  
+| bip_39_word_no_space_10 | taxiinjuryparrotboymonkeyachievedroppolarerasewife |  
+| bip_39_word_no_space_11 | taxiinjuryparrotboymonkeyachievedroppolarerasewifeminute |  
+| bip_39_word_no_space_12 | taxiinjuryparrotboymonkeyachievedroppolarerasewifeminuteaccess |  
+| bip_39_word_no_space_2 | taxiinjury |  
+| bip_39_word_no_space_3 | taxiinjuryparrot |  
+| bip_39_word_no_space_4 | taxiinjuryparrotboy |  
+| bip_39_word_no_space_5 | taxiinjuryparrotboymonkey |  
+| bip_39_word_no_space_6 | taxiinjuryparrotboymonkeyachieve |  
+| bip_39_word_no_space_7 | taxiinjuryparrotboymonkeyachievedrop |  
+| bip_39_word_no_space_8 | taxiinjuryparrotboymonkeyachievedroppolar |  
+| bip_39_word_no_space_9 | taxiinjuryparrotboymonkeyachievedroppolarerase |  
 | bip_39_word_space_0 | ['taxi', 'injury', 'parrot', 'boy', 'monkey', 'achieve', 'drop', 'polar', 'erase', 'wife', 'minute', 'access'] |  
 | bip_39_word_space_1 | taxi |  
 | bip_39_word_space_10 | taxi injury parrot boy monkey achieve drop polar erase wife |  

@@ -122,6 +122,18 @@ solve
 mobile
 attract
 giggle |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photoexpandforwardabstractwarriorsolvemobileattractgiggleattack |  
+| bip_39_word_no_space_11 | photoexpandforwardabstractwarriorsolvemobileattractgiggleattackcook |  
+| bip_39_word_no_space_12 | photoexpandforwardabstractwarriorsolvemobileattractgiggleattackcookalone |  
+| bip_39_word_no_space_2 | photoexpand |  
+| bip_39_word_no_space_3 | photoexpandforward |  
+| bip_39_word_no_space_4 | photoexpandforwardabstract |  
+| bip_39_word_no_space_5 | photoexpandforwardabstractwarrior |  
+| bip_39_word_no_space_6 | photoexpandforwardabstractwarriorsolve |  
+| bip_39_word_no_space_7 | photoexpandforwardabstractwarriorsolvemobile |  
+| bip_39_word_no_space_8 | photoexpandforwardabstractwarriorsolvemobileattract |  
+| bip_39_word_no_space_9 | photoexpandforwardabstractwarriorsolvemobileattractgiggle |  
 | bip_39_word_space_0 | ['photo', 'expand', 'forward', 'abstract', 'warrior', 'solve', 'mobile', 'attract', 'giggle', 'attack', 'cook', 'alone'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo expand forward abstract warrior solve mobile attract giggle attack |  

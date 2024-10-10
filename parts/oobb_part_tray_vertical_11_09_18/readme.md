@@ -122,6 +122,18 @@ supreme
 wish
 buyer
 budget |  
+| bip_39_word_no_space_1 | kind |  
+| bip_39_word_no_space_10 | kindcirclesevenfoundjunksupremewishbuyerbudgetaxis |  
+| bip_39_word_no_space_11 | kindcirclesevenfoundjunksupremewishbuyerbudgetaxisvanish |  
+| bip_39_word_no_space_12 | kindcirclesevenfoundjunksupremewishbuyerbudgetaxisvanishalways |  
+| bip_39_word_no_space_2 | kindcircle |  
+| bip_39_word_no_space_3 | kindcircleseven |  
+| bip_39_word_no_space_4 | kindcirclesevenfound |  
+| bip_39_word_no_space_5 | kindcirclesevenfoundjunk |  
+| bip_39_word_no_space_6 | kindcirclesevenfoundjunksupreme |  
+| bip_39_word_no_space_7 | kindcirclesevenfoundjunksupremewish |  
+| bip_39_word_no_space_8 | kindcirclesevenfoundjunksupremewishbuyer |  
+| bip_39_word_no_space_9 | kindcirclesevenfoundjunksupremewishbuyerbudget |  
 | bip_39_word_space_0 | ['kind', 'circle', 'seven', 'found', 'junk', 'supreme', 'wish', 'buyer', 'budget', 'axis', 'vanish', 'always'] |  
 | bip_39_word_space_1 | kind |  
 | bip_39_word_space_10 | kind circle seven found junk supreme wish buyer budget axis |  

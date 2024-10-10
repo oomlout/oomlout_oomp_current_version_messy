@@ -122,6 +122,18 @@ early
 satisfy
 diesel
 climb |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefnovelticketsunnybridgeearlysatisfydieselclimbtrain |  
+| bip_39_word_no_space_11 | chefnovelticketsunnybridgeearlysatisfydieselclimbtrainsession |  
+| bip_39_word_no_space_12 | chefnovelticketsunnybridgeearlysatisfydieselclimbtrainsessionappear |  
+| bip_39_word_no_space_2 | chefnovel |  
+| bip_39_word_no_space_3 | chefnovelticket |  
+| bip_39_word_no_space_4 | chefnovelticketsunny |  
+| bip_39_word_no_space_5 | chefnovelticketsunnybridge |  
+| bip_39_word_no_space_6 | chefnovelticketsunnybridgeearly |  
+| bip_39_word_no_space_7 | chefnovelticketsunnybridgeearlysatisfy |  
+| bip_39_word_no_space_8 | chefnovelticketsunnybridgeearlysatisfydiesel |  
+| bip_39_word_no_space_9 | chefnovelticketsunnybridgeearlysatisfydieselclimb |  
 | bip_39_word_space_0 | ['chef', 'novel', 'ticket', 'sunny', 'bridge', 'early', 'satisfy', 'diesel', 'climb', 'train', 'session', 'appear'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef novel ticket sunny bridge early satisfy diesel climb train |  

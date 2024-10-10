@@ -122,6 +122,18 @@ rescue
 audit
 shallow
 betray |  
+| bip_39_word_no_space_1 | alpha |  
+| bip_39_word_no_space_10 | alphatoppledestroyapologywagerescueauditshallowbetrayaverage |  
+| bip_39_word_no_space_11 | alphatoppledestroyapologywagerescueauditshallowbetrayaveragevisual |  
+| bip_39_word_no_space_12 | alphatoppledestroyapologywagerescueauditshallowbetrayaveragevisualactual |  
+| bip_39_word_no_space_2 | alphatopple |  
+| bip_39_word_no_space_3 | alphatoppledestroy |  
+| bip_39_word_no_space_4 | alphatoppledestroyapology |  
+| bip_39_word_no_space_5 | alphatoppledestroyapologywage |  
+| bip_39_word_no_space_6 | alphatoppledestroyapologywagerescue |  
+| bip_39_word_no_space_7 | alphatoppledestroyapologywagerescueaudit |  
+| bip_39_word_no_space_8 | alphatoppledestroyapologywagerescueauditshallow |  
+| bip_39_word_no_space_9 | alphatoppledestroyapologywagerescueauditshallowbetray |  
 | bip_39_word_space_0 | ['alpha', 'topple', 'destroy', 'apology', 'wage', 'rescue', 'audit', 'shallow', 'betray', 'average', 'visual', 'actual'] |  
 | bip_39_word_space_1 | alpha |  
 | bip_39_word_space_10 | alpha topple destroy apology wage rescue audit shallow betray average |  

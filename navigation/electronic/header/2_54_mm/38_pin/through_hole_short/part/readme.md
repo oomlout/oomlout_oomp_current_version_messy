@@ -122,6 +122,18 @@ invite
 humor
 crush
 need |  
+| bip_39_word_no_space_1 | inhale |  
+| bip_39_word_no_space_10 | inhalebadgesuperhoodmixedinvitehumorcrushneedmouse |  
+| bip_39_word_no_space_11 | inhalebadgesuperhoodmixedinvitehumorcrushneedmousemouse |  
+| bip_39_word_no_space_12 | inhalebadgesuperhoodmixedinvitehumorcrushneedmousemousealley |  
+| bip_39_word_no_space_2 | inhalebadge |  
+| bip_39_word_no_space_3 | inhalebadgesuper |  
+| bip_39_word_no_space_4 | inhalebadgesuperhood |  
+| bip_39_word_no_space_5 | inhalebadgesuperhoodmixed |  
+| bip_39_word_no_space_6 | inhalebadgesuperhoodmixedinvite |  
+| bip_39_word_no_space_7 | inhalebadgesuperhoodmixedinvitehumor |  
+| bip_39_word_no_space_8 | inhalebadgesuperhoodmixedinvitehumorcrush |  
+| bip_39_word_no_space_9 | inhalebadgesuperhoodmixedinvitehumorcrushneed |  
 | bip_39_word_space_0 | ['inhale', 'badge', 'super', 'hood', 'mixed', 'invite', 'humor', 'crush', 'need', 'mouse', 'mouse', 'alley'] |  
 | bip_39_word_space_1 | inhale |  
 | bip_39_word_space_10 | inhale badge super hood mixed invite humor crush need mouse |  

@@ -122,6 +122,18 @@ canoe
 question
 abandon
 accuse |  
+| bip_39_word_no_space_1 | olive |  
+| bip_39_word_no_space_10 | olivenuclearriotbuildcranecanoequestionabandonaccusefee |  
+| bip_39_word_no_space_11 | olivenuclearriotbuildcranecanoequestionabandonaccusefeepledge |  
+| bip_39_word_no_space_12 | olivenuclearriotbuildcranecanoequestionabandonaccusefeepledgeavocado |  
+| bip_39_word_no_space_2 | olivenuclear |  
+| bip_39_word_no_space_3 | olivenuclearriot |  
+| bip_39_word_no_space_4 | olivenuclearriotbuild |  
+| bip_39_word_no_space_5 | olivenuclearriotbuildcrane |  
+| bip_39_word_no_space_6 | olivenuclearriotbuildcranecanoe |  
+| bip_39_word_no_space_7 | olivenuclearriotbuildcranecanoequestion |  
+| bip_39_word_no_space_8 | olivenuclearriotbuildcranecanoequestionabandon |  
+| bip_39_word_no_space_9 | olivenuclearriotbuildcranecanoequestionabandonaccuse |  
 | bip_39_word_space_0 | ['olive', 'nuclear', 'riot', 'build', 'crane', 'canoe', 'question', 'abandon', 'accuse', 'fee', 'pledge', 'avocado'] |  
 | bip_39_word_space_1 | olive |  
 | bip_39_word_space_10 | olive nuclear riot build crane canoe question abandon accuse fee |  

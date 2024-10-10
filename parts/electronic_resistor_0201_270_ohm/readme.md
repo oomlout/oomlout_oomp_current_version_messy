@@ -122,6 +122,18 @@ produce
 cricket
 raw
 easy |  
+| bip_39_word_no_space_1 | gossip |  
+| bip_39_word_no_space_10 | gossiptheoryhighliftrescueproducecricketraweasyliquid |  
+| bip_39_word_no_space_11 | gossiptheoryhighliftrescueproducecricketraweasyliquidnominee |  
+| bip_39_word_no_space_12 | gossiptheoryhighliftrescueproducecricketraweasyliquidnomineeagain |  
+| bip_39_word_no_space_2 | gossiptheory |  
+| bip_39_word_no_space_3 | gossiptheoryhigh |  
+| bip_39_word_no_space_4 | gossiptheoryhighlift |  
+| bip_39_word_no_space_5 | gossiptheoryhighliftrescue |  
+| bip_39_word_no_space_6 | gossiptheoryhighliftrescueproduce |  
+| bip_39_word_no_space_7 | gossiptheoryhighliftrescueproducecricket |  
+| bip_39_word_no_space_8 | gossiptheoryhighliftrescueproducecricketraw |  
+| bip_39_word_no_space_9 | gossiptheoryhighliftrescueproducecricketraweasy |  
 | bip_39_word_space_0 | ['gossip', 'theory', 'high', 'lift', 'rescue', 'produce', 'cricket', 'raw', 'easy', 'liquid', 'nominee', 'again'] |  
 | bip_39_word_space_1 | gossip |  
 | bip_39_word_space_10 | gossip theory high lift rescue produce cricket raw easy liquid |  

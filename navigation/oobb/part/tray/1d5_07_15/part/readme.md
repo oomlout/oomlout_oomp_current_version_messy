@@ -122,6 +122,18 @@ embark
 swear
 asset
 observe |  
+| bip_39_word_no_space_1 | scale |  
+| bip_39_word_no_space_10 | scaledrinkcreekinputmarginembarkswearassetobservecrane |  
+| bip_39_word_no_space_11 | scaledrinkcreekinputmarginembarkswearassetobservecraneoblige |  
+| bip_39_word_no_space_12 | scaledrinkcreekinputmarginembarkswearassetobservecraneobligearound |  
+| bip_39_word_no_space_2 | scaledrink |  
+| bip_39_word_no_space_3 | scaledrinkcreek |  
+| bip_39_word_no_space_4 | scaledrinkcreekinput |  
+| bip_39_word_no_space_5 | scaledrinkcreekinputmargin |  
+| bip_39_word_no_space_6 | scaledrinkcreekinputmarginembark |  
+| bip_39_word_no_space_7 | scaledrinkcreekinputmarginembarkswear |  
+| bip_39_word_no_space_8 | scaledrinkcreekinputmarginembarkswearasset |  
+| bip_39_word_no_space_9 | scaledrinkcreekinputmarginembarkswearassetobserve |  
 | bip_39_word_space_0 | ['scale', 'drink', 'creek', 'input', 'margin', 'embark', 'swear', 'asset', 'observe', 'crane', 'oblige', 'around'] |  
 | bip_39_word_space_1 | scale |  
 | bip_39_word_space_10 | scale drink creek input margin embark swear asset observe crane |  

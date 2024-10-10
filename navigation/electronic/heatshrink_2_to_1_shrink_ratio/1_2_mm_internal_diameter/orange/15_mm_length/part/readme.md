@@ -122,6 +122,18 @@ infant
 machine
 mandate
 ankle |  
+| bip_39_word_no_space_1 | robot |  
+| bip_39_word_no_space_10 | robotpitchreviewpreparedenialinfantmachinemandateanklefetch |  
+| bip_39_word_no_space_11 | robotpitchreviewpreparedenialinfantmachinemandateanklefetchflame |  
+| bip_39_word_no_space_12 | robotpitchreviewpreparedenialinfantmachinemandateanklefetchflameamazing |  
+| bip_39_word_no_space_2 | robotpitch |  
+| bip_39_word_no_space_3 | robotpitchreview |  
+| bip_39_word_no_space_4 | robotpitchreviewprepare |  
+| bip_39_word_no_space_5 | robotpitchreviewpreparedenial |  
+| bip_39_word_no_space_6 | robotpitchreviewpreparedenialinfant |  
+| bip_39_word_no_space_7 | robotpitchreviewpreparedenialinfantmachine |  
+| bip_39_word_no_space_8 | robotpitchreviewpreparedenialinfantmachinemandate |  
+| bip_39_word_no_space_9 | robotpitchreviewpreparedenialinfantmachinemandateankle |  
 | bip_39_word_space_0 | ['robot', 'pitch', 'review', 'prepare', 'denial', 'infant', 'machine', 'mandate', 'ankle', 'fetch', 'flame', 'amazing'] |  
 | bip_39_word_space_1 | robot |  
 | bip_39_word_space_10 | robot pitch review prepare denial infant machine mandate ankle fetch |  

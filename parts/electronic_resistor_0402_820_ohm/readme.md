@@ -122,6 +122,18 @@ raise
 lab
 artist
 indoor |  
+| bip_39_word_no_space_1 | you |  
+| bip_39_word_no_space_10 | youdwarfmousebonesirenraiselabartistindoorcrop |  
+| bip_39_word_no_space_11 | youdwarfmousebonesirenraiselabartistindoorcrophour |  
+| bip_39_word_no_space_12 | youdwarfmousebonesirenraiselabartistindoorcrophouractual |  
+| bip_39_word_no_space_2 | youdwarf |  
+| bip_39_word_no_space_3 | youdwarfmouse |  
+| bip_39_word_no_space_4 | youdwarfmousebone |  
+| bip_39_word_no_space_5 | youdwarfmousebonesiren |  
+| bip_39_word_no_space_6 | youdwarfmousebonesirenraise |  
+| bip_39_word_no_space_7 | youdwarfmousebonesirenraiselab |  
+| bip_39_word_no_space_8 | youdwarfmousebonesirenraiselabartist |  
+| bip_39_word_no_space_9 | youdwarfmousebonesirenraiselabartistindoor |  
 | bip_39_word_space_0 | ['you', 'dwarf', 'mouse', 'bone', 'siren', 'raise', 'lab', 'artist', 'indoor', 'crop', 'hour', 'actual'] |  
 | bip_39_word_space_1 | you |  
 | bip_39_word_space_10 | you dwarf mouse bone siren raise lab artist indoor crop |  

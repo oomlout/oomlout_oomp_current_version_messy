@@ -122,6 +122,18 @@ random
 tell
 volume
 resist |  
+| bip_39_word_no_space_1 | spoon |  
+| bip_39_word_no_space_10 | spoonindustrystreetticketmiddlerandomtellvolumeresistliar |  
+| bip_39_word_no_space_11 | spoonindustrystreetticketmiddlerandomtellvolumeresistliarleader |  
+| bip_39_word_no_space_12 | spoonindustrystreetticketmiddlerandomtellvolumeresistliarleaderability |  
+| bip_39_word_no_space_2 | spoonindustry |  
+| bip_39_word_no_space_3 | spoonindustrystreet |  
+| bip_39_word_no_space_4 | spoonindustrystreetticket |  
+| bip_39_word_no_space_5 | spoonindustrystreetticketmiddle |  
+| bip_39_word_no_space_6 | spoonindustrystreetticketmiddlerandom |  
+| bip_39_word_no_space_7 | spoonindustrystreetticketmiddlerandomtell |  
+| bip_39_word_no_space_8 | spoonindustrystreetticketmiddlerandomtellvolume |  
+| bip_39_word_no_space_9 | spoonindustrystreetticketmiddlerandomtellvolumeresist |  
 | bip_39_word_space_0 | ['spoon', 'industry', 'street', 'ticket', 'middle', 'random', 'tell', 'volume', 'resist', 'liar', 'leader', 'ability'] |  
 | bip_39_word_space_1 | spoon |  
 | bip_39_word_space_10 | spoon industry street ticket middle random tell volume resist liar |  

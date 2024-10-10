@@ -122,6 +122,18 @@ glide
 tray
 uniform
 earth |  
+| bip_39_word_no_space_1 | wagon |  
+| bip_39_word_no_space_10 | wagontrendsaladattractfatglidetrayuniformearthbetter |  
+| bip_39_word_no_space_11 | wagontrendsaladattractfatglidetrayuniformearthbetterreason |  
+| bip_39_word_no_space_12 | wagontrendsaladattractfatglidetrayuniformearthbetterreasonanswer |  
+| bip_39_word_no_space_2 | wagontrend |  
+| bip_39_word_no_space_3 | wagontrendsalad |  
+| bip_39_word_no_space_4 | wagontrendsaladattract |  
+| bip_39_word_no_space_5 | wagontrendsaladattractfat |  
+| bip_39_word_no_space_6 | wagontrendsaladattractfatglide |  
+| bip_39_word_no_space_7 | wagontrendsaladattractfatglidetray |  
+| bip_39_word_no_space_8 | wagontrendsaladattractfatglidetrayuniform |  
+| bip_39_word_no_space_9 | wagontrendsaladattractfatglidetrayuniformearth |  
 | bip_39_word_space_0 | ['wagon', 'trend', 'salad', 'attract', 'fat', 'glide', 'tray', 'uniform', 'earth', 'better', 'reason', 'answer'] |  
 | bip_39_word_space_1 | wagon |  
 | bip_39_word_space_10 | wagon trend salad attract fat glide tray uniform earth better |  

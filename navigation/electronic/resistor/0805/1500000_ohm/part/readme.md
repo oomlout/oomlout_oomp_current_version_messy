@@ -122,6 +122,18 @@ stadium
 air
 danger
 flock |  
+| bip_39_word_no_space_1 | exact |  
+| bip_39_word_no_space_10 | exactbrightdoordooreitherstadiumairdangerflockcall |  
+| bip_39_word_no_space_11 | exactbrightdoordooreitherstadiumairdangerflockcallcompany |  
+| bip_39_word_no_space_12 | exactbrightdoordooreitherstadiumairdangerflockcallcompanyalarm |  
+| bip_39_word_no_space_2 | exactbright |  
+| bip_39_word_no_space_3 | exactbrightdoor |  
+| bip_39_word_no_space_4 | exactbrightdoordoor |  
+| bip_39_word_no_space_5 | exactbrightdoordooreither |  
+| bip_39_word_no_space_6 | exactbrightdoordooreitherstadium |  
+| bip_39_word_no_space_7 | exactbrightdoordooreitherstadiumair |  
+| bip_39_word_no_space_8 | exactbrightdoordooreitherstadiumairdanger |  
+| bip_39_word_no_space_9 | exactbrightdoordooreitherstadiumairdangerflock |  
 | bip_39_word_space_0 | ['exact', 'bright', 'door', 'door', 'either', 'stadium', 'air', 'danger', 'flock', 'call', 'company', 'alarm'] |  
 | bip_39_word_space_1 | exact |  
 | bip_39_word_space_10 | exact bright door door either stadium air danger flock call |  

@@ -122,6 +122,18 @@ sport
 horse
 warm
 raise |  
+| bip_39_word_no_space_1 | agree |  
+| bip_39_word_no_space_10 | agreevictorychoicebreaddoublesporthorsewarmraisecatch |  
+| bip_39_word_no_space_11 | agreevictorychoicebreaddoublesporthorsewarmraisecatchestate |  
+| bip_39_word_no_space_12 | agreevictorychoicebreaddoublesporthorsewarmraisecatchestateappear |  
+| bip_39_word_no_space_2 | agreevictory |  
+| bip_39_word_no_space_3 | agreevictorychoice |  
+| bip_39_word_no_space_4 | agreevictorychoicebread |  
+| bip_39_word_no_space_5 | agreevictorychoicebreaddouble |  
+| bip_39_word_no_space_6 | agreevictorychoicebreaddoublesport |  
+| bip_39_word_no_space_7 | agreevictorychoicebreaddoublesporthorse |  
+| bip_39_word_no_space_8 | agreevictorychoicebreaddoublesporthorsewarm |  
+| bip_39_word_no_space_9 | agreevictorychoicebreaddoublesporthorsewarmraise |  
 | bip_39_word_space_0 | ['agree', 'victory', 'choice', 'bread', 'double', 'sport', 'horse', 'warm', 'raise', 'catch', 'estate', 'appear'] |  
 | bip_39_word_space_1 | agree |  
 | bip_39_word_space_10 | agree victory choice bread double sport horse warm raise catch |  

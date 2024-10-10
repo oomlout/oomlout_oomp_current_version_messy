@@ -122,6 +122,18 @@ divide
 then
 tiger
 volume |  
+| bip_39_word_no_space_1 | forest |  
+| bip_39_word_no_space_10 | forestventureratebutterplanetdividethentigervolumepelican |  
+| bip_39_word_no_space_11 | forestventureratebutterplanetdividethentigervolumepelicanpet |  
+| bip_39_word_no_space_12 | forestventureratebutterplanetdividethentigervolumepelicanpetage |  
+| bip_39_word_no_space_2 | forestventure |  
+| bip_39_word_no_space_3 | forestventurerate |  
+| bip_39_word_no_space_4 | forestventureratebutter |  
+| bip_39_word_no_space_5 | forestventureratebutterplanet |  
+| bip_39_word_no_space_6 | forestventureratebutterplanetdivide |  
+| bip_39_word_no_space_7 | forestventureratebutterplanetdividethen |  
+| bip_39_word_no_space_8 | forestventureratebutterplanetdividethentiger |  
+| bip_39_word_no_space_9 | forestventureratebutterplanetdividethentigervolume |  
 | bip_39_word_space_0 | ['forest', 'venture', 'rate', 'butter', 'planet', 'divide', 'then', 'tiger', 'volume', 'pelican', 'pet', 'age'] |  
 | bip_39_word_space_1 | forest |  
 | bip_39_word_space_10 | forest venture rate butter planet divide then tiger volume pelican |  

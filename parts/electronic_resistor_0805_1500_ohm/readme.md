@@ -122,6 +122,18 @@ pact
 observe
 wire
 jealous |  
+| bip_39_word_no_space_1 | farm |  
+| bip_39_word_no_space_10 | farmabusecoralelseracepactobservewirejealousflash |  
+| bip_39_word_no_space_11 | farmabusecoralelseracepactobservewirejealousflashreason |  
+| bip_39_word_no_space_12 | farmabusecoralelseracepactobservewirejealousflashreasonalways |  
+| bip_39_word_no_space_2 | farmabuse |  
+| bip_39_word_no_space_3 | farmabusecoral |  
+| bip_39_word_no_space_4 | farmabusecoralelse |  
+| bip_39_word_no_space_5 | farmabusecoralelserace |  
+| bip_39_word_no_space_6 | farmabusecoralelseracepact |  
+| bip_39_word_no_space_7 | farmabusecoralelseracepactobserve |  
+| bip_39_word_no_space_8 | farmabusecoralelseracepactobservewire |  
+| bip_39_word_no_space_9 | farmabusecoralelseracepactobservewirejealous |  
 | bip_39_word_space_0 | ['farm', 'abuse', 'coral', 'else', 'race', 'pact', 'observe', 'wire', 'jealous', 'flash', 'reason', 'always'] |  
 | bip_39_word_space_1 | farm |  
 | bip_39_word_space_10 | farm abuse coral else race pact observe wire jealous flash |  

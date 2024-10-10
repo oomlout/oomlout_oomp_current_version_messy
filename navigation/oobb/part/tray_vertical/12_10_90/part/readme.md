@@ -122,6 +122,18 @@ ski
 behave
 gadget
 prosper |  
+| bip_39_word_no_space_1 | stove |  
+| bip_39_word_no_space_10 | stovewingcheapkitspeedskibehavegadgetprosperhire |  
+| bip_39_word_no_space_11 | stovewingcheapkitspeedskibehavegadgetprosperhirefront |  
+| bip_39_word_no_space_12 | stovewingcheapkitspeedskibehavegadgetprosperhirefrontangry |  
+| bip_39_word_no_space_2 | stovewing |  
+| bip_39_word_no_space_3 | stovewingcheap |  
+| bip_39_word_no_space_4 | stovewingcheapkit |  
+| bip_39_word_no_space_5 | stovewingcheapkitspeed |  
+| bip_39_word_no_space_6 | stovewingcheapkitspeedski |  
+| bip_39_word_no_space_7 | stovewingcheapkitspeedskibehave |  
+| bip_39_word_no_space_8 | stovewingcheapkitspeedskibehavegadget |  
+| bip_39_word_no_space_9 | stovewingcheapkitspeedskibehavegadgetprosper |  
 | bip_39_word_space_0 | ['stove', 'wing', 'cheap', 'kit', 'speed', 'ski', 'behave', 'gadget', 'prosper', 'hire', 'front', 'angry'] |  
 | bip_39_word_space_1 | stove |  
 | bip_39_word_space_10 | stove wing cheap kit speed ski behave gadget prosper hire |  

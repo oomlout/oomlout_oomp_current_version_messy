@@ -122,6 +122,18 @@ palm
 extend
 thought
 avoid |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | cansailseasoninnocentquickpalmextendthoughtavoidteach |  
+| bip_39_word_no_space_11 | cansailseasoninnocentquickpalmextendthoughtavoidteachembark |  
+| bip_39_word_no_space_12 | cansailseasoninnocentquickpalmextendthoughtavoidteachembarkarrow |  
+| bip_39_word_no_space_2 | cansail |  
+| bip_39_word_no_space_3 | cansailseason |  
+| bip_39_word_no_space_4 | cansailseasoninnocent |  
+| bip_39_word_no_space_5 | cansailseasoninnocentquick |  
+| bip_39_word_no_space_6 | cansailseasoninnocentquickpalm |  
+| bip_39_word_no_space_7 | cansailseasoninnocentquickpalmextend |  
+| bip_39_word_no_space_8 | cansailseasoninnocentquickpalmextendthought |  
+| bip_39_word_no_space_9 | cansailseasoninnocentquickpalmextendthoughtavoid |  
 | bip_39_word_space_0 | ['can', 'sail', 'season', 'innocent', 'quick', 'palm', 'extend', 'thought', 'avoid', 'teach', 'embark', 'arrow'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can sail season innocent quick palm extend thought avoid teach |  

@@ -122,6 +122,18 @@ segment
 receive
 actual
 language |  
+| bip_39_word_no_space_1 | decrease |  
+| bip_39_word_no_space_10 | decreasefitnesscoreinvolvesecretsegmentreceiveactuallanguagethunder |  
+| bip_39_word_no_space_11 | decreasefitnesscoreinvolvesecretsegmentreceiveactuallanguagethunderinclude |  
+| bip_39_word_no_space_12 | decreasefitnesscoreinvolvesecretsegmentreceiveactuallanguagethunderincludearmy |  
+| bip_39_word_no_space_2 | decreasefitness |  
+| bip_39_word_no_space_3 | decreasefitnesscore |  
+| bip_39_word_no_space_4 | decreasefitnesscoreinvolve |  
+| bip_39_word_no_space_5 | decreasefitnesscoreinvolvesecret |  
+| bip_39_word_no_space_6 | decreasefitnesscoreinvolvesecretsegment |  
+| bip_39_word_no_space_7 | decreasefitnesscoreinvolvesecretsegmentreceive |  
+| bip_39_word_no_space_8 | decreasefitnesscoreinvolvesecretsegmentreceiveactual |  
+| bip_39_word_no_space_9 | decreasefitnesscoreinvolvesecretsegmentreceiveactuallanguage |  
 | bip_39_word_space_0 | ['decrease', 'fitness', 'core', 'involve', 'secret', 'segment', 'receive', 'actual', 'language', 'thunder', 'include', 'army'] |  
 | bip_39_word_space_1 | decrease |  
 | bip_39_word_space_10 | decrease fitness core involve secret segment receive actual language thunder |  

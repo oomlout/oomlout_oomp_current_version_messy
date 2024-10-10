@@ -122,6 +122,18 @@ device
 ginger
 forward
 equal |  
+| bip_39_word_no_space_1 | high |  
+| bip_39_word_no_space_10 | highheartsaferegretfeeldevicegingerforwardequalmethod |  
+| bip_39_word_no_space_11 | highheartsaferegretfeeldevicegingerforwardequalmethoddream |  
+| bip_39_word_no_space_12 | highheartsaferegretfeeldevicegingerforwardequalmethoddreamaisle |  
+| bip_39_word_no_space_2 | highheart |  
+| bip_39_word_no_space_3 | highheartsafe |  
+| bip_39_word_no_space_4 | highheartsaferegret |  
+| bip_39_word_no_space_5 | highheartsaferegretfeel |  
+| bip_39_word_no_space_6 | highheartsaferegretfeeldevice |  
+| bip_39_word_no_space_7 | highheartsaferegretfeeldeviceginger |  
+| bip_39_word_no_space_8 | highheartsaferegretfeeldevicegingerforward |  
+| bip_39_word_no_space_9 | highheartsaferegretfeeldevicegingerforwardequal |  
 | bip_39_word_space_0 | ['high', 'heart', 'safe', 'regret', 'feel', 'device', 'ginger', 'forward', 'equal', 'method', 'dream', 'aisle'] |  
 | bip_39_word_space_1 | high |  
 | bip_39_word_space_10 | high heart safe regret feel device ginger forward equal method |  

@@ -122,6 +122,18 @@ shy
 infant
 story
 axis |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feellunarsharemilkclarifyshyinfantstoryaxiswear |  
+| bip_39_word_no_space_11 | feellunarsharemilkclarifyshyinfantstoryaxiswearstreet |  
+| bip_39_word_no_space_12 | feellunarsharemilkclarifyshyinfantstoryaxiswearstreetattract |  
+| bip_39_word_no_space_2 | feellunar |  
+| bip_39_word_no_space_3 | feellunarshare |  
+| bip_39_word_no_space_4 | feellunarsharemilk |  
+| bip_39_word_no_space_5 | feellunarsharemilkclarify |  
+| bip_39_word_no_space_6 | feellunarsharemilkclarifyshy |  
+| bip_39_word_no_space_7 | feellunarsharemilkclarifyshyinfant |  
+| bip_39_word_no_space_8 | feellunarsharemilkclarifyshyinfantstory |  
+| bip_39_word_no_space_9 | feellunarsharemilkclarifyshyinfantstoryaxis |  
 | bip_39_word_space_0 | ['feel', 'lunar', 'share', 'milk', 'clarify', 'shy', 'infant', 'story', 'axis', 'wear', 'street', 'attract'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel lunar share milk clarify shy infant story axis wear |  

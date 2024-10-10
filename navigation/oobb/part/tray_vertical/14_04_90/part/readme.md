@@ -122,6 +122,18 @@ gospel
 unfair
 option
 draft |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueairexcludetunatacklegospelunfairoptiondraftquit |  
+| bip_39_word_no_space_11 | issueairexcludetunatacklegospelunfairoptiondraftquitluggage |  
+| bip_39_word_no_space_12 | issueairexcludetunatacklegospelunfairoptiondraftquitluggageact |  
+| bip_39_word_no_space_2 | issueair |  
+| bip_39_word_no_space_3 | issueairexclude |  
+| bip_39_word_no_space_4 | issueairexcludetuna |  
+| bip_39_word_no_space_5 | issueairexcludetunatackle |  
+| bip_39_word_no_space_6 | issueairexcludetunatacklegospel |  
+| bip_39_word_no_space_7 | issueairexcludetunatacklegospelunfair |  
+| bip_39_word_no_space_8 | issueairexcludetunatacklegospelunfairoption |  
+| bip_39_word_no_space_9 | issueairexcludetunatacklegospelunfairoptiondraft |  
 | bip_39_word_space_0 | ['issue', 'air', 'exclude', 'tuna', 'tackle', 'gospel', 'unfair', 'option', 'draft', 'quit', 'luggage', 'act'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue air exclude tuna tackle gospel unfair option draft quit |  

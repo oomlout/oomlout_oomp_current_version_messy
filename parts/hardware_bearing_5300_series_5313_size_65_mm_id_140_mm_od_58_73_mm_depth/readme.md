@@ -122,6 +122,18 @@ neglect
 behind
 surge
 deliver |  
+| bip_39_word_no_space_1 | capital |  
+| bip_39_word_no_space_10 | capitalupholdimpulseheadgoatneglectbehindsurgedelivermodel |  
+| bip_39_word_no_space_11 | capitalupholdimpulseheadgoatneglectbehindsurgedelivermodelrally |  
+| bip_39_word_no_space_12 | capitalupholdimpulseheadgoatneglectbehindsurgedelivermodelrallyarena |  
+| bip_39_word_no_space_2 | capitaluphold |  
+| bip_39_word_no_space_3 | capitalupholdimpulse |  
+| bip_39_word_no_space_4 | capitalupholdimpulsehead |  
+| bip_39_word_no_space_5 | capitalupholdimpulseheadgoat |  
+| bip_39_word_no_space_6 | capitalupholdimpulseheadgoatneglect |  
+| bip_39_word_no_space_7 | capitalupholdimpulseheadgoatneglectbehind |  
+| bip_39_word_no_space_8 | capitalupholdimpulseheadgoatneglectbehindsurge |  
+| bip_39_word_no_space_9 | capitalupholdimpulseheadgoatneglectbehindsurgedeliver |  
 | bip_39_word_space_0 | ['capital', 'uphold', 'impulse', 'head', 'goat', 'neglect', 'behind', 'surge', 'deliver', 'model', 'rally', 'arena'] |  
 | bip_39_word_space_1 | capital |  
 | bip_39_word_space_10 | capital uphold impulse head goat neglect behind surge deliver model |  

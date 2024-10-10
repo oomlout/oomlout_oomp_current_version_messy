@@ -122,6 +122,18 @@ crisp
 report
 blossom
 wash |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gaindrysongbrandexamplecrispreportblossomwashjudge |  
+| bip_39_word_no_space_11 | gaindrysongbrandexamplecrispreportblossomwashjudgescript |  
+| bip_39_word_no_space_12 | gaindrysongbrandexamplecrispreportblossomwashjudgescriptarmy |  
+| bip_39_word_no_space_2 | gaindry |  
+| bip_39_word_no_space_3 | gaindrysong |  
+| bip_39_word_no_space_4 | gaindrysongbrand |  
+| bip_39_word_no_space_5 | gaindrysongbrandexample |  
+| bip_39_word_no_space_6 | gaindrysongbrandexamplecrisp |  
+| bip_39_word_no_space_7 | gaindrysongbrandexamplecrispreport |  
+| bip_39_word_no_space_8 | gaindrysongbrandexamplecrispreportblossom |  
+| bip_39_word_no_space_9 | gaindrysongbrandexamplecrispreportblossomwash |  
 | bip_39_word_space_0 | ['gain', 'dry', 'song', 'brand', 'example', 'crisp', 'report', 'blossom', 'wash', 'judge', 'script', 'army'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain dry song brand example crisp report blossom wash judge |  

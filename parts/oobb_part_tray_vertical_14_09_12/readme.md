@@ -122,6 +122,18 @@ left
 absent
 wife
 immense |  
+| bip_39_word_no_space_1 | valve |  
+| bip_39_word_no_space_10 | valvegravitytowardportionfaultleftabsentwifeimmenseplanet |  
+| bip_39_word_no_space_11 | valvegravitytowardportionfaultleftabsentwifeimmenseplanetpole |  
+| bip_39_word_no_space_12 | valvegravitytowardportionfaultleftabsentwifeimmenseplanetpoleaddict |  
+| bip_39_word_no_space_2 | valvegravity |  
+| bip_39_word_no_space_3 | valvegravitytoward |  
+| bip_39_word_no_space_4 | valvegravitytowardportion |  
+| bip_39_word_no_space_5 | valvegravitytowardportionfault |  
+| bip_39_word_no_space_6 | valvegravitytowardportionfaultleft |  
+| bip_39_word_no_space_7 | valvegravitytowardportionfaultleftabsent |  
+| bip_39_word_no_space_8 | valvegravitytowardportionfaultleftabsentwife |  
+| bip_39_word_no_space_9 | valvegravitytowardportionfaultleftabsentwifeimmense |  
 | bip_39_word_space_0 | ['valve', 'gravity', 'toward', 'portion', 'fault', 'left', 'absent', 'wife', 'immense', 'planet', 'pole', 'addict'] |  
 | bip_39_word_space_1 | valve |  
 | bip_39_word_space_10 | valve gravity toward portion fault left absent wife immense planet |  

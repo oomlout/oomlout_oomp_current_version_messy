@@ -122,6 +122,18 @@ solar
 wear
 dizzy
 course |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detectmathcapablealcoholselectsolarweardizzycoursegrow |  
+| bip_39_word_no_space_11 | detectmathcapablealcoholselectsolarweardizzycoursegrowtrain |  
+| bip_39_word_no_space_12 | detectmathcapablealcoholselectsolarweardizzycoursegrowtrainaunt |  
+| bip_39_word_no_space_2 | detectmath |  
+| bip_39_word_no_space_3 | detectmathcapable |  
+| bip_39_word_no_space_4 | detectmathcapablealcohol |  
+| bip_39_word_no_space_5 | detectmathcapablealcoholselect |  
+| bip_39_word_no_space_6 | detectmathcapablealcoholselectsolar |  
+| bip_39_word_no_space_7 | detectmathcapablealcoholselectsolarwear |  
+| bip_39_word_no_space_8 | detectmathcapablealcoholselectsolarweardizzy |  
+| bip_39_word_no_space_9 | detectmathcapablealcoholselectsolarweardizzycourse |  
 | bip_39_word_space_0 | ['detect', 'math', 'capable', 'alcohol', 'select', 'solar', 'wear', 'dizzy', 'course', 'grow', 'train', 'aunt'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect math capable alcohol select solar wear dizzy course grow |  

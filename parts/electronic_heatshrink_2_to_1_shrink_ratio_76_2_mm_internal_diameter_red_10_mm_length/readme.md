@@ -122,6 +122,18 @@ chronic
 capable
 quantum
 extend |  
+| bip_39_word_no_space_1 | polar |  
+| bip_39_word_no_space_10 | polarnowgirlpulseroutechroniccapablequantumextendblossom |  
+| bip_39_word_no_space_11 | polarnowgirlpulseroutechroniccapablequantumextendblossomspike |  
+| bip_39_word_no_space_12 | polarnowgirlpulseroutechroniccapablequantumextendblossomspikearctic |  
+| bip_39_word_no_space_2 | polarnow |  
+| bip_39_word_no_space_3 | polarnowgirl |  
+| bip_39_word_no_space_4 | polarnowgirlpulse |  
+| bip_39_word_no_space_5 | polarnowgirlpulseroute |  
+| bip_39_word_no_space_6 | polarnowgirlpulseroutechronic |  
+| bip_39_word_no_space_7 | polarnowgirlpulseroutechroniccapable |  
+| bip_39_word_no_space_8 | polarnowgirlpulseroutechroniccapablequantum |  
+| bip_39_word_no_space_9 | polarnowgirlpulseroutechroniccapablequantumextend |  
 | bip_39_word_space_0 | ['polar', 'now', 'girl', 'pulse', 'route', 'chronic', 'capable', 'quantum', 'extend', 'blossom', 'spike', 'arctic'] |  
 | bip_39_word_space_1 | polar |  
 | bip_39_word_space_10 | polar now girl pulse route chronic capable quantum extend blossom |  

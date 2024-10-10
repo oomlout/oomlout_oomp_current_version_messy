@@ -122,6 +122,18 @@ vendor
 boost
 soft
 dune |  
+| bip_39_word_no_space_1 | figure |  
+| bip_39_word_no_space_10 | figurebittercrimefoundlengthvendorboostsoftdunereduce |  
+| bip_39_word_no_space_11 | figurebittercrimefoundlengthvendorboostsoftdunereducejoke |  
+| bip_39_word_no_space_12 | figurebittercrimefoundlengthvendorboostsoftdunereducejokealbum |  
+| bip_39_word_no_space_2 | figurebitter |  
+| bip_39_word_no_space_3 | figurebittercrime |  
+| bip_39_word_no_space_4 | figurebittercrimefound |  
+| bip_39_word_no_space_5 | figurebittercrimefoundlength |  
+| bip_39_word_no_space_6 | figurebittercrimefoundlengthvendor |  
+| bip_39_word_no_space_7 | figurebittercrimefoundlengthvendorboost |  
+| bip_39_word_no_space_8 | figurebittercrimefoundlengthvendorboostsoft |  
+| bip_39_word_no_space_9 | figurebittercrimefoundlengthvendorboostsoftdune |  
 | bip_39_word_space_0 | ['figure', 'bitter', 'crime', 'found', 'length', 'vendor', 'boost', 'soft', 'dune', 'reduce', 'joke', 'album'] |  
 | bip_39_word_space_1 | figure |  
 | bip_39_word_space_10 | figure bitter crime found length vendor boost soft dune reduce |  

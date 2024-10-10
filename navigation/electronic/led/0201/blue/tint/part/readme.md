@@ -122,6 +122,18 @@ wolf
 evidence
 three
 scrap |  
+| bip_39_word_no_space_1 | alarm |  
+| bip_39_word_no_space_10 | alarmmeadowendlesspactfoxwolfevidencethreescrapbreeze |  
+| bip_39_word_no_space_11 | alarmmeadowendlesspactfoxwolfevidencethreescrapbreezesymptom |  
+| bip_39_word_no_space_12 | alarmmeadowendlesspactfoxwolfevidencethreescrapbreezesymptomanswer |  
+| bip_39_word_no_space_2 | alarmmeadow |  
+| bip_39_word_no_space_3 | alarmmeadowendless |  
+| bip_39_word_no_space_4 | alarmmeadowendlesspact |  
+| bip_39_word_no_space_5 | alarmmeadowendlesspactfox |  
+| bip_39_word_no_space_6 | alarmmeadowendlesspactfoxwolf |  
+| bip_39_word_no_space_7 | alarmmeadowendlesspactfoxwolfevidence |  
+| bip_39_word_no_space_8 | alarmmeadowendlesspactfoxwolfevidencethree |  
+| bip_39_word_no_space_9 | alarmmeadowendlesspactfoxwolfevidencethreescrap |  
 | bip_39_word_space_0 | ['alarm', 'meadow', 'endless', 'pact', 'fox', 'wolf', 'evidence', 'three', 'scrap', 'breeze', 'symptom', 'answer'] |  
 | bip_39_word_space_1 | alarm |  
 | bip_39_word_space_10 | alarm meadow endless pact fox wolf evidence three scrap breeze |  

@@ -122,6 +122,18 @@ furnace
 ten
 emotion
 midnight |  
+| bip_39_word_no_space_1 | jump |  
+| bip_39_word_no_space_10 | jumpantennahoveralphadealfurnacetenemotionmidnightnest |  
+| bip_39_word_no_space_11 | jumpantennahoveralphadealfurnacetenemotionmidnightnestexcuse |  
+| bip_39_word_no_space_12 | jumpantennahoveralphadealfurnacetenemotionmidnightnestexcuseadvice |  
+| bip_39_word_no_space_2 | jumpantenna |  
+| bip_39_word_no_space_3 | jumpantennahover |  
+| bip_39_word_no_space_4 | jumpantennahoveralpha |  
+| bip_39_word_no_space_5 | jumpantennahoveralphadeal |  
+| bip_39_word_no_space_6 | jumpantennahoveralphadealfurnace |  
+| bip_39_word_no_space_7 | jumpantennahoveralphadealfurnaceten |  
+| bip_39_word_no_space_8 | jumpantennahoveralphadealfurnacetenemotion |  
+| bip_39_word_no_space_9 | jumpantennahoveralphadealfurnacetenemotionmidnight |  
 | bip_39_word_space_0 | ['jump', 'antenna', 'hover', 'alpha', 'deal', 'furnace', 'ten', 'emotion', 'midnight', 'nest', 'excuse', 'advice'] |  
 | bip_39_word_space_1 | jump |  
 | bip_39_word_space_10 | jump antenna hover alpha deal furnace ten emotion midnight nest |  

@@ -122,6 +122,18 @@ hawk
 sorry
 ahead
 own |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineeleaffootofferplastichawksorryaheadownbanner |  
+| bip_39_word_no_space_11 | nomineeleaffootofferplastichawksorryaheadownbannergadget |  
+| bip_39_word_no_space_12 | nomineeleaffootofferplastichawksorryaheadownbannergadgetage |  
+| bip_39_word_no_space_2 | nomineeleaf |  
+| bip_39_word_no_space_3 | nomineeleaffoot |  
+| bip_39_word_no_space_4 | nomineeleaffootoffer |  
+| bip_39_word_no_space_5 | nomineeleaffootofferplastic |  
+| bip_39_word_no_space_6 | nomineeleaffootofferplastichawk |  
+| bip_39_word_no_space_7 | nomineeleaffootofferplastichawksorry |  
+| bip_39_word_no_space_8 | nomineeleaffootofferplastichawksorryahead |  
+| bip_39_word_no_space_9 | nomineeleaffootofferplastichawksorryaheadown |  
 | bip_39_word_space_0 | ['nominee', 'leaf', 'foot', 'offer', 'plastic', 'hawk', 'sorry', 'ahead', 'own', 'banner', 'gadget', 'age'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee leaf foot offer plastic hawk sorry ahead own banner |  

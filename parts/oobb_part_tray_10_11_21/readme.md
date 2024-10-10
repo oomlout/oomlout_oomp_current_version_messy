@@ -122,6 +122,18 @@ path
 aunt
 repair
 topple |  
+| bip_39_word_no_space_1 | vocal |  
+| bip_39_word_no_space_10 | vocalreportjoychatcanalpathauntrepairtopplewedding |  
+| bip_39_word_no_space_11 | vocalreportjoychatcanalpathauntrepairtoppleweddingown |  
+| bip_39_word_no_space_12 | vocalreportjoychatcanalpathauntrepairtoppleweddingownaugust |  
+| bip_39_word_no_space_2 | vocalreport |  
+| bip_39_word_no_space_3 | vocalreportjoy |  
+| bip_39_word_no_space_4 | vocalreportjoychat |  
+| bip_39_word_no_space_5 | vocalreportjoychatcanal |  
+| bip_39_word_no_space_6 | vocalreportjoychatcanalpath |  
+| bip_39_word_no_space_7 | vocalreportjoychatcanalpathaunt |  
+| bip_39_word_no_space_8 | vocalreportjoychatcanalpathauntrepair |  
+| bip_39_word_no_space_9 | vocalreportjoychatcanalpathauntrepairtopple |  
 | bip_39_word_space_0 | ['vocal', 'report', 'joy', 'chat', 'canal', 'path', 'aunt', 'repair', 'topple', 'wedding', 'own', 'august'] |  
 | bip_39_word_space_1 | vocal |  
 | bip_39_word_space_10 | vocal report joy chat canal path aunt repair topple wedding |  

@@ -122,6 +122,18 @@ inflict
 stand
 cradle
 employ |  
+| bip_39_word_no_space_1 | point |  
+| bip_39_word_no_space_10 | pointimageglowstingboyinflictstandcradleemploytop |  
+| bip_39_word_no_space_11 | pointimageglowstingboyinflictstandcradleemploytopoutdoor |  
+| bip_39_word_no_space_12 | pointimageglowstingboyinflictstandcradleemploytopoutdoorathlete |  
+| bip_39_word_no_space_2 | pointimage |  
+| bip_39_word_no_space_3 | pointimageglow |  
+| bip_39_word_no_space_4 | pointimageglowsting |  
+| bip_39_word_no_space_5 | pointimageglowstingboy |  
+| bip_39_word_no_space_6 | pointimageglowstingboyinflict |  
+| bip_39_word_no_space_7 | pointimageglowstingboyinflictstand |  
+| bip_39_word_no_space_8 | pointimageglowstingboyinflictstandcradle |  
+| bip_39_word_no_space_9 | pointimageglowstingboyinflictstandcradleemploy |  
 | bip_39_word_space_0 | ['point', 'image', 'glow', 'sting', 'boy', 'inflict', 'stand', 'cradle', 'employ', 'top', 'outdoor', 'athlete'] |  
 | bip_39_word_space_1 | point |  
 | bip_39_word_space_10 | point image glow sting boy inflict stand cradle employ top |  

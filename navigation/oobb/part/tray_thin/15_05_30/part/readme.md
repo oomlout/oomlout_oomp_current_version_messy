@@ -122,6 +122,18 @@ indicate
 escape
 coast
 useless |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachalphavoteworrycargoindicateescapecoastuselessagent |  
+| bip_39_word_no_space_11 | stomachalphavoteworrycargoindicateescapecoastuselessagenttaxi |  
+| bip_39_word_no_space_12 | stomachalphavoteworrycargoindicateescapecoastuselessagenttaxiaround |  
+| bip_39_word_no_space_2 | stomachalpha |  
+| bip_39_word_no_space_3 | stomachalphavote |  
+| bip_39_word_no_space_4 | stomachalphavoteworry |  
+| bip_39_word_no_space_5 | stomachalphavoteworrycargo |  
+| bip_39_word_no_space_6 | stomachalphavoteworrycargoindicate |  
+| bip_39_word_no_space_7 | stomachalphavoteworrycargoindicateescape |  
+| bip_39_word_no_space_8 | stomachalphavoteworrycargoindicateescapecoast |  
+| bip_39_word_no_space_9 | stomachalphavoteworrycargoindicateescapecoastuseless |  
 | bip_39_word_space_0 | ['stomach', 'alpha', 'vote', 'worry', 'cargo', 'indicate', 'escape', 'coast', 'useless', 'agent', 'taxi', 'around'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach alpha vote worry cargo indicate escape coast useless agent |  

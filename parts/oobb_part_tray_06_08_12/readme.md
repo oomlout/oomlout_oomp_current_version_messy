@@ -122,6 +122,18 @@ message
 eye
 smile
 skirt |  
+| bip_39_word_no_space_1 | current |  
+| bip_39_word_no_space_10 | currentsplitnationhurrydividemessageeyesmileskirtvoyage |  
+| bip_39_word_no_space_11 | currentsplitnationhurrydividemessageeyesmileskirtvoyagetreat |  
+| bip_39_word_no_space_12 | currentsplitnationhurrydividemessageeyesmileskirtvoyagetreatanger |  
+| bip_39_word_no_space_2 | currentsplit |  
+| bip_39_word_no_space_3 | currentsplitnation |  
+| bip_39_word_no_space_4 | currentsplitnationhurry |  
+| bip_39_word_no_space_5 | currentsplitnationhurrydivide |  
+| bip_39_word_no_space_6 | currentsplitnationhurrydividemessage |  
+| bip_39_word_no_space_7 | currentsplitnationhurrydividemessageeye |  
+| bip_39_word_no_space_8 | currentsplitnationhurrydividemessageeyesmile |  
+| bip_39_word_no_space_9 | currentsplitnationhurrydividemessageeyesmileskirt |  
 | bip_39_word_space_0 | ['current', 'split', 'nation', 'hurry', 'divide', 'message', 'eye', 'smile', 'skirt', 'voyage', 'treat', 'anger'] |  
 | bip_39_word_space_1 | current |  
 | bip_39_word_space_10 | current split nation hurry divide message eye smile skirt voyage |  

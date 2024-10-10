@@ -122,6 +122,18 @@ pitch
 today
 penalty
 notice |  
+| bip_39_word_no_space_1 | scorpion |  
+| bip_39_word_no_space_10 | scorpionstreetwaterawfulunderpitchtodaypenaltynoticebrief |  
+| bip_39_word_no_space_11 | scorpionstreetwaterawfulunderpitchtodaypenaltynoticebriefblame |  
+| bip_39_word_no_space_12 | scorpionstreetwaterawfulunderpitchtodaypenaltynoticebriefblamearena |  
+| bip_39_word_no_space_2 | scorpionstreet |  
+| bip_39_word_no_space_3 | scorpionstreetwater |  
+| bip_39_word_no_space_4 | scorpionstreetwaterawful |  
+| bip_39_word_no_space_5 | scorpionstreetwaterawfulunder |  
+| bip_39_word_no_space_6 | scorpionstreetwaterawfulunderpitch |  
+| bip_39_word_no_space_7 | scorpionstreetwaterawfulunderpitchtoday |  
+| bip_39_word_no_space_8 | scorpionstreetwaterawfulunderpitchtodaypenalty |  
+| bip_39_word_no_space_9 | scorpionstreetwaterawfulunderpitchtodaypenaltynotice |  
 | bip_39_word_space_0 | ['scorpion', 'street', 'water', 'awful', 'under', 'pitch', 'today', 'penalty', 'notice', 'brief', 'blame', 'arena'] |  
 | bip_39_word_space_1 | scorpion |  
 | bip_39_word_space_10 | scorpion street water awful under pitch today penalty notice brief |  

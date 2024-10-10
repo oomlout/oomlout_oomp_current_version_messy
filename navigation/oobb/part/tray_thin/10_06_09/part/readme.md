@@ -122,6 +122,18 @@ extra
 crowd
 afraid
 october |  
+| bip_39_word_no_space_1 | cash |  
+| bip_39_word_no_space_10 | cashpoetnotableshootjazzextracrowdafraidoctobergate |  
+| bip_39_word_no_space_11 | cashpoetnotableshootjazzextracrowdafraidoctobergatemillion |  
+| bip_39_word_no_space_12 | cashpoetnotableshootjazzextracrowdafraidoctobergatemillionairport |  
+| bip_39_word_no_space_2 | cashpoet |  
+| bip_39_word_no_space_3 | cashpoetnotable |  
+| bip_39_word_no_space_4 | cashpoetnotableshoot |  
+| bip_39_word_no_space_5 | cashpoetnotableshootjazz |  
+| bip_39_word_no_space_6 | cashpoetnotableshootjazzextra |  
+| bip_39_word_no_space_7 | cashpoetnotableshootjazzextracrowd |  
+| bip_39_word_no_space_8 | cashpoetnotableshootjazzextracrowdafraid |  
+| bip_39_word_no_space_9 | cashpoetnotableshootjazzextracrowdafraidoctober |  
 | bip_39_word_space_0 | ['cash', 'poet', 'notable', 'shoot', 'jazz', 'extra', 'crowd', 'afraid', 'october', 'gate', 'million', 'airport'] |  
 | bip_39_word_space_1 | cash |  
 | bip_39_word_space_10 | cash poet notable shoot jazz extra crowd afraid october gate |  

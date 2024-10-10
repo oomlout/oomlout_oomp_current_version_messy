@@ -122,6 +122,18 @@ butter
 rich
 file
 suffer |  
+| bip_39_word_no_space_1 | invite |  
+| bip_39_word_no_space_10 | invitericegaugesockonlinebutterrichfilesufferimpact |  
+| bip_39_word_no_space_11 | invitericegaugesockonlinebutterrichfilesufferimpactannual |  
+| bip_39_word_no_space_12 | invitericegaugesockonlinebutterrichfilesufferimpactannualaffair |  
+| bip_39_word_no_space_2 | inviterice |  
+| bip_39_word_no_space_3 | invitericegauge |  
+| bip_39_word_no_space_4 | invitericegaugesock |  
+| bip_39_word_no_space_5 | invitericegaugesockonline |  
+| bip_39_word_no_space_6 | invitericegaugesockonlinebutter |  
+| bip_39_word_no_space_7 | invitericegaugesockonlinebutterrich |  
+| bip_39_word_no_space_8 | invitericegaugesockonlinebutterrichfile |  
+| bip_39_word_no_space_9 | invitericegaugesockonlinebutterrichfilesuffer |  
 | bip_39_word_space_0 | ['invite', 'rice', 'gauge', 'sock', 'online', 'butter', 'rich', 'file', 'suffer', 'impact', 'annual', 'affair'] |  
 | bip_39_word_space_1 | invite |  
 | bip_39_word_space_10 | invite rice gauge sock online butter rich file suffer impact |  

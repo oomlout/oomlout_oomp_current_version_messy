@@ -122,6 +122,18 @@ buzz
 shed
 museum
 relief |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppyclarifyspringlyricsgreenbuzzshedmuseumreliefcertain |  
+| bip_39_word_no_space_11 | puppyclarifyspringlyricsgreenbuzzshedmuseumreliefcertainexit |  
+| bip_39_word_no_space_12 | puppyclarifyspringlyricsgreenbuzzshedmuseumreliefcertainexitarena |  
+| bip_39_word_no_space_2 | puppyclarify |  
+| bip_39_word_no_space_3 | puppyclarifyspring |  
+| bip_39_word_no_space_4 | puppyclarifyspringlyrics |  
+| bip_39_word_no_space_5 | puppyclarifyspringlyricsgreen |  
+| bip_39_word_no_space_6 | puppyclarifyspringlyricsgreenbuzz |  
+| bip_39_word_no_space_7 | puppyclarifyspringlyricsgreenbuzzshed |  
+| bip_39_word_no_space_8 | puppyclarifyspringlyricsgreenbuzzshedmuseum |  
+| bip_39_word_no_space_9 | puppyclarifyspringlyricsgreenbuzzshedmuseumrelief |  
 | bip_39_word_space_0 | ['puppy', 'clarify', 'spring', 'lyrics', 'green', 'buzz', 'shed', 'museum', 'relief', 'certain', 'exit', 'arena'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy clarify spring lyrics green buzz shed museum relief certain |  

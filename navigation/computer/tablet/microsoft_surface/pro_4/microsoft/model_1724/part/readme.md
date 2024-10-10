@@ -122,6 +122,18 @@ fragile
 rely
 milk
 hurt |  
+| bip_39_word_no_space_1 | fit |  
+| bip_39_word_no_space_10 | fittrucktoastclothcoachfragilerelymilkhurtcatch |  
+| bip_39_word_no_space_11 | fittrucktoastclothcoachfragilerelymilkhurtcatchwool |  
+| bip_39_word_no_space_12 | fittrucktoastclothcoachfragilerelymilkhurtcatchwoolauction |  
+| bip_39_word_no_space_2 | fittruck |  
+| bip_39_word_no_space_3 | fittrucktoast |  
+| bip_39_word_no_space_4 | fittrucktoastcloth |  
+| bip_39_word_no_space_5 | fittrucktoastclothcoach |  
+| bip_39_word_no_space_6 | fittrucktoastclothcoachfragile |  
+| bip_39_word_no_space_7 | fittrucktoastclothcoachfragilerely |  
+| bip_39_word_no_space_8 | fittrucktoastclothcoachfragilerelymilk |  
+| bip_39_word_no_space_9 | fittrucktoastclothcoachfragilerelymilkhurt |  
 | bip_39_word_space_0 | ['fit', 'truck', 'toast', 'cloth', 'coach', 'fragile', 'rely', 'milk', 'hurt', 'catch', 'wool', 'auction'] |  
 | bip_39_word_space_1 | fit |  
 | bip_39_word_space_10 | fit truck toast cloth coach fragile rely milk hurt catch |  

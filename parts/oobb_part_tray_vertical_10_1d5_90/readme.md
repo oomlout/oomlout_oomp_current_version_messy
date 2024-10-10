@@ -122,6 +122,18 @@ sunset
 vague
 era
 visual |  
+| bip_39_word_no_space_1 | priority |  
+| bip_39_word_no_space_10 | priorityalbumsailagreebelowsunsetvagueeravisualeyebrow |  
+| bip_39_word_no_space_11 | priorityalbumsailagreebelowsunsetvagueeravisualeyebrowstove |  
+| bip_39_word_no_space_12 | priorityalbumsailagreebelowsunsetvagueeravisualeyebrowstoveartefact |  
+| bip_39_word_no_space_2 | priorityalbum |  
+| bip_39_word_no_space_3 | priorityalbumsail |  
+| bip_39_word_no_space_4 | priorityalbumsailagree |  
+| bip_39_word_no_space_5 | priorityalbumsailagreebelow |  
+| bip_39_word_no_space_6 | priorityalbumsailagreebelowsunset |  
+| bip_39_word_no_space_7 | priorityalbumsailagreebelowsunsetvague |  
+| bip_39_word_no_space_8 | priorityalbumsailagreebelowsunsetvagueera |  
+| bip_39_word_no_space_9 | priorityalbumsailagreebelowsunsetvagueeravisual |  
 | bip_39_word_space_0 | ['priority', 'album', 'sail', 'agree', 'below', 'sunset', 'vague', 'era', 'visual', 'eyebrow', 'stove', 'artefact'] |  
 | bip_39_word_space_1 | priority |  
 | bip_39_word_space_10 | priority album sail agree below sunset vague era visual eyebrow |  

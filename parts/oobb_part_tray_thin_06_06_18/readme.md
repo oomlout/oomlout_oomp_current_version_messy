@@ -122,6 +122,18 @@ when
 when
 find
 discover |  
+| bip_39_word_no_space_1 | umbrella |  
+| bip_39_word_no_space_10 | umbrellaschemeswinghillhappywhenwhenfinddiscoverfog |  
+| bip_39_word_no_space_11 | umbrellaschemeswinghillhappywhenwhenfinddiscoverfogconnect |  
+| bip_39_word_no_space_12 | umbrellaschemeswinghillhappywhenwhenfinddiscoverfogconnectadvance |  
+| bip_39_word_no_space_2 | umbrellascheme |  
+| bip_39_word_no_space_3 | umbrellaschemeswing |  
+| bip_39_word_no_space_4 | umbrellaschemeswinghill |  
+| bip_39_word_no_space_5 | umbrellaschemeswinghillhappy |  
+| bip_39_word_no_space_6 | umbrellaschemeswinghillhappywhen |  
+| bip_39_word_no_space_7 | umbrellaschemeswinghillhappywhenwhen |  
+| bip_39_word_no_space_8 | umbrellaschemeswinghillhappywhenwhenfind |  
+| bip_39_word_no_space_9 | umbrellaschemeswinghillhappywhenwhenfinddiscover |  
 | bip_39_word_space_0 | ['umbrella', 'scheme', 'swing', 'hill', 'happy', 'when', 'when', 'find', 'discover', 'fog', 'connect', 'advance'] |  
 | bip_39_word_space_1 | umbrella |  
 | bip_39_word_space_10 | umbrella scheme swing hill happy when when find discover fog |  

@@ -122,6 +122,18 @@ mouse
 retreat
 antenna
 answer |  
+| bip_39_word_no_space_1 | dad |  
+| bip_39_word_no_space_10 | dadreflectanalystfragileassumemouseretreatantennaanswercase |  
+| bip_39_word_no_space_11 | dadreflectanalystfragileassumemouseretreatantennaanswercasenominee |  
+| bip_39_word_no_space_12 | dadreflectanalystfragileassumemouseretreatantennaanswercasenomineeamused |  
+| bip_39_word_no_space_2 | dadreflect |  
+| bip_39_word_no_space_3 | dadreflectanalyst |  
+| bip_39_word_no_space_4 | dadreflectanalystfragile |  
+| bip_39_word_no_space_5 | dadreflectanalystfragileassume |  
+| bip_39_word_no_space_6 | dadreflectanalystfragileassumemouse |  
+| bip_39_word_no_space_7 | dadreflectanalystfragileassumemouseretreat |  
+| bip_39_word_no_space_8 | dadreflectanalystfragileassumemouseretreatantenna |  
+| bip_39_word_no_space_9 | dadreflectanalystfragileassumemouseretreatantennaanswer |  
 | bip_39_word_space_0 | ['dad', 'reflect', 'analyst', 'fragile', 'assume', 'mouse', 'retreat', 'antenna', 'answer', 'case', 'nominee', 'amused'] |  
 | bip_39_word_space_1 | dad |  
 | bip_39_word_space_10 | dad reflect analyst fragile assume mouse retreat antenna answer case |  

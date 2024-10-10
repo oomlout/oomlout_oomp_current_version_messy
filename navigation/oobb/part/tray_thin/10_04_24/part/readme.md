@@ -122,6 +122,18 @@ lounge
 describe
 rate
 strike |  
+| bip_39_word_no_space_1 | split |  
+| bip_39_word_no_space_10 | splitmethodalmostsparepartyloungedescriberatestrikescheme |  
+| bip_39_word_no_space_11 | splitmethodalmostsparepartyloungedescriberatestrikeschemepudding |  
+| bip_39_word_no_space_12 | splitmethodalmostsparepartyloungedescriberatestrikeschemepuddingalcohol |  
+| bip_39_word_no_space_2 | splitmethod |  
+| bip_39_word_no_space_3 | splitmethodalmost |  
+| bip_39_word_no_space_4 | splitmethodalmostspare |  
+| bip_39_word_no_space_5 | splitmethodalmostspareparty |  
+| bip_39_word_no_space_6 | splitmethodalmostsparepartylounge |  
+| bip_39_word_no_space_7 | splitmethodalmostsparepartyloungedescribe |  
+| bip_39_word_no_space_8 | splitmethodalmostsparepartyloungedescriberate |  
+| bip_39_word_no_space_9 | splitmethodalmostsparepartyloungedescriberatestrike |  
 | bip_39_word_space_0 | ['split', 'method', 'almost', 'spare', 'party', 'lounge', 'describe', 'rate', 'strike', 'scheme', 'pudding', 'alcohol'] |  
 | bip_39_word_space_1 | split |  
 | bip_39_word_space_10 | split method almost spare party lounge describe rate strike scheme |  

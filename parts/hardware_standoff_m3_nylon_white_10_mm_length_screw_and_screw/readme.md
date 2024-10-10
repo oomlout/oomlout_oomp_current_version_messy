@@ -122,6 +122,18 @@ busy
 mountain
 type
 caution |  
+| bip_39_word_no_space_1 | fantasy |  
+| bip_39_word_no_space_10 | fantasystablehubtrickflamebusymountaintypecautionhello |  
+| bip_39_word_no_space_11 | fantasystablehubtrickflamebusymountaintypecautionhelloketchup |  
+| bip_39_word_no_space_12 | fantasystablehubtrickflamebusymountaintypecautionhelloketchupafraid |  
+| bip_39_word_no_space_2 | fantasystable |  
+| bip_39_word_no_space_3 | fantasystablehub |  
+| bip_39_word_no_space_4 | fantasystablehubtrick |  
+| bip_39_word_no_space_5 | fantasystablehubtrickflame |  
+| bip_39_word_no_space_6 | fantasystablehubtrickflamebusy |  
+| bip_39_word_no_space_7 | fantasystablehubtrickflamebusymountain |  
+| bip_39_word_no_space_8 | fantasystablehubtrickflamebusymountaintype |  
+| bip_39_word_no_space_9 | fantasystablehubtrickflamebusymountaintypecaution |  
 | bip_39_word_space_0 | ['fantasy', 'stable', 'hub', 'trick', 'flame', 'busy', 'mountain', 'type', 'caution', 'hello', 'ketchup', 'afraid'] |  
 | bip_39_word_space_1 | fantasy |  
 | bip_39_word_space_10 | fantasy stable hub trick flame busy mountain type caution hello |  

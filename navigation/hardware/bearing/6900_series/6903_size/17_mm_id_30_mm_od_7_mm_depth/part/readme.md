@@ -122,6 +122,18 @@ all
 stem
 observe
 inside |  
+| bip_39_word_no_space_1 | claim |  
+| bip_39_word_no_space_10 | claimadultaxisinterestsocialallstemobserveinsidehospital |  
+| bip_39_word_no_space_11 | claimadultaxisinterestsocialallstemobserveinsidehospitalinstall |  
+| bip_39_word_no_space_12 | claimadultaxisinterestsocialallstemobserveinsidehospitalinstallantenna |  
+| bip_39_word_no_space_2 | claimadult |  
+| bip_39_word_no_space_3 | claimadultaxis |  
+| bip_39_word_no_space_4 | claimadultaxisinterest |  
+| bip_39_word_no_space_5 | claimadultaxisinterestsocial |  
+| bip_39_word_no_space_6 | claimadultaxisinterestsocialall |  
+| bip_39_word_no_space_7 | claimadultaxisinterestsocialallstem |  
+| bip_39_word_no_space_8 | claimadultaxisinterestsocialallstemobserve |  
+| bip_39_word_no_space_9 | claimadultaxisinterestsocialallstemobserveinside |  
 | bip_39_word_space_0 | ['claim', 'adult', 'axis', 'interest', 'social', 'all', 'stem', 'observe', 'inside', 'hospital', 'install', 'antenna'] |  
 | bip_39_word_space_1 | claim |  
 | bip_39_word_space_10 | claim adult axis interest social all stem observe inside hospital |  

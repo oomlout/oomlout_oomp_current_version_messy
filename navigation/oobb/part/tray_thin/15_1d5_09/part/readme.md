@@ -122,6 +122,18 @@ image
 exile
 shrug
 bounce |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemethenbecomegirlquestionimageexileshrugbouncelonely |  
+| bip_39_word_no_space_11 | schemethenbecomegirlquestionimageexileshrugbouncelonelyerase |  
+| bip_39_word_no_space_12 | schemethenbecomegirlquestionimageexileshrugbouncelonelyerasearm |  
+| bip_39_word_no_space_2 | schemethen |  
+| bip_39_word_no_space_3 | schemethenbecome |  
+| bip_39_word_no_space_4 | schemethenbecomegirl |  
+| bip_39_word_no_space_5 | schemethenbecomegirlquestion |  
+| bip_39_word_no_space_6 | schemethenbecomegirlquestionimage |  
+| bip_39_word_no_space_7 | schemethenbecomegirlquestionimageexile |  
+| bip_39_word_no_space_8 | schemethenbecomegirlquestionimageexileshrug |  
+| bip_39_word_no_space_9 | schemethenbecomegirlquestionimageexileshrugbounce |  
 | bip_39_word_space_0 | ['scheme', 'then', 'become', 'girl', 'question', 'image', 'exile', 'shrug', 'bounce', 'lonely', 'erase', 'arm'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme then become girl question image exile shrug bounce lonely |  

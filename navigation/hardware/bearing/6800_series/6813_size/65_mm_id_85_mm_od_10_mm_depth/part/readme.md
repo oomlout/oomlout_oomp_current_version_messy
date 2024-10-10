@@ -122,6 +122,18 @@ dust
 credit
 want
 drift |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingprospergritchucklelifedustcreditwantdriftuncover |  
+| bip_39_word_no_space_11 | nothingprospergritchucklelifedustcreditwantdriftuncoversix |  
+| bip_39_word_no_space_12 | nothingprospergritchucklelifedustcreditwantdriftuncoversixall |  
+| bip_39_word_no_space_2 | nothingprosper |  
+| bip_39_word_no_space_3 | nothingprospergrit |  
+| bip_39_word_no_space_4 | nothingprospergritchuckle |  
+| bip_39_word_no_space_5 | nothingprospergritchucklelife |  
+| bip_39_word_no_space_6 | nothingprospergritchucklelifedust |  
+| bip_39_word_no_space_7 | nothingprospergritchucklelifedustcredit |  
+| bip_39_word_no_space_8 | nothingprospergritchucklelifedustcreditwant |  
+| bip_39_word_no_space_9 | nothingprospergritchucklelifedustcreditwantdrift |  
 | bip_39_word_space_0 | ['nothing', 'prosper', 'grit', 'chuckle', 'life', 'dust', 'credit', 'want', 'drift', 'uncover', 'six', 'all'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing prosper grit chuckle life dust credit want drift uncover |  

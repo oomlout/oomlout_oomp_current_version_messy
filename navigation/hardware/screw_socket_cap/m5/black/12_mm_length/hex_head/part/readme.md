@@ -122,6 +122,18 @@ inner
 decrease
 source
 celery |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehicletwentyflavordenialframeinnerdecreasesourcecelerymajor |  
+| bip_39_word_no_space_11 | vehicletwentyflavordenialframeinnerdecreasesourcecelerymajorrich |  
+| bip_39_word_no_space_12 | vehicletwentyflavordenialframeinnerdecreasesourcecelerymajorrichadmit |  
+| bip_39_word_no_space_2 | vehicletwenty |  
+| bip_39_word_no_space_3 | vehicletwentyflavor |  
+| bip_39_word_no_space_4 | vehicletwentyflavordenial |  
+| bip_39_word_no_space_5 | vehicletwentyflavordenialframe |  
+| bip_39_word_no_space_6 | vehicletwentyflavordenialframeinner |  
+| bip_39_word_no_space_7 | vehicletwentyflavordenialframeinnerdecrease |  
+| bip_39_word_no_space_8 | vehicletwentyflavordenialframeinnerdecreasesource |  
+| bip_39_word_no_space_9 | vehicletwentyflavordenialframeinnerdecreasesourcecelery |  
 | bip_39_word_space_0 | ['vehicle', 'twenty', 'flavor', 'denial', 'frame', 'inner', 'decrease', 'source', 'celery', 'major', 'rich', 'admit'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle twenty flavor denial frame inner decrease source celery major |  

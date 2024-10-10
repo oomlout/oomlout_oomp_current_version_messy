@@ -122,6 +122,18 @@ add
 diesel
 blossom
 awful |  
+| bip_39_word_no_space_1 | path |  
+| bip_39_word_no_space_10 | pathclawgigglejazzguardadddieselblossomawfultoe |  
+| bip_39_word_no_space_11 | pathclawgigglejazzguardadddieselblossomawfultoeprogram |  
+| bip_39_word_no_space_12 | pathclawgigglejazzguardadddieselblossomawfultoeprogramallow |  
+| bip_39_word_no_space_2 | pathclaw |  
+| bip_39_word_no_space_3 | pathclawgiggle |  
+| bip_39_word_no_space_4 | pathclawgigglejazz |  
+| bip_39_word_no_space_5 | pathclawgigglejazzguard |  
+| bip_39_word_no_space_6 | pathclawgigglejazzguardadd |  
+| bip_39_word_no_space_7 | pathclawgigglejazzguardadddiesel |  
+| bip_39_word_no_space_8 | pathclawgigglejazzguardadddieselblossom |  
+| bip_39_word_no_space_9 | pathclawgigglejazzguardadddieselblossomawful |  
 | bip_39_word_space_0 | ['path', 'claw', 'giggle', 'jazz', 'guard', 'add', 'diesel', 'blossom', 'awful', 'toe', 'program', 'allow'] |  
 | bip_39_word_space_1 | path |  
 | bip_39_word_space_10 | path claw giggle jazz guard add diesel blossom awful toe |  

@@ -122,6 +122,18 @@ ladder
 hat
 slow
 flame |  
+| bip_39_word_no_space_1 | diagram |  
+| bip_39_word_no_space_10 | diagramoncewagonknockeasilyladderhatslowflameaverage |  
+| bip_39_word_no_space_11 | diagramoncewagonknockeasilyladderhatslowflameaverageclose |  
+| bip_39_word_no_space_12 | diagramoncewagonknockeasilyladderhatslowflameaveragecloseanalyst |  
+| bip_39_word_no_space_2 | diagramonce |  
+| bip_39_word_no_space_3 | diagramoncewagon |  
+| bip_39_word_no_space_4 | diagramoncewagonknock |  
+| bip_39_word_no_space_5 | diagramoncewagonknockeasily |  
+| bip_39_word_no_space_6 | diagramoncewagonknockeasilyladder |  
+| bip_39_word_no_space_7 | diagramoncewagonknockeasilyladderhat |  
+| bip_39_word_no_space_8 | diagramoncewagonknockeasilyladderhatslow |  
+| bip_39_word_no_space_9 | diagramoncewagonknockeasilyladderhatslowflame |  
 | bip_39_word_space_0 | ['diagram', 'once', 'wagon', 'knock', 'easily', 'ladder', 'hat', 'slow', 'flame', 'average', 'close', 'analyst'] |  
 | bip_39_word_space_1 | diagram |  
 | bip_39_word_space_10 | diagram once wagon knock easily ladder hat slow flame average |  

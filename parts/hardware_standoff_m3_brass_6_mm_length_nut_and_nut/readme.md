@@ -122,6 +122,18 @@ very
 exhibit
 cute
 state |  
+| bip_39_word_no_space_1 | push |  
+| bip_39_word_no_space_10 | pushtwinreportcoinlearnveryexhibitcutestateinclude |  
+| bip_39_word_no_space_11 | pushtwinreportcoinlearnveryexhibitcutestateincludemedia |  
+| bip_39_word_no_space_12 | pushtwinreportcoinlearnveryexhibitcutestateincludemediaannounce |  
+| bip_39_word_no_space_2 | pushtwin |  
+| bip_39_word_no_space_3 | pushtwinreport |  
+| bip_39_word_no_space_4 | pushtwinreportcoin |  
+| bip_39_word_no_space_5 | pushtwinreportcoinlearn |  
+| bip_39_word_no_space_6 | pushtwinreportcoinlearnvery |  
+| bip_39_word_no_space_7 | pushtwinreportcoinlearnveryexhibit |  
+| bip_39_word_no_space_8 | pushtwinreportcoinlearnveryexhibitcute |  
+| bip_39_word_no_space_9 | pushtwinreportcoinlearnveryexhibitcutestate |  
 | bip_39_word_space_0 | ['push', 'twin', 'report', 'coin', 'learn', 'very', 'exhibit', 'cute', 'state', 'include', 'media', 'announce'] |  
 | bip_39_word_space_1 | push |  
 | bip_39_word_space_10 | push twin report coin learn very exhibit cute state include |  

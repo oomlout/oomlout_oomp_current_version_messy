@@ -122,6 +122,18 @@ push
 wise
 book
 company |  
+| bip_39_word_no_space_1 | green |  
+| bip_39_word_no_space_10 | greencancoachwheelculturepushwisebookcompanyscatter |  
+| bip_39_word_no_space_11 | greencancoachwheelculturepushwisebookcompanyscattercrawl |  
+| bip_39_word_no_space_12 | greencancoachwheelculturepushwisebookcompanyscattercrawlatom |  
+| bip_39_word_no_space_2 | greencan |  
+| bip_39_word_no_space_3 | greencancoach |  
+| bip_39_word_no_space_4 | greencancoachwheel |  
+| bip_39_word_no_space_5 | greencancoachwheelculture |  
+| bip_39_word_no_space_6 | greencancoachwheelculturepush |  
+| bip_39_word_no_space_7 | greencancoachwheelculturepushwise |  
+| bip_39_word_no_space_8 | greencancoachwheelculturepushwisebook |  
+| bip_39_word_no_space_9 | greencancoachwheelculturepushwisebookcompany |  
 | bip_39_word_space_0 | ['green', 'can', 'coach', 'wheel', 'culture', 'push', 'wise', 'book', 'company', 'scatter', 'crawl', 'atom'] |  
 | bip_39_word_space_1 | green |  
 | bip_39_word_space_10 | green can coach wheel culture push wise book company scatter |  

@@ -109,6 +109,17 @@ label
 early
 damp
 model |  
+| bip_39_word_no_space_1 | twenty |  
+| bip_39_word_no_space_10 | twentydebatenervedismisstoastlabelearlydampmodelbrick |  
+| bip_39_word_no_space_11 | twentydebatenervedismisstoastlabelearlydampmodelbricksummer |  
+| bip_39_word_no_space_2 | twentydebate |  
+| bip_39_word_no_space_3 | twentydebatenerve |  
+| bip_39_word_no_space_4 | twentydebatenervedismiss |  
+| bip_39_word_no_space_5 | twentydebatenervedismisstoast |  
+| bip_39_word_no_space_6 | twentydebatenervedismisstoastlabel |  
+| bip_39_word_no_space_7 | twentydebatenervedismisstoastlabelearly |  
+| bip_39_word_no_space_8 | twentydebatenervedismisstoastlabelearlydamp |  
+| bip_39_word_no_space_9 | twentydebatenervedismisstoastlabelearlydampmodel |  
 | bip_39_word_space_0 | ['twenty', 'debate', 'nerve', 'dismiss', 'toast', 'label', 'early', 'damp', 'model', 'brick', 'summer'] |  
 | bip_39_word_space_1 | twenty |  
 | bip_39_word_space_10 | twenty debate nerve dismiss toast label early damp model brick |  

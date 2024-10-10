@@ -122,6 +122,18 @@ motion
 forum
 manual
 symptom |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magicupgraderigidjoinaprilmotionforummanualsymptomdivert |  
+| bip_39_word_no_space_11 | magicupgraderigidjoinaprilmotionforummanualsymptomdivertfaint |  
+| bip_39_word_no_space_12 | magicupgraderigidjoinaprilmotionforummanualsymptomdivertfaintalways |  
+| bip_39_word_no_space_2 | magicupgrade |  
+| bip_39_word_no_space_3 | magicupgraderigid |  
+| bip_39_word_no_space_4 | magicupgraderigidjoin |  
+| bip_39_word_no_space_5 | magicupgraderigidjoinapril |  
+| bip_39_word_no_space_6 | magicupgraderigidjoinaprilmotion |  
+| bip_39_word_no_space_7 | magicupgraderigidjoinaprilmotionforum |  
+| bip_39_word_no_space_8 | magicupgraderigidjoinaprilmotionforummanual |  
+| bip_39_word_no_space_9 | magicupgraderigidjoinaprilmotionforummanualsymptom |  
 | bip_39_word_space_0 | ['magic', 'upgrade', 'rigid', 'join', 'april', 'motion', 'forum', 'manual', 'symptom', 'divert', 'faint', 'always'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic upgrade rigid join april motion forum manual symptom divert |  

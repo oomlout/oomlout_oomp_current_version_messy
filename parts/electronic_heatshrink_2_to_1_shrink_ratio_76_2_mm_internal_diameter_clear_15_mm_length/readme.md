@@ -122,6 +122,18 @@ grief
 throw
 tuition
 sick |  
+| bip_39_word_no_space_1 | bonus |  
+| bip_39_word_no_space_10 | bonusvesselsoftdismisseternalgriefthrowtuitionsickburst |  
+| bip_39_word_no_space_11 | bonusvesselsoftdismisseternalgriefthrowtuitionsickburstpraise |  
+| bip_39_word_no_space_12 | bonusvesselsoftdismisseternalgriefthrowtuitionsickburstpraiseautumn |  
+| bip_39_word_no_space_2 | bonusvessel |  
+| bip_39_word_no_space_3 | bonusvesselsoft |  
+| bip_39_word_no_space_4 | bonusvesselsoftdismiss |  
+| bip_39_word_no_space_5 | bonusvesselsoftdismisseternal |  
+| bip_39_word_no_space_6 | bonusvesselsoftdismisseternalgrief |  
+| bip_39_word_no_space_7 | bonusvesselsoftdismisseternalgriefthrow |  
+| bip_39_word_no_space_8 | bonusvesselsoftdismisseternalgriefthrowtuition |  
+| bip_39_word_no_space_9 | bonusvesselsoftdismisseternalgriefthrowtuitionsick |  
 | bip_39_word_space_0 | ['bonus', 'vessel', 'soft', 'dismiss', 'eternal', 'grief', 'throw', 'tuition', 'sick', 'burst', 'praise', 'autumn'] |  
 | bip_39_word_space_1 | bonus |  
 | bip_39_word_space_10 | bonus vessel soft dismiss eternal grief throw tuition sick burst |  

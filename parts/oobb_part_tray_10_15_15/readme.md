@@ -122,6 +122,18 @@ release
 mix
 result
 retreat |  
+| bip_39_word_no_space_1 | clerk |  
+| bip_39_word_no_space_10 | clerkcornsorrydefineproofreleasemixresultretreatput |  
+| bip_39_word_no_space_11 | clerkcornsorrydefineproofreleasemixresultretreatputarmor |  
+| bip_39_word_no_space_12 | clerkcornsorrydefineproofreleasemixresultretreatputarmoracross |  
+| bip_39_word_no_space_2 | clerkcorn |  
+| bip_39_word_no_space_3 | clerkcornsorry |  
+| bip_39_word_no_space_4 | clerkcornsorrydefine |  
+| bip_39_word_no_space_5 | clerkcornsorrydefineproof |  
+| bip_39_word_no_space_6 | clerkcornsorrydefineproofrelease |  
+| bip_39_word_no_space_7 | clerkcornsorrydefineproofreleasemix |  
+| bip_39_word_no_space_8 | clerkcornsorrydefineproofreleasemixresult |  
+| bip_39_word_no_space_9 | clerkcornsorrydefineproofreleasemixresultretreat |  
 | bip_39_word_space_0 | ['clerk', 'corn', 'sorry', 'define', 'proof', 'release', 'mix', 'result', 'retreat', 'put', 'armor', 'across'] |  
 | bip_39_word_space_1 | clerk |  
 | bip_39_word_space_10 | clerk corn sorry define proof release mix result retreat put |  

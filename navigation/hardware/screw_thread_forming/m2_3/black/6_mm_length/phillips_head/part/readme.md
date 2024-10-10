@@ -122,6 +122,18 @@ jeans
 toe
 salute
 host |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchpumpkinscrubsistersniffjeanstoesalutehostseek |  
+| bip_39_word_no_space_11 | crouchpumpkinscrubsistersniffjeanstoesalutehostseekroof |  
+| bip_39_word_no_space_12 | crouchpumpkinscrubsistersniffjeanstoesalutehostseekroofable |  
+| bip_39_word_no_space_2 | crouchpumpkin |  
+| bip_39_word_no_space_3 | crouchpumpkinscrub |  
+| bip_39_word_no_space_4 | crouchpumpkinscrubsister |  
+| bip_39_word_no_space_5 | crouchpumpkinscrubsistersniff |  
+| bip_39_word_no_space_6 | crouchpumpkinscrubsistersniffjeans |  
+| bip_39_word_no_space_7 | crouchpumpkinscrubsistersniffjeanstoe |  
+| bip_39_word_no_space_8 | crouchpumpkinscrubsistersniffjeanstoesalute |  
+| bip_39_word_no_space_9 | crouchpumpkinscrubsistersniffjeanstoesalutehost |  
 | bip_39_word_space_0 | ['crouch', 'pumpkin', 'scrub', 'sister', 'sniff', 'jeans', 'toe', 'salute', 'host', 'seek', 'roof', 'able'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch pumpkin scrub sister sniff jeans toe salute host seek |  

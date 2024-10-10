@@ -122,6 +122,18 @@ unaware
 urban
 video
 donkey |  
+| bip_39_word_no_space_1 | water |  
+| bip_39_word_no_space_10 | watercatruralentireblanketunawareurbanvideodonkeyfinal |  
+| bip_39_word_no_space_11 | watercatruralentireblanketunawareurbanvideodonkeyfinalnext |  
+| bip_39_word_no_space_12 | watercatruralentireblanketunawareurbanvideodonkeyfinalnextalso |  
+| bip_39_word_no_space_2 | watercat |  
+| bip_39_word_no_space_3 | watercatrural |  
+| bip_39_word_no_space_4 | watercatruralentire |  
+| bip_39_word_no_space_5 | watercatruralentireblanket |  
+| bip_39_word_no_space_6 | watercatruralentireblanketunaware |  
+| bip_39_word_no_space_7 | watercatruralentireblanketunawareurban |  
+| bip_39_word_no_space_8 | watercatruralentireblanketunawareurbanvideo |  
+| bip_39_word_no_space_9 | watercatruralentireblanketunawareurbanvideodonkey |  
 | bip_39_word_space_0 | ['water', 'cat', 'rural', 'entire', 'blanket', 'unaware', 'urban', 'video', 'donkey', 'final', 'next', 'also'] |  
 | bip_39_word_space_1 | water |  
 | bip_39_word_space_10 | water cat rural entire blanket unaware urban video donkey final |  

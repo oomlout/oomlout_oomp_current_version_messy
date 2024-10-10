@@ -122,6 +122,18 @@ virtual
 cram
 timber
 agree |  
+| bip_39_word_no_space_1 | bench |  
+| bip_39_word_no_space_10 | benchofficeothercensusmonthvirtualcramtimberagreemouse |  
+| bip_39_word_no_space_11 | benchofficeothercensusmonthvirtualcramtimberagreemousehint |  
+| bip_39_word_no_space_12 | benchofficeothercensusmonthvirtualcramtimberagreemousehintasset |  
+| bip_39_word_no_space_2 | benchoffice |  
+| bip_39_word_no_space_3 | benchofficeother |  
+| bip_39_word_no_space_4 | benchofficeothercensus |  
+| bip_39_word_no_space_5 | benchofficeothercensusmonth |  
+| bip_39_word_no_space_6 | benchofficeothercensusmonthvirtual |  
+| bip_39_word_no_space_7 | benchofficeothercensusmonthvirtualcram |  
+| bip_39_word_no_space_8 | benchofficeothercensusmonthvirtualcramtimber |  
+| bip_39_word_no_space_9 | benchofficeothercensusmonthvirtualcramtimberagree |  
 | bip_39_word_space_0 | ['bench', 'office', 'other', 'census', 'month', 'virtual', 'cram', 'timber', 'agree', 'mouse', 'hint', 'asset'] |  
 | bip_39_word_space_1 | bench |  
 | bip_39_word_space_10 | bench office other census month virtual cram timber agree mouse |  

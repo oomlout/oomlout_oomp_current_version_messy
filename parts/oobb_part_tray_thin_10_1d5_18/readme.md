@@ -122,6 +122,18 @@ safe
 liquid
 unveil
 world |  
+| bip_39_word_no_space_1 | ozone |  
+| bip_39_word_no_space_10 | ozoneeasydinnerringparentsafeliquidunveilworlddonkey |  
+| bip_39_word_no_space_11 | ozoneeasydinnerringparentsafeliquidunveilworlddonkeysleep |  
+| bip_39_word_no_space_12 | ozoneeasydinnerringparentsafeliquidunveilworlddonkeysleepalready |  
+| bip_39_word_no_space_2 | ozoneeasy |  
+| bip_39_word_no_space_3 | ozoneeasydinner |  
+| bip_39_word_no_space_4 | ozoneeasydinnerring |  
+| bip_39_word_no_space_5 | ozoneeasydinnerringparent |  
+| bip_39_word_no_space_6 | ozoneeasydinnerringparentsafe |  
+| bip_39_word_no_space_7 | ozoneeasydinnerringparentsafeliquid |  
+| bip_39_word_no_space_8 | ozoneeasydinnerringparentsafeliquidunveil |  
+| bip_39_word_no_space_9 | ozoneeasydinnerringparentsafeliquidunveilworld |  
 | bip_39_word_space_0 | ['ozone', 'easy', 'dinner', 'ring', 'parent', 'safe', 'liquid', 'unveil', 'world', 'donkey', 'sleep', 'already'] |  
 | bip_39_word_space_1 | ozone |  
 | bip_39_word_space_10 | ozone easy dinner ring parent safe liquid unveil world donkey |  

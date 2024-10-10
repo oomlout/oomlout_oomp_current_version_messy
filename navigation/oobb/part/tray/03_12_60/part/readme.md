@@ -122,6 +122,18 @@ route
 pause
 decline
 lend |  
+| bip_39_word_no_space_1 | fish |  
+| bip_39_word_no_space_10 | fishpairdomainculturefunroutepausedeclinelendmarble |  
+| bip_39_word_no_space_11 | fishpairdomainculturefunroutepausedeclinelendmarbleuphold |  
+| bip_39_word_no_space_12 | fishpairdomainculturefunroutepausedeclinelendmarbleupholdabstract |  
+| bip_39_word_no_space_2 | fishpair |  
+| bip_39_word_no_space_3 | fishpairdomain |  
+| bip_39_word_no_space_4 | fishpairdomainculture |  
+| bip_39_word_no_space_5 | fishpairdomainculturefun |  
+| bip_39_word_no_space_6 | fishpairdomainculturefunroute |  
+| bip_39_word_no_space_7 | fishpairdomainculturefunroutepause |  
+| bip_39_word_no_space_8 | fishpairdomainculturefunroutepausedecline |  
+| bip_39_word_no_space_9 | fishpairdomainculturefunroutepausedeclinelend |  
 | bip_39_word_space_0 | ['fish', 'pair', 'domain', 'culture', 'fun', 'route', 'pause', 'decline', 'lend', 'marble', 'uphold', 'abstract'] |  
 | bip_39_word_space_1 | fish |  
 | bip_39_word_space_10 | fish pair domain culture fun route pause decline lend marble |  

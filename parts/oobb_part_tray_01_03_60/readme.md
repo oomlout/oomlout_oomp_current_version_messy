@@ -122,6 +122,18 @@ rural
 choose
 notice
 tiny |  
+| bip_39_word_no_space_1 | era |  
+| bip_39_word_no_space_10 | eraladydizzykeeneightruralchoosenoticetinyphone |  
+| bip_39_word_no_space_11 | eraladydizzykeeneightruralchoosenoticetinyphonecousin |  
+| bip_39_word_no_space_12 | eraladydizzykeeneightruralchoosenoticetinyphonecousinafraid |  
+| bip_39_word_no_space_2 | eralady |  
+| bip_39_word_no_space_3 | eraladydizzy |  
+| bip_39_word_no_space_4 | eraladydizzykeen |  
+| bip_39_word_no_space_5 | eraladydizzykeeneight |  
+| bip_39_word_no_space_6 | eraladydizzykeeneightrural |  
+| bip_39_word_no_space_7 | eraladydizzykeeneightruralchoose |  
+| bip_39_word_no_space_8 | eraladydizzykeeneightruralchoosenotice |  
+| bip_39_word_no_space_9 | eraladydizzykeeneightruralchoosenoticetiny |  
 | bip_39_word_space_0 | ['era', 'lady', 'dizzy', 'keen', 'eight', 'rural', 'choose', 'notice', 'tiny', 'phone', 'cousin', 'afraid'] |  
 | bip_39_word_space_1 | era |  
 | bip_39_word_space_10 | era lady dizzy keen eight rural choose notice tiny phone |  

@@ -122,6 +122,18 @@ boat
 jacket
 guard
 gather |  
+| bip_39_word_no_space_1 | club |  
+| bip_39_word_no_space_10 | clubsungaugebasicgenuineboatjacketguardgatherglory |  
+| bip_39_word_no_space_11 | clubsungaugebasicgenuineboatjacketguardgathergloryready |  
+| bip_39_word_no_space_12 | clubsungaugebasicgenuineboatjacketguardgathergloryreadyarmor |  
+| bip_39_word_no_space_2 | clubsun |  
+| bip_39_word_no_space_3 | clubsungauge |  
+| bip_39_word_no_space_4 | clubsungaugebasic |  
+| bip_39_word_no_space_5 | clubsungaugebasicgenuine |  
+| bip_39_word_no_space_6 | clubsungaugebasicgenuineboat |  
+| bip_39_word_no_space_7 | clubsungaugebasicgenuineboatjacket |  
+| bip_39_word_no_space_8 | clubsungaugebasicgenuineboatjacketguard |  
+| bip_39_word_no_space_9 | clubsungaugebasicgenuineboatjacketguardgather |  
 | bip_39_word_space_0 | ['club', 'sun', 'gauge', 'basic', 'genuine', 'boat', 'jacket', 'guard', 'gather', 'glory', 'ready', 'armor'] |  
 | bip_39_word_space_1 | club |  
 | bip_39_word_space_10 | club sun gauge basic genuine boat jacket guard gather glory |  

@@ -122,6 +122,18 @@ kiss
 ordinary
 release
 fly |  
+| bip_39_word_no_space_1 | violin |  
+| bip_39_word_no_space_10 | violinpenaltycallenddisagreekissordinaryreleaseflyjunk |  
+| bip_39_word_no_space_11 | violinpenaltycallenddisagreekissordinaryreleaseflyjunksign |  
+| bip_39_word_no_space_12 | violinpenaltycallenddisagreekissordinaryreleaseflyjunksignacquire |  
+| bip_39_word_no_space_2 | violinpenalty |  
+| bip_39_word_no_space_3 | violinpenaltycall |  
+| bip_39_word_no_space_4 | violinpenaltycallend |  
+| bip_39_word_no_space_5 | violinpenaltycallenddisagree |  
+| bip_39_word_no_space_6 | violinpenaltycallenddisagreekiss |  
+| bip_39_word_no_space_7 | violinpenaltycallenddisagreekissordinary |  
+| bip_39_word_no_space_8 | violinpenaltycallenddisagreekissordinaryrelease |  
+| bip_39_word_no_space_9 | violinpenaltycallenddisagreekissordinaryreleasefly |  
 | bip_39_word_space_0 | ['violin', 'penalty', 'call', 'end', 'disagree', 'kiss', 'ordinary', 'release', 'fly', 'junk', 'sign', 'acquire'] |  
 | bip_39_word_space_1 | violin |  
 | bip_39_word_space_10 | violin penalty call end disagree kiss ordinary release fly junk |  

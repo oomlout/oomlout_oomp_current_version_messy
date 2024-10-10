@@ -122,6 +122,18 @@ settle
 matrix
 combine
 twin |  
+| bip_39_word_no_space_1 | fold |  
+| bip_39_word_no_space_10 | foldflowerdisorderartistideasettlematrixcombinetwinmistake |  
+| bip_39_word_no_space_11 | foldflowerdisorderartistideasettlematrixcombinetwinmistakeillegal |  
+| bip_39_word_no_space_12 | foldflowerdisorderartistideasettlematrixcombinetwinmistakeillegalamount |  
+| bip_39_word_no_space_2 | foldflower |  
+| bip_39_word_no_space_3 | foldflowerdisorder |  
+| bip_39_word_no_space_4 | foldflowerdisorderartist |  
+| bip_39_word_no_space_5 | foldflowerdisorderartistidea |  
+| bip_39_word_no_space_6 | foldflowerdisorderartistideasettle |  
+| bip_39_word_no_space_7 | foldflowerdisorderartistideasettlematrix |  
+| bip_39_word_no_space_8 | foldflowerdisorderartistideasettlematrixcombine |  
+| bip_39_word_no_space_9 | foldflowerdisorderartistideasettlematrixcombinetwin |  
 | bip_39_word_space_0 | ['fold', 'flower', 'disorder', 'artist', 'idea', 'settle', 'matrix', 'combine', 'twin', 'mistake', 'illegal', 'amount'] |  
 | bip_39_word_space_1 | fold |  
 | bip_39_word_space_10 | fold flower disorder artist idea settle matrix combine twin mistake |  

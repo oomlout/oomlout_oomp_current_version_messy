@@ -122,6 +122,18 @@ reward
 public
 good
 chase |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blackhighexpressborrowtoddlerrewardpublicgoodchasejudge |  
+| bip_39_word_no_space_11 | blackhighexpressborrowtoddlerrewardpublicgoodchasejudgecover |  
+| bip_39_word_no_space_12 | blackhighexpressborrowtoddlerrewardpublicgoodchasejudgecoverassume |  
+| bip_39_word_no_space_2 | blackhigh |  
+| bip_39_word_no_space_3 | blackhighexpress |  
+| bip_39_word_no_space_4 | blackhighexpressborrow |  
+| bip_39_word_no_space_5 | blackhighexpressborrowtoddler |  
+| bip_39_word_no_space_6 | blackhighexpressborrowtoddlerreward |  
+| bip_39_word_no_space_7 | blackhighexpressborrowtoddlerrewardpublic |  
+| bip_39_word_no_space_8 | blackhighexpressborrowtoddlerrewardpublicgood |  
+| bip_39_word_no_space_9 | blackhighexpressborrowtoddlerrewardpublicgoodchase |  
 | bip_39_word_space_0 | ['black', 'high', 'express', 'borrow', 'toddler', 'reward', 'public', 'good', 'chase', 'judge', 'cover', 'assume'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black high express borrow toddler reward public good chase judge |  

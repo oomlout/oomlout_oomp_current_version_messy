@@ -122,6 +122,18 @@ cart
 daring
 work
 inform |  
+| bip_39_word_no_space_1 | exit |  
+| bip_39_word_no_space_10 | exitgrainpatchclientfatcartdaringworkinformsatoshi |  
+| bip_39_word_no_space_11 | exitgrainpatchclientfatcartdaringworkinformsatoshiwrite |  
+| bip_39_word_no_space_12 | exitgrainpatchclientfatcartdaringworkinformsatoshiwriteadapt |  
+| bip_39_word_no_space_2 | exitgrain |  
+| bip_39_word_no_space_3 | exitgrainpatch |  
+| bip_39_word_no_space_4 | exitgrainpatchclient |  
+| bip_39_word_no_space_5 | exitgrainpatchclientfat |  
+| bip_39_word_no_space_6 | exitgrainpatchclientfatcart |  
+| bip_39_word_no_space_7 | exitgrainpatchclientfatcartdaring |  
+| bip_39_word_no_space_8 | exitgrainpatchclientfatcartdaringwork |  
+| bip_39_word_no_space_9 | exitgrainpatchclientfatcartdaringworkinform |  
 | bip_39_word_space_0 | ['exit', 'grain', 'patch', 'client', 'fat', 'cart', 'daring', 'work', 'inform', 'satoshi', 'write', 'adapt'] |  
 | bip_39_word_space_1 | exit |  
 | bip_39_word_space_10 | exit grain patch client fat cart daring work inform satoshi |  

@@ -122,6 +122,18 @@ negative
 correct
 slender
 evidence |  
+| bip_39_word_no_space_1 | guitar |  
+| bip_39_word_no_space_10 | guitarsugarladytokenclusternegativecorrectslenderevidencething |  
+| bip_39_word_no_space_11 | guitarsugarladytokenclusternegativecorrectslenderevidencethingborder |  
+| bip_39_word_no_space_12 | guitarsugarladytokenclusternegativecorrectslenderevidencethingborderartist |  
+| bip_39_word_no_space_2 | guitarsugar |  
+| bip_39_word_no_space_3 | guitarsugarlady |  
+| bip_39_word_no_space_4 | guitarsugarladytoken |  
+| bip_39_word_no_space_5 | guitarsugarladytokencluster |  
+| bip_39_word_no_space_6 | guitarsugarladytokenclusternegative |  
+| bip_39_word_no_space_7 | guitarsugarladytokenclusternegativecorrect |  
+| bip_39_word_no_space_8 | guitarsugarladytokenclusternegativecorrectslender |  
+| bip_39_word_no_space_9 | guitarsugarladytokenclusternegativecorrectslenderevidence |  
 | bip_39_word_space_0 | ['guitar', 'sugar', 'lady', 'token', 'cluster', 'negative', 'correct', 'slender', 'evidence', 'thing', 'border', 'artist'] |  
 | bip_39_word_space_1 | guitar |  
 | bip_39_word_space_10 | guitar sugar lady token cluster negative correct slender evidence thing |  

@@ -122,6 +122,18 @@ crack
 old
 squeeze
 inhale |  
+| bip_39_word_no_space_1 | ball |  
+| bip_39_word_no_space_10 | ballgoodseatchestridgecrackoldsqueezeinhalegovern |  
+| bip_39_word_no_space_11 | ballgoodseatchestridgecrackoldsqueezeinhalegovernfoot |  
+| bip_39_word_no_space_12 | ballgoodseatchestridgecrackoldsqueezeinhalegovernfootattitude |  
+| bip_39_word_no_space_2 | ballgood |  
+| bip_39_word_no_space_3 | ballgoodseat |  
+| bip_39_word_no_space_4 | ballgoodseatchest |  
+| bip_39_word_no_space_5 | ballgoodseatchestridge |  
+| bip_39_word_no_space_6 | ballgoodseatchestridgecrack |  
+| bip_39_word_no_space_7 | ballgoodseatchestridgecrackold |  
+| bip_39_word_no_space_8 | ballgoodseatchestridgecrackoldsqueeze |  
+| bip_39_word_no_space_9 | ballgoodseatchestridgecrackoldsqueezeinhale |  
 | bip_39_word_space_0 | ['ball', 'good', 'seat', 'chest', 'ridge', 'crack', 'old', 'squeeze', 'inhale', 'govern', 'foot', 'attitude'] |  
 | bip_39_word_space_1 | ball |  
 | bip_39_word_space_10 | ball good seat chest ridge crack old squeeze inhale govern |  

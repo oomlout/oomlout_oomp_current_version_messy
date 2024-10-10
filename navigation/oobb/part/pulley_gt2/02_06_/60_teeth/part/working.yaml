@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'want
   seek
 
   cabbage'
+bip_39_word_no_space_1: want
+bip_39_word_no_space_10: wantswapkeykittenincludesweardrinkseekcabbagebenefit
+bip_39_word_no_space_11: wantswapkeykittenincludesweardrinkseekcabbagebenefitknee
+bip_39_word_no_space_12: wantswapkeykittenincludesweardrinkseekcabbagebenefitkneeagent
+bip_39_word_no_space_2: wantswap
+bip_39_word_no_space_3: wantswapkey
+bip_39_word_no_space_4: wantswapkeykitten
+bip_39_word_no_space_5: wantswapkeykitteninclude
+bip_39_word_no_space_6: wantswapkeykittenincludeswear
+bip_39_word_no_space_7: wantswapkeykittenincludesweardrink
+bip_39_word_no_space_8: wantswapkeykittenincludesweardrinkseek
+bip_39_word_no_space_9: wantswapkeykittenincludesweardrinkseekcabbage
 bip_39_word_space_0:
 - want
 - swap

@@ -122,6 +122,18 @@ fiber
 divide
 cliff
 olympic |  
+| bip_39_word_no_space_1 | sentence |  
+| bip_39_word_no_space_10 | sentencesurehiresentencemaidfiberdividecliffolympicpet |  
+| bip_39_word_no_space_11 | sentencesurehiresentencemaidfiberdividecliffolympicpetgallery |  
+| bip_39_word_no_space_12 | sentencesurehiresentencemaidfiberdividecliffolympicpetgalleryabsurd |  
+| bip_39_word_no_space_2 | sentencesure |  
+| bip_39_word_no_space_3 | sentencesurehire |  
+| bip_39_word_no_space_4 | sentencesurehiresentence |  
+| bip_39_word_no_space_5 | sentencesurehiresentencemaid |  
+| bip_39_word_no_space_6 | sentencesurehiresentencemaidfiber |  
+| bip_39_word_no_space_7 | sentencesurehiresentencemaidfiberdivide |  
+| bip_39_word_no_space_8 | sentencesurehiresentencemaidfiberdividecliff |  
+| bip_39_word_no_space_9 | sentencesurehiresentencemaidfiberdividecliffolympic |  
 | bip_39_word_space_0 | ['sentence', 'sure', 'hire', 'sentence', 'maid', 'fiber', 'divide', 'cliff', 'olympic', 'pet', 'gallery', 'absurd'] |  
 | bip_39_word_space_1 | sentence |  
 | bip_39_word_space_10 | sentence sure hire sentence maid fiber divide cliff olympic pet |  

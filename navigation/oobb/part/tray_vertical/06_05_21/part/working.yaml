@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stage
   cattle
 
   exchange'
+bip_39_word_no_space_1: stage
+bip_39_word_no_space_10: stageremainhawkwagonproudgriefbittercattleexchangesuper
+bip_39_word_no_space_11: stageremainhawkwagonproudgriefbittercattleexchangesuperpresent
+bip_39_word_no_space_12: stageremainhawkwagonproudgriefbittercattleexchangesuperpresentachieve
+bip_39_word_no_space_2: stageremain
+bip_39_word_no_space_3: stageremainhawk
+bip_39_word_no_space_4: stageremainhawkwagon
+bip_39_word_no_space_5: stageremainhawkwagonproud
+bip_39_word_no_space_6: stageremainhawkwagonproudgrief
+bip_39_word_no_space_7: stageremainhawkwagonproudgriefbitter
+bip_39_word_no_space_8: stageremainhawkwagonproudgriefbittercattle
+bip_39_word_no_space_9: stageremainhawkwagonproudgriefbittercattleexchange
 bip_39_word_space_0:
 - stage
 - remain

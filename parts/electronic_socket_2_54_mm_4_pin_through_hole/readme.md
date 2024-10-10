@@ -122,6 +122,18 @@ finger
 piano
 video
 stable |  
+| bip_39_word_no_space_1 | canvas |  
+| bip_39_word_no_space_10 | canvaschapterarrivefetchshoefingerpianovideostablemodify |  
+| bip_39_word_no_space_11 | canvaschapterarrivefetchshoefingerpianovideostablemodifyaddict |  
+| bip_39_word_no_space_12 | canvaschapterarrivefetchshoefingerpianovideostablemodifyaddictapril |  
+| bip_39_word_no_space_2 | canvaschapter |  
+| bip_39_word_no_space_3 | canvaschapterarrive |  
+| bip_39_word_no_space_4 | canvaschapterarrivefetch |  
+| bip_39_word_no_space_5 | canvaschapterarrivefetchshoe |  
+| bip_39_word_no_space_6 | canvaschapterarrivefetchshoefinger |  
+| bip_39_word_no_space_7 | canvaschapterarrivefetchshoefingerpiano |  
+| bip_39_word_no_space_8 | canvaschapterarrivefetchshoefingerpianovideo |  
+| bip_39_word_no_space_9 | canvaschapterarrivefetchshoefingerpianovideostable |  
 | bip_39_word_space_0 | ['canvas', 'chapter', 'arrive', 'fetch', 'shoe', 'finger', 'piano', 'video', 'stable', 'modify', 'addict', 'april'] |  
 | bip_39_word_space_1 | canvas |  
 | bip_39_word_space_10 | canvas chapter arrive fetch shoe finger piano video stable modify |  

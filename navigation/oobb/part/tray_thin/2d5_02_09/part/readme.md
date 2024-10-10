@@ -122,6 +122,18 @@ total
 absurd
 segment
 mesh |  
+| bip_39_word_no_space_1 | copper |  
+| bip_39_word_no_space_10 | copperemotionapprovepotteryspringtotalabsurdsegmentmeshcactus |  
+| bip_39_word_no_space_11 | copperemotionapprovepotteryspringtotalabsurdsegmentmeshcactuspopular |  
+| bip_39_word_no_space_12 | copperemotionapprovepotteryspringtotalabsurdsegmentmeshcactuspopulararrow |  
+| bip_39_word_no_space_2 | copperemotion |  
+| bip_39_word_no_space_3 | copperemotionapprove |  
+| bip_39_word_no_space_4 | copperemotionapprovepottery |  
+| bip_39_word_no_space_5 | copperemotionapprovepotteryspring |  
+| bip_39_word_no_space_6 | copperemotionapprovepotteryspringtotal |  
+| bip_39_word_no_space_7 | copperemotionapprovepotteryspringtotalabsurd |  
+| bip_39_word_no_space_8 | copperemotionapprovepotteryspringtotalabsurdsegment |  
+| bip_39_word_no_space_9 | copperemotionapprovepotteryspringtotalabsurdsegmentmesh |  
 | bip_39_word_space_0 | ['copper', 'emotion', 'approve', 'pottery', 'spring', 'total', 'absurd', 'segment', 'mesh', 'cactus', 'popular', 'arrow'] |  
 | bip_39_word_space_1 | copper |  
 | bip_39_word_space_10 | copper emotion approve pottery spring total absurd segment mesh cactus |  

@@ -122,6 +122,18 @@ six
 trim
 lumber
 permit |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accuseblessexpirebannerconsidersixtrimlumberpermitleisure |  
+| bip_39_word_no_space_11 | accuseblessexpirebannerconsidersixtrimlumberpermitleisuredisease |  
+| bip_39_word_no_space_12 | accuseblessexpirebannerconsidersixtrimlumberpermitleisurediseaseatom |  
+| bip_39_word_no_space_2 | accusebless |  
+| bip_39_word_no_space_3 | accuseblessexpire |  
+| bip_39_word_no_space_4 | accuseblessexpirebanner |  
+| bip_39_word_no_space_5 | accuseblessexpirebannerconsider |  
+| bip_39_word_no_space_6 | accuseblessexpirebannerconsidersix |  
+| bip_39_word_no_space_7 | accuseblessexpirebannerconsidersixtrim |  
+| bip_39_word_no_space_8 | accuseblessexpirebannerconsidersixtrimlumber |  
+| bip_39_word_no_space_9 | accuseblessexpirebannerconsidersixtrimlumberpermit |  
 | bip_39_word_space_0 | ['accuse', 'bless', 'expire', 'banner', 'consider', 'six', 'trim', 'lumber', 'permit', 'leisure', 'disease', 'atom'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse bless expire banner consider six trim lumber permit leisure |  

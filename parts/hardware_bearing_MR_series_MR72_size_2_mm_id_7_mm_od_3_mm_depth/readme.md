@@ -122,6 +122,18 @@ meat
 enrich
 extend
 stable |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzecracktosskidneycubemeatenrichextendstablefaith |  
+| bip_39_word_no_space_11 | bronzecracktosskidneycubemeatenrichextendstablefaithtop |  
+| bip_39_word_no_space_12 | bronzecracktosskidneycubemeatenrichextendstablefaithtopassume |  
+| bip_39_word_no_space_2 | bronzecrack |  
+| bip_39_word_no_space_3 | bronzecracktoss |  
+| bip_39_word_no_space_4 | bronzecracktosskidney |  
+| bip_39_word_no_space_5 | bronzecracktosskidneycube |  
+| bip_39_word_no_space_6 | bronzecracktosskidneycubemeat |  
+| bip_39_word_no_space_7 | bronzecracktosskidneycubemeatenrich |  
+| bip_39_word_no_space_8 | bronzecracktosskidneycubemeatenrichextend |  
+| bip_39_word_no_space_9 | bronzecracktosskidneycubemeatenrichextendstable |  
 | bip_39_word_space_0 | ['bronze', 'crack', 'toss', 'kidney', 'cube', 'meat', 'enrich', 'extend', 'stable', 'faith', 'top', 'assume'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze crack toss kidney cube meat enrich extend stable faith |  

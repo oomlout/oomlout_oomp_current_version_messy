@@ -122,6 +122,18 @@ basket
 real
 disease
 forum |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulbridgebirdsubjectflightbasketrealdiseaseforumstory |  
+| bip_39_word_no_space_11 | usefulbridgebirdsubjectflightbasketrealdiseaseforumstoryseek |  
+| bip_39_word_no_space_12 | usefulbridgebirdsubjectflightbasketrealdiseaseforumstoryseekallow |  
+| bip_39_word_no_space_2 | usefulbridge |  
+| bip_39_word_no_space_3 | usefulbridgebird |  
+| bip_39_word_no_space_4 | usefulbridgebirdsubject |  
+| bip_39_word_no_space_5 | usefulbridgebirdsubjectflight |  
+| bip_39_word_no_space_6 | usefulbridgebirdsubjectflightbasket |  
+| bip_39_word_no_space_7 | usefulbridgebirdsubjectflightbasketreal |  
+| bip_39_word_no_space_8 | usefulbridgebirdsubjectflightbasketrealdisease |  
+| bip_39_word_no_space_9 | usefulbridgebirdsubjectflightbasketrealdiseaseforum |  
 | bip_39_word_space_0 | ['useful', 'bridge', 'bird', 'subject', 'flight', 'basket', 'real', 'disease', 'forum', 'story', 'seek', 'allow'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful bridge bird subject flight basket real disease forum story |  

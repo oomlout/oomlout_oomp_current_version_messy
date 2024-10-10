@@ -122,6 +122,18 @@ deny
 lake
 ski
 file |  
+| bip_39_word_no_space_1 | myself |  
+| bip_39_word_no_space_10 | myselfreunionslabgloryswimdenylakeskifilechild |  
+| bip_39_word_no_space_11 | myselfreunionslabgloryswimdenylakeskifilechildresponse |  
+| bip_39_word_no_space_12 | myselfreunionslabgloryswimdenylakeskifilechildresponseagent |  
+| bip_39_word_no_space_2 | myselfreunion |  
+| bip_39_word_no_space_3 | myselfreunionslab |  
+| bip_39_word_no_space_4 | myselfreunionslabglory |  
+| bip_39_word_no_space_5 | myselfreunionslabgloryswim |  
+| bip_39_word_no_space_6 | myselfreunionslabgloryswimdeny |  
+| bip_39_word_no_space_7 | myselfreunionslabgloryswimdenylake |  
+| bip_39_word_no_space_8 | myselfreunionslabgloryswimdenylakeski |  
+| bip_39_word_no_space_9 | myselfreunionslabgloryswimdenylakeskifile |  
 | bip_39_word_space_0 | ['myself', 'reunion', 'slab', 'glory', 'swim', 'deny', 'lake', 'ski', 'file', 'child', 'response', 'agent'] |  
 | bip_39_word_space_1 | myself |  
 | bip_39_word_space_10 | myself reunion slab glory swim deny lake ski file child |  

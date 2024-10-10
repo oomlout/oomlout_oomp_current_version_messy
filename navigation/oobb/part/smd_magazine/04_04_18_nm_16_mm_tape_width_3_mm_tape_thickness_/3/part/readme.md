@@ -122,6 +122,18 @@ collect
 virus
 satoshi
 scare |  
+| bip_39_word_no_space_1 | mask |  
+| bip_39_word_no_space_10 | maskglassgooseadjustfirecollectvirussatoshiscaretackle |  
+| bip_39_word_no_space_11 | maskglassgooseadjustfirecollectvirussatoshiscaretackleozone |  
+| bip_39_word_no_space_12 | maskglassgooseadjustfirecollectvirussatoshiscaretackleozoneafford |  
+| bip_39_word_no_space_2 | maskglass |  
+| bip_39_word_no_space_3 | maskglassgoose |  
+| bip_39_word_no_space_4 | maskglassgooseadjust |  
+| bip_39_word_no_space_5 | maskglassgooseadjustfire |  
+| bip_39_word_no_space_6 | maskglassgooseadjustfirecollect |  
+| bip_39_word_no_space_7 | maskglassgooseadjustfirecollectvirus |  
+| bip_39_word_no_space_8 | maskglassgooseadjustfirecollectvirussatoshi |  
+| bip_39_word_no_space_9 | maskglassgooseadjustfirecollectvirussatoshiscare |  
 | bip_39_word_space_0 | ['mask', 'glass', 'goose', 'adjust', 'fire', 'collect', 'virus', 'satoshi', 'scare', 'tackle', 'ozone', 'afford'] |  
 | bip_39_word_space_1 | mask |  
 | bip_39_word_space_10 | mask glass goose adjust fire collect virus satoshi scare tackle |  

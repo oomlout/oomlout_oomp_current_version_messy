@@ -122,6 +122,18 @@ letter
 hint
 gesture
 dragon |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectexampleeastsalondryletterhintgesturedragonpeasant |  
+| bip_39_word_no_space_11 | selectexampleeastsalondryletterhintgesturedragonpeasantintact |  
+| bip_39_word_no_space_12 | selectexampleeastsalondryletterhintgesturedragonpeasantintactarrest |  
+| bip_39_word_no_space_2 | selectexample |  
+| bip_39_word_no_space_3 | selectexampleeast |  
+| bip_39_word_no_space_4 | selectexampleeastsalon |  
+| bip_39_word_no_space_5 | selectexampleeastsalondry |  
+| bip_39_word_no_space_6 | selectexampleeastsalondryletter |  
+| bip_39_word_no_space_7 | selectexampleeastsalondryletterhint |  
+| bip_39_word_no_space_8 | selectexampleeastsalondryletterhintgesture |  
+| bip_39_word_no_space_9 | selectexampleeastsalondryletterhintgesturedragon |  
 | bip_39_word_space_0 | ['select', 'example', 'east', 'salon', 'dry', 'letter', 'hint', 'gesture', 'dragon', 'peasant', 'intact', 'arrest'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select example east salon dry letter hint gesture dragon peasant |  

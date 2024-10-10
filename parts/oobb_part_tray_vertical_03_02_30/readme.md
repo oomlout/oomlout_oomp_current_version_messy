@@ -122,6 +122,18 @@ jump
 legal
 carry
 rebuild |  
+| bip_39_word_no_space_1 | renew |  
+| bip_39_word_no_space_10 | renewfunnydynamicindoorhilljumplegalcarryrebuildticket |  
+| bip_39_word_no_space_11 | renewfunnydynamicindoorhilljumplegalcarryrebuildticketbelow |  
+| bip_39_word_no_space_12 | renewfunnydynamicindoorhilljumplegalcarryrebuildticketbelowarmor |  
+| bip_39_word_no_space_2 | renewfunny |  
+| bip_39_word_no_space_3 | renewfunnydynamic |  
+| bip_39_word_no_space_4 | renewfunnydynamicindoor |  
+| bip_39_word_no_space_5 | renewfunnydynamicindoorhill |  
+| bip_39_word_no_space_6 | renewfunnydynamicindoorhilljump |  
+| bip_39_word_no_space_7 | renewfunnydynamicindoorhilljumplegal |  
+| bip_39_word_no_space_8 | renewfunnydynamicindoorhilljumplegalcarry |  
+| bip_39_word_no_space_9 | renewfunnydynamicindoorhilljumplegalcarryrebuild |  
 | bip_39_word_space_0 | ['renew', 'funny', 'dynamic', 'indoor', 'hill', 'jump', 'legal', 'carry', 'rebuild', 'ticket', 'below', 'armor'] |  
 | bip_39_word_space_1 | renew |  
 | bip_39_word_space_10 | renew funny dynamic indoor hill jump legal carry rebuild ticket |  

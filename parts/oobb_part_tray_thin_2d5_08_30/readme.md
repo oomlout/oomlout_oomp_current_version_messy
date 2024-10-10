@@ -122,6 +122,18 @@ market
 wisdom
 slim
 major |  
+| bip_39_word_no_space_1 | donkey |  
+| bip_39_word_no_space_10 | donkeyenemywhisperchampiondiffermarketwisdomslimmajorlife |  
+| bip_39_word_no_space_11 | donkeyenemywhisperchampiondiffermarketwisdomslimmajorlifebench |  
+| bip_39_word_no_space_12 | donkeyenemywhisperchampiondiffermarketwisdomslimmajorlifebenchagent |  
+| bip_39_word_no_space_2 | donkeyenemy |  
+| bip_39_word_no_space_3 | donkeyenemywhisper |  
+| bip_39_word_no_space_4 | donkeyenemywhisperchampion |  
+| bip_39_word_no_space_5 | donkeyenemywhisperchampiondiffer |  
+| bip_39_word_no_space_6 | donkeyenemywhisperchampiondiffermarket |  
+| bip_39_word_no_space_7 | donkeyenemywhisperchampiondiffermarketwisdom |  
+| bip_39_word_no_space_8 | donkeyenemywhisperchampiondiffermarketwisdomslim |  
+| bip_39_word_no_space_9 | donkeyenemywhisperchampiondiffermarketwisdomslimmajor |  
 | bip_39_word_space_0 | ['donkey', 'enemy', 'whisper', 'champion', 'differ', 'market', 'wisdom', 'slim', 'major', 'life', 'bench', 'agent'] |  
 | bip_39_word_space_1 | donkey |  
 | bip_39_word_space_10 | donkey enemy whisper champion differ market wisdom slim major life |  

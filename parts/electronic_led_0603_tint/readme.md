@@ -122,6 +122,18 @@ nurse
 device
 silly
 stock |  
+| bip_39_word_no_space_1 | casino |  
+| bip_39_word_no_space_10 | casinodevelopplacelunarhellonursedevicesillystockswift |  
+| bip_39_word_no_space_11 | casinodevelopplacelunarhellonursedevicesillystockswiftbutter |  
+| bip_39_word_no_space_12 | casinodevelopplacelunarhellonursedevicesillystockswiftbutteralien |  
+| bip_39_word_no_space_2 | casinodevelop |  
+| bip_39_word_no_space_3 | casinodevelopplace |  
+| bip_39_word_no_space_4 | casinodevelopplacelunar |  
+| bip_39_word_no_space_5 | casinodevelopplacelunarhello |  
+| bip_39_word_no_space_6 | casinodevelopplacelunarhellonurse |  
+| bip_39_word_no_space_7 | casinodevelopplacelunarhellonursedevice |  
+| bip_39_word_no_space_8 | casinodevelopplacelunarhellonursedevicesilly |  
+| bip_39_word_no_space_9 | casinodevelopplacelunarhellonursedevicesillystock |  
 | bip_39_word_space_0 | ['casino', 'develop', 'place', 'lunar', 'hello', 'nurse', 'device', 'silly', 'stock', 'swift', 'butter', 'alien'] |  
 | bip_39_word_space_1 | casino |  
 | bip_39_word_space_10 | casino develop place lunar hello nurse device silly stock swift |  

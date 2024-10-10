@@ -122,6 +122,18 @@ toast
 shadow
 blur
 boost |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | phototypicalcollectcoilbulbtoastshadowblurboostproduce |  
+| bip_39_word_no_space_11 | phototypicalcollectcoilbulbtoastshadowblurboostproducecherry |  
+| bip_39_word_no_space_12 | phototypicalcollectcoilbulbtoastshadowblurboostproducecherryathlete |  
+| bip_39_word_no_space_2 | phototypical |  
+| bip_39_word_no_space_3 | phototypicalcollect |  
+| bip_39_word_no_space_4 | phototypicalcollectcoil |  
+| bip_39_word_no_space_5 | phototypicalcollectcoilbulb |  
+| bip_39_word_no_space_6 | phototypicalcollectcoilbulbtoast |  
+| bip_39_word_no_space_7 | phototypicalcollectcoilbulbtoastshadow |  
+| bip_39_word_no_space_8 | phototypicalcollectcoilbulbtoastshadowblur |  
+| bip_39_word_no_space_9 | phototypicalcollectcoilbulbtoastshadowblurboost |  
 | bip_39_word_space_0 | ['photo', 'typical', 'collect', 'coil', 'bulb', 'toast', 'shadow', 'blur', 'boost', 'produce', 'cherry', 'athlete'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo typical collect coil bulb toast shadow blur boost produce |  

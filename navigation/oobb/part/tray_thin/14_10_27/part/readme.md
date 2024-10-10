@@ -122,6 +122,18 @@ shop
 problem
 gesture
 carpet |  
+| bip_39_word_no_space_1 | drastic |  
+| bip_39_word_no_space_10 | drasticremembersodafevercancelshopproblemgesturecarpetglad |  
+| bip_39_word_no_space_11 | drasticremembersodafevercancelshopproblemgesturecarpetgladtrust |  
+| bip_39_word_no_space_12 | drasticremembersodafevercancelshopproblemgesturecarpetgladtrustarm |  
+| bip_39_word_no_space_2 | drasticremember |  
+| bip_39_word_no_space_3 | drasticremembersoda |  
+| bip_39_word_no_space_4 | drasticremembersodafever |  
+| bip_39_word_no_space_5 | drasticremembersodafevercancel |  
+| bip_39_word_no_space_6 | drasticremembersodafevercancelshop |  
+| bip_39_word_no_space_7 | drasticremembersodafevercancelshopproblem |  
+| bip_39_word_no_space_8 | drasticremembersodafevercancelshopproblemgesture |  
+| bip_39_word_no_space_9 | drasticremembersodafevercancelshopproblemgesturecarpet |  
 | bip_39_word_space_0 | ['drastic', 'remember', 'soda', 'fever', 'cancel', 'shop', 'problem', 'gesture', 'carpet', 'glad', 'trust', 'arm'] |  
 | bip_39_word_space_1 | drastic |  
 | bip_39_word_space_10 | drastic remember soda fever cancel shop problem gesture carpet glad |  

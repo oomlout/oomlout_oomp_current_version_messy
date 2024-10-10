@@ -122,6 +122,18 @@ palm
 awesome
 excess
 board |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementtripseedmonkeypluckpalmawesomeexcessboardduck |  
+| bip_39_word_no_space_11 | elementtripseedmonkeypluckpalmawesomeexcessboardduckdanger |  
+| bip_39_word_no_space_12 | elementtripseedmonkeypluckpalmawesomeexcessboardduckdangerafraid |  
+| bip_39_word_no_space_2 | elementtrip |  
+| bip_39_word_no_space_3 | elementtripseed |  
+| bip_39_word_no_space_4 | elementtripseedmonkey |  
+| bip_39_word_no_space_5 | elementtripseedmonkeypluck |  
+| bip_39_word_no_space_6 | elementtripseedmonkeypluckpalm |  
+| bip_39_word_no_space_7 | elementtripseedmonkeypluckpalmawesome |  
+| bip_39_word_no_space_8 | elementtripseedmonkeypluckpalmawesomeexcess |  
+| bip_39_word_no_space_9 | elementtripseedmonkeypluckpalmawesomeexcessboard |  
 | bip_39_word_space_0 | ['element', 'trip', 'seed', 'monkey', 'pluck', 'palm', 'awesome', 'excess', 'board', 'duck', 'danger', 'afraid'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element trip seed monkey pluck palm awesome excess board duck |  

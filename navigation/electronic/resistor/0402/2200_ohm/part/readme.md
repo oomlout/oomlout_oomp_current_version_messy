@@ -122,6 +122,18 @@ use
 promote
 layer
 wide |  
+| bip_39_word_no_space_1 | hair |  
+| bip_39_word_no_space_10 | hairamateurcrouchicemagnetusepromotelayerwideignore |  
+| bip_39_word_no_space_11 | hairamateurcrouchicemagnetusepromotelayerwideignoretide |  
+| bip_39_word_no_space_12 | hairamateurcrouchicemagnetusepromotelayerwideignoretideall |  
+| bip_39_word_no_space_2 | hairamateur |  
+| bip_39_word_no_space_3 | hairamateurcrouch |  
+| bip_39_word_no_space_4 | hairamateurcrouchice |  
+| bip_39_word_no_space_5 | hairamateurcrouchicemagnet |  
+| bip_39_word_no_space_6 | hairamateurcrouchicemagnetuse |  
+| bip_39_word_no_space_7 | hairamateurcrouchicemagnetusepromote |  
+| bip_39_word_no_space_8 | hairamateurcrouchicemagnetusepromotelayer |  
+| bip_39_word_no_space_9 | hairamateurcrouchicemagnetusepromotelayerwide |  
 | bip_39_word_space_0 | ['hair', 'amateur', 'crouch', 'ice', 'magnet', 'use', 'promote', 'layer', 'wide', 'ignore', 'tide', 'all'] |  
 | bip_39_word_space_1 | hair |  
 | bip_39_word_space_10 | hair amateur crouch ice magnet use promote layer wide ignore |  

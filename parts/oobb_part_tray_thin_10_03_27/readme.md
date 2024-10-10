@@ -122,6 +122,18 @@ camp
 bounce
 super
 type |  
+| bip_39_word_no_space_1 | sorry |  
+| bip_39_word_no_space_10 | sorryvaguestarttrashclutchcampbouncesupertypestrike |  
+| bip_39_word_no_space_11 | sorryvaguestarttrashclutchcampbouncesupertypestrikesurvey |  
+| bip_39_word_no_space_12 | sorryvaguestarttrashclutchcampbouncesupertypestrikesurveyabsurd |  
+| bip_39_word_no_space_2 | sorryvague |  
+| bip_39_word_no_space_3 | sorryvaguestart |  
+| bip_39_word_no_space_4 | sorryvaguestarttrash |  
+| bip_39_word_no_space_5 | sorryvaguestarttrashclutch |  
+| bip_39_word_no_space_6 | sorryvaguestarttrashclutchcamp |  
+| bip_39_word_no_space_7 | sorryvaguestarttrashclutchcampbounce |  
+| bip_39_word_no_space_8 | sorryvaguestarttrashclutchcampbouncesuper |  
+| bip_39_word_no_space_9 | sorryvaguestarttrashclutchcampbouncesupertype |  
 | bip_39_word_space_0 | ['sorry', 'vague', 'start', 'trash', 'clutch', 'camp', 'bounce', 'super', 'type', 'strike', 'survey', 'absurd'] |  
 | bip_39_word_space_1 | sorry |  
 | bip_39_word_space_10 | sorry vague start trash clutch camp bounce super type strike |  

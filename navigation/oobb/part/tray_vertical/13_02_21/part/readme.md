@@ -122,6 +122,18 @@ swear
 dove
 artist
 plug |  
+| bip_39_word_no_space_1 | sick |  
+| bip_39_word_no_space_10 | sicklotteryspiceskillknowsweardoveartistplugtank |  
+| bip_39_word_no_space_11 | sicklotteryspiceskillknowsweardoveartistplugtankpen |  
+| bip_39_word_no_space_12 | sicklotteryspiceskillknowsweardoveartistplugtankpenabout |  
+| bip_39_word_no_space_2 | sicklottery |  
+| bip_39_word_no_space_3 | sicklotteryspice |  
+| bip_39_word_no_space_4 | sicklotteryspiceskill |  
+| bip_39_word_no_space_5 | sicklotteryspiceskillknow |  
+| bip_39_word_no_space_6 | sicklotteryspiceskillknowswear |  
+| bip_39_word_no_space_7 | sicklotteryspiceskillknowsweardove |  
+| bip_39_word_no_space_8 | sicklotteryspiceskillknowsweardoveartist |  
+| bip_39_word_no_space_9 | sicklotteryspiceskillknowsweardoveartistplug |  
 | bip_39_word_space_0 | ['sick', 'lottery', 'spice', 'skill', 'know', 'swear', 'dove', 'artist', 'plug', 'tank', 'pen', 'about'] |  
 | bip_39_word_space_1 | sick |  
 | bip_39_word_space_10 | sick lottery spice skill know swear dove artist plug tank |  

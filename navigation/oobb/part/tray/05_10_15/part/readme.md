@@ -122,6 +122,18 @@ sudden
 jungle
 valid
 monitor |  
+| bip_39_word_no_space_1 | kiwi |  
+| bip_39_word_no_space_10 | kiwirosevehicletrapshouldersuddenjunglevalidmonitorpatrol |  
+| bip_39_word_no_space_11 | kiwirosevehicletrapshouldersuddenjunglevalidmonitorpatroltheme |  
+| bip_39_word_no_space_12 | kiwirosevehicletrapshouldersuddenjunglevalidmonitorpatrolthemeanswer |  
+| bip_39_word_no_space_2 | kiwirose |  
+| bip_39_word_no_space_3 | kiwirosevehicle |  
+| bip_39_word_no_space_4 | kiwirosevehicletrap |  
+| bip_39_word_no_space_5 | kiwirosevehicletrapshoulder |  
+| bip_39_word_no_space_6 | kiwirosevehicletrapshouldersudden |  
+| bip_39_word_no_space_7 | kiwirosevehicletrapshouldersuddenjungle |  
+| bip_39_word_no_space_8 | kiwirosevehicletrapshouldersuddenjunglevalid |  
+| bip_39_word_no_space_9 | kiwirosevehicletrapshouldersuddenjunglevalidmonitor |  
 | bip_39_word_space_0 | ['kiwi', 'rose', 'vehicle', 'trap', 'shoulder', 'sudden', 'jungle', 'valid', 'monitor', 'patrol', 'theme', 'answer'] |  
 | bip_39_word_space_1 | kiwi |  
 | bip_39_word_space_10 | kiwi rose vehicle trap shoulder sudden jungle valid monitor patrol |  

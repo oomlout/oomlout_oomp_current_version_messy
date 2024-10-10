@@ -122,6 +122,18 @@ economy
 owner
 valid
 flower |  
+| bip_39_word_no_space_1 | venue |  
+| bip_39_word_no_space_10 | venuecornexhaustdirectdetaileconomyownervalidflowerhigh |  
+| bip_39_word_no_space_11 | venuecornexhaustdirectdetaileconomyownervalidflowerhighvital |  
+| bip_39_word_no_space_12 | venuecornexhaustdirectdetaileconomyownervalidflowerhighvitalamused |  
+| bip_39_word_no_space_2 | venuecorn |  
+| bip_39_word_no_space_3 | venuecornexhaust |  
+| bip_39_word_no_space_4 | venuecornexhaustdirect |  
+| bip_39_word_no_space_5 | venuecornexhaustdirectdetail |  
+| bip_39_word_no_space_6 | venuecornexhaustdirectdetaileconomy |  
+| bip_39_word_no_space_7 | venuecornexhaustdirectdetaileconomyowner |  
+| bip_39_word_no_space_8 | venuecornexhaustdirectdetaileconomyownervalid |  
+| bip_39_word_no_space_9 | venuecornexhaustdirectdetaileconomyownervalidflower |  
 | bip_39_word_space_0 | ['venue', 'corn', 'exhaust', 'direct', 'detail', 'economy', 'owner', 'valid', 'flower', 'high', 'vital', 'amused'] |  
 | bip_39_word_space_1 | venue |  
 | bip_39_word_space_10 | venue corn exhaust direct detail economy owner valid flower high |  

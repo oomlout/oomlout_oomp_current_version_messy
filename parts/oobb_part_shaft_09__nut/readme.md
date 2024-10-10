@@ -122,6 +122,18 @@ mom
 illness
 fortune
 brush |  
+| bip_39_word_no_space_1 | tilt |  
+| bip_39_word_no_space_10 | tiltgroceryclarifylibrarysymptommomillnessfortunebrushsilent |  
+| bip_39_word_no_space_11 | tiltgroceryclarifylibrarysymptommomillnessfortunebrushsilentbuyer |  
+| bip_39_word_no_space_12 | tiltgroceryclarifylibrarysymptommomillnessfortunebrushsilentbuyerarrange |  
+| bip_39_word_no_space_2 | tiltgrocery |  
+| bip_39_word_no_space_3 | tiltgroceryclarify |  
+| bip_39_word_no_space_4 | tiltgroceryclarifylibrary |  
+| bip_39_word_no_space_5 | tiltgroceryclarifylibrarysymptom |  
+| bip_39_word_no_space_6 | tiltgroceryclarifylibrarysymptommom |  
+| bip_39_word_no_space_7 | tiltgroceryclarifylibrarysymptommomillness |  
+| bip_39_word_no_space_8 | tiltgroceryclarifylibrarysymptommomillnessfortune |  
+| bip_39_word_no_space_9 | tiltgroceryclarifylibrarysymptommomillnessfortunebrush |  
 | bip_39_word_space_0 | ['tilt', 'grocery', 'clarify', 'library', 'symptom', 'mom', 'illness', 'fortune', 'brush', 'silent', 'buyer', 'arrange'] |  
 | bip_39_word_space_1 | tilt |  
 | bip_39_word_space_10 | tilt grocery clarify library symptom mom illness fortune brush silent |  

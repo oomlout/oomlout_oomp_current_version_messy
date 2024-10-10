@@ -122,6 +122,18 @@ relax
 spider
 depend
 victory |  
+| bip_39_word_no_space_1 | water |  
+| bip_39_word_no_space_10 | watershootphonematrixskaterelaxspiderdependvictoryslab |  
+| bip_39_word_no_space_11 | watershootphonematrixskaterelaxspiderdependvictoryslabwest |  
+| bip_39_word_no_space_12 | watershootphonematrixskaterelaxspiderdependvictoryslabwestadmit |  
+| bip_39_word_no_space_2 | watershoot |  
+| bip_39_word_no_space_3 | watershootphone |  
+| bip_39_word_no_space_4 | watershootphonematrix |  
+| bip_39_word_no_space_5 | watershootphonematrixskate |  
+| bip_39_word_no_space_6 | watershootphonematrixskaterelax |  
+| bip_39_word_no_space_7 | watershootphonematrixskaterelaxspider |  
+| bip_39_word_no_space_8 | watershootphonematrixskaterelaxspiderdepend |  
+| bip_39_word_no_space_9 | watershootphonematrixskaterelaxspiderdependvictory |  
 | bip_39_word_space_0 | ['water', 'shoot', 'phone', 'matrix', 'skate', 'relax', 'spider', 'depend', 'victory', 'slab', 'west', 'admit'] |  
 | bip_39_word_space_1 | water |  
 | bip_39_word_space_10 | water shoot phone matrix skate relax spider depend victory slab |  

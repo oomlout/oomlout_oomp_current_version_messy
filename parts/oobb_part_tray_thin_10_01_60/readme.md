@@ -122,6 +122,18 @@ broom
 morning
 monster
 express |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declinerarerobustmulecrashbroommorningmonsterexpressmodify |  
+| bip_39_word_no_space_11 | declinerarerobustmulecrashbroommorningmonsterexpressmodifymerry |  
+| bip_39_word_no_space_12 | declinerarerobustmulecrashbroommorningmonsterexpressmodifymerryamused |  
+| bip_39_word_no_space_2 | declinerare |  
+| bip_39_word_no_space_3 | declinerarerobust |  
+| bip_39_word_no_space_4 | declinerarerobustmule |  
+| bip_39_word_no_space_5 | declinerarerobustmulecrash |  
+| bip_39_word_no_space_6 | declinerarerobustmulecrashbroom |  
+| bip_39_word_no_space_7 | declinerarerobustmulecrashbroommorning |  
+| bip_39_word_no_space_8 | declinerarerobustmulecrashbroommorningmonster |  
+| bip_39_word_no_space_9 | declinerarerobustmulecrashbroommorningmonsterexpress |  
 | bip_39_word_space_0 | ['decline', 'rare', 'robust', 'mule', 'crash', 'broom', 'morning', 'monster', 'express', 'modify', 'merry', 'amused'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline rare robust mule crash broom morning monster express modify |  

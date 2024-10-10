@@ -122,6 +122,18 @@ satoshi
 race
 witness
 curve |  
+| bip_39_word_no_space_1 | trade |  
+| bip_39_word_no_space_10 | tradejuniorelephantlakefadesatoshiracewitnesscurvearrive |  
+| bip_39_word_no_space_11 | tradejuniorelephantlakefadesatoshiracewitnesscurvearrivedemise |  
+| bip_39_word_no_space_12 | tradejuniorelephantlakefadesatoshiracewitnesscurvearrivedemiseadvance |  
+| bip_39_word_no_space_2 | tradejunior |  
+| bip_39_word_no_space_3 | tradejuniorelephant |  
+| bip_39_word_no_space_4 | tradejuniorelephantlake |  
+| bip_39_word_no_space_5 | tradejuniorelephantlakefade |  
+| bip_39_word_no_space_6 | tradejuniorelephantlakefadesatoshi |  
+| bip_39_word_no_space_7 | tradejuniorelephantlakefadesatoshirace |  
+| bip_39_word_no_space_8 | tradejuniorelephantlakefadesatoshiracewitness |  
+| bip_39_word_no_space_9 | tradejuniorelephantlakefadesatoshiracewitnesscurve |  
 | bip_39_word_space_0 | ['trade', 'junior', 'elephant', 'lake', 'fade', 'satoshi', 'race', 'witness', 'curve', 'arrive', 'demise', 'advance'] |  
 | bip_39_word_space_1 | trade |  
 | bip_39_word_space_10 | trade junior elephant lake fade satoshi race witness curve arrive |  

@@ -122,6 +122,18 @@ assist
 photo
 figure
 race |  
+| bip_39_word_no_space_1 | identify |  
+| bip_39_word_no_space_10 | identifycliffteachreducearrangeassistphotofigureracelove |  
+| bip_39_word_no_space_11 | identifycliffteachreducearrangeassistphotofigureracelovechoice |  
+| bip_39_word_no_space_12 | identifycliffteachreducearrangeassistphotofigureracelovechoiceabuse |  
+| bip_39_word_no_space_2 | identifycliff |  
+| bip_39_word_no_space_3 | identifycliffteach |  
+| bip_39_word_no_space_4 | identifycliffteachreduce |  
+| bip_39_word_no_space_5 | identifycliffteachreducearrange |  
+| bip_39_word_no_space_6 | identifycliffteachreducearrangeassist |  
+| bip_39_word_no_space_7 | identifycliffteachreducearrangeassistphoto |  
+| bip_39_word_no_space_8 | identifycliffteachreducearrangeassistphotofigure |  
+| bip_39_word_no_space_9 | identifycliffteachreducearrangeassistphotofigurerace |  
 | bip_39_word_space_0 | ['identify', 'cliff', 'teach', 'reduce', 'arrange', 'assist', 'photo', 'figure', 'race', 'love', 'choice', 'abuse'] |  
 | bip_39_word_space_1 | identify |  
 | bip_39_word_space_10 | identify cliff teach reduce arrange assist photo figure race love |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'melody
   express
 
   under'
+bip_39_word_no_space_1: melody
+bip_39_word_no_space_10: melodymuleparkprocesssaucespherefetchexpressundershallow
+bip_39_word_no_space_11: melodymuleparkprocesssaucespherefetchexpressundershallowtheme
+bip_39_word_no_space_12: melodymuleparkprocesssaucespherefetchexpressundershallowthemeadvance
+bip_39_word_no_space_2: melodymule
+bip_39_word_no_space_3: melodymulepark
+bip_39_word_no_space_4: melodymuleparkprocess
+bip_39_word_no_space_5: melodymuleparkprocesssauce
+bip_39_word_no_space_6: melodymuleparkprocesssaucesphere
+bip_39_word_no_space_7: melodymuleparkprocesssaucespherefetch
+bip_39_word_no_space_8: melodymuleparkprocesssaucespherefetchexpress
+bip_39_word_no_space_9: melodymuleparkprocesssaucespherefetchexpressunder
 bip_39_word_space_0:
 - melody
 - mule

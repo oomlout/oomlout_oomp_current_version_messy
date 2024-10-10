@@ -122,6 +122,18 @@ genuine
 flash
 cinnamon
 duck |  
+| bip_39_word_no_space_1 | evolve |  
+| bip_39_word_no_space_10 | evolveinsectshivercushionduckgenuineflashcinnamonduckfiber |  
+| bip_39_word_no_space_11 | evolveinsectshivercushionduckgenuineflashcinnamonduckfiberseven |  
+| bip_39_word_no_space_12 | evolveinsectshivercushionduckgenuineflashcinnamonduckfibersevenagain |  
+| bip_39_word_no_space_2 | evolveinsect |  
+| bip_39_word_no_space_3 | evolveinsectshiver |  
+| bip_39_word_no_space_4 | evolveinsectshivercushion |  
+| bip_39_word_no_space_5 | evolveinsectshivercushionduck |  
+| bip_39_word_no_space_6 | evolveinsectshivercushionduckgenuine |  
+| bip_39_word_no_space_7 | evolveinsectshivercushionduckgenuineflash |  
+| bip_39_word_no_space_8 | evolveinsectshivercushionduckgenuineflashcinnamon |  
+| bip_39_word_no_space_9 | evolveinsectshivercushionduckgenuineflashcinnamonduck |  
 | bip_39_word_space_0 | ['evolve', 'insect', 'shiver', 'cushion', 'duck', 'genuine', 'flash', 'cinnamon', 'duck', 'fiber', 'seven', 'again'] |  
 | bip_39_word_space_1 | evolve |  
 | bip_39_word_space_10 | evolve insect shiver cushion duck genuine flash cinnamon duck fiber |  

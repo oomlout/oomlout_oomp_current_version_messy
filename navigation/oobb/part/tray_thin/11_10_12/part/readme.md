@@ -122,6 +122,18 @@ guess
 evolve
 stool
 elegant |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approveuniversemotiondaytrackguessevolvestoolelegantfoil |  
+| bip_39_word_no_space_11 | approveuniversemotiondaytrackguessevolvestoolelegantfoilfancy |  
+| bip_39_word_no_space_12 | approveuniversemotiondaytrackguessevolvestoolelegantfoilfancyadult |  
+| bip_39_word_no_space_2 | approveuniverse |  
+| bip_39_word_no_space_3 | approveuniversemotion |  
+| bip_39_word_no_space_4 | approveuniversemotionday |  
+| bip_39_word_no_space_5 | approveuniversemotiondaytrack |  
+| bip_39_word_no_space_6 | approveuniversemotiondaytrackguess |  
+| bip_39_word_no_space_7 | approveuniversemotiondaytrackguessevolve |  
+| bip_39_word_no_space_8 | approveuniversemotiondaytrackguessevolvestool |  
+| bip_39_word_no_space_9 | approveuniversemotiondaytrackguessevolvestoolelegant |  
 | bip_39_word_space_0 | ['approve', 'universe', 'motion', 'day', 'track', 'guess', 'evolve', 'stool', 'elegant', 'foil', 'fancy', 'adult'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve universe motion day track guess evolve stool elegant foil |  

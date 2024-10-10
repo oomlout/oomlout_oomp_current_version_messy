@@ -122,6 +122,18 @@ rhythm
 analyst
 warm
 segment |  
+| bip_39_word_no_space_1 | priority |  
+| bip_39_word_no_space_10 | prioritypigeonlessondustsearhythmanalystwarmsegmentopera |  
+| bip_39_word_no_space_11 | prioritypigeonlessondustsearhythmanalystwarmsegmentoperaunveil |  
+| bip_39_word_no_space_12 | prioritypigeonlessondustsearhythmanalystwarmsegmentoperaunveilabove |  
+| bip_39_word_no_space_2 | prioritypigeon |  
+| bip_39_word_no_space_3 | prioritypigeonlesson |  
+| bip_39_word_no_space_4 | prioritypigeonlessondust |  
+| bip_39_word_no_space_5 | prioritypigeonlessondustsea |  
+| bip_39_word_no_space_6 | prioritypigeonlessondustsearhythm |  
+| bip_39_word_no_space_7 | prioritypigeonlessondustsearhythmanalyst |  
+| bip_39_word_no_space_8 | prioritypigeonlessondustsearhythmanalystwarm |  
+| bip_39_word_no_space_9 | prioritypigeonlessondustsearhythmanalystwarmsegment |  
 | bip_39_word_space_0 | ['priority', 'pigeon', 'lesson', 'dust', 'sea', 'rhythm', 'analyst', 'warm', 'segment', 'opera', 'unveil', 'above'] |  
 | bip_39_word_space_1 | priority |  
 | bip_39_word_space_10 | priority pigeon lesson dust sea rhythm analyst warm segment opera |  

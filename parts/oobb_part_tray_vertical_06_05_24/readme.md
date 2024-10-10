@@ -122,6 +122,18 @@ seat
 drop
 crush
 spawn |  
+| bip_39_word_no_space_1 | stadium |  
+| bip_39_word_no_space_10 | stadiumallcanceltypepunchseatdropcrushspawnfetch |  
+| bip_39_word_no_space_11 | stadiumallcanceltypepunchseatdropcrushspawnfetchpole |  
+| bip_39_word_no_space_12 | stadiumallcanceltypepunchseatdropcrushspawnfetchpoleany |  
+| bip_39_word_no_space_2 | stadiumall |  
+| bip_39_word_no_space_3 | stadiumallcancel |  
+| bip_39_word_no_space_4 | stadiumallcanceltype |  
+| bip_39_word_no_space_5 | stadiumallcanceltypepunch |  
+| bip_39_word_no_space_6 | stadiumallcanceltypepunchseat |  
+| bip_39_word_no_space_7 | stadiumallcanceltypepunchseatdrop |  
+| bip_39_word_no_space_8 | stadiumallcanceltypepunchseatdropcrush |  
+| bip_39_word_no_space_9 | stadiumallcanceltypepunchseatdropcrushspawn |  
 | bip_39_word_space_0 | ['stadium', 'all', 'cancel', 'type', 'punch', 'seat', 'drop', 'crush', 'spawn', 'fetch', 'pole', 'any'] |  
 | bip_39_word_space_1 | stadium |  
 | bip_39_word_space_10 | stadium all cancel type punch seat drop crush spawn fetch |  

@@ -122,6 +122,18 @@ west
 duck
 apple
 fiber |  
+| bip_39_word_no_space_1 | silk |  
+| bip_39_word_no_space_10 | silkquartertrashgovernmonkeywestduckapplefiberbulk |  
+| bip_39_word_no_space_11 | silkquartertrashgovernmonkeywestduckapplefiberbulktraffic |  
+| bip_39_word_no_space_12 | silkquartertrashgovernmonkeywestduckapplefiberbulktrafficautumn |  
+| bip_39_word_no_space_2 | silkquarter |  
+| bip_39_word_no_space_3 | silkquartertrash |  
+| bip_39_word_no_space_4 | silkquartertrashgovern |  
+| bip_39_word_no_space_5 | silkquartertrashgovernmonkey |  
+| bip_39_word_no_space_6 | silkquartertrashgovernmonkeywest |  
+| bip_39_word_no_space_7 | silkquartertrashgovernmonkeywestduck |  
+| bip_39_word_no_space_8 | silkquartertrashgovernmonkeywestduckapple |  
+| bip_39_word_no_space_9 | silkquartertrashgovernmonkeywestduckapplefiber |  
 | bip_39_word_space_0 | ['silk', 'quarter', 'trash', 'govern', 'monkey', 'west', 'duck', 'apple', 'fiber', 'bulk', 'traffic', 'autumn'] |  
 | bip_39_word_space_1 | silk |  
 | bip_39_word_space_10 | silk quarter trash govern monkey west duck apple fiber bulk |  

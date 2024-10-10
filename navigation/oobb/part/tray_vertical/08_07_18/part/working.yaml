@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bleak
   kiwi
 
   hundred'
+bip_39_word_no_space_1: bleak
+bip_39_word_no_space_10: bleakstampassumeacidsizeordinaryridekiwihundredugly
+bip_39_word_no_space_11: bleakstampassumeacidsizeordinaryridekiwihundreduglymenu
+bip_39_word_no_space_12: bleakstampassumeacidsizeordinaryridekiwihundreduglymenuacoustic
+bip_39_word_no_space_2: bleakstamp
+bip_39_word_no_space_3: bleakstampassume
+bip_39_word_no_space_4: bleakstampassumeacid
+bip_39_word_no_space_5: bleakstampassumeacidsize
+bip_39_word_no_space_6: bleakstampassumeacidsizeordinary
+bip_39_word_no_space_7: bleakstampassumeacidsizeordinaryride
+bip_39_word_no_space_8: bleakstampassumeacidsizeordinaryridekiwi
+bip_39_word_no_space_9: bleakstampassumeacidsizeordinaryridekiwihundred
 bip_39_word_space_0:
 - bleak
 - stamp

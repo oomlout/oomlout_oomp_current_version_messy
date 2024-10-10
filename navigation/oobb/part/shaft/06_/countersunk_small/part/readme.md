@@ -122,6 +122,18 @@ observe
 atom
 box
 giraffe |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joincactuslevelflipmouseobserveatomboxgiraffezoo |  
+| bip_39_word_no_space_11 | joincactuslevelflipmouseobserveatomboxgiraffezoowagon |  
+| bip_39_word_no_space_12 | joincactuslevelflipmouseobserveatomboxgiraffezoowagonaccuse |  
+| bip_39_word_no_space_2 | joincactus |  
+| bip_39_word_no_space_3 | joincactuslevel |  
+| bip_39_word_no_space_4 | joincactuslevelflip |  
+| bip_39_word_no_space_5 | joincactuslevelflipmouse |  
+| bip_39_word_no_space_6 | joincactuslevelflipmouseobserve |  
+| bip_39_word_no_space_7 | joincactuslevelflipmouseobserveatom |  
+| bip_39_word_no_space_8 | joincactuslevelflipmouseobserveatombox |  
+| bip_39_word_no_space_9 | joincactuslevelflipmouseobserveatomboxgiraffe |  
 | bip_39_word_space_0 | ['join', 'cactus', 'level', 'flip', 'mouse', 'observe', 'atom', 'box', 'giraffe', 'zoo', 'wagon', 'accuse'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join cactus level flip mouse observe atom box giraffe zoo |  

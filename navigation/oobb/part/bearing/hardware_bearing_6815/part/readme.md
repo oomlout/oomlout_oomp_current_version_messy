@@ -122,6 +122,18 @@ situate
 belt
 remember
 enable |  
+| bip_39_word_no_space_1 | earth |  
+| bip_39_word_no_space_10 | earthcloudloudblossomthatsituatebeltrememberenablesubway |  
+| bip_39_word_no_space_11 | earthcloudloudblossomthatsituatebeltrememberenablesubwaysmooth |  
+| bip_39_word_no_space_12 | earthcloudloudblossomthatsituatebeltrememberenablesubwaysmoothangry |  
+| bip_39_word_no_space_2 | earthcloud |  
+| bip_39_word_no_space_3 | earthcloudloud |  
+| bip_39_word_no_space_4 | earthcloudloudblossom |  
+| bip_39_word_no_space_5 | earthcloudloudblossomthat |  
+| bip_39_word_no_space_6 | earthcloudloudblossomthatsituate |  
+| bip_39_word_no_space_7 | earthcloudloudblossomthatsituatebelt |  
+| bip_39_word_no_space_8 | earthcloudloudblossomthatsituatebeltremember |  
+| bip_39_word_no_space_9 | earthcloudloudblossomthatsituatebeltrememberenable |  
 | bip_39_word_space_0 | ['earth', 'cloud', 'loud', 'blossom', 'that', 'situate', 'belt', 'remember', 'enable', 'subway', 'smooth', 'angry'] |  
 | bip_39_word_space_1 | earth |  
 | bip_39_word_space_10 | earth cloud loud blossom that situate belt remember enable subway |  

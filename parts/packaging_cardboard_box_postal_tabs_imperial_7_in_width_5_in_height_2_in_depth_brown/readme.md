@@ -122,6 +122,18 @@ book
 online
 fox
 bitter |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familyweirdbudgetcasinodignitybookonlinefoxbitteromit |  
+| bip_39_word_no_space_11 | familyweirdbudgetcasinodignitybookonlinefoxbitteromitown |  
+| bip_39_word_no_space_12 | familyweirdbudgetcasinodignitybookonlinefoxbitteromitownaround |  
+| bip_39_word_no_space_2 | familyweird |  
+| bip_39_word_no_space_3 | familyweirdbudget |  
+| bip_39_word_no_space_4 | familyweirdbudgetcasino |  
+| bip_39_word_no_space_5 | familyweirdbudgetcasinodignity |  
+| bip_39_word_no_space_6 | familyweirdbudgetcasinodignitybook |  
+| bip_39_word_no_space_7 | familyweirdbudgetcasinodignitybookonline |  
+| bip_39_word_no_space_8 | familyweirdbudgetcasinodignitybookonlinefox |  
+| bip_39_word_no_space_9 | familyweirdbudgetcasinodignitybookonlinefoxbitter |  
 | bip_39_word_space_0 | ['family', 'weird', 'budget', 'casino', 'dignity', 'book', 'online', 'fox', 'bitter', 'omit', 'own', 'around'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family weird budget casino dignity book online fox bitter omit |  

@@ -122,6 +122,18 @@ unhappy
 pilot
 private
 fence |  
+| bip_39_word_no_space_1 | jazz |  
+| bip_39_word_no_space_10 | jazzsummerupgradecrueltopunhappypilotprivatefenceinvite |  
+| bip_39_word_no_space_11 | jazzsummerupgradecrueltopunhappypilotprivatefenceinviteadmit |  
+| bip_39_word_no_space_12 | jazzsummerupgradecrueltopunhappypilotprivatefenceinviteadmitall |  
+| bip_39_word_no_space_2 | jazzsummer |  
+| bip_39_word_no_space_3 | jazzsummerupgrade |  
+| bip_39_word_no_space_4 | jazzsummerupgradecruel |  
+| bip_39_word_no_space_5 | jazzsummerupgradecrueltop |  
+| bip_39_word_no_space_6 | jazzsummerupgradecrueltopunhappy |  
+| bip_39_word_no_space_7 | jazzsummerupgradecrueltopunhappypilot |  
+| bip_39_word_no_space_8 | jazzsummerupgradecrueltopunhappypilotprivate |  
+| bip_39_word_no_space_9 | jazzsummerupgradecrueltopunhappypilotprivatefence |  
 | bip_39_word_space_0 | ['jazz', 'summer', 'upgrade', 'cruel', 'top', 'unhappy', 'pilot', 'private', 'fence', 'invite', 'admit', 'all'] |  
 | bip_39_word_space_1 | jazz |  
 | bip_39_word_space_10 | jazz summer upgrade cruel top unhappy pilot private fence invite |  

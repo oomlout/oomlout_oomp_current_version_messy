@@ -122,6 +122,18 @@ behind
 gallery
 violin
 believe |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwaytubefragilekissspraybehindgalleryviolinbelievehybrid |  
+| bip_39_word_no_space_11 | runwaytubefragilekissspraybehindgalleryviolinbelievehybridswap |  
+| bip_39_word_no_space_12 | runwaytubefragilekissspraybehindgalleryviolinbelievehybridswapacross |  
+| bip_39_word_no_space_2 | runwaytube |  
+| bip_39_word_no_space_3 | runwaytubefragile |  
+| bip_39_word_no_space_4 | runwaytubefragilekiss |  
+| bip_39_word_no_space_5 | runwaytubefragilekissspray |  
+| bip_39_word_no_space_6 | runwaytubefragilekissspraybehind |  
+| bip_39_word_no_space_7 | runwaytubefragilekissspraybehindgallery |  
+| bip_39_word_no_space_8 | runwaytubefragilekissspraybehindgalleryviolin |  
+| bip_39_word_no_space_9 | runwaytubefragilekissspraybehindgalleryviolinbelieve |  
 | bip_39_word_space_0 | ['runway', 'tube', 'fragile', 'kiss', 'spray', 'behind', 'gallery', 'violin', 'believe', 'hybrid', 'swap', 'across'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway tube fragile kiss spray behind gallery violin believe hybrid |  

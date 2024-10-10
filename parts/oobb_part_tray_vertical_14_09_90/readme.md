@@ -122,6 +122,18 @@ paddle
 exchange
 author
 amount |  
+| bip_39_word_no_space_1 | blade |  
+| bip_39_word_no_space_10 | bladequantumstockgreatmyselfpaddleexchangeauthoramountpigeon |  
+| bip_39_word_no_space_11 | bladequantumstockgreatmyselfpaddleexchangeauthoramountpigeonoblige |  
+| bip_39_word_no_space_12 | bladequantumstockgreatmyselfpaddleexchangeauthoramountpigeonobligeaerobic |  
+| bip_39_word_no_space_2 | bladequantum |  
+| bip_39_word_no_space_3 | bladequantumstock |  
+| bip_39_word_no_space_4 | bladequantumstockgreat |  
+| bip_39_word_no_space_5 | bladequantumstockgreatmyself |  
+| bip_39_word_no_space_6 | bladequantumstockgreatmyselfpaddle |  
+| bip_39_word_no_space_7 | bladequantumstockgreatmyselfpaddleexchange |  
+| bip_39_word_no_space_8 | bladequantumstockgreatmyselfpaddleexchangeauthor |  
+| bip_39_word_no_space_9 | bladequantumstockgreatmyselfpaddleexchangeauthoramount |  
 | bip_39_word_space_0 | ['blade', 'quantum', 'stock', 'great', 'myself', 'paddle', 'exchange', 'author', 'amount', 'pigeon', 'oblige', 'aerobic'] |  
 | bip_39_word_space_1 | blade |  
 | bip_39_word_space_10 | blade quantum stock great myself paddle exchange author amount pigeon |  

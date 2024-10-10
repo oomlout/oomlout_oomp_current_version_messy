@@ -122,6 +122,18 @@ once
 dwarf
 donor
 size |  
+| bip_39_word_no_space_1 | enlist |  
+| bip_39_word_no_space_10 | enlistborrowyardglideclickoncedwarfdonorsizeabandon |  
+| bip_39_word_no_space_11 | enlistborrowyardglideclickoncedwarfdonorsizeabandonshed |  
+| bip_39_word_no_space_12 | enlistborrowyardglideclickoncedwarfdonorsizeabandonshedavocado |  
+| bip_39_word_no_space_2 | enlistborrow |  
+| bip_39_word_no_space_3 | enlistborrowyard |  
+| bip_39_word_no_space_4 | enlistborrowyardglide |  
+| bip_39_word_no_space_5 | enlistborrowyardglideclick |  
+| bip_39_word_no_space_6 | enlistborrowyardglideclickonce |  
+| bip_39_word_no_space_7 | enlistborrowyardglideclickoncedwarf |  
+| bip_39_word_no_space_8 | enlistborrowyardglideclickoncedwarfdonor |  
+| bip_39_word_no_space_9 | enlistborrowyardglideclickoncedwarfdonorsize |  
 | bip_39_word_space_0 | ['enlist', 'borrow', 'yard', 'glide', 'click', 'once', 'dwarf', 'donor', 'size', 'abandon', 'shed', 'avocado'] |  
 | bip_39_word_space_1 | enlist |  
 | bip_39_word_space_10 | enlist borrow yard glide click once dwarf donor size abandon |  

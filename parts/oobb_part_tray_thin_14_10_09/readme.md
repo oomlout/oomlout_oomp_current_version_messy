@@ -122,6 +122,18 @@ symbol
 census
 bright
 hotel |  
+| bip_39_word_no_space_1 | effort |  
+| bip_39_word_no_space_10 | effortdeputycasinovisadevicesymbolcensusbrighthotelsurge |  
+| bip_39_word_no_space_11 | effortdeputycasinovisadevicesymbolcensusbrighthotelsurgenasty |  
+| bip_39_word_no_space_12 | effortdeputycasinovisadevicesymbolcensusbrighthotelsurgenastyartefact |  
+| bip_39_word_no_space_2 | effortdeputy |  
+| bip_39_word_no_space_3 | effortdeputycasino |  
+| bip_39_word_no_space_4 | effortdeputycasinovisa |  
+| bip_39_word_no_space_5 | effortdeputycasinovisadevice |  
+| bip_39_word_no_space_6 | effortdeputycasinovisadevicesymbol |  
+| bip_39_word_no_space_7 | effortdeputycasinovisadevicesymbolcensus |  
+| bip_39_word_no_space_8 | effortdeputycasinovisadevicesymbolcensusbright |  
+| bip_39_word_no_space_9 | effortdeputycasinovisadevicesymbolcensusbrighthotel |  
 | bip_39_word_space_0 | ['effort', 'deputy', 'casino', 'visa', 'device', 'symbol', 'census', 'bright', 'hotel', 'surge', 'nasty', 'artefact'] |  
 | bip_39_word_space_1 | effort |  
 | bip_39_word_space_10 | effort deputy casino visa device symbol census bright hotel surge |  

@@ -122,6 +122,18 @@ lawn
 cute
 tomorrow
 enough |  
+| bip_39_word_no_space_1 | lamp |  
+| bip_39_word_no_space_10 | lampsilkhandcoilbananalawncutetomorrowenoughmidnight |  
+| bip_39_word_no_space_11 | lampsilkhandcoilbananalawncutetomorrowenoughmidnightsquare |  
+| bip_39_word_no_space_12 | lampsilkhandcoilbananalawncutetomorrowenoughmidnightsquareany |  
+| bip_39_word_no_space_2 | lampsilk |  
+| bip_39_word_no_space_3 | lampsilkhand |  
+| bip_39_word_no_space_4 | lampsilkhandcoil |  
+| bip_39_word_no_space_5 | lampsilkhandcoilbanana |  
+| bip_39_word_no_space_6 | lampsilkhandcoilbananalawn |  
+| bip_39_word_no_space_7 | lampsilkhandcoilbananalawncute |  
+| bip_39_word_no_space_8 | lampsilkhandcoilbananalawncutetomorrow |  
+| bip_39_word_no_space_9 | lampsilkhandcoilbananalawncutetomorrowenough |  
 | bip_39_word_space_0 | ['lamp', 'silk', 'hand', 'coil', 'banana', 'lawn', 'cute', 'tomorrow', 'enough', 'midnight', 'square', 'any'] |  
 | bip_39_word_space_1 | lamp |  
 | bip_39_word_space_10 | lamp silk hand coil banana lawn cute tomorrow enough midnight |  

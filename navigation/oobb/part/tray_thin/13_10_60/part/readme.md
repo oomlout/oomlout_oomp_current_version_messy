@@ -122,6 +122,18 @@ palm
 electric
 glide
 melody |  
+| bip_39_word_no_space_1 | brown |  
+| bip_39_word_no_space_10 | browngamedizzyemotiontaxipalmelectricglidemelodyeast |  
+| bip_39_word_no_space_11 | browngamedizzyemotiontaxipalmelectricglidemelodyeastright |  
+| bip_39_word_no_space_12 | browngamedizzyemotiontaxipalmelectricglidemelodyeastrightactor |  
+| bip_39_word_no_space_2 | browngame |  
+| bip_39_word_no_space_3 | browngamedizzy |  
+| bip_39_word_no_space_4 | browngamedizzyemotion |  
+| bip_39_word_no_space_5 | browngamedizzyemotiontaxi |  
+| bip_39_word_no_space_6 | browngamedizzyemotiontaxipalm |  
+| bip_39_word_no_space_7 | browngamedizzyemotiontaxipalmelectric |  
+| bip_39_word_no_space_8 | browngamedizzyemotiontaxipalmelectricglide |  
+| bip_39_word_no_space_9 | browngamedizzyemotiontaxipalmelectricglidemelody |  
 | bip_39_word_space_0 | ['brown', 'game', 'dizzy', 'emotion', 'taxi', 'palm', 'electric', 'glide', 'melody', 'east', 'right', 'actor'] |  
 | bip_39_word_space_1 | brown |  
 | bip_39_word_space_10 | brown game dizzy emotion taxi palm electric glide melody east |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'desk
   payment
 
   mind'
+bip_39_word_no_space_1: desk
+bip_39_word_no_space_10: desktubepausefinishcranefeeldesignpaymentmindcitizen
+bip_39_word_no_space_11: desktubepausefinishcranefeeldesignpaymentmindcitizenbike
+bip_39_word_no_space_12: desktubepausefinishcranefeeldesignpaymentmindcitizenbikeactor
+bip_39_word_no_space_2: desktube
+bip_39_word_no_space_3: desktubepause
+bip_39_word_no_space_4: desktubepausefinish
+bip_39_word_no_space_5: desktubepausefinishcrane
+bip_39_word_no_space_6: desktubepausefinishcranefeel
+bip_39_word_no_space_7: desktubepausefinishcranefeeldesign
+bip_39_word_no_space_8: desktubepausefinishcranefeeldesignpayment
+bip_39_word_no_space_9: desktubepausefinishcranefeeldesignpaymentmind
 bip_39_word_space_0:
 - desk
 - tube

@@ -122,6 +122,18 @@ cheap
 nature
 zoo
 virtual |  
+| bip_39_word_no_space_1 | very |  
+| bip_39_word_no_space_10 | veryimmunecreekmeltmirrorcheapnaturezoovirtualtoe |  
+| bip_39_word_no_space_11 | veryimmunecreekmeltmirrorcheapnaturezoovirtualtoeart |  
+| bip_39_word_no_space_12 | veryimmunecreekmeltmirrorcheapnaturezoovirtualtoeartaccident |  
+| bip_39_word_no_space_2 | veryimmune |  
+| bip_39_word_no_space_3 | veryimmunecreek |  
+| bip_39_word_no_space_4 | veryimmunecreekmelt |  
+| bip_39_word_no_space_5 | veryimmunecreekmeltmirror |  
+| bip_39_word_no_space_6 | veryimmunecreekmeltmirrorcheap |  
+| bip_39_word_no_space_7 | veryimmunecreekmeltmirrorcheapnature |  
+| bip_39_word_no_space_8 | veryimmunecreekmeltmirrorcheapnaturezoo |  
+| bip_39_word_no_space_9 | veryimmunecreekmeltmirrorcheapnaturezoovirtual |  
 | bip_39_word_space_0 | ['very', 'immune', 'creek', 'melt', 'mirror', 'cheap', 'nature', 'zoo', 'virtual', 'toe', 'art', 'accident'] |  
 | bip_39_word_space_1 | very |  
 | bip_39_word_space_10 | very immune creek melt mirror cheap nature zoo virtual toe |  

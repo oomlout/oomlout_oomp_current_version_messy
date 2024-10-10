@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'auto
   layer
 
   disorder'
+bip_39_word_no_space_1: auto
+bip_39_word_no_space_10: autoloopmaterialverytuitionluncheyelayerdisorderhello
+bip_39_word_no_space_11: autoloopmaterialverytuitionluncheyelayerdisorderhelloplease
+bip_39_word_no_space_12: autoloopmaterialverytuitionluncheyelayerdisorderhellopleasealien
+bip_39_word_no_space_2: autoloop
+bip_39_word_no_space_3: autoloopmaterial
+bip_39_word_no_space_4: autoloopmaterialvery
+bip_39_word_no_space_5: autoloopmaterialverytuition
+bip_39_word_no_space_6: autoloopmaterialverytuitionlunch
+bip_39_word_no_space_7: autoloopmaterialverytuitionluncheye
+bip_39_word_no_space_8: autoloopmaterialverytuitionluncheyelayer
+bip_39_word_no_space_9: autoloopmaterialverytuitionluncheyelayerdisorder
 bip_39_word_space_0:
 - auto
 - loop

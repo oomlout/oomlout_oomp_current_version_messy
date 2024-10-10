@@ -122,6 +122,18 @@ myself
 chicken
 unfair
 avoid |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omitsportchapterdadaccountmyselfchickenunfairavoidfrown |  
+| bip_39_word_no_space_11 | omitsportchapterdadaccountmyselfchickenunfairavoidfrownslab |  
+| bip_39_word_no_space_12 | omitsportchapterdadaccountmyselfchickenunfairavoidfrownslabaddress |  
+| bip_39_word_no_space_2 | omitsport |  
+| bip_39_word_no_space_3 | omitsportchapter |  
+| bip_39_word_no_space_4 | omitsportchapterdad |  
+| bip_39_word_no_space_5 | omitsportchapterdadaccount |  
+| bip_39_word_no_space_6 | omitsportchapterdadaccountmyself |  
+| bip_39_word_no_space_7 | omitsportchapterdadaccountmyselfchicken |  
+| bip_39_word_no_space_8 | omitsportchapterdadaccountmyselfchickenunfair |  
+| bip_39_word_no_space_9 | omitsportchapterdadaccountmyselfchickenunfairavoid |  
 | bip_39_word_space_0 | ['omit', 'sport', 'chapter', 'dad', 'account', 'myself', 'chicken', 'unfair', 'avoid', 'frown', 'slab', 'address'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit sport chapter dad account myself chicken unfair avoid frown |  

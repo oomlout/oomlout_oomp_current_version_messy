@@ -122,6 +122,18 @@ stereo
 kiwi
 drink
 famous |  
+| bip_39_word_no_space_1 | recall |  
+| bip_39_word_no_space_10 | recallalcoholkingdomcasepotterystereokiwidrinkfamousball |  
+| bip_39_word_no_space_11 | recallalcoholkingdomcasepotterystereokiwidrinkfamousballcall |  
+| bip_39_word_no_space_12 | recallalcoholkingdomcasepotterystereokiwidrinkfamousballcallalcohol |  
+| bip_39_word_no_space_2 | recallalcohol |  
+| bip_39_word_no_space_3 | recallalcoholkingdom |  
+| bip_39_word_no_space_4 | recallalcoholkingdomcase |  
+| bip_39_word_no_space_5 | recallalcoholkingdomcasepottery |  
+| bip_39_word_no_space_6 | recallalcoholkingdomcasepotterystereo |  
+| bip_39_word_no_space_7 | recallalcoholkingdomcasepotterystereokiwi |  
+| bip_39_word_no_space_8 | recallalcoholkingdomcasepotterystereokiwidrink |  
+| bip_39_word_no_space_9 | recallalcoholkingdomcasepotterystereokiwidrinkfamous |  
 | bip_39_word_space_0 | ['recall', 'alcohol', 'kingdom', 'case', 'pottery', 'stereo', 'kiwi', 'drink', 'famous', 'ball', 'call', 'alcohol'] |  
 | bip_39_word_space_1 | recall |  
 | bip_39_word_space_10 | recall alcohol kingdom case pottery stereo kiwi drink famous ball |  

@@ -122,6 +122,18 @@ estate
 pig
 hover
 valid |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltcheckcodeloyalsolidestatepighovervalidsummer |  
+| bip_39_word_no_space_11 | meltcheckcodeloyalsolidestatepighovervalidsummerstuff |  
+| bip_39_word_no_space_12 | meltcheckcodeloyalsolidestatepighovervalidsummerstuffaunt |  
+| bip_39_word_no_space_2 | meltcheck |  
+| bip_39_word_no_space_3 | meltcheckcode |  
+| bip_39_word_no_space_4 | meltcheckcodeloyal |  
+| bip_39_word_no_space_5 | meltcheckcodeloyalsolid |  
+| bip_39_word_no_space_6 | meltcheckcodeloyalsolidestate |  
+| bip_39_word_no_space_7 | meltcheckcodeloyalsolidestatepig |  
+| bip_39_word_no_space_8 | meltcheckcodeloyalsolidestatepighover |  
+| bip_39_word_no_space_9 | meltcheckcodeloyalsolidestatepighovervalid |  
 | bip_39_word_space_0 | ['melt', 'check', 'code', 'loyal', 'solid', 'estate', 'pig', 'hover', 'valid', 'summer', 'stuff', 'aunt'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt check code loyal solid estate pig hover valid summer |  

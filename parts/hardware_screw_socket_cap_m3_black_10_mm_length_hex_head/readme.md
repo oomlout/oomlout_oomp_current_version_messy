@@ -122,6 +122,18 @@ barrel
 suspect
 raw
 position |  
+| bip_39_word_no_space_1 | question |  
+| bip_39_word_no_space_10 | questionsilktruesituaterawbarrelsuspectrawpositionround |  
+| bip_39_word_no_space_11 | questionsilktruesituaterawbarrelsuspectrawpositionroundgift |  
+| bip_39_word_no_space_12 | questionsilktruesituaterawbarrelsuspectrawpositionroundgiftalcohol |  
+| bip_39_word_no_space_2 | questionsilk |  
+| bip_39_word_no_space_3 | questionsilktrue |  
+| bip_39_word_no_space_4 | questionsilktruesituate |  
+| bip_39_word_no_space_5 | questionsilktruesituateraw |  
+| bip_39_word_no_space_6 | questionsilktruesituaterawbarrel |  
+| bip_39_word_no_space_7 | questionsilktruesituaterawbarrelsuspect |  
+| bip_39_word_no_space_8 | questionsilktruesituaterawbarrelsuspectraw |  
+| bip_39_word_no_space_9 | questionsilktruesituaterawbarrelsuspectrawposition |  
 | bip_39_word_space_0 | ['question', 'silk', 'true', 'situate', 'raw', 'barrel', 'suspect', 'raw', 'position', 'round', 'gift', 'alcohol'] |  
 | bip_39_word_space_1 | question |  
 | bip_39_word_space_10 | question silk true situate raw barrel suspect raw position round |  

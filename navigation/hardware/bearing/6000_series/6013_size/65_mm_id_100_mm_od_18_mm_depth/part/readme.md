@@ -122,6 +122,18 @@ appear
 census
 blanket
 wagon |  
+| bip_39_word_no_space_1 | tiger |  
+| bip_39_word_no_space_10 | tigerwashdependhollowlockappearcensusblanketwagonheart |  
+| bip_39_word_no_space_11 | tigerwashdependhollowlockappearcensusblanketwagonheartdisease |  
+| bip_39_word_no_space_12 | tigerwashdependhollowlockappearcensusblanketwagonheartdiseasealert |  
+| bip_39_word_no_space_2 | tigerwash |  
+| bip_39_word_no_space_3 | tigerwashdepend |  
+| bip_39_word_no_space_4 | tigerwashdependhollow |  
+| bip_39_word_no_space_5 | tigerwashdependhollowlock |  
+| bip_39_word_no_space_6 | tigerwashdependhollowlockappear |  
+| bip_39_word_no_space_7 | tigerwashdependhollowlockappearcensus |  
+| bip_39_word_no_space_8 | tigerwashdependhollowlockappearcensusblanket |  
+| bip_39_word_no_space_9 | tigerwashdependhollowlockappearcensusblanketwagon |  
 | bip_39_word_space_0 | ['tiger', 'wash', 'depend', 'hollow', 'lock', 'appear', 'census', 'blanket', 'wagon', 'heart', 'disease', 'alert'] |  
 | bip_39_word_space_1 | tiger |  
 | bip_39_word_space_10 | tiger wash depend hollow lock appear census blanket wagon heart |  

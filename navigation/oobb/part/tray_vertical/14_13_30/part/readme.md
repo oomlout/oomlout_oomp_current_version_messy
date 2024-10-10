@@ -122,6 +122,18 @@ mercy
 forest
 length
 myself |  
+| bip_39_word_no_space_1 | cheese |  
+| bip_39_word_no_space_10 | cheesejealousrudeviolinchucklemercyforestlengthmyselfsight |  
+| bip_39_word_no_space_11 | cheesejealousrudeviolinchucklemercyforestlengthmyselfsightdiesel |  
+| bip_39_word_no_space_12 | cheesejealousrudeviolinchucklemercyforestlengthmyselfsightdieselarmy |  
+| bip_39_word_no_space_2 | cheesejealous |  
+| bip_39_word_no_space_3 | cheesejealousrude |  
+| bip_39_word_no_space_4 | cheesejealousrudeviolin |  
+| bip_39_word_no_space_5 | cheesejealousrudeviolinchuckle |  
+| bip_39_word_no_space_6 | cheesejealousrudeviolinchucklemercy |  
+| bip_39_word_no_space_7 | cheesejealousrudeviolinchucklemercyforest |  
+| bip_39_word_no_space_8 | cheesejealousrudeviolinchucklemercyforestlength |  
+| bip_39_word_no_space_9 | cheesejealousrudeviolinchucklemercyforestlengthmyself |  
 | bip_39_word_space_0 | ['cheese', 'jealous', 'rude', 'violin', 'chuckle', 'mercy', 'forest', 'length', 'myself', 'sight', 'diesel', 'army'] |  
 | bip_39_word_space_1 | cheese |  
 | bip_39_word_space_10 | cheese jealous rude violin chuckle mercy forest length myself sight |  

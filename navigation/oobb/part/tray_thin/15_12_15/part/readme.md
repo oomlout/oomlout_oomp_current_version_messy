@@ -122,6 +122,18 @@ burst
 clerk
 ice
 bring |  
+| bip_39_word_no_space_1 | dignity |  
+| bip_39_word_no_space_10 | dignityanxietyspiderdoorpullburstclerkicebringmimic |  
+| bip_39_word_no_space_11 | dignityanxietyspiderdoorpullburstclerkicebringmimicnephew |  
+| bip_39_word_no_space_12 | dignityanxietyspiderdoorpullburstclerkicebringmimicnephewagree |  
+| bip_39_word_no_space_2 | dignityanxiety |  
+| bip_39_word_no_space_3 | dignityanxietyspider |  
+| bip_39_word_no_space_4 | dignityanxietyspiderdoor |  
+| bip_39_word_no_space_5 | dignityanxietyspiderdoorpull |  
+| bip_39_word_no_space_6 | dignityanxietyspiderdoorpullburst |  
+| bip_39_word_no_space_7 | dignityanxietyspiderdoorpullburstclerk |  
+| bip_39_word_no_space_8 | dignityanxietyspiderdoorpullburstclerkice |  
+| bip_39_word_no_space_9 | dignityanxietyspiderdoorpullburstclerkicebring |  
 | bip_39_word_space_0 | ['dignity', 'anxiety', 'spider', 'door', 'pull', 'burst', 'clerk', 'ice', 'bring', 'mimic', 'nephew', 'agree'] |  
 | bip_39_word_space_1 | dignity |  
 | bip_39_word_space_10 | dignity anxiety spider door pull burst clerk ice bring mimic |  

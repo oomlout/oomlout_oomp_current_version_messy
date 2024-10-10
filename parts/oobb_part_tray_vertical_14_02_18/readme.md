@@ -122,6 +122,18 @@ donkey
 assist
 morning
 urban |  
+| bip_39_word_no_space_1 | duty |  
+| bip_39_word_no_space_10 | dutydashvacuumsubmitstyledonkeyassistmorningurbancute |  
+| bip_39_word_no_space_11 | dutydashvacuumsubmitstyledonkeyassistmorningurbancutewitness |  
+| bip_39_word_no_space_12 | dutydashvacuumsubmitstyledonkeyassistmorningurbancutewitnessallow |  
+| bip_39_word_no_space_2 | dutydash |  
+| bip_39_word_no_space_3 | dutydashvacuum |  
+| bip_39_word_no_space_4 | dutydashvacuumsubmit |  
+| bip_39_word_no_space_5 | dutydashvacuumsubmitstyle |  
+| bip_39_word_no_space_6 | dutydashvacuumsubmitstyledonkey |  
+| bip_39_word_no_space_7 | dutydashvacuumsubmitstyledonkeyassist |  
+| bip_39_word_no_space_8 | dutydashvacuumsubmitstyledonkeyassistmorning |  
+| bip_39_word_no_space_9 | dutydashvacuumsubmitstyledonkeyassistmorningurban |  
 | bip_39_word_space_0 | ['duty', 'dash', 'vacuum', 'submit', 'style', 'donkey', 'assist', 'morning', 'urban', 'cute', 'witness', 'allow'] |  
 | bip_39_word_space_1 | duty |  
 | bip_39_word_space_10 | duty dash vacuum submit style donkey assist morning urban cute |  

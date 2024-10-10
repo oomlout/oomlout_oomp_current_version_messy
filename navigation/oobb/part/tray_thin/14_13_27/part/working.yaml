@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'glare
   autumn
 
   habit'
+bip_39_word_no_space_1: glare
+bip_39_word_no_space_10: glarespraybasicappearonlinemethodmeadowautumnhabitprize
+bip_39_word_no_space_11: glarespraybasicappearonlinemethodmeadowautumnhabitprizedraw
+bip_39_word_no_space_12: glarespraybasicappearonlinemethodmeadowautumnhabitprizedrawattack
+bip_39_word_no_space_2: glarespray
+bip_39_word_no_space_3: glarespraybasic
+bip_39_word_no_space_4: glarespraybasicappear
+bip_39_word_no_space_5: glarespraybasicappearonline
+bip_39_word_no_space_6: glarespraybasicappearonlinemethod
+bip_39_word_no_space_7: glarespraybasicappearonlinemethodmeadow
+bip_39_word_no_space_8: glarespraybasicappearonlinemethodmeadowautumn
+bip_39_word_no_space_9: glarespraybasicappearonlinemethodmeadowautumnhabit
 bip_39_word_space_0:
 - glare
 - spray

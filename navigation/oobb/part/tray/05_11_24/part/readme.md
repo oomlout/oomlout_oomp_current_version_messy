@@ -122,6 +122,18 @@ garden
 exit
 farm
 perfect |  
+| bip_39_word_no_space_1 | snap |  
+| bip_39_word_no_space_10 | snapfrostaheadnovelfluidgardenexitfarmperfectgym |  
+| bip_39_word_no_space_11 | snapfrostaheadnovelfluidgardenexitfarmperfectgymrace |  
+| bip_39_word_no_space_12 | snapfrostaheadnovelfluidgardenexitfarmperfectgymraceartwork |  
+| bip_39_word_no_space_2 | snapfrost |  
+| bip_39_word_no_space_3 | snapfrostahead |  
+| bip_39_word_no_space_4 | snapfrostaheadnovel |  
+| bip_39_word_no_space_5 | snapfrostaheadnovelfluid |  
+| bip_39_word_no_space_6 | snapfrostaheadnovelfluidgarden |  
+| bip_39_word_no_space_7 | snapfrostaheadnovelfluidgardenexit |  
+| bip_39_word_no_space_8 | snapfrostaheadnovelfluidgardenexitfarm |  
+| bip_39_word_no_space_9 | snapfrostaheadnovelfluidgardenexitfarmperfect |  
 | bip_39_word_space_0 | ['snap', 'frost', 'ahead', 'novel', 'fluid', 'garden', 'exit', 'farm', 'perfect', 'gym', 'race', 'artwork'] |  
 | bip_39_word_space_1 | snap |  
 | bip_39_word_space_10 | snap frost ahead novel fluid garden exit farm perfect gym |  

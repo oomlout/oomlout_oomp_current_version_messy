@@ -122,6 +122,18 @@ ghost
 lottery
 pole
 believe |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | briskdriftextravelvetvalidghostlotterypolebelievepiece |  
+| bip_39_word_no_space_11 | briskdriftextravelvetvalidghostlotterypolebelievepiecejazz |  
+| bip_39_word_no_space_12 | briskdriftextravelvetvalidghostlotterypolebelievepiecejazzassist |  
+| bip_39_word_no_space_2 | briskdrift |  
+| bip_39_word_no_space_3 | briskdriftextra |  
+| bip_39_word_no_space_4 | briskdriftextravelvet |  
+| bip_39_word_no_space_5 | briskdriftextravelvetvalid |  
+| bip_39_word_no_space_6 | briskdriftextravelvetvalidghost |  
+| bip_39_word_no_space_7 | briskdriftextravelvetvalidghostlottery |  
+| bip_39_word_no_space_8 | briskdriftextravelvetvalidghostlotterypole |  
+| bip_39_word_no_space_9 | briskdriftextravelvetvalidghostlotterypolebelieve |  
 | bip_39_word_space_0 | ['brisk', 'drift', 'extra', 'velvet', 'valid', 'ghost', 'lottery', 'pole', 'believe', 'piece', 'jazz', 'assist'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk drift extra velvet valid ghost lottery pole believe piece |  

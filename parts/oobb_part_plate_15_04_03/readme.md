@@ -122,6 +122,18 @@ noble
 car
 arrange
 gossip |  
+| bip_39_word_no_space_1 | advice |  
+| bip_39_word_no_space_10 | advicetailenforcegospelcostnoblecararrangegossipuncle |  
+| bip_39_word_no_space_11 | advicetailenforcegospelcostnoblecararrangegossipuncledish |  
+| bip_39_word_no_space_12 | advicetailenforcegospelcostnoblecararrangegossipuncledishavocado |  
+| bip_39_word_no_space_2 | advicetail |  
+| bip_39_word_no_space_3 | advicetailenforce |  
+| bip_39_word_no_space_4 | advicetailenforcegospel |  
+| bip_39_word_no_space_5 | advicetailenforcegospelcost |  
+| bip_39_word_no_space_6 | advicetailenforcegospelcostnoble |  
+| bip_39_word_no_space_7 | advicetailenforcegospelcostnoblecar |  
+| bip_39_word_no_space_8 | advicetailenforcegospelcostnoblecararrange |  
+| bip_39_word_no_space_9 | advicetailenforcegospelcostnoblecararrangegossip |  
 | bip_39_word_space_0 | ['advice', 'tail', 'enforce', 'gospel', 'cost', 'noble', 'car', 'arrange', 'gossip', 'uncle', 'dish', 'avocado'] |  
 | bip_39_word_space_1 | advice |  
 | bip_39_word_space_10 | advice tail enforce gospel cost noble car arrange gossip uncle |  

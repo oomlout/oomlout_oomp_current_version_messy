@@ -122,6 +122,18 @@ buzz
 window
 west
 chicken |  
+| bip_39_word_no_space_1 | laugh |  
+| bip_39_word_no_space_10 | laughmemoryherokitefrogbuzzwindowwestchickendrive |  
+| bip_39_word_no_space_11 | laughmemoryherokitefrogbuzzwindowwestchickendriveyard |  
+| bip_39_word_no_space_12 | laughmemoryherokitefrogbuzzwindowwestchickendriveyardadapt |  
+| bip_39_word_no_space_2 | laughmemory |  
+| bip_39_word_no_space_3 | laughmemoryhero |  
+| bip_39_word_no_space_4 | laughmemoryherokite |  
+| bip_39_word_no_space_5 | laughmemoryherokitefrog |  
+| bip_39_word_no_space_6 | laughmemoryherokitefrogbuzz |  
+| bip_39_word_no_space_7 | laughmemoryherokitefrogbuzzwindow |  
+| bip_39_word_no_space_8 | laughmemoryherokitefrogbuzzwindowwest |  
+| bip_39_word_no_space_9 | laughmemoryherokitefrogbuzzwindowwestchicken |  
 | bip_39_word_space_0 | ['laugh', 'memory', 'hero', 'kite', 'frog', 'buzz', 'window', 'west', 'chicken', 'drive', 'yard', 'adapt'] |  
 | bip_39_word_space_1 | laugh |  
 | bip_39_word_space_10 | laugh memory hero kite frog buzz window west chicken drive |  

@@ -122,6 +122,18 @@ fan
 switch
 idle
 stock |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgeleftnothingobeycleverfanswitchidlestocktissue |  
+| bip_39_word_no_space_11 | judgeleftnothingobeycleverfanswitchidlestocktissuepumpkin |  
+| bip_39_word_no_space_12 | judgeleftnothingobeycleverfanswitchidlestocktissuepumpkinaisle |  
+| bip_39_word_no_space_2 | judgeleft |  
+| bip_39_word_no_space_3 | judgeleftnothing |  
+| bip_39_word_no_space_4 | judgeleftnothingobey |  
+| bip_39_word_no_space_5 | judgeleftnothingobeyclever |  
+| bip_39_word_no_space_6 | judgeleftnothingobeycleverfan |  
+| bip_39_word_no_space_7 | judgeleftnothingobeycleverfanswitch |  
+| bip_39_word_no_space_8 | judgeleftnothingobeycleverfanswitchidle |  
+| bip_39_word_no_space_9 | judgeleftnothingobeycleverfanswitchidlestock |  
 | bip_39_word_space_0 | ['judge', 'left', 'nothing', 'obey', 'clever', 'fan', 'switch', 'idle', 'stock', 'tissue', 'pumpkin', 'aisle'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge left nothing obey clever fan switch idle stock tissue |  

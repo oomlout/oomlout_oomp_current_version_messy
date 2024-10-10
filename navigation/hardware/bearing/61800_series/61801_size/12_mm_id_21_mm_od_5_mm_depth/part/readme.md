@@ -122,6 +122,18 @@ birth
 awesome
 skull
 prepare |  
+| bip_39_word_no_space_1 | fan |  
+| bip_39_word_no_space_10 | fanleisurepanelrampchiefbirthawesomeskullprepareupgrade |  
+| bip_39_word_no_space_11 | fanleisurepanelrampchiefbirthawesomeskullprepareupgradespawn |  
+| bip_39_word_no_space_12 | fanleisurepanelrampchiefbirthawesomeskullprepareupgradespawnaddress |  
+| bip_39_word_no_space_2 | fanleisure |  
+| bip_39_word_no_space_3 | fanleisurepanel |  
+| bip_39_word_no_space_4 | fanleisurepanelramp |  
+| bip_39_word_no_space_5 | fanleisurepanelrampchief |  
+| bip_39_word_no_space_6 | fanleisurepanelrampchiefbirth |  
+| bip_39_word_no_space_7 | fanleisurepanelrampchiefbirthawesome |  
+| bip_39_word_no_space_8 | fanleisurepanelrampchiefbirthawesomeskull |  
+| bip_39_word_no_space_9 | fanleisurepanelrampchiefbirthawesomeskullprepare |  
 | bip_39_word_space_0 | ['fan', 'leisure', 'panel', 'ramp', 'chief', 'birth', 'awesome', 'skull', 'prepare', 'upgrade', 'spawn', 'address'] |  
 | bip_39_word_space_1 | fan |  
 | bip_39_word_space_10 | fan leisure panel ramp chief birth awesome skull prepare upgrade |  

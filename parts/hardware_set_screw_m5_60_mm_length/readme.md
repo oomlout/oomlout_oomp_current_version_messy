@@ -122,6 +122,18 @@ envelope
 bring
 emotion
 lonely |  
+| bip_39_word_no_space_1 | disagree |  
+| bip_39_word_no_space_10 | disagreebringgatestampbikeenvelopebringemotionlonelyhobby |  
+| bip_39_word_no_space_11 | disagreebringgatestampbikeenvelopebringemotionlonelyhobbypanther |  
+| bip_39_word_no_space_12 | disagreebringgatestampbikeenvelopebringemotionlonelyhobbypantheradjust |  
+| bip_39_word_no_space_2 | disagreebring |  
+| bip_39_word_no_space_3 | disagreebringgate |  
+| bip_39_word_no_space_4 | disagreebringgatestamp |  
+| bip_39_word_no_space_5 | disagreebringgatestampbike |  
+| bip_39_word_no_space_6 | disagreebringgatestampbikeenvelope |  
+| bip_39_word_no_space_7 | disagreebringgatestampbikeenvelopebring |  
+| bip_39_word_no_space_8 | disagreebringgatestampbikeenvelopebringemotion |  
+| bip_39_word_no_space_9 | disagreebringgatestampbikeenvelopebringemotionlonely |  
 | bip_39_word_space_0 | ['disagree', 'bring', 'gate', 'stamp', 'bike', 'envelope', 'bring', 'emotion', 'lonely', 'hobby', 'panther', 'adjust'] |  
 | bip_39_word_space_1 | disagree |  
 | bip_39_word_space_10 | disagree bring gate stamp bike envelope bring emotion lonely hobby |  

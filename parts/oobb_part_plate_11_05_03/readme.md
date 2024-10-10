@@ -122,6 +122,18 @@ walk
 high
 ugly
 output |  
+| bip_39_word_no_space_1 | wrap |  
+| bip_39_word_no_space_10 | wrapjazzsupremepulseivorywalkhighuglyoutputroute |  
+| bip_39_word_no_space_11 | wrapjazzsupremepulseivorywalkhighuglyoutputroutedemise |  
+| bip_39_word_no_space_12 | wrapjazzsupremepulseivorywalkhighuglyoutputroutedemiseall |  
+| bip_39_word_no_space_2 | wrapjazz |  
+| bip_39_word_no_space_3 | wrapjazzsupreme |  
+| bip_39_word_no_space_4 | wrapjazzsupremepulse |  
+| bip_39_word_no_space_5 | wrapjazzsupremepulseivory |  
+| bip_39_word_no_space_6 | wrapjazzsupremepulseivorywalk |  
+| bip_39_word_no_space_7 | wrapjazzsupremepulseivorywalkhigh |  
+| bip_39_word_no_space_8 | wrapjazzsupremepulseivorywalkhighugly |  
+| bip_39_word_no_space_9 | wrapjazzsupremepulseivorywalkhighuglyoutput |  
 | bip_39_word_space_0 | ['wrap', 'jazz', 'supreme', 'pulse', 'ivory', 'walk', 'high', 'ugly', 'output', 'route', 'demise', 'all'] |  
 | bip_39_word_space_1 | wrap |  
 | bip_39_word_space_10 | wrap jazz supreme pulse ivory walk high ugly output route |  

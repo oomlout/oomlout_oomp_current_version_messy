@@ -122,6 +122,18 @@ isolate
 luxury
 hurt
 typical |  
+| bip_39_word_no_space_1 | stereo |  
+| bip_39_word_no_space_10 | stereoriskspawnladyrivalisolateluxuryhurttypicalwage |  
+| bip_39_word_no_space_11 | stereoriskspawnladyrivalisolateluxuryhurttypicalwageopera |  
+| bip_39_word_no_space_12 | stereoriskspawnladyrivalisolateluxuryhurttypicalwageoperaanother |  
+| bip_39_word_no_space_2 | stereorisk |  
+| bip_39_word_no_space_3 | stereoriskspawn |  
+| bip_39_word_no_space_4 | stereoriskspawnlady |  
+| bip_39_word_no_space_5 | stereoriskspawnladyrival |  
+| bip_39_word_no_space_6 | stereoriskspawnladyrivalisolate |  
+| bip_39_word_no_space_7 | stereoriskspawnladyrivalisolateluxury |  
+| bip_39_word_no_space_8 | stereoriskspawnladyrivalisolateluxuryhurt |  
+| bip_39_word_no_space_9 | stereoriskspawnladyrivalisolateluxuryhurttypical |  
 | bip_39_word_space_0 | ['stereo', 'risk', 'spawn', 'lady', 'rival', 'isolate', 'luxury', 'hurt', 'typical', 'wage', 'opera', 'another'] |  
 | bip_39_word_space_1 | stereo |  
 | bip_39_word_space_10 | stereo risk spawn lady rival isolate luxury hurt typical wage |  

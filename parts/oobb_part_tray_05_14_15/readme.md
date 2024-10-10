@@ -122,6 +122,18 @@ mammal
 small
 actress
 west |  
+| bip_39_word_no_space_1 | ritual |  
+| bip_39_word_no_space_10 | ritualelevatorrentdutybreezemammalsmallactresswestimmune |  
+| bip_39_word_no_space_11 | ritualelevatorrentdutybreezemammalsmallactresswestimmuneextend |  
+| bip_39_word_no_space_12 | ritualelevatorrentdutybreezemammalsmallactresswestimmuneextendaccident |  
+| bip_39_word_no_space_2 | ritualelevator |  
+| bip_39_word_no_space_3 | ritualelevatorrent |  
+| bip_39_word_no_space_4 | ritualelevatorrentduty |  
+| bip_39_word_no_space_5 | ritualelevatorrentdutybreeze |  
+| bip_39_word_no_space_6 | ritualelevatorrentdutybreezemammal |  
+| bip_39_word_no_space_7 | ritualelevatorrentdutybreezemammalsmall |  
+| bip_39_word_no_space_8 | ritualelevatorrentdutybreezemammalsmallactress |  
+| bip_39_word_no_space_9 | ritualelevatorrentdutybreezemammalsmallactresswest |  
 | bip_39_word_space_0 | ['ritual', 'elevator', 'rent', 'duty', 'breeze', 'mammal', 'small', 'actress', 'west', 'immune', 'extend', 'accident'] |  
 | bip_39_word_space_1 | ritual |  
 | bip_39_word_space_10 | ritual elevator rent duty breeze mammal small actress west immune |  

@@ -122,6 +122,18 @@ grab
 cash
 sudden
 decrease |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerdustpooldampcouchgrabcashsuddendecreasestable |  
+| bip_39_word_no_space_11 | toddlerdustpooldampcouchgrabcashsuddendecreasestablemuffin |  
+| bip_39_word_no_space_12 | toddlerdustpooldampcouchgrabcashsuddendecreasestablemuffinathlete |  
+| bip_39_word_no_space_2 | toddlerdust |  
+| bip_39_word_no_space_3 | toddlerdustpool |  
+| bip_39_word_no_space_4 | toddlerdustpooldamp |  
+| bip_39_word_no_space_5 | toddlerdustpooldampcouch |  
+| bip_39_word_no_space_6 | toddlerdustpooldampcouchgrab |  
+| bip_39_word_no_space_7 | toddlerdustpooldampcouchgrabcash |  
+| bip_39_word_no_space_8 | toddlerdustpooldampcouchgrabcashsudden |  
+| bip_39_word_no_space_9 | toddlerdustpooldampcouchgrabcashsuddendecrease |  
 | bip_39_word_space_0 | ['toddler', 'dust', 'pool', 'damp', 'couch', 'grab', 'cash', 'sudden', 'decrease', 'stable', 'muffin', 'athlete'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler dust pool damp couch grab cash sudden decrease stable |  

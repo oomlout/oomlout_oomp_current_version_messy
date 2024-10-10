@@ -122,6 +122,18 @@ feed
 dragon
 casual
 rescue |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentendlesswearquizcanvasfeeddragoncasualrescuespin |  
+| bip_39_word_no_space_11 | accidentendlesswearquizcanvasfeeddragoncasualrescuespinski |  
+| bip_39_word_no_space_12 | accidentendlesswearquizcanvasfeeddragoncasualrescuespinskiaugust |  
+| bip_39_word_no_space_2 | accidentendless |  
+| bip_39_word_no_space_3 | accidentendlesswear |  
+| bip_39_word_no_space_4 | accidentendlesswearquiz |  
+| bip_39_word_no_space_5 | accidentendlesswearquizcanvas |  
+| bip_39_word_no_space_6 | accidentendlesswearquizcanvasfeed |  
+| bip_39_word_no_space_7 | accidentendlesswearquizcanvasfeeddragon |  
+| bip_39_word_no_space_8 | accidentendlesswearquizcanvasfeeddragoncasual |  
+| bip_39_word_no_space_9 | accidentendlesswearquizcanvasfeeddragoncasualrescue |  
 | bip_39_word_space_0 | ['accident', 'endless', 'wear', 'quiz', 'canvas', 'feed', 'dragon', 'casual', 'rescue', 'spin', 'ski', 'august'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident endless wear quiz canvas feed dragon casual rescue spin |  

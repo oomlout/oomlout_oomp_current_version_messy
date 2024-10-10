@@ -122,6 +122,18 @@ exhaust
 steak
 trash
 flower |  
+| bip_39_word_no_space_1 | debate |  
+| bip_39_word_no_space_10 | debatepiecewaitblousetrulyexhauststeaktrashflowerexhibit |  
+| bip_39_word_no_space_11 | debatepiecewaitblousetrulyexhauststeaktrashflowerexhibitoval |  
+| bip_39_word_no_space_12 | debatepiecewaitblousetrulyexhauststeaktrashflowerexhibitovalabstract |  
+| bip_39_word_no_space_2 | debatepiece |  
+| bip_39_word_no_space_3 | debatepiecewait |  
+| bip_39_word_no_space_4 | debatepiecewaitblouse |  
+| bip_39_word_no_space_5 | debatepiecewaitblousetruly |  
+| bip_39_word_no_space_6 | debatepiecewaitblousetrulyexhaust |  
+| bip_39_word_no_space_7 | debatepiecewaitblousetrulyexhauststeak |  
+| bip_39_word_no_space_8 | debatepiecewaitblousetrulyexhauststeaktrash |  
+| bip_39_word_no_space_9 | debatepiecewaitblousetrulyexhauststeaktrashflower |  
 | bip_39_word_space_0 | ['debate', 'piece', 'wait', 'blouse', 'truly', 'exhaust', 'steak', 'trash', 'flower', 'exhibit', 'oval', 'abstract'] |  
 | bip_39_word_space_1 | debate |  
 | bip_39_word_space_10 | debate piece wait blouse truly exhaust steak trash flower exhibit |  

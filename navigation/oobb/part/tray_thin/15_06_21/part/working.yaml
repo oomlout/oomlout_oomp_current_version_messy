@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'join
   century
 
   good'
+bip_39_word_no_space_1: join
+bip_39_word_no_space_10: joindosechoosecarrystayseekbuzzcenturygoodmimic
+bip_39_word_no_space_11: joindosechoosecarrystayseekbuzzcenturygoodmimicnight
+bip_39_word_no_space_12: joindosechoosecarrystayseekbuzzcenturygoodmimicnightaisle
+bip_39_word_no_space_2: joindose
+bip_39_word_no_space_3: joindosechoose
+bip_39_word_no_space_4: joindosechoosecarry
+bip_39_word_no_space_5: joindosechoosecarrystay
+bip_39_word_no_space_6: joindosechoosecarrystayseek
+bip_39_word_no_space_7: joindosechoosecarrystayseekbuzz
+bip_39_word_no_space_8: joindosechoosecarrystayseekbuzzcentury
+bip_39_word_no_space_9: joindosechoosecarrystayseekbuzzcenturygood
 bip_39_word_space_0:
 - join
 - dose

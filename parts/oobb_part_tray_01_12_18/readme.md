@@ -122,6 +122,18 @@ glow
 humble
 lizard
 knock |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | servicesessioncrylunchconductglowhumblelizardknockvisit |  
+| bip_39_word_no_space_11 | servicesessioncrylunchconductglowhumblelizardknockvisitsnap |  
+| bip_39_word_no_space_12 | servicesessioncrylunchconductglowhumblelizardknockvisitsnapassist |  
+| bip_39_word_no_space_2 | servicesession |  
+| bip_39_word_no_space_3 | servicesessioncry |  
+| bip_39_word_no_space_4 | servicesessioncrylunch |  
+| bip_39_word_no_space_5 | servicesessioncrylunchconduct |  
+| bip_39_word_no_space_6 | servicesessioncrylunchconductglow |  
+| bip_39_word_no_space_7 | servicesessioncrylunchconductglowhumble |  
+| bip_39_word_no_space_8 | servicesessioncrylunchconductglowhumblelizard |  
+| bip_39_word_no_space_9 | servicesessioncrylunchconductglowhumblelizardknock |  
 | bip_39_word_space_0 | ['service', 'session', 'cry', 'lunch', 'conduct', 'glow', 'humble', 'lizard', 'knock', 'visit', 'snap', 'assist'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service session cry lunch conduct glow humble lizard knock visit |  

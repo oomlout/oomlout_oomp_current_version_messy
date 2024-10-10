@@ -122,6 +122,18 @@ noble
 balance
 bright
 crew |  
+| bip_39_word_no_space_1 | derive |  
+| bip_39_word_no_space_10 | derivefoldsolvepinkappearnoblebalancebrightcrewbrush |  
+| bip_39_word_no_space_11 | derivefoldsolvepinkappearnoblebalancebrightcrewbrushcertain |  
+| bip_39_word_no_space_12 | derivefoldsolvepinkappearnoblebalancebrightcrewbrushcertainair |  
+| bip_39_word_no_space_2 | derivefold |  
+| bip_39_word_no_space_3 | derivefoldsolve |  
+| bip_39_word_no_space_4 | derivefoldsolvepink |  
+| bip_39_word_no_space_5 | derivefoldsolvepinkappear |  
+| bip_39_word_no_space_6 | derivefoldsolvepinkappearnoble |  
+| bip_39_word_no_space_7 | derivefoldsolvepinkappearnoblebalance |  
+| bip_39_word_no_space_8 | derivefoldsolvepinkappearnoblebalancebright |  
+| bip_39_word_no_space_9 | derivefoldsolvepinkappearnoblebalancebrightcrew |  
 | bip_39_word_space_0 | ['derive', 'fold', 'solve', 'pink', 'appear', 'noble', 'balance', 'bright', 'crew', 'brush', 'certain', 'air'] |  
 | bip_39_word_space_1 | derive |  
 | bip_39_word_space_10 | derive fold solve pink appear noble balance bright crew brush |  

@@ -122,6 +122,18 @@ field
 oak
 erode
 snack |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joinneckconductwrongculturefieldoakerodesnackhollow |  
+| bip_39_word_no_space_11 | joinneckconductwrongculturefieldoakerodesnackhollowgrab |  
+| bip_39_word_no_space_12 | joinneckconductwrongculturefieldoakerodesnackhollowgrabannual |  
+| bip_39_word_no_space_2 | joinneck |  
+| bip_39_word_no_space_3 | joinneckconduct |  
+| bip_39_word_no_space_4 | joinneckconductwrong |  
+| bip_39_word_no_space_5 | joinneckconductwrongculture |  
+| bip_39_word_no_space_6 | joinneckconductwrongculturefield |  
+| bip_39_word_no_space_7 | joinneckconductwrongculturefieldoak |  
+| bip_39_word_no_space_8 | joinneckconductwrongculturefieldoakerode |  
+| bip_39_word_no_space_9 | joinneckconductwrongculturefieldoakerodesnack |  
 | bip_39_word_space_0 | ['join', 'neck', 'conduct', 'wrong', 'culture', 'field', 'oak', 'erode', 'snack', 'hollow', 'grab', 'annual'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join neck conduct wrong culture field oak erode snack hollow |  

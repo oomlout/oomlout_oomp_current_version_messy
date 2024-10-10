@@ -122,6 +122,18 @@ pattern
 apology
 awful
 say |  
+| bip_39_word_no_space_1 | say |  
+| bip_39_word_no_space_10 | saydonatecompanyelephantseapatternapologyawfulsayauthor |  
+| bip_39_word_no_space_11 | saydonatecompanyelephantseapatternapologyawfulsayauthorcarry |  
+| bip_39_word_no_space_12 | saydonatecompanyelephantseapatternapologyawfulsayauthorcarryattract |  
+| bip_39_word_no_space_2 | saydonate |  
+| bip_39_word_no_space_3 | saydonatecompany |  
+| bip_39_word_no_space_4 | saydonatecompanyelephant |  
+| bip_39_word_no_space_5 | saydonatecompanyelephantsea |  
+| bip_39_word_no_space_6 | saydonatecompanyelephantseapattern |  
+| bip_39_word_no_space_7 | saydonatecompanyelephantseapatternapology |  
+| bip_39_word_no_space_8 | saydonatecompanyelephantseapatternapologyawful |  
+| bip_39_word_no_space_9 | saydonatecompanyelephantseapatternapologyawfulsay |  
 | bip_39_word_space_0 | ['say', 'donate', 'company', 'elephant', 'sea', 'pattern', 'apology', 'awful', 'say', 'author', 'carry', 'attract'] |  
 | bip_39_word_space_1 | say |  
 | bip_39_word_space_10 | say donate company elephant sea pattern apology awful say author |  

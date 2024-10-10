@@ -122,6 +122,18 @@ festival
 south
 purpose
 media |  
+| bip_39_word_no_space_1 | alert |  
+| bip_39_word_no_space_10 | alerthamsterusualkitundofestivalsouthpurposemediaincrease |  
+| bip_39_word_no_space_11 | alerthamsterusualkitundofestivalsouthpurposemediaincreasedeny |  
+| bip_39_word_no_space_12 | alerthamsterusualkitundofestivalsouthpurposemediaincreasedenyaccuse |  
+| bip_39_word_no_space_2 | alerthamster |  
+| bip_39_word_no_space_3 | alerthamsterusual |  
+| bip_39_word_no_space_4 | alerthamsterusualkit |  
+| bip_39_word_no_space_5 | alerthamsterusualkitundo |  
+| bip_39_word_no_space_6 | alerthamsterusualkitundofestival |  
+| bip_39_word_no_space_7 | alerthamsterusualkitundofestivalsouth |  
+| bip_39_word_no_space_8 | alerthamsterusualkitundofestivalsouthpurpose |  
+| bip_39_word_no_space_9 | alerthamsterusualkitundofestivalsouthpurposemedia |  
 | bip_39_word_space_0 | ['alert', 'hamster', 'usual', 'kit', 'undo', 'festival', 'south', 'purpose', 'media', 'increase', 'deny', 'accuse'] |  
 | bip_39_word_space_1 | alert |  
 | bip_39_word_space_10 | alert hamster usual kit undo festival south purpose media increase |  

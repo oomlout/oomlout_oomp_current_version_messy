@@ -122,6 +122,18 @@ achieve
 egg
 afraid
 enjoy |  
+| bip_39_word_no_space_1 | surface |  
+| bip_39_word_no_space_10 | surfacewheelmoreknifekiwiachieveeggafraidenjoytoday |  
+| bip_39_word_no_space_11 | surfacewheelmoreknifekiwiachieveeggafraidenjoytodaybunker |  
+| bip_39_word_no_space_12 | surfacewheelmoreknifekiwiachieveeggafraidenjoytodaybunkerarch |  
+| bip_39_word_no_space_2 | surfacewheel |  
+| bip_39_word_no_space_3 | surfacewheelmore |  
+| bip_39_word_no_space_4 | surfacewheelmoreknife |  
+| bip_39_word_no_space_5 | surfacewheelmoreknifekiwi |  
+| bip_39_word_no_space_6 | surfacewheelmoreknifekiwiachieve |  
+| bip_39_word_no_space_7 | surfacewheelmoreknifekiwiachieveegg |  
+| bip_39_word_no_space_8 | surfacewheelmoreknifekiwiachieveeggafraid |  
+| bip_39_word_no_space_9 | surfacewheelmoreknifekiwiachieveeggafraidenjoy |  
 | bip_39_word_space_0 | ['surface', 'wheel', 'more', 'knife', 'kiwi', 'achieve', 'egg', 'afraid', 'enjoy', 'today', 'bunker', 'arch'] |  
 | bip_39_word_space_1 | surface |  
 | bip_39_word_space_10 | surface wheel more knife kiwi achieve egg afraid enjoy today |  

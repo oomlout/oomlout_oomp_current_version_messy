@@ -122,6 +122,18 @@ guide
 usage
 rent
 nominee |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legstomachacousticlakeseekguideusagerentnomineenut |  
+| bip_39_word_no_space_11 | legstomachacousticlakeseekguideusagerentnomineenutraw |  
+| bip_39_word_no_space_12 | legstomachacousticlakeseekguideusagerentnomineenutrawalbum |  
+| bip_39_word_no_space_2 | legstomach |  
+| bip_39_word_no_space_3 | legstomachacoustic |  
+| bip_39_word_no_space_4 | legstomachacousticlake |  
+| bip_39_word_no_space_5 | legstomachacousticlakeseek |  
+| bip_39_word_no_space_6 | legstomachacousticlakeseekguide |  
+| bip_39_word_no_space_7 | legstomachacousticlakeseekguideusage |  
+| bip_39_word_no_space_8 | legstomachacousticlakeseekguideusagerent |  
+| bip_39_word_no_space_9 | legstomachacousticlakeseekguideusagerentnominee |  
 | bip_39_word_space_0 | ['leg', 'stomach', 'acoustic', 'lake', 'seek', 'guide', 'usage', 'rent', 'nominee', 'nut', 'raw', 'album'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg stomach acoustic lake seek guide usage rent nominee nut |  

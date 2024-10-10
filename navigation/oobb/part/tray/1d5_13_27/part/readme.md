@@ -122,6 +122,18 @@ time
 lounge
 helmet
 merge |  
+| bip_39_word_no_space_1 | sick |  
+| bip_39_word_no_space_10 | sicksuchmysteryfrostbelowtimeloungehelmetmergeconsider |  
+| bip_39_word_no_space_11 | sicksuchmysteryfrostbelowtimeloungehelmetmergeconsiderembark |  
+| bip_39_word_no_space_12 | sicksuchmysteryfrostbelowtimeloungehelmetmergeconsiderembarkaccount |  
+| bip_39_word_no_space_2 | sicksuch |  
+| bip_39_word_no_space_3 | sicksuchmystery |  
+| bip_39_word_no_space_4 | sicksuchmysteryfrost |  
+| bip_39_word_no_space_5 | sicksuchmysteryfrostbelow |  
+| bip_39_word_no_space_6 | sicksuchmysteryfrostbelowtime |  
+| bip_39_word_no_space_7 | sicksuchmysteryfrostbelowtimelounge |  
+| bip_39_word_no_space_8 | sicksuchmysteryfrostbelowtimeloungehelmet |  
+| bip_39_word_no_space_9 | sicksuchmysteryfrostbelowtimeloungehelmetmerge |  
 | bip_39_word_space_0 | ['sick', 'such', 'mystery', 'frost', 'below', 'time', 'lounge', 'helmet', 'merge', 'consider', 'embark', 'account'] |  
 | bip_39_word_space_1 | sick |  
 | bip_39_word_space_10 | sick such mystery frost below time lounge helmet merge consider |  

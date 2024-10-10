@@ -122,6 +122,18 @@ dolphin
 entry
 sample
 fork |  
+| bip_39_word_no_space_1 | sugar |  
+| bip_39_word_no_space_10 | sugarawkwarddentistactualbraindolphinentrysampleforkburst |  
+| bip_39_word_no_space_11 | sugarawkwarddentistactualbraindolphinentrysampleforkburstremain |  
+| bip_39_word_no_space_12 | sugarawkwarddentistactualbraindolphinentrysampleforkburstremainadult |  
+| bip_39_word_no_space_2 | sugarawkward |  
+| bip_39_word_no_space_3 | sugarawkwarddentist |  
+| bip_39_word_no_space_4 | sugarawkwarddentistactual |  
+| bip_39_word_no_space_5 | sugarawkwarddentistactualbrain |  
+| bip_39_word_no_space_6 | sugarawkwarddentistactualbraindolphin |  
+| bip_39_word_no_space_7 | sugarawkwarddentistactualbraindolphinentry |  
+| bip_39_word_no_space_8 | sugarawkwarddentistactualbraindolphinentrysample |  
+| bip_39_word_no_space_9 | sugarawkwarddentistactualbraindolphinentrysamplefork |  
 | bip_39_word_space_0 | ['sugar', 'awkward', 'dentist', 'actual', 'brain', 'dolphin', 'entry', 'sample', 'fork', 'burst', 'remain', 'adult'] |  
 | bip_39_word_space_1 | sugar |  
 | bip_39_word_space_10 | sugar awkward dentist actual brain dolphin entry sample fork burst |  

@@ -122,6 +122,18 @@ van
 smoke
 differ
 ring |  
+| bip_39_word_no_space_1 | hotel |  
+| bip_39_word_no_space_10 | hoteltopplepersondogdelivervansmokedifferringwood |  
+| bip_39_word_no_space_11 | hoteltopplepersondogdelivervansmokedifferringwoodaddress |  
+| bip_39_word_no_space_12 | hoteltopplepersondogdelivervansmokedifferringwoodaddressattract |  
+| bip_39_word_no_space_2 | hoteltopple |  
+| bip_39_word_no_space_3 | hoteltoppleperson |  
+| bip_39_word_no_space_4 | hoteltopplepersondog |  
+| bip_39_word_no_space_5 | hoteltopplepersondogdeliver |  
+| bip_39_word_no_space_6 | hoteltopplepersondogdelivervan |  
+| bip_39_word_no_space_7 | hoteltopplepersondogdelivervansmoke |  
+| bip_39_word_no_space_8 | hoteltopplepersondogdelivervansmokediffer |  
+| bip_39_word_no_space_9 | hoteltopplepersondogdelivervansmokedifferring |  
 | bip_39_word_space_0 | ['hotel', 'topple', 'person', 'dog', 'deliver', 'van', 'smoke', 'differ', 'ring', 'wood', 'address', 'attract'] |  
 | bip_39_word_space_1 | hotel |  
 | bip_39_word_space_10 | hotel topple person dog deliver van smoke differ ring wood |  

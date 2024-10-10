@@ -122,6 +122,18 @@ night
 light
 casino
 enrich |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westspreadskirtbeyondnarrownightlightcasinoenrichshoulder |  
+| bip_39_word_no_space_11 | westspreadskirtbeyondnarrownightlightcasinoenrichshoulderstool |  
+| bip_39_word_no_space_12 | westspreadskirtbeyondnarrownightlightcasinoenrichshoulderstoolabout |  
+| bip_39_word_no_space_2 | westspread |  
+| bip_39_word_no_space_3 | westspreadskirt |  
+| bip_39_word_no_space_4 | westspreadskirtbeyond |  
+| bip_39_word_no_space_5 | westspreadskirtbeyondnarrow |  
+| bip_39_word_no_space_6 | westspreadskirtbeyondnarrownight |  
+| bip_39_word_no_space_7 | westspreadskirtbeyondnarrownightlight |  
+| bip_39_word_no_space_8 | westspreadskirtbeyondnarrownightlightcasino |  
+| bip_39_word_no_space_9 | westspreadskirtbeyondnarrownightlightcasinoenrich |  
 | bip_39_word_space_0 | ['west', 'spread', 'skirt', 'beyond', 'narrow', 'night', 'light', 'casino', 'enrich', 'shoulder', 'stool', 'about'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west spread skirt beyond narrow night light casino enrich shoulder |  

@@ -122,6 +122,18 @@ bundle
 toy
 erase
 canvas |  
+| bip_39_word_no_space_1 | genre |  
+| bip_39_word_no_space_10 | genrestadiumdressopennowbundletoyerasecanvasunfair |  
+| bip_39_word_no_space_11 | genrestadiumdressopennowbundletoyerasecanvasunfairexercise |  
+| bip_39_word_no_space_12 | genrestadiumdressopennowbundletoyerasecanvasunfairexerciseassault |  
+| bip_39_word_no_space_2 | genrestadium |  
+| bip_39_word_no_space_3 | genrestadiumdress |  
+| bip_39_word_no_space_4 | genrestadiumdressopen |  
+| bip_39_word_no_space_5 | genrestadiumdressopennow |  
+| bip_39_word_no_space_6 | genrestadiumdressopennowbundle |  
+| bip_39_word_no_space_7 | genrestadiumdressopennowbundletoy |  
+| bip_39_word_no_space_8 | genrestadiumdressopennowbundletoyerase |  
+| bip_39_word_no_space_9 | genrestadiumdressopennowbundletoyerasecanvas |  
 | bip_39_word_space_0 | ['genre', 'stadium', 'dress', 'open', 'now', 'bundle', 'toy', 'erase', 'canvas', 'unfair', 'exercise', 'assault'] |  
 | bip_39_word_space_1 | genre |  
 | bip_39_word_space_10 | genre stadium dress open now bundle toy erase canvas unfair |  

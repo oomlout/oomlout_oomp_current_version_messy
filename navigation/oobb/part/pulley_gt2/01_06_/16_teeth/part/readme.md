@@ -122,6 +122,18 @@ cactus
 banana
 vehicle
 curtain |  
+| bip_39_word_no_space_1 | page |  
+| bip_39_word_no_space_10 | pageangrylumberclayarenacactusbananavehiclecurtaincapable |  
+| bip_39_word_no_space_11 | pageangrylumberclayarenacactusbananavehiclecurtaincapabletray |  
+| bip_39_word_no_space_12 | pageangrylumberclayarenacactusbananavehiclecurtaincapabletrayalbum |  
+| bip_39_word_no_space_2 | pageangry |  
+| bip_39_word_no_space_3 | pageangrylumber |  
+| bip_39_word_no_space_4 | pageangrylumberclay |  
+| bip_39_word_no_space_5 | pageangrylumberclayarena |  
+| bip_39_word_no_space_6 | pageangrylumberclayarenacactus |  
+| bip_39_word_no_space_7 | pageangrylumberclayarenacactusbanana |  
+| bip_39_word_no_space_8 | pageangrylumberclayarenacactusbananavehicle |  
+| bip_39_word_no_space_9 | pageangrylumberclayarenacactusbananavehiclecurtain |  
 | bip_39_word_space_0 | ['page', 'angry', 'lumber', 'clay', 'arena', 'cactus', 'banana', 'vehicle', 'curtain', 'capable', 'tray', 'album'] |  
 | bip_39_word_space_1 | page |  
 | bip_39_word_space_10 | page angry lumber clay arena cactus banana vehicle curtain capable |  

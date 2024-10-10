@@ -122,6 +122,18 @@ chief
 fun
 nurse
 labor |  
+| bip_39_word_no_space_1 | dignity |  
+| bip_39_word_no_space_10 | dignityfuturetheyhourgoldchieffunnurselabortilt |  
+| bip_39_word_no_space_11 | dignityfuturetheyhourgoldchieffunnurselabortiltignore |  
+| bip_39_word_no_space_12 | dignityfuturetheyhourgoldchieffunnurselabortiltignorealert |  
+| bip_39_word_no_space_2 | dignityfuture |  
+| bip_39_word_no_space_3 | dignityfuturethey |  
+| bip_39_word_no_space_4 | dignityfuturetheyhour |  
+| bip_39_word_no_space_5 | dignityfuturetheyhourgold |  
+| bip_39_word_no_space_6 | dignityfuturetheyhourgoldchief |  
+| bip_39_word_no_space_7 | dignityfuturetheyhourgoldchieffun |  
+| bip_39_word_no_space_8 | dignityfuturetheyhourgoldchieffunnurse |  
+| bip_39_word_no_space_9 | dignityfuturetheyhourgoldchieffunnurselabor |  
 | bip_39_word_space_0 | ['dignity', 'future', 'they', 'hour', 'gold', 'chief', 'fun', 'nurse', 'labor', 'tilt', 'ignore', 'alert'] |  
 | bip_39_word_space_1 | dignity |  
 | bip_39_word_space_10 | dignity future they hour gold chief fun nurse labor tilt |  

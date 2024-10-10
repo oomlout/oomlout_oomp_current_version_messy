@@ -122,6 +122,18 @@ crazy
 beauty
 paddle
 day |  
+| bip_39_word_no_space_1 | vacuum |  
+| bip_39_word_no_space_10 | vacuumprotectdistancecarryhatcrazybeautypaddledaydoll |  
+| bip_39_word_no_space_11 | vacuumprotectdistancecarryhatcrazybeautypaddledaydollbean |  
+| bip_39_word_no_space_12 | vacuumprotectdistancecarryhatcrazybeautypaddledaydollbeanaddress |  
+| bip_39_word_no_space_2 | vacuumprotect |  
+| bip_39_word_no_space_3 | vacuumprotectdistance |  
+| bip_39_word_no_space_4 | vacuumprotectdistancecarry |  
+| bip_39_word_no_space_5 | vacuumprotectdistancecarryhat |  
+| bip_39_word_no_space_6 | vacuumprotectdistancecarryhatcrazy |  
+| bip_39_word_no_space_7 | vacuumprotectdistancecarryhatcrazybeauty |  
+| bip_39_word_no_space_8 | vacuumprotectdistancecarryhatcrazybeautypaddle |  
+| bip_39_word_no_space_9 | vacuumprotectdistancecarryhatcrazybeautypaddleday |  
 | bip_39_word_space_0 | ['vacuum', 'protect', 'distance', 'carry', 'hat', 'crazy', 'beauty', 'paddle', 'day', 'doll', 'bean', 'address'] |  
 | bip_39_word_space_1 | vacuum |  
 | bip_39_word_space_10 | vacuum protect distance carry hat crazy beauty paddle day doll |  

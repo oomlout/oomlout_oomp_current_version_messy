@@ -122,6 +122,18 @@ upgrade
 wall
 slush
 govern |  
+| bip_39_word_no_space_1 | acoustic |  
+| bip_39_word_no_space_10 | acousticgardenviolintestsleepupgradewallslushgovernchest |  
+| bip_39_word_no_space_11 | acousticgardenviolintestsleepupgradewallslushgovernchestthrow |  
+| bip_39_word_no_space_12 | acousticgardenviolintestsleepupgradewallslushgovernchestthrowangry |  
+| bip_39_word_no_space_2 | acousticgarden |  
+| bip_39_word_no_space_3 | acousticgardenviolin |  
+| bip_39_word_no_space_4 | acousticgardenviolintest |  
+| bip_39_word_no_space_5 | acousticgardenviolintestsleep |  
+| bip_39_word_no_space_6 | acousticgardenviolintestsleepupgrade |  
+| bip_39_word_no_space_7 | acousticgardenviolintestsleepupgradewall |  
+| bip_39_word_no_space_8 | acousticgardenviolintestsleepupgradewallslush |  
+| bip_39_word_no_space_9 | acousticgardenviolintestsleepupgradewallslushgovern |  
 | bip_39_word_space_0 | ['acoustic', 'garden', 'violin', 'test', 'sleep', 'upgrade', 'wall', 'slush', 'govern', 'chest', 'throw', 'angry'] |  
 | bip_39_word_space_1 | acoustic |  
 | bip_39_word_space_10 | acoustic garden violin test sleep upgrade wall slush govern chest |  

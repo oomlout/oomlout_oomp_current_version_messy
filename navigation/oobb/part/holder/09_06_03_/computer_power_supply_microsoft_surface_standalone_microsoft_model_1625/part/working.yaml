@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'alley
   script
 
   dumb'
+bip_39_word_no_space_1: alley
+bip_39_word_no_space_10: alleycuriousarchtopicotherforgetafraidscriptdumbdiary
+bip_39_word_no_space_11: alleycuriousarchtopicotherforgetafraidscriptdumbdiaryblouse
+bip_39_word_no_space_12: alleycuriousarchtopicotherforgetafraidscriptdumbdiaryblouseamount
+bip_39_word_no_space_2: alleycurious
+bip_39_word_no_space_3: alleycuriousarch
+bip_39_word_no_space_4: alleycuriousarchtopic
+bip_39_word_no_space_5: alleycuriousarchtopicother
+bip_39_word_no_space_6: alleycuriousarchtopicotherforget
+bip_39_word_no_space_7: alleycuriousarchtopicotherforgetafraid
+bip_39_word_no_space_8: alleycuriousarchtopicotherforgetafraidscript
+bip_39_word_no_space_9: alleycuriousarchtopicotherforgetafraidscriptdumb
 bip_39_word_space_0:
 - alley
 - curious

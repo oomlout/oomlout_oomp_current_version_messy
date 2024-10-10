@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'naive
   drama
 
   impose'
+bip_39_word_no_space_1: naive
+bip_39_word_no_space_10: naivesightorangeshiverhuntinviteflushdramaimposenut
+bip_39_word_no_space_11: naivesightorangeshiverhuntinviteflushdramaimposenutpottery
+bip_39_word_no_space_12: naivesightorangeshiverhuntinviteflushdramaimposenutpotteryanxiety
+bip_39_word_no_space_2: naivesight
+bip_39_word_no_space_3: naivesightorange
+bip_39_word_no_space_4: naivesightorangeshiver
+bip_39_word_no_space_5: naivesightorangeshiverhunt
+bip_39_word_no_space_6: naivesightorangeshiverhuntinvite
+bip_39_word_no_space_7: naivesightorangeshiverhuntinviteflush
+bip_39_word_no_space_8: naivesightorangeshiverhuntinviteflushdrama
+bip_39_word_no_space_9: naivesightorangeshiverhuntinviteflushdramaimpose
 bip_39_word_space_0:
 - naive
 - sight

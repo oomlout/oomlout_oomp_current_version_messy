@@ -122,6 +122,18 @@ nasty
 nerve
 resource
 imitate |  
+| bip_39_word_no_space_1 | endorse |  
+| bip_39_word_no_space_10 | endorsesuggestpeopleslicelyricsnastynerveresourceimitatesalt |  
+| bip_39_word_no_space_11 | endorsesuggestpeopleslicelyricsnastynerveresourceimitatesaltgrid |  
+| bip_39_word_no_space_12 | endorsesuggestpeopleslicelyricsnastynerveresourceimitatesaltgridability |  
+| bip_39_word_no_space_2 | endorsesuggest |  
+| bip_39_word_no_space_3 | endorsesuggestpeople |  
+| bip_39_word_no_space_4 | endorsesuggestpeopleslice |  
+| bip_39_word_no_space_5 | endorsesuggestpeopleslicelyrics |  
+| bip_39_word_no_space_6 | endorsesuggestpeopleslicelyricsnasty |  
+| bip_39_word_no_space_7 | endorsesuggestpeopleslicelyricsnastynerve |  
+| bip_39_word_no_space_8 | endorsesuggestpeopleslicelyricsnastynerveresource |  
+| bip_39_word_no_space_9 | endorsesuggestpeopleslicelyricsnastynerveresourceimitate |  
 | bip_39_word_space_0 | ['endorse', 'suggest', 'people', 'slice', 'lyrics', 'nasty', 'nerve', 'resource', 'imitate', 'salt', 'grid', 'ability'] |  
 | bip_39_word_space_1 | endorse |  
 | bip_39_word_space_10 | endorse suggest people slice lyrics nasty nerve resource imitate salt |  

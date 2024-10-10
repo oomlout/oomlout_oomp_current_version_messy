@@ -122,6 +122,18 @@ render
 come
 swift
 pumpkin |  
+| bip_39_word_no_space_1 | actor |  
+| bip_39_word_no_space_10 | actorbestdolphinwearmeltrendercomeswiftpumpkinbanner |  
+| bip_39_word_no_space_11 | actorbestdolphinwearmeltrendercomeswiftpumpkinbannermultiply |  
+| bip_39_word_no_space_12 | actorbestdolphinwearmeltrendercomeswiftpumpkinbannermultiplyany |  
+| bip_39_word_no_space_2 | actorbest |  
+| bip_39_word_no_space_3 | actorbestdolphin |  
+| bip_39_word_no_space_4 | actorbestdolphinwear |  
+| bip_39_word_no_space_5 | actorbestdolphinwearmelt |  
+| bip_39_word_no_space_6 | actorbestdolphinwearmeltrender |  
+| bip_39_word_no_space_7 | actorbestdolphinwearmeltrendercome |  
+| bip_39_word_no_space_8 | actorbestdolphinwearmeltrendercomeswift |  
+| bip_39_word_no_space_9 | actorbestdolphinwearmeltrendercomeswiftpumpkin |  
 | bip_39_word_space_0 | ['actor', 'best', 'dolphin', 'wear', 'melt', 'render', 'come', 'swift', 'pumpkin', 'banner', 'multiply', 'any'] |  
 | bip_39_word_space_1 | actor |  
 | bip_39_word_space_10 | actor best dolphin wear melt render come swift pumpkin banner |  

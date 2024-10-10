@@ -122,6 +122,18 @@ nurse
 upset
 exact
 rather |  
+| bip_39_word_no_space_1 | release |  
+| bip_39_word_no_space_10 | releaserecordinstallkitactnurseupsetexactrathercurve |  
+| bip_39_word_no_space_11 | releaserecordinstallkitactnurseupsetexactrathercurvedocument |  
+| bip_39_word_no_space_12 | releaserecordinstallkitactnurseupsetexactrathercurvedocumentattend |  
+| bip_39_word_no_space_2 | releaserecord |  
+| bip_39_word_no_space_3 | releaserecordinstall |  
+| bip_39_word_no_space_4 | releaserecordinstallkit |  
+| bip_39_word_no_space_5 | releaserecordinstallkitact |  
+| bip_39_word_no_space_6 | releaserecordinstallkitactnurse |  
+| bip_39_word_no_space_7 | releaserecordinstallkitactnurseupset |  
+| bip_39_word_no_space_8 | releaserecordinstallkitactnurseupsetexact |  
+| bip_39_word_no_space_9 | releaserecordinstallkitactnurseupsetexactrather |  
 | bip_39_word_space_0 | ['release', 'record', 'install', 'kit', 'act', 'nurse', 'upset', 'exact', 'rather', 'curve', 'document', 'attend'] |  
 | bip_39_word_space_1 | release |  
 | bip_39_word_space_10 | release record install kit act nurse upset exact rather curve |  

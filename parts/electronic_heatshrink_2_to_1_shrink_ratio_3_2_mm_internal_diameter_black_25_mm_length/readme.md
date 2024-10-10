@@ -122,6 +122,18 @@ client
 subject
 alter
 apple |  
+| bip_39_word_no_space_1 | lesson |  
+| bip_39_word_no_space_10 | lessoncreditgunvoyagevendorclientsubjectalterapplerival |  
+| bip_39_word_no_space_11 | lessoncreditgunvoyagevendorclientsubjectalterapplerivalskill |  
+| bip_39_word_no_space_12 | lessoncreditgunvoyagevendorclientsubjectalterapplerivalskillaspect |  
+| bip_39_word_no_space_2 | lessoncredit |  
+| bip_39_word_no_space_3 | lessoncreditgun |  
+| bip_39_word_no_space_4 | lessoncreditgunvoyage |  
+| bip_39_word_no_space_5 | lessoncreditgunvoyagevendor |  
+| bip_39_word_no_space_6 | lessoncreditgunvoyagevendorclient |  
+| bip_39_word_no_space_7 | lessoncreditgunvoyagevendorclientsubject |  
+| bip_39_word_no_space_8 | lessoncreditgunvoyagevendorclientsubjectalter |  
+| bip_39_word_no_space_9 | lessoncreditgunvoyagevendorclientsubjectalterapple |  
 | bip_39_word_space_0 | ['lesson', 'credit', 'gun', 'voyage', 'vendor', 'client', 'subject', 'alter', 'apple', 'rival', 'skill', 'aspect'] |  
 | bip_39_word_space_1 | lesson |  
 | bip_39_word_space_10 | lesson credit gun voyage vendor client subject alter apple rival |  

@@ -122,6 +122,18 @@ ribbon
 aerobic
 unlock
 artist |  
+| bip_39_word_no_space_1 | pass |  
+| bip_39_word_no_space_10 | passmillionfemaleparadelibraryribbonaerobicunlockartistsword |  
+| bip_39_word_no_space_11 | passmillionfemaleparadelibraryribbonaerobicunlockartistswordalcohol |  
+| bip_39_word_no_space_12 | passmillionfemaleparadelibraryribbonaerobicunlockartistswordalcoholalcohol |  
+| bip_39_word_no_space_2 | passmillion |  
+| bip_39_word_no_space_3 | passmillionfemale |  
+| bip_39_word_no_space_4 | passmillionfemaleparade |  
+| bip_39_word_no_space_5 | passmillionfemaleparadelibrary |  
+| bip_39_word_no_space_6 | passmillionfemaleparadelibraryribbon |  
+| bip_39_word_no_space_7 | passmillionfemaleparadelibraryribbonaerobic |  
+| bip_39_word_no_space_8 | passmillionfemaleparadelibraryribbonaerobicunlock |  
+| bip_39_word_no_space_9 | passmillionfemaleparadelibraryribbonaerobicunlockartist |  
 | bip_39_word_space_0 | ['pass', 'million', 'female', 'parade', 'library', 'ribbon', 'aerobic', 'unlock', 'artist', 'sword', 'alcohol', 'alcohol'] |  
 | bip_39_word_space_1 | pass |  
 | bip_39_word_space_10 | pass million female parade library ribbon aerobic unlock artist sword |  

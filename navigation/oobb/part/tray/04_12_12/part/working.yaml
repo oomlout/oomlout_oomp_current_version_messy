@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'magnet
   awful
 
   lab'
+bip_39_word_no_space_1: magnet
+bip_39_word_no_space_10: magnetlocalorphanillnesspowderdashsilkawfullabarea
+bip_39_word_no_space_11: magnetlocalorphanillnesspowderdashsilkawfullabareaelectric
+bip_39_word_no_space_12: magnetlocalorphanillnesspowderdashsilkawfullabareaelectricargue
+bip_39_word_no_space_2: magnetlocal
+bip_39_word_no_space_3: magnetlocalorphan
+bip_39_word_no_space_4: magnetlocalorphanillness
+bip_39_word_no_space_5: magnetlocalorphanillnesspowder
+bip_39_word_no_space_6: magnetlocalorphanillnesspowderdash
+bip_39_word_no_space_7: magnetlocalorphanillnesspowderdashsilk
+bip_39_word_no_space_8: magnetlocalorphanillnesspowderdashsilkawful
+bip_39_word_no_space_9: magnetlocalorphanillnesspowderdashsilkawfullab
 bip_39_word_space_0:
 - magnet
 - local

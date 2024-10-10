@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blush
   lens
 
   submit'
+bip_39_word_no_space_1: blush
+bip_39_word_no_space_10: blushseasonneverswallowvoiceverbspeaklenssubmitgenuine
+bip_39_word_no_space_11: blushseasonneverswallowvoiceverbspeaklenssubmitgenuineproblem
+bip_39_word_no_space_12: blushseasonneverswallowvoiceverbspeaklenssubmitgenuineproblemaisle
+bip_39_word_no_space_2: blushseason
+bip_39_word_no_space_3: blushseasonnever
+bip_39_word_no_space_4: blushseasonneverswallow
+bip_39_word_no_space_5: blushseasonneverswallowvoice
+bip_39_word_no_space_6: blushseasonneverswallowvoiceverb
+bip_39_word_no_space_7: blushseasonneverswallowvoiceverbspeak
+bip_39_word_no_space_8: blushseasonneverswallowvoiceverbspeaklens
+bip_39_word_no_space_9: blushseasonneverswallowvoiceverbspeaklenssubmit
 bip_39_word_space_0:
 - blush
 - season

@@ -122,6 +122,18 @@ ranch
 coffee
 chair
 trial |  
+| bip_39_word_no_space_1 | festival |  
+| bip_39_word_no_space_10 | festivalclockoldrememberbriefranchcoffeechairtrialburden |  
+| bip_39_word_no_space_11 | festivalclockoldrememberbriefranchcoffeechairtrialburdenfestival |  
+| bip_39_word_no_space_12 | festivalclockoldrememberbriefranchcoffeechairtrialburdenfestivalarrive |  
+| bip_39_word_no_space_2 | festivalclock |  
+| bip_39_word_no_space_3 | festivalclockold |  
+| bip_39_word_no_space_4 | festivalclockoldremember |  
+| bip_39_word_no_space_5 | festivalclockoldrememberbrief |  
+| bip_39_word_no_space_6 | festivalclockoldrememberbriefranch |  
+| bip_39_word_no_space_7 | festivalclockoldrememberbriefranchcoffee |  
+| bip_39_word_no_space_8 | festivalclockoldrememberbriefranchcoffeechair |  
+| bip_39_word_no_space_9 | festivalclockoldrememberbriefranchcoffeechairtrial |  
 | bip_39_word_space_0 | ['festival', 'clock', 'old', 'remember', 'brief', 'ranch', 'coffee', 'chair', 'trial', 'burden', 'festival', 'arrive'] |  
 | bip_39_word_space_1 | festival |  
 | bip_39_word_space_10 | festival clock old remember brief ranch coffee chair trial burden |  

@@ -122,6 +122,18 @@ crash
 evoke
 shrug
 prepare |  
+| bip_39_word_no_space_1 | once |  
+| bip_39_word_no_space_10 | onceexhibitcolortrendactorcrashevokeshrugprepareexhaust |  
+| bip_39_word_no_space_11 | onceexhibitcolortrendactorcrashevokeshrugprepareexhaustlegal |  
+| bip_39_word_no_space_12 | onceexhibitcolortrendactorcrashevokeshrugprepareexhaustlegalaffair |  
+| bip_39_word_no_space_2 | onceexhibit |  
+| bip_39_word_no_space_3 | onceexhibitcolor |  
+| bip_39_word_no_space_4 | onceexhibitcolortrend |  
+| bip_39_word_no_space_5 | onceexhibitcolortrendactor |  
+| bip_39_word_no_space_6 | onceexhibitcolortrendactorcrash |  
+| bip_39_word_no_space_7 | onceexhibitcolortrendactorcrashevoke |  
+| bip_39_word_no_space_8 | onceexhibitcolortrendactorcrashevokeshrug |  
+| bip_39_word_no_space_9 | onceexhibitcolortrendactorcrashevokeshrugprepare |  
 | bip_39_word_space_0 | ['once', 'exhibit', 'color', 'trend', 'actor', 'crash', 'evoke', 'shrug', 'prepare', 'exhaust', 'legal', 'affair'] |  
 | bip_39_word_space_1 | once |  
 | bip_39_word_space_10 | once exhibit color trend actor crash evoke shrug prepare exhaust |  

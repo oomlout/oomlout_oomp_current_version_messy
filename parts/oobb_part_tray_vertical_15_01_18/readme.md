@@ -122,6 +122,18 @@ mutual
 robot
 transfer
 actress |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymeggbrandjokeartmutualrobottransferactressepisode |  
+| bip_39_word_no_space_11 | gymeggbrandjokeartmutualrobottransferactressepisoderesource |  
+| bip_39_word_no_space_12 | gymeggbrandjokeartmutualrobottransferactressepisoderesourceafraid |  
+| bip_39_word_no_space_2 | gymegg |  
+| bip_39_word_no_space_3 | gymeggbrand |  
+| bip_39_word_no_space_4 | gymeggbrandjoke |  
+| bip_39_word_no_space_5 | gymeggbrandjokeart |  
+| bip_39_word_no_space_6 | gymeggbrandjokeartmutual |  
+| bip_39_word_no_space_7 | gymeggbrandjokeartmutualrobot |  
+| bip_39_word_no_space_8 | gymeggbrandjokeartmutualrobottransfer |  
+| bip_39_word_no_space_9 | gymeggbrandjokeartmutualrobottransferactress |  
 | bip_39_word_space_0 | ['gym', 'egg', 'brand', 'joke', 'art', 'mutual', 'robot', 'transfer', 'actress', 'episode', 'resource', 'afraid'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym egg brand joke art mutual robot transfer actress episode |  

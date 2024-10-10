@@ -122,6 +122,18 @@ shoulder
 strategy
 very
 stable |  
+| bip_39_word_no_space_1 | key |  
+| bip_39_word_no_space_10 | keylaterindoorbecomeentershoulderstrategyverystablemargin |  
+| bip_39_word_no_space_11 | keylaterindoorbecomeentershoulderstrategyverystablemarginthis |  
+| bip_39_word_no_space_12 | keylaterindoorbecomeentershoulderstrategyverystablemarginthisadd |  
+| bip_39_word_no_space_2 | keylater |  
+| bip_39_word_no_space_3 | keylaterindoor |  
+| bip_39_word_no_space_4 | keylaterindoorbecome |  
+| bip_39_word_no_space_5 | keylaterindoorbecomeenter |  
+| bip_39_word_no_space_6 | keylaterindoorbecomeentershoulder |  
+| bip_39_word_no_space_7 | keylaterindoorbecomeentershoulderstrategy |  
+| bip_39_word_no_space_8 | keylaterindoorbecomeentershoulderstrategyvery |  
+| bip_39_word_no_space_9 | keylaterindoorbecomeentershoulderstrategyverystable |  
 | bip_39_word_space_0 | ['key', 'later', 'indoor', 'become', 'enter', 'shoulder', 'strategy', 'very', 'stable', 'margin', 'this', 'add'] |  
 | bip_39_word_space_1 | key |  
 | bip_39_word_space_10 | key later indoor become enter shoulder strategy very stable margin |  

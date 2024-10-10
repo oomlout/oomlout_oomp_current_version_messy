@@ -122,6 +122,18 @@ ordinary
 auto
 vivid
 small |  
+| bip_39_word_no_space_1 | panda |  
+| bip_39_word_no_space_10 | pandahundredcropcakeleafordinaryautovividsmallcandy |  
+| bip_39_word_no_space_11 | pandahundredcropcakeleafordinaryautovividsmallcandyessence |  
+| bip_39_word_no_space_12 | pandahundredcropcakeleafordinaryautovividsmallcandyessencealways |  
+| bip_39_word_no_space_2 | pandahundred |  
+| bip_39_word_no_space_3 | pandahundredcrop |  
+| bip_39_word_no_space_4 | pandahundredcropcake |  
+| bip_39_word_no_space_5 | pandahundredcropcakeleaf |  
+| bip_39_word_no_space_6 | pandahundredcropcakeleafordinary |  
+| bip_39_word_no_space_7 | pandahundredcropcakeleafordinaryauto |  
+| bip_39_word_no_space_8 | pandahundredcropcakeleafordinaryautovivid |  
+| bip_39_word_no_space_9 | pandahundredcropcakeleafordinaryautovividsmall |  
 | bip_39_word_space_0 | ['panda', 'hundred', 'crop', 'cake', 'leaf', 'ordinary', 'auto', 'vivid', 'small', 'candy', 'essence', 'always'] |  
 | bip_39_word_space_1 | panda |  
 | bip_39_word_space_10 | panda hundred crop cake leaf ordinary auto vivid small candy |  

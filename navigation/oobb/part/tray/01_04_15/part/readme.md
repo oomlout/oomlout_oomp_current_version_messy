@@ -122,6 +122,18 @@ rate
 lecture
 keep
 resource |  
+| bip_39_word_no_space_1 | dove |  
+| bip_39_word_no_space_10 | doveribblastparkiceratelecturekeepresourcecrowd |  
+| bip_39_word_no_space_11 | doveribblastparkiceratelecturekeepresourcecrowdconvince |  
+| bip_39_word_no_space_12 | doveribblastparkiceratelecturekeepresourcecrowdconvinceadapt |  
+| bip_39_word_no_space_2 | doverib |  
+| bip_39_word_no_space_3 | doveribblast |  
+| bip_39_word_no_space_4 | doveribblastpark |  
+| bip_39_word_no_space_5 | doveribblastparkice |  
+| bip_39_word_no_space_6 | doveribblastparkicerate |  
+| bip_39_word_no_space_7 | doveribblastparkiceratelecture |  
+| bip_39_word_no_space_8 | doveribblastparkiceratelecturekeep |  
+| bip_39_word_no_space_9 | doveribblastparkiceratelecturekeepresource |  
 | bip_39_word_space_0 | ['dove', 'rib', 'blast', 'park', 'ice', 'rate', 'lecture', 'keep', 'resource', 'crowd', 'convince', 'adapt'] |  
 | bip_39_word_space_1 | dove |  
 | bip_39_word_space_10 | dove rib blast park ice rate lecture keep resource crowd |  

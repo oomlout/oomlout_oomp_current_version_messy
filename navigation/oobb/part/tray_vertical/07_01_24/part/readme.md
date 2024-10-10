@@ -122,6 +122,18 @@ govern
 uncover
 happy
 find |  
+| bip_39_word_no_space_1 | track |  
+| bip_39_word_no_space_10 | trackbelievealsoscienceranchgovernuncoverhappyfindbiology |  
+| bip_39_word_no_space_11 | trackbelievealsoscienceranchgovernuncoverhappyfindbiologyconduct |  
+| bip_39_word_no_space_12 | trackbelievealsoscienceranchgovernuncoverhappyfindbiologyconductadd |  
+| bip_39_word_no_space_2 | trackbelieve |  
+| bip_39_word_no_space_3 | trackbelievealso |  
+| bip_39_word_no_space_4 | trackbelievealsoscience |  
+| bip_39_word_no_space_5 | trackbelievealsoscienceranch |  
+| bip_39_word_no_space_6 | trackbelievealsoscienceranchgovern |  
+| bip_39_word_no_space_7 | trackbelievealsoscienceranchgovernuncover |  
+| bip_39_word_no_space_8 | trackbelievealsoscienceranchgovernuncoverhappy |  
+| bip_39_word_no_space_9 | trackbelievealsoscienceranchgovernuncoverhappyfind |  
 | bip_39_word_space_0 | ['track', 'believe', 'also', 'science', 'ranch', 'govern', 'uncover', 'happy', 'find', 'biology', 'conduct', 'add'] |  
 | bip_39_word_space_1 | track |  
 | bip_39_word_space_10 | track believe also science ranch govern uncover happy find biology |  

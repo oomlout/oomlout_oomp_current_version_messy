@@ -122,6 +122,18 @@ only
 beyond
 what
 next |  
+| bip_39_word_no_space_1 | since |  
+| bip_39_word_no_space_10 | sincedrumemotioncartprimaryonlybeyondwhatnextacross |  
+| bip_39_word_no_space_11 | sincedrumemotioncartprimaryonlybeyondwhatnextacrosspoem |  
+| bip_39_word_no_space_12 | sincedrumemotioncartprimaryonlybeyondwhatnextacrosspoemalcohol |  
+| bip_39_word_no_space_2 | sincedrum |  
+| bip_39_word_no_space_3 | sincedrumemotion |  
+| bip_39_word_no_space_4 | sincedrumemotioncart |  
+| bip_39_word_no_space_5 | sincedrumemotioncartprimary |  
+| bip_39_word_no_space_6 | sincedrumemotioncartprimaryonly |  
+| bip_39_word_no_space_7 | sincedrumemotioncartprimaryonlybeyond |  
+| bip_39_word_no_space_8 | sincedrumemotioncartprimaryonlybeyondwhat |  
+| bip_39_word_no_space_9 | sincedrumemotioncartprimaryonlybeyondwhatnext |  
 | bip_39_word_space_0 | ['since', 'drum', 'emotion', 'cart', 'primary', 'only', 'beyond', 'what', 'next', 'across', 'poem', 'alcohol'] |  
 | bip_39_word_space_1 | since |  
 | bip_39_word_space_10 | since drum emotion cart primary only beyond what next across |  

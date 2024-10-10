@@ -122,6 +122,18 @@ talk
 bid
 dynamic
 jeans |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectneckmiserybutterathletetalkbiddynamicjeansapple |  
+| bip_39_word_no_space_11 | perfectneckmiserybutterathletetalkbiddynamicjeansappleorgan |  
+| bip_39_word_no_space_12 | perfectneckmiserybutterathletetalkbiddynamicjeansappleorganaugust |  
+| bip_39_word_no_space_2 | perfectneck |  
+| bip_39_word_no_space_3 | perfectneckmisery |  
+| bip_39_word_no_space_4 | perfectneckmiserybutter |  
+| bip_39_word_no_space_5 | perfectneckmiserybutterathlete |  
+| bip_39_word_no_space_6 | perfectneckmiserybutterathletetalk |  
+| bip_39_word_no_space_7 | perfectneckmiserybutterathletetalkbid |  
+| bip_39_word_no_space_8 | perfectneckmiserybutterathletetalkbiddynamic |  
+| bip_39_word_no_space_9 | perfectneckmiserybutterathletetalkbiddynamicjeans |  
 | bip_39_word_space_0 | ['perfect', 'neck', 'misery', 'butter', 'athlete', 'talk', 'bid', 'dynamic', 'jeans', 'apple', 'organ', 'august'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect neck misery butter athlete talk bid dynamic jeans apple |  

@@ -122,6 +122,18 @@ imitate
 come
 tool
 divert |  
+| bip_39_word_no_space_1 | orange |  
+| bip_39_word_no_space_10 | orangepolewristsubjectpictureimitatecometooldivertfun |  
+| bip_39_word_no_space_11 | orangepolewristsubjectpictureimitatecometooldivertfunremind |  
+| bip_39_word_no_space_12 | orangepolewristsubjectpictureimitatecometooldivertfunremindathlete |  
+| bip_39_word_no_space_2 | orangepole |  
+| bip_39_word_no_space_3 | orangepolewrist |  
+| bip_39_word_no_space_4 | orangepolewristsubject |  
+| bip_39_word_no_space_5 | orangepolewristsubjectpicture |  
+| bip_39_word_no_space_6 | orangepolewristsubjectpictureimitate |  
+| bip_39_word_no_space_7 | orangepolewristsubjectpictureimitatecome |  
+| bip_39_word_no_space_8 | orangepolewristsubjectpictureimitatecometool |  
+| bip_39_word_no_space_9 | orangepolewristsubjectpictureimitatecometooldivert |  
 | bip_39_word_space_0 | ['orange', 'pole', 'wrist', 'subject', 'picture', 'imitate', 'come', 'tool', 'divert', 'fun', 'remind', 'athlete'] |  
 | bip_39_word_space_1 | orange |  
 | bip_39_word_space_10 | orange pole wrist subject picture imitate come tool divert fun |  

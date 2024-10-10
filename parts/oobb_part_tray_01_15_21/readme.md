@@ -122,6 +122,18 @@ barrel
 potato
 library
 taste |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshbracketshiveralsoportionbarrelpotatolibrarytastehat |  
+| bip_39_word_no_space_11 | freshbracketshiveralsoportionbarrelpotatolibrarytastehattiny |  
+| bip_39_word_no_space_12 | freshbracketshiveralsoportionbarrelpotatolibrarytastehattinyany |  
+| bip_39_word_no_space_2 | freshbracket |  
+| bip_39_word_no_space_3 | freshbracketshiver |  
+| bip_39_word_no_space_4 | freshbracketshiveralso |  
+| bip_39_word_no_space_5 | freshbracketshiveralsoportion |  
+| bip_39_word_no_space_6 | freshbracketshiveralsoportionbarrel |  
+| bip_39_word_no_space_7 | freshbracketshiveralsoportionbarrelpotato |  
+| bip_39_word_no_space_8 | freshbracketshiveralsoportionbarrelpotatolibrary |  
+| bip_39_word_no_space_9 | freshbracketshiveralsoportionbarrelpotatolibrarytaste |  
 | bip_39_word_space_0 | ['fresh', 'bracket', 'shiver', 'also', 'portion', 'barrel', 'potato', 'library', 'taste', 'hat', 'tiny', 'any'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh bracket shiver also portion barrel potato library taste hat |  

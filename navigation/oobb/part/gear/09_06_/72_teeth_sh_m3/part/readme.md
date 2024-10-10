@@ -122,6 +122,18 @@ physical
 culture
 crumble
 fun |  
+| bip_39_word_no_space_1 | doctor |  
+| bip_39_word_no_space_10 | doctorcruiseneedglueexhibitphysicalculturecrumblefuntank |  
+| bip_39_word_no_space_11 | doctorcruiseneedglueexhibitphysicalculturecrumblefuntankmountain |  
+| bip_39_word_no_space_12 | doctorcruiseneedglueexhibitphysicalculturecrumblefuntankmountainalpha |  
+| bip_39_word_no_space_2 | doctorcruise |  
+| bip_39_word_no_space_3 | doctorcruiseneed |  
+| bip_39_word_no_space_4 | doctorcruiseneedglue |  
+| bip_39_word_no_space_5 | doctorcruiseneedglueexhibit |  
+| bip_39_word_no_space_6 | doctorcruiseneedglueexhibitphysical |  
+| bip_39_word_no_space_7 | doctorcruiseneedglueexhibitphysicalculture |  
+| bip_39_word_no_space_8 | doctorcruiseneedglueexhibitphysicalculturecrumble |  
+| bip_39_word_no_space_9 | doctorcruiseneedglueexhibitphysicalculturecrumblefun |  
 | bip_39_word_space_0 | ['doctor', 'cruise', 'need', 'glue', 'exhibit', 'physical', 'culture', 'crumble', 'fun', 'tank', 'mountain', 'alpha'] |  
 | bip_39_word_space_1 | doctor |  
 | bip_39_word_space_10 | doctor cruise need glue exhibit physical culture crumble fun tank |  

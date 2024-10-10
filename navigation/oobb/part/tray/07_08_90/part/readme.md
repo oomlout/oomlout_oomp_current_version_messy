@@ -122,6 +122,18 @@ motor
 drip
 print
 detail |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playdrawmuffindressdemisemotordripprintdetailphone |  
+| bip_39_word_no_space_11 | playdrawmuffindressdemisemotordripprintdetailphonelounge |  
+| bip_39_word_no_space_12 | playdrawmuffindressdemisemotordripprintdetailphoneloungealone |  
+| bip_39_word_no_space_2 | playdraw |  
+| bip_39_word_no_space_3 | playdrawmuffin |  
+| bip_39_word_no_space_4 | playdrawmuffindress |  
+| bip_39_word_no_space_5 | playdrawmuffindressdemise |  
+| bip_39_word_no_space_6 | playdrawmuffindressdemisemotor |  
+| bip_39_word_no_space_7 | playdrawmuffindressdemisemotordrip |  
+| bip_39_word_no_space_8 | playdrawmuffindressdemisemotordripprint |  
+| bip_39_word_no_space_9 | playdrawmuffindressdemisemotordripprintdetail |  
 | bip_39_word_space_0 | ['play', 'draw', 'muffin', 'dress', 'demise', 'motor', 'drip', 'print', 'detail', 'phone', 'lounge', 'alone'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play draw muffin dress demise motor drip print detail phone |  

@@ -122,6 +122,18 @@ torch
 stamp
 alter
 champion |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomebasketsurroundstrongsnowtorchstampalterchampionbuddy |  
+| bip_39_word_no_space_11 | welcomebasketsurroundstrongsnowtorchstampalterchampionbuddytopple |  
+| bip_39_word_no_space_12 | welcomebasketsurroundstrongsnowtorchstampalterchampionbuddytopplearrow |  
+| bip_39_word_no_space_2 | welcomebasket |  
+| bip_39_word_no_space_3 | welcomebasketsurround |  
+| bip_39_word_no_space_4 | welcomebasketsurroundstrong |  
+| bip_39_word_no_space_5 | welcomebasketsurroundstrongsnow |  
+| bip_39_word_no_space_6 | welcomebasketsurroundstrongsnowtorch |  
+| bip_39_word_no_space_7 | welcomebasketsurroundstrongsnowtorchstamp |  
+| bip_39_word_no_space_8 | welcomebasketsurroundstrongsnowtorchstampalter |  
+| bip_39_word_no_space_9 | welcomebasketsurroundstrongsnowtorchstampalterchampion |  
 | bip_39_word_space_0 | ['welcome', 'basket', 'surround', 'strong', 'snow', 'torch', 'stamp', 'alter', 'champion', 'buddy', 'topple', 'arrow'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome basket surround strong snow torch stamp alter champion buddy |  

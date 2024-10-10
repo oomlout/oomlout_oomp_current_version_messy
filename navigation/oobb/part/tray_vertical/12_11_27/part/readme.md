@@ -122,6 +122,18 @@ fit
 opera
 saddle
 resist |  
+| bip_39_word_no_space_1 | hour |  
+| bip_39_word_no_space_10 | hourfiscaladaptvastriskfitoperasaddleresistthis |  
+| bip_39_word_no_space_11 | hourfiscaladaptvastriskfitoperasaddleresistthisgroup |  
+| bip_39_word_no_space_12 | hourfiscaladaptvastriskfitoperasaddleresistthisgrouparena |  
+| bip_39_word_no_space_2 | hourfiscal |  
+| bip_39_word_no_space_3 | hourfiscaladapt |  
+| bip_39_word_no_space_4 | hourfiscaladaptvast |  
+| bip_39_word_no_space_5 | hourfiscaladaptvastrisk |  
+| bip_39_word_no_space_6 | hourfiscaladaptvastriskfit |  
+| bip_39_word_no_space_7 | hourfiscaladaptvastriskfitopera |  
+| bip_39_word_no_space_8 | hourfiscaladaptvastriskfitoperasaddle |  
+| bip_39_word_no_space_9 | hourfiscaladaptvastriskfitoperasaddleresist |  
 | bip_39_word_space_0 | ['hour', 'fiscal', 'adapt', 'vast', 'risk', 'fit', 'opera', 'saddle', 'resist', 'this', 'group', 'arena'] |  
 | bip_39_word_space_1 | hour |  
 | bip_39_word_space_10 | hour fiscal adapt vast risk fit opera saddle resist this |  

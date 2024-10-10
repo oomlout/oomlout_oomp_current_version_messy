@@ -122,6 +122,18 @@ later
 have
 earth
 upper |  
+| bip_39_word_no_space_1 | upset |  
+| bip_39_word_no_space_10 | upsetgruntitemenablebroomlaterhaveearthupperelder |  
+| bip_39_word_no_space_11 | upsetgruntitemenablebroomlaterhaveearthupperelderaunt |  
+| bip_39_word_no_space_12 | upsetgruntitemenablebroomlaterhaveearthupperelderauntalarm |  
+| bip_39_word_no_space_2 | upsetgrunt |  
+| bip_39_word_no_space_3 | upsetgruntitem |  
+| bip_39_word_no_space_4 | upsetgruntitemenable |  
+| bip_39_word_no_space_5 | upsetgruntitemenablebroom |  
+| bip_39_word_no_space_6 | upsetgruntitemenablebroomlater |  
+| bip_39_word_no_space_7 | upsetgruntitemenablebroomlaterhave |  
+| bip_39_word_no_space_8 | upsetgruntitemenablebroomlaterhaveearth |  
+| bip_39_word_no_space_9 | upsetgruntitemenablebroomlaterhaveearthupper |  
 | bip_39_word_space_0 | ['upset', 'grunt', 'item', 'enable', 'broom', 'later', 'have', 'earth', 'upper', 'elder', 'aunt', 'alarm'] |  
 | bip_39_word_space_1 | upset |  
 | bip_39_word_space_10 | upset grunt item enable broom later have earth upper elder |  

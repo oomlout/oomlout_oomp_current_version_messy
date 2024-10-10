@@ -122,6 +122,18 @@ pair
 pull
 onion
 plug |  
+| bip_39_word_no_space_1 | jump |  
+| bip_39_word_no_space_10 | jumpfashionweekendtripmaidpairpullonionplugborrow |  
+| bip_39_word_no_space_11 | jumpfashionweekendtripmaidpairpullonionplugborrowspoon |  
+| bip_39_word_no_space_12 | jumpfashionweekendtripmaidpairpullonionplugborrowspoonahead |  
+| bip_39_word_no_space_2 | jumpfashion |  
+| bip_39_word_no_space_3 | jumpfashionweekend |  
+| bip_39_word_no_space_4 | jumpfashionweekendtrip |  
+| bip_39_word_no_space_5 | jumpfashionweekendtripmaid |  
+| bip_39_word_no_space_6 | jumpfashionweekendtripmaidpair |  
+| bip_39_word_no_space_7 | jumpfashionweekendtripmaidpairpull |  
+| bip_39_word_no_space_8 | jumpfashionweekendtripmaidpairpullonion |  
+| bip_39_word_no_space_9 | jumpfashionweekendtripmaidpairpullonionplug |  
 | bip_39_word_space_0 | ['jump', 'fashion', 'weekend', 'trip', 'maid', 'pair', 'pull', 'onion', 'plug', 'borrow', 'spoon', 'ahead'] |  
 | bip_39_word_space_1 | jump |  
 | bip_39_word_space_10 | jump fashion weekend trip maid pair pull onion plug borrow |  

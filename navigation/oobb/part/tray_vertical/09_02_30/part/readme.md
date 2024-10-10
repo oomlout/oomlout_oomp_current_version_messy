@@ -122,6 +122,18 @@ divide
 town
 mix
 priority |  
+| bip_39_word_no_space_1 | sponsor |  
+| bip_39_word_no_space_10 | sponsorgoathobbybetweenbronzedividetownmixprioritytortoise |  
+| bip_39_word_no_space_11 | sponsorgoathobbybetweenbronzedividetownmixprioritytortoisemixed |  
+| bip_39_word_no_space_12 | sponsorgoathobbybetweenbronzedividetownmixprioritytortoisemixedarmy |  
+| bip_39_word_no_space_2 | sponsorgoat |  
+| bip_39_word_no_space_3 | sponsorgoathobby |  
+| bip_39_word_no_space_4 | sponsorgoathobbybetween |  
+| bip_39_word_no_space_5 | sponsorgoathobbybetweenbronze |  
+| bip_39_word_no_space_6 | sponsorgoathobbybetweenbronzedivide |  
+| bip_39_word_no_space_7 | sponsorgoathobbybetweenbronzedividetown |  
+| bip_39_word_no_space_8 | sponsorgoathobbybetweenbronzedividetownmix |  
+| bip_39_word_no_space_9 | sponsorgoathobbybetweenbronzedividetownmixpriority |  
 | bip_39_word_space_0 | ['sponsor', 'goat', 'hobby', 'between', 'bronze', 'divide', 'town', 'mix', 'priority', 'tortoise', 'mixed', 'army'] |  
 | bip_39_word_space_1 | sponsor |  
 | bip_39_word_space_10 | sponsor goat hobby between bronze divide town mix priority tortoise |  

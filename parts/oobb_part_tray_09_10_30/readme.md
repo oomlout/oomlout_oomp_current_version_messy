@@ -122,6 +122,18 @@ abstract
 tomato
 approve
 sell |  
+| bip_39_word_no_space_1 | struggle |  
+| bip_39_word_no_space_10 | strugglehorsewiretoddlerthereabstracttomatoapprovesellcoast |  
+| bip_39_word_no_space_11 | strugglehorsewiretoddlerthereabstracttomatoapprovesellcoastunfair |  
+| bip_39_word_no_space_12 | strugglehorsewiretoddlerthereabstracttomatoapprovesellcoastunfairadvice |  
+| bip_39_word_no_space_2 | strugglehorse |  
+| bip_39_word_no_space_3 | strugglehorsewire |  
+| bip_39_word_no_space_4 | strugglehorsewiretoddler |  
+| bip_39_word_no_space_5 | strugglehorsewiretoddlerthere |  
+| bip_39_word_no_space_6 | strugglehorsewiretoddlerthereabstract |  
+| bip_39_word_no_space_7 | strugglehorsewiretoddlerthereabstracttomato |  
+| bip_39_word_no_space_8 | strugglehorsewiretoddlerthereabstracttomatoapprove |  
+| bip_39_word_no_space_9 | strugglehorsewiretoddlerthereabstracttomatoapprovesell |  
 | bip_39_word_space_0 | ['struggle', 'horse', 'wire', 'toddler', 'there', 'abstract', 'tomato', 'approve', 'sell', 'coast', 'unfair', 'advice'] |  
 | bip_39_word_space_1 | struggle |  
 | bip_39_word_space_10 | struggle horse wire toddler there abstract tomato approve sell coast |  

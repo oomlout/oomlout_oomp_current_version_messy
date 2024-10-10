@@ -122,6 +122,18 @@ fee
 account
 control
 include |  
+| bip_39_word_no_space_1 | more |  
+| bip_39_word_no_space_10 | moreribbonphonenervegritfeeaccountcontrolincludecanoe |  
+| bip_39_word_no_space_11 | moreribbonphonenervegritfeeaccountcontrolincludecanoegovern |  
+| bip_39_word_no_space_12 | moreribbonphonenervegritfeeaccountcontrolincludecanoegovernanxiety |  
+| bip_39_word_no_space_2 | moreribbon |  
+| bip_39_word_no_space_3 | moreribbonphone |  
+| bip_39_word_no_space_4 | moreribbonphonenerve |  
+| bip_39_word_no_space_5 | moreribbonphonenervegrit |  
+| bip_39_word_no_space_6 | moreribbonphonenervegritfee |  
+| bip_39_word_no_space_7 | moreribbonphonenervegritfeeaccount |  
+| bip_39_word_no_space_8 | moreribbonphonenervegritfeeaccountcontrol |  
+| bip_39_word_no_space_9 | moreribbonphonenervegritfeeaccountcontrolinclude |  
 | bip_39_word_space_0 | ['more', 'ribbon', 'phone', 'nerve', 'grit', 'fee', 'account', 'control', 'include', 'canoe', 'govern', 'anxiety'] |  
 | bip_39_word_space_1 | more |  
 | bip_39_word_space_10 | more ribbon phone nerve grit fee account control include canoe |  

@@ -122,6 +122,18 @@ lawn
 jungle
 control
 welcome |  
+| bip_39_word_no_space_1 | have |  
+| bip_39_word_no_space_10 | haveleftstampkiwititlelawnjunglecontrolwelcomegrace |  
+| bip_39_word_no_space_11 | haveleftstampkiwititlelawnjunglecontrolwelcomegraceimprove |  
+| bip_39_word_no_space_12 | haveleftstampkiwititlelawnjunglecontrolwelcomegraceimproveanalyst |  
+| bip_39_word_no_space_2 | haveleft |  
+| bip_39_word_no_space_3 | haveleftstamp |  
+| bip_39_word_no_space_4 | haveleftstampkiwi |  
+| bip_39_word_no_space_5 | haveleftstampkiwititle |  
+| bip_39_word_no_space_6 | haveleftstampkiwititlelawn |  
+| bip_39_word_no_space_7 | haveleftstampkiwititlelawnjungle |  
+| bip_39_word_no_space_8 | haveleftstampkiwititlelawnjunglecontrol |  
+| bip_39_word_no_space_9 | haveleftstampkiwititlelawnjunglecontrolwelcome |  
 | bip_39_word_space_0 | ['have', 'left', 'stamp', 'kiwi', 'title', 'lawn', 'jungle', 'control', 'welcome', 'grace', 'improve', 'analyst'] |  
 | bip_39_word_space_1 | have |  
 | bip_39_word_space_10 | have left stamp kiwi title lawn jungle control welcome grace |  

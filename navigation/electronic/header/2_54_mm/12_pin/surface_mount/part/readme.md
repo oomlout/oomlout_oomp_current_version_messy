@@ -122,6 +122,18 @@ web
 screen
 waste
 skirt |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragicgaugecoiltitleyearwebscreenwasteskirttobacco |  
+| bip_39_word_no_space_11 | tragicgaugecoiltitleyearwebscreenwasteskirttobaccosurface |  
+| bip_39_word_no_space_12 | tragicgaugecoiltitleyearwebscreenwasteskirttobaccosurfaceautumn |  
+| bip_39_word_no_space_2 | tragicgauge |  
+| bip_39_word_no_space_3 | tragicgaugecoil |  
+| bip_39_word_no_space_4 | tragicgaugecoiltitle |  
+| bip_39_word_no_space_5 | tragicgaugecoiltitleyear |  
+| bip_39_word_no_space_6 | tragicgaugecoiltitleyearweb |  
+| bip_39_word_no_space_7 | tragicgaugecoiltitleyearwebscreen |  
+| bip_39_word_no_space_8 | tragicgaugecoiltitleyearwebscreenwaste |  
+| bip_39_word_no_space_9 | tragicgaugecoiltitleyearwebscreenwasteskirt |  
 | bip_39_word_space_0 | ['tragic', 'gauge', 'coil', 'title', 'year', 'web', 'screen', 'waste', 'skirt', 'tobacco', 'surface', 'autumn'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic gauge coil title year web screen waste skirt tobacco |  

@@ -122,6 +122,18 @@ submit
 increase
 hub
 sting |  
+| bip_39_word_no_space_1 | retire |  
+| bip_39_word_no_space_10 | retirefaithsurestoryallowsubmitincreasehubstingmodify |  
+| bip_39_word_no_space_11 | retirefaithsurestoryallowsubmitincreasehubstingmodifymixture |  
+| bip_39_word_no_space_12 | retirefaithsurestoryallowsubmitincreasehubstingmodifymixtureapprove |  
+| bip_39_word_no_space_2 | retirefaith |  
+| bip_39_word_no_space_3 | retirefaithsure |  
+| bip_39_word_no_space_4 | retirefaithsurestory |  
+| bip_39_word_no_space_5 | retirefaithsurestoryallow |  
+| bip_39_word_no_space_6 | retirefaithsurestoryallowsubmit |  
+| bip_39_word_no_space_7 | retirefaithsurestoryallowsubmitincrease |  
+| bip_39_word_no_space_8 | retirefaithsurestoryallowsubmitincreasehub |  
+| bip_39_word_no_space_9 | retirefaithsurestoryallowsubmitincreasehubsting |  
 | bip_39_word_space_0 | ['retire', 'faith', 'sure', 'story', 'allow', 'submit', 'increase', 'hub', 'sting', 'modify', 'mixture', 'approve'] |  
 | bip_39_word_space_1 | retire |  
 | bip_39_word_space_10 | retire faith sure story allow submit increase hub sting modify |  

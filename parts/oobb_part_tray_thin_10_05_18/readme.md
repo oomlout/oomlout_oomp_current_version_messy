@@ -122,6 +122,18 @@ reward
 spend
 region
 vital |  
+| bip_39_word_no_space_1 | refuse |  
+| bip_39_word_no_space_10 | refuseartworkcoincanraiserewardspendregionvitalsiege |  
+| bip_39_word_no_space_11 | refuseartworkcoincanraiserewardspendregionvitalsiegetarget |  
+| bip_39_word_no_space_12 | refuseartworkcoincanraiserewardspendregionvitalsiegetargetaddict |  
+| bip_39_word_no_space_2 | refuseartwork |  
+| bip_39_word_no_space_3 | refuseartworkcoin |  
+| bip_39_word_no_space_4 | refuseartworkcoincan |  
+| bip_39_word_no_space_5 | refuseartworkcoincanraise |  
+| bip_39_word_no_space_6 | refuseartworkcoincanraisereward |  
+| bip_39_word_no_space_7 | refuseartworkcoincanraiserewardspend |  
+| bip_39_word_no_space_8 | refuseartworkcoincanraiserewardspendregion |  
+| bip_39_word_no_space_9 | refuseartworkcoincanraiserewardspendregionvital |  
 | bip_39_word_space_0 | ['refuse', 'artwork', 'coin', 'can', 'raise', 'reward', 'spend', 'region', 'vital', 'siege', 'target', 'addict'] |  
 | bip_39_word_space_1 | refuse |  
 | bip_39_word_space_10 | refuse artwork coin can raise reward spend region vital siege |  

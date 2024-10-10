@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'nurse
   since
 
   attract'
+bip_39_word_no_space_1: nurse
+bip_39_word_no_space_10: nursegapcrackloadtruepepperworksinceattractcheck
+bip_39_word_no_space_11: nursegapcrackloadtruepepperworksinceattractcheckturn
+bip_39_word_no_space_12: nursegapcrackloadtruepepperworksinceattractcheckturnanother
+bip_39_word_no_space_2: nursegap
+bip_39_word_no_space_3: nursegapcrack
+bip_39_word_no_space_4: nursegapcrackload
+bip_39_word_no_space_5: nursegapcrackloadtrue
+bip_39_word_no_space_6: nursegapcrackloadtruepepper
+bip_39_word_no_space_7: nursegapcrackloadtruepepperwork
+bip_39_word_no_space_8: nursegapcrackloadtruepepperworksince
+bip_39_word_no_space_9: nursegapcrackloadtruepepperworksinceattract
 bip_39_word_space_0:
 - nurse
 - gap

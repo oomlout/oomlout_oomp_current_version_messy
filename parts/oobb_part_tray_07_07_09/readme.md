@@ -122,6 +122,18 @@ such
 pilot
 nominee
 shove |  
+| bip_39_word_no_space_1 | harvest |  
+| bip_39_word_no_space_10 | harvestdwarfdocumentwasplegsuchpilotnomineeshovehalf |  
+| bip_39_word_no_space_11 | harvestdwarfdocumentwasplegsuchpilotnomineeshovehalfrace |  
+| bip_39_word_no_space_12 | harvestdwarfdocumentwasplegsuchpilotnomineeshovehalfraceattitude |  
+| bip_39_word_no_space_2 | harvestdwarf |  
+| bip_39_word_no_space_3 | harvestdwarfdocument |  
+| bip_39_word_no_space_4 | harvestdwarfdocumentwasp |  
+| bip_39_word_no_space_5 | harvestdwarfdocumentwaspleg |  
+| bip_39_word_no_space_6 | harvestdwarfdocumentwasplegsuch |  
+| bip_39_word_no_space_7 | harvestdwarfdocumentwasplegsuchpilot |  
+| bip_39_word_no_space_8 | harvestdwarfdocumentwasplegsuchpilotnominee |  
+| bip_39_word_no_space_9 | harvestdwarfdocumentwasplegsuchpilotnomineeshove |  
 | bip_39_word_space_0 | ['harvest', 'dwarf', 'document', 'wasp', 'leg', 'such', 'pilot', 'nominee', 'shove', 'half', 'race', 'attitude'] |  
 | bip_39_word_space_1 | harvest |  
 | bip_39_word_space_10 | harvest dwarf document wasp leg such pilot nominee shove half |  

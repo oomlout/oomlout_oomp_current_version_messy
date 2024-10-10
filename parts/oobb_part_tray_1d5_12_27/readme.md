@@ -122,6 +122,18 @@ draft
 crew
 stomach
 have |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagesoccerdanceusualsalmondraftcrewstomachhavecabin |  
+| bip_39_word_no_space_11 | vintagesoccerdanceusualsalmondraftcrewstomachhavecabincarry |  
+| bip_39_word_no_space_12 | vintagesoccerdanceusualsalmondraftcrewstomachhavecabincarryattitude |  
+| bip_39_word_no_space_2 | vintagesoccer |  
+| bip_39_word_no_space_3 | vintagesoccerdance |  
+| bip_39_word_no_space_4 | vintagesoccerdanceusual |  
+| bip_39_word_no_space_5 | vintagesoccerdanceusualsalmon |  
+| bip_39_word_no_space_6 | vintagesoccerdanceusualsalmondraft |  
+| bip_39_word_no_space_7 | vintagesoccerdanceusualsalmondraftcrew |  
+| bip_39_word_no_space_8 | vintagesoccerdanceusualsalmondraftcrewstomach |  
+| bip_39_word_no_space_9 | vintagesoccerdanceusualsalmondraftcrewstomachhave |  
 | bip_39_word_space_0 | ['vintage', 'soccer', 'dance', 'usual', 'salmon', 'draft', 'crew', 'stomach', 'have', 'cabin', 'carry', 'attitude'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage soccer dance usual salmon draft crew stomach have cabin |  

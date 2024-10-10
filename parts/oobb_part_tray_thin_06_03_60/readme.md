@@ -122,6 +122,18 @@ suffer
 opera
 cart
 muffin |  
+| bip_39_word_no_space_1 | disorder |  
+| bip_39_word_no_space_10 | disordercreditfunthoughtjumpsufferoperacartmuffinbenefit |  
+| bip_39_word_no_space_11 | disordercreditfunthoughtjumpsufferoperacartmuffinbenefitsuffer |  
+| bip_39_word_no_space_12 | disordercreditfunthoughtjumpsufferoperacartmuffinbenefitsufferanimal |  
+| bip_39_word_no_space_2 | disordercredit |  
+| bip_39_word_no_space_3 | disordercreditfun |  
+| bip_39_word_no_space_4 | disordercreditfunthought |  
+| bip_39_word_no_space_5 | disordercreditfunthoughtjump |  
+| bip_39_word_no_space_6 | disordercreditfunthoughtjumpsuffer |  
+| bip_39_word_no_space_7 | disordercreditfunthoughtjumpsufferopera |  
+| bip_39_word_no_space_8 | disordercreditfunthoughtjumpsufferoperacart |  
+| bip_39_word_no_space_9 | disordercreditfunthoughtjumpsufferoperacartmuffin |  
 | bip_39_word_space_0 | ['disorder', 'credit', 'fun', 'thought', 'jump', 'suffer', 'opera', 'cart', 'muffin', 'benefit', 'suffer', 'animal'] |  
 | bip_39_word_space_1 | disorder |  
 | bip_39_word_space_10 | disorder credit fun thought jump suffer opera cart muffin benefit |  

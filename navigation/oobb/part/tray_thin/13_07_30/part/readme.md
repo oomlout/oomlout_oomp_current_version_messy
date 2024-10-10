@@ -122,6 +122,18 @@ fox
 scatter
 attend
 empower |  
+| bip_39_word_no_space_1 | core |  
+| bip_39_word_no_space_10 | coresocialhamstertunapiecefoxscatterattendempowermushroom |  
+| bip_39_word_no_space_11 | coresocialhamstertunapiecefoxscatterattendempowermushroombrand |  
+| bip_39_word_no_space_12 | coresocialhamstertunapiecefoxscatterattendempowermushroombrandairport |  
+| bip_39_word_no_space_2 | coresocial |  
+| bip_39_word_no_space_3 | coresocialhamster |  
+| bip_39_word_no_space_4 | coresocialhamstertuna |  
+| bip_39_word_no_space_5 | coresocialhamstertunapiece |  
+| bip_39_word_no_space_6 | coresocialhamstertunapiecefox |  
+| bip_39_word_no_space_7 | coresocialhamstertunapiecefoxscatter |  
+| bip_39_word_no_space_8 | coresocialhamstertunapiecefoxscatterattend |  
+| bip_39_word_no_space_9 | coresocialhamstertunapiecefoxscatterattendempower |  
 | bip_39_word_space_0 | ['core', 'social', 'hamster', 'tuna', 'piece', 'fox', 'scatter', 'attend', 'empower', 'mushroom', 'brand', 'airport'] |  
 | bip_39_word_space_1 | core |  
 | bip_39_word_space_10 | core social hamster tuna piece fox scatter attend empower mushroom |  

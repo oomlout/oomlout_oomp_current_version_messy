@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'load
   opera
 
   pet'
+bip_39_word_no_space_1: load
+bip_39_word_no_space_10: loadostrichrainoctobertypicalavoidenergyoperapetfirm
+bip_39_word_no_space_11: loadostrichrainoctobertypicalavoidenergyoperapetfirmoff
+bip_39_word_no_space_12: loadostrichrainoctobertypicalavoidenergyoperapetfirmoffaudit
+bip_39_word_no_space_2: loadostrich
+bip_39_word_no_space_3: loadostrichrain
+bip_39_word_no_space_4: loadostrichrainoctober
+bip_39_word_no_space_5: loadostrichrainoctobertypical
+bip_39_word_no_space_6: loadostrichrainoctobertypicalavoid
+bip_39_word_no_space_7: loadostrichrainoctobertypicalavoidenergy
+bip_39_word_no_space_8: loadostrichrainoctobertypicalavoidenergyopera
+bip_39_word_no_space_9: loadostrichrainoctobertypicalavoidenergyoperapet
 bip_39_word_space_0:
 - load
 - ostrich

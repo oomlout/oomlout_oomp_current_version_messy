@@ -122,6 +122,18 @@ eager
 total
 install
 upset |  
+| bip_39_word_no_space_1 | shuffle |  
+| bip_39_word_no_space_10 | shufflewisdomhelmetelbowmoraleagertotalinstallupsettone |  
+| bip_39_word_no_space_11 | shufflewisdomhelmetelbowmoraleagertotalinstallupsettonearm |  
+| bip_39_word_no_space_12 | shufflewisdomhelmetelbowmoraleagertotalinstallupsettonearmactress |  
+| bip_39_word_no_space_2 | shufflewisdom |  
+| bip_39_word_no_space_3 | shufflewisdomhelmet |  
+| bip_39_word_no_space_4 | shufflewisdomhelmetelbow |  
+| bip_39_word_no_space_5 | shufflewisdomhelmetelbowmoral |  
+| bip_39_word_no_space_6 | shufflewisdomhelmetelbowmoraleager |  
+| bip_39_word_no_space_7 | shufflewisdomhelmetelbowmoraleagertotal |  
+| bip_39_word_no_space_8 | shufflewisdomhelmetelbowmoraleagertotalinstall |  
+| bip_39_word_no_space_9 | shufflewisdomhelmetelbowmoraleagertotalinstallupset |  
 | bip_39_word_space_0 | ['shuffle', 'wisdom', 'helmet', 'elbow', 'moral', 'eager', 'total', 'install', 'upset', 'tone', 'arm', 'actress'] |  
 | bip_39_word_space_1 | shuffle |  
 | bip_39_word_space_10 | shuffle wisdom helmet elbow moral eager total install upset tone |  

@@ -122,6 +122,18 @@ exercise
 inner
 nominee
 image |  
+| bip_39_word_no_space_1 | seek |  
+| bip_39_word_no_space_10 | seekallcricketexamplerhythmexerciseinnernomineeimagelock |  
+| bip_39_word_no_space_11 | seekallcricketexamplerhythmexerciseinnernomineeimagelocksegment |  
+| bip_39_word_no_space_12 | seekallcricketexamplerhythmexerciseinnernomineeimagelocksegmentarch |  
+| bip_39_word_no_space_2 | seekall |  
+| bip_39_word_no_space_3 | seekallcricket |  
+| bip_39_word_no_space_4 | seekallcricketexample |  
+| bip_39_word_no_space_5 | seekallcricketexamplerhythm |  
+| bip_39_word_no_space_6 | seekallcricketexamplerhythmexercise |  
+| bip_39_word_no_space_7 | seekallcricketexamplerhythmexerciseinner |  
+| bip_39_word_no_space_8 | seekallcricketexamplerhythmexerciseinnernominee |  
+| bip_39_word_no_space_9 | seekallcricketexamplerhythmexerciseinnernomineeimage |  
 | bip_39_word_space_0 | ['seek', 'all', 'cricket', 'example', 'rhythm', 'exercise', 'inner', 'nominee', 'image', 'lock', 'segment', 'arch'] |  
 | bip_39_word_space_1 | seek |  
 | bip_39_word_space_10 | seek all cricket example rhythm exercise inner nominee image lock |  

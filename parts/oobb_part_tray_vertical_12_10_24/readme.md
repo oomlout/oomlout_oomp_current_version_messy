@@ -122,6 +122,18 @@ warfare
 arctic
 attack
 skin |  
+| bip_39_word_no_space_1 | first |  
+| bip_39_word_no_space_10 | firstpioneerwordthoughtvoicewarfarearcticattackskintiny |  
+| bip_39_word_no_space_11 | firstpioneerwordthoughtvoicewarfarearcticattackskintinysun |  
+| bip_39_word_no_space_12 | firstpioneerwordthoughtvoicewarfarearcticattackskintinysunafford |  
+| bip_39_word_no_space_2 | firstpioneer |  
+| bip_39_word_no_space_3 | firstpioneerword |  
+| bip_39_word_no_space_4 | firstpioneerwordthought |  
+| bip_39_word_no_space_5 | firstpioneerwordthoughtvoice |  
+| bip_39_word_no_space_6 | firstpioneerwordthoughtvoicewarfare |  
+| bip_39_word_no_space_7 | firstpioneerwordthoughtvoicewarfarearctic |  
+| bip_39_word_no_space_8 | firstpioneerwordthoughtvoicewarfarearcticattack |  
+| bip_39_word_no_space_9 | firstpioneerwordthoughtvoicewarfarearcticattackskin |  
 | bip_39_word_space_0 | ['first', 'pioneer', 'word', 'thought', 'voice', 'warfare', 'arctic', 'attack', 'skin', 'tiny', 'sun', 'afford'] |  
 | bip_39_word_space_1 | first |  
 | bip_39_word_space_10 | first pioneer word thought voice warfare arctic attack skin tiny |  

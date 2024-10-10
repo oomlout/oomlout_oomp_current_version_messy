@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dirt
   word
 
   there'
+bip_39_word_no_space_1: dirt
+bip_39_word_no_space_10: dirtgruntreplacewhipjealouspleaseupgradewordtherewest
+bip_39_word_no_space_11: dirtgruntreplacewhipjealouspleaseupgradewordtherewestcheap
+bip_39_word_no_space_12: dirtgruntreplacewhipjealouspleaseupgradewordtherewestcheapalert
+bip_39_word_no_space_2: dirtgrunt
+bip_39_word_no_space_3: dirtgruntreplace
+bip_39_word_no_space_4: dirtgruntreplacewhip
+bip_39_word_no_space_5: dirtgruntreplacewhipjealous
+bip_39_word_no_space_6: dirtgruntreplacewhipjealousplease
+bip_39_word_no_space_7: dirtgruntreplacewhipjealouspleaseupgrade
+bip_39_word_no_space_8: dirtgruntreplacewhipjealouspleaseupgradeword
+bip_39_word_no_space_9: dirtgruntreplacewhipjealouspleaseupgradewordthere
 bip_39_word_space_0:
 - dirt
 - grunt

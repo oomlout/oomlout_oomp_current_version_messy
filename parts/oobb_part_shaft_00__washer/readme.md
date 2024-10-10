@@ -122,6 +122,18 @@ knock
 daughter
 lobster
 menu |  
+| bip_39_word_no_space_1 | walk |  
+| bip_39_word_no_space_10 | walkstampcampenablesegmentknockdaughterlobstermenuman |  
+| bip_39_word_no_space_11 | walkstampcampenablesegmentknockdaughterlobstermenumanelement |  
+| bip_39_word_no_space_12 | walkstampcampenablesegmentknockdaughterlobstermenumanelementathlete |  
+| bip_39_word_no_space_2 | walkstamp |  
+| bip_39_word_no_space_3 | walkstampcamp |  
+| bip_39_word_no_space_4 | walkstampcampenable |  
+| bip_39_word_no_space_5 | walkstampcampenablesegment |  
+| bip_39_word_no_space_6 | walkstampcampenablesegmentknock |  
+| bip_39_word_no_space_7 | walkstampcampenablesegmentknockdaughter |  
+| bip_39_word_no_space_8 | walkstampcampenablesegmentknockdaughterlobster |  
+| bip_39_word_no_space_9 | walkstampcampenablesegmentknockdaughterlobstermenu |  
 | bip_39_word_space_0 | ['walk', 'stamp', 'camp', 'enable', 'segment', 'knock', 'daughter', 'lobster', 'menu', 'man', 'element', 'athlete'] |  
 | bip_39_word_space_1 | walk |  
 | bip_39_word_space_10 | walk stamp camp enable segment knock daughter lobster menu man |  

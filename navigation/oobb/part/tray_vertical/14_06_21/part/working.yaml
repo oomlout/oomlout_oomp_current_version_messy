@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'doll
   alarm
 
   elbow'
+bip_39_word_no_space_1: doll
+bip_39_word_no_space_10: dollskirtownercrystalguardslimivoryalarmelbowwelcome
+bip_39_word_no_space_11: dollskirtownercrystalguardslimivoryalarmelbowwelcomeawake
+bip_39_word_no_space_12: dollskirtownercrystalguardslimivoryalarmelbowwelcomeawakeamount
+bip_39_word_no_space_2: dollskirt
+bip_39_word_no_space_3: dollskirtowner
+bip_39_word_no_space_4: dollskirtownercrystal
+bip_39_word_no_space_5: dollskirtownercrystalguard
+bip_39_word_no_space_6: dollskirtownercrystalguardslim
+bip_39_word_no_space_7: dollskirtownercrystalguardslimivory
+bip_39_word_no_space_8: dollskirtownercrystalguardslimivoryalarm
+bip_39_word_no_space_9: dollskirtownercrystalguardslimivoryalarmelbow
 bip_39_word_space_0:
 - doll
 - skirt

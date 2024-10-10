@@ -122,6 +122,18 @@ finish
 erupt
 dad
 first |  
+| bip_39_word_no_space_1 | clever |  
+| bip_39_word_no_space_10 | clevernetworkringchairsurveyfinisheruptdadfirstcloud |  
+| bip_39_word_no_space_11 | clevernetworkringchairsurveyfinisheruptdadfirstcloudtrack |  
+| bip_39_word_no_space_12 | clevernetworkringchairsurveyfinisheruptdadfirstcloudtrackapprove |  
+| bip_39_word_no_space_2 | clevernetwork |  
+| bip_39_word_no_space_3 | clevernetworkring |  
+| bip_39_word_no_space_4 | clevernetworkringchair |  
+| bip_39_word_no_space_5 | clevernetworkringchairsurvey |  
+| bip_39_word_no_space_6 | clevernetworkringchairsurveyfinish |  
+| bip_39_word_no_space_7 | clevernetworkringchairsurveyfinisherupt |  
+| bip_39_word_no_space_8 | clevernetworkringchairsurveyfinisheruptdad |  
+| bip_39_word_no_space_9 | clevernetworkringchairsurveyfinisheruptdadfirst |  
 | bip_39_word_space_0 | ['clever', 'network', 'ring', 'chair', 'survey', 'finish', 'erupt', 'dad', 'first', 'cloud', 'track', 'approve'] |  
 | bip_39_word_space_1 | clever |  
 | bip_39_word_space_10 | clever network ring chair survey finish erupt dad first cloud |  

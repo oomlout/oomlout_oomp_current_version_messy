@@ -122,6 +122,18 @@ head
 about
 puzzle
 edge |  
+| bip_39_word_no_space_1 | luxury |  
+| bip_39_word_no_space_10 | luxuryrecordwrapgarlicdefyheadaboutpuzzleedgediagram |  
+| bip_39_word_no_space_11 | luxuryrecordwrapgarlicdefyheadaboutpuzzleedgediagramclump |  
+| bip_39_word_no_space_12 | luxuryrecordwrapgarlicdefyheadaboutpuzzleedgediagramclumpamong |  
+| bip_39_word_no_space_2 | luxuryrecord |  
+| bip_39_word_no_space_3 | luxuryrecordwrap |  
+| bip_39_word_no_space_4 | luxuryrecordwrapgarlic |  
+| bip_39_word_no_space_5 | luxuryrecordwrapgarlicdefy |  
+| bip_39_word_no_space_6 | luxuryrecordwrapgarlicdefyhead |  
+| bip_39_word_no_space_7 | luxuryrecordwrapgarlicdefyheadabout |  
+| bip_39_word_no_space_8 | luxuryrecordwrapgarlicdefyheadaboutpuzzle |  
+| bip_39_word_no_space_9 | luxuryrecordwrapgarlicdefyheadaboutpuzzleedge |  
 | bip_39_word_space_0 | ['luxury', 'record', 'wrap', 'garlic', 'defy', 'head', 'about', 'puzzle', 'edge', 'diagram', 'clump', 'among'] |  
 | bip_39_word_space_1 | luxury |  
 | bip_39_word_space_10 | luxury record wrap garlic defy head about puzzle edge diagram |  

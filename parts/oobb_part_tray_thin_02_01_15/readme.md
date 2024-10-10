@@ -122,6 +122,18 @@ rotate
 frown
 later
 voice |  
+| bip_39_word_no_space_1 | coil |  
+| bip_39_word_no_space_10 | coilsecuritysweardividearriverotatefrownlatervoicepeasant |  
+| bip_39_word_no_space_11 | coilsecuritysweardividearriverotatefrownlatervoicepeasantkingdom |  
+| bip_39_word_no_space_12 | coilsecuritysweardividearriverotatefrownlatervoicepeasantkingdomankle |  
+| bip_39_word_no_space_2 | coilsecurity |  
+| bip_39_word_no_space_3 | coilsecurityswear |  
+| bip_39_word_no_space_4 | coilsecuritysweardivide |  
+| bip_39_word_no_space_5 | coilsecuritysweardividearrive |  
+| bip_39_word_no_space_6 | coilsecuritysweardividearriverotate |  
+| bip_39_word_no_space_7 | coilsecuritysweardividearriverotatefrown |  
+| bip_39_word_no_space_8 | coilsecuritysweardividearriverotatefrownlater |  
+| bip_39_word_no_space_9 | coilsecuritysweardividearriverotatefrownlatervoice |  
 | bip_39_word_space_0 | ['coil', 'security', 'swear', 'divide', 'arrive', 'rotate', 'frown', 'later', 'voice', 'peasant', 'kingdom', 'ankle'] |  
 | bip_39_word_space_1 | coil |  
 | bip_39_word_space_10 | coil security swear divide arrive rotate frown later voice peasant |  

@@ -122,6 +122,18 @@ obscure
 saddle
 host
 desert |  
+| bip_39_word_no_space_1 | toss |  
+| bip_39_word_no_space_10 | tossspicecarthingfeelobscuresaddlehostdesertcasino |  
+| bip_39_word_no_space_11 | tossspicecarthingfeelobscuresaddlehostdesertcasinoautumn |  
+| bip_39_word_no_space_12 | tossspicecarthingfeelobscuresaddlehostdesertcasinoautumnaccess |  
+| bip_39_word_no_space_2 | tossspice |  
+| bip_39_word_no_space_3 | tossspicecar |  
+| bip_39_word_no_space_4 | tossspicecarthing |  
+| bip_39_word_no_space_5 | tossspicecarthingfeel |  
+| bip_39_word_no_space_6 | tossspicecarthingfeelobscure |  
+| bip_39_word_no_space_7 | tossspicecarthingfeelobscuresaddle |  
+| bip_39_word_no_space_8 | tossspicecarthingfeelobscuresaddlehost |  
+| bip_39_word_no_space_9 | tossspicecarthingfeelobscuresaddlehostdesert |  
 | bip_39_word_space_0 | ['toss', 'spice', 'car', 'thing', 'feel', 'obscure', 'saddle', 'host', 'desert', 'casino', 'autumn', 'access'] |  
 | bip_39_word_space_1 | toss |  
 | bip_39_word_space_10 | toss spice car thing feel obscure saddle host desert casino |  

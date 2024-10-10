@@ -122,6 +122,18 @@ occur
 dentist
 front
 tattoo |  
+| bip_39_word_no_space_1 | cable |  
+| bip_39_word_no_space_10 | cableengageadmittoericeoccurdentistfronttattoonews |  
+| bip_39_word_no_space_11 | cableengageadmittoericeoccurdentistfronttattoonewsentry |  
+| bip_39_word_no_space_12 | cableengageadmittoericeoccurdentistfronttattoonewsentryalert |  
+| bip_39_word_no_space_2 | cableengage |  
+| bip_39_word_no_space_3 | cableengageadmit |  
+| bip_39_word_no_space_4 | cableengageadmittoe |  
+| bip_39_word_no_space_5 | cableengageadmittoerice |  
+| bip_39_word_no_space_6 | cableengageadmittoericeoccur |  
+| bip_39_word_no_space_7 | cableengageadmittoericeoccurdentist |  
+| bip_39_word_no_space_8 | cableengageadmittoericeoccurdentistfront |  
+| bip_39_word_no_space_9 | cableengageadmittoericeoccurdentistfronttattoo |  
 | bip_39_word_space_0 | ['cable', 'engage', 'admit', 'toe', 'rice', 'occur', 'dentist', 'front', 'tattoo', 'news', 'entry', 'alert'] |  
 | bip_39_word_space_1 | cable |  
 | bip_39_word_space_10 | cable engage admit toe rice occur dentist front tattoo news |  

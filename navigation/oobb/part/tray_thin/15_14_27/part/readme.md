@@ -122,6 +122,18 @@ welcome
 skin
 intact
 elite |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungepositionwifenamebuzzwelcomeskinintactelitebutter |  
+| bip_39_word_no_space_11 | plungepositionwifenamebuzzwelcomeskinintactelitebutternation |  
+| bip_39_word_no_space_12 | plungepositionwifenamebuzzwelcomeskinintactelitebutternationamazing |  
+| bip_39_word_no_space_2 | plungeposition |  
+| bip_39_word_no_space_3 | plungepositionwife |  
+| bip_39_word_no_space_4 | plungepositionwifename |  
+| bip_39_word_no_space_5 | plungepositionwifenamebuzz |  
+| bip_39_word_no_space_6 | plungepositionwifenamebuzzwelcome |  
+| bip_39_word_no_space_7 | plungepositionwifenamebuzzwelcomeskin |  
+| bip_39_word_no_space_8 | plungepositionwifenamebuzzwelcomeskinintact |  
+| bip_39_word_no_space_9 | plungepositionwifenamebuzzwelcomeskinintactelite |  
 | bip_39_word_space_0 | ['plunge', 'position', 'wife', 'name', 'buzz', 'welcome', 'skin', 'intact', 'elite', 'butter', 'nation', 'amazing'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge position wife name buzz welcome skin intact elite butter |  

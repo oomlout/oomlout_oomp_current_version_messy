@@ -122,6 +122,18 @@ butter
 parrot
 december
 physical |  
+| bip_39_word_no_space_1 | depend |  
+| bip_39_word_no_space_10 | dependluxuryopinionjoymixbutterparrotdecemberphysicalunable |  
+| bip_39_word_no_space_11 | dependluxuryopinionjoymixbutterparrotdecemberphysicalunablejunior |  
+| bip_39_word_no_space_12 | dependluxuryopinionjoymixbutterparrotdecemberphysicalunablejuniorasthma |  
+| bip_39_word_no_space_2 | dependluxury |  
+| bip_39_word_no_space_3 | dependluxuryopinion |  
+| bip_39_word_no_space_4 | dependluxuryopinionjoy |  
+| bip_39_word_no_space_5 | dependluxuryopinionjoymix |  
+| bip_39_word_no_space_6 | dependluxuryopinionjoymixbutter |  
+| bip_39_word_no_space_7 | dependluxuryopinionjoymixbutterparrot |  
+| bip_39_word_no_space_8 | dependluxuryopinionjoymixbutterparrotdecember |  
+| bip_39_word_no_space_9 | dependluxuryopinionjoymixbutterparrotdecemberphysical |  
 | bip_39_word_space_0 | ['depend', 'luxury', 'opinion', 'joy', 'mix', 'butter', 'parrot', 'december', 'physical', 'unable', 'junior', 'asthma'] |  
 | bip_39_word_space_1 | depend |  
 | bip_39_word_space_10 | depend luxury opinion joy mix butter parrot december physical unable |  

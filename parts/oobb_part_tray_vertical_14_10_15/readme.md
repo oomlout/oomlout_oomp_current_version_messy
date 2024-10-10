@@ -122,6 +122,18 @@ cloth
 benefit
 balcony
 arm |  
+| bip_39_word_no_space_1 | shoot |  
+| bip_39_word_no_space_10 | shootkiwibluesuperlessonclothbenefitbalconyarmwife |  
+| bip_39_word_no_space_11 | shootkiwibluesuperlessonclothbenefitbalconyarmwifebullet |  
+| bip_39_word_no_space_12 | shootkiwibluesuperlessonclothbenefitbalconyarmwifebulletanswer |  
+| bip_39_word_no_space_2 | shootkiwi |  
+| bip_39_word_no_space_3 | shootkiwiblue |  
+| bip_39_word_no_space_4 | shootkiwibluesuper |  
+| bip_39_word_no_space_5 | shootkiwibluesuperlesson |  
+| bip_39_word_no_space_6 | shootkiwibluesuperlessoncloth |  
+| bip_39_word_no_space_7 | shootkiwibluesuperlessonclothbenefit |  
+| bip_39_word_no_space_8 | shootkiwibluesuperlessonclothbenefitbalcony |  
+| bip_39_word_no_space_9 | shootkiwibluesuperlessonclothbenefitbalconyarm |  
 | bip_39_word_space_0 | ['shoot', 'kiwi', 'blue', 'super', 'lesson', 'cloth', 'benefit', 'balcony', 'arm', 'wife', 'bullet', 'answer'] |  
 | bip_39_word_space_1 | shoot |  
 | bip_39_word_space_10 | shoot kiwi blue super lesson cloth benefit balcony arm wife |  

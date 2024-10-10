@@ -122,6 +122,18 @@ library
 cash
 robot
 drill |  
+| bip_39_word_no_space_1 | jelly |  
+| bip_39_word_no_space_10 | jellypeanutbasicmenuurbanlibrarycashrobotdrillboard |  
+| bip_39_word_no_space_11 | jellypeanutbasicmenuurbanlibrarycashrobotdrillboardtrigger |  
+| bip_39_word_no_space_12 | jellypeanutbasicmenuurbanlibrarycashrobotdrillboardtriggeraddict |  
+| bip_39_word_no_space_2 | jellypeanut |  
+| bip_39_word_no_space_3 | jellypeanutbasic |  
+| bip_39_word_no_space_4 | jellypeanutbasicmenu |  
+| bip_39_word_no_space_5 | jellypeanutbasicmenuurban |  
+| bip_39_word_no_space_6 | jellypeanutbasicmenuurbanlibrary |  
+| bip_39_word_no_space_7 | jellypeanutbasicmenuurbanlibrarycash |  
+| bip_39_word_no_space_8 | jellypeanutbasicmenuurbanlibrarycashrobot |  
+| bip_39_word_no_space_9 | jellypeanutbasicmenuurbanlibrarycashrobotdrill |  
 | bip_39_word_space_0 | ['jelly', 'peanut', 'basic', 'menu', 'urban', 'library', 'cash', 'robot', 'drill', 'board', 'trigger', 'addict'] |  
 | bip_39_word_space_1 | jelly |  
 | bip_39_word_space_10 | jelly peanut basic menu urban library cash robot drill board |  

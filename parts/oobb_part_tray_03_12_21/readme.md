@@ -122,6 +122,18 @@ leopard
 spring
 release
 goddess |  
+| bip_39_word_no_space_1 | cement |  
+| bip_39_word_no_space_10 | cementcousinthumbfoodidentifyleopardspringreleasegoddessexchange |  
+| bip_39_word_no_space_11 | cementcousinthumbfoodidentifyleopardspringreleasegoddessexchangemandate |  
+| bip_39_word_no_space_12 | cementcousinthumbfoodidentifyleopardspringreleasegoddessexchangemandateauction |  
+| bip_39_word_no_space_2 | cementcousin |  
+| bip_39_word_no_space_3 | cementcousinthumb |  
+| bip_39_word_no_space_4 | cementcousinthumbfood |  
+| bip_39_word_no_space_5 | cementcousinthumbfoodidentify |  
+| bip_39_word_no_space_6 | cementcousinthumbfoodidentifyleopard |  
+| bip_39_word_no_space_7 | cementcousinthumbfoodidentifyleopardspring |  
+| bip_39_word_no_space_8 | cementcousinthumbfoodidentifyleopardspringrelease |  
+| bip_39_word_no_space_9 | cementcousinthumbfoodidentifyleopardspringreleasegoddess |  
 | bip_39_word_space_0 | ['cement', 'cousin', 'thumb', 'food', 'identify', 'leopard', 'spring', 'release', 'goddess', 'exchange', 'mandate', 'auction'] |  
 | bip_39_word_space_1 | cement |  
 | bip_39_word_space_10 | cement cousin thumb food identify leopard spring release goddess exchange |  

@@ -122,6 +122,18 @@ stem
 benefit
 before
 lawsuit |  
+| bip_39_word_no_space_1 | warfare |  
+| bip_39_word_no_space_10 | warfarehelmetdevotemillioncupboardstembenefitbeforelawsuittraffic |  
+| bip_39_word_no_space_11 | warfarehelmetdevotemillioncupboardstembenefitbeforelawsuittrafficupdate |  
+| bip_39_word_no_space_12 | warfarehelmetdevotemillioncupboardstembenefitbeforelawsuittrafficupdateabsurd |  
+| bip_39_word_no_space_2 | warfarehelmet |  
+| bip_39_word_no_space_3 | warfarehelmetdevote |  
+| bip_39_word_no_space_4 | warfarehelmetdevotemillion |  
+| bip_39_word_no_space_5 | warfarehelmetdevotemillioncupboard |  
+| bip_39_word_no_space_6 | warfarehelmetdevotemillioncupboardstem |  
+| bip_39_word_no_space_7 | warfarehelmetdevotemillioncupboardstembenefit |  
+| bip_39_word_no_space_8 | warfarehelmetdevotemillioncupboardstembenefitbefore |  
+| bip_39_word_no_space_9 | warfarehelmetdevotemillioncupboardstembenefitbeforelawsuit |  
 | bip_39_word_space_0 | ['warfare', 'helmet', 'devote', 'million', 'cupboard', 'stem', 'benefit', 'before', 'lawsuit', 'traffic', 'update', 'absurd'] |  
 | bip_39_word_space_1 | warfare |  
 | bip_39_word_space_10 | warfare helmet devote million cupboard stem benefit before lawsuit traffic |  

@@ -122,6 +122,18 @@ barely
 jeans
 belt
 unfold |  
+| bip_39_word_no_space_1 | boy |  
+| bip_39_word_no_space_10 | boysoldierscrapdampfurnacebarelyjeansbeltunfoldspoil |  
+| bip_39_word_no_space_11 | boysoldierscrapdampfurnacebarelyjeansbeltunfoldspoilpotato |  
+| bip_39_word_no_space_12 | boysoldierscrapdampfurnacebarelyjeansbeltunfoldspoilpotatoangry |  
+| bip_39_word_no_space_2 | boysoldier |  
+| bip_39_word_no_space_3 | boysoldierscrap |  
+| bip_39_word_no_space_4 | boysoldierscrapdamp |  
+| bip_39_word_no_space_5 | boysoldierscrapdampfurnace |  
+| bip_39_word_no_space_6 | boysoldierscrapdampfurnacebarely |  
+| bip_39_word_no_space_7 | boysoldierscrapdampfurnacebarelyjeans |  
+| bip_39_word_no_space_8 | boysoldierscrapdampfurnacebarelyjeansbelt |  
+| bip_39_word_no_space_9 | boysoldierscrapdampfurnacebarelyjeansbeltunfold |  
 | bip_39_word_space_0 | ['boy', 'soldier', 'scrap', 'damp', 'furnace', 'barely', 'jeans', 'belt', 'unfold', 'spoil', 'potato', 'angry'] |  
 | bip_39_word_space_1 | boy |  
 | bip_39_word_space_10 | boy soldier scrap damp furnace barely jeans belt unfold spoil |  

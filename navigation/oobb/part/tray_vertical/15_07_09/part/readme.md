@@ -122,6 +122,18 @@ polar
 ticket
 merit
 tree |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illbraindizzydepthgympolarticketmerittreeicon |  
+| bip_39_word_no_space_11 | illbraindizzydepthgympolarticketmerittreeiconskirt |  
+| bip_39_word_no_space_12 | illbraindizzydepthgympolarticketmerittreeiconskirtactual |  
+| bip_39_word_no_space_2 | illbrain |  
+| bip_39_word_no_space_3 | illbraindizzy |  
+| bip_39_word_no_space_4 | illbraindizzydepth |  
+| bip_39_word_no_space_5 | illbraindizzydepthgym |  
+| bip_39_word_no_space_6 | illbraindizzydepthgympolar |  
+| bip_39_word_no_space_7 | illbraindizzydepthgympolarticket |  
+| bip_39_word_no_space_8 | illbraindizzydepthgympolarticketmerit |  
+| bip_39_word_no_space_9 | illbraindizzydepthgympolarticketmerittree |  
 | bip_39_word_space_0 | ['ill', 'brain', 'dizzy', 'depth', 'gym', 'polar', 'ticket', 'merit', 'tree', 'icon', 'skirt', 'actual'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill brain dizzy depth gym polar ticket merit tree icon |  

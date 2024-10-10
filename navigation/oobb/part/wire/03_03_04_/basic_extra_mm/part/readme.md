@@ -122,6 +122,18 @@ draft
 wild
 lizard
 twelve |  
+| bip_39_word_no_space_1 | version |  
+| bip_39_word_no_space_10 | versionhotelrandomfixprovidedraftwildlizardtwelveceiling |  
+| bip_39_word_no_space_11 | versionhotelrandomfixprovidedraftwildlizardtwelveceilingbag |  
+| bip_39_word_no_space_12 | versionhotelrandomfixprovidedraftwildlizardtwelveceilingbagantenna |  
+| bip_39_word_no_space_2 | versionhotel |  
+| bip_39_word_no_space_3 | versionhotelrandom |  
+| bip_39_word_no_space_4 | versionhotelrandomfix |  
+| bip_39_word_no_space_5 | versionhotelrandomfixprovide |  
+| bip_39_word_no_space_6 | versionhotelrandomfixprovidedraft |  
+| bip_39_word_no_space_7 | versionhotelrandomfixprovidedraftwild |  
+| bip_39_word_no_space_8 | versionhotelrandomfixprovidedraftwildlizard |  
+| bip_39_word_no_space_9 | versionhotelrandomfixprovidedraftwildlizardtwelve |  
 | bip_39_word_space_0 | ['version', 'hotel', 'random', 'fix', 'provide', 'draft', 'wild', 'lizard', 'twelve', 'ceiling', 'bag', 'antenna'] |  
 | bip_39_word_space_1 | version |  
 | bip_39_word_space_10 | version hotel random fix provide draft wild lizard twelve ceiling |  

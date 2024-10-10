@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'claw
   document
 
   eye'
+bip_39_word_no_space_1: claw
+bip_39_word_no_space_10: clawoxygendieselvacantpavedripdraftdocumenteyeany
+bip_39_word_no_space_11: clawoxygendieselvacantpavedripdraftdocumenteyeanyrural
+bip_39_word_no_space_12: clawoxygendieselvacantpavedripdraftdocumenteyeanyruralangle
+bip_39_word_no_space_2: clawoxygen
+bip_39_word_no_space_3: clawoxygendiesel
+bip_39_word_no_space_4: clawoxygendieselvacant
+bip_39_word_no_space_5: clawoxygendieselvacantpave
+bip_39_word_no_space_6: clawoxygendieselvacantpavedrip
+bip_39_word_no_space_7: clawoxygendieselvacantpavedripdraft
+bip_39_word_no_space_8: clawoxygendieselvacantpavedripdraftdocument
+bip_39_word_no_space_9: clawoxygendieselvacantpavedripdraftdocumenteye
 bip_39_word_space_0:
 - claw
 - oxygen

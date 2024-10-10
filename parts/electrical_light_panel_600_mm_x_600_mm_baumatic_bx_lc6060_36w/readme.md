@@ -122,6 +122,18 @@ wire
 cage
 police
 whip |  
+| bip_39_word_no_space_1 | maple |  
+| bip_39_word_no_space_10 | maplefreshpovertyumbrellasupplywirecagepolicewhipjaguar |  
+| bip_39_word_no_space_11 | maplefreshpovertyumbrellasupplywirecagepolicewhipjaguarsweet |  
+| bip_39_word_no_space_12 | maplefreshpovertyumbrellasupplywirecagepolicewhipjaguarsweetabstract |  
+| bip_39_word_no_space_2 | maplefresh |  
+| bip_39_word_no_space_3 | maplefreshpoverty |  
+| bip_39_word_no_space_4 | maplefreshpovertyumbrella |  
+| bip_39_word_no_space_5 | maplefreshpovertyumbrellasupply |  
+| bip_39_word_no_space_6 | maplefreshpovertyumbrellasupplywire |  
+| bip_39_word_no_space_7 | maplefreshpovertyumbrellasupplywirecage |  
+| bip_39_word_no_space_8 | maplefreshpovertyumbrellasupplywirecagepolice |  
+| bip_39_word_no_space_9 | maplefreshpovertyumbrellasupplywirecagepolicewhip |  
 | bip_39_word_space_0 | ['maple', 'fresh', 'poverty', 'umbrella', 'supply', 'wire', 'cage', 'police', 'whip', 'jaguar', 'sweet', 'abstract'] |  
 | bip_39_word_space_1 | maple |  
 | bip_39_word_space_10 | maple fresh poverty umbrella supply wire cage police whip jaguar |  

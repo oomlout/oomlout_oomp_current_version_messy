@@ -122,6 +122,18 @@ melody
 pact
 crew
 borrow |  
+| bip_39_word_no_space_1 | treat |  
+| bip_39_word_no_space_10 | treatcardloopbiologytreemelodypactcrewborrowmuseum |  
+| bip_39_word_no_space_11 | treatcardloopbiologytreemelodypactcrewborrowmuseumwealth |  
+| bip_39_word_no_space_12 | treatcardloopbiologytreemelodypactcrewborrowmuseumwealthanxiety |  
+| bip_39_word_no_space_2 | treatcard |  
+| bip_39_word_no_space_3 | treatcardloop |  
+| bip_39_word_no_space_4 | treatcardloopbiology |  
+| bip_39_word_no_space_5 | treatcardloopbiologytree |  
+| bip_39_word_no_space_6 | treatcardloopbiologytreemelody |  
+| bip_39_word_no_space_7 | treatcardloopbiologytreemelodypact |  
+| bip_39_word_no_space_8 | treatcardloopbiologytreemelodypactcrew |  
+| bip_39_word_no_space_9 | treatcardloopbiologytreemelodypactcrewborrow |  
 | bip_39_word_space_0 | ['treat', 'card', 'loop', 'biology', 'tree', 'melody', 'pact', 'crew', 'borrow', 'museum', 'wealth', 'anxiety'] |  
 | bip_39_word_space_1 | treat |  
 | bip_39_word_space_10 | treat card loop biology tree melody pact crew borrow museum |  

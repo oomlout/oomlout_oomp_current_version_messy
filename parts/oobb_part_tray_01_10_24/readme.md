@@ -122,6 +122,18 @@ transfer
 guitar
 aunt
 together |  
+| bip_39_word_no_space_1 | sick |  
+| bip_39_word_no_space_10 | sickmachinepositionreportruntransferguitaraunttogetherpig |  
+| bip_39_word_no_space_11 | sickmachinepositionreportruntransferguitaraunttogetherpigrandom |  
+| bip_39_word_no_space_12 | sickmachinepositionreportruntransferguitaraunttogetherpigrandomactor |  
+| bip_39_word_no_space_2 | sickmachine |  
+| bip_39_word_no_space_3 | sickmachineposition |  
+| bip_39_word_no_space_4 | sickmachinepositionreport |  
+| bip_39_word_no_space_5 | sickmachinepositionreportrun |  
+| bip_39_word_no_space_6 | sickmachinepositionreportruntransfer |  
+| bip_39_word_no_space_7 | sickmachinepositionreportruntransferguitar |  
+| bip_39_word_no_space_8 | sickmachinepositionreportruntransferguitaraunt |  
+| bip_39_word_no_space_9 | sickmachinepositionreportruntransferguitaraunttogether |  
 | bip_39_word_space_0 | ['sick', 'machine', 'position', 'report', 'run', 'transfer', 'guitar', 'aunt', 'together', 'pig', 'random', 'actor'] |  
 | bip_39_word_space_1 | sick |  
 | bip_39_word_space_10 | sick machine position report run transfer guitar aunt together pig |  

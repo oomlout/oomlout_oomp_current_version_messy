@@ -122,6 +122,18 @@ pig
 illegal
 animal
 patch |  
+| bip_39_word_no_space_1 | pioneer |  
+| bip_39_word_no_space_10 | pioneertopcirclenesttextpigillegalanimalpatchhat |  
+| bip_39_word_no_space_11 | pioneertopcirclenesttextpigillegalanimalpatchhatchoice |  
+| bip_39_word_no_space_12 | pioneertopcirclenesttextpigillegalanimalpatchhatchoiceabuse |  
+| bip_39_word_no_space_2 | pioneertop |  
+| bip_39_word_no_space_3 | pioneertopcircle |  
+| bip_39_word_no_space_4 | pioneertopcirclenest |  
+| bip_39_word_no_space_5 | pioneertopcirclenesttext |  
+| bip_39_word_no_space_6 | pioneertopcirclenesttextpig |  
+| bip_39_word_no_space_7 | pioneertopcirclenesttextpigillegal |  
+| bip_39_word_no_space_8 | pioneertopcirclenesttextpigillegalanimal |  
+| bip_39_word_no_space_9 | pioneertopcirclenesttextpigillegalanimalpatch |  
 | bip_39_word_space_0 | ['pioneer', 'top', 'circle', 'nest', 'text', 'pig', 'illegal', 'animal', 'patch', 'hat', 'choice', 'abuse'] |  
 | bip_39_word_space_1 | pioneer |  
 | bip_39_word_space_10 | pioneer top circle nest text pig illegal animal patch hat |  

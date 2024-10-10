@@ -122,6 +122,18 @@ tunnel
 solution
 dolphin
 crazy |  
+| bip_39_word_no_space_1 | section |  
+| bip_39_word_no_space_10 | sectionwrongflushfoilalientunnelsolutiondolphincrazypermit |  
+| bip_39_word_no_space_11 | sectionwrongflushfoilalientunnelsolutiondolphincrazypermitmuch |  
+| bip_39_word_no_space_12 | sectionwrongflushfoilalientunnelsolutiondolphincrazypermitmuchactress |  
+| bip_39_word_no_space_2 | sectionwrong |  
+| bip_39_word_no_space_3 | sectionwrongflush |  
+| bip_39_word_no_space_4 | sectionwrongflushfoil |  
+| bip_39_word_no_space_5 | sectionwrongflushfoilalien |  
+| bip_39_word_no_space_6 | sectionwrongflushfoilalientunnel |  
+| bip_39_word_no_space_7 | sectionwrongflushfoilalientunnelsolution |  
+| bip_39_word_no_space_8 | sectionwrongflushfoilalientunnelsolutiondolphin |  
+| bip_39_word_no_space_9 | sectionwrongflushfoilalientunnelsolutiondolphincrazy |  
 | bip_39_word_space_0 | ['section', 'wrong', 'flush', 'foil', 'alien', 'tunnel', 'solution', 'dolphin', 'crazy', 'permit', 'much', 'actress'] |  
 | bip_39_word_space_1 | section |  
 | bip_39_word_space_10 | section wrong flush foil alien tunnel solution dolphin crazy permit |  

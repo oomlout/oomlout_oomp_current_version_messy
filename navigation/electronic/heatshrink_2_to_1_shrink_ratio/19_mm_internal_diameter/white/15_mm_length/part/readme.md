@@ -122,6 +122,18 @@ subject
 desert
 toast
 spoil |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miserydiarypenbeachmanualsubjectdeserttoastspoilsugar |  
+| bip_39_word_no_space_11 | miserydiarypenbeachmanualsubjectdeserttoastspoilsugartiny |  
+| bip_39_word_no_space_12 | miserydiarypenbeachmanualsubjectdeserttoastspoilsugartinyaround |  
+| bip_39_word_no_space_2 | miserydiary |  
+| bip_39_word_no_space_3 | miserydiarypen |  
+| bip_39_word_no_space_4 | miserydiarypenbeach |  
+| bip_39_word_no_space_5 | miserydiarypenbeachmanual |  
+| bip_39_word_no_space_6 | miserydiarypenbeachmanualsubject |  
+| bip_39_word_no_space_7 | miserydiarypenbeachmanualsubjectdesert |  
+| bip_39_word_no_space_8 | miserydiarypenbeachmanualsubjectdeserttoast |  
+| bip_39_word_no_space_9 | miserydiarypenbeachmanualsubjectdeserttoastspoil |  
 | bip_39_word_space_0 | ['misery', 'diary', 'pen', 'beach', 'manual', 'subject', 'desert', 'toast', 'spoil', 'sugar', 'tiny', 'around'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery diary pen beach manual subject desert toast spoil sugar |  

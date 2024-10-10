@@ -122,6 +122,18 @@ alert
 rent
 letter
 taste |  
+| bip_39_word_no_space_1 | normal |  
+| bip_39_word_no_space_10 | normalsaddleunhappyneckmetalalertrentlettertasteclutch |  
+| bip_39_word_no_space_11 | normalsaddleunhappyneckmetalalertrentlettertasteclutchtwice |  
+| bip_39_word_no_space_12 | normalsaddleunhappyneckmetalalertrentlettertasteclutchtwicealert |  
+| bip_39_word_no_space_2 | normalsaddle |  
+| bip_39_word_no_space_3 | normalsaddleunhappy |  
+| bip_39_word_no_space_4 | normalsaddleunhappyneck |  
+| bip_39_word_no_space_5 | normalsaddleunhappyneckmetal |  
+| bip_39_word_no_space_6 | normalsaddleunhappyneckmetalalert |  
+| bip_39_word_no_space_7 | normalsaddleunhappyneckmetalalertrent |  
+| bip_39_word_no_space_8 | normalsaddleunhappyneckmetalalertrentletter |  
+| bip_39_word_no_space_9 | normalsaddleunhappyneckmetalalertrentlettertaste |  
 | bip_39_word_space_0 | ['normal', 'saddle', 'unhappy', 'neck', 'metal', 'alert', 'rent', 'letter', 'taste', 'clutch', 'twice', 'alert'] |  
 | bip_39_word_space_1 | normal |  
 | bip_39_word_space_10 | normal saddle unhappy neck metal alert rent letter taste clutch |  

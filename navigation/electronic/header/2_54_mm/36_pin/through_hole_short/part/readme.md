@@ -122,6 +122,18 @@ purse
 dose
 mosquito
 humor |  
+| bip_39_word_no_space_1 | file |  
+| bip_39_word_no_space_10 | filecartengineblacklakepursedosemosquitohumorfatal |  
+| bip_39_word_no_space_11 | filecartengineblacklakepursedosemosquitohumorfataloption |  
+| bip_39_word_no_space_12 | filecartengineblacklakepursedosemosquitohumorfataloptionadult |  
+| bip_39_word_no_space_2 | filecart |  
+| bip_39_word_no_space_3 | filecartengine |  
+| bip_39_word_no_space_4 | filecartengineblack |  
+| bip_39_word_no_space_5 | filecartengineblacklake |  
+| bip_39_word_no_space_6 | filecartengineblacklakepurse |  
+| bip_39_word_no_space_7 | filecartengineblacklakepursedose |  
+| bip_39_word_no_space_8 | filecartengineblacklakepursedosemosquito |  
+| bip_39_word_no_space_9 | filecartengineblacklakepursedosemosquitohumor |  
 | bip_39_word_space_0 | ['file', 'cart', 'engine', 'black', 'lake', 'purse', 'dose', 'mosquito', 'humor', 'fatal', 'option', 'adult'] |  
 | bip_39_word_space_1 | file |  
 | bip_39_word_space_10 | file cart engine black lake purse dose mosquito humor fatal |  

@@ -122,6 +122,18 @@ rebuild
 frown
 member
 this |  
+| bip_39_word_no_space_1 | young |  
+| bip_39_word_no_space_10 | younggovernbelowimmensenutrebuildfrownmemberthiscall |  
+| bip_39_word_no_space_11 | younggovernbelowimmensenutrebuildfrownmemberthiscallguitar |  
+| bip_39_word_no_space_12 | younggovernbelowimmensenutrebuildfrownmemberthiscallguitaraccident |  
+| bip_39_word_no_space_2 | younggovern |  
+| bip_39_word_no_space_3 | younggovernbelow |  
+| bip_39_word_no_space_4 | younggovernbelowimmense |  
+| bip_39_word_no_space_5 | younggovernbelowimmensenut |  
+| bip_39_word_no_space_6 | younggovernbelowimmensenutrebuild |  
+| bip_39_word_no_space_7 | younggovernbelowimmensenutrebuildfrown |  
+| bip_39_word_no_space_8 | younggovernbelowimmensenutrebuildfrownmember |  
+| bip_39_word_no_space_9 | younggovernbelowimmensenutrebuildfrownmemberthis |  
 | bip_39_word_space_0 | ['young', 'govern', 'below', 'immense', 'nut', 'rebuild', 'frown', 'member', 'this', 'call', 'guitar', 'accident'] |  
 | bip_39_word_space_1 | young |  
 | bip_39_word_space_10 | young govern below immense nut rebuild frown member this call |  

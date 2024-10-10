@@ -122,6 +122,18 @@ actual
 sense
 void
 dizzy |  
+| bip_39_word_no_space_1 | visa |  
+| bip_39_word_no_space_10 | visapaddleexplainskitwinactualsensevoiddizzyvicious |  
+| bip_39_word_no_space_11 | visapaddleexplainskitwinactualsensevoiddizzyviciousspider |  
+| bip_39_word_no_space_12 | visapaddleexplainskitwinactualsensevoiddizzyviciousspideraddress |  
+| bip_39_word_no_space_2 | visapaddle |  
+| bip_39_word_no_space_3 | visapaddleexplain |  
+| bip_39_word_no_space_4 | visapaddleexplainski |  
+| bip_39_word_no_space_5 | visapaddleexplainskitwin |  
+| bip_39_word_no_space_6 | visapaddleexplainskitwinactual |  
+| bip_39_word_no_space_7 | visapaddleexplainskitwinactualsense |  
+| bip_39_word_no_space_8 | visapaddleexplainskitwinactualsensevoid |  
+| bip_39_word_no_space_9 | visapaddleexplainskitwinactualsensevoiddizzy |  
 | bip_39_word_space_0 | ['visa', 'paddle', 'explain', 'ski', 'twin', 'actual', 'sense', 'void', 'dizzy', 'vicious', 'spider', 'address'] |  
 | bip_39_word_space_1 | visa |  
 | bip_39_word_space_10 | visa paddle explain ski twin actual sense void dizzy vicious |  

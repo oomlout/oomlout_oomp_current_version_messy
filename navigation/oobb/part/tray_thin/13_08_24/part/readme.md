@@ -122,6 +122,18 @@ auto
 kit
 weapon
 hurry |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistallowaudittodaylionautokitweaponhurryfoot |  
+| bip_39_word_no_space_11 | resistallowaudittodaylionautokitweaponhurryfootaccuse |  
+| bip_39_word_no_space_12 | resistallowaudittodaylionautokitweaponhurryfootaccuseactor |  
+| bip_39_word_no_space_2 | resistallow |  
+| bip_39_word_no_space_3 | resistallowaudit |  
+| bip_39_word_no_space_4 | resistallowaudittoday |  
+| bip_39_word_no_space_5 | resistallowaudittodaylion |  
+| bip_39_word_no_space_6 | resistallowaudittodaylionauto |  
+| bip_39_word_no_space_7 | resistallowaudittodaylionautokit |  
+| bip_39_word_no_space_8 | resistallowaudittodaylionautokitweapon |  
+| bip_39_word_no_space_9 | resistallowaudittodaylionautokitweaponhurry |  
 | bip_39_word_space_0 | ['resist', 'allow', 'audit', 'today', 'lion', 'auto', 'kit', 'weapon', 'hurry', 'foot', 'accuse', 'actor'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist allow audit today lion auto kit weapon hurry foot |  

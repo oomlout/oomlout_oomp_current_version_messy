@@ -122,6 +122,18 @@ length
 because
 april
 vendor |  
+| bip_39_word_no_space_1 | planet |  
+| bip_39_word_no_space_10 | planetbeachdebrisaffordaveragelengthbecauseaprilvendorcredit |  
+| bip_39_word_no_space_11 | planetbeachdebrisaffordaveragelengthbecauseaprilvendorcreditgarlic |  
+| bip_39_word_no_space_12 | planetbeachdebrisaffordaveragelengthbecauseaprilvendorcreditgarlicarm |  
+| bip_39_word_no_space_2 | planetbeach |  
+| bip_39_word_no_space_3 | planetbeachdebris |  
+| bip_39_word_no_space_4 | planetbeachdebrisafford |  
+| bip_39_word_no_space_5 | planetbeachdebrisaffordaverage |  
+| bip_39_word_no_space_6 | planetbeachdebrisaffordaveragelength |  
+| bip_39_word_no_space_7 | planetbeachdebrisaffordaveragelengthbecause |  
+| bip_39_word_no_space_8 | planetbeachdebrisaffordaveragelengthbecauseapril |  
+| bip_39_word_no_space_9 | planetbeachdebrisaffordaveragelengthbecauseaprilvendor |  
 | bip_39_word_space_0 | ['planet', 'beach', 'debris', 'afford', 'average', 'length', 'because', 'april', 'vendor', 'credit', 'garlic', 'arm'] |  
 | bip_39_word_space_1 | planet |  
 | bip_39_word_space_10 | planet beach debris afford average length because april vendor credit |  

@@ -122,6 +122,18 @@ start
 copper
 same
 learn |  
+| bip_39_word_no_space_1 | alien |  
+| bip_39_word_no_space_10 | alientrackpeaceassetbravestartcoppersamelearngadget |  
+| bip_39_word_no_space_11 | alientrackpeaceassetbravestartcoppersamelearngadgetuncle |  
+| bip_39_word_no_space_12 | alientrackpeaceassetbravestartcoppersamelearngadgetuncleamong |  
+| bip_39_word_no_space_2 | alientrack |  
+| bip_39_word_no_space_3 | alientrackpeace |  
+| bip_39_word_no_space_4 | alientrackpeaceasset |  
+| bip_39_word_no_space_5 | alientrackpeaceassetbrave |  
+| bip_39_word_no_space_6 | alientrackpeaceassetbravestart |  
+| bip_39_word_no_space_7 | alientrackpeaceassetbravestartcopper |  
+| bip_39_word_no_space_8 | alientrackpeaceassetbravestartcoppersame |  
+| bip_39_word_no_space_9 | alientrackpeaceassetbravestartcoppersamelearn |  
 | bip_39_word_space_0 | ['alien', 'track', 'peace', 'asset', 'brave', 'start', 'copper', 'same', 'learn', 'gadget', 'uncle', 'among'] |  
 | bip_39_word_space_1 | alien |  
 | bip_39_word_space_10 | alien track peace asset brave start copper same learn gadget |  

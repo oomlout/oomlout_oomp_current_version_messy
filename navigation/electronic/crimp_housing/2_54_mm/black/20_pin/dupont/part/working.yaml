@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'direct
   coil
 
   bunker'
+bip_39_word_no_space_1: direct
+bip_39_word_no_space_10: directgrittuitionfamilygametaskdrillcoilbunkercinnamon
+bip_39_word_no_space_11: directgrittuitionfamilygametaskdrillcoilbunkercinnamonaverage
+bip_39_word_no_space_12: directgrittuitionfamilygametaskdrillcoilbunkercinnamonaverageafraid
+bip_39_word_no_space_2: directgrit
+bip_39_word_no_space_3: directgrittuition
+bip_39_word_no_space_4: directgrittuitionfamily
+bip_39_word_no_space_5: directgrittuitionfamilygame
+bip_39_word_no_space_6: directgrittuitionfamilygametask
+bip_39_word_no_space_7: directgrittuitionfamilygametaskdrill
+bip_39_word_no_space_8: directgrittuitionfamilygametaskdrillcoil
+bip_39_word_no_space_9: directgrittuitionfamilygametaskdrillcoilbunker
 bip_39_word_space_0:
 - direct
 - grit

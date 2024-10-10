@@ -122,6 +122,18 @@ notice
 venture
 hollow
 rocket |  
+| bip_39_word_no_space_1 | work |  
+| bip_39_word_no_space_10 | worksameattitudeexplainfacenoticeventurehollowrocketshaft |  
+| bip_39_word_no_space_11 | worksameattitudeexplainfacenoticeventurehollowrocketshaftteach |  
+| bip_39_word_no_space_12 | worksameattitudeexplainfacenoticeventurehollowrocketshaftteacharch |  
+| bip_39_word_no_space_2 | worksame |  
+| bip_39_word_no_space_3 | worksameattitude |  
+| bip_39_word_no_space_4 | worksameattitudeexplain |  
+| bip_39_word_no_space_5 | worksameattitudeexplainface |  
+| bip_39_word_no_space_6 | worksameattitudeexplainfacenotice |  
+| bip_39_word_no_space_7 | worksameattitudeexplainfacenoticeventure |  
+| bip_39_word_no_space_8 | worksameattitudeexplainfacenoticeventurehollow |  
+| bip_39_word_no_space_9 | worksameattitudeexplainfacenoticeventurehollowrocket |  
 | bip_39_word_space_0 | ['work', 'same', 'attitude', 'explain', 'face', 'notice', 'venture', 'hollow', 'rocket', 'shaft', 'teach', 'arch'] |  
 | bip_39_word_space_1 | work |  
 | bip_39_word_space_10 | work same attitude explain face notice venture hollow rocket shaft |  

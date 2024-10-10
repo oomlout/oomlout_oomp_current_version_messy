@@ -122,6 +122,18 @@ quality
 raw
 filter
 submit |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefguessnarrowwritewelcomequalityrawfiltersubmitbrief |  
+| bip_39_word_no_space_11 | griefguessnarrowwritewelcomequalityrawfiltersubmitbriefphone |  
+| bip_39_word_no_space_12 | griefguessnarrowwritewelcomequalityrawfiltersubmitbriefphoneall |  
+| bip_39_word_no_space_2 | griefguess |  
+| bip_39_word_no_space_3 | griefguessnarrow |  
+| bip_39_word_no_space_4 | griefguessnarrowwrite |  
+| bip_39_word_no_space_5 | griefguessnarrowwritewelcome |  
+| bip_39_word_no_space_6 | griefguessnarrowwritewelcomequality |  
+| bip_39_word_no_space_7 | griefguessnarrowwritewelcomequalityraw |  
+| bip_39_word_no_space_8 | griefguessnarrowwritewelcomequalityrawfilter |  
+| bip_39_word_no_space_9 | griefguessnarrowwritewelcomequalityrawfiltersubmit |  
 | bip_39_word_space_0 | ['grief', 'guess', 'narrow', 'write', 'welcome', 'quality', 'raw', 'filter', 'submit', 'brief', 'phone', 'all'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief guess narrow write welcome quality raw filter submit brief |  

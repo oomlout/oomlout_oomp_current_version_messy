@@ -122,6 +122,18 @@ session
 best
 barely
 cake |  
+| bip_39_word_no_space_1 | genuine |  
+| bip_39_word_no_space_10 | genuineboostoutsidefollowclaimsessionbestbarelycakeabandon |  
+| bip_39_word_no_space_11 | genuineboostoutsidefollowclaimsessionbestbarelycakeabandonfiscal |  
+| bip_39_word_no_space_12 | genuineboostoutsidefollowclaimsessionbestbarelycakeabandonfiscalability |  
+| bip_39_word_no_space_2 | genuineboost |  
+| bip_39_word_no_space_3 | genuineboostoutside |  
+| bip_39_word_no_space_4 | genuineboostoutsidefollow |  
+| bip_39_word_no_space_5 | genuineboostoutsidefollowclaim |  
+| bip_39_word_no_space_6 | genuineboostoutsidefollowclaimsession |  
+| bip_39_word_no_space_7 | genuineboostoutsidefollowclaimsessionbest |  
+| bip_39_word_no_space_8 | genuineboostoutsidefollowclaimsessionbestbarely |  
+| bip_39_word_no_space_9 | genuineboostoutsidefollowclaimsessionbestbarelycake |  
 | bip_39_word_space_0 | ['genuine', 'boost', 'outside', 'follow', 'claim', 'session', 'best', 'barely', 'cake', 'abandon', 'fiscal', 'ability'] |  
 | bip_39_word_space_1 | genuine |  
 | bip_39_word_space_10 | genuine boost outside follow claim session best barely cake abandon |  

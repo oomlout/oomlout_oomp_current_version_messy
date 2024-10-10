@@ -122,6 +122,18 @@ shadow
 own
 broken
 flower |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printactualentermeanoctobershadowownbrokenflowercinnamon |  
+| bip_39_word_no_space_11 | printactualentermeanoctobershadowownbrokenflowercinnamonchoose |  
+| bip_39_word_no_space_12 | printactualentermeanoctobershadowownbrokenflowercinnamonchooseactor |  
+| bip_39_word_no_space_2 | printactual |  
+| bip_39_word_no_space_3 | printactualenter |  
+| bip_39_word_no_space_4 | printactualentermean |  
+| bip_39_word_no_space_5 | printactualentermeanoctober |  
+| bip_39_word_no_space_6 | printactualentermeanoctobershadow |  
+| bip_39_word_no_space_7 | printactualentermeanoctobershadowown |  
+| bip_39_word_no_space_8 | printactualentermeanoctobershadowownbroken |  
+| bip_39_word_no_space_9 | printactualentermeanoctobershadowownbrokenflower |  
 | bip_39_word_space_0 | ['print', 'actual', 'enter', 'mean', 'october', 'shadow', 'own', 'broken', 'flower', 'cinnamon', 'choose', 'actor'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print actual enter mean october shadow own broken flower cinnamon |  

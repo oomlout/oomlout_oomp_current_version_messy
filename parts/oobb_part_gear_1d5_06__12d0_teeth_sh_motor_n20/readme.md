@@ -122,6 +122,18 @@ clog
 episode
 famous
 coral |  
+| bip_39_word_no_space_1 | height |  
+| bip_39_word_no_space_10 | heightdisordermultiplystairsravenclogepisodefamouscoralcrucial |  
+| bip_39_word_no_space_11 | heightdisordermultiplystairsravenclogepisodefamouscoralcrucialhungry |  
+| bip_39_word_no_space_12 | heightdisordermultiplystairsravenclogepisodefamouscoralcrucialhungryapril |  
+| bip_39_word_no_space_2 | heightdisorder |  
+| bip_39_word_no_space_3 | heightdisordermultiply |  
+| bip_39_word_no_space_4 | heightdisordermultiplystairs |  
+| bip_39_word_no_space_5 | heightdisordermultiplystairsraven |  
+| bip_39_word_no_space_6 | heightdisordermultiplystairsravenclog |  
+| bip_39_word_no_space_7 | heightdisordermultiplystairsravenclogepisode |  
+| bip_39_word_no_space_8 | heightdisordermultiplystairsravenclogepisodefamous |  
+| bip_39_word_no_space_9 | heightdisordermultiplystairsravenclogepisodefamouscoral |  
 | bip_39_word_space_0 | ['height', 'disorder', 'multiply', 'stairs', 'raven', 'clog', 'episode', 'famous', 'coral', 'crucial', 'hungry', 'april'] |  
 | bip_39_word_space_1 | height |  
 | bip_39_word_space_10 | height disorder multiply stairs raven clog episode famous coral crucial |  

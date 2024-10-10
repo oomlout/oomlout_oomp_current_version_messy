@@ -122,6 +122,18 @@ ugly
 sail
 milk
 upgrade |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulsenationnearwagonmercyuglysailmilkupgradetoy |  
+| bip_39_word_no_space_11 | impulsenationnearwagonmercyuglysailmilkupgradetoyimpulse |  
+| bip_39_word_no_space_12 | impulsenationnearwagonmercyuglysailmilkupgradetoyimpulseact |  
+| bip_39_word_no_space_2 | impulsenation |  
+| bip_39_word_no_space_3 | impulsenationnear |  
+| bip_39_word_no_space_4 | impulsenationnearwagon |  
+| bip_39_word_no_space_5 | impulsenationnearwagonmercy |  
+| bip_39_word_no_space_6 | impulsenationnearwagonmercyugly |  
+| bip_39_word_no_space_7 | impulsenationnearwagonmercyuglysail |  
+| bip_39_word_no_space_8 | impulsenationnearwagonmercyuglysailmilk |  
+| bip_39_word_no_space_9 | impulsenationnearwagonmercyuglysailmilkupgrade |  
 | bip_39_word_space_0 | ['impulse', 'nation', 'near', 'wagon', 'mercy', 'ugly', 'sail', 'milk', 'upgrade', 'toy', 'impulse', 'act'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse nation near wagon mercy ugly sail milk upgrade toy |  

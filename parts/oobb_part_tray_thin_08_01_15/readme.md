@@ -122,6 +122,18 @@ crouch
 pioneer
 draft
 leisure |  
+| bip_39_word_no_space_1 | filter |  
+| bip_39_word_no_space_10 | filterdreamdealdefenseothercrouchpioneerdraftleisurefunny |  
+| bip_39_word_no_space_11 | filterdreamdealdefenseothercrouchpioneerdraftleisurefunnynominee |  
+| bip_39_word_no_space_12 | filterdreamdealdefenseothercrouchpioneerdraftleisurefunnynomineeadmit |  
+| bip_39_word_no_space_2 | filterdream |  
+| bip_39_word_no_space_3 | filterdreamdeal |  
+| bip_39_word_no_space_4 | filterdreamdealdefense |  
+| bip_39_word_no_space_5 | filterdreamdealdefenseother |  
+| bip_39_word_no_space_6 | filterdreamdealdefenseothercrouch |  
+| bip_39_word_no_space_7 | filterdreamdealdefenseothercrouchpioneer |  
+| bip_39_word_no_space_8 | filterdreamdealdefenseothercrouchpioneerdraft |  
+| bip_39_word_no_space_9 | filterdreamdealdefenseothercrouchpioneerdraftleisure |  
 | bip_39_word_space_0 | ['filter', 'dream', 'deal', 'defense', 'other', 'crouch', 'pioneer', 'draft', 'leisure', 'funny', 'nominee', 'admit'] |  
 | bip_39_word_space_1 | filter |  
 | bip_39_word_space_10 | filter dream deal defense other crouch pioneer draft leisure funny |  

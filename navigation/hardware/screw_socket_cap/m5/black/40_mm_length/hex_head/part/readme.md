@@ -122,6 +122,18 @@ feature
 wonder
 animal
 pulp |  
+| bip_39_word_no_space_1 | camp |  
+| bip_39_word_no_space_10 | campcarrycodechucklemyselffeaturewonderanimalpulpbadge |  
+| bip_39_word_no_space_11 | campcarrycodechucklemyselffeaturewonderanimalpulpbadgepalace |  
+| bip_39_word_no_space_12 | campcarrycodechucklemyselffeaturewonderanimalpulpbadgepalaceaisle |  
+| bip_39_word_no_space_2 | campcarry |  
+| bip_39_word_no_space_3 | campcarrycode |  
+| bip_39_word_no_space_4 | campcarrycodechuckle |  
+| bip_39_word_no_space_5 | campcarrycodechucklemyself |  
+| bip_39_word_no_space_6 | campcarrycodechucklemyselffeature |  
+| bip_39_word_no_space_7 | campcarrycodechucklemyselffeaturewonder |  
+| bip_39_word_no_space_8 | campcarrycodechucklemyselffeaturewonderanimal |  
+| bip_39_word_no_space_9 | campcarrycodechucklemyselffeaturewonderanimalpulp |  
 | bip_39_word_space_0 | ['camp', 'carry', 'code', 'chuckle', 'myself', 'feature', 'wonder', 'animal', 'pulp', 'badge', 'palace', 'aisle'] |  
 | bip_39_word_space_1 | camp |  
 | bip_39_word_space_10 | camp carry code chuckle myself feature wonder animal pulp badge |  

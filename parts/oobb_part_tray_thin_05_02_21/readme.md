@@ -122,6 +122,18 @@ tuna
 vacant
 fringe
 alien |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialjumpcattlewisdomhurrytunavacantfringealienapology |  
+| bip_39_word_no_space_11 | specialjumpcattlewisdomhurrytunavacantfringealienapologyvague |  
+| bip_39_word_no_space_12 | specialjumpcattlewisdomhurrytunavacantfringealienapologyvaguearrow |  
+| bip_39_word_no_space_2 | specialjump |  
+| bip_39_word_no_space_3 | specialjumpcattle |  
+| bip_39_word_no_space_4 | specialjumpcattlewisdom |  
+| bip_39_word_no_space_5 | specialjumpcattlewisdomhurry |  
+| bip_39_word_no_space_6 | specialjumpcattlewisdomhurrytuna |  
+| bip_39_word_no_space_7 | specialjumpcattlewisdomhurrytunavacant |  
+| bip_39_word_no_space_8 | specialjumpcattlewisdomhurrytunavacantfringe |  
+| bip_39_word_no_space_9 | specialjumpcattlewisdomhurrytunavacantfringealien |  
 | bip_39_word_space_0 | ['special', 'jump', 'cattle', 'wisdom', 'hurry', 'tuna', 'vacant', 'fringe', 'alien', 'apology', 'vague', 'arrow'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special jump cattle wisdom hurry tuna vacant fringe alien apology |  

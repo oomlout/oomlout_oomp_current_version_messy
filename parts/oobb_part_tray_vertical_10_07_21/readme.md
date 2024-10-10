@@ -122,6 +122,18 @@ wool
 name
 moment
 artist |  
+| bip_39_word_no_space_1 | exist |  
+| bip_39_word_no_space_10 | existgiraffechickenarriveswampwoolnamemomentartistmiss |  
+| bip_39_word_no_space_11 | existgiraffechickenarriveswampwoolnamemomentartistmissnotable |  
+| bip_39_word_no_space_12 | existgiraffechickenarriveswampwoolnamemomentartistmissnotablearea |  
+| bip_39_word_no_space_2 | existgiraffe |  
+| bip_39_word_no_space_3 | existgiraffechicken |  
+| bip_39_word_no_space_4 | existgiraffechickenarrive |  
+| bip_39_word_no_space_5 | existgiraffechickenarriveswamp |  
+| bip_39_word_no_space_6 | existgiraffechickenarriveswampwool |  
+| bip_39_word_no_space_7 | existgiraffechickenarriveswampwoolname |  
+| bip_39_word_no_space_8 | existgiraffechickenarriveswampwoolnamemoment |  
+| bip_39_word_no_space_9 | existgiraffechickenarriveswampwoolnamemomentartist |  
 | bip_39_word_space_0 | ['exist', 'giraffe', 'chicken', 'arrive', 'swamp', 'wool', 'name', 'moment', 'artist', 'miss', 'notable', 'area'] |  
 | bip_39_word_space_1 | exist |  
 | bip_39_word_space_10 | exist giraffe chicken arrive swamp wool name moment artist miss |  

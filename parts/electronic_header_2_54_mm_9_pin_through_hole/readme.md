@@ -122,6 +122,18 @@ flash
 seat
 nothing
 proof |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employnorthlemonunlockpoemflashseatnothingproofachieve |  
+| bip_39_word_no_space_11 | employnorthlemonunlockpoemflashseatnothingproofachievepurse |  
+| bip_39_word_no_space_12 | employnorthlemonunlockpoemflashseatnothingproofachievepurseaspect |  
+| bip_39_word_no_space_2 | employnorth |  
+| bip_39_word_no_space_3 | employnorthlemon |  
+| bip_39_word_no_space_4 | employnorthlemonunlock |  
+| bip_39_word_no_space_5 | employnorthlemonunlockpoem |  
+| bip_39_word_no_space_6 | employnorthlemonunlockpoemflash |  
+| bip_39_word_no_space_7 | employnorthlemonunlockpoemflashseat |  
+| bip_39_word_no_space_8 | employnorthlemonunlockpoemflashseatnothing |  
+| bip_39_word_no_space_9 | employnorthlemonunlockpoemflashseatnothingproof |  
 | bip_39_word_space_0 | ['employ', 'north', 'lemon', 'unlock', 'poem', 'flash', 'seat', 'nothing', 'proof', 'achieve', 'purse', 'aspect'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ north lemon unlock poem flash seat nothing proof achieve |  

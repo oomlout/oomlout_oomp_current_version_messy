@@ -122,6 +122,18 @@ retreat
 trust
 bunker
 family |  
+| bip_39_word_no_space_1 | topic |  
+| bip_39_word_no_space_10 | topicdesigndonatestumblesmoothretreattrustbunkerfamilydress |  
+| bip_39_word_no_space_11 | topicdesigndonatestumblesmoothretreattrustbunkerfamilydressaerobic |  
+| bip_39_word_no_space_12 | topicdesigndonatestumblesmoothretreattrustbunkerfamilydressaerobicassault |  
+| bip_39_word_no_space_2 | topicdesign |  
+| bip_39_word_no_space_3 | topicdesigndonate |  
+| bip_39_word_no_space_4 | topicdesigndonatestumble |  
+| bip_39_word_no_space_5 | topicdesigndonatestumblesmooth |  
+| bip_39_word_no_space_6 | topicdesigndonatestumblesmoothretreat |  
+| bip_39_word_no_space_7 | topicdesigndonatestumblesmoothretreattrust |  
+| bip_39_word_no_space_8 | topicdesigndonatestumblesmoothretreattrustbunker |  
+| bip_39_word_no_space_9 | topicdesigndonatestumblesmoothretreattrustbunkerfamily |  
 | bip_39_word_space_0 | ['topic', 'design', 'donate', 'stumble', 'smooth', 'retreat', 'trust', 'bunker', 'family', 'dress', 'aerobic', 'assault'] |  
 | bip_39_word_space_1 | topic |  
 | bip_39_word_space_10 | topic design donate stumble smooth retreat trust bunker family dress |  

@@ -122,6 +122,18 @@ cinnamon
 express
 lobster
 slogan |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolcertaingesturealsodefinecinnamonexpresslobstersloganmeat |  
+| bip_39_word_no_space_11 | patrolcertaingesturealsodefinecinnamonexpresslobstersloganmeatspring |  
+| bip_39_word_no_space_12 | patrolcertaingesturealsodefinecinnamonexpresslobstersloganmeatspringacross |  
+| bip_39_word_no_space_2 | patrolcertain |  
+| bip_39_word_no_space_3 | patrolcertaingesture |  
+| bip_39_word_no_space_4 | patrolcertaingesturealso |  
+| bip_39_word_no_space_5 | patrolcertaingesturealsodefine |  
+| bip_39_word_no_space_6 | patrolcertaingesturealsodefinecinnamon |  
+| bip_39_word_no_space_7 | patrolcertaingesturealsodefinecinnamonexpress |  
+| bip_39_word_no_space_8 | patrolcertaingesturealsodefinecinnamonexpresslobster |  
+| bip_39_word_no_space_9 | patrolcertaingesturealsodefinecinnamonexpresslobsterslogan |  
 | bip_39_word_space_0 | ['patrol', 'certain', 'gesture', 'also', 'define', 'cinnamon', 'express', 'lobster', 'slogan', 'meat', 'spring', 'across'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol certain gesture also define cinnamon express lobster slogan meat |  

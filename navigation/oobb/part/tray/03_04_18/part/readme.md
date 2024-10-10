@@ -122,6 +122,18 @@ table
 maximum
 size
 duck |  
+| bip_39_word_no_space_1 | sense |  
+| bip_39_word_no_space_10 | sensenervefadeshocknicetablemaximumsizeducksphere |  
+| bip_39_word_no_space_11 | sensenervefadeshocknicetablemaximumsizeduckspheresteel |  
+| bip_39_word_no_space_12 | sensenervefadeshocknicetablemaximumsizeduckspheresteelalmost |  
+| bip_39_word_no_space_2 | sensenerve |  
+| bip_39_word_no_space_3 | sensenervefade |  
+| bip_39_word_no_space_4 | sensenervefadeshock |  
+| bip_39_word_no_space_5 | sensenervefadeshocknice |  
+| bip_39_word_no_space_6 | sensenervefadeshocknicetable |  
+| bip_39_word_no_space_7 | sensenervefadeshocknicetablemaximum |  
+| bip_39_word_no_space_8 | sensenervefadeshocknicetablemaximumsize |  
+| bip_39_word_no_space_9 | sensenervefadeshocknicetablemaximumsizeduck |  
 | bip_39_word_space_0 | ['sense', 'nerve', 'fade', 'shock', 'nice', 'table', 'maximum', 'size', 'duck', 'sphere', 'steel', 'almost'] |  
 | bip_39_word_space_1 | sense |  
 | bip_39_word_space_10 | sense nerve fade shock nice table maximum size duck sphere |  

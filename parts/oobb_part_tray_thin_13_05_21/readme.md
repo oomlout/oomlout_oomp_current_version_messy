@@ -122,6 +122,18 @@ choice
 clock
 pluck
 volume |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officewinkbasetaskknifechoiceclockpluckvolumeinfant |  
+| bip_39_word_no_space_11 | officewinkbasetaskknifechoiceclockpluckvolumeinfantartwork |  
+| bip_39_word_no_space_12 | officewinkbasetaskknifechoiceclockpluckvolumeinfantartworkaim |  
+| bip_39_word_no_space_2 | officewink |  
+| bip_39_word_no_space_3 | officewinkbase |  
+| bip_39_word_no_space_4 | officewinkbasetask |  
+| bip_39_word_no_space_5 | officewinkbasetaskknife |  
+| bip_39_word_no_space_6 | officewinkbasetaskknifechoice |  
+| bip_39_word_no_space_7 | officewinkbasetaskknifechoiceclock |  
+| bip_39_word_no_space_8 | officewinkbasetaskknifechoiceclockpluck |  
+| bip_39_word_no_space_9 | officewinkbasetaskknifechoiceclockpluckvolume |  
 | bip_39_word_space_0 | ['office', 'wink', 'base', 'task', 'knife', 'choice', 'clock', 'pluck', 'volume', 'infant', 'artwork', 'aim'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office wink base task knife choice clock pluck volume infant |  

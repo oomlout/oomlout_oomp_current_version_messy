@@ -122,6 +122,18 @@ talent
 clock
 mixture
 various |  
+| bip_39_word_no_space_1 | ten |  
+| bip_39_word_no_space_10 | tenrulealarmwhipoutsidetalentclockmixturevarioushusband |  
+| bip_39_word_no_space_11 | tenrulealarmwhipoutsidetalentclockmixturevarioushusbandcube |  
+| bip_39_word_no_space_12 | tenrulealarmwhipoutsidetalentclockmixturevarioushusbandcubeaccuse |  
+| bip_39_word_no_space_2 | tenrule |  
+| bip_39_word_no_space_3 | tenrulealarm |  
+| bip_39_word_no_space_4 | tenrulealarmwhip |  
+| bip_39_word_no_space_5 | tenrulealarmwhipoutside |  
+| bip_39_word_no_space_6 | tenrulealarmwhipoutsidetalent |  
+| bip_39_word_no_space_7 | tenrulealarmwhipoutsidetalentclock |  
+| bip_39_word_no_space_8 | tenrulealarmwhipoutsidetalentclockmixture |  
+| bip_39_word_no_space_9 | tenrulealarmwhipoutsidetalentclockmixturevarious |  
 | bip_39_word_space_0 | ['ten', 'rule', 'alarm', 'whip', 'outside', 'talent', 'clock', 'mixture', 'various', 'husband', 'cube', 'accuse'] |  
 | bip_39_word_space_1 | ten |  
 | bip_39_word_space_10 | ten rule alarm whip outside talent clock mixture various husband |  

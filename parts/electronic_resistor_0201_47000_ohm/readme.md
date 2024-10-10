@@ -122,6 +122,18 @@ barely
 position
 crop
 shield |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstrarecrowdprefercushionbarelypositioncropshieldchaos |  
+| bip_39_word_no_space_11 | burstrarecrowdprefercushionbarelypositioncropshieldchaosfew |  
+| bip_39_word_no_space_12 | burstrarecrowdprefercushionbarelypositioncropshieldchaosfewapology |  
+| bip_39_word_no_space_2 | burstrare |  
+| bip_39_word_no_space_3 | burstrarecrowd |  
+| bip_39_word_no_space_4 | burstrarecrowdprefer |  
+| bip_39_word_no_space_5 | burstrarecrowdprefercushion |  
+| bip_39_word_no_space_6 | burstrarecrowdprefercushionbarely |  
+| bip_39_word_no_space_7 | burstrarecrowdprefercushionbarelyposition |  
+| bip_39_word_no_space_8 | burstrarecrowdprefercushionbarelypositioncrop |  
+| bip_39_word_no_space_9 | burstrarecrowdprefercushionbarelypositioncropshield |  
 | bip_39_word_space_0 | ['burst', 'rare', 'crowd', 'prefer', 'cushion', 'barely', 'position', 'crop', 'shield', 'chaos', 'few', 'apology'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst rare crowd prefer cushion barely position crop shield chaos |  

@@ -122,6 +122,18 @@ simple
 shy
 frame
 library |  
+| bip_39_word_no_space_1 | thought |  
+| bip_39_word_no_space_10 | thoughtcustommonthtackletwicesimpleshyframelibraryrecall |  
+| bip_39_word_no_space_11 | thoughtcustommonthtackletwicesimpleshyframelibraryrecalldiscover |  
+| bip_39_word_no_space_12 | thoughtcustommonthtackletwicesimpleshyframelibraryrecalldiscoveractor |  
+| bip_39_word_no_space_2 | thoughtcustom |  
+| bip_39_word_no_space_3 | thoughtcustommonth |  
+| bip_39_word_no_space_4 | thoughtcustommonthtackle |  
+| bip_39_word_no_space_5 | thoughtcustommonthtackletwice |  
+| bip_39_word_no_space_6 | thoughtcustommonthtackletwicesimple |  
+| bip_39_word_no_space_7 | thoughtcustommonthtackletwicesimpleshy |  
+| bip_39_word_no_space_8 | thoughtcustommonthtackletwicesimpleshyframe |  
+| bip_39_word_no_space_9 | thoughtcustommonthtackletwicesimpleshyframelibrary |  
 | bip_39_word_space_0 | ['thought', 'custom', 'month', 'tackle', 'twice', 'simple', 'shy', 'frame', 'library', 'recall', 'discover', 'actor'] |  
 | bip_39_word_space_1 | thought |  
 | bip_39_word_space_10 | thought custom month tackle twice simple shy frame library recall |  

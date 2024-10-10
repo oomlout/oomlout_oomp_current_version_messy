@@ -122,6 +122,18 @@ girl
 off
 obscure
 ostrich |  
+| bip_39_word_no_space_1 | speed |  
+| bip_39_word_no_space_10 | speedcoachmazeabandonactgirloffobscureostrichoption |  
+| bip_39_word_no_space_11 | speedcoachmazeabandonactgirloffobscureostrichoptionloop |  
+| bip_39_word_no_space_12 | speedcoachmazeabandonactgirloffobscureostrichoptionloopantique |  
+| bip_39_word_no_space_2 | speedcoach |  
+| bip_39_word_no_space_3 | speedcoachmaze |  
+| bip_39_word_no_space_4 | speedcoachmazeabandon |  
+| bip_39_word_no_space_5 | speedcoachmazeabandonact |  
+| bip_39_word_no_space_6 | speedcoachmazeabandonactgirl |  
+| bip_39_word_no_space_7 | speedcoachmazeabandonactgirloff |  
+| bip_39_word_no_space_8 | speedcoachmazeabandonactgirloffobscure |  
+| bip_39_word_no_space_9 | speedcoachmazeabandonactgirloffobscureostrich |  
 | bip_39_word_space_0 | ['speed', 'coach', 'maze', 'abandon', 'act', 'girl', 'off', 'obscure', 'ostrich', 'option', 'loop', 'antique'] |  
 | bip_39_word_space_1 | speed |  
 | bip_39_word_space_10 | speed coach maze abandon act girl off obscure ostrich option |  

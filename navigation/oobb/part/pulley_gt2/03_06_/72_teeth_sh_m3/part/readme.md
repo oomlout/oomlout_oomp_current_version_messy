@@ -122,6 +122,18 @@ mesh
 connect
 open
 trim |  
+| bip_39_word_no_space_1 | salt |  
+| bip_39_word_no_space_10 | saltdignitystickalonequestionmeshconnectopentrimother |  
+| bip_39_word_no_space_11 | saltdignitystickalonequestionmeshconnectopentrimothershove |  
+| bip_39_word_no_space_12 | saltdignitystickalonequestionmeshconnectopentrimothershoveaisle |  
+| bip_39_word_no_space_2 | saltdignity |  
+| bip_39_word_no_space_3 | saltdignitystick |  
+| bip_39_word_no_space_4 | saltdignitystickalone |  
+| bip_39_word_no_space_5 | saltdignitystickalonequestion |  
+| bip_39_word_no_space_6 | saltdignitystickalonequestionmesh |  
+| bip_39_word_no_space_7 | saltdignitystickalonequestionmeshconnect |  
+| bip_39_word_no_space_8 | saltdignitystickalonequestionmeshconnectopen |  
+| bip_39_word_no_space_9 | saltdignitystickalonequestionmeshconnectopentrim |  
 | bip_39_word_space_0 | ['salt', 'dignity', 'stick', 'alone', 'question', 'mesh', 'connect', 'open', 'trim', 'other', 'shove', 'aisle'] |  
 | bip_39_word_space_1 | salt |  
 | bip_39_word_space_10 | salt dignity stick alone question mesh connect open trim other |  

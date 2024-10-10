@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'card
   onion
 
   naive'
+bip_39_word_no_space_1: card
+bip_39_word_no_space_10: cardenjoyspoillettertiredvisitstartonionnaivetoy
+bip_39_word_no_space_11: cardenjoyspoillettertiredvisitstartonionnaivetoynose
+bip_39_word_no_space_12: cardenjoyspoillettertiredvisitstartonionnaivetoynoseamused
+bip_39_word_no_space_2: cardenjoy
+bip_39_word_no_space_3: cardenjoyspoil
+bip_39_word_no_space_4: cardenjoyspoilletter
+bip_39_word_no_space_5: cardenjoyspoillettertired
+bip_39_word_no_space_6: cardenjoyspoillettertiredvisit
+bip_39_word_no_space_7: cardenjoyspoillettertiredvisitstart
+bip_39_word_no_space_8: cardenjoyspoillettertiredvisitstartonion
+bip_39_word_no_space_9: cardenjoyspoillettertiredvisitstartonionnaive
 bip_39_word_space_0:
 - card
 - enjoy

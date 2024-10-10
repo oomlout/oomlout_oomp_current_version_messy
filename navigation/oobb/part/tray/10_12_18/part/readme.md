@@ -122,6 +122,18 @@ knee
 roof
 welcome
 they |  
+| bip_39_word_no_space_1 | stairs |  
+| bip_39_word_no_space_10 | stairsorbithollowhelloheightkneeroofwelcometheyevidence |  
+| bip_39_word_no_space_11 | stairsorbithollowhelloheightkneeroofwelcometheyevidencechoose |  
+| bip_39_word_no_space_12 | stairsorbithollowhelloheightkneeroofwelcometheyevidencechoosealmost |  
+| bip_39_word_no_space_2 | stairsorbit |  
+| bip_39_word_no_space_3 | stairsorbithollow |  
+| bip_39_word_no_space_4 | stairsorbithollowhello |  
+| bip_39_word_no_space_5 | stairsorbithollowhelloheight |  
+| bip_39_word_no_space_6 | stairsorbithollowhelloheightknee |  
+| bip_39_word_no_space_7 | stairsorbithollowhelloheightkneeroof |  
+| bip_39_word_no_space_8 | stairsorbithollowhelloheightkneeroofwelcome |  
+| bip_39_word_no_space_9 | stairsorbithollowhelloheightkneeroofwelcomethey |  
 | bip_39_word_space_0 | ['stairs', 'orbit', 'hollow', 'hello', 'height', 'knee', 'roof', 'welcome', 'they', 'evidence', 'choose', 'almost'] |  
 | bip_39_word_space_1 | stairs |  
 | bip_39_word_space_10 | stairs orbit hollow hello height knee roof welcome they evidence |  

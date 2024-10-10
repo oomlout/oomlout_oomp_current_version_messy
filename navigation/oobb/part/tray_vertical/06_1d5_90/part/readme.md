@@ -122,6 +122,18 @@ dinner
 forum
 around
 cause |  
+| bip_39_word_no_space_1 | aunt |  
+| bip_39_word_no_space_10 | auntglareautumnallmodeldinnerforumaroundcauselumber |  
+| bip_39_word_no_space_11 | auntglareautumnallmodeldinnerforumaroundcauselumbervote |  
+| bip_39_word_no_space_12 | auntglareautumnallmodeldinnerforumaroundcauselumbervoteagain |  
+| bip_39_word_no_space_2 | auntglare |  
+| bip_39_word_no_space_3 | auntglareautumn |  
+| bip_39_word_no_space_4 | auntglareautumnall |  
+| bip_39_word_no_space_5 | auntglareautumnallmodel |  
+| bip_39_word_no_space_6 | auntglareautumnallmodeldinner |  
+| bip_39_word_no_space_7 | auntglareautumnallmodeldinnerforum |  
+| bip_39_word_no_space_8 | auntglareautumnallmodeldinnerforumaround |  
+| bip_39_word_no_space_9 | auntglareautumnallmodeldinnerforumaroundcause |  
 | bip_39_word_space_0 | ['aunt', 'glare', 'autumn', 'all', 'model', 'dinner', 'forum', 'around', 'cause', 'lumber', 'vote', 'again'] |  
 | bip_39_word_space_1 | aunt |  
 | bip_39_word_space_10 | aunt glare autumn all model dinner forum around cause lumber |  

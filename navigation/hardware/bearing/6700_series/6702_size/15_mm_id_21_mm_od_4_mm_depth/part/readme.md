@@ -122,6 +122,18 @@ skirt
 ginger
 poem
 bread |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displayrightchiefeasilygarlicskirtgingerpoembreadshrimp |  
+| bip_39_word_no_space_11 | displayrightchiefeasilygarlicskirtgingerpoembreadshrimpjazz |  
+| bip_39_word_no_space_12 | displayrightchiefeasilygarlicskirtgingerpoembreadshrimpjazzaction |  
+| bip_39_word_no_space_2 | displayright |  
+| bip_39_word_no_space_3 | displayrightchief |  
+| bip_39_word_no_space_4 | displayrightchiefeasily |  
+| bip_39_word_no_space_5 | displayrightchiefeasilygarlic |  
+| bip_39_word_no_space_6 | displayrightchiefeasilygarlicskirt |  
+| bip_39_word_no_space_7 | displayrightchiefeasilygarlicskirtginger |  
+| bip_39_word_no_space_8 | displayrightchiefeasilygarlicskirtgingerpoem |  
+| bip_39_word_no_space_9 | displayrightchiefeasilygarlicskirtgingerpoembread |  
 | bip_39_word_space_0 | ['display', 'right', 'chief', 'easily', 'garlic', 'skirt', 'ginger', 'poem', 'bread', 'shrimp', 'jazz', 'action'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display right chief easily garlic skirt ginger poem bread shrimp |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bonus
   issue
 
   doll'
+bip_39_word_no_space_1: bonus
+bip_39_word_no_space_10: bonusripplenapkincrunchrosesilentgenuineissuedollerase
+bip_39_word_no_space_11: bonusripplenapkincrunchrosesilentgenuineissuedollerasecrash
+bip_39_word_no_space_12: bonusripplenapkincrunchrosesilentgenuineissuedollerasecrashaunt
+bip_39_word_no_space_2: bonusripple
+bip_39_word_no_space_3: bonusripplenapkin
+bip_39_word_no_space_4: bonusripplenapkincrunch
+bip_39_word_no_space_5: bonusripplenapkincrunchrose
+bip_39_word_no_space_6: bonusripplenapkincrunchrosesilent
+bip_39_word_no_space_7: bonusripplenapkincrunchrosesilentgenuine
+bip_39_word_no_space_8: bonusripplenapkincrunchrosesilentgenuineissue
+bip_39_word_no_space_9: bonusripplenapkincrunchrosesilentgenuineissuedoll
 bip_39_word_space_0:
 - bonus
 - ripple

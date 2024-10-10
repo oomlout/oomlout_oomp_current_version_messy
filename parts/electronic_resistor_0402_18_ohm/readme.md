@@ -122,6 +122,18 @@ alter
 antenna
 ghost
 damp |  
+| bip_39_word_no_space_1 | flock |  
+| bip_39_word_no_space_10 | flocksubwaygriefplasticjazzalterantennaghostdampspace |  
+| bip_39_word_no_space_11 | flocksubwaygriefplasticjazzalterantennaghostdampspaceupgrade |  
+| bip_39_word_no_space_12 | flocksubwaygriefplasticjazzalterantennaghostdampspaceupgradeappear |  
+| bip_39_word_no_space_2 | flocksubway |  
+| bip_39_word_no_space_3 | flocksubwaygrief |  
+| bip_39_word_no_space_4 | flocksubwaygriefplastic |  
+| bip_39_word_no_space_5 | flocksubwaygriefplasticjazz |  
+| bip_39_word_no_space_6 | flocksubwaygriefplasticjazzalter |  
+| bip_39_word_no_space_7 | flocksubwaygriefplasticjazzalterantenna |  
+| bip_39_word_no_space_8 | flocksubwaygriefplasticjazzalterantennaghost |  
+| bip_39_word_no_space_9 | flocksubwaygriefplasticjazzalterantennaghostdamp |  
 | bip_39_word_space_0 | ['flock', 'subway', 'grief', 'plastic', 'jazz', 'alter', 'antenna', 'ghost', 'damp', 'space', 'upgrade', 'appear'] |  
 | bip_39_word_space_1 | flock |  
 | bip_39_word_space_10 | flock subway grief plastic jazz alter antenna ghost damp space |  

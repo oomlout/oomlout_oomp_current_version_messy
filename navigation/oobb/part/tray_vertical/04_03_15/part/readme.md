@@ -122,6 +122,18 @@ eagle
 rare
 narrow
 tribe |  
+| bip_39_word_no_space_1 | august |  
+| bip_39_word_no_space_10 | augustpracticetomorrowauthorlegaleaglerarenarrowtribeensure |  
+| bip_39_word_no_space_11 | augustpracticetomorrowauthorlegaleaglerarenarrowtribeensurerib |  
+| bip_39_word_no_space_12 | augustpracticetomorrowauthorlegaleaglerarenarrowtribeensureribarrange |  
+| bip_39_word_no_space_2 | augustpractice |  
+| bip_39_word_no_space_3 | augustpracticetomorrow |  
+| bip_39_word_no_space_4 | augustpracticetomorrowauthor |  
+| bip_39_word_no_space_5 | augustpracticetomorrowauthorlegal |  
+| bip_39_word_no_space_6 | augustpracticetomorrowauthorlegaleagle |  
+| bip_39_word_no_space_7 | augustpracticetomorrowauthorlegaleaglerare |  
+| bip_39_word_no_space_8 | augustpracticetomorrowauthorlegaleaglerarenarrow |  
+| bip_39_word_no_space_9 | augustpracticetomorrowauthorlegaleaglerarenarrowtribe |  
 | bip_39_word_space_0 | ['august', 'practice', 'tomorrow', 'author', 'legal', 'eagle', 'rare', 'narrow', 'tribe', 'ensure', 'rib', 'arrange'] |  
 | bip_39_word_space_1 | august |  
 | bip_39_word_space_10 | august practice tomorrow author legal eagle rare narrow tribe ensure |  

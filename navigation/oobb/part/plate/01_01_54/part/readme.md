@@ -122,6 +122,18 @@ crunch
 viable
 chat
 alley |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declinecreamfoldwritesplitcrunchviablechatalleyhold |  
+| bip_39_word_no_space_11 | declinecreamfoldwritesplitcrunchviablechatalleyholdblanket |  
+| bip_39_word_no_space_12 | declinecreamfoldwritesplitcrunchviablechatalleyholdblanketauto |  
+| bip_39_word_no_space_2 | declinecream |  
+| bip_39_word_no_space_3 | declinecreamfold |  
+| bip_39_word_no_space_4 | declinecreamfoldwrite |  
+| bip_39_word_no_space_5 | declinecreamfoldwritesplit |  
+| bip_39_word_no_space_6 | declinecreamfoldwritesplitcrunch |  
+| bip_39_word_no_space_7 | declinecreamfoldwritesplitcrunchviable |  
+| bip_39_word_no_space_8 | declinecreamfoldwritesplitcrunchviablechat |  
+| bip_39_word_no_space_9 | declinecreamfoldwritesplitcrunchviablechatalley |  
 | bip_39_word_space_0 | ['decline', 'cream', 'fold', 'write', 'split', 'crunch', 'viable', 'chat', 'alley', 'hold', 'blanket', 'auto'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline cream fold write split crunch viable chat alley hold |  

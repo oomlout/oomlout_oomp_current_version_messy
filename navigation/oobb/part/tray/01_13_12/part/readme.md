@@ -122,6 +122,18 @@ device
 hedgehog
 harsh
 fade |  
+| bip_39_word_no_space_1 | speak |  
+| bip_39_word_no_space_10 | speakpurityagentsirengoatdevicehedgehogharshfadeblade |  
+| bip_39_word_no_space_11 | speakpurityagentsirengoatdevicehedgehogharshfadebladefire |  
+| bip_39_word_no_space_12 | speakpurityagentsirengoatdevicehedgehogharshfadebladefirearea |  
+| bip_39_word_no_space_2 | speakpurity |  
+| bip_39_word_no_space_3 | speakpurityagent |  
+| bip_39_word_no_space_4 | speakpurityagentsiren |  
+| bip_39_word_no_space_5 | speakpurityagentsirengoat |  
+| bip_39_word_no_space_6 | speakpurityagentsirengoatdevice |  
+| bip_39_word_no_space_7 | speakpurityagentsirengoatdevicehedgehog |  
+| bip_39_word_no_space_8 | speakpurityagentsirengoatdevicehedgehogharsh |  
+| bip_39_word_no_space_9 | speakpurityagentsirengoatdevicehedgehogharshfade |  
 | bip_39_word_space_0 | ['speak', 'purity', 'agent', 'siren', 'goat', 'device', 'hedgehog', 'harsh', 'fade', 'blade', 'fire', 'area'] |  
 | bip_39_word_space_1 | speak |  
 | bip_39_word_space_10 | speak purity agent siren goat device hedgehog harsh fade blade |  

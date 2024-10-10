@@ -122,6 +122,18 @@ transfer
 slide
 fork
 sock |  
+| bip_39_word_no_space_1 | avoid |  
+| bip_39_word_no_space_10 | avoidrentfrownalleytidetransferslideforksockbelieve |  
+| bip_39_word_no_space_11 | avoidrentfrownalleytidetransferslideforksockbelievecherry |  
+| bip_39_word_no_space_12 | avoidrentfrownalleytidetransferslideforksockbelievecherryadmit |  
+| bip_39_word_no_space_2 | avoidrent |  
+| bip_39_word_no_space_3 | avoidrentfrown |  
+| bip_39_word_no_space_4 | avoidrentfrownalley |  
+| bip_39_word_no_space_5 | avoidrentfrownalleytide |  
+| bip_39_word_no_space_6 | avoidrentfrownalleytidetransfer |  
+| bip_39_word_no_space_7 | avoidrentfrownalleytidetransferslide |  
+| bip_39_word_no_space_8 | avoidrentfrownalleytidetransferslidefork |  
+| bip_39_word_no_space_9 | avoidrentfrownalleytidetransferslideforksock |  
 | bip_39_word_space_0 | ['avoid', 'rent', 'frown', 'alley', 'tide', 'transfer', 'slide', 'fork', 'sock', 'believe', 'cherry', 'admit'] |  
 | bip_39_word_space_1 | avoid |  
 | bip_39_word_space_10 | avoid rent frown alley tide transfer slide fork sock believe |  

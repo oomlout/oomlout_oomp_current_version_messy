@@ -122,6 +122,18 @@ famous
 rubber
 fly
 fatal |  
+| bip_39_word_no_space_1 | sport |  
+| bip_39_word_no_space_10 | sportgowncrouchusualimmensefamousrubberflyfatalcivil |  
+| bip_39_word_no_space_11 | sportgowncrouchusualimmensefamousrubberflyfatalcivilgrunt |  
+| bip_39_word_no_space_12 | sportgowncrouchusualimmensefamousrubberflyfatalcivilgruntaction |  
+| bip_39_word_no_space_2 | sportgown |  
+| bip_39_word_no_space_3 | sportgowncrouch |  
+| bip_39_word_no_space_4 | sportgowncrouchusual |  
+| bip_39_word_no_space_5 | sportgowncrouchusualimmense |  
+| bip_39_word_no_space_6 | sportgowncrouchusualimmensefamous |  
+| bip_39_word_no_space_7 | sportgowncrouchusualimmensefamousrubber |  
+| bip_39_word_no_space_8 | sportgowncrouchusualimmensefamousrubberfly |  
+| bip_39_word_no_space_9 | sportgowncrouchusualimmensefamousrubberflyfatal |  
 | bip_39_word_space_0 | ['sport', 'gown', 'crouch', 'usual', 'immense', 'famous', 'rubber', 'fly', 'fatal', 'civil', 'grunt', 'action'] |  
 | bip_39_word_space_1 | sport |  
 | bip_39_word_space_10 | sport gown crouch usual immense famous rubber fly fatal civil |  

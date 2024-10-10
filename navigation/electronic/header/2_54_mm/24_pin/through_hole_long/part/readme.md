@@ -122,6 +122,18 @@ stage
 fever
 idea
 practice |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | givehospitaldiscoverwheatnoblestagefeverideapracticeawful |  
+| bip_39_word_no_space_11 | givehospitaldiscoverwheatnoblestagefeverideapracticeawfulplease |  
+| bip_39_word_no_space_12 | givehospitaldiscoverwheatnoblestagefeverideapracticeawfulpleaseapprove |  
+| bip_39_word_no_space_2 | givehospital |  
+| bip_39_word_no_space_3 | givehospitaldiscover |  
+| bip_39_word_no_space_4 | givehospitaldiscoverwheat |  
+| bip_39_word_no_space_5 | givehospitaldiscoverwheatnoble |  
+| bip_39_word_no_space_6 | givehospitaldiscoverwheatnoblestage |  
+| bip_39_word_no_space_7 | givehospitaldiscoverwheatnoblestagefever |  
+| bip_39_word_no_space_8 | givehospitaldiscoverwheatnoblestagefeveridea |  
+| bip_39_word_no_space_9 | givehospitaldiscoverwheatnoblestagefeverideapractice |  
 | bip_39_word_space_0 | ['give', 'hospital', 'discover', 'wheat', 'noble', 'stage', 'fever', 'idea', 'practice', 'awful', 'please', 'approve'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give hospital discover wheat noble stage fever idea practice awful |  

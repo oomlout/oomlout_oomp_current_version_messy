@@ -122,6 +122,18 @@ base
 now
 advance
 hamster |  
+| bip_39_word_no_space_1 | blame |  
+| bip_39_word_no_space_10 | blametrackliarfaithflybasenowadvancehamsterprize |  
+| bip_39_word_no_space_11 | blametrackliarfaithflybasenowadvancehamsterprizecattle |  
+| bip_39_word_no_space_12 | blametrackliarfaithflybasenowadvancehamsterprizecattlealone |  
+| bip_39_word_no_space_2 | blametrack |  
+| bip_39_word_no_space_3 | blametrackliar |  
+| bip_39_word_no_space_4 | blametrackliarfaith |  
+| bip_39_word_no_space_5 | blametrackliarfaithfly |  
+| bip_39_word_no_space_6 | blametrackliarfaithflybase |  
+| bip_39_word_no_space_7 | blametrackliarfaithflybasenow |  
+| bip_39_word_no_space_8 | blametrackliarfaithflybasenowadvance |  
+| bip_39_word_no_space_9 | blametrackliarfaithflybasenowadvancehamster |  
 | bip_39_word_space_0 | ['blame', 'track', 'liar', 'faith', 'fly', 'base', 'now', 'advance', 'hamster', 'prize', 'cattle', 'alone'] |  
 | bip_39_word_space_1 | blame |  
 | bip_39_word_space_10 | blame track liar faith fly base now advance hamster prize |  

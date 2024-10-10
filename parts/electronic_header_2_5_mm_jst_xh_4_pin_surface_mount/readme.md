@@ -122,6 +122,18 @@ timber
 school
 ahead
 joy |  
+| bip_39_word_no_space_1 | script |  
+| bip_39_word_no_space_10 | scriptracegaragesignradiotimberschoolaheadjoycereal |  
+| bip_39_word_no_space_11 | scriptracegaragesignradiotimberschoolaheadjoycerealdrastic |  
+| bip_39_word_no_space_12 | scriptracegaragesignradiotimberschoolaheadjoycerealdrasticalert |  
+| bip_39_word_no_space_2 | scriptrace |  
+| bip_39_word_no_space_3 | scriptracegarage |  
+| bip_39_word_no_space_4 | scriptracegaragesign |  
+| bip_39_word_no_space_5 | scriptracegaragesignradio |  
+| bip_39_word_no_space_6 | scriptracegaragesignradiotimber |  
+| bip_39_word_no_space_7 | scriptracegaragesignradiotimberschool |  
+| bip_39_word_no_space_8 | scriptracegaragesignradiotimberschoolahead |  
+| bip_39_word_no_space_9 | scriptracegaragesignradiotimberschoolaheadjoy |  
 | bip_39_word_space_0 | ['script', 'race', 'garage', 'sign', 'radio', 'timber', 'school', 'ahead', 'joy', 'cereal', 'drastic', 'alert'] |  
 | bip_39_word_space_1 | script |  
 | bip_39_word_space_10 | script race garage sign radio timber school ahead joy cereal |  

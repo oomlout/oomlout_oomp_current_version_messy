@@ -122,6 +122,18 @@ width
 symptom
 wrap
 confirm |  
+| bip_39_word_no_space_1 | slow |  
+| bip_39_word_no_space_10 | slowtattoofringeseminarpipewidthsymptomwrapconfirmrange |  
+| bip_39_word_no_space_11 | slowtattoofringeseminarpipewidthsymptomwrapconfirmrangeboss |  
+| bip_39_word_no_space_12 | slowtattoofringeseminarpipewidthsymptomwrapconfirmrangebossassault |  
+| bip_39_word_no_space_2 | slowtattoo |  
+| bip_39_word_no_space_3 | slowtattoofringe |  
+| bip_39_word_no_space_4 | slowtattoofringeseminar |  
+| bip_39_word_no_space_5 | slowtattoofringeseminarpipe |  
+| bip_39_word_no_space_6 | slowtattoofringeseminarpipewidth |  
+| bip_39_word_no_space_7 | slowtattoofringeseminarpipewidthsymptom |  
+| bip_39_word_no_space_8 | slowtattoofringeseminarpipewidthsymptomwrap |  
+| bip_39_word_no_space_9 | slowtattoofringeseminarpipewidthsymptomwrapconfirm |  
 | bip_39_word_space_0 | ['slow', 'tattoo', 'fringe', 'seminar', 'pipe', 'width', 'symptom', 'wrap', 'confirm', 'range', 'boss', 'assault'] |  
 | bip_39_word_space_1 | slow |  
 | bip_39_word_space_10 | slow tattoo fringe seminar pipe width symptom wrap confirm range |  

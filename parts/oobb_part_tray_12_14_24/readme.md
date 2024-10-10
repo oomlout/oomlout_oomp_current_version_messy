@@ -122,6 +122,18 @@ tiger
 parrot
 course
 prepare |  
+| bip_39_word_no_space_1 | shoe |  
+| bip_39_word_no_space_10 | shoeclublockweekendundotigerparrotcourseprepareorder |  
+| bip_39_word_no_space_11 | shoeclublockweekendundotigerparrotcourseprepareorderfather |  
+| bip_39_word_no_space_12 | shoeclublockweekendundotigerparrotcourseprepareorderfatherart |  
+| bip_39_word_no_space_2 | shoeclub |  
+| bip_39_word_no_space_3 | shoeclublock |  
+| bip_39_word_no_space_4 | shoeclublockweekend |  
+| bip_39_word_no_space_5 | shoeclublockweekendundo |  
+| bip_39_word_no_space_6 | shoeclublockweekendundotiger |  
+| bip_39_word_no_space_7 | shoeclublockweekendundotigerparrot |  
+| bip_39_word_no_space_8 | shoeclublockweekendundotigerparrotcourse |  
+| bip_39_word_no_space_9 | shoeclublockweekendundotigerparrotcourseprepare |  
 | bip_39_word_space_0 | ['shoe', 'club', 'lock', 'weekend', 'undo', 'tiger', 'parrot', 'course', 'prepare', 'order', 'father', 'art'] |  
 | bip_39_word_space_1 | shoe |  
 | bip_39_word_space_10 | shoe club lock weekend undo tiger parrot course prepare order |  

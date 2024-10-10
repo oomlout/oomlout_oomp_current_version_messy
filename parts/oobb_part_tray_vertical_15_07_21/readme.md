@@ -122,6 +122,18 @@ symptom
 educate
 repair
 happy |  
+| bip_39_word_no_space_1 | anger |  
+| bip_39_word_no_space_10 | angerathletespaceclosedespairsymptomeducaterepairhappykingdom |  
+| bip_39_word_no_space_11 | angerathletespaceclosedespairsymptomeducaterepairhappykingdomartwork |  
+| bip_39_word_no_space_12 | angerathletespaceclosedespairsymptomeducaterepairhappykingdomartworkage |  
+| bip_39_word_no_space_2 | angerathlete |  
+| bip_39_word_no_space_3 | angerathletespace |  
+| bip_39_word_no_space_4 | angerathletespaceclose |  
+| bip_39_word_no_space_5 | angerathletespaceclosedespair |  
+| bip_39_word_no_space_6 | angerathletespaceclosedespairsymptom |  
+| bip_39_word_no_space_7 | angerathletespaceclosedespairsymptomeducate |  
+| bip_39_word_no_space_8 | angerathletespaceclosedespairsymptomeducaterepair |  
+| bip_39_word_no_space_9 | angerathletespaceclosedespairsymptomeducaterepairhappy |  
 | bip_39_word_space_0 | ['anger', 'athlete', 'space', 'close', 'despair', 'symptom', 'educate', 'repair', 'happy', 'kingdom', 'artwork', 'age'] |  
 | bip_39_word_space_1 | anger |  
 | bip_39_word_space_10 | anger athlete space close despair symptom educate repair happy kingdom |  

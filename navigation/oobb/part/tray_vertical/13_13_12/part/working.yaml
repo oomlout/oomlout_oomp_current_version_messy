@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'royal
   adapt
 
   use'
+bip_39_word_no_space_1: royal
+bip_39_word_no_space_10: royalmustarrangegeneralslushbonepantheradaptusereceive
+bip_39_word_no_space_11: royalmustarrangegeneralslushbonepantheradaptusereceivescan
+bip_39_word_no_space_12: royalmustarrangegeneralslushbonepantheradaptusereceivescananother
+bip_39_word_no_space_2: royalmust
+bip_39_word_no_space_3: royalmustarrange
+bip_39_word_no_space_4: royalmustarrangegeneral
+bip_39_word_no_space_5: royalmustarrangegeneralslush
+bip_39_word_no_space_6: royalmustarrangegeneralslushbone
+bip_39_word_no_space_7: royalmustarrangegeneralslushbonepanther
+bip_39_word_no_space_8: royalmustarrangegeneralslushbonepantheradapt
+bip_39_word_no_space_9: royalmustarrangegeneralslushbonepantheradaptuse
 bip_39_word_space_0:
 - royal
 - must

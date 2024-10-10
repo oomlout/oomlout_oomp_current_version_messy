@@ -122,6 +122,18 @@ balcony
 endorse
 stand
 cotton |  
+| bip_39_word_no_space_1 | guess |  
+| bip_39_word_no_space_10 | guesshockeylengthschooltargetbalconyendorsestandcottonclog |  
+| bip_39_word_no_space_11 | guesshockeylengthschooltargetbalconyendorsestandcottoncloginform |  
+| bip_39_word_no_space_12 | guesshockeylengthschooltargetbalconyendorsestandcottoncloginformarrange |  
+| bip_39_word_no_space_2 | guesshockey |  
+| bip_39_word_no_space_3 | guesshockeylength |  
+| bip_39_word_no_space_4 | guesshockeylengthschool |  
+| bip_39_word_no_space_5 | guesshockeylengthschooltarget |  
+| bip_39_word_no_space_6 | guesshockeylengthschooltargetbalcony |  
+| bip_39_word_no_space_7 | guesshockeylengthschooltargetbalconyendorse |  
+| bip_39_word_no_space_8 | guesshockeylengthschooltargetbalconyendorsestand |  
+| bip_39_word_no_space_9 | guesshockeylengthschooltargetbalconyendorsestandcotton |  
 | bip_39_word_space_0 | ['guess', 'hockey', 'length', 'school', 'target', 'balcony', 'endorse', 'stand', 'cotton', 'clog', 'inform', 'arrange'] |  
 | bip_39_word_space_1 | guess |  
 | bip_39_word_space_10 | guess hockey length school target balcony endorse stand cotton clog |  

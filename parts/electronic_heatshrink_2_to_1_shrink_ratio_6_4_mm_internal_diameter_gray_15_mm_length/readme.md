@@ -122,6 +122,18 @@ success
 define
 harsh
 call |  
+| bip_39_word_no_space_1 | pole |  
+| bip_39_word_no_space_10 | polepurposecycleinitialhumorsuccessdefineharshcalleither |  
+| bip_39_word_no_space_11 | polepurposecycleinitialhumorsuccessdefineharshcalleithermerry |  
+| bip_39_word_no_space_12 | polepurposecycleinitialhumorsuccessdefineharshcalleithermerryaction |  
+| bip_39_word_no_space_2 | polepurpose |  
+| bip_39_word_no_space_3 | polepurposecycle |  
+| bip_39_word_no_space_4 | polepurposecycleinitial |  
+| bip_39_word_no_space_5 | polepurposecycleinitialhumor |  
+| bip_39_word_no_space_6 | polepurposecycleinitialhumorsuccess |  
+| bip_39_word_no_space_7 | polepurposecycleinitialhumorsuccessdefine |  
+| bip_39_word_no_space_8 | polepurposecycleinitialhumorsuccessdefineharsh |  
+| bip_39_word_no_space_9 | polepurposecycleinitialhumorsuccessdefineharshcall |  
 | bip_39_word_space_0 | ['pole', 'purpose', 'cycle', 'initial', 'humor', 'success', 'define', 'harsh', 'call', 'either', 'merry', 'action'] |  
 | bip_39_word_space_1 | pole |  
 | bip_39_word_space_10 | pole purpose cycle initial humor success define harsh call either |  

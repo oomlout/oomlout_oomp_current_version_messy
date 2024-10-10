@@ -122,6 +122,18 @@ pigeon
 sentence
 critic
 science |  
+| bip_39_word_no_space_1 | check |  
+| bip_39_word_no_space_10 | checkmathbargaingiraffepullpigeonsentencecriticsciencelucky |  
+| bip_39_word_no_space_11 | checkmathbargaingiraffepullpigeonsentencecriticscienceluckydetect |  
+| bip_39_word_no_space_12 | checkmathbargaingiraffepullpigeonsentencecriticscienceluckydetectannounce |  
+| bip_39_word_no_space_2 | checkmath |  
+| bip_39_word_no_space_3 | checkmathbargain |  
+| bip_39_word_no_space_4 | checkmathbargaingiraffe |  
+| bip_39_word_no_space_5 | checkmathbargaingiraffepull |  
+| bip_39_word_no_space_6 | checkmathbargaingiraffepullpigeon |  
+| bip_39_word_no_space_7 | checkmathbargaingiraffepullpigeonsentence |  
+| bip_39_word_no_space_8 | checkmathbargaingiraffepullpigeonsentencecritic |  
+| bip_39_word_no_space_9 | checkmathbargaingiraffepullpigeonsentencecriticscience |  
 | bip_39_word_space_0 | ['check', 'math', 'bargain', 'giraffe', 'pull', 'pigeon', 'sentence', 'critic', 'science', 'lucky', 'detect', 'announce'] |  
 | bip_39_word_space_1 | check |  
 | bip_39_word_space_10 | check math bargain giraffe pull pigeon sentence critic science lucky |  

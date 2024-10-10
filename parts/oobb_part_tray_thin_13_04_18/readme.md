@@ -122,6 +122,18 @@ betray
 tenant
 this
 emerge |  
+| bip_39_word_no_space_1 | alarm |  
+| bip_39_word_no_space_10 | alarmtwinexpectvoteuniversebetraytenantthisemergepottery |  
+| bip_39_word_no_space_11 | alarmtwinexpectvoteuniversebetraytenantthisemergepotterymixed |  
+| bip_39_word_no_space_12 | alarmtwinexpectvoteuniversebetraytenantthisemergepotterymixedalmost |  
+| bip_39_word_no_space_2 | alarmtwin |  
+| bip_39_word_no_space_3 | alarmtwinexpect |  
+| bip_39_word_no_space_4 | alarmtwinexpectvote |  
+| bip_39_word_no_space_5 | alarmtwinexpectvoteuniverse |  
+| bip_39_word_no_space_6 | alarmtwinexpectvoteuniversebetray |  
+| bip_39_word_no_space_7 | alarmtwinexpectvoteuniversebetraytenant |  
+| bip_39_word_no_space_8 | alarmtwinexpectvoteuniversebetraytenantthis |  
+| bip_39_word_no_space_9 | alarmtwinexpectvoteuniversebetraytenantthisemerge |  
 | bip_39_word_space_0 | ['alarm', 'twin', 'expect', 'vote', 'universe', 'betray', 'tenant', 'this', 'emerge', 'pottery', 'mixed', 'almost'] |  
 | bip_39_word_space_1 | alarm |  
 | bip_39_word_space_10 | alarm twin expect vote universe betray tenant this emerge pottery |  

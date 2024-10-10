@@ -122,6 +122,18 @@ advance
 seek
 lift
 dune |  
+| bip_39_word_no_space_1 | easily |  
+| bip_39_word_no_space_10 | easilydinosaurjustwarmbuzzadvanceseekliftduneremove |  
+| bip_39_word_no_space_11 | easilydinosaurjustwarmbuzzadvanceseekliftduneremoveessay |  
+| bip_39_word_no_space_12 | easilydinosaurjustwarmbuzzadvanceseekliftduneremoveessayarea |  
+| bip_39_word_no_space_2 | easilydinosaur |  
+| bip_39_word_no_space_3 | easilydinosaurjust |  
+| bip_39_word_no_space_4 | easilydinosaurjustwarm |  
+| bip_39_word_no_space_5 | easilydinosaurjustwarmbuzz |  
+| bip_39_word_no_space_6 | easilydinosaurjustwarmbuzzadvance |  
+| bip_39_word_no_space_7 | easilydinosaurjustwarmbuzzadvanceseek |  
+| bip_39_word_no_space_8 | easilydinosaurjustwarmbuzzadvanceseeklift |  
+| bip_39_word_no_space_9 | easilydinosaurjustwarmbuzzadvanceseekliftdune |  
 | bip_39_word_space_0 | ['easily', 'dinosaur', 'just', 'warm', 'buzz', 'advance', 'seek', 'lift', 'dune', 'remove', 'essay', 'area'] |  
 | bip_39_word_space_1 | easily |  
 | bip_39_word_space_10 | easily dinosaur just warm buzz advance seek lift dune remove |  

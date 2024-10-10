@@ -122,6 +122,18 @@ legend
 tunnel
 element
 maze |  
+| bip_39_word_no_space_1 | bunker |  
+| bip_39_word_no_space_10 | bunkerpipenormalwaitmistakelegendtunnelelementmazehundred |  
+| bip_39_word_no_space_11 | bunkerpipenormalwaitmistakelegendtunnelelementmazehundredsun |  
+| bip_39_word_no_space_12 | bunkerpipenormalwaitmistakelegendtunnelelementmazehundredsunarrange |  
+| bip_39_word_no_space_2 | bunkerpipe |  
+| bip_39_word_no_space_3 | bunkerpipenormal |  
+| bip_39_word_no_space_4 | bunkerpipenormalwait |  
+| bip_39_word_no_space_5 | bunkerpipenormalwaitmistake |  
+| bip_39_word_no_space_6 | bunkerpipenormalwaitmistakelegend |  
+| bip_39_word_no_space_7 | bunkerpipenormalwaitmistakelegendtunnel |  
+| bip_39_word_no_space_8 | bunkerpipenormalwaitmistakelegendtunnelelement |  
+| bip_39_word_no_space_9 | bunkerpipenormalwaitmistakelegendtunnelelementmaze |  
 | bip_39_word_space_0 | ['bunker', 'pipe', 'normal', 'wait', 'mistake', 'legend', 'tunnel', 'element', 'maze', 'hundred', 'sun', 'arrange'] |  
 | bip_39_word_space_1 | bunker |  
 | bip_39_word_space_10 | bunker pipe normal wait mistake legend tunnel element maze hundred |  

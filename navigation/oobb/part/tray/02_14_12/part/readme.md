@@ -122,6 +122,18 @@ delay
 holiday
 hockey
 into |  
+| bip_39_word_no_space_1 | field |  
+| bip_39_word_no_space_10 | fieldwearglimpseoccurcousindelayholidayhockeyintocat |  
+| bip_39_word_no_space_11 | fieldwearglimpseoccurcousindelayholidayhockeyintocatstumble |  
+| bip_39_word_no_space_12 | fieldwearglimpseoccurcousindelayholidayhockeyintocatstumblearch |  
+| bip_39_word_no_space_2 | fieldwear |  
+| bip_39_word_no_space_3 | fieldwearglimpse |  
+| bip_39_word_no_space_4 | fieldwearglimpseoccur |  
+| bip_39_word_no_space_5 | fieldwearglimpseoccurcousin |  
+| bip_39_word_no_space_6 | fieldwearglimpseoccurcousindelay |  
+| bip_39_word_no_space_7 | fieldwearglimpseoccurcousindelayholiday |  
+| bip_39_word_no_space_8 | fieldwearglimpseoccurcousindelayholidayhockey |  
+| bip_39_word_no_space_9 | fieldwearglimpseoccurcousindelayholidayhockeyinto |  
 | bip_39_word_space_0 | ['field', 'wear', 'glimpse', 'occur', 'cousin', 'delay', 'holiday', 'hockey', 'into', 'cat', 'stumble', 'arch'] |  
 | bip_39_word_space_1 | field |  
 | bip_39_word_space_10 | field wear glimpse occur cousin delay holiday hockey into cat |  

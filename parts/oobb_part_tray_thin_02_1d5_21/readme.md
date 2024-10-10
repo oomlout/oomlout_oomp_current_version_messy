@@ -122,6 +122,18 @@ dentist
 human
 skin
 attract |  
+| bip_39_word_no_space_1 | quiz |  
+| bip_39_word_no_space_10 | quizreleasehumanblurgritdentisthumanskinattractconduct |  
+| bip_39_word_no_space_11 | quizreleasehumanblurgritdentisthumanskinattractconductkeen |  
+| bip_39_word_no_space_12 | quizreleasehumanblurgritdentisthumanskinattractconductkeenartist |  
+| bip_39_word_no_space_2 | quizrelease |  
+| bip_39_word_no_space_3 | quizreleasehuman |  
+| bip_39_word_no_space_4 | quizreleasehumanblur |  
+| bip_39_word_no_space_5 | quizreleasehumanblurgrit |  
+| bip_39_word_no_space_6 | quizreleasehumanblurgritdentist |  
+| bip_39_word_no_space_7 | quizreleasehumanblurgritdentisthuman |  
+| bip_39_word_no_space_8 | quizreleasehumanblurgritdentisthumanskin |  
+| bip_39_word_no_space_9 | quizreleasehumanblurgritdentisthumanskinattract |  
 | bip_39_word_space_0 | ['quiz', 'release', 'human', 'blur', 'grit', 'dentist', 'human', 'skin', 'attract', 'conduct', 'keen', 'artist'] |  
 | bip_39_word_space_1 | quiz |  
 | bip_39_word_space_10 | quiz release human blur grit dentist human skin attract conduct |  

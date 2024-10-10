@@ -122,6 +122,18 @@ rabbit
 tone
 element
 sure |  
+| bip_39_word_no_space_1 | pride |  
+| bip_39_word_no_space_10 | prideoutsidedashdaylionrabbittoneelementsurebonus |  
+| bip_39_word_no_space_11 | prideoutsidedashdaylionrabbittoneelementsurebonussupreme |  
+| bip_39_word_no_space_12 | prideoutsidedashdaylionrabbittoneelementsurebonussupremeallow |  
+| bip_39_word_no_space_2 | prideoutside |  
+| bip_39_word_no_space_3 | prideoutsidedash |  
+| bip_39_word_no_space_4 | prideoutsidedashday |  
+| bip_39_word_no_space_5 | prideoutsidedashdaylion |  
+| bip_39_word_no_space_6 | prideoutsidedashdaylionrabbit |  
+| bip_39_word_no_space_7 | prideoutsidedashdaylionrabbittone |  
+| bip_39_word_no_space_8 | prideoutsidedashdaylionrabbittoneelement |  
+| bip_39_word_no_space_9 | prideoutsidedashdaylionrabbittoneelementsure |  
 | bip_39_word_space_0 | ['pride', 'outside', 'dash', 'day', 'lion', 'rabbit', 'tone', 'element', 'sure', 'bonus', 'supreme', 'allow'] |  
 | bip_39_word_space_1 | pride |  
 | bip_39_word_space_10 | pride outside dash day lion rabbit tone element sure bonus |  

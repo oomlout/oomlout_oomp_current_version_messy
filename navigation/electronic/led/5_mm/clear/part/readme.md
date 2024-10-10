@@ -122,6 +122,18 @@ quarter
 leisure
 cigar
 cabin |  
+| bip_39_word_no_space_1 | glow |  
+| bip_39_word_no_space_10 | glowhospitalrejectcabbagetroublequarterleisurecigarcabinsiren |  
+| bip_39_word_no_space_11 | glowhospitalrejectcabbagetroublequarterleisurecigarcabinsirenduring |  
+| bip_39_word_no_space_12 | glowhospitalrejectcabbagetroublequarterleisurecigarcabinsirenduringarm |  
+| bip_39_word_no_space_2 | glowhospital |  
+| bip_39_word_no_space_3 | glowhospitalreject |  
+| bip_39_word_no_space_4 | glowhospitalrejectcabbage |  
+| bip_39_word_no_space_5 | glowhospitalrejectcabbagetrouble |  
+| bip_39_word_no_space_6 | glowhospitalrejectcabbagetroublequarter |  
+| bip_39_word_no_space_7 | glowhospitalrejectcabbagetroublequarterleisure |  
+| bip_39_word_no_space_8 | glowhospitalrejectcabbagetroublequarterleisurecigar |  
+| bip_39_word_no_space_9 | glowhospitalrejectcabbagetroublequarterleisurecigarcabin |  
 | bip_39_word_space_0 | ['glow', 'hospital', 'reject', 'cabbage', 'trouble', 'quarter', 'leisure', 'cigar', 'cabin', 'siren', 'during', 'arm'] |  
 | bip_39_word_space_1 | glow |  
 | bip_39_word_space_10 | glow hospital reject cabbage trouble quarter leisure cigar cabin siren |  

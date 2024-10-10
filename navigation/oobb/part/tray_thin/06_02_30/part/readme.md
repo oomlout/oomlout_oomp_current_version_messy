@@ -122,6 +122,18 @@ seat
 alpha
 nice
 soft |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmacapitalcanvasenableliquidseatalphanicesoftflavor |  
+| bip_39_word_no_space_11 | dilemmacapitalcanvasenableliquidseatalphanicesoftflavorhen |  
+| bip_39_word_no_space_12 | dilemmacapitalcanvasenableliquidseatalphanicesoftflavorhenarena |  
+| bip_39_word_no_space_2 | dilemmacapital |  
+| bip_39_word_no_space_3 | dilemmacapitalcanvas |  
+| bip_39_word_no_space_4 | dilemmacapitalcanvasenable |  
+| bip_39_word_no_space_5 | dilemmacapitalcanvasenableliquid |  
+| bip_39_word_no_space_6 | dilemmacapitalcanvasenableliquidseat |  
+| bip_39_word_no_space_7 | dilemmacapitalcanvasenableliquidseatalpha |  
+| bip_39_word_no_space_8 | dilemmacapitalcanvasenableliquidseatalphanice |  
+| bip_39_word_no_space_9 | dilemmacapitalcanvasenableliquidseatalphanicesoft |  
 | bip_39_word_space_0 | ['dilemma', 'capital', 'canvas', 'enable', 'liquid', 'seat', 'alpha', 'nice', 'soft', 'flavor', 'hen', 'arena'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma capital canvas enable liquid seat alpha nice soft flavor |  

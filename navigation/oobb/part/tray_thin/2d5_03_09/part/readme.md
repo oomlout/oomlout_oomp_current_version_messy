@@ -122,6 +122,18 @@ furnace
 copper
 hunt
 update |  
+| bip_39_word_no_space_1 | possible |  
+| bip_39_word_no_space_10 | possiblevotecrossseekshockfurnacecopperhuntupdatedrink |  
+| bip_39_word_no_space_11 | possiblevotecrossseekshockfurnacecopperhuntupdatedrinkobey |  
+| bip_39_word_no_space_12 | possiblevotecrossseekshockfurnacecopperhuntupdatedrinkobeyaround |  
+| bip_39_word_no_space_2 | possiblevote |  
+| bip_39_word_no_space_3 | possiblevotecross |  
+| bip_39_word_no_space_4 | possiblevotecrossseek |  
+| bip_39_word_no_space_5 | possiblevotecrossseekshock |  
+| bip_39_word_no_space_6 | possiblevotecrossseekshockfurnace |  
+| bip_39_word_no_space_7 | possiblevotecrossseekshockfurnacecopper |  
+| bip_39_word_no_space_8 | possiblevotecrossseekshockfurnacecopperhunt |  
+| bip_39_word_no_space_9 | possiblevotecrossseekshockfurnacecopperhuntupdate |  
 | bip_39_word_space_0 | ['possible', 'vote', 'cross', 'seek', 'shock', 'furnace', 'copper', 'hunt', 'update', 'drink', 'obey', 'around'] |  
 | bip_39_word_space_1 | possible |  
 | bip_39_word_space_10 | possible vote cross seek shock furnace copper hunt update drink |  

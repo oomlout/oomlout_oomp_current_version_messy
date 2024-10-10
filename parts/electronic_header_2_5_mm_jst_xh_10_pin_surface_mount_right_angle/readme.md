@@ -122,6 +122,18 @@ hospital
 runway
 they
 energy |  
+| bip_39_word_no_space_1 | head |  
+| bip_39_word_no_space_10 | headmachinevacantsymptomfatherhospitalrunwaytheyenergycover |  
+| bip_39_word_no_space_11 | headmachinevacantsymptomfatherhospitalrunwaytheyenergycoverenable |  
+| bip_39_word_no_space_12 | headmachinevacantsymptomfatherhospitalrunwaytheyenergycoverenableacid |  
+| bip_39_word_no_space_2 | headmachine |  
+| bip_39_word_no_space_3 | headmachinevacant |  
+| bip_39_word_no_space_4 | headmachinevacantsymptom |  
+| bip_39_word_no_space_5 | headmachinevacantsymptomfather |  
+| bip_39_word_no_space_6 | headmachinevacantsymptomfatherhospital |  
+| bip_39_word_no_space_7 | headmachinevacantsymptomfatherhospitalrunway |  
+| bip_39_word_no_space_8 | headmachinevacantsymptomfatherhospitalrunwaythey |  
+| bip_39_word_no_space_9 | headmachinevacantsymptomfatherhospitalrunwaytheyenergy |  
 | bip_39_word_space_0 | ['head', 'machine', 'vacant', 'symptom', 'father', 'hospital', 'runway', 'they', 'energy', 'cover', 'enable', 'acid'] |  
 | bip_39_word_space_1 | head |  
 | bip_39_word_space_10 | head machine vacant symptom father hospital runway they energy cover |  

@@ -122,6 +122,18 @@ strike
 load
 quantum
 bird |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peoplerefusetheynoteonlinestrikeloadquantumbirdelbow |  
+| bip_39_word_no_space_11 | peoplerefusetheynoteonlinestrikeloadquantumbirdelbowlearn |  
+| bip_39_word_no_space_12 | peoplerefusetheynoteonlinestrikeloadquantumbirdelbowlearnangle |  
+| bip_39_word_no_space_2 | peoplerefuse |  
+| bip_39_word_no_space_3 | peoplerefusethey |  
+| bip_39_word_no_space_4 | peoplerefusetheynote |  
+| bip_39_word_no_space_5 | peoplerefusetheynoteonline |  
+| bip_39_word_no_space_6 | peoplerefusetheynoteonlinestrike |  
+| bip_39_word_no_space_7 | peoplerefusetheynoteonlinestrikeload |  
+| bip_39_word_no_space_8 | peoplerefusetheynoteonlinestrikeloadquantum |  
+| bip_39_word_no_space_9 | peoplerefusetheynoteonlinestrikeloadquantumbird |  
 | bip_39_word_space_0 | ['people', 'refuse', 'they', 'note', 'online', 'strike', 'load', 'quantum', 'bird', 'elbow', 'learn', 'angle'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people refuse they note online strike load quantum bird elbow |  

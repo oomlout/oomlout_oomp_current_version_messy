@@ -122,6 +122,18 @@ old
 home
 broom
 inject |  
+| bip_39_word_no_space_1 | bulb |  
+| bip_39_word_no_space_10 | bulblabelcorejewelkitoldhomebroominjectsenior |  
+| bip_39_word_no_space_11 | bulblabelcorejewelkitoldhomebroominjectseniordraft |  
+| bip_39_word_no_space_12 | bulblabelcorejewelkitoldhomebroominjectseniordraftabsorb |  
+| bip_39_word_no_space_2 | bulblabel |  
+| bip_39_word_no_space_3 | bulblabelcore |  
+| bip_39_word_no_space_4 | bulblabelcorejewel |  
+| bip_39_word_no_space_5 | bulblabelcorejewelkit |  
+| bip_39_word_no_space_6 | bulblabelcorejewelkitold |  
+| bip_39_word_no_space_7 | bulblabelcorejewelkitoldhome |  
+| bip_39_word_no_space_8 | bulblabelcorejewelkitoldhomebroom |  
+| bip_39_word_no_space_9 | bulblabelcorejewelkitoldhomebroominject |  
 | bip_39_word_space_0 | ['bulb', 'label', 'core', 'jewel', 'kit', 'old', 'home', 'broom', 'inject', 'senior', 'draft', 'absorb'] |  
 | bip_39_word_space_1 | bulb |  
 | bip_39_word_space_10 | bulb label core jewel kit old home broom inject senior |  

@@ -122,6 +122,18 @@ achieve
 wagon
 debate
 liberty |  
+| bip_39_word_no_space_1 | lunch |  
+| bip_39_word_no_space_10 | lunchgrainawarewitnessfoxachievewagondebatelibertyhistory |  
+| bip_39_word_no_space_11 | lunchgrainawarewitnessfoxachievewagondebatelibertyhistoryairport |  
+| bip_39_word_no_space_12 | lunchgrainawarewitnessfoxachievewagondebatelibertyhistoryairportacross |  
+| bip_39_word_no_space_2 | lunchgrain |  
+| bip_39_word_no_space_3 | lunchgrainaware |  
+| bip_39_word_no_space_4 | lunchgrainawarewitness |  
+| bip_39_word_no_space_5 | lunchgrainawarewitnessfox |  
+| bip_39_word_no_space_6 | lunchgrainawarewitnessfoxachieve |  
+| bip_39_word_no_space_7 | lunchgrainawarewitnessfoxachievewagon |  
+| bip_39_word_no_space_8 | lunchgrainawarewitnessfoxachievewagondebate |  
+| bip_39_word_no_space_9 | lunchgrainawarewitnessfoxachievewagondebateliberty |  
 | bip_39_word_space_0 | ['lunch', 'grain', 'aware', 'witness', 'fox', 'achieve', 'wagon', 'debate', 'liberty', 'history', 'airport', 'across'] |  
 | bip_39_word_space_1 | lunch |  
 | bip_39_word_space_10 | lunch grain aware witness fox achieve wagon debate liberty history |  

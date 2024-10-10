@@ -122,6 +122,18 @@ road
 mail
 cricket
 permit |  
+| bip_39_word_no_space_1 | diamond |  
+| bip_39_word_no_space_10 | diamondmanualmembersearchoneroadmailcricketpermitunhappy |  
+| bip_39_word_no_space_11 | diamondmanualmembersearchoneroadmailcricketpermitunhappyheight |  
+| bip_39_word_no_space_12 | diamondmanualmembersearchoneroadmailcricketpermitunhappyheightallow |  
+| bip_39_word_no_space_2 | diamondmanual |  
+| bip_39_word_no_space_3 | diamondmanualmember |  
+| bip_39_word_no_space_4 | diamondmanualmembersearch |  
+| bip_39_word_no_space_5 | diamondmanualmembersearchone |  
+| bip_39_word_no_space_6 | diamondmanualmembersearchoneroad |  
+| bip_39_word_no_space_7 | diamondmanualmembersearchoneroadmail |  
+| bip_39_word_no_space_8 | diamondmanualmembersearchoneroadmailcricket |  
+| bip_39_word_no_space_9 | diamondmanualmembersearchoneroadmailcricketpermit |  
 | bip_39_word_space_0 | ['diamond', 'manual', 'member', 'search', 'one', 'road', 'mail', 'cricket', 'permit', 'unhappy', 'height', 'allow'] |  
 | bip_39_word_space_1 | diamond |  
 | bip_39_word_space_10 | diamond manual member search one road mail cricket permit unhappy |  

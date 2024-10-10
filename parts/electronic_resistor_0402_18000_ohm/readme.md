@@ -122,6 +122,18 @@ debate
 rescue
 erase
 praise |  
+| bip_39_word_no_space_1 | wheel |  
+| bip_39_word_no_space_10 | wheelcoursediaryquoterugdebaterescueerasepraisebridge |  
+| bip_39_word_no_space_11 | wheelcoursediaryquoterugdebaterescueerasepraisebridgereform |  
+| bip_39_word_no_space_12 | wheelcoursediaryquoterugdebaterescueerasepraisebridgereformamused |  
+| bip_39_word_no_space_2 | wheelcourse |  
+| bip_39_word_no_space_3 | wheelcoursediary |  
+| bip_39_word_no_space_4 | wheelcoursediaryquote |  
+| bip_39_word_no_space_5 | wheelcoursediaryquoterug |  
+| bip_39_word_no_space_6 | wheelcoursediaryquoterugdebate |  
+| bip_39_word_no_space_7 | wheelcoursediaryquoterugdebaterescue |  
+| bip_39_word_no_space_8 | wheelcoursediaryquoterugdebaterescueerase |  
+| bip_39_word_no_space_9 | wheelcoursediaryquoterugdebaterescueerasepraise |  
 | bip_39_word_space_0 | ['wheel', 'course', 'diary', 'quote', 'rug', 'debate', 'rescue', 'erase', 'praise', 'bridge', 'reform', 'amused'] |  
 | bip_39_word_space_1 | wheel |  
 | bip_39_word_space_10 | wheel course diary quote rug debate rescue erase praise bridge |  

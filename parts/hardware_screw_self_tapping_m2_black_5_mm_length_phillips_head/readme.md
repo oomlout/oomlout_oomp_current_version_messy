@@ -122,6 +122,18 @@ category
 biology
 summer
 cloud |  
+| bip_39_word_no_space_1 | bean |  
+| bip_39_word_no_space_10 | beanwoolreliefloanrebelcategorybiologysummercloudblack |  
+| bip_39_word_no_space_11 | beanwoolreliefloanrebelcategorybiologysummercloudblackpigeon |  
+| bip_39_word_no_space_12 | beanwoolreliefloanrebelcategorybiologysummercloudblackpigeonanxiety |  
+| bip_39_word_no_space_2 | beanwool |  
+| bip_39_word_no_space_3 | beanwoolrelief |  
+| bip_39_word_no_space_4 | beanwoolreliefloan |  
+| bip_39_word_no_space_5 | beanwoolreliefloanrebel |  
+| bip_39_word_no_space_6 | beanwoolreliefloanrebelcategory |  
+| bip_39_word_no_space_7 | beanwoolreliefloanrebelcategorybiology |  
+| bip_39_word_no_space_8 | beanwoolreliefloanrebelcategorybiologysummer |  
+| bip_39_word_no_space_9 | beanwoolreliefloanrebelcategorybiologysummercloud |  
 | bip_39_word_space_0 | ['bean', 'wool', 'relief', 'loan', 'rebel', 'category', 'biology', 'summer', 'cloud', 'black', 'pigeon', 'anxiety'] |  
 | bip_39_word_space_1 | bean |  
 | bip_39_word_space_10 | bean wool relief loan rebel category biology summer cloud black |  

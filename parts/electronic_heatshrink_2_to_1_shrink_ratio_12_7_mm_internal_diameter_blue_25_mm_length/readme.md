@@ -122,6 +122,18 @@ brush
 hint
 spin
 picture |  
+| bip_39_word_no_space_1 | divorce |  
+| bip_39_word_no_space_10 | divorceroseindoormarinepullbrushhintspinpictureportion |  
+| bip_39_word_no_space_11 | divorceroseindoormarinepullbrushhintspinpictureportionfire |  
+| bip_39_word_no_space_12 | divorceroseindoormarinepullbrushhintspinpictureportionfireadvance |  
+| bip_39_word_no_space_2 | divorcerose |  
+| bip_39_word_no_space_3 | divorceroseindoor |  
+| bip_39_word_no_space_4 | divorceroseindoormarine |  
+| bip_39_word_no_space_5 | divorceroseindoormarinepull |  
+| bip_39_word_no_space_6 | divorceroseindoormarinepullbrush |  
+| bip_39_word_no_space_7 | divorceroseindoormarinepullbrushhint |  
+| bip_39_word_no_space_8 | divorceroseindoormarinepullbrushhintspin |  
+| bip_39_word_no_space_9 | divorceroseindoormarinepullbrushhintspinpicture |  
 | bip_39_word_space_0 | ['divorce', 'rose', 'indoor', 'marine', 'pull', 'brush', 'hint', 'spin', 'picture', 'portion', 'fire', 'advance'] |  
 | bip_39_word_space_1 | divorce |  
 | bip_39_word_space_10 | divorce rose indoor marine pull brush hint spin picture portion |  

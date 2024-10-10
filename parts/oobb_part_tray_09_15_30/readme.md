@@ -122,6 +122,18 @@ taste
 section
 umbrella
 bubble |  
+| bip_39_word_no_space_1 | napkin |  
+| bip_39_word_no_space_10 | napkinhoneycamptheyrevealtastesectionumbrellabubblecoast |  
+| bip_39_word_no_space_11 | napkinhoneycamptheyrevealtastesectionumbrellabubblecoastmyth |  
+| bip_39_word_no_space_12 | napkinhoneycamptheyrevealtastesectionumbrellabubblecoastmythacquire |  
+| bip_39_word_no_space_2 | napkinhoney |  
+| bip_39_word_no_space_3 | napkinhoneycamp |  
+| bip_39_word_no_space_4 | napkinhoneycampthey |  
+| bip_39_word_no_space_5 | napkinhoneycamptheyreveal |  
+| bip_39_word_no_space_6 | napkinhoneycamptheyrevealtaste |  
+| bip_39_word_no_space_7 | napkinhoneycamptheyrevealtastesection |  
+| bip_39_word_no_space_8 | napkinhoneycamptheyrevealtastesectionumbrella |  
+| bip_39_word_no_space_9 | napkinhoneycamptheyrevealtastesectionumbrellabubble |  
 | bip_39_word_space_0 | ['napkin', 'honey', 'camp', 'they', 'reveal', 'taste', 'section', 'umbrella', 'bubble', 'coast', 'myth', 'acquire'] |  
 | bip_39_word_space_1 | napkin |  
 | bip_39_word_space_10 | napkin honey camp they reveal taste section umbrella bubble coast |  

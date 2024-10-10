@@ -122,6 +122,18 @@ phrase
 various
 tunnel
 scene |  
+| bip_39_word_no_space_1 | lecture |  
+| bip_39_word_no_space_10 | lectureboringlamprabbitmirrorphrasevarioustunnelsceneelephant |  
+| bip_39_word_no_space_11 | lectureboringlamprabbitmirrorphrasevarioustunnelsceneelephantsell |  
+| bip_39_word_no_space_12 | lectureboringlamprabbitmirrorphrasevarioustunnelsceneelephantselladult |  
+| bip_39_word_no_space_2 | lectureboring |  
+| bip_39_word_no_space_3 | lectureboringlamp |  
+| bip_39_word_no_space_4 | lectureboringlamprabbit |  
+| bip_39_word_no_space_5 | lectureboringlamprabbitmirror |  
+| bip_39_word_no_space_6 | lectureboringlamprabbitmirrorphrase |  
+| bip_39_word_no_space_7 | lectureboringlamprabbitmirrorphrasevarious |  
+| bip_39_word_no_space_8 | lectureboringlamprabbitmirrorphrasevarioustunnel |  
+| bip_39_word_no_space_9 | lectureboringlamprabbitmirrorphrasevarioustunnelscene |  
 | bip_39_word_space_0 | ['lecture', 'boring', 'lamp', 'rabbit', 'mirror', 'phrase', 'various', 'tunnel', 'scene', 'elephant', 'sell', 'adult'] |  
 | bip_39_word_space_1 | lecture |  
 | bip_39_word_space_10 | lecture boring lamp rabbit mirror phrase various tunnel scene elephant |  

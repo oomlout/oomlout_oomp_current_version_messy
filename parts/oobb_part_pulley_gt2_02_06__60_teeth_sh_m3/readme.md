@@ -122,6 +122,18 @@ list
 notice
 ecology
 various |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgeoptionhintsellfixlistnoticeecologyvariousbetter |  
+| bip_39_word_no_space_11 | judgeoptionhintsellfixlistnoticeecologyvariousbetterbroccoli |  
+| bip_39_word_no_space_12 | judgeoptionhintsellfixlistnoticeecologyvariousbetterbroccoliannounce |  
+| bip_39_word_no_space_2 | judgeoption |  
+| bip_39_word_no_space_3 | judgeoptionhint |  
+| bip_39_word_no_space_4 | judgeoptionhintsell |  
+| bip_39_word_no_space_5 | judgeoptionhintsellfix |  
+| bip_39_word_no_space_6 | judgeoptionhintsellfixlist |  
+| bip_39_word_no_space_7 | judgeoptionhintsellfixlistnotice |  
+| bip_39_word_no_space_8 | judgeoptionhintsellfixlistnoticeecology |  
+| bip_39_word_no_space_9 | judgeoptionhintsellfixlistnoticeecologyvarious |  
 | bip_39_word_space_0 | ['judge', 'option', 'hint', 'sell', 'fix', 'list', 'notice', 'ecology', 'various', 'better', 'broccoli', 'announce'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge option hint sell fix list notice ecology various better |  

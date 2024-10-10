@@ -122,6 +122,18 @@ allow
 still
 artist
 social |  
+| bip_39_word_no_space_1 | round |  
+| bip_39_word_no_space_10 | roundmembermelodyamazingwhatallowstillartistsocialsmart |  
+| bip_39_word_no_space_11 | roundmembermelodyamazingwhatallowstillartistsocialsmartturn |  
+| bip_39_word_no_space_12 | roundmembermelodyamazingwhatallowstillartistsocialsmartturnaccuse |  
+| bip_39_word_no_space_2 | roundmember |  
+| bip_39_word_no_space_3 | roundmembermelody |  
+| bip_39_word_no_space_4 | roundmembermelodyamazing |  
+| bip_39_word_no_space_5 | roundmembermelodyamazingwhat |  
+| bip_39_word_no_space_6 | roundmembermelodyamazingwhatallow |  
+| bip_39_word_no_space_7 | roundmembermelodyamazingwhatallowstill |  
+| bip_39_word_no_space_8 | roundmembermelodyamazingwhatallowstillartist |  
+| bip_39_word_no_space_9 | roundmembermelodyamazingwhatallowstillartistsocial |  
 | bip_39_word_space_0 | ['round', 'member', 'melody', 'amazing', 'what', 'allow', 'still', 'artist', 'social', 'smart', 'turn', 'accuse'] |  
 | bip_39_word_space_1 | round |  
 | bip_39_word_space_10 | round member melody amazing what allow still artist social smart |  

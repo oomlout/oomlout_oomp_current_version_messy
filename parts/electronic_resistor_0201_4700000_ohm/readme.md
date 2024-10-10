@@ -122,6 +122,18 @@ repair
 short
 horn
 visual |  
+| bip_39_word_no_space_1 | concert |  
+| bip_39_word_no_space_10 | concertmiddleceilingoceanhurdlerepairshorthornvisualelegant |  
+| bip_39_word_no_space_11 | concertmiddleceilingoceanhurdlerepairshorthornvisualelegantwarrior |  
+| bip_39_word_no_space_12 | concertmiddleceilingoceanhurdlerepairshorthornvisualelegantwarrioraspect |  
+| bip_39_word_no_space_2 | concertmiddle |  
+| bip_39_word_no_space_3 | concertmiddleceiling |  
+| bip_39_word_no_space_4 | concertmiddleceilingocean |  
+| bip_39_word_no_space_5 | concertmiddleceilingoceanhurdle |  
+| bip_39_word_no_space_6 | concertmiddleceilingoceanhurdlerepair |  
+| bip_39_word_no_space_7 | concertmiddleceilingoceanhurdlerepairshort |  
+| bip_39_word_no_space_8 | concertmiddleceilingoceanhurdlerepairshorthorn |  
+| bip_39_word_no_space_9 | concertmiddleceilingoceanhurdlerepairshorthornvisual |  
 | bip_39_word_space_0 | ['concert', 'middle', 'ceiling', 'ocean', 'hurdle', 'repair', 'short', 'horn', 'visual', 'elegant', 'warrior', 'aspect'] |  
 | bip_39_word_space_1 | concert |  
 | bip_39_word_space_10 | concert middle ceiling ocean hurdle repair short horn visual elegant |  

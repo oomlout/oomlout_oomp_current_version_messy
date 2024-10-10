@@ -122,6 +122,18 @@ helmet
 riot
 lunar
 frequent |  
+| bip_39_word_no_space_1 | outer |  
+| bip_39_word_no_space_10 | outerescapebabyreturnpenaltyhelmetriotlunarfrequentcomfort |  
+| bip_39_word_no_space_11 | outerescapebabyreturnpenaltyhelmetriotlunarfrequentcomfortdoctor |  
+| bip_39_word_no_space_12 | outerescapebabyreturnpenaltyhelmetriotlunarfrequentcomfortdoctorappear |  
+| bip_39_word_no_space_2 | outerescape |  
+| bip_39_word_no_space_3 | outerescapebaby |  
+| bip_39_word_no_space_4 | outerescapebabyreturn |  
+| bip_39_word_no_space_5 | outerescapebabyreturnpenalty |  
+| bip_39_word_no_space_6 | outerescapebabyreturnpenaltyhelmet |  
+| bip_39_word_no_space_7 | outerescapebabyreturnpenaltyhelmetriot |  
+| bip_39_word_no_space_8 | outerescapebabyreturnpenaltyhelmetriotlunar |  
+| bip_39_word_no_space_9 | outerescapebabyreturnpenaltyhelmetriotlunarfrequent |  
 | bip_39_word_space_0 | ['outer', 'escape', 'baby', 'return', 'penalty', 'helmet', 'riot', 'lunar', 'frequent', 'comfort', 'doctor', 'appear'] |  
 | bip_39_word_space_1 | outer |  
 | bip_39_word_space_10 | outer escape baby return penalty helmet riot lunar frequent comfort |  

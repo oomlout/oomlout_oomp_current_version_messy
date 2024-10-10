@@ -122,6 +122,18 @@ trouble
 desk
 great
 morning |  
+| bip_39_word_no_space_1 | couple |  
+| bip_39_word_no_space_10 | coupleupgradetrustpaperpotatotroubledeskgreatmorningbrick |  
+| bip_39_word_no_space_11 | coupleupgradetrustpaperpotatotroubledeskgreatmorningbrickstumble |  
+| bip_39_word_no_space_12 | coupleupgradetrustpaperpotatotroubledeskgreatmorningbrickstumbleairport |  
+| bip_39_word_no_space_2 | coupleupgrade |  
+| bip_39_word_no_space_3 | coupleupgradetrust |  
+| bip_39_word_no_space_4 | coupleupgradetrustpaper |  
+| bip_39_word_no_space_5 | coupleupgradetrustpaperpotato |  
+| bip_39_word_no_space_6 | coupleupgradetrustpaperpotatotrouble |  
+| bip_39_word_no_space_7 | coupleupgradetrustpaperpotatotroubledesk |  
+| bip_39_word_no_space_8 | coupleupgradetrustpaperpotatotroubledeskgreat |  
+| bip_39_word_no_space_9 | coupleupgradetrustpaperpotatotroubledeskgreatmorning |  
 | bip_39_word_space_0 | ['couple', 'upgrade', 'trust', 'paper', 'potato', 'trouble', 'desk', 'great', 'morning', 'brick', 'stumble', 'airport'] |  
 | bip_39_word_space_1 | couple |  
 | bip_39_word_space_10 | couple upgrade trust paper potato trouble desk great morning brick |  

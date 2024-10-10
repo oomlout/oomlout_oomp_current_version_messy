@@ -122,6 +122,18 @@ mule
 old
 ice
 weird |  
+| bip_39_word_no_space_1 | image |  
+| bip_39_word_no_space_10 | imageanyapologyextendsmoothmuleoldiceweirdafford |  
+| bip_39_word_no_space_11 | imageanyapologyextendsmoothmuleoldiceweirdaffordbarely |  
+| bip_39_word_no_space_12 | imageanyapologyextendsmoothmuleoldiceweirdaffordbarelyable |  
+| bip_39_word_no_space_2 | imageany |  
+| bip_39_word_no_space_3 | imageanyapology |  
+| bip_39_word_no_space_4 | imageanyapologyextend |  
+| bip_39_word_no_space_5 | imageanyapologyextendsmooth |  
+| bip_39_word_no_space_6 | imageanyapologyextendsmoothmule |  
+| bip_39_word_no_space_7 | imageanyapologyextendsmoothmuleold |  
+| bip_39_word_no_space_8 | imageanyapologyextendsmoothmuleoldice |  
+| bip_39_word_no_space_9 | imageanyapologyextendsmoothmuleoldiceweird |  
 | bip_39_word_space_0 | ['image', 'any', 'apology', 'extend', 'smooth', 'mule', 'old', 'ice', 'weird', 'afford', 'barely', 'able'] |  
 | bip_39_word_space_1 | image |  
 | bip_39_word_space_10 | image any apology extend smooth mule old ice weird afford |  

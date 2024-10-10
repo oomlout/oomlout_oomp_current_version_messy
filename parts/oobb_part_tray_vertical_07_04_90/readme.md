@@ -122,6 +122,18 @@ pluck
 floor
 pen
 dad |  
+| bip_39_word_no_space_1 | bread |  
+| bip_39_word_no_space_10 | breadhusbanddialknockfeedpluckfloorpendadmargin |  
+| bip_39_word_no_space_11 | breadhusbanddialknockfeedpluckfloorpendadmarginventure |  
+| bip_39_word_no_space_12 | breadhusbanddialknockfeedpluckfloorpendadmarginventureabove |  
+| bip_39_word_no_space_2 | breadhusband |  
+| bip_39_word_no_space_3 | breadhusbanddial |  
+| bip_39_word_no_space_4 | breadhusbanddialknock |  
+| bip_39_word_no_space_5 | breadhusbanddialknockfeed |  
+| bip_39_word_no_space_6 | breadhusbanddialknockfeedpluck |  
+| bip_39_word_no_space_7 | breadhusbanddialknockfeedpluckfloor |  
+| bip_39_word_no_space_8 | breadhusbanddialknockfeedpluckfloorpen |  
+| bip_39_word_no_space_9 | breadhusbanddialknockfeedpluckfloorpendad |  
 | bip_39_word_space_0 | ['bread', 'husband', 'dial', 'knock', 'feed', 'pluck', 'floor', 'pen', 'dad', 'margin', 'venture', 'above'] |  
 | bip_39_word_space_1 | bread |  
 | bip_39_word_space_10 | bread husband dial knock feed pluck floor pen dad margin |  

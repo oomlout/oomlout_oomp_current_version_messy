@@ -122,6 +122,18 @@ crop
 history
 smart
 silk |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | natureidleoceanfirstcashcrophistorysmartsilkostrich |  
+| bip_39_word_no_space_11 | natureidleoceanfirstcashcrophistorysmartsilkostrichwolf |  
+| bip_39_word_no_space_12 | natureidleoceanfirstcashcrophistorysmartsilkostrichwolfapprove |  
+| bip_39_word_no_space_2 | natureidle |  
+| bip_39_word_no_space_3 | natureidleocean |  
+| bip_39_word_no_space_4 | natureidleoceanfirst |  
+| bip_39_word_no_space_5 | natureidleoceanfirstcash |  
+| bip_39_word_no_space_6 | natureidleoceanfirstcashcrop |  
+| bip_39_word_no_space_7 | natureidleoceanfirstcashcrophistory |  
+| bip_39_word_no_space_8 | natureidleoceanfirstcashcrophistorysmart |  
+| bip_39_word_no_space_9 | natureidleoceanfirstcashcrophistorysmartsilk |  
 | bip_39_word_space_0 | ['nature', 'idle', 'ocean', 'first', 'cash', 'crop', 'history', 'smart', 'silk', 'ostrich', 'wolf', 'approve'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature idle ocean first cash crop history smart silk ostrich |  

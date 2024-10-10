@@ -122,6 +122,18 @@ gas
 judge
 crisp
 update |  
+| bip_39_word_no_space_1 | stem |  
+| bip_39_word_no_space_10 | stemaloneivorybattlelayergasjudgecrispupdatereform |  
+| bip_39_word_no_space_11 | stemaloneivorybattlelayergasjudgecrispupdatereforminfant |  
+| bip_39_word_no_space_12 | stemaloneivorybattlelayergasjudgecrispupdatereforminfantarmed |  
+| bip_39_word_no_space_2 | stemalone |  
+| bip_39_word_no_space_3 | stemaloneivory |  
+| bip_39_word_no_space_4 | stemaloneivorybattle |  
+| bip_39_word_no_space_5 | stemaloneivorybattlelayer |  
+| bip_39_word_no_space_6 | stemaloneivorybattlelayergas |  
+| bip_39_word_no_space_7 | stemaloneivorybattlelayergasjudge |  
+| bip_39_word_no_space_8 | stemaloneivorybattlelayergasjudgecrisp |  
+| bip_39_word_no_space_9 | stemaloneivorybattlelayergasjudgecrispupdate |  
 | bip_39_word_space_0 | ['stem', 'alone', 'ivory', 'battle', 'layer', 'gas', 'judge', 'crisp', 'update', 'reform', 'infant', 'armed'] |  
 | bip_39_word_space_1 | stem |  
 | bip_39_word_space_10 | stem alone ivory battle layer gas judge crisp update reform |  

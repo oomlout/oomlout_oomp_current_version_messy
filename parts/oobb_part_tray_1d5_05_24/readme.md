@@ -122,6 +122,18 @@ van
 stumble
 shop
 success |  
+| bip_39_word_no_space_1 | outdoor |  
+| bip_39_word_no_space_10 | outdoorvintagefederaltaxileopardvanstumbleshopsuccesscannon |  
+| bip_39_word_no_space_11 | outdoorvintagefederaltaxileopardvanstumbleshopsuccesscannoneducate |  
+| bip_39_word_no_space_12 | outdoorvintagefederaltaxileopardvanstumbleshopsuccesscannoneducatealmost |  
+| bip_39_word_no_space_2 | outdoorvintage |  
+| bip_39_word_no_space_3 | outdoorvintagefederal |  
+| bip_39_word_no_space_4 | outdoorvintagefederaltaxi |  
+| bip_39_word_no_space_5 | outdoorvintagefederaltaxileopard |  
+| bip_39_word_no_space_6 | outdoorvintagefederaltaxileopardvan |  
+| bip_39_word_no_space_7 | outdoorvintagefederaltaxileopardvanstumble |  
+| bip_39_word_no_space_8 | outdoorvintagefederaltaxileopardvanstumbleshop |  
+| bip_39_word_no_space_9 | outdoorvintagefederaltaxileopardvanstumbleshopsuccess |  
 | bip_39_word_space_0 | ['outdoor', 'vintage', 'federal', 'taxi', 'leopard', 'van', 'stumble', 'shop', 'success', 'cannon', 'educate', 'almost'] |  
 | bip_39_word_space_1 | outdoor |  
 | bip_39_word_space_10 | outdoor vintage federal taxi leopard van stumble shop success cannon |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gaze
   amateur
 
   buyer'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazeratecryapologyculturesymboltreatamateurbuyerpulp
+bip_39_word_no_space_11: gazeratecryapologyculturesymboltreatamateurbuyerpulpclever
+bip_39_word_no_space_12: gazeratecryapologyculturesymboltreatamateurbuyerpulpcleveranother
+bip_39_word_no_space_2: gazerate
+bip_39_word_no_space_3: gazeratecry
+bip_39_word_no_space_4: gazeratecryapology
+bip_39_word_no_space_5: gazeratecryapologyculture
+bip_39_word_no_space_6: gazeratecryapologyculturesymbol
+bip_39_word_no_space_7: gazeratecryapologyculturesymboltreat
+bip_39_word_no_space_8: gazeratecryapologyculturesymboltreatamateur
+bip_39_word_no_space_9: gazeratecryapologyculturesymboltreatamateurbuyer
 bip_39_word_space_0:
 - gaze
 - rate

@@ -122,6 +122,18 @@ chalk
 concert
 moral
 shrimp |  
+| bip_39_word_no_space_1 | track |  
+| bip_39_word_no_space_10 | trackgarbagebladekeenlockchalkconcertmoralshrimpinvolve |  
+| bip_39_word_no_space_11 | trackgarbagebladekeenlockchalkconcertmoralshrimpinvolveemerge |  
+| bip_39_word_no_space_12 | trackgarbagebladekeenlockchalkconcertmoralshrimpinvolveemergeabout |  
+| bip_39_word_no_space_2 | trackgarbage |  
+| bip_39_word_no_space_3 | trackgarbageblade |  
+| bip_39_word_no_space_4 | trackgarbagebladekeen |  
+| bip_39_word_no_space_5 | trackgarbagebladekeenlock |  
+| bip_39_word_no_space_6 | trackgarbagebladekeenlockchalk |  
+| bip_39_word_no_space_7 | trackgarbagebladekeenlockchalkconcert |  
+| bip_39_word_no_space_8 | trackgarbagebladekeenlockchalkconcertmoral |  
+| bip_39_word_no_space_9 | trackgarbagebladekeenlockchalkconcertmoralshrimp |  
 | bip_39_word_space_0 | ['track', 'garbage', 'blade', 'keen', 'lock', 'chalk', 'concert', 'moral', 'shrimp', 'involve', 'emerge', 'about'] |  
 | bip_39_word_space_1 | track |  
 | bip_39_word_space_10 | track garbage blade keen lock chalk concert moral shrimp involve |  

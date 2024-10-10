@@ -122,6 +122,18 @@ minute
 define
 change
 useful |  
+| bip_39_word_no_space_1 | razor |  
+| bip_39_word_no_space_10 | razorfeedslightbarelyradarminutedefinechangeusefulspeed |  
+| bip_39_word_no_space_11 | razorfeedslightbarelyradarminutedefinechangeusefulspeedauction |  
+| bip_39_word_no_space_12 | razorfeedslightbarelyradarminutedefinechangeusefulspeedauctionauction |  
+| bip_39_word_no_space_2 | razorfeed |  
+| bip_39_word_no_space_3 | razorfeedslight |  
+| bip_39_word_no_space_4 | razorfeedslightbarely |  
+| bip_39_word_no_space_5 | razorfeedslightbarelyradar |  
+| bip_39_word_no_space_6 | razorfeedslightbarelyradarminute |  
+| bip_39_word_no_space_7 | razorfeedslightbarelyradarminutedefine |  
+| bip_39_word_no_space_8 | razorfeedslightbarelyradarminutedefinechange |  
+| bip_39_word_no_space_9 | razorfeedslightbarelyradarminutedefinechangeuseful |  
 | bip_39_word_space_0 | ['razor', 'feed', 'slight', 'barely', 'radar', 'minute', 'define', 'change', 'useful', 'speed', 'auction', 'auction'] |  
 | bip_39_word_space_1 | razor |  
 | bip_39_word_space_10 | razor feed slight barely radar minute define change useful speed |  

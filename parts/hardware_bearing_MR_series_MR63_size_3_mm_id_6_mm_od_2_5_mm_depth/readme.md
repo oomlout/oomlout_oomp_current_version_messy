@@ -122,6 +122,18 @@ coral
 reflect
 friend
 session |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangarootouristcustomfogleafcoralreflectfriendsessionanger |  
+| bip_39_word_no_space_11 | kangarootouristcustomfogleafcoralreflectfriendsessionangeractual |  
+| bip_39_word_no_space_12 | kangarootouristcustomfogleafcoralreflectfriendsessionangeractualair |  
+| bip_39_word_no_space_2 | kangarootourist |  
+| bip_39_word_no_space_3 | kangarootouristcustom |  
+| bip_39_word_no_space_4 | kangarootouristcustomfog |  
+| bip_39_word_no_space_5 | kangarootouristcustomfogleaf |  
+| bip_39_word_no_space_6 | kangarootouristcustomfogleafcoral |  
+| bip_39_word_no_space_7 | kangarootouristcustomfogleafcoralreflect |  
+| bip_39_word_no_space_8 | kangarootouristcustomfogleafcoralreflectfriend |  
+| bip_39_word_no_space_9 | kangarootouristcustomfogleafcoralreflectfriendsession |  
 | bip_39_word_space_0 | ['kangaroo', 'tourist', 'custom', 'fog', 'leaf', 'coral', 'reflect', 'friend', 'session', 'anger', 'actual', 'air'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo tourist custom fog leaf coral reflect friend session anger |  

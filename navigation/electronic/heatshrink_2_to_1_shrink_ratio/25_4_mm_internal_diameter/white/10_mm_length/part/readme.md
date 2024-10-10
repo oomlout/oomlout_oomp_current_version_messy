@@ -122,6 +122,18 @@ bottom
 base
 glow
 drum |  
+| bip_39_word_no_space_1 | aisle |  
+| bip_39_word_no_space_10 | aislecodeonionanchorinnerbottombaseglowdrumshrug |  
+| bip_39_word_no_space_11 | aislecodeonionanchorinnerbottombaseglowdrumshrugbright |  
+| bip_39_word_no_space_12 | aislecodeonionanchorinnerbottombaseglowdrumshrugbrightassault |  
+| bip_39_word_no_space_2 | aislecode |  
+| bip_39_word_no_space_3 | aislecodeonion |  
+| bip_39_word_no_space_4 | aislecodeonionanchor |  
+| bip_39_word_no_space_5 | aislecodeonionanchorinner |  
+| bip_39_word_no_space_6 | aislecodeonionanchorinnerbottom |  
+| bip_39_word_no_space_7 | aislecodeonionanchorinnerbottombase |  
+| bip_39_word_no_space_8 | aislecodeonionanchorinnerbottombaseglow |  
+| bip_39_word_no_space_9 | aislecodeonionanchorinnerbottombaseglowdrum |  
 | bip_39_word_space_0 | ['aisle', 'code', 'onion', 'anchor', 'inner', 'bottom', 'base', 'glow', 'drum', 'shrug', 'bright', 'assault'] |  
 | bip_39_word_space_1 | aisle |  
 | bip_39_word_space_10 | aisle code onion anchor inner bottom base glow drum shrug |  

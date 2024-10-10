@@ -122,6 +122,18 @@ rookie
 fiscal
 clump
 impact |  
+| bip_39_word_no_space_1 | orbit |  
+| bip_39_word_no_space_10 | orbitcopperironlabelbonerookiefiscalclumpimpactpopular |  
+| bip_39_word_no_space_11 | orbitcopperironlabelbonerookiefiscalclumpimpactpopulareither |  
+| bip_39_word_no_space_12 | orbitcopperironlabelbonerookiefiscalclumpimpactpopulareitherabsorb |  
+| bip_39_word_no_space_2 | orbitcopper |  
+| bip_39_word_no_space_3 | orbitcopperiron |  
+| bip_39_word_no_space_4 | orbitcopperironlabel |  
+| bip_39_word_no_space_5 | orbitcopperironlabelbone |  
+| bip_39_word_no_space_6 | orbitcopperironlabelbonerookie |  
+| bip_39_word_no_space_7 | orbitcopperironlabelbonerookiefiscal |  
+| bip_39_word_no_space_8 | orbitcopperironlabelbonerookiefiscalclump |  
+| bip_39_word_no_space_9 | orbitcopperironlabelbonerookiefiscalclumpimpact |  
 | bip_39_word_space_0 | ['orbit', 'copper', 'iron', 'label', 'bone', 'rookie', 'fiscal', 'clump', 'impact', 'popular', 'either', 'absorb'] |  
 | bip_39_word_space_1 | orbit |  
 | bip_39_word_space_10 | orbit copper iron label bone rookie fiscal clump impact popular |  

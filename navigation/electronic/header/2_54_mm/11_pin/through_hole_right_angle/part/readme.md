@@ -122,6 +122,18 @@ vicious
 brush
 benefit
 amateur |  
+| bip_39_word_no_space_1 | stereo |  
+| bip_39_word_no_space_10 | stereograbhumornoisetitleviciousbrushbenefitamateurwalnut |  
+| bip_39_word_no_space_11 | stereograbhumornoisetitleviciousbrushbenefitamateurwalnuttired |  
+| bip_39_word_no_space_12 | stereograbhumornoisetitleviciousbrushbenefitamateurwalnuttiredassist |  
+| bip_39_word_no_space_2 | stereograb |  
+| bip_39_word_no_space_3 | stereograbhumor |  
+| bip_39_word_no_space_4 | stereograbhumornoise |  
+| bip_39_word_no_space_5 | stereograbhumornoisetitle |  
+| bip_39_word_no_space_6 | stereograbhumornoisetitlevicious |  
+| bip_39_word_no_space_7 | stereograbhumornoisetitleviciousbrush |  
+| bip_39_word_no_space_8 | stereograbhumornoisetitleviciousbrushbenefit |  
+| bip_39_word_no_space_9 | stereograbhumornoisetitleviciousbrushbenefitamateur |  
 | bip_39_word_space_0 | ['stereo', 'grab', 'humor', 'noise', 'title', 'vicious', 'brush', 'benefit', 'amateur', 'walnut', 'tired', 'assist'] |  
 | bip_39_word_space_1 | stereo |  
 | bip_39_word_space_10 | stereo grab humor noise title vicious brush benefit amateur walnut |  

@@ -122,6 +122,18 @@ scale
 genre
 coil
 trim |  
+| bip_39_word_no_space_1 | laugh |  
+| bip_39_word_no_space_10 | laughmarblebachelororientbubblescalegenrecoiltrimrigid |  
+| bip_39_word_no_space_11 | laughmarblebachelororientbubblescalegenrecoiltrimrigidspawn |  
+| bip_39_word_no_space_12 | laughmarblebachelororientbubblescalegenrecoiltrimrigidspawnactual |  
+| bip_39_word_no_space_2 | laughmarble |  
+| bip_39_word_no_space_3 | laughmarblebachelor |  
+| bip_39_word_no_space_4 | laughmarblebachelororient |  
+| bip_39_word_no_space_5 | laughmarblebachelororientbubble |  
+| bip_39_word_no_space_6 | laughmarblebachelororientbubblescale |  
+| bip_39_word_no_space_7 | laughmarblebachelororientbubblescalegenre |  
+| bip_39_word_no_space_8 | laughmarblebachelororientbubblescalegenrecoil |  
+| bip_39_word_no_space_9 | laughmarblebachelororientbubblescalegenrecoiltrim |  
 | bip_39_word_space_0 | ['laugh', 'marble', 'bachelor', 'orient', 'bubble', 'scale', 'genre', 'coil', 'trim', 'rigid', 'spawn', 'actual'] |  
 | bip_39_word_space_1 | laugh |  
 | bip_39_word_space_10 | laugh marble bachelor orient bubble scale genre coil trim rigid |  

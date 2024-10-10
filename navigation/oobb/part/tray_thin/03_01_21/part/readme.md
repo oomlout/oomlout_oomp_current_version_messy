@@ -122,6 +122,18 @@ rare
 sentence
 page
 make |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemtoygoddessanklerabbitraresentencepagemakeembody |  
+| bip_39_word_no_space_11 | itemtoygoddessanklerabbitraresentencepagemakeembodyblast |  
+| bip_39_word_no_space_12 | itemtoygoddessanklerabbitraresentencepagemakeembodyblastalbum |  
+| bip_39_word_no_space_2 | itemtoy |  
+| bip_39_word_no_space_3 | itemtoygoddess |  
+| bip_39_word_no_space_4 | itemtoygoddessankle |  
+| bip_39_word_no_space_5 | itemtoygoddessanklerabbit |  
+| bip_39_word_no_space_6 | itemtoygoddessanklerabbitrare |  
+| bip_39_word_no_space_7 | itemtoygoddessanklerabbitraresentence |  
+| bip_39_word_no_space_8 | itemtoygoddessanklerabbitraresentencepage |  
+| bip_39_word_no_space_9 | itemtoygoddessanklerabbitraresentencepagemake |  
 | bip_39_word_space_0 | ['item', 'toy', 'goddess', 'ankle', 'rabbit', 'rare', 'sentence', 'page', 'make', 'embody', 'blast', 'album'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item toy goddess ankle rabbit rare sentence page make embody |  

@@ -122,6 +122,18 @@ tone
 title
 weather
 parade |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprillampmachineanimalconfirmtonetitleweatherparadewait |  
+| bip_39_word_no_space_11 | aprillampmachineanimalconfirmtonetitleweatherparadewaitdrive |  
+| bip_39_word_no_space_12 | aprillampmachineanimalconfirmtonetitleweatherparadewaitdriveanother |  
+| bip_39_word_no_space_2 | aprillamp |  
+| bip_39_word_no_space_3 | aprillampmachine |  
+| bip_39_word_no_space_4 | aprillampmachineanimal |  
+| bip_39_word_no_space_5 | aprillampmachineanimalconfirm |  
+| bip_39_word_no_space_6 | aprillampmachineanimalconfirmtone |  
+| bip_39_word_no_space_7 | aprillampmachineanimalconfirmtonetitle |  
+| bip_39_word_no_space_8 | aprillampmachineanimalconfirmtonetitleweather |  
+| bip_39_word_no_space_9 | aprillampmachineanimalconfirmtonetitleweatherparade |  
 | bip_39_word_space_0 | ['april', 'lamp', 'machine', 'animal', 'confirm', 'tone', 'title', 'weather', 'parade', 'wait', 'drive', 'another'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april lamp machine animal confirm tone title weather parade wait |  

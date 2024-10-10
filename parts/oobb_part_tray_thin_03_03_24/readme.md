@@ -122,6 +122,18 @@ consider
 float
 glove
 rifle |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguartopicauthorengagestingconsiderfloatgloverifleneutral |  
+| bip_39_word_no_space_11 | jaguartopicauthorengagestingconsiderfloatgloverifleneutralspy |  
+| bip_39_word_no_space_12 | jaguartopicauthorengagestingconsiderfloatgloverifleneutralspyarrange |  
+| bip_39_word_no_space_2 | jaguartopic |  
+| bip_39_word_no_space_3 | jaguartopicauthor |  
+| bip_39_word_no_space_4 | jaguartopicauthorengage |  
+| bip_39_word_no_space_5 | jaguartopicauthorengagesting |  
+| bip_39_word_no_space_6 | jaguartopicauthorengagestingconsider |  
+| bip_39_word_no_space_7 | jaguartopicauthorengagestingconsiderfloat |  
+| bip_39_word_no_space_8 | jaguartopicauthorengagestingconsiderfloatglove |  
+| bip_39_word_no_space_9 | jaguartopicauthorengagestingconsiderfloatgloverifle |  
 | bip_39_word_space_0 | ['jaguar', 'topic', 'author', 'engage', 'sting', 'consider', 'float', 'glove', 'rifle', 'neutral', 'spy', 'arrange'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar topic author engage sting consider float glove rifle neutral |  

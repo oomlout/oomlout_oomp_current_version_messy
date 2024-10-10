@@ -122,6 +122,18 @@ pig
 lumber
 inject
 hello |  
+| bip_39_word_no_space_1 | sibling |  
+| bip_39_word_no_space_10 | siblingcolortorchtoothwinpiglumberinjecthelloturn |  
+| bip_39_word_no_space_11 | siblingcolortorchtoothwinpiglumberinjecthelloturnscience |  
+| bip_39_word_no_space_12 | siblingcolortorchtoothwinpiglumberinjecthelloturnsciencearmed |  
+| bip_39_word_no_space_2 | siblingcolor |  
+| bip_39_word_no_space_3 | siblingcolortorch |  
+| bip_39_word_no_space_4 | siblingcolortorchtooth |  
+| bip_39_word_no_space_5 | siblingcolortorchtoothwin |  
+| bip_39_word_no_space_6 | siblingcolortorchtoothwinpig |  
+| bip_39_word_no_space_7 | siblingcolortorchtoothwinpiglumber |  
+| bip_39_word_no_space_8 | siblingcolortorchtoothwinpiglumberinject |  
+| bip_39_word_no_space_9 | siblingcolortorchtoothwinpiglumberinjecthello |  
 | bip_39_word_space_0 | ['sibling', 'color', 'torch', 'tooth', 'win', 'pig', 'lumber', 'inject', 'hello', 'turn', 'science', 'armed'] |  
 | bip_39_word_space_1 | sibling |  
 | bip_39_word_space_10 | sibling color torch tooth win pig lumber inject hello turn |  

@@ -122,6 +122,18 @@ stadium
 casual
 senior
 hill |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blacklegcupsnapbagstadiumcasualseniorhillescape |  
+| bip_39_word_no_space_11 | blacklegcupsnapbagstadiumcasualseniorhillescapesalute |  
+| bip_39_word_no_space_12 | blacklegcupsnapbagstadiumcasualseniorhillescapesalutealcohol |  
+| bip_39_word_no_space_2 | blackleg |  
+| bip_39_word_no_space_3 | blacklegcup |  
+| bip_39_word_no_space_4 | blacklegcupsnap |  
+| bip_39_word_no_space_5 | blacklegcupsnapbag |  
+| bip_39_word_no_space_6 | blacklegcupsnapbagstadium |  
+| bip_39_word_no_space_7 | blacklegcupsnapbagstadiumcasual |  
+| bip_39_word_no_space_8 | blacklegcupsnapbagstadiumcasualsenior |  
+| bip_39_word_no_space_9 | blacklegcupsnapbagstadiumcasualseniorhill |  
 | bip_39_word_space_0 | ['black', 'leg', 'cup', 'snap', 'bag', 'stadium', 'casual', 'senior', 'hill', 'escape', 'salute', 'alcohol'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black leg cup snap bag stadium casual senior hill escape |  

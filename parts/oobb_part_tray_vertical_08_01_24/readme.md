@@ -122,6 +122,18 @@ what
 degree
 cream
 retreat |  
+| bip_39_word_no_space_1 | six |  
+| bip_39_word_no_space_10 | sixensureobligewoodmandatewhatdegreecreamretreatarmed |  
+| bip_39_word_no_space_11 | sixensureobligewoodmandatewhatdegreecreamretreatarmedivory |  
+| bip_39_word_no_space_12 | sixensureobligewoodmandatewhatdegreecreamretreatarmedivoryachieve |  
+| bip_39_word_no_space_2 | sixensure |  
+| bip_39_word_no_space_3 | sixensureoblige |  
+| bip_39_word_no_space_4 | sixensureobligewood |  
+| bip_39_word_no_space_5 | sixensureobligewoodmandate |  
+| bip_39_word_no_space_6 | sixensureobligewoodmandatewhat |  
+| bip_39_word_no_space_7 | sixensureobligewoodmandatewhatdegree |  
+| bip_39_word_no_space_8 | sixensureobligewoodmandatewhatdegreecream |  
+| bip_39_word_no_space_9 | sixensureobligewoodmandatewhatdegreecreamretreat |  
 | bip_39_word_space_0 | ['six', 'ensure', 'oblige', 'wood', 'mandate', 'what', 'degree', 'cream', 'retreat', 'armed', 'ivory', 'achieve'] |  
 | bip_39_word_space_1 | six |  
 | bip_39_word_space_10 | six ensure oblige wood mandate what degree cream retreat armed |  

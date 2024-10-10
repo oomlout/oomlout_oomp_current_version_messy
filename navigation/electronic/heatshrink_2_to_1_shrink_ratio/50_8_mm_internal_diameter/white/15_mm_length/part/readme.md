@@ -122,6 +122,18 @@ raw
 film
 mixed
 lonely |  
+| bip_39_word_no_space_1 | doll |  
+| bip_39_word_no_space_10 | dollsectionmadlunarforgetrawfilmmixedlonelywrong |  
+| bip_39_word_no_space_11 | dollsectionmadlunarforgetrawfilmmixedlonelywrongtopic |  
+| bip_39_word_no_space_12 | dollsectionmadlunarforgetrawfilmmixedlonelywrongtopicarrest |  
+| bip_39_word_no_space_2 | dollsection |  
+| bip_39_word_no_space_3 | dollsectionmad |  
+| bip_39_word_no_space_4 | dollsectionmadlunar |  
+| bip_39_word_no_space_5 | dollsectionmadlunarforget |  
+| bip_39_word_no_space_6 | dollsectionmadlunarforgetraw |  
+| bip_39_word_no_space_7 | dollsectionmadlunarforgetrawfilm |  
+| bip_39_word_no_space_8 | dollsectionmadlunarforgetrawfilmmixed |  
+| bip_39_word_no_space_9 | dollsectionmadlunarforgetrawfilmmixedlonely |  
 | bip_39_word_space_0 | ['doll', 'section', 'mad', 'lunar', 'forget', 'raw', 'film', 'mixed', 'lonely', 'wrong', 'topic', 'arrest'] |  
 | bip_39_word_space_1 | doll |  
 | bip_39_word_space_10 | doll section mad lunar forget raw film mixed lonely wrong |  

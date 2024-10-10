@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'frown
   sleep
 
   split'
+bip_39_word_no_space_1: frown
+bip_39_word_no_space_10: frownfacecycledadflybudgetburgersleepsplitvirtual
+bip_39_word_no_space_11: frownfacecycledadflybudgetburgersleepsplitvirtualrhythm
+bip_39_word_no_space_12: frownfacecycledadflybudgetburgersleepsplitvirtualrhythmaffair
+bip_39_word_no_space_2: frownface
+bip_39_word_no_space_3: frownfacecycle
+bip_39_word_no_space_4: frownfacecycledad
+bip_39_word_no_space_5: frownfacecycledadfly
+bip_39_word_no_space_6: frownfacecycledadflybudget
+bip_39_word_no_space_7: frownfacecycledadflybudgetburger
+bip_39_word_no_space_8: frownfacecycledadflybudgetburgersleep
+bip_39_word_no_space_9: frownfacecycledadflybudgetburgersleepsplit
 bip_39_word_space_0:
 - frown
 - face

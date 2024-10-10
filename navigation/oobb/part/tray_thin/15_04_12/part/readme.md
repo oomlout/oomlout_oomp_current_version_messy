@@ -122,6 +122,18 @@ benefit
 rail
 book
 company |  
+| bip_39_word_no_space_1 | hard |  
+| bip_39_word_no_space_10 | hardsevenregularvividtogetherbenefitrailbookcompanyscience |  
+| bip_39_word_no_space_11 | hardsevenregularvividtogetherbenefitrailbookcompanysciencedeal |  
+| bip_39_word_no_space_12 | hardsevenregularvividtogetherbenefitrailbookcompanysciencedealannounce |  
+| bip_39_word_no_space_2 | hardseven |  
+| bip_39_word_no_space_3 | hardsevenregular |  
+| bip_39_word_no_space_4 | hardsevenregularvivid |  
+| bip_39_word_no_space_5 | hardsevenregularvividtogether |  
+| bip_39_word_no_space_6 | hardsevenregularvividtogetherbenefit |  
+| bip_39_word_no_space_7 | hardsevenregularvividtogetherbenefitrail |  
+| bip_39_word_no_space_8 | hardsevenregularvividtogetherbenefitrailbook |  
+| bip_39_word_no_space_9 | hardsevenregularvividtogetherbenefitrailbookcompany |  
 | bip_39_word_space_0 | ['hard', 'seven', 'regular', 'vivid', 'together', 'benefit', 'rail', 'book', 'company', 'science', 'deal', 'announce'] |  
 | bip_39_word_space_1 | hard |  
 | bip_39_word_space_10 | hard seven regular vivid together benefit rail book company science |  

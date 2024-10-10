@@ -122,6 +122,18 @@ donkey
 girl
 act
 question |  
+| bip_39_word_no_space_1 | ring |  
+| bip_39_word_no_space_10 | ringjealousimproveflameforwarddonkeygirlactquestionteach |  
+| bip_39_word_no_space_11 | ringjealousimproveflameforwarddonkeygirlactquestionteachclose |  
+| bip_39_word_no_space_12 | ringjealousimproveflameforwarddonkeygirlactquestionteachcloseadult |  
+| bip_39_word_no_space_2 | ringjealous |  
+| bip_39_word_no_space_3 | ringjealousimprove |  
+| bip_39_word_no_space_4 | ringjealousimproveflame |  
+| bip_39_word_no_space_5 | ringjealousimproveflameforward |  
+| bip_39_word_no_space_6 | ringjealousimproveflameforwarddonkey |  
+| bip_39_word_no_space_7 | ringjealousimproveflameforwarddonkeygirl |  
+| bip_39_word_no_space_8 | ringjealousimproveflameforwarddonkeygirlact |  
+| bip_39_word_no_space_9 | ringjealousimproveflameforwarddonkeygirlactquestion |  
 | bip_39_word_space_0 | ['ring', 'jealous', 'improve', 'flame', 'forward', 'donkey', 'girl', 'act', 'question', 'teach', 'close', 'adult'] |  
 | bip_39_word_space_1 | ring |  
 | bip_39_word_space_10 | ring jealous improve flame forward donkey girl act question teach |  

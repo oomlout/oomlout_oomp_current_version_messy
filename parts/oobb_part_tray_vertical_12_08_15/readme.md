@@ -122,6 +122,18 @@ film
 record
 powder
 brass |  
+| bip_39_word_no_space_1 | nice |  
+| bip_39_word_no_space_10 | niceborderclumpsafebusinessfilmrecordpowderbrassnow |  
+| bip_39_word_no_space_11 | niceborderclumpsafebusinessfilmrecordpowderbrassnowaxis |  
+| bip_39_word_no_space_12 | niceborderclumpsafebusinessfilmrecordpowderbrassnowaxisanalyst |  
+| bip_39_word_no_space_2 | niceborder |  
+| bip_39_word_no_space_3 | niceborderclump |  
+| bip_39_word_no_space_4 | niceborderclumpsafe |  
+| bip_39_word_no_space_5 | niceborderclumpsafebusiness |  
+| bip_39_word_no_space_6 | niceborderclumpsafebusinessfilm |  
+| bip_39_word_no_space_7 | niceborderclumpsafebusinessfilmrecord |  
+| bip_39_word_no_space_8 | niceborderclumpsafebusinessfilmrecordpowder |  
+| bip_39_word_no_space_9 | niceborderclumpsafebusinessfilmrecordpowderbrass |  
 | bip_39_word_space_0 | ['nice', 'border', 'clump', 'safe', 'business', 'film', 'record', 'powder', 'brass', 'now', 'axis', 'analyst'] |  
 | bip_39_word_space_1 | nice |  
 | bip_39_word_space_10 | nice border clump safe business film record powder brass now |  

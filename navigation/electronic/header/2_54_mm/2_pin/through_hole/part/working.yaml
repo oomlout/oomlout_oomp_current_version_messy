@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sad
   click
 
   raise'
+bip_39_word_no_space_1: sad
+bip_39_word_no_space_10: sadpromoteexcusebrassdustunfoldreturnclickraiseexplain
+bip_39_word_no_space_11: sadpromoteexcusebrassdustunfoldreturnclickraiseexplainpitch
+bip_39_word_no_space_12: sadpromoteexcusebrassdustunfoldreturnclickraiseexplainpitchabove
+bip_39_word_no_space_2: sadpromote
+bip_39_word_no_space_3: sadpromoteexcuse
+bip_39_word_no_space_4: sadpromoteexcusebrass
+bip_39_word_no_space_5: sadpromoteexcusebrassdust
+bip_39_word_no_space_6: sadpromoteexcusebrassdustunfold
+bip_39_word_no_space_7: sadpromoteexcusebrassdustunfoldreturn
+bip_39_word_no_space_8: sadpromoteexcusebrassdustunfoldreturnclick
+bip_39_word_no_space_9: sadpromoteexcusebrassdustunfoldreturnclickraise
 bip_39_word_space_0:
 - sad
 - promote

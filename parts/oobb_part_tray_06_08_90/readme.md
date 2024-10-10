@@ -122,6 +122,18 @@ million
 rival
 assume
 friend |  
+| bip_39_word_no_space_1 | idle |  
+| bip_39_word_no_space_10 | idlebetterdigitaldrinkkeymillionrivalassumefriendpurity |  
+| bip_39_word_no_space_11 | idlebetterdigitaldrinkkeymillionrivalassumefriendpuritystick |  
+| bip_39_word_no_space_12 | idlebetterdigitaldrinkkeymillionrivalassumefriendpuritystickanimal |  
+| bip_39_word_no_space_2 | idlebetter |  
+| bip_39_word_no_space_3 | idlebetterdigital |  
+| bip_39_word_no_space_4 | idlebetterdigitaldrink |  
+| bip_39_word_no_space_5 | idlebetterdigitaldrinkkey |  
+| bip_39_word_no_space_6 | idlebetterdigitaldrinkkeymillion |  
+| bip_39_word_no_space_7 | idlebetterdigitaldrinkkeymillionrival |  
+| bip_39_word_no_space_8 | idlebetterdigitaldrinkkeymillionrivalassume |  
+| bip_39_word_no_space_9 | idlebetterdigitaldrinkkeymillionrivalassumefriend |  
 | bip_39_word_space_0 | ['idle', 'better', 'digital', 'drink', 'key', 'million', 'rival', 'assume', 'friend', 'purity', 'stick', 'animal'] |  
 | bip_39_word_space_1 | idle |  
 | bip_39_word_space_10 | idle better digital drink key million rival assume friend purity |  

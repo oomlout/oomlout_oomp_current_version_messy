@@ -122,6 +122,18 @@ marble
 boat
 field
 tank |  
+| bip_39_word_no_space_1 | amateur |  
+| bip_39_word_no_space_10 | amateurcupcasualwaspstomachmarbleboatfieldtankemerge |  
+| bip_39_word_no_space_11 | amateurcupcasualwaspstomachmarbleboatfieldtankemergedonate |  
+| bip_39_word_no_space_12 | amateurcupcasualwaspstomachmarbleboatfieldtankemergedonateachieve |  
+| bip_39_word_no_space_2 | amateurcup |  
+| bip_39_word_no_space_3 | amateurcupcasual |  
+| bip_39_word_no_space_4 | amateurcupcasualwasp |  
+| bip_39_word_no_space_5 | amateurcupcasualwaspstomach |  
+| bip_39_word_no_space_6 | amateurcupcasualwaspstomachmarble |  
+| bip_39_word_no_space_7 | amateurcupcasualwaspstomachmarbleboat |  
+| bip_39_word_no_space_8 | amateurcupcasualwaspstomachmarbleboatfield |  
+| bip_39_word_no_space_9 | amateurcupcasualwaspstomachmarbleboatfieldtank |  
 | bip_39_word_space_0 | ['amateur', 'cup', 'casual', 'wasp', 'stomach', 'marble', 'boat', 'field', 'tank', 'emerge', 'donate', 'achieve'] |  
 | bip_39_word_space_1 | amateur |  
 | bip_39_word_space_10 | amateur cup casual wasp stomach marble boat field tank emerge |  

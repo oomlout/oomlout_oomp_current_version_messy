@@ -122,6 +122,18 @@ thank
 noble
 lunar
 hundred |  
+| bip_39_word_no_space_1 | bicycle |  
+| bip_39_word_no_space_10 | bicycleerrorboostflatcigarthanknoblelunarhundredaddress |  
+| bip_39_word_no_space_11 | bicycleerrorboostflatcigarthanknoblelunarhundredaddressswing |  
+| bip_39_word_no_space_12 | bicycleerrorboostflatcigarthanknoblelunarhundredaddressswingarm |  
+| bip_39_word_no_space_2 | bicycleerror |  
+| bip_39_word_no_space_3 | bicycleerrorboost |  
+| bip_39_word_no_space_4 | bicycleerrorboostflat |  
+| bip_39_word_no_space_5 | bicycleerrorboostflatcigar |  
+| bip_39_word_no_space_6 | bicycleerrorboostflatcigarthank |  
+| bip_39_word_no_space_7 | bicycleerrorboostflatcigarthanknoble |  
+| bip_39_word_no_space_8 | bicycleerrorboostflatcigarthanknoblelunar |  
+| bip_39_word_no_space_9 | bicycleerrorboostflatcigarthanknoblelunarhundred |  
 | bip_39_word_space_0 | ['bicycle', 'error', 'boost', 'flat', 'cigar', 'thank', 'noble', 'lunar', 'hundred', 'address', 'swing', 'arm'] |  
 | bip_39_word_space_1 | bicycle |  
 | bip_39_word_space_10 | bicycle error boost flat cigar thank noble lunar hundred address |  

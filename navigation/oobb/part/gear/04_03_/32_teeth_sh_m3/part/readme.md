@@ -122,6 +122,18 @@ dust
 stable
 flock
 mobile |  
+| bip_39_word_no_space_1 | devote |  
+| bip_39_word_no_space_10 | devoteriverfiletrendcropduststableflockmobileaerobic |  
+| bip_39_word_no_space_11 | devoteriverfiletrendcropduststableflockmobileaerobiclend |  
+| bip_39_word_no_space_12 | devoteriverfiletrendcropduststableflockmobileaerobiclendasthma |  
+| bip_39_word_no_space_2 | devoteriver |  
+| bip_39_word_no_space_3 | devoteriverfile |  
+| bip_39_word_no_space_4 | devoteriverfiletrend |  
+| bip_39_word_no_space_5 | devoteriverfiletrendcrop |  
+| bip_39_word_no_space_6 | devoteriverfiletrendcropdust |  
+| bip_39_word_no_space_7 | devoteriverfiletrendcropduststable |  
+| bip_39_word_no_space_8 | devoteriverfiletrendcropduststableflock |  
+| bip_39_word_no_space_9 | devoteriverfiletrendcropduststableflockmobile |  
 | bip_39_word_space_0 | ['devote', 'river', 'file', 'trend', 'crop', 'dust', 'stable', 'flock', 'mobile', 'aerobic', 'lend', 'asthma'] |  
 | bip_39_word_space_1 | devote |  
 | bip_39_word_space_10 | devote river file trend crop dust stable flock mobile aerobic |  

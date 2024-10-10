@@ -122,6 +122,18 @@ blur
 length
 wonder
 decide |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessyardpalacemushroomrebuildblurlengthwonderdecidesuspect |  
+| bip_39_word_no_space_11 | excessyardpalacemushroomrebuildblurlengthwonderdecidesuspectbone |  
+| bip_39_word_no_space_12 | excessyardpalacemushroomrebuildblurlengthwonderdecidesuspectboneapart |  
+| bip_39_word_no_space_2 | excessyard |  
+| bip_39_word_no_space_3 | excessyardpalace |  
+| bip_39_word_no_space_4 | excessyardpalacemushroom |  
+| bip_39_word_no_space_5 | excessyardpalacemushroomrebuild |  
+| bip_39_word_no_space_6 | excessyardpalacemushroomrebuildblur |  
+| bip_39_word_no_space_7 | excessyardpalacemushroomrebuildblurlength |  
+| bip_39_word_no_space_8 | excessyardpalacemushroomrebuildblurlengthwonder |  
+| bip_39_word_no_space_9 | excessyardpalacemushroomrebuildblurlengthwonderdecide |  
 | bip_39_word_space_0 | ['excess', 'yard', 'palace', 'mushroom', 'rebuild', 'blur', 'length', 'wonder', 'decide', 'suspect', 'bone', 'apart'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess yard palace mushroom rebuild blur length wonder decide suspect |  

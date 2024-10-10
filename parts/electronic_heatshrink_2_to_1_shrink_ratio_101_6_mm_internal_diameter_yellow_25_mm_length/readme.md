@@ -122,6 +122,18 @@ smooth
 visual
 champion
 approve |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingdancediseasethrowgirlsmoothvisualchampionapproveknock |  
+| bip_39_word_no_space_11 | nothingdancediseasethrowgirlsmoothvisualchampionapproveknocknorth |  
+| bip_39_word_no_space_12 | nothingdancediseasethrowgirlsmoothvisualchampionapproveknocknorthapart |  
+| bip_39_word_no_space_2 | nothingdance |  
+| bip_39_word_no_space_3 | nothingdancedisease |  
+| bip_39_word_no_space_4 | nothingdancediseasethrow |  
+| bip_39_word_no_space_5 | nothingdancediseasethrowgirl |  
+| bip_39_word_no_space_6 | nothingdancediseasethrowgirlsmooth |  
+| bip_39_word_no_space_7 | nothingdancediseasethrowgirlsmoothvisual |  
+| bip_39_word_no_space_8 | nothingdancediseasethrowgirlsmoothvisualchampion |  
+| bip_39_word_no_space_9 | nothingdancediseasethrowgirlsmoothvisualchampionapprove |  
 | bip_39_word_space_0 | ['nothing', 'dance', 'disease', 'throw', 'girl', 'smooth', 'visual', 'champion', 'approve', 'knock', 'north', 'apart'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing dance disease throw girl smooth visual champion approve knock |  

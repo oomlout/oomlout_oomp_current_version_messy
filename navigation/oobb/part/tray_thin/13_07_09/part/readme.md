@@ -122,6 +122,18 @@ school
 engine
 faculty
 office |  
+| bip_39_word_no_space_1 | change |  
+| bip_39_word_no_space_10 | changerocketdecideenactsleepschoolenginefacultyofficeblanket |  
+| bip_39_word_no_space_11 | changerocketdecideenactsleepschoolenginefacultyofficeblanketaddict |  
+| bip_39_word_no_space_12 | changerocketdecideenactsleepschoolenginefacultyofficeblanketaddictarea |  
+| bip_39_word_no_space_2 | changerocket |  
+| bip_39_word_no_space_3 | changerocketdecide |  
+| bip_39_word_no_space_4 | changerocketdecideenact |  
+| bip_39_word_no_space_5 | changerocketdecideenactsleep |  
+| bip_39_word_no_space_6 | changerocketdecideenactsleepschool |  
+| bip_39_word_no_space_7 | changerocketdecideenactsleepschoolengine |  
+| bip_39_word_no_space_8 | changerocketdecideenactsleepschoolenginefaculty |  
+| bip_39_word_no_space_9 | changerocketdecideenactsleepschoolenginefacultyoffice |  
 | bip_39_word_space_0 | ['change', 'rocket', 'decide', 'enact', 'sleep', 'school', 'engine', 'faculty', 'office', 'blanket', 'addict', 'area'] |  
 | bip_39_word_space_1 | change |  
 | bip_39_word_space_10 | change rocket decide enact sleep school engine faculty office blanket |  

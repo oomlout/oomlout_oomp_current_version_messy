@@ -122,6 +122,18 @@ knife
 aerobic
 fine
 drop |  
+| bip_39_word_no_space_1 | mobile |  
+| bip_39_word_no_space_10 | mobilearguedrifthungrycaptainknifeaerobicfinedropgift |  
+| bip_39_word_no_space_11 | mobilearguedrifthungrycaptainknifeaerobicfinedropgiftaction |  
+| bip_39_word_no_space_12 | mobilearguedrifthungrycaptainknifeaerobicfinedropgiftactionamused |  
+| bip_39_word_no_space_2 | mobileargue |  
+| bip_39_word_no_space_3 | mobilearguedrift |  
+| bip_39_word_no_space_4 | mobilearguedrifthungry |  
+| bip_39_word_no_space_5 | mobilearguedrifthungrycaptain |  
+| bip_39_word_no_space_6 | mobilearguedrifthungrycaptainknife |  
+| bip_39_word_no_space_7 | mobilearguedrifthungrycaptainknifeaerobic |  
+| bip_39_word_no_space_8 | mobilearguedrifthungrycaptainknifeaerobicfine |  
+| bip_39_word_no_space_9 | mobilearguedrifthungrycaptainknifeaerobicfinedrop |  
 | bip_39_word_space_0 | ['mobile', 'argue', 'drift', 'hungry', 'captain', 'knife', 'aerobic', 'fine', 'drop', 'gift', 'action', 'amused'] |  
 | bip_39_word_space_1 | mobile |  
 | bip_39_word_space_10 | mobile argue drift hungry captain knife aerobic fine drop gift |  

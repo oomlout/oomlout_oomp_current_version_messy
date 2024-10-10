@@ -122,6 +122,18 @@ yard
 bargain
 piece
 mix |  
+| bip_39_word_no_space_1 | urge |  
+| bip_39_word_no_space_10 | urgemeasureironwintercurrentyardbargainpiecemixshield |  
+| bip_39_word_no_space_11 | urgemeasureironwintercurrentyardbargainpiecemixshieldgood |  
+| bip_39_word_no_space_12 | urgemeasureironwintercurrentyardbargainpiecemixshieldgoodabsorb |  
+| bip_39_word_no_space_2 | urgemeasure |  
+| bip_39_word_no_space_3 | urgemeasureiron |  
+| bip_39_word_no_space_4 | urgemeasureironwinter |  
+| bip_39_word_no_space_5 | urgemeasureironwintercurrent |  
+| bip_39_word_no_space_6 | urgemeasureironwintercurrentyard |  
+| bip_39_word_no_space_7 | urgemeasureironwintercurrentyardbargain |  
+| bip_39_word_no_space_8 | urgemeasureironwintercurrentyardbargainpiece |  
+| bip_39_word_no_space_9 | urgemeasureironwintercurrentyardbargainpiecemix |  
 | bip_39_word_space_0 | ['urge', 'measure', 'iron', 'winter', 'current', 'yard', 'bargain', 'piece', 'mix', 'shield', 'good', 'absorb'] |  
 | bip_39_word_space_1 | urge |  
 | bip_39_word_space_10 | urge measure iron winter current yard bargain piece mix shield |  

@@ -122,6 +122,18 @@ spray
 pitch
 opinion
 dice |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarclosetheoryputswapspraypitchopiniondicerequire |  
+| bip_39_word_no_space_11 | liarclosetheoryputswapspraypitchopiniondicerequireceiling |  
+| bip_39_word_no_space_12 | liarclosetheoryputswapspraypitchopiniondicerequireceilingadmit |  
+| bip_39_word_no_space_2 | liarclose |  
+| bip_39_word_no_space_3 | liarclosetheory |  
+| bip_39_word_no_space_4 | liarclosetheoryput |  
+| bip_39_word_no_space_5 | liarclosetheoryputswap |  
+| bip_39_word_no_space_6 | liarclosetheoryputswapspray |  
+| bip_39_word_no_space_7 | liarclosetheoryputswapspraypitch |  
+| bip_39_word_no_space_8 | liarclosetheoryputswapspraypitchopinion |  
+| bip_39_word_no_space_9 | liarclosetheoryputswapspraypitchopiniondice |  
 | bip_39_word_space_0 | ['liar', 'close', 'theory', 'put', 'swap', 'spray', 'pitch', 'opinion', 'dice', 'require', 'ceiling', 'admit'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar close theory put swap spray pitch opinion dice require |  

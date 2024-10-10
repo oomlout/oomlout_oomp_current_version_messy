@@ -122,6 +122,18 @@ swift
 call
 update
 churn |  
+| bip_39_word_no_space_1 | wash |  
+| bip_39_word_no_space_10 | washdenialheartunawarealleyswiftcallupdatechurnranch |  
+| bip_39_word_no_space_11 | washdenialheartunawarealleyswiftcallupdatechurnranchpelican |  
+| bip_39_word_no_space_12 | washdenialheartunawarealleyswiftcallupdatechurnranchpelicanarm |  
+| bip_39_word_no_space_2 | washdenial |  
+| bip_39_word_no_space_3 | washdenialheart |  
+| bip_39_word_no_space_4 | washdenialheartunaware |  
+| bip_39_word_no_space_5 | washdenialheartunawarealley |  
+| bip_39_word_no_space_6 | washdenialheartunawarealleyswift |  
+| bip_39_word_no_space_7 | washdenialheartunawarealleyswiftcall |  
+| bip_39_word_no_space_8 | washdenialheartunawarealleyswiftcallupdate |  
+| bip_39_word_no_space_9 | washdenialheartunawarealleyswiftcallupdatechurn |  
 | bip_39_word_space_0 | ['wash', 'denial', 'heart', 'unaware', 'alley', 'swift', 'call', 'update', 'churn', 'ranch', 'pelican', 'arm'] |  
 | bip_39_word_space_1 | wash |  
 | bip_39_word_space_10 | wash denial heart unaware alley swift call update churn ranch |  

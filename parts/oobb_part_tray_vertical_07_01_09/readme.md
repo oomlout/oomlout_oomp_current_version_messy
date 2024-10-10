@@ -122,6 +122,18 @@ double
 chase
 horn
 until |  
+| bip_39_word_no_space_1 | brown |  
+| bip_39_word_no_space_10 | brownthemeslabspotfrogdoublechasehornuntilinjury |  
+| bip_39_word_no_space_11 | brownthemeslabspotfrogdoublechasehornuntilinjurylong |  
+| bip_39_word_no_space_12 | brownthemeslabspotfrogdoublechasehornuntilinjurylongatom |  
+| bip_39_word_no_space_2 | browntheme |  
+| bip_39_word_no_space_3 | brownthemeslab |  
+| bip_39_word_no_space_4 | brownthemeslabspot |  
+| bip_39_word_no_space_5 | brownthemeslabspotfrog |  
+| bip_39_word_no_space_6 | brownthemeslabspotfrogdouble |  
+| bip_39_word_no_space_7 | brownthemeslabspotfrogdoublechase |  
+| bip_39_word_no_space_8 | brownthemeslabspotfrogdoublechasehorn |  
+| bip_39_word_no_space_9 | brownthemeslabspotfrogdoublechasehornuntil |  
 | bip_39_word_space_0 | ['brown', 'theme', 'slab', 'spot', 'frog', 'double', 'chase', 'horn', 'until', 'injury', 'long', 'atom'] |  
 | bip_39_word_space_1 | brown |  
 | bip_39_word_space_10 | brown theme slab spot frog double chase horn until injury |  

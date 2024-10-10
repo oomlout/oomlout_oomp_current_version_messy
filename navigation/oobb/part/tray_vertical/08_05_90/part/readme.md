@@ -122,6 +122,18 @@ person
 cable
 exclude
 include |  
+| bip_39_word_no_space_1 | panel |  
+| bip_39_word_no_space_10 | paneldebrissmartshootdoorpersoncableexcludeincluderun |  
+| bip_39_word_no_space_11 | paneldebrissmartshootdoorpersoncableexcludeincluderunbuddy |  
+| bip_39_word_no_space_12 | paneldebrissmartshootdoorpersoncableexcludeincluderunbuddyarch |  
+| bip_39_word_no_space_2 | paneldebris |  
+| bip_39_word_no_space_3 | paneldebrissmart |  
+| bip_39_word_no_space_4 | paneldebrissmartshoot |  
+| bip_39_word_no_space_5 | paneldebrissmartshootdoor |  
+| bip_39_word_no_space_6 | paneldebrissmartshootdoorperson |  
+| bip_39_word_no_space_7 | paneldebrissmartshootdoorpersoncable |  
+| bip_39_word_no_space_8 | paneldebrissmartshootdoorpersoncableexclude |  
+| bip_39_word_no_space_9 | paneldebrissmartshootdoorpersoncableexcludeinclude |  
 | bip_39_word_space_0 | ['panel', 'debris', 'smart', 'shoot', 'door', 'person', 'cable', 'exclude', 'include', 'run', 'buddy', 'arch'] |  
 | bip_39_word_space_1 | panel |  
 | bip_39_word_space_10 | panel debris smart shoot door person cable exclude include run |  

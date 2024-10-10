@@ -122,6 +122,18 @@ episode
 together
 title
 model |  
+| bip_39_word_no_space_1 | comfort |  
+| bip_39_word_no_space_10 | comfortbabybidzeroentireepisodetogethertitlemodelspot |  
+| bip_39_word_no_space_11 | comfortbabybidzeroentireepisodetogethertitlemodelspotaware |  
+| bip_39_word_no_space_12 | comfortbabybidzeroentireepisodetogethertitlemodelspotawareauthor |  
+| bip_39_word_no_space_2 | comfortbaby |  
+| bip_39_word_no_space_3 | comfortbabybid |  
+| bip_39_word_no_space_4 | comfortbabybidzero |  
+| bip_39_word_no_space_5 | comfortbabybidzeroentire |  
+| bip_39_word_no_space_6 | comfortbabybidzeroentireepisode |  
+| bip_39_word_no_space_7 | comfortbabybidzeroentireepisodetogether |  
+| bip_39_word_no_space_8 | comfortbabybidzeroentireepisodetogethertitle |  
+| bip_39_word_no_space_9 | comfortbabybidzeroentireepisodetogethertitlemodel |  
 | bip_39_word_space_0 | ['comfort', 'baby', 'bid', 'zero', 'entire', 'episode', 'together', 'title', 'model', 'spot', 'aware', 'author'] |  
 | bip_39_word_space_1 | comfort |  
 | bip_39_word_space_10 | comfort baby bid zero entire episode together title model spot |  

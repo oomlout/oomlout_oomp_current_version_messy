@@ -122,6 +122,18 @@ vessel
 immune
 tonight
 render |  
+| bip_39_word_no_space_1 | together |  
+| bip_39_word_no_space_10 | togethercampcroponlyliarvesselimmunetonightrenderhover |  
+| bip_39_word_no_space_11 | togethercampcroponlyliarvesselimmunetonightrenderhoverthrive |  
+| bip_39_word_no_space_12 | togethercampcroponlyliarvesselimmunetonightrenderhoverthriveadult |  
+| bip_39_word_no_space_2 | togethercamp |  
+| bip_39_word_no_space_3 | togethercampcrop |  
+| bip_39_word_no_space_4 | togethercampcroponly |  
+| bip_39_word_no_space_5 | togethercampcroponlyliar |  
+| bip_39_word_no_space_6 | togethercampcroponlyliarvessel |  
+| bip_39_word_no_space_7 | togethercampcroponlyliarvesselimmune |  
+| bip_39_word_no_space_8 | togethercampcroponlyliarvesselimmunetonight |  
+| bip_39_word_no_space_9 | togethercampcroponlyliarvesselimmunetonightrender |  
 | bip_39_word_space_0 | ['together', 'camp', 'crop', 'only', 'liar', 'vessel', 'immune', 'tonight', 'render', 'hover', 'thrive', 'adult'] |  
 | bip_39_word_space_1 | together |  
 | bip_39_word_space_10 | together camp crop only liar vessel immune tonight render hover |  

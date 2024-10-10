@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'guilt
   this
 
   tent'
+bip_39_word_no_space_1: guilt
+bip_39_word_no_space_10: guilttableurgecombinetagdutysalonthistentera
+bip_39_word_no_space_11: guilttableurgecombinetagdutysalonthistenterarepeat
+bip_39_word_no_space_12: guilttableurgecombinetagdutysalonthistenterarepeatall
+bip_39_word_no_space_2: guilttable
+bip_39_word_no_space_3: guilttableurge
+bip_39_word_no_space_4: guilttableurgecombine
+bip_39_word_no_space_5: guilttableurgecombinetag
+bip_39_word_no_space_6: guilttableurgecombinetagduty
+bip_39_word_no_space_7: guilttableurgecombinetagdutysalon
+bip_39_word_no_space_8: guilttableurgecombinetagdutysalonthis
+bip_39_word_no_space_9: guilttableurgecombinetagdutysalonthistent
 bip_39_word_space_0:
 - guilt
 - table

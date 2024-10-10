@@ -122,6 +122,18 @@ inquiry
 visual
 attitude
 choose |  
+| bip_39_word_no_space_1 | pioneer |  
+| bip_39_word_no_space_10 | pioneerstampneveridleskillinquiryvisualattitudechooseplease |  
+| bip_39_word_no_space_11 | pioneerstampneveridleskillinquiryvisualattitudechoosepleasemystery |  
+| bip_39_word_no_space_12 | pioneerstampneveridleskillinquiryvisualattitudechoosepleasemysteryalarm |  
+| bip_39_word_no_space_2 | pioneerstamp |  
+| bip_39_word_no_space_3 | pioneerstampnever |  
+| bip_39_word_no_space_4 | pioneerstampneveridle |  
+| bip_39_word_no_space_5 | pioneerstampneveridleskill |  
+| bip_39_word_no_space_6 | pioneerstampneveridleskillinquiry |  
+| bip_39_word_no_space_7 | pioneerstampneveridleskillinquiryvisual |  
+| bip_39_word_no_space_8 | pioneerstampneveridleskillinquiryvisualattitude |  
+| bip_39_word_no_space_9 | pioneerstampneveridleskillinquiryvisualattitudechoose |  
 | bip_39_word_space_0 | ['pioneer', 'stamp', 'never', 'idle', 'skill', 'inquiry', 'visual', 'attitude', 'choose', 'please', 'mystery', 'alarm'] |  
 | bip_39_word_space_1 | pioneer |  
 | bip_39_word_space_10 | pioneer stamp never idle skill inquiry visual attitude choose please |  

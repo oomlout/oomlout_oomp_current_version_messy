@@ -122,6 +122,18 @@ monitor
 mother
 false
 clump |  
+| bip_39_word_no_space_1 | jewel |  
+| bip_39_word_no_space_10 | jewelfoilreportglimpsecolormonitormotherfalseclumpname |  
+| bip_39_word_no_space_11 | jewelfoilreportglimpsecolormonitormotherfalseclumpnameflash |  
+| bip_39_word_no_space_12 | jewelfoilreportglimpsecolormonitormotherfalseclumpnameflashamused |  
+| bip_39_word_no_space_2 | jewelfoil |  
+| bip_39_word_no_space_3 | jewelfoilreport |  
+| bip_39_word_no_space_4 | jewelfoilreportglimpse |  
+| bip_39_word_no_space_5 | jewelfoilreportglimpsecolor |  
+| bip_39_word_no_space_6 | jewelfoilreportglimpsecolormonitor |  
+| bip_39_word_no_space_7 | jewelfoilreportglimpsecolormonitormother |  
+| bip_39_word_no_space_8 | jewelfoilreportglimpsecolormonitormotherfalse |  
+| bip_39_word_no_space_9 | jewelfoilreportglimpsecolormonitormotherfalseclump |  
 | bip_39_word_space_0 | ['jewel', 'foil', 'report', 'glimpse', 'color', 'monitor', 'mother', 'false', 'clump', 'name', 'flash', 'amused'] |  
 | bip_39_word_space_1 | jewel |  
 | bip_39_word_space_10 | jewel foil report glimpse color monitor mother false clump name |  

@@ -122,6 +122,18 @@ moment
 tackle
 nest
 enforce |  
+| bip_39_word_no_space_1 | toward |  
+| bip_39_word_no_space_10 | towardideaparrotfirstdrawmomenttacklenestenforcespecial |  
+| bip_39_word_no_space_11 | towardideaparrotfirstdrawmomenttacklenestenforcespecialopera |  
+| bip_39_word_no_space_12 | towardideaparrotfirstdrawmomenttacklenestenforcespecialoperaamused |  
+| bip_39_word_no_space_2 | towardidea |  
+| bip_39_word_no_space_3 | towardideaparrot |  
+| bip_39_word_no_space_4 | towardideaparrotfirst |  
+| bip_39_word_no_space_5 | towardideaparrotfirstdraw |  
+| bip_39_word_no_space_6 | towardideaparrotfirstdrawmoment |  
+| bip_39_word_no_space_7 | towardideaparrotfirstdrawmomenttackle |  
+| bip_39_word_no_space_8 | towardideaparrotfirstdrawmomenttacklenest |  
+| bip_39_word_no_space_9 | towardideaparrotfirstdrawmomenttacklenestenforce |  
 | bip_39_word_space_0 | ['toward', 'idea', 'parrot', 'first', 'draw', 'moment', 'tackle', 'nest', 'enforce', 'special', 'opera', 'amused'] |  
 | bip_39_word_space_1 | toward |  
 | bip_39_word_space_10 | toward idea parrot first draw moment tackle nest enforce special |  

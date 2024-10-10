@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'power
   reward
 
   voyage'
+bip_39_word_no_space_1: power
+bip_39_word_no_space_10: powerroyaldoorrememberspeedthensharerewardvoyageball
+bip_39_word_no_space_11: powerroyaldoorrememberspeedthensharerewardvoyageballprosper
+bip_39_word_no_space_2: powerroyal
+bip_39_word_no_space_3: powerroyaldoor
+bip_39_word_no_space_4: powerroyaldoorremember
+bip_39_word_no_space_5: powerroyaldoorrememberspeed
+bip_39_word_no_space_6: powerroyaldoorrememberspeedthen
+bip_39_word_no_space_7: powerroyaldoorrememberspeedthenshare
+bip_39_word_no_space_8: powerroyaldoorrememberspeedthensharereward
+bip_39_word_no_space_9: powerroyaldoorrememberspeedthensharerewardvoyage
 bip_39_word_space_0:
 - power
 - royal

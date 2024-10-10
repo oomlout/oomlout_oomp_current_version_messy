@@ -122,6 +122,18 @@ illness
 aunt
 retire
 choose |  
+| bip_39_word_no_space_1 | dash |  
+| bip_39_word_no_space_10 | dashsellhugemidnightfortuneillnessauntretirechooseoutside |  
+| bip_39_word_no_space_11 | dashsellhugemidnightfortuneillnessauntretirechooseoutsideamong |  
+| bip_39_word_no_space_12 | dashsellhugemidnightfortuneillnessauntretirechooseoutsideamongarmy |  
+| bip_39_word_no_space_2 | dashsell |  
+| bip_39_word_no_space_3 | dashsellhuge |  
+| bip_39_word_no_space_4 | dashsellhugemidnight |  
+| bip_39_word_no_space_5 | dashsellhugemidnightfortune |  
+| bip_39_word_no_space_6 | dashsellhugemidnightfortuneillness |  
+| bip_39_word_no_space_7 | dashsellhugemidnightfortuneillnessaunt |  
+| bip_39_word_no_space_8 | dashsellhugemidnightfortuneillnessauntretire |  
+| bip_39_word_no_space_9 | dashsellhugemidnightfortuneillnessauntretirechoose |  
 | bip_39_word_space_0 | ['dash', 'sell', 'huge', 'midnight', 'fortune', 'illness', 'aunt', 'retire', 'choose', 'outside', 'among', 'army'] |  
 | bip_39_word_space_1 | dash |  
 | bip_39_word_space_10 | dash sell huge midnight fortune illness aunt retire choose outside |  

@@ -122,6 +122,18 @@ chuckle
 arrow
 what
 deliver |  
+| bip_39_word_no_space_1 | renew |  
+| bip_39_word_no_space_10 | renewclumpturtlecrowdfortunechucklearrowwhatdelivermystery |  
+| bip_39_word_no_space_11 | renewclumpturtlecrowdfortunechucklearrowwhatdelivermysterybean |  
+| bip_39_word_no_space_12 | renewclumpturtlecrowdfortunechucklearrowwhatdelivermysterybeanaverage |  
+| bip_39_word_no_space_2 | renewclump |  
+| bip_39_word_no_space_3 | renewclumpturtle |  
+| bip_39_word_no_space_4 | renewclumpturtlecrowd |  
+| bip_39_word_no_space_5 | renewclumpturtlecrowdfortune |  
+| bip_39_word_no_space_6 | renewclumpturtlecrowdfortunechuckle |  
+| bip_39_word_no_space_7 | renewclumpturtlecrowdfortunechucklearrow |  
+| bip_39_word_no_space_8 | renewclumpturtlecrowdfortunechucklearrowwhat |  
+| bip_39_word_no_space_9 | renewclumpturtlecrowdfortunechucklearrowwhatdeliver |  
 | bip_39_word_space_0 | ['renew', 'clump', 'turtle', 'crowd', 'fortune', 'chuckle', 'arrow', 'what', 'deliver', 'mystery', 'bean', 'average'] |  
 | bip_39_word_space_1 | renew |  
 | bip_39_word_space_10 | renew clump turtle crowd fortune chuckle arrow what deliver mystery |  

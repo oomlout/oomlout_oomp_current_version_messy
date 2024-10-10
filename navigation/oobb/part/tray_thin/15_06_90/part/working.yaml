@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'web
   kingdom
 
   input'
+bip_39_word_no_space_1: web
+bip_39_word_no_space_10: webspeakillswordmemoryentersustainkingdominputten
+bip_39_word_no_space_11: webspeakillswordmemoryentersustainkingdominputtennoise
+bip_39_word_no_space_12: webspeakillswordmemoryentersustainkingdominputtennoiseaction
+bip_39_word_no_space_2: webspeak
+bip_39_word_no_space_3: webspeakill
+bip_39_word_no_space_4: webspeakillsword
+bip_39_word_no_space_5: webspeakillswordmemory
+bip_39_word_no_space_6: webspeakillswordmemoryenter
+bip_39_word_no_space_7: webspeakillswordmemoryentersustain
+bip_39_word_no_space_8: webspeakillswordmemoryentersustainkingdom
+bip_39_word_no_space_9: webspeakillswordmemoryentersustainkingdominput
 bip_39_word_space_0:
 - web
 - speak

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'safe
   cereal
 
   alley'
+bip_39_word_no_space_1: safe
+bip_39_word_no_space_10: safetriptruecousinfutureinheritglorycerealalleytop
+bip_39_word_no_space_11: safetriptruecousinfutureinheritglorycerealalleytopsand
+bip_39_word_no_space_12: safetriptruecousinfutureinheritglorycerealalleytopsandabove
+bip_39_word_no_space_2: safetrip
+bip_39_word_no_space_3: safetriptrue
+bip_39_word_no_space_4: safetriptruecousin
+bip_39_word_no_space_5: safetriptruecousinfuture
+bip_39_word_no_space_6: safetriptruecousinfutureinherit
+bip_39_word_no_space_7: safetriptruecousinfutureinheritglory
+bip_39_word_no_space_8: safetriptruecousinfutureinheritglorycereal
+bip_39_word_no_space_9: safetriptruecousinfutureinheritglorycerealalley
 bip_39_word_space_0:
 - safe
 - trip

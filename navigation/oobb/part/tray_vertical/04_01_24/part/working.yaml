@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'cause
   benefit
 
   dizzy'
+bip_39_word_no_space_1: cause
+bip_39_word_no_space_10: causeslimbounceunveilapprovesoulcagebenefitdizzyamazing
+bip_39_word_no_space_11: causeslimbounceunveilapprovesoulcagebenefitdizzyamazingcinnamon
+bip_39_word_no_space_12: causeslimbounceunveilapprovesoulcagebenefitdizzyamazingcinnamonaerobic
+bip_39_word_no_space_2: causeslim
+bip_39_word_no_space_3: causeslimbounce
+bip_39_word_no_space_4: causeslimbounceunveil
+bip_39_word_no_space_5: causeslimbounceunveilapprove
+bip_39_word_no_space_6: causeslimbounceunveilapprovesoul
+bip_39_word_no_space_7: causeslimbounceunveilapprovesoulcage
+bip_39_word_no_space_8: causeslimbounceunveilapprovesoulcagebenefit
+bip_39_word_no_space_9: causeslimbounceunveilapprovesoulcagebenefitdizzy
 bip_39_word_space_0:
 - cause
 - slim

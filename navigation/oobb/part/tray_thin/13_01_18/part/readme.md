@@ -122,6 +122,18 @@ pulse
 citizen
 palace
 exhibit |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gainfilterchimneyfacerivalpulsecitizenpalaceexhibitrecycle |  
+| bip_39_word_no_space_11 | gainfilterchimneyfacerivalpulsecitizenpalaceexhibitrecycleinterest |  
+| bip_39_word_no_space_12 | gainfilterchimneyfacerivalpulsecitizenpalaceexhibitrecycleinterestadmit |  
+| bip_39_word_no_space_2 | gainfilter |  
+| bip_39_word_no_space_3 | gainfilterchimney |  
+| bip_39_word_no_space_4 | gainfilterchimneyface |  
+| bip_39_word_no_space_5 | gainfilterchimneyfacerival |  
+| bip_39_word_no_space_6 | gainfilterchimneyfacerivalpulse |  
+| bip_39_word_no_space_7 | gainfilterchimneyfacerivalpulsecitizen |  
+| bip_39_word_no_space_8 | gainfilterchimneyfacerivalpulsecitizenpalace |  
+| bip_39_word_no_space_9 | gainfilterchimneyfacerivalpulsecitizenpalaceexhibit |  
 | bip_39_word_space_0 | ['gain', 'filter', 'chimney', 'face', 'rival', 'pulse', 'citizen', 'palace', 'exhibit', 'recycle', 'interest', 'admit'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain filter chimney face rival pulse citizen palace exhibit recycle |  

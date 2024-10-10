@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mango
   thrive
 
   lift'
+bip_39_word_no_space_1: mango
+bip_39_word_no_space_10: mangomedalfunnyproudcorefatherfaultthriveliftbroken
+bip_39_word_no_space_11: mangomedalfunnyproudcorefatherfaultthriveliftbrokenglow
+bip_39_word_no_space_12: mangomedalfunnyproudcorefatherfaultthriveliftbrokenglowable
+bip_39_word_no_space_2: mangomedal
+bip_39_word_no_space_3: mangomedalfunny
+bip_39_word_no_space_4: mangomedalfunnyproud
+bip_39_word_no_space_5: mangomedalfunnyproudcore
+bip_39_word_no_space_6: mangomedalfunnyproudcorefather
+bip_39_word_no_space_7: mangomedalfunnyproudcorefatherfault
+bip_39_word_no_space_8: mangomedalfunnyproudcorefatherfaultthrive
+bip_39_word_no_space_9: mangomedalfunnyproudcorefatherfaultthrivelift
 bip_39_word_space_0:
 - mango
 - medal

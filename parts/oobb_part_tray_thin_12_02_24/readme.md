@@ -122,6 +122,18 @@ poem
 wave
 away
 huge |  
+| bip_39_word_no_space_1 | all |  
+| bip_39_word_no_space_10 | allnoodlecomecannononionpoemwaveawayhugesalmon |  
+| bip_39_word_no_space_11 | allnoodlecomecannononionpoemwaveawayhugesalmonjaguar |  
+| bip_39_word_no_space_12 | allnoodlecomecannononionpoemwaveawayhugesalmonjaguaraerobic |  
+| bip_39_word_no_space_2 | allnoodle |  
+| bip_39_word_no_space_3 | allnoodlecome |  
+| bip_39_word_no_space_4 | allnoodlecomecannon |  
+| bip_39_word_no_space_5 | allnoodlecomecannononion |  
+| bip_39_word_no_space_6 | allnoodlecomecannononionpoem |  
+| bip_39_word_no_space_7 | allnoodlecomecannononionpoemwave |  
+| bip_39_word_no_space_8 | allnoodlecomecannononionpoemwaveaway |  
+| bip_39_word_no_space_9 | allnoodlecomecannononionpoemwaveawayhuge |  
 | bip_39_word_space_0 | ['all', 'noodle', 'come', 'cannon', 'onion', 'poem', 'wave', 'away', 'huge', 'salmon', 'jaguar', 'aerobic'] |  
 | bip_39_word_space_1 | all |  
 | bip_39_word_space_10 | all noodle come cannon onion poem wave away huge salmon |  

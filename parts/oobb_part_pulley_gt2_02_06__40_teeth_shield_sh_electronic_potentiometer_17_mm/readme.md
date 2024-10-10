@@ -122,6 +122,18 @@ glow
 process
 pitch
 birth |  
+| bip_39_word_no_space_1 | frequent |  
+| bip_39_word_no_space_10 | frequentscarebronzeclutchpurposeglowprocesspitchbirthvirtual |  
+| bip_39_word_no_space_11 | frequentscarebronzeclutchpurposeglowprocesspitchbirthvirtualengage |  
+| bip_39_word_no_space_12 | frequentscarebronzeclutchpurposeglowprocesspitchbirthvirtualengageahead |  
+| bip_39_word_no_space_2 | frequentscare |  
+| bip_39_word_no_space_3 | frequentscarebronze |  
+| bip_39_word_no_space_4 | frequentscarebronzeclutch |  
+| bip_39_word_no_space_5 | frequentscarebronzeclutchpurpose |  
+| bip_39_word_no_space_6 | frequentscarebronzeclutchpurposeglow |  
+| bip_39_word_no_space_7 | frequentscarebronzeclutchpurposeglowprocess |  
+| bip_39_word_no_space_8 | frequentscarebronzeclutchpurposeglowprocesspitch |  
+| bip_39_word_no_space_9 | frequentscarebronzeclutchpurposeglowprocesspitchbirth |  
 | bip_39_word_space_0 | ['frequent', 'scare', 'bronze', 'clutch', 'purpose', 'glow', 'process', 'pitch', 'birth', 'virtual', 'engage', 'ahead'] |  
 | bip_39_word_space_1 | frequent |  
 | bip_39_word_space_10 | frequent scare bronze clutch purpose glow process pitch birth virtual |  

@@ -122,6 +122,18 @@ people
 couple
 great
 bid |  
+| bip_39_word_no_space_1 | recipe |  
+| bip_39_word_no_space_10 | recipecrimesourcedirtpicnicpeoplecouplegreatbidcitizen |  
+| bip_39_word_no_space_11 | recipecrimesourcedirtpicnicpeoplecouplegreatbidcitizenanalyst |  
+| bip_39_word_no_space_12 | recipecrimesourcedirtpicnicpeoplecouplegreatbidcitizenanalystalien |  
+| bip_39_word_no_space_2 | recipecrime |  
+| bip_39_word_no_space_3 | recipecrimesource |  
+| bip_39_word_no_space_4 | recipecrimesourcedirt |  
+| bip_39_word_no_space_5 | recipecrimesourcedirtpicnic |  
+| bip_39_word_no_space_6 | recipecrimesourcedirtpicnicpeople |  
+| bip_39_word_no_space_7 | recipecrimesourcedirtpicnicpeoplecouple |  
+| bip_39_word_no_space_8 | recipecrimesourcedirtpicnicpeoplecouplegreat |  
+| bip_39_word_no_space_9 | recipecrimesourcedirtpicnicpeoplecouplegreatbid |  
 | bip_39_word_space_0 | ['recipe', 'crime', 'source', 'dirt', 'picnic', 'people', 'couple', 'great', 'bid', 'citizen', 'analyst', 'alien'] |  
 | bip_39_word_space_1 | recipe |  
 | bip_39_word_space_10 | recipe crime source dirt picnic people couple great bid citizen |  

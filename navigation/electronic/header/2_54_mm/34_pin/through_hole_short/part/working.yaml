@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'easy
   where
 
   loud'
+bip_39_word_no_space_1: easy
+bip_39_word_no_space_10: easytrashamongrhythmgloomgoddessharshwhereloudgrid
+bip_39_word_no_space_11: easytrashamongrhythmgloomgoddessharshwhereloudgridstyle
+bip_39_word_no_space_12: easytrashamongrhythmgloomgoddessharshwhereloudgridstylealbum
+bip_39_word_no_space_2: easytrash
+bip_39_word_no_space_3: easytrashamong
+bip_39_word_no_space_4: easytrashamongrhythm
+bip_39_word_no_space_5: easytrashamongrhythmgloom
+bip_39_word_no_space_6: easytrashamongrhythmgloomgoddess
+bip_39_word_no_space_7: easytrashamongrhythmgloomgoddessharsh
+bip_39_word_no_space_8: easytrashamongrhythmgloomgoddessharshwhere
+bip_39_word_no_space_9: easytrashamongrhythmgloomgoddessharshwhereloud
 bip_39_word_space_0:
 - easy
 - trash

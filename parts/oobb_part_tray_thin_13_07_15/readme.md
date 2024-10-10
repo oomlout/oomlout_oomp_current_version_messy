@@ -122,6 +122,18 @@ decorate
 enjoy
 seven
 enough |  
+| bip_39_word_no_space_1 | quote |  
+| bip_39_word_no_space_10 | quotefostervibrantsleepcutedecorateenjoysevenenoughopera |  
+| bip_39_word_no_space_11 | quotefostervibrantsleepcutedecorateenjoysevenenoughoperascatter |  
+| bip_39_word_no_space_12 | quotefostervibrantsleepcutedecorateenjoysevenenoughoperascatteralready |  
+| bip_39_word_no_space_2 | quotefoster |  
+| bip_39_word_no_space_3 | quotefostervibrant |  
+| bip_39_word_no_space_4 | quotefostervibrantsleep |  
+| bip_39_word_no_space_5 | quotefostervibrantsleepcute |  
+| bip_39_word_no_space_6 | quotefostervibrantsleepcutedecorate |  
+| bip_39_word_no_space_7 | quotefostervibrantsleepcutedecorateenjoy |  
+| bip_39_word_no_space_8 | quotefostervibrantsleepcutedecorateenjoyseven |  
+| bip_39_word_no_space_9 | quotefostervibrantsleepcutedecorateenjoysevenenough |  
 | bip_39_word_space_0 | ['quote', 'foster', 'vibrant', 'sleep', 'cute', 'decorate', 'enjoy', 'seven', 'enough', 'opera', 'scatter', 'already'] |  
 | bip_39_word_space_1 | quote |  
 | bip_39_word_space_10 | quote foster vibrant sleep cute decorate enjoy seven enough opera |  

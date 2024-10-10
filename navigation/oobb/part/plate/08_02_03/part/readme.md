@@ -122,6 +122,18 @@ clown
 arrest
 someone
 symptom |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisuremarinetouristfrozennomineeclownarrestsomeonesymptomfunny |  
+| bip_39_word_no_space_11 | leisuremarinetouristfrozennomineeclownarrestsomeonesymptomfunnynet |  
+| bip_39_word_no_space_12 | leisuremarinetouristfrozennomineeclownarrestsomeonesymptomfunnynetamount |  
+| bip_39_word_no_space_2 | leisuremarine |  
+| bip_39_word_no_space_3 | leisuremarinetourist |  
+| bip_39_word_no_space_4 | leisuremarinetouristfrozen |  
+| bip_39_word_no_space_5 | leisuremarinetouristfrozennominee |  
+| bip_39_word_no_space_6 | leisuremarinetouristfrozennomineeclown |  
+| bip_39_word_no_space_7 | leisuremarinetouristfrozennomineeclownarrest |  
+| bip_39_word_no_space_8 | leisuremarinetouristfrozennomineeclownarrestsomeone |  
+| bip_39_word_no_space_9 | leisuremarinetouristfrozennomineeclownarrestsomeonesymptom |  
 | bip_39_word_space_0 | ['leisure', 'marine', 'tourist', 'frozen', 'nominee', 'clown', 'arrest', 'someone', 'symptom', 'funny', 'net', 'amount'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure marine tourist frozen nominee clown arrest someone symptom funny |  

@@ -122,6 +122,18 @@ charge
 capable
 nuclear
 census |  
+| bip_39_word_no_space_1 | juice |  
+| bip_39_word_no_space_10 | juicestorybetweengrowgrowchargecapablenuclearcensustrend |  
+| bip_39_word_no_space_11 | juicestorybetweengrowgrowchargecapablenuclearcensustrendsister |  
+| bip_39_word_no_space_12 | juicestorybetweengrowgrowchargecapablenuclearcensustrendsisterartwork |  
+| bip_39_word_no_space_2 | juicestory |  
+| bip_39_word_no_space_3 | juicestorybetween |  
+| bip_39_word_no_space_4 | juicestorybetweengrow |  
+| bip_39_word_no_space_5 | juicestorybetweengrowgrow |  
+| bip_39_word_no_space_6 | juicestorybetweengrowgrowcharge |  
+| bip_39_word_no_space_7 | juicestorybetweengrowgrowchargecapable |  
+| bip_39_word_no_space_8 | juicestorybetweengrowgrowchargecapablenuclear |  
+| bip_39_word_no_space_9 | juicestorybetweengrowgrowchargecapablenuclearcensus |  
 | bip_39_word_space_0 | ['juice', 'story', 'between', 'grow', 'grow', 'charge', 'capable', 'nuclear', 'census', 'trend', 'sister', 'artwork'] |  
 | bip_39_word_space_1 | juice |  
 | bip_39_word_space_10 | juice story between grow grow charge capable nuclear census trend |  

@@ -122,6 +122,18 @@ demise
 refuse
 where
 glow |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidchildgiggleawesomesafedemiserefusewhereglowchapter |  
+| bip_39_word_no_space_11 | afraidchildgiggleawesomesafedemiserefusewhereglowchapterpioneer |  
+| bip_39_word_no_space_12 | afraidchildgiggleawesomesafedemiserefusewhereglowchapterpioneeramateur |  
+| bip_39_word_no_space_2 | afraidchild |  
+| bip_39_word_no_space_3 | afraidchildgiggle |  
+| bip_39_word_no_space_4 | afraidchildgiggleawesome |  
+| bip_39_word_no_space_5 | afraidchildgiggleawesomesafe |  
+| bip_39_word_no_space_6 | afraidchildgiggleawesomesafedemise |  
+| bip_39_word_no_space_7 | afraidchildgiggleawesomesafedemiserefuse |  
+| bip_39_word_no_space_8 | afraidchildgiggleawesomesafedemiserefusewhere |  
+| bip_39_word_no_space_9 | afraidchildgiggleawesomesafedemiserefusewhereglow |  
 | bip_39_word_space_0 | ['afraid', 'child', 'giggle', 'awesome', 'safe', 'demise', 'refuse', 'where', 'glow', 'chapter', 'pioneer', 'amateur'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid child giggle awesome safe demise refuse where glow chapter |  

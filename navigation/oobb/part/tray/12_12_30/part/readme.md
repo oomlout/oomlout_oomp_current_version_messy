@@ -122,6 +122,18 @@ hand
 idle
 crucial
 chicken |  
+| bip_39_word_no_space_1 | update |  
+| bip_39_word_no_space_10 | updatebarelyeastsockradarhandidlecrucialchickenfemale |  
+| bip_39_word_no_space_11 | updatebarelyeastsockradarhandidlecrucialchickenfemalechalk |  
+| bip_39_word_no_space_12 | updatebarelyeastsockradarhandidlecrucialchickenfemalechalkautumn |  
+| bip_39_word_no_space_2 | updatebarely |  
+| bip_39_word_no_space_3 | updatebarelyeast |  
+| bip_39_word_no_space_4 | updatebarelyeastsock |  
+| bip_39_word_no_space_5 | updatebarelyeastsockradar |  
+| bip_39_word_no_space_6 | updatebarelyeastsockradarhand |  
+| bip_39_word_no_space_7 | updatebarelyeastsockradarhandidle |  
+| bip_39_word_no_space_8 | updatebarelyeastsockradarhandidlecrucial |  
+| bip_39_word_no_space_9 | updatebarelyeastsockradarhandidlecrucialchicken |  
 | bip_39_word_space_0 | ['update', 'barely', 'east', 'sock', 'radar', 'hand', 'idle', 'crucial', 'chicken', 'female', 'chalk', 'autumn'] |  
 | bip_39_word_space_1 | update |  
 | bip_39_word_space_10 | update barely east sock radar hand idle crucial chicken female |  

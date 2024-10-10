@@ -122,6 +122,18 @@ weasel
 excess
 marble
 tooth |  
+| bip_39_word_no_space_1 | burger |  
+| bip_39_word_no_space_10 | burgerfuturedocumenttuitionrentweaselexcessmarbletoothsport |  
+| bip_39_word_no_space_11 | burgerfuturedocumenttuitionrentweaselexcessmarbletoothsportincrease |  
+| bip_39_word_no_space_12 | burgerfuturedocumenttuitionrentweaselexcessmarbletoothsportincreaseauction |  
+| bip_39_word_no_space_2 | burgerfuture |  
+| bip_39_word_no_space_3 | burgerfuturedocument |  
+| bip_39_word_no_space_4 | burgerfuturedocumenttuition |  
+| bip_39_word_no_space_5 | burgerfuturedocumenttuitionrent |  
+| bip_39_word_no_space_6 | burgerfuturedocumenttuitionrentweasel |  
+| bip_39_word_no_space_7 | burgerfuturedocumenttuitionrentweaselexcess |  
+| bip_39_word_no_space_8 | burgerfuturedocumenttuitionrentweaselexcessmarble |  
+| bip_39_word_no_space_9 | burgerfuturedocumenttuitionrentweaselexcessmarbletooth |  
 | bip_39_word_space_0 | ['burger', 'future', 'document', 'tuition', 'rent', 'weasel', 'excess', 'marble', 'tooth', 'sport', 'increase', 'auction'] |  
 | bip_39_word_space_1 | burger |  
 | bip_39_word_space_10 | burger future document tuition rent weasel excess marble tooth sport |  

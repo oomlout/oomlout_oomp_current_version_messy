@@ -122,6 +122,18 @@ hand
 blanket
 just
 struggle |  
+| bip_39_word_no_space_1 | mutual |  
+| bip_39_word_no_space_10 | mutualgiantflightenjoytosshandblanketjuststruggleside |  
+| bip_39_word_no_space_11 | mutualgiantflightenjoytosshandblanketjuststrugglesidecrumble |  
+| bip_39_word_no_space_12 | mutualgiantflightenjoytosshandblanketjuststrugglesidecrumblealpha |  
+| bip_39_word_no_space_2 | mutualgiant |  
+| bip_39_word_no_space_3 | mutualgiantflight |  
+| bip_39_word_no_space_4 | mutualgiantflightenjoy |  
+| bip_39_word_no_space_5 | mutualgiantflightenjoytoss |  
+| bip_39_word_no_space_6 | mutualgiantflightenjoytosshand |  
+| bip_39_word_no_space_7 | mutualgiantflightenjoytosshandblanket |  
+| bip_39_word_no_space_8 | mutualgiantflightenjoytosshandblanketjust |  
+| bip_39_word_no_space_9 | mutualgiantflightenjoytosshandblanketjuststruggle |  
 | bip_39_word_space_0 | ['mutual', 'giant', 'flight', 'enjoy', 'toss', 'hand', 'blanket', 'just', 'struggle', 'side', 'crumble', 'alpha'] |  
 | bip_39_word_space_1 | mutual |  
 | bip_39_word_space_10 | mutual giant flight enjoy toss hand blanket just struggle side |  

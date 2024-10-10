@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lion
   fence
 
   canvas'
+bip_39_word_no_space_1: lion
+bip_39_word_no_space_10: lionhuntsunnyportionperfectcabinobscurefencecanvasdolphin
+bip_39_word_no_space_11: lionhuntsunnyportionperfectcabinobscurefencecanvasdolphinnorth
+bip_39_word_no_space_12: lionhuntsunnyportionperfectcabinobscurefencecanvasdolphinnorthalso
+bip_39_word_no_space_2: lionhunt
+bip_39_word_no_space_3: lionhuntsunny
+bip_39_word_no_space_4: lionhuntsunnyportion
+bip_39_word_no_space_5: lionhuntsunnyportionperfect
+bip_39_word_no_space_6: lionhuntsunnyportionperfectcabin
+bip_39_word_no_space_7: lionhuntsunnyportionperfectcabinobscure
+bip_39_word_no_space_8: lionhuntsunnyportionperfectcabinobscurefence
+bip_39_word_no_space_9: lionhuntsunnyportionperfectcabinobscurefencecanvas
 bip_39_word_space_0:
 - lion
 - hunt

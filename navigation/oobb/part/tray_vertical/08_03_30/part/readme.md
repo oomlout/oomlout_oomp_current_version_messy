@@ -122,6 +122,18 @@ vote
 squeeze
 cheap
 meat |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetsausageaffairfunnyquestionvotesqueezecheapmeatsilver |  
+| bip_39_word_no_space_11 | wetsausageaffairfunnyquestionvotesqueezecheapmeatsilverbrass |  
+| bip_39_word_no_space_12 | wetsausageaffairfunnyquestionvotesqueezecheapmeatsilverbrassaim |  
+| bip_39_word_no_space_2 | wetsausage |  
+| bip_39_word_no_space_3 | wetsausageaffair |  
+| bip_39_word_no_space_4 | wetsausageaffairfunny |  
+| bip_39_word_no_space_5 | wetsausageaffairfunnyquestion |  
+| bip_39_word_no_space_6 | wetsausageaffairfunnyquestionvote |  
+| bip_39_word_no_space_7 | wetsausageaffairfunnyquestionvotesqueeze |  
+| bip_39_word_no_space_8 | wetsausageaffairfunnyquestionvotesqueezecheap |  
+| bip_39_word_no_space_9 | wetsausageaffairfunnyquestionvotesqueezecheapmeat |  
 | bip_39_word_space_0 | ['wet', 'sausage', 'affair', 'funny', 'question', 'vote', 'squeeze', 'cheap', 'meat', 'silver', 'brass', 'aim'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet sausage affair funny question vote squeeze cheap meat silver |  

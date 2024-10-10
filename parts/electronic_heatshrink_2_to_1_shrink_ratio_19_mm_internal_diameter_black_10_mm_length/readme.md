@@ -122,6 +122,18 @@ describe
 panic
 cart
 limit |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefsevenjumpsearchpicturedescribepaniccartlimitday |  
+| bip_39_word_no_space_11 | chefsevenjumpsearchpicturedescribepaniccartlimitdayguitar |  
+| bip_39_word_no_space_12 | chefsevenjumpsearchpicturedescribepaniccartlimitdayguitarabout |  
+| bip_39_word_no_space_2 | chefseven |  
+| bip_39_word_no_space_3 | chefsevenjump |  
+| bip_39_word_no_space_4 | chefsevenjumpsearch |  
+| bip_39_word_no_space_5 | chefsevenjumpsearchpicture |  
+| bip_39_word_no_space_6 | chefsevenjumpsearchpicturedescribe |  
+| bip_39_word_no_space_7 | chefsevenjumpsearchpicturedescribepanic |  
+| bip_39_word_no_space_8 | chefsevenjumpsearchpicturedescribepaniccart |  
+| bip_39_word_no_space_9 | chefsevenjumpsearchpicturedescribepaniccartlimit |  
 | bip_39_word_space_0 | ['chef', 'seven', 'jump', 'search', 'picture', 'describe', 'panic', 'cart', 'limit', 'day', 'guitar', 'about'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef seven jump search picture describe panic cart limit day |  

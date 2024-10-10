@@ -122,6 +122,18 @@ hover
 option
 kid
 earn |  
+| bip_39_word_no_space_1 | axis |  
+| bip_39_word_no_space_10 | axiswasteclaytiltthinghoveroptionkidearncurious |  
+| bip_39_word_no_space_11 | axiswasteclaytiltthinghoveroptionkidearncuriousparent |  
+| bip_39_word_no_space_12 | axiswasteclaytiltthinghoveroptionkidearncuriousparentangry |  
+| bip_39_word_no_space_2 | axiswaste |  
+| bip_39_word_no_space_3 | axiswasteclay |  
+| bip_39_word_no_space_4 | axiswasteclaytilt |  
+| bip_39_word_no_space_5 | axiswasteclaytiltthing |  
+| bip_39_word_no_space_6 | axiswasteclaytiltthinghover |  
+| bip_39_word_no_space_7 | axiswasteclaytiltthinghoveroption |  
+| bip_39_word_no_space_8 | axiswasteclaytiltthinghoveroptionkid |  
+| bip_39_word_no_space_9 | axiswasteclaytiltthinghoveroptionkidearn |  
 | bip_39_word_space_0 | ['axis', 'waste', 'clay', 'tilt', 'thing', 'hover', 'option', 'kid', 'earn', 'curious', 'parent', 'angry'] |  
 | bip_39_word_space_1 | axis |  
 | bip_39_word_space_10 | axis waste clay tilt thing hover option kid earn curious |  

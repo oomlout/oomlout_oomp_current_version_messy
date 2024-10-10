@@ -122,6 +122,18 @@ clean
 stove
 junk
 carry |  
+| bip_39_word_no_space_1 | slice |  
+| bip_39_word_no_space_10 | slicebrownawfulyouthsciencecleanstovejunkcarrytoddler |  
+| bip_39_word_no_space_11 | slicebrownawfulyouthsciencecleanstovejunkcarrytoddlerdrink |  
+| bip_39_word_no_space_12 | slicebrownawfulyouthsciencecleanstovejunkcarrytoddlerdrinkassist |  
+| bip_39_word_no_space_2 | slicebrown |  
+| bip_39_word_no_space_3 | slicebrownawful |  
+| bip_39_word_no_space_4 | slicebrownawfulyouth |  
+| bip_39_word_no_space_5 | slicebrownawfulyouthscience |  
+| bip_39_word_no_space_6 | slicebrownawfulyouthscienceclean |  
+| bip_39_word_no_space_7 | slicebrownawfulyouthsciencecleanstove |  
+| bip_39_word_no_space_8 | slicebrownawfulyouthsciencecleanstovejunk |  
+| bip_39_word_no_space_9 | slicebrownawfulyouthsciencecleanstovejunkcarry |  
 | bip_39_word_space_0 | ['slice', 'brown', 'awful', 'youth', 'science', 'clean', 'stove', 'junk', 'carry', 'toddler', 'drink', 'assist'] |  
 | bip_39_word_space_1 | slice |  
 | bip_39_word_space_10 | slice brown awful youth science clean stove junk carry toddler |  

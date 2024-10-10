@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'enable
   skin
 
   arrow'
+bip_39_word_no_space_1: enable
+bip_39_word_no_space_10: enableclothbroombracketmetalmodifyhealthskinarrowhair
+bip_39_word_no_space_11: enableclothbroombracketmetalmodifyhealthskinarrowhairfashion
+bip_39_word_no_space_12: enableclothbroombracketmetalmodifyhealthskinarrowhairfashionannual
+bip_39_word_no_space_2: enablecloth
+bip_39_word_no_space_3: enableclothbroom
+bip_39_word_no_space_4: enableclothbroombracket
+bip_39_word_no_space_5: enableclothbroombracketmetal
+bip_39_word_no_space_6: enableclothbroombracketmetalmodify
+bip_39_word_no_space_7: enableclothbroombracketmetalmodifyhealth
+bip_39_word_no_space_8: enableclothbroombracketmetalmodifyhealthskin
+bip_39_word_no_space_9: enableclothbroombracketmetalmodifyhealthskinarrow
 bip_39_word_space_0:
 - enable
 - cloth

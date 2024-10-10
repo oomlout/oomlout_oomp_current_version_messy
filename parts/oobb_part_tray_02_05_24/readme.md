@@ -122,6 +122,18 @@ jelly
 brave
 inhale
 talent |  
+| bip_39_word_no_space_1 | gentle |  
+| bip_39_word_no_space_10 | gentleverifyengageglimpseagejellybraveinhaletalentindicate |  
+| bip_39_word_no_space_11 | gentleverifyengageglimpseagejellybraveinhaletalentindicateexecute |  
+| bip_39_word_no_space_12 | gentleverifyengageglimpseagejellybraveinhaletalentindicateexecuteaudit |  
+| bip_39_word_no_space_2 | gentleverify |  
+| bip_39_word_no_space_3 | gentleverifyengage |  
+| bip_39_word_no_space_4 | gentleverifyengageglimpse |  
+| bip_39_word_no_space_5 | gentleverifyengageglimpseage |  
+| bip_39_word_no_space_6 | gentleverifyengageglimpseagejelly |  
+| bip_39_word_no_space_7 | gentleverifyengageglimpseagejellybrave |  
+| bip_39_word_no_space_8 | gentleverifyengageglimpseagejellybraveinhale |  
+| bip_39_word_no_space_9 | gentleverifyengageglimpseagejellybraveinhaletalent |  
 | bip_39_word_space_0 | ['gentle', 'verify', 'engage', 'glimpse', 'age', 'jelly', 'brave', 'inhale', 'talent', 'indicate', 'execute', 'audit'] |  
 | bip_39_word_space_1 | gentle |  
 | bip_39_word_space_10 | gentle verify engage glimpse age jelly brave inhale talent indicate |  

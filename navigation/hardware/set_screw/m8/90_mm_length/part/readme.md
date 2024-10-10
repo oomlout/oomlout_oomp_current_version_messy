@@ -122,6 +122,18 @@ upset
 fame
 youth
 girl |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wirebeanactiondonateshortupsetfameyouthgirlfemale |  
+| bip_39_word_no_space_11 | wirebeanactiondonateshortupsetfameyouthgirlfemaleflame |  
+| bip_39_word_no_space_12 | wirebeanactiondonateshortupsetfameyouthgirlfemaleflameacid |  
+| bip_39_word_no_space_2 | wirebean |  
+| bip_39_word_no_space_3 | wirebeanaction |  
+| bip_39_word_no_space_4 | wirebeanactiondonate |  
+| bip_39_word_no_space_5 | wirebeanactiondonateshort |  
+| bip_39_word_no_space_6 | wirebeanactiondonateshortupset |  
+| bip_39_word_no_space_7 | wirebeanactiondonateshortupsetfame |  
+| bip_39_word_no_space_8 | wirebeanactiondonateshortupsetfameyouth |  
+| bip_39_word_no_space_9 | wirebeanactiondonateshortupsetfameyouthgirl |  
 | bip_39_word_space_0 | ['wire', 'bean', 'action', 'donate', 'short', 'upset', 'fame', 'youth', 'girl', 'female', 'flame', 'acid'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire bean action donate short upset fame youth girl female |  

@@ -122,6 +122,18 @@ expect
 apple
 write
 connect |  
+| bip_39_word_no_space_1 | illegal |  
+| bip_39_word_no_space_10 | illegaltrimdinnerreliefclownexpectapplewriteconnectpatient |  
+| bip_39_word_no_space_11 | illegaltrimdinnerreliefclownexpectapplewriteconnectpatientlab |  
+| bip_39_word_no_space_12 | illegaltrimdinnerreliefclownexpectapplewriteconnectpatientlabassist |  
+| bip_39_word_no_space_2 | illegaltrim |  
+| bip_39_word_no_space_3 | illegaltrimdinner |  
+| bip_39_word_no_space_4 | illegaltrimdinnerrelief |  
+| bip_39_word_no_space_5 | illegaltrimdinnerreliefclown |  
+| bip_39_word_no_space_6 | illegaltrimdinnerreliefclownexpect |  
+| bip_39_word_no_space_7 | illegaltrimdinnerreliefclownexpectapple |  
+| bip_39_word_no_space_8 | illegaltrimdinnerreliefclownexpectapplewrite |  
+| bip_39_word_no_space_9 | illegaltrimdinnerreliefclownexpectapplewriteconnect |  
 | bip_39_word_space_0 | ['illegal', 'trim', 'dinner', 'relief', 'clown', 'expect', 'apple', 'write', 'connect', 'patient', 'lab', 'assist'] |  
 | bip_39_word_space_1 | illegal |  
 | bip_39_word_space_10 | illegal trim dinner relief clown expect apple write connect patient |  

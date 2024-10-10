@@ -122,6 +122,18 @@ potato
 mechanic
 slogan
 remember |  
+| bip_39_word_no_space_1 | ensure |  
+| bip_39_word_no_space_10 | ensurelegendjeansclipslowpotatomechanicsloganrememberroom |  
+| bip_39_word_no_space_11 | ensurelegendjeansclipslowpotatomechanicsloganrememberroomsnap |  
+| bip_39_word_no_space_12 | ensurelegendjeansclipslowpotatomechanicsloganrememberroomsnapactor |  
+| bip_39_word_no_space_2 | ensurelegend |  
+| bip_39_word_no_space_3 | ensurelegendjeans |  
+| bip_39_word_no_space_4 | ensurelegendjeansclip |  
+| bip_39_word_no_space_5 | ensurelegendjeansclipslow |  
+| bip_39_word_no_space_6 | ensurelegendjeansclipslowpotato |  
+| bip_39_word_no_space_7 | ensurelegendjeansclipslowpotatomechanic |  
+| bip_39_word_no_space_8 | ensurelegendjeansclipslowpotatomechanicslogan |  
+| bip_39_word_no_space_9 | ensurelegendjeansclipslowpotatomechanicsloganremember |  
 | bip_39_word_space_0 | ['ensure', 'legend', 'jeans', 'clip', 'slow', 'potato', 'mechanic', 'slogan', 'remember', 'room', 'snap', 'actor'] |  
 | bip_39_word_space_1 | ensure |  
 | bip_39_word_space_10 | ensure legend jeans clip slow potato mechanic slogan remember room |  

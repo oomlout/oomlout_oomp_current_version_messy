@@ -122,6 +122,18 @@ citizen
 dream
 shoe
 camera |  
+| bip_39_word_no_space_1 | math |  
+| bip_39_word_no_space_10 | mathfatmaidlongfeaturecitizendreamshoecameraproject |  
+| bip_39_word_no_space_11 | mathfatmaidlongfeaturecitizendreamshoecameraprojectraccoon |  
+| bip_39_word_no_space_12 | mathfatmaidlongfeaturecitizendreamshoecameraprojectraccoonalpha |  
+| bip_39_word_no_space_2 | mathfat |  
+| bip_39_word_no_space_3 | mathfatmaid |  
+| bip_39_word_no_space_4 | mathfatmaidlong |  
+| bip_39_word_no_space_5 | mathfatmaidlongfeature |  
+| bip_39_word_no_space_6 | mathfatmaidlongfeaturecitizen |  
+| bip_39_word_no_space_7 | mathfatmaidlongfeaturecitizendream |  
+| bip_39_word_no_space_8 | mathfatmaidlongfeaturecitizendreamshoe |  
+| bip_39_word_no_space_9 | mathfatmaidlongfeaturecitizendreamshoecamera |  
 | bip_39_word_space_0 | ['math', 'fat', 'maid', 'long', 'feature', 'citizen', 'dream', 'shoe', 'camera', 'project', 'raccoon', 'alpha'] |  
 | bip_39_word_space_1 | math |  
 | bip_39_word_space_10 | math fat maid long feature citizen dream shoe camera project |  

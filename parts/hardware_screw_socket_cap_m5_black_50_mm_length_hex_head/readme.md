@@ -122,6 +122,18 @@ rapid
 nephew
 trend
 pottery |  
+| bip_39_word_no_space_1 | miss |  
+| bip_39_word_no_space_10 | misshawkhusbandbarelyiconrapidnephewtrendpotteryathlete |  
+| bip_39_word_no_space_11 | misshawkhusbandbarelyiconrapidnephewtrendpotteryathleteamount |  
+| bip_39_word_no_space_12 | misshawkhusbandbarelyiconrapidnephewtrendpotteryathleteamountarm |  
+| bip_39_word_no_space_2 | misshawk |  
+| bip_39_word_no_space_3 | misshawkhusband |  
+| bip_39_word_no_space_4 | misshawkhusbandbarely |  
+| bip_39_word_no_space_5 | misshawkhusbandbarelyicon |  
+| bip_39_word_no_space_6 | misshawkhusbandbarelyiconrapid |  
+| bip_39_word_no_space_7 | misshawkhusbandbarelyiconrapidnephew |  
+| bip_39_word_no_space_8 | misshawkhusbandbarelyiconrapidnephewtrend |  
+| bip_39_word_no_space_9 | misshawkhusbandbarelyiconrapidnephewtrendpottery |  
 | bip_39_word_space_0 | ['miss', 'hawk', 'husband', 'barely', 'icon', 'rapid', 'nephew', 'trend', 'pottery', 'athlete', 'amount', 'arm'] |  
 | bip_39_word_space_1 | miss |  
 | bip_39_word_space_10 | miss hawk husband barely icon rapid nephew trend pottery athlete |  

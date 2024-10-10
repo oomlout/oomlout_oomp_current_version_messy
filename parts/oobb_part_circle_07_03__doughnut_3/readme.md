@@ -122,6 +122,18 @@ coconut
 address
 essay
 minor |  
+| bip_39_word_no_space_1 | hint |  
+| bip_39_word_no_space_10 | hinttrimbelieveenrichorangecoconutaddressessayminorchimney |  
+| bip_39_word_no_space_11 | hinttrimbelieveenrichorangecoconutaddressessayminorchimneyblouse |  
+| bip_39_word_no_space_12 | hinttrimbelieveenrichorangecoconutaddressessayminorchimneyblousearrive |  
+| bip_39_word_no_space_2 | hinttrim |  
+| bip_39_word_no_space_3 | hinttrimbelieve |  
+| bip_39_word_no_space_4 | hinttrimbelieveenrich |  
+| bip_39_word_no_space_5 | hinttrimbelieveenrichorange |  
+| bip_39_word_no_space_6 | hinttrimbelieveenrichorangecoconut |  
+| bip_39_word_no_space_7 | hinttrimbelieveenrichorangecoconutaddress |  
+| bip_39_word_no_space_8 | hinttrimbelieveenrichorangecoconutaddressessay |  
+| bip_39_word_no_space_9 | hinttrimbelieveenrichorangecoconutaddressessayminor |  
 | bip_39_word_space_0 | ['hint', 'trim', 'believe', 'enrich', 'orange', 'coconut', 'address', 'essay', 'minor', 'chimney', 'blouse', 'arrive'] |  
 | bip_39_word_space_1 | hint |  
 | bip_39_word_space_10 | hint trim believe enrich orange coconut address essay minor chimney |  

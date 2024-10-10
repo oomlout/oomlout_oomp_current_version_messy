@@ -122,6 +122,18 @@ chair
 possible
 column
 eyebrow |  
+| bip_39_word_no_space_1 | coast |  
+| bip_39_word_no_space_10 | coastostrichbladehellotwicechairpossiblecolumneyebrowerode |  
+| bip_39_word_no_space_11 | coastostrichbladehellotwicechairpossiblecolumneyebrowerodeowner |  
+| bip_39_word_no_space_12 | coastostrichbladehellotwicechairpossiblecolumneyebrowerodeowneravocado |  
+| bip_39_word_no_space_2 | coastostrich |  
+| bip_39_word_no_space_3 | coastostrichblade |  
+| bip_39_word_no_space_4 | coastostrichbladehello |  
+| bip_39_word_no_space_5 | coastostrichbladehellotwice |  
+| bip_39_word_no_space_6 | coastostrichbladehellotwicechair |  
+| bip_39_word_no_space_7 | coastostrichbladehellotwicechairpossible |  
+| bip_39_word_no_space_8 | coastostrichbladehellotwicechairpossiblecolumn |  
+| bip_39_word_no_space_9 | coastostrichbladehellotwicechairpossiblecolumneyebrow |  
 | bip_39_word_space_0 | ['coast', 'ostrich', 'blade', 'hello', 'twice', 'chair', 'possible', 'column', 'eyebrow', 'erode', 'owner', 'avocado'] |  
 | bip_39_word_space_1 | coast |  
 | bip_39_word_space_10 | coast ostrich blade hello twice chair possible column eyebrow erode |  

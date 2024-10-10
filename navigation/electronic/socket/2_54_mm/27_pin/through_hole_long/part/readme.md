@@ -122,6 +122,18 @@ orbit
 hole
 reflect
 oppose |  
+| bip_39_word_no_space_1 | torch |  
+| bip_39_word_no_space_10 | torchallowbombexecutepopularorbitholereflectopposetissue |  
+| bip_39_word_no_space_11 | torchallowbombexecutepopularorbitholereflectopposetissueaerobic |  
+| bip_39_word_no_space_12 | torchallowbombexecutepopularorbitholereflectopposetissueaerobicarrow |  
+| bip_39_word_no_space_2 | torchallow |  
+| bip_39_word_no_space_3 | torchallowbomb |  
+| bip_39_word_no_space_4 | torchallowbombexecute |  
+| bip_39_word_no_space_5 | torchallowbombexecutepopular |  
+| bip_39_word_no_space_6 | torchallowbombexecutepopularorbit |  
+| bip_39_word_no_space_7 | torchallowbombexecutepopularorbithole |  
+| bip_39_word_no_space_8 | torchallowbombexecutepopularorbitholereflect |  
+| bip_39_word_no_space_9 | torchallowbombexecutepopularorbitholereflectoppose |  
 | bip_39_word_space_0 | ['torch', 'allow', 'bomb', 'execute', 'popular', 'orbit', 'hole', 'reflect', 'oppose', 'tissue', 'aerobic', 'arrow'] |  
 | bip_39_word_space_1 | torch |  
 | bip_39_word_space_10 | torch allow bomb execute popular orbit hole reflect oppose tissue |  

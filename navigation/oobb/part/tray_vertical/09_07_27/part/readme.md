@@ -122,6 +122,18 @@ crowd
 apart
 ship
 speak |  
+| bip_39_word_no_space_1 | child |  
+| bip_39_word_no_space_10 | childdawntrophytablechaptercrowdapartshipspeakattract |  
+| bip_39_word_no_space_11 | childdawntrophytablechaptercrowdapartshipspeakattracttalk |  
+| bip_39_word_no_space_12 | childdawntrophytablechaptercrowdapartshipspeakattracttalkaccuse |  
+| bip_39_word_no_space_2 | childdawn |  
+| bip_39_word_no_space_3 | childdawntrophy |  
+| bip_39_word_no_space_4 | childdawntrophytable |  
+| bip_39_word_no_space_5 | childdawntrophytablechapter |  
+| bip_39_word_no_space_6 | childdawntrophytablechaptercrowd |  
+| bip_39_word_no_space_7 | childdawntrophytablechaptercrowdapart |  
+| bip_39_word_no_space_8 | childdawntrophytablechaptercrowdapartship |  
+| bip_39_word_no_space_9 | childdawntrophytablechaptercrowdapartshipspeak |  
 | bip_39_word_space_0 | ['child', 'dawn', 'trophy', 'table', 'chapter', 'crowd', 'apart', 'ship', 'speak', 'attract', 'talk', 'accuse'] |  
 | bip_39_word_space_1 | child |  
 | bip_39_word_space_10 | child dawn trophy table chapter crowd apart ship speak attract |  

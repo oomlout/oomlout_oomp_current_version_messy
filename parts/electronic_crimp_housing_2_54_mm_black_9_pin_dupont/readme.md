@@ -122,6 +122,18 @@ often
 distance
 record
 unaware |  
+| bip_39_word_no_space_1 | ticket |  
+| bip_39_word_no_space_10 | ticketeruptpeoplesummerfamousoftendistancerecordunawarestable |  
+| bip_39_word_no_space_11 | ticketeruptpeoplesummerfamousoftendistancerecordunawarestablewhip |  
+| bip_39_word_no_space_12 | ticketeruptpeoplesummerfamousoftendistancerecordunawarestablewhipanother |  
+| bip_39_word_no_space_2 | ticketerupt |  
+| bip_39_word_no_space_3 | ticketeruptpeople |  
+| bip_39_word_no_space_4 | ticketeruptpeoplesummer |  
+| bip_39_word_no_space_5 | ticketeruptpeoplesummerfamous |  
+| bip_39_word_no_space_6 | ticketeruptpeoplesummerfamousoften |  
+| bip_39_word_no_space_7 | ticketeruptpeoplesummerfamousoftendistance |  
+| bip_39_word_no_space_8 | ticketeruptpeoplesummerfamousoftendistancerecord |  
+| bip_39_word_no_space_9 | ticketeruptpeoplesummerfamousoftendistancerecordunaware |  
 | bip_39_word_space_0 | ['ticket', 'erupt', 'people', 'summer', 'famous', 'often', 'distance', 'record', 'unaware', 'stable', 'whip', 'another'] |  
 | bip_39_word_space_1 | ticket |  
 | bip_39_word_space_10 | ticket erupt people summer famous often distance record unaware stable |  

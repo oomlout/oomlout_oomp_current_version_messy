@@ -122,6 +122,18 @@ major
 actor
 cancel
 token |  
+| bip_39_word_no_space_1 | scout |  
+| bip_39_word_no_space_10 | scoutsqueezedampverifybadgemajoractorcanceltokenvenue |  
+| bip_39_word_no_space_11 | scoutsqueezedampverifybadgemajoractorcanceltokenvenueconnect |  
+| bip_39_word_no_space_12 | scoutsqueezedampverifybadgemajoractorcanceltokenvenueconnectaccess |  
+| bip_39_word_no_space_2 | scoutsqueeze |  
+| bip_39_word_no_space_3 | scoutsqueezedamp |  
+| bip_39_word_no_space_4 | scoutsqueezedampverify |  
+| bip_39_word_no_space_5 | scoutsqueezedampverifybadge |  
+| bip_39_word_no_space_6 | scoutsqueezedampverifybadgemajor |  
+| bip_39_word_no_space_7 | scoutsqueezedampverifybadgemajoractor |  
+| bip_39_word_no_space_8 | scoutsqueezedampverifybadgemajoractorcancel |  
+| bip_39_word_no_space_9 | scoutsqueezedampverifybadgemajoractorcanceltoken |  
 | bip_39_word_space_0 | ['scout', 'squeeze', 'damp', 'verify', 'badge', 'major', 'actor', 'cancel', 'token', 'venue', 'connect', 'access'] |  
 | bip_39_word_space_1 | scout |  
 | bip_39_word_space_10 | scout squeeze damp verify badge major actor cancel token venue |  

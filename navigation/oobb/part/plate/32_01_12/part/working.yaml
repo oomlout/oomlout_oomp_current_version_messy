@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pony
   file
 
   torch'
+bip_39_word_no_space_1: pony
+bip_39_word_no_space_10: ponyexampleicespendsteelsubwaynoticefiletorchplug
+bip_39_word_no_space_11: ponyexampleicespendsteelsubwaynoticefiletorchplugcard
+bip_39_word_no_space_12: ponyexampleicespendsteelsubwaynoticefiletorchplugcardask
+bip_39_word_no_space_2: ponyexample
+bip_39_word_no_space_3: ponyexampleice
+bip_39_word_no_space_4: ponyexampleicespend
+bip_39_word_no_space_5: ponyexampleicespendsteel
+bip_39_word_no_space_6: ponyexampleicespendsteelsubway
+bip_39_word_no_space_7: ponyexampleicespendsteelsubwaynotice
+bip_39_word_no_space_8: ponyexampleicespendsteelsubwaynoticefile
+bip_39_word_no_space_9: ponyexampleicespendsteelsubwaynoticefiletorch
 bip_39_word_space_0:
 - pony
 - example

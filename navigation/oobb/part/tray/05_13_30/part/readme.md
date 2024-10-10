@@ -122,6 +122,18 @@ wire
 cat
 credit
 ripple |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comeyardsourcewinwreckwirecatcreditripplemodel |  
+| bip_39_word_no_space_11 | comeyardsourcewinwreckwirecatcreditripplemodelturn |  
+| bip_39_word_no_space_12 | comeyardsourcewinwreckwirecatcreditripplemodelturnagain |  
+| bip_39_word_no_space_2 | comeyard |  
+| bip_39_word_no_space_3 | comeyardsource |  
+| bip_39_word_no_space_4 | comeyardsourcewin |  
+| bip_39_word_no_space_5 | comeyardsourcewinwreck |  
+| bip_39_word_no_space_6 | comeyardsourcewinwreckwire |  
+| bip_39_word_no_space_7 | comeyardsourcewinwreckwirecat |  
+| bip_39_word_no_space_8 | comeyardsourcewinwreckwirecatcredit |  
+| bip_39_word_no_space_9 | comeyardsourcewinwreckwirecatcreditripple |  
 | bip_39_word_space_0 | ['come', 'yard', 'source', 'win', 'wreck', 'wire', 'cat', 'credit', 'ripple', 'model', 'turn', 'again'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come yard source win wreck wire cat credit ripple model |  

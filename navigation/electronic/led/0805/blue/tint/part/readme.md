@@ -122,6 +122,18 @@ history
 guess
 since
 glory |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familyjealousseatexhaustgeneralhistoryguesssincegloryminor |  
+| bip_39_word_no_space_11 | familyjealousseatexhaustgeneralhistoryguesssincegloryminorarrange |  
+| bip_39_word_no_space_12 | familyjealousseatexhaustgeneralhistoryguesssincegloryminorarrangeage |  
+| bip_39_word_no_space_2 | familyjealous |  
+| bip_39_word_no_space_3 | familyjealousseat |  
+| bip_39_word_no_space_4 | familyjealousseatexhaust |  
+| bip_39_word_no_space_5 | familyjealousseatexhaustgeneral |  
+| bip_39_word_no_space_6 | familyjealousseatexhaustgeneralhistory |  
+| bip_39_word_no_space_7 | familyjealousseatexhaustgeneralhistoryguess |  
+| bip_39_word_no_space_8 | familyjealousseatexhaustgeneralhistoryguesssince |  
+| bip_39_word_no_space_9 | familyjealousseatexhaustgeneralhistoryguesssinceglory |  
 | bip_39_word_space_0 | ['family', 'jealous', 'seat', 'exhaust', 'general', 'history', 'guess', 'since', 'glory', 'minor', 'arrange', 'age'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family jealous seat exhaust general history guess since glory minor |  

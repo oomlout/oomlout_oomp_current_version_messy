@@ -122,6 +122,18 @@ hold
 basic
 jeans
 muffin |  
+| bip_39_word_no_space_1 | elevator |  
+| bip_39_word_no_space_10 | elevatordinnerfandayelderholdbasicjeansmuffinbean |  
+| bip_39_word_no_space_11 | elevatordinnerfandayelderholdbasicjeansmuffinbeananimal |  
+| bip_39_word_no_space_12 | elevatordinnerfandayelderholdbasicjeansmuffinbeananimalamateur |  
+| bip_39_word_no_space_2 | elevatordinner |  
+| bip_39_word_no_space_3 | elevatordinnerfan |  
+| bip_39_word_no_space_4 | elevatordinnerfanday |  
+| bip_39_word_no_space_5 | elevatordinnerfandayelder |  
+| bip_39_word_no_space_6 | elevatordinnerfandayelderhold |  
+| bip_39_word_no_space_7 | elevatordinnerfandayelderholdbasic |  
+| bip_39_word_no_space_8 | elevatordinnerfandayelderholdbasicjeans |  
+| bip_39_word_no_space_9 | elevatordinnerfandayelderholdbasicjeansmuffin |  
 | bip_39_word_space_0 | ['elevator', 'dinner', 'fan', 'day', 'elder', 'hold', 'basic', 'jeans', 'muffin', 'bean', 'animal', 'amateur'] |  
 | bip_39_word_space_1 | elevator |  
 | bip_39_word_space_10 | elevator dinner fan day elder hold basic jeans muffin bean |  

@@ -122,6 +122,18 @@ lab
 volume
 wool
 color |  
+| bip_39_word_no_space_1 | crush |  
+| bip_39_word_no_space_10 | crushoutputmistaketeamforwardlabvolumewoolcolorbring |  
+| bip_39_word_no_space_11 | crushoutputmistaketeamforwardlabvolumewoolcolorbringpresent |  
+| bip_39_word_no_space_12 | crushoutputmistaketeamforwardlabvolumewoolcolorbringpresentallow |  
+| bip_39_word_no_space_2 | crushoutput |  
+| bip_39_word_no_space_3 | crushoutputmistake |  
+| bip_39_word_no_space_4 | crushoutputmistaketeam |  
+| bip_39_word_no_space_5 | crushoutputmistaketeamforward |  
+| bip_39_word_no_space_6 | crushoutputmistaketeamforwardlab |  
+| bip_39_word_no_space_7 | crushoutputmistaketeamforwardlabvolume |  
+| bip_39_word_no_space_8 | crushoutputmistaketeamforwardlabvolumewool |  
+| bip_39_word_no_space_9 | crushoutputmistaketeamforwardlabvolumewoolcolor |  
 | bip_39_word_space_0 | ['crush', 'output', 'mistake', 'team', 'forward', 'lab', 'volume', 'wool', 'color', 'bring', 'present', 'allow'] |  
 | bip_39_word_space_1 | crush |  
 | bip_39_word_space_10 | crush output mistake team forward lab volume wool color bring |  

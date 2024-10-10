@@ -122,6 +122,18 @@ give
 property
 festival
 inside |  
+| bip_39_word_no_space_1 | invest |  
+| bip_39_word_no_space_10 | investwelcomeskilltrashbunkergivepropertyfestivalinsidedefy |  
+| bip_39_word_no_space_11 | investwelcomeskilltrashbunkergivepropertyfestivalinsidedefyopen |  
+| bip_39_word_no_space_12 | investwelcomeskilltrashbunkergivepropertyfestivalinsidedefyopenasthma |  
+| bip_39_word_no_space_2 | investwelcome |  
+| bip_39_word_no_space_3 | investwelcomeskill |  
+| bip_39_word_no_space_4 | investwelcomeskilltrash |  
+| bip_39_word_no_space_5 | investwelcomeskilltrashbunker |  
+| bip_39_word_no_space_6 | investwelcomeskilltrashbunkergive |  
+| bip_39_word_no_space_7 | investwelcomeskilltrashbunkergiveproperty |  
+| bip_39_word_no_space_8 | investwelcomeskilltrashbunkergivepropertyfestival |  
+| bip_39_word_no_space_9 | investwelcomeskilltrashbunkergivepropertyfestivalinside |  
 | bip_39_word_space_0 | ['invest', 'welcome', 'skill', 'trash', 'bunker', 'give', 'property', 'festival', 'inside', 'defy', 'open', 'asthma'] |  
 | bip_39_word_space_1 | invest |  
 | bip_39_word_space_10 | invest welcome skill trash bunker give property festival inside defy |  

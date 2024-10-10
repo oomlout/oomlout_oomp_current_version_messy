@@ -122,6 +122,18 @@ accident
 exotic
 attitude
 trash |  
+| bip_39_word_no_space_1 | forum |  
+| bip_39_word_no_space_10 | forumdignitywashfeelfootaccidentexoticattitudetrashvalid |  
+| bip_39_word_no_space_11 | forumdignitywashfeelfootaccidentexoticattitudetrashvalidname |  
+| bip_39_word_no_space_12 | forumdignitywashfeelfootaccidentexoticattitudetrashvalidnameaccess |  
+| bip_39_word_no_space_2 | forumdignity |  
+| bip_39_word_no_space_3 | forumdignitywash |  
+| bip_39_word_no_space_4 | forumdignitywashfeel |  
+| bip_39_word_no_space_5 | forumdignitywashfeelfoot |  
+| bip_39_word_no_space_6 | forumdignitywashfeelfootaccident |  
+| bip_39_word_no_space_7 | forumdignitywashfeelfootaccidentexotic |  
+| bip_39_word_no_space_8 | forumdignitywashfeelfootaccidentexoticattitude |  
+| bip_39_word_no_space_9 | forumdignitywashfeelfootaccidentexoticattitudetrash |  
 | bip_39_word_space_0 | ['forum', 'dignity', 'wash', 'feel', 'foot', 'accident', 'exotic', 'attitude', 'trash', 'valid', 'name', 'access'] |  
 | bip_39_word_space_1 | forum |  
 | bip_39_word_space_10 | forum dignity wash feel foot accident exotic attitude trash valid |  

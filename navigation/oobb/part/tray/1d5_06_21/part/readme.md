@@ -122,6 +122,18 @@ leisure
 noble
 split
 close |  
+| bip_39_word_no_space_1 | click |  
+| bip_39_word_no_space_10 | clickonlyglimpsedelaywoodleisurenoblesplitclosestaff |  
+| bip_39_word_no_space_11 | clickonlyglimpsedelaywoodleisurenoblesplitclosestaffglory |  
+| bip_39_word_no_space_12 | clickonlyglimpsedelaywoodleisurenoblesplitclosestaffgloryaudit |  
+| bip_39_word_no_space_2 | clickonly |  
+| bip_39_word_no_space_3 | clickonlyglimpse |  
+| bip_39_word_no_space_4 | clickonlyglimpsedelay |  
+| bip_39_word_no_space_5 | clickonlyglimpsedelaywood |  
+| bip_39_word_no_space_6 | clickonlyglimpsedelaywoodleisure |  
+| bip_39_word_no_space_7 | clickonlyglimpsedelaywoodleisurenoble |  
+| bip_39_word_no_space_8 | clickonlyglimpsedelaywoodleisurenoblesplit |  
+| bip_39_word_no_space_9 | clickonlyglimpsedelaywoodleisurenoblesplitclose |  
 | bip_39_word_space_0 | ['click', 'only', 'glimpse', 'delay', 'wood', 'leisure', 'noble', 'split', 'close', 'staff', 'glory', 'audit'] |  
 | bip_39_word_space_1 | click |  
 | bip_39_word_space_10 | click only glimpse delay wood leisure noble split close staff |  

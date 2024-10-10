@@ -122,6 +122,18 @@ glad
 hurt
 squeeze
 today |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetaccidentuntildiagramwillgladhurtsqueezetodayawake |  
+| bip_39_word_no_space_11 | wetaccidentuntildiagramwillgladhurtsqueezetodayawakeventure |  
+| bip_39_word_no_space_12 | wetaccidentuntildiagramwillgladhurtsqueezetodayawakeventureaverage |  
+| bip_39_word_no_space_2 | wetaccident |  
+| bip_39_word_no_space_3 | wetaccidentuntil |  
+| bip_39_word_no_space_4 | wetaccidentuntildiagram |  
+| bip_39_word_no_space_5 | wetaccidentuntildiagramwill |  
+| bip_39_word_no_space_6 | wetaccidentuntildiagramwillglad |  
+| bip_39_word_no_space_7 | wetaccidentuntildiagramwillgladhurt |  
+| bip_39_word_no_space_8 | wetaccidentuntildiagramwillgladhurtsqueeze |  
+| bip_39_word_no_space_9 | wetaccidentuntildiagramwillgladhurtsqueezetoday |  
 | bip_39_word_space_0 | ['wet', 'accident', 'until', 'diagram', 'will', 'glad', 'hurt', 'squeeze', 'today', 'awake', 'venture', 'average'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet accident until diagram will glad hurt squeeze today awake |  

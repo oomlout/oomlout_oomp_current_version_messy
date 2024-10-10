@@ -122,6 +122,18 @@ consider
 under
 hold
 fork |  
+| bip_39_word_no_space_1 | pond |  
+| bip_39_word_no_space_10 | pondreformproofeagerscatterconsiderunderholdforkmodel |  
+| bip_39_word_no_space_11 | pondreformproofeagerscatterconsiderunderholdforkmodelreopen |  
+| bip_39_word_no_space_12 | pondreformproofeagerscatterconsiderunderholdforkmodelreopenargue |  
+| bip_39_word_no_space_2 | pondreform |  
+| bip_39_word_no_space_3 | pondreformproof |  
+| bip_39_word_no_space_4 | pondreformproofeager |  
+| bip_39_word_no_space_5 | pondreformproofeagerscatter |  
+| bip_39_word_no_space_6 | pondreformproofeagerscatterconsider |  
+| bip_39_word_no_space_7 | pondreformproofeagerscatterconsiderunder |  
+| bip_39_word_no_space_8 | pondreformproofeagerscatterconsiderunderhold |  
+| bip_39_word_no_space_9 | pondreformproofeagerscatterconsiderunderholdfork |  
 | bip_39_word_space_0 | ['pond', 'reform', 'proof', 'eager', 'scatter', 'consider', 'under', 'hold', 'fork', 'model', 'reopen', 'argue'] |  
 | bip_39_word_space_1 | pond |  
 | bip_39_word_space_10 | pond reform proof eager scatter consider under hold fork model |  

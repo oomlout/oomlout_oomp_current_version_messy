@@ -122,6 +122,18 @@ feed
 gasp
 enemy
 butter |  
+| bip_39_word_no_space_1 | trip |  
+| bip_39_word_no_space_10 | tripairframesetuppumpkinfeedgaspenemybutterthree |  
+| bip_39_word_no_space_11 | tripairframesetuppumpkinfeedgaspenemybutterthreeproud |  
+| bip_39_word_no_space_12 | tripairframesetuppumpkinfeedgaspenemybutterthreeproudaccess |  
+| bip_39_word_no_space_2 | tripair |  
+| bip_39_word_no_space_3 | tripairframe |  
+| bip_39_word_no_space_4 | tripairframesetup |  
+| bip_39_word_no_space_5 | tripairframesetuppumpkin |  
+| bip_39_word_no_space_6 | tripairframesetuppumpkinfeed |  
+| bip_39_word_no_space_7 | tripairframesetuppumpkinfeedgasp |  
+| bip_39_word_no_space_8 | tripairframesetuppumpkinfeedgaspenemy |  
+| bip_39_word_no_space_9 | tripairframesetuppumpkinfeedgaspenemybutter |  
 | bip_39_word_space_0 | ['trip', 'air', 'frame', 'setup', 'pumpkin', 'feed', 'gasp', 'enemy', 'butter', 'three', 'proud', 'access'] |  
 | bip_39_word_space_1 | trip |  
 | bip_39_word_space_10 | trip air frame setup pumpkin feed gasp enemy butter three |  

@@ -122,6 +122,18 @@ genre
 armed
 spoon
 mention |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscuresweetcodeagentlibertygenrearmedspoonmentionscatter |  
+| bip_39_word_no_space_11 | obscuresweetcodeagentlibertygenrearmedspoonmentionscatterdish |  
+| bip_39_word_no_space_12 | obscuresweetcodeagentlibertygenrearmedspoonmentionscatterdishalarm |  
+| bip_39_word_no_space_2 | obscuresweet |  
+| bip_39_word_no_space_3 | obscuresweetcode |  
+| bip_39_word_no_space_4 | obscuresweetcodeagent |  
+| bip_39_word_no_space_5 | obscuresweetcodeagentliberty |  
+| bip_39_word_no_space_6 | obscuresweetcodeagentlibertygenre |  
+| bip_39_word_no_space_7 | obscuresweetcodeagentlibertygenrearmed |  
+| bip_39_word_no_space_8 | obscuresweetcodeagentlibertygenrearmedspoon |  
+| bip_39_word_no_space_9 | obscuresweetcodeagentlibertygenrearmedspoonmention |  
 | bip_39_word_space_0 | ['obscure', 'sweet', 'code', 'agent', 'liberty', 'genre', 'armed', 'spoon', 'mention', 'scatter', 'dish', 'alarm'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure sweet code agent liberty genre armed spoon mention scatter |  

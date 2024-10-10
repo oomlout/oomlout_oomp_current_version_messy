@@ -122,6 +122,18 @@ cigar
 whip
 midnight
 candy |  
+| bip_39_word_no_space_1 | element |  
+| bip_39_word_no_space_10 | elementgrapeholddecemberfilecigarwhipmidnightcandyinform |  
+| bip_39_word_no_space_11 | elementgrapeholddecemberfilecigarwhipmidnightcandyinformpencil |  
+| bip_39_word_no_space_12 | elementgrapeholddecemberfilecigarwhipmidnightcandyinformpencilage |  
+| bip_39_word_no_space_2 | elementgrape |  
+| bip_39_word_no_space_3 | elementgrapehold |  
+| bip_39_word_no_space_4 | elementgrapeholddecember |  
+| bip_39_word_no_space_5 | elementgrapeholddecemberfile |  
+| bip_39_word_no_space_6 | elementgrapeholddecemberfilecigar |  
+| bip_39_word_no_space_7 | elementgrapeholddecemberfilecigarwhip |  
+| bip_39_word_no_space_8 | elementgrapeholddecemberfilecigarwhipmidnight |  
+| bip_39_word_no_space_9 | elementgrapeholddecemberfilecigarwhipmidnightcandy |  
 | bip_39_word_space_0 | ['element', 'grape', 'hold', 'december', 'file', 'cigar', 'whip', 'midnight', 'candy', 'inform', 'pencil', 'age'] |  
 | bip_39_word_space_1 | element |  
 | bip_39_word_space_10 | element grape hold december file cigar whip midnight candy inform |  

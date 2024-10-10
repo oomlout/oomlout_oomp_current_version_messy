@@ -122,6 +122,18 @@ clown
 december
 gasp
 advice |  
+| bip_39_word_no_space_1 | among |  
+| bip_39_word_no_space_10 | amongwelcometextwrapmenuclowndecembergaspadvicebamboo |  
+| bip_39_word_no_space_11 | amongwelcometextwrapmenuclowndecembergaspadvicebamboostove |  
+| bip_39_word_no_space_12 | amongwelcometextwrapmenuclowndecembergaspadvicebamboostoveassist |  
+| bip_39_word_no_space_2 | amongwelcome |  
+| bip_39_word_no_space_3 | amongwelcometext |  
+| bip_39_word_no_space_4 | amongwelcometextwrap |  
+| bip_39_word_no_space_5 | amongwelcometextwrapmenu |  
+| bip_39_word_no_space_6 | amongwelcometextwrapmenuclown |  
+| bip_39_word_no_space_7 | amongwelcometextwrapmenuclowndecember |  
+| bip_39_word_no_space_8 | amongwelcometextwrapmenuclowndecembergasp |  
+| bip_39_word_no_space_9 | amongwelcometextwrapmenuclowndecembergaspadvice |  
 | bip_39_word_space_0 | ['among', 'welcome', 'text', 'wrap', 'menu', 'clown', 'december', 'gasp', 'advice', 'bamboo', 'stove', 'assist'] |  
 | bip_39_word_space_1 | among |  
 | bip_39_word_space_10 | among welcome text wrap menu clown december gasp advice bamboo |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'teach
   drum
 
   sign'
+bip_39_word_no_space_1: teach
+bip_39_word_no_space_10: teachcrycollecteightgapartistfinaldrumsignsketch
+bip_39_word_no_space_11: teachcrycollecteightgapartistfinaldrumsignsketchchuckle
+bip_39_word_no_space_12: teachcrycollecteightgapartistfinaldrumsignsketchchuckleadvice
+bip_39_word_no_space_2: teachcry
+bip_39_word_no_space_3: teachcrycollect
+bip_39_word_no_space_4: teachcrycollecteight
+bip_39_word_no_space_5: teachcrycollecteightgap
+bip_39_word_no_space_6: teachcrycollecteightgapartist
+bip_39_word_no_space_7: teachcrycollecteightgapartistfinal
+bip_39_word_no_space_8: teachcrycollecteightgapartistfinaldrum
+bip_39_word_no_space_9: teachcrycollecteightgapartistfinaldrumsign
 bip_39_word_space_0:
 - teach
 - cry

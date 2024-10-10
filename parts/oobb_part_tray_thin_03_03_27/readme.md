@@ -122,6 +122,18 @@ black
 tornado
 fork
 happy |  
+| bip_39_word_no_space_1 | enroll |  
+| bip_39_word_no_space_10 | enrolloffadvicesnowobeyblacktornadoforkhappyacquire |  
+| bip_39_word_no_space_11 | enrolloffadvicesnowobeyblacktornadoforkhappyacquirebrick |  
+| bip_39_word_no_space_12 | enrolloffadvicesnowobeyblacktornadoforkhappyacquirebrickankle |  
+| bip_39_word_no_space_2 | enrolloff |  
+| bip_39_word_no_space_3 | enrolloffadvice |  
+| bip_39_word_no_space_4 | enrolloffadvicesnow |  
+| bip_39_word_no_space_5 | enrolloffadvicesnowobey |  
+| bip_39_word_no_space_6 | enrolloffadvicesnowobeyblack |  
+| bip_39_word_no_space_7 | enrolloffadvicesnowobeyblacktornado |  
+| bip_39_word_no_space_8 | enrolloffadvicesnowobeyblacktornadofork |  
+| bip_39_word_no_space_9 | enrolloffadvicesnowobeyblacktornadoforkhappy |  
 | bip_39_word_space_0 | ['enroll', 'off', 'advice', 'snow', 'obey', 'black', 'tornado', 'fork', 'happy', 'acquire', 'brick', 'ankle'] |  
 | bip_39_word_space_1 | enroll |  
 | bip_39_word_space_10 | enroll off advice snow obey black tornado fork happy acquire |  

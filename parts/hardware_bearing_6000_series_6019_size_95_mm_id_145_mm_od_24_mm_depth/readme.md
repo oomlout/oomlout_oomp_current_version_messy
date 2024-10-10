@@ -122,6 +122,18 @@ foam
 cover
 maximum
 tree |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approvetokendespaircinnamonbelievefoamcovermaximumtreearrive |  
+| bip_39_word_no_space_11 | approvetokendespaircinnamonbelievefoamcovermaximumtreearrivebullet |  
+| bip_39_word_no_space_12 | approvetokendespaircinnamonbelievefoamcovermaximumtreearrivebulletargue |  
+| bip_39_word_no_space_2 | approvetoken |  
+| bip_39_word_no_space_3 | approvetokendespair |  
+| bip_39_word_no_space_4 | approvetokendespaircinnamon |  
+| bip_39_word_no_space_5 | approvetokendespaircinnamonbelieve |  
+| bip_39_word_no_space_6 | approvetokendespaircinnamonbelievefoam |  
+| bip_39_word_no_space_7 | approvetokendespaircinnamonbelievefoamcover |  
+| bip_39_word_no_space_8 | approvetokendespaircinnamonbelievefoamcovermaximum |  
+| bip_39_word_no_space_9 | approvetokendespaircinnamonbelievefoamcovermaximumtree |  
 | bip_39_word_space_0 | ['approve', 'token', 'despair', 'cinnamon', 'believe', 'foam', 'cover', 'maximum', 'tree', 'arrive', 'bullet', 'argue'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve token despair cinnamon believe foam cover maximum tree arrive |  

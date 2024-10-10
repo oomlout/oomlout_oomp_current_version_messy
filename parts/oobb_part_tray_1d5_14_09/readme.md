@@ -122,6 +122,18 @@ better
 mirror
 suit
 display |  
+| bip_39_word_no_space_1 | park |  
+| bip_39_word_no_space_10 | parkabovesundivorcedenialbettermirrorsuitdisplayyear |  
+| bip_39_word_no_space_11 | parkabovesundivorcedenialbettermirrorsuitdisplayyearchef |  
+| bip_39_word_no_space_12 | parkabovesundivorcedenialbettermirrorsuitdisplayyearchefaccident |  
+| bip_39_word_no_space_2 | parkabove |  
+| bip_39_word_no_space_3 | parkabovesun |  
+| bip_39_word_no_space_4 | parkabovesundivorce |  
+| bip_39_word_no_space_5 | parkabovesundivorcedenial |  
+| bip_39_word_no_space_6 | parkabovesundivorcedenialbetter |  
+| bip_39_word_no_space_7 | parkabovesundivorcedenialbettermirror |  
+| bip_39_word_no_space_8 | parkabovesundivorcedenialbettermirrorsuit |  
+| bip_39_word_no_space_9 | parkabovesundivorcedenialbettermirrorsuitdisplay |  
 | bip_39_word_space_0 | ['park', 'above', 'sun', 'divorce', 'denial', 'better', 'mirror', 'suit', 'display', 'year', 'chef', 'accident'] |  
 | bip_39_word_space_1 | park |  
 | bip_39_word_space_10 | park above sun divorce denial better mirror suit display year |  

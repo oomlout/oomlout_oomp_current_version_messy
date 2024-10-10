@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'echo
   high
 
   coil'
+bip_39_word_no_space_1: echo
+bip_39_word_no_space_10: echodebristextwindowfetchpurposetattoohighcoilarmy
+bip_39_word_no_space_11: echodebristextwindowfetchpurposetattoohighcoilarmysister
+bip_39_word_no_space_12: echodebristextwindowfetchpurposetattoohighcoilarmysisterarrow
+bip_39_word_no_space_2: echodebris
+bip_39_word_no_space_3: echodebristext
+bip_39_word_no_space_4: echodebristextwindow
+bip_39_word_no_space_5: echodebristextwindowfetch
+bip_39_word_no_space_6: echodebristextwindowfetchpurpose
+bip_39_word_no_space_7: echodebristextwindowfetchpurposetattoo
+bip_39_word_no_space_8: echodebristextwindowfetchpurposetattoohigh
+bip_39_word_no_space_9: echodebristextwindowfetchpurposetattoohighcoil
 bip_39_word_space_0:
 - echo
 - debris

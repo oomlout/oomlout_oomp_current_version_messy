@@ -122,6 +122,18 @@ order
 amateur
 lens
 actor |  
+| bip_39_word_no_space_1 | hybrid |  
+| bip_39_word_no_space_10 | hybridsqueezefoldtwintiredorderamateurlensactordentist |  
+| bip_39_word_no_space_11 | hybridsqueezefoldtwintiredorderamateurlensactordentistdiffer |  
+| bip_39_word_no_space_12 | hybridsqueezefoldtwintiredorderamateurlensactordentistdifferacross |  
+| bip_39_word_no_space_2 | hybridsqueeze |  
+| bip_39_word_no_space_3 | hybridsqueezefold |  
+| bip_39_word_no_space_4 | hybridsqueezefoldtwin |  
+| bip_39_word_no_space_5 | hybridsqueezefoldtwintired |  
+| bip_39_word_no_space_6 | hybridsqueezefoldtwintiredorder |  
+| bip_39_word_no_space_7 | hybridsqueezefoldtwintiredorderamateur |  
+| bip_39_word_no_space_8 | hybridsqueezefoldtwintiredorderamateurlens |  
+| bip_39_word_no_space_9 | hybridsqueezefoldtwintiredorderamateurlensactor |  
 | bip_39_word_space_0 | ['hybrid', 'squeeze', 'fold', 'twin', 'tired', 'order', 'amateur', 'lens', 'actor', 'dentist', 'differ', 'across'] |  
 | bip_39_word_space_1 | hybrid |  
 | bip_39_word_space_10 | hybrid squeeze fold twin tired order amateur lens actor dentist |  

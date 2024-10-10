@@ -122,6 +122,18 @@ toss
 word
 increase
 economy |  
+| bip_39_word_no_space_1 | diary |  
+| bip_39_word_no_space_10 | diaryslabmistakenarrowflavortosswordincreaseeconomycricket |  
+| bip_39_word_no_space_11 | diaryslabmistakenarrowflavortosswordincreaseeconomycricketvisual |  
+| bip_39_word_no_space_12 | diaryslabmistakenarrowflavortosswordincreaseeconomycricketvisualasset |  
+| bip_39_word_no_space_2 | diaryslab |  
+| bip_39_word_no_space_3 | diaryslabmistake |  
+| bip_39_word_no_space_4 | diaryslabmistakenarrow |  
+| bip_39_word_no_space_5 | diaryslabmistakenarrowflavor |  
+| bip_39_word_no_space_6 | diaryslabmistakenarrowflavortoss |  
+| bip_39_word_no_space_7 | diaryslabmistakenarrowflavortossword |  
+| bip_39_word_no_space_8 | diaryslabmistakenarrowflavortosswordincrease |  
+| bip_39_word_no_space_9 | diaryslabmistakenarrowflavortosswordincreaseeconomy |  
 | bip_39_word_space_0 | ['diary', 'slab', 'mistake', 'narrow', 'flavor', 'toss', 'word', 'increase', 'economy', 'cricket', 'visual', 'asset'] |  
 | bip_39_word_space_1 | diary |  
 | bip_39_word_space_10 | diary slab mistake narrow flavor toss word increase economy cricket |  

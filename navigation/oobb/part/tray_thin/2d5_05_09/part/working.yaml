@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'potato
   dog
 
   clock'
+bip_39_word_no_space_1: potato
+bip_39_word_no_space_10: potatojumpexerciseadultjoyabandoncrystaldogclockdistance
+bip_39_word_no_space_11: potatojumpexerciseadultjoyabandoncrystaldogclockdistanceelbow
+bip_39_word_no_space_12: potatojumpexerciseadultjoyabandoncrystaldogclockdistanceelbowamused
+bip_39_word_no_space_2: potatojump
+bip_39_word_no_space_3: potatojumpexercise
+bip_39_word_no_space_4: potatojumpexerciseadult
+bip_39_word_no_space_5: potatojumpexerciseadultjoy
+bip_39_word_no_space_6: potatojumpexerciseadultjoyabandon
+bip_39_word_no_space_7: potatojumpexerciseadultjoyabandoncrystal
+bip_39_word_no_space_8: potatojumpexerciseadultjoyabandoncrystaldog
+bip_39_word_no_space_9: potatojumpexerciseadultjoyabandoncrystaldogclock
 bip_39_word_space_0:
 - potato
 - jump

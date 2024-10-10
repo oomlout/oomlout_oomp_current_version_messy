@@ -122,6 +122,18 @@ fitness
 version
 liar
 sort |  
+| bip_39_word_no_space_1 | embrace |  
+| bip_39_word_no_space_10 | embracealiengossippatterninfantfitnessversionliarsortlong |  
+| bip_39_word_no_space_11 | embracealiengossippatterninfantfitnessversionliarsortlongaccuse |  
+| bip_39_word_no_space_12 | embracealiengossippatterninfantfitnessversionliarsortlongaccusealarm |  
+| bip_39_word_no_space_2 | embracealien |  
+| bip_39_word_no_space_3 | embracealiengossip |  
+| bip_39_word_no_space_4 | embracealiengossippattern |  
+| bip_39_word_no_space_5 | embracealiengossippatterninfant |  
+| bip_39_word_no_space_6 | embracealiengossippatterninfantfitness |  
+| bip_39_word_no_space_7 | embracealiengossippatterninfantfitnessversion |  
+| bip_39_word_no_space_8 | embracealiengossippatterninfantfitnessversionliar |  
+| bip_39_word_no_space_9 | embracealiengossippatterninfantfitnessversionliarsort |  
 | bip_39_word_space_0 | ['embrace', 'alien', 'gossip', 'pattern', 'infant', 'fitness', 'version', 'liar', 'sort', 'long', 'accuse', 'alarm'] |  
 | bip_39_word_space_1 | embrace |  
 | bip_39_word_space_10 | embrace alien gossip pattern infant fitness version liar sort long |  

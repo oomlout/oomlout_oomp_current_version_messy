@@ -122,6 +122,18 @@ wave
 shock
 trend
 never |  
+| bip_39_word_no_space_1 | amazing |  
+| bip_39_word_no_space_10 | amazingpredictdespairmaskdignitywaveshocktrendneveradapt |  
+| bip_39_word_no_space_11 | amazingpredictdespairmaskdignitywaveshocktrendneveradaptvalid |  
+| bip_39_word_no_space_12 | amazingpredictdespairmaskdignitywaveshocktrendneveradaptvalidarmy |  
+| bip_39_word_no_space_2 | amazingpredict |  
+| bip_39_word_no_space_3 | amazingpredictdespair |  
+| bip_39_word_no_space_4 | amazingpredictdespairmask |  
+| bip_39_word_no_space_5 | amazingpredictdespairmaskdignity |  
+| bip_39_word_no_space_6 | amazingpredictdespairmaskdignitywave |  
+| bip_39_word_no_space_7 | amazingpredictdespairmaskdignitywaveshock |  
+| bip_39_word_no_space_8 | amazingpredictdespairmaskdignitywaveshocktrend |  
+| bip_39_word_no_space_9 | amazingpredictdespairmaskdignitywaveshocktrendnever |  
 | bip_39_word_space_0 | ['amazing', 'predict', 'despair', 'mask', 'dignity', 'wave', 'shock', 'trend', 'never', 'adapt', 'valid', 'army'] |  
 | bip_39_word_space_1 | amazing |  
 | bip_39_word_space_10 | amazing predict despair mask dignity wave shock trend never adapt |  

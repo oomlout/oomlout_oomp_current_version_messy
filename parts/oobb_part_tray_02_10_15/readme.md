@@ -122,6 +122,18 @@ thought
 mirror
 crush
 proof |  
+| bip_39_word_no_space_1 | kitten |  
+| bip_39_word_no_space_10 | kitteninflictjargrainplasticthoughtmirrorcrushproofnephew |  
+| bip_39_word_no_space_11 | kitteninflictjargrainplasticthoughtmirrorcrushproofnephewoff |  
+| bip_39_word_no_space_12 | kitteninflictjargrainplasticthoughtmirrorcrushproofnephewoffalready |  
+| bip_39_word_no_space_2 | kitteninflict |  
+| bip_39_word_no_space_3 | kitteninflictjar |  
+| bip_39_word_no_space_4 | kitteninflictjargrain |  
+| bip_39_word_no_space_5 | kitteninflictjargrainplastic |  
+| bip_39_word_no_space_6 | kitteninflictjargrainplasticthought |  
+| bip_39_word_no_space_7 | kitteninflictjargrainplasticthoughtmirror |  
+| bip_39_word_no_space_8 | kitteninflictjargrainplasticthoughtmirrorcrush |  
+| bip_39_word_no_space_9 | kitteninflictjargrainplasticthoughtmirrorcrushproof |  
 | bip_39_word_space_0 | ['kitten', 'inflict', 'jar', 'grain', 'plastic', 'thought', 'mirror', 'crush', 'proof', 'nephew', 'off', 'already'] |  
 | bip_39_word_space_1 | kitten |  
 | bip_39_word_space_10 | kitten inflict jar grain plastic thought mirror crush proof nephew |  

@@ -122,6 +122,18 @@ pony
 age
 bright
 action |  
+| bip_39_word_no_space_1 | smart |  
+| bip_39_word_no_space_10 | smartjuiceprisonlunchillegalponyagebrightactionsnap |  
+| bip_39_word_no_space_11 | smartjuiceprisonlunchillegalponyagebrightactionsnappaper |  
+| bip_39_word_no_space_12 | smartjuiceprisonlunchillegalponyagebrightactionsnappaperadvance |  
+| bip_39_word_no_space_2 | smartjuice |  
+| bip_39_word_no_space_3 | smartjuiceprison |  
+| bip_39_word_no_space_4 | smartjuiceprisonlunch |  
+| bip_39_word_no_space_5 | smartjuiceprisonlunchillegal |  
+| bip_39_word_no_space_6 | smartjuiceprisonlunchillegalpony |  
+| bip_39_word_no_space_7 | smartjuiceprisonlunchillegalponyage |  
+| bip_39_word_no_space_8 | smartjuiceprisonlunchillegalponyagebright |  
+| bip_39_word_no_space_9 | smartjuiceprisonlunchillegalponyagebrightaction |  
 | bip_39_word_space_0 | ['smart', 'juice', 'prison', 'lunch', 'illegal', 'pony', 'age', 'bright', 'action', 'snap', 'paper', 'advance'] |  
 | bip_39_word_space_1 | smart |  
 | bip_39_word_space_10 | smart juice prison lunch illegal pony age bright action snap |  

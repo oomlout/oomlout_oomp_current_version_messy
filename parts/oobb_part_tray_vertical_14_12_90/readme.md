@@ -122,6 +122,18 @@ boat
 monster
 prize
 romance |  
+| bip_39_word_no_space_1 | secret |  
+| bip_39_word_no_space_10 | secretradarsteelamongviableboatmonsterprizeromanceblouse |  
+| bip_39_word_no_space_11 | secretradarsteelamongviableboatmonsterprizeromanceblousefitness |  
+| bip_39_word_no_space_12 | secretradarsteelamongviableboatmonsterprizeromanceblousefitnessarrest |  
+| bip_39_word_no_space_2 | secretradar |  
+| bip_39_word_no_space_3 | secretradarsteel |  
+| bip_39_word_no_space_4 | secretradarsteelamong |  
+| bip_39_word_no_space_5 | secretradarsteelamongviable |  
+| bip_39_word_no_space_6 | secretradarsteelamongviableboat |  
+| bip_39_word_no_space_7 | secretradarsteelamongviableboatmonster |  
+| bip_39_word_no_space_8 | secretradarsteelamongviableboatmonsterprize |  
+| bip_39_word_no_space_9 | secretradarsteelamongviableboatmonsterprizeromance |  
 | bip_39_word_space_0 | ['secret', 'radar', 'steel', 'among', 'viable', 'boat', 'monster', 'prize', 'romance', 'blouse', 'fitness', 'arrest'] |  
 | bip_39_word_space_1 | secret |  
 | bip_39_word_space_10 | secret radar steel among viable boat monster prize romance blouse |  

@@ -122,6 +122,18 @@ sunny
 ostrich
 firm
 shove |  
+| bip_39_word_no_space_1 | column |  
+| bip_39_word_no_space_10 | columnissuecannondeclineclimbsunnyostrichfirmshovecost |  
+| bip_39_word_no_space_11 | columnissuecannondeclineclimbsunnyostrichfirmshovecostdebate |  
+| bip_39_word_no_space_12 | columnissuecannondeclineclimbsunnyostrichfirmshovecostdebateask |  
+| bip_39_word_no_space_2 | columnissue |  
+| bip_39_word_no_space_3 | columnissuecannon |  
+| bip_39_word_no_space_4 | columnissuecannondecline |  
+| bip_39_word_no_space_5 | columnissuecannondeclineclimb |  
+| bip_39_word_no_space_6 | columnissuecannondeclineclimbsunny |  
+| bip_39_word_no_space_7 | columnissuecannondeclineclimbsunnyostrich |  
+| bip_39_word_no_space_8 | columnissuecannondeclineclimbsunnyostrichfirm |  
+| bip_39_word_no_space_9 | columnissuecannondeclineclimbsunnyostrichfirmshove |  
 | bip_39_word_space_0 | ['column', 'issue', 'cannon', 'decline', 'climb', 'sunny', 'ostrich', 'firm', 'shove', 'cost', 'debate', 'ask'] |  
 | bip_39_word_space_1 | column |  
 | bip_39_word_space_10 | column issue cannon decline climb sunny ostrich firm shove cost |  

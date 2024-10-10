@@ -122,6 +122,18 @@ title
 valid
 lift
 front |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announcebusshoprentcleantitlevalidliftfrontpony |  
+| bip_39_word_no_space_11 | announcebusshoprentcleantitlevalidliftfrontponydress |  
+| bip_39_word_no_space_12 | announcebusshoprentcleantitlevalidliftfrontponydressalmost |  
+| bip_39_word_no_space_2 | announcebus |  
+| bip_39_word_no_space_3 | announcebusshop |  
+| bip_39_word_no_space_4 | announcebusshoprent |  
+| bip_39_word_no_space_5 | announcebusshoprentclean |  
+| bip_39_word_no_space_6 | announcebusshoprentcleantitle |  
+| bip_39_word_no_space_7 | announcebusshoprentcleantitlevalid |  
+| bip_39_word_no_space_8 | announcebusshoprentcleantitlevalidlift |  
+| bip_39_word_no_space_9 | announcebusshoprentcleantitlevalidliftfront |  
 | bip_39_word_space_0 | ['announce', 'bus', 'shop', 'rent', 'clean', 'title', 'valid', 'lift', 'front', 'pony', 'dress', 'almost'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce bus shop rent clean title valid lift front pony |  

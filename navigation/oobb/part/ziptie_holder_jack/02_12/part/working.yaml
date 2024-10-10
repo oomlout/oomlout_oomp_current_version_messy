@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'exit
   lock
 
   forest'
+bip_39_word_no_space_1: exit
+bip_39_word_no_space_10: exitcallpalaceexposefainthugemiserylockforesttrue
+bip_39_word_no_space_11: exitcallpalaceexposefainthugemiserylockforesttrueghost
+bip_39_word_no_space_12: exitcallpalaceexposefainthugemiserylockforesttrueghostauto
+bip_39_word_no_space_2: exitcall
+bip_39_word_no_space_3: exitcallpalace
+bip_39_word_no_space_4: exitcallpalaceexpose
+bip_39_word_no_space_5: exitcallpalaceexposefaint
+bip_39_word_no_space_6: exitcallpalaceexposefainthuge
+bip_39_word_no_space_7: exitcallpalaceexposefainthugemisery
+bip_39_word_no_space_8: exitcallpalaceexposefainthugemiserylock
+bip_39_word_no_space_9: exitcallpalaceexposefainthugemiserylockforest
 bip_39_word_space_0:
 - exit
 - call

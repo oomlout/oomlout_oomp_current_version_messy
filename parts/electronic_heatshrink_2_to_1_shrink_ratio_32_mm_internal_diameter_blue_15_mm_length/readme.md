@@ -122,6 +122,18 @@ pioneer
 expect
 supply
 tide |  
+| bip_39_word_no_space_1 | swear |  
+| bip_39_word_no_space_10 | swearclutchstudentkidindicatepioneerexpectsupplytideuphold |  
+| bip_39_word_no_space_11 | swearclutchstudentkidindicatepioneerexpectsupplytideupholddizzy |  
+| bip_39_word_no_space_12 | swearclutchstudentkidindicatepioneerexpectsupplytideupholddizzyahead |  
+| bip_39_word_no_space_2 | swearclutch |  
+| bip_39_word_no_space_3 | swearclutchstudent |  
+| bip_39_word_no_space_4 | swearclutchstudentkid |  
+| bip_39_word_no_space_5 | swearclutchstudentkidindicate |  
+| bip_39_word_no_space_6 | swearclutchstudentkidindicatepioneer |  
+| bip_39_word_no_space_7 | swearclutchstudentkidindicatepioneerexpect |  
+| bip_39_word_no_space_8 | swearclutchstudentkidindicatepioneerexpectsupply |  
+| bip_39_word_no_space_9 | swearclutchstudentkidindicatepioneerexpectsupplytide |  
 | bip_39_word_space_0 | ['swear', 'clutch', 'student', 'kid', 'indicate', 'pioneer', 'expect', 'supply', 'tide', 'uphold', 'dizzy', 'ahead'] |  
 | bip_39_word_space_1 | swear |  
 | bip_39_word_space_10 | swear clutch student kid indicate pioneer expect supply tide uphold |  

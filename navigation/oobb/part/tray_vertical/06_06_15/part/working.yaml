@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'accident
   nothing
 
   shallow'
+bip_39_word_no_space_1: accident
+bip_39_word_no_space_10: accidentthisquitroofchildarenayouthnothingshallowbutter
+bip_39_word_no_space_11: accidentthisquitroofchildarenayouthnothingshallowbutterwait
+bip_39_word_no_space_12: accidentthisquitroofchildarenayouthnothingshallowbutterwaitagree
+bip_39_word_no_space_2: accidentthis
+bip_39_word_no_space_3: accidentthisquit
+bip_39_word_no_space_4: accidentthisquitroof
+bip_39_word_no_space_5: accidentthisquitroofchild
+bip_39_word_no_space_6: accidentthisquitroofchildarena
+bip_39_word_no_space_7: accidentthisquitroofchildarenayouth
+bip_39_word_no_space_8: accidentthisquitroofchildarenayouthnothing
+bip_39_word_no_space_9: accidentthisquitroofchildarenayouthnothingshallow
 bip_39_word_space_0:
 - accident
 - this

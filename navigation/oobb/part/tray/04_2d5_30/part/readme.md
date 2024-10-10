@@ -122,6 +122,18 @@ young
 master
 end
 bone |  
+| bip_39_word_no_space_1 | jelly |  
+| bip_39_word_no_space_10 | jellyhobbymuseumsuspectdryyoungmasterendboneturkey |  
+| bip_39_word_no_space_11 | jellyhobbymuseumsuspectdryyoungmasterendboneturkeyprofit |  
+| bip_39_word_no_space_12 | jellyhobbymuseumsuspectdryyoungmasterendboneturkeyprofitadvice |  
+| bip_39_word_no_space_2 | jellyhobby |  
+| bip_39_word_no_space_3 | jellyhobbymuseum |  
+| bip_39_word_no_space_4 | jellyhobbymuseumsuspect |  
+| bip_39_word_no_space_5 | jellyhobbymuseumsuspectdry |  
+| bip_39_word_no_space_6 | jellyhobbymuseumsuspectdryyoung |  
+| bip_39_word_no_space_7 | jellyhobbymuseumsuspectdryyoungmaster |  
+| bip_39_word_no_space_8 | jellyhobbymuseumsuspectdryyoungmasterend |  
+| bip_39_word_no_space_9 | jellyhobbymuseumsuspectdryyoungmasterendbone |  
 | bip_39_word_space_0 | ['jelly', 'hobby', 'museum', 'suspect', 'dry', 'young', 'master', 'end', 'bone', 'turkey', 'profit', 'advice'] |  
 | bip_39_word_space_1 | jelly |  
 | bip_39_word_space_10 | jelly hobby museum suspect dry young master end bone turkey |  

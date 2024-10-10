@@ -122,6 +122,18 @@ wood
 pair
 gun
 series |  
+| bip_39_word_no_space_1 | ginger |  
+| bip_39_word_no_space_10 | gingergenrekindricestockwoodpairgunseriescreek |  
+| bip_39_word_no_space_11 | gingergenrekindricestockwoodpairgunseriescreekpelican |  
+| bip_39_word_no_space_12 | gingergenrekindricestockwoodpairgunseriescreekpelicanauto |  
+| bip_39_word_no_space_2 | gingergenre |  
+| bip_39_word_no_space_3 | gingergenrekind |  
+| bip_39_word_no_space_4 | gingergenrekindrice |  
+| bip_39_word_no_space_5 | gingergenrekindricestock |  
+| bip_39_word_no_space_6 | gingergenrekindricestockwood |  
+| bip_39_word_no_space_7 | gingergenrekindricestockwoodpair |  
+| bip_39_word_no_space_8 | gingergenrekindricestockwoodpairgun |  
+| bip_39_word_no_space_9 | gingergenrekindricestockwoodpairgunseries |  
 | bip_39_word_space_0 | ['ginger', 'genre', 'kind', 'rice', 'stock', 'wood', 'pair', 'gun', 'series', 'creek', 'pelican', 'auto'] |  
 | bip_39_word_space_1 | ginger |  
 | bip_39_word_space_10 | ginger genre kind rice stock wood pair gun series creek |  

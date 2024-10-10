@@ -122,6 +122,18 @@ angle
 venture
 fiction
 identify |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settlespawnsafesatoshiwrongangleventurefictionidentifyaugust |  
+| bip_39_word_no_space_11 | settlespawnsafesatoshiwrongangleventurefictionidentifyaugustsauce |  
+| bip_39_word_no_space_12 | settlespawnsafesatoshiwrongangleventurefictionidentifyaugustsauceappear |  
+| bip_39_word_no_space_2 | settlespawn |  
+| bip_39_word_no_space_3 | settlespawnsafe |  
+| bip_39_word_no_space_4 | settlespawnsafesatoshi |  
+| bip_39_word_no_space_5 | settlespawnsafesatoshiwrong |  
+| bip_39_word_no_space_6 | settlespawnsafesatoshiwrongangle |  
+| bip_39_word_no_space_7 | settlespawnsafesatoshiwrongangleventure |  
+| bip_39_word_no_space_8 | settlespawnsafesatoshiwrongangleventurefiction |  
+| bip_39_word_no_space_9 | settlespawnsafesatoshiwrongangleventurefictionidentify |  
 | bip_39_word_space_0 | ['settle', 'spawn', 'safe', 'satoshi', 'wrong', 'angle', 'venture', 'fiction', 'identify', 'august', 'sauce', 'appear'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle spawn safe satoshi wrong angle venture fiction identify august |  

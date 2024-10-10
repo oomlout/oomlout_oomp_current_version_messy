@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'proof
   switch
 
   fiber'
+bip_39_word_no_space_1: proof
+bip_39_word_no_space_10: proofpilllaborpurityminutestonemagnetswitchfibermimic
+bip_39_word_no_space_11: proofpilllaborpurityminutestonemagnetswitchfibermimiceternal
+bip_39_word_no_space_12: proofpilllaborpurityminutestonemagnetswitchfibermimiceternaladmit
+bip_39_word_no_space_2: proofpill
+bip_39_word_no_space_3: proofpilllabor
+bip_39_word_no_space_4: proofpilllaborpurity
+bip_39_word_no_space_5: proofpilllaborpurityminute
+bip_39_word_no_space_6: proofpilllaborpurityminutestone
+bip_39_word_no_space_7: proofpilllaborpurityminutestonemagnet
+bip_39_word_no_space_8: proofpilllaborpurityminutestonemagnetswitch
+bip_39_word_no_space_9: proofpilllaborpurityminutestonemagnetswitchfiber
 bip_39_word_space_0:
 - proof
 - pill

@@ -122,6 +122,18 @@ extend
 marriage
 help
 risk |  
+| bip_39_word_no_space_1 | pair |  
+| bip_39_word_no_space_10 | pairabandonphonequarterrejectextendmarriagehelpriskfiber |  
+| bip_39_word_no_space_11 | pairabandonphonequarterrejectextendmarriagehelpriskfiberripple |  
+| bip_39_word_no_space_12 | pairabandonphonequarterrejectextendmarriagehelpriskfiberripplealmost |  
+| bip_39_word_no_space_2 | pairabandon |  
+| bip_39_word_no_space_3 | pairabandonphone |  
+| bip_39_word_no_space_4 | pairabandonphonequarter |  
+| bip_39_word_no_space_5 | pairabandonphonequarterreject |  
+| bip_39_word_no_space_6 | pairabandonphonequarterrejectextend |  
+| bip_39_word_no_space_7 | pairabandonphonequarterrejectextendmarriage |  
+| bip_39_word_no_space_8 | pairabandonphonequarterrejectextendmarriagehelp |  
+| bip_39_word_no_space_9 | pairabandonphonequarterrejectextendmarriagehelprisk |  
 | bip_39_word_space_0 | ['pair', 'abandon', 'phone', 'quarter', 'reject', 'extend', 'marriage', 'help', 'risk', 'fiber', 'ripple', 'almost'] |  
 | bip_39_word_space_1 | pair |  
 | bip_39_word_space_10 | pair abandon phone quarter reject extend marriage help risk fiber |  

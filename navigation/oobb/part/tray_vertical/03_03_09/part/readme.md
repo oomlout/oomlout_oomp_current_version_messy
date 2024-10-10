@@ -122,6 +122,18 @@ rib
 cabbage
 pledge
 fiscal |  
+| bip_39_word_no_space_1 | maple |  
+| bip_39_word_no_space_10 | maplestairsmarchlawsuitgrabribcabbagepledgefiscalisland |  
+| bip_39_word_no_space_11 | maplestairsmarchlawsuitgrabribcabbagepledgefiscalislandconvince |  
+| bip_39_word_no_space_12 | maplestairsmarchlawsuitgrabribcabbagepledgefiscalislandconvinceauto |  
+| bip_39_word_no_space_2 | maplestairs |  
+| bip_39_word_no_space_3 | maplestairsmarch |  
+| bip_39_word_no_space_4 | maplestairsmarchlawsuit |  
+| bip_39_word_no_space_5 | maplestairsmarchlawsuitgrab |  
+| bip_39_word_no_space_6 | maplestairsmarchlawsuitgrabrib |  
+| bip_39_word_no_space_7 | maplestairsmarchlawsuitgrabribcabbage |  
+| bip_39_word_no_space_8 | maplestairsmarchlawsuitgrabribcabbagepledge |  
+| bip_39_word_no_space_9 | maplestairsmarchlawsuitgrabribcabbagepledgefiscal |  
 | bip_39_word_space_0 | ['maple', 'stairs', 'march', 'lawsuit', 'grab', 'rib', 'cabbage', 'pledge', 'fiscal', 'island', 'convince', 'auto'] |  
 | bip_39_word_space_1 | maple |  
 | bip_39_word_space_10 | maple stairs march lawsuit grab rib cabbage pledge fiscal island |  

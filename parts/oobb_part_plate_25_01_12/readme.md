@@ -122,6 +122,18 @@ custom
 clock
 stable
 excite |  
+| bip_39_word_no_space_1 | limit |  
+| bip_39_word_no_space_10 | limitshipmooncatalogvalidcustomclockstableexcitewhere |  
+| bip_39_word_no_space_11 | limitshipmooncatalogvalidcustomclockstableexcitewherepatrol |  
+| bip_39_word_no_space_12 | limitshipmooncatalogvalidcustomclockstableexcitewherepatrolalready |  
+| bip_39_word_no_space_2 | limitship |  
+| bip_39_word_no_space_3 | limitshipmoon |  
+| bip_39_word_no_space_4 | limitshipmooncatalog |  
+| bip_39_word_no_space_5 | limitshipmooncatalogvalid |  
+| bip_39_word_no_space_6 | limitshipmooncatalogvalidcustom |  
+| bip_39_word_no_space_7 | limitshipmooncatalogvalidcustomclock |  
+| bip_39_word_no_space_8 | limitshipmooncatalogvalidcustomclockstable |  
+| bip_39_word_no_space_9 | limitshipmooncatalogvalidcustomclockstableexcite |  
 | bip_39_word_space_0 | ['limit', 'ship', 'moon', 'catalog', 'valid', 'custom', 'clock', 'stable', 'excite', 'where', 'patrol', 'already'] |  
 | bip_39_word_space_1 | limit |  
 | bip_39_word_space_10 | limit ship moon catalog valid custom clock stable excite where |  

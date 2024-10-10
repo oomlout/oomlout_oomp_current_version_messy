@@ -122,6 +122,18 @@ globe
 still
 early
 hand |  
+| bip_39_word_no_space_1 | perfect |  
+| bip_39_word_no_space_10 | perfectoutdoorfollowsausagecrispglobestillearlyhandfamous |  
+| bip_39_word_no_space_11 | perfectoutdoorfollowsausagecrispglobestillearlyhandfamousflavor |  
+| bip_39_word_no_space_12 | perfectoutdoorfollowsausagecrispglobestillearlyhandfamousflavoractual |  
+| bip_39_word_no_space_2 | perfectoutdoor |  
+| bip_39_word_no_space_3 | perfectoutdoorfollow |  
+| bip_39_word_no_space_4 | perfectoutdoorfollowsausage |  
+| bip_39_word_no_space_5 | perfectoutdoorfollowsausagecrisp |  
+| bip_39_word_no_space_6 | perfectoutdoorfollowsausagecrispglobe |  
+| bip_39_word_no_space_7 | perfectoutdoorfollowsausagecrispglobestill |  
+| bip_39_word_no_space_8 | perfectoutdoorfollowsausagecrispglobestillearly |  
+| bip_39_word_no_space_9 | perfectoutdoorfollowsausagecrispglobestillearlyhand |  
 | bip_39_word_space_0 | ['perfect', 'outdoor', 'follow', 'sausage', 'crisp', 'globe', 'still', 'early', 'hand', 'famous', 'flavor', 'actual'] |  
 | bip_39_word_space_1 | perfect |  
 | bip_39_word_space_10 | perfect outdoor follow sausage crisp globe still early hand famous |  

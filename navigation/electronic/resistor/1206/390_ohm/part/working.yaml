@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'raw
   squirrel
 
   lumber'
+bip_39_word_no_space_1: raw
+bip_39_word_no_space_10: rawrugcasinoweaponaheadpausestandsquirrellumberfloor
+bip_39_word_no_space_11: rawrugcasinoweaponaheadpausestandsquirrellumberfloorempower
+bip_39_word_no_space_12: rawrugcasinoweaponaheadpausestandsquirrellumberfloorempoweradjust
+bip_39_word_no_space_2: rawrug
+bip_39_word_no_space_3: rawrugcasino
+bip_39_word_no_space_4: rawrugcasinoweapon
+bip_39_word_no_space_5: rawrugcasinoweaponahead
+bip_39_word_no_space_6: rawrugcasinoweaponaheadpause
+bip_39_word_no_space_7: rawrugcasinoweaponaheadpausestand
+bip_39_word_no_space_8: rawrugcasinoweaponaheadpausestandsquirrel
+bip_39_word_no_space_9: rawrugcasinoweaponaheadpausestandsquirrellumber
 bip_39_word_space_0:
 - raw
 - rug

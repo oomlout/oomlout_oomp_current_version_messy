@@ -122,6 +122,18 @@ father
 nice
 sense
 bracket |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armpistolshortalphapossiblefathernicesensebracketexpand |  
+| bip_39_word_no_space_11 | armpistolshortalphapossiblefathernicesensebracketexpandride |  
+| bip_39_word_no_space_12 | armpistolshortalphapossiblefathernicesensebracketexpandrideankle |  
+| bip_39_word_no_space_2 | armpistol |  
+| bip_39_word_no_space_3 | armpistolshort |  
+| bip_39_word_no_space_4 | armpistolshortalpha |  
+| bip_39_word_no_space_5 | armpistolshortalphapossible |  
+| bip_39_word_no_space_6 | armpistolshortalphapossiblefather |  
+| bip_39_word_no_space_7 | armpistolshortalphapossiblefathernice |  
+| bip_39_word_no_space_8 | armpistolshortalphapossiblefathernicesense |  
+| bip_39_word_no_space_9 | armpistolshortalphapossiblefathernicesensebracket |  
 | bip_39_word_space_0 | ['arm', 'pistol', 'short', 'alpha', 'possible', 'father', 'nice', 'sense', 'bracket', 'expand', 'ride', 'ankle'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm pistol short alpha possible father nice sense bracket expand |  

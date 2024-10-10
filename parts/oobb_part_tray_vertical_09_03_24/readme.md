@@ -122,6 +122,18 @@ room
 upper
 produce
 divorce |  
+| bip_39_word_no_space_1 | athlete |  
+| bip_39_word_no_space_10 | athletecargowinetissuecoolroomupperproducedivorcechunk |  
+| bip_39_word_no_space_11 | athletecargowinetissuecoolroomupperproducedivorcechunkaware |  
+| bip_39_word_no_space_12 | athletecargowinetissuecoolroomupperproducedivorcechunkawareaunt |  
+| bip_39_word_no_space_2 | athletecargo |  
+| bip_39_word_no_space_3 | athletecargowine |  
+| bip_39_word_no_space_4 | athletecargowinetissue |  
+| bip_39_word_no_space_5 | athletecargowinetissuecool |  
+| bip_39_word_no_space_6 | athletecargowinetissuecoolroom |  
+| bip_39_word_no_space_7 | athletecargowinetissuecoolroomupper |  
+| bip_39_word_no_space_8 | athletecargowinetissuecoolroomupperproduce |  
+| bip_39_word_no_space_9 | athletecargowinetissuecoolroomupperproducedivorce |  
 | bip_39_word_space_0 | ['athlete', 'cargo', 'wine', 'tissue', 'cool', 'room', 'upper', 'produce', 'divorce', 'chunk', 'aware', 'aunt'] |  
 | bip_39_word_space_1 | athlete |  
 | bip_39_word_space_10 | athlete cargo wine tissue cool room upper produce divorce chunk |  

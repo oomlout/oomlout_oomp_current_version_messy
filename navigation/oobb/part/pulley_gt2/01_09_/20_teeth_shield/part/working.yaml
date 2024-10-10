@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'once
   economy
 
   expect'
+bip_39_word_no_space_1: once
+bip_39_word_no_space_10: oncesatisfyfabriccementeggdashamusedeconomyexpectmovie
+bip_39_word_no_space_11: oncesatisfyfabriccementeggdashamusedeconomyexpectmoviedoll
+bip_39_word_no_space_12: oncesatisfyfabriccementeggdashamusedeconomyexpectmoviedollarmy
+bip_39_word_no_space_2: oncesatisfy
+bip_39_word_no_space_3: oncesatisfyfabric
+bip_39_word_no_space_4: oncesatisfyfabriccement
+bip_39_word_no_space_5: oncesatisfyfabriccementegg
+bip_39_word_no_space_6: oncesatisfyfabriccementeggdash
+bip_39_word_no_space_7: oncesatisfyfabriccementeggdashamused
+bip_39_word_no_space_8: oncesatisfyfabriccementeggdashamusedeconomy
+bip_39_word_no_space_9: oncesatisfyfabriccementeggdashamusedeconomyexpect
 bip_39_word_space_0:
 - once
 - satisfy

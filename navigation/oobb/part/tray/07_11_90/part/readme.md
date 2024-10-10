@@ -122,6 +122,18 @@ cream
 garden
 spice
 churn |  
+| bip_39_word_no_space_1 | body |  
+| bip_39_word_no_space_10 | bodyschemeslabjeansinquirycreamgardenspicechurnaudit |  
+| bip_39_word_no_space_11 | bodyschemeslabjeansinquirycreamgardenspicechurnauditdrift |  
+| bip_39_word_no_space_12 | bodyschemeslabjeansinquirycreamgardenspicechurnauditdriftaim |  
+| bip_39_word_no_space_2 | bodyscheme |  
+| bip_39_word_no_space_3 | bodyschemeslab |  
+| bip_39_word_no_space_4 | bodyschemeslabjeans |  
+| bip_39_word_no_space_5 | bodyschemeslabjeansinquiry |  
+| bip_39_word_no_space_6 | bodyschemeslabjeansinquirycream |  
+| bip_39_word_no_space_7 | bodyschemeslabjeansinquirycreamgarden |  
+| bip_39_word_no_space_8 | bodyschemeslabjeansinquirycreamgardenspice |  
+| bip_39_word_no_space_9 | bodyschemeslabjeansinquirycreamgardenspicechurn |  
 | bip_39_word_space_0 | ['body', 'scheme', 'slab', 'jeans', 'inquiry', 'cream', 'garden', 'spice', 'churn', 'audit', 'drift', 'aim'] |  
 | bip_39_word_space_1 | body |  
 | bip_39_word_space_10 | body scheme slab jeans inquiry cream garden spice churn audit |  

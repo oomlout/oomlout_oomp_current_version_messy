@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'leave
   water
 
   job'
+bip_39_word_no_space_1: leave
+bip_39_word_no_space_10: leavepicnicofficeofferrejectobjectelderwaterjoblamp
+bip_39_word_no_space_11: leavepicnicofficeofferrejectobjectelderwaterjoblampweasel
+bip_39_word_no_space_12: leavepicnicofficeofferrejectobjectelderwaterjoblampweaselalter
+bip_39_word_no_space_2: leavepicnic
+bip_39_word_no_space_3: leavepicnicoffice
+bip_39_word_no_space_4: leavepicnicofficeoffer
+bip_39_word_no_space_5: leavepicnicofficeofferreject
+bip_39_word_no_space_6: leavepicnicofficeofferrejectobject
+bip_39_word_no_space_7: leavepicnicofficeofferrejectobjectelder
+bip_39_word_no_space_8: leavepicnicofficeofferrejectobjectelderwater
+bip_39_word_no_space_9: leavepicnicofficeofferrejectobjectelderwaterjob
 bip_39_word_space_0:
 - leave
 - picnic

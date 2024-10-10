@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'erode
   buzz
 
   carpet'
+bip_39_word_no_space_1: erode
+bip_39_word_no_space_10: erodehobbychatshieldmeltrandomproducebuzzcarpetnurse
+bip_39_word_no_space_11: erodehobbychatshieldmeltrandomproducebuzzcarpetnursechunk
+bip_39_word_no_space_12: erodehobbychatshieldmeltrandomproducebuzzcarpetnursechunkadvance
+bip_39_word_no_space_2: erodehobby
+bip_39_word_no_space_3: erodehobbychat
+bip_39_word_no_space_4: erodehobbychatshield
+bip_39_word_no_space_5: erodehobbychatshieldmelt
+bip_39_word_no_space_6: erodehobbychatshieldmeltrandom
+bip_39_word_no_space_7: erodehobbychatshieldmeltrandomproduce
+bip_39_word_no_space_8: erodehobbychatshieldmeltrandomproducebuzz
+bip_39_word_no_space_9: erodehobbychatshieldmeltrandomproducebuzzcarpet
 bip_39_word_space_0:
 - erode
 - hobby

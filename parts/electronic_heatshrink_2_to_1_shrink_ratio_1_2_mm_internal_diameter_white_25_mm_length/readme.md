@@ -122,6 +122,18 @@ rare
 tide
 pet
 wise |  
+| bip_39_word_no_space_1 | cherry |  
+| bip_39_word_no_space_10 | cherrybunkerglassstreeteditraretidepetwisenever |  
+| bip_39_word_no_space_11 | cherrybunkerglassstreeteditraretidepetwiseneverjeans |  
+| bip_39_word_no_space_12 | cherrybunkerglassstreeteditraretidepetwiseneverjeansangry |  
+| bip_39_word_no_space_2 | cherrybunker |  
+| bip_39_word_no_space_3 | cherrybunkerglass |  
+| bip_39_word_no_space_4 | cherrybunkerglassstreet |  
+| bip_39_word_no_space_5 | cherrybunkerglassstreetedit |  
+| bip_39_word_no_space_6 | cherrybunkerglassstreeteditrare |  
+| bip_39_word_no_space_7 | cherrybunkerglassstreeteditraretide |  
+| bip_39_word_no_space_8 | cherrybunkerglassstreeteditraretidepet |  
+| bip_39_word_no_space_9 | cherrybunkerglassstreeteditraretidepetwise |  
 | bip_39_word_space_0 | ['cherry', 'bunker', 'glass', 'street', 'edit', 'rare', 'tide', 'pet', 'wise', 'never', 'jeans', 'angry'] |  
 | bip_39_word_space_1 | cherry |  
 | bip_39_word_space_10 | cherry bunker glass street edit rare tide pet wise never |  

@@ -122,6 +122,18 @@ candy
 decrease
 seat
 kick |  
+| bip_39_word_no_space_1 | coral |  
+| bip_39_word_no_space_10 | coraldriftorphannomineebelowcandydecreaseseatkicktube |  
+| bip_39_word_no_space_11 | coraldriftorphannomineebelowcandydecreaseseatkicktubehover |  
+| bip_39_word_no_space_12 | coraldriftorphannomineebelowcandydecreaseseatkicktubehoverantenna |  
+| bip_39_word_no_space_2 | coraldrift |  
+| bip_39_word_no_space_3 | coraldriftorphan |  
+| bip_39_word_no_space_4 | coraldriftorphannominee |  
+| bip_39_word_no_space_5 | coraldriftorphannomineebelow |  
+| bip_39_word_no_space_6 | coraldriftorphannomineebelowcandy |  
+| bip_39_word_no_space_7 | coraldriftorphannomineebelowcandydecrease |  
+| bip_39_word_no_space_8 | coraldriftorphannomineebelowcandydecreaseseat |  
+| bip_39_word_no_space_9 | coraldriftorphannomineebelowcandydecreaseseatkick |  
 | bip_39_word_space_0 | ['coral', 'drift', 'orphan', 'nominee', 'below', 'candy', 'decrease', 'seat', 'kick', 'tube', 'hover', 'antenna'] |  
 | bip_39_word_space_1 | coral |  
 | bip_39_word_space_10 | coral drift orphan nominee below candy decrease seat kick tube |  

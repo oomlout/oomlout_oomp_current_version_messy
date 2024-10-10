@@ -122,6 +122,18 @@ retire
 female
 three
 claw |  
+| bip_39_word_no_space_1 | ripple |  
+| bip_39_word_no_space_10 | rippleaprilhiddentunnelrangeretirefemalethreeclawadvance |  
+| bip_39_word_no_space_11 | rippleaprilhiddentunnelrangeretirefemalethreeclawadvancedrastic |  
+| bip_39_word_no_space_12 | rippleaprilhiddentunnelrangeretirefemalethreeclawadvancedrasticauction |  
+| bip_39_word_no_space_2 | rippleapril |  
+| bip_39_word_no_space_3 | rippleaprilhidden |  
+| bip_39_word_no_space_4 | rippleaprilhiddentunnel |  
+| bip_39_word_no_space_5 | rippleaprilhiddentunnelrange |  
+| bip_39_word_no_space_6 | rippleaprilhiddentunnelrangeretire |  
+| bip_39_word_no_space_7 | rippleaprilhiddentunnelrangeretirefemale |  
+| bip_39_word_no_space_8 | rippleaprilhiddentunnelrangeretirefemalethree |  
+| bip_39_word_no_space_9 | rippleaprilhiddentunnelrangeretirefemalethreeclaw |  
 | bip_39_word_space_0 | ['ripple', 'april', 'hidden', 'tunnel', 'range', 'retire', 'female', 'three', 'claw', 'advance', 'drastic', 'auction'] |  
 | bip_39_word_space_1 | ripple |  
 | bip_39_word_space_10 | ripple april hidden tunnel range retire female three claw advance |  

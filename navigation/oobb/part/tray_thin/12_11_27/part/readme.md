@@ -122,6 +122,18 @@ carpet
 panther
 order
 flight |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | serviceaskstingthrowcuriouscarpetpantherorderflightdepend |  
+| bip_39_word_no_space_11 | serviceaskstingthrowcuriouscarpetpantherorderflightdependliberty |  
+| bip_39_word_no_space_12 | serviceaskstingthrowcuriouscarpetpantherorderflightdependlibertyartist |  
+| bip_39_word_no_space_2 | serviceask |  
+| bip_39_word_no_space_3 | serviceasksting |  
+| bip_39_word_no_space_4 | serviceaskstingthrow |  
+| bip_39_word_no_space_5 | serviceaskstingthrowcurious |  
+| bip_39_word_no_space_6 | serviceaskstingthrowcuriouscarpet |  
+| bip_39_word_no_space_7 | serviceaskstingthrowcuriouscarpetpanther |  
+| bip_39_word_no_space_8 | serviceaskstingthrowcuriouscarpetpantherorder |  
+| bip_39_word_no_space_9 | serviceaskstingthrowcuriouscarpetpantherorderflight |  
 | bip_39_word_space_0 | ['service', 'ask', 'sting', 'throw', 'curious', 'carpet', 'panther', 'order', 'flight', 'depend', 'liberty', 'artist'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service ask sting throw curious carpet panther order flight depend |  

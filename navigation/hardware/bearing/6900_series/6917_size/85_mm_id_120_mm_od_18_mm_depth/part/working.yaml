@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ski
   head
 
   tenant'
+bip_39_word_no_space_1: ski
+bip_39_word_no_space_10: skicoilhumancraterorientrigidpeasantheadtenantfigure
+bip_39_word_no_space_11: skicoilhumancraterorientrigidpeasantheadtenantfigurevirus
+bip_39_word_no_space_12: skicoilhumancraterorientrigidpeasantheadtenantfigurevirusabuse
+bip_39_word_no_space_2: skicoil
+bip_39_word_no_space_3: skicoilhuman
+bip_39_word_no_space_4: skicoilhumancrater
+bip_39_word_no_space_5: skicoilhumancraterorient
+bip_39_word_no_space_6: skicoilhumancraterorientrigid
+bip_39_word_no_space_7: skicoilhumancraterorientrigidpeasant
+bip_39_word_no_space_8: skicoilhumancraterorientrigidpeasanthead
+bip_39_word_no_space_9: skicoilhumancraterorientrigidpeasantheadtenant
 bip_39_word_space_0:
 - ski
 - coil

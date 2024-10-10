@@ -122,6 +122,18 @@ parade
 penalty
 image
 woman |  
+| bip_39_word_no_space_1 | make |  
+| bip_39_word_no_space_10 | makecouchpredictfossilflashparadepenaltyimagewomandrip |  
+| bip_39_word_no_space_11 | makecouchpredictfossilflashparadepenaltyimagewomandripslogan |  
+| bip_39_word_no_space_12 | makecouchpredictfossilflashparadepenaltyimagewomandripsloganassume |  
+| bip_39_word_no_space_2 | makecouch |  
+| bip_39_word_no_space_3 | makecouchpredict |  
+| bip_39_word_no_space_4 | makecouchpredictfossil |  
+| bip_39_word_no_space_5 | makecouchpredictfossilflash |  
+| bip_39_word_no_space_6 | makecouchpredictfossilflashparade |  
+| bip_39_word_no_space_7 | makecouchpredictfossilflashparadepenalty |  
+| bip_39_word_no_space_8 | makecouchpredictfossilflashparadepenaltyimage |  
+| bip_39_word_no_space_9 | makecouchpredictfossilflashparadepenaltyimagewoman |  
 | bip_39_word_space_0 | ['make', 'couch', 'predict', 'fossil', 'flash', 'parade', 'penalty', 'image', 'woman', 'drip', 'slogan', 'assume'] |  
 | bip_39_word_space_1 | make |  
 | bip_39_word_space_10 | make couch predict fossil flash parade penalty image woman drip |  

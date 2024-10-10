@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'job
   lonely
 
   chalk'
+bip_39_word_no_space_1: job
+bip_39_word_no_space_10: jobclipfiberfrogaccessentryexoticlonelychalkorgan
+bip_39_word_no_space_11: jobclipfiberfrogaccessentryexoticlonelychalkorganyard
+bip_39_word_no_space_12: jobclipfiberfrogaccessentryexoticlonelychalkorganyardatom
+bip_39_word_no_space_2: jobclip
+bip_39_word_no_space_3: jobclipfiber
+bip_39_word_no_space_4: jobclipfiberfrog
+bip_39_word_no_space_5: jobclipfiberfrogaccess
+bip_39_word_no_space_6: jobclipfiberfrogaccessentry
+bip_39_word_no_space_7: jobclipfiberfrogaccessentryexotic
+bip_39_word_no_space_8: jobclipfiberfrogaccessentryexoticlonely
+bip_39_word_no_space_9: jobclipfiberfrogaccessentryexoticlonelychalk
 bip_39_word_space_0:
 - job
 - clip

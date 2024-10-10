@@ -122,6 +122,18 @@ spare
 lyrics
 observe
 erode |  
+| bip_39_word_no_space_1 | remind |  
+| bip_39_word_no_space_10 | remindflipdistancestoolusefulsparelyricsobserveeroderare |  
+| bip_39_word_no_space_11 | remindflipdistancestoolusefulsparelyricsobserveeroderarerice |  
+| bip_39_word_no_space_12 | remindflipdistancestoolusefulsparelyricsobserveeroderarericeabsorb |  
+| bip_39_word_no_space_2 | remindflip |  
+| bip_39_word_no_space_3 | remindflipdistance |  
+| bip_39_word_no_space_4 | remindflipdistancestool |  
+| bip_39_word_no_space_5 | remindflipdistancestooluseful |  
+| bip_39_word_no_space_6 | remindflipdistancestoolusefulspare |  
+| bip_39_word_no_space_7 | remindflipdistancestoolusefulsparelyrics |  
+| bip_39_word_no_space_8 | remindflipdistancestoolusefulsparelyricsobserve |  
+| bip_39_word_no_space_9 | remindflipdistancestoolusefulsparelyricsobserveerode |  
 | bip_39_word_space_0 | ['remind', 'flip', 'distance', 'stool', 'useful', 'spare', 'lyrics', 'observe', 'erode', 'rare', 'rice', 'absorb'] |  
 | bip_39_word_space_1 | remind |  
 | bip_39_word_space_10 | remind flip distance stool useful spare lyrics observe erode rare |  

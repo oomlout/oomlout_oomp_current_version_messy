@@ -122,6 +122,18 @@ silk
 timber
 addict
 galaxy |  
+| bip_39_word_no_space_1 | pass |  
+| bip_39_word_no_space_10 | passcleanparentinterestsevensilktimberaddictgalaxydune |  
+| bip_39_word_no_space_11 | passcleanparentinterestsevensilktimberaddictgalaxydunelumber |  
+| bip_39_word_no_space_12 | passcleanparentinterestsevensilktimberaddictgalaxydunelumberamount |  
+| bip_39_word_no_space_2 | passclean |  
+| bip_39_word_no_space_3 | passcleanparent |  
+| bip_39_word_no_space_4 | passcleanparentinterest |  
+| bip_39_word_no_space_5 | passcleanparentinterestseven |  
+| bip_39_word_no_space_6 | passcleanparentinterestsevensilk |  
+| bip_39_word_no_space_7 | passcleanparentinterestsevensilktimber |  
+| bip_39_word_no_space_8 | passcleanparentinterestsevensilktimberaddict |  
+| bip_39_word_no_space_9 | passcleanparentinterestsevensilktimberaddictgalaxy |  
 | bip_39_word_space_0 | ['pass', 'clean', 'parent', 'interest', 'seven', 'silk', 'timber', 'addict', 'galaxy', 'dune', 'lumber', 'amount'] |  
 | bip_39_word_space_1 | pass |  
 | bip_39_word_space_10 | pass clean parent interest seven silk timber addict galaxy dune |  

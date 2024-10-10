@@ -122,6 +122,18 @@ fog
 apple
 material
 riot |  
+| bip_39_word_no_space_1 | three |  
+| bip_39_word_no_space_10 | threereportaerobicvalleybadgefogapplematerialriotartist |  
+| bip_39_word_no_space_11 | threereportaerobicvalleybadgefogapplematerialriotartistdoctor |  
+| bip_39_word_no_space_12 | threereportaerobicvalleybadgefogapplematerialriotartistdoctorathlete |  
+| bip_39_word_no_space_2 | threereport |  
+| bip_39_word_no_space_3 | threereportaerobic |  
+| bip_39_word_no_space_4 | threereportaerobicvalley |  
+| bip_39_word_no_space_5 | threereportaerobicvalleybadge |  
+| bip_39_word_no_space_6 | threereportaerobicvalleybadgefog |  
+| bip_39_word_no_space_7 | threereportaerobicvalleybadgefogapple |  
+| bip_39_word_no_space_8 | threereportaerobicvalleybadgefogapplematerial |  
+| bip_39_word_no_space_9 | threereportaerobicvalleybadgefogapplematerialriot |  
 | bip_39_word_space_0 | ['three', 'report', 'aerobic', 'valley', 'badge', 'fog', 'apple', 'material', 'riot', 'artist', 'doctor', 'athlete'] |  
 | bip_39_word_space_1 | three |  
 | bip_39_word_space_10 | three report aerobic valley badge fog apple material riot artist |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'snow
   range
 
   consider'
+bip_39_word_no_space_1: snow
+bip_39_word_no_space_10: snowsheriffscoutcornmeltbeautyfatalrangeconsidereager
+bip_39_word_no_space_11: snowsheriffscoutcornmeltbeautyfatalrangeconsidereagerwin
+bip_39_word_no_space_12: snowsheriffscoutcornmeltbeautyfatalrangeconsidereagerwinagent
+bip_39_word_no_space_2: snowsheriff
+bip_39_word_no_space_3: snowsheriffscout
+bip_39_word_no_space_4: snowsheriffscoutcorn
+bip_39_word_no_space_5: snowsheriffscoutcornmelt
+bip_39_word_no_space_6: snowsheriffscoutcornmeltbeauty
+bip_39_word_no_space_7: snowsheriffscoutcornmeltbeautyfatal
+bip_39_word_no_space_8: snowsheriffscoutcornmeltbeautyfatalrange
+bip_39_word_no_space_9: snowsheriffscoutcornmeltbeautyfatalrangeconsider
 bip_39_word_space_0:
 - snow
 - sheriff

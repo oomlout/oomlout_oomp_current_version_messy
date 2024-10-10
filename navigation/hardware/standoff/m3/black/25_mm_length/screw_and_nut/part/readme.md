@@ -122,6 +122,18 @@ oven
 ladder
 suspect
 enact |  
+| bip_39_word_no_space_1 | clog |  
+| bip_39_word_no_space_10 | clogbubblevitalenterfigureovenladdersuspectenactcram |  
+| bip_39_word_no_space_11 | clogbubblevitalenterfigureovenladdersuspectenactcramcarbon |  
+| bip_39_word_no_space_12 | clogbubblevitalenterfigureovenladdersuspectenactcramcarbonarena |  
+| bip_39_word_no_space_2 | clogbubble |  
+| bip_39_word_no_space_3 | clogbubblevital |  
+| bip_39_word_no_space_4 | clogbubblevitalenter |  
+| bip_39_word_no_space_5 | clogbubblevitalenterfigure |  
+| bip_39_word_no_space_6 | clogbubblevitalenterfigureoven |  
+| bip_39_word_no_space_7 | clogbubblevitalenterfigureovenladder |  
+| bip_39_word_no_space_8 | clogbubblevitalenterfigureovenladdersuspect |  
+| bip_39_word_no_space_9 | clogbubblevitalenterfigureovenladdersuspectenact |  
 | bip_39_word_space_0 | ['clog', 'bubble', 'vital', 'enter', 'figure', 'oven', 'ladder', 'suspect', 'enact', 'cram', 'carbon', 'arena'] |  
 | bip_39_word_space_1 | clog |  
 | bip_39_word_space_10 | clog bubble vital enter figure oven ladder suspect enact cram |  

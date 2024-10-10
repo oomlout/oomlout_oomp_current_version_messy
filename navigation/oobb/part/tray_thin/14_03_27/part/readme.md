@@ -122,6 +122,18 @@ auto
 crime
 add
 vintage |  
+| bip_39_word_no_space_1 | milk |  
+| bip_39_word_no_space_10 | milkrelaxbadgeweddingutilityautocrimeaddvintagecourse |  
+| bip_39_word_no_space_11 | milkrelaxbadgeweddingutilityautocrimeaddvintagecoursecalm |  
+| bip_39_word_no_space_12 | milkrelaxbadgeweddingutilityautocrimeaddvintagecoursecalmapril |  
+| bip_39_word_no_space_2 | milkrelax |  
+| bip_39_word_no_space_3 | milkrelaxbadge |  
+| bip_39_word_no_space_4 | milkrelaxbadgewedding |  
+| bip_39_word_no_space_5 | milkrelaxbadgeweddingutility |  
+| bip_39_word_no_space_6 | milkrelaxbadgeweddingutilityauto |  
+| bip_39_word_no_space_7 | milkrelaxbadgeweddingutilityautocrime |  
+| bip_39_word_no_space_8 | milkrelaxbadgeweddingutilityautocrimeadd |  
+| bip_39_word_no_space_9 | milkrelaxbadgeweddingutilityautocrimeaddvintage |  
 | bip_39_word_space_0 | ['milk', 'relax', 'badge', 'wedding', 'utility', 'auto', 'crime', 'add', 'vintage', 'course', 'calm', 'april'] |  
 | bip_39_word_space_1 | milk |  
 | bip_39_word_space_10 | milk relax badge wedding utility auto crime add vintage course |  

@@ -122,6 +122,18 @@ life
 water
 shine
 trick |  
+| bip_39_word_no_space_1 | else |  
+| bip_39_word_no_space_10 | elsesadantiqueexhaustshinelifewatershinetrickgroup |  
+| bip_39_word_no_space_11 | elsesadantiqueexhaustshinelifewatershinetrickgroupobscure |  
+| bip_39_word_no_space_12 | elsesadantiqueexhaustshinelifewatershinetrickgroupobscureatom |  
+| bip_39_word_no_space_2 | elsesad |  
+| bip_39_word_no_space_3 | elsesadantique |  
+| bip_39_word_no_space_4 | elsesadantiqueexhaust |  
+| bip_39_word_no_space_5 | elsesadantiqueexhaustshine |  
+| bip_39_word_no_space_6 | elsesadantiqueexhaustshinelife |  
+| bip_39_word_no_space_7 | elsesadantiqueexhaustshinelifewater |  
+| bip_39_word_no_space_8 | elsesadantiqueexhaustshinelifewatershine |  
+| bip_39_word_no_space_9 | elsesadantiqueexhaustshinelifewatershinetrick |  
 | bip_39_word_space_0 | ['else', 'sad', 'antique', 'exhaust', 'shine', 'life', 'water', 'shine', 'trick', 'group', 'obscure', 'atom'] |  
 | bip_39_word_space_1 | else |  
 | bip_39_word_space_10 | else sad antique exhaust shine life water shine trick group |  

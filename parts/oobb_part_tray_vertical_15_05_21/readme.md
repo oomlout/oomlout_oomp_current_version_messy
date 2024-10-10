@@ -122,6 +122,18 @@ endorse
 chief
 glory
 wagon |  
+| bip_39_word_no_space_1 | song |  
+| bip_39_word_no_space_10 | songfilecontrolexhibitwinterendorsechiefglorywagondivert |  
+| bip_39_word_no_space_11 | songfilecontrolexhibitwinterendorsechiefglorywagondivertpencil |  
+| bip_39_word_no_space_12 | songfilecontrolexhibitwinterendorsechiefglorywagondivertpencilarmy |  
+| bip_39_word_no_space_2 | songfile |  
+| bip_39_word_no_space_3 | songfilecontrol |  
+| bip_39_word_no_space_4 | songfilecontrolexhibit |  
+| bip_39_word_no_space_5 | songfilecontrolexhibitwinter |  
+| bip_39_word_no_space_6 | songfilecontrolexhibitwinterendorse |  
+| bip_39_word_no_space_7 | songfilecontrolexhibitwinterendorsechief |  
+| bip_39_word_no_space_8 | songfilecontrolexhibitwinterendorsechiefglory |  
+| bip_39_word_no_space_9 | songfilecontrolexhibitwinterendorsechiefglorywagon |  
 | bip_39_word_space_0 | ['song', 'file', 'control', 'exhibit', 'winter', 'endorse', 'chief', 'glory', 'wagon', 'divert', 'pencil', 'army'] |  
 | bip_39_word_space_1 | song |  
 | bip_39_word_space_10 | song file control exhibit winter endorse chief glory wagon divert |  

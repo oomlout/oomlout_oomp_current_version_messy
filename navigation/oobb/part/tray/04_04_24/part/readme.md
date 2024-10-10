@@ -122,6 +122,18 @@ canal
 describe
 random
 hawk |  
+| bip_39_word_no_space_1 | shadow |  
+| bip_39_word_no_space_10 | shadowsuchsisteraddictgluecanaldescriberandomhawkrecall |  
+| bip_39_word_no_space_11 | shadowsuchsisteraddictgluecanaldescriberandomhawkrecallvery |  
+| bip_39_word_no_space_12 | shadowsuchsisteraddictgluecanaldescriberandomhawkrecallveryalpha |  
+| bip_39_word_no_space_2 | shadowsuch |  
+| bip_39_word_no_space_3 | shadowsuchsister |  
+| bip_39_word_no_space_4 | shadowsuchsisteraddict |  
+| bip_39_word_no_space_5 | shadowsuchsisteraddictglue |  
+| bip_39_word_no_space_6 | shadowsuchsisteraddictgluecanal |  
+| bip_39_word_no_space_7 | shadowsuchsisteraddictgluecanaldescribe |  
+| bip_39_word_no_space_8 | shadowsuchsisteraddictgluecanaldescriberandom |  
+| bip_39_word_no_space_9 | shadowsuchsisteraddictgluecanaldescriberandomhawk |  
 | bip_39_word_space_0 | ['shadow', 'such', 'sister', 'addict', 'glue', 'canal', 'describe', 'random', 'hawk', 'recall', 'very', 'alpha'] |  
 | bip_39_word_space_1 | shadow |  
 | bip_39_word_space_10 | shadow such sister addict glue canal describe random hawk recall |  

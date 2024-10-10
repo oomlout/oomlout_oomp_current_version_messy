@@ -122,6 +122,18 @@ already
 hidden
 scheme
 fashion |  
+| bip_39_word_no_space_1 | gossip |  
+| bip_39_word_no_space_10 | gossipheadrefusebusychimneyalreadyhiddenschemefashionexpect |  
+| bip_39_word_no_space_11 | gossipheadrefusebusychimneyalreadyhiddenschemefashionexpectfocus |  
+| bip_39_word_no_space_12 | gossipheadrefusebusychimneyalreadyhiddenschemefashionexpectfocusacquire |  
+| bip_39_word_no_space_2 | gossiphead |  
+| bip_39_word_no_space_3 | gossipheadrefuse |  
+| bip_39_word_no_space_4 | gossipheadrefusebusy |  
+| bip_39_word_no_space_5 | gossipheadrefusebusychimney |  
+| bip_39_word_no_space_6 | gossipheadrefusebusychimneyalready |  
+| bip_39_word_no_space_7 | gossipheadrefusebusychimneyalreadyhidden |  
+| bip_39_word_no_space_8 | gossipheadrefusebusychimneyalreadyhiddenscheme |  
+| bip_39_word_no_space_9 | gossipheadrefusebusychimneyalreadyhiddenschemefashion |  
 | bip_39_word_space_0 | ['gossip', 'head', 'refuse', 'busy', 'chimney', 'already', 'hidden', 'scheme', 'fashion', 'expect', 'focus', 'acquire'] |  
 | bip_39_word_space_1 | gossip |  
 | bip_39_word_space_10 | gossip head refuse busy chimney already hidden scheme fashion expect |  

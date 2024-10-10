@@ -122,6 +122,18 @@ trumpet
 ancient
 sentence
 expire |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footglimpsequizorangehundredtrumpetancientsentenceexpiremember |  
+| bip_39_word_no_space_11 | footglimpsequizorangehundredtrumpetancientsentenceexpirememberwrite |  
+| bip_39_word_no_space_12 | footglimpsequizorangehundredtrumpetancientsentenceexpirememberwriteasthma |  
+| bip_39_word_no_space_2 | footglimpse |  
+| bip_39_word_no_space_3 | footglimpsequiz |  
+| bip_39_word_no_space_4 | footglimpsequizorange |  
+| bip_39_word_no_space_5 | footglimpsequizorangehundred |  
+| bip_39_word_no_space_6 | footglimpsequizorangehundredtrumpet |  
+| bip_39_word_no_space_7 | footglimpsequizorangehundredtrumpetancient |  
+| bip_39_word_no_space_8 | footglimpsequizorangehundredtrumpetancientsentence |  
+| bip_39_word_no_space_9 | footglimpsequizorangehundredtrumpetancientsentenceexpire |  
 | bip_39_word_space_0 | ['foot', 'glimpse', 'quiz', 'orange', 'hundred', 'trumpet', 'ancient', 'sentence', 'expire', 'member', 'write', 'asthma'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot glimpse quiz orange hundred trumpet ancient sentence expire member |  

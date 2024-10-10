@@ -122,6 +122,18 @@ trigger
 grid
 mixture
 need |  
+| bip_39_word_no_space_1 | brief |  
+| bip_39_word_no_space_10 | brieftoiletchargecoreallowtriggergridmixtureneedexchange |  
+| bip_39_word_no_space_11 | brieftoiletchargecoreallowtriggergridmixtureneedexchangeincrease |  
+| bip_39_word_no_space_12 | brieftoiletchargecoreallowtriggergridmixtureneedexchangeincreaseadvice |  
+| bip_39_word_no_space_2 | brieftoilet |  
+| bip_39_word_no_space_3 | brieftoiletcharge |  
+| bip_39_word_no_space_4 | brieftoiletchargecore |  
+| bip_39_word_no_space_5 | brieftoiletchargecoreallow |  
+| bip_39_word_no_space_6 | brieftoiletchargecoreallowtrigger |  
+| bip_39_word_no_space_7 | brieftoiletchargecoreallowtriggergrid |  
+| bip_39_word_no_space_8 | brieftoiletchargecoreallowtriggergridmixture |  
+| bip_39_word_no_space_9 | brieftoiletchargecoreallowtriggergridmixtureneed |  
 | bip_39_word_space_0 | ['brief', 'toilet', 'charge', 'core', 'allow', 'trigger', 'grid', 'mixture', 'need', 'exchange', 'increase', 'advice'] |  
 | bip_39_word_space_1 | brief |  
 | bip_39_word_space_10 | brief toilet charge core allow trigger grid mixture need exchange |  

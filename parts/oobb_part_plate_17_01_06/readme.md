@@ -122,6 +122,18 @@ olive
 tackle
 drill
 beauty |  
+| bip_39_word_no_space_1 | worry |  
+| bip_39_word_no_space_10 | worrycleverrathergoddesstreeolivetackledrillbeautyarctic |  
+| bip_39_word_no_space_11 | worrycleverrathergoddesstreeolivetackledrillbeautyarcticfetch |  
+| bip_39_word_no_space_12 | worrycleverrathergoddesstreeolivetackledrillbeautyarcticfetchagain |  
+| bip_39_word_no_space_2 | worryclever |  
+| bip_39_word_no_space_3 | worrycleverrather |  
+| bip_39_word_no_space_4 | worrycleverrathergoddess |  
+| bip_39_word_no_space_5 | worrycleverrathergoddesstree |  
+| bip_39_word_no_space_6 | worrycleverrathergoddesstreeolive |  
+| bip_39_word_no_space_7 | worrycleverrathergoddesstreeolivetackle |  
+| bip_39_word_no_space_8 | worrycleverrathergoddesstreeolivetackledrill |  
+| bip_39_word_no_space_9 | worrycleverrathergoddesstreeolivetackledrillbeauty |  
 | bip_39_word_space_0 | ['worry', 'clever', 'rather', 'goddess', 'tree', 'olive', 'tackle', 'drill', 'beauty', 'arctic', 'fetch', 'again'] |  
 | bip_39_word_space_1 | worry |  
 | bip_39_word_space_10 | worry clever rather goddess tree olive tackle drill beauty arctic |  

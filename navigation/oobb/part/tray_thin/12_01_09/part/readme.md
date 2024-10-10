@@ -122,6 +122,18 @@ remind
 angle
 measure
 wild |  
+| bip_39_word_no_space_1 | small |  
+| bip_39_word_no_space_10 | smallwingreasonstairsinfantremindanglemeasurewildembody |  
+| bip_39_word_no_space_11 | smallwingreasonstairsinfantremindanglemeasurewildembodyvenue |  
+| bip_39_word_no_space_12 | smallwingreasonstairsinfantremindanglemeasurewildembodyvenuearch |  
+| bip_39_word_no_space_2 | smallwing |  
+| bip_39_word_no_space_3 | smallwingreason |  
+| bip_39_word_no_space_4 | smallwingreasonstairs |  
+| bip_39_word_no_space_5 | smallwingreasonstairsinfant |  
+| bip_39_word_no_space_6 | smallwingreasonstairsinfantremind |  
+| bip_39_word_no_space_7 | smallwingreasonstairsinfantremindangle |  
+| bip_39_word_no_space_8 | smallwingreasonstairsinfantremindanglemeasure |  
+| bip_39_word_no_space_9 | smallwingreasonstairsinfantremindanglemeasurewild |  
 | bip_39_word_space_0 | ['small', 'wing', 'reason', 'stairs', 'infant', 'remind', 'angle', 'measure', 'wild', 'embody', 'venue', 'arch'] |  
 | bip_39_word_space_1 | small |  
 | bip_39_word_space_10 | small wing reason stairs infant remind angle measure wild embody |  

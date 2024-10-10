@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'brisk
   sea
 
   wrestle'
+bip_39_word_no_space_1: brisk
+bip_39_word_no_space_10: briskexistwinterareahappyerodeprotectseawrestlepurpose
+bip_39_word_no_space_11: briskexistwinterareahappyerodeprotectseawrestlepurposelearn
+bip_39_word_no_space_12: briskexistwinterareahappyerodeprotectseawrestlepurposelearnacid
+bip_39_word_no_space_2: briskexist
+bip_39_word_no_space_3: briskexistwinter
+bip_39_word_no_space_4: briskexistwinterarea
+bip_39_word_no_space_5: briskexistwinterareahappy
+bip_39_word_no_space_6: briskexistwinterareahappyerode
+bip_39_word_no_space_7: briskexistwinterareahappyerodeprotect
+bip_39_word_no_space_8: briskexistwinterareahappyerodeprotectsea
+bip_39_word_no_space_9: briskexistwinterareahappyerodeprotectseawrestle
 bip_39_word_space_0:
 - brisk
 - exist

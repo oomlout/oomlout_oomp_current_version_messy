@@ -122,6 +122,18 @@ pipe
 crime
 trade
 run |  
+| bip_39_word_no_space_1 | ignore |  
+| bip_39_word_no_space_10 | ignoretrulywidepandaobviouspipecrimetraderunswing |  
+| bip_39_word_no_space_11 | ignoretrulywidepandaobviouspipecrimetraderunswingskull |  
+| bip_39_word_no_space_12 | ignoretrulywidepandaobviouspipecrimetraderunswingskulladdict |  
+| bip_39_word_no_space_2 | ignoretruly |  
+| bip_39_word_no_space_3 | ignoretrulywide |  
+| bip_39_word_no_space_4 | ignoretrulywidepanda |  
+| bip_39_word_no_space_5 | ignoretrulywidepandaobvious |  
+| bip_39_word_no_space_6 | ignoretrulywidepandaobviouspipe |  
+| bip_39_word_no_space_7 | ignoretrulywidepandaobviouspipecrime |  
+| bip_39_word_no_space_8 | ignoretrulywidepandaobviouspipecrimetrade |  
+| bip_39_word_no_space_9 | ignoretrulywidepandaobviouspipecrimetraderun |  
 | bip_39_word_space_0 | ['ignore', 'truly', 'wide', 'panda', 'obvious', 'pipe', 'crime', 'trade', 'run', 'swing', 'skull', 'addict'] |  
 | bip_39_word_space_1 | ignore |  
 | bip_39_word_space_10 | ignore truly wide panda obvious pipe crime trade run swing |  

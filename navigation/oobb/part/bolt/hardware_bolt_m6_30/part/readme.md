@@ -122,6 +122,18 @@ profit
 state
 hawk
 shoe |  
+| bip_39_word_no_space_1 | drift |  
+| bip_39_word_no_space_10 | drifthugepricemagnetgalaxyprofitstatehawkshoeolive |  
+| bip_39_word_no_space_11 | drifthugepricemagnetgalaxyprofitstatehawkshoeolivekitchen |  
+| bip_39_word_no_space_12 | drifthugepricemagnetgalaxyprofitstatehawkshoeolivekitchenalpha |  
+| bip_39_word_no_space_2 | drifthuge |  
+| bip_39_word_no_space_3 | drifthugeprice |  
+| bip_39_word_no_space_4 | drifthugepricemagnet |  
+| bip_39_word_no_space_5 | drifthugepricemagnetgalaxy |  
+| bip_39_word_no_space_6 | drifthugepricemagnetgalaxyprofit |  
+| bip_39_word_no_space_7 | drifthugepricemagnetgalaxyprofitstate |  
+| bip_39_word_no_space_8 | drifthugepricemagnetgalaxyprofitstatehawk |  
+| bip_39_word_no_space_9 | drifthugepricemagnetgalaxyprofitstatehawkshoe |  
 | bip_39_word_space_0 | ['drift', 'huge', 'price', 'magnet', 'galaxy', 'profit', 'state', 'hawk', 'shoe', 'olive', 'kitchen', 'alpha'] |  
 | bip_39_word_space_1 | drift |  
 | bip_39_word_space_10 | drift huge price magnet galaxy profit state hawk shoe olive |  

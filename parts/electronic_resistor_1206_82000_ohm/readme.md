@@ -122,6 +122,18 @@ coin
 envelope
 base
 flight |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | desksalmontobaccodrumfallcoinenvelopebaseflightprize |  
+| bip_39_word_no_space_11 | desksalmontobaccodrumfallcoinenvelopebaseflightprizedirect |  
+| bip_39_word_no_space_12 | desksalmontobaccodrumfallcoinenvelopebaseflightprizedirectalien |  
+| bip_39_word_no_space_2 | desksalmon |  
+| bip_39_word_no_space_3 | desksalmontobacco |  
+| bip_39_word_no_space_4 | desksalmontobaccodrum |  
+| bip_39_word_no_space_5 | desksalmontobaccodrumfall |  
+| bip_39_word_no_space_6 | desksalmontobaccodrumfallcoin |  
+| bip_39_word_no_space_7 | desksalmontobaccodrumfallcoinenvelope |  
+| bip_39_word_no_space_8 | desksalmontobaccodrumfallcoinenvelopebase |  
+| bip_39_word_no_space_9 | desksalmontobaccodrumfallcoinenvelopebaseflight |  
 | bip_39_word_space_0 | ['desk', 'salmon', 'tobacco', 'drum', 'fall', 'coin', 'envelope', 'base', 'flight', 'prize', 'direct', 'alien'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk salmon tobacco drum fall coin envelope base flight prize |  

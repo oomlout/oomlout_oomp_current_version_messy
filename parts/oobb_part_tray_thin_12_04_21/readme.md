@@ -122,6 +122,18 @@ punch
 valve
 genuine
 spy |  
+| bip_39_word_no_space_1 | movie |  
+| bip_39_word_no_space_10 | moviehusbandcaptainbonusbecomepunchvalvegenuinespystone |  
+| bip_39_word_no_space_11 | moviehusbandcaptainbonusbecomepunchvalvegenuinespystonesqueeze |  
+| bip_39_word_no_space_12 | moviehusbandcaptainbonusbecomepunchvalvegenuinespystonesqueezeabsurd |  
+| bip_39_word_no_space_2 | moviehusband |  
+| bip_39_word_no_space_3 | moviehusbandcaptain |  
+| bip_39_word_no_space_4 | moviehusbandcaptainbonus |  
+| bip_39_word_no_space_5 | moviehusbandcaptainbonusbecome |  
+| bip_39_word_no_space_6 | moviehusbandcaptainbonusbecomepunch |  
+| bip_39_word_no_space_7 | moviehusbandcaptainbonusbecomepunchvalve |  
+| bip_39_word_no_space_8 | moviehusbandcaptainbonusbecomepunchvalvegenuine |  
+| bip_39_word_no_space_9 | moviehusbandcaptainbonusbecomepunchvalvegenuinespy |  
 | bip_39_word_space_0 | ['movie', 'husband', 'captain', 'bonus', 'become', 'punch', 'valve', 'genuine', 'spy', 'stone', 'squeeze', 'absurd'] |  
 | bip_39_word_space_1 | movie |  
 | bip_39_word_space_10 | movie husband captain bonus become punch valve genuine spy stone |  

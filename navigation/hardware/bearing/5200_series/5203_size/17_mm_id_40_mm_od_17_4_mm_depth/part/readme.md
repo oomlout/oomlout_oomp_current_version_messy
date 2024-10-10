@@ -122,6 +122,18 @@ replace
 improve
 weekend
 bullet |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletside |  
+| bip_39_word_no_space_11 | matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletsideaverage |  
+| bip_39_word_no_space_12 | matchpurchasegruntsatisfymidnightreplaceimproveweekendbulletsideaverageauction |  
+| bip_39_word_no_space_2 | matchpurchase |  
+| bip_39_word_no_space_3 | matchpurchasegrunt |  
+| bip_39_word_no_space_4 | matchpurchasegruntsatisfy |  
+| bip_39_word_no_space_5 | matchpurchasegruntsatisfymidnight |  
+| bip_39_word_no_space_6 | matchpurchasegruntsatisfymidnightreplace |  
+| bip_39_word_no_space_7 | matchpurchasegruntsatisfymidnightreplaceimprove |  
+| bip_39_word_no_space_8 | matchpurchasegruntsatisfymidnightreplaceimproveweekend |  
+| bip_39_word_no_space_9 | matchpurchasegruntsatisfymidnightreplaceimproveweekendbullet |  
 | bip_39_word_space_0 | ['match', 'purchase', 'grunt', 'satisfy', 'midnight', 'replace', 'improve', 'weekend', 'bullet', 'side', 'average', 'auction'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match purchase grunt satisfy midnight replace improve weekend bullet side |  

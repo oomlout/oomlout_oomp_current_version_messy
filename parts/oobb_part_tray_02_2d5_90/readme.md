@@ -122,6 +122,18 @@ twelve
 fame
 old
 bulb |  
+| bip_39_word_no_space_1 | sunset |  
+| bip_39_word_no_space_10 | sunsetsilentnomineecraterexiletwelvefameoldbulbblur |  
+| bip_39_word_no_space_11 | sunsetsilentnomineecraterexiletwelvefameoldbulbblurtrade |  
+| bip_39_word_no_space_12 | sunsetsilentnomineecraterexiletwelvefameoldbulbblurtradeairport |  
+| bip_39_word_no_space_2 | sunsetsilent |  
+| bip_39_word_no_space_3 | sunsetsilentnominee |  
+| bip_39_word_no_space_4 | sunsetsilentnomineecrater |  
+| bip_39_word_no_space_5 | sunsetsilentnomineecraterexile |  
+| bip_39_word_no_space_6 | sunsetsilentnomineecraterexiletwelve |  
+| bip_39_word_no_space_7 | sunsetsilentnomineecraterexiletwelvefame |  
+| bip_39_word_no_space_8 | sunsetsilentnomineecraterexiletwelvefameold |  
+| bip_39_word_no_space_9 | sunsetsilentnomineecraterexiletwelvefameoldbulb |  
 | bip_39_word_space_0 | ['sunset', 'silent', 'nominee', 'crater', 'exile', 'twelve', 'fame', 'old', 'bulb', 'blur', 'trade', 'airport'] |  
 | bip_39_word_space_1 | sunset |  
 | bip_39_word_space_10 | sunset silent nominee crater exile twelve fame old bulb blur |  

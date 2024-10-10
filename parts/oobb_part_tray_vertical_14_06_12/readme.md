@@ -122,6 +122,18 @@ session
 issue
 option
 away |  
+| bip_39_word_no_space_1 | purse |  
+| bip_39_word_no_space_10 | pursespoilsiegescrubpetsessionissueoptionawayservice |  
+| bip_39_word_no_space_11 | pursespoilsiegescrubpetsessionissueoptionawayservicecrystal |  
+| bip_39_word_no_space_12 | pursespoilsiegescrubpetsessionissueoptionawayservicecrystalangry |  
+| bip_39_word_no_space_2 | pursespoil |  
+| bip_39_word_no_space_3 | pursespoilsiege |  
+| bip_39_word_no_space_4 | pursespoilsiegescrub |  
+| bip_39_word_no_space_5 | pursespoilsiegescrubpet |  
+| bip_39_word_no_space_6 | pursespoilsiegescrubpetsession |  
+| bip_39_word_no_space_7 | pursespoilsiegescrubpetsessionissue |  
+| bip_39_word_no_space_8 | pursespoilsiegescrubpetsessionissueoption |  
+| bip_39_word_no_space_9 | pursespoilsiegescrubpetsessionissueoptionaway |  
 | bip_39_word_space_0 | ['purse', 'spoil', 'siege', 'scrub', 'pet', 'session', 'issue', 'option', 'away', 'service', 'crystal', 'angry'] |  
 | bip_39_word_space_1 | purse |  
 | bip_39_word_space_10 | purse spoil siege scrub pet session issue option away service |  

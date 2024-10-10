@@ -122,6 +122,18 @@ silver
 father
 urge
 master |  
+| bip_39_word_no_space_1 | need |  
+| bip_39_word_no_space_10 | needangryshellelitespicesilverfatherurgemasterrepeat |  
+| bip_39_word_no_space_11 | needangryshellelitespicesilverfatherurgemasterrepeatfever |  
+| bip_39_word_no_space_12 | needangryshellelitespicesilverfatherurgemasterrepeatfeveraudit |  
+| bip_39_word_no_space_2 | needangry |  
+| bip_39_word_no_space_3 | needangryshell |  
+| bip_39_word_no_space_4 | needangryshellelite |  
+| bip_39_word_no_space_5 | needangryshellelitespice |  
+| bip_39_word_no_space_6 | needangryshellelitespicesilver |  
+| bip_39_word_no_space_7 | needangryshellelitespicesilverfather |  
+| bip_39_word_no_space_8 | needangryshellelitespicesilverfatherurge |  
+| bip_39_word_no_space_9 | needangryshellelitespicesilverfatherurgemaster |  
 | bip_39_word_space_0 | ['need', 'angry', 'shell', 'elite', 'spice', 'silver', 'father', 'urge', 'master', 'repeat', 'fever', 'audit'] |  
 | bip_39_word_space_1 | need |  
 | bip_39_word_space_10 | need angry shell elite spice silver father urge master repeat |  

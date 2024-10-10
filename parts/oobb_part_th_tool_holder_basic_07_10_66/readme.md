@@ -122,6 +122,18 @@ dish
 sibling
 capable
 wagon |  
+| bip_39_word_no_space_1 | six |  
+| bip_39_word_no_space_10 | sixmirrorcubeparentpolicedishsiblingcapablewagongarment |  
+| bip_39_word_no_space_11 | sixmirrorcubeparentpolicedishsiblingcapablewagongarmentreflect |  
+| bip_39_word_no_space_12 | sixmirrorcubeparentpolicedishsiblingcapablewagongarmentreflectanger |  
+| bip_39_word_no_space_2 | sixmirror |  
+| bip_39_word_no_space_3 | sixmirrorcube |  
+| bip_39_word_no_space_4 | sixmirrorcubeparent |  
+| bip_39_word_no_space_5 | sixmirrorcubeparentpolice |  
+| bip_39_word_no_space_6 | sixmirrorcubeparentpolicedish |  
+| bip_39_word_no_space_7 | sixmirrorcubeparentpolicedishsibling |  
+| bip_39_word_no_space_8 | sixmirrorcubeparentpolicedishsiblingcapable |  
+| bip_39_word_no_space_9 | sixmirrorcubeparentpolicedishsiblingcapablewagon |  
 | bip_39_word_space_0 | ['six', 'mirror', 'cube', 'parent', 'police', 'dish', 'sibling', 'capable', 'wagon', 'garment', 'reflect', 'anger'] |  
 | bip_39_word_space_1 | six |  
 | bip_39_word_space_10 | six mirror cube parent police dish sibling capable wagon garment |  

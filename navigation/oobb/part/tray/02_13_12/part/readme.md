@@ -122,6 +122,18 @@ trip
 whale
 danger
 forest |  
+| bip_39_word_no_space_1 | begin |  
+| bip_39_word_no_space_10 | begingreenbeautysessiontoetripwhaledangerforestyard |  
+| bip_39_word_no_space_11 | begingreenbeautysessiontoetripwhaledangerforestyardshort |  
+| bip_39_word_no_space_12 | begingreenbeautysessiontoetripwhaledangerforestyardshortarrange |  
+| bip_39_word_no_space_2 | begingreen |  
+| bip_39_word_no_space_3 | begingreenbeauty |  
+| bip_39_word_no_space_4 | begingreenbeautysession |  
+| bip_39_word_no_space_5 | begingreenbeautysessiontoe |  
+| bip_39_word_no_space_6 | begingreenbeautysessiontoetrip |  
+| bip_39_word_no_space_7 | begingreenbeautysessiontoetripwhale |  
+| bip_39_word_no_space_8 | begingreenbeautysessiontoetripwhaledanger |  
+| bip_39_word_no_space_9 | begingreenbeautysessiontoetripwhaledangerforest |  
 | bip_39_word_space_0 | ['begin', 'green', 'beauty', 'session', 'toe', 'trip', 'whale', 'danger', 'forest', 'yard', 'short', 'arrange'] |  
 | bip_39_word_space_1 | begin |  
 | bip_39_word_space_10 | begin green beauty session toe trip whale danger forest yard |  

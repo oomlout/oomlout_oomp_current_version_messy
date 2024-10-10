@@ -122,6 +122,18 @@ ski
 hurry
 humble
 erosion |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasonclickpoolpetflushskihurryhumbleerosionnovel |  
+| bip_39_word_no_space_11 | seasonclickpoolpetflushskihurryhumbleerosionnovelalbum |  
+| bip_39_word_no_space_12 | seasonclickpoolpetflushskihurryhumbleerosionnovelalbumaisle |  
+| bip_39_word_no_space_2 | seasonclick |  
+| bip_39_word_no_space_3 | seasonclickpool |  
+| bip_39_word_no_space_4 | seasonclickpoolpet |  
+| bip_39_word_no_space_5 | seasonclickpoolpetflush |  
+| bip_39_word_no_space_6 | seasonclickpoolpetflushski |  
+| bip_39_word_no_space_7 | seasonclickpoolpetflushskihurry |  
+| bip_39_word_no_space_8 | seasonclickpoolpetflushskihurryhumble |  
+| bip_39_word_no_space_9 | seasonclickpoolpetflushskihurryhumbleerosion |  
 | bip_39_word_space_0 | ['season', 'click', 'pool', 'pet', 'flush', 'ski', 'hurry', 'humble', 'erosion', 'novel', 'album', 'aisle'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season click pool pet flush ski hurry humble erosion novel |  

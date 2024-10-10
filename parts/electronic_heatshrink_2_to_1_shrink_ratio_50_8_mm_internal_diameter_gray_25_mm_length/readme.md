@@ -122,6 +122,18 @@ panda
 miss
 river
 measure |  
+| bip_39_word_no_space_1 | brain |  
+| bip_39_word_no_space_10 | brainchildcousintherepublicpandamissrivermeasurefancy |  
+| bip_39_word_no_space_11 | brainchildcousintherepublicpandamissrivermeasurefancyhungry |  
+| bip_39_word_no_space_12 | brainchildcousintherepublicpandamissrivermeasurefancyhungryabsurd |  
+| bip_39_word_no_space_2 | brainchild |  
+| bip_39_word_no_space_3 | brainchildcousin |  
+| bip_39_word_no_space_4 | brainchildcousinthere |  
+| bip_39_word_no_space_5 | brainchildcousintherepublic |  
+| bip_39_word_no_space_6 | brainchildcousintherepublicpanda |  
+| bip_39_word_no_space_7 | brainchildcousintherepublicpandamiss |  
+| bip_39_word_no_space_8 | brainchildcousintherepublicpandamissriver |  
+| bip_39_word_no_space_9 | brainchildcousintherepublicpandamissrivermeasure |  
 | bip_39_word_space_0 | ['brain', 'child', 'cousin', 'there', 'public', 'panda', 'miss', 'river', 'measure', 'fancy', 'hungry', 'absurd'] |  
 | bip_39_word_space_1 | brain |  
 | bip_39_word_space_10 | brain child cousin there public panda miss river measure fancy |  

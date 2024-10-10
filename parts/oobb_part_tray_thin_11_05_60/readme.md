@@ -122,6 +122,18 @@ good
 child
 elite
 utility |  
+| bip_39_word_no_space_1 | where |  
+| bip_39_word_no_space_10 | wheresparetaxihintmelodygoodchildeliteutilitystill |  
+| bip_39_word_no_space_11 | wheresparetaxihintmelodygoodchildeliteutilitystilllater |  
+| bip_39_word_no_space_12 | wheresparetaxihintmelodygoodchildeliteutilitystilllaterathlete |  
+| bip_39_word_no_space_2 | wherespare |  
+| bip_39_word_no_space_3 | wheresparetaxi |  
+| bip_39_word_no_space_4 | wheresparetaxihint |  
+| bip_39_word_no_space_5 | wheresparetaxihintmelody |  
+| bip_39_word_no_space_6 | wheresparetaxihintmelodygood |  
+| bip_39_word_no_space_7 | wheresparetaxihintmelodygoodchild |  
+| bip_39_word_no_space_8 | wheresparetaxihintmelodygoodchildelite |  
+| bip_39_word_no_space_9 | wheresparetaxihintmelodygoodchildeliteutility |  
 | bip_39_word_space_0 | ['where', 'spare', 'taxi', 'hint', 'melody', 'good', 'child', 'elite', 'utility', 'still', 'later', 'athlete'] |  
 | bip_39_word_space_1 | where |  
 | bip_39_word_space_10 | where spare taxi hint melody good child elite utility still |  

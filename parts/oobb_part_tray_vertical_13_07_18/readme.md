@@ -122,6 +122,18 @@ small
 rebel
 bone
 actual |  
+| bip_39_word_no_space_1 | guitar |  
+| bip_39_word_no_space_10 | guitarbadgetableundobringsmallrebelboneactualplastic |  
+| bip_39_word_no_space_11 | guitarbadgetableundobringsmallrebelboneactualplasticvirtual |  
+| bip_39_word_no_space_12 | guitarbadgetableundobringsmallrebelboneactualplasticvirtualapart |  
+| bip_39_word_no_space_2 | guitarbadge |  
+| bip_39_word_no_space_3 | guitarbadgetable |  
+| bip_39_word_no_space_4 | guitarbadgetableundo |  
+| bip_39_word_no_space_5 | guitarbadgetableundobring |  
+| bip_39_word_no_space_6 | guitarbadgetableundobringsmall |  
+| bip_39_word_no_space_7 | guitarbadgetableundobringsmallrebel |  
+| bip_39_word_no_space_8 | guitarbadgetableundobringsmallrebelbone |  
+| bip_39_word_no_space_9 | guitarbadgetableundobringsmallrebelboneactual |  
 | bip_39_word_space_0 | ['guitar', 'badge', 'table', 'undo', 'bring', 'small', 'rebel', 'bone', 'actual', 'plastic', 'virtual', 'apart'] |  
 | bip_39_word_space_1 | guitar |  
 | bip_39_word_space_10 | guitar badge table undo bring small rebel bone actual plastic |  

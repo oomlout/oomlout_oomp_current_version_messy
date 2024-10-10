@@ -122,6 +122,18 @@ fun
 rent
 gasp
 quick |  
+| bip_39_word_no_space_1 | network |  
+| bip_39_word_no_space_10 | networkouterfitbroomcompanyfunrentgaspquickyellow |  
+| bip_39_word_no_space_11 | networkouterfitbroomcompanyfunrentgaspquickyellowplace |  
+| bip_39_word_no_space_12 | networkouterfitbroomcompanyfunrentgaspquickyellowplaceancient |  
+| bip_39_word_no_space_2 | networkouter |  
+| bip_39_word_no_space_3 | networkouterfit |  
+| bip_39_word_no_space_4 | networkouterfitbroom |  
+| bip_39_word_no_space_5 | networkouterfitbroomcompany |  
+| bip_39_word_no_space_6 | networkouterfitbroomcompanyfun |  
+| bip_39_word_no_space_7 | networkouterfitbroomcompanyfunrent |  
+| bip_39_word_no_space_8 | networkouterfitbroomcompanyfunrentgasp |  
+| bip_39_word_no_space_9 | networkouterfitbroomcompanyfunrentgaspquick |  
 | bip_39_word_space_0 | ['network', 'outer', 'fit', 'broom', 'company', 'fun', 'rent', 'gasp', 'quick', 'yellow', 'place', 'ancient'] |  
 | bip_39_word_space_1 | network |  
 | bip_39_word_space_10 | network outer fit broom company fun rent gasp quick yellow |  

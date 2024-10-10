@@ -122,6 +122,18 @@ desert
 visual
 appear
 silver |  
+| bip_39_word_no_space_1 | copper |  
+| bip_39_word_no_space_10 | copperancientlegendcagealcoholdesertvisualappearsilvermind |  
+| bip_39_word_no_space_11 | copperancientlegendcagealcoholdesertvisualappearsilverminddiagram |  
+| bip_39_word_no_space_12 | copperancientlegendcagealcoholdesertvisualappearsilverminddiagramacoustic |  
+| bip_39_word_no_space_2 | copperancient |  
+| bip_39_word_no_space_3 | copperancientlegend |  
+| bip_39_word_no_space_4 | copperancientlegendcage |  
+| bip_39_word_no_space_5 | copperancientlegendcagealcohol |  
+| bip_39_word_no_space_6 | copperancientlegendcagealcoholdesert |  
+| bip_39_word_no_space_7 | copperancientlegendcagealcoholdesertvisual |  
+| bip_39_word_no_space_8 | copperancientlegendcagealcoholdesertvisualappear |  
+| bip_39_word_no_space_9 | copperancientlegendcagealcoholdesertvisualappearsilver |  
 | bip_39_word_space_0 | ['copper', 'ancient', 'legend', 'cage', 'alcohol', 'desert', 'visual', 'appear', 'silver', 'mind', 'diagram', 'acoustic'] |  
 | bip_39_word_space_1 | copper |  
 | bip_39_word_space_10 | copper ancient legend cage alcohol desert visual appear silver mind |  

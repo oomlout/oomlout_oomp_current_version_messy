@@ -122,6 +122,18 @@ risk
 legal
 poet
 inmate |  
+| bip_39_word_no_space_1 | correct |  
+| bip_39_word_no_space_10 | correctarmynervelettermarginrisklegalpoetinmategown |  
+| bip_39_word_no_space_11 | correctarmynervelettermarginrisklegalpoetinmategownequal |  
+| bip_39_word_no_space_12 | correctarmynervelettermarginrisklegalpoetinmategownequalannual |  
+| bip_39_word_no_space_2 | correctarmy |  
+| bip_39_word_no_space_3 | correctarmynerve |  
+| bip_39_word_no_space_4 | correctarmynerveletter |  
+| bip_39_word_no_space_5 | correctarmynervelettermargin |  
+| bip_39_word_no_space_6 | correctarmynervelettermarginrisk |  
+| bip_39_word_no_space_7 | correctarmynervelettermarginrisklegal |  
+| bip_39_word_no_space_8 | correctarmynervelettermarginrisklegalpoet |  
+| bip_39_word_no_space_9 | correctarmynervelettermarginrisklegalpoetinmate |  
 | bip_39_word_space_0 | ['correct', 'army', 'nerve', 'letter', 'margin', 'risk', 'legal', 'poet', 'inmate', 'gown', 'equal', 'annual'] |  
 | bip_39_word_space_1 | correct |  
 | bip_39_word_space_10 | correct army nerve letter margin risk legal poet inmate gown |  

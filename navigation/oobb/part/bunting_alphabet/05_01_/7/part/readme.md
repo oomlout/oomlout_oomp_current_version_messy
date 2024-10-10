@@ -122,6 +122,18 @@ repeat
 like
 wonder
 essay |  
+| bip_39_word_no_space_1 | similar |  
+| bip_39_word_no_space_10 | similarkissagentcoileffortrepeatlikewonderessayabout |  
+| bip_39_word_no_space_11 | similarkissagentcoileffortrepeatlikewonderessayaboutbeef |  
+| bip_39_word_no_space_12 | similarkissagentcoileffortrepeatlikewonderessayaboutbeefanchor |  
+| bip_39_word_no_space_2 | similarkiss |  
+| bip_39_word_no_space_3 | similarkissagent |  
+| bip_39_word_no_space_4 | similarkissagentcoil |  
+| bip_39_word_no_space_5 | similarkissagentcoileffort |  
+| bip_39_word_no_space_6 | similarkissagentcoileffortrepeat |  
+| bip_39_word_no_space_7 | similarkissagentcoileffortrepeatlike |  
+| bip_39_word_no_space_8 | similarkissagentcoileffortrepeatlikewonder |  
+| bip_39_word_no_space_9 | similarkissagentcoileffortrepeatlikewonderessay |  
 | bip_39_word_space_0 | ['similar', 'kiss', 'agent', 'coil', 'effort', 'repeat', 'like', 'wonder', 'essay', 'about', 'beef', 'anchor'] |  
 | bip_39_word_space_1 | similar |  
 | bip_39_word_space_10 | similar kiss agent coil effort repeat like wonder essay about |  

@@ -122,6 +122,18 @@ people
 run
 lobster
 travel |  
+| bip_39_word_no_space_1 | rabbit |  
+| bip_39_word_no_space_10 | rabbituncleverbothercrazypeoplerunlobstertravelbuffalo |  
+| bip_39_word_no_space_11 | rabbituncleverbothercrazypeoplerunlobstertravelbuffalohair |  
+| bip_39_word_no_space_12 | rabbituncleverbothercrazypeoplerunlobstertravelbuffalohairair |  
+| bip_39_word_no_space_2 | rabbituncle |  
+| bip_39_word_no_space_3 | rabbituncleverb |  
+| bip_39_word_no_space_4 | rabbituncleverbother |  
+| bip_39_word_no_space_5 | rabbituncleverbothercrazy |  
+| bip_39_word_no_space_6 | rabbituncleverbothercrazypeople |  
+| bip_39_word_no_space_7 | rabbituncleverbothercrazypeoplerun |  
+| bip_39_word_no_space_8 | rabbituncleverbothercrazypeoplerunlobster |  
+| bip_39_word_no_space_9 | rabbituncleverbothercrazypeoplerunlobstertravel |  
 | bip_39_word_space_0 | ['rabbit', 'uncle', 'verb', 'other', 'crazy', 'people', 'run', 'lobster', 'travel', 'buffalo', 'hair', 'air'] |  
 | bip_39_word_space_1 | rabbit |  
 | bip_39_word_space_10 | rabbit uncle verb other crazy people run lobster travel buffalo |  

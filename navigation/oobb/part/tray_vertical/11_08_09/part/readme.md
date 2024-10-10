@@ -122,6 +122,18 @@ forget
 volcano
 uncle
 second |  
+| bip_39_word_no_space_1 | limb |  
+| bip_39_word_no_space_10 | limbcongressseedonlinefrontforgetvolcanounclesecondsea |  
+| bip_39_word_no_space_11 | limbcongressseedonlinefrontforgetvolcanounclesecondseaask |  
+| bip_39_word_no_space_12 | limbcongressseedonlinefrontforgetvolcanounclesecondseaaskalready |  
+| bip_39_word_no_space_2 | limbcongress |  
+| bip_39_word_no_space_3 | limbcongressseed |  
+| bip_39_word_no_space_4 | limbcongressseedonline |  
+| bip_39_word_no_space_5 | limbcongressseedonlinefront |  
+| bip_39_word_no_space_6 | limbcongressseedonlinefrontforget |  
+| bip_39_word_no_space_7 | limbcongressseedonlinefrontforgetvolcano |  
+| bip_39_word_no_space_8 | limbcongressseedonlinefrontforgetvolcanouncle |  
+| bip_39_word_no_space_9 | limbcongressseedonlinefrontforgetvolcanounclesecond |  
 | bip_39_word_space_0 | ['limb', 'congress', 'seed', 'online', 'front', 'forget', 'volcano', 'uncle', 'second', 'sea', 'ask', 'already'] |  
 | bip_39_word_space_1 | limb |  
 | bip_39_word_space_10 | limb congress seed online front forget volcano uncle second sea |  

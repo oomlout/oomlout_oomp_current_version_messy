@@ -122,6 +122,18 @@ future
 drive
 skin
 promote |  
+| bip_39_word_no_space_1 | decrease |  
+| bip_39_word_no_space_10 | decreasetragicsaucecrushjuicefuturedriveskinpromotemonkey |  
+| bip_39_word_no_space_11 | decreasetragicsaucecrushjuicefuturedriveskinpromotemonkeymain |  
+| bip_39_word_no_space_12 | decreasetragicsaucecrushjuicefuturedriveskinpromotemonkeymainanalyst |  
+| bip_39_word_no_space_2 | decreasetragic |  
+| bip_39_word_no_space_3 | decreasetragicsauce |  
+| bip_39_word_no_space_4 | decreasetragicsaucecrush |  
+| bip_39_word_no_space_5 | decreasetragicsaucecrushjuice |  
+| bip_39_word_no_space_6 | decreasetragicsaucecrushjuicefuture |  
+| bip_39_word_no_space_7 | decreasetragicsaucecrushjuicefuturedrive |  
+| bip_39_word_no_space_8 | decreasetragicsaucecrushjuicefuturedriveskin |  
+| bip_39_word_no_space_9 | decreasetragicsaucecrushjuicefuturedriveskinpromote |  
 | bip_39_word_space_0 | ['decrease', 'tragic', 'sauce', 'crush', 'juice', 'future', 'drive', 'skin', 'promote', 'monkey', 'main', 'analyst'] |  
 | bip_39_word_space_1 | decrease |  
 | bip_39_word_space_10 | decrease tragic sauce crush juice future drive skin promote monkey |  

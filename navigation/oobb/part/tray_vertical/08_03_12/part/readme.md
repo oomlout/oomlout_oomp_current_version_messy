@@ -122,6 +122,18 @@ bring
 melody
 field
 purity |  
+| bip_39_word_no_space_1 | flip |  
+| bip_39_word_no_space_10 | flipconnectonlycuteshrugbringmelodyfieldpurityprefer |  
+| bip_39_word_no_space_11 | flipconnectonlycuteshrugbringmelodyfieldpuritypreferconsider |  
+| bip_39_word_no_space_12 | flipconnectonlycuteshrugbringmelodyfieldpuritypreferconsiderahead |  
+| bip_39_word_no_space_2 | flipconnect |  
+| bip_39_word_no_space_3 | flipconnectonly |  
+| bip_39_word_no_space_4 | flipconnectonlycute |  
+| bip_39_word_no_space_5 | flipconnectonlycuteshrug |  
+| bip_39_word_no_space_6 | flipconnectonlycuteshrugbring |  
+| bip_39_word_no_space_7 | flipconnectonlycuteshrugbringmelody |  
+| bip_39_word_no_space_8 | flipconnectonlycuteshrugbringmelodyfield |  
+| bip_39_word_no_space_9 | flipconnectonlycuteshrugbringmelodyfieldpurity |  
 | bip_39_word_space_0 | ['flip', 'connect', 'only', 'cute', 'shrug', 'bring', 'melody', 'field', 'purity', 'prefer', 'consider', 'ahead'] |  
 | bip_39_word_space_1 | flip |  
 | bip_39_word_space_10 | flip connect only cute shrug bring melody field purity prefer |  

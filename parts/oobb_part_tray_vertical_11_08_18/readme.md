@@ -122,6 +122,18 @@ output
 faculty
 moon
 word |  
+| bip_39_word_no_space_1 | myth |  
+| bip_39_word_no_space_10 | mythcrypurityspacerudeoutputfacultymoonwordpiano |  
+| bip_39_word_no_space_11 | mythcrypurityspacerudeoutputfacultymoonwordpianodial |  
+| bip_39_word_no_space_12 | mythcrypurityspacerudeoutputfacultymoonwordpianodialacid |  
+| bip_39_word_no_space_2 | mythcry |  
+| bip_39_word_no_space_3 | mythcrypurity |  
+| bip_39_word_no_space_4 | mythcrypurityspace |  
+| bip_39_word_no_space_5 | mythcrypurityspacerude |  
+| bip_39_word_no_space_6 | mythcrypurityspacerudeoutput |  
+| bip_39_word_no_space_7 | mythcrypurityspacerudeoutputfaculty |  
+| bip_39_word_no_space_8 | mythcrypurityspacerudeoutputfacultymoon |  
+| bip_39_word_no_space_9 | mythcrypurityspacerudeoutputfacultymoonword |  
 | bip_39_word_space_0 | ['myth', 'cry', 'purity', 'space', 'rude', 'output', 'faculty', 'moon', 'word', 'piano', 'dial', 'acid'] |  
 | bip_39_word_space_1 | myth |  
 | bip_39_word_space_10 | myth cry purity space rude output faculty moon word piano |  

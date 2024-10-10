@@ -122,6 +122,18 @@ angle
 churn
 evolve
 index |  
+| bip_39_word_no_space_1 | enable |  
+| bip_39_word_no_space_10 | enableketchupnowwaveoperaanglechurnevolveindexjealous |  
+| bip_39_word_no_space_11 | enableketchupnowwaveoperaanglechurnevolveindexjealouspanther |  
+| bip_39_word_no_space_12 | enableketchupnowwaveoperaanglechurnevolveindexjealouspantherauto |  
+| bip_39_word_no_space_2 | enableketchup |  
+| bip_39_word_no_space_3 | enableketchupnow |  
+| bip_39_word_no_space_4 | enableketchupnowwave |  
+| bip_39_word_no_space_5 | enableketchupnowwaveopera |  
+| bip_39_word_no_space_6 | enableketchupnowwaveoperaangle |  
+| bip_39_word_no_space_7 | enableketchupnowwaveoperaanglechurn |  
+| bip_39_word_no_space_8 | enableketchupnowwaveoperaanglechurnevolve |  
+| bip_39_word_no_space_9 | enableketchupnowwaveoperaanglechurnevolveindex |  
 | bip_39_word_space_0 | ['enable', 'ketchup', 'now', 'wave', 'opera', 'angle', 'churn', 'evolve', 'index', 'jealous', 'panther', 'auto'] |  
 | bip_39_word_space_1 | enable |  
 | bip_39_word_space_10 | enable ketchup now wave opera angle churn evolve index jealous |  

@@ -122,6 +122,18 @@ illness
 final
 half
 frame |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolcameratargetmodelsadnessillnessfinalhalfframeguilt |  
+| bip_39_word_no_space_11 | patrolcameratargetmodelsadnessillnessfinalhalfframeguiltbulk |  
+| bip_39_word_no_space_12 | patrolcameratargetmodelsadnessillnessfinalhalfframeguiltbulkanswer |  
+| bip_39_word_no_space_2 | patrolcamera |  
+| bip_39_word_no_space_3 | patrolcameratarget |  
+| bip_39_word_no_space_4 | patrolcameratargetmodel |  
+| bip_39_word_no_space_5 | patrolcameratargetmodelsadness |  
+| bip_39_word_no_space_6 | patrolcameratargetmodelsadnessillness |  
+| bip_39_word_no_space_7 | patrolcameratargetmodelsadnessillnessfinal |  
+| bip_39_word_no_space_8 | patrolcameratargetmodelsadnessillnessfinalhalf |  
+| bip_39_word_no_space_9 | patrolcameratargetmodelsadnessillnessfinalhalfframe |  
 | bip_39_word_space_0 | ['patrol', 'camera', 'target', 'model', 'sadness', 'illness', 'final', 'half', 'frame', 'guilt', 'bulk', 'answer'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol camera target model sadness illness final half frame guilt |  

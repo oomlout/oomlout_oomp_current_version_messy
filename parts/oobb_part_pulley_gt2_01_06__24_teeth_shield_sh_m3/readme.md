@@ -122,6 +122,18 @@ luggage
 animal
 fancy
 swift |  
+| bip_39_word_no_space_1 | blast |  
+| bip_39_word_no_space_10 | blastobligepitchvintagespikeluggageanimalfancyswiftdeliver |  
+| bip_39_word_no_space_11 | blastobligepitchvintagespikeluggageanimalfancyswiftdeliverwhen |  
+| bip_39_word_no_space_12 | blastobligepitchvintagespikeluggageanimalfancyswiftdeliverwhenagain |  
+| bip_39_word_no_space_2 | blastoblige |  
+| bip_39_word_no_space_3 | blastobligepitch |  
+| bip_39_word_no_space_4 | blastobligepitchvintage |  
+| bip_39_word_no_space_5 | blastobligepitchvintagespike |  
+| bip_39_word_no_space_6 | blastobligepitchvintagespikeluggage |  
+| bip_39_word_no_space_7 | blastobligepitchvintagespikeluggageanimal |  
+| bip_39_word_no_space_8 | blastobligepitchvintagespikeluggageanimalfancy |  
+| bip_39_word_no_space_9 | blastobligepitchvintagespikeluggageanimalfancyswift |  
 | bip_39_word_space_0 | ['blast', 'oblige', 'pitch', 'vintage', 'spike', 'luggage', 'animal', 'fancy', 'swift', 'deliver', 'when', 'again'] |  
 | bip_39_word_space_1 | blast |  
 | bip_39_word_space_10 | blast oblige pitch vintage spike luggage animal fancy swift deliver |  

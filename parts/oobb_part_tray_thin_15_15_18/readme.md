@@ -122,6 +122,18 @@ spatial
 rug
 unfair
 pumpkin |  
+| bip_39_word_no_space_1 | attitude |  
+| bip_39_word_no_space_10 | attitudefitringcargobossspatialrugunfairpumpkinfox |  
+| bip_39_word_no_space_11 | attitudefitringcargobossspatialrugunfairpumpkinfoxbegin |  
+| bip_39_word_no_space_12 | attitudefitringcargobossspatialrugunfairpumpkinfoxbeginadult |  
+| bip_39_word_no_space_2 | attitudefit |  
+| bip_39_word_no_space_3 | attitudefitring |  
+| bip_39_word_no_space_4 | attitudefitringcargo |  
+| bip_39_word_no_space_5 | attitudefitringcargoboss |  
+| bip_39_word_no_space_6 | attitudefitringcargobossspatial |  
+| bip_39_word_no_space_7 | attitudefitringcargobossspatialrug |  
+| bip_39_word_no_space_8 | attitudefitringcargobossspatialrugunfair |  
+| bip_39_word_no_space_9 | attitudefitringcargobossspatialrugunfairpumpkin |  
 | bip_39_word_space_0 | ['attitude', 'fit', 'ring', 'cargo', 'boss', 'spatial', 'rug', 'unfair', 'pumpkin', 'fox', 'begin', 'adult'] |  
 | bip_39_word_space_1 | attitude |  
 | bip_39_word_space_10 | attitude fit ring cargo boss spatial rug unfair pumpkin fox |  

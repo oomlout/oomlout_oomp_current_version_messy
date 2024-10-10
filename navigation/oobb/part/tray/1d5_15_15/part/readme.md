@@ -122,6 +122,18 @@ dish
 remove
 inspire
 again |  
+| bip_39_word_no_space_1 | little |  
+| bip_39_word_no_space_10 | littleunawarecranecrunchcabindishremoveinspireagainvote |  
+| bip_39_word_no_space_11 | littleunawarecranecrunchcabindishremoveinspireagainvotepill |  
+| bip_39_word_no_space_12 | littleunawarecranecrunchcabindishremoveinspireagainvotepillacoustic |  
+| bip_39_word_no_space_2 | littleunaware |  
+| bip_39_word_no_space_3 | littleunawarecrane |  
+| bip_39_word_no_space_4 | littleunawarecranecrunch |  
+| bip_39_word_no_space_5 | littleunawarecranecrunchcabin |  
+| bip_39_word_no_space_6 | littleunawarecranecrunchcabindish |  
+| bip_39_word_no_space_7 | littleunawarecranecrunchcabindishremove |  
+| bip_39_word_no_space_8 | littleunawarecranecrunchcabindishremoveinspire |  
+| bip_39_word_no_space_9 | littleunawarecranecrunchcabindishremoveinspireagain |  
 | bip_39_word_space_0 | ['little', 'unaware', 'crane', 'crunch', 'cabin', 'dish', 'remove', 'inspire', 'again', 'vote', 'pill', 'acoustic'] |  
 | bip_39_word_space_1 | little |  
 | bip_39_word_space_10 | little unaware crane crunch cabin dish remove inspire again vote |  

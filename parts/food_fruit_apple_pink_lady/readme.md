@@ -122,6 +122,18 @@ imitate
 stem
 joke
 legal |  
+| bip_39_word_no_space_1 | wasp |  
+| bip_39_word_no_space_10 | waspdemandfatiguefiscalgrainimitatestemjokelegalordinary |  
+| bip_39_word_no_space_11 | waspdemandfatiguefiscalgrainimitatestemjokelegalordinarygown |  
+| bip_39_word_no_space_12 | waspdemandfatiguefiscalgrainimitatestemjokelegalordinarygownarm |  
+| bip_39_word_no_space_2 | waspdemand |  
+| bip_39_word_no_space_3 | waspdemandfatigue |  
+| bip_39_word_no_space_4 | waspdemandfatiguefiscal |  
+| bip_39_word_no_space_5 | waspdemandfatiguefiscalgrain |  
+| bip_39_word_no_space_6 | waspdemandfatiguefiscalgrainimitate |  
+| bip_39_word_no_space_7 | waspdemandfatiguefiscalgrainimitatestem |  
+| bip_39_word_no_space_8 | waspdemandfatiguefiscalgrainimitatestemjoke |  
+| bip_39_word_no_space_9 | waspdemandfatiguefiscalgrainimitatestemjokelegal |  
 | bip_39_word_space_0 | ['wasp', 'demand', 'fatigue', 'fiscal', 'grain', 'imitate', 'stem', 'joke', 'legal', 'ordinary', 'gown', 'arm'] |  
 | bip_39_word_space_1 | wasp |  
 | bip_39_word_space_10 | wasp demand fatigue fiscal grain imitate stem joke legal ordinary |  

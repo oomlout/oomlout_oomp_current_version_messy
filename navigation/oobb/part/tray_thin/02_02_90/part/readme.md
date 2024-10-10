@@ -122,6 +122,18 @@ produce
 outside
 dash
 actual |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffmixseatreasoninnocentproduceoutsidedashactualcart |  
+| bip_39_word_no_space_11 | sniffmixseatreasoninnocentproduceoutsidedashactualcartregret |  
+| bip_39_word_no_space_12 | sniffmixseatreasoninnocentproduceoutsidedashactualcartregretapology |  
+| bip_39_word_no_space_2 | sniffmix |  
+| bip_39_word_no_space_3 | sniffmixseat |  
+| bip_39_word_no_space_4 | sniffmixseatreason |  
+| bip_39_word_no_space_5 | sniffmixseatreasoninnocent |  
+| bip_39_word_no_space_6 | sniffmixseatreasoninnocentproduce |  
+| bip_39_word_no_space_7 | sniffmixseatreasoninnocentproduceoutside |  
+| bip_39_word_no_space_8 | sniffmixseatreasoninnocentproduceoutsidedash |  
+| bip_39_word_no_space_9 | sniffmixseatreasoninnocentproduceoutsidedashactual |  
 | bip_39_word_space_0 | ['sniff', 'mix', 'seat', 'reason', 'innocent', 'produce', 'outside', 'dash', 'actual', 'cart', 'regret', 'apology'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff mix seat reason innocent produce outside dash actual cart |  

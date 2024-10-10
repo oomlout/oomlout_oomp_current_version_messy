@@ -122,6 +122,18 @@ letter
 guitar
 plastic
 wave |  
+| bip_39_word_no_space_1 | broom |  
+| bip_39_word_no_space_10 | broomgracetopplegallerysecretletterguitarplasticwaveinstall |  
+| bip_39_word_no_space_11 | broomgracetopplegallerysecretletterguitarplasticwaveinstallfall |  
+| bip_39_word_no_space_12 | broomgracetopplegallerysecretletterguitarplasticwaveinstallfallaim |  
+| bip_39_word_no_space_2 | broomgrace |  
+| bip_39_word_no_space_3 | broomgracetopple |  
+| bip_39_word_no_space_4 | broomgracetopplegallery |  
+| bip_39_word_no_space_5 | broomgracetopplegallerysecret |  
+| bip_39_word_no_space_6 | broomgracetopplegallerysecretletter |  
+| bip_39_word_no_space_7 | broomgracetopplegallerysecretletterguitar |  
+| bip_39_word_no_space_8 | broomgracetopplegallerysecretletterguitarplastic |  
+| bip_39_word_no_space_9 | broomgracetopplegallerysecretletterguitarplasticwave |  
 | bip_39_word_space_0 | ['broom', 'grace', 'topple', 'gallery', 'secret', 'letter', 'guitar', 'plastic', 'wave', 'install', 'fall', 'aim'] |  
 | bip_39_word_space_1 | broom |  
 | bip_39_word_space_10 | broom grace topple gallery secret letter guitar plastic wave install |  

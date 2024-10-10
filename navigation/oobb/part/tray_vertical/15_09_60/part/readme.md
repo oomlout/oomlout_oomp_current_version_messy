@@ -122,6 +122,18 @@ mass
 scorpion
 promote
 ripple |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymhuntseminarantennaaerobicmassscorpionpromoterippleflight |  
+| bip_39_word_no_space_11 | gymhuntseminarantennaaerobicmassscorpionpromoterippleflightocean |  
+| bip_39_word_no_space_12 | gymhuntseminarantennaaerobicmassscorpionpromoterippleflightoceanannual |  
+| bip_39_word_no_space_2 | gymhunt |  
+| bip_39_word_no_space_3 | gymhuntseminar |  
+| bip_39_word_no_space_4 | gymhuntseminarantenna |  
+| bip_39_word_no_space_5 | gymhuntseminarantennaaerobic |  
+| bip_39_word_no_space_6 | gymhuntseminarantennaaerobicmass |  
+| bip_39_word_no_space_7 | gymhuntseminarantennaaerobicmassscorpion |  
+| bip_39_word_no_space_8 | gymhuntseminarantennaaerobicmassscorpionpromote |  
+| bip_39_word_no_space_9 | gymhuntseminarantennaaerobicmassscorpionpromoteripple |  
 | bip_39_word_space_0 | ['gym', 'hunt', 'seminar', 'antenna', 'aerobic', 'mass', 'scorpion', 'promote', 'ripple', 'flight', 'ocean', 'annual'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym hunt seminar antenna aerobic mass scorpion promote ripple flight |  

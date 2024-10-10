@@ -122,6 +122,18 @@ dad
 gate
 turn
 bless |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumversionechoresultthumbdadgateturnblesserode |  
+| bip_39_word_no_space_11 | albumversionechoresultthumbdadgateturnblesserodebuild |  
+| bip_39_word_no_space_12 | albumversionechoresultthumbdadgateturnblesserodebuildasthma |  
+| bip_39_word_no_space_2 | albumversion |  
+| bip_39_word_no_space_3 | albumversionecho |  
+| bip_39_word_no_space_4 | albumversionechoresult |  
+| bip_39_word_no_space_5 | albumversionechoresultthumb |  
+| bip_39_word_no_space_6 | albumversionechoresultthumbdad |  
+| bip_39_word_no_space_7 | albumversionechoresultthumbdadgate |  
+| bip_39_word_no_space_8 | albumversionechoresultthumbdadgateturn |  
+| bip_39_word_no_space_9 | albumversionechoresultthumbdadgateturnbless |  
 | bip_39_word_space_0 | ['album', 'version', 'echo', 'result', 'thumb', 'dad', 'gate', 'turn', 'bless', 'erode', 'build', 'asthma'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album version echo result thumb dad gate turn bless erode |  

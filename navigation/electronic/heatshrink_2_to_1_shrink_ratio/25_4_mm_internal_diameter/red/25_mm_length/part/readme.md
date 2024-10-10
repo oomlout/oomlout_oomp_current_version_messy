@@ -122,6 +122,18 @@ carbon
 broom
 heavy
 cave |  
+| bip_39_word_no_space_1 | race |  
+| bip_39_word_no_space_10 | racetoiletgateemptybladecarbonbroomheavycavechronic |  
+| bip_39_word_no_space_11 | racetoiletgateemptybladecarbonbroomheavycavechronickitchen |  
+| bip_39_word_no_space_12 | racetoiletgateemptybladecarbonbroomheavycavechronickitchenabsorb |  
+| bip_39_word_no_space_2 | racetoilet |  
+| bip_39_word_no_space_3 | racetoiletgate |  
+| bip_39_word_no_space_4 | racetoiletgateempty |  
+| bip_39_word_no_space_5 | racetoiletgateemptyblade |  
+| bip_39_word_no_space_6 | racetoiletgateemptybladecarbon |  
+| bip_39_word_no_space_7 | racetoiletgateemptybladecarbonbroom |  
+| bip_39_word_no_space_8 | racetoiletgateemptybladecarbonbroomheavy |  
+| bip_39_word_no_space_9 | racetoiletgateemptybladecarbonbroomheavycave |  
 | bip_39_word_space_0 | ['race', 'toilet', 'gate', 'empty', 'blade', 'carbon', 'broom', 'heavy', 'cave', 'chronic', 'kitchen', 'absorb'] |  
 | bip_39_word_space_1 | race |  
 | bip_39_word_space_10 | race toilet gate empty blade carbon broom heavy cave chronic |  

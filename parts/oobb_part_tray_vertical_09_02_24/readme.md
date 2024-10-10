@@ -122,6 +122,18 @@ select
 limit
 noble
 door |  
+| bip_39_word_no_space_1 | extend |  
+| bip_39_word_no_space_10 | extendroofcirclenovelthreeselectlimitnobledoortwin |  
+| bip_39_word_no_space_11 | extendroofcirclenovelthreeselectlimitnobledoortwinrigid |  
+| bip_39_word_no_space_12 | extendroofcirclenovelthreeselectlimitnobledoortwinrigidanother |  
+| bip_39_word_no_space_2 | extendroof |  
+| bip_39_word_no_space_3 | extendroofcircle |  
+| bip_39_word_no_space_4 | extendroofcirclenovel |  
+| bip_39_word_no_space_5 | extendroofcirclenovelthree |  
+| bip_39_word_no_space_6 | extendroofcirclenovelthreeselect |  
+| bip_39_word_no_space_7 | extendroofcirclenovelthreeselectlimit |  
+| bip_39_word_no_space_8 | extendroofcirclenovelthreeselectlimitnoble |  
+| bip_39_word_no_space_9 | extendroofcirclenovelthreeselectlimitnobledoor |  
 | bip_39_word_space_0 | ['extend', 'roof', 'circle', 'novel', 'three', 'select', 'limit', 'noble', 'door', 'twin', 'rigid', 'another'] |  
 | bip_39_word_space_1 | extend |  
 | bip_39_word_space_10 | extend roof circle novel three select limit noble door twin |  

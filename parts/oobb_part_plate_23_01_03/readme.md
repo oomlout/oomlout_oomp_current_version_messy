@@ -122,6 +122,18 @@ oppose
 notice
 couch
 obey |  
+| bip_39_word_no_space_1 | illness |  
+| bip_39_word_no_space_10 | illnessvoyagecoastroundforumopposenoticecouchobeylock |  
+| bip_39_word_no_space_11 | illnessvoyagecoastroundforumopposenoticecouchobeylockketchup |  
+| bip_39_word_no_space_12 | illnessvoyagecoastroundforumopposenoticecouchobeylockketchupagain |  
+| bip_39_word_no_space_2 | illnessvoyage |  
+| bip_39_word_no_space_3 | illnessvoyagecoast |  
+| bip_39_word_no_space_4 | illnessvoyagecoastround |  
+| bip_39_word_no_space_5 | illnessvoyagecoastroundforum |  
+| bip_39_word_no_space_6 | illnessvoyagecoastroundforumoppose |  
+| bip_39_word_no_space_7 | illnessvoyagecoastroundforumopposenotice |  
+| bip_39_word_no_space_8 | illnessvoyagecoastroundforumopposenoticecouch |  
+| bip_39_word_no_space_9 | illnessvoyagecoastroundforumopposenoticecouchobey |  
 | bip_39_word_space_0 | ['illness', 'voyage', 'coast', 'round', 'forum', 'oppose', 'notice', 'couch', 'obey', 'lock', 'ketchup', 'again'] |  
 | bip_39_word_space_1 | illness |  
 | bip_39_word_space_10 | illness voyage coast round forum oppose notice couch obey lock |  

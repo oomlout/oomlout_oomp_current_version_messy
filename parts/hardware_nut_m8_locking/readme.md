@@ -122,6 +122,18 @@ select
 few
 process
 occur |  
+| bip_39_word_no_space_1 | glimpse |  
+| bip_39_word_no_space_10 | glimpseblanketvirtualusualsurgeselectfewprocessoccurassist |  
+| bip_39_word_no_space_11 | glimpseblanketvirtualusualsurgeselectfewprocessoccurassistrebel |  
+| bip_39_word_no_space_12 | glimpseblanketvirtualusualsurgeselectfewprocessoccurassistrebeladapt |  
+| bip_39_word_no_space_2 | glimpseblanket |  
+| bip_39_word_no_space_3 | glimpseblanketvirtual |  
+| bip_39_word_no_space_4 | glimpseblanketvirtualusual |  
+| bip_39_word_no_space_5 | glimpseblanketvirtualusualsurge |  
+| bip_39_word_no_space_6 | glimpseblanketvirtualusualsurgeselect |  
+| bip_39_word_no_space_7 | glimpseblanketvirtualusualsurgeselectfew |  
+| bip_39_word_no_space_8 | glimpseblanketvirtualusualsurgeselectfewprocess |  
+| bip_39_word_no_space_9 | glimpseblanketvirtualusualsurgeselectfewprocessoccur |  
 | bip_39_word_space_0 | ['glimpse', 'blanket', 'virtual', 'usual', 'surge', 'select', 'few', 'process', 'occur', 'assist', 'rebel', 'adapt'] |  
 | bip_39_word_space_1 | glimpse |  
 | bip_39_word_space_10 | glimpse blanket virtual usual surge select few process occur assist |  

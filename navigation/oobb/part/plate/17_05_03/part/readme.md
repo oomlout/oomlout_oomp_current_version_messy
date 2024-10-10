@@ -122,6 +122,18 @@ tray
 hammer
 dismiss
 trigger |  
+| bip_39_word_no_space_1 | toilet |  
+| bip_39_word_no_space_10 | toiletspacemouserepairdelaytrayhammerdismisstriggergun |  
+| bip_39_word_no_space_11 | toiletspacemouserepairdelaytrayhammerdismisstriggergunlearn |  
+| bip_39_word_no_space_12 | toiletspacemouserepairdelaytrayhammerdismisstriggergunlearnadd |  
+| bip_39_word_no_space_2 | toiletspace |  
+| bip_39_word_no_space_3 | toiletspacemouse |  
+| bip_39_word_no_space_4 | toiletspacemouserepair |  
+| bip_39_word_no_space_5 | toiletspacemouserepairdelay |  
+| bip_39_word_no_space_6 | toiletspacemouserepairdelaytray |  
+| bip_39_word_no_space_7 | toiletspacemouserepairdelaytrayhammer |  
+| bip_39_word_no_space_8 | toiletspacemouserepairdelaytrayhammerdismiss |  
+| bip_39_word_no_space_9 | toiletspacemouserepairdelaytrayhammerdismisstrigger |  
 | bip_39_word_space_0 | ['toilet', 'space', 'mouse', 'repair', 'delay', 'tray', 'hammer', 'dismiss', 'trigger', 'gun', 'learn', 'add'] |  
 | bip_39_word_space_1 | toilet |  
 | bip_39_word_space_10 | toilet space mouse repair delay tray hammer dismiss trigger gun |  

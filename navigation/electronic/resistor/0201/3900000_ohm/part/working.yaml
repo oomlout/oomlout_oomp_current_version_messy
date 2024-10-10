@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'moon
   clerk
 
   theory'
+bip_39_word_no_space_1: moon
+bip_39_word_no_space_10: moonironaxisdivorceeconomyentryagreeclerktheoryfatal
+bip_39_word_no_space_11: moonironaxisdivorceeconomyentryagreeclerktheoryfatalsorry
+bip_39_word_no_space_12: moonironaxisdivorceeconomyentryagreeclerktheoryfatalsorryalready
+bip_39_word_no_space_2: mooniron
+bip_39_word_no_space_3: moonironaxis
+bip_39_word_no_space_4: moonironaxisdivorce
+bip_39_word_no_space_5: moonironaxisdivorceeconomy
+bip_39_word_no_space_6: moonironaxisdivorceeconomyentry
+bip_39_word_no_space_7: moonironaxisdivorceeconomyentryagree
+bip_39_word_no_space_8: moonironaxisdivorceeconomyentryagreeclerk
+bip_39_word_no_space_9: moonironaxisdivorceeconomyentryagreeclerktheory
 bip_39_word_space_0:
 - moon
 - iron

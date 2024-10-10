@@ -122,6 +122,18 @@ entry
 fatigue
 team
 student |  
+| bip_39_word_no_space_1 | grow |  
+| bip_39_word_no_space_10 | growgaugeplateinjurymuseumentryfatigueteamstudentmoment |  
+| bip_39_word_no_space_11 | growgaugeplateinjurymuseumentryfatigueteamstudentmomentbroken |  
+| bip_39_word_no_space_12 | growgaugeplateinjurymuseumentryfatigueteamstudentmomentbrokenangry |  
+| bip_39_word_no_space_2 | growgauge |  
+| bip_39_word_no_space_3 | growgaugeplate |  
+| bip_39_word_no_space_4 | growgaugeplateinjury |  
+| bip_39_word_no_space_5 | growgaugeplateinjurymuseum |  
+| bip_39_word_no_space_6 | growgaugeplateinjurymuseumentry |  
+| bip_39_word_no_space_7 | growgaugeplateinjurymuseumentryfatigue |  
+| bip_39_word_no_space_8 | growgaugeplateinjurymuseumentryfatigueteam |  
+| bip_39_word_no_space_9 | growgaugeplateinjurymuseumentryfatigueteamstudent |  
 | bip_39_word_space_0 | ['grow', 'gauge', 'plate', 'injury', 'museum', 'entry', 'fatigue', 'team', 'student', 'moment', 'broken', 'angry'] |  
 | bip_39_word_space_1 | grow |  
 | bip_39_word_space_10 | grow gauge plate injury museum entry fatigue team student moment |  

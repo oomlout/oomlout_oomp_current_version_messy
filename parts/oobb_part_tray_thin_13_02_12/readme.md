@@ -122,6 +122,18 @@ judge
 ice
 craft
 burden |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftarchvictorytiptrashjudgeicecraftburdenpeople |  
+| bip_39_word_no_space_11 | giftarchvictorytiptrashjudgeicecraftburdenpeoplecrowd |  
+| bip_39_word_no_space_12 | giftarchvictorytiptrashjudgeicecraftburdenpeoplecrowdalcohol |  
+| bip_39_word_no_space_2 | giftarch |  
+| bip_39_word_no_space_3 | giftarchvictory |  
+| bip_39_word_no_space_4 | giftarchvictorytip |  
+| bip_39_word_no_space_5 | giftarchvictorytiptrash |  
+| bip_39_word_no_space_6 | giftarchvictorytiptrashjudge |  
+| bip_39_word_no_space_7 | giftarchvictorytiptrashjudgeice |  
+| bip_39_word_no_space_8 | giftarchvictorytiptrashjudgeicecraft |  
+| bip_39_word_no_space_9 | giftarchvictorytiptrashjudgeicecraftburden |  
 | bip_39_word_space_0 | ['gift', 'arch', 'victory', 'tip', 'trash', 'judge', 'ice', 'craft', 'burden', 'people', 'crowd', 'alcohol'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift arch victory tip trash judge ice craft burden people |  

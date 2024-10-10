@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tip
   toss
 
   close'
+bip_39_word_no_space_1: tip
+bip_39_word_no_space_10: tipvoicescatterbudgetborderblastsoultossclosesqueeze
+bip_39_word_no_space_11: tipvoicescatterbudgetborderblastsoultossclosesqueezetribe
+bip_39_word_no_space_12: tipvoicescatterbudgetborderblastsoultossclosesqueezetribeassist
+bip_39_word_no_space_2: tipvoice
+bip_39_word_no_space_3: tipvoicescatter
+bip_39_word_no_space_4: tipvoicescatterbudget
+bip_39_word_no_space_5: tipvoicescatterbudgetborder
+bip_39_word_no_space_6: tipvoicescatterbudgetborderblast
+bip_39_word_no_space_7: tipvoicescatterbudgetborderblastsoul
+bip_39_word_no_space_8: tipvoicescatterbudgetborderblastsoultoss
+bip_39_word_no_space_9: tipvoicescatterbudgetborderblastsoultossclose
 bip_39_word_space_0:
 - tip
 - voice

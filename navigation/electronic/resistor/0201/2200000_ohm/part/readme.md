@@ -122,6 +122,18 @@ fire
 ship
 better
 fantasy |  
+| bip_39_word_no_space_1 | industry |  
+| bip_39_word_no_space_10 | industrygasdraftchickensuddenfireshipbetterfantasyoblige |  
+| bip_39_word_no_space_11 | industrygasdraftchickensuddenfireshipbetterfantasyobligestone |  
+| bip_39_word_no_space_12 | industrygasdraftchickensuddenfireshipbetterfantasyobligestoneage |  
+| bip_39_word_no_space_2 | industrygas |  
+| bip_39_word_no_space_3 | industrygasdraft |  
+| bip_39_word_no_space_4 | industrygasdraftchicken |  
+| bip_39_word_no_space_5 | industrygasdraftchickensudden |  
+| bip_39_word_no_space_6 | industrygasdraftchickensuddenfire |  
+| bip_39_word_no_space_7 | industrygasdraftchickensuddenfireship |  
+| bip_39_word_no_space_8 | industrygasdraftchickensuddenfireshipbetter |  
+| bip_39_word_no_space_9 | industrygasdraftchickensuddenfireshipbetterfantasy |  
 | bip_39_word_space_0 | ['industry', 'gas', 'draft', 'chicken', 'sudden', 'fire', 'ship', 'better', 'fantasy', 'oblige', 'stone', 'age'] |  
 | bip_39_word_space_1 | industry |  
 | bip_39_word_space_10 | industry gas draft chicken sudden fire ship better fantasy oblige |  

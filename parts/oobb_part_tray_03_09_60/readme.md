@@ -122,6 +122,18 @@ orchard
 coast
 multiply
 reveal |  
+| bip_39_word_no_space_1 | window |  
+| bip_39_word_no_space_10 | windowchampionbitterpotteryshadoworchardcoastmultiplyrevealartwork |  
+| bip_39_word_no_space_11 | windowchampionbitterpotteryshadoworchardcoastmultiplyrevealartworkwine |  
+| bip_39_word_no_space_12 | windowchampionbitterpotteryshadoworchardcoastmultiplyrevealartworkwineaverage |  
+| bip_39_word_no_space_2 | windowchampion |  
+| bip_39_word_no_space_3 | windowchampionbitter |  
+| bip_39_word_no_space_4 | windowchampionbitterpottery |  
+| bip_39_word_no_space_5 | windowchampionbitterpotteryshadow |  
+| bip_39_word_no_space_6 | windowchampionbitterpotteryshadoworchard |  
+| bip_39_word_no_space_7 | windowchampionbitterpotteryshadoworchardcoast |  
+| bip_39_word_no_space_8 | windowchampionbitterpotteryshadoworchardcoastmultiply |  
+| bip_39_word_no_space_9 | windowchampionbitterpotteryshadoworchardcoastmultiplyreveal |  
 | bip_39_word_space_0 | ['window', 'champion', 'bitter', 'pottery', 'shadow', 'orchard', 'coast', 'multiply', 'reveal', 'artwork', 'wine', 'average'] |  
 | bip_39_word_space_1 | window |  
 | bip_39_word_space_10 | window champion bitter pottery shadow orchard coast multiply reveal artwork |  

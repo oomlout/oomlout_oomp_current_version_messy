@@ -122,6 +122,18 @@ apology
 abstract
 hammer
 fiction |  
+| bip_39_word_no_space_1 | robust |  
+| bip_39_word_no_space_10 | robustillcameradefinekindapologyabstracthammerfictionblast |  
+| bip_39_word_no_space_11 | robustillcameradefinekindapologyabstracthammerfictionblastswim |  
+| bip_39_word_no_space_12 | robustillcameradefinekindapologyabstracthammerfictionblastswimalarm |  
+| bip_39_word_no_space_2 | robustill |  
+| bip_39_word_no_space_3 | robustillcamera |  
+| bip_39_word_no_space_4 | robustillcameradefine |  
+| bip_39_word_no_space_5 | robustillcameradefinekind |  
+| bip_39_word_no_space_6 | robustillcameradefinekindapology |  
+| bip_39_word_no_space_7 | robustillcameradefinekindapologyabstract |  
+| bip_39_word_no_space_8 | robustillcameradefinekindapologyabstracthammer |  
+| bip_39_word_no_space_9 | robustillcameradefinekindapologyabstracthammerfiction |  
 | bip_39_word_space_0 | ['robust', 'ill', 'camera', 'define', 'kind', 'apology', 'abstract', 'hammer', 'fiction', 'blast', 'swim', 'alarm'] |  
 | bip_39_word_space_1 | robust |  
 | bip_39_word_space_10 | robust ill camera define kind apology abstract hammer fiction blast |  

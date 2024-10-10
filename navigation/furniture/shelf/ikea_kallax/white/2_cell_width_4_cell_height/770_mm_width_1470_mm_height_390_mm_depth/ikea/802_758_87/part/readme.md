@@ -122,6 +122,18 @@ anxiety
 solve
 fork
 virus |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumcerealsponsormeancenturyanxietysolveforkvirusother |  
+| bip_39_word_no_space_11 | albumcerealsponsormeancenturyanxietysolveforkvirusotherexcuse |  
+| bip_39_word_no_space_12 | albumcerealsponsormeancenturyanxietysolveforkvirusotherexcuseassume |  
+| bip_39_word_no_space_2 | albumcereal |  
+| bip_39_word_no_space_3 | albumcerealsponsor |  
+| bip_39_word_no_space_4 | albumcerealsponsormean |  
+| bip_39_word_no_space_5 | albumcerealsponsormeancentury |  
+| bip_39_word_no_space_6 | albumcerealsponsormeancenturyanxiety |  
+| bip_39_word_no_space_7 | albumcerealsponsormeancenturyanxietysolve |  
+| bip_39_word_no_space_8 | albumcerealsponsormeancenturyanxietysolvefork |  
+| bip_39_word_no_space_9 | albumcerealsponsormeancenturyanxietysolveforkvirus |  
 | bip_39_word_space_0 | ['album', 'cereal', 'sponsor', 'mean', 'century', 'anxiety', 'solve', 'fork', 'virus', 'other', 'excuse', 'assume'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album cereal sponsor mean century anxiety solve fork virus other |  

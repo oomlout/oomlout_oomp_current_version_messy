@@ -122,6 +122,18 @@ become
 stove
 car
 phrase |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonfatherpianofloorstagebecomestovecarphrasewrestle |  
+| bip_39_word_no_space_11 | lemonfatherpianofloorstagebecomestovecarphrasewrestlefault |  
+| bip_39_word_no_space_12 | lemonfatherpianofloorstagebecomestovecarphrasewrestlefaultaccess |  
+| bip_39_word_no_space_2 | lemonfather |  
+| bip_39_word_no_space_3 | lemonfatherpiano |  
+| bip_39_word_no_space_4 | lemonfatherpianofloor |  
+| bip_39_word_no_space_5 | lemonfatherpianofloorstage |  
+| bip_39_word_no_space_6 | lemonfatherpianofloorstagebecome |  
+| bip_39_word_no_space_7 | lemonfatherpianofloorstagebecomestove |  
+| bip_39_word_no_space_8 | lemonfatherpianofloorstagebecomestovecar |  
+| bip_39_word_no_space_9 | lemonfatherpianofloorstagebecomestovecarphrase |  
 | bip_39_word_space_0 | ['lemon', 'father', 'piano', 'floor', 'stage', 'become', 'stove', 'car', 'phrase', 'wrestle', 'fault', 'access'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon father piano floor stage become stove car phrase wrestle |  

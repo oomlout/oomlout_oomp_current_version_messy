@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clean
   olive
 
   pave'
+bip_39_word_no_space_1: clean
+bip_39_word_no_space_10: cleanlionlargefevertoolidentifyeyebrowolivepaveminor
+bip_39_word_no_space_11: cleanlionlargefevertoolidentifyeyebrowolivepaveminormass
+bip_39_word_no_space_12: cleanlionlargefevertoolidentifyeyebrowolivepaveminormassall
+bip_39_word_no_space_2: cleanlion
+bip_39_word_no_space_3: cleanlionlarge
+bip_39_word_no_space_4: cleanlionlargefever
+bip_39_word_no_space_5: cleanlionlargefevertool
+bip_39_word_no_space_6: cleanlionlargefevertoolidentify
+bip_39_word_no_space_7: cleanlionlargefevertoolidentifyeyebrow
+bip_39_word_no_space_8: cleanlionlargefevertoolidentifyeyebrowolive
+bip_39_word_no_space_9: cleanlionlargefevertoolidentifyeyebrowolivepave
 bip_39_word_space_0:
 - clean
 - lion

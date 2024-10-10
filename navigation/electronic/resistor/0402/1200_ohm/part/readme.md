@@ -122,6 +122,18 @@ inject
 make
 blanket
 assault |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildfabricprintisolatedocumentinjectmakeblanketassaultphoto |  
+| bip_39_word_no_space_11 | rebuildfabricprintisolatedocumentinjectmakeblanketassaultphotoorder |  
+| bip_39_word_no_space_12 | rebuildfabricprintisolatedocumentinjectmakeblanketassaultphotoorderadvice |  
+| bip_39_word_no_space_2 | rebuildfabric |  
+| bip_39_word_no_space_3 | rebuildfabricprint |  
+| bip_39_word_no_space_4 | rebuildfabricprintisolate |  
+| bip_39_word_no_space_5 | rebuildfabricprintisolatedocument |  
+| bip_39_word_no_space_6 | rebuildfabricprintisolatedocumentinject |  
+| bip_39_word_no_space_7 | rebuildfabricprintisolatedocumentinjectmake |  
+| bip_39_word_no_space_8 | rebuildfabricprintisolatedocumentinjectmakeblanket |  
+| bip_39_word_no_space_9 | rebuildfabricprintisolatedocumentinjectmakeblanketassault |  
 | bip_39_word_space_0 | ['rebuild', 'fabric', 'print', 'isolate', 'document', 'inject', 'make', 'blanket', 'assault', 'photo', 'order', 'advice'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild fabric print isolate document inject make blanket assault photo |  

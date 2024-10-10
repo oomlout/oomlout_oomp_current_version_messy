@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dawn
   example
 
   describe'
+bip_39_word_no_space_1: dawn
+bip_39_word_no_space_10: dawnangrydosespendniceextendbonusexampledescribetip
+bip_39_word_no_space_11: dawnangrydosespendniceextendbonusexampledescribetipdonor
+bip_39_word_no_space_12: dawnangrydosespendniceextendbonusexampledescribetipdonoralways
+bip_39_word_no_space_2: dawnangry
+bip_39_word_no_space_3: dawnangrydose
+bip_39_word_no_space_4: dawnangrydosespend
+bip_39_word_no_space_5: dawnangrydosespendnice
+bip_39_word_no_space_6: dawnangrydosespendniceextend
+bip_39_word_no_space_7: dawnangrydosespendniceextendbonus
+bip_39_word_no_space_8: dawnangrydosespendniceextendbonusexample
+bip_39_word_no_space_9: dawnangrydosespendniceextendbonusexampledescribe
 bip_39_word_space_0:
 - dawn
 - angry

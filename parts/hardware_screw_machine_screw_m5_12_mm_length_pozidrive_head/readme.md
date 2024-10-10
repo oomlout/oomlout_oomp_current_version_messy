@@ -122,6 +122,18 @@ simple
 buzz
 market
 siege |  
+| bip_39_word_no_space_1 | calm |  
+| bip_39_word_no_space_10 | calmvessellaterplaywrestlesimplebuzzmarketsiegemercy |  
+| bip_39_word_no_space_11 | calmvessellaterplaywrestlesimplebuzzmarketsiegemercymove |  
+| bip_39_word_no_space_12 | calmvessellaterplaywrestlesimplebuzzmarketsiegemercymoveable |  
+| bip_39_word_no_space_2 | calmvessel |  
+| bip_39_word_no_space_3 | calmvessellater |  
+| bip_39_word_no_space_4 | calmvessellaterplay |  
+| bip_39_word_no_space_5 | calmvessellaterplaywrestle |  
+| bip_39_word_no_space_6 | calmvessellaterplaywrestlesimple |  
+| bip_39_word_no_space_7 | calmvessellaterplaywrestlesimplebuzz |  
+| bip_39_word_no_space_8 | calmvessellaterplaywrestlesimplebuzzmarket |  
+| bip_39_word_no_space_9 | calmvessellaterplaywrestlesimplebuzzmarketsiege |  
 | bip_39_word_space_0 | ['calm', 'vessel', 'later', 'play', 'wrestle', 'simple', 'buzz', 'market', 'siege', 'mercy', 'move', 'able'] |  
 | bip_39_word_space_1 | calm |  
 | bip_39_word_space_10 | calm vessel later play wrestle simple buzz market siege mercy |  

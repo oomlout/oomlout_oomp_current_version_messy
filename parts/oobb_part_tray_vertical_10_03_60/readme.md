@@ -122,6 +122,18 @@ frost
 frog
 february
 pride |  
+| bip_39_word_no_space_1 | acquire |  
+| bip_39_word_no_space_10 | acquirefluidvehiclejewelbuildfrostfrogfebruarypridemachine |  
+| bip_39_word_no_space_11 | acquirefluidvehiclejewelbuildfrostfrogfebruarypridemachinegarden |  
+| bip_39_word_no_space_12 | acquirefluidvehiclejewelbuildfrostfrogfebruarypridemachinegardenabout |  
+| bip_39_word_no_space_2 | acquirefluid |  
+| bip_39_word_no_space_3 | acquirefluidvehicle |  
+| bip_39_word_no_space_4 | acquirefluidvehiclejewel |  
+| bip_39_word_no_space_5 | acquirefluidvehiclejewelbuild |  
+| bip_39_word_no_space_6 | acquirefluidvehiclejewelbuildfrost |  
+| bip_39_word_no_space_7 | acquirefluidvehiclejewelbuildfrostfrog |  
+| bip_39_word_no_space_8 | acquirefluidvehiclejewelbuildfrostfrogfebruary |  
+| bip_39_word_no_space_9 | acquirefluidvehiclejewelbuildfrostfrogfebruarypride |  
 | bip_39_word_space_0 | ['acquire', 'fluid', 'vehicle', 'jewel', 'build', 'frost', 'frog', 'february', 'pride', 'machine', 'garden', 'about'] |  
 | bip_39_word_space_1 | acquire |  
 | bip_39_word_space_10 | acquire fluid vehicle jewel build frost frog february pride machine |  

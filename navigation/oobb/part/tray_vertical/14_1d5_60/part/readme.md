@@ -122,6 +122,18 @@ island
 now
 wagon
 artwork |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarsolarcactusclawtwelveislandnowwagonartworkneed |  
+| bip_39_word_no_space_11 | liarsolarcactusclawtwelveislandnowwagonartworkneedcereal |  
+| bip_39_word_no_space_12 | liarsolarcactusclawtwelveislandnowwagonartworkneedcerealasthma |  
+| bip_39_word_no_space_2 | liarsolar |  
+| bip_39_word_no_space_3 | liarsolarcactus |  
+| bip_39_word_no_space_4 | liarsolarcactusclaw |  
+| bip_39_word_no_space_5 | liarsolarcactusclawtwelve |  
+| bip_39_word_no_space_6 | liarsolarcactusclawtwelveisland |  
+| bip_39_word_no_space_7 | liarsolarcactusclawtwelveislandnow |  
+| bip_39_word_no_space_8 | liarsolarcactusclawtwelveislandnowwagon |  
+| bip_39_word_no_space_9 | liarsolarcactusclawtwelveislandnowwagonartwork |  
 | bip_39_word_space_0 | ['liar', 'solar', 'cactus', 'claw', 'twelve', 'island', 'now', 'wagon', 'artwork', 'need', 'cereal', 'asthma'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar solar cactus claw twelve island now wagon artwork need |  

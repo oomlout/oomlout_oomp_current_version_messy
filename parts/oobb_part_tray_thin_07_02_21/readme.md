@@ -122,6 +122,18 @@ vivid
 wrist
 steak
 economy |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callamusedembraceextrahungryvividwriststeakeconomyrib |  
+| bip_39_word_no_space_11 | callamusedembraceextrahungryvividwriststeakeconomyribexcess |  
+| bip_39_word_no_space_12 | callamusedembraceextrahungryvividwriststeakeconomyribexcessannual |  
+| bip_39_word_no_space_2 | callamused |  
+| bip_39_word_no_space_3 | callamusedembrace |  
+| bip_39_word_no_space_4 | callamusedembraceextra |  
+| bip_39_word_no_space_5 | callamusedembraceextrahungry |  
+| bip_39_word_no_space_6 | callamusedembraceextrahungryvivid |  
+| bip_39_word_no_space_7 | callamusedembraceextrahungryvividwrist |  
+| bip_39_word_no_space_8 | callamusedembraceextrahungryvividwriststeak |  
+| bip_39_word_no_space_9 | callamusedembraceextrahungryvividwriststeakeconomy |  
 | bip_39_word_space_0 | ['call', 'amused', 'embrace', 'extra', 'hungry', 'vivid', 'wrist', 'steak', 'economy', 'rib', 'excess', 'annual'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call amused embrace extra hungry vivid wrist steak economy rib |  

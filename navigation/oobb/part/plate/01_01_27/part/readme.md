@@ -122,6 +122,18 @@ engine
 claw
 strong
 own |  
+| bip_39_word_no_space_1 | hospital |  
+| bip_39_word_no_space_10 | hospitalketchupcavedistancetoastengineclawstrongownavoid |  
+| bip_39_word_no_space_11 | hospitalketchupcavedistancetoastengineclawstrongownavoidweekend |  
+| bip_39_word_no_space_12 | hospitalketchupcavedistancetoastengineclawstrongownavoidweekendamong |  
+| bip_39_word_no_space_2 | hospitalketchup |  
+| bip_39_word_no_space_3 | hospitalketchupcave |  
+| bip_39_word_no_space_4 | hospitalketchupcavedistance |  
+| bip_39_word_no_space_5 | hospitalketchupcavedistancetoast |  
+| bip_39_word_no_space_6 | hospitalketchupcavedistancetoastengine |  
+| bip_39_word_no_space_7 | hospitalketchupcavedistancetoastengineclaw |  
+| bip_39_word_no_space_8 | hospitalketchupcavedistancetoastengineclawstrong |  
+| bip_39_word_no_space_9 | hospitalketchupcavedistancetoastengineclawstrongown |  
 | bip_39_word_space_0 | ['hospital', 'ketchup', 'cave', 'distance', 'toast', 'engine', 'claw', 'strong', 'own', 'avoid', 'weekend', 'among'] |  
 | bip_39_word_space_1 | hospital |  
 | bip_39_word_space_10 | hospital ketchup cave distance toast engine claw strong own avoid |  

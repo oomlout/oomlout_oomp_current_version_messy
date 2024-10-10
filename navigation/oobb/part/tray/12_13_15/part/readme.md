@@ -122,6 +122,18 @@ please
 domain
 crumble
 capable |  
+| bip_39_word_no_space_1 | capable |  
+| bip_39_word_no_space_10 | capabletennisbracketversiongracepleasedomaincrumblecapableshaft |  
+| bip_39_word_no_space_11 | capabletennisbracketversiongracepleasedomaincrumblecapableshaftsad |  
+| bip_39_word_no_space_12 | capabletennisbracketversiongracepleasedomaincrumblecapableshaftsadassault |  
+| bip_39_word_no_space_2 | capabletennis |  
+| bip_39_word_no_space_3 | capabletennisbracket |  
+| bip_39_word_no_space_4 | capabletennisbracketversion |  
+| bip_39_word_no_space_5 | capabletennisbracketversiongrace |  
+| bip_39_word_no_space_6 | capabletennisbracketversiongraceplease |  
+| bip_39_word_no_space_7 | capabletennisbracketversiongracepleasedomain |  
+| bip_39_word_no_space_8 | capabletennisbracketversiongracepleasedomaincrumble |  
+| bip_39_word_no_space_9 | capabletennisbracketversiongracepleasedomaincrumblecapable |  
 | bip_39_word_space_0 | ['capable', 'tennis', 'bracket', 'version', 'grace', 'please', 'domain', 'crumble', 'capable', 'shaft', 'sad', 'assault'] |  
 | bip_39_word_space_1 | capable |  
 | bip_39_word_space_10 | capable tennis bracket version grace please domain crumble capable shaft |  

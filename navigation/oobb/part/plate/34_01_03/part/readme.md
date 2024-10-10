@@ -122,6 +122,18 @@ witness
 combine
 maximum
 blame |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeyflightbeefvolumeburstwitnesscombinemaximumblameclip |  
+| bip_39_word_no_space_11 | monkeyflightbeefvolumeburstwitnesscombinemaximumblamecliphole |  
+| bip_39_word_no_space_12 | monkeyflightbeefvolumeburstwitnesscombinemaximumblameclipholeartefact |  
+| bip_39_word_no_space_2 | monkeyflight |  
+| bip_39_word_no_space_3 | monkeyflightbeef |  
+| bip_39_word_no_space_4 | monkeyflightbeefvolume |  
+| bip_39_word_no_space_5 | monkeyflightbeefvolumeburst |  
+| bip_39_word_no_space_6 | monkeyflightbeefvolumeburstwitness |  
+| bip_39_word_no_space_7 | monkeyflightbeefvolumeburstwitnesscombine |  
+| bip_39_word_no_space_8 | monkeyflightbeefvolumeburstwitnesscombinemaximum |  
+| bip_39_word_no_space_9 | monkeyflightbeefvolumeburstwitnesscombinemaximumblame |  
 | bip_39_word_space_0 | ['monkey', 'flight', 'beef', 'volume', 'burst', 'witness', 'combine', 'maximum', 'blame', 'clip', 'hole', 'artefact'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey flight beef volume burst witness combine maximum blame clip |  

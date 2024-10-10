@@ -122,6 +122,18 @@ news
 embrace
 company
 winter |  
+| bip_39_word_no_space_1 | muscle |  
+| bip_39_word_no_space_10 | musclevelvetonlyflashsummernewsembracecompanywinterportion |  
+| bip_39_word_no_space_11 | musclevelvetonlyflashsummernewsembracecompanywinterportionmass |  
+| bip_39_word_no_space_12 | musclevelvetonlyflashsummernewsembracecompanywinterportionmassability |  
+| bip_39_word_no_space_2 | musclevelvet |  
+| bip_39_word_no_space_3 | musclevelvetonly |  
+| bip_39_word_no_space_4 | musclevelvetonlyflash |  
+| bip_39_word_no_space_5 | musclevelvetonlyflashsummer |  
+| bip_39_word_no_space_6 | musclevelvetonlyflashsummernews |  
+| bip_39_word_no_space_7 | musclevelvetonlyflashsummernewsembrace |  
+| bip_39_word_no_space_8 | musclevelvetonlyflashsummernewsembracecompany |  
+| bip_39_word_no_space_9 | musclevelvetonlyflashsummernewsembracecompanywinter |  
 | bip_39_word_space_0 | ['muscle', 'velvet', 'only', 'flash', 'summer', 'news', 'embrace', 'company', 'winter', 'portion', 'mass', 'ability'] |  
 | bip_39_word_space_1 | muscle |  
 | bip_39_word_space_10 | muscle velvet only flash summer news embrace company winter portion |  

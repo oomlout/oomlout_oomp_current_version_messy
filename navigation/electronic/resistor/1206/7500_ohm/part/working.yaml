@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'suit
   close
 
   dutch'
+bip_39_word_no_space_1: suit
+bip_39_word_no_space_10: suitchoicedefyvictoryanchoramazingangerclosedutchmath
+bip_39_word_no_space_11: suitchoicedefyvictoryanchoramazingangerclosedutchmathsort
+bip_39_word_no_space_12: suitchoicedefyvictoryanchoramazingangerclosedutchmathsortamount
+bip_39_word_no_space_2: suitchoice
+bip_39_word_no_space_3: suitchoicedefy
+bip_39_word_no_space_4: suitchoicedefyvictory
+bip_39_word_no_space_5: suitchoicedefyvictoryanchor
+bip_39_word_no_space_6: suitchoicedefyvictoryanchoramazing
+bip_39_word_no_space_7: suitchoicedefyvictoryanchoramazinganger
+bip_39_word_no_space_8: suitchoicedefyvictoryanchoramazingangerclose
+bip_39_word_no_space_9: suitchoicedefyvictoryanchoramazingangerclosedutch
 bip_39_word_space_0:
 - suit
 - choice

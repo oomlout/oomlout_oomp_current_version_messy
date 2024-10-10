@@ -122,6 +122,18 @@ that
 grass
 cake
 laugh |  
+| bip_39_word_no_space_1 | liquid |  
+| bip_39_word_no_space_10 | liquidactualessaybirthadjustthatgrasscakelaughshiver |  
+| bip_39_word_no_space_11 | liquidactualessaybirthadjustthatgrasscakelaughshiverdigital |  
+| bip_39_word_no_space_12 | liquidactualessaybirthadjustthatgrasscakelaughshiverdigitalaerobic |  
+| bip_39_word_no_space_2 | liquidactual |  
+| bip_39_word_no_space_3 | liquidactualessay |  
+| bip_39_word_no_space_4 | liquidactualessaybirth |  
+| bip_39_word_no_space_5 | liquidactualessaybirthadjust |  
+| bip_39_word_no_space_6 | liquidactualessaybirthadjustthat |  
+| bip_39_word_no_space_7 | liquidactualessaybirthadjustthatgrass |  
+| bip_39_word_no_space_8 | liquidactualessaybirthadjustthatgrasscake |  
+| bip_39_word_no_space_9 | liquidactualessaybirthadjustthatgrasscakelaugh |  
 | bip_39_word_space_0 | ['liquid', 'actual', 'essay', 'birth', 'adjust', 'that', 'grass', 'cake', 'laugh', 'shiver', 'digital', 'aerobic'] |  
 | bip_39_word_space_1 | liquid |  
 | bip_39_word_space_10 | liquid actual essay birth adjust that grass cake laugh shiver |  

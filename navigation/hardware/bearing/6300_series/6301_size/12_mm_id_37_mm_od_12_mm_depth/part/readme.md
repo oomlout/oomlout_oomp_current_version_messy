@@ -122,6 +122,18 @@ patch
 merge
 escape
 gorilla |  
+| bip_39_word_no_space_1 | praise |  
+| bip_39_word_no_space_10 | praiseremindknockbittericonpatchmergeescapegorillavanish |  
+| bip_39_word_no_space_11 | praiseremindknockbittericonpatchmergeescapegorillavanishbid |  
+| bip_39_word_no_space_12 | praiseremindknockbittericonpatchmergeescapegorillavanishbidagent |  
+| bip_39_word_no_space_2 | praiseremind |  
+| bip_39_word_no_space_3 | praiseremindknock |  
+| bip_39_word_no_space_4 | praiseremindknockbitter |  
+| bip_39_word_no_space_5 | praiseremindknockbittericon |  
+| bip_39_word_no_space_6 | praiseremindknockbittericonpatch |  
+| bip_39_word_no_space_7 | praiseremindknockbittericonpatchmerge |  
+| bip_39_word_no_space_8 | praiseremindknockbittericonpatchmergeescape |  
+| bip_39_word_no_space_9 | praiseremindknockbittericonpatchmergeescapegorilla |  
 | bip_39_word_space_0 | ['praise', 'remind', 'knock', 'bitter', 'icon', 'patch', 'merge', 'escape', 'gorilla', 'vanish', 'bid', 'agent'] |  
 | bip_39_word_space_1 | praise |  
 | bip_39_word_space_10 | praise remind knock bitter icon patch merge escape gorilla vanish |  

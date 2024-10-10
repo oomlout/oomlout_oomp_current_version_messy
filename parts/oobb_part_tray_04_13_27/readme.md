@@ -122,6 +122,18 @@ maximum
 rare
 confirm
 agree |  
+| bip_39_word_no_space_1 | width |  
+| bip_39_word_no_space_10 | widthnowobeyemploymoonmaximumrareconfirmagreerepeat |  
+| bip_39_word_no_space_11 | widthnowobeyemploymoonmaximumrareconfirmagreerepeatstamp |  
+| bip_39_word_no_space_12 | widthnowobeyemploymoonmaximumrareconfirmagreerepeatstampachieve |  
+| bip_39_word_no_space_2 | widthnow |  
+| bip_39_word_no_space_3 | widthnowobey |  
+| bip_39_word_no_space_4 | widthnowobeyemploy |  
+| bip_39_word_no_space_5 | widthnowobeyemploymoon |  
+| bip_39_word_no_space_6 | widthnowobeyemploymoonmaximum |  
+| bip_39_word_no_space_7 | widthnowobeyemploymoonmaximumrare |  
+| bip_39_word_no_space_8 | widthnowobeyemploymoonmaximumrareconfirm |  
+| bip_39_word_no_space_9 | widthnowobeyemploymoonmaximumrareconfirmagree |  
 | bip_39_word_space_0 | ['width', 'now', 'obey', 'employ', 'moon', 'maximum', 'rare', 'confirm', 'agree', 'repeat', 'stamp', 'achieve'] |  
 | bip_39_word_space_1 | width |  
 | bip_39_word_space_10 | width now obey employ moon maximum rare confirm agree repeat |  

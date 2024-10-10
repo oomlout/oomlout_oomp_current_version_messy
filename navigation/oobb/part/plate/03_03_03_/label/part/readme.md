@@ -122,6 +122,18 @@ scout
 like
 kind
 fee |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistretirestillroomcatchscoutlikekindfeemyth |  
+| bip_39_word_no_space_11 | resistretirestillroomcatchscoutlikekindfeemythadmit |  
+| bip_39_word_no_space_12 | resistretirestillroomcatchscoutlikekindfeemythadmitarm |  
+| bip_39_word_no_space_2 | resistretire |  
+| bip_39_word_no_space_3 | resistretirestill |  
+| bip_39_word_no_space_4 | resistretirestillroom |  
+| bip_39_word_no_space_5 | resistretirestillroomcatch |  
+| bip_39_word_no_space_6 | resistretirestillroomcatchscout |  
+| bip_39_word_no_space_7 | resistretirestillroomcatchscoutlike |  
+| bip_39_word_no_space_8 | resistretirestillroomcatchscoutlikekind |  
+| bip_39_word_no_space_9 | resistretirestillroomcatchscoutlikekindfee |  
 | bip_39_word_space_0 | ['resist', 'retire', 'still', 'room', 'catch', 'scout', 'like', 'kind', 'fee', 'myth', 'admit', 'arm'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist retire still room catch scout like kind fee myth |  

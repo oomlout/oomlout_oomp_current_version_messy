@@ -122,6 +122,18 @@ brisk
 expose
 slender
 grant |  
+| bip_39_word_no_space_1 | transfer |  
+| bip_39_word_no_space_10 | transfertypicallawluckysortbriskexposeslendergrantposition |  
+| bip_39_word_no_space_11 | transfertypicallawluckysortbriskexposeslendergrantpositionmail |  
+| bip_39_word_no_space_12 | transfertypicallawluckysortbriskexposeslendergrantpositionmailangry |  
+| bip_39_word_no_space_2 | transfertypical |  
+| bip_39_word_no_space_3 | transfertypicallaw |  
+| bip_39_word_no_space_4 | transfertypicallawlucky |  
+| bip_39_word_no_space_5 | transfertypicallawluckysort |  
+| bip_39_word_no_space_6 | transfertypicallawluckysortbrisk |  
+| bip_39_word_no_space_7 | transfertypicallawluckysortbriskexpose |  
+| bip_39_word_no_space_8 | transfertypicallawluckysortbriskexposeslender |  
+| bip_39_word_no_space_9 | transfertypicallawluckysortbriskexposeslendergrant |  
 | bip_39_word_space_0 | ['transfer', 'typical', 'law', 'lucky', 'sort', 'brisk', 'expose', 'slender', 'grant', 'position', 'mail', 'angry'] |  
 | bip_39_word_space_1 | transfer |  
 | bip_39_word_space_10 | transfer typical law lucky sort brisk expose slender grant position |  

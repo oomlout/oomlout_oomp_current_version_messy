@@ -122,6 +122,18 @@ fee
 vicious
 eagle
 october |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glasswashquarterwagonbasicfeeviciouseagleoctoberhungry |  
+| bip_39_word_no_space_11 | glasswashquarterwagonbasicfeeviciouseagleoctoberhungryrail |  
+| bip_39_word_no_space_12 | glasswashquarterwagonbasicfeeviciouseagleoctoberhungryrailartist |  
+| bip_39_word_no_space_2 | glasswash |  
+| bip_39_word_no_space_3 | glasswashquarter |  
+| bip_39_word_no_space_4 | glasswashquarterwagon |  
+| bip_39_word_no_space_5 | glasswashquarterwagonbasic |  
+| bip_39_word_no_space_6 | glasswashquarterwagonbasicfee |  
+| bip_39_word_no_space_7 | glasswashquarterwagonbasicfeevicious |  
+| bip_39_word_no_space_8 | glasswashquarterwagonbasicfeeviciouseagle |  
+| bip_39_word_no_space_9 | glasswashquarterwagonbasicfeeviciouseagleoctober |  
 | bip_39_word_space_0 | ['glass', 'wash', 'quarter', 'wagon', 'basic', 'fee', 'vicious', 'eagle', 'october', 'hungry', 'rail', 'artist'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass wash quarter wagon basic fee vicious eagle october hungry |  

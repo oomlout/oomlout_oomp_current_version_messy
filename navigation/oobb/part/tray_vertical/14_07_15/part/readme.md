@@ -122,6 +122,18 @@ tennis
 practice
 glimpse
 invest |  
+| bip_39_word_no_space_1 | steak |  
+| bip_39_word_no_space_10 | steakconsiderrhythmendlessunhappytennispracticeglimpseinvesttruth |  
+| bip_39_word_no_space_11 | steakconsiderrhythmendlessunhappytennispracticeglimpseinvesttruthsleep |  
+| bip_39_word_no_space_12 | steakconsiderrhythmendlessunhappytennispracticeglimpseinvesttruthsleepartwork |  
+| bip_39_word_no_space_2 | steakconsider |  
+| bip_39_word_no_space_3 | steakconsiderrhythm |  
+| bip_39_word_no_space_4 | steakconsiderrhythmendless |  
+| bip_39_word_no_space_5 | steakconsiderrhythmendlessunhappy |  
+| bip_39_word_no_space_6 | steakconsiderrhythmendlessunhappytennis |  
+| bip_39_word_no_space_7 | steakconsiderrhythmendlessunhappytennispractice |  
+| bip_39_word_no_space_8 | steakconsiderrhythmendlessunhappytennispracticeglimpse |  
+| bip_39_word_no_space_9 | steakconsiderrhythmendlessunhappytennispracticeglimpseinvest |  
 | bip_39_word_space_0 | ['steak', 'consider', 'rhythm', 'endless', 'unhappy', 'tennis', 'practice', 'glimpse', 'invest', 'truth', 'sleep', 'artwork'] |  
 | bip_39_word_space_1 | steak |  
 | bip_39_word_space_10 | steak consider rhythm endless unhappy tennis practice glimpse invest truth |  

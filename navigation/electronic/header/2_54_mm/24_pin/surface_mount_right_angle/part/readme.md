@@ -122,6 +122,18 @@ army
 large
 biology
 remember |  
+| bip_39_word_no_space_1 | dream |  
+| bip_39_word_no_space_10 | dreamblooddressbloodrebuildarmylargebiologyrememberangle |  
+| bip_39_word_no_space_11 | dreamblooddressbloodrebuildarmylargebiologyrememberangleaudit |  
+| bip_39_word_no_space_12 | dreamblooddressbloodrebuildarmylargebiologyrememberangleauditart |  
+| bip_39_word_no_space_2 | dreamblood |  
+| bip_39_word_no_space_3 | dreamblooddress |  
+| bip_39_word_no_space_4 | dreamblooddressblood |  
+| bip_39_word_no_space_5 | dreamblooddressbloodrebuild |  
+| bip_39_word_no_space_6 | dreamblooddressbloodrebuildarmy |  
+| bip_39_word_no_space_7 | dreamblooddressbloodrebuildarmylarge |  
+| bip_39_word_no_space_8 | dreamblooddressbloodrebuildarmylargebiology |  
+| bip_39_word_no_space_9 | dreamblooddressbloodrebuildarmylargebiologyremember |  
 | bip_39_word_space_0 | ['dream', 'blood', 'dress', 'blood', 'rebuild', 'army', 'large', 'biology', 'remember', 'angle', 'audit', 'art'] |  
 | bip_39_word_space_1 | dream |  
 | bip_39_word_space_10 | dream blood dress blood rebuild army large biology remember angle |  

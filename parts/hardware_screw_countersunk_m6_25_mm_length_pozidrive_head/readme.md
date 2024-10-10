@@ -122,6 +122,18 @@ bag
 paddle
 wheat
 feature |  
+| bip_39_word_no_space_1 | risk |  
+| bip_39_word_no_space_10 | riskdebateembodydadharvestbagpaddlewheatfeaturehero |  
+| bip_39_word_no_space_11 | riskdebateembodydadharvestbagpaddlewheatfeatureherosummer |  
+| bip_39_word_no_space_12 | riskdebateembodydadharvestbagpaddlewheatfeatureherosummeraccount |  
+| bip_39_word_no_space_2 | riskdebate |  
+| bip_39_word_no_space_3 | riskdebateembody |  
+| bip_39_word_no_space_4 | riskdebateembodydad |  
+| bip_39_word_no_space_5 | riskdebateembodydadharvest |  
+| bip_39_word_no_space_6 | riskdebateembodydadharvestbag |  
+| bip_39_word_no_space_7 | riskdebateembodydadharvestbagpaddle |  
+| bip_39_word_no_space_8 | riskdebateembodydadharvestbagpaddlewheat |  
+| bip_39_word_no_space_9 | riskdebateembodydadharvestbagpaddlewheatfeature |  
 | bip_39_word_space_0 | ['risk', 'debate', 'embody', 'dad', 'harvest', 'bag', 'paddle', 'wheat', 'feature', 'hero', 'summer', 'account'] |  
 | bip_39_word_space_1 | risk |  
 | bip_39_word_space_10 | risk debate embody dad harvest bag paddle wheat feature hero |  

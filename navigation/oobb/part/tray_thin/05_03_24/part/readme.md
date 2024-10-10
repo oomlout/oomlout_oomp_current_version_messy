@@ -122,6 +122,18 @@ pride
 skull
 close
 ready |  
+| bip_39_word_no_space_1 | couple |  
+| bip_39_word_no_space_10 | couplefrogworrycombinebladeprideskullclosereadyfit |  
+| bip_39_word_no_space_11 | couplefrogworrycombinebladeprideskullclosereadyfitmuch |  
+| bip_39_word_no_space_12 | couplefrogworrycombinebladeprideskullclosereadyfitmuchannual |  
+| bip_39_word_no_space_2 | couplefrog |  
+| bip_39_word_no_space_3 | couplefrogworry |  
+| bip_39_word_no_space_4 | couplefrogworrycombine |  
+| bip_39_word_no_space_5 | couplefrogworrycombineblade |  
+| bip_39_word_no_space_6 | couplefrogworrycombinebladepride |  
+| bip_39_word_no_space_7 | couplefrogworrycombinebladeprideskull |  
+| bip_39_word_no_space_8 | couplefrogworrycombinebladeprideskullclose |  
+| bip_39_word_no_space_9 | couplefrogworrycombinebladeprideskullcloseready |  
 | bip_39_word_space_0 | ['couple', 'frog', 'worry', 'combine', 'blade', 'pride', 'skull', 'close', 'ready', 'fit', 'much', 'annual'] |  
 | bip_39_word_space_1 | couple |  
 | bip_39_word_space_10 | couple frog worry combine blade pride skull close ready fit |  

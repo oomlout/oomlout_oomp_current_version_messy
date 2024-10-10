@@ -122,6 +122,18 @@ marriage
 daring
 sick
 gospel |  
+| bip_39_word_no_space_1 | loud |  
+| bip_39_word_no_space_10 | loudabstractfilmbasketcouplemarriagedaringsickgospeltheme |  
+| bip_39_word_no_space_11 | loudabstractfilmbasketcouplemarriagedaringsickgospelthemechicken |  
+| bip_39_word_no_space_12 | loudabstractfilmbasketcouplemarriagedaringsickgospelthemechickenact |  
+| bip_39_word_no_space_2 | loudabstract |  
+| bip_39_word_no_space_3 | loudabstractfilm |  
+| bip_39_word_no_space_4 | loudabstractfilmbasket |  
+| bip_39_word_no_space_5 | loudabstractfilmbasketcouple |  
+| bip_39_word_no_space_6 | loudabstractfilmbasketcouplemarriage |  
+| bip_39_word_no_space_7 | loudabstractfilmbasketcouplemarriagedaring |  
+| bip_39_word_no_space_8 | loudabstractfilmbasketcouplemarriagedaringsick |  
+| bip_39_word_no_space_9 | loudabstractfilmbasketcouplemarriagedaringsickgospel |  
 | bip_39_word_space_0 | ['loud', 'abstract', 'film', 'basket', 'couple', 'marriage', 'daring', 'sick', 'gospel', 'theme', 'chicken', 'act'] |  
 | bip_39_word_space_1 | loud |  
 | bip_39_word_space_10 | loud abstract film basket couple marriage daring sick gospel theme |  

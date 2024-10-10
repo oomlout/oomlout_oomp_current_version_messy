@@ -122,6 +122,18 @@ lonely
 fluid
 inject
 pilot |  
+| bip_39_word_no_space_1 | ridge |  
+| bip_39_word_no_space_10 | ridgeeasilyharborforkanalystlonelyfluidinjectpilotcover |  
+| bip_39_word_no_space_11 | ridgeeasilyharborforkanalystlonelyfluidinjectpilotcoverselect |  
+| bip_39_word_no_space_12 | ridgeeasilyharborforkanalystlonelyfluidinjectpilotcoverselectaround |  
+| bip_39_word_no_space_2 | ridgeeasily |  
+| bip_39_word_no_space_3 | ridgeeasilyharbor |  
+| bip_39_word_no_space_4 | ridgeeasilyharborfork |  
+| bip_39_word_no_space_5 | ridgeeasilyharborforkanalyst |  
+| bip_39_word_no_space_6 | ridgeeasilyharborforkanalystlonely |  
+| bip_39_word_no_space_7 | ridgeeasilyharborforkanalystlonelyfluid |  
+| bip_39_word_no_space_8 | ridgeeasilyharborforkanalystlonelyfluidinject |  
+| bip_39_word_no_space_9 | ridgeeasilyharborforkanalystlonelyfluidinjectpilot |  
 | bip_39_word_space_0 | ['ridge', 'easily', 'harbor', 'fork', 'analyst', 'lonely', 'fluid', 'inject', 'pilot', 'cover', 'select', 'around'] |  
 | bip_39_word_space_1 | ridge |  
 | bip_39_word_space_10 | ridge easily harbor fork analyst lonely fluid inject pilot cover |  

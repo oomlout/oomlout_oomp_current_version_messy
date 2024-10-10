@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'song
   glory
 
   wagon'
+bip_39_word_no_space_1: song
+bip_39_word_no_space_10: songfilecontrolexhibitwinterendorsechiefglorywagondivert
+bip_39_word_no_space_11: songfilecontrolexhibitwinterendorsechiefglorywagondivertpencil
+bip_39_word_no_space_12: songfilecontrolexhibitwinterendorsechiefglorywagondivertpencilarmy
+bip_39_word_no_space_2: songfile
+bip_39_word_no_space_3: songfilecontrol
+bip_39_word_no_space_4: songfilecontrolexhibit
+bip_39_word_no_space_5: songfilecontrolexhibitwinter
+bip_39_word_no_space_6: songfilecontrolexhibitwinterendorse
+bip_39_word_no_space_7: songfilecontrolexhibitwinterendorsechief
+bip_39_word_no_space_8: songfilecontrolexhibitwinterendorsechiefglory
+bip_39_word_no_space_9: songfilecontrolexhibitwinterendorsechiefglorywagon
 bip_39_word_space_0:
 - song
 - file

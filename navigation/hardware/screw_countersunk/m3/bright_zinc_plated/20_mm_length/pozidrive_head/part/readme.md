@@ -122,6 +122,18 @@ solid
 pizza
 useful
 waste |  
+| bip_39_word_no_space_1 | emotion |  
+| bip_39_word_no_space_10 | emotionglideslamtalkwrapsolidpizzausefulwastepond |  
+| bip_39_word_no_space_11 | emotionglideslamtalkwrapsolidpizzausefulwastepondgrape |  
+| bip_39_word_no_space_12 | emotionglideslamtalkwrapsolidpizzausefulwastepondgrapearrow |  
+| bip_39_word_no_space_2 | emotionglide |  
+| bip_39_word_no_space_3 | emotionglideslam |  
+| bip_39_word_no_space_4 | emotionglideslamtalk |  
+| bip_39_word_no_space_5 | emotionglideslamtalkwrap |  
+| bip_39_word_no_space_6 | emotionglideslamtalkwrapsolid |  
+| bip_39_word_no_space_7 | emotionglideslamtalkwrapsolidpizza |  
+| bip_39_word_no_space_8 | emotionglideslamtalkwrapsolidpizzauseful |  
+| bip_39_word_no_space_9 | emotionglideslamtalkwrapsolidpizzausefulwaste |  
 | bip_39_word_space_0 | ['emotion', 'glide', 'slam', 'talk', 'wrap', 'solid', 'pizza', 'useful', 'waste', 'pond', 'grape', 'arrow'] |  
 | bip_39_word_space_1 | emotion |  
 | bip_39_word_space_10 | emotion glide slam talk wrap solid pizza useful waste pond |  

@@ -122,6 +122,18 @@ shallow
 churn
 warm
 hunt |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguarnextshadowspoilviciousshallowchurnwarmhuntamused |  
+| bip_39_word_no_space_11 | jaguarnextshadowspoilviciousshallowchurnwarmhuntamusedgreat |  
+| bip_39_word_no_space_12 | jaguarnextshadowspoilviciousshallowchurnwarmhuntamusedgreatallow |  
+| bip_39_word_no_space_2 | jaguarnext |  
+| bip_39_word_no_space_3 | jaguarnextshadow |  
+| bip_39_word_no_space_4 | jaguarnextshadowspoil |  
+| bip_39_word_no_space_5 | jaguarnextshadowspoilvicious |  
+| bip_39_word_no_space_6 | jaguarnextshadowspoilviciousshallow |  
+| bip_39_word_no_space_7 | jaguarnextshadowspoilviciousshallowchurn |  
+| bip_39_word_no_space_8 | jaguarnextshadowspoilviciousshallowchurnwarm |  
+| bip_39_word_no_space_9 | jaguarnextshadowspoilviciousshallowchurnwarmhunt |  
 | bip_39_word_space_0 | ['jaguar', 'next', 'shadow', 'spoil', 'vicious', 'shallow', 'churn', 'warm', 'hunt', 'amused', 'great', 'allow'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar next shadow spoil vicious shallow churn warm hunt amused |  

@@ -122,6 +122,18 @@ object
 know
 tone
 grit |  
+| bip_39_word_no_space_1 | drop |  
+| bip_39_word_no_space_10 | droplabelpiecedisplaypoemobjectknowtonegritabstract |  
+| bip_39_word_no_space_11 | droplabelpiecedisplaypoemobjectknowtonegritabstractdegree |  
+| bip_39_word_no_space_12 | droplabelpiecedisplaypoemobjectknowtonegritabstractdegreeacross |  
+| bip_39_word_no_space_2 | droplabel |  
+| bip_39_word_no_space_3 | droplabelpiece |  
+| bip_39_word_no_space_4 | droplabelpiecedisplay |  
+| bip_39_word_no_space_5 | droplabelpiecedisplaypoem |  
+| bip_39_word_no_space_6 | droplabelpiecedisplaypoemobject |  
+| bip_39_word_no_space_7 | droplabelpiecedisplaypoemobjectknow |  
+| bip_39_word_no_space_8 | droplabelpiecedisplaypoemobjectknowtone |  
+| bip_39_word_no_space_9 | droplabelpiecedisplaypoemobjectknowtonegrit |  
 | bip_39_word_space_0 | ['drop', 'label', 'piece', 'display', 'poem', 'object', 'know', 'tone', 'grit', 'abstract', 'degree', 'across'] |  
 | bip_39_word_space_1 | drop |  
 | bip_39_word_space_10 | drop label piece display poem object know tone grit abstract |  

@@ -122,6 +122,18 @@ logic
 drift
 flee
 carbon |  
+| bip_39_word_no_space_1 | already |  
+| bip_39_word_no_space_10 | alreadyidentifycollectdesigncautionlogicdriftfleecarbonleave |  
+| bip_39_word_no_space_11 | alreadyidentifycollectdesigncautionlogicdriftfleecarbonleavegrunt |  
+| bip_39_word_no_space_12 | alreadyidentifycollectdesigncautionlogicdriftfleecarbonleavegruntaround |  
+| bip_39_word_no_space_2 | alreadyidentify |  
+| bip_39_word_no_space_3 | alreadyidentifycollect |  
+| bip_39_word_no_space_4 | alreadyidentifycollectdesign |  
+| bip_39_word_no_space_5 | alreadyidentifycollectdesigncaution |  
+| bip_39_word_no_space_6 | alreadyidentifycollectdesigncautionlogic |  
+| bip_39_word_no_space_7 | alreadyidentifycollectdesigncautionlogicdrift |  
+| bip_39_word_no_space_8 | alreadyidentifycollectdesigncautionlogicdriftflee |  
+| bip_39_word_no_space_9 | alreadyidentifycollectdesigncautionlogicdriftfleecarbon |  
 | bip_39_word_space_0 | ['already', 'identify', 'collect', 'design', 'caution', 'logic', 'drift', 'flee', 'carbon', 'leave', 'grunt', 'around'] |  
 | bip_39_word_space_1 | already |  
 | bip_39_word_space_10 | already identify collect design caution logic drift flee carbon leave |  

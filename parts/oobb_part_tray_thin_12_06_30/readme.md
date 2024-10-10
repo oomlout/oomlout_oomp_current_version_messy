@@ -122,6 +122,18 @@ ugly
 tooth
 later
 unlock |  
+| bip_39_word_no_space_1 | bus |  
+| bip_39_word_no_space_10 | busbudgetoperaraiseaboveuglytoothlaterunlocknuclear |  
+| bip_39_word_no_space_11 | busbudgetoperaraiseaboveuglytoothlaterunlocknuclearactress |  
+| bip_39_word_no_space_12 | busbudgetoperaraiseaboveuglytoothlaterunlocknuclearactressage |  
+| bip_39_word_no_space_2 | busbudget |  
+| bip_39_word_no_space_3 | busbudgetopera |  
+| bip_39_word_no_space_4 | busbudgetoperaraise |  
+| bip_39_word_no_space_5 | busbudgetoperaraiseabove |  
+| bip_39_word_no_space_6 | busbudgetoperaraiseaboveugly |  
+| bip_39_word_no_space_7 | busbudgetoperaraiseaboveuglytooth |  
+| bip_39_word_no_space_8 | busbudgetoperaraiseaboveuglytoothlater |  
+| bip_39_word_no_space_9 | busbudgetoperaraiseaboveuglytoothlaterunlock |  
 | bip_39_word_space_0 | ['bus', 'budget', 'opera', 'raise', 'above', 'ugly', 'tooth', 'later', 'unlock', 'nuclear', 'actress', 'age'] |  
 | bip_39_word_space_1 | bus |  
 | bip_39_word_space_10 | bus budget opera raise above ugly tooth later unlock nuclear |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'piano
   suspect
 
   bronze'
+bip_39_word_no_space_1: piano
+bip_39_word_no_space_10: pianograntwhenfortunecherrycanvassweetsuspectbronzeapril
+bip_39_word_no_space_11: pianograntwhenfortunecherrycanvassweetsuspectbronzeaprilend
+bip_39_word_no_space_12: pianograntwhenfortunecherrycanvassweetsuspectbronzeaprilendahead
+bip_39_word_no_space_2: pianogrant
+bip_39_word_no_space_3: pianograntwhen
+bip_39_word_no_space_4: pianograntwhenfortune
+bip_39_word_no_space_5: pianograntwhenfortunecherry
+bip_39_word_no_space_6: pianograntwhenfortunecherrycanvas
+bip_39_word_no_space_7: pianograntwhenfortunecherrycanvassweet
+bip_39_word_no_space_8: pianograntwhenfortunecherrycanvassweetsuspect
+bip_39_word_no_space_9: pianograntwhenfortunecherrycanvassweetsuspectbronze
 bip_39_word_space_0:
 - piano
 - grant

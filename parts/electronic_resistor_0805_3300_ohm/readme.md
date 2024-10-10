@@ -122,6 +122,18 @@ remember
 mammal
 body
 mad |  
+| bip_39_word_no_space_1 | female |  
+| bip_39_word_no_space_10 | femaleunknownablenotableillremembermammalbodymadelegant |  
+| bip_39_word_no_space_11 | femaleunknownablenotableillremembermammalbodymadelegantdilemma |  
+| bip_39_word_no_space_12 | femaleunknownablenotableillremembermammalbodymadelegantdilemmaalbum |  
+| bip_39_word_no_space_2 | femaleunknown |  
+| bip_39_word_no_space_3 | femaleunknownable |  
+| bip_39_word_no_space_4 | femaleunknownablenotable |  
+| bip_39_word_no_space_5 | femaleunknownablenotableill |  
+| bip_39_word_no_space_6 | femaleunknownablenotableillremember |  
+| bip_39_word_no_space_7 | femaleunknownablenotableillremembermammal |  
+| bip_39_word_no_space_8 | femaleunknownablenotableillremembermammalbody |  
+| bip_39_word_no_space_9 | femaleunknownablenotableillremembermammalbodymad |  
 | bip_39_word_space_0 | ['female', 'unknown', 'able', 'notable', 'ill', 'remember', 'mammal', 'body', 'mad', 'elegant', 'dilemma', 'album'] |  
 | bip_39_word_space_1 | female |  
 | bip_39_word_space_10 | female unknown able notable ill remember mammal body mad elegant |  

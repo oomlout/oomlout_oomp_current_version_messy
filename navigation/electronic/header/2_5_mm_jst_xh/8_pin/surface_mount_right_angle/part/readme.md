@@ -122,6 +122,18 @@ north
 movie
 winter
 saddle |  
+| bip_39_word_no_space_1 | airport |  
+| bip_39_word_no_space_10 | airportgaugemainlabelsalmonnorthmoviewintersaddlemiracle |  
+| bip_39_word_no_space_11 | airportgaugemainlabelsalmonnorthmoviewintersaddlemiraclewinner |  
+| bip_39_word_no_space_12 | airportgaugemainlabelsalmonnorthmoviewintersaddlemiraclewinneralone |  
+| bip_39_word_no_space_2 | airportgauge |  
+| bip_39_word_no_space_3 | airportgaugemain |  
+| bip_39_word_no_space_4 | airportgaugemainlabel |  
+| bip_39_word_no_space_5 | airportgaugemainlabelsalmon |  
+| bip_39_word_no_space_6 | airportgaugemainlabelsalmonnorth |  
+| bip_39_word_no_space_7 | airportgaugemainlabelsalmonnorthmovie |  
+| bip_39_word_no_space_8 | airportgaugemainlabelsalmonnorthmoviewinter |  
+| bip_39_word_no_space_9 | airportgaugemainlabelsalmonnorthmoviewintersaddle |  
 | bip_39_word_space_0 | ['airport', 'gauge', 'main', 'label', 'salmon', 'north', 'movie', 'winter', 'saddle', 'miracle', 'winner', 'alone'] |  
 | bip_39_word_space_1 | airport |  
 | bip_39_word_space_10 | airport gauge main label salmon north movie winter saddle miracle |  

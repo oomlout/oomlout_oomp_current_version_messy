@@ -122,6 +122,18 @@ once
 wall
 obvious
 cruise |  
+| bip_39_word_no_space_1 | stem |  
+| bip_39_word_no_space_10 | stemislandfoilresultforgetoncewallobviouscruiseenvelope |  
+| bip_39_word_no_space_11 | stemislandfoilresultforgetoncewallobviouscruiseenvelopevital |  
+| bip_39_word_no_space_12 | stemislandfoilresultforgetoncewallobviouscruiseenvelopevitaladdress |  
+| bip_39_word_no_space_2 | stemisland |  
+| bip_39_word_no_space_3 | stemislandfoil |  
+| bip_39_word_no_space_4 | stemislandfoilresult |  
+| bip_39_word_no_space_5 | stemislandfoilresultforget |  
+| bip_39_word_no_space_6 | stemislandfoilresultforgetonce |  
+| bip_39_word_no_space_7 | stemislandfoilresultforgetoncewall |  
+| bip_39_word_no_space_8 | stemislandfoilresultforgetoncewallobvious |  
+| bip_39_word_no_space_9 | stemislandfoilresultforgetoncewallobviouscruise |  
 | bip_39_word_space_0 | ['stem', 'island', 'foil', 'result', 'forget', 'once', 'wall', 'obvious', 'cruise', 'envelope', 'vital', 'address'] |  
 | bip_39_word_space_1 | stem |  
 | bip_39_word_space_10 | stem island foil result forget once wall obvious cruise envelope |  

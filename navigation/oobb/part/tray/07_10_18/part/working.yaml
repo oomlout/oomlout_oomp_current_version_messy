@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wing
   muffin
 
   panic'
+bip_39_word_no_space_1: wing
+bip_39_word_no_space_10: wingclockadaptemploysymptomtodaysourcemuffinpanickitchen
+bip_39_word_no_space_11: wingclockadaptemploysymptomtodaysourcemuffinpanickitchentoast
+bip_39_word_no_space_12: wingclockadaptemploysymptomtodaysourcemuffinpanickitchentoastarrow
+bip_39_word_no_space_2: wingclock
+bip_39_word_no_space_3: wingclockadapt
+bip_39_word_no_space_4: wingclockadaptemploy
+bip_39_word_no_space_5: wingclockadaptemploysymptom
+bip_39_word_no_space_6: wingclockadaptemploysymptomtoday
+bip_39_word_no_space_7: wingclockadaptemploysymptomtodaysource
+bip_39_word_no_space_8: wingclockadaptemploysymptomtodaysourcemuffin
+bip_39_word_no_space_9: wingclockadaptemploysymptomtodaysourcemuffinpanic
 bip_39_word_space_0:
 - wing
 - clock

@@ -122,6 +122,18 @@ bread
 matter
 guilt
 squirrel |  
+| bip_39_word_no_space_1 | number |  
+| bip_39_word_no_space_10 | numberinmatefeaturehelloradiobreadmatterguiltsquirrelbalcony |  
+| bip_39_word_no_space_11 | numberinmatefeaturehelloradiobreadmatterguiltsquirrelbalconymust |  
+| bip_39_word_no_space_12 | numberinmatefeaturehelloradiobreadmatterguiltsquirrelbalconymustantenna |  
+| bip_39_word_no_space_2 | numberinmate |  
+| bip_39_word_no_space_3 | numberinmatefeature |  
+| bip_39_word_no_space_4 | numberinmatefeaturehello |  
+| bip_39_word_no_space_5 | numberinmatefeaturehelloradio |  
+| bip_39_word_no_space_6 | numberinmatefeaturehelloradiobread |  
+| bip_39_word_no_space_7 | numberinmatefeaturehelloradiobreadmatter |  
+| bip_39_word_no_space_8 | numberinmatefeaturehelloradiobreadmatterguilt |  
+| bip_39_word_no_space_9 | numberinmatefeaturehelloradiobreadmatterguiltsquirrel |  
 | bip_39_word_space_0 | ['number', 'inmate', 'feature', 'hello', 'radio', 'bread', 'matter', 'guilt', 'squirrel', 'balcony', 'must', 'antenna'] |  
 | bip_39_word_space_1 | number |  
 | bip_39_word_space_10 | number inmate feature hello radio bread matter guilt squirrel balcony |  

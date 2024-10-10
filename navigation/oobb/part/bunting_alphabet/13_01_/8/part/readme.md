@@ -122,6 +122,18 @@ friend
 doctor
 boss
 deliver |  
+| bip_39_word_no_space_1 | abandon |  
+| bip_39_word_no_space_10 | abandonbeltwastetapealcoholfrienddoctorbossdeliverscorpion |  
+| bip_39_word_no_space_11 | abandonbeltwastetapealcoholfrienddoctorbossdeliverscorpiontube |  
+| bip_39_word_no_space_12 | abandonbeltwastetapealcoholfrienddoctorbossdeliverscorpiontubeattack |  
+| bip_39_word_no_space_2 | abandonbelt |  
+| bip_39_word_no_space_3 | abandonbeltwaste |  
+| bip_39_word_no_space_4 | abandonbeltwastetape |  
+| bip_39_word_no_space_5 | abandonbeltwastetapealcohol |  
+| bip_39_word_no_space_6 | abandonbeltwastetapealcoholfriend |  
+| bip_39_word_no_space_7 | abandonbeltwastetapealcoholfrienddoctor |  
+| bip_39_word_no_space_8 | abandonbeltwastetapealcoholfrienddoctorboss |  
+| bip_39_word_no_space_9 | abandonbeltwastetapealcoholfrienddoctorbossdeliver |  
 | bip_39_word_space_0 | ['abandon', 'belt', 'waste', 'tape', 'alcohol', 'friend', 'doctor', 'boss', 'deliver', 'scorpion', 'tube', 'attack'] |  
 | bip_39_word_space_1 | abandon |  
 | bip_39_word_space_10 | abandon belt waste tape alcohol friend doctor boss deliver scorpion |  

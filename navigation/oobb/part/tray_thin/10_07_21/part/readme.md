@@ -122,6 +122,18 @@ rescue
 deal
 fabric
 isolate |  
+| bip_39_word_no_space_1 | vast |  
+| bip_39_word_no_space_10 | vastvalverivalmammalimmenserescuedealfabricisolatemention |  
+| bip_39_word_no_space_11 | vastvalverivalmammalimmenserescuedealfabricisolatementionpriority |  
+| bip_39_word_no_space_12 | vastvalverivalmammalimmenserescuedealfabricisolatementionpriorityarm |  
+| bip_39_word_no_space_2 | vastvalve |  
+| bip_39_word_no_space_3 | vastvalverival |  
+| bip_39_word_no_space_4 | vastvalverivalmammal |  
+| bip_39_word_no_space_5 | vastvalverivalmammalimmense |  
+| bip_39_word_no_space_6 | vastvalverivalmammalimmenserescue |  
+| bip_39_word_no_space_7 | vastvalverivalmammalimmenserescuedeal |  
+| bip_39_word_no_space_8 | vastvalverivalmammalimmenserescuedealfabric |  
+| bip_39_word_no_space_9 | vastvalverivalmammalimmenserescuedealfabricisolate |  
 | bip_39_word_space_0 | ['vast', 'valve', 'rival', 'mammal', 'immense', 'rescue', 'deal', 'fabric', 'isolate', 'mention', 'priority', 'arm'] |  
 | bip_39_word_space_1 | vast |  
 | bip_39_word_space_10 | vast valve rival mammal immense rescue deal fabric isolate mention |  

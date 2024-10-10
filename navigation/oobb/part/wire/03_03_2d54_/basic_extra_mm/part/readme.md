@@ -122,6 +122,18 @@ chapter
 away
 swing
 myself |  
+| bip_39_word_no_space_1 | milk |  
+| bip_39_word_no_space_10 | milktobaccoflightarenaimpactchapterawayswingmyselfinterest |  
+| bip_39_word_no_space_11 | milktobaccoflightarenaimpactchapterawayswingmyselfinterestconsider |  
+| bip_39_word_no_space_12 | milktobaccoflightarenaimpactchapterawayswingmyselfinterestconsideranother |  
+| bip_39_word_no_space_2 | milktobacco |  
+| bip_39_word_no_space_3 | milktobaccoflight |  
+| bip_39_word_no_space_4 | milktobaccoflightarena |  
+| bip_39_word_no_space_5 | milktobaccoflightarenaimpact |  
+| bip_39_word_no_space_6 | milktobaccoflightarenaimpactchapter |  
+| bip_39_word_no_space_7 | milktobaccoflightarenaimpactchapteraway |  
+| bip_39_word_no_space_8 | milktobaccoflightarenaimpactchapterawayswing |  
+| bip_39_word_no_space_9 | milktobaccoflightarenaimpactchapterawayswingmyself |  
 | bip_39_word_space_0 | ['milk', 'tobacco', 'flight', 'arena', 'impact', 'chapter', 'away', 'swing', 'myself', 'interest', 'consider', 'another'] |  
 | bip_39_word_space_1 | milk |  
 | bip_39_word_space_10 | milk tobacco flight arena impact chapter away swing myself interest |  

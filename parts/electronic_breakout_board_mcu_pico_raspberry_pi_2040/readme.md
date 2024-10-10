@@ -122,6 +122,18 @@ suit
 charge
 helmet
 salmon |  
+| bip_39_word_no_space_1 | section |  
+| bip_39_word_no_space_10 | sectiontogetherslamsnifftoothsuitchargehelmetsalmonwelcome |  
+| bip_39_word_no_space_11 | sectiontogetherslamsnifftoothsuitchargehelmetsalmonwelcometeam |  
+| bip_39_word_no_space_12 | sectiontogetherslamsnifftoothsuitchargehelmetsalmonwelcometeamassault |  
+| bip_39_word_no_space_2 | sectiontogether |  
+| bip_39_word_no_space_3 | sectiontogetherslam |  
+| bip_39_word_no_space_4 | sectiontogetherslamsniff |  
+| bip_39_word_no_space_5 | sectiontogetherslamsnifftooth |  
+| bip_39_word_no_space_6 | sectiontogetherslamsnifftoothsuit |  
+| bip_39_word_no_space_7 | sectiontogetherslamsnifftoothsuitcharge |  
+| bip_39_word_no_space_8 | sectiontogetherslamsnifftoothsuitchargehelmet |  
+| bip_39_word_no_space_9 | sectiontogetherslamsnifftoothsuitchargehelmetsalmon |  
 | bip_39_word_space_0 | ['section', 'together', 'slam', 'sniff', 'tooth', 'suit', 'charge', 'helmet', 'salmon', 'welcome', 'team', 'assault'] |  
 | bip_39_word_space_1 | section |  
 | bip_39_word_space_10 | section together slam sniff tooth suit charge helmet salmon welcome |  

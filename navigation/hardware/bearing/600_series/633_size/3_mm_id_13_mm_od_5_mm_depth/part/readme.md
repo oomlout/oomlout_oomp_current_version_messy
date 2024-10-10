@@ -122,6 +122,18 @@ card
 sunset
 laundry
 blade |  
+| bip_39_word_no_space_1 | scan |  
+| bip_39_word_no_space_10 | scancouchscrapnoodleanglecardsunsetlaundrybladewinter |  
+| bip_39_word_no_space_11 | scancouchscrapnoodleanglecardsunsetlaundrybladewinterdove |  
+| bip_39_word_no_space_12 | scancouchscrapnoodleanglecardsunsetlaundrybladewinterdovealert |  
+| bip_39_word_no_space_2 | scancouch |  
+| bip_39_word_no_space_3 | scancouchscrap |  
+| bip_39_word_no_space_4 | scancouchscrapnoodle |  
+| bip_39_word_no_space_5 | scancouchscrapnoodleangle |  
+| bip_39_word_no_space_6 | scancouchscrapnoodleanglecard |  
+| bip_39_word_no_space_7 | scancouchscrapnoodleanglecardsunset |  
+| bip_39_word_no_space_8 | scancouchscrapnoodleanglecardsunsetlaundry |  
+| bip_39_word_no_space_9 | scancouchscrapnoodleanglecardsunsetlaundryblade |  
 | bip_39_word_space_0 | ['scan', 'couch', 'scrap', 'noodle', 'angle', 'card', 'sunset', 'laundry', 'blade', 'winter', 'dove', 'alert'] |  
 | bip_39_word_space_1 | scan |  
 | bip_39_word_space_10 | scan couch scrap noodle angle card sunset laundry blade winter |  

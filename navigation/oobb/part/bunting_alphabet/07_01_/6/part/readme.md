@@ -122,6 +122,18 @@ foster
 topic
 smoke
 empty |  
+| bip_39_word_no_space_1 | skirt |  
+| bip_39_word_no_space_10 | skirttrickchangeblindtransferfostertopicsmokeemptymust |  
+| bip_39_word_no_space_11 | skirttrickchangeblindtransferfostertopicsmokeemptymustsugar |  
+| bip_39_word_no_space_12 | skirttrickchangeblindtransferfostertopicsmokeemptymustsugaraugust |  
+| bip_39_word_no_space_2 | skirttrick |  
+| bip_39_word_no_space_3 | skirttrickchange |  
+| bip_39_word_no_space_4 | skirttrickchangeblind |  
+| bip_39_word_no_space_5 | skirttrickchangeblindtransfer |  
+| bip_39_word_no_space_6 | skirttrickchangeblindtransferfoster |  
+| bip_39_word_no_space_7 | skirttrickchangeblindtransferfostertopic |  
+| bip_39_word_no_space_8 | skirttrickchangeblindtransferfostertopicsmoke |  
+| bip_39_word_no_space_9 | skirttrickchangeblindtransferfostertopicsmokeempty |  
 | bip_39_word_space_0 | ['skirt', 'trick', 'change', 'blind', 'transfer', 'foster', 'topic', 'smoke', 'empty', 'must', 'sugar', 'august'] |  
 | bip_39_word_space_1 | skirt |  
 | bip_39_word_space_10 | skirt trick change blind transfer foster topic smoke empty must |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'supreme
   praise
 
   lunch'
+bip_39_word_no_space_1: supreme
+bip_39_word_no_space_10: supremeamusedracelavalivelumbersortpraiselunchbudget
+bip_39_word_no_space_11: supremeamusedracelavalivelumbersortpraiselunchbudgetenemy
+bip_39_word_no_space_12: supremeamusedracelavalivelumbersortpraiselunchbudgetenemyattract
+bip_39_word_no_space_2: supremeamused
+bip_39_word_no_space_3: supremeamusedrace
+bip_39_word_no_space_4: supremeamusedracelava
+bip_39_word_no_space_5: supremeamusedracelavalive
+bip_39_word_no_space_6: supremeamusedracelavalivelumber
+bip_39_word_no_space_7: supremeamusedracelavalivelumbersort
+bip_39_word_no_space_8: supremeamusedracelavalivelumbersortpraise
+bip_39_word_no_space_9: supremeamusedracelavalivelumbersortpraiselunch
 bip_39_word_space_0:
 - supreme
 - amused

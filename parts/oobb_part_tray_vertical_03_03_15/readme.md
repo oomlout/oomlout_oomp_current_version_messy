@@ -122,6 +122,18 @@ kidney
 sport
 bacon
 double |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | briskdeputyaimasthmafavoritekidneysportbacondoubletilt |  
+| bip_39_word_no_space_11 | briskdeputyaimasthmafavoritekidneysportbacondoubletiltwrap |  
+| bip_39_word_no_space_12 | briskdeputyaimasthmafavoritekidneysportbacondoubletiltwrapattitude |  
+| bip_39_word_no_space_2 | briskdeputy |  
+| bip_39_word_no_space_3 | briskdeputyaim |  
+| bip_39_word_no_space_4 | briskdeputyaimasthma |  
+| bip_39_word_no_space_5 | briskdeputyaimasthmafavorite |  
+| bip_39_word_no_space_6 | briskdeputyaimasthmafavoritekidney |  
+| bip_39_word_no_space_7 | briskdeputyaimasthmafavoritekidneysport |  
+| bip_39_word_no_space_8 | briskdeputyaimasthmafavoritekidneysportbacon |  
+| bip_39_word_no_space_9 | briskdeputyaimasthmafavoritekidneysportbacondouble |  
 | bip_39_word_space_0 | ['brisk', 'deputy', 'aim', 'asthma', 'favorite', 'kidney', 'sport', 'bacon', 'double', 'tilt', 'wrap', 'attitude'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk deputy aim asthma favorite kidney sport bacon double tilt |  

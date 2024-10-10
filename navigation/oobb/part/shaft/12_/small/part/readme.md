@@ -122,6 +122,18 @@ demand
 chef
 wife
 balance |  
+| bip_39_word_no_space_1 | produce |  
+| bip_39_word_no_space_10 | produceexhibitsausagepatheruptdemandchefwifebalancedrill |  
+| bip_39_word_no_space_11 | produceexhibitsausagepatheruptdemandchefwifebalancedrillinmate |  
+| bip_39_word_no_space_12 | produceexhibitsausagepatheruptdemandchefwifebalancedrillinmateassault |  
+| bip_39_word_no_space_2 | produceexhibit |  
+| bip_39_word_no_space_3 | produceexhibitsausage |  
+| bip_39_word_no_space_4 | produceexhibitsausagepath |  
+| bip_39_word_no_space_5 | produceexhibitsausagepatherupt |  
+| bip_39_word_no_space_6 | produceexhibitsausagepatheruptdemand |  
+| bip_39_word_no_space_7 | produceexhibitsausagepatheruptdemandchef |  
+| bip_39_word_no_space_8 | produceexhibitsausagepatheruptdemandchefwife |  
+| bip_39_word_no_space_9 | produceexhibitsausagepatheruptdemandchefwifebalance |  
 | bip_39_word_space_0 | ['produce', 'exhibit', 'sausage', 'path', 'erupt', 'demand', 'chef', 'wife', 'balance', 'drill', 'inmate', 'assault'] |  
 | bip_39_word_space_1 | produce |  
 | bip_39_word_space_10 | produce exhibit sausage path erupt demand chef wife balance drill |  

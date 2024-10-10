@@ -122,6 +122,18 @@ table
 enough
 laptop
 visual |  
+| bip_39_word_no_space_1 | giraffe |  
+| bip_39_word_no_space_10 | giraffeofficechampionartistzerotableenoughlaptopvisualrule |  
+| bip_39_word_no_space_11 | giraffeofficechampionartistzerotableenoughlaptopvisualrulesilly |  
+| bip_39_word_no_space_12 | giraffeofficechampionartistzerotableenoughlaptopvisualrulesillyadapt |  
+| bip_39_word_no_space_2 | giraffeoffice |  
+| bip_39_word_no_space_3 | giraffeofficechampion |  
+| bip_39_word_no_space_4 | giraffeofficechampionartist |  
+| bip_39_word_no_space_5 | giraffeofficechampionartistzero |  
+| bip_39_word_no_space_6 | giraffeofficechampionartistzerotable |  
+| bip_39_word_no_space_7 | giraffeofficechampionartistzerotableenough |  
+| bip_39_word_no_space_8 | giraffeofficechampionartistzerotableenoughlaptop |  
+| bip_39_word_no_space_9 | giraffeofficechampionartistzerotableenoughlaptopvisual |  
 | bip_39_word_space_0 | ['giraffe', 'office', 'champion', 'artist', 'zero', 'table', 'enough', 'laptop', 'visual', 'rule', 'silly', 'adapt'] |  
 | bip_39_word_space_1 | giraffe |  
 | bip_39_word_space_10 | giraffe office champion artist zero table enough laptop visual rule |  

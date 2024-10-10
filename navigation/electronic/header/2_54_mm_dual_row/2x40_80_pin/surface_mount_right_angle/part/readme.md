@@ -122,6 +122,18 @@ acquire
 regret
 winner
 witness |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmtornadoworthbehinddoseacquireregretwinnerwitnessmillion |  
+| bip_39_word_no_space_11 | rhythmtornadoworthbehinddoseacquireregretwinnerwitnessmilliontiny |  
+| bip_39_word_no_space_12 | rhythmtornadoworthbehinddoseacquireregretwinnerwitnessmilliontinyaccuse |  
+| bip_39_word_no_space_2 | rhythmtornado |  
+| bip_39_word_no_space_3 | rhythmtornadoworth |  
+| bip_39_word_no_space_4 | rhythmtornadoworthbehind |  
+| bip_39_word_no_space_5 | rhythmtornadoworthbehinddose |  
+| bip_39_word_no_space_6 | rhythmtornadoworthbehinddoseacquire |  
+| bip_39_word_no_space_7 | rhythmtornadoworthbehinddoseacquireregret |  
+| bip_39_word_no_space_8 | rhythmtornadoworthbehinddoseacquireregretwinner |  
+| bip_39_word_no_space_9 | rhythmtornadoworthbehinddoseacquireregretwinnerwitness |  
 | bip_39_word_space_0 | ['rhythm', 'tornado', 'worth', 'behind', 'dose', 'acquire', 'regret', 'winner', 'witness', 'million', 'tiny', 'accuse'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm tornado worth behind dose acquire regret winner witness million |  

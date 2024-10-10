@@ -122,6 +122,18 @@ tree
 pool
 glare
 boat |  
+| bip_39_word_no_space_1 | beach |  
+| bip_39_word_no_space_10 | beachinfanttheoryexercisecalmtreepoolglareboatcrazy |  
+| bip_39_word_no_space_11 | beachinfanttheoryexercisecalmtreepoolglareboatcrazysubject |  
+| bip_39_word_no_space_12 | beachinfanttheoryexercisecalmtreepoolglareboatcrazysubjectancient |  
+| bip_39_word_no_space_2 | beachinfant |  
+| bip_39_word_no_space_3 | beachinfanttheory |  
+| bip_39_word_no_space_4 | beachinfanttheoryexercise |  
+| bip_39_word_no_space_5 | beachinfanttheoryexercisecalm |  
+| bip_39_word_no_space_6 | beachinfanttheoryexercisecalmtree |  
+| bip_39_word_no_space_7 | beachinfanttheoryexercisecalmtreepool |  
+| bip_39_word_no_space_8 | beachinfanttheoryexercisecalmtreepoolglare |  
+| bip_39_word_no_space_9 | beachinfanttheoryexercisecalmtreepoolglareboat |  
 | bip_39_word_space_0 | ['beach', 'infant', 'theory', 'exercise', 'calm', 'tree', 'pool', 'glare', 'boat', 'crazy', 'subject', 'ancient'] |  
 | bip_39_word_space_1 | beach |  
 | bip_39_word_space_10 | beach infant theory exercise calm tree pool glare boat crazy |  

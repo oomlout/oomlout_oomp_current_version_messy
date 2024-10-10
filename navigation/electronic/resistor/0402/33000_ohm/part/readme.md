@@ -122,6 +122,18 @@ rhythm
 item
 actor
 dynamic |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shafthollowwinivorybenchrhythmitemactordynamicdevice |  
+| bip_39_word_no_space_11 | shafthollowwinivorybenchrhythmitemactordynamicdeviceappear |  
+| bip_39_word_no_space_12 | shafthollowwinivorybenchrhythmitemactordynamicdeviceappearatom |  
+| bip_39_word_no_space_2 | shafthollow |  
+| bip_39_word_no_space_3 | shafthollowwin |  
+| bip_39_word_no_space_4 | shafthollowwinivory |  
+| bip_39_word_no_space_5 | shafthollowwinivorybench |  
+| bip_39_word_no_space_6 | shafthollowwinivorybenchrhythm |  
+| bip_39_word_no_space_7 | shafthollowwinivorybenchrhythmitem |  
+| bip_39_word_no_space_8 | shafthollowwinivorybenchrhythmitemactor |  
+| bip_39_word_no_space_9 | shafthollowwinivorybenchrhythmitemactordynamic |  
 | bip_39_word_space_0 | ['shaft', 'hollow', 'win', 'ivory', 'bench', 'rhythm', 'item', 'actor', 'dynamic', 'device', 'appear', 'atom'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft hollow win ivory bench rhythm item actor dynamic device |  

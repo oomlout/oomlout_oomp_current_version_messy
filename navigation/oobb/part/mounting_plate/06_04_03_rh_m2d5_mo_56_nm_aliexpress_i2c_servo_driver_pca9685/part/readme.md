@@ -122,6 +122,18 @@ cruise
 silver
 antique
 audit |  
+| bip_39_word_no_space_1 | merry |  
+| bip_39_word_no_space_10 | merryrawmercyteachlawncruisesilverantiqueauditorbit |  
+| bip_39_word_no_space_11 | merryrawmercyteachlawncruisesilverantiqueauditorbityellow |  
+| bip_39_word_no_space_12 | merryrawmercyteachlawncruisesilverantiqueauditorbityellowanxiety |  
+| bip_39_word_no_space_2 | merryraw |  
+| bip_39_word_no_space_3 | merryrawmercy |  
+| bip_39_word_no_space_4 | merryrawmercyteach |  
+| bip_39_word_no_space_5 | merryrawmercyteachlawn |  
+| bip_39_word_no_space_6 | merryrawmercyteachlawncruise |  
+| bip_39_word_no_space_7 | merryrawmercyteachlawncruisesilver |  
+| bip_39_word_no_space_8 | merryrawmercyteachlawncruisesilverantique |  
+| bip_39_word_no_space_9 | merryrawmercyteachlawncruisesilverantiqueaudit |  
 | bip_39_word_space_0 | ['merry', 'raw', 'mercy', 'teach', 'lawn', 'cruise', 'silver', 'antique', 'audit', 'orbit', 'yellow', 'anxiety'] |  
 | bip_39_word_space_1 | merry |  
 | bip_39_word_space_10 | merry raw mercy teach lawn cruise silver antique audit orbit |  

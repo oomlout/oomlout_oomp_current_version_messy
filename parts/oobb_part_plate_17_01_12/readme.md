@@ -122,6 +122,18 @@ wire
 post
 advice
 shove |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchwheelremainreleaseenrichwirepostadviceshoveheart |  
+| bip_39_word_no_space_11 | crouchwheelremainreleaseenrichwirepostadviceshoveheartvarious |  
+| bip_39_word_no_space_12 | crouchwheelremainreleaseenrichwirepostadviceshoveheartvariousaccess |  
+| bip_39_word_no_space_2 | crouchwheel |  
+| bip_39_word_no_space_3 | crouchwheelremain |  
+| bip_39_word_no_space_4 | crouchwheelremainrelease |  
+| bip_39_word_no_space_5 | crouchwheelremainreleaseenrich |  
+| bip_39_word_no_space_6 | crouchwheelremainreleaseenrichwire |  
+| bip_39_word_no_space_7 | crouchwheelremainreleaseenrichwirepost |  
+| bip_39_word_no_space_8 | crouchwheelremainreleaseenrichwirepostadvice |  
+| bip_39_word_no_space_9 | crouchwheelremainreleaseenrichwirepostadviceshove |  
 | bip_39_word_space_0 | ['crouch', 'wheel', 'remain', 'release', 'enrich', 'wire', 'post', 'advice', 'shove', 'heart', 'various', 'access'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch wheel remain release enrich wire post advice shove heart |  

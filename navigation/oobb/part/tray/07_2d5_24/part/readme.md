@@ -122,6 +122,18 @@ daring
 empower
 slogan
 vessel |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldsoldiereitherknockknowdaringempowersloganvesselwalnut |  
+| bip_39_word_no_space_11 | oldsoldiereitherknockknowdaringempowersloganvesselwalnutclever |  
+| bip_39_word_no_space_12 | oldsoldiereitherknockknowdaringempowersloganvesselwalnutcleverart |  
+| bip_39_word_no_space_2 | oldsoldier |  
+| bip_39_word_no_space_3 | oldsoldiereither |  
+| bip_39_word_no_space_4 | oldsoldiereitherknock |  
+| bip_39_word_no_space_5 | oldsoldiereitherknockknow |  
+| bip_39_word_no_space_6 | oldsoldiereitherknockknowdaring |  
+| bip_39_word_no_space_7 | oldsoldiereitherknockknowdaringempower |  
+| bip_39_word_no_space_8 | oldsoldiereitherknockknowdaringempowerslogan |  
+| bip_39_word_no_space_9 | oldsoldiereitherknockknowdaringempowersloganvessel |  
 | bip_39_word_space_0 | ['old', 'soldier', 'either', 'knock', 'know', 'daring', 'empower', 'slogan', 'vessel', 'walnut', 'clever', 'art'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old soldier either knock know daring empower slogan vessel walnut |  

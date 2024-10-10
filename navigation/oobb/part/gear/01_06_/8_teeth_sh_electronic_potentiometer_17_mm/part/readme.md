@@ -122,6 +122,18 @@ practice
 wrestle
 harbor
 ring |  
+| bip_39_word_no_space_1 | little |  
+| bip_39_word_no_space_10 | littlepuddingdividedivertgritpracticewrestleharborringhood |  
+| bip_39_word_no_space_11 | littlepuddingdividedivertgritpracticewrestleharborringhoodinch |  
+| bip_39_word_no_space_12 | littlepuddingdividedivertgritpracticewrestleharborringhoodinchartist |  
+| bip_39_word_no_space_2 | littlepudding |  
+| bip_39_word_no_space_3 | littlepuddingdivide |  
+| bip_39_word_no_space_4 | littlepuddingdividedivert |  
+| bip_39_word_no_space_5 | littlepuddingdividedivertgrit |  
+| bip_39_word_no_space_6 | littlepuddingdividedivertgritpractice |  
+| bip_39_word_no_space_7 | littlepuddingdividedivertgritpracticewrestle |  
+| bip_39_word_no_space_8 | littlepuddingdividedivertgritpracticewrestleharbor |  
+| bip_39_word_no_space_9 | littlepuddingdividedivertgritpracticewrestleharborring |  
 | bip_39_word_space_0 | ['little', 'pudding', 'divide', 'divert', 'grit', 'practice', 'wrestle', 'harbor', 'ring', 'hood', 'inch', 'artist'] |  
 | bip_39_word_space_1 | little |  
 | bip_39_word_space_10 | little pudding divide divert grit practice wrestle harbor ring hood |  

@@ -122,6 +122,18 @@ alpha
 lend
 apology
 helmet |  
+| bip_39_word_no_space_1 | region |  
+| bip_39_word_no_space_10 | regionbitterscenenumbergamealphalendapologyhelmetrepair |  
+| bip_39_word_no_space_11 | regionbitterscenenumbergamealphalendapologyhelmetrepairborder |  
+| bip_39_word_no_space_12 | regionbitterscenenumbergamealphalendapologyhelmetrepairborderamateur |  
+| bip_39_word_no_space_2 | regionbitter |  
+| bip_39_word_no_space_3 | regionbitterscene |  
+| bip_39_word_no_space_4 | regionbitterscenenumber |  
+| bip_39_word_no_space_5 | regionbitterscenenumbergame |  
+| bip_39_word_no_space_6 | regionbitterscenenumbergamealpha |  
+| bip_39_word_no_space_7 | regionbitterscenenumbergamealphalend |  
+| bip_39_word_no_space_8 | regionbitterscenenumbergamealphalendapology |  
+| bip_39_word_no_space_9 | regionbitterscenenumbergamealphalendapologyhelmet |  
 | bip_39_word_space_0 | ['region', 'bitter', 'scene', 'number', 'game', 'alpha', 'lend', 'apology', 'helmet', 'repair', 'border', 'amateur'] |  
 | bip_39_word_space_1 | region |  
 | bip_39_word_space_10 | region bitter scene number game alpha lend apology helmet repair |  

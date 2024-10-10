@@ -122,6 +122,18 @@ lock
 ethics
 focus
 wrap |  
+| bip_39_word_no_space_1 | clean |  
+| bip_39_word_no_space_10 | cleanarmyfrozenusedslimlockethicsfocuswrapwant |  
+| bip_39_word_no_space_11 | cleanarmyfrozenusedslimlockethicsfocuswrapwantoval |  
+| bip_39_word_no_space_12 | cleanarmyfrozenusedslimlockethicsfocuswrapwantovalasset |  
+| bip_39_word_no_space_2 | cleanarmy |  
+| bip_39_word_no_space_3 | cleanarmyfrozen |  
+| bip_39_word_no_space_4 | cleanarmyfrozenused |  
+| bip_39_word_no_space_5 | cleanarmyfrozenusedslim |  
+| bip_39_word_no_space_6 | cleanarmyfrozenusedslimlock |  
+| bip_39_word_no_space_7 | cleanarmyfrozenusedslimlockethics |  
+| bip_39_word_no_space_8 | cleanarmyfrozenusedslimlockethicsfocus |  
+| bip_39_word_no_space_9 | cleanarmyfrozenusedslimlockethicsfocuswrap |  
 | bip_39_word_space_0 | ['clean', 'army', 'frozen', 'used', 'slim', 'lock', 'ethics', 'focus', 'wrap', 'want', 'oval', 'asset'] |  
 | bip_39_word_space_1 | clean |  
 | bip_39_word_space_10 | clean army frozen used slim lock ethics focus wrap want |  

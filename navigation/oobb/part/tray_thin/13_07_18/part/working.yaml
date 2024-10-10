@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sick
   obvious
 
   man'
+bip_39_word_no_space_1: sick
+bip_39_word_no_space_10: sickshoewingdonatecannonkingdomsiegeobviousmanthought
+bip_39_word_no_space_11: sickshoewingdonatecannonkingdomsiegeobviousmanthoughtsponsor
+bip_39_word_no_space_12: sickshoewingdonatecannonkingdomsiegeobviousmanthoughtsponsorattack
+bip_39_word_no_space_2: sickshoe
+bip_39_word_no_space_3: sickshoewing
+bip_39_word_no_space_4: sickshoewingdonate
+bip_39_word_no_space_5: sickshoewingdonatecannon
+bip_39_word_no_space_6: sickshoewingdonatecannonkingdom
+bip_39_word_no_space_7: sickshoewingdonatecannonkingdomsiege
+bip_39_word_no_space_8: sickshoewingdonatecannonkingdomsiegeobvious
+bip_39_word_no_space_9: sickshoewingdonatecannonkingdomsiegeobviousman
 bip_39_word_space_0:
 - sick
 - shoe

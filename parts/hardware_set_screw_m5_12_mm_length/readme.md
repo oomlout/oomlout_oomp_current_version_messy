@@ -122,6 +122,18 @@ warfare
 under
 summer
 kiss |  
+| bip_39_word_no_space_1 | wrestle |  
+| bip_39_word_no_space_10 | wrestlevalvehomesustainwherewarfareundersummerkissmuch |  
+| bip_39_word_no_space_11 | wrestlevalvehomesustainwherewarfareundersummerkissmuchvelvet |  
+| bip_39_word_no_space_12 | wrestlevalvehomesustainwherewarfareundersummerkissmuchvelvetathlete |  
+| bip_39_word_no_space_2 | wrestlevalve |  
+| bip_39_word_no_space_3 | wrestlevalvehome |  
+| bip_39_word_no_space_4 | wrestlevalvehomesustain |  
+| bip_39_word_no_space_5 | wrestlevalvehomesustainwhere |  
+| bip_39_word_no_space_6 | wrestlevalvehomesustainwherewarfare |  
+| bip_39_word_no_space_7 | wrestlevalvehomesustainwherewarfareunder |  
+| bip_39_word_no_space_8 | wrestlevalvehomesustainwherewarfareundersummer |  
+| bip_39_word_no_space_9 | wrestlevalvehomesustainwherewarfareundersummerkiss |  
 | bip_39_word_space_0 | ['wrestle', 'valve', 'home', 'sustain', 'where', 'warfare', 'under', 'summer', 'kiss', 'much', 'velvet', 'athlete'] |  
 | bip_39_word_space_1 | wrestle |  
 | bip_39_word_space_10 | wrestle valve home sustain where warfare under summer kiss much |  

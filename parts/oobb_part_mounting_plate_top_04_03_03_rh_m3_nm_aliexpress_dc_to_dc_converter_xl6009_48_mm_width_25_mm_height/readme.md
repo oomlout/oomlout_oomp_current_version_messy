@@ -122,6 +122,18 @@ wrist
 search
 fog
 trigger |  
+| bip_39_word_no_space_1 | enact |  
+| bip_39_word_no_space_10 | enactworrystrategyborrowbikewristsearchfogtriggerafraid |  
+| bip_39_word_no_space_11 | enactworrystrategyborrowbikewristsearchfogtriggerafraidletter |  
+| bip_39_word_no_space_12 | enactworrystrategyborrowbikewristsearchfogtriggerafraidletterantique |  
+| bip_39_word_no_space_2 | enactworry |  
+| bip_39_word_no_space_3 | enactworrystrategy |  
+| bip_39_word_no_space_4 | enactworrystrategyborrow |  
+| bip_39_word_no_space_5 | enactworrystrategyborrowbike |  
+| bip_39_word_no_space_6 | enactworrystrategyborrowbikewrist |  
+| bip_39_word_no_space_7 | enactworrystrategyborrowbikewristsearch |  
+| bip_39_word_no_space_8 | enactworrystrategyborrowbikewristsearchfog |  
+| bip_39_word_no_space_9 | enactworrystrategyborrowbikewristsearchfogtrigger |  
 | bip_39_word_space_0 | ['enact', 'worry', 'strategy', 'borrow', 'bike', 'wrist', 'search', 'fog', 'trigger', 'afraid', 'letter', 'antique'] |  
 | bip_39_word_space_1 | enact |  
 | bip_39_word_space_10 | enact worry strategy borrow bike wrist search fog trigger afraid |  

@@ -122,6 +122,18 @@ snack
 night
 bean
 fatal |  
+| bip_39_word_no_space_1 | pool |  
+| bip_39_word_no_space_10 | poolobeybabyshaftreleasesnacknightbeanfatalpublic |  
+| bip_39_word_no_space_11 | poolobeybabyshaftreleasesnacknightbeanfatalpublicgreen |  
+| bip_39_word_no_space_12 | poolobeybabyshaftreleasesnacknightbeanfatalpublicgreenapology |  
+| bip_39_word_no_space_2 | poolobey |  
+| bip_39_word_no_space_3 | poolobeybaby |  
+| bip_39_word_no_space_4 | poolobeybabyshaft |  
+| bip_39_word_no_space_5 | poolobeybabyshaftrelease |  
+| bip_39_word_no_space_6 | poolobeybabyshaftreleasesnack |  
+| bip_39_word_no_space_7 | poolobeybabyshaftreleasesnacknight |  
+| bip_39_word_no_space_8 | poolobeybabyshaftreleasesnacknightbean |  
+| bip_39_word_no_space_9 | poolobeybabyshaftreleasesnacknightbeanfatal |  
 | bip_39_word_space_0 | ['pool', 'obey', 'baby', 'shaft', 'release', 'snack', 'night', 'bean', 'fatal', 'public', 'green', 'apology'] |  
 | bip_39_word_space_1 | pool |  
 | bip_39_word_space_10 | pool obey baby shaft release snack night bean fatal public |  

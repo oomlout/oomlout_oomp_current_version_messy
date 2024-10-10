@@ -122,6 +122,18 @@ island
 grass
 debris
 act |  
+| bip_39_word_no_space_1 | twist |  
+| bip_39_word_no_space_10 | twistoutdoorpillsiegeforumislandgrassdebrisactloud |  
+| bip_39_word_no_space_11 | twistoutdoorpillsiegeforumislandgrassdebrisactlouddonor |  
+| bip_39_word_no_space_12 | twistoutdoorpillsiegeforumislandgrassdebrisactlouddonorafraid |  
+| bip_39_word_no_space_2 | twistoutdoor |  
+| bip_39_word_no_space_3 | twistoutdoorpill |  
+| bip_39_word_no_space_4 | twistoutdoorpillsiege |  
+| bip_39_word_no_space_5 | twistoutdoorpillsiegeforum |  
+| bip_39_word_no_space_6 | twistoutdoorpillsiegeforumisland |  
+| bip_39_word_no_space_7 | twistoutdoorpillsiegeforumislandgrass |  
+| bip_39_word_no_space_8 | twistoutdoorpillsiegeforumislandgrassdebris |  
+| bip_39_word_no_space_9 | twistoutdoorpillsiegeforumislandgrassdebrisact |  
 | bip_39_word_space_0 | ['twist', 'outdoor', 'pill', 'siege', 'forum', 'island', 'grass', 'debris', 'act', 'loud', 'donor', 'afraid'] |  
 | bip_39_word_space_1 | twist |  
 | bip_39_word_space_10 | twist outdoor pill siege forum island grass debris act loud |  

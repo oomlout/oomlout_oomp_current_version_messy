@@ -122,6 +122,18 @@ creek
 olympic
 myself
 slogan |  
+| bip_39_word_no_space_1 | across |  
+| bip_39_word_no_space_10 | acrossmushroomtastesurveyinputcreekolympicmyselfsloganpear |  
+| bip_39_word_no_space_11 | acrossmushroomtastesurveyinputcreekolympicmyselfsloganpearclump |  
+| bip_39_word_no_space_12 | acrossmushroomtastesurveyinputcreekolympicmyselfsloganpearclumparctic |  
+| bip_39_word_no_space_2 | acrossmushroom |  
+| bip_39_word_no_space_3 | acrossmushroomtaste |  
+| bip_39_word_no_space_4 | acrossmushroomtastesurvey |  
+| bip_39_word_no_space_5 | acrossmushroomtastesurveyinput |  
+| bip_39_word_no_space_6 | acrossmushroomtastesurveyinputcreek |  
+| bip_39_word_no_space_7 | acrossmushroomtastesurveyinputcreekolympic |  
+| bip_39_word_no_space_8 | acrossmushroomtastesurveyinputcreekolympicmyself |  
+| bip_39_word_no_space_9 | acrossmushroomtastesurveyinputcreekolympicmyselfslogan |  
 | bip_39_word_space_0 | ['across', 'mushroom', 'taste', 'survey', 'input', 'creek', 'olympic', 'myself', 'slogan', 'pear', 'clump', 'arctic'] |  
 | bip_39_word_space_1 | across |  
 | bip_39_word_space_10 | across mushroom taste survey input creek olympic myself slogan pear |  

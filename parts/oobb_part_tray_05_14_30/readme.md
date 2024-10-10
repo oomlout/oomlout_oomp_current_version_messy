@@ -122,6 +122,18 @@ call
 couch
 list
 olympic |  
+| bip_39_word_no_space_1 | ramp |  
+| bip_39_word_no_space_10 | rampuncoverdivertphonefeaturecallcouchlistolympicmotion |  
+| bip_39_word_no_space_11 | rampuncoverdivertphonefeaturecallcouchlistolympicmotionanother |  
+| bip_39_word_no_space_12 | rampuncoverdivertphonefeaturecallcouchlistolympicmotionanotherarm |  
+| bip_39_word_no_space_2 | rampuncover |  
+| bip_39_word_no_space_3 | rampuncoverdivert |  
+| bip_39_word_no_space_4 | rampuncoverdivertphone |  
+| bip_39_word_no_space_5 | rampuncoverdivertphonefeature |  
+| bip_39_word_no_space_6 | rampuncoverdivertphonefeaturecall |  
+| bip_39_word_no_space_7 | rampuncoverdivertphonefeaturecallcouch |  
+| bip_39_word_no_space_8 | rampuncoverdivertphonefeaturecallcouchlist |  
+| bip_39_word_no_space_9 | rampuncoverdivertphonefeaturecallcouchlistolympic |  
 | bip_39_word_space_0 | ['ramp', 'uncover', 'divert', 'phone', 'feature', 'call', 'couch', 'list', 'olympic', 'motion', 'another', 'arm'] |  
 | bip_39_word_space_1 | ramp |  
 | bip_39_word_space_10 | ramp uncover divert phone feature call couch list olympic motion |  

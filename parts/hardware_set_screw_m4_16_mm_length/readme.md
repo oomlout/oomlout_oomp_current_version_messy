@@ -122,6 +122,18 @@ cost
 science
 bag
 prefer |  
+| bip_39_word_no_space_1 | cry |  
+| bip_39_word_no_space_10 | cryblessbasekittenglorycostsciencebagprefervacant |  
+| bip_39_word_no_space_11 | cryblessbasekittenglorycostsciencebagprefervacantpromote |  
+| bip_39_word_no_space_12 | cryblessbasekittenglorycostsciencebagprefervacantpromoteangry |  
+| bip_39_word_no_space_2 | crybless |  
+| bip_39_word_no_space_3 | cryblessbase |  
+| bip_39_word_no_space_4 | cryblessbasekitten |  
+| bip_39_word_no_space_5 | cryblessbasekittenglory |  
+| bip_39_word_no_space_6 | cryblessbasekittenglorycost |  
+| bip_39_word_no_space_7 | cryblessbasekittenglorycostscience |  
+| bip_39_word_no_space_8 | cryblessbasekittenglorycostsciencebag |  
+| bip_39_word_no_space_9 | cryblessbasekittenglorycostsciencebagprefer |  
 | bip_39_word_space_0 | ['cry', 'bless', 'base', 'kitten', 'glory', 'cost', 'science', 'bag', 'prefer', 'vacant', 'promote', 'angry'] |  
 | bip_39_word_space_1 | cry |  
 | bip_39_word_space_10 | cry bless base kitten glory cost science bag prefer vacant |  

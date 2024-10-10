@@ -122,6 +122,18 @@ depart
 remind
 action
 decide |  
+| bip_39_word_no_space_1 | just |  
+| bip_39_word_no_space_10 | juststemjeanscarryatomdepartremindactiondecideguess |  
+| bip_39_word_no_space_11 | juststemjeanscarryatomdepartremindactiondecideguessarmy |  
+| bip_39_word_no_space_12 | juststemjeanscarryatomdepartremindactiondecideguessarmyaccident |  
+| bip_39_word_no_space_2 | juststem |  
+| bip_39_word_no_space_3 | juststemjeans |  
+| bip_39_word_no_space_4 | juststemjeanscarry |  
+| bip_39_word_no_space_5 | juststemjeanscarryatom |  
+| bip_39_word_no_space_6 | juststemjeanscarryatomdepart |  
+| bip_39_word_no_space_7 | juststemjeanscarryatomdepartremind |  
+| bip_39_word_no_space_8 | juststemjeanscarryatomdepartremindaction |  
+| bip_39_word_no_space_9 | juststemjeanscarryatomdepartremindactiondecide |  
 | bip_39_word_space_0 | ['just', 'stem', 'jeans', 'carry', 'atom', 'depart', 'remind', 'action', 'decide', 'guess', 'army', 'accident'] |  
 | bip_39_word_space_1 | just |  
 | bip_39_word_space_10 | just stem jeans carry atom depart remind action decide guess |  

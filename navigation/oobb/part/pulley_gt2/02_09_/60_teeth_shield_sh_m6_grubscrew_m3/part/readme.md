@@ -122,6 +122,18 @@ wet
 learn
 program
 share |  
+| bip_39_word_no_space_1 | snake |  
+| bip_39_word_no_space_10 | snakehollowinitialstickbirdwetlearnprogramshareuseless |  
+| bip_39_word_no_space_11 | snakehollowinitialstickbirdwetlearnprogramshareuselessswitch |  
+| bip_39_word_no_space_12 | snakehollowinitialstickbirdwetlearnprogramshareuselessswitchankle |  
+| bip_39_word_no_space_2 | snakehollow |  
+| bip_39_word_no_space_3 | snakehollowinitial |  
+| bip_39_word_no_space_4 | snakehollowinitialstick |  
+| bip_39_word_no_space_5 | snakehollowinitialstickbird |  
+| bip_39_word_no_space_6 | snakehollowinitialstickbirdwet |  
+| bip_39_word_no_space_7 | snakehollowinitialstickbirdwetlearn |  
+| bip_39_word_no_space_8 | snakehollowinitialstickbirdwetlearnprogram |  
+| bip_39_word_no_space_9 | snakehollowinitialstickbirdwetlearnprogramshare |  
 | bip_39_word_space_0 | ['snake', 'hollow', 'initial', 'stick', 'bird', 'wet', 'learn', 'program', 'share', 'useless', 'switch', 'ankle'] |  
 | bip_39_word_space_1 | snake |  
 | bip_39_word_space_10 | snake hollow initial stick bird wet learn program share useless |  

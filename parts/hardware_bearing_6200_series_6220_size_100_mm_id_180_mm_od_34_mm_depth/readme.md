@@ -122,6 +122,18 @@ amazing
 spirit
 claim
 receive |  
+| bip_39_word_no_space_1 | truly |  
+| bip_39_word_no_space_10 | trulyclawboysearchdomainamazingspiritclaimreceivehub |  
+| bip_39_word_no_space_11 | trulyclawboysearchdomainamazingspiritclaimreceivehubfield |  
+| bip_39_word_no_space_12 | trulyclawboysearchdomainamazingspiritclaimreceivehubfieldassault |  
+| bip_39_word_no_space_2 | trulyclaw |  
+| bip_39_word_no_space_3 | trulyclawboy |  
+| bip_39_word_no_space_4 | trulyclawboysearch |  
+| bip_39_word_no_space_5 | trulyclawboysearchdomain |  
+| bip_39_word_no_space_6 | trulyclawboysearchdomainamazing |  
+| bip_39_word_no_space_7 | trulyclawboysearchdomainamazingspirit |  
+| bip_39_word_no_space_8 | trulyclawboysearchdomainamazingspiritclaim |  
+| bip_39_word_no_space_9 | trulyclawboysearchdomainamazingspiritclaimreceive |  
 | bip_39_word_space_0 | ['truly', 'claw', 'boy', 'search', 'domain', 'amazing', 'spirit', 'claim', 'receive', 'hub', 'field', 'assault'] |  
 | bip_39_word_space_1 | truly |  
 | bip_39_word_space_10 | truly claw boy search domain amazing spirit claim receive hub |  

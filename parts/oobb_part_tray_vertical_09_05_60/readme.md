@@ -122,6 +122,18 @@ mad
 process
 tennis
 uncle |  
+| bip_39_word_no_space_1 | era |  
+| bip_39_word_no_space_10 | erahospitalchronicgladguessmadprocesstennisuncleprice |  
+| bip_39_word_no_space_11 | erahospitalchronicgladguessmadprocesstennisunclepricejob |  
+| bip_39_word_no_space_12 | erahospitalchronicgladguessmadprocesstennisunclepricejobangle |  
+| bip_39_word_no_space_2 | erahospital |  
+| bip_39_word_no_space_3 | erahospitalchronic |  
+| bip_39_word_no_space_4 | erahospitalchronicglad |  
+| bip_39_word_no_space_5 | erahospitalchronicgladguess |  
+| bip_39_word_no_space_6 | erahospitalchronicgladguessmad |  
+| bip_39_word_no_space_7 | erahospitalchronicgladguessmadprocess |  
+| bip_39_word_no_space_8 | erahospitalchronicgladguessmadprocesstennis |  
+| bip_39_word_no_space_9 | erahospitalchronicgladguessmadprocesstennisuncle |  
 | bip_39_word_space_0 | ['era', 'hospital', 'chronic', 'glad', 'guess', 'mad', 'process', 'tennis', 'uncle', 'price', 'job', 'angle'] |  
 | bip_39_word_space_1 | era |  
 | bip_39_word_space_10 | era hospital chronic glad guess mad process tennis uncle price |  

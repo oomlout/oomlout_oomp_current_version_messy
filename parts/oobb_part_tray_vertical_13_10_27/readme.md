@@ -122,6 +122,18 @@ crazy
 diet
 inch
 sail |  
+| bip_39_word_no_space_1 | ship |  
+| bip_39_word_no_space_10 | shipsuchcabindealchangecrazydietinchsaildebate |  
+| bip_39_word_no_space_11 | shipsuchcabindealchangecrazydietinchsaildebatewink |  
+| bip_39_word_no_space_12 | shipsuchcabindealchangecrazydietinchsaildebatewinkask |  
+| bip_39_word_no_space_2 | shipsuch |  
+| bip_39_word_no_space_3 | shipsuchcabin |  
+| bip_39_word_no_space_4 | shipsuchcabindeal |  
+| bip_39_word_no_space_5 | shipsuchcabindealchange |  
+| bip_39_word_no_space_6 | shipsuchcabindealchangecrazy |  
+| bip_39_word_no_space_7 | shipsuchcabindealchangecrazydiet |  
+| bip_39_word_no_space_8 | shipsuchcabindealchangecrazydietinch |  
+| bip_39_word_no_space_9 | shipsuchcabindealchangecrazydietinchsail |  
 | bip_39_word_space_0 | ['ship', 'such', 'cabin', 'deal', 'change', 'crazy', 'diet', 'inch', 'sail', 'debate', 'wink', 'ask'] |  
 | bip_39_word_space_1 | ship |  
 | bip_39_word_space_10 | ship such cabin deal change crazy diet inch sail debate |  

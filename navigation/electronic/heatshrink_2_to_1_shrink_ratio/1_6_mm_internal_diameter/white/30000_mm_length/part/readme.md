@@ -122,6 +122,18 @@ coast
 trust
 cactus
 tool |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemevehicledrasticscissorsassumecoasttrustcactustooldenial |  
+| bip_39_word_no_space_11 | schemevehicledrasticscissorsassumecoasttrustcactustooldenialfaith |  
+| bip_39_word_no_space_12 | schemevehicledrasticscissorsassumecoasttrustcactustooldenialfaithair |  
+| bip_39_word_no_space_2 | schemevehicle |  
+| bip_39_word_no_space_3 | schemevehicledrastic |  
+| bip_39_word_no_space_4 | schemevehicledrasticscissors |  
+| bip_39_word_no_space_5 | schemevehicledrasticscissorsassume |  
+| bip_39_word_no_space_6 | schemevehicledrasticscissorsassumecoast |  
+| bip_39_word_no_space_7 | schemevehicledrasticscissorsassumecoasttrust |  
+| bip_39_word_no_space_8 | schemevehicledrasticscissorsassumecoasttrustcactus |  
+| bip_39_word_no_space_9 | schemevehicledrasticscissorsassumecoasttrustcactustool |  
 | bip_39_word_space_0 | ['scheme', 'vehicle', 'drastic', 'scissors', 'assume', 'coast', 'trust', 'cactus', 'tool', 'denial', 'faith', 'air'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme vehicle drastic scissors assume coast trust cactus tool denial |  

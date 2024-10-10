@@ -122,6 +122,18 @@ wink
 pave
 news
 flat |  
+| bip_39_word_no_space_1 | hidden |  
+| bip_39_word_no_space_10 | hiddenelementblossomyearevolvewinkpavenewsflatcourse |  
+| bip_39_word_no_space_11 | hiddenelementblossomyearevolvewinkpavenewsflatcoursevideo |  
+| bip_39_word_no_space_12 | hiddenelementblossomyearevolvewinkpavenewsflatcoursevideoannounce |  
+| bip_39_word_no_space_2 | hiddenelement |  
+| bip_39_word_no_space_3 | hiddenelementblossom |  
+| bip_39_word_no_space_4 | hiddenelementblossomyear |  
+| bip_39_word_no_space_5 | hiddenelementblossomyearevolve |  
+| bip_39_word_no_space_6 | hiddenelementblossomyearevolvewink |  
+| bip_39_word_no_space_7 | hiddenelementblossomyearevolvewinkpave |  
+| bip_39_word_no_space_8 | hiddenelementblossomyearevolvewinkpavenews |  
+| bip_39_word_no_space_9 | hiddenelementblossomyearevolvewinkpavenewsflat |  
 | bip_39_word_space_0 | ['hidden', 'element', 'blossom', 'year', 'evolve', 'wink', 'pave', 'news', 'flat', 'course', 'video', 'announce'] |  
 | bip_39_word_space_1 | hidden |  
 | bip_39_word_space_10 | hidden element blossom year evolve wink pave news flat course |  

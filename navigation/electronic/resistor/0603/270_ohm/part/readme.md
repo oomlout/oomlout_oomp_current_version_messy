@@ -122,6 +122,18 @@ clerk
 squirrel
 ready
 coil |  
+| bip_39_word_no_space_1 | lunch |  
+| bip_39_word_no_space_10 | lunchshrugmarriageacrossideaclerksquirrelreadycoilpigeon |  
+| bip_39_word_no_space_11 | lunchshrugmarriageacrossideaclerksquirrelreadycoilpigeonventure |  
+| bip_39_word_no_space_12 | lunchshrugmarriageacrossideaclerksquirrelreadycoilpigeonventureanxiety |  
+| bip_39_word_no_space_2 | lunchshrug |  
+| bip_39_word_no_space_3 | lunchshrugmarriage |  
+| bip_39_word_no_space_4 | lunchshrugmarriageacross |  
+| bip_39_word_no_space_5 | lunchshrugmarriageacrossidea |  
+| bip_39_word_no_space_6 | lunchshrugmarriageacrossideaclerk |  
+| bip_39_word_no_space_7 | lunchshrugmarriageacrossideaclerksquirrel |  
+| bip_39_word_no_space_8 | lunchshrugmarriageacrossideaclerksquirrelready |  
+| bip_39_word_no_space_9 | lunchshrugmarriageacrossideaclerksquirrelreadycoil |  
 | bip_39_word_space_0 | ['lunch', 'shrug', 'marriage', 'across', 'idea', 'clerk', 'squirrel', 'ready', 'coil', 'pigeon', 'venture', 'anxiety'] |  
 | bip_39_word_space_1 | lunch |  
 | bip_39_word_space_10 | lunch shrug marriage across idea clerk squirrel ready coil pigeon |  

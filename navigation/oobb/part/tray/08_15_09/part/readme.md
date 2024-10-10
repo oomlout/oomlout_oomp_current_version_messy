@@ -122,6 +122,18 @@ bike
 advice
 rubber
 toward |  
+| bip_39_word_no_space_1 | acid |  
+| bip_39_word_no_space_10 | acidblastfatherpreventparadebikeadvicerubbertowardreject |  
+| bip_39_word_no_space_11 | acidblastfatherpreventparadebikeadvicerubbertowardrejectagent |  
+| bip_39_word_no_space_12 | acidblastfatherpreventparadebikeadvicerubbertowardrejectagentapple |  
+| bip_39_word_no_space_2 | acidblast |  
+| bip_39_word_no_space_3 | acidblastfather |  
+| bip_39_word_no_space_4 | acidblastfatherprevent |  
+| bip_39_word_no_space_5 | acidblastfatherpreventparade |  
+| bip_39_word_no_space_6 | acidblastfatherpreventparadebike |  
+| bip_39_word_no_space_7 | acidblastfatherpreventparadebikeadvice |  
+| bip_39_word_no_space_8 | acidblastfatherpreventparadebikeadvicerubber |  
+| bip_39_word_no_space_9 | acidblastfatherpreventparadebikeadvicerubbertoward |  
 | bip_39_word_space_0 | ['acid', 'blast', 'father', 'prevent', 'parade', 'bike', 'advice', 'rubber', 'toward', 'reject', 'agent', 'apple'] |  
 | bip_39_word_space_1 | acid |  
 | bip_39_word_space_10 | acid blast father prevent parade bike advice rubber toward reject |  

@@ -122,6 +122,18 @@ scatter
 wool
 then
 cheap |  
+| bip_39_word_no_space_1 | teach |  
+| bip_39_word_no_space_10 | teachmemorycopperknowunveilscatterwoolthencheapmean |  
+| bip_39_word_no_space_11 | teachmemorycopperknowunveilscatterwoolthencheapmeanobvious |  
+| bip_39_word_no_space_12 | teachmemorycopperknowunveilscatterwoolthencheapmeanobviousaccount |  
+| bip_39_word_no_space_2 | teachmemory |  
+| bip_39_word_no_space_3 | teachmemorycopper |  
+| bip_39_word_no_space_4 | teachmemorycopperknow |  
+| bip_39_word_no_space_5 | teachmemorycopperknowunveil |  
+| bip_39_word_no_space_6 | teachmemorycopperknowunveilscatter |  
+| bip_39_word_no_space_7 | teachmemorycopperknowunveilscatterwool |  
+| bip_39_word_no_space_8 | teachmemorycopperknowunveilscatterwoolthen |  
+| bip_39_word_no_space_9 | teachmemorycopperknowunveilscatterwoolthencheap |  
 | bip_39_word_space_0 | ['teach', 'memory', 'copper', 'know', 'unveil', 'scatter', 'wool', 'then', 'cheap', 'mean', 'obvious', 'account'] |  
 | bip_39_word_space_1 | teach |  
 | bip_39_word_space_10 | teach memory copper know unveil scatter wool then cheap mean |  

@@ -122,6 +122,18 @@ trophy
 moon
 goose
 secret |  
+| bip_39_word_no_space_1 | together |  
+| bip_39_word_no_space_10 | togetherruralduneeffortthanktrophymoongoosesecretmyself |  
+| bip_39_word_no_space_11 | togetherruralduneeffortthanktrophymoongoosesecretmyselfcushion |  
+| bip_39_word_no_space_12 | togetherruralduneeffortthanktrophymoongoosesecretmyselfcushionaim |  
+| bip_39_word_no_space_2 | togetherrural |  
+| bip_39_word_no_space_3 | togetherruraldune |  
+| bip_39_word_no_space_4 | togetherruralduneeffort |  
+| bip_39_word_no_space_5 | togetherruralduneeffortthank |  
+| bip_39_word_no_space_6 | togetherruralduneeffortthanktrophy |  
+| bip_39_word_no_space_7 | togetherruralduneeffortthanktrophymoon |  
+| bip_39_word_no_space_8 | togetherruralduneeffortthanktrophymoongoose |  
+| bip_39_word_no_space_9 | togetherruralduneeffortthanktrophymoongoosesecret |  
 | bip_39_word_space_0 | ['together', 'rural', 'dune', 'effort', 'thank', 'trophy', 'moon', 'goose', 'secret', 'myself', 'cushion', 'aim'] |  
 | bip_39_word_space_1 | together |  
 | bip_39_word_space_10 | together rural dune effort thank trophy moon goose secret myself |  

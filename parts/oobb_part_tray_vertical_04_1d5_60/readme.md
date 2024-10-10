@@ -122,6 +122,18 @@ street
 morning
 social
 exit |  
+| bip_39_word_no_space_1 | say |  
+| bip_39_word_no_space_10 | sayflushdonorwinterincludestreetmorningsocialexitmaid |  
+| bip_39_word_no_space_11 | sayflushdonorwinterincludestreetmorningsocialexitmaidspatial |  
+| bip_39_word_no_space_12 | sayflushdonorwinterincludestreetmorningsocialexitmaidspatialaverage |  
+| bip_39_word_no_space_2 | sayflush |  
+| bip_39_word_no_space_3 | sayflushdonor |  
+| bip_39_word_no_space_4 | sayflushdonorwinter |  
+| bip_39_word_no_space_5 | sayflushdonorwinterinclude |  
+| bip_39_word_no_space_6 | sayflushdonorwinterincludestreet |  
+| bip_39_word_no_space_7 | sayflushdonorwinterincludestreetmorning |  
+| bip_39_word_no_space_8 | sayflushdonorwinterincludestreetmorningsocial |  
+| bip_39_word_no_space_9 | sayflushdonorwinterincludestreetmorningsocialexit |  
 | bip_39_word_space_0 | ['say', 'flush', 'donor', 'winter', 'include', 'street', 'morning', 'social', 'exit', 'maid', 'spatial', 'average'] |  
 | bip_39_word_space_1 | say |  
 | bip_39_word_space_10 | say flush donor winter include street morning social exit maid |  

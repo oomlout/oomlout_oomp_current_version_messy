@@ -122,6 +122,18 @@ trip
 salt
 next
 aisle |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideaweirdpinkblameghosttripsaltnextaislecase |  
+| bip_39_word_no_space_11 | ideaweirdpinkblameghosttripsaltnextaislecaseramp |  
+| bip_39_word_no_space_12 | ideaweirdpinkblameghosttripsaltnextaislecaserampabout |  
+| bip_39_word_no_space_2 | ideaweird |  
+| bip_39_word_no_space_3 | ideaweirdpink |  
+| bip_39_word_no_space_4 | ideaweirdpinkblame |  
+| bip_39_word_no_space_5 | ideaweirdpinkblameghost |  
+| bip_39_word_no_space_6 | ideaweirdpinkblameghosttrip |  
+| bip_39_word_no_space_7 | ideaweirdpinkblameghosttripsalt |  
+| bip_39_word_no_space_8 | ideaweirdpinkblameghosttripsaltnext |  
+| bip_39_word_no_space_9 | ideaweirdpinkblameghosttripsaltnextaisle |  
 | bip_39_word_space_0 | ['idea', 'weird', 'pink', 'blame', 'ghost', 'trip', 'salt', 'next', 'aisle', 'case', 'ramp', 'about'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea weird pink blame ghost trip salt next aisle case |  

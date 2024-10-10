@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'affair
   deputy
 
   flee'
+bip_39_word_no_space_1: affair
+bip_39_word_no_space_10: affairtreefossilbravetaginhalereturndeputyfleeskin
+bip_39_word_no_space_11: affairtreefossilbravetaginhalereturndeputyfleeskinbrave
+bip_39_word_no_space_12: affairtreefossilbravetaginhalereturndeputyfleeskinbraveassist
+bip_39_word_no_space_2: affairtree
+bip_39_word_no_space_3: affairtreefossil
+bip_39_word_no_space_4: affairtreefossilbrave
+bip_39_word_no_space_5: affairtreefossilbravetag
+bip_39_word_no_space_6: affairtreefossilbravetaginhale
+bip_39_word_no_space_7: affairtreefossilbravetaginhalereturn
+bip_39_word_no_space_8: affairtreefossilbravetaginhalereturndeputy
+bip_39_word_no_space_9: affairtreefossilbravetaginhalereturndeputyflee
 bip_39_word_space_0:
 - affair
 - tree

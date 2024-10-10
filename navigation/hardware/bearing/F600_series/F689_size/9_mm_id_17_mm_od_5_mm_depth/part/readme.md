@@ -122,6 +122,18 @@ donkey
 patch
 drama
 salad |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decidefemalelabelaliensweetdonkeypatchdramasaladlanguage |  
+| bip_39_word_no_space_11 | decidefemalelabelaliensweetdonkeypatchdramasaladlanguagechef |  
+| bip_39_word_no_space_12 | decidefemalelabelaliensweetdonkeypatchdramasaladlanguagechefassist |  
+| bip_39_word_no_space_2 | decidefemale |  
+| bip_39_word_no_space_3 | decidefemalelabel |  
+| bip_39_word_no_space_4 | decidefemalelabelalien |  
+| bip_39_word_no_space_5 | decidefemalelabelaliensweet |  
+| bip_39_word_no_space_6 | decidefemalelabelaliensweetdonkey |  
+| bip_39_word_no_space_7 | decidefemalelabelaliensweetdonkeypatch |  
+| bip_39_word_no_space_8 | decidefemalelabelaliensweetdonkeypatchdrama |  
+| bip_39_word_no_space_9 | decidefemalelabelaliensweetdonkeypatchdramasalad |  
 | bip_39_word_space_0 | ['decide', 'female', 'label', 'alien', 'sweet', 'donkey', 'patch', 'drama', 'salad', 'language', 'chef', 'assist'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide female label alien sweet donkey patch drama salad language |  

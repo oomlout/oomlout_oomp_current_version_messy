@@ -122,6 +122,18 @@ pig
 filter
 ridge
 casual |  
+| bip_39_word_no_space_1 | regular |  
+| bip_39_word_no_space_10 | regularreasonpledgerebelprivatepigfilterridgecasualload |  
+| bip_39_word_no_space_11 | regularreasonpledgerebelprivatepigfilterridgecasualloadcushion |  
+| bip_39_word_no_space_12 | regularreasonpledgerebelprivatepigfilterridgecasualloadcushionaugust |  
+| bip_39_word_no_space_2 | regularreason |  
+| bip_39_word_no_space_3 | regularreasonpledge |  
+| bip_39_word_no_space_4 | regularreasonpledgerebel |  
+| bip_39_word_no_space_5 | regularreasonpledgerebelprivate |  
+| bip_39_word_no_space_6 | regularreasonpledgerebelprivatepig |  
+| bip_39_word_no_space_7 | regularreasonpledgerebelprivatepigfilter |  
+| bip_39_word_no_space_8 | regularreasonpledgerebelprivatepigfilterridge |  
+| bip_39_word_no_space_9 | regularreasonpledgerebelprivatepigfilterridgecasual |  
 | bip_39_word_space_0 | ['regular', 'reason', 'pledge', 'rebel', 'private', 'pig', 'filter', 'ridge', 'casual', 'load', 'cushion', 'august'] |  
 | bip_39_word_space_1 | regular |  
 | bip_39_word_space_10 | regular reason pledge rebel private pig filter ridge casual load |  

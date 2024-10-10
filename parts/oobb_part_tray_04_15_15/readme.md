@@ -122,6 +122,18 @@ fall
 analyst
 napkin
 garlic |  
+| bip_39_word_no_space_1 | addict |  
+| bip_39_word_no_space_10 | addictaccountbiologyenforceproducefallanalystnapkingarlicbid |  
+| bip_39_word_no_space_11 | addictaccountbiologyenforceproducefallanalystnapkingarlicbiddisplay |  
+| bip_39_word_no_space_12 | addictaccountbiologyenforceproducefallanalystnapkingarlicbiddisplayattack |  
+| bip_39_word_no_space_2 | addictaccount |  
+| bip_39_word_no_space_3 | addictaccountbiology |  
+| bip_39_word_no_space_4 | addictaccountbiologyenforce |  
+| bip_39_word_no_space_5 | addictaccountbiologyenforceproduce |  
+| bip_39_word_no_space_6 | addictaccountbiologyenforceproducefall |  
+| bip_39_word_no_space_7 | addictaccountbiologyenforceproducefallanalyst |  
+| bip_39_word_no_space_8 | addictaccountbiologyenforceproducefallanalystnapkin |  
+| bip_39_word_no_space_9 | addictaccountbiologyenforceproducefallanalystnapkingarlic |  
 | bip_39_word_space_0 | ['addict', 'account', 'biology', 'enforce', 'produce', 'fall', 'analyst', 'napkin', 'garlic', 'bid', 'display', 'attack'] |  
 | bip_39_word_space_1 | addict |  
 | bip_39_word_space_10 | addict account biology enforce produce fall analyst napkin garlic bid |  

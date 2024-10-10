@@ -122,6 +122,18 @@ dry
 vendor
 awesome
 orbit |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungegarbageorientfeelmomentdryvendorawesomeorbitswing |  
+| bip_39_word_no_space_11 | plungegarbageorientfeelmomentdryvendorawesomeorbitswingcupboard |  
+| bip_39_word_no_space_12 | plungegarbageorientfeelmomentdryvendorawesomeorbitswingcupboardadvance |  
+| bip_39_word_no_space_2 | plungegarbage |  
+| bip_39_word_no_space_3 | plungegarbageorient |  
+| bip_39_word_no_space_4 | plungegarbageorientfeel |  
+| bip_39_word_no_space_5 | plungegarbageorientfeelmoment |  
+| bip_39_word_no_space_6 | plungegarbageorientfeelmomentdry |  
+| bip_39_word_no_space_7 | plungegarbageorientfeelmomentdryvendor |  
+| bip_39_word_no_space_8 | plungegarbageorientfeelmomentdryvendorawesome |  
+| bip_39_word_no_space_9 | plungegarbageorientfeelmomentdryvendorawesomeorbit |  
 | bip_39_word_space_0 | ['plunge', 'garbage', 'orient', 'feel', 'moment', 'dry', 'vendor', 'awesome', 'orbit', 'swing', 'cupboard', 'advance'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge garbage orient feel moment dry vendor awesome orbit swing |  

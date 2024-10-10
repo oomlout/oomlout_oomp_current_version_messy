@@ -122,6 +122,18 @@ play
 car
 zoo
 sniff |  
+| bip_39_word_no_space_1 | awkward |  
+| bip_39_word_no_space_10 | awkwardaccesschurncandykissplaycarzoosniffshoot |  
+| bip_39_word_no_space_11 | awkwardaccesschurncandykissplaycarzoosniffshoottide |  
+| bip_39_word_no_space_12 | awkwardaccesschurncandykissplaycarzoosniffshoottideancient |  
+| bip_39_word_no_space_2 | awkwardaccess |  
+| bip_39_word_no_space_3 | awkwardaccesschurn |  
+| bip_39_word_no_space_4 | awkwardaccesschurncandy |  
+| bip_39_word_no_space_5 | awkwardaccesschurncandykiss |  
+| bip_39_word_no_space_6 | awkwardaccesschurncandykissplay |  
+| bip_39_word_no_space_7 | awkwardaccesschurncandykissplaycar |  
+| bip_39_word_no_space_8 | awkwardaccesschurncandykissplaycarzoo |  
+| bip_39_word_no_space_9 | awkwardaccesschurncandykissplaycarzoosniff |  
 | bip_39_word_space_0 | ['awkward', 'access', 'churn', 'candy', 'kiss', 'play', 'car', 'zoo', 'sniff', 'shoot', 'tide', 'ancient'] |  
 | bip_39_word_space_1 | awkward |  
 | bip_39_word_space_10 | awkward access churn candy kiss play car zoo sniff shoot |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'maze
   install
 
   seed'
+bip_39_word_no_space_1: maze
+bip_39_word_no_space_10: mazecrunchcableerasespeakstumblesightinstallseedtonight
+bip_39_word_no_space_11: mazecrunchcableerasespeakstumblesightinstallseedtonightcoffee
+bip_39_word_no_space_12: mazecrunchcableerasespeakstumblesightinstallseedtonightcoffeeanalyst
+bip_39_word_no_space_2: mazecrunch
+bip_39_word_no_space_3: mazecrunchcable
+bip_39_word_no_space_4: mazecrunchcableerase
+bip_39_word_no_space_5: mazecrunchcableerasespeak
+bip_39_word_no_space_6: mazecrunchcableerasespeakstumble
+bip_39_word_no_space_7: mazecrunchcableerasespeakstumblesight
+bip_39_word_no_space_8: mazecrunchcableerasespeakstumblesightinstall
+bip_39_word_no_space_9: mazecrunchcableerasespeakstumblesightinstallseed
 bip_39_word_space_0:
 - maze
 - crunch

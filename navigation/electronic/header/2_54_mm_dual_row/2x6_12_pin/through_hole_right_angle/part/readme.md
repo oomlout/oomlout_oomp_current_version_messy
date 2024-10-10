@@ -122,6 +122,18 @@ quiz
 beach
 during
 siege |  
+| bip_39_word_no_space_1 | husband |  
+| bip_39_word_no_space_10 | husbandshoulderviciousmessagedayquizbeachduringsiegewidth |  
+| bip_39_word_no_space_11 | husbandshoulderviciousmessagedayquizbeachduringsiegewidthfitness |  
+| bip_39_word_no_space_12 | husbandshoulderviciousmessagedayquizbeachduringsiegewidthfitnessarrive |  
+| bip_39_word_no_space_2 | husbandshoulder |  
+| bip_39_word_no_space_3 | husbandshouldervicious |  
+| bip_39_word_no_space_4 | husbandshoulderviciousmessage |  
+| bip_39_word_no_space_5 | husbandshoulderviciousmessageday |  
+| bip_39_word_no_space_6 | husbandshoulderviciousmessagedayquiz |  
+| bip_39_word_no_space_7 | husbandshoulderviciousmessagedayquizbeach |  
+| bip_39_word_no_space_8 | husbandshoulderviciousmessagedayquizbeachduring |  
+| bip_39_word_no_space_9 | husbandshoulderviciousmessagedayquizbeachduringsiege |  
 | bip_39_word_space_0 | ['husband', 'shoulder', 'vicious', 'message', 'day', 'quiz', 'beach', 'during', 'siege', 'width', 'fitness', 'arrive'] |  
 | bip_39_word_space_1 | husband |  
 | bip_39_word_space_10 | husband shoulder vicious message day quiz beach during siege width |  

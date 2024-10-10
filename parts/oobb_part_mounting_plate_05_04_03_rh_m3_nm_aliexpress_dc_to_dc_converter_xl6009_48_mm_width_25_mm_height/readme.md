@@ -122,6 +122,18 @@ replace
 leisure
 embody
 security |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildjeansfindcrawlpatrolreplaceleisureembodysecurityopen |  
+| bip_39_word_no_space_11 | rebuildjeansfindcrawlpatrolreplaceleisureembodysecurityopenincome |  
+| bip_39_word_no_space_12 | rebuildjeansfindcrawlpatrolreplaceleisureembodysecurityopenincomearound |  
+| bip_39_word_no_space_2 | rebuildjeans |  
+| bip_39_word_no_space_3 | rebuildjeansfind |  
+| bip_39_word_no_space_4 | rebuildjeansfindcrawl |  
+| bip_39_word_no_space_5 | rebuildjeansfindcrawlpatrol |  
+| bip_39_word_no_space_6 | rebuildjeansfindcrawlpatrolreplace |  
+| bip_39_word_no_space_7 | rebuildjeansfindcrawlpatrolreplaceleisure |  
+| bip_39_word_no_space_8 | rebuildjeansfindcrawlpatrolreplaceleisureembody |  
+| bip_39_word_no_space_9 | rebuildjeansfindcrawlpatrolreplaceleisureembodysecurity |  
 | bip_39_word_space_0 | ['rebuild', 'jeans', 'find', 'crawl', 'patrol', 'replace', 'leisure', 'embody', 'security', 'open', 'income', 'around'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild jeans find crawl patrol replace leisure embody security open |  

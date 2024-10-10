@@ -122,6 +122,18 @@ size
 dry
 absurd
 hobby |  
+| bip_39_word_no_space_1 | bunker |  
+| bip_39_word_no_space_10 | bunkerarrownoodleridgeenoughsizedryabsurdhobbywink |  
+| bip_39_word_no_space_11 | bunkerarrownoodleridgeenoughsizedryabsurdhobbywinksmoke |  
+| bip_39_word_no_space_12 | bunkerarrownoodleridgeenoughsizedryabsurdhobbywinksmokeanimal |  
+| bip_39_word_no_space_2 | bunkerarrow |  
+| bip_39_word_no_space_3 | bunkerarrownoodle |  
+| bip_39_word_no_space_4 | bunkerarrownoodleridge |  
+| bip_39_word_no_space_5 | bunkerarrownoodleridgeenough |  
+| bip_39_word_no_space_6 | bunkerarrownoodleridgeenoughsize |  
+| bip_39_word_no_space_7 | bunkerarrownoodleridgeenoughsizedry |  
+| bip_39_word_no_space_8 | bunkerarrownoodleridgeenoughsizedryabsurd |  
+| bip_39_word_no_space_9 | bunkerarrownoodleridgeenoughsizedryabsurdhobby |  
 | bip_39_word_space_0 | ['bunker', 'arrow', 'noodle', 'ridge', 'enough', 'size', 'dry', 'absurd', 'hobby', 'wink', 'smoke', 'animal'] |  
 | bip_39_word_space_1 | bunker |  
 | bip_39_word_space_10 | bunker arrow noodle ridge enough size dry absurd hobby wink |  

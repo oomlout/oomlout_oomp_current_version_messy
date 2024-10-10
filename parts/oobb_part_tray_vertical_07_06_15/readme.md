@@ -122,6 +122,18 @@ shift
 clog
 reveal
 quiz |  
+| bip_39_word_no_space_1 | festival |  
+| bip_39_word_no_space_10 | festivalfloorthankaprilsphereshiftclogrevealquizchalk |  
+| bip_39_word_no_space_11 | festivalfloorthankaprilsphereshiftclogrevealquizchalkreject |  
+| bip_39_word_no_space_12 | festivalfloorthankaprilsphereshiftclogrevealquizchalkrejectattitude |  
+| bip_39_word_no_space_2 | festivalfloor |  
+| bip_39_word_no_space_3 | festivalfloorthank |  
+| bip_39_word_no_space_4 | festivalfloorthankapril |  
+| bip_39_word_no_space_5 | festivalfloorthankaprilsphere |  
+| bip_39_word_no_space_6 | festivalfloorthankaprilsphereshift |  
+| bip_39_word_no_space_7 | festivalfloorthankaprilsphereshiftclog |  
+| bip_39_word_no_space_8 | festivalfloorthankaprilsphereshiftclogreveal |  
+| bip_39_word_no_space_9 | festivalfloorthankaprilsphereshiftclogrevealquiz |  
 | bip_39_word_space_0 | ['festival', 'floor', 'thank', 'april', 'sphere', 'shift', 'clog', 'reveal', 'quiz', 'chalk', 'reject', 'attitude'] |  
 | bip_39_word_space_1 | festival |  
 | bip_39_word_space_10 | festival floor thank april sphere shift clog reveal quiz chalk |  

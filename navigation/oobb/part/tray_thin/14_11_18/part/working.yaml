@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'alarm
   water
 
   letter'
+bip_39_word_no_space_1: alarm
+bip_39_word_no_space_10: alarmfishuseshieldfestivaltimeanalystwaterletterscorpion
+bip_39_word_no_space_11: alarmfishuseshieldfestivaltimeanalystwaterletterscorpionfederal
+bip_39_word_no_space_12: alarmfishuseshieldfestivaltimeanalystwaterletterscorpionfederalalbum
+bip_39_word_no_space_2: alarmfish
+bip_39_word_no_space_3: alarmfishuse
+bip_39_word_no_space_4: alarmfishuseshield
+bip_39_word_no_space_5: alarmfishuseshieldfestival
+bip_39_word_no_space_6: alarmfishuseshieldfestivaltime
+bip_39_word_no_space_7: alarmfishuseshieldfestivaltimeanalyst
+bip_39_word_no_space_8: alarmfishuseshieldfestivaltimeanalystwater
+bip_39_word_no_space_9: alarmfishuseshieldfestivaltimeanalystwaterletter
 bip_39_word_space_0:
 - alarm
 - fish

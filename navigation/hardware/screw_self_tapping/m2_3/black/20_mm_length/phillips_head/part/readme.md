@@ -122,6 +122,18 @@ chimney
 draft
 unique
 logic |  
+| bip_39_word_no_space_1 | strike |  
+| bip_39_word_no_space_10 | strikecottondryanchormistakechimneydraftuniquelogicdamp |  
+| bip_39_word_no_space_11 | strikecottondryanchormistakechimneydraftuniquelogicdampinner |  
+| bip_39_word_no_space_12 | strikecottondryanchormistakechimneydraftuniquelogicdampinneraunt |  
+| bip_39_word_no_space_2 | strikecotton |  
+| bip_39_word_no_space_3 | strikecottondry |  
+| bip_39_word_no_space_4 | strikecottondryanchor |  
+| bip_39_word_no_space_5 | strikecottondryanchormistake |  
+| bip_39_word_no_space_6 | strikecottondryanchormistakechimney |  
+| bip_39_word_no_space_7 | strikecottondryanchormistakechimneydraft |  
+| bip_39_word_no_space_8 | strikecottondryanchormistakechimneydraftunique |  
+| bip_39_word_no_space_9 | strikecottondryanchormistakechimneydraftuniquelogic |  
 | bip_39_word_space_0 | ['strike', 'cotton', 'dry', 'anchor', 'mistake', 'chimney', 'draft', 'unique', 'logic', 'damp', 'inner', 'aunt'] |  
 | bip_39_word_space_1 | strike |  
 | bip_39_word_space_10 | strike cotton dry anchor mistake chimney draft unique logic damp |  

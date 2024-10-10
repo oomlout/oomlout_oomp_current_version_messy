@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scout
   spirit
 
   tent'
+bip_39_word_no_space_1: scout
+bip_39_word_no_space_10: scouturbancrimechurnfatherjarpotatospirittentwild
+bip_39_word_no_space_11: scouturbancrimechurnfatherjarpotatospirittentwildsilk
+bip_39_word_no_space_12: scouturbancrimechurnfatherjarpotatospirittentwildsilkadmit
+bip_39_word_no_space_2: scouturban
+bip_39_word_no_space_3: scouturbancrime
+bip_39_word_no_space_4: scouturbancrimechurn
+bip_39_word_no_space_5: scouturbancrimechurnfather
+bip_39_word_no_space_6: scouturbancrimechurnfatherjar
+bip_39_word_no_space_7: scouturbancrimechurnfatherjarpotato
+bip_39_word_no_space_8: scouturbancrimechurnfatherjarpotatospirit
+bip_39_word_no_space_9: scouturbancrimechurnfatherjarpotatospirittent
 bip_39_word_space_0:
 - scout
 - urban

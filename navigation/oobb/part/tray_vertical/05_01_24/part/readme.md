@@ -122,6 +122,18 @@ speak
 aunt
 insect
 match |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famouswidechestcartathletespeakauntinsectmatchomit |  
+| bip_39_word_no_space_11 | famouswidechestcartathletespeakauntinsectmatchomitgoose |  
+| bip_39_word_no_space_12 | famouswidechestcartathletespeakauntinsectmatchomitgooseactress |  
+| bip_39_word_no_space_2 | famouswide |  
+| bip_39_word_no_space_3 | famouswidechest |  
+| bip_39_word_no_space_4 | famouswidechestcart |  
+| bip_39_word_no_space_5 | famouswidechestcartathlete |  
+| bip_39_word_no_space_6 | famouswidechestcartathletespeak |  
+| bip_39_word_no_space_7 | famouswidechestcartathletespeakaunt |  
+| bip_39_word_no_space_8 | famouswidechestcartathletespeakauntinsect |  
+| bip_39_word_no_space_9 | famouswidechestcartathletespeakauntinsectmatch |  
 | bip_39_word_space_0 | ['famous', 'wide', 'chest', 'cart', 'athlete', 'speak', 'aunt', 'insect', 'match', 'omit', 'goose', 'actress'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous wide chest cart athlete speak aunt insect match omit |  

@@ -122,6 +122,18 @@ swim
 utility
 appear
 ocean |  
+| bip_39_word_no_space_1 | fly |  
+| bip_39_word_no_space_10 | flybluecarhiddenburdenswimutilityappearoceanonion |  
+| bip_39_word_no_space_11 | flybluecarhiddenburdenswimutilityappearoceanonionraw |  
+| bip_39_word_no_space_12 | flybluecarhiddenburdenswimutilityappearoceanonionrawaddict |  
+| bip_39_word_no_space_2 | flyblue |  
+| bip_39_word_no_space_3 | flybluecar |  
+| bip_39_word_no_space_4 | flybluecarhidden |  
+| bip_39_word_no_space_5 | flybluecarhiddenburden |  
+| bip_39_word_no_space_6 | flybluecarhiddenburdenswim |  
+| bip_39_word_no_space_7 | flybluecarhiddenburdenswimutility |  
+| bip_39_word_no_space_8 | flybluecarhiddenburdenswimutilityappear |  
+| bip_39_word_no_space_9 | flybluecarhiddenburdenswimutilityappearocean |  
 | bip_39_word_space_0 | ['fly', 'blue', 'car', 'hidden', 'burden', 'swim', 'utility', 'appear', 'ocean', 'onion', 'raw', 'addict'] |  
 | bip_39_word_space_1 | fly |  
 | bip_39_word_space_10 | fly blue car hidden burden swim utility appear ocean onion |  

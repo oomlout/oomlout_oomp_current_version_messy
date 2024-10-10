@@ -122,6 +122,18 @@ planet
 order
 series
 escape |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | serieslinkwidththatcenturyplanetorderseriesescapesquare |  
+| bip_39_word_no_space_11 | serieslinkwidththatcenturyplanetorderseriesescapesquarechange |  
+| bip_39_word_no_space_12 | serieslinkwidththatcenturyplanetorderseriesescapesquarechangeaim |  
+| bip_39_word_no_space_2 | serieslink |  
+| bip_39_word_no_space_3 | serieslinkwidth |  
+| bip_39_word_no_space_4 | serieslinkwidththat |  
+| bip_39_word_no_space_5 | serieslinkwidththatcentury |  
+| bip_39_word_no_space_6 | serieslinkwidththatcenturyplanet |  
+| bip_39_word_no_space_7 | serieslinkwidththatcenturyplanetorder |  
+| bip_39_word_no_space_8 | serieslinkwidththatcenturyplanetorderseries |  
+| bip_39_word_no_space_9 | serieslinkwidththatcenturyplanetorderseriesescape |  
 | bip_39_word_space_0 | ['series', 'link', 'width', 'that', 'century', 'planet', 'order', 'series', 'escape', 'square', 'change', 'aim'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series link width that century planet order series escape square |  

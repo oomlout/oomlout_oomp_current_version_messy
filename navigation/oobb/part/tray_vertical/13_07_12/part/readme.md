@@ -122,6 +122,18 @@ crater
 gap
 health
 review |  
+| bip_39_word_no_space_1 | slab |  
+| bip_39_word_no_space_10 | slabnosepleaseborderlayercratergaphealthreviewpause |  
+| bip_39_word_no_space_11 | slabnosepleaseborderlayercratergaphealthreviewpauseguitar |  
+| bip_39_word_no_space_12 | slabnosepleaseborderlayercratergaphealthreviewpauseguitaraugust |  
+| bip_39_word_no_space_2 | slabnose |  
+| bip_39_word_no_space_3 | slabnoseplease |  
+| bip_39_word_no_space_4 | slabnosepleaseborder |  
+| bip_39_word_no_space_5 | slabnosepleaseborderlayer |  
+| bip_39_word_no_space_6 | slabnosepleaseborderlayercrater |  
+| bip_39_word_no_space_7 | slabnosepleaseborderlayercratergap |  
+| bip_39_word_no_space_8 | slabnosepleaseborderlayercratergaphealth |  
+| bip_39_word_no_space_9 | slabnosepleaseborderlayercratergaphealthreview |  
 | bip_39_word_space_0 | ['slab', 'nose', 'please', 'border', 'layer', 'crater', 'gap', 'health', 'review', 'pause', 'guitar', 'august'] |  
 | bip_39_word_space_1 | slab |  
 | bip_39_word_space_10 | slab nose please border layer crater gap health review pause |  

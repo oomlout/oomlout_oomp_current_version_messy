@@ -122,6 +122,18 @@ wing
 resemble
 quarter
 despair |  
+| bip_39_word_no_space_1 | trash |  
+| bip_39_word_no_space_10 | trashmotionaccusesportflagwingresemblequarterdespairmuffin |  
+| bip_39_word_no_space_11 | trashmotionaccusesportflagwingresemblequarterdespairmuffinwear |  
+| bip_39_word_no_space_12 | trashmotionaccusesportflagwingresemblequarterdespairmuffinwearathlete |  
+| bip_39_word_no_space_2 | trashmotion |  
+| bip_39_word_no_space_3 | trashmotionaccuse |  
+| bip_39_word_no_space_4 | trashmotionaccusesport |  
+| bip_39_word_no_space_5 | trashmotionaccusesportflag |  
+| bip_39_word_no_space_6 | trashmotionaccusesportflagwing |  
+| bip_39_word_no_space_7 | trashmotionaccusesportflagwingresemble |  
+| bip_39_word_no_space_8 | trashmotionaccusesportflagwingresemblequarter |  
+| bip_39_word_no_space_9 | trashmotionaccusesportflagwingresemblequarterdespair |  
 | bip_39_word_space_0 | ['trash', 'motion', 'accuse', 'sport', 'flag', 'wing', 'resemble', 'quarter', 'despair', 'muffin', 'wear', 'athlete'] |  
 | bip_39_word_space_1 | trash |  
 | bip_39_word_space_10 | trash motion accuse sport flag wing resemble quarter despair muffin |  

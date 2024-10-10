@@ -122,6 +122,18 @@ hat
 dinosaur
 notable
 canyon |  
+| bip_39_word_no_space_1 | forest |  
+| bip_39_word_no_space_10 | forestalmostdebateoctoberburdenhatdinosaurnotablecanyonbracket |  
+| bip_39_word_no_space_11 | forestalmostdebateoctoberburdenhatdinosaurnotablecanyonbracketinquiry |  
+| bip_39_word_no_space_12 | forestalmostdebateoctoberburdenhatdinosaurnotablecanyonbracketinquiryauthor |  
+| bip_39_word_no_space_2 | forestalmost |  
+| bip_39_word_no_space_3 | forestalmostdebate |  
+| bip_39_word_no_space_4 | forestalmostdebateoctober |  
+| bip_39_word_no_space_5 | forestalmostdebateoctoberburden |  
+| bip_39_word_no_space_6 | forestalmostdebateoctoberburdenhat |  
+| bip_39_word_no_space_7 | forestalmostdebateoctoberburdenhatdinosaur |  
+| bip_39_word_no_space_8 | forestalmostdebateoctoberburdenhatdinosaurnotable |  
+| bip_39_word_no_space_9 | forestalmostdebateoctoberburdenhatdinosaurnotablecanyon |  
 | bip_39_word_space_0 | ['forest', 'almost', 'debate', 'october', 'burden', 'hat', 'dinosaur', 'notable', 'canyon', 'bracket', 'inquiry', 'author'] |  
 | bip_39_word_space_1 | forest |  
 | bip_39_word_space_10 | forest almost debate october burden hat dinosaur notable canyon bracket |  

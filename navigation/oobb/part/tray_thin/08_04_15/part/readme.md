@@ -122,6 +122,18 @@ arena
 pulp
 silly
 six |  
+| bip_39_word_no_space_1 | can |  
+| bip_39_word_no_space_10 | canrabbitlibertyagainentryarenapulpsillysixarctic |  
+| bip_39_word_no_space_11 | canrabbitlibertyagainentryarenapulpsillysixarcticblush |  
+| bip_39_word_no_space_12 | canrabbitlibertyagainentryarenapulpsillysixarcticblushaccident |  
+| bip_39_word_no_space_2 | canrabbit |  
+| bip_39_word_no_space_3 | canrabbitliberty |  
+| bip_39_word_no_space_4 | canrabbitlibertyagain |  
+| bip_39_word_no_space_5 | canrabbitlibertyagainentry |  
+| bip_39_word_no_space_6 | canrabbitlibertyagainentryarena |  
+| bip_39_word_no_space_7 | canrabbitlibertyagainentryarenapulp |  
+| bip_39_word_no_space_8 | canrabbitlibertyagainentryarenapulpsilly |  
+| bip_39_word_no_space_9 | canrabbitlibertyagainentryarenapulpsillysix |  
 | bip_39_word_space_0 | ['can', 'rabbit', 'liberty', 'again', 'entry', 'arena', 'pulp', 'silly', 'six', 'arctic', 'blush', 'accident'] |  
 | bip_39_word_space_1 | can |  
 | bip_39_word_space_10 | can rabbit liberty again entry arena pulp silly six arctic |  

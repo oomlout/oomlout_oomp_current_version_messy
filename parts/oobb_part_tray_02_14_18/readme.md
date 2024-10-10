@@ -122,6 +122,18 @@ egg
 unfold
 voyage
 ahead |  
+| bip_39_word_no_space_1 | legal |  
+| bip_39_word_no_space_10 | legallyricsabilitydenyuncovereggunfoldvoyageaheadgarlic |  
+| bip_39_word_no_space_11 | legallyricsabilitydenyuncovereggunfoldvoyageaheadgarlicclarify |  
+| bip_39_word_no_space_12 | legallyricsabilitydenyuncovereggunfoldvoyageaheadgarlicclarifyadult |  
+| bip_39_word_no_space_2 | legallyrics |  
+| bip_39_word_no_space_3 | legallyricsability |  
+| bip_39_word_no_space_4 | legallyricsabilitydeny |  
+| bip_39_word_no_space_5 | legallyricsabilitydenyuncover |  
+| bip_39_word_no_space_6 | legallyricsabilitydenyuncoveregg |  
+| bip_39_word_no_space_7 | legallyricsabilitydenyuncovereggunfold |  
+| bip_39_word_no_space_8 | legallyricsabilitydenyuncovereggunfoldvoyage |  
+| bip_39_word_no_space_9 | legallyricsabilitydenyuncovereggunfoldvoyageahead |  
 | bip_39_word_space_0 | ['legal', 'lyrics', 'ability', 'deny', 'uncover', 'egg', 'unfold', 'voyage', 'ahead', 'garlic', 'clarify', 'adult'] |  
 | bip_39_word_space_1 | legal |  
 | bip_39_word_space_10 | legal lyrics ability deny uncover egg unfold voyage ahead garlic |  

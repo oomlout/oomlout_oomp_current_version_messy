@@ -122,6 +122,18 @@ praise
 cause
 swallow
 way |  
+| bip_39_word_no_space_1 | material |  
+| bip_39_word_no_space_10 | materialmiracleshrimphelpboilpraisecauseswallowwayculture |  
+| bip_39_word_no_space_11 | materialmiracleshrimphelpboilpraisecauseswallowwaycultureshoot |  
+| bip_39_word_no_space_12 | materialmiracleshrimphelpboilpraisecauseswallowwaycultureshootahead |  
+| bip_39_word_no_space_2 | materialmiracle |  
+| bip_39_word_no_space_3 | materialmiracleshrimp |  
+| bip_39_word_no_space_4 | materialmiracleshrimphelp |  
+| bip_39_word_no_space_5 | materialmiracleshrimphelpboil |  
+| bip_39_word_no_space_6 | materialmiracleshrimphelpboilpraise |  
+| bip_39_word_no_space_7 | materialmiracleshrimphelpboilpraisecause |  
+| bip_39_word_no_space_8 | materialmiracleshrimphelpboilpraisecauseswallow |  
+| bip_39_word_no_space_9 | materialmiracleshrimphelpboilpraisecauseswallowway |  
 | bip_39_word_space_0 | ['material', 'miracle', 'shrimp', 'help', 'boil', 'praise', 'cause', 'swallow', 'way', 'culture', 'shoot', 'ahead'] |  
 | bip_39_word_space_1 | material |  
 | bip_39_word_space_10 | material miracle shrimp help boil praise cause swallow way culture |  

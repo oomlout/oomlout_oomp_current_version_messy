@@ -122,6 +122,18 @@ volume
 pilot
 arrow
 twist |  
+| bip_39_word_no_space_1 | transfer |  
+| bip_39_word_no_space_10 | transfernamebargainpolehelmetvolumepilotarrowtwiststrategy |  
+| bip_39_word_no_space_11 | transfernamebargainpolehelmetvolumepilotarrowtwiststrategybefore |  
+| bip_39_word_no_space_12 | transfernamebargainpolehelmetvolumepilotarrowtwiststrategybeforeamateur |  
+| bip_39_word_no_space_2 | transfername |  
+| bip_39_word_no_space_3 | transfernamebargain |  
+| bip_39_word_no_space_4 | transfernamebargainpole |  
+| bip_39_word_no_space_5 | transfernamebargainpolehelmet |  
+| bip_39_word_no_space_6 | transfernamebargainpolehelmetvolume |  
+| bip_39_word_no_space_7 | transfernamebargainpolehelmetvolumepilot |  
+| bip_39_word_no_space_8 | transfernamebargainpolehelmetvolumepilotarrow |  
+| bip_39_word_no_space_9 | transfernamebargainpolehelmetvolumepilotarrowtwist |  
 | bip_39_word_space_0 | ['transfer', 'name', 'bargain', 'pole', 'helmet', 'volume', 'pilot', 'arrow', 'twist', 'strategy', 'before', 'amateur'] |  
 | bip_39_word_space_1 | transfer |  
 | bip_39_word_space_10 | transfer name bargain pole helmet volume pilot arrow twist strategy |  

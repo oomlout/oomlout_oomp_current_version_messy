@@ -122,6 +122,18 @@ lift
 place
 other
 gain |  
+| bip_39_word_no_space_1 | stomach |  
+| bip_39_word_no_space_10 | stomachwireepisodeiconyearliftplaceothergainswing |  
+| bip_39_word_no_space_11 | stomachwireepisodeiconyearliftplaceothergainswingrecycle |  
+| bip_39_word_no_space_12 | stomachwireepisodeiconyearliftplaceothergainswingrecycleability |  
+| bip_39_word_no_space_2 | stomachwire |  
+| bip_39_word_no_space_3 | stomachwireepisode |  
+| bip_39_word_no_space_4 | stomachwireepisodeicon |  
+| bip_39_word_no_space_5 | stomachwireepisodeiconyear |  
+| bip_39_word_no_space_6 | stomachwireepisodeiconyearlift |  
+| bip_39_word_no_space_7 | stomachwireepisodeiconyearliftplace |  
+| bip_39_word_no_space_8 | stomachwireepisodeiconyearliftplaceother |  
+| bip_39_word_no_space_9 | stomachwireepisodeiconyearliftplaceothergain |  
 | bip_39_word_space_0 | ['stomach', 'wire', 'episode', 'icon', 'year', 'lift', 'place', 'other', 'gain', 'swing', 'recycle', 'ability'] |  
 | bip_39_word_space_1 | stomach |  
 | bip_39_word_space_10 | stomach wire episode icon year lift place other gain swing |  

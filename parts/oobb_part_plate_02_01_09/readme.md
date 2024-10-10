@@ -122,6 +122,18 @@ wage
 crucial
 rabbit
 valve |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympicmarriagevisasnackfarmwagecrucialrabbitvalvebulb |  
+| bip_39_word_no_space_11 | olympicmarriagevisasnackfarmwagecrucialrabbitvalvebulbexcess |  
+| bip_39_word_no_space_12 | olympicmarriagevisasnackfarmwagecrucialrabbitvalvebulbexcessanchor |  
+| bip_39_word_no_space_2 | olympicmarriage |  
+| bip_39_word_no_space_3 | olympicmarriagevisa |  
+| bip_39_word_no_space_4 | olympicmarriagevisasnack |  
+| bip_39_word_no_space_5 | olympicmarriagevisasnackfarm |  
+| bip_39_word_no_space_6 | olympicmarriagevisasnackfarmwage |  
+| bip_39_word_no_space_7 | olympicmarriagevisasnackfarmwagecrucial |  
+| bip_39_word_no_space_8 | olympicmarriagevisasnackfarmwagecrucialrabbit |  
+| bip_39_word_no_space_9 | olympicmarriagevisasnackfarmwagecrucialrabbitvalve |  
 | bip_39_word_space_0 | ['olympic', 'marriage', 'visa', 'snack', 'farm', 'wage', 'crucial', 'rabbit', 'valve', 'bulb', 'excess', 'anchor'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic marriage visa snack farm wage crucial rabbit valve bulb |  

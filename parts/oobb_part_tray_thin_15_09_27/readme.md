@@ -109,6 +109,17 @@ oppose
 file
 reveal
 bounce |  
+| bip_39_word_no_space_1 | jacket |  
+| bip_39_word_no_space_10 | jacketstaysetupovalrhythmopposefilerevealbouncesqueeze |  
+| bip_39_word_no_space_11 | jacketstaysetupovalrhythmopposefilerevealbouncesqueezebest |  
+| bip_39_word_no_space_2 | jacketstay |  
+| bip_39_word_no_space_3 | jacketstaysetup |  
+| bip_39_word_no_space_4 | jacketstaysetupoval |  
+| bip_39_word_no_space_5 | jacketstaysetupovalrhythm |  
+| bip_39_word_no_space_6 | jacketstaysetupovalrhythmoppose |  
+| bip_39_word_no_space_7 | jacketstaysetupovalrhythmopposefile |  
+| bip_39_word_no_space_8 | jacketstaysetupovalrhythmopposefilereveal |  
+| bip_39_word_no_space_9 | jacketstaysetupovalrhythmopposefilerevealbounce |  
 | bip_39_word_space_0 | ['jacket', 'stay', 'setup', 'oval', 'rhythm', 'oppose', 'file', 'reveal', 'bounce', 'squeeze', 'best'] |  
 | bip_39_word_space_1 | jacket |  
 | bip_39_word_space_10 | jacket stay setup oval rhythm oppose file reveal bounce squeeze |  

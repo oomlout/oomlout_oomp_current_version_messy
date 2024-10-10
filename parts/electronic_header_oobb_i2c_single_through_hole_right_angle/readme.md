@@ -122,6 +122,18 @@ custom
 balcony
 success
 oil |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygenillegalrecordveteransubwaycustombalconysuccessoiltaxi |  
+| bip_39_word_no_space_11 | oxygenillegalrecordveteransubwaycustombalconysuccessoiltaxiclinic |  
+| bip_39_word_no_space_12 | oxygenillegalrecordveteransubwaycustombalconysuccessoiltaxiclinicaffair |  
+| bip_39_word_no_space_2 | oxygenillegal |  
+| bip_39_word_no_space_3 | oxygenillegalrecord |  
+| bip_39_word_no_space_4 | oxygenillegalrecordveteran |  
+| bip_39_word_no_space_5 | oxygenillegalrecordveteransubway |  
+| bip_39_word_no_space_6 | oxygenillegalrecordveteransubwaycustom |  
+| bip_39_word_no_space_7 | oxygenillegalrecordveteransubwaycustombalcony |  
+| bip_39_word_no_space_8 | oxygenillegalrecordveteransubwaycustombalconysuccess |  
+| bip_39_word_no_space_9 | oxygenillegalrecordveteransubwaycustombalconysuccessoil |  
 | bip_39_word_space_0 | ['oxygen', 'illegal', 'record', 'veteran', 'subway', 'custom', 'balcony', 'success', 'oil', 'taxi', 'clinic', 'affair'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen illegal record veteran subway custom balcony success oil taxi |  

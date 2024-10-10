@@ -122,6 +122,18 @@ glare
 argue
 filter
 buffalo |  
+| bip_39_word_no_space_1 | feed |  
+| bip_39_word_no_space_10 | feedrhythmpeanutfeverteachglarearguefilterbuffalotrouble |  
+| bip_39_word_no_space_11 | feedrhythmpeanutfeverteachglarearguefilterbuffalotroubleinnocent |  
+| bip_39_word_no_space_12 | feedrhythmpeanutfeverteachglarearguefilterbuffalotroubleinnocentagain |  
+| bip_39_word_no_space_2 | feedrhythm |  
+| bip_39_word_no_space_3 | feedrhythmpeanut |  
+| bip_39_word_no_space_4 | feedrhythmpeanutfever |  
+| bip_39_word_no_space_5 | feedrhythmpeanutfeverteach |  
+| bip_39_word_no_space_6 | feedrhythmpeanutfeverteachglare |  
+| bip_39_word_no_space_7 | feedrhythmpeanutfeverteachglareargue |  
+| bip_39_word_no_space_8 | feedrhythmpeanutfeverteachglarearguefilter |  
+| bip_39_word_no_space_9 | feedrhythmpeanutfeverteachglarearguefilterbuffalo |  
 | bip_39_word_space_0 | ['feed', 'rhythm', 'peanut', 'fever', 'teach', 'glare', 'argue', 'filter', 'buffalo', 'trouble', 'innocent', 'again'] |  
 | bip_39_word_space_1 | feed |  
 | bip_39_word_space_10 | feed rhythm peanut fever teach glare argue filter buffalo trouble |  

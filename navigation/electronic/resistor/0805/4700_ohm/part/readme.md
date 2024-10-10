@@ -122,6 +122,18 @@ pumpkin
 jelly
 tongue
 because |  
+| bip_39_word_no_space_1 | phone |  
+| bip_39_word_no_space_10 | phonecabinanchorinquirygriefpumpkinjellytonguebecausevoid |  
+| bip_39_word_no_space_11 | phonecabinanchorinquirygriefpumpkinjellytonguebecausevoidaddress |  
+| bip_39_word_no_space_12 | phonecabinanchorinquirygriefpumpkinjellytonguebecausevoidaddressahead |  
+| bip_39_word_no_space_2 | phonecabin |  
+| bip_39_word_no_space_3 | phonecabinanchor |  
+| bip_39_word_no_space_4 | phonecabinanchorinquiry |  
+| bip_39_word_no_space_5 | phonecabinanchorinquirygrief |  
+| bip_39_word_no_space_6 | phonecabinanchorinquirygriefpumpkin |  
+| bip_39_word_no_space_7 | phonecabinanchorinquirygriefpumpkinjelly |  
+| bip_39_word_no_space_8 | phonecabinanchorinquirygriefpumpkinjellytongue |  
+| bip_39_word_no_space_9 | phonecabinanchorinquirygriefpumpkinjellytonguebecause |  
 | bip_39_word_space_0 | ['phone', 'cabin', 'anchor', 'inquiry', 'grief', 'pumpkin', 'jelly', 'tongue', 'because', 'void', 'address', 'ahead'] |  
 | bip_39_word_space_1 | phone |  
 | bip_39_word_space_10 | phone cabin anchor inquiry grief pumpkin jelly tongue because void |  

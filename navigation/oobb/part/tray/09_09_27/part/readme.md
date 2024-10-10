@@ -122,6 +122,18 @@ change
 youth
 either
 price |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorfosterapologydecadefancychangeyoutheitherpricetraffic |  
+| bip_39_word_no_space_11 | floorfosterapologydecadefancychangeyoutheitherpricetrafficalready |  
+| bip_39_word_no_space_12 | floorfosterapologydecadefancychangeyoutheitherpricetrafficalreadyaffair |  
+| bip_39_word_no_space_2 | floorfoster |  
+| bip_39_word_no_space_3 | floorfosterapology |  
+| bip_39_word_no_space_4 | floorfosterapologydecade |  
+| bip_39_word_no_space_5 | floorfosterapologydecadefancy |  
+| bip_39_word_no_space_6 | floorfosterapologydecadefancychange |  
+| bip_39_word_no_space_7 | floorfosterapologydecadefancychangeyouth |  
+| bip_39_word_no_space_8 | floorfosterapologydecadefancychangeyoutheither |  
+| bip_39_word_no_space_9 | floorfosterapologydecadefancychangeyoutheitherprice |  
 | bip_39_word_space_0 | ['floor', 'foster', 'apology', 'decade', 'fancy', 'change', 'youth', 'either', 'price', 'traffic', 'already', 'affair'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor foster apology decade fancy change youth either price traffic |  

@@ -122,6 +122,18 @@ advice
 ramp
 canoe
 tone |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlaxiscrossgoodeasilyadvicerampcanoetonesummer |  
+| bip_39_word_no_space_11 | crawlaxiscrossgoodeasilyadvicerampcanoetonesummerdiesel |  
+| bip_39_word_no_space_12 | crawlaxiscrossgoodeasilyadvicerampcanoetonesummerdieselaccident |  
+| bip_39_word_no_space_2 | crawlaxis |  
+| bip_39_word_no_space_3 | crawlaxiscross |  
+| bip_39_word_no_space_4 | crawlaxiscrossgood |  
+| bip_39_word_no_space_5 | crawlaxiscrossgoodeasily |  
+| bip_39_word_no_space_6 | crawlaxiscrossgoodeasilyadvice |  
+| bip_39_word_no_space_7 | crawlaxiscrossgoodeasilyadviceramp |  
+| bip_39_word_no_space_8 | crawlaxiscrossgoodeasilyadvicerampcanoe |  
+| bip_39_word_no_space_9 | crawlaxiscrossgoodeasilyadvicerampcanoetone |  
 | bip_39_word_space_0 | ['crawl', 'axis', 'cross', 'good', 'easily', 'advice', 'ramp', 'canoe', 'tone', 'summer', 'diesel', 'accident'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl axis cross good easily advice ramp canoe tone summer |  

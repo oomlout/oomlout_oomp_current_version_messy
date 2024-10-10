@@ -122,6 +122,18 @@ jar
 dismiss
 power
 venture |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietancientmuseumcolorcostjardismisspowerventureluggage |  
+| bip_39_word_no_space_11 | dietancientmuseumcolorcostjardismisspowerventureluggageflight |  
+| bip_39_word_no_space_12 | dietancientmuseumcolorcostjardismisspowerventureluggageflightalready |  
+| bip_39_word_no_space_2 | dietancient |  
+| bip_39_word_no_space_3 | dietancientmuseum |  
+| bip_39_word_no_space_4 | dietancientmuseumcolor |  
+| bip_39_word_no_space_5 | dietancientmuseumcolorcost |  
+| bip_39_word_no_space_6 | dietancientmuseumcolorcostjar |  
+| bip_39_word_no_space_7 | dietancientmuseumcolorcostjardismiss |  
+| bip_39_word_no_space_8 | dietancientmuseumcolorcostjardismisspower |  
+| bip_39_word_no_space_9 | dietancientmuseumcolorcostjardismisspowerventure |  
 | bip_39_word_space_0 | ['diet', 'ancient', 'museum', 'color', 'cost', 'jar', 'dismiss', 'power', 'venture', 'luggage', 'flight', 'already'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet ancient museum color cost jar dismiss power venture luggage |  

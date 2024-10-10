@@ -122,6 +122,18 @@ layer
 void
 toward
 solution |  
+| bip_39_word_no_space_1 | just |  
+| bip_39_word_no_space_10 | justbagbriefpullexpirelayervoidtowardsolutionportion |  
+| bip_39_word_no_space_11 | justbagbriefpullexpirelayervoidtowardsolutionportionpeople |  
+| bip_39_word_no_space_12 | justbagbriefpullexpirelayervoidtowardsolutionportionpeopleagree |  
+| bip_39_word_no_space_2 | justbag |  
+| bip_39_word_no_space_3 | justbagbrief |  
+| bip_39_word_no_space_4 | justbagbriefpull |  
+| bip_39_word_no_space_5 | justbagbriefpullexpire |  
+| bip_39_word_no_space_6 | justbagbriefpullexpirelayer |  
+| bip_39_word_no_space_7 | justbagbriefpullexpirelayervoid |  
+| bip_39_word_no_space_8 | justbagbriefpullexpirelayervoidtoward |  
+| bip_39_word_no_space_9 | justbagbriefpullexpirelayervoidtowardsolution |  
 | bip_39_word_space_0 | ['just', 'bag', 'brief', 'pull', 'expire', 'layer', 'void', 'toward', 'solution', 'portion', 'people', 'agree'] |  
 | bip_39_word_space_1 | just |  
 | bip_39_word_space_10 | just bag brief pull expire layer void toward solution portion |  

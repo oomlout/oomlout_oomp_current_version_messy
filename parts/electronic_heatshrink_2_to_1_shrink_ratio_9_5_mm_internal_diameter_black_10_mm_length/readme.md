@@ -122,6 +122,18 @@ enough
 cause
 laugh
 misery |  
+| bip_39_word_no_space_1 | cream |  
+| bip_39_word_no_space_10 | creamboilwealthfrostsaluteenoughcauselaughmiseryswitch |  
+| bip_39_word_no_space_11 | creamboilwealthfrostsaluteenoughcauselaughmiseryswitchpowder |  
+| bip_39_word_no_space_12 | creamboilwealthfrostsaluteenoughcauselaughmiseryswitchpowderarctic |  
+| bip_39_word_no_space_2 | creamboil |  
+| bip_39_word_no_space_3 | creamboilwealth |  
+| bip_39_word_no_space_4 | creamboilwealthfrost |  
+| bip_39_word_no_space_5 | creamboilwealthfrostsalute |  
+| bip_39_word_no_space_6 | creamboilwealthfrostsaluteenough |  
+| bip_39_word_no_space_7 | creamboilwealthfrostsaluteenoughcause |  
+| bip_39_word_no_space_8 | creamboilwealthfrostsaluteenoughcauselaugh |  
+| bip_39_word_no_space_9 | creamboilwealthfrostsaluteenoughcauselaughmisery |  
 | bip_39_word_space_0 | ['cream', 'boil', 'wealth', 'frost', 'salute', 'enough', 'cause', 'laugh', 'misery', 'switch', 'powder', 'arctic'] |  
 | bip_39_word_space_1 | cream |  
 | bip_39_word_space_10 | cream boil wealth frost salute enough cause laugh misery switch |  

@@ -122,6 +122,18 @@ either
 weasel
 iron
 awkward |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illlengthcatnapkingateeitherweaselironawkwardalley |  
+| bip_39_word_no_space_11 | illlengthcatnapkingateeitherweaselironawkwardalleyunable |  
+| bip_39_word_no_space_12 | illlengthcatnapkingateeitherweaselironawkwardalleyunableavocado |  
+| bip_39_word_no_space_2 | illlength |  
+| bip_39_word_no_space_3 | illlengthcat |  
+| bip_39_word_no_space_4 | illlengthcatnapkin |  
+| bip_39_word_no_space_5 | illlengthcatnapkingate |  
+| bip_39_word_no_space_6 | illlengthcatnapkingateeither |  
+| bip_39_word_no_space_7 | illlengthcatnapkingateeitherweasel |  
+| bip_39_word_no_space_8 | illlengthcatnapkingateeitherweaseliron |  
+| bip_39_word_no_space_9 | illlengthcatnapkingateeitherweaselironawkward |  
 | bip_39_word_space_0 | ['ill', 'length', 'cat', 'napkin', 'gate', 'either', 'weasel', 'iron', 'awkward', 'alley', 'unable', 'avocado'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill length cat napkin gate either weasel iron awkward alley |  

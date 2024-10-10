@@ -122,6 +122,18 @@ express
 display
 multiply
 tunnel |  
+| bip_39_word_no_space_1 | artist |  
+| bip_39_word_no_space_10 | artisttoothsixiceblurexpressdisplaymultiplytunnelcanvas |  
+| bip_39_word_no_space_11 | artisttoothsixiceblurexpressdisplaymultiplytunnelcanvasfox |  
+| bip_39_word_no_space_12 | artisttoothsixiceblurexpressdisplaymultiplytunnelcanvasfoxadd |  
+| bip_39_word_no_space_2 | artisttooth |  
+| bip_39_word_no_space_3 | artisttoothsix |  
+| bip_39_word_no_space_4 | artisttoothsixice |  
+| bip_39_word_no_space_5 | artisttoothsixiceblur |  
+| bip_39_word_no_space_6 | artisttoothsixiceblurexpress |  
+| bip_39_word_no_space_7 | artisttoothsixiceblurexpressdisplay |  
+| bip_39_word_no_space_8 | artisttoothsixiceblurexpressdisplaymultiply |  
+| bip_39_word_no_space_9 | artisttoothsixiceblurexpressdisplaymultiplytunnel |  
 | bip_39_word_space_0 | ['artist', 'tooth', 'six', 'ice', 'blur', 'express', 'display', 'multiply', 'tunnel', 'canvas', 'fox', 'add'] |  
 | bip_39_word_space_1 | artist |  
 | bip_39_word_space_10 | artist tooth six ice blur express display multiply tunnel canvas |  

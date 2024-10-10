@@ -122,6 +122,18 @@ host
 faculty
 blush
 suspect |  
+| bip_39_word_no_space_1 | steak |  
+| bip_39_word_no_space_10 | steakdigitalcraterfitfatalhostfacultyblushsuspectold |  
+| bip_39_word_no_space_11 | steakdigitalcraterfitfatalhostfacultyblushsuspectoldmerry |  
+| bip_39_word_no_space_12 | steakdigitalcraterfitfatalhostfacultyblushsuspectoldmerryahead |  
+| bip_39_word_no_space_2 | steakdigital |  
+| bip_39_word_no_space_3 | steakdigitalcrater |  
+| bip_39_word_no_space_4 | steakdigitalcraterfit |  
+| bip_39_word_no_space_5 | steakdigitalcraterfitfatal |  
+| bip_39_word_no_space_6 | steakdigitalcraterfitfatalhost |  
+| bip_39_word_no_space_7 | steakdigitalcraterfitfatalhostfaculty |  
+| bip_39_word_no_space_8 | steakdigitalcraterfitfatalhostfacultyblush |  
+| bip_39_word_no_space_9 | steakdigitalcraterfitfatalhostfacultyblushsuspect |  
 | bip_39_word_space_0 | ['steak', 'digital', 'crater', 'fit', 'fatal', 'host', 'faculty', 'blush', 'suspect', 'old', 'merry', 'ahead'] |  
 | bip_39_word_space_1 | steak |  
 | bip_39_word_space_10 | steak digital crater fit fatal host faculty blush suspect old |  

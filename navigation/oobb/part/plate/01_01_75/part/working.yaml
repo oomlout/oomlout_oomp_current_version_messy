@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'live
   air
 
   divert'
+bip_39_word_no_space_1: live
+bip_39_word_no_space_10: liveundoproofkidbicyclebeforewitnessairdivertceiling
+bip_39_word_no_space_11: liveundoproofkidbicyclebeforewitnessairdivertceilingpupil
+bip_39_word_no_space_12: liveundoproofkidbicyclebeforewitnessairdivertceilingpupilaim
+bip_39_word_no_space_2: liveundo
+bip_39_word_no_space_3: liveundoproof
+bip_39_word_no_space_4: liveundoproofkid
+bip_39_word_no_space_5: liveundoproofkidbicycle
+bip_39_word_no_space_6: liveundoproofkidbicyclebefore
+bip_39_word_no_space_7: liveundoproofkidbicyclebeforewitness
+bip_39_word_no_space_8: liveundoproofkidbicyclebeforewitnessair
+bip_39_word_no_space_9: liveundoproofkidbicyclebeforewitnessairdivert
 bip_39_word_space_0:
 - live
 - undo

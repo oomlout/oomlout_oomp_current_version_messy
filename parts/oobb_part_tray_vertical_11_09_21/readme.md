@@ -122,6 +122,18 @@ stove
 chimney
 omit
 never |  
+| bip_39_word_no_space_1 | announce |  
+| bip_39_word_no_space_10 | announceethicsarchfamousbroccolistovechimneyomitneverbike |  
+| bip_39_word_no_space_11 | announceethicsarchfamousbroccolistovechimneyomitneverbikegrape |  
+| bip_39_word_no_space_12 | announceethicsarchfamousbroccolistovechimneyomitneverbikegrapealone |  
+| bip_39_word_no_space_2 | announceethics |  
+| bip_39_word_no_space_3 | announceethicsarch |  
+| bip_39_word_no_space_4 | announceethicsarchfamous |  
+| bip_39_word_no_space_5 | announceethicsarchfamousbroccoli |  
+| bip_39_word_no_space_6 | announceethicsarchfamousbroccolistove |  
+| bip_39_word_no_space_7 | announceethicsarchfamousbroccolistovechimney |  
+| bip_39_word_no_space_8 | announceethicsarchfamousbroccolistovechimneyomit |  
+| bip_39_word_no_space_9 | announceethicsarchfamousbroccolistovechimneyomitnever |  
 | bip_39_word_space_0 | ['announce', 'ethics', 'arch', 'famous', 'broccoli', 'stove', 'chimney', 'omit', 'never', 'bike', 'grape', 'alone'] |  
 | bip_39_word_space_1 | announce |  
 | bip_39_word_space_10 | announce ethics arch famous broccoli stove chimney omit never bike |  

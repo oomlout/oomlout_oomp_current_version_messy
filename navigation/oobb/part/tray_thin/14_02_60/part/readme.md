@@ -122,6 +122,18 @@ rate
 nasty
 weird
 oak |  
+| bip_39_word_no_space_1 | always |  
+| bip_39_word_no_space_10 | alwaysindoorthunderhealthnewsratenastyweirdoakonly |  
+| bip_39_word_no_space_11 | alwaysindoorthunderhealthnewsratenastyweirdoakonlyethics |  
+| bip_39_word_no_space_12 | alwaysindoorthunderhealthnewsratenastyweirdoakonlyethicsatom |  
+| bip_39_word_no_space_2 | alwaysindoor |  
+| bip_39_word_no_space_3 | alwaysindoorthunder |  
+| bip_39_word_no_space_4 | alwaysindoorthunderhealth |  
+| bip_39_word_no_space_5 | alwaysindoorthunderhealthnews |  
+| bip_39_word_no_space_6 | alwaysindoorthunderhealthnewsrate |  
+| bip_39_word_no_space_7 | alwaysindoorthunderhealthnewsratenasty |  
+| bip_39_word_no_space_8 | alwaysindoorthunderhealthnewsratenastyweird |  
+| bip_39_word_no_space_9 | alwaysindoorthunderhealthnewsratenastyweirdoak |  
 | bip_39_word_space_0 | ['always', 'indoor', 'thunder', 'health', 'news', 'rate', 'nasty', 'weird', 'oak', 'only', 'ethics', 'atom'] |  
 | bip_39_word_space_1 | always |  
 | bip_39_word_space_10 | always indoor thunder health news rate nasty weird oak only |  

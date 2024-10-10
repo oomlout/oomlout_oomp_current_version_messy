@@ -122,6 +122,18 @@ bomb
 ten
 wool
 among |  
+| bip_39_word_no_space_1 | virtual |  
+| bip_39_word_no_space_10 | virtualimmunepriceskatefortunebombtenwoolamongglass |  
+| bip_39_word_no_space_11 | virtualimmunepriceskatefortunebombtenwoolamongglasscamp |  
+| bip_39_word_no_space_12 | virtualimmunepriceskatefortunebombtenwoolamongglasscampauction |  
+| bip_39_word_no_space_2 | virtualimmune |  
+| bip_39_word_no_space_3 | virtualimmuneprice |  
+| bip_39_word_no_space_4 | virtualimmunepriceskate |  
+| bip_39_word_no_space_5 | virtualimmunepriceskatefortune |  
+| bip_39_word_no_space_6 | virtualimmunepriceskatefortunebomb |  
+| bip_39_word_no_space_7 | virtualimmunepriceskatefortunebombten |  
+| bip_39_word_no_space_8 | virtualimmunepriceskatefortunebombtenwool |  
+| bip_39_word_no_space_9 | virtualimmunepriceskatefortunebombtenwoolamong |  
 | bip_39_word_space_0 | ['virtual', 'immune', 'price', 'skate', 'fortune', 'bomb', 'ten', 'wool', 'among', 'glass', 'camp', 'auction'] |  
 | bip_39_word_space_1 | virtual |  
 | bip_39_word_space_10 | virtual immune price skate fortune bomb ten wool among glass |  

@@ -122,6 +122,18 @@ glory
 history
 pretty
 toilet |  
+| bip_39_word_no_space_1 | column |  
+| bip_39_word_no_space_10 | columncarrywinkaboutcargloryhistoryprettytoilethello |  
+| bip_39_word_no_space_11 | columncarrywinkaboutcargloryhistoryprettytoilethellocool |  
+| bip_39_word_no_space_12 | columncarrywinkaboutcargloryhistoryprettytoilethellocoolairport |  
+| bip_39_word_no_space_2 | columncarry |  
+| bip_39_word_no_space_3 | columncarrywink |  
+| bip_39_word_no_space_4 | columncarrywinkabout |  
+| bip_39_word_no_space_5 | columncarrywinkaboutcar |  
+| bip_39_word_no_space_6 | columncarrywinkaboutcarglory |  
+| bip_39_word_no_space_7 | columncarrywinkaboutcargloryhistory |  
+| bip_39_word_no_space_8 | columncarrywinkaboutcargloryhistorypretty |  
+| bip_39_word_no_space_9 | columncarrywinkaboutcargloryhistoryprettytoilet |  
 | bip_39_word_space_0 | ['column', 'carry', 'wink', 'about', 'car', 'glory', 'history', 'pretty', 'toilet', 'hello', 'cool', 'airport'] |  
 | bip_39_word_space_1 | column |  
 | bip_39_word_space_10 | column carry wink about car glory history pretty toilet hello |  

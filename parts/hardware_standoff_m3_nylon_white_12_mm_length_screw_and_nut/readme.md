@@ -122,6 +122,18 @@ manual
 apple
 hospital
 senior |  
+| bip_39_word_no_space_1 | library |  
+| bip_39_word_no_space_10 | libraryprojectcattlepatientvideomanualapplehospitalseniortotal |  
+| bip_39_word_no_space_11 | libraryprojectcattlepatientvideomanualapplehospitalseniortotallater |  
+| bip_39_word_no_space_12 | libraryprojectcattlepatientvideomanualapplehospitalseniortotallateranother |  
+| bip_39_word_no_space_2 | libraryproject |  
+| bip_39_word_no_space_3 | libraryprojectcattle |  
+| bip_39_word_no_space_4 | libraryprojectcattlepatient |  
+| bip_39_word_no_space_5 | libraryprojectcattlepatientvideo |  
+| bip_39_word_no_space_6 | libraryprojectcattlepatientvideomanual |  
+| bip_39_word_no_space_7 | libraryprojectcattlepatientvideomanualapple |  
+| bip_39_word_no_space_8 | libraryprojectcattlepatientvideomanualapplehospital |  
+| bip_39_word_no_space_9 | libraryprojectcattlepatientvideomanualapplehospitalsenior |  
 | bip_39_word_space_0 | ['library', 'project', 'cattle', 'patient', 'video', 'manual', 'apple', 'hospital', 'senior', 'total', 'later', 'another'] |  
 | bip_39_word_space_1 | library |  
 | bip_39_word_space_10 | library project cattle patient video manual apple hospital senior total |  

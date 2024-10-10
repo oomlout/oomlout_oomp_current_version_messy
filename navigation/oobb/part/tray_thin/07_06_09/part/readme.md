@@ -122,6 +122,18 @@ prefer
 smart
 load
 office |  
+| bip_39_word_no_space_1 | doll |  
+| bip_39_word_no_space_10 | dollriflefencepiecesausageprefersmartloadofficetrack |  
+| bip_39_word_no_space_11 | dollriflefencepiecesausageprefersmartloadofficetrackmouse |  
+| bip_39_word_no_space_12 | dollriflefencepiecesausageprefersmartloadofficetrackmouseactress |  
+| bip_39_word_no_space_2 | dollrifle |  
+| bip_39_word_no_space_3 | dollriflefence |  
+| bip_39_word_no_space_4 | dollriflefencepiece |  
+| bip_39_word_no_space_5 | dollriflefencepiecesausage |  
+| bip_39_word_no_space_6 | dollriflefencepiecesausageprefer |  
+| bip_39_word_no_space_7 | dollriflefencepiecesausageprefersmart |  
+| bip_39_word_no_space_8 | dollriflefencepiecesausageprefersmartload |  
+| bip_39_word_no_space_9 | dollriflefencepiecesausageprefersmartloadoffice |  
 | bip_39_word_space_0 | ['doll', 'rifle', 'fence', 'piece', 'sausage', 'prefer', 'smart', 'load', 'office', 'track', 'mouse', 'actress'] |  
 | bip_39_word_space_1 | doll |  
 | bip_39_word_space_10 | doll rifle fence piece sausage prefer smart load office track |  

@@ -122,6 +122,18 @@ humble
 mechanic
 sock
 trial |  
+| bip_39_word_no_space_1 | slight |  
+| bip_39_word_no_space_10 | slightreopenpursehalffossilhumblemechanicsocktrialshield |  
+| bip_39_word_no_space_11 | slightreopenpursehalffossilhumblemechanicsocktrialshieldpupil |  
+| bip_39_word_no_space_12 | slightreopenpursehalffossilhumblemechanicsocktrialshieldpupilarm |  
+| bip_39_word_no_space_2 | slightreopen |  
+| bip_39_word_no_space_3 | slightreopenpurse |  
+| bip_39_word_no_space_4 | slightreopenpursehalf |  
+| bip_39_word_no_space_5 | slightreopenpursehalffossil |  
+| bip_39_word_no_space_6 | slightreopenpursehalffossilhumble |  
+| bip_39_word_no_space_7 | slightreopenpursehalffossilhumblemechanic |  
+| bip_39_word_no_space_8 | slightreopenpursehalffossilhumblemechanicsock |  
+| bip_39_word_no_space_9 | slightreopenpursehalffossilhumblemechanicsocktrial |  
 | bip_39_word_space_0 | ['slight', 'reopen', 'purse', 'half', 'fossil', 'humble', 'mechanic', 'sock', 'trial', 'shield', 'pupil', 'arm'] |  
 | bip_39_word_space_1 | slight |  
 | bip_39_word_space_10 | slight reopen purse half fossil humble mechanic sock trial shield |  

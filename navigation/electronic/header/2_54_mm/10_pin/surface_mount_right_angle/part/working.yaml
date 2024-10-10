@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'idle
   seed
 
   matter'
+bip_39_word_no_space_1: idle
+bip_39_word_no_space_10: idletwicebreadautoforestquickgovernseedmatterbleak
+bip_39_word_no_space_11: idletwicebreadautoforestquickgovernseedmatterbleakabout
+bip_39_word_no_space_12: idletwicebreadautoforestquickgovernseedmatterbleakaboutasset
+bip_39_word_no_space_2: idletwice
+bip_39_word_no_space_3: idletwicebread
+bip_39_word_no_space_4: idletwicebreadauto
+bip_39_word_no_space_5: idletwicebreadautoforest
+bip_39_word_no_space_6: idletwicebreadautoforestquick
+bip_39_word_no_space_7: idletwicebreadautoforestquickgovern
+bip_39_word_no_space_8: idletwicebreadautoforestquickgovernseed
+bip_39_word_no_space_9: idletwicebreadautoforestquickgovernseedmatter
 bip_39_word_space_0:
 - idle
 - twice

@@ -122,6 +122,18 @@ flat
 sketch
 retreat
 airport |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | sellelementaspectepisodesustainflatsketchretreatairportbounce |  
+| bip_39_word_no_space_11 | sellelementaspectepisodesustainflatsketchretreatairportbouncefeel |  
+| bip_39_word_no_space_12 | sellelementaspectepisodesustainflatsketchretreatairportbouncefeelarrange |  
+| bip_39_word_no_space_2 | sellelement |  
+| bip_39_word_no_space_3 | sellelementaspect |  
+| bip_39_word_no_space_4 | sellelementaspectepisode |  
+| bip_39_word_no_space_5 | sellelementaspectepisodesustain |  
+| bip_39_word_no_space_6 | sellelementaspectepisodesustainflat |  
+| bip_39_word_no_space_7 | sellelementaspectepisodesustainflatsketch |  
+| bip_39_word_no_space_8 | sellelementaspectepisodesustainflatsketchretreat |  
+| bip_39_word_no_space_9 | sellelementaspectepisodesustainflatsketchretreatairport |  
 | bip_39_word_space_0 | ['sell', 'element', 'aspect', 'episode', 'sustain', 'flat', 'sketch', 'retreat', 'airport', 'bounce', 'feel', 'arrange'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell element aspect episode sustain flat sketch retreat airport bounce |  

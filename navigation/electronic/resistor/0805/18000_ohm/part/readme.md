@@ -122,6 +122,18 @@ emotion
 spirit
 faint
 toddler |  
+| bip_39_word_no_space_1 | dove |  
+| bip_39_word_no_space_10 | dovehundredhospitalromancefallemotionspiritfainttoddlerwise |  
+| bip_39_word_no_space_11 | dovehundredhospitalromancefallemotionspiritfainttoddlerwiseexhibit |  
+| bip_39_word_no_space_12 | dovehundredhospitalromancefallemotionspiritfainttoddlerwiseexhibitall |  
+| bip_39_word_no_space_2 | dovehundred |  
+| bip_39_word_no_space_3 | dovehundredhospital |  
+| bip_39_word_no_space_4 | dovehundredhospitalromance |  
+| bip_39_word_no_space_5 | dovehundredhospitalromancefall |  
+| bip_39_word_no_space_6 | dovehundredhospitalromancefallemotion |  
+| bip_39_word_no_space_7 | dovehundredhospitalromancefallemotionspirit |  
+| bip_39_word_no_space_8 | dovehundredhospitalromancefallemotionspiritfaint |  
+| bip_39_word_no_space_9 | dovehundredhospitalromancefallemotionspiritfainttoddler |  
 | bip_39_word_space_0 | ['dove', 'hundred', 'hospital', 'romance', 'fall', 'emotion', 'spirit', 'faint', 'toddler', 'wise', 'exhibit', 'all'] |  
 | bip_39_word_space_1 | dove |  
 | bip_39_word_space_10 | dove hundred hospital romance fall emotion spirit faint toddler wise |  

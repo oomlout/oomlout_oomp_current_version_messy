@@ -122,6 +122,18 @@ scan
 work
 borrow
 odor |  
+| bip_39_word_no_space_1 | afford |  
+| bip_39_word_no_space_10 | affordresistfingersoapmuseumscanworkborrowodorisolate |  
+| bip_39_word_no_space_11 | affordresistfingersoapmuseumscanworkborrowodorisolatelottery |  
+| bip_39_word_no_space_12 | affordresistfingersoapmuseumscanworkborrowodorisolatelotteryarrow |  
+| bip_39_word_no_space_2 | affordresist |  
+| bip_39_word_no_space_3 | affordresistfinger |  
+| bip_39_word_no_space_4 | affordresistfingersoap |  
+| bip_39_word_no_space_5 | affordresistfingersoapmuseum |  
+| bip_39_word_no_space_6 | affordresistfingersoapmuseumscan |  
+| bip_39_word_no_space_7 | affordresistfingersoapmuseumscanwork |  
+| bip_39_word_no_space_8 | affordresistfingersoapmuseumscanworkborrow |  
+| bip_39_word_no_space_9 | affordresistfingersoapmuseumscanworkborrowodor |  
 | bip_39_word_space_0 | ['afford', 'resist', 'finger', 'soap', 'museum', 'scan', 'work', 'borrow', 'odor', 'isolate', 'lottery', 'arrow'] |  
 | bip_39_word_space_1 | afford |  
 | bip_39_word_space_10 | afford resist finger soap museum scan work borrow odor isolate |  

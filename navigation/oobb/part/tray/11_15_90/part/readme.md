@@ -122,6 +122,18 @@ dream
 bonus
 tonight
 mask |  
+| bip_39_word_no_space_1 | random |  
+| bip_39_word_no_space_10 | randomarenahorrorchildfocusdreambonustonightmaskedge |  
+| bip_39_word_no_space_11 | randomarenahorrorchildfocusdreambonustonightmaskedgeother |  
+| bip_39_word_no_space_12 | randomarenahorrorchildfocusdreambonustonightmaskedgeotherabsurd |  
+| bip_39_word_no_space_2 | randomarena |  
+| bip_39_word_no_space_3 | randomarenahorror |  
+| bip_39_word_no_space_4 | randomarenahorrorchild |  
+| bip_39_word_no_space_5 | randomarenahorrorchildfocus |  
+| bip_39_word_no_space_6 | randomarenahorrorchildfocusdream |  
+| bip_39_word_no_space_7 | randomarenahorrorchildfocusdreambonus |  
+| bip_39_word_no_space_8 | randomarenahorrorchildfocusdreambonustonight |  
+| bip_39_word_no_space_9 | randomarenahorrorchildfocusdreambonustonightmask |  
 | bip_39_word_space_0 | ['random', 'arena', 'horror', 'child', 'focus', 'dream', 'bonus', 'tonight', 'mask', 'edge', 'other', 'absurd'] |  
 | bip_39_word_space_1 | random |  
 | bip_39_word_space_10 | random arena horror child focus dream bonus tonight mask edge |  

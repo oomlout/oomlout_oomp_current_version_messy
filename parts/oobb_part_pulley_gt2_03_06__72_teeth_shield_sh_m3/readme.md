@@ -122,6 +122,18 @@ park
 sad
 shell
 lake |  
+| bip_39_word_no_space_1 | kit |  
+| bip_39_word_no_space_10 | kitadmitfamilyaxisgreatparksadshelllakediffer |  
+| bip_39_word_no_space_11 | kitadmitfamilyaxisgreatparksadshelllakedifferbuddy |  
+| bip_39_word_no_space_12 | kitadmitfamilyaxisgreatparksadshelllakedifferbuddyathlete |  
+| bip_39_word_no_space_2 | kitadmit |  
+| bip_39_word_no_space_3 | kitadmitfamily |  
+| bip_39_word_no_space_4 | kitadmitfamilyaxis |  
+| bip_39_word_no_space_5 | kitadmitfamilyaxisgreat |  
+| bip_39_word_no_space_6 | kitadmitfamilyaxisgreatpark |  
+| bip_39_word_no_space_7 | kitadmitfamilyaxisgreatparksad |  
+| bip_39_word_no_space_8 | kitadmitfamilyaxisgreatparksadshell |  
+| bip_39_word_no_space_9 | kitadmitfamilyaxisgreatparksadshelllake |  
 | bip_39_word_space_0 | ['kit', 'admit', 'family', 'axis', 'great', 'park', 'sad', 'shell', 'lake', 'differ', 'buddy', 'athlete'] |  
 | bip_39_word_space_1 | kit |  
 | bip_39_word_space_10 | kit admit family axis great park sad shell lake differ |  

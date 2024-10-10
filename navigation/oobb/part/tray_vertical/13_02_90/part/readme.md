@@ -122,6 +122,18 @@ rigid
 night
 cigar
 student |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympiccombineswitchsunnyhawkrigidnightcigarstudentadult |  
+| bip_39_word_no_space_11 | olympiccombineswitchsunnyhawkrigidnightcigarstudentadultprevent |  
+| bip_39_word_no_space_12 | olympiccombineswitchsunnyhawkrigidnightcigarstudentadultpreventattract |  
+| bip_39_word_no_space_2 | olympiccombine |  
+| bip_39_word_no_space_3 | olympiccombineswitch |  
+| bip_39_word_no_space_4 | olympiccombineswitchsunny |  
+| bip_39_word_no_space_5 | olympiccombineswitchsunnyhawk |  
+| bip_39_word_no_space_6 | olympiccombineswitchsunnyhawkrigid |  
+| bip_39_word_no_space_7 | olympiccombineswitchsunnyhawkrigidnight |  
+| bip_39_word_no_space_8 | olympiccombineswitchsunnyhawkrigidnightcigar |  
+| bip_39_word_no_space_9 | olympiccombineswitchsunnyhawkrigidnightcigarstudent |  
 | bip_39_word_space_0 | ['olympic', 'combine', 'switch', 'sunny', 'hawk', 'rigid', 'night', 'cigar', 'student', 'adult', 'prevent', 'attract'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic combine switch sunny hawk rigid night cigar student adult |  

@@ -122,6 +122,18 @@ still
 buddy
 hidden
 ankle |  
+| bip_39_word_no_space_1 | float |  
+| bip_39_word_no_space_10 | floatregularolympicaugustsuitstillbuddyhiddenankleshallow |  
+| bip_39_word_no_space_11 | floatregularolympicaugustsuitstillbuddyhiddenankleshallowchimney |  
+| bip_39_word_no_space_12 | floatregularolympicaugustsuitstillbuddyhiddenankleshallowchimneyacid |  
+| bip_39_word_no_space_2 | floatregular |  
+| bip_39_word_no_space_3 | floatregularolympic |  
+| bip_39_word_no_space_4 | floatregularolympicaugust |  
+| bip_39_word_no_space_5 | floatregularolympicaugustsuit |  
+| bip_39_word_no_space_6 | floatregularolympicaugustsuitstill |  
+| bip_39_word_no_space_7 | floatregularolympicaugustsuitstillbuddy |  
+| bip_39_word_no_space_8 | floatregularolympicaugustsuitstillbuddyhidden |  
+| bip_39_word_no_space_9 | floatregularolympicaugustsuitstillbuddyhiddenankle |  
 | bip_39_word_space_0 | ['float', 'regular', 'olympic', 'august', 'suit', 'still', 'buddy', 'hidden', 'ankle', 'shallow', 'chimney', 'acid'] |  
 | bip_39_word_space_1 | float |  
 | bip_39_word_space_10 | float regular olympic august suit still buddy hidden ankle shallow |  

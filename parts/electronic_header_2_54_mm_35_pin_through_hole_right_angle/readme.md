@@ -122,6 +122,18 @@ bubble
 stool
 praise
 inject |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlinerathershellclowncarbonbubblestoolpraiseinjectmouse |  
+| bip_39_word_no_space_11 | onlinerathershellclowncarbonbubblestoolpraiseinjectmouseglad |  
+| bip_39_word_no_space_12 | onlinerathershellclowncarbonbubblestoolpraiseinjectmousegladasthma |  
+| bip_39_word_no_space_2 | onlinerather |  
+| bip_39_word_no_space_3 | onlinerathershell |  
+| bip_39_word_no_space_4 | onlinerathershellclown |  
+| bip_39_word_no_space_5 | onlinerathershellclowncarbon |  
+| bip_39_word_no_space_6 | onlinerathershellclowncarbonbubble |  
+| bip_39_word_no_space_7 | onlinerathershellclowncarbonbubblestool |  
+| bip_39_word_no_space_8 | onlinerathershellclowncarbonbubblestoolpraise |  
+| bip_39_word_no_space_9 | onlinerathershellclowncarbonbubblestoolpraiseinject |  
 | bip_39_word_space_0 | ['online', 'rather', 'shell', 'clown', 'carbon', 'bubble', 'stool', 'praise', 'inject', 'mouse', 'glad', 'asthma'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online rather shell clown carbon bubble stool praise inject mouse |  

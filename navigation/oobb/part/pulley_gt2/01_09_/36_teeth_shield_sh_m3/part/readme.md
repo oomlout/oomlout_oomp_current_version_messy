@@ -122,6 +122,18 @@ crawl
 fog
 second
 crouch |  
+| bip_39_word_no_space_1 | beach |  
+| bip_39_word_no_space_10 | beachbodyfosterleavemarblecrawlfogsecondcrouchpave |  
+| bip_39_word_no_space_11 | beachbodyfosterleavemarblecrawlfogsecondcrouchpaveequip |  
+| bip_39_word_no_space_12 | beachbodyfosterleavemarblecrawlfogsecondcrouchpaveequipartefact |  
+| bip_39_word_no_space_2 | beachbody |  
+| bip_39_word_no_space_3 | beachbodyfoster |  
+| bip_39_word_no_space_4 | beachbodyfosterleave |  
+| bip_39_word_no_space_5 | beachbodyfosterleavemarble |  
+| bip_39_word_no_space_6 | beachbodyfosterleavemarblecrawl |  
+| bip_39_word_no_space_7 | beachbodyfosterleavemarblecrawlfog |  
+| bip_39_word_no_space_8 | beachbodyfosterleavemarblecrawlfogsecond |  
+| bip_39_word_no_space_9 | beachbodyfosterleavemarblecrawlfogsecondcrouch |  
 | bip_39_word_space_0 | ['beach', 'body', 'foster', 'leave', 'marble', 'crawl', 'fog', 'second', 'crouch', 'pave', 'equip', 'artefact'] |  
 | bip_39_word_space_1 | beach |  
 | bip_39_word_space_10 | beach body foster leave marble crawl fog second crouch pave |  

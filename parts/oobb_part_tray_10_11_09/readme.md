@@ -122,6 +122,18 @@ candy
 garment
 perfect
 ball |  
+| bip_39_word_no_space_1 | extra |  
+| bip_39_word_no_space_10 | extraeasyacousticgraceenablecandygarmentperfectballalien |  
+| bip_39_word_no_space_11 | extraeasyacousticgraceenablecandygarmentperfectballaliencannon |  
+| bip_39_word_no_space_12 | extraeasyacousticgraceenablecandygarmentperfectballaliencannonassist |  
+| bip_39_word_no_space_2 | extraeasy |  
+| bip_39_word_no_space_3 | extraeasyacoustic |  
+| bip_39_word_no_space_4 | extraeasyacousticgrace |  
+| bip_39_word_no_space_5 | extraeasyacousticgraceenable |  
+| bip_39_word_no_space_6 | extraeasyacousticgraceenablecandy |  
+| bip_39_word_no_space_7 | extraeasyacousticgraceenablecandygarment |  
+| bip_39_word_no_space_8 | extraeasyacousticgraceenablecandygarmentperfect |  
+| bip_39_word_no_space_9 | extraeasyacousticgraceenablecandygarmentperfectball |  
 | bip_39_word_space_0 | ['extra', 'easy', 'acoustic', 'grace', 'enable', 'candy', 'garment', 'perfect', 'ball', 'alien', 'cannon', 'assist'] |  
 | bip_39_word_space_1 | extra |  
 | bip_39_word_space_10 | extra easy acoustic grace enable candy garment perfect ball alien |  

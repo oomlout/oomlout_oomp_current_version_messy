@@ -122,6 +122,18 @@ taste
 circle
 script
 sun |  
+| bip_39_word_no_space_1 | ancient |  
+| bip_39_word_no_space_10 | ancienttrackcherryactualvillagetastecirclescriptsunbacon |  
+| bip_39_word_no_space_11 | ancienttrackcherryactualvillagetastecirclescriptsunbaconbudget |  
+| bip_39_word_no_space_12 | ancienttrackcherryactualvillagetastecirclescriptsunbaconbudgetanimal |  
+| bip_39_word_no_space_2 | ancienttrack |  
+| bip_39_word_no_space_3 | ancienttrackcherry |  
+| bip_39_word_no_space_4 | ancienttrackcherryactual |  
+| bip_39_word_no_space_5 | ancienttrackcherryactualvillage |  
+| bip_39_word_no_space_6 | ancienttrackcherryactualvillagetaste |  
+| bip_39_word_no_space_7 | ancienttrackcherryactualvillagetastecircle |  
+| bip_39_word_no_space_8 | ancienttrackcherryactualvillagetastecirclescript |  
+| bip_39_word_no_space_9 | ancienttrackcherryactualvillagetastecirclescriptsun |  
 | bip_39_word_space_0 | ['ancient', 'track', 'cherry', 'actual', 'village', 'taste', 'circle', 'script', 'sun', 'bacon', 'budget', 'animal'] |  
 | bip_39_word_space_1 | ancient |  
 | bip_39_word_space_10 | ancient track cherry actual village taste circle script sun bacon |  

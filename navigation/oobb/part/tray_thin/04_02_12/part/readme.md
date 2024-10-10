@@ -122,6 +122,18 @@ call
 quiz
 hole
 universe |  
+| bip_39_word_no_space_1 | desk |  
+| bip_39_word_no_space_10 | deskpeopledescribestairswordcallquizholeuniversesilly |  
+| bip_39_word_no_space_11 | deskpeopledescribestairswordcallquizholeuniversesillyrude |  
+| bip_39_word_no_space_12 | deskpeopledescribestairswordcallquizholeuniversesillyrudeadjust |  
+| bip_39_word_no_space_2 | deskpeople |  
+| bip_39_word_no_space_3 | deskpeopledescribe |  
+| bip_39_word_no_space_4 | deskpeopledescribestairs |  
+| bip_39_word_no_space_5 | deskpeopledescribestairsword |  
+| bip_39_word_no_space_6 | deskpeopledescribestairswordcall |  
+| bip_39_word_no_space_7 | deskpeopledescribestairswordcallquiz |  
+| bip_39_word_no_space_8 | deskpeopledescribestairswordcallquizhole |  
+| bip_39_word_no_space_9 | deskpeopledescribestairswordcallquizholeuniverse |  
 | bip_39_word_space_0 | ['desk', 'people', 'describe', 'stairs', 'word', 'call', 'quiz', 'hole', 'universe', 'silly', 'rude', 'adjust'] |  
 | bip_39_word_space_1 | desk |  
 | bip_39_word_space_10 | desk people describe stairs word call quiz hole universe silly |  

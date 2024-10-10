@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'morning
   zero
 
   polar'
+bip_39_word_no_space_1: morning
+bip_39_word_no_space_10: morninggluevoicereopeneruptangerelegantzeropolarpermit
+bip_39_word_no_space_11: morninggluevoicereopeneruptangerelegantzeropolarpermitforum
+bip_39_word_no_space_12: morninggluevoicereopeneruptangerelegantzeropolarpermitforumantique
+bip_39_word_no_space_2: morningglue
+bip_39_word_no_space_3: morninggluevoice
+bip_39_word_no_space_4: morninggluevoicereopen
+bip_39_word_no_space_5: morninggluevoicereopenerupt
+bip_39_word_no_space_6: morninggluevoicereopeneruptanger
+bip_39_word_no_space_7: morninggluevoicereopeneruptangerelegant
+bip_39_word_no_space_8: morninggluevoicereopeneruptangerelegantzero
+bip_39_word_no_space_9: morninggluevoicereopeneruptangerelegantzeropolar
 bip_39_word_space_0:
 - morning
 - glue

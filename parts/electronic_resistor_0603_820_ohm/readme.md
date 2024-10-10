@@ -122,6 +122,18 @@ render
 game
 speak
 blue |  
+| bip_39_word_no_space_1 | pig |  
+| bip_39_word_no_space_10 | pigdocumentfireimpacttargetrendergamespeakbluebrass |  
+| bip_39_word_no_space_11 | pigdocumentfireimpacttargetrendergamespeakbluebrassmushroom |  
+| bip_39_word_no_space_12 | pigdocumentfireimpacttargetrendergamespeakbluebrassmushroomanchor |  
+| bip_39_word_no_space_2 | pigdocument |  
+| bip_39_word_no_space_3 | pigdocumentfire |  
+| bip_39_word_no_space_4 | pigdocumentfireimpact |  
+| bip_39_word_no_space_5 | pigdocumentfireimpacttarget |  
+| bip_39_word_no_space_6 | pigdocumentfireimpacttargetrender |  
+| bip_39_word_no_space_7 | pigdocumentfireimpacttargetrendergame |  
+| bip_39_word_no_space_8 | pigdocumentfireimpacttargetrendergamespeak |  
+| bip_39_word_no_space_9 | pigdocumentfireimpacttargetrendergamespeakblue |  
 | bip_39_word_space_0 | ['pig', 'document', 'fire', 'impact', 'target', 'render', 'game', 'speak', 'blue', 'brass', 'mushroom', 'anchor'] |  
 | bip_39_word_space_1 | pig |  
 | bip_39_word_space_10 | pig document fire impact target render game speak blue brass |  

@@ -122,6 +122,18 @@ toddler
 dry
 lobster
 cactus |  
+| bip_39_word_no_space_1 | resource |  
+| bip_39_word_no_space_10 | resourceluckyvaporextendhilltoddlerdrylobstercactusdirect |  
+| bip_39_word_no_space_11 | resourceluckyvaporextendhilltoddlerdrylobstercactusdirectmovie |  
+| bip_39_word_no_space_12 | resourceluckyvaporextendhilltoddlerdrylobstercactusdirectmovieafraid |  
+| bip_39_word_no_space_2 | resourcelucky |  
+| bip_39_word_no_space_3 | resourceluckyvapor |  
+| bip_39_word_no_space_4 | resourceluckyvaporextend |  
+| bip_39_word_no_space_5 | resourceluckyvaporextendhill |  
+| bip_39_word_no_space_6 | resourceluckyvaporextendhilltoddler |  
+| bip_39_word_no_space_7 | resourceluckyvaporextendhilltoddlerdry |  
+| bip_39_word_no_space_8 | resourceluckyvaporextendhilltoddlerdrylobster |  
+| bip_39_word_no_space_9 | resourceluckyvaporextendhilltoddlerdrylobstercactus |  
 | bip_39_word_space_0 | ['resource', 'lucky', 'vapor', 'extend', 'hill', 'toddler', 'dry', 'lobster', 'cactus', 'direct', 'movie', 'afraid'] |  
 | bip_39_word_space_1 | resource |  
 | bip_39_word_space_10 | resource lucky vapor extend hill toddler dry lobster cactus direct |  

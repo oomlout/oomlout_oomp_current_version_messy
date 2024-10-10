@@ -122,6 +122,18 @@ almost
 budget
 fly
 course |  
+| bip_39_word_no_space_1 | glimpse |  
+| bip_39_word_no_space_10 | glimpserangepiececlaptroublealmostbudgetflycoursestock |  
+| bip_39_word_no_space_11 | glimpserangepiececlaptroublealmostbudgetflycoursestockfoot |  
+| bip_39_word_no_space_12 | glimpserangepiececlaptroublealmostbudgetflycoursestockfootagent |  
+| bip_39_word_no_space_2 | glimpserange |  
+| bip_39_word_no_space_3 | glimpserangepiece |  
+| bip_39_word_no_space_4 | glimpserangepiececlap |  
+| bip_39_word_no_space_5 | glimpserangepiececlaptrouble |  
+| bip_39_word_no_space_6 | glimpserangepiececlaptroublealmost |  
+| bip_39_word_no_space_7 | glimpserangepiececlaptroublealmostbudget |  
+| bip_39_word_no_space_8 | glimpserangepiececlaptroublealmostbudgetfly |  
+| bip_39_word_no_space_9 | glimpserangepiececlaptroublealmostbudgetflycourse |  
 | bip_39_word_space_0 | ['glimpse', 'range', 'piece', 'clap', 'trouble', 'almost', 'budget', 'fly', 'course', 'stock', 'foot', 'agent'] |  
 | bip_39_word_space_1 | glimpse |  
 | bip_39_word_space_10 | glimpse range piece clap trouble almost budget fly course stock |  

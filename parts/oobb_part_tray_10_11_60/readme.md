@@ -122,6 +122,18 @@ vital
 bid
 print
 change |  
+| bip_39_word_no_space_1 | cloud |  
+| bip_39_word_no_space_10 | cloudbasictasteignoreimitatevitalbidprintchangeearth |  
+| bip_39_word_no_space_11 | cloudbasictasteignoreimitatevitalbidprintchangeearthpause |  
+| bip_39_word_no_space_12 | cloudbasictasteignoreimitatevitalbidprintchangeearthpauseaim |  
+| bip_39_word_no_space_2 | cloudbasic |  
+| bip_39_word_no_space_3 | cloudbasictaste |  
+| bip_39_word_no_space_4 | cloudbasictasteignore |  
+| bip_39_word_no_space_5 | cloudbasictasteignoreimitate |  
+| bip_39_word_no_space_6 | cloudbasictasteignoreimitatevital |  
+| bip_39_word_no_space_7 | cloudbasictasteignoreimitatevitalbid |  
+| bip_39_word_no_space_8 | cloudbasictasteignoreimitatevitalbidprint |  
+| bip_39_word_no_space_9 | cloudbasictasteignoreimitatevitalbidprintchange |  
 | bip_39_word_space_0 | ['cloud', 'basic', 'taste', 'ignore', 'imitate', 'vital', 'bid', 'print', 'change', 'earth', 'pause', 'aim'] |  
 | bip_39_word_space_1 | cloud |  
 | bip_39_word_space_10 | cloud basic taste ignore imitate vital bid print change earth |  

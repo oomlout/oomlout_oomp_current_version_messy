@@ -122,6 +122,18 @@ friend
 shuffle
 drum
 dirt |  
+| bip_39_word_no_space_1 | donkey |  
+| bip_39_word_no_space_10 | donkeypiecealmostcracktonefriendshuffledrumdirtcastle |  
+| bip_39_word_no_space_11 | donkeypiecealmostcracktonefriendshuffledrumdirtcastlelunar |  
+| bip_39_word_no_space_12 | donkeypiecealmostcracktonefriendshuffledrumdirtcastlelunarangry |  
+| bip_39_word_no_space_2 | donkeypiece |  
+| bip_39_word_no_space_3 | donkeypiecealmost |  
+| bip_39_word_no_space_4 | donkeypiecealmostcrack |  
+| bip_39_word_no_space_5 | donkeypiecealmostcracktone |  
+| bip_39_word_no_space_6 | donkeypiecealmostcracktonefriend |  
+| bip_39_word_no_space_7 | donkeypiecealmostcracktonefriendshuffle |  
+| bip_39_word_no_space_8 | donkeypiecealmostcracktonefriendshuffledrum |  
+| bip_39_word_no_space_9 | donkeypiecealmostcracktonefriendshuffledrumdirt |  
 | bip_39_word_space_0 | ['donkey', 'piece', 'almost', 'crack', 'tone', 'friend', 'shuffle', 'drum', 'dirt', 'castle', 'lunar', 'angry'] |  
 | bip_39_word_space_1 | donkey |  
 | bip_39_word_space_10 | donkey piece almost crack tone friend shuffle drum dirt castle |  

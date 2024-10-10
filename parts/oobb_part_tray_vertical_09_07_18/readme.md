@@ -122,6 +122,18 @@ old
 hotel
 talk
 speed |  
+| bip_39_word_no_space_1 | correct |  
+| bip_39_word_no_space_10 | correctblackdemandmistakesugaroldhoteltalkspeedscorpion |  
+| bip_39_word_no_space_11 | correctblackdemandmistakesugaroldhoteltalkspeedscorpionfade |  
+| bip_39_word_no_space_12 | correctblackdemandmistakesugaroldhoteltalkspeedscorpionfadeacoustic |  
+| bip_39_word_no_space_2 | correctblack |  
+| bip_39_word_no_space_3 | correctblackdemand |  
+| bip_39_word_no_space_4 | correctblackdemandmistake |  
+| bip_39_word_no_space_5 | correctblackdemandmistakesugar |  
+| bip_39_word_no_space_6 | correctblackdemandmistakesugarold |  
+| bip_39_word_no_space_7 | correctblackdemandmistakesugaroldhotel |  
+| bip_39_word_no_space_8 | correctblackdemandmistakesugaroldhoteltalk |  
+| bip_39_word_no_space_9 | correctblackdemandmistakesugaroldhoteltalkspeed |  
 | bip_39_word_space_0 | ['correct', 'black', 'demand', 'mistake', 'sugar', 'old', 'hotel', 'talk', 'speed', 'scorpion', 'fade', 'acoustic'] |  
 | bip_39_word_space_1 | correct |  
 | bip_39_word_space_10 | correct black demand mistake sugar old hotel talk speed scorpion |  

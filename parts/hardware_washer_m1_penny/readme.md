@@ -122,6 +122,18 @@ recipe
 meat
 manual
 brick |  
+| bip_39_word_no_space_1 | clever |  
+| bip_39_word_no_space_10 | cleverdropannounceallowmaplerecipemeatmanualbrickshallow |  
+| bip_39_word_no_space_11 | cleverdropannounceallowmaplerecipemeatmanualbrickshallowreduce |  
+| bip_39_word_no_space_12 | cleverdropannounceallowmaplerecipemeatmanualbrickshallowreducealways |  
+| bip_39_word_no_space_2 | cleverdrop |  
+| bip_39_word_no_space_3 | cleverdropannounce |  
+| bip_39_word_no_space_4 | cleverdropannounceallow |  
+| bip_39_word_no_space_5 | cleverdropannounceallowmaple |  
+| bip_39_word_no_space_6 | cleverdropannounceallowmaplerecipe |  
+| bip_39_word_no_space_7 | cleverdropannounceallowmaplerecipemeat |  
+| bip_39_word_no_space_8 | cleverdropannounceallowmaplerecipemeatmanual |  
+| bip_39_word_no_space_9 | cleverdropannounceallowmaplerecipemeatmanualbrick |  
 | bip_39_word_space_0 | ['clever', 'drop', 'announce', 'allow', 'maple', 'recipe', 'meat', 'manual', 'brick', 'shallow', 'reduce', 'always'] |  
 | bip_39_word_space_1 | clever |  
 | bip_39_word_space_10 | clever drop announce allow maple recipe meat manual brick shallow |  

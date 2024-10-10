@@ -122,6 +122,18 @@ clog
 bitter
 vibrant
 mask |  
+| bip_39_word_no_space_1 | tree |  
+| bip_39_word_no_space_10 | treeamazingdrinklunaranotherclogbittervibrantmasksuper |  
+| bip_39_word_no_space_11 | treeamazingdrinklunaranotherclogbittervibrantmasksuperafford |  
+| bip_39_word_no_space_12 | treeamazingdrinklunaranotherclogbittervibrantmasksuperaffordabstract |  
+| bip_39_word_no_space_2 | treeamazing |  
+| bip_39_word_no_space_3 | treeamazingdrink |  
+| bip_39_word_no_space_4 | treeamazingdrinklunar |  
+| bip_39_word_no_space_5 | treeamazingdrinklunaranother |  
+| bip_39_word_no_space_6 | treeamazingdrinklunaranotherclog |  
+| bip_39_word_no_space_7 | treeamazingdrinklunaranotherclogbitter |  
+| bip_39_word_no_space_8 | treeamazingdrinklunaranotherclogbittervibrant |  
+| bip_39_word_no_space_9 | treeamazingdrinklunaranotherclogbittervibrantmask |  
 | bip_39_word_space_0 | ['tree', 'amazing', 'drink', 'lunar', 'another', 'clog', 'bitter', 'vibrant', 'mask', 'super', 'afford', 'abstract'] |  
 | bip_39_word_space_1 | tree |  
 | bip_39_word_space_10 | tree amazing drink lunar another clog bitter vibrant mask super |  

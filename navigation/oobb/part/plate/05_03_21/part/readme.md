@@ -122,6 +122,18 @@ hazard
 brain
 just
 depth |  
+| bip_39_word_no_space_1 | hint |  
+| bip_39_word_no_space_10 | hintsniffgrantlunarscreenhazardbrainjustdepthselect |  
+| bip_39_word_no_space_11 | hintsniffgrantlunarscreenhazardbrainjustdepthselecttruth |  
+| bip_39_word_no_space_12 | hintsniffgrantlunarscreenhazardbrainjustdepthselecttruthability |  
+| bip_39_word_no_space_2 | hintsniff |  
+| bip_39_word_no_space_3 | hintsniffgrant |  
+| bip_39_word_no_space_4 | hintsniffgrantlunar |  
+| bip_39_word_no_space_5 | hintsniffgrantlunarscreen |  
+| bip_39_word_no_space_6 | hintsniffgrantlunarscreenhazard |  
+| bip_39_word_no_space_7 | hintsniffgrantlunarscreenhazardbrain |  
+| bip_39_word_no_space_8 | hintsniffgrantlunarscreenhazardbrainjust |  
+| bip_39_word_no_space_9 | hintsniffgrantlunarscreenhazardbrainjustdepth |  
 | bip_39_word_space_0 | ['hint', 'sniff', 'grant', 'lunar', 'screen', 'hazard', 'brain', 'just', 'depth', 'select', 'truth', 'ability'] |  
 | bip_39_word_space_1 | hint |  
 | bip_39_word_space_10 | hint sniff grant lunar screen hazard brain just depth select |  

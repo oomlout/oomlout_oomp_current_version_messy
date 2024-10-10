@@ -122,6 +122,18 @@ topple
 concert
 hurt
 balance |  
+| bip_39_word_no_space_1 | enroll |  
+| bip_39_word_no_space_10 | enrollbubbleeyeeaglechampiontoppleconcerthurtbalancecelery |  
+| bip_39_word_no_space_11 | enrollbubbleeyeeaglechampiontoppleconcerthurtbalancecelerymatch |  
+| bip_39_word_no_space_12 | enrollbubbleeyeeaglechampiontoppleconcerthurtbalancecelerymatchathlete |  
+| bip_39_word_no_space_2 | enrollbubble |  
+| bip_39_word_no_space_3 | enrollbubbleeye |  
+| bip_39_word_no_space_4 | enrollbubbleeyeeagle |  
+| bip_39_word_no_space_5 | enrollbubbleeyeeaglechampion |  
+| bip_39_word_no_space_6 | enrollbubbleeyeeaglechampiontopple |  
+| bip_39_word_no_space_7 | enrollbubbleeyeeaglechampiontoppleconcert |  
+| bip_39_word_no_space_8 | enrollbubbleeyeeaglechampiontoppleconcerthurt |  
+| bip_39_word_no_space_9 | enrollbubbleeyeeaglechampiontoppleconcerthurtbalance |  
 | bip_39_word_space_0 | ['enroll', 'bubble', 'eye', 'eagle', 'champion', 'topple', 'concert', 'hurt', 'balance', 'celery', 'match', 'athlete'] |  
 | bip_39_word_space_1 | enroll |  
 | bip_39_word_space_10 | enroll bubble eye eagle champion topple concert hurt balance celery |  

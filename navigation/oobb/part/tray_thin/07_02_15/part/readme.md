@@ -122,6 +122,18 @@ swallow
 fault
 quit
 tribe |  
+| bip_39_word_no_space_1 | busy |  
+| bip_39_word_no_space_10 | busyanglediscoverdieselloanswallowfaultquittribewife |  
+| bip_39_word_no_space_11 | busyanglediscoverdieselloanswallowfaultquittribewifedistance |  
+| bip_39_word_no_space_12 | busyanglediscoverdieselloanswallowfaultquittribewifedistanceabsorb |  
+| bip_39_word_no_space_2 | busyangle |  
+| bip_39_word_no_space_3 | busyanglediscover |  
+| bip_39_word_no_space_4 | busyanglediscoverdiesel |  
+| bip_39_word_no_space_5 | busyanglediscoverdieselloan |  
+| bip_39_word_no_space_6 | busyanglediscoverdieselloanswallow |  
+| bip_39_word_no_space_7 | busyanglediscoverdieselloanswallowfault |  
+| bip_39_word_no_space_8 | busyanglediscoverdieselloanswallowfaultquit |  
+| bip_39_word_no_space_9 | busyanglediscoverdieselloanswallowfaultquittribe |  
 | bip_39_word_space_0 | ['busy', 'angle', 'discover', 'diesel', 'loan', 'swallow', 'fault', 'quit', 'tribe', 'wife', 'distance', 'absorb'] |  
 | bip_39_word_space_1 | busy |  
 | bip_39_word_space_10 | busy angle discover diesel loan swallow fault quit tribe wife |  

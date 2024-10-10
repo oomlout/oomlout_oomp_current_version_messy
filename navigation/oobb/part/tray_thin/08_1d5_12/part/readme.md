@@ -122,6 +122,18 @@ mimic
 enforce
 piece
 bike |  
+| bip_39_word_no_space_1 | rice |  
+| bip_39_word_no_space_10 | ricesoupsirenfinalfoundmimicenforcepiecebikerare |  
+| bip_39_word_no_space_11 | ricesoupsirenfinalfoundmimicenforcepiecebikerareillegal |  
+| bip_39_word_no_space_12 | ricesoupsirenfinalfoundmimicenforcepiecebikerareillegalangle |  
+| bip_39_word_no_space_2 | ricesoup |  
+| bip_39_word_no_space_3 | ricesoupsiren |  
+| bip_39_word_no_space_4 | ricesoupsirenfinal |  
+| bip_39_word_no_space_5 | ricesoupsirenfinalfound |  
+| bip_39_word_no_space_6 | ricesoupsirenfinalfoundmimic |  
+| bip_39_word_no_space_7 | ricesoupsirenfinalfoundmimicenforce |  
+| bip_39_word_no_space_8 | ricesoupsirenfinalfoundmimicenforcepiece |  
+| bip_39_word_no_space_9 | ricesoupsirenfinalfoundmimicenforcepiecebike |  
 | bip_39_word_space_0 | ['rice', 'soup', 'siren', 'final', 'found', 'mimic', 'enforce', 'piece', 'bike', 'rare', 'illegal', 'angle'] |  
 | bip_39_word_space_1 | rice |  
 | bip_39_word_space_10 | rice soup siren final found mimic enforce piece bike rare |  

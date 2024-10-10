@@ -122,6 +122,18 @@ twelve
 hybrid
 toddler
 orient |  
+| bip_39_word_no_space_1 | spend |  
+| bip_39_word_no_space_10 | spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolve |  
+| bip_39_word_no_space_11 | spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolvechest |  
+| bip_39_word_no_space_12 | spenduntilwheelsatoshisomeonetwelvehybridtoddlerorientinvolvechestalone |  
+| bip_39_word_no_space_2 | spenduntil |  
+| bip_39_word_no_space_3 | spenduntilwheel |  
+| bip_39_word_no_space_4 | spenduntilwheelsatoshi |  
+| bip_39_word_no_space_5 | spenduntilwheelsatoshisomeone |  
+| bip_39_word_no_space_6 | spenduntilwheelsatoshisomeonetwelve |  
+| bip_39_word_no_space_7 | spenduntilwheelsatoshisomeonetwelvehybrid |  
+| bip_39_word_no_space_8 | spenduntilwheelsatoshisomeonetwelvehybridtoddler |  
+| bip_39_word_no_space_9 | spenduntilwheelsatoshisomeonetwelvehybridtoddlerorient |  
 | bip_39_word_space_0 | ['spend', 'until', 'wheel', 'satoshi', 'someone', 'twelve', 'hybrid', 'toddler', 'orient', 'involve', 'chest', 'alone'] |  
 | bip_39_word_space_1 | spend |  
 | bip_39_word_space_10 | spend until wheel satoshi someone twelve hybrid toddler orient involve |  

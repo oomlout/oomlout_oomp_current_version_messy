@@ -122,6 +122,18 @@ clay
 stone
 vehicle
 sphere |  
+| bip_39_word_no_space_1 | tail |  
+| bip_39_word_no_space_10 | taileducaterackdrawloyalclaystonevehiclesphereescape |  
+| bip_39_word_no_space_11 | taileducaterackdrawloyalclaystonevehiclesphereescapeoffice |  
+| bip_39_word_no_space_12 | taileducaterackdrawloyalclaystonevehiclesphereescapeofficeaisle |  
+| bip_39_word_no_space_2 | taileducate |  
+| bip_39_word_no_space_3 | taileducaterack |  
+| bip_39_word_no_space_4 | taileducaterackdraw |  
+| bip_39_word_no_space_5 | taileducaterackdrawloyal |  
+| bip_39_word_no_space_6 | taileducaterackdrawloyalclay |  
+| bip_39_word_no_space_7 | taileducaterackdrawloyalclaystone |  
+| bip_39_word_no_space_8 | taileducaterackdrawloyalclaystonevehicle |  
+| bip_39_word_no_space_9 | taileducaterackdrawloyalclaystonevehiclesphere |  
 | bip_39_word_space_0 | ['tail', 'educate', 'rack', 'draw', 'loyal', 'clay', 'stone', 'vehicle', 'sphere', 'escape', 'office', 'aisle'] |  
 | bip_39_word_space_1 | tail |  
 | bip_39_word_space_10 | tail educate rack draw loyal clay stone vehicle sphere escape |  

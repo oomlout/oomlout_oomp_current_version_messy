@@ -122,6 +122,18 @@ cheese
 damp
 gate
 cause |  
+| bip_39_word_no_space_1 | magic |  
+| bip_39_word_no_space_10 | magiceggketchupturkeygluecheesedampgatecausesymbol |  
+| bip_39_word_no_space_11 | magiceggketchupturkeygluecheesedampgatecausesymbolpole |  
+| bip_39_word_no_space_12 | magiceggketchupturkeygluecheesedampgatecausesymbolpoleaction |  
+| bip_39_word_no_space_2 | magicegg |  
+| bip_39_word_no_space_3 | magiceggketchup |  
+| bip_39_word_no_space_4 | magiceggketchupturkey |  
+| bip_39_word_no_space_5 | magiceggketchupturkeyglue |  
+| bip_39_word_no_space_6 | magiceggketchupturkeygluecheese |  
+| bip_39_word_no_space_7 | magiceggketchupturkeygluecheesedamp |  
+| bip_39_word_no_space_8 | magiceggketchupturkeygluecheesedampgate |  
+| bip_39_word_no_space_9 | magiceggketchupturkeygluecheesedampgatecause |  
 | bip_39_word_space_0 | ['magic', 'egg', 'ketchup', 'turkey', 'glue', 'cheese', 'damp', 'gate', 'cause', 'symbol', 'pole', 'action'] |  
 | bip_39_word_space_1 | magic |  
 | bip_39_word_space_10 | magic egg ketchup turkey glue cheese damp gate cause symbol |  

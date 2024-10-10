@@ -122,6 +122,18 @@ glove
 crop
 share
 maze |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bossloungecoverconfirmwasteglovecropsharemazecry |  
+| bip_39_word_no_space_11 | bossloungecoverconfirmwasteglovecropsharemazecrymilk |  
+| bip_39_word_no_space_12 | bossloungecoverconfirmwasteglovecropsharemazecrymilkalcohol |  
+| bip_39_word_no_space_2 | bosslounge |  
+| bip_39_word_no_space_3 | bossloungecover |  
+| bip_39_word_no_space_4 | bossloungecoverconfirm |  
+| bip_39_word_no_space_5 | bossloungecoverconfirmwaste |  
+| bip_39_word_no_space_6 | bossloungecoverconfirmwasteglove |  
+| bip_39_word_no_space_7 | bossloungecoverconfirmwasteglovecrop |  
+| bip_39_word_no_space_8 | bossloungecoverconfirmwasteglovecropshare |  
+| bip_39_word_no_space_9 | bossloungecoverconfirmwasteglovecropsharemaze |  
 | bip_39_word_space_0 | ['boss', 'lounge', 'cover', 'confirm', 'waste', 'glove', 'crop', 'share', 'maze', 'cry', 'milk', 'alcohol'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss lounge cover confirm waste glove crop share maze cry |  

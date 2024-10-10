@@ -122,6 +122,18 @@ hole
 survey
 genius
 city |  
+| bip_39_word_no_space_1 | click |  
+| bip_39_word_no_space_10 | clickcruisebringfoxleaderholesurveygeniuscitypair |  
+| bip_39_word_no_space_11 | clickcruisebringfoxleaderholesurveygeniuscitypairhuman |  
+| bip_39_word_no_space_12 | clickcruisebringfoxleaderholesurveygeniuscitypairhumanalready |  
+| bip_39_word_no_space_2 | clickcruise |  
+| bip_39_word_no_space_3 | clickcruisebring |  
+| bip_39_word_no_space_4 | clickcruisebringfox |  
+| bip_39_word_no_space_5 | clickcruisebringfoxleader |  
+| bip_39_word_no_space_6 | clickcruisebringfoxleaderhole |  
+| bip_39_word_no_space_7 | clickcruisebringfoxleaderholesurvey |  
+| bip_39_word_no_space_8 | clickcruisebringfoxleaderholesurveygenius |  
+| bip_39_word_no_space_9 | clickcruisebringfoxleaderholesurveygeniuscity |  
 | bip_39_word_space_0 | ['click', 'cruise', 'bring', 'fox', 'leader', 'hole', 'survey', 'genius', 'city', 'pair', 'human', 'already'] |  
 | bip_39_word_space_1 | click |  
 | bip_39_word_space_10 | click cruise bring fox leader hole survey genius city pair |  

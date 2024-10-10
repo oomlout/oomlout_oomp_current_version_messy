@@ -109,6 +109,17 @@ world
 tackle
 upset
 engage |  
+| bip_39_word_no_space_1 | coral |  
+| bip_39_word_no_space_10 | coralasthmaeitherreflectanalystworldtackleupsetengagebrother |  
+| bip_39_word_no_space_11 | coralasthmaeitherreflectanalystworldtackleupsetengagebrotherpenalty |  
+| bip_39_word_no_space_2 | coralasthma |  
+| bip_39_word_no_space_3 | coralasthmaeither |  
+| bip_39_word_no_space_4 | coralasthmaeitherreflect |  
+| bip_39_word_no_space_5 | coralasthmaeitherreflectanalyst |  
+| bip_39_word_no_space_6 | coralasthmaeitherreflectanalystworld |  
+| bip_39_word_no_space_7 | coralasthmaeitherreflectanalystworldtackle |  
+| bip_39_word_no_space_8 | coralasthmaeitherreflectanalystworldtackleupset |  
+| bip_39_word_no_space_9 | coralasthmaeitherreflectanalystworldtackleupsetengage |  
 | bip_39_word_space_0 | ['coral', 'asthma', 'either', 'reflect', 'analyst', 'world', 'tackle', 'upset', 'engage', 'brother', 'penalty'] |  
 | bip_39_word_space_1 | coral |  
 | bip_39_word_space_10 | coral asthma either reflect analyst world tackle upset engage brother |  

@@ -122,6 +122,18 @@ hair
 victory
 online
 road |  
+| bip_39_word_no_space_1 | hip |  
+| bip_39_word_no_space_10 | hipresourcesentencehawkgymhairvictoryonlineroadcoil |  
+| bip_39_word_no_space_11 | hipresourcesentencehawkgymhairvictoryonlineroadcoillion |  
+| bip_39_word_no_space_12 | hipresourcesentencehawkgymhairvictoryonlineroadcoillionabstract |  
+| bip_39_word_no_space_2 | hipresource |  
+| bip_39_word_no_space_3 | hipresourcesentence |  
+| bip_39_word_no_space_4 | hipresourcesentencehawk |  
+| bip_39_word_no_space_5 | hipresourcesentencehawkgym |  
+| bip_39_word_no_space_6 | hipresourcesentencehawkgymhair |  
+| bip_39_word_no_space_7 | hipresourcesentencehawkgymhairvictory |  
+| bip_39_word_no_space_8 | hipresourcesentencehawkgymhairvictoryonline |  
+| bip_39_word_no_space_9 | hipresourcesentencehawkgymhairvictoryonlineroad |  
 | bip_39_word_space_0 | ['hip', 'resource', 'sentence', 'hawk', 'gym', 'hair', 'victory', 'online', 'road', 'coil', 'lion', 'abstract'] |  
 | bip_39_word_space_1 | hip |  
 | bip_39_word_space_10 | hip resource sentence hawk gym hair victory online road coil |  

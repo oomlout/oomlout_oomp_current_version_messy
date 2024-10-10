@@ -122,6 +122,18 @@ arrow
 acoustic
 limit
 keen |  
+| bip_39_word_no_space_1 | clever |  
+| bip_39_word_no_space_10 | cleverlovedevelopbargainaprilarrowacousticlimitkeenextra |  
+| bip_39_word_no_space_11 | cleverlovedevelopbargainaprilarrowacousticlimitkeenextragaze |  
+| bip_39_word_no_space_12 | cleverlovedevelopbargainaprilarrowacousticlimitkeenextragazeafford |  
+| bip_39_word_no_space_2 | cleverlove |  
+| bip_39_word_no_space_3 | cleverlovedevelop |  
+| bip_39_word_no_space_4 | cleverlovedevelopbargain |  
+| bip_39_word_no_space_5 | cleverlovedevelopbargainapril |  
+| bip_39_word_no_space_6 | cleverlovedevelopbargainaprilarrow |  
+| bip_39_word_no_space_7 | cleverlovedevelopbargainaprilarrowacoustic |  
+| bip_39_word_no_space_8 | cleverlovedevelopbargainaprilarrowacousticlimit |  
+| bip_39_word_no_space_9 | cleverlovedevelopbargainaprilarrowacousticlimitkeen |  
 | bip_39_word_space_0 | ['clever', 'love', 'develop', 'bargain', 'april', 'arrow', 'acoustic', 'limit', 'keen', 'extra', 'gaze', 'afford'] |  
 | bip_39_word_space_1 | clever |  
 | bip_39_word_space_10 | clever love develop bargain april arrow acoustic limit keen extra |  

@@ -122,6 +122,18 @@ clutch
 faint
 insect
 oak |  
+| bip_39_word_no_space_1 | during |  
+| bip_39_word_no_space_10 | duringmagnetclicknomineeeraclutchfaintinsectoakcandy |  
+| bip_39_word_no_space_11 | duringmagnetclicknomineeeraclutchfaintinsectoakcandyage |  
+| bip_39_word_no_space_12 | duringmagnetclicknomineeeraclutchfaintinsectoakcandyageapprove |  
+| bip_39_word_no_space_2 | duringmagnet |  
+| bip_39_word_no_space_3 | duringmagnetclick |  
+| bip_39_word_no_space_4 | duringmagnetclicknominee |  
+| bip_39_word_no_space_5 | duringmagnetclicknomineeera |  
+| bip_39_word_no_space_6 | duringmagnetclicknomineeeraclutch |  
+| bip_39_word_no_space_7 | duringmagnetclicknomineeeraclutchfaint |  
+| bip_39_word_no_space_8 | duringmagnetclicknomineeeraclutchfaintinsect |  
+| bip_39_word_no_space_9 | duringmagnetclicknomineeeraclutchfaintinsectoak |  
 | bip_39_word_space_0 | ['during', 'magnet', 'click', 'nominee', 'era', 'clutch', 'faint', 'insect', 'oak', 'candy', 'age', 'approve'] |  
 | bip_39_word_space_1 | during |  
 | bip_39_word_space_10 | during magnet click nominee era clutch faint insect oak candy |  

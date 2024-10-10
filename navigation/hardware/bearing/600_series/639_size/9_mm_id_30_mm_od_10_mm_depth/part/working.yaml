@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'any
   fee
 
   excuse'
+bip_39_word_no_space_1: any
+bip_39_word_no_space_10: anywalnutindexgravityhovergympolarfeeexcusetopple
+bip_39_word_no_space_11: anywalnutindexgravityhovergympolarfeeexcusetopplepeanut
+bip_39_word_no_space_12: anywalnutindexgravityhovergympolarfeeexcusetopplepeanutactress
+bip_39_word_no_space_2: anywalnut
+bip_39_word_no_space_3: anywalnutindex
+bip_39_word_no_space_4: anywalnutindexgravity
+bip_39_word_no_space_5: anywalnutindexgravityhover
+bip_39_word_no_space_6: anywalnutindexgravityhovergym
+bip_39_word_no_space_7: anywalnutindexgravityhovergympolar
+bip_39_word_no_space_8: anywalnutindexgravityhovergympolarfee
+bip_39_word_no_space_9: anywalnutindexgravityhovergympolarfeeexcuse
 bip_39_word_space_0:
 - any
 - walnut

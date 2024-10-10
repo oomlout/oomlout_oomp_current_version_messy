@@ -122,6 +122,18 @@ lumber
 toss
 city
 common |  
+| bip_39_word_no_space_1 | differ |  
+| bip_39_word_no_space_10 | differconsidersquaredynamicaroundlumbertosscitycommonbroom |  
+| bip_39_word_no_space_11 | differconsidersquaredynamicaroundlumbertosscitycommonbroomobscure |  
+| bip_39_word_no_space_12 | differconsidersquaredynamicaroundlumbertosscitycommonbroomobscureagain |  
+| bip_39_word_no_space_2 | differconsider |  
+| bip_39_word_no_space_3 | differconsidersquare |  
+| bip_39_word_no_space_4 | differconsidersquaredynamic |  
+| bip_39_word_no_space_5 | differconsidersquaredynamicaround |  
+| bip_39_word_no_space_6 | differconsidersquaredynamicaroundlumber |  
+| bip_39_word_no_space_7 | differconsidersquaredynamicaroundlumbertoss |  
+| bip_39_word_no_space_8 | differconsidersquaredynamicaroundlumbertosscity |  
+| bip_39_word_no_space_9 | differconsidersquaredynamicaroundlumbertosscitycommon |  
 | bip_39_word_space_0 | ['differ', 'consider', 'square', 'dynamic', 'around', 'lumber', 'toss', 'city', 'common', 'broom', 'obscure', 'again'] |  
 | bip_39_word_space_1 | differ |  
 | bip_39_word_space_10 | differ consider square dynamic around lumber toss city common broom |  

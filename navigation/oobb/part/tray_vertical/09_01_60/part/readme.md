@@ -122,6 +122,18 @@ horse
 decorate
 camp
 critic |  
+| bip_39_word_no_space_1 | hybrid |  
+| bip_39_word_no_space_10 | hybridthrivedramacrimeinteresthorsedecoratecampcriticvanish |  
+| bip_39_word_no_space_11 | hybridthrivedramacrimeinteresthorsedecoratecampcriticvanishtwo |  
+| bip_39_word_no_space_12 | hybridthrivedramacrimeinteresthorsedecoratecampcriticvanishtwoaddress |  
+| bip_39_word_no_space_2 | hybridthrive |  
+| bip_39_word_no_space_3 | hybridthrivedrama |  
+| bip_39_word_no_space_4 | hybridthrivedramacrime |  
+| bip_39_word_no_space_5 | hybridthrivedramacrimeinterest |  
+| bip_39_word_no_space_6 | hybridthrivedramacrimeinteresthorse |  
+| bip_39_word_no_space_7 | hybridthrivedramacrimeinteresthorsedecorate |  
+| bip_39_word_no_space_8 | hybridthrivedramacrimeinteresthorsedecoratecamp |  
+| bip_39_word_no_space_9 | hybridthrivedramacrimeinteresthorsedecoratecampcritic |  
 | bip_39_word_space_0 | ['hybrid', 'thrive', 'drama', 'crime', 'interest', 'horse', 'decorate', 'camp', 'critic', 'vanish', 'two', 'address'] |  
 | bip_39_word_space_1 | hybrid |  
 | bip_39_word_space_10 | hybrid thrive drama crime interest horse decorate camp critic vanish |  

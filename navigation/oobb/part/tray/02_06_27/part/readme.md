@@ -122,6 +122,18 @@ aisle
 patch
 toe
 couple |  
+| bip_39_word_no_space_1 | battle |  
+| bip_39_word_no_space_10 | battledoorafraidsuccessfilmaislepatchtoecouplecoyote |  
+| bip_39_word_no_space_11 | battledoorafraidsuccessfilmaislepatchtoecouplecoyotecanvas |  
+| bip_39_word_no_space_12 | battledoorafraidsuccessfilmaislepatchtoecouplecoyotecanvasalpha |  
+| bip_39_word_no_space_2 | battledoor |  
+| bip_39_word_no_space_3 | battledoorafraid |  
+| bip_39_word_no_space_4 | battledoorafraidsuccess |  
+| bip_39_word_no_space_5 | battledoorafraidsuccessfilm |  
+| bip_39_word_no_space_6 | battledoorafraidsuccessfilmaisle |  
+| bip_39_word_no_space_7 | battledoorafraidsuccessfilmaislepatch |  
+| bip_39_word_no_space_8 | battledoorafraidsuccessfilmaislepatchtoe |  
+| bip_39_word_no_space_9 | battledoorafraidsuccessfilmaislepatchtoecouple |  
 | bip_39_word_space_0 | ['battle', 'door', 'afraid', 'success', 'film', 'aisle', 'patch', 'toe', 'couple', 'coyote', 'canvas', 'alpha'] |  
 | bip_39_word_space_1 | battle |  
 | bip_39_word_space_10 | battle door afraid success film aisle patch toe couple coyote |  

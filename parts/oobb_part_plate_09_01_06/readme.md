@@ -122,6 +122,18 @@ shock
 feature
 stem
 chief |  
+| bip_39_word_no_space_1 | boil |  
+| bip_39_word_no_space_10 | boilfruitfacultydroptestshockfeaturestemchiefbanner |  
+| bip_39_word_no_space_11 | boilfruitfacultydroptestshockfeaturestemchiefbannercousin |  
+| bip_39_word_no_space_12 | boilfruitfacultydroptestshockfeaturestemchiefbannercousinarmor |  
+| bip_39_word_no_space_2 | boilfruit |  
+| bip_39_word_no_space_3 | boilfruitfaculty |  
+| bip_39_word_no_space_4 | boilfruitfacultydrop |  
+| bip_39_word_no_space_5 | boilfruitfacultydroptest |  
+| bip_39_word_no_space_6 | boilfruitfacultydroptestshock |  
+| bip_39_word_no_space_7 | boilfruitfacultydroptestshockfeature |  
+| bip_39_word_no_space_8 | boilfruitfacultydroptestshockfeaturestem |  
+| bip_39_word_no_space_9 | boilfruitfacultydroptestshockfeaturestemchief |  
 | bip_39_word_space_0 | ['boil', 'fruit', 'faculty', 'drop', 'test', 'shock', 'feature', 'stem', 'chief', 'banner', 'cousin', 'armor'] |  
 | bip_39_word_space_1 | boil |  
 | bip_39_word_space_10 | boil fruit faculty drop test shock feature stem chief banner |  

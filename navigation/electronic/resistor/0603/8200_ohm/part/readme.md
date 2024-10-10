@@ -122,6 +122,18 @@ decline
 analyst
 slot
 wine |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffmazebuildairportembodydeclineanalystslotwinetopic |  
+| bip_39_word_no_space_11 | sniffmazebuildairportembodydeclineanalystslotwinetopicmule |  
+| bip_39_word_no_space_12 | sniffmazebuildairportembodydeclineanalystslotwinetopicmuleappear |  
+| bip_39_word_no_space_2 | sniffmaze |  
+| bip_39_word_no_space_3 | sniffmazebuild |  
+| bip_39_word_no_space_4 | sniffmazebuildairport |  
+| bip_39_word_no_space_5 | sniffmazebuildairportembody |  
+| bip_39_word_no_space_6 | sniffmazebuildairportembodydecline |  
+| bip_39_word_no_space_7 | sniffmazebuildairportembodydeclineanalyst |  
+| bip_39_word_no_space_8 | sniffmazebuildairportembodydeclineanalystslot |  
+| bip_39_word_no_space_9 | sniffmazebuildairportembodydeclineanalystslotwine |  
 | bip_39_word_space_0 | ['sniff', 'maze', 'build', 'airport', 'embody', 'decline', 'analyst', 'slot', 'wine', 'topic', 'mule', 'appear'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff maze build airport embody decline analyst slot wine topic |  

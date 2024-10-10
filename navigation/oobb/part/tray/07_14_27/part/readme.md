@@ -122,6 +122,18 @@ analyst
 cute
 raise
 mix |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | platedismissminutedrinkgospelanalystcuteraisemixticket |  
+| bip_39_word_no_space_11 | platedismissminutedrinkgospelanalystcuteraisemixticketchief |  
+| bip_39_word_no_space_12 | platedismissminutedrinkgospelanalystcuteraisemixticketchiefalmost |  
+| bip_39_word_no_space_2 | platedismiss |  
+| bip_39_word_no_space_3 | platedismissminute |  
+| bip_39_word_no_space_4 | platedismissminutedrink |  
+| bip_39_word_no_space_5 | platedismissminutedrinkgospel |  
+| bip_39_word_no_space_6 | platedismissminutedrinkgospelanalyst |  
+| bip_39_word_no_space_7 | platedismissminutedrinkgospelanalystcute |  
+| bip_39_word_no_space_8 | platedismissminutedrinkgospelanalystcuteraise |  
+| bip_39_word_no_space_9 | platedismissminutedrinkgospelanalystcuteraisemix |  
 | bip_39_word_space_0 | ['plate', 'dismiss', 'minute', 'drink', 'gospel', 'analyst', 'cute', 'raise', 'mix', 'ticket', 'chief', 'almost'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate dismiss minute drink gospel analyst cute raise mix ticket |  

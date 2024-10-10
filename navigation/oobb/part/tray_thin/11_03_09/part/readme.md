@@ -122,6 +122,18 @@ twenty
 affair
 relax
 tired |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultbindwhalelaundryfainttwentyaffairrelaxtiredlove |  
+| bip_39_word_no_space_11 | faultbindwhalelaundryfainttwentyaffairrelaxtiredlovetrick |  
+| bip_39_word_no_space_12 | faultbindwhalelaundryfainttwentyaffairrelaxtiredlovetrickathlete |  
+| bip_39_word_no_space_2 | faultbind |  
+| bip_39_word_no_space_3 | faultbindwhale |  
+| bip_39_word_no_space_4 | faultbindwhalelaundry |  
+| bip_39_word_no_space_5 | faultbindwhalelaundryfaint |  
+| bip_39_word_no_space_6 | faultbindwhalelaundryfainttwenty |  
+| bip_39_word_no_space_7 | faultbindwhalelaundryfainttwentyaffair |  
+| bip_39_word_no_space_8 | faultbindwhalelaundryfainttwentyaffairrelax |  
+| bip_39_word_no_space_9 | faultbindwhalelaundryfainttwentyaffairrelaxtired |  
 | bip_39_word_space_0 | ['fault', 'bind', 'whale', 'laundry', 'faint', 'twenty', 'affair', 'relax', 'tired', 'love', 'trick', 'athlete'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault bind whale laundry faint twenty affair relax tired love |  

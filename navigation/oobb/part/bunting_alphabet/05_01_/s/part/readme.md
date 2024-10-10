@@ -122,6 +122,18 @@ satoshi
 pigeon
 attitude
 remain |  
+| bip_39_word_no_space_1 | trap |  
+| bip_39_word_no_space_10 | trapbleakbomborientwarmsatoshipigeonattituderemainsword |  
+| bip_39_word_no_space_11 | trapbleakbomborientwarmsatoshipigeonattituderemainswordenergy |  
+| bip_39_word_no_space_12 | trapbleakbomborientwarmsatoshipigeonattituderemainswordenergyalone |  
+| bip_39_word_no_space_2 | trapbleak |  
+| bip_39_word_no_space_3 | trapbleakbomb |  
+| bip_39_word_no_space_4 | trapbleakbomborient |  
+| bip_39_word_no_space_5 | trapbleakbomborientwarm |  
+| bip_39_word_no_space_6 | trapbleakbomborientwarmsatoshi |  
+| bip_39_word_no_space_7 | trapbleakbomborientwarmsatoshipigeon |  
+| bip_39_word_no_space_8 | trapbleakbomborientwarmsatoshipigeonattitude |  
+| bip_39_word_no_space_9 | trapbleakbomborientwarmsatoshipigeonattituderemain |  
 | bip_39_word_space_0 | ['trap', 'bleak', 'bomb', 'orient', 'warm', 'satoshi', 'pigeon', 'attitude', 'remain', 'sword', 'energy', 'alone'] |  
 | bip_39_word_space_1 | trap |  
 | bip_39_word_space_10 | trap bleak bomb orient warm satoshi pigeon attitude remain sword |  

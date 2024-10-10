@@ -122,6 +122,18 @@ actor
 amateur
 analyst
 basic |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondschooltripfunzebraactoramateuranalystbasicarea |  
+| bip_39_word_no_space_11 | secondschooltripfunzebraactoramateuranalystbasicareamenu |  
+| bip_39_word_no_space_12 | secondschooltripfunzebraactoramateuranalystbasicareamenuassault |  
+| bip_39_word_no_space_2 | secondschool |  
+| bip_39_word_no_space_3 | secondschooltrip |  
+| bip_39_word_no_space_4 | secondschooltripfun |  
+| bip_39_word_no_space_5 | secondschooltripfunzebra |  
+| bip_39_word_no_space_6 | secondschooltripfunzebraactor |  
+| bip_39_word_no_space_7 | secondschooltripfunzebraactoramateur |  
+| bip_39_word_no_space_8 | secondschooltripfunzebraactoramateuranalyst |  
+| bip_39_word_no_space_9 | secondschooltripfunzebraactoramateuranalystbasic |  
 | bip_39_word_space_0 | ['second', 'school', 'trip', 'fun', 'zebra', 'actor', 'amateur', 'analyst', 'basic', 'area', 'menu', 'assault'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second school trip fun zebra actor amateur analyst basic area |  

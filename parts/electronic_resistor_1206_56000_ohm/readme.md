@@ -122,6 +122,18 @@ train
 hard
 client
 quick |  
+| bip_39_word_no_space_1 | protect |  
+| bip_39_word_no_space_10 | protectskullpredictalwaysswarmtrainhardclientquicksoap |  
+| bip_39_word_no_space_11 | protectskullpredictalwaysswarmtrainhardclientquicksoapseek |  
+| bip_39_word_no_space_12 | protectskullpredictalwaysswarmtrainhardclientquicksoapseekacid |  
+| bip_39_word_no_space_2 | protectskull |  
+| bip_39_word_no_space_3 | protectskullpredict |  
+| bip_39_word_no_space_4 | protectskullpredictalways |  
+| bip_39_word_no_space_5 | protectskullpredictalwaysswarm |  
+| bip_39_word_no_space_6 | protectskullpredictalwaysswarmtrain |  
+| bip_39_word_no_space_7 | protectskullpredictalwaysswarmtrainhard |  
+| bip_39_word_no_space_8 | protectskullpredictalwaysswarmtrainhardclient |  
+| bip_39_word_no_space_9 | protectskullpredictalwaysswarmtrainhardclientquick |  
 | bip_39_word_space_0 | ['protect', 'skull', 'predict', 'always', 'swarm', 'train', 'hard', 'client', 'quick', 'soap', 'seek', 'acid'] |  
 | bip_39_word_space_1 | protect |  
 | bip_39_word_space_10 | protect skull predict always swarm train hard client quick soap |  

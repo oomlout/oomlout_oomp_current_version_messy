@@ -122,6 +122,18 @@ now
 scan
 various
 thing |  
+| bip_39_word_no_space_1 | corn |  
+| bip_39_word_no_space_10 | corngrieffruitwalkyardnowscanvariousthinggrain |  
+| bip_39_word_no_space_11 | corngrieffruitwalkyardnowscanvariousthinggrainover |  
+| bip_39_word_no_space_12 | corngrieffruitwalkyardnowscanvariousthinggrainoverallow |  
+| bip_39_word_no_space_2 | corngrief |  
+| bip_39_word_no_space_3 | corngrieffruit |  
+| bip_39_word_no_space_4 | corngrieffruitwalk |  
+| bip_39_word_no_space_5 | corngrieffruitwalkyard |  
+| bip_39_word_no_space_6 | corngrieffruitwalkyardnow |  
+| bip_39_word_no_space_7 | corngrieffruitwalkyardnowscan |  
+| bip_39_word_no_space_8 | corngrieffruitwalkyardnowscanvarious |  
+| bip_39_word_no_space_9 | corngrieffruitwalkyardnowscanvariousthing |  
 | bip_39_word_space_0 | ['corn', 'grief', 'fruit', 'walk', 'yard', 'now', 'scan', 'various', 'thing', 'grain', 'over', 'allow'] |  
 | bip_39_word_space_1 | corn |  
 | bip_39_word_space_10 | corn grief fruit walk yard now scan various thing grain |  

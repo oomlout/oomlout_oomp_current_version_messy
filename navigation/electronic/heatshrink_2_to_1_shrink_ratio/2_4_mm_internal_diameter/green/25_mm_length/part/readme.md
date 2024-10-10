@@ -122,6 +122,18 @@ oblige
 toilet
 print
 kind |  
+| bip_39_word_no_space_1 | repeat |  
+| bip_39_word_no_space_10 | repeatminimumtragicplanetdieselobligetoiletprintkindblind |  
+| bip_39_word_no_space_11 | repeatminimumtragicplanetdieselobligetoiletprintkindblindliar |  
+| bip_39_word_no_space_12 | repeatminimumtragicplanetdieselobligetoiletprintkindblindliarapart |  
+| bip_39_word_no_space_2 | repeatminimum |  
+| bip_39_word_no_space_3 | repeatminimumtragic |  
+| bip_39_word_no_space_4 | repeatminimumtragicplanet |  
+| bip_39_word_no_space_5 | repeatminimumtragicplanetdiesel |  
+| bip_39_word_no_space_6 | repeatminimumtragicplanetdieseloblige |  
+| bip_39_word_no_space_7 | repeatminimumtragicplanetdieselobligetoilet |  
+| bip_39_word_no_space_8 | repeatminimumtragicplanetdieselobligetoiletprint |  
+| bip_39_word_no_space_9 | repeatminimumtragicplanetdieselobligetoiletprintkind |  
 | bip_39_word_space_0 | ['repeat', 'minimum', 'tragic', 'planet', 'diesel', 'oblige', 'toilet', 'print', 'kind', 'blind', 'liar', 'apart'] |  
 | bip_39_word_space_1 | repeat |  
 | bip_39_word_space_10 | repeat minimum tragic planet diesel oblige toilet print kind blind |  

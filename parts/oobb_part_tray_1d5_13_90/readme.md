@@ -122,6 +122,18 @@ evolve
 swear
 setup
 armed |  
+| bip_39_word_no_space_1 | skate |  
+| bip_39_word_no_space_10 | skatemiraclerugraceauditevolveswearsetuparmedtrigger |  
+| bip_39_word_no_space_11 | skatemiraclerugraceauditevolveswearsetuparmedtriggerinject |  
+| bip_39_word_no_space_12 | skatemiraclerugraceauditevolveswearsetuparmedtriggerinjectartist |  
+| bip_39_word_no_space_2 | skatemiracle |  
+| bip_39_word_no_space_3 | skatemiraclerug |  
+| bip_39_word_no_space_4 | skatemiraclerugrace |  
+| bip_39_word_no_space_5 | skatemiraclerugraceaudit |  
+| bip_39_word_no_space_6 | skatemiraclerugraceauditevolve |  
+| bip_39_word_no_space_7 | skatemiraclerugraceauditevolveswear |  
+| bip_39_word_no_space_8 | skatemiraclerugraceauditevolveswearsetup |  
+| bip_39_word_no_space_9 | skatemiraclerugraceauditevolveswearsetuparmed |  
 | bip_39_word_space_0 | ['skate', 'miracle', 'rug', 'race', 'audit', 'evolve', 'swear', 'setup', 'armed', 'trigger', 'inject', 'artist'] |  
 | bip_39_word_space_1 | skate |  
 | bip_39_word_space_10 | skate miracle rug race audit evolve swear setup armed trigger |  

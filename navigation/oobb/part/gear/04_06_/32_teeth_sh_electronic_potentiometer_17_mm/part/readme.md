@@ -122,6 +122,18 @@ cheese
 student
 cloth
 three |  
+| bip_39_word_no_space_1 | collect |  
+| bip_39_word_no_space_10 | collectpatientmushroombelttextcheesestudentcloththreepurse |  
+| bip_39_word_no_space_11 | collectpatientmushroombelttextcheesestudentcloththreepursetip |  
+| bip_39_word_no_space_12 | collectpatientmushroombelttextcheesestudentcloththreepursetipankle |  
+| bip_39_word_no_space_2 | collectpatient |  
+| bip_39_word_no_space_3 | collectpatientmushroom |  
+| bip_39_word_no_space_4 | collectpatientmushroombelt |  
+| bip_39_word_no_space_5 | collectpatientmushroombelttext |  
+| bip_39_word_no_space_6 | collectpatientmushroombelttextcheese |  
+| bip_39_word_no_space_7 | collectpatientmushroombelttextcheesestudent |  
+| bip_39_word_no_space_8 | collectpatientmushroombelttextcheesestudentcloth |  
+| bip_39_word_no_space_9 | collectpatientmushroombelttextcheesestudentcloththree |  
 | bip_39_word_space_0 | ['collect', 'patient', 'mushroom', 'belt', 'text', 'cheese', 'student', 'cloth', 'three', 'purse', 'tip', 'ankle'] |  
 | bip_39_word_space_1 | collect |  
 | bip_39_word_space_10 | collect patient mushroom belt text cheese student cloth three purse |  

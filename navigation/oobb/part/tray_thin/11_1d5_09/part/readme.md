@@ -122,6 +122,18 @@ castle
 profit
 hire
 size |  
+| bip_39_word_no_space_1 | follow |  
+| bip_39_word_no_space_10 | followshuffletackleslotpossiblecastleprofithiresizefebruary |  
+| bip_39_word_no_space_11 | followshuffletackleslotpossiblecastleprofithiresizefebruaryexhibit |  
+| bip_39_word_no_space_12 | followshuffletackleslotpossiblecastleprofithiresizefebruaryexhibitaerobic |  
+| bip_39_word_no_space_2 | followshuffle |  
+| bip_39_word_no_space_3 | followshuffletackle |  
+| bip_39_word_no_space_4 | followshuffletackleslot |  
+| bip_39_word_no_space_5 | followshuffletackleslotpossible |  
+| bip_39_word_no_space_6 | followshuffletackleslotpossiblecastle |  
+| bip_39_word_no_space_7 | followshuffletackleslotpossiblecastleprofit |  
+| bip_39_word_no_space_8 | followshuffletackleslotpossiblecastleprofithire |  
+| bip_39_word_no_space_9 | followshuffletackleslotpossiblecastleprofithiresize |  
 | bip_39_word_space_0 | ['follow', 'shuffle', 'tackle', 'slot', 'possible', 'castle', 'profit', 'hire', 'size', 'february', 'exhibit', 'aerobic'] |  
 | bip_39_word_space_1 | follow |  
 | bip_39_word_space_10 | follow shuffle tackle slot possible castle profit hire size february |  

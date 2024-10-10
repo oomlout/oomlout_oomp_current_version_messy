@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blind
   swamp
 
   long'
+bip_39_word_no_space_1: blind
+bip_39_word_no_space_10: blindobtainpizzaserviceelserugswitchswamplonglicense
+bip_39_word_no_space_11: blindobtainpizzaserviceelserugswitchswamplonglicenseblur
+bip_39_word_no_space_12: blindobtainpizzaserviceelserugswitchswamplonglicenseblurantenna
+bip_39_word_no_space_2: blindobtain
+bip_39_word_no_space_3: blindobtainpizza
+bip_39_word_no_space_4: blindobtainpizzaservice
+bip_39_word_no_space_5: blindobtainpizzaserviceelse
+bip_39_word_no_space_6: blindobtainpizzaserviceelserug
+bip_39_word_no_space_7: blindobtainpizzaserviceelserugswitch
+bip_39_word_no_space_8: blindobtainpizzaserviceelserugswitchswamp
+bip_39_word_no_space_9: blindobtainpizzaserviceelserugswitchswamplong
 bip_39_word_space_0:
 - blind
 - obtain

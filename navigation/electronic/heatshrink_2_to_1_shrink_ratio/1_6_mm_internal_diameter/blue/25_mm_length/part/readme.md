@@ -122,6 +122,18 @@ enact
 cash
 stuff
 verb |  
+| bip_39_word_no_space_1 | blossom |  
+| bip_39_word_no_space_10 | blossomgoldabsentlimitsplitenactcashstuffverbecology |  
+| bip_39_word_no_space_11 | blossomgoldabsentlimitsplitenactcashstuffverbecologybanana |  
+| bip_39_word_no_space_12 | blossomgoldabsentlimitsplitenactcashstuffverbecologybananaacross |  
+| bip_39_word_no_space_2 | blossomgold |  
+| bip_39_word_no_space_3 | blossomgoldabsent |  
+| bip_39_word_no_space_4 | blossomgoldabsentlimit |  
+| bip_39_word_no_space_5 | blossomgoldabsentlimitsplit |  
+| bip_39_word_no_space_6 | blossomgoldabsentlimitsplitenact |  
+| bip_39_word_no_space_7 | blossomgoldabsentlimitsplitenactcash |  
+| bip_39_word_no_space_8 | blossomgoldabsentlimitsplitenactcashstuff |  
+| bip_39_word_no_space_9 | blossomgoldabsentlimitsplitenactcashstuffverb |  
 | bip_39_word_space_0 | ['blossom', 'gold', 'absent', 'limit', 'split', 'enact', 'cash', 'stuff', 'verb', 'ecology', 'banana', 'across'] |  
 | bip_39_word_space_1 | blossom |  
 | bip_39_word_space_10 | blossom gold absent limit split enact cash stuff verb ecology |  

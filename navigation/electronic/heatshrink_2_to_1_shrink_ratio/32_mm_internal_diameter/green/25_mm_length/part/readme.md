@@ -122,6 +122,18 @@ captain
 expire
 prefer
 indicate |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetween |  
+| bip_39_word_no_space_11 | uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetweenblossom |  
+| bip_39_word_no_space_12 | uniquedwarfdaringclapoctobercaptainexpirepreferindicatebetweenblossomagree |  
+| bip_39_word_no_space_2 | uniquedwarf |  
+| bip_39_word_no_space_3 | uniquedwarfdaring |  
+| bip_39_word_no_space_4 | uniquedwarfdaringclap |  
+| bip_39_word_no_space_5 | uniquedwarfdaringclapoctober |  
+| bip_39_word_no_space_6 | uniquedwarfdaringclapoctobercaptain |  
+| bip_39_word_no_space_7 | uniquedwarfdaringclapoctobercaptainexpire |  
+| bip_39_word_no_space_8 | uniquedwarfdaringclapoctobercaptainexpireprefer |  
+| bip_39_word_no_space_9 | uniquedwarfdaringclapoctobercaptainexpirepreferindicate |  
 | bip_39_word_space_0 | ['unique', 'dwarf', 'daring', 'clap', 'october', 'captain', 'expire', 'prefer', 'indicate', 'between', 'blossom', 'agree'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique dwarf daring clap october captain expire prefer indicate between |  

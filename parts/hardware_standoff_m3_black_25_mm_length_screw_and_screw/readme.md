@@ -122,6 +122,18 @@ rate
 nephew
 copy
 magnet |  
+| bip_39_word_no_space_1 | reflect |  
+| bip_39_word_no_space_10 | reflectlargenecknormalpurityratenephewcopymagnetpatient |  
+| bip_39_word_no_space_11 | reflectlargenecknormalpurityratenephewcopymagnetpatientidea |  
+| bip_39_word_no_space_12 | reflectlargenecknormalpurityratenephewcopymagnetpatientideaacross |  
+| bip_39_word_no_space_2 | reflectlarge |  
+| bip_39_word_no_space_3 | reflectlargeneck |  
+| bip_39_word_no_space_4 | reflectlargenecknormal |  
+| bip_39_word_no_space_5 | reflectlargenecknormalpurity |  
+| bip_39_word_no_space_6 | reflectlargenecknormalpurityrate |  
+| bip_39_word_no_space_7 | reflectlargenecknormalpurityratenephew |  
+| bip_39_word_no_space_8 | reflectlargenecknormalpurityratenephewcopy |  
+| bip_39_word_no_space_9 | reflectlargenecknormalpurityratenephewcopymagnet |  
 | bip_39_word_space_0 | ['reflect', 'large', 'neck', 'normal', 'purity', 'rate', 'nephew', 'copy', 'magnet', 'patient', 'idea', 'across'] |  
 | bip_39_word_space_1 | reflect |  
 | bip_39_word_space_10 | reflect large neck normal purity rate nephew copy magnet patient |  

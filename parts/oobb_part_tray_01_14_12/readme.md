@@ -122,6 +122,18 @@ bubble
 pudding
 educate
 chronic |  
+| bip_39_word_no_space_1 | purity |  
+| bip_39_word_no_space_10 | puritycertaintokenwritefrostbubblepuddingeducatechronicbase |  
+| bip_39_word_no_space_11 | puritycertaintokenwritefrostbubblepuddingeducatechronicbasedrum |  
+| bip_39_word_no_space_12 | puritycertaintokenwritefrostbubblepuddingeducatechronicbasedrumafford |  
+| bip_39_word_no_space_2 | puritycertain |  
+| bip_39_word_no_space_3 | puritycertaintoken |  
+| bip_39_word_no_space_4 | puritycertaintokenwrite |  
+| bip_39_word_no_space_5 | puritycertaintokenwritefrost |  
+| bip_39_word_no_space_6 | puritycertaintokenwritefrostbubble |  
+| bip_39_word_no_space_7 | puritycertaintokenwritefrostbubblepudding |  
+| bip_39_word_no_space_8 | puritycertaintokenwritefrostbubblepuddingeducate |  
+| bip_39_word_no_space_9 | puritycertaintokenwritefrostbubblepuddingeducatechronic |  
 | bip_39_word_space_0 | ['purity', 'certain', 'token', 'write', 'frost', 'bubble', 'pudding', 'educate', 'chronic', 'base', 'drum', 'afford'] |  
 | bip_39_word_space_1 | purity |  
 | bip_39_word_space_10 | purity certain token write frost bubble pudding educate chronic base |  

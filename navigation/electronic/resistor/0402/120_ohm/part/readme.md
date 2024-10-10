@@ -122,6 +122,18 @@ slight
 make
 motor
 common |  
+| bip_39_word_no_space_1 | carry |  
+| bip_39_word_no_space_10 | carryisolateboilhuntswampslightmakemotorcommonapprove |  
+| bip_39_word_no_space_11 | carryisolateboilhuntswampslightmakemotorcommonapprovedaughter |  
+| bip_39_word_no_space_12 | carryisolateboilhuntswampslightmakemotorcommonapprovedaughteralready |  
+| bip_39_word_no_space_2 | carryisolate |  
+| bip_39_word_no_space_3 | carryisolateboil |  
+| bip_39_word_no_space_4 | carryisolateboilhunt |  
+| bip_39_word_no_space_5 | carryisolateboilhuntswamp |  
+| bip_39_word_no_space_6 | carryisolateboilhuntswampslight |  
+| bip_39_word_no_space_7 | carryisolateboilhuntswampslightmake |  
+| bip_39_word_no_space_8 | carryisolateboilhuntswampslightmakemotor |  
+| bip_39_word_no_space_9 | carryisolateboilhuntswampslightmakemotorcommon |  
 | bip_39_word_space_0 | ['carry', 'isolate', 'boil', 'hunt', 'swamp', 'slight', 'make', 'motor', 'common', 'approve', 'daughter', 'already'] |  
 | bip_39_word_space_1 | carry |  
 | bip_39_word_space_10 | carry isolate boil hunt swamp slight make motor common approve |  

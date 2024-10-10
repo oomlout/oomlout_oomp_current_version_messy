@@ -122,6 +122,18 @@ unfold
 sustain
 useful
 deliver |  
+| bip_39_word_no_space_1 | van |  
+| bip_39_word_no_space_10 | vannegativeinvolveorphancanalunfoldsustainusefuldeliverday |  
+| bip_39_word_no_space_11 | vannegativeinvolveorphancanalunfoldsustainusefuldeliverdayadmit |  
+| bip_39_word_no_space_12 | vannegativeinvolveorphancanalunfoldsustainusefuldeliverdayadmitaddict |  
+| bip_39_word_no_space_2 | vannegative |  
+| bip_39_word_no_space_3 | vannegativeinvolve |  
+| bip_39_word_no_space_4 | vannegativeinvolveorphan |  
+| bip_39_word_no_space_5 | vannegativeinvolveorphancanal |  
+| bip_39_word_no_space_6 | vannegativeinvolveorphancanalunfold |  
+| bip_39_word_no_space_7 | vannegativeinvolveorphancanalunfoldsustain |  
+| bip_39_word_no_space_8 | vannegativeinvolveorphancanalunfoldsustainuseful |  
+| bip_39_word_no_space_9 | vannegativeinvolveorphancanalunfoldsustainusefuldeliver |  
 | bip_39_word_space_0 | ['van', 'negative', 'involve', 'orphan', 'canal', 'unfold', 'sustain', 'useful', 'deliver', 'day', 'admit', 'addict'] |  
 | bip_39_word_space_1 | van |  
 | bip_39_word_space_10 | van negative involve orphan canal unfold sustain useful deliver day |  

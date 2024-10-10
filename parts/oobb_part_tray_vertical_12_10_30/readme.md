@@ -122,6 +122,18 @@ media
 debris
 gown
 sun |  
+| bip_39_word_no_space_1 | force |  
+| bip_39_word_no_space_10 | forceflightsubmitonionawakemediadebrisgownsunbalcony |  
+| bip_39_word_no_space_11 | forceflightsubmitonionawakemediadebrisgownsunbalconymeadow |  
+| bip_39_word_no_space_12 | forceflightsubmitonionawakemediadebrisgownsunbalconymeadowahead |  
+| bip_39_word_no_space_2 | forceflight |  
+| bip_39_word_no_space_3 | forceflightsubmit |  
+| bip_39_word_no_space_4 | forceflightsubmitonion |  
+| bip_39_word_no_space_5 | forceflightsubmitonionawake |  
+| bip_39_word_no_space_6 | forceflightsubmitonionawakemedia |  
+| bip_39_word_no_space_7 | forceflightsubmitonionawakemediadebris |  
+| bip_39_word_no_space_8 | forceflightsubmitonionawakemediadebrisgown |  
+| bip_39_word_no_space_9 | forceflightsubmitonionawakemediadebrisgownsun |  
 | bip_39_word_space_0 | ['force', 'flight', 'submit', 'onion', 'awake', 'media', 'debris', 'gown', 'sun', 'balcony', 'meadow', 'ahead'] |  
 | bip_39_word_space_1 | force |  
 | bip_39_word_space_10 | force flight submit onion awake media debris gown sun balcony |  

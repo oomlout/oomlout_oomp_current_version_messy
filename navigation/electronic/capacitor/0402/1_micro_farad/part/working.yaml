@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hazard
   drop
 
   task'
+bip_39_word_no_space_1: hazard
+bip_39_word_no_space_10: hazardalphatunnelriverforwardvaultswapdroptaskorder
+bip_39_word_no_space_11: hazardalphatunnelriverforwardvaultswapdroptaskorderatom
+bip_39_word_no_space_12: hazardalphatunnelriverforwardvaultswapdroptaskorderatomaccident
+bip_39_word_no_space_2: hazardalpha
+bip_39_word_no_space_3: hazardalphatunnel
+bip_39_word_no_space_4: hazardalphatunnelriver
+bip_39_word_no_space_5: hazardalphatunnelriverforward
+bip_39_word_no_space_6: hazardalphatunnelriverforwardvault
+bip_39_word_no_space_7: hazardalphatunnelriverforwardvaultswap
+bip_39_word_no_space_8: hazardalphatunnelriverforwardvaultswapdrop
+bip_39_word_no_space_9: hazardalphatunnelriverforwardvaultswapdroptask
 bip_39_word_space_0:
 - hazard
 - alpha

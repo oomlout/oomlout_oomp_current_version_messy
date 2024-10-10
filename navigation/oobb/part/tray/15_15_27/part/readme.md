@@ -122,6 +122,18 @@ ice
 laundry
 midnight
 remember |  
+| bip_39_word_no_space_1 | evidence |  
+| bip_39_word_no_space_10 | evidenceticketgowndripfuelicelaundrymidnightrememberregular |  
+| bip_39_word_no_space_11 | evidenceticketgowndripfuelicelaundrymidnightrememberregulargenuine |  
+| bip_39_word_no_space_12 | evidenceticketgowndripfuelicelaundrymidnightrememberregulargenuineaccount |  
+| bip_39_word_no_space_2 | evidenceticket |  
+| bip_39_word_no_space_3 | evidenceticketgown |  
+| bip_39_word_no_space_4 | evidenceticketgowndrip |  
+| bip_39_word_no_space_5 | evidenceticketgowndripfuel |  
+| bip_39_word_no_space_6 | evidenceticketgowndripfuelice |  
+| bip_39_word_no_space_7 | evidenceticketgowndripfuelicelaundry |  
+| bip_39_word_no_space_8 | evidenceticketgowndripfuelicelaundrymidnight |  
+| bip_39_word_no_space_9 | evidenceticketgowndripfuelicelaundrymidnightremember |  
 | bip_39_word_space_0 | ['evidence', 'ticket', 'gown', 'drip', 'fuel', 'ice', 'laundry', 'midnight', 'remember', 'regular', 'genuine', 'account'] |  
 | bip_39_word_space_1 | evidence |  
 | bip_39_word_space_10 | evidence ticket gown drip fuel ice laundry midnight remember regular |  

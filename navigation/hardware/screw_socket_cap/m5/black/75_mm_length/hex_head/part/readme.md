@@ -122,6 +122,18 @@ enough
 scout
 drastic
 green |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintchapterswiftgaprallyenoughscoutdrasticgreenpower |  
+| bip_39_word_no_space_11 | faintchapterswiftgaprallyenoughscoutdrasticgreenpowertell |  
+| bip_39_word_no_space_12 | faintchapterswiftgaprallyenoughscoutdrasticgreenpowertellavocado |  
+| bip_39_word_no_space_2 | faintchapter |  
+| bip_39_word_no_space_3 | faintchapterswift |  
+| bip_39_word_no_space_4 | faintchapterswiftgap |  
+| bip_39_word_no_space_5 | faintchapterswiftgaprally |  
+| bip_39_word_no_space_6 | faintchapterswiftgaprallyenough |  
+| bip_39_word_no_space_7 | faintchapterswiftgaprallyenoughscout |  
+| bip_39_word_no_space_8 | faintchapterswiftgaprallyenoughscoutdrastic |  
+| bip_39_word_no_space_9 | faintchapterswiftgaprallyenoughscoutdrasticgreen |  
 | bip_39_word_space_0 | ['faint', 'chapter', 'swift', 'gap', 'rally', 'enough', 'scout', 'drastic', 'green', 'power', 'tell', 'avocado'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint chapter swift gap rally enough scout drastic green power |  

@@ -122,6 +122,18 @@ electric
 actor
 photo
 rather |  
+| bip_39_word_no_space_1 | evil |  
+| bip_39_word_no_space_10 | evilsinceperfectwarmdepositelectricactorphotorathergorilla |  
+| bip_39_word_no_space_11 | evilsinceperfectwarmdepositelectricactorphotorathergorillalyrics |  
+| bip_39_word_no_space_12 | evilsinceperfectwarmdepositelectricactorphotorathergorillalyricsavocado |  
+| bip_39_word_no_space_2 | evilsince |  
+| bip_39_word_no_space_3 | evilsinceperfect |  
+| bip_39_word_no_space_4 | evilsinceperfectwarm |  
+| bip_39_word_no_space_5 | evilsinceperfectwarmdeposit |  
+| bip_39_word_no_space_6 | evilsinceperfectwarmdepositelectric |  
+| bip_39_word_no_space_7 | evilsinceperfectwarmdepositelectricactor |  
+| bip_39_word_no_space_8 | evilsinceperfectwarmdepositelectricactorphoto |  
+| bip_39_word_no_space_9 | evilsinceperfectwarmdepositelectricactorphotorather |  
 | bip_39_word_space_0 | ['evil', 'since', 'perfect', 'warm', 'deposit', 'electric', 'actor', 'photo', 'rather', 'gorilla', 'lyrics', 'avocado'] |  
 | bip_39_word_space_1 | evil |  
 | bip_39_word_space_10 | evil since perfect warm deposit electric actor photo rather gorilla |  

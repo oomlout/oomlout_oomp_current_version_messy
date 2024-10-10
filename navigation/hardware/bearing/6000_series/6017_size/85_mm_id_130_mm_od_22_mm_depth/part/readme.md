@@ -122,6 +122,18 @@ near
 worth
 foot
 orphan |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympictruthbracketrallydilemmanearworthfootorphaninvite |  
+| bip_39_word_no_space_11 | olympictruthbracketrallydilemmanearworthfootorphaninviteoff |  
+| bip_39_word_no_space_12 | olympictruthbracketrallydilemmanearworthfootorphaninviteoffarch |  
+| bip_39_word_no_space_2 | olympictruth |  
+| bip_39_word_no_space_3 | olympictruthbracket |  
+| bip_39_word_no_space_4 | olympictruthbracketrally |  
+| bip_39_word_no_space_5 | olympictruthbracketrallydilemma |  
+| bip_39_word_no_space_6 | olympictruthbracketrallydilemmanear |  
+| bip_39_word_no_space_7 | olympictruthbracketrallydilemmanearworth |  
+| bip_39_word_no_space_8 | olympictruthbracketrallydilemmanearworthfoot |  
+| bip_39_word_no_space_9 | olympictruthbracketrallydilemmanearworthfootorphan |  
 | bip_39_word_space_0 | ['olympic', 'truth', 'bracket', 'rally', 'dilemma', 'near', 'worth', 'foot', 'orphan', 'invite', 'off', 'arch'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic truth bracket rally dilemma near worth foot orphan invite |  

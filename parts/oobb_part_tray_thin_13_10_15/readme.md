@@ -122,6 +122,18 @@ remind
 page
 shock
 tiger |  
+| bip_39_word_no_space_1 | remember |  
+| bip_39_word_no_space_10 | remembershockrainelephantsockremindpageshocktigercheap |  
+| bip_39_word_no_space_11 | remembershockrainelephantsockremindpageshocktigercheapscrub |  
+| bip_39_word_no_space_12 | remembershockrainelephantsockremindpageshocktigercheapscrubautumn |  
+| bip_39_word_no_space_2 | remembershock |  
+| bip_39_word_no_space_3 | remembershockrain |  
+| bip_39_word_no_space_4 | remembershockrainelephant |  
+| bip_39_word_no_space_5 | remembershockrainelephantsock |  
+| bip_39_word_no_space_6 | remembershockrainelephantsockremind |  
+| bip_39_word_no_space_7 | remembershockrainelephantsockremindpage |  
+| bip_39_word_no_space_8 | remembershockrainelephantsockremindpageshock |  
+| bip_39_word_no_space_9 | remembershockrainelephantsockremindpageshocktiger |  
 | bip_39_word_space_0 | ['remember', 'shock', 'rain', 'elephant', 'sock', 'remind', 'page', 'shock', 'tiger', 'cheap', 'scrub', 'autumn'] |  
 | bip_39_word_space_1 | remember |  
 | bip_39_word_space_10 | remember shock rain elephant sock remind page shock tiger cheap |  

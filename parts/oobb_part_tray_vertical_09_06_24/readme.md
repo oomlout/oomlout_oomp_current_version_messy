@@ -122,6 +122,18 @@ immune
 quit
 gather
 nation |  
+| bip_39_word_no_space_1 | plastic |  
+| bip_39_word_no_space_10 | plasticranchattituderosefruitimmunequitgathernationtrick |  
+| bip_39_word_no_space_11 | plasticranchattituderosefruitimmunequitgathernationtrickvacuum |  
+| bip_39_word_no_space_12 | plasticranchattituderosefruitimmunequitgathernationtrickvacuumadd |  
+| bip_39_word_no_space_2 | plasticranch |  
+| bip_39_word_no_space_3 | plasticranchattitude |  
+| bip_39_word_no_space_4 | plasticranchattituderose |  
+| bip_39_word_no_space_5 | plasticranchattituderosefruit |  
+| bip_39_word_no_space_6 | plasticranchattituderosefruitimmune |  
+| bip_39_word_no_space_7 | plasticranchattituderosefruitimmunequit |  
+| bip_39_word_no_space_8 | plasticranchattituderosefruitimmunequitgather |  
+| bip_39_word_no_space_9 | plasticranchattituderosefruitimmunequitgathernation |  
 | bip_39_word_space_0 | ['plastic', 'ranch', 'attitude', 'rose', 'fruit', 'immune', 'quit', 'gather', 'nation', 'trick', 'vacuum', 'add'] |  
 | bip_39_word_space_1 | plastic |  
 | bip_39_word_space_10 | plastic ranch attitude rose fruit immune quit gather nation trick |  

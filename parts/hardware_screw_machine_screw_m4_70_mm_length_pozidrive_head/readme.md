@@ -122,6 +122,18 @@ vendor
 dilemma
 lens
 direct |  
+| bip_39_word_no_space_1 | harsh |  
+| bip_39_word_no_space_10 | harshimitatevolcanoheavydwarfvendordilemmalensdirectlawn |  
+| bip_39_word_no_space_11 | harshimitatevolcanoheavydwarfvendordilemmalensdirectlawncheap |  
+| bip_39_word_no_space_12 | harshimitatevolcanoheavydwarfvendordilemmalensdirectlawncheapapprove |  
+| bip_39_word_no_space_2 | harshimitate |  
+| bip_39_word_no_space_3 | harshimitatevolcano |  
+| bip_39_word_no_space_4 | harshimitatevolcanoheavy |  
+| bip_39_word_no_space_5 | harshimitatevolcanoheavydwarf |  
+| bip_39_word_no_space_6 | harshimitatevolcanoheavydwarfvendor |  
+| bip_39_word_no_space_7 | harshimitatevolcanoheavydwarfvendordilemma |  
+| bip_39_word_no_space_8 | harshimitatevolcanoheavydwarfvendordilemmalens |  
+| bip_39_word_no_space_9 | harshimitatevolcanoheavydwarfvendordilemmalensdirect |  
 | bip_39_word_space_0 | ['harsh', 'imitate', 'volcano', 'heavy', 'dwarf', 'vendor', 'dilemma', 'lens', 'direct', 'lawn', 'cheap', 'approve'] |  
 | bip_39_word_space_1 | harsh |  
 | bip_39_word_space_10 | harsh imitate volcano heavy dwarf vendor dilemma lens direct lawn |  

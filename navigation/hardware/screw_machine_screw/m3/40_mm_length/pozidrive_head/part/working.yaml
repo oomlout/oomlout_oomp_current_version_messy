@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'misery
   old
 
   crash'
+bip_39_word_no_space_1: misery
+bip_39_word_no_space_10: miserytosspipecigarostrichdrawcenturyoldcrashsupply
+bip_39_word_no_space_11: miserytosspipecigarostrichdrawcenturyoldcrashsupplyauthor
+bip_39_word_no_space_12: miserytosspipecigarostrichdrawcenturyoldcrashsupplyauthoralmost
+bip_39_word_no_space_2: miserytoss
+bip_39_word_no_space_3: miserytosspipe
+bip_39_word_no_space_4: miserytosspipecigar
+bip_39_word_no_space_5: miserytosspipecigarostrich
+bip_39_word_no_space_6: miserytosspipecigarostrichdraw
+bip_39_word_no_space_7: miserytosspipecigarostrichdrawcentury
+bip_39_word_no_space_8: miserytosspipecigarostrichdrawcenturyold
+bip_39_word_no_space_9: miserytosspipecigarostrichdrawcenturyoldcrash
 bip_39_word_space_0:
 - misery
 - toss

@@ -109,6 +109,17 @@ exact
 three
 divide
 indicate |  
+| bip_39_word_no_space_1 | mule |  
+| bip_39_word_no_space_10 | muleridgesadnesslaterouterexactthreedivideindicateregular |  
+| bip_39_word_no_space_11 | muleridgesadnesslaterouterexactthreedivideindicateregularten |  
+| bip_39_word_no_space_2 | muleridge |  
+| bip_39_word_no_space_3 | muleridgesadness |  
+| bip_39_word_no_space_4 | muleridgesadnesslater |  
+| bip_39_word_no_space_5 | muleridgesadnesslaterouter |  
+| bip_39_word_no_space_6 | muleridgesadnesslaterouterexact |  
+| bip_39_word_no_space_7 | muleridgesadnesslaterouterexactthree |  
+| bip_39_word_no_space_8 | muleridgesadnesslaterouterexactthreedivide |  
+| bip_39_word_no_space_9 | muleridgesadnesslaterouterexactthreedivideindicate |  
 | bip_39_word_space_0 | ['mule', 'ridge', 'sadness', 'later', 'outer', 'exact', 'three', 'divide', 'indicate', 'regular', 'ten'] |  
 | bip_39_word_space_1 | mule |  
 | bip_39_word_space_10 | mule ridge sadness later outer exact three divide indicate regular |  

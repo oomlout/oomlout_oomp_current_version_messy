@@ -122,6 +122,18 @@ knock
 wife
 moment
 edit |  
+| bip_39_word_no_space_1 | jealous |  
+| bip_39_word_no_space_10 | jealouspeopleseekborderdomainknockwifemomentedittarget |  
+| bip_39_word_no_space_11 | jealouspeopleseekborderdomainknockwifemomentedittargetexcuse |  
+| bip_39_word_no_space_12 | jealouspeopleseekborderdomainknockwifemomentedittargetexcuseapprove |  
+| bip_39_word_no_space_2 | jealouspeople |  
+| bip_39_word_no_space_3 | jealouspeopleseek |  
+| bip_39_word_no_space_4 | jealouspeopleseekborder |  
+| bip_39_word_no_space_5 | jealouspeopleseekborderdomain |  
+| bip_39_word_no_space_6 | jealouspeopleseekborderdomainknock |  
+| bip_39_word_no_space_7 | jealouspeopleseekborderdomainknockwife |  
+| bip_39_word_no_space_8 | jealouspeopleseekborderdomainknockwifemoment |  
+| bip_39_word_no_space_9 | jealouspeopleseekborderdomainknockwifemomentedit |  
 | bip_39_word_space_0 | ['jealous', 'people', 'seek', 'border', 'domain', 'knock', 'wife', 'moment', 'edit', 'target', 'excuse', 'approve'] |  
 | bip_39_word_space_1 | jealous |  
 | bip_39_word_space_10 | jealous people seek border domain knock wife moment edit target |  

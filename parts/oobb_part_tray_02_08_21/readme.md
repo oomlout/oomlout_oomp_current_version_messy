@@ -122,6 +122,18 @@ crowd
 close
 captain
 pitch |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settleliquidrigidwhatbravecrowdclosecaptainpitchsalt |  
+| bip_39_word_no_space_11 | settleliquidrigidwhatbravecrowdclosecaptainpitchsaltride |  
+| bip_39_word_no_space_12 | settleliquidrigidwhatbravecrowdclosecaptainpitchsaltrideadult |  
+| bip_39_word_no_space_2 | settleliquid |  
+| bip_39_word_no_space_3 | settleliquidrigid |  
+| bip_39_word_no_space_4 | settleliquidrigidwhat |  
+| bip_39_word_no_space_5 | settleliquidrigidwhatbrave |  
+| bip_39_word_no_space_6 | settleliquidrigidwhatbravecrowd |  
+| bip_39_word_no_space_7 | settleliquidrigidwhatbravecrowdclose |  
+| bip_39_word_no_space_8 | settleliquidrigidwhatbravecrowdclosecaptain |  
+| bip_39_word_no_space_9 | settleliquidrigidwhatbravecrowdclosecaptainpitch |  
 | bip_39_word_space_0 | ['settle', 'liquid', 'rigid', 'what', 'brave', 'crowd', 'close', 'captain', 'pitch', 'salt', 'ride', 'adult'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle liquid rigid what brave crowd close captain pitch salt |  

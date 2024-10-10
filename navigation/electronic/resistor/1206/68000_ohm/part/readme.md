@@ -122,6 +122,18 @@ grief
 miracle
 source
 oppose |  
+| bip_39_word_no_space_1 | nothing |  
+| bip_39_word_no_space_10 | nothingtraffichollowspellcrygriefmiraclesourceopposeera |  
+| bip_39_word_no_space_11 | nothingtraffichollowspellcrygriefmiraclesourceopposeeraend |  
+| bip_39_word_no_space_12 | nothingtraffichollowspellcrygriefmiraclesourceopposeeraendamount |  
+| bip_39_word_no_space_2 | nothingtraffic |  
+| bip_39_word_no_space_3 | nothingtraffichollow |  
+| bip_39_word_no_space_4 | nothingtraffichollowspell |  
+| bip_39_word_no_space_5 | nothingtraffichollowspellcry |  
+| bip_39_word_no_space_6 | nothingtraffichollowspellcrygrief |  
+| bip_39_word_no_space_7 | nothingtraffichollowspellcrygriefmiracle |  
+| bip_39_word_no_space_8 | nothingtraffichollowspellcrygriefmiraclesource |  
+| bip_39_word_no_space_9 | nothingtraffichollowspellcrygriefmiraclesourceoppose |  
 | bip_39_word_space_0 | ['nothing', 'traffic', 'hollow', 'spell', 'cry', 'grief', 'miracle', 'source', 'oppose', 'era', 'end', 'amount'] |  
 | bip_39_word_space_1 | nothing |  
 | bip_39_word_space_10 | nothing traffic hollow spell cry grief miracle source oppose era |  

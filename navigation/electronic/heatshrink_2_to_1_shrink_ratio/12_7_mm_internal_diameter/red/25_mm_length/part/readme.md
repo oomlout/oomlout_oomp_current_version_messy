@@ -109,6 +109,17 @@ bomb
 into
 fortune
 describe |  
+| bip_39_word_no_space_1 | season |  
+| bip_39_word_no_space_10 | seasonmenurentoldbagbombintofortunedescribechild |  
+| bip_39_word_no_space_11 | seasonmenurentoldbagbombintofortunedescribechildordinary |  
+| bip_39_word_no_space_2 | seasonmenu |  
+| bip_39_word_no_space_3 | seasonmenurent |  
+| bip_39_word_no_space_4 | seasonmenurentold |  
+| bip_39_word_no_space_5 | seasonmenurentoldbag |  
+| bip_39_word_no_space_6 | seasonmenurentoldbagbomb |  
+| bip_39_word_no_space_7 | seasonmenurentoldbagbombinto |  
+| bip_39_word_no_space_8 | seasonmenurentoldbagbombintofortune |  
+| bip_39_word_no_space_9 | seasonmenurentoldbagbombintofortunedescribe |  
 | bip_39_word_space_0 | ['season', 'menu', 'rent', 'old', 'bag', 'bomb', 'into', 'fortune', 'describe', 'child', 'ordinary'] |  
 | bip_39_word_space_1 | season |  
 | bip_39_word_space_10 | season menu rent old bag bomb into fortune describe child |  

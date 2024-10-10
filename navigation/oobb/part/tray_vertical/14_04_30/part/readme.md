@@ -122,6 +122,18 @@ enact
 canal
 wolf
 goose |  
+| bip_39_word_no_space_1 | stock |  
+| bip_39_word_no_space_10 | stockavoidgravityreducetrayenactcanalwolfgooseshield |  
+| bip_39_word_no_space_11 | stockavoidgravityreducetrayenactcanalwolfgooseshieldenlist |  
+| bip_39_word_no_space_12 | stockavoidgravityreducetrayenactcanalwolfgooseshieldenlistarctic |  
+| bip_39_word_no_space_2 | stockavoid |  
+| bip_39_word_no_space_3 | stockavoidgravity |  
+| bip_39_word_no_space_4 | stockavoidgravityreduce |  
+| bip_39_word_no_space_5 | stockavoidgravityreducetray |  
+| bip_39_word_no_space_6 | stockavoidgravityreducetrayenact |  
+| bip_39_word_no_space_7 | stockavoidgravityreducetrayenactcanal |  
+| bip_39_word_no_space_8 | stockavoidgravityreducetrayenactcanalwolf |  
+| bip_39_word_no_space_9 | stockavoidgravityreducetrayenactcanalwolfgoose |  
 | bip_39_word_space_0 | ['stock', 'avoid', 'gravity', 'reduce', 'tray', 'enact', 'canal', 'wolf', 'goose', 'shield', 'enlist', 'arctic'] |  
 | bip_39_word_space_1 | stock |  
 | bip_39_word_space_10 | stock avoid gravity reduce tray enact canal wolf goose shield |  

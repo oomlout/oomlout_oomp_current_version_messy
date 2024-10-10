@@ -122,6 +122,18 @@ knee
 wife
 road
 spare |  
+| bip_39_word_no_space_1 | nurse |  
+| bip_39_word_no_space_10 | nursepatternboatsweetcashkneewiferoadsparecute |  
+| bip_39_word_no_space_11 | nursepatternboatsweetcashkneewiferoadsparecutefigure |  
+| bip_39_word_no_space_12 | nursepatternboatsweetcashkneewiferoadsparecutefigureabsurd |  
+| bip_39_word_no_space_2 | nursepattern |  
+| bip_39_word_no_space_3 | nursepatternboat |  
+| bip_39_word_no_space_4 | nursepatternboatsweet |  
+| bip_39_word_no_space_5 | nursepatternboatsweetcash |  
+| bip_39_word_no_space_6 | nursepatternboatsweetcashknee |  
+| bip_39_word_no_space_7 | nursepatternboatsweetcashkneewife |  
+| bip_39_word_no_space_8 | nursepatternboatsweetcashkneewiferoad |  
+| bip_39_word_no_space_9 | nursepatternboatsweetcashkneewiferoadspare |  
 | bip_39_word_space_0 | ['nurse', 'pattern', 'boat', 'sweet', 'cash', 'knee', 'wife', 'road', 'spare', 'cute', 'figure', 'absurd'] |  
 | bip_39_word_space_1 | nurse |  
 | bip_39_word_space_10 | nurse pattern boat sweet cash knee wife road spare cute |  

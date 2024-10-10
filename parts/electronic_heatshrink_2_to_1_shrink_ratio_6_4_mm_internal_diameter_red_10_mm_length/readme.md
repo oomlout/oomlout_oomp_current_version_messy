@@ -122,6 +122,18 @@ cheese
 hero
 endorse
 reopen |  
+| bip_39_word_no_space_1 | diary |  
+| bip_39_word_no_space_10 | diaryrunwayheavypuddingnorthcheeseheroendorsereopenhuge |  
+| bip_39_word_no_space_11 | diaryrunwayheavypuddingnorthcheeseheroendorsereopenhugescare |  
+| bip_39_word_no_space_12 | diaryrunwayheavypuddingnorthcheeseheroendorsereopenhugescareancient |  
+| bip_39_word_no_space_2 | diaryrunway |  
+| bip_39_word_no_space_3 | diaryrunwayheavy |  
+| bip_39_word_no_space_4 | diaryrunwayheavypudding |  
+| bip_39_word_no_space_5 | diaryrunwayheavypuddingnorth |  
+| bip_39_word_no_space_6 | diaryrunwayheavypuddingnorthcheese |  
+| bip_39_word_no_space_7 | diaryrunwayheavypuddingnorthcheesehero |  
+| bip_39_word_no_space_8 | diaryrunwayheavypuddingnorthcheeseheroendorse |  
+| bip_39_word_no_space_9 | diaryrunwayheavypuddingnorthcheeseheroendorsereopen |  
 | bip_39_word_space_0 | ['diary', 'runway', 'heavy', 'pudding', 'north', 'cheese', 'hero', 'endorse', 'reopen', 'huge', 'scare', 'ancient'] |  
 | bip_39_word_space_1 | diary |  
 | bip_39_word_space_10 | diary runway heavy pudding north cheese hero endorse reopen huge |  

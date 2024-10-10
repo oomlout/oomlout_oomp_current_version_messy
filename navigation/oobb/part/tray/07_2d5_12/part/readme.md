@@ -122,6 +122,18 @@ edge
 menu
 name
 nurse |  
+| bip_39_word_no_space_1 | endless |  
+| bip_39_word_no_space_10 | endlessphysicaloutsideresultuncleedgemenunamenursederive |  
+| bip_39_word_no_space_11 | endlessphysicaloutsideresultuncleedgemenunamenursederivemiracle |  
+| bip_39_word_no_space_12 | endlessphysicaloutsideresultuncleedgemenunamenursederivemiracleappear |  
+| bip_39_word_no_space_2 | endlessphysical |  
+| bip_39_word_no_space_3 | endlessphysicaloutside |  
+| bip_39_word_no_space_4 | endlessphysicaloutsideresult |  
+| bip_39_word_no_space_5 | endlessphysicaloutsideresultuncle |  
+| bip_39_word_no_space_6 | endlessphysicaloutsideresultuncleedge |  
+| bip_39_word_no_space_7 | endlessphysicaloutsideresultuncleedgemenu |  
+| bip_39_word_no_space_8 | endlessphysicaloutsideresultuncleedgemenuname |  
+| bip_39_word_no_space_9 | endlessphysicaloutsideresultuncleedgemenunamenurse |  
 | bip_39_word_space_0 | ['endless', 'physical', 'outside', 'result', 'uncle', 'edge', 'menu', 'name', 'nurse', 'derive', 'miracle', 'appear'] |  
 | bip_39_word_space_1 | endless |  
 | bip_39_word_space_10 | endless physical outside result uncle edge menu name nurse derive |  

@@ -122,6 +122,18 @@ demise
 inch
 slim
 rather |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentaislenowedittumbledemiseinchslimratherwhip |  
+| bip_39_word_no_space_11 | rentaislenowedittumbledemiseinchslimratherwhipawake |  
+| bip_39_word_no_space_12 | rentaislenowedittumbledemiseinchslimratherwhipawakeauto |  
+| bip_39_word_no_space_2 | rentaisle |  
+| bip_39_word_no_space_3 | rentaislenow |  
+| bip_39_word_no_space_4 | rentaislenowedit |  
+| bip_39_word_no_space_5 | rentaislenowedittumble |  
+| bip_39_word_no_space_6 | rentaislenowedittumbledemise |  
+| bip_39_word_no_space_7 | rentaislenowedittumbledemiseinch |  
+| bip_39_word_no_space_8 | rentaislenowedittumbledemiseinchslim |  
+| bip_39_word_no_space_9 | rentaislenowedittumbledemiseinchslimrather |  
 | bip_39_word_space_0 | ['rent', 'aisle', 'now', 'edit', 'tumble', 'demise', 'inch', 'slim', 'rather', 'whip', 'awake', 'auto'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent aisle now edit tumble demise inch slim rather whip |  

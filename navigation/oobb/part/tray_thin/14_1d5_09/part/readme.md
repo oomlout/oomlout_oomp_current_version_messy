@@ -122,6 +122,18 @@ rent
 minor
 shiver
 cabbage |  
+| bip_39_word_no_space_1 | valid |  
+| bip_39_word_no_space_10 | validthanktreearoundclaimrentminorshivercabbagesocial |  
+| bip_39_word_no_space_11 | validthanktreearoundclaimrentminorshivercabbagesocialdonate |  
+| bip_39_word_no_space_12 | validthanktreearoundclaimrentminorshivercabbagesocialdonateaffair |  
+| bip_39_word_no_space_2 | validthank |  
+| bip_39_word_no_space_3 | validthanktree |  
+| bip_39_word_no_space_4 | validthanktreearound |  
+| bip_39_word_no_space_5 | validthanktreearoundclaim |  
+| bip_39_word_no_space_6 | validthanktreearoundclaimrent |  
+| bip_39_word_no_space_7 | validthanktreearoundclaimrentminor |  
+| bip_39_word_no_space_8 | validthanktreearoundclaimrentminorshiver |  
+| bip_39_word_no_space_9 | validthanktreearoundclaimrentminorshivercabbage |  
 | bip_39_word_space_0 | ['valid', 'thank', 'tree', 'around', 'claim', 'rent', 'minor', 'shiver', 'cabbage', 'social', 'donate', 'affair'] |  
 | bip_39_word_space_1 | valid |  
 | bip_39_word_space_10 | valid thank tree around claim rent minor shiver cabbage social |  

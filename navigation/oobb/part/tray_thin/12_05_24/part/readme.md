@@ -122,6 +122,18 @@ enjoy
 holiday
 amused
 police |  
+| bip_39_word_no_space_1 | envelope |  
+| bip_39_word_no_space_10 | enveloperomanceparentvenuearrestenjoyholidayamusedpolicelabel |  
+| bip_39_word_no_space_11 | enveloperomanceparentvenuearrestenjoyholidayamusedpolicelabelwrite |  
+| bip_39_word_no_space_12 | enveloperomanceparentvenuearrestenjoyholidayamusedpolicelabelwriteanimal |  
+| bip_39_word_no_space_2 | enveloperomance |  
+| bip_39_word_no_space_3 | enveloperomanceparent |  
+| bip_39_word_no_space_4 | enveloperomanceparentvenue |  
+| bip_39_word_no_space_5 | enveloperomanceparentvenuearrest |  
+| bip_39_word_no_space_6 | enveloperomanceparentvenuearrestenjoy |  
+| bip_39_word_no_space_7 | enveloperomanceparentvenuearrestenjoyholiday |  
+| bip_39_word_no_space_8 | enveloperomanceparentvenuearrestenjoyholidayamused |  
+| bip_39_word_no_space_9 | enveloperomanceparentvenuearrestenjoyholidayamusedpolice |  
 | bip_39_word_space_0 | ['envelope', 'romance', 'parent', 'venue', 'arrest', 'enjoy', 'holiday', 'amused', 'police', 'label', 'write', 'animal'] |  
 | bip_39_word_space_1 | envelope |  
 | bip_39_word_space_10 | envelope romance parent venue arrest enjoy holiday amused police label |  

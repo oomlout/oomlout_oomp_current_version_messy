@@ -122,6 +122,18 @@ dream
 open
 jungle
 exhibit |  
+| bip_39_word_no_space_1 | empty |  
+| bip_39_word_no_space_10 | emptylavagiraffetravelyoungdreamopenjungleexhibitinclude |  
+| bip_39_word_no_space_11 | emptylavagiraffetravelyoungdreamopenjungleexhibitincludedinosaur |  
+| bip_39_word_no_space_12 | emptylavagiraffetravelyoungdreamopenjungleexhibitincludedinosauractor |  
+| bip_39_word_no_space_2 | emptylava |  
+| bip_39_word_no_space_3 | emptylavagiraffe |  
+| bip_39_word_no_space_4 | emptylavagiraffetravel |  
+| bip_39_word_no_space_5 | emptylavagiraffetravelyoung |  
+| bip_39_word_no_space_6 | emptylavagiraffetravelyoungdream |  
+| bip_39_word_no_space_7 | emptylavagiraffetravelyoungdreamopen |  
+| bip_39_word_no_space_8 | emptylavagiraffetravelyoungdreamopenjungle |  
+| bip_39_word_no_space_9 | emptylavagiraffetravelyoungdreamopenjungleexhibit |  
 | bip_39_word_space_0 | ['empty', 'lava', 'giraffe', 'travel', 'young', 'dream', 'open', 'jungle', 'exhibit', 'include', 'dinosaur', 'actor'] |  
 | bip_39_word_space_1 | empty |  
 | bip_39_word_space_10 | empty lava giraffe travel young dream open jungle exhibit include |  

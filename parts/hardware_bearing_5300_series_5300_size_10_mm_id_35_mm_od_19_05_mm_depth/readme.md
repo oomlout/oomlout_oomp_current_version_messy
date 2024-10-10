@@ -122,6 +122,18 @@ exile
 misery
 cute
 hover |  
+| bip_39_word_no_space_1 | pear |  
+| bip_39_word_no_space_10 | pearchargeframeneglectshootexilemiserycutehovergoat |  
+| bip_39_word_no_space_11 | pearchargeframeneglectshootexilemiserycutehovergoatstaff |  
+| bip_39_word_no_space_12 | pearchargeframeneglectshootexilemiserycutehovergoatstaffattract |  
+| bip_39_word_no_space_2 | pearcharge |  
+| bip_39_word_no_space_3 | pearchargeframe |  
+| bip_39_word_no_space_4 | pearchargeframeneglect |  
+| bip_39_word_no_space_5 | pearchargeframeneglectshoot |  
+| bip_39_word_no_space_6 | pearchargeframeneglectshootexile |  
+| bip_39_word_no_space_7 | pearchargeframeneglectshootexilemisery |  
+| bip_39_word_no_space_8 | pearchargeframeneglectshootexilemiserycute |  
+| bip_39_word_no_space_9 | pearchargeframeneglectshootexilemiserycutehover |  
 | bip_39_word_space_0 | ['pear', 'charge', 'frame', 'neglect', 'shoot', 'exile', 'misery', 'cute', 'hover', 'goat', 'staff', 'attract'] |  
 | bip_39_word_space_1 | pear |  
 | bip_39_word_space_10 | pear charge frame neglect shoot exile misery cute hover goat |  

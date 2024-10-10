@@ -122,6 +122,18 @@ galaxy
 custom
 youth
 art |  
+| bip_39_word_no_space_1 | add |  
+| bip_39_word_no_space_10 | addoffawesomepleasedustgalaxycustomyouthartdisease |  
+| bip_39_word_no_space_11 | addoffawesomepleasedustgalaxycustomyouthartdiseasesession |  
+| bip_39_word_no_space_12 | addoffawesomepleasedustgalaxycustomyouthartdiseasesessionafford |  
+| bip_39_word_no_space_2 | addoff |  
+| bip_39_word_no_space_3 | addoffawesome |  
+| bip_39_word_no_space_4 | addoffawesomeplease |  
+| bip_39_word_no_space_5 | addoffawesomepleasedust |  
+| bip_39_word_no_space_6 | addoffawesomepleasedustgalaxy |  
+| bip_39_word_no_space_7 | addoffawesomepleasedustgalaxycustom |  
+| bip_39_word_no_space_8 | addoffawesomepleasedustgalaxycustomyouth |  
+| bip_39_word_no_space_9 | addoffawesomepleasedustgalaxycustomyouthart |  
 | bip_39_word_space_0 | ['add', 'off', 'awesome', 'please', 'dust', 'galaxy', 'custom', 'youth', 'art', 'disease', 'session', 'afford'] |  
 | bip_39_word_space_1 | add |  
 | bip_39_word_space_10 | add off awesome please dust galaxy custom youth art disease |  

@@ -122,6 +122,18 @@ unaware
 apology
 theory
 century |  
+| bip_39_word_no_space_1 | weasel |  
+| bip_39_word_no_space_10 | weaselobscurecoralgovernskateunawareapologytheorycenturyacid |  
+| bip_39_word_no_space_11 | weaselobscurecoralgovernskateunawareapologytheorycenturyacidrepair |  
+| bip_39_word_no_space_12 | weaselobscurecoralgovernskateunawareapologytheorycenturyacidrepairadvice |  
+| bip_39_word_no_space_2 | weaselobscure |  
+| bip_39_word_no_space_3 | weaselobscurecoral |  
+| bip_39_word_no_space_4 | weaselobscurecoralgovern |  
+| bip_39_word_no_space_5 | weaselobscurecoralgovernskate |  
+| bip_39_word_no_space_6 | weaselobscurecoralgovernskateunaware |  
+| bip_39_word_no_space_7 | weaselobscurecoralgovernskateunawareapology |  
+| bip_39_word_no_space_8 | weaselobscurecoralgovernskateunawareapologytheory |  
+| bip_39_word_no_space_9 | weaselobscurecoralgovernskateunawareapologytheorycentury |  
 | bip_39_word_space_0 | ['weasel', 'obscure', 'coral', 'govern', 'skate', 'unaware', 'apology', 'theory', 'century', 'acid', 'repair', 'advice'] |  
 | bip_39_word_space_1 | weasel |  
 | bip_39_word_space_10 | weasel obscure coral govern skate unaware apology theory century acid |  

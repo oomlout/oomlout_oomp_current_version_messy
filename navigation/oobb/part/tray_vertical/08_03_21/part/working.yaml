@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'topic
   tragic
 
   tiny'
+bip_39_word_no_space_1: topic
+bip_39_word_no_space_10: topicwhipdenialjeansbeforebrainjartragictinystereo
+bip_39_word_no_space_11: topicwhipdenialjeansbeforebrainjartragictinystereomatter
+bip_39_word_no_space_12: topicwhipdenialjeansbeforebrainjartragictinystereomatterarrive
+bip_39_word_no_space_2: topicwhip
+bip_39_word_no_space_3: topicwhipdenial
+bip_39_word_no_space_4: topicwhipdenialjeans
+bip_39_word_no_space_5: topicwhipdenialjeansbefore
+bip_39_word_no_space_6: topicwhipdenialjeansbeforebrain
+bip_39_word_no_space_7: topicwhipdenialjeansbeforebrainjar
+bip_39_word_no_space_8: topicwhipdenialjeansbeforebrainjartragic
+bip_39_word_no_space_9: topicwhipdenialjeansbeforebrainjartragictiny
 bip_39_word_space_0:
 - topic
 - whip

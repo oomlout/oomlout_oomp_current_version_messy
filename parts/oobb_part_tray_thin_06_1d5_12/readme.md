@@ -122,6 +122,18 @@ exit
 imitate
 super
 citizen |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemeeagerbusypelicancuriousexitimitatesupercitizensauce |  
+| bip_39_word_no_space_11 | schemeeagerbusypelicancuriousexitimitatesupercitizensaucecard |  
+| bip_39_word_no_space_12 | schemeeagerbusypelicancuriousexitimitatesupercitizensaucecardadapt |  
+| bip_39_word_no_space_2 | schemeeager |  
+| bip_39_word_no_space_3 | schemeeagerbusy |  
+| bip_39_word_no_space_4 | schemeeagerbusypelican |  
+| bip_39_word_no_space_5 | schemeeagerbusypelicancurious |  
+| bip_39_word_no_space_6 | schemeeagerbusypelicancuriousexit |  
+| bip_39_word_no_space_7 | schemeeagerbusypelicancuriousexitimitate |  
+| bip_39_word_no_space_8 | schemeeagerbusypelicancuriousexitimitatesuper |  
+| bip_39_word_no_space_9 | schemeeagerbusypelicancuriousexitimitatesupercitizen |  
 | bip_39_word_space_0 | ['scheme', 'eager', 'busy', 'pelican', 'curious', 'exit', 'imitate', 'super', 'citizen', 'sauce', 'card', 'adapt'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme eager busy pelican curious exit imitate super citizen sauce |  

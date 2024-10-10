@@ -122,6 +122,18 @@ answer
 luxury
 seven
 subject |  
+| bip_39_word_no_space_1 | shaft |  
+| bip_39_word_no_space_10 | shaftpaddlestepnestpoweranswerluxurysevensubjectparade |  
+| bip_39_word_no_space_11 | shaftpaddlestepnestpoweranswerluxurysevensubjectparadeportion |  
+| bip_39_word_no_space_12 | shaftpaddlestepnestpoweranswerluxurysevensubjectparadeportionargue |  
+| bip_39_word_no_space_2 | shaftpaddle |  
+| bip_39_word_no_space_3 | shaftpaddlestep |  
+| bip_39_word_no_space_4 | shaftpaddlestepnest |  
+| bip_39_word_no_space_5 | shaftpaddlestepnestpower |  
+| bip_39_word_no_space_6 | shaftpaddlestepnestpoweranswer |  
+| bip_39_word_no_space_7 | shaftpaddlestepnestpoweranswerluxury |  
+| bip_39_word_no_space_8 | shaftpaddlestepnestpoweranswerluxuryseven |  
+| bip_39_word_no_space_9 | shaftpaddlestepnestpoweranswerluxurysevensubject |  
 | bip_39_word_space_0 | ['shaft', 'paddle', 'step', 'nest', 'power', 'answer', 'luxury', 'seven', 'subject', 'parade', 'portion', 'argue'] |  
 | bip_39_word_space_1 | shaft |  
 | bip_39_word_space_10 | shaft paddle step nest power answer luxury seven subject parade |  

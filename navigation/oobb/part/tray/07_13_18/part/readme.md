@@ -122,6 +122,18 @@ champion
 index
 happy
 will |  
+| bip_39_word_no_space_1 | report |  
+| bip_39_word_no_space_10 | reportspicepricesmartmainchampionindexhappywillgeneral |  
+| bip_39_word_no_space_11 | reportspicepricesmartmainchampionindexhappywillgeneralsoap |  
+| bip_39_word_no_space_12 | reportspicepricesmartmainchampionindexhappywillgeneralsoapaspect |  
+| bip_39_word_no_space_2 | reportspice |  
+| bip_39_word_no_space_3 | reportspiceprice |  
+| bip_39_word_no_space_4 | reportspicepricesmart |  
+| bip_39_word_no_space_5 | reportspicepricesmartmain |  
+| bip_39_word_no_space_6 | reportspicepricesmartmainchampion |  
+| bip_39_word_no_space_7 | reportspicepricesmartmainchampionindex |  
+| bip_39_word_no_space_8 | reportspicepricesmartmainchampionindexhappy |  
+| bip_39_word_no_space_9 | reportspicepricesmartmainchampionindexhappywill |  
 | bip_39_word_space_0 | ['report', 'spice', 'price', 'smart', 'main', 'champion', 'index', 'happy', 'will', 'general', 'soap', 'aspect'] |  
 | bip_39_word_space_1 | report |  
 | bip_39_word_space_10 | report spice price smart main champion index happy will general |  

@@ -122,6 +122,18 @@ violin
 ahead
 toast
 citizen |  
+| bip_39_word_no_space_1 | pilot |  
+| bip_39_word_no_space_10 | pilotfrontevokewastejellyviolinaheadtoastcitizendry |  
+| bip_39_word_no_space_11 | pilotfrontevokewastejellyviolinaheadtoastcitizendryconfirm |  
+| bip_39_word_no_space_12 | pilotfrontevokewastejellyviolinaheadtoastcitizendryconfirmadd |  
+| bip_39_word_no_space_2 | pilotfront |  
+| bip_39_word_no_space_3 | pilotfrontevoke |  
+| bip_39_word_no_space_4 | pilotfrontevokewaste |  
+| bip_39_word_no_space_5 | pilotfrontevokewastejelly |  
+| bip_39_word_no_space_6 | pilotfrontevokewastejellyviolin |  
+| bip_39_word_no_space_7 | pilotfrontevokewastejellyviolinahead |  
+| bip_39_word_no_space_8 | pilotfrontevokewastejellyviolinaheadtoast |  
+| bip_39_word_no_space_9 | pilotfrontevokewastejellyviolinaheadtoastcitizen |  
 | bip_39_word_space_0 | ['pilot', 'front', 'evoke', 'waste', 'jelly', 'violin', 'ahead', 'toast', 'citizen', 'dry', 'confirm', 'add'] |  
 | bip_39_word_space_1 | pilot |  
 | bip_39_word_space_10 | pilot front evoke waste jelly violin ahead toast citizen dry |  

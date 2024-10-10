@@ -122,6 +122,18 @@ jar
 spoon
 cotton
 flag |  
+| bip_39_word_no_space_1 | crowd |  
+| bip_39_word_no_space_10 | crowdreopenpioneerhoneyaxisjarspooncottonflagscissors |  
+| bip_39_word_no_space_11 | crowdreopenpioneerhoneyaxisjarspooncottonflagscissorsskate |  
+| bip_39_word_no_space_12 | crowdreopenpioneerhoneyaxisjarspooncottonflagscissorsskateapprove |  
+| bip_39_word_no_space_2 | crowdreopen |  
+| bip_39_word_no_space_3 | crowdreopenpioneer |  
+| bip_39_word_no_space_4 | crowdreopenpioneerhoney |  
+| bip_39_word_no_space_5 | crowdreopenpioneerhoneyaxis |  
+| bip_39_word_no_space_6 | crowdreopenpioneerhoneyaxisjar |  
+| bip_39_word_no_space_7 | crowdreopenpioneerhoneyaxisjarspoon |  
+| bip_39_word_no_space_8 | crowdreopenpioneerhoneyaxisjarspooncotton |  
+| bip_39_word_no_space_9 | crowdreopenpioneerhoneyaxisjarspooncottonflag |  
 | bip_39_word_space_0 | ['crowd', 'reopen', 'pioneer', 'honey', 'axis', 'jar', 'spoon', 'cotton', 'flag', 'scissors', 'skate', 'approve'] |  
 | bip_39_word_space_1 | crowd |  
 | bip_39_word_space_10 | crowd reopen pioneer honey axis jar spoon cotton flag scissors |  

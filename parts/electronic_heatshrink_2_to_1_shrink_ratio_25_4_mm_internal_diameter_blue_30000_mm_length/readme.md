@@ -122,6 +122,18 @@ tool
 sound
 oxygen
 box |  
+| bip_39_word_no_space_1 | appear |  
+| bip_39_word_no_space_10 | appearsupremebindroofvictorytoolsoundoxygenboxdrastic |  
+| bip_39_word_no_space_11 | appearsupremebindroofvictorytoolsoundoxygenboxdrasticclog |  
+| bip_39_word_no_space_12 | appearsupremebindroofvictorytoolsoundoxygenboxdrasticclogabsent |  
+| bip_39_word_no_space_2 | appearsupreme |  
+| bip_39_word_no_space_3 | appearsupremebind |  
+| bip_39_word_no_space_4 | appearsupremebindroof |  
+| bip_39_word_no_space_5 | appearsupremebindroofvictory |  
+| bip_39_word_no_space_6 | appearsupremebindroofvictorytool |  
+| bip_39_word_no_space_7 | appearsupremebindroofvictorytoolsound |  
+| bip_39_word_no_space_8 | appearsupremebindroofvictorytoolsoundoxygen |  
+| bip_39_word_no_space_9 | appearsupremebindroofvictorytoolsoundoxygenbox |  
 | bip_39_word_space_0 | ['appear', 'supreme', 'bind', 'roof', 'victory', 'tool', 'sound', 'oxygen', 'box', 'drastic', 'clog', 'absent'] |  
 | bip_39_word_space_1 | appear |  
 | bip_39_word_space_10 | appear supreme bind roof victory tool sound oxygen box drastic |  

@@ -122,6 +122,18 @@ please
 deliver
 target
 always |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callbehindconfirmdemandeternalpleasedelivertargetalwayswarfare |  
+| bip_39_word_no_space_11 | callbehindconfirmdemandeternalpleasedelivertargetalwayswarfareenlist |  
+| bip_39_word_no_space_12 | callbehindconfirmdemandeternalpleasedelivertargetalwayswarfareenlistauction |  
+| bip_39_word_no_space_2 | callbehind |  
+| bip_39_word_no_space_3 | callbehindconfirm |  
+| bip_39_word_no_space_4 | callbehindconfirmdemand |  
+| bip_39_word_no_space_5 | callbehindconfirmdemandeternal |  
+| bip_39_word_no_space_6 | callbehindconfirmdemandeternalplease |  
+| bip_39_word_no_space_7 | callbehindconfirmdemandeternalpleasedeliver |  
+| bip_39_word_no_space_8 | callbehindconfirmdemandeternalpleasedelivertarget |  
+| bip_39_word_no_space_9 | callbehindconfirmdemandeternalpleasedelivertargetalways |  
 | bip_39_word_space_0 | ['call', 'behind', 'confirm', 'demand', 'eternal', 'please', 'deliver', 'target', 'always', 'warfare', 'enlist', 'auction'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call behind confirm demand eternal please deliver target always warfare |  

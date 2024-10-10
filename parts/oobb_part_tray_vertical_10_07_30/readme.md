@@ -122,6 +122,18 @@ lizard
 fork
 brother
 alley |  
+| bip_39_word_no_space_1 | begin |  
+| bip_39_word_no_space_10 | beginstartweaponnotabledriplizardforkbrotheralleyabsent |  
+| bip_39_word_no_space_11 | beginstartweaponnotabledriplizardforkbrotheralleyabsentjaguar |  
+| bip_39_word_no_space_12 | beginstartweaponnotabledriplizardforkbrotheralleyabsentjaguaramateur |  
+| bip_39_word_no_space_2 | beginstart |  
+| bip_39_word_no_space_3 | beginstartweapon |  
+| bip_39_word_no_space_4 | beginstartweaponnotable |  
+| bip_39_word_no_space_5 | beginstartweaponnotabledrip |  
+| bip_39_word_no_space_6 | beginstartweaponnotabledriplizard |  
+| bip_39_word_no_space_7 | beginstartweaponnotabledriplizardfork |  
+| bip_39_word_no_space_8 | beginstartweaponnotabledriplizardforkbrother |  
+| bip_39_word_no_space_9 | beginstartweaponnotabledriplizardforkbrotheralley |  
 | bip_39_word_space_0 | ['begin', 'start', 'weapon', 'notable', 'drip', 'lizard', 'fork', 'brother', 'alley', 'absent', 'jaguar', 'amateur'] |  
 | bip_39_word_space_1 | begin |  
 | bip_39_word_space_10 | begin start weapon notable drip lizard fork brother alley absent |  

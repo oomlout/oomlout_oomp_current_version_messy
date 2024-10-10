@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hunt
   foam
 
   ski'
+bip_39_word_no_space_1: hunt
+bip_39_word_no_space_10: huntnursesprayviewfanaffordsixfoamskitruth
+bip_39_word_no_space_11: huntnursesprayviewfanaffordsixfoamskitruthalter
+bip_39_word_no_space_12: huntnursesprayviewfanaffordsixfoamskitruthalteraccuse
+bip_39_word_no_space_2: huntnurse
+bip_39_word_no_space_3: huntnursespray
+bip_39_word_no_space_4: huntnursesprayview
+bip_39_word_no_space_5: huntnursesprayviewfan
+bip_39_word_no_space_6: huntnursesprayviewfanafford
+bip_39_word_no_space_7: huntnursesprayviewfanaffordsix
+bip_39_word_no_space_8: huntnursesprayviewfanaffordsixfoam
+bip_39_word_no_space_9: huntnursesprayviewfanaffordsixfoamski
 bip_39_word_space_0:
 - hunt
 - nurse

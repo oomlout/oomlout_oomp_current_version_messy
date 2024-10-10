@@ -122,6 +122,18 @@ theory
 rigid
 error
 together |  
+| bip_39_word_no_space_1 | rapid |  
+| bip_39_word_no_space_10 | rapidfloorniceivoryexcusetheoryrigiderrortogetherspice |  
+| bip_39_word_no_space_11 | rapidfloorniceivoryexcusetheoryrigiderrortogetherspicetwin |  
+| bip_39_word_no_space_12 | rapidfloorniceivoryexcusetheoryrigiderrortogetherspicetwinapprove |  
+| bip_39_word_no_space_2 | rapidfloor |  
+| bip_39_word_no_space_3 | rapidfloornice |  
+| bip_39_word_no_space_4 | rapidfloorniceivory |  
+| bip_39_word_no_space_5 | rapidfloorniceivoryexcuse |  
+| bip_39_word_no_space_6 | rapidfloorniceivoryexcusetheory |  
+| bip_39_word_no_space_7 | rapidfloorniceivoryexcusetheoryrigid |  
+| bip_39_word_no_space_8 | rapidfloorniceivoryexcusetheoryrigiderror |  
+| bip_39_word_no_space_9 | rapidfloorniceivoryexcusetheoryrigiderrortogether |  
 | bip_39_word_space_0 | ['rapid', 'floor', 'nice', 'ivory', 'excuse', 'theory', 'rigid', 'error', 'together', 'spice', 'twin', 'approve'] |  
 | bip_39_word_space_1 | rapid |  
 | bip_39_word_space_10 | rapid floor nice ivory excuse theory rigid error together spice |  

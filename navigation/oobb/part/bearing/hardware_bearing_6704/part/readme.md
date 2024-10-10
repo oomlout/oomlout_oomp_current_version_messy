@@ -122,6 +122,18 @@ photo
 benefit
 essay
 enrich |  
+| bip_39_word_no_space_1 | output |  
+| bip_39_word_no_space_10 | outputwhisperdevotemethodlabphotobenefitessayenrichamazing |  
+| bip_39_word_no_space_11 | outputwhisperdevotemethodlabphotobenefitessayenrichamazingfinish |  
+| bip_39_word_no_space_12 | outputwhisperdevotemethodlabphotobenefitessayenrichamazingfinishanother |  
+| bip_39_word_no_space_2 | outputwhisper |  
+| bip_39_word_no_space_3 | outputwhisperdevote |  
+| bip_39_word_no_space_4 | outputwhisperdevotemethod |  
+| bip_39_word_no_space_5 | outputwhisperdevotemethodlab |  
+| bip_39_word_no_space_6 | outputwhisperdevotemethodlabphoto |  
+| bip_39_word_no_space_7 | outputwhisperdevotemethodlabphotobenefit |  
+| bip_39_word_no_space_8 | outputwhisperdevotemethodlabphotobenefitessay |  
+| bip_39_word_no_space_9 | outputwhisperdevotemethodlabphotobenefitessayenrich |  
 | bip_39_word_space_0 | ['output', 'whisper', 'devote', 'method', 'lab', 'photo', 'benefit', 'essay', 'enrich', 'amazing', 'finish', 'another'] |  
 | bip_39_word_space_1 | output |  
 | bip_39_word_space_10 | output whisper devote method lab photo benefit essay enrich amazing |  

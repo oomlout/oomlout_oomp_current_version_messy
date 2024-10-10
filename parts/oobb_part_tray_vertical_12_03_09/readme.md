@@ -122,6 +122,18 @@ toilet
 cradle
 grow
 settle |  
+| bip_39_word_no_space_1 | rich |  
+| bip_39_word_no_space_10 | richdecembercruisescorpionentiretoiletcradlegrowsettlealready |  
+| bip_39_word_no_space_11 | richdecembercruisescorpionentiretoiletcradlegrowsettlealreadyorchard |  
+| bip_39_word_no_space_12 | richdecembercruisescorpionentiretoiletcradlegrowsettlealreadyorchardabsorb |  
+| bip_39_word_no_space_2 | richdecember |  
+| bip_39_word_no_space_3 | richdecembercruise |  
+| bip_39_word_no_space_4 | richdecembercruisescorpion |  
+| bip_39_word_no_space_5 | richdecembercruisescorpionentire |  
+| bip_39_word_no_space_6 | richdecembercruisescorpionentiretoilet |  
+| bip_39_word_no_space_7 | richdecembercruisescorpionentiretoiletcradle |  
+| bip_39_word_no_space_8 | richdecembercruisescorpionentiretoiletcradlegrow |  
+| bip_39_word_no_space_9 | richdecembercruisescorpionentiretoiletcradlegrowsettle |  
 | bip_39_word_space_0 | ['rich', 'december', 'cruise', 'scorpion', 'entire', 'toilet', 'cradle', 'grow', 'settle', 'already', 'orchard', 'absorb'] |  
 | bip_39_word_space_1 | rich |  
 | bip_39_word_space_10 | rich december cruise scorpion entire toilet cradle grow settle already |  

@@ -122,6 +122,18 @@ exist
 spin
 improve
 style |  
+| bip_39_word_no_space_1 | wreck |  
+| bip_39_word_no_space_10 | wreckmomnorthdebatedecorateexistspinimprovestylevapor |  
+| bip_39_word_no_space_11 | wreckmomnorthdebatedecorateexistspinimprovestylevapordynamic |  
+| bip_39_word_no_space_12 | wreckmomnorthdebatedecorateexistspinimprovestylevapordynamicaround |  
+| bip_39_word_no_space_2 | wreckmom |  
+| bip_39_word_no_space_3 | wreckmomnorth |  
+| bip_39_word_no_space_4 | wreckmomnorthdebate |  
+| bip_39_word_no_space_5 | wreckmomnorthdebatedecorate |  
+| bip_39_word_no_space_6 | wreckmomnorthdebatedecorateexist |  
+| bip_39_word_no_space_7 | wreckmomnorthdebatedecorateexistspin |  
+| bip_39_word_no_space_8 | wreckmomnorthdebatedecorateexistspinimprove |  
+| bip_39_word_no_space_9 | wreckmomnorthdebatedecorateexistspinimprovestyle |  
 | bip_39_word_space_0 | ['wreck', 'mom', 'north', 'debate', 'decorate', 'exist', 'spin', 'improve', 'style', 'vapor', 'dynamic', 'around'] |  
 | bip_39_word_space_1 | wreck |  
 | bip_39_word_space_10 | wreck mom north debate decorate exist spin improve style vapor |  

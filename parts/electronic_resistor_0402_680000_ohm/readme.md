@@ -122,6 +122,18 @@ tissue
 oil
 protect
 found |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accusebordernoblepleaseissuetissueoilprotectfoundaccount |  
+| bip_39_word_no_space_11 | accusebordernoblepleaseissuetissueoilprotectfoundaccountidea |  
+| bip_39_word_no_space_12 | accusebordernoblepleaseissuetissueoilprotectfoundaccountideaalert |  
+| bip_39_word_no_space_2 | accuseborder |  
+| bip_39_word_no_space_3 | accusebordernoble |  
+| bip_39_word_no_space_4 | accusebordernobleplease |  
+| bip_39_word_no_space_5 | accusebordernoblepleaseissue |  
+| bip_39_word_no_space_6 | accusebordernoblepleaseissuetissue |  
+| bip_39_word_no_space_7 | accusebordernoblepleaseissuetissueoil |  
+| bip_39_word_no_space_8 | accusebordernoblepleaseissuetissueoilprotect |  
+| bip_39_word_no_space_9 | accusebordernoblepleaseissuetissueoilprotectfound |  
 | bip_39_word_space_0 | ['accuse', 'border', 'noble', 'please', 'issue', 'tissue', 'oil', 'protect', 'found', 'account', 'idea', 'alert'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse border noble please issue tissue oil protect found account |  

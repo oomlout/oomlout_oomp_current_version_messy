@@ -122,6 +122,18 @@ blush
 thumb
 airport
 describe |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendforgetactualdieselcomfortblushthumbairportdescribebuild |  
+| bip_39_word_no_space_11 | attendforgetactualdieselcomfortblushthumbairportdescribebuildcurious |  
+| bip_39_word_no_space_12 | attendforgetactualdieselcomfortblushthumbairportdescribebuildcuriousafford |  
+| bip_39_word_no_space_2 | attendforget |  
+| bip_39_word_no_space_3 | attendforgetactual |  
+| bip_39_word_no_space_4 | attendforgetactualdiesel |  
+| bip_39_word_no_space_5 | attendforgetactualdieselcomfort |  
+| bip_39_word_no_space_6 | attendforgetactualdieselcomfortblush |  
+| bip_39_word_no_space_7 | attendforgetactualdieselcomfortblushthumb |  
+| bip_39_word_no_space_8 | attendforgetactualdieselcomfortblushthumbairport |  
+| bip_39_word_no_space_9 | attendforgetactualdieselcomfortblushthumbairportdescribe |  
 | bip_39_word_space_0 | ['attend', 'forget', 'actual', 'diesel', 'comfort', 'blush', 'thumb', 'airport', 'describe', 'build', 'curious', 'afford'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend forget actual diesel comfort blush thumb airport describe build |  

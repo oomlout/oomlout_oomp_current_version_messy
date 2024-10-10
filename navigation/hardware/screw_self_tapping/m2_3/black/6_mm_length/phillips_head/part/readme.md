@@ -122,6 +122,18 @@ orient
 split
 chronic
 polar |  
+| bip_39_word_no_space_1 | athlete |  
+| bip_39_word_no_space_10 | athleteimagebeltbrassnarroworientsplitchronicpolarpool |  
+| bip_39_word_no_space_11 | athleteimagebeltbrassnarroworientsplitchronicpolarpoolgoat |  
+| bip_39_word_no_space_12 | athleteimagebeltbrassnarroworientsplitchronicpolarpoolgoatavocado |  
+| bip_39_word_no_space_2 | athleteimage |  
+| bip_39_word_no_space_3 | athleteimagebelt |  
+| bip_39_word_no_space_4 | athleteimagebeltbrass |  
+| bip_39_word_no_space_5 | athleteimagebeltbrassnarrow |  
+| bip_39_word_no_space_6 | athleteimagebeltbrassnarroworient |  
+| bip_39_word_no_space_7 | athleteimagebeltbrassnarroworientsplit |  
+| bip_39_word_no_space_8 | athleteimagebeltbrassnarroworientsplitchronic |  
+| bip_39_word_no_space_9 | athleteimagebeltbrassnarroworientsplitchronicpolar |  
 | bip_39_word_space_0 | ['athlete', 'image', 'belt', 'brass', 'narrow', 'orient', 'split', 'chronic', 'polar', 'pool', 'goat', 'avocado'] |  
 | bip_39_word_space_1 | athlete |  
 | bip_39_word_space_10 | athlete image belt brass narrow orient split chronic polar pool |  

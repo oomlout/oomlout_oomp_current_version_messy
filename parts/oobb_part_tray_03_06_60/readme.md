@@ -122,6 +122,18 @@ hospital
 obtain
 oak
 nasty |  
+| bip_39_word_no_space_1 | defy |  
+| bip_39_word_no_space_10 | defykitchenpanicseminarslicehospitalobtainoaknastysunny |  
+| bip_39_word_no_space_11 | defykitchenpanicseminarslicehospitalobtainoaknastysunnyshoot |  
+| bip_39_word_no_space_12 | defykitchenpanicseminarslicehospitalobtainoaknastysunnyshootabove |  
+| bip_39_word_no_space_2 | defykitchen |  
+| bip_39_word_no_space_3 | defykitchenpanic |  
+| bip_39_word_no_space_4 | defykitchenpanicseminar |  
+| bip_39_word_no_space_5 | defykitchenpanicseminarslice |  
+| bip_39_word_no_space_6 | defykitchenpanicseminarslicehospital |  
+| bip_39_word_no_space_7 | defykitchenpanicseminarslicehospitalobtain |  
+| bip_39_word_no_space_8 | defykitchenpanicseminarslicehospitalobtainoak |  
+| bip_39_word_no_space_9 | defykitchenpanicseminarslicehospitalobtainoaknasty |  
 | bip_39_word_space_0 | ['defy', 'kitchen', 'panic', 'seminar', 'slice', 'hospital', 'obtain', 'oak', 'nasty', 'sunny', 'shoot', 'above'] |  
 | bip_39_word_space_1 | defy |  
 | bip_39_word_space_10 | defy kitchen panic seminar slice hospital obtain oak nasty sunny |  

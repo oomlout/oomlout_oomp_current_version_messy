@@ -122,6 +122,18 @@ jeans
 bike
 total
 source |  
+| bip_39_word_no_space_1 | surprise |  
+| bip_39_word_no_space_10 | surpriserhythmsquaremulepilotjeansbiketotalsourcesource |  
+| bip_39_word_no_space_11 | surpriserhythmsquaremulepilotjeansbiketotalsourcesourceidle |  
+| bip_39_word_no_space_12 | surpriserhythmsquaremulepilotjeansbiketotalsourcesourceidlealbum |  
+| bip_39_word_no_space_2 | surpriserhythm |  
+| bip_39_word_no_space_3 | surpriserhythmsquare |  
+| bip_39_word_no_space_4 | surpriserhythmsquaremule |  
+| bip_39_word_no_space_5 | surpriserhythmsquaremulepilot |  
+| bip_39_word_no_space_6 | surpriserhythmsquaremulepilotjeans |  
+| bip_39_word_no_space_7 | surpriserhythmsquaremulepilotjeansbike |  
+| bip_39_word_no_space_8 | surpriserhythmsquaremulepilotjeansbiketotal |  
+| bip_39_word_no_space_9 | surpriserhythmsquaremulepilotjeansbiketotalsource |  
 | bip_39_word_space_0 | ['surprise', 'rhythm', 'square', 'mule', 'pilot', 'jeans', 'bike', 'total', 'source', 'source', 'idle', 'album'] |  
 | bip_39_word_space_1 | surprise |  
 | bip_39_word_space_10 | surprise rhythm square mule pilot jeans bike total source source |  

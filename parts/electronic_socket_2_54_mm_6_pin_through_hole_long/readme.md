@@ -122,6 +122,18 @@ spare
 artist
 tone
 tragic |  
+| bip_39_word_no_space_1 | wisdom |  
+| bip_39_word_no_space_10 | wisdomleaderclutchweddingpowerspareartisttonetragicroad |  
+| bip_39_word_no_space_11 | wisdomleaderclutchweddingpowerspareartisttonetragicroadonce |  
+| bip_39_word_no_space_12 | wisdomleaderclutchweddingpowerspareartisttonetragicroadonceany |  
+| bip_39_word_no_space_2 | wisdomleader |  
+| bip_39_word_no_space_3 | wisdomleaderclutch |  
+| bip_39_word_no_space_4 | wisdomleaderclutchwedding |  
+| bip_39_word_no_space_5 | wisdomleaderclutchweddingpower |  
+| bip_39_word_no_space_6 | wisdomleaderclutchweddingpowerspare |  
+| bip_39_word_no_space_7 | wisdomleaderclutchweddingpowerspareartist |  
+| bip_39_word_no_space_8 | wisdomleaderclutchweddingpowerspareartisttone |  
+| bip_39_word_no_space_9 | wisdomleaderclutchweddingpowerspareartisttonetragic |  
 | bip_39_word_space_0 | ['wisdom', 'leader', 'clutch', 'wedding', 'power', 'spare', 'artist', 'tone', 'tragic', 'road', 'once', 'any'] |  
 | bip_39_word_space_1 | wisdom |  
 | bip_39_word_space_10 | wisdom leader clutch wedding power spare artist tone tragic road |  

@@ -122,6 +122,18 @@ mix
 crane
 maid
 discover |  
+| bip_39_word_no_space_1 | refuse |  
+| bip_39_word_no_space_10 | refuseanyexposefeedgaragemixcranemaiddiscoverempower |  
+| bip_39_word_no_space_11 | refuseanyexposefeedgaragemixcranemaiddiscoverempowerdwarf |  
+| bip_39_word_no_space_12 | refuseanyexposefeedgaragemixcranemaiddiscoverempowerdwarfanswer |  
+| bip_39_word_no_space_2 | refuseany |  
+| bip_39_word_no_space_3 | refuseanyexpose |  
+| bip_39_word_no_space_4 | refuseanyexposefeed |  
+| bip_39_word_no_space_5 | refuseanyexposefeedgarage |  
+| bip_39_word_no_space_6 | refuseanyexposefeedgaragemix |  
+| bip_39_word_no_space_7 | refuseanyexposefeedgaragemixcrane |  
+| bip_39_word_no_space_8 | refuseanyexposefeedgaragemixcranemaid |  
+| bip_39_word_no_space_9 | refuseanyexposefeedgaragemixcranemaiddiscover |  
 | bip_39_word_space_0 | ['refuse', 'any', 'expose', 'feed', 'garage', 'mix', 'crane', 'maid', 'discover', 'empower', 'dwarf', 'answer'] |  
 | bip_39_word_space_1 | refuse |  
 | bip_39_word_space_10 | refuse any expose feed garage mix crane maid discover empower |  

@@ -122,6 +122,18 @@ adjust
 appear
 run
 now |  
+| bip_39_word_no_space_1 | random |  
+| bip_39_word_no_space_10 | randomregretspiritfruitweekendadjustappearrunnowfood |  
+| bip_39_word_no_space_11 | randomregretspiritfruitweekendadjustappearrunnowfoodmeadow |  
+| bip_39_word_no_space_12 | randomregretspiritfruitweekendadjustappearrunnowfoodmeadowannual |  
+| bip_39_word_no_space_2 | randomregret |  
+| bip_39_word_no_space_3 | randomregretspirit |  
+| bip_39_word_no_space_4 | randomregretspiritfruit |  
+| bip_39_word_no_space_5 | randomregretspiritfruitweekend |  
+| bip_39_word_no_space_6 | randomregretspiritfruitweekendadjust |  
+| bip_39_word_no_space_7 | randomregretspiritfruitweekendadjustappear |  
+| bip_39_word_no_space_8 | randomregretspiritfruitweekendadjustappearrun |  
+| bip_39_word_no_space_9 | randomregretspiritfruitweekendadjustappearrunnow |  
 | bip_39_word_space_0 | ['random', 'regret', 'spirit', 'fruit', 'weekend', 'adjust', 'appear', 'run', 'now', 'food', 'meadow', 'annual'] |  
 | bip_39_word_space_1 | random |  
 | bip_39_word_space_10 | random regret spirit fruit weekend adjust appear run now food |  

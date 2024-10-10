@@ -122,6 +122,18 @@ attend
 split
 defy
 vivid |  
+| bip_39_word_no_space_1 | puzzle |  
+| bip_39_word_no_space_10 | puzzleswordmechanicgiantdignityattendsplitdefyvividnorth |  
+| bip_39_word_no_space_11 | puzzleswordmechanicgiantdignityattendsplitdefyvividnorthobvious |  
+| bip_39_word_no_space_12 | puzzleswordmechanicgiantdignityattendsplitdefyvividnorthobviousacoustic |  
+| bip_39_word_no_space_2 | puzzlesword |  
+| bip_39_word_no_space_3 | puzzleswordmechanic |  
+| bip_39_word_no_space_4 | puzzleswordmechanicgiant |  
+| bip_39_word_no_space_5 | puzzleswordmechanicgiantdignity |  
+| bip_39_word_no_space_6 | puzzleswordmechanicgiantdignityattend |  
+| bip_39_word_no_space_7 | puzzleswordmechanicgiantdignityattendsplit |  
+| bip_39_word_no_space_8 | puzzleswordmechanicgiantdignityattendsplitdefy |  
+| bip_39_word_no_space_9 | puzzleswordmechanicgiantdignityattendsplitdefyvivid |  
 | bip_39_word_space_0 | ['puzzle', 'sword', 'mechanic', 'giant', 'dignity', 'attend', 'split', 'defy', 'vivid', 'north', 'obvious', 'acoustic'] |  
 | bip_39_word_space_1 | puzzle |  
 | bip_39_word_space_10 | puzzle sword mechanic giant dignity attend split defy vivid north |  

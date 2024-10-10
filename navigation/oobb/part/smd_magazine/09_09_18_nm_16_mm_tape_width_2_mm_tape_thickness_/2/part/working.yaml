@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'unit
   shock
 
   enough'
+bip_39_word_no_space_1: unit
+bip_39_word_no_space_10: unitstrategypulpheightlensspideroptionshockenoughjunk
+bip_39_word_no_space_11: unitstrategypulpheightlensspideroptionshockenoughjunkmaterial
+bip_39_word_no_space_12: unitstrategypulpheightlensspideroptionshockenoughjunkmaterialasset
+bip_39_word_no_space_2: unitstrategy
+bip_39_word_no_space_3: unitstrategypulp
+bip_39_word_no_space_4: unitstrategypulpheight
+bip_39_word_no_space_5: unitstrategypulpheightlens
+bip_39_word_no_space_6: unitstrategypulpheightlensspider
+bip_39_word_no_space_7: unitstrategypulpheightlensspideroption
+bip_39_word_no_space_8: unitstrategypulpheightlensspideroptionshock
+bip_39_word_no_space_9: unitstrategypulpheightlensspideroptionshockenough
 bip_39_word_space_0:
 - unit
 - strategy

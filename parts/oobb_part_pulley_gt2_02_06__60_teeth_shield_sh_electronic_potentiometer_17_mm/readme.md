@@ -122,6 +122,18 @@ stone
 scissors
 behave
 price |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchentireseekpasslaborstonescissorsbehavepricework |  
+| bip_39_word_no_space_11 | fetchentireseekpasslaborstonescissorsbehavepriceworkugly |  
+| bip_39_word_no_space_12 | fetchentireseekpasslaborstonescissorsbehavepriceworkuglyalert |  
+| bip_39_word_no_space_2 | fetchentire |  
+| bip_39_word_no_space_3 | fetchentireseek |  
+| bip_39_word_no_space_4 | fetchentireseekpass |  
+| bip_39_word_no_space_5 | fetchentireseekpasslabor |  
+| bip_39_word_no_space_6 | fetchentireseekpasslaborstone |  
+| bip_39_word_no_space_7 | fetchentireseekpasslaborstonescissors |  
+| bip_39_word_no_space_8 | fetchentireseekpasslaborstonescissorsbehave |  
+| bip_39_word_no_space_9 | fetchentireseekpasslaborstonescissorsbehaveprice |  
 | bip_39_word_space_0 | ['fetch', 'entire', 'seek', 'pass', 'labor', 'stone', 'scissors', 'behave', 'price', 'work', 'ugly', 'alert'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch entire seek pass labor stone scissors behave price work |  

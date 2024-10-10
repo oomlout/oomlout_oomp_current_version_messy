@@ -122,6 +122,18 @@ age
 piano
 child
 address |  
+| bip_39_word_no_space_1 | fiscal |  
+| bip_39_word_no_space_10 | fiscaljealousheartradartobaccoagepianochildaddresssubmit |  
+| bip_39_word_no_space_11 | fiscaljealousheartradartobaccoagepianochildaddresssubmitmesh |  
+| bip_39_word_no_space_12 | fiscaljealousheartradartobaccoagepianochildaddresssubmitmeshanother |  
+| bip_39_word_no_space_2 | fiscaljealous |  
+| bip_39_word_no_space_3 | fiscaljealousheart |  
+| bip_39_word_no_space_4 | fiscaljealousheartradar |  
+| bip_39_word_no_space_5 | fiscaljealousheartradartobacco |  
+| bip_39_word_no_space_6 | fiscaljealousheartradartobaccoage |  
+| bip_39_word_no_space_7 | fiscaljealousheartradartobaccoagepiano |  
+| bip_39_word_no_space_8 | fiscaljealousheartradartobaccoagepianochild |  
+| bip_39_word_no_space_9 | fiscaljealousheartradartobaccoagepianochildaddress |  
 | bip_39_word_space_0 | ['fiscal', 'jealous', 'heart', 'radar', 'tobacco', 'age', 'piano', 'child', 'address', 'submit', 'mesh', 'another'] |  
 | bip_39_word_space_1 | fiscal |  
 | bip_39_word_space_10 | fiscal jealous heart radar tobacco age piano child address submit |  

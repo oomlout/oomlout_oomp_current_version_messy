@@ -122,6 +122,18 @@ kingdom
 sort
 sail
 skill |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenstovemarkettackletherekingdomsortsailskillhundred |  
+| bip_39_word_no_space_11 | brokenstovemarkettackletherekingdomsortsailskillhundredmember |  
+| bip_39_word_no_space_12 | brokenstovemarkettackletherekingdomsortsailskillhundredmemberadd |  
+| bip_39_word_no_space_2 | brokenstove |  
+| bip_39_word_no_space_3 | brokenstovemarket |  
+| bip_39_word_no_space_4 | brokenstovemarkettackle |  
+| bip_39_word_no_space_5 | brokenstovemarkettacklethere |  
+| bip_39_word_no_space_6 | brokenstovemarkettackletherekingdom |  
+| bip_39_word_no_space_7 | brokenstovemarkettackletherekingdomsort |  
+| bip_39_word_no_space_8 | brokenstovemarkettackletherekingdomsortsail |  
+| bip_39_word_no_space_9 | brokenstovemarkettackletherekingdomsortsailskill |  
 | bip_39_word_space_0 | ['broken', 'stove', 'market', 'tackle', 'there', 'kingdom', 'sort', 'sail', 'skill', 'hundred', 'member', 'add'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken stove market tackle there kingdom sort sail skill hundred |  

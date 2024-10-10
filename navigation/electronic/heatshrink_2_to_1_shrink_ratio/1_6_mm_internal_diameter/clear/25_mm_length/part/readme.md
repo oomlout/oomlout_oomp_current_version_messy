@@ -122,6 +122,18 @@ arrange
 urge
 farm
 december |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniquearmovengeniushatarrangeurgefarmdecemberprevent |  
+| bip_39_word_no_space_11 | uniquearmovengeniushatarrangeurgefarmdecemberpreventlemon |  
+| bip_39_word_no_space_12 | uniquearmovengeniushatarrangeurgefarmdecemberpreventlemonadapt |  
+| bip_39_word_no_space_2 | uniquearm |  
+| bip_39_word_no_space_3 | uniquearmoven |  
+| bip_39_word_no_space_4 | uniquearmovengenius |  
+| bip_39_word_no_space_5 | uniquearmovengeniushat |  
+| bip_39_word_no_space_6 | uniquearmovengeniushatarrange |  
+| bip_39_word_no_space_7 | uniquearmovengeniushatarrangeurge |  
+| bip_39_word_no_space_8 | uniquearmovengeniushatarrangeurgefarm |  
+| bip_39_word_no_space_9 | uniquearmovengeniushatarrangeurgefarmdecember |  
 | bip_39_word_space_0 | ['unique', 'arm', 'oven', 'genius', 'hat', 'arrange', 'urge', 'farm', 'december', 'prevent', 'lemon', 'adapt'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique arm oven genius hat arrange urge farm december prevent |  

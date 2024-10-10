@@ -122,6 +122,18 @@ tackle
 alien
 sail
 judge |  
+| bip_39_word_no_space_1 | vital |  
+| bip_39_word_no_space_10 | vitalhurrylightwavefliptacklealiensailjudgetrumpet |  
+| bip_39_word_no_space_11 | vitalhurrylightwavefliptacklealiensailjudgetrumpettreat |  
+| bip_39_word_no_space_12 | vitalhurrylightwavefliptacklealiensailjudgetrumpettreatantenna |  
+| bip_39_word_no_space_2 | vitalhurry |  
+| bip_39_word_no_space_3 | vitalhurrylight |  
+| bip_39_word_no_space_4 | vitalhurrylightwave |  
+| bip_39_word_no_space_5 | vitalhurrylightwaveflip |  
+| bip_39_word_no_space_6 | vitalhurrylightwavefliptackle |  
+| bip_39_word_no_space_7 | vitalhurrylightwavefliptacklealien |  
+| bip_39_word_no_space_8 | vitalhurrylightwavefliptacklealiensail |  
+| bip_39_word_no_space_9 | vitalhurrylightwavefliptacklealiensailjudge |  
 | bip_39_word_space_0 | ['vital', 'hurry', 'light', 'wave', 'flip', 'tackle', 'alien', 'sail', 'judge', 'trumpet', 'treat', 'antenna'] |  
 | bip_39_word_space_1 | vital |  
 | bip_39_word_space_10 | vital hurry light wave flip tackle alien sail judge trumpet |  

@@ -122,6 +122,18 @@ arm
 topic
 memory
 review |  
+| bip_39_word_no_space_1 | label |  
+| bip_39_word_no_space_10 | labelwisdomglobeurgeritualarmtopicmemoryreviewboat |  
+| bip_39_word_no_space_11 | labelwisdomglobeurgeritualarmtopicmemoryreviewboatsouth |  
+| bip_39_word_no_space_12 | labelwisdomglobeurgeritualarmtopicmemoryreviewboatsouthanswer |  
+| bip_39_word_no_space_2 | labelwisdom |  
+| bip_39_word_no_space_3 | labelwisdomglobe |  
+| bip_39_word_no_space_4 | labelwisdomglobeurge |  
+| bip_39_word_no_space_5 | labelwisdomglobeurgeritual |  
+| bip_39_word_no_space_6 | labelwisdomglobeurgeritualarm |  
+| bip_39_word_no_space_7 | labelwisdomglobeurgeritualarmtopic |  
+| bip_39_word_no_space_8 | labelwisdomglobeurgeritualarmtopicmemory |  
+| bip_39_word_no_space_9 | labelwisdomglobeurgeritualarmtopicmemoryreview |  
 | bip_39_word_space_0 | ['label', 'wisdom', 'globe', 'urge', 'ritual', 'arm', 'topic', 'memory', 'review', 'boat', 'south', 'answer'] |  
 | bip_39_word_space_1 | label |  
 | bip_39_word_space_10 | label wisdom globe urge ritual arm topic memory review boat |  

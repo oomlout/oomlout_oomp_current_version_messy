@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'extend
   joy
 
   ill'
+bip_39_word_no_space_1: extend
+bip_39_word_no_space_10: extendleopardemergefrozentowndilemmatestjoyillkey
+bip_39_word_no_space_11: extendleopardemergefrozentowndilemmatestjoyillkeyolive
+bip_39_word_no_space_12: extendleopardemergefrozentowndilemmatestjoyillkeyoliveaverage
+bip_39_word_no_space_2: extendleopard
+bip_39_word_no_space_3: extendleopardemerge
+bip_39_word_no_space_4: extendleopardemergefrozen
+bip_39_word_no_space_5: extendleopardemergefrozentown
+bip_39_word_no_space_6: extendleopardemergefrozentowndilemma
+bip_39_word_no_space_7: extendleopardemergefrozentowndilemmatest
+bip_39_word_no_space_8: extendleopardemergefrozentowndilemmatestjoy
+bip_39_word_no_space_9: extendleopardemergefrozentowndilemmatestjoyill
 bip_39_word_space_0:
 - extend
 - leopard

@@ -122,6 +122,18 @@ egg
 force
 strike
 faculty |  
+| bip_39_word_no_space_1 | chaos |  
+| bip_39_word_no_space_10 | chaoswreckoutsideexamplereasoneggforcestrikefacultycelery |  
+| bip_39_word_no_space_11 | chaoswreckoutsideexamplereasoneggforcestrikefacultyceleryprosper |  
+| bip_39_word_no_space_12 | chaoswreckoutsideexamplereasoneggforcestrikefacultyceleryprosperarmor |  
+| bip_39_word_no_space_2 | chaoswreck |  
+| bip_39_word_no_space_3 | chaoswreckoutside |  
+| bip_39_word_no_space_4 | chaoswreckoutsideexample |  
+| bip_39_word_no_space_5 | chaoswreckoutsideexamplereason |  
+| bip_39_word_no_space_6 | chaoswreckoutsideexamplereasonegg |  
+| bip_39_word_no_space_7 | chaoswreckoutsideexamplereasoneggforce |  
+| bip_39_word_no_space_8 | chaoswreckoutsideexamplereasoneggforcestrike |  
+| bip_39_word_no_space_9 | chaoswreckoutsideexamplereasoneggforcestrikefaculty |  
 | bip_39_word_space_0 | ['chaos', 'wreck', 'outside', 'example', 'reason', 'egg', 'force', 'strike', 'faculty', 'celery', 'prosper', 'armor'] |  
 | bip_39_word_space_1 | chaos |  
 | bip_39_word_space_10 | chaos wreck outside example reason egg force strike faculty celery |  

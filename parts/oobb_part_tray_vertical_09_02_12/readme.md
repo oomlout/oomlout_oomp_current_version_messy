@@ -122,6 +122,18 @@ access
 dismiss
 pool
 luggage |  
+| bip_39_word_no_space_1 | bounce |  
+| bip_39_word_no_space_10 | bouncesuffercoverprettyquoteaccessdismisspoolluggageeight |  
+| bip_39_word_no_space_11 | bouncesuffercoverprettyquoteaccessdismisspoolluggageeightinvest |  
+| bip_39_word_no_space_12 | bouncesuffercoverprettyquoteaccessdismisspoolluggageeightinvestadmit |  
+| bip_39_word_no_space_2 | bouncesuffer |  
+| bip_39_word_no_space_3 | bouncesuffercover |  
+| bip_39_word_no_space_4 | bouncesuffercoverpretty |  
+| bip_39_word_no_space_5 | bouncesuffercoverprettyquote |  
+| bip_39_word_no_space_6 | bouncesuffercoverprettyquoteaccess |  
+| bip_39_word_no_space_7 | bouncesuffercoverprettyquoteaccessdismiss |  
+| bip_39_word_no_space_8 | bouncesuffercoverprettyquoteaccessdismisspool |  
+| bip_39_word_no_space_9 | bouncesuffercoverprettyquoteaccessdismisspoolluggage |  
 | bip_39_word_space_0 | ['bounce', 'suffer', 'cover', 'pretty', 'quote', 'access', 'dismiss', 'pool', 'luggage', 'eight', 'invest', 'admit'] |  
 | bip_39_word_space_1 | bounce |  
 | bip_39_word_space_10 | bounce suffer cover pretty quote access dismiss pool luggage eight |  

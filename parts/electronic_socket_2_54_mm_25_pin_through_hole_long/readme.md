@@ -122,6 +122,18 @@ invest
 pupil
 filter
 skill |  
+| bip_39_word_no_space_1 | only |  
+| bip_39_word_no_space_10 | onlyfoilsafetobaccowalkinvestpupilfilterskillglove |  
+| bip_39_word_no_space_11 | onlyfoilsafetobaccowalkinvestpupilfilterskillglovecensus |  
+| bip_39_word_no_space_12 | onlyfoilsafetobaccowalkinvestpupilfilterskillglovecensusalbum |  
+| bip_39_word_no_space_2 | onlyfoil |  
+| bip_39_word_no_space_3 | onlyfoilsafe |  
+| bip_39_word_no_space_4 | onlyfoilsafetobacco |  
+| bip_39_word_no_space_5 | onlyfoilsafetobaccowalk |  
+| bip_39_word_no_space_6 | onlyfoilsafetobaccowalkinvest |  
+| bip_39_word_no_space_7 | onlyfoilsafetobaccowalkinvestpupil |  
+| bip_39_word_no_space_8 | onlyfoilsafetobaccowalkinvestpupilfilter |  
+| bip_39_word_no_space_9 | onlyfoilsafetobaccowalkinvestpupilfilterskill |  
 | bip_39_word_space_0 | ['only', 'foil', 'safe', 'tobacco', 'walk', 'invest', 'pupil', 'filter', 'skill', 'glove', 'census', 'album'] |  
 | bip_39_word_space_1 | only |  
 | bip_39_word_space_10 | only foil safe tobacco walk invest pupil filter skill glove |  

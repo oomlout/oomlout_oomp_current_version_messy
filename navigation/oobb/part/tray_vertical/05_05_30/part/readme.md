@@ -122,6 +122,18 @@ spatial
 scare
 labor
 knee |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigidbetweensunsetgymcrimespatialscarelaborkneegirl |  
+| bip_39_word_no_space_11 | rigidbetweensunsetgymcrimespatialscarelaborkneegirltobacco |  
+| bip_39_word_no_space_12 | rigidbetweensunsetgymcrimespatialscarelaborkneegirltobaccoallow |  
+| bip_39_word_no_space_2 | rigidbetween |  
+| bip_39_word_no_space_3 | rigidbetweensunset |  
+| bip_39_word_no_space_4 | rigidbetweensunsetgym |  
+| bip_39_word_no_space_5 | rigidbetweensunsetgymcrime |  
+| bip_39_word_no_space_6 | rigidbetweensunsetgymcrimespatial |  
+| bip_39_word_no_space_7 | rigidbetweensunsetgymcrimespatialscare |  
+| bip_39_word_no_space_8 | rigidbetweensunsetgymcrimespatialscarelabor |  
+| bip_39_word_no_space_9 | rigidbetweensunsetgymcrimespatialscarelaborknee |  
 | bip_39_word_space_0 | ['rigid', 'between', 'sunset', 'gym', 'crime', 'spatial', 'scare', 'labor', 'knee', 'girl', 'tobacco', 'allow'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid between sunset gym crime spatial scare labor knee girl |  

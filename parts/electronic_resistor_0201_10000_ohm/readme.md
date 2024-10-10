@@ -122,6 +122,18 @@ turn
 cup
 term
 cigar |  
+| bip_39_word_no_space_1 | curious |  
+| bip_39_word_no_space_10 | curiousdrivefingerinformminimumturncuptermcigargrid |  
+| bip_39_word_no_space_11 | curiousdrivefingerinformminimumturncuptermcigargridcable |  
+| bip_39_word_no_space_12 | curiousdrivefingerinformminimumturncuptermcigargridcableafraid |  
+| bip_39_word_no_space_2 | curiousdrive |  
+| bip_39_word_no_space_3 | curiousdrivefinger |  
+| bip_39_word_no_space_4 | curiousdrivefingerinform |  
+| bip_39_word_no_space_5 | curiousdrivefingerinformminimum |  
+| bip_39_word_no_space_6 | curiousdrivefingerinformminimumturn |  
+| bip_39_word_no_space_7 | curiousdrivefingerinformminimumturncup |  
+| bip_39_word_no_space_8 | curiousdrivefingerinformminimumturncupterm |  
+| bip_39_word_no_space_9 | curiousdrivefingerinformminimumturncuptermcigar |  
 | bip_39_word_space_0 | ['curious', 'drive', 'finger', 'inform', 'minimum', 'turn', 'cup', 'term', 'cigar', 'grid', 'cable', 'afraid'] |  
 | bip_39_word_space_1 | curious |  
 | bip_39_word_space_10 | curious drive finger inform minimum turn cup term cigar grid |  

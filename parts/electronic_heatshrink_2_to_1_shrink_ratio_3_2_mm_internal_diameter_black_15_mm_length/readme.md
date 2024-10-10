@@ -122,6 +122,18 @@ harbor
 theme
 middle
 result |  
+| bip_39_word_no_space_1 | ignore |  
+| bip_39_word_no_space_10 | ignorefieldbidallowbunkerharborthememiddleresultaffair |  
+| bip_39_word_no_space_11 | ignorefieldbidallowbunkerharborthememiddleresultaffairfence |  
+| bip_39_word_no_space_12 | ignorefieldbidallowbunkerharborthememiddleresultaffairfencearound |  
+| bip_39_word_no_space_2 | ignorefield |  
+| bip_39_word_no_space_3 | ignorefieldbid |  
+| bip_39_word_no_space_4 | ignorefieldbidallow |  
+| bip_39_word_no_space_5 | ignorefieldbidallowbunker |  
+| bip_39_word_no_space_6 | ignorefieldbidallowbunkerharbor |  
+| bip_39_word_no_space_7 | ignorefieldbidallowbunkerharbortheme |  
+| bip_39_word_no_space_8 | ignorefieldbidallowbunkerharborthememiddle |  
+| bip_39_word_no_space_9 | ignorefieldbidallowbunkerharborthememiddleresult |  
 | bip_39_word_space_0 | ['ignore', 'field', 'bid', 'allow', 'bunker', 'harbor', 'theme', 'middle', 'result', 'affair', 'fence', 'around'] |  
 | bip_39_word_space_1 | ignore |  
 | bip_39_word_space_10 | ignore field bid allow bunker harbor theme middle result affair |  

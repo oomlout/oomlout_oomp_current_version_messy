@@ -122,6 +122,18 @@ stand
 into
 point
 region |  
+| bip_39_word_no_space_1 | swamp |  
+| bip_39_word_no_space_10 | swampinspirehouractualplungestandintopointregionladder |  
+| bip_39_word_no_space_11 | swampinspirehouractualplungestandintopointregionladderbulk |  
+| bip_39_word_no_space_12 | swampinspirehouractualplungestandintopointregionladderbulkabove |  
+| bip_39_word_no_space_2 | swampinspire |  
+| bip_39_word_no_space_3 | swampinspirehour |  
+| bip_39_word_no_space_4 | swampinspirehouractual |  
+| bip_39_word_no_space_5 | swampinspirehouractualplunge |  
+| bip_39_word_no_space_6 | swampinspirehouractualplungestand |  
+| bip_39_word_no_space_7 | swampinspirehouractualplungestandinto |  
+| bip_39_word_no_space_8 | swampinspirehouractualplungestandintopoint |  
+| bip_39_word_no_space_9 | swampinspirehouractualplungestandintopointregion |  
 | bip_39_word_space_0 | ['swamp', 'inspire', 'hour', 'actual', 'plunge', 'stand', 'into', 'point', 'region', 'ladder', 'bulk', 'above'] |  
 | bip_39_word_space_1 | swamp |  
 | bip_39_word_space_10 | swamp inspire hour actual plunge stand into point region ladder |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'mutual
   edit
 
   cat'
+bip_39_word_no_space_1: mutual
+bip_39_word_no_space_10: mutualcyclehollowwasteruralcabbagemesheditcatsight
+bip_39_word_no_space_11: mutualcyclehollowwasteruralcabbagemesheditcatsightmagic
+bip_39_word_no_space_12: mutualcyclehollowwasteruralcabbagemesheditcatsightmagicaddict
+bip_39_word_no_space_2: mutualcycle
+bip_39_word_no_space_3: mutualcyclehollow
+bip_39_word_no_space_4: mutualcyclehollowwaste
+bip_39_word_no_space_5: mutualcyclehollowwasterural
+bip_39_word_no_space_6: mutualcyclehollowwasteruralcabbage
+bip_39_word_no_space_7: mutualcyclehollowwasteruralcabbagemesh
+bip_39_word_no_space_8: mutualcyclehollowwasteruralcabbagemeshedit
+bip_39_word_no_space_9: mutualcyclehollowwasteruralcabbagemesheditcat
 bip_39_word_space_0:
 - mutual
 - cycle

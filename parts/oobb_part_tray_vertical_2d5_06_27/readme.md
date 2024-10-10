@@ -122,6 +122,18 @@ thought
 oyster
 lake
 myself |  
+| bip_39_word_no_space_1 | gasp |  
+| bip_39_word_no_space_10 | gaspnotesufferswapdeliverthoughtoysterlakemyselffluid |  
+| bip_39_word_no_space_11 | gaspnotesufferswapdeliverthoughtoysterlakemyselffluidtuna |  
+| bip_39_word_no_space_12 | gaspnotesufferswapdeliverthoughtoysterlakemyselffluidtunaagent |  
+| bip_39_word_no_space_2 | gaspnote |  
+| bip_39_word_no_space_3 | gaspnotesuffer |  
+| bip_39_word_no_space_4 | gaspnotesufferswap |  
+| bip_39_word_no_space_5 | gaspnotesufferswapdeliver |  
+| bip_39_word_no_space_6 | gaspnotesufferswapdeliverthought |  
+| bip_39_word_no_space_7 | gaspnotesufferswapdeliverthoughtoyster |  
+| bip_39_word_no_space_8 | gaspnotesufferswapdeliverthoughtoysterlake |  
+| bip_39_word_no_space_9 | gaspnotesufferswapdeliverthoughtoysterlakemyself |  
 | bip_39_word_space_0 | ['gasp', 'note', 'suffer', 'swap', 'deliver', 'thought', 'oyster', 'lake', 'myself', 'fluid', 'tuna', 'agent'] |  
 | bip_39_word_space_1 | gasp |  
 | bip_39_word_space_10 | gasp note suffer swap deliver thought oyster lake myself fluid |  

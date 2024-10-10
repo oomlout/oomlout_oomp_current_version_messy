@@ -122,6 +122,18 @@ sword
 chapter
 labor
 glimpse |  
+| bip_39_word_no_space_1 | chunk |  
+| bip_39_word_no_space_10 | chunkusefuluniformabstractderiveswordchapterlaborglimpsepair |  
+| bip_39_word_no_space_11 | chunkusefuluniformabstractderiveswordchapterlaborglimpsepairpig |  
+| bip_39_word_no_space_12 | chunkusefuluniformabstractderiveswordchapterlaborglimpsepairpigaccuse |  
+| bip_39_word_no_space_2 | chunkuseful |  
+| bip_39_word_no_space_3 | chunkusefuluniform |  
+| bip_39_word_no_space_4 | chunkusefuluniformabstract |  
+| bip_39_word_no_space_5 | chunkusefuluniformabstractderive |  
+| bip_39_word_no_space_6 | chunkusefuluniformabstractderivesword |  
+| bip_39_word_no_space_7 | chunkusefuluniformabstractderiveswordchapter |  
+| bip_39_word_no_space_8 | chunkusefuluniformabstractderiveswordchapterlabor |  
+| bip_39_word_no_space_9 | chunkusefuluniformabstractderiveswordchapterlaborglimpse |  
 | bip_39_word_space_0 | ['chunk', 'useful', 'uniform', 'abstract', 'derive', 'sword', 'chapter', 'labor', 'glimpse', 'pair', 'pig', 'accuse'] |  
 | bip_39_word_space_1 | chunk |  
 | bip_39_word_space_10 | chunk useful uniform abstract derive sword chapter labor glimpse pair |  

@@ -122,6 +122,18 @@ asthma
 melt
 clog
 eyebrow |  
+| bip_39_word_no_space_1 | conduct |  
+| bip_39_word_no_space_10 | conductswapdecemberlicenseatomasthmameltclogeyebrowflat |  
+| bip_39_word_no_space_11 | conductswapdecemberlicenseatomasthmameltclogeyebrowflattrack |  
+| bip_39_word_no_space_12 | conductswapdecemberlicenseatomasthmameltclogeyebrowflattrackadvance |  
+| bip_39_word_no_space_2 | conductswap |  
+| bip_39_word_no_space_3 | conductswapdecember |  
+| bip_39_word_no_space_4 | conductswapdecemberlicense |  
+| bip_39_word_no_space_5 | conductswapdecemberlicenseatom |  
+| bip_39_word_no_space_6 | conductswapdecemberlicenseatomasthma |  
+| bip_39_word_no_space_7 | conductswapdecemberlicenseatomasthmamelt |  
+| bip_39_word_no_space_8 | conductswapdecemberlicenseatomasthmameltclog |  
+| bip_39_word_no_space_9 | conductswapdecemberlicenseatomasthmameltclogeyebrow |  
 | bip_39_word_space_0 | ['conduct', 'swap', 'december', 'license', 'atom', 'asthma', 'melt', 'clog', 'eyebrow', 'flat', 'track', 'advance'] |  
 | bip_39_word_space_1 | conduct |  
 | bip_39_word_space_10 | conduct swap december license atom asthma melt clog eyebrow flat |  

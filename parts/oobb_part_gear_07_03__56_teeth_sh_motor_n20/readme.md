@@ -122,6 +122,18 @@ churn
 snake
 bike
 foil |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulobeyadjustsailclinicchurnsnakebikefoilportion |  
+| bip_39_word_no_space_11 | usefulobeyadjustsailclinicchurnsnakebikefoilportiondose |  
+| bip_39_word_no_space_12 | usefulobeyadjustsailclinicchurnsnakebikefoilportiondoseaccuse |  
+| bip_39_word_no_space_2 | usefulobey |  
+| bip_39_word_no_space_3 | usefulobeyadjust |  
+| bip_39_word_no_space_4 | usefulobeyadjustsail |  
+| bip_39_word_no_space_5 | usefulobeyadjustsailclinic |  
+| bip_39_word_no_space_6 | usefulobeyadjustsailclinicchurn |  
+| bip_39_word_no_space_7 | usefulobeyadjustsailclinicchurnsnake |  
+| bip_39_word_no_space_8 | usefulobeyadjustsailclinicchurnsnakebike |  
+| bip_39_word_no_space_9 | usefulobeyadjustsailclinicchurnsnakebikefoil |  
 | bip_39_word_space_0 | ['useful', 'obey', 'adjust', 'sail', 'clinic', 'churn', 'snake', 'bike', 'foil', 'portion', 'dose', 'accuse'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful obey adjust sail clinic churn snake bike foil portion |  

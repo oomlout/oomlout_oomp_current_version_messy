@@ -122,6 +122,18 @@ always
 caught
 toward
 kit |  
+| bip_39_word_no_space_1 | find |  
+| bip_39_word_no_space_10 | finddaughterabstractshadowspringalwayscaughttowardkitbarrel |  
+| bip_39_word_no_space_11 | finddaughterabstractshadowspringalwayscaughttowardkitbarreldentist |  
+| bip_39_word_no_space_12 | finddaughterabstractshadowspringalwayscaughttowardkitbarreldentistalready |  
+| bip_39_word_no_space_2 | finddaughter |  
+| bip_39_word_no_space_3 | finddaughterabstract |  
+| bip_39_word_no_space_4 | finddaughterabstractshadow |  
+| bip_39_word_no_space_5 | finddaughterabstractshadowspring |  
+| bip_39_word_no_space_6 | finddaughterabstractshadowspringalways |  
+| bip_39_word_no_space_7 | finddaughterabstractshadowspringalwayscaught |  
+| bip_39_word_no_space_8 | finddaughterabstractshadowspringalwayscaughttoward |  
+| bip_39_word_no_space_9 | finddaughterabstractshadowspringalwayscaughttowardkit |  
 | bip_39_word_space_0 | ['find', 'daughter', 'abstract', 'shadow', 'spring', 'always', 'caught', 'toward', 'kit', 'barrel', 'dentist', 'already'] |  
 | bip_39_word_space_1 | find |  
 | bip_39_word_space_10 | find daughter abstract shadow spring always caught toward kit barrel |  

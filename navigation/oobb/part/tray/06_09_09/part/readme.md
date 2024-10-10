@@ -122,6 +122,18 @@ history
 segment
 aware
 island |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgebombtennislobstergrapehistorysegmentawareislandclient |  
+| bip_39_word_no_space_11 | judgebombtennislobstergrapehistorysegmentawareislandclientluxury |  
+| bip_39_word_no_space_12 | judgebombtennislobstergrapehistorysegmentawareislandclientluxuryartefact |  
+| bip_39_word_no_space_2 | judgebomb |  
+| bip_39_word_no_space_3 | judgebombtennis |  
+| bip_39_word_no_space_4 | judgebombtennislobster |  
+| bip_39_word_no_space_5 | judgebombtennislobstergrape |  
+| bip_39_word_no_space_6 | judgebombtennislobstergrapehistory |  
+| bip_39_word_no_space_7 | judgebombtennislobstergrapehistorysegment |  
+| bip_39_word_no_space_8 | judgebombtennislobstergrapehistorysegmentaware |  
+| bip_39_word_no_space_9 | judgebombtennislobstergrapehistorysegmentawareisland |  
 | bip_39_word_space_0 | ['judge', 'bomb', 'tennis', 'lobster', 'grape', 'history', 'segment', 'aware', 'island', 'client', 'luxury', 'artefact'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge bomb tennis lobster grape history segment aware island client |  

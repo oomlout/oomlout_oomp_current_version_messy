@@ -122,6 +122,18 @@ chunk
 soon
 street
 swing |  
+| bip_39_word_no_space_1 | skin |  
+| bip_39_word_no_space_10 | skintentvaliddinosaurwonderchunksoonstreetswingstairs |  
+| bip_39_word_no_space_11 | skintentvaliddinosaurwonderchunksoonstreetswingstairsantenna |  
+| bip_39_word_no_space_12 | skintentvaliddinosaurwonderchunksoonstreetswingstairsantennaapprove |  
+| bip_39_word_no_space_2 | skintent |  
+| bip_39_word_no_space_3 | skintentvalid |  
+| bip_39_word_no_space_4 | skintentvaliddinosaur |  
+| bip_39_word_no_space_5 | skintentvaliddinosaurwonder |  
+| bip_39_word_no_space_6 | skintentvaliddinosaurwonderchunk |  
+| bip_39_word_no_space_7 | skintentvaliddinosaurwonderchunksoon |  
+| bip_39_word_no_space_8 | skintentvaliddinosaurwonderchunksoonstreet |  
+| bip_39_word_no_space_9 | skintentvaliddinosaurwonderchunksoonstreetswing |  
 | bip_39_word_space_0 | ['skin', 'tent', 'valid', 'dinosaur', 'wonder', 'chunk', 'soon', 'street', 'swing', 'stairs', 'antenna', 'approve'] |  
 | bip_39_word_space_1 | skin |  
 | bip_39_word_space_10 | skin tent valid dinosaur wonder chunk soon street swing stairs |  

@@ -122,6 +122,18 @@ rapid
 train
 round
 major |  
+| bip_39_word_no_space_1 | satoshi |  
+| bip_39_word_no_space_10 | satoshigorillaeightmeltparrotrapidtrainroundmajortwelve |  
+| bip_39_word_no_space_11 | satoshigorillaeightmeltparrotrapidtrainroundmajortwelveshoe |  
+| bip_39_word_no_space_12 | satoshigorillaeightmeltparrotrapidtrainroundmajortwelveshoearrest |  
+| bip_39_word_no_space_2 | satoshigorilla |  
+| bip_39_word_no_space_3 | satoshigorillaeight |  
+| bip_39_word_no_space_4 | satoshigorillaeightmelt |  
+| bip_39_word_no_space_5 | satoshigorillaeightmeltparrot |  
+| bip_39_word_no_space_6 | satoshigorillaeightmeltparrotrapid |  
+| bip_39_word_no_space_7 | satoshigorillaeightmeltparrotrapidtrain |  
+| bip_39_word_no_space_8 | satoshigorillaeightmeltparrotrapidtrainround |  
+| bip_39_word_no_space_9 | satoshigorillaeightmeltparrotrapidtrainroundmajor |  
 | bip_39_word_space_0 | ['satoshi', 'gorilla', 'eight', 'melt', 'parrot', 'rapid', 'train', 'round', 'major', 'twelve', 'shoe', 'arrest'] |  
 | bip_39_word_space_1 | satoshi |  
 | bip_39_word_space_10 | satoshi gorilla eight melt parrot rapid train round major twelve |  

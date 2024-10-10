@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'below
   spoil
 
   other'
+bip_39_word_no_space_1: below
+bip_39_word_no_space_10: belowbudgetcutemailpausemainerrorspoilotherdivert
+bip_39_word_no_space_11: belowbudgetcutemailpausemainerrorspoilotherdivertsection
+bip_39_word_no_space_12: belowbudgetcutemailpausemainerrorspoilotherdivertsectionallow
+bip_39_word_no_space_2: belowbudget
+bip_39_word_no_space_3: belowbudgetcute
+bip_39_word_no_space_4: belowbudgetcutemail
+bip_39_word_no_space_5: belowbudgetcutemailpause
+bip_39_word_no_space_6: belowbudgetcutemailpausemain
+bip_39_word_no_space_7: belowbudgetcutemailpausemainerror
+bip_39_word_no_space_8: belowbudgetcutemailpausemainerrorspoil
+bip_39_word_no_space_9: belowbudgetcutemailpausemainerrorspoilother
 bip_39_word_space_0:
 - below
 - budget

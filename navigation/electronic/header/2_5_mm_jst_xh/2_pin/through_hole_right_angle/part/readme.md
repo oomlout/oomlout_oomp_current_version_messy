@@ -122,6 +122,18 @@ property
 frog
 female
 immense |  
+| bip_39_word_no_space_1 | enact |  
+| bip_39_word_no_space_10 | enactcameraalarmwireengagepropertyfrogfemaleimmensehistory |  
+| bip_39_word_no_space_11 | enactcameraalarmwireengagepropertyfrogfemaleimmensehistoryindustry |  
+| bip_39_word_no_space_12 | enactcameraalarmwireengagepropertyfrogfemaleimmensehistoryindustryautumn |  
+| bip_39_word_no_space_2 | enactcamera |  
+| bip_39_word_no_space_3 | enactcameraalarm |  
+| bip_39_word_no_space_4 | enactcameraalarmwire |  
+| bip_39_word_no_space_5 | enactcameraalarmwireengage |  
+| bip_39_word_no_space_6 | enactcameraalarmwireengageproperty |  
+| bip_39_word_no_space_7 | enactcameraalarmwireengagepropertyfrog |  
+| bip_39_word_no_space_8 | enactcameraalarmwireengagepropertyfrogfemale |  
+| bip_39_word_no_space_9 | enactcameraalarmwireengagepropertyfrogfemaleimmense |  
 | bip_39_word_space_0 | ['enact', 'camera', 'alarm', 'wire', 'engage', 'property', 'frog', 'female', 'immense', 'history', 'industry', 'autumn'] |  
 | bip_39_word_space_1 | enact |  
 | bip_39_word_space_10 | enact camera alarm wire engage property frog female immense history |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lumber
   silly
 
   expire'
+bip_39_word_no_space_1: lumber
+bip_39_word_no_space_10: lumbershadowislandshovesparetalktheresillyexpirebase
+bip_39_word_no_space_11: lumbershadowislandshovesparetalktheresillyexpirebasearmor
+bip_39_word_no_space_12: lumbershadowislandshovesparetalktheresillyexpirebasearmoraddress
+bip_39_word_no_space_2: lumbershadow
+bip_39_word_no_space_3: lumbershadowisland
+bip_39_word_no_space_4: lumbershadowislandshove
+bip_39_word_no_space_5: lumbershadowislandshovespare
+bip_39_word_no_space_6: lumbershadowislandshovesparetalk
+bip_39_word_no_space_7: lumbershadowislandshovesparetalkthere
+bip_39_word_no_space_8: lumbershadowislandshovesparetalktheresilly
+bip_39_word_no_space_9: lumbershadowislandshovesparetalktheresillyexpire
 bip_39_word_space_0:
 - lumber
 - shadow

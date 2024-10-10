@@ -122,6 +122,18 @@ giant
 misery
 kiss
 kite |  
+| bip_39_word_no_space_1 | glance |  
+| bip_39_word_no_space_10 | glanceescapelivefurygapgiantmiserykisskitealley |  
+| bip_39_word_no_space_11 | glanceescapelivefurygapgiantmiserykisskitealleymetal |  
+| bip_39_word_no_space_12 | glanceescapelivefurygapgiantmiserykisskitealleymetalaim |  
+| bip_39_word_no_space_2 | glanceescape |  
+| bip_39_word_no_space_3 | glanceescapelive |  
+| bip_39_word_no_space_4 | glanceescapelivefury |  
+| bip_39_word_no_space_5 | glanceescapelivefurygap |  
+| bip_39_word_no_space_6 | glanceescapelivefurygapgiant |  
+| bip_39_word_no_space_7 | glanceescapelivefurygapgiantmisery |  
+| bip_39_word_no_space_8 | glanceescapelivefurygapgiantmiserykiss |  
+| bip_39_word_no_space_9 | glanceescapelivefurygapgiantmiserykisskite |  
 | bip_39_word_space_0 | ['glance', 'escape', 'live', 'fury', 'gap', 'giant', 'misery', 'kiss', 'kite', 'alley', 'metal', 'aim'] |  
 | bip_39_word_space_1 | glance |  
 | bip_39_word_space_10 | glance escape live fury gap giant misery kiss kite alley |  

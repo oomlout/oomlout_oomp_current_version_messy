@@ -122,6 +122,18 @@ chat
 donor
 turtle
 good |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | selllimitdieseldependfaintchatdonorturtlegoodgalaxy |  
+| bip_39_word_no_space_11 | selllimitdieseldependfaintchatdonorturtlegoodgalaxyfine |  
+| bip_39_word_no_space_12 | selllimitdieseldependfaintchatdonorturtlegoodgalaxyfinealley |  
+| bip_39_word_no_space_2 | selllimit |  
+| bip_39_word_no_space_3 | selllimitdiesel |  
+| bip_39_word_no_space_4 | selllimitdieseldepend |  
+| bip_39_word_no_space_5 | selllimitdieseldependfaint |  
+| bip_39_word_no_space_6 | selllimitdieseldependfaintchat |  
+| bip_39_word_no_space_7 | selllimitdieseldependfaintchatdonor |  
+| bip_39_word_no_space_8 | selllimitdieseldependfaintchatdonorturtle |  
+| bip_39_word_no_space_9 | selllimitdieseldependfaintchatdonorturtlegood |  
 | bip_39_word_space_0 | ['sell', 'limit', 'diesel', 'depend', 'faint', 'chat', 'donor', 'turtle', 'good', 'galaxy', 'fine', 'alley'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell limit diesel depend faint chat donor turtle good galaxy |  

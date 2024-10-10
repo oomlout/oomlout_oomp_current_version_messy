@@ -122,6 +122,18 @@ sing
 ship
 used
 weasel |  
+| bip_39_word_no_space_1 | language |  
+| bip_39_word_no_space_10 | languagefabrictankpuddingeditsingshipusedweaselplug |  
+| bip_39_word_no_space_11 | languagefabrictankpuddingeditsingshipusedweaselplugbrick |  
+| bip_39_word_no_space_12 | languagefabrictankpuddingeditsingshipusedweaselplugbrickapprove |  
+| bip_39_word_no_space_2 | languagefabric |  
+| bip_39_word_no_space_3 | languagefabrictank |  
+| bip_39_word_no_space_4 | languagefabrictankpudding |  
+| bip_39_word_no_space_5 | languagefabrictankpuddingedit |  
+| bip_39_word_no_space_6 | languagefabrictankpuddingeditsing |  
+| bip_39_word_no_space_7 | languagefabrictankpuddingeditsingship |  
+| bip_39_word_no_space_8 | languagefabrictankpuddingeditsingshipused |  
+| bip_39_word_no_space_9 | languagefabrictankpuddingeditsingshipusedweasel |  
 | bip_39_word_space_0 | ['language', 'fabric', 'tank', 'pudding', 'edit', 'sing', 'ship', 'used', 'weasel', 'plug', 'brick', 'approve'] |  
 | bip_39_word_space_1 | language |  
 | bip_39_word_space_10 | language fabric tank pudding edit sing ship used weasel plug |  

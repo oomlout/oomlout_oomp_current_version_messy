@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'water
   dizzy
 
   ocean'
+bip_39_word_no_space_1: water
+bip_39_word_no_space_10: waterurgehurdlesponsorvaguesearchemploydizzyoceansyrup
+bip_39_word_no_space_11: waterurgehurdlesponsorvaguesearchemploydizzyoceansyruprose
+bip_39_word_no_space_12: waterurgehurdlesponsorvaguesearchemploydizzyoceansyruproseacross
+bip_39_word_no_space_2: waterurge
+bip_39_word_no_space_3: waterurgehurdle
+bip_39_word_no_space_4: waterurgehurdlesponsor
+bip_39_word_no_space_5: waterurgehurdlesponsorvague
+bip_39_word_no_space_6: waterurgehurdlesponsorvaguesearch
+bip_39_word_no_space_7: waterurgehurdlesponsorvaguesearchemploy
+bip_39_word_no_space_8: waterurgehurdlesponsorvaguesearchemploydizzy
+bip_39_word_no_space_9: waterurgehurdlesponsorvaguesearchemploydizzyocean
 bip_39_word_space_0:
 - water
 - urge

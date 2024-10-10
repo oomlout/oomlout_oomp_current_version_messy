@@ -122,6 +122,18 @@ opera
 shoulder
 sibling
 size |  
+| bip_39_word_no_space_1 | double |  
+| bip_39_word_no_space_10 | doublehandbusyrunvintageoperashouldersiblingsizeprice |  
+| bip_39_word_no_space_11 | doublehandbusyrunvintageoperashouldersiblingsizepricework |  
+| bip_39_word_no_space_12 | doublehandbusyrunvintageoperashouldersiblingsizepriceworkarena |  
+| bip_39_word_no_space_2 | doublehand |  
+| bip_39_word_no_space_3 | doublehandbusy |  
+| bip_39_word_no_space_4 | doublehandbusyrun |  
+| bip_39_word_no_space_5 | doublehandbusyrunvintage |  
+| bip_39_word_no_space_6 | doublehandbusyrunvintageopera |  
+| bip_39_word_no_space_7 | doublehandbusyrunvintageoperashoulder |  
+| bip_39_word_no_space_8 | doublehandbusyrunvintageoperashouldersibling |  
+| bip_39_word_no_space_9 | doublehandbusyrunvintageoperashouldersiblingsize |  
 | bip_39_word_space_0 | ['double', 'hand', 'busy', 'run', 'vintage', 'opera', 'shoulder', 'sibling', 'size', 'price', 'work', 'arena'] |  
 | bip_39_word_space_1 | double |  
 | bip_39_word_space_10 | double hand busy run vintage opera shoulder sibling size price |  

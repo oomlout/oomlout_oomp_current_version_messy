@@ -122,6 +122,18 @@ please
 copy
 fitness
 gloom |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzerebuildpracticeinspiresegmentpleasecopyfitnessgloomstruggle |  
+| bip_39_word_no_space_11 | bronzerebuildpracticeinspiresegmentpleasecopyfitnessgloomstrugglenoise |  
+| bip_39_word_no_space_12 | bronzerebuildpracticeinspiresegmentpleasecopyfitnessgloomstrugglenoiseaverage |  
+| bip_39_word_no_space_2 | bronzerebuild |  
+| bip_39_word_no_space_3 | bronzerebuildpractice |  
+| bip_39_word_no_space_4 | bronzerebuildpracticeinspire |  
+| bip_39_word_no_space_5 | bronzerebuildpracticeinspiresegment |  
+| bip_39_word_no_space_6 | bronzerebuildpracticeinspiresegmentplease |  
+| bip_39_word_no_space_7 | bronzerebuildpracticeinspiresegmentpleasecopy |  
+| bip_39_word_no_space_8 | bronzerebuildpracticeinspiresegmentpleasecopyfitness |  
+| bip_39_word_no_space_9 | bronzerebuildpracticeinspiresegmentpleasecopyfitnessgloom |  
 | bip_39_word_space_0 | ['bronze', 'rebuild', 'practice', 'inspire', 'segment', 'please', 'copy', 'fitness', 'gloom', 'struggle', 'noise', 'average'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze rebuild practice inspire segment please copy fitness gloom struggle |  

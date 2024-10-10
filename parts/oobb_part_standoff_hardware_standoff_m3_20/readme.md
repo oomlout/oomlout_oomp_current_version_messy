@@ -122,6 +122,18 @@ dry
 fan
 hobby
 flavor |  
+| bip_39_word_no_space_1 | divorce |  
+| bip_39_word_no_space_10 | divorcelefttruckignoresausagedryfanhobbyflavornasty |  
+| bip_39_word_no_space_11 | divorcelefttruckignoresausagedryfanhobbyflavornastyincrease |  
+| bip_39_word_no_space_12 | divorcelefttruckignoresausagedryfanhobbyflavornastyincreaseadvice |  
+| bip_39_word_no_space_2 | divorceleft |  
+| bip_39_word_no_space_3 | divorcelefttruck |  
+| bip_39_word_no_space_4 | divorcelefttruckignore |  
+| bip_39_word_no_space_5 | divorcelefttruckignoresausage |  
+| bip_39_word_no_space_6 | divorcelefttruckignoresausagedry |  
+| bip_39_word_no_space_7 | divorcelefttruckignoresausagedryfan |  
+| bip_39_word_no_space_8 | divorcelefttruckignoresausagedryfanhobby |  
+| bip_39_word_no_space_9 | divorcelefttruckignoresausagedryfanhobbyflavor |  
 | bip_39_word_space_0 | ['divorce', 'left', 'truck', 'ignore', 'sausage', 'dry', 'fan', 'hobby', 'flavor', 'nasty', 'increase', 'advice'] |  
 | bip_39_word_space_1 | divorce |  
 | bip_39_word_space_10 | divorce left truck ignore sausage dry fan hobby flavor nasty |  

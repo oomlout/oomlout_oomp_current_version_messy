@@ -122,6 +122,18 @@ history
 kingdom
 noodle
 dentist |  
+| bip_39_word_no_space_1 | barrel |  
+| bip_39_word_no_space_10 | barreldrumchickenwindowdresshistorykingdomnoodledentistbeach |  
+| bip_39_word_no_space_11 | barreldrumchickenwindowdresshistorykingdomnoodledentistbeacherosion |  
+| bip_39_word_no_space_12 | barreldrumchickenwindowdresshistorykingdomnoodledentistbeacherosionabstract |  
+| bip_39_word_no_space_2 | barreldrum |  
+| bip_39_word_no_space_3 | barreldrumchicken |  
+| bip_39_word_no_space_4 | barreldrumchickenwindow |  
+| bip_39_word_no_space_5 | barreldrumchickenwindowdress |  
+| bip_39_word_no_space_6 | barreldrumchickenwindowdresshistory |  
+| bip_39_word_no_space_7 | barreldrumchickenwindowdresshistorykingdom |  
+| bip_39_word_no_space_8 | barreldrumchickenwindowdresshistorykingdomnoodle |  
+| bip_39_word_no_space_9 | barreldrumchickenwindowdresshistorykingdomnoodledentist |  
 | bip_39_word_space_0 | ['barrel', 'drum', 'chicken', 'window', 'dress', 'history', 'kingdom', 'noodle', 'dentist', 'beach', 'erosion', 'abstract'] |  
 | bip_39_word_space_1 | barrel |  
 | bip_39_word_space_10 | barrel drum chicken window dress history kingdom noodle dentist beach |  

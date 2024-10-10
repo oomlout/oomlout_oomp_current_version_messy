@@ -122,6 +122,18 @@ merry
 frozen
 vessel
 clever |  
+| bip_39_word_no_space_1 | youth |  
+| bip_39_word_no_space_10 | youthlibertyattractplungeenvelopemerryfrozenvesselcleverexplain |  
+| bip_39_word_no_space_11 | youthlibertyattractplungeenvelopemerryfrozenvesselcleverexplainclever |  
+| bip_39_word_no_space_12 | youthlibertyattractplungeenvelopemerryfrozenvesselcleverexplaincleverattend |  
+| bip_39_word_no_space_2 | youthliberty |  
+| bip_39_word_no_space_3 | youthlibertyattract |  
+| bip_39_word_no_space_4 | youthlibertyattractplunge |  
+| bip_39_word_no_space_5 | youthlibertyattractplungeenvelope |  
+| bip_39_word_no_space_6 | youthlibertyattractplungeenvelopemerry |  
+| bip_39_word_no_space_7 | youthlibertyattractplungeenvelopemerryfrozen |  
+| bip_39_word_no_space_8 | youthlibertyattractplungeenvelopemerryfrozenvessel |  
+| bip_39_word_no_space_9 | youthlibertyattractplungeenvelopemerryfrozenvesselclever |  
 | bip_39_word_space_0 | ['youth', 'liberty', 'attract', 'plunge', 'envelope', 'merry', 'frozen', 'vessel', 'clever', 'explain', 'clever', 'attend'] |  
 | bip_39_word_space_1 | youth |  
 | bip_39_word_space_10 | youth liberty attract plunge envelope merry frozen vessel clever explain |  

@@ -122,6 +122,18 @@ general
 never
 woman
 alone |  
+| bip_39_word_no_space_1 | ecology |  
+| bip_39_word_no_space_10 | ecologycasualinsanedoghammergeneralneverwomanalonerhythm |  
+| bip_39_word_no_space_11 | ecologycasualinsanedoghammergeneralneverwomanalonerhythmyou |  
+| bip_39_word_no_space_12 | ecologycasualinsanedoghammergeneralneverwomanalonerhythmyouallow |  
+| bip_39_word_no_space_2 | ecologycasual |  
+| bip_39_word_no_space_3 | ecologycasualinsane |  
+| bip_39_word_no_space_4 | ecologycasualinsanedog |  
+| bip_39_word_no_space_5 | ecologycasualinsanedoghammer |  
+| bip_39_word_no_space_6 | ecologycasualinsanedoghammergeneral |  
+| bip_39_word_no_space_7 | ecologycasualinsanedoghammergeneralnever |  
+| bip_39_word_no_space_8 | ecologycasualinsanedoghammergeneralneverwoman |  
+| bip_39_word_no_space_9 | ecologycasualinsanedoghammergeneralneverwomanalone |  
 | bip_39_word_space_0 | ['ecology', 'casual', 'insane', 'dog', 'hammer', 'general', 'never', 'woman', 'alone', 'rhythm', 'you', 'allow'] |  
 | bip_39_word_space_1 | ecology |  
 | bip_39_word_space_10 | ecology casual insane dog hammer general never woman alone rhythm |  

@@ -122,6 +122,18 @@ gaze
 trick
 view
 lunch |  
+| bip_39_word_no_space_1 | later |  
+| bip_39_word_no_space_10 | laterecologytroublepelicanincludegazetrickviewlunchturtle |  
+| bip_39_word_no_space_11 | laterecologytroublepelicanincludegazetrickviewlunchturtlejacket |  
+| bip_39_word_no_space_12 | laterecologytroublepelicanincludegazetrickviewlunchturtlejacketarmor |  
+| bip_39_word_no_space_2 | laterecology |  
+| bip_39_word_no_space_3 | laterecologytrouble |  
+| bip_39_word_no_space_4 | laterecologytroublepelican |  
+| bip_39_word_no_space_5 | laterecologytroublepelicaninclude |  
+| bip_39_word_no_space_6 | laterecologytroublepelicanincludegaze |  
+| bip_39_word_no_space_7 | laterecologytroublepelicanincludegazetrick |  
+| bip_39_word_no_space_8 | laterecologytroublepelicanincludegazetrickview |  
+| bip_39_word_no_space_9 | laterecologytroublepelicanincludegazetrickviewlunch |  
 | bip_39_word_space_0 | ['later', 'ecology', 'trouble', 'pelican', 'include', 'gaze', 'trick', 'view', 'lunch', 'turtle', 'jacket', 'armor'] |  
 | bip_39_word_space_1 | later |  
 | bip_39_word_space_10 | later ecology trouble pelican include gaze trick view lunch turtle |  

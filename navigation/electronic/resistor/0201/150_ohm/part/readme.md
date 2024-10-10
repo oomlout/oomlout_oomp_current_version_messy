@@ -122,6 +122,18 @@ despair
 rigid
 lend
 hand |  
+| bip_39_word_no_space_1 | morning |  
+| bip_39_word_no_space_10 | morningfeedbuddypatchphotodespairrigidlendhandtaste |  
+| bip_39_word_no_space_11 | morningfeedbuddypatchphotodespairrigidlendhandtasteattract |  
+| bip_39_word_no_space_12 | morningfeedbuddypatchphotodespairrigidlendhandtasteattractannounce |  
+| bip_39_word_no_space_2 | morningfeed |  
+| bip_39_word_no_space_3 | morningfeedbuddy |  
+| bip_39_word_no_space_4 | morningfeedbuddypatch |  
+| bip_39_word_no_space_5 | morningfeedbuddypatchphoto |  
+| bip_39_word_no_space_6 | morningfeedbuddypatchphotodespair |  
+| bip_39_word_no_space_7 | morningfeedbuddypatchphotodespairrigid |  
+| bip_39_word_no_space_8 | morningfeedbuddypatchphotodespairrigidlend |  
+| bip_39_word_no_space_9 | morningfeedbuddypatchphotodespairrigidlendhand |  
 | bip_39_word_space_0 | ['morning', 'feed', 'buddy', 'patch', 'photo', 'despair', 'rigid', 'lend', 'hand', 'taste', 'attract', 'announce'] |  
 | bip_39_word_space_1 | morning |  
 | bip_39_word_space_10 | morning feed buddy patch photo despair rigid lend hand taste |  

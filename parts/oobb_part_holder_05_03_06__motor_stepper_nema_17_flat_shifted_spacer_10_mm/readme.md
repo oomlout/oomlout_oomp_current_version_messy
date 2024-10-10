@@ -122,6 +122,18 @@ dismiss
 ritual
 primary
 noodle |  
+| bip_39_word_no_space_1 | nominee |  
+| bip_39_word_no_space_10 | nomineehotelgravityanythumbdismissritualprimarynoodleinvest |  
+| bip_39_word_no_space_11 | nomineehotelgravityanythumbdismissritualprimarynoodleinvesttobacco |  
+| bip_39_word_no_space_12 | nomineehotelgravityanythumbdismissritualprimarynoodleinvesttobaccoapart |  
+| bip_39_word_no_space_2 | nomineehotel |  
+| bip_39_word_no_space_3 | nomineehotelgravity |  
+| bip_39_word_no_space_4 | nomineehotelgravityany |  
+| bip_39_word_no_space_5 | nomineehotelgravityanythumb |  
+| bip_39_word_no_space_6 | nomineehotelgravityanythumbdismiss |  
+| bip_39_word_no_space_7 | nomineehotelgravityanythumbdismissritual |  
+| bip_39_word_no_space_8 | nomineehotelgravityanythumbdismissritualprimary |  
+| bip_39_word_no_space_9 | nomineehotelgravityanythumbdismissritualprimarynoodle |  
 | bip_39_word_space_0 | ['nominee', 'hotel', 'gravity', 'any', 'thumb', 'dismiss', 'ritual', 'primary', 'noodle', 'invest', 'tobacco', 'apart'] |  
 | bip_39_word_space_1 | nominee |  
 | bip_39_word_space_10 | nominee hotel gravity any thumb dismiss ritual primary noodle invest |  

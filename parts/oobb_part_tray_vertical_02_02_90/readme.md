@@ -122,6 +122,18 @@ inject
 behave
 truly
 access |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungepatterntreegadgetcrimeinjectbehavetrulyaccessclick |  
+| bip_39_word_no_space_11 | plungepatterntreegadgetcrimeinjectbehavetrulyaccessclickrepeat |  
+| bip_39_word_no_space_12 | plungepatterntreegadgetcrimeinjectbehavetrulyaccessclickrepeatattract |  
+| bip_39_word_no_space_2 | plungepattern |  
+| bip_39_word_no_space_3 | plungepatterntree |  
+| bip_39_word_no_space_4 | plungepatterntreegadget |  
+| bip_39_word_no_space_5 | plungepatterntreegadgetcrime |  
+| bip_39_word_no_space_6 | plungepatterntreegadgetcrimeinject |  
+| bip_39_word_no_space_7 | plungepatterntreegadgetcrimeinjectbehave |  
+| bip_39_word_no_space_8 | plungepatterntreegadgetcrimeinjectbehavetruly |  
+| bip_39_word_no_space_9 | plungepatterntreegadgetcrimeinjectbehavetrulyaccess |  
 | bip_39_word_space_0 | ['plunge', 'pattern', 'tree', 'gadget', 'crime', 'inject', 'behave', 'truly', 'access', 'click', 'repeat', 'attract'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge pattern tree gadget crime inject behave truly access click |  

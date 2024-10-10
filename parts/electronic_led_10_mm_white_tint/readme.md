@@ -122,6 +122,18 @@ rotate
 shoe
 tennis
 monster |  
+| bip_39_word_no_space_1 | document |  
+| bip_39_word_no_space_10 | documentdifferwealthnotefloorrotateshoetennismonsterenforce |  
+| bip_39_word_no_space_11 | documentdifferwealthnotefloorrotateshoetennismonsterenforcelive |  
+| bip_39_word_no_space_12 | documentdifferwealthnotefloorrotateshoetennismonsterenforceliveactual |  
+| bip_39_word_no_space_2 | documentdiffer |  
+| bip_39_word_no_space_3 | documentdifferwealth |  
+| bip_39_word_no_space_4 | documentdifferwealthnote |  
+| bip_39_word_no_space_5 | documentdifferwealthnotefloor |  
+| bip_39_word_no_space_6 | documentdifferwealthnotefloorrotate |  
+| bip_39_word_no_space_7 | documentdifferwealthnotefloorrotateshoe |  
+| bip_39_word_no_space_8 | documentdifferwealthnotefloorrotateshoetennis |  
+| bip_39_word_no_space_9 | documentdifferwealthnotefloorrotateshoetennismonster |  
 | bip_39_word_space_0 | ['document', 'differ', 'wealth', 'note', 'floor', 'rotate', 'shoe', 'tennis', 'monster', 'enforce', 'live', 'actual'] |  
 | bip_39_word_space_1 | document |  
 | bip_39_word_space_10 | document differ wealth note floor rotate shoe tennis monster enforce |  

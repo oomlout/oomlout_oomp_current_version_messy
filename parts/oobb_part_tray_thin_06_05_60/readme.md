@@ -122,6 +122,18 @@ hidden
 mixture
 keep
 lazy |  
+| bip_39_word_no_space_1 | bird |  
+| bip_39_word_no_space_10 | birdfitleaffatalsniffhiddenmixturekeeplazytarget |  
+| bip_39_word_no_space_11 | birdfitleaffatalsniffhiddenmixturekeeplazytargetunknown |  
+| bip_39_word_no_space_12 | birdfitleaffatalsniffhiddenmixturekeeplazytargetunknownadult |  
+| bip_39_word_no_space_2 | birdfit |  
+| bip_39_word_no_space_3 | birdfitleaf |  
+| bip_39_word_no_space_4 | birdfitleaffatal |  
+| bip_39_word_no_space_5 | birdfitleaffatalsniff |  
+| bip_39_word_no_space_6 | birdfitleaffatalsniffhidden |  
+| bip_39_word_no_space_7 | birdfitleaffatalsniffhiddenmixture |  
+| bip_39_word_no_space_8 | birdfitleaffatalsniffhiddenmixturekeep |  
+| bip_39_word_no_space_9 | birdfitleaffatalsniffhiddenmixturekeeplazy |  
 | bip_39_word_space_0 | ['bird', 'fit', 'leaf', 'fatal', 'sniff', 'hidden', 'mixture', 'keep', 'lazy', 'target', 'unknown', 'adult'] |  
 | bip_39_word_space_1 | bird |  
 | bip_39_word_space_10 | bird fit leaf fatal sniff hidden mixture keep lazy target |  

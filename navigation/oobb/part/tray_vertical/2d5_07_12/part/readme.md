@@ -122,6 +122,18 @@ resemble
 stone
 recycle
 trigger |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorspawnturninjectmoveresemblestonerecycletriggerpudding |  
+| bip_39_word_no_space_11 | floorspawnturninjectmoveresemblestonerecycletriggerpuddingvacant |  
+| bip_39_word_no_space_12 | floorspawnturninjectmoveresemblestonerecycletriggerpuddingvacantagain |  
+| bip_39_word_no_space_2 | floorspawn |  
+| bip_39_word_no_space_3 | floorspawnturn |  
+| bip_39_word_no_space_4 | floorspawnturninject |  
+| bip_39_word_no_space_5 | floorspawnturninjectmove |  
+| bip_39_word_no_space_6 | floorspawnturninjectmoveresemble |  
+| bip_39_word_no_space_7 | floorspawnturninjectmoveresemblestone |  
+| bip_39_word_no_space_8 | floorspawnturninjectmoveresemblestonerecycle |  
+| bip_39_word_no_space_9 | floorspawnturninjectmoveresemblestonerecycletrigger |  
 | bip_39_word_space_0 | ['floor', 'spawn', 'turn', 'inject', 'move', 'resemble', 'stone', 'recycle', 'trigger', 'pudding', 'vacant', 'again'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor spawn turn inject move resemble stone recycle trigger pudding |  

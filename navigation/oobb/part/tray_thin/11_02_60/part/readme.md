@@ -122,6 +122,18 @@ private
 addict
 refuse
 enemy |  
+| bip_39_word_no_space_1 | dash |  
+| bip_39_word_no_space_10 | dashaislesmalleastmarchprivateaddictrefuseenemycrouch |  
+| bip_39_word_no_space_11 | dashaislesmalleastmarchprivateaddictrefuseenemycrouchengine |  
+| bip_39_word_no_space_12 | dashaislesmalleastmarchprivateaddictrefuseenemycrouchengineantenna |  
+| bip_39_word_no_space_2 | dashaisle |  
+| bip_39_word_no_space_3 | dashaislesmall |  
+| bip_39_word_no_space_4 | dashaislesmalleast |  
+| bip_39_word_no_space_5 | dashaislesmalleastmarch |  
+| bip_39_word_no_space_6 | dashaislesmalleastmarchprivate |  
+| bip_39_word_no_space_7 | dashaislesmalleastmarchprivateaddict |  
+| bip_39_word_no_space_8 | dashaislesmalleastmarchprivateaddictrefuse |  
+| bip_39_word_no_space_9 | dashaislesmalleastmarchprivateaddictrefuseenemy |  
 | bip_39_word_space_0 | ['dash', 'aisle', 'small', 'east', 'march', 'private', 'addict', 'refuse', 'enemy', 'crouch', 'engine', 'antenna'] |  
 | bip_39_word_space_1 | dash |  
 | bip_39_word_space_10 | dash aisle small east march private addict refuse enemy crouch |  

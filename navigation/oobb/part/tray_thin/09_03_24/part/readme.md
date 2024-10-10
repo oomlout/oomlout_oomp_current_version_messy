@@ -122,6 +122,18 @@ vessel
 century
 mass
 damage |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddlestadiumuncoverflagbookvesselcenturymassdamagemind |  
+| bip_39_word_no_space_11 | saddlestadiumuncoverflagbookvesselcenturymassdamagemindremove |  
+| bip_39_word_no_space_12 | saddlestadiumuncoverflagbookvesselcenturymassdamagemindremovearena |  
+| bip_39_word_no_space_2 | saddlestadium |  
+| bip_39_word_no_space_3 | saddlestadiumuncover |  
+| bip_39_word_no_space_4 | saddlestadiumuncoverflag |  
+| bip_39_word_no_space_5 | saddlestadiumuncoverflagbook |  
+| bip_39_word_no_space_6 | saddlestadiumuncoverflagbookvessel |  
+| bip_39_word_no_space_7 | saddlestadiumuncoverflagbookvesselcentury |  
+| bip_39_word_no_space_8 | saddlestadiumuncoverflagbookvesselcenturymass |  
+| bip_39_word_no_space_9 | saddlestadiumuncoverflagbookvesselcenturymassdamage |  
 | bip_39_word_space_0 | ['saddle', 'stadium', 'uncover', 'flag', 'book', 'vessel', 'century', 'mass', 'damage', 'mind', 'remove', 'arena'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle stadium uncover flag book vessel century mass damage mind |  

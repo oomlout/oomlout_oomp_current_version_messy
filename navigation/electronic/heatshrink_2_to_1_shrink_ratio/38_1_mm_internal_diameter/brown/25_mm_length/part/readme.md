@@ -122,6 +122,18 @@ minimum
 solar
 domain
 civil |  
+| bip_39_word_no_space_1 | funny |  
+| bip_39_word_no_space_10 | funnycarrydonorgasmoreminimumsolardomaincivilcrazy |  
+| bip_39_word_no_space_11 | funnycarrydonorgasmoreminimumsolardomaincivilcrazyeasy |  
+| bip_39_word_no_space_12 | funnycarrydonorgasmoreminimumsolardomaincivilcrazyeasyapology |  
+| bip_39_word_no_space_2 | funnycarry |  
+| bip_39_word_no_space_3 | funnycarrydonor |  
+| bip_39_word_no_space_4 | funnycarrydonorgas |  
+| bip_39_word_no_space_5 | funnycarrydonorgasmore |  
+| bip_39_word_no_space_6 | funnycarrydonorgasmoreminimum |  
+| bip_39_word_no_space_7 | funnycarrydonorgasmoreminimumsolar |  
+| bip_39_word_no_space_8 | funnycarrydonorgasmoreminimumsolardomain |  
+| bip_39_word_no_space_9 | funnycarrydonorgasmoreminimumsolardomaincivil |  
 | bip_39_word_space_0 | ['funny', 'carry', 'donor', 'gas', 'more', 'minimum', 'solar', 'domain', 'civil', 'crazy', 'easy', 'apology'] |  
 | bip_39_word_space_1 | funny |  
 | bip_39_word_space_10 | funny carry donor gas more minimum solar domain civil crazy |  

@@ -122,6 +122,18 @@ enter
 please
 please
 outside |  
+| bip_39_word_no_space_1 | lucky |  
+| bip_39_word_no_space_10 | luckyeightpolearmclayenterpleasepleaseoutsidehen |  
+| bip_39_word_no_space_11 | luckyeightpolearmclayenterpleasepleaseoutsidehenguilt |  
+| bip_39_word_no_space_12 | luckyeightpolearmclayenterpleasepleaseoutsidehenguiltaccess |  
+| bip_39_word_no_space_2 | luckyeight |  
+| bip_39_word_no_space_3 | luckyeightpole |  
+| bip_39_word_no_space_4 | luckyeightpolearm |  
+| bip_39_word_no_space_5 | luckyeightpolearmclay |  
+| bip_39_word_no_space_6 | luckyeightpolearmclayenter |  
+| bip_39_word_no_space_7 | luckyeightpolearmclayenterplease |  
+| bip_39_word_no_space_8 | luckyeightpolearmclayenterpleaseplease |  
+| bip_39_word_no_space_9 | luckyeightpolearmclayenterpleasepleaseoutside |  
 | bip_39_word_space_0 | ['lucky', 'eight', 'pole', 'arm', 'clay', 'enter', 'please', 'please', 'outside', 'hen', 'guilt', 'access'] |  
 | bip_39_word_space_1 | lucky |  
 | bip_39_word_space_10 | lucky eight pole arm clay enter please please outside hen |  

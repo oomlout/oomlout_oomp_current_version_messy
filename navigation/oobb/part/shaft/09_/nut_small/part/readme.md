@@ -122,6 +122,18 @@ stand
 pitch
 piece
 speak |  
+| bip_39_word_no_space_1 | foot |  
+| bip_39_word_no_space_10 | footimitatemodelmaterialindexstandpitchpiecespeaktask |  
+| bip_39_word_no_space_11 | footimitatemodelmaterialindexstandpitchpiecespeaktaskorchard |  
+| bip_39_word_no_space_12 | footimitatemodelmaterialindexstandpitchpiecespeaktaskorchardabuse |  
+| bip_39_word_no_space_2 | footimitate |  
+| bip_39_word_no_space_3 | footimitatemodel |  
+| bip_39_word_no_space_4 | footimitatemodelmaterial |  
+| bip_39_word_no_space_5 | footimitatemodelmaterialindex |  
+| bip_39_word_no_space_6 | footimitatemodelmaterialindexstand |  
+| bip_39_word_no_space_7 | footimitatemodelmaterialindexstandpitch |  
+| bip_39_word_no_space_8 | footimitatemodelmaterialindexstandpitchpiece |  
+| bip_39_word_no_space_9 | footimitatemodelmaterialindexstandpitchpiecespeak |  
 | bip_39_word_space_0 | ['foot', 'imitate', 'model', 'material', 'index', 'stand', 'pitch', 'piece', 'speak', 'task', 'orchard', 'abuse'] |  
 | bip_39_word_space_1 | foot |  
 | bip_39_word_space_10 | foot imitate model material index stand pitch piece speak task |  

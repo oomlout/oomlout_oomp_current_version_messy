@@ -122,6 +122,18 @@ age
 ill
 sign
 off |  
+| bip_39_word_no_space_1 | tool |  
+| bip_39_word_no_space_10 | toolsiegeafraidgenremodifyageillsignoffperfect |  
+| bip_39_word_no_space_11 | toolsiegeafraidgenremodifyageillsignoffperfectlanguage |  
+| bip_39_word_no_space_12 | toolsiegeafraidgenremodifyageillsignoffperfectlanguageagree |  
+| bip_39_word_no_space_2 | toolsiege |  
+| bip_39_word_no_space_3 | toolsiegeafraid |  
+| bip_39_word_no_space_4 | toolsiegeafraidgenre |  
+| bip_39_word_no_space_5 | toolsiegeafraidgenremodify |  
+| bip_39_word_no_space_6 | toolsiegeafraidgenremodifyage |  
+| bip_39_word_no_space_7 | toolsiegeafraidgenremodifyageill |  
+| bip_39_word_no_space_8 | toolsiegeafraidgenremodifyageillsign |  
+| bip_39_word_no_space_9 | toolsiegeafraidgenremodifyageillsignoff |  
 | bip_39_word_space_0 | ['tool', 'siege', 'afraid', 'genre', 'modify', 'age', 'ill', 'sign', 'off', 'perfect', 'language', 'agree'] |  
 | bip_39_word_space_1 | tool |  
 | bip_39_word_space_10 | tool siege afraid genre modify age ill sign off perfect |  

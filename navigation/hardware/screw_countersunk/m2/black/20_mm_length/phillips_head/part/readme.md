@@ -122,6 +122,18 @@ price
 modify
 voice
 moral |  
+| bip_39_word_no_space_1 | arch |  
+| bip_39_word_no_space_10 | archpageextendcopyprivatepricemodifyvoicemoralmerge |  
+| bip_39_word_no_space_11 | archpageextendcopyprivatepricemodifyvoicemoralmergedefine |  
+| bip_39_word_no_space_12 | archpageextendcopyprivatepricemodifyvoicemoralmergedefineaccuse |  
+| bip_39_word_no_space_2 | archpage |  
+| bip_39_word_no_space_3 | archpageextend |  
+| bip_39_word_no_space_4 | archpageextendcopy |  
+| bip_39_word_no_space_5 | archpageextendcopyprivate |  
+| bip_39_word_no_space_6 | archpageextendcopyprivateprice |  
+| bip_39_word_no_space_7 | archpageextendcopyprivatepricemodify |  
+| bip_39_word_no_space_8 | archpageextendcopyprivatepricemodifyvoice |  
+| bip_39_word_no_space_9 | archpageextendcopyprivatepricemodifyvoicemoral |  
 | bip_39_word_space_0 | ['arch', 'page', 'extend', 'copy', 'private', 'price', 'modify', 'voice', 'moral', 'merge', 'define', 'accuse'] |  
 | bip_39_word_space_1 | arch |  
 | bip_39_word_space_10 | arch page extend copy private price modify voice moral merge |  

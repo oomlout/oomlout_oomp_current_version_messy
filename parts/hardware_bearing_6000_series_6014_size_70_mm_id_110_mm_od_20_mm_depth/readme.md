@@ -122,6 +122,18 @@ board
 possible
 trip
 obscure |  
+| bip_39_word_no_space_1 | blood |  
+| bip_39_word_no_space_10 | bloodpilotmainskaterevealboardpossibletripobscureslim |  
+| bip_39_word_no_space_11 | bloodpilotmainskaterevealboardpossibletripobscureslimsurge |  
+| bip_39_word_no_space_12 | bloodpilotmainskaterevealboardpossibletripobscureslimsurgearmed |  
+| bip_39_word_no_space_2 | bloodpilot |  
+| bip_39_word_no_space_3 | bloodpilotmain |  
+| bip_39_word_no_space_4 | bloodpilotmainskate |  
+| bip_39_word_no_space_5 | bloodpilotmainskatereveal |  
+| bip_39_word_no_space_6 | bloodpilotmainskaterevealboard |  
+| bip_39_word_no_space_7 | bloodpilotmainskaterevealboardpossible |  
+| bip_39_word_no_space_8 | bloodpilotmainskaterevealboardpossibletrip |  
+| bip_39_word_no_space_9 | bloodpilotmainskaterevealboardpossibletripobscure |  
 | bip_39_word_space_0 | ['blood', 'pilot', 'main', 'skate', 'reveal', 'board', 'possible', 'trip', 'obscure', 'slim', 'surge', 'armed'] |  
 | bip_39_word_space_1 | blood |  
 | bip_39_word_space_10 | blood pilot main skate reveal board possible trip obscure slim |  

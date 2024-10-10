@@ -122,6 +122,18 @@ saddle
 gate
 negative
 cancel |  
+| bip_39_word_no_space_1 | lunar |  
+| bip_39_word_no_space_10 | lunarmomclustergingermonthsaddlegatenegativecancelseat |  
+| bip_39_word_no_space_11 | lunarmomclustergingermonthsaddlegatenegativecancelseatcereal |  
+| bip_39_word_no_space_12 | lunarmomclustergingermonthsaddlegatenegativecancelseatcerealaround |  
+| bip_39_word_no_space_2 | lunarmom |  
+| bip_39_word_no_space_3 | lunarmomcluster |  
+| bip_39_word_no_space_4 | lunarmomclusterginger |  
+| bip_39_word_no_space_5 | lunarmomclustergingermonth |  
+| bip_39_word_no_space_6 | lunarmomclustergingermonthsaddle |  
+| bip_39_word_no_space_7 | lunarmomclustergingermonthsaddlegate |  
+| bip_39_word_no_space_8 | lunarmomclustergingermonthsaddlegatenegative |  
+| bip_39_word_no_space_9 | lunarmomclustergingermonthsaddlegatenegativecancel |  
 | bip_39_word_space_0 | ['lunar', 'mom', 'cluster', 'ginger', 'month', 'saddle', 'gate', 'negative', 'cancel', 'seat', 'cereal', 'around'] |  
 | bip_39_word_space_1 | lunar |  
 | bip_39_word_space_10 | lunar mom cluster ginger month saddle gate negative cancel seat |  

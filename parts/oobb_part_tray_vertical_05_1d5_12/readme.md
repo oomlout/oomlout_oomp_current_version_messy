@@ -122,6 +122,18 @@ identify
 uncle
 resource
 earn |  
+| bip_39_word_no_space_1 | defense |  
+| bip_39_word_no_space_10 | defensemaximumpointpatternleftidentifyuncleresourceearntrade |  
+| bip_39_word_no_space_11 | defensemaximumpointpatternleftidentifyuncleresourceearntradebarrel |  
+| bip_39_word_no_space_12 | defensemaximumpointpatternleftidentifyuncleresourceearntradebarrelavocado |  
+| bip_39_word_no_space_2 | defensemaximum |  
+| bip_39_word_no_space_3 | defensemaximumpoint |  
+| bip_39_word_no_space_4 | defensemaximumpointpattern |  
+| bip_39_word_no_space_5 | defensemaximumpointpatternleft |  
+| bip_39_word_no_space_6 | defensemaximumpointpatternleftidentify |  
+| bip_39_word_no_space_7 | defensemaximumpointpatternleftidentifyuncle |  
+| bip_39_word_no_space_8 | defensemaximumpointpatternleftidentifyuncleresource |  
+| bip_39_word_no_space_9 | defensemaximumpointpatternleftidentifyuncleresourceearn |  
 | bip_39_word_space_0 | ['defense', 'maximum', 'point', 'pattern', 'left', 'identify', 'uncle', 'resource', 'earn', 'trade', 'barrel', 'avocado'] |  
 | bip_39_word_space_1 | defense |  
 | bip_39_word_space_10 | defense maximum point pattern left identify uncle resource earn trade |  

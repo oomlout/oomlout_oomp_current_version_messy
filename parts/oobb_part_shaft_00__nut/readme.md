@@ -122,6 +122,18 @@ daughter
 maximum
 will
 symptom |  
+| bip_39_word_no_space_1 | oppose |  
+| bip_39_word_no_space_10 | opposeecologyonenetworkcopydaughtermaximumwillsymptomtruck |  
+| bip_39_word_no_space_11 | opposeecologyonenetworkcopydaughtermaximumwillsymptomtruckkind |  
+| bip_39_word_no_space_12 | opposeecologyonenetworkcopydaughtermaximumwillsymptomtruckkindaccess |  
+| bip_39_word_no_space_2 | opposeecology |  
+| bip_39_word_no_space_3 | opposeecologyone |  
+| bip_39_word_no_space_4 | opposeecologyonenetwork |  
+| bip_39_word_no_space_5 | opposeecologyonenetworkcopy |  
+| bip_39_word_no_space_6 | opposeecologyonenetworkcopydaughter |  
+| bip_39_word_no_space_7 | opposeecologyonenetworkcopydaughtermaximum |  
+| bip_39_word_no_space_8 | opposeecologyonenetworkcopydaughtermaximumwill |  
+| bip_39_word_no_space_9 | opposeecologyonenetworkcopydaughtermaximumwillsymptom |  
 | bip_39_word_space_0 | ['oppose', 'ecology', 'one', 'network', 'copy', 'daughter', 'maximum', 'will', 'symptom', 'truck', 'kind', 'access'] |  
 | bip_39_word_space_1 | oppose |  
 | bip_39_word_space_10 | oppose ecology one network copy daughter maximum will symptom truck |  

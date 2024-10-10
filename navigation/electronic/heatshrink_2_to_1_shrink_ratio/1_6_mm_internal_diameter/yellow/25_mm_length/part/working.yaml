@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'shoe
   draft
 
   problem'
+bip_39_word_no_space_1: shoe
+bip_39_word_no_space_10: shoeriflebetrayorangeslicejunkvitaldraftproblemgrief
+bip_39_word_no_space_11: shoeriflebetrayorangeslicejunkvitaldraftproblemgrieftower
+bip_39_word_no_space_12: shoeriflebetrayorangeslicejunkvitaldraftproblemgrieftowerargue
+bip_39_word_no_space_2: shoerifle
+bip_39_word_no_space_3: shoeriflebetray
+bip_39_word_no_space_4: shoeriflebetrayorange
+bip_39_word_no_space_5: shoeriflebetrayorangeslice
+bip_39_word_no_space_6: shoeriflebetrayorangeslicejunk
+bip_39_word_no_space_7: shoeriflebetrayorangeslicejunkvital
+bip_39_word_no_space_8: shoeriflebetrayorangeslicejunkvitaldraft
+bip_39_word_no_space_9: shoeriflebetrayorangeslicejunkvitaldraftproblem
 bip_39_word_space_0:
 - shoe
 - rifle

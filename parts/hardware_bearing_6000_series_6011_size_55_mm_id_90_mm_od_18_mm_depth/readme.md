@@ -122,6 +122,18 @@ stove
 aerobic
 company
 pulp |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroomspatialidentifynorthsystemstoveaerobiccompanypulpproject |  
+| bip_39_word_no_space_11 | mushroomspatialidentifynorthsystemstoveaerobiccompanypulpprojectsiren |  
+| bip_39_word_no_space_12 | mushroomspatialidentifynorthsystemstoveaerobiccompanypulpprojectsirenautumn |  
+| bip_39_word_no_space_2 | mushroomspatial |  
+| bip_39_word_no_space_3 | mushroomspatialidentify |  
+| bip_39_word_no_space_4 | mushroomspatialidentifynorth |  
+| bip_39_word_no_space_5 | mushroomspatialidentifynorthsystem |  
+| bip_39_word_no_space_6 | mushroomspatialidentifynorthsystemstove |  
+| bip_39_word_no_space_7 | mushroomspatialidentifynorthsystemstoveaerobic |  
+| bip_39_word_no_space_8 | mushroomspatialidentifynorthsystemstoveaerobiccompany |  
+| bip_39_word_no_space_9 | mushroomspatialidentifynorthsystemstoveaerobiccompanypulp |  
 | bip_39_word_space_0 | ['mushroom', 'spatial', 'identify', 'north', 'system', 'stove', 'aerobic', 'company', 'pulp', 'project', 'siren', 'autumn'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom spatial identify north system stove aerobic company pulp project |  

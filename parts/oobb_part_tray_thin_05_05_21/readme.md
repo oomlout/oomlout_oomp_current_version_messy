@@ -122,6 +122,18 @@ tonight
 detect
 never
 fish |  
+| bip_39_word_no_space_1 | hammer |  
+| bip_39_word_no_space_10 | hammerpondfilmbiologycoconuttonightdetectneverfishfault |  
+| bip_39_word_no_space_11 | hammerpondfilmbiologycoconuttonightdetectneverfishfaultgroup |  
+| bip_39_word_no_space_12 | hammerpondfilmbiologycoconuttonightdetectneverfishfaultgroupattitude |  
+| bip_39_word_no_space_2 | hammerpond |  
+| bip_39_word_no_space_3 | hammerpondfilm |  
+| bip_39_word_no_space_4 | hammerpondfilmbiology |  
+| bip_39_word_no_space_5 | hammerpondfilmbiologycoconut |  
+| bip_39_word_no_space_6 | hammerpondfilmbiologycoconuttonight |  
+| bip_39_word_no_space_7 | hammerpondfilmbiologycoconuttonightdetect |  
+| bip_39_word_no_space_8 | hammerpondfilmbiologycoconuttonightdetectnever |  
+| bip_39_word_no_space_9 | hammerpondfilmbiologycoconuttonightdetectneverfish |  
 | bip_39_word_space_0 | ['hammer', 'pond', 'film', 'biology', 'coconut', 'tonight', 'detect', 'never', 'fish', 'fault', 'group', 'attitude'] |  
 | bip_39_word_space_1 | hammer |  
 | bip_39_word_space_10 | hammer pond film biology coconut tonight detect never fish fault |  

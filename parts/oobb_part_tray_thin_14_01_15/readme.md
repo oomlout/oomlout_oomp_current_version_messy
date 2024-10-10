@@ -122,6 +122,18 @@ artwork
 similar
 myth
 silly |  
+| bip_39_word_no_space_1 | dwarf |  
+| bip_39_word_no_space_10 | dwarfrefuseomittowndampartworksimilarmythsillyequip |  
+| bip_39_word_no_space_11 | dwarfrefuseomittowndampartworksimilarmythsillyequippretty |  
+| bip_39_word_no_space_12 | dwarfrefuseomittowndampartworksimilarmythsillyequipprettyarrive |  
+| bip_39_word_no_space_2 | dwarfrefuse |  
+| bip_39_word_no_space_3 | dwarfrefuseomit |  
+| bip_39_word_no_space_4 | dwarfrefuseomittown |  
+| bip_39_word_no_space_5 | dwarfrefuseomittowndamp |  
+| bip_39_word_no_space_6 | dwarfrefuseomittowndampartwork |  
+| bip_39_word_no_space_7 | dwarfrefuseomittowndampartworksimilar |  
+| bip_39_word_no_space_8 | dwarfrefuseomittowndampartworksimilarmyth |  
+| bip_39_word_no_space_9 | dwarfrefuseomittowndampartworksimilarmythsilly |  
 | bip_39_word_space_0 | ['dwarf', 'refuse', 'omit', 'town', 'damp', 'artwork', 'similar', 'myth', 'silly', 'equip', 'pretty', 'arrive'] |  
 | bip_39_word_space_1 | dwarf |  
 | bip_39_word_space_10 | dwarf refuse omit town damp artwork similar myth silly equip |  

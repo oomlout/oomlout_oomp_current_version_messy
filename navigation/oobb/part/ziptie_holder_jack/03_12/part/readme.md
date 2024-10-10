@@ -122,6 +122,18 @@ picnic
 animal
 slight
 space |  
+| bip_39_word_no_space_1 | deny |  
+| bip_39_word_no_space_10 | denyivorygriefdeersockpicnicanimalslightspacefrog |  
+| bip_39_word_no_space_11 | denyivorygriefdeersockpicnicanimalslightspacefrogleaf |  
+| bip_39_word_no_space_12 | denyivorygriefdeersockpicnicanimalslightspacefrogleafapril |  
+| bip_39_word_no_space_2 | denyivory |  
+| bip_39_word_no_space_3 | denyivorygrief |  
+| bip_39_word_no_space_4 | denyivorygriefdeer |  
+| bip_39_word_no_space_5 | denyivorygriefdeersock |  
+| bip_39_word_no_space_6 | denyivorygriefdeersockpicnic |  
+| bip_39_word_no_space_7 | denyivorygriefdeersockpicnicanimal |  
+| bip_39_word_no_space_8 | denyivorygriefdeersockpicnicanimalslight |  
+| bip_39_word_no_space_9 | denyivorygriefdeersockpicnicanimalslightspace |  
 | bip_39_word_space_0 | ['deny', 'ivory', 'grief', 'deer', 'sock', 'picnic', 'animal', 'slight', 'space', 'frog', 'leaf', 'april'] |  
 | bip_39_word_space_1 | deny |  
 | bip_39_word_space_10 | deny ivory grief deer sock picnic animal slight space frog |  

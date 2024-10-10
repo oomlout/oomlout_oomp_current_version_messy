@@ -122,6 +122,18 @@ doctor
 olympic
 double
 ski |  
+| bip_39_word_no_space_1 | unveil |  
+| bip_39_word_no_space_10 | unveilwidthshovefoildirectdoctorolympicdoubleskiplug |  
+| bip_39_word_no_space_11 | unveilwidthshovefoildirectdoctorolympicdoubleskiplugsugar |  
+| bip_39_word_no_space_12 | unveilwidthshovefoildirectdoctorolympicdoubleskiplugsugarautumn |  
+| bip_39_word_no_space_2 | unveilwidth |  
+| bip_39_word_no_space_3 | unveilwidthshove |  
+| bip_39_word_no_space_4 | unveilwidthshovefoil |  
+| bip_39_word_no_space_5 | unveilwidthshovefoildirect |  
+| bip_39_word_no_space_6 | unveilwidthshovefoildirectdoctor |  
+| bip_39_word_no_space_7 | unveilwidthshovefoildirectdoctorolympic |  
+| bip_39_word_no_space_8 | unveilwidthshovefoildirectdoctorolympicdouble |  
+| bip_39_word_no_space_9 | unveilwidthshovefoildirectdoctorolympicdoubleski |  
 | bip_39_word_space_0 | ['unveil', 'width', 'shove', 'foil', 'direct', 'doctor', 'olympic', 'double', 'ski', 'plug', 'sugar', 'autumn'] |  
 | bip_39_word_space_1 | unveil |  
 | bip_39_word_space_10 | unveil width shove foil direct doctor olympic double ski plug |  

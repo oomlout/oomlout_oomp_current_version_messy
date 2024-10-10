@@ -122,6 +122,18 @@ kitchen
 initial
 hard
 inspire |  
+| bip_39_word_no_space_1 | reflect |  
+| bip_39_word_no_space_10 | reflectkindpulparenabronzekitcheninitialhardinspirehotel |  
+| bip_39_word_no_space_11 | reflectkindpulparenabronzekitcheninitialhardinspirehotelattack |  
+| bip_39_word_no_space_12 | reflectkindpulparenabronzekitcheninitialhardinspirehotelattackadvice |  
+| bip_39_word_no_space_2 | reflectkind |  
+| bip_39_word_no_space_3 | reflectkindpulp |  
+| bip_39_word_no_space_4 | reflectkindpulparena |  
+| bip_39_word_no_space_5 | reflectkindpulparenabronze |  
+| bip_39_word_no_space_6 | reflectkindpulparenabronzekitchen |  
+| bip_39_word_no_space_7 | reflectkindpulparenabronzekitcheninitial |  
+| bip_39_word_no_space_8 | reflectkindpulparenabronzekitcheninitialhard |  
+| bip_39_word_no_space_9 | reflectkindpulparenabronzekitcheninitialhardinspire |  
 | bip_39_word_space_0 | ['reflect', 'kind', 'pulp', 'arena', 'bronze', 'kitchen', 'initial', 'hard', 'inspire', 'hotel', 'attack', 'advice'] |  
 | bip_39_word_space_1 | reflect |  
 | bip_39_word_space_10 | reflect kind pulp arena bronze kitchen initial hard inspire hotel |  

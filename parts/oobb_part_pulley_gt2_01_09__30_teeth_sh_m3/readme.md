@@ -122,6 +122,18 @@ cupboard
 near
 giraffe
 tired |  
+| bip_39_word_no_space_1 | north |  
+| bip_39_word_no_space_10 | northfinishduringauctionsupplycupboardneargiraffetiredsettle |  
+| bip_39_word_no_space_11 | northfinishduringauctionsupplycupboardneargiraffetiredsettlestand |  
+| bip_39_word_no_space_12 | northfinishduringauctionsupplycupboardneargiraffetiredsettlestandanger |  
+| bip_39_word_no_space_2 | northfinish |  
+| bip_39_word_no_space_3 | northfinishduring |  
+| bip_39_word_no_space_4 | northfinishduringauction |  
+| bip_39_word_no_space_5 | northfinishduringauctionsupply |  
+| bip_39_word_no_space_6 | northfinishduringauctionsupplycupboard |  
+| bip_39_word_no_space_7 | northfinishduringauctionsupplycupboardnear |  
+| bip_39_word_no_space_8 | northfinishduringauctionsupplycupboardneargiraffe |  
+| bip_39_word_no_space_9 | northfinishduringauctionsupplycupboardneargiraffetired |  
 | bip_39_word_space_0 | ['north', 'finish', 'during', 'auction', 'supply', 'cupboard', 'near', 'giraffe', 'tired', 'settle', 'stand', 'anger'] |  
 | bip_39_word_space_1 | north |  
 | bip_39_word_space_10 | north finish during auction supply cupboard near giraffe tired settle |  

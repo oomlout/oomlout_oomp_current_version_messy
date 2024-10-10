@@ -122,6 +122,18 @@ grief
 render
 time
 sibling |  
+| bip_39_word_no_space_1 | entire |  
+| bip_39_word_no_space_10 | entiredawnsteelembracealphagriefrendertimesiblingdream |  
+| bip_39_word_no_space_11 | entiredawnsteelembracealphagriefrendertimesiblingdreamcustom |  
+| bip_39_word_no_space_12 | entiredawnsteelembracealphagriefrendertimesiblingdreamcustomarrest |  
+| bip_39_word_no_space_2 | entiredawn |  
+| bip_39_word_no_space_3 | entiredawnsteel |  
+| bip_39_word_no_space_4 | entiredawnsteelembrace |  
+| bip_39_word_no_space_5 | entiredawnsteelembracealpha |  
+| bip_39_word_no_space_6 | entiredawnsteelembracealphagrief |  
+| bip_39_word_no_space_7 | entiredawnsteelembracealphagriefrender |  
+| bip_39_word_no_space_8 | entiredawnsteelembracealphagriefrendertime |  
+| bip_39_word_no_space_9 | entiredawnsteelembracealphagriefrendertimesibling |  
 | bip_39_word_space_0 | ['entire', 'dawn', 'steel', 'embrace', 'alpha', 'grief', 'render', 'time', 'sibling', 'dream', 'custom', 'arrest'] |  
 | bip_39_word_space_1 | entire |  
 | bip_39_word_space_10 | entire dawn steel embrace alpha grief render time sibling dream |  

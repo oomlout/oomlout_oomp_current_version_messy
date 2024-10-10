@@ -122,6 +122,18 @@ idea
 tiger
 fine
 hover |  
+| bip_39_word_no_space_1 | other |  
+| bip_39_word_no_space_10 | otherjobliarkiwiozoneideatigerfinehoverthumb |  
+| bip_39_word_no_space_11 | otherjobliarkiwiozoneideatigerfinehoverthumbmail |  
+| bip_39_word_no_space_12 | otherjobliarkiwiozoneideatigerfinehoverthumbmailability |  
+| bip_39_word_no_space_2 | otherjob |  
+| bip_39_word_no_space_3 | otherjobliar |  
+| bip_39_word_no_space_4 | otherjobliarkiwi |  
+| bip_39_word_no_space_5 | otherjobliarkiwiozone |  
+| bip_39_word_no_space_6 | otherjobliarkiwiozoneidea |  
+| bip_39_word_no_space_7 | otherjobliarkiwiozoneideatiger |  
+| bip_39_word_no_space_8 | otherjobliarkiwiozoneideatigerfine |  
+| bip_39_word_no_space_9 | otherjobliarkiwiozoneideatigerfinehover |  
 | bip_39_word_space_0 | ['other', 'job', 'liar', 'kiwi', 'ozone', 'idea', 'tiger', 'fine', 'hover', 'thumb', 'mail', 'ability'] |  
 | bip_39_word_space_1 | other |  
 | bip_39_word_space_10 | other job liar kiwi ozone idea tiger fine hover thumb |  

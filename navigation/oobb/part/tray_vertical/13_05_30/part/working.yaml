@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'arm
   zone
 
   lady'
+bip_39_word_no_space_1: arm
+bip_39_word_no_space_10: armdragonissuethingshopturnoctoberzoneladyantique
+bip_39_word_no_space_11: armdragonissuethingshopturnoctoberzoneladyantiquehawk
+bip_39_word_no_space_2: armdragon
+bip_39_word_no_space_3: armdragonissue
+bip_39_word_no_space_4: armdragonissuething
+bip_39_word_no_space_5: armdragonissuethingshop
+bip_39_word_no_space_6: armdragonissuethingshopturn
+bip_39_word_no_space_7: armdragonissuethingshopturnoctober
+bip_39_word_no_space_8: armdragonissuethingshopturnoctoberzone
+bip_39_word_no_space_9: armdragonissuethingshopturnoctoberzonelady
 bip_39_word_space_0:
 - arm
 - dragon

@@ -122,6 +122,18 @@ when
 mesh
 surge
 interest |  
+| bip_39_word_no_space_1 | bronze |  
+| bip_39_word_no_space_10 | bronzeslightafraidreplacepointwhenmeshsurgeinterestlyrics |  
+| bip_39_word_no_space_11 | bronzeslightafraidreplacepointwhenmeshsurgeinterestlyricsfold |  
+| bip_39_word_no_space_12 | bronzeslightafraidreplacepointwhenmeshsurgeinterestlyricsfoldadapt |  
+| bip_39_word_no_space_2 | bronzeslight |  
+| bip_39_word_no_space_3 | bronzeslightafraid |  
+| bip_39_word_no_space_4 | bronzeslightafraidreplace |  
+| bip_39_word_no_space_5 | bronzeslightafraidreplacepoint |  
+| bip_39_word_no_space_6 | bronzeslightafraidreplacepointwhen |  
+| bip_39_word_no_space_7 | bronzeslightafraidreplacepointwhenmesh |  
+| bip_39_word_no_space_8 | bronzeslightafraidreplacepointwhenmeshsurge |  
+| bip_39_word_no_space_9 | bronzeslightafraidreplacepointwhenmeshsurgeinterest |  
 | bip_39_word_space_0 | ['bronze', 'slight', 'afraid', 'replace', 'point', 'when', 'mesh', 'surge', 'interest', 'lyrics', 'fold', 'adapt'] |  
 | bip_39_word_space_1 | bronze |  
 | bip_39_word_space_10 | bronze slight afraid replace point when mesh surge interest lyrics |  

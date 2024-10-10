@@ -122,6 +122,18 @@ essence
 purse
 feed
 helmet |  
+| bip_39_word_no_space_1 | december |  
+| bip_39_word_no_space_10 | decemberhiddenspoilrecipemimicessencepursefeedhelmetbalcony |  
+| bip_39_word_no_space_11 | decemberhiddenspoilrecipemimicessencepursefeedhelmetbalconybalance |  
+| bip_39_word_no_space_12 | decemberhiddenspoilrecipemimicessencepursefeedhelmetbalconybalanceaspect |  
+| bip_39_word_no_space_2 | decemberhidden |  
+| bip_39_word_no_space_3 | decemberhiddenspoil |  
+| bip_39_word_no_space_4 | decemberhiddenspoilrecipe |  
+| bip_39_word_no_space_5 | decemberhiddenspoilrecipemimic |  
+| bip_39_word_no_space_6 | decemberhiddenspoilrecipemimicessence |  
+| bip_39_word_no_space_7 | decemberhiddenspoilrecipemimicessencepurse |  
+| bip_39_word_no_space_8 | decemberhiddenspoilrecipemimicessencepursefeed |  
+| bip_39_word_no_space_9 | decemberhiddenspoilrecipemimicessencepursefeedhelmet |  
 | bip_39_word_space_0 | ['december', 'hidden', 'spoil', 'recipe', 'mimic', 'essence', 'purse', 'feed', 'helmet', 'balcony', 'balance', 'aspect'] |  
 | bip_39_word_space_1 | december |  
 | bip_39_word_space_10 | december hidden spoil recipe mimic essence purse feed helmet balcony |  

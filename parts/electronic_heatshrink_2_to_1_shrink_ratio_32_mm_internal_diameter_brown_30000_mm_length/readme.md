@@ -122,6 +122,18 @@ amused
 inject
 spell
 nature |  
+| bip_39_word_no_space_1 | noodle |  
+| bip_39_word_no_space_10 | noodlepanelbluefiscalbookamusedinjectspellnaturesuper |  
+| bip_39_word_no_space_11 | noodlepanelbluefiscalbookamusedinjectspellnaturesuperpet |  
+| bip_39_word_no_space_12 | noodlepanelbluefiscalbookamusedinjectspellnaturesuperpetalcohol |  
+| bip_39_word_no_space_2 | noodlepanel |  
+| bip_39_word_no_space_3 | noodlepanelblue |  
+| bip_39_word_no_space_4 | noodlepanelbluefiscal |  
+| bip_39_word_no_space_5 | noodlepanelbluefiscalbook |  
+| bip_39_word_no_space_6 | noodlepanelbluefiscalbookamused |  
+| bip_39_word_no_space_7 | noodlepanelbluefiscalbookamusedinject |  
+| bip_39_word_no_space_8 | noodlepanelbluefiscalbookamusedinjectspell |  
+| bip_39_word_no_space_9 | noodlepanelbluefiscalbookamusedinjectspellnature |  
 | bip_39_word_space_0 | ['noodle', 'panel', 'blue', 'fiscal', 'book', 'amused', 'inject', 'spell', 'nature', 'super', 'pet', 'alcohol'] |  
 | bip_39_word_space_1 | noodle |  
 | bip_39_word_space_10 | noodle panel blue fiscal book amused inject spell nature super |  

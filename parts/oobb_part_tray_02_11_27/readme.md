@@ -122,6 +122,18 @@ bar
 sheriff
 skull
 veteran |  
+| bip_39_word_no_space_1 | option |  
+| bip_39_word_no_space_10 | optionnetstandsoullovebarsheriffskullveteranmixture |  
+| bip_39_word_no_space_11 | optionnetstandsoullovebarsheriffskullveteranmixturedoor |  
+| bip_39_word_no_space_12 | optionnetstandsoullovebarsheriffskullveteranmixturedooradd |  
+| bip_39_word_no_space_2 | optionnet |  
+| bip_39_word_no_space_3 | optionnetstand |  
+| bip_39_word_no_space_4 | optionnetstandsoul |  
+| bip_39_word_no_space_5 | optionnetstandsoullove |  
+| bip_39_word_no_space_6 | optionnetstandsoullovebar |  
+| bip_39_word_no_space_7 | optionnetstandsoullovebarsheriff |  
+| bip_39_word_no_space_8 | optionnetstandsoullovebarsheriffskull |  
+| bip_39_word_no_space_9 | optionnetstandsoullovebarsheriffskullveteran |  
 | bip_39_word_space_0 | ['option', 'net', 'stand', 'soul', 'love', 'bar', 'sheriff', 'skull', 'veteran', 'mixture', 'door', 'add'] |  
 | bip_39_word_space_1 | option |  
 | bip_39_word_space_10 | option net stand soul love bar sheriff skull veteran mixture |  

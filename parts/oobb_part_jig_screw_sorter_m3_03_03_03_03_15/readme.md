@@ -122,6 +122,18 @@ replace
 exhaust
 true
 tower |  
+| bip_39_word_no_space_1 | vivid |  
+| bip_39_word_no_space_10 | vividwheelicefiscalsamereplaceexhausttruetowerill |  
+| bip_39_word_no_space_11 | vividwheelicefiscalsamereplaceexhausttruetowerillmushroom |  
+| bip_39_word_no_space_12 | vividwheelicefiscalsamereplaceexhausttruetowerillmushroomalready |  
+| bip_39_word_no_space_2 | vividwheel |  
+| bip_39_word_no_space_3 | vividwheelice |  
+| bip_39_word_no_space_4 | vividwheelicefiscal |  
+| bip_39_word_no_space_5 | vividwheelicefiscalsame |  
+| bip_39_word_no_space_6 | vividwheelicefiscalsamereplace |  
+| bip_39_word_no_space_7 | vividwheelicefiscalsamereplaceexhaust |  
+| bip_39_word_no_space_8 | vividwheelicefiscalsamereplaceexhausttrue |  
+| bip_39_word_no_space_9 | vividwheelicefiscalsamereplaceexhausttruetower |  
 | bip_39_word_space_0 | ['vivid', 'wheel', 'ice', 'fiscal', 'same', 'replace', 'exhaust', 'true', 'tower', 'ill', 'mushroom', 'already'] |  
 | bip_39_word_space_1 | vivid |  
 | bip_39_word_space_10 | vivid wheel ice fiscal same replace exhaust true tower ill |  

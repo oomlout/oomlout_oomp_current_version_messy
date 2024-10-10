@@ -122,6 +122,18 @@ nice
 cat
 keen
 property |  
+| bip_39_word_no_space_1 | nasty |  
+| bip_39_word_no_space_10 | nastyoliveseminarbeanbrothernicecatkeenpropertydescribe |  
+| bip_39_word_no_space_11 | nastyoliveseminarbeanbrothernicecatkeenpropertydescribecigar |  
+| bip_39_word_no_space_12 | nastyoliveseminarbeanbrothernicecatkeenpropertydescribecigaranother |  
+| bip_39_word_no_space_2 | nastyolive |  
+| bip_39_word_no_space_3 | nastyoliveseminar |  
+| bip_39_word_no_space_4 | nastyoliveseminarbean |  
+| bip_39_word_no_space_5 | nastyoliveseminarbeanbrother |  
+| bip_39_word_no_space_6 | nastyoliveseminarbeanbrothernice |  
+| bip_39_word_no_space_7 | nastyoliveseminarbeanbrothernicecat |  
+| bip_39_word_no_space_8 | nastyoliveseminarbeanbrothernicecatkeen |  
+| bip_39_word_no_space_9 | nastyoliveseminarbeanbrothernicecatkeenproperty |  
 | bip_39_word_space_0 | ['nasty', 'olive', 'seminar', 'bean', 'brother', 'nice', 'cat', 'keen', 'property', 'describe', 'cigar', 'another'] |  
 | bip_39_word_space_1 | nasty |  
 | bip_39_word_space_10 | nasty olive seminar bean brother nice cat keen property describe |  

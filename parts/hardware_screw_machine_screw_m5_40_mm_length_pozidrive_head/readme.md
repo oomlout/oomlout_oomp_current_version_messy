@@ -122,6 +122,18 @@ laugh
 magic
 begin
 income |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinicfestivalauthoramusedbabylaughmagicbeginincometaste |  
+| bip_39_word_no_space_11 | clinicfestivalauthoramusedbabylaughmagicbeginincometasteexecute |  
+| bip_39_word_no_space_12 | clinicfestivalauthoramusedbabylaughmagicbeginincometasteexecutearmed |  
+| bip_39_word_no_space_2 | clinicfestival |  
+| bip_39_word_no_space_3 | clinicfestivalauthor |  
+| bip_39_word_no_space_4 | clinicfestivalauthoramused |  
+| bip_39_word_no_space_5 | clinicfestivalauthoramusedbaby |  
+| bip_39_word_no_space_6 | clinicfestivalauthoramusedbabylaugh |  
+| bip_39_word_no_space_7 | clinicfestivalauthoramusedbabylaughmagic |  
+| bip_39_word_no_space_8 | clinicfestivalauthoramusedbabylaughmagicbegin |  
+| bip_39_word_no_space_9 | clinicfestivalauthoramusedbabylaughmagicbeginincome |  
 | bip_39_word_space_0 | ['clinic', 'festival', 'author', 'amused', 'baby', 'laugh', 'magic', 'begin', 'income', 'taste', 'execute', 'armed'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic festival author amused baby laugh magic begin income taste |  

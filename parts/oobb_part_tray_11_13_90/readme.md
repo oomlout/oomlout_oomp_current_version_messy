@@ -122,6 +122,18 @@ ethics
 later
 donkey
 ill |  
+| bip_39_word_no_space_1 | disease |  
+| bip_39_word_no_space_10 | diseasefloorderivecricketthisethicslaterdonkeyillelder |  
+| bip_39_word_no_space_11 | diseasefloorderivecricketthisethicslaterdonkeyilleldermule |  
+| bip_39_word_no_space_12 | diseasefloorderivecricketthisethicslaterdonkeyilleldermuleaddress |  
+| bip_39_word_no_space_2 | diseasefloor |  
+| bip_39_word_no_space_3 | diseasefloorderive |  
+| bip_39_word_no_space_4 | diseasefloorderivecricket |  
+| bip_39_word_no_space_5 | diseasefloorderivecricketthis |  
+| bip_39_word_no_space_6 | diseasefloorderivecricketthisethics |  
+| bip_39_word_no_space_7 | diseasefloorderivecricketthisethicslater |  
+| bip_39_word_no_space_8 | diseasefloorderivecricketthisethicslaterdonkey |  
+| bip_39_word_no_space_9 | diseasefloorderivecricketthisethicslaterdonkeyill |  
 | bip_39_word_space_0 | ['disease', 'floor', 'derive', 'cricket', 'this', 'ethics', 'later', 'donkey', 'ill', 'elder', 'mule', 'address'] |  
 | bip_39_word_space_1 | disease |  
 | bip_39_word_space_10 | disease floor derive cricket this ethics later donkey ill elder |  

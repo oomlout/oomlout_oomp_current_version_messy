@@ -122,6 +122,18 @@ accident
 client
 omit
 wire |  
+| bip_39_word_no_space_1 | wonder |  
+| bip_39_word_no_space_10 | wonderinnocentmidnightblastrichaccidentclientomitwirewire |  
+| bip_39_word_no_space_11 | wonderinnocentmidnightblastrichaccidentclientomitwirewireginger |  
+| bip_39_word_no_space_12 | wonderinnocentmidnightblastrichaccidentclientomitwirewiregingerabsent |  
+| bip_39_word_no_space_2 | wonderinnocent |  
+| bip_39_word_no_space_3 | wonderinnocentmidnight |  
+| bip_39_word_no_space_4 | wonderinnocentmidnightblast |  
+| bip_39_word_no_space_5 | wonderinnocentmidnightblastrich |  
+| bip_39_word_no_space_6 | wonderinnocentmidnightblastrichaccident |  
+| bip_39_word_no_space_7 | wonderinnocentmidnightblastrichaccidentclient |  
+| bip_39_word_no_space_8 | wonderinnocentmidnightblastrichaccidentclientomit |  
+| bip_39_word_no_space_9 | wonderinnocentmidnightblastrichaccidentclientomitwire |  
 | bip_39_word_space_0 | ['wonder', 'innocent', 'midnight', 'blast', 'rich', 'accident', 'client', 'omit', 'wire', 'wire', 'ginger', 'absent'] |  
 | bip_39_word_space_1 | wonder |  
 | bip_39_word_space_10 | wonder innocent midnight blast rich accident client omit wire wire |  

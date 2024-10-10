@@ -122,6 +122,18 @@ where
 sell
 such
 furnace |  
+| bip_39_word_no_space_1 | two |  
+| bip_39_word_no_space_10 | twospawnrecipehostdamagewheresellsuchfurnaceshop |  
+| bip_39_word_no_space_11 | twospawnrecipehostdamagewheresellsuchfurnaceshopmatter |  
+| bip_39_word_no_space_12 | twospawnrecipehostdamagewheresellsuchfurnaceshopmatterall |  
+| bip_39_word_no_space_2 | twospawn |  
+| bip_39_word_no_space_3 | twospawnrecipe |  
+| bip_39_word_no_space_4 | twospawnrecipehost |  
+| bip_39_word_no_space_5 | twospawnrecipehostdamage |  
+| bip_39_word_no_space_6 | twospawnrecipehostdamagewhere |  
+| bip_39_word_no_space_7 | twospawnrecipehostdamagewheresell |  
+| bip_39_word_no_space_8 | twospawnrecipehostdamagewheresellsuch |  
+| bip_39_word_no_space_9 | twospawnrecipehostdamagewheresellsuchfurnace |  
 | bip_39_word_space_0 | ['two', 'spawn', 'recipe', 'host', 'damage', 'where', 'sell', 'such', 'furnace', 'shop', 'matter', 'all'] |  
 | bip_39_word_space_1 | two |  
 | bip_39_word_space_10 | two spawn recipe host damage where sell such furnace shop |  

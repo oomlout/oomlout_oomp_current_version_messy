@@ -122,6 +122,18 @@ tribe
 shadow
 tribe
 zoo |  
+| bip_39_word_no_space_1 | become |  
+| bip_39_word_no_space_10 | becomelizardchaseadmitshinetribeshadowtribezooscale |  
+| bip_39_word_no_space_11 | becomelizardchaseadmitshinetribeshadowtribezooscalebiology |  
+| bip_39_word_no_space_12 | becomelizardchaseadmitshinetribeshadowtribezooscalebiologyart |  
+| bip_39_word_no_space_2 | becomelizard |  
+| bip_39_word_no_space_3 | becomelizardchase |  
+| bip_39_word_no_space_4 | becomelizardchaseadmit |  
+| bip_39_word_no_space_5 | becomelizardchaseadmitshine |  
+| bip_39_word_no_space_6 | becomelizardchaseadmitshinetribe |  
+| bip_39_word_no_space_7 | becomelizardchaseadmitshinetribeshadow |  
+| bip_39_word_no_space_8 | becomelizardchaseadmitshinetribeshadowtribe |  
+| bip_39_word_no_space_9 | becomelizardchaseadmitshinetribeshadowtribezoo |  
 | bip_39_word_space_0 | ['become', 'lizard', 'chase', 'admit', 'shine', 'tribe', 'shadow', 'tribe', 'zoo', 'scale', 'biology', 'art'] |  
 | bip_39_word_space_1 | become |  
 | bip_39_word_space_10 | become lizard chase admit shine tribe shadow tribe zoo scale |  

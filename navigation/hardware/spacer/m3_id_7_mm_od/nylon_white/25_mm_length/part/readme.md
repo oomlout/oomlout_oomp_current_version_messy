@@ -122,6 +122,18 @@ spatial
 rotate
 rail
 enlist |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | plateglareannualchefvividspatialrotaterailenlisttail |  
+| bip_39_word_no_space_11 | plateglareannualchefvividspatialrotaterailenlisttailweird |  
+| bip_39_word_no_space_12 | plateglareannualchefvividspatialrotaterailenlisttailweirdalways |  
+| bip_39_word_no_space_2 | plateglare |  
+| bip_39_word_no_space_3 | plateglareannual |  
+| bip_39_word_no_space_4 | plateglareannualchef |  
+| bip_39_word_no_space_5 | plateglareannualchefvivid |  
+| bip_39_word_no_space_6 | plateglareannualchefvividspatial |  
+| bip_39_word_no_space_7 | plateglareannualchefvividspatialrotate |  
+| bip_39_word_no_space_8 | plateglareannualchefvividspatialrotaterail |  
+| bip_39_word_no_space_9 | plateglareannualchefvividspatialrotaterailenlist |  
 | bip_39_word_space_0 | ['plate', 'glare', 'annual', 'chef', 'vivid', 'spatial', 'rotate', 'rail', 'enlist', 'tail', 'weird', 'always'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate glare annual chef vivid spatial rotate rail enlist tail |  

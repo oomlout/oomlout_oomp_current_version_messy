@@ -122,6 +122,18 @@ cement
 live
 build
 fiscal |  
+| bip_39_word_no_space_1 | foil |  
+| bip_39_word_no_space_10 | foilpoliceminuteoneusefulcementlivebuildfiscalgirl |  
+| bip_39_word_no_space_11 | foilpoliceminuteoneusefulcementlivebuildfiscalgirlrandom |  
+| bip_39_word_no_space_12 | foilpoliceminuteoneusefulcementlivebuildfiscalgirlrandomalarm |  
+| bip_39_word_no_space_2 | foilpolice |  
+| bip_39_word_no_space_3 | foilpoliceminute |  
+| bip_39_word_no_space_4 | foilpoliceminuteone |  
+| bip_39_word_no_space_5 | foilpoliceminuteoneuseful |  
+| bip_39_word_no_space_6 | foilpoliceminuteoneusefulcement |  
+| bip_39_word_no_space_7 | foilpoliceminuteoneusefulcementlive |  
+| bip_39_word_no_space_8 | foilpoliceminuteoneusefulcementlivebuild |  
+| bip_39_word_no_space_9 | foilpoliceminuteoneusefulcementlivebuildfiscal |  
 | bip_39_word_space_0 | ['foil', 'police', 'minute', 'one', 'useful', 'cement', 'live', 'build', 'fiscal', 'girl', 'random', 'alarm'] |  
 | bip_39_word_space_1 | foil |  
 | bip_39_word_space_10 | foil police minute one useful cement live build fiscal girl |  

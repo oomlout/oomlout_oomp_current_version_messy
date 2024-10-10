@@ -122,6 +122,18 @@ love
 snake
 false
 catalog |  
+| bip_39_word_no_space_1 | phone |  
+| bip_39_word_no_space_10 | phonegeneralinheritsingsessionlovesnakefalsecataloggossip |  
+| bip_39_word_no_space_11 | phonegeneralinheritsingsessionlovesnakefalsecataloggossipcluster |  
+| bip_39_word_no_space_12 | phonegeneralinheritsingsessionlovesnakefalsecataloggossipclusteraudit |  
+| bip_39_word_no_space_2 | phonegeneral |  
+| bip_39_word_no_space_3 | phonegeneralinherit |  
+| bip_39_word_no_space_4 | phonegeneralinheritsing |  
+| bip_39_word_no_space_5 | phonegeneralinheritsingsession |  
+| bip_39_word_no_space_6 | phonegeneralinheritsingsessionlove |  
+| bip_39_word_no_space_7 | phonegeneralinheritsingsessionlovesnake |  
+| bip_39_word_no_space_8 | phonegeneralinheritsingsessionlovesnakefalse |  
+| bip_39_word_no_space_9 | phonegeneralinheritsingsessionlovesnakefalsecatalog |  
 | bip_39_word_space_0 | ['phone', 'general', 'inherit', 'sing', 'session', 'love', 'snake', 'false', 'catalog', 'gossip', 'cluster', 'audit'] |  
 | bip_39_word_space_1 | phone |  
 | bip_39_word_space_10 | phone general inherit sing session love snake false catalog gossip |  

@@ -122,6 +122,18 @@ above
 home
 age
 lamp |  
+| bip_39_word_no_space_1 | oak |  
+| bip_39_word_no_space_10 | oakchaircelerybeyondgiveabovehomeagelampchimney |  
+| bip_39_word_no_space_11 | oakchaircelerybeyondgiveabovehomeagelampchimneythought |  
+| bip_39_word_no_space_12 | oakchaircelerybeyondgiveabovehomeagelampchimneythoughtattack |  
+| bip_39_word_no_space_2 | oakchair |  
+| bip_39_word_no_space_3 | oakchaircelery |  
+| bip_39_word_no_space_4 | oakchaircelerybeyond |  
+| bip_39_word_no_space_5 | oakchaircelerybeyondgive |  
+| bip_39_word_no_space_6 | oakchaircelerybeyondgiveabove |  
+| bip_39_word_no_space_7 | oakchaircelerybeyondgiveabovehome |  
+| bip_39_word_no_space_8 | oakchaircelerybeyondgiveabovehomeage |  
+| bip_39_word_no_space_9 | oakchaircelerybeyondgiveabovehomeagelamp |  
 | bip_39_word_space_0 | ['oak', 'chair', 'celery', 'beyond', 'give', 'above', 'home', 'age', 'lamp', 'chimney', 'thought', 'attack'] |  
 | bip_39_word_space_1 | oak |  
 | bip_39_word_space_10 | oak chair celery beyond give above home age lamp chimney |  

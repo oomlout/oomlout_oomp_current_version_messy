@@ -122,6 +122,18 @@ please
 judge
 actual
 govern |  
+| bip_39_word_no_space_1 | frozen |  
+| bip_39_word_no_space_10 | frozeninnocentthenmansouppleasejudgeactualgovernlawsuit |  
+| bip_39_word_no_space_11 | frozeninnocentthenmansouppleasejudgeactualgovernlawsuitappear |  
+| bip_39_word_no_space_12 | frozeninnocentthenmansouppleasejudgeactualgovernlawsuitappearalready |  
+| bip_39_word_no_space_2 | frozeninnocent |  
+| bip_39_word_no_space_3 | frozeninnocentthen |  
+| bip_39_word_no_space_4 | frozeninnocentthenman |  
+| bip_39_word_no_space_5 | frozeninnocentthenmansoup |  
+| bip_39_word_no_space_6 | frozeninnocentthenmansoupplease |  
+| bip_39_word_no_space_7 | frozeninnocentthenmansouppleasejudge |  
+| bip_39_word_no_space_8 | frozeninnocentthenmansouppleasejudgeactual |  
+| bip_39_word_no_space_9 | frozeninnocentthenmansouppleasejudgeactualgovern |  
 | bip_39_word_space_0 | ['frozen', 'innocent', 'then', 'man', 'soup', 'please', 'judge', 'actual', 'govern', 'lawsuit', 'appear', 'already'] |  
 | bip_39_word_space_1 | frozen |  
 | bip_39_word_space_10 | frozen innocent then man soup please judge actual govern lawsuit |  

@@ -122,6 +122,18 @@ near
 noise
 feed
 return |  
+| bip_39_word_no_space_1 | nuclear |  
+| bip_39_word_no_space_10 | nuclearslambrickcoilmistakenearnoisefeedreturnmandate |  
+| bip_39_word_no_space_11 | nuclearslambrickcoilmistakenearnoisefeedreturnmandatenegative |  
+| bip_39_word_no_space_12 | nuclearslambrickcoilmistakenearnoisefeedreturnmandatenegativeaverage |  
+| bip_39_word_no_space_2 | nuclearslam |  
+| bip_39_word_no_space_3 | nuclearslambrick |  
+| bip_39_word_no_space_4 | nuclearslambrickcoil |  
+| bip_39_word_no_space_5 | nuclearslambrickcoilmistake |  
+| bip_39_word_no_space_6 | nuclearslambrickcoilmistakenear |  
+| bip_39_word_no_space_7 | nuclearslambrickcoilmistakenearnoise |  
+| bip_39_word_no_space_8 | nuclearslambrickcoilmistakenearnoisefeed |  
+| bip_39_word_no_space_9 | nuclearslambrickcoilmistakenearnoisefeedreturn |  
 | bip_39_word_space_0 | ['nuclear', 'slam', 'brick', 'coil', 'mistake', 'near', 'noise', 'feed', 'return', 'mandate', 'negative', 'average'] |  
 | bip_39_word_space_1 | nuclear |  
 | bip_39_word_space_10 | nuclear slam brick coil mistake near noise feed return mandate |  

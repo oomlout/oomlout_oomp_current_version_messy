@@ -122,6 +122,18 @@ illness
 until
 monkey
 asthma |  
+| bip_39_word_no_space_1 | number |  
+| bip_39_word_no_space_10 | numbersoonboardeffortloudillnessuntilmonkeyasthmainspire |  
+| bip_39_word_no_space_11 | numbersoonboardeffortloudillnessuntilmonkeyasthmainspireapart |  
+| bip_39_word_no_space_12 | numbersoonboardeffortloudillnessuntilmonkeyasthmainspireapartany |  
+| bip_39_word_no_space_2 | numbersoon |  
+| bip_39_word_no_space_3 | numbersoonboard |  
+| bip_39_word_no_space_4 | numbersoonboardeffort |  
+| bip_39_word_no_space_5 | numbersoonboardeffortloud |  
+| bip_39_word_no_space_6 | numbersoonboardeffortloudillness |  
+| bip_39_word_no_space_7 | numbersoonboardeffortloudillnessuntil |  
+| bip_39_word_no_space_8 | numbersoonboardeffortloudillnessuntilmonkey |  
+| bip_39_word_no_space_9 | numbersoonboardeffortloudillnessuntilmonkeyasthma |  
 | bip_39_word_space_0 | ['number', 'soon', 'board', 'effort', 'loud', 'illness', 'until', 'monkey', 'asthma', 'inspire', 'apart', 'any'] |  
 | bip_39_word_space_1 | number |  
 | bip_39_word_space_10 | number soon board effort loud illness until monkey asthma inspire |  

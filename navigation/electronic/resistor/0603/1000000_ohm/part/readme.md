@@ -122,6 +122,18 @@ elder
 impose
 depth
 leopard |  
+| bip_39_word_no_space_1 | obscure |  
+| bip_39_word_no_space_10 | obscuremixauditfoundsphereelderimposedepthleopardscare |  
+| bip_39_word_no_space_11 | obscuremixauditfoundsphereelderimposedepthleopardscarewhale |  
+| bip_39_word_no_space_12 | obscuremixauditfoundsphereelderimposedepthleopardscarewhalealso |  
+| bip_39_word_no_space_2 | obscuremix |  
+| bip_39_word_no_space_3 | obscuremixaudit |  
+| bip_39_word_no_space_4 | obscuremixauditfound |  
+| bip_39_word_no_space_5 | obscuremixauditfoundsphere |  
+| bip_39_word_no_space_6 | obscuremixauditfoundsphereelder |  
+| bip_39_word_no_space_7 | obscuremixauditfoundsphereelderimpose |  
+| bip_39_word_no_space_8 | obscuremixauditfoundsphereelderimposedepth |  
+| bip_39_word_no_space_9 | obscuremixauditfoundsphereelderimposedepthleopard |  
 | bip_39_word_space_0 | ['obscure', 'mix', 'audit', 'found', 'sphere', 'elder', 'impose', 'depth', 'leopard', 'scare', 'whale', 'also'] |  
 | bip_39_word_space_1 | obscure |  
 | bip_39_word_space_10 | obscure mix audit found sphere elder impose depth leopard scare |  

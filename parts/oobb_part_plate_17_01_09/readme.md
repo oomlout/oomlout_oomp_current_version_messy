@@ -122,6 +122,18 @@ erase
 bag
 west
 law |  
+| bip_39_word_no_space_1 | raven |  
+| bip_39_word_no_space_10 | ravennegativebicyclepovertydeskerasebagwestlawschool |  
+| bip_39_word_no_space_11 | ravennegativebicyclepovertydeskerasebagwestlawschoolsecret |  
+| bip_39_word_no_space_12 | ravennegativebicyclepovertydeskerasebagwestlawschoolsecretadjust |  
+| bip_39_word_no_space_2 | ravennegative |  
+| bip_39_word_no_space_3 | ravennegativebicycle |  
+| bip_39_word_no_space_4 | ravennegativebicyclepoverty |  
+| bip_39_word_no_space_5 | ravennegativebicyclepovertydesk |  
+| bip_39_word_no_space_6 | ravennegativebicyclepovertydeskerase |  
+| bip_39_word_no_space_7 | ravennegativebicyclepovertydeskerasebag |  
+| bip_39_word_no_space_8 | ravennegativebicyclepovertydeskerasebagwest |  
+| bip_39_word_no_space_9 | ravennegativebicyclepovertydeskerasebagwestlaw |  
 | bip_39_word_space_0 | ['raven', 'negative', 'bicycle', 'poverty', 'desk', 'erase', 'bag', 'west', 'law', 'school', 'secret', 'adjust'] |  
 | bip_39_word_space_1 | raven |  
 | bip_39_word_space_10 | raven negative bicycle poverty desk erase bag west law school |  

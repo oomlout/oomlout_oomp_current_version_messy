@@ -122,6 +122,18 @@ job
 glue
 course
 emotion |  
+| bip_39_word_no_space_1 | couple |  
+| bip_39_word_no_space_10 | coupleverybroccolibaconremovejobgluecourseemotioninnocent |  
+| bip_39_word_no_space_11 | coupleverybroccolibaconremovejobgluecourseemotioninnocentmask |  
+| bip_39_word_no_space_12 | coupleverybroccolibaconremovejobgluecourseemotioninnocentmaskanother |  
+| bip_39_word_no_space_2 | couplevery |  
+| bip_39_word_no_space_3 | coupleverybroccoli |  
+| bip_39_word_no_space_4 | coupleverybroccolibacon |  
+| bip_39_word_no_space_5 | coupleverybroccolibaconremove |  
+| bip_39_word_no_space_6 | coupleverybroccolibaconremovejob |  
+| bip_39_word_no_space_7 | coupleverybroccolibaconremovejobglue |  
+| bip_39_word_no_space_8 | coupleverybroccolibaconremovejobgluecourse |  
+| bip_39_word_no_space_9 | coupleverybroccolibaconremovejobgluecourseemotion |  
 | bip_39_word_space_0 | ['couple', 'very', 'broccoli', 'bacon', 'remove', 'job', 'glue', 'course', 'emotion', 'innocent', 'mask', 'another'] |  
 | bip_39_word_space_1 | couple |  
 | bip_39_word_space_10 | couple very broccoli bacon remove job glue course emotion innocent |  

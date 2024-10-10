@@ -122,6 +122,18 @@ guide
 involve
 tip
 retreat |  
+| bip_39_word_no_space_1 | luxury |  
+| bip_39_word_no_space_10 | luxurytoppleunclesuchbottomguideinvolvetipretreatwitness |  
+| bip_39_word_no_space_11 | luxurytoppleunclesuchbottomguideinvolvetipretreatwitnessintact |  
+| bip_39_word_no_space_12 | luxurytoppleunclesuchbottomguideinvolvetipretreatwitnessintactact |  
+| bip_39_word_no_space_2 | luxurytopple |  
+| bip_39_word_no_space_3 | luxurytoppleuncle |  
+| bip_39_word_no_space_4 | luxurytoppleunclesuch |  
+| bip_39_word_no_space_5 | luxurytoppleunclesuchbottom |  
+| bip_39_word_no_space_6 | luxurytoppleunclesuchbottomguide |  
+| bip_39_word_no_space_7 | luxurytoppleunclesuchbottomguideinvolve |  
+| bip_39_word_no_space_8 | luxurytoppleunclesuchbottomguideinvolvetip |  
+| bip_39_word_no_space_9 | luxurytoppleunclesuchbottomguideinvolvetipretreat |  
 | bip_39_word_space_0 | ['luxury', 'topple', 'uncle', 'such', 'bottom', 'guide', 'involve', 'tip', 'retreat', 'witness', 'intact', 'act'] |  
 | bip_39_word_space_1 | luxury |  
 | bip_39_word_space_10 | luxury topple uncle such bottom guide involve tip retreat witness |  

@@ -109,6 +109,17 @@ bounce
 moon
 oxygen
 motion |  
+| bip_39_word_no_space_1 | soft |  
+| bip_39_word_no_space_10 | softverbswapmonkeyseabouncemoonoxygenmotiondrink |  
+| bip_39_word_no_space_11 | softverbswapmonkeyseabouncemoonoxygenmotiondrinkroad |  
+| bip_39_word_no_space_2 | softverb |  
+| bip_39_word_no_space_3 | softverbswap |  
+| bip_39_word_no_space_4 | softverbswapmonkey |  
+| bip_39_word_no_space_5 | softverbswapmonkeysea |  
+| bip_39_word_no_space_6 | softverbswapmonkeyseabounce |  
+| bip_39_word_no_space_7 | softverbswapmonkeyseabouncemoon |  
+| bip_39_word_no_space_8 | softverbswapmonkeyseabouncemoonoxygen |  
+| bip_39_word_no_space_9 | softverbswapmonkeyseabouncemoonoxygenmotion |  
 | bip_39_word_space_0 | ['soft', 'verb', 'swap', 'monkey', 'sea', 'bounce', 'moon', 'oxygen', 'motion', 'drink', 'road'] |  
 | bip_39_word_space_1 | soft |  
 | bip_39_word_space_10 | soft verb swap monkey sea bounce moon oxygen motion drink |  

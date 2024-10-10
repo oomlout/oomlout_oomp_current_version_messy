@@ -122,6 +122,18 @@ mesh
 spell
 front
 text |  
+| bip_39_word_no_space_1 | find |  
+| bip_39_word_no_space_10 | findclevertroubletubemarketmeshspellfronttexttrumpet |  
+| bip_39_word_no_space_11 | findclevertroubletubemarketmeshspellfronttexttrumpethurry |  
+| bip_39_word_no_space_12 | findclevertroubletubemarketmeshspellfronttexttrumpethurryabove |  
+| bip_39_word_no_space_2 | findclever |  
+| bip_39_word_no_space_3 | findclevertrouble |  
+| bip_39_word_no_space_4 | findclevertroubletube |  
+| bip_39_word_no_space_5 | findclevertroubletubemarket |  
+| bip_39_word_no_space_6 | findclevertroubletubemarketmesh |  
+| bip_39_word_no_space_7 | findclevertroubletubemarketmeshspell |  
+| bip_39_word_no_space_8 | findclevertroubletubemarketmeshspellfront |  
+| bip_39_word_no_space_9 | findclevertroubletubemarketmeshspellfronttext |  
 | bip_39_word_space_0 | ['find', 'clever', 'trouble', 'tube', 'market', 'mesh', 'spell', 'front', 'text', 'trumpet', 'hurry', 'above'] |  
 | bip_39_word_space_1 | find |  
 | bip_39_word_space_10 | find clever trouble tube market mesh spell front text trumpet |  

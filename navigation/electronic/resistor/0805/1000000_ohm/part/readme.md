@@ -122,6 +122,18 @@ fault
 various
 poem
 industry |  
+| bip_39_word_no_space_1 | card |  
+| bip_39_word_no_space_10 | cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmon |  
+| bip_39_word_no_space_11 | cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmondial |  
+| bip_39_word_no_space_12 | cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmondialaround |  
+| bip_39_word_no_space_2 | cardmain |  
+| bip_39_word_no_space_3 | cardmainrent |  
+| bip_39_word_no_space_4 | cardmainrentoutdoor |  
+| bip_39_word_no_space_5 | cardmainrentoutdoorgadget |  
+| bip_39_word_no_space_6 | cardmainrentoutdoorgadgetfault |  
+| bip_39_word_no_space_7 | cardmainrentoutdoorgadgetfaultvarious |  
+| bip_39_word_no_space_8 | cardmainrentoutdoorgadgetfaultvariouspoem |  
+| bip_39_word_no_space_9 | cardmainrentoutdoorgadgetfaultvariouspoemindustry |  
 | bip_39_word_space_0 | ['card', 'main', 'rent', 'outdoor', 'gadget', 'fault', 'various', 'poem', 'industry', 'salmon', 'dial', 'around'] |  
 | bip_39_word_space_1 | card |  
 | bip_39_word_space_10 | card main rent outdoor gadget fault various poem industry salmon |  

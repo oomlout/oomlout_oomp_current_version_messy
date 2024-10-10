@@ -122,6 +122,18 @@ island
 spring
 student
 wife |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accessstamplicensedevicerideislandspringstudentwifegrain |  
+| bip_39_word_no_space_11 | accessstamplicensedevicerideislandspringstudentwifegraindeputy |  
+| bip_39_word_no_space_12 | accessstamplicensedevicerideislandspringstudentwifegraindeputyabstract |  
+| bip_39_word_no_space_2 | accessstamp |  
+| bip_39_word_no_space_3 | accessstamplicense |  
+| bip_39_word_no_space_4 | accessstamplicensedevice |  
+| bip_39_word_no_space_5 | accessstamplicensedeviceride |  
+| bip_39_word_no_space_6 | accessstamplicensedevicerideisland |  
+| bip_39_word_no_space_7 | accessstamplicensedevicerideislandspring |  
+| bip_39_word_no_space_8 | accessstamplicensedevicerideislandspringstudent |  
+| bip_39_word_no_space_9 | accessstamplicensedevicerideislandspringstudentwife |  
 | bip_39_word_space_0 | ['access', 'stamp', 'license', 'device', 'ride', 'island', 'spring', 'student', 'wife', 'grain', 'deputy', 'abstract'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access stamp license device ride island spring student wife grain |  

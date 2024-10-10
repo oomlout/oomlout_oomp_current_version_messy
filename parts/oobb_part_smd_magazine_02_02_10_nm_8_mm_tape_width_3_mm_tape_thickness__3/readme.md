@@ -122,6 +122,18 @@ priority
 gesture
 practice
 mother |  
+| bip_39_word_no_space_1 | dizzy |  
+| bip_39_word_no_space_10 | dizzybestvictorycutehenprioritygesturepracticemotherfortune |  
+| bip_39_word_no_space_11 | dizzybestvictorycutehenprioritygesturepracticemotherfortuneignore |  
+| bip_39_word_no_space_12 | dizzybestvictorycutehenprioritygesturepracticemotherfortuneignoreattend |  
+| bip_39_word_no_space_2 | dizzybest |  
+| bip_39_word_no_space_3 | dizzybestvictory |  
+| bip_39_word_no_space_4 | dizzybestvictorycute |  
+| bip_39_word_no_space_5 | dizzybestvictorycutehen |  
+| bip_39_word_no_space_6 | dizzybestvictorycutehenpriority |  
+| bip_39_word_no_space_7 | dizzybestvictorycutehenprioritygesture |  
+| bip_39_word_no_space_8 | dizzybestvictorycutehenprioritygesturepractice |  
+| bip_39_word_no_space_9 | dizzybestvictorycutehenprioritygesturepracticemother |  
 | bip_39_word_space_0 | ['dizzy', 'best', 'victory', 'cute', 'hen', 'priority', 'gesture', 'practice', 'mother', 'fortune', 'ignore', 'attend'] |  
 | bip_39_word_space_1 | dizzy |  
 | bip_39_word_space_10 | dizzy best victory cute hen priority gesture practice mother fortune |  

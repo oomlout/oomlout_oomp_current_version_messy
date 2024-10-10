@@ -122,6 +122,18 @@ color
 hero
 poem
 rose |  
+| bip_39_word_no_space_1 | obtain |  
+| bip_39_word_no_space_10 | obtainballdemandnapkinclimbcolorheropoemrosehobby |  
+| bip_39_word_no_space_11 | obtainballdemandnapkinclimbcolorheropoemrosehobbyrather |  
+| bip_39_word_no_space_12 | obtainballdemandnapkinclimbcolorheropoemrosehobbyratherasthma |  
+| bip_39_word_no_space_2 | obtainball |  
+| bip_39_word_no_space_3 | obtainballdemand |  
+| bip_39_word_no_space_4 | obtainballdemandnapkin |  
+| bip_39_word_no_space_5 | obtainballdemandnapkinclimb |  
+| bip_39_word_no_space_6 | obtainballdemandnapkinclimbcolor |  
+| bip_39_word_no_space_7 | obtainballdemandnapkinclimbcolorhero |  
+| bip_39_word_no_space_8 | obtainballdemandnapkinclimbcolorheropoem |  
+| bip_39_word_no_space_9 | obtainballdemandnapkinclimbcolorheropoemrose |  
 | bip_39_word_space_0 | ['obtain', 'ball', 'demand', 'napkin', 'climb', 'color', 'hero', 'poem', 'rose', 'hobby', 'rather', 'asthma'] |  
 | bip_39_word_space_1 | obtain |  
 | bip_39_word_space_10 | obtain ball demand napkin climb color hero poem rose hobby |  

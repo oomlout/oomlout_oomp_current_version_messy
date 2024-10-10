@@ -122,6 +122,18 @@ zone
 snap
 fantasy
 scatter |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstdivorcebusyexhaustgaszonesnapfantasyscattersimilar |  
+| bip_39_word_no_space_11 | burstdivorcebusyexhaustgaszonesnapfantasyscattersimilarblue |  
+| bip_39_word_no_space_12 | burstdivorcebusyexhaustgaszonesnapfantasyscattersimilarblueaugust |  
+| bip_39_word_no_space_2 | burstdivorce |  
+| bip_39_word_no_space_3 | burstdivorcebusy |  
+| bip_39_word_no_space_4 | burstdivorcebusyexhaust |  
+| bip_39_word_no_space_5 | burstdivorcebusyexhaustgas |  
+| bip_39_word_no_space_6 | burstdivorcebusyexhaustgaszone |  
+| bip_39_word_no_space_7 | burstdivorcebusyexhaustgaszonesnap |  
+| bip_39_word_no_space_8 | burstdivorcebusyexhaustgaszonesnapfantasy |  
+| bip_39_word_no_space_9 | burstdivorcebusyexhaustgaszonesnapfantasyscatter |  
 | bip_39_word_space_0 | ['burst', 'divorce', 'busy', 'exhaust', 'gas', 'zone', 'snap', 'fantasy', 'scatter', 'similar', 'blue', 'august'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst divorce busy exhaust gas zone snap fantasy scatter similar |  

@@ -122,6 +122,18 @@ praise
 patch
 reform
 inflict |  
+| bip_39_word_no_space_1 | joke |  
+| bip_39_word_no_space_10 | jokerandomfatiguehedgehogshoulderpraisepatchreforminflictalert |  
+| bip_39_word_no_space_11 | jokerandomfatiguehedgehogshoulderpraisepatchreforminflictalerttorch |  
+| bip_39_word_no_space_12 | jokerandomfatiguehedgehogshoulderpraisepatchreforminflictalerttorchable |  
+| bip_39_word_no_space_2 | jokerandom |  
+| bip_39_word_no_space_3 | jokerandomfatigue |  
+| bip_39_word_no_space_4 | jokerandomfatiguehedgehog |  
+| bip_39_word_no_space_5 | jokerandomfatiguehedgehogshoulder |  
+| bip_39_word_no_space_6 | jokerandomfatiguehedgehogshoulderpraise |  
+| bip_39_word_no_space_7 | jokerandomfatiguehedgehogshoulderpraisepatch |  
+| bip_39_word_no_space_8 | jokerandomfatiguehedgehogshoulderpraisepatchreform |  
+| bip_39_word_no_space_9 | jokerandomfatiguehedgehogshoulderpraisepatchreforminflict |  
 | bip_39_word_space_0 | ['joke', 'random', 'fatigue', 'hedgehog', 'shoulder', 'praise', 'patch', 'reform', 'inflict', 'alert', 'torch', 'able'] |  
 | bip_39_word_space_1 | joke |  
 | bip_39_word_space_10 | joke random fatigue hedgehog shoulder praise patch reform inflict alert |  

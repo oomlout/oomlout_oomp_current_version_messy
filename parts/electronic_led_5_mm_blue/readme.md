@@ -122,6 +122,18 @@ solve
 panda
 prosper
 menu |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | anklefrogheighttrumpetcarbonsolvepandaprospermenuafford |  
+| bip_39_word_no_space_11 | anklefrogheighttrumpetcarbonsolvepandaprospermenuaffordboss |  
+| bip_39_word_no_space_12 | anklefrogheighttrumpetcarbonsolvepandaprospermenuaffordbossartefact |  
+| bip_39_word_no_space_2 | anklefrog |  
+| bip_39_word_no_space_3 | anklefrogheight |  
+| bip_39_word_no_space_4 | anklefrogheighttrumpet |  
+| bip_39_word_no_space_5 | anklefrogheighttrumpetcarbon |  
+| bip_39_word_no_space_6 | anklefrogheighttrumpetcarbonsolve |  
+| bip_39_word_no_space_7 | anklefrogheighttrumpetcarbonsolvepanda |  
+| bip_39_word_no_space_8 | anklefrogheighttrumpetcarbonsolvepandaprosper |  
+| bip_39_word_no_space_9 | anklefrogheighttrumpetcarbonsolvepandaprospermenu |  
 | bip_39_word_space_0 | ['ankle', 'frog', 'height', 'trumpet', 'carbon', 'solve', 'panda', 'prosper', 'menu', 'afford', 'boss', 'artefact'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle frog height trumpet carbon solve panda prosper menu afford |  

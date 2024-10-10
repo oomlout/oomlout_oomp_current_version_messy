@@ -122,6 +122,18 @@ inmate
 salt
 husband
 pizza |  
+| bip_39_word_no_space_1 | limb |  
+| bip_39_word_no_space_10 | limbincreaseamusedvehicleflyinmatesalthusbandpizzacan |  
+| bip_39_word_no_space_11 | limbincreaseamusedvehicleflyinmatesalthusbandpizzacanemploy |  
+| bip_39_word_no_space_12 | limbincreaseamusedvehicleflyinmatesalthusbandpizzacanemployaddict |  
+| bip_39_word_no_space_2 | limbincrease |  
+| bip_39_word_no_space_3 | limbincreaseamused |  
+| bip_39_word_no_space_4 | limbincreaseamusedvehicle |  
+| bip_39_word_no_space_5 | limbincreaseamusedvehiclefly |  
+| bip_39_word_no_space_6 | limbincreaseamusedvehicleflyinmate |  
+| bip_39_word_no_space_7 | limbincreaseamusedvehicleflyinmatesalt |  
+| bip_39_word_no_space_8 | limbincreaseamusedvehicleflyinmatesalthusband |  
+| bip_39_word_no_space_9 | limbincreaseamusedvehicleflyinmatesalthusbandpizza |  
 | bip_39_word_space_0 | ['limb', 'increase', 'amused', 'vehicle', 'fly', 'inmate', 'salt', 'husband', 'pizza', 'can', 'employ', 'addict'] |  
 | bip_39_word_space_1 | limb |  
 | bip_39_word_space_10 | limb increase amused vehicle fly inmate salt husband pizza can |  

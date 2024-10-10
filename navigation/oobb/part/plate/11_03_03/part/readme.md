@@ -122,6 +122,18 @@ business
 help
 sword
 force |  
+| bip_39_word_no_space_1 | pilot |  
+| bip_39_word_no_space_10 | pilotswarmconductpatrolmeshbusinesshelpswordforcesilly |  
+| bip_39_word_no_space_11 | pilotswarmconductpatrolmeshbusinesshelpswordforcesillylaugh |  
+| bip_39_word_no_space_12 | pilotswarmconductpatrolmeshbusinesshelpswordforcesillylaughaverage |  
+| bip_39_word_no_space_2 | pilotswarm |  
+| bip_39_word_no_space_3 | pilotswarmconduct |  
+| bip_39_word_no_space_4 | pilotswarmconductpatrol |  
+| bip_39_word_no_space_5 | pilotswarmconductpatrolmesh |  
+| bip_39_word_no_space_6 | pilotswarmconductpatrolmeshbusiness |  
+| bip_39_word_no_space_7 | pilotswarmconductpatrolmeshbusinesshelp |  
+| bip_39_word_no_space_8 | pilotswarmconductpatrolmeshbusinesshelpsword |  
+| bip_39_word_no_space_9 | pilotswarmconductpatrolmeshbusinesshelpswordforce |  
 | bip_39_word_space_0 | ['pilot', 'swarm', 'conduct', 'patrol', 'mesh', 'business', 'help', 'sword', 'force', 'silly', 'laugh', 'average'] |  
 | bip_39_word_space_1 | pilot |  
 | bip_39_word_space_10 | pilot swarm conduct patrol mesh business help sword force silly |  

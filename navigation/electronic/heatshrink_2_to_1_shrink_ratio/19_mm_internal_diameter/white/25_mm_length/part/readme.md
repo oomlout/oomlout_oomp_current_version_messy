@@ -122,6 +122,18 @@ clinic
 fatal
 degree
 setup |  
+| bip_39_word_no_space_1 | quick |  
+| bip_39_word_no_space_10 | quickstrikeneckintoabandonclinicfataldegreesetupverb |  
+| bip_39_word_no_space_11 | quickstrikeneckintoabandonclinicfataldegreesetupverbnormal |  
+| bip_39_word_no_space_12 | quickstrikeneckintoabandonclinicfataldegreesetupverbnormalalter |  
+| bip_39_word_no_space_2 | quickstrike |  
+| bip_39_word_no_space_3 | quickstrikeneck |  
+| bip_39_word_no_space_4 | quickstrikeneckinto |  
+| bip_39_word_no_space_5 | quickstrikeneckintoabandon |  
+| bip_39_word_no_space_6 | quickstrikeneckintoabandonclinic |  
+| bip_39_word_no_space_7 | quickstrikeneckintoabandonclinicfatal |  
+| bip_39_word_no_space_8 | quickstrikeneckintoabandonclinicfataldegree |  
+| bip_39_word_no_space_9 | quickstrikeneckintoabandonclinicfataldegreesetup |  
 | bip_39_word_space_0 | ['quick', 'strike', 'neck', 'into', 'abandon', 'clinic', 'fatal', 'degree', 'setup', 'verb', 'normal', 'alter'] |  
 | bip_39_word_space_1 | quick |  
 | bip_39_word_space_10 | quick strike neck into abandon clinic fatal degree setup verb |  

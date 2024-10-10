@@ -122,6 +122,18 @@ diagram
 buffalo
 suit
 fork |  
+| bip_39_word_no_space_1 | food |  
+| bip_39_word_no_space_10 | foodhumblefindpuzzleinvitediagrambuffalosuitforkroute |  
+| bip_39_word_no_space_11 | foodhumblefindpuzzleinvitediagrambuffalosuitforkroutewater |  
+| bip_39_word_no_space_12 | foodhumblefindpuzzleinvitediagrambuffalosuitforkroutewaterallow |  
+| bip_39_word_no_space_2 | foodhumble |  
+| bip_39_word_no_space_3 | foodhumblefind |  
+| bip_39_word_no_space_4 | foodhumblefindpuzzle |  
+| bip_39_word_no_space_5 | foodhumblefindpuzzleinvite |  
+| bip_39_word_no_space_6 | foodhumblefindpuzzleinvitediagram |  
+| bip_39_word_no_space_7 | foodhumblefindpuzzleinvitediagrambuffalo |  
+| bip_39_word_no_space_8 | foodhumblefindpuzzleinvitediagrambuffalosuit |  
+| bip_39_word_no_space_9 | foodhumblefindpuzzleinvitediagrambuffalosuitfork |  
 | bip_39_word_space_0 | ['food', 'humble', 'find', 'puzzle', 'invite', 'diagram', 'buffalo', 'suit', 'fork', 'route', 'water', 'allow'] |  
 | bip_39_word_space_1 | food |  
 | bip_39_word_space_10 | food humble find puzzle invite diagram buffalo suit fork route |  

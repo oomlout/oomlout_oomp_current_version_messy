@@ -122,6 +122,18 @@ assist
 phrase
 burden
 scan |  
+| bip_39_word_no_space_1 | fossil |  
+| bip_39_word_no_space_10 | fossilapproveexhausteconomyacidassistphraseburdenscansalute |  
+| bip_39_word_no_space_11 | fossilapproveexhausteconomyacidassistphraseburdenscansaluteexhibit |  
+| bip_39_word_no_space_12 | fossilapproveexhausteconomyacidassistphraseburdenscansaluteexhibitability |  
+| bip_39_word_no_space_2 | fossilapprove |  
+| bip_39_word_no_space_3 | fossilapproveexhaust |  
+| bip_39_word_no_space_4 | fossilapproveexhausteconomy |  
+| bip_39_word_no_space_5 | fossilapproveexhausteconomyacid |  
+| bip_39_word_no_space_6 | fossilapproveexhausteconomyacidassist |  
+| bip_39_word_no_space_7 | fossilapproveexhausteconomyacidassistphrase |  
+| bip_39_word_no_space_8 | fossilapproveexhausteconomyacidassistphraseburden |  
+| bip_39_word_no_space_9 | fossilapproveexhausteconomyacidassistphraseburdenscan |  
 | bip_39_word_space_0 | ['fossil', 'approve', 'exhaust', 'economy', 'acid', 'assist', 'phrase', 'burden', 'scan', 'salute', 'exhibit', 'ability'] |  
 | bip_39_word_space_1 | fossil |  
 | bip_39_word_space_10 | fossil approve exhaust economy acid assist phrase burden scan salute |  

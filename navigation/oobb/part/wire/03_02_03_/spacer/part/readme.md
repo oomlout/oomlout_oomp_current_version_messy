@@ -122,6 +122,18 @@ early
 boy
 female
 soap |  
+| bip_39_word_no_space_1 | ceiling |  
+| bip_39_word_no_space_10 | ceilingdecoratedrawsillyfestivalearlyboyfemalesoapwidth |  
+| bip_39_word_no_space_11 | ceilingdecoratedrawsillyfestivalearlyboyfemalesoapwidthcollect |  
+| bip_39_word_no_space_12 | ceilingdecoratedrawsillyfestivalearlyboyfemalesoapwidthcollectanother |  
+| bip_39_word_no_space_2 | ceilingdecorate |  
+| bip_39_word_no_space_3 | ceilingdecoratedraw |  
+| bip_39_word_no_space_4 | ceilingdecoratedrawsilly |  
+| bip_39_word_no_space_5 | ceilingdecoratedrawsillyfestival |  
+| bip_39_word_no_space_6 | ceilingdecoratedrawsillyfestivalearly |  
+| bip_39_word_no_space_7 | ceilingdecoratedrawsillyfestivalearlyboy |  
+| bip_39_word_no_space_8 | ceilingdecoratedrawsillyfestivalearlyboyfemale |  
+| bip_39_word_no_space_9 | ceilingdecoratedrawsillyfestivalearlyboyfemalesoap |  
 | bip_39_word_space_0 | ['ceiling', 'decorate', 'draw', 'silly', 'festival', 'early', 'boy', 'female', 'soap', 'width', 'collect', 'another'] |  
 | bip_39_word_space_1 | ceiling |  
 | bip_39_word_space_10 | ceiling decorate draw silly festival early boy female soap width |  

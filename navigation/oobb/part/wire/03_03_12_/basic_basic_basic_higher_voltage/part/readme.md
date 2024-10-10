@@ -122,6 +122,18 @@ pizza
 between
 property
 wool |  
+| bip_39_word_no_space_1 | paper |  
+| bip_39_word_no_space_10 | paperdrasticspoilcarindexpizzabetweenpropertywoolkit |  
+| bip_39_word_no_space_11 | paperdrasticspoilcarindexpizzabetweenpropertywoolkitpicnic |  
+| bip_39_word_no_space_12 | paperdrasticspoilcarindexpizzabetweenpropertywoolkitpicnicalso |  
+| bip_39_word_no_space_2 | paperdrastic |  
+| bip_39_word_no_space_3 | paperdrasticspoil |  
+| bip_39_word_no_space_4 | paperdrasticspoilcar |  
+| bip_39_word_no_space_5 | paperdrasticspoilcarindex |  
+| bip_39_word_no_space_6 | paperdrasticspoilcarindexpizza |  
+| bip_39_word_no_space_7 | paperdrasticspoilcarindexpizzabetween |  
+| bip_39_word_no_space_8 | paperdrasticspoilcarindexpizzabetweenproperty |  
+| bip_39_word_no_space_9 | paperdrasticspoilcarindexpizzabetweenpropertywool |  
 | bip_39_word_space_0 | ['paper', 'drastic', 'spoil', 'car', 'index', 'pizza', 'between', 'property', 'wool', 'kit', 'picnic', 'also'] |  
 | bip_39_word_space_1 | paper |  
 | bip_39_word_space_10 | paper drastic spoil car index pizza between property wool kit |  

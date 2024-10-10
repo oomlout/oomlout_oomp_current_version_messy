@@ -122,6 +122,18 @@ spray
 truly
 maze
 stick |  
+| bip_39_word_no_space_1 | feed |  
+| bip_39_word_no_space_10 | feedlessongravitymetalmoviespraytrulymazestickcrowd |  
+| bip_39_word_no_space_11 | feedlessongravitymetalmoviespraytrulymazestickcrowdvolcano |  
+| bip_39_word_no_space_12 | feedlessongravitymetalmoviespraytrulymazestickcrowdvolcanoagree |  
+| bip_39_word_no_space_2 | feedlesson |  
+| bip_39_word_no_space_3 | feedlessongravity |  
+| bip_39_word_no_space_4 | feedlessongravitymetal |  
+| bip_39_word_no_space_5 | feedlessongravitymetalmovie |  
+| bip_39_word_no_space_6 | feedlessongravitymetalmoviespray |  
+| bip_39_word_no_space_7 | feedlessongravitymetalmoviespraytruly |  
+| bip_39_word_no_space_8 | feedlessongravitymetalmoviespraytrulymaze |  
+| bip_39_word_no_space_9 | feedlessongravitymetalmoviespraytrulymazestick |  
 | bip_39_word_space_0 | ['feed', 'lesson', 'gravity', 'metal', 'movie', 'spray', 'truly', 'maze', 'stick', 'crowd', 'volcano', 'agree'] |  
 | bip_39_word_space_1 | feed |  
 | bip_39_word_space_10 | feed lesson gravity metal movie spray truly maze stick crowd |  

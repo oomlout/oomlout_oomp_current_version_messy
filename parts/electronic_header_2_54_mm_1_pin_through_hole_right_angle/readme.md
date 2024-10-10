@@ -122,6 +122,18 @@ copy
 detect
 seven
 quit |  
+| bip_39_word_no_space_1 | grace |  
+| bip_39_word_no_space_10 | graceshoplabmagnetjunglecopydetectsevenquitdevote |  
+| bip_39_word_no_space_11 | graceshoplabmagnetjunglecopydetectsevenquitdevoteclub |  
+| bip_39_word_no_space_12 | graceshoplabmagnetjunglecopydetectsevenquitdevoteclubact |  
+| bip_39_word_no_space_2 | graceshop |  
+| bip_39_word_no_space_3 | graceshoplab |  
+| bip_39_word_no_space_4 | graceshoplabmagnet |  
+| bip_39_word_no_space_5 | graceshoplabmagnetjungle |  
+| bip_39_word_no_space_6 | graceshoplabmagnetjunglecopy |  
+| bip_39_word_no_space_7 | graceshoplabmagnetjunglecopydetect |  
+| bip_39_word_no_space_8 | graceshoplabmagnetjunglecopydetectseven |  
+| bip_39_word_no_space_9 | graceshoplabmagnetjunglecopydetectsevenquit |  
 | bip_39_word_space_0 | ['grace', 'shop', 'lab', 'magnet', 'jungle', 'copy', 'detect', 'seven', 'quit', 'devote', 'club', 'act'] |  
 | bip_39_word_space_1 | grace |  
 | bip_39_word_space_10 | grace shop lab magnet jungle copy detect seven quit devote |  

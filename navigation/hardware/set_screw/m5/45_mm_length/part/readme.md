@@ -122,6 +122,18 @@ kangaroo
 eternal
 believe
 type |  
+| bip_39_word_no_space_1 | discover |  
+| bip_39_word_no_space_10 | discovervangospeltragicsweetkangarooeternalbelievetypevery |  
+| bip_39_word_no_space_11 | discovervangospeltragicsweetkangarooeternalbelievetypeveryown |  
+| bip_39_word_no_space_12 | discovervangospeltragicsweetkangarooeternalbelievetypeveryownaisle |  
+| bip_39_word_no_space_2 | discovervan |  
+| bip_39_word_no_space_3 | discovervangospel |  
+| bip_39_word_no_space_4 | discovervangospeltragic |  
+| bip_39_word_no_space_5 | discovervangospeltragicsweet |  
+| bip_39_word_no_space_6 | discovervangospeltragicsweetkangaroo |  
+| bip_39_word_no_space_7 | discovervangospeltragicsweetkangarooeternal |  
+| bip_39_word_no_space_8 | discovervangospeltragicsweetkangarooeternalbelieve |  
+| bip_39_word_no_space_9 | discovervangospeltragicsweetkangarooeternalbelievetype |  
 | bip_39_word_space_0 | ['discover', 'van', 'gospel', 'tragic', 'sweet', 'kangaroo', 'eternal', 'believe', 'type', 'very', 'own', 'aisle'] |  
 | bip_39_word_space_1 | discover |  
 | bip_39_word_space_10 | discover van gospel tragic sweet kangaroo eternal believe type very |  

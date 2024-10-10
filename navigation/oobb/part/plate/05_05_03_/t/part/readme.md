@@ -122,6 +122,18 @@ salon
 pole
 come
 garlic |  
+| bip_39_word_no_space_1 | bird |  
+| bip_39_word_no_space_10 | birdjaguarpauseannualintactsalonpolecomegarlicdigital |  
+| bip_39_word_no_space_11 | birdjaguarpauseannualintactsalonpolecomegarlicdigitaldog |  
+| bip_39_word_no_space_12 | birdjaguarpauseannualintactsalonpolecomegarlicdigitaldogalways |  
+| bip_39_word_no_space_2 | birdjaguar |  
+| bip_39_word_no_space_3 | birdjaguarpause |  
+| bip_39_word_no_space_4 | birdjaguarpauseannual |  
+| bip_39_word_no_space_5 | birdjaguarpauseannualintact |  
+| bip_39_word_no_space_6 | birdjaguarpauseannualintactsalon |  
+| bip_39_word_no_space_7 | birdjaguarpauseannualintactsalonpole |  
+| bip_39_word_no_space_8 | birdjaguarpauseannualintactsalonpolecome |  
+| bip_39_word_no_space_9 | birdjaguarpauseannualintactsalonpolecomegarlic |  
 | bip_39_word_space_0 | ['bird', 'jaguar', 'pause', 'annual', 'intact', 'salon', 'pole', 'come', 'garlic', 'digital', 'dog', 'always'] |  
 | bip_39_word_space_1 | bird |  
 | bip_39_word_space_10 | bird jaguar pause annual intact salon pole come garlic digital |  

@@ -122,6 +122,18 @@ switch
 dress
 thought
 language |  
+| bip_39_word_no_space_1 | hobby |  
+| bip_39_word_no_space_10 | hobbyvenuewaspversiontrafficswitchdressthoughtlanguagecage |  
+| bip_39_word_no_space_11 | hobbyvenuewaspversiontrafficswitchdressthoughtlanguagecageaverage |  
+| bip_39_word_no_space_12 | hobbyvenuewaspversiontrafficswitchdressthoughtlanguagecageaverageargue |  
+| bip_39_word_no_space_2 | hobbyvenue |  
+| bip_39_word_no_space_3 | hobbyvenuewasp |  
+| bip_39_word_no_space_4 | hobbyvenuewaspversion |  
+| bip_39_word_no_space_5 | hobbyvenuewaspversiontraffic |  
+| bip_39_word_no_space_6 | hobbyvenuewaspversiontrafficswitch |  
+| bip_39_word_no_space_7 | hobbyvenuewaspversiontrafficswitchdress |  
+| bip_39_word_no_space_8 | hobbyvenuewaspversiontrafficswitchdressthought |  
+| bip_39_word_no_space_9 | hobbyvenuewaspversiontrafficswitchdressthoughtlanguage |  
 | bip_39_word_space_0 | ['hobby', 'venue', 'wasp', 'version', 'traffic', 'switch', 'dress', 'thought', 'language', 'cage', 'average', 'argue'] |  
 | bip_39_word_space_1 | hobby |  
 | bip_39_word_space_10 | hobby venue wasp version traffic switch dress thought language cage |  

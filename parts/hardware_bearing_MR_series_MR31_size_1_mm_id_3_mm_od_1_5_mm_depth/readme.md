@@ -122,6 +122,18 @@ insane
 throw
 practice
 orphan |  
+| bip_39_word_no_space_1 | pilot |  
+| bip_39_word_no_space_10 | pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasy |  
+| bip_39_word_no_space_11 | pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasyconduct |  
+| bip_39_word_no_space_12 | pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasyconductalien |  
+| bip_39_word_no_space_2 | pilotenjoy |  
+| bip_39_word_no_space_3 | pilotenjoyspecial |  
+| bip_39_word_no_space_4 | pilotenjoyspecialrelief |  
+| bip_39_word_no_space_5 | pilotenjoyspecialreliefamount |  
+| bip_39_word_no_space_6 | pilotenjoyspecialreliefamountinsane |  
+| bip_39_word_no_space_7 | pilotenjoyspecialreliefamountinsanethrow |  
+| bip_39_word_no_space_8 | pilotenjoyspecialreliefamountinsanethrowpractice |  
+| bip_39_word_no_space_9 | pilotenjoyspecialreliefamountinsanethrowpracticeorphan |  
 | bip_39_word_space_0 | ['pilot', 'enjoy', 'special', 'relief', 'amount', 'insane', 'throw', 'practice', 'orphan', 'easy', 'conduct', 'alien'] |  
 | bip_39_word_space_1 | pilot |  
 | bip_39_word_space_10 | pilot enjoy special relief amount insane throw practice orphan easy |  

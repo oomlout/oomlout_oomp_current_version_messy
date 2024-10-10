@@ -122,6 +122,18 @@ winter
 beef
 visual
 hammer |  
+| bip_39_word_no_space_1 | museum |  
+| bip_39_word_no_space_10 | museumriflehireluggagetubewinterbeefvisualhammerquestion |  
+| bip_39_word_no_space_11 | museumriflehireluggagetubewinterbeefvisualhammerquestionelement |  
+| bip_39_word_no_space_12 | museumriflehireluggagetubewinterbeefvisualhammerquestionelementannual |  
+| bip_39_word_no_space_2 | museumrifle |  
+| bip_39_word_no_space_3 | museumriflehire |  
+| bip_39_word_no_space_4 | museumriflehireluggage |  
+| bip_39_word_no_space_5 | museumriflehireluggagetube |  
+| bip_39_word_no_space_6 | museumriflehireluggagetubewinter |  
+| bip_39_word_no_space_7 | museumriflehireluggagetubewinterbeef |  
+| bip_39_word_no_space_8 | museumriflehireluggagetubewinterbeefvisual |  
+| bip_39_word_no_space_9 | museumriflehireluggagetubewinterbeefvisualhammer |  
 | bip_39_word_space_0 | ['museum', 'rifle', 'hire', 'luggage', 'tube', 'winter', 'beef', 'visual', 'hammer', 'question', 'element', 'annual'] |  
 | bip_39_word_space_1 | museum |  
 | bip_39_word_space_10 | museum rifle hire luggage tube winter beef visual hammer question |  

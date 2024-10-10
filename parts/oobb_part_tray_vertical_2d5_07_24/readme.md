@@ -122,6 +122,18 @@ strong
 thrive
 blade
 inject |  
+| bip_39_word_no_space_1 | fresh |  
+| bip_39_word_no_space_10 | freshnicedresshourjaguarstrongthrivebladeinjectelement |  
+| bip_39_word_no_space_11 | freshnicedresshourjaguarstrongthrivebladeinjectelementnature |  
+| bip_39_word_no_space_12 | freshnicedresshourjaguarstrongthrivebladeinjectelementnaturearch |  
+| bip_39_word_no_space_2 | freshnice |  
+| bip_39_word_no_space_3 | freshnicedress |  
+| bip_39_word_no_space_4 | freshnicedresshour |  
+| bip_39_word_no_space_5 | freshnicedresshourjaguar |  
+| bip_39_word_no_space_6 | freshnicedresshourjaguarstrong |  
+| bip_39_word_no_space_7 | freshnicedresshourjaguarstrongthrive |  
+| bip_39_word_no_space_8 | freshnicedresshourjaguarstrongthriveblade |  
+| bip_39_word_no_space_9 | freshnicedresshourjaguarstrongthrivebladeinject |  
 | bip_39_word_space_0 | ['fresh', 'nice', 'dress', 'hour', 'jaguar', 'strong', 'thrive', 'blade', 'inject', 'element', 'nature', 'arch'] |  
 | bip_39_word_space_1 | fresh |  
 | bip_39_word_space_10 | fresh nice dress hour jaguar strong thrive blade inject element |  

@@ -122,6 +122,18 @@ dumb
 ankle
 rude
 purity |  
+| bip_39_word_no_space_1 | tooth |  
+| bip_39_word_no_space_10 | toothpurposepagejellyanydumbanklerudepurityroute |  
+| bip_39_word_no_space_11 | toothpurposepagejellyanydumbanklerudepurityroutedilemma |  
+| bip_39_word_no_space_12 | toothpurposepagejellyanydumbanklerudepurityroutedilemmaavocado |  
+| bip_39_word_no_space_2 | toothpurpose |  
+| bip_39_word_no_space_3 | toothpurposepage |  
+| bip_39_word_no_space_4 | toothpurposepagejelly |  
+| bip_39_word_no_space_5 | toothpurposepagejellyany |  
+| bip_39_word_no_space_6 | toothpurposepagejellyanydumb |  
+| bip_39_word_no_space_7 | toothpurposepagejellyanydumbankle |  
+| bip_39_word_no_space_8 | toothpurposepagejellyanydumbanklerude |  
+| bip_39_word_no_space_9 | toothpurposepagejellyanydumbanklerudepurity |  
 | bip_39_word_space_0 | ['tooth', 'purpose', 'page', 'jelly', 'any', 'dumb', 'ankle', 'rude', 'purity', 'route', 'dilemma', 'avocado'] |  
 | bip_39_word_space_1 | tooth |  
 | bip_39_word_space_10 | tooth purpose page jelly any dumb ankle rude purity route |  

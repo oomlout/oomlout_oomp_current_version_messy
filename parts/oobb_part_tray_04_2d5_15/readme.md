@@ -122,6 +122,18 @@ input
 eagle
 scene
 myth |  
+| bip_39_word_no_space_1 | curve |  
+| bip_39_word_no_space_10 | curvemultiplysurroundlazycurveinputeaglescenemythhand |  
+| bip_39_word_no_space_11 | curvemultiplysurroundlazycurveinputeaglescenemythhandreceive |  
+| bip_39_word_no_space_12 | curvemultiplysurroundlazycurveinputeaglescenemythhandreceiveaverage |  
+| bip_39_word_no_space_2 | curvemultiply |  
+| bip_39_word_no_space_3 | curvemultiplysurround |  
+| bip_39_word_no_space_4 | curvemultiplysurroundlazy |  
+| bip_39_word_no_space_5 | curvemultiplysurroundlazycurve |  
+| bip_39_word_no_space_6 | curvemultiplysurroundlazycurveinput |  
+| bip_39_word_no_space_7 | curvemultiplysurroundlazycurveinputeagle |  
+| bip_39_word_no_space_8 | curvemultiplysurroundlazycurveinputeaglescene |  
+| bip_39_word_no_space_9 | curvemultiplysurroundlazycurveinputeaglescenemyth |  
 | bip_39_word_space_0 | ['curve', 'multiply', 'surround', 'lazy', 'curve', 'input', 'eagle', 'scene', 'myth', 'hand', 'receive', 'average'] |  
 | bip_39_word_space_1 | curve |  
 | bip_39_word_space_10 | curve multiply surround lazy curve input eagle scene myth hand |  

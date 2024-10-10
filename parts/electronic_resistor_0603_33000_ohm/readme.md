@@ -122,6 +122,18 @@ scene
 universe
 muscle
 creek |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefdisorderhazardfilmkittensceneuniversemusclecreekcash |  
+| bip_39_word_no_space_11 | chiefdisorderhazardfilmkittensceneuniversemusclecreekcashrequire |  
+| bip_39_word_no_space_12 | chiefdisorderhazardfilmkittensceneuniversemusclecreekcashrequireairport |  
+| bip_39_word_no_space_2 | chiefdisorder |  
+| bip_39_word_no_space_3 | chiefdisorderhazard |  
+| bip_39_word_no_space_4 | chiefdisorderhazardfilm |  
+| bip_39_word_no_space_5 | chiefdisorderhazardfilmkitten |  
+| bip_39_word_no_space_6 | chiefdisorderhazardfilmkittenscene |  
+| bip_39_word_no_space_7 | chiefdisorderhazardfilmkittensceneuniverse |  
+| bip_39_word_no_space_8 | chiefdisorderhazardfilmkittensceneuniversemuscle |  
+| bip_39_word_no_space_9 | chiefdisorderhazardfilmkittensceneuniversemusclecreek |  
 | bip_39_word_space_0 | ['chief', 'disorder', 'hazard', 'film', 'kitten', 'scene', 'universe', 'muscle', 'creek', 'cash', 'require', 'airport'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief disorder hazard film kitten scene universe muscle creek cash |  

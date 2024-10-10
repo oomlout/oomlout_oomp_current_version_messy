@@ -122,6 +122,18 @@ august
 artwork
 step
 movie |  
+| bip_39_word_no_space_1 | adjust |  
+| bip_39_word_no_space_10 | adjustlogicselecthollowduneaugustartworkstepmoviekeen |  
+| bip_39_word_no_space_11 | adjustlogicselecthollowduneaugustartworkstepmoviekeenathlete |  
+| bip_39_word_no_space_12 | adjustlogicselecthollowduneaugustartworkstepmoviekeenathleteamused |  
+| bip_39_word_no_space_2 | adjustlogic |  
+| bip_39_word_no_space_3 | adjustlogicselect |  
+| bip_39_word_no_space_4 | adjustlogicselecthollow |  
+| bip_39_word_no_space_5 | adjustlogicselecthollowdune |  
+| bip_39_word_no_space_6 | adjustlogicselecthollowduneaugust |  
+| bip_39_word_no_space_7 | adjustlogicselecthollowduneaugustartwork |  
+| bip_39_word_no_space_8 | adjustlogicselecthollowduneaugustartworkstep |  
+| bip_39_word_no_space_9 | adjustlogicselecthollowduneaugustartworkstepmovie |  
 | bip_39_word_space_0 | ['adjust', 'logic', 'select', 'hollow', 'dune', 'august', 'artwork', 'step', 'movie', 'keen', 'athlete', 'amused'] |  
 | bip_39_word_space_1 | adjust |  
 | bip_39_word_space_10 | adjust logic select hollow dune august artwork step movie keen |  

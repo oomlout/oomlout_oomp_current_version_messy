@@ -122,6 +122,18 @@ floor
 crisp
 dog
 stable |  
+| bip_39_word_no_space_1 | today |  
+| bip_39_word_no_space_10 | todaylatincheeseinjurymatchfloorcrispdogstablehold |  
+| bip_39_word_no_space_11 | todaylatincheeseinjurymatchfloorcrispdogstableholdadvance |  
+| bip_39_word_no_space_12 | todaylatincheeseinjurymatchfloorcrispdogstableholdadvanceanother |  
+| bip_39_word_no_space_2 | todaylatin |  
+| bip_39_word_no_space_3 | todaylatincheese |  
+| bip_39_word_no_space_4 | todaylatincheeseinjury |  
+| bip_39_word_no_space_5 | todaylatincheeseinjurymatch |  
+| bip_39_word_no_space_6 | todaylatincheeseinjurymatchfloor |  
+| bip_39_word_no_space_7 | todaylatincheeseinjurymatchfloorcrisp |  
+| bip_39_word_no_space_8 | todaylatincheeseinjurymatchfloorcrispdog |  
+| bip_39_word_no_space_9 | todaylatincheeseinjurymatchfloorcrispdogstable |  
 | bip_39_word_space_0 | ['today', 'latin', 'cheese', 'injury', 'match', 'floor', 'crisp', 'dog', 'stable', 'hold', 'advance', 'another'] |  
 | bip_39_word_space_1 | today |  
 | bip_39_word_space_10 | today latin cheese injury match floor crisp dog stable hold |  

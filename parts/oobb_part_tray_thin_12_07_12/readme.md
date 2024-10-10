@@ -122,6 +122,18 @@ scare
 special
 fish
 swear |  
+| bip_39_word_no_space_1 | inch |  
+| bip_39_word_no_space_10 | inchreplacesampleenterrequirescarespecialfishswearkitchen |  
+| bip_39_word_no_space_11 | inchreplacesampleenterrequirescarespecialfishswearkitchenmanual |  
+| bip_39_word_no_space_12 | inchreplacesampleenterrequirescarespecialfishswearkitchenmanualadvance |  
+| bip_39_word_no_space_2 | inchreplace |  
+| bip_39_word_no_space_3 | inchreplacesample |  
+| bip_39_word_no_space_4 | inchreplacesampleenter |  
+| bip_39_word_no_space_5 | inchreplacesampleenterrequire |  
+| bip_39_word_no_space_6 | inchreplacesampleenterrequirescare |  
+| bip_39_word_no_space_7 | inchreplacesampleenterrequirescarespecial |  
+| bip_39_word_no_space_8 | inchreplacesampleenterrequirescarespecialfish |  
+| bip_39_word_no_space_9 | inchreplacesampleenterrequirescarespecialfishswear |  
 | bip_39_word_space_0 | ['inch', 'replace', 'sample', 'enter', 'require', 'scare', 'special', 'fish', 'swear', 'kitchen', 'manual', 'advance'] |  
 | bip_39_word_space_1 | inch |  
 | bip_39_word_space_10 | inch replace sample enter require scare special fish swear kitchen |  

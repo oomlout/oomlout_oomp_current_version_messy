@@ -122,6 +122,18 @@ ceiling
 warfare
 camera
 detect |  
+| bip_39_word_no_space_1 | cradle |  
+| bip_39_word_no_space_10 | cradleokaynarrowhuntdefyceilingwarfarecameradetectgate |  
+| bip_39_word_no_space_11 | cradleokaynarrowhuntdefyceilingwarfarecameradetectgatelucky |  
+| bip_39_word_no_space_12 | cradleokaynarrowhuntdefyceilingwarfarecameradetectgateluckyartwork |  
+| bip_39_word_no_space_2 | cradleokay |  
+| bip_39_word_no_space_3 | cradleokaynarrow |  
+| bip_39_word_no_space_4 | cradleokaynarrowhunt |  
+| bip_39_word_no_space_5 | cradleokaynarrowhuntdefy |  
+| bip_39_word_no_space_6 | cradleokaynarrowhuntdefyceiling |  
+| bip_39_word_no_space_7 | cradleokaynarrowhuntdefyceilingwarfare |  
+| bip_39_word_no_space_8 | cradleokaynarrowhuntdefyceilingwarfarecamera |  
+| bip_39_word_no_space_9 | cradleokaynarrowhuntdefyceilingwarfarecameradetect |  
 | bip_39_word_space_0 | ['cradle', 'okay', 'narrow', 'hunt', 'defy', 'ceiling', 'warfare', 'camera', 'detect', 'gate', 'lucky', 'artwork'] |  
 | bip_39_word_space_1 | cradle |  
 | bip_39_word_space_10 | cradle okay narrow hunt defy ceiling warfare camera detect gate |  

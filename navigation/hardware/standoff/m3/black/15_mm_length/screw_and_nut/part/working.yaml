@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'echo
   cage
 
   brain'
+bip_39_word_no_space_1: echo
+bip_39_word_no_space_10: echoedgevelvetdomainroyaltoyribcagebrainschool
+bip_39_word_no_space_11: echoedgevelvetdomainroyaltoyribcagebrainschoolsubway
+bip_39_word_no_space_12: echoedgevelvetdomainroyaltoyribcagebrainschoolsubwayanger
+bip_39_word_no_space_2: echoedge
+bip_39_word_no_space_3: echoedgevelvet
+bip_39_word_no_space_4: echoedgevelvetdomain
+bip_39_word_no_space_5: echoedgevelvetdomainroyal
+bip_39_word_no_space_6: echoedgevelvetdomainroyaltoy
+bip_39_word_no_space_7: echoedgevelvetdomainroyaltoyrib
+bip_39_word_no_space_8: echoedgevelvetdomainroyaltoyribcage
+bip_39_word_no_space_9: echoedgevelvetdomainroyaltoyribcagebrain
 bip_39_word_space_0:
 - echo
 - edge

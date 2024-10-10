@@ -122,6 +122,18 @@ brief
 climb
 bright
 reflect |  
+| bip_39_word_no_space_1 | glue |  
+| bip_39_word_no_space_10 | gluerichpenjumpmixedbriefclimbbrightreflectshaft |  
+| bip_39_word_no_space_11 | gluerichpenjumpmixedbriefclimbbrightreflectshaftfuture |  
+| bip_39_word_no_space_12 | gluerichpenjumpmixedbriefclimbbrightreflectshaftfutureanalyst |  
+| bip_39_word_no_space_2 | gluerich |  
+| bip_39_word_no_space_3 | gluerichpen |  
+| bip_39_word_no_space_4 | gluerichpenjump |  
+| bip_39_word_no_space_5 | gluerichpenjumpmixed |  
+| bip_39_word_no_space_6 | gluerichpenjumpmixedbrief |  
+| bip_39_word_no_space_7 | gluerichpenjumpmixedbriefclimb |  
+| bip_39_word_no_space_8 | gluerichpenjumpmixedbriefclimbbright |  
+| bip_39_word_no_space_9 | gluerichpenjumpmixedbriefclimbbrightreflect |  
 | bip_39_word_space_0 | ['glue', 'rich', 'pen', 'jump', 'mixed', 'brief', 'climb', 'bright', 'reflect', 'shaft', 'future', 'analyst'] |  
 | bip_39_word_space_1 | glue |  
 | bip_39_word_space_10 | glue rich pen jump mixed brief climb bright reflect shaft |  

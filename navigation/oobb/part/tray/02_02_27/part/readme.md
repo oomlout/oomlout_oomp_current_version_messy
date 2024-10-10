@@ -122,6 +122,18 @@ wait
 radio
 expose
 truck |  
+| bip_39_word_no_space_1 | bicycle |  
+| bip_39_word_no_space_10 | bicyclevariousjobtoastcongresswaitradioexposetruckbird |  
+| bip_39_word_no_space_11 | bicyclevariousjobtoastcongresswaitradioexposetruckbirdobvious |  
+| bip_39_word_no_space_12 | bicyclevariousjobtoastcongresswaitradioexposetruckbirdobviousalmost |  
+| bip_39_word_no_space_2 | bicyclevarious |  
+| bip_39_word_no_space_3 | bicyclevariousjob |  
+| bip_39_word_no_space_4 | bicyclevariousjobtoast |  
+| bip_39_word_no_space_5 | bicyclevariousjobtoastcongress |  
+| bip_39_word_no_space_6 | bicyclevariousjobtoastcongresswait |  
+| bip_39_word_no_space_7 | bicyclevariousjobtoastcongresswaitradio |  
+| bip_39_word_no_space_8 | bicyclevariousjobtoastcongresswaitradioexpose |  
+| bip_39_word_no_space_9 | bicyclevariousjobtoastcongresswaitradioexposetruck |  
 | bip_39_word_space_0 | ['bicycle', 'various', 'job', 'toast', 'congress', 'wait', 'radio', 'expose', 'truck', 'bird', 'obvious', 'almost'] |  
 | bip_39_word_space_1 | bicycle |  
 | bip_39_word_space_10 | bicycle various job toast congress wait radio expose truck bird |  

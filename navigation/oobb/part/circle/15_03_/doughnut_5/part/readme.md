@@ -122,6 +122,18 @@ fault
 place
 garage
 capable |  
+| bip_39_word_no_space_1 | practice |  
+| bip_39_word_no_space_10 | practicesoapoutervintageceilingfaultplacegaragecapabledonate |  
+| bip_39_word_no_space_11 | practicesoapoutervintageceilingfaultplacegaragecapabledonatesummer |  
+| bip_39_word_no_space_12 | practicesoapoutervintageceilingfaultplacegaragecapabledonatesummeraisle |  
+| bip_39_word_no_space_2 | practicesoap |  
+| bip_39_word_no_space_3 | practicesoapouter |  
+| bip_39_word_no_space_4 | practicesoapoutervintage |  
+| bip_39_word_no_space_5 | practicesoapoutervintageceiling |  
+| bip_39_word_no_space_6 | practicesoapoutervintageceilingfault |  
+| bip_39_word_no_space_7 | practicesoapoutervintageceilingfaultplace |  
+| bip_39_word_no_space_8 | practicesoapoutervintageceilingfaultplacegarage |  
+| bip_39_word_no_space_9 | practicesoapoutervintageceilingfaultplacegaragecapable |  
 | bip_39_word_space_0 | ['practice', 'soap', 'outer', 'vintage', 'ceiling', 'fault', 'place', 'garage', 'capable', 'donate', 'summer', 'aisle'] |  
 | bip_39_word_space_1 | practice |  
 | bip_39_word_space_10 | practice soap outer vintage ceiling fault place garage capable donate |  

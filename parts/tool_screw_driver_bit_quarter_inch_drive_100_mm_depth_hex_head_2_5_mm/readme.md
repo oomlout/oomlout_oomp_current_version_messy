@@ -122,6 +122,18 @@ dress
 grass
 young
 filter |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblecornblacktigercubedressgrassyoungfilterhigh |  
+| bip_39_word_no_space_11 | marblecornblacktigercubedressgrassyoungfilterhighmore |  
+| bip_39_word_no_space_12 | marblecornblacktigercubedressgrassyoungfilterhighmoreangle |  
+| bip_39_word_no_space_2 | marblecorn |  
+| bip_39_word_no_space_3 | marblecornblack |  
+| bip_39_word_no_space_4 | marblecornblacktiger |  
+| bip_39_word_no_space_5 | marblecornblacktigercube |  
+| bip_39_word_no_space_6 | marblecornblacktigercubedress |  
+| bip_39_word_no_space_7 | marblecornblacktigercubedressgrass |  
+| bip_39_word_no_space_8 | marblecornblacktigercubedressgrassyoung |  
+| bip_39_word_no_space_9 | marblecornblacktigercubedressgrassyoungfilter |  
 | bip_39_word_space_0 | ['marble', 'corn', 'black', 'tiger', 'cube', 'dress', 'grass', 'young', 'filter', 'high', 'more', 'angle'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble corn black tiger cube dress grass young filter high |  

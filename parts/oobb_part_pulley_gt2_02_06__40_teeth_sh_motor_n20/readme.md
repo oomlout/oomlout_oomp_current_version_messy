@@ -122,6 +122,18 @@ develop
 rug
 tag
 fish |  
+| bip_39_word_no_space_1 | heavy |  
+| bip_39_word_no_space_10 | heavyweekenddecembereggnaturedeveloprugtagfishslush |  
+| bip_39_word_no_space_11 | heavyweekenddecembereggnaturedeveloprugtagfishslushadjust |  
+| bip_39_word_no_space_12 | heavyweekenddecembereggnaturedeveloprugtagfishslushadjustall |  
+| bip_39_word_no_space_2 | heavyweekend |  
+| bip_39_word_no_space_3 | heavyweekenddecember |  
+| bip_39_word_no_space_4 | heavyweekenddecemberegg |  
+| bip_39_word_no_space_5 | heavyweekenddecembereggnature |  
+| bip_39_word_no_space_6 | heavyweekenddecembereggnaturedevelop |  
+| bip_39_word_no_space_7 | heavyweekenddecembereggnaturedeveloprug |  
+| bip_39_word_no_space_8 | heavyweekenddecembereggnaturedeveloprugtag |  
+| bip_39_word_no_space_9 | heavyweekenddecembereggnaturedeveloprugtagfish |  
 | bip_39_word_space_0 | ['heavy', 'weekend', 'december', 'egg', 'nature', 'develop', 'rug', 'tag', 'fish', 'slush', 'adjust', 'all'] |  
 | bip_39_word_space_1 | heavy |  
 | bip_39_word_space_10 | heavy weekend december egg nature develop rug tag fish slush |  

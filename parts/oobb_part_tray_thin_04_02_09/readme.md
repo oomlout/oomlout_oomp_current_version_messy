@@ -122,6 +122,18 @@ assault
 person
 away
 style |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroomfollowmethodozoneeraseassaultpersonawaystyleostrich |  
+| bip_39_word_no_space_11 | mushroomfollowmethodozoneeraseassaultpersonawaystyleostrichvarious |  
+| bip_39_word_no_space_12 | mushroomfollowmethodozoneeraseassaultpersonawaystyleostrichvariousannounce |  
+| bip_39_word_no_space_2 | mushroomfollow |  
+| bip_39_word_no_space_3 | mushroomfollowmethod |  
+| bip_39_word_no_space_4 | mushroomfollowmethodozone |  
+| bip_39_word_no_space_5 | mushroomfollowmethodozoneerase |  
+| bip_39_word_no_space_6 | mushroomfollowmethodozoneeraseassault |  
+| bip_39_word_no_space_7 | mushroomfollowmethodozoneeraseassaultperson |  
+| bip_39_word_no_space_8 | mushroomfollowmethodozoneeraseassaultpersonaway |  
+| bip_39_word_no_space_9 | mushroomfollowmethodozoneeraseassaultpersonawaystyle |  
 | bip_39_word_space_0 | ['mushroom', 'follow', 'method', 'ozone', 'erase', 'assault', 'person', 'away', 'style', 'ostrich', 'various', 'announce'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom follow method ozone erase assault person away style ostrich |  

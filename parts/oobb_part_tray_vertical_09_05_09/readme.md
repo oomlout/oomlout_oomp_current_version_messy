@@ -122,6 +122,18 @@ wave
 alley
 avocado
 retreat |  
+| bip_39_word_no_space_1 | share |  
+| bip_39_word_no_space_10 | sharesoundfiberpathshinewavealleyavocadoretreatglory |  
+| bip_39_word_no_space_11 | sharesoundfiberpathshinewavealleyavocadoretreatglorysatoshi |  
+| bip_39_word_no_space_12 | sharesoundfiberpathshinewavealleyavocadoretreatglorysatoshiarm |  
+| bip_39_word_no_space_2 | sharesound |  
+| bip_39_word_no_space_3 | sharesoundfiber |  
+| bip_39_word_no_space_4 | sharesoundfiberpath |  
+| bip_39_word_no_space_5 | sharesoundfiberpathshine |  
+| bip_39_word_no_space_6 | sharesoundfiberpathshinewave |  
+| bip_39_word_no_space_7 | sharesoundfiberpathshinewavealley |  
+| bip_39_word_no_space_8 | sharesoundfiberpathshinewavealleyavocado |  
+| bip_39_word_no_space_9 | sharesoundfiberpathshinewavealleyavocadoretreat |  
 | bip_39_word_space_0 | ['share', 'sound', 'fiber', 'path', 'shine', 'wave', 'alley', 'avocado', 'retreat', 'glory', 'satoshi', 'arm'] |  
 | bip_39_word_space_1 | share |  
 | bip_39_word_space_10 | share sound fiber path shine wave alley avocado retreat glory |  

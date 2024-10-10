@@ -122,6 +122,18 @@ music
 inside
 federal
 view |  
+| bip_39_word_no_space_1 | dove |  
+| bip_39_word_no_space_10 | dovesamenicepoetconsidermusicinsidefederalviewmoment |  
+| bip_39_word_no_space_11 | dovesamenicepoetconsidermusicinsidefederalviewmomentnest |  
+| bip_39_word_no_space_12 | dovesamenicepoetconsidermusicinsidefederalviewmomentnestalready |  
+| bip_39_word_no_space_2 | dovesame |  
+| bip_39_word_no_space_3 | dovesamenice |  
+| bip_39_word_no_space_4 | dovesamenicepoet |  
+| bip_39_word_no_space_5 | dovesamenicepoetconsider |  
+| bip_39_word_no_space_6 | dovesamenicepoetconsidermusic |  
+| bip_39_word_no_space_7 | dovesamenicepoetconsidermusicinside |  
+| bip_39_word_no_space_8 | dovesamenicepoetconsidermusicinsidefederal |  
+| bip_39_word_no_space_9 | dovesamenicepoetconsidermusicinsidefederalview |  
 | bip_39_word_space_0 | ['dove', 'same', 'nice', 'poet', 'consider', 'music', 'inside', 'federal', 'view', 'moment', 'nest', 'already'] |  
 | bip_39_word_space_1 | dove |  
 | bip_39_word_space_10 | dove same nice poet consider music inside federal view moment |  

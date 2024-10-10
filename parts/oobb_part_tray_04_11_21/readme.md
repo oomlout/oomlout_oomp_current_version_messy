@@ -122,6 +122,18 @@ worth
 myself
 fit
 science |  
+| bip_39_word_no_space_1 | fold |  
+| bip_39_word_no_space_10 | foldskirtsnakeopposebounceworthmyselffitsciencerifle |  
+| bip_39_word_no_space_11 | foldskirtsnakeopposebounceworthmyselffitscienceriflenorth |  
+| bip_39_word_no_space_12 | foldskirtsnakeopposebounceworthmyselffitscienceriflenorthact |  
+| bip_39_word_no_space_2 | foldskirt |  
+| bip_39_word_no_space_3 | foldskirtsnake |  
+| bip_39_word_no_space_4 | foldskirtsnakeoppose |  
+| bip_39_word_no_space_5 | foldskirtsnakeopposebounce |  
+| bip_39_word_no_space_6 | foldskirtsnakeopposebounceworth |  
+| bip_39_word_no_space_7 | foldskirtsnakeopposebounceworthmyself |  
+| bip_39_word_no_space_8 | foldskirtsnakeopposebounceworthmyselffit |  
+| bip_39_word_no_space_9 | foldskirtsnakeopposebounceworthmyselffitscience |  
 | bip_39_word_space_0 | ['fold', 'skirt', 'snake', 'oppose', 'bounce', 'worth', 'myself', 'fit', 'science', 'rifle', 'north', 'act'] |  
 | bip_39_word_space_1 | fold |  
 | bip_39_word_space_10 | fold skirt snake oppose bounce worth myself fit science rifle |  

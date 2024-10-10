@@ -122,6 +122,18 @@ mandate
 tennis
 novel
 syrup |  
+| bip_39_word_no_space_1 | glad |  
+| bip_39_word_no_space_10 | gladargueanklecreditrapidmandatetennisnovelsyrupuncover |  
+| bip_39_word_no_space_11 | gladargueanklecreditrapidmandatetennisnovelsyrupuncoverprison |  
+| bip_39_word_no_space_12 | gladargueanklecreditrapidmandatetennisnovelsyrupuncoverprisonappear |  
+| bip_39_word_no_space_2 | gladargue |  
+| bip_39_word_no_space_3 | gladargueankle |  
+| bip_39_word_no_space_4 | gladargueanklecredit |  
+| bip_39_word_no_space_5 | gladargueanklecreditrapid |  
+| bip_39_word_no_space_6 | gladargueanklecreditrapidmandate |  
+| bip_39_word_no_space_7 | gladargueanklecreditrapidmandatetennis |  
+| bip_39_word_no_space_8 | gladargueanklecreditrapidmandatetennisnovel |  
+| bip_39_word_no_space_9 | gladargueanklecreditrapidmandatetennisnovelsyrup |  
 | bip_39_word_space_0 | ['glad', 'argue', 'ankle', 'credit', 'rapid', 'mandate', 'tennis', 'novel', 'syrup', 'uncover', 'prison', 'appear'] |  
 | bip_39_word_space_1 | glad |  
 | bip_39_word_space_10 | glad argue ankle credit rapid mandate tennis novel syrup uncover |  

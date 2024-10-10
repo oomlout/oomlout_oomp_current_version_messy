@@ -122,6 +122,18 @@ casual
 place
 apart
 dice |  
+| bip_39_word_no_space_1 | mango |  
+| bip_39_word_no_space_10 | mangoblackdizzybroomcrawlcasualplaceapartdiceboat |  
+| bip_39_word_no_space_11 | mangoblackdizzybroomcrawlcasualplaceapartdiceboatroom |  
+| bip_39_word_no_space_12 | mangoblackdizzybroomcrawlcasualplaceapartdiceboatroomasset |  
+| bip_39_word_no_space_2 | mangoblack |  
+| bip_39_word_no_space_3 | mangoblackdizzy |  
+| bip_39_word_no_space_4 | mangoblackdizzybroom |  
+| bip_39_word_no_space_5 | mangoblackdizzybroomcrawl |  
+| bip_39_word_no_space_6 | mangoblackdizzybroomcrawlcasual |  
+| bip_39_word_no_space_7 | mangoblackdizzybroomcrawlcasualplace |  
+| bip_39_word_no_space_8 | mangoblackdizzybroomcrawlcasualplaceapart |  
+| bip_39_word_no_space_9 | mangoblackdizzybroomcrawlcasualplaceapartdice |  
 | bip_39_word_space_0 | ['mango', 'black', 'dizzy', 'broom', 'crawl', 'casual', 'place', 'apart', 'dice', 'boat', 'room', 'asset'] |  
 | bip_39_word_space_1 | mango |  
 | bip_39_word_space_10 | mango black dizzy broom crawl casual place apart dice boat |  

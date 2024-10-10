@@ -122,6 +122,18 @@ tower
 satisfy
 person
 super |  
+| bip_39_word_no_space_1 | airport |  
+| bip_39_word_no_space_10 | airportmodelunknownsadnessadvancetowersatisfypersonsuperabuse |  
+| bip_39_word_no_space_11 | airportmodelunknownsadnessadvancetowersatisfypersonsuperabuselong |  
+| bip_39_word_no_space_12 | airportmodelunknownsadnessadvancetowersatisfypersonsuperabuselongathlete |  
+| bip_39_word_no_space_2 | airportmodel |  
+| bip_39_word_no_space_3 | airportmodelunknown |  
+| bip_39_word_no_space_4 | airportmodelunknownsadness |  
+| bip_39_word_no_space_5 | airportmodelunknownsadnessadvance |  
+| bip_39_word_no_space_6 | airportmodelunknownsadnessadvancetower |  
+| bip_39_word_no_space_7 | airportmodelunknownsadnessadvancetowersatisfy |  
+| bip_39_word_no_space_8 | airportmodelunknownsadnessadvancetowersatisfyperson |  
+| bip_39_word_no_space_9 | airportmodelunknownsadnessadvancetowersatisfypersonsuper |  
 | bip_39_word_space_0 | ['airport', 'model', 'unknown', 'sadness', 'advance', 'tower', 'satisfy', 'person', 'super', 'abuse', 'long', 'athlete'] |  
 | bip_39_word_space_1 | airport |  
 | bip_39_word_space_10 | airport model unknown sadness advance tower satisfy person super abuse |  

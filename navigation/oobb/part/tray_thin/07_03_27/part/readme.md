@@ -122,6 +122,18 @@ any
 neutral
 flush
 solar |  
+| bip_39_word_no_space_1 | dove |  
+| bip_39_word_no_space_10 | dovesloganteamaprilstepanyneutralflushsolarflush |  
+| bip_39_word_no_space_11 | dovesloganteamaprilstepanyneutralflushsolarflushhuge |  
+| bip_39_word_no_space_12 | dovesloganteamaprilstepanyneutralflushsolarflushhugearena |  
+| bip_39_word_no_space_2 | doveslogan |  
+| bip_39_word_no_space_3 | dovesloganteam |  
+| bip_39_word_no_space_4 | dovesloganteamapril |  
+| bip_39_word_no_space_5 | dovesloganteamaprilstep |  
+| bip_39_word_no_space_6 | dovesloganteamaprilstepany |  
+| bip_39_word_no_space_7 | dovesloganteamaprilstepanyneutral |  
+| bip_39_word_no_space_8 | dovesloganteamaprilstepanyneutralflush |  
+| bip_39_word_no_space_9 | dovesloganteamaprilstepanyneutralflushsolar |  
 | bip_39_word_space_0 | ['dove', 'slogan', 'team', 'april', 'step', 'any', 'neutral', 'flush', 'solar', 'flush', 'huge', 'arena'] |  
 | bip_39_word_space_1 | dove |  
 | bip_39_word_space_10 | dove slogan team april step any neutral flush solar flush |  

@@ -122,6 +122,18 @@ wrap
 fix
 raccoon
 depth |  
+| bip_39_word_no_space_1 | escape |  
+| bip_39_word_no_space_10 | escapegrowcementdetectfishwrapfixraccoondepthbullet |  
+| bip_39_word_no_space_11 | escapegrowcementdetectfishwrapfixraccoondepthbulletshare |  
+| bip_39_word_no_space_12 | escapegrowcementdetectfishwrapfixraccoondepthbulletshareachieve |  
+| bip_39_word_no_space_2 | escapegrow |  
+| bip_39_word_no_space_3 | escapegrowcement |  
+| bip_39_word_no_space_4 | escapegrowcementdetect |  
+| bip_39_word_no_space_5 | escapegrowcementdetectfish |  
+| bip_39_word_no_space_6 | escapegrowcementdetectfishwrap |  
+| bip_39_word_no_space_7 | escapegrowcementdetectfishwrapfix |  
+| bip_39_word_no_space_8 | escapegrowcementdetectfishwrapfixraccoon |  
+| bip_39_word_no_space_9 | escapegrowcementdetectfishwrapfixraccoondepth |  
 | bip_39_word_space_0 | ['escape', 'grow', 'cement', 'detect', 'fish', 'wrap', 'fix', 'raccoon', 'depth', 'bullet', 'share', 'achieve'] |  
 | bip_39_word_space_1 | escape |  
 | bip_39_word_space_10 | escape grow cement detect fish wrap fix raccoon depth bullet |  

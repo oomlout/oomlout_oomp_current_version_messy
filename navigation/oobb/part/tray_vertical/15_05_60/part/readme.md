@@ -122,6 +122,18 @@ sheriff
 lock
 draft
 moral |  
+| bip_39_word_no_space_1 | soldier |  
+| bip_39_word_no_space_10 | soldieressayjumpsurprisewealthsherifflockdraftmoralproperty |  
+| bip_39_word_no_space_11 | soldieressayjumpsurprisewealthsherifflockdraftmoralpropertyhabit |  
+| bip_39_word_no_space_12 | soldieressayjumpsurprisewealthsherifflockdraftmoralpropertyhabitart |  
+| bip_39_word_no_space_2 | soldieressay |  
+| bip_39_word_no_space_3 | soldieressayjump |  
+| bip_39_word_no_space_4 | soldieressayjumpsurprise |  
+| bip_39_word_no_space_5 | soldieressayjumpsurprisewealth |  
+| bip_39_word_no_space_6 | soldieressayjumpsurprisewealthsheriff |  
+| bip_39_word_no_space_7 | soldieressayjumpsurprisewealthsherifflock |  
+| bip_39_word_no_space_8 | soldieressayjumpsurprisewealthsherifflockdraft |  
+| bip_39_word_no_space_9 | soldieressayjumpsurprisewealthsherifflockdraftmoral |  
 | bip_39_word_space_0 | ['soldier', 'essay', 'jump', 'surprise', 'wealth', 'sheriff', 'lock', 'draft', 'moral', 'property', 'habit', 'art'] |  
 | bip_39_word_space_1 | soldier |  
 | bip_39_word_space_10 | soldier essay jump surprise wealth sheriff lock draft moral property |  

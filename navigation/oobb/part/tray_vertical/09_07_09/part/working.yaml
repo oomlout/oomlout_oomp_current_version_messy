@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'insane
   link
 
   outer'
+bip_39_word_no_space_1: insane
+bip_39_word_no_space_10: insaneacquireanklepairspoilskatefoamlinkouternote
+bip_39_word_no_space_11: insaneacquireanklepairspoilskatefoamlinkouternoteminimum
+bip_39_word_no_space_12: insaneacquireanklepairspoilskatefoamlinkouternoteminimumacquire
+bip_39_word_no_space_2: insaneacquire
+bip_39_word_no_space_3: insaneacquireankle
+bip_39_word_no_space_4: insaneacquireanklepair
+bip_39_word_no_space_5: insaneacquireanklepairspoil
+bip_39_word_no_space_6: insaneacquireanklepairspoilskate
+bip_39_word_no_space_7: insaneacquireanklepairspoilskatefoam
+bip_39_word_no_space_8: insaneacquireanklepairspoilskatefoamlink
+bip_39_word_no_space_9: insaneacquireanklepairspoilskatefoamlinkouter
 bip_39_word_space_0:
 - insane
 - acquire

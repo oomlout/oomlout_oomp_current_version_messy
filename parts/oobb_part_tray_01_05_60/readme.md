@@ -109,6 +109,17 @@ damp
 essay
 lawsuit
 champion |  
+| bip_39_word_no_space_1 | unlock |  
+| bip_39_word_no_space_10 | unlockcityseriesprojectcactusdampessaylawsuitchampioninflict |  
+| bip_39_word_no_space_11 | unlockcityseriesprojectcactusdampessaylawsuitchampioninflictdecide |  
+| bip_39_word_no_space_2 | unlockcity |  
+| bip_39_word_no_space_3 | unlockcityseries |  
+| bip_39_word_no_space_4 | unlockcityseriesproject |  
+| bip_39_word_no_space_5 | unlockcityseriesprojectcactus |  
+| bip_39_word_no_space_6 | unlockcityseriesprojectcactusdamp |  
+| bip_39_word_no_space_7 | unlockcityseriesprojectcactusdampessay |  
+| bip_39_word_no_space_8 | unlockcityseriesprojectcactusdampessaylawsuit |  
+| bip_39_word_no_space_9 | unlockcityseriesprojectcactusdampessaylawsuitchampion |  
 | bip_39_word_space_0 | ['unlock', 'city', 'series', 'project', 'cactus', 'damp', 'essay', 'lawsuit', 'champion', 'inflict', 'decide'] |  
 | bip_39_word_space_1 | unlock |  
 | bip_39_word_space_10 | unlock city series project cactus damp essay lawsuit champion inflict |  

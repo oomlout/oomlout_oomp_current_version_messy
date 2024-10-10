@@ -122,6 +122,18 @@ gallery
 proud
 afford
 turtle |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logichumorsuspectcanoealleygalleryproudaffordturtlecement |  
+| bip_39_word_no_space_11 | logichumorsuspectcanoealleygalleryproudaffordturtlecementscene |  
+| bip_39_word_no_space_12 | logichumorsuspectcanoealleygalleryproudaffordturtlecementsceneafraid |  
+| bip_39_word_no_space_2 | logichumor |  
+| bip_39_word_no_space_3 | logichumorsuspect |  
+| bip_39_word_no_space_4 | logichumorsuspectcanoe |  
+| bip_39_word_no_space_5 | logichumorsuspectcanoealley |  
+| bip_39_word_no_space_6 | logichumorsuspectcanoealleygallery |  
+| bip_39_word_no_space_7 | logichumorsuspectcanoealleygalleryproud |  
+| bip_39_word_no_space_8 | logichumorsuspectcanoealleygalleryproudafford |  
+| bip_39_word_no_space_9 | logichumorsuspectcanoealleygalleryproudaffordturtle |  
 | bip_39_word_space_0 | ['logic', 'humor', 'suspect', 'canoe', 'alley', 'gallery', 'proud', 'afford', 'turtle', 'cement', 'scene', 'afraid'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic humor suspect canoe alley gallery proud afford turtle cement |  

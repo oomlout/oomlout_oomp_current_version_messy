@@ -122,6 +122,18 @@ stuff
 argue
 cart
 stage |  
+| bip_39_word_no_space_1 | swarm |  
+| bip_39_word_no_space_10 | swarmdressgoldbombplugstuffarguecartstagefruit |  
+| bip_39_word_no_space_11 | swarmdressgoldbombplugstuffarguecartstagefruitclay |  
+| bip_39_word_no_space_12 | swarmdressgoldbombplugstuffarguecartstagefruitclayarrest |  
+| bip_39_word_no_space_2 | swarmdress |  
+| bip_39_word_no_space_3 | swarmdressgold |  
+| bip_39_word_no_space_4 | swarmdressgoldbomb |  
+| bip_39_word_no_space_5 | swarmdressgoldbombplug |  
+| bip_39_word_no_space_6 | swarmdressgoldbombplugstuff |  
+| bip_39_word_no_space_7 | swarmdressgoldbombplugstuffargue |  
+| bip_39_word_no_space_8 | swarmdressgoldbombplugstuffarguecart |  
+| bip_39_word_no_space_9 | swarmdressgoldbombplugstuffarguecartstage |  
 | bip_39_word_space_0 | ['swarm', 'dress', 'gold', 'bomb', 'plug', 'stuff', 'argue', 'cart', 'stage', 'fruit', 'clay', 'arrest'] |  
 | bip_39_word_space_1 | swarm |  
 | bip_39_word_space_10 | swarm dress gold bomb plug stuff argue cart stage fruit |  

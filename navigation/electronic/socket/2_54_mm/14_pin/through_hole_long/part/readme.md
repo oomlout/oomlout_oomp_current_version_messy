@@ -122,6 +122,18 @@ arrow
 must
 oak
 gorilla |  
+| bip_39_word_no_space_1 | nasty |  
+| bip_39_word_no_space_10 | nastycitizenauctioncriticketchuparrowmustoakgorillabusy |  
+| bip_39_word_no_space_11 | nastycitizenauctioncriticketchuparrowmustoakgorillabusysauce |  
+| bip_39_word_no_space_12 | nastycitizenauctioncriticketchuparrowmustoakgorillabusysauceacquire |  
+| bip_39_word_no_space_2 | nastycitizen |  
+| bip_39_word_no_space_3 | nastycitizenauction |  
+| bip_39_word_no_space_4 | nastycitizenauctioncritic |  
+| bip_39_word_no_space_5 | nastycitizenauctioncriticketchup |  
+| bip_39_word_no_space_6 | nastycitizenauctioncriticketchuparrow |  
+| bip_39_word_no_space_7 | nastycitizenauctioncriticketchuparrowmust |  
+| bip_39_word_no_space_8 | nastycitizenauctioncriticketchuparrowmustoak |  
+| bip_39_word_no_space_9 | nastycitizenauctioncriticketchuparrowmustoakgorilla |  
 | bip_39_word_space_0 | ['nasty', 'citizen', 'auction', 'critic', 'ketchup', 'arrow', 'must', 'oak', 'gorilla', 'busy', 'sauce', 'acquire'] |  
 | bip_39_word_space_1 | nasty |  
 | bip_39_word_space_10 | nasty citizen auction critic ketchup arrow must oak gorilla busy |  

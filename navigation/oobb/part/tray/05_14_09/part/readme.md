@@ -122,6 +122,18 @@ enter
 bulb
 ozone
 evoke |  
+| bip_39_word_no_space_1 | task |  
+| bip_39_word_no_space_10 | taskpigsmilesaltdwarfenterbulbozoneevokefirst |  
+| bip_39_word_no_space_11 | taskpigsmilesaltdwarfenterbulbozoneevokefirstopera |  
+| bip_39_word_no_space_12 | taskpigsmilesaltdwarfenterbulbozoneevokefirstoperaability |  
+| bip_39_word_no_space_2 | taskpig |  
+| bip_39_word_no_space_3 | taskpigsmile |  
+| bip_39_word_no_space_4 | taskpigsmilesalt |  
+| bip_39_word_no_space_5 | taskpigsmilesaltdwarf |  
+| bip_39_word_no_space_6 | taskpigsmilesaltdwarfenter |  
+| bip_39_word_no_space_7 | taskpigsmilesaltdwarfenterbulb |  
+| bip_39_word_no_space_8 | taskpigsmilesaltdwarfenterbulbozone |  
+| bip_39_word_no_space_9 | taskpigsmilesaltdwarfenterbulbozoneevoke |  
 | bip_39_word_space_0 | ['task', 'pig', 'smile', 'salt', 'dwarf', 'enter', 'bulb', 'ozone', 'evoke', 'first', 'opera', 'ability'] |  
 | bip_39_word_space_1 | task |  
 | bip_39_word_space_10 | task pig smile salt dwarf enter bulb ozone evoke first |  

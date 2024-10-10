@@ -122,6 +122,18 @@ reform
 search
 trim
 giraffe |  
+| bip_39_word_no_space_1 | loud |  
+| bip_39_word_no_space_10 | loudbeautytobaccoarmculturereformsearchtrimgiraffeforest |  
+| bip_39_word_no_space_11 | loudbeautytobaccoarmculturereformsearchtrimgiraffeforestflee |  
+| bip_39_word_no_space_12 | loudbeautytobaccoarmculturereformsearchtrimgiraffeforestfleeassist |  
+| bip_39_word_no_space_2 | loudbeauty |  
+| bip_39_word_no_space_3 | loudbeautytobacco |  
+| bip_39_word_no_space_4 | loudbeautytobaccoarm |  
+| bip_39_word_no_space_5 | loudbeautytobaccoarmculture |  
+| bip_39_word_no_space_6 | loudbeautytobaccoarmculturereform |  
+| bip_39_word_no_space_7 | loudbeautytobaccoarmculturereformsearch |  
+| bip_39_word_no_space_8 | loudbeautytobaccoarmculturereformsearchtrim |  
+| bip_39_word_no_space_9 | loudbeautytobaccoarmculturereformsearchtrimgiraffe |  
 | bip_39_word_space_0 | ['loud', 'beauty', 'tobacco', 'arm', 'culture', 'reform', 'search', 'trim', 'giraffe', 'forest', 'flee', 'assist'] |  
 | bip_39_word_space_1 | loud |  
 | bip_39_word_space_10 | loud beauty tobacco arm culture reform search trim giraffe forest |  

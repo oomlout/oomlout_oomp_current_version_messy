@@ -122,6 +122,18 @@ warm
 limit
 voice
 rubber |  
+| bip_39_word_no_space_1 | bitter |  
+| bip_39_word_no_space_10 | bitterdestroyawakehaveempowerwarmlimitvoicerubbertennis |  
+| bip_39_word_no_space_11 | bitterdestroyawakehaveempowerwarmlimitvoicerubbertennissmall |  
+| bip_39_word_no_space_12 | bitterdestroyawakehaveempowerwarmlimitvoicerubbertennissmallalert |  
+| bip_39_word_no_space_2 | bitterdestroy |  
+| bip_39_word_no_space_3 | bitterdestroyawake |  
+| bip_39_word_no_space_4 | bitterdestroyawakehave |  
+| bip_39_word_no_space_5 | bitterdestroyawakehaveempower |  
+| bip_39_word_no_space_6 | bitterdestroyawakehaveempowerwarm |  
+| bip_39_word_no_space_7 | bitterdestroyawakehaveempowerwarmlimit |  
+| bip_39_word_no_space_8 | bitterdestroyawakehaveempowerwarmlimitvoice |  
+| bip_39_word_no_space_9 | bitterdestroyawakehaveempowerwarmlimitvoicerubber |  
 | bip_39_word_space_0 | ['bitter', 'destroy', 'awake', 'have', 'empower', 'warm', 'limit', 'voice', 'rubber', 'tennis', 'small', 'alert'] |  
 | bip_39_word_space_1 | bitter |  
 | bip_39_word_space_10 | bitter destroy awake have empower warm limit voice rubber tennis |  

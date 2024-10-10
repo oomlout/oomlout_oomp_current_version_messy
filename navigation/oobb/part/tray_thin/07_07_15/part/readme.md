@@ -122,6 +122,18 @@ certain
 vessel
 minor
 web |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palacereflectlimbticketdrinkcertainvesselminorwebmidnight |  
+| bip_39_word_no_space_11 | palacereflectlimbticketdrinkcertainvesselminorwebmidnightjelly |  
+| bip_39_word_no_space_12 | palacereflectlimbticketdrinkcertainvesselminorwebmidnightjellyanxiety |  
+| bip_39_word_no_space_2 | palacereflect |  
+| bip_39_word_no_space_3 | palacereflectlimb |  
+| bip_39_word_no_space_4 | palacereflectlimbticket |  
+| bip_39_word_no_space_5 | palacereflectlimbticketdrink |  
+| bip_39_word_no_space_6 | palacereflectlimbticketdrinkcertain |  
+| bip_39_word_no_space_7 | palacereflectlimbticketdrinkcertainvessel |  
+| bip_39_word_no_space_8 | palacereflectlimbticketdrinkcertainvesselminor |  
+| bip_39_word_no_space_9 | palacereflectlimbticketdrinkcertainvesselminorweb |  
 | bip_39_word_space_0 | ['palace', 'reflect', 'limb', 'ticket', 'drink', 'certain', 'vessel', 'minor', 'web', 'midnight', 'jelly', 'anxiety'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace reflect limb ticket drink certain vessel minor web midnight |  

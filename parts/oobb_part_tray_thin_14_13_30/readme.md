@@ -122,6 +122,18 @@ tool
 remain
 salt
 pepper |  
+| bip_39_word_no_space_1 | ridge |  
+| bip_39_word_no_space_10 | ridgebidfemaleclothamongtoolremainsaltpeppergrief |  
+| bip_39_word_no_space_11 | ridgebidfemaleclothamongtoolremainsaltpeppergrieftrade |  
+| bip_39_word_no_space_12 | ridgebidfemaleclothamongtoolremainsaltpeppergrieftradearm |  
+| bip_39_word_no_space_2 | ridgebid |  
+| bip_39_word_no_space_3 | ridgebidfemale |  
+| bip_39_word_no_space_4 | ridgebidfemalecloth |  
+| bip_39_word_no_space_5 | ridgebidfemaleclothamong |  
+| bip_39_word_no_space_6 | ridgebidfemaleclothamongtool |  
+| bip_39_word_no_space_7 | ridgebidfemaleclothamongtoolremain |  
+| bip_39_word_no_space_8 | ridgebidfemaleclothamongtoolremainsalt |  
+| bip_39_word_no_space_9 | ridgebidfemaleclothamongtoolremainsaltpepper |  
 | bip_39_word_space_0 | ['ridge', 'bid', 'female', 'cloth', 'among', 'tool', 'remain', 'salt', 'pepper', 'grief', 'trade', 'arm'] |  
 | bip_39_word_space_1 | ridge |  
 | bip_39_word_space_10 | ridge bid female cloth among tool remain salt pepper grief |  

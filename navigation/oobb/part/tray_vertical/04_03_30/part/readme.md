@@ -122,6 +122,18 @@ hundred
 artwork
 tiny
 hover |  
+| bip_39_word_no_space_1 | child |  
+| bip_39_word_no_space_10 | childreadystatefurnacetailhundredartworktinyhoverstage |  
+| bip_39_word_no_space_11 | childreadystatefurnacetailhundredartworktinyhoverstageairport |  
+| bip_39_word_no_space_12 | childreadystatefurnacetailhundredartworktinyhoverstageairportantenna |  
+| bip_39_word_no_space_2 | childready |  
+| bip_39_word_no_space_3 | childreadystate |  
+| bip_39_word_no_space_4 | childreadystatefurnace |  
+| bip_39_word_no_space_5 | childreadystatefurnacetail |  
+| bip_39_word_no_space_6 | childreadystatefurnacetailhundred |  
+| bip_39_word_no_space_7 | childreadystatefurnacetailhundredartwork |  
+| bip_39_word_no_space_8 | childreadystatefurnacetailhundredartworktiny |  
+| bip_39_word_no_space_9 | childreadystatefurnacetailhundredartworktinyhover |  
 | bip_39_word_space_0 | ['child', 'ready', 'state', 'furnace', 'tail', 'hundred', 'artwork', 'tiny', 'hover', 'stage', 'airport', 'antenna'] |  
 | bip_39_word_space_1 | child |  
 | bip_39_word_space_10 | child ready state furnace tail hundred artwork tiny hover stage |  

@@ -122,6 +122,18 @@ seven
 flock
 rescue
 loop |  
+| bip_39_word_no_space_1 | scheme |  
+| bip_39_word_no_space_10 | schemestoveorientrewardbicyclesevenflockrescueloopchief |  
+| bip_39_word_no_space_11 | schemestoveorientrewardbicyclesevenflockrescueloopchiefsilver |  
+| bip_39_word_no_space_12 | schemestoveorientrewardbicyclesevenflockrescueloopchiefsilveramazing |  
+| bip_39_word_no_space_2 | schemestove |  
+| bip_39_word_no_space_3 | schemestoveorient |  
+| bip_39_word_no_space_4 | schemestoveorientreward |  
+| bip_39_word_no_space_5 | schemestoveorientrewardbicycle |  
+| bip_39_word_no_space_6 | schemestoveorientrewardbicycleseven |  
+| bip_39_word_no_space_7 | schemestoveorientrewardbicyclesevenflock |  
+| bip_39_word_no_space_8 | schemestoveorientrewardbicyclesevenflockrescue |  
+| bip_39_word_no_space_9 | schemestoveorientrewardbicyclesevenflockrescueloop |  
 | bip_39_word_space_0 | ['scheme', 'stove', 'orient', 'reward', 'bicycle', 'seven', 'flock', 'rescue', 'loop', 'chief', 'silver', 'amazing'] |  
 | bip_39_word_space_1 | scheme |  
 | bip_39_word_space_10 | scheme stove orient reward bicycle seven flock rescue loop chief |  

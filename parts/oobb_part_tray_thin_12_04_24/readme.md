@@ -122,6 +122,18 @@ twin
 run
 uniform
 trip |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wirechaosoperablurfacultytwinrununiformtripneck |  
+| bip_39_word_no_space_11 | wirechaosoperablurfacultytwinrununiformtripneckfrequent |  
+| bip_39_word_no_space_12 | wirechaosoperablurfacultytwinrununiformtripneckfrequentattack |  
+| bip_39_word_no_space_2 | wirechaos |  
+| bip_39_word_no_space_3 | wirechaosopera |  
+| bip_39_word_no_space_4 | wirechaosoperablur |  
+| bip_39_word_no_space_5 | wirechaosoperablurfaculty |  
+| bip_39_word_no_space_6 | wirechaosoperablurfacultytwin |  
+| bip_39_word_no_space_7 | wirechaosoperablurfacultytwinrun |  
+| bip_39_word_no_space_8 | wirechaosoperablurfacultytwinrununiform |  
+| bip_39_word_no_space_9 | wirechaosoperablurfacultytwinrununiformtrip |  
 | bip_39_word_space_0 | ['wire', 'chaos', 'opera', 'blur', 'faculty', 'twin', 'run', 'uniform', 'trip', 'neck', 'frequent', 'attack'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire chaos opera blur faculty twin run uniform trip neck |  

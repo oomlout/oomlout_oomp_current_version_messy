@@ -122,6 +122,18 @@ toward
 cause
 solid
 trust |  
+| bip_39_word_no_space_1 | kite |  
+| bip_39_word_no_space_10 | kitestartjudgerecallwasptowardcausesolidtrustturkey |  
+| bip_39_word_no_space_11 | kitestartjudgerecallwasptowardcausesolidtrustturkeytable |  
+| bip_39_word_no_space_12 | kitestartjudgerecallwasptowardcausesolidtrustturkeytableaverage |  
+| bip_39_word_no_space_2 | kitestart |  
+| bip_39_word_no_space_3 | kitestartjudge |  
+| bip_39_word_no_space_4 | kitestartjudgerecall |  
+| bip_39_word_no_space_5 | kitestartjudgerecallwasp |  
+| bip_39_word_no_space_6 | kitestartjudgerecallwasptoward |  
+| bip_39_word_no_space_7 | kitestartjudgerecallwasptowardcause |  
+| bip_39_word_no_space_8 | kitestartjudgerecallwasptowardcausesolid |  
+| bip_39_word_no_space_9 | kitestartjudgerecallwasptowardcausesolidtrust |  
 | bip_39_word_space_0 | ['kite', 'start', 'judge', 'recall', 'wasp', 'toward', 'cause', 'solid', 'trust', 'turkey', 'table', 'average'] |  
 | bip_39_word_space_1 | kite |  
 | bip_39_word_space_10 | kite start judge recall wasp toward cause solid trust turkey |  

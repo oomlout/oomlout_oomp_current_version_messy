@@ -122,6 +122,18 @@ wrap
 genius
 crane
 resist |  
+| bip_39_word_no_space_1 | scatter |  
+| bip_39_word_no_space_10 | scattervicioussouloncevelvetwrapgeniuscraneresistspare |  
+| bip_39_word_no_space_11 | scattervicioussouloncevelvetwrapgeniuscraneresistsparegrain |  
+| bip_39_word_no_space_12 | scattervicioussouloncevelvetwrapgeniuscraneresistsparegrainabstract |  
+| bip_39_word_no_space_2 | scattervicious |  
+| bip_39_word_no_space_3 | scattervicioussoul |  
+| bip_39_word_no_space_4 | scattervicioussoulonce |  
+| bip_39_word_no_space_5 | scattervicioussouloncevelvet |  
+| bip_39_word_no_space_6 | scattervicioussouloncevelvetwrap |  
+| bip_39_word_no_space_7 | scattervicioussouloncevelvetwrapgenius |  
+| bip_39_word_no_space_8 | scattervicioussouloncevelvetwrapgeniuscrane |  
+| bip_39_word_no_space_9 | scattervicioussouloncevelvetwrapgeniuscraneresist |  
 | bip_39_word_space_0 | ['scatter', 'vicious', 'soul', 'once', 'velvet', 'wrap', 'genius', 'crane', 'resist', 'spare', 'grain', 'abstract'] |  
 | bip_39_word_space_1 | scatter |  
 | bip_39_word_space_10 | scatter vicious soul once velvet wrap genius crane resist spare |  

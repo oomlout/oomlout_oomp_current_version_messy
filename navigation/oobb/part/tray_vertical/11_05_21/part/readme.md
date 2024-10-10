@@ -122,6 +122,18 @@ approve
 quote
 bid
 sting |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | usedsmallriceaffairguitarapprovequotebidstingsauce |  
+| bip_39_word_no_space_11 | usedsmallriceaffairguitarapprovequotebidstingsaucefirm |  
+| bip_39_word_no_space_12 | usedsmallriceaffairguitarapprovequotebidstingsaucefirmagain |  
+| bip_39_word_no_space_2 | usedsmall |  
+| bip_39_word_no_space_3 | usedsmallrice |  
+| bip_39_word_no_space_4 | usedsmallriceaffair |  
+| bip_39_word_no_space_5 | usedsmallriceaffairguitar |  
+| bip_39_word_no_space_6 | usedsmallriceaffairguitarapprove |  
+| bip_39_word_no_space_7 | usedsmallriceaffairguitarapprovequote |  
+| bip_39_word_no_space_8 | usedsmallriceaffairguitarapprovequotebid |  
+| bip_39_word_no_space_9 | usedsmallriceaffairguitarapprovequotebidsting |  
 | bip_39_word_space_0 | ['used', 'small', 'rice', 'affair', 'guitar', 'approve', 'quote', 'bid', 'sting', 'sauce', 'firm', 'again'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used small rice affair guitar approve quote bid sting sauce |  

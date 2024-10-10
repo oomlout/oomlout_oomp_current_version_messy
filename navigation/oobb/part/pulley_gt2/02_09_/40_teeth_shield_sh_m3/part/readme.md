@@ -122,6 +122,18 @@ junior
 yard
 already
 bleak |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetgospelvictoryforwardshipjunioryardalreadybleakwrite |  
+| bip_39_word_no_space_11 | wetgospelvictoryforwardshipjunioryardalreadybleakwriteessay |  
+| bip_39_word_no_space_12 | wetgospelvictoryforwardshipjunioryardalreadybleakwriteessayarmy |  
+| bip_39_word_no_space_2 | wetgospel |  
+| bip_39_word_no_space_3 | wetgospelvictory |  
+| bip_39_word_no_space_4 | wetgospelvictoryforward |  
+| bip_39_word_no_space_5 | wetgospelvictoryforwardship |  
+| bip_39_word_no_space_6 | wetgospelvictoryforwardshipjunior |  
+| bip_39_word_no_space_7 | wetgospelvictoryforwardshipjunioryard |  
+| bip_39_word_no_space_8 | wetgospelvictoryforwardshipjunioryardalready |  
+| bip_39_word_no_space_9 | wetgospelvictoryforwardshipjunioryardalreadybleak |  
 | bip_39_word_space_0 | ['wet', 'gospel', 'victory', 'forward', 'ship', 'junior', 'yard', 'already', 'bleak', 'write', 'essay', 'army'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet gospel victory forward ship junior yard already bleak write |  

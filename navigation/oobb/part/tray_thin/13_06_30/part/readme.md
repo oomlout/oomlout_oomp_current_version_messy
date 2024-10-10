@@ -122,6 +122,18 @@ mule
 jacket
 warm
 trust |  
+| bip_39_word_no_space_1 | night |  
+| bip_39_word_no_space_10 | nightprotecthospitalinvitepridemulejacketwarmtrustclever |  
+| bip_39_word_no_space_11 | nightprotecthospitalinvitepridemulejacketwarmtrustclevervivid |  
+| bip_39_word_no_space_12 | nightprotecthospitalinvitepridemulejacketwarmtrustclevervividanswer |  
+| bip_39_word_no_space_2 | nightprotect |  
+| bip_39_word_no_space_3 | nightprotecthospital |  
+| bip_39_word_no_space_4 | nightprotecthospitalinvite |  
+| bip_39_word_no_space_5 | nightprotecthospitalinvitepride |  
+| bip_39_word_no_space_6 | nightprotecthospitalinvitepridemule |  
+| bip_39_word_no_space_7 | nightprotecthospitalinvitepridemulejacket |  
+| bip_39_word_no_space_8 | nightprotecthospitalinvitepridemulejacketwarm |  
+| bip_39_word_no_space_9 | nightprotecthospitalinvitepridemulejacketwarmtrust |  
 | bip_39_word_space_0 | ['night', 'protect', 'hospital', 'invite', 'pride', 'mule', 'jacket', 'warm', 'trust', 'clever', 'vivid', 'answer'] |  
 | bip_39_word_space_1 | night |  
 | bip_39_word_space_10 | night protect hospital invite pride mule jacket warm trust clever |  

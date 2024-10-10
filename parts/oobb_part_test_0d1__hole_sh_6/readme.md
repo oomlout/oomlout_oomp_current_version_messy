@@ -122,6 +122,18 @@ eight
 dove
 loop
 tortoise |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltscaleerosionbalconydegreeeightdovelooptortoiseproof |  
+| bip_39_word_no_space_11 | meltscaleerosionbalconydegreeeightdovelooptortoiseproofginger |  
+| bip_39_word_no_space_12 | meltscaleerosionbalconydegreeeightdovelooptortoiseproofgingeragain |  
+| bip_39_word_no_space_2 | meltscale |  
+| bip_39_word_no_space_3 | meltscaleerosion |  
+| bip_39_word_no_space_4 | meltscaleerosionbalcony |  
+| bip_39_word_no_space_5 | meltscaleerosionbalconydegree |  
+| bip_39_word_no_space_6 | meltscaleerosionbalconydegreeeight |  
+| bip_39_word_no_space_7 | meltscaleerosionbalconydegreeeightdove |  
+| bip_39_word_no_space_8 | meltscaleerosionbalconydegreeeightdoveloop |  
+| bip_39_word_no_space_9 | meltscaleerosionbalconydegreeeightdovelooptortoise |  
 | bip_39_word_space_0 | ['melt', 'scale', 'erosion', 'balcony', 'degree', 'eight', 'dove', 'loop', 'tortoise', 'proof', 'ginger', 'again'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt scale erosion balcony degree eight dove loop tortoise proof |  

@@ -122,6 +122,18 @@ siren
 fever
 game
 dynamic |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cagesatoshifuturecolumnauditsirenfevergamedynamicmanage |  
+| bip_39_word_no_space_11 | cagesatoshifuturecolumnauditsirenfevergamedynamicmanagerun |  
+| bip_39_word_no_space_12 | cagesatoshifuturecolumnauditsirenfevergamedynamicmanagerunapril |  
+| bip_39_word_no_space_2 | cagesatoshi |  
+| bip_39_word_no_space_3 | cagesatoshifuture |  
+| bip_39_word_no_space_4 | cagesatoshifuturecolumn |  
+| bip_39_word_no_space_5 | cagesatoshifuturecolumnaudit |  
+| bip_39_word_no_space_6 | cagesatoshifuturecolumnauditsiren |  
+| bip_39_word_no_space_7 | cagesatoshifuturecolumnauditsirenfever |  
+| bip_39_word_no_space_8 | cagesatoshifuturecolumnauditsirenfevergame |  
+| bip_39_word_no_space_9 | cagesatoshifuturecolumnauditsirenfevergamedynamic |  
 | bip_39_word_space_0 | ['cage', 'satoshi', 'future', 'column', 'audit', 'siren', 'fever', 'game', 'dynamic', 'manage', 'run', 'april'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage satoshi future column audit siren fever game dynamic manage |  

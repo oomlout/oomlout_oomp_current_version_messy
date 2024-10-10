@@ -122,6 +122,18 @@ annual
 three
 edge
 leg |  
+| bip_39_word_no_space_1 | crisp |  
+| bip_39_word_no_space_10 | crispmodifyplacetapemerryannualthreeedgelegimmune |  
+| bip_39_word_no_space_11 | crispmodifyplacetapemerryannualthreeedgelegimmunesort |  
+| bip_39_word_no_space_12 | crispmodifyplacetapemerryannualthreeedgelegimmunesortalarm |  
+| bip_39_word_no_space_2 | crispmodify |  
+| bip_39_word_no_space_3 | crispmodifyplace |  
+| bip_39_word_no_space_4 | crispmodifyplacetape |  
+| bip_39_word_no_space_5 | crispmodifyplacetapemerry |  
+| bip_39_word_no_space_6 | crispmodifyplacetapemerryannual |  
+| bip_39_word_no_space_7 | crispmodifyplacetapemerryannualthree |  
+| bip_39_word_no_space_8 | crispmodifyplacetapemerryannualthreeedge |  
+| bip_39_word_no_space_9 | crispmodifyplacetapemerryannualthreeedgeleg |  
 | bip_39_word_space_0 | ['crisp', 'modify', 'place', 'tape', 'merry', 'annual', 'three', 'edge', 'leg', 'immune', 'sort', 'alarm'] |  
 | bip_39_word_space_1 | crisp |  
 | bip_39_word_space_10 | crisp modify place tape merry annual three edge leg immune |  

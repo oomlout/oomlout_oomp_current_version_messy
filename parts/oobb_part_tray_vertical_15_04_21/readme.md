@@ -122,6 +122,18 @@ place
 grape
 seminar
 eagle |  
+| bip_39_word_no_space_1 | gap |  
+| bip_39_word_no_space_10 | gapcorrecttoybagislandplacegrapeseminareagledelay |  
+| bip_39_word_no_space_11 | gapcorrecttoybagislandplacegrapeseminareagledelayobvious |  
+| bip_39_word_no_space_12 | gapcorrecttoybagislandplacegrapeseminareagledelayobviousabove |  
+| bip_39_word_no_space_2 | gapcorrect |  
+| bip_39_word_no_space_3 | gapcorrecttoy |  
+| bip_39_word_no_space_4 | gapcorrecttoybag |  
+| bip_39_word_no_space_5 | gapcorrecttoybagisland |  
+| bip_39_word_no_space_6 | gapcorrecttoybagislandplace |  
+| bip_39_word_no_space_7 | gapcorrecttoybagislandplacegrape |  
+| bip_39_word_no_space_8 | gapcorrecttoybagislandplacegrapeseminar |  
+| bip_39_word_no_space_9 | gapcorrecttoybagislandplacegrapeseminareagle |  
 | bip_39_word_space_0 | ['gap', 'correct', 'toy', 'bag', 'island', 'place', 'grape', 'seminar', 'eagle', 'delay', 'obvious', 'above'] |  
 | bip_39_word_space_1 | gap |  
 | bip_39_word_space_10 | gap correct toy bag island place grape seminar eagle delay |  

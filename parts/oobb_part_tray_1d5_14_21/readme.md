@@ -122,6 +122,18 @@ zebra
 couple
 violin
 shine |  
+| bip_39_word_no_space_1 | blouse |  
+| bip_39_word_no_space_10 | blousementionboattouristfinishzebracoupleviolinshinefold |  
+| bip_39_word_no_space_11 | blousementionboattouristfinishzebracoupleviolinshinefoldargue |  
+| bip_39_word_no_space_12 | blousementionboattouristfinishzebracoupleviolinshinefoldargueannual |  
+| bip_39_word_no_space_2 | blousemention |  
+| bip_39_word_no_space_3 | blousementionboat |  
+| bip_39_word_no_space_4 | blousementionboattourist |  
+| bip_39_word_no_space_5 | blousementionboattouristfinish |  
+| bip_39_word_no_space_6 | blousementionboattouristfinishzebra |  
+| bip_39_word_no_space_7 | blousementionboattouristfinishzebracouple |  
+| bip_39_word_no_space_8 | blousementionboattouristfinishzebracoupleviolin |  
+| bip_39_word_no_space_9 | blousementionboattouristfinishzebracoupleviolinshine |  
 | bip_39_word_space_0 | ['blouse', 'mention', 'boat', 'tourist', 'finish', 'zebra', 'couple', 'violin', 'shine', 'fold', 'argue', 'annual'] |  
 | bip_39_word_space_1 | blouse |  
 | bip_39_word_space_10 | blouse mention boat tourist finish zebra couple violin shine fold |  

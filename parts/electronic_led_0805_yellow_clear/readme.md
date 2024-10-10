@@ -122,6 +122,18 @@ ivory
 merge
 ancient
 attend |  
+| bip_39_word_no_space_1 | alien |  
+| bip_39_word_no_space_10 | alienmaidcrunchlogiccropivorymergeancientattenddice |  
+| bip_39_word_no_space_11 | alienmaidcrunchlogiccropivorymergeancientattenddicegasp |  
+| bip_39_word_no_space_12 | alienmaidcrunchlogiccropivorymergeancientattenddicegaspattack |  
+| bip_39_word_no_space_2 | alienmaid |  
+| bip_39_word_no_space_3 | alienmaidcrunch |  
+| bip_39_word_no_space_4 | alienmaidcrunchlogic |  
+| bip_39_word_no_space_5 | alienmaidcrunchlogiccrop |  
+| bip_39_word_no_space_6 | alienmaidcrunchlogiccropivory |  
+| bip_39_word_no_space_7 | alienmaidcrunchlogiccropivorymerge |  
+| bip_39_word_no_space_8 | alienmaidcrunchlogiccropivorymergeancient |  
+| bip_39_word_no_space_9 | alienmaidcrunchlogiccropivorymergeancientattend |  
 | bip_39_word_space_0 | ['alien', 'maid', 'crunch', 'logic', 'crop', 'ivory', 'merge', 'ancient', 'attend', 'dice', 'gasp', 'attack'] |  
 | bip_39_word_space_1 | alien |  
 | bip_39_word_space_10 | alien maid crunch logic crop ivory merge ancient attend dice |  

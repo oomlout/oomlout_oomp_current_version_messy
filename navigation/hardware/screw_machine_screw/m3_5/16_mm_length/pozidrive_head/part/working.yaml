@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'draw
   custom
 
   perfect'
+bip_39_word_no_space_1: draw
+bip_39_word_no_space_10: draweliteprimaryassistponyfingerpalmcustomperfectswing
+bip_39_word_no_space_11: draweliteprimaryassistponyfingerpalmcustomperfectswingchat
+bip_39_word_no_space_12: draweliteprimaryassistponyfingerpalmcustomperfectswingchatachieve
+bip_39_word_no_space_2: drawelite
+bip_39_word_no_space_3: draweliteprimary
+bip_39_word_no_space_4: draweliteprimaryassist
+bip_39_word_no_space_5: draweliteprimaryassistpony
+bip_39_word_no_space_6: draweliteprimaryassistponyfinger
+bip_39_word_no_space_7: draweliteprimaryassistponyfingerpalm
+bip_39_word_no_space_8: draweliteprimaryassistponyfingerpalmcustom
+bip_39_word_no_space_9: draweliteprimaryassistponyfingerpalmcustomperfect
 bip_39_word_space_0:
 - draw
 - elite

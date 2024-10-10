@@ -122,6 +122,18 @@ opinion
 across
 next
 symptom |  
+| bip_39_word_no_space_1 | suffer |  
+| bip_39_word_no_space_10 | sufferovensongpilllakeopinionacrossnextsymptomharsh |  
+| bip_39_word_no_space_11 | sufferovensongpilllakeopinionacrossnextsymptomharshteach |  
+| bip_39_word_no_space_12 | sufferovensongpilllakeopinionacrossnextsymptomharshteachadapt |  
+| bip_39_word_no_space_2 | sufferoven |  
+| bip_39_word_no_space_3 | sufferovensong |  
+| bip_39_word_no_space_4 | sufferovensongpill |  
+| bip_39_word_no_space_5 | sufferovensongpilllake |  
+| bip_39_word_no_space_6 | sufferovensongpilllakeopinion |  
+| bip_39_word_no_space_7 | sufferovensongpilllakeopinionacross |  
+| bip_39_word_no_space_8 | sufferovensongpilllakeopinionacrossnext |  
+| bip_39_word_no_space_9 | sufferovensongpilllakeopinionacrossnextsymptom |  
 | bip_39_word_space_0 | ['suffer', 'oven', 'song', 'pill', 'lake', 'opinion', 'across', 'next', 'symptom', 'harsh', 'teach', 'adapt'] |  
 | bip_39_word_space_1 | suffer |  
 | bip_39_word_space_10 | suffer oven song pill lake opinion across next symptom harsh |  

@@ -122,6 +122,18 @@ supreme
 apple
 toddler
 hotel |  
+| bip_39_word_no_space_1 | trumpet |  
+| bip_39_word_no_space_10 | trumpetmeadowpulpinspirefloatsupremeappletoddlerhotelcamp |  
+| bip_39_word_no_space_11 | trumpetmeadowpulpinspirefloatsupremeappletoddlerhotelcampforce |  
+| bip_39_word_no_space_12 | trumpetmeadowpulpinspirefloatsupremeappletoddlerhotelcampforcealien |  
+| bip_39_word_no_space_2 | trumpetmeadow |  
+| bip_39_word_no_space_3 | trumpetmeadowpulp |  
+| bip_39_word_no_space_4 | trumpetmeadowpulpinspire |  
+| bip_39_word_no_space_5 | trumpetmeadowpulpinspirefloat |  
+| bip_39_word_no_space_6 | trumpetmeadowpulpinspirefloatsupreme |  
+| bip_39_word_no_space_7 | trumpetmeadowpulpinspirefloatsupremeapple |  
+| bip_39_word_no_space_8 | trumpetmeadowpulpinspirefloatsupremeappletoddler |  
+| bip_39_word_no_space_9 | trumpetmeadowpulpinspirefloatsupremeappletoddlerhotel |  
 | bip_39_word_space_0 | ['trumpet', 'meadow', 'pulp', 'inspire', 'float', 'supreme', 'apple', 'toddler', 'hotel', 'camp', 'force', 'alien'] |  
 | bip_39_word_space_1 | trumpet |  
 | bip_39_word_space_10 | trumpet meadow pulp inspire float supreme apple toddler hotel camp |  

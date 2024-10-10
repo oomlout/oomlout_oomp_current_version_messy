@@ -122,6 +122,18 @@ prevent
 camp
 series
 hand |  
+| bip_39_word_no_space_1 | unit |  
+| bip_39_word_no_space_10 | unitneutralrenderwrongcitizenpreventcampserieshandball |  
+| bip_39_word_no_space_11 | unitneutralrenderwrongcitizenpreventcampserieshandballpalace |  
+| bip_39_word_no_space_12 | unitneutralrenderwrongcitizenpreventcampserieshandballpalaceahead |  
+| bip_39_word_no_space_2 | unitneutral |  
+| bip_39_word_no_space_3 | unitneutralrender |  
+| bip_39_word_no_space_4 | unitneutralrenderwrong |  
+| bip_39_word_no_space_5 | unitneutralrenderwrongcitizen |  
+| bip_39_word_no_space_6 | unitneutralrenderwrongcitizenprevent |  
+| bip_39_word_no_space_7 | unitneutralrenderwrongcitizenpreventcamp |  
+| bip_39_word_no_space_8 | unitneutralrenderwrongcitizenpreventcampseries |  
+| bip_39_word_no_space_9 | unitneutralrenderwrongcitizenpreventcampserieshand |  
 | bip_39_word_space_0 | ['unit', 'neutral', 'render', 'wrong', 'citizen', 'prevent', 'camp', 'series', 'hand', 'ball', 'palace', 'ahead'] |  
 | bip_39_word_space_1 | unit |  
 | bip_39_word_space_10 | unit neutral render wrong citizen prevent camp series hand ball |  

@@ -122,6 +122,18 @@ ring
 corn
 release
 salad |  
+| bip_39_word_no_space_1 | donor |  
+| bip_39_word_no_space_10 | donorduckphotosolidvisualringcornreleasesaladglue |  
+| bip_39_word_no_space_11 | donorduckphotosolidvisualringcornreleasesaladgluedemand |  
+| bip_39_word_no_space_12 | donorduckphotosolidvisualringcornreleasesaladgluedemandartefact |  
+| bip_39_word_no_space_2 | donorduck |  
+| bip_39_word_no_space_3 | donorduckphoto |  
+| bip_39_word_no_space_4 | donorduckphotosolid |  
+| bip_39_word_no_space_5 | donorduckphotosolidvisual |  
+| bip_39_word_no_space_6 | donorduckphotosolidvisualring |  
+| bip_39_word_no_space_7 | donorduckphotosolidvisualringcorn |  
+| bip_39_word_no_space_8 | donorduckphotosolidvisualringcornrelease |  
+| bip_39_word_no_space_9 | donorduckphotosolidvisualringcornreleasesalad |  
 | bip_39_word_space_0 | ['donor', 'duck', 'photo', 'solid', 'visual', 'ring', 'corn', 'release', 'salad', 'glue', 'demand', 'artefact'] |  
 | bip_39_word_space_1 | donor |  
 | bip_39_word_space_10 | donor duck photo solid visual ring corn release salad glue |  

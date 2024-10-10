@@ -122,6 +122,18 @@ pave
 donor
 vapor
 usual |  
+| bip_39_word_no_space_1 | client |  
+| bip_39_word_no_space_10 | clientfalljewelluckymuffinpavedonorvaporusualright |  
+| bip_39_word_no_space_11 | clientfalljewelluckymuffinpavedonorvaporusualrightsqueeze |  
+| bip_39_word_no_space_12 | clientfalljewelluckymuffinpavedonorvaporusualrightsqueezeagain |  
+| bip_39_word_no_space_2 | clientfall |  
+| bip_39_word_no_space_3 | clientfalljewel |  
+| bip_39_word_no_space_4 | clientfalljewellucky |  
+| bip_39_word_no_space_5 | clientfalljewelluckymuffin |  
+| bip_39_word_no_space_6 | clientfalljewelluckymuffinpave |  
+| bip_39_word_no_space_7 | clientfalljewelluckymuffinpavedonor |  
+| bip_39_word_no_space_8 | clientfalljewelluckymuffinpavedonorvapor |  
+| bip_39_word_no_space_9 | clientfalljewelluckymuffinpavedonorvaporusual |  
 | bip_39_word_space_0 | ['client', 'fall', 'jewel', 'lucky', 'muffin', 'pave', 'donor', 'vapor', 'usual', 'right', 'squeeze', 'again'] |  
 | bip_39_word_space_1 | client |  
 | bip_39_word_space_10 | client fall jewel lucky muffin pave donor vapor usual right |  

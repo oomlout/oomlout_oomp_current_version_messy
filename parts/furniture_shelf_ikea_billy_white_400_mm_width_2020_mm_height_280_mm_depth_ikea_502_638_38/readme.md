@@ -122,6 +122,18 @@ embark
 thank
 hard
 attract |  
+| bip_39_word_no_space_1 | special |  
+| bip_39_word_no_space_10 | specialfoamrescuerotatemeltembarkthankhardattractrocket |  
+| bip_39_word_no_space_11 | specialfoamrescuerotatemeltembarkthankhardattractrocketbargain |  
+| bip_39_word_no_space_12 | specialfoamrescuerotatemeltembarkthankhardattractrocketbargainaccess |  
+| bip_39_word_no_space_2 | specialfoam |  
+| bip_39_word_no_space_3 | specialfoamrescue |  
+| bip_39_word_no_space_4 | specialfoamrescuerotate |  
+| bip_39_word_no_space_5 | specialfoamrescuerotatemelt |  
+| bip_39_word_no_space_6 | specialfoamrescuerotatemeltembark |  
+| bip_39_word_no_space_7 | specialfoamrescuerotatemeltembarkthank |  
+| bip_39_word_no_space_8 | specialfoamrescuerotatemeltembarkthankhard |  
+| bip_39_word_no_space_9 | specialfoamrescuerotatemeltembarkthankhardattract |  
 | bip_39_word_space_0 | ['special', 'foam', 'rescue', 'rotate', 'melt', 'embark', 'thank', 'hard', 'attract', 'rocket', 'bargain', 'access'] |  
 | bip_39_word_space_1 | special |  
 | bip_39_word_space_10 | special foam rescue rotate melt embark thank hard attract rocket |  

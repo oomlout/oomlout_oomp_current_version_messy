@@ -122,6 +122,18 @@ this
 crunch
 drama
 fold |  
+| bip_39_word_no_space_1 | sausage |  
+| bip_39_word_no_space_10 | sausagemoregravitychurnruralthiscrunchdramafoldpeople |  
+| bip_39_word_no_space_11 | sausagemoregravitychurnruralthiscrunchdramafoldpeopleoblige |  
+| bip_39_word_no_space_12 | sausagemoregravitychurnruralthiscrunchdramafoldpeopleobligeactual |  
+| bip_39_word_no_space_2 | sausagemore |  
+| bip_39_word_no_space_3 | sausagemoregravity |  
+| bip_39_word_no_space_4 | sausagemoregravitychurn |  
+| bip_39_word_no_space_5 | sausagemoregravitychurnrural |  
+| bip_39_word_no_space_6 | sausagemoregravitychurnruralthis |  
+| bip_39_word_no_space_7 | sausagemoregravitychurnruralthiscrunch |  
+| bip_39_word_no_space_8 | sausagemoregravitychurnruralthiscrunchdrama |  
+| bip_39_word_no_space_9 | sausagemoregravitychurnruralthiscrunchdramafold |  
 | bip_39_word_space_0 | ['sausage', 'more', 'gravity', 'churn', 'rural', 'this', 'crunch', 'drama', 'fold', 'people', 'oblige', 'actual'] |  
 | bip_39_word_space_1 | sausage |  
 | bip_39_word_space_10 | sausage more gravity churn rural this crunch drama fold people |  

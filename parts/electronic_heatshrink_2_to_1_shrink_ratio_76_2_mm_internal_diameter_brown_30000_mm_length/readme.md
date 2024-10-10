@@ -122,6 +122,18 @@ aerobic
 arrow
 impulse
 fiscal |  
+| bip_39_word_no_space_1 | move |  
+| bip_39_word_no_space_10 | moveexamplevaporheadstingaerobicarrowimpulsefiscaldefy |  
+| bip_39_word_no_space_11 | moveexamplevaporheadstingaerobicarrowimpulsefiscaldefyachieve |  
+| bip_39_word_no_space_12 | moveexamplevaporheadstingaerobicarrowimpulsefiscaldefyachieveanswer |  
+| bip_39_word_no_space_2 | moveexample |  
+| bip_39_word_no_space_3 | moveexamplevapor |  
+| bip_39_word_no_space_4 | moveexamplevaporhead |  
+| bip_39_word_no_space_5 | moveexamplevaporheadsting |  
+| bip_39_word_no_space_6 | moveexamplevaporheadstingaerobic |  
+| bip_39_word_no_space_7 | moveexamplevaporheadstingaerobicarrow |  
+| bip_39_word_no_space_8 | moveexamplevaporheadstingaerobicarrowimpulse |  
+| bip_39_word_no_space_9 | moveexamplevaporheadstingaerobicarrowimpulsefiscal |  
 | bip_39_word_space_0 | ['move', 'example', 'vapor', 'head', 'sting', 'aerobic', 'arrow', 'impulse', 'fiscal', 'defy', 'achieve', 'answer'] |  
 | bip_39_word_space_1 | move |  
 | bip_39_word_space_10 | move example vapor head sting aerobic arrow impulse fiscal defy |  

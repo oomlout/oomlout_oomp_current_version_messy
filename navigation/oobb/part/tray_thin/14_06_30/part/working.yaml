@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'brand
   gauge
 
   domain'
+bip_39_word_no_space_1: brand
+bip_39_word_no_space_10: brandsavefingerzerocheeseenrichbenchgaugedomainalcohol
+bip_39_word_no_space_11: brandsavefingerzerocheeseenrichbenchgaugedomainalcohollunar
+bip_39_word_no_space_12: brandsavefingerzerocheeseenrichbenchgaugedomainalcohollunaranger
+bip_39_word_no_space_2: brandsave
+bip_39_word_no_space_3: brandsavefinger
+bip_39_word_no_space_4: brandsavefingerzero
+bip_39_word_no_space_5: brandsavefingerzerocheese
+bip_39_word_no_space_6: brandsavefingerzerocheeseenrich
+bip_39_word_no_space_7: brandsavefingerzerocheeseenrichbench
+bip_39_word_no_space_8: brandsavefingerzerocheeseenrichbenchgauge
+bip_39_word_no_space_9: brandsavefingerzerocheeseenrichbenchgaugedomain
 bip_39_word_space_0:
 - brand
 - save

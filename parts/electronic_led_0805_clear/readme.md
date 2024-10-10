@@ -122,6 +122,18 @@ cry
 dash
 version
 suspect |  
+| bip_39_word_no_space_1 | strong |  
+| bip_39_word_no_space_10 | strongfrozengroupvisamysterycrydashversionsuspectvital |  
+| bip_39_word_no_space_11 | strongfrozengroupvisamysterycrydashversionsuspectvitalstreet |  
+| bip_39_word_no_space_12 | strongfrozengroupvisamysterycrydashversionsuspectvitalstreetabsent |  
+| bip_39_word_no_space_2 | strongfrozen |  
+| bip_39_word_no_space_3 | strongfrozengroup |  
+| bip_39_word_no_space_4 | strongfrozengroupvisa |  
+| bip_39_word_no_space_5 | strongfrozengroupvisamystery |  
+| bip_39_word_no_space_6 | strongfrozengroupvisamysterycry |  
+| bip_39_word_no_space_7 | strongfrozengroupvisamysterycrydash |  
+| bip_39_word_no_space_8 | strongfrozengroupvisamysterycrydashversion |  
+| bip_39_word_no_space_9 | strongfrozengroupvisamysterycrydashversionsuspect |  
 | bip_39_word_space_0 | ['strong', 'frozen', 'group', 'visa', 'mystery', 'cry', 'dash', 'version', 'suspect', 'vital', 'street', 'absent'] |  
 | bip_39_word_space_1 | strong |  
 | bip_39_word_space_10 | strong frozen group visa mystery cry dash version suspect vital |  

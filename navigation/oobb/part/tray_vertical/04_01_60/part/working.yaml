@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clog
   hard
 
   biology'
+bip_39_word_no_space_1: clog
+bip_39_word_no_space_10: clogcheesearrangevoiceunlockliftshellhardbiologyshadow
+bip_39_word_no_space_11: clogcheesearrangevoiceunlockliftshellhardbiologyshadowalarm
+bip_39_word_no_space_12: clogcheesearrangevoiceunlockliftshellhardbiologyshadowalarmamateur
+bip_39_word_no_space_2: clogcheese
+bip_39_word_no_space_3: clogcheesearrange
+bip_39_word_no_space_4: clogcheesearrangevoice
+bip_39_word_no_space_5: clogcheesearrangevoiceunlock
+bip_39_word_no_space_6: clogcheesearrangevoiceunlocklift
+bip_39_word_no_space_7: clogcheesearrangevoiceunlockliftshell
+bip_39_word_no_space_8: clogcheesearrangevoiceunlockliftshellhard
+bip_39_word_no_space_9: clogcheesearrangevoiceunlockliftshellhardbiology
 bip_39_word_space_0:
 - clog
 - cheese

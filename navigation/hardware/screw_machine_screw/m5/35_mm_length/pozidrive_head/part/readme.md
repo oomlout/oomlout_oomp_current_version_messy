@@ -122,6 +122,18 @@ pact
 begin
 digital
 sign |  
+| bip_39_word_no_space_1 | they |  
+| bip_39_word_no_space_10 | theysetupapplestingpenpactbegindigitalsignbelow |  
+| bip_39_word_no_space_11 | theysetupapplestingpenpactbegindigitalsignbelowquestion |  
+| bip_39_word_no_space_12 | theysetupapplestingpenpactbegindigitalsignbelowquestionalter |  
+| bip_39_word_no_space_2 | theysetup |  
+| bip_39_word_no_space_3 | theysetupapple |  
+| bip_39_word_no_space_4 | theysetupapplesting |  
+| bip_39_word_no_space_5 | theysetupapplestingpen |  
+| bip_39_word_no_space_6 | theysetupapplestingpenpact |  
+| bip_39_word_no_space_7 | theysetupapplestingpenpactbegin |  
+| bip_39_word_no_space_8 | theysetupapplestingpenpactbegindigital |  
+| bip_39_word_no_space_9 | theysetupapplestingpenpactbegindigitalsign |  
 | bip_39_word_space_0 | ['they', 'setup', 'apple', 'sting', 'pen', 'pact', 'begin', 'digital', 'sign', 'below', 'question', 'alter'] |  
 | bip_39_word_space_1 | they |  
 | bip_39_word_space_10 | they setup apple sting pen pact begin digital sign below |  

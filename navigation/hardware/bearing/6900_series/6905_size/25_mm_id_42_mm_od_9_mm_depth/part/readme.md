@@ -122,6 +122,18 @@ forget
 clump
 rib
 program |  
+| bip_39_word_no_space_1 | mean |  
+| bip_39_word_no_space_10 | meanwiretopicreleaseseasonforgetclumpribprogramfederal |  
+| bip_39_word_no_space_11 | meanwiretopicreleaseseasonforgetclumpribprogramfederalbrown |  
+| bip_39_word_no_space_12 | meanwiretopicreleaseseasonforgetclumpribprogramfederalbrownargue |  
+| bip_39_word_no_space_2 | meanwire |  
+| bip_39_word_no_space_3 | meanwiretopic |  
+| bip_39_word_no_space_4 | meanwiretopicrelease |  
+| bip_39_word_no_space_5 | meanwiretopicreleaseseason |  
+| bip_39_word_no_space_6 | meanwiretopicreleaseseasonforget |  
+| bip_39_word_no_space_7 | meanwiretopicreleaseseasonforgetclump |  
+| bip_39_word_no_space_8 | meanwiretopicreleaseseasonforgetclumprib |  
+| bip_39_word_no_space_9 | meanwiretopicreleaseseasonforgetclumpribprogram |  
 | bip_39_word_space_0 | ['mean', 'wire', 'topic', 'release', 'season', 'forget', 'clump', 'rib', 'program', 'federal', 'brown', 'argue'] |  
 | bip_39_word_space_1 | mean |  
 | bip_39_word_space_10 | mean wire topic release season forget clump rib program federal |  

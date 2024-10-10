@@ -122,6 +122,18 @@ drama
 negative
 ancient
 pause |  
+| bip_39_word_no_space_1 | define |  
+| bip_39_word_no_space_10 | defineappleshootwoodwritedramanegativeancientpauselearn |  
+| bip_39_word_no_space_11 | defineappleshootwoodwritedramanegativeancientpauselearnskin |  
+| bip_39_word_no_space_12 | defineappleshootwoodwritedramanegativeancientpauselearnskinarmor |  
+| bip_39_word_no_space_2 | defineapple |  
+| bip_39_word_no_space_3 | defineappleshoot |  
+| bip_39_word_no_space_4 | defineappleshootwood |  
+| bip_39_word_no_space_5 | defineappleshootwoodwrite |  
+| bip_39_word_no_space_6 | defineappleshootwoodwritedrama |  
+| bip_39_word_no_space_7 | defineappleshootwoodwritedramanegative |  
+| bip_39_word_no_space_8 | defineappleshootwoodwritedramanegativeancient |  
+| bip_39_word_no_space_9 | defineappleshootwoodwritedramanegativeancientpause |  
 | bip_39_word_space_0 | ['define', 'apple', 'shoot', 'wood', 'write', 'drama', 'negative', 'ancient', 'pause', 'learn', 'skin', 'armor'] |  
 | bip_39_word_space_1 | define |  
 | bip_39_word_space_10 | define apple shoot wood write drama negative ancient pause learn |  

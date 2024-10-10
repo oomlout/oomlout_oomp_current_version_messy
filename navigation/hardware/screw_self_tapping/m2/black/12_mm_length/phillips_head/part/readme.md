@@ -122,6 +122,18 @@ come
 fame
 relax
 rotate |  
+| bip_39_word_no_space_1 | know |  
+| bip_39_word_no_space_10 | knowconnectmeltoutdoorcoilcomefamerelaxrotatebeauty |  
+| bip_39_word_no_space_11 | knowconnectmeltoutdoorcoilcomefamerelaxrotatebeautycomic |  
+| bip_39_word_no_space_12 | knowconnectmeltoutdoorcoilcomefamerelaxrotatebeautycomicaround |  
+| bip_39_word_no_space_2 | knowconnect |  
+| bip_39_word_no_space_3 | knowconnectmelt |  
+| bip_39_word_no_space_4 | knowconnectmeltoutdoor |  
+| bip_39_word_no_space_5 | knowconnectmeltoutdoorcoil |  
+| bip_39_word_no_space_6 | knowconnectmeltoutdoorcoilcome |  
+| bip_39_word_no_space_7 | knowconnectmeltoutdoorcoilcomefame |  
+| bip_39_word_no_space_8 | knowconnectmeltoutdoorcoilcomefamerelax |  
+| bip_39_word_no_space_9 | knowconnectmeltoutdoorcoilcomefamerelaxrotate |  
 | bip_39_word_space_0 | ['know', 'connect', 'melt', 'outdoor', 'coil', 'come', 'fame', 'relax', 'rotate', 'beauty', 'comic', 'around'] |  
 | bip_39_word_space_1 | know |  
 | bip_39_word_space_10 | know connect melt outdoor coil come fame relax rotate beauty |  

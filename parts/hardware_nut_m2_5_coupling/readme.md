@@ -122,6 +122,18 @@ dose
 size
 window
 unfold |  
+| bip_39_word_no_space_1 | kite |  
+| bip_39_word_no_space_10 | kitestepzootrendprotectdosesizewindowunfoldcharge |  
+| bip_39_word_no_space_11 | kitestepzootrendprotectdosesizewindowunfoldchargeweb |  
+| bip_39_word_no_space_12 | kitestepzootrendprotectdosesizewindowunfoldchargewebauthor |  
+| bip_39_word_no_space_2 | kitestep |  
+| bip_39_word_no_space_3 | kitestepzoo |  
+| bip_39_word_no_space_4 | kitestepzootrend |  
+| bip_39_word_no_space_5 | kitestepzootrendprotect |  
+| bip_39_word_no_space_6 | kitestepzootrendprotectdose |  
+| bip_39_word_no_space_7 | kitestepzootrendprotectdosesize |  
+| bip_39_word_no_space_8 | kitestepzootrendprotectdosesizewindow |  
+| bip_39_word_no_space_9 | kitestepzootrendprotectdosesizewindowunfold |  
 | bip_39_word_space_0 | ['kite', 'step', 'zoo', 'trend', 'protect', 'dose', 'size', 'window', 'unfold', 'charge', 'web', 'author'] |  
 | bip_39_word_space_1 | kite |  
 | bip_39_word_space_10 | kite step zoo trend protect dose size window unfold charge |  

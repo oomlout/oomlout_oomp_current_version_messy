@@ -122,6 +122,18 @@ language
 betray
 cluster
 dial |  
+| bip_39_word_no_space_1 | muffin |  
+| bip_39_word_no_space_10 | muffingravityremembertradetigerlanguagebetrayclusterdialairport |  
+| bip_39_word_no_space_11 | muffingravityremembertradetigerlanguagebetrayclusterdialairportyard |  
+| bip_39_word_no_space_12 | muffingravityremembertradetigerlanguagebetrayclusterdialairportyardanimal |  
+| bip_39_word_no_space_2 | muffingravity |  
+| bip_39_word_no_space_3 | muffingravityremember |  
+| bip_39_word_no_space_4 | muffingravityremembertrade |  
+| bip_39_word_no_space_5 | muffingravityremembertradetiger |  
+| bip_39_word_no_space_6 | muffingravityremembertradetigerlanguage |  
+| bip_39_word_no_space_7 | muffingravityremembertradetigerlanguagebetray |  
+| bip_39_word_no_space_8 | muffingravityremembertradetigerlanguagebetraycluster |  
+| bip_39_word_no_space_9 | muffingravityremembertradetigerlanguagebetrayclusterdial |  
 | bip_39_word_space_0 | ['muffin', 'gravity', 'remember', 'trade', 'tiger', 'language', 'betray', 'cluster', 'dial', 'airport', 'yard', 'animal'] |  
 | bip_39_word_space_1 | muffin |  
 | bip_39_word_space_10 | muffin gravity remember trade tiger language betray cluster dial airport |  

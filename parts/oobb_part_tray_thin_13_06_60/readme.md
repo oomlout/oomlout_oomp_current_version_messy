@@ -122,6 +122,18 @@ approve
 bonus
 detect
 junior |  
+| bip_39_word_no_space_1 | isolate |  
+| bip_39_word_no_space_10 | isolatevaporalertaroundadaptapprovebonusdetectjuniorbrief |  
+| bip_39_word_no_space_11 | isolatevaporalertaroundadaptapprovebonusdetectjuniorbriefdizzy |  
+| bip_39_word_no_space_12 | isolatevaporalertaroundadaptapprovebonusdetectjuniorbriefdizzyauto |  
+| bip_39_word_no_space_2 | isolatevapor |  
+| bip_39_word_no_space_3 | isolatevaporalert |  
+| bip_39_word_no_space_4 | isolatevaporalertaround |  
+| bip_39_word_no_space_5 | isolatevaporalertaroundadapt |  
+| bip_39_word_no_space_6 | isolatevaporalertaroundadaptapprove |  
+| bip_39_word_no_space_7 | isolatevaporalertaroundadaptapprovebonus |  
+| bip_39_word_no_space_8 | isolatevaporalertaroundadaptapprovebonusdetect |  
+| bip_39_word_no_space_9 | isolatevaporalertaroundadaptapprovebonusdetectjunior |  
 | bip_39_word_space_0 | ['isolate', 'vapor', 'alert', 'around', 'adapt', 'approve', 'bonus', 'detect', 'junior', 'brief', 'dizzy', 'auto'] |  
 | bip_39_word_space_1 | isolate |  
 | bip_39_word_space_10 | isolate vapor alert around adapt approve bonus detect junior brief |  

@@ -122,6 +122,18 @@ matrix
 quiz
 because
 silent |  
+| bip_39_word_no_space_1 | blind |  
+| bip_39_word_no_space_10 | blindthoughtcombinelaterhomematrixquizbecausesilentquote |  
+| bip_39_word_no_space_11 | blindthoughtcombinelaterhomematrixquizbecausesilentquoteathlete |  
+| bip_39_word_no_space_12 | blindthoughtcombinelaterhomematrixquizbecausesilentquoteathleteauto |  
+| bip_39_word_no_space_2 | blindthought |  
+| bip_39_word_no_space_3 | blindthoughtcombine |  
+| bip_39_word_no_space_4 | blindthoughtcombinelater |  
+| bip_39_word_no_space_5 | blindthoughtcombinelaterhome |  
+| bip_39_word_no_space_6 | blindthoughtcombinelaterhomematrix |  
+| bip_39_word_no_space_7 | blindthoughtcombinelaterhomematrixquiz |  
+| bip_39_word_no_space_8 | blindthoughtcombinelaterhomematrixquizbecause |  
+| bip_39_word_no_space_9 | blindthoughtcombinelaterhomematrixquizbecausesilent |  
 | bip_39_word_space_0 | ['blind', 'thought', 'combine', 'later', 'home', 'matrix', 'quiz', 'because', 'silent', 'quote', 'athlete', 'auto'] |  
 | bip_39_word_space_1 | blind |  
 | bip_39_word_space_10 | blind thought combine later home matrix quiz because silent quote |  

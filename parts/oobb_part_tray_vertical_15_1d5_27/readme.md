@@ -122,6 +122,18 @@ report
 travel
 color
 have |  
+| bip_39_word_no_space_1 | exotic |  
+| bip_39_word_no_space_10 | exoticcreekdaringfrownwristreporttravelcolorhavetragic |  
+| bip_39_word_no_space_11 | exoticcreekdaringfrownwristreporttravelcolorhavetragiccrime |  
+| bip_39_word_no_space_12 | exoticcreekdaringfrownwristreporttravelcolorhavetragiccrimeachieve |  
+| bip_39_word_no_space_2 | exoticcreek |  
+| bip_39_word_no_space_3 | exoticcreekdaring |  
+| bip_39_word_no_space_4 | exoticcreekdaringfrown |  
+| bip_39_word_no_space_5 | exoticcreekdaringfrownwrist |  
+| bip_39_word_no_space_6 | exoticcreekdaringfrownwristreport |  
+| bip_39_word_no_space_7 | exoticcreekdaringfrownwristreporttravel |  
+| bip_39_word_no_space_8 | exoticcreekdaringfrownwristreporttravelcolor |  
+| bip_39_word_no_space_9 | exoticcreekdaringfrownwristreporttravelcolorhave |  
 | bip_39_word_space_0 | ['exotic', 'creek', 'daring', 'frown', 'wrist', 'report', 'travel', 'color', 'have', 'tragic', 'crime', 'achieve'] |  
 | bip_39_word_space_1 | exotic |  
 | bip_39_word_space_10 | exotic creek daring frown wrist report travel color have tragic |  

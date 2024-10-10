@@ -122,6 +122,18 @@ thrive
 artist
 abandon
 pact |  
+| bip_39_word_no_space_1 | dial |  
+| bip_39_word_no_space_10 | dialcactusbenchtailroofthriveartistabandonpacttime |  
+| bip_39_word_no_space_11 | dialcactusbenchtailroofthriveartistabandonpacttimebehind |  
+| bip_39_word_no_space_12 | dialcactusbenchtailroofthriveartistabandonpacttimebehindair |  
+| bip_39_word_no_space_2 | dialcactus |  
+| bip_39_word_no_space_3 | dialcactusbench |  
+| bip_39_word_no_space_4 | dialcactusbenchtail |  
+| bip_39_word_no_space_5 | dialcactusbenchtailroof |  
+| bip_39_word_no_space_6 | dialcactusbenchtailroofthrive |  
+| bip_39_word_no_space_7 | dialcactusbenchtailroofthriveartist |  
+| bip_39_word_no_space_8 | dialcactusbenchtailroofthriveartistabandon |  
+| bip_39_word_no_space_9 | dialcactusbenchtailroofthriveartistabandonpact |  
 | bip_39_word_space_0 | ['dial', 'cactus', 'bench', 'tail', 'roof', 'thrive', 'artist', 'abandon', 'pact', 'time', 'behind', 'air'] |  
 | bip_39_word_space_1 | dial |  
 | bip_39_word_space_10 | dial cactus bench tail roof thrive artist abandon pact time |  

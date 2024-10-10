@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fine
   notable
 
   crane'
+bip_39_word_no_space_1: fine
+bip_39_word_no_space_10: finegametokenladderframethememulenotablecranesuggest
+bip_39_word_no_space_11: finegametokenladderframethememulenotablecranesuggestreject
+bip_39_word_no_space_12: finegametokenladderframethememulenotablecranesuggestrejectahead
+bip_39_word_no_space_2: finegame
+bip_39_word_no_space_3: finegametoken
+bip_39_word_no_space_4: finegametokenladder
+bip_39_word_no_space_5: finegametokenladderframe
+bip_39_word_no_space_6: finegametokenladderframetheme
+bip_39_word_no_space_7: finegametokenladderframethememule
+bip_39_word_no_space_8: finegametokenladderframethememulenotable
+bip_39_word_no_space_9: finegametokenladderframethememulenotablecrane
 bip_39_word_space_0:
 - fine
 - game

@@ -122,6 +122,18 @@ lunar
 hub
 pitch
 park |  
+| bip_39_word_no_space_1 | review |  
+| bip_39_word_no_space_10 | reviewalphacrimescoutmilklunarhubpitchparkcatalog |  
+| bip_39_word_no_space_11 | reviewalphacrimescoutmilklunarhubpitchparkcataloghumble |  
+| bip_39_word_no_space_12 | reviewalphacrimescoutmilklunarhubpitchparkcataloghumbleaudit |  
+| bip_39_word_no_space_2 | reviewalpha |  
+| bip_39_word_no_space_3 | reviewalphacrime |  
+| bip_39_word_no_space_4 | reviewalphacrimescout |  
+| bip_39_word_no_space_5 | reviewalphacrimescoutmilk |  
+| bip_39_word_no_space_6 | reviewalphacrimescoutmilklunar |  
+| bip_39_word_no_space_7 | reviewalphacrimescoutmilklunarhub |  
+| bip_39_word_no_space_8 | reviewalphacrimescoutmilklunarhubpitch |  
+| bip_39_word_no_space_9 | reviewalphacrimescoutmilklunarhubpitchpark |  
 | bip_39_word_space_0 | ['review', 'alpha', 'crime', 'scout', 'milk', 'lunar', 'hub', 'pitch', 'park', 'catalog', 'humble', 'audit'] |  
 | bip_39_word_space_1 | review |  
 | bip_39_word_space_10 | review alpha crime scout milk lunar hub pitch park catalog |  

@@ -122,6 +122,18 @@ mad
 plug
 advice
 business |  
+| bip_39_word_no_space_1 | buffalo |  
+| bip_39_word_no_space_10 | buffaloforwardinputvotehenmadplugadvicebusinessgroup |  
+| bip_39_word_no_space_11 | buffaloforwardinputvotehenmadplugadvicebusinessgrouprough |  
+| bip_39_word_no_space_12 | buffaloforwardinputvotehenmadplugadvicebusinessgrouproughabstract |  
+| bip_39_word_no_space_2 | buffaloforward |  
+| bip_39_word_no_space_3 | buffaloforwardinput |  
+| bip_39_word_no_space_4 | buffaloforwardinputvote |  
+| bip_39_word_no_space_5 | buffaloforwardinputvotehen |  
+| bip_39_word_no_space_6 | buffaloforwardinputvotehenmad |  
+| bip_39_word_no_space_7 | buffaloforwardinputvotehenmadplug |  
+| bip_39_word_no_space_8 | buffaloforwardinputvotehenmadplugadvice |  
+| bip_39_word_no_space_9 | buffaloforwardinputvotehenmadplugadvicebusiness |  
 | bip_39_word_space_0 | ['buffalo', 'forward', 'input', 'vote', 'hen', 'mad', 'plug', 'advice', 'business', 'group', 'rough', 'abstract'] |  
 | bip_39_word_space_1 | buffalo |  
 | bip_39_word_space_10 | buffalo forward input vote hen mad plug advice business group |  

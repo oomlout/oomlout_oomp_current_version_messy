@@ -122,6 +122,18 @@ thunder
 prosper
 topple
 lunar |  
+| bip_39_word_no_space_1 | error |  
+| bip_39_word_no_space_10 | errordigitalpoetorderfalsethunderprospertopplelunarcurtain |  
+| bip_39_word_no_space_11 | errordigitalpoetorderfalsethunderprospertopplelunarcurtainfavorite |  
+| bip_39_word_no_space_12 | errordigitalpoetorderfalsethunderprospertopplelunarcurtainfavoritearound |  
+| bip_39_word_no_space_2 | errordigital |  
+| bip_39_word_no_space_3 | errordigitalpoet |  
+| bip_39_word_no_space_4 | errordigitalpoetorder |  
+| bip_39_word_no_space_5 | errordigitalpoetorderfalse |  
+| bip_39_word_no_space_6 | errordigitalpoetorderfalsethunder |  
+| bip_39_word_no_space_7 | errordigitalpoetorderfalsethunderprosper |  
+| bip_39_word_no_space_8 | errordigitalpoetorderfalsethunderprospertopple |  
+| bip_39_word_no_space_9 | errordigitalpoetorderfalsethunderprospertopplelunar |  
 | bip_39_word_space_0 | ['error', 'digital', 'poet', 'order', 'false', 'thunder', 'prosper', 'topple', 'lunar', 'curtain', 'favorite', 'around'] |  
 | bip_39_word_space_1 | error |  
 | bip_39_word_space_10 | error digital poet order false thunder prosper topple lunar curtain |  

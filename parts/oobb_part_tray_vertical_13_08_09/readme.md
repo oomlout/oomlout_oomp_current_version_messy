@@ -122,6 +122,18 @@ consider
 trap
 jar
 ethics |  
+| bip_39_word_no_space_1 | wreck |  
+| bip_39_word_no_space_10 | wreckimmensebronzeinspirepenaltyconsidertrapjarethicscrater |  
+| bip_39_word_no_space_11 | wreckimmensebronzeinspirepenaltyconsidertrapjarethicscratersure |  
+| bip_39_word_no_space_12 | wreckimmensebronzeinspirepenaltyconsidertrapjarethicscratersureanchor |  
+| bip_39_word_no_space_2 | wreckimmense |  
+| bip_39_word_no_space_3 | wreckimmensebronze |  
+| bip_39_word_no_space_4 | wreckimmensebronzeinspire |  
+| bip_39_word_no_space_5 | wreckimmensebronzeinspirepenalty |  
+| bip_39_word_no_space_6 | wreckimmensebronzeinspirepenaltyconsider |  
+| bip_39_word_no_space_7 | wreckimmensebronzeinspirepenaltyconsidertrap |  
+| bip_39_word_no_space_8 | wreckimmensebronzeinspirepenaltyconsidertrapjar |  
+| bip_39_word_no_space_9 | wreckimmensebronzeinspirepenaltyconsidertrapjarethics |  
 | bip_39_word_space_0 | ['wreck', 'immense', 'bronze', 'inspire', 'penalty', 'consider', 'trap', 'jar', 'ethics', 'crater', 'sure', 'anchor'] |  
 | bip_39_word_space_1 | wreck |  
 | bip_39_word_space_10 | wreck immense bronze inspire penalty consider trap jar ethics crater |  

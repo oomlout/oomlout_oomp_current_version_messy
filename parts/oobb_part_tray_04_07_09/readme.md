@@ -122,6 +122,18 @@ expand
 tube
 cheese
 great |  
+| bip_39_word_no_space_1 | verb |  
+| bip_39_word_no_space_10 | verbiceprimarycousinwonderexpandtubecheesegreatpraise |  
+| bip_39_word_no_space_11 | verbiceprimarycousinwonderexpandtubecheesegreatpraisedoor |  
+| bip_39_word_no_space_12 | verbiceprimarycousinwonderexpandtubecheesegreatpraisedooramount |  
+| bip_39_word_no_space_2 | verbice |  
+| bip_39_word_no_space_3 | verbiceprimary |  
+| bip_39_word_no_space_4 | verbiceprimarycousin |  
+| bip_39_word_no_space_5 | verbiceprimarycousinwonder |  
+| bip_39_word_no_space_6 | verbiceprimarycousinwonderexpand |  
+| bip_39_word_no_space_7 | verbiceprimarycousinwonderexpandtube |  
+| bip_39_word_no_space_8 | verbiceprimarycousinwonderexpandtubecheese |  
+| bip_39_word_no_space_9 | verbiceprimarycousinwonderexpandtubecheesegreat |  
 | bip_39_word_space_0 | ['verb', 'ice', 'primary', 'cousin', 'wonder', 'expand', 'tube', 'cheese', 'great', 'praise', 'door', 'amount'] |  
 | bip_39_word_space_1 | verb |  
 | bip_39_word_space_10 | verb ice primary cousin wonder expand tube cheese great praise |  

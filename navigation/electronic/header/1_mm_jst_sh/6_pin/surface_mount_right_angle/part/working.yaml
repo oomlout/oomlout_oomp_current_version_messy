@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'alley
   true
 
   wet'
+bip_39_word_no_space_1: alley
+bip_39_word_no_space_10: alleyfurnacedeliverupholdhandeditdividetruewetwhat
+bip_39_word_no_space_11: alleyfurnacedeliverupholdhandeditdividetruewetwhatwrestle
+bip_39_word_no_space_12: alleyfurnacedeliverupholdhandeditdividetruewetwhatwrestleapart
+bip_39_word_no_space_2: alleyfurnace
+bip_39_word_no_space_3: alleyfurnacedeliver
+bip_39_word_no_space_4: alleyfurnacedeliveruphold
+bip_39_word_no_space_5: alleyfurnacedeliverupholdhand
+bip_39_word_no_space_6: alleyfurnacedeliverupholdhandedit
+bip_39_word_no_space_7: alleyfurnacedeliverupholdhandeditdivide
+bip_39_word_no_space_8: alleyfurnacedeliverupholdhandeditdividetrue
+bip_39_word_no_space_9: alleyfurnacedeliverupholdhandeditdividetruewet
 bip_39_word_space_0:
 - alley
 - furnace

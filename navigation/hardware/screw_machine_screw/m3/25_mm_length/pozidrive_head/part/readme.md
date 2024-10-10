@@ -122,6 +122,18 @@ coconut
 cotton
 job
 ill |  
+| bip_39_word_no_space_1 | security |  
+| bip_39_word_no_space_10 | securityrareexpandpoemattendcoconutcottonjobillbusiness |  
+| bip_39_word_no_space_11 | securityrareexpandpoemattendcoconutcottonjobillbusinessspirit |  
+| bip_39_word_no_space_12 | securityrareexpandpoemattendcoconutcottonjobillbusinessspiritauthor |  
+| bip_39_word_no_space_2 | securityrare |  
+| bip_39_word_no_space_3 | securityrareexpand |  
+| bip_39_word_no_space_4 | securityrareexpandpoem |  
+| bip_39_word_no_space_5 | securityrareexpandpoemattend |  
+| bip_39_word_no_space_6 | securityrareexpandpoemattendcoconut |  
+| bip_39_word_no_space_7 | securityrareexpandpoemattendcoconutcotton |  
+| bip_39_word_no_space_8 | securityrareexpandpoemattendcoconutcottonjob |  
+| bip_39_word_no_space_9 | securityrareexpandpoemattendcoconutcottonjobill |  
 | bip_39_word_space_0 | ['security', 'rare', 'expand', 'poem', 'attend', 'coconut', 'cotton', 'job', 'ill', 'business', 'spirit', 'author'] |  
 | bip_39_word_space_1 | security |  
 | bip_39_word_space_10 | security rare expand poem attend coconut cotton job ill business |  

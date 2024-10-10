@@ -122,6 +122,18 @@ network
 custom
 road
 crowd |  
+| bip_39_word_no_space_1 | video |  
+| bip_39_word_no_space_10 | videoovalbreezedistancepledgenetworkcustomroadcrowdpitch |  
+| bip_39_word_no_space_11 | videoovalbreezedistancepledgenetworkcustomroadcrowdpitchgym |  
+| bip_39_word_no_space_12 | videoovalbreezedistancepledgenetworkcustomroadcrowdpitchgymable |  
+| bip_39_word_no_space_2 | videooval |  
+| bip_39_word_no_space_3 | videoovalbreeze |  
+| bip_39_word_no_space_4 | videoovalbreezedistance |  
+| bip_39_word_no_space_5 | videoovalbreezedistancepledge |  
+| bip_39_word_no_space_6 | videoovalbreezedistancepledgenetwork |  
+| bip_39_word_no_space_7 | videoovalbreezedistancepledgenetworkcustom |  
+| bip_39_word_no_space_8 | videoovalbreezedistancepledgenetworkcustomroad |  
+| bip_39_word_no_space_9 | videoovalbreezedistancepledgenetworkcustomroadcrowd |  
 | bip_39_word_space_0 | ['video', 'oval', 'breeze', 'distance', 'pledge', 'network', 'custom', 'road', 'crowd', 'pitch', 'gym', 'able'] |  
 | bip_39_word_space_1 | video |  
 | bip_39_word_space_10 | video oval breeze distance pledge network custom road crowd pitch |  

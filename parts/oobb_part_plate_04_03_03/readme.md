@@ -122,6 +122,18 @@ stone
 tired
 wheat
 regular |  
+| bip_39_word_no_space_1 | crisp |  
+| bip_39_word_no_space_10 | crispadmitstudentoutputexactstonetiredwheatregularjoke |  
+| bip_39_word_no_space_11 | crispadmitstudentoutputexactstonetiredwheatregularjokecage |  
+| bip_39_word_no_space_12 | crispadmitstudentoutputexactstonetiredwheatregularjokecageafraid |  
+| bip_39_word_no_space_2 | crispadmit |  
+| bip_39_word_no_space_3 | crispadmitstudent |  
+| bip_39_word_no_space_4 | crispadmitstudentoutput |  
+| bip_39_word_no_space_5 | crispadmitstudentoutputexact |  
+| bip_39_word_no_space_6 | crispadmitstudentoutputexactstone |  
+| bip_39_word_no_space_7 | crispadmitstudentoutputexactstonetired |  
+| bip_39_word_no_space_8 | crispadmitstudentoutputexactstonetiredwheat |  
+| bip_39_word_no_space_9 | crispadmitstudentoutputexactstonetiredwheatregular |  
 | bip_39_word_space_0 | ['crisp', 'admit', 'student', 'output', 'exact', 'stone', 'tired', 'wheat', 'regular', 'joke', 'cage', 'afraid'] |  
 | bip_39_word_space_1 | crisp |  
 | bip_39_word_space_10 | crisp admit student output exact stone tired wheat regular joke |  

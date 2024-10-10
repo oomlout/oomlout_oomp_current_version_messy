@@ -122,6 +122,18 @@ forward
 east
 slush
 popular |  
+| bip_39_word_no_space_1 | proud |  
+| bip_39_word_no_space_10 | proudinsanecastlecheapblessforwardeastslushpopularsurround |  
+| bip_39_word_no_space_11 | proudinsanecastlecheapblessforwardeastslushpopularsurroundbusy |  
+| bip_39_word_no_space_12 | proudinsanecastlecheapblessforwardeastslushpopularsurroundbusyask |  
+| bip_39_word_no_space_2 | proudinsane |  
+| bip_39_word_no_space_3 | proudinsanecastle |  
+| bip_39_word_no_space_4 | proudinsanecastlecheap |  
+| bip_39_word_no_space_5 | proudinsanecastlecheapbless |  
+| bip_39_word_no_space_6 | proudinsanecastlecheapblessforward |  
+| bip_39_word_no_space_7 | proudinsanecastlecheapblessforwardeast |  
+| bip_39_word_no_space_8 | proudinsanecastlecheapblessforwardeastslush |  
+| bip_39_word_no_space_9 | proudinsanecastlecheapblessforwardeastslushpopular |  
 | bip_39_word_space_0 | ['proud', 'insane', 'castle', 'cheap', 'bless', 'forward', 'east', 'slush', 'popular', 'surround', 'busy', 'ask'] |  
 | bip_39_word_space_1 | proud |  
 | bip_39_word_space_10 | proud insane castle cheap bless forward east slush popular surround |  

@@ -122,6 +122,18 @@ swing
 outer
 menu
 cricket |  
+| bip_39_word_no_space_1 | improve |  
+| bip_39_word_no_space_10 | improveenableproofmeritcrushswingoutermenucricketagent |  
+| bip_39_word_no_space_11 | improveenableproofmeritcrushswingoutermenucricketagentdefine |  
+| bip_39_word_no_space_12 | improveenableproofmeritcrushswingoutermenucricketagentdefineaim |  
+| bip_39_word_no_space_2 | improveenable |  
+| bip_39_word_no_space_3 | improveenableproof |  
+| bip_39_word_no_space_4 | improveenableproofmerit |  
+| bip_39_word_no_space_5 | improveenableproofmeritcrush |  
+| bip_39_word_no_space_6 | improveenableproofmeritcrushswing |  
+| bip_39_word_no_space_7 | improveenableproofmeritcrushswingouter |  
+| bip_39_word_no_space_8 | improveenableproofmeritcrushswingoutermenu |  
+| bip_39_word_no_space_9 | improveenableproofmeritcrushswingoutermenucricket |  
 | bip_39_word_space_0 | ['improve', 'enable', 'proof', 'merit', 'crush', 'swing', 'outer', 'menu', 'cricket', 'agent', 'define', 'aim'] |  
 | bip_39_word_space_1 | improve |  
 | bip_39_word_space_10 | improve enable proof merit crush swing outer menu cricket agent |  

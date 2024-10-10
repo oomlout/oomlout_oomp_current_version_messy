@@ -122,6 +122,18 @@ sting
 mean
 arrive
 bargain |  
+| bip_39_word_no_space_1 | casino |  
+| bip_39_word_no_space_10 | casinospidercablesideravenstingmeanarrivebargaintomorrow |  
+| bip_39_word_no_space_11 | casinospidercablesideravenstingmeanarrivebargaintomorrowlibrary |  
+| bip_39_word_no_space_12 | casinospidercablesideravenstingmeanarrivebargaintomorrowlibraryamazing |  
+| bip_39_word_no_space_2 | casinospider |  
+| bip_39_word_no_space_3 | casinospidercable |  
+| bip_39_word_no_space_4 | casinospidercableside |  
+| bip_39_word_no_space_5 | casinospidercablesideraven |  
+| bip_39_word_no_space_6 | casinospidercablesideravensting |  
+| bip_39_word_no_space_7 | casinospidercablesideravenstingmean |  
+| bip_39_word_no_space_8 | casinospidercablesideravenstingmeanarrive |  
+| bip_39_word_no_space_9 | casinospidercablesideravenstingmeanarrivebargain |  
 | bip_39_word_space_0 | ['casino', 'spider', 'cable', 'side', 'raven', 'sting', 'mean', 'arrive', 'bargain', 'tomorrow', 'library', 'amazing'] |  
 | bip_39_word_space_1 | casino |  
 | bip_39_word_space_10 | casino spider cable side raven sting mean arrive bargain tomorrow |  

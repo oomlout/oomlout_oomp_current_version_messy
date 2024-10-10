@@ -122,6 +122,18 @@ turtle
 sell
 guitar
 exact |  
+| bip_39_word_no_space_1 | fantasy |  
+| bip_39_word_no_space_10 | fantasydisorderrangepelicanbringturtlesellguitarexactsponsor |  
+| bip_39_word_no_space_11 | fantasydisorderrangepelicanbringturtlesellguitarexactsponsoruniverse |  
+| bip_39_word_no_space_12 | fantasydisorderrangepelicanbringturtlesellguitarexactsponsoruniverseact |  
+| bip_39_word_no_space_2 | fantasydisorder |  
+| bip_39_word_no_space_3 | fantasydisorderrange |  
+| bip_39_word_no_space_4 | fantasydisorderrangepelican |  
+| bip_39_word_no_space_5 | fantasydisorderrangepelicanbring |  
+| bip_39_word_no_space_6 | fantasydisorderrangepelicanbringturtle |  
+| bip_39_word_no_space_7 | fantasydisorderrangepelicanbringturtlesell |  
+| bip_39_word_no_space_8 | fantasydisorderrangepelicanbringturtlesellguitar |  
+| bip_39_word_no_space_9 | fantasydisorderrangepelicanbringturtlesellguitarexact |  
 | bip_39_word_space_0 | ['fantasy', 'disorder', 'range', 'pelican', 'bring', 'turtle', 'sell', 'guitar', 'exact', 'sponsor', 'universe', 'act'] |  
 | bip_39_word_space_1 | fantasy |  
 | bip_39_word_space_10 | fantasy disorder range pelican bring turtle sell guitar exact sponsor |  

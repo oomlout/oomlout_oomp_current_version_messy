@@ -122,6 +122,18 @@ file
 dad
 possible
 decline |  
+| bip_39_word_no_space_1 | donate |  
+| bip_39_word_no_space_10 | donatesadovalshedalphafiledadpossibledeclinecause |  
+| bip_39_word_no_space_11 | donatesadovalshedalphafiledadpossibledeclinecausetogether |  
+| bip_39_word_no_space_12 | donatesadovalshedalphafiledadpossibledeclinecausetogetherauto |  
+| bip_39_word_no_space_2 | donatesad |  
+| bip_39_word_no_space_3 | donatesadoval |  
+| bip_39_word_no_space_4 | donatesadovalshed |  
+| bip_39_word_no_space_5 | donatesadovalshedalpha |  
+| bip_39_word_no_space_6 | donatesadovalshedalphafile |  
+| bip_39_word_no_space_7 | donatesadovalshedalphafiledad |  
+| bip_39_word_no_space_8 | donatesadovalshedalphafiledadpossible |  
+| bip_39_word_no_space_9 | donatesadovalshedalphafiledadpossibledecline |  
 | bip_39_word_space_0 | ['donate', 'sad', 'oval', 'shed', 'alpha', 'file', 'dad', 'possible', 'decline', 'cause', 'together', 'auto'] |  
 | bip_39_word_space_1 | donate |  
 | bip_39_word_space_10 | donate sad oval shed alpha file dad possible decline cause |  

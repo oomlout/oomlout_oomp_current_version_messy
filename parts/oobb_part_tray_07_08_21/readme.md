@@ -122,6 +122,18 @@ ahead
 math
 laugh
 tube |  
+| bip_39_word_no_space_1 | tornado |  
+| bip_39_word_no_space_10 | tornadosustainbenchsolarnarrowaheadmathlaughtubespirit |  
+| bip_39_word_no_space_11 | tornadosustainbenchsolarnarrowaheadmathlaughtubespiritinform |  
+| bip_39_word_no_space_12 | tornadosustainbenchsolarnarrowaheadmathlaughtubespiritinformadjust |  
+| bip_39_word_no_space_2 | tornadosustain |  
+| bip_39_word_no_space_3 | tornadosustainbench |  
+| bip_39_word_no_space_4 | tornadosustainbenchsolar |  
+| bip_39_word_no_space_5 | tornadosustainbenchsolarnarrow |  
+| bip_39_word_no_space_6 | tornadosustainbenchsolarnarrowahead |  
+| bip_39_word_no_space_7 | tornadosustainbenchsolarnarrowaheadmath |  
+| bip_39_word_no_space_8 | tornadosustainbenchsolarnarrowaheadmathlaugh |  
+| bip_39_word_no_space_9 | tornadosustainbenchsolarnarrowaheadmathlaughtube |  
 | bip_39_word_space_0 | ['tornado', 'sustain', 'bench', 'solar', 'narrow', 'ahead', 'math', 'laugh', 'tube', 'spirit', 'inform', 'adjust'] |  
 | bip_39_word_space_1 | tornado |  
 | bip_39_word_space_10 | tornado sustain bench solar narrow ahead math laugh tube spirit |  

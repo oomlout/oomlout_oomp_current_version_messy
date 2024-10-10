@@ -122,6 +122,18 @@ pluck
 swift
 year
 spare |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companykniferesembleclientacrosspluckswiftyearspareseason |  
+| bip_39_word_no_space_11 | companykniferesembleclientacrosspluckswiftyearspareseasonequip |  
+| bip_39_word_no_space_12 | companykniferesembleclientacrosspluckswiftyearspareseasonequipanother |  
+| bip_39_word_no_space_2 | companyknife |  
+| bip_39_word_no_space_3 | companykniferesemble |  
+| bip_39_word_no_space_4 | companykniferesembleclient |  
+| bip_39_word_no_space_5 | companykniferesembleclientacross |  
+| bip_39_word_no_space_6 | companykniferesembleclientacrosspluck |  
+| bip_39_word_no_space_7 | companykniferesembleclientacrosspluckswift |  
+| bip_39_word_no_space_8 | companykniferesembleclientacrosspluckswiftyear |  
+| bip_39_word_no_space_9 | companykniferesembleclientacrosspluckswiftyearspare |  
 | bip_39_word_space_0 | ['company', 'knife', 'resemble', 'client', 'across', 'pluck', 'swift', 'year', 'spare', 'season', 'equip', 'another'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company knife resemble client across pluck swift year spare season |  

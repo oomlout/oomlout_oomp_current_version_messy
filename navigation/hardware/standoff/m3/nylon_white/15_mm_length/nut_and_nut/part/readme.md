@@ -122,6 +122,18 @@ donate
 uncle
 sting
 distance |  
+| bip_39_word_no_space_1 | flee |  
+| bip_39_word_no_space_10 | fleesealecturesquirrelsuperdonateunclestingdistanceclose |  
+| bip_39_word_no_space_11 | fleesealecturesquirrelsuperdonateunclestingdistancecloseevolve |  
+| bip_39_word_no_space_12 | fleesealecturesquirrelsuperdonateunclestingdistancecloseevolveamazing |  
+| bip_39_word_no_space_2 | fleesea |  
+| bip_39_word_no_space_3 | fleesealecture |  
+| bip_39_word_no_space_4 | fleesealecturesquirrel |  
+| bip_39_word_no_space_5 | fleesealecturesquirrelsuper |  
+| bip_39_word_no_space_6 | fleesealecturesquirrelsuperdonate |  
+| bip_39_word_no_space_7 | fleesealecturesquirrelsuperdonateuncle |  
+| bip_39_word_no_space_8 | fleesealecturesquirrelsuperdonateunclesting |  
+| bip_39_word_no_space_9 | fleesealecturesquirrelsuperdonateunclestingdistance |  
 | bip_39_word_space_0 | ['flee', 'sea', 'lecture', 'squirrel', 'super', 'donate', 'uncle', 'sting', 'distance', 'close', 'evolve', 'amazing'] |  
 | bip_39_word_space_1 | flee |  
 | bip_39_word_space_10 | flee sea lecture squirrel super donate uncle sting distance close |  

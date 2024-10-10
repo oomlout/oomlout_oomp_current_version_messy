@@ -122,6 +122,18 @@ friend
 fold
 stomach
 palace |  
+| bip_39_word_no_space_1 | mirror |  
+| bip_39_word_no_space_10 | mirrorwindowbrightworkchestfriendfoldstomachpalacecloth |  
+| bip_39_word_no_space_11 | mirrorwindowbrightworkchestfriendfoldstomachpalaceclothethics |  
+| bip_39_word_no_space_12 | mirrorwindowbrightworkchestfriendfoldstomachpalaceclothethicsadmit |  
+| bip_39_word_no_space_2 | mirrorwindow |  
+| bip_39_word_no_space_3 | mirrorwindowbright |  
+| bip_39_word_no_space_4 | mirrorwindowbrightwork |  
+| bip_39_word_no_space_5 | mirrorwindowbrightworkchest |  
+| bip_39_word_no_space_6 | mirrorwindowbrightworkchestfriend |  
+| bip_39_word_no_space_7 | mirrorwindowbrightworkchestfriendfold |  
+| bip_39_word_no_space_8 | mirrorwindowbrightworkchestfriendfoldstomach |  
+| bip_39_word_no_space_9 | mirrorwindowbrightworkchestfriendfoldstomachpalace |  
 | bip_39_word_space_0 | ['mirror', 'window', 'bright', 'work', 'chest', 'friend', 'fold', 'stomach', 'palace', 'cloth', 'ethics', 'admit'] |  
 | bip_39_word_space_1 | mirror |  
 | bip_39_word_space_10 | mirror window bright work chest friend fold stomach palace cloth |  

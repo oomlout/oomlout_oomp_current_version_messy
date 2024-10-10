@@ -122,6 +122,18 @@ bracket
 useful
 acid
 coin |  
+| bip_39_word_no_space_1 | render |  
+| bip_39_word_no_space_10 | renderairportvividviablegaragebracketusefulacidcoingospel |  
+| bip_39_word_no_space_11 | renderairportvividviablegaragebracketusefulacidcoingospelsoon |  
+| bip_39_word_no_space_12 | renderairportvividviablegaragebracketusefulacidcoingospelsoonafford |  
+| bip_39_word_no_space_2 | renderairport |  
+| bip_39_word_no_space_3 | renderairportvivid |  
+| bip_39_word_no_space_4 | renderairportvividviable |  
+| bip_39_word_no_space_5 | renderairportvividviablegarage |  
+| bip_39_word_no_space_6 | renderairportvividviablegaragebracket |  
+| bip_39_word_no_space_7 | renderairportvividviablegaragebracketuseful |  
+| bip_39_word_no_space_8 | renderairportvividviablegaragebracketusefulacid |  
+| bip_39_word_no_space_9 | renderairportvividviablegaragebracketusefulacidcoin |  
 | bip_39_word_space_0 | ['render', 'airport', 'vivid', 'viable', 'garage', 'bracket', 'useful', 'acid', 'coin', 'gospel', 'soon', 'afford'] |  
 | bip_39_word_space_1 | render |  
 | bip_39_word_space_10 | render airport vivid viable garage bracket useful acid coin gospel |  

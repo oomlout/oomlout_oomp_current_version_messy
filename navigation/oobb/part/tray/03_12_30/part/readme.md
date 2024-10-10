@@ -122,6 +122,18 @@ nice
 lucky
 october
 nose |  
+| bip_39_word_no_space_1 | copper |  
+| bip_39_word_no_space_10 | copperdanceteamautoclimbniceluckyoctobernosecountry |  
+| bip_39_word_no_space_11 | copperdanceteamautoclimbniceluckyoctobernosecountryurge |  
+| bip_39_word_no_space_12 | copperdanceteamautoclimbniceluckyoctobernosecountryurgealert |  
+| bip_39_word_no_space_2 | copperdance |  
+| bip_39_word_no_space_3 | copperdanceteam |  
+| bip_39_word_no_space_4 | copperdanceteamauto |  
+| bip_39_word_no_space_5 | copperdanceteamautoclimb |  
+| bip_39_word_no_space_6 | copperdanceteamautoclimbnice |  
+| bip_39_word_no_space_7 | copperdanceteamautoclimbnicelucky |  
+| bip_39_word_no_space_8 | copperdanceteamautoclimbniceluckyoctober |  
+| bip_39_word_no_space_9 | copperdanceteamautoclimbniceluckyoctobernose |  
 | bip_39_word_space_0 | ['copper', 'dance', 'team', 'auto', 'climb', 'nice', 'lucky', 'october', 'nose', 'country', 'urge', 'alert'] |  
 | bip_39_word_space_1 | copper |  
 | bip_39_word_space_10 | copper dance team auto climb nice lucky october nose country |  

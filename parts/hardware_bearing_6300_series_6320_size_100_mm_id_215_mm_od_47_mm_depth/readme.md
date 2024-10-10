@@ -122,6 +122,18 @@ champion
 property
 sight
 legal |  
+| bip_39_word_no_space_1 | regular |  
+| bip_39_word_no_space_10 | regulardogovenlongupsetchampionpropertysightlegalnews |  
+| bip_39_word_no_space_11 | regulardogovenlongupsetchampionpropertysightlegalnewsnoise |  
+| bip_39_word_no_space_12 | regulardogovenlongupsetchampionpropertysightlegalnewsnoiseanimal |  
+| bip_39_word_no_space_2 | regulardog |  
+| bip_39_word_no_space_3 | regulardogoven |  
+| bip_39_word_no_space_4 | regulardogovenlong |  
+| bip_39_word_no_space_5 | regulardogovenlongupset |  
+| bip_39_word_no_space_6 | regulardogovenlongupsetchampion |  
+| bip_39_word_no_space_7 | regulardogovenlongupsetchampionproperty |  
+| bip_39_word_no_space_8 | regulardogovenlongupsetchampionpropertysight |  
+| bip_39_word_no_space_9 | regulardogovenlongupsetchampionpropertysightlegal |  
 | bip_39_word_space_0 | ['regular', 'dog', 'oven', 'long', 'upset', 'champion', 'property', 'sight', 'legal', 'news', 'noise', 'animal'] |  
 | bip_39_word_space_1 | regular |  
 | bip_39_word_space_10 | regular dog oven long upset champion property sight legal news |  

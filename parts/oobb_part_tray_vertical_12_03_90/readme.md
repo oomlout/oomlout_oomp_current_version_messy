@@ -122,6 +122,18 @@ tragic
 repeat
 reward
 casino |  
+| bip_39_word_no_space_1 | sibling |  
+| bip_39_word_no_space_10 | siblingfindtraingenretruetragicrepeatrewardcasinoloop |  
+| bip_39_word_no_space_11 | siblingfindtraingenretruetragicrepeatrewardcasinoloopvan |  
+| bip_39_word_no_space_12 | siblingfindtraingenretruetragicrepeatrewardcasinoloopvanacoustic |  
+| bip_39_word_no_space_2 | siblingfind |  
+| bip_39_word_no_space_3 | siblingfindtrain |  
+| bip_39_word_no_space_4 | siblingfindtraingenre |  
+| bip_39_word_no_space_5 | siblingfindtraingenretrue |  
+| bip_39_word_no_space_6 | siblingfindtraingenretruetragic |  
+| bip_39_word_no_space_7 | siblingfindtraingenretruetragicrepeat |  
+| bip_39_word_no_space_8 | siblingfindtraingenretruetragicrepeatreward |  
+| bip_39_word_no_space_9 | siblingfindtraingenretruetragicrepeatrewardcasino |  
 | bip_39_word_space_0 | ['sibling', 'find', 'train', 'genre', 'true', 'tragic', 'repeat', 'reward', 'casino', 'loop', 'van', 'acoustic'] |  
 | bip_39_word_space_1 | sibling |  
 | bip_39_word_space_10 | sibling find train genre true tragic repeat reward casino loop |  

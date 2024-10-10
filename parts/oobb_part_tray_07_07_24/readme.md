@@ -122,6 +122,18 @@ grant
 pudding
 you
 team |  
+| bip_39_word_no_space_1 | climb |  
+| bip_39_word_no_space_10 | climbescapecargoeraduringgrantpuddingyouteambamboo |  
+| bip_39_word_no_space_11 | climbescapecargoeraduringgrantpuddingyouteambamboomaple |  
+| bip_39_word_no_space_12 | climbescapecargoeraduringgrantpuddingyouteambamboomapleanalyst |  
+| bip_39_word_no_space_2 | climbescape |  
+| bip_39_word_no_space_3 | climbescapecargo |  
+| bip_39_word_no_space_4 | climbescapecargoera |  
+| bip_39_word_no_space_5 | climbescapecargoeraduring |  
+| bip_39_word_no_space_6 | climbescapecargoeraduringgrant |  
+| bip_39_word_no_space_7 | climbescapecargoeraduringgrantpudding |  
+| bip_39_word_no_space_8 | climbescapecargoeraduringgrantpuddingyou |  
+| bip_39_word_no_space_9 | climbescapecargoeraduringgrantpuddingyouteam |  
 | bip_39_word_space_0 | ['climb', 'escape', 'cargo', 'era', 'during', 'grant', 'pudding', 'you', 'team', 'bamboo', 'maple', 'analyst'] |  
 | bip_39_word_space_1 | climb |  
 | bip_39_word_space_10 | climb escape cargo era during grant pudding you team bamboo |  

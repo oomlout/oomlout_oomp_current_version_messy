@@ -122,6 +122,18 @@ universe
 devote
 stock
 goose |  
+| bip_39_word_no_space_1 | trick |  
+| bip_39_word_no_space_10 | trickgloomcrystalexampleprepareuniversedevotestockgooseawkward |  
+| bip_39_word_no_space_11 | trickgloomcrystalexampleprepareuniversedevotestockgooseawkwardall |  
+| bip_39_word_no_space_12 | trickgloomcrystalexampleprepareuniversedevotestockgooseawkwardallaround |  
+| bip_39_word_no_space_2 | trickgloom |  
+| bip_39_word_no_space_3 | trickgloomcrystal |  
+| bip_39_word_no_space_4 | trickgloomcrystalexample |  
+| bip_39_word_no_space_5 | trickgloomcrystalexampleprepare |  
+| bip_39_word_no_space_6 | trickgloomcrystalexampleprepareuniverse |  
+| bip_39_word_no_space_7 | trickgloomcrystalexampleprepareuniversedevote |  
+| bip_39_word_no_space_8 | trickgloomcrystalexampleprepareuniversedevotestock |  
+| bip_39_word_no_space_9 | trickgloomcrystalexampleprepareuniversedevotestockgoose |  
 | bip_39_word_space_0 | ['trick', 'gloom', 'crystal', 'example', 'prepare', 'universe', 'devote', 'stock', 'goose', 'awkward', 'all', 'around'] |  
 | bip_39_word_space_1 | trick |  
 | bip_39_word_space_10 | trick gloom crystal example prepare universe devote stock goose awkward |  

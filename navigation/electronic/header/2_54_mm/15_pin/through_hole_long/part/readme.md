@@ -122,6 +122,18 @@ tell
 pulse
 chronic
 tortoise |  
+| bip_39_word_no_space_1 | plunge |  
+| bip_39_word_no_space_10 | plungedwarfboxduringkidneytellpulsechronictortoiselab |  
+| bip_39_word_no_space_11 | plungedwarfboxduringkidneytellpulsechronictortoiselabsand |  
+| bip_39_word_no_space_12 | plungedwarfboxduringkidneytellpulsechronictortoiselabsandagent |  
+| bip_39_word_no_space_2 | plungedwarf |  
+| bip_39_word_no_space_3 | plungedwarfbox |  
+| bip_39_word_no_space_4 | plungedwarfboxduring |  
+| bip_39_word_no_space_5 | plungedwarfboxduringkidney |  
+| bip_39_word_no_space_6 | plungedwarfboxduringkidneytell |  
+| bip_39_word_no_space_7 | plungedwarfboxduringkidneytellpulse |  
+| bip_39_word_no_space_8 | plungedwarfboxduringkidneytellpulsechronic |  
+| bip_39_word_no_space_9 | plungedwarfboxduringkidneytellpulsechronictortoise |  
 | bip_39_word_space_0 | ['plunge', 'dwarf', 'box', 'during', 'kidney', 'tell', 'pulse', 'chronic', 'tortoise', 'lab', 'sand', 'agent'] |  
 | bip_39_word_space_1 | plunge |  
 | bip_39_word_space_10 | plunge dwarf box during kidney tell pulse chronic tortoise lab |  

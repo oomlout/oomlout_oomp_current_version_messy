@@ -122,6 +122,18 @@ return
 zebra
 argue
 dirt |  
+| bip_39_word_no_space_1 | captain |  
+| bip_39_word_no_space_10 | captaintrywaitminimumrelyreturnzebraarguedirtnight |  
+| bip_39_word_no_space_11 | captaintrywaitminimumrelyreturnzebraarguedirtnightskull |  
+| bip_39_word_no_space_12 | captaintrywaitminimumrelyreturnzebraarguedirtnightskullavocado |  
+| bip_39_word_no_space_2 | captaintry |  
+| bip_39_word_no_space_3 | captaintrywait |  
+| bip_39_word_no_space_4 | captaintrywaitminimum |  
+| bip_39_word_no_space_5 | captaintrywaitminimumrely |  
+| bip_39_word_no_space_6 | captaintrywaitminimumrelyreturn |  
+| bip_39_word_no_space_7 | captaintrywaitminimumrelyreturnzebra |  
+| bip_39_word_no_space_8 | captaintrywaitminimumrelyreturnzebraargue |  
+| bip_39_word_no_space_9 | captaintrywaitminimumrelyreturnzebraarguedirt |  
 | bip_39_word_space_0 | ['captain', 'try', 'wait', 'minimum', 'rely', 'return', 'zebra', 'argue', 'dirt', 'night', 'skull', 'avocado'] |  
 | bip_39_word_space_1 | captain |  
 | bip_39_word_space_10 | captain try wait minimum rely return zebra argue dirt night |  

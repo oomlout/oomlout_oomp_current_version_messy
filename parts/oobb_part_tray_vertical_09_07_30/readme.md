@@ -122,6 +122,18 @@ myth
 cloud
 flock
 million |  
+| bip_39_word_no_space_1 | unlock |  
+| bip_39_word_no_space_10 | unlockpalacevasttextdangermythcloudflockmillionnut |  
+| bip_39_word_no_space_11 | unlockpalacevasttextdangermythcloudflockmillionnutsuper |  
+| bip_39_word_no_space_12 | unlockpalacevasttextdangermythcloudflockmillionnutsuperaugust |  
+| bip_39_word_no_space_2 | unlockpalace |  
+| bip_39_word_no_space_3 | unlockpalacevast |  
+| bip_39_word_no_space_4 | unlockpalacevasttext |  
+| bip_39_word_no_space_5 | unlockpalacevasttextdanger |  
+| bip_39_word_no_space_6 | unlockpalacevasttextdangermyth |  
+| bip_39_word_no_space_7 | unlockpalacevasttextdangermythcloud |  
+| bip_39_word_no_space_8 | unlockpalacevasttextdangermythcloudflock |  
+| bip_39_word_no_space_9 | unlockpalacevasttextdangermythcloudflockmillion |  
 | bip_39_word_space_0 | ['unlock', 'palace', 'vast', 'text', 'danger', 'myth', 'cloud', 'flock', 'million', 'nut', 'super', 'august'] |  
 | bip_39_word_space_1 | unlock |  
 | bip_39_word_space_10 | unlock palace vast text danger myth cloud flock million nut |  

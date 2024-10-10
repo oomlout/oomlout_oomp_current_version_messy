@@ -122,6 +122,18 @@ wait
 manual
 mass
 gate |  
+| bip_39_word_no_space_1 | ginger |  
+| bip_39_word_no_space_10 | gingerequalflametypicalkitchenwaitmanualmassgatemillion |  
+| bip_39_word_no_space_11 | gingerequalflametypicalkitchenwaitmanualmassgatemilliongovern |  
+| bip_39_word_no_space_12 | gingerequalflametypicalkitchenwaitmanualmassgatemilliongovernapprove |  
+| bip_39_word_no_space_2 | gingerequal |  
+| bip_39_word_no_space_3 | gingerequalflame |  
+| bip_39_word_no_space_4 | gingerequalflametypical |  
+| bip_39_word_no_space_5 | gingerequalflametypicalkitchen |  
+| bip_39_word_no_space_6 | gingerequalflametypicalkitchenwait |  
+| bip_39_word_no_space_7 | gingerequalflametypicalkitchenwaitmanual |  
+| bip_39_word_no_space_8 | gingerequalflametypicalkitchenwaitmanualmass |  
+| bip_39_word_no_space_9 | gingerequalflametypicalkitchenwaitmanualmassgate |  
 | bip_39_word_space_0 | ['ginger', 'equal', 'flame', 'typical', 'kitchen', 'wait', 'manual', 'mass', 'gate', 'million', 'govern', 'approve'] |  
 | bip_39_word_space_1 | ginger |  
 | bip_39_word_space_10 | ginger equal flame typical kitchen wait manual mass gate million |  

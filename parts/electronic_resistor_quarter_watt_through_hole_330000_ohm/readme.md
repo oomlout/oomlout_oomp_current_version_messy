@@ -122,6 +122,18 @@ enjoy
 smooth
 panther
 odor |  
+| bip_39_word_no_space_1 | thank |  
+| bip_39_word_no_space_10 | thanktigerlaterverifyyouenjoysmoothpantherodorridge |  
+| bip_39_word_no_space_11 | thanktigerlaterverifyyouenjoysmoothpantherodorridgedad |  
+| bip_39_word_no_space_12 | thanktigerlaterverifyyouenjoysmoothpantherodorridgedadactress |  
+| bip_39_word_no_space_2 | thanktiger |  
+| bip_39_word_no_space_3 | thanktigerlater |  
+| bip_39_word_no_space_4 | thanktigerlaterverify |  
+| bip_39_word_no_space_5 | thanktigerlaterverifyyou |  
+| bip_39_word_no_space_6 | thanktigerlaterverifyyouenjoy |  
+| bip_39_word_no_space_7 | thanktigerlaterverifyyouenjoysmooth |  
+| bip_39_word_no_space_8 | thanktigerlaterverifyyouenjoysmoothpanther |  
+| bip_39_word_no_space_9 | thanktigerlaterverifyyouenjoysmoothpantherodor |  
 | bip_39_word_space_0 | ['thank', 'tiger', 'later', 'verify', 'you', 'enjoy', 'smooth', 'panther', 'odor', 'ridge', 'dad', 'actress'] |  
 | bip_39_word_space_1 | thank |  
 | bip_39_word_space_10 | thank tiger later verify you enjoy smooth panther odor ridge |  

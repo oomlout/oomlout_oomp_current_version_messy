@@ -122,6 +122,18 @@ practice
 jealous
 output
 upon |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bosscatchimneylargespellpracticejealousoutputuponindicate |  
+| bip_39_word_no_space_11 | bosscatchimneylargespellpracticejealousoutputuponindicatedawn |  
+| bip_39_word_no_space_12 | bosscatchimneylargespellpracticejealousoutputuponindicatedawnabsorb |  
+| bip_39_word_no_space_2 | bosscat |  
+| bip_39_word_no_space_3 | bosscatchimney |  
+| bip_39_word_no_space_4 | bosscatchimneylarge |  
+| bip_39_word_no_space_5 | bosscatchimneylargespell |  
+| bip_39_word_no_space_6 | bosscatchimneylargespellpractice |  
+| bip_39_word_no_space_7 | bosscatchimneylargespellpracticejealous |  
+| bip_39_word_no_space_8 | bosscatchimneylargespellpracticejealousoutput |  
+| bip_39_word_no_space_9 | bosscatchimneylargespellpracticejealousoutputupon |  
 | bip_39_word_space_0 | ['boss', 'cat', 'chimney', 'large', 'spell', 'practice', 'jealous', 'output', 'upon', 'indicate', 'dawn', 'absorb'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss cat chimney large spell practice jealous output upon indicate |  

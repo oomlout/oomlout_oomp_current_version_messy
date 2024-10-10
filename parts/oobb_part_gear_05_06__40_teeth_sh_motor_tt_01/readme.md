@@ -122,6 +122,18 @@ wood
 awake
 flush
 ignore |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | servicebrowncutebulbrugwoodawakeflushignorecolumn |  
+| bip_39_word_no_space_11 | servicebrowncutebulbrugwoodawakeflushignorecolumntomato |  
+| bip_39_word_no_space_12 | servicebrowncutebulbrugwoodawakeflushignorecolumntomatoadd |  
+| bip_39_word_no_space_2 | servicebrown |  
+| bip_39_word_no_space_3 | servicebrowncute |  
+| bip_39_word_no_space_4 | servicebrowncutebulb |  
+| bip_39_word_no_space_5 | servicebrowncutebulbrug |  
+| bip_39_word_no_space_6 | servicebrowncutebulbrugwood |  
+| bip_39_word_no_space_7 | servicebrowncutebulbrugwoodawake |  
+| bip_39_word_no_space_8 | servicebrowncutebulbrugwoodawakeflush |  
+| bip_39_word_no_space_9 | servicebrowncutebulbrugwoodawakeflushignore |  
 | bip_39_word_space_0 | ['service', 'brown', 'cute', 'bulb', 'rug', 'wood', 'awake', 'flush', 'ignore', 'column', 'tomato', 'add'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service brown cute bulb rug wood awake flush ignore column |  

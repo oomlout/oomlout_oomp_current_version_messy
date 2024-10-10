@@ -122,6 +122,18 @@ clog
 palm
 often
 exhaust |  
+| bip_39_word_no_space_1 | apology |  
+| bip_39_word_no_space_10 | apologyrhythmankleriskimageclogpalmoftenexhaustcheese |  
+| bip_39_word_no_space_11 | apologyrhythmankleriskimageclogpalmoftenexhaustcheesealter |  
+| bip_39_word_no_space_12 | apologyrhythmankleriskimageclogpalmoftenexhaustcheesealterauthor |  
+| bip_39_word_no_space_2 | apologyrhythm |  
+| bip_39_word_no_space_3 | apologyrhythmankle |  
+| bip_39_word_no_space_4 | apologyrhythmanklerisk |  
+| bip_39_word_no_space_5 | apologyrhythmankleriskimage |  
+| bip_39_word_no_space_6 | apologyrhythmankleriskimageclog |  
+| bip_39_word_no_space_7 | apologyrhythmankleriskimageclogpalm |  
+| bip_39_word_no_space_8 | apologyrhythmankleriskimageclogpalmoften |  
+| bip_39_word_no_space_9 | apologyrhythmankleriskimageclogpalmoftenexhaust |  
 | bip_39_word_space_0 | ['apology', 'rhythm', 'ankle', 'risk', 'image', 'clog', 'palm', 'often', 'exhaust', 'cheese', 'alter', 'author'] |  
 | bip_39_word_space_1 | apology |  
 | bip_39_word_space_10 | apology rhythm ankle risk image clog palm often exhaust cheese |  

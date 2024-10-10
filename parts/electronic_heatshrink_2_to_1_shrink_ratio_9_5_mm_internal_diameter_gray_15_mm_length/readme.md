@@ -122,6 +122,18 @@ march
 bleak
 brief
 walk |  
+| bip_39_word_no_space_1 | renew |  
+| bip_39_word_no_space_10 | renewpartyangereitherrebelmarchbleakbriefwalkslice |  
+| bip_39_word_no_space_11 | renewpartyangereitherrebelmarchbleakbriefwalkslicedetail |  
+| bip_39_word_no_space_12 | renewpartyangereitherrebelmarchbleakbriefwalkslicedetailanother |  
+| bip_39_word_no_space_2 | renewparty |  
+| bip_39_word_no_space_3 | renewpartyanger |  
+| bip_39_word_no_space_4 | renewpartyangereither |  
+| bip_39_word_no_space_5 | renewpartyangereitherrebel |  
+| bip_39_word_no_space_6 | renewpartyangereitherrebelmarch |  
+| bip_39_word_no_space_7 | renewpartyangereitherrebelmarchbleak |  
+| bip_39_word_no_space_8 | renewpartyangereitherrebelmarchbleakbrief |  
+| bip_39_word_no_space_9 | renewpartyangereitherrebelmarchbleakbriefwalk |  
 | bip_39_word_space_0 | ['renew', 'party', 'anger', 'either', 'rebel', 'march', 'bleak', 'brief', 'walk', 'slice', 'detail', 'another'] |  
 | bip_39_word_space_1 | renew |  
 | bip_39_word_space_10 | renew party anger either rebel march bleak brief walk slice |  

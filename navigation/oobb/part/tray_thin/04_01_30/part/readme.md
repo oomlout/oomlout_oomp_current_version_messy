@@ -122,6 +122,18 @@ page
 asthma
 hospital
 equal |  
+| bip_39_word_no_space_1 | pizza |  
+| bip_39_word_no_space_10 | pizzaeasyslabfabricdesertpageasthmahospitalequalsupply |  
+| bip_39_word_no_space_11 | pizzaeasyslabfabricdesertpageasthmahospitalequalsupplystep |  
+| bip_39_word_no_space_12 | pizzaeasyslabfabricdesertpageasthmahospitalequalsupplystepannounce |  
+| bip_39_word_no_space_2 | pizzaeasy |  
+| bip_39_word_no_space_3 | pizzaeasyslab |  
+| bip_39_word_no_space_4 | pizzaeasyslabfabric |  
+| bip_39_word_no_space_5 | pizzaeasyslabfabricdesert |  
+| bip_39_word_no_space_6 | pizzaeasyslabfabricdesertpage |  
+| bip_39_word_no_space_7 | pizzaeasyslabfabricdesertpageasthma |  
+| bip_39_word_no_space_8 | pizzaeasyslabfabricdesertpageasthmahospital |  
+| bip_39_word_no_space_9 | pizzaeasyslabfabricdesertpageasthmahospitalequal |  
 | bip_39_word_space_0 | ['pizza', 'easy', 'slab', 'fabric', 'desert', 'page', 'asthma', 'hospital', 'equal', 'supply', 'step', 'announce'] |  
 | bip_39_word_space_1 | pizza |  
 | bip_39_word_space_10 | pizza easy slab fabric desert page asthma hospital equal supply |  

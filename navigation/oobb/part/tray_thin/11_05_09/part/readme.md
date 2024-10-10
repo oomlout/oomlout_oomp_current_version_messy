@@ -122,6 +122,18 @@ law
 twist
 peanut
 decade |  
+| bip_39_word_no_space_1 | border |  
+| bip_39_word_no_space_10 | borderoveroutputadjusttricklawtwistpeanutdecadeinspire |  
+| bip_39_word_no_space_11 | borderoveroutputadjusttricklawtwistpeanutdecadeinspirenurse |  
+| bip_39_word_no_space_12 | borderoveroutputadjusttricklawtwistpeanutdecadeinspirenurseadmit |  
+| bip_39_word_no_space_2 | borderover |  
+| bip_39_word_no_space_3 | borderoveroutput |  
+| bip_39_word_no_space_4 | borderoveroutputadjust |  
+| bip_39_word_no_space_5 | borderoveroutputadjusttrick |  
+| bip_39_word_no_space_6 | borderoveroutputadjusttricklaw |  
+| bip_39_word_no_space_7 | borderoveroutputadjusttricklawtwist |  
+| bip_39_word_no_space_8 | borderoveroutputadjusttricklawtwistpeanut |  
+| bip_39_word_no_space_9 | borderoveroutputadjusttricklawtwistpeanutdecade |  
 | bip_39_word_space_0 | ['border', 'over', 'output', 'adjust', 'trick', 'law', 'twist', 'peanut', 'decade', 'inspire', 'nurse', 'admit'] |  
 | bip_39_word_space_1 | border |  
 | bip_39_word_space_10 | border over output adjust trick law twist peanut decade inspire |  

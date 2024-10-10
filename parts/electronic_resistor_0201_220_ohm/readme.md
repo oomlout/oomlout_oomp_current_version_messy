@@ -122,6 +122,18 @@ brisk
 hotel
 sport
 accuse |  
+| bip_39_word_no_space_1 | maple |  
+| bip_39_word_no_space_10 | maplelatermixtimbervacuumbriskhotelsportaccuseside |  
+| bip_39_word_no_space_11 | maplelatermixtimbervacuumbriskhotelsportaccusesidebroccoli |  
+| bip_39_word_no_space_12 | maplelatermixtimbervacuumbriskhotelsportaccusesidebroccoliarctic |  
+| bip_39_word_no_space_2 | maplelater |  
+| bip_39_word_no_space_3 | maplelatermix |  
+| bip_39_word_no_space_4 | maplelatermixtimber |  
+| bip_39_word_no_space_5 | maplelatermixtimbervacuum |  
+| bip_39_word_no_space_6 | maplelatermixtimbervacuumbrisk |  
+| bip_39_word_no_space_7 | maplelatermixtimbervacuumbriskhotel |  
+| bip_39_word_no_space_8 | maplelatermixtimbervacuumbriskhotelsport |  
+| bip_39_word_no_space_9 | maplelatermixtimbervacuumbriskhotelsportaccuse |  
 | bip_39_word_space_0 | ['maple', 'later', 'mix', 'timber', 'vacuum', 'brisk', 'hotel', 'sport', 'accuse', 'side', 'broccoli', 'arctic'] |  
 | bip_39_word_space_1 | maple |  
 | bip_39_word_space_10 | maple later mix timber vacuum brisk hotel sport accuse side |  

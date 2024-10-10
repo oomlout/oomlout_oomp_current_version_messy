@@ -122,6 +122,18 @@ photo
 guilt
 catalog
 squeeze |  
+| bip_39_word_no_space_1 | notable |  
+| bip_39_word_no_space_10 | notablefamebrainorbitwisdomphotoguiltcatalogsqueezelunch |  
+| bip_39_word_no_space_11 | notablefamebrainorbitwisdomphotoguiltcatalogsqueezelunchkitten |  
+| bip_39_word_no_space_12 | notablefamebrainorbitwisdomphotoguiltcatalogsqueezelunchkittenautumn |  
+| bip_39_word_no_space_2 | notablefame |  
+| bip_39_word_no_space_3 | notablefamebrain |  
+| bip_39_word_no_space_4 | notablefamebrainorbit |  
+| bip_39_word_no_space_5 | notablefamebrainorbitwisdom |  
+| bip_39_word_no_space_6 | notablefamebrainorbitwisdomphoto |  
+| bip_39_word_no_space_7 | notablefamebrainorbitwisdomphotoguilt |  
+| bip_39_word_no_space_8 | notablefamebrainorbitwisdomphotoguiltcatalog |  
+| bip_39_word_no_space_9 | notablefamebrainorbitwisdomphotoguiltcatalogsqueeze |  
 | bip_39_word_space_0 | ['notable', 'fame', 'brain', 'orbit', 'wisdom', 'photo', 'guilt', 'catalog', 'squeeze', 'lunch', 'kitten', 'autumn'] |  
 | bip_39_word_space_1 | notable |  
 | bip_39_word_space_10 | notable fame brain orbit wisdom photo guilt catalog squeeze lunch |  

@@ -122,6 +122,18 @@ arm
 spawn
 measure
 amazing |  
+| bip_39_word_no_space_1 | canyon |  
+| bip_39_word_no_space_10 | canyonexerciseslammarginbidarmspawnmeasureamazingscout |  
+| bip_39_word_no_space_11 | canyonexerciseslammarginbidarmspawnmeasureamazingscoutreward |  
+| bip_39_word_no_space_12 | canyonexerciseslammarginbidarmspawnmeasureamazingscoutrewardarmor |  
+| bip_39_word_no_space_2 | canyonexercise |  
+| bip_39_word_no_space_3 | canyonexerciseslam |  
+| bip_39_word_no_space_4 | canyonexerciseslammargin |  
+| bip_39_word_no_space_5 | canyonexerciseslammarginbid |  
+| bip_39_word_no_space_6 | canyonexerciseslammarginbidarm |  
+| bip_39_word_no_space_7 | canyonexerciseslammarginbidarmspawn |  
+| bip_39_word_no_space_8 | canyonexerciseslammarginbidarmspawnmeasure |  
+| bip_39_word_no_space_9 | canyonexerciseslammarginbidarmspawnmeasureamazing |  
 | bip_39_word_space_0 | ['canyon', 'exercise', 'slam', 'margin', 'bid', 'arm', 'spawn', 'measure', 'amazing', 'scout', 'reward', 'armor'] |  
 | bip_39_word_space_1 | canyon |  
 | bip_39_word_space_10 | canyon exercise slam margin bid arm spawn measure amazing scout |  

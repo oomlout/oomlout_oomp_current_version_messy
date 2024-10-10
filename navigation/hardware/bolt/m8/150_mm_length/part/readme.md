@@ -122,6 +122,18 @@ brand
 pencil
 style
 outside |  
+| bip_39_word_no_space_1 | over |  
+| bip_39_word_no_space_10 | overmythsizeburdenbladebrandpencilstyleoutsidebasket |  
+| bip_39_word_no_space_11 | overmythsizeburdenbladebrandpencilstyleoutsidebasketfebruary |  
+| bip_39_word_no_space_12 | overmythsizeburdenbladebrandpencilstyleoutsidebasketfebruaryadvice |  
+| bip_39_word_no_space_2 | overmyth |  
+| bip_39_word_no_space_3 | overmythsize |  
+| bip_39_word_no_space_4 | overmythsizeburden |  
+| bip_39_word_no_space_5 | overmythsizeburdenblade |  
+| bip_39_word_no_space_6 | overmythsizeburdenbladebrand |  
+| bip_39_word_no_space_7 | overmythsizeburdenbladebrandpencil |  
+| bip_39_word_no_space_8 | overmythsizeburdenbladebrandpencilstyle |  
+| bip_39_word_no_space_9 | overmythsizeburdenbladebrandpencilstyleoutside |  
 | bip_39_word_space_0 | ['over', 'myth', 'size', 'burden', 'blade', 'brand', 'pencil', 'style', 'outside', 'basket', 'february', 'advice'] |  
 | bip_39_word_space_1 | over |  
 | bip_39_word_space_10 | over myth size burden blade brand pencil style outside basket |  

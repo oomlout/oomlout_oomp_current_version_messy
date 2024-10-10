@@ -122,6 +122,18 @@ pet
 rug
 unhappy
 furnace |  
+| bip_39_word_no_space_1 | betray |  
+| bip_39_word_no_space_10 | betraysteakcricketpredictdealpetrugunhappyfurnacetopple |  
+| bip_39_word_no_space_11 | betraysteakcricketpredictdealpetrugunhappyfurnacetoppleplug |  
+| bip_39_word_no_space_12 | betraysteakcricketpredictdealpetrugunhappyfurnacetoppleplugannual |  
+| bip_39_word_no_space_2 | betraysteak |  
+| bip_39_word_no_space_3 | betraysteakcricket |  
+| bip_39_word_no_space_4 | betraysteakcricketpredict |  
+| bip_39_word_no_space_5 | betraysteakcricketpredictdeal |  
+| bip_39_word_no_space_6 | betraysteakcricketpredictdealpet |  
+| bip_39_word_no_space_7 | betraysteakcricketpredictdealpetrug |  
+| bip_39_word_no_space_8 | betraysteakcricketpredictdealpetrugunhappy |  
+| bip_39_word_no_space_9 | betraysteakcricketpredictdealpetrugunhappyfurnace |  
 | bip_39_word_space_0 | ['betray', 'steak', 'cricket', 'predict', 'deal', 'pet', 'rug', 'unhappy', 'furnace', 'topple', 'plug', 'annual'] |  
 | bip_39_word_space_1 | betray |  
 | bip_39_word_space_10 | betray steak cricket predict deal pet rug unhappy furnace topple |  

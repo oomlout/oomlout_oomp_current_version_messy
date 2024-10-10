@@ -122,6 +122,18 @@ assist
 room
 kid
 remember |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblebulletjealousdrillmazeassistroomkidremembermachine |  
+| bip_39_word_no_space_11 | marblebulletjealousdrillmazeassistroomkidremembermachineapology |  
+| bip_39_word_no_space_12 | marblebulletjealousdrillmazeassistroomkidremembermachineapologyalert |  
+| bip_39_word_no_space_2 | marblebullet |  
+| bip_39_word_no_space_3 | marblebulletjealous |  
+| bip_39_word_no_space_4 | marblebulletjealousdrill |  
+| bip_39_word_no_space_5 | marblebulletjealousdrillmaze |  
+| bip_39_word_no_space_6 | marblebulletjealousdrillmazeassist |  
+| bip_39_word_no_space_7 | marblebulletjealousdrillmazeassistroom |  
+| bip_39_word_no_space_8 | marblebulletjealousdrillmazeassistroomkid |  
+| bip_39_word_no_space_9 | marblebulletjealousdrillmazeassistroomkidremember |  
 | bip_39_word_space_0 | ['marble', 'bullet', 'jealous', 'drill', 'maze', 'assist', 'room', 'kid', 'remember', 'machine', 'apology', 'alert'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble bullet jealous drill maze assist room kid remember machine |  

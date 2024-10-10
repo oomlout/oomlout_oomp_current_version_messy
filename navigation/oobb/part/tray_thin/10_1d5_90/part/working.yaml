@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fence
   monitor
 
   large'
+bip_39_word_no_space_1: fence
+bip_39_word_no_space_10: fenceinvitethoughthipcoralteamafraidmonitorlargebelt
+bip_39_word_no_space_11: fenceinvitethoughthipcoralteamafraidmonitorlargebeltpole
+bip_39_word_no_space_12: fenceinvitethoughthipcoralteamafraidmonitorlargebeltpoleauto
+bip_39_word_no_space_2: fenceinvite
+bip_39_word_no_space_3: fenceinvitethought
+bip_39_word_no_space_4: fenceinvitethoughthip
+bip_39_word_no_space_5: fenceinvitethoughthipcoral
+bip_39_word_no_space_6: fenceinvitethoughthipcoralteam
+bip_39_word_no_space_7: fenceinvitethoughthipcoralteamafraid
+bip_39_word_no_space_8: fenceinvitethoughthipcoralteamafraidmonitor
+bip_39_word_no_space_9: fenceinvitethoughthipcoralteamafraidmonitorlarge
 bip_39_word_space_0:
 - fence
 - invite

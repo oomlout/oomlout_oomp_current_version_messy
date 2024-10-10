@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'heart
   like
 
   ginger'
+bip_39_word_no_space_1: heart
+bip_39_word_no_space_10: heartfossiltoneinspirefatechobridgelikegingerwrite
+bip_39_word_no_space_11: heartfossiltoneinspirefatechobridgelikegingerwriteresemble
+bip_39_word_no_space_12: heartfossiltoneinspirefatechobridgelikegingerwriteresembleasset
+bip_39_word_no_space_2: heartfossil
+bip_39_word_no_space_3: heartfossiltone
+bip_39_word_no_space_4: heartfossiltoneinspire
+bip_39_word_no_space_5: heartfossiltoneinspirefat
+bip_39_word_no_space_6: heartfossiltoneinspirefatecho
+bip_39_word_no_space_7: heartfossiltoneinspirefatechobridge
+bip_39_word_no_space_8: heartfossiltoneinspirefatechobridgelike
+bip_39_word_no_space_9: heartfossiltoneinspirefatechobridgelikeginger
 bip_39_word_space_0:
 - heart
 - fossil

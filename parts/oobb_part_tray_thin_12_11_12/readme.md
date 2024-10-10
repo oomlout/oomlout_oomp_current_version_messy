@@ -122,6 +122,18 @@ hip
 limb
 license
 winner |  
+| bip_39_word_no_space_1 | conduct |  
+| bip_39_word_no_space_10 | conductfleerulegadgetmotherhiplimblicensewinnerolive |  
+| bip_39_word_no_space_11 | conductfleerulegadgetmotherhiplimblicensewinneroliveugly |  
+| bip_39_word_no_space_12 | conductfleerulegadgetmotherhiplimblicensewinneroliveuglyafford |  
+| bip_39_word_no_space_2 | conductflee |  
+| bip_39_word_no_space_3 | conductfleerule |  
+| bip_39_word_no_space_4 | conductfleerulegadget |  
+| bip_39_word_no_space_5 | conductfleerulegadgetmother |  
+| bip_39_word_no_space_6 | conductfleerulegadgetmotherhip |  
+| bip_39_word_no_space_7 | conductfleerulegadgetmotherhiplimb |  
+| bip_39_word_no_space_8 | conductfleerulegadgetmotherhiplimblicense |  
+| bip_39_word_no_space_9 | conductfleerulegadgetmotherhiplimblicensewinner |  
 | bip_39_word_space_0 | ['conduct', 'flee', 'rule', 'gadget', 'mother', 'hip', 'limb', 'license', 'winner', 'olive', 'ugly', 'afford'] |  
 | bip_39_word_space_1 | conduct |  
 | bip_39_word_space_10 | conduct flee rule gadget mother hip limb license winner olive |  

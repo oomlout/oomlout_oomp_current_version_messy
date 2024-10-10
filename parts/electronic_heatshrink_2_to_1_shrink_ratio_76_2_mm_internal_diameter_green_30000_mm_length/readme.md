@@ -122,6 +122,18 @@ exotic
 athlete
 skull
 city |  
+| bip_39_word_no_space_1 | slender |  
+| bip_39_word_no_space_10 | slendervelvetswitchgadgetoverexoticathleteskullcitymorning |  
+| bip_39_word_no_space_11 | slendervelvetswitchgadgetoverexoticathleteskullcitymorningpeasant |  
+| bip_39_word_no_space_12 | slendervelvetswitchgadgetoverexoticathleteskullcitymorningpeasantadult |  
+| bip_39_word_no_space_2 | slendervelvet |  
+| bip_39_word_no_space_3 | slendervelvetswitch |  
+| bip_39_word_no_space_4 | slendervelvetswitchgadget |  
+| bip_39_word_no_space_5 | slendervelvetswitchgadgetover |  
+| bip_39_word_no_space_6 | slendervelvetswitchgadgetoverexotic |  
+| bip_39_word_no_space_7 | slendervelvetswitchgadgetoverexoticathlete |  
+| bip_39_word_no_space_8 | slendervelvetswitchgadgetoverexoticathleteskull |  
+| bip_39_word_no_space_9 | slendervelvetswitchgadgetoverexoticathleteskullcity |  
 | bip_39_word_space_0 | ['slender', 'velvet', 'switch', 'gadget', 'over', 'exotic', 'athlete', 'skull', 'city', 'morning', 'peasant', 'adult'] |  
 | bip_39_word_space_1 | slender |  
 | bip_39_word_space_10 | slender velvet switch gadget over exotic athlete skull city morning |  

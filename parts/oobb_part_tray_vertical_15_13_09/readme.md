@@ -122,6 +122,18 @@ spot
 vote
 mass
 snack |  
+| bip_39_word_no_space_1 | wreck |  
+| bip_39_word_no_space_10 | wreckpridecricketpenfitspotvotemasssnackspin |  
+| bip_39_word_no_space_11 | wreckpridecricketpenfitspotvotemasssnackspinentry |  
+| bip_39_word_no_space_12 | wreckpridecricketpenfitspotvotemasssnackspinentryangry |  
+| bip_39_word_no_space_2 | wreckpride |  
+| bip_39_word_no_space_3 | wreckpridecricket |  
+| bip_39_word_no_space_4 | wreckpridecricketpen |  
+| bip_39_word_no_space_5 | wreckpridecricketpenfit |  
+| bip_39_word_no_space_6 | wreckpridecricketpenfitspot |  
+| bip_39_word_no_space_7 | wreckpridecricketpenfitspotvote |  
+| bip_39_word_no_space_8 | wreckpridecricketpenfitspotvotemass |  
+| bip_39_word_no_space_9 | wreckpridecricketpenfitspotvotemasssnack |  
 | bip_39_word_space_0 | ['wreck', 'pride', 'cricket', 'pen', 'fit', 'spot', 'vote', 'mass', 'snack', 'spin', 'entry', 'angry'] |  
 | bip_39_word_space_1 | wreck |  
 | bip_39_word_space_10 | wreck pride cricket pen fit spot vote mass snack spin |  

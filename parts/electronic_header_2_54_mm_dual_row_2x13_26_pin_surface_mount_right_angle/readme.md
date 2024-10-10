@@ -122,6 +122,18 @@ resource
 wave
 program
 cabin |  
+| bip_39_word_no_space_1 | adult |  
+| bip_39_word_no_space_10 | adultlibertybulletcuriousexpireresourcewaveprogramcabindune |  
+| bip_39_word_no_space_11 | adultlibertybulletcuriousexpireresourcewaveprogramcabinduneshoe |  
+| bip_39_word_no_space_12 | adultlibertybulletcuriousexpireresourcewaveprogramcabinduneshoeantenna |  
+| bip_39_word_no_space_2 | adultliberty |  
+| bip_39_word_no_space_3 | adultlibertybullet |  
+| bip_39_word_no_space_4 | adultlibertybulletcurious |  
+| bip_39_word_no_space_5 | adultlibertybulletcuriousexpire |  
+| bip_39_word_no_space_6 | adultlibertybulletcuriousexpireresource |  
+| bip_39_word_no_space_7 | adultlibertybulletcuriousexpireresourcewave |  
+| bip_39_word_no_space_8 | adultlibertybulletcuriousexpireresourcewaveprogram |  
+| bip_39_word_no_space_9 | adultlibertybulletcuriousexpireresourcewaveprogramcabin |  
 | bip_39_word_space_0 | ['adult', 'liberty', 'bullet', 'curious', 'expire', 'resource', 'wave', 'program', 'cabin', 'dune', 'shoe', 'antenna'] |  
 | bip_39_word_space_1 | adult |  
 | bip_39_word_space_10 | adult liberty bullet curious expire resource wave program cabin dune |  

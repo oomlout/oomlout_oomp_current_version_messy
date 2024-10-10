@@ -122,6 +122,18 @@ usual
 present
 pledge
 awake |  
+| bip_39_word_no_space_1 | later |  
+| bip_39_word_no_space_10 | laterdirectbridgemethodknowusualpresentpledgeawakeafraid |  
+| bip_39_word_no_space_11 | laterdirectbridgemethodknowusualpresentpledgeawakeafraiddentist |  
+| bip_39_word_no_space_12 | laterdirectbridgemethodknowusualpresentpledgeawakeafraiddentistalpha |  
+| bip_39_word_no_space_2 | laterdirect |  
+| bip_39_word_no_space_3 | laterdirectbridge |  
+| bip_39_word_no_space_4 | laterdirectbridgemethod |  
+| bip_39_word_no_space_5 | laterdirectbridgemethodknow |  
+| bip_39_word_no_space_6 | laterdirectbridgemethodknowusual |  
+| bip_39_word_no_space_7 | laterdirectbridgemethodknowusualpresent |  
+| bip_39_word_no_space_8 | laterdirectbridgemethodknowusualpresentpledge |  
+| bip_39_word_no_space_9 | laterdirectbridgemethodknowusualpresentpledgeawake |  
 | bip_39_word_space_0 | ['later', 'direct', 'bridge', 'method', 'know', 'usual', 'present', 'pledge', 'awake', 'afraid', 'dentist', 'alpha'] |  
 | bip_39_word_space_1 | later |  
 | bip_39_word_space_10 | later direct bridge method know usual present pledge awake afraid |  

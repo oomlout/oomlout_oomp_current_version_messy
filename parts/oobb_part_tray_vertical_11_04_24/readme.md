@@ -122,6 +122,18 @@ inquiry
 absent
 proud
 foster |  
+| bip_39_word_no_space_1 | promote |  
+| bip_39_word_no_space_10 | promotecoinvaporcurvehelmetinquiryabsentproudfosteraunt |  
+| bip_39_word_no_space_11 | promotecoinvaporcurvehelmetinquiryabsentproudfosterauntrecord |  
+| bip_39_word_no_space_12 | promotecoinvaporcurvehelmetinquiryabsentproudfosterauntrecordaccess |  
+| bip_39_word_no_space_2 | promotecoin |  
+| bip_39_word_no_space_3 | promotecoinvapor |  
+| bip_39_word_no_space_4 | promotecoinvaporcurve |  
+| bip_39_word_no_space_5 | promotecoinvaporcurvehelmet |  
+| bip_39_word_no_space_6 | promotecoinvaporcurvehelmetinquiry |  
+| bip_39_word_no_space_7 | promotecoinvaporcurvehelmetinquiryabsent |  
+| bip_39_word_no_space_8 | promotecoinvaporcurvehelmetinquiryabsentproud |  
+| bip_39_word_no_space_9 | promotecoinvaporcurvehelmetinquiryabsentproudfoster |  
 | bip_39_word_space_0 | ['promote', 'coin', 'vapor', 'curve', 'helmet', 'inquiry', 'absent', 'proud', 'foster', 'aunt', 'record', 'access'] |  
 | bip_39_word_space_1 | promote |  
 | bip_39_word_space_10 | promote coin vapor curve helmet inquiry absent proud foster aunt |  

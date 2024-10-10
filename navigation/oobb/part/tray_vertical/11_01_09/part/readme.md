@@ -122,6 +122,18 @@ frog
 torch
 decide
 couple |  
+| bip_39_word_no_space_1 | fault |  
+| bip_39_word_no_space_10 | faultreturnhardbladegreenfrogtorchdecidecouplecall |  
+| bip_39_word_no_space_11 | faultreturnhardbladegreenfrogtorchdecidecouplecallnever |  
+| bip_39_word_no_space_12 | faultreturnhardbladegreenfrogtorchdecidecouplecallneveranother |  
+| bip_39_word_no_space_2 | faultreturn |  
+| bip_39_word_no_space_3 | faultreturnhard |  
+| bip_39_word_no_space_4 | faultreturnhardblade |  
+| bip_39_word_no_space_5 | faultreturnhardbladegreen |  
+| bip_39_word_no_space_6 | faultreturnhardbladegreenfrog |  
+| bip_39_word_no_space_7 | faultreturnhardbladegreenfrogtorch |  
+| bip_39_word_no_space_8 | faultreturnhardbladegreenfrogtorchdecide |  
+| bip_39_word_no_space_9 | faultreturnhardbladegreenfrogtorchdecidecouple |  
 | bip_39_word_space_0 | ['fault', 'return', 'hard', 'blade', 'green', 'frog', 'torch', 'decide', 'couple', 'call', 'never', 'another'] |  
 | bip_39_word_space_1 | fault |  
 | bip_39_word_space_10 | fault return hard blade green frog torch decide couple call |  

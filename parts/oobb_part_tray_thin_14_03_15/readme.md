@@ -122,6 +122,18 @@ brick
 custom
 pony
 mercy |  
+| bip_39_word_no_space_1 | frog |  
+| bip_39_word_no_space_10 | frogdefensebenefitthriveseedbrickcustomponymercybutter |  
+| bip_39_word_no_space_11 | frogdefensebenefitthriveseedbrickcustomponymercybutterwhip |  
+| bip_39_word_no_space_12 | frogdefensebenefitthriveseedbrickcustomponymercybutterwhipargue |  
+| bip_39_word_no_space_2 | frogdefense |  
+| bip_39_word_no_space_3 | frogdefensebenefit |  
+| bip_39_word_no_space_4 | frogdefensebenefitthrive |  
+| bip_39_word_no_space_5 | frogdefensebenefitthriveseed |  
+| bip_39_word_no_space_6 | frogdefensebenefitthriveseedbrick |  
+| bip_39_word_no_space_7 | frogdefensebenefitthriveseedbrickcustom |  
+| bip_39_word_no_space_8 | frogdefensebenefitthriveseedbrickcustompony |  
+| bip_39_word_no_space_9 | frogdefensebenefitthriveseedbrickcustomponymercy |  
 | bip_39_word_space_0 | ['frog', 'defense', 'benefit', 'thrive', 'seed', 'brick', 'custom', 'pony', 'mercy', 'butter', 'whip', 'argue'] |  
 | bip_39_word_space_1 | frog |  
 | bip_39_word_space_10 | frog defense benefit thrive seed brick custom pony mercy butter |  

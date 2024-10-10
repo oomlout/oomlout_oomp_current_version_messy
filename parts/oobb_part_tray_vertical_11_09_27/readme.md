@@ -122,6 +122,18 @@ sell
 same
 purse
 frame |  
+| bip_39_word_no_space_1 | basket |  
+| bip_39_word_no_space_10 | basketthingcraftmaximumjoysellsamepurseframehungry |  
+| bip_39_word_no_space_11 | basketthingcraftmaximumjoysellsamepurseframehungryrookie |  
+| bip_39_word_no_space_12 | basketthingcraftmaximumjoysellsamepurseframehungryrookieaffair |  
+| bip_39_word_no_space_2 | basketthing |  
+| bip_39_word_no_space_3 | basketthingcraft |  
+| bip_39_word_no_space_4 | basketthingcraftmaximum |  
+| bip_39_word_no_space_5 | basketthingcraftmaximumjoy |  
+| bip_39_word_no_space_6 | basketthingcraftmaximumjoysell |  
+| bip_39_word_no_space_7 | basketthingcraftmaximumjoysellsame |  
+| bip_39_word_no_space_8 | basketthingcraftmaximumjoysellsamepurse |  
+| bip_39_word_no_space_9 | basketthingcraftmaximumjoysellsamepurseframe |  
 | bip_39_word_space_0 | ['basket', 'thing', 'craft', 'maximum', 'joy', 'sell', 'same', 'purse', 'frame', 'hungry', 'rookie', 'affair'] |  
 | bip_39_word_space_1 | basket |  
 | bip_39_word_space_10 | basket thing craft maximum joy sell same purse frame hungry |  

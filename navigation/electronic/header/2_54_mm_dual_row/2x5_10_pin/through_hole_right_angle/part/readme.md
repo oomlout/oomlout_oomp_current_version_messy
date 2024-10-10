@@ -122,6 +122,18 @@ session
 problem
 mirror
 glow |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accesselbowfunnypanelvelvetsessionproblemmirrorglowclarify |  
+| bip_39_word_no_space_11 | accesselbowfunnypanelvelvetsessionproblemmirrorglowclarifyreport |  
+| bip_39_word_no_space_12 | accesselbowfunnypanelvelvetsessionproblemmirrorglowclarifyreportagain |  
+| bip_39_word_no_space_2 | accesselbow |  
+| bip_39_word_no_space_3 | accesselbowfunny |  
+| bip_39_word_no_space_4 | accesselbowfunnypanel |  
+| bip_39_word_no_space_5 | accesselbowfunnypanelvelvet |  
+| bip_39_word_no_space_6 | accesselbowfunnypanelvelvetsession |  
+| bip_39_word_no_space_7 | accesselbowfunnypanelvelvetsessionproblem |  
+| bip_39_word_no_space_8 | accesselbowfunnypanelvelvetsessionproblemmirror |  
+| bip_39_word_no_space_9 | accesselbowfunnypanelvelvetsessionproblemmirrorglow |  
 | bip_39_word_space_0 | ['access', 'elbow', 'funny', 'panel', 'velvet', 'session', 'problem', 'mirror', 'glow', 'clarify', 'report', 'again'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access elbow funny panel velvet session problem mirror glow clarify |  

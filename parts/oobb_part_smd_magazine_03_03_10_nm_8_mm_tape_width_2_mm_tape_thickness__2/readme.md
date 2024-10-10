@@ -122,6 +122,18 @@ turn
 coconut
 property
 antenna |  
+| bip_39_word_no_space_1 | unhappy |  
+| bip_39_word_no_space_10 | unhappyhealthcruisehealthorangeturncoconutpropertyantennacargo |  
+| bip_39_word_no_space_11 | unhappyhealthcruisehealthorangeturncoconutpropertyantennacargocommon |  
+| bip_39_word_no_space_12 | unhappyhealthcruisehealthorangeturncoconutpropertyantennacargocommonarrive |  
+| bip_39_word_no_space_2 | unhappyhealth |  
+| bip_39_word_no_space_3 | unhappyhealthcruise |  
+| bip_39_word_no_space_4 | unhappyhealthcruisehealth |  
+| bip_39_word_no_space_5 | unhappyhealthcruisehealthorange |  
+| bip_39_word_no_space_6 | unhappyhealthcruisehealthorangeturn |  
+| bip_39_word_no_space_7 | unhappyhealthcruisehealthorangeturncoconut |  
+| bip_39_word_no_space_8 | unhappyhealthcruisehealthorangeturncoconutproperty |  
+| bip_39_word_no_space_9 | unhappyhealthcruisehealthorangeturncoconutpropertyantenna |  
 | bip_39_word_space_0 | ['unhappy', 'health', 'cruise', 'health', 'orange', 'turn', 'coconut', 'property', 'antenna', 'cargo', 'common', 'arrive'] |  
 | bip_39_word_space_1 | unhappy |  
 | bip_39_word_space_10 | unhappy health cruise health orange turn coconut property antenna cargo |  

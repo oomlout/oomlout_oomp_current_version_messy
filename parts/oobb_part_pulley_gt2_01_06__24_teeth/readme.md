@@ -122,6 +122,18 @@ unit
 wagon
 nominee
 lounge |  
+| bip_39_word_no_space_1 | priority |  
+| bip_39_word_no_space_10 | priorityperfectboyspeakminimumunitwagonnomineeloungeexotic |  
+| bip_39_word_no_space_11 | priorityperfectboyspeakminimumunitwagonnomineeloungeexoticclay |  
+| bip_39_word_no_space_12 | priorityperfectboyspeakminimumunitwagonnomineeloungeexoticclayaction |  
+| bip_39_word_no_space_2 | priorityperfect |  
+| bip_39_word_no_space_3 | priorityperfectboy |  
+| bip_39_word_no_space_4 | priorityperfectboyspeak |  
+| bip_39_word_no_space_5 | priorityperfectboyspeakminimum |  
+| bip_39_word_no_space_6 | priorityperfectboyspeakminimumunit |  
+| bip_39_word_no_space_7 | priorityperfectboyspeakminimumunitwagon |  
+| bip_39_word_no_space_8 | priorityperfectboyspeakminimumunitwagonnominee |  
+| bip_39_word_no_space_9 | priorityperfectboyspeakminimumunitwagonnomineelounge |  
 | bip_39_word_space_0 | ['priority', 'perfect', 'boy', 'speak', 'minimum', 'unit', 'wagon', 'nominee', 'lounge', 'exotic', 'clay', 'action'] |  
 | bip_39_word_space_1 | priority |  
 | bip_39_word_space_10 | priority perfect boy speak minimum unit wagon nominee lounge exotic |  

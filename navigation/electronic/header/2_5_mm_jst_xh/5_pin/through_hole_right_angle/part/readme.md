@@ -122,6 +122,18 @@ stereo
 script
 hover
 shell |  
+| bip_39_word_no_space_1 | skin |  
+| bip_39_word_no_space_10 | skincasuallengthremovemathstereoscripthovershellexplain |  
+| bip_39_word_no_space_11 | skincasuallengthremovemathstereoscripthovershellexplainaverage |  
+| bip_39_word_no_space_12 | skincasuallengthremovemathstereoscripthovershellexplainaveragearrange |  
+| bip_39_word_no_space_2 | skincasual |  
+| bip_39_word_no_space_3 | skincasuallength |  
+| bip_39_word_no_space_4 | skincasuallengthremove |  
+| bip_39_word_no_space_5 | skincasuallengthremovemath |  
+| bip_39_word_no_space_6 | skincasuallengthremovemathstereo |  
+| bip_39_word_no_space_7 | skincasuallengthremovemathstereoscript |  
+| bip_39_word_no_space_8 | skincasuallengthremovemathstereoscripthover |  
+| bip_39_word_no_space_9 | skincasuallengthremovemathstereoscripthovershell |  
 | bip_39_word_space_0 | ['skin', 'casual', 'length', 'remove', 'math', 'stereo', 'script', 'hover', 'shell', 'explain', 'average', 'arrange'] |  
 | bip_39_word_space_1 | skin |  
 | bip_39_word_space_10 | skin casual length remove math stereo script hover shell explain |  

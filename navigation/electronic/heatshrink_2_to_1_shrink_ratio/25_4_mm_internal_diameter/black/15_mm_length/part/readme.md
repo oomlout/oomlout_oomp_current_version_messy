@@ -122,6 +122,18 @@ series
 oxygen
 country
 lake |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matcheaglebutterriskcityseriesoxygencountrylakeglass |  
+| bip_39_word_no_space_11 | matcheaglebutterriskcityseriesoxygencountrylakeglasssetup |  
+| bip_39_word_no_space_12 | matcheaglebutterriskcityseriesoxygencountrylakeglasssetupadvice |  
+| bip_39_word_no_space_2 | matcheagle |  
+| bip_39_word_no_space_3 | matcheaglebutter |  
+| bip_39_word_no_space_4 | matcheaglebutterrisk |  
+| bip_39_word_no_space_5 | matcheaglebutterriskcity |  
+| bip_39_word_no_space_6 | matcheaglebutterriskcityseries |  
+| bip_39_word_no_space_7 | matcheaglebutterriskcityseriesoxygen |  
+| bip_39_word_no_space_8 | matcheaglebutterriskcityseriesoxygencountry |  
+| bip_39_word_no_space_9 | matcheaglebutterriskcityseriesoxygencountrylake |  
 | bip_39_word_space_0 | ['match', 'eagle', 'butter', 'risk', 'city', 'series', 'oxygen', 'country', 'lake', 'glass', 'setup', 'advice'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match eagle butter risk city series oxygen country lake glass |  

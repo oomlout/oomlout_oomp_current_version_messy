@@ -122,6 +122,18 @@ caution
 immense
 thrive
 vast |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturestairsenableeducaterescuecautionimmensethrivevaststadium |  
+| bip_39_word_no_space_11 | naturestairsenableeducaterescuecautionimmensethrivevaststadiumforce |  
+| bip_39_word_no_space_12 | naturestairsenableeducaterescuecautionimmensethrivevaststadiumforceactress |  
+| bip_39_word_no_space_2 | naturestairs |  
+| bip_39_word_no_space_3 | naturestairsenable |  
+| bip_39_word_no_space_4 | naturestairsenableeducate |  
+| bip_39_word_no_space_5 | naturestairsenableeducaterescue |  
+| bip_39_word_no_space_6 | naturestairsenableeducaterescuecaution |  
+| bip_39_word_no_space_7 | naturestairsenableeducaterescuecautionimmense |  
+| bip_39_word_no_space_8 | naturestairsenableeducaterescuecautionimmensethrive |  
+| bip_39_word_no_space_9 | naturestairsenableeducaterescuecautionimmensethrivevast |  
 | bip_39_word_space_0 | ['nature', 'stairs', 'enable', 'educate', 'rescue', 'caution', 'immense', 'thrive', 'vast', 'stadium', 'force', 'actress'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature stairs enable educate rescue caution immense thrive vast stadium |  

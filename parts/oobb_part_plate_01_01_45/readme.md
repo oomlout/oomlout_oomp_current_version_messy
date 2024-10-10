@@ -122,6 +122,18 @@ keen
 brother
 among
 dress |  
+| bip_39_word_no_space_1 | someone |  
+| bip_39_word_no_space_10 | someonejourneydustlendthrowkeenbrotheramongdressscene |  
+| bip_39_word_no_space_11 | someonejourneydustlendthrowkeenbrotheramongdressscenewalk |  
+| bip_39_word_no_space_12 | someonejourneydustlendthrowkeenbrotheramongdressscenewalkachieve |  
+| bip_39_word_no_space_2 | someonejourney |  
+| bip_39_word_no_space_3 | someonejourneydust |  
+| bip_39_word_no_space_4 | someonejourneydustlend |  
+| bip_39_word_no_space_5 | someonejourneydustlendthrow |  
+| bip_39_word_no_space_6 | someonejourneydustlendthrowkeen |  
+| bip_39_word_no_space_7 | someonejourneydustlendthrowkeenbrother |  
+| bip_39_word_no_space_8 | someonejourneydustlendthrowkeenbrotheramong |  
+| bip_39_word_no_space_9 | someonejourneydustlendthrowkeenbrotheramongdress |  
 | bip_39_word_space_0 | ['someone', 'journey', 'dust', 'lend', 'throw', 'keen', 'brother', 'among', 'dress', 'scene', 'walk', 'achieve'] |  
 | bip_39_word_space_1 | someone |  
 | bip_39_word_space_10 | someone journey dust lend throw keen brother among dress scene |  

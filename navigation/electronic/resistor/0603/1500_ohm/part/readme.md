@@ -122,6 +122,18 @@ uncover
 remain
 guide
 patch |  
+| bip_39_word_no_space_1 | glass |  
+| bip_39_word_no_space_10 | glassfeaturecrispmarketaisleuncoverremainguidepatchcable |  
+| bip_39_word_no_space_11 | glassfeaturecrispmarketaisleuncoverremainguidepatchcablereal |  
+| bip_39_word_no_space_12 | glassfeaturecrispmarketaisleuncoverremainguidepatchcablerealactual |  
+| bip_39_word_no_space_2 | glassfeature |  
+| bip_39_word_no_space_3 | glassfeaturecrisp |  
+| bip_39_word_no_space_4 | glassfeaturecrispmarket |  
+| bip_39_word_no_space_5 | glassfeaturecrispmarketaisle |  
+| bip_39_word_no_space_6 | glassfeaturecrispmarketaisleuncover |  
+| bip_39_word_no_space_7 | glassfeaturecrispmarketaisleuncoverremain |  
+| bip_39_word_no_space_8 | glassfeaturecrispmarketaisleuncoverremainguide |  
+| bip_39_word_no_space_9 | glassfeaturecrispmarketaisleuncoverremainguidepatch |  
 | bip_39_word_space_0 | ['glass', 'feature', 'crisp', 'market', 'aisle', 'uncover', 'remain', 'guide', 'patch', 'cable', 'real', 'actual'] |  
 | bip_39_word_space_1 | glass |  
 | bip_39_word_space_10 | glass feature crisp market aisle uncover remain guide patch cable |  

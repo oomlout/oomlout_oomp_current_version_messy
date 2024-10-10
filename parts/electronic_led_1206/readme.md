@@ -122,6 +122,18 @@ cactus
 pledge
 prevent
 tonight |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintdetailsilverpostvisitcactuspledgepreventtonightendorse |  
+| bip_39_word_no_space_11 | faintdetailsilverpostvisitcactuspledgepreventtonightendorsearea |  
+| bip_39_word_no_space_12 | faintdetailsilverpostvisitcactuspledgepreventtonightendorseareaalert |  
+| bip_39_word_no_space_2 | faintdetail |  
+| bip_39_word_no_space_3 | faintdetailsilver |  
+| bip_39_word_no_space_4 | faintdetailsilverpost |  
+| bip_39_word_no_space_5 | faintdetailsilverpostvisit |  
+| bip_39_word_no_space_6 | faintdetailsilverpostvisitcactus |  
+| bip_39_word_no_space_7 | faintdetailsilverpostvisitcactuspledge |  
+| bip_39_word_no_space_8 | faintdetailsilverpostvisitcactuspledgeprevent |  
+| bip_39_word_no_space_9 | faintdetailsilverpostvisitcactuspledgepreventtonight |  
 | bip_39_word_space_0 | ['faint', 'detail', 'silver', 'post', 'visit', 'cactus', 'pledge', 'prevent', 'tonight', 'endorse', 'area', 'alert'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint detail silver post visit cactus pledge prevent tonight endorse |  

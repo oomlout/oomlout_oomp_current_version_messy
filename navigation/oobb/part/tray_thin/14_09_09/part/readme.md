@@ -122,6 +122,18 @@ release
 science
 abstract
 enforce |  
+| bip_39_word_no_space_1 | merge |  
+| bip_39_word_no_space_10 | mergeresponseshallowcampinquiryreleasescienceabstractenforcekid |  
+| bip_39_word_no_space_11 | mergeresponseshallowcampinquiryreleasescienceabstractenforcekidsoldier |  
+| bip_39_word_no_space_12 | mergeresponseshallowcampinquiryreleasescienceabstractenforcekidsoldieraerobic |  
+| bip_39_word_no_space_2 | mergeresponse |  
+| bip_39_word_no_space_3 | mergeresponseshallow |  
+| bip_39_word_no_space_4 | mergeresponseshallowcamp |  
+| bip_39_word_no_space_5 | mergeresponseshallowcampinquiry |  
+| bip_39_word_no_space_6 | mergeresponseshallowcampinquiryrelease |  
+| bip_39_word_no_space_7 | mergeresponseshallowcampinquiryreleasescience |  
+| bip_39_word_no_space_8 | mergeresponseshallowcampinquiryreleasescienceabstract |  
+| bip_39_word_no_space_9 | mergeresponseshallowcampinquiryreleasescienceabstractenforce |  
 | bip_39_word_space_0 | ['merge', 'response', 'shallow', 'camp', 'inquiry', 'release', 'science', 'abstract', 'enforce', 'kid', 'soldier', 'aerobic'] |  
 | bip_39_word_space_1 | merge |  
 | bip_39_word_space_10 | merge response shallow camp inquiry release science abstract enforce kid |  

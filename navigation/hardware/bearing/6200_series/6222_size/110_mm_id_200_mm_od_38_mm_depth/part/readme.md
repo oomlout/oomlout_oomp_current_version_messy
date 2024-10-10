@@ -122,6 +122,18 @@ scrub
 sand
 strike
 acid |  
+| bip_39_word_no_space_1 | early |  
+| bip_39_word_no_space_10 | earlyrealgreattraveleastscrubsandstrikeacidoxygen |  
+| bip_39_word_no_space_11 | earlyrealgreattraveleastscrubsandstrikeacidoxygendrill |  
+| bip_39_word_no_space_12 | earlyrealgreattraveleastscrubsandstrikeacidoxygendrilladmit |  
+| bip_39_word_no_space_2 | earlyreal |  
+| bip_39_word_no_space_3 | earlyrealgreat |  
+| bip_39_word_no_space_4 | earlyrealgreattravel |  
+| bip_39_word_no_space_5 | earlyrealgreattraveleast |  
+| bip_39_word_no_space_6 | earlyrealgreattraveleastscrub |  
+| bip_39_word_no_space_7 | earlyrealgreattraveleastscrubsand |  
+| bip_39_word_no_space_8 | earlyrealgreattraveleastscrubsandstrike |  
+| bip_39_word_no_space_9 | earlyrealgreattraveleastscrubsandstrikeacid |  
 | bip_39_word_space_0 | ['early', 'real', 'great', 'travel', 'east', 'scrub', 'sand', 'strike', 'acid', 'oxygen', 'drill', 'admit'] |  
 | bip_39_word_space_1 | early |  
 | bip_39_word_space_10 | early real great travel east scrub sand strike acid oxygen |  

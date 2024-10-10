@@ -122,6 +122,18 @@ latin
 picnic
 truck
 sea |  
+| bip_39_word_no_space_1 | cross |  
+| bip_39_word_no_space_10 | crossbirdslabspikenestlatinpicnictruckseafocus |  
+| bip_39_word_no_space_11 | crossbirdslabspikenestlatinpicnictruckseafocuserupt |  
+| bip_39_word_no_space_12 | crossbirdslabspikenestlatinpicnictruckseafocuseruptannounce |  
+| bip_39_word_no_space_2 | crossbird |  
+| bip_39_word_no_space_3 | crossbirdslab |  
+| bip_39_word_no_space_4 | crossbirdslabspike |  
+| bip_39_word_no_space_5 | crossbirdslabspikenest |  
+| bip_39_word_no_space_6 | crossbirdslabspikenestlatin |  
+| bip_39_word_no_space_7 | crossbirdslabspikenestlatinpicnic |  
+| bip_39_word_no_space_8 | crossbirdslabspikenestlatinpicnictruck |  
+| bip_39_word_no_space_9 | crossbirdslabspikenestlatinpicnictrucksea |  
 | bip_39_word_space_0 | ['cross', 'bird', 'slab', 'spike', 'nest', 'latin', 'picnic', 'truck', 'sea', 'focus', 'erupt', 'announce'] |  
 | bip_39_word_space_1 | cross |  
 | bip_39_word_space_10 | cross bird slab spike nest latin picnic truck sea focus |  

@@ -122,6 +122,18 @@ canal
 citizen
 wagon
 spend |  
+| bip_39_word_no_space_1 | cotton |  
+| bip_39_word_no_space_10 | cottonphysicaltigerevokeshadowcanalcitizenwagonspendmandate |  
+| bip_39_word_no_space_11 | cottonphysicaltigerevokeshadowcanalcitizenwagonspendmandateoutdoor |  
+| bip_39_word_no_space_12 | cottonphysicaltigerevokeshadowcanalcitizenwagonspendmandateoutdooraround |  
+| bip_39_word_no_space_2 | cottonphysical |  
+| bip_39_word_no_space_3 | cottonphysicaltiger |  
+| bip_39_word_no_space_4 | cottonphysicaltigerevoke |  
+| bip_39_word_no_space_5 | cottonphysicaltigerevokeshadow |  
+| bip_39_word_no_space_6 | cottonphysicaltigerevokeshadowcanal |  
+| bip_39_word_no_space_7 | cottonphysicaltigerevokeshadowcanalcitizen |  
+| bip_39_word_no_space_8 | cottonphysicaltigerevokeshadowcanalcitizenwagon |  
+| bip_39_word_no_space_9 | cottonphysicaltigerevokeshadowcanalcitizenwagonspend |  
 | bip_39_word_space_0 | ['cotton', 'physical', 'tiger', 'evoke', 'shadow', 'canal', 'citizen', 'wagon', 'spend', 'mandate', 'outdoor', 'around'] |  
 | bip_39_word_space_1 | cotton |  
 | bip_39_word_space_10 | cotton physical tiger evoke shadow canal citizen wagon spend mandate |  

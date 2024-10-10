@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'retire
   broccoli
 
   calm'
+bip_39_word_no_space_1: retire
+bip_39_word_no_space_10: retirepoemsaveinvestusualvalidkitbroccolicalmchapter
+bip_39_word_no_space_11: retirepoemsaveinvestusualvalidkitbroccolicalmchapteremerge
+bip_39_word_no_space_12: retirepoemsaveinvestusualvalidkitbroccolicalmchapteremergeaccess
+bip_39_word_no_space_2: retirepoem
+bip_39_word_no_space_3: retirepoemsave
+bip_39_word_no_space_4: retirepoemsaveinvest
+bip_39_word_no_space_5: retirepoemsaveinvestusual
+bip_39_word_no_space_6: retirepoemsaveinvestusualvalid
+bip_39_word_no_space_7: retirepoemsaveinvestusualvalidkit
+bip_39_word_no_space_8: retirepoemsaveinvestusualvalidkitbroccoli
+bip_39_word_no_space_9: retirepoemsaveinvestusualvalidkitbroccolicalm
 bip_39_word_space_0:
 - retire
 - poem

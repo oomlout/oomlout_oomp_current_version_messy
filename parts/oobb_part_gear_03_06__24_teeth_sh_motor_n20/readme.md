@@ -122,6 +122,18 @@ ship
 forum
 scheme
 february |  
+| bip_39_word_no_space_1 | cabin |  
+| bip_39_word_no_space_10 | cabinlongviciousrewardmixedshipforumschemefebruarysalmon |  
+| bip_39_word_no_space_11 | cabinlongviciousrewardmixedshipforumschemefebruarysalmonvote |  
+| bip_39_word_no_space_12 | cabinlongviciousrewardmixedshipforumschemefebruarysalmonvoteapart |  
+| bip_39_word_no_space_2 | cabinlong |  
+| bip_39_word_no_space_3 | cabinlongvicious |  
+| bip_39_word_no_space_4 | cabinlongviciousreward |  
+| bip_39_word_no_space_5 | cabinlongviciousrewardmixed |  
+| bip_39_word_no_space_6 | cabinlongviciousrewardmixedship |  
+| bip_39_word_no_space_7 | cabinlongviciousrewardmixedshipforum |  
+| bip_39_word_no_space_8 | cabinlongviciousrewardmixedshipforumscheme |  
+| bip_39_word_no_space_9 | cabinlongviciousrewardmixedshipforumschemefebruary |  
 | bip_39_word_space_0 | ['cabin', 'long', 'vicious', 'reward', 'mixed', 'ship', 'forum', 'scheme', 'february', 'salmon', 'vote', 'apart'] |  
 | bip_39_word_space_1 | cabin |  
 | bip_39_word_space_10 | cabin long vicious reward mixed ship forum scheme february salmon |  

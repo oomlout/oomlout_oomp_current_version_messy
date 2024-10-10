@@ -122,6 +122,18 @@ annual
 stable
 auto
 giant |  
+| bip_39_word_no_space_1 | skirt |  
+| bip_39_word_no_space_10 | skirtmodifygenreinitialsetupannualstableautogiantguitar |  
+| bip_39_word_no_space_11 | skirtmodifygenreinitialsetupannualstableautogiantguitarmouse |  
+| bip_39_word_no_space_12 | skirtmodifygenreinitialsetupannualstableautogiantguitarmouseamong |  
+| bip_39_word_no_space_2 | skirtmodify |  
+| bip_39_word_no_space_3 | skirtmodifygenre |  
+| bip_39_word_no_space_4 | skirtmodifygenreinitial |  
+| bip_39_word_no_space_5 | skirtmodifygenreinitialsetup |  
+| bip_39_word_no_space_6 | skirtmodifygenreinitialsetupannual |  
+| bip_39_word_no_space_7 | skirtmodifygenreinitialsetupannualstable |  
+| bip_39_word_no_space_8 | skirtmodifygenreinitialsetupannualstableauto |  
+| bip_39_word_no_space_9 | skirtmodifygenreinitialsetupannualstableautogiant |  
 | bip_39_word_space_0 | ['skirt', 'modify', 'genre', 'initial', 'setup', 'annual', 'stable', 'auto', 'giant', 'guitar', 'mouse', 'among'] |  
 | bip_39_word_space_1 | skirt |  
 | bip_39_word_space_10 | skirt modify genre initial setup annual stable auto giant guitar |  

@@ -122,6 +122,18 @@ warfare
 faith
 burden
 silly |  
+| bip_39_word_no_space_1 | glare |  
+| bip_39_word_no_space_10 | glareadvicepoliceresourceotherwarfarefaithburdensillydynamic |  
+| bip_39_word_no_space_11 | glareadvicepoliceresourceotherwarfarefaithburdensillydynamicpresent |  
+| bip_39_word_no_space_12 | glareadvicepoliceresourceotherwarfarefaithburdensillydynamicpresentaisle |  
+| bip_39_word_no_space_2 | glareadvice |  
+| bip_39_word_no_space_3 | glareadvicepolice |  
+| bip_39_word_no_space_4 | glareadvicepoliceresource |  
+| bip_39_word_no_space_5 | glareadvicepoliceresourceother |  
+| bip_39_word_no_space_6 | glareadvicepoliceresourceotherwarfare |  
+| bip_39_word_no_space_7 | glareadvicepoliceresourceotherwarfarefaith |  
+| bip_39_word_no_space_8 | glareadvicepoliceresourceotherwarfarefaithburden |  
+| bip_39_word_no_space_9 | glareadvicepoliceresourceotherwarfarefaithburdensilly |  
 | bip_39_word_space_0 | ['glare', 'advice', 'police', 'resource', 'other', 'warfare', 'faith', 'burden', 'silly', 'dynamic', 'present', 'aisle'] |  
 | bip_39_word_space_1 | glare |  
 | bip_39_word_space_10 | glare advice police resource other warfare faith burden silly dynamic |  

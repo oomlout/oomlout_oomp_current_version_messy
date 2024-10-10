@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ready
   remain
 
   grace'
+bip_39_word_no_space_1: ready
+bip_39_word_no_space_10: readyoftenglorycleanlaborpianothenremaingracedance
+bip_39_word_no_space_11: readyoftenglorycleanlaborpianothenremaingracedanceclean
+bip_39_word_no_space_12: readyoftenglorycleanlaborpianothenremaingracedancecleanapprove
+bip_39_word_no_space_2: readyoften
+bip_39_word_no_space_3: readyoftenglory
+bip_39_word_no_space_4: readyoftengloryclean
+bip_39_word_no_space_5: readyoftenglorycleanlabor
+bip_39_word_no_space_6: readyoftenglorycleanlaborpiano
+bip_39_word_no_space_7: readyoftenglorycleanlaborpianothen
+bip_39_word_no_space_8: readyoftenglorycleanlaborpianothenremain
+bip_39_word_no_space_9: readyoftenglorycleanlaborpianothenremaingrace
 bip_39_word_space_0:
 - ready
 - often

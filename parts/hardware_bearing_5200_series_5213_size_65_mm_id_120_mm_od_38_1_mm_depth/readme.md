@@ -122,6 +122,18 @@ tired
 amount
 father
 that |  
+| bip_39_word_no_space_1 | march |  
+| bip_39_word_no_space_10 | marchsufferfoamjacketbuildtiredamountfatherthatequip |  
+| bip_39_word_no_space_11 | marchsufferfoamjacketbuildtiredamountfatherthatequipclog |  
+| bip_39_word_no_space_12 | marchsufferfoamjacketbuildtiredamountfatherthatequipclogahead |  
+| bip_39_word_no_space_2 | marchsuffer |  
+| bip_39_word_no_space_3 | marchsufferfoam |  
+| bip_39_word_no_space_4 | marchsufferfoamjacket |  
+| bip_39_word_no_space_5 | marchsufferfoamjacketbuild |  
+| bip_39_word_no_space_6 | marchsufferfoamjacketbuildtired |  
+| bip_39_word_no_space_7 | marchsufferfoamjacketbuildtiredamount |  
+| bip_39_word_no_space_8 | marchsufferfoamjacketbuildtiredamountfather |  
+| bip_39_word_no_space_9 | marchsufferfoamjacketbuildtiredamountfatherthat |  
 | bip_39_word_space_0 | ['march', 'suffer', 'foam', 'jacket', 'build', 'tired', 'amount', 'father', 'that', 'equip', 'clog', 'ahead'] |  
 | bip_39_word_space_1 | march |  
 | bip_39_word_space_10 | march suffer foam jacket build tired amount father that equip |  

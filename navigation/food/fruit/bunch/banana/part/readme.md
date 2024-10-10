@@ -122,6 +122,18 @@ soft
 intact
 present
 setup |  
+| bip_39_word_no_space_1 | paddle |  
+| bip_39_word_no_space_10 | paddletornadocontrolloudadaptsoftintactpresentsetuptoken |  
+| bip_39_word_no_space_11 | paddletornadocontrolloudadaptsoftintactpresentsetuptokenlength |  
+| bip_39_word_no_space_12 | paddletornadocontrolloudadaptsoftintactpresentsetuptokenlengthable |  
+| bip_39_word_no_space_2 | paddletornado |  
+| bip_39_word_no_space_3 | paddletornadocontrol |  
+| bip_39_word_no_space_4 | paddletornadocontrolloud |  
+| bip_39_word_no_space_5 | paddletornadocontrolloudadapt |  
+| bip_39_word_no_space_6 | paddletornadocontrolloudadaptsoft |  
+| bip_39_word_no_space_7 | paddletornadocontrolloudadaptsoftintact |  
+| bip_39_word_no_space_8 | paddletornadocontrolloudadaptsoftintactpresent |  
+| bip_39_word_no_space_9 | paddletornadocontrolloudadaptsoftintactpresentsetup |  
 | bip_39_word_space_0 | ['paddle', 'tornado', 'control', 'loud', 'adapt', 'soft', 'intact', 'present', 'setup', 'token', 'length', 'able'] |  
 | bip_39_word_space_1 | paddle |  
 | bip_39_word_space_10 | paddle tornado control loud adapt soft intact present setup token |  

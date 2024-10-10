@@ -122,6 +122,18 @@ bronze
 hour
 object
 salute |  
+| bip_39_word_no_space_1 | name |  
+| bip_39_word_no_space_10 | namepursecouchcrazybladebronzehourobjectsalutepatient |  
+| bip_39_word_no_space_11 | namepursecouchcrazybladebronzehourobjectsalutepatientannual |  
+| bip_39_word_no_space_12 | namepursecouchcrazybladebronzehourobjectsalutepatientannualany |  
+| bip_39_word_no_space_2 | namepurse |  
+| bip_39_word_no_space_3 | namepursecouch |  
+| bip_39_word_no_space_4 | namepursecouchcrazy |  
+| bip_39_word_no_space_5 | namepursecouchcrazyblade |  
+| bip_39_word_no_space_6 | namepursecouchcrazybladebronze |  
+| bip_39_word_no_space_7 | namepursecouchcrazybladebronzehour |  
+| bip_39_word_no_space_8 | namepursecouchcrazybladebronzehourobject |  
+| bip_39_word_no_space_9 | namepursecouchcrazybladebronzehourobjectsalute |  
 | bip_39_word_space_0 | ['name', 'purse', 'couch', 'crazy', 'blade', 'bronze', 'hour', 'object', 'salute', 'patient', 'annual', 'any'] |  
 | bip_39_word_space_1 | name |  
 | bip_39_word_space_10 | name purse couch crazy blade bronze hour object salute patient |  

@@ -122,6 +122,18 @@ problem
 arch
 gravity
 inform |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinicaerobicquickarenabicycleproblemarchgravityinformstage |  
+| bip_39_word_no_space_11 | clinicaerobicquickarenabicycleproblemarchgravityinformstageinstall |  
+| bip_39_word_no_space_12 | clinicaerobicquickarenabicycleproblemarchgravityinformstageinstallarm |  
+| bip_39_word_no_space_2 | clinicaerobic |  
+| bip_39_word_no_space_3 | clinicaerobicquick |  
+| bip_39_word_no_space_4 | clinicaerobicquickarena |  
+| bip_39_word_no_space_5 | clinicaerobicquickarenabicycle |  
+| bip_39_word_no_space_6 | clinicaerobicquickarenabicycleproblem |  
+| bip_39_word_no_space_7 | clinicaerobicquickarenabicycleproblemarch |  
+| bip_39_word_no_space_8 | clinicaerobicquickarenabicycleproblemarchgravity |  
+| bip_39_word_no_space_9 | clinicaerobicquickarenabicycleproblemarchgravityinform |  
 | bip_39_word_space_0 | ['clinic', 'aerobic', 'quick', 'arena', 'bicycle', 'problem', 'arch', 'gravity', 'inform', 'stage', 'install', 'arm'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic aerobic quick arena bicycle problem arch gravity inform stage |  

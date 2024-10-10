@@ -122,6 +122,18 @@ narrow
 plate
 gasp
 private |  
+| bip_39_word_no_space_1 | siren |  
+| bip_39_word_no_space_10 | sirenshopsirenquitmainnarrowplategaspprivateoven |  
+| bip_39_word_no_space_11 | sirenshopsirenquitmainnarrowplategaspprivateovenenjoy |  
+| bip_39_word_no_space_12 | sirenshopsirenquitmainnarrowplategaspprivateovenenjoyabsent |  
+| bip_39_word_no_space_2 | sirenshop |  
+| bip_39_word_no_space_3 | sirenshopsiren |  
+| bip_39_word_no_space_4 | sirenshopsirenquit |  
+| bip_39_word_no_space_5 | sirenshopsirenquitmain |  
+| bip_39_word_no_space_6 | sirenshopsirenquitmainnarrow |  
+| bip_39_word_no_space_7 | sirenshopsirenquitmainnarrowplate |  
+| bip_39_word_no_space_8 | sirenshopsirenquitmainnarrowplategasp |  
+| bip_39_word_no_space_9 | sirenshopsirenquitmainnarrowplategaspprivate |  
 | bip_39_word_space_0 | ['siren', 'shop', 'siren', 'quit', 'main', 'narrow', 'plate', 'gasp', 'private', 'oven', 'enjoy', 'absent'] |  
 | bip_39_word_space_1 | siren |  
 | bip_39_word_space_10 | siren shop siren quit main narrow plate gasp private oven |  

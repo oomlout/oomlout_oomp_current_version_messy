@@ -122,6 +122,18 @@ gravity
 property
 session
 ugly |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | usedsoapketchupraretotalgravitypropertysessionuglyhollow |  
+| bip_39_word_no_space_11 | usedsoapketchupraretotalgravitypropertysessionuglyhollowbirth |  
+| bip_39_word_no_space_12 | usedsoapketchupraretotalgravitypropertysessionuglyhollowbirthactor |  
+| bip_39_word_no_space_2 | usedsoap |  
+| bip_39_word_no_space_3 | usedsoapketchup |  
+| bip_39_word_no_space_4 | usedsoapketchuprare |  
+| bip_39_word_no_space_5 | usedsoapketchupraretotal |  
+| bip_39_word_no_space_6 | usedsoapketchupraretotalgravity |  
+| bip_39_word_no_space_7 | usedsoapketchupraretotalgravityproperty |  
+| bip_39_word_no_space_8 | usedsoapketchupraretotalgravitypropertysession |  
+| bip_39_word_no_space_9 | usedsoapketchupraretotalgravitypropertysessionugly |  
 | bip_39_word_space_0 | ['used', 'soap', 'ketchup', 'rare', 'total', 'gravity', 'property', 'session', 'ugly', 'hollow', 'birth', 'actor'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used soap ketchup rare total gravity property session ugly hollow |  

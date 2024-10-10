@@ -122,6 +122,18 @@ muscle
 cash
 glove
 make |  
+| bip_39_word_no_space_1 | salt |  
+| bip_39_word_no_space_10 | saltgameyardelevatorsurgemusclecashglovemakeloop |  
+| bip_39_word_no_space_11 | saltgameyardelevatorsurgemusclecashglovemakeloopclog |  
+| bip_39_word_no_space_12 | saltgameyardelevatorsurgemusclecashglovemakeloopclogalien |  
+| bip_39_word_no_space_2 | saltgame |  
+| bip_39_word_no_space_3 | saltgameyard |  
+| bip_39_word_no_space_4 | saltgameyardelevator |  
+| bip_39_word_no_space_5 | saltgameyardelevatorsurge |  
+| bip_39_word_no_space_6 | saltgameyardelevatorsurgemuscle |  
+| bip_39_word_no_space_7 | saltgameyardelevatorsurgemusclecash |  
+| bip_39_word_no_space_8 | saltgameyardelevatorsurgemusclecashglove |  
+| bip_39_word_no_space_9 | saltgameyardelevatorsurgemusclecashglovemake |  
 | bip_39_word_space_0 | ['salt', 'game', 'yard', 'elevator', 'surge', 'muscle', 'cash', 'glove', 'make', 'loop', 'clog', 'alien'] |  
 | bip_39_word_space_1 | salt |  
 | bip_39_word_space_10 | salt game yard elevator surge muscle cash glove make loop |  

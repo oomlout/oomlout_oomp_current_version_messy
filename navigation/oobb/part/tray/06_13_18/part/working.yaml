@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'expire
   jazz
 
   jeans'
+bip_39_word_no_space_1: expire
+bip_39_word_no_space_10: expiresweardetailonlyuniquedreamscrubjazzjeanscage
+bip_39_word_no_space_11: expiresweardetailonlyuniquedreamscrubjazzjeanscagefamous
+bip_39_word_no_space_12: expiresweardetailonlyuniquedreamscrubjazzjeanscagefamousaddict
+bip_39_word_no_space_2: expireswear
+bip_39_word_no_space_3: expiresweardetail
+bip_39_word_no_space_4: expiresweardetailonly
+bip_39_word_no_space_5: expiresweardetailonlyunique
+bip_39_word_no_space_6: expiresweardetailonlyuniquedream
+bip_39_word_no_space_7: expiresweardetailonlyuniquedreamscrub
+bip_39_word_no_space_8: expiresweardetailonlyuniquedreamscrubjazz
+bip_39_word_no_space_9: expiresweardetailonlyuniquedreamscrubjazzjeans
 bip_39_word_space_0:
 - expire
 - swear

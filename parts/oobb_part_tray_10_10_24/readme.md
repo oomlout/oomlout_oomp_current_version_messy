@@ -122,6 +122,18 @@ zebra
 hunt
 rifle
 proof |  
+| bip_39_word_no_space_1 | second |  
+| bip_39_word_no_space_10 | secondbeforepricenomineeevokezebrahuntrifleproofexclude |  
+| bip_39_word_no_space_11 | secondbeforepricenomineeevokezebrahuntrifleproofexcludebenefit |  
+| bip_39_word_no_space_12 | secondbeforepricenomineeevokezebrahuntrifleproofexcludebenefitagent |  
+| bip_39_word_no_space_2 | secondbefore |  
+| bip_39_word_no_space_3 | secondbeforeprice |  
+| bip_39_word_no_space_4 | secondbeforepricenominee |  
+| bip_39_word_no_space_5 | secondbeforepricenomineeevoke |  
+| bip_39_word_no_space_6 | secondbeforepricenomineeevokezebra |  
+| bip_39_word_no_space_7 | secondbeforepricenomineeevokezebrahunt |  
+| bip_39_word_no_space_8 | secondbeforepricenomineeevokezebrahuntrifle |  
+| bip_39_word_no_space_9 | secondbeforepricenomineeevokezebrahuntrifleproof |  
 | bip_39_word_space_0 | ['second', 'before', 'price', 'nominee', 'evoke', 'zebra', 'hunt', 'rifle', 'proof', 'exclude', 'benefit', 'agent'] |  
 | bip_39_word_space_1 | second |  
 | bip_39_word_space_10 | second before price nominee evoke zebra hunt rifle proof exclude |  

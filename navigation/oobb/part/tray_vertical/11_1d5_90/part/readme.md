@@ -122,6 +122,18 @@ swallow
 second
 yellow
 property |  
+| bip_39_word_no_space_1 | that |  
+| bip_39_word_no_space_10 | thatliveoceanbouncesunsetswallowsecondyellowpropertysaddle |  
+| bip_39_word_no_space_11 | thatliveoceanbouncesunsetswallowsecondyellowpropertysaddlediesel |  
+| bip_39_word_no_space_12 | thatliveoceanbouncesunsetswallowsecondyellowpropertysaddledieselalley |  
+| bip_39_word_no_space_2 | thatlive |  
+| bip_39_word_no_space_3 | thatliveocean |  
+| bip_39_word_no_space_4 | thatliveoceanbounce |  
+| bip_39_word_no_space_5 | thatliveoceanbouncesunset |  
+| bip_39_word_no_space_6 | thatliveoceanbouncesunsetswallow |  
+| bip_39_word_no_space_7 | thatliveoceanbouncesunsetswallowsecond |  
+| bip_39_word_no_space_8 | thatliveoceanbouncesunsetswallowsecondyellow |  
+| bip_39_word_no_space_9 | thatliveoceanbouncesunsetswallowsecondyellowproperty |  
 | bip_39_word_space_0 | ['that', 'live', 'ocean', 'bounce', 'sunset', 'swallow', 'second', 'yellow', 'property', 'saddle', 'diesel', 'alley'] |  
 | bip_39_word_space_1 | that |  
 | bip_39_word_space_10 | that live ocean bounce sunset swallow second yellow property saddle |  

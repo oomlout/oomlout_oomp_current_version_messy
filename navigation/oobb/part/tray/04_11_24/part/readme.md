@@ -122,6 +122,18 @@ excess
 open
 mammal
 marine |  
+| bip_39_word_no_space_1 | swap |  
+| bip_39_word_no_space_10 | swapclerklabindustryremainexcessopenmammalmarineorbit |  
+| bip_39_word_no_space_11 | swapclerklabindustryremainexcessopenmammalmarineorbitenforce |  
+| bip_39_word_no_space_12 | swapclerklabindustryremainexcessopenmammalmarineorbitenforceamateur |  
+| bip_39_word_no_space_2 | swapclerk |  
+| bip_39_word_no_space_3 | swapclerklab |  
+| bip_39_word_no_space_4 | swapclerklabindustry |  
+| bip_39_word_no_space_5 | swapclerklabindustryremain |  
+| bip_39_word_no_space_6 | swapclerklabindustryremainexcess |  
+| bip_39_word_no_space_7 | swapclerklabindustryremainexcessopen |  
+| bip_39_word_no_space_8 | swapclerklabindustryremainexcessopenmammal |  
+| bip_39_word_no_space_9 | swapclerklabindustryremainexcessopenmammalmarine |  
 | bip_39_word_space_0 | ['swap', 'clerk', 'lab', 'industry', 'remain', 'excess', 'open', 'mammal', 'marine', 'orbit', 'enforce', 'amateur'] |  
 | bip_39_word_space_1 | swap |  
 | bip_39_word_space_10 | swap clerk lab industry remain excess open mammal marine orbit |  

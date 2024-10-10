@@ -122,6 +122,18 @@ harsh
 oppose
 speak
 shop |  
+| bip_39_word_no_space_1 | blade |  
+| bip_39_word_no_space_10 | bladepleasedrinkrabbitprisonharshopposespeakshopstart |  
+| bip_39_word_no_space_11 | bladepleasedrinkrabbitprisonharshopposespeakshopstartgallery |  
+| bip_39_word_no_space_12 | bladepleasedrinkrabbitprisonharshopposespeakshopstartgalleryarrange |  
+| bip_39_word_no_space_2 | bladeplease |  
+| bip_39_word_no_space_3 | bladepleasedrink |  
+| bip_39_word_no_space_4 | bladepleasedrinkrabbit |  
+| bip_39_word_no_space_5 | bladepleasedrinkrabbitprison |  
+| bip_39_word_no_space_6 | bladepleasedrinkrabbitprisonharsh |  
+| bip_39_word_no_space_7 | bladepleasedrinkrabbitprisonharshoppose |  
+| bip_39_word_no_space_8 | bladepleasedrinkrabbitprisonharshopposespeak |  
+| bip_39_word_no_space_9 | bladepleasedrinkrabbitprisonharshopposespeakshop |  
 | bip_39_word_space_0 | ['blade', 'please', 'drink', 'rabbit', 'prison', 'harsh', 'oppose', 'speak', 'shop', 'start', 'gallery', 'arrange'] |  
 | bip_39_word_space_1 | blade |  
 | bip_39_word_space_10 | blade please drink rabbit prison harsh oppose speak shop start |  

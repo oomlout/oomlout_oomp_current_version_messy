@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'toast
   pyramid
 
   orphan'
+bip_39_word_no_space_1: toast
+bip_39_word_no_space_10: toastparkresultsecretstumblemazereunionpyramidorphancar
+bip_39_word_no_space_11: toastparkresultsecretstumblemazereunionpyramidorphancarresist
+bip_39_word_no_space_12: toastparkresultsecretstumblemazereunionpyramidorphancarresistarmy
+bip_39_word_no_space_2: toastpark
+bip_39_word_no_space_3: toastparkresult
+bip_39_word_no_space_4: toastparkresultsecret
+bip_39_word_no_space_5: toastparkresultsecretstumble
+bip_39_word_no_space_6: toastparkresultsecretstumblemaze
+bip_39_word_no_space_7: toastparkresultsecretstumblemazereunion
+bip_39_word_no_space_8: toastparkresultsecretstumblemazereunionpyramid
+bip_39_word_no_space_9: toastparkresultsecretstumblemazereunionpyramidorphan
 bip_39_word_space_0:
 - toast
 - park

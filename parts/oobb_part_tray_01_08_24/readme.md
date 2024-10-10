@@ -122,6 +122,18 @@ quarter
 arm
 book
 office |  
+| bip_39_word_no_space_1 | boost |  
+| bip_39_word_no_space_10 | boostrainrobustluggagesuccessquarterarmbookofficeinnocent |  
+| bip_39_word_no_space_11 | boostrainrobustluggagesuccessquarterarmbookofficeinnocentceiling |  
+| bip_39_word_no_space_12 | boostrainrobustluggagesuccessquarterarmbookofficeinnocentceilingavocado |  
+| bip_39_word_no_space_2 | boostrain |  
+| bip_39_word_no_space_3 | boostrainrobust |  
+| bip_39_word_no_space_4 | boostrainrobustluggage |  
+| bip_39_word_no_space_5 | boostrainrobustluggagesuccess |  
+| bip_39_word_no_space_6 | boostrainrobustluggagesuccessquarter |  
+| bip_39_word_no_space_7 | boostrainrobustluggagesuccessquarterarm |  
+| bip_39_word_no_space_8 | boostrainrobustluggagesuccessquarterarmbook |  
+| bip_39_word_no_space_9 | boostrainrobustluggagesuccessquarterarmbookoffice |  
 | bip_39_word_space_0 | ['boost', 'rain', 'robust', 'luggage', 'success', 'quarter', 'arm', 'book', 'office', 'innocent', 'ceiling', 'avocado'] |  
 | bip_39_word_space_1 | boost |  
 | bip_39_word_space_10 | boost rain robust luggage success quarter arm book office innocent |  

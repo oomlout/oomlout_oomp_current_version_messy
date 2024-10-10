@@ -109,6 +109,17 @@ giraffe
 fold
 lemon
 nephew |  
+| bip_39_word_no_space_1 | weasel |  
+| bip_39_word_no_space_10 | weaselhairnotableputmissgiraffefoldlemonnephewremain |  
+| bip_39_word_no_space_11 | weaselhairnotableputmissgiraffefoldlemonnephewremainflavor |  
+| bip_39_word_no_space_2 | weaselhair |  
+| bip_39_word_no_space_3 | weaselhairnotable |  
+| bip_39_word_no_space_4 | weaselhairnotableput |  
+| bip_39_word_no_space_5 | weaselhairnotableputmiss |  
+| bip_39_word_no_space_6 | weaselhairnotableputmissgiraffe |  
+| bip_39_word_no_space_7 | weaselhairnotableputmissgiraffefold |  
+| bip_39_word_no_space_8 | weaselhairnotableputmissgiraffefoldlemon |  
+| bip_39_word_no_space_9 | weaselhairnotableputmissgiraffefoldlemonnephew |  
 | bip_39_word_space_0 | ['weasel', 'hair', 'notable', 'put', 'miss', 'giraffe', 'fold', 'lemon', 'nephew', 'remain', 'flavor'] |  
 | bip_39_word_space_1 | weasel |  
 | bip_39_word_space_10 | weasel hair notable put miss giraffe fold lemon nephew remain |  

@@ -122,6 +122,18 @@ giraffe
 victory
 room
 approve |  
+| bip_39_word_no_space_1 | sort |  
+| bip_39_word_no_space_10 | sortglidehubproducewheatgiraffevictoryroomapprovekey |  
+| bip_39_word_no_space_11 | sortglidehubproducewheatgiraffevictoryroomapprovekeyawake |  
+| bip_39_word_no_space_12 | sortglidehubproducewheatgiraffevictoryroomapprovekeyawakeattend |  
+| bip_39_word_no_space_2 | sortglide |  
+| bip_39_word_no_space_3 | sortglidehub |  
+| bip_39_word_no_space_4 | sortglidehubproduce |  
+| bip_39_word_no_space_5 | sortglidehubproducewheat |  
+| bip_39_word_no_space_6 | sortglidehubproducewheatgiraffe |  
+| bip_39_word_no_space_7 | sortglidehubproducewheatgiraffevictory |  
+| bip_39_word_no_space_8 | sortglidehubproducewheatgiraffevictoryroom |  
+| bip_39_word_no_space_9 | sortglidehubproducewheatgiraffevictoryroomapprove |  
 | bip_39_word_space_0 | ['sort', 'glide', 'hub', 'produce', 'wheat', 'giraffe', 'victory', 'room', 'approve', 'key', 'awake', 'attend'] |  
 | bip_39_word_space_1 | sort |  
 | bip_39_word_space_10 | sort glide hub produce wheat giraffe victory room approve key |  

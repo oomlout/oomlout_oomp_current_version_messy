@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'boat
   mail
 
   army'
+bip_39_word_no_space_1: boat
+bip_39_word_no_space_10: boathighcountryglorypredictpledgehorrormailarmymoment
+bip_39_word_no_space_11: boathighcountryglorypredictpledgehorrormailarmymomentgame
+bip_39_word_no_space_12: boathighcountryglorypredictpledgehorrormailarmymomentgameapril
+bip_39_word_no_space_2: boathigh
+bip_39_word_no_space_3: boathighcountry
+bip_39_word_no_space_4: boathighcountryglory
+bip_39_word_no_space_5: boathighcountryglorypredict
+bip_39_word_no_space_6: boathighcountryglorypredictpledge
+bip_39_word_no_space_7: boathighcountryglorypredictpledgehorror
+bip_39_word_no_space_8: boathighcountryglorypredictpledgehorrormail
+bip_39_word_no_space_9: boathighcountryglorypredictpledgehorrormailarmy
 bip_39_word_space_0:
 - boat
 - high

@@ -122,6 +122,18 @@ wagon
 fog
 heart
 grab |  
+| bip_39_word_no_space_1 | trophy |  
+| bip_39_word_no_space_10 | trophyknowguitarangleaccidentwagonfogheartgrabreview |  
+| bip_39_word_no_space_11 | trophyknowguitarangleaccidentwagonfogheartgrabreviewsample |  
+| bip_39_word_no_space_12 | trophyknowguitarangleaccidentwagonfogheartgrabreviewsampleadd |  
+| bip_39_word_no_space_2 | trophyknow |  
+| bip_39_word_no_space_3 | trophyknowguitar |  
+| bip_39_word_no_space_4 | trophyknowguitarangle |  
+| bip_39_word_no_space_5 | trophyknowguitarangleaccident |  
+| bip_39_word_no_space_6 | trophyknowguitarangleaccidentwagon |  
+| bip_39_word_no_space_7 | trophyknowguitarangleaccidentwagonfog |  
+| bip_39_word_no_space_8 | trophyknowguitarangleaccidentwagonfogheart |  
+| bip_39_word_no_space_9 | trophyknowguitarangleaccidentwagonfogheartgrab |  
 | bip_39_word_space_0 | ['trophy', 'know', 'guitar', 'angle', 'accident', 'wagon', 'fog', 'heart', 'grab', 'review', 'sample', 'add'] |  
 | bip_39_word_space_1 | trophy |  
 | bip_39_word_space_10 | trophy know guitar angle accident wagon fog heart grab review |  

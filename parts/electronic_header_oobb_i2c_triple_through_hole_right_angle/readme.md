@@ -122,6 +122,18 @@ scout
 general
 volume
 rebel |  
+| bip_39_word_no_space_1 | theory |  
+| bip_39_word_no_space_10 | theorymustradiospotguidescoutgeneralvolumerebeldumb |  
+| bip_39_word_no_space_11 | theorymustradiospotguidescoutgeneralvolumerebeldumbtopple |  
+| bip_39_word_no_space_12 | theorymustradiospotguidescoutgeneralvolumerebeldumbtoppleall |  
+| bip_39_word_no_space_2 | theorymust |  
+| bip_39_word_no_space_3 | theorymustradio |  
+| bip_39_word_no_space_4 | theorymustradiospot |  
+| bip_39_word_no_space_5 | theorymustradiospotguide |  
+| bip_39_word_no_space_6 | theorymustradiospotguidescout |  
+| bip_39_word_no_space_7 | theorymustradiospotguidescoutgeneral |  
+| bip_39_word_no_space_8 | theorymustradiospotguidescoutgeneralvolume |  
+| bip_39_word_no_space_9 | theorymustradiospotguidescoutgeneralvolumerebel |  
 | bip_39_word_space_0 | ['theory', 'must', 'radio', 'spot', 'guide', 'scout', 'general', 'volume', 'rebel', 'dumb', 'topple', 'all'] |  
 | bip_39_word_space_1 | theory |  
 | bip_39_word_space_10 | theory must radio spot guide scout general volume rebel dumb |  

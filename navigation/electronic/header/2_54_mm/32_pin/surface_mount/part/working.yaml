@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dawn
   chest
 
   forget'
+bip_39_word_no_space_1: dawn
+bip_39_word_no_space_10: dawnarmheightwageharvestquoteonlinechestforgetchuckle
+bip_39_word_no_space_11: dawnarmheightwageharvestquoteonlinechestforgetchucklefarm
+bip_39_word_no_space_12: dawnarmheightwageharvestquoteonlinechestforgetchucklefarmagent
+bip_39_word_no_space_2: dawnarm
+bip_39_word_no_space_3: dawnarmheight
+bip_39_word_no_space_4: dawnarmheightwage
+bip_39_word_no_space_5: dawnarmheightwageharvest
+bip_39_word_no_space_6: dawnarmheightwageharvestquote
+bip_39_word_no_space_7: dawnarmheightwageharvestquoteonline
+bip_39_word_no_space_8: dawnarmheightwageharvestquoteonlinechest
+bip_39_word_no_space_9: dawnarmheightwageharvestquoteonlinechestforget
 bip_39_word_space_0:
 - dawn
 - arm

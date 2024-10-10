@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'only
   novel
 
   addict'
+bip_39_word_no_space_1: only
+bip_39_word_no_space_10: onlydinosaurenforceevolveawayridgekidnoveladdictboil
+bip_39_word_no_space_11: onlydinosaurenforceevolveawayridgekidnoveladdictboilfetch
+bip_39_word_no_space_12: onlydinosaurenforceevolveawayridgekidnoveladdictboilfetchadmit
+bip_39_word_no_space_2: onlydinosaur
+bip_39_word_no_space_3: onlydinosaurenforce
+bip_39_word_no_space_4: onlydinosaurenforceevolve
+bip_39_word_no_space_5: onlydinosaurenforceevolveaway
+bip_39_word_no_space_6: onlydinosaurenforceevolveawayridge
+bip_39_word_no_space_7: onlydinosaurenforceevolveawayridgekid
+bip_39_word_no_space_8: onlydinosaurenforceevolveawayridgekidnovel
+bip_39_word_no_space_9: onlydinosaurenforceevolveawayridgekidnoveladdict
 bip_39_word_space_0:
 - only
 - dinosaur

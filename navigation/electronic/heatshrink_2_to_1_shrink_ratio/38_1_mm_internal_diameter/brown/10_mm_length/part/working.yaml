@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'clerk
   wall
 
   isolate'
+bip_39_word_no_space_1: clerk
+bip_39_word_no_space_10: clerksmoothsleepfabricrescueglasshelpwallisolatemelt
+bip_39_word_no_space_11: clerksmoothsleepfabricrescueglasshelpwallisolatemeltsiren
+bip_39_word_no_space_12: clerksmoothsleepfabricrescueglasshelpwallisolatemeltsirenaim
+bip_39_word_no_space_2: clerksmooth
+bip_39_word_no_space_3: clerksmoothsleep
+bip_39_word_no_space_4: clerksmoothsleepfabric
+bip_39_word_no_space_5: clerksmoothsleepfabricrescue
+bip_39_word_no_space_6: clerksmoothsleepfabricrescueglass
+bip_39_word_no_space_7: clerksmoothsleepfabricrescueglasshelp
+bip_39_word_no_space_8: clerksmoothsleepfabricrescueglasshelpwall
+bip_39_word_no_space_9: clerksmoothsleepfabricrescueglasshelpwallisolate
 bip_39_word_space_0:
 - clerk
 - smooth

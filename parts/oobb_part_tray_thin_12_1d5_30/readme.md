@@ -122,6 +122,18 @@ endless
 rice
 cactus
 theory |  
+| bip_39_word_no_space_1 | change |  
+| bip_39_word_no_space_10 | changemorningannounceoaksurveyendlessricecactustheorytissue |  
+| bip_39_word_no_space_11 | changemorningannounceoaksurveyendlessricecactustheorytissueabove |  
+| bip_39_word_no_space_12 | changemorningannounceoaksurveyendlessricecactustheorytissueaboveaspect |  
+| bip_39_word_no_space_2 | changemorning |  
+| bip_39_word_no_space_3 | changemorningannounce |  
+| bip_39_word_no_space_4 | changemorningannounceoak |  
+| bip_39_word_no_space_5 | changemorningannounceoaksurvey |  
+| bip_39_word_no_space_6 | changemorningannounceoaksurveyendless |  
+| bip_39_word_no_space_7 | changemorningannounceoaksurveyendlessrice |  
+| bip_39_word_no_space_8 | changemorningannounceoaksurveyendlessricecactus |  
+| bip_39_word_no_space_9 | changemorningannounceoaksurveyendlessricecactustheory |  
 | bip_39_word_space_0 | ['change', 'morning', 'announce', 'oak', 'survey', 'endless', 'rice', 'cactus', 'theory', 'tissue', 'above', 'aspect'] |  
 | bip_39_word_space_1 | change |  
 | bip_39_word_space_10 | change morning announce oak survey endless rice cactus theory tissue |  

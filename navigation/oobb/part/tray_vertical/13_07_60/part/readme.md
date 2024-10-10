@@ -122,6 +122,18 @@ obscure
 regret
 economy
 mechanic |  
+| bip_39_word_no_space_1 | aerobic |  
+| bip_39_word_no_space_10 | aerobicangerinputpeoplecrowdobscureregreteconomymechanicvintage |  
+| bip_39_word_no_space_11 | aerobicangerinputpeoplecrowdobscureregreteconomymechanicvintageprogram |  
+| bip_39_word_no_space_12 | aerobicangerinputpeoplecrowdobscureregreteconomymechanicvintageprogramamount |  
+| bip_39_word_no_space_2 | aerobicanger |  
+| bip_39_word_no_space_3 | aerobicangerinput |  
+| bip_39_word_no_space_4 | aerobicangerinputpeople |  
+| bip_39_word_no_space_5 | aerobicangerinputpeoplecrowd |  
+| bip_39_word_no_space_6 | aerobicangerinputpeoplecrowdobscure |  
+| bip_39_word_no_space_7 | aerobicangerinputpeoplecrowdobscureregret |  
+| bip_39_word_no_space_8 | aerobicangerinputpeoplecrowdobscureregreteconomy |  
+| bip_39_word_no_space_9 | aerobicangerinputpeoplecrowdobscureregreteconomymechanic |  
 | bip_39_word_space_0 | ['aerobic', 'anger', 'input', 'people', 'crowd', 'obscure', 'regret', 'economy', 'mechanic', 'vintage', 'program', 'amount'] |  
 | bip_39_word_space_1 | aerobic |  
 | bip_39_word_space_10 | aerobic anger input people crowd obscure regret economy mechanic vintage |  

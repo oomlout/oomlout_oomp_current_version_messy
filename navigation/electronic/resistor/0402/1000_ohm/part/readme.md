@@ -122,6 +122,18 @@ throw
 glare
 resemble
 result |  
+| bip_39_word_no_space_1 | minor |  
+| bip_39_word_no_space_10 | minorvalidmadexpectservicethrowglareresembleresulthat |  
+| bip_39_word_no_space_11 | minorvalidmadexpectservicethrowglareresembleresulthatgrape |  
+| bip_39_word_no_space_12 | minorvalidmadexpectservicethrowglareresembleresulthatgrapealpha |  
+| bip_39_word_no_space_2 | minorvalid |  
+| bip_39_word_no_space_3 | minorvalidmad |  
+| bip_39_word_no_space_4 | minorvalidmadexpect |  
+| bip_39_word_no_space_5 | minorvalidmadexpectservice |  
+| bip_39_word_no_space_6 | minorvalidmadexpectservicethrow |  
+| bip_39_word_no_space_7 | minorvalidmadexpectservicethrowglare |  
+| bip_39_word_no_space_8 | minorvalidmadexpectservicethrowglareresemble |  
+| bip_39_word_no_space_9 | minorvalidmadexpectservicethrowglareresembleresult |  
 | bip_39_word_space_0 | ['minor', 'valid', 'mad', 'expect', 'service', 'throw', 'glare', 'resemble', 'result', 'hat', 'grape', 'alpha'] |  
 | bip_39_word_space_1 | minor |  
 | bip_39_word_space_10 | minor valid mad expect service throw glare resemble result hat |  

@@ -122,6 +122,18 @@ license
 discover
 real
 service |  
+| bip_39_word_no_space_1 | remember |  
+| bip_39_word_no_space_10 | rememberbeautyassaultstillenterlicensediscoverrealserviceamateur |  
+| bip_39_word_no_space_11 | rememberbeautyassaultstillenterlicensediscoverrealserviceamateurobject |  
+| bip_39_word_no_space_12 | rememberbeautyassaultstillenterlicensediscoverrealserviceamateurobjectaunt |  
+| bip_39_word_no_space_2 | rememberbeauty |  
+| bip_39_word_no_space_3 | rememberbeautyassault |  
+| bip_39_word_no_space_4 | rememberbeautyassaultstill |  
+| bip_39_word_no_space_5 | rememberbeautyassaultstillenter |  
+| bip_39_word_no_space_6 | rememberbeautyassaultstillenterlicense |  
+| bip_39_word_no_space_7 | rememberbeautyassaultstillenterlicensediscover |  
+| bip_39_word_no_space_8 | rememberbeautyassaultstillenterlicensediscoverreal |  
+| bip_39_word_no_space_9 | rememberbeautyassaultstillenterlicensediscoverrealservice |  
 | bip_39_word_space_0 | ['remember', 'beauty', 'assault', 'still', 'enter', 'license', 'discover', 'real', 'service', 'amateur', 'object', 'aunt'] |  
 | bip_39_word_space_1 | remember |  
 | bip_39_word_space_10 | remember beauty assault still enter license discover real service amateur |  

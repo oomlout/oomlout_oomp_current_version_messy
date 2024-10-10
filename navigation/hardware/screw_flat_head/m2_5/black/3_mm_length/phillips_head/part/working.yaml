@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'injury
   degree
 
   annual'
+bip_39_word_no_space_1: injury
+bip_39_word_no_space_10: injurysirenbombupholdcropensurebracketdegreeannuallucky
+bip_39_word_no_space_11: injurysirenbombupholdcropensurebracketdegreeannualluckytrash
+bip_39_word_no_space_12: injurysirenbombupholdcropensurebracketdegreeannualluckytrashaverage
+bip_39_word_no_space_2: injurysiren
+bip_39_word_no_space_3: injurysirenbomb
+bip_39_word_no_space_4: injurysirenbombuphold
+bip_39_word_no_space_5: injurysirenbombupholdcrop
+bip_39_word_no_space_6: injurysirenbombupholdcropensure
+bip_39_word_no_space_7: injurysirenbombupholdcropensurebracket
+bip_39_word_no_space_8: injurysirenbombupholdcropensurebracketdegree
+bip_39_word_no_space_9: injurysirenbombupholdcropensurebracketdegreeannual
 bip_39_word_space_0:
 - injury
 - siren

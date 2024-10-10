@@ -122,6 +122,18 @@ system
 alarm
 bridge
 firm |  
+| bip_39_word_no_space_1 | invite |  
+| bip_39_word_no_space_10 | inviteroomcoolgospelpraisesystemalarmbridgefirmboard |  
+| bip_39_word_no_space_11 | inviteroomcoolgospelpraisesystemalarmbridgefirmboarddrastic |  
+| bip_39_word_no_space_12 | inviteroomcoolgospelpraisesystemalarmbridgefirmboarddrasticapart |  
+| bip_39_word_no_space_2 | inviteroom |  
+| bip_39_word_no_space_3 | inviteroomcool |  
+| bip_39_word_no_space_4 | inviteroomcoolgospel |  
+| bip_39_word_no_space_5 | inviteroomcoolgospelpraise |  
+| bip_39_word_no_space_6 | inviteroomcoolgospelpraisesystem |  
+| bip_39_word_no_space_7 | inviteroomcoolgospelpraisesystemalarm |  
+| bip_39_word_no_space_8 | inviteroomcoolgospelpraisesystemalarmbridge |  
+| bip_39_word_no_space_9 | inviteroomcoolgospelpraisesystemalarmbridgefirm |  
 | bip_39_word_space_0 | ['invite', 'room', 'cool', 'gospel', 'praise', 'system', 'alarm', 'bridge', 'firm', 'board', 'drastic', 'apart'] |  
 | bip_39_word_space_1 | invite |  
 | bip_39_word_space_10 | invite room cool gospel praise system alarm bridge firm board |  

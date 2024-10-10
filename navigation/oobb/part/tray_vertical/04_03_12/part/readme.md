@@ -122,6 +122,18 @@ keep
 mutual
 old
 adult |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | ankledismissexpandwheretortoisekeepmutualoldadultcross |  
+| bip_39_word_no_space_11 | ankledismissexpandwheretortoisekeepmutualoldadultcrosscommon |  
+| bip_39_word_no_space_12 | ankledismissexpandwheretortoisekeepmutualoldadultcrosscommonart |  
+| bip_39_word_no_space_2 | ankledismiss |  
+| bip_39_word_no_space_3 | ankledismissexpand |  
+| bip_39_word_no_space_4 | ankledismissexpandwhere |  
+| bip_39_word_no_space_5 | ankledismissexpandwheretortoise |  
+| bip_39_word_no_space_6 | ankledismissexpandwheretortoisekeep |  
+| bip_39_word_no_space_7 | ankledismissexpandwheretortoisekeepmutual |  
+| bip_39_word_no_space_8 | ankledismissexpandwheretortoisekeepmutualold |  
+| bip_39_word_no_space_9 | ankledismissexpandwheretortoisekeepmutualoldadult |  
 | bip_39_word_space_0 | ['ankle', 'dismiss', 'expand', 'where', 'tortoise', 'keep', 'mutual', 'old', 'adult', 'cross', 'common', 'art'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle dismiss expand where tortoise keep mutual old adult cross |  

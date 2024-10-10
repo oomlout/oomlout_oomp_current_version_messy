@@ -122,6 +122,18 @@ defense
 salute
 tackle
 stem |  
+| bip_39_word_no_space_1 | tomato |  
+| bip_39_word_no_space_10 | tomatoprisoneasyreceivepenaltydefensesalutetacklestemletter |  
+| bip_39_word_no_space_11 | tomatoprisoneasyreceivepenaltydefensesalutetacklestemletterregion |  
+| bip_39_word_no_space_12 | tomatoprisoneasyreceivepenaltydefensesalutetacklestemletterregionactual |  
+| bip_39_word_no_space_2 | tomatoprison |  
+| bip_39_word_no_space_3 | tomatoprisoneasy |  
+| bip_39_word_no_space_4 | tomatoprisoneasyreceive |  
+| bip_39_word_no_space_5 | tomatoprisoneasyreceivepenalty |  
+| bip_39_word_no_space_6 | tomatoprisoneasyreceivepenaltydefense |  
+| bip_39_word_no_space_7 | tomatoprisoneasyreceivepenaltydefensesalute |  
+| bip_39_word_no_space_8 | tomatoprisoneasyreceivepenaltydefensesalutetackle |  
+| bip_39_word_no_space_9 | tomatoprisoneasyreceivepenaltydefensesalutetacklestem |  
 | bip_39_word_space_0 | ['tomato', 'prison', 'easy', 'receive', 'penalty', 'defense', 'salute', 'tackle', 'stem', 'letter', 'region', 'actual'] |  
 | bip_39_word_space_1 | tomato |  
 | bip_39_word_space_10 | tomato prison easy receive penalty defense salute tackle stem letter |  

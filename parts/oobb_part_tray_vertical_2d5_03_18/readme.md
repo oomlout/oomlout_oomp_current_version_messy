@@ -122,6 +122,18 @@ noodle
 project
 guilt
 say |  
+| bip_39_word_no_space_1 | child |  
+| bip_39_word_no_space_10 | childdoormassbosscrystalnoodleprojectguiltsayclerk |  
+| bip_39_word_no_space_11 | childdoormassbosscrystalnoodleprojectguiltsayclerkbounce |  
+| bip_39_word_no_space_12 | childdoormassbosscrystalnoodleprojectguiltsayclerkbounceaerobic |  
+| bip_39_word_no_space_2 | childdoor |  
+| bip_39_word_no_space_3 | childdoormass |  
+| bip_39_word_no_space_4 | childdoormassboss |  
+| bip_39_word_no_space_5 | childdoormassbosscrystal |  
+| bip_39_word_no_space_6 | childdoormassbosscrystalnoodle |  
+| bip_39_word_no_space_7 | childdoormassbosscrystalnoodleproject |  
+| bip_39_word_no_space_8 | childdoormassbosscrystalnoodleprojectguilt |  
+| bip_39_word_no_space_9 | childdoormassbosscrystalnoodleprojectguiltsay |  
 | bip_39_word_space_0 | ['child', 'door', 'mass', 'boss', 'crystal', 'noodle', 'project', 'guilt', 'say', 'clerk', 'bounce', 'aerobic'] |  
 | bip_39_word_space_1 | child |  
 | bip_39_word_space_10 | child door mass boss crystal noodle project guilt say clerk |  

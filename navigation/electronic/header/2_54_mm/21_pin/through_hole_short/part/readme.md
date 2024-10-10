@@ -122,6 +122,18 @@ marble
 tired
 car
 sad |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accusepridejacketcableumbrellamarbletiredcarsadpull |  
+| bip_39_word_no_space_11 | accusepridejacketcableumbrellamarbletiredcarsadpullaverage |  
+| bip_39_word_no_space_12 | accusepridejacketcableumbrellamarbletiredcarsadpullaverageargue |  
+| bip_39_word_no_space_2 | accusepride |  
+| bip_39_word_no_space_3 | accusepridejacket |  
+| bip_39_word_no_space_4 | accusepridejacketcable |  
+| bip_39_word_no_space_5 | accusepridejacketcableumbrella |  
+| bip_39_word_no_space_6 | accusepridejacketcableumbrellamarble |  
+| bip_39_word_no_space_7 | accusepridejacketcableumbrellamarbletired |  
+| bip_39_word_no_space_8 | accusepridejacketcableumbrellamarbletiredcar |  
+| bip_39_word_no_space_9 | accusepridejacketcableumbrellamarbletiredcarsad |  
 | bip_39_word_space_0 | ['accuse', 'pride', 'jacket', 'cable', 'umbrella', 'marble', 'tired', 'car', 'sad', 'pull', 'average', 'argue'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse pride jacket cable umbrella marble tired car sad pull |  

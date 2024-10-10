@@ -122,6 +122,18 @@ climb
 young
 soap
 best |  
+| bip_39_word_no_space_1 | cream |  
+| bip_39_word_no_space_10 | creamstylefingeraccuseenforceclimbyoungsoapbestzebra |  
+| bip_39_word_no_space_11 | creamstylefingeraccuseenforceclimbyoungsoapbestzebraempty |  
+| bip_39_word_no_space_12 | creamstylefingeraccuseenforceclimbyoungsoapbestzebraemptyafraid |  
+| bip_39_word_no_space_2 | creamstyle |  
+| bip_39_word_no_space_3 | creamstylefinger |  
+| bip_39_word_no_space_4 | creamstylefingeraccuse |  
+| bip_39_word_no_space_5 | creamstylefingeraccuseenforce |  
+| bip_39_word_no_space_6 | creamstylefingeraccuseenforceclimb |  
+| bip_39_word_no_space_7 | creamstylefingeraccuseenforceclimbyoung |  
+| bip_39_word_no_space_8 | creamstylefingeraccuseenforceclimbyoungsoap |  
+| bip_39_word_no_space_9 | creamstylefingeraccuseenforceclimbyoungsoapbest |  
 | bip_39_word_space_0 | ['cream', 'style', 'finger', 'accuse', 'enforce', 'climb', 'young', 'soap', 'best', 'zebra', 'empty', 'afraid'] |  
 | bip_39_word_space_1 | cream |  
 | bip_39_word_space_10 | cream style finger accuse enforce climb young soap best zebra |  

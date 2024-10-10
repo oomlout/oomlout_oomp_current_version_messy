@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'only
   melody
 
   key'
+bip_39_word_no_space_1: only
+bip_39_word_no_space_10: onlybenchdolphinclarifybasicthrivevoicemelodykeycaution
+bip_39_word_no_space_11: onlybenchdolphinclarifybasicthrivevoicemelodykeycautionnerve
+bip_39_word_no_space_12: onlybenchdolphinclarifybasicthrivevoicemelodykeycautionnervearound
+bip_39_word_no_space_2: onlybench
+bip_39_word_no_space_3: onlybenchdolphin
+bip_39_word_no_space_4: onlybenchdolphinclarify
+bip_39_word_no_space_5: onlybenchdolphinclarifybasic
+bip_39_word_no_space_6: onlybenchdolphinclarifybasicthrive
+bip_39_word_no_space_7: onlybenchdolphinclarifybasicthrivevoice
+bip_39_word_no_space_8: onlybenchdolphinclarifybasicthrivevoicemelody
+bip_39_word_no_space_9: onlybenchdolphinclarifybasicthrivevoicemelodykey
 bip_39_word_space_0:
 - only
 - bench

@@ -122,6 +122,18 @@ erode
 pizza
 language
 edge |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwaymaterialbirdfallbrothererodepizzalanguageedgeshoulder |  
+| bip_39_word_no_space_11 | runwaymaterialbirdfallbrothererodepizzalanguageedgeshoulderpaddle |  
+| bip_39_word_no_space_12 | runwaymaterialbirdfallbrothererodepizzalanguageedgeshoulderpaddlealways |  
+| bip_39_word_no_space_2 | runwaymaterial |  
+| bip_39_word_no_space_3 | runwaymaterialbird |  
+| bip_39_word_no_space_4 | runwaymaterialbirdfall |  
+| bip_39_word_no_space_5 | runwaymaterialbirdfallbrother |  
+| bip_39_word_no_space_6 | runwaymaterialbirdfallbrothererode |  
+| bip_39_word_no_space_7 | runwaymaterialbirdfallbrothererodepizza |  
+| bip_39_word_no_space_8 | runwaymaterialbirdfallbrothererodepizzalanguage |  
+| bip_39_word_no_space_9 | runwaymaterialbirdfallbrothererodepizzalanguageedge |  
 | bip_39_word_space_0 | ['runway', 'material', 'bird', 'fall', 'brother', 'erode', 'pizza', 'language', 'edge', 'shoulder', 'paddle', 'always'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway material bird fall brother erode pizza language edge shoulder |  

@@ -122,6 +122,18 @@ wheat
 fatal
 glide
 night |  
+| bip_39_word_no_space_1 | nose |  
+| bip_39_word_no_space_10 | noseskinnerveisolatewelcomewheatfatalglidenightbeach |  
+| bip_39_word_no_space_11 | noseskinnerveisolatewelcomewheatfatalglidenightbeachcertain |  
+| bip_39_word_no_space_12 | noseskinnerveisolatewelcomewheatfatalglidenightbeachcertainattitude |  
+| bip_39_word_no_space_2 | noseskin |  
+| bip_39_word_no_space_3 | noseskinnerve |  
+| bip_39_word_no_space_4 | noseskinnerveisolate |  
+| bip_39_word_no_space_5 | noseskinnerveisolatewelcome |  
+| bip_39_word_no_space_6 | noseskinnerveisolatewelcomewheat |  
+| bip_39_word_no_space_7 | noseskinnerveisolatewelcomewheatfatal |  
+| bip_39_word_no_space_8 | noseskinnerveisolatewelcomewheatfatalglide |  
+| bip_39_word_no_space_9 | noseskinnerveisolatewelcomewheatfatalglidenight |  
 | bip_39_word_space_0 | ['nose', 'skin', 'nerve', 'isolate', 'welcome', 'wheat', 'fatal', 'glide', 'night', 'beach', 'certain', 'attitude'] |  
 | bip_39_word_space_1 | nose |  
 | bip_39_word_space_10 | nose skin nerve isolate welcome wheat fatal glide night beach |  

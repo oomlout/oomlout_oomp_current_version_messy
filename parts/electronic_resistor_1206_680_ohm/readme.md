@@ -122,6 +122,18 @@ layer
 tilt
 debris
 cry |  
+| bip_39_word_no_space_1 | average |  
+| bip_39_word_no_space_10 | averagetreelaborgrantexplainlayertiltdebriscrydecember |  
+| bip_39_word_no_space_11 | averagetreelaborgrantexplainlayertiltdebriscrydecemberfatal |  
+| bip_39_word_no_space_12 | averagetreelaborgrantexplainlayertiltdebriscrydecemberfatalaccuse |  
+| bip_39_word_no_space_2 | averagetree |  
+| bip_39_word_no_space_3 | averagetreelabor |  
+| bip_39_word_no_space_4 | averagetreelaborgrant |  
+| bip_39_word_no_space_5 | averagetreelaborgrantexplain |  
+| bip_39_word_no_space_6 | averagetreelaborgrantexplainlayer |  
+| bip_39_word_no_space_7 | averagetreelaborgrantexplainlayertilt |  
+| bip_39_word_no_space_8 | averagetreelaborgrantexplainlayertiltdebris |  
+| bip_39_word_no_space_9 | averagetreelaborgrantexplainlayertiltdebriscry |  
 | bip_39_word_space_0 | ['average', 'tree', 'labor', 'grant', 'explain', 'layer', 'tilt', 'debris', 'cry', 'december', 'fatal', 'accuse'] |  
 | bip_39_word_space_1 | average |  
 | bip_39_word_space_10 | average tree labor grant explain layer tilt debris cry december |  

@@ -122,6 +122,18 @@ end
 sniff
 rug
 history |  
+| bip_39_word_no_space_1 | million |  
+| bip_39_word_no_space_10 | millionregionblasttrafficquarterendsniffrughistoryurban |  
+| bip_39_word_no_space_11 | millionregionblasttrafficquarterendsniffrughistoryurbansalon |  
+| bip_39_word_no_space_12 | millionregionblasttrafficquarterendsniffrughistoryurbansalonassist |  
+| bip_39_word_no_space_2 | millionregion |  
+| bip_39_word_no_space_3 | millionregionblast |  
+| bip_39_word_no_space_4 | millionregionblasttraffic |  
+| bip_39_word_no_space_5 | millionregionblasttrafficquarter |  
+| bip_39_word_no_space_6 | millionregionblasttrafficquarterend |  
+| bip_39_word_no_space_7 | millionregionblasttrafficquarterendsniff |  
+| bip_39_word_no_space_8 | millionregionblasttrafficquarterendsniffrug |  
+| bip_39_word_no_space_9 | millionregionblasttrafficquarterendsniffrughistory |  
 | bip_39_word_space_0 | ['million', 'region', 'blast', 'traffic', 'quarter', 'end', 'sniff', 'rug', 'history', 'urban', 'salon', 'assist'] |  
 | bip_39_word_space_1 | million |  
 | bip_39_word_space_10 | million region blast traffic quarter end sniff rug history urban |  

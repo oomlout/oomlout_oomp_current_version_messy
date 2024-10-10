@@ -122,6 +122,18 @@ squirrel
 diary
 piece
 outdoor |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenjoberrorflameunveilsquirreldiarypieceoutdoorbeyond |  
+| bip_39_word_no_space_11 | brokenjoberrorflameunveilsquirreldiarypieceoutdoorbeyondcinnamon |  
+| bip_39_word_no_space_12 | brokenjoberrorflameunveilsquirreldiarypieceoutdoorbeyondcinnamonaugust |  
+| bip_39_word_no_space_2 | brokenjob |  
+| bip_39_word_no_space_3 | brokenjoberror |  
+| bip_39_word_no_space_4 | brokenjoberrorflame |  
+| bip_39_word_no_space_5 | brokenjoberrorflameunveil |  
+| bip_39_word_no_space_6 | brokenjoberrorflameunveilsquirrel |  
+| bip_39_word_no_space_7 | brokenjoberrorflameunveilsquirreldiary |  
+| bip_39_word_no_space_8 | brokenjoberrorflameunveilsquirreldiarypiece |  
+| bip_39_word_no_space_9 | brokenjoberrorflameunveilsquirreldiarypieceoutdoor |  
 | bip_39_word_space_0 | ['broken', 'job', 'error', 'flame', 'unveil', 'squirrel', 'diary', 'piece', 'outdoor', 'beyond', 'cinnamon', 'august'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken job error flame unveil squirrel diary piece outdoor beyond |  

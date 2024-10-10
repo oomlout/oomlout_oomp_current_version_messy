@@ -122,6 +122,18 @@ toward
 alert
 dinosaur
 island |  
+| bip_39_word_no_space_1 | more |  
+| bip_39_word_no_space_10 | moreablebeyondcarbonuniversetowardalertdinosaurislandessence |  
+| bip_39_word_no_space_11 | moreablebeyondcarbonuniversetowardalertdinosaurislandessencefile |  
+| bip_39_word_no_space_12 | moreablebeyondcarbonuniversetowardalertdinosaurislandessencefileasset |  
+| bip_39_word_no_space_2 | moreable |  
+| bip_39_word_no_space_3 | moreablebeyond |  
+| bip_39_word_no_space_4 | moreablebeyondcarbon |  
+| bip_39_word_no_space_5 | moreablebeyondcarbonuniverse |  
+| bip_39_word_no_space_6 | moreablebeyondcarbonuniversetoward |  
+| bip_39_word_no_space_7 | moreablebeyondcarbonuniversetowardalert |  
+| bip_39_word_no_space_8 | moreablebeyondcarbonuniversetowardalertdinosaur |  
+| bip_39_word_no_space_9 | moreablebeyondcarbonuniversetowardalertdinosaurisland |  
 | bip_39_word_space_0 | ['more', 'able', 'beyond', 'carbon', 'universe', 'toward', 'alert', 'dinosaur', 'island', 'essence', 'file', 'asset'] |  
 | bip_39_word_space_1 | more |  
 | bip_39_word_space_10 | more able beyond carbon universe toward alert dinosaur island essence |  

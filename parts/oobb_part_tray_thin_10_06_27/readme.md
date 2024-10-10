@@ -122,6 +122,18 @@ embark
 citizen
 silly
 venture |  
+| bip_39_word_no_space_1 | innocent |  
+| bip_39_word_no_space_10 | innocentgospeltrulyclientdaringembarkcitizensillyventureecho |  
+| bip_39_word_no_space_11 | innocentgospeltrulyclientdaringembarkcitizensillyventureechoshoe |  
+| bip_39_word_no_space_12 | innocentgospeltrulyclientdaringembarkcitizensillyventureechoshoeamused |  
+| bip_39_word_no_space_2 | innocentgospel |  
+| bip_39_word_no_space_3 | innocentgospeltruly |  
+| bip_39_word_no_space_4 | innocentgospeltrulyclient |  
+| bip_39_word_no_space_5 | innocentgospeltrulyclientdaring |  
+| bip_39_word_no_space_6 | innocentgospeltrulyclientdaringembark |  
+| bip_39_word_no_space_7 | innocentgospeltrulyclientdaringembarkcitizen |  
+| bip_39_word_no_space_8 | innocentgospeltrulyclientdaringembarkcitizensilly |  
+| bip_39_word_no_space_9 | innocentgospeltrulyclientdaringembarkcitizensillyventure |  
 | bip_39_word_space_0 | ['innocent', 'gospel', 'truly', 'client', 'daring', 'embark', 'citizen', 'silly', 'venture', 'echo', 'shoe', 'amused'] |  
 | bip_39_word_space_1 | innocent |  
 | bip_39_word_space_10 | innocent gospel truly client daring embark citizen silly venture echo |  

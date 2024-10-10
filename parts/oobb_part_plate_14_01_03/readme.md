@@ -122,6 +122,18 @@ aerobic
 timber
 pottery
 crater |  
+| bip_39_word_no_space_1 | sock |  
+| bip_39_word_no_space_10 | socktattoocupbeyonduseaerobictimberpotterycraterdash |  
+| bip_39_word_no_space_11 | socktattoocupbeyonduseaerobictimberpotterycraterdashnature |  
+| bip_39_word_no_space_12 | socktattoocupbeyonduseaerobictimberpotterycraterdashnatureamong |  
+| bip_39_word_no_space_2 | socktattoo |  
+| bip_39_word_no_space_3 | socktattoocup |  
+| bip_39_word_no_space_4 | socktattoocupbeyond |  
+| bip_39_word_no_space_5 | socktattoocupbeyonduse |  
+| bip_39_word_no_space_6 | socktattoocupbeyonduseaerobic |  
+| bip_39_word_no_space_7 | socktattoocupbeyonduseaerobictimber |  
+| bip_39_word_no_space_8 | socktattoocupbeyonduseaerobictimberpottery |  
+| bip_39_word_no_space_9 | socktattoocupbeyonduseaerobictimberpotterycrater |  
 | bip_39_word_space_0 | ['sock', 'tattoo', 'cup', 'beyond', 'use', 'aerobic', 'timber', 'pottery', 'crater', 'dash', 'nature', 'among'] |  
 | bip_39_word_space_1 | sock |  
 | bip_39_word_space_10 | sock tattoo cup beyond use aerobic timber pottery crater dash |  

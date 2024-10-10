@@ -122,6 +122,18 @@ vanish
 tribe
 hockey
 expose |  
+| bip_39_word_no_space_1 | fog |  
+| bip_39_word_no_space_10 | fogtravelobviouscanteamvanishtribehockeyexposeintact |  
+| bip_39_word_no_space_11 | fogtravelobviouscanteamvanishtribehockeyexposeintactstate |  
+| bip_39_word_no_space_12 | fogtravelobviouscanteamvanishtribehockeyexposeintactstatearrange |  
+| bip_39_word_no_space_2 | fogtravel |  
+| bip_39_word_no_space_3 | fogtravelobvious |  
+| bip_39_word_no_space_4 | fogtravelobviouscan |  
+| bip_39_word_no_space_5 | fogtravelobviouscanteam |  
+| bip_39_word_no_space_6 | fogtravelobviouscanteamvanish |  
+| bip_39_word_no_space_7 | fogtravelobviouscanteamvanishtribe |  
+| bip_39_word_no_space_8 | fogtravelobviouscanteamvanishtribehockey |  
+| bip_39_word_no_space_9 | fogtravelobviouscanteamvanishtribehockeyexpose |  
 | bip_39_word_space_0 | ['fog', 'travel', 'obvious', 'can', 'team', 'vanish', 'tribe', 'hockey', 'expose', 'intact', 'state', 'arrange'] |  
 | bip_39_word_space_1 | fog |  
 | bip_39_word_space_10 | fog travel obvious can team vanish tribe hockey expose intact |  

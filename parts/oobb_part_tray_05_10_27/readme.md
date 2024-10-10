@@ -122,6 +122,18 @@ session
 multiply
 yard
 joy |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelfeaturethoughtpreferluxurysessionmultiplyyardjoywedding |  
+| bip_39_word_no_space_11 | modelfeaturethoughtpreferluxurysessionmultiplyyardjoyweddingdolphin |  
+| bip_39_word_no_space_12 | modelfeaturethoughtpreferluxurysessionmultiplyyardjoyweddingdolphinaccess |  
+| bip_39_word_no_space_2 | modelfeature |  
+| bip_39_word_no_space_3 | modelfeaturethought |  
+| bip_39_word_no_space_4 | modelfeaturethoughtprefer |  
+| bip_39_word_no_space_5 | modelfeaturethoughtpreferluxury |  
+| bip_39_word_no_space_6 | modelfeaturethoughtpreferluxurysession |  
+| bip_39_word_no_space_7 | modelfeaturethoughtpreferluxurysessionmultiply |  
+| bip_39_word_no_space_8 | modelfeaturethoughtpreferluxurysessionmultiplyyard |  
+| bip_39_word_no_space_9 | modelfeaturethoughtpreferluxurysessionmultiplyyardjoy |  
 | bip_39_word_space_0 | ['model', 'feature', 'thought', 'prefer', 'luxury', 'session', 'multiply', 'yard', 'joy', 'wedding', 'dolphin', 'access'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model feature thought prefer luxury session multiply yard joy wedding |  

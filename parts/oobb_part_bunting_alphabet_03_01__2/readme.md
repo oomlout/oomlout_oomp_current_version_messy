@@ -122,6 +122,18 @@ shift
 private
 abandon
 explain |  
+| bip_39_word_no_space_1 | exchange |  
+| bip_39_word_no_space_10 | exchangeplugpatroljeansnameshiftprivateabandonexplainmedia |  
+| bip_39_word_no_space_11 | exchangeplugpatroljeansnameshiftprivateabandonexplainmediamonkey |  
+| bip_39_word_no_space_12 | exchangeplugpatroljeansnameshiftprivateabandonexplainmediamonkeyalpha |  
+| bip_39_word_no_space_2 | exchangeplug |  
+| bip_39_word_no_space_3 | exchangeplugpatrol |  
+| bip_39_word_no_space_4 | exchangeplugpatroljeans |  
+| bip_39_word_no_space_5 | exchangeplugpatroljeansname |  
+| bip_39_word_no_space_6 | exchangeplugpatroljeansnameshift |  
+| bip_39_word_no_space_7 | exchangeplugpatroljeansnameshiftprivate |  
+| bip_39_word_no_space_8 | exchangeplugpatroljeansnameshiftprivateabandon |  
+| bip_39_word_no_space_9 | exchangeplugpatroljeansnameshiftprivateabandonexplain |  
 | bip_39_word_space_0 | ['exchange', 'plug', 'patrol', 'jeans', 'name', 'shift', 'private', 'abandon', 'explain', 'media', 'monkey', 'alpha'] |  
 | bip_39_word_space_1 | exchange |  
 | bip_39_word_space_10 | exchange plug patrol jeans name shift private abandon explain media |  

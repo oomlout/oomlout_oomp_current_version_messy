@@ -122,6 +122,18 @@ rent
 burst
 dance
 verb |  
+| bip_39_word_no_space_1 | safe |  
+| bip_39_word_no_space_10 | safelevelswinghurtokayrentburstdanceverbvelvet |  
+| bip_39_word_no_space_11 | safelevelswinghurtokayrentburstdanceverbvelvetstage |  
+| bip_39_word_no_space_12 | safelevelswinghurtokayrentburstdanceverbvelvetstageamong |  
+| bip_39_word_no_space_2 | safelevel |  
+| bip_39_word_no_space_3 | safelevelswing |  
+| bip_39_word_no_space_4 | safelevelswinghurt |  
+| bip_39_word_no_space_5 | safelevelswinghurtokay |  
+| bip_39_word_no_space_6 | safelevelswinghurtokayrent |  
+| bip_39_word_no_space_7 | safelevelswinghurtokayrentburst |  
+| bip_39_word_no_space_8 | safelevelswinghurtokayrentburstdance |  
+| bip_39_word_no_space_9 | safelevelswinghurtokayrentburstdanceverb |  
 | bip_39_word_space_0 | ['safe', 'level', 'swing', 'hurt', 'okay', 'rent', 'burst', 'dance', 'verb', 'velvet', 'stage', 'among'] |  
 | bip_39_word_space_1 | safe |  
 | bip_39_word_space_10 | safe level swing hurt okay rent burst dance verb velvet |  

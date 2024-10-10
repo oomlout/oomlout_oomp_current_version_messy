@@ -122,6 +122,18 @@ basket
 auto
 excuse
 fantasy |  
+| bip_39_word_no_space_1 | review |  
+| bip_39_word_no_space_10 | reviewsnapcanyonpluckpearbasketautoexcusefantasywagon |  
+| bip_39_word_no_space_11 | reviewsnapcanyonpluckpearbasketautoexcusefantasywagontalk |  
+| bip_39_word_no_space_12 | reviewsnapcanyonpluckpearbasketautoexcusefantasywagontalkaddict |  
+| bip_39_word_no_space_2 | reviewsnap |  
+| bip_39_word_no_space_3 | reviewsnapcanyon |  
+| bip_39_word_no_space_4 | reviewsnapcanyonpluck |  
+| bip_39_word_no_space_5 | reviewsnapcanyonpluckpear |  
+| bip_39_word_no_space_6 | reviewsnapcanyonpluckpearbasket |  
+| bip_39_word_no_space_7 | reviewsnapcanyonpluckpearbasketauto |  
+| bip_39_word_no_space_8 | reviewsnapcanyonpluckpearbasketautoexcuse |  
+| bip_39_word_no_space_9 | reviewsnapcanyonpluckpearbasketautoexcusefantasy |  
 | bip_39_word_space_0 | ['review', 'snap', 'canyon', 'pluck', 'pear', 'basket', 'auto', 'excuse', 'fantasy', 'wagon', 'talk', 'addict'] |  
 | bip_39_word_space_1 | review |  
 | bip_39_word_space_10 | review snap canyon pluck pear basket auto excuse fantasy wagon |  

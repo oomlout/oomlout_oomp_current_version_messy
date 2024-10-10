@@ -122,6 +122,18 @@ pelican
 stone
 vital
 attract |  
+| bip_39_word_no_space_1 | sorry |  
+| bip_39_word_no_space_10 | sorrycameranephewquitenjoypelicanstonevitalattractbasket |  
+| bip_39_word_no_space_11 | sorrycameranephewquitenjoypelicanstonevitalattractbasketexcite |  
+| bip_39_word_no_space_12 | sorrycameranephewquitenjoypelicanstonevitalattractbasketexciteaugust |  
+| bip_39_word_no_space_2 | sorrycamera |  
+| bip_39_word_no_space_3 | sorrycameranephew |  
+| bip_39_word_no_space_4 | sorrycameranephewquit |  
+| bip_39_word_no_space_5 | sorrycameranephewquitenjoy |  
+| bip_39_word_no_space_6 | sorrycameranephewquitenjoypelican |  
+| bip_39_word_no_space_7 | sorrycameranephewquitenjoypelicanstone |  
+| bip_39_word_no_space_8 | sorrycameranephewquitenjoypelicanstonevital |  
+| bip_39_word_no_space_9 | sorrycameranephewquitenjoypelicanstonevitalattract |  
 | bip_39_word_space_0 | ['sorry', 'camera', 'nephew', 'quit', 'enjoy', 'pelican', 'stone', 'vital', 'attract', 'basket', 'excite', 'august'] |  
 | bip_39_word_space_1 | sorry |  
 | bip_39_word_space_10 | sorry camera nephew quit enjoy pelican stone vital attract basket |  

@@ -122,6 +122,18 @@ bind
 spell
 fee
 entire |  
+| bip_39_word_no_space_1 | raw |  
+| bip_39_word_no_space_10 | rawcomicdocumentforwardinmatebindspellfeeentirefeed |  
+| bip_39_word_no_space_11 | rawcomicdocumentforwardinmatebindspellfeeentirefeedfamily |  
+| bip_39_word_no_space_12 | rawcomicdocumentforwardinmatebindspellfeeentirefeedfamilyarm |  
+| bip_39_word_no_space_2 | rawcomic |  
+| bip_39_word_no_space_3 | rawcomicdocument |  
+| bip_39_word_no_space_4 | rawcomicdocumentforward |  
+| bip_39_word_no_space_5 | rawcomicdocumentforwardinmate |  
+| bip_39_word_no_space_6 | rawcomicdocumentforwardinmatebind |  
+| bip_39_word_no_space_7 | rawcomicdocumentforwardinmatebindspell |  
+| bip_39_word_no_space_8 | rawcomicdocumentforwardinmatebindspellfee |  
+| bip_39_word_no_space_9 | rawcomicdocumentforwardinmatebindspellfeeentire |  
 | bip_39_word_space_0 | ['raw', 'comic', 'document', 'forward', 'inmate', 'bind', 'spell', 'fee', 'entire', 'feed', 'family', 'arm'] |  
 | bip_39_word_space_1 | raw |  
 | bip_39_word_space_10 | raw comic document forward inmate bind spell fee entire feed |  

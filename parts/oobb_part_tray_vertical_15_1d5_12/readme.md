@@ -122,6 +122,18 @@ timber
 scatter
 explain
 retreat |  
+| bip_39_word_no_space_1 | text |  
+| bip_39_word_no_space_10 | textripplemajorlittlegrouptimberscatterexplainretreatexpress |  
+| bip_39_word_no_space_11 | textripplemajorlittlegrouptimberscatterexplainretreatexpresshunt |  
+| bip_39_word_no_space_12 | textripplemajorlittlegrouptimberscatterexplainretreatexpresshuntarctic |  
+| bip_39_word_no_space_2 | textripple |  
+| bip_39_word_no_space_3 | textripplemajor |  
+| bip_39_word_no_space_4 | textripplemajorlittle |  
+| bip_39_word_no_space_5 | textripplemajorlittlegroup |  
+| bip_39_word_no_space_6 | textripplemajorlittlegrouptimber |  
+| bip_39_word_no_space_7 | textripplemajorlittlegrouptimberscatter |  
+| bip_39_word_no_space_8 | textripplemajorlittlegrouptimberscatterexplain |  
+| bip_39_word_no_space_9 | textripplemajorlittlegrouptimberscatterexplainretreat |  
 | bip_39_word_space_0 | ['text', 'ripple', 'major', 'little', 'group', 'timber', 'scatter', 'explain', 'retreat', 'express', 'hunt', 'arctic'] |  
 | bip_39_word_space_1 | text |  
 | bip_39_word_space_10 | text ripple major little group timber scatter explain retreat express |  

@@ -122,6 +122,18 @@ winter
 frog
 approve
 edit |  
+| bip_39_word_no_space_1 | gorilla |  
+| bip_39_word_no_space_10 | gorillasadelegantchoicelegwinterfrogapproveeditfine |  
+| bip_39_word_no_space_11 | gorillasadelegantchoicelegwinterfrogapproveeditfinedecade |  
+| bip_39_word_no_space_12 | gorillasadelegantchoicelegwinterfrogapproveeditfinedecadealmost |  
+| bip_39_word_no_space_2 | gorillasad |  
+| bip_39_word_no_space_3 | gorillasadelegant |  
+| bip_39_word_no_space_4 | gorillasadelegantchoice |  
+| bip_39_word_no_space_5 | gorillasadelegantchoiceleg |  
+| bip_39_word_no_space_6 | gorillasadelegantchoicelegwinter |  
+| bip_39_word_no_space_7 | gorillasadelegantchoicelegwinterfrog |  
+| bip_39_word_no_space_8 | gorillasadelegantchoicelegwinterfrogapprove |  
+| bip_39_word_no_space_9 | gorillasadelegantchoicelegwinterfrogapproveedit |  
 | bip_39_word_space_0 | ['gorilla', 'sad', 'elegant', 'choice', 'leg', 'winter', 'frog', 'approve', 'edit', 'fine', 'decade', 'almost'] |  
 | bip_39_word_space_1 | gorilla |  
 | bip_39_word_space_10 | gorilla sad elegant choice leg winter frog approve edit fine |  

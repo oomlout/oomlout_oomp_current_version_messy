@@ -122,6 +122,18 @@ what
 napkin
 swallow
 useful |  
+| bip_39_word_no_space_1 | payment |  
+| bip_39_word_no_space_10 | paymentknifedoublehollowstumblewhatnapkinswallowusefulhood |  
+| bip_39_word_no_space_11 | paymentknifedoublehollowstumblewhatnapkinswallowusefulhoodtilt |  
+| bip_39_word_no_space_12 | paymentknifedoublehollowstumblewhatnapkinswallowusefulhoodtiltabout |  
+| bip_39_word_no_space_2 | paymentknife |  
+| bip_39_word_no_space_3 | paymentknifedouble |  
+| bip_39_word_no_space_4 | paymentknifedoublehollow |  
+| bip_39_word_no_space_5 | paymentknifedoublehollowstumble |  
+| bip_39_word_no_space_6 | paymentknifedoublehollowstumblewhat |  
+| bip_39_word_no_space_7 | paymentknifedoublehollowstumblewhatnapkin |  
+| bip_39_word_no_space_8 | paymentknifedoublehollowstumblewhatnapkinswallow |  
+| bip_39_word_no_space_9 | paymentknifedoublehollowstumblewhatnapkinswallowuseful |  
 | bip_39_word_space_0 | ['payment', 'knife', 'double', 'hollow', 'stumble', 'what', 'napkin', 'swallow', 'useful', 'hood', 'tilt', 'about'] |  
 | bip_39_word_space_1 | payment |  
 | bip_39_word_space_10 | payment knife double hollow stumble what napkin swallow useful hood |  

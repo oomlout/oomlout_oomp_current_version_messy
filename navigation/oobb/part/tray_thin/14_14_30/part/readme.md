@@ -122,6 +122,18 @@ dog
 unveil
 seven
 school |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legcanyontwiceloopfoildogunveilsevenschoolfeed |  
+| bip_39_word_no_space_11 | legcanyontwiceloopfoildogunveilsevenschoolfeedsleep |  
+| bip_39_word_no_space_12 | legcanyontwiceloopfoildogunveilsevenschoolfeedsleeparmy |  
+| bip_39_word_no_space_2 | legcanyon |  
+| bip_39_word_no_space_3 | legcanyontwice |  
+| bip_39_word_no_space_4 | legcanyontwiceloop |  
+| bip_39_word_no_space_5 | legcanyontwiceloopfoil |  
+| bip_39_word_no_space_6 | legcanyontwiceloopfoildog |  
+| bip_39_word_no_space_7 | legcanyontwiceloopfoildogunveil |  
+| bip_39_word_no_space_8 | legcanyontwiceloopfoildogunveilseven |  
+| bip_39_word_no_space_9 | legcanyontwiceloopfoildogunveilsevenschool |  
 | bip_39_word_space_0 | ['leg', 'canyon', 'twice', 'loop', 'foil', 'dog', 'unveil', 'seven', 'school', 'feed', 'sleep', 'army'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg canyon twice loop foil dog unveil seven school feed |  

@@ -122,6 +122,18 @@ will
 chest
 silk
 length |  
+| bip_39_word_no_space_1 | end |  
+| bip_39_word_no_space_10 | endfocuspatterngriefsavewillchestsilklengthweekend |  
+| bip_39_word_no_space_11 | endfocuspatterngriefsavewillchestsilklengthweekendstep |  
+| bip_39_word_no_space_12 | endfocuspatterngriefsavewillchestsilklengthweekendstepalley |  
+| bip_39_word_no_space_2 | endfocus |  
+| bip_39_word_no_space_3 | endfocuspattern |  
+| bip_39_word_no_space_4 | endfocuspatterngrief |  
+| bip_39_word_no_space_5 | endfocuspatterngriefsave |  
+| bip_39_word_no_space_6 | endfocuspatterngriefsavewill |  
+| bip_39_word_no_space_7 | endfocuspatterngriefsavewillchest |  
+| bip_39_word_no_space_8 | endfocuspatterngriefsavewillchestsilk |  
+| bip_39_word_no_space_9 | endfocuspatterngriefsavewillchestsilklength |  
 | bip_39_word_space_0 | ['end', 'focus', 'pattern', 'grief', 'save', 'will', 'chest', 'silk', 'length', 'weekend', 'step', 'alley'] |  
 | bip_39_word_space_1 | end |  
 | bip_39_word_space_10 | end focus pattern grief save will chest silk length weekend |  

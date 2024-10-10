@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'room
   pretty
 
   liquid'
+bip_39_word_no_space_1: room
+bip_39_word_no_space_10: roomturnsincearcticvenuealleyclerkprettyliquidgenre
+bip_39_word_no_space_11: roomturnsincearcticvenuealleyclerkprettyliquidgenreleopard
+bip_39_word_no_space_12: roomturnsincearcticvenuealleyclerkprettyliquidgenreleopardarrow
+bip_39_word_no_space_2: roomturn
+bip_39_word_no_space_3: roomturnsince
+bip_39_word_no_space_4: roomturnsincearctic
+bip_39_word_no_space_5: roomturnsincearcticvenue
+bip_39_word_no_space_6: roomturnsincearcticvenuealley
+bip_39_word_no_space_7: roomturnsincearcticvenuealleyclerk
+bip_39_word_no_space_8: roomturnsincearcticvenuealleyclerkpretty
+bip_39_word_no_space_9: roomturnsincearcticvenuealleyclerkprettyliquid
 bip_39_word_space_0:
 - room
 - turn

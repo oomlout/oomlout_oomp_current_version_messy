@@ -122,6 +122,18 @@ cabin
 fox
 jewel
 rebel |  
+| bip_39_word_no_space_1 | assault |  
+| bip_39_word_no_space_10 | assaulthungryobligetentimpulsecabinfoxjewelrebelvital |  
+| bip_39_word_no_space_11 | assaulthungryobligetentimpulsecabinfoxjewelrebelvitaldefine |  
+| bip_39_word_no_space_12 | assaulthungryobligetentimpulsecabinfoxjewelrebelvitaldefineabove |  
+| bip_39_word_no_space_2 | assaulthungry |  
+| bip_39_word_no_space_3 | assaulthungryoblige |  
+| bip_39_word_no_space_4 | assaulthungryobligetent |  
+| bip_39_word_no_space_5 | assaulthungryobligetentimpulse |  
+| bip_39_word_no_space_6 | assaulthungryobligetentimpulsecabin |  
+| bip_39_word_no_space_7 | assaulthungryobligetentimpulsecabinfox |  
+| bip_39_word_no_space_8 | assaulthungryobligetentimpulsecabinfoxjewel |  
+| bip_39_word_no_space_9 | assaulthungryobligetentimpulsecabinfoxjewelrebel |  
 | bip_39_word_space_0 | ['assault', 'hungry', 'oblige', 'tent', 'impulse', 'cabin', 'fox', 'jewel', 'rebel', 'vital', 'define', 'above'] |  
 | bip_39_word_space_1 | assault |  
 | bip_39_word_space_10 | assault hungry oblige tent impulse cabin fox jewel rebel vital |  

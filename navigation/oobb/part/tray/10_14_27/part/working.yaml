@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'egg
   canal
 
   twelve'
+bip_39_word_no_space_1: egg
+bip_39_word_no_space_10: eggzoodenialopposealwayscoconutcakecanaltwelveexhibit
+bip_39_word_no_space_11: eggzoodenialopposealwayscoconutcakecanaltwelveexhibitemerge
+bip_39_word_no_space_12: eggzoodenialopposealwayscoconutcakecanaltwelveexhibitemergeaspect
+bip_39_word_no_space_2: eggzoo
+bip_39_word_no_space_3: eggzoodenial
+bip_39_word_no_space_4: eggzoodenialoppose
+bip_39_word_no_space_5: eggzoodenialopposealways
+bip_39_word_no_space_6: eggzoodenialopposealwayscoconut
+bip_39_word_no_space_7: eggzoodenialopposealwayscoconutcake
+bip_39_word_no_space_8: eggzoodenialopposealwayscoconutcakecanal
+bip_39_word_no_space_9: eggzoodenialopposealwayscoconutcakecanaltwelve
 bip_39_word_space_0:
 - egg
 - zoo

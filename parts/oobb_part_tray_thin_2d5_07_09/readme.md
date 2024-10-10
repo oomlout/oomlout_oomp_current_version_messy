@@ -122,6 +122,18 @@ work
 spot
 tube
 creek |  
+| bip_39_word_no_space_1 | bar |  
+| bip_39_word_no_space_10 | barmaidbarislandfortuneworkspottubecreeksnap |  
+| bip_39_word_no_space_11 | barmaidbarislandfortuneworkspottubecreeksnaprhythm |  
+| bip_39_word_no_space_12 | barmaidbarislandfortuneworkspottubecreeksnaprhythmactor |  
+| bip_39_word_no_space_2 | barmaid |  
+| bip_39_word_no_space_3 | barmaidbar |  
+| bip_39_word_no_space_4 | barmaidbarisland |  
+| bip_39_word_no_space_5 | barmaidbarislandfortune |  
+| bip_39_word_no_space_6 | barmaidbarislandfortunework |  
+| bip_39_word_no_space_7 | barmaidbarislandfortuneworkspot |  
+| bip_39_word_no_space_8 | barmaidbarislandfortuneworkspottube |  
+| bip_39_word_no_space_9 | barmaidbarislandfortuneworkspottubecreek |  
 | bip_39_word_space_0 | ['bar', 'maid', 'bar', 'island', 'fortune', 'work', 'spot', 'tube', 'creek', 'snap', 'rhythm', 'actor'] |  
 | bip_39_word_space_1 | bar |  
 | bip_39_word_space_10 | bar maid bar island fortune work spot tube creek snap |  

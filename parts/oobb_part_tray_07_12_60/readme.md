@@ -122,6 +122,18 @@ journey
 holiday
 warrior
 gift |  
+| bip_39_word_no_space_1 | food |  
+| bip_39_word_no_space_10 | foodcriticminimumvoyageventurejourneyholidaywarriorgiftassume |  
+| bip_39_word_no_space_11 | foodcriticminimumvoyageventurejourneyholidaywarriorgiftassumegarment |  
+| bip_39_word_no_space_12 | foodcriticminimumvoyageventurejourneyholidaywarriorgiftassumegarmentadvance |  
+| bip_39_word_no_space_2 | foodcritic |  
+| bip_39_word_no_space_3 | foodcriticminimum |  
+| bip_39_word_no_space_4 | foodcriticminimumvoyage |  
+| bip_39_word_no_space_5 | foodcriticminimumvoyageventure |  
+| bip_39_word_no_space_6 | foodcriticminimumvoyageventurejourney |  
+| bip_39_word_no_space_7 | foodcriticminimumvoyageventurejourneyholiday |  
+| bip_39_word_no_space_8 | foodcriticminimumvoyageventurejourneyholidaywarrior |  
+| bip_39_word_no_space_9 | foodcriticminimumvoyageventurejourneyholidaywarriorgift |  
 | bip_39_word_space_0 | ['food', 'critic', 'minimum', 'voyage', 'venture', 'journey', 'holiday', 'warrior', 'gift', 'assume', 'garment', 'advance'] |  
 | bip_39_word_space_1 | food |  
 | bip_39_word_space_10 | food critic minimum voyage venture journey holiday warrior gift assume |  

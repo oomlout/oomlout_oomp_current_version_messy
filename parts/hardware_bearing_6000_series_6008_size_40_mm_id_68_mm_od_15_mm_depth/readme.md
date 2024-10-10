@@ -122,6 +122,18 @@ joy
 horn
 decline
 soda |  
+| bip_39_word_no_space_1 | battle |  
+| bip_39_word_no_space_10 | battlecraftducktheorybicyclejoyhorndeclinesodacinnamon |  
+| bip_39_word_no_space_11 | battlecraftducktheorybicyclejoyhorndeclinesodacinnamonlicense |  
+| bip_39_word_no_space_12 | battlecraftducktheorybicyclejoyhorndeclinesodacinnamonlicensealter |  
+| bip_39_word_no_space_2 | battlecraft |  
+| bip_39_word_no_space_3 | battlecraftduck |  
+| bip_39_word_no_space_4 | battlecraftducktheory |  
+| bip_39_word_no_space_5 | battlecraftducktheorybicycle |  
+| bip_39_word_no_space_6 | battlecraftducktheorybicyclejoy |  
+| bip_39_word_no_space_7 | battlecraftducktheorybicyclejoyhorn |  
+| bip_39_word_no_space_8 | battlecraftducktheorybicyclejoyhorndecline |  
+| bip_39_word_no_space_9 | battlecraftducktheorybicyclejoyhorndeclinesoda |  
 | bip_39_word_space_0 | ['battle', 'craft', 'duck', 'theory', 'bicycle', 'joy', 'horn', 'decline', 'soda', 'cinnamon', 'license', 'alter'] |  
 | bip_39_word_space_1 | battle |  
 | bip_39_word_space_10 | battle craft duck theory bicycle joy horn decline soda cinnamon |  

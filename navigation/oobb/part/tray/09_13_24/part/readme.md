@@ -122,6 +122,18 @@ humble
 exhaust
 crystal
 puppy |  
+| bip_39_word_no_space_1 | depart |  
+| bip_39_word_no_space_10 | departdestroyalarmrocketladderhumbleexhaustcrystalpuppyparent |  
+| bip_39_word_no_space_11 | departdestroyalarmrocketladderhumbleexhaustcrystalpuppyparentnominee |  
+| bip_39_word_no_space_12 | departdestroyalarmrocketladderhumbleexhaustcrystalpuppyparentnomineeamused |  
+| bip_39_word_no_space_2 | departdestroy |  
+| bip_39_word_no_space_3 | departdestroyalarm |  
+| bip_39_word_no_space_4 | departdestroyalarmrocket |  
+| bip_39_word_no_space_5 | departdestroyalarmrocketladder |  
+| bip_39_word_no_space_6 | departdestroyalarmrocketladderhumble |  
+| bip_39_word_no_space_7 | departdestroyalarmrocketladderhumbleexhaust |  
+| bip_39_word_no_space_8 | departdestroyalarmrocketladderhumbleexhaustcrystal |  
+| bip_39_word_no_space_9 | departdestroyalarmrocketladderhumbleexhaustcrystalpuppy |  
 | bip_39_word_space_0 | ['depart', 'destroy', 'alarm', 'rocket', 'ladder', 'humble', 'exhaust', 'crystal', 'puppy', 'parent', 'nominee', 'amused'] |  
 | bip_39_word_space_1 | depart |  
 | bip_39_word_space_10 | depart destroy alarm rocket ladder humble exhaust crystal puppy parent |  

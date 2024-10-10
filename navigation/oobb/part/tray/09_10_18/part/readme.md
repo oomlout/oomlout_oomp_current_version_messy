@@ -122,6 +122,18 @@ you
 quick
 sweet
 can |  
+| bip_39_word_no_space_1 | sad |  
+| bip_39_word_no_space_10 | sadvehiclemansionpigeonfruityouquicksweetcanindoor |  
+| bip_39_word_no_space_11 | sadvehiclemansionpigeonfruityouquicksweetcanindoortaxi |  
+| bip_39_word_no_space_12 | sadvehiclemansionpigeonfruityouquicksweetcanindoortaxiarmy |  
+| bip_39_word_no_space_2 | sadvehicle |  
+| bip_39_word_no_space_3 | sadvehiclemansion |  
+| bip_39_word_no_space_4 | sadvehiclemansionpigeon |  
+| bip_39_word_no_space_5 | sadvehiclemansionpigeonfruit |  
+| bip_39_word_no_space_6 | sadvehiclemansionpigeonfruityou |  
+| bip_39_word_no_space_7 | sadvehiclemansionpigeonfruityouquick |  
+| bip_39_word_no_space_8 | sadvehiclemansionpigeonfruityouquicksweet |  
+| bip_39_word_no_space_9 | sadvehiclemansionpigeonfruityouquicksweetcan |  
 | bip_39_word_space_0 | ['sad', 'vehicle', 'mansion', 'pigeon', 'fruit', 'you', 'quick', 'sweet', 'can', 'indoor', 'taxi', 'army'] |  
 | bip_39_word_space_1 | sad |  
 | bip_39_word_space_10 | sad vehicle mansion pigeon fruit you quick sweet can indoor |  

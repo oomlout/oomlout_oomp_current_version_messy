@@ -122,6 +122,18 @@ notable
 swing
 firm
 gorilla |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkrenewsustainassistusualnotableswingfirmgorillanation |  
+| bip_39_word_no_space_11 | chalkrenewsustainassistusualnotableswingfirmgorillanationlucky |  
+| bip_39_word_no_space_12 | chalkrenewsustainassistusualnotableswingfirmgorillanationluckyassault |  
+| bip_39_word_no_space_2 | chalkrenew |  
+| bip_39_word_no_space_3 | chalkrenewsustain |  
+| bip_39_word_no_space_4 | chalkrenewsustainassist |  
+| bip_39_word_no_space_5 | chalkrenewsustainassistusual |  
+| bip_39_word_no_space_6 | chalkrenewsustainassistusualnotable |  
+| bip_39_word_no_space_7 | chalkrenewsustainassistusualnotableswing |  
+| bip_39_word_no_space_8 | chalkrenewsustainassistusualnotableswingfirm |  
+| bip_39_word_no_space_9 | chalkrenewsustainassistusualnotableswingfirmgorilla |  
 | bip_39_word_space_0 | ['chalk', 'renew', 'sustain', 'assist', 'usual', 'notable', 'swing', 'firm', 'gorilla', 'nation', 'lucky', 'assault'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk renew sustain assist usual notable swing firm gorilla nation |  

@@ -122,6 +122,18 @@ social
 sail
 area
 steel |  
+| bip_39_word_no_space_1 | blame |  
+| bip_39_word_no_space_10 | blamebluerichglovesquaresocialsailareasteelrate |  
+| bip_39_word_no_space_11 | blamebluerichglovesquaresocialsailareasteelratebuyer |  
+| bip_39_word_no_space_12 | blamebluerichglovesquaresocialsailareasteelratebuyerarrow |  
+| bip_39_word_no_space_2 | blameblue |  
+| bip_39_word_no_space_3 | blamebluerich |  
+| bip_39_word_no_space_4 | blamebluerichglove |  
+| bip_39_word_no_space_5 | blamebluerichglovesquare |  
+| bip_39_word_no_space_6 | blamebluerichglovesquaresocial |  
+| bip_39_word_no_space_7 | blamebluerichglovesquaresocialsail |  
+| bip_39_word_no_space_8 | blamebluerichglovesquaresocialsailarea |  
+| bip_39_word_no_space_9 | blamebluerichglovesquaresocialsailareasteel |  
 | bip_39_word_space_0 | ['blame', 'blue', 'rich', 'glove', 'square', 'social', 'sail', 'area', 'steel', 'rate', 'buyer', 'arrow'] |  
 | bip_39_word_space_1 | blame |  
 | bip_39_word_space_10 | blame blue rich glove square social sail area steel rate |  

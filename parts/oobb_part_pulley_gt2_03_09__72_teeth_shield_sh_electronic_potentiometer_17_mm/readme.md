@@ -122,6 +122,18 @@ figure
 dawn
 truck
 deputy |  
+| bip_39_word_no_space_1 | debate |  
+| bip_39_word_no_space_10 | debateurbanbindcenturymeasurefiguredawntruckdeputychaos |  
+| bip_39_word_no_space_11 | debateurbanbindcenturymeasurefiguredawntruckdeputychaosugly |  
+| bip_39_word_no_space_12 | debateurbanbindcenturymeasurefiguredawntruckdeputychaosuglyairport |  
+| bip_39_word_no_space_2 | debateurban |  
+| bip_39_word_no_space_3 | debateurbanbind |  
+| bip_39_word_no_space_4 | debateurbanbindcentury |  
+| bip_39_word_no_space_5 | debateurbanbindcenturymeasure |  
+| bip_39_word_no_space_6 | debateurbanbindcenturymeasurefigure |  
+| bip_39_word_no_space_7 | debateurbanbindcenturymeasurefiguredawn |  
+| bip_39_word_no_space_8 | debateurbanbindcenturymeasurefiguredawntruck |  
+| bip_39_word_no_space_9 | debateurbanbindcenturymeasurefiguredawntruckdeputy |  
 | bip_39_word_space_0 | ['debate', 'urban', 'bind', 'century', 'measure', 'figure', 'dawn', 'truck', 'deputy', 'chaos', 'ugly', 'airport'] |  
 | bip_39_word_space_1 | debate |  
 | bip_39_word_space_10 | debate urban bind century measure figure dawn truck deputy chaos |  

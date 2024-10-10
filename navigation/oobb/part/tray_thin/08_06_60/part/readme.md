@@ -122,6 +122,18 @@ shoot
 alert
 noble
 whip |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidbravedashcerealoffshootalertnoblewhipgauge |  
+| bip_39_word_no_space_11 | afraidbravedashcerealoffshootalertnoblewhipgaugereal |  
+| bip_39_word_no_space_12 | afraidbravedashcerealoffshootalertnoblewhipgaugerealabsent |  
+| bip_39_word_no_space_2 | afraidbrave |  
+| bip_39_word_no_space_3 | afraidbravedash |  
+| bip_39_word_no_space_4 | afraidbravedashcereal |  
+| bip_39_word_no_space_5 | afraidbravedashcerealoff |  
+| bip_39_word_no_space_6 | afraidbravedashcerealoffshoot |  
+| bip_39_word_no_space_7 | afraidbravedashcerealoffshootalert |  
+| bip_39_word_no_space_8 | afraidbravedashcerealoffshootalertnoble |  
+| bip_39_word_no_space_9 | afraidbravedashcerealoffshootalertnoblewhip |  
 | bip_39_word_space_0 | ['afraid', 'brave', 'dash', 'cereal', 'off', 'shoot', 'alert', 'noble', 'whip', 'gauge', 'real', 'absent'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid brave dash cereal off shoot alert noble whip gauge |  

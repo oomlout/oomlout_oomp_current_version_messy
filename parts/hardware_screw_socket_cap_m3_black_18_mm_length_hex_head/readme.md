@@ -122,6 +122,18 @@ universe
 glide
 cream
 cradle |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguaruniqueechosustainsampleuniverseglidecreamcradlesnow |  
+| bip_39_word_no_space_11 | jaguaruniqueechosustainsampleuniverseglidecreamcradlesnowthank |  
+| bip_39_word_no_space_12 | jaguaruniqueechosustainsampleuniverseglidecreamcradlesnowthankacross |  
+| bip_39_word_no_space_2 | jaguarunique |  
+| bip_39_word_no_space_3 | jaguaruniqueecho |  
+| bip_39_word_no_space_4 | jaguaruniqueechosustain |  
+| bip_39_word_no_space_5 | jaguaruniqueechosustainsample |  
+| bip_39_word_no_space_6 | jaguaruniqueechosustainsampleuniverse |  
+| bip_39_word_no_space_7 | jaguaruniqueechosustainsampleuniverseglide |  
+| bip_39_word_no_space_8 | jaguaruniqueechosustainsampleuniverseglidecream |  
+| bip_39_word_no_space_9 | jaguaruniqueechosustainsampleuniverseglidecreamcradle |  
 | bip_39_word_space_0 | ['jaguar', 'unique', 'echo', 'sustain', 'sample', 'universe', 'glide', 'cream', 'cradle', 'snow', 'thank', 'across'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar unique echo sustain sample universe glide cream cradle snow |  

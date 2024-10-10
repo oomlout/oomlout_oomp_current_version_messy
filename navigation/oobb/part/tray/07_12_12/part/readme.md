@@ -122,6 +122,18 @@ access
 lunch
 surround
 video |  
+| bip_39_word_no_space_1 | scatter |  
+| bip_39_word_no_space_10 | scatterlabburdenabsurdhelpaccesslunchsurroundvideomajor |  
+| bip_39_word_no_space_11 | scatterlabburdenabsurdhelpaccesslunchsurroundvideomajorvacuum |  
+| bip_39_word_no_space_12 | scatterlabburdenabsurdhelpaccesslunchsurroundvideomajorvacuumafford |  
+| bip_39_word_no_space_2 | scatterlab |  
+| bip_39_word_no_space_3 | scatterlabburden |  
+| bip_39_word_no_space_4 | scatterlabburdenabsurd |  
+| bip_39_word_no_space_5 | scatterlabburdenabsurdhelp |  
+| bip_39_word_no_space_6 | scatterlabburdenabsurdhelpaccess |  
+| bip_39_word_no_space_7 | scatterlabburdenabsurdhelpaccesslunch |  
+| bip_39_word_no_space_8 | scatterlabburdenabsurdhelpaccesslunchsurround |  
+| bip_39_word_no_space_9 | scatterlabburdenabsurdhelpaccesslunchsurroundvideo |  
 | bip_39_word_space_0 | ['scatter', 'lab', 'burden', 'absurd', 'help', 'access', 'lunch', 'surround', 'video', 'major', 'vacuum', 'afford'] |  
 | bip_39_word_space_1 | scatter |  
 | bip_39_word_space_10 | scatter lab burden absurd help access lunch surround video major |  

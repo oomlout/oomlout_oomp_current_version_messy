@@ -122,6 +122,18 @@ lucky
 enforce
 riot
 park |  
+| bip_39_word_no_space_1 | friend |  
+| bip_39_word_no_space_10 | friendinvitenobleouterpactluckyenforceriotparkamused |  
+| bip_39_word_no_space_11 | friendinvitenobleouterpactluckyenforceriotparkamusedturtle |  
+| bip_39_word_no_space_12 | friendinvitenobleouterpactluckyenforceriotparkamusedturtleabove |  
+| bip_39_word_no_space_2 | friendinvite |  
+| bip_39_word_no_space_3 | friendinvitenoble |  
+| bip_39_word_no_space_4 | friendinvitenobleouter |  
+| bip_39_word_no_space_5 | friendinvitenobleouterpact |  
+| bip_39_word_no_space_6 | friendinvitenobleouterpactlucky |  
+| bip_39_word_no_space_7 | friendinvitenobleouterpactluckyenforce |  
+| bip_39_word_no_space_8 | friendinvitenobleouterpactluckyenforceriot |  
+| bip_39_word_no_space_9 | friendinvitenobleouterpactluckyenforceriotpark |  
 | bip_39_word_space_0 | ['friend', 'invite', 'noble', 'outer', 'pact', 'lucky', 'enforce', 'riot', 'park', 'amused', 'turtle', 'above'] |  
 | bip_39_word_space_1 | friend |  
 | bip_39_word_space_10 | friend invite noble outer pact lucky enforce riot park amused |  

@@ -122,6 +122,18 @@ cloud
 pride
 author
 inmate |  
+| bip_39_word_no_space_1 | crew |  
+| bip_39_word_no_space_10 | crewmeltaliensquarehusbandcloudprideauthorinmategenre |  
+| bip_39_word_no_space_11 | crewmeltaliensquarehusbandcloudprideauthorinmategenrethunder |  
+| bip_39_word_no_space_12 | crewmeltaliensquarehusbandcloudprideauthorinmategenrethunderaccuse |  
+| bip_39_word_no_space_2 | crewmelt |  
+| bip_39_word_no_space_3 | crewmeltalien |  
+| bip_39_word_no_space_4 | crewmeltaliensquare |  
+| bip_39_word_no_space_5 | crewmeltaliensquarehusband |  
+| bip_39_word_no_space_6 | crewmeltaliensquarehusbandcloud |  
+| bip_39_word_no_space_7 | crewmeltaliensquarehusbandcloudpride |  
+| bip_39_word_no_space_8 | crewmeltaliensquarehusbandcloudprideauthor |  
+| bip_39_word_no_space_9 | crewmeltaliensquarehusbandcloudprideauthorinmate |  
 | bip_39_word_space_0 | ['crew', 'melt', 'alien', 'square', 'husband', 'cloud', 'pride', 'author', 'inmate', 'genre', 'thunder', 'accuse'] |  
 | bip_39_word_space_1 | crew |  
 | bip_39_word_space_10 | crew melt alien square husband cloud pride author inmate genre |  

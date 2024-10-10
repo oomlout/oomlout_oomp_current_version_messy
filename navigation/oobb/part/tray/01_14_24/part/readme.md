@@ -122,6 +122,18 @@ mosquito
 solar
 install
 kitchen |  
+| bip_39_word_no_space_1 | fluid |  
+| bip_39_word_no_space_10 | fluidtribeprizejokesoftmosquitosolarinstallkitchenupgrade |  
+| bip_39_word_no_space_11 | fluidtribeprizejokesoftmosquitosolarinstallkitchenupgradefetch |  
+| bip_39_word_no_space_12 | fluidtribeprizejokesoftmosquitosolarinstallkitchenupgradefetchapple |  
+| bip_39_word_no_space_2 | fluidtribe |  
+| bip_39_word_no_space_3 | fluidtribeprize |  
+| bip_39_word_no_space_4 | fluidtribeprizejoke |  
+| bip_39_word_no_space_5 | fluidtribeprizejokesoft |  
+| bip_39_word_no_space_6 | fluidtribeprizejokesoftmosquito |  
+| bip_39_word_no_space_7 | fluidtribeprizejokesoftmosquitosolar |  
+| bip_39_word_no_space_8 | fluidtribeprizejokesoftmosquitosolarinstall |  
+| bip_39_word_no_space_9 | fluidtribeprizejokesoftmosquitosolarinstallkitchen |  
 | bip_39_word_space_0 | ['fluid', 'tribe', 'prize', 'joke', 'soft', 'mosquito', 'solar', 'install', 'kitchen', 'upgrade', 'fetch', 'apple'] |  
 | bip_39_word_space_1 | fluid |  
 | bip_39_word_space_10 | fluid tribe prize joke soft mosquito solar install kitchen upgrade |  

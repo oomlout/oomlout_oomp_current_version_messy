@@ -122,6 +122,18 @@ lava
 dad
 moment
 economy |  
+| bip_39_word_no_space_1 | spawn |  
+| bip_39_word_no_space_10 | spawnamongasthmabelieveinjurylavadadmomenteconomyscience |  
+| bip_39_word_no_space_11 | spawnamongasthmabelieveinjurylavadadmomenteconomyscienceclient |  
+| bip_39_word_no_space_12 | spawnamongasthmabelieveinjurylavadadmomenteconomyscienceclientabstract |  
+| bip_39_word_no_space_2 | spawnamong |  
+| bip_39_word_no_space_3 | spawnamongasthma |  
+| bip_39_word_no_space_4 | spawnamongasthmabelieve |  
+| bip_39_word_no_space_5 | spawnamongasthmabelieveinjury |  
+| bip_39_word_no_space_6 | spawnamongasthmabelieveinjurylava |  
+| bip_39_word_no_space_7 | spawnamongasthmabelieveinjurylavadad |  
+| bip_39_word_no_space_8 | spawnamongasthmabelieveinjurylavadadmoment |  
+| bip_39_word_no_space_9 | spawnamongasthmabelieveinjurylavadadmomenteconomy |  
 | bip_39_word_space_0 | ['spawn', 'among', 'asthma', 'believe', 'injury', 'lava', 'dad', 'moment', 'economy', 'science', 'client', 'abstract'] |  
 | bip_39_word_space_1 | spawn |  
 | bip_39_word_space_10 | spawn among asthma believe injury lava dad moment economy science |  

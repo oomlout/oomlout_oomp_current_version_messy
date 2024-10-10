@@ -122,6 +122,18 @@ under
 switch
 main
 cupboard |  
+| bip_39_word_no_space_1 | credit |  
+| bip_39_word_no_space_10 | creditnationostrichholeremindunderswitchmaincupboardoak |  
+| bip_39_word_no_space_11 | creditnationostrichholeremindunderswitchmaincupboardoakestate |  
+| bip_39_word_no_space_12 | creditnationostrichholeremindunderswitchmaincupboardoakestateasset |  
+| bip_39_word_no_space_2 | creditnation |  
+| bip_39_word_no_space_3 | creditnationostrich |  
+| bip_39_word_no_space_4 | creditnationostrichhole |  
+| bip_39_word_no_space_5 | creditnationostrichholeremind |  
+| bip_39_word_no_space_6 | creditnationostrichholeremindunder |  
+| bip_39_word_no_space_7 | creditnationostrichholeremindunderswitch |  
+| bip_39_word_no_space_8 | creditnationostrichholeremindunderswitchmain |  
+| bip_39_word_no_space_9 | creditnationostrichholeremindunderswitchmaincupboard |  
 | bip_39_word_space_0 | ['credit', 'nation', 'ostrich', 'hole', 'remind', 'under', 'switch', 'main', 'cupboard', 'oak', 'estate', 'asset'] |  
 | bip_39_word_space_1 | credit |  
 | bip_39_word_space_10 | credit nation ostrich hole remind under switch main cupboard oak |  

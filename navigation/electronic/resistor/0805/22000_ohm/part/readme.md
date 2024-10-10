@@ -122,6 +122,18 @@ also
 crop
 friend
 panic |  
+| bip_39_word_no_space_1 | power |  
+| bip_39_word_no_space_10 | powerendrecipealertboatalsocropfriendpanicspot |  
+| bip_39_word_no_space_11 | powerendrecipealertboatalsocropfriendpanicspotivory |  
+| bip_39_word_no_space_12 | powerendrecipealertboatalsocropfriendpanicspotivoryadvice |  
+| bip_39_word_no_space_2 | powerend |  
+| bip_39_word_no_space_3 | powerendrecipe |  
+| bip_39_word_no_space_4 | powerendrecipealert |  
+| bip_39_word_no_space_5 | powerendrecipealertboat |  
+| bip_39_word_no_space_6 | powerendrecipealertboatalso |  
+| bip_39_word_no_space_7 | powerendrecipealertboatalsocrop |  
+| bip_39_word_no_space_8 | powerendrecipealertboatalsocropfriend |  
+| bip_39_word_no_space_9 | powerendrecipealertboatalsocropfriendpanic |  
 | bip_39_word_space_0 | ['power', 'end', 'recipe', 'alert', 'boat', 'also', 'crop', 'friend', 'panic', 'spot', 'ivory', 'advice'] |  
 | bip_39_word_space_1 | power |  
 | bip_39_word_space_10 | power end recipe alert boat also crop friend panic spot |  

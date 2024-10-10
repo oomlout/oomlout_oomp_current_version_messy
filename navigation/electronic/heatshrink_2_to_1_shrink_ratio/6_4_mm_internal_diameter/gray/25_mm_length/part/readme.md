@@ -122,6 +122,18 @@ jump
 sick
 hurt
 flip |  
+| bip_39_word_no_space_1 | twenty |  
+| bip_39_word_no_space_10 | twentyentrymodifyicelessonjumpsickhurtflipsniff |  
+| bip_39_word_no_space_11 | twentyentrymodifyicelessonjumpsickhurtflipsniffeasily |  
+| bip_39_word_no_space_12 | twentyentrymodifyicelessonjumpsickhurtflipsniffeasilyable |  
+| bip_39_word_no_space_2 | twentyentry |  
+| bip_39_word_no_space_3 | twentyentrymodify |  
+| bip_39_word_no_space_4 | twentyentrymodifyice |  
+| bip_39_word_no_space_5 | twentyentrymodifyicelesson |  
+| bip_39_word_no_space_6 | twentyentrymodifyicelessonjump |  
+| bip_39_word_no_space_7 | twentyentrymodifyicelessonjumpsick |  
+| bip_39_word_no_space_8 | twentyentrymodifyicelessonjumpsickhurt |  
+| bip_39_word_no_space_9 | twentyentrymodifyicelessonjumpsickhurtflip |  
 | bip_39_word_space_0 | ['twenty', 'entry', 'modify', 'ice', 'lesson', 'jump', 'sick', 'hurt', 'flip', 'sniff', 'easily', 'able'] |  
 | bip_39_word_space_1 | twenty |  
 | bip_39_word_space_10 | twenty entry modify ice lesson jump sick hurt flip sniff |  

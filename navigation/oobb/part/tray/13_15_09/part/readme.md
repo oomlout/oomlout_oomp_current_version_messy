@@ -122,6 +122,18 @@ pigeon
 blush
 depend
 myth |  
+| bip_39_word_no_space_1 | barrel |  
+| bip_39_word_no_space_10 | barrelfogribbonnephewnestpigeonblushdependmythcopy |  
+| bip_39_word_no_space_11 | barrelfogribbonnephewnestpigeonblushdependmythcopyprint |  
+| bip_39_word_no_space_12 | barrelfogribbonnephewnestpigeonblushdependmythcopyprintadd |  
+| bip_39_word_no_space_2 | barrelfog |  
+| bip_39_word_no_space_3 | barrelfogribbon |  
+| bip_39_word_no_space_4 | barrelfogribbonnephew |  
+| bip_39_word_no_space_5 | barrelfogribbonnephewnest |  
+| bip_39_word_no_space_6 | barrelfogribbonnephewnestpigeon |  
+| bip_39_word_no_space_7 | barrelfogribbonnephewnestpigeonblush |  
+| bip_39_word_no_space_8 | barrelfogribbonnephewnestpigeonblushdepend |  
+| bip_39_word_no_space_9 | barrelfogribbonnephewnestpigeonblushdependmyth |  
 | bip_39_word_space_0 | ['barrel', 'fog', 'ribbon', 'nephew', 'nest', 'pigeon', 'blush', 'depend', 'myth', 'copy', 'print', 'add'] |  
 | bip_39_word_space_1 | barrel |  
 | bip_39_word_space_10 | barrel fog ribbon nephew nest pigeon blush depend myth copy |  

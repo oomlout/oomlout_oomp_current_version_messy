@@ -122,6 +122,18 @@ shy
 enhance
 desert
 card |  
+| bip_39_word_no_space_1 | morning |  
+| bip_39_word_no_space_10 | morningrallyjudgetailrivalshyenhancedesertcardvictory |  
+| bip_39_word_no_space_11 | morningrallyjudgetailrivalshyenhancedesertcardvictorycake |  
+| bip_39_word_no_space_12 | morningrallyjudgetailrivalshyenhancedesertcardvictorycakeassault |  
+| bip_39_word_no_space_2 | morningrally |  
+| bip_39_word_no_space_3 | morningrallyjudge |  
+| bip_39_word_no_space_4 | morningrallyjudgetail |  
+| bip_39_word_no_space_5 | morningrallyjudgetailrival |  
+| bip_39_word_no_space_6 | morningrallyjudgetailrivalshy |  
+| bip_39_word_no_space_7 | morningrallyjudgetailrivalshyenhance |  
+| bip_39_word_no_space_8 | morningrallyjudgetailrivalshyenhancedesert |  
+| bip_39_word_no_space_9 | morningrallyjudgetailrivalshyenhancedesertcard |  
 | bip_39_word_space_0 | ['morning', 'rally', 'judge', 'tail', 'rival', 'shy', 'enhance', 'desert', 'card', 'victory', 'cake', 'assault'] |  
 | bip_39_word_space_1 | morning |  
 | bip_39_word_space_10 | morning rally judge tail rival shy enhance desert card victory |  

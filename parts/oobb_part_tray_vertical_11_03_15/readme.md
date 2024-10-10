@@ -109,6 +109,17 @@ federal
 physical
 web
 require |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangarooflatmarriagealienancientfederalphysicalwebrequirethumb |  
+| bip_39_word_no_space_11 | kangarooflatmarriagealienancientfederalphysicalwebrequirethumbcement |  
+| bip_39_word_no_space_2 | kangarooflat |  
+| bip_39_word_no_space_3 | kangarooflatmarriage |  
+| bip_39_word_no_space_4 | kangarooflatmarriagealien |  
+| bip_39_word_no_space_5 | kangarooflatmarriagealienancient |  
+| bip_39_word_no_space_6 | kangarooflatmarriagealienancientfederal |  
+| bip_39_word_no_space_7 | kangarooflatmarriagealienancientfederalphysical |  
+| bip_39_word_no_space_8 | kangarooflatmarriagealienancientfederalphysicalweb |  
+| bip_39_word_no_space_9 | kangarooflatmarriagealienancientfederalphysicalwebrequire |  
 | bip_39_word_space_0 | ['kangaroo', 'flat', 'marriage', 'alien', 'ancient', 'federal', 'physical', 'web', 'require', 'thumb', 'cement'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo flat marriage alien ancient federal physical web require thumb |  

@@ -122,6 +122,18 @@ purity
 absent
 rich
 place |  
+| bip_39_word_no_space_1 | sphere |  
+| bip_39_word_no_space_10 | spherewinnerexpectlawsuitenablepurityabsentrichplacecoral |  
+| bip_39_word_no_space_11 | spherewinnerexpectlawsuitenablepurityabsentrichplacecoralmember |  
+| bip_39_word_no_space_12 | spherewinnerexpectlawsuitenablepurityabsentrichplacecoralmemberaisle |  
+| bip_39_word_no_space_2 | spherewinner |  
+| bip_39_word_no_space_3 | spherewinnerexpect |  
+| bip_39_word_no_space_4 | spherewinnerexpectlawsuit |  
+| bip_39_word_no_space_5 | spherewinnerexpectlawsuitenable |  
+| bip_39_word_no_space_6 | spherewinnerexpectlawsuitenablepurity |  
+| bip_39_word_no_space_7 | spherewinnerexpectlawsuitenablepurityabsent |  
+| bip_39_word_no_space_8 | spherewinnerexpectlawsuitenablepurityabsentrich |  
+| bip_39_word_no_space_9 | spherewinnerexpectlawsuitenablepurityabsentrichplace |  
 | bip_39_word_space_0 | ['sphere', 'winner', 'expect', 'lawsuit', 'enable', 'purity', 'absent', 'rich', 'place', 'coral', 'member', 'aisle'] |  
 | bip_39_word_space_1 | sphere |  
 | bip_39_word_space_10 | sphere winner expect lawsuit enable purity absent rich place coral |  

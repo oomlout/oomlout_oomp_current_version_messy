@@ -122,6 +122,18 @@ weasel
 blind
 pizza
 vendor |  
+| bip_39_word_no_space_1 | enlist |  
+| bip_39_word_no_space_10 | enlistnoodlecoraldespaircookweaselblindpizzavendorbless |  
+| bip_39_word_no_space_11 | enlistnoodlecoraldespaircookweaselblindpizzavendorblessstyle |  
+| bip_39_word_no_space_12 | enlistnoodlecoraldespaircookweaselblindpizzavendorblessstylealone |  
+| bip_39_word_no_space_2 | enlistnoodle |  
+| bip_39_word_no_space_3 | enlistnoodlecoral |  
+| bip_39_word_no_space_4 | enlistnoodlecoraldespair |  
+| bip_39_word_no_space_5 | enlistnoodlecoraldespaircook |  
+| bip_39_word_no_space_6 | enlistnoodlecoraldespaircookweasel |  
+| bip_39_word_no_space_7 | enlistnoodlecoraldespaircookweaselblind |  
+| bip_39_word_no_space_8 | enlistnoodlecoraldespaircookweaselblindpizza |  
+| bip_39_word_no_space_9 | enlistnoodlecoraldespaircookweaselblindpizzavendor |  
 | bip_39_word_space_0 | ['enlist', 'noodle', 'coral', 'despair', 'cook', 'weasel', 'blind', 'pizza', 'vendor', 'bless', 'style', 'alone'] |  
 | bip_39_word_space_1 | enlist |  
 | bip_39_word_space_10 | enlist noodle coral despair cook weasel blind pizza vendor bless |  

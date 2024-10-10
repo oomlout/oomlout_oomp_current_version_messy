@@ -122,6 +122,18 @@ engine
 fit
 tiger
 sail |  
+| bip_39_word_no_space_1 | car |  
+| bip_39_word_no_space_10 | carstomachneutraldevoteliquidenginefittigersailauto |  
+| bip_39_word_no_space_11 | carstomachneutraldevoteliquidenginefittigersailautoability |  
+| bip_39_word_no_space_12 | carstomachneutraldevoteliquidenginefittigersailautoabilityall |  
+| bip_39_word_no_space_2 | carstomach |  
+| bip_39_word_no_space_3 | carstomachneutral |  
+| bip_39_word_no_space_4 | carstomachneutraldevote |  
+| bip_39_word_no_space_5 | carstomachneutraldevoteliquid |  
+| bip_39_word_no_space_6 | carstomachneutraldevoteliquidengine |  
+| bip_39_word_no_space_7 | carstomachneutraldevoteliquidenginefit |  
+| bip_39_word_no_space_8 | carstomachneutraldevoteliquidenginefittiger |  
+| bip_39_word_no_space_9 | carstomachneutraldevoteliquidenginefittigersail |  
 | bip_39_word_space_0 | ['car', 'stomach', 'neutral', 'devote', 'liquid', 'engine', 'fit', 'tiger', 'sail', 'auto', 'ability', 'all'] |  
 | bip_39_word_space_1 | car |  
 | bip_39_word_space_10 | car stomach neutral devote liquid engine fit tiger sail auto |  

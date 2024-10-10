@@ -122,6 +122,18 @@ example
 eternal
 potato
 innocent |  
+| bip_39_word_no_space_1 | salute |  
+| bip_39_word_no_space_10 | salutebeefdeliverathletewrapexampleeternalpotatoinnocentfork |  
+| bip_39_word_no_space_11 | salutebeefdeliverathletewrapexampleeternalpotatoinnocentforkauction |  
+| bip_39_word_no_space_12 | salutebeefdeliverathletewrapexampleeternalpotatoinnocentforkauctionattack |  
+| bip_39_word_no_space_2 | salutebeef |  
+| bip_39_word_no_space_3 | salutebeefdeliver |  
+| bip_39_word_no_space_4 | salutebeefdeliverathlete |  
+| bip_39_word_no_space_5 | salutebeefdeliverathletewrap |  
+| bip_39_word_no_space_6 | salutebeefdeliverathletewrapexample |  
+| bip_39_word_no_space_7 | salutebeefdeliverathletewrapexampleeternal |  
+| bip_39_word_no_space_8 | salutebeefdeliverathletewrapexampleeternalpotato |  
+| bip_39_word_no_space_9 | salutebeefdeliverathletewrapexampleeternalpotatoinnocent |  
 | bip_39_word_space_0 | ['salute', 'beef', 'deliver', 'athlete', 'wrap', 'example', 'eternal', 'potato', 'innocent', 'fork', 'auction', 'attack'] |  
 | bip_39_word_space_1 | salute |  
 | bip_39_word_space_10 | salute beef deliver athlete wrap example eternal potato innocent fork |  

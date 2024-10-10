@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'awkward
   empty
 
   fury'
+bip_39_word_no_space_1: awkward
+bip_39_word_no_space_10: awkwarddashpowerstaffimmuneevilmetalemptyfuryquality
+bip_39_word_no_space_11: awkwarddashpowerstaffimmuneevilmetalemptyfuryqualitybrain
+bip_39_word_no_space_12: awkwarddashpowerstaffimmuneevilmetalemptyfuryqualitybrainathlete
+bip_39_word_no_space_2: awkwarddash
+bip_39_word_no_space_3: awkwarddashpower
+bip_39_word_no_space_4: awkwarddashpowerstaff
+bip_39_word_no_space_5: awkwarddashpowerstaffimmune
+bip_39_word_no_space_6: awkwarddashpowerstaffimmuneevil
+bip_39_word_no_space_7: awkwarddashpowerstaffimmuneevilmetal
+bip_39_word_no_space_8: awkwarddashpowerstaffimmuneevilmetalempty
+bip_39_word_no_space_9: awkwarddashpowerstaffimmuneevilmetalemptyfury
 bip_39_word_space_0:
 - awkward
 - dash

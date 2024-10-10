@@ -122,6 +122,18 @@ sad
 weird
 alien
 area |  
+| bip_39_word_no_space_1 | toward |  
+| bip_39_word_no_space_10 | towardmarinetrydancejuniorsadweirdalienareawear |  
+| bip_39_word_no_space_11 | towardmarinetrydancejuniorsadweirdalienareawearshine |  
+| bip_39_word_no_space_12 | towardmarinetrydancejuniorsadweirdalienareawearshineadmit |  
+| bip_39_word_no_space_2 | towardmarine |  
+| bip_39_word_no_space_3 | towardmarinetry |  
+| bip_39_word_no_space_4 | towardmarinetrydance |  
+| bip_39_word_no_space_5 | towardmarinetrydancejunior |  
+| bip_39_word_no_space_6 | towardmarinetrydancejuniorsad |  
+| bip_39_word_no_space_7 | towardmarinetrydancejuniorsadweird |  
+| bip_39_word_no_space_8 | towardmarinetrydancejuniorsadweirdalien |  
+| bip_39_word_no_space_9 | towardmarinetrydancejuniorsadweirdalienarea |  
 | bip_39_word_space_0 | ['toward', 'marine', 'try', 'dance', 'junior', 'sad', 'weird', 'alien', 'area', 'wear', 'shine', 'admit'] |  
 | bip_39_word_space_1 | toward |  
 | bip_39_word_space_10 | toward marine try dance junior sad weird alien area wear |  

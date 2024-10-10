@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'thank
   salt
 
   anxiety'
+bip_39_word_no_space_1: thank
+bip_39_word_no_space_10: thankabsorbcranemaplecolorvacuumillegalsaltanxietyarrow
+bip_39_word_no_space_11: thankabsorbcranemaplecolorvacuumillegalsaltanxietyarrowgreen
+bip_39_word_no_space_12: thankabsorbcranemaplecolorvacuumillegalsaltanxietyarrowgreenagree
+bip_39_word_no_space_2: thankabsorb
+bip_39_word_no_space_3: thankabsorbcrane
+bip_39_word_no_space_4: thankabsorbcranemaple
+bip_39_word_no_space_5: thankabsorbcranemaplecolor
+bip_39_word_no_space_6: thankabsorbcranemaplecolorvacuum
+bip_39_word_no_space_7: thankabsorbcranemaplecolorvacuumillegal
+bip_39_word_no_space_8: thankabsorbcranemaplecolorvacuumillegalsalt
+bip_39_word_no_space_9: thankabsorbcranemaplecolorvacuumillegalsaltanxiety
 bip_39_word_space_0:
 - thank
 - absorb

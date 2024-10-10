@@ -122,6 +122,18 @@ good
 joy
 answer
 prosper |  
+| bip_39_word_no_space_1 | laugh |  
+| bip_39_word_no_space_10 | laughcruelwhipcategoryflygoodjoyanswerprospersiren |  
+| bip_39_word_no_space_11 | laughcruelwhipcategoryflygoodjoyanswerprospersirenheight |  
+| bip_39_word_no_space_12 | laughcruelwhipcategoryflygoodjoyanswerprospersirenheightabstract |  
+| bip_39_word_no_space_2 | laughcruel |  
+| bip_39_word_no_space_3 | laughcruelwhip |  
+| bip_39_word_no_space_4 | laughcruelwhipcategory |  
+| bip_39_word_no_space_5 | laughcruelwhipcategoryfly |  
+| bip_39_word_no_space_6 | laughcruelwhipcategoryflygood |  
+| bip_39_word_no_space_7 | laughcruelwhipcategoryflygoodjoy |  
+| bip_39_word_no_space_8 | laughcruelwhipcategoryflygoodjoyanswer |  
+| bip_39_word_no_space_9 | laughcruelwhipcategoryflygoodjoyanswerprosper |  
 | bip_39_word_space_0 | ['laugh', 'cruel', 'whip', 'category', 'fly', 'good', 'joy', 'answer', 'prosper', 'siren', 'height', 'abstract'] |  
 | bip_39_word_space_1 | laugh |  
 | bip_39_word_space_10 | laugh cruel whip category fly good joy answer prosper siren |  

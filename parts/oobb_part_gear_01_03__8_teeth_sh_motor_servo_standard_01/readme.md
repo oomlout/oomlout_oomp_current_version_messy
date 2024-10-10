@@ -122,6 +122,18 @@ pony
 hawk
 possible
 tower |  
+| bip_39_word_no_space_1 | size |  
+| bip_39_word_no_space_10 | sizebriskinjectvolcanogroceryponyhawkpossibletowerorgan |  
+| bip_39_word_no_space_11 | sizebriskinjectvolcanogroceryponyhawkpossibletowerorganswarm |  
+| bip_39_word_no_space_12 | sizebriskinjectvolcanogroceryponyhawkpossibletowerorganswarmalways |  
+| bip_39_word_no_space_2 | sizebrisk |  
+| bip_39_word_no_space_3 | sizebriskinject |  
+| bip_39_word_no_space_4 | sizebriskinjectvolcano |  
+| bip_39_word_no_space_5 | sizebriskinjectvolcanogrocery |  
+| bip_39_word_no_space_6 | sizebriskinjectvolcanogrocerypony |  
+| bip_39_word_no_space_7 | sizebriskinjectvolcanogroceryponyhawk |  
+| bip_39_word_no_space_8 | sizebriskinjectvolcanogroceryponyhawkpossible |  
+| bip_39_word_no_space_9 | sizebriskinjectvolcanogroceryponyhawkpossibletower |  
 | bip_39_word_space_0 | ['size', 'brisk', 'inject', 'volcano', 'grocery', 'pony', 'hawk', 'possible', 'tower', 'organ', 'swarm', 'always'] |  
 | bip_39_word_space_1 | size |  
 | bip_39_word_space_10 | size brisk inject volcano grocery pony hawk possible tower organ |  

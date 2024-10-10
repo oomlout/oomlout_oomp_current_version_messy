@@ -122,6 +122,18 @@ smart
 update
 shiver
 shallow |  
+| bip_39_word_no_space_1 | come |  
+| bip_39_word_no_space_10 | comesortmeshordinarypropertysmartupdateshivershallowdynamic |  
+| bip_39_word_no_space_11 | comesortmeshordinarypropertysmartupdateshivershallowdynamicperson |  
+| bip_39_word_no_space_12 | comesortmeshordinarypropertysmartupdateshivershallowdynamicpersonactual |  
+| bip_39_word_no_space_2 | comesort |  
+| bip_39_word_no_space_3 | comesortmesh |  
+| bip_39_word_no_space_4 | comesortmeshordinary |  
+| bip_39_word_no_space_5 | comesortmeshordinaryproperty |  
+| bip_39_word_no_space_6 | comesortmeshordinarypropertysmart |  
+| bip_39_word_no_space_7 | comesortmeshordinarypropertysmartupdate |  
+| bip_39_word_no_space_8 | comesortmeshordinarypropertysmartupdateshiver |  
+| bip_39_word_no_space_9 | comesortmeshordinarypropertysmartupdateshivershallow |  
 | bip_39_word_space_0 | ['come', 'sort', 'mesh', 'ordinary', 'property', 'smart', 'update', 'shiver', 'shallow', 'dynamic', 'person', 'actual'] |  
 | bip_39_word_space_1 | come |  
 | bip_39_word_space_10 | come sort mesh ordinary property smart update shiver shallow dynamic |  

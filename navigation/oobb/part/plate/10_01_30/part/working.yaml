@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'define
   access
 
   jazz'
+bip_39_word_no_space_1: define
+bip_39_word_no_space_10: definetypedemisestonebleakqualityreadyaccessjazzloyal
+bip_39_word_no_space_11: definetypedemisestonebleakqualityreadyaccessjazzloyalgap
+bip_39_word_no_space_12: definetypedemisestonebleakqualityreadyaccessjazzloyalgapactress
+bip_39_word_no_space_2: definetype
+bip_39_word_no_space_3: definetypedemise
+bip_39_word_no_space_4: definetypedemisestone
+bip_39_word_no_space_5: definetypedemisestonebleak
+bip_39_word_no_space_6: definetypedemisestonebleakquality
+bip_39_word_no_space_7: definetypedemisestonebleakqualityready
+bip_39_word_no_space_8: definetypedemisestonebleakqualityreadyaccess
+bip_39_word_no_space_9: definetypedemisestonebleakqualityreadyaccessjazz
 bip_39_word_space_0:
 - define
 - type

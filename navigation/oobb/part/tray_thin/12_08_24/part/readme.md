@@ -122,6 +122,18 @@ connect
 nut
 divorce
 love |  
+| bip_39_word_no_space_1 | table |  
+| bip_39_word_no_space_10 | tablecricketlawgladcomfortconnectnutdivorceloveposition |  
+| bip_39_word_no_space_11 | tablecricketlawgladcomfortconnectnutdivorcelovepositionpipe |  
+| bip_39_word_no_space_12 | tablecricketlawgladcomfortconnectnutdivorcelovepositionpipeamused |  
+| bip_39_word_no_space_2 | tablecricket |  
+| bip_39_word_no_space_3 | tablecricketlaw |  
+| bip_39_word_no_space_4 | tablecricketlawglad |  
+| bip_39_word_no_space_5 | tablecricketlawgladcomfort |  
+| bip_39_word_no_space_6 | tablecricketlawgladcomfortconnect |  
+| bip_39_word_no_space_7 | tablecricketlawgladcomfortconnectnut |  
+| bip_39_word_no_space_8 | tablecricketlawgladcomfortconnectnutdivorce |  
+| bip_39_word_no_space_9 | tablecricketlawgladcomfortconnectnutdivorcelove |  
 | bip_39_word_space_0 | ['table', 'cricket', 'law', 'glad', 'comfort', 'connect', 'nut', 'divorce', 'love', 'position', 'pipe', 'amused'] |  
 | bip_39_word_space_1 | table |  
 | bip_39_word_space_10 | table cricket law glad comfort connect nut divorce love position |  

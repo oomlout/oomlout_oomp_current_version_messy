@@ -122,6 +122,18 @@ juice
 december
 celery
 tiny |  
+| bip_39_word_no_space_1 | myself |  
+| bip_39_word_no_space_10 | myselfgroceryfollowskintastejuicedecembercelerytinylittle |  
+| bip_39_word_no_space_11 | myselfgroceryfollowskintastejuicedecembercelerytinylittlesoup |  
+| bip_39_word_no_space_12 | myselfgroceryfollowskintastejuicedecembercelerytinylittlesoupalpha |  
+| bip_39_word_no_space_2 | myselfgrocery |  
+| bip_39_word_no_space_3 | myselfgroceryfollow |  
+| bip_39_word_no_space_4 | myselfgroceryfollowskin |  
+| bip_39_word_no_space_5 | myselfgroceryfollowskintaste |  
+| bip_39_word_no_space_6 | myselfgroceryfollowskintastejuice |  
+| bip_39_word_no_space_7 | myselfgroceryfollowskintastejuicedecember |  
+| bip_39_word_no_space_8 | myselfgroceryfollowskintastejuicedecembercelery |  
+| bip_39_word_no_space_9 | myselfgroceryfollowskintastejuicedecembercelerytiny |  
 | bip_39_word_space_0 | ['myself', 'grocery', 'follow', 'skin', 'taste', 'juice', 'december', 'celery', 'tiny', 'little', 'soup', 'alpha'] |  
 | bip_39_word_space_1 | myself |  
 | bip_39_word_space_10 | myself grocery follow skin taste juice december celery tiny little |  

@@ -122,6 +122,18 @@ into
 loop
 mad
 trust |  
+| bip_39_word_no_space_1 | catalog |  
+| bip_39_word_no_space_10 | catalogeagerinvolvejacketsecretintoloopmadtrustmixture |  
+| bip_39_word_no_space_11 | catalogeagerinvolvejacketsecretintoloopmadtrustmixtureconfirm |  
+| bip_39_word_no_space_12 | catalogeagerinvolvejacketsecretintoloopmadtrustmixtureconfirmabstract |  
+| bip_39_word_no_space_2 | catalogeager |  
+| bip_39_word_no_space_3 | catalogeagerinvolve |  
+| bip_39_word_no_space_4 | catalogeagerinvolvejacket |  
+| bip_39_word_no_space_5 | catalogeagerinvolvejacketsecret |  
+| bip_39_word_no_space_6 | catalogeagerinvolvejacketsecretinto |  
+| bip_39_word_no_space_7 | catalogeagerinvolvejacketsecretintoloop |  
+| bip_39_word_no_space_8 | catalogeagerinvolvejacketsecretintoloopmad |  
+| bip_39_word_no_space_9 | catalogeagerinvolvejacketsecretintoloopmadtrust |  
 | bip_39_word_space_0 | ['catalog', 'eager', 'involve', 'jacket', 'secret', 'into', 'loop', 'mad', 'trust', 'mixture', 'confirm', 'abstract'] |  
 | bip_39_word_space_1 | catalog |  
 | bip_39_word_space_10 | catalog eager involve jacket secret into loop mad trust mixture |  

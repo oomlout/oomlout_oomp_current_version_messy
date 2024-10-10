@@ -122,6 +122,18 @@ mixed
 park
 kidney
 chalk |  
+| bip_39_word_no_space_1 | globe |  
+| bip_39_word_no_space_10 | globearchcoilseedbonemixedparkkidneychalkframe |  
+| bip_39_word_no_space_11 | globearchcoilseedbonemixedparkkidneychalkframesand |  
+| bip_39_word_no_space_12 | globearchcoilseedbonemixedparkkidneychalkframesandanchor |  
+| bip_39_word_no_space_2 | globearch |  
+| bip_39_word_no_space_3 | globearchcoil |  
+| bip_39_word_no_space_4 | globearchcoilseed |  
+| bip_39_word_no_space_5 | globearchcoilseedbone |  
+| bip_39_word_no_space_6 | globearchcoilseedbonemixed |  
+| bip_39_word_no_space_7 | globearchcoilseedbonemixedpark |  
+| bip_39_word_no_space_8 | globearchcoilseedbonemixedparkkidney |  
+| bip_39_word_no_space_9 | globearchcoilseedbonemixedparkkidneychalk |  
 | bip_39_word_space_0 | ['globe', 'arch', 'coil', 'seed', 'bone', 'mixed', 'park', 'kidney', 'chalk', 'frame', 'sand', 'anchor'] |  
 | bip_39_word_space_1 | globe |  
 | bip_39_word_space_10 | globe arch coil seed bone mixed park kidney chalk frame |  

@@ -122,6 +122,18 @@ impose
 strategy
 wait
 husband |  
+| bip_39_word_no_space_1 | news |  
+| bip_39_word_no_space_10 | newsstamprigidinputoceanimposestrategywaithusbandwant |  
+| bip_39_word_no_space_11 | newsstamprigidinputoceanimposestrategywaithusbandwantlicense |  
+| bip_39_word_no_space_12 | newsstamprigidinputoceanimposestrategywaithusbandwantlicenseall |  
+| bip_39_word_no_space_2 | newsstamp |  
+| bip_39_word_no_space_3 | newsstamprigid |  
+| bip_39_word_no_space_4 | newsstamprigidinput |  
+| bip_39_word_no_space_5 | newsstamprigidinputocean |  
+| bip_39_word_no_space_6 | newsstamprigidinputoceanimpose |  
+| bip_39_word_no_space_7 | newsstamprigidinputoceanimposestrategy |  
+| bip_39_word_no_space_8 | newsstamprigidinputoceanimposestrategywait |  
+| bip_39_word_no_space_9 | newsstamprigidinputoceanimposestrategywaithusband |  
 | bip_39_word_space_0 | ['news', 'stamp', 'rigid', 'input', 'ocean', 'impose', 'strategy', 'wait', 'husband', 'want', 'license', 'all'] |  
 | bip_39_word_space_1 | news |  
 | bip_39_word_space_10 | news stamp rigid input ocean impose strategy wait husband want |  

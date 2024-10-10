@@ -122,6 +122,18 @@ energy
 mistake
 wage
 frame |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwaycatalogexistobeyenforceenergymistakewageframeegg |  
+| bip_39_word_no_space_11 | runwaycatalogexistobeyenforceenergymistakewageframeeggawake |  
+| bip_39_word_no_space_12 | runwaycatalogexistobeyenforceenergymistakewageframeeggawakeactual |  
+| bip_39_word_no_space_2 | runwaycatalog |  
+| bip_39_word_no_space_3 | runwaycatalogexist |  
+| bip_39_word_no_space_4 | runwaycatalogexistobey |  
+| bip_39_word_no_space_5 | runwaycatalogexistobeyenforce |  
+| bip_39_word_no_space_6 | runwaycatalogexistobeyenforceenergy |  
+| bip_39_word_no_space_7 | runwaycatalogexistobeyenforceenergymistake |  
+| bip_39_word_no_space_8 | runwaycatalogexistobeyenforceenergymistakewage |  
+| bip_39_word_no_space_9 | runwaycatalogexistobeyenforceenergymistakewageframe |  
 | bip_39_word_space_0 | ['runway', 'catalog', 'exist', 'obey', 'enforce', 'energy', 'mistake', 'wage', 'frame', 'egg', 'awake', 'actual'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway catalog exist obey enforce energy mistake wage frame egg |  

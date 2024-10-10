@@ -122,6 +122,18 @@ trigger
 catch
 oval
 better |  
+| bip_39_word_no_space_1 | resist |  
+| bip_39_word_no_space_10 | resistgrieftailvictoryalphatriggercatchovalbettercentury |  
+| bip_39_word_no_space_11 | resistgrieftailvictoryalphatriggercatchovalbettercenturynotable |  
+| bip_39_word_no_space_12 | resistgrieftailvictoryalphatriggercatchovalbettercenturynotableart |  
+| bip_39_word_no_space_2 | resistgrief |  
+| bip_39_word_no_space_3 | resistgrieftail |  
+| bip_39_word_no_space_4 | resistgrieftailvictory |  
+| bip_39_word_no_space_5 | resistgrieftailvictoryalpha |  
+| bip_39_word_no_space_6 | resistgrieftailvictoryalphatrigger |  
+| bip_39_word_no_space_7 | resistgrieftailvictoryalphatriggercatch |  
+| bip_39_word_no_space_8 | resistgrieftailvictoryalphatriggercatchoval |  
+| bip_39_word_no_space_9 | resistgrieftailvictoryalphatriggercatchovalbetter |  
 | bip_39_word_space_0 | ['resist', 'grief', 'tail', 'victory', 'alpha', 'trigger', 'catch', 'oval', 'better', 'century', 'notable', 'art'] |  
 | bip_39_word_space_1 | resist |  
 | bip_39_word_space_10 | resist grief tail victory alpha trigger catch oval better century |  

@@ -122,6 +122,18 @@ affair
 picnic
 jeans
 museum |  
+| bip_39_word_no_space_1 | moral |  
+| bip_39_word_no_space_10 | moralcushionbetraypleaseinjuryaffairpicnicjeansmuseumimpact |  
+| bip_39_word_no_space_11 | moralcushionbetraypleaseinjuryaffairpicnicjeansmuseumimpactkitten |  
+| bip_39_word_no_space_12 | moralcushionbetraypleaseinjuryaffairpicnicjeansmuseumimpactkittenamateur |  
+| bip_39_word_no_space_2 | moralcushion |  
+| bip_39_word_no_space_3 | moralcushionbetray |  
+| bip_39_word_no_space_4 | moralcushionbetrayplease |  
+| bip_39_word_no_space_5 | moralcushionbetraypleaseinjury |  
+| bip_39_word_no_space_6 | moralcushionbetraypleaseinjuryaffair |  
+| bip_39_word_no_space_7 | moralcushionbetraypleaseinjuryaffairpicnic |  
+| bip_39_word_no_space_8 | moralcushionbetraypleaseinjuryaffairpicnicjeans |  
+| bip_39_word_no_space_9 | moralcushionbetraypleaseinjuryaffairpicnicjeansmuseum |  
 | bip_39_word_space_0 | ['moral', 'cushion', 'betray', 'please', 'injury', 'affair', 'picnic', 'jeans', 'museum', 'impact', 'kitten', 'amateur'] |  
 | bip_39_word_space_1 | moral |  
 | bip_39_word_space_10 | moral cushion betray please injury affair picnic jeans museum impact |  

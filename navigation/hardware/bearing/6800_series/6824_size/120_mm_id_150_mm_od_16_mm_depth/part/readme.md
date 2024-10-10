@@ -122,6 +122,18 @@ person
 retire
 turtle
 idea |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonhurryelectricloopjuniorpersonretireturtleideamatrix |  
+| bip_39_word_no_space_11 | lemonhurryelectricloopjuniorpersonretireturtleideamatrixmatrix |  
+| bip_39_word_no_space_12 | lemonhurryelectricloopjuniorpersonretireturtleideamatrixmatrixalmost |  
+| bip_39_word_no_space_2 | lemonhurry |  
+| bip_39_word_no_space_3 | lemonhurryelectric |  
+| bip_39_word_no_space_4 | lemonhurryelectricloop |  
+| bip_39_word_no_space_5 | lemonhurryelectricloopjunior |  
+| bip_39_word_no_space_6 | lemonhurryelectricloopjuniorperson |  
+| bip_39_word_no_space_7 | lemonhurryelectricloopjuniorpersonretire |  
+| bip_39_word_no_space_8 | lemonhurryelectricloopjuniorpersonretireturtle |  
+| bip_39_word_no_space_9 | lemonhurryelectricloopjuniorpersonretireturtleidea |  
 | bip_39_word_space_0 | ['lemon', 'hurry', 'electric', 'loop', 'junior', 'person', 'retire', 'turtle', 'idea', 'matrix', 'matrix', 'almost'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon hurry electric loop junior person retire turtle idea matrix |  

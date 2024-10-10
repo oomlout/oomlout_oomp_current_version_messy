@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'moral
   pony
 
   leopard'
+bip_39_word_no_space_1: moral
+bip_39_word_no_space_10: moralhillgospelsymptomgluemiseryelementponyleopardlottery
+bip_39_word_no_space_11: moralhillgospelsymptomgluemiseryelementponyleopardlotteryangry
+bip_39_word_no_space_12: moralhillgospelsymptomgluemiseryelementponyleopardlotteryangryabout
+bip_39_word_no_space_2: moralhill
+bip_39_word_no_space_3: moralhillgospel
+bip_39_word_no_space_4: moralhillgospelsymptom
+bip_39_word_no_space_5: moralhillgospelsymptomglue
+bip_39_word_no_space_6: moralhillgospelsymptomgluemisery
+bip_39_word_no_space_7: moralhillgospelsymptomgluemiseryelement
+bip_39_word_no_space_8: moralhillgospelsymptomgluemiseryelementpony
+bip_39_word_no_space_9: moralhillgospelsymptomgluemiseryelementponyleopard
 bip_39_word_space_0:
 - moral
 - hill

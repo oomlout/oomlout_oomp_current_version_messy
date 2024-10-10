@@ -122,6 +122,18 @@ easy
 trophy
 pull
 expect |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidayunhappymansioninjurydamageeasytrophypullexpectstrong |  
+| bip_39_word_no_space_11 | holidayunhappymansioninjurydamageeasytrophypullexpectstrongfloat |  
+| bip_39_word_no_space_12 | holidayunhappymansioninjurydamageeasytrophypullexpectstrongfloatagree |  
+| bip_39_word_no_space_2 | holidayunhappy |  
+| bip_39_word_no_space_3 | holidayunhappymansion |  
+| bip_39_word_no_space_4 | holidayunhappymansioninjury |  
+| bip_39_word_no_space_5 | holidayunhappymansioninjurydamage |  
+| bip_39_word_no_space_6 | holidayunhappymansioninjurydamageeasy |  
+| bip_39_word_no_space_7 | holidayunhappymansioninjurydamageeasytrophy |  
+| bip_39_word_no_space_8 | holidayunhappymansioninjurydamageeasytrophypull |  
+| bip_39_word_no_space_9 | holidayunhappymansioninjurydamageeasytrophypullexpect |  
 | bip_39_word_space_0 | ['holiday', 'unhappy', 'mansion', 'injury', 'damage', 'easy', 'trophy', 'pull', 'expect', 'strong', 'float', 'agree'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday unhappy mansion injury damage easy trophy pull expect strong |  

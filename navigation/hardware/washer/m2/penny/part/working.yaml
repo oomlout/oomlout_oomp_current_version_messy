@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tent
   salon
 
   north'
+bip_39_word_no_space_1: tent
+bip_39_word_no_space_10: tentseniortubeliftpagevoidhairsalonnorthbone
+bip_39_word_no_space_11: tentseniortubeliftpagevoidhairsalonnorthboneensure
+bip_39_word_no_space_12: tentseniortubeliftpagevoidhairsalonnorthboneensurealways
+bip_39_word_no_space_2: tentsenior
+bip_39_word_no_space_3: tentseniortube
+bip_39_word_no_space_4: tentseniortubelift
+bip_39_word_no_space_5: tentseniortubeliftpage
+bip_39_word_no_space_6: tentseniortubeliftpagevoid
+bip_39_word_no_space_7: tentseniortubeliftpagevoidhair
+bip_39_word_no_space_8: tentseniortubeliftpagevoidhairsalon
+bip_39_word_no_space_9: tentseniortubeliftpagevoidhairsalonnorth
 bip_39_word_space_0:
 - tent
 - senior

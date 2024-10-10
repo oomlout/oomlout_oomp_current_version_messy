@@ -122,6 +122,18 @@ silent
 hand
 almost
 system |  
+| bip_39_word_no_space_1 | enact |  
+| bip_39_word_no_space_10 | enactuniverseoftensaladfewsilenthandalmostsystemdream |  
+| bip_39_word_no_space_11 | enactuniverseoftensaladfewsilenthandalmostsystemdreamgroup |  
+| bip_39_word_no_space_12 | enactuniverseoftensaladfewsilenthandalmostsystemdreamgroupalien |  
+| bip_39_word_no_space_2 | enactuniverse |  
+| bip_39_word_no_space_3 | enactuniverseoften |  
+| bip_39_word_no_space_4 | enactuniverseoftensalad |  
+| bip_39_word_no_space_5 | enactuniverseoftensaladfew |  
+| bip_39_word_no_space_6 | enactuniverseoftensaladfewsilent |  
+| bip_39_word_no_space_7 | enactuniverseoftensaladfewsilenthand |  
+| bip_39_word_no_space_8 | enactuniverseoftensaladfewsilenthandalmost |  
+| bip_39_word_no_space_9 | enactuniverseoftensaladfewsilenthandalmostsystem |  
 | bip_39_word_space_0 | ['enact', 'universe', 'often', 'salad', 'few', 'silent', 'hand', 'almost', 'system', 'dream', 'group', 'alien'] |  
 | bip_39_word_space_1 | enact |  
 | bip_39_word_space_10 | enact universe often salad few silent hand almost system dream |  

@@ -122,6 +122,18 @@ blouse
 admit
 ride
 grow |  
+| bip_39_word_no_space_1 | pioneer |  
+| bip_39_word_no_space_10 | pioneerviolinshelldrippromoteblouseadmitridegrowdepend |  
+| bip_39_word_no_space_11 | pioneerviolinshelldrippromoteblouseadmitridegrowdependscene |  
+| bip_39_word_no_space_12 | pioneerviolinshelldrippromoteblouseadmitridegrowdependscenealcohol |  
+| bip_39_word_no_space_2 | pioneerviolin |  
+| bip_39_word_no_space_3 | pioneerviolinshell |  
+| bip_39_word_no_space_4 | pioneerviolinshelldrip |  
+| bip_39_word_no_space_5 | pioneerviolinshelldrippromote |  
+| bip_39_word_no_space_6 | pioneerviolinshelldrippromoteblouse |  
+| bip_39_word_no_space_7 | pioneerviolinshelldrippromoteblouseadmit |  
+| bip_39_word_no_space_8 | pioneerviolinshelldrippromoteblouseadmitride |  
+| bip_39_word_no_space_9 | pioneerviolinshelldrippromoteblouseadmitridegrow |  
 | bip_39_word_space_0 | ['pioneer', 'violin', 'shell', 'drip', 'promote', 'blouse', 'admit', 'ride', 'grow', 'depend', 'scene', 'alcohol'] |  
 | bip_39_word_space_1 | pioneer |  
 | bip_39_word_space_10 | pioneer violin shell drip promote blouse admit ride grow depend |  

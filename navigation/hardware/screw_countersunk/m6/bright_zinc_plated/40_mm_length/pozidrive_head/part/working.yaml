@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'end
   catalog
 
   remind'
+bip_39_word_no_space_1: end
+bip_39_word_no_space_10: endtonightdayscenecanalinformbalconycatalogremindgrab
+bip_39_word_no_space_11: endtonightdayscenecanalinformbalconycatalogremindgrabpoverty
+bip_39_word_no_space_12: endtonightdayscenecanalinformbalconycatalogremindgrabpovertyassault
+bip_39_word_no_space_2: endtonight
+bip_39_word_no_space_3: endtonightday
+bip_39_word_no_space_4: endtonightdayscene
+bip_39_word_no_space_5: endtonightdayscenecanal
+bip_39_word_no_space_6: endtonightdayscenecanalinform
+bip_39_word_no_space_7: endtonightdayscenecanalinformbalcony
+bip_39_word_no_space_8: endtonightdayscenecanalinformbalconycatalog
+bip_39_word_no_space_9: endtonightdayscenecanalinformbalconycatalogremind
 bip_39_word_space_0:
 - end
 - tonight

@@ -122,6 +122,18 @@ patch
 buffalo
 left
 calm |  
+| bip_39_word_no_space_1 | maximum |  
+| bip_39_word_no_space_10 | maximumcricketimpulsetradecasinopatchbuffaloleftcalmtheory |  
+| bip_39_word_no_space_11 | maximumcricketimpulsetradecasinopatchbuffaloleftcalmtheoryfire |  
+| bip_39_word_no_space_12 | maximumcricketimpulsetradecasinopatchbuffaloleftcalmtheoryfireasset |  
+| bip_39_word_no_space_2 | maximumcricket |  
+| bip_39_word_no_space_3 | maximumcricketimpulse |  
+| bip_39_word_no_space_4 | maximumcricketimpulsetrade |  
+| bip_39_word_no_space_5 | maximumcricketimpulsetradecasino |  
+| bip_39_word_no_space_6 | maximumcricketimpulsetradecasinopatch |  
+| bip_39_word_no_space_7 | maximumcricketimpulsetradecasinopatchbuffalo |  
+| bip_39_word_no_space_8 | maximumcricketimpulsetradecasinopatchbuffaloleft |  
+| bip_39_word_no_space_9 | maximumcricketimpulsetradecasinopatchbuffaloleftcalm |  
 | bip_39_word_space_0 | ['maximum', 'cricket', 'impulse', 'trade', 'casino', 'patch', 'buffalo', 'left', 'calm', 'theory', 'fire', 'asset'] |  
 | bip_39_word_space_1 | maximum |  
 | bip_39_word_space_10 | maximum cricket impulse trade casino patch buffalo left calm theory |  

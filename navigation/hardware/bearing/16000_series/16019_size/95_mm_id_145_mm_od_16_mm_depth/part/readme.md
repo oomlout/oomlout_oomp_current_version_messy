@@ -122,6 +122,18 @@ hello
 help
 blossom
 rely |  
+| bip_39_word_no_space_1 | behind |  
+| bip_39_word_no_space_10 | behindgloombecausetragiccoyotehellohelpblossomrelytilt |  
+| bip_39_word_no_space_11 | behindgloombecausetragiccoyotehellohelpblossomrelytiltfluid |  
+| bip_39_word_no_space_12 | behindgloombecausetragiccoyotehellohelpblossomrelytiltfluidadapt |  
+| bip_39_word_no_space_2 | behindgloom |  
+| bip_39_word_no_space_3 | behindgloombecause |  
+| bip_39_word_no_space_4 | behindgloombecausetragic |  
+| bip_39_word_no_space_5 | behindgloombecausetragiccoyote |  
+| bip_39_word_no_space_6 | behindgloombecausetragiccoyotehello |  
+| bip_39_word_no_space_7 | behindgloombecausetragiccoyotehellohelp |  
+| bip_39_word_no_space_8 | behindgloombecausetragiccoyotehellohelpblossom |  
+| bip_39_word_no_space_9 | behindgloombecausetragiccoyotehellohelpblossomrely |  
 | bip_39_word_space_0 | ['behind', 'gloom', 'because', 'tragic', 'coyote', 'hello', 'help', 'blossom', 'rely', 'tilt', 'fluid', 'adapt'] |  
 | bip_39_word_space_1 | behind |  
 | bip_39_word_space_10 | behind gloom because tragic coyote hello help blossom rely tilt |  

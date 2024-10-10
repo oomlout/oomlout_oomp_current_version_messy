@@ -122,6 +122,18 @@ direct
 supreme
 poem
 abandon |  
+| bip_39_word_no_space_1 | vote |  
+| bip_39_word_no_space_10 | voteimagelegendawesomestreetdirectsupremepoemabandongroup |  
+| bip_39_word_no_space_11 | voteimagelegendawesomestreetdirectsupremepoemabandongroupknow |  
+| bip_39_word_no_space_12 | voteimagelegendawesomestreetdirectsupremepoemabandongroupknowankle |  
+| bip_39_word_no_space_2 | voteimage |  
+| bip_39_word_no_space_3 | voteimagelegend |  
+| bip_39_word_no_space_4 | voteimagelegendawesome |  
+| bip_39_word_no_space_5 | voteimagelegendawesomestreet |  
+| bip_39_word_no_space_6 | voteimagelegendawesomestreetdirect |  
+| bip_39_word_no_space_7 | voteimagelegendawesomestreetdirectsupreme |  
+| bip_39_word_no_space_8 | voteimagelegendawesomestreetdirectsupremepoem |  
+| bip_39_word_no_space_9 | voteimagelegendawesomestreetdirectsupremepoemabandon |  
 | bip_39_word_space_0 | ['vote', 'image', 'legend', 'awesome', 'street', 'direct', 'supreme', 'poem', 'abandon', 'group', 'know', 'ankle'] |  
 | bip_39_word_space_1 | vote |  
 | bip_39_word_space_10 | vote image legend awesome street direct supreme poem abandon group |  

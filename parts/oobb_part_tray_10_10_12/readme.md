@@ -122,6 +122,18 @@ inspire
 unlock
 soccer
 depth |  
+| bip_39_word_no_space_1 | bargain |  
+| bip_39_word_no_space_10 | bargainintoemploysaladaskinspireunlocksoccerdepthomit |  
+| bip_39_word_no_space_11 | bargainintoemploysaladaskinspireunlocksoccerdepthomitrare |  
+| bip_39_word_no_space_12 | bargainintoemploysaladaskinspireunlocksoccerdepthomitrareadd |  
+| bip_39_word_no_space_2 | bargaininto |  
+| bip_39_word_no_space_3 | bargainintoemploy |  
+| bip_39_word_no_space_4 | bargainintoemploysalad |  
+| bip_39_word_no_space_5 | bargainintoemploysaladask |  
+| bip_39_word_no_space_6 | bargainintoemploysaladaskinspire |  
+| bip_39_word_no_space_7 | bargainintoemploysaladaskinspireunlock |  
+| bip_39_word_no_space_8 | bargainintoemploysaladaskinspireunlocksoccer |  
+| bip_39_word_no_space_9 | bargainintoemploysaladaskinspireunlocksoccerdepth |  
 | bip_39_word_space_0 | ['bargain', 'into', 'employ', 'salad', 'ask', 'inspire', 'unlock', 'soccer', 'depth', 'omit', 'rare', 'add'] |  
 | bip_39_word_space_1 | bargain |  
 | bip_39_word_space_10 | bargain into employ salad ask inspire unlock soccer depth omit |  

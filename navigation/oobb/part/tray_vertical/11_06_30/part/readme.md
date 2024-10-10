@@ -122,6 +122,18 @@ keep
 park
 fold
 bamboo |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlineannouncefreshbelowconfirmkeepparkfoldbamboocorrect |  
+| bip_39_word_no_space_11 | onlineannouncefreshbelowconfirmkeepparkfoldbamboocorrectseries |  
+| bip_39_word_no_space_12 | onlineannouncefreshbelowconfirmkeepparkfoldbamboocorrectseriesairport |  
+| bip_39_word_no_space_2 | onlineannounce |  
+| bip_39_word_no_space_3 | onlineannouncefresh |  
+| bip_39_word_no_space_4 | onlineannouncefreshbelow |  
+| bip_39_word_no_space_5 | onlineannouncefreshbelowconfirm |  
+| bip_39_word_no_space_6 | onlineannouncefreshbelowconfirmkeep |  
+| bip_39_word_no_space_7 | onlineannouncefreshbelowconfirmkeeppark |  
+| bip_39_word_no_space_8 | onlineannouncefreshbelowconfirmkeepparkfold |  
+| bip_39_word_no_space_9 | onlineannouncefreshbelowconfirmkeepparkfoldbamboo |  
 | bip_39_word_space_0 | ['online', 'announce', 'fresh', 'below', 'confirm', 'keep', 'park', 'fold', 'bamboo', 'correct', 'series', 'airport'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online announce fresh below confirm keep park fold bamboo correct |  

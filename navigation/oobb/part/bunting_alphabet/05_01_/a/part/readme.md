@@ -122,6 +122,18 @@ staff
 uncover
 dirt
 motor |  
+| bip_39_word_no_space_1 | where |  
+| bip_39_word_no_space_10 | wherevocalhubfoamconductstaffuncoverdirtmotoralso |  
+| bip_39_word_no_space_11 | wherevocalhubfoamconductstaffuncoverdirtmotoralsoupset |  
+| bip_39_word_no_space_12 | wherevocalhubfoamconductstaffuncoverdirtmotoralsoupsetaisle |  
+| bip_39_word_no_space_2 | wherevocal |  
+| bip_39_word_no_space_3 | wherevocalhub |  
+| bip_39_word_no_space_4 | wherevocalhubfoam |  
+| bip_39_word_no_space_5 | wherevocalhubfoamconduct |  
+| bip_39_word_no_space_6 | wherevocalhubfoamconductstaff |  
+| bip_39_word_no_space_7 | wherevocalhubfoamconductstaffuncover |  
+| bip_39_word_no_space_8 | wherevocalhubfoamconductstaffuncoverdirt |  
+| bip_39_word_no_space_9 | wherevocalhubfoamconductstaffuncoverdirtmotor |  
 | bip_39_word_space_0 | ['where', 'vocal', 'hub', 'foam', 'conduct', 'staff', 'uncover', 'dirt', 'motor', 'also', 'upset', 'aisle'] |  
 | bip_39_word_space_1 | where |  
 | bip_39_word_space_10 | where vocal hub foam conduct staff uncover dirt motor also |  

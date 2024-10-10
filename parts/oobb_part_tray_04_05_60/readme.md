@@ -122,6 +122,18 @@ lake
 below
 provide
 ability |  
+| bip_39_word_no_space_1 | type |  
+| bip_39_word_no_space_10 | typetimberportionidlespotlakebelowprovideabilitycherry |  
+| bip_39_word_no_space_11 | typetimberportionidlespotlakebelowprovideabilitycherrydemise |  
+| bip_39_word_no_space_12 | typetimberportionidlespotlakebelowprovideabilitycherrydemiseamused |  
+| bip_39_word_no_space_2 | typetimber |  
+| bip_39_word_no_space_3 | typetimberportion |  
+| bip_39_word_no_space_4 | typetimberportionidle |  
+| bip_39_word_no_space_5 | typetimberportionidlespot |  
+| bip_39_word_no_space_6 | typetimberportionidlespotlake |  
+| bip_39_word_no_space_7 | typetimberportionidlespotlakebelow |  
+| bip_39_word_no_space_8 | typetimberportionidlespotlakebelowprovide |  
+| bip_39_word_no_space_9 | typetimberportionidlespotlakebelowprovideability |  
 | bip_39_word_space_0 | ['type', 'timber', 'portion', 'idle', 'spot', 'lake', 'below', 'provide', 'ability', 'cherry', 'demise', 'amused'] |  
 | bip_39_word_space_1 | type |  
 | bip_39_word_space_10 | type timber portion idle spot lake below provide ability cherry |  

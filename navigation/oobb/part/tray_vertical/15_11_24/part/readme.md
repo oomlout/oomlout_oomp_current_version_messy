@@ -122,6 +122,18 @@ exotic
 beauty
 ozone
 mosquito |  
+| bip_39_word_no_space_1 | neglect |  
+| bip_39_word_no_space_10 | neglectvalleyvoicespraylendexoticbeautyozonemosquitosong |  
+| bip_39_word_no_space_11 | neglectvalleyvoicespraylendexoticbeautyozonemosquitosongancient |  
+| bip_39_word_no_space_12 | neglectvalleyvoicespraylendexoticbeautyozonemosquitosongancientany |  
+| bip_39_word_no_space_2 | neglectvalley |  
+| bip_39_word_no_space_3 | neglectvalleyvoice |  
+| bip_39_word_no_space_4 | neglectvalleyvoicespray |  
+| bip_39_word_no_space_5 | neglectvalleyvoicespraylend |  
+| bip_39_word_no_space_6 | neglectvalleyvoicespraylendexotic |  
+| bip_39_word_no_space_7 | neglectvalleyvoicespraylendexoticbeauty |  
+| bip_39_word_no_space_8 | neglectvalleyvoicespraylendexoticbeautyozone |  
+| bip_39_word_no_space_9 | neglectvalleyvoicespraylendexoticbeautyozonemosquito |  
 | bip_39_word_space_0 | ['neglect', 'valley', 'voice', 'spray', 'lend', 'exotic', 'beauty', 'ozone', 'mosquito', 'song', 'ancient', 'any'] |  
 | bip_39_word_space_1 | neglect |  
 | bip_39_word_space_10 | neglect valley voice spray lend exotic beauty ozone mosquito song |  

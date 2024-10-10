@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'online
   dynamic
 
   stereo'
+bip_39_word_no_space_1: online
+bip_39_word_no_space_10: onlinesailowndadclosepillcrunchdynamicstereosoul
+bip_39_word_no_space_11: onlinesailowndadclosepillcrunchdynamicstereosoulcotton
+bip_39_word_no_space_12: onlinesailowndadclosepillcrunchdynamicstereosoulcottonart
+bip_39_word_no_space_2: onlinesail
+bip_39_word_no_space_3: onlinesailown
+bip_39_word_no_space_4: onlinesailowndad
+bip_39_word_no_space_5: onlinesailowndadclose
+bip_39_word_no_space_6: onlinesailowndadclosepill
+bip_39_word_no_space_7: onlinesailowndadclosepillcrunch
+bip_39_word_no_space_8: onlinesailowndadclosepillcrunchdynamic
+bip_39_word_no_space_9: onlinesailowndadclosepillcrunchdynamicstereo
 bip_39_word_space_0:
 - online
 - sail

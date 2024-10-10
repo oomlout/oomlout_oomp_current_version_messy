@@ -122,6 +122,18 @@ wedding
 smart
 furnace
 thrive |  
+| bip_39_word_no_space_1 | trigger |  
+| bip_39_word_no_space_10 | triggerinviteeasilydenyshortweddingsmartfurnacethrivefaint |  
+| bip_39_word_no_space_11 | triggerinviteeasilydenyshortweddingsmartfurnacethrivefaintmonster |  
+| bip_39_word_no_space_12 | triggerinviteeasilydenyshortweddingsmartfurnacethrivefaintmonsterapart |  
+| bip_39_word_no_space_2 | triggerinvite |  
+| bip_39_word_no_space_3 | triggerinviteeasily |  
+| bip_39_word_no_space_4 | triggerinviteeasilydeny |  
+| bip_39_word_no_space_5 | triggerinviteeasilydenyshort |  
+| bip_39_word_no_space_6 | triggerinviteeasilydenyshortwedding |  
+| bip_39_word_no_space_7 | triggerinviteeasilydenyshortweddingsmart |  
+| bip_39_word_no_space_8 | triggerinviteeasilydenyshortweddingsmartfurnace |  
+| bip_39_word_no_space_9 | triggerinviteeasilydenyshortweddingsmartfurnacethrive |  
 | bip_39_word_space_0 | ['trigger', 'invite', 'easily', 'deny', 'short', 'wedding', 'smart', 'furnace', 'thrive', 'faint', 'monster', 'apart'] |  
 | bip_39_word_space_1 | trigger |  
 | bip_39_word_space_10 | trigger invite easily deny short wedding smart furnace thrive faint |  

@@ -122,6 +122,18 @@ collect
 castle
 trial
 arrest |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennisairportwarrioranchorfishcollectcastletrialarrestblush |  
+| bip_39_word_no_space_11 | tennisairportwarrioranchorfishcollectcastletrialarrestblushnetwork |  
+| bip_39_word_no_space_12 | tennisairportwarrioranchorfishcollectcastletrialarrestblushnetworkafford |  
+| bip_39_word_no_space_2 | tennisairport |  
+| bip_39_word_no_space_3 | tennisairportwarrior |  
+| bip_39_word_no_space_4 | tennisairportwarrioranchor |  
+| bip_39_word_no_space_5 | tennisairportwarrioranchorfish |  
+| bip_39_word_no_space_6 | tennisairportwarrioranchorfishcollect |  
+| bip_39_word_no_space_7 | tennisairportwarrioranchorfishcollectcastle |  
+| bip_39_word_no_space_8 | tennisairportwarrioranchorfishcollectcastletrial |  
+| bip_39_word_no_space_9 | tennisairportwarrioranchorfishcollectcastletrialarrest |  
 | bip_39_word_space_0 | ['tennis', 'airport', 'warrior', 'anchor', 'fish', 'collect', 'castle', 'trial', 'arrest', 'blush', 'network', 'afford'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis airport warrior anchor fish collect castle trial arrest blush |  

@@ -122,6 +122,18 @@ turtle
 scale
 globe
 produce |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltextendthoughtmeasureradioturtlescaleglobeproducegiraffe |  
+| bip_39_word_no_space_11 | beltextendthoughtmeasureradioturtlescaleglobeproducegiraffetreat |  
+| bip_39_word_no_space_12 | beltextendthoughtmeasureradioturtlescaleglobeproducegiraffetreatair |  
+| bip_39_word_no_space_2 | beltextend |  
+| bip_39_word_no_space_3 | beltextendthought |  
+| bip_39_word_no_space_4 | beltextendthoughtmeasure |  
+| bip_39_word_no_space_5 | beltextendthoughtmeasureradio |  
+| bip_39_word_no_space_6 | beltextendthoughtmeasureradioturtle |  
+| bip_39_word_no_space_7 | beltextendthoughtmeasureradioturtlescale |  
+| bip_39_word_no_space_8 | beltextendthoughtmeasureradioturtlescaleglobe |  
+| bip_39_word_no_space_9 | beltextendthoughtmeasureradioturtlescaleglobeproduce |  
 | bip_39_word_space_0 | ['belt', 'extend', 'thought', 'measure', 'radio', 'turtle', 'scale', 'globe', 'produce', 'giraffe', 'treat', 'air'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt extend thought measure radio turtle scale globe produce giraffe |  

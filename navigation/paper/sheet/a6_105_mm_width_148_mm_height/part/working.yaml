@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spice
   liquid
 
   creek'
+bip_39_word_no_space_1: spice
+bip_39_word_no_space_10: spicefencetopplepillbreadgarbagecanoeliquidcreekpolar
+bip_39_word_no_space_11: spicefencetopplepillbreadgarbagecanoeliquidcreekpolarpenalty
+bip_39_word_no_space_12: spicefencetopplepillbreadgarbagecanoeliquidcreekpolarpenaltyarea
+bip_39_word_no_space_2: spicefence
+bip_39_word_no_space_3: spicefencetopple
+bip_39_word_no_space_4: spicefencetopplepill
+bip_39_word_no_space_5: spicefencetopplepillbread
+bip_39_word_no_space_6: spicefencetopplepillbreadgarbage
+bip_39_word_no_space_7: spicefencetopplepillbreadgarbagecanoe
+bip_39_word_no_space_8: spicefencetopplepillbreadgarbagecanoeliquid
+bip_39_word_no_space_9: spicefencetopplepillbreadgarbagecanoeliquidcreek
 bip_39_word_space_0:
 - spice
 - fence

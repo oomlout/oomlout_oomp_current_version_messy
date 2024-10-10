@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'earn
   govern
 
   crazy'
+bip_39_word_no_space_1: earn
+bip_39_word_no_space_10: earngrassdizzydependtwocageenjoygoverncrazytumble
+bip_39_word_no_space_11: earngrassdizzydependtwocageenjoygoverncrazytumblefew
+bip_39_word_no_space_12: earngrassdizzydependtwocageenjoygoverncrazytumblefewantenna
+bip_39_word_no_space_2: earngrass
+bip_39_word_no_space_3: earngrassdizzy
+bip_39_word_no_space_4: earngrassdizzydepend
+bip_39_word_no_space_5: earngrassdizzydependtwo
+bip_39_word_no_space_6: earngrassdizzydependtwocage
+bip_39_word_no_space_7: earngrassdizzydependtwocageenjoy
+bip_39_word_no_space_8: earngrassdizzydependtwocageenjoygovern
+bip_39_word_no_space_9: earngrassdizzydependtwocageenjoygoverncrazy
 bip_39_word_space_0:
 - earn
 - grass

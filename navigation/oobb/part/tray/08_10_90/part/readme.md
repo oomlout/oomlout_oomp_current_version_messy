@@ -122,6 +122,18 @@ elite
 cargo
 switch
 carpet |  
+| bip_39_word_no_space_1 | modify |  
+| bip_39_word_no_space_10 | modifypledgecastlespherecropelitecargoswitchcarpetmuffin |  
+| bip_39_word_no_space_11 | modifypledgecastlespherecropelitecargoswitchcarpetmuffinwisdom |  
+| bip_39_word_no_space_12 | modifypledgecastlespherecropelitecargoswitchcarpetmuffinwisdomaim |  
+| bip_39_word_no_space_2 | modifypledge |  
+| bip_39_word_no_space_3 | modifypledgecastle |  
+| bip_39_word_no_space_4 | modifypledgecastlesphere |  
+| bip_39_word_no_space_5 | modifypledgecastlespherecrop |  
+| bip_39_word_no_space_6 | modifypledgecastlespherecropelite |  
+| bip_39_word_no_space_7 | modifypledgecastlespherecropelitecargo |  
+| bip_39_word_no_space_8 | modifypledgecastlespherecropelitecargoswitch |  
+| bip_39_word_no_space_9 | modifypledgecastlespherecropelitecargoswitchcarpet |  
 | bip_39_word_space_0 | ['modify', 'pledge', 'castle', 'sphere', 'crop', 'elite', 'cargo', 'switch', 'carpet', 'muffin', 'wisdom', 'aim'] |  
 | bip_39_word_space_1 | modify |  
 | bip_39_word_space_10 | modify pledge castle sphere crop elite cargo switch carpet muffin |  

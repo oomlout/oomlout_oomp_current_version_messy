@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'crash
   useful
 
   total'
+bip_39_word_no_space_1: crash
+bip_39_word_no_space_10: crashunlockbrotherdealfixflagdrumusefultotalthrow
+bip_39_word_no_space_11: crashunlockbrotherdealfixflagdrumusefultotalthrowdescribe
+bip_39_word_no_space_12: crashunlockbrotherdealfixflagdrumusefultotalthrowdescribealmost
+bip_39_word_no_space_2: crashunlock
+bip_39_word_no_space_3: crashunlockbrother
+bip_39_word_no_space_4: crashunlockbrotherdeal
+bip_39_word_no_space_5: crashunlockbrotherdealfix
+bip_39_word_no_space_6: crashunlockbrotherdealfixflag
+bip_39_word_no_space_7: crashunlockbrotherdealfixflagdrum
+bip_39_word_no_space_8: crashunlockbrotherdealfixflagdrumuseful
+bip_39_word_no_space_9: crashunlockbrotherdealfixflagdrumusefultotal
 bip_39_word_space_0:
 - crash
 - unlock

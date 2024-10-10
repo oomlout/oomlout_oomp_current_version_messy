@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'unlock
   quarter
 
   mesh'
+bip_39_word_no_space_1: unlock
+bip_39_word_no_space_10: unlockhiredifferamazingawfulmarchtheyquartermeshbox
+bip_39_word_no_space_11: unlockhiredifferamazingawfulmarchtheyquartermeshboxlounge
+bip_39_word_no_space_12: unlockhiredifferamazingawfulmarchtheyquartermeshboxloungearmor
+bip_39_word_no_space_2: unlockhire
+bip_39_word_no_space_3: unlockhirediffer
+bip_39_word_no_space_4: unlockhiredifferamazing
+bip_39_word_no_space_5: unlockhiredifferamazingawful
+bip_39_word_no_space_6: unlockhiredifferamazingawfulmarch
+bip_39_word_no_space_7: unlockhiredifferamazingawfulmarchthey
+bip_39_word_no_space_8: unlockhiredifferamazingawfulmarchtheyquarter
+bip_39_word_no_space_9: unlockhiredifferamazingawfulmarchtheyquartermesh
 bip_39_word_space_0:
 - unlock
 - hire

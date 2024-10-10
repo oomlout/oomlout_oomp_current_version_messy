@@ -122,6 +122,18 @@ tragic
 bar
 finger
 way |  
+| bip_39_word_no_space_1 | salute |  
+| bip_39_word_no_space_10 | saluteironheightroundskulltragicbarfingerwayforum |  
+| bip_39_word_no_space_11 | saluteironheightroundskulltragicbarfingerwayforumcloud |  
+| bip_39_word_no_space_12 | saluteironheightroundskulltragicbarfingerwayforumcloudattract |  
+| bip_39_word_no_space_2 | saluteiron |  
+| bip_39_word_no_space_3 | saluteironheight |  
+| bip_39_word_no_space_4 | saluteironheightround |  
+| bip_39_word_no_space_5 | saluteironheightroundskull |  
+| bip_39_word_no_space_6 | saluteironheightroundskulltragic |  
+| bip_39_word_no_space_7 | saluteironheightroundskulltragicbar |  
+| bip_39_word_no_space_8 | saluteironheightroundskulltragicbarfinger |  
+| bip_39_word_no_space_9 | saluteironheightroundskulltragicbarfingerway |  
 | bip_39_word_space_0 | ['salute', 'iron', 'height', 'round', 'skull', 'tragic', 'bar', 'finger', 'way', 'forum', 'cloud', 'attract'] |  
 | bip_39_word_space_1 | salute |  
 | bip_39_word_space_10 | salute iron height round skull tragic bar finger way forum |  

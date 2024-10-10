@@ -122,6 +122,18 @@ ribbon
 trend
 sausage
 key |  
+| bip_39_word_no_space_1 | captain |  
+| bip_39_word_no_space_10 | captainfaithconfirmpigraiseribbontrendsausagekeyjoke |  
+| bip_39_word_no_space_11 | captainfaithconfirmpigraiseribbontrendsausagekeyjokepulp |  
+| bip_39_word_no_space_12 | captainfaithconfirmpigraiseribbontrendsausagekeyjokepulpaccuse |  
+| bip_39_word_no_space_2 | captainfaith |  
+| bip_39_word_no_space_3 | captainfaithconfirm |  
+| bip_39_word_no_space_4 | captainfaithconfirmpig |  
+| bip_39_word_no_space_5 | captainfaithconfirmpigraise |  
+| bip_39_word_no_space_6 | captainfaithconfirmpigraiseribbon |  
+| bip_39_word_no_space_7 | captainfaithconfirmpigraiseribbontrend |  
+| bip_39_word_no_space_8 | captainfaithconfirmpigraiseribbontrendsausage |  
+| bip_39_word_no_space_9 | captainfaithconfirmpigraiseribbontrendsausagekey |  
 | bip_39_word_space_0 | ['captain', 'faith', 'confirm', 'pig', 'raise', 'ribbon', 'trend', 'sausage', 'key', 'joke', 'pulp', 'accuse'] |  
 | bip_39_word_space_1 | captain |  
 | bip_39_word_space_10 | captain faith confirm pig raise ribbon trend sausage key joke |  

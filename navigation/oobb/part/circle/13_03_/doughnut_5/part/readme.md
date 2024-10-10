@@ -122,6 +122,18 @@ best
 basic
 sustain
 fork |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramtypicalovenmediapolebestbasicsustainforkclean |  
+| bip_39_word_no_space_11 | cramtypicalovenmediapolebestbasicsustainforkcleanforce |  
+| bip_39_word_no_space_12 | cramtypicalovenmediapolebestbasicsustainforkcleanforceantique |  
+| bip_39_word_no_space_2 | cramtypical |  
+| bip_39_word_no_space_3 | cramtypicaloven |  
+| bip_39_word_no_space_4 | cramtypicalovenmedia |  
+| bip_39_word_no_space_5 | cramtypicalovenmediapole |  
+| bip_39_word_no_space_6 | cramtypicalovenmediapolebest |  
+| bip_39_word_no_space_7 | cramtypicalovenmediapolebestbasic |  
+| bip_39_word_no_space_8 | cramtypicalovenmediapolebestbasicsustain |  
+| bip_39_word_no_space_9 | cramtypicalovenmediapolebestbasicsustainfork |  
 | bip_39_word_space_0 | ['cram', 'typical', 'oven', 'media', 'pole', 'best', 'basic', 'sustain', 'fork', 'clean', 'force', 'antique'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram typical oven media pole best basic sustain fork clean |  

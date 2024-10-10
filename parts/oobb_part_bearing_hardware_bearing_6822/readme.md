@@ -122,6 +122,18 @@ across
 hold
 woman
 rubber |  
+| bip_39_word_no_space_1 | knee |  
+| bip_39_word_no_space_10 | kneemonthcoffeerailturkeyacrossholdwomanrubberprimary |  
+| bip_39_word_no_space_11 | kneemonthcoffeerailturkeyacrossholdwomanrubberprimaryunveil |  
+| bip_39_word_no_space_12 | kneemonthcoffeerailturkeyacrossholdwomanrubberprimaryunveilamateur |  
+| bip_39_word_no_space_2 | kneemonth |  
+| bip_39_word_no_space_3 | kneemonthcoffee |  
+| bip_39_word_no_space_4 | kneemonthcoffeerail |  
+| bip_39_word_no_space_5 | kneemonthcoffeerailturkey |  
+| bip_39_word_no_space_6 | kneemonthcoffeerailturkeyacross |  
+| bip_39_word_no_space_7 | kneemonthcoffeerailturkeyacrosshold |  
+| bip_39_word_no_space_8 | kneemonthcoffeerailturkeyacrossholdwoman |  
+| bip_39_word_no_space_9 | kneemonthcoffeerailturkeyacrossholdwomanrubber |  
 | bip_39_word_space_0 | ['knee', 'month', 'coffee', 'rail', 'turkey', 'across', 'hold', 'woman', 'rubber', 'primary', 'unveil', 'amateur'] |  
 | bip_39_word_space_1 | knee |  
 | bip_39_word_space_10 | knee month coffee rail turkey across hold woman rubber primary |  

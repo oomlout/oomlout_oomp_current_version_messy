@@ -122,6 +122,18 @@ orbit
 west
 twenty
 host |  
+| bip_39_word_no_space_1 | dutch |  
+| bip_39_word_no_space_10 | dutchripplesecuritygasfloororbitwesttwentyhostocean |  
+| bip_39_word_no_space_11 | dutchripplesecuritygasfloororbitwesttwentyhostoceanfine |  
+| bip_39_word_no_space_12 | dutchripplesecuritygasfloororbitwesttwentyhostoceanfineability |  
+| bip_39_word_no_space_2 | dutchripple |  
+| bip_39_word_no_space_3 | dutchripplesecurity |  
+| bip_39_word_no_space_4 | dutchripplesecuritygas |  
+| bip_39_word_no_space_5 | dutchripplesecuritygasfloor |  
+| bip_39_word_no_space_6 | dutchripplesecuritygasfloororbit |  
+| bip_39_word_no_space_7 | dutchripplesecuritygasfloororbitwest |  
+| bip_39_word_no_space_8 | dutchripplesecuritygasfloororbitwesttwenty |  
+| bip_39_word_no_space_9 | dutchripplesecuritygasfloororbitwesttwentyhost |  
 | bip_39_word_space_0 | ['dutch', 'ripple', 'security', 'gas', 'floor', 'orbit', 'west', 'twenty', 'host', 'ocean', 'fine', 'ability'] |  
 | bip_39_word_space_1 | dutch |  
 | bip_39_word_space_10 | dutch ripple security gas floor orbit west twenty host ocean |  

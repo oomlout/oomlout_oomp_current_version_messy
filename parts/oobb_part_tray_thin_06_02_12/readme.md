@@ -122,6 +122,18 @@ fan
 address
 daughter
 devote |  
+| bip_39_word_no_space_1 | act |  
+| bip_39_word_no_space_10 | actvalvevanishpledgeoakfanaddressdaughterdevotesunset |  
+| bip_39_word_no_space_11 | actvalvevanishpledgeoakfanaddressdaughterdevotesunsetlemon |  
+| bip_39_word_no_space_12 | actvalvevanishpledgeoakfanaddressdaughterdevotesunsetlemonart |  
+| bip_39_word_no_space_2 | actvalve |  
+| bip_39_word_no_space_3 | actvalvevanish |  
+| bip_39_word_no_space_4 | actvalvevanishpledge |  
+| bip_39_word_no_space_5 | actvalvevanishpledgeoak |  
+| bip_39_word_no_space_6 | actvalvevanishpledgeoakfan |  
+| bip_39_word_no_space_7 | actvalvevanishpledgeoakfanaddress |  
+| bip_39_word_no_space_8 | actvalvevanishpledgeoakfanaddressdaughter |  
+| bip_39_word_no_space_9 | actvalvevanishpledgeoakfanaddressdaughterdevote |  
 | bip_39_word_space_0 | ['act', 'valve', 'vanish', 'pledge', 'oak', 'fan', 'address', 'daughter', 'devote', 'sunset', 'lemon', 'art'] |  
 | bip_39_word_space_1 | act |  
 | bip_39_word_space_10 | act valve vanish pledge oak fan address daughter devote sunset |  

@@ -122,6 +122,18 @@ decade
 pause
 shed
 destroy |  
+| bip_39_word_no_space_1 | card |  
+| bip_39_word_no_space_10 | cardrecyclewitnesstentinputdecadepausesheddestroypurpose |  
+| bip_39_word_no_space_11 | cardrecyclewitnesstentinputdecadepausesheddestroypurposecivil |  
+| bip_39_word_no_space_12 | cardrecyclewitnesstentinputdecadepausesheddestroypurposecivilaction |  
+| bip_39_word_no_space_2 | cardrecycle |  
+| bip_39_word_no_space_3 | cardrecyclewitness |  
+| bip_39_word_no_space_4 | cardrecyclewitnesstent |  
+| bip_39_word_no_space_5 | cardrecyclewitnesstentinput |  
+| bip_39_word_no_space_6 | cardrecyclewitnesstentinputdecade |  
+| bip_39_word_no_space_7 | cardrecyclewitnesstentinputdecadepause |  
+| bip_39_word_no_space_8 | cardrecyclewitnesstentinputdecadepauseshed |  
+| bip_39_word_no_space_9 | cardrecyclewitnesstentinputdecadepausesheddestroy |  
 | bip_39_word_space_0 | ['card', 'recycle', 'witness', 'tent', 'input', 'decade', 'pause', 'shed', 'destroy', 'purpose', 'civil', 'action'] |  
 | bip_39_word_space_1 | card |  
 | bip_39_word_space_10 | card recycle witness tent input decade pause shed destroy purpose |  

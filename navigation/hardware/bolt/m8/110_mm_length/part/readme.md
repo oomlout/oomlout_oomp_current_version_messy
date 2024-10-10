@@ -122,6 +122,18 @@ riot
 custom
 avocado
 soft |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatbonestoolthiscurveriotcustomavocadosoftrepair |  
+| bip_39_word_no_space_11 | boatbonestoolthiscurveriotcustomavocadosoftrepairdragon |  
+| bip_39_word_no_space_12 | boatbonestoolthiscurveriotcustomavocadosoftrepairdragonalmost |  
+| bip_39_word_no_space_2 | boatbone |  
+| bip_39_word_no_space_3 | boatbonestool |  
+| bip_39_word_no_space_4 | boatbonestoolthis |  
+| bip_39_word_no_space_5 | boatbonestoolthiscurve |  
+| bip_39_word_no_space_6 | boatbonestoolthiscurveriot |  
+| bip_39_word_no_space_7 | boatbonestoolthiscurveriotcustom |  
+| bip_39_word_no_space_8 | boatbonestoolthiscurveriotcustomavocado |  
+| bip_39_word_no_space_9 | boatbonestoolthiscurveriotcustomavocadosoft |  
 | bip_39_word_space_0 | ['boat', 'bone', 'stool', 'this', 'curve', 'riot', 'custom', 'avocado', 'soft', 'repair', 'dragon', 'almost'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat bone stool this curve riot custom avocado soft repair |  

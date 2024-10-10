@@ -122,6 +122,18 @@ fancy
 sentence
 buyer
 right |  
+| bip_39_word_no_space_1 | found |  
+| bip_39_word_no_space_10 | foundaisleprotectsecretpreventfancysentencebuyerrightkingdom |  
+| bip_39_word_no_space_11 | foundaisleprotectsecretpreventfancysentencebuyerrightkingdomage |  
+| bip_39_word_no_space_12 | foundaisleprotectsecretpreventfancysentencebuyerrightkingdomagearrest |  
+| bip_39_word_no_space_2 | foundaisle |  
+| bip_39_word_no_space_3 | foundaisleprotect |  
+| bip_39_word_no_space_4 | foundaisleprotectsecret |  
+| bip_39_word_no_space_5 | foundaisleprotectsecretprevent |  
+| bip_39_word_no_space_6 | foundaisleprotectsecretpreventfancy |  
+| bip_39_word_no_space_7 | foundaisleprotectsecretpreventfancysentence |  
+| bip_39_word_no_space_8 | foundaisleprotectsecretpreventfancysentencebuyer |  
+| bip_39_word_no_space_9 | foundaisleprotectsecretpreventfancysentencebuyerright |  
 | bip_39_word_space_0 | ['found', 'aisle', 'protect', 'secret', 'prevent', 'fancy', 'sentence', 'buyer', 'right', 'kingdom', 'age', 'arrest'] |  
 | bip_39_word_space_1 | found |  
 | bip_39_word_space_10 | found aisle protect secret prevent fancy sentence buyer right kingdom |  

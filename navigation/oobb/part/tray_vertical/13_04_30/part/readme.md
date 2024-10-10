@@ -122,6 +122,18 @@ cave
 estate
 must
 large |  
+| bip_39_word_no_space_1 | enjoy |  
+| bip_39_word_no_space_10 | enjoywhatdiagramtripsockcaveestatemustlargeblame |  
+| bip_39_word_no_space_11 | enjoywhatdiagramtripsockcaveestatemustlargeblamelong |  
+| bip_39_word_no_space_12 | enjoywhatdiagramtripsockcaveestatemustlargeblamelongathlete |  
+| bip_39_word_no_space_2 | enjoywhat |  
+| bip_39_word_no_space_3 | enjoywhatdiagram |  
+| bip_39_word_no_space_4 | enjoywhatdiagramtrip |  
+| bip_39_word_no_space_5 | enjoywhatdiagramtripsock |  
+| bip_39_word_no_space_6 | enjoywhatdiagramtripsockcave |  
+| bip_39_word_no_space_7 | enjoywhatdiagramtripsockcaveestate |  
+| bip_39_word_no_space_8 | enjoywhatdiagramtripsockcaveestatemust |  
+| bip_39_word_no_space_9 | enjoywhatdiagramtripsockcaveestatemustlarge |  
 | bip_39_word_space_0 | ['enjoy', 'what', 'diagram', 'trip', 'sock', 'cave', 'estate', 'must', 'large', 'blame', 'long', 'athlete'] |  
 | bip_39_word_space_1 | enjoy |  
 | bip_39_word_space_10 | enjoy what diagram trip sock cave estate must large blame |  

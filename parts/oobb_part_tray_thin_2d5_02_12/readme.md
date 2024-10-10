@@ -122,6 +122,18 @@ cargo
 alcohol
 switch
 recycle |  
+| bip_39_word_no_space_1 | brain |  
+| bip_39_word_no_space_10 | brainviablehairivorytoiletcargoalcoholswitchrecycleamused |  
+| bip_39_word_no_space_11 | brainviablehairivorytoiletcargoalcoholswitchrecycleamusedladder |  
+| bip_39_word_no_space_12 | brainviablehairivorytoiletcargoalcoholswitchrecycleamusedladderarctic |  
+| bip_39_word_no_space_2 | brainviable |  
+| bip_39_word_no_space_3 | brainviablehair |  
+| bip_39_word_no_space_4 | brainviablehairivory |  
+| bip_39_word_no_space_5 | brainviablehairivorytoilet |  
+| bip_39_word_no_space_6 | brainviablehairivorytoiletcargo |  
+| bip_39_word_no_space_7 | brainviablehairivorytoiletcargoalcohol |  
+| bip_39_word_no_space_8 | brainviablehairivorytoiletcargoalcoholswitch |  
+| bip_39_word_no_space_9 | brainviablehairivorytoiletcargoalcoholswitchrecycle |  
 | bip_39_word_space_0 | ['brain', 'viable', 'hair', 'ivory', 'toilet', 'cargo', 'alcohol', 'switch', 'recycle', 'amused', 'ladder', 'arctic'] |  
 | bip_39_word_space_1 | brain |  
 | bip_39_word_space_10 | brain viable hair ivory toilet cargo alcohol switch recycle amused |  

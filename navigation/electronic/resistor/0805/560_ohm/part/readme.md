@@ -122,6 +122,18 @@ mule
 sure
 label
 fame |  
+| bip_39_word_no_space_1 | network |  
+| bip_39_word_no_space_10 | networkevolveleopardblackreviewmulesurelabelfamegrass |  
+| bip_39_word_no_space_11 | networkevolveleopardblackreviewmulesurelabelfamegrassdesert |  
+| bip_39_word_no_space_12 | networkevolveleopardblackreviewmulesurelabelfamegrassdesertactress |  
+| bip_39_word_no_space_2 | networkevolve |  
+| bip_39_word_no_space_3 | networkevolveleopard |  
+| bip_39_word_no_space_4 | networkevolveleopardblack |  
+| bip_39_word_no_space_5 | networkevolveleopardblackreview |  
+| bip_39_word_no_space_6 | networkevolveleopardblackreviewmule |  
+| bip_39_word_no_space_7 | networkevolveleopardblackreviewmulesure |  
+| bip_39_word_no_space_8 | networkevolveleopardblackreviewmulesurelabel |  
+| bip_39_word_no_space_9 | networkevolveleopardblackreviewmulesurelabelfame |  
 | bip_39_word_space_0 | ['network', 'evolve', 'leopard', 'black', 'review', 'mule', 'sure', 'label', 'fame', 'grass', 'desert', 'actress'] |  
 | bip_39_word_space_1 | network |  
 | bip_39_word_space_10 | network evolve leopard black review mule sure label fame grass |  

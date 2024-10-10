@@ -122,6 +122,18 @@ valve
 cabin
 road
 youth |  
+| bip_39_word_no_space_1 | cherry |  
+| bip_39_word_no_space_10 | cherryextragallerygeniusarrangevalvecabinroadyouthcombine |  
+| bip_39_word_no_space_11 | cherryextragallerygeniusarrangevalvecabinroadyouthcombinemixture |  
+| bip_39_word_no_space_12 | cherryextragallerygeniusarrangevalvecabinroadyouthcombinemixturealley |  
+| bip_39_word_no_space_2 | cherryextra |  
+| bip_39_word_no_space_3 | cherryextragallery |  
+| bip_39_word_no_space_4 | cherryextragallerygenius |  
+| bip_39_word_no_space_5 | cherryextragallerygeniusarrange |  
+| bip_39_word_no_space_6 | cherryextragallerygeniusarrangevalve |  
+| bip_39_word_no_space_7 | cherryextragallerygeniusarrangevalvecabin |  
+| bip_39_word_no_space_8 | cherryextragallerygeniusarrangevalvecabinroad |  
+| bip_39_word_no_space_9 | cherryextragallerygeniusarrangevalvecabinroadyouth |  
 | bip_39_word_space_0 | ['cherry', 'extra', 'gallery', 'genius', 'arrange', 'valve', 'cabin', 'road', 'youth', 'combine', 'mixture', 'alley'] |  
 | bip_39_word_space_1 | cherry |  
 | bip_39_word_space_10 | cherry extra gallery genius arrange valve cabin road youth combine |  

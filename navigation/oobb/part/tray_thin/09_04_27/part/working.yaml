@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gas
   guitar
 
   simple'
+bip_39_word_no_space_1: gas
+bip_39_word_no_space_10: gasrentplasticrecipeswimpolicejuiceguitarsimpleclump
+bip_39_word_no_space_11: gasrentplasticrecipeswimpolicejuiceguitarsimpleclumpfatal
+bip_39_word_no_space_12: gasrentplasticrecipeswimpolicejuiceguitarsimpleclumpfatalacoustic
+bip_39_word_no_space_2: gasrent
+bip_39_word_no_space_3: gasrentplastic
+bip_39_word_no_space_4: gasrentplasticrecipe
+bip_39_word_no_space_5: gasrentplasticrecipeswim
+bip_39_word_no_space_6: gasrentplasticrecipeswimpolice
+bip_39_word_no_space_7: gasrentplasticrecipeswimpolicejuice
+bip_39_word_no_space_8: gasrentplasticrecipeswimpolicejuiceguitar
+bip_39_word_no_space_9: gasrentplasticrecipeswimpolicejuiceguitarsimple
 bip_39_word_space_0:
 - gas
 - rent

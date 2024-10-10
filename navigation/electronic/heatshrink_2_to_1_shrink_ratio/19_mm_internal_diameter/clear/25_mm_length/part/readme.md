@@ -122,6 +122,18 @@ jacket
 banner
 recipe
 team |  
+| bip_39_word_no_space_1 | floor |  
+| bip_39_word_no_space_10 | floorchildsoapsnappiecejacketbannerrecipeteamlazy |  
+| bip_39_word_no_space_11 | floorchildsoapsnappiecejacketbannerrecipeteamlazycode |  
+| bip_39_word_no_space_12 | floorchildsoapsnappiecejacketbannerrecipeteamlazycodealready |  
+| bip_39_word_no_space_2 | floorchild |  
+| bip_39_word_no_space_3 | floorchildsoap |  
+| bip_39_word_no_space_4 | floorchildsoapsnap |  
+| bip_39_word_no_space_5 | floorchildsoapsnappiece |  
+| bip_39_word_no_space_6 | floorchildsoapsnappiecejacket |  
+| bip_39_word_no_space_7 | floorchildsoapsnappiecejacketbanner |  
+| bip_39_word_no_space_8 | floorchildsoapsnappiecejacketbannerrecipe |  
+| bip_39_word_no_space_9 | floorchildsoapsnappiecejacketbannerrecipeteam |  
 | bip_39_word_space_0 | ['floor', 'child', 'soap', 'snap', 'piece', 'jacket', 'banner', 'recipe', 'team', 'lazy', 'code', 'already'] |  
 | bip_39_word_space_1 | floor |  
 | bip_39_word_space_10 | floor child soap snap piece jacket banner recipe team lazy |  

@@ -122,6 +122,18 @@ wing
 dumb
 step
 radio |  
+| bip_39_word_no_space_1 | yellow |  
+| bip_39_word_no_space_10 | yellowparentisolatediarysaucewingdumbstepradioice |  
+| bip_39_word_no_space_11 | yellowparentisolatediarysaucewingdumbstepradioicebalance |  
+| bip_39_word_no_space_12 | yellowparentisolatediarysaucewingdumbstepradioicebalanceanother |  
+| bip_39_word_no_space_2 | yellowparent |  
+| bip_39_word_no_space_3 | yellowparentisolate |  
+| bip_39_word_no_space_4 | yellowparentisolatediary |  
+| bip_39_word_no_space_5 | yellowparentisolatediarysauce |  
+| bip_39_word_no_space_6 | yellowparentisolatediarysaucewing |  
+| bip_39_word_no_space_7 | yellowparentisolatediarysaucewingdumb |  
+| bip_39_word_no_space_8 | yellowparentisolatediarysaucewingdumbstep |  
+| bip_39_word_no_space_9 | yellowparentisolatediarysaucewingdumbstepradio |  
 | bip_39_word_space_0 | ['yellow', 'parent', 'isolate', 'diary', 'sauce', 'wing', 'dumb', 'step', 'radio', 'ice', 'balance', 'another'] |  
 | bip_39_word_space_1 | yellow |  
 | bip_39_word_space_10 | yellow parent isolate diary sauce wing dumb step radio ice |  

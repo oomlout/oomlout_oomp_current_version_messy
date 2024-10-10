@@ -122,6 +122,18 @@ kit
 dynamic
 slide
 race |  
+| bip_39_word_no_space_1 | scrap |  
+| bip_39_word_no_space_10 | scrapaltertheoryverypotterykitdynamicslideracefurnace |  
+| bip_39_word_no_space_11 | scrapaltertheoryverypotterykitdynamicslideracefurnacehumor |  
+| bip_39_word_no_space_12 | scrapaltertheoryverypotterykitdynamicslideracefurnacehumoraction |  
+| bip_39_word_no_space_2 | scrapalter |  
+| bip_39_word_no_space_3 | scrapaltertheory |  
+| bip_39_word_no_space_4 | scrapaltertheoryvery |  
+| bip_39_word_no_space_5 | scrapaltertheoryverypottery |  
+| bip_39_word_no_space_6 | scrapaltertheoryverypotterykit |  
+| bip_39_word_no_space_7 | scrapaltertheoryverypotterykitdynamic |  
+| bip_39_word_no_space_8 | scrapaltertheoryverypotterykitdynamicslide |  
+| bip_39_word_no_space_9 | scrapaltertheoryverypotterykitdynamicsliderace |  
 | bip_39_word_space_0 | ['scrap', 'alter', 'theory', 'very', 'pottery', 'kit', 'dynamic', 'slide', 'race', 'furnace', 'humor', 'action'] |  
 | bip_39_word_space_1 | scrap |  
 | bip_39_word_space_10 | scrap alter theory very pottery kit dynamic slide race furnace |  

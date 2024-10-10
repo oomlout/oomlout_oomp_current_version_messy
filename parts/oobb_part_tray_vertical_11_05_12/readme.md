@@ -122,6 +122,18 @@ charge
 cause
 stage
 rain |  
+| bip_39_word_no_space_1 | exchange |  
+| bip_39_word_no_space_10 | exchangevacuumnastygaugemedalchargecausestagerainprofit |  
+| bip_39_word_no_space_11 | exchangevacuumnastygaugemedalchargecausestagerainprofitlaptop |  
+| bip_39_word_no_space_12 | exchangevacuumnastygaugemedalchargecausestagerainprofitlaptopadmit |  
+| bip_39_word_no_space_2 | exchangevacuum |  
+| bip_39_word_no_space_3 | exchangevacuumnasty |  
+| bip_39_word_no_space_4 | exchangevacuumnastygauge |  
+| bip_39_word_no_space_5 | exchangevacuumnastygaugemedal |  
+| bip_39_word_no_space_6 | exchangevacuumnastygaugemedalcharge |  
+| bip_39_word_no_space_7 | exchangevacuumnastygaugemedalchargecause |  
+| bip_39_word_no_space_8 | exchangevacuumnastygaugemedalchargecausestage |  
+| bip_39_word_no_space_9 | exchangevacuumnastygaugemedalchargecausestagerain |  
 | bip_39_word_space_0 | ['exchange', 'vacuum', 'nasty', 'gauge', 'medal', 'charge', 'cause', 'stage', 'rain', 'profit', 'laptop', 'admit'] |  
 | bip_39_word_space_1 | exchange |  
 | bip_39_word_space_10 | exchange vacuum nasty gauge medal charge cause stage rain profit |  

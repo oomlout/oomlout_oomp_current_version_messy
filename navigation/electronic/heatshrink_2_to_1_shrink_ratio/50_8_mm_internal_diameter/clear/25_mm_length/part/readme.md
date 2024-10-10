@@ -122,6 +122,18 @@ suit
 faculty
 sword
 gentle |  
+| bip_39_word_no_space_1 | rabbit |  
+| bip_39_word_no_space_10 | rabbitfringemistakeshockvideosuitfacultyswordgentlenear |  
+| bip_39_word_no_space_11 | rabbitfringemistakeshockvideosuitfacultyswordgentleneartime |  
+| bip_39_word_no_space_12 | rabbitfringemistakeshockvideosuitfacultyswordgentleneartimeabout |  
+| bip_39_word_no_space_2 | rabbitfringe |  
+| bip_39_word_no_space_3 | rabbitfringemistake |  
+| bip_39_word_no_space_4 | rabbitfringemistakeshock |  
+| bip_39_word_no_space_5 | rabbitfringemistakeshockvideo |  
+| bip_39_word_no_space_6 | rabbitfringemistakeshockvideosuit |  
+| bip_39_word_no_space_7 | rabbitfringemistakeshockvideosuitfaculty |  
+| bip_39_word_no_space_8 | rabbitfringemistakeshockvideosuitfacultysword |  
+| bip_39_word_no_space_9 | rabbitfringemistakeshockvideosuitfacultyswordgentle |  
 | bip_39_word_space_0 | ['rabbit', 'fringe', 'mistake', 'shock', 'video', 'suit', 'faculty', 'sword', 'gentle', 'near', 'time', 'about'] |  
 | bip_39_word_space_1 | rabbit |  
 | bip_39_word_space_10 | rabbit fringe mistake shock video suit faculty sword gentle near |  

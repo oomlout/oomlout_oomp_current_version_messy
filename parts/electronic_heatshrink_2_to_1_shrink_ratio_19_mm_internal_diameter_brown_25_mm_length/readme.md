@@ -122,6 +122,18 @@ step
 blush
 purpose
 curve |  
+| bip_39_word_no_space_1 | spirit |  
+| bip_39_word_no_space_10 | spiritwoodpracticeshockalmoststepblushpurposecurvewinner |  
+| bip_39_word_no_space_11 | spiritwoodpracticeshockalmoststepblushpurposecurvewinnernature |  
+| bip_39_word_no_space_12 | spiritwoodpracticeshockalmoststepblushpurposecurvewinnernatureadd |  
+| bip_39_word_no_space_2 | spiritwood |  
+| bip_39_word_no_space_3 | spiritwoodpractice |  
+| bip_39_word_no_space_4 | spiritwoodpracticeshock |  
+| bip_39_word_no_space_5 | spiritwoodpracticeshockalmost |  
+| bip_39_word_no_space_6 | spiritwoodpracticeshockalmoststep |  
+| bip_39_word_no_space_7 | spiritwoodpracticeshockalmoststepblush |  
+| bip_39_word_no_space_8 | spiritwoodpracticeshockalmoststepblushpurpose |  
+| bip_39_word_no_space_9 | spiritwoodpracticeshockalmoststepblushpurposecurve |  
 | bip_39_word_space_0 | ['spirit', 'wood', 'practice', 'shock', 'almost', 'step', 'blush', 'purpose', 'curve', 'winner', 'nature', 'add'] |  
 | bip_39_word_space_1 | spirit |  
 | bip_39_word_space_10 | spirit wood practice shock almost step blush purpose curve winner |  

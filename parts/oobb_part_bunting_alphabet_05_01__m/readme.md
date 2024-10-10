@@ -122,6 +122,18 @@ damp
 subway
 social
 anxiety |  
+| bip_39_word_no_space_1 | muffin |  
+| bip_39_word_no_space_10 | muffinpuddingharshluggageharddampsubwaysocialanxietybone |  
+| bip_39_word_no_space_11 | muffinpuddingharshluggageharddampsubwaysocialanxietybonebright |  
+| bip_39_word_no_space_12 | muffinpuddingharshluggageharddampsubwaysocialanxietybonebrightalien |  
+| bip_39_word_no_space_2 | muffinpudding |  
+| bip_39_word_no_space_3 | muffinpuddingharsh |  
+| bip_39_word_no_space_4 | muffinpuddingharshluggage |  
+| bip_39_word_no_space_5 | muffinpuddingharshluggagehard |  
+| bip_39_word_no_space_6 | muffinpuddingharshluggageharddamp |  
+| bip_39_word_no_space_7 | muffinpuddingharshluggageharddampsubway |  
+| bip_39_word_no_space_8 | muffinpuddingharshluggageharddampsubwaysocial |  
+| bip_39_word_no_space_9 | muffinpuddingharshluggageharddampsubwaysocialanxiety |  
 | bip_39_word_space_0 | ['muffin', 'pudding', 'harsh', 'luggage', 'hard', 'damp', 'subway', 'social', 'anxiety', 'bone', 'bright', 'alien'] |  
 | bip_39_word_space_1 | muffin |  
 | bip_39_word_space_10 | muffin pudding harsh luggage hard damp subway social anxiety bone |  

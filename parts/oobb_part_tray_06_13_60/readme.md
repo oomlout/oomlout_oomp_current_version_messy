@@ -122,6 +122,18 @@ soup
 badge
 hunt
 agent |  
+| bip_39_word_no_space_1 | health |  
+| bip_39_word_no_space_10 | healthaccidentgraintreatadvancesoupbadgehuntagentenroll |  
+| bip_39_word_no_space_11 | healthaccidentgraintreatadvancesoupbadgehuntagentenrolldoll |  
+| bip_39_word_no_space_12 | healthaccidentgraintreatadvancesoupbadgehuntagentenrolldollamong |  
+| bip_39_word_no_space_2 | healthaccident |  
+| bip_39_word_no_space_3 | healthaccidentgrain |  
+| bip_39_word_no_space_4 | healthaccidentgraintreat |  
+| bip_39_word_no_space_5 | healthaccidentgraintreatadvance |  
+| bip_39_word_no_space_6 | healthaccidentgraintreatadvancesoup |  
+| bip_39_word_no_space_7 | healthaccidentgraintreatadvancesoupbadge |  
+| bip_39_word_no_space_8 | healthaccidentgraintreatadvancesoupbadgehunt |  
+| bip_39_word_no_space_9 | healthaccidentgraintreatadvancesoupbadgehuntagent |  
 | bip_39_word_space_0 | ['health', 'accident', 'grain', 'treat', 'advance', 'soup', 'badge', 'hunt', 'agent', 'enroll', 'doll', 'among'] |  
 | bip_39_word_space_1 | health |  
 | bip_39_word_space_10 | health accident grain treat advance soup badge hunt agent enroll |  

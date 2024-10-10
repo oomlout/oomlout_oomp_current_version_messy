@@ -122,6 +122,18 @@ sentence
 repeat
 tuition
 mansion |  
+| bip_39_word_no_space_1 | recall |  
+| bip_39_word_no_space_10 | recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocent |  
+| bip_39_word_no_space_11 | recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocentconvince |  
+| bip_39_word_no_space_12 | recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocentconvinceadjust |  
+| bip_39_word_no_space_2 | recalldinosaur |  
+| bip_39_word_no_space_3 | recalldinosaurwait |  
+| bip_39_word_no_space_4 | recalldinosaurwaitfetch |  
+| bip_39_word_no_space_5 | recalldinosaurwaitfetchrich |  
+| bip_39_word_no_space_6 | recalldinosaurwaitfetchrichsentence |  
+| bip_39_word_no_space_7 | recalldinosaurwaitfetchrichsentencerepeat |  
+| bip_39_word_no_space_8 | recalldinosaurwaitfetchrichsentencerepeattuition |  
+| bip_39_word_no_space_9 | recalldinosaurwaitfetchrichsentencerepeattuitionmansion |  
 | bip_39_word_space_0 | ['recall', 'dinosaur', 'wait', 'fetch', 'rich', 'sentence', 'repeat', 'tuition', 'mansion', 'innocent', 'convince', 'adjust'] |  
 | bip_39_word_space_1 | recall |  
 | bip_39_word_space_10 | recall dinosaur wait fetch rich sentence repeat tuition mansion innocent |  

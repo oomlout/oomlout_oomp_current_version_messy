@@ -122,6 +122,18 @@ like
 finger
 load
 buyer |  
+| bip_39_word_no_space_1 | often |  
+| bip_39_word_no_space_10 | oftenweaponjeweltasteessaylikefingerloadbuyerfaith |  
+| bip_39_word_no_space_11 | oftenweaponjeweltasteessaylikefingerloadbuyerfaithanxiety |  
+| bip_39_word_no_space_12 | oftenweaponjeweltasteessaylikefingerloadbuyerfaithanxietyaisle |  
+| bip_39_word_no_space_2 | oftenweapon |  
+| bip_39_word_no_space_3 | oftenweaponjewel |  
+| bip_39_word_no_space_4 | oftenweaponjeweltaste |  
+| bip_39_word_no_space_5 | oftenweaponjeweltasteessay |  
+| bip_39_word_no_space_6 | oftenweaponjeweltasteessaylike |  
+| bip_39_word_no_space_7 | oftenweaponjeweltasteessaylikefinger |  
+| bip_39_word_no_space_8 | oftenweaponjeweltasteessaylikefingerload |  
+| bip_39_word_no_space_9 | oftenweaponjeweltasteessaylikefingerloadbuyer |  
 | bip_39_word_space_0 | ['often', 'weapon', 'jewel', 'taste', 'essay', 'like', 'finger', 'load', 'buyer', 'faith', 'anxiety', 'aisle'] |  
 | bip_39_word_space_1 | often |  
 | bip_39_word_space_10 | often weapon jewel taste essay like finger load buyer faith |  

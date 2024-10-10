@@ -122,6 +122,18 @@ picnic
 strong
 credit
 stay |  
+| bip_39_word_no_space_1 | deposit |  
+| bip_39_word_no_space_10 | depositbreaddiscoverhairboringpicnicstrongcreditstayflame |  
+| bip_39_word_no_space_11 | depositbreaddiscoverhairboringpicnicstrongcreditstayflamecream |  
+| bip_39_word_no_space_12 | depositbreaddiscoverhairboringpicnicstrongcreditstayflamecreamasset |  
+| bip_39_word_no_space_2 | depositbread |  
+| bip_39_word_no_space_3 | depositbreaddiscover |  
+| bip_39_word_no_space_4 | depositbreaddiscoverhair |  
+| bip_39_word_no_space_5 | depositbreaddiscoverhairboring |  
+| bip_39_word_no_space_6 | depositbreaddiscoverhairboringpicnic |  
+| bip_39_word_no_space_7 | depositbreaddiscoverhairboringpicnicstrong |  
+| bip_39_word_no_space_8 | depositbreaddiscoverhairboringpicnicstrongcredit |  
+| bip_39_word_no_space_9 | depositbreaddiscoverhairboringpicnicstrongcreditstay |  
 | bip_39_word_space_0 | ['deposit', 'bread', 'discover', 'hair', 'boring', 'picnic', 'strong', 'credit', 'stay', 'flame', 'cream', 'asset'] |  
 | bip_39_word_space_1 | deposit |  
 | bip_39_word_space_10 | deposit bread discover hair boring picnic strong credit stay flame |  

@@ -122,6 +122,18 @@ camera
 taste
 spoil
 annual |  
+| bip_39_word_no_space_1 | bean |  
+| bip_39_word_no_space_10 | beanhybridmiserysolarwrongcameratastespoilannualunfair |  
+| bip_39_word_no_space_11 | beanhybridmiserysolarwrongcameratastespoilannualunfairsymptom |  
+| bip_39_word_no_space_12 | beanhybridmiserysolarwrongcameratastespoilannualunfairsymptomattitude |  
+| bip_39_word_no_space_2 | beanhybrid |  
+| bip_39_word_no_space_3 | beanhybridmisery |  
+| bip_39_word_no_space_4 | beanhybridmiserysolar |  
+| bip_39_word_no_space_5 | beanhybridmiserysolarwrong |  
+| bip_39_word_no_space_6 | beanhybridmiserysolarwrongcamera |  
+| bip_39_word_no_space_7 | beanhybridmiserysolarwrongcamerataste |  
+| bip_39_word_no_space_8 | beanhybridmiserysolarwrongcameratastespoil |  
+| bip_39_word_no_space_9 | beanhybridmiserysolarwrongcameratastespoilannual |  
 | bip_39_word_space_0 | ['bean', 'hybrid', 'misery', 'solar', 'wrong', 'camera', 'taste', 'spoil', 'annual', 'unfair', 'symptom', 'attitude'] |  
 | bip_39_word_space_1 | bean |  
 | bip_39_word_space_10 | bean hybrid misery solar wrong camera taste spoil annual unfair |  

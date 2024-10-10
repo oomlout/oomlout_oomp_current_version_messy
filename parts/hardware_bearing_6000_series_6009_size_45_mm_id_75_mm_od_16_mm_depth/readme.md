@@ -122,6 +122,18 @@ pony
 walnut
 this
 solution |  
+| bip_39_word_no_space_1 | merry |  
+| bip_39_word_no_space_10 | merryregioncreekignoreshiverponywalnutthissolutionvague |  
+| bip_39_word_no_space_11 | merryregioncreekignoreshiverponywalnutthissolutionvaguestruggle |  
+| bip_39_word_no_space_12 | merryregioncreekignoreshiverponywalnutthissolutionvaguestruggleapart |  
+| bip_39_word_no_space_2 | merryregion |  
+| bip_39_word_no_space_3 | merryregioncreek |  
+| bip_39_word_no_space_4 | merryregioncreekignore |  
+| bip_39_word_no_space_5 | merryregioncreekignoreshiver |  
+| bip_39_word_no_space_6 | merryregioncreekignoreshiverpony |  
+| bip_39_word_no_space_7 | merryregioncreekignoreshiverponywalnut |  
+| bip_39_word_no_space_8 | merryregioncreekignoreshiverponywalnutthis |  
+| bip_39_word_no_space_9 | merryregioncreekignoreshiverponywalnutthissolution |  
 | bip_39_word_space_0 | ['merry', 'region', 'creek', 'ignore', 'shiver', 'pony', 'walnut', 'this', 'solution', 'vague', 'struggle', 'apart'] |  
 | bip_39_word_space_1 | merry |  
 | bip_39_word_space_10 | merry region creek ignore shiver pony walnut this solution vague |  

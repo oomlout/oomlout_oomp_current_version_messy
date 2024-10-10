@@ -122,6 +122,18 @@ check
 poverty
 apology
 hood |  
+| bip_39_word_no_space_1 | mansion |  
+| bip_39_word_no_space_10 | mansionaislecouchbarelystingcheckpovertyapologyhoodparty |  
+| bip_39_word_no_space_11 | mansionaislecouchbarelystingcheckpovertyapologyhoodpartygrant |  
+| bip_39_word_no_space_12 | mansionaislecouchbarelystingcheckpovertyapologyhoodpartygrantalready |  
+| bip_39_word_no_space_2 | mansionaisle |  
+| bip_39_word_no_space_3 | mansionaislecouch |  
+| bip_39_word_no_space_4 | mansionaislecouchbarely |  
+| bip_39_word_no_space_5 | mansionaislecouchbarelysting |  
+| bip_39_word_no_space_6 | mansionaislecouchbarelystingcheck |  
+| bip_39_word_no_space_7 | mansionaislecouchbarelystingcheckpoverty |  
+| bip_39_word_no_space_8 | mansionaislecouchbarelystingcheckpovertyapology |  
+| bip_39_word_no_space_9 | mansionaislecouchbarelystingcheckpovertyapologyhood |  
 | bip_39_word_space_0 | ['mansion', 'aisle', 'couch', 'barely', 'sting', 'check', 'poverty', 'apology', 'hood', 'party', 'grant', 'already'] |  
 | bip_39_word_space_1 | mansion |  
 | bip_39_word_space_10 | mansion aisle couch barely sting check poverty apology hood party |  

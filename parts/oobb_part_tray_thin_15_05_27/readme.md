@@ -122,6 +122,18 @@ focus
 film
 eternal
 reform |  
+| bip_39_word_no_space_1 | virtual |  
+| bip_39_word_no_space_10 | virtualthoughtwheelwebrebuildfocusfilmeternalreformrally |  
+| bip_39_word_no_space_11 | virtualthoughtwheelwebrebuildfocusfilmeternalreformrallyincome |  
+| bip_39_word_no_space_12 | virtualthoughtwheelwebrebuildfocusfilmeternalreformrallyincomeaddict |  
+| bip_39_word_no_space_2 | virtualthought |  
+| bip_39_word_no_space_3 | virtualthoughtwheel |  
+| bip_39_word_no_space_4 | virtualthoughtwheelweb |  
+| bip_39_word_no_space_5 | virtualthoughtwheelwebrebuild |  
+| bip_39_word_no_space_6 | virtualthoughtwheelwebrebuildfocus |  
+| bip_39_word_no_space_7 | virtualthoughtwheelwebrebuildfocusfilm |  
+| bip_39_word_no_space_8 | virtualthoughtwheelwebrebuildfocusfilmeternal |  
+| bip_39_word_no_space_9 | virtualthoughtwheelwebrebuildfocusfilmeternalreform |  
 | bip_39_word_space_0 | ['virtual', 'thought', 'wheel', 'web', 'rebuild', 'focus', 'film', 'eternal', 'reform', 'rally', 'income', 'addict'] |  
 | bip_39_word_space_1 | virtual |  
 | bip_39_word_space_10 | virtual thought wheel web rebuild focus film eternal reform rally |  

@@ -122,6 +122,18 @@ jeans
 wide
 promote
 document |  
+| bip_39_word_no_space_1 | advice |  
+| bip_39_word_no_space_10 | adviceblindlabelwheatawarejeanswidepromotedocumentlicense |  
+| bip_39_word_no_space_11 | adviceblindlabelwheatawarejeanswidepromotedocumentlicensechicken |  
+| bip_39_word_no_space_12 | adviceblindlabelwheatawarejeanswidepromotedocumentlicensechickenabove |  
+| bip_39_word_no_space_2 | adviceblind |  
+| bip_39_word_no_space_3 | adviceblindlabel |  
+| bip_39_word_no_space_4 | adviceblindlabelwheat |  
+| bip_39_word_no_space_5 | adviceblindlabelwheataware |  
+| bip_39_word_no_space_6 | adviceblindlabelwheatawarejeans |  
+| bip_39_word_no_space_7 | adviceblindlabelwheatawarejeanswide |  
+| bip_39_word_no_space_8 | adviceblindlabelwheatawarejeanswidepromote |  
+| bip_39_word_no_space_9 | adviceblindlabelwheatawarejeanswidepromotedocument |  
 | bip_39_word_space_0 | ['advice', 'blind', 'label', 'wheat', 'aware', 'jeans', 'wide', 'promote', 'document', 'license', 'chicken', 'above'] |  
 | bip_39_word_space_1 | advice |  
 | bip_39_word_space_10 | advice blind label wheat aware jeans wide promote document license |  

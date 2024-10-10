@@ -122,6 +122,18 @@ bullet
 town
 finger
 gossip |  
+| bip_39_word_no_space_1 | heart |  
+| bip_39_word_no_space_10 | heartskirtverbgroceryluckybullettownfingergossipsell |  
+| bip_39_word_no_space_11 | heartskirtverbgroceryluckybullettownfingergossipsellyou |  
+| bip_39_word_no_space_12 | heartskirtverbgroceryluckybullettownfingergossipsellyouallow |  
+| bip_39_word_no_space_2 | heartskirt |  
+| bip_39_word_no_space_3 | heartskirtverb |  
+| bip_39_word_no_space_4 | heartskirtverbgrocery |  
+| bip_39_word_no_space_5 | heartskirtverbgrocerylucky |  
+| bip_39_word_no_space_6 | heartskirtverbgroceryluckybullet |  
+| bip_39_word_no_space_7 | heartskirtverbgroceryluckybullettown |  
+| bip_39_word_no_space_8 | heartskirtverbgroceryluckybullettownfinger |  
+| bip_39_word_no_space_9 | heartskirtverbgroceryluckybullettownfingergossip |  
 | bip_39_word_space_0 | ['heart', 'skirt', 'verb', 'grocery', 'lucky', 'bullet', 'town', 'finger', 'gossip', 'sell', 'you', 'allow'] |  
 | bip_39_word_space_1 | heart |  
 | bip_39_word_space_10 | heart skirt verb grocery lucky bullet town finger gossip sell |  

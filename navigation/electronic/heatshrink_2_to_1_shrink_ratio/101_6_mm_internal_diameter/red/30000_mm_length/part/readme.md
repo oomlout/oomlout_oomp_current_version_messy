@@ -122,6 +122,18 @@ dust
 gap
 flight
 sport |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragicengageusefuloncedunedustgapflightsportbird |  
+| bip_39_word_no_space_11 | tragicengageusefuloncedunedustgapflightsportbirdmandate |  
+| bip_39_word_no_space_12 | tragicengageusefuloncedunedustgapflightsportbirdmandateaction |  
+| bip_39_word_no_space_2 | tragicengage |  
+| bip_39_word_no_space_3 | tragicengageuseful |  
+| bip_39_word_no_space_4 | tragicengageusefulonce |  
+| bip_39_word_no_space_5 | tragicengageusefuloncedune |  
+| bip_39_word_no_space_6 | tragicengageusefuloncedunedust |  
+| bip_39_word_no_space_7 | tragicengageusefuloncedunedustgap |  
+| bip_39_word_no_space_8 | tragicengageusefuloncedunedustgapflight |  
+| bip_39_word_no_space_9 | tragicengageusefuloncedunedustgapflightsport |  
 | bip_39_word_space_0 | ['tragic', 'engage', 'useful', 'once', 'dune', 'dust', 'gap', 'flight', 'sport', 'bird', 'mandate', 'action'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic engage useful once dune dust gap flight sport bird |  

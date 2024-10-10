@@ -122,6 +122,18 @@ decide
 estate
 globe
 silk |  
+| bip_39_word_no_space_1 | blame |  
+| bip_39_word_no_space_10 | blameroutefollowfederalfeverdecideestateglobesilkfilter |  
+| bip_39_word_no_space_11 | blameroutefollowfederalfeverdecideestateglobesilkfilterportion |  
+| bip_39_word_no_space_12 | blameroutefollowfederalfeverdecideestateglobesilkfilterportionannual |  
+| bip_39_word_no_space_2 | blameroute |  
+| bip_39_word_no_space_3 | blameroutefollow |  
+| bip_39_word_no_space_4 | blameroutefollowfederal |  
+| bip_39_word_no_space_5 | blameroutefollowfederalfever |  
+| bip_39_word_no_space_6 | blameroutefollowfederalfeverdecide |  
+| bip_39_word_no_space_7 | blameroutefollowfederalfeverdecideestate |  
+| bip_39_word_no_space_8 | blameroutefollowfederalfeverdecideestateglobe |  
+| bip_39_word_no_space_9 | blameroutefollowfederalfeverdecideestateglobesilk |  
 | bip_39_word_space_0 | ['blame', 'route', 'follow', 'federal', 'fever', 'decide', 'estate', 'globe', 'silk', 'filter', 'portion', 'annual'] |  
 | bip_39_word_space_1 | blame |  
 | bip_39_word_space_10 | blame route follow federal fever decide estate globe silk filter |  

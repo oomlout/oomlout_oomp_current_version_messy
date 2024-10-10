@@ -122,6 +122,18 @@ steel
 addict
 ginger
 tornado |  
+| bip_39_word_no_space_1 | shell |  
+| bip_39_word_no_space_10 | shellerodefaintshareorbitsteeladdictgingertornadorelief |  
+| bip_39_word_no_space_11 | shellerodefaintshareorbitsteeladdictgingertornadoreliefliberty |  
+| bip_39_word_no_space_12 | shellerodefaintshareorbitsteeladdictgingertornadorelieflibertyarena |  
+| bip_39_word_no_space_2 | shellerode |  
+| bip_39_word_no_space_3 | shellerodefaint |  
+| bip_39_word_no_space_4 | shellerodefaintshare |  
+| bip_39_word_no_space_5 | shellerodefaintshareorbit |  
+| bip_39_word_no_space_6 | shellerodefaintshareorbitsteel |  
+| bip_39_word_no_space_7 | shellerodefaintshareorbitsteeladdict |  
+| bip_39_word_no_space_8 | shellerodefaintshareorbitsteeladdictginger |  
+| bip_39_word_no_space_9 | shellerodefaintshareorbitsteeladdictgingertornado |  
 | bip_39_word_space_0 | ['shell', 'erode', 'faint', 'share', 'orbit', 'steel', 'addict', 'ginger', 'tornado', 'relief', 'liberty', 'arena'] |  
 | bip_39_word_space_1 | shell |  
 | bip_39_word_space_10 | shell erode faint share orbit steel addict ginger tornado relief |  

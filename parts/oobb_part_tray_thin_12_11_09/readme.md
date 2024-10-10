@@ -122,6 +122,18 @@ oppose
 stove
 notable
 bounce |  
+| bip_39_word_no_space_1 | lottery |  
+| bip_39_word_no_space_10 | lotteryhiddensolidvisaobjectopposestovenotablebouncepen |  
+| bip_39_word_no_space_11 | lotteryhiddensolidvisaobjectopposestovenotablebouncepenvisual |  
+| bip_39_word_no_space_12 | lotteryhiddensolidvisaobjectopposestovenotablebouncepenvisualarm |  
+| bip_39_word_no_space_2 | lotteryhidden |  
+| bip_39_word_no_space_3 | lotteryhiddensolid |  
+| bip_39_word_no_space_4 | lotteryhiddensolidvisa |  
+| bip_39_word_no_space_5 | lotteryhiddensolidvisaobject |  
+| bip_39_word_no_space_6 | lotteryhiddensolidvisaobjectoppose |  
+| bip_39_word_no_space_7 | lotteryhiddensolidvisaobjectopposestove |  
+| bip_39_word_no_space_8 | lotteryhiddensolidvisaobjectopposestovenotable |  
+| bip_39_word_no_space_9 | lotteryhiddensolidvisaobjectopposestovenotablebounce |  
 | bip_39_word_space_0 | ['lottery', 'hidden', 'solid', 'visa', 'object', 'oppose', 'stove', 'notable', 'bounce', 'pen', 'visual', 'arm'] |  
 | bip_39_word_space_1 | lottery |  
 | bip_39_word_space_10 | lottery hidden solid visa object oppose stove notable bounce pen |  

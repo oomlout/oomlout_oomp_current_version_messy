@@ -122,6 +122,18 @@ future
 aerobic
 accuse
 pattern |  
+| bip_39_word_no_space_1 | ticket |  
+| bip_39_word_no_space_10 | ticketanothercrazyfoilmelodyfutureaerobicaccusepatterntank |  
+| bip_39_word_no_space_11 | ticketanothercrazyfoilmelodyfutureaerobicaccusepatterntanksurround |  
+| bip_39_word_no_space_12 | ticketanothercrazyfoilmelodyfutureaerobicaccusepatterntanksurroundalso |  
+| bip_39_word_no_space_2 | ticketanother |  
+| bip_39_word_no_space_3 | ticketanothercrazy |  
+| bip_39_word_no_space_4 | ticketanothercrazyfoil |  
+| bip_39_word_no_space_5 | ticketanothercrazyfoilmelody |  
+| bip_39_word_no_space_6 | ticketanothercrazyfoilmelodyfuture |  
+| bip_39_word_no_space_7 | ticketanothercrazyfoilmelodyfutureaerobic |  
+| bip_39_word_no_space_8 | ticketanothercrazyfoilmelodyfutureaerobicaccuse |  
+| bip_39_word_no_space_9 | ticketanothercrazyfoilmelodyfutureaerobicaccusepattern |  
 | bip_39_word_space_0 | ['ticket', 'another', 'crazy', 'foil', 'melody', 'future', 'aerobic', 'accuse', 'pattern', 'tank', 'surround', 'also'] |  
 | bip_39_word_space_1 | ticket |  
 | bip_39_word_space_10 | ticket another crazy foil melody future aerobic accuse pattern tank |  

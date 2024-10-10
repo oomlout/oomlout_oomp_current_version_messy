@@ -122,6 +122,18 @@ shiver
 same
 parade
 vocal |  
+| bip_39_word_no_space_1 | gospel |  
+| bip_39_word_no_space_10 | gospeldevelopgenrereflectawkwardshiversameparadevocalsocial |  
+| bip_39_word_no_space_11 | gospeldevelopgenrereflectawkwardshiversameparadevocalsocialemerge |  
+| bip_39_word_no_space_12 | gospeldevelopgenrereflectawkwardshiversameparadevocalsocialemergearmor |  
+| bip_39_word_no_space_2 | gospeldevelop |  
+| bip_39_word_no_space_3 | gospeldevelopgenre |  
+| bip_39_word_no_space_4 | gospeldevelopgenrereflect |  
+| bip_39_word_no_space_5 | gospeldevelopgenrereflectawkward |  
+| bip_39_word_no_space_6 | gospeldevelopgenrereflectawkwardshiver |  
+| bip_39_word_no_space_7 | gospeldevelopgenrereflectawkwardshiversame |  
+| bip_39_word_no_space_8 | gospeldevelopgenrereflectawkwardshiversameparade |  
+| bip_39_word_no_space_9 | gospeldevelopgenrereflectawkwardshiversameparadevocal |  
 | bip_39_word_space_0 | ['gospel', 'develop', 'genre', 'reflect', 'awkward', 'shiver', 'same', 'parade', 'vocal', 'social', 'emerge', 'armor'] |  
 | bip_39_word_space_1 | gospel |  
 | bip_39_word_space_10 | gospel develop genre reflect awkward shiver same parade vocal social |  

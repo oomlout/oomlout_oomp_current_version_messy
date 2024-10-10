@@ -122,6 +122,18 @@ sniff
 health
 deposit
 boat |  
+| bip_39_word_no_space_1 | exercise |  
+| bip_39_word_no_space_10 | exercisemansionwheelinnerroadsniffhealthdepositboatdivorce |  
+| bip_39_word_no_space_11 | exercisemansionwheelinnerroadsniffhealthdepositboatdivorceripple |  
+| bip_39_word_no_space_12 | exercisemansionwheelinnerroadsniffhealthdepositboatdivorcerippleangry |  
+| bip_39_word_no_space_2 | exercisemansion |  
+| bip_39_word_no_space_3 | exercisemansionwheel |  
+| bip_39_word_no_space_4 | exercisemansionwheelinner |  
+| bip_39_word_no_space_5 | exercisemansionwheelinnerroad |  
+| bip_39_word_no_space_6 | exercisemansionwheelinnerroadsniff |  
+| bip_39_word_no_space_7 | exercisemansionwheelinnerroadsniffhealth |  
+| bip_39_word_no_space_8 | exercisemansionwheelinnerroadsniffhealthdeposit |  
+| bip_39_word_no_space_9 | exercisemansionwheelinnerroadsniffhealthdepositboat |  
 | bip_39_word_space_0 | ['exercise', 'mansion', 'wheel', 'inner', 'road', 'sniff', 'health', 'deposit', 'boat', 'divorce', 'ripple', 'angry'] |  
 | bip_39_word_space_1 | exercise |  
 | bip_39_word_space_10 | exercise mansion wheel inner road sniff health deposit boat divorce |  

@@ -122,6 +122,18 @@ curtain
 phrase
 hill
 supply |  
+| bip_39_word_no_space_1 | liar |  
+| bip_39_word_no_space_10 | liarriotviolinstepembarkcurtainphrasehillsupplydenial |  
+| bip_39_word_no_space_11 | liarriotviolinstepembarkcurtainphrasehillsupplydenialexit |  
+| bip_39_word_no_space_12 | liarriotviolinstepembarkcurtainphrasehillsupplydenialexitanalyst |  
+| bip_39_word_no_space_2 | liarriot |  
+| bip_39_word_no_space_3 | liarriotviolin |  
+| bip_39_word_no_space_4 | liarriotviolinstep |  
+| bip_39_word_no_space_5 | liarriotviolinstepembark |  
+| bip_39_word_no_space_6 | liarriotviolinstepembarkcurtain |  
+| bip_39_word_no_space_7 | liarriotviolinstepembarkcurtainphrase |  
+| bip_39_word_no_space_8 | liarriotviolinstepembarkcurtainphrasehill |  
+| bip_39_word_no_space_9 | liarriotviolinstepembarkcurtainphrasehillsupply |  
 | bip_39_word_space_0 | ['liar', 'riot', 'violin', 'step', 'embark', 'curtain', 'phrase', 'hill', 'supply', 'denial', 'exit', 'analyst'] |  
 | bip_39_word_space_1 | liar |  
 | bip_39_word_space_10 | liar riot violin step embark curtain phrase hill supply denial |  

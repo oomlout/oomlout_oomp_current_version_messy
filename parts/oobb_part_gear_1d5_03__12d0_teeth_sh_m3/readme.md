@@ -122,6 +122,18 @@ reward
 trend
 health
 seat |  
+| bip_39_word_no_space_1 | home |  
+| bip_39_word_no_space_10 | homerebellargecricketalienrewardtrendhealthseatdizzy |  
+| bip_39_word_no_space_11 | homerebellargecricketalienrewardtrendhealthseatdizzytruth |  
+| bip_39_word_no_space_12 | homerebellargecricketalienrewardtrendhealthseatdizzytruthagree |  
+| bip_39_word_no_space_2 | homerebel |  
+| bip_39_word_no_space_3 | homerebellarge |  
+| bip_39_word_no_space_4 | homerebellargecricket |  
+| bip_39_word_no_space_5 | homerebellargecricketalien |  
+| bip_39_word_no_space_6 | homerebellargecricketalienreward |  
+| bip_39_word_no_space_7 | homerebellargecricketalienrewardtrend |  
+| bip_39_word_no_space_8 | homerebellargecricketalienrewardtrendhealth |  
+| bip_39_word_no_space_9 | homerebellargecricketalienrewardtrendhealthseat |  
 | bip_39_word_space_0 | ['home', 'rebel', 'large', 'cricket', 'alien', 'reward', 'trend', 'health', 'seat', 'dizzy', 'truth', 'agree'] |  
 | bip_39_word_space_1 | home |  
 | bip_39_word_space_10 | home rebel large cricket alien reward trend health seat dizzy |  

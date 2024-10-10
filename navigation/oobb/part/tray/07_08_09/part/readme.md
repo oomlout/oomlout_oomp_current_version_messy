@@ -122,6 +122,18 @@ dwarf
 tip
 yellow
 relief |  
+| bip_39_word_no_space_1 | leg |  
+| bip_39_word_no_space_10 | legdifferinsidefictionpracticedwarftipyellowreliefeager |  
+| bip_39_word_no_space_11 | legdifferinsidefictionpracticedwarftipyellowreliefeagerchase |  
+| bip_39_word_no_space_12 | legdifferinsidefictionpracticedwarftipyellowreliefeagerchaseamount |  
+| bip_39_word_no_space_2 | legdiffer |  
+| bip_39_word_no_space_3 | legdifferinside |  
+| bip_39_word_no_space_4 | legdifferinsidefiction |  
+| bip_39_word_no_space_5 | legdifferinsidefictionpractice |  
+| bip_39_word_no_space_6 | legdifferinsidefictionpracticedwarf |  
+| bip_39_word_no_space_7 | legdifferinsidefictionpracticedwarftip |  
+| bip_39_word_no_space_8 | legdifferinsidefictionpracticedwarftipyellow |  
+| bip_39_word_no_space_9 | legdifferinsidefictionpracticedwarftipyellowrelief |  
 | bip_39_word_space_0 | ['leg', 'differ', 'inside', 'fiction', 'practice', 'dwarf', 'tip', 'yellow', 'relief', 'eager', 'chase', 'amount'] |  
 | bip_39_word_space_1 | leg |  
 | bip_39_word_space_10 | leg differ inside fiction practice dwarf tip yellow relief eager |  

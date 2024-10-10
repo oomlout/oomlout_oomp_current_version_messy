@@ -122,6 +122,18 @@ common
 mutual
 phone
 silly |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlindoormutualboardclevercommonmutualphonesillyuntil |  
+| bip_39_word_no_space_11 | crawlindoormutualboardclevercommonmutualphonesillyuntilbehave |  
+| bip_39_word_no_space_12 | crawlindoormutualboardclevercommonmutualphonesillyuntilbehaveairport |  
+| bip_39_word_no_space_2 | crawlindoor |  
+| bip_39_word_no_space_3 | crawlindoormutual |  
+| bip_39_word_no_space_4 | crawlindoormutualboard |  
+| bip_39_word_no_space_5 | crawlindoormutualboardclever |  
+| bip_39_word_no_space_6 | crawlindoormutualboardclevercommon |  
+| bip_39_word_no_space_7 | crawlindoormutualboardclevercommonmutual |  
+| bip_39_word_no_space_8 | crawlindoormutualboardclevercommonmutualphone |  
+| bip_39_word_no_space_9 | crawlindoormutualboardclevercommonmutualphonesilly |  
 | bip_39_word_space_0 | ['crawl', 'indoor', 'mutual', 'board', 'clever', 'common', 'mutual', 'phone', 'silly', 'until', 'behave', 'airport'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl indoor mutual board clever common mutual phone silly until |  

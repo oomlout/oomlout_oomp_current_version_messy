@@ -122,6 +122,18 @@ agree
 rescue
 skull
 base |  
+| bip_39_word_no_space_1 | engage |  
+| bip_39_word_no_space_10 | engageevidencestrongcredittestagreerescueskullbasemember |  
+| bip_39_word_no_space_11 | engageevidencestrongcredittestagreerescueskullbasememberelse |  
+| bip_39_word_no_space_12 | engageevidencestrongcredittestagreerescueskullbasememberelseaisle |  
+| bip_39_word_no_space_2 | engageevidence |  
+| bip_39_word_no_space_3 | engageevidencestrong |  
+| bip_39_word_no_space_4 | engageevidencestrongcredit |  
+| bip_39_word_no_space_5 | engageevidencestrongcredittest |  
+| bip_39_word_no_space_6 | engageevidencestrongcredittestagree |  
+| bip_39_word_no_space_7 | engageevidencestrongcredittestagreerescue |  
+| bip_39_word_no_space_8 | engageevidencestrongcredittestagreerescueskull |  
+| bip_39_word_no_space_9 | engageevidencestrongcredittestagreerescueskullbase |  
 | bip_39_word_space_0 | ['engage', 'evidence', 'strong', 'credit', 'test', 'agree', 'rescue', 'skull', 'base', 'member', 'else', 'aisle'] |  
 | bip_39_word_space_1 | engage |  
 | bip_39_word_space_10 | engage evidence strong credit test agree rescue skull base member |  

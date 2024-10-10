@@ -122,6 +122,18 @@ own
 type
 home
 arena |  
+| bip_39_word_no_space_1 | organ |  
+| bip_39_word_no_space_10 | organresourcesuccessnegativehostowntypehomearenajuice |  
+| bip_39_word_no_space_11 | organresourcesuccessnegativehostowntypehomearenajuiceseat |  
+| bip_39_word_no_space_12 | organresourcesuccessnegativehostowntypehomearenajuiceseatarrive |  
+| bip_39_word_no_space_2 | organresource |  
+| bip_39_word_no_space_3 | organresourcesuccess |  
+| bip_39_word_no_space_4 | organresourcesuccessnegative |  
+| bip_39_word_no_space_5 | organresourcesuccessnegativehost |  
+| bip_39_word_no_space_6 | organresourcesuccessnegativehostown |  
+| bip_39_word_no_space_7 | organresourcesuccessnegativehostowntype |  
+| bip_39_word_no_space_8 | organresourcesuccessnegativehostowntypehome |  
+| bip_39_word_no_space_9 | organresourcesuccessnegativehostowntypehomearena |  
 | bip_39_word_space_0 | ['organ', 'resource', 'success', 'negative', 'host', 'own', 'type', 'home', 'arena', 'juice', 'seat', 'arrive'] |  
 | bip_39_word_space_1 | organ |  
 | bip_39_word_space_10 | organ resource success negative host own type home arena juice |  

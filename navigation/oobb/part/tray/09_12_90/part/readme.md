@@ -122,6 +122,18 @@ produce
 gloom
 disagree
 trim |  
+| bip_39_word_no_space_1 | large |  
+| bip_39_word_no_space_10 | largeprofitfatdamppuddingproducegloomdisagreetrimoil |  
+| bip_39_word_no_space_11 | largeprofitfatdamppuddingproducegloomdisagreetrimoilcard |  
+| bip_39_word_no_space_12 | largeprofitfatdamppuddingproducegloomdisagreetrimoilcardalways |  
+| bip_39_word_no_space_2 | largeprofit |  
+| bip_39_word_no_space_3 | largeprofitfat |  
+| bip_39_word_no_space_4 | largeprofitfatdamp |  
+| bip_39_word_no_space_5 | largeprofitfatdamppudding |  
+| bip_39_word_no_space_6 | largeprofitfatdamppuddingproduce |  
+| bip_39_word_no_space_7 | largeprofitfatdamppuddingproducegloom |  
+| bip_39_word_no_space_8 | largeprofitfatdamppuddingproducegloomdisagree |  
+| bip_39_word_no_space_9 | largeprofitfatdamppuddingproducegloomdisagreetrim |  
 | bip_39_word_space_0 | ['large', 'profit', 'fat', 'damp', 'pudding', 'produce', 'gloom', 'disagree', 'trim', 'oil', 'card', 'always'] |  
 | bip_39_word_space_1 | large |  
 | bip_39_word_space_10 | large profit fat damp pudding produce gloom disagree trim oil |  

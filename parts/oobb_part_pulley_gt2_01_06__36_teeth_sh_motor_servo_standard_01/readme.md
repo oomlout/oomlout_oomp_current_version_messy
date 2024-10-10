@@ -122,6 +122,18 @@ second
 nut
 legal
 service |  
+| bip_39_word_no_space_1 | labor |  
+| bip_39_word_no_space_10 | laborpermitnoticehoneyrejectsecondnutlegalservicescale |  
+| bip_39_word_no_space_11 | laborpermitnoticehoneyrejectsecondnutlegalservicescalepony |  
+| bip_39_word_no_space_12 | laborpermitnoticehoneyrejectsecondnutlegalservicescaleponyability |  
+| bip_39_word_no_space_2 | laborpermit |  
+| bip_39_word_no_space_3 | laborpermitnotice |  
+| bip_39_word_no_space_4 | laborpermitnoticehoney |  
+| bip_39_word_no_space_5 | laborpermitnoticehoneyreject |  
+| bip_39_word_no_space_6 | laborpermitnoticehoneyrejectsecond |  
+| bip_39_word_no_space_7 | laborpermitnoticehoneyrejectsecondnut |  
+| bip_39_word_no_space_8 | laborpermitnoticehoneyrejectsecondnutlegal |  
+| bip_39_word_no_space_9 | laborpermitnoticehoneyrejectsecondnutlegalservice |  
 | bip_39_word_space_0 | ['labor', 'permit', 'notice', 'honey', 'reject', 'second', 'nut', 'legal', 'service', 'scale', 'pony', 'ability'] |  
 | bip_39_word_space_1 | labor |  
 | bip_39_word_space_10 | labor permit notice honey reject second nut legal service scale |  

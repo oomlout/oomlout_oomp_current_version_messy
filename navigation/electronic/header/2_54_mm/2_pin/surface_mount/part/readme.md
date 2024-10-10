@@ -122,6 +122,18 @@ degree
 brush
 fitness
 fiction |  
+| bip_39_word_no_space_1 | thing |  
+| bip_39_word_no_space_10 | thingprotectpondsuggestrecorddegreebrushfitnessfictionartwork |  
+| bip_39_word_no_space_11 | thingprotectpondsuggestrecorddegreebrushfitnessfictionartworkenter |  
+| bip_39_word_no_space_12 | thingprotectpondsuggestrecorddegreebrushfitnessfictionartworkenteralley |  
+| bip_39_word_no_space_2 | thingprotect |  
+| bip_39_word_no_space_3 | thingprotectpond |  
+| bip_39_word_no_space_4 | thingprotectpondsuggest |  
+| bip_39_word_no_space_5 | thingprotectpondsuggestrecord |  
+| bip_39_word_no_space_6 | thingprotectpondsuggestrecorddegree |  
+| bip_39_word_no_space_7 | thingprotectpondsuggestrecorddegreebrush |  
+| bip_39_word_no_space_8 | thingprotectpondsuggestrecorddegreebrushfitness |  
+| bip_39_word_no_space_9 | thingprotectpondsuggestrecorddegreebrushfitnessfiction |  
 | bip_39_word_space_0 | ['thing', 'protect', 'pond', 'suggest', 'record', 'degree', 'brush', 'fitness', 'fiction', 'artwork', 'enter', 'alley'] |  
 | bip_39_word_space_1 | thing |  
 | bip_39_word_space_10 | thing protect pond suggest record degree brush fitness fiction artwork |  

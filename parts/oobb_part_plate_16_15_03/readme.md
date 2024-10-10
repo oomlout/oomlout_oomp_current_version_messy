@@ -122,6 +122,18 @@ twenty
 subway
 glow
 roast |  
+| bip_39_word_no_space_1 | wheat |  
+| bip_39_word_no_space_10 | wheattankblamefurnaceswallowtwentysubwayglowroastfarm |  
+| bip_39_word_no_space_11 | wheattankblamefurnaceswallowtwentysubwayglowroastfarmjunior |  
+| bip_39_word_no_space_12 | wheattankblamefurnaceswallowtwentysubwayglowroastfarmjuniorarctic |  
+| bip_39_word_no_space_2 | wheattank |  
+| bip_39_word_no_space_3 | wheattankblame |  
+| bip_39_word_no_space_4 | wheattankblamefurnace |  
+| bip_39_word_no_space_5 | wheattankblamefurnaceswallow |  
+| bip_39_word_no_space_6 | wheattankblamefurnaceswallowtwenty |  
+| bip_39_word_no_space_7 | wheattankblamefurnaceswallowtwentysubway |  
+| bip_39_word_no_space_8 | wheattankblamefurnaceswallowtwentysubwayglow |  
+| bip_39_word_no_space_9 | wheattankblamefurnaceswallowtwentysubwayglowroast |  
 | bip_39_word_space_0 | ['wheat', 'tank', 'blame', 'furnace', 'swallow', 'twenty', 'subway', 'glow', 'roast', 'farm', 'junior', 'arctic'] |  
 | bip_39_word_space_1 | wheat |  
 | bip_39_word_space_10 | wheat tank blame furnace swallow twenty subway glow roast farm |  

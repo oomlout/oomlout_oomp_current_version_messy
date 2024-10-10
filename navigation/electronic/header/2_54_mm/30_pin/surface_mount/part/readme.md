@@ -122,6 +122,18 @@ brown
 youth
 earn
 drastic |  
+| bip_39_word_no_space_1 | lounge |  
+| bip_39_word_no_space_10 | loungefuelcliffjarbrandbrownyouthearndrasticdance |  
+| bip_39_word_no_space_11 | loungefuelcliffjarbrandbrownyouthearndrasticdancedad |  
+| bip_39_word_no_space_12 | loungefuelcliffjarbrandbrownyouthearndrasticdancedadautumn |  
+| bip_39_word_no_space_2 | loungefuel |  
+| bip_39_word_no_space_3 | loungefuelcliff |  
+| bip_39_word_no_space_4 | loungefuelcliffjar |  
+| bip_39_word_no_space_5 | loungefuelcliffjarbrand |  
+| bip_39_word_no_space_6 | loungefuelcliffjarbrandbrown |  
+| bip_39_word_no_space_7 | loungefuelcliffjarbrandbrownyouth |  
+| bip_39_word_no_space_8 | loungefuelcliffjarbrandbrownyouthearn |  
+| bip_39_word_no_space_9 | loungefuelcliffjarbrandbrownyouthearndrastic |  
 | bip_39_word_space_0 | ['lounge', 'fuel', 'cliff', 'jar', 'brand', 'brown', 'youth', 'earn', 'drastic', 'dance', 'dad', 'autumn'] |  
 | bip_39_word_space_1 | lounge |  
 | bip_39_word_space_10 | lounge fuel cliff jar brand brown youth earn drastic dance |  

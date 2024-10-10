@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'chronic
   enforce
 
   eagle'
+bip_39_word_no_space_1: chronic
+bip_39_word_no_space_10: chronichorseisolatevastmarginfuelsadenforceeagleangle
+bip_39_word_no_space_11: chronichorseisolatevastmarginfuelsadenforceeagleangleapril
+bip_39_word_no_space_12: chronichorseisolatevastmarginfuelsadenforceeagleangleaprilamount
+bip_39_word_no_space_2: chronichorse
+bip_39_word_no_space_3: chronichorseisolate
+bip_39_word_no_space_4: chronichorseisolatevast
+bip_39_word_no_space_5: chronichorseisolatevastmargin
+bip_39_word_no_space_6: chronichorseisolatevastmarginfuel
+bip_39_word_no_space_7: chronichorseisolatevastmarginfuelsad
+bip_39_word_no_space_8: chronichorseisolatevastmarginfuelsadenforce
+bip_39_word_no_space_9: chronichorseisolatevastmarginfuelsadenforceeagle
 bip_39_word_space_0:
 - chronic
 - horse

@@ -122,6 +122,18 @@ oak
 lunch
 common
 pledge |  
+| bip_39_word_no_space_1 | drill |  
+| bip_39_word_no_space_10 | drillsaladsoldierareamodeloaklunchcommonpledgepear |  
+| bip_39_word_no_space_11 | drillsaladsoldierareamodeloaklunchcommonpledgepearsaddle |  
+| bip_39_word_no_space_12 | drillsaladsoldierareamodeloaklunchcommonpledgepearsaddleaccident |  
+| bip_39_word_no_space_2 | drillsalad |  
+| bip_39_word_no_space_3 | drillsaladsoldier |  
+| bip_39_word_no_space_4 | drillsaladsoldierarea |  
+| bip_39_word_no_space_5 | drillsaladsoldierareamodel |  
+| bip_39_word_no_space_6 | drillsaladsoldierareamodeloak |  
+| bip_39_word_no_space_7 | drillsaladsoldierareamodeloaklunch |  
+| bip_39_word_no_space_8 | drillsaladsoldierareamodeloaklunchcommon |  
+| bip_39_word_no_space_9 | drillsaladsoldierareamodeloaklunchcommonpledge |  
 | bip_39_word_space_0 | ['drill', 'salad', 'soldier', 'area', 'model', 'oak', 'lunch', 'common', 'pledge', 'pear', 'saddle', 'accident'] |  
 | bip_39_word_space_1 | drill |  
 | bip_39_word_space_10 | drill salad soldier area model oak lunch common pledge pear |  

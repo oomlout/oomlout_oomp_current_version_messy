@@ -122,6 +122,18 @@ spend
 rhythm
 oven
 poet |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparericehumanlizardeightspendrhythmovenpoetugly |  
+| bip_39_word_no_space_11 | preparericehumanlizardeightspendrhythmovenpoetuglyhalf |  
+| bip_39_word_no_space_12 | preparericehumanlizardeightspendrhythmovenpoetuglyhalfassume |  
+| bip_39_word_no_space_2 | preparerice |  
+| bip_39_word_no_space_3 | preparericehuman |  
+| bip_39_word_no_space_4 | preparericehumanlizard |  
+| bip_39_word_no_space_5 | preparericehumanlizardeight |  
+| bip_39_word_no_space_6 | preparericehumanlizardeightspend |  
+| bip_39_word_no_space_7 | preparericehumanlizardeightspendrhythm |  
+| bip_39_word_no_space_8 | preparericehumanlizardeightspendrhythmoven |  
+| bip_39_word_no_space_9 | preparericehumanlizardeightspendrhythmovenpoet |  
 | bip_39_word_space_0 | ['prepare', 'rice', 'human', 'lizard', 'eight', 'spend', 'rhythm', 'oven', 'poet', 'ugly', 'half', 'assume'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare rice human lizard eight spend rhythm oven poet ugly |  

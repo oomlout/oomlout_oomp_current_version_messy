@@ -122,6 +122,18 @@ amazing
 brave
 spice
 alone |  
+| bip_39_word_no_space_1 | outside |  
+| bip_39_word_no_space_10 | outsidetobaccoovenfootabstractamazingbravespicealonedecorate |  
+| bip_39_word_no_space_11 | outsidetobaccoovenfootabstractamazingbravespicealonedecoratetomorrow |  
+| bip_39_word_no_space_12 | outsidetobaccoovenfootabstractamazingbravespicealonedecoratetomorrowahead |  
+| bip_39_word_no_space_2 | outsidetobacco |  
+| bip_39_word_no_space_3 | outsidetobaccooven |  
+| bip_39_word_no_space_4 | outsidetobaccoovenfoot |  
+| bip_39_word_no_space_5 | outsidetobaccoovenfootabstract |  
+| bip_39_word_no_space_6 | outsidetobaccoovenfootabstractamazing |  
+| bip_39_word_no_space_7 | outsidetobaccoovenfootabstractamazingbrave |  
+| bip_39_word_no_space_8 | outsidetobaccoovenfootabstractamazingbravespice |  
+| bip_39_word_no_space_9 | outsidetobaccoovenfootabstractamazingbravespicealone |  
 | bip_39_word_space_0 | ['outside', 'tobacco', 'oven', 'foot', 'abstract', 'amazing', 'brave', 'spice', 'alone', 'decorate', 'tomorrow', 'ahead'] |  
 | bip_39_word_space_1 | outside |  
 | bip_39_word_space_10 | outside tobacco oven foot abstract amazing brave spice alone decorate |  

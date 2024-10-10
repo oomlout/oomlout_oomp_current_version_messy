@@ -122,6 +122,18 @@ utility
 violin
 public
 spike |  
+| bip_39_word_no_space_1 | spike |  
+| bip_39_word_no_space_10 | spikecomfortoffertornadofuryutilityviolinpublicspiketurn |  
+| bip_39_word_no_space_11 | spikecomfortoffertornadofuryutilityviolinpublicspiketurnhurt |  
+| bip_39_word_no_space_12 | spikecomfortoffertornadofuryutilityviolinpublicspiketurnhurtacross |  
+| bip_39_word_no_space_2 | spikecomfort |  
+| bip_39_word_no_space_3 | spikecomfortoffer |  
+| bip_39_word_no_space_4 | spikecomfortoffertornado |  
+| bip_39_word_no_space_5 | spikecomfortoffertornadofury |  
+| bip_39_word_no_space_6 | spikecomfortoffertornadofuryutility |  
+| bip_39_word_no_space_7 | spikecomfortoffertornadofuryutilityviolin |  
+| bip_39_word_no_space_8 | spikecomfortoffertornadofuryutilityviolinpublic |  
+| bip_39_word_no_space_9 | spikecomfortoffertornadofuryutilityviolinpublicspike |  
 | bip_39_word_space_0 | ['spike', 'comfort', 'offer', 'tornado', 'fury', 'utility', 'violin', 'public', 'spike', 'turn', 'hurt', 'across'] |  
 | bip_39_word_space_1 | spike |  
 | bip_39_word_space_10 | spike comfort offer tornado fury utility violin public spike turn |  

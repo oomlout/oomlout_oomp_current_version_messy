@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scrap
   survey
 
   equal'
+bip_39_word_no_space_1: scrap
+bip_39_word_no_space_10: scraphairdangerstorycatchcrashdemandsurveyequalglimpse
+bip_39_word_no_space_11: scraphairdangerstorycatchcrashdemandsurveyequalglimpseview
+bip_39_word_no_space_12: scraphairdangerstorycatchcrashdemandsurveyequalglimpseviewabstract
+bip_39_word_no_space_2: scraphair
+bip_39_word_no_space_3: scraphairdanger
+bip_39_word_no_space_4: scraphairdangerstory
+bip_39_word_no_space_5: scraphairdangerstorycatch
+bip_39_word_no_space_6: scraphairdangerstorycatchcrash
+bip_39_word_no_space_7: scraphairdangerstorycatchcrashdemand
+bip_39_word_no_space_8: scraphairdangerstorycatchcrashdemandsurvey
+bip_39_word_no_space_9: scraphairdangerstorycatchcrashdemandsurveyequal
 bip_39_word_space_0:
 - scrap
 - hair

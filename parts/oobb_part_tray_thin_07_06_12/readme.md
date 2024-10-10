@@ -122,6 +122,18 @@ ridge
 turn
 wheel
 inherit |  
+| bip_39_word_no_space_1 | laundry |  
+| bip_39_word_no_space_10 | laundrypreventflowerdaringreleaseridgeturnwheelinheritterm |  
+| bip_39_word_no_space_11 | laundrypreventflowerdaringreleaseridgeturnwheelinherittermpowder |  
+| bip_39_word_no_space_12 | laundrypreventflowerdaringreleaseridgeturnwheelinherittermpowderartist |  
+| bip_39_word_no_space_2 | laundryprevent |  
+| bip_39_word_no_space_3 | laundrypreventflower |  
+| bip_39_word_no_space_4 | laundrypreventflowerdaring |  
+| bip_39_word_no_space_5 | laundrypreventflowerdaringrelease |  
+| bip_39_word_no_space_6 | laundrypreventflowerdaringreleaseridge |  
+| bip_39_word_no_space_7 | laundrypreventflowerdaringreleaseridgeturn |  
+| bip_39_word_no_space_8 | laundrypreventflowerdaringreleaseridgeturnwheel |  
+| bip_39_word_no_space_9 | laundrypreventflowerdaringreleaseridgeturnwheelinherit |  
 | bip_39_word_space_0 | ['laundry', 'prevent', 'flower', 'daring', 'release', 'ridge', 'turn', 'wheel', 'inherit', 'term', 'powder', 'artist'] |  
 | bip_39_word_space_1 | laundry |  
 | bip_39_word_space_10 | laundry prevent flower daring release ridge turn wheel inherit term |  

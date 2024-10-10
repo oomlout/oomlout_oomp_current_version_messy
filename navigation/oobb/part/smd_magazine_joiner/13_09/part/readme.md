@@ -122,6 +122,18 @@ assume
 position
 hard
 tomorrow |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideadeernestwhalecoverassumepositionhardtomorrowitem |  
+| bip_39_word_no_space_11 | ideadeernestwhalecoverassumepositionhardtomorrowitemincome |  
+| bip_39_word_no_space_12 | ideadeernestwhalecoverassumepositionhardtomorrowitemincomeassume |  
+| bip_39_word_no_space_2 | ideadeer |  
+| bip_39_word_no_space_3 | ideadeernest |  
+| bip_39_word_no_space_4 | ideadeernestwhale |  
+| bip_39_word_no_space_5 | ideadeernestwhalecover |  
+| bip_39_word_no_space_6 | ideadeernestwhalecoverassume |  
+| bip_39_word_no_space_7 | ideadeernestwhalecoverassumeposition |  
+| bip_39_word_no_space_8 | ideadeernestwhalecoverassumepositionhard |  
+| bip_39_word_no_space_9 | ideadeernestwhalecoverassumepositionhardtomorrow |  
 | bip_39_word_space_0 | ['idea', 'deer', 'nest', 'whale', 'cover', 'assume', 'position', 'hard', 'tomorrow', 'item', 'income', 'assume'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea deer nest whale cover assume position hard tomorrow item |  

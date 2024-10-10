@@ -122,6 +122,18 @@ tackle
 order
 glare
 private |  
+| bip_39_word_no_space_1 | bubble |  
+| bip_39_word_no_space_10 | bubbleactfamoushamsternettackleorderglareprivateevoke |  
+| bip_39_word_no_space_11 | bubbleactfamoushamsternettackleorderglareprivateevoketheme |  
+| bip_39_word_no_space_12 | bubbleactfamoushamsternettackleorderglareprivateevokethemeapart |  
+| bip_39_word_no_space_2 | bubbleact |  
+| bip_39_word_no_space_3 | bubbleactfamous |  
+| bip_39_word_no_space_4 | bubbleactfamoushamster |  
+| bip_39_word_no_space_5 | bubbleactfamoushamsternet |  
+| bip_39_word_no_space_6 | bubbleactfamoushamsternettackle |  
+| bip_39_word_no_space_7 | bubbleactfamoushamsternettackleorder |  
+| bip_39_word_no_space_8 | bubbleactfamoushamsternettackleorderglare |  
+| bip_39_word_no_space_9 | bubbleactfamoushamsternettackleorderglareprivate |  
 | bip_39_word_space_0 | ['bubble', 'act', 'famous', 'hamster', 'net', 'tackle', 'order', 'glare', 'private', 'evoke', 'theme', 'apart'] |  
 | bip_39_word_space_1 | bubble |  
 | bip_39_word_space_10 | bubble act famous hamster net tackle order glare private evoke |  

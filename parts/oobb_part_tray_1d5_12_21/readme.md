@@ -122,6 +122,18 @@ believe
 stock
 mule
 office |  
+| bip_39_word_no_space_1 | mountain |  
+| bip_39_word_no_space_10 | mountaincatalogorderstocksurroundbelievestockmuleofficepeace |  
+| bip_39_word_no_space_11 | mountaincatalogorderstocksurroundbelievestockmuleofficepeacetuition |  
+| bip_39_word_no_space_12 | mountaincatalogorderstocksurroundbelievestockmuleofficepeacetuitionannual |  
+| bip_39_word_no_space_2 | mountaincatalog |  
+| bip_39_word_no_space_3 | mountaincatalogorder |  
+| bip_39_word_no_space_4 | mountaincatalogorderstock |  
+| bip_39_word_no_space_5 | mountaincatalogorderstocksurround |  
+| bip_39_word_no_space_6 | mountaincatalogorderstocksurroundbelieve |  
+| bip_39_word_no_space_7 | mountaincatalogorderstocksurroundbelievestock |  
+| bip_39_word_no_space_8 | mountaincatalogorderstocksurroundbelievestockmule |  
+| bip_39_word_no_space_9 | mountaincatalogorderstocksurroundbelievestockmuleoffice |  
 | bip_39_word_space_0 | ['mountain', 'catalog', 'order', 'stock', 'surround', 'believe', 'stock', 'mule', 'office', 'peace', 'tuition', 'annual'] |  
 | bip_39_word_space_1 | mountain |  
 | bip_39_word_space_10 | mountain catalog order stock surround believe stock mule office peace |  

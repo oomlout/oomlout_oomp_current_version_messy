@@ -122,6 +122,18 @@ security
 glance
 nest
 turn |  
+| bip_39_word_no_space_1 | tooth |  
+| bip_39_word_no_space_10 | toothpostrecallvariousasthmasecurityglancenestturnalways |  
+| bip_39_word_no_space_11 | toothpostrecallvariousasthmasecurityglancenestturnalwaysnurse |  
+| bip_39_word_no_space_12 | toothpostrecallvariousasthmasecurityglancenestturnalwaysnurseanchor |  
+| bip_39_word_no_space_2 | toothpost |  
+| bip_39_word_no_space_3 | toothpostrecall |  
+| bip_39_word_no_space_4 | toothpostrecallvarious |  
+| bip_39_word_no_space_5 | toothpostrecallvariousasthma |  
+| bip_39_word_no_space_6 | toothpostrecallvariousasthmasecurity |  
+| bip_39_word_no_space_7 | toothpostrecallvariousasthmasecurityglance |  
+| bip_39_word_no_space_8 | toothpostrecallvariousasthmasecurityglancenest |  
+| bip_39_word_no_space_9 | toothpostrecallvariousasthmasecurityglancenestturn |  
 | bip_39_word_space_0 | ['tooth', 'post', 'recall', 'various', 'asthma', 'security', 'glance', 'nest', 'turn', 'always', 'nurse', 'anchor'] |  
 | bip_39_word_space_1 | tooth |  
 | bip_39_word_space_10 | tooth post recall various asthma security glance nest turn always |  

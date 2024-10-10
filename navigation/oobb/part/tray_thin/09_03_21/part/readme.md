@@ -122,6 +122,18 @@ pepper
 stick
 long
 robot |  
+| bip_39_word_no_space_1 | brick |  
+| bip_39_word_no_space_10 | brickathleteangerunhappybookpeppersticklongroboteager |  
+| bip_39_word_no_space_11 | brickathleteangerunhappybookpeppersticklongroboteagerminimum |  
+| bip_39_word_no_space_12 | brickathleteangerunhappybookpeppersticklongroboteagerminimumarrow |  
+| bip_39_word_no_space_2 | brickathlete |  
+| bip_39_word_no_space_3 | brickathleteanger |  
+| bip_39_word_no_space_4 | brickathleteangerunhappy |  
+| bip_39_word_no_space_5 | brickathleteangerunhappybook |  
+| bip_39_word_no_space_6 | brickathleteangerunhappybookpepper |  
+| bip_39_word_no_space_7 | brickathleteangerunhappybookpepperstick |  
+| bip_39_word_no_space_8 | brickathleteangerunhappybookpeppersticklong |  
+| bip_39_word_no_space_9 | brickathleteangerunhappybookpeppersticklongrobot |  
 | bip_39_word_space_0 | ['brick', 'athlete', 'anger', 'unhappy', 'book', 'pepper', 'stick', 'long', 'robot', 'eager', 'minimum', 'arrow'] |  
 | bip_39_word_space_1 | brick |  
 | bip_39_word_space_10 | brick athlete anger unhappy book pepper stick long robot eager |  

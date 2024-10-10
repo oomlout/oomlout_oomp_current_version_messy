@@ -122,6 +122,18 @@ layer
 essay
 popular
 canal |  
+| bip_39_word_no_space_1 | vocal |  
+| bip_39_word_no_space_10 | vocalfantasyslushasthmaturnlayeressaypopularcanalfloat |  
+| bip_39_word_no_space_11 | vocalfantasyslushasthmaturnlayeressaypopularcanalfloatcradle |  
+| bip_39_word_no_space_12 | vocalfantasyslushasthmaturnlayeressaypopularcanalfloatcradleadvice |  
+| bip_39_word_no_space_2 | vocalfantasy |  
+| bip_39_word_no_space_3 | vocalfantasyslush |  
+| bip_39_word_no_space_4 | vocalfantasyslushasthma |  
+| bip_39_word_no_space_5 | vocalfantasyslushasthmaturn |  
+| bip_39_word_no_space_6 | vocalfantasyslushasthmaturnlayer |  
+| bip_39_word_no_space_7 | vocalfantasyslushasthmaturnlayeressay |  
+| bip_39_word_no_space_8 | vocalfantasyslushasthmaturnlayeressaypopular |  
+| bip_39_word_no_space_9 | vocalfantasyslushasthmaturnlayeressaypopularcanal |  
 | bip_39_word_space_0 | ['vocal', 'fantasy', 'slush', 'asthma', 'turn', 'layer', 'essay', 'popular', 'canal', 'float', 'cradle', 'advice'] |  
 | bip_39_word_space_1 | vocal |  
 | bip_39_word_space_10 | vocal fantasy slush asthma turn layer essay popular canal float |  

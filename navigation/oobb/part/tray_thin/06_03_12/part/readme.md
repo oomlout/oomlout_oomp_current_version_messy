@@ -122,6 +122,18 @@ play
 shift
 suffer
 marriage |  
+| bip_39_word_no_space_1 | engage |  
+| bip_39_word_no_space_10 | engagelawmarchembodysurfaceplayshiftsuffermarriagesituate |  
+| bip_39_word_no_space_11 | engagelawmarchembodysurfaceplayshiftsuffermarriagesituatefoster |  
+| bip_39_word_no_space_12 | engagelawmarchembodysurfaceplayshiftsuffermarriagesituatefosterapril |  
+| bip_39_word_no_space_2 | engagelaw |  
+| bip_39_word_no_space_3 | engagelawmarch |  
+| bip_39_word_no_space_4 | engagelawmarchembody |  
+| bip_39_word_no_space_5 | engagelawmarchembodysurface |  
+| bip_39_word_no_space_6 | engagelawmarchembodysurfaceplay |  
+| bip_39_word_no_space_7 | engagelawmarchembodysurfaceplayshift |  
+| bip_39_word_no_space_8 | engagelawmarchembodysurfaceplayshiftsuffer |  
+| bip_39_word_no_space_9 | engagelawmarchembodysurfaceplayshiftsuffermarriage |  
 | bip_39_word_space_0 | ['engage', 'law', 'march', 'embody', 'surface', 'play', 'shift', 'suffer', 'marriage', 'situate', 'foster', 'april'] |  
 | bip_39_word_space_1 | engage |  
 | bip_39_word_space_10 | engage law march embody surface play shift suffer marriage situate |  

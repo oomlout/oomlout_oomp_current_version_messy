@@ -122,6 +122,18 @@ move
 nominee
 piano
 gaze |  
+| bip_39_word_no_space_1 | duck |  
+| bip_39_word_no_space_10 | duckcanoenextgorillahiddenmovenomineepianogazebuffalo |  
+| bip_39_word_no_space_11 | duckcanoenextgorillahiddenmovenomineepianogazebuffalocontrol |  
+| bip_39_word_no_space_12 | duckcanoenextgorillahiddenmovenomineepianogazebuffalocontrolarmy |  
+| bip_39_word_no_space_2 | duckcanoe |  
+| bip_39_word_no_space_3 | duckcanoenext |  
+| bip_39_word_no_space_4 | duckcanoenextgorilla |  
+| bip_39_word_no_space_5 | duckcanoenextgorillahidden |  
+| bip_39_word_no_space_6 | duckcanoenextgorillahiddenmove |  
+| bip_39_word_no_space_7 | duckcanoenextgorillahiddenmovenominee |  
+| bip_39_word_no_space_8 | duckcanoenextgorillahiddenmovenomineepiano |  
+| bip_39_word_no_space_9 | duckcanoenextgorillahiddenmovenomineepianogaze |  
 | bip_39_word_space_0 | ['duck', 'canoe', 'next', 'gorilla', 'hidden', 'move', 'nominee', 'piano', 'gaze', 'buffalo', 'control', 'army'] |  
 | bip_39_word_space_1 | duck |  
 | bip_39_word_space_10 | duck canoe next gorilla hidden move nominee piano gaze buffalo |  

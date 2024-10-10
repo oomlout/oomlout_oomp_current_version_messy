@@ -122,6 +122,18 @@ horror
 photo
 include
 real |  
+| bip_39_word_no_space_1 | like |  
+| bip_39_word_no_space_10 | likecheeseviciousfamilysatoshihorrorphotoincluderealgenre |  
+| bip_39_word_no_space_11 | likecheeseviciousfamilysatoshihorrorphotoincluderealgenreoven |  
+| bip_39_word_no_space_12 | likecheeseviciousfamilysatoshihorrorphotoincluderealgenreovenadvice |  
+| bip_39_word_no_space_2 | likecheese |  
+| bip_39_word_no_space_3 | likecheesevicious |  
+| bip_39_word_no_space_4 | likecheeseviciousfamily |  
+| bip_39_word_no_space_5 | likecheeseviciousfamilysatoshi |  
+| bip_39_word_no_space_6 | likecheeseviciousfamilysatoshihorror |  
+| bip_39_word_no_space_7 | likecheeseviciousfamilysatoshihorrorphoto |  
+| bip_39_word_no_space_8 | likecheeseviciousfamilysatoshihorrorphotoinclude |  
+| bip_39_word_no_space_9 | likecheeseviciousfamilysatoshihorrorphotoincludereal |  
 | bip_39_word_space_0 | ['like', 'cheese', 'vicious', 'family', 'satoshi', 'horror', 'photo', 'include', 'real', 'genre', 'oven', 'advice'] |  
 | bip_39_word_space_1 | like |  
 | bip_39_word_space_10 | like cheese vicious family satoshi horror photo include real genre |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vital
   crouch
 
   long'
+bip_39_word_no_space_1: vital
+bip_39_word_no_space_10: vitaleggdisagreebicyclesketchbargainvancrouchlongharbor
+bip_39_word_no_space_11: vitaleggdisagreebicyclesketchbargainvancrouchlongharbordamage
+bip_39_word_no_space_12: vitaleggdisagreebicyclesketchbargainvancrouchlongharbordamageart
+bip_39_word_no_space_2: vitalegg
+bip_39_word_no_space_3: vitaleggdisagree
+bip_39_word_no_space_4: vitaleggdisagreebicycle
+bip_39_word_no_space_5: vitaleggdisagreebicyclesketch
+bip_39_word_no_space_6: vitaleggdisagreebicyclesketchbargain
+bip_39_word_no_space_7: vitaleggdisagreebicyclesketchbargainvan
+bip_39_word_no_space_8: vitaleggdisagreebicyclesketchbargainvancrouch
+bip_39_word_no_space_9: vitaleggdisagreebicyclesketchbargainvancrouchlong
 bip_39_word_space_0:
 - vital
 - egg

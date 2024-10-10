@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'throw
   finish
 
   visual'
+bip_39_word_no_space_1: throw
+bip_39_word_no_space_10: throwbroomtrashfleeobeyassetlibraryfinishvisualspace
+bip_39_word_no_space_11: throwbroomtrashfleeobeyassetlibraryfinishvisualspaceworry
+bip_39_word_no_space_12: throwbroomtrashfleeobeyassetlibraryfinishvisualspaceworryasset
+bip_39_word_no_space_2: throwbroom
+bip_39_word_no_space_3: throwbroomtrash
+bip_39_word_no_space_4: throwbroomtrashflee
+bip_39_word_no_space_5: throwbroomtrashfleeobey
+bip_39_word_no_space_6: throwbroomtrashfleeobeyasset
+bip_39_word_no_space_7: throwbroomtrashfleeobeyassetlibrary
+bip_39_word_no_space_8: throwbroomtrashfleeobeyassetlibraryfinish
+bip_39_word_no_space_9: throwbroomtrashfleeobeyassetlibraryfinishvisual
 bip_39_word_space_0:
 - throw
 - broom

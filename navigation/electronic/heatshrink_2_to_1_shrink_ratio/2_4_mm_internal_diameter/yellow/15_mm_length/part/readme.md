@@ -122,6 +122,18 @@ essay
 seat
 want
 vapor |  
+| bip_39_word_no_space_1 | family |  
+| bip_39_word_no_space_10 | familyrichbeanareabrickessayseatwantvaporparent |  
+| bip_39_word_no_space_11 | familyrichbeanareabrickessayseatwantvaporparentlonely |  
+| bip_39_word_no_space_12 | familyrichbeanareabrickessayseatwantvaporparentlonelyact |  
+| bip_39_word_no_space_2 | familyrich |  
+| bip_39_word_no_space_3 | familyrichbean |  
+| bip_39_word_no_space_4 | familyrichbeanarea |  
+| bip_39_word_no_space_5 | familyrichbeanareabrick |  
+| bip_39_word_no_space_6 | familyrichbeanareabrickessay |  
+| bip_39_word_no_space_7 | familyrichbeanareabrickessayseat |  
+| bip_39_word_no_space_8 | familyrichbeanareabrickessayseatwant |  
+| bip_39_word_no_space_9 | familyrichbeanareabrickessayseatwantvapor |  
 | bip_39_word_space_0 | ['family', 'rich', 'bean', 'area', 'brick', 'essay', 'seat', 'want', 'vapor', 'parent', 'lonely', 'act'] |  
 | bip_39_word_space_1 | family |  
 | bip_39_word_space_10 | family rich bean area brick essay seat want vapor parent |  

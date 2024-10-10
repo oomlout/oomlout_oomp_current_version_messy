@@ -122,6 +122,18 @@ mention
 crucial
 early
 distance |  
+| bip_39_word_no_space_1 | cake |  
+| bip_39_word_no_space_10 | cakeclevercaughteducatelabelmentioncrucialearlydistancehub |  
+| bip_39_word_no_space_11 | cakeclevercaughteducatelabelmentioncrucialearlydistancehubsand |  
+| bip_39_word_no_space_12 | cakeclevercaughteducatelabelmentioncrucialearlydistancehubsandapril |  
+| bip_39_word_no_space_2 | cakeclever |  
+| bip_39_word_no_space_3 | cakeclevercaught |  
+| bip_39_word_no_space_4 | cakeclevercaughteducate |  
+| bip_39_word_no_space_5 | cakeclevercaughteducatelabel |  
+| bip_39_word_no_space_6 | cakeclevercaughteducatelabelmention |  
+| bip_39_word_no_space_7 | cakeclevercaughteducatelabelmentioncrucial |  
+| bip_39_word_no_space_8 | cakeclevercaughteducatelabelmentioncrucialearly |  
+| bip_39_word_no_space_9 | cakeclevercaughteducatelabelmentioncrucialearlydistance |  
 | bip_39_word_space_0 | ['cake', 'clever', 'caught', 'educate', 'label', 'mention', 'crucial', 'early', 'distance', 'hub', 'sand', 'april'] |  
 | bip_39_word_space_1 | cake |  
 | bip_39_word_space_10 | cake clever caught educate label mention crucial early distance hub |  

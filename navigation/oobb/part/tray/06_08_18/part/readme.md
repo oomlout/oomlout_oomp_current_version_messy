@@ -122,6 +122,18 @@ body
 pool
 teach
 awkward |  
+| bip_39_word_no_space_1 | film |  
+| bip_39_word_no_space_10 | filmadultnurseforkpigeonbodypoolteachawkwardmuseum |  
+| bip_39_word_no_space_11 | filmadultnurseforkpigeonbodypoolteachawkwardmuseumjourney |  
+| bip_39_word_no_space_12 | filmadultnurseforkpigeonbodypoolteachawkwardmuseumjourneyalcohol |  
+| bip_39_word_no_space_2 | filmadult |  
+| bip_39_word_no_space_3 | filmadultnurse |  
+| bip_39_word_no_space_4 | filmadultnursefork |  
+| bip_39_word_no_space_5 | filmadultnurseforkpigeon |  
+| bip_39_word_no_space_6 | filmadultnurseforkpigeonbody |  
+| bip_39_word_no_space_7 | filmadultnurseforkpigeonbodypool |  
+| bip_39_word_no_space_8 | filmadultnurseforkpigeonbodypoolteach |  
+| bip_39_word_no_space_9 | filmadultnurseforkpigeonbodypoolteachawkward |  
 | bip_39_word_space_0 | ['film', 'adult', 'nurse', 'fork', 'pigeon', 'body', 'pool', 'teach', 'awkward', 'museum', 'journey', 'alcohol'] |  
 | bip_39_word_space_1 | film |  
 | bip_39_word_space_10 | film adult nurse fork pigeon body pool teach awkward museum |  

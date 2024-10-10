@@ -122,6 +122,18 @@ fragile
 arrive
 satoshi
 spend |  
+| bip_39_word_no_space_1 | title |  
+| bip_39_word_no_space_10 | titlezebraguitarexistinstallfragilearrivesatoshispendtired |  
+| bip_39_word_no_space_11 | titlezebraguitarexistinstallfragilearrivesatoshispendtiredcanal |  
+| bip_39_word_no_space_12 | titlezebraguitarexistinstallfragilearrivesatoshispendtiredcanalacquire |  
+| bip_39_word_no_space_2 | titlezebra |  
+| bip_39_word_no_space_3 | titlezebraguitar |  
+| bip_39_word_no_space_4 | titlezebraguitarexist |  
+| bip_39_word_no_space_5 | titlezebraguitarexistinstall |  
+| bip_39_word_no_space_6 | titlezebraguitarexistinstallfragile |  
+| bip_39_word_no_space_7 | titlezebraguitarexistinstallfragilearrive |  
+| bip_39_word_no_space_8 | titlezebraguitarexistinstallfragilearrivesatoshi |  
+| bip_39_word_no_space_9 | titlezebraguitarexistinstallfragilearrivesatoshispend |  
 | bip_39_word_space_0 | ['title', 'zebra', 'guitar', 'exist', 'install', 'fragile', 'arrive', 'satoshi', 'spend', 'tired', 'canal', 'acquire'] |  
 | bip_39_word_space_1 | title |  
 | bip_39_word_space_10 | title zebra guitar exist install fragile arrive satoshi spend tired |  

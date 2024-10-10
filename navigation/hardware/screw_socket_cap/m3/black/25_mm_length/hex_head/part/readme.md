@@ -122,6 +122,18 @@ waste
 embrace
 sunset
 orange |  
+| bip_39_word_no_space_1 | acid |  
+| bip_39_word_no_space_10 | acidsensemomentangrybasicwasteembracesunsetorangequiz |  
+| bip_39_word_no_space_11 | acidsensemomentangrybasicwasteembracesunsetorangequizgrass |  
+| bip_39_word_no_space_12 | acidsensemomentangrybasicwasteembracesunsetorangequizgrassaerobic |  
+| bip_39_word_no_space_2 | acidsense |  
+| bip_39_word_no_space_3 | acidsensemoment |  
+| bip_39_word_no_space_4 | acidsensemomentangry |  
+| bip_39_word_no_space_5 | acidsensemomentangrybasic |  
+| bip_39_word_no_space_6 | acidsensemomentangrybasicwaste |  
+| bip_39_word_no_space_7 | acidsensemomentangrybasicwasteembrace |  
+| bip_39_word_no_space_8 | acidsensemomentangrybasicwasteembracesunset |  
+| bip_39_word_no_space_9 | acidsensemomentangrybasicwasteembracesunsetorange |  
 | bip_39_word_space_0 | ['acid', 'sense', 'moment', 'angry', 'basic', 'waste', 'embrace', 'sunset', 'orange', 'quiz', 'grass', 'aerobic'] |  
 | bip_39_word_space_1 | acid |  
 | bip_39_word_space_10 | acid sense moment angry basic waste embrace sunset orange quiz |  

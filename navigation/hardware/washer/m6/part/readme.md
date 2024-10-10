@@ -122,6 +122,18 @@ nominee
 poverty
 shy
 abuse |  
+| bip_39_word_no_space_1 | display |  
+| bip_39_word_no_space_10 | displaychurnquestionfitfamousnomineepovertyshyabuseseries |  
+| bip_39_word_no_space_11 | displaychurnquestionfitfamousnomineepovertyshyabuseseriesinspire |  
+| bip_39_word_no_space_12 | displaychurnquestionfitfamousnomineepovertyshyabuseseriesinspireaccuse |  
+| bip_39_word_no_space_2 | displaychurn |  
+| bip_39_word_no_space_3 | displaychurnquestion |  
+| bip_39_word_no_space_4 | displaychurnquestionfit |  
+| bip_39_word_no_space_5 | displaychurnquestionfitfamous |  
+| bip_39_word_no_space_6 | displaychurnquestionfitfamousnominee |  
+| bip_39_word_no_space_7 | displaychurnquestionfitfamousnomineepoverty |  
+| bip_39_word_no_space_8 | displaychurnquestionfitfamousnomineepovertyshy |  
+| bip_39_word_no_space_9 | displaychurnquestionfitfamousnomineepovertyshyabuse |  
 | bip_39_word_space_0 | ['display', 'churn', 'question', 'fit', 'famous', 'nominee', 'poverty', 'shy', 'abuse', 'series', 'inspire', 'accuse'] |  
 | bip_39_word_space_1 | display |  
 | bip_39_word_space_10 | display churn question fit famous nominee poverty shy abuse series |  

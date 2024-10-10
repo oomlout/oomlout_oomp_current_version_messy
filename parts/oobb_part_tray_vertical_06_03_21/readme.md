@@ -122,6 +122,18 @@ news
 media
 armed
 crowd |  
+| bip_39_word_no_space_1 | net |  
+| bip_39_word_no_space_10 | netaskembarkdragonmorningnewsmediaarmedcrowdwinter |  
+| bip_39_word_no_space_11 | netaskembarkdragonmorningnewsmediaarmedcrowdwintercoyote |  
+| bip_39_word_no_space_12 | netaskembarkdragonmorningnewsmediaarmedcrowdwintercoyoteanswer |  
+| bip_39_word_no_space_2 | netask |  
+| bip_39_word_no_space_3 | netaskembark |  
+| bip_39_word_no_space_4 | netaskembarkdragon |  
+| bip_39_word_no_space_5 | netaskembarkdragonmorning |  
+| bip_39_word_no_space_6 | netaskembarkdragonmorningnews |  
+| bip_39_word_no_space_7 | netaskembarkdragonmorningnewsmedia |  
+| bip_39_word_no_space_8 | netaskembarkdragonmorningnewsmediaarmed |  
+| bip_39_word_no_space_9 | netaskembarkdragonmorningnewsmediaarmedcrowd |  
 | bip_39_word_space_0 | ['net', 'ask', 'embark', 'dragon', 'morning', 'news', 'media', 'armed', 'crowd', 'winter', 'coyote', 'answer'] |  
 | bip_39_word_space_1 | net |  
 | bip_39_word_space_10 | net ask embark dragon morning news media armed crowd winter |  

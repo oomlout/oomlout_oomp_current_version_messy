@@ -122,6 +122,18 @@ wagon
 alter
 dragon
 benefit |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detectclientticketbabylecturewagonalterdragonbenefitplastic |  
+| bip_39_word_no_space_11 | detectclientticketbabylecturewagonalterdragonbenefitplastichip |  
+| bip_39_word_no_space_12 | detectclientticketbabylecturewagonalterdragonbenefitplastichipassist |  
+| bip_39_word_no_space_2 | detectclient |  
+| bip_39_word_no_space_3 | detectclientticket |  
+| bip_39_word_no_space_4 | detectclientticketbaby |  
+| bip_39_word_no_space_5 | detectclientticketbabylecture |  
+| bip_39_word_no_space_6 | detectclientticketbabylecturewagon |  
+| bip_39_word_no_space_7 | detectclientticketbabylecturewagonalter |  
+| bip_39_word_no_space_8 | detectclientticketbabylecturewagonalterdragon |  
+| bip_39_word_no_space_9 | detectclientticketbabylecturewagonalterdragonbenefit |  
 | bip_39_word_space_0 | ['detect', 'client', 'ticket', 'baby', 'lecture', 'wagon', 'alter', 'dragon', 'benefit', 'plastic', 'hip', 'assist'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect client ticket baby lecture wagon alter dragon benefit plastic |  

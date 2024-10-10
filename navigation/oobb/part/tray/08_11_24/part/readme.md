@@ -122,6 +122,18 @@ agent
 crime
 mountain
 detect |  
+| bip_39_word_no_space_1 | cabbage |  
+| bip_39_word_no_space_10 | cabbageinquiryridgeadultspoilagentcrimemountaindetectvast |  
+| bip_39_word_no_space_11 | cabbageinquiryridgeadultspoilagentcrimemountaindetectvasthorror |  
+| bip_39_word_no_space_12 | cabbageinquiryridgeadultspoilagentcrimemountaindetectvasthorroralert |  
+| bip_39_word_no_space_2 | cabbageinquiry |  
+| bip_39_word_no_space_3 | cabbageinquiryridge |  
+| bip_39_word_no_space_4 | cabbageinquiryridgeadult |  
+| bip_39_word_no_space_5 | cabbageinquiryridgeadultspoil |  
+| bip_39_word_no_space_6 | cabbageinquiryridgeadultspoilagent |  
+| bip_39_word_no_space_7 | cabbageinquiryridgeadultspoilagentcrime |  
+| bip_39_word_no_space_8 | cabbageinquiryridgeadultspoilagentcrimemountain |  
+| bip_39_word_no_space_9 | cabbageinquiryridgeadultspoilagentcrimemountaindetect |  
 | bip_39_word_space_0 | ['cabbage', 'inquiry', 'ridge', 'adult', 'spoil', 'agent', 'crime', 'mountain', 'detect', 'vast', 'horror', 'alert'] |  
 | bip_39_word_space_1 | cabbage |  
 | bip_39_word_space_10 | cabbage inquiry ridge adult spoil agent crime mountain detect vast |  

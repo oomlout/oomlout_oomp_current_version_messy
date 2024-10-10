@@ -122,6 +122,18 @@ venue
 hat
 buddy
 regular |  
+| bip_39_word_no_space_1 | atom |  
+| bip_39_word_no_space_10 | atomhappylaptopconsidercrispvenuehatbuddyregularowner |  
+| bip_39_word_no_space_11 | atomhappylaptopconsidercrispvenuehatbuddyregularownerlock |  
+| bip_39_word_no_space_12 | atomhappylaptopconsidercrispvenuehatbuddyregularownerlockadd |  
+| bip_39_word_no_space_2 | atomhappy |  
+| bip_39_word_no_space_3 | atomhappylaptop |  
+| bip_39_word_no_space_4 | atomhappylaptopconsider |  
+| bip_39_word_no_space_5 | atomhappylaptopconsidercrisp |  
+| bip_39_word_no_space_6 | atomhappylaptopconsidercrispvenue |  
+| bip_39_word_no_space_7 | atomhappylaptopconsidercrispvenuehat |  
+| bip_39_word_no_space_8 | atomhappylaptopconsidercrispvenuehatbuddy |  
+| bip_39_word_no_space_9 | atomhappylaptopconsidercrispvenuehatbuddyregular |  
 | bip_39_word_space_0 | ['atom', 'happy', 'laptop', 'consider', 'crisp', 'venue', 'hat', 'buddy', 'regular', 'owner', 'lock', 'add'] |  
 | bip_39_word_space_1 | atom |  
 | bip_39_word_space_10 | atom happy laptop consider crisp venue hat buddy regular owner |  

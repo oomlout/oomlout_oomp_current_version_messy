@@ -122,6 +122,18 @@ car
 awake
 tongue
 harsh |  
+| bip_39_word_no_space_1 | dirt |  
+| bip_39_word_no_space_10 | dirtrangeannualwhentripcarawaketongueharshmisery |  
+| bip_39_word_no_space_11 | dirtrangeannualwhentripcarawaketongueharshmiserywalk |  
+| bip_39_word_no_space_12 | dirtrangeannualwhentripcarawaketongueharshmiserywalkactor |  
+| bip_39_word_no_space_2 | dirtrange |  
+| bip_39_word_no_space_3 | dirtrangeannual |  
+| bip_39_word_no_space_4 | dirtrangeannualwhen |  
+| bip_39_word_no_space_5 | dirtrangeannualwhentrip |  
+| bip_39_word_no_space_6 | dirtrangeannualwhentripcar |  
+| bip_39_word_no_space_7 | dirtrangeannualwhentripcarawake |  
+| bip_39_word_no_space_8 | dirtrangeannualwhentripcarawaketongue |  
+| bip_39_word_no_space_9 | dirtrangeannualwhentripcarawaketongueharsh |  
 | bip_39_word_space_0 | ['dirt', 'range', 'annual', 'when', 'trip', 'car', 'awake', 'tongue', 'harsh', 'misery', 'walk', 'actor'] |  
 | bip_39_word_space_1 | dirt |  
 | bip_39_word_space_10 | dirt range annual when trip car awake tongue harsh misery |  

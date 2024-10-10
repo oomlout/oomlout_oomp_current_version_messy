@@ -122,6 +122,18 @@ bleak
 tool
 nest
 link |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemshovefoildizzybasicbleaktoolnestlinkbattle |  
+| bip_39_word_no_space_11 | itemshovefoildizzybasicbleaktoolnestlinkbattleorder |  
+| bip_39_word_no_space_12 | itemshovefoildizzybasicbleaktoolnestlinkbattleorderact |  
+| bip_39_word_no_space_2 | itemshove |  
+| bip_39_word_no_space_3 | itemshovefoil |  
+| bip_39_word_no_space_4 | itemshovefoildizzy |  
+| bip_39_word_no_space_5 | itemshovefoildizzybasic |  
+| bip_39_word_no_space_6 | itemshovefoildizzybasicbleak |  
+| bip_39_word_no_space_7 | itemshovefoildizzybasicbleaktool |  
+| bip_39_word_no_space_8 | itemshovefoildizzybasicbleaktoolnest |  
+| bip_39_word_no_space_9 | itemshovefoildizzybasicbleaktoolnestlink |  
 | bip_39_word_space_0 | ['item', 'shove', 'foil', 'dizzy', 'basic', 'bleak', 'tool', 'nest', 'link', 'battle', 'order', 'act'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item shove foil dizzy basic bleak tool nest link battle |  

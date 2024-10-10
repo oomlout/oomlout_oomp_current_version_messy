@@ -122,6 +122,18 @@ october
 glory
 chef
 tragic |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchhazardsystemsuitgainoctoberglorycheftragicmuch |  
+| bip_39_word_no_space_11 | fetchhazardsystemsuitgainoctoberglorycheftragicmuchtired |  
+| bip_39_word_no_space_12 | fetchhazardsystemsuitgainoctoberglorycheftragicmuchtiredart |  
+| bip_39_word_no_space_2 | fetchhazard |  
+| bip_39_word_no_space_3 | fetchhazardsystem |  
+| bip_39_word_no_space_4 | fetchhazardsystemsuit |  
+| bip_39_word_no_space_5 | fetchhazardsystemsuitgain |  
+| bip_39_word_no_space_6 | fetchhazardsystemsuitgainoctober |  
+| bip_39_word_no_space_7 | fetchhazardsystemsuitgainoctoberglory |  
+| bip_39_word_no_space_8 | fetchhazardsystemsuitgainoctoberglorychef |  
+| bip_39_word_no_space_9 | fetchhazardsystemsuitgainoctoberglorycheftragic |  
 | bip_39_word_space_0 | ['fetch', 'hazard', 'system', 'suit', 'gain', 'october', 'glory', 'chef', 'tragic', 'much', 'tired', 'art'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch hazard system suit gain october glory chef tragic much |  

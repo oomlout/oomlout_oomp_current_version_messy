@@ -122,6 +122,18 @@ portion
 horn
 dash
 assume |  
+| bip_39_word_no_space_1 | hundred |  
+| bip_39_word_no_space_10 | hundredyoungendlesssloganpatrolportionhorndashassumeaction |  
+| bip_39_word_no_space_11 | hundredyoungendlesssloganpatrolportionhorndashassumeactiongrain |  
+| bip_39_word_no_space_12 | hundredyoungendlesssloganpatrolportionhorndashassumeactiongrainagent |  
+| bip_39_word_no_space_2 | hundredyoung |  
+| bip_39_word_no_space_3 | hundredyoungendless |  
+| bip_39_word_no_space_4 | hundredyoungendlessslogan |  
+| bip_39_word_no_space_5 | hundredyoungendlesssloganpatrol |  
+| bip_39_word_no_space_6 | hundredyoungendlesssloganpatrolportion |  
+| bip_39_word_no_space_7 | hundredyoungendlesssloganpatrolportionhorn |  
+| bip_39_word_no_space_8 | hundredyoungendlesssloganpatrolportionhorndash |  
+| bip_39_word_no_space_9 | hundredyoungendlesssloganpatrolportionhorndashassume |  
 | bip_39_word_space_0 | ['hundred', 'young', 'endless', 'slogan', 'patrol', 'portion', 'horn', 'dash', 'assume', 'action', 'grain', 'agent'] |  
 | bip_39_word_space_1 | hundred |  
 | bip_39_word_space_10 | hundred young endless slogan patrol portion horn dash assume action |  

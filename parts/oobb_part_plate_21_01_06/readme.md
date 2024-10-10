@@ -122,6 +122,18 @@ icon
 return
 enact
 can |  
+| bip_39_word_no_space_1 | level |  
+| bip_39_word_no_space_10 | levelgymgenrewashgarliciconreturnenactcanundo |  
+| bip_39_word_no_space_11 | levelgymgenrewashgarliciconreturnenactcanundocage |  
+| bip_39_word_no_space_12 | levelgymgenrewashgarliciconreturnenactcanundocagealmost |  
+| bip_39_word_no_space_2 | levelgym |  
+| bip_39_word_no_space_3 | levelgymgenre |  
+| bip_39_word_no_space_4 | levelgymgenrewash |  
+| bip_39_word_no_space_5 | levelgymgenrewashgarlic |  
+| bip_39_word_no_space_6 | levelgymgenrewashgarlicicon |  
+| bip_39_word_no_space_7 | levelgymgenrewashgarliciconreturn |  
+| bip_39_word_no_space_8 | levelgymgenrewashgarliciconreturnenact |  
+| bip_39_word_no_space_9 | levelgymgenrewashgarliciconreturnenactcan |  
 | bip_39_word_space_0 | ['level', 'gym', 'genre', 'wash', 'garlic', 'icon', 'return', 'enact', 'can', 'undo', 'cage', 'almost'] |  
 | bip_39_word_space_1 | level |  
 | bip_39_word_space_10 | level gym genre wash garlic icon return enact can undo |  

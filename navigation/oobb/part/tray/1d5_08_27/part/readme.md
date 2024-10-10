@@ -122,6 +122,18 @@ inmate
 sausage
 kangaroo
 edit |  
+| bip_39_word_no_space_1 | upset |  
+| bip_39_word_no_space_10 | upsetrepairshovelimbskateinmatesausagekangarooeditswamp |  
+| bip_39_word_no_space_11 | upsetrepairshovelimbskateinmatesausagekangarooeditswampvery |  
+| bip_39_word_no_space_12 | upsetrepairshovelimbskateinmatesausagekangarooeditswampveryalready |  
+| bip_39_word_no_space_2 | upsetrepair |  
+| bip_39_word_no_space_3 | upsetrepairshove |  
+| bip_39_word_no_space_4 | upsetrepairshovelimb |  
+| bip_39_word_no_space_5 | upsetrepairshovelimbskate |  
+| bip_39_word_no_space_6 | upsetrepairshovelimbskateinmate |  
+| bip_39_word_no_space_7 | upsetrepairshovelimbskateinmatesausage |  
+| bip_39_word_no_space_8 | upsetrepairshovelimbskateinmatesausagekangaroo |  
+| bip_39_word_no_space_9 | upsetrepairshovelimbskateinmatesausagekangarooedit |  
 | bip_39_word_space_0 | ['upset', 'repair', 'shove', 'limb', 'skate', 'inmate', 'sausage', 'kangaroo', 'edit', 'swamp', 'very', 'already'] |  
 | bip_39_word_space_1 | upset |  
 | bip_39_word_space_10 | upset repair shove limb skate inmate sausage kangaroo edit swamp |  

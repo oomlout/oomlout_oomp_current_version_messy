@@ -122,6 +122,18 @@ cargo
 order
 cruel
 space |  
+| bip_39_word_no_space_1 | spring |  
+| bip_39_word_no_space_10 | springblackgigglebusanswercargoordercruelspacevirtual |  
+| bip_39_word_no_space_11 | springblackgigglebusanswercargoordercruelspacevirtualhigh |  
+| bip_39_word_no_space_12 | springblackgigglebusanswercargoordercruelspacevirtualhighankle |  
+| bip_39_word_no_space_2 | springblack |  
+| bip_39_word_no_space_3 | springblackgiggle |  
+| bip_39_word_no_space_4 | springblackgigglebus |  
+| bip_39_word_no_space_5 | springblackgigglebusanswer |  
+| bip_39_word_no_space_6 | springblackgigglebusanswercargo |  
+| bip_39_word_no_space_7 | springblackgigglebusanswercargoorder |  
+| bip_39_word_no_space_8 | springblackgigglebusanswercargoordercruel |  
+| bip_39_word_no_space_9 | springblackgigglebusanswercargoordercruelspace |  
 | bip_39_word_space_0 | ['spring', 'black', 'giggle', 'bus', 'answer', 'cargo', 'order', 'cruel', 'space', 'virtual', 'high', 'ankle'] |  
 | bip_39_word_space_1 | spring |  
 | bip_39_word_space_10 | spring black giggle bus answer cargo order cruel space virtual |  

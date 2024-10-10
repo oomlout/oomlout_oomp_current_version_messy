@@ -122,6 +122,18 @@ click
 fine
 illness
 say |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulsefoundfuelannouncetrendclickfineillnesssaydune |  
+| bip_39_word_no_space_11 | impulsefoundfuelannouncetrendclickfineillnesssaydunehorn |  
+| bip_39_word_no_space_12 | impulsefoundfuelannouncetrendclickfineillnesssaydunehornaerobic |  
+| bip_39_word_no_space_2 | impulsefound |  
+| bip_39_word_no_space_3 | impulsefoundfuel |  
+| bip_39_word_no_space_4 | impulsefoundfuelannounce |  
+| bip_39_word_no_space_5 | impulsefoundfuelannouncetrend |  
+| bip_39_word_no_space_6 | impulsefoundfuelannouncetrendclick |  
+| bip_39_word_no_space_7 | impulsefoundfuelannouncetrendclickfine |  
+| bip_39_word_no_space_8 | impulsefoundfuelannouncetrendclickfineillness |  
+| bip_39_word_no_space_9 | impulsefoundfuelannouncetrendclickfineillnesssay |  
 | bip_39_word_space_0 | ['impulse', 'found', 'fuel', 'announce', 'trend', 'click', 'fine', 'illness', 'say', 'dune', 'horn', 'aerobic'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse found fuel announce trend click fine illness say dune |  

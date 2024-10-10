@@ -122,6 +122,18 @@ symbol
 truly
 category
 clean |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joinchimneypairscatterelsesymboltrulycategorycleanenable |  
+| bip_39_word_no_space_11 | joinchimneypairscatterelsesymboltrulycategorycleanenableinnocent |  
+| bip_39_word_no_space_12 | joinchimneypairscatterelsesymboltrulycategorycleanenableinnocentalmost |  
+| bip_39_word_no_space_2 | joinchimney |  
+| bip_39_word_no_space_3 | joinchimneypair |  
+| bip_39_word_no_space_4 | joinchimneypairscatter |  
+| bip_39_word_no_space_5 | joinchimneypairscatterelse |  
+| bip_39_word_no_space_6 | joinchimneypairscatterelsesymbol |  
+| bip_39_word_no_space_7 | joinchimneypairscatterelsesymboltruly |  
+| bip_39_word_no_space_8 | joinchimneypairscatterelsesymboltrulycategory |  
+| bip_39_word_no_space_9 | joinchimneypairscatterelsesymboltrulycategoryclean |  
 | bip_39_word_space_0 | ['join', 'chimney', 'pair', 'scatter', 'else', 'symbol', 'truly', 'category', 'clean', 'enable', 'innocent', 'almost'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join chimney pair scatter else symbol truly category clean enable |  

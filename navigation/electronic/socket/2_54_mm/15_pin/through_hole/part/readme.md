@@ -122,6 +122,18 @@ draw
 hint
 ladder
 fortune |  
+| bip_39_word_no_space_1 | private |  
+| bip_39_word_no_space_10 | privateinmatecrispsurprisevoyagedrawhintladderfortunecabin |  
+| bip_39_word_no_space_11 | privateinmatecrispsurprisevoyagedrawhintladderfortunecabintrend |  
+| bip_39_word_no_space_12 | privateinmatecrispsurprisevoyagedrawhintladderfortunecabintrendathlete |  
+| bip_39_word_no_space_2 | privateinmate |  
+| bip_39_word_no_space_3 | privateinmatecrisp |  
+| bip_39_word_no_space_4 | privateinmatecrispsurprise |  
+| bip_39_word_no_space_5 | privateinmatecrispsurprisevoyage |  
+| bip_39_word_no_space_6 | privateinmatecrispsurprisevoyagedraw |  
+| bip_39_word_no_space_7 | privateinmatecrispsurprisevoyagedrawhint |  
+| bip_39_word_no_space_8 | privateinmatecrispsurprisevoyagedrawhintladder |  
+| bip_39_word_no_space_9 | privateinmatecrispsurprisevoyagedrawhintladderfortune |  
 | bip_39_word_space_0 | ['private', 'inmate', 'crisp', 'surprise', 'voyage', 'draw', 'hint', 'ladder', 'fortune', 'cabin', 'trend', 'athlete'] |  
 | bip_39_word_space_1 | private |  
 | bip_39_word_space_10 | private inmate crisp surprise voyage draw hint ladder fortune cabin |  

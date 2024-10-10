@@ -122,6 +122,18 @@ evolve
 puzzle
 pole
 tube |  
+| bip_39_word_no_space_1 | vivid |  
+| bip_39_word_no_space_10 | vividunawaregoodputratherevolvepuzzlepoletubegentle |  
+| bip_39_word_no_space_11 | vividunawaregoodputratherevolvepuzzlepoletubegentlestamp |  
+| bip_39_word_no_space_12 | vividunawaregoodputratherevolvepuzzlepoletubegentlestampautumn |  
+| bip_39_word_no_space_2 | vividunaware |  
+| bip_39_word_no_space_3 | vividunawaregood |  
+| bip_39_word_no_space_4 | vividunawaregoodput |  
+| bip_39_word_no_space_5 | vividunawaregoodputrather |  
+| bip_39_word_no_space_6 | vividunawaregoodputratherevolve |  
+| bip_39_word_no_space_7 | vividunawaregoodputratherevolvepuzzle |  
+| bip_39_word_no_space_8 | vividunawaregoodputratherevolvepuzzlepole |  
+| bip_39_word_no_space_9 | vividunawaregoodputratherevolvepuzzlepoletube |  
 | bip_39_word_space_0 | ['vivid', 'unaware', 'good', 'put', 'rather', 'evolve', 'puzzle', 'pole', 'tube', 'gentle', 'stamp', 'autumn'] |  
 | bip_39_word_space_1 | vivid |  
 | bip_39_word_space_10 | vivid unaware good put rather evolve puzzle pole tube gentle |  

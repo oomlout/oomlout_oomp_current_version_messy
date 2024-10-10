@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wave
   squeeze
 
   foster'
+bip_39_word_no_space_1: wave
+bip_39_word_no_space_10: wavepointzonefrosterosiontheycenturysqueezefosterkingdom
+bip_39_word_no_space_11: wavepointzonefrosterosiontheycenturysqueezefosterkingdomvery
+bip_39_word_no_space_12: wavepointzonefrosterosiontheycenturysqueezefosterkingdomveryancient
+bip_39_word_no_space_2: wavepoint
+bip_39_word_no_space_3: wavepointzone
+bip_39_word_no_space_4: wavepointzonefrost
+bip_39_word_no_space_5: wavepointzonefrosterosion
+bip_39_word_no_space_6: wavepointzonefrosterosionthey
+bip_39_word_no_space_7: wavepointzonefrosterosiontheycentury
+bip_39_word_no_space_8: wavepointzonefrosterosiontheycenturysqueeze
+bip_39_word_no_space_9: wavepointzonefrosterosiontheycenturysqueezefoster
 bip_39_word_space_0:
 - wave
 - point

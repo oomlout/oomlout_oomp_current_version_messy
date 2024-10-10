@@ -122,6 +122,18 @@ dry
 shock
 fatal
 dismiss |  
+| bip_39_word_no_space_1 | exile |  
+| bip_39_word_no_space_10 | exilegatherfirmmonsterpeopledryshockfataldismissoxygen |  
+| bip_39_word_no_space_11 | exilegatherfirmmonsterpeopledryshockfataldismissoxygenokay |  
+| bip_39_word_no_space_12 | exilegatherfirmmonsterpeopledryshockfataldismissoxygenokayapple |  
+| bip_39_word_no_space_2 | exilegather |  
+| bip_39_word_no_space_3 | exilegatherfirm |  
+| bip_39_word_no_space_4 | exilegatherfirmmonster |  
+| bip_39_word_no_space_5 | exilegatherfirmmonsterpeople |  
+| bip_39_word_no_space_6 | exilegatherfirmmonsterpeopledry |  
+| bip_39_word_no_space_7 | exilegatherfirmmonsterpeopledryshock |  
+| bip_39_word_no_space_8 | exilegatherfirmmonsterpeopledryshockfatal |  
+| bip_39_word_no_space_9 | exilegatherfirmmonsterpeopledryshockfataldismiss |  
 | bip_39_word_space_0 | ['exile', 'gather', 'firm', 'monster', 'people', 'dry', 'shock', 'fatal', 'dismiss', 'oxygen', 'okay', 'apple'] |  
 | bip_39_word_space_1 | exile |  
 | bip_39_word_space_10 | exile gather firm monster people dry shock fatal dismiss oxygen |  

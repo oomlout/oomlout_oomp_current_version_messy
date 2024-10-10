@@ -122,6 +122,18 @@ pretty
 crazy
 earn
 wash |  
+| bip_39_word_no_space_1 | skill |  
+| bip_39_word_no_space_10 | skillveteranopposefrostcatprettycrazyearnwashglare |  
+| bip_39_word_no_space_11 | skillveteranopposefrostcatprettycrazyearnwashglarescale |  
+| bip_39_word_no_space_12 | skillveteranopposefrostcatprettycrazyearnwashglarescaleacid |  
+| bip_39_word_no_space_2 | skillveteran |  
+| bip_39_word_no_space_3 | skillveteranoppose |  
+| bip_39_word_no_space_4 | skillveteranopposefrost |  
+| bip_39_word_no_space_5 | skillveteranopposefrostcat |  
+| bip_39_word_no_space_6 | skillveteranopposefrostcatpretty |  
+| bip_39_word_no_space_7 | skillveteranopposefrostcatprettycrazy |  
+| bip_39_word_no_space_8 | skillveteranopposefrostcatprettycrazyearn |  
+| bip_39_word_no_space_9 | skillveteranopposefrostcatprettycrazyearnwash |  
 | bip_39_word_space_0 | ['skill', 'veteran', 'oppose', 'frost', 'cat', 'pretty', 'crazy', 'earn', 'wash', 'glare', 'scale', 'acid'] |  
 | bip_39_word_space_1 | skill |  
 | bip_39_word_space_10 | skill veteran oppose frost cat pretty crazy earn wash glare |  

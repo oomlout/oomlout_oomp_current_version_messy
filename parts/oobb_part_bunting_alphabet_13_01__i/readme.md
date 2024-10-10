@@ -122,6 +122,18 @@ flat
 arrow
 churn
 inhale |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendhavesustaingadgetthereflatarrowchurninhaleburst |  
+| bip_39_word_no_space_11 | attendhavesustaingadgetthereflatarrowchurninhaleburstdrop |  
+| bip_39_word_no_space_12 | attendhavesustaingadgetthereflatarrowchurninhaleburstdropabout |  
+| bip_39_word_no_space_2 | attendhave |  
+| bip_39_word_no_space_3 | attendhavesustain |  
+| bip_39_word_no_space_4 | attendhavesustaingadget |  
+| bip_39_word_no_space_5 | attendhavesustaingadgetthere |  
+| bip_39_word_no_space_6 | attendhavesustaingadgetthereflat |  
+| bip_39_word_no_space_7 | attendhavesustaingadgetthereflatarrow |  
+| bip_39_word_no_space_8 | attendhavesustaingadgetthereflatarrowchurn |  
+| bip_39_word_no_space_9 | attendhavesustaingadgetthereflatarrowchurninhale |  
 | bip_39_word_space_0 | ['attend', 'have', 'sustain', 'gadget', 'there', 'flat', 'arrow', 'churn', 'inhale', 'burst', 'drop', 'about'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend have sustain gadget there flat arrow churn inhale burst |  

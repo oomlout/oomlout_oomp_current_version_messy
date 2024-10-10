@@ -122,6 +122,18 @@ immense
 output
 thrive
 usual |  
+| bip_39_word_no_space_1 | horn |  
+| bip_39_word_no_space_10 | horncaughtlearndiaryapproveimmenseoutputthriveusualcoin |  
+| bip_39_word_no_space_11 | horncaughtlearndiaryapproveimmenseoutputthriveusualcoinmaple |  
+| bip_39_word_no_space_12 | horncaughtlearndiaryapproveimmenseoutputthriveusualcoinmapleabsorb |  
+| bip_39_word_no_space_2 | horncaught |  
+| bip_39_word_no_space_3 | horncaughtlearn |  
+| bip_39_word_no_space_4 | horncaughtlearndiary |  
+| bip_39_word_no_space_5 | horncaughtlearndiaryapprove |  
+| bip_39_word_no_space_6 | horncaughtlearndiaryapproveimmense |  
+| bip_39_word_no_space_7 | horncaughtlearndiaryapproveimmenseoutput |  
+| bip_39_word_no_space_8 | horncaughtlearndiaryapproveimmenseoutputthrive |  
+| bip_39_word_no_space_9 | horncaughtlearndiaryapproveimmenseoutputthriveusual |  
 | bip_39_word_space_0 | ['horn', 'caught', 'learn', 'diary', 'approve', 'immense', 'output', 'thrive', 'usual', 'coin', 'maple', 'absorb'] |  
 | bip_39_word_space_1 | horn |  
 | bip_39_word_space_10 | horn caught learn diary approve immense output thrive usual coin |  

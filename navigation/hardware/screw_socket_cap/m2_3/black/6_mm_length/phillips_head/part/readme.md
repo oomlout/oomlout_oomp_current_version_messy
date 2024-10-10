@@ -122,6 +122,18 @@ purchase
 barrel
 already
 hockey |  
+| bip_39_word_no_space_1 | unable |  
+| bip_39_word_no_space_10 | unableflyfemalespoilabandonpurchasebarrelalreadyhockeycrime |  
+| bip_39_word_no_space_11 | unableflyfemalespoilabandonpurchasebarrelalreadyhockeycrimejewel |  
+| bip_39_word_no_space_12 | unableflyfemalespoilabandonpurchasebarrelalreadyhockeycrimejewelattend |  
+| bip_39_word_no_space_2 | unablefly |  
+| bip_39_word_no_space_3 | unableflyfemale |  
+| bip_39_word_no_space_4 | unableflyfemalespoil |  
+| bip_39_word_no_space_5 | unableflyfemalespoilabandon |  
+| bip_39_word_no_space_6 | unableflyfemalespoilabandonpurchase |  
+| bip_39_word_no_space_7 | unableflyfemalespoilabandonpurchasebarrel |  
+| bip_39_word_no_space_8 | unableflyfemalespoilabandonpurchasebarrelalready |  
+| bip_39_word_no_space_9 | unableflyfemalespoilabandonpurchasebarrelalreadyhockey |  
 | bip_39_word_space_0 | ['unable', 'fly', 'female', 'spoil', 'abandon', 'purchase', 'barrel', 'already', 'hockey', 'crime', 'jewel', 'attend'] |  
 | bip_39_word_space_1 | unable |  
 | bip_39_word_space_10 | unable fly female spoil abandon purchase barrel already hockey crime |  

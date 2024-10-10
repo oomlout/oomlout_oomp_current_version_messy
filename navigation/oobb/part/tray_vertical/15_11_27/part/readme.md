@@ -122,6 +122,18 @@ pool
 wrap
 barely
 dish |  
+| bip_39_word_no_space_1 | victory |  
+| bip_39_word_no_space_10 | victoryfriendsubjectagreesatisfypoolwrapbarelydishpear |  
+| bip_39_word_no_space_11 | victoryfriendsubjectagreesatisfypoolwrapbarelydishpearlist |  
+| bip_39_word_no_space_12 | victoryfriendsubjectagreesatisfypoolwrapbarelydishpearlistalcohol |  
+| bip_39_word_no_space_2 | victoryfriend |  
+| bip_39_word_no_space_3 | victoryfriendsubject |  
+| bip_39_word_no_space_4 | victoryfriendsubjectagree |  
+| bip_39_word_no_space_5 | victoryfriendsubjectagreesatisfy |  
+| bip_39_word_no_space_6 | victoryfriendsubjectagreesatisfypool |  
+| bip_39_word_no_space_7 | victoryfriendsubjectagreesatisfypoolwrap |  
+| bip_39_word_no_space_8 | victoryfriendsubjectagreesatisfypoolwrapbarely |  
+| bip_39_word_no_space_9 | victoryfriendsubjectagreesatisfypoolwrapbarelydish |  
 | bip_39_word_space_0 | ['victory', 'friend', 'subject', 'agree', 'satisfy', 'pool', 'wrap', 'barely', 'dish', 'pear', 'list', 'alcohol'] |  
 | bip_39_word_space_1 | victory |  
 | bip_39_word_space_10 | victory friend subject agree satisfy pool wrap barely dish pear |  

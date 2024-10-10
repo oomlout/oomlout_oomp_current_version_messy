@@ -122,6 +122,18 @@ fatigue
 picnic
 critic
 snow |  
+| bip_39_word_no_space_1 | excite |  
+| bip_39_word_no_space_10 | excitetrimremovedevicecasefatiguepicniccriticsnowimprove |  
+| bip_39_word_no_space_11 | excitetrimremovedevicecasefatiguepicniccriticsnowimproverecall |  
+| bip_39_word_no_space_12 | excitetrimremovedevicecasefatiguepicniccriticsnowimproverecallactual |  
+| bip_39_word_no_space_2 | excitetrim |  
+| bip_39_word_no_space_3 | excitetrimremove |  
+| bip_39_word_no_space_4 | excitetrimremovedevice |  
+| bip_39_word_no_space_5 | excitetrimremovedevicecase |  
+| bip_39_word_no_space_6 | excitetrimremovedevicecasefatigue |  
+| bip_39_word_no_space_7 | excitetrimremovedevicecasefatiguepicnic |  
+| bip_39_word_no_space_8 | excitetrimremovedevicecasefatiguepicniccritic |  
+| bip_39_word_no_space_9 | excitetrimremovedevicecasefatiguepicniccriticsnow |  
 | bip_39_word_space_0 | ['excite', 'trim', 'remove', 'device', 'case', 'fatigue', 'picnic', 'critic', 'snow', 'improve', 'recall', 'actual'] |  
 | bip_39_word_space_1 | excite |  
 | bip_39_word_space_10 | excite trim remove device case fatigue picnic critic snow improve |  

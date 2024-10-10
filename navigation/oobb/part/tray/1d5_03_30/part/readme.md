@@ -122,6 +122,18 @@ govern
 fragile
 churn
 math |  
+| bip_39_word_no_space_1 | bitter |  
+| bip_39_word_no_space_10 | bitterswimlittleeightmoviegovernfragilechurnmathdismiss |  
+| bip_39_word_no_space_11 | bitterswimlittleeightmoviegovernfragilechurnmathdismissproblem |  
+| bip_39_word_no_space_12 | bitterswimlittleeightmoviegovernfragilechurnmathdismissproblemamong |  
+| bip_39_word_no_space_2 | bitterswim |  
+| bip_39_word_no_space_3 | bitterswimlittle |  
+| bip_39_word_no_space_4 | bitterswimlittleeight |  
+| bip_39_word_no_space_5 | bitterswimlittleeightmovie |  
+| bip_39_word_no_space_6 | bitterswimlittleeightmoviegovern |  
+| bip_39_word_no_space_7 | bitterswimlittleeightmoviegovernfragile |  
+| bip_39_word_no_space_8 | bitterswimlittleeightmoviegovernfragilechurn |  
+| bip_39_word_no_space_9 | bitterswimlittleeightmoviegovernfragilechurnmath |  
 | bip_39_word_space_0 | ['bitter', 'swim', 'little', 'eight', 'movie', 'govern', 'fragile', 'churn', 'math', 'dismiss', 'problem', 'among'] |  
 | bip_39_word_space_1 | bitter |  
 | bip_39_word_space_10 | bitter swim little eight movie govern fragile churn math dismiss |  

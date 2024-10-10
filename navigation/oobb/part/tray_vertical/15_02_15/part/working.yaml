@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'suffer
   bamboo
 
   hub'
+bip_39_word_no_space_1: suffer
+bip_39_word_no_space_10: sufferprizeokaychildsustainmarineestatebamboohubbanana
+bip_39_word_no_space_11: sufferprizeokaychildsustainmarineestatebamboohubbananaswift
+bip_39_word_no_space_12: sufferprizeokaychildsustainmarineestatebamboohubbananaswiftalpha
+bip_39_word_no_space_2: sufferprize
+bip_39_word_no_space_3: sufferprizeokay
+bip_39_word_no_space_4: sufferprizeokaychild
+bip_39_word_no_space_5: sufferprizeokaychildsustain
+bip_39_word_no_space_6: sufferprizeokaychildsustainmarine
+bip_39_word_no_space_7: sufferprizeokaychildsustainmarineestate
+bip_39_word_no_space_8: sufferprizeokaychildsustainmarineestatebamboo
+bip_39_word_no_space_9: sufferprizeokaychildsustainmarineestatebamboohub
 bip_39_word_space_0:
 - suffer
 - prize

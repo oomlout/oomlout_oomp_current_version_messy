@@ -122,6 +122,18 @@ garment
 riot
 spatial
 remember |  
+| bip_39_word_no_space_1 | shock |  
+| bip_39_word_no_space_10 | shockessencescoutbestprospergarmentriotspatialrememberwheat |  
+| bip_39_word_no_space_11 | shockessencescoutbestprospergarmentriotspatialrememberwheatscatter |  
+| bip_39_word_no_space_12 | shockessencescoutbestprospergarmentriotspatialrememberwheatscatteraccess |  
+| bip_39_word_no_space_2 | shockessence |  
+| bip_39_word_no_space_3 | shockessencescout |  
+| bip_39_word_no_space_4 | shockessencescoutbest |  
+| bip_39_word_no_space_5 | shockessencescoutbestprosper |  
+| bip_39_word_no_space_6 | shockessencescoutbestprospergarment |  
+| bip_39_word_no_space_7 | shockessencescoutbestprospergarmentriot |  
+| bip_39_word_no_space_8 | shockessencescoutbestprospergarmentriotspatial |  
+| bip_39_word_no_space_9 | shockessencescoutbestprospergarmentriotspatialremember |  
 | bip_39_word_space_0 | ['shock', 'essence', 'scout', 'best', 'prosper', 'garment', 'riot', 'spatial', 'remember', 'wheat', 'scatter', 'access'] |  
 | bip_39_word_space_1 | shock |  
 | bip_39_word_space_10 | shock essence scout best prosper garment riot spatial remember wheat |  

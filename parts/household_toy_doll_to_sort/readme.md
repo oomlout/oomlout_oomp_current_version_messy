@@ -122,6 +122,18 @@ boost
 tomato
 thing
 describe |  
+| bip_39_word_no_space_1 | now |  
+| bip_39_word_no_space_10 | nowcradlerecordinformaffairboosttomatothingdescribeobey |  
+| bip_39_word_no_space_11 | nowcradlerecordinformaffairboosttomatothingdescribeobeyride |  
+| bip_39_word_no_space_12 | nowcradlerecordinformaffairboosttomatothingdescribeobeyridearrow |  
+| bip_39_word_no_space_2 | nowcradle |  
+| bip_39_word_no_space_3 | nowcradlerecord |  
+| bip_39_word_no_space_4 | nowcradlerecordinform |  
+| bip_39_word_no_space_5 | nowcradlerecordinformaffair |  
+| bip_39_word_no_space_6 | nowcradlerecordinformaffairboost |  
+| bip_39_word_no_space_7 | nowcradlerecordinformaffairboosttomato |  
+| bip_39_word_no_space_8 | nowcradlerecordinformaffairboosttomatothing |  
+| bip_39_word_no_space_9 | nowcradlerecordinformaffairboosttomatothingdescribe |  
 | bip_39_word_space_0 | ['now', 'cradle', 'record', 'inform', 'affair', 'boost', 'tomato', 'thing', 'describe', 'obey', 'ride', 'arrow'] |  
 | bip_39_word_space_1 | now |  
 | bip_39_word_space_10 | now cradle record inform affair boost tomato thing describe obey |  

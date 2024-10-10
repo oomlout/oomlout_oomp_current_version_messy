@@ -122,6 +122,18 @@ title
 gallery
 forward
 high |  
+| bip_39_word_no_space_1 | patrol |  
+| bip_39_word_no_space_10 | patrolillachieveoutdoortoppletitlegalleryforwardhighshoe |  
+| bip_39_word_no_space_11 | patrolillachieveoutdoortoppletitlegalleryforwardhighshoeswallow |  
+| bip_39_word_no_space_12 | patrolillachieveoutdoortoppletitlegalleryforwardhighshoeswallowaunt |  
+| bip_39_word_no_space_2 | patrolill |  
+| bip_39_word_no_space_3 | patrolillachieve |  
+| bip_39_word_no_space_4 | patrolillachieveoutdoor |  
+| bip_39_word_no_space_5 | patrolillachieveoutdoortopple |  
+| bip_39_word_no_space_6 | patrolillachieveoutdoortoppletitle |  
+| bip_39_word_no_space_7 | patrolillachieveoutdoortoppletitlegallery |  
+| bip_39_word_no_space_8 | patrolillachieveoutdoortoppletitlegalleryforward |  
+| bip_39_word_no_space_9 | patrolillachieveoutdoortoppletitlegalleryforwardhigh |  
 | bip_39_word_space_0 | ['patrol', 'ill', 'achieve', 'outdoor', 'topple', 'title', 'gallery', 'forward', 'high', 'shoe', 'swallow', 'aunt'] |  
 | bip_39_word_space_1 | patrol |  
 | bip_39_word_space_10 | patrol ill achieve outdoor topple title gallery forward high shoe |  

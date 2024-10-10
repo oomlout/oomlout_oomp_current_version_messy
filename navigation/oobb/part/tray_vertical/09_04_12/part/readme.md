@@ -122,6 +122,18 @@ view
 wear
 key
 elder |  
+| bip_39_word_no_space_1 | quick |  
+| bip_39_word_no_space_10 | quickbubblevividreadypurposeviewwearkeyelderalbum |  
+| bip_39_word_no_space_11 | quickbubblevividreadypurposeviewwearkeyelderalbumcargo |  
+| bip_39_word_no_space_12 | quickbubblevividreadypurposeviewwearkeyelderalbumcargoarea |  
+| bip_39_word_no_space_2 | quickbubble |  
+| bip_39_word_no_space_3 | quickbubblevivid |  
+| bip_39_word_no_space_4 | quickbubblevividready |  
+| bip_39_word_no_space_5 | quickbubblevividreadypurpose |  
+| bip_39_word_no_space_6 | quickbubblevividreadypurposeview |  
+| bip_39_word_no_space_7 | quickbubblevividreadypurposeviewwear |  
+| bip_39_word_no_space_8 | quickbubblevividreadypurposeviewwearkey |  
+| bip_39_word_no_space_9 | quickbubblevividreadypurposeviewwearkeyelder |  
 | bip_39_word_space_0 | ['quick', 'bubble', 'vivid', 'ready', 'purpose', 'view', 'wear', 'key', 'elder', 'album', 'cargo', 'area'] |  
 | bip_39_word_space_1 | quick |  
 | bip_39_word_space_10 | quick bubble vivid ready purpose view wear key elder album |  

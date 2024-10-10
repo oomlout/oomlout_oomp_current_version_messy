@@ -122,6 +122,18 @@ creek
 fancy
 double
 minimum |  
+| bip_39_word_no_space_1 | burger |  
+| bip_39_word_no_space_10 | burgerrapidobligedietlunchcreekfancydoubleminimumscan |  
+| bip_39_word_no_space_11 | burgerrapidobligedietlunchcreekfancydoubleminimumscannurse |  
+| bip_39_word_no_space_12 | burgerrapidobligedietlunchcreekfancydoubleminimumscannurseask |  
+| bip_39_word_no_space_2 | burgerrapid |  
+| bip_39_word_no_space_3 | burgerrapidoblige |  
+| bip_39_word_no_space_4 | burgerrapidobligediet |  
+| bip_39_word_no_space_5 | burgerrapidobligedietlunch |  
+| bip_39_word_no_space_6 | burgerrapidobligedietlunchcreek |  
+| bip_39_word_no_space_7 | burgerrapidobligedietlunchcreekfancy |  
+| bip_39_word_no_space_8 | burgerrapidobligedietlunchcreekfancydouble |  
+| bip_39_word_no_space_9 | burgerrapidobligedietlunchcreekfancydoubleminimum |  
 | bip_39_word_space_0 | ['burger', 'rapid', 'oblige', 'diet', 'lunch', 'creek', 'fancy', 'double', 'minimum', 'scan', 'nurse', 'ask'] |  
 | bip_39_word_space_1 | burger |  
 | bip_39_word_space_10 | burger rapid oblige diet lunch creek fancy double minimum scan |  

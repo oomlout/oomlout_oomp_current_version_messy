@@ -122,6 +122,18 @@ fancy
 pepper
 wife
 sign |  
+| bip_39_word_no_space_1 | february |  
+| bip_39_word_no_space_10 | februarywifenationhotelarrivefancypepperwifesignmoment |  
+| bip_39_word_no_space_11 | februarywifenationhotelarrivefancypepperwifesignmomentcup |  
+| bip_39_word_no_space_12 | februarywifenationhotelarrivefancypepperwifesignmomentcupapril |  
+| bip_39_word_no_space_2 | februarywife |  
+| bip_39_word_no_space_3 | februarywifenation |  
+| bip_39_word_no_space_4 | februarywifenationhotel |  
+| bip_39_word_no_space_5 | februarywifenationhotelarrive |  
+| bip_39_word_no_space_6 | februarywifenationhotelarrivefancy |  
+| bip_39_word_no_space_7 | februarywifenationhotelarrivefancypepper |  
+| bip_39_word_no_space_8 | februarywifenationhotelarrivefancypepperwife |  
+| bip_39_word_no_space_9 | februarywifenationhotelarrivefancypepperwifesign |  
 | bip_39_word_space_0 | ['february', 'wife', 'nation', 'hotel', 'arrive', 'fancy', 'pepper', 'wife', 'sign', 'moment', 'cup', 'april'] |  
 | bip_39_word_space_1 | february |  
 | bip_39_word_space_10 | february wife nation hotel arrive fancy pepper wife sign moment |  

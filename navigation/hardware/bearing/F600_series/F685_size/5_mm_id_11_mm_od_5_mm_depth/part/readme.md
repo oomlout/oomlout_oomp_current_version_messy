@@ -122,6 +122,18 @@ cluster
 interest
 harsh
 divert |  
+| bip_39_word_no_space_1 | soul |  
+| bip_39_word_no_space_10 | soulimpulseuselessoneorganclusterinterestharshdivertspray |  
+| bip_39_word_no_space_11 | soulimpulseuselessoneorganclusterinterestharshdivertspraydiagram |  
+| bip_39_word_no_space_12 | soulimpulseuselessoneorganclusterinterestharshdivertspraydiagramadapt |  
+| bip_39_word_no_space_2 | soulimpulse |  
+| bip_39_word_no_space_3 | soulimpulseuseless |  
+| bip_39_word_no_space_4 | soulimpulseuselessone |  
+| bip_39_word_no_space_5 | soulimpulseuselessoneorgan |  
+| bip_39_word_no_space_6 | soulimpulseuselessoneorgancluster |  
+| bip_39_word_no_space_7 | soulimpulseuselessoneorganclusterinterest |  
+| bip_39_word_no_space_8 | soulimpulseuselessoneorganclusterinterestharsh |  
+| bip_39_word_no_space_9 | soulimpulseuselessoneorganclusterinterestharshdivert |  
 | bip_39_word_space_0 | ['soul', 'impulse', 'useless', 'one', 'organ', 'cluster', 'interest', 'harsh', 'divert', 'spray', 'diagram', 'adapt'] |  
 | bip_39_word_space_1 | soul |  
 | bip_39_word_space_10 | soul impulse useless one organ cluster interest harsh divert spray |  

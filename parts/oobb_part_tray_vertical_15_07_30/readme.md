@@ -122,6 +122,18 @@ tape
 twin
 skin
 grief |  
+| bip_39_word_no_space_1 | actress |  
+| bip_39_word_no_space_10 | actressfatherseminarbaconinvolvetapetwinskingrieflamp |  
+| bip_39_word_no_space_11 | actressfatherseminarbaconinvolvetapetwinskingrieflampvalid |  
+| bip_39_word_no_space_12 | actressfatherseminarbaconinvolvetapetwinskingrieflampvalidalcohol |  
+| bip_39_word_no_space_2 | actressfather |  
+| bip_39_word_no_space_3 | actressfatherseminar |  
+| bip_39_word_no_space_4 | actressfatherseminarbacon |  
+| bip_39_word_no_space_5 | actressfatherseminarbaconinvolve |  
+| bip_39_word_no_space_6 | actressfatherseminarbaconinvolvetape |  
+| bip_39_word_no_space_7 | actressfatherseminarbaconinvolvetapetwin |  
+| bip_39_word_no_space_8 | actressfatherseminarbaconinvolvetapetwinskin |  
+| bip_39_word_no_space_9 | actressfatherseminarbaconinvolvetapetwinskingrief |  
 | bip_39_word_space_0 | ['actress', 'father', 'seminar', 'bacon', 'involve', 'tape', 'twin', 'skin', 'grief', 'lamp', 'valid', 'alcohol'] |  
 | bip_39_word_space_1 | actress |  
 | bip_39_word_space_10 | actress father seminar bacon involve tape twin skin grief lamp |  

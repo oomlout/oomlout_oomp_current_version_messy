@@ -122,6 +122,18 @@ obscure
 cloud
 live
 consider |  
+| bip_39_word_no_space_1 | jazz |  
+| bip_39_word_no_space_10 | jazzsectionhawkmergecensusobscurecloudliveconsiderspatial |  
+| bip_39_word_no_space_11 | jazzsectionhawkmergecensusobscurecloudliveconsiderspatialcharge |  
+| bip_39_word_no_space_12 | jazzsectionhawkmergecensusobscurecloudliveconsiderspatialchargeaccuse |  
+| bip_39_word_no_space_2 | jazzsection |  
+| bip_39_word_no_space_3 | jazzsectionhawk |  
+| bip_39_word_no_space_4 | jazzsectionhawkmerge |  
+| bip_39_word_no_space_5 | jazzsectionhawkmergecensus |  
+| bip_39_word_no_space_6 | jazzsectionhawkmergecensusobscure |  
+| bip_39_word_no_space_7 | jazzsectionhawkmergecensusobscurecloud |  
+| bip_39_word_no_space_8 | jazzsectionhawkmergecensusobscurecloudlive |  
+| bip_39_word_no_space_9 | jazzsectionhawkmergecensusobscurecloudliveconsider |  
 | bip_39_word_space_0 | ['jazz', 'section', 'hawk', 'merge', 'census', 'obscure', 'cloud', 'live', 'consider', 'spatial', 'charge', 'accuse'] |  
 | bip_39_word_space_1 | jazz |  
 | bip_39_word_space_10 | jazz section hawk merge census obscure cloud live consider spatial |  

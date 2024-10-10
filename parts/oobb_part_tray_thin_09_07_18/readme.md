@@ -122,6 +122,18 @@ track
 clutch
 shield
 bring |  
+| bip_39_word_no_space_1 | world |  
+| bip_39_word_no_space_10 | worldworkeyebrowdicenotetrackclutchshieldbringtired |  
+| bip_39_word_no_space_11 | worldworkeyebrowdicenotetrackclutchshieldbringtiredrun |  
+| bip_39_word_no_space_12 | worldworkeyebrowdicenotetrackclutchshieldbringtiredrunancient |  
+| bip_39_word_no_space_2 | worldwork |  
+| bip_39_word_no_space_3 | worldworkeyebrow |  
+| bip_39_word_no_space_4 | worldworkeyebrowdice |  
+| bip_39_word_no_space_5 | worldworkeyebrowdicenote |  
+| bip_39_word_no_space_6 | worldworkeyebrowdicenotetrack |  
+| bip_39_word_no_space_7 | worldworkeyebrowdicenotetrackclutch |  
+| bip_39_word_no_space_8 | worldworkeyebrowdicenotetrackclutchshield |  
+| bip_39_word_no_space_9 | worldworkeyebrowdicenotetrackclutchshieldbring |  
 | bip_39_word_space_0 | ['world', 'work', 'eyebrow', 'dice', 'note', 'track', 'clutch', 'shield', 'bring', 'tired', 'run', 'ancient'] |  
 | bip_39_word_space_1 | world |  
 | bip_39_word_space_10 | world work eyebrow dice note track clutch shield bring tired |  

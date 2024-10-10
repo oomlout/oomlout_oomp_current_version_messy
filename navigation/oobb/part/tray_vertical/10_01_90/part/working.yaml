@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'acid
   casino
 
   case'
+bip_39_word_no_space_1: acid
+bip_39_word_no_space_10: acidflocknuclearrichcitymobilestagecasinocasepitch
+bip_39_word_no_space_11: acidflocknuclearrichcitymobilestagecasinocasepitchsatisfy
+bip_39_word_no_space_12: acidflocknuclearrichcitymobilestagecasinocasepitchsatisfyadd
+bip_39_word_no_space_2: acidflock
+bip_39_word_no_space_3: acidflocknuclear
+bip_39_word_no_space_4: acidflocknuclearrich
+bip_39_word_no_space_5: acidflocknuclearrichcity
+bip_39_word_no_space_6: acidflocknuclearrichcitymobile
+bip_39_word_no_space_7: acidflocknuclearrichcitymobilestage
+bip_39_word_no_space_8: acidflocknuclearrichcitymobilestagecasino
+bip_39_word_no_space_9: acidflocknuclearrichcitymobilestagecasinocase
 bip_39_word_space_0:
 - acid
 - flock

@@ -122,6 +122,18 @@ alarm
 question
 pattern
 girl |  
+| bip_39_word_no_space_1 | jar |  
+| bip_39_word_no_space_10 | jarpartycousinshrugnowalarmquestionpatterngirlpurity |  
+| bip_39_word_no_space_11 | jarpartycousinshrugnowalarmquestionpatterngirlpuritystep |  
+| bip_39_word_no_space_12 | jarpartycousinshrugnowalarmquestionpatterngirlpuritystepappear |  
+| bip_39_word_no_space_2 | jarparty |  
+| bip_39_word_no_space_3 | jarpartycousin |  
+| bip_39_word_no_space_4 | jarpartycousinshrug |  
+| bip_39_word_no_space_5 | jarpartycousinshrugnow |  
+| bip_39_word_no_space_6 | jarpartycousinshrugnowalarm |  
+| bip_39_word_no_space_7 | jarpartycousinshrugnowalarmquestion |  
+| bip_39_word_no_space_8 | jarpartycousinshrugnowalarmquestionpattern |  
+| bip_39_word_no_space_9 | jarpartycousinshrugnowalarmquestionpatterngirl |  
 | bip_39_word_space_0 | ['jar', 'party', 'cousin', 'shrug', 'now', 'alarm', 'question', 'pattern', 'girl', 'purity', 'step', 'appear'] |  
 | bip_39_word_space_1 | jar |  
 | bip_39_word_space_10 | jar party cousin shrug now alarm question pattern girl purity |  

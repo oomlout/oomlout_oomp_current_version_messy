@@ -122,6 +122,18 @@ vehicle
 frame
 napkin
 soft |  
+| bip_39_word_no_space_1 | beef |  
+| bip_39_word_no_space_10 | beefbracketelevatorsmoothpigvehicleframenapkinsofttry |  
+| bip_39_word_no_space_11 | beefbracketelevatorsmoothpigvehicleframenapkinsofttryvarious |  
+| bip_39_word_no_space_12 | beefbracketelevatorsmoothpigvehicleframenapkinsofttryvariousarea |  
+| bip_39_word_no_space_2 | beefbracket |  
+| bip_39_word_no_space_3 | beefbracketelevator |  
+| bip_39_word_no_space_4 | beefbracketelevatorsmooth |  
+| bip_39_word_no_space_5 | beefbracketelevatorsmoothpig |  
+| bip_39_word_no_space_6 | beefbracketelevatorsmoothpigvehicle |  
+| bip_39_word_no_space_7 | beefbracketelevatorsmoothpigvehicleframe |  
+| bip_39_word_no_space_8 | beefbracketelevatorsmoothpigvehicleframenapkin |  
+| bip_39_word_no_space_9 | beefbracketelevatorsmoothpigvehicleframenapkinsoft |  
 | bip_39_word_space_0 | ['beef', 'bracket', 'elevator', 'smooth', 'pig', 'vehicle', 'frame', 'napkin', 'soft', 'try', 'various', 'area'] |  
 | bip_39_word_space_1 | beef |  
 | bip_39_word_space_10 | beef bracket elevator smooth pig vehicle frame napkin soft try |  

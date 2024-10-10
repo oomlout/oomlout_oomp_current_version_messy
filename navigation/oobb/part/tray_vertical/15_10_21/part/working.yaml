@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'easy
   account
 
   trash'
+bip_39_word_no_space_1: easy
+bip_39_word_no_space_10: easydonornoticeswarmrescueaccusestableaccounttrashrug
+bip_39_word_no_space_11: easydonornoticeswarmrescueaccusestableaccounttrashrugdolphin
+bip_39_word_no_space_12: easydonornoticeswarmrescueaccusestableaccounttrashrugdolphinapart
+bip_39_word_no_space_2: easydonor
+bip_39_word_no_space_3: easydonornotice
+bip_39_word_no_space_4: easydonornoticeswarm
+bip_39_word_no_space_5: easydonornoticeswarmrescue
+bip_39_word_no_space_6: easydonornoticeswarmrescueaccuse
+bip_39_word_no_space_7: easydonornoticeswarmrescueaccusestable
+bip_39_word_no_space_8: easydonornoticeswarmrescueaccusestableaccount
+bip_39_word_no_space_9: easydonornoticeswarmrescueaccusestableaccounttrash
 bip_39_word_space_0:
 - easy
 - donor

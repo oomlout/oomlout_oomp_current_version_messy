@@ -122,6 +122,18 @@ language
 brief
 shoot
 chair |  
+| bip_39_word_no_space_1 | type |  
+| bip_39_word_no_space_10 | typecrystalcradlebriskassetlanguagebriefshootchairshoe |  
+| bip_39_word_no_space_11 | typecrystalcradlebriskassetlanguagebriefshootchairshoetunnel |  
+| bip_39_word_no_space_12 | typecrystalcradlebriskassetlanguagebriefshootchairshoetunnelalert |  
+| bip_39_word_no_space_2 | typecrystal |  
+| bip_39_word_no_space_3 | typecrystalcradle |  
+| bip_39_word_no_space_4 | typecrystalcradlebrisk |  
+| bip_39_word_no_space_5 | typecrystalcradlebriskasset |  
+| bip_39_word_no_space_6 | typecrystalcradlebriskassetlanguage |  
+| bip_39_word_no_space_7 | typecrystalcradlebriskassetlanguagebrief |  
+| bip_39_word_no_space_8 | typecrystalcradlebriskassetlanguagebriefshoot |  
+| bip_39_word_no_space_9 | typecrystalcradlebriskassetlanguagebriefshootchair |  
 | bip_39_word_space_0 | ['type', 'crystal', 'cradle', 'brisk', 'asset', 'language', 'brief', 'shoot', 'chair', 'shoe', 'tunnel', 'alert'] |  
 | bip_39_word_space_1 | type |  
 | bip_39_word_space_10 | type crystal cradle brisk asset language brief shoot chair shoe |  

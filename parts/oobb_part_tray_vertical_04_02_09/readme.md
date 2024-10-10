@@ -122,6 +122,18 @@ series
 transfer
 dilemma
 rent |  
+| bip_39_word_no_space_1 | flush |  
+| bip_39_word_no_space_10 | flushphotoathletedeclinelemonseriestransferdilemmarenttown |  
+| bip_39_word_no_space_11 | flushphotoathletedeclinelemonseriestransferdilemmarenttownprint |  
+| bip_39_word_no_space_12 | flushphotoathletedeclinelemonseriestransferdilemmarenttownprintaccuse |  
+| bip_39_word_no_space_2 | flushphoto |  
+| bip_39_word_no_space_3 | flushphotoathlete |  
+| bip_39_word_no_space_4 | flushphotoathletedecline |  
+| bip_39_word_no_space_5 | flushphotoathletedeclinelemon |  
+| bip_39_word_no_space_6 | flushphotoathletedeclinelemonseries |  
+| bip_39_word_no_space_7 | flushphotoathletedeclinelemonseriestransfer |  
+| bip_39_word_no_space_8 | flushphotoathletedeclinelemonseriestransferdilemma |  
+| bip_39_word_no_space_9 | flushphotoathletedeclinelemonseriestransferdilemmarent |  
 | bip_39_word_space_0 | ['flush', 'photo', 'athlete', 'decline', 'lemon', 'series', 'transfer', 'dilemma', 'rent', 'town', 'print', 'accuse'] |  
 | bip_39_word_space_1 | flush |  
 | bip_39_word_space_10 | flush photo athlete decline lemon series transfer dilemma rent town |  

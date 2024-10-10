@@ -122,6 +122,18 @@ fat
 region
 wave
 delay |  
+| bip_39_word_no_space_1 | monitor |  
+| bip_39_word_no_space_10 | monitorcargoplayessayzoofatregionwavedelaykiss |  
+| bip_39_word_no_space_11 | monitorcargoplayessayzoofatregionwavedelaykisssilk |  
+| bip_39_word_no_space_12 | monitorcargoplayessayzoofatregionwavedelaykisssilkamong |  
+| bip_39_word_no_space_2 | monitorcargo |  
+| bip_39_word_no_space_3 | monitorcargoplay |  
+| bip_39_word_no_space_4 | monitorcargoplayessay |  
+| bip_39_word_no_space_5 | monitorcargoplayessayzoo |  
+| bip_39_word_no_space_6 | monitorcargoplayessayzoofat |  
+| bip_39_word_no_space_7 | monitorcargoplayessayzoofatregion |  
+| bip_39_word_no_space_8 | monitorcargoplayessayzoofatregionwave |  
+| bip_39_word_no_space_9 | monitorcargoplayessayzoofatregionwavedelay |  
 | bip_39_word_space_0 | ['monitor', 'cargo', 'play', 'essay', 'zoo', 'fat', 'region', 'wave', 'delay', 'kiss', 'silk', 'among'] |  
 | bip_39_word_space_1 | monitor |  
 | bip_39_word_space_10 | monitor cargo play essay zoo fat region wave delay kiss |  

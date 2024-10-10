@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pool
   chicken
 
   supreme'
+bip_39_word_no_space_1: pool
+bip_39_word_no_space_10: poolavoidglowaerobicravenluxuryequipchickensuprememonkey
+bip_39_word_no_space_11: poolavoidglowaerobicravenluxuryequipchickensuprememonkeyluggage
+bip_39_word_no_space_12: poolavoidglowaerobicravenluxuryequipchickensuprememonkeyluggagealert
+bip_39_word_no_space_2: poolavoid
+bip_39_word_no_space_3: poolavoidglow
+bip_39_word_no_space_4: poolavoidglowaerobic
+bip_39_word_no_space_5: poolavoidglowaerobicraven
+bip_39_word_no_space_6: poolavoidglowaerobicravenluxury
+bip_39_word_no_space_7: poolavoidglowaerobicravenluxuryequip
+bip_39_word_no_space_8: poolavoidglowaerobicravenluxuryequipchicken
+bip_39_word_no_space_9: poolavoidglowaerobicravenluxuryequipchickensupreme
 bip_39_word_space_0:
 - pool
 - avoid

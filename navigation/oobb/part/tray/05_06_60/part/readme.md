@@ -122,6 +122,18 @@ someone
 control
 jealous
 shuffle |  
+| bip_39_word_no_space_1 | damage |  
+| bip_39_word_no_space_10 | damagegridtornadounknownresistsomeonecontroljealousshufflecoach |  
+| bip_39_word_no_space_11 | damagegridtornadounknownresistsomeonecontroljealousshufflecoachstep |  
+| bip_39_word_no_space_12 | damagegridtornadounknownresistsomeonecontroljealousshufflecoachstepaction |  
+| bip_39_word_no_space_2 | damagegrid |  
+| bip_39_word_no_space_3 | damagegridtornado |  
+| bip_39_word_no_space_4 | damagegridtornadounknown |  
+| bip_39_word_no_space_5 | damagegridtornadounknownresist |  
+| bip_39_word_no_space_6 | damagegridtornadounknownresistsomeone |  
+| bip_39_word_no_space_7 | damagegridtornadounknownresistsomeonecontrol |  
+| bip_39_word_no_space_8 | damagegridtornadounknownresistsomeonecontroljealous |  
+| bip_39_word_no_space_9 | damagegridtornadounknownresistsomeonecontroljealousshuffle |  
 | bip_39_word_space_0 | ['damage', 'grid', 'tornado', 'unknown', 'resist', 'someone', 'control', 'jealous', 'shuffle', 'coach', 'step', 'action'] |  
 | bip_39_word_space_1 | damage |  
 | bip_39_word_space_10 | damage grid tornado unknown resist someone control jealous shuffle coach |  

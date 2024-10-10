@@ -122,6 +122,18 @@ palm
 clump
 cinnamon
 answer |  
+| bip_39_word_no_space_1 | muscle |  
+| bip_39_word_no_space_10 | musclecoachwisdomsuperroadpalmclumpcinnamonanswerrubber |  
+| bip_39_word_no_space_11 | musclecoachwisdomsuperroadpalmclumpcinnamonanswerrubberdash |  
+| bip_39_word_no_space_12 | musclecoachwisdomsuperroadpalmclumpcinnamonanswerrubberdashask |  
+| bip_39_word_no_space_2 | musclecoach |  
+| bip_39_word_no_space_3 | musclecoachwisdom |  
+| bip_39_word_no_space_4 | musclecoachwisdomsuper |  
+| bip_39_word_no_space_5 | musclecoachwisdomsuperroad |  
+| bip_39_word_no_space_6 | musclecoachwisdomsuperroadpalm |  
+| bip_39_word_no_space_7 | musclecoachwisdomsuperroadpalmclump |  
+| bip_39_word_no_space_8 | musclecoachwisdomsuperroadpalmclumpcinnamon |  
+| bip_39_word_no_space_9 | musclecoachwisdomsuperroadpalmclumpcinnamonanswer |  
 | bip_39_word_space_0 | ['muscle', 'coach', 'wisdom', 'super', 'road', 'palm', 'clump', 'cinnamon', 'answer', 'rubber', 'dash', 'ask'] |  
 | bip_39_word_space_1 | muscle |  
 | bip_39_word_space_10 | muscle coach wisdom super road palm clump cinnamon answer rubber |  

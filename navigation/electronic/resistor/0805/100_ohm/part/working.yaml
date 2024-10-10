@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'weird
   camera
 
   pizza'
+bip_39_word_no_space_1: weird
+bip_39_word_no_space_10: weirdadultcouchsponsorseatassetholidaycamerapizzapuzzle
+bip_39_word_no_space_11: weirdadultcouchsponsorseatassetholidaycamerapizzapuzzletobacco
+bip_39_word_no_space_12: weirdadultcouchsponsorseatassetholidaycamerapizzapuzzletobaccoaffair
+bip_39_word_no_space_2: weirdadult
+bip_39_word_no_space_3: weirdadultcouch
+bip_39_word_no_space_4: weirdadultcouchsponsor
+bip_39_word_no_space_5: weirdadultcouchsponsorseat
+bip_39_word_no_space_6: weirdadultcouchsponsorseatasset
+bip_39_word_no_space_7: weirdadultcouchsponsorseatassetholiday
+bip_39_word_no_space_8: weirdadultcouchsponsorseatassetholidaycamera
+bip_39_word_no_space_9: weirdadultcouchsponsorseatassetholidaycamerapizza
 bip_39_word_space_0:
 - weird
 - adult

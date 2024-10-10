@@ -122,6 +122,18 @@ crazy
 crack
 pave
 face |  
+| bip_39_word_no_space_1 | drink |  
+| bip_39_word_no_space_10 | drinkthreecranedogglarecrazycrackpavefaceuseless |  
+| bip_39_word_no_space_11 | drinkthreecranedogglarecrazycrackpavefaceuselessokay |  
+| bip_39_word_no_space_12 | drinkthreecranedogglarecrazycrackpavefaceuselessokayacquire |  
+| bip_39_word_no_space_2 | drinkthree |  
+| bip_39_word_no_space_3 | drinkthreecrane |  
+| bip_39_word_no_space_4 | drinkthreecranedog |  
+| bip_39_word_no_space_5 | drinkthreecranedogglare |  
+| bip_39_word_no_space_6 | drinkthreecranedogglarecrazy |  
+| bip_39_word_no_space_7 | drinkthreecranedogglarecrazycrack |  
+| bip_39_word_no_space_8 | drinkthreecranedogglarecrazycrackpave |  
+| bip_39_word_no_space_9 | drinkthreecranedogglarecrazycrackpaveface |  
 | bip_39_word_space_0 | ['drink', 'three', 'crane', 'dog', 'glare', 'crazy', 'crack', 'pave', 'face', 'useless', 'okay', 'acquire'] |  
 | bip_39_word_space_1 | drink |  
 | bip_39_word_space_10 | drink three crane dog glare crazy crack pave face useless |  

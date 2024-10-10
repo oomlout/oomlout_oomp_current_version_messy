@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'inch
   roast
 
   huge'
+bip_39_word_no_space_1: inch
+bip_39_word_no_space_10: inchentrymorningfictiontoasttwingownroasthugeglimpse
+bip_39_word_no_space_11: inchentrymorningfictiontoasttwingownroasthugeglimpseeducate
+bip_39_word_no_space_12: inchentrymorningfictiontoasttwingownroasthugeglimpseeducateact
+bip_39_word_no_space_2: inchentry
+bip_39_word_no_space_3: inchentrymorning
+bip_39_word_no_space_4: inchentrymorningfiction
+bip_39_word_no_space_5: inchentrymorningfictiontoast
+bip_39_word_no_space_6: inchentrymorningfictiontoasttwin
+bip_39_word_no_space_7: inchentrymorningfictiontoasttwingown
+bip_39_word_no_space_8: inchentrymorningfictiontoasttwingownroast
+bip_39_word_no_space_9: inchentrymorningfictiontoasttwingownroasthuge
 bip_39_word_space_0:
 - inch
 - entry

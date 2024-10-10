@@ -122,6 +122,18 @@ surprise
 below
 hole
 relax |  
+| bip_39_word_no_space_1 | grief |  
+| bip_39_word_no_space_10 | griefwaspvaultadvancedisordersurprisebelowholerelaxspare |  
+| bip_39_word_no_space_11 | griefwaspvaultadvancedisordersurprisebelowholerelaxsparezoo |  
+| bip_39_word_no_space_12 | griefwaspvaultadvancedisordersurprisebelowholerelaxsparezooalready |  
+| bip_39_word_no_space_2 | griefwasp |  
+| bip_39_word_no_space_3 | griefwaspvault |  
+| bip_39_word_no_space_4 | griefwaspvaultadvance |  
+| bip_39_word_no_space_5 | griefwaspvaultadvancedisorder |  
+| bip_39_word_no_space_6 | griefwaspvaultadvancedisordersurprise |  
+| bip_39_word_no_space_7 | griefwaspvaultadvancedisordersurprisebelow |  
+| bip_39_word_no_space_8 | griefwaspvaultadvancedisordersurprisebelowhole |  
+| bip_39_word_no_space_9 | griefwaspvaultadvancedisordersurprisebelowholerelax |  
 | bip_39_word_space_0 | ['grief', 'wasp', 'vault', 'advance', 'disorder', 'surprise', 'below', 'hole', 'relax', 'spare', 'zoo', 'already'] |  
 | bip_39_word_space_1 | grief |  
 | bip_39_word_space_10 | grief wasp vault advance disorder surprise below hole relax spare |  

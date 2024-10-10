@@ -122,6 +122,18 @@ elder
 genius
 uncover
 private |  
+| bip_39_word_no_space_1 | pact |  
+| bip_39_word_no_space_10 | pactnoblepossiblemaximumthereeldergeniusuncoverprivateflavor |  
+| bip_39_word_no_space_11 | pactnoblepossiblemaximumthereeldergeniusuncoverprivateflavorcome |  
+| bip_39_word_no_space_12 | pactnoblepossiblemaximumthereeldergeniusuncoverprivateflavorcomeatom |  
+| bip_39_word_no_space_2 | pactnoble |  
+| bip_39_word_no_space_3 | pactnoblepossible |  
+| bip_39_word_no_space_4 | pactnoblepossiblemaximum |  
+| bip_39_word_no_space_5 | pactnoblepossiblemaximumthere |  
+| bip_39_word_no_space_6 | pactnoblepossiblemaximumthereelder |  
+| bip_39_word_no_space_7 | pactnoblepossiblemaximumthereeldergenius |  
+| bip_39_word_no_space_8 | pactnoblepossiblemaximumthereeldergeniusuncover |  
+| bip_39_word_no_space_9 | pactnoblepossiblemaximumthereeldergeniusuncoverprivate |  
 | bip_39_word_space_0 | ['pact', 'noble', 'possible', 'maximum', 'there', 'elder', 'genius', 'uncover', 'private', 'flavor', 'come', 'atom'] |  
 | bip_39_word_space_1 | pact |  
 | bip_39_word_space_10 | pact noble possible maximum there elder genius uncover private flavor |  

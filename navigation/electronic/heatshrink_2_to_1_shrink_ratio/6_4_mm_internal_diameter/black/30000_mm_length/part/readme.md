@@ -122,6 +122,18 @@ exact
 online
 glide
 curve |  
+| bip_39_word_no_space_1 | humble |  
+| bip_39_word_no_space_10 | humbleremindinnersolarstadiumexactonlineglidecurvethank |  
+| bip_39_word_no_space_11 | humbleremindinnersolarstadiumexactonlineglidecurvethanksatoshi |  
+| bip_39_word_no_space_12 | humbleremindinnersolarstadiumexactonlineglidecurvethanksatoshianchor |  
+| bip_39_word_no_space_2 | humbleremind |  
+| bip_39_word_no_space_3 | humbleremindinner |  
+| bip_39_word_no_space_4 | humbleremindinnersolar |  
+| bip_39_word_no_space_5 | humbleremindinnersolarstadium |  
+| bip_39_word_no_space_6 | humbleremindinnersolarstadiumexact |  
+| bip_39_word_no_space_7 | humbleremindinnersolarstadiumexactonline |  
+| bip_39_word_no_space_8 | humbleremindinnersolarstadiumexactonlineglide |  
+| bip_39_word_no_space_9 | humbleremindinnersolarstadiumexactonlineglidecurve |  
 | bip_39_word_space_0 | ['humble', 'remind', 'inner', 'solar', 'stadium', 'exact', 'online', 'glide', 'curve', 'thank', 'satoshi', 'anchor'] |  
 | bip_39_word_space_1 | humble |  
 | bip_39_word_space_10 | humble remind inner solar stadium exact online glide curve thank |  

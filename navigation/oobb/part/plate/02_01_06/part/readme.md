@@ -122,6 +122,18 @@ rabbit
 copper
 raven
 jelly |  
+| bip_39_word_no_space_1 | true |  
+| bip_39_word_no_space_10 | trueinvitecosttowermutualrabbitcopperravenjellycushion |  
+| bip_39_word_no_space_11 | trueinvitecosttowermutualrabbitcopperravenjellycushionsilly |  
+| bip_39_word_no_space_12 | trueinvitecosttowermutualrabbitcopperravenjellycushionsillyafraid |  
+| bip_39_word_no_space_2 | trueinvite |  
+| bip_39_word_no_space_3 | trueinvitecost |  
+| bip_39_word_no_space_4 | trueinvitecosttower |  
+| bip_39_word_no_space_5 | trueinvitecosttowermutual |  
+| bip_39_word_no_space_6 | trueinvitecosttowermutualrabbit |  
+| bip_39_word_no_space_7 | trueinvitecosttowermutualrabbitcopper |  
+| bip_39_word_no_space_8 | trueinvitecosttowermutualrabbitcopperraven |  
+| bip_39_word_no_space_9 | trueinvitecosttowermutualrabbitcopperravenjelly |  
 | bip_39_word_space_0 | ['true', 'invite', 'cost', 'tower', 'mutual', 'rabbit', 'copper', 'raven', 'jelly', 'cushion', 'silly', 'afraid'] |  
 | bip_39_word_space_1 | true |  
 | bip_39_word_space_10 | true invite cost tower mutual rabbit copper raven jelly cushion |  

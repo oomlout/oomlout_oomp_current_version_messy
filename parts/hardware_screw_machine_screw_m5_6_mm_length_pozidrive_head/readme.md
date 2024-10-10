@@ -122,6 +122,18 @@ video
 exhaust
 offer
 network |  
+| bip_39_word_no_space_1 | mistake |  
+| bip_39_word_no_space_10 | mistaketoolpuzzleimpactpublicvideoexhaustoffernetworktree |  
+| bip_39_word_no_space_11 | mistaketoolpuzzleimpactpublicvideoexhaustoffernetworktreeschool |  
+| bip_39_word_no_space_12 | mistaketoolpuzzleimpactpublicvideoexhaustoffernetworktreeschoolassume |  
+| bip_39_word_no_space_2 | mistaketool |  
+| bip_39_word_no_space_3 | mistaketoolpuzzle |  
+| bip_39_word_no_space_4 | mistaketoolpuzzleimpact |  
+| bip_39_word_no_space_5 | mistaketoolpuzzleimpactpublic |  
+| bip_39_word_no_space_6 | mistaketoolpuzzleimpactpublicvideo |  
+| bip_39_word_no_space_7 | mistaketoolpuzzleimpactpublicvideoexhaust |  
+| bip_39_word_no_space_8 | mistaketoolpuzzleimpactpublicvideoexhaustoffer |  
+| bip_39_word_no_space_9 | mistaketoolpuzzleimpactpublicvideoexhaustoffernetwork |  
 | bip_39_word_space_0 | ['mistake', 'tool', 'puzzle', 'impact', 'public', 'video', 'exhaust', 'offer', 'network', 'tree', 'school', 'assume'] |  
 | bip_39_word_space_1 | mistake |  
 | bip_39_word_space_10 | mistake tool puzzle impact public video exhaust offer network tree |  

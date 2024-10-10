@@ -122,6 +122,18 @@ misery
 chief
 trophy
 roast |  
+| bip_39_word_no_space_1 | river |  
+| bip_39_word_no_space_10 | riverpatternrackdevoteworrymiserychieftrophyroastbitter |  
+| bip_39_word_no_space_11 | riverpatternrackdevoteworrymiserychieftrophyroastbitterone |  
+| bip_39_word_no_space_12 | riverpatternrackdevoteworrymiserychieftrophyroastbitteroneanimal |  
+| bip_39_word_no_space_2 | riverpattern |  
+| bip_39_word_no_space_3 | riverpatternrack |  
+| bip_39_word_no_space_4 | riverpatternrackdevote |  
+| bip_39_word_no_space_5 | riverpatternrackdevoteworry |  
+| bip_39_word_no_space_6 | riverpatternrackdevoteworrymisery |  
+| bip_39_word_no_space_7 | riverpatternrackdevoteworrymiserychief |  
+| bip_39_word_no_space_8 | riverpatternrackdevoteworrymiserychieftrophy |  
+| bip_39_word_no_space_9 | riverpatternrackdevoteworrymiserychieftrophyroast |  
 | bip_39_word_space_0 | ['river', 'pattern', 'rack', 'devote', 'worry', 'misery', 'chief', 'trophy', 'roast', 'bitter', 'one', 'animal'] |  
 | bip_39_word_space_1 | river |  
 | bip_39_word_space_10 | river pattern rack devote worry misery chief trophy roast bitter |  

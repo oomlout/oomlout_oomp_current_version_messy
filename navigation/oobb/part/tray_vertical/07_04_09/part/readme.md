@@ -122,6 +122,18 @@ hood
 emotion
 curious
 decline |  
+| bip_39_word_no_space_1 | coin |  
+| bip_39_word_no_space_10 | coinjuicedolphincrycarthoodemotioncuriousdeclinerecall |  
+| bip_39_word_no_space_11 | coinjuicedolphincrycarthoodemotioncuriousdeclinerecallwinner |  
+| bip_39_word_no_space_12 | coinjuicedolphincrycarthoodemotioncuriousdeclinerecallwinneranother |  
+| bip_39_word_no_space_2 | coinjuice |  
+| bip_39_word_no_space_3 | coinjuicedolphin |  
+| bip_39_word_no_space_4 | coinjuicedolphincry |  
+| bip_39_word_no_space_5 | coinjuicedolphincrycart |  
+| bip_39_word_no_space_6 | coinjuicedolphincrycarthood |  
+| bip_39_word_no_space_7 | coinjuicedolphincrycarthoodemotion |  
+| bip_39_word_no_space_8 | coinjuicedolphincrycarthoodemotioncurious |  
+| bip_39_word_no_space_9 | coinjuicedolphincrycarthoodemotioncuriousdecline |  
 | bip_39_word_space_0 | ['coin', 'juice', 'dolphin', 'cry', 'cart', 'hood', 'emotion', 'curious', 'decline', 'recall', 'winner', 'another'] |  
 | bip_39_word_space_1 | coin |  
 | bip_39_word_space_10 | coin juice dolphin cry cart hood emotion curious decline recall |  

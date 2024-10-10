@@ -122,6 +122,18 @@ never
 angle
 era
 theory |  
+| bip_39_word_no_space_1 | alcohol |  
+| bip_39_word_no_space_10 | alcoholpostusefuldresswinnerneverangleeratheorypath |  
+| bip_39_word_no_space_11 | alcoholpostusefuldresswinnerneverangleeratheorypathlemon |  
+| bip_39_word_no_space_12 | alcoholpostusefuldresswinnerneverangleeratheorypathlemonangry |  
+| bip_39_word_no_space_2 | alcoholpost |  
+| bip_39_word_no_space_3 | alcoholpostuseful |  
+| bip_39_word_no_space_4 | alcoholpostusefuldress |  
+| bip_39_word_no_space_5 | alcoholpostusefuldresswinner |  
+| bip_39_word_no_space_6 | alcoholpostusefuldresswinnernever |  
+| bip_39_word_no_space_7 | alcoholpostusefuldresswinnerneverangle |  
+| bip_39_word_no_space_8 | alcoholpostusefuldresswinnerneverangleera |  
+| bip_39_word_no_space_9 | alcoholpostusefuldresswinnerneverangleeratheory |  
 | bip_39_word_space_0 | ['alcohol', 'post', 'useful', 'dress', 'winner', 'never', 'angle', 'era', 'theory', 'path', 'lemon', 'angry'] |  
 | bip_39_word_space_1 | alcohol |  
 | bip_39_word_space_10 | alcohol post useful dress winner never angle era theory path |  

@@ -122,6 +122,18 @@ post
 report
 sister
 rescue |  
+| bip_39_word_no_space_1 | field |  
+| bip_39_word_no_space_10 | fieldskinpopularinformprintpostreportsisterrescuesouth |  
+| bip_39_word_no_space_11 | fieldskinpopularinformprintpostreportsisterrescuesouthnoise |  
+| bip_39_word_no_space_12 | fieldskinpopularinformprintpostreportsisterrescuesouthnoiseacoustic |  
+| bip_39_word_no_space_2 | fieldskin |  
+| bip_39_word_no_space_3 | fieldskinpopular |  
+| bip_39_word_no_space_4 | fieldskinpopularinform |  
+| bip_39_word_no_space_5 | fieldskinpopularinformprint |  
+| bip_39_word_no_space_6 | fieldskinpopularinformprintpost |  
+| bip_39_word_no_space_7 | fieldskinpopularinformprintpostreport |  
+| bip_39_word_no_space_8 | fieldskinpopularinformprintpostreportsister |  
+| bip_39_word_no_space_9 | fieldskinpopularinformprintpostreportsisterrescue |  
 | bip_39_word_space_0 | ['field', 'skin', 'popular', 'inform', 'print', 'post', 'report', 'sister', 'rescue', 'south', 'noise', 'acoustic'] |  
 | bip_39_word_space_1 | field |  
 | bip_39_word_space_10 | field skin popular inform print post report sister rescue south |  

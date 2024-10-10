@@ -122,6 +122,18 @@ vacant
 jaguar
 lonely
 kitten |  
+| bip_39_word_no_space_1 | market |  
+| bip_39_word_no_space_10 | marketshadowwarmvendorstumblevacantjaguarlonelykittengasp |  
+| bip_39_word_no_space_11 | marketshadowwarmvendorstumblevacantjaguarlonelykittengaspskull |  
+| bip_39_word_no_space_12 | marketshadowwarmvendorstumblevacantjaguarlonelykittengaspskullalcohol |  
+| bip_39_word_no_space_2 | marketshadow |  
+| bip_39_word_no_space_3 | marketshadowwarm |  
+| bip_39_word_no_space_4 | marketshadowwarmvendor |  
+| bip_39_word_no_space_5 | marketshadowwarmvendorstumble |  
+| bip_39_word_no_space_6 | marketshadowwarmvendorstumblevacant |  
+| bip_39_word_no_space_7 | marketshadowwarmvendorstumblevacantjaguar |  
+| bip_39_word_no_space_8 | marketshadowwarmvendorstumblevacantjaguarlonely |  
+| bip_39_word_no_space_9 | marketshadowwarmvendorstumblevacantjaguarlonelykitten |  
 | bip_39_word_space_0 | ['market', 'shadow', 'warm', 'vendor', 'stumble', 'vacant', 'jaguar', 'lonely', 'kitten', 'gasp', 'skull', 'alcohol'] |  
 | bip_39_word_space_1 | market |  
 | bip_39_word_space_10 | market shadow warm vendor stumble vacant jaguar lonely kitten gasp |  

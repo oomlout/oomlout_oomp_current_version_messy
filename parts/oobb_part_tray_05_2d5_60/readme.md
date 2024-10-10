@@ -122,6 +122,18 @@ prison
 spy
 right
 gravity |  
+| bip_39_word_no_space_1 | brain |  
+| bip_39_word_no_space_10 | brainmiddlenursechalkwireprisonspyrightgravityimmune |  
+| bip_39_word_no_space_11 | brainmiddlenursechalkwireprisonspyrightgravityimmunedoctor |  
+| bip_39_word_no_space_12 | brainmiddlenursechalkwireprisonspyrightgravityimmunedoctorabove |  
+| bip_39_word_no_space_2 | brainmiddle |  
+| bip_39_word_no_space_3 | brainmiddlenurse |  
+| bip_39_word_no_space_4 | brainmiddlenursechalk |  
+| bip_39_word_no_space_5 | brainmiddlenursechalkwire |  
+| bip_39_word_no_space_6 | brainmiddlenursechalkwireprison |  
+| bip_39_word_no_space_7 | brainmiddlenursechalkwireprisonspy |  
+| bip_39_word_no_space_8 | brainmiddlenursechalkwireprisonspyright |  
+| bip_39_word_no_space_9 | brainmiddlenursechalkwireprisonspyrightgravity |  
 | bip_39_word_space_0 | ['brain', 'middle', 'nurse', 'chalk', 'wire', 'prison', 'spy', 'right', 'gravity', 'immune', 'doctor', 'above'] |  
 | bip_39_word_space_1 | brain |  
 | bip_39_word_space_10 | brain middle nurse chalk wire prison spy right gravity immune |  

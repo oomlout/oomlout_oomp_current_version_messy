@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soldier
   apart
 
   vivid'
+bip_39_word_no_space_1: soldier
+bip_39_word_no_space_10: soldiercooldashchatthisrevieweightapartvividhint
+bip_39_word_no_space_11: soldiercooldashchatthisrevieweightapartvividhintuniform
+bip_39_word_no_space_12: soldiercooldashchatthisrevieweightapartvividhintuniformangle
+bip_39_word_no_space_2: soldiercool
+bip_39_word_no_space_3: soldiercooldash
+bip_39_word_no_space_4: soldiercooldashchat
+bip_39_word_no_space_5: soldiercooldashchatthis
+bip_39_word_no_space_6: soldiercooldashchatthisreview
+bip_39_word_no_space_7: soldiercooldashchatthisrevieweight
+bip_39_word_no_space_8: soldiercooldashchatthisrevieweightapart
+bip_39_word_no_space_9: soldiercooldashchatthisrevieweightapartvivid
 bip_39_word_space_0:
 - soldier
 - cool

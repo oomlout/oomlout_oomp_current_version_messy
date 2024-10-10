@@ -122,6 +122,18 @@ syrup
 talent
 winner
 label |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiqueshallowsincetoyrebuildsyruptalentwinnerlabelpunch |  
+| bip_39_word_no_space_11 | antiqueshallowsincetoyrebuildsyruptalentwinnerlabelpunchclaw |  
+| bip_39_word_no_space_12 | antiqueshallowsincetoyrebuildsyruptalentwinnerlabelpunchclawangle |  
+| bip_39_word_no_space_2 | antiqueshallow |  
+| bip_39_word_no_space_3 | antiqueshallowsince |  
+| bip_39_word_no_space_4 | antiqueshallowsincetoy |  
+| bip_39_word_no_space_5 | antiqueshallowsincetoyrebuild |  
+| bip_39_word_no_space_6 | antiqueshallowsincetoyrebuildsyrup |  
+| bip_39_word_no_space_7 | antiqueshallowsincetoyrebuildsyruptalent |  
+| bip_39_word_no_space_8 | antiqueshallowsincetoyrebuildsyruptalentwinner |  
+| bip_39_word_no_space_9 | antiqueshallowsincetoyrebuildsyruptalentwinnerlabel |  
 | bip_39_word_space_0 | ['antique', 'shallow', 'since', 'toy', 'rebuild', 'syrup', 'talent', 'winner', 'label', 'punch', 'claw', 'angle'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique shallow since toy rebuild syrup talent winner label punch |  

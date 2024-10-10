@@ -122,6 +122,18 @@ inform
 scheme
 own
 trash |  
+| bip_39_word_no_space_1 | public |  
+| bip_39_word_no_space_10 | publicleopardseapersonboneinformschemeowntrashmotor |  
+| bip_39_word_no_space_11 | publicleopardseapersonboneinformschemeowntrashmotorseminar |  
+| bip_39_word_no_space_12 | publicleopardseapersonboneinformschemeowntrashmotorseminarantique |  
+| bip_39_word_no_space_2 | publicleopard |  
+| bip_39_word_no_space_3 | publicleopardsea |  
+| bip_39_word_no_space_4 | publicleopardseaperson |  
+| bip_39_word_no_space_5 | publicleopardseapersonbone |  
+| bip_39_word_no_space_6 | publicleopardseapersonboneinform |  
+| bip_39_word_no_space_7 | publicleopardseapersonboneinformscheme |  
+| bip_39_word_no_space_8 | publicleopardseapersonboneinformschemeown |  
+| bip_39_word_no_space_9 | publicleopardseapersonboneinformschemeowntrash |  
 | bip_39_word_space_0 | ['public', 'leopard', 'sea', 'person', 'bone', 'inform', 'scheme', 'own', 'trash', 'motor', 'seminar', 'antique'] |  
 | bip_39_word_space_1 | public |  
 | bip_39_word_space_10 | public leopard sea person bone inform scheme own trash motor |  

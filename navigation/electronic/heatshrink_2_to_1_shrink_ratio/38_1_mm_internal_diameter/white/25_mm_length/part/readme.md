@@ -122,6 +122,18 @@ all
 build
 afraid
 empower |  
+| bip_39_word_no_space_1 | guilt |  
+| bip_39_word_no_space_10 | guilthollowcautionlaterportionallbuildafraidempowerpower |  
+| bip_39_word_no_space_11 | guilthollowcautionlaterportionallbuildafraidempowerpowercattle |  
+| bip_39_word_no_space_12 | guilthollowcautionlaterportionallbuildafraidempowerpowercattleassist |  
+| bip_39_word_no_space_2 | guilthollow |  
+| bip_39_word_no_space_3 | guilthollowcaution |  
+| bip_39_word_no_space_4 | guilthollowcautionlater |  
+| bip_39_word_no_space_5 | guilthollowcautionlaterportion |  
+| bip_39_word_no_space_6 | guilthollowcautionlaterportionall |  
+| bip_39_word_no_space_7 | guilthollowcautionlaterportionallbuild |  
+| bip_39_word_no_space_8 | guilthollowcautionlaterportionallbuildafraid |  
+| bip_39_word_no_space_9 | guilthollowcautionlaterportionallbuildafraidempower |  
 | bip_39_word_space_0 | ['guilt', 'hollow', 'caution', 'later', 'portion', 'all', 'build', 'afraid', 'empower', 'power', 'cattle', 'assist'] |  
 | bip_39_word_space_1 | guilt |  
 | bip_39_word_space_10 | guilt hollow caution later portion all build afraid empower power |  

@@ -122,6 +122,18 @@ dial
 void
 basket
 shallow |  
+| bip_39_word_no_space_1 | notice |  
+| bip_39_word_no_space_10 | noticegladlistdemiseglowdialvoidbasketshallowlater |  
+| bip_39_word_no_space_11 | noticegladlistdemiseglowdialvoidbasketshallowlaterawful |  
+| bip_39_word_no_space_12 | noticegladlistdemiseglowdialvoidbasketshallowlaterawfulagent |  
+| bip_39_word_no_space_2 | noticeglad |  
+| bip_39_word_no_space_3 | noticegladlist |  
+| bip_39_word_no_space_4 | noticegladlistdemise |  
+| bip_39_word_no_space_5 | noticegladlistdemiseglow |  
+| bip_39_word_no_space_6 | noticegladlistdemiseglowdial |  
+| bip_39_word_no_space_7 | noticegladlistdemiseglowdialvoid |  
+| bip_39_word_no_space_8 | noticegladlistdemiseglowdialvoidbasket |  
+| bip_39_word_no_space_9 | noticegladlistdemiseglowdialvoidbasketshallow |  
 | bip_39_word_space_0 | ['notice', 'glad', 'list', 'demise', 'glow', 'dial', 'void', 'basket', 'shallow', 'later', 'awful', 'agent'] |  
 | bip_39_word_space_1 | notice |  
 | bip_39_word_space_10 | notice glad list demise glow dial void basket shallow later |  

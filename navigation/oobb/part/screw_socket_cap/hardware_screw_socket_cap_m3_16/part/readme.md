@@ -122,6 +122,18 @@ mail
 ecology
 own
 afraid |  
+| bip_39_word_no_space_1 | gold |  
+| bip_39_word_no_space_10 | goldcardrepairsentencewarriormailecologyownafraidmail |  
+| bip_39_word_no_space_11 | goldcardrepairsentencewarriormailecologyownafraidmailweasel |  
+| bip_39_word_no_space_12 | goldcardrepairsentencewarriormailecologyownafraidmailweaselassume |  
+| bip_39_word_no_space_2 | goldcard |  
+| bip_39_word_no_space_3 | goldcardrepair |  
+| bip_39_word_no_space_4 | goldcardrepairsentence |  
+| bip_39_word_no_space_5 | goldcardrepairsentencewarrior |  
+| bip_39_word_no_space_6 | goldcardrepairsentencewarriormail |  
+| bip_39_word_no_space_7 | goldcardrepairsentencewarriormailecology |  
+| bip_39_word_no_space_8 | goldcardrepairsentencewarriormailecologyown |  
+| bip_39_word_no_space_9 | goldcardrepairsentencewarriormailecologyownafraid |  
 | bip_39_word_space_0 | ['gold', 'card', 'repair', 'sentence', 'warrior', 'mail', 'ecology', 'own', 'afraid', 'mail', 'weasel', 'assume'] |  
 | bip_39_word_space_1 | gold |  
 | bip_39_word_space_10 | gold card repair sentence warrior mail ecology own afraid mail |  

@@ -122,6 +122,18 @@ since
 pulse
 steel
 degree |  
+| bip_39_word_no_space_1 | help |  
+| bip_39_word_no_space_10 | helpcheckderivetokenstovesincepulsesteeldegreeinvolve |  
+| bip_39_word_no_space_11 | helpcheckderivetokenstovesincepulsesteeldegreeinvolveunusual |  
+| bip_39_word_no_space_12 | helpcheckderivetokenstovesincepulsesteeldegreeinvolveunusualaddress |  
+| bip_39_word_no_space_2 | helpcheck |  
+| bip_39_word_no_space_3 | helpcheckderive |  
+| bip_39_word_no_space_4 | helpcheckderivetoken |  
+| bip_39_word_no_space_5 | helpcheckderivetokenstove |  
+| bip_39_word_no_space_6 | helpcheckderivetokenstovesince |  
+| bip_39_word_no_space_7 | helpcheckderivetokenstovesincepulse |  
+| bip_39_word_no_space_8 | helpcheckderivetokenstovesincepulsesteel |  
+| bip_39_word_no_space_9 | helpcheckderivetokenstovesincepulsesteeldegree |  
 | bip_39_word_space_0 | ['help', 'check', 'derive', 'token', 'stove', 'since', 'pulse', 'steel', 'degree', 'involve', 'unusual', 'address'] |  
 | bip_39_word_space_1 | help |  
 | bip_39_word_space_10 | help check derive token stove since pulse steel degree involve |  

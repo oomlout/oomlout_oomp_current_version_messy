@@ -122,6 +122,18 @@ always
 genuine
 retreat
 obscure |  
+| bip_39_word_no_space_1 | crystal |  
+| bip_39_word_no_space_10 | crystallivebrickcitykingdomalwaysgenuineretreatobscurescrap |  
+| bip_39_word_no_space_11 | crystallivebrickcitykingdomalwaysgenuineretreatobscurescrapcanvas |  
+| bip_39_word_no_space_12 | crystallivebrickcitykingdomalwaysgenuineretreatobscurescrapcanvasangle |  
+| bip_39_word_no_space_2 | crystallive |  
+| bip_39_word_no_space_3 | crystallivebrick |  
+| bip_39_word_no_space_4 | crystallivebrickcity |  
+| bip_39_word_no_space_5 | crystallivebrickcitykingdom |  
+| bip_39_word_no_space_6 | crystallivebrickcitykingdomalways |  
+| bip_39_word_no_space_7 | crystallivebrickcitykingdomalwaysgenuine |  
+| bip_39_word_no_space_8 | crystallivebrickcitykingdomalwaysgenuineretreat |  
+| bip_39_word_no_space_9 | crystallivebrickcitykingdomalwaysgenuineretreatobscure |  
 | bip_39_word_space_0 | ['crystal', 'live', 'brick', 'city', 'kingdom', 'always', 'genuine', 'retreat', 'obscure', 'scrap', 'canvas', 'angle'] |  
 | bip_39_word_space_1 | crystal |  
 | bip_39_word_space_10 | crystal live brick city kingdom always genuine retreat obscure scrap |  

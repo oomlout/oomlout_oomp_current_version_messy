@@ -122,6 +122,18 @@ thumb
 point
 squirrel
 turtle |  
+| bip_39_word_no_space_1 | gaze |  
+| bip_39_word_no_space_10 | gazemoviecrawlnoseelitethumbpointsquirrelturtlestruggle |  
+| bip_39_word_no_space_11 | gazemoviecrawlnoseelitethumbpointsquirrelturtlestruggleenable |  
+| bip_39_word_no_space_12 | gazemoviecrawlnoseelitethumbpointsquirrelturtlestruggleenableaction |  
+| bip_39_word_no_space_2 | gazemovie |  
+| bip_39_word_no_space_3 | gazemoviecrawl |  
+| bip_39_word_no_space_4 | gazemoviecrawlnose |  
+| bip_39_word_no_space_5 | gazemoviecrawlnoseelite |  
+| bip_39_word_no_space_6 | gazemoviecrawlnoseelitethumb |  
+| bip_39_word_no_space_7 | gazemoviecrawlnoseelitethumbpoint |  
+| bip_39_word_no_space_8 | gazemoviecrawlnoseelitethumbpointsquirrel |  
+| bip_39_word_no_space_9 | gazemoviecrawlnoseelitethumbpointsquirrelturtle |  
 | bip_39_word_space_0 | ['gaze', 'movie', 'crawl', 'nose', 'elite', 'thumb', 'point', 'squirrel', 'turtle', 'struggle', 'enable', 'action'] |  
 | bip_39_word_space_1 | gaze |  
 | bip_39_word_space_10 | gaze movie crawl nose elite thumb point squirrel turtle struggle |  

@@ -122,6 +122,18 @@ stumble
 school
 embody
 about |  
+| bip_39_word_no_space_1 | gather |  
+| bip_39_word_no_space_10 | gatherwhatopinionbrushattractstumbleschoolembodyaboutthought |  
+| bip_39_word_no_space_11 | gatherwhatopinionbrushattractstumbleschoolembodyaboutthoughtoriginal |  
+| bip_39_word_no_space_12 | gatherwhatopinionbrushattractstumbleschoolembodyaboutthoughtoriginalart |  
+| bip_39_word_no_space_2 | gatherwhat |  
+| bip_39_word_no_space_3 | gatherwhatopinion |  
+| bip_39_word_no_space_4 | gatherwhatopinionbrush |  
+| bip_39_word_no_space_5 | gatherwhatopinionbrushattract |  
+| bip_39_word_no_space_6 | gatherwhatopinionbrushattractstumble |  
+| bip_39_word_no_space_7 | gatherwhatopinionbrushattractstumbleschool |  
+| bip_39_word_no_space_8 | gatherwhatopinionbrushattractstumbleschoolembody |  
+| bip_39_word_no_space_9 | gatherwhatopinionbrushattractstumbleschoolembodyabout |  
 | bip_39_word_space_0 | ['gather', 'what', 'opinion', 'brush', 'attract', 'stumble', 'school', 'embody', 'about', 'thought', 'original', 'art'] |  
 | bip_39_word_space_1 | gather |  
 | bip_39_word_space_10 | gather what opinion brush attract stumble school embody about thought |  

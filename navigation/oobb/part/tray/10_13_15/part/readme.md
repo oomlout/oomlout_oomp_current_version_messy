@@ -122,6 +122,18 @@ trial
 enact
 dawn
 fix |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmentvaultaccusesomeonefurnacetrialenactdawnfixacquire |  
+| bip_39_word_no_space_11 | segmentvaultaccusesomeonefurnacetrialenactdawnfixacquireexhaust |  
+| bip_39_word_no_space_12 | segmentvaultaccusesomeonefurnacetrialenactdawnfixacquireexhaustasset |  
+| bip_39_word_no_space_2 | segmentvault |  
+| bip_39_word_no_space_3 | segmentvaultaccuse |  
+| bip_39_word_no_space_4 | segmentvaultaccusesomeone |  
+| bip_39_word_no_space_5 | segmentvaultaccusesomeonefurnace |  
+| bip_39_word_no_space_6 | segmentvaultaccusesomeonefurnacetrial |  
+| bip_39_word_no_space_7 | segmentvaultaccusesomeonefurnacetrialenact |  
+| bip_39_word_no_space_8 | segmentvaultaccusesomeonefurnacetrialenactdawn |  
+| bip_39_word_no_space_9 | segmentvaultaccusesomeonefurnacetrialenactdawnfix |  
 | bip_39_word_space_0 | ['segment', 'vault', 'accuse', 'someone', 'furnace', 'trial', 'enact', 'dawn', 'fix', 'acquire', 'exhaust', 'asset'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment vault accuse someone furnace trial enact dawn fix acquire |  

@@ -122,6 +122,18 @@ mass
 escape
 moment
 anger |  
+| bip_39_word_no_space_1 | decide |  
+| bip_39_word_no_space_10 | decidepinksurgeseniorbuildmassescapemomentangerclimb |  
+| bip_39_word_no_space_11 | decidepinksurgeseniorbuildmassescapemomentangerclimbenact |  
+| bip_39_word_no_space_12 | decidepinksurgeseniorbuildmassescapemomentangerclimbenactactress |  
+| bip_39_word_no_space_2 | decidepink |  
+| bip_39_word_no_space_3 | decidepinksurge |  
+| bip_39_word_no_space_4 | decidepinksurgesenior |  
+| bip_39_word_no_space_5 | decidepinksurgeseniorbuild |  
+| bip_39_word_no_space_6 | decidepinksurgeseniorbuildmass |  
+| bip_39_word_no_space_7 | decidepinksurgeseniorbuildmassescape |  
+| bip_39_word_no_space_8 | decidepinksurgeseniorbuildmassescapemoment |  
+| bip_39_word_no_space_9 | decidepinksurgeseniorbuildmassescapemomentanger |  
 | bip_39_word_space_0 | ['decide', 'pink', 'surge', 'senior', 'build', 'mass', 'escape', 'moment', 'anger', 'climb', 'enact', 'actress'] |  
 | bip_39_word_space_1 | decide |  
 | bip_39_word_space_10 | decide pink surge senior build mass escape moment anger climb |  

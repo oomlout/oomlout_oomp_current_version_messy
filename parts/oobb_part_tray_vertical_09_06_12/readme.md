@@ -122,6 +122,18 @@ license
 water
 pepper
 blossom |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actionstumbledrillenlistauntlicensewaterpepperblossomvictory |  
+| bip_39_word_no_space_11 | actionstumbledrillenlistauntlicensewaterpepperblossomvictoryunit |  
+| bip_39_word_no_space_12 | actionstumbledrillenlistauntlicensewaterpepperblossomvictoryunitagent |  
+| bip_39_word_no_space_2 | actionstumble |  
+| bip_39_word_no_space_3 | actionstumbledrill |  
+| bip_39_word_no_space_4 | actionstumbledrillenlist |  
+| bip_39_word_no_space_5 | actionstumbledrillenlistaunt |  
+| bip_39_word_no_space_6 | actionstumbledrillenlistauntlicense |  
+| bip_39_word_no_space_7 | actionstumbledrillenlistauntlicensewater |  
+| bip_39_word_no_space_8 | actionstumbledrillenlistauntlicensewaterpepper |  
+| bip_39_word_no_space_9 | actionstumbledrillenlistauntlicensewaterpepperblossom |  
 | bip_39_word_space_0 | ['action', 'stumble', 'drill', 'enlist', 'aunt', 'license', 'water', 'pepper', 'blossom', 'victory', 'unit', 'agent'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action stumble drill enlist aunt license water pepper blossom victory |  

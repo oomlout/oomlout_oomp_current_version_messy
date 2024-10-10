@@ -122,6 +122,18 @@ pigeon
 you
 jar
 wreck |  
+| bip_39_word_no_space_1 | pitch |  
+| bip_39_word_no_space_10 | pitchguitarclusterbiologygamepigeonyoujarwrecktreat |  
+| bip_39_word_no_space_11 | pitchguitarclusterbiologygamepigeonyoujarwrecktreathidden |  
+| bip_39_word_no_space_12 | pitchguitarclusterbiologygamepigeonyoujarwrecktreathiddenarmed |  
+| bip_39_word_no_space_2 | pitchguitar |  
+| bip_39_word_no_space_3 | pitchguitarcluster |  
+| bip_39_word_no_space_4 | pitchguitarclusterbiology |  
+| bip_39_word_no_space_5 | pitchguitarclusterbiologygame |  
+| bip_39_word_no_space_6 | pitchguitarclusterbiologygamepigeon |  
+| bip_39_word_no_space_7 | pitchguitarclusterbiologygamepigeonyou |  
+| bip_39_word_no_space_8 | pitchguitarclusterbiologygamepigeonyoujar |  
+| bip_39_word_no_space_9 | pitchguitarclusterbiologygamepigeonyoujarwreck |  
 | bip_39_word_space_0 | ['pitch', 'guitar', 'cluster', 'biology', 'game', 'pigeon', 'you', 'jar', 'wreck', 'treat', 'hidden', 'armed'] |  
 | bip_39_word_space_1 | pitch |  
 | bip_39_word_space_10 | pitch guitar cluster biology game pigeon you jar wreck treat |  

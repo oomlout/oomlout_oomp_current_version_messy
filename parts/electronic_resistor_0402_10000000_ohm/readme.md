@@ -122,6 +122,18 @@ tourist
 client
 gun
 girl |  
+| bip_39_word_no_space_1 | radio |  
+| bip_39_word_no_space_10 | radiobikeimmensefantasycantouristclientgungirleconomy |  
+| bip_39_word_no_space_11 | radiobikeimmensefantasycantouristclientgungirleconomyearth |  
+| bip_39_word_no_space_12 | radiobikeimmensefantasycantouristclientgungirleconomyearthamong |  
+| bip_39_word_no_space_2 | radiobike |  
+| bip_39_word_no_space_3 | radiobikeimmense |  
+| bip_39_word_no_space_4 | radiobikeimmensefantasy |  
+| bip_39_word_no_space_5 | radiobikeimmensefantasycan |  
+| bip_39_word_no_space_6 | radiobikeimmensefantasycantourist |  
+| bip_39_word_no_space_7 | radiobikeimmensefantasycantouristclient |  
+| bip_39_word_no_space_8 | radiobikeimmensefantasycantouristclientgun |  
+| bip_39_word_no_space_9 | radiobikeimmensefantasycantouristclientgungirl |  
 | bip_39_word_space_0 | ['radio', 'bike', 'immense', 'fantasy', 'can', 'tourist', 'client', 'gun', 'girl', 'economy', 'earth', 'among'] |  
 | bip_39_word_space_1 | radio |  
 | bip_39_word_space_10 | radio bike immense fantasy can tourist client gun girl economy |  

@@ -122,6 +122,18 @@ invite
 wheel
 lava
 inner |  
+| bip_39_word_no_space_1 | space |  
+| bip_39_word_no_space_10 | spaceraisedevicekitehaveinvitewheellavainnerbuzz |  
+| bip_39_word_no_space_11 | spaceraisedevicekitehaveinvitewheellavainnerbuzzlink |  
+| bip_39_word_no_space_12 | spaceraisedevicekitehaveinvitewheellavainnerbuzzlinkaudit |  
+| bip_39_word_no_space_2 | spaceraise |  
+| bip_39_word_no_space_3 | spaceraisedevice |  
+| bip_39_word_no_space_4 | spaceraisedevicekite |  
+| bip_39_word_no_space_5 | spaceraisedevicekitehave |  
+| bip_39_word_no_space_6 | spaceraisedevicekitehaveinvite |  
+| bip_39_word_no_space_7 | spaceraisedevicekitehaveinvitewheel |  
+| bip_39_word_no_space_8 | spaceraisedevicekitehaveinvitewheellava |  
+| bip_39_word_no_space_9 | spaceraisedevicekitehaveinvitewheellavainner |  
 | bip_39_word_space_0 | ['space', 'raise', 'device', 'kite', 'have', 'invite', 'wheel', 'lava', 'inner', 'buzz', 'link', 'audit'] |  
 | bip_39_word_space_1 | space |  
 | bip_39_word_space_10 | space raise device kite have invite wheel lava inner buzz |  

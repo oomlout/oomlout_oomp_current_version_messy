@@ -122,6 +122,18 @@ narrow
 fan
 spike
 receive |  
+| bip_39_word_no_space_1 | stamp |  
+| bip_39_word_no_space_10 | stampdenyrookieunusualscrubnarrowfanspikereceivelaugh |  
+| bip_39_word_no_space_11 | stampdenyrookieunusualscrubnarrowfanspikereceivelaughcolumn |  
+| bip_39_word_no_space_12 | stampdenyrookieunusualscrubnarrowfanspikereceivelaughcolumnacoustic |  
+| bip_39_word_no_space_2 | stampdeny |  
+| bip_39_word_no_space_3 | stampdenyrookie |  
+| bip_39_word_no_space_4 | stampdenyrookieunusual |  
+| bip_39_word_no_space_5 | stampdenyrookieunusualscrub |  
+| bip_39_word_no_space_6 | stampdenyrookieunusualscrubnarrow |  
+| bip_39_word_no_space_7 | stampdenyrookieunusualscrubnarrowfan |  
+| bip_39_word_no_space_8 | stampdenyrookieunusualscrubnarrowfanspike |  
+| bip_39_word_no_space_9 | stampdenyrookieunusualscrubnarrowfanspikereceive |  
 | bip_39_word_space_0 | ['stamp', 'deny', 'rookie', 'unusual', 'scrub', 'narrow', 'fan', 'spike', 'receive', 'laugh', 'column', 'acoustic'] |  
 | bip_39_word_space_1 | stamp |  
 | bip_39_word_space_10 | stamp deny rookie unusual scrub narrow fan spike receive laugh |  

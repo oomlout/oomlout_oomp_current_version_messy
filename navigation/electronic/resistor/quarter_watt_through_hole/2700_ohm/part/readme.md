@@ -122,6 +122,18 @@ best
 donkey
 spring
 demise |  
+| bip_39_word_no_space_1 | settle |  
+| bip_39_word_no_space_10 | settlefebruarycraftexhibitcivilbestdonkeyspringdemisepluck |  
+| bip_39_word_no_space_11 | settlefebruarycraftexhibitcivilbestdonkeyspringdemisepluckoctober |  
+| bip_39_word_no_space_12 | settlefebruarycraftexhibitcivilbestdonkeyspringdemisepluckoctoberartist |  
+| bip_39_word_no_space_2 | settlefebruary |  
+| bip_39_word_no_space_3 | settlefebruarycraft |  
+| bip_39_word_no_space_4 | settlefebruarycraftexhibit |  
+| bip_39_word_no_space_5 | settlefebruarycraftexhibitcivil |  
+| bip_39_word_no_space_6 | settlefebruarycraftexhibitcivilbest |  
+| bip_39_word_no_space_7 | settlefebruarycraftexhibitcivilbestdonkey |  
+| bip_39_word_no_space_8 | settlefebruarycraftexhibitcivilbestdonkeyspring |  
+| bip_39_word_no_space_9 | settlefebruarycraftexhibitcivilbestdonkeyspringdemise |  
 | bip_39_word_space_0 | ['settle', 'february', 'craft', 'exhibit', 'civil', 'best', 'donkey', 'spring', 'demise', 'pluck', 'october', 'artist'] |  
 | bip_39_word_space_1 | settle |  
 | bip_39_word_space_10 | settle february craft exhibit civil best donkey spring demise pluck |  

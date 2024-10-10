@@ -122,6 +122,18 @@ chuckle
 shell
 gift
 quiz |  
+| bip_39_word_no_space_1 | slogan |  
+| bip_39_word_no_space_10 | sloganpencilshinefitearlychuckleshellgiftquizmedal |  
+| bip_39_word_no_space_11 | sloganpencilshinefitearlychuckleshellgiftquizmedalsatisfy |  
+| bip_39_word_no_space_12 | sloganpencilshinefitearlychuckleshellgiftquizmedalsatisfyarea |  
+| bip_39_word_no_space_2 | sloganpencil |  
+| bip_39_word_no_space_3 | sloganpencilshine |  
+| bip_39_word_no_space_4 | sloganpencilshinefit |  
+| bip_39_word_no_space_5 | sloganpencilshinefitearly |  
+| bip_39_word_no_space_6 | sloganpencilshinefitearlychuckle |  
+| bip_39_word_no_space_7 | sloganpencilshinefitearlychuckleshell |  
+| bip_39_word_no_space_8 | sloganpencilshinefitearlychuckleshellgift |  
+| bip_39_word_no_space_9 | sloganpencilshinefitearlychuckleshellgiftquiz |  
 | bip_39_word_space_0 | ['slogan', 'pencil', 'shine', 'fit', 'early', 'chuckle', 'shell', 'gift', 'quiz', 'medal', 'satisfy', 'area'] |  
 | bip_39_word_space_1 | slogan |  
 | bip_39_word_space_10 | slogan pencil shine fit early chuckle shell gift quiz medal |  

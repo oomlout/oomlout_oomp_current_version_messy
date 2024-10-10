@@ -122,6 +122,18 @@ buddy
 abandon
 gold
 weekend |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | wayhintlisttyperecyclebuddyabandongoldweekendhurry |  
+| bip_39_word_no_space_11 | wayhintlisttyperecyclebuddyabandongoldweekendhurrytimber |  
+| bip_39_word_no_space_12 | wayhintlisttyperecyclebuddyabandongoldweekendhurrytimberagent |  
+| bip_39_word_no_space_2 | wayhint |  
+| bip_39_word_no_space_3 | wayhintlist |  
+| bip_39_word_no_space_4 | wayhintlisttype |  
+| bip_39_word_no_space_5 | wayhintlisttyperecycle |  
+| bip_39_word_no_space_6 | wayhintlisttyperecyclebuddy |  
+| bip_39_word_no_space_7 | wayhintlisttyperecyclebuddyabandon |  
+| bip_39_word_no_space_8 | wayhintlisttyperecyclebuddyabandongold |  
+| bip_39_word_no_space_9 | wayhintlisttyperecyclebuddyabandongoldweekend |  
 | bip_39_word_space_0 | ['way', 'hint', 'list', 'type', 'recycle', 'buddy', 'abandon', 'gold', 'weekend', 'hurry', 'timber', 'agent'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way hint list type recycle buddy abandon gold weekend hurry |  

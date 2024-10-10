@@ -122,6 +122,18 @@ wife
 stage
 step
 oval |  
+| bip_39_word_no_space_1 | attack |  
+| bip_39_word_no_space_10 | attacknarrowdisagreeloveoperawifestagestepovalrocket |  
+| bip_39_word_no_space_11 | attacknarrowdisagreeloveoperawifestagestepovalrocketarrow |  
+| bip_39_word_no_space_12 | attacknarrowdisagreeloveoperawifestagestepovalrocketarrowartwork |  
+| bip_39_word_no_space_2 | attacknarrow |  
+| bip_39_word_no_space_3 | attacknarrowdisagree |  
+| bip_39_word_no_space_4 | attacknarrowdisagreelove |  
+| bip_39_word_no_space_5 | attacknarrowdisagreeloveopera |  
+| bip_39_word_no_space_6 | attacknarrowdisagreeloveoperawife |  
+| bip_39_word_no_space_7 | attacknarrowdisagreeloveoperawifestage |  
+| bip_39_word_no_space_8 | attacknarrowdisagreeloveoperawifestagestep |  
+| bip_39_word_no_space_9 | attacknarrowdisagreeloveoperawifestagestepoval |  
 | bip_39_word_space_0 | ['attack', 'narrow', 'disagree', 'love', 'opera', 'wife', 'stage', 'step', 'oval', 'rocket', 'arrow', 'artwork'] |  
 | bip_39_word_space_1 | attack |  
 | bip_39_word_space_10 | attack narrow disagree love opera wife stage step oval rocket |  

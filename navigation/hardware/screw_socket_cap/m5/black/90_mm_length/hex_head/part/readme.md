@@ -122,6 +122,18 @@ wave
 puzzle
 engage
 join |  
+| bip_39_word_no_space_1 | rent |  
+| bip_39_word_no_space_10 | rentleftstreetcrucialclownwavepuzzleengagejoinlaw |  
+| bip_39_word_no_space_11 | rentleftstreetcrucialclownwavepuzzleengagejoinlawdune |  
+| bip_39_word_no_space_12 | rentleftstreetcrucialclownwavepuzzleengagejoinlawdunearctic |  
+| bip_39_word_no_space_2 | rentleft |  
+| bip_39_word_no_space_3 | rentleftstreet |  
+| bip_39_word_no_space_4 | rentleftstreetcrucial |  
+| bip_39_word_no_space_5 | rentleftstreetcrucialclown |  
+| bip_39_word_no_space_6 | rentleftstreetcrucialclownwave |  
+| bip_39_word_no_space_7 | rentleftstreetcrucialclownwavepuzzle |  
+| bip_39_word_no_space_8 | rentleftstreetcrucialclownwavepuzzleengage |  
+| bip_39_word_no_space_9 | rentleftstreetcrucialclownwavepuzzleengagejoin |  
 | bip_39_word_space_0 | ['rent', 'left', 'street', 'crucial', 'clown', 'wave', 'puzzle', 'engage', 'join', 'law', 'dune', 'arctic'] |  
 | bip_39_word_space_1 | rent |  
 | bip_39_word_space_10 | rent left street crucial clown wave puzzle engage join law |  

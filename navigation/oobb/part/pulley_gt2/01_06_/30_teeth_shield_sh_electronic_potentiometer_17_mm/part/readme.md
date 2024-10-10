@@ -122,6 +122,18 @@ annual
 prefer
 alcohol
 skin |  
+| bip_39_word_no_space_1 | scout |  
+| bip_39_word_no_space_10 | scoutcitizensaucepoolhawkannualpreferalcoholskinfortune |  
+| bip_39_word_no_space_11 | scoutcitizensaucepoolhawkannualpreferalcoholskinfortunecombine |  
+| bip_39_word_no_space_12 | scoutcitizensaucepoolhawkannualpreferalcoholskinfortunecombineabuse |  
+| bip_39_word_no_space_2 | scoutcitizen |  
+| bip_39_word_no_space_3 | scoutcitizensauce |  
+| bip_39_word_no_space_4 | scoutcitizensaucepool |  
+| bip_39_word_no_space_5 | scoutcitizensaucepoolhawk |  
+| bip_39_word_no_space_6 | scoutcitizensaucepoolhawkannual |  
+| bip_39_word_no_space_7 | scoutcitizensaucepoolhawkannualprefer |  
+| bip_39_word_no_space_8 | scoutcitizensaucepoolhawkannualpreferalcohol |  
+| bip_39_word_no_space_9 | scoutcitizensaucepoolhawkannualpreferalcoholskin |  
 | bip_39_word_space_0 | ['scout', 'citizen', 'sauce', 'pool', 'hawk', 'annual', 'prefer', 'alcohol', 'skin', 'fortune', 'combine', 'abuse'] |  
 | bip_39_word_space_1 | scout |  
 | bip_39_word_space_10 | scout citizen sauce pool hawk annual prefer alcohol skin fortune |  

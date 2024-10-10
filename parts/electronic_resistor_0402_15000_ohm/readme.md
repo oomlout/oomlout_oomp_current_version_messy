@@ -122,6 +122,18 @@ direct
 attract
 accuse
 ivory |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skiknockwageallowoffdirectattractaccuseivoryeager |  
+| bip_39_word_no_space_11 | skiknockwageallowoffdirectattractaccuseivoryeagerseminar |  
+| bip_39_word_no_space_12 | skiknockwageallowoffdirectattractaccuseivoryeagerseminararctic |  
+| bip_39_word_no_space_2 | skiknock |  
+| bip_39_word_no_space_3 | skiknockwage |  
+| bip_39_word_no_space_4 | skiknockwageallow |  
+| bip_39_word_no_space_5 | skiknockwageallowoff |  
+| bip_39_word_no_space_6 | skiknockwageallowoffdirect |  
+| bip_39_word_no_space_7 | skiknockwageallowoffdirectattract |  
+| bip_39_word_no_space_8 | skiknockwageallowoffdirectattractaccuse |  
+| bip_39_word_no_space_9 | skiknockwageallowoffdirectattractaccuseivory |  
 | bip_39_word_space_0 | ['ski', 'knock', 'wage', 'allow', 'off', 'direct', 'attract', 'accuse', 'ivory', 'eager', 'seminar', 'arctic'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski knock wage allow off direct attract accuse ivory eager |  

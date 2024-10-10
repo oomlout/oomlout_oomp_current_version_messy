@@ -122,6 +122,18 @@ cage
 right
 slender
 subway |  
+| bip_39_word_no_space_1 | gadget |  
+| bip_39_word_no_space_10 | gadgetsweetpermitmammalsorrycagerightslendersubwaymatter |  
+| bip_39_word_no_space_11 | gadgetsweetpermitmammalsorrycagerightslendersubwaymatterbuddy |  
+| bip_39_word_no_space_12 | gadgetsweetpermitmammalsorrycagerightslendersubwaymatterbuddyaspect |  
+| bip_39_word_no_space_2 | gadgetsweet |  
+| bip_39_word_no_space_3 | gadgetsweetpermit |  
+| bip_39_word_no_space_4 | gadgetsweetpermitmammal |  
+| bip_39_word_no_space_5 | gadgetsweetpermitmammalsorry |  
+| bip_39_word_no_space_6 | gadgetsweetpermitmammalsorrycage |  
+| bip_39_word_no_space_7 | gadgetsweetpermitmammalsorrycageright |  
+| bip_39_word_no_space_8 | gadgetsweetpermitmammalsorrycagerightslender |  
+| bip_39_word_no_space_9 | gadgetsweetpermitmammalsorrycagerightslendersubway |  
 | bip_39_word_space_0 | ['gadget', 'sweet', 'permit', 'mammal', 'sorry', 'cage', 'right', 'slender', 'subway', 'matter', 'buddy', 'aspect'] |  
 | bip_39_word_space_1 | gadget |  
 | bip_39_word_space_10 | gadget sweet permit mammal sorry cage right slender subway matter |  

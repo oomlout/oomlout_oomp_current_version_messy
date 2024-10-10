@@ -122,6 +122,18 @@ dust
 beach
 struggle
 fish |  
+| bip_39_word_no_space_1 | ankle |  
+| bip_39_word_no_space_10 | ankleacrosswhengymthunderdustbeachstrugglefishenhance |  
+| bip_39_word_no_space_11 | ankleacrosswhengymthunderdustbeachstrugglefishenhanceartist |  
+| bip_39_word_no_space_12 | ankleacrosswhengymthunderdustbeachstrugglefishenhanceartistaddict |  
+| bip_39_word_no_space_2 | ankleacross |  
+| bip_39_word_no_space_3 | ankleacrosswhen |  
+| bip_39_word_no_space_4 | ankleacrosswhengym |  
+| bip_39_word_no_space_5 | ankleacrosswhengymthunder |  
+| bip_39_word_no_space_6 | ankleacrosswhengymthunderdust |  
+| bip_39_word_no_space_7 | ankleacrosswhengymthunderdustbeach |  
+| bip_39_word_no_space_8 | ankleacrosswhengymthunderdustbeachstruggle |  
+| bip_39_word_no_space_9 | ankleacrosswhengymthunderdustbeachstrugglefish |  
 | bip_39_word_space_0 | ['ankle', 'across', 'when', 'gym', 'thunder', 'dust', 'beach', 'struggle', 'fish', 'enhance', 'artist', 'addict'] |  
 | bip_39_word_space_1 | ankle |  
 | bip_39_word_space_10 | ankle across when gym thunder dust beach struggle fish enhance |  

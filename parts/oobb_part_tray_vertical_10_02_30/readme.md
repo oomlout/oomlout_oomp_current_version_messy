@@ -122,6 +122,18 @@ faith
 ocean
 pigeon
 surge |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | caveworthbetrayhatwinkfaithoceanpigeonsurgegreen |  
+| bip_39_word_no_space_11 | caveworthbetrayhatwinkfaithoceanpigeonsurgegreenopera |  
+| bip_39_word_no_space_12 | caveworthbetrayhatwinkfaithoceanpigeonsurgegreenoperaalter |  
+| bip_39_word_no_space_2 | caveworth |  
+| bip_39_word_no_space_3 | caveworthbetray |  
+| bip_39_word_no_space_4 | caveworthbetrayhat |  
+| bip_39_word_no_space_5 | caveworthbetrayhatwink |  
+| bip_39_word_no_space_6 | caveworthbetrayhatwinkfaith |  
+| bip_39_word_no_space_7 | caveworthbetrayhatwinkfaithocean |  
+| bip_39_word_no_space_8 | caveworthbetrayhatwinkfaithoceanpigeon |  
+| bip_39_word_no_space_9 | caveworthbetrayhatwinkfaithoceanpigeonsurge |  
 | bip_39_word_space_0 | ['cave', 'worth', 'betray', 'hat', 'wink', 'faith', 'ocean', 'pigeon', 'surge', 'green', 'opera', 'alter'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave worth betray hat wink faith ocean pigeon surge green |  

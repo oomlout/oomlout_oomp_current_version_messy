@@ -122,6 +122,18 @@ merge
 rule
 thumb
 wash |  
+| bip_39_word_no_space_1 | impulse |  
+| bip_39_word_no_space_10 | impulsegossipreplaceprisonbroccolimergerulethumbwashsetup |  
+| bip_39_word_no_space_11 | impulsegossipreplaceprisonbroccolimergerulethumbwashsetupcasino |  
+| bip_39_word_no_space_12 | impulsegossipreplaceprisonbroccolimergerulethumbwashsetupcasinoarena |  
+| bip_39_word_no_space_2 | impulsegossip |  
+| bip_39_word_no_space_3 | impulsegossipreplace |  
+| bip_39_word_no_space_4 | impulsegossipreplaceprison |  
+| bip_39_word_no_space_5 | impulsegossipreplaceprisonbroccoli |  
+| bip_39_word_no_space_6 | impulsegossipreplaceprisonbroccolimerge |  
+| bip_39_word_no_space_7 | impulsegossipreplaceprisonbroccolimergerule |  
+| bip_39_word_no_space_8 | impulsegossipreplaceprisonbroccolimergerulethumb |  
+| bip_39_word_no_space_9 | impulsegossipreplaceprisonbroccolimergerulethumbwash |  
 | bip_39_word_space_0 | ['impulse', 'gossip', 'replace', 'prison', 'broccoli', 'merge', 'rule', 'thumb', 'wash', 'setup', 'casino', 'arena'] |  
 | bip_39_word_space_1 | impulse |  
 | bip_39_word_space_10 | impulse gossip replace prison broccoli merge rule thumb wash setup |  

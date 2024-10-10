@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dutch
   junk
 
   stone'
+bip_39_word_no_space_1: dutch
+bip_39_word_no_space_10: dutchuglysyrupcheckcatchtreathavejunkstonemyth
+bip_39_word_no_space_11: dutchuglysyrupcheckcatchtreathavejunkstonemythanxiety
+bip_39_word_no_space_12: dutchuglysyrupcheckcatchtreathavejunkstonemythanxietyair
+bip_39_word_no_space_2: dutchugly
+bip_39_word_no_space_3: dutchuglysyrup
+bip_39_word_no_space_4: dutchuglysyrupcheck
+bip_39_word_no_space_5: dutchuglysyrupcheckcatch
+bip_39_word_no_space_6: dutchuglysyrupcheckcatchtreat
+bip_39_word_no_space_7: dutchuglysyrupcheckcatchtreathave
+bip_39_word_no_space_8: dutchuglysyrupcheckcatchtreathavejunk
+bip_39_word_no_space_9: dutchuglysyrupcheckcatchtreathavejunkstone
 bip_39_word_space_0:
 - dutch
 - ugly

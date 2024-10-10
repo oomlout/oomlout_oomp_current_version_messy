@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'control
   duty
 
   voice'
+bip_39_word_no_space_1: control
+bip_39_word_no_space_10: controlmasterreadywriteurgeattitudelovedutyvoiceslide
+bip_39_word_no_space_11: controlmasterreadywriteurgeattitudelovedutyvoiceslideshop
+bip_39_word_no_space_12: controlmasterreadywriteurgeattitudelovedutyvoiceslideshopalbum
+bip_39_word_no_space_2: controlmaster
+bip_39_word_no_space_3: controlmasterready
+bip_39_word_no_space_4: controlmasterreadywrite
+bip_39_word_no_space_5: controlmasterreadywriteurge
+bip_39_word_no_space_6: controlmasterreadywriteurgeattitude
+bip_39_word_no_space_7: controlmasterreadywriteurgeattitudelove
+bip_39_word_no_space_8: controlmasterreadywriteurgeattitudeloveduty
+bip_39_word_no_space_9: controlmasterreadywriteurgeattitudelovedutyvoice
 bip_39_word_space_0:
 - control
 - master

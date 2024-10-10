@@ -122,6 +122,18 @@ rural
 write
 time
 sugar |  
+| bip_39_word_no_space_1 | furnace |  
+| bip_39_word_no_space_10 | furnacesymptomgreenattackwrestleruralwritetimesugarhungry |  
+| bip_39_word_no_space_11 | furnacesymptomgreenattackwrestleruralwritetimesugarhungrypig |  
+| bip_39_word_no_space_12 | furnacesymptomgreenattackwrestleruralwritetimesugarhungrypigalley |  
+| bip_39_word_no_space_2 | furnacesymptom |  
+| bip_39_word_no_space_3 | furnacesymptomgreen |  
+| bip_39_word_no_space_4 | furnacesymptomgreenattack |  
+| bip_39_word_no_space_5 | furnacesymptomgreenattackwrestle |  
+| bip_39_word_no_space_6 | furnacesymptomgreenattackwrestlerural |  
+| bip_39_word_no_space_7 | furnacesymptomgreenattackwrestleruralwrite |  
+| bip_39_word_no_space_8 | furnacesymptomgreenattackwrestleruralwritetime |  
+| bip_39_word_no_space_9 | furnacesymptomgreenattackwrestleruralwritetimesugar |  
 | bip_39_word_space_0 | ['furnace', 'symptom', 'green', 'attack', 'wrestle', 'rural', 'write', 'time', 'sugar', 'hungry', 'pig', 'alley'] |  
 | bip_39_word_space_1 | furnace |  
 | bip_39_word_space_10 | furnace symptom green attack wrestle rural write time sugar hungry |  

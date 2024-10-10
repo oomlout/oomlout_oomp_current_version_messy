@@ -122,6 +122,18 @@ relax
 jealous
 song
 learn |  
+| bip_39_word_no_space_1 | jeans |  
+| bip_39_word_no_space_10 | jeanscactusundergazepupilrelaxjealoussonglearnlegal |  
+| bip_39_word_no_space_11 | jeanscactusundergazepupilrelaxjealoussonglearnlegalmuscle |  
+| bip_39_word_no_space_12 | jeanscactusundergazepupilrelaxjealoussonglearnlegalmuscleauto |  
+| bip_39_word_no_space_2 | jeanscactus |  
+| bip_39_word_no_space_3 | jeanscactusunder |  
+| bip_39_word_no_space_4 | jeanscactusundergaze |  
+| bip_39_word_no_space_5 | jeanscactusundergazepupil |  
+| bip_39_word_no_space_6 | jeanscactusundergazepupilrelax |  
+| bip_39_word_no_space_7 | jeanscactusundergazepupilrelaxjealous |  
+| bip_39_word_no_space_8 | jeanscactusundergazepupilrelaxjealoussong |  
+| bip_39_word_no_space_9 | jeanscactusundergazepupilrelaxjealoussonglearn |  
 | bip_39_word_space_0 | ['jeans', 'cactus', 'under', 'gaze', 'pupil', 'relax', 'jealous', 'song', 'learn', 'legal', 'muscle', 'auto'] |  
 | bip_39_word_space_1 | jeans |  
 | bip_39_word_space_10 | jeans cactus under gaze pupil relax jealous song learn legal |  

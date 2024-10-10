@@ -122,6 +122,18 @@ defense
 turtle
 shine
 exact |  
+| bip_39_word_no_space_1 | boil |  
+| bip_39_word_no_space_10 | boilgreatsatisfyestateauthordefenseturtleshineexactkitten |  
+| bip_39_word_no_space_11 | boilgreatsatisfyestateauthordefenseturtleshineexactkittensilly |  
+| bip_39_word_no_space_12 | boilgreatsatisfyestateauthordefenseturtleshineexactkittensillyassume |  
+| bip_39_word_no_space_2 | boilgreat |  
+| bip_39_word_no_space_3 | boilgreatsatisfy |  
+| bip_39_word_no_space_4 | boilgreatsatisfyestate |  
+| bip_39_word_no_space_5 | boilgreatsatisfyestateauthor |  
+| bip_39_word_no_space_6 | boilgreatsatisfyestateauthordefense |  
+| bip_39_word_no_space_7 | boilgreatsatisfyestateauthordefenseturtle |  
+| bip_39_word_no_space_8 | boilgreatsatisfyestateauthordefenseturtleshine |  
+| bip_39_word_no_space_9 | boilgreatsatisfyestateauthordefenseturtleshineexact |  
 | bip_39_word_space_0 | ['boil', 'great', 'satisfy', 'estate', 'author', 'defense', 'turtle', 'shine', 'exact', 'kitten', 'silly', 'assume'] |  
 | bip_39_word_space_1 | boil |  
 | bip_39_word_space_10 | boil great satisfy estate author defense turtle shine exact kitten |  

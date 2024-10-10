@@ -122,6 +122,18 @@ shift
 orphan
 scorpion
 credit |  
+| bip_39_word_no_space_1 | fetch |  
+| bip_39_word_no_space_10 | fetchshinehurrytrutharcticshiftorphanscorpioncreditenhance |  
+| bip_39_word_no_space_11 | fetchshinehurrytrutharcticshiftorphanscorpioncreditenhancestage |  
+| bip_39_word_no_space_12 | fetchshinehurrytrutharcticshiftorphanscorpioncreditenhancestageask |  
+| bip_39_word_no_space_2 | fetchshine |  
+| bip_39_word_no_space_3 | fetchshinehurry |  
+| bip_39_word_no_space_4 | fetchshinehurrytruth |  
+| bip_39_word_no_space_5 | fetchshinehurrytrutharctic |  
+| bip_39_word_no_space_6 | fetchshinehurrytrutharcticshift |  
+| bip_39_word_no_space_7 | fetchshinehurrytrutharcticshiftorphan |  
+| bip_39_word_no_space_8 | fetchshinehurrytrutharcticshiftorphanscorpion |  
+| bip_39_word_no_space_9 | fetchshinehurrytrutharcticshiftorphanscorpioncredit |  
 | bip_39_word_space_0 | ['fetch', 'shine', 'hurry', 'truth', 'arctic', 'shift', 'orphan', 'scorpion', 'credit', 'enhance', 'stage', 'ask'] |  
 | bip_39_word_space_1 | fetch |  
 | bip_39_word_space_10 | fetch shine hurry truth arctic shift orphan scorpion credit enhance |  

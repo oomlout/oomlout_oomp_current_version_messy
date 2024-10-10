@@ -122,6 +122,18 @@ strong
 present
 error
 broccoli |  
+| bip_39_word_no_space_1 | client |  
+| bip_39_word_no_space_10 | clientuponriotbuttertowardstrongpresenterrorbroccolimatch |  
+| bip_39_word_no_space_11 | clientuponriotbuttertowardstrongpresenterrorbroccolimatchselect |  
+| bip_39_word_no_space_12 | clientuponriotbuttertowardstrongpresenterrorbroccolimatchselectactress |  
+| bip_39_word_no_space_2 | clientupon |  
+| bip_39_word_no_space_3 | clientuponriot |  
+| bip_39_word_no_space_4 | clientuponriotbutter |  
+| bip_39_word_no_space_5 | clientuponriotbuttertoward |  
+| bip_39_word_no_space_6 | clientuponriotbuttertowardstrong |  
+| bip_39_word_no_space_7 | clientuponriotbuttertowardstrongpresent |  
+| bip_39_word_no_space_8 | clientuponriotbuttertowardstrongpresenterror |  
+| bip_39_word_no_space_9 | clientuponriotbuttertowardstrongpresenterrorbroccoli |  
 | bip_39_word_space_0 | ['client', 'upon', 'riot', 'butter', 'toward', 'strong', 'present', 'error', 'broccoli', 'match', 'select', 'actress'] |  
 | bip_39_word_space_1 | client |  
 | bip_39_word_space_10 | client upon riot butter toward strong present error broccoli match |  

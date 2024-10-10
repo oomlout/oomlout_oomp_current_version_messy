@@ -122,6 +122,18 @@ hand
 enrich
 memory
 early |  
+| bip_39_word_no_space_1 | clap |  
+| bip_39_word_no_space_10 | claphorrorhavelyricsobservehandenrichmemoryearlyill |  
+| bip_39_word_no_space_11 | claphorrorhavelyricsobservehandenrichmemoryearlyillmiss |  
+| bip_39_word_no_space_12 | claphorrorhavelyricsobservehandenrichmemoryearlyillmissarena |  
+| bip_39_word_no_space_2 | claphorror |  
+| bip_39_word_no_space_3 | claphorrorhave |  
+| bip_39_word_no_space_4 | claphorrorhavelyrics |  
+| bip_39_word_no_space_5 | claphorrorhavelyricsobserve |  
+| bip_39_word_no_space_6 | claphorrorhavelyricsobservehand |  
+| bip_39_word_no_space_7 | claphorrorhavelyricsobservehandenrich |  
+| bip_39_word_no_space_8 | claphorrorhavelyricsobservehandenrichmemory |  
+| bip_39_word_no_space_9 | claphorrorhavelyricsobservehandenrichmemoryearly |  
 | bip_39_word_space_0 | ['clap', 'horror', 'have', 'lyrics', 'observe', 'hand', 'enrich', 'memory', 'early', 'ill', 'miss', 'arena'] |  
 | bip_39_word_space_1 | clap |  
 | bip_39_word_space_10 | clap horror have lyrics observe hand enrich memory early ill |  

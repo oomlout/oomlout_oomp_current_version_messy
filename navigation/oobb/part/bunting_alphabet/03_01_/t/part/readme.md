@@ -122,6 +122,18 @@ clown
 transfer
 ecology
 gospel |  
+| bip_39_word_no_space_1 | drip |  
+| bip_39_word_no_space_10 | dripbroomraiseregularpracticeclowntransferecologygospelinitial |  
+| bip_39_word_no_space_11 | dripbroomraiseregularpracticeclowntransferecologygospelinitialdepend |  
+| bip_39_word_no_space_12 | dripbroomraiseregularpracticeclowntransferecologygospelinitialdependaffair |  
+| bip_39_word_no_space_2 | dripbroom |  
+| bip_39_word_no_space_3 | dripbroomraise |  
+| bip_39_word_no_space_4 | dripbroomraiseregular |  
+| bip_39_word_no_space_5 | dripbroomraiseregularpractice |  
+| bip_39_word_no_space_6 | dripbroomraiseregularpracticeclown |  
+| bip_39_word_no_space_7 | dripbroomraiseregularpracticeclowntransfer |  
+| bip_39_word_no_space_8 | dripbroomraiseregularpracticeclowntransferecology |  
+| bip_39_word_no_space_9 | dripbroomraiseregularpracticeclowntransferecologygospel |  
 | bip_39_word_space_0 | ['drip', 'broom', 'raise', 'regular', 'practice', 'clown', 'transfer', 'ecology', 'gospel', 'initial', 'depend', 'affair'] |  
 | bip_39_word_space_1 | drip |  
 | bip_39_word_space_10 | drip broom raise regular practice clown transfer ecology gospel initial |  

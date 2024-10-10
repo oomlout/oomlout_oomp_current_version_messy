@@ -122,6 +122,18 @@ wage
 rack
 bridge
 force |  
+| bip_39_word_no_space_1 | chimney |  
+| bip_39_word_no_space_10 | chimneyillloyalcausemangowagerackbridgeforcecrouch |  
+| bip_39_word_no_space_11 | chimneyillloyalcausemangowagerackbridgeforcecrouchdynamic |  
+| bip_39_word_no_space_12 | chimneyillloyalcausemangowagerackbridgeforcecrouchdynamicagain |  
+| bip_39_word_no_space_2 | chimneyill |  
+| bip_39_word_no_space_3 | chimneyillloyal |  
+| bip_39_word_no_space_4 | chimneyillloyalcause |  
+| bip_39_word_no_space_5 | chimneyillloyalcausemango |  
+| bip_39_word_no_space_6 | chimneyillloyalcausemangowage |  
+| bip_39_word_no_space_7 | chimneyillloyalcausemangowagerack |  
+| bip_39_word_no_space_8 | chimneyillloyalcausemangowagerackbridge |  
+| bip_39_word_no_space_9 | chimneyillloyalcausemangowagerackbridgeforce |  
 | bip_39_word_space_0 | ['chimney', 'ill', 'loyal', 'cause', 'mango', 'wage', 'rack', 'bridge', 'force', 'crouch', 'dynamic', 'again'] |  
 | bip_39_word_space_1 | chimney |  
 | bip_39_word_space_10 | chimney ill loyal cause mango wage rack bridge force crouch |  

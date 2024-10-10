@@ -122,6 +122,18 @@ sunny
 job
 elegant
 female |  
+| bip_39_word_no_space_1 | ceiling |  
+| bip_39_word_no_space_10 | ceilingadjustaddemotiontopsunnyjobelegantfemalejazz |  
+| bip_39_word_no_space_11 | ceilingadjustaddemotiontopsunnyjobelegantfemalejazzvapor |  
+| bip_39_word_no_space_12 | ceilingadjustaddemotiontopsunnyjobelegantfemalejazzvaporaudit |  
+| bip_39_word_no_space_2 | ceilingadjust |  
+| bip_39_word_no_space_3 | ceilingadjustadd |  
+| bip_39_word_no_space_4 | ceilingadjustaddemotion |  
+| bip_39_word_no_space_5 | ceilingadjustaddemotiontop |  
+| bip_39_word_no_space_6 | ceilingadjustaddemotiontopsunny |  
+| bip_39_word_no_space_7 | ceilingadjustaddemotiontopsunnyjob |  
+| bip_39_word_no_space_8 | ceilingadjustaddemotiontopsunnyjobelegant |  
+| bip_39_word_no_space_9 | ceilingadjustaddemotiontopsunnyjobelegantfemale |  
 | bip_39_word_space_0 | ['ceiling', 'adjust', 'add', 'emotion', 'top', 'sunny', 'job', 'elegant', 'female', 'jazz', 'vapor', 'audit'] |  
 | bip_39_word_space_1 | ceiling |  
 | bip_39_word_space_10 | ceiling adjust add emotion top sunny job elegant female jazz |  

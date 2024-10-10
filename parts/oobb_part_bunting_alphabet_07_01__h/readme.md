@@ -122,6 +122,18 @@ glimpse
 power
 novel
 hold |  
+| bip_39_word_no_space_1 | board |  
+| bip_39_word_no_space_10 | boardpridecryequallongglimpsepowernovelholddove |  
+| bip_39_word_no_space_11 | boardpridecryequallongglimpsepowernovelholddoveabove |  
+| bip_39_word_no_space_12 | boardpridecryequallongglimpsepowernovelholddoveaboveabsent |  
+| bip_39_word_no_space_2 | boardpride |  
+| bip_39_word_no_space_3 | boardpridecry |  
+| bip_39_word_no_space_4 | boardpridecryequal |  
+| bip_39_word_no_space_5 | boardpridecryequallong |  
+| bip_39_word_no_space_6 | boardpridecryequallongglimpse |  
+| bip_39_word_no_space_7 | boardpridecryequallongglimpsepower |  
+| bip_39_word_no_space_8 | boardpridecryequallongglimpsepowernovel |  
+| bip_39_word_no_space_9 | boardpridecryequallongglimpsepowernovelhold |  
 | bip_39_word_space_0 | ['board', 'pride', 'cry', 'equal', 'long', 'glimpse', 'power', 'novel', 'hold', 'dove', 'above', 'absent'] |  
 | bip_39_word_space_1 | board |  
 | bip_39_word_space_10 | board pride cry equal long glimpse power novel hold dove |  

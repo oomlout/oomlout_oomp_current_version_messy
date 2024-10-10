@@ -122,6 +122,18 @@ battle
 learn
 tail
 present |  
+| bip_39_word_no_space_1 | tomorrow |  
+| bip_39_word_no_space_10 | tomorrowriotkindguiltgenrebattlelearntailpresentlogic |  
+| bip_39_word_no_space_11 | tomorrowriotkindguiltgenrebattlelearntailpresentlogicrebel |  
+| bip_39_word_no_space_12 | tomorrowriotkindguiltgenrebattlelearntailpresentlogicrebelalready |  
+| bip_39_word_no_space_2 | tomorrowriot |  
+| bip_39_word_no_space_3 | tomorrowriotkind |  
+| bip_39_word_no_space_4 | tomorrowriotkindguilt |  
+| bip_39_word_no_space_5 | tomorrowriotkindguiltgenre |  
+| bip_39_word_no_space_6 | tomorrowriotkindguiltgenrebattle |  
+| bip_39_word_no_space_7 | tomorrowriotkindguiltgenrebattlelearn |  
+| bip_39_word_no_space_8 | tomorrowriotkindguiltgenrebattlelearntail |  
+| bip_39_word_no_space_9 | tomorrowriotkindguiltgenrebattlelearntailpresent |  
 | bip_39_word_space_0 | ['tomorrow', 'riot', 'kind', 'guilt', 'genre', 'battle', 'learn', 'tail', 'present', 'logic', 'rebel', 'already'] |  
 | bip_39_word_space_1 | tomorrow |  
 | bip_39_word_space_10 | tomorrow riot kind guilt genre battle learn tail present logic |  

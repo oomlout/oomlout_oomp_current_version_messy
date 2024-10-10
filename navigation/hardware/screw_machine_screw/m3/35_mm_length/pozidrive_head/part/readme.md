@@ -122,6 +122,18 @@ chest
 skill
 shoulder
 banner |  
+| bip_39_word_no_space_1 | gas |  
+| bip_39_word_no_space_10 | gasrubberentryenactmisschestskillshoulderbannerreject |  
+| bip_39_word_no_space_11 | gasrubberentryenactmisschestskillshoulderbannerrejectvelvet |  
+| bip_39_word_no_space_12 | gasrubberentryenactmisschestskillshoulderbannerrejectvelvetacid |  
+| bip_39_word_no_space_2 | gasrubber |  
+| bip_39_word_no_space_3 | gasrubberentry |  
+| bip_39_word_no_space_4 | gasrubberentryenact |  
+| bip_39_word_no_space_5 | gasrubberentryenactmiss |  
+| bip_39_word_no_space_6 | gasrubberentryenactmisschest |  
+| bip_39_word_no_space_7 | gasrubberentryenactmisschestskill |  
+| bip_39_word_no_space_8 | gasrubberentryenactmisschestskillshoulder |  
+| bip_39_word_no_space_9 | gasrubberentryenactmisschestskillshoulderbanner |  
 | bip_39_word_space_0 | ['gas', 'rubber', 'entry', 'enact', 'miss', 'chest', 'skill', 'shoulder', 'banner', 'reject', 'velvet', 'acid'] |  
 | bip_39_word_space_1 | gas |  
 | bip_39_word_space_10 | gas rubber entry enact miss chest skill shoulder banner reject |  

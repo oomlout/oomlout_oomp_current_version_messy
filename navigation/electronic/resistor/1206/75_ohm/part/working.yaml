@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'faculty
   slam
 
   bunker'
+bip_39_word_no_space_1: faculty
+bip_39_word_no_space_10: facultyclerksuncubeorbitartefactextraslambunkercurtain
+bip_39_word_no_space_11: facultyclerksuncubeorbitartefactextraslambunkercurtaincitizen
+bip_39_word_no_space_12: facultyclerksuncubeorbitartefactextraslambunkercurtaincitizenaddict
+bip_39_word_no_space_2: facultyclerk
+bip_39_word_no_space_3: facultyclerksun
+bip_39_word_no_space_4: facultyclerksuncube
+bip_39_word_no_space_5: facultyclerksuncubeorbit
+bip_39_word_no_space_6: facultyclerksuncubeorbitartefact
+bip_39_word_no_space_7: facultyclerksuncubeorbitartefactextra
+bip_39_word_no_space_8: facultyclerksuncubeorbitartefactextraslam
+bip_39_word_no_space_9: facultyclerksuncubeorbitartefactextraslambunker
 bip_39_word_space_0:
 - faculty
 - clerk

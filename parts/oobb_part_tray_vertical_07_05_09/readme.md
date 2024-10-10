@@ -122,6 +122,18 @@ stock
 note
 action
 glove |  
+| bip_39_word_no_space_1 | country |  
+| bip_39_word_no_space_10 | countryhoodbannerquickcampstocknoteactiongloveterm |  
+| bip_39_word_no_space_11 | countryhoodbannerquickcampstocknoteactionglovetermdefy |  
+| bip_39_word_no_space_12 | countryhoodbannerquickcampstocknoteactionglovetermdefyathlete |  
+| bip_39_word_no_space_2 | countryhood |  
+| bip_39_word_no_space_3 | countryhoodbanner |  
+| bip_39_word_no_space_4 | countryhoodbannerquick |  
+| bip_39_word_no_space_5 | countryhoodbannerquickcamp |  
+| bip_39_word_no_space_6 | countryhoodbannerquickcampstock |  
+| bip_39_word_no_space_7 | countryhoodbannerquickcampstocknote |  
+| bip_39_word_no_space_8 | countryhoodbannerquickcampstocknoteaction |  
+| bip_39_word_no_space_9 | countryhoodbannerquickcampstocknoteactionglove |  
 | bip_39_word_space_0 | ['country', 'hood', 'banner', 'quick', 'camp', 'stock', 'note', 'action', 'glove', 'term', 'defy', 'athlete'] |  
 | bip_39_word_space_1 | country |  
 | bip_39_word_space_10 | country hood banner quick camp stock note action glove term |  

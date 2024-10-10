@@ -122,6 +122,18 @@ eight
 note
 vault
 host |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | givestudentgladpagelegeightnotevaulthostdomain |  
+| bip_39_word_no_space_11 | givestudentgladpagelegeightnotevaulthostdomainfashion |  
+| bip_39_word_no_space_12 | givestudentgladpagelegeightnotevaulthostdomainfashionassist |  
+| bip_39_word_no_space_2 | givestudent |  
+| bip_39_word_no_space_3 | givestudentglad |  
+| bip_39_word_no_space_4 | givestudentgladpage |  
+| bip_39_word_no_space_5 | givestudentgladpageleg |  
+| bip_39_word_no_space_6 | givestudentgladpagelegeight |  
+| bip_39_word_no_space_7 | givestudentgladpagelegeightnote |  
+| bip_39_word_no_space_8 | givestudentgladpagelegeightnotevault |  
+| bip_39_word_no_space_9 | givestudentgladpagelegeightnotevaulthost |  
 | bip_39_word_space_0 | ['give', 'student', 'glad', 'page', 'leg', 'eight', 'note', 'vault', 'host', 'domain', 'fashion', 'assist'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give student glad page leg eight note vault host domain |  

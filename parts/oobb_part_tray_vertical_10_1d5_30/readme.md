@@ -122,6 +122,18 @@ bacon
 mercy
 earth
 coral |  
+| bip_39_word_no_space_1 | angry |  
+| bip_39_word_no_space_10 | angryinjuryworthmoralhockeybaconmercyearthcoralcereal |  
+| bip_39_word_no_space_11 | angryinjuryworthmoralhockeybaconmercyearthcoralcerealnight |  
+| bip_39_word_no_space_12 | angryinjuryworthmoralhockeybaconmercyearthcoralcerealnightacquire |  
+| bip_39_word_no_space_2 | angryinjury |  
+| bip_39_word_no_space_3 | angryinjuryworth |  
+| bip_39_word_no_space_4 | angryinjuryworthmoral |  
+| bip_39_word_no_space_5 | angryinjuryworthmoralhockey |  
+| bip_39_word_no_space_6 | angryinjuryworthmoralhockeybacon |  
+| bip_39_word_no_space_7 | angryinjuryworthmoralhockeybaconmercy |  
+| bip_39_word_no_space_8 | angryinjuryworthmoralhockeybaconmercyearth |  
+| bip_39_word_no_space_9 | angryinjuryworthmoralhockeybaconmercyearthcoral |  
 | bip_39_word_space_0 | ['angry', 'injury', 'worth', 'moral', 'hockey', 'bacon', 'mercy', 'earth', 'coral', 'cereal', 'night', 'acquire'] |  
 | bip_39_word_space_1 | angry |  
 | bip_39_word_space_10 | angry injury worth moral hockey bacon mercy earth coral cereal |  

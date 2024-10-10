@@ -122,6 +122,18 @@ height
 bar
 decade
 stable |  
+| bip_39_word_no_space_1 | cruel |  
+| bip_39_word_no_space_10 | cruelmadimproveshedcleverheightbardecadestabletime |  
+| bip_39_word_no_space_11 | cruelmadimproveshedcleverheightbardecadestabletimewood |  
+| bip_39_word_no_space_12 | cruelmadimproveshedcleverheightbardecadestabletimewoodattend |  
+| bip_39_word_no_space_2 | cruelmad |  
+| bip_39_word_no_space_3 | cruelmadimprove |  
+| bip_39_word_no_space_4 | cruelmadimproveshed |  
+| bip_39_word_no_space_5 | cruelmadimproveshedclever |  
+| bip_39_word_no_space_6 | cruelmadimproveshedcleverheight |  
+| bip_39_word_no_space_7 | cruelmadimproveshedcleverheightbar |  
+| bip_39_word_no_space_8 | cruelmadimproveshedcleverheightbardecade |  
+| bip_39_word_no_space_9 | cruelmadimproveshedcleverheightbardecadestable |  
 | bip_39_word_space_0 | ['cruel', 'mad', 'improve', 'shed', 'clever', 'height', 'bar', 'decade', 'stable', 'time', 'wood', 'attend'] |  
 | bip_39_word_space_1 | cruel |  
 | bip_39_word_space_10 | cruel mad improve shed clever height bar decade stable time |  

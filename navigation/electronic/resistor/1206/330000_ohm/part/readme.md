@@ -122,6 +122,18 @@ warrior
 puzzle
 pyramid
 dial |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | clinicupholdfebruaryteamfamewarriorpuzzlepyramiddialpanel |  
+| bip_39_word_no_space_11 | clinicupholdfebruaryteamfamewarriorpuzzlepyramiddialpanelend |  
+| bip_39_word_no_space_12 | clinicupholdfebruaryteamfamewarriorpuzzlepyramiddialpanelendaddict |  
+| bip_39_word_no_space_2 | clinicuphold |  
+| bip_39_word_no_space_3 | clinicupholdfebruary |  
+| bip_39_word_no_space_4 | clinicupholdfebruaryteam |  
+| bip_39_word_no_space_5 | clinicupholdfebruaryteamfame |  
+| bip_39_word_no_space_6 | clinicupholdfebruaryteamfamewarrior |  
+| bip_39_word_no_space_7 | clinicupholdfebruaryteamfamewarriorpuzzle |  
+| bip_39_word_no_space_8 | clinicupholdfebruaryteamfamewarriorpuzzlepyramid |  
+| bip_39_word_no_space_9 | clinicupholdfebruaryteamfamewarriorpuzzlepyramiddial |  
 | bip_39_word_space_0 | ['clinic', 'uphold', 'february', 'team', 'fame', 'warrior', 'puzzle', 'pyramid', 'dial', 'panel', 'end', 'addict'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic uphold february team fame warrior puzzle pyramid dial panel |  

@@ -122,6 +122,18 @@ recipe
 fat
 citizen
 twin |  
+| bip_39_word_no_space_1 | wagon |  
+| bip_39_word_no_space_10 | wagonmaddepthprojecthockeyrecipefatcitizentwinecology |  
+| bip_39_word_no_space_11 | wagonmaddepthprojecthockeyrecipefatcitizentwinecologymilk |  
+| bip_39_word_no_space_12 | wagonmaddepthprojecthockeyrecipefatcitizentwinecologymilkacid |  
+| bip_39_word_no_space_2 | wagonmad |  
+| bip_39_word_no_space_3 | wagonmaddepth |  
+| bip_39_word_no_space_4 | wagonmaddepthproject |  
+| bip_39_word_no_space_5 | wagonmaddepthprojecthockey |  
+| bip_39_word_no_space_6 | wagonmaddepthprojecthockeyrecipe |  
+| bip_39_word_no_space_7 | wagonmaddepthprojecthockeyrecipefat |  
+| bip_39_word_no_space_8 | wagonmaddepthprojecthockeyrecipefatcitizen |  
+| bip_39_word_no_space_9 | wagonmaddepthprojecthockeyrecipefatcitizentwin |  
 | bip_39_word_space_0 | ['wagon', 'mad', 'depth', 'project', 'hockey', 'recipe', 'fat', 'citizen', 'twin', 'ecology', 'milk', 'acid'] |  
 | bip_39_word_space_1 | wagon |  
 | bip_39_word_space_10 | wagon mad depth project hockey recipe fat citizen twin ecology |  

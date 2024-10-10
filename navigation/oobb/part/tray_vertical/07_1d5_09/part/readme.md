@@ -122,6 +122,18 @@ name
 poet
 strong
 steel |  
+| bip_39_word_no_space_1 | cost |  
+| bip_39_word_no_space_10 | costvagueupdatesimplehurrynamepoetstrongsteelsurround |  
+| bip_39_word_no_space_11 | costvagueupdatesimplehurrynamepoetstrongsteelsurroundnest |  
+| bip_39_word_no_space_12 | costvagueupdatesimplehurrynamepoetstrongsteelsurroundnestart |  
+| bip_39_word_no_space_2 | costvague |  
+| bip_39_word_no_space_3 | costvagueupdate |  
+| bip_39_word_no_space_4 | costvagueupdatesimple |  
+| bip_39_word_no_space_5 | costvagueupdatesimplehurry |  
+| bip_39_word_no_space_6 | costvagueupdatesimplehurryname |  
+| bip_39_word_no_space_7 | costvagueupdatesimplehurrynamepoet |  
+| bip_39_word_no_space_8 | costvagueupdatesimplehurrynamepoetstrong |  
+| bip_39_word_no_space_9 | costvagueupdatesimplehurrynamepoetstrongsteel |  
 | bip_39_word_space_0 | ['cost', 'vague', 'update', 'simple', 'hurry', 'name', 'poet', 'strong', 'steel', 'surround', 'nest', 'art'] |  
 | bip_39_word_space_1 | cost |  
 | bip_39_word_space_10 | cost vague update simple hurry name poet strong steel surround |  

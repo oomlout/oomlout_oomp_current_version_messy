@@ -122,6 +122,18 @@ report
 provide
 lecture
 cook |  
+| bip_39_word_no_space_1 | either |  
+| bip_39_word_no_space_10 | eitheruntilmelodyfingermessagereportprovidelecturecookenter |  
+| bip_39_word_no_space_11 | eitheruntilmelodyfingermessagereportprovidelecturecookentertrouble |  
+| bip_39_word_no_space_12 | eitheruntilmelodyfingermessagereportprovidelecturecookentertroubleattract |  
+| bip_39_word_no_space_2 | eitheruntil |  
+| bip_39_word_no_space_3 | eitheruntilmelody |  
+| bip_39_word_no_space_4 | eitheruntilmelodyfinger |  
+| bip_39_word_no_space_5 | eitheruntilmelodyfingermessage |  
+| bip_39_word_no_space_6 | eitheruntilmelodyfingermessagereport |  
+| bip_39_word_no_space_7 | eitheruntilmelodyfingermessagereportprovide |  
+| bip_39_word_no_space_8 | eitheruntilmelodyfingermessagereportprovidelecture |  
+| bip_39_word_no_space_9 | eitheruntilmelodyfingermessagereportprovidelecturecook |  
 | bip_39_word_space_0 | ['either', 'until', 'melody', 'finger', 'message', 'report', 'provide', 'lecture', 'cook', 'enter', 'trouble', 'attract'] |  
 | bip_39_word_space_1 | either |  
 | bip_39_word_space_10 | either until melody finger message report provide lecture cook enter |  

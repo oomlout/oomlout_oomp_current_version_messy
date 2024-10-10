@@ -122,6 +122,18 @@ depth
 matrix
 outer
 equip |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tongueblackloadsignenvelopedepthmatrixouterequiprapid |  
+| bip_39_word_no_space_11 | tongueblackloadsignenvelopedepthmatrixouterequiprapidvapor |  
+| bip_39_word_no_space_12 | tongueblackloadsignenvelopedepthmatrixouterequiprapidvaporactor |  
+| bip_39_word_no_space_2 | tongueblack |  
+| bip_39_word_no_space_3 | tongueblackload |  
+| bip_39_word_no_space_4 | tongueblackloadsign |  
+| bip_39_word_no_space_5 | tongueblackloadsignenvelope |  
+| bip_39_word_no_space_6 | tongueblackloadsignenvelopedepth |  
+| bip_39_word_no_space_7 | tongueblackloadsignenvelopedepthmatrix |  
+| bip_39_word_no_space_8 | tongueblackloadsignenvelopedepthmatrixouter |  
+| bip_39_word_no_space_9 | tongueblackloadsignenvelopedepthmatrixouterequip |  
 | bip_39_word_space_0 | ['tongue', 'black', 'load', 'sign', 'envelope', 'depth', 'matrix', 'outer', 'equip', 'rapid', 'vapor', 'actor'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue black load sign envelope depth matrix outer equip rapid |  

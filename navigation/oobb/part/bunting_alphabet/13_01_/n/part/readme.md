@@ -122,6 +122,18 @@ autumn
 sudden
 deliver
 safe |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directbulkartistkitemushroomautumnsuddendeliversafegalaxy |  
+| bip_39_word_no_space_11 | directbulkartistkitemushroomautumnsuddendeliversafegalaxyorbit |  
+| bip_39_word_no_space_12 | directbulkartistkitemushroomautumnsuddendeliversafegalaxyorbitattack |  
+| bip_39_word_no_space_2 | directbulk |  
+| bip_39_word_no_space_3 | directbulkartist |  
+| bip_39_word_no_space_4 | directbulkartistkite |  
+| bip_39_word_no_space_5 | directbulkartistkitemushroom |  
+| bip_39_word_no_space_6 | directbulkartistkitemushroomautumn |  
+| bip_39_word_no_space_7 | directbulkartistkitemushroomautumnsudden |  
+| bip_39_word_no_space_8 | directbulkartistkitemushroomautumnsuddendeliver |  
+| bip_39_word_no_space_9 | directbulkartistkitemushroomautumnsuddendeliversafe |  
 | bip_39_word_space_0 | ['direct', 'bulk', 'artist', 'kite', 'mushroom', 'autumn', 'sudden', 'deliver', 'safe', 'galaxy', 'orbit', 'attack'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct bulk artist kite mushroom autumn sudden deliver safe galaxy |  

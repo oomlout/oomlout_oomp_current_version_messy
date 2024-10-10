@@ -122,6 +122,18 @@ reflect
 hawk
 copy
 bless |  
+| bip_39_word_no_space_1 | such |  
+| bip_39_word_no_space_10 | suchstairspaperkneesunnyreflecthawkcopyblessball |  
+| bip_39_word_no_space_11 | suchstairspaperkneesunnyreflecthawkcopyblessballelement |  
+| bip_39_word_no_space_12 | suchstairspaperkneesunnyreflecthawkcopyblessballelementalert |  
+| bip_39_word_no_space_2 | suchstairs |  
+| bip_39_word_no_space_3 | suchstairspaper |  
+| bip_39_word_no_space_4 | suchstairspaperknee |  
+| bip_39_word_no_space_5 | suchstairspaperkneesunny |  
+| bip_39_word_no_space_6 | suchstairspaperkneesunnyreflect |  
+| bip_39_word_no_space_7 | suchstairspaperkneesunnyreflecthawk |  
+| bip_39_word_no_space_8 | suchstairspaperkneesunnyreflecthawkcopy |  
+| bip_39_word_no_space_9 | suchstairspaperkneesunnyreflecthawkcopybless |  
 | bip_39_word_space_0 | ['such', 'stairs', 'paper', 'knee', 'sunny', 'reflect', 'hawk', 'copy', 'bless', 'ball', 'element', 'alert'] |  
 | bip_39_word_space_1 | such |  
 | bip_39_word_space_10 | such stairs paper knee sunny reflect hawk copy bless ball |  

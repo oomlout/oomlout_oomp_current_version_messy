@@ -122,6 +122,18 @@ clinic
 chalk
 bus
 tiger |  
+| bip_39_word_no_space_1 | worth |  
+| bip_39_word_no_space_10 | worthsoundivorynumberrapidclinicchalkbustigerfuel |  
+| bip_39_word_no_space_11 | worthsoundivorynumberrapidclinicchalkbustigerfuelramp |  
+| bip_39_word_no_space_12 | worthsoundivorynumberrapidclinicchalkbustigerfuelrampalways |  
+| bip_39_word_no_space_2 | worthsound |  
+| bip_39_word_no_space_3 | worthsoundivory |  
+| bip_39_word_no_space_4 | worthsoundivorynumber |  
+| bip_39_word_no_space_5 | worthsoundivorynumberrapid |  
+| bip_39_word_no_space_6 | worthsoundivorynumberrapidclinic |  
+| bip_39_word_no_space_7 | worthsoundivorynumberrapidclinicchalk |  
+| bip_39_word_no_space_8 | worthsoundivorynumberrapidclinicchalkbus |  
+| bip_39_word_no_space_9 | worthsoundivorynumberrapidclinicchalkbustiger |  
 | bip_39_word_space_0 | ['worth', 'sound', 'ivory', 'number', 'rapid', 'clinic', 'chalk', 'bus', 'tiger', 'fuel', 'ramp', 'always'] |  
 | bip_39_word_space_1 | worth |  
 | bip_39_word_space_10 | worth sound ivory number rapid clinic chalk bus tiger fuel |  

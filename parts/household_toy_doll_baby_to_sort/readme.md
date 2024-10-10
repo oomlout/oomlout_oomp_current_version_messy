@@ -122,6 +122,18 @@ child
 neither
 urban
 plastic |  
+| bip_39_word_no_space_1 | morning |  
+| bip_39_word_no_space_10 | morninggenrericecoppereditchildneitherurbanplastichost |  
+| bip_39_word_no_space_11 | morninggenrericecoppereditchildneitherurbanplastichostseven |  
+| bip_39_word_no_space_12 | morninggenrericecoppereditchildneitherurbanplastichostsevenattract |  
+| bip_39_word_no_space_2 | morninggenre |  
+| bip_39_word_no_space_3 | morninggenrerice |  
+| bip_39_word_no_space_4 | morninggenrericecopper |  
+| bip_39_word_no_space_5 | morninggenrericecopperedit |  
+| bip_39_word_no_space_6 | morninggenrericecoppereditchild |  
+| bip_39_word_no_space_7 | morninggenrericecoppereditchildneither |  
+| bip_39_word_no_space_8 | morninggenrericecoppereditchildneitherurban |  
+| bip_39_word_no_space_9 | morninggenrericecoppereditchildneitherurbanplastic |  
 | bip_39_word_space_0 | ['morning', 'genre', 'rice', 'copper', 'edit', 'child', 'neither', 'urban', 'plastic', 'host', 'seven', 'attract'] |  
 | bip_39_word_space_1 | morning |  
 | bip_39_word_space_10 | morning genre rice copper edit child neither urban plastic host |  

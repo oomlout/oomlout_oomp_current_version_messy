@@ -122,6 +122,18 @@ foam
 zebra
 track
 elbow |  
+| bip_39_word_no_space_1 | novel |  
+| bip_39_word_no_space_10 | novelmoviewitnessphrasefoamfoamzebratrackelbowguilt |  
+| bip_39_word_no_space_11 | novelmoviewitnessphrasefoamfoamzebratrackelbowguiltmanual |  
+| bip_39_word_no_space_12 | novelmoviewitnessphrasefoamfoamzebratrackelbowguiltmanualattitude |  
+| bip_39_word_no_space_2 | novelmovie |  
+| bip_39_word_no_space_3 | novelmoviewitness |  
+| bip_39_word_no_space_4 | novelmoviewitnessphrase |  
+| bip_39_word_no_space_5 | novelmoviewitnessphrasefoam |  
+| bip_39_word_no_space_6 | novelmoviewitnessphrasefoamfoam |  
+| bip_39_word_no_space_7 | novelmoviewitnessphrasefoamfoamzebra |  
+| bip_39_word_no_space_8 | novelmoviewitnessphrasefoamfoamzebratrack |  
+| bip_39_word_no_space_9 | novelmoviewitnessphrasefoamfoamzebratrackelbow |  
 | bip_39_word_space_0 | ['novel', 'movie', 'witness', 'phrase', 'foam', 'foam', 'zebra', 'track', 'elbow', 'guilt', 'manual', 'attitude'] |  
 | bip_39_word_space_1 | novel |  
 | bip_39_word_space_10 | novel movie witness phrase foam foam zebra track elbow guilt |  

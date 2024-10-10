@@ -122,6 +122,18 @@ nuclear
 behave
 jungle
 panel |  
+| bip_39_word_no_space_1 | burst |  
+| bip_39_word_no_space_10 | burstgoddessjunkfeespikenuclearbehavejunglepanelfuel |  
+| bip_39_word_no_space_11 | burstgoddessjunkfeespikenuclearbehavejunglepanelfueldepart |  
+| bip_39_word_no_space_12 | burstgoddessjunkfeespikenuclearbehavejunglepanelfueldepartadmit |  
+| bip_39_word_no_space_2 | burstgoddess |  
+| bip_39_word_no_space_3 | burstgoddessjunk |  
+| bip_39_word_no_space_4 | burstgoddessjunkfee |  
+| bip_39_word_no_space_5 | burstgoddessjunkfeespike |  
+| bip_39_word_no_space_6 | burstgoddessjunkfeespikenuclear |  
+| bip_39_word_no_space_7 | burstgoddessjunkfeespikenuclearbehave |  
+| bip_39_word_no_space_8 | burstgoddessjunkfeespikenuclearbehavejungle |  
+| bip_39_word_no_space_9 | burstgoddessjunkfeespikenuclearbehavejunglepanel |  
 | bip_39_word_space_0 | ['burst', 'goddess', 'junk', 'fee', 'spike', 'nuclear', 'behave', 'jungle', 'panel', 'fuel', 'depart', 'admit'] |  
 | bip_39_word_space_1 | burst |  
 | bip_39_word_space_10 | burst goddess junk fee spike nuclear behave jungle panel fuel |  

@@ -122,6 +122,18 @@ tattoo
 oil
 silk
 erode |  
+| bip_39_word_no_space_1 | broken |  
+| bip_39_word_no_space_10 | brokenfrienderosionsweetshiptattoooilsilkerodegloom |  
+| bip_39_word_no_space_11 | brokenfrienderosionsweetshiptattoooilsilkerodegloomtoilet |  
+| bip_39_word_no_space_12 | brokenfrienderosionsweetshiptattoooilsilkerodegloomtoiletantique |  
+| bip_39_word_no_space_2 | brokenfriend |  
+| bip_39_word_no_space_3 | brokenfrienderosion |  
+| bip_39_word_no_space_4 | brokenfrienderosionsweet |  
+| bip_39_word_no_space_5 | brokenfrienderosionsweetship |  
+| bip_39_word_no_space_6 | brokenfrienderosionsweetshiptattoo |  
+| bip_39_word_no_space_7 | brokenfrienderosionsweetshiptattoooil |  
+| bip_39_word_no_space_8 | brokenfrienderosionsweetshiptattoooilsilk |  
+| bip_39_word_no_space_9 | brokenfrienderosionsweetshiptattoooilsilkerode |  
 | bip_39_word_space_0 | ['broken', 'friend', 'erosion', 'sweet', 'ship', 'tattoo', 'oil', 'silk', 'erode', 'gloom', 'toilet', 'antique'] |  
 | bip_39_word_space_1 | broken |  
 | bip_39_word_space_10 | broken friend erosion sweet ship tattoo oil silk erode gloom |  

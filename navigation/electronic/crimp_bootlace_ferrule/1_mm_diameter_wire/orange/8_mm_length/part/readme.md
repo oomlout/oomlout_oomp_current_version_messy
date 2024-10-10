@@ -122,6 +122,18 @@ sick
 melt
 lens
 city |  
+| bip_39_word_no_space_1 | jelly |  
+| bip_39_word_no_space_10 | jellybuildhugechildozonesickmeltlenscityembark |  
+| bip_39_word_no_space_11 | jellybuildhugechildozonesickmeltlenscityembarktourist |  
+| bip_39_word_no_space_12 | jellybuildhugechildozonesickmeltlenscityembarktouristability |  
+| bip_39_word_no_space_2 | jellybuild |  
+| bip_39_word_no_space_3 | jellybuildhuge |  
+| bip_39_word_no_space_4 | jellybuildhugechild |  
+| bip_39_word_no_space_5 | jellybuildhugechildozone |  
+| bip_39_word_no_space_6 | jellybuildhugechildozonesick |  
+| bip_39_word_no_space_7 | jellybuildhugechildozonesickmelt |  
+| bip_39_word_no_space_8 | jellybuildhugechildozonesickmeltlens |  
+| bip_39_word_no_space_9 | jellybuildhugechildozonesickmeltlenscity |  
 | bip_39_word_space_0 | ['jelly', 'build', 'huge', 'child', 'ozone', 'sick', 'melt', 'lens', 'city', 'embark', 'tourist', 'ability'] |  
 | bip_39_word_space_1 | jelly |  
 | bip_39_word_space_10 | jelly build huge child ozone sick melt lens city embark |  

@@ -122,6 +122,18 @@ escape
 crush
 hip
 minimum |  
+| bip_39_word_no_space_1 | gravity |  
+| bip_39_word_no_space_10 | gravitypondboardmapleenrichescapecrushhipminimumobserve |  
+| bip_39_word_no_space_11 | gravitypondboardmapleenrichescapecrushhipminimumobservehungry |  
+| bip_39_word_no_space_12 | gravitypondboardmapleenrichescapecrushhipminimumobservehungryaccuse |  
+| bip_39_word_no_space_2 | gravitypond |  
+| bip_39_word_no_space_3 | gravitypondboard |  
+| bip_39_word_no_space_4 | gravitypondboardmaple |  
+| bip_39_word_no_space_5 | gravitypondboardmapleenrich |  
+| bip_39_word_no_space_6 | gravitypondboardmapleenrichescape |  
+| bip_39_word_no_space_7 | gravitypondboardmapleenrichescapecrush |  
+| bip_39_word_no_space_8 | gravitypondboardmapleenrichescapecrushhip |  
+| bip_39_word_no_space_9 | gravitypondboardmapleenrichescapecrushhipminimum |  
 | bip_39_word_space_0 | ['gravity', 'pond', 'board', 'maple', 'enrich', 'escape', 'crush', 'hip', 'minimum', 'observe', 'hungry', 'accuse'] |  
 | bip_39_word_space_1 | gravity |  
 | bip_39_word_space_10 | gravity pond board maple enrich escape crush hip minimum observe |  

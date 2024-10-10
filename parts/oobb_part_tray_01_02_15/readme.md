@@ -122,6 +122,18 @@ sibling
 pretty
 reunion
 teach |  
+| bip_39_word_no_space_1 | obtain |  
+| bip_39_word_no_space_10 | obtainappearchoosesustainlawsiblingprettyreunionteachcannon |  
+| bip_39_word_no_space_11 | obtainappearchoosesustainlawsiblingprettyreunionteachcannonwage |  
+| bip_39_word_no_space_12 | obtainappearchoosesustainlawsiblingprettyreunionteachcannonwageaunt |  
+| bip_39_word_no_space_2 | obtainappear |  
+| bip_39_word_no_space_3 | obtainappearchoose |  
+| bip_39_word_no_space_4 | obtainappearchoosesustain |  
+| bip_39_word_no_space_5 | obtainappearchoosesustainlaw |  
+| bip_39_word_no_space_6 | obtainappearchoosesustainlawsibling |  
+| bip_39_word_no_space_7 | obtainappearchoosesustainlawsiblingpretty |  
+| bip_39_word_no_space_8 | obtainappearchoosesustainlawsiblingprettyreunion |  
+| bip_39_word_no_space_9 | obtainappearchoosesustainlawsiblingprettyreunionteach |  
 | bip_39_word_space_0 | ['obtain', 'appear', 'choose', 'sustain', 'law', 'sibling', 'pretty', 'reunion', 'teach', 'cannon', 'wage', 'aunt'] |  
 | bip_39_word_space_1 | obtain |  
 | bip_39_word_space_10 | obtain appear choose sustain law sibling pretty reunion teach cannon |  

@@ -122,6 +122,18 @@ lunch
 ecology
 memory
 jar |  
+| bip_39_word_no_space_1 | club |  
+| bip_39_word_no_space_10 | clubactionslowquotepupillunchecologymemoryjarlanguage |  
+| bip_39_word_no_space_11 | clubactionslowquotepupillunchecologymemoryjarlanguagepalm |  
+| bip_39_word_no_space_12 | clubactionslowquotepupillunchecologymemoryjarlanguagepalmanother |  
+| bip_39_word_no_space_2 | clubaction |  
+| bip_39_word_no_space_3 | clubactionslow |  
+| bip_39_word_no_space_4 | clubactionslowquote |  
+| bip_39_word_no_space_5 | clubactionslowquotepupil |  
+| bip_39_word_no_space_6 | clubactionslowquotepupillunch |  
+| bip_39_word_no_space_7 | clubactionslowquotepupillunchecology |  
+| bip_39_word_no_space_8 | clubactionslowquotepupillunchecologymemory |  
+| bip_39_word_no_space_9 | clubactionslowquotepupillunchecologymemoryjar |  
 | bip_39_word_space_0 | ['club', 'action', 'slow', 'quote', 'pupil', 'lunch', 'ecology', 'memory', 'jar', 'language', 'palm', 'another'] |  
 | bip_39_word_space_1 | club |  
 | bip_39_word_space_10 | club action slow quote pupil lunch ecology memory jar language |  

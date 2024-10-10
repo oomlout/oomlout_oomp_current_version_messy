@@ -122,6 +122,18 @@ want
 door
 draw
 detail |  
+| bip_39_word_no_space_1 | accident |  
+| bip_39_word_no_space_10 | accidentpointfitnessaheadtimberwantdoordrawdetaildisease |  
+| bip_39_word_no_space_11 | accidentpointfitnessaheadtimberwantdoordrawdetaildiseasetoast |  
+| bip_39_word_no_space_12 | accidentpointfitnessaheadtimberwantdoordrawdetaildiseasetoastantique |  
+| bip_39_word_no_space_2 | accidentpoint |  
+| bip_39_word_no_space_3 | accidentpointfitness |  
+| bip_39_word_no_space_4 | accidentpointfitnessahead |  
+| bip_39_word_no_space_5 | accidentpointfitnessaheadtimber |  
+| bip_39_word_no_space_6 | accidentpointfitnessaheadtimberwant |  
+| bip_39_word_no_space_7 | accidentpointfitnessaheadtimberwantdoor |  
+| bip_39_word_no_space_8 | accidentpointfitnessaheadtimberwantdoordraw |  
+| bip_39_word_no_space_9 | accidentpointfitnessaheadtimberwantdoordrawdetail |  
 | bip_39_word_space_0 | ['accident', 'point', 'fitness', 'ahead', 'timber', 'want', 'door', 'draw', 'detail', 'disease', 'toast', 'antique'] |  
 | bip_39_word_space_1 | accident |  
 | bip_39_word_space_10 | accident point fitness ahead timber want door draw detail disease |  

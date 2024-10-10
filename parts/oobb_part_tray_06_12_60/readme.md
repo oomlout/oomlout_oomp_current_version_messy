@@ -122,6 +122,18 @@ inside
 uphold
 elephant
 job |  
+| bip_39_word_no_space_1 | pause |  
+| bip_39_word_no_space_10 | pauseburgercreditlawnmenuinsideupholdelephantjobpact |  
+| bip_39_word_no_space_11 | pauseburgercreditlawnmenuinsideupholdelephantjobpactticket |  
+| bip_39_word_no_space_12 | pauseburgercreditlawnmenuinsideupholdelephantjobpactticketanchor |  
+| bip_39_word_no_space_2 | pauseburger |  
+| bip_39_word_no_space_3 | pauseburgercredit |  
+| bip_39_word_no_space_4 | pauseburgercreditlawn |  
+| bip_39_word_no_space_5 | pauseburgercreditlawnmenu |  
+| bip_39_word_no_space_6 | pauseburgercreditlawnmenuinside |  
+| bip_39_word_no_space_7 | pauseburgercreditlawnmenuinsideuphold |  
+| bip_39_word_no_space_8 | pauseburgercreditlawnmenuinsideupholdelephant |  
+| bip_39_word_no_space_9 | pauseburgercreditlawnmenuinsideupholdelephantjob |  
 | bip_39_word_space_0 | ['pause', 'burger', 'credit', 'lawn', 'menu', 'inside', 'uphold', 'elephant', 'job', 'pact', 'ticket', 'anchor'] |  
 | bip_39_word_space_1 | pause |  
 | bip_39_word_space_10 | pause burger credit lawn menu inside uphold elephant job pact |  

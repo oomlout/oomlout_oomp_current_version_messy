@@ -122,6 +122,18 @@ mosquito
 thought
 ship
 tattoo |  
+| bip_39_word_no_space_1 | elite |  
+| bip_39_word_no_space_10 | elitecherrydrivemandatealarmmosquitothoughtshiptattoosolid |  
+| bip_39_word_no_space_11 | elitecherrydrivemandatealarmmosquitothoughtshiptattoosolidshield |  
+| bip_39_word_no_space_12 | elitecherrydrivemandatealarmmosquitothoughtshiptattoosolidshieldapology |  
+| bip_39_word_no_space_2 | elitecherry |  
+| bip_39_word_no_space_3 | elitecherrydrive |  
+| bip_39_word_no_space_4 | elitecherrydrivemandate |  
+| bip_39_word_no_space_5 | elitecherrydrivemandatealarm |  
+| bip_39_word_no_space_6 | elitecherrydrivemandatealarmmosquito |  
+| bip_39_word_no_space_7 | elitecherrydrivemandatealarmmosquitothought |  
+| bip_39_word_no_space_8 | elitecherrydrivemandatealarmmosquitothoughtship |  
+| bip_39_word_no_space_9 | elitecherrydrivemandatealarmmosquitothoughtshiptattoo |  
 | bip_39_word_space_0 | ['elite', 'cherry', 'drive', 'mandate', 'alarm', 'mosquito', 'thought', 'ship', 'tattoo', 'solid', 'shield', 'apology'] |  
 | bip_39_word_space_1 | elite |  
 | bip_39_word_space_10 | elite cherry drive mandate alarm mosquito thought ship tattoo solid |  

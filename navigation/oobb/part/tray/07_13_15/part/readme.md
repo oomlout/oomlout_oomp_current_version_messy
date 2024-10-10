@@ -122,6 +122,18 @@ fruit
 mandate
 urge
 explain |  
+| bip_39_word_no_space_1 | nut |  
+| bip_39_word_no_space_10 | nutdisplaysciencepaddleloudfruitmandateurgeexplaintimber |  
+| bip_39_word_no_space_11 | nutdisplaysciencepaddleloudfruitmandateurgeexplaintimberwire |  
+| bip_39_word_no_space_12 | nutdisplaysciencepaddleloudfruitmandateurgeexplaintimberwirealso |  
+| bip_39_word_no_space_2 | nutdisplay |  
+| bip_39_word_no_space_3 | nutdisplayscience |  
+| bip_39_word_no_space_4 | nutdisplaysciencepaddle |  
+| bip_39_word_no_space_5 | nutdisplaysciencepaddleloud |  
+| bip_39_word_no_space_6 | nutdisplaysciencepaddleloudfruit |  
+| bip_39_word_no_space_7 | nutdisplaysciencepaddleloudfruitmandate |  
+| bip_39_word_no_space_8 | nutdisplaysciencepaddleloudfruitmandateurge |  
+| bip_39_word_no_space_9 | nutdisplaysciencepaddleloudfruitmandateurgeexplain |  
 | bip_39_word_space_0 | ['nut', 'display', 'science', 'paddle', 'loud', 'fruit', 'mandate', 'urge', 'explain', 'timber', 'wire', 'also'] |  
 | bip_39_word_space_1 | nut |  
 | bip_39_word_space_10 | nut display science paddle loud fruit mandate urge explain timber |  

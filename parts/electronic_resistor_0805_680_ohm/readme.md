@@ -122,6 +122,18 @@ wreck
 easily
 tornado
 train |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietmakethankcomfortpilotwreckeasilytornadotrainstreet |  
+| bip_39_word_no_space_11 | dietmakethankcomfortpilotwreckeasilytornadotrainstreetdolphin |  
+| bip_39_word_no_space_12 | dietmakethankcomfortpilotwreckeasilytornadotrainstreetdolphinabsurd |  
+| bip_39_word_no_space_2 | dietmake |  
+| bip_39_word_no_space_3 | dietmakethank |  
+| bip_39_word_no_space_4 | dietmakethankcomfort |  
+| bip_39_word_no_space_5 | dietmakethankcomfortpilot |  
+| bip_39_word_no_space_6 | dietmakethankcomfortpilotwreck |  
+| bip_39_word_no_space_7 | dietmakethankcomfortpilotwreckeasily |  
+| bip_39_word_no_space_8 | dietmakethankcomfortpilotwreckeasilytornado |  
+| bip_39_word_no_space_9 | dietmakethankcomfortpilotwreckeasilytornadotrain |  
 | bip_39_word_space_0 | ['diet', 'make', 'thank', 'comfort', 'pilot', 'wreck', 'easily', 'tornado', 'train', 'street', 'dolphin', 'absurd'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet make thank comfort pilot wreck easily tornado train street |  

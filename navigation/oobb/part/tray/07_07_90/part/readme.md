@@ -122,6 +122,18 @@ adult
 garage
 gift
 sponsor |  
+| bip_39_word_no_space_1 | combine |  
+| bip_39_word_no_space_10 | combinebecomepepperdynamictrainadultgaragegiftsponsorrural |  
+| bip_39_word_no_space_11 | combinebecomepepperdynamictrainadultgaragegiftsponsorrurallake |  
+| bip_39_word_no_space_12 | combinebecomepepperdynamictrainadultgaragegiftsponsorrurallakealpha |  
+| bip_39_word_no_space_2 | combinebecome |  
+| bip_39_word_no_space_3 | combinebecomepepper |  
+| bip_39_word_no_space_4 | combinebecomepepperdynamic |  
+| bip_39_word_no_space_5 | combinebecomepepperdynamictrain |  
+| bip_39_word_no_space_6 | combinebecomepepperdynamictrainadult |  
+| bip_39_word_no_space_7 | combinebecomepepperdynamictrainadultgarage |  
+| bip_39_word_no_space_8 | combinebecomepepperdynamictrainadultgaragegift |  
+| bip_39_word_no_space_9 | combinebecomepepperdynamictrainadultgaragegiftsponsor |  
 | bip_39_word_space_0 | ['combine', 'become', 'pepper', 'dynamic', 'train', 'adult', 'garage', 'gift', 'sponsor', 'rural', 'lake', 'alpha'] |  
 | bip_39_word_space_1 | combine |  
 | bip_39_word_space_10 | combine become pepper dynamic train adult garage gift sponsor rural |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rib
   flee
 
   october'
+bip_39_word_no_space_1: rib
+bip_39_word_no_space_10: ribcoyoteacquirepurposetryspiderglarefleeoctobershaft
+bip_39_word_no_space_11: ribcoyoteacquirepurposetryspiderglarefleeoctobershaftcraft
+bip_39_word_no_space_12: ribcoyoteacquirepurposetryspiderglarefleeoctobershaftcraftangle
+bip_39_word_no_space_2: ribcoyote
+bip_39_word_no_space_3: ribcoyoteacquire
+bip_39_word_no_space_4: ribcoyoteacquirepurpose
+bip_39_word_no_space_5: ribcoyoteacquirepurposetry
+bip_39_word_no_space_6: ribcoyoteacquirepurposetryspider
+bip_39_word_no_space_7: ribcoyoteacquirepurposetryspiderglare
+bip_39_word_no_space_8: ribcoyoteacquirepurposetryspiderglareflee
+bip_39_word_no_space_9: ribcoyoteacquirepurposetryspiderglarefleeoctober
 bip_39_word_space_0:
 - rib
 - coyote

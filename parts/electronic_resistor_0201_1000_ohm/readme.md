@@ -122,6 +122,18 @@ accident
 razor
 deliver
 pact |  
+| bip_39_word_no_space_1 | south |  
+| bip_39_word_no_space_10 | southmedalcorewearmelodyaccidentrazordeliverpacthumor |  
+| bip_39_word_no_space_11 | southmedalcorewearmelodyaccidentrazordeliverpacthumorpanda |  
+| bip_39_word_no_space_12 | southmedalcorewearmelodyaccidentrazordeliverpacthumorpandaamazing |  
+| bip_39_word_no_space_2 | southmedal |  
+| bip_39_word_no_space_3 | southmedalcore |  
+| bip_39_word_no_space_4 | southmedalcorewear |  
+| bip_39_word_no_space_5 | southmedalcorewearmelody |  
+| bip_39_word_no_space_6 | southmedalcorewearmelodyaccident |  
+| bip_39_word_no_space_7 | southmedalcorewearmelodyaccidentrazor |  
+| bip_39_word_no_space_8 | southmedalcorewearmelodyaccidentrazordeliver |  
+| bip_39_word_no_space_9 | southmedalcorewearmelodyaccidentrazordeliverpact |  
 | bip_39_word_space_0 | ['south', 'medal', 'core', 'wear', 'melody', 'accident', 'razor', 'deliver', 'pact', 'humor', 'panda', 'amazing'] |  
 | bip_39_word_space_1 | south |  
 | bip_39_word_space_10 | south medal core wear melody accident razor deliver pact humor |  

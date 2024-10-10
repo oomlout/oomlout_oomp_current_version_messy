@@ -122,6 +122,18 @@ record
 solution
 keen
 future |  
+| bip_39_word_no_space_1 | alcohol |  
+| bip_39_word_no_space_10 | alcoholalertantiqueelegantfiscalrecordsolutionkeenfutureblind |  
+| bip_39_word_no_space_11 | alcoholalertantiqueelegantfiscalrecordsolutionkeenfutureblindspeed |  
+| bip_39_word_no_space_12 | alcoholalertantiqueelegantfiscalrecordsolutionkeenfutureblindspeedall |  
+| bip_39_word_no_space_2 | alcoholalert |  
+| bip_39_word_no_space_3 | alcoholalertantique |  
+| bip_39_word_no_space_4 | alcoholalertantiqueelegant |  
+| bip_39_word_no_space_5 | alcoholalertantiqueelegantfiscal |  
+| bip_39_word_no_space_6 | alcoholalertantiqueelegantfiscalrecord |  
+| bip_39_word_no_space_7 | alcoholalertantiqueelegantfiscalrecordsolution |  
+| bip_39_word_no_space_8 | alcoholalertantiqueelegantfiscalrecordsolutionkeen |  
+| bip_39_word_no_space_9 | alcoholalertantiqueelegantfiscalrecordsolutionkeenfuture |  
 | bip_39_word_space_0 | ['alcohol', 'alert', 'antique', 'elegant', 'fiscal', 'record', 'solution', 'keen', 'future', 'blind', 'speed', 'all'] |  
 | bip_39_word_space_1 | alcohol |  
 | bip_39_word_space_10 | alcohol alert antique elegant fiscal record solution keen future blind |  

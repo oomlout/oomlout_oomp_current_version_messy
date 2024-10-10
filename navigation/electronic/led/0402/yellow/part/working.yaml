@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'van
   entry
 
   girl'
+bip_39_word_no_space_1: van
+bip_39_word_no_space_10: vanlatinseminarorientengagecanthunderentrygirlinhale
+bip_39_word_no_space_11: vanlatinseminarorientengagecanthunderentrygirlinhalepurity
+bip_39_word_no_space_12: vanlatinseminarorientengagecanthunderentrygirlinhalepurityabsurd
+bip_39_word_no_space_2: vanlatin
+bip_39_word_no_space_3: vanlatinseminar
+bip_39_word_no_space_4: vanlatinseminarorient
+bip_39_word_no_space_5: vanlatinseminarorientengage
+bip_39_word_no_space_6: vanlatinseminarorientengagecan
+bip_39_word_no_space_7: vanlatinseminarorientengagecanthunder
+bip_39_word_no_space_8: vanlatinseminarorientengagecanthunderentry
+bip_39_word_no_space_9: vanlatinseminarorientengagecanthunderentrygirl
 bip_39_word_space_0:
 - van
 - latin

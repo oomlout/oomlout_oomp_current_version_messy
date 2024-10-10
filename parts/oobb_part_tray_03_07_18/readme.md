@@ -122,6 +122,18 @@ jacket
 piece
 review
 fringe |  
+| bip_39_word_no_space_1 | dish |  
+| bip_39_word_no_space_10 | dishsnakezeroabsenteightjacketpiecereviewfringewink |  
+| bip_39_word_no_space_11 | dishsnakezeroabsenteightjacketpiecereviewfringewinkorchard |  
+| bip_39_word_no_space_12 | dishsnakezeroabsenteightjacketpiecereviewfringewinkorchardadmit |  
+| bip_39_word_no_space_2 | dishsnake |  
+| bip_39_word_no_space_3 | dishsnakezero |  
+| bip_39_word_no_space_4 | dishsnakezeroabsent |  
+| bip_39_word_no_space_5 | dishsnakezeroabsenteight |  
+| bip_39_word_no_space_6 | dishsnakezeroabsenteightjacket |  
+| bip_39_word_no_space_7 | dishsnakezeroabsenteightjacketpiece |  
+| bip_39_word_no_space_8 | dishsnakezeroabsenteightjacketpiecereview |  
+| bip_39_word_no_space_9 | dishsnakezeroabsenteightjacketpiecereviewfringe |  
 | bip_39_word_space_0 | ['dish', 'snake', 'zero', 'absent', 'eight', 'jacket', 'piece', 'review', 'fringe', 'wink', 'orchard', 'admit'] |  
 | bip_39_word_space_1 | dish |  
 | bip_39_word_space_10 | dish snake zero absent eight jacket piece review fringe wink |  

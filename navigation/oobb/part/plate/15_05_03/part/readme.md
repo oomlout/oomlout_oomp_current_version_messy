@@ -122,6 +122,18 @@ vast
 fatal
 cart
 modify |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessuniformhiretruthembarkvastfatalcartmodifybomb |  
+| bip_39_word_no_space_11 | fitnessuniformhiretruthembarkvastfatalcartmodifybombwagon |  
+| bip_39_word_no_space_12 | fitnessuniformhiretruthembarkvastfatalcartmodifybombwagonamused |  
+| bip_39_word_no_space_2 | fitnessuniform |  
+| bip_39_word_no_space_3 | fitnessuniformhire |  
+| bip_39_word_no_space_4 | fitnessuniformhiretruth |  
+| bip_39_word_no_space_5 | fitnessuniformhiretruthembark |  
+| bip_39_word_no_space_6 | fitnessuniformhiretruthembarkvast |  
+| bip_39_word_no_space_7 | fitnessuniformhiretruthembarkvastfatal |  
+| bip_39_word_no_space_8 | fitnessuniformhiretruthembarkvastfatalcart |  
+| bip_39_word_no_space_9 | fitnessuniformhiretruthembarkvastfatalcartmodify |  
 | bip_39_word_space_0 | ['fitness', 'uniform', 'hire', 'truth', 'embark', 'vast', 'fatal', 'cart', 'modify', 'bomb', 'wagon', 'amused'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness uniform hire truth embark vast fatal cart modify bomb |  

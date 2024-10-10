@@ -122,6 +122,18 @@ clock
 shrug
 breeze
 unknown |  
+| bip_39_word_no_space_1 | wolf |  
+| bip_39_word_no_space_10 | wolfeightrotateshorttiredclockshrugbreezeunknownplunge |  
+| bip_39_word_no_space_11 | wolfeightrotateshorttiredclockshrugbreezeunknownplungedesk |  
+| bip_39_word_no_space_12 | wolfeightrotateshorttiredclockshrugbreezeunknownplungedeskahead |  
+| bip_39_word_no_space_2 | wolfeight |  
+| bip_39_word_no_space_3 | wolfeightrotate |  
+| bip_39_word_no_space_4 | wolfeightrotateshort |  
+| bip_39_word_no_space_5 | wolfeightrotateshorttired |  
+| bip_39_word_no_space_6 | wolfeightrotateshorttiredclock |  
+| bip_39_word_no_space_7 | wolfeightrotateshorttiredclockshrug |  
+| bip_39_word_no_space_8 | wolfeightrotateshorttiredclockshrugbreeze |  
+| bip_39_word_no_space_9 | wolfeightrotateshorttiredclockshrugbreezeunknown |  
 | bip_39_word_space_0 | ['wolf', 'eight', 'rotate', 'short', 'tired', 'clock', 'shrug', 'breeze', 'unknown', 'plunge', 'desk', 'ahead'] |  
 | bip_39_word_space_1 | wolf |  
 | bip_39_word_space_10 | wolf eight rotate short tired clock shrug breeze unknown plunge |  

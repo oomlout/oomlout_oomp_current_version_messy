@@ -122,6 +122,18 @@ engine
 dilemma
 pencil
 bachelor |  
+| bip_39_word_no_space_1 | cliff |  
+| bip_39_word_no_space_10 | cliffupholdaimreliefdriveenginedilemmapencilbachelorwet |  
+| bip_39_word_no_space_11 | cliffupholdaimreliefdriveenginedilemmapencilbachelorwetmuscle |  
+| bip_39_word_no_space_12 | cliffupholdaimreliefdriveenginedilemmapencilbachelorwetmuscleabsurd |  
+| bip_39_word_no_space_2 | cliffuphold |  
+| bip_39_word_no_space_3 | cliffupholdaim |  
+| bip_39_word_no_space_4 | cliffupholdaimrelief |  
+| bip_39_word_no_space_5 | cliffupholdaimreliefdrive |  
+| bip_39_word_no_space_6 | cliffupholdaimreliefdriveengine |  
+| bip_39_word_no_space_7 | cliffupholdaimreliefdriveenginedilemma |  
+| bip_39_word_no_space_8 | cliffupholdaimreliefdriveenginedilemmapencil |  
+| bip_39_word_no_space_9 | cliffupholdaimreliefdriveenginedilemmapencilbachelor |  
 | bip_39_word_space_0 | ['cliff', 'uphold', 'aim', 'relief', 'drive', 'engine', 'dilemma', 'pencil', 'bachelor', 'wet', 'muscle', 'absurd'] |  
 | bip_39_word_space_1 | cliff |  
 | bip_39_word_space_10 | cliff uphold aim relief drive engine dilemma pencil bachelor wet |  

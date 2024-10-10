@@ -122,6 +122,18 @@ merit
 prosper
 coyote
 bacon |  
+| bip_39_word_no_space_1 | aware |  
+| bip_39_word_no_space_10 | awaremonthimprovefewthankmeritprospercoyotebaconfringe |  
+| bip_39_word_no_space_11 | awaremonthimprovefewthankmeritprospercoyotebaconfringethunder |  
+| bip_39_word_no_space_12 | awaremonthimprovefewthankmeritprospercoyotebaconfringethunderabstract |  
+| bip_39_word_no_space_2 | awaremonth |  
+| bip_39_word_no_space_3 | awaremonthimprove |  
+| bip_39_word_no_space_4 | awaremonthimprovefew |  
+| bip_39_word_no_space_5 | awaremonthimprovefewthank |  
+| bip_39_word_no_space_6 | awaremonthimprovefewthankmerit |  
+| bip_39_word_no_space_7 | awaremonthimprovefewthankmeritprosper |  
+| bip_39_word_no_space_8 | awaremonthimprovefewthankmeritprospercoyote |  
+| bip_39_word_no_space_9 | awaremonthimprovefewthankmeritprospercoyotebacon |  
 | bip_39_word_space_0 | ['aware', 'month', 'improve', 'few', 'thank', 'merit', 'prosper', 'coyote', 'bacon', 'fringe', 'thunder', 'abstract'] |  
 | bip_39_word_space_1 | aware |  
 | bip_39_word_space_10 | aware month improve few thank merit prosper coyote bacon fringe |  

@@ -122,6 +122,18 @@ rely
 voyage
 degree
 alcohol |  
+| bip_39_word_no_space_1 | egg |  
+| bip_39_word_no_space_10 | eggsupremeraccoonscriptdelayrelyvoyagedegreealcoholnephew |  
+| bip_39_word_no_space_11 | eggsupremeraccoonscriptdelayrelyvoyagedegreealcoholnephewmarble |  
+| bip_39_word_no_space_12 | eggsupremeraccoonscriptdelayrelyvoyagedegreealcoholnephewmarbleacquire |  
+| bip_39_word_no_space_2 | eggsupreme |  
+| bip_39_word_no_space_3 | eggsupremeraccoon |  
+| bip_39_word_no_space_4 | eggsupremeraccoonscript |  
+| bip_39_word_no_space_5 | eggsupremeraccoonscriptdelay |  
+| bip_39_word_no_space_6 | eggsupremeraccoonscriptdelayrely |  
+| bip_39_word_no_space_7 | eggsupremeraccoonscriptdelayrelyvoyage |  
+| bip_39_word_no_space_8 | eggsupremeraccoonscriptdelayrelyvoyagedegree |  
+| bip_39_word_no_space_9 | eggsupremeraccoonscriptdelayrelyvoyagedegreealcohol |  
 | bip_39_word_space_0 | ['egg', 'supreme', 'raccoon', 'script', 'delay', 'rely', 'voyage', 'degree', 'alcohol', 'nephew', 'marble', 'acquire'] |  
 | bip_39_word_space_1 | egg |  
 | bip_39_word_space_10 | egg supreme raccoon script delay rely voyage degree alcohol nephew |  

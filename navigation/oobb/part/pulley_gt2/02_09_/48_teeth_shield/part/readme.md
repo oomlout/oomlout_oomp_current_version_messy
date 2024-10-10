@@ -122,6 +122,18 @@ gun
 doctor
 orphan
 appear |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancetoyroundrookiecoilgundoctororphanappearnumber |  
+| bip_39_word_no_space_11 | dancetoyroundrookiecoilgundoctororphanappearnumberhoney |  
+| bip_39_word_no_space_12 | dancetoyroundrookiecoilgundoctororphanappearnumberhoneyaccident |  
+| bip_39_word_no_space_2 | dancetoy |  
+| bip_39_word_no_space_3 | dancetoyround |  
+| bip_39_word_no_space_4 | dancetoyroundrookie |  
+| bip_39_word_no_space_5 | dancetoyroundrookiecoil |  
+| bip_39_word_no_space_6 | dancetoyroundrookiecoilgun |  
+| bip_39_word_no_space_7 | dancetoyroundrookiecoilgundoctor |  
+| bip_39_word_no_space_8 | dancetoyroundrookiecoilgundoctororphan |  
+| bip_39_word_no_space_9 | dancetoyroundrookiecoilgundoctororphanappear |  
 | bip_39_word_space_0 | ['dance', 'toy', 'round', 'rookie', 'coil', 'gun', 'doctor', 'orphan', 'appear', 'number', 'honey', 'accident'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance toy round rookie coil gun doctor orphan appear number |  

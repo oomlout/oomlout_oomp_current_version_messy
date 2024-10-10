@@ -122,6 +122,18 @@ pill
 scrub
 old
 tuna |  
+| bip_39_word_no_space_1 | mango |  
+| bip_39_word_no_space_10 | mangopactnicewestcanpillscruboldtunaathlete |  
+| bip_39_word_no_space_11 | mangopactnicewestcanpillscruboldtunaathleterelax |  
+| bip_39_word_no_space_12 | mangopactnicewestcanpillscruboldtunaathleterelaxarmed |  
+| bip_39_word_no_space_2 | mangopact |  
+| bip_39_word_no_space_3 | mangopactnice |  
+| bip_39_word_no_space_4 | mangopactnicewest |  
+| bip_39_word_no_space_5 | mangopactnicewestcan |  
+| bip_39_word_no_space_6 | mangopactnicewestcanpill |  
+| bip_39_word_no_space_7 | mangopactnicewestcanpillscrub |  
+| bip_39_word_no_space_8 | mangopactnicewestcanpillscrubold |  
+| bip_39_word_no_space_9 | mangopactnicewestcanpillscruboldtuna |  
 | bip_39_word_space_0 | ['mango', 'pact', 'nice', 'west', 'can', 'pill', 'scrub', 'old', 'tuna', 'athlete', 'relax', 'armed'] |  
 | bip_39_word_space_1 | mango |  
 | bip_39_word_space_10 | mango pact nice west can pill scrub old tuna athlete |  

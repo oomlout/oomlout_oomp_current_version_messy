@@ -122,6 +122,18 @@ wash
 ostrich
 oak
 game |  
+| bip_39_word_no_space_1 | expect |  
+| bip_39_word_no_space_10 | expectcertaincupknowgiraffewashostrichoakgamestill |  
+| bip_39_word_no_space_11 | expectcertaincupknowgiraffewashostrichoakgamestillitem |  
+| bip_39_word_no_space_12 | expectcertaincupknowgiraffewashostrichoakgamestillitemanger |  
+| bip_39_word_no_space_2 | expectcertain |  
+| bip_39_word_no_space_3 | expectcertaincup |  
+| bip_39_word_no_space_4 | expectcertaincupknow |  
+| bip_39_word_no_space_5 | expectcertaincupknowgiraffe |  
+| bip_39_word_no_space_6 | expectcertaincupknowgiraffewash |  
+| bip_39_word_no_space_7 | expectcertaincupknowgiraffewashostrich |  
+| bip_39_word_no_space_8 | expectcertaincupknowgiraffewashostrichoak |  
+| bip_39_word_no_space_9 | expectcertaincupknowgiraffewashostrichoakgame |  
 | bip_39_word_space_0 | ['expect', 'certain', 'cup', 'know', 'giraffe', 'wash', 'ostrich', 'oak', 'game', 'still', 'item', 'anger'] |  
 | bip_39_word_space_1 | expect |  
 | bip_39_word_space_10 | expect certain cup know giraffe wash ostrich oak game still |  

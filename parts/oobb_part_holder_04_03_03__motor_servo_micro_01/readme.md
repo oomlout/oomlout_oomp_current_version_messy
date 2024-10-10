@@ -122,6 +122,18 @@ dream
 panel
 stand
 rigid |  
+| bip_39_word_no_space_1 | tool |  
+| bip_39_word_no_space_10 | toolpostseriespartysundreampanelstandrigidadvance |  
+| bip_39_word_no_space_11 | toolpostseriespartysundreampanelstandrigidadvancetrigger |  
+| bip_39_word_no_space_12 | toolpostseriespartysundreampanelstandrigidadvancetriggerabsent |  
+| bip_39_word_no_space_2 | toolpost |  
+| bip_39_word_no_space_3 | toolpostseries |  
+| bip_39_word_no_space_4 | toolpostseriesparty |  
+| bip_39_word_no_space_5 | toolpostseriespartysun |  
+| bip_39_word_no_space_6 | toolpostseriespartysundream |  
+| bip_39_word_no_space_7 | toolpostseriespartysundreampanel |  
+| bip_39_word_no_space_8 | toolpostseriespartysundreampanelstand |  
+| bip_39_word_no_space_9 | toolpostseriespartysundreampanelstandrigid |  
 | bip_39_word_space_0 | ['tool', 'post', 'series', 'party', 'sun', 'dream', 'panel', 'stand', 'rigid', 'advance', 'trigger', 'absent'] |  
 | bip_39_word_space_1 | tool |  
 | bip_39_word_space_10 | tool post series party sun dream panel stand rigid advance |  

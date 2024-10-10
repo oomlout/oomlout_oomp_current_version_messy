@@ -122,6 +122,18 @@ gospel
 rabbit
 glue
 warm |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | givegameaccesscomeabstractgospelrabbitgluewarmtag |  
+| bip_39_word_no_space_11 | givegameaccesscomeabstractgospelrabbitgluewarmtagorphan |  
+| bip_39_word_no_space_12 | givegameaccesscomeabstractgospelrabbitgluewarmtagorphanalarm |  
+| bip_39_word_no_space_2 | givegame |  
+| bip_39_word_no_space_3 | givegameaccess |  
+| bip_39_word_no_space_4 | givegameaccesscome |  
+| bip_39_word_no_space_5 | givegameaccesscomeabstract |  
+| bip_39_word_no_space_6 | givegameaccesscomeabstractgospel |  
+| bip_39_word_no_space_7 | givegameaccesscomeabstractgospelrabbit |  
+| bip_39_word_no_space_8 | givegameaccesscomeabstractgospelrabbitglue |  
+| bip_39_word_no_space_9 | givegameaccesscomeabstractgospelrabbitgluewarm |  
 | bip_39_word_space_0 | ['give', 'game', 'access', 'come', 'abstract', 'gospel', 'rabbit', 'glue', 'warm', 'tag', 'orphan', 'alarm'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give game access come abstract gospel rabbit glue warm tag |  

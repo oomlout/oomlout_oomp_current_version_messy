@@ -122,6 +122,18 @@ fiction
 setup
 panther
 help |  
+| bip_39_word_no_space_1 | decade |  
+| bip_39_word_no_space_10 | decadeshoulderarenaavoidteamfictionsetuppantherhelpfebruary |  
+| bip_39_word_no_space_11 | decadeshoulderarenaavoidteamfictionsetuppantherhelpfebruarywire |  
+| bip_39_word_no_space_12 | decadeshoulderarenaavoidteamfictionsetuppantherhelpfebruarywireassist |  
+| bip_39_word_no_space_2 | decadeshoulder |  
+| bip_39_word_no_space_3 | decadeshoulderarena |  
+| bip_39_word_no_space_4 | decadeshoulderarenaavoid |  
+| bip_39_word_no_space_5 | decadeshoulderarenaavoidteam |  
+| bip_39_word_no_space_6 | decadeshoulderarenaavoidteamfiction |  
+| bip_39_word_no_space_7 | decadeshoulderarenaavoidteamfictionsetup |  
+| bip_39_word_no_space_8 | decadeshoulderarenaavoidteamfictionsetuppanther |  
+| bip_39_word_no_space_9 | decadeshoulderarenaavoidteamfictionsetuppantherhelp |  
 | bip_39_word_space_0 | ['decade', 'shoulder', 'arena', 'avoid', 'team', 'fiction', 'setup', 'panther', 'help', 'february', 'wire', 'assist'] |  
 | bip_39_word_space_1 | decade |  
 | bip_39_word_space_10 | decade shoulder arena avoid team fiction setup panther help february |  

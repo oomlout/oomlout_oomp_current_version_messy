@@ -122,6 +122,18 @@ romance
 provide
 fitness
 border |  
+| bip_39_word_no_space_1 | burden |  
+| bip_39_word_no_space_10 | burdenjunkswordcabinarrowromanceprovidefitnessborderstick |  
+| bip_39_word_no_space_11 | burdenjunkswordcabinarrowromanceprovidefitnessborderstickpicnic |  
+| bip_39_word_no_space_12 | burdenjunkswordcabinarrowromanceprovidefitnessborderstickpicnicaunt |  
+| bip_39_word_no_space_2 | burdenjunk |  
+| bip_39_word_no_space_3 | burdenjunksword |  
+| bip_39_word_no_space_4 | burdenjunkswordcabin |  
+| bip_39_word_no_space_5 | burdenjunkswordcabinarrow |  
+| bip_39_word_no_space_6 | burdenjunkswordcabinarrowromance |  
+| bip_39_word_no_space_7 | burdenjunkswordcabinarrowromanceprovide |  
+| bip_39_word_no_space_8 | burdenjunkswordcabinarrowromanceprovidefitness |  
+| bip_39_word_no_space_9 | burdenjunkswordcabinarrowromanceprovidefitnessborder |  
 | bip_39_word_space_0 | ['burden', 'junk', 'sword', 'cabin', 'arrow', 'romance', 'provide', 'fitness', 'border', 'stick', 'picnic', 'aunt'] |  
 | bip_39_word_space_1 | burden |  
 | bip_39_word_space_10 | burden junk sword cabin arrow romance provide fitness border stick |  

@@ -122,6 +122,18 @@ caution
 nice
 flame
 vendor |  
+| bip_39_word_no_space_1 | vapor |  
+| bip_39_word_no_space_10 | vaporenlistestatefoldpursecautionniceflamevendorglory |  
+| bip_39_word_no_space_11 | vaporenlistestatefoldpursecautionniceflamevendorglorydrill |  
+| bip_39_word_no_space_12 | vaporenlistestatefoldpursecautionniceflamevendorglorydrillability |  
+| bip_39_word_no_space_2 | vaporenlist |  
+| bip_39_word_no_space_3 | vaporenlistestate |  
+| bip_39_word_no_space_4 | vaporenlistestatefold |  
+| bip_39_word_no_space_5 | vaporenlistestatefoldpurse |  
+| bip_39_word_no_space_6 | vaporenlistestatefoldpursecaution |  
+| bip_39_word_no_space_7 | vaporenlistestatefoldpursecautionnice |  
+| bip_39_word_no_space_8 | vaporenlistestatefoldpursecautionniceflame |  
+| bip_39_word_no_space_9 | vaporenlistestatefoldpursecautionniceflamevendor |  
 | bip_39_word_space_0 | ['vapor', 'enlist', 'estate', 'fold', 'purse', 'caution', 'nice', 'flame', 'vendor', 'glory', 'drill', 'ability'] |  
 | bip_39_word_space_1 | vapor |  
 | bip_39_word_space_10 | vapor enlist estate fold purse caution nice flame vendor glory |  

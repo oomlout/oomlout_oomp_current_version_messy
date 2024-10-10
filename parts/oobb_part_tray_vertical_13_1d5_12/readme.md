@@ -122,6 +122,18 @@ soap
 moral
 collect
 language |  
+| bip_39_word_no_space_1 | deposit |  
+| bip_39_word_no_space_10 | depositdramameatgloomroutesoapmoralcollectlanguagegenre |  
+| bip_39_word_no_space_11 | depositdramameatgloomroutesoapmoralcollectlanguagegenreuseful |  
+| bip_39_word_no_space_12 | depositdramameatgloomroutesoapmoralcollectlanguagegenreusefulattack |  
+| bip_39_word_no_space_2 | depositdrama |  
+| bip_39_word_no_space_3 | depositdramameat |  
+| bip_39_word_no_space_4 | depositdramameatgloom |  
+| bip_39_word_no_space_5 | depositdramameatgloomroute |  
+| bip_39_word_no_space_6 | depositdramameatgloomroutesoap |  
+| bip_39_word_no_space_7 | depositdramameatgloomroutesoapmoral |  
+| bip_39_word_no_space_8 | depositdramameatgloomroutesoapmoralcollect |  
+| bip_39_word_no_space_9 | depositdramameatgloomroutesoapmoralcollectlanguage |  
 | bip_39_word_space_0 | ['deposit', 'drama', 'meat', 'gloom', 'route', 'soap', 'moral', 'collect', 'language', 'genre', 'useful', 'attack'] |  
 | bip_39_word_space_1 | deposit |  
 | bip_39_word_space_10 | deposit drama meat gloom route soap moral collect language genre |  

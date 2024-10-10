@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'puzzle
   pave
 
   impose'
+bip_39_word_no_space_1: puzzle
+bip_39_word_no_space_10: puzzlebarelypreventengagehiredrylargepaveimposestate
+bip_39_word_no_space_11: puzzlebarelypreventengagehiredrylargepaveimposestateroof
+bip_39_word_no_space_12: puzzlebarelypreventengagehiredrylargepaveimposestateroofappear
+bip_39_word_no_space_2: puzzlebarely
+bip_39_word_no_space_3: puzzlebarelyprevent
+bip_39_word_no_space_4: puzzlebarelypreventengage
+bip_39_word_no_space_5: puzzlebarelypreventengagehire
+bip_39_word_no_space_6: puzzlebarelypreventengagehiredry
+bip_39_word_no_space_7: puzzlebarelypreventengagehiredrylarge
+bip_39_word_no_space_8: puzzlebarelypreventengagehiredrylargepave
+bip_39_word_no_space_9: puzzlebarelypreventengagehiredrylargepaveimpose
 bip_39_word_space_0:
 - puzzle
 - barely

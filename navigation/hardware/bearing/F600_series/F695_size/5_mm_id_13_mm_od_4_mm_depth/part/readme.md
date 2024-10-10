@@ -122,6 +122,18 @@ carpet
 silly
 laugh
 endorse |  
+| bip_39_word_no_space_1 | keen |  
+| bip_39_word_no_space_10 | keenbidnovelstadiumhoodcarpetsillylaughendorseseat |  
+| bip_39_word_no_space_11 | keenbidnovelstadiumhoodcarpetsillylaughendorseseatbargain |  
+| bip_39_word_no_space_12 | keenbidnovelstadiumhoodcarpetsillylaughendorseseatbargainamateur |  
+| bip_39_word_no_space_2 | keenbid |  
+| bip_39_word_no_space_3 | keenbidnovel |  
+| bip_39_word_no_space_4 | keenbidnovelstadium |  
+| bip_39_word_no_space_5 | keenbidnovelstadiumhood |  
+| bip_39_word_no_space_6 | keenbidnovelstadiumhoodcarpet |  
+| bip_39_word_no_space_7 | keenbidnovelstadiumhoodcarpetsilly |  
+| bip_39_word_no_space_8 | keenbidnovelstadiumhoodcarpetsillylaugh |  
+| bip_39_word_no_space_9 | keenbidnovelstadiumhoodcarpetsillylaughendorse |  
 | bip_39_word_space_0 | ['keen', 'bid', 'novel', 'stadium', 'hood', 'carpet', 'silly', 'laugh', 'endorse', 'seat', 'bargain', 'amateur'] |  
 | bip_39_word_space_1 | keen |  
 | bip_39_word_space_10 | keen bid novel stadium hood carpet silly laugh endorse seat |  

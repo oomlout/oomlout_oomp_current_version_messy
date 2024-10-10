@@ -122,6 +122,18 @@ chat
 color
 waste
 again |  
+| bip_39_word_no_space_1 | ancient |  
+| bip_39_word_no_space_10 | ancientcrawlorgancattleforumchatcolorwasteagaingather |  
+| bip_39_word_no_space_11 | ancientcrawlorgancattleforumchatcolorwasteagaingathernose |  
+| bip_39_word_no_space_12 | ancientcrawlorgancattleforumchatcolorwasteagaingathernosealcohol |  
+| bip_39_word_no_space_2 | ancientcrawl |  
+| bip_39_word_no_space_3 | ancientcrawlorgan |  
+| bip_39_word_no_space_4 | ancientcrawlorgancattle |  
+| bip_39_word_no_space_5 | ancientcrawlorgancattleforum |  
+| bip_39_word_no_space_6 | ancientcrawlorgancattleforumchat |  
+| bip_39_word_no_space_7 | ancientcrawlorgancattleforumchatcolor |  
+| bip_39_word_no_space_8 | ancientcrawlorgancattleforumchatcolorwaste |  
+| bip_39_word_no_space_9 | ancientcrawlorgancattleforumchatcolorwasteagain |  
 | bip_39_word_space_0 | ['ancient', 'crawl', 'organ', 'cattle', 'forum', 'chat', 'color', 'waste', 'again', 'gather', 'nose', 'alcohol'] |  
 | bip_39_word_space_1 | ancient |  
 | bip_39_word_space_10 | ancient crawl organ cattle forum chat color waste again gather |  

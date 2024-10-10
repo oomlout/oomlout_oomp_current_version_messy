@@ -122,6 +122,18 @@ scale
 help
 noble
 grape |  
+| bip_39_word_no_space_1 | rebel |  
+| bip_39_word_no_space_10 | rebelmagnetuncoverquartershoescalehelpnoblegrapelater |  
+| bip_39_word_no_space_11 | rebelmagnetuncoverquartershoescalehelpnoblegrapelatercrime |  
+| bip_39_word_no_space_12 | rebelmagnetuncoverquartershoescalehelpnoblegrapelatercrimeasthma |  
+| bip_39_word_no_space_2 | rebelmagnet |  
+| bip_39_word_no_space_3 | rebelmagnetuncover |  
+| bip_39_word_no_space_4 | rebelmagnetuncoverquarter |  
+| bip_39_word_no_space_5 | rebelmagnetuncoverquartershoe |  
+| bip_39_word_no_space_6 | rebelmagnetuncoverquartershoescale |  
+| bip_39_word_no_space_7 | rebelmagnetuncoverquartershoescalehelp |  
+| bip_39_word_no_space_8 | rebelmagnetuncoverquartershoescalehelpnoble |  
+| bip_39_word_no_space_9 | rebelmagnetuncoverquartershoescalehelpnoblegrape |  
 | bip_39_word_space_0 | ['rebel', 'magnet', 'uncover', 'quarter', 'shoe', 'scale', 'help', 'noble', 'grape', 'later', 'crime', 'asthma'] |  
 | bip_39_word_space_1 | rebel |  
 | bip_39_word_space_10 | rebel magnet uncover quarter shoe scale help noble grape later |  

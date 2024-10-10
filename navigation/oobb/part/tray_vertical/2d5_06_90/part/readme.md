@@ -122,6 +122,18 @@ orbit
 under
 quarter
 afford |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemycrimeflatthiscoyoteorbitunderquarteraffordolive |  
+| bip_39_word_no_space_11 | enemycrimeflatthiscoyoteorbitunderquarteraffordolivedust |  
+| bip_39_word_no_space_12 | enemycrimeflatthiscoyoteorbitunderquarteraffordolivedustarrest |  
+| bip_39_word_no_space_2 | enemycrime |  
+| bip_39_word_no_space_3 | enemycrimeflat |  
+| bip_39_word_no_space_4 | enemycrimeflatthis |  
+| bip_39_word_no_space_5 | enemycrimeflatthiscoyote |  
+| bip_39_word_no_space_6 | enemycrimeflatthiscoyoteorbit |  
+| bip_39_word_no_space_7 | enemycrimeflatthiscoyoteorbitunder |  
+| bip_39_word_no_space_8 | enemycrimeflatthiscoyoteorbitunderquarter |  
+| bip_39_word_no_space_9 | enemycrimeflatthiscoyoteorbitunderquarterafford |  
 | bip_39_word_space_0 | ['enemy', 'crime', 'flat', 'this', 'coyote', 'orbit', 'under', 'quarter', 'afford', 'olive', 'dust', 'arrest'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy crime flat this coyote orbit under quarter afford olive |  

@@ -122,6 +122,18 @@ depart
 panic
 have
 motor |  
+| bip_39_word_no_space_1 | sauce |  
+| bip_39_word_no_space_10 | saucetodayalwayslaundryridgedepartpanichavemotorfamous |  
+| bip_39_word_no_space_11 | saucetodayalwayslaundryridgedepartpanichavemotorfamoustuna |  
+| bip_39_word_no_space_12 | saucetodayalwayslaundryridgedepartpanichavemotorfamoustunaaddress |  
+| bip_39_word_no_space_2 | saucetoday |  
+| bip_39_word_no_space_3 | saucetodayalways |  
+| bip_39_word_no_space_4 | saucetodayalwayslaundry |  
+| bip_39_word_no_space_5 | saucetodayalwayslaundryridge |  
+| bip_39_word_no_space_6 | saucetodayalwayslaundryridgedepart |  
+| bip_39_word_no_space_7 | saucetodayalwayslaundryridgedepartpanic |  
+| bip_39_word_no_space_8 | saucetodayalwayslaundryridgedepartpanichave |  
+| bip_39_word_no_space_9 | saucetodayalwayslaundryridgedepartpanichavemotor |  
 | bip_39_word_space_0 | ['sauce', 'today', 'always', 'laundry', 'ridge', 'depart', 'panic', 'have', 'motor', 'famous', 'tuna', 'address'] |  
 | bip_39_word_space_1 | sauce |  
 | bip_39_word_space_10 | sauce today always laundry ridge depart panic have motor famous |  

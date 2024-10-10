@@ -122,6 +122,18 @@ trick
 focus
 ring
 tattoo |  
+| bip_39_word_no_space_1 | click |  
+| bip_39_word_no_space_10 | clickstagelazyvisitmimictrickfocusringtattoosyrup |  
+| bip_39_word_no_space_11 | clickstagelazyvisitmimictrickfocusringtattoosyrupearth |  
+| bip_39_word_no_space_12 | clickstagelazyvisitmimictrickfocusringtattoosyrupearthalter |  
+| bip_39_word_no_space_2 | clickstage |  
+| bip_39_word_no_space_3 | clickstagelazy |  
+| bip_39_word_no_space_4 | clickstagelazyvisit |  
+| bip_39_word_no_space_5 | clickstagelazyvisitmimic |  
+| bip_39_word_no_space_6 | clickstagelazyvisitmimictrick |  
+| bip_39_word_no_space_7 | clickstagelazyvisitmimictrickfocus |  
+| bip_39_word_no_space_8 | clickstagelazyvisitmimictrickfocusring |  
+| bip_39_word_no_space_9 | clickstagelazyvisitmimictrickfocusringtattoo |  
 | bip_39_word_space_0 | ['click', 'stage', 'lazy', 'visit', 'mimic', 'trick', 'focus', 'ring', 'tattoo', 'syrup', 'earth', 'alter'] |  
 | bip_39_word_space_1 | click |  
 | bip_39_word_space_10 | click stage lazy visit mimic trick focus ring tattoo syrup |  

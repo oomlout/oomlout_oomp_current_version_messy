@@ -122,6 +122,18 @@ ball
 exchange
 sort
 educate |  
+| bip_39_word_no_space_1 | then |  
+| bip_39_word_no_space_10 | thenmansionhundredmedaldepositballexchangesorteducatetaxi |  
+| bip_39_word_no_space_11 | thenmansionhundredmedaldepositballexchangesorteducatetaxituition |  
+| bip_39_word_no_space_12 | thenmansionhundredmedaldepositballexchangesorteducatetaxituitionavocado |  
+| bip_39_word_no_space_2 | thenmansion |  
+| bip_39_word_no_space_3 | thenmansionhundred |  
+| bip_39_word_no_space_4 | thenmansionhundredmedal |  
+| bip_39_word_no_space_5 | thenmansionhundredmedaldeposit |  
+| bip_39_word_no_space_6 | thenmansionhundredmedaldepositball |  
+| bip_39_word_no_space_7 | thenmansionhundredmedaldepositballexchange |  
+| bip_39_word_no_space_8 | thenmansionhundredmedaldepositballexchangesort |  
+| bip_39_word_no_space_9 | thenmansionhundredmedaldepositballexchangesorteducate |  
 | bip_39_word_space_0 | ['then', 'mansion', 'hundred', 'medal', 'deposit', 'ball', 'exchange', 'sort', 'educate', 'taxi', 'tuition', 'avocado'] |  
 | bip_39_word_space_1 | then |  
 | bip_39_word_space_10 | then mansion hundred medal deposit ball exchange sort educate taxi |  

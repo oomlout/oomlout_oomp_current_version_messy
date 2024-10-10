@@ -122,6 +122,18 @@ calm
 trade
 provide
 shiver |  
+| bip_39_word_no_space_1 | decline |  
+| bip_39_word_no_space_10 | declinebudgetunderearthstatecalmtradeprovideshiverwindow |  
+| bip_39_word_no_space_11 | declinebudgetunderearthstatecalmtradeprovideshiverwindowfun |  
+| bip_39_word_no_space_12 | declinebudgetunderearthstatecalmtradeprovideshiverwindowfunargue |  
+| bip_39_word_no_space_2 | declinebudget |  
+| bip_39_word_no_space_3 | declinebudgetunder |  
+| bip_39_word_no_space_4 | declinebudgetunderearth |  
+| bip_39_word_no_space_5 | declinebudgetunderearthstate |  
+| bip_39_word_no_space_6 | declinebudgetunderearthstatecalm |  
+| bip_39_word_no_space_7 | declinebudgetunderearthstatecalmtrade |  
+| bip_39_word_no_space_8 | declinebudgetunderearthstatecalmtradeprovide |  
+| bip_39_word_no_space_9 | declinebudgetunderearthstatecalmtradeprovideshiver |  
 | bip_39_word_space_0 | ['decline', 'budget', 'under', 'earth', 'state', 'calm', 'trade', 'provide', 'shiver', 'window', 'fun', 'argue'] |  
 | bip_39_word_space_1 | decline |  
 | bip_39_word_space_10 | decline budget under earth state calm trade provide shiver window |  

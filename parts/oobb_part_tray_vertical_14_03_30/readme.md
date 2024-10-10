@@ -122,6 +122,18 @@ robot
 agent
 clever
 thumb |  
+| bip_39_word_no_space_1 | essence |  
+| bip_39_word_no_space_10 | essenceclientranchsureregionrobotagentcleverthumbglobe |  
+| bip_39_word_no_space_11 | essenceclientranchsureregionrobotagentcleverthumbglobeguide |  
+| bip_39_word_no_space_12 | essenceclientranchsureregionrobotagentcleverthumbglobeguidealone |  
+| bip_39_word_no_space_2 | essenceclient |  
+| bip_39_word_no_space_3 | essenceclientranch |  
+| bip_39_word_no_space_4 | essenceclientranchsure |  
+| bip_39_word_no_space_5 | essenceclientranchsureregion |  
+| bip_39_word_no_space_6 | essenceclientranchsureregionrobot |  
+| bip_39_word_no_space_7 | essenceclientranchsureregionrobotagent |  
+| bip_39_word_no_space_8 | essenceclientranchsureregionrobotagentclever |  
+| bip_39_word_no_space_9 | essenceclientranchsureregionrobotagentcleverthumb |  
 | bip_39_word_space_0 | ['essence', 'client', 'ranch', 'sure', 'region', 'robot', 'agent', 'clever', 'thumb', 'globe', 'guide', 'alone'] |  
 | bip_39_word_space_1 | essence |  
 | bip_39_word_space_10 | essence client ranch sure region robot agent clever thumb globe |  

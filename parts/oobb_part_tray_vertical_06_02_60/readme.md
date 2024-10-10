@@ -122,6 +122,18 @@ vacuum
 leave
 mail
 exercise |  
+| bip_39_word_no_space_1 | wide |  
+| bip_39_word_no_space_10 | widescriptaxisrevealportionvacuumleavemailexerciseprovide |  
+| bip_39_word_no_space_11 | widescriptaxisrevealportionvacuumleavemailexerciseprovidewrestle |  
+| bip_39_word_no_space_12 | widescriptaxisrevealportionvacuumleavemailexerciseprovidewrestleall |  
+| bip_39_word_no_space_2 | widescript |  
+| bip_39_word_no_space_3 | widescriptaxis |  
+| bip_39_word_no_space_4 | widescriptaxisreveal |  
+| bip_39_word_no_space_5 | widescriptaxisrevealportion |  
+| bip_39_word_no_space_6 | widescriptaxisrevealportionvacuum |  
+| bip_39_word_no_space_7 | widescriptaxisrevealportionvacuumleave |  
+| bip_39_word_no_space_8 | widescriptaxisrevealportionvacuumleavemail |  
+| bip_39_word_no_space_9 | widescriptaxisrevealportionvacuumleavemailexercise |  
 | bip_39_word_space_0 | ['wide', 'script', 'axis', 'reveal', 'portion', 'vacuum', 'leave', 'mail', 'exercise', 'provide', 'wrestle', 'all'] |  
 | bip_39_word_space_1 | wide |  
 | bip_39_word_space_10 | wide script axis reveal portion vacuum leave mail exercise provide |  

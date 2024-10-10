@@ -122,6 +122,18 @@ culture
 common
 cattle
 leisure |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawldignityworthtoastdangerculturecommoncattleleisurefortune |  
+| bip_39_word_no_space_11 | crawldignityworthtoastdangerculturecommoncattleleisurefortunelearn |  
+| bip_39_word_no_space_12 | crawldignityworthtoastdangerculturecommoncattleleisurefortunelearnairport |  
+| bip_39_word_no_space_2 | crawldignity |  
+| bip_39_word_no_space_3 | crawldignityworth |  
+| bip_39_word_no_space_4 | crawldignityworthtoast |  
+| bip_39_word_no_space_5 | crawldignityworthtoastdanger |  
+| bip_39_word_no_space_6 | crawldignityworthtoastdangerculture |  
+| bip_39_word_no_space_7 | crawldignityworthtoastdangerculturecommon |  
+| bip_39_word_no_space_8 | crawldignityworthtoastdangerculturecommoncattle |  
+| bip_39_word_no_space_9 | crawldignityworthtoastdangerculturecommoncattleleisure |  
 | bip_39_word_space_0 | ['crawl', 'dignity', 'worth', 'toast', 'danger', 'culture', 'common', 'cattle', 'leisure', 'fortune', 'learn', 'airport'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl dignity worth toast danger culture common cattle leisure fortune |  

@@ -122,6 +122,18 @@ race
 glove
 detect
 situate |  
+| bip_39_word_no_space_1 | key |  
+| bip_39_word_no_space_10 | keyinnocentwhenawayundoraceglovedetectsituatehotel |  
+| bip_39_word_no_space_11 | keyinnocentwhenawayundoraceglovedetectsituatehotelcoil |  
+| bip_39_word_no_space_12 | keyinnocentwhenawayundoraceglovedetectsituatehotelcoilaerobic |  
+| bip_39_word_no_space_2 | keyinnocent |  
+| bip_39_word_no_space_3 | keyinnocentwhen |  
+| bip_39_word_no_space_4 | keyinnocentwhenaway |  
+| bip_39_word_no_space_5 | keyinnocentwhenawayundo |  
+| bip_39_word_no_space_6 | keyinnocentwhenawayundorace |  
+| bip_39_word_no_space_7 | keyinnocentwhenawayundoraceglove |  
+| bip_39_word_no_space_8 | keyinnocentwhenawayundoraceglovedetect |  
+| bip_39_word_no_space_9 | keyinnocentwhenawayundoraceglovedetectsituate |  
 | bip_39_word_space_0 | ['key', 'innocent', 'when', 'away', 'undo', 'race', 'glove', 'detect', 'situate', 'hotel', 'coil', 'aerobic'] |  
 | bip_39_word_space_1 | key |  
 | bip_39_word_space_10 | key innocent when away undo race glove detect situate hotel |  

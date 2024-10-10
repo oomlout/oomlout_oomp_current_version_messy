@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fatal
   meat
 
   canal'
+bip_39_word_no_space_1: fatal
+bip_39_word_no_space_10: fatalsuggestfirmalmostplayprideinjectmeatcanaljoke
+bip_39_word_no_space_11: fatalsuggestfirmalmostplayprideinjectmeatcanaljokeend
+bip_39_word_no_space_12: fatalsuggestfirmalmostplayprideinjectmeatcanaljokeendaddict
+bip_39_word_no_space_2: fatalsuggest
+bip_39_word_no_space_3: fatalsuggestfirm
+bip_39_word_no_space_4: fatalsuggestfirmalmost
+bip_39_word_no_space_5: fatalsuggestfirmalmostplay
+bip_39_word_no_space_6: fatalsuggestfirmalmostplaypride
+bip_39_word_no_space_7: fatalsuggestfirmalmostplayprideinject
+bip_39_word_no_space_8: fatalsuggestfirmalmostplayprideinjectmeat
+bip_39_word_no_space_9: fatalsuggestfirmalmostplayprideinjectmeatcanal
 bip_39_word_space_0:
 - fatal
 - suggest

@@ -122,6 +122,18 @@ general
 broom
 pill
 under |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | codeaboutovenlawcruelgeneralbroompillunderthing |  
+| bip_39_word_no_space_11 | codeaboutovenlawcruelgeneralbroompillunderthingage |  
+| bip_39_word_no_space_12 | codeaboutovenlawcruelgeneralbroompillunderthingageauto |  
+| bip_39_word_no_space_2 | codeabout |  
+| bip_39_word_no_space_3 | codeaboutoven |  
+| bip_39_word_no_space_4 | codeaboutovenlaw |  
+| bip_39_word_no_space_5 | codeaboutovenlawcruel |  
+| bip_39_word_no_space_6 | codeaboutovenlawcruelgeneral |  
+| bip_39_word_no_space_7 | codeaboutovenlawcruelgeneralbroom |  
+| bip_39_word_no_space_8 | codeaboutovenlawcruelgeneralbroompill |  
+| bip_39_word_no_space_9 | codeaboutovenlawcruelgeneralbroompillunder |  
 | bip_39_word_space_0 | ['code', 'about', 'oven', 'law', 'cruel', 'general', 'broom', 'pill', 'under', 'thing', 'age', 'auto'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code about oven law cruel general broom pill under thing |  

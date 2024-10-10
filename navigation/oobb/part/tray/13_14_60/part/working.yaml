@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'element
   truth
 
   area'
+bip_39_word_no_space_1: element
+bip_39_word_no_space_10: elementnowjumpbrasstattoomessageboxtruthareaunfold
+bip_39_word_no_space_11: elementnowjumpbrasstattoomessageboxtruthareaunfoldstable
+bip_39_word_no_space_12: elementnowjumpbrasstattoomessageboxtruthareaunfoldstableaccident
+bip_39_word_no_space_2: elementnow
+bip_39_word_no_space_3: elementnowjump
+bip_39_word_no_space_4: elementnowjumpbrass
+bip_39_word_no_space_5: elementnowjumpbrasstattoo
+bip_39_word_no_space_6: elementnowjumpbrasstattoomessage
+bip_39_word_no_space_7: elementnowjumpbrasstattoomessagebox
+bip_39_word_no_space_8: elementnowjumpbrasstattoomessageboxtruth
+bip_39_word_no_space_9: elementnowjumpbrasstattoomessageboxtrutharea
 bip_39_word_space_0:
 - element
 - now

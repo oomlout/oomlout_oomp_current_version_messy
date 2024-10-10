@@ -122,6 +122,18 @@ planet
 six
 sleep
 sock |  
+| bip_39_word_no_space_1 | danger |  
+| bip_39_word_no_space_10 | dangercenturyclerkinheritaffordplanetsixsleepsockcorrect |  
+| bip_39_word_no_space_11 | dangercenturyclerkinheritaffordplanetsixsleepsockcorrectritual |  
+| bip_39_word_no_space_12 | dangercenturyclerkinheritaffordplanetsixsleepsockcorrectritualanchor |  
+| bip_39_word_no_space_2 | dangercentury |  
+| bip_39_word_no_space_3 | dangercenturyclerk |  
+| bip_39_word_no_space_4 | dangercenturyclerkinherit |  
+| bip_39_word_no_space_5 | dangercenturyclerkinheritafford |  
+| bip_39_word_no_space_6 | dangercenturyclerkinheritaffordplanet |  
+| bip_39_word_no_space_7 | dangercenturyclerkinheritaffordplanetsix |  
+| bip_39_word_no_space_8 | dangercenturyclerkinheritaffordplanetsixsleep |  
+| bip_39_word_no_space_9 | dangercenturyclerkinheritaffordplanetsixsleepsock |  
 | bip_39_word_space_0 | ['danger', 'century', 'clerk', 'inherit', 'afford', 'planet', 'six', 'sleep', 'sock', 'correct', 'ritual', 'anchor'] |  
 | bip_39_word_space_1 | danger |  
 | bip_39_word_space_10 | danger century clerk inherit afford planet six sleep sock correct |  

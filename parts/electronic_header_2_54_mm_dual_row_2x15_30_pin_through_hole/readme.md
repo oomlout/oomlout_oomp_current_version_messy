@@ -122,6 +122,18 @@ van
 salad
 mouse
 modify |  
+| bip_39_word_no_space_1 | organ |  
+| bip_39_word_no_space_10 | organlawncloudnoblerunwayvansaladmousemodifytired |  
+| bip_39_word_no_space_11 | organlawncloudnoblerunwayvansaladmousemodifytireddrink |  
+| bip_39_word_no_space_12 | organlawncloudnoblerunwayvansaladmousemodifytireddrinkapology |  
+| bip_39_word_no_space_2 | organlawn |  
+| bip_39_word_no_space_3 | organlawncloud |  
+| bip_39_word_no_space_4 | organlawncloudnoble |  
+| bip_39_word_no_space_5 | organlawncloudnoblerunway |  
+| bip_39_word_no_space_6 | organlawncloudnoblerunwayvan |  
+| bip_39_word_no_space_7 | organlawncloudnoblerunwayvansalad |  
+| bip_39_word_no_space_8 | organlawncloudnoblerunwayvansaladmouse |  
+| bip_39_word_no_space_9 | organlawncloudnoblerunwayvansaladmousemodify |  
 | bip_39_word_space_0 | ['organ', 'lawn', 'cloud', 'noble', 'runway', 'van', 'salad', 'mouse', 'modify', 'tired', 'drink', 'apology'] |  
 | bip_39_word_space_1 | organ |  
 | bip_39_word_space_10 | organ lawn cloud noble runway van salad mouse modify tired |  

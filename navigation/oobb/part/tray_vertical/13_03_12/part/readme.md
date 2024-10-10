@@ -122,6 +122,18 @@ card
 snack
 special
 left |  
+| bip_39_word_no_space_1 | dumb |  
+| bip_39_word_no_space_10 | dumbtowergoldsentencesuccesscardsnackspecialleftdeny |  
+| bip_39_word_no_space_11 | dumbtowergoldsentencesuccesscardsnackspecialleftdenytry |  
+| bip_39_word_no_space_12 | dumbtowergoldsentencesuccesscardsnackspecialleftdenytryamateur |  
+| bip_39_word_no_space_2 | dumbtower |  
+| bip_39_word_no_space_3 | dumbtowergold |  
+| bip_39_word_no_space_4 | dumbtowergoldsentence |  
+| bip_39_word_no_space_5 | dumbtowergoldsentencesuccess |  
+| bip_39_word_no_space_6 | dumbtowergoldsentencesuccesscard |  
+| bip_39_word_no_space_7 | dumbtowergoldsentencesuccesscardsnack |  
+| bip_39_word_no_space_8 | dumbtowergoldsentencesuccesscardsnackspecial |  
+| bip_39_word_no_space_9 | dumbtowergoldsentencesuccesscardsnackspecialleft |  
 | bip_39_word_space_0 | ['dumb', 'tower', 'gold', 'sentence', 'success', 'card', 'snack', 'special', 'left', 'deny', 'try', 'amateur'] |  
 | bip_39_word_space_1 | dumb |  
 | bip_39_word_space_10 | dumb tower gold sentence success card snack special left deny |  

@@ -122,6 +122,18 @@ weapon
 lava
 isolate
 uphold |  
+| bip_39_word_no_space_1 | dizzy |  
+| bip_39_word_no_space_10 | dizzydrymoviehungryagreeweaponlavaisolateupholdkid |  
+| bip_39_word_no_space_11 | dizzydrymoviehungryagreeweaponlavaisolateupholdkideducate |  
+| bip_39_word_no_space_12 | dizzydrymoviehungryagreeweaponlavaisolateupholdkideducateanimal |  
+| bip_39_word_no_space_2 | dizzydry |  
+| bip_39_word_no_space_3 | dizzydrymovie |  
+| bip_39_word_no_space_4 | dizzydrymoviehungry |  
+| bip_39_word_no_space_5 | dizzydrymoviehungryagree |  
+| bip_39_word_no_space_6 | dizzydrymoviehungryagreeweapon |  
+| bip_39_word_no_space_7 | dizzydrymoviehungryagreeweaponlava |  
+| bip_39_word_no_space_8 | dizzydrymoviehungryagreeweaponlavaisolate |  
+| bip_39_word_no_space_9 | dizzydrymoviehungryagreeweaponlavaisolateuphold |  
 | bip_39_word_space_0 | ['dizzy', 'dry', 'movie', 'hungry', 'agree', 'weapon', 'lava', 'isolate', 'uphold', 'kid', 'educate', 'animal'] |  
 | bip_39_word_space_1 | dizzy |  
 | bip_39_word_space_10 | dizzy dry movie hungry agree weapon lava isolate uphold kid |  

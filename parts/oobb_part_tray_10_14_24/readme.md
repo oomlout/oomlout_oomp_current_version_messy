@@ -122,6 +122,18 @@ much
 portion
 mistake
 drastic |  
+| bip_39_word_no_space_1 | squirrel |  
+| bip_39_word_no_space_10 | squirrelinputcanyonridegreenmuchportionmistakedrasticorchard |  
+| bip_39_word_no_space_11 | squirrelinputcanyonridegreenmuchportionmistakedrasticorchardphrase |  
+| bip_39_word_no_space_12 | squirrelinputcanyonridegreenmuchportionmistakedrasticorchardphraseairport |  
+| bip_39_word_no_space_2 | squirrelinput |  
+| bip_39_word_no_space_3 | squirrelinputcanyon |  
+| bip_39_word_no_space_4 | squirrelinputcanyonride |  
+| bip_39_word_no_space_5 | squirrelinputcanyonridegreen |  
+| bip_39_word_no_space_6 | squirrelinputcanyonridegreenmuch |  
+| bip_39_word_no_space_7 | squirrelinputcanyonridegreenmuchportion |  
+| bip_39_word_no_space_8 | squirrelinputcanyonridegreenmuchportionmistake |  
+| bip_39_word_no_space_9 | squirrelinputcanyonridegreenmuchportionmistakedrastic |  
 | bip_39_word_space_0 | ['squirrel', 'input', 'canyon', 'ride', 'green', 'much', 'portion', 'mistake', 'drastic', 'orchard', 'phrase', 'airport'] |  
 | bip_39_word_space_1 | squirrel |  
 | bip_39_word_space_10 | squirrel input canyon ride green much portion mistake drastic orchard |  

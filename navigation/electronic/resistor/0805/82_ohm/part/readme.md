@@ -122,6 +122,18 @@ paper
 devote
 busy
 bone |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyemountainabsurdkitealbumpaperdevotebusybonediffer |  
+| bip_39_word_no_space_11 | eyemountainabsurdkitealbumpaperdevotebusybonedifferapril |  
+| bip_39_word_no_space_12 | eyemountainabsurdkitealbumpaperdevotebusybonedifferaprilacoustic |  
+| bip_39_word_no_space_2 | eyemountain |  
+| bip_39_word_no_space_3 | eyemountainabsurd |  
+| bip_39_word_no_space_4 | eyemountainabsurdkite |  
+| bip_39_word_no_space_5 | eyemountainabsurdkitealbum |  
+| bip_39_word_no_space_6 | eyemountainabsurdkitealbumpaper |  
+| bip_39_word_no_space_7 | eyemountainabsurdkitealbumpaperdevote |  
+| bip_39_word_no_space_8 | eyemountainabsurdkitealbumpaperdevotebusy |  
+| bip_39_word_no_space_9 | eyemountainabsurdkitealbumpaperdevotebusybone |  
 | bip_39_word_space_0 | ['eye', 'mountain', 'absurd', 'kite', 'album', 'paper', 'devote', 'busy', 'bone', 'differ', 'april', 'acoustic'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye mountain absurd kite album paper devote busy bone differ |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'elder
   jaguar
 
   pear'
+bip_39_word_no_space_1: elder
+bip_39_word_no_space_10: eldercrawlstreetonionwaspburdenworryjaguarpearcore
+bip_39_word_no_space_11: eldercrawlstreetonionwaspburdenworryjaguarpearcoremiracle
+bip_39_word_no_space_12: eldercrawlstreetonionwaspburdenworryjaguarpearcoremiracleallow
+bip_39_word_no_space_2: eldercrawl
+bip_39_word_no_space_3: eldercrawlstreet
+bip_39_word_no_space_4: eldercrawlstreetonion
+bip_39_word_no_space_5: eldercrawlstreetonionwasp
+bip_39_word_no_space_6: eldercrawlstreetonionwaspburden
+bip_39_word_no_space_7: eldercrawlstreetonionwaspburdenworry
+bip_39_word_no_space_8: eldercrawlstreetonionwaspburdenworryjaguar
+bip_39_word_no_space_9: eldercrawlstreetonionwaspburdenworryjaguarpear
 bip_39_word_space_0:
 - elder
 - crawl

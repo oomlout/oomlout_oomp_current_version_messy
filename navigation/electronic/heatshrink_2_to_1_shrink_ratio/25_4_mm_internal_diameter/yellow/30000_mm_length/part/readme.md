@@ -122,6 +122,18 @@ noodle
 park
 illegal
 sock |  
+| bip_39_word_no_space_1 | usage |  
+| bip_39_word_no_space_10 | usagecreditgatherrescueelitenoodleparkillegalsockscience |  
+| bip_39_word_no_space_11 | usagecreditgatherrescueelitenoodleparkillegalsocksciencecrime |  
+| bip_39_word_no_space_12 | usagecreditgatherrescueelitenoodleparkillegalsocksciencecrimeaverage |  
+| bip_39_word_no_space_2 | usagecredit |  
+| bip_39_word_no_space_3 | usagecreditgather |  
+| bip_39_word_no_space_4 | usagecreditgatherrescue |  
+| bip_39_word_no_space_5 | usagecreditgatherrescueelite |  
+| bip_39_word_no_space_6 | usagecreditgatherrescueelitenoodle |  
+| bip_39_word_no_space_7 | usagecreditgatherrescueelitenoodlepark |  
+| bip_39_word_no_space_8 | usagecreditgatherrescueelitenoodleparkillegal |  
+| bip_39_word_no_space_9 | usagecreditgatherrescueelitenoodleparkillegalsock |  
 | bip_39_word_space_0 | ['usage', 'credit', 'gather', 'rescue', 'elite', 'noodle', 'park', 'illegal', 'sock', 'science', 'crime', 'average'] |  
 | bip_39_word_space_1 | usage |  
 | bip_39_word_space_10 | usage credit gather rescue elite noodle park illegal sock science |  

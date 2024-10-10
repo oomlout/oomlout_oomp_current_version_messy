@@ -122,6 +122,18 @@ bacon
 ready
 hunt
 tent |  
+| bip_39_word_no_space_1 | carbon |  
+| bip_39_word_no_space_10 | carbonnextfalseinsaneattitudebaconreadyhunttentwonder |  
+| bip_39_word_no_space_11 | carbonnextfalseinsaneattitudebaconreadyhunttentwonderdolphin |  
+| bip_39_word_no_space_12 | carbonnextfalseinsaneattitudebaconreadyhunttentwonderdolphinabsorb |  
+| bip_39_word_no_space_2 | carbonnext |  
+| bip_39_word_no_space_3 | carbonnextfalse |  
+| bip_39_word_no_space_4 | carbonnextfalseinsane |  
+| bip_39_word_no_space_5 | carbonnextfalseinsaneattitude |  
+| bip_39_word_no_space_6 | carbonnextfalseinsaneattitudebacon |  
+| bip_39_word_no_space_7 | carbonnextfalseinsaneattitudebaconready |  
+| bip_39_word_no_space_8 | carbonnextfalseinsaneattitudebaconreadyhunt |  
+| bip_39_word_no_space_9 | carbonnextfalseinsaneattitudebaconreadyhunttent |  
 | bip_39_word_space_0 | ['carbon', 'next', 'false', 'insane', 'attitude', 'bacon', 'ready', 'hunt', 'tent', 'wonder', 'dolphin', 'absorb'] |  
 | bip_39_word_space_1 | carbon |  
 | bip_39_word_space_10 | carbon next false insane attitude bacon ready hunt tent wonder |  

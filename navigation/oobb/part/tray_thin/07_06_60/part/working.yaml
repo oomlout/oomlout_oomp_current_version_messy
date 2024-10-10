@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'resource
   upper
 
   notable'
+bip_39_word_no_space_1: resource
+bip_39_word_no_space_10: resourcequizinsanezoneworthhipvalveuppernotableearn
+bip_39_word_no_space_11: resourcequizinsanezoneworthhipvalveuppernotableearnecho
+bip_39_word_no_space_12: resourcequizinsanezoneworthhipvalveuppernotableearnechoable
+bip_39_word_no_space_2: resourcequiz
+bip_39_word_no_space_3: resourcequizinsane
+bip_39_word_no_space_4: resourcequizinsanezone
+bip_39_word_no_space_5: resourcequizinsanezoneworth
+bip_39_word_no_space_6: resourcequizinsanezoneworthhip
+bip_39_word_no_space_7: resourcequizinsanezoneworthhipvalve
+bip_39_word_no_space_8: resourcequizinsanezoneworthhipvalveupper
+bip_39_word_no_space_9: resourcequizinsanezoneworthhipvalveuppernotable
 bip_39_word_space_0:
 - resource
 - quiz

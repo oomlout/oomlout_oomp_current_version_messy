@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'motion
   quote
 
   order'
+bip_39_word_no_space_1: motion
+bip_39_word_no_space_10: motionedgeplanetcriticvisualvaguedivertquoteorderlegal
+bip_39_word_no_space_11: motionedgeplanetcriticvisualvaguedivertquoteorderlegalbook
+bip_39_word_no_space_12: motionedgeplanetcriticvisualvaguedivertquoteorderlegalbookallow
+bip_39_word_no_space_2: motionedge
+bip_39_word_no_space_3: motionedgeplanet
+bip_39_word_no_space_4: motionedgeplanetcritic
+bip_39_word_no_space_5: motionedgeplanetcriticvisual
+bip_39_word_no_space_6: motionedgeplanetcriticvisualvague
+bip_39_word_no_space_7: motionedgeplanetcriticvisualvaguedivert
+bip_39_word_no_space_8: motionedgeplanetcriticvisualvaguedivertquote
+bip_39_word_no_space_9: motionedgeplanetcriticvisualvaguedivertquoteorder
 bip_39_word_space_0:
 - motion
 - edge

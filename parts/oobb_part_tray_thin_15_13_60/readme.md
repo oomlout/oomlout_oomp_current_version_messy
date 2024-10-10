@@ -122,6 +122,18 @@ business
 will
 pair
 depart |  
+| bip_39_word_no_space_1 | begin |  
+| bip_39_word_no_space_10 | beginclickshallowelectricrevealbusinesswillpairdepartvicious |  
+| bip_39_word_no_space_11 | beginclickshallowelectricrevealbusinesswillpairdepartviciousupdate |  
+| bip_39_word_no_space_12 | beginclickshallowelectricrevealbusinesswillpairdepartviciousupdateacid |  
+| bip_39_word_no_space_2 | beginclick |  
+| bip_39_word_no_space_3 | beginclickshallow |  
+| bip_39_word_no_space_4 | beginclickshallowelectric |  
+| bip_39_word_no_space_5 | beginclickshallowelectricreveal |  
+| bip_39_word_no_space_6 | beginclickshallowelectricrevealbusiness |  
+| bip_39_word_no_space_7 | beginclickshallowelectricrevealbusinesswill |  
+| bip_39_word_no_space_8 | beginclickshallowelectricrevealbusinesswillpair |  
+| bip_39_word_no_space_9 | beginclickshallowelectricrevealbusinesswillpairdepart |  
 | bip_39_word_space_0 | ['begin', 'click', 'shallow', 'electric', 'reveal', 'business', 'will', 'pair', 'depart', 'vicious', 'update', 'acid'] |  
 | bip_39_word_space_1 | begin |  
 | bip_39_word_space_10 | begin click shallow electric reveal business will pair depart vicious |  

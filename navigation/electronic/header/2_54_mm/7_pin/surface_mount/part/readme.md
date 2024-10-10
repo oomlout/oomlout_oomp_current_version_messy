@@ -122,6 +122,18 @@ cliff
 whip
 organ
 quantum |  
+| bip_39_word_no_space_1 | grant |  
+| bip_39_word_no_space_10 | grantvastdashcubewhispercliffwhiporganquantumillness |  
+| bip_39_word_no_space_11 | grantvastdashcubewhispercliffwhiporganquantumillnessgarlic |  
+| bip_39_word_no_space_12 | grantvastdashcubewhispercliffwhiporganquantumillnessgarlicanalyst |  
+| bip_39_word_no_space_2 | grantvast |  
+| bip_39_word_no_space_3 | grantvastdash |  
+| bip_39_word_no_space_4 | grantvastdashcube |  
+| bip_39_word_no_space_5 | grantvastdashcubewhisper |  
+| bip_39_word_no_space_6 | grantvastdashcubewhispercliff |  
+| bip_39_word_no_space_7 | grantvastdashcubewhispercliffwhip |  
+| bip_39_word_no_space_8 | grantvastdashcubewhispercliffwhiporgan |  
+| bip_39_word_no_space_9 | grantvastdashcubewhispercliffwhiporganquantum |  
 | bip_39_word_space_0 | ['grant', 'vast', 'dash', 'cube', 'whisper', 'cliff', 'whip', 'organ', 'quantum', 'illness', 'garlic', 'analyst'] |  
 | bip_39_word_space_1 | grant |  
 | bip_39_word_space_10 | grant vast dash cube whisper cliff whip organ quantum illness |  

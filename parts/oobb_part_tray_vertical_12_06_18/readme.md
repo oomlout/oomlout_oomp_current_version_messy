@@ -122,6 +122,18 @@ client
 team
 smooth
 dry |  
+| bip_39_word_no_space_1 | pottery |  
+| bip_39_word_no_space_10 | potterydivorcepavemazeozoneclientteamsmoothdrycannon |  
+| bip_39_word_no_space_11 | potterydivorcepavemazeozoneclientteamsmoothdrycannonsocial |  
+| bip_39_word_no_space_12 | potterydivorcepavemazeozoneclientteamsmoothdrycannonsocialabove |  
+| bip_39_word_no_space_2 | potterydivorce |  
+| bip_39_word_no_space_3 | potterydivorcepave |  
+| bip_39_word_no_space_4 | potterydivorcepavemaze |  
+| bip_39_word_no_space_5 | potterydivorcepavemazeozone |  
+| bip_39_word_no_space_6 | potterydivorcepavemazeozoneclient |  
+| bip_39_word_no_space_7 | potterydivorcepavemazeozoneclientteam |  
+| bip_39_word_no_space_8 | potterydivorcepavemazeozoneclientteamsmooth |  
+| bip_39_word_no_space_9 | potterydivorcepavemazeozoneclientteamsmoothdry |  
 | bip_39_word_space_0 | ['pottery', 'divorce', 'pave', 'maze', 'ozone', 'client', 'team', 'smooth', 'dry', 'cannon', 'social', 'above'] |  
 | bip_39_word_space_1 | pottery |  
 | bip_39_word_space_10 | pottery divorce pave maze ozone client team smooth dry cannon |  

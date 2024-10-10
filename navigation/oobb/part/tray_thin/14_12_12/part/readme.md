@@ -122,6 +122,18 @@ seat
 hello
 involve
 swap |  
+| bip_39_word_no_space_1 | cushion |  
+| bip_39_word_no_space_10 | cushionmistakeendorsesensespendseathelloinvolveswapwitness |  
+| bip_39_word_no_space_11 | cushionmistakeendorsesensespendseathelloinvolveswapwitnessnurse |  
+| bip_39_word_no_space_12 | cushionmistakeendorsesensespendseathelloinvolveswapwitnessnurseapple |  
+| bip_39_word_no_space_2 | cushionmistake |  
+| bip_39_word_no_space_3 | cushionmistakeendorse |  
+| bip_39_word_no_space_4 | cushionmistakeendorsesense |  
+| bip_39_word_no_space_5 | cushionmistakeendorsesensespend |  
+| bip_39_word_no_space_6 | cushionmistakeendorsesensespendseat |  
+| bip_39_word_no_space_7 | cushionmistakeendorsesensespendseathello |  
+| bip_39_word_no_space_8 | cushionmistakeendorsesensespendseathelloinvolve |  
+| bip_39_word_no_space_9 | cushionmistakeendorsesensespendseathelloinvolveswap |  
 | bip_39_word_space_0 | ['cushion', 'mistake', 'endorse', 'sense', 'spend', 'seat', 'hello', 'involve', 'swap', 'witness', 'nurse', 'apple'] |  
 | bip_39_word_space_1 | cushion |  
 | bip_39_word_space_10 | cushion mistake endorse sense spend seat hello involve swap witness |  

@@ -109,6 +109,17 @@ kiwi
 slow
 common
 deputy |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallinstallamongerrororientkiwislowcommondeputycasual |  
+| bip_39_word_no_space_11 | wallinstallamongerrororientkiwislowcommondeputycasualmuseum |  
+| bip_39_word_no_space_2 | wallinstall |  
+| bip_39_word_no_space_3 | wallinstallamong |  
+| bip_39_word_no_space_4 | wallinstallamongerror |  
+| bip_39_word_no_space_5 | wallinstallamongerrororient |  
+| bip_39_word_no_space_6 | wallinstallamongerrororientkiwi |  
+| bip_39_word_no_space_7 | wallinstallamongerrororientkiwislow |  
+| bip_39_word_no_space_8 | wallinstallamongerrororientkiwislowcommon |  
+| bip_39_word_no_space_9 | wallinstallamongerrororientkiwislowcommondeputy |  
 | bip_39_word_space_0 | ['wall', 'install', 'among', 'error', 'orient', 'kiwi', 'slow', 'common', 'deputy', 'casual', 'museum'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall install among error orient kiwi slow common deputy casual |  

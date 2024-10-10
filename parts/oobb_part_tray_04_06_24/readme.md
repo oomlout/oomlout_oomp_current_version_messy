@@ -122,6 +122,18 @@ lemon
 hunt
 orchard
 chief |  
+| bip_39_word_no_space_1 | wet |  
+| bip_39_word_no_space_10 | wetsteakphysicalothercanvaslemonhuntorchardchiefmuscle |  
+| bip_39_word_no_space_11 | wetsteakphysicalothercanvaslemonhuntorchardchiefmusclehair |  
+| bip_39_word_no_space_12 | wetsteakphysicalothercanvaslemonhuntorchardchiefmusclehairangle |  
+| bip_39_word_no_space_2 | wetsteak |  
+| bip_39_word_no_space_3 | wetsteakphysical |  
+| bip_39_word_no_space_4 | wetsteakphysicalother |  
+| bip_39_word_no_space_5 | wetsteakphysicalothercanvas |  
+| bip_39_word_no_space_6 | wetsteakphysicalothercanvaslemon |  
+| bip_39_word_no_space_7 | wetsteakphysicalothercanvaslemonhunt |  
+| bip_39_word_no_space_8 | wetsteakphysicalothercanvaslemonhuntorchard |  
+| bip_39_word_no_space_9 | wetsteakphysicalothercanvaslemonhuntorchardchief |  
 | bip_39_word_space_0 | ['wet', 'steak', 'physical', 'other', 'canvas', 'lemon', 'hunt', 'orchard', 'chief', 'muscle', 'hair', 'angle'] |  
 | bip_39_word_space_1 | wet |  
 | bip_39_word_space_10 | wet steak physical other canvas lemon hunt orchard chief muscle |  

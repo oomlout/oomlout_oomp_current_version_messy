@@ -122,6 +122,18 @@ race
 wide
 expand
 film |  
+| bip_39_word_no_space_1 | warrior |  
+| bip_39_word_no_space_10 | warriorcrushfiscaldogrelaxracewideexpandfilmdynamic |  
+| bip_39_word_no_space_11 | warriorcrushfiscaldogrelaxracewideexpandfilmdynamicrecord |  
+| bip_39_word_no_space_12 | warriorcrushfiscaldogrelaxracewideexpandfilmdynamicrecordaspect |  
+| bip_39_word_no_space_2 | warriorcrush |  
+| bip_39_word_no_space_3 | warriorcrushfiscal |  
+| bip_39_word_no_space_4 | warriorcrushfiscaldog |  
+| bip_39_word_no_space_5 | warriorcrushfiscaldogrelax |  
+| bip_39_word_no_space_6 | warriorcrushfiscaldogrelaxrace |  
+| bip_39_word_no_space_7 | warriorcrushfiscaldogrelaxracewide |  
+| bip_39_word_no_space_8 | warriorcrushfiscaldogrelaxracewideexpand |  
+| bip_39_word_no_space_9 | warriorcrushfiscaldogrelaxracewideexpandfilm |  
 | bip_39_word_space_0 | ['warrior', 'crush', 'fiscal', 'dog', 'relax', 'race', 'wide', 'expand', 'film', 'dynamic', 'record', 'aspect'] |  
 | bip_39_word_space_1 | warrior |  
 | bip_39_word_space_10 | warrior crush fiscal dog relax race wide expand film dynamic |  

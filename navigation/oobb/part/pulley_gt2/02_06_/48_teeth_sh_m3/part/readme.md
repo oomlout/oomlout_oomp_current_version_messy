@@ -122,6 +122,18 @@ castle
 paper
 salon
 mixed |  
+| bip_39_word_no_space_1 | later |  
+| bip_39_word_no_space_10 | laterinchendgraincigarcastlepapersalonmixedextend |  
+| bip_39_word_no_space_11 | laterinchendgraincigarcastlepapersalonmixedextendneed |  
+| bip_39_word_no_space_12 | laterinchendgraincigarcastlepapersalonmixedextendneedarea |  
+| bip_39_word_no_space_2 | laterinch |  
+| bip_39_word_no_space_3 | laterinchend |  
+| bip_39_word_no_space_4 | laterinchendgrain |  
+| bip_39_word_no_space_5 | laterinchendgraincigar |  
+| bip_39_word_no_space_6 | laterinchendgraincigarcastle |  
+| bip_39_word_no_space_7 | laterinchendgraincigarcastlepaper |  
+| bip_39_word_no_space_8 | laterinchendgraincigarcastlepapersalon |  
+| bip_39_word_no_space_9 | laterinchendgraincigarcastlepapersalonmixed |  
 | bip_39_word_space_0 | ['later', 'inch', 'end', 'grain', 'cigar', 'castle', 'paper', 'salon', 'mixed', 'extend', 'need', 'area'] |  
 | bip_39_word_space_1 | later |  
 | bip_39_word_space_10 | later inch end grain cigar castle paper salon mixed extend |  

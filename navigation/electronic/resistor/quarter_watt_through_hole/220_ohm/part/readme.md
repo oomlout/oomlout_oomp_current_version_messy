@@ -122,6 +122,18 @@ aware
 place
 fox
 coffee |  
+| bip_39_word_no_space_1 | student |  
+| bip_39_word_no_space_10 | studentmarketinheritshipbounceawareplacefoxcoffeerebuild |  
+| bip_39_word_no_space_11 | studentmarketinheritshipbounceawareplacefoxcoffeerebuildanchor |  
+| bip_39_word_no_space_12 | studentmarketinheritshipbounceawareplacefoxcoffeerebuildanchoramount |  
+| bip_39_word_no_space_2 | studentmarket |  
+| bip_39_word_no_space_3 | studentmarketinherit |  
+| bip_39_word_no_space_4 | studentmarketinheritship |  
+| bip_39_word_no_space_5 | studentmarketinheritshipbounce |  
+| bip_39_word_no_space_6 | studentmarketinheritshipbounceaware |  
+| bip_39_word_no_space_7 | studentmarketinheritshipbounceawareplace |  
+| bip_39_word_no_space_8 | studentmarketinheritshipbounceawareplacefox |  
+| bip_39_word_no_space_9 | studentmarketinheritshipbounceawareplacefoxcoffee |  
 | bip_39_word_space_0 | ['student', 'market', 'inherit', 'ship', 'bounce', 'aware', 'place', 'fox', 'coffee', 'rebuild', 'anchor', 'amount'] |  
 | bip_39_word_space_1 | student |  
 | bip_39_word_space_10 | student market inherit ship bounce aware place fox coffee rebuild |  

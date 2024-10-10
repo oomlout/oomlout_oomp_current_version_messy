@@ -122,6 +122,18 @@ skull
 green
 badge
 resource |  
+| bip_39_word_no_space_1 | fancy |  
+| bip_39_word_no_space_10 | fancyostrichenforcetunasiblingskullgreenbadgeresourceemotion |  
+| bip_39_word_no_space_11 | fancyostrichenforcetunasiblingskullgreenbadgeresourceemotionhammer |  
+| bip_39_word_no_space_12 | fancyostrichenforcetunasiblingskullgreenbadgeresourceemotionhammerarrange |  
+| bip_39_word_no_space_2 | fancyostrich |  
+| bip_39_word_no_space_3 | fancyostrichenforce |  
+| bip_39_word_no_space_4 | fancyostrichenforcetuna |  
+| bip_39_word_no_space_5 | fancyostrichenforcetunasibling |  
+| bip_39_word_no_space_6 | fancyostrichenforcetunasiblingskull |  
+| bip_39_word_no_space_7 | fancyostrichenforcetunasiblingskullgreen |  
+| bip_39_word_no_space_8 | fancyostrichenforcetunasiblingskullgreenbadge |  
+| bip_39_word_no_space_9 | fancyostrichenforcetunasiblingskullgreenbadgeresource |  
 | bip_39_word_space_0 | ['fancy', 'ostrich', 'enforce', 'tuna', 'sibling', 'skull', 'green', 'badge', 'resource', 'emotion', 'hammer', 'arrange'] |  
 | bip_39_word_space_1 | fancy |  
 | bip_39_word_space_10 | fancy ostrich enforce tuna sibling skull green badge resource emotion |  

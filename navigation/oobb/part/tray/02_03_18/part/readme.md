@@ -122,6 +122,18 @@ model
 rocket
 bird
 nation |  
+| bip_39_word_no_space_1 | useful |  
+| bip_39_word_no_space_10 | usefulstingtotalcoastnetworkmodelrocketbirdnationcatalog |  
+| bip_39_word_no_space_11 | usefulstingtotalcoastnetworkmodelrocketbirdnationcatalogwall |  
+| bip_39_word_no_space_12 | usefulstingtotalcoastnetworkmodelrocketbirdnationcatalogwallage |  
+| bip_39_word_no_space_2 | usefulsting |  
+| bip_39_word_no_space_3 | usefulstingtotal |  
+| bip_39_word_no_space_4 | usefulstingtotalcoast |  
+| bip_39_word_no_space_5 | usefulstingtotalcoastnetwork |  
+| bip_39_word_no_space_6 | usefulstingtotalcoastnetworkmodel |  
+| bip_39_word_no_space_7 | usefulstingtotalcoastnetworkmodelrocket |  
+| bip_39_word_no_space_8 | usefulstingtotalcoastnetworkmodelrocketbird |  
+| bip_39_word_no_space_9 | usefulstingtotalcoastnetworkmodelrocketbirdnation |  
 | bip_39_word_space_0 | ['useful', 'sting', 'total', 'coast', 'network', 'model', 'rocket', 'bird', 'nation', 'catalog', 'wall', 'age'] |  
 | bip_39_word_space_1 | useful |  
 | bip_39_word_space_10 | useful sting total coast network model rocket bird nation catalog |  

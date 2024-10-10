@@ -122,6 +122,18 @@ test
 unaware
 hedgehog
 click |  
+| bip_39_word_no_space_1 | ability |  
+| bip_39_word_no_space_10 | abilitysurfacequitexitlaketestunawarehedgehogclickissue |  
+| bip_39_word_no_space_11 | abilitysurfacequitexitlaketestunawarehedgehogclickissueanswer |  
+| bip_39_word_no_space_12 | abilitysurfacequitexitlaketestunawarehedgehogclickissueanswerabove |  
+| bip_39_word_no_space_2 | abilitysurface |  
+| bip_39_word_no_space_3 | abilitysurfacequit |  
+| bip_39_word_no_space_4 | abilitysurfacequitexit |  
+| bip_39_word_no_space_5 | abilitysurfacequitexitlake |  
+| bip_39_word_no_space_6 | abilitysurfacequitexitlaketest |  
+| bip_39_word_no_space_7 | abilitysurfacequitexitlaketestunaware |  
+| bip_39_word_no_space_8 | abilitysurfacequitexitlaketestunawarehedgehog |  
+| bip_39_word_no_space_9 | abilitysurfacequitexitlaketestunawarehedgehogclick |  
 | bip_39_word_space_0 | ['ability', 'surface', 'quit', 'exit', 'lake', 'test', 'unaware', 'hedgehog', 'click', 'issue', 'answer', 'above'] |  
 | bip_39_word_space_1 | ability |  
 | bip_39_word_space_10 | ability surface quit exit lake test unaware hedgehog click issue |  

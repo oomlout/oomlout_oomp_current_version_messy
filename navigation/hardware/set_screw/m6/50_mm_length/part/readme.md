@@ -122,6 +122,18 @@ material
 glass
 absorb
 elite |  
+| bip_39_word_no_space_1 | much |  
+| bip_39_word_no_space_10 | muchbonusignoremaskreturnmaterialglassabsorbelitegather |  
+| bip_39_word_no_space_11 | muchbonusignoremaskreturnmaterialglassabsorbelitegathermake |  
+| bip_39_word_no_space_12 | muchbonusignoremaskreturnmaterialglassabsorbelitegathermakeatom |  
+| bip_39_word_no_space_2 | muchbonus |  
+| bip_39_word_no_space_3 | muchbonusignore |  
+| bip_39_word_no_space_4 | muchbonusignoremask |  
+| bip_39_word_no_space_5 | muchbonusignoremaskreturn |  
+| bip_39_word_no_space_6 | muchbonusignoremaskreturnmaterial |  
+| bip_39_word_no_space_7 | muchbonusignoremaskreturnmaterialglass |  
+| bip_39_word_no_space_8 | muchbonusignoremaskreturnmaterialglassabsorb |  
+| bip_39_word_no_space_9 | muchbonusignoremaskreturnmaterialglassabsorbelite |  
 | bip_39_word_space_0 | ['much', 'bonus', 'ignore', 'mask', 'return', 'material', 'glass', 'absorb', 'elite', 'gather', 'make', 'atom'] |  
 | bip_39_word_space_1 | much |  
 | bip_39_word_space_10 | much bonus ignore mask return material glass absorb elite gather |  

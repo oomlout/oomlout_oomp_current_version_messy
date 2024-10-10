@@ -122,6 +122,18 @@ scatter
 obscure
 home
 rigid |  
+| bip_39_word_no_space_1 | color |  
+| bip_39_word_no_space_10 | colorruralhelmetwheelpillscatterobscurehomerigidability |  
+| bip_39_word_no_space_11 | colorruralhelmetwheelpillscatterobscurehomerigidabilityown |  
+| bip_39_word_no_space_12 | colorruralhelmetwheelpillscatterobscurehomerigidabilityownarm |  
+| bip_39_word_no_space_2 | colorrural |  
+| bip_39_word_no_space_3 | colorruralhelmet |  
+| bip_39_word_no_space_4 | colorruralhelmetwheel |  
+| bip_39_word_no_space_5 | colorruralhelmetwheelpill |  
+| bip_39_word_no_space_6 | colorruralhelmetwheelpillscatter |  
+| bip_39_word_no_space_7 | colorruralhelmetwheelpillscatterobscure |  
+| bip_39_word_no_space_8 | colorruralhelmetwheelpillscatterobscurehome |  
+| bip_39_word_no_space_9 | colorruralhelmetwheelpillscatterobscurehomerigid |  
 | bip_39_word_space_0 | ['color', 'rural', 'helmet', 'wheel', 'pill', 'scatter', 'obscure', 'home', 'rigid', 'ability', 'own', 'arm'] |  
 | bip_39_word_space_1 | color |  
 | bip_39_word_space_10 | color rural helmet wheel pill scatter obscure home rigid ability |  

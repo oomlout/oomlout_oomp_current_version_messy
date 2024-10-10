@@ -122,6 +122,18 @@ shrimp
 hungry
 report
 depth |  
+| bip_39_word_no_space_1 | hurt |  
+| bip_39_word_no_space_10 | hurtrangezebracaughttribeshrimphungryreportdepthlocal |  
+| bip_39_word_no_space_11 | hurtrangezebracaughttribeshrimphungryreportdepthlocalgoat |  
+| bip_39_word_no_space_12 | hurtrangezebracaughttribeshrimphungryreportdepthlocalgoatask |  
+| bip_39_word_no_space_2 | hurtrange |  
+| bip_39_word_no_space_3 | hurtrangezebra |  
+| bip_39_word_no_space_4 | hurtrangezebracaught |  
+| bip_39_word_no_space_5 | hurtrangezebracaughttribe |  
+| bip_39_word_no_space_6 | hurtrangezebracaughttribeshrimp |  
+| bip_39_word_no_space_7 | hurtrangezebracaughttribeshrimphungry |  
+| bip_39_word_no_space_8 | hurtrangezebracaughttribeshrimphungryreport |  
+| bip_39_word_no_space_9 | hurtrangezebracaughttribeshrimphungryreportdepth |  
 | bip_39_word_space_0 | ['hurt', 'range', 'zebra', 'caught', 'tribe', 'shrimp', 'hungry', 'report', 'depth', 'local', 'goat', 'ask'] |  
 | bip_39_word_space_1 | hurt |  
 | bip_39_word_space_10 | hurt range zebra caught tribe shrimp hungry report depth local |  

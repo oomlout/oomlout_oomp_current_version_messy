@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'symbol
   good
 
   sudden'
+bip_39_word_no_space_1: symbol
+bip_39_word_no_space_10: symboltenlawworkvaguerightfaithgoodsuddensail
+bip_39_word_no_space_11: symboltenlawworkvaguerightfaithgoodsuddensailfaint
+bip_39_word_no_space_12: symboltenlawworkvaguerightfaithgoodsuddensailfaintabsurd
+bip_39_word_no_space_2: symbolten
+bip_39_word_no_space_3: symboltenlaw
+bip_39_word_no_space_4: symboltenlawwork
+bip_39_word_no_space_5: symboltenlawworkvague
+bip_39_word_no_space_6: symboltenlawworkvagueright
+bip_39_word_no_space_7: symboltenlawworkvaguerightfaith
+bip_39_word_no_space_8: symboltenlawworkvaguerightfaithgood
+bip_39_word_no_space_9: symboltenlawworkvaguerightfaithgoodsudden
 bip_39_word_space_0:
 - symbol
 - ten

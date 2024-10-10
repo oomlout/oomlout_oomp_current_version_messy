@@ -122,6 +122,18 @@ brain
 easily
 hunt
 deer |  
+| bip_39_word_no_space_1 | atom |  
+| bip_39_word_no_space_10 | atomonlinefollowmagnetsausagebraineasilyhuntdeermonster |  
+| bip_39_word_no_space_11 | atomonlinefollowmagnetsausagebraineasilyhuntdeermonsterturkey |  
+| bip_39_word_no_space_12 | atomonlinefollowmagnetsausagebraineasilyhuntdeermonsterturkeyauthor |  
+| bip_39_word_no_space_2 | atomonline |  
+| bip_39_word_no_space_3 | atomonlinefollow |  
+| bip_39_word_no_space_4 | atomonlinefollowmagnet |  
+| bip_39_word_no_space_5 | atomonlinefollowmagnetsausage |  
+| bip_39_word_no_space_6 | atomonlinefollowmagnetsausagebrain |  
+| bip_39_word_no_space_7 | atomonlinefollowmagnetsausagebraineasily |  
+| bip_39_word_no_space_8 | atomonlinefollowmagnetsausagebraineasilyhunt |  
+| bip_39_word_no_space_9 | atomonlinefollowmagnetsausagebraineasilyhuntdeer |  
 | bip_39_word_space_0 | ['atom', 'online', 'follow', 'magnet', 'sausage', 'brain', 'easily', 'hunt', 'deer', 'monster', 'turkey', 'author'] |  
 | bip_39_word_space_1 | atom |  
 | bip_39_word_space_10 | atom online follow magnet sausage brain easily hunt deer monster |  

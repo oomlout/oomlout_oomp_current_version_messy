@@ -122,6 +122,18 @@ despair
 fiscal
 race
 garden |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gainlearndigitalventurewestdespairfiscalracegardentilt |  
+| bip_39_word_no_space_11 | gainlearndigitalventurewestdespairfiscalracegardentiltinquiry |  
+| bip_39_word_no_space_12 | gainlearndigitalventurewestdespairfiscalracegardentiltinquiryarmy |  
+| bip_39_word_no_space_2 | gainlearn |  
+| bip_39_word_no_space_3 | gainlearndigital |  
+| bip_39_word_no_space_4 | gainlearndigitalventure |  
+| bip_39_word_no_space_5 | gainlearndigitalventurewest |  
+| bip_39_word_no_space_6 | gainlearndigitalventurewestdespair |  
+| bip_39_word_no_space_7 | gainlearndigitalventurewestdespairfiscal |  
+| bip_39_word_no_space_8 | gainlearndigitalventurewestdespairfiscalrace |  
+| bip_39_word_no_space_9 | gainlearndigitalventurewestdespairfiscalracegarden |  
 | bip_39_word_space_0 | ['gain', 'learn', 'digital', 'venture', 'west', 'despair', 'fiscal', 'race', 'garden', 'tilt', 'inquiry', 'army'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain learn digital venture west despair fiscal race garden tilt |  

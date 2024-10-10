@@ -122,6 +122,18 @@ toast
 sword
 embrace
 business |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blackdespairthissealegtoastswordembracebusinesspriority |  
+| bip_39_word_no_space_11 | blackdespairthissealegtoastswordembracebusinesspriorityimitate |  
+| bip_39_word_no_space_12 | blackdespairthissealegtoastswordembracebusinesspriorityimitateaunt |  
+| bip_39_word_no_space_2 | blackdespair |  
+| bip_39_word_no_space_3 | blackdespairthis |  
+| bip_39_word_no_space_4 | blackdespairthissea |  
+| bip_39_word_no_space_5 | blackdespairthissealeg |  
+| bip_39_word_no_space_6 | blackdespairthissealegtoast |  
+| bip_39_word_no_space_7 | blackdespairthissealegtoastsword |  
+| bip_39_word_no_space_8 | blackdespairthissealegtoastswordembrace |  
+| bip_39_word_no_space_9 | blackdespairthissealegtoastswordembracebusiness |  
 | bip_39_word_space_0 | ['black', 'despair', 'this', 'sea', 'leg', 'toast', 'sword', 'embrace', 'business', 'priority', 'imitate', 'aunt'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black despair this sea leg toast sword embrace business priority |  

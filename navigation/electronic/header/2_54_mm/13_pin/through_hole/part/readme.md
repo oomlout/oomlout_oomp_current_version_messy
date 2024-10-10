@@ -122,6 +122,18 @@ cruel
 produce
 impact
 genius |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintageexileshocksleepepisodecruelproduceimpactgeniusenough |  
+| bip_39_word_no_space_11 | vintageexileshocksleepepisodecruelproduceimpactgeniusenoughhobby |  
+| bip_39_word_no_space_12 | vintageexileshocksleepepisodecruelproduceimpactgeniusenoughhobbyafford |  
+| bip_39_word_no_space_2 | vintageexile |  
+| bip_39_word_no_space_3 | vintageexileshock |  
+| bip_39_word_no_space_4 | vintageexileshocksleep |  
+| bip_39_word_no_space_5 | vintageexileshocksleepepisode |  
+| bip_39_word_no_space_6 | vintageexileshocksleepepisodecruel |  
+| bip_39_word_no_space_7 | vintageexileshocksleepepisodecruelproduce |  
+| bip_39_word_no_space_8 | vintageexileshocksleepepisodecruelproduceimpact |  
+| bip_39_word_no_space_9 | vintageexileshocksleepepisodecruelproduceimpactgenius |  
 | bip_39_word_space_0 | ['vintage', 'exile', 'shock', 'sleep', 'episode', 'cruel', 'produce', 'impact', 'genius', 'enough', 'hobby', 'afford'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage exile shock sleep episode cruel produce impact genius enough |  

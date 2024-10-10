@@ -122,6 +122,18 @@ artefact
 mercy
 demise
 clever |  
+| bip_39_word_no_space_1 | lamp |  
+| bip_39_word_no_space_10 | lampshieldreduceoptiontenantartefactmercydemisecleverhedgehog |  
+| bip_39_word_no_space_11 | lampshieldreduceoptiontenantartefactmercydemisecleverhedgehogbronze |  
+| bip_39_word_no_space_12 | lampshieldreduceoptiontenantartefactmercydemisecleverhedgehogbronzeadjust |  
+| bip_39_word_no_space_2 | lampshield |  
+| bip_39_word_no_space_3 | lampshieldreduce |  
+| bip_39_word_no_space_4 | lampshieldreduceoption |  
+| bip_39_word_no_space_5 | lampshieldreduceoptiontenant |  
+| bip_39_word_no_space_6 | lampshieldreduceoptiontenantartefact |  
+| bip_39_word_no_space_7 | lampshieldreduceoptiontenantartefactmercy |  
+| bip_39_word_no_space_8 | lampshieldreduceoptiontenantartefactmercydemise |  
+| bip_39_word_no_space_9 | lampshieldreduceoptiontenantartefactmercydemiseclever |  
 | bip_39_word_space_0 | ['lamp', 'shield', 'reduce', 'option', 'tenant', 'artefact', 'mercy', 'demise', 'clever', 'hedgehog', 'bronze', 'adjust'] |  
 | bip_39_word_space_1 | lamp |  
 | bip_39_word_space_10 | lamp shield reduce option tenant artefact mercy demise clever hedgehog |  

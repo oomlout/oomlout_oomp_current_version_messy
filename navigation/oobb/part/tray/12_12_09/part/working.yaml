@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'swamp
   better
 
   degree'
+bip_39_word_no_space_1: swamp
+bip_39_word_no_space_10: swampunveildamagetissuebasecarstepbetterdegreetalk
+bip_39_word_no_space_11: swampunveildamagetissuebasecarstepbetterdegreetalkadmit
+bip_39_word_no_space_12: swampunveildamagetissuebasecarstepbetterdegreetalkadmitarmor
+bip_39_word_no_space_2: swampunveil
+bip_39_word_no_space_3: swampunveildamage
+bip_39_word_no_space_4: swampunveildamagetissue
+bip_39_word_no_space_5: swampunveildamagetissuebase
+bip_39_word_no_space_6: swampunveildamagetissuebasecar
+bip_39_word_no_space_7: swampunveildamagetissuebasecarstep
+bip_39_word_no_space_8: swampunveildamagetissuebasecarstepbetter
+bip_39_word_no_space_9: swampunveildamagetissuebasecarstepbetterdegree
 bip_39_word_space_0:
 - swamp
 - unveil

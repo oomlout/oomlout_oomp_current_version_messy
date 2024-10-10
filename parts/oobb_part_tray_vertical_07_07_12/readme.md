@@ -122,6 +122,18 @@ merge
 ordinary
 train
 produce |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonfostermaplelazyanothermergeordinarytrainproducemovie |  
+| bip_39_word_no_space_11 | lemonfostermaplelazyanothermergeordinarytrainproducemovieaverage |  
+| bip_39_word_no_space_12 | lemonfostermaplelazyanothermergeordinarytrainproducemovieaverageattitude |  
+| bip_39_word_no_space_2 | lemonfoster |  
+| bip_39_word_no_space_3 | lemonfostermaple |  
+| bip_39_word_no_space_4 | lemonfostermaplelazy |  
+| bip_39_word_no_space_5 | lemonfostermaplelazyanother |  
+| bip_39_word_no_space_6 | lemonfostermaplelazyanothermerge |  
+| bip_39_word_no_space_7 | lemonfostermaplelazyanothermergeordinary |  
+| bip_39_word_no_space_8 | lemonfostermaplelazyanothermergeordinarytrain |  
+| bip_39_word_no_space_9 | lemonfostermaplelazyanothermergeordinarytrainproduce |  
 | bip_39_word_space_0 | ['lemon', 'foster', 'maple', 'lazy', 'another', 'merge', 'ordinary', 'train', 'produce', 'movie', 'average', 'attitude'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon foster maple lazy another merge ordinary train produce movie |  

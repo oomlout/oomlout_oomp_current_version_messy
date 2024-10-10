@@ -122,6 +122,18 @@ agree
 pulse
 legal
 shallow |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairgrantketchupringsmartagreepulselegalshallowcage |  
+| bip_39_word_no_space_11 | chairgrantketchupringsmartagreepulselegalshallowcagemorning |  
+| bip_39_word_no_space_12 | chairgrantketchupringsmartagreepulselegalshallowcagemorningalcohol |  
+| bip_39_word_no_space_2 | chairgrant |  
+| bip_39_word_no_space_3 | chairgrantketchup |  
+| bip_39_word_no_space_4 | chairgrantketchupring |  
+| bip_39_word_no_space_5 | chairgrantketchupringsmart |  
+| bip_39_word_no_space_6 | chairgrantketchupringsmartagree |  
+| bip_39_word_no_space_7 | chairgrantketchupringsmartagreepulse |  
+| bip_39_word_no_space_8 | chairgrantketchupringsmartagreepulselegal |  
+| bip_39_word_no_space_9 | chairgrantketchupringsmartagreepulselegalshallow |  
 | bip_39_word_space_0 | ['chair', 'grant', 'ketchup', 'ring', 'smart', 'agree', 'pulse', 'legal', 'shallow', 'cage', 'morning', 'alcohol'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair grant ketchup ring smart agree pulse legal shallow cage |  

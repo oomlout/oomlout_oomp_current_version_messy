@@ -122,6 +122,18 @@ session
 car
 accident
 baby |  
+| bip_39_word_no_space_1 | execute |  
+| bip_39_word_no_space_10 | executebecomearenacitizengarbagesessioncaraccidentbabyevolve |  
+| bip_39_word_no_space_11 | executebecomearenacitizengarbagesessioncaraccidentbabyevolveshop |  
+| bip_39_word_no_space_12 | executebecomearenacitizengarbagesessioncaraccidentbabyevolveshopaugust |  
+| bip_39_word_no_space_2 | executebecome |  
+| bip_39_word_no_space_3 | executebecomearena |  
+| bip_39_word_no_space_4 | executebecomearenacitizen |  
+| bip_39_word_no_space_5 | executebecomearenacitizengarbage |  
+| bip_39_word_no_space_6 | executebecomearenacitizengarbagesession |  
+| bip_39_word_no_space_7 | executebecomearenacitizengarbagesessioncar |  
+| bip_39_word_no_space_8 | executebecomearenacitizengarbagesessioncaraccident |  
+| bip_39_word_no_space_9 | executebecomearenacitizengarbagesessioncaraccidentbaby |  
 | bip_39_word_space_0 | ['execute', 'become', 'arena', 'citizen', 'garbage', 'session', 'car', 'accident', 'baby', 'evolve', 'shop', 'august'] |  
 | bip_39_word_space_1 | execute |  
 | bip_39_word_space_10 | execute become arena citizen garbage session car accident baby evolve |  

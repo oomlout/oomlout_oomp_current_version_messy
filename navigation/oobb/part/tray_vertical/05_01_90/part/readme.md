@@ -122,6 +122,18 @@ dawn
 oak
 meat
 extend |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintlongdunegoddessgirldawnoakmeatextendfind |  
+| bip_39_word_no_space_11 | faintlongdunegoddessgirldawnoakmeatextendfindbrown |  
+| bip_39_word_no_space_12 | faintlongdunegoddessgirldawnoakmeatextendfindbrownafford |  
+| bip_39_word_no_space_2 | faintlong |  
+| bip_39_word_no_space_3 | faintlongdune |  
+| bip_39_word_no_space_4 | faintlongdunegoddess |  
+| bip_39_word_no_space_5 | faintlongdunegoddessgirl |  
+| bip_39_word_no_space_6 | faintlongdunegoddessgirldawn |  
+| bip_39_word_no_space_7 | faintlongdunegoddessgirldawnoak |  
+| bip_39_word_no_space_8 | faintlongdunegoddessgirldawnoakmeat |  
+| bip_39_word_no_space_9 | faintlongdunegoddessgirldawnoakmeatextend |  
 | bip_39_word_space_0 | ['faint', 'long', 'dune', 'goddess', 'girl', 'dawn', 'oak', 'meat', 'extend', 'find', 'brown', 'afford'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint long dune goddess girl dawn oak meat extend find |  

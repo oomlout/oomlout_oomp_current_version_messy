@@ -122,6 +122,18 @@ good
 welcome
 laugh
 error |  
+| bip_39_word_no_space_1 | ancient |  
+| bip_39_word_no_space_10 | ancientmetallakedelivercabbagegoodwelcomelaugherrorbanner |  
+| bip_39_word_no_space_11 | ancientmetallakedelivercabbagegoodwelcomelaugherrorbannerworth |  
+| bip_39_word_no_space_12 | ancientmetallakedelivercabbagegoodwelcomelaugherrorbannerworthafford |  
+| bip_39_word_no_space_2 | ancientmetal |  
+| bip_39_word_no_space_3 | ancientmetallake |  
+| bip_39_word_no_space_4 | ancientmetallakedeliver |  
+| bip_39_word_no_space_5 | ancientmetallakedelivercabbage |  
+| bip_39_word_no_space_6 | ancientmetallakedelivercabbagegood |  
+| bip_39_word_no_space_7 | ancientmetallakedelivercabbagegoodwelcome |  
+| bip_39_word_no_space_8 | ancientmetallakedelivercabbagegoodwelcomelaugh |  
+| bip_39_word_no_space_9 | ancientmetallakedelivercabbagegoodwelcomelaugherror |  
 | bip_39_word_space_0 | ['ancient', 'metal', 'lake', 'deliver', 'cabbage', 'good', 'welcome', 'laugh', 'error', 'banner', 'worth', 'afford'] |  
 | bip_39_word_space_1 | ancient |  
 | bip_39_word_space_10 | ancient metal lake deliver cabbage good welcome laugh error banner |  

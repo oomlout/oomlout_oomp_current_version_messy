@@ -122,6 +122,18 @@ van
 culture
 column
 dust |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | providecruelancientrocketbecomevanculturecolumndustsleep |  
+| bip_39_word_no_space_11 | providecruelancientrocketbecomevanculturecolumndustsleepown |  
+| bip_39_word_no_space_12 | providecruelancientrocketbecomevanculturecolumndustsleepownask |  
+| bip_39_word_no_space_2 | providecruel |  
+| bip_39_word_no_space_3 | providecruelancient |  
+| bip_39_word_no_space_4 | providecruelancientrocket |  
+| bip_39_word_no_space_5 | providecruelancientrocketbecome |  
+| bip_39_word_no_space_6 | providecruelancientrocketbecomevan |  
+| bip_39_word_no_space_7 | providecruelancientrocketbecomevanculture |  
+| bip_39_word_no_space_8 | providecruelancientrocketbecomevanculturecolumn |  
+| bip_39_word_no_space_9 | providecruelancientrocketbecomevanculturecolumndust |  
 | bip_39_word_space_0 | ['provide', 'cruel', 'ancient', 'rocket', 'become', 'van', 'culture', 'column', 'dust', 'sleep', 'own', 'ask'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide cruel ancient rocket become van culture column dust sleep |  

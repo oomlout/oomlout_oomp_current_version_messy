@@ -122,6 +122,18 @@ picnic
 orange
 oval
 ugly |  
+| bip_39_word_no_space_1 | setup |  
+| bip_39_word_no_space_10 | setupbookomitsimplecommonpicnicorangeovaluglyassault |  
+| bip_39_word_no_space_11 | setupbookomitsimplecommonpicnicorangeovaluglyassaulttable |  
+| bip_39_word_no_space_12 | setupbookomitsimplecommonpicnicorangeovaluglyassaulttableagain |  
+| bip_39_word_no_space_2 | setupbook |  
+| bip_39_word_no_space_3 | setupbookomit |  
+| bip_39_word_no_space_4 | setupbookomitsimple |  
+| bip_39_word_no_space_5 | setupbookomitsimplecommon |  
+| bip_39_word_no_space_6 | setupbookomitsimplecommonpicnic |  
+| bip_39_word_no_space_7 | setupbookomitsimplecommonpicnicorange |  
+| bip_39_word_no_space_8 | setupbookomitsimplecommonpicnicorangeoval |  
+| bip_39_word_no_space_9 | setupbookomitsimplecommonpicnicorangeovalugly |  
 | bip_39_word_space_0 | ['setup', 'book', 'omit', 'simple', 'common', 'picnic', 'orange', 'oval', 'ugly', 'assault', 'table', 'again'] |  
 | bip_39_word_space_1 | setup |  
 | bip_39_word_space_10 | setup book omit simple common picnic orange oval ugly assault |  

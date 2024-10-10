@@ -122,6 +122,18 @@ decrease
 caution
 foil
 spatial |  
+| bip_39_word_no_space_1 | fold |  
+| bip_39_word_no_space_10 | foldsayyardpermitexcessdecreasecautionfoilspatialmain |  
+| bip_39_word_no_space_11 | foldsayyardpermitexcessdecreasecautionfoilspatialmainversion |  
+| bip_39_word_no_space_12 | foldsayyardpermitexcessdecreasecautionfoilspatialmainversionaugust |  
+| bip_39_word_no_space_2 | foldsay |  
+| bip_39_word_no_space_3 | foldsayyard |  
+| bip_39_word_no_space_4 | foldsayyardpermit |  
+| bip_39_word_no_space_5 | foldsayyardpermitexcess |  
+| bip_39_word_no_space_6 | foldsayyardpermitexcessdecrease |  
+| bip_39_word_no_space_7 | foldsayyardpermitexcessdecreasecaution |  
+| bip_39_word_no_space_8 | foldsayyardpermitexcessdecreasecautionfoil |  
+| bip_39_word_no_space_9 | foldsayyardpermitexcessdecreasecautionfoilspatial |  
 | bip_39_word_space_0 | ['fold', 'say', 'yard', 'permit', 'excess', 'decrease', 'caution', 'foil', 'spatial', 'main', 'version', 'august'] |  
 | bip_39_word_space_1 | fold |  
 | bip_39_word_space_10 | fold say yard permit excess decrease caution foil spatial main |  

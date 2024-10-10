@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'canoe
   craft
 
   near'
+bip_39_word_no_space_1: canoe
+bip_39_word_no_space_10: canoeoutputrainliftpatientbestextracraftnearliar
+bip_39_word_no_space_11: canoeoutputrainliftpatientbestextracraftnearliaracross
+bip_39_word_no_space_12: canoeoutputrainliftpatientbestextracraftnearliaracrossactor
+bip_39_word_no_space_2: canoeoutput
+bip_39_word_no_space_3: canoeoutputrain
+bip_39_word_no_space_4: canoeoutputrainlift
+bip_39_word_no_space_5: canoeoutputrainliftpatient
+bip_39_word_no_space_6: canoeoutputrainliftpatientbest
+bip_39_word_no_space_7: canoeoutputrainliftpatientbestextra
+bip_39_word_no_space_8: canoeoutputrainliftpatientbestextracraft
+bip_39_word_no_space_9: canoeoutputrainliftpatientbestextracraftnear
 bip_39_word_space_0:
 - canoe
 - output

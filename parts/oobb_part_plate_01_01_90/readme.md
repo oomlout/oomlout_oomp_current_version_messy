@@ -122,6 +122,18 @@ animal
 that
 palace
 village |  
+| bip_39_word_no_space_1 | despair |  
+| bip_39_word_no_space_10 | despairsoundsponsorsmoothcliffanimalthatpalacevillagehedgehog |  
+| bip_39_word_no_space_11 | despairsoundsponsorsmoothcliffanimalthatpalacevillagehedgehogneutral |  
+| bip_39_word_no_space_12 | despairsoundsponsorsmoothcliffanimalthatpalacevillagehedgehogneutralacquire |  
+| bip_39_word_no_space_2 | despairsound |  
+| bip_39_word_no_space_3 | despairsoundsponsor |  
+| bip_39_word_no_space_4 | despairsoundsponsorsmooth |  
+| bip_39_word_no_space_5 | despairsoundsponsorsmoothcliff |  
+| bip_39_word_no_space_6 | despairsoundsponsorsmoothcliffanimal |  
+| bip_39_word_no_space_7 | despairsoundsponsorsmoothcliffanimalthat |  
+| bip_39_word_no_space_8 | despairsoundsponsorsmoothcliffanimalthatpalace |  
+| bip_39_word_no_space_9 | despairsoundsponsorsmoothcliffanimalthatpalacevillage |  
 | bip_39_word_space_0 | ['despair', 'sound', 'sponsor', 'smooth', 'cliff', 'animal', 'that', 'palace', 'village', 'hedgehog', 'neutral', 'acquire'] |  
 | bip_39_word_space_1 | despair |  
 | bip_39_word_space_10 | despair sound sponsor smooth cliff animal that palace village hedgehog |  

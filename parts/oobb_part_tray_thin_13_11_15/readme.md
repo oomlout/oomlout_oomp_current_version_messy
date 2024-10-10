@@ -122,6 +122,18 @@ task
 fame
 discover
 annual |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualmachinetrayfoldthoughttaskfamediscoverannualtwin |  
+| bip_39_word_no_space_11 | visualmachinetrayfoldthoughttaskfamediscoverannualtwinfollow |  
+| bip_39_word_no_space_12 | visualmachinetrayfoldthoughttaskfamediscoverannualtwinfollowafraid |  
+| bip_39_word_no_space_2 | visualmachine |  
+| bip_39_word_no_space_3 | visualmachinetray |  
+| bip_39_word_no_space_4 | visualmachinetrayfold |  
+| bip_39_word_no_space_5 | visualmachinetrayfoldthought |  
+| bip_39_word_no_space_6 | visualmachinetrayfoldthoughttask |  
+| bip_39_word_no_space_7 | visualmachinetrayfoldthoughttaskfame |  
+| bip_39_word_no_space_8 | visualmachinetrayfoldthoughttaskfamediscover |  
+| bip_39_word_no_space_9 | visualmachinetrayfoldthoughttaskfamediscoverannual |  
 | bip_39_word_space_0 | ['visual', 'machine', 'tray', 'fold', 'thought', 'task', 'fame', 'discover', 'annual', 'twin', 'follow', 'afraid'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual machine tray fold thought task fame discover annual twin |  

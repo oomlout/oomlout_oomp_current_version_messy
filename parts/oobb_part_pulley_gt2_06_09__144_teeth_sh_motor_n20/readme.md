@@ -122,6 +122,18 @@ silver
 cliff
 festival
 oxygen |  
+| bip_39_word_no_space_1 | alter |  
+| bip_39_word_no_space_10 | alterprintshedfarmbenefitsilverclifffestivaloxygenparent |  
+| bip_39_word_no_space_11 | alterprintshedfarmbenefitsilverclifffestivaloxygenparentaspect |  
+| bip_39_word_no_space_12 | alterprintshedfarmbenefitsilverclifffestivaloxygenparentaspectadmit |  
+| bip_39_word_no_space_2 | alterprint |  
+| bip_39_word_no_space_3 | alterprintshed |  
+| bip_39_word_no_space_4 | alterprintshedfarm |  
+| bip_39_word_no_space_5 | alterprintshedfarmbenefit |  
+| bip_39_word_no_space_6 | alterprintshedfarmbenefitsilver |  
+| bip_39_word_no_space_7 | alterprintshedfarmbenefitsilvercliff |  
+| bip_39_word_no_space_8 | alterprintshedfarmbenefitsilverclifffestival |  
+| bip_39_word_no_space_9 | alterprintshedfarmbenefitsilverclifffestivaloxygen |  
 | bip_39_word_space_0 | ['alter', 'print', 'shed', 'farm', 'benefit', 'silver', 'cliff', 'festival', 'oxygen', 'parent', 'aspect', 'admit'] |  
 | bip_39_word_space_1 | alter |  
 | bip_39_word_space_10 | alter print shed farm benefit silver cliff festival oxygen parent |  

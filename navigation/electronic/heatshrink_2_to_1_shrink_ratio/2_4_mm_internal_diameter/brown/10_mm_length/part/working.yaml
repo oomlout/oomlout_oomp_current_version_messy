@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'number
   warfare
 
   hero'
+bip_39_word_no_space_1: number
+bip_39_word_no_space_10: numberjokeapplestumbleoperadovefamewarfareherozoo
+bip_39_word_no_space_11: numberjokeapplestumbleoperadovefamewarfareherozoorubber
+bip_39_word_no_space_12: numberjokeapplestumbleoperadovefamewarfareherozoorubberarrow
+bip_39_word_no_space_2: numberjoke
+bip_39_word_no_space_3: numberjokeapple
+bip_39_word_no_space_4: numberjokeapplestumble
+bip_39_word_no_space_5: numberjokeapplestumbleopera
+bip_39_word_no_space_6: numberjokeapplestumbleoperadove
+bip_39_word_no_space_7: numberjokeapplestumbleoperadovefame
+bip_39_word_no_space_8: numberjokeapplestumbleoperadovefamewarfare
+bip_39_word_no_space_9: numberjokeapplestumbleoperadovefamewarfarehero
 bip_39_word_space_0:
 - number
 - joke

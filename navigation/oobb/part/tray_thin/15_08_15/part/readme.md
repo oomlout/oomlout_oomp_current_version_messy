@@ -122,6 +122,18 @@ dinosaur
 section
 memory
 kid |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peoplefitnesssnowlightgingerdinosaursectionmemorykidblue |  
+| bip_39_word_no_space_11 | peoplefitnesssnowlightgingerdinosaursectionmemorykidblueshrug |  
+| bip_39_word_no_space_12 | peoplefitnesssnowlightgingerdinosaursectionmemorykidblueshrugantenna |  
+| bip_39_word_no_space_2 | peoplefitness |  
+| bip_39_word_no_space_3 | peoplefitnesssnow |  
+| bip_39_word_no_space_4 | peoplefitnesssnowlight |  
+| bip_39_word_no_space_5 | peoplefitnesssnowlightginger |  
+| bip_39_word_no_space_6 | peoplefitnesssnowlightgingerdinosaur |  
+| bip_39_word_no_space_7 | peoplefitnesssnowlightgingerdinosaursection |  
+| bip_39_word_no_space_8 | peoplefitnesssnowlightgingerdinosaursectionmemory |  
+| bip_39_word_no_space_9 | peoplefitnesssnowlightgingerdinosaursectionmemorykid |  
 | bip_39_word_space_0 | ['people', 'fitness', 'snow', 'light', 'ginger', 'dinosaur', 'section', 'memory', 'kid', 'blue', 'shrug', 'antenna'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people fitness snow light ginger dinosaur section memory kid blue |  

@@ -122,6 +122,18 @@ charge
 video
 promote
 divert |  
+| bip_39_word_no_space_1 | annual |  
+| bip_39_word_no_space_10 | annualcollectdriftyellowbubblechargevideopromotedivertproof |  
+| bip_39_word_no_space_11 | annualcollectdriftyellowbubblechargevideopromotedivertproofthrow |  
+| bip_39_word_no_space_12 | annualcollectdriftyellowbubblechargevideopromotedivertproofthrowabsurd |  
+| bip_39_word_no_space_2 | annualcollect |  
+| bip_39_word_no_space_3 | annualcollectdrift |  
+| bip_39_word_no_space_4 | annualcollectdriftyellow |  
+| bip_39_word_no_space_5 | annualcollectdriftyellowbubble |  
+| bip_39_word_no_space_6 | annualcollectdriftyellowbubblecharge |  
+| bip_39_word_no_space_7 | annualcollectdriftyellowbubblechargevideo |  
+| bip_39_word_no_space_8 | annualcollectdriftyellowbubblechargevideopromote |  
+| bip_39_word_no_space_9 | annualcollectdriftyellowbubblechargevideopromotedivert |  
 | bip_39_word_space_0 | ['annual', 'collect', 'drift', 'yellow', 'bubble', 'charge', 'video', 'promote', 'divert', 'proof', 'throw', 'absurd'] |  
 | bip_39_word_space_1 | annual |  
 | bip_39_word_space_10 | annual collect drift yellow bubble charge video promote divert proof |  

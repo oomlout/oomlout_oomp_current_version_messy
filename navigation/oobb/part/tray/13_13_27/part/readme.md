@@ -122,6 +122,18 @@ midnight
 legal
 earn
 trust |  
+| bip_39_word_no_space_1 | piano |  
+| bip_39_word_no_space_10 | pianotopsuccesspunchcountrymidnightlegalearntrustundo |  
+| bip_39_word_no_space_11 | pianotopsuccesspunchcountrymidnightlegalearntrustundoexclude |  
+| bip_39_word_no_space_12 | pianotopsuccesspunchcountrymidnightlegalearntrustundoexcludealready |  
+| bip_39_word_no_space_2 | pianotop |  
+| bip_39_word_no_space_3 | pianotopsuccess |  
+| bip_39_word_no_space_4 | pianotopsuccesspunch |  
+| bip_39_word_no_space_5 | pianotopsuccesspunchcountry |  
+| bip_39_word_no_space_6 | pianotopsuccesspunchcountrymidnight |  
+| bip_39_word_no_space_7 | pianotopsuccesspunchcountrymidnightlegal |  
+| bip_39_word_no_space_8 | pianotopsuccesspunchcountrymidnightlegalearn |  
+| bip_39_word_no_space_9 | pianotopsuccesspunchcountrymidnightlegalearntrust |  
 | bip_39_word_space_0 | ['piano', 'top', 'success', 'punch', 'country', 'midnight', 'legal', 'earn', 'trust', 'undo', 'exclude', 'already'] |  
 | bip_39_word_space_1 | piano |  
 | bip_39_word_space_10 | piano top success punch country midnight legal earn trust undo |  

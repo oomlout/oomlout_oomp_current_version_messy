@@ -122,6 +122,18 @@ present
 flavor
 forest
 wish |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroombuildwintersauceironpresentflavorforestwishlive |  
+| bip_39_word_no_space_11 | mushroombuildwintersauceironpresentflavorforestwishlivecrunch |  
+| bip_39_word_no_space_12 | mushroombuildwintersauceironpresentflavorforestwishlivecrunchaerobic |  
+| bip_39_word_no_space_2 | mushroombuild |  
+| bip_39_word_no_space_3 | mushroombuildwinter |  
+| bip_39_word_no_space_4 | mushroombuildwintersauce |  
+| bip_39_word_no_space_5 | mushroombuildwintersauceiron |  
+| bip_39_word_no_space_6 | mushroombuildwintersauceironpresent |  
+| bip_39_word_no_space_7 | mushroombuildwintersauceironpresentflavor |  
+| bip_39_word_no_space_8 | mushroombuildwintersauceironpresentflavorforest |  
+| bip_39_word_no_space_9 | mushroombuildwintersauceironpresentflavorforestwish |  
 | bip_39_word_space_0 | ['mushroom', 'build', 'winter', 'sauce', 'iron', 'present', 'flavor', 'forest', 'wish', 'live', 'crunch', 'aerobic'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom build winter sauce iron present flavor forest wish live |  

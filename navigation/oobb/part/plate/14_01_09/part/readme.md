@@ -122,6 +122,18 @@ casino
 aunt
 myth
 sibling |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitobargainchildissueclothcasinoauntmythsiblingbetray |  
+| bip_39_word_no_space_11 | mosquitobargainchildissueclothcasinoauntmythsiblingbetraymanage |  
+| bip_39_word_no_space_12 | mosquitobargainchildissueclothcasinoauntmythsiblingbetraymanagealien |  
+| bip_39_word_no_space_2 | mosquitobargain |  
+| bip_39_word_no_space_3 | mosquitobargainchild |  
+| bip_39_word_no_space_4 | mosquitobargainchildissue |  
+| bip_39_word_no_space_5 | mosquitobargainchildissuecloth |  
+| bip_39_word_no_space_6 | mosquitobargainchildissueclothcasino |  
+| bip_39_word_no_space_7 | mosquitobargainchildissueclothcasinoaunt |  
+| bip_39_word_no_space_8 | mosquitobargainchildissueclothcasinoauntmyth |  
+| bip_39_word_no_space_9 | mosquitobargainchildissueclothcasinoauntmythsibling |  
 | bip_39_word_space_0 | ['mosquito', 'bargain', 'child', 'issue', 'cloth', 'casino', 'aunt', 'myth', 'sibling', 'betray', 'manage', 'alien'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito bargain child issue cloth casino aunt myth sibling betray |  

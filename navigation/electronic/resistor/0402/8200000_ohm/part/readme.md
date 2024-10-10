@@ -122,6 +122,18 @@ butter
 proud
 emerge
 chef |  
+| bip_39_word_no_space_1 | trick |  
+| bip_39_word_no_space_10 | tricknoteunusualpublicfancybutterproudemergechefviolin |  
+| bip_39_word_no_space_11 | tricknoteunusualpublicfancybutterproudemergechefviolinrecall |  
+| bip_39_word_no_space_12 | tricknoteunusualpublicfancybutterproudemergechefviolinrecallarmed |  
+| bip_39_word_no_space_2 | tricknote |  
+| bip_39_word_no_space_3 | tricknoteunusual |  
+| bip_39_word_no_space_4 | tricknoteunusualpublic |  
+| bip_39_word_no_space_5 | tricknoteunusualpublicfancy |  
+| bip_39_word_no_space_6 | tricknoteunusualpublicfancybutter |  
+| bip_39_word_no_space_7 | tricknoteunusualpublicfancybutterproud |  
+| bip_39_word_no_space_8 | tricknoteunusualpublicfancybutterproudemerge |  
+| bip_39_word_no_space_9 | tricknoteunusualpublicfancybutterproudemergechef |  
 | bip_39_word_space_0 | ['trick', 'note', 'unusual', 'public', 'fancy', 'butter', 'proud', 'emerge', 'chef', 'violin', 'recall', 'armed'] |  
 | bip_39_word_space_1 | trick |  
 | bip_39_word_space_10 | trick note unusual public fancy butter proud emerge chef violin |  

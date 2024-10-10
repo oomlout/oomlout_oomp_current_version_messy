@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'rough
   merry
 
   erode'
+bip_39_word_no_space_1: rough
+bip_39_word_no_space_10: roughevidencecoachskiforgetuniquegladmerryerodelady
+bip_39_word_no_space_11: roughevidencecoachskiforgetuniquegladmerryerodeladycave
+bip_39_word_no_space_12: roughevidencecoachskiforgetuniquegladmerryerodeladycaveafford
+bip_39_word_no_space_2: roughevidence
+bip_39_word_no_space_3: roughevidencecoach
+bip_39_word_no_space_4: roughevidencecoachski
+bip_39_word_no_space_5: roughevidencecoachskiforget
+bip_39_word_no_space_6: roughevidencecoachskiforgetunique
+bip_39_word_no_space_7: roughevidencecoachskiforgetuniqueglad
+bip_39_word_no_space_8: roughevidencecoachskiforgetuniquegladmerry
+bip_39_word_no_space_9: roughevidencecoachskiforgetuniquegladmerryerode
 bip_39_word_space_0:
 - rough
 - evidence

@@ -122,6 +122,18 @@ pulp
 blossom
 glance
 rebuild |  
+| bip_39_word_no_space_1 | junk |  
+| bip_39_word_no_space_10 | junkaboutshadowfeesectionpulpblossomglancerebuildwealth |  
+| bip_39_word_no_space_11 | junkaboutshadowfeesectionpulpblossomglancerebuildwealthstand |  
+| bip_39_word_no_space_12 | junkaboutshadowfeesectionpulpblossomglancerebuildwealthstandattract |  
+| bip_39_word_no_space_2 | junkabout |  
+| bip_39_word_no_space_3 | junkaboutshadow |  
+| bip_39_word_no_space_4 | junkaboutshadowfee |  
+| bip_39_word_no_space_5 | junkaboutshadowfeesection |  
+| bip_39_word_no_space_6 | junkaboutshadowfeesectionpulp |  
+| bip_39_word_no_space_7 | junkaboutshadowfeesectionpulpblossom |  
+| bip_39_word_no_space_8 | junkaboutshadowfeesectionpulpblossomglance |  
+| bip_39_word_no_space_9 | junkaboutshadowfeesectionpulpblossomglancerebuild |  
 | bip_39_word_space_0 | ['junk', 'about', 'shadow', 'fee', 'section', 'pulp', 'blossom', 'glance', 'rebuild', 'wealth', 'stand', 'attract'] |  
 | bip_39_word_space_1 | junk |  
 | bip_39_word_space_10 | junk about shadow fee section pulp blossom glance rebuild wealth |  

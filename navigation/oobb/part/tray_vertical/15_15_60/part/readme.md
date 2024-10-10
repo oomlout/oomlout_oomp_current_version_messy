@@ -122,6 +122,18 @@ pizza
 illness
 swim
 better |  
+| bip_39_word_no_space_1 | shoot |  
+| bip_39_word_no_space_10 | shootshuffleeffortallowuntilpizzaillnessswimbettercancel |  
+| bip_39_word_no_space_11 | shootshuffleeffortallowuntilpizzaillnessswimbettercancelgrit |  
+| bip_39_word_no_space_12 | shootshuffleeffortallowuntilpizzaillnessswimbettercancelgritaffair |  
+| bip_39_word_no_space_2 | shootshuffle |  
+| bip_39_word_no_space_3 | shootshuffleeffort |  
+| bip_39_word_no_space_4 | shootshuffleeffortallow |  
+| bip_39_word_no_space_5 | shootshuffleeffortallowuntil |  
+| bip_39_word_no_space_6 | shootshuffleeffortallowuntilpizza |  
+| bip_39_word_no_space_7 | shootshuffleeffortallowuntilpizzaillness |  
+| bip_39_word_no_space_8 | shootshuffleeffortallowuntilpizzaillnessswim |  
+| bip_39_word_no_space_9 | shootshuffleeffortallowuntilpizzaillnessswimbetter |  
 | bip_39_word_space_0 | ['shoot', 'shuffle', 'effort', 'allow', 'until', 'pizza', 'illness', 'swim', 'better', 'cancel', 'grit', 'affair'] |  
 | bip_39_word_space_1 | shoot |  
 | bip_39_word_space_10 | shoot shuffle effort allow until pizza illness swim better cancel |  

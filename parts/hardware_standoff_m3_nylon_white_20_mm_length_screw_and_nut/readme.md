@@ -122,6 +122,18 @@ great
 mobile
 mom
 rose |  
+| bip_39_word_no_space_1 | train |  
+| bip_39_word_no_space_10 | trainpianoholdawfulgracegreatmobilemomrosecry |  
+| bip_39_word_no_space_11 | trainpianoholdawfulgracegreatmobilemomrosecryginger |  
+| bip_39_word_no_space_12 | trainpianoholdawfulgracegreatmobilemomrosecrygingerarmed |  
+| bip_39_word_no_space_2 | trainpiano |  
+| bip_39_word_no_space_3 | trainpianohold |  
+| bip_39_word_no_space_4 | trainpianoholdawful |  
+| bip_39_word_no_space_5 | trainpianoholdawfulgrace |  
+| bip_39_word_no_space_6 | trainpianoholdawfulgracegreat |  
+| bip_39_word_no_space_7 | trainpianoholdawfulgracegreatmobile |  
+| bip_39_word_no_space_8 | trainpianoholdawfulgracegreatmobilemom |  
+| bip_39_word_no_space_9 | trainpianoholdawfulgracegreatmobilemomrose |  
 | bip_39_word_space_0 | ['train', 'piano', 'hold', 'awful', 'grace', 'great', 'mobile', 'mom', 'rose', 'cry', 'ginger', 'armed'] |  
 | bip_39_word_space_1 | train |  
 | bip_39_word_space_10 | train piano hold awful grace great mobile mom rose cry |  

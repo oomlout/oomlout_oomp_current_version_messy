@@ -122,6 +122,18 @@ clever
 project
 empower
 neglect |  
+| bip_39_word_no_space_1 | sign |  
+| bip_39_word_no_space_10 | signtorchbarrelbeyondketchupcleverprojectempowerneglectright |  
+| bip_39_word_no_space_11 | signtorchbarrelbeyondketchupcleverprojectempowerneglectrighttwo |  
+| bip_39_word_no_space_12 | signtorchbarrelbeyondketchupcleverprojectempowerneglectrighttwoattend |  
+| bip_39_word_no_space_2 | signtorch |  
+| bip_39_word_no_space_3 | signtorchbarrel |  
+| bip_39_word_no_space_4 | signtorchbarrelbeyond |  
+| bip_39_word_no_space_5 | signtorchbarrelbeyondketchup |  
+| bip_39_word_no_space_6 | signtorchbarrelbeyondketchupclever |  
+| bip_39_word_no_space_7 | signtorchbarrelbeyondketchupcleverproject |  
+| bip_39_word_no_space_8 | signtorchbarrelbeyondketchupcleverprojectempower |  
+| bip_39_word_no_space_9 | signtorchbarrelbeyondketchupcleverprojectempowerneglect |  
 | bip_39_word_space_0 | ['sign', 'torch', 'barrel', 'beyond', 'ketchup', 'clever', 'project', 'empower', 'neglect', 'right', 'two', 'attend'] |  
 | bip_39_word_space_1 | sign |  
 | bip_39_word_space_10 | sign torch barrel beyond ketchup clever project empower neglect right |  

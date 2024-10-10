@@ -122,6 +122,18 @@ front
 album
 rifle
 gospel |  
+| bip_39_word_no_space_1 | box |  
+| bip_39_word_no_space_10 | boxpridecarpetoilcrumblefrontalbumriflegospelwing |  
+| bip_39_word_no_space_11 | boxpridecarpetoilcrumblefrontalbumriflegospelwingtoddler |  
+| bip_39_word_no_space_12 | boxpridecarpetoilcrumblefrontalbumriflegospelwingtoddlerability |  
+| bip_39_word_no_space_2 | boxpride |  
+| bip_39_word_no_space_3 | boxpridecarpet |  
+| bip_39_word_no_space_4 | boxpridecarpetoil |  
+| bip_39_word_no_space_5 | boxpridecarpetoilcrumble |  
+| bip_39_word_no_space_6 | boxpridecarpetoilcrumblefront |  
+| bip_39_word_no_space_7 | boxpridecarpetoilcrumblefrontalbum |  
+| bip_39_word_no_space_8 | boxpridecarpetoilcrumblefrontalbumrifle |  
+| bip_39_word_no_space_9 | boxpridecarpetoilcrumblefrontalbumriflegospel |  
 | bip_39_word_space_0 | ['box', 'pride', 'carpet', 'oil', 'crumble', 'front', 'album', 'rifle', 'gospel', 'wing', 'toddler', 'ability'] |  
 | bip_39_word_space_1 | box |  
 | bip_39_word_space_10 | box pride carpet oil crumble front album rifle gospel wing |  

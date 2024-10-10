@@ -122,6 +122,18 @@ public
 prize
 problem
 exit |  
+| bip_39_word_no_space_1 | rate |  
+| bip_39_word_no_space_10 | ratepersonenforceflatimpactpublicprizeproblemexitprimary |  
+| bip_39_word_no_space_11 | ratepersonenforceflatimpactpublicprizeproblemexitprimarynaive |  
+| bip_39_word_no_space_12 | ratepersonenforceflatimpactpublicprizeproblemexitprimarynaiveanimal |  
+| bip_39_word_no_space_2 | rateperson |  
+| bip_39_word_no_space_3 | ratepersonenforce |  
+| bip_39_word_no_space_4 | ratepersonenforceflat |  
+| bip_39_word_no_space_5 | ratepersonenforceflatimpact |  
+| bip_39_word_no_space_6 | ratepersonenforceflatimpactpublic |  
+| bip_39_word_no_space_7 | ratepersonenforceflatimpactpublicprize |  
+| bip_39_word_no_space_8 | ratepersonenforceflatimpactpublicprizeproblem |  
+| bip_39_word_no_space_9 | ratepersonenforceflatimpactpublicprizeproblemexit |  
 | bip_39_word_space_0 | ['rate', 'person', 'enforce', 'flat', 'impact', 'public', 'prize', 'problem', 'exit', 'primary', 'naive', 'animal'] |  
 | bip_39_word_space_1 | rate |  
 | bip_39_word_space_10 | rate person enforce flat impact public prize problem exit primary |  

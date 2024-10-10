@@ -122,6 +122,18 @@ smile
 useful
 few
 hollow |  
+| bip_39_word_no_space_1 | royal |  
+| bip_39_word_no_space_10 | royalaugustexpirekeephobbysmileusefulfewhollowweasel |  
+| bip_39_word_no_space_11 | royalaugustexpirekeephobbysmileusefulfewhollowweaselscrap |  
+| bip_39_word_no_space_12 | royalaugustexpirekeephobbysmileusefulfewhollowweaselscrapaccuse |  
+| bip_39_word_no_space_2 | royalaugust |  
+| bip_39_word_no_space_3 | royalaugustexpire |  
+| bip_39_word_no_space_4 | royalaugustexpirekeep |  
+| bip_39_word_no_space_5 | royalaugustexpirekeephobby |  
+| bip_39_word_no_space_6 | royalaugustexpirekeephobbysmile |  
+| bip_39_word_no_space_7 | royalaugustexpirekeephobbysmileuseful |  
+| bip_39_word_no_space_8 | royalaugustexpirekeephobbysmileusefulfew |  
+| bip_39_word_no_space_9 | royalaugustexpirekeephobbysmileusefulfewhollow |  
 | bip_39_word_space_0 | ['royal', 'august', 'expire', 'keep', 'hobby', 'smile', 'useful', 'few', 'hollow', 'weasel', 'scrap', 'accuse'] |  
 | bip_39_word_space_1 | royal |  
 | bip_39_word_space_10 | royal august expire keep hobby smile useful few hollow weasel |  

@@ -122,6 +122,18 @@ awesome
 stamp
 vanish
 essence |  
+| bip_39_word_no_space_1 | hen |  
+| bip_39_word_no_space_10 | henawkwardventuregameslushawesomestampvanishessenceugly |  
+| bip_39_word_no_space_11 | henawkwardventuregameslushawesomestampvanishessenceuglycinnamon |  
+| bip_39_word_no_space_12 | henawkwardventuregameslushawesomestampvanishessenceuglycinnamonalbum |  
+| bip_39_word_no_space_2 | henawkward |  
+| bip_39_word_no_space_3 | henawkwardventure |  
+| bip_39_word_no_space_4 | henawkwardventuregame |  
+| bip_39_word_no_space_5 | henawkwardventuregameslush |  
+| bip_39_word_no_space_6 | henawkwardventuregameslushawesome |  
+| bip_39_word_no_space_7 | henawkwardventuregameslushawesomestamp |  
+| bip_39_word_no_space_8 | henawkwardventuregameslushawesomestampvanish |  
+| bip_39_word_no_space_9 | henawkwardventuregameslushawesomestampvanishessence |  
 | bip_39_word_space_0 | ['hen', 'awkward', 'venture', 'game', 'slush', 'awesome', 'stamp', 'vanish', 'essence', 'ugly', 'cinnamon', 'album'] |  
 | bip_39_word_space_1 | hen |  
 | bip_39_word_space_10 | hen awkward venture game slush awesome stamp vanish essence ugly |  

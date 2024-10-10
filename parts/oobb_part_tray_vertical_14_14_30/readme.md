@@ -122,6 +122,18 @@ feature
 pulp
 accuse
 churn |  
+| bip_39_word_no_space_1 | media |  
+| bip_39_word_no_space_10 | mediachoosebodydrivequotefeaturepulpaccusechurnmonkey |  
+| bip_39_word_no_space_11 | mediachoosebodydrivequotefeaturepulpaccusechurnmonkeycaptain |  
+| bip_39_word_no_space_12 | mediachoosebodydrivequotefeaturepulpaccusechurnmonkeycaptainalert |  
+| bip_39_word_no_space_2 | mediachoose |  
+| bip_39_word_no_space_3 | mediachoosebody |  
+| bip_39_word_no_space_4 | mediachoosebodydrive |  
+| bip_39_word_no_space_5 | mediachoosebodydrivequote |  
+| bip_39_word_no_space_6 | mediachoosebodydrivequotefeature |  
+| bip_39_word_no_space_7 | mediachoosebodydrivequotefeaturepulp |  
+| bip_39_word_no_space_8 | mediachoosebodydrivequotefeaturepulpaccuse |  
+| bip_39_word_no_space_9 | mediachoosebodydrivequotefeaturepulpaccusechurn |  
 | bip_39_word_space_0 | ['media', 'choose', 'body', 'drive', 'quote', 'feature', 'pulp', 'accuse', 'churn', 'monkey', 'captain', 'alert'] |  
 | bip_39_word_space_1 | media |  
 | bip_39_word_space_10 | media choose body drive quote feature pulp accuse churn monkey |  

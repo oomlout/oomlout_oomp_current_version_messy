@@ -122,6 +122,18 @@ hub
 slot
 turtle
 total |  
+| bip_39_word_no_space_1 | have |  
+| bip_39_word_no_space_10 | havepuzzleinvesttodaymixedhubslotturtletotalscare |  
+| bip_39_word_no_space_11 | havepuzzleinvesttodaymixedhubslotturtletotalscarecandy |  
+| bip_39_word_no_space_12 | havepuzzleinvesttodaymixedhubslotturtletotalscarecandyabsent |  
+| bip_39_word_no_space_2 | havepuzzle |  
+| bip_39_word_no_space_3 | havepuzzleinvest |  
+| bip_39_word_no_space_4 | havepuzzleinvesttoday |  
+| bip_39_word_no_space_5 | havepuzzleinvesttodaymixed |  
+| bip_39_word_no_space_6 | havepuzzleinvesttodaymixedhub |  
+| bip_39_word_no_space_7 | havepuzzleinvesttodaymixedhubslot |  
+| bip_39_word_no_space_8 | havepuzzleinvesttodaymixedhubslotturtle |  
+| bip_39_word_no_space_9 | havepuzzleinvesttodaymixedhubslotturtletotal |  
 | bip_39_word_space_0 | ['have', 'puzzle', 'invest', 'today', 'mixed', 'hub', 'slot', 'turtle', 'total', 'scare', 'candy', 'absent'] |  
 | bip_39_word_space_1 | have |  
 | bip_39_word_space_10 | have puzzle invest today mixed hub slot turtle total scare |  

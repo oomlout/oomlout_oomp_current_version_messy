@@ -122,6 +122,18 @@ nominee
 embark
 surge
 bacon |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltpeoplebecausecomicaveragenomineeembarksurgebaconquestion |  
+| bip_39_word_no_space_11 | beltpeoplebecausecomicaveragenomineeembarksurgebaconquestionswim |  
+| bip_39_word_no_space_12 | beltpeoplebecausecomicaveragenomineeembarksurgebaconquestionswimarctic |  
+| bip_39_word_no_space_2 | beltpeople |  
+| bip_39_word_no_space_3 | beltpeoplebecause |  
+| bip_39_word_no_space_4 | beltpeoplebecausecomic |  
+| bip_39_word_no_space_5 | beltpeoplebecausecomicaverage |  
+| bip_39_word_no_space_6 | beltpeoplebecausecomicaveragenominee |  
+| bip_39_word_no_space_7 | beltpeoplebecausecomicaveragenomineeembark |  
+| bip_39_word_no_space_8 | beltpeoplebecausecomicaveragenomineeembarksurge |  
+| bip_39_word_no_space_9 | beltpeoplebecausecomicaveragenomineeembarksurgebacon |  
 | bip_39_word_space_0 | ['belt', 'people', 'because', 'comic', 'average', 'nominee', 'embark', 'surge', 'bacon', 'question', 'swim', 'arctic'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt people because comic average nominee embark surge bacon question |  

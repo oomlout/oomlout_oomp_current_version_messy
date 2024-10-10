@@ -122,6 +122,18 @@ butter
 force
 shoe
 list |  
+| bip_39_word_no_space_1 | divert |  
+| bip_39_word_no_space_10 | divertaddictchoosecountryorchardbutterforceshoelistowner |  
+| bip_39_word_no_space_11 | divertaddictchoosecountryorchardbutterforceshoelistownerdiffer |  
+| bip_39_word_no_space_12 | divertaddictchoosecountryorchardbutterforceshoelistownerdifferabove |  
+| bip_39_word_no_space_2 | divertaddict |  
+| bip_39_word_no_space_3 | divertaddictchoose |  
+| bip_39_word_no_space_4 | divertaddictchoosecountry |  
+| bip_39_word_no_space_5 | divertaddictchoosecountryorchard |  
+| bip_39_word_no_space_6 | divertaddictchoosecountryorchardbutter |  
+| bip_39_word_no_space_7 | divertaddictchoosecountryorchardbutterforce |  
+| bip_39_word_no_space_8 | divertaddictchoosecountryorchardbutterforceshoe |  
+| bip_39_word_no_space_9 | divertaddictchoosecountryorchardbutterforceshoelist |  
 | bip_39_word_space_0 | ['divert', 'addict', 'choose', 'country', 'orchard', 'butter', 'force', 'shoe', 'list', 'owner', 'differ', 'above'] |  
 | bip_39_word_space_1 | divert |  
 | bip_39_word_space_10 | divert addict choose country orchard butter force shoe list owner |  

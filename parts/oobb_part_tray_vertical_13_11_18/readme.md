@@ -122,6 +122,18 @@ kind
 proof
 choice
 screen |  
+| bip_39_word_no_space_1 | bean |  
+| bip_39_word_no_space_10 | beancountryfleejewelhelmetkindproofchoicescreenmind |  
+| bip_39_word_no_space_11 | beancountryfleejewelhelmetkindproofchoicescreenmindenough |  
+| bip_39_word_no_space_12 | beancountryfleejewelhelmetkindproofchoicescreenmindenoughask |  
+| bip_39_word_no_space_2 | beancountry |  
+| bip_39_word_no_space_3 | beancountryflee |  
+| bip_39_word_no_space_4 | beancountryfleejewel |  
+| bip_39_word_no_space_5 | beancountryfleejewelhelmet |  
+| bip_39_word_no_space_6 | beancountryfleejewelhelmetkind |  
+| bip_39_word_no_space_7 | beancountryfleejewelhelmetkindproof |  
+| bip_39_word_no_space_8 | beancountryfleejewelhelmetkindproofchoice |  
+| bip_39_word_no_space_9 | beancountryfleejewelhelmetkindproofchoicescreen |  
 | bip_39_word_space_0 | ['bean', 'country', 'flee', 'jewel', 'helmet', 'kind', 'proof', 'choice', 'screen', 'mind', 'enough', 'ask'] |  
 | bip_39_word_space_1 | bean |  
 | bip_39_word_space_10 | bean country flee jewel helmet kind proof choice screen mind |  

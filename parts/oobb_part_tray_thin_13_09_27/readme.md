@@ -122,6 +122,18 @@ distance
 crane
 major
 lava |  
+| bip_39_word_no_space_1 | edge |  
+| bip_39_word_no_space_10 | edgeiconmonsterbargainlibertydistancecranemajorlavasun |  
+| bip_39_word_no_space_11 | edgeiconmonsterbargainlibertydistancecranemajorlavasunretreat |  
+| bip_39_word_no_space_12 | edgeiconmonsterbargainlibertydistancecranemajorlavasunretreatattack |  
+| bip_39_word_no_space_2 | edgeicon |  
+| bip_39_word_no_space_3 | edgeiconmonster |  
+| bip_39_word_no_space_4 | edgeiconmonsterbargain |  
+| bip_39_word_no_space_5 | edgeiconmonsterbargainliberty |  
+| bip_39_word_no_space_6 | edgeiconmonsterbargainlibertydistance |  
+| bip_39_word_no_space_7 | edgeiconmonsterbargainlibertydistancecrane |  
+| bip_39_word_no_space_8 | edgeiconmonsterbargainlibertydistancecranemajor |  
+| bip_39_word_no_space_9 | edgeiconmonsterbargainlibertydistancecranemajorlava |  
 | bip_39_word_space_0 | ['edge', 'icon', 'monster', 'bargain', 'liberty', 'distance', 'crane', 'major', 'lava', 'sun', 'retreat', 'attack'] |  
 | bip_39_word_space_1 | edge |  
 | bip_39_word_space_10 | edge icon monster bargain liberty distance crane major lava sun |  

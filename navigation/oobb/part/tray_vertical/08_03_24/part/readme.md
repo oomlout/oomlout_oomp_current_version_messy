@@ -122,6 +122,18 @@ fiction
 sauce
 foil
 world |  
+| bip_39_word_no_space_1 | endorse |  
+| bip_39_word_no_space_10 | endorsebudgetriflelunarbalconyfictionsaucefoilworldauto |  
+| bip_39_word_no_space_11 | endorsebudgetriflelunarbalconyfictionsaucefoilworldautohorse |  
+| bip_39_word_no_space_12 | endorsebudgetriflelunarbalconyfictionsaucefoilworldautohorseaugust |  
+| bip_39_word_no_space_2 | endorsebudget |  
+| bip_39_word_no_space_3 | endorsebudgetrifle |  
+| bip_39_word_no_space_4 | endorsebudgetriflelunar |  
+| bip_39_word_no_space_5 | endorsebudgetriflelunarbalcony |  
+| bip_39_word_no_space_6 | endorsebudgetriflelunarbalconyfiction |  
+| bip_39_word_no_space_7 | endorsebudgetriflelunarbalconyfictionsauce |  
+| bip_39_word_no_space_8 | endorsebudgetriflelunarbalconyfictionsaucefoil |  
+| bip_39_word_no_space_9 | endorsebudgetriflelunarbalconyfictionsaucefoilworld |  
 | bip_39_word_space_0 | ['endorse', 'budget', 'rifle', 'lunar', 'balcony', 'fiction', 'sauce', 'foil', 'world', 'auto', 'horse', 'august'] |  
 | bip_39_word_space_1 | endorse |  
 | bip_39_word_space_10 | endorse budget rifle lunar balcony fiction sauce foil world auto |  

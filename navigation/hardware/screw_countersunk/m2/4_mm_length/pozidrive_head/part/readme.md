@@ -122,6 +122,18 @@ employ
 notice
 that
 spy |  
+| bip_39_word_no_space_1 | moral |  
+| bip_39_word_no_space_10 | moralcottondiscoverhalfseaemploynoticethatspylight |  
+| bip_39_word_no_space_11 | moralcottondiscoverhalfseaemploynoticethatspylightillegal |  
+| bip_39_word_no_space_12 | moralcottondiscoverhalfseaemploynoticethatspylightillegalalarm |  
+| bip_39_word_no_space_2 | moralcotton |  
+| bip_39_word_no_space_3 | moralcottondiscover |  
+| bip_39_word_no_space_4 | moralcottondiscoverhalf |  
+| bip_39_word_no_space_5 | moralcottondiscoverhalfsea |  
+| bip_39_word_no_space_6 | moralcottondiscoverhalfseaemploy |  
+| bip_39_word_no_space_7 | moralcottondiscoverhalfseaemploynotice |  
+| bip_39_word_no_space_8 | moralcottondiscoverhalfseaemploynoticethat |  
+| bip_39_word_no_space_9 | moralcottondiscoverhalfseaemploynoticethatspy |  
 | bip_39_word_space_0 | ['moral', 'cotton', 'discover', 'half', 'sea', 'employ', 'notice', 'that', 'spy', 'light', 'illegal', 'alarm'] |  
 | bip_39_word_space_1 | moral |  
 | bip_39_word_space_10 | moral cotton discover half sea employ notice that spy light |  

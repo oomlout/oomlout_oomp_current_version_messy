@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'story
   thank
 
   name'
+bip_39_word_no_space_1: story
+bip_39_word_no_space_10: storyspiceluxurystorylionbikeanchorthanknamedirect
+bip_39_word_no_space_11: storyspiceluxurystorylionbikeanchorthanknamedirectvanish
+bip_39_word_no_space_12: storyspiceluxurystorylionbikeanchorthanknamedirectvanishavocado
+bip_39_word_no_space_2: storyspice
+bip_39_word_no_space_3: storyspiceluxury
+bip_39_word_no_space_4: storyspiceluxurystory
+bip_39_word_no_space_5: storyspiceluxurystorylion
+bip_39_word_no_space_6: storyspiceluxurystorylionbike
+bip_39_word_no_space_7: storyspiceluxurystorylionbikeanchor
+bip_39_word_no_space_8: storyspiceluxurystorylionbikeanchorthank
+bip_39_word_no_space_9: storyspiceluxurystorylionbikeanchorthankname
 bip_39_word_space_0:
 - story
 - spice

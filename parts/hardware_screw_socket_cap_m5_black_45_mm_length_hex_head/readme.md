@@ -122,6 +122,18 @@ used
 ship
 bundle
 wife |  
+| bip_39_word_no_space_1 | leave |  
+| bip_39_word_no_space_10 | leaveessaycakemountainthingusedshipbundlewifebecause |  
+| bip_39_word_no_space_11 | leaveessaycakemountainthingusedshipbundlewifebecauseretire |  
+| bip_39_word_no_space_12 | leaveessaycakemountainthingusedshipbundlewifebecauseretireaunt |  
+| bip_39_word_no_space_2 | leaveessay |  
+| bip_39_word_no_space_3 | leaveessaycake |  
+| bip_39_word_no_space_4 | leaveessaycakemountain |  
+| bip_39_word_no_space_5 | leaveessaycakemountainthing |  
+| bip_39_word_no_space_6 | leaveessaycakemountainthingused |  
+| bip_39_word_no_space_7 | leaveessaycakemountainthingusedship |  
+| bip_39_word_no_space_8 | leaveessaycakemountainthingusedshipbundle |  
+| bip_39_word_no_space_9 | leaveessaycakemountainthingusedshipbundlewife |  
 | bip_39_word_space_0 | ['leave', 'essay', 'cake', 'mountain', 'thing', 'used', 'ship', 'bundle', 'wife', 'because', 'retire', 'aunt'] |  
 | bip_39_word_space_1 | leave |  
 | bip_39_word_space_10 | leave essay cake mountain thing used ship bundle wife because |  

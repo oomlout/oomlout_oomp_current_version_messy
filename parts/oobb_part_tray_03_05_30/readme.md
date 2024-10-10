@@ -122,6 +122,18 @@ snap
 verify
 size
 blast |  
+| bip_39_word_no_space_1 | company |  
+| bip_39_word_no_space_10 | companybudgetacquirelionmeltsnapverifysizeblasthard |  
+| bip_39_word_no_space_11 | companybudgetacquirelionmeltsnapverifysizeblasthardvarious |  
+| bip_39_word_no_space_12 | companybudgetacquirelionmeltsnapverifysizeblasthardvariousauto |  
+| bip_39_word_no_space_2 | companybudget |  
+| bip_39_word_no_space_3 | companybudgetacquire |  
+| bip_39_word_no_space_4 | companybudgetacquirelion |  
+| bip_39_word_no_space_5 | companybudgetacquirelionmelt |  
+| bip_39_word_no_space_6 | companybudgetacquirelionmeltsnap |  
+| bip_39_word_no_space_7 | companybudgetacquirelionmeltsnapverify |  
+| bip_39_word_no_space_8 | companybudgetacquirelionmeltsnapverifysize |  
+| bip_39_word_no_space_9 | companybudgetacquirelionmeltsnapverifysizeblast |  
 | bip_39_word_space_0 | ['company', 'budget', 'acquire', 'lion', 'melt', 'snap', 'verify', 'size', 'blast', 'hard', 'various', 'auto'] |  
 | bip_39_word_space_1 | company |  
 | bip_39_word_space_10 | company budget acquire lion melt snap verify size blast hard |  

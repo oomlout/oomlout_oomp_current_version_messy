@@ -122,6 +122,18 @@ sister
 panda
 best
 drip |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintelbowpassloyalspendsisterpandabestdriplaw |  
+| bip_39_word_no_space_11 | faintelbowpassloyalspendsisterpandabestdriplawincrease |  
+| bip_39_word_no_space_12 | faintelbowpassloyalspendsisterpandabestdriplawincreasealarm |  
+| bip_39_word_no_space_2 | faintelbow |  
+| bip_39_word_no_space_3 | faintelbowpass |  
+| bip_39_word_no_space_4 | faintelbowpassloyal |  
+| bip_39_word_no_space_5 | faintelbowpassloyalspend |  
+| bip_39_word_no_space_6 | faintelbowpassloyalspendsister |  
+| bip_39_word_no_space_7 | faintelbowpassloyalspendsisterpanda |  
+| bip_39_word_no_space_8 | faintelbowpassloyalspendsisterpandabest |  
+| bip_39_word_no_space_9 | faintelbowpassloyalspendsisterpandabestdrip |  
 | bip_39_word_space_0 | ['faint', 'elbow', 'pass', 'loyal', 'spend', 'sister', 'panda', 'best', 'drip', 'law', 'increase', 'alarm'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint elbow pass loyal spend sister panda best drip law |  

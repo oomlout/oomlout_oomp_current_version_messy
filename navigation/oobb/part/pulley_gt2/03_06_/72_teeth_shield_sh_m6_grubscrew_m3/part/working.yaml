@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'maid
   buddy
 
   ordinary'
+bip_39_word_no_space_1: maid
+bip_39_word_no_space_10: maidabilityoystergluelemonshortsubmitbuddyordinaryimprove
+bip_39_word_no_space_11: maidabilityoystergluelemonshortsubmitbuddyordinaryimprovewise
+bip_39_word_no_space_12: maidabilityoystergluelemonshortsubmitbuddyordinaryimprovewiseassist
+bip_39_word_no_space_2: maidability
+bip_39_word_no_space_3: maidabilityoyster
+bip_39_word_no_space_4: maidabilityoysterglue
+bip_39_word_no_space_5: maidabilityoystergluelemon
+bip_39_word_no_space_6: maidabilityoystergluelemonshort
+bip_39_word_no_space_7: maidabilityoystergluelemonshortsubmit
+bip_39_word_no_space_8: maidabilityoystergluelemonshortsubmitbuddy
+bip_39_word_no_space_9: maidabilityoystergluelemonshortsubmitbuddyordinary
 bip_39_word_space_0:
 - maid
 - ability

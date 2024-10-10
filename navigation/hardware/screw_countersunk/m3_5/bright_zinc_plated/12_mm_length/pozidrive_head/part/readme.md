@@ -122,6 +122,18 @@ belt
 pattern
 lobster
 color |  
+| bip_39_word_no_space_1 | riot |  
+| bip_39_word_no_space_10 | riottreestrongnegativebutterbeltpatternlobstercolorfinish |  
+| bip_39_word_no_space_11 | riottreestrongnegativebutterbeltpatternlobstercolorfinishfire |  
+| bip_39_word_no_space_12 | riottreestrongnegativebutterbeltpatternlobstercolorfinishfireannual |  
+| bip_39_word_no_space_2 | riottree |  
+| bip_39_word_no_space_3 | riottreestrong |  
+| bip_39_word_no_space_4 | riottreestrongnegative |  
+| bip_39_word_no_space_5 | riottreestrongnegativebutter |  
+| bip_39_word_no_space_6 | riottreestrongnegativebutterbelt |  
+| bip_39_word_no_space_7 | riottreestrongnegativebutterbeltpattern |  
+| bip_39_word_no_space_8 | riottreestrongnegativebutterbeltpatternlobster |  
+| bip_39_word_no_space_9 | riottreestrongnegativebutterbeltpatternlobstercolor |  
 | bip_39_word_space_0 | ['riot', 'tree', 'strong', 'negative', 'butter', 'belt', 'pattern', 'lobster', 'color', 'finish', 'fire', 'annual'] |  
 | bip_39_word_space_1 | riot |  
 | bip_39_word_space_10 | riot tree strong negative butter belt pattern lobster color finish |  

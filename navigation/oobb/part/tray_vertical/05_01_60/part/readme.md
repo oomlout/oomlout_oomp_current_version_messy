@@ -122,6 +122,18 @@ long
 distance
 right
 arm |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderschemegigglegreenresultlongdistancerightarmamused |  
+| bip_39_word_no_space_11 | powderschemegigglegreenresultlongdistancerightarmamusedanalyst |  
+| bip_39_word_no_space_12 | powderschemegigglegreenresultlongdistancerightarmamusedanalystafraid |  
+| bip_39_word_no_space_2 | powderscheme |  
+| bip_39_word_no_space_3 | powderschemegiggle |  
+| bip_39_word_no_space_4 | powderschemegigglegreen |  
+| bip_39_word_no_space_5 | powderschemegigglegreenresult |  
+| bip_39_word_no_space_6 | powderschemegigglegreenresultlong |  
+| bip_39_word_no_space_7 | powderschemegigglegreenresultlongdistance |  
+| bip_39_word_no_space_8 | powderschemegigglegreenresultlongdistanceright |  
+| bip_39_word_no_space_9 | powderschemegigglegreenresultlongdistancerightarm |  
 | bip_39_word_space_0 | ['powder', 'scheme', 'giggle', 'green', 'result', 'long', 'distance', 'right', 'arm', 'amused', 'analyst', 'afraid'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder scheme giggle green result long distance right arm amused |  

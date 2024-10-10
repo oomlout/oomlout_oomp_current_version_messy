@@ -122,6 +122,18 @@ badge
 phone
 trouble
 craft |  
+| bip_39_word_no_space_1 | cinnamon |  
+| bip_39_word_no_space_10 | cinnamonreunionarguewherebrightbadgephonetroublecraftcombine |  
+| bip_39_word_no_space_11 | cinnamonreunionarguewherebrightbadgephonetroublecraftcombineroom |  
+| bip_39_word_no_space_12 | cinnamonreunionarguewherebrightbadgephonetroublecraftcombineroomaccuse |  
+| bip_39_word_no_space_2 | cinnamonreunion |  
+| bip_39_word_no_space_3 | cinnamonreunionargue |  
+| bip_39_word_no_space_4 | cinnamonreunionarguewhere |  
+| bip_39_word_no_space_5 | cinnamonreunionarguewherebright |  
+| bip_39_word_no_space_6 | cinnamonreunionarguewherebrightbadge |  
+| bip_39_word_no_space_7 | cinnamonreunionarguewherebrightbadgephone |  
+| bip_39_word_no_space_8 | cinnamonreunionarguewherebrightbadgephonetrouble |  
+| bip_39_word_no_space_9 | cinnamonreunionarguewherebrightbadgephonetroublecraft |  
 | bip_39_word_space_0 | ['cinnamon', 'reunion', 'argue', 'where', 'bright', 'badge', 'phone', 'trouble', 'craft', 'combine', 'room', 'accuse'] |  
 | bip_39_word_space_1 | cinnamon |  
 | bip_39_word_space_10 | cinnamon reunion argue where bright badge phone trouble craft combine |  

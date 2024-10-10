@@ -122,6 +122,18 @@ east
 decide
 slab
 turtle |  
+| bip_39_word_no_space_1 | distance |  
+| bip_39_word_no_space_10 | distancedomainbicyclehirerendereastdecideslabturtlewet |  
+| bip_39_word_no_space_11 | distancedomainbicyclehirerendereastdecideslabturtlewetkind |  
+| bip_39_word_no_space_12 | distancedomainbicyclehirerendereastdecideslabturtlewetkindaverage |  
+| bip_39_word_no_space_2 | distancedomain |  
+| bip_39_word_no_space_3 | distancedomainbicycle |  
+| bip_39_word_no_space_4 | distancedomainbicyclehire |  
+| bip_39_word_no_space_5 | distancedomainbicyclehirerender |  
+| bip_39_word_no_space_6 | distancedomainbicyclehirerendereast |  
+| bip_39_word_no_space_7 | distancedomainbicyclehirerendereastdecide |  
+| bip_39_word_no_space_8 | distancedomainbicyclehirerendereastdecideslab |  
+| bip_39_word_no_space_9 | distancedomainbicyclehirerendereastdecideslabturtle |  
 | bip_39_word_space_0 | ['distance', 'domain', 'bicycle', 'hire', 'render', 'east', 'decide', 'slab', 'turtle', 'wet', 'kind', 'average'] |  
 | bip_39_word_space_1 | distance |  
 | bip_39_word_space_10 | distance domain bicycle hire render east decide slab turtle wet |  

@@ -122,6 +122,18 @@ spirit
 lesson
 amount
 print |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | looppoletopicnuclearuselessspiritlessonamountprinttip |  
+| bip_39_word_no_space_11 | looppoletopicnuclearuselessspiritlessonamountprinttiporder |  
+| bip_39_word_no_space_12 | looppoletopicnuclearuselessspiritlessonamountprinttiporderadapt |  
+| bip_39_word_no_space_2 | looppole |  
+| bip_39_word_no_space_3 | looppoletopic |  
+| bip_39_word_no_space_4 | looppoletopicnuclear |  
+| bip_39_word_no_space_5 | looppoletopicnuclearuseless |  
+| bip_39_word_no_space_6 | looppoletopicnuclearuselessspirit |  
+| bip_39_word_no_space_7 | looppoletopicnuclearuselessspiritlesson |  
+| bip_39_word_no_space_8 | looppoletopicnuclearuselessspiritlessonamount |  
+| bip_39_word_no_space_9 | looppoletopicnuclearuselessspiritlessonamountprint |  
 | bip_39_word_space_0 | ['loop', 'pole', 'topic', 'nuclear', 'useless', 'spirit', 'lesson', 'amount', 'print', 'tip', 'order', 'adapt'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop pole topic nuclear useless spirit lesson amount print tip |  

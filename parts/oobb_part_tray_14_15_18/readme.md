@@ -122,6 +122,18 @@ any
 pretty
 check
 mansion |  
+| bip_39_word_no_space_1 | today |  
+| bip_39_word_no_space_10 | todayaveragespeeddefensetentanyprettycheckmansionfarm |  
+| bip_39_word_no_space_11 | todayaveragespeeddefensetentanyprettycheckmansionfarmeight |  
+| bip_39_word_no_space_12 | todayaveragespeeddefensetentanyprettycheckmansionfarmeightavocado |  
+| bip_39_word_no_space_2 | todayaverage |  
+| bip_39_word_no_space_3 | todayaveragespeed |  
+| bip_39_word_no_space_4 | todayaveragespeeddefense |  
+| bip_39_word_no_space_5 | todayaveragespeeddefensetent |  
+| bip_39_word_no_space_6 | todayaveragespeeddefensetentany |  
+| bip_39_word_no_space_7 | todayaveragespeeddefensetentanypretty |  
+| bip_39_word_no_space_8 | todayaveragespeeddefensetentanyprettycheck |  
+| bip_39_word_no_space_9 | todayaveragespeeddefensetentanyprettycheckmansion |  
 | bip_39_word_space_0 | ['today', 'average', 'speed', 'defense', 'tent', 'any', 'pretty', 'check', 'mansion', 'farm', 'eight', 'avocado'] |  
 | bip_39_word_space_1 | today |  
 | bip_39_word_space_10 | today average speed defense tent any pretty check mansion farm |  

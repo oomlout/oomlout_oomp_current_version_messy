@@ -122,6 +122,18 @@ alcohol
 priority
 west
 evil |  
+| bip_39_word_no_space_1 | unique |  
+| bip_39_word_no_space_10 | uniquedogissueartefactshiveralcoholprioritywestevilimage |  
+| bip_39_word_no_space_11 | uniquedogissueartefactshiveralcoholprioritywestevilimageexcuse |  
+| bip_39_word_no_space_12 | uniquedogissueartefactshiveralcoholprioritywestevilimageexcuseapprove |  
+| bip_39_word_no_space_2 | uniquedog |  
+| bip_39_word_no_space_3 | uniquedogissue |  
+| bip_39_word_no_space_4 | uniquedogissueartefact |  
+| bip_39_word_no_space_5 | uniquedogissueartefactshiver |  
+| bip_39_word_no_space_6 | uniquedogissueartefactshiveralcohol |  
+| bip_39_word_no_space_7 | uniquedogissueartefactshiveralcoholpriority |  
+| bip_39_word_no_space_8 | uniquedogissueartefactshiveralcoholprioritywest |  
+| bip_39_word_no_space_9 | uniquedogissueartefactshiveralcoholprioritywestevil |  
 | bip_39_word_space_0 | ['unique', 'dog', 'issue', 'artefact', 'shiver', 'alcohol', 'priority', 'west', 'evil', 'image', 'excuse', 'approve'] |  
 | bip_39_word_space_1 | unique |  
 | bip_39_word_space_10 | unique dog issue artefact shiver alcohol priority west evil image |  

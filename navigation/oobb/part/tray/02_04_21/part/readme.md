@@ -122,6 +122,18 @@ occur
 memory
 novel
 very |  
+| bip_39_word_no_space_1 | gym |  
+| bip_39_word_no_space_10 | gymabilityjourneycropfoamoccurmemorynovelverydecade |  
+| bip_39_word_no_space_11 | gymabilityjourneycropfoamoccurmemorynovelverydecadelaptop |  
+| bip_39_word_no_space_12 | gymabilityjourneycropfoamoccurmemorynovelverydecadelaptopalready |  
+| bip_39_word_no_space_2 | gymability |  
+| bip_39_word_no_space_3 | gymabilityjourney |  
+| bip_39_word_no_space_4 | gymabilityjourneycrop |  
+| bip_39_word_no_space_5 | gymabilityjourneycropfoam |  
+| bip_39_word_no_space_6 | gymabilityjourneycropfoamoccur |  
+| bip_39_word_no_space_7 | gymabilityjourneycropfoamoccurmemory |  
+| bip_39_word_no_space_8 | gymabilityjourneycropfoamoccurmemorynovel |  
+| bip_39_word_no_space_9 | gymabilityjourneycropfoamoccurmemorynovelvery |  
 | bip_39_word_space_0 | ['gym', 'ability', 'journey', 'crop', 'foam', 'occur', 'memory', 'novel', 'very', 'decade', 'laptop', 'already'] |  
 | bip_39_word_space_1 | gym |  
 | bip_39_word_space_10 | gym ability journey crop foam occur memory novel very decade |  

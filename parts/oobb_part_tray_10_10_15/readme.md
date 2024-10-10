@@ -122,6 +122,18 @@ glow
 accuse
 soldier
 exclude |  
+| bip_39_word_no_space_1 | mandate |  
+| bip_39_word_no_space_10 | mandatesunchuckledeclineplugglowaccusesoldierexcludetalk |  
+| bip_39_word_no_space_11 | mandatesunchuckledeclineplugglowaccusesoldierexcludetalkenjoy |  
+| bip_39_word_no_space_12 | mandatesunchuckledeclineplugglowaccusesoldierexcludetalkenjoyagent |  
+| bip_39_word_no_space_2 | mandatesun |  
+| bip_39_word_no_space_3 | mandatesunchuckle |  
+| bip_39_word_no_space_4 | mandatesunchuckledecline |  
+| bip_39_word_no_space_5 | mandatesunchuckledeclineplug |  
+| bip_39_word_no_space_6 | mandatesunchuckledeclineplugglow |  
+| bip_39_word_no_space_7 | mandatesunchuckledeclineplugglowaccuse |  
+| bip_39_word_no_space_8 | mandatesunchuckledeclineplugglowaccusesoldier |  
+| bip_39_word_no_space_9 | mandatesunchuckledeclineplugglowaccusesoldierexclude |  
 | bip_39_word_space_0 | ['mandate', 'sun', 'chuckle', 'decline', 'plug', 'glow', 'accuse', 'soldier', 'exclude', 'talk', 'enjoy', 'agent'] |  
 | bip_39_word_space_1 | mandate |  
 | bip_39_word_space_10 | mandate sun chuckle decline plug glow accuse soldier exclude talk |  

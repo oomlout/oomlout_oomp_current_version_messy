@@ -122,6 +122,18 @@ orient
 blouse
 test
 famous |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelstaffmusictherewheatorientblousetestfamousmatrix |  
+| bip_39_word_no_space_11 | modelstaffmusictherewheatorientblousetestfamousmatrixblade |  
+| bip_39_word_no_space_12 | modelstaffmusictherewheatorientblousetestfamousmatrixbladeautumn |  
+| bip_39_word_no_space_2 | modelstaff |  
+| bip_39_word_no_space_3 | modelstaffmusic |  
+| bip_39_word_no_space_4 | modelstaffmusicthere |  
+| bip_39_word_no_space_5 | modelstaffmusictherewheat |  
+| bip_39_word_no_space_6 | modelstaffmusictherewheatorient |  
+| bip_39_word_no_space_7 | modelstaffmusictherewheatorientblouse |  
+| bip_39_word_no_space_8 | modelstaffmusictherewheatorientblousetest |  
+| bip_39_word_no_space_9 | modelstaffmusictherewheatorientblousetestfamous |  
 | bip_39_word_space_0 | ['model', 'staff', 'music', 'there', 'wheat', 'orient', 'blouse', 'test', 'famous', 'matrix', 'blade', 'autumn'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model staff music there wheat orient blouse test famous matrix |  

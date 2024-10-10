@@ -122,6 +122,18 @@ utility
 write
 vicious
 social |  
+| bip_39_word_no_space_1 | clinic |  
+| bip_39_word_no_space_10 | cliniccoppervitalvolumecodeutilitywritevicioussocialpurchase |  
+| bip_39_word_no_space_11 | cliniccoppervitalvolumecodeutilitywritevicioussocialpurchasepush |  
+| bip_39_word_no_space_12 | cliniccoppervitalvolumecodeutilitywritevicioussocialpurchasepushalready |  
+| bip_39_word_no_space_2 | cliniccopper |  
+| bip_39_word_no_space_3 | cliniccoppervital |  
+| bip_39_word_no_space_4 | cliniccoppervitalvolume |  
+| bip_39_word_no_space_5 | cliniccoppervitalvolumecode |  
+| bip_39_word_no_space_6 | cliniccoppervitalvolumecodeutility |  
+| bip_39_word_no_space_7 | cliniccoppervitalvolumecodeutilitywrite |  
+| bip_39_word_no_space_8 | cliniccoppervitalvolumecodeutilitywritevicious |  
+| bip_39_word_no_space_9 | cliniccoppervitalvolumecodeutilitywritevicioussocial |  
 | bip_39_word_space_0 | ['clinic', 'copper', 'vital', 'volume', 'code', 'utility', 'write', 'vicious', 'social', 'purchase', 'push', 'already'] |  
 | bip_39_word_space_1 | clinic |  
 | bip_39_word_space_10 | clinic copper vital volume code utility write vicious social purchase |  

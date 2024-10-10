@@ -122,6 +122,18 @@ hint
 clutch
 essay
 badge |  
+| bip_39_word_no_space_1 | dish |  
+| bip_39_word_no_space_10 | dishinstallcankiwinothinghintclutchessaybadgeblast |  
+| bip_39_word_no_space_11 | dishinstallcankiwinothinghintclutchessaybadgeblastenergy |  
+| bip_39_word_no_space_12 | dishinstallcankiwinothinghintclutchessaybadgeblastenergyartist |  
+| bip_39_word_no_space_2 | dishinstall |  
+| bip_39_word_no_space_3 | dishinstallcan |  
+| bip_39_word_no_space_4 | dishinstallcankiwi |  
+| bip_39_word_no_space_5 | dishinstallcankiwinothing |  
+| bip_39_word_no_space_6 | dishinstallcankiwinothinghint |  
+| bip_39_word_no_space_7 | dishinstallcankiwinothinghintclutch |  
+| bip_39_word_no_space_8 | dishinstallcankiwinothinghintclutchessay |  
+| bip_39_word_no_space_9 | dishinstallcankiwinothinghintclutchessaybadge |  
 | bip_39_word_space_0 | ['dish', 'install', 'can', 'kiwi', 'nothing', 'hint', 'clutch', 'essay', 'badge', 'blast', 'energy', 'artist'] |  
 | bip_39_word_space_1 | dish |  
 | bip_39_word_space_10 | dish install can kiwi nothing hint clutch essay badge blast |  

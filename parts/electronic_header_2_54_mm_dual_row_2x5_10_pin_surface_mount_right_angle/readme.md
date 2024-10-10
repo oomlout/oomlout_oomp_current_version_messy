@@ -122,6 +122,18 @@ crystal
 return
 small
 actual |  
+| bip_39_word_no_space_1 | raccoon |  
+| bip_39_word_no_space_10 | raccoonstepspiceuselinkcrystalreturnsmallactualrecall |  
+| bip_39_word_no_space_11 | raccoonstepspiceuselinkcrystalreturnsmallactualrecallundo |  
+| bip_39_word_no_space_12 | raccoonstepspiceuselinkcrystalreturnsmallactualrecallundoarmor |  
+| bip_39_word_no_space_2 | raccoonstep |  
+| bip_39_word_no_space_3 | raccoonstepspice |  
+| bip_39_word_no_space_4 | raccoonstepspiceuse |  
+| bip_39_word_no_space_5 | raccoonstepspiceuselink |  
+| bip_39_word_no_space_6 | raccoonstepspiceuselinkcrystal |  
+| bip_39_word_no_space_7 | raccoonstepspiceuselinkcrystalreturn |  
+| bip_39_word_no_space_8 | raccoonstepspiceuselinkcrystalreturnsmall |  
+| bip_39_word_no_space_9 | raccoonstepspiceuselinkcrystalreturnsmallactual |  
 | bip_39_word_space_0 | ['raccoon', 'step', 'spice', 'use', 'link', 'crystal', 'return', 'small', 'actual', 'recall', 'undo', 'armor'] |  
 | bip_39_word_space_1 | raccoon |  
 | bip_39_word_space_10 | raccoon step spice use link crystal return small actual recall |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tuna
   aunt
 
   idea'
+bip_39_word_no_space_1: tuna
+bip_39_word_no_space_10: tunaemptydeliveroriginalmeanbuildcanvasauntideaused
+bip_39_word_no_space_11: tunaemptydeliveroriginalmeanbuildcanvasauntideausedfuel
+bip_39_word_no_space_12: tunaemptydeliveroriginalmeanbuildcanvasauntideausedfuelaccuse
+bip_39_word_no_space_2: tunaempty
+bip_39_word_no_space_3: tunaemptydeliver
+bip_39_word_no_space_4: tunaemptydeliveroriginal
+bip_39_word_no_space_5: tunaemptydeliveroriginalmean
+bip_39_word_no_space_6: tunaemptydeliveroriginalmeanbuild
+bip_39_word_no_space_7: tunaemptydeliveroriginalmeanbuildcanvas
+bip_39_word_no_space_8: tunaemptydeliveroriginalmeanbuildcanvasaunt
+bip_39_word_no_space_9: tunaemptydeliveroriginalmeanbuildcanvasauntidea
 bip_39_word_space_0:
 - tuna
 - empty

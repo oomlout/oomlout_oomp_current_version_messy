@@ -122,6 +122,18 @@ will
 noise
 impact
 angry |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | gooderaseidlevelvetdeskwillnoiseimpactangrychild |  
+| bip_39_word_no_space_11 | gooderaseidlevelvetdeskwillnoiseimpactangrychildvacuum |  
+| bip_39_word_no_space_12 | gooderaseidlevelvetdeskwillnoiseimpactangrychildvacuumannounce |  
+| bip_39_word_no_space_2 | gooderase |  
+| bip_39_word_no_space_3 | gooderaseidle |  
+| bip_39_word_no_space_4 | gooderaseidlevelvet |  
+| bip_39_word_no_space_5 | gooderaseidlevelvetdesk |  
+| bip_39_word_no_space_6 | gooderaseidlevelvetdeskwill |  
+| bip_39_word_no_space_7 | gooderaseidlevelvetdeskwillnoise |  
+| bip_39_word_no_space_8 | gooderaseidlevelvetdeskwillnoiseimpact |  
+| bip_39_word_no_space_9 | gooderaseidlevelvetdeskwillnoiseimpactangry |  
 | bip_39_word_space_0 | ['good', 'erase', 'idle', 'velvet', 'desk', 'will', 'noise', 'impact', 'angry', 'child', 'vacuum', 'announce'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good erase idle velvet desk will noise impact angry child |  

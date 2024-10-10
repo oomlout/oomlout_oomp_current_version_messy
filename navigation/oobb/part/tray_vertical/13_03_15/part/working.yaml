@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bag
   pink
 
   urban'
+bip_39_word_no_space_1: bag
+bip_39_word_no_space_10: bagwisevoidalwaysshyclothfloatpinkurbanmaid
+bip_39_word_no_space_11: bagwisevoidalwaysshyclothfloatpinkurbanmaidwoman
+bip_39_word_no_space_12: bagwisevoidalwaysshyclothfloatpinkurbanmaidwomanauto
+bip_39_word_no_space_2: bagwise
+bip_39_word_no_space_3: bagwisevoid
+bip_39_word_no_space_4: bagwisevoidalways
+bip_39_word_no_space_5: bagwisevoidalwaysshy
+bip_39_word_no_space_6: bagwisevoidalwaysshycloth
+bip_39_word_no_space_7: bagwisevoidalwaysshyclothfloat
+bip_39_word_no_space_8: bagwisevoidalwaysshyclothfloatpink
+bip_39_word_no_space_9: bagwisevoidalwaysshyclothfloatpinkurban
 bip_39_word_space_0:
 - bag
 - wise

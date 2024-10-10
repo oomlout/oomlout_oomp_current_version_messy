@@ -122,6 +122,18 @@ punch
 exact
 summer
 snack |  
+| bip_39_word_no_space_1 | economy |  
+| bip_39_word_no_space_10 | economyplungemandatetorchprintpunchexactsummersnacksilver |  
+| bip_39_word_no_space_11 | economyplungemandatetorchprintpunchexactsummersnacksilverframe |  
+| bip_39_word_no_space_12 | economyplungemandatetorchprintpunchexactsummersnacksilverframeattack |  
+| bip_39_word_no_space_2 | economyplunge |  
+| bip_39_word_no_space_3 | economyplungemandate |  
+| bip_39_word_no_space_4 | economyplungemandatetorch |  
+| bip_39_word_no_space_5 | economyplungemandatetorchprint |  
+| bip_39_word_no_space_6 | economyplungemandatetorchprintpunch |  
+| bip_39_word_no_space_7 | economyplungemandatetorchprintpunchexact |  
+| bip_39_word_no_space_8 | economyplungemandatetorchprintpunchexactsummer |  
+| bip_39_word_no_space_9 | economyplungemandatetorchprintpunchexactsummersnack |  
 | bip_39_word_space_0 | ['economy', 'plunge', 'mandate', 'torch', 'print', 'punch', 'exact', 'summer', 'snack', 'silver', 'frame', 'attack'] |  
 | bip_39_word_space_1 | economy |  
 | bip_39_word_space_10 | economy plunge mandate torch print punch exact summer snack silver |  

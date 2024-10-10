@@ -122,6 +122,18 @@ glare
 suit
 abandon
 dream |  
+| bip_39_word_no_space_1 | day |  
+| bip_39_word_no_space_10 | dayislandraiseerodecycleglaresuitabandondreamfunny |  
+| bip_39_word_no_space_11 | dayislandraiseerodecycleglaresuitabandondreamfunnypluck |  
+| bip_39_word_no_space_12 | dayislandraiseerodecycleglaresuitabandondreamfunnypluckabove |  
+| bip_39_word_no_space_2 | dayisland |  
+| bip_39_word_no_space_3 | dayislandraise |  
+| bip_39_word_no_space_4 | dayislandraiseerode |  
+| bip_39_word_no_space_5 | dayislandraiseerodecycle |  
+| bip_39_word_no_space_6 | dayislandraiseerodecycleglare |  
+| bip_39_word_no_space_7 | dayislandraiseerodecycleglaresuit |  
+| bip_39_word_no_space_8 | dayislandraiseerodecycleglaresuitabandon |  
+| bip_39_word_no_space_9 | dayislandraiseerodecycleglaresuitabandondream |  
 | bip_39_word_space_0 | ['day', 'island', 'raise', 'erode', 'cycle', 'glare', 'suit', 'abandon', 'dream', 'funny', 'pluck', 'above'] |  
 | bip_39_word_space_1 | day |  
 | bip_39_word_space_10 | day island raise erode cycle glare suit abandon dream funny |  

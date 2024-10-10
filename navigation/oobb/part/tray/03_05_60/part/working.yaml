@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'build
   age
 
   olympic'
+bip_39_word_no_space_1: build
+bip_39_word_no_space_10: buildcatchdietpromotebriefwillkeenageolympicsausage
+bip_39_word_no_space_11: buildcatchdietpromotebriefwillkeenageolympicsausagesegment
+bip_39_word_no_space_12: buildcatchdietpromotebriefwillkeenageolympicsausagesegmentarena
+bip_39_word_no_space_2: buildcatch
+bip_39_word_no_space_3: buildcatchdiet
+bip_39_word_no_space_4: buildcatchdietpromote
+bip_39_word_no_space_5: buildcatchdietpromotebrief
+bip_39_word_no_space_6: buildcatchdietpromotebriefwill
+bip_39_word_no_space_7: buildcatchdietpromotebriefwillkeen
+bip_39_word_no_space_8: buildcatchdietpromotebriefwillkeenage
+bip_39_word_no_space_9: buildcatchdietpromotebriefwillkeenageolympic
 bip_39_word_space_0:
 - build
 - catch

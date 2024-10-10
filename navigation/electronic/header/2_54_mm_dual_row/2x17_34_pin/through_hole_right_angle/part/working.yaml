@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'film
   bicycle
 
   song'
+bip_39_word_no_space_1: film
+bip_39_word_no_space_10: filmlatercanalrealvariousfossilkitchenbicyclesongfatal
+bip_39_word_no_space_11: filmlatercanalrealvariousfossilkitchenbicyclesongfataltrend
+bip_39_word_no_space_12: filmlatercanalrealvariousfossilkitchenbicyclesongfataltrendactual
+bip_39_word_no_space_2: filmlater
+bip_39_word_no_space_3: filmlatercanal
+bip_39_word_no_space_4: filmlatercanalreal
+bip_39_word_no_space_5: filmlatercanalrealvarious
+bip_39_word_no_space_6: filmlatercanalrealvariousfossil
+bip_39_word_no_space_7: filmlatercanalrealvariousfossilkitchen
+bip_39_word_no_space_8: filmlatercanalrealvariousfossilkitchenbicycle
+bip_39_word_no_space_9: filmlatercanalrealvariousfossilkitchenbicyclesong
 bip_39_word_space_0:
 - film
 - later

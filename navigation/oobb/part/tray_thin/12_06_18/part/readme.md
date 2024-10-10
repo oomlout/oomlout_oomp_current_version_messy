@@ -122,6 +122,18 @@ reason
 begin
 case
 fat |  
+| bip_39_word_no_space_1 | boy |  
+| bip_39_word_no_space_10 | boypenaltynevermovequickreasonbegincasefatnumber |  
+| bip_39_word_no_space_11 | boypenaltynevermovequickreasonbegincasefatnumberinnocent |  
+| bip_39_word_no_space_12 | boypenaltynevermovequickreasonbegincasefatnumberinnocentarm |  
+| bip_39_word_no_space_2 | boypenalty |  
+| bip_39_word_no_space_3 | boypenaltynever |  
+| bip_39_word_no_space_4 | boypenaltynevermove |  
+| bip_39_word_no_space_5 | boypenaltynevermovequick |  
+| bip_39_word_no_space_6 | boypenaltynevermovequickreason |  
+| bip_39_word_no_space_7 | boypenaltynevermovequickreasonbegin |  
+| bip_39_word_no_space_8 | boypenaltynevermovequickreasonbegincase |  
+| bip_39_word_no_space_9 | boypenaltynevermovequickreasonbegincasefat |  
 | bip_39_word_space_0 | ['boy', 'penalty', 'never', 'move', 'quick', 'reason', 'begin', 'case', 'fat', 'number', 'innocent', 'arm'] |  
 | bip_39_word_space_1 | boy |  
 | bip_39_word_space_10 | boy penalty never move quick reason begin case fat number |  

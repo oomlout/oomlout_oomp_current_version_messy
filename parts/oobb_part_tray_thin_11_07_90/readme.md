@@ -122,6 +122,18 @@ despair
 mandate
 stamp
 bless |  
+| bip_39_word_no_space_1 | will |  
+| bip_39_word_no_space_10 | willfootbeginnastyprisondespairmandatestampblessregion |  
+| bip_39_word_no_space_11 | willfootbeginnastyprisondespairmandatestampblessregioncrazy |  
+| bip_39_word_no_space_12 | willfootbeginnastyprisondespairmandatestampblessregioncrazyask |  
+| bip_39_word_no_space_2 | willfoot |  
+| bip_39_word_no_space_3 | willfootbegin |  
+| bip_39_word_no_space_4 | willfootbeginnasty |  
+| bip_39_word_no_space_5 | willfootbeginnastyprison |  
+| bip_39_word_no_space_6 | willfootbeginnastyprisondespair |  
+| bip_39_word_no_space_7 | willfootbeginnastyprisondespairmandate |  
+| bip_39_word_no_space_8 | willfootbeginnastyprisondespairmandatestamp |  
+| bip_39_word_no_space_9 | willfootbeginnastyprisondespairmandatestampbless |  
 | bip_39_word_space_0 | ['will', 'foot', 'begin', 'nasty', 'prison', 'despair', 'mandate', 'stamp', 'bless', 'region', 'crazy', 'ask'] |  
 | bip_39_word_space_1 | will |  
 | bip_39_word_space_10 | will foot begin nasty prison despair mandate stamp bless region |  

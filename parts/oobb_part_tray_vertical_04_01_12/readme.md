@@ -122,6 +122,18 @@ river
 salad
 reunion
 observe |  
+| bip_39_word_no_space_1 | slogan |  
+| bip_39_word_no_space_10 | sloganclogsouthpinkbetterriversaladreunionobservereal |  
+| bip_39_word_no_space_11 | sloganclogsouthpinkbetterriversaladreunionobserverealwise |  
+| bip_39_word_no_space_12 | sloganclogsouthpinkbetterriversaladreunionobserverealwiseaccuse |  
+| bip_39_word_no_space_2 | sloganclog |  
+| bip_39_word_no_space_3 | sloganclogsouth |  
+| bip_39_word_no_space_4 | sloganclogsouthpink |  
+| bip_39_word_no_space_5 | sloganclogsouthpinkbetter |  
+| bip_39_word_no_space_6 | sloganclogsouthpinkbetterriver |  
+| bip_39_word_no_space_7 | sloganclogsouthpinkbetterriversalad |  
+| bip_39_word_no_space_8 | sloganclogsouthpinkbetterriversaladreunion |  
+| bip_39_word_no_space_9 | sloganclogsouthpinkbetterriversaladreunionobserve |  
 | bip_39_word_space_0 | ['slogan', 'clog', 'south', 'pink', 'better', 'river', 'salad', 'reunion', 'observe', 'real', 'wise', 'accuse'] |  
 | bip_39_word_space_1 | slogan |  
 | bip_39_word_space_10 | slogan clog south pink better river salad reunion observe real |  

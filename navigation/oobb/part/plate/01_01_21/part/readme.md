@@ -122,6 +122,18 @@ label
 rack
 solve
 tooth |  
+| bip_39_word_no_space_1 | hotel |  
+| bip_39_word_no_space_10 | hoteldinnerorientcustompopularlabelracksolvetoothshine |  
+| bip_39_word_no_space_11 | hoteldinnerorientcustompopularlabelracksolvetoothshinefunny |  
+| bip_39_word_no_space_12 | hoteldinnerorientcustompopularlabelracksolvetoothshinefunnyabsorb |  
+| bip_39_word_no_space_2 | hoteldinner |  
+| bip_39_word_no_space_3 | hoteldinnerorient |  
+| bip_39_word_no_space_4 | hoteldinnerorientcustom |  
+| bip_39_word_no_space_5 | hoteldinnerorientcustompopular |  
+| bip_39_word_no_space_6 | hoteldinnerorientcustompopularlabel |  
+| bip_39_word_no_space_7 | hoteldinnerorientcustompopularlabelrack |  
+| bip_39_word_no_space_8 | hoteldinnerorientcustompopularlabelracksolve |  
+| bip_39_word_no_space_9 | hoteldinnerorientcustompopularlabelracksolvetooth |  
 | bip_39_word_space_0 | ['hotel', 'dinner', 'orient', 'custom', 'popular', 'label', 'rack', 'solve', 'tooth', 'shine', 'funny', 'absorb'] |  
 | bip_39_word_space_1 | hotel |  
 | bip_39_word_space_10 | hotel dinner orient custom popular label rack solve tooth shine |  

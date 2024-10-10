@@ -122,6 +122,18 @@ wet
 believe
 polar
 trial |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spiderdevotepurposetortoiseworthwetbelievepolartrialasthma |  
+| bip_39_word_no_space_11 | spiderdevotepurposetortoiseworthwetbelievepolartrialasthmamerit |  
+| bip_39_word_no_space_12 | spiderdevotepurposetortoiseworthwetbelievepolartrialasthmameritaccess |  
+| bip_39_word_no_space_2 | spiderdevote |  
+| bip_39_word_no_space_3 | spiderdevotepurpose |  
+| bip_39_word_no_space_4 | spiderdevotepurposetortoise |  
+| bip_39_word_no_space_5 | spiderdevotepurposetortoiseworth |  
+| bip_39_word_no_space_6 | spiderdevotepurposetortoiseworthwet |  
+| bip_39_word_no_space_7 | spiderdevotepurposetortoiseworthwetbelieve |  
+| bip_39_word_no_space_8 | spiderdevotepurposetortoiseworthwetbelievepolar |  
+| bip_39_word_no_space_9 | spiderdevotepurposetortoiseworthwetbelievepolartrial |  
 | bip_39_word_space_0 | ['spider', 'devote', 'purpose', 'tortoise', 'worth', 'wet', 'believe', 'polar', 'trial', 'asthma', 'merit', 'access'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider devote purpose tortoise worth wet believe polar trial asthma |  

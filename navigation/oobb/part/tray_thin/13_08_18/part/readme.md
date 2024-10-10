@@ -122,6 +122,18 @@ text
 layer
 suffer
 angle |  
+| bip_39_word_no_space_1 | lab |  
+| bip_39_word_no_space_10 | labagentenergyunknowncoyotetextlayersufferanglestick |  
+| bip_39_word_no_space_11 | labagentenergyunknowncoyotetextlayersufferanglestickapril |  
+| bip_39_word_no_space_12 | labagentenergyunknowncoyotetextlayersufferanglestickaprilamong |  
+| bip_39_word_no_space_2 | labagent |  
+| bip_39_word_no_space_3 | labagentenergy |  
+| bip_39_word_no_space_4 | labagentenergyunknown |  
+| bip_39_word_no_space_5 | labagentenergyunknowncoyote |  
+| bip_39_word_no_space_6 | labagentenergyunknowncoyotetext |  
+| bip_39_word_no_space_7 | labagentenergyunknowncoyotetextlayer |  
+| bip_39_word_no_space_8 | labagentenergyunknowncoyotetextlayersuffer |  
+| bip_39_word_no_space_9 | labagentenergyunknowncoyotetextlayersufferangle |  
 | bip_39_word_space_0 | ['lab', 'agent', 'energy', 'unknown', 'coyote', 'text', 'layer', 'suffer', 'angle', 'stick', 'april', 'among'] |  
 | bip_39_word_space_1 | lab |  
 | bip_39_word_space_10 | lab agent energy unknown coyote text layer suffer angle stick |  

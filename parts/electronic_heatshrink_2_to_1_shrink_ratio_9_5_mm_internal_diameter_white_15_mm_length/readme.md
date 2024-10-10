@@ -122,6 +122,18 @@ zero
 sense
 fresh
 because |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | membershoulderzoobeachbracketzerosensefreshbecausediscover |  
+| bip_39_word_no_space_11 | membershoulderzoobeachbracketzerosensefreshbecausediscoversuch |  
+| bip_39_word_no_space_12 | membershoulderzoobeachbracketzerosensefreshbecausediscoversuchacid |  
+| bip_39_word_no_space_2 | membershoulder |  
+| bip_39_word_no_space_3 | membershoulderzoo |  
+| bip_39_word_no_space_4 | membershoulderzoobeach |  
+| bip_39_word_no_space_5 | membershoulderzoobeachbracket |  
+| bip_39_word_no_space_6 | membershoulderzoobeachbracketzero |  
+| bip_39_word_no_space_7 | membershoulderzoobeachbracketzerosense |  
+| bip_39_word_no_space_8 | membershoulderzoobeachbracketzerosensefresh |  
+| bip_39_word_no_space_9 | membershoulderzoobeachbracketzerosensefreshbecause |  
 | bip_39_word_space_0 | ['member', 'shoulder', 'zoo', 'beach', 'bracket', 'zero', 'sense', 'fresh', 'because', 'discover', 'such', 'acid'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member shoulder zoo beach bracket zero sense fresh because discover |  

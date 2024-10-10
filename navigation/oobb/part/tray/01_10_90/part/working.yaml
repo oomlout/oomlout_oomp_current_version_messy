@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'spring
   glare
 
   jelly'
+bip_39_word_no_space_1: spring
+bip_39_word_no_space_10: springstoolslicebrotherhandchurncattleglarejellystamp
+bip_39_word_no_space_11: springstoolslicebrotherhandchurncattleglarejellystampmammal
+bip_39_word_no_space_12: springstoolslicebrotherhandchurncattleglarejellystampmammalairport
+bip_39_word_no_space_2: springstool
+bip_39_word_no_space_3: springstoolslice
+bip_39_word_no_space_4: springstoolslicebrother
+bip_39_word_no_space_5: springstoolslicebrotherhand
+bip_39_word_no_space_6: springstoolslicebrotherhandchurn
+bip_39_word_no_space_7: springstoolslicebrotherhandchurncattle
+bip_39_word_no_space_8: springstoolslicebrotherhandchurncattleglare
+bip_39_word_no_space_9: springstoolslicebrotherhandchurncattleglarejelly
 bip_39_word_space_0:
 - spring
 - stool

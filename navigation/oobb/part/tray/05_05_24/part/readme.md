@@ -122,6 +122,18 @@ filter
 chief
 demise
 long |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffhorndrinkmemoryrawfilterchiefdemiselongpayment |  
+| bip_39_word_no_space_11 | sniffhorndrinkmemoryrawfilterchiefdemiselongpaymenttattoo |  
+| bip_39_word_no_space_12 | sniffhorndrinkmemoryrawfilterchiefdemiselongpaymenttattooannounce |  
+| bip_39_word_no_space_2 | sniffhorn |  
+| bip_39_word_no_space_3 | sniffhorndrink |  
+| bip_39_word_no_space_4 | sniffhorndrinkmemory |  
+| bip_39_word_no_space_5 | sniffhorndrinkmemoryraw |  
+| bip_39_word_no_space_6 | sniffhorndrinkmemoryrawfilter |  
+| bip_39_word_no_space_7 | sniffhorndrinkmemoryrawfilterchief |  
+| bip_39_word_no_space_8 | sniffhorndrinkmemoryrawfilterchiefdemise |  
+| bip_39_word_no_space_9 | sniffhorndrinkmemoryrawfilterchiefdemiselong |  
 | bip_39_word_space_0 | ['sniff', 'horn', 'drink', 'memory', 'raw', 'filter', 'chief', 'demise', 'long', 'payment', 'tattoo', 'announce'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff horn drink memory raw filter chief demise long payment |  

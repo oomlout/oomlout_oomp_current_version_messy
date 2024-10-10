@@ -122,6 +122,18 @@ agent
 notice
 category
 cheap |  
+| bip_39_word_no_space_1 | trip |  
+| bip_39_word_no_space_10 | tripsupplysportunderrapidagentnoticecategorycheapdizzy |  
+| bip_39_word_no_space_11 | tripsupplysportunderrapidagentnoticecategorycheapdizzyscheme |  
+| bip_39_word_no_space_12 | tripsupplysportunderrapidagentnoticecategorycheapdizzyschemeagree |  
+| bip_39_word_no_space_2 | tripsupply |  
+| bip_39_word_no_space_3 | tripsupplysport |  
+| bip_39_word_no_space_4 | tripsupplysportunder |  
+| bip_39_word_no_space_5 | tripsupplysportunderrapid |  
+| bip_39_word_no_space_6 | tripsupplysportunderrapidagent |  
+| bip_39_word_no_space_7 | tripsupplysportunderrapidagentnotice |  
+| bip_39_word_no_space_8 | tripsupplysportunderrapidagentnoticecategory |  
+| bip_39_word_no_space_9 | tripsupplysportunderrapidagentnoticecategorycheap |  
 | bip_39_word_space_0 | ['trip', 'supply', 'sport', 'under', 'rapid', 'agent', 'notice', 'category', 'cheap', 'dizzy', 'scheme', 'agree'] |  
 | bip_39_word_space_1 | trip |  
 | bip_39_word_space_10 | trip supply sport under rapid agent notice category cheap dizzy |  

@@ -122,6 +122,18 @@ segment
 position
 lunar
 marriage |  
+| bip_39_word_no_space_1 | weapon |  
+| bip_39_word_no_space_10 | weaponbagfavoritelakedangersegmentpositionlunarmarriagetattoo |  
+| bip_39_word_no_space_11 | weaponbagfavoritelakedangersegmentpositionlunarmarriagetattoogadget |  
+| bip_39_word_no_space_12 | weaponbagfavoritelakedangersegmentpositionlunarmarriagetattoogadgetaccuse |  
+| bip_39_word_no_space_2 | weaponbag |  
+| bip_39_word_no_space_3 | weaponbagfavorite |  
+| bip_39_word_no_space_4 | weaponbagfavoritelake |  
+| bip_39_word_no_space_5 | weaponbagfavoritelakedanger |  
+| bip_39_word_no_space_6 | weaponbagfavoritelakedangersegment |  
+| bip_39_word_no_space_7 | weaponbagfavoritelakedangersegmentposition |  
+| bip_39_word_no_space_8 | weaponbagfavoritelakedangersegmentpositionlunar |  
+| bip_39_word_no_space_9 | weaponbagfavoritelakedangersegmentpositionlunarmarriage |  
 | bip_39_word_space_0 | ['weapon', 'bag', 'favorite', 'lake', 'danger', 'segment', 'position', 'lunar', 'marriage', 'tattoo', 'gadget', 'accuse'] |  
 | bip_39_word_space_1 | weapon |  
 | bip_39_word_space_10 | weapon bag favorite lake danger segment position lunar marriage tattoo |  

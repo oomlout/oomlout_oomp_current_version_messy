@@ -122,6 +122,18 @@ fresh
 basket
 vault
 athlete |  
+| bip_39_word_no_space_1 | fox |  
+| bip_39_word_no_space_10 | foxdegreeoxygenculturevitalfreshbasketvaultathletepanda |  
+| bip_39_word_no_space_11 | foxdegreeoxygenculturevitalfreshbasketvaultathletepandapopular |  
+| bip_39_word_no_space_12 | foxdegreeoxygenculturevitalfreshbasketvaultathletepandapopularanother |  
+| bip_39_word_no_space_2 | foxdegree |  
+| bip_39_word_no_space_3 | foxdegreeoxygen |  
+| bip_39_word_no_space_4 | foxdegreeoxygenculture |  
+| bip_39_word_no_space_5 | foxdegreeoxygenculturevital |  
+| bip_39_word_no_space_6 | foxdegreeoxygenculturevitalfresh |  
+| bip_39_word_no_space_7 | foxdegreeoxygenculturevitalfreshbasket |  
+| bip_39_word_no_space_8 | foxdegreeoxygenculturevitalfreshbasketvault |  
+| bip_39_word_no_space_9 | foxdegreeoxygenculturevitalfreshbasketvaultathlete |  
 | bip_39_word_space_0 | ['fox', 'degree', 'oxygen', 'culture', 'vital', 'fresh', 'basket', 'vault', 'athlete', 'panda', 'popular', 'another'] |  
 | bip_39_word_space_1 | fox |  
 | bip_39_word_space_10 | fox degree oxygen culture vital fresh basket vault athlete panda |  

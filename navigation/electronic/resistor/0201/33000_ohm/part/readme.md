@@ -122,6 +122,18 @@ wish
 script
 ankle
 eight |  
+| bip_39_word_no_space_1 | maid |  
+| bip_39_word_no_space_10 | maiddemandrouteinnerawkwardwishscriptankleeightphysical |  
+| bip_39_word_no_space_11 | maiddemandrouteinnerawkwardwishscriptankleeightphysicalthought |  
+| bip_39_word_no_space_12 | maiddemandrouteinnerawkwardwishscriptankleeightphysicalthoughtabuse |  
+| bip_39_word_no_space_2 | maiddemand |  
+| bip_39_word_no_space_3 | maiddemandroute |  
+| bip_39_word_no_space_4 | maiddemandrouteinner |  
+| bip_39_word_no_space_5 | maiddemandrouteinnerawkward |  
+| bip_39_word_no_space_6 | maiddemandrouteinnerawkwardwish |  
+| bip_39_word_no_space_7 | maiddemandrouteinnerawkwardwishscript |  
+| bip_39_word_no_space_8 | maiddemandrouteinnerawkwardwishscriptankle |  
+| bip_39_word_no_space_9 | maiddemandrouteinnerawkwardwishscriptankleeight |  
 | bip_39_word_space_0 | ['maid', 'demand', 'route', 'inner', 'awkward', 'wish', 'script', 'ankle', 'eight', 'physical', 'thought', 'abuse'] |  
 | bip_39_word_space_1 | maid |  
 | bip_39_word_space_10 | maid demand route inner awkward wish script ankle eight physical |  

@@ -122,6 +122,18 @@ brass
 diesel
 piece
 screen |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectsorrystadiumseatseedbrassdieselpiecescreencluster |  
+| bip_39_word_no_space_11 | selectsorrystadiumseatseedbrassdieselpiecescreenclustersmart |  
+| bip_39_word_no_space_12 | selectsorrystadiumseatseedbrassdieselpiecescreenclustersmartamong |  
+| bip_39_word_no_space_2 | selectsorry |  
+| bip_39_word_no_space_3 | selectsorrystadium |  
+| bip_39_word_no_space_4 | selectsorrystadiumseat |  
+| bip_39_word_no_space_5 | selectsorrystadiumseatseed |  
+| bip_39_word_no_space_6 | selectsorrystadiumseatseedbrass |  
+| bip_39_word_no_space_7 | selectsorrystadiumseatseedbrassdiesel |  
+| bip_39_word_no_space_8 | selectsorrystadiumseatseedbrassdieselpiece |  
+| bip_39_word_no_space_9 | selectsorrystadiumseatseedbrassdieselpiecescreen |  
 | bip_39_word_space_0 | ['select', 'sorry', 'stadium', 'seat', 'seed', 'brass', 'diesel', 'piece', 'screen', 'cluster', 'smart', 'among'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select sorry stadium seat seed brass diesel piece screen cluster |  

@@ -122,6 +122,18 @@ glue
 sketch
 when
 sorry |  
+| bip_39_word_no_space_1 | icon |  
+| bip_39_word_no_space_10 | iconpicnichurrylunchwrapgluesketchwhensorrysimilar |  
+| bip_39_word_no_space_11 | iconpicnichurrylunchwrapgluesketchwhensorrysimilarvisit |  
+| bip_39_word_no_space_12 | iconpicnichurrylunchwrapgluesketchwhensorrysimilarvisitankle |  
+| bip_39_word_no_space_2 | iconpicnic |  
+| bip_39_word_no_space_3 | iconpicnichurry |  
+| bip_39_word_no_space_4 | iconpicnichurrylunch |  
+| bip_39_word_no_space_5 | iconpicnichurrylunchwrap |  
+| bip_39_word_no_space_6 | iconpicnichurrylunchwrapglue |  
+| bip_39_word_no_space_7 | iconpicnichurrylunchwrapgluesketch |  
+| bip_39_word_no_space_8 | iconpicnichurrylunchwrapgluesketchwhen |  
+| bip_39_word_no_space_9 | iconpicnichurrylunchwrapgluesketchwhensorry |  
 | bip_39_word_space_0 | ['icon', 'picnic', 'hurry', 'lunch', 'wrap', 'glue', 'sketch', 'when', 'sorry', 'similar', 'visit', 'ankle'] |  
 | bip_39_word_space_1 | icon |  
 | bip_39_word_space_10 | icon picnic hurry lunch wrap glue sketch when sorry similar |  

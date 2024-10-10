@@ -122,6 +122,18 @@ wheel
 hip
 comic
 nominee |  
+| bip_39_word_no_space_1 | rhythm |  
+| bip_39_word_no_space_10 | rhythmerrorassumeblossomrecyclewheelhipcomicnomineealways |  
+| bip_39_word_no_space_11 | rhythmerrorassumeblossomrecyclewheelhipcomicnomineealwaysjourney |  
+| bip_39_word_no_space_12 | rhythmerrorassumeblossomrecyclewheelhipcomicnomineealwaysjourneyaround |  
+| bip_39_word_no_space_2 | rhythmerror |  
+| bip_39_word_no_space_3 | rhythmerrorassume |  
+| bip_39_word_no_space_4 | rhythmerrorassumeblossom |  
+| bip_39_word_no_space_5 | rhythmerrorassumeblossomrecycle |  
+| bip_39_word_no_space_6 | rhythmerrorassumeblossomrecyclewheel |  
+| bip_39_word_no_space_7 | rhythmerrorassumeblossomrecyclewheelhip |  
+| bip_39_word_no_space_8 | rhythmerrorassumeblossomrecyclewheelhipcomic |  
+| bip_39_word_no_space_9 | rhythmerrorassumeblossomrecyclewheelhipcomicnominee |  
 | bip_39_word_space_0 | ['rhythm', 'error', 'assume', 'blossom', 'recycle', 'wheel', 'hip', 'comic', 'nominee', 'always', 'journey', 'around'] |  
 | bip_39_word_space_1 | rhythm |  
 | bip_39_word_space_10 | rhythm error assume blossom recycle wheel hip comic nominee always |  

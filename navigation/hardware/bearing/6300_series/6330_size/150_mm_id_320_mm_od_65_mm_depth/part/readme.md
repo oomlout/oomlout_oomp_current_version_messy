@@ -122,6 +122,18 @@ present
 awesome
 total
 firm |  
+| bip_39_word_no_space_1 | squeeze |  
+| bip_39_word_no_space_10 | squeezeweaponorchardpricespherepresentawesometotalfirmanimal |  
+| bip_39_word_no_space_11 | squeezeweaponorchardpricespherepresentawesometotalfirmanimalfather |  
+| bip_39_word_no_space_12 | squeezeweaponorchardpricespherepresentawesometotalfirmanimalfatherarch |  
+| bip_39_word_no_space_2 | squeezeweapon |  
+| bip_39_word_no_space_3 | squeezeweaponorchard |  
+| bip_39_word_no_space_4 | squeezeweaponorchardprice |  
+| bip_39_word_no_space_5 | squeezeweaponorchardpricesphere |  
+| bip_39_word_no_space_6 | squeezeweaponorchardpricespherepresent |  
+| bip_39_word_no_space_7 | squeezeweaponorchardpricespherepresentawesome |  
+| bip_39_word_no_space_8 | squeezeweaponorchardpricespherepresentawesometotal |  
+| bip_39_word_no_space_9 | squeezeweaponorchardpricespherepresentawesometotalfirm |  
 | bip_39_word_space_0 | ['squeeze', 'weapon', 'orchard', 'price', 'sphere', 'present', 'awesome', 'total', 'firm', 'animal', 'father', 'arch'] |  
 | bip_39_word_space_1 | squeeze |  
 | bip_39_word_space_10 | squeeze weapon orchard price sphere present awesome total firm animal |  

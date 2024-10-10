@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'glove
   size
 
   song'
+bip_39_word_no_space_1: glove
+bip_39_word_no_space_10: glovebroomentryadvicesnackkangarooliftsizesongchurn
+bip_39_word_no_space_11: glovebroomentryadvicesnackkangarooliftsizesongchurnwelcome
+bip_39_word_no_space_12: glovebroomentryadvicesnackkangarooliftsizesongchurnwelcomeaffair
+bip_39_word_no_space_2: glovebroom
+bip_39_word_no_space_3: glovebroomentry
+bip_39_word_no_space_4: glovebroomentryadvice
+bip_39_word_no_space_5: glovebroomentryadvicesnack
+bip_39_word_no_space_6: glovebroomentryadvicesnackkangaroo
+bip_39_word_no_space_7: glovebroomentryadvicesnackkangaroolift
+bip_39_word_no_space_8: glovebroomentryadvicesnackkangarooliftsize
+bip_39_word_no_space_9: glovebroomentryadvicesnackkangarooliftsizesong
 bip_39_word_space_0:
 - glove
 - broom

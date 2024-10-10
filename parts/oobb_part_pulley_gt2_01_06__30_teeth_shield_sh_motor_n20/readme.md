@@ -122,6 +122,18 @@ miracle
 olive
 before
 drum |  
+| bip_39_word_no_space_1 | muffin |  
+| bip_39_word_no_space_10 | muffinwordannounceviruspotterymiracleolivebeforedrumfine |  
+| bip_39_word_no_space_11 | muffinwordannounceviruspotterymiracleolivebeforedrumfineaccuse |  
+| bip_39_word_no_space_12 | muffinwordannounceviruspotterymiracleolivebeforedrumfineaccuseability |  
+| bip_39_word_no_space_2 | muffinword |  
+| bip_39_word_no_space_3 | muffinwordannounce |  
+| bip_39_word_no_space_4 | muffinwordannouncevirus |  
+| bip_39_word_no_space_5 | muffinwordannounceviruspottery |  
+| bip_39_word_no_space_6 | muffinwordannounceviruspotterymiracle |  
+| bip_39_word_no_space_7 | muffinwordannounceviruspotterymiracleolive |  
+| bip_39_word_no_space_8 | muffinwordannounceviruspotterymiracleolivebefore |  
+| bip_39_word_no_space_9 | muffinwordannounceviruspotterymiracleolivebeforedrum |  
 | bip_39_word_space_0 | ['muffin', 'word', 'announce', 'virus', 'pottery', 'miracle', 'olive', 'before', 'drum', 'fine', 'accuse', 'ability'] |  
 | bip_39_word_space_1 | muffin |  
 | bip_39_word_space_10 | muffin word announce virus pottery miracle olive before drum fine |  

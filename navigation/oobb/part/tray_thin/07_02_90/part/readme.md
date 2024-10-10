@@ -122,6 +122,18 @@ avoid
 smoke
 fortune
 holiday |  
+| bip_39_word_no_space_1 | uphold |  
+| bip_39_word_no_space_10 | upholdminimumlecturejobbecomeavoidsmokefortuneholidayenter |  
+| bip_39_word_no_space_11 | upholdminimumlecturejobbecomeavoidsmokefortuneholidayenterobey |  
+| bip_39_word_no_space_12 | upholdminimumlecturejobbecomeavoidsmokefortuneholidayenterobeyathlete |  
+| bip_39_word_no_space_2 | upholdminimum |  
+| bip_39_word_no_space_3 | upholdminimumlecture |  
+| bip_39_word_no_space_4 | upholdminimumlecturejob |  
+| bip_39_word_no_space_5 | upholdminimumlecturejobbecome |  
+| bip_39_word_no_space_6 | upholdminimumlecturejobbecomeavoid |  
+| bip_39_word_no_space_7 | upholdminimumlecturejobbecomeavoidsmoke |  
+| bip_39_word_no_space_8 | upholdminimumlecturejobbecomeavoidsmokefortune |  
+| bip_39_word_no_space_9 | upholdminimumlecturejobbecomeavoidsmokefortuneholiday |  
 | bip_39_word_space_0 | ['uphold', 'minimum', 'lecture', 'job', 'become', 'avoid', 'smoke', 'fortune', 'holiday', 'enter', 'obey', 'athlete'] |  
 | bip_39_word_space_1 | uphold |  
 | bip_39_word_space_10 | uphold minimum lecture job become avoid smoke fortune holiday enter |  

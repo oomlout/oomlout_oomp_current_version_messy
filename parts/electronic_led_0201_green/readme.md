@@ -122,6 +122,18 @@ soldier
 lady
 panther
 heavy |  
+| bip_39_word_no_space_1 | enhance |  
+| bip_39_word_no_space_10 | enhanceaddhiddenshieldbuttersoldierladypantherheavyexcite |  
+| bip_39_word_no_space_11 | enhanceaddhiddenshieldbuttersoldierladypantherheavyexcitegloom |  
+| bip_39_word_no_space_12 | enhanceaddhiddenshieldbuttersoldierladypantherheavyexcitegloomanger |  
+| bip_39_word_no_space_2 | enhanceadd |  
+| bip_39_word_no_space_3 | enhanceaddhidden |  
+| bip_39_word_no_space_4 | enhanceaddhiddenshield |  
+| bip_39_word_no_space_5 | enhanceaddhiddenshieldbutter |  
+| bip_39_word_no_space_6 | enhanceaddhiddenshieldbuttersoldier |  
+| bip_39_word_no_space_7 | enhanceaddhiddenshieldbuttersoldierlady |  
+| bip_39_word_no_space_8 | enhanceaddhiddenshieldbuttersoldierladypanther |  
+| bip_39_word_no_space_9 | enhanceaddhiddenshieldbuttersoldierladypantherheavy |  
 | bip_39_word_space_0 | ['enhance', 'add', 'hidden', 'shield', 'butter', 'soldier', 'lady', 'panther', 'heavy', 'excite', 'gloom', 'anger'] |  
 | bip_39_word_space_1 | enhance |  
 | bip_39_word_space_10 | enhance add hidden shield butter soldier lady panther heavy excite |  

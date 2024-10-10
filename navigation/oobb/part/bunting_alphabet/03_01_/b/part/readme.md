@@ -122,6 +122,18 @@ suspect
 juice
 apology
 wood |  
+| bip_39_word_no_space_1 | sadness |  
+| bip_39_word_no_space_10 | sadnessincludedramacheapimmensesuspectjuiceapologywoodtail |  
+| bip_39_word_no_space_11 | sadnessincludedramacheapimmensesuspectjuiceapologywoodtailenable |  
+| bip_39_word_no_space_12 | sadnessincludedramacheapimmensesuspectjuiceapologywoodtailenableaverage |  
+| bip_39_word_no_space_2 | sadnessinclude |  
+| bip_39_word_no_space_3 | sadnessincludedrama |  
+| bip_39_word_no_space_4 | sadnessincludedramacheap |  
+| bip_39_word_no_space_5 | sadnessincludedramacheapimmense |  
+| bip_39_word_no_space_6 | sadnessincludedramacheapimmensesuspect |  
+| bip_39_word_no_space_7 | sadnessincludedramacheapimmensesuspectjuice |  
+| bip_39_word_no_space_8 | sadnessincludedramacheapimmensesuspectjuiceapology |  
+| bip_39_word_no_space_9 | sadnessincludedramacheapimmensesuspectjuiceapologywood |  
 | bip_39_word_space_0 | ['sadness', 'include', 'drama', 'cheap', 'immense', 'suspect', 'juice', 'apology', 'wood', 'tail', 'enable', 'average'] |  
 | bip_39_word_space_1 | sadness |  
 | bip_39_word_space_10 | sadness include drama cheap immense suspect juice apology wood tail |  

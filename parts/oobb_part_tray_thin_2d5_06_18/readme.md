@@ -109,6 +109,17 @@ boring
 arm
 desert
 shoe |  
+| bip_39_word_no_space_1 | whip |  
+| bip_39_word_no_space_10 | whipstonegrocerytinycourseboringarmdesertshoeearly |  
+| bip_39_word_no_space_11 | whipstonegrocerytinycourseboringarmdesertshoeearlyridge |  
+| bip_39_word_no_space_2 | whipstone |  
+| bip_39_word_no_space_3 | whipstonegrocery |  
+| bip_39_word_no_space_4 | whipstonegrocerytiny |  
+| bip_39_word_no_space_5 | whipstonegrocerytinycourse |  
+| bip_39_word_no_space_6 | whipstonegrocerytinycourseboring |  
+| bip_39_word_no_space_7 | whipstonegrocerytinycourseboringarm |  
+| bip_39_word_no_space_8 | whipstonegrocerytinycourseboringarmdesert |  
+| bip_39_word_no_space_9 | whipstonegrocerytinycourseboringarmdesertshoe |  
 | bip_39_word_space_0 | ['whip', 'stone', 'grocery', 'tiny', 'course', 'boring', 'arm', 'desert', 'shoe', 'early', 'ridge'] |  
 | bip_39_word_space_1 | whip |  
 | bip_39_word_space_10 | whip stone grocery tiny course boring arm desert shoe early |  

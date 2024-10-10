@@ -122,6 +122,18 @@ destroy
 rigid
 oval
 paper |  
+| bip_39_word_no_space_1 | boost |  
+| bip_39_word_no_space_10 | boostuncovermutualviewflamedestroyrigidovalpapermarch |  
+| bip_39_word_no_space_11 | boostuncovermutualviewflamedestroyrigidovalpapermarchumbrella |  
+| bip_39_word_no_space_12 | boostuncovermutualviewflamedestroyrigidovalpapermarchumbrellaappear |  
+| bip_39_word_no_space_2 | boostuncover |  
+| bip_39_word_no_space_3 | boostuncovermutual |  
+| bip_39_word_no_space_4 | boostuncovermutualview |  
+| bip_39_word_no_space_5 | boostuncovermutualviewflame |  
+| bip_39_word_no_space_6 | boostuncovermutualviewflamedestroy |  
+| bip_39_word_no_space_7 | boostuncovermutualviewflamedestroyrigid |  
+| bip_39_word_no_space_8 | boostuncovermutualviewflamedestroyrigidoval |  
+| bip_39_word_no_space_9 | boostuncovermutualviewflamedestroyrigidovalpaper |  
 | bip_39_word_space_0 | ['boost', 'uncover', 'mutual', 'view', 'flame', 'destroy', 'rigid', 'oval', 'paper', 'march', 'umbrella', 'appear'] |  
 | bip_39_word_space_1 | boost |  
 | bip_39_word_space_10 | boost uncover mutual view flame destroy rigid oval paper march |  

@@ -122,6 +122,18 @@ small
 order
 beach
 certain |  
+| bip_39_word_no_space_1 | bacon |  
+| bip_39_word_no_space_10 | baconwrongremainsloganmansmallorderbeachcertaindiamond |  
+| bip_39_word_no_space_11 | baconwrongremainsloganmansmallorderbeachcertaindiamondrifle |  
+| bip_39_word_no_space_12 | baconwrongremainsloganmansmallorderbeachcertaindiamondriflealone |  
+| bip_39_word_no_space_2 | baconwrong |  
+| bip_39_word_no_space_3 | baconwrongremain |  
+| bip_39_word_no_space_4 | baconwrongremainslogan |  
+| bip_39_word_no_space_5 | baconwrongremainsloganman |  
+| bip_39_word_no_space_6 | baconwrongremainsloganmansmall |  
+| bip_39_word_no_space_7 | baconwrongremainsloganmansmallorder |  
+| bip_39_word_no_space_8 | baconwrongremainsloganmansmallorderbeach |  
+| bip_39_word_no_space_9 | baconwrongremainsloganmansmallorderbeachcertain |  
 | bip_39_word_space_0 | ['bacon', 'wrong', 'remain', 'slogan', 'man', 'small', 'order', 'beach', 'certain', 'diamond', 'rifle', 'alone'] |  
 | bip_39_word_space_1 | bacon |  
 | bip_39_word_space_10 | bacon wrong remain slogan man small order beach certain diamond |  

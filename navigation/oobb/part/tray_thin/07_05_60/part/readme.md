@@ -122,6 +122,18 @@ math
 mammal
 bread
 must |  
+| bip_39_word_no_space_1 | lift |  
+| bip_39_word_no_space_10 | liftharshideagoddessleftmathmammalbreadmustwrong |  
+| bip_39_word_no_space_11 | liftharshideagoddessleftmathmammalbreadmustwrongcan |  
+| bip_39_word_no_space_12 | liftharshideagoddessleftmathmammalbreadmustwrongcanattract |  
+| bip_39_word_no_space_2 | liftharsh |  
+| bip_39_word_no_space_3 | liftharshidea |  
+| bip_39_word_no_space_4 | liftharshideagoddess |  
+| bip_39_word_no_space_5 | liftharshideagoddessleft |  
+| bip_39_word_no_space_6 | liftharshideagoddessleftmath |  
+| bip_39_word_no_space_7 | liftharshideagoddessleftmathmammal |  
+| bip_39_word_no_space_8 | liftharshideagoddessleftmathmammalbread |  
+| bip_39_word_no_space_9 | liftharshideagoddessleftmathmammalbreadmust |  
 | bip_39_word_space_0 | ['lift', 'harsh', 'idea', 'goddess', 'left', 'math', 'mammal', 'bread', 'must', 'wrong', 'can', 'attract'] |  
 | bip_39_word_space_1 | lift |  
 | bip_39_word_space_10 | lift harsh idea goddess left math mammal bread must wrong |  

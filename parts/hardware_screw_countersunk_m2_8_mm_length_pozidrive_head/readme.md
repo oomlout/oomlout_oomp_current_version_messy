@@ -122,6 +122,18 @@ humor
 gauge
 mutual
 cool |  
+| bip_39_word_no_space_1 | rocket |  
+| bip_39_word_no_space_10 | rocketyellowminorsolaranswerhumorgaugemutualcoolvast |  
+| bip_39_word_no_space_11 | rocketyellowminorsolaranswerhumorgaugemutualcoolvastinsect |  
+| bip_39_word_no_space_12 | rocketyellowminorsolaranswerhumorgaugemutualcoolvastinsectapology |  
+| bip_39_word_no_space_2 | rocketyellow |  
+| bip_39_word_no_space_3 | rocketyellowminor |  
+| bip_39_word_no_space_4 | rocketyellowminorsolar |  
+| bip_39_word_no_space_5 | rocketyellowminorsolaranswer |  
+| bip_39_word_no_space_6 | rocketyellowminorsolaranswerhumor |  
+| bip_39_word_no_space_7 | rocketyellowminorsolaranswerhumorgauge |  
+| bip_39_word_no_space_8 | rocketyellowminorsolaranswerhumorgaugemutual |  
+| bip_39_word_no_space_9 | rocketyellowminorsolaranswerhumorgaugemutualcool |  
 | bip_39_word_space_0 | ['rocket', 'yellow', 'minor', 'solar', 'answer', 'humor', 'gauge', 'mutual', 'cool', 'vast', 'insect', 'apology'] |  
 | bip_39_word_space_1 | rocket |  
 | bip_39_word_space_10 | rocket yellow minor solar answer humor gauge mutual cool vast |  

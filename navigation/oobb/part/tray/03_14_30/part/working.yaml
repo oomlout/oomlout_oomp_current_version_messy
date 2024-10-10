@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'turtle
   roast
 
   fluid'
+bip_39_word_no_space_1: turtle
+bip_39_word_no_space_10: turtlejarstartrewardmandateviewtasteroastfluidriot
+bip_39_word_no_space_11: turtlejarstartrewardmandateviewtasteroastfluidriotdanger
+bip_39_word_no_space_12: turtlejarstartrewardmandateviewtasteroastfluidriotdangerattend
+bip_39_word_no_space_2: turtlejar
+bip_39_word_no_space_3: turtlejarstart
+bip_39_word_no_space_4: turtlejarstartreward
+bip_39_word_no_space_5: turtlejarstartrewardmandate
+bip_39_word_no_space_6: turtlejarstartrewardmandateview
+bip_39_word_no_space_7: turtlejarstartrewardmandateviewtaste
+bip_39_word_no_space_8: turtlejarstartrewardmandateviewtasteroast
+bip_39_word_no_space_9: turtlejarstartrewardmandateviewtasteroastfluid
 bip_39_word_space_0:
 - turtle
 - jar

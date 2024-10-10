@@ -122,6 +122,18 @@ salt
 exist
 about
 live |  
+| bip_39_word_no_space_1 | goat |  
+| bip_39_word_no_space_10 | goatpleasemirrorcushionpalmsaltexistaboutlivestage |  
+| bip_39_word_no_space_11 | goatpleasemirrorcushionpalmsaltexistaboutlivestagedenial |  
+| bip_39_word_no_space_12 | goatpleasemirrorcushionpalmsaltexistaboutlivestagedenialannual |  
+| bip_39_word_no_space_2 | goatplease |  
+| bip_39_word_no_space_3 | goatpleasemirror |  
+| bip_39_word_no_space_4 | goatpleasemirrorcushion |  
+| bip_39_word_no_space_5 | goatpleasemirrorcushionpalm |  
+| bip_39_word_no_space_6 | goatpleasemirrorcushionpalmsalt |  
+| bip_39_word_no_space_7 | goatpleasemirrorcushionpalmsaltexist |  
+| bip_39_word_no_space_8 | goatpleasemirrorcushionpalmsaltexistabout |  
+| bip_39_word_no_space_9 | goatpleasemirrorcushionpalmsaltexistaboutlive |  
 | bip_39_word_space_0 | ['goat', 'please', 'mirror', 'cushion', 'palm', 'salt', 'exist', 'about', 'live', 'stage', 'denial', 'annual'] |  
 | bip_39_word_space_1 | goat |  
 | bip_39_word_space_10 | goat please mirror cushion palm salt exist about live stage |  

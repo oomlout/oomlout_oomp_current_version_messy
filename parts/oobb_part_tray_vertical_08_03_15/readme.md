@@ -122,6 +122,18 @@ certain
 lion
 assault
 melt |  
+| bip_39_word_no_space_1 | occur |  
+| bip_39_word_no_space_10 | occurgiveokayfacematrixcertainlionassaultmelttoss |  
+| bip_39_word_no_space_11 | occurgiveokayfacematrixcertainlionassaultmelttosspulp |  
+| bip_39_word_no_space_12 | occurgiveokayfacematrixcertainlionassaultmelttosspulpanalyst |  
+| bip_39_word_no_space_2 | occurgive |  
+| bip_39_word_no_space_3 | occurgiveokay |  
+| bip_39_word_no_space_4 | occurgiveokayface |  
+| bip_39_word_no_space_5 | occurgiveokayfacematrix |  
+| bip_39_word_no_space_6 | occurgiveokayfacematrixcertain |  
+| bip_39_word_no_space_7 | occurgiveokayfacematrixcertainlion |  
+| bip_39_word_no_space_8 | occurgiveokayfacematrixcertainlionassault |  
+| bip_39_word_no_space_9 | occurgiveokayfacematrixcertainlionassaultmelt |  
 | bip_39_word_space_0 | ['occur', 'give', 'okay', 'face', 'matrix', 'certain', 'lion', 'assault', 'melt', 'toss', 'pulp', 'analyst'] |  
 | bip_39_word_space_1 | occur |  
 | bip_39_word_space_10 | occur give okay face matrix certain lion assault melt toss |  

@@ -122,6 +122,18 @@ era
 limb
 cup
 fiscal |  
+| bip_39_word_no_space_1 | swallow |  
+| bip_39_word_no_space_10 | swallowpetincludecropholloweralimbcupfiscalbest |  
+| bip_39_word_no_space_11 | swallowpetincludecropholloweralimbcupfiscalbestmodel |  
+| bip_39_word_no_space_12 | swallowpetincludecropholloweralimbcupfiscalbestmodelappear |  
+| bip_39_word_no_space_2 | swallowpet |  
+| bip_39_word_no_space_3 | swallowpetinclude |  
+| bip_39_word_no_space_4 | swallowpetincludecrop |  
+| bip_39_word_no_space_5 | swallowpetincludecrophollow |  
+| bip_39_word_no_space_6 | swallowpetincludecrophollowera |  
+| bip_39_word_no_space_7 | swallowpetincludecropholloweralimb |  
+| bip_39_word_no_space_8 | swallowpetincludecropholloweralimbcup |  
+| bip_39_word_no_space_9 | swallowpetincludecropholloweralimbcupfiscal |  
 | bip_39_word_space_0 | ['swallow', 'pet', 'include', 'crop', 'hollow', 'era', 'limb', 'cup', 'fiscal', 'best', 'model', 'appear'] |  
 | bip_39_word_space_1 | swallow |  
 | bip_39_word_space_10 | swallow pet include crop hollow era limb cup fiscal best |  

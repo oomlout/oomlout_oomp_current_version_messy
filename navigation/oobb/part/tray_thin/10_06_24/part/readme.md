@@ -122,6 +122,18 @@ awful
 mimic
 current
 board |  
+| bip_39_word_no_space_1 | job |  
+| bip_39_word_no_space_10 | jobjellyquantumkneetimeawfulmimiccurrentboardexclude |  
+| bip_39_word_no_space_11 | jobjellyquantumkneetimeawfulmimiccurrentboardexcludeaugust |  
+| bip_39_word_no_space_12 | jobjellyquantumkneetimeawfulmimiccurrentboardexcludeaugustaudit |  
+| bip_39_word_no_space_2 | jobjelly |  
+| bip_39_word_no_space_3 | jobjellyquantum |  
+| bip_39_word_no_space_4 | jobjellyquantumknee |  
+| bip_39_word_no_space_5 | jobjellyquantumkneetime |  
+| bip_39_word_no_space_6 | jobjellyquantumkneetimeawful |  
+| bip_39_word_no_space_7 | jobjellyquantumkneetimeawfulmimic |  
+| bip_39_word_no_space_8 | jobjellyquantumkneetimeawfulmimiccurrent |  
+| bip_39_word_no_space_9 | jobjellyquantumkneetimeawfulmimiccurrentboard |  
 | bip_39_word_space_0 | ['job', 'jelly', 'quantum', 'knee', 'time', 'awful', 'mimic', 'current', 'board', 'exclude', 'august', 'audit'] |  
 | bip_39_word_space_1 | job |  
 | bip_39_word_space_10 | job jelly quantum knee time awful mimic current board exclude |  

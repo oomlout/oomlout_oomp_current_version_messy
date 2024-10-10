@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'antique
   young
 
   dune'
+bip_39_word_no_space_1: antique
+bip_39_word_no_space_10: antiqueofficemainlaundrydosesavesuperyoungdunerookie
+bip_39_word_no_space_11: antiqueofficemainlaundrydosesavesuperyoungdunerookieleopard
+bip_39_word_no_space_12: antiqueofficemainlaundrydosesavesuperyoungdunerookieleopardairport
+bip_39_word_no_space_2: antiqueoffice
+bip_39_word_no_space_3: antiqueofficemain
+bip_39_word_no_space_4: antiqueofficemainlaundry
+bip_39_word_no_space_5: antiqueofficemainlaundrydose
+bip_39_word_no_space_6: antiqueofficemainlaundrydosesave
+bip_39_word_no_space_7: antiqueofficemainlaundrydosesavesuper
+bip_39_word_no_space_8: antiqueofficemainlaundrydosesavesuperyoung
+bip_39_word_no_space_9: antiqueofficemainlaundrydosesavesuperyoungdune
 bip_39_word_space_0:
 - antique
 - office

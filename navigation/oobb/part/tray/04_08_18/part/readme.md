@@ -122,6 +122,18 @@ suit
 eyebrow
 put
 neither |  
+| bip_39_word_no_space_1 | coast |  
+| bip_39_word_no_space_10 | coastbeachgaplunchsmoothsuiteyebrowputneitherhawk |  
+| bip_39_word_no_space_11 | coastbeachgaplunchsmoothsuiteyebrowputneitherhawkreason |  
+| bip_39_word_no_space_12 | coastbeachgaplunchsmoothsuiteyebrowputneitherhawkreasonathlete |  
+| bip_39_word_no_space_2 | coastbeach |  
+| bip_39_word_no_space_3 | coastbeachgap |  
+| bip_39_word_no_space_4 | coastbeachgaplunch |  
+| bip_39_word_no_space_5 | coastbeachgaplunchsmooth |  
+| bip_39_word_no_space_6 | coastbeachgaplunchsmoothsuit |  
+| bip_39_word_no_space_7 | coastbeachgaplunchsmoothsuiteyebrow |  
+| bip_39_word_no_space_8 | coastbeachgaplunchsmoothsuiteyebrowput |  
+| bip_39_word_no_space_9 | coastbeachgaplunchsmoothsuiteyebrowputneither |  
 | bip_39_word_space_0 | ['coast', 'beach', 'gap', 'lunch', 'smooth', 'suit', 'eyebrow', 'put', 'neither', 'hawk', 'reason', 'athlete'] |  
 | bip_39_word_space_1 | coast |  
 | bip_39_word_space_10 | coast beach gap lunch smooth suit eyebrow put neither hawk |  

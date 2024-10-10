@@ -122,6 +122,18 @@ name
 mango
 jungle
 basic |  
+| bip_39_word_no_space_1 | ski |  
+| bip_39_word_no_space_10 | skiexcuseexitepisodeangrynamemangojunglebasicweb |  
+| bip_39_word_no_space_11 | skiexcuseexitepisodeangrynamemangojunglebasicwebnoise |  
+| bip_39_word_no_space_12 | skiexcuseexitepisodeangrynamemangojunglebasicwebnoisearrive |  
+| bip_39_word_no_space_2 | skiexcuse |  
+| bip_39_word_no_space_3 | skiexcuseexit |  
+| bip_39_word_no_space_4 | skiexcuseexitepisode |  
+| bip_39_word_no_space_5 | skiexcuseexitepisodeangry |  
+| bip_39_word_no_space_6 | skiexcuseexitepisodeangryname |  
+| bip_39_word_no_space_7 | skiexcuseexitepisodeangrynamemango |  
+| bip_39_word_no_space_8 | skiexcuseexitepisodeangrynamemangojungle |  
+| bip_39_word_no_space_9 | skiexcuseexitepisodeangrynamemangojunglebasic |  
 | bip_39_word_space_0 | ['ski', 'excuse', 'exit', 'episode', 'angry', 'name', 'mango', 'jungle', 'basic', 'web', 'noise', 'arrive'] |  
 | bip_39_word_space_1 | ski |  
 | bip_39_word_space_10 | ski excuse exit episode angry name mango jungle basic web |  

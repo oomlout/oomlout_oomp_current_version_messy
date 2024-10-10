@@ -122,6 +122,18 @@ apple
 inhale
 square
 caution |  
+| bip_39_word_no_space_1 | comfort |  
+| bip_39_word_no_space_10 | comfortvisaapprovepaymentlibertyappleinhalesquarecautionclient |  
+| bip_39_word_no_space_11 | comfortvisaapprovepaymentlibertyappleinhalesquarecautionclienttiny |  
+| bip_39_word_no_space_12 | comfortvisaapprovepaymentlibertyappleinhalesquarecautionclienttinyankle |  
+| bip_39_word_no_space_2 | comfortvisa |  
+| bip_39_word_no_space_3 | comfortvisaapprove |  
+| bip_39_word_no_space_4 | comfortvisaapprovepayment |  
+| bip_39_word_no_space_5 | comfortvisaapprovepaymentliberty |  
+| bip_39_word_no_space_6 | comfortvisaapprovepaymentlibertyapple |  
+| bip_39_word_no_space_7 | comfortvisaapprovepaymentlibertyappleinhale |  
+| bip_39_word_no_space_8 | comfortvisaapprovepaymentlibertyappleinhalesquare |  
+| bip_39_word_no_space_9 | comfortvisaapprovepaymentlibertyappleinhalesquarecaution |  
 | bip_39_word_space_0 | ['comfort', 'visa', 'approve', 'payment', 'liberty', 'apple', 'inhale', 'square', 'caution', 'client', 'tiny', 'ankle'] |  
 | bip_39_word_space_1 | comfort |  
 | bip_39_word_space_10 | comfort visa approve payment liberty apple inhale square caution client |  

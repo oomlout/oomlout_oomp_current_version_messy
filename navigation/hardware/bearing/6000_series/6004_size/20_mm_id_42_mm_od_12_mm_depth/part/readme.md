@@ -122,6 +122,18 @@ solve
 direct
 eight
 pattern |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illweekendtaskleftturtlesolvedirecteightpatterndash |  
+| bip_39_word_no_space_11 | illweekendtaskleftturtlesolvedirecteightpatterndashmoon |  
+| bip_39_word_no_space_12 | illweekendtaskleftturtlesolvedirecteightpatterndashmoonadult |  
+| bip_39_word_no_space_2 | illweekend |  
+| bip_39_word_no_space_3 | illweekendtask |  
+| bip_39_word_no_space_4 | illweekendtaskleft |  
+| bip_39_word_no_space_5 | illweekendtaskleftturtle |  
+| bip_39_word_no_space_6 | illweekendtaskleftturtlesolve |  
+| bip_39_word_no_space_7 | illweekendtaskleftturtlesolvedirect |  
+| bip_39_word_no_space_8 | illweekendtaskleftturtlesolvedirecteight |  
+| bip_39_word_no_space_9 | illweekendtaskleftturtlesolvedirecteightpattern |  
 | bip_39_word_space_0 | ['ill', 'weekend', 'task', 'left', 'turtle', 'solve', 'direct', 'eight', 'pattern', 'dash', 'moon', 'adult'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill weekend task left turtle solve direct eight pattern dash |  

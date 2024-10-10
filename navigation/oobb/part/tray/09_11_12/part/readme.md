@@ -122,6 +122,18 @@ manage
 slot
 employ
 match |  
+| bip_39_word_no_space_1 | layer |  
+| bip_39_word_no_space_10 | layersteakimposeignorehornmanageslotemploymatchauthor |  
+| bip_39_word_no_space_11 | layersteakimposeignorehornmanageslotemploymatchauthorcategory |  
+| bip_39_word_no_space_12 | layersteakimposeignorehornmanageslotemploymatchauthorcategoryadvice |  
+| bip_39_word_no_space_2 | layersteak |  
+| bip_39_word_no_space_3 | layersteakimpose |  
+| bip_39_word_no_space_4 | layersteakimposeignore |  
+| bip_39_word_no_space_5 | layersteakimposeignorehorn |  
+| bip_39_word_no_space_6 | layersteakimposeignorehornmanage |  
+| bip_39_word_no_space_7 | layersteakimposeignorehornmanageslot |  
+| bip_39_word_no_space_8 | layersteakimposeignorehornmanageslotemploy |  
+| bip_39_word_no_space_9 | layersteakimposeignorehornmanageslotemploymatch |  
 | bip_39_word_space_0 | ['layer', 'steak', 'impose', 'ignore', 'horn', 'manage', 'slot', 'employ', 'match', 'author', 'category', 'advice'] |  
 | bip_39_word_space_1 | layer |  
 | bip_39_word_space_10 | layer steak impose ignore horn manage slot employ match author |  

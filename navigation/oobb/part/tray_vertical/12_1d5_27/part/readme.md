@@ -122,6 +122,18 @@ canvas
 shrug
 wolf
 hybrid |  
+| bip_39_word_no_space_1 | eight |  
+| bip_39_word_no_space_10 | eightenactcaptainstartprofitcanvasshrugwolfhybridreturn |  
+| bip_39_word_no_space_11 | eightenactcaptainstartprofitcanvasshrugwolfhybridreturnlove |  
+| bip_39_word_no_space_12 | eightenactcaptainstartprofitcanvasshrugwolfhybridreturnloveargue |  
+| bip_39_word_no_space_2 | eightenact |  
+| bip_39_word_no_space_3 | eightenactcaptain |  
+| bip_39_word_no_space_4 | eightenactcaptainstart |  
+| bip_39_word_no_space_5 | eightenactcaptainstartprofit |  
+| bip_39_word_no_space_6 | eightenactcaptainstartprofitcanvas |  
+| bip_39_word_no_space_7 | eightenactcaptainstartprofitcanvasshrug |  
+| bip_39_word_no_space_8 | eightenactcaptainstartprofitcanvasshrugwolf |  
+| bip_39_word_no_space_9 | eightenactcaptainstartprofitcanvasshrugwolfhybrid |  
 | bip_39_word_space_0 | ['eight', 'enact', 'captain', 'start', 'profit', 'canvas', 'shrug', 'wolf', 'hybrid', 'return', 'love', 'argue'] |  
 | bip_39_word_space_1 | eight |  
 | bip_39_word_space_10 | eight enact captain start profit canvas shrug wolf hybrid return |  

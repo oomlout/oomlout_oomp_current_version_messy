@@ -122,6 +122,18 @@ divide
 sand
 joke
 mosquito |  
+| bip_39_word_no_space_1 | onion |  
+| bip_39_word_no_space_10 | onionmultiplysessionrendermysterydividesandjokemosquitorose |  
+| bip_39_word_no_space_11 | onionmultiplysessionrendermysterydividesandjokemosquitorosemoment |  
+| bip_39_word_no_space_12 | onionmultiplysessionrendermysterydividesandjokemosquitorosemomentarena |  
+| bip_39_word_no_space_2 | onionmultiply |  
+| bip_39_word_no_space_3 | onionmultiplysession |  
+| bip_39_word_no_space_4 | onionmultiplysessionrender |  
+| bip_39_word_no_space_5 | onionmultiplysessionrendermystery |  
+| bip_39_word_no_space_6 | onionmultiplysessionrendermysterydivide |  
+| bip_39_word_no_space_7 | onionmultiplysessionrendermysterydividesand |  
+| bip_39_word_no_space_8 | onionmultiplysessionrendermysterydividesandjoke |  
+| bip_39_word_no_space_9 | onionmultiplysessionrendermysterydividesandjokemosquito |  
 | bip_39_word_space_0 | ['onion', 'multiply', 'session', 'render', 'mystery', 'divide', 'sand', 'joke', 'mosquito', 'rose', 'moment', 'arena'] |  
 | bip_39_word_space_1 | onion |  
 | bip_39_word_space_10 | onion multiply session render mystery divide sand joke mosquito rose |  

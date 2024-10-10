@@ -122,6 +122,18 @@ web
 bulb
 notable
 price |  
+| bip_39_word_no_space_1 | suit |  
+| bip_39_word_no_space_10 | suitcanalcensusprovidecushionwebbulbnotablepriceexile |  
+| bip_39_word_no_space_11 | suitcanalcensusprovidecushionwebbulbnotablepriceexilegold |  
+| bip_39_word_no_space_12 | suitcanalcensusprovidecushionwebbulbnotablepriceexilegoldapprove |  
+| bip_39_word_no_space_2 | suitcanal |  
+| bip_39_word_no_space_3 | suitcanalcensus |  
+| bip_39_word_no_space_4 | suitcanalcensusprovide |  
+| bip_39_word_no_space_5 | suitcanalcensusprovidecushion |  
+| bip_39_word_no_space_6 | suitcanalcensusprovidecushionweb |  
+| bip_39_word_no_space_7 | suitcanalcensusprovidecushionwebbulb |  
+| bip_39_word_no_space_8 | suitcanalcensusprovidecushionwebbulbnotable |  
+| bip_39_word_no_space_9 | suitcanalcensusprovidecushionwebbulbnotableprice |  
 | bip_39_word_space_0 | ['suit', 'canal', 'census', 'provide', 'cushion', 'web', 'bulb', 'notable', 'price', 'exile', 'gold', 'approve'] |  
 | bip_39_word_space_1 | suit |  
 | bip_39_word_space_10 | suit canal census provide cushion web bulb notable price exile |  

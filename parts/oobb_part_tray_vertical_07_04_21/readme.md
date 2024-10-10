@@ -122,6 +122,18 @@ funny
 club
 start
 trash |  
+| bip_39_word_no_space_1 | tennis |  
+| bip_39_word_no_space_10 | tennissubwayseedcartsoonfunnyclubstarttrashcluster |  
+| bip_39_word_no_space_11 | tennissubwayseedcartsoonfunnyclubstarttrashclustercombine |  
+| bip_39_word_no_space_12 | tennissubwayseedcartsoonfunnyclubstarttrashclustercombinearmed |  
+| bip_39_word_no_space_2 | tennissubway |  
+| bip_39_word_no_space_3 | tennissubwayseed |  
+| bip_39_word_no_space_4 | tennissubwayseedcart |  
+| bip_39_word_no_space_5 | tennissubwayseedcartsoon |  
+| bip_39_word_no_space_6 | tennissubwayseedcartsoonfunny |  
+| bip_39_word_no_space_7 | tennissubwayseedcartsoonfunnyclub |  
+| bip_39_word_no_space_8 | tennissubwayseedcartsoonfunnyclubstart |  
+| bip_39_word_no_space_9 | tennissubwayseedcartsoonfunnyclubstarttrash |  
 | bip_39_word_space_0 | ['tennis', 'subway', 'seed', 'cart', 'soon', 'funny', 'club', 'start', 'trash', 'cluster', 'combine', 'armed'] |  
 | bip_39_word_space_1 | tennis |  
 | bip_39_word_space_10 | tennis subway seed cart soon funny club start trash cluster |  

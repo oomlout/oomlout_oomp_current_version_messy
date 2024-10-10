@@ -122,6 +122,18 @@ program
 dose
 senior
 grow |  
+| bip_39_word_no_space_1 | wave |  
+| bip_39_word_no_space_10 | wavefavoritespicedistanceecologyprogramdoseseniorgrowdress |  
+| bip_39_word_no_space_11 | wavefavoritespicedistanceecologyprogramdoseseniorgrowdressshell |  
+| bip_39_word_no_space_12 | wavefavoritespicedistanceecologyprogramdoseseniorgrowdressshellattack |  
+| bip_39_word_no_space_2 | wavefavorite |  
+| bip_39_word_no_space_3 | wavefavoritespice |  
+| bip_39_word_no_space_4 | wavefavoritespicedistance |  
+| bip_39_word_no_space_5 | wavefavoritespicedistanceecology |  
+| bip_39_word_no_space_6 | wavefavoritespicedistanceecologyprogram |  
+| bip_39_word_no_space_7 | wavefavoritespicedistanceecologyprogramdose |  
+| bip_39_word_no_space_8 | wavefavoritespicedistanceecologyprogramdosesenior |  
+| bip_39_word_no_space_9 | wavefavoritespicedistanceecologyprogramdoseseniorgrow |  
 | bip_39_word_space_0 | ['wave', 'favorite', 'spice', 'distance', 'ecology', 'program', 'dose', 'senior', 'grow', 'dress', 'shell', 'attack'] |  
 | bip_39_word_space_1 | wave |  
 | bip_39_word_space_10 | wave favorite spice distance ecology program dose senior grow dress |  

@@ -122,6 +122,18 @@ brave
 fence
 ship
 jar |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidaylampdonorabsenttwicebravefenceshipjarenlist |  
+| bip_39_word_no_space_11 | holidaylampdonorabsenttwicebravefenceshipjarenlistlava |  
+| bip_39_word_no_space_12 | holidaylampdonorabsenttwicebravefenceshipjarenlistlavaagent |  
+| bip_39_word_no_space_2 | holidaylamp |  
+| bip_39_word_no_space_3 | holidaylampdonor |  
+| bip_39_word_no_space_4 | holidaylampdonorabsent |  
+| bip_39_word_no_space_5 | holidaylampdonorabsenttwice |  
+| bip_39_word_no_space_6 | holidaylampdonorabsenttwicebrave |  
+| bip_39_word_no_space_7 | holidaylampdonorabsenttwicebravefence |  
+| bip_39_word_no_space_8 | holidaylampdonorabsenttwicebravefenceship |  
+| bip_39_word_no_space_9 | holidaylampdonorabsenttwicebravefenceshipjar |  
 | bip_39_word_space_0 | ['holiday', 'lamp', 'donor', 'absent', 'twice', 'brave', 'fence', 'ship', 'jar', 'enlist', 'lava', 'agent'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday lamp donor absent twice brave fence ship jar enlist |  

@@ -122,6 +122,18 @@ super
 host
 decrease
 stay |  
+| bip_39_word_no_space_1 | mosquito |  
+| bip_39_word_no_space_10 | mosquitooldminorbutterinheritsuperhostdecreasestayprefer |  
+| bip_39_word_no_space_11 | mosquitooldminorbutterinheritsuperhostdecreasestaypreferimmune |  
+| bip_39_word_no_space_12 | mosquitooldminorbutterinheritsuperhostdecreasestaypreferimmuneassist |  
+| bip_39_word_no_space_2 | mosquitoold |  
+| bip_39_word_no_space_3 | mosquitooldminor |  
+| bip_39_word_no_space_4 | mosquitooldminorbutter |  
+| bip_39_word_no_space_5 | mosquitooldminorbutterinherit |  
+| bip_39_word_no_space_6 | mosquitooldminorbutterinheritsuper |  
+| bip_39_word_no_space_7 | mosquitooldminorbutterinheritsuperhost |  
+| bip_39_word_no_space_8 | mosquitooldminorbutterinheritsuperhostdecrease |  
+| bip_39_word_no_space_9 | mosquitooldminorbutterinheritsuperhostdecreasestay |  
 | bip_39_word_space_0 | ['mosquito', 'old', 'minor', 'butter', 'inherit', 'super', 'host', 'decrease', 'stay', 'prefer', 'immune', 'assist'] |  
 | bip_39_word_space_1 | mosquito |  
 | bip_39_word_space_10 | mosquito old minor butter inherit super host decrease stay prefer |  

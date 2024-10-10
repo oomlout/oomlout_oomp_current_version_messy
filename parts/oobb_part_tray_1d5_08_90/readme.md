@@ -122,6 +122,18 @@ faint
 chase
 tobacco
 vault |  
+| bip_39_word_no_space_1 | chair |  
+| bip_39_word_no_space_10 | chairblackdiverttrucknearfaintchasetobaccovaultdeputy |  
+| bip_39_word_no_space_11 | chairblackdiverttrucknearfaintchasetobaccovaultdeputyluxury |  
+| bip_39_word_no_space_12 | chairblackdiverttrucknearfaintchasetobaccovaultdeputyluxuryattack |  
+| bip_39_word_no_space_2 | chairblack |  
+| bip_39_word_no_space_3 | chairblackdivert |  
+| bip_39_word_no_space_4 | chairblackdiverttruck |  
+| bip_39_word_no_space_5 | chairblackdiverttrucknear |  
+| bip_39_word_no_space_6 | chairblackdiverttrucknearfaint |  
+| bip_39_word_no_space_7 | chairblackdiverttrucknearfaintchase |  
+| bip_39_word_no_space_8 | chairblackdiverttrucknearfaintchasetobacco |  
+| bip_39_word_no_space_9 | chairblackdiverttrucknearfaintchasetobaccovault |  
 | bip_39_word_space_0 | ['chair', 'black', 'divert', 'truck', 'near', 'faint', 'chase', 'tobacco', 'vault', 'deputy', 'luxury', 'attack'] |  
 | bip_39_word_space_1 | chair |  
 | bip_39_word_space_10 | chair black divert truck near faint chase tobacco vault deputy |  

@@ -122,6 +122,18 @@ broccoli
 umbrella
 couch
 pyramid |  
+| bip_39_word_no_space_1 | prison |  
+| bip_39_word_no_space_10 | prisonrebeltrumpetsegmentlegendbroccoliumbrellacouchpyramidarrive |  
+| bip_39_word_no_space_11 | prisonrebeltrumpetsegmentlegendbroccoliumbrellacouchpyramidarriveangle |  
+| bip_39_word_no_space_12 | prisonrebeltrumpetsegmentlegendbroccoliumbrellacouchpyramidarriveanglearmor |  
+| bip_39_word_no_space_2 | prisonrebel |  
+| bip_39_word_no_space_3 | prisonrebeltrumpet |  
+| bip_39_word_no_space_4 | prisonrebeltrumpetsegment |  
+| bip_39_word_no_space_5 | prisonrebeltrumpetsegmentlegend |  
+| bip_39_word_no_space_6 | prisonrebeltrumpetsegmentlegendbroccoli |  
+| bip_39_word_no_space_7 | prisonrebeltrumpetsegmentlegendbroccoliumbrella |  
+| bip_39_word_no_space_8 | prisonrebeltrumpetsegmentlegendbroccoliumbrellacouch |  
+| bip_39_word_no_space_9 | prisonrebeltrumpetsegmentlegendbroccoliumbrellacouchpyramid |  
 | bip_39_word_space_0 | ['prison', 'rebel', 'trumpet', 'segment', 'legend', 'broccoli', 'umbrella', 'couch', 'pyramid', 'arrive', 'angle', 'armor'] |  
 | bip_39_word_space_1 | prison |  
 | bip_39_word_space_10 | prison rebel trumpet segment legend broccoli umbrella couch pyramid arrive |  

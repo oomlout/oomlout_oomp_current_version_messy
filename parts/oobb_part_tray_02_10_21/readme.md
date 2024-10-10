@@ -122,6 +122,18 @@ horn
 sustain
 that
 culture |  
+| bip_39_word_no_space_1 | wage |  
+| bip_39_word_no_space_10 | wagethumbsplitaccuseletterhornsustainthatculturewhip |  
+| bip_39_word_no_space_11 | wagethumbsplitaccuseletterhornsustainthatculturewhipdice |  
+| bip_39_word_no_space_12 | wagethumbsplitaccuseletterhornsustainthatculturewhipdiceantenna |  
+| bip_39_word_no_space_2 | wagethumb |  
+| bip_39_word_no_space_3 | wagethumbsplit |  
+| bip_39_word_no_space_4 | wagethumbsplitaccuse |  
+| bip_39_word_no_space_5 | wagethumbsplitaccuseletter |  
+| bip_39_word_no_space_6 | wagethumbsplitaccuseletterhorn |  
+| bip_39_word_no_space_7 | wagethumbsplitaccuseletterhornsustain |  
+| bip_39_word_no_space_8 | wagethumbsplitaccuseletterhornsustainthat |  
+| bip_39_word_no_space_9 | wagethumbsplitaccuseletterhornsustainthatculture |  
 | bip_39_word_space_0 | ['wage', 'thumb', 'split', 'accuse', 'letter', 'horn', 'sustain', 'that', 'culture', 'whip', 'dice', 'antenna'] |  
 | bip_39_word_space_1 | wage |  
 | bip_39_word_space_10 | wage thumb split accuse letter horn sustain that culture whip |  

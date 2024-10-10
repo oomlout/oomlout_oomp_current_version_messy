@@ -122,6 +122,18 @@ leave
 usual
 dilemma
 yellow |  
+| bip_39_word_no_space_1 | shy |  
+| bip_39_word_no_space_10 | shylotteryinsaneclownattackleaveusualdilemmayellowcasual |  
+| bip_39_word_no_space_11 | shylotteryinsaneclownattackleaveusualdilemmayellowcasualquiz |  
+| bip_39_word_no_space_12 | shylotteryinsaneclownattackleaveusualdilemmayellowcasualquizanswer |  
+| bip_39_word_no_space_2 | shylottery |  
+| bip_39_word_no_space_3 | shylotteryinsane |  
+| bip_39_word_no_space_4 | shylotteryinsaneclown |  
+| bip_39_word_no_space_5 | shylotteryinsaneclownattack |  
+| bip_39_word_no_space_6 | shylotteryinsaneclownattackleave |  
+| bip_39_word_no_space_7 | shylotteryinsaneclownattackleaveusual |  
+| bip_39_word_no_space_8 | shylotteryinsaneclownattackleaveusualdilemma |  
+| bip_39_word_no_space_9 | shylotteryinsaneclownattackleaveusualdilemmayellow |  
 | bip_39_word_space_0 | ['shy', 'lottery', 'insane', 'clown', 'attack', 'leave', 'usual', 'dilemma', 'yellow', 'casual', 'quiz', 'answer'] |  
 | bip_39_word_space_1 | shy |  
 | bip_39_word_space_10 | shy lottery insane clown attack leave usual dilemma yellow casual |  

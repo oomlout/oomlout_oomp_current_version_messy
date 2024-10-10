@@ -122,6 +122,18 @@ radio
 element
 rebel
 reform |  
+| bip_39_word_no_space_1 | horn |  
+| bip_39_word_no_space_10 | horntransferlazyriskcartradioelementrebelreformlearn |  
+| bip_39_word_no_space_11 | horntransferlazyriskcartradioelementrebelreformlearnstomach |  
+| bip_39_word_no_space_12 | horntransferlazyriskcartradioelementrebelreformlearnstomachabsent |  
+| bip_39_word_no_space_2 | horntransfer |  
+| bip_39_word_no_space_3 | horntransferlazy |  
+| bip_39_word_no_space_4 | horntransferlazyrisk |  
+| bip_39_word_no_space_5 | horntransferlazyriskcart |  
+| bip_39_word_no_space_6 | horntransferlazyriskcartradio |  
+| bip_39_word_no_space_7 | horntransferlazyriskcartradioelement |  
+| bip_39_word_no_space_8 | horntransferlazyriskcartradioelementrebel |  
+| bip_39_word_no_space_9 | horntransferlazyriskcartradioelementrebelreform |  
 | bip_39_word_space_0 | ['horn', 'transfer', 'lazy', 'risk', 'cart', 'radio', 'element', 'rebel', 'reform', 'learn', 'stomach', 'absent'] |  
 | bip_39_word_space_1 | horn |  
 | bip_39_word_space_10 | horn transfer lazy risk cart radio element rebel reform learn |  

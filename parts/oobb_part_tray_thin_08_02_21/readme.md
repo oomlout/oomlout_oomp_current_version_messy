@@ -122,6 +122,18 @@ seed
 crouch
 sponsor
 tuna |  
+| bip_39_word_no_space_1 | solution |  
+| bip_39_word_no_space_10 | solutionwinnerlaborprofitoverseedcrouchsponsortunaembrace |  
+| bip_39_word_no_space_11 | solutionwinnerlaborprofitoverseedcrouchsponsortunaembracediscover |  
+| bip_39_word_no_space_12 | solutionwinnerlaborprofitoverseedcrouchsponsortunaembracediscoverathlete |  
+| bip_39_word_no_space_2 | solutionwinner |  
+| bip_39_word_no_space_3 | solutionwinnerlabor |  
+| bip_39_word_no_space_4 | solutionwinnerlaborprofit |  
+| bip_39_word_no_space_5 | solutionwinnerlaborprofitover |  
+| bip_39_word_no_space_6 | solutionwinnerlaborprofitoverseed |  
+| bip_39_word_no_space_7 | solutionwinnerlaborprofitoverseedcrouch |  
+| bip_39_word_no_space_8 | solutionwinnerlaborprofitoverseedcrouchsponsor |  
+| bip_39_word_no_space_9 | solutionwinnerlaborprofitoverseedcrouchsponsortuna |  
 | bip_39_word_space_0 | ['solution', 'winner', 'labor', 'profit', 'over', 'seed', 'crouch', 'sponsor', 'tuna', 'embrace', 'discover', 'athlete'] |  
 | bip_39_word_space_1 | solution |  
 | bip_39_word_space_10 | solution winner labor profit over seed crouch sponsor tuna embrace |  

@@ -122,6 +122,18 @@ kit
 deposit
 estate
 add |  
+| bip_39_word_no_space_1 | hybrid |  
+| bip_39_word_no_space_10 | hybridpulpguitarmasterconfirmkitdepositestateaddfestival |  
+| bip_39_word_no_space_11 | hybridpulpguitarmasterconfirmkitdepositestateaddfestivalthunder |  
+| bip_39_word_no_space_12 | hybridpulpguitarmasterconfirmkitdepositestateaddfestivalthunderarmy |  
+| bip_39_word_no_space_2 | hybridpulp |  
+| bip_39_word_no_space_3 | hybridpulpguitar |  
+| bip_39_word_no_space_4 | hybridpulpguitarmaster |  
+| bip_39_word_no_space_5 | hybridpulpguitarmasterconfirm |  
+| bip_39_word_no_space_6 | hybridpulpguitarmasterconfirmkit |  
+| bip_39_word_no_space_7 | hybridpulpguitarmasterconfirmkitdeposit |  
+| bip_39_word_no_space_8 | hybridpulpguitarmasterconfirmkitdepositestate |  
+| bip_39_word_no_space_9 | hybridpulpguitarmasterconfirmkitdepositestateadd |  
 | bip_39_word_space_0 | ['hybrid', 'pulp', 'guitar', 'master', 'confirm', 'kit', 'deposit', 'estate', 'add', 'festival', 'thunder', 'army'] |  
 | bip_39_word_space_1 | hybrid |  
 | bip_39_word_space_10 | hybrid pulp guitar master confirm kit deposit estate add festival |  

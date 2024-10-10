@@ -122,6 +122,18 @@ gentle
 inmate
 online
 problem |  
+| bip_39_word_no_space_1 | grid |  
+| bip_39_word_no_space_10 | gridpatternrailolympicchoosegentleinmateonlineproblemocean |  
+| bip_39_word_no_space_11 | gridpatternrailolympicchoosegentleinmateonlineproblemoceangloom |  
+| bip_39_word_no_space_12 | gridpatternrailolympicchoosegentleinmateonlineproblemoceangloomantenna |  
+| bip_39_word_no_space_2 | gridpattern |  
+| bip_39_word_no_space_3 | gridpatternrail |  
+| bip_39_word_no_space_4 | gridpatternrailolympic |  
+| bip_39_word_no_space_5 | gridpatternrailolympicchoose |  
+| bip_39_word_no_space_6 | gridpatternrailolympicchoosegentle |  
+| bip_39_word_no_space_7 | gridpatternrailolympicchoosegentleinmate |  
+| bip_39_word_no_space_8 | gridpatternrailolympicchoosegentleinmateonline |  
+| bip_39_word_no_space_9 | gridpatternrailolympicchoosegentleinmateonlineproblem |  
 | bip_39_word_space_0 | ['grid', 'pattern', 'rail', 'olympic', 'choose', 'gentle', 'inmate', 'online', 'problem', 'ocean', 'gloom', 'antenna'] |  
 | bip_39_word_space_1 | grid |  
 | bip_39_word_space_10 | grid pattern rail olympic choose gentle inmate online problem ocean |  

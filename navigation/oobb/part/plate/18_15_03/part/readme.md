@@ -122,6 +122,18 @@ tattoo
 kind
 skull
 degree |  
+| bip_39_word_no_space_1 | gauge |  
+| bip_39_word_no_space_10 | gaugelampcupinputflushtattookindskulldegreeroof |  
+| bip_39_word_no_space_11 | gaugelampcupinputflushtattookindskulldegreeroofauction |  
+| bip_39_word_no_space_12 | gaugelampcupinputflushtattookindskulldegreeroofauctionalmost |  
+| bip_39_word_no_space_2 | gaugelamp |  
+| bip_39_word_no_space_3 | gaugelampcup |  
+| bip_39_word_no_space_4 | gaugelampcupinput |  
+| bip_39_word_no_space_5 | gaugelampcupinputflush |  
+| bip_39_word_no_space_6 | gaugelampcupinputflushtattoo |  
+| bip_39_word_no_space_7 | gaugelampcupinputflushtattookind |  
+| bip_39_word_no_space_8 | gaugelampcupinputflushtattookindskull |  
+| bip_39_word_no_space_9 | gaugelampcupinputflushtattookindskulldegree |  
 | bip_39_word_space_0 | ['gauge', 'lamp', 'cup', 'input', 'flush', 'tattoo', 'kind', 'skull', 'degree', 'roof', 'auction', 'almost'] |  
 | bip_39_word_space_1 | gauge |  
 | bip_39_word_space_10 | gauge lamp cup input flush tattoo kind skull degree roof |  

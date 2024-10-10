@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stamp
   tiny
 
   supreme'
+bip_39_word_no_space_1: stamp
+bip_39_word_no_space_10: stampleaveblousethrowcoastyellowrailtinysupremelecture
+bip_39_word_no_space_11: stampleaveblousethrowcoastyellowrailtinysupremelecturedamp
+bip_39_word_no_space_12: stampleaveblousethrowcoastyellowrailtinysupremelecturedampamused
+bip_39_word_no_space_2: stampleave
+bip_39_word_no_space_3: stampleaveblouse
+bip_39_word_no_space_4: stampleaveblousethrow
+bip_39_word_no_space_5: stampleaveblousethrowcoast
+bip_39_word_no_space_6: stampleaveblousethrowcoastyellow
+bip_39_word_no_space_7: stampleaveblousethrowcoastyellowrail
+bip_39_word_no_space_8: stampleaveblousethrowcoastyellowrailtiny
+bip_39_word_no_space_9: stampleaveblousethrowcoastyellowrailtinysupreme
 bip_39_word_space_0:
 - stamp
 - leave

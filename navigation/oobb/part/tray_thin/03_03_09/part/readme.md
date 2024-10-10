@@ -122,6 +122,18 @@ pupil
 smooth
 open
 bread |  
+| bip_39_word_no_space_1 | disease |  
+| bip_39_word_no_space_10 | diseasepuddingmarblehotelperfectpupilsmoothopenbreadmerry |  
+| bip_39_word_no_space_11 | diseasepuddingmarblehotelperfectpupilsmoothopenbreadmerrysuit |  
+| bip_39_word_no_space_12 | diseasepuddingmarblehotelperfectpupilsmoothopenbreadmerrysuitarmor |  
+| bip_39_word_no_space_2 | diseasepudding |  
+| bip_39_word_no_space_3 | diseasepuddingmarble |  
+| bip_39_word_no_space_4 | diseasepuddingmarblehotel |  
+| bip_39_word_no_space_5 | diseasepuddingmarblehotelperfect |  
+| bip_39_word_no_space_6 | diseasepuddingmarblehotelperfectpupil |  
+| bip_39_word_no_space_7 | diseasepuddingmarblehotelperfectpupilsmooth |  
+| bip_39_word_no_space_8 | diseasepuddingmarblehotelperfectpupilsmoothopen |  
+| bip_39_word_no_space_9 | diseasepuddingmarblehotelperfectpupilsmoothopenbread |  
 | bip_39_word_space_0 | ['disease', 'pudding', 'marble', 'hotel', 'perfect', 'pupil', 'smooth', 'open', 'bread', 'merry', 'suit', 'armor'] |  
 | bip_39_word_space_1 | disease |  
 | bip_39_word_space_10 | disease pudding marble hotel perfect pupil smooth open bread merry |  

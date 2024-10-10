@@ -122,6 +122,18 @@ exclude
 lucky
 version
 torch |  
+| bip_39_word_no_space_1 | detect |  
+| bip_39_word_no_space_10 | detectslightcoconutclaprealexcludeluckyversiontorchbanner |  
+| bip_39_word_no_space_11 | detectslightcoconutclaprealexcludeluckyversiontorchbannercentury |  
+| bip_39_word_no_space_12 | detectslightcoconutclaprealexcludeluckyversiontorchbannercenturyarena |  
+| bip_39_word_no_space_2 | detectslight |  
+| bip_39_word_no_space_3 | detectslightcoconut |  
+| bip_39_word_no_space_4 | detectslightcoconutclap |  
+| bip_39_word_no_space_5 | detectslightcoconutclapreal |  
+| bip_39_word_no_space_6 | detectslightcoconutclaprealexclude |  
+| bip_39_word_no_space_7 | detectslightcoconutclaprealexcludelucky |  
+| bip_39_word_no_space_8 | detectslightcoconutclaprealexcludeluckyversion |  
+| bip_39_word_no_space_9 | detectslightcoconutclaprealexcludeluckyversiontorch |  
 | bip_39_word_space_0 | ['detect', 'slight', 'coconut', 'clap', 'real', 'exclude', 'lucky', 'version', 'torch', 'banner', 'century', 'arena'] |  
 | bip_39_word_space_1 | detect |  
 | bip_39_word_space_10 | detect slight coconut clap real exclude lucky version torch banner |  

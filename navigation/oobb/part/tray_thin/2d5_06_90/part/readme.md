@@ -122,6 +122,18 @@ train
 embrace
 length
 verify |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuildmarblesettlemechanicpotatotrainembracelengthverifyspread |  
+| bip_39_word_no_space_11 | rebuildmarblesettlemechanicpotatotrainembracelengthverifyspreadlanguage |  
+| bip_39_word_no_space_12 | rebuildmarblesettlemechanicpotatotrainembracelengthverifyspreadlanguageamount |  
+| bip_39_word_no_space_2 | rebuildmarble |  
+| bip_39_word_no_space_3 | rebuildmarblesettle |  
+| bip_39_word_no_space_4 | rebuildmarblesettlemechanic |  
+| bip_39_word_no_space_5 | rebuildmarblesettlemechanicpotato |  
+| bip_39_word_no_space_6 | rebuildmarblesettlemechanicpotatotrain |  
+| bip_39_word_no_space_7 | rebuildmarblesettlemechanicpotatotrainembrace |  
+| bip_39_word_no_space_8 | rebuildmarblesettlemechanicpotatotrainembracelength |  
+| bip_39_word_no_space_9 | rebuildmarblesettlemechanicpotatotrainembracelengthverify |  
 | bip_39_word_space_0 | ['rebuild', 'marble', 'settle', 'mechanic', 'potato', 'train', 'embrace', 'length', 'verify', 'spread', 'language', 'amount'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild marble settle mechanic potato train embrace length verify spread |  

@@ -122,6 +122,18 @@ lizard
 glare
 term
 tooth |  
+| bip_39_word_no_space_1 | canoe |  
+| bip_39_word_no_space_10 | canoecardtransferhighbetraylizardglaretermtoothbarrel |  
+| bip_39_word_no_space_11 | canoecardtransferhighbetraylizardglaretermtoothbarrelsatoshi |  
+| bip_39_word_no_space_12 | canoecardtransferhighbetraylizardglaretermtoothbarrelsatoshialbum |  
+| bip_39_word_no_space_2 | canoecard |  
+| bip_39_word_no_space_3 | canoecardtransfer |  
+| bip_39_word_no_space_4 | canoecardtransferhigh |  
+| bip_39_word_no_space_5 | canoecardtransferhighbetray |  
+| bip_39_word_no_space_6 | canoecardtransferhighbetraylizard |  
+| bip_39_word_no_space_7 | canoecardtransferhighbetraylizardglare |  
+| bip_39_word_no_space_8 | canoecardtransferhighbetraylizardglareterm |  
+| bip_39_word_no_space_9 | canoecardtransferhighbetraylizardglaretermtooth |  
 | bip_39_word_space_0 | ['canoe', 'card', 'transfer', 'high', 'betray', 'lizard', 'glare', 'term', 'tooth', 'barrel', 'satoshi', 'album'] |  
 | bip_39_word_space_1 | canoe |  
 | bip_39_word_space_10 | canoe card transfer high betray lizard glare term tooth barrel |  

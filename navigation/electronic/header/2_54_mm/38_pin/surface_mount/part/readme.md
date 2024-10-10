@@ -122,6 +122,18 @@ almost
 teach
 science
 hurt |  
+| bip_39_word_no_space_1 | sail |  
+| bip_39_word_no_space_10 | sailwifeexcusedonorvendoralmostteachsciencehurtentire |  
+| bip_39_word_no_space_11 | sailwifeexcusedonorvendoralmostteachsciencehurtentireyellow |  
+| bip_39_word_no_space_12 | sailwifeexcusedonorvendoralmostteachsciencehurtentireyellowattend |  
+| bip_39_word_no_space_2 | sailwife |  
+| bip_39_word_no_space_3 | sailwifeexcuse |  
+| bip_39_word_no_space_4 | sailwifeexcusedonor |  
+| bip_39_word_no_space_5 | sailwifeexcusedonorvendor |  
+| bip_39_word_no_space_6 | sailwifeexcusedonorvendoralmost |  
+| bip_39_word_no_space_7 | sailwifeexcusedonorvendoralmostteach |  
+| bip_39_word_no_space_8 | sailwifeexcusedonorvendoralmostteachscience |  
+| bip_39_word_no_space_9 | sailwifeexcusedonorvendoralmostteachsciencehurt |  
 | bip_39_word_space_0 | ['sail', 'wife', 'excuse', 'donor', 'vendor', 'almost', 'teach', 'science', 'hurt', 'entire', 'yellow', 'attend'] |  
 | bip_39_word_space_1 | sail |  
 | bip_39_word_space_10 | sail wife excuse donor vendor almost teach science hurt entire |  

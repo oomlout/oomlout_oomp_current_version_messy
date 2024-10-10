@@ -122,6 +122,18 @@ sentence
 pistol
 warm
 erase |  
+| bip_39_word_no_space_1 | tongue |  
+| bip_39_word_no_space_10 | tonguerealwettimberuniversesentencepistolwarmerasetree |  
+| bip_39_word_no_space_11 | tonguerealwettimberuniversesentencepistolwarmerasetreeanalyst |  
+| bip_39_word_no_space_12 | tonguerealwettimberuniversesentencepistolwarmerasetreeanalystall |  
+| bip_39_word_no_space_2 | tonguereal |  
+| bip_39_word_no_space_3 | tonguerealwet |  
+| bip_39_word_no_space_4 | tonguerealwettimber |  
+| bip_39_word_no_space_5 | tonguerealwettimberuniverse |  
+| bip_39_word_no_space_6 | tonguerealwettimberuniversesentence |  
+| bip_39_word_no_space_7 | tonguerealwettimberuniversesentencepistol |  
+| bip_39_word_no_space_8 | tonguerealwettimberuniversesentencepistolwarm |  
+| bip_39_word_no_space_9 | tonguerealwettimberuniversesentencepistolwarmerase |  
 | bip_39_word_space_0 | ['tongue', 'real', 'wet', 'timber', 'universe', 'sentence', 'pistol', 'warm', 'erase', 'tree', 'analyst', 'all'] |  
 | bip_39_word_space_1 | tongue |  
 | bip_39_word_space_10 | tongue real wet timber universe sentence pistol warm erase tree |  

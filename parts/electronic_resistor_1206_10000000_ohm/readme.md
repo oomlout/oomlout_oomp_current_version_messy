@@ -122,6 +122,18 @@ muffin
 donate
 fit
 vendor |  
+| bip_39_word_no_space_1 | ceiling |  
+| bip_39_word_no_space_10 | ceilingolympiceightcodefocusmuffindonatefitvendorlock |  
+| bip_39_word_no_space_11 | ceilingolympiceightcodefocusmuffindonatefitvendorlocksniff |  
+| bip_39_word_no_space_12 | ceilingolympiceightcodefocusmuffindonatefitvendorlocksniffalmost |  
+| bip_39_word_no_space_2 | ceilingolympic |  
+| bip_39_word_no_space_3 | ceilingolympiceight |  
+| bip_39_word_no_space_4 | ceilingolympiceightcode |  
+| bip_39_word_no_space_5 | ceilingolympiceightcodefocus |  
+| bip_39_word_no_space_6 | ceilingolympiceightcodefocusmuffin |  
+| bip_39_word_no_space_7 | ceilingolympiceightcodefocusmuffindonate |  
+| bip_39_word_no_space_8 | ceilingolympiceightcodefocusmuffindonatefit |  
+| bip_39_word_no_space_9 | ceilingolympiceightcodefocusmuffindonatefitvendor |  
 | bip_39_word_space_0 | ['ceiling', 'olympic', 'eight', 'code', 'focus', 'muffin', 'donate', 'fit', 'vendor', 'lock', 'sniff', 'almost'] |  
 | bip_39_word_space_1 | ceiling |  
 | bip_39_word_space_10 | ceiling olympic eight code focus muffin donate fit vendor lock |  

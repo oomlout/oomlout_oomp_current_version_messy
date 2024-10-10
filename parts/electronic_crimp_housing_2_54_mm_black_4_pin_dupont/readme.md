@@ -122,6 +122,18 @@ tool
 cabbage
 keep
 remember |  
+| bip_39_word_no_space_1 | shove |  
+| bip_39_word_no_space_10 | shovecarbonbusinesscomfortturkeytoolcabbagekeeprememberorchard |  
+| bip_39_word_no_space_11 | shovecarbonbusinesscomfortturkeytoolcabbagekeeprememberorchardhire |  
+| bip_39_word_no_space_12 | shovecarbonbusinesscomfortturkeytoolcabbagekeeprememberorchardhireaccuse |  
+| bip_39_word_no_space_2 | shovecarbon |  
+| bip_39_word_no_space_3 | shovecarbonbusiness |  
+| bip_39_word_no_space_4 | shovecarbonbusinesscomfort |  
+| bip_39_word_no_space_5 | shovecarbonbusinesscomfortturkey |  
+| bip_39_word_no_space_6 | shovecarbonbusinesscomfortturkeytool |  
+| bip_39_word_no_space_7 | shovecarbonbusinesscomfortturkeytoolcabbage |  
+| bip_39_word_no_space_8 | shovecarbonbusinesscomfortturkeytoolcabbagekeep |  
+| bip_39_word_no_space_9 | shovecarbonbusinesscomfortturkeytoolcabbagekeepremember |  
 | bip_39_word_space_0 | ['shove', 'carbon', 'business', 'comfort', 'turkey', 'tool', 'cabbage', 'keep', 'remember', 'orchard', 'hire', 'accuse'] |  
 | bip_39_word_space_1 | shove |  
 | bip_39_word_space_10 | shove carbon business comfort turkey tool cabbage keep remember orchard |  

@@ -122,6 +122,18 @@ unlock
 easy
 miss
 sand |  
+| bip_39_word_no_space_1 | fashion |  
+| bip_39_word_no_space_10 | fashionfitchimneyfitnesstrustunlockeasymisssandstool |  
+| bip_39_word_no_space_11 | fashionfitchimneyfitnesstrustunlockeasymisssandstoolregion |  
+| bip_39_word_no_space_12 | fashionfitchimneyfitnesstrustunlockeasymisssandstoolregionarmed |  
+| bip_39_word_no_space_2 | fashionfit |  
+| bip_39_word_no_space_3 | fashionfitchimney |  
+| bip_39_word_no_space_4 | fashionfitchimneyfitness |  
+| bip_39_word_no_space_5 | fashionfitchimneyfitnesstrust |  
+| bip_39_word_no_space_6 | fashionfitchimneyfitnesstrustunlock |  
+| bip_39_word_no_space_7 | fashionfitchimneyfitnesstrustunlockeasy |  
+| bip_39_word_no_space_8 | fashionfitchimneyfitnesstrustunlockeasymiss |  
+| bip_39_word_no_space_9 | fashionfitchimneyfitnesstrustunlockeasymisssand |  
 | bip_39_word_space_0 | ['fashion', 'fit', 'chimney', 'fitness', 'trust', 'unlock', 'easy', 'miss', 'sand', 'stool', 'region', 'armed'] |  
 | bip_39_word_space_1 | fashion |  
 | bip_39_word_space_10 | fashion fit chimney fitness trust unlock easy miss sand stool |  

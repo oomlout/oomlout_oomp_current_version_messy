@@ -122,6 +122,18 @@ hub
 this
 make
 rabbit |  
+| bip_39_word_no_space_1 | parade |  
+| bip_39_word_no_space_10 | paradefallvoyagecrushbrokenhubthismakerabbitbirth |  
+| bip_39_word_no_space_11 | paradefallvoyagecrushbrokenhubthismakerabbitbirthbrief |  
+| bip_39_word_no_space_12 | paradefallvoyagecrushbrokenhubthismakerabbitbirthbriefarea |  
+| bip_39_word_no_space_2 | paradefall |  
+| bip_39_word_no_space_3 | paradefallvoyage |  
+| bip_39_word_no_space_4 | paradefallvoyagecrush |  
+| bip_39_word_no_space_5 | paradefallvoyagecrushbroken |  
+| bip_39_word_no_space_6 | paradefallvoyagecrushbrokenhub |  
+| bip_39_word_no_space_7 | paradefallvoyagecrushbrokenhubthis |  
+| bip_39_word_no_space_8 | paradefallvoyagecrushbrokenhubthismake |  
+| bip_39_word_no_space_9 | paradefallvoyagecrushbrokenhubthismakerabbit |  
 | bip_39_word_space_0 | ['parade', 'fall', 'voyage', 'crush', 'broken', 'hub', 'this', 'make', 'rabbit', 'birth', 'brief', 'area'] |  
 | bip_39_word_space_1 | parade |  
 | bip_39_word_space_10 | parade fall voyage crush broken hub this make rabbit birth |  

@@ -122,6 +122,18 @@ destroy
 admit
 relief
 spot |  
+| bip_39_word_no_space_1 | swear |  
+| bip_39_word_no_space_10 | swearforwardnothingjaguaruniquedestroyadmitreliefspotanchor |  
+| bip_39_word_no_space_11 | swearforwardnothingjaguaruniquedestroyadmitreliefspotanchorhedgehog |  
+| bip_39_word_no_space_12 | swearforwardnothingjaguaruniquedestroyadmitreliefspotanchorhedgehogallow |  
+| bip_39_word_no_space_2 | swearforward |  
+| bip_39_word_no_space_3 | swearforwardnothing |  
+| bip_39_word_no_space_4 | swearforwardnothingjaguar |  
+| bip_39_word_no_space_5 | swearforwardnothingjaguarunique |  
+| bip_39_word_no_space_6 | swearforwardnothingjaguaruniquedestroy |  
+| bip_39_word_no_space_7 | swearforwardnothingjaguaruniquedestroyadmit |  
+| bip_39_word_no_space_8 | swearforwardnothingjaguaruniquedestroyadmitrelief |  
+| bip_39_word_no_space_9 | swearforwardnothingjaguaruniquedestroyadmitreliefspot |  
 | bip_39_word_space_0 | ['swear', 'forward', 'nothing', 'jaguar', 'unique', 'destroy', 'admit', 'relief', 'spot', 'anchor', 'hedgehog', 'allow'] |  
 | bip_39_word_space_1 | swear |  
 | bip_39_word_space_10 | swear forward nothing jaguar unique destroy admit relief spot anchor |  

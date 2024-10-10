@@ -122,6 +122,18 @@ curious
 clean
 timber
 that |  
+| bip_39_word_no_space_1 | lounge |  
+| bip_39_word_no_space_10 | loungesoldiertoddlervalleyneedcuriouscleantimberthatcricket |  
+| bip_39_word_no_space_11 | loungesoldiertoddlervalleyneedcuriouscleantimberthatcricketspring |  
+| bip_39_word_no_space_12 | loungesoldiertoddlervalleyneedcuriouscleantimberthatcricketspringarm |  
+| bip_39_word_no_space_2 | loungesoldier |  
+| bip_39_word_no_space_3 | loungesoldiertoddler |  
+| bip_39_word_no_space_4 | loungesoldiertoddlervalley |  
+| bip_39_word_no_space_5 | loungesoldiertoddlervalleyneed |  
+| bip_39_word_no_space_6 | loungesoldiertoddlervalleyneedcurious |  
+| bip_39_word_no_space_7 | loungesoldiertoddlervalleyneedcuriousclean |  
+| bip_39_word_no_space_8 | loungesoldiertoddlervalleyneedcuriouscleantimber |  
+| bip_39_word_no_space_9 | loungesoldiertoddlervalleyneedcuriouscleantimberthat |  
 | bip_39_word_space_0 | ['lounge', 'soldier', 'toddler', 'valley', 'need', 'curious', 'clean', 'timber', 'that', 'cricket', 'spring', 'arm'] |  
 | bip_39_word_space_1 | lounge |  
 | bip_39_word_space_10 | lounge soldier toddler valley need curious clean timber that cricket |  

@@ -122,6 +122,18 @@ chef
 toy
 reason
 spatial |  
+| bip_39_word_no_space_1 | rifle |  
+| bip_39_word_no_space_10 | riflevolcanoyouthstrugglerobotcheftoyreasonspatialhalf |  
+| bip_39_word_no_space_11 | riflevolcanoyouthstrugglerobotcheftoyreasonspatialhalfhello |  
+| bip_39_word_no_space_12 | riflevolcanoyouthstrugglerobotcheftoyreasonspatialhalfhelloavocado |  
+| bip_39_word_no_space_2 | riflevolcano |  
+| bip_39_word_no_space_3 | riflevolcanoyouth |  
+| bip_39_word_no_space_4 | riflevolcanoyouthstruggle |  
+| bip_39_word_no_space_5 | riflevolcanoyouthstrugglerobot |  
+| bip_39_word_no_space_6 | riflevolcanoyouthstrugglerobotchef |  
+| bip_39_word_no_space_7 | riflevolcanoyouthstrugglerobotcheftoy |  
+| bip_39_word_no_space_8 | riflevolcanoyouthstrugglerobotcheftoyreason |  
+| bip_39_word_no_space_9 | riflevolcanoyouthstrugglerobotcheftoyreasonspatial |  
 | bip_39_word_space_0 | ['rifle', 'volcano', 'youth', 'struggle', 'robot', 'chef', 'toy', 'reason', 'spatial', 'half', 'hello', 'avocado'] |  
 | bip_39_word_space_1 | rifle |  
 | bip_39_word_space_10 | rifle volcano youth struggle robot chef toy reason spatial half |  

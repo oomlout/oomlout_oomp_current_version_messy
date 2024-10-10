@@ -122,6 +122,18 @@ ginger
 fitness
 ship
 air |  
+| bip_39_word_no_space_1 | vintage |  
+| bip_39_word_no_space_10 | vintagegianthawkworryclutchgingerfitnessshipairshaft |  
+| bip_39_word_no_space_11 | vintagegianthawkworryclutchgingerfitnessshipairshaftgreen |  
+| bip_39_word_no_space_12 | vintagegianthawkworryclutchgingerfitnessshipairshaftgreenantique |  
+| bip_39_word_no_space_2 | vintagegiant |  
+| bip_39_word_no_space_3 | vintagegianthawk |  
+| bip_39_word_no_space_4 | vintagegianthawkworry |  
+| bip_39_word_no_space_5 | vintagegianthawkworryclutch |  
+| bip_39_word_no_space_6 | vintagegianthawkworryclutchginger |  
+| bip_39_word_no_space_7 | vintagegianthawkworryclutchgingerfitness |  
+| bip_39_word_no_space_8 | vintagegianthawkworryclutchgingerfitnessship |  
+| bip_39_word_no_space_9 | vintagegianthawkworryclutchgingerfitnessshipair |  
 | bip_39_word_space_0 | ['vintage', 'giant', 'hawk', 'worry', 'clutch', 'ginger', 'fitness', 'ship', 'air', 'shaft', 'green', 'antique'] |  
 | bip_39_word_space_1 | vintage |  
 | bip_39_word_space_10 | vintage giant hawk worry clutch ginger fitness ship air shaft |  

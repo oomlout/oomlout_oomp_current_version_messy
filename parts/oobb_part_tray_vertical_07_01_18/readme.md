@@ -122,6 +122,18 @@ remove
 grass
 engine
 canyon |  
+| bip_39_word_no_space_1 | teach |  
+| bip_39_word_no_space_10 | teachsweetadvancegenrethingremovegrassenginecanyonstuff |  
+| bip_39_word_no_space_11 | teachsweetadvancegenrethingremovegrassenginecanyonstuffmiddle |  
+| bip_39_word_no_space_12 | teachsweetadvancegenrethingremovegrassenginecanyonstuffmiddlealready |  
+| bip_39_word_no_space_2 | teachsweet |  
+| bip_39_word_no_space_3 | teachsweetadvance |  
+| bip_39_word_no_space_4 | teachsweetadvancegenre |  
+| bip_39_word_no_space_5 | teachsweetadvancegenrething |  
+| bip_39_word_no_space_6 | teachsweetadvancegenrethingremove |  
+| bip_39_word_no_space_7 | teachsweetadvancegenrethingremovegrass |  
+| bip_39_word_no_space_8 | teachsweetadvancegenrethingremovegrassengine |  
+| bip_39_word_no_space_9 | teachsweetadvancegenrethingremovegrassenginecanyon |  
 | bip_39_word_space_0 | ['teach', 'sweet', 'advance', 'genre', 'thing', 'remove', 'grass', 'engine', 'canyon', 'stuff', 'middle', 'already'] |  
 | bip_39_word_space_1 | teach |  
 | bip_39_word_space_10 | teach sweet advance genre thing remove grass engine canyon stuff |  

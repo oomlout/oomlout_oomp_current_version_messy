@@ -122,6 +122,18 @@ believe
 fix
 virus
 amazing |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | waycarpetfunstagerebelbelievefixvirusamazingdynamic |  
+| bip_39_word_no_space_11 | waycarpetfunstagerebelbelievefixvirusamazingdynamicmedia |  
+| bip_39_word_no_space_12 | waycarpetfunstagerebelbelievefixvirusamazingdynamicmediaassault |  
+| bip_39_word_no_space_2 | waycarpet |  
+| bip_39_word_no_space_3 | waycarpetfun |  
+| bip_39_word_no_space_4 | waycarpetfunstage |  
+| bip_39_word_no_space_5 | waycarpetfunstagerebel |  
+| bip_39_word_no_space_6 | waycarpetfunstagerebelbelieve |  
+| bip_39_word_no_space_7 | waycarpetfunstagerebelbelievefix |  
+| bip_39_word_no_space_8 | waycarpetfunstagerebelbelievefixvirus |  
+| bip_39_word_no_space_9 | waycarpetfunstagerebelbelievefixvirusamazing |  
 | bip_39_word_space_0 | ['way', 'carpet', 'fun', 'stage', 'rebel', 'believe', 'fix', 'virus', 'amazing', 'dynamic', 'media', 'assault'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way carpet fun stage rebel believe fix virus amazing dynamic |  

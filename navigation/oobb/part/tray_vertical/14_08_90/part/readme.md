@@ -122,6 +122,18 @@ return
 always
 casino
 worry |  
+| bip_39_word_no_space_1 | crime |  
+| bip_39_word_no_space_10 | crimeslowindustryvillageshedreturnalwayscasinoworryminimum |  
+| bip_39_word_no_space_11 | crimeslowindustryvillageshedreturnalwayscasinoworryminimumfederal |  
+| bip_39_word_no_space_12 | crimeslowindustryvillageshedreturnalwayscasinoworryminimumfederalarmed |  
+| bip_39_word_no_space_2 | crimeslow |  
+| bip_39_word_no_space_3 | crimeslowindustry |  
+| bip_39_word_no_space_4 | crimeslowindustryvillage |  
+| bip_39_word_no_space_5 | crimeslowindustryvillageshed |  
+| bip_39_word_no_space_6 | crimeslowindustryvillageshedreturn |  
+| bip_39_word_no_space_7 | crimeslowindustryvillageshedreturnalways |  
+| bip_39_word_no_space_8 | crimeslowindustryvillageshedreturnalwayscasino |  
+| bip_39_word_no_space_9 | crimeslowindustryvillageshedreturnalwayscasinoworry |  
 | bip_39_word_space_0 | ['crime', 'slow', 'industry', 'village', 'shed', 'return', 'always', 'casino', 'worry', 'minimum', 'federal', 'armed'] |  
 | bip_39_word_space_1 | crime |  
 | bip_39_word_space_10 | crime slow industry village shed return always casino worry minimum |  

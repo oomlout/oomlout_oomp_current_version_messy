@@ -122,6 +122,18 @@ delay
 trim
 shy
 common |  
+| bip_39_word_no_space_1 | purse |  
+| bip_39_word_no_space_10 | purseadvicegluedignitynestdelaytrimshycommonsymbol |  
+| bip_39_word_no_space_11 | purseadvicegluedignitynestdelaytrimshycommonsymboldentist |  
+| bip_39_word_no_space_12 | purseadvicegluedignitynestdelaytrimshycommonsymboldentistaddress |  
+| bip_39_word_no_space_2 | purseadvice |  
+| bip_39_word_no_space_3 | purseadviceglue |  
+| bip_39_word_no_space_4 | purseadvicegluedignity |  
+| bip_39_word_no_space_5 | purseadvicegluedignitynest |  
+| bip_39_word_no_space_6 | purseadvicegluedignitynestdelay |  
+| bip_39_word_no_space_7 | purseadvicegluedignitynestdelaytrim |  
+| bip_39_word_no_space_8 | purseadvicegluedignitynestdelaytrimshy |  
+| bip_39_word_no_space_9 | purseadvicegluedignitynestdelaytrimshycommon |  
 | bip_39_word_space_0 | ['purse', 'advice', 'glue', 'dignity', 'nest', 'delay', 'trim', 'shy', 'common', 'symbol', 'dentist', 'address'] |  
 | bip_39_word_space_1 | purse |  
 | bip_39_word_space_10 | purse advice glue dignity nest delay trim shy common symbol |  

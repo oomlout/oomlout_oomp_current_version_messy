@@ -122,6 +122,18 @@ chuckle
 check
 scan
 tiny |  
+| bip_39_word_no_space_1 | when |  
+| bip_39_word_no_space_10 | whenobserveenvelopeelevatortargetchucklecheckscantinyvenue |  
+| bip_39_word_no_space_11 | whenobserveenvelopeelevatortargetchucklecheckscantinyvenuepeanut |  
+| bip_39_word_no_space_12 | whenobserveenvelopeelevatortargetchucklecheckscantinyvenuepeanutattract |  
+| bip_39_word_no_space_2 | whenobserve |  
+| bip_39_word_no_space_3 | whenobserveenvelope |  
+| bip_39_word_no_space_4 | whenobserveenvelopeelevator |  
+| bip_39_word_no_space_5 | whenobserveenvelopeelevatortarget |  
+| bip_39_word_no_space_6 | whenobserveenvelopeelevatortargetchuckle |  
+| bip_39_word_no_space_7 | whenobserveenvelopeelevatortargetchucklecheck |  
+| bip_39_word_no_space_8 | whenobserveenvelopeelevatortargetchucklecheckscan |  
+| bip_39_word_no_space_9 | whenobserveenvelopeelevatortargetchucklecheckscantiny |  
 | bip_39_word_space_0 | ['when', 'observe', 'envelope', 'elevator', 'target', 'chuckle', 'check', 'scan', 'tiny', 'venue', 'peanut', 'attract'] |  
 | bip_39_word_space_1 | when |  
 | bip_39_word_space_10 | when observe envelope elevator target chuckle check scan tiny venue |  

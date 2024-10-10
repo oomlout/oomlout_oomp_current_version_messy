@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'balcony
   embody
 
   glory'
+bip_39_word_no_space_1: balcony
+bip_39_word_no_space_10: balconyhosthorntotalgardenlistsunsetembodygloryfemale
+bip_39_word_no_space_11: balconyhosthorntotalgardenlistsunsetembodygloryfemalestick
+bip_39_word_no_space_12: balconyhosthorntotalgardenlistsunsetembodygloryfemalestickaccount
+bip_39_word_no_space_2: balconyhost
+bip_39_word_no_space_3: balconyhosthorn
+bip_39_word_no_space_4: balconyhosthorntotal
+bip_39_word_no_space_5: balconyhosthorntotalgarden
+bip_39_word_no_space_6: balconyhosthorntotalgardenlist
+bip_39_word_no_space_7: balconyhosthorntotalgardenlistsunset
+bip_39_word_no_space_8: balconyhosthorntotalgardenlistsunsetembody
+bip_39_word_no_space_9: balconyhosthorntotalgardenlistsunsetembodyglory
 bip_39_word_space_0:
 - balcony
 - host

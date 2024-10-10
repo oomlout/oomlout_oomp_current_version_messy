@@ -122,6 +122,18 @@ exotic
 catalog
 feel
 super |  
+| bip_39_word_no_space_1 | peasant |  
+| bip_39_word_no_space_10 | peasantsomeonecarpetengineentryexoticcatalogfeelsuperrural |  
+| bip_39_word_no_space_11 | peasantsomeonecarpetengineentryexoticcatalogfeelsuperruralparrot |  
+| bip_39_word_no_space_12 | peasantsomeonecarpetengineentryexoticcatalogfeelsuperruralparrotarctic |  
+| bip_39_word_no_space_2 | peasantsomeone |  
+| bip_39_word_no_space_3 | peasantsomeonecarpet |  
+| bip_39_word_no_space_4 | peasantsomeonecarpetengine |  
+| bip_39_word_no_space_5 | peasantsomeonecarpetengineentry |  
+| bip_39_word_no_space_6 | peasantsomeonecarpetengineentryexotic |  
+| bip_39_word_no_space_7 | peasantsomeonecarpetengineentryexoticcatalog |  
+| bip_39_word_no_space_8 | peasantsomeonecarpetengineentryexoticcatalogfeel |  
+| bip_39_word_no_space_9 | peasantsomeonecarpetengineentryexoticcatalogfeelsuper |  
 | bip_39_word_space_0 | ['peasant', 'someone', 'carpet', 'engine', 'entry', 'exotic', 'catalog', 'feel', 'super', 'rural', 'parrot', 'arctic'] |  
 | bip_39_word_space_1 | peasant |  
 | bip_39_word_space_10 | peasant someone carpet engine entry exotic catalog feel super rural |  

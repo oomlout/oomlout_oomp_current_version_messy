@@ -122,6 +122,18 @@ speak
 lobster
 walnut
 ball |  
+| bip_39_word_no_space_1 | light |  
+| bip_39_word_no_space_10 | lightcupshiverpatchauditspeaklobsterwalnutballdoor |  
+| bip_39_word_no_space_11 | lightcupshiverpatchauditspeaklobsterwalnutballdoorunit |  
+| bip_39_word_no_space_12 | lightcupshiverpatchauditspeaklobsterwalnutballdoorunitadvance |  
+| bip_39_word_no_space_2 | lightcup |  
+| bip_39_word_no_space_3 | lightcupshiver |  
+| bip_39_word_no_space_4 | lightcupshiverpatch |  
+| bip_39_word_no_space_5 | lightcupshiverpatchaudit |  
+| bip_39_word_no_space_6 | lightcupshiverpatchauditspeak |  
+| bip_39_word_no_space_7 | lightcupshiverpatchauditspeaklobster |  
+| bip_39_word_no_space_8 | lightcupshiverpatchauditspeaklobsterwalnut |  
+| bip_39_word_no_space_9 | lightcupshiverpatchauditspeaklobsterwalnutball |  
 | bip_39_word_space_0 | ['light', 'cup', 'shiver', 'patch', 'audit', 'speak', 'lobster', 'walnut', 'ball', 'door', 'unit', 'advance'] |  
 | bip_39_word_space_1 | light |  
 | bip_39_word_space_10 | light cup shiver patch audit speak lobster walnut ball door |  

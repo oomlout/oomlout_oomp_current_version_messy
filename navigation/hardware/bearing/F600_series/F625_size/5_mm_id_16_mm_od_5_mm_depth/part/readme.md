@@ -122,6 +122,18 @@ abuse
 stage
 mom
 lamp |  
+| bip_39_word_no_space_1 | version |  
+| bip_39_word_no_space_10 | versionroyalsortcoasttableabusestagemomlamppeople |  
+| bip_39_word_no_space_11 | versionroyalsortcoasttableabusestagemomlamppeopleshine |  
+| bip_39_word_no_space_12 | versionroyalsortcoasttableabusestagemomlamppeopleshineaunt |  
+| bip_39_word_no_space_2 | versionroyal |  
+| bip_39_word_no_space_3 | versionroyalsort |  
+| bip_39_word_no_space_4 | versionroyalsortcoast |  
+| bip_39_word_no_space_5 | versionroyalsortcoasttable |  
+| bip_39_word_no_space_6 | versionroyalsortcoasttableabuse |  
+| bip_39_word_no_space_7 | versionroyalsortcoasttableabusestage |  
+| bip_39_word_no_space_8 | versionroyalsortcoasttableabusestagemom |  
+| bip_39_word_no_space_9 | versionroyalsortcoasttableabusestagemomlamp |  
 | bip_39_word_space_0 | ['version', 'royal', 'sort', 'coast', 'table', 'abuse', 'stage', 'mom', 'lamp', 'people', 'shine', 'aunt'] |  
 | bip_39_word_space_1 | version |  
 | bip_39_word_space_10 | version royal sort coast table abuse stage mom lamp people |  

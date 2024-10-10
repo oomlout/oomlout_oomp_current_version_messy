@@ -122,6 +122,18 @@ drink
 cry
 order
 dwarf |  
+| bip_39_word_no_space_1 | another |  
+| bip_39_word_no_space_10 | anothercombinemarbleobtainmarbledrinkcryorderdwarffashion |  
+| bip_39_word_no_space_11 | anothercombinemarbleobtainmarbledrinkcryorderdwarffashionrelease |  
+| bip_39_word_no_space_12 | anothercombinemarbleobtainmarbledrinkcryorderdwarffashionreleaseartwork |  
+| bip_39_word_no_space_2 | anothercombine |  
+| bip_39_word_no_space_3 | anothercombinemarble |  
+| bip_39_word_no_space_4 | anothercombinemarbleobtain |  
+| bip_39_word_no_space_5 | anothercombinemarbleobtainmarble |  
+| bip_39_word_no_space_6 | anothercombinemarbleobtainmarbledrink |  
+| bip_39_word_no_space_7 | anothercombinemarbleobtainmarbledrinkcry |  
+| bip_39_word_no_space_8 | anothercombinemarbleobtainmarbledrinkcryorder |  
+| bip_39_word_no_space_9 | anothercombinemarbleobtainmarbledrinkcryorderdwarf |  
 | bip_39_word_space_0 | ['another', 'combine', 'marble', 'obtain', 'marble', 'drink', 'cry', 'order', 'dwarf', 'fashion', 'release', 'artwork'] |  
 | bip_39_word_space_1 | another |  
 | bip_39_word_space_10 | another combine marble obtain marble drink cry order dwarf fashion |  

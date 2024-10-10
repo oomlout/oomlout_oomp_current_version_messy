@@ -122,6 +122,18 @@ release
 glide
 cart
 adjust |  
+| bip_39_word_no_space_1 | infant |  
+| bip_39_word_no_space_10 | infanttruthdomainnowwidthreleaseglidecartadjustbottom |  
+| bip_39_word_no_space_11 | infanttruthdomainnowwidthreleaseglidecartadjustbottomtransfer |  
+| bip_39_word_no_space_12 | infanttruthdomainnowwidthreleaseglidecartadjustbottomtransferavocado |  
+| bip_39_word_no_space_2 | infanttruth |  
+| bip_39_word_no_space_3 | infanttruthdomain |  
+| bip_39_word_no_space_4 | infanttruthdomainnow |  
+| bip_39_word_no_space_5 | infanttruthdomainnowwidth |  
+| bip_39_word_no_space_6 | infanttruthdomainnowwidthrelease |  
+| bip_39_word_no_space_7 | infanttruthdomainnowwidthreleaseglide |  
+| bip_39_word_no_space_8 | infanttruthdomainnowwidthreleaseglidecart |  
+| bip_39_word_no_space_9 | infanttruthdomainnowwidthreleaseglidecartadjust |  
 | bip_39_word_space_0 | ['infant', 'truth', 'domain', 'now', 'width', 'release', 'glide', 'cart', 'adjust', 'bottom', 'transfer', 'avocado'] |  
 | bip_39_word_space_1 | infant |  
 | bip_39_word_space_10 | infant truth domain now width release glide cart adjust bottom |  

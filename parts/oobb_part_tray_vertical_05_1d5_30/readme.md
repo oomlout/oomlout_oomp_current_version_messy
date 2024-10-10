@@ -122,6 +122,18 @@ spot
 energy
 job
 fence |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | ruledancedecemberinhalesuitspotenergyjobfencecountry |  
+| bip_39_word_no_space_11 | ruledancedecemberinhalesuitspotenergyjobfencecountrymelt |  
+| bip_39_word_no_space_12 | ruledancedecemberinhalesuitspotenergyjobfencecountrymeltarrive |  
+| bip_39_word_no_space_2 | ruledance |  
+| bip_39_word_no_space_3 | ruledancedecember |  
+| bip_39_word_no_space_4 | ruledancedecemberinhale |  
+| bip_39_word_no_space_5 | ruledancedecemberinhalesuit |  
+| bip_39_word_no_space_6 | ruledancedecemberinhalesuitspot |  
+| bip_39_word_no_space_7 | ruledancedecemberinhalesuitspotenergy |  
+| bip_39_word_no_space_8 | ruledancedecemberinhalesuitspotenergyjob |  
+| bip_39_word_no_space_9 | ruledancedecemberinhalesuitspotenergyjobfence |  
 | bip_39_word_space_0 | ['rule', 'dance', 'december', 'inhale', 'suit', 'spot', 'energy', 'job', 'fence', 'country', 'melt', 'arrive'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule dance december inhale suit spot energy job fence country |  

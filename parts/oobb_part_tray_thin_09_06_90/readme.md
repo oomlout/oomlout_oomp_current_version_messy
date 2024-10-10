@@ -122,6 +122,18 @@ drop
 open
 cycle
 success |  
+| bip_39_word_no_space_1 | approve |  
+| bip_39_word_no_space_10 | approveponygapalonesatoshidropopencyclesuccessdress |  
+| bip_39_word_no_space_11 | approveponygapalonesatoshidropopencyclesuccessdressproblem |  
+| bip_39_word_no_space_12 | approveponygapalonesatoshidropopencyclesuccessdressproblemanother |  
+| bip_39_word_no_space_2 | approvepony |  
+| bip_39_word_no_space_3 | approveponygap |  
+| bip_39_word_no_space_4 | approveponygapalone |  
+| bip_39_word_no_space_5 | approveponygapalonesatoshi |  
+| bip_39_word_no_space_6 | approveponygapalonesatoshidrop |  
+| bip_39_word_no_space_7 | approveponygapalonesatoshidropopen |  
+| bip_39_word_no_space_8 | approveponygapalonesatoshidropopencycle |  
+| bip_39_word_no_space_9 | approveponygapalonesatoshidropopencyclesuccess |  
 | bip_39_word_space_0 | ['approve', 'pony', 'gap', 'alone', 'satoshi', 'drop', 'open', 'cycle', 'success', 'dress', 'problem', 'another'] |  
 | bip_39_word_space_1 | approve |  
 | bip_39_word_space_10 | approve pony gap alone satoshi drop open cycle success dress |  

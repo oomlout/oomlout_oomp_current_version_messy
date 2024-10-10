@@ -122,6 +122,18 @@ special
 pelican
 manage
 lady |  
+| bip_39_word_no_space_1 | planet |  
+| bip_39_word_no_space_10 | planetcapabledoublevocalwayspecialpelicanmanageladycheck |  
+| bip_39_word_no_space_11 | planetcapabledoublevocalwayspecialpelicanmanageladycheckrazor |  
+| bip_39_word_no_space_12 | planetcapabledoublevocalwayspecialpelicanmanageladycheckrazoraim |  
+| bip_39_word_no_space_2 | planetcapable |  
+| bip_39_word_no_space_3 | planetcapabledouble |  
+| bip_39_word_no_space_4 | planetcapabledoublevocal |  
+| bip_39_word_no_space_5 | planetcapabledoublevocalway |  
+| bip_39_word_no_space_6 | planetcapabledoublevocalwayspecial |  
+| bip_39_word_no_space_7 | planetcapabledoublevocalwayspecialpelican |  
+| bip_39_word_no_space_8 | planetcapabledoublevocalwayspecialpelicanmanage |  
+| bip_39_word_no_space_9 | planetcapabledoublevocalwayspecialpelicanmanagelady |  
 | bip_39_word_space_0 | ['planet', 'capable', 'double', 'vocal', 'way', 'special', 'pelican', 'manage', 'lady', 'check', 'razor', 'aim'] |  
 | bip_39_word_space_1 | planet |  
 | bip_39_word_space_10 | planet capable double vocal way special pelican manage lady check |  

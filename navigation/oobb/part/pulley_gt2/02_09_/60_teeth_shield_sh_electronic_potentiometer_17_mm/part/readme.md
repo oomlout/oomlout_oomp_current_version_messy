@@ -122,6 +122,18 @@ reopen
 useful
 hold
 glance |  
+| bip_39_word_no_space_1 | raise |  
+| bip_39_word_no_space_10 | raiseincomedecadetitledinnerreopenusefulholdglanceassault |  
+| bip_39_word_no_space_11 | raiseincomedecadetitledinnerreopenusefulholdglanceassaultrifle |  
+| bip_39_word_no_space_12 | raiseincomedecadetitledinnerreopenusefulholdglanceassaultrifleachieve |  
+| bip_39_word_no_space_2 | raiseincome |  
+| bip_39_word_no_space_3 | raiseincomedecade |  
+| bip_39_word_no_space_4 | raiseincomedecadetitle |  
+| bip_39_word_no_space_5 | raiseincomedecadetitledinner |  
+| bip_39_word_no_space_6 | raiseincomedecadetitledinnerreopen |  
+| bip_39_word_no_space_7 | raiseincomedecadetitledinnerreopenuseful |  
+| bip_39_word_no_space_8 | raiseincomedecadetitledinnerreopenusefulhold |  
+| bip_39_word_no_space_9 | raiseincomedecadetitledinnerreopenusefulholdglance |  
 | bip_39_word_space_0 | ['raise', 'income', 'decade', 'title', 'dinner', 'reopen', 'useful', 'hold', 'glance', 'assault', 'rifle', 'achieve'] |  
 | bip_39_word_space_1 | raise |  
 | bip_39_word_space_10 | raise income decade title dinner reopen useful hold glance assault |  

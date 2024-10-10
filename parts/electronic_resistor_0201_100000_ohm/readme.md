@@ -122,6 +122,18 @@ theme
 pill
 wear
 priority |  
+| bip_39_word_no_space_1 | marble |  
+| bip_39_word_no_space_10 | marblespatialprotectpairvisitthemepillwearprioritysuch |  
+| bip_39_word_no_space_11 | marblespatialprotectpairvisitthemepillwearprioritysuchcamera |  
+| bip_39_word_no_space_12 | marblespatialprotectpairvisitthemepillwearprioritysuchcameraaction |  
+| bip_39_word_no_space_2 | marblespatial |  
+| bip_39_word_no_space_3 | marblespatialprotect |  
+| bip_39_word_no_space_4 | marblespatialprotectpair |  
+| bip_39_word_no_space_5 | marblespatialprotectpairvisit |  
+| bip_39_word_no_space_6 | marblespatialprotectpairvisittheme |  
+| bip_39_word_no_space_7 | marblespatialprotectpairvisitthemepill |  
+| bip_39_word_no_space_8 | marblespatialprotectpairvisitthemepillwear |  
+| bip_39_word_no_space_9 | marblespatialprotectpairvisitthemepillwearpriority |  
 | bip_39_word_space_0 | ['marble', 'spatial', 'protect', 'pair', 'visit', 'theme', 'pill', 'wear', 'priority', 'such', 'camera', 'action'] |  
 | bip_39_word_space_1 | marble |  
 | bip_39_word_space_10 | marble spatial protect pair visit theme pill wear priority such |  

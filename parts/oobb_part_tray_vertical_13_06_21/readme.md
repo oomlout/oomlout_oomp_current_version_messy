@@ -122,6 +122,18 @@ add
 inner
 damp
 control |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramburgerrotatetankforestaddinnerdampcontrolventure |  
+| bip_39_word_no_space_11 | cramburgerrotatetankforestaddinnerdampcontrolventurejaguar |  
+| bip_39_word_no_space_12 | cramburgerrotatetankforestaddinnerdampcontrolventurejaguaraccess |  
+| bip_39_word_no_space_2 | cramburger |  
+| bip_39_word_no_space_3 | cramburgerrotate |  
+| bip_39_word_no_space_4 | cramburgerrotatetank |  
+| bip_39_word_no_space_5 | cramburgerrotatetankforest |  
+| bip_39_word_no_space_6 | cramburgerrotatetankforestadd |  
+| bip_39_word_no_space_7 | cramburgerrotatetankforestaddinner |  
+| bip_39_word_no_space_8 | cramburgerrotatetankforestaddinnerdamp |  
+| bip_39_word_no_space_9 | cramburgerrotatetankforestaddinnerdampcontrol |  
 | bip_39_word_space_0 | ['cram', 'burger', 'rotate', 'tank', 'forest', 'add', 'inner', 'damp', 'control', 'venture', 'jaguar', 'access'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram burger rotate tank forest add inner damp control venture |  

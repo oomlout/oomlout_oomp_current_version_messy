@@ -122,6 +122,18 @@ dash
 tower
 body
 sure |  
+| bip_39_word_no_space_1 | dune |  
+| bip_39_word_no_space_10 | dunerandomjeansartpinkdashtowerbodysuremask |  
+| bip_39_word_no_space_11 | dunerandomjeansartpinkdashtowerbodysuremaskhawk |  
+| bip_39_word_no_space_12 | dunerandomjeansartpinkdashtowerbodysuremaskhawkauction |  
+| bip_39_word_no_space_2 | dunerandom |  
+| bip_39_word_no_space_3 | dunerandomjeans |  
+| bip_39_word_no_space_4 | dunerandomjeansart |  
+| bip_39_word_no_space_5 | dunerandomjeansartpink |  
+| bip_39_word_no_space_6 | dunerandomjeansartpinkdash |  
+| bip_39_word_no_space_7 | dunerandomjeansartpinkdashtower |  
+| bip_39_word_no_space_8 | dunerandomjeansartpinkdashtowerbody |  
+| bip_39_word_no_space_9 | dunerandomjeansartpinkdashtowerbodysure |  
 | bip_39_word_space_0 | ['dune', 'random', 'jeans', 'art', 'pink', 'dash', 'tower', 'body', 'sure', 'mask', 'hawk', 'auction'] |  
 | bip_39_word_space_1 | dune |  
 | bip_39_word_space_10 | dune random jeans art pink dash tower body sure mask |  

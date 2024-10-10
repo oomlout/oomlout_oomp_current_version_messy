@@ -122,6 +122,18 @@ venture
 just
 stem
 erosion |  
+| bip_39_word_no_space_1 | neck |  
+| bip_39_word_no_space_10 | neckerrorhumbleonceactorventurejuststemerosionpony |  
+| bip_39_word_no_space_11 | neckerrorhumbleonceactorventurejuststemerosionponyplace |  
+| bip_39_word_no_space_12 | neckerrorhumbleonceactorventurejuststemerosionponyplaceabsurd |  
+| bip_39_word_no_space_2 | neckerror |  
+| bip_39_word_no_space_3 | neckerrorhumble |  
+| bip_39_word_no_space_4 | neckerrorhumbleonce |  
+| bip_39_word_no_space_5 | neckerrorhumbleonceactor |  
+| bip_39_word_no_space_6 | neckerrorhumbleonceactorventure |  
+| bip_39_word_no_space_7 | neckerrorhumbleonceactorventurejust |  
+| bip_39_word_no_space_8 | neckerrorhumbleonceactorventurejuststem |  
+| bip_39_word_no_space_9 | neckerrorhumbleonceactorventurejuststemerosion |  
 | bip_39_word_space_0 | ['neck', 'error', 'humble', 'once', 'actor', 'venture', 'just', 'stem', 'erosion', 'pony', 'place', 'absurd'] |  
 | bip_39_word_space_1 | neck |  
 | bip_39_word_space_10 | neck error humble once actor venture just stem erosion pony |  

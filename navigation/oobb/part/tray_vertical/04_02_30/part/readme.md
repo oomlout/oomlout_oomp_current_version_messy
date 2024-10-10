@@ -122,6 +122,18 @@ nation
 bind
 grab
 useless |  
+| bip_39_word_no_space_1 | true |  
+| bip_39_word_no_space_10 | trueringsaysufferownernationbindgrabuselessinside |  
+| bip_39_word_no_space_11 | trueringsaysufferownernationbindgrabuselessinsidehospital |  
+| bip_39_word_no_space_12 | trueringsaysufferownernationbindgrabuselessinsidehospitalaugust |  
+| bip_39_word_no_space_2 | truering |  
+| bip_39_word_no_space_3 | trueringsay |  
+| bip_39_word_no_space_4 | trueringsaysuffer |  
+| bip_39_word_no_space_5 | trueringsaysufferowner |  
+| bip_39_word_no_space_6 | trueringsaysufferownernation |  
+| bip_39_word_no_space_7 | trueringsaysufferownernationbind |  
+| bip_39_word_no_space_8 | trueringsaysufferownernationbindgrab |  
+| bip_39_word_no_space_9 | trueringsaysufferownernationbindgrabuseless |  
 | bip_39_word_space_0 | ['true', 'ring', 'say', 'suffer', 'owner', 'nation', 'bind', 'grab', 'useless', 'inside', 'hospital', 'august'] |  
 | bip_39_word_space_1 | true |  
 | bip_39_word_space_10 | true ring say suffer owner nation bind grab useless inside |  

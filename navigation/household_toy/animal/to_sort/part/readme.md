@@ -122,6 +122,18 @@ purchase
 science
 unknown
 stuff |  
+| bip_39_word_no_space_1 | giggle |  
+| bip_39_word_no_space_10 | giggleignorecopperdutywearpurchasescienceunknownstuffhappy |  
+| bip_39_word_no_space_11 | giggleignorecopperdutywearpurchasescienceunknownstuffhappysafe |  
+| bip_39_word_no_space_12 | giggleignorecopperdutywearpurchasescienceunknownstuffhappysafeactor |  
+| bip_39_word_no_space_2 | giggleignore |  
+| bip_39_word_no_space_3 | giggleignorecopper |  
+| bip_39_word_no_space_4 | giggleignorecopperduty |  
+| bip_39_word_no_space_5 | giggleignorecopperdutywear |  
+| bip_39_word_no_space_6 | giggleignorecopperdutywearpurchase |  
+| bip_39_word_no_space_7 | giggleignorecopperdutywearpurchasescience |  
+| bip_39_word_no_space_8 | giggleignorecopperdutywearpurchasescienceunknown |  
+| bip_39_word_no_space_9 | giggleignorecopperdutywearpurchasescienceunknownstuff |  
 | bip_39_word_space_0 | ['giggle', 'ignore', 'copper', 'duty', 'wear', 'purchase', 'science', 'unknown', 'stuff', 'happy', 'safe', 'actor'] |  
 | bip_39_word_space_1 | giggle |  
 | bip_39_word_space_10 | giggle ignore copper duty wear purchase science unknown stuff happy |  

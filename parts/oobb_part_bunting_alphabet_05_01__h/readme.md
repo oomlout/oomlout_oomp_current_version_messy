@@ -122,6 +122,18 @@ away
 quote
 sudden
 abuse |  
+| bip_39_word_no_space_1 | measure |  
+| bip_39_word_no_space_10 | measurewallcriticharvestpolarawayquotesuddenabusedemand |  
+| bip_39_word_no_space_11 | measurewallcriticharvestpolarawayquotesuddenabusedemandankle |  
+| bip_39_word_no_space_12 | measurewallcriticharvestpolarawayquotesuddenabusedemandankleadapt |  
+| bip_39_word_no_space_2 | measurewall |  
+| bip_39_word_no_space_3 | measurewallcritic |  
+| bip_39_word_no_space_4 | measurewallcriticharvest |  
+| bip_39_word_no_space_5 | measurewallcriticharvestpolar |  
+| bip_39_word_no_space_6 | measurewallcriticharvestpolaraway |  
+| bip_39_word_no_space_7 | measurewallcriticharvestpolarawayquote |  
+| bip_39_word_no_space_8 | measurewallcriticharvestpolarawayquotesudden |  
+| bip_39_word_no_space_9 | measurewallcriticharvestpolarawayquotesuddenabuse |  
 | bip_39_word_space_0 | ['measure', 'wall', 'critic', 'harvest', 'polar', 'away', 'quote', 'sudden', 'abuse', 'demand', 'ankle', 'adapt'] |  
 | bip_39_word_space_1 | measure |  
 | bip_39_word_space_10 | measure wall critic harvest polar away quote sudden abuse demand |  

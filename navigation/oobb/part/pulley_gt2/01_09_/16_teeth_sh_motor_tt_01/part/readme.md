@@ -122,6 +122,18 @@ ankle
 parent
 neither
 state |  
+| bip_39_word_no_space_1 | patient |  
+| bip_39_word_no_space_10 | patientpencilawfulrescuethisankleparentneitherstateembark |  
+| bip_39_word_no_space_11 | patientpencilawfulrescuethisankleparentneitherstateembarkliquid |  
+| bip_39_word_no_space_12 | patientpencilawfulrescuethisankleparentneitherstateembarkliquidaisle |  
+| bip_39_word_no_space_2 | patientpencil |  
+| bip_39_word_no_space_3 | patientpencilawful |  
+| bip_39_word_no_space_4 | patientpencilawfulrescue |  
+| bip_39_word_no_space_5 | patientpencilawfulrescuethis |  
+| bip_39_word_no_space_6 | patientpencilawfulrescuethisankle |  
+| bip_39_word_no_space_7 | patientpencilawfulrescuethisankleparent |  
+| bip_39_word_no_space_8 | patientpencilawfulrescuethisankleparentneither |  
+| bip_39_word_no_space_9 | patientpencilawfulrescuethisankleparentneitherstate |  
 | bip_39_word_space_0 | ['patient', 'pencil', 'awful', 'rescue', 'this', 'ankle', 'parent', 'neither', 'state', 'embark', 'liquid', 'aisle'] |  
 | bip_39_word_space_1 | patient |  
 | bip_39_word_space_10 | patient pencil awful rescue this ankle parent neither state embark |  

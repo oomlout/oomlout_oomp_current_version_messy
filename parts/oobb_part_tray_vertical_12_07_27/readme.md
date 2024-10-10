@@ -122,6 +122,18 @@ glass
 elite
 spawn
 diagram |  
+| bip_39_word_no_space_1 | chef |  
+| bip_39_word_no_space_10 | chefslamareafestivalwireglasselitespawndiagramsorry |  
+| bip_39_word_no_space_11 | chefslamareafestivalwireglasselitespawndiagramsorrycopper |  
+| bip_39_word_no_space_12 | chefslamareafestivalwireglasselitespawndiagramsorrycopperalmost |  
+| bip_39_word_no_space_2 | chefslam |  
+| bip_39_word_no_space_3 | chefslamarea |  
+| bip_39_word_no_space_4 | chefslamareafestival |  
+| bip_39_word_no_space_5 | chefslamareafestivalwire |  
+| bip_39_word_no_space_6 | chefslamareafestivalwireglass |  
+| bip_39_word_no_space_7 | chefslamareafestivalwireglasselite |  
+| bip_39_word_no_space_8 | chefslamareafestivalwireglasselitespawn |  
+| bip_39_word_no_space_9 | chefslamareafestivalwireglasselitespawndiagram |  
 | bip_39_word_space_0 | ['chef', 'slam', 'area', 'festival', 'wire', 'glass', 'elite', 'spawn', 'diagram', 'sorry', 'copper', 'almost'] |  
 | bip_39_word_space_1 | chef |  
 | bip_39_word_space_10 | chef slam area festival wire glass elite spawn diagram sorry |  

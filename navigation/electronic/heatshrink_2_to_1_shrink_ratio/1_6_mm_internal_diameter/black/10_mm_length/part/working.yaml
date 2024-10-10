@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'leave
   ball
 
   vote'
+bip_39_word_no_space_1: leave
+bip_39_word_no_space_10: leavewisdomfirstdrytrashgenrelumberballvotetiger
+bip_39_word_no_space_11: leavewisdomfirstdrytrashgenrelumberballvotetigernegative
+bip_39_word_no_space_12: leavewisdomfirstdrytrashgenrelumberballvotetigernegativeafraid
+bip_39_word_no_space_2: leavewisdom
+bip_39_word_no_space_3: leavewisdomfirst
+bip_39_word_no_space_4: leavewisdomfirstdry
+bip_39_word_no_space_5: leavewisdomfirstdrytrash
+bip_39_word_no_space_6: leavewisdomfirstdrytrashgenre
+bip_39_word_no_space_7: leavewisdomfirstdrytrashgenrelumber
+bip_39_word_no_space_8: leavewisdomfirstdrytrashgenrelumberball
+bip_39_word_no_space_9: leavewisdomfirstdrytrashgenrelumberballvote
 bip_39_word_space_0:
 - leave
 - wisdom

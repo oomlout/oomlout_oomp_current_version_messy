@@ -122,6 +122,18 @@ oxygen
 coach
 wood
 turtle |  
+| bip_39_word_no_space_1 | sphere |  
+| bip_39_word_no_space_10 | spherefuryvapormilkcrewoxygencoachwoodturtleanimal |  
+| bip_39_word_no_space_11 | spherefuryvapormilkcrewoxygencoachwoodturtleanimalhorse |  
+| bip_39_word_no_space_12 | spherefuryvapormilkcrewoxygencoachwoodturtleanimalhorsearena |  
+| bip_39_word_no_space_2 | spherefury |  
+| bip_39_word_no_space_3 | spherefuryvapor |  
+| bip_39_word_no_space_4 | spherefuryvapormilk |  
+| bip_39_word_no_space_5 | spherefuryvapormilkcrew |  
+| bip_39_word_no_space_6 | spherefuryvapormilkcrewoxygen |  
+| bip_39_word_no_space_7 | spherefuryvapormilkcrewoxygencoach |  
+| bip_39_word_no_space_8 | spherefuryvapormilkcrewoxygencoachwood |  
+| bip_39_word_no_space_9 | spherefuryvapormilkcrewoxygencoachwoodturtle |  
 | bip_39_word_space_0 | ['sphere', 'fury', 'vapor', 'milk', 'crew', 'oxygen', 'coach', 'wood', 'turtle', 'animal', 'horse', 'arena'] |  
 | bip_39_word_space_1 | sphere |  
 | bip_39_word_space_10 | sphere fury vapor milk crew oxygen coach wood turtle animal |  

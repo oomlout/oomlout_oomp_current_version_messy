@@ -122,6 +122,18 @@ license
 erode
 embrace
 believe |  
+| bip_39_word_no_space_1 | tray |  
+| bip_39_word_no_space_10 | traysampletrulytwicelivelicenseerodeembracebelievelegend |  
+| bip_39_word_no_space_11 | traysampletrulytwicelivelicenseerodeembracebelievelegendbrain |  
+| bip_39_word_no_space_12 | traysampletrulytwicelivelicenseerodeembracebelievelegendbrainacquire |  
+| bip_39_word_no_space_2 | traysample |  
+| bip_39_word_no_space_3 | traysampletruly |  
+| bip_39_word_no_space_4 | traysampletrulytwice |  
+| bip_39_word_no_space_5 | traysampletrulytwicelive |  
+| bip_39_word_no_space_6 | traysampletrulytwicelivelicense |  
+| bip_39_word_no_space_7 | traysampletrulytwicelivelicenseerode |  
+| bip_39_word_no_space_8 | traysampletrulytwicelivelicenseerodeembrace |  
+| bip_39_word_no_space_9 | traysampletrulytwicelivelicenseerodeembracebelieve |  
 | bip_39_word_space_0 | ['tray', 'sample', 'truly', 'twice', 'live', 'license', 'erode', 'embrace', 'believe', 'legend', 'brain', 'acquire'] |  
 | bip_39_word_space_1 | tray |  
 | bip_39_word_space_10 | tray sample truly twice live license erode embrace believe legend |  

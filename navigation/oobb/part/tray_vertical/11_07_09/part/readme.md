@@ -122,6 +122,18 @@ announce
 wine
 hawk
 ability |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerenterbronzerosebambooannouncewinehawkabilityjoke |  
+| bip_39_word_no_space_11 | toddlerenterbronzerosebambooannouncewinehawkabilityjoketrouble |  
+| bip_39_word_no_space_12 | toddlerenterbronzerosebambooannouncewinehawkabilityjoketroublealpha |  
+| bip_39_word_no_space_2 | toddlerenter |  
+| bip_39_word_no_space_3 | toddlerenterbronze |  
+| bip_39_word_no_space_4 | toddlerenterbronzerose |  
+| bip_39_word_no_space_5 | toddlerenterbronzerosebamboo |  
+| bip_39_word_no_space_6 | toddlerenterbronzerosebambooannounce |  
+| bip_39_word_no_space_7 | toddlerenterbronzerosebambooannouncewine |  
+| bip_39_word_no_space_8 | toddlerenterbronzerosebambooannouncewinehawk |  
+| bip_39_word_no_space_9 | toddlerenterbronzerosebambooannouncewinehawkability |  
 | bip_39_word_space_0 | ['toddler', 'enter', 'bronze', 'rose', 'bamboo', 'announce', 'wine', 'hawk', 'ability', 'joke', 'trouble', 'alpha'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler enter bronze rose bamboo announce wine hawk ability joke |  

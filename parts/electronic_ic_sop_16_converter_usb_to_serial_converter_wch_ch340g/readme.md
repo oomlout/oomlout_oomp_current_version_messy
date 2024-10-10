@@ -122,6 +122,18 @@ high
 flat
 reward
 siren |  
+| bip_39_word_no_space_1 | vote |  
+| bip_39_word_no_space_10 | votemombottomsmiledepthhighflatrewardsirentoddler |  
+| bip_39_word_no_space_11 | votemombottomsmiledepthhighflatrewardsirentoddleroutside |  
+| bip_39_word_no_space_12 | votemombottomsmiledepthhighflatrewardsirentoddleroutsideabstract |  
+| bip_39_word_no_space_2 | votemom |  
+| bip_39_word_no_space_3 | votemombottom |  
+| bip_39_word_no_space_4 | votemombottomsmile |  
+| bip_39_word_no_space_5 | votemombottomsmiledepth |  
+| bip_39_word_no_space_6 | votemombottomsmiledepthhigh |  
+| bip_39_word_no_space_7 | votemombottomsmiledepthhighflat |  
+| bip_39_word_no_space_8 | votemombottomsmiledepthhighflatreward |  
+| bip_39_word_no_space_9 | votemombottomsmiledepthhighflatrewardsiren |  
 | bip_39_word_space_0 | ['vote', 'mom', 'bottom', 'smile', 'depth', 'high', 'flat', 'reward', 'siren', 'toddler', 'outside', 'abstract'] |  
 | bip_39_word_space_1 | vote |  
 | bip_39_word_space_10 | vote mom bottom smile depth high flat reward siren toddler |  

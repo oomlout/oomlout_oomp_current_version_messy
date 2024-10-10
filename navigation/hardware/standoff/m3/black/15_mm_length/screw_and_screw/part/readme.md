@@ -122,6 +122,18 @@ wrist
 inspire
 slogan
 number |  
+| bip_39_word_no_space_1 | outdoor |  
+| bip_39_word_no_space_10 | outdoorclayclipcrowdfantasywristinspireslogannumbervoid |  
+| bip_39_word_no_space_11 | outdoorclayclipcrowdfantasywristinspireslogannumbervoidhammer |  
+| bip_39_word_no_space_12 | outdoorclayclipcrowdfantasywristinspireslogannumbervoidhammerapart |  
+| bip_39_word_no_space_2 | outdoorclay |  
+| bip_39_word_no_space_3 | outdoorclayclip |  
+| bip_39_word_no_space_4 | outdoorclayclipcrowd |  
+| bip_39_word_no_space_5 | outdoorclayclipcrowdfantasy |  
+| bip_39_word_no_space_6 | outdoorclayclipcrowdfantasywrist |  
+| bip_39_word_no_space_7 | outdoorclayclipcrowdfantasywristinspire |  
+| bip_39_word_no_space_8 | outdoorclayclipcrowdfantasywristinspireslogan |  
+| bip_39_word_no_space_9 | outdoorclayclipcrowdfantasywristinspireslogannumber |  
 | bip_39_word_space_0 | ['outdoor', 'clay', 'clip', 'crowd', 'fantasy', 'wrist', 'inspire', 'slogan', 'number', 'void', 'hammer', 'apart'] |  
 | bip_39_word_space_1 | outdoor |  
 | bip_39_word_space_10 | outdoor clay clip crowd fantasy wrist inspire slogan number void |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'device
   tornado
 
   garbage'
+bip_39_word_no_space_1: device
+bip_39_word_no_space_10: devicerotateponytextcallusetesttornadogarbagesponsor
+bip_39_word_no_space_11: devicerotateponytextcallusetesttornadogarbagesponsorvast
+bip_39_word_no_space_12: devicerotateponytextcallusetesttornadogarbagesponsorvastancient
+bip_39_word_no_space_2: devicerotate
+bip_39_word_no_space_3: devicerotatepony
+bip_39_word_no_space_4: devicerotateponytext
+bip_39_word_no_space_5: devicerotateponytextcall
+bip_39_word_no_space_6: devicerotateponytextcalluse
+bip_39_word_no_space_7: devicerotateponytextcallusetest
+bip_39_word_no_space_8: devicerotateponytextcallusetesttornado
+bip_39_word_no_space_9: devicerotateponytextcallusetesttornadogarbage
 bip_39_word_space_0:
 - device
 - rotate

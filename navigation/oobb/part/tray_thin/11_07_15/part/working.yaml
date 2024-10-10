@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'critic
   palm
 
   miracle'
+bip_39_word_no_space_1: critic
+bip_39_word_no_space_10: critictwistbalconywetvirtualbustubepalmmiraclesalmon
+bip_39_word_no_space_11: critictwistbalconywetvirtualbustubepalmmiraclesalmontip
+bip_39_word_no_space_2: critictwist
+bip_39_word_no_space_3: critictwistbalcony
+bip_39_word_no_space_4: critictwistbalconywet
+bip_39_word_no_space_5: critictwistbalconywetvirtual
+bip_39_word_no_space_6: critictwistbalconywetvirtualbus
+bip_39_word_no_space_7: critictwistbalconywetvirtualbustube
+bip_39_word_no_space_8: critictwistbalconywetvirtualbustubepalm
+bip_39_word_no_space_9: critictwistbalconywetvirtualbustubepalmmiracle
 bip_39_word_space_0:
 - critic
 - twist

@@ -122,6 +122,18 @@ repair
 system
 retreat
 spell |  
+| bip_39_word_no_space_1 | maple |  
+| bip_39_word_no_space_10 | maplecallknifepaveincomerepairsystemretreatspellhobby |  
+| bip_39_word_no_space_11 | maplecallknifepaveincomerepairsystemretreatspellhobbyrain |  
+| bip_39_word_no_space_12 | maplecallknifepaveincomerepairsystemretreatspellhobbyrainactor |  
+| bip_39_word_no_space_2 | maplecall |  
+| bip_39_word_no_space_3 | maplecallknife |  
+| bip_39_word_no_space_4 | maplecallknifepave |  
+| bip_39_word_no_space_5 | maplecallknifepaveincome |  
+| bip_39_word_no_space_6 | maplecallknifepaveincomerepair |  
+| bip_39_word_no_space_7 | maplecallknifepaveincomerepairsystem |  
+| bip_39_word_no_space_8 | maplecallknifepaveincomerepairsystemretreat |  
+| bip_39_word_no_space_9 | maplecallknifepaveincomerepairsystemretreatspell |  
 | bip_39_word_space_0 | ['maple', 'call', 'knife', 'pave', 'income', 'repair', 'system', 'retreat', 'spell', 'hobby', 'rain', 'actor'] |  
 | bip_39_word_space_1 | maple |  
 | bip_39_word_space_10 | maple call knife pave income repair system retreat spell hobby |  

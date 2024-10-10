@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'window
   common
 
   sick'
+bip_39_word_no_space_1: window
+bip_39_word_no_space_10: windowoccurhournetworkbargainbouncekeycommonsickgrain
+bip_39_word_no_space_11: windowoccurhournetworkbargainbouncekeycommonsickgraingrant
+bip_39_word_no_space_12: windowoccurhournetworkbargainbouncekeycommonsickgraingrantadjust
+bip_39_word_no_space_2: windowoccur
+bip_39_word_no_space_3: windowoccurhour
+bip_39_word_no_space_4: windowoccurhournetwork
+bip_39_word_no_space_5: windowoccurhournetworkbargain
+bip_39_word_no_space_6: windowoccurhournetworkbargainbounce
+bip_39_word_no_space_7: windowoccurhournetworkbargainbouncekey
+bip_39_word_no_space_8: windowoccurhournetworkbargainbouncekeycommon
+bip_39_word_no_space_9: windowoccurhournetworkbargainbouncekeycommonsick
 bip_39_word_space_0:
 - window
 - occur

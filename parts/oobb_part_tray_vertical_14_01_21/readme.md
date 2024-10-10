@@ -122,6 +122,18 @@ nurse
 dance
 dragon
 input |  
+| bip_39_word_no_space_1 | crowd |  
+| bip_39_word_no_space_10 | crowdpatrolaerobicwelcomewhennursedancedragoninputjunior |  
+| bip_39_word_no_space_11 | crowdpatrolaerobicwelcomewhennursedancedragoninputjuniornapkin |  
+| bip_39_word_no_space_12 | crowdpatrolaerobicwelcomewhennursedancedragoninputjuniornapkinavocado |  
+| bip_39_word_no_space_2 | crowdpatrol |  
+| bip_39_word_no_space_3 | crowdpatrolaerobic |  
+| bip_39_word_no_space_4 | crowdpatrolaerobicwelcome |  
+| bip_39_word_no_space_5 | crowdpatrolaerobicwelcomewhen |  
+| bip_39_word_no_space_6 | crowdpatrolaerobicwelcomewhennurse |  
+| bip_39_word_no_space_7 | crowdpatrolaerobicwelcomewhennursedance |  
+| bip_39_word_no_space_8 | crowdpatrolaerobicwelcomewhennursedancedragon |  
+| bip_39_word_no_space_9 | crowdpatrolaerobicwelcomewhennursedancedragoninput |  
 | bip_39_word_space_0 | ['crowd', 'patrol', 'aerobic', 'welcome', 'when', 'nurse', 'dance', 'dragon', 'input', 'junior', 'napkin', 'avocado'] |  
 | bip_39_word_space_1 | crowd |  
 | bip_39_word_space_10 | crowd patrol aerobic welcome when nurse dance dragon input junior |  

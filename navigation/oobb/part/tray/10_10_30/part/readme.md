@@ -122,6 +122,18 @@ human
 mind
 picture
 drive |  
+| bip_39_word_no_space_1 | solid |  
+| bip_39_word_no_space_10 | solidunitcliffdollexilehumanmindpicturedrivenext |  
+| bip_39_word_no_space_11 | solidunitcliffdollexilehumanmindpicturedrivenextflag |  
+| bip_39_word_no_space_12 | solidunitcliffdollexilehumanmindpicturedrivenextflagaim |  
+| bip_39_word_no_space_2 | solidunit |  
+| bip_39_word_no_space_3 | solidunitcliff |  
+| bip_39_word_no_space_4 | solidunitcliffdoll |  
+| bip_39_word_no_space_5 | solidunitcliffdollexile |  
+| bip_39_word_no_space_6 | solidunitcliffdollexilehuman |  
+| bip_39_word_no_space_7 | solidunitcliffdollexilehumanmind |  
+| bip_39_word_no_space_8 | solidunitcliffdollexilehumanmindpicture |  
+| bip_39_word_no_space_9 | solidunitcliffdollexilehumanmindpicturedrive |  
 | bip_39_word_space_0 | ['solid', 'unit', 'cliff', 'doll', 'exile', 'human', 'mind', 'picture', 'drive', 'next', 'flag', 'aim'] |  
 | bip_39_word_space_1 | solid |  
 | bip_39_word_space_10 | solid unit cliff doll exile human mind picture drive next |  

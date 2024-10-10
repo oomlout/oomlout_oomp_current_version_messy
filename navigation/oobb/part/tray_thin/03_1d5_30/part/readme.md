@@ -122,6 +122,18 @@ nest
 dose
 punch
 pitch |  
+| bip_39_word_no_space_1 | bomb |  
+| bip_39_word_no_space_10 | bombtabledooraccusestagenestdosepunchpitchfury |  
+| bip_39_word_no_space_11 | bombtabledooraccusestagenestdosepunchpitchfurythat |  
+| bip_39_word_no_space_12 | bombtabledooraccusestagenestdosepunchpitchfurythataccuse |  
+| bip_39_word_no_space_2 | bombtable |  
+| bip_39_word_no_space_3 | bombtabledoor |  
+| bip_39_word_no_space_4 | bombtabledooraccuse |  
+| bip_39_word_no_space_5 | bombtabledooraccusestage |  
+| bip_39_word_no_space_6 | bombtabledooraccusestagenest |  
+| bip_39_word_no_space_7 | bombtabledooraccusestagenestdose |  
+| bip_39_word_no_space_8 | bombtabledooraccusestagenestdosepunch |  
+| bip_39_word_no_space_9 | bombtabledooraccusestagenestdosepunchpitch |  
 | bip_39_word_space_0 | ['bomb', 'table', 'door', 'accuse', 'stage', 'nest', 'dose', 'punch', 'pitch', 'fury', 'that', 'accuse'] |  
 | bip_39_word_space_1 | bomb |  
 | bip_39_word_space_10 | bomb table door accuse stage nest dose punch pitch fury |  

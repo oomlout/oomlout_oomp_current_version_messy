@@ -122,6 +122,18 @@ diet
 dinosaur
 matter
 exhaust |  
+| bip_39_word_no_space_1 | immune |  
+| bip_39_word_no_space_10 | immuneminutehalfacidminordietdinosaurmatterexhaustpoverty |  
+| bip_39_word_no_space_11 | immuneminutehalfacidminordietdinosaurmatterexhaustpovertycross |  
+| bip_39_word_no_space_12 | immuneminutehalfacidminordietdinosaurmatterexhaustpovertycrossamateur |  
+| bip_39_word_no_space_2 | immuneminute |  
+| bip_39_word_no_space_3 | immuneminutehalf |  
+| bip_39_word_no_space_4 | immuneminutehalfacid |  
+| bip_39_word_no_space_5 | immuneminutehalfacidminor |  
+| bip_39_word_no_space_6 | immuneminutehalfacidminordiet |  
+| bip_39_word_no_space_7 | immuneminutehalfacidminordietdinosaur |  
+| bip_39_word_no_space_8 | immuneminutehalfacidminordietdinosaurmatter |  
+| bip_39_word_no_space_9 | immuneminutehalfacidminordietdinosaurmatterexhaust |  
 | bip_39_word_space_0 | ['immune', 'minute', 'half', 'acid', 'minor', 'diet', 'dinosaur', 'matter', 'exhaust', 'poverty', 'cross', 'amateur'] |  
 | bip_39_word_space_1 | immune |  
 | bip_39_word_space_10 | immune minute half acid minor diet dinosaur matter exhaust poverty |  

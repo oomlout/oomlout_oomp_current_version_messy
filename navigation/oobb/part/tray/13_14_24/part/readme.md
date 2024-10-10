@@ -122,6 +122,18 @@ tower
 gesture
 jazz
 decline |  
+| bip_39_word_no_space_1 | toddler |  
+| bip_39_word_no_space_10 | toddlerrosehedgehogimprovetoppletowergesturejazzdeclineshoulder |  
+| bip_39_word_no_space_11 | toddlerrosehedgehogimprovetoppletowergesturejazzdeclineshoulderembody |  
+| bip_39_word_no_space_12 | toddlerrosehedgehogimprovetoppletowergesturejazzdeclineshoulderembodyarmor |  
+| bip_39_word_no_space_2 | toddlerrose |  
+| bip_39_word_no_space_3 | toddlerrosehedgehog |  
+| bip_39_word_no_space_4 | toddlerrosehedgehogimprove |  
+| bip_39_word_no_space_5 | toddlerrosehedgehogimprovetopple |  
+| bip_39_word_no_space_6 | toddlerrosehedgehogimprovetoppletower |  
+| bip_39_word_no_space_7 | toddlerrosehedgehogimprovetoppletowergesture |  
+| bip_39_word_no_space_8 | toddlerrosehedgehogimprovetoppletowergesturejazz |  
+| bip_39_word_no_space_9 | toddlerrosehedgehogimprovetoppletowergesturejazzdecline |  
 | bip_39_word_space_0 | ['toddler', 'rose', 'hedgehog', 'improve', 'topple', 'tower', 'gesture', 'jazz', 'decline', 'shoulder', 'embody', 'armor'] |  
 | bip_39_word_space_1 | toddler |  
 | bip_39_word_space_10 | toddler rose hedgehog improve topple tower gesture jazz decline shoulder |  

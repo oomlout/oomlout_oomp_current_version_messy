@@ -122,6 +122,18 @@ fiction
 cable
 blind
 rough |  
+| bip_39_word_no_space_1 | edit |  
+| bip_39_word_no_space_10 | edittonegapfoginitialfictioncableblindroughbike |  
+| bip_39_word_no_space_11 | edittonegapfoginitialfictioncableblindroughbikeinner |  
+| bip_39_word_no_space_12 | edittonegapfoginitialfictioncableblindroughbikeinnerarmor |  
+| bip_39_word_no_space_2 | edittone |  
+| bip_39_word_no_space_3 | edittonegap |  
+| bip_39_word_no_space_4 | edittonegapfog |  
+| bip_39_word_no_space_5 | edittonegapfoginitial |  
+| bip_39_word_no_space_6 | edittonegapfoginitialfiction |  
+| bip_39_word_no_space_7 | edittonegapfoginitialfictioncable |  
+| bip_39_word_no_space_8 | edittonegapfoginitialfictioncableblind |  
+| bip_39_word_no_space_9 | edittonegapfoginitialfictioncableblindrough |  
 | bip_39_word_space_0 | ['edit', 'tone', 'gap', 'fog', 'initial', 'fiction', 'cable', 'blind', 'rough', 'bike', 'inner', 'armor'] |  
 | bip_39_word_space_1 | edit |  
 | bip_39_word_space_10 | edit tone gap fog initial fiction cable blind rough bike |  

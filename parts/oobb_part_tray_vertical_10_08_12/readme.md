@@ -122,6 +122,18 @@ symbol
 affair
 effort
 such |  
+| bip_39_word_no_space_1 | woman |  
+| bip_39_word_no_space_10 | womanarrangejarhundredalleysymbolaffaireffortsuchmonkey |  
+| bip_39_word_no_space_11 | womanarrangejarhundredalleysymbolaffaireffortsuchmonkeycupboard |  
+| bip_39_word_no_space_12 | womanarrangejarhundredalleysymbolaffaireffortsuchmonkeycupboardacquire |  
+| bip_39_word_no_space_2 | womanarrange |  
+| bip_39_word_no_space_3 | womanarrangejar |  
+| bip_39_word_no_space_4 | womanarrangejarhundred |  
+| bip_39_word_no_space_5 | womanarrangejarhundredalley |  
+| bip_39_word_no_space_6 | womanarrangejarhundredalleysymbol |  
+| bip_39_word_no_space_7 | womanarrangejarhundredalleysymbolaffair |  
+| bip_39_word_no_space_8 | womanarrangejarhundredalleysymbolaffaireffort |  
+| bip_39_word_no_space_9 | womanarrangejarhundredalleysymbolaffaireffortsuch |  
 | bip_39_word_space_0 | ['woman', 'arrange', 'jar', 'hundred', 'alley', 'symbol', 'affair', 'effort', 'such', 'monkey', 'cupboard', 'acquire'] |  
 | bip_39_word_space_1 | woman |  
 | bip_39_word_space_10 | woman arrange jar hundred alley symbol affair effort such monkey |  

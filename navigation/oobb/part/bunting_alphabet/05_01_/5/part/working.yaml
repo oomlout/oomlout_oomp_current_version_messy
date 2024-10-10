@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'hip
   vapor
 
   frozen'
+bip_39_word_no_space_1: hip
+bip_39_word_no_space_10: hipfancychaptermeritgiftnapkinmammalvaporfrozenminimum
+bip_39_word_no_space_11: hipfancychaptermeritgiftnapkinmammalvaporfrozenminimumsnack
+bip_39_word_no_space_12: hipfancychaptermeritgiftnapkinmammalvaporfrozenminimumsnackall
+bip_39_word_no_space_2: hipfancy
+bip_39_word_no_space_3: hipfancychapter
+bip_39_word_no_space_4: hipfancychaptermerit
+bip_39_word_no_space_5: hipfancychaptermeritgift
+bip_39_word_no_space_6: hipfancychaptermeritgiftnapkin
+bip_39_word_no_space_7: hipfancychaptermeritgiftnapkinmammal
+bip_39_word_no_space_8: hipfancychaptermeritgiftnapkinmammalvapor
+bip_39_word_no_space_9: hipfancychaptermeritgiftnapkinmammalvaporfrozen
 bip_39_word_space_0:
 - hip
 - fancy

@@ -122,6 +122,18 @@ bronze
 foam
 dismiss
 maze |  
+| bip_39_word_no_space_1 | vague |  
+| bip_39_word_no_space_10 | vaguebeachkisswasppuzzlebronzefoamdismissmazeinflict |  
+| bip_39_word_no_space_11 | vaguebeachkisswasppuzzlebronzefoamdismissmazeinflictextra |  
+| bip_39_word_no_space_12 | vaguebeachkisswasppuzzlebronzefoamdismissmazeinflictextraabout |  
+| bip_39_word_no_space_2 | vaguebeach |  
+| bip_39_word_no_space_3 | vaguebeachkiss |  
+| bip_39_word_no_space_4 | vaguebeachkisswasp |  
+| bip_39_word_no_space_5 | vaguebeachkisswasppuzzle |  
+| bip_39_word_no_space_6 | vaguebeachkisswasppuzzlebronze |  
+| bip_39_word_no_space_7 | vaguebeachkisswasppuzzlebronzefoam |  
+| bip_39_word_no_space_8 | vaguebeachkisswasppuzzlebronzefoamdismiss |  
+| bip_39_word_no_space_9 | vaguebeachkisswasppuzzlebronzefoamdismissmaze |  
 | bip_39_word_space_0 | ['vague', 'beach', 'kiss', 'wasp', 'puzzle', 'bronze', 'foam', 'dismiss', 'maze', 'inflict', 'extra', 'about'] |  
 | bip_39_word_space_1 | vague |  
 | bip_39_word_space_10 | vague beach kiss wasp puzzle bronze foam dismiss maze inflict |  

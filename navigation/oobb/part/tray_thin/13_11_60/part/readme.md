@@ -122,6 +122,18 @@ tiny
 way
 wrong
 alley |  
+| bip_39_word_no_space_1 | fiscal |  
+| bip_39_word_no_space_10 | fiscalaisleboosthazardvoicetinywaywrongalleyclick |  
+| bip_39_word_no_space_11 | fiscalaisleboosthazardvoicetinywaywrongalleyclickswarm |  
+| bip_39_word_no_space_12 | fiscalaisleboosthazardvoicetinywaywrongalleyclickswarmaunt |  
+| bip_39_word_no_space_2 | fiscalaisle |  
+| bip_39_word_no_space_3 | fiscalaisleboost |  
+| bip_39_word_no_space_4 | fiscalaisleboosthazard |  
+| bip_39_word_no_space_5 | fiscalaisleboosthazardvoice |  
+| bip_39_word_no_space_6 | fiscalaisleboosthazardvoicetiny |  
+| bip_39_word_no_space_7 | fiscalaisleboosthazardvoicetinyway |  
+| bip_39_word_no_space_8 | fiscalaisleboosthazardvoicetinywaywrong |  
+| bip_39_word_no_space_9 | fiscalaisleboosthazardvoicetinywaywrongalley |  
 | bip_39_word_space_0 | ['fiscal', 'aisle', 'boost', 'hazard', 'voice', 'tiny', 'way', 'wrong', 'alley', 'click', 'swarm', 'aunt'] |  
 | bip_39_word_space_1 | fiscal |  
 | bip_39_word_space_10 | fiscal aisle boost hazard voice tiny way wrong alley click |  

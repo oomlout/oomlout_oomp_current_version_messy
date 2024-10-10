@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tag
   way
 
   leg'
+bip_39_word_no_space_1: tag
+bip_39_word_no_space_10: tagflagnaivepotatothingtornadolotterywaylegload
+bip_39_word_no_space_11: tagflagnaivepotatothingtornadolotterywaylegloadimpact
+bip_39_word_no_space_12: tagflagnaivepotatothingtornadolotterywaylegloadimpactamount
+bip_39_word_no_space_2: tagflag
+bip_39_word_no_space_3: tagflagnaive
+bip_39_word_no_space_4: tagflagnaivepotato
+bip_39_word_no_space_5: tagflagnaivepotatothing
+bip_39_word_no_space_6: tagflagnaivepotatothingtornado
+bip_39_word_no_space_7: tagflagnaivepotatothingtornadolottery
+bip_39_word_no_space_8: tagflagnaivepotatothingtornadolotteryway
+bip_39_word_no_space_9: tagflagnaivepotatothingtornadolotterywayleg
 bip_39_word_space_0:
 - tag
 - flag

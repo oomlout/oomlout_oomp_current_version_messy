@@ -122,6 +122,18 @@ punch
 dizzy
 olympic
 decorate |  
+| bip_39_word_no_space_1 | service |  
+| bip_39_word_no_space_10 | servicerotatelinkidlemaplepunchdizzyolympicdecorateflee |  
+| bip_39_word_no_space_11 | servicerotatelinkidlemaplepunchdizzyolympicdecoratefleelaw |  
+| bip_39_word_no_space_12 | servicerotatelinkidlemaplepunchdizzyolympicdecoratefleelawapple |  
+| bip_39_word_no_space_2 | servicerotate |  
+| bip_39_word_no_space_3 | servicerotatelink |  
+| bip_39_word_no_space_4 | servicerotatelinkidle |  
+| bip_39_word_no_space_5 | servicerotatelinkidlemaple |  
+| bip_39_word_no_space_6 | servicerotatelinkidlemaplepunch |  
+| bip_39_word_no_space_7 | servicerotatelinkidlemaplepunchdizzy |  
+| bip_39_word_no_space_8 | servicerotatelinkidlemaplepunchdizzyolympic |  
+| bip_39_word_no_space_9 | servicerotatelinkidlemaplepunchdizzyolympicdecorate |  
 | bip_39_word_space_0 | ['service', 'rotate', 'link', 'idle', 'maple', 'punch', 'dizzy', 'olympic', 'decorate', 'flee', 'law', 'apple'] |  
 | bip_39_word_space_1 | service |  
 | bip_39_word_space_10 | service rotate link idle maple punch dizzy olympic decorate flee |  

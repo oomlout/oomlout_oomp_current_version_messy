@@ -122,6 +122,18 @@ endorse
 involve
 mushroom
 toilet |  
+| bip_39_word_no_space_1 | wire |  
+| bip_39_word_no_space_10 | wirecanvaspalmpracticeparadeendorseinvolvemushroomtoiletindoor |  
+| bip_39_word_no_space_11 | wirecanvaspalmpracticeparadeendorseinvolvemushroomtoiletindoorurge |  
+| bip_39_word_no_space_12 | wirecanvaspalmpracticeparadeendorseinvolvemushroomtoiletindoorurgeauto |  
+| bip_39_word_no_space_2 | wirecanvas |  
+| bip_39_word_no_space_3 | wirecanvaspalm |  
+| bip_39_word_no_space_4 | wirecanvaspalmpractice |  
+| bip_39_word_no_space_5 | wirecanvaspalmpracticeparade |  
+| bip_39_word_no_space_6 | wirecanvaspalmpracticeparadeendorse |  
+| bip_39_word_no_space_7 | wirecanvaspalmpracticeparadeendorseinvolve |  
+| bip_39_word_no_space_8 | wirecanvaspalmpracticeparadeendorseinvolvemushroom |  
+| bip_39_word_no_space_9 | wirecanvaspalmpracticeparadeendorseinvolvemushroomtoilet |  
 | bip_39_word_space_0 | ['wire', 'canvas', 'palm', 'practice', 'parade', 'endorse', 'involve', 'mushroom', 'toilet', 'indoor', 'urge', 'auto'] |  
 | bip_39_word_space_1 | wire |  
 | bip_39_word_space_10 | wire canvas palm practice parade endorse involve mushroom toilet indoor |  

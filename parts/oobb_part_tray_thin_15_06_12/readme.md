@@ -122,6 +122,18 @@ stairs
 trigger
 chest
 pretty |  
+| bip_39_word_no_space_1 | stairs |  
+| bip_39_word_no_space_10 | stairsrelycarpetpearmindstairstriggerchestprettywhale |  
+| bip_39_word_no_space_11 | stairsrelycarpetpearmindstairstriggerchestprettywhaledefine |  
+| bip_39_word_no_space_12 | stairsrelycarpetpearmindstairstriggerchestprettywhaledefinearmed |  
+| bip_39_word_no_space_2 | stairsrely |  
+| bip_39_word_no_space_3 | stairsrelycarpet |  
+| bip_39_word_no_space_4 | stairsrelycarpetpear |  
+| bip_39_word_no_space_5 | stairsrelycarpetpearmind |  
+| bip_39_word_no_space_6 | stairsrelycarpetpearmindstairs |  
+| bip_39_word_no_space_7 | stairsrelycarpetpearmindstairstrigger |  
+| bip_39_word_no_space_8 | stairsrelycarpetpearmindstairstriggerchest |  
+| bip_39_word_no_space_9 | stairsrelycarpetpearmindstairstriggerchestpretty |  
 | bip_39_word_space_0 | ['stairs', 'rely', 'carpet', 'pear', 'mind', 'stairs', 'trigger', 'chest', 'pretty', 'whale', 'define', 'armed'] |  
 | bip_39_word_space_1 | stairs |  
 | bip_39_word_space_10 | stairs rely carpet pear mind stairs trigger chest pretty whale |  

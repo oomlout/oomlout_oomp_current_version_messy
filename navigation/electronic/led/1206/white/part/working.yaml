@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'minor
   pear
 
   concert'
+bip_39_word_no_space_1: minor
+bip_39_word_no_space_10: minordumbimmensebasicnestcactusstereopearconcertfind
+bip_39_word_no_space_11: minordumbimmensebasicnestcactusstereopearconcertfindinflict
+bip_39_word_no_space_12: minordumbimmensebasicnestcactusstereopearconcertfindinflictaisle
+bip_39_word_no_space_2: minordumb
+bip_39_word_no_space_3: minordumbimmense
+bip_39_word_no_space_4: minordumbimmensebasic
+bip_39_word_no_space_5: minordumbimmensebasicnest
+bip_39_word_no_space_6: minordumbimmensebasicnestcactus
+bip_39_word_no_space_7: minordumbimmensebasicnestcactusstereo
+bip_39_word_no_space_8: minordumbimmensebasicnestcactusstereopear
+bip_39_word_no_space_9: minordumbimmensebasicnestcactusstereopearconcert
 bip_39_word_space_0:
 - minor
 - dumb

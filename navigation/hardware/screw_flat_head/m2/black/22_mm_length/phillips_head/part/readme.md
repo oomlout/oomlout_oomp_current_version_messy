@@ -122,6 +122,18 @@ town
 fossil
 trend
 verb |  
+| bip_39_word_no_space_1 | hurry |  
+| bip_39_word_no_space_10 | hurrypumpkinbusenterwinktownfossiltrendverbassume |  
+| bip_39_word_no_space_11 | hurrypumpkinbusenterwinktownfossiltrendverbassumeteach |  
+| bip_39_word_no_space_12 | hurrypumpkinbusenterwinktownfossiltrendverbassumeteachadvance |  
+| bip_39_word_no_space_2 | hurrypumpkin |  
+| bip_39_word_no_space_3 | hurrypumpkinbus |  
+| bip_39_word_no_space_4 | hurrypumpkinbusenter |  
+| bip_39_word_no_space_5 | hurrypumpkinbusenterwink |  
+| bip_39_word_no_space_6 | hurrypumpkinbusenterwinktown |  
+| bip_39_word_no_space_7 | hurrypumpkinbusenterwinktownfossil |  
+| bip_39_word_no_space_8 | hurrypumpkinbusenterwinktownfossiltrend |  
+| bip_39_word_no_space_9 | hurrypumpkinbusenterwinktownfossiltrendverb |  
 | bip_39_word_space_0 | ['hurry', 'pumpkin', 'bus', 'enter', 'wink', 'town', 'fossil', 'trend', 'verb', 'assume', 'teach', 'advance'] |  
 | bip_39_word_space_1 | hurry |  
 | bip_39_word_space_10 | hurry pumpkin bus enter wink town fossil trend verb assume |  

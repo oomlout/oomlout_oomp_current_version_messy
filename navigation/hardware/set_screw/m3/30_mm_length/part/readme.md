@@ -122,6 +122,18 @@ ladder
 north
 turtle
 tape |  
+| bip_39_word_no_space_1 | base |  
+| bip_39_word_no_space_10 | basenapkinadjustalwaysinputladdernorthturtletapejoke |  
+| bip_39_word_no_space_11 | basenapkinadjustalwaysinputladdernorthturtletapejokeorchard |  
+| bip_39_word_no_space_12 | basenapkinadjustalwaysinputladdernorthturtletapejokeorchardattitude |  
+| bip_39_word_no_space_2 | basenapkin |  
+| bip_39_word_no_space_3 | basenapkinadjust |  
+| bip_39_word_no_space_4 | basenapkinadjustalways |  
+| bip_39_word_no_space_5 | basenapkinadjustalwaysinput |  
+| bip_39_word_no_space_6 | basenapkinadjustalwaysinputladder |  
+| bip_39_word_no_space_7 | basenapkinadjustalwaysinputladdernorth |  
+| bip_39_word_no_space_8 | basenapkinadjustalwaysinputladdernorthturtle |  
+| bip_39_word_no_space_9 | basenapkinadjustalwaysinputladdernorthturtletape |  
 | bip_39_word_space_0 | ['base', 'napkin', 'adjust', 'always', 'input', 'ladder', 'north', 'turtle', 'tape', 'joke', 'orchard', 'attitude'] |  
 | bip_39_word_space_1 | base |  
 | bip_39_word_space_10 | base napkin adjust always input ladder north turtle tape joke |  

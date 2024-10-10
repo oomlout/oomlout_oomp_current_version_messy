@@ -122,6 +122,18 @@ crumble
 rely
 erode
 ivory |  
+| bip_39_word_no_space_1 | matter |  
+| bip_39_word_no_space_10 | matterexcusemetalguiltjeanscrumblerelyerodeivoryneither |  
+| bip_39_word_no_space_11 | matterexcusemetalguiltjeanscrumblerelyerodeivoryneitherkidney |  
+| bip_39_word_no_space_12 | matterexcusemetalguiltjeanscrumblerelyerodeivoryneitherkidneyathlete |  
+| bip_39_word_no_space_2 | matterexcuse |  
+| bip_39_word_no_space_3 | matterexcusemetal |  
+| bip_39_word_no_space_4 | matterexcusemetalguilt |  
+| bip_39_word_no_space_5 | matterexcusemetalguiltjeans |  
+| bip_39_word_no_space_6 | matterexcusemetalguiltjeanscrumble |  
+| bip_39_word_no_space_7 | matterexcusemetalguiltjeanscrumblerely |  
+| bip_39_word_no_space_8 | matterexcusemetalguiltjeanscrumblerelyerode |  
+| bip_39_word_no_space_9 | matterexcusemetalguiltjeanscrumblerelyerodeivory |  
 | bip_39_word_space_0 | ['matter', 'excuse', 'metal', 'guilt', 'jeans', 'crumble', 'rely', 'erode', 'ivory', 'neither', 'kidney', 'athlete'] |  
 | bip_39_word_space_1 | matter |  
 | bip_39_word_space_10 | matter excuse metal guilt jeans crumble rely erode ivory neither |  

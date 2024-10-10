@@ -122,6 +122,18 @@ stuff
 flash
 fault
 bullet |  
+| bip_39_word_no_space_1 | juice |  
+| bip_39_word_no_space_10 | juicepioneerknifecoasttimestuffflashfaultbulleterase |  
+| bip_39_word_no_space_11 | juicepioneerknifecoasttimestuffflashfaultbulleteraseamateur |  
+| bip_39_word_no_space_12 | juicepioneerknifecoasttimestuffflashfaultbulleteraseamateurapart |  
+| bip_39_word_no_space_2 | juicepioneer |  
+| bip_39_word_no_space_3 | juicepioneerknife |  
+| bip_39_word_no_space_4 | juicepioneerknifecoast |  
+| bip_39_word_no_space_5 | juicepioneerknifecoasttime |  
+| bip_39_word_no_space_6 | juicepioneerknifecoasttimestuff |  
+| bip_39_word_no_space_7 | juicepioneerknifecoasttimestuffflash |  
+| bip_39_word_no_space_8 | juicepioneerknifecoasttimestuffflashfault |  
+| bip_39_word_no_space_9 | juicepioneerknifecoasttimestuffflashfaultbullet |  
 | bip_39_word_space_0 | ['juice', 'pioneer', 'knife', 'coast', 'time', 'stuff', 'flash', 'fault', 'bullet', 'erase', 'amateur', 'apart'] |  
 | bip_39_word_space_1 | juice |  
 | bip_39_word_space_10 | juice pioneer knife coast time stuff flash fault bullet erase |  

@@ -122,6 +122,18 @@ injury
 true
 toe
 dust |  
+| bip_39_word_no_space_1 | potato |  
+| bip_39_word_no_space_10 | potatowarfarenosequalitysalmoninjurytruetoedustalpha |  
+| bip_39_word_no_space_11 | potatowarfarenosequalitysalmoninjurytruetoedustalphaworth |  
+| bip_39_word_no_space_12 | potatowarfarenosequalitysalmoninjurytruetoedustalphaworthathlete |  
+| bip_39_word_no_space_2 | potatowarfare |  
+| bip_39_word_no_space_3 | potatowarfarenose |  
+| bip_39_word_no_space_4 | potatowarfarenosequality |  
+| bip_39_word_no_space_5 | potatowarfarenosequalitysalmon |  
+| bip_39_word_no_space_6 | potatowarfarenosequalitysalmoninjury |  
+| bip_39_word_no_space_7 | potatowarfarenosequalitysalmoninjurytrue |  
+| bip_39_word_no_space_8 | potatowarfarenosequalitysalmoninjurytruetoe |  
+| bip_39_word_no_space_9 | potatowarfarenosequalitysalmoninjurytruetoedust |  
 | bip_39_word_space_0 | ['potato', 'warfare', 'nose', 'quality', 'salmon', 'injury', 'true', 'toe', 'dust', 'alpha', 'worth', 'athlete'] |  
 | bip_39_word_space_1 | potato |  
 | bip_39_word_space_10 | potato warfare nose quality salmon injury true toe dust alpha |  

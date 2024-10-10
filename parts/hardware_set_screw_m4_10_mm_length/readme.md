@@ -122,6 +122,18 @@ chapter
 vote
 buzz
 income |  
+| bip_39_word_no_space_1 | cabin |  
+| bip_39_word_no_space_10 | cabinproudfeelcramtapechaptervotebuzzincomeharvest |  
+| bip_39_word_no_space_11 | cabinproudfeelcramtapechaptervotebuzzincomeharvestsun |  
+| bip_39_word_no_space_12 | cabinproudfeelcramtapechaptervotebuzzincomeharvestsunalien |  
+| bip_39_word_no_space_2 | cabinproud |  
+| bip_39_word_no_space_3 | cabinproudfeel |  
+| bip_39_word_no_space_4 | cabinproudfeelcram |  
+| bip_39_word_no_space_5 | cabinproudfeelcramtape |  
+| bip_39_word_no_space_6 | cabinproudfeelcramtapechapter |  
+| bip_39_word_no_space_7 | cabinproudfeelcramtapechaptervote |  
+| bip_39_word_no_space_8 | cabinproudfeelcramtapechaptervotebuzz |  
+| bip_39_word_no_space_9 | cabinproudfeelcramtapechaptervotebuzzincome |  
 | bip_39_word_space_0 | ['cabin', 'proud', 'feel', 'cram', 'tape', 'chapter', 'vote', 'buzz', 'income', 'harvest', 'sun', 'alien'] |  
 | bip_39_word_space_1 | cabin |  
 | bip_39_word_space_10 | cabin proud feel cram tape chapter vote buzz income harvest |  

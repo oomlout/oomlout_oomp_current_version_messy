@@ -122,6 +122,18 @@ perfect
 document
 trophy
 inherit |  
+| bip_39_word_no_space_1 | garage |  
+| bip_39_word_no_space_10 | garagegrasssmilepiglaborperfectdocumenttrophyinheritsmooth |  
+| bip_39_word_no_space_11 | garagegrasssmilepiglaborperfectdocumenttrophyinheritsmoothribbon |  
+| bip_39_word_no_space_12 | garagegrasssmilepiglaborperfectdocumenttrophyinheritsmoothribbonask |  
+| bip_39_word_no_space_2 | garagegrass |  
+| bip_39_word_no_space_3 | garagegrasssmile |  
+| bip_39_word_no_space_4 | garagegrasssmilepig |  
+| bip_39_word_no_space_5 | garagegrasssmilepiglabor |  
+| bip_39_word_no_space_6 | garagegrasssmilepiglaborperfect |  
+| bip_39_word_no_space_7 | garagegrasssmilepiglaborperfectdocument |  
+| bip_39_word_no_space_8 | garagegrasssmilepiglaborperfectdocumenttrophy |  
+| bip_39_word_no_space_9 | garagegrasssmilepiglaborperfectdocumenttrophyinherit |  
 | bip_39_word_space_0 | ['garage', 'grass', 'smile', 'pig', 'labor', 'perfect', 'document', 'trophy', 'inherit', 'smooth', 'ribbon', 'ask'] |  
 | bip_39_word_space_1 | garage |  
 | bip_39_word_space_10 | garage grass smile pig labor perfect document trophy inherit smooth |  

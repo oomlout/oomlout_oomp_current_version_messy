@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bar
   orchard
 
   rival'
+bip_39_word_no_space_1: bar
+bip_39_word_no_space_10: barsunsetinfantcivilringfatmemoryorchardrivalsatisfy
+bip_39_word_no_space_11: barsunsetinfantcivilringfatmemoryorchardrivalsatisfymake
+bip_39_word_no_space_12: barsunsetinfantcivilringfatmemoryorchardrivalsatisfymakearrange
+bip_39_word_no_space_2: barsunset
+bip_39_word_no_space_3: barsunsetinfant
+bip_39_word_no_space_4: barsunsetinfantcivil
+bip_39_word_no_space_5: barsunsetinfantcivilring
+bip_39_word_no_space_6: barsunsetinfantcivilringfat
+bip_39_word_no_space_7: barsunsetinfantcivilringfatmemory
+bip_39_word_no_space_8: barsunsetinfantcivilringfatmemoryorchard
+bip_39_word_no_space_9: barsunsetinfantcivilringfatmemoryorchardrival
 bip_39_word_space_0:
 - bar
 - sunset

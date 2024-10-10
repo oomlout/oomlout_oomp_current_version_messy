@@ -122,6 +122,18 @@ favorite
 kite
 flash
 grow |  
+| bip_39_word_no_space_1 | word |  
+| bip_39_word_no_space_10 | wordservicedinosaurbeanethicsfavoritekiteflashgrowtest |  
+| bip_39_word_no_space_11 | wordservicedinosaurbeanethicsfavoritekiteflashgrowtestdinosaur |  
+| bip_39_word_no_space_12 | wordservicedinosaurbeanethicsfavoritekiteflashgrowtestdinosauradvance |  
+| bip_39_word_no_space_2 | wordservice |  
+| bip_39_word_no_space_3 | wordservicedinosaur |  
+| bip_39_word_no_space_4 | wordservicedinosaurbean |  
+| bip_39_word_no_space_5 | wordservicedinosaurbeanethics |  
+| bip_39_word_no_space_6 | wordservicedinosaurbeanethicsfavorite |  
+| bip_39_word_no_space_7 | wordservicedinosaurbeanethicsfavoritekite |  
+| bip_39_word_no_space_8 | wordservicedinosaurbeanethicsfavoritekiteflash |  
+| bip_39_word_no_space_9 | wordservicedinosaurbeanethicsfavoritekiteflashgrow |  
 | bip_39_word_space_0 | ['word', 'service', 'dinosaur', 'bean', 'ethics', 'favorite', 'kite', 'flash', 'grow', 'test', 'dinosaur', 'advance'] |  
 | bip_39_word_space_1 | word |  
 | bip_39_word_space_10 | word service dinosaur bean ethics favorite kite flash grow test |  

@@ -122,6 +122,18 @@ whisper
 host
 example
 physical |  
+| bip_39_word_no_space_1 | crash |  
+| bip_39_word_no_space_10 | crashgruntcakerabbitalcoholwhisperhostexamplephysicalgadget |  
+| bip_39_word_no_space_11 | crashgruntcakerabbitalcoholwhisperhostexamplephysicalgadgetfire |  
+| bip_39_word_no_space_12 | crashgruntcakerabbitalcoholwhisperhostexamplephysicalgadgetfirearea |  
+| bip_39_word_no_space_2 | crashgrunt |  
+| bip_39_word_no_space_3 | crashgruntcake |  
+| bip_39_word_no_space_4 | crashgruntcakerabbit |  
+| bip_39_word_no_space_5 | crashgruntcakerabbitalcohol |  
+| bip_39_word_no_space_6 | crashgruntcakerabbitalcoholwhisper |  
+| bip_39_word_no_space_7 | crashgruntcakerabbitalcoholwhisperhost |  
+| bip_39_word_no_space_8 | crashgruntcakerabbitalcoholwhisperhostexample |  
+| bip_39_word_no_space_9 | crashgruntcakerabbitalcoholwhisperhostexamplephysical |  
 | bip_39_word_space_0 | ['crash', 'grunt', 'cake', 'rabbit', 'alcohol', 'whisper', 'host', 'example', 'physical', 'gadget', 'fire', 'area'] |  
 | bip_39_word_space_1 | crash |  
 | bip_39_word_space_10 | crash grunt cake rabbit alcohol whisper host example physical gadget |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'avocado
   wish
 
   often'
+bip_39_word_no_space_1: avocado
+bip_39_word_no_space_10: avocadorosevacuumpreventteachlimbcomewishoftenknow
+bip_39_word_no_space_11: avocadorosevacuumpreventteachlimbcomewishoftenknowhazard
+bip_39_word_no_space_12: avocadorosevacuumpreventteachlimbcomewishoftenknowhazardartist
+bip_39_word_no_space_2: avocadorose
+bip_39_word_no_space_3: avocadorosevacuum
+bip_39_word_no_space_4: avocadorosevacuumprevent
+bip_39_word_no_space_5: avocadorosevacuumpreventteach
+bip_39_word_no_space_6: avocadorosevacuumpreventteachlimb
+bip_39_word_no_space_7: avocadorosevacuumpreventteachlimbcome
+bip_39_word_no_space_8: avocadorosevacuumpreventteachlimbcomewish
+bip_39_word_no_space_9: avocadorosevacuumpreventteachlimbcomewishoften
 bip_39_word_space_0:
 - avocado
 - rose

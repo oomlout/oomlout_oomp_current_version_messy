@@ -122,6 +122,18 @@ spend
 track
 example
 frequent |  
+| bip_39_word_no_space_1 | bleak |  
+| bip_39_word_no_space_10 | bleakdetailcheapyouthstuffspendtrackexamplefrequentdeliver |  
+| bip_39_word_no_space_11 | bleakdetailcheapyouthstuffspendtrackexamplefrequentdeliverbargain |  
+| bip_39_word_no_space_12 | bleakdetailcheapyouthstuffspendtrackexamplefrequentdeliverbargainafraid |  
+| bip_39_word_no_space_2 | bleakdetail |  
+| bip_39_word_no_space_3 | bleakdetailcheap |  
+| bip_39_word_no_space_4 | bleakdetailcheapyouth |  
+| bip_39_word_no_space_5 | bleakdetailcheapyouthstuff |  
+| bip_39_word_no_space_6 | bleakdetailcheapyouthstuffspend |  
+| bip_39_word_no_space_7 | bleakdetailcheapyouthstuffspendtrack |  
+| bip_39_word_no_space_8 | bleakdetailcheapyouthstuffspendtrackexample |  
+| bip_39_word_no_space_9 | bleakdetailcheapyouthstuffspendtrackexamplefrequent |  
 | bip_39_word_space_0 | ['bleak', 'detail', 'cheap', 'youth', 'stuff', 'spend', 'track', 'example', 'frequent', 'deliver', 'bargain', 'afraid'] |  
 | bip_39_word_space_1 | bleak |  
 | bip_39_word_space_10 | bleak detail cheap youth stuff spend track example frequent deliver |  

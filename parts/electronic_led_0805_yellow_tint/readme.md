@@ -122,6 +122,18 @@ album
 burger
 collect
 orbit |  
+| bip_39_word_no_space_1 | skate |  
+| bip_39_word_no_space_10 | skategalaxyelephantwishtradealbumburgercollectorbittwo |  
+| bip_39_word_no_space_11 | skategalaxyelephantwishtradealbumburgercollectorbittwofiscal |  
+| bip_39_word_no_space_12 | skategalaxyelephantwishtradealbumburgercollectorbittwofiscalarrange |  
+| bip_39_word_no_space_2 | skategalaxy |  
+| bip_39_word_no_space_3 | skategalaxyelephant |  
+| bip_39_word_no_space_4 | skategalaxyelephantwish |  
+| bip_39_word_no_space_5 | skategalaxyelephantwishtrade |  
+| bip_39_word_no_space_6 | skategalaxyelephantwishtradealbum |  
+| bip_39_word_no_space_7 | skategalaxyelephantwishtradealbumburger |  
+| bip_39_word_no_space_8 | skategalaxyelephantwishtradealbumburgercollect |  
+| bip_39_word_no_space_9 | skategalaxyelephantwishtradealbumburgercollectorbit |  
 | bip_39_word_space_0 | ['skate', 'galaxy', 'elephant', 'wish', 'trade', 'album', 'burger', 'collect', 'orbit', 'two', 'fiscal', 'arrange'] |  
 | bip_39_word_space_1 | skate |  
 | bip_39_word_space_10 | skate galaxy elephant wish trade album burger collect orbit two |  

@@ -122,6 +122,18 @@ sword
 damp
 movie
 flip |  
+| bip_39_word_no_space_1 | dust |  
+| bip_39_word_no_space_10 | dustseekelegantcampmulesworddampmovieflipsystem |  
+| bip_39_word_no_space_11 | dustseekelegantcampmulesworddampmovieflipsystemlift |  
+| bip_39_word_no_space_12 | dustseekelegantcampmulesworddampmovieflipsystemliftarena |  
+| bip_39_word_no_space_2 | dustseek |  
+| bip_39_word_no_space_3 | dustseekelegant |  
+| bip_39_word_no_space_4 | dustseekelegantcamp |  
+| bip_39_word_no_space_5 | dustseekelegantcampmule |  
+| bip_39_word_no_space_6 | dustseekelegantcampmulesword |  
+| bip_39_word_no_space_7 | dustseekelegantcampmulesworddamp |  
+| bip_39_word_no_space_8 | dustseekelegantcampmulesworddampmovie |  
+| bip_39_word_no_space_9 | dustseekelegantcampmulesworddampmovieflip |  
 | bip_39_word_space_0 | ['dust', 'seek', 'elegant', 'camp', 'mule', 'sword', 'damp', 'movie', 'flip', 'system', 'lift', 'arena'] |  
 | bip_39_word_space_1 | dust |  
 | bip_39_word_space_10 | dust seek elegant camp mule sword damp movie flip system |  

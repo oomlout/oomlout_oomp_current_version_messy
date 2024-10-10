@@ -122,6 +122,18 @@ ready
 laptop
 auction
 royal |  
+| bip_39_word_no_space_1 | text |  
+| bip_39_word_no_space_10 | textpupilswitchexcludesloganreadylaptopauctionroyalcrime |  
+| bip_39_word_no_space_11 | textpupilswitchexcludesloganreadylaptopauctionroyalcrimeexpress |  
+| bip_39_word_no_space_12 | textpupilswitchexcludesloganreadylaptopauctionroyalcrimeexpressassume |  
+| bip_39_word_no_space_2 | textpupil |  
+| bip_39_word_no_space_3 | textpupilswitch |  
+| bip_39_word_no_space_4 | textpupilswitchexclude |  
+| bip_39_word_no_space_5 | textpupilswitchexcludeslogan |  
+| bip_39_word_no_space_6 | textpupilswitchexcludesloganready |  
+| bip_39_word_no_space_7 | textpupilswitchexcludesloganreadylaptop |  
+| bip_39_word_no_space_8 | textpupilswitchexcludesloganreadylaptopauction |  
+| bip_39_word_no_space_9 | textpupilswitchexcludesloganreadylaptopauctionroyal |  
 | bip_39_word_space_0 | ['text', 'pupil', 'switch', 'exclude', 'slogan', 'ready', 'laptop', 'auction', 'royal', 'crime', 'express', 'assume'] |  
 | bip_39_word_space_1 | text |  
 | bip_39_word_space_10 | text pupil switch exclude slogan ready laptop auction royal crime |  

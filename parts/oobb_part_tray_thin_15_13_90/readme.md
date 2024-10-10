@@ -122,6 +122,18 @@ move
 increase
 photo
 give |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonhurdlecushionflushhubmoveincreasephotogiveeducate |  
+| bip_39_word_no_space_11 | ribbonhurdlecushionflushhubmoveincreasephotogiveeducateclient |  
+| bip_39_word_no_space_12 | ribbonhurdlecushionflushhubmoveincreasephotogiveeducateclientattitude |  
+| bip_39_word_no_space_2 | ribbonhurdle |  
+| bip_39_word_no_space_3 | ribbonhurdlecushion |  
+| bip_39_word_no_space_4 | ribbonhurdlecushionflush |  
+| bip_39_word_no_space_5 | ribbonhurdlecushionflushhub |  
+| bip_39_word_no_space_6 | ribbonhurdlecushionflushhubmove |  
+| bip_39_word_no_space_7 | ribbonhurdlecushionflushhubmoveincrease |  
+| bip_39_word_no_space_8 | ribbonhurdlecushionflushhubmoveincreasephoto |  
+| bip_39_word_no_space_9 | ribbonhurdlecushionflushhubmoveincreasephotogive |  
 | bip_39_word_space_0 | ['ribbon', 'hurdle', 'cushion', 'flush', 'hub', 'move', 'increase', 'photo', 'give', 'educate', 'client', 'attitude'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon hurdle cushion flush hub move increase photo give educate |  

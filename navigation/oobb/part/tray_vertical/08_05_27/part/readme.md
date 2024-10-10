@@ -122,6 +122,18 @@ away
 entry
 mask
 sponsor |  
+| bip_39_word_no_space_1 | expand |  
+| bip_39_word_no_space_10 | expandlunaragepowderotherawayentrymasksponsorcrawl |  
+| bip_39_word_no_space_11 | expandlunaragepowderotherawayentrymasksponsorcrawlpanther |  
+| bip_39_word_no_space_12 | expandlunaragepowderotherawayentrymasksponsorcrawlpantherask |  
+| bip_39_word_no_space_2 | expandlunar |  
+| bip_39_word_no_space_3 | expandlunarage |  
+| bip_39_word_no_space_4 | expandlunaragepowder |  
+| bip_39_word_no_space_5 | expandlunaragepowderother |  
+| bip_39_word_no_space_6 | expandlunaragepowderotheraway |  
+| bip_39_word_no_space_7 | expandlunaragepowderotherawayentry |  
+| bip_39_word_no_space_8 | expandlunaragepowderotherawayentrymask |  
+| bip_39_word_no_space_9 | expandlunaragepowderotherawayentrymasksponsor |  
 | bip_39_word_space_0 | ['expand', 'lunar', 'age', 'powder', 'other', 'away', 'entry', 'mask', 'sponsor', 'crawl', 'panther', 'ask'] |  
 | bip_39_word_space_1 | expand |  
 | bip_39_word_space_10 | expand lunar age powder other away entry mask sponsor crawl |  

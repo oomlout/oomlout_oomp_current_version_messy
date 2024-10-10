@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'habit
   meadow
 
   artist'
+bip_39_word_no_space_1: habit
+bip_39_word_no_space_10: habitsmartunlocksphereenjoysubmithardmeadowartistmind
+bip_39_word_no_space_11: habitsmartunlocksphereenjoysubmithardmeadowartistmindupper
+bip_39_word_no_space_12: habitsmartunlocksphereenjoysubmithardmeadowartistmindupperartefact
+bip_39_word_no_space_2: habitsmart
+bip_39_word_no_space_3: habitsmartunlock
+bip_39_word_no_space_4: habitsmartunlocksphere
+bip_39_word_no_space_5: habitsmartunlocksphereenjoy
+bip_39_word_no_space_6: habitsmartunlocksphereenjoysubmit
+bip_39_word_no_space_7: habitsmartunlocksphereenjoysubmithard
+bip_39_word_no_space_8: habitsmartunlocksphereenjoysubmithardmeadow
+bip_39_word_no_space_9: habitsmartunlocksphereenjoysubmithardmeadowartist
 bip_39_word_space_0:
 - habit
 - smart

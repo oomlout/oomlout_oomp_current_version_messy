@@ -122,6 +122,18 @@ police
 never
 anxiety
 horror |  
+| bip_39_word_no_space_1 | thought |  
+| bip_39_word_no_space_10 | thoughtframeprivateradarobtainpoliceneveranxietyhorrorretire |  
+| bip_39_word_no_space_11 | thoughtframeprivateradarobtainpoliceneveranxietyhorrorretirecamp |  
+| bip_39_word_no_space_12 | thoughtframeprivateradarobtainpoliceneveranxietyhorrorretirecampaisle |  
+| bip_39_word_no_space_2 | thoughtframe |  
+| bip_39_word_no_space_3 | thoughtframeprivate |  
+| bip_39_word_no_space_4 | thoughtframeprivateradar |  
+| bip_39_word_no_space_5 | thoughtframeprivateradarobtain |  
+| bip_39_word_no_space_6 | thoughtframeprivateradarobtainpolice |  
+| bip_39_word_no_space_7 | thoughtframeprivateradarobtainpolicenever |  
+| bip_39_word_no_space_8 | thoughtframeprivateradarobtainpoliceneveranxiety |  
+| bip_39_word_no_space_9 | thoughtframeprivateradarobtainpoliceneveranxietyhorror |  
 | bip_39_word_space_0 | ['thought', 'frame', 'private', 'radar', 'obtain', 'police', 'never', 'anxiety', 'horror', 'retire', 'camp', 'aisle'] |  
 | bip_39_word_space_1 | thought |  
 | bip_39_word_space_10 | thought frame private radar obtain police never anxiety horror retire |  

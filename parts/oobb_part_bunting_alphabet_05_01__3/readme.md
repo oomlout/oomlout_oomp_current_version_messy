@@ -122,6 +122,18 @@ treat
 shop
 shift
 evidence |  
+| bip_39_word_no_space_1 | olive |  
+| bip_39_word_no_space_10 | olivestadiumchronicneitherfoiltreatshopshiftevidencepossible |  
+| bip_39_word_no_space_11 | olivestadiumchronicneitherfoiltreatshopshiftevidencepossiblecase |  
+| bip_39_word_no_space_12 | olivestadiumchronicneitherfoiltreatshopshiftevidencepossiblecasealone |  
+| bip_39_word_no_space_2 | olivestadium |  
+| bip_39_word_no_space_3 | olivestadiumchronic |  
+| bip_39_word_no_space_4 | olivestadiumchronicneither |  
+| bip_39_word_no_space_5 | olivestadiumchronicneitherfoil |  
+| bip_39_word_no_space_6 | olivestadiumchronicneitherfoiltreat |  
+| bip_39_word_no_space_7 | olivestadiumchronicneitherfoiltreatshop |  
+| bip_39_word_no_space_8 | olivestadiumchronicneitherfoiltreatshopshift |  
+| bip_39_word_no_space_9 | olivestadiumchronicneitherfoiltreatshopshiftevidence |  
 | bip_39_word_space_0 | ['olive', 'stadium', 'chronic', 'neither', 'foil', 'treat', 'shop', 'shift', 'evidence', 'possible', 'case', 'alone'] |  
 | bip_39_word_space_1 | olive |  
 | bip_39_word_space_10 | olive stadium chronic neither foil treat shop shift evidence possible |  

@@ -122,6 +122,18 @@ various
 they
 torch
 arch |  
+| bip_39_word_no_space_1 | cement |  
+| bip_39_word_no_space_10 | cementlearnthunderfinishworthvarioustheytorcharchasset |  
+| bip_39_word_no_space_11 | cementlearnthunderfinishworthvarioustheytorcharchassetgenius |  
+| bip_39_word_no_space_12 | cementlearnthunderfinishworthvarioustheytorcharchassetgeniusallow |  
+| bip_39_word_no_space_2 | cementlearn |  
+| bip_39_word_no_space_3 | cementlearnthunder |  
+| bip_39_word_no_space_4 | cementlearnthunderfinish |  
+| bip_39_word_no_space_5 | cementlearnthunderfinishworth |  
+| bip_39_word_no_space_6 | cementlearnthunderfinishworthvarious |  
+| bip_39_word_no_space_7 | cementlearnthunderfinishworthvariousthey |  
+| bip_39_word_no_space_8 | cementlearnthunderfinishworthvarioustheytorch |  
+| bip_39_word_no_space_9 | cementlearnthunderfinishworthvarioustheytorcharch |  
 | bip_39_word_space_0 | ['cement', 'learn', 'thunder', 'finish', 'worth', 'various', 'they', 'torch', 'arch', 'asset', 'genius', 'allow'] |  
 | bip_39_word_space_1 | cement |  
 | bip_39_word_space_10 | cement learn thunder finish worth various they torch arch asset |  

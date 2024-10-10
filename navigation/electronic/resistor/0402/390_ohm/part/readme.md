@@ -122,6 +122,18 @@ silk
 total
 laundry
 bar |  
+| bip_39_word_no_space_1 | calm |  
+| bip_39_word_no_space_10 | calmupdatenetworkkangarooeyesilktotallaundrybarissue |  
+| bip_39_word_no_space_11 | calmupdatenetworkkangarooeyesilktotallaundrybarissuelizard |  
+| bip_39_word_no_space_12 | calmupdatenetworkkangarooeyesilktotallaundrybarissuelizardantenna |  
+| bip_39_word_no_space_2 | calmupdate |  
+| bip_39_word_no_space_3 | calmupdatenetwork |  
+| bip_39_word_no_space_4 | calmupdatenetworkkangaroo |  
+| bip_39_word_no_space_5 | calmupdatenetworkkangarooeye |  
+| bip_39_word_no_space_6 | calmupdatenetworkkangarooeyesilk |  
+| bip_39_word_no_space_7 | calmupdatenetworkkangarooeyesilktotal |  
+| bip_39_word_no_space_8 | calmupdatenetworkkangarooeyesilktotallaundry |  
+| bip_39_word_no_space_9 | calmupdatenetworkkangarooeyesilktotallaundrybar |  
 | bip_39_word_space_0 | ['calm', 'update', 'network', 'kangaroo', 'eye', 'silk', 'total', 'laundry', 'bar', 'issue', 'lizard', 'antenna'] |  
 | bip_39_word_space_1 | calm |  
 | bip_39_word_space_10 | calm update network kangaroo eye silk total laundry bar issue |  

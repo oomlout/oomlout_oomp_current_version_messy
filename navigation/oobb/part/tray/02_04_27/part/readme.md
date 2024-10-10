@@ -122,6 +122,18 @@ supreme
 copy
 disease
 base |  
+| bip_39_word_no_space_1 | rare |  
+| bip_39_word_no_space_10 | raresongstuffcasualseasonsupremecopydiseasebaseprice |  
+| bip_39_word_no_space_11 | raresongstuffcasualseasonsupremecopydiseasebasepricethrow |  
+| bip_39_word_no_space_12 | raresongstuffcasualseasonsupremecopydiseasebasepricethrowaccess |  
+| bip_39_word_no_space_2 | raresong |  
+| bip_39_word_no_space_3 | raresongstuff |  
+| bip_39_word_no_space_4 | raresongstuffcasual |  
+| bip_39_word_no_space_5 | raresongstuffcasualseason |  
+| bip_39_word_no_space_6 | raresongstuffcasualseasonsupreme |  
+| bip_39_word_no_space_7 | raresongstuffcasualseasonsupremecopy |  
+| bip_39_word_no_space_8 | raresongstuffcasualseasonsupremecopydisease |  
+| bip_39_word_no_space_9 | raresongstuffcasualseasonsupremecopydiseasebase |  
 | bip_39_word_space_0 | ['rare', 'song', 'stuff', 'casual', 'season', 'supreme', 'copy', 'disease', 'base', 'price', 'throw', 'access'] |  
 | bip_39_word_space_1 | rare |  
 | bip_39_word_space_10 | rare song stuff casual season supreme copy disease base price |  

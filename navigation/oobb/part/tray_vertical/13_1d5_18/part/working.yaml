@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dust
   liquid
 
   cushion'
+bip_39_word_no_space_1: dust
+bip_39_word_no_space_10: dustfishusefultrapalwaysmouseceilingliquidcushionrepair
+bip_39_word_no_space_11: dustfishusefultrapalwaysmouseceilingliquidcushionrepairgrape
+bip_39_word_no_space_12: dustfishusefultrapalwaysmouseceilingliquidcushionrepairgrapeacid
+bip_39_word_no_space_2: dustfish
+bip_39_word_no_space_3: dustfishuseful
+bip_39_word_no_space_4: dustfishusefultrap
+bip_39_word_no_space_5: dustfishusefultrapalways
+bip_39_word_no_space_6: dustfishusefultrapalwaysmouse
+bip_39_word_no_space_7: dustfishusefultrapalwaysmouseceiling
+bip_39_word_no_space_8: dustfishusefultrapalwaysmouseceilingliquid
+bip_39_word_no_space_9: dustfishusefultrapalwaysmouseceilingliquidcushion
 bip_39_word_space_0:
 - dust
 - fish

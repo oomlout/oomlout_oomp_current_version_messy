@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'process
   bacon
 
   junk'
+bip_39_word_no_space_1: process
+bip_39_word_no_space_10: processremindfixreturnovenloopmuseumbaconjunkarrive
+bip_39_word_no_space_11: processremindfixreturnovenloopmuseumbaconjunkarrivemountain
+bip_39_word_no_space_12: processremindfixreturnovenloopmuseumbaconjunkarrivemountainabstract
+bip_39_word_no_space_2: processremind
+bip_39_word_no_space_3: processremindfix
+bip_39_word_no_space_4: processremindfixreturn
+bip_39_word_no_space_5: processremindfixreturnoven
+bip_39_word_no_space_6: processremindfixreturnovenloop
+bip_39_word_no_space_7: processremindfixreturnovenloopmuseum
+bip_39_word_no_space_8: processremindfixreturnovenloopmuseumbacon
+bip_39_word_no_space_9: processremindfixreturnovenloopmuseumbaconjunk
 bip_39_word_space_0:
 - process
 - remind

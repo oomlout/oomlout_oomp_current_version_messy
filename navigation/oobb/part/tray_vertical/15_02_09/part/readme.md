@@ -122,6 +122,18 @@ video
 silk
 wealth
 ability |  
+| bip_39_word_no_space_1 | apart |  
+| bip_39_word_no_space_10 | apartcleverbananareducediscovervideosilkwealthabilityidea |  
+| bip_39_word_no_space_11 | apartcleverbananareducediscovervideosilkwealthabilityideapond |  
+| bip_39_word_no_space_12 | apartcleverbananareducediscovervideosilkwealthabilityideapondattract |  
+| bip_39_word_no_space_2 | apartclever |  
+| bip_39_word_no_space_3 | apartcleverbanana |  
+| bip_39_word_no_space_4 | apartcleverbananareduce |  
+| bip_39_word_no_space_5 | apartcleverbananareducediscover |  
+| bip_39_word_no_space_6 | apartcleverbananareducediscovervideo |  
+| bip_39_word_no_space_7 | apartcleverbananareducediscovervideosilk |  
+| bip_39_word_no_space_8 | apartcleverbananareducediscovervideosilkwealth |  
+| bip_39_word_no_space_9 | apartcleverbananareducediscovervideosilkwealthability |  
 | bip_39_word_space_0 | ['apart', 'clever', 'banana', 'reduce', 'discover', 'video', 'silk', 'wealth', 'ability', 'idea', 'pond', 'attract'] |  
 | bip_39_word_space_1 | apart |  
 | bip_39_word_space_10 | apart clever banana reduce discover video silk wealth ability idea |  

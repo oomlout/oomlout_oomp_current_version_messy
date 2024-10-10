@@ -122,6 +122,18 @@ various
 salt
 bleak
 animal |  
+| bip_39_word_no_space_1 | habit |  
+| bip_39_word_no_space_10 | habitsiblingpiecenoodlebloodvarioussaltbleakanimaljungle |  
+| bip_39_word_no_space_11 | habitsiblingpiecenoodlebloodvarioussaltbleakanimaljunglemotor |  
+| bip_39_word_no_space_12 | habitsiblingpiecenoodlebloodvarioussaltbleakanimaljunglemotorathlete |  
+| bip_39_word_no_space_2 | habitsibling |  
+| bip_39_word_no_space_3 | habitsiblingpiece |  
+| bip_39_word_no_space_4 | habitsiblingpiecenoodle |  
+| bip_39_word_no_space_5 | habitsiblingpiecenoodleblood |  
+| bip_39_word_no_space_6 | habitsiblingpiecenoodlebloodvarious |  
+| bip_39_word_no_space_7 | habitsiblingpiecenoodlebloodvarioussalt |  
+| bip_39_word_no_space_8 | habitsiblingpiecenoodlebloodvarioussaltbleak |  
+| bip_39_word_no_space_9 | habitsiblingpiecenoodlebloodvarioussaltbleakanimal |  
 | bip_39_word_space_0 | ['habit', 'sibling', 'piece', 'noodle', 'blood', 'various', 'salt', 'bleak', 'animal', 'jungle', 'motor', 'athlete'] |  
 | bip_39_word_space_1 | habit |  
 | bip_39_word_space_10 | habit sibling piece noodle blood various salt bleak animal jungle |  

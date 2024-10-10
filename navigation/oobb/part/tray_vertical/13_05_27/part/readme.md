@@ -122,6 +122,18 @@ tattoo
 rare
 pink
 ribbon |  
+| bip_39_word_no_space_1 | occur |  
+| bip_39_word_no_space_10 | occurbetraydepositsensevoidtattoorarepinkribbonsituate |  
+| bip_39_word_no_space_11 | occurbetraydepositsensevoidtattoorarepinkribbonsituatehawk |  
+| bip_39_word_no_space_12 | occurbetraydepositsensevoidtattoorarepinkribbonsituatehawkamused |  
+| bip_39_word_no_space_2 | occurbetray |  
+| bip_39_word_no_space_3 | occurbetraydeposit |  
+| bip_39_word_no_space_4 | occurbetraydepositsense |  
+| bip_39_word_no_space_5 | occurbetraydepositsensevoid |  
+| bip_39_word_no_space_6 | occurbetraydepositsensevoidtattoo |  
+| bip_39_word_no_space_7 | occurbetraydepositsensevoidtattoorare |  
+| bip_39_word_no_space_8 | occurbetraydepositsensevoidtattoorarepink |  
+| bip_39_word_no_space_9 | occurbetraydepositsensevoidtattoorarepinkribbon |  
 | bip_39_word_space_0 | ['occur', 'betray', 'deposit', 'sense', 'void', 'tattoo', 'rare', 'pink', 'ribbon', 'situate', 'hawk', 'amused'] |  
 | bip_39_word_space_1 | occur |  
 | bip_39_word_space_10 | occur betray deposit sense void tattoo rare pink ribbon situate |  

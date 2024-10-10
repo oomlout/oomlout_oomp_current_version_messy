@@ -122,6 +122,18 @@ clock
 donate
 grass
 slogan |  
+| bip_39_word_no_space_1 | rather |  
+| bip_39_word_no_space_10 | ratherfacultyduringsirenthunderclockdonategrasssloganphoto |  
+| bip_39_word_no_space_11 | ratherfacultyduringsirenthunderclockdonategrasssloganphotoblood |  
+| bip_39_word_no_space_12 | ratherfacultyduringsirenthunderclockdonategrasssloganphotobloodaround |  
+| bip_39_word_no_space_2 | ratherfaculty |  
+| bip_39_word_no_space_3 | ratherfacultyduring |  
+| bip_39_word_no_space_4 | ratherfacultyduringsiren |  
+| bip_39_word_no_space_5 | ratherfacultyduringsirenthunder |  
+| bip_39_word_no_space_6 | ratherfacultyduringsirenthunderclock |  
+| bip_39_word_no_space_7 | ratherfacultyduringsirenthunderclockdonate |  
+| bip_39_word_no_space_8 | ratherfacultyduringsirenthunderclockdonategrass |  
+| bip_39_word_no_space_9 | ratherfacultyduringsirenthunderclockdonategrassslogan |  
 | bip_39_word_space_0 | ['rather', 'faculty', 'during', 'siren', 'thunder', 'clock', 'donate', 'grass', 'slogan', 'photo', 'blood', 'around'] |  
 | bip_39_word_space_1 | rather |  
 | bip_39_word_space_10 | rather faculty during siren thunder clock donate grass slogan photo |  

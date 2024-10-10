@@ -122,6 +122,18 @@ witness
 champion
 reveal
 ritual |  
+| bip_39_word_no_space_1 | sudden |  
+| bip_39_word_no_space_10 | suddenelsemainassistelevatorwitnesschampionrevealritualdisease |  
+| bip_39_word_no_space_11 | suddenelsemainassistelevatorwitnesschampionrevealritualdiseaseflash |  
+| bip_39_word_no_space_12 | suddenelsemainassistelevatorwitnesschampionrevealritualdiseaseflashaim |  
+| bip_39_word_no_space_2 | suddenelse |  
+| bip_39_word_no_space_3 | suddenelsemain |  
+| bip_39_word_no_space_4 | suddenelsemainassist |  
+| bip_39_word_no_space_5 | suddenelsemainassistelevator |  
+| bip_39_word_no_space_6 | suddenelsemainassistelevatorwitness |  
+| bip_39_word_no_space_7 | suddenelsemainassistelevatorwitnesschampion |  
+| bip_39_word_no_space_8 | suddenelsemainassistelevatorwitnesschampionreveal |  
+| bip_39_word_no_space_9 | suddenelsemainassistelevatorwitnesschampionrevealritual |  
 | bip_39_word_space_0 | ['sudden', 'else', 'main', 'assist', 'elevator', 'witness', 'champion', 'reveal', 'ritual', 'disease', 'flash', 'aim'] |  
 | bip_39_word_space_1 | sudden |  
 | bip_39_word_space_10 | sudden else main assist elevator witness champion reveal ritual disease |  

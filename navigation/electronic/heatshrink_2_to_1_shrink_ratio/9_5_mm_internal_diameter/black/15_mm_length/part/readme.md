@@ -122,6 +122,18 @@ crystal
 wait
 cash
 shoot |  
+| bip_39_word_no_space_1 | barely |  
+| bip_39_word_no_space_10 | barelypistolemptyticketequalcrystalwaitcashshootmember |  
+| bip_39_word_no_space_11 | barelypistolemptyticketequalcrystalwaitcashshootmemberrent |  
+| bip_39_word_no_space_12 | barelypistolemptyticketequalcrystalwaitcashshootmemberrentarch |  
+| bip_39_word_no_space_2 | barelypistol |  
+| bip_39_word_no_space_3 | barelypistolempty |  
+| bip_39_word_no_space_4 | barelypistolemptyticket |  
+| bip_39_word_no_space_5 | barelypistolemptyticketequal |  
+| bip_39_word_no_space_6 | barelypistolemptyticketequalcrystal |  
+| bip_39_word_no_space_7 | barelypistolemptyticketequalcrystalwait |  
+| bip_39_word_no_space_8 | barelypistolemptyticketequalcrystalwaitcash |  
+| bip_39_word_no_space_9 | barelypistolemptyticketequalcrystalwaitcashshoot |  
 | bip_39_word_space_0 | ['barely', 'pistol', 'empty', 'ticket', 'equal', 'crystal', 'wait', 'cash', 'shoot', 'member', 'rent', 'arch'] |  
 | bip_39_word_space_1 | barely |  
 | bip_39_word_space_10 | barely pistol empty ticket equal crystal wait cash shoot member |  

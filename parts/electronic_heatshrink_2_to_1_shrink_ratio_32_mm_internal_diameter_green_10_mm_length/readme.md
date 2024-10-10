@@ -122,6 +122,18 @@ sibling
 habit
 brief
 require |  
+| bip_39_word_no_space_1 | bird |  
+| bip_39_word_no_space_10 | birdsilentnextauthorexchangesiblinghabitbriefrequirereveal |  
+| bip_39_word_no_space_11 | birdsilentnextauthorexchangesiblinghabitbriefrequirerevealwave |  
+| bip_39_word_no_space_12 | birdsilentnextauthorexchangesiblinghabitbriefrequirerevealwavearrest |  
+| bip_39_word_no_space_2 | birdsilent |  
+| bip_39_word_no_space_3 | birdsilentnext |  
+| bip_39_word_no_space_4 | birdsilentnextauthor |  
+| bip_39_word_no_space_5 | birdsilentnextauthorexchange |  
+| bip_39_word_no_space_6 | birdsilentnextauthorexchangesibling |  
+| bip_39_word_no_space_7 | birdsilentnextauthorexchangesiblinghabit |  
+| bip_39_word_no_space_8 | birdsilentnextauthorexchangesiblinghabitbrief |  
+| bip_39_word_no_space_9 | birdsilentnextauthorexchangesiblinghabitbriefrequire |  
 | bip_39_word_space_0 | ['bird', 'silent', 'next', 'author', 'exchange', 'sibling', 'habit', 'brief', 'require', 'reveal', 'wave', 'arrest'] |  
 | bip_39_word_space_1 | bird |  
 | bip_39_word_space_10 | bird silent next author exchange sibling habit brief require reveal |  

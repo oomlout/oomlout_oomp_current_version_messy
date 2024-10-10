@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'exclude
   rather
 
   city'
+bip_39_word_no_space_1: exclude
+bip_39_word_no_space_10: excludeanglemarinegritverboperaimposerathercitynorth
+bip_39_word_no_space_11: excludeanglemarinegritverboperaimposerathercitynorthkitten
+bip_39_word_no_space_12: excludeanglemarinegritverboperaimposerathercitynorthkittenaugust
+bip_39_word_no_space_2: excludeangle
+bip_39_word_no_space_3: excludeanglemarine
+bip_39_word_no_space_4: excludeanglemarinegrit
+bip_39_word_no_space_5: excludeanglemarinegritverb
+bip_39_word_no_space_6: excludeanglemarinegritverbopera
+bip_39_word_no_space_7: excludeanglemarinegritverboperaimpose
+bip_39_word_no_space_8: excludeanglemarinegritverboperaimposerather
+bip_39_word_no_space_9: excludeanglemarinegritverboperaimposerathercity
 bip_39_word_space_0:
 - exclude
 - angle

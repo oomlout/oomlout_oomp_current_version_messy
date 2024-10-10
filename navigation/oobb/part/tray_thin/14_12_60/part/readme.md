@@ -122,6 +122,18 @@ cabbage
 drive
 rival
 force |  
+| bip_39_word_no_space_1 | fitness |  
+| bip_39_word_no_space_10 | fitnessinvolvebehindresultyoungcabbagedriverivalforcewarrior |  
+| bip_39_word_no_space_11 | fitnessinvolvebehindresultyoungcabbagedriverivalforcewarriorbenefit |  
+| bip_39_word_no_space_12 | fitnessinvolvebehindresultyoungcabbagedriverivalforcewarriorbenefitanimal |  
+| bip_39_word_no_space_2 | fitnessinvolve |  
+| bip_39_word_no_space_3 | fitnessinvolvebehind |  
+| bip_39_word_no_space_4 | fitnessinvolvebehindresult |  
+| bip_39_word_no_space_5 | fitnessinvolvebehindresultyoung |  
+| bip_39_word_no_space_6 | fitnessinvolvebehindresultyoungcabbage |  
+| bip_39_word_no_space_7 | fitnessinvolvebehindresultyoungcabbagedrive |  
+| bip_39_word_no_space_8 | fitnessinvolvebehindresultyoungcabbagedriverival |  
+| bip_39_word_no_space_9 | fitnessinvolvebehindresultyoungcabbagedriverivalforce |  
 | bip_39_word_space_0 | ['fitness', 'involve', 'behind', 'result', 'young', 'cabbage', 'drive', 'rival', 'force', 'warrior', 'benefit', 'animal'] |  
 | bip_39_word_space_1 | fitness |  
 | bip_39_word_space_10 | fitness involve behind result young cabbage drive rival force warrior |  

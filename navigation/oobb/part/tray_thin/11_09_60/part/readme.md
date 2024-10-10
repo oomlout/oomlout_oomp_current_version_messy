@@ -122,6 +122,18 @@ ranch
 iron
 dream
 bachelor |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | rulegrainimmunefalserackranchirondreambachelorclump |  
+| bip_39_word_no_space_11 | rulegrainimmunefalserackranchirondreambachelorclumpearly |  
+| bip_39_word_no_space_12 | rulegrainimmunefalserackranchirondreambachelorclumpearlyancient |  
+| bip_39_word_no_space_2 | rulegrain |  
+| bip_39_word_no_space_3 | rulegrainimmune |  
+| bip_39_word_no_space_4 | rulegrainimmunefalse |  
+| bip_39_word_no_space_5 | rulegrainimmunefalserack |  
+| bip_39_word_no_space_6 | rulegrainimmunefalserackranch |  
+| bip_39_word_no_space_7 | rulegrainimmunefalserackranchiron |  
+| bip_39_word_no_space_8 | rulegrainimmunefalserackranchirondream |  
+| bip_39_word_no_space_9 | rulegrainimmunefalserackranchirondreambachelor |  
 | bip_39_word_space_0 | ['rule', 'grain', 'immune', 'false', 'rack', 'ranch', 'iron', 'dream', 'bachelor', 'clump', 'early', 'ancient'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule grain immune false rack ranch iron dream bachelor clump |  

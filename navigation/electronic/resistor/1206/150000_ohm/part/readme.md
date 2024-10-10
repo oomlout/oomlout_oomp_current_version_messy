@@ -122,6 +122,18 @@ pattern
 genre
 orchard
 twelve |  
+| bip_39_word_no_space_1 | baby |  
+| bip_39_word_no_space_10 | babyunfoldparadealphauniversepatterngenreorchardtwelvesort |  
+| bip_39_word_no_space_11 | babyunfoldparadealphauniversepatterngenreorchardtwelvesorttissue |  
+| bip_39_word_no_space_12 | babyunfoldparadealphauniversepatterngenreorchardtwelvesorttissuearmed |  
+| bip_39_word_no_space_2 | babyunfold |  
+| bip_39_word_no_space_3 | babyunfoldparade |  
+| bip_39_word_no_space_4 | babyunfoldparadealpha |  
+| bip_39_word_no_space_5 | babyunfoldparadealphauniverse |  
+| bip_39_word_no_space_6 | babyunfoldparadealphauniversepattern |  
+| bip_39_word_no_space_7 | babyunfoldparadealphauniversepatterngenre |  
+| bip_39_word_no_space_8 | babyunfoldparadealphauniversepatterngenreorchard |  
+| bip_39_word_no_space_9 | babyunfoldparadealphauniversepatterngenreorchardtwelve |  
 | bip_39_word_space_0 | ['baby', 'unfold', 'parade', 'alpha', 'universe', 'pattern', 'genre', 'orchard', 'twelve', 'sort', 'tissue', 'armed'] |  
 | bip_39_word_space_1 | baby |  
 | bip_39_word_space_10 | baby unfold parade alpha universe pattern genre orchard twelve sort |  

@@ -122,6 +122,18 @@ depend
 size
 trick
 learn |  
+| bip_39_word_no_space_1 | cliff |  
+| bip_39_word_no_space_10 | cliffbubblepopularsmoothjudgedependsizetricklearnpublic |  
+| bip_39_word_no_space_11 | cliffbubblepopularsmoothjudgedependsizetricklearnpublicstyle |  
+| bip_39_word_no_space_12 | cliffbubblepopularsmoothjudgedependsizetricklearnpublicstyleanxiety |  
+| bip_39_word_no_space_2 | cliffbubble |  
+| bip_39_word_no_space_3 | cliffbubblepopular |  
+| bip_39_word_no_space_4 | cliffbubblepopularsmooth |  
+| bip_39_word_no_space_5 | cliffbubblepopularsmoothjudge |  
+| bip_39_word_no_space_6 | cliffbubblepopularsmoothjudgedepend |  
+| bip_39_word_no_space_7 | cliffbubblepopularsmoothjudgedependsize |  
+| bip_39_word_no_space_8 | cliffbubblepopularsmoothjudgedependsizetrick |  
+| bip_39_word_no_space_9 | cliffbubblepopularsmoothjudgedependsizetricklearn |  
 | bip_39_word_space_0 | ['cliff', 'bubble', 'popular', 'smooth', 'judge', 'depend', 'size', 'trick', 'learn', 'public', 'style', 'anxiety'] |  
 | bip_39_word_space_1 | cliff |  
 | bip_39_word_space_10 | cliff bubble popular smooth judge depend size trick learn public |  

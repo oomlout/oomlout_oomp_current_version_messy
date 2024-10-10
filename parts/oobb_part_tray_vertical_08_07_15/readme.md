@@ -122,6 +122,18 @@ slow
 assist
 ask
 enter |  
+| bip_39_word_no_space_1 | jacket |  
+| bip_39_word_no_space_10 | jacketreformdepartgingerpaddleslowassistaskenterthat |  
+| bip_39_word_no_space_11 | jacketreformdepartgingerpaddleslowassistaskenterthattribe |  
+| bip_39_word_no_space_12 | jacketreformdepartgingerpaddleslowassistaskenterthattribeaerobic |  
+| bip_39_word_no_space_2 | jacketreform |  
+| bip_39_word_no_space_3 | jacketreformdepart |  
+| bip_39_word_no_space_4 | jacketreformdepartginger |  
+| bip_39_word_no_space_5 | jacketreformdepartgingerpaddle |  
+| bip_39_word_no_space_6 | jacketreformdepartgingerpaddleslow |  
+| bip_39_word_no_space_7 | jacketreformdepartgingerpaddleslowassist |  
+| bip_39_word_no_space_8 | jacketreformdepartgingerpaddleslowassistask |  
+| bip_39_word_no_space_9 | jacketreformdepartgingerpaddleslowassistaskenter |  
 | bip_39_word_space_0 | ['jacket', 'reform', 'depart', 'ginger', 'paddle', 'slow', 'assist', 'ask', 'enter', 'that', 'tribe', 'aerobic'] |  
 | bip_39_word_space_1 | jacket |  
 | bip_39_word_space_10 | jacket reform depart ginger paddle slow assist ask enter that |  

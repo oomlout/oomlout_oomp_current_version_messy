@@ -122,6 +122,18 @@ kind
 million
 remind
 awake |  
+| bip_39_word_no_space_1 | bring |  
+| bip_39_word_no_space_10 | bringturkeydeputyduringwastekindmillionremindawakeprison |  
+| bip_39_word_no_space_11 | bringturkeydeputyduringwastekindmillionremindawakeprisonspawn |  
+| bip_39_word_no_space_12 | bringturkeydeputyduringwastekindmillionremindawakeprisonspawnanger |  
+| bip_39_word_no_space_2 | bringturkey |  
+| bip_39_word_no_space_3 | bringturkeydeputy |  
+| bip_39_word_no_space_4 | bringturkeydeputyduring |  
+| bip_39_word_no_space_5 | bringturkeydeputyduringwaste |  
+| bip_39_word_no_space_6 | bringturkeydeputyduringwastekind |  
+| bip_39_word_no_space_7 | bringturkeydeputyduringwastekindmillion |  
+| bip_39_word_no_space_8 | bringturkeydeputyduringwastekindmillionremind |  
+| bip_39_word_no_space_9 | bringturkeydeputyduringwastekindmillionremindawake |  
 | bip_39_word_space_0 | ['bring', 'turkey', 'deputy', 'during', 'waste', 'kind', 'million', 'remind', 'awake', 'prison', 'spawn', 'anger'] |  
 | bip_39_word_space_1 | bring |  
 | bip_39_word_space_10 | bring turkey deputy during waste kind million remind awake prison |  

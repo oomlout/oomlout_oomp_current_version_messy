@@ -122,6 +122,18 @@ panel
 blossom
 sketch
 treat |  
+| bip_39_word_no_space_1 | congress |  
+| bip_39_word_no_space_10 | congresscatchgainmisspartypanelblossomsketchtreatmusic |  
+| bip_39_word_no_space_11 | congresscatchgainmisspartypanelblossomsketchtreatmusicthing |  
+| bip_39_word_no_space_12 | congresscatchgainmisspartypanelblossomsketchtreatmusicthingancient |  
+| bip_39_word_no_space_2 | congresscatch |  
+| bip_39_word_no_space_3 | congresscatchgain |  
+| bip_39_word_no_space_4 | congresscatchgainmiss |  
+| bip_39_word_no_space_5 | congresscatchgainmissparty |  
+| bip_39_word_no_space_6 | congresscatchgainmisspartypanel |  
+| bip_39_word_no_space_7 | congresscatchgainmisspartypanelblossom |  
+| bip_39_word_no_space_8 | congresscatchgainmisspartypanelblossomsketch |  
+| bip_39_word_no_space_9 | congresscatchgainmisspartypanelblossomsketchtreat |  
 | bip_39_word_space_0 | ['congress', 'catch', 'gain', 'miss', 'party', 'panel', 'blossom', 'sketch', 'treat', 'music', 'thing', 'ancient'] |  
 | bip_39_word_space_1 | congress |  
 | bip_39_word_space_10 | congress catch gain miss party panel blossom sketch treat music |  

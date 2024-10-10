@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wish
   crunch
 
   usual'
+bip_39_word_no_space_1: wish
+bip_39_word_no_space_10: wishnorthsharecodedemandwrestlegaugecrunchusualawake
+bip_39_word_no_space_11: wishnorthsharecodedemandwrestlegaugecrunchusualawakeway
+bip_39_word_no_space_12: wishnorthsharecodedemandwrestlegaugecrunchusualawakewayargue
+bip_39_word_no_space_2: wishnorth
+bip_39_word_no_space_3: wishnorthshare
+bip_39_word_no_space_4: wishnorthsharecode
+bip_39_word_no_space_5: wishnorthsharecodedemand
+bip_39_word_no_space_6: wishnorthsharecodedemandwrestle
+bip_39_word_no_space_7: wishnorthsharecodedemandwrestlegauge
+bip_39_word_no_space_8: wishnorthsharecodedemandwrestlegaugecrunch
+bip_39_word_no_space_9: wishnorthsharecodedemandwrestlegaugecrunchusual
 bip_39_word_space_0:
 - wish
 - north

@@ -122,6 +122,18 @@ tuition
 rhythm
 stone
 stadium |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppylemonunhappyratesugartuitionrhythmstonestadiumsuper |  
+| bip_39_word_no_space_11 | puppylemonunhappyratesugartuitionrhythmstonestadiumsuperdemand |  
+| bip_39_word_no_space_12 | puppylemonunhappyratesugartuitionrhythmstonestadiumsuperdemandangry |  
+| bip_39_word_no_space_2 | puppylemon |  
+| bip_39_word_no_space_3 | puppylemonunhappy |  
+| bip_39_word_no_space_4 | puppylemonunhappyrate |  
+| bip_39_word_no_space_5 | puppylemonunhappyratesugar |  
+| bip_39_word_no_space_6 | puppylemonunhappyratesugartuition |  
+| bip_39_word_no_space_7 | puppylemonunhappyratesugartuitionrhythm |  
+| bip_39_word_no_space_8 | puppylemonunhappyratesugartuitionrhythmstone |  
+| bip_39_word_no_space_9 | puppylemonunhappyratesugartuitionrhythmstonestadium |  
 | bip_39_word_space_0 | ['puppy', 'lemon', 'unhappy', 'rate', 'sugar', 'tuition', 'rhythm', 'stone', 'stadium', 'super', 'demand', 'angry'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy lemon unhappy rate sugar tuition rhythm stone stadium super |  

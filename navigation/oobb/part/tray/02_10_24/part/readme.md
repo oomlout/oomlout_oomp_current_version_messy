@@ -122,6 +122,18 @@ ramp
 elder
 picnic
 slide |  
+| bip_39_word_no_space_1 | night |  
+| bip_39_word_no_space_10 | nightmotorfuelparadekidrampelderpicnicslidehill |  
+| bip_39_word_no_space_11 | nightmotorfuelparadekidrampelderpicnicslidehillrare |  
+| bip_39_word_no_space_12 | nightmotorfuelparadekidrampelderpicnicslidehillrareaccident |  
+| bip_39_word_no_space_2 | nightmotor |  
+| bip_39_word_no_space_3 | nightmotorfuel |  
+| bip_39_word_no_space_4 | nightmotorfuelparade |  
+| bip_39_word_no_space_5 | nightmotorfuelparadekid |  
+| bip_39_word_no_space_6 | nightmotorfuelparadekidramp |  
+| bip_39_word_no_space_7 | nightmotorfuelparadekidrampelder |  
+| bip_39_word_no_space_8 | nightmotorfuelparadekidrampelderpicnic |  
+| bip_39_word_no_space_9 | nightmotorfuelparadekidrampelderpicnicslide |  
 | bip_39_word_space_0 | ['night', 'motor', 'fuel', 'parade', 'kid', 'ramp', 'elder', 'picnic', 'slide', 'hill', 'rare', 'accident'] |  
 | bip_39_word_space_1 | night |  
 | bip_39_word_space_10 | night motor fuel parade kid ramp elder picnic slide hill |  

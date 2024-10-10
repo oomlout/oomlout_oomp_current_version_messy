@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'leaf
   solid
 
   busy'
+bip_39_word_no_space_1: leaf
+bip_39_word_no_space_10: leafamazingeightsniffmeadowadultbusinesssolidbusybutter
+bip_39_word_no_space_11: leafamazingeightsniffmeadowadultbusinesssolidbusybutterboil
+bip_39_word_no_space_12: leafamazingeightsniffmeadowadultbusinesssolidbusybutterboilancient
+bip_39_word_no_space_2: leafamazing
+bip_39_word_no_space_3: leafamazingeight
+bip_39_word_no_space_4: leafamazingeightsniff
+bip_39_word_no_space_5: leafamazingeightsniffmeadow
+bip_39_word_no_space_6: leafamazingeightsniffmeadowadult
+bip_39_word_no_space_7: leafamazingeightsniffmeadowadultbusiness
+bip_39_word_no_space_8: leafamazingeightsniffmeadowadultbusinesssolid
+bip_39_word_no_space_9: leafamazingeightsniffmeadowadultbusinesssolidbusy
 bip_39_word_space_0:
 - leaf
 - amazing

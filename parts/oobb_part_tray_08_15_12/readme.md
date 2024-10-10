@@ -122,6 +122,18 @@ choice
 sword
 laugh
 card |  
+| bip_39_word_no_space_1 | mushroom |  
+| bip_39_word_no_space_10 | mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneer |  
+| bip_39_word_no_space_11 | mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneerceiling |  
+| bip_39_word_no_space_12 | mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneerceilingantique |  
+| bip_39_word_no_space_2 | mushroomsound |  
+| bip_39_word_no_space_3 | mushroomsoundaisle |  
+| bip_39_word_no_space_4 | mushroomsoundaisleeasily |  
+| bip_39_word_no_space_5 | mushroomsoundaisleeasilywrestle |  
+| bip_39_word_no_space_6 | mushroomsoundaisleeasilywrestlechoice |  
+| bip_39_word_no_space_7 | mushroomsoundaisleeasilywrestlechoicesword |  
+| bip_39_word_no_space_8 | mushroomsoundaisleeasilywrestlechoiceswordlaugh |  
+| bip_39_word_no_space_9 | mushroomsoundaisleeasilywrestlechoiceswordlaughcard |  
 | bip_39_word_space_0 | ['mushroom', 'sound', 'aisle', 'easily', 'wrestle', 'choice', 'sword', 'laugh', 'card', 'pioneer', 'ceiling', 'antique'] |  
 | bip_39_word_space_1 | mushroom |  
 | bip_39_word_space_10 | mushroom sound aisle easily wrestle choice sword laugh card pioneer |  

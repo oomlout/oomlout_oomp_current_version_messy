@@ -122,6 +122,18 @@ mansion
 coffee
 ability
 donor |  
+| bip_39_word_no_space_1 | wealth |  
+| bip_39_word_no_space_10 | wealthcontrolvehiclemodifytornadomansioncoffeeabilitydonorsoup |  
+| bip_39_word_no_space_11 | wealthcontrolvehiclemodifytornadomansioncoffeeabilitydonorsoupinvolve |  
+| bip_39_word_no_space_12 | wealthcontrolvehiclemodifytornadomansioncoffeeabilitydonorsoupinvolveachieve |  
+| bip_39_word_no_space_2 | wealthcontrol |  
+| bip_39_word_no_space_3 | wealthcontrolvehicle |  
+| bip_39_word_no_space_4 | wealthcontrolvehiclemodify |  
+| bip_39_word_no_space_5 | wealthcontrolvehiclemodifytornado |  
+| bip_39_word_no_space_6 | wealthcontrolvehiclemodifytornadomansion |  
+| bip_39_word_no_space_7 | wealthcontrolvehiclemodifytornadomansioncoffee |  
+| bip_39_word_no_space_8 | wealthcontrolvehiclemodifytornadomansioncoffeeability |  
+| bip_39_word_no_space_9 | wealthcontrolvehiclemodifytornadomansioncoffeeabilitydonor |  
 | bip_39_word_space_0 | ['wealth', 'control', 'vehicle', 'modify', 'tornado', 'mansion', 'coffee', 'ability', 'donor', 'soup', 'involve', 'achieve'] |  
 | bip_39_word_space_1 | wealth |  
 | bip_39_word_space_10 | wealth control vehicle modify tornado mansion coffee ability donor soup |  

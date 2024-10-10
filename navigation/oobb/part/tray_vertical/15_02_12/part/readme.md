@@ -122,6 +122,18 @@ believe
 ozone
 shiver
 sight |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemyranchslabdryvacuumbelieveozoneshiversightstay |  
+| bip_39_word_no_space_11 | enemyranchslabdryvacuumbelieveozoneshiversightstayvast |  
+| bip_39_word_no_space_12 | enemyranchslabdryvacuumbelieveozoneshiversightstayvastadjust |  
+| bip_39_word_no_space_2 | enemyranch |  
+| bip_39_word_no_space_3 | enemyranchslab |  
+| bip_39_word_no_space_4 | enemyranchslabdry |  
+| bip_39_word_no_space_5 | enemyranchslabdryvacuum |  
+| bip_39_word_no_space_6 | enemyranchslabdryvacuumbelieve |  
+| bip_39_word_no_space_7 | enemyranchslabdryvacuumbelieveozone |  
+| bip_39_word_no_space_8 | enemyranchslabdryvacuumbelieveozoneshiver |  
+| bip_39_word_no_space_9 | enemyranchslabdryvacuumbelieveozoneshiversight |  
 | bip_39_word_space_0 | ['enemy', 'ranch', 'slab', 'dry', 'vacuum', 'believe', 'ozone', 'shiver', 'sight', 'stay', 'vast', 'adjust'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy ranch slab dry vacuum believe ozone shiver sight stay |  

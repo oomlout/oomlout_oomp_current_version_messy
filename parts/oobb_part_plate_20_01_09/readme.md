@@ -122,6 +122,18 @@ shift
 rug
 celery
 hawk |  
+| bip_39_word_no_space_1 | foster |  
+| bip_39_word_no_space_10 | fostertobaccomadhardfingershiftrugceleryhawkarm |  
+| bip_39_word_no_space_11 | fostertobaccomadhardfingershiftrugceleryhawkarmcook |  
+| bip_39_word_no_space_12 | fostertobaccomadhardfingershiftrugceleryhawkarmcookattend |  
+| bip_39_word_no_space_2 | fostertobacco |  
+| bip_39_word_no_space_3 | fostertobaccomad |  
+| bip_39_word_no_space_4 | fostertobaccomadhard |  
+| bip_39_word_no_space_5 | fostertobaccomadhardfinger |  
+| bip_39_word_no_space_6 | fostertobaccomadhardfingershift |  
+| bip_39_word_no_space_7 | fostertobaccomadhardfingershiftrug |  
+| bip_39_word_no_space_8 | fostertobaccomadhardfingershiftrugcelery |  
+| bip_39_word_no_space_9 | fostertobaccomadhardfingershiftrugceleryhawk |  
 | bip_39_word_space_0 | ['foster', 'tobacco', 'mad', 'hard', 'finger', 'shift', 'rug', 'celery', 'hawk', 'arm', 'cook', 'attend'] |  
 | bip_39_word_space_1 | foster |  
 | bip_39_word_space_10 | foster tobacco mad hard finger shift rug celery hawk arm |  

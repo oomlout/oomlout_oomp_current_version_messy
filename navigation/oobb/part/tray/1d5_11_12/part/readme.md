@@ -122,6 +122,18 @@ sniff
 gap
 ancient
 sorry |  
+| bip_39_word_no_space_1 | master |  
+| bip_39_word_no_space_10 | masterlargecostbrassflocksniffgapancientsorrypurchase |  
+| bip_39_word_no_space_11 | masterlargecostbrassflocksniffgapancientsorrypurchaseprepare |  
+| bip_39_word_no_space_12 | masterlargecostbrassflocksniffgapancientsorrypurchaseprepareavocado |  
+| bip_39_word_no_space_2 | masterlarge |  
+| bip_39_word_no_space_3 | masterlargecost |  
+| bip_39_word_no_space_4 | masterlargecostbrass |  
+| bip_39_word_no_space_5 | masterlargecostbrassflock |  
+| bip_39_word_no_space_6 | masterlargecostbrassflocksniff |  
+| bip_39_word_no_space_7 | masterlargecostbrassflocksniffgap |  
+| bip_39_word_no_space_8 | masterlargecostbrassflocksniffgapancient |  
+| bip_39_word_no_space_9 | masterlargecostbrassflocksniffgapancientsorry |  
 | bip_39_word_space_0 | ['master', 'large', 'cost', 'brass', 'flock', 'sniff', 'gap', 'ancient', 'sorry', 'purchase', 'prepare', 'avocado'] |  
 | bip_39_word_space_1 | master |  
 | bip_39_word_space_10 | master large cost brass flock sniff gap ancient sorry purchase |  

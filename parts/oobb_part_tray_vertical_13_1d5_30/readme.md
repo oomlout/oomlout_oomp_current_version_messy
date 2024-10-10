@@ -122,6 +122,18 @@ dumb
 bone
 squirrel
 excuse |  
+| bip_39_word_no_space_1 | omit |  
+| bip_39_word_no_space_10 | omitmethodhospitalphrasesquirreldumbbonesquirrelexcusemammal |  
+| bip_39_word_no_space_11 | omitmethodhospitalphrasesquirreldumbbonesquirrelexcusemammaljoy |  
+| bip_39_word_no_space_12 | omitmethodhospitalphrasesquirreldumbbonesquirrelexcusemammaljoyamong |  
+| bip_39_word_no_space_2 | omitmethod |  
+| bip_39_word_no_space_3 | omitmethodhospital |  
+| bip_39_word_no_space_4 | omitmethodhospitalphrase |  
+| bip_39_word_no_space_5 | omitmethodhospitalphrasesquirrel |  
+| bip_39_word_no_space_6 | omitmethodhospitalphrasesquirreldumb |  
+| bip_39_word_no_space_7 | omitmethodhospitalphrasesquirreldumbbone |  
+| bip_39_word_no_space_8 | omitmethodhospitalphrasesquirreldumbbonesquirrel |  
+| bip_39_word_no_space_9 | omitmethodhospitalphrasesquirreldumbbonesquirrelexcuse |  
 | bip_39_word_space_0 | ['omit', 'method', 'hospital', 'phrase', 'squirrel', 'dumb', 'bone', 'squirrel', 'excuse', 'mammal', 'joy', 'among'] |  
 | bip_39_word_space_1 | omit |  
 | bip_39_word_space_10 | omit method hospital phrase squirrel dumb bone squirrel excuse mammal |  

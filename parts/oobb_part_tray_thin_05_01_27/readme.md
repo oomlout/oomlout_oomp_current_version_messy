@@ -109,6 +109,17 @@ february
 erosion
 tenant
 ranch |  
+| bip_39_word_no_space_1 | behind |  
+| bip_39_word_no_space_10 | behindtellacoustictaxipanelfebruaryerosiontenantranchsiege |  
+| bip_39_word_no_space_11 | behindtellacoustictaxipanelfebruaryerosiontenantranchsiegecaution |  
+| bip_39_word_no_space_2 | behindtell |  
+| bip_39_word_no_space_3 | behindtellacoustic |  
+| bip_39_word_no_space_4 | behindtellacoustictaxi |  
+| bip_39_word_no_space_5 | behindtellacoustictaxipanel |  
+| bip_39_word_no_space_6 | behindtellacoustictaxipanelfebruary |  
+| bip_39_word_no_space_7 | behindtellacoustictaxipanelfebruaryerosion |  
+| bip_39_word_no_space_8 | behindtellacoustictaxipanelfebruaryerosiontenant |  
+| bip_39_word_no_space_9 | behindtellacoustictaxipanelfebruaryerosiontenantranch |  
 | bip_39_word_space_0 | ['behind', 'tell', 'acoustic', 'taxi', 'panel', 'february', 'erosion', 'tenant', 'ranch', 'siege', 'caution'] |  
 | bip_39_word_space_1 | behind |  
 | bip_39_word_space_10 | behind tell acoustic taxi panel february erosion tenant ranch siege |  

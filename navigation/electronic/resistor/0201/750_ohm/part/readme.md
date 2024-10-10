@@ -122,6 +122,18 @@ whip
 uncle
 chicken
 occur |  
+| bip_39_word_no_space_1 | bench |  
+| bip_39_word_no_space_10 | benchclutchdoveorientlaptopwhipunclechickenoccurglance |  
+| bip_39_word_no_space_11 | benchclutchdoveorientlaptopwhipunclechickenoccurglancedebate |  
+| bip_39_word_no_space_12 | benchclutchdoveorientlaptopwhipunclechickenoccurglancedebateaccident |  
+| bip_39_word_no_space_2 | benchclutch |  
+| bip_39_word_no_space_3 | benchclutchdove |  
+| bip_39_word_no_space_4 | benchclutchdoveorient |  
+| bip_39_word_no_space_5 | benchclutchdoveorientlaptop |  
+| bip_39_word_no_space_6 | benchclutchdoveorientlaptopwhip |  
+| bip_39_word_no_space_7 | benchclutchdoveorientlaptopwhipuncle |  
+| bip_39_word_no_space_8 | benchclutchdoveorientlaptopwhipunclechicken |  
+| bip_39_word_no_space_9 | benchclutchdoveorientlaptopwhipunclechickenoccur |  
 | bip_39_word_space_0 | ['bench', 'clutch', 'dove', 'orient', 'laptop', 'whip', 'uncle', 'chicken', 'occur', 'glance', 'debate', 'accident'] |  
 | bip_39_word_space_1 | bench |  
 | bip_39_word_space_10 | bench clutch dove orient laptop whip uncle chicken occur glance |  

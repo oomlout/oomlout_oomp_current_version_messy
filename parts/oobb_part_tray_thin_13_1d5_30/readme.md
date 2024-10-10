@@ -122,6 +122,18 @@ fragile
 shop
 angry
 retreat |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | giveraisemuchstingbarelyfragileshopangryretreatonline |  
+| bip_39_word_no_space_11 | giveraisemuchstingbarelyfragileshopangryretreatonlinebright |  
+| bip_39_word_no_space_12 | giveraisemuchstingbarelyfragileshopangryretreatonlinebrightadapt |  
+| bip_39_word_no_space_2 | giveraise |  
+| bip_39_word_no_space_3 | giveraisemuch |  
+| bip_39_word_no_space_4 | giveraisemuchsting |  
+| bip_39_word_no_space_5 | giveraisemuchstingbarely |  
+| bip_39_word_no_space_6 | giveraisemuchstingbarelyfragile |  
+| bip_39_word_no_space_7 | giveraisemuchstingbarelyfragileshop |  
+| bip_39_word_no_space_8 | giveraisemuchstingbarelyfragileshopangry |  
+| bip_39_word_no_space_9 | giveraisemuchstingbarelyfragileshopangryretreat |  
 | bip_39_word_space_0 | ['give', 'raise', 'much', 'sting', 'barely', 'fragile', 'shop', 'angry', 'retreat', 'online', 'bright', 'adapt'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give raise much sting barely fragile shop angry retreat online |  

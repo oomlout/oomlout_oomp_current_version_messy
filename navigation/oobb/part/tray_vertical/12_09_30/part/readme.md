@@ -122,6 +122,18 @@ twist
 rabbit
 sniff
 rival |  
+| bip_39_word_no_space_1 | zebra |  
+| bip_39_word_no_space_10 | zebragalaxymusicskatevalvetwistrabbitsniffrivalride |  
+| bip_39_word_no_space_11 | zebragalaxymusicskatevalvetwistrabbitsniffrivalrideguitar |  
+| bip_39_word_no_space_12 | zebragalaxymusicskatevalvetwistrabbitsniffrivalrideguitaraction |  
+| bip_39_word_no_space_2 | zebragalaxy |  
+| bip_39_word_no_space_3 | zebragalaxymusic |  
+| bip_39_word_no_space_4 | zebragalaxymusicskate |  
+| bip_39_word_no_space_5 | zebragalaxymusicskatevalve |  
+| bip_39_word_no_space_6 | zebragalaxymusicskatevalvetwist |  
+| bip_39_word_no_space_7 | zebragalaxymusicskatevalvetwistrabbit |  
+| bip_39_word_no_space_8 | zebragalaxymusicskatevalvetwistrabbitsniff |  
+| bip_39_word_no_space_9 | zebragalaxymusicskatevalvetwistrabbitsniffrival |  
 | bip_39_word_space_0 | ['zebra', 'galaxy', 'music', 'skate', 'valve', 'twist', 'rabbit', 'sniff', 'rival', 'ride', 'guitar', 'action'] |  
 | bip_39_word_space_1 | zebra |  
 | bip_39_word_space_10 | zebra galaxy music skate valve twist rabbit sniff rival ride |  

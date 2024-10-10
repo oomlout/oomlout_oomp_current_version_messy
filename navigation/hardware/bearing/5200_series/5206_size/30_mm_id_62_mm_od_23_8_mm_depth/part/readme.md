@@ -122,6 +122,18 @@ prepare
 stereo
 tuition
 divide |  
+| bip_39_word_no_space_1 | vacuum |  
+| bip_39_word_no_space_10 | vacuumpluckmanagesuperdollpreparestereotuitiondividecan |  
+| bip_39_word_no_space_11 | vacuumpluckmanagesuperdollpreparestereotuitiondividecanraise |  
+| bip_39_word_no_space_12 | vacuumpluckmanagesuperdollpreparestereotuitiondividecanraisearmed |  
+| bip_39_word_no_space_2 | vacuumpluck |  
+| bip_39_word_no_space_3 | vacuumpluckmanage |  
+| bip_39_word_no_space_4 | vacuumpluckmanagesuper |  
+| bip_39_word_no_space_5 | vacuumpluckmanagesuperdoll |  
+| bip_39_word_no_space_6 | vacuumpluckmanagesuperdollprepare |  
+| bip_39_word_no_space_7 | vacuumpluckmanagesuperdollpreparestereo |  
+| bip_39_word_no_space_8 | vacuumpluckmanagesuperdollpreparestereotuition |  
+| bip_39_word_no_space_9 | vacuumpluckmanagesuperdollpreparestereotuitiondivide |  
 | bip_39_word_space_0 | ['vacuum', 'pluck', 'manage', 'super', 'doll', 'prepare', 'stereo', 'tuition', 'divide', 'can', 'raise', 'armed'] |  
 | bip_39_word_space_1 | vacuum |  
 | bip_39_word_space_10 | vacuum pluck manage super doll prepare stereo tuition divide can |  

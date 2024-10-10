@@ -122,6 +122,18 @@ walk
 great
 rookie
 polar |  
+| bip_39_word_no_space_1 | bachelor |  
+| bip_39_word_no_space_10 | bachelortrulyordinarysameenablewalkgreatrookiepolarshoot |  
+| bip_39_word_no_space_11 | bachelortrulyordinarysameenablewalkgreatrookiepolarshootguilt |  
+| bip_39_word_no_space_12 | bachelortrulyordinarysameenablewalkgreatrookiepolarshootguiltany |  
+| bip_39_word_no_space_2 | bachelortruly |  
+| bip_39_word_no_space_3 | bachelortrulyordinary |  
+| bip_39_word_no_space_4 | bachelortrulyordinarysame |  
+| bip_39_word_no_space_5 | bachelortrulyordinarysameenable |  
+| bip_39_word_no_space_6 | bachelortrulyordinarysameenablewalk |  
+| bip_39_word_no_space_7 | bachelortrulyordinarysameenablewalkgreat |  
+| bip_39_word_no_space_8 | bachelortrulyordinarysameenablewalkgreatrookie |  
+| bip_39_word_no_space_9 | bachelortrulyordinarysameenablewalkgreatrookiepolar |  
 | bip_39_word_space_0 | ['bachelor', 'truly', 'ordinary', 'same', 'enable', 'walk', 'great', 'rookie', 'polar', 'shoot', 'guilt', 'any'] |  
 | bip_39_word_space_1 | bachelor |  
 | bip_39_word_space_10 | bachelor truly ordinary same enable walk great rookie polar shoot |  

@@ -122,6 +122,18 @@ blind
 roast
 believe
 inflict |  
+| bip_39_word_no_space_1 | hunt |  
+| bip_39_word_no_space_10 | hunttradebleakinvestlinkblindroastbelieveinflictminimum |  
+| bip_39_word_no_space_11 | hunttradebleakinvestlinkblindroastbelieveinflictminimumidle |  
+| bip_39_word_no_space_12 | hunttradebleakinvestlinkblindroastbelieveinflictminimumidleannual |  
+| bip_39_word_no_space_2 | hunttrade |  
+| bip_39_word_no_space_3 | hunttradebleak |  
+| bip_39_word_no_space_4 | hunttradebleakinvest |  
+| bip_39_word_no_space_5 | hunttradebleakinvestlink |  
+| bip_39_word_no_space_6 | hunttradebleakinvestlinkblind |  
+| bip_39_word_no_space_7 | hunttradebleakinvestlinkblindroast |  
+| bip_39_word_no_space_8 | hunttradebleakinvestlinkblindroastbelieve |  
+| bip_39_word_no_space_9 | hunttradebleakinvestlinkblindroastbelieveinflict |  
 | bip_39_word_space_0 | ['hunt', 'trade', 'bleak', 'invest', 'link', 'blind', 'roast', 'believe', 'inflict', 'minimum', 'idle', 'annual'] |  
 | bip_39_word_space_1 | hunt |  
 | bip_39_word_space_10 | hunt trade bleak invest link blind roast believe inflict minimum |  

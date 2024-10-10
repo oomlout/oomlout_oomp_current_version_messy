@@ -122,6 +122,18 @@ average
 manual
 health
 gate |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffexecutedirtparentpowderaveragemanualhealthgatehamster |  
+| bip_39_word_no_space_11 | staffexecutedirtparentpowderaveragemanualhealthgatehamsterchief |  
+| bip_39_word_no_space_12 | staffexecutedirtparentpowderaveragemanualhealthgatehamsterchiefartefact |  
+| bip_39_word_no_space_2 | staffexecute |  
+| bip_39_word_no_space_3 | staffexecutedirt |  
+| bip_39_word_no_space_4 | staffexecutedirtparent |  
+| bip_39_word_no_space_5 | staffexecutedirtparentpowder |  
+| bip_39_word_no_space_6 | staffexecutedirtparentpowderaverage |  
+| bip_39_word_no_space_7 | staffexecutedirtparentpowderaveragemanual |  
+| bip_39_word_no_space_8 | staffexecutedirtparentpowderaveragemanualhealth |  
+| bip_39_word_no_space_9 | staffexecutedirtparentpowderaveragemanualhealthgate |  
 | bip_39_word_space_0 | ['staff', 'execute', 'dirt', 'parent', 'powder', 'average', 'manual', 'health', 'gate', 'hamster', 'chief', 'artefact'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff execute dirt parent powder average manual health gate hamster |  

@@ -122,6 +122,18 @@ rural
 deputy
 young
 guard |  
+| bip_39_word_no_space_1 | consider |  
+| bip_39_word_no_space_10 | considerpolarnomineeblurwishruraldeputyyoungguardurban |  
+| bip_39_word_no_space_11 | considerpolarnomineeblurwishruraldeputyyoungguardurbanraw |  
+| bip_39_word_no_space_12 | considerpolarnomineeblurwishruraldeputyyoungguardurbanrawadd |  
+| bip_39_word_no_space_2 | considerpolar |  
+| bip_39_word_no_space_3 | considerpolarnominee |  
+| bip_39_word_no_space_4 | considerpolarnomineeblur |  
+| bip_39_word_no_space_5 | considerpolarnomineeblurwish |  
+| bip_39_word_no_space_6 | considerpolarnomineeblurwishrural |  
+| bip_39_word_no_space_7 | considerpolarnomineeblurwishruraldeputy |  
+| bip_39_word_no_space_8 | considerpolarnomineeblurwishruraldeputyyoung |  
+| bip_39_word_no_space_9 | considerpolarnomineeblurwishruraldeputyyoungguard |  
 | bip_39_word_space_0 | ['consider', 'polar', 'nominee', 'blur', 'wish', 'rural', 'deputy', 'young', 'guard', 'urban', 'raw', 'add'] |  
 | bip_39_word_space_1 | consider |  
 | bip_39_word_space_10 | consider polar nominee blur wish rural deputy young guard urban |  

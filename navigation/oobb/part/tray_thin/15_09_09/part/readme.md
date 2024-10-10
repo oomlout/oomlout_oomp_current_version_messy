@@ -122,6 +122,18 @@ inherit
 wreck
 connect
 bike |  
+| bip_39_word_no_space_1 | symbol |  
+| bip_39_word_no_space_10 | symbolbasketmemorymachineoakinheritwreckconnectbikeprimary |  
+| bip_39_word_no_space_11 | symbolbasketmemorymachineoakinheritwreckconnectbikeprimarydutch |  
+| bip_39_word_no_space_12 | symbolbasketmemorymachineoakinheritwreckconnectbikeprimarydutchancient |  
+| bip_39_word_no_space_2 | symbolbasket |  
+| bip_39_word_no_space_3 | symbolbasketmemory |  
+| bip_39_word_no_space_4 | symbolbasketmemorymachine |  
+| bip_39_word_no_space_5 | symbolbasketmemorymachineoak |  
+| bip_39_word_no_space_6 | symbolbasketmemorymachineoakinherit |  
+| bip_39_word_no_space_7 | symbolbasketmemorymachineoakinheritwreck |  
+| bip_39_word_no_space_8 | symbolbasketmemorymachineoakinheritwreckconnect |  
+| bip_39_word_no_space_9 | symbolbasketmemorymachineoakinheritwreckconnectbike |  
 | bip_39_word_space_0 | ['symbol', 'basket', 'memory', 'machine', 'oak', 'inherit', 'wreck', 'connect', 'bike', 'primary', 'dutch', 'ancient'] |  
 | bip_39_word_space_1 | symbol |  
 | bip_39_word_space_10 | symbol basket memory machine oak inherit wreck connect bike primary |  

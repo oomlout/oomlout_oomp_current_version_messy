@@ -122,6 +122,18 @@ tell
 machine
 gap
 gorilla |  
+| bip_39_word_no_space_1 | word |  
+| bip_39_word_no_space_10 | wordsurroundmoveeffortknowtellmachinegapgorillaanchor |  
+| bip_39_word_no_space_11 | wordsurroundmoveeffortknowtellmachinegapgorillaanchorproject |  
+| bip_39_word_no_space_12 | wordsurroundmoveeffortknowtellmachinegapgorillaanchorprojectaccess |  
+| bip_39_word_no_space_2 | wordsurround |  
+| bip_39_word_no_space_3 | wordsurroundmove |  
+| bip_39_word_no_space_4 | wordsurroundmoveeffort |  
+| bip_39_word_no_space_5 | wordsurroundmoveeffortknow |  
+| bip_39_word_no_space_6 | wordsurroundmoveeffortknowtell |  
+| bip_39_word_no_space_7 | wordsurroundmoveeffortknowtellmachine |  
+| bip_39_word_no_space_8 | wordsurroundmoveeffortknowtellmachinegap |  
+| bip_39_word_no_space_9 | wordsurroundmoveeffortknowtellmachinegapgorilla |  
 | bip_39_word_space_0 | ['word', 'surround', 'move', 'effort', 'know', 'tell', 'machine', 'gap', 'gorilla', 'anchor', 'project', 'access'] |  
 | bip_39_word_space_1 | word |  
 | bip_39_word_space_10 | word surround move effort know tell machine gap gorilla anchor |  

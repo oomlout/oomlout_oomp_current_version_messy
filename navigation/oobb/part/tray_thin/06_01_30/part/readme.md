@@ -122,6 +122,18 @@ suspect
 fiscal
 sense
 furnace |  
+| bip_39_word_no_space_1 | choose |  
+| bip_39_word_no_space_10 | choosepointexpecttableunlocksuspectfiscalsensefurnacecountry |  
+| bip_39_word_no_space_11 | choosepointexpecttableunlocksuspectfiscalsensefurnacecountrypair |  
+| bip_39_word_no_space_12 | choosepointexpecttableunlocksuspectfiscalsensefurnacecountrypairarmed |  
+| bip_39_word_no_space_2 | choosepoint |  
+| bip_39_word_no_space_3 | choosepointexpect |  
+| bip_39_word_no_space_4 | choosepointexpecttable |  
+| bip_39_word_no_space_5 | choosepointexpecttableunlock |  
+| bip_39_word_no_space_6 | choosepointexpecttableunlocksuspect |  
+| bip_39_word_no_space_7 | choosepointexpecttableunlocksuspectfiscal |  
+| bip_39_word_no_space_8 | choosepointexpecttableunlocksuspectfiscalsense |  
+| bip_39_word_no_space_9 | choosepointexpecttableunlocksuspectfiscalsensefurnace |  
 | bip_39_word_space_0 | ['choose', 'point', 'expect', 'table', 'unlock', 'suspect', 'fiscal', 'sense', 'furnace', 'country', 'pair', 'armed'] |  
 | bip_39_word_space_1 | choose |  
 | bip_39_word_space_10 | choose point expect table unlock suspect fiscal sense furnace country |  

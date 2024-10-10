@@ -122,6 +122,18 @@ upset
 increase
 surround
 rival |  
+| bip_39_word_no_space_1 | youth |  
+| bip_39_word_no_space_10 | youthdemisevoidchampionmodelupsetincreasesurroundrivalshare |  
+| bip_39_word_no_space_11 | youthdemisevoidchampionmodelupsetincreasesurroundrivalsharepelican |  
+| bip_39_word_no_space_12 | youthdemisevoidchampionmodelupsetincreasesurroundrivalsharepelicanattitude |  
+| bip_39_word_no_space_2 | youthdemise |  
+| bip_39_word_no_space_3 | youthdemisevoid |  
+| bip_39_word_no_space_4 | youthdemisevoidchampion |  
+| bip_39_word_no_space_5 | youthdemisevoidchampionmodel |  
+| bip_39_word_no_space_6 | youthdemisevoidchampionmodelupset |  
+| bip_39_word_no_space_7 | youthdemisevoidchampionmodelupsetincrease |  
+| bip_39_word_no_space_8 | youthdemisevoidchampionmodelupsetincreasesurround |  
+| bip_39_word_no_space_9 | youthdemisevoidchampionmodelupsetincreasesurroundrival |  
 | bip_39_word_space_0 | ['youth', 'demise', 'void', 'champion', 'model', 'upset', 'increase', 'surround', 'rival', 'share', 'pelican', 'attitude'] |  
 | bip_39_word_space_1 | youth |  
 | bip_39_word_space_10 | youth demise void champion model upset increase surround rival share |  

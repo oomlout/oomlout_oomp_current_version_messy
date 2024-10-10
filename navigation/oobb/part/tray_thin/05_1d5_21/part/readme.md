@@ -122,6 +122,18 @@ high
 cousin
 immense
 oblige |  
+| bip_39_word_no_space_1 | romance |  
+| bip_39_word_no_space_10 | romanceblackfoldguessmuffinhighcousinimmenseobligetrim |  
+| bip_39_word_no_space_11 | romanceblackfoldguessmuffinhighcousinimmenseobligetrimeffort |  
+| bip_39_word_no_space_12 | romanceblackfoldguessmuffinhighcousinimmenseobligetrimeffortanother |  
+| bip_39_word_no_space_2 | romanceblack |  
+| bip_39_word_no_space_3 | romanceblackfold |  
+| bip_39_word_no_space_4 | romanceblackfoldguess |  
+| bip_39_word_no_space_5 | romanceblackfoldguessmuffin |  
+| bip_39_word_no_space_6 | romanceblackfoldguessmuffinhigh |  
+| bip_39_word_no_space_7 | romanceblackfoldguessmuffinhighcousin |  
+| bip_39_word_no_space_8 | romanceblackfoldguessmuffinhighcousinimmense |  
+| bip_39_word_no_space_9 | romanceblackfoldguessmuffinhighcousinimmenseoblige |  
 | bip_39_word_space_0 | ['romance', 'black', 'fold', 'guess', 'muffin', 'high', 'cousin', 'immense', 'oblige', 'trim', 'effort', 'another'] |  
 | bip_39_word_space_1 | romance |  
 | bip_39_word_space_10 | romance black fold guess muffin high cousin immense oblige trim |  

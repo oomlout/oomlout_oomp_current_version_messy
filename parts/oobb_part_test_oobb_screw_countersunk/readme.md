@@ -122,6 +122,18 @@ flee
 trigger
 brisk
 vapor |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemcoastlessonoildeliverfleetriggerbriskvaporremove |  
+| bip_39_word_no_space_11 | itemcoastlessonoildeliverfleetriggerbriskvaporremovebroken |  
+| bip_39_word_no_space_12 | itemcoastlessonoildeliverfleetriggerbriskvaporremovebrokenadjust |  
+| bip_39_word_no_space_2 | itemcoast |  
+| bip_39_word_no_space_3 | itemcoastlesson |  
+| bip_39_word_no_space_4 | itemcoastlessonoil |  
+| bip_39_word_no_space_5 | itemcoastlessonoildeliver |  
+| bip_39_word_no_space_6 | itemcoastlessonoildeliverflee |  
+| bip_39_word_no_space_7 | itemcoastlessonoildeliverfleetrigger |  
+| bip_39_word_no_space_8 | itemcoastlessonoildeliverfleetriggerbrisk |  
+| bip_39_word_no_space_9 | itemcoastlessonoildeliverfleetriggerbriskvapor |  
 | bip_39_word_space_0 | ['item', 'coast', 'lesson', 'oil', 'deliver', 'flee', 'trigger', 'brisk', 'vapor', 'remove', 'broken', 'adjust'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item coast lesson oil deliver flee trigger brisk vapor remove |  

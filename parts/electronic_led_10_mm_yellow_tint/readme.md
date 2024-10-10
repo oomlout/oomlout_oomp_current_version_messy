@@ -122,6 +122,18 @@ biology
 rigid
 mammal
 coin |  
+| bip_39_word_no_space_1 | muscle |  
+| bip_39_word_no_space_10 | musclelunchhatfrontgenuinebiologyrigidmammalcoinbrick |  
+| bip_39_word_no_space_11 | musclelunchhatfrontgenuinebiologyrigidmammalcoinbricksort |  
+| bip_39_word_no_space_12 | musclelunchhatfrontgenuinebiologyrigidmammalcoinbricksortaround |  
+| bip_39_word_no_space_2 | musclelunch |  
+| bip_39_word_no_space_3 | musclelunchhat |  
+| bip_39_word_no_space_4 | musclelunchhatfront |  
+| bip_39_word_no_space_5 | musclelunchhatfrontgenuine |  
+| bip_39_word_no_space_6 | musclelunchhatfrontgenuinebiology |  
+| bip_39_word_no_space_7 | musclelunchhatfrontgenuinebiologyrigid |  
+| bip_39_word_no_space_8 | musclelunchhatfrontgenuinebiologyrigidmammal |  
+| bip_39_word_no_space_9 | musclelunchhatfrontgenuinebiologyrigidmammalcoin |  
 | bip_39_word_space_0 | ['muscle', 'lunch', 'hat', 'front', 'genuine', 'biology', 'rigid', 'mammal', 'coin', 'brick', 'sort', 'around'] |  
 | bip_39_word_space_1 | muscle |  
 | bip_39_word_space_10 | muscle lunch hat front genuine biology rigid mammal coin brick |  

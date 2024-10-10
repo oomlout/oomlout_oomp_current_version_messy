@@ -122,6 +122,18 @@ daring
 pony
 echo
 hurt |  
+| bip_39_word_no_space_1 | chimney |  
+| bip_39_word_no_space_10 | chimneylabelspecialartpositiondaringponyechohurtluxury |  
+| bip_39_word_no_space_11 | chimneylabelspecialartpositiondaringponyechohurtluxurypurse |  
+| bip_39_word_no_space_12 | chimneylabelspecialartpositiondaringponyechohurtluxurypurseabsent |  
+| bip_39_word_no_space_2 | chimneylabel |  
+| bip_39_word_no_space_3 | chimneylabelspecial |  
+| bip_39_word_no_space_4 | chimneylabelspecialart |  
+| bip_39_word_no_space_5 | chimneylabelspecialartposition |  
+| bip_39_word_no_space_6 | chimneylabelspecialartpositiondaring |  
+| bip_39_word_no_space_7 | chimneylabelspecialartpositiondaringpony |  
+| bip_39_word_no_space_8 | chimneylabelspecialartpositiondaringponyecho |  
+| bip_39_word_no_space_9 | chimneylabelspecialartpositiondaringponyechohurt |  
 | bip_39_word_space_0 | ['chimney', 'label', 'special', 'art', 'position', 'daring', 'pony', 'echo', 'hurt', 'luxury', 'purse', 'absent'] |  
 | bip_39_word_space_1 | chimney |  
 | bip_39_word_space_10 | chimney label special art position daring pony echo hurt luxury |  

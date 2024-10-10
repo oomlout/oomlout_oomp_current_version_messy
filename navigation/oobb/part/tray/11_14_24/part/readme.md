@@ -122,6 +122,18 @@ squeeze
 current
 annual
 man |  
+| bip_39_word_no_space_1 | coconut |  
+| bip_39_word_no_space_10 | coconutsongforestgirlfinesqueezecurrentannualmancombine |  
+| bip_39_word_no_space_11 | coconutsongforestgirlfinesqueezecurrentannualmancombineprice |  
+| bip_39_word_no_space_12 | coconutsongforestgirlfinesqueezecurrentannualmancombinepriceaction |  
+| bip_39_word_no_space_2 | coconutsong |  
+| bip_39_word_no_space_3 | coconutsongforest |  
+| bip_39_word_no_space_4 | coconutsongforestgirl |  
+| bip_39_word_no_space_5 | coconutsongforestgirlfine |  
+| bip_39_word_no_space_6 | coconutsongforestgirlfinesqueeze |  
+| bip_39_word_no_space_7 | coconutsongforestgirlfinesqueezecurrent |  
+| bip_39_word_no_space_8 | coconutsongforestgirlfinesqueezecurrentannual |  
+| bip_39_word_no_space_9 | coconutsongforestgirlfinesqueezecurrentannualman |  
 | bip_39_word_space_0 | ['coconut', 'song', 'forest', 'girl', 'fine', 'squeeze', 'current', 'annual', 'man', 'combine', 'price', 'action'] |  
 | bip_39_word_space_1 | coconut |  
 | bip_39_word_space_10 | coconut song forest girl fine squeeze current annual man combine |  

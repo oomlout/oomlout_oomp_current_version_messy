@@ -122,6 +122,18 @@ soda
 cause
 fly
 raven |  
+| bip_39_word_no_space_1 | kangaroo |  
+| bip_39_word_no_space_10 | kangaroomaterialamateurshoveinjectsodacauseflyravenecho |  
+| bip_39_word_no_space_11 | kangaroomaterialamateurshoveinjectsodacauseflyravenechoticket |  
+| bip_39_word_no_space_12 | kangaroomaterialamateurshoveinjectsodacauseflyravenechoticketacoustic |  
+| bip_39_word_no_space_2 | kangaroomaterial |  
+| bip_39_word_no_space_3 | kangaroomaterialamateur |  
+| bip_39_word_no_space_4 | kangaroomaterialamateurshove |  
+| bip_39_word_no_space_5 | kangaroomaterialamateurshoveinject |  
+| bip_39_word_no_space_6 | kangaroomaterialamateurshoveinjectsoda |  
+| bip_39_word_no_space_7 | kangaroomaterialamateurshoveinjectsodacause |  
+| bip_39_word_no_space_8 | kangaroomaterialamateurshoveinjectsodacausefly |  
+| bip_39_word_no_space_9 | kangaroomaterialamateurshoveinjectsodacauseflyraven |  
 | bip_39_word_space_0 | ['kangaroo', 'material', 'amateur', 'shove', 'inject', 'soda', 'cause', 'fly', 'raven', 'echo', 'ticket', 'acoustic'] |  
 | bip_39_word_space_1 | kangaroo |  
 | bip_39_word_space_10 | kangaroo material amateur shove inject soda cause fly raven echo |  

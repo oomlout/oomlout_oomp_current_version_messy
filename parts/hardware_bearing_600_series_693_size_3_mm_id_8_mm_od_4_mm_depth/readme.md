@@ -122,6 +122,18 @@ model
 spatial
 lounge
 vehicle |  
+| bip_39_word_no_space_1 | bring |  
+| bip_39_word_no_space_10 | bringlawsuitreflectmemberconvincemodelspatialloungevehiclegenius |  
+| bip_39_word_no_space_11 | bringlawsuitreflectmemberconvincemodelspatialloungevehiclegeniusseed |  
+| bip_39_word_no_space_12 | bringlawsuitreflectmemberconvincemodelspatialloungevehiclegeniusseedasthma |  
+| bip_39_word_no_space_2 | bringlawsuit |  
+| bip_39_word_no_space_3 | bringlawsuitreflect |  
+| bip_39_word_no_space_4 | bringlawsuitreflectmember |  
+| bip_39_word_no_space_5 | bringlawsuitreflectmemberconvince |  
+| bip_39_word_no_space_6 | bringlawsuitreflectmemberconvincemodel |  
+| bip_39_word_no_space_7 | bringlawsuitreflectmemberconvincemodelspatial |  
+| bip_39_word_no_space_8 | bringlawsuitreflectmemberconvincemodelspatiallounge |  
+| bip_39_word_no_space_9 | bringlawsuitreflectmemberconvincemodelspatialloungevehicle |  
 | bip_39_word_space_0 | ['bring', 'lawsuit', 'reflect', 'member', 'convince', 'model', 'spatial', 'lounge', 'vehicle', 'genius', 'seed', 'asthma'] |  
 | bip_39_word_space_1 | bring |  
 | bip_39_word_space_10 | bring lawsuit reflect member convince model spatial lounge vehicle genius |  

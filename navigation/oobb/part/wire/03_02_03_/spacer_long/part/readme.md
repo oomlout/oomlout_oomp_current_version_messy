@@ -122,6 +122,18 @@ avocado
 jump
 combine
 require |  
+| bip_39_word_no_space_1 | exercise |  
+| bip_39_word_no_space_10 | exercisetastedividestufffishavocadojumpcombinerequirevacant |  
+| bip_39_word_no_space_11 | exercisetastedividestufffishavocadojumpcombinerequirevacantecology |  
+| bip_39_word_no_space_12 | exercisetastedividestufffishavocadojumpcombinerequirevacantecologyantenna |  
+| bip_39_word_no_space_2 | exercisetaste |  
+| bip_39_word_no_space_3 | exercisetastedivide |  
+| bip_39_word_no_space_4 | exercisetastedividestuff |  
+| bip_39_word_no_space_5 | exercisetastedividestufffish |  
+| bip_39_word_no_space_6 | exercisetastedividestufffishavocado |  
+| bip_39_word_no_space_7 | exercisetastedividestufffishavocadojump |  
+| bip_39_word_no_space_8 | exercisetastedividestufffishavocadojumpcombine |  
+| bip_39_word_no_space_9 | exercisetastedividestufffishavocadojumpcombinerequire |  
 | bip_39_word_space_0 | ['exercise', 'taste', 'divide', 'stuff', 'fish', 'avocado', 'jump', 'combine', 'require', 'vacant', 'ecology', 'antenna'] |  
 | bip_39_word_space_1 | exercise |  
 | bip_39_word_space_10 | exercise taste divide stuff fish avocado jump combine require vacant |  

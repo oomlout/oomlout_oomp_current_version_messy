@@ -122,6 +122,18 @@ aunt
 six
 friend
 danger |  
+| bip_39_word_no_space_1 | plug |  
+| bip_39_word_no_space_10 | plugattackpooltimejudgeauntsixfrienddangerupset |  
+| bip_39_word_no_space_11 | plugattackpooltimejudgeauntsixfrienddangerupsetglove |  
+| bip_39_word_no_space_12 | plugattackpooltimejudgeauntsixfrienddangerupsetgloveart |  
+| bip_39_word_no_space_2 | plugattack |  
+| bip_39_word_no_space_3 | plugattackpool |  
+| bip_39_word_no_space_4 | plugattackpooltime |  
+| bip_39_word_no_space_5 | plugattackpooltimejudge |  
+| bip_39_word_no_space_6 | plugattackpooltimejudgeaunt |  
+| bip_39_word_no_space_7 | plugattackpooltimejudgeauntsix |  
+| bip_39_word_no_space_8 | plugattackpooltimejudgeauntsixfriend |  
+| bip_39_word_no_space_9 | plugattackpooltimejudgeauntsixfrienddanger |  
 | bip_39_word_space_0 | ['plug', 'attack', 'pool', 'time', 'judge', 'aunt', 'six', 'friend', 'danger', 'upset', 'glove', 'art'] |  
 | bip_39_word_space_1 | plug |  
 | bip_39_word_space_10 | plug attack pool time judge aunt six friend danger upset |  

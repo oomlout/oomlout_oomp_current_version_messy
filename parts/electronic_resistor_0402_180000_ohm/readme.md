@@ -122,6 +122,18 @@ gesture
 apart
 true
 unknown |  
+| bip_39_word_no_space_1 | fire |  
+| bip_39_word_no_space_10 | fireepisodedrumuponsavegestureaparttrueunknownknock |  
+| bip_39_word_no_space_11 | fireepisodedrumuponsavegestureaparttrueunknownknockfinish |  
+| bip_39_word_no_space_12 | fireepisodedrumuponsavegestureaparttrueunknownknockfinishauto |  
+| bip_39_word_no_space_2 | fireepisode |  
+| bip_39_word_no_space_3 | fireepisodedrum |  
+| bip_39_word_no_space_4 | fireepisodedrumupon |  
+| bip_39_word_no_space_5 | fireepisodedrumuponsave |  
+| bip_39_word_no_space_6 | fireepisodedrumuponsavegesture |  
+| bip_39_word_no_space_7 | fireepisodedrumuponsavegestureapart |  
+| bip_39_word_no_space_8 | fireepisodedrumuponsavegestureaparttrue |  
+| bip_39_word_no_space_9 | fireepisodedrumuponsavegestureaparttrueunknown |  
 | bip_39_word_space_0 | ['fire', 'episode', 'drum', 'upon', 'save', 'gesture', 'apart', 'true', 'unknown', 'knock', 'finish', 'auto'] |  
 | bip_39_word_space_1 | fire |  
 | bip_39_word_space_10 | fire episode drum upon save gesture apart true unknown knock |  

@@ -122,6 +122,18 @@ draft
 inmate
 tortoise
 buffalo |  
+| bip_39_word_no_space_1 | play |  
+| bip_39_word_no_space_10 | playtargetobviousaccuseannualdraftinmatetortoisebuffaloduty |  
+| bip_39_word_no_space_11 | playtargetobviousaccuseannualdraftinmatetortoisebuffalodutykid |  
+| bip_39_word_no_space_12 | playtargetobviousaccuseannualdraftinmatetortoisebuffalodutykidalways |  
+| bip_39_word_no_space_2 | playtarget |  
+| bip_39_word_no_space_3 | playtargetobvious |  
+| bip_39_word_no_space_4 | playtargetobviousaccuse |  
+| bip_39_word_no_space_5 | playtargetobviousaccuseannual |  
+| bip_39_word_no_space_6 | playtargetobviousaccuseannualdraft |  
+| bip_39_word_no_space_7 | playtargetobviousaccuseannualdraftinmate |  
+| bip_39_word_no_space_8 | playtargetobviousaccuseannualdraftinmatetortoise |  
+| bip_39_word_no_space_9 | playtargetobviousaccuseannualdraftinmatetortoisebuffalo |  
 | bip_39_word_space_0 | ['play', 'target', 'obvious', 'accuse', 'annual', 'draft', 'inmate', 'tortoise', 'buffalo', 'duty', 'kid', 'always'] |  
 | bip_39_word_space_1 | play |  
 | bip_39_word_space_10 | play target obvious accuse annual draft inmate tortoise buffalo duty |  

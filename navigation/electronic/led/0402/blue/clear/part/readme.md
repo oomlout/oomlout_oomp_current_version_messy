@@ -122,6 +122,18 @@ cinnamon
 copy
 game
 bid |  
+| bip_39_word_no_space_1 | follow |  
+| bip_39_word_no_space_10 | followpotteryacquiredoubletalkcinnamoncopygamebidview |  
+| bip_39_word_no_space_11 | followpotteryacquiredoubletalkcinnamoncopygamebidviewability |  
+| bip_39_word_no_space_12 | followpotteryacquiredoubletalkcinnamoncopygamebidviewabilityaugust |  
+| bip_39_word_no_space_2 | followpottery |  
+| bip_39_word_no_space_3 | followpotteryacquire |  
+| bip_39_word_no_space_4 | followpotteryacquiredouble |  
+| bip_39_word_no_space_5 | followpotteryacquiredoubletalk |  
+| bip_39_word_no_space_6 | followpotteryacquiredoubletalkcinnamon |  
+| bip_39_word_no_space_7 | followpotteryacquiredoubletalkcinnamoncopy |  
+| bip_39_word_no_space_8 | followpotteryacquiredoubletalkcinnamoncopygame |  
+| bip_39_word_no_space_9 | followpotteryacquiredoubletalkcinnamoncopygamebid |  
 | bip_39_word_space_0 | ['follow', 'pottery', 'acquire', 'double', 'talk', 'cinnamon', 'copy', 'game', 'bid', 'view', 'ability', 'august'] |  
 | bip_39_word_space_1 | follow |  
 | bip_39_word_space_10 | follow pottery acquire double talk cinnamon copy game bid view |  

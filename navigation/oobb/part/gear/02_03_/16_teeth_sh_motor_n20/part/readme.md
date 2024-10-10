@@ -122,6 +122,18 @@ royal
 odor
 habit
 spend |  
+| bip_39_word_no_space_1 | open |  
+| bip_39_word_no_space_10 | openinstallnowfatlibertyroyalodorhabitspendripple |  
+| bip_39_word_no_space_11 | openinstallnowfatlibertyroyalodorhabitspendrippleprimary |  
+| bip_39_word_no_space_12 | openinstallnowfatlibertyroyalodorhabitspendrippleprimaryability |  
+| bip_39_word_no_space_2 | openinstall |  
+| bip_39_word_no_space_3 | openinstallnow |  
+| bip_39_word_no_space_4 | openinstallnowfat |  
+| bip_39_word_no_space_5 | openinstallnowfatliberty |  
+| bip_39_word_no_space_6 | openinstallnowfatlibertyroyal |  
+| bip_39_word_no_space_7 | openinstallnowfatlibertyroyalodor |  
+| bip_39_word_no_space_8 | openinstallnowfatlibertyroyalodorhabit |  
+| bip_39_word_no_space_9 | openinstallnowfatlibertyroyalodorhabitspend |  
 | bip_39_word_space_0 | ['open', 'install', 'now', 'fat', 'liberty', 'royal', 'odor', 'habit', 'spend', 'ripple', 'primary', 'ability'] |  
 | bip_39_word_space_1 | open |  
 | bip_39_word_space_10 | open install now fat liberty royal odor habit spend ripple |  

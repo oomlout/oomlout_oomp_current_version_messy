@@ -122,6 +122,18 @@ biology
 kidney
 impulse
 sugar |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatupgradepermitliveuselessbiologykidneyimpulsesugarawake |  
+| bip_39_word_no_space_11 | whatupgradepermitliveuselessbiologykidneyimpulsesugarawakenation |  
+| bip_39_word_no_space_12 | whatupgradepermitliveuselessbiologykidneyimpulsesugarawakenationabout |  
+| bip_39_word_no_space_2 | whatupgrade |  
+| bip_39_word_no_space_3 | whatupgradepermit |  
+| bip_39_word_no_space_4 | whatupgradepermitlive |  
+| bip_39_word_no_space_5 | whatupgradepermitliveuseless |  
+| bip_39_word_no_space_6 | whatupgradepermitliveuselessbiology |  
+| bip_39_word_no_space_7 | whatupgradepermitliveuselessbiologykidney |  
+| bip_39_word_no_space_8 | whatupgradepermitliveuselessbiologykidneyimpulse |  
+| bip_39_word_no_space_9 | whatupgradepermitliveuselessbiologykidneyimpulsesugar |  
 | bip_39_word_space_0 | ['what', 'upgrade', 'permit', 'live', 'useless', 'biology', 'kidney', 'impulse', 'sugar', 'awake', 'nation', 'about'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what upgrade permit live useless biology kidney impulse sugar awake |  

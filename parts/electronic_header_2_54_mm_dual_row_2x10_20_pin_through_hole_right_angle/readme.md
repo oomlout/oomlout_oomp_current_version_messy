@@ -122,6 +122,18 @@ length
 mechanic
 rail
 hybrid |  
+| bip_39_word_no_space_1 | faculty |  
+| bip_39_word_no_space_10 | facultysituatetenantfrequentridelengthmechanicrailhybridburden |  
+| bip_39_word_no_space_11 | facultysituatetenantfrequentridelengthmechanicrailhybridburdenstem |  
+| bip_39_word_no_space_12 | facultysituatetenantfrequentridelengthmechanicrailhybridburdenstemalarm |  
+| bip_39_word_no_space_2 | facultysituate |  
+| bip_39_word_no_space_3 | facultysituatetenant |  
+| bip_39_word_no_space_4 | facultysituatetenantfrequent |  
+| bip_39_word_no_space_5 | facultysituatetenantfrequentride |  
+| bip_39_word_no_space_6 | facultysituatetenantfrequentridelength |  
+| bip_39_word_no_space_7 | facultysituatetenantfrequentridelengthmechanic |  
+| bip_39_word_no_space_8 | facultysituatetenantfrequentridelengthmechanicrail |  
+| bip_39_word_no_space_9 | facultysituatetenantfrequentridelengthmechanicrailhybrid |  
 | bip_39_word_space_0 | ['faculty', 'situate', 'tenant', 'frequent', 'ride', 'length', 'mechanic', 'rail', 'hybrid', 'burden', 'stem', 'alarm'] |  
 | bip_39_word_space_1 | faculty |  
 | bip_39_word_space_10 | faculty situate tenant frequent ride length mechanic rail hybrid burden |  

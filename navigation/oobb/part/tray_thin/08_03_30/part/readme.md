@@ -122,6 +122,18 @@ talk
 offer
 erase
 clean |  
+| bip_39_word_no_space_1 | pistol |  
+| bip_39_word_no_space_10 | pistolobscurerecalltoolilltalkoffererasecleanbest |  
+| bip_39_word_no_space_11 | pistolobscurerecalltoolilltalkoffererasecleanbestlava |  
+| bip_39_word_no_space_12 | pistolobscurerecalltoolilltalkoffererasecleanbestlavaattack |  
+| bip_39_word_no_space_2 | pistolobscure |  
+| bip_39_word_no_space_3 | pistolobscurerecall |  
+| bip_39_word_no_space_4 | pistolobscurerecalltool |  
+| bip_39_word_no_space_5 | pistolobscurerecalltoolill |  
+| bip_39_word_no_space_6 | pistolobscurerecalltoolilltalk |  
+| bip_39_word_no_space_7 | pistolobscurerecalltoolilltalkoffer |  
+| bip_39_word_no_space_8 | pistolobscurerecalltoolilltalkoffererase |  
+| bip_39_word_no_space_9 | pistolobscurerecalltoolilltalkoffereraseclean |  
 | bip_39_word_space_0 | ['pistol', 'obscure', 'recall', 'tool', 'ill', 'talk', 'offer', 'erase', 'clean', 'best', 'lava', 'attack'] |  
 | bip_39_word_space_1 | pistol |  
 | bip_39_word_space_10 | pistol obscure recall tool ill talk offer erase clean best |  

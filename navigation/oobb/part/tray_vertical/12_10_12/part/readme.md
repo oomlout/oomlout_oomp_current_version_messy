@@ -122,6 +122,18 @@ fury
 famous
 sniff
 improve |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallanimalfilelimitrainfuryfamoussniffimproveplunge |  
+| bip_39_word_no_space_11 | wallanimalfilelimitrainfuryfamoussniffimproveplungeslow |  
+| bip_39_word_no_space_12 | wallanimalfilelimitrainfuryfamoussniffimproveplungeslowalien |  
+| bip_39_word_no_space_2 | wallanimal |  
+| bip_39_word_no_space_3 | wallanimalfile |  
+| bip_39_word_no_space_4 | wallanimalfilelimit |  
+| bip_39_word_no_space_5 | wallanimalfilelimitrain |  
+| bip_39_word_no_space_6 | wallanimalfilelimitrainfury |  
+| bip_39_word_no_space_7 | wallanimalfilelimitrainfuryfamous |  
+| bip_39_word_no_space_8 | wallanimalfilelimitrainfuryfamoussniff |  
+| bip_39_word_no_space_9 | wallanimalfilelimitrainfuryfamoussniffimprove |  
 | bip_39_word_space_0 | ['wall', 'animal', 'file', 'limit', 'rain', 'fury', 'famous', 'sniff', 'improve', 'plunge', 'slow', 'alien'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall animal file limit rain fury famous sniff improve plunge |  

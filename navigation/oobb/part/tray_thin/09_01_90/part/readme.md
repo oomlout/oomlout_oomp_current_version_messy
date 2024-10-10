@@ -122,6 +122,18 @@ convince
 auto
 flash
 grab |  
+| bip_39_word_no_space_1 | sample |  
+| bip_39_word_no_space_10 | samplepioneermarchmorninginsaneconvinceautoflashgraboxygen |  
+| bip_39_word_no_space_11 | samplepioneermarchmorninginsaneconvinceautoflashgraboxygensnake |  
+| bip_39_word_no_space_12 | samplepioneermarchmorninginsaneconvinceautoflashgraboxygensnakeauthor |  
+| bip_39_word_no_space_2 | samplepioneer |  
+| bip_39_word_no_space_3 | samplepioneermarch |  
+| bip_39_word_no_space_4 | samplepioneermarchmorning |  
+| bip_39_word_no_space_5 | samplepioneermarchmorninginsane |  
+| bip_39_word_no_space_6 | samplepioneermarchmorninginsaneconvince |  
+| bip_39_word_no_space_7 | samplepioneermarchmorninginsaneconvinceauto |  
+| bip_39_word_no_space_8 | samplepioneermarchmorninginsaneconvinceautoflash |  
+| bip_39_word_no_space_9 | samplepioneermarchmorninginsaneconvinceautoflashgrab |  
 | bip_39_word_space_0 | ['sample', 'pioneer', 'march', 'morning', 'insane', 'convince', 'auto', 'flash', 'grab', 'oxygen', 'snake', 'author'] |  
 | bip_39_word_space_1 | sample |  
 | bip_39_word_space_10 | sample pioneer march morning insane convince auto flash grab oxygen |  

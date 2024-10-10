@@ -122,6 +122,18 @@ vapor
 skirt
 fox
 turn |  
+| bip_39_word_no_space_1 | rally |  
+| bip_39_word_no_space_10 | rallypaveabsentadjustalphavaporskirtfoxturncargo |  
+| bip_39_word_no_space_11 | rallypaveabsentadjustalphavaporskirtfoxturncargosight |  
+| bip_39_word_no_space_12 | rallypaveabsentadjustalphavaporskirtfoxturncargosightamateur |  
+| bip_39_word_no_space_2 | rallypave |  
+| bip_39_word_no_space_3 | rallypaveabsent |  
+| bip_39_word_no_space_4 | rallypaveabsentadjust |  
+| bip_39_word_no_space_5 | rallypaveabsentadjustalpha |  
+| bip_39_word_no_space_6 | rallypaveabsentadjustalphavapor |  
+| bip_39_word_no_space_7 | rallypaveabsentadjustalphavaporskirt |  
+| bip_39_word_no_space_8 | rallypaveabsentadjustalphavaporskirtfox |  
+| bip_39_word_no_space_9 | rallypaveabsentadjustalphavaporskirtfoxturn |  
 | bip_39_word_space_0 | ['rally', 'pave', 'absent', 'adjust', 'alpha', 'vapor', 'skirt', 'fox', 'turn', 'cargo', 'sight', 'amateur'] |  
 | bip_39_word_space_1 | rally |  
 | bip_39_word_space_10 | rally pave absent adjust alpha vapor skirt fox turn cargo |  

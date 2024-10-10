@@ -122,6 +122,18 @@ visit
 camera
 horn
 jacket |  
+| bip_39_word_no_space_1 | beef |  
+| bip_39_word_no_space_10 | beefliquidonlymushroomworryvisitcamerahornjacketlevel |  
+| bip_39_word_no_space_11 | beefliquidonlymushroomworryvisitcamerahornjacketleveltransfer |  
+| bip_39_word_no_space_12 | beefliquidonlymushroomworryvisitcamerahornjacketleveltransferapprove |  
+| bip_39_word_no_space_2 | beefliquid |  
+| bip_39_word_no_space_3 | beefliquidonly |  
+| bip_39_word_no_space_4 | beefliquidonlymushroom |  
+| bip_39_word_no_space_5 | beefliquidonlymushroomworry |  
+| bip_39_word_no_space_6 | beefliquidonlymushroomworryvisit |  
+| bip_39_word_no_space_7 | beefliquidonlymushroomworryvisitcamera |  
+| bip_39_word_no_space_8 | beefliquidonlymushroomworryvisitcamerahorn |  
+| bip_39_word_no_space_9 | beefliquidonlymushroomworryvisitcamerahornjacket |  
 | bip_39_word_space_0 | ['beef', 'liquid', 'only', 'mushroom', 'worry', 'visit', 'camera', 'horn', 'jacket', 'level', 'transfer', 'approve'] |  
 | bip_39_word_space_1 | beef |  
 | bip_39_word_space_10 | beef liquid only mushroom worry visit camera horn jacket level |  

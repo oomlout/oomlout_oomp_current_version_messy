@@ -122,6 +122,18 @@ prefer
 kiss
 slight
 book |  
+| bip_39_word_no_space_1 | snap |  
+| bip_39_word_no_space_10 | snapseminarrugstoveinflictpreferkissslightbookdog |  
+| bip_39_word_no_space_11 | snapseminarrugstoveinflictpreferkissslightbookdogburger |  
+| bip_39_word_no_space_12 | snapseminarrugstoveinflictpreferkissslightbookdogburgeraccess |  
+| bip_39_word_no_space_2 | snapseminar |  
+| bip_39_word_no_space_3 | snapseminarrug |  
+| bip_39_word_no_space_4 | snapseminarrugstove |  
+| bip_39_word_no_space_5 | snapseminarrugstoveinflict |  
+| bip_39_word_no_space_6 | snapseminarrugstoveinflictprefer |  
+| bip_39_word_no_space_7 | snapseminarrugstoveinflictpreferkiss |  
+| bip_39_word_no_space_8 | snapseminarrugstoveinflictpreferkissslight |  
+| bip_39_word_no_space_9 | snapseminarrugstoveinflictpreferkissslightbook |  
 | bip_39_word_space_0 | ['snap', 'seminar', 'rug', 'stove', 'inflict', 'prefer', 'kiss', 'slight', 'book', 'dog', 'burger', 'access'] |  
 | bip_39_word_space_1 | snap |  
 | bip_39_word_space_10 | snap seminar rug stove inflict prefer kiss slight book dog |  

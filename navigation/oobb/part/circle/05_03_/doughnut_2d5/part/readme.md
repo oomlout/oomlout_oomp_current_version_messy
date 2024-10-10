@@ -122,6 +122,18 @@ slight
 clog
 enjoy
 uphold |  
+| bip_39_word_no_space_1 | dish |  
+| bip_39_word_no_space_10 | dishunitlampclaimpieceslightclogenjoyupholdski |  
+| bip_39_word_no_space_11 | dishunitlampclaimpieceslightclogenjoyupholdskiboost |  
+| bip_39_word_no_space_12 | dishunitlampclaimpieceslightclogenjoyupholdskiboostamount |  
+| bip_39_word_no_space_2 | dishunit |  
+| bip_39_word_no_space_3 | dishunitlamp |  
+| bip_39_word_no_space_4 | dishunitlampclaim |  
+| bip_39_word_no_space_5 | dishunitlampclaimpiece |  
+| bip_39_word_no_space_6 | dishunitlampclaimpieceslight |  
+| bip_39_word_no_space_7 | dishunitlampclaimpieceslightclog |  
+| bip_39_word_no_space_8 | dishunitlampclaimpieceslightclogenjoy |  
+| bip_39_word_no_space_9 | dishunitlampclaimpieceslightclogenjoyuphold |  
 | bip_39_word_space_0 | ['dish', 'unit', 'lamp', 'claim', 'piece', 'slight', 'clog', 'enjoy', 'uphold', 'ski', 'boost', 'amount'] |  
 | bip_39_word_space_1 | dish |  
 | bip_39_word_space_10 | dish unit lamp claim piece slight clog enjoy uphold ski |  

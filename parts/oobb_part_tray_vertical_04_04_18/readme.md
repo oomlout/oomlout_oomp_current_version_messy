@@ -122,6 +122,18 @@ surge
 toilet
 useless
 cigar |  
+| bip_39_word_no_space_1 | double |  
+| bip_39_word_no_space_10 | doublebabybrandfrostphonesurgetoiletuselesscigarremind |  
+| bip_39_word_no_space_11 | doublebabybrandfrostphonesurgetoiletuselesscigarremindarmor |  
+| bip_39_word_no_space_12 | doublebabybrandfrostphonesurgetoiletuselesscigarremindarmorauction |  
+| bip_39_word_no_space_2 | doublebaby |  
+| bip_39_word_no_space_3 | doublebabybrand |  
+| bip_39_word_no_space_4 | doublebabybrandfrost |  
+| bip_39_word_no_space_5 | doublebabybrandfrostphone |  
+| bip_39_word_no_space_6 | doublebabybrandfrostphonesurge |  
+| bip_39_word_no_space_7 | doublebabybrandfrostphonesurgetoilet |  
+| bip_39_word_no_space_8 | doublebabybrandfrostphonesurgetoiletuseless |  
+| bip_39_word_no_space_9 | doublebabybrandfrostphonesurgetoiletuselesscigar |  
 | bip_39_word_space_0 | ['double', 'baby', 'brand', 'frost', 'phone', 'surge', 'toilet', 'useless', 'cigar', 'remind', 'armor', 'auction'] |  
 | bip_39_word_space_1 | double |  
 | bip_39_word_space_10 | double baby brand frost phone surge toilet useless cigar remind |  

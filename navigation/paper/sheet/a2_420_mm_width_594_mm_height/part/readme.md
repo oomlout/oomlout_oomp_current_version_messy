@@ -122,6 +122,18 @@ prison
 print
 extend
 ice |  
+| bip_39_word_no_space_1 | judge |  
+| bip_39_word_no_space_10 | judgevalidbetrayswapbenchprisonprintextendicefaint |  
+| bip_39_word_no_space_11 | judgevalidbetrayswapbenchprisonprintextendicefaintbrain |  
+| bip_39_word_no_space_12 | judgevalidbetrayswapbenchprisonprintextendicefaintbrainadd |  
+| bip_39_word_no_space_2 | judgevalid |  
+| bip_39_word_no_space_3 | judgevalidbetray |  
+| bip_39_word_no_space_4 | judgevalidbetrayswap |  
+| bip_39_word_no_space_5 | judgevalidbetrayswapbench |  
+| bip_39_word_no_space_6 | judgevalidbetrayswapbenchprison |  
+| bip_39_word_no_space_7 | judgevalidbetrayswapbenchprisonprint |  
+| bip_39_word_no_space_8 | judgevalidbetrayswapbenchprisonprintextend |  
+| bip_39_word_no_space_9 | judgevalidbetrayswapbenchprisonprintextendice |  
 | bip_39_word_space_0 | ['judge', 'valid', 'betray', 'swap', 'bench', 'prison', 'print', 'extend', 'ice', 'faint', 'brain', 'add'] |  
 | bip_39_word_space_1 | judge |  
 | bip_39_word_space_10 | judge valid betray swap bench prison print extend ice faint |  

@@ -122,6 +122,18 @@ antique
 forget
 green
 author |  
+| bip_39_word_no_space_1 | employ |  
+| bip_39_word_no_space_10 | employgraceeasyonionpicnicantiqueforgetgreenauthorbeef |  
+| bip_39_word_no_space_11 | employgraceeasyonionpicnicantiqueforgetgreenauthorbeefdeposit |  
+| bip_39_word_no_space_12 | employgraceeasyonionpicnicantiqueforgetgreenauthorbeefdepositaisle |  
+| bip_39_word_no_space_2 | employgrace |  
+| bip_39_word_no_space_3 | employgraceeasy |  
+| bip_39_word_no_space_4 | employgraceeasyonion |  
+| bip_39_word_no_space_5 | employgraceeasyonionpicnic |  
+| bip_39_word_no_space_6 | employgraceeasyonionpicnicantique |  
+| bip_39_word_no_space_7 | employgraceeasyonionpicnicantiqueforget |  
+| bip_39_word_no_space_8 | employgraceeasyonionpicnicantiqueforgetgreen |  
+| bip_39_word_no_space_9 | employgraceeasyonionpicnicantiqueforgetgreenauthor |  
 | bip_39_word_space_0 | ['employ', 'grace', 'easy', 'onion', 'picnic', 'antique', 'forget', 'green', 'author', 'beef', 'deposit', 'aisle'] |  
 | bip_39_word_space_1 | employ |  
 | bip_39_word_space_10 | employ grace easy onion picnic antique forget green author beef |  

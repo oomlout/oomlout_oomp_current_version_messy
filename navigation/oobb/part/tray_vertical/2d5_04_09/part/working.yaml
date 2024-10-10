@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'author
   fabric
 
   alley'
+bip_39_word_no_space_1: author
+bip_39_word_no_space_10: authorgloomsleeppitchloadfortunegospelfabricalleyowner
+bip_39_word_no_space_11: authorgloomsleeppitchloadfortunegospelfabricalleyownerbronze
+bip_39_word_no_space_12: authorgloomsleeppitchloadfortunegospelfabricalleyownerbronzeanchor
+bip_39_word_no_space_2: authorgloom
+bip_39_word_no_space_3: authorgloomsleep
+bip_39_word_no_space_4: authorgloomsleeppitch
+bip_39_word_no_space_5: authorgloomsleeppitchload
+bip_39_word_no_space_6: authorgloomsleeppitchloadfortune
+bip_39_word_no_space_7: authorgloomsleeppitchloadfortunegospel
+bip_39_word_no_space_8: authorgloomsleeppitchloadfortunegospelfabric
+bip_39_word_no_space_9: authorgloomsleeppitchloadfortunegospelfabricalley
 bip_39_word_space_0:
 - author
 - gloom

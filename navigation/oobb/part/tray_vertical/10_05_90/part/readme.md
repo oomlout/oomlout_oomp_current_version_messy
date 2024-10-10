@@ -122,6 +122,18 @@ sense
 feature
 foam
 defy |  
+| bip_39_word_no_space_1 | museum |  
+| bip_39_word_no_space_10 | museumbasepopularcementgazesensefeaturefoamdefyentry |  
+| bip_39_word_no_space_11 | museumbasepopularcementgazesensefeaturefoamdefyentrydrop |  
+| bip_39_word_no_space_12 | museumbasepopularcementgazesensefeaturefoamdefyentrydropanchor |  
+| bip_39_word_no_space_2 | museumbase |  
+| bip_39_word_no_space_3 | museumbasepopular |  
+| bip_39_word_no_space_4 | museumbasepopularcement |  
+| bip_39_word_no_space_5 | museumbasepopularcementgaze |  
+| bip_39_word_no_space_6 | museumbasepopularcementgazesense |  
+| bip_39_word_no_space_7 | museumbasepopularcementgazesensefeature |  
+| bip_39_word_no_space_8 | museumbasepopularcementgazesensefeaturefoam |  
+| bip_39_word_no_space_9 | museumbasepopularcementgazesensefeaturefoamdefy |  
 | bip_39_word_space_0 | ['museum', 'base', 'popular', 'cement', 'gaze', 'sense', 'feature', 'foam', 'defy', 'entry', 'drop', 'anchor'] |  
 | bip_39_word_space_1 | museum |  
 | bip_39_word_space_10 | museum base popular cement gaze sense feature foam defy entry |  

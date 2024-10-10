@@ -122,6 +122,18 @@ spell
 cake
 chat
 horror |  
+| bip_39_word_no_space_1 | ceiling |  
+| bip_39_word_no_space_10 | ceilingcriticconnectcitizenthemespellcakechathorrorusage |  
+| bip_39_word_no_space_11 | ceilingcriticconnectcitizenthemespellcakechathorrorusagetrumpet |  
+| bip_39_word_no_space_12 | ceilingcriticconnectcitizenthemespellcakechathorrorusagetrumpetamong |  
+| bip_39_word_no_space_2 | ceilingcritic |  
+| bip_39_word_no_space_3 | ceilingcriticconnect |  
+| bip_39_word_no_space_4 | ceilingcriticconnectcitizen |  
+| bip_39_word_no_space_5 | ceilingcriticconnectcitizentheme |  
+| bip_39_word_no_space_6 | ceilingcriticconnectcitizenthemespell |  
+| bip_39_word_no_space_7 | ceilingcriticconnectcitizenthemespellcake |  
+| bip_39_word_no_space_8 | ceilingcriticconnectcitizenthemespellcakechat |  
+| bip_39_word_no_space_9 | ceilingcriticconnectcitizenthemespellcakechathorror |  
 | bip_39_word_space_0 | ['ceiling', 'critic', 'connect', 'citizen', 'theme', 'spell', 'cake', 'chat', 'horror', 'usage', 'trumpet', 'among'] |  
 | bip_39_word_space_1 | ceiling |  
 | bip_39_word_space_10 | ceiling critic connect citizen theme spell cake chat horror usage |  

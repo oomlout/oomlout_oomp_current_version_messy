@@ -122,6 +122,18 @@ depth
 grid
 poverty
 tunnel |  
+| bip_39_word_no_space_1 | false |  
+| bip_39_word_no_space_10 | falsescareguitarfinaldiscoverdepthgridpovertytunnelblouse |  
+| bip_39_word_no_space_11 | falsescareguitarfinaldiscoverdepthgridpovertytunnelblouseaccident |  
+| bip_39_word_no_space_12 | falsescareguitarfinaldiscoverdepthgridpovertytunnelblouseaccidentage |  
+| bip_39_word_no_space_2 | falsescare |  
+| bip_39_word_no_space_3 | falsescareguitar |  
+| bip_39_word_no_space_4 | falsescareguitarfinal |  
+| bip_39_word_no_space_5 | falsescareguitarfinaldiscover |  
+| bip_39_word_no_space_6 | falsescareguitarfinaldiscoverdepth |  
+| bip_39_word_no_space_7 | falsescareguitarfinaldiscoverdepthgrid |  
+| bip_39_word_no_space_8 | falsescareguitarfinaldiscoverdepthgridpoverty |  
+| bip_39_word_no_space_9 | falsescareguitarfinaldiscoverdepthgridpovertytunnel |  
 | bip_39_word_space_0 | ['false', 'scare', 'guitar', 'final', 'discover', 'depth', 'grid', 'poverty', 'tunnel', 'blouse', 'accident', 'age'] |  
 | bip_39_word_space_1 | false |  
 | bip_39_word_space_10 | false scare guitar final discover depth grid poverty tunnel blouse |  

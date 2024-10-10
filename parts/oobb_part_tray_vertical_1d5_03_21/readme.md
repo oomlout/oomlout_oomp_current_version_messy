@@ -122,6 +122,18 @@ net
 soccer
 world
 lazy |  
+| bip_39_word_no_space_1 | online |  
+| bip_39_word_no_space_10 | onlineguidemainprimaryglownetsoccerworldlazyartwork |  
+| bip_39_word_no_space_11 | onlineguidemainprimaryglownetsoccerworldlazyartworkaugust |  
+| bip_39_word_no_space_12 | onlineguidemainprimaryglownetsoccerworldlazyartworkaugustairport |  
+| bip_39_word_no_space_2 | onlineguide |  
+| bip_39_word_no_space_3 | onlineguidemain |  
+| bip_39_word_no_space_4 | onlineguidemainprimary |  
+| bip_39_word_no_space_5 | onlineguidemainprimaryglow |  
+| bip_39_word_no_space_6 | onlineguidemainprimaryglownet |  
+| bip_39_word_no_space_7 | onlineguidemainprimaryglownetsoccer |  
+| bip_39_word_no_space_8 | onlineguidemainprimaryglownetsoccerworld |  
+| bip_39_word_no_space_9 | onlineguidemainprimaryglownetsoccerworldlazy |  
 | bip_39_word_space_0 | ['online', 'guide', 'main', 'primary', 'glow', 'net', 'soccer', 'world', 'lazy', 'artwork', 'august', 'airport'] |  
 | bip_39_word_space_1 | online |  
 | bip_39_word_space_10 | online guide main primary glow net soccer world lazy artwork |  

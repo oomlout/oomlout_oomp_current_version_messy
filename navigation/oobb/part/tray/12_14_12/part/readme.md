@@ -122,6 +122,18 @@ city
 cattle
 avoid
 ride |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigidstartsmallanimalweddingcitycattleavoidrideescape |  
+| bip_39_word_no_space_11 | rigidstartsmallanimalweddingcitycattleavoidrideescapelevel |  
+| bip_39_word_no_space_12 | rigidstartsmallanimalweddingcitycattleavoidrideescapelevelaction |  
+| bip_39_word_no_space_2 | rigidstart |  
+| bip_39_word_no_space_3 | rigidstartsmall |  
+| bip_39_word_no_space_4 | rigidstartsmallanimal |  
+| bip_39_word_no_space_5 | rigidstartsmallanimalwedding |  
+| bip_39_word_no_space_6 | rigidstartsmallanimalweddingcity |  
+| bip_39_word_no_space_7 | rigidstartsmallanimalweddingcitycattle |  
+| bip_39_word_no_space_8 | rigidstartsmallanimalweddingcitycattleavoid |  
+| bip_39_word_no_space_9 | rigidstartsmallanimalweddingcitycattleavoidride |  
 | bip_39_word_space_0 | ['rigid', 'start', 'small', 'animal', 'wedding', 'city', 'cattle', 'avoid', 'ride', 'escape', 'level', 'action'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid start small animal wedding city cattle avoid ride escape |  

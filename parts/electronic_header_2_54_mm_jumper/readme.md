@@ -122,6 +122,18 @@ nuclear
 text
 render
 gallery |  
+| bip_39_word_no_space_1 | auto |  
+| bip_39_word_no_space_10 | autoranchworkphrasestocknucleartextrendergalleryupper |  
+| bip_39_word_no_space_11 | autoranchworkphrasestocknucleartextrendergalleryupperbachelor |  
+| bip_39_word_no_space_12 | autoranchworkphrasestocknucleartextrendergalleryupperbachelorankle |  
+| bip_39_word_no_space_2 | autoranch |  
+| bip_39_word_no_space_3 | autoranchwork |  
+| bip_39_word_no_space_4 | autoranchworkphrase |  
+| bip_39_word_no_space_5 | autoranchworkphrasestock |  
+| bip_39_word_no_space_6 | autoranchworkphrasestocknuclear |  
+| bip_39_word_no_space_7 | autoranchworkphrasestocknucleartext |  
+| bip_39_word_no_space_8 | autoranchworkphrasestocknucleartextrender |  
+| bip_39_word_no_space_9 | autoranchworkphrasestocknucleartextrendergallery |  
 | bip_39_word_space_0 | ['auto', 'ranch', 'work', 'phrase', 'stock', 'nuclear', 'text', 'render', 'gallery', 'upper', 'bachelor', 'ankle'] |  
 | bip_39_word_space_1 | auto |  
 | bip_39_word_space_10 | auto ranch work phrase stock nuclear text render gallery upper |  

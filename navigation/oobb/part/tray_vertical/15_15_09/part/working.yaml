@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'morning
   narrow
 
   edge'
+bip_39_word_no_space_1: morning
+bip_39_word_no_space_10: morningsunsettlemagicarmedblackquiznarrowedgeunit
+bip_39_word_no_space_11: morningsunsettlemagicarmedblackquiznarrowedgeunitloop
+bip_39_word_no_space_12: morningsunsettlemagicarmedblackquiznarrowedgeunitloopabove
+bip_39_word_no_space_2: morningsun
+bip_39_word_no_space_3: morningsunsettle
+bip_39_word_no_space_4: morningsunsettlemagic
+bip_39_word_no_space_5: morningsunsettlemagicarmed
+bip_39_word_no_space_6: morningsunsettlemagicarmedblack
+bip_39_word_no_space_7: morningsunsettlemagicarmedblackquiz
+bip_39_word_no_space_8: morningsunsettlemagicarmedblackquiznarrow
+bip_39_word_no_space_9: morningsunsettlemagicarmedblackquiznarrowedge
 bip_39_word_space_0:
 - morning
 - sun

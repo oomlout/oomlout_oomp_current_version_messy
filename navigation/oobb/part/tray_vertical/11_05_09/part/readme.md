@@ -122,6 +122,18 @@ ramp
 guitar
 hedgehog
 upper |  
+| bip_39_word_no_space_1 | price |  
+| bip_39_word_no_space_10 | pricepuritywrestlesuprememythrampguitarhedgehogupperenjoy |  
+| bip_39_word_no_space_11 | pricepuritywrestlesuprememythrampguitarhedgehogupperenjoycrack |  
+| bip_39_word_no_space_12 | pricepuritywrestlesuprememythrampguitarhedgehogupperenjoycrackannual |  
+| bip_39_word_no_space_2 | pricepurity |  
+| bip_39_word_no_space_3 | pricepuritywrestle |  
+| bip_39_word_no_space_4 | pricepuritywrestlesupreme |  
+| bip_39_word_no_space_5 | pricepuritywrestlesuprememyth |  
+| bip_39_word_no_space_6 | pricepuritywrestlesuprememythramp |  
+| bip_39_word_no_space_7 | pricepuritywrestlesuprememythrampguitar |  
+| bip_39_word_no_space_8 | pricepuritywrestlesuprememythrampguitarhedgehog |  
+| bip_39_word_no_space_9 | pricepuritywrestlesuprememythrampguitarhedgehogupper |  
 | bip_39_word_space_0 | ['price', 'purity', 'wrestle', 'supreme', 'myth', 'ramp', 'guitar', 'hedgehog', 'upper', 'enjoy', 'crack', 'annual'] |  
 | bip_39_word_space_1 | price |  
 | bip_39_word_space_10 | price purity wrestle supreme myth ramp guitar hedgehog upper enjoy |  

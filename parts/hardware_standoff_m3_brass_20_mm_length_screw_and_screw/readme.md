@@ -122,6 +122,18 @@ hour
 pet
 clever
 reopen |  
+| bip_39_word_no_space_1 | rice |  
+| bip_39_word_no_space_10 | ricegowncouchartworkodorhourpetcleverreopengas |  
+| bip_39_word_no_space_11 | ricegowncouchartworkodorhourpetcleverreopengasblood |  
+| bip_39_word_no_space_12 | ricegowncouchartworkodorhourpetcleverreopengasbloodancient |  
+| bip_39_word_no_space_2 | ricegown |  
+| bip_39_word_no_space_3 | ricegowncouch |  
+| bip_39_word_no_space_4 | ricegowncouchartwork |  
+| bip_39_word_no_space_5 | ricegowncouchartworkodor |  
+| bip_39_word_no_space_6 | ricegowncouchartworkodorhour |  
+| bip_39_word_no_space_7 | ricegowncouchartworkodorhourpet |  
+| bip_39_word_no_space_8 | ricegowncouchartworkodorhourpetclever |  
+| bip_39_word_no_space_9 | ricegowncouchartworkodorhourpetcleverreopen |  
 | bip_39_word_space_0 | ['rice', 'gown', 'couch', 'artwork', 'odor', 'hour', 'pet', 'clever', 'reopen', 'gas', 'blood', 'ancient'] |  
 | bip_39_word_space_1 | rice |  
 | bip_39_word_space_10 | rice gown couch artwork odor hour pet clever reopen gas |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'gas
   person
 
   smart'
+bip_39_word_no_space_1: gas
+bip_39_word_no_space_10: gasflatcopychalkhamsterlongonepersonsmartvocal
+bip_39_word_no_space_11: gasflatcopychalkhamsterlongonepersonsmartvocalscout
+bip_39_word_no_space_12: gasflatcopychalkhamsterlongonepersonsmartvocalscoutarch
+bip_39_word_no_space_2: gasflat
+bip_39_word_no_space_3: gasflatcopy
+bip_39_word_no_space_4: gasflatcopychalk
+bip_39_word_no_space_5: gasflatcopychalkhamster
+bip_39_word_no_space_6: gasflatcopychalkhamsterlong
+bip_39_word_no_space_7: gasflatcopychalkhamsterlongone
+bip_39_word_no_space_8: gasflatcopychalkhamsterlongoneperson
+bip_39_word_no_space_9: gasflatcopychalkhamsterlongonepersonsmart
 bip_39_word_space_0:
 - gas
 - flat

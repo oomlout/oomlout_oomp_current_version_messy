@@ -122,6 +122,18 @@ silent
 silly
 audit
 glimpse |  
+| bip_39_word_no_space_1 | yard |  
+| bip_39_word_no_space_10 | yardgreenfoundtubepartysilentsillyauditglimpsenormal |  
+| bip_39_word_no_space_11 | yardgreenfoundtubepartysilentsillyauditglimpsenormalcredit |  
+| bip_39_word_no_space_12 | yardgreenfoundtubepartysilentsillyauditglimpsenormalcreditacquire |  
+| bip_39_word_no_space_2 | yardgreen |  
+| bip_39_word_no_space_3 | yardgreenfound |  
+| bip_39_word_no_space_4 | yardgreenfoundtube |  
+| bip_39_word_no_space_5 | yardgreenfoundtubeparty |  
+| bip_39_word_no_space_6 | yardgreenfoundtubepartysilent |  
+| bip_39_word_no_space_7 | yardgreenfoundtubepartysilentsilly |  
+| bip_39_word_no_space_8 | yardgreenfoundtubepartysilentsillyaudit |  
+| bip_39_word_no_space_9 | yardgreenfoundtubepartysilentsillyauditglimpse |  
 | bip_39_word_space_0 | ['yard', 'green', 'found', 'tube', 'party', 'silent', 'silly', 'audit', 'glimpse', 'normal', 'credit', 'acquire'] |  
 | bip_39_word_space_1 | yard |  
 | bip_39_word_space_10 | yard green found tube party silent silly audit glimpse normal |  

@@ -122,6 +122,18 @@ horse
 ship
 host
 rapid |  
+| bip_39_word_no_space_1 | order |  
+| bip_39_word_no_space_10 | orderfocuslightcookarresthorseshiphostrapidcontrol |  
+| bip_39_word_no_space_11 | orderfocuslightcookarresthorseshiphostrapidcontrolmass |  
+| bip_39_word_no_space_12 | orderfocuslightcookarresthorseshiphostrapidcontrolmassankle |  
+| bip_39_word_no_space_2 | orderfocus |  
+| bip_39_word_no_space_3 | orderfocuslight |  
+| bip_39_word_no_space_4 | orderfocuslightcook |  
+| bip_39_word_no_space_5 | orderfocuslightcookarrest |  
+| bip_39_word_no_space_6 | orderfocuslightcookarresthorse |  
+| bip_39_word_no_space_7 | orderfocuslightcookarresthorseship |  
+| bip_39_word_no_space_8 | orderfocuslightcookarresthorseshiphost |  
+| bip_39_word_no_space_9 | orderfocuslightcookarresthorseshiphostrapid |  
 | bip_39_word_space_0 | ['order', 'focus', 'light', 'cook', 'arrest', 'horse', 'ship', 'host', 'rapid', 'control', 'mass', 'ankle'] |  
 | bip_39_word_space_1 | order |  
 | bip_39_word_space_10 | order focus light cook arrest horse ship host rapid control |  

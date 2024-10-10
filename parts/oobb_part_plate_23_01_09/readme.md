@@ -122,6 +122,18 @@ disorder
 screen
 slow
 alert |  
+| bip_39_word_no_space_1 | demand |  
+| bip_39_word_no_space_10 | demandrejectinchthenabusedisorderscreenslowalertdinosaur |  
+| bip_39_word_no_space_11 | demandrejectinchthenabusedisorderscreenslowalertdinosaurgoose |  
+| bip_39_word_no_space_12 | demandrejectinchthenabusedisorderscreenslowalertdinosaurgooseadult |  
+| bip_39_word_no_space_2 | demandreject |  
+| bip_39_word_no_space_3 | demandrejectinch |  
+| bip_39_word_no_space_4 | demandrejectinchthen |  
+| bip_39_word_no_space_5 | demandrejectinchthenabuse |  
+| bip_39_word_no_space_6 | demandrejectinchthenabusedisorder |  
+| bip_39_word_no_space_7 | demandrejectinchthenabusedisorderscreen |  
+| bip_39_word_no_space_8 | demandrejectinchthenabusedisorderscreenslow |  
+| bip_39_word_no_space_9 | demandrejectinchthenabusedisorderscreenslowalert |  
 | bip_39_word_space_0 | ['demand', 'reject', 'inch', 'then', 'abuse', 'disorder', 'screen', 'slow', 'alert', 'dinosaur', 'goose', 'adult'] |  
 | bip_39_word_space_1 | demand |  
 | bip_39_word_space_10 | demand reject inch then abuse disorder screen slow alert dinosaur |  

@@ -122,6 +122,18 @@ range
 snow
 winter
 random |  
+| bip_39_word_no_space_1 | isolate |  
+| bip_39_word_no_space_10 | isolatevaultcrafttobaccomercyrangesnowwinterrandomannual |  
+| bip_39_word_no_space_11 | isolatevaultcrafttobaccomercyrangesnowwinterrandomannualbachelor |  
+| bip_39_word_no_space_12 | isolatevaultcrafttobaccomercyrangesnowwinterrandomannualbacheloramazing |  
+| bip_39_word_no_space_2 | isolatevault |  
+| bip_39_word_no_space_3 | isolatevaultcraft |  
+| bip_39_word_no_space_4 | isolatevaultcrafttobacco |  
+| bip_39_word_no_space_5 | isolatevaultcrafttobaccomercy |  
+| bip_39_word_no_space_6 | isolatevaultcrafttobaccomercyrange |  
+| bip_39_word_no_space_7 | isolatevaultcrafttobaccomercyrangesnow |  
+| bip_39_word_no_space_8 | isolatevaultcrafttobaccomercyrangesnowwinter |  
+| bip_39_word_no_space_9 | isolatevaultcrafttobaccomercyrangesnowwinterrandom |  
 | bip_39_word_space_0 | ['isolate', 'vault', 'craft', 'tobacco', 'mercy', 'range', 'snow', 'winter', 'random', 'annual', 'bachelor', 'amazing'] |  
 | bip_39_word_space_1 | isolate |  
 | bip_39_word_space_10 | isolate vault craft tobacco mercy range snow winter random annual |  

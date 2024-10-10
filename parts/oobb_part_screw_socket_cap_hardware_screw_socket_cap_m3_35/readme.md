@@ -122,6 +122,18 @@ artist
 trash
 guitar
 vicious |  
+| bip_39_word_no_space_1 | worth |  
+| bip_39_word_no_space_10 | worthoutercosthalfumbrellaartisttrashguitarviciousbracket |  
+| bip_39_word_no_space_11 | worthoutercosthalfumbrellaartisttrashguitarviciousbracketscreen |  
+| bip_39_word_no_space_12 | worthoutercosthalfumbrellaartisttrashguitarviciousbracketscreenauthor |  
+| bip_39_word_no_space_2 | worthouter |  
+| bip_39_word_no_space_3 | worthoutercost |  
+| bip_39_word_no_space_4 | worthoutercosthalf |  
+| bip_39_word_no_space_5 | worthoutercosthalfumbrella |  
+| bip_39_word_no_space_6 | worthoutercosthalfumbrellaartist |  
+| bip_39_word_no_space_7 | worthoutercosthalfumbrellaartisttrash |  
+| bip_39_word_no_space_8 | worthoutercosthalfumbrellaartisttrashguitar |  
+| bip_39_word_no_space_9 | worthoutercosthalfumbrellaartisttrashguitarvicious |  
 | bip_39_word_space_0 | ['worth', 'outer', 'cost', 'half', 'umbrella', 'artist', 'trash', 'guitar', 'vicious', 'bracket', 'screen', 'author'] |  
 | bip_39_word_space_1 | worth |  
 | bip_39_word_space_10 | worth outer cost half umbrella artist trash guitar vicious bracket |  

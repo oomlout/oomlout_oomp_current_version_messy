@@ -122,6 +122,18 @@ film
 order
 ensure
 accident |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietclutchenablepatrolamongfilmorderensureaccidentbehave |  
+| bip_39_word_no_space_11 | dietclutchenablepatrolamongfilmorderensureaccidentbehavetenant |  
+| bip_39_word_no_space_12 | dietclutchenablepatrolamongfilmorderensureaccidentbehavetenantancient |  
+| bip_39_word_no_space_2 | dietclutch |  
+| bip_39_word_no_space_3 | dietclutchenable |  
+| bip_39_word_no_space_4 | dietclutchenablepatrol |  
+| bip_39_word_no_space_5 | dietclutchenablepatrolamong |  
+| bip_39_word_no_space_6 | dietclutchenablepatrolamongfilm |  
+| bip_39_word_no_space_7 | dietclutchenablepatrolamongfilmorder |  
+| bip_39_word_no_space_8 | dietclutchenablepatrolamongfilmorderensure |  
+| bip_39_word_no_space_9 | dietclutchenablepatrolamongfilmorderensureaccident |  
 | bip_39_word_space_0 | ['diet', 'clutch', 'enable', 'patrol', 'among', 'film', 'order', 'ensure', 'accident', 'behave', 'tenant', 'ancient'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet clutch enable patrol among film order ensure accident behave |  

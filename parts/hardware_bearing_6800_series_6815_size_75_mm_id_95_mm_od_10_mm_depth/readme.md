@@ -122,6 +122,18 @@ rose
 seek
 eight
 dirt |  
+| bip_39_word_no_space_1 | apple |  
+| bip_39_word_no_space_10 | applecavecryagainforumroseseekeightdirtdetect |  
+| bip_39_word_no_space_11 | applecavecryagainforumroseseekeightdirtdetectnerve |  
+| bip_39_word_no_space_12 | applecavecryagainforumroseseekeightdirtdetectnerveanchor |  
+| bip_39_word_no_space_2 | applecave |  
+| bip_39_word_no_space_3 | applecavecry |  
+| bip_39_word_no_space_4 | applecavecryagain |  
+| bip_39_word_no_space_5 | applecavecryagainforum |  
+| bip_39_word_no_space_6 | applecavecryagainforumrose |  
+| bip_39_word_no_space_7 | applecavecryagainforumroseseek |  
+| bip_39_word_no_space_8 | applecavecryagainforumroseseekeight |  
+| bip_39_word_no_space_9 | applecavecryagainforumroseseekeightdirt |  
 | bip_39_word_space_0 | ['apple', 'cave', 'cry', 'again', 'forum', 'rose', 'seek', 'eight', 'dirt', 'detect', 'nerve', 'anchor'] |  
 | bip_39_word_space_1 | apple |  
 | bip_39_word_space_10 | apple cave cry again forum rose seek eight dirt detect |  

@@ -122,6 +122,18 @@ unaware
 gather
 steel
 pact |  
+| bip_39_word_no_space_1 | elbow |  
+| bip_39_word_no_space_10 | elbowclutchyoupanelauthorunawaregathersteelpactearly |  
+| bip_39_word_no_space_11 | elbowclutchyoupanelauthorunawaregathersteelpactearlycheese |  
+| bip_39_word_no_space_12 | elbowclutchyoupanelauthorunawaregathersteelpactearlycheeseaddress |  
+| bip_39_word_no_space_2 | elbowclutch |  
+| bip_39_word_no_space_3 | elbowclutchyou |  
+| bip_39_word_no_space_4 | elbowclutchyoupanel |  
+| bip_39_word_no_space_5 | elbowclutchyoupanelauthor |  
+| bip_39_word_no_space_6 | elbowclutchyoupanelauthorunaware |  
+| bip_39_word_no_space_7 | elbowclutchyoupanelauthorunawaregather |  
+| bip_39_word_no_space_8 | elbowclutchyoupanelauthorunawaregathersteel |  
+| bip_39_word_no_space_9 | elbowclutchyoupanelauthorunawaregathersteelpact |  
 | bip_39_word_space_0 | ['elbow', 'clutch', 'you', 'panel', 'author', 'unaware', 'gather', 'steel', 'pact', 'early', 'cheese', 'address'] |  
 | bip_39_word_space_1 | elbow |  
 | bip_39_word_space_10 | elbow clutch you panel author unaware gather steel pact early |  

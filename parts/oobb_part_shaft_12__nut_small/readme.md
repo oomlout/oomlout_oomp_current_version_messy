@@ -122,6 +122,18 @@ sketch
 symbol
 plate
 whip |  
+| bip_39_word_no_space_1 | response |  
+| bip_39_word_no_space_10 | responserichpenfingernarrowsketchsymbolplatewhipengage |  
+| bip_39_word_no_space_11 | responserichpenfingernarrowsketchsymbolplatewhipengageparent |  
+| bip_39_word_no_space_12 | responserichpenfingernarrowsketchsymbolplatewhipengageparentapple |  
+| bip_39_word_no_space_2 | responserich |  
+| bip_39_word_no_space_3 | responserichpen |  
+| bip_39_word_no_space_4 | responserichpenfinger |  
+| bip_39_word_no_space_5 | responserichpenfingernarrow |  
+| bip_39_word_no_space_6 | responserichpenfingernarrowsketch |  
+| bip_39_word_no_space_7 | responserichpenfingernarrowsketchsymbol |  
+| bip_39_word_no_space_8 | responserichpenfingernarrowsketchsymbolplate |  
+| bip_39_word_no_space_9 | responserichpenfingernarrowsketchsymbolplatewhip |  
 | bip_39_word_space_0 | ['response', 'rich', 'pen', 'finger', 'narrow', 'sketch', 'symbol', 'plate', 'whip', 'engage', 'parent', 'apple'] |  
 | bip_39_word_space_1 | response |  
 | bip_39_word_space_10 | response rich pen finger narrow sketch symbol plate whip engage |  

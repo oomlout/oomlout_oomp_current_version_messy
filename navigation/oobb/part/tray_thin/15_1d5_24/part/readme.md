@@ -122,6 +122,18 @@ result
 burger
 major
 web |  
+| bip_39_word_no_space_1 | film |  
+| bip_39_word_no_space_10 | filmshedpearaddresscigarresultburgermajorwebcivil |  
+| bip_39_word_no_space_11 | filmshedpearaddresscigarresultburgermajorwebcivilholiday |  
+| bip_39_word_no_space_12 | filmshedpearaddresscigarresultburgermajorwebcivilholidayarctic |  
+| bip_39_word_no_space_2 | filmshed |  
+| bip_39_word_no_space_3 | filmshedpear |  
+| bip_39_word_no_space_4 | filmshedpearaddress |  
+| bip_39_word_no_space_5 | filmshedpearaddresscigar |  
+| bip_39_word_no_space_6 | filmshedpearaddresscigarresult |  
+| bip_39_word_no_space_7 | filmshedpearaddresscigarresultburger |  
+| bip_39_word_no_space_8 | filmshedpearaddresscigarresultburgermajor |  
+| bip_39_word_no_space_9 | filmshedpearaddresscigarresultburgermajorweb |  
 | bip_39_word_space_0 | ['film', 'shed', 'pear', 'address', 'cigar', 'result', 'burger', 'major', 'web', 'civil', 'holiday', 'arctic'] |  
 | bip_39_word_space_1 | film |  
 | bip_39_word_space_10 | film shed pear address cigar result burger major web civil |  

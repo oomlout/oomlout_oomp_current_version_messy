@@ -122,6 +122,18 @@ orchard
 pig
 dutch
 neither |  
+| bip_39_word_no_space_1 | kick |  
+| bip_39_word_no_space_10 | kickhatchaseensuretypicalorchardpigdutchneithertwist |  
+| bip_39_word_no_space_11 | kickhatchaseensuretypicalorchardpigdutchneithertwisttomato |  
+| bip_39_word_no_space_12 | kickhatchaseensuretypicalorchardpigdutchneithertwisttomatoarena |  
+| bip_39_word_no_space_2 | kickhat |  
+| bip_39_word_no_space_3 | kickhatchase |  
+| bip_39_word_no_space_4 | kickhatchaseensure |  
+| bip_39_word_no_space_5 | kickhatchaseensuretypical |  
+| bip_39_word_no_space_6 | kickhatchaseensuretypicalorchard |  
+| bip_39_word_no_space_7 | kickhatchaseensuretypicalorchardpig |  
+| bip_39_word_no_space_8 | kickhatchaseensuretypicalorchardpigdutch |  
+| bip_39_word_no_space_9 | kickhatchaseensuretypicalorchardpigdutchneither |  
 | bip_39_word_space_0 | ['kick', 'hat', 'chase', 'ensure', 'typical', 'orchard', 'pig', 'dutch', 'neither', 'twist', 'tomato', 'arena'] |  
 | bip_39_word_space_1 | kick |  
 | bip_39_word_space_10 | kick hat chase ensure typical orchard pig dutch neither twist |  

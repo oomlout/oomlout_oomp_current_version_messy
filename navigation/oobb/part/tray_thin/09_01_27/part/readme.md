@@ -122,6 +122,18 @@ young
 loop
 wise
 strike |  
+| bip_39_word_no_space_1 | siege |  
+| bip_39_word_no_space_10 | siegejazznetworkwhataboutyoungloopwisestrikelend |  
+| bip_39_word_no_space_11 | siegejazznetworkwhataboutyoungloopwisestrikelendsmooth |  
+| bip_39_word_no_space_12 | siegejazznetworkwhataboutyoungloopwisestrikelendsmoothafford |  
+| bip_39_word_no_space_2 | siegejazz |  
+| bip_39_word_no_space_3 | siegejazznetwork |  
+| bip_39_word_no_space_4 | siegejazznetworkwhat |  
+| bip_39_word_no_space_5 | siegejazznetworkwhatabout |  
+| bip_39_word_no_space_6 | siegejazznetworkwhataboutyoung |  
+| bip_39_word_no_space_7 | siegejazznetworkwhataboutyoungloop |  
+| bip_39_word_no_space_8 | siegejazznetworkwhataboutyoungloopwise |  
+| bip_39_word_no_space_9 | siegejazznetworkwhataboutyoungloopwisestrike |  
 | bip_39_word_space_0 | ['siege', 'jazz', 'network', 'what', 'about', 'young', 'loop', 'wise', 'strike', 'lend', 'smooth', 'afford'] |  
 | bip_39_word_space_1 | siege |  
 | bip_39_word_space_10 | siege jazz network what about young loop wise strike lend |  

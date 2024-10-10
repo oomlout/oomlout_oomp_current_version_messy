@@ -122,6 +122,18 @@ zone
 unfair
 suffer
 stadium |  
+| bip_39_word_no_space_1 | winter |  
+| bip_39_word_no_space_10 | winterslotgrowpuzzlescalezoneunfairsufferstadiumbook |  
+| bip_39_word_no_space_11 | winterslotgrowpuzzlescalezoneunfairsufferstadiumbookstyle |  
+| bip_39_word_no_space_12 | winterslotgrowpuzzlescalezoneunfairsufferstadiumbookstyleairport |  
+| bip_39_word_no_space_2 | winterslot |  
+| bip_39_word_no_space_3 | winterslotgrow |  
+| bip_39_word_no_space_4 | winterslotgrowpuzzle |  
+| bip_39_word_no_space_5 | winterslotgrowpuzzlescale |  
+| bip_39_word_no_space_6 | winterslotgrowpuzzlescalezone |  
+| bip_39_word_no_space_7 | winterslotgrowpuzzlescalezoneunfair |  
+| bip_39_word_no_space_8 | winterslotgrowpuzzlescalezoneunfairsuffer |  
+| bip_39_word_no_space_9 | winterslotgrowpuzzlescalezoneunfairsufferstadium |  
 | bip_39_word_space_0 | ['winter', 'slot', 'grow', 'puzzle', 'scale', 'zone', 'unfair', 'suffer', 'stadium', 'book', 'style', 'airport'] |  
 | bip_39_word_space_1 | winter |  
 | bip_39_word_space_10 | winter slot grow puzzle scale zone unfair suffer stadium book |  

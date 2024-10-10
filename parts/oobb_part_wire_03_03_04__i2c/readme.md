@@ -122,6 +122,18 @@ mixture
 make
 disorder
 mistake |  
+| bip_39_word_no_space_1 | popular |  
+| bip_39_word_no_space_10 | popularankleinterestmainguidemixturemakedisordermistakeinflict |  
+| bip_39_word_no_space_11 | popularankleinterestmainguidemixturemakedisordermistakeinflictsample |  
+| bip_39_word_no_space_12 | popularankleinterestmainguidemixturemakedisordermistakeinflictsampleask |  
+| bip_39_word_no_space_2 | popularankle |  
+| bip_39_word_no_space_3 | popularankleinterest |  
+| bip_39_word_no_space_4 | popularankleinterestmain |  
+| bip_39_word_no_space_5 | popularankleinterestmainguide |  
+| bip_39_word_no_space_6 | popularankleinterestmainguidemixture |  
+| bip_39_word_no_space_7 | popularankleinterestmainguidemixturemake |  
+| bip_39_word_no_space_8 | popularankleinterestmainguidemixturemakedisorder |  
+| bip_39_word_no_space_9 | popularankleinterestmainguidemixturemakedisordermistake |  
 | bip_39_word_space_0 | ['popular', 'ankle', 'interest', 'main', 'guide', 'mixture', 'make', 'disorder', 'mistake', 'inflict', 'sample', 'ask'] |  
 | bip_39_word_space_1 | popular |  
 | bip_39_word_space_10 | popular ankle interest main guide mixture make disorder mistake inflict |  

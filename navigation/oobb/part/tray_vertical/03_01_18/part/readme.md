@@ -122,6 +122,18 @@ bench
 boat
 nice
 pluck |  
+| bip_39_word_no_space_1 | range |  
+| bip_39_word_no_space_10 | rangecaughtlawsubwayfeedbenchboatniceplucklock |  
+| bip_39_word_no_space_11 | rangecaughtlawsubwayfeedbenchboatniceplucklocktask |  
+| bip_39_word_no_space_12 | rangecaughtlawsubwayfeedbenchboatniceplucklocktaskattend |  
+| bip_39_word_no_space_2 | rangecaught |  
+| bip_39_word_no_space_3 | rangecaughtlaw |  
+| bip_39_word_no_space_4 | rangecaughtlawsubway |  
+| bip_39_word_no_space_5 | rangecaughtlawsubwayfeed |  
+| bip_39_word_no_space_6 | rangecaughtlawsubwayfeedbench |  
+| bip_39_word_no_space_7 | rangecaughtlawsubwayfeedbenchboat |  
+| bip_39_word_no_space_8 | rangecaughtlawsubwayfeedbenchboatnice |  
+| bip_39_word_no_space_9 | rangecaughtlawsubwayfeedbenchboatnicepluck |  
 | bip_39_word_space_0 | ['range', 'caught', 'law', 'subway', 'feed', 'bench', 'boat', 'nice', 'pluck', 'lock', 'task', 'attend'] |  
 | bip_39_word_space_1 | range |  
 | bip_39_word_space_10 | range caught law subway feed bench boat nice pluck lock |  

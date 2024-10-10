@@ -122,6 +122,18 @@ slam
 remove
 hammer
 unfair |  
+| bip_39_word_no_space_1 | neutral |  
+| bip_39_word_no_space_10 | neutraldismissshiprandomglimpseslamremovehammerunfairtissue |  
+| bip_39_word_no_space_11 | neutraldismissshiprandomglimpseslamremovehammerunfairtissueolive |  
+| bip_39_word_no_space_12 | neutraldismissshiprandomglimpseslamremovehammerunfairtissueolivearea |  
+| bip_39_word_no_space_2 | neutraldismiss |  
+| bip_39_word_no_space_3 | neutraldismissship |  
+| bip_39_word_no_space_4 | neutraldismissshiprandom |  
+| bip_39_word_no_space_5 | neutraldismissshiprandomglimpse |  
+| bip_39_word_no_space_6 | neutraldismissshiprandomglimpseslam |  
+| bip_39_word_no_space_7 | neutraldismissshiprandomglimpseslamremove |  
+| bip_39_word_no_space_8 | neutraldismissshiprandomglimpseslamremovehammer |  
+| bip_39_word_no_space_9 | neutraldismissshiprandomglimpseslamremovehammerunfair |  
 | bip_39_word_space_0 | ['neutral', 'dismiss', 'ship', 'random', 'glimpse', 'slam', 'remove', 'hammer', 'unfair', 'tissue', 'olive', 'area'] |  
 | bip_39_word_space_1 | neutral |  
 | bip_39_word_space_10 | neutral dismiss ship random glimpse slam remove hammer unfair tissue |  

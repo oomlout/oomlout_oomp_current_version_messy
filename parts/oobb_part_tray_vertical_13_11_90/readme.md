@@ -122,6 +122,18 @@ damage
 juice
 note
 wet |  
+| bip_39_word_no_space_1 | sight |  
+| bip_39_word_no_space_10 | sightspenddustprettythatdamagejuicenotewetluxury |  
+| bip_39_word_no_space_11 | sightspenddustprettythatdamagejuicenotewetluxuryamused |  
+| bip_39_word_no_space_12 | sightspenddustprettythatdamagejuicenotewetluxuryamusedacquire |  
+| bip_39_word_no_space_2 | sightspend |  
+| bip_39_word_no_space_3 | sightspenddust |  
+| bip_39_word_no_space_4 | sightspenddustpretty |  
+| bip_39_word_no_space_5 | sightspenddustprettythat |  
+| bip_39_word_no_space_6 | sightspenddustprettythatdamage |  
+| bip_39_word_no_space_7 | sightspenddustprettythatdamagejuice |  
+| bip_39_word_no_space_8 | sightspenddustprettythatdamagejuicenote |  
+| bip_39_word_no_space_9 | sightspenddustprettythatdamagejuicenotewet |  
 | bip_39_word_space_0 | ['sight', 'spend', 'dust', 'pretty', 'that', 'damage', 'juice', 'note', 'wet', 'luxury', 'amused', 'acquire'] |  
 | bip_39_word_space_1 | sight |  
 | bip_39_word_space_10 | sight spend dust pretty that damage juice note wet luxury |  

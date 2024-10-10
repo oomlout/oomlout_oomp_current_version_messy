@@ -122,6 +122,18 @@ consider
 jungle
 radio
 list |  
+| bip_39_word_no_space_1 | syrup |  
+| bip_39_word_no_space_10 | syrupumbrelladicefiberduckconsiderjungleradiolistapart |  
+| bip_39_word_no_space_11 | syrupumbrelladicefiberduckconsiderjungleradiolistaparttwist |  
+| bip_39_word_no_space_12 | syrupumbrelladicefiberduckconsiderjungleradiolistaparttwistancient |  
+| bip_39_word_no_space_2 | syrupumbrella |  
+| bip_39_word_no_space_3 | syrupumbrelladice |  
+| bip_39_word_no_space_4 | syrupumbrelladicefiber |  
+| bip_39_word_no_space_5 | syrupumbrelladicefiberduck |  
+| bip_39_word_no_space_6 | syrupumbrelladicefiberduckconsider |  
+| bip_39_word_no_space_7 | syrupumbrelladicefiberduckconsiderjungle |  
+| bip_39_word_no_space_8 | syrupumbrelladicefiberduckconsiderjungleradio |  
+| bip_39_word_no_space_9 | syrupumbrelladicefiberduckconsiderjungleradiolist |  
 | bip_39_word_space_0 | ['syrup', 'umbrella', 'dice', 'fiber', 'duck', 'consider', 'jungle', 'radio', 'list', 'apart', 'twist', 'ancient'] |  
 | bip_39_word_space_1 | syrup |  
 | bip_39_word_space_10 | syrup umbrella dice fiber duck consider jungle radio list apart |  

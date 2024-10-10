@@ -122,6 +122,18 @@ reason
 message
 lawsuit
 exile |  
+| bip_39_word_no_space_1 | devote |  
+| bip_39_word_no_space_10 | devotelaborexcuselegendsloganreasonmessagelawsuitexilegame |  
+| bip_39_word_no_space_11 | devotelaborexcuselegendsloganreasonmessagelawsuitexilegameslogan |  
+| bip_39_word_no_space_12 | devotelaborexcuselegendsloganreasonmessagelawsuitexilegamesloganadd |  
+| bip_39_word_no_space_2 | devotelabor |  
+| bip_39_word_no_space_3 | devotelaborexcuse |  
+| bip_39_word_no_space_4 | devotelaborexcuselegend |  
+| bip_39_word_no_space_5 | devotelaborexcuselegendslogan |  
+| bip_39_word_no_space_6 | devotelaborexcuselegendsloganreason |  
+| bip_39_word_no_space_7 | devotelaborexcuselegendsloganreasonmessage |  
+| bip_39_word_no_space_8 | devotelaborexcuselegendsloganreasonmessagelawsuit |  
+| bip_39_word_no_space_9 | devotelaborexcuselegendsloganreasonmessagelawsuitexile |  
 | bip_39_word_space_0 | ['devote', 'labor', 'excuse', 'legend', 'slogan', 'reason', 'message', 'lawsuit', 'exile', 'game', 'slogan', 'add'] |  
 | bip_39_word_space_1 | devote |  
 | bip_39_word_space_10 | devote labor excuse legend slogan reason message lawsuit exile game |  

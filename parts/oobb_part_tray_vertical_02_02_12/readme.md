@@ -122,6 +122,18 @@ size
 tail
 mistake
 right |  
+| bip_39_word_no_space_1 | point |  
+| bip_39_word_no_space_10 | pointremaindiarysheriffmaidsizetailmistakerightman |  
+| bip_39_word_no_space_11 | pointremaindiarysheriffmaidsizetailmistakerightmanorphan |  
+| bip_39_word_no_space_12 | pointremaindiarysheriffmaidsizetailmistakerightmanorphanaddict |  
+| bip_39_word_no_space_2 | pointremain |  
+| bip_39_word_no_space_3 | pointremaindiary |  
+| bip_39_word_no_space_4 | pointremaindiarysheriff |  
+| bip_39_word_no_space_5 | pointremaindiarysheriffmaid |  
+| bip_39_word_no_space_6 | pointremaindiarysheriffmaidsize |  
+| bip_39_word_no_space_7 | pointremaindiarysheriffmaidsizetail |  
+| bip_39_word_no_space_8 | pointremaindiarysheriffmaidsizetailmistake |  
+| bip_39_word_no_space_9 | pointremaindiarysheriffmaidsizetailmistakeright |  
 | bip_39_word_space_0 | ['point', 'remain', 'diary', 'sheriff', 'maid', 'size', 'tail', 'mistake', 'right', 'man', 'orphan', 'addict'] |  
 | bip_39_word_space_1 | point |  
 | bip_39_word_space_10 | point remain diary sheriff maid size tail mistake right man |  

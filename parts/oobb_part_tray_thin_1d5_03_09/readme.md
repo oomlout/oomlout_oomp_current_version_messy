@@ -122,6 +122,18 @@ maple
 neglect
 movie
 sugar |  
+| bip_39_word_no_space_1 | amused |  
+| bip_39_word_no_space_10 | amusedhybrideagerexposejoinmapleneglectmoviesugarsurface |  
+| bip_39_word_no_space_11 | amusedhybrideagerexposejoinmapleneglectmoviesugarsurfaceluxury |  
+| bip_39_word_no_space_12 | amusedhybrideagerexposejoinmapleneglectmoviesugarsurfaceluxuryadjust |  
+| bip_39_word_no_space_2 | amusedhybrid |  
+| bip_39_word_no_space_3 | amusedhybrideager |  
+| bip_39_word_no_space_4 | amusedhybrideagerexpose |  
+| bip_39_word_no_space_5 | amusedhybrideagerexposejoin |  
+| bip_39_word_no_space_6 | amusedhybrideagerexposejoinmaple |  
+| bip_39_word_no_space_7 | amusedhybrideagerexposejoinmapleneglect |  
+| bip_39_word_no_space_8 | amusedhybrideagerexposejoinmapleneglectmovie |  
+| bip_39_word_no_space_9 | amusedhybrideagerexposejoinmapleneglectmoviesugar |  
 | bip_39_word_space_0 | ['amused', 'hybrid', 'eager', 'expose', 'join', 'maple', 'neglect', 'movie', 'sugar', 'surface', 'luxury', 'adjust'] |  
 | bip_39_word_space_1 | amused |  
 | bip_39_word_space_10 | amused hybrid eager expose join maple neglect movie sugar surface |  

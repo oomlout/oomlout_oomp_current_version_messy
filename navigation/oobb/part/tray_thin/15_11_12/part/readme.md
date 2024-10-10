@@ -122,6 +122,18 @@ coconut
 april
 basket
 news |  
+| bip_39_word_no_space_1 | purchase |  
+| bip_39_word_no_space_10 | purchasegazeviablecommonverycoconutaprilbasketnewstooth |  
+| bip_39_word_no_space_11 | purchasegazeviablecommonverycoconutaprilbasketnewstoothdebate |  
+| bip_39_word_no_space_12 | purchasegazeviablecommonverycoconutaprilbasketnewstoothdebateapril |  
+| bip_39_word_no_space_2 | purchasegaze |  
+| bip_39_word_no_space_3 | purchasegazeviable |  
+| bip_39_word_no_space_4 | purchasegazeviablecommon |  
+| bip_39_word_no_space_5 | purchasegazeviablecommonvery |  
+| bip_39_word_no_space_6 | purchasegazeviablecommonverycoconut |  
+| bip_39_word_no_space_7 | purchasegazeviablecommonverycoconutapril |  
+| bip_39_word_no_space_8 | purchasegazeviablecommonverycoconutaprilbasket |  
+| bip_39_word_no_space_9 | purchasegazeviablecommonverycoconutaprilbasketnews |  
 | bip_39_word_space_0 | ['purchase', 'gaze', 'viable', 'common', 'very', 'coconut', 'april', 'basket', 'news', 'tooth', 'debate', 'april'] |  
 | bip_39_word_space_1 | purchase |  
 | bip_39_word_space_10 | purchase gaze viable common very coconut april basket news tooth |  

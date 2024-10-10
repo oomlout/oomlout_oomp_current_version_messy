@@ -122,6 +122,18 @@ multiply
 squirrel
 manual
 piece |  
+| bip_39_word_no_space_1 | age |  
+| bip_39_word_no_space_10 | agetoddlerpizzavacuummeltmultiplysquirrelmanualpiecerange |  
+| bip_39_word_no_space_11 | agetoddlerpizzavacuummeltmultiplysquirrelmanualpiecerangenote |  
+| bip_39_word_no_space_12 | agetoddlerpizzavacuummeltmultiplysquirrelmanualpiecerangenotealley |  
+| bip_39_word_no_space_2 | agetoddler |  
+| bip_39_word_no_space_3 | agetoddlerpizza |  
+| bip_39_word_no_space_4 | agetoddlerpizzavacuum |  
+| bip_39_word_no_space_5 | agetoddlerpizzavacuummelt |  
+| bip_39_word_no_space_6 | agetoddlerpizzavacuummeltmultiply |  
+| bip_39_word_no_space_7 | agetoddlerpizzavacuummeltmultiplysquirrel |  
+| bip_39_word_no_space_8 | agetoddlerpizzavacuummeltmultiplysquirrelmanual |  
+| bip_39_word_no_space_9 | agetoddlerpizzavacuummeltmultiplysquirrelmanualpiece |  
 | bip_39_word_space_0 | ['age', 'toddler', 'pizza', 'vacuum', 'melt', 'multiply', 'squirrel', 'manual', 'piece', 'range', 'note', 'alley'] |  
 | bip_39_word_space_1 | age |  
 | bip_39_word_space_10 | age toddler pizza vacuum melt multiply squirrel manual piece range |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'local
   depend
 
   match'
+bip_39_word_no_space_1: local
+bip_39_word_no_space_10: localwraplockjustwolfelectricphotodependmatchmedia
+bip_39_word_no_space_11: localwraplockjustwolfelectricphotodependmatchmediahedgehog
+bip_39_word_no_space_12: localwraplockjustwolfelectricphotodependmatchmediahedgehogabuse
+bip_39_word_no_space_2: localwrap
+bip_39_word_no_space_3: localwraplock
+bip_39_word_no_space_4: localwraplockjust
+bip_39_word_no_space_5: localwraplockjustwolf
+bip_39_word_no_space_6: localwraplockjustwolfelectric
+bip_39_word_no_space_7: localwraplockjustwolfelectricphoto
+bip_39_word_no_space_8: localwraplockjustwolfelectricphotodepend
+bip_39_word_no_space_9: localwraplockjustwolfelectricphotodependmatch
 bip_39_word_space_0:
 - local
 - wrap

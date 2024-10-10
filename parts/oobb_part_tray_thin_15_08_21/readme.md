@@ -122,6 +122,18 @@ sleep
 slow
 cupboard
 slight |  
+| bip_39_word_no_space_1 | artwork |  
+| bip_39_word_no_space_10 | artworksolidparrotlumbercandysleepslowcupboardslightpink |  
+| bip_39_word_no_space_11 | artworksolidparrotlumbercandysleepslowcupboardslightpinkpurpose |  
+| bip_39_word_no_space_12 | artworksolidparrotlumbercandysleepslowcupboardslightpinkpurposearmor |  
+| bip_39_word_no_space_2 | artworksolid |  
+| bip_39_word_no_space_3 | artworksolidparrot |  
+| bip_39_word_no_space_4 | artworksolidparrotlumber |  
+| bip_39_word_no_space_5 | artworksolidparrotlumbercandy |  
+| bip_39_word_no_space_6 | artworksolidparrotlumbercandysleep |  
+| bip_39_word_no_space_7 | artworksolidparrotlumbercandysleepslow |  
+| bip_39_word_no_space_8 | artworksolidparrotlumbercandysleepslowcupboard |  
+| bip_39_word_no_space_9 | artworksolidparrotlumbercandysleepslowcupboardslight |  
 | bip_39_word_space_0 | ['artwork', 'solid', 'parrot', 'lumber', 'candy', 'sleep', 'slow', 'cupboard', 'slight', 'pink', 'purpose', 'armor'] |  
 | bip_39_word_space_1 | artwork |  
 | bip_39_word_space_10 | artwork solid parrot lumber candy sleep slow cupboard slight pink |  

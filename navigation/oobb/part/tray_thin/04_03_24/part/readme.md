@@ -122,6 +122,18 @@ gorilla
 unknown
 mistake
 ceiling |  
+| bip_39_word_no_space_1 | champion |  
+| bip_39_word_no_space_10 | championturtletopcurvewaitgorillaunknownmistakeceilingkiss |  
+| bip_39_word_no_space_11 | championturtletopcurvewaitgorillaunknownmistakeceilingkisstimber |  
+| bip_39_word_no_space_12 | championturtletopcurvewaitgorillaunknownmistakeceilingkisstimberarena |  
+| bip_39_word_no_space_2 | championturtle |  
+| bip_39_word_no_space_3 | championturtletop |  
+| bip_39_word_no_space_4 | championturtletopcurve |  
+| bip_39_word_no_space_5 | championturtletopcurvewait |  
+| bip_39_word_no_space_6 | championturtletopcurvewaitgorilla |  
+| bip_39_word_no_space_7 | championturtletopcurvewaitgorillaunknown |  
+| bip_39_word_no_space_8 | championturtletopcurvewaitgorillaunknownmistake |  
+| bip_39_word_no_space_9 | championturtletopcurvewaitgorillaunknownmistakeceiling |  
 | bip_39_word_space_0 | ['champion', 'turtle', 'top', 'curve', 'wait', 'gorilla', 'unknown', 'mistake', 'ceiling', 'kiss', 'timber', 'arena'] |  
 | bip_39_word_space_1 | champion |  
 | bip_39_word_space_10 | champion turtle top curve wait gorilla unknown mistake ceiling kiss |  

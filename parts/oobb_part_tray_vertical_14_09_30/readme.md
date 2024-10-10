@@ -122,6 +122,18 @@ garbage
 draw
 thank
 palace |  
+| bip_39_word_no_space_1 | treat |  
+| bip_39_word_no_space_10 | treatbottomuniversesteakfathergarbagedrawthankpalaceforward |  
+| bip_39_word_no_space_11 | treatbottomuniversesteakfathergarbagedrawthankpalaceforwardcannon |  
+| bip_39_word_no_space_12 | treatbottomuniversesteakfathergarbagedrawthankpalaceforwardcannonalter |  
+| bip_39_word_no_space_2 | treatbottom |  
+| bip_39_word_no_space_3 | treatbottomuniverse |  
+| bip_39_word_no_space_4 | treatbottomuniversesteak |  
+| bip_39_word_no_space_5 | treatbottomuniversesteakfather |  
+| bip_39_word_no_space_6 | treatbottomuniversesteakfathergarbage |  
+| bip_39_word_no_space_7 | treatbottomuniversesteakfathergarbagedraw |  
+| bip_39_word_no_space_8 | treatbottomuniversesteakfathergarbagedrawthank |  
+| bip_39_word_no_space_9 | treatbottomuniversesteakfathergarbagedrawthankpalace |  
 | bip_39_word_space_0 | ['treat', 'bottom', 'universe', 'steak', 'father', 'garbage', 'draw', 'thank', 'palace', 'forward', 'cannon', 'alter'] |  
 | bip_39_word_space_1 | treat |  
 | bip_39_word_space_10 | treat bottom universe steak father garbage draw thank palace forward |  

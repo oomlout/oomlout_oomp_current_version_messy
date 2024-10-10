@@ -122,6 +122,18 @@ coast
 canoe
 digital
 permit |  
+| bip_39_word_no_space_1 | sketch |  
+| bip_39_word_no_space_10 | sketchsituatesampletextwoolcoastcanoedigitalpermitproject |  
+| bip_39_word_no_space_11 | sketchsituatesampletextwoolcoastcanoedigitalpermitprojectright |  
+| bip_39_word_no_space_12 | sketchsituatesampletextwoolcoastcanoedigitalpermitprojectrightaim |  
+| bip_39_word_no_space_2 | sketchsituate |  
+| bip_39_word_no_space_3 | sketchsituatesample |  
+| bip_39_word_no_space_4 | sketchsituatesampletext |  
+| bip_39_word_no_space_5 | sketchsituatesampletextwool |  
+| bip_39_word_no_space_6 | sketchsituatesampletextwoolcoast |  
+| bip_39_word_no_space_7 | sketchsituatesampletextwoolcoastcanoe |  
+| bip_39_word_no_space_8 | sketchsituatesampletextwoolcoastcanoedigital |  
+| bip_39_word_no_space_9 | sketchsituatesampletextwoolcoastcanoedigitalpermit |  
 | bip_39_word_space_0 | ['sketch', 'situate', 'sample', 'text', 'wool', 'coast', 'canoe', 'digital', 'permit', 'project', 'right', 'aim'] |  
 | bip_39_word_space_1 | sketch |  
 | bip_39_word_space_10 | sketch situate sample text wool coast canoe digital permit project |  

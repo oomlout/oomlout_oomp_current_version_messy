@@ -122,6 +122,18 @@ grab
 series
 balcony
 rhythm |  
+| bip_39_word_no_space_1 | birth |  
+| bip_39_word_no_space_10 | birthtipquizpaperoniongrabseriesbalconyrhythmshuffle |  
+| bip_39_word_no_space_11 | birthtipquizpaperoniongrabseriesbalconyrhythmshufflemath |  
+| bip_39_word_no_space_12 | birthtipquizpaperoniongrabseriesbalconyrhythmshufflemathactress |  
+| bip_39_word_no_space_2 | birthtip |  
+| bip_39_word_no_space_3 | birthtipquiz |  
+| bip_39_word_no_space_4 | birthtipquizpaper |  
+| bip_39_word_no_space_5 | birthtipquizpaperonion |  
+| bip_39_word_no_space_6 | birthtipquizpaperoniongrab |  
+| bip_39_word_no_space_7 | birthtipquizpaperoniongrabseries |  
+| bip_39_word_no_space_8 | birthtipquizpaperoniongrabseriesbalcony |  
+| bip_39_word_no_space_9 | birthtipquizpaperoniongrabseriesbalconyrhythm |  
 | bip_39_word_space_0 | ['birth', 'tip', 'quiz', 'paper', 'onion', 'grab', 'series', 'balcony', 'rhythm', 'shuffle', 'math', 'actress'] |  
 | bip_39_word_space_1 | birth |  
 | bip_39_word_space_10 | birth tip quiz paper onion grab series balcony rhythm shuffle |  

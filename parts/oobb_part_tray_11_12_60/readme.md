@@ -122,6 +122,18 @@ disorder
 job
 kick
 brown |  
+| bip_39_word_no_space_1 | brain |  
+| bip_39_word_no_space_10 | brainunderelephantweaseljuicedisorderjobkickbrownsalute |  
+| bip_39_word_no_space_11 | brainunderelephantweaseljuicedisorderjobkickbrownsalutecancel |  
+| bip_39_word_no_space_12 | brainunderelephantweaseljuicedisorderjobkickbrownsalutecancelamazing |  
+| bip_39_word_no_space_2 | brainunder |  
+| bip_39_word_no_space_3 | brainunderelephant |  
+| bip_39_word_no_space_4 | brainunderelephantweasel |  
+| bip_39_word_no_space_5 | brainunderelephantweaseljuice |  
+| bip_39_word_no_space_6 | brainunderelephantweaseljuicedisorder |  
+| bip_39_word_no_space_7 | brainunderelephantweaseljuicedisorderjob |  
+| bip_39_word_no_space_8 | brainunderelephantweaseljuicedisorderjobkick |  
+| bip_39_word_no_space_9 | brainunderelephantweaseljuicedisorderjobkickbrown |  
 | bip_39_word_space_0 | ['brain', 'under', 'elephant', 'weasel', 'juice', 'disorder', 'job', 'kick', 'brown', 'salute', 'cancel', 'amazing'] |  
 | bip_39_word_space_1 | brain |  
 | bip_39_word_space_10 | brain under elephant weasel juice disorder job kick brown salute |  

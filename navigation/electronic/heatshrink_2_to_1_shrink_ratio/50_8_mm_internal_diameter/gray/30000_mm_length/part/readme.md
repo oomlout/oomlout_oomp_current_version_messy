@@ -122,6 +122,18 @@ butter
 one
 matter
 evolve |  
+| bip_39_word_no_space_1 | guard |  
+| bip_39_word_no_space_10 | guarddomaininstallsqueezefacebutteronematterevolvesaddle |  
+| bip_39_word_no_space_11 | guarddomaininstallsqueezefacebutteronematterevolvesaddleearn |  
+| bip_39_word_no_space_12 | guarddomaininstallsqueezefacebutteronematterevolvesaddleearnacid |  
+| bip_39_word_no_space_2 | guarddomain |  
+| bip_39_word_no_space_3 | guarddomaininstall |  
+| bip_39_word_no_space_4 | guarddomaininstallsqueeze |  
+| bip_39_word_no_space_5 | guarddomaininstallsqueezeface |  
+| bip_39_word_no_space_6 | guarddomaininstallsqueezefacebutter |  
+| bip_39_word_no_space_7 | guarddomaininstallsqueezefacebutterone |  
+| bip_39_word_no_space_8 | guarddomaininstallsqueezefacebutteronematter |  
+| bip_39_word_no_space_9 | guarddomaininstallsqueezefacebutteronematterevolve |  
 | bip_39_word_space_0 | ['guard', 'domain', 'install', 'squeeze', 'face', 'butter', 'one', 'matter', 'evolve', 'saddle', 'earn', 'acid'] |  
 | bip_39_word_space_1 | guard |  
 | bip_39_word_space_10 | guard domain install squeeze face butter one matter evolve saddle |  

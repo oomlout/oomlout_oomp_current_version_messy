@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'athlete
   once
 
   ask'
+bip_39_word_no_space_1: athlete
+bip_39_word_no_space_10: athletejellydizzycopytopweaselvoteonceaskmetal
+bip_39_word_no_space_11: athletejellydizzycopytopweaselvoteonceaskmetalgreat
+bip_39_word_no_space_12: athletejellydizzycopytopweaselvoteonceaskmetalgreatagent
+bip_39_word_no_space_2: athletejelly
+bip_39_word_no_space_3: athletejellydizzy
+bip_39_word_no_space_4: athletejellydizzycopy
+bip_39_word_no_space_5: athletejellydizzycopytop
+bip_39_word_no_space_6: athletejellydizzycopytopweasel
+bip_39_word_no_space_7: athletejellydizzycopytopweaselvote
+bip_39_word_no_space_8: athletejellydizzycopytopweaselvoteonce
+bip_39_word_no_space_9: athletejellydizzycopytopweaselvoteonceask
 bip_39_word_space_0:
 - athlete
 - jelly

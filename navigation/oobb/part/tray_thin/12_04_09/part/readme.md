@@ -122,6 +122,18 @@ notice
 story
 clap
 turtle |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualhamsterdustdynamicsamenoticestoryclapturtlehold |  
+| bip_39_word_no_space_11 | visualhamsterdustdynamicsamenoticestoryclapturtleholdalways |  
+| bip_39_word_no_space_12 | visualhamsterdustdynamicsamenoticestoryclapturtleholdalwaysapart |  
+| bip_39_word_no_space_2 | visualhamster |  
+| bip_39_word_no_space_3 | visualhamsterdust |  
+| bip_39_word_no_space_4 | visualhamsterdustdynamic |  
+| bip_39_word_no_space_5 | visualhamsterdustdynamicsame |  
+| bip_39_word_no_space_6 | visualhamsterdustdynamicsamenotice |  
+| bip_39_word_no_space_7 | visualhamsterdustdynamicsamenoticestory |  
+| bip_39_word_no_space_8 | visualhamsterdustdynamicsamenoticestoryclap |  
+| bip_39_word_no_space_9 | visualhamsterdustdynamicsamenoticestoryclapturtle |  
 | bip_39_word_space_0 | ['visual', 'hamster', 'dust', 'dynamic', 'same', 'notice', 'story', 'clap', 'turtle', 'hold', 'always', 'apart'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual hamster dust dynamic same notice story clap turtle hold |  

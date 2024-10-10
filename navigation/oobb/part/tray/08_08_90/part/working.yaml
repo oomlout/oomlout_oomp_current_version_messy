@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'limb
   portion
 
   cover'
+bip_39_word_no_space_1: limb
+bip_39_word_no_space_10: limbdividegivefogfantasytellgooseportioncovergroup
+bip_39_word_no_space_11: limbdividegivefogfantasytellgooseportioncovergroupshoe
+bip_39_word_no_space_12: limbdividegivefogfantasytellgooseportioncovergroupshoealter
+bip_39_word_no_space_2: limbdivide
+bip_39_word_no_space_3: limbdividegive
+bip_39_word_no_space_4: limbdividegivefog
+bip_39_word_no_space_5: limbdividegivefogfantasy
+bip_39_word_no_space_6: limbdividegivefogfantasytell
+bip_39_word_no_space_7: limbdividegivefogfantasytellgoose
+bip_39_word_no_space_8: limbdividegivefogfantasytellgooseportion
+bip_39_word_no_space_9: limbdividegivefogfantasytellgooseportioncover
 bip_39_word_space_0:
 - limb
 - divide

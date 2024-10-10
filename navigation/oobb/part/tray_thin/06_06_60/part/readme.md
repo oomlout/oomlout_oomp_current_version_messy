@@ -122,6 +122,18 @@ lizard
 pupil
 ugly
 enough |  
+| bip_39_word_no_space_1 | include |  
+| bip_39_word_no_space_10 | includemanualdaringbananamercylizardpupiluglyenoughunfair |  
+| bip_39_word_no_space_11 | includemanualdaringbananamercylizardpupiluglyenoughunfairpredict |  
+| bip_39_word_no_space_12 | includemanualdaringbananamercylizardpupiluglyenoughunfairpredictarmy |  
+| bip_39_word_no_space_2 | includemanual |  
+| bip_39_word_no_space_3 | includemanualdaring |  
+| bip_39_word_no_space_4 | includemanualdaringbanana |  
+| bip_39_word_no_space_5 | includemanualdaringbananamercy |  
+| bip_39_word_no_space_6 | includemanualdaringbananamercylizard |  
+| bip_39_word_no_space_7 | includemanualdaringbananamercylizardpupil |  
+| bip_39_word_no_space_8 | includemanualdaringbananamercylizardpupilugly |  
+| bip_39_word_no_space_9 | includemanualdaringbananamercylizardpupiluglyenough |  
 | bip_39_word_space_0 | ['include', 'manual', 'daring', 'banana', 'mercy', 'lizard', 'pupil', 'ugly', 'enough', 'unfair', 'predict', 'army'] |  
 | bip_39_word_space_1 | include |  
 | bip_39_word_space_10 | include manual daring banana mercy lizard pupil ugly enough unfair |  

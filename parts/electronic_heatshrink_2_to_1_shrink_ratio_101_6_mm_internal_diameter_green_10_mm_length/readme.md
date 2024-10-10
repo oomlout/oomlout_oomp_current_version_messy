@@ -122,6 +122,18 @@ busy
 evidence
 lottery
 execute |  
+| bip_39_word_no_space_1 | elegant |  
+| bip_39_word_no_space_10 | eleganttreerelaxskateeggbusyevidencelotteryexecuteanalyst |  
+| bip_39_word_no_space_11 | eleganttreerelaxskateeggbusyevidencelotteryexecuteanalystball |  
+| bip_39_word_no_space_12 | eleganttreerelaxskateeggbusyevidencelotteryexecuteanalystballabstract |  
+| bip_39_word_no_space_2 | eleganttree |  
+| bip_39_word_no_space_3 | eleganttreerelax |  
+| bip_39_word_no_space_4 | eleganttreerelaxskate |  
+| bip_39_word_no_space_5 | eleganttreerelaxskateegg |  
+| bip_39_word_no_space_6 | eleganttreerelaxskateeggbusy |  
+| bip_39_word_no_space_7 | eleganttreerelaxskateeggbusyevidence |  
+| bip_39_word_no_space_8 | eleganttreerelaxskateeggbusyevidencelottery |  
+| bip_39_word_no_space_9 | eleganttreerelaxskateeggbusyevidencelotteryexecute |  
 | bip_39_word_space_0 | ['elegant', 'tree', 'relax', 'skate', 'egg', 'busy', 'evidence', 'lottery', 'execute', 'analyst', 'ball', 'abstract'] |  
 | bip_39_word_space_1 | elegant |  
 | bip_39_word_space_10 | elegant tree relax skate egg busy evidence lottery execute analyst |  

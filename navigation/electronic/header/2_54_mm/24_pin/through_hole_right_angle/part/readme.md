@@ -122,6 +122,18 @@ route
 price
 hour
 wisdom |  
+| bip_39_word_no_space_1 | ozone |  
+| bip_39_word_no_space_10 | ozonedeposittopicswingfestivalroutepricehourwisdombracket |  
+| bip_39_word_no_space_11 | ozonedeposittopicswingfestivalroutepricehourwisdombracketeagle |  
+| bip_39_word_no_space_12 | ozonedeposittopicswingfestivalroutepricehourwisdombracketeagleacoustic |  
+| bip_39_word_no_space_2 | ozonedeposit |  
+| bip_39_word_no_space_3 | ozonedeposittopic |  
+| bip_39_word_no_space_4 | ozonedeposittopicswing |  
+| bip_39_word_no_space_5 | ozonedeposittopicswingfestival |  
+| bip_39_word_no_space_6 | ozonedeposittopicswingfestivalroute |  
+| bip_39_word_no_space_7 | ozonedeposittopicswingfestivalrouteprice |  
+| bip_39_word_no_space_8 | ozonedeposittopicswingfestivalroutepricehour |  
+| bip_39_word_no_space_9 | ozonedeposittopicswingfestivalroutepricehourwisdom |  
 | bip_39_word_space_0 | ['ozone', 'deposit', 'topic', 'swing', 'festival', 'route', 'price', 'hour', 'wisdom', 'bracket', 'eagle', 'acoustic'] |  
 | bip_39_word_space_1 | ozone |  
 | bip_39_word_space_10 | ozone deposit topic swing festival route price hour wisdom bracket |  

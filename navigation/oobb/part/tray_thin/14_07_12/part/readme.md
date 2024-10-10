@@ -122,6 +122,18 @@ season
 suit
 skin
 physical |  
+| bip_39_word_no_space_1 | face |  
+| bip_39_word_no_space_10 | facenowfrownorganislandseasonsuitskinphysicalcasino |  
+| bip_39_word_no_space_11 | facenowfrownorganislandseasonsuitskinphysicalcasinoflame |  
+| bip_39_word_no_space_12 | facenowfrownorganislandseasonsuitskinphysicalcasinoflameargue |  
+| bip_39_word_no_space_2 | facenow |  
+| bip_39_word_no_space_3 | facenowfrown |  
+| bip_39_word_no_space_4 | facenowfrownorgan |  
+| bip_39_word_no_space_5 | facenowfrownorganisland |  
+| bip_39_word_no_space_6 | facenowfrownorganislandseason |  
+| bip_39_word_no_space_7 | facenowfrownorganislandseasonsuit |  
+| bip_39_word_no_space_8 | facenowfrownorganislandseasonsuitskin |  
+| bip_39_word_no_space_9 | facenowfrownorganislandseasonsuitskinphysical |  
 | bip_39_word_space_0 | ['face', 'now', 'frown', 'organ', 'island', 'season', 'suit', 'skin', 'physical', 'casino', 'flame', 'argue'] |  
 | bip_39_word_space_1 | face |  
 | bip_39_word_space_10 | face now frown organ island season suit skin physical casino |  

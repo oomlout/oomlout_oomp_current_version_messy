@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'slot
   major
 
   ozone'
+bip_39_word_no_space_1: slot
+bip_39_word_no_space_10: slotdutychoicefacultycostdresssevenmajorozonerally
+bip_39_word_no_space_11: slotdutychoicefacultycostdresssevenmajorozonerallydraft
+bip_39_word_no_space_12: slotdutychoicefacultycostdresssevenmajorozonerallydraftaugust
+bip_39_word_no_space_2: slotduty
+bip_39_word_no_space_3: slotdutychoice
+bip_39_word_no_space_4: slotdutychoicefaculty
+bip_39_word_no_space_5: slotdutychoicefacultycost
+bip_39_word_no_space_6: slotdutychoicefacultycostdress
+bip_39_word_no_space_7: slotdutychoicefacultycostdressseven
+bip_39_word_no_space_8: slotdutychoicefacultycostdresssevenmajor
+bip_39_word_no_space_9: slotdutychoicefacultycostdresssevenmajorozone
 bip_39_word_space_0:
 - slot
 - duty

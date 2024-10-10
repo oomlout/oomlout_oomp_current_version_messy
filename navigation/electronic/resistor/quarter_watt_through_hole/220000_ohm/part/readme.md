@@ -122,6 +122,18 @@ fade
 dignity
 across
 fruit |  
+| bip_39_word_no_space_1 | tree |  
+| bip_39_word_no_space_10 | treeiconcousinflipdetectfadedignityacrossfruitend |  
+| bip_39_word_no_space_11 | treeiconcousinflipdetectfadedignityacrossfruitendwhip |  
+| bip_39_word_no_space_12 | treeiconcousinflipdetectfadedignityacrossfruitendwhipalcohol |  
+| bip_39_word_no_space_2 | treeicon |  
+| bip_39_word_no_space_3 | treeiconcousin |  
+| bip_39_word_no_space_4 | treeiconcousinflip |  
+| bip_39_word_no_space_5 | treeiconcousinflipdetect |  
+| bip_39_word_no_space_6 | treeiconcousinflipdetectfade |  
+| bip_39_word_no_space_7 | treeiconcousinflipdetectfadedignity |  
+| bip_39_word_no_space_8 | treeiconcousinflipdetectfadedignityacross |  
+| bip_39_word_no_space_9 | treeiconcousinflipdetectfadedignityacrossfruit |  
 | bip_39_word_space_0 | ['tree', 'icon', 'cousin', 'flip', 'detect', 'fade', 'dignity', 'across', 'fruit', 'end', 'whip', 'alcohol'] |  
 | bip_39_word_space_1 | tree |  
 | bip_39_word_space_10 | tree icon cousin flip detect fade dignity across fruit end |  

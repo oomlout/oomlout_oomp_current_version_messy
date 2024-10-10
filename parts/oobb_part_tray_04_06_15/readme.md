@@ -122,6 +122,18 @@ excess
 milk
 fringe
 jungle |  
+| bip_39_word_no_space_1 | simple |  
+| bip_39_word_no_space_10 | simpleribrescuelecturepoetexcessmilkfringejunglesurround |  
+| bip_39_word_no_space_11 | simpleribrescuelecturepoetexcessmilkfringejunglesurroundengine |  
+| bip_39_word_no_space_12 | simpleribrescuelecturepoetexcessmilkfringejunglesurroundengineaccident |  
+| bip_39_word_no_space_2 | simplerib |  
+| bip_39_word_no_space_3 | simpleribrescue |  
+| bip_39_word_no_space_4 | simpleribrescuelecture |  
+| bip_39_word_no_space_5 | simpleribrescuelecturepoet |  
+| bip_39_word_no_space_6 | simpleribrescuelecturepoetexcess |  
+| bip_39_word_no_space_7 | simpleribrescuelecturepoetexcessmilk |  
+| bip_39_word_no_space_8 | simpleribrescuelecturepoetexcessmilkfringe |  
+| bip_39_word_no_space_9 | simpleribrescuelecturepoetexcessmilkfringejungle |  
 | bip_39_word_space_0 | ['simple', 'rib', 'rescue', 'lecture', 'poet', 'excess', 'milk', 'fringe', 'jungle', 'surround', 'engine', 'accident'] |  
 | bip_39_word_space_1 | simple |  
 | bip_39_word_space_10 | simple rib rescue lecture poet excess milk fringe jungle surround |  

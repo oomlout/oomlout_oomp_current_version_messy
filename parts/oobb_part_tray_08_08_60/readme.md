@@ -122,6 +122,18 @@ drastic
 aware
 tide
 flower |  
+| bip_39_word_no_space_1 | amount |  
+| bip_39_word_no_space_10 | amountalcoholsqueezeboylecturedrasticawaretideflowerdolphin |  
+| bip_39_word_no_space_11 | amountalcoholsqueezeboylecturedrasticawaretideflowerdolphintape |  
+| bip_39_word_no_space_12 | amountalcoholsqueezeboylecturedrasticawaretideflowerdolphintapeanalyst |  
+| bip_39_word_no_space_2 | amountalcohol |  
+| bip_39_word_no_space_3 | amountalcoholsqueeze |  
+| bip_39_word_no_space_4 | amountalcoholsqueezeboy |  
+| bip_39_word_no_space_5 | amountalcoholsqueezeboylecture |  
+| bip_39_word_no_space_6 | amountalcoholsqueezeboylecturedrastic |  
+| bip_39_word_no_space_7 | amountalcoholsqueezeboylecturedrasticaware |  
+| bip_39_word_no_space_8 | amountalcoholsqueezeboylecturedrasticawaretide |  
+| bip_39_word_no_space_9 | amountalcoholsqueezeboylecturedrasticawaretideflower |  
 | bip_39_word_space_0 | ['amount', 'alcohol', 'squeeze', 'boy', 'lecture', 'drastic', 'aware', 'tide', 'flower', 'dolphin', 'tape', 'analyst'] |  
 | bip_39_word_space_1 | amount |  
 | bip_39_word_space_10 | amount alcohol squeeze boy lecture drastic aware tide flower dolphin |  

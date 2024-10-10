@@ -122,6 +122,18 @@ explain
 funny
 behind
 stand |  
+| bip_39_word_no_space_1 | year |  
+| bip_39_word_no_space_10 | yearstepeasyuniformviciousexplainfunnybehindstanddrastic |  
+| bip_39_word_no_space_11 | yearstepeasyuniformviciousexplainfunnybehindstanddrasticcute |  
+| bip_39_word_no_space_12 | yearstepeasyuniformviciousexplainfunnybehindstanddrasticcutearmed |  
+| bip_39_word_no_space_2 | yearstep |  
+| bip_39_word_no_space_3 | yearstepeasy |  
+| bip_39_word_no_space_4 | yearstepeasyuniform |  
+| bip_39_word_no_space_5 | yearstepeasyuniformvicious |  
+| bip_39_word_no_space_6 | yearstepeasyuniformviciousexplain |  
+| bip_39_word_no_space_7 | yearstepeasyuniformviciousexplainfunny |  
+| bip_39_word_no_space_8 | yearstepeasyuniformviciousexplainfunnybehind |  
+| bip_39_word_no_space_9 | yearstepeasyuniformviciousexplainfunnybehindstand |  
 | bip_39_word_space_0 | ['year', 'step', 'easy', 'uniform', 'vicious', 'explain', 'funny', 'behind', 'stand', 'drastic', 'cute', 'armed'] |  
 | bip_39_word_space_1 | year |  
 | bip_39_word_space_10 | year step easy uniform vicious explain funny behind stand drastic |  

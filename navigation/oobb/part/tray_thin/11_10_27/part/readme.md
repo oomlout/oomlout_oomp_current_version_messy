@@ -122,6 +122,18 @@ eye
 mixed
 output
 struggle |  
+| bip_39_word_no_space_1 | model |  
+| bip_39_word_no_space_10 | modelpenalleysheriffmediaeyemixedoutputstrugglefilm |  
+| bip_39_word_no_space_11 | modelpenalleysheriffmediaeyemixedoutputstrugglefilmbook |  
+| bip_39_word_no_space_12 | modelpenalleysheriffmediaeyemixedoutputstrugglefilmbookaugust |  
+| bip_39_word_no_space_2 | modelpen |  
+| bip_39_word_no_space_3 | modelpenalley |  
+| bip_39_word_no_space_4 | modelpenalleysheriff |  
+| bip_39_word_no_space_5 | modelpenalleysheriffmedia |  
+| bip_39_word_no_space_6 | modelpenalleysheriffmediaeye |  
+| bip_39_word_no_space_7 | modelpenalleysheriffmediaeyemixed |  
+| bip_39_word_no_space_8 | modelpenalleysheriffmediaeyemixedoutput |  
+| bip_39_word_no_space_9 | modelpenalleysheriffmediaeyemixedoutputstruggle |  
 | bip_39_word_space_0 | ['model', 'pen', 'alley', 'sheriff', 'media', 'eye', 'mixed', 'output', 'struggle', 'film', 'book', 'august'] |  
 | bip_39_word_space_1 | model |  
 | bip_39_word_space_10 | model pen alley sheriff media eye mixed output struggle film |  

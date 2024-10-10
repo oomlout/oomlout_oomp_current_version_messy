@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'erase
   pulp
 
   solid'
+bip_39_word_no_space_1: erase
+bip_39_word_no_space_10: erasewishinheritsciencescreensenseteampulpsolidcaught
+bip_39_word_no_space_11: erasewishinheritsciencescreensenseteampulpsolidcaughtmath
+bip_39_word_no_space_12: erasewishinheritsciencescreensenseteampulpsolidcaughtmathafford
+bip_39_word_no_space_2: erasewish
+bip_39_word_no_space_3: erasewishinherit
+bip_39_word_no_space_4: erasewishinheritscience
+bip_39_word_no_space_5: erasewishinheritsciencescreen
+bip_39_word_no_space_6: erasewishinheritsciencescreensense
+bip_39_word_no_space_7: erasewishinheritsciencescreensenseteam
+bip_39_word_no_space_8: erasewishinheritsciencescreensenseteampulp
+bip_39_word_no_space_9: erasewishinheritsciencescreensenseteampulpsolid
 bip_39_word_space_0:
 - erase
 - wish

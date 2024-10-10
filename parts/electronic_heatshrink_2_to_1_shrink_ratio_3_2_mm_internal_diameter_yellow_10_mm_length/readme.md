@@ -122,6 +122,18 @@ alert
 arrow
 save
 task |  
+| bip_39_word_no_space_1 | chief |  
+| bip_39_word_no_space_10 | chiefgalaxyrebelfragilecivilalertarrowsavetasksix |  
+| bip_39_word_no_space_11 | chiefgalaxyrebelfragilecivilalertarrowsavetasksixother |  
+| bip_39_word_no_space_12 | chiefgalaxyrebelfragilecivilalertarrowsavetasksixotherannounce |  
+| bip_39_word_no_space_2 | chiefgalaxy |  
+| bip_39_word_no_space_3 | chiefgalaxyrebel |  
+| bip_39_word_no_space_4 | chiefgalaxyrebelfragile |  
+| bip_39_word_no_space_5 | chiefgalaxyrebelfragilecivil |  
+| bip_39_word_no_space_6 | chiefgalaxyrebelfragilecivilalert |  
+| bip_39_word_no_space_7 | chiefgalaxyrebelfragilecivilalertarrow |  
+| bip_39_word_no_space_8 | chiefgalaxyrebelfragilecivilalertarrowsave |  
+| bip_39_word_no_space_9 | chiefgalaxyrebelfragilecivilalertarrowsavetask |  
 | bip_39_word_space_0 | ['chief', 'galaxy', 'rebel', 'fragile', 'civil', 'alert', 'arrow', 'save', 'task', 'six', 'other', 'announce'] |  
 | bip_39_word_space_1 | chief |  
 | bip_39_word_space_10 | chief galaxy rebel fragile civil alert arrow save task six |  

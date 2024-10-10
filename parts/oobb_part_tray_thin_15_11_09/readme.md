@@ -122,6 +122,18 @@ nasty
 shy
 glass
 print |  
+| bip_39_word_no_space_1 | ordinary |  
+| bip_39_word_no_space_10 | ordinarypetlistsnakehedgehognastyshyglassprintunusual |  
+| bip_39_word_no_space_11 | ordinarypetlistsnakehedgehognastyshyglassprintunusualhazard |  
+| bip_39_word_no_space_12 | ordinarypetlistsnakehedgehognastyshyglassprintunusualhazardattract |  
+| bip_39_word_no_space_2 | ordinarypet |  
+| bip_39_word_no_space_3 | ordinarypetlist |  
+| bip_39_word_no_space_4 | ordinarypetlistsnake |  
+| bip_39_word_no_space_5 | ordinarypetlistsnakehedgehog |  
+| bip_39_word_no_space_6 | ordinarypetlistsnakehedgehognasty |  
+| bip_39_word_no_space_7 | ordinarypetlistsnakehedgehognastyshy |  
+| bip_39_word_no_space_8 | ordinarypetlistsnakehedgehognastyshyglass |  
+| bip_39_word_no_space_9 | ordinarypetlistsnakehedgehognastyshyglassprint |  
 | bip_39_word_space_0 | ['ordinary', 'pet', 'list', 'snake', 'hedgehog', 'nasty', 'shy', 'glass', 'print', 'unusual', 'hazard', 'attract'] |  
 | bip_39_word_space_1 | ordinary |  
 | bip_39_word_space_10 | ordinary pet list snake hedgehog nasty shy glass print unusual |  

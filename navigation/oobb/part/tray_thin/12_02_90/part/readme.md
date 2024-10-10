@@ -122,6 +122,18 @@ yard
 again
 jacket
 social |  
+| bip_39_word_no_space_1 | unveil |  
+| bip_39_word_no_space_10 | unveillightburgerpanicgrabyardagainjacketsocialcatch |  
+| bip_39_word_no_space_11 | unveillightburgerpanicgrabyardagainjacketsocialcatchfault |  
+| bip_39_word_no_space_12 | unveillightburgerpanicgrabyardagainjacketsocialcatchfaultafford |  
+| bip_39_word_no_space_2 | unveillight |  
+| bip_39_word_no_space_3 | unveillightburger |  
+| bip_39_word_no_space_4 | unveillightburgerpanic |  
+| bip_39_word_no_space_5 | unveillightburgerpanicgrab |  
+| bip_39_word_no_space_6 | unveillightburgerpanicgrabyard |  
+| bip_39_word_no_space_7 | unveillightburgerpanicgrabyardagain |  
+| bip_39_word_no_space_8 | unveillightburgerpanicgrabyardagainjacket |  
+| bip_39_word_no_space_9 | unveillightburgerpanicgrabyardagainjacketsocial |  
 | bip_39_word_space_0 | ['unveil', 'light', 'burger', 'panic', 'grab', 'yard', 'again', 'jacket', 'social', 'catch', 'fault', 'afford'] |  
 | bip_39_word_space_1 | unveil |  
 | bip_39_word_space_10 | unveil light burger panic grab yard again jacket social catch |  

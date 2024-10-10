@@ -122,6 +122,18 @@ subway
 thank
 salad
 effort |  
+| bip_39_word_no_space_1 | surprise |  
+| bip_39_word_no_space_10 | surpriseslamwearpenglimpsesubwaythanksaladeffortclown |  
+| bip_39_word_no_space_11 | surpriseslamwearpenglimpsesubwaythanksaladeffortclownsix |  
+| bip_39_word_no_space_12 | surpriseslamwearpenglimpsesubwaythanksaladeffortclownsixafford |  
+| bip_39_word_no_space_2 | surpriseslam |  
+| bip_39_word_no_space_3 | surpriseslamwear |  
+| bip_39_word_no_space_4 | surpriseslamwearpen |  
+| bip_39_word_no_space_5 | surpriseslamwearpenglimpse |  
+| bip_39_word_no_space_6 | surpriseslamwearpenglimpsesubway |  
+| bip_39_word_no_space_7 | surpriseslamwearpenglimpsesubwaythank |  
+| bip_39_word_no_space_8 | surpriseslamwearpenglimpsesubwaythanksalad |  
+| bip_39_word_no_space_9 | surpriseslamwearpenglimpsesubwaythanksaladeffort |  
 | bip_39_word_space_0 | ['surprise', 'slam', 'wear', 'pen', 'glimpse', 'subway', 'thank', 'salad', 'effort', 'clown', 'six', 'afford'] |  
 | bip_39_word_space_1 | surprise |  
 | bip_39_word_space_10 | surprise slam wear pen glimpse subway thank salad effort clown |  

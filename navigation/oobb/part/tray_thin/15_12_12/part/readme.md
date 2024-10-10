@@ -122,6 +122,18 @@ garment
 wisdom
 grab
 lunch |  
+| bip_39_word_no_space_1 | code |  
+| bip_39_word_no_space_10 | codestairsfluidchampionyouthgarmentwisdomgrablunchwild |  
+| bip_39_word_no_space_11 | codestairsfluidchampionyouthgarmentwisdomgrablunchwildsince |  
+| bip_39_word_no_space_12 | codestairsfluidchampionyouthgarmentwisdomgrablunchwildsincealert |  
+| bip_39_word_no_space_2 | codestairs |  
+| bip_39_word_no_space_3 | codestairsfluid |  
+| bip_39_word_no_space_4 | codestairsfluidchampion |  
+| bip_39_word_no_space_5 | codestairsfluidchampionyouth |  
+| bip_39_word_no_space_6 | codestairsfluidchampionyouthgarment |  
+| bip_39_word_no_space_7 | codestairsfluidchampionyouthgarmentwisdom |  
+| bip_39_word_no_space_8 | codestairsfluidchampionyouthgarmentwisdomgrab |  
+| bip_39_word_no_space_9 | codestairsfluidchampionyouthgarmentwisdomgrablunch |  
 | bip_39_word_space_0 | ['code', 'stairs', 'fluid', 'champion', 'youth', 'garment', 'wisdom', 'grab', 'lunch', 'wild', 'since', 'alert'] |  
 | bip_39_word_space_1 | code |  
 | bip_39_word_space_10 | code stairs fluid champion youth garment wisdom grab lunch wild |  

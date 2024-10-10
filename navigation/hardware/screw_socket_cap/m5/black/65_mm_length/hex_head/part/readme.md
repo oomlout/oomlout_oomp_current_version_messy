@@ -122,6 +122,18 @@ stomach
 rigid
 divide
 urge |  
+| bip_39_word_no_space_1 | slight |  
+| bip_39_word_no_space_10 | slightmarriagerecallintactguessstomachrigiddivideurgeprint |  
+| bip_39_word_no_space_11 | slightmarriagerecallintactguessstomachrigiddivideurgeprintinquiry |  
+| bip_39_word_no_space_12 | slightmarriagerecallintactguessstomachrigiddivideurgeprintinquiryasthma |  
+| bip_39_word_no_space_2 | slightmarriage |  
+| bip_39_word_no_space_3 | slightmarriagerecall |  
+| bip_39_word_no_space_4 | slightmarriagerecallintact |  
+| bip_39_word_no_space_5 | slightmarriagerecallintactguess |  
+| bip_39_word_no_space_6 | slightmarriagerecallintactguessstomach |  
+| bip_39_word_no_space_7 | slightmarriagerecallintactguessstomachrigid |  
+| bip_39_word_no_space_8 | slightmarriagerecallintactguessstomachrigiddivide |  
+| bip_39_word_no_space_9 | slightmarriagerecallintactguessstomachrigiddivideurge |  
 | bip_39_word_space_0 | ['slight', 'marriage', 'recall', 'intact', 'guess', 'stomach', 'rigid', 'divide', 'urge', 'print', 'inquiry', 'asthma'] |  
 | bip_39_word_space_1 | slight |  
 | bip_39_word_space_10 | slight marriage recall intact guess stomach rigid divide urge print |  

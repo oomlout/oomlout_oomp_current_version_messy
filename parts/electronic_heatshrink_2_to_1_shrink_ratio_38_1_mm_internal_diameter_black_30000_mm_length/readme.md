@@ -122,6 +122,18 @@ echo
 lake
 trigger
 real |  
+| bip_39_word_no_space_1 | inflict |  
+| bip_39_word_no_space_10 | inflictdieselbadgedinosaurgoddessecholaketriggerrealdolphin |  
+| bip_39_word_no_space_11 | inflictdieselbadgedinosaurgoddessecholaketriggerrealdolphinindex |  
+| bip_39_word_no_space_12 | inflictdieselbadgedinosaurgoddessecholaketriggerrealdolphinindexabuse |  
+| bip_39_word_no_space_2 | inflictdiesel |  
+| bip_39_word_no_space_3 | inflictdieselbadge |  
+| bip_39_word_no_space_4 | inflictdieselbadgedinosaur |  
+| bip_39_word_no_space_5 | inflictdieselbadgedinosaurgoddess |  
+| bip_39_word_no_space_6 | inflictdieselbadgedinosaurgoddessecho |  
+| bip_39_word_no_space_7 | inflictdieselbadgedinosaurgoddessecholake |  
+| bip_39_word_no_space_8 | inflictdieselbadgedinosaurgoddessecholaketrigger |  
+| bip_39_word_no_space_9 | inflictdieselbadgedinosaurgoddessecholaketriggerreal |  
 | bip_39_word_space_0 | ['inflict', 'diesel', 'badge', 'dinosaur', 'goddess', 'echo', 'lake', 'trigger', 'real', 'dolphin', 'index', 'abuse'] |  
 | bip_39_word_space_1 | inflict |  
 | bip_39_word_space_10 | inflict diesel badge dinosaur goddess echo lake trigger real dolphin |  

@@ -122,6 +122,18 @@ pyramid
 spoil
 sick
 lock |  
+| bip_39_word_no_space_1 | odor |  
+| bip_39_word_no_space_10 | odoronceusedchuckletribepyramidspoilsicklockpottery |  
+| bip_39_word_no_space_11 | odoronceusedchuckletribepyramidspoilsicklockpotteryestate |  
+| bip_39_word_no_space_12 | odoronceusedchuckletribepyramidspoilsicklockpotteryestatealcohol |  
+| bip_39_word_no_space_2 | odoronce |  
+| bip_39_word_no_space_3 | odoronceused |  
+| bip_39_word_no_space_4 | odoronceusedchuckle |  
+| bip_39_word_no_space_5 | odoronceusedchuckletribe |  
+| bip_39_word_no_space_6 | odoronceusedchuckletribepyramid |  
+| bip_39_word_no_space_7 | odoronceusedchuckletribepyramidspoil |  
+| bip_39_word_no_space_8 | odoronceusedchuckletribepyramidspoilsick |  
+| bip_39_word_no_space_9 | odoronceusedchuckletribepyramidspoilsicklock |  
 | bip_39_word_space_0 | ['odor', 'once', 'used', 'chuckle', 'tribe', 'pyramid', 'spoil', 'sick', 'lock', 'pottery', 'estate', 'alcohol'] |  
 | bip_39_word_space_1 | odor |  
 | bip_39_word_space_10 | odor once used chuckle tribe pyramid spoil sick lock pottery |  

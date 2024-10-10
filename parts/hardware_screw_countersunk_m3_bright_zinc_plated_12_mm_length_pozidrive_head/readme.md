@@ -122,6 +122,18 @@ proud
 grit
 crowd
 front |  
+| bip_39_word_no_space_1 | excess |  
+| bip_39_word_no_space_10 | excessprisonothertencanproudgritcrowdfrontpossible |  
+| bip_39_word_no_space_11 | excessprisonothertencanproudgritcrowdfrontpossiblerebel |  
+| bip_39_word_no_space_12 | excessprisonothertencanproudgritcrowdfrontpossiblerebelattitude |  
+| bip_39_word_no_space_2 | excessprison |  
+| bip_39_word_no_space_3 | excessprisonother |  
+| bip_39_word_no_space_4 | excessprisonotherten |  
+| bip_39_word_no_space_5 | excessprisonothertencan |  
+| bip_39_word_no_space_6 | excessprisonothertencanproud |  
+| bip_39_word_no_space_7 | excessprisonothertencanproudgrit |  
+| bip_39_word_no_space_8 | excessprisonothertencanproudgritcrowd |  
+| bip_39_word_no_space_9 | excessprisonothertencanproudgritcrowdfront |  
 | bip_39_word_space_0 | ['excess', 'prison', 'other', 'ten', 'can', 'proud', 'grit', 'crowd', 'front', 'possible', 'rebel', 'attitude'] |  
 | bip_39_word_space_1 | excess |  
 | bip_39_word_space_10 | excess prison other ten can proud grit crowd front possible |  

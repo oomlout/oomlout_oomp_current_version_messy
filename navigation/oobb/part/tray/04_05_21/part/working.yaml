@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'swing
   exhaust
 
   window'
+bip_39_word_no_space_1: swing
+bip_39_word_no_space_10: swingfieldnaivewisdombaconcattleretireexhaustwindowhome
+bip_39_word_no_space_11: swingfieldnaivewisdombaconcattleretireexhaustwindowhomehope
+bip_39_word_no_space_12: swingfieldnaivewisdombaconcattleretireexhaustwindowhomehopeabove
+bip_39_word_no_space_2: swingfield
+bip_39_word_no_space_3: swingfieldnaive
+bip_39_word_no_space_4: swingfieldnaivewisdom
+bip_39_word_no_space_5: swingfieldnaivewisdombacon
+bip_39_word_no_space_6: swingfieldnaivewisdombaconcattle
+bip_39_word_no_space_7: swingfieldnaivewisdombaconcattleretire
+bip_39_word_no_space_8: swingfieldnaivewisdombaconcattleretireexhaust
+bip_39_word_no_space_9: swingfieldnaivewisdombaconcattleretireexhaustwindow
 bip_39_word_space_0:
 - swing
 - field

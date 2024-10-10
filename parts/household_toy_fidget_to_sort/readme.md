@@ -122,6 +122,18 @@ health
 short
 beyond
 diagram |  
+| bip_39_word_no_space_1 | mask |  
+| bip_39_word_no_space_10 | maskcoilkiwidaringcompanyhealthshortbeyonddiagramreplace |  
+| bip_39_word_no_space_11 | maskcoilkiwidaringcompanyhealthshortbeyonddiagramreplaceflame |  
+| bip_39_word_no_space_12 | maskcoilkiwidaringcompanyhealthshortbeyonddiagramreplaceflameartwork |  
+| bip_39_word_no_space_2 | maskcoil |  
+| bip_39_word_no_space_3 | maskcoilkiwi |  
+| bip_39_word_no_space_4 | maskcoilkiwidaring |  
+| bip_39_word_no_space_5 | maskcoilkiwidaringcompany |  
+| bip_39_word_no_space_6 | maskcoilkiwidaringcompanyhealth |  
+| bip_39_word_no_space_7 | maskcoilkiwidaringcompanyhealthshort |  
+| bip_39_word_no_space_8 | maskcoilkiwidaringcompanyhealthshortbeyond |  
+| bip_39_word_no_space_9 | maskcoilkiwidaringcompanyhealthshortbeyonddiagram |  
 | bip_39_word_space_0 | ['mask', 'coil', 'kiwi', 'daring', 'company', 'health', 'short', 'beyond', 'diagram', 'replace', 'flame', 'artwork'] |  
 | bip_39_word_space_1 | mask |  
 | bip_39_word_space_10 | mask coil kiwi daring company health short beyond diagram replace |  

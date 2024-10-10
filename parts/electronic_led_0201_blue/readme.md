@@ -122,6 +122,18 @@ sting
 divert
 blush
 audit |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardpathawaregasglobestingdivertblushauditvolcano |  
+| bip_39_word_no_space_11 | rewardpathawaregasglobestingdivertblushauditvolcanocost |  
+| bip_39_word_no_space_12 | rewardpathawaregasglobestingdivertblushauditvolcanocostartist |  
+| bip_39_word_no_space_2 | rewardpath |  
+| bip_39_word_no_space_3 | rewardpathaware |  
+| bip_39_word_no_space_4 | rewardpathawaregas |  
+| bip_39_word_no_space_5 | rewardpathawaregasglobe |  
+| bip_39_word_no_space_6 | rewardpathawaregasglobesting |  
+| bip_39_word_no_space_7 | rewardpathawaregasglobestingdivert |  
+| bip_39_word_no_space_8 | rewardpathawaregasglobestingdivertblush |  
+| bip_39_word_no_space_9 | rewardpathawaregasglobestingdivertblushaudit |  
 | bip_39_word_space_0 | ['reward', 'path', 'aware', 'gas', 'globe', 'sting', 'divert', 'blush', 'audit', 'volcano', 'cost', 'artist'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward path aware gas globe sting divert blush audit volcano |  

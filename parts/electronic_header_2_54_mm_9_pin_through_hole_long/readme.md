@@ -122,6 +122,18 @@ valid
 midnight
 deal
 radar |  
+| bip_39_word_no_space_1 | subway |  
+| bip_39_word_no_space_10 | subwaybeefwageclientpactvalidmidnightdealradarangry |  
+| bip_39_word_no_space_11 | subwaybeefwageclientpactvalidmidnightdealradarangrynorth |  
+| bip_39_word_no_space_12 | subwaybeefwageclientpactvalidmidnightdealradarangrynorthaisle |  
+| bip_39_word_no_space_2 | subwaybeef |  
+| bip_39_word_no_space_3 | subwaybeefwage |  
+| bip_39_word_no_space_4 | subwaybeefwageclient |  
+| bip_39_word_no_space_5 | subwaybeefwageclientpact |  
+| bip_39_word_no_space_6 | subwaybeefwageclientpactvalid |  
+| bip_39_word_no_space_7 | subwaybeefwageclientpactvalidmidnight |  
+| bip_39_word_no_space_8 | subwaybeefwageclientpactvalidmidnightdeal |  
+| bip_39_word_no_space_9 | subwaybeefwageclientpactvalidmidnightdealradar |  
 | bip_39_word_space_0 | ['subway', 'beef', 'wage', 'client', 'pact', 'valid', 'midnight', 'deal', 'radar', 'angry', 'north', 'aisle'] |  
 | bip_39_word_space_1 | subway |  
 | bip_39_word_space_10 | subway beef wage client pact valid midnight deal radar angry |  

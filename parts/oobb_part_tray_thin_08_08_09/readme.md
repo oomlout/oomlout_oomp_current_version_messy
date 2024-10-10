@@ -122,6 +122,18 @@ resource
 side
 roof
 delay |  
+| bip_39_word_no_space_1 | theme |  
+| bip_39_word_no_space_10 | themehomeenterguideadmitresourcesideroofdelayparent |  
+| bip_39_word_no_space_11 | themehomeenterguideadmitresourcesideroofdelayparentpigeon |  
+| bip_39_word_no_space_12 | themehomeenterguideadmitresourcesideroofdelayparentpigeonaccident |  
+| bip_39_word_no_space_2 | themehome |  
+| bip_39_word_no_space_3 | themehomeenter |  
+| bip_39_word_no_space_4 | themehomeenterguide |  
+| bip_39_word_no_space_5 | themehomeenterguideadmit |  
+| bip_39_word_no_space_6 | themehomeenterguideadmitresource |  
+| bip_39_word_no_space_7 | themehomeenterguideadmitresourceside |  
+| bip_39_word_no_space_8 | themehomeenterguideadmitresourcesideroof |  
+| bip_39_word_no_space_9 | themehomeenterguideadmitresourcesideroofdelay |  
 | bip_39_word_space_0 | ['theme', 'home', 'enter', 'guide', 'admit', 'resource', 'side', 'roof', 'delay', 'parent', 'pigeon', 'accident'] |  
 | bip_39_word_space_1 | theme |  
 | bip_39_word_space_10 | theme home enter guide admit resource side roof delay parent |  

@@ -122,6 +122,18 @@ huge
 pistol
 monster
 bone |  
+| bip_39_word_no_space_1 | canyon |  
+| bip_39_word_no_space_10 | canyoncrashsuperdadabandonhugepistolmonsterbonegrow |  
+| bip_39_word_no_space_11 | canyoncrashsuperdadabandonhugepistolmonsterbonegrowstove |  
+| bip_39_word_no_space_12 | canyoncrashsuperdadabandonhugepistolmonsterbonegrowstoveanswer |  
+| bip_39_word_no_space_2 | canyoncrash |  
+| bip_39_word_no_space_3 | canyoncrashsuper |  
+| bip_39_word_no_space_4 | canyoncrashsuperdad |  
+| bip_39_word_no_space_5 | canyoncrashsuperdadabandon |  
+| bip_39_word_no_space_6 | canyoncrashsuperdadabandonhuge |  
+| bip_39_word_no_space_7 | canyoncrashsuperdadabandonhugepistol |  
+| bip_39_word_no_space_8 | canyoncrashsuperdadabandonhugepistolmonster |  
+| bip_39_word_no_space_9 | canyoncrashsuperdadabandonhugepistolmonsterbone |  
 | bip_39_word_space_0 | ['canyon', 'crash', 'super', 'dad', 'abandon', 'huge', 'pistol', 'monster', 'bone', 'grow', 'stove', 'answer'] |  
 | bip_39_word_space_1 | canyon |  
 | bip_39_word_space_10 | canyon crash super dad abandon huge pistol monster bone grow |  

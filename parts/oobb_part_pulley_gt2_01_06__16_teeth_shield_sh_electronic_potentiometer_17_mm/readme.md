@@ -122,6 +122,18 @@ together
 swim
 bubble
 donkey |  
+| bip_39_word_no_space_1 | guide |  
+| bip_39_word_no_space_10 | guidemakefalseequalabsurdtogetherswimbubbledonkeylight |  
+| bip_39_word_no_space_11 | guidemakefalseequalabsurdtogetherswimbubbledonkeylightecho |  
+| bip_39_word_no_space_12 | guidemakefalseequalabsurdtogetherswimbubbledonkeylightechoatom |  
+| bip_39_word_no_space_2 | guidemake |  
+| bip_39_word_no_space_3 | guidemakefalse |  
+| bip_39_word_no_space_4 | guidemakefalseequal |  
+| bip_39_word_no_space_5 | guidemakefalseequalabsurd |  
+| bip_39_word_no_space_6 | guidemakefalseequalabsurdtogether |  
+| bip_39_word_no_space_7 | guidemakefalseequalabsurdtogetherswim |  
+| bip_39_word_no_space_8 | guidemakefalseequalabsurdtogetherswimbubble |  
+| bip_39_word_no_space_9 | guidemakefalseequalabsurdtogetherswimbubbledonkey |  
 | bip_39_word_space_0 | ['guide', 'make', 'false', 'equal', 'absurd', 'together', 'swim', 'bubble', 'donkey', 'light', 'echo', 'atom'] |  
 | bip_39_word_space_1 | guide |  
 | bip_39_word_space_10 | guide make false equal absurd together swim bubble donkey light |  

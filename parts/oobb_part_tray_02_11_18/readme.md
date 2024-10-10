@@ -122,6 +122,18 @@ dune
 wire
 fury
 slim |  
+| bip_39_word_no_space_1 | crush |  
+| bip_39_word_no_space_10 | crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxy |  
+| bip_39_word_no_space_11 | crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxyflash |  
+| bip_39_word_no_space_12 | crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxyflashabstract |  
+| bip_39_word_no_space_2 | crushmarriage |  
+| bip_39_word_no_space_3 | crushmarriagelibrary |  
+| bip_39_word_no_space_4 | crushmarriagelibrarytruck |  
+| bip_39_word_no_space_5 | crushmarriagelibrarytruckdivorce |  
+| bip_39_word_no_space_6 | crushmarriagelibrarytruckdivorcedune |  
+| bip_39_word_no_space_7 | crushmarriagelibrarytruckdivorcedunewire |  
+| bip_39_word_no_space_8 | crushmarriagelibrarytruckdivorcedunewirefury |  
+| bip_39_word_no_space_9 | crushmarriagelibrarytruckdivorcedunewirefuryslim |  
 | bip_39_word_space_0 | ['crush', 'marriage', 'library', 'truck', 'divorce', 'dune', 'wire', 'fury', 'slim', 'galaxy', 'flash', 'abstract'] |  
 | bip_39_word_space_1 | crush |  
 | bip_39_word_space_10 | crush marriage library truck divorce dune wire fury slim galaxy |  

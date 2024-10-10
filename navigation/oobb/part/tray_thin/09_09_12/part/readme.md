@@ -122,6 +122,18 @@ bracket
 swarm
 rice
 panther |  
+| bip_39_word_no_space_1 | fan |  
+| bip_39_word_no_space_10 | fancrawljuicebeforepunchbracketswarmricepanthersail |  
+| bip_39_word_no_space_11 | fancrawljuicebeforepunchbracketswarmricepanthersailroad |  
+| bip_39_word_no_space_12 | fancrawljuicebeforepunchbracketswarmricepanthersailroadangle |  
+| bip_39_word_no_space_2 | fancrawl |  
+| bip_39_word_no_space_3 | fancrawljuice |  
+| bip_39_word_no_space_4 | fancrawljuicebefore |  
+| bip_39_word_no_space_5 | fancrawljuicebeforepunch |  
+| bip_39_word_no_space_6 | fancrawljuicebeforepunchbracket |  
+| bip_39_word_no_space_7 | fancrawljuicebeforepunchbracketswarm |  
+| bip_39_word_no_space_8 | fancrawljuicebeforepunchbracketswarmrice |  
+| bip_39_word_no_space_9 | fancrawljuicebeforepunchbracketswarmricepanther |  
 | bip_39_word_space_0 | ['fan', 'crawl', 'juice', 'before', 'punch', 'bracket', 'swarm', 'rice', 'panther', 'sail', 'road', 'angle'] |  
 | bip_39_word_space_1 | fan |  
 | bip_39_word_space_10 | fan crawl juice before punch bracket swarm rice panther sail |  

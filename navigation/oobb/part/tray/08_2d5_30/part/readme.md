@@ -122,6 +122,18 @@ bomb
 slide
 drive
 orbit |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | briskshipusualrewardcupbombslidedriveorbitinitial |  
+| bip_39_word_no_space_11 | briskshipusualrewardcupbombslidedriveorbitinitialcement |  
+| bip_39_word_no_space_12 | briskshipusualrewardcupbombslidedriveorbitinitialcementactor |  
+| bip_39_word_no_space_2 | briskship |  
+| bip_39_word_no_space_3 | briskshipusual |  
+| bip_39_word_no_space_4 | briskshipusualreward |  
+| bip_39_word_no_space_5 | briskshipusualrewardcup |  
+| bip_39_word_no_space_6 | briskshipusualrewardcupbomb |  
+| bip_39_word_no_space_7 | briskshipusualrewardcupbombslide |  
+| bip_39_word_no_space_8 | briskshipusualrewardcupbombslidedrive |  
+| bip_39_word_no_space_9 | briskshipusualrewardcupbombslidedriveorbit |  
 | bip_39_word_space_0 | ['brisk', 'ship', 'usual', 'reward', 'cup', 'bomb', 'slide', 'drive', 'orbit', 'initial', 'cement', 'actor'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk ship usual reward cup bomb slide drive orbit initial |  

@@ -122,6 +122,18 @@ tackle
 access
 swap
 unable |  
+| bip_39_word_no_space_1 | drop |  
+| bip_39_word_no_space_10 | dropoutdoorsmiledunevillagetackleaccessswapunablewire |  
+| bip_39_word_no_space_11 | dropoutdoorsmiledunevillagetackleaccessswapunablewiretide |  
+| bip_39_word_no_space_12 | dropoutdoorsmiledunevillagetackleaccessswapunablewiretideaffair |  
+| bip_39_word_no_space_2 | dropoutdoor |  
+| bip_39_word_no_space_3 | dropoutdoorsmile |  
+| bip_39_word_no_space_4 | dropoutdoorsmiledune |  
+| bip_39_word_no_space_5 | dropoutdoorsmiledunevillage |  
+| bip_39_word_no_space_6 | dropoutdoorsmiledunevillagetackle |  
+| bip_39_word_no_space_7 | dropoutdoorsmiledunevillagetackleaccess |  
+| bip_39_word_no_space_8 | dropoutdoorsmiledunevillagetackleaccessswap |  
+| bip_39_word_no_space_9 | dropoutdoorsmiledunevillagetackleaccessswapunable |  
 | bip_39_word_space_0 | ['drop', 'outdoor', 'smile', 'dune', 'village', 'tackle', 'access', 'swap', 'unable', 'wire', 'tide', 'affair'] |  
 | bip_39_word_space_1 | drop |  
 | bip_39_word_space_10 | drop outdoor smile dune village tackle access swap unable wire |  

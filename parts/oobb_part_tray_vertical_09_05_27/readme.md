@@ -122,6 +122,18 @@ around
 fiction
 pyramid
 erode |  
+| bip_39_word_no_space_1 | adjust |  
+| bip_39_word_no_space_10 | adjustbeachtrumpetsetupsockaroundfictionpyramiderodeleisure |  
+| bip_39_word_no_space_11 | adjustbeachtrumpetsetupsockaroundfictionpyramiderodeleisureinhale |  
+| bip_39_word_no_space_12 | adjustbeachtrumpetsetupsockaroundfictionpyramiderodeleisureinhalealien |  
+| bip_39_word_no_space_2 | adjustbeach |  
+| bip_39_word_no_space_3 | adjustbeachtrumpet |  
+| bip_39_word_no_space_4 | adjustbeachtrumpetsetup |  
+| bip_39_word_no_space_5 | adjustbeachtrumpetsetupsock |  
+| bip_39_word_no_space_6 | adjustbeachtrumpetsetupsockaround |  
+| bip_39_word_no_space_7 | adjustbeachtrumpetsetupsockaroundfiction |  
+| bip_39_word_no_space_8 | adjustbeachtrumpetsetupsockaroundfictionpyramid |  
+| bip_39_word_no_space_9 | adjustbeachtrumpetsetupsockaroundfictionpyramiderode |  
 | bip_39_word_space_0 | ['adjust', 'beach', 'trumpet', 'setup', 'sock', 'around', 'fiction', 'pyramid', 'erode', 'leisure', 'inhale', 'alien'] |  
 | bip_39_word_space_1 | adjust |  
 | bip_39_word_space_10 | adjust beach trumpet setup sock around fiction pyramid erode leisure |  

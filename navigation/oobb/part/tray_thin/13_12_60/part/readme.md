@@ -122,6 +122,18 @@ april
 dose
 rescue
 airport |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarhipricecitizenmoonaprildoserescueairportdonate |  
+| bip_39_word_no_space_11 | cigarhipricecitizenmoonaprildoserescueairportdonatesadness |  
+| bip_39_word_no_space_12 | cigarhipricecitizenmoonaprildoserescueairportdonatesadnessantique |  
+| bip_39_word_no_space_2 | cigarhip |  
+| bip_39_word_no_space_3 | cigarhiprice |  
+| bip_39_word_no_space_4 | cigarhipricecitizen |  
+| bip_39_word_no_space_5 | cigarhipricecitizenmoon |  
+| bip_39_word_no_space_6 | cigarhipricecitizenmoonapril |  
+| bip_39_word_no_space_7 | cigarhipricecitizenmoonaprildose |  
+| bip_39_word_no_space_8 | cigarhipricecitizenmoonaprildoserescue |  
+| bip_39_word_no_space_9 | cigarhipricecitizenmoonaprildoserescueairport |  
 | bip_39_word_space_0 | ['cigar', 'hip', 'rice', 'citizen', 'moon', 'april', 'dose', 'rescue', 'airport', 'donate', 'sadness', 'antique'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar hip rice citizen moon april dose rescue airport donate |  

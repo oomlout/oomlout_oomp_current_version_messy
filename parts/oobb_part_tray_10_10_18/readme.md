@@ -122,6 +122,18 @@ lunar
 unveil
 now
 wife |  
+| bip_39_word_no_space_1 | idea |  
+| bip_39_word_no_space_10 | ideaunawaredrumshortwristlunarunveilnowwifehawk |  
+| bip_39_word_no_space_11 | ideaunawaredrumshortwristlunarunveilnowwifehawkhorror |  
+| bip_39_word_no_space_12 | ideaunawaredrumshortwristlunarunveilnowwifehawkhorrorannual |  
+| bip_39_word_no_space_2 | ideaunaware |  
+| bip_39_word_no_space_3 | ideaunawaredrum |  
+| bip_39_word_no_space_4 | ideaunawaredrumshort |  
+| bip_39_word_no_space_5 | ideaunawaredrumshortwrist |  
+| bip_39_word_no_space_6 | ideaunawaredrumshortwristlunar |  
+| bip_39_word_no_space_7 | ideaunawaredrumshortwristlunarunveil |  
+| bip_39_word_no_space_8 | ideaunawaredrumshortwristlunarunveilnow |  
+| bip_39_word_no_space_9 | ideaunawaredrumshortwristlunarunveilnowwife |  
 | bip_39_word_space_0 | ['idea', 'unaware', 'drum', 'short', 'wrist', 'lunar', 'unveil', 'now', 'wife', 'hawk', 'horror', 'annual'] |  
 | bip_39_word_space_1 | idea |  
 | bip_39_word_space_10 | idea unaware drum short wrist lunar unveil now wife hawk |  

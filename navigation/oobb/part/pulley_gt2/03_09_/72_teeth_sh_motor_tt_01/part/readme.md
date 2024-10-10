@@ -122,6 +122,18 @@ indicate
 nose
 code
 advice |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkdescribehelmettastehugeindicatenosecodeadviceinflict |  
+| bip_39_word_no_space_11 | chalkdescribehelmettastehugeindicatenosecodeadviceinflictaverage |  
+| bip_39_word_no_space_12 | chalkdescribehelmettastehugeindicatenosecodeadviceinflictaverageamazing |  
+| bip_39_word_no_space_2 | chalkdescribe |  
+| bip_39_word_no_space_3 | chalkdescribehelmet |  
+| bip_39_word_no_space_4 | chalkdescribehelmettaste |  
+| bip_39_word_no_space_5 | chalkdescribehelmettastehuge |  
+| bip_39_word_no_space_6 | chalkdescribehelmettastehugeindicate |  
+| bip_39_word_no_space_7 | chalkdescribehelmettastehugeindicatenose |  
+| bip_39_word_no_space_8 | chalkdescribehelmettastehugeindicatenosecode |  
+| bip_39_word_no_space_9 | chalkdescribehelmettastehugeindicatenosecodeadvice |  
 | bip_39_word_space_0 | ['chalk', 'describe', 'helmet', 'taste', 'huge', 'indicate', 'nose', 'code', 'advice', 'inflict', 'average', 'amazing'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk describe helmet taste huge indicate nose code advice inflict |  

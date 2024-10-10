@@ -122,6 +122,18 @@ celery
 shy
 upper
 property |  
+| bip_39_word_no_space_1 | scout |  
+| bip_39_word_no_space_10 | scoutinsaneachieveacousticmorningceleryshyupperpropertymass |  
+| bip_39_word_no_space_11 | scoutinsaneachieveacousticmorningceleryshyupperpropertymassflower |  
+| bip_39_word_no_space_12 | scoutinsaneachieveacousticmorningceleryshyupperpropertymassflowerauction |  
+| bip_39_word_no_space_2 | scoutinsane |  
+| bip_39_word_no_space_3 | scoutinsaneachieve |  
+| bip_39_word_no_space_4 | scoutinsaneachieveacoustic |  
+| bip_39_word_no_space_5 | scoutinsaneachieveacousticmorning |  
+| bip_39_word_no_space_6 | scoutinsaneachieveacousticmorningcelery |  
+| bip_39_word_no_space_7 | scoutinsaneachieveacousticmorningceleryshy |  
+| bip_39_word_no_space_8 | scoutinsaneachieveacousticmorningceleryshyupper |  
+| bip_39_word_no_space_9 | scoutinsaneachieveacousticmorningceleryshyupperproperty |  
 | bip_39_word_space_0 | ['scout', 'insane', 'achieve', 'acoustic', 'morning', 'celery', 'shy', 'upper', 'property', 'mass', 'flower', 'auction'] |  
 | bip_39_word_space_1 | scout |  
 | bip_39_word_space_10 | scout insane achieve acoustic morning celery shy upper property mass |  

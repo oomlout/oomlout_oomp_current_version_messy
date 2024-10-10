@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'deal
   degree
 
   snow'
+bip_39_word_no_space_1: deal
+bip_39_word_no_space_10: dealalarmwhenopposeapartmeltisolatedegreesnowcoffee
+bip_39_word_no_space_11: dealalarmwhenopposeapartmeltisolatedegreesnowcoffeebadge
+bip_39_word_no_space_12: dealalarmwhenopposeapartmeltisolatedegreesnowcoffeebadgeatom
+bip_39_word_no_space_2: dealalarm
+bip_39_word_no_space_3: dealalarmwhen
+bip_39_word_no_space_4: dealalarmwhenoppose
+bip_39_word_no_space_5: dealalarmwhenopposeapart
+bip_39_word_no_space_6: dealalarmwhenopposeapartmelt
+bip_39_word_no_space_7: dealalarmwhenopposeapartmeltisolate
+bip_39_word_no_space_8: dealalarmwhenopposeapartmeltisolatedegree
+bip_39_word_no_space_9: dealalarmwhenopposeapartmeltisolatedegreesnow
 bip_39_word_space_0:
 - deal
 - alarm

@@ -122,6 +122,18 @@ claim
 shove
 toast
 runway |  
+| bip_39_word_no_space_1 | gaze |  
+| bip_39_word_no_space_10 | gazespatialtoddlertagbrassclaimshovetoastrunwaytrumpet |  
+| bip_39_word_no_space_11 | gazespatialtoddlertagbrassclaimshovetoastrunwaytrumpetpoem |  
+| bip_39_word_no_space_12 | gazespatialtoddlertagbrassclaimshovetoastrunwaytrumpetpoemathlete |  
+| bip_39_word_no_space_2 | gazespatial |  
+| bip_39_word_no_space_3 | gazespatialtoddler |  
+| bip_39_word_no_space_4 | gazespatialtoddlertag |  
+| bip_39_word_no_space_5 | gazespatialtoddlertagbrass |  
+| bip_39_word_no_space_6 | gazespatialtoddlertagbrassclaim |  
+| bip_39_word_no_space_7 | gazespatialtoddlertagbrassclaimshove |  
+| bip_39_word_no_space_8 | gazespatialtoddlertagbrassclaimshovetoast |  
+| bip_39_word_no_space_9 | gazespatialtoddlertagbrassclaimshovetoastrunway |  
 | bip_39_word_space_0 | ['gaze', 'spatial', 'toddler', 'tag', 'brass', 'claim', 'shove', 'toast', 'runway', 'trumpet', 'poem', 'athlete'] |  
 | bip_39_word_space_1 | gaze |  
 | bip_39_word_space_10 | gaze spatial toddler tag brass claim shove toast runway trumpet |  

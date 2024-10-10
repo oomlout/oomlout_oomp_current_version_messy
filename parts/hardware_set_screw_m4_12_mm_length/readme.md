@@ -122,6 +122,18 @@ tragic
 build
 distance
 grocery |  
+| bip_39_word_no_space_1 | face |  
+| bip_39_word_no_space_10 | facebidenergyantennateachtragicbuilddistancegroceryhint |  
+| bip_39_word_no_space_11 | facebidenergyantennateachtragicbuilddistancegroceryhintdevelop |  
+| bip_39_word_no_space_12 | facebidenergyantennateachtragicbuilddistancegroceryhintdeveloparea |  
+| bip_39_word_no_space_2 | facebid |  
+| bip_39_word_no_space_3 | facebidenergy |  
+| bip_39_word_no_space_4 | facebidenergyantenna |  
+| bip_39_word_no_space_5 | facebidenergyantennateach |  
+| bip_39_word_no_space_6 | facebidenergyantennateachtragic |  
+| bip_39_word_no_space_7 | facebidenergyantennateachtragicbuild |  
+| bip_39_word_no_space_8 | facebidenergyantennateachtragicbuilddistance |  
+| bip_39_word_no_space_9 | facebidenergyantennateachtragicbuilddistancegrocery |  
 | bip_39_word_space_0 | ['face', 'bid', 'energy', 'antenna', 'teach', 'tragic', 'build', 'distance', 'grocery', 'hint', 'develop', 'area'] |  
 | bip_39_word_space_1 | face |  
 | bip_39_word_space_10 | face bid energy antenna teach tragic build distance grocery hint |  

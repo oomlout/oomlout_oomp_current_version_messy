@@ -122,6 +122,18 @@ crew
 note
 muffin
 worry |  
+| bip_39_word_no_space_1 | shine |  
+| bip_39_word_no_space_10 | shinemakeostrichfamilysockcrewnotemuffinworrytrap |  
+| bip_39_word_no_space_11 | shinemakeostrichfamilysockcrewnotemuffinworrytrapgrant |  
+| bip_39_word_no_space_12 | shinemakeostrichfamilysockcrewnotemuffinworrytrapgrantarrange |  
+| bip_39_word_no_space_2 | shinemake |  
+| bip_39_word_no_space_3 | shinemakeostrich |  
+| bip_39_word_no_space_4 | shinemakeostrichfamily |  
+| bip_39_word_no_space_5 | shinemakeostrichfamilysock |  
+| bip_39_word_no_space_6 | shinemakeostrichfamilysockcrew |  
+| bip_39_word_no_space_7 | shinemakeostrichfamilysockcrewnote |  
+| bip_39_word_no_space_8 | shinemakeostrichfamilysockcrewnotemuffin |  
+| bip_39_word_no_space_9 | shinemakeostrichfamilysockcrewnotemuffinworry |  
 | bip_39_word_space_0 | ['shine', 'make', 'ostrich', 'family', 'sock', 'crew', 'note', 'muffin', 'worry', 'trap', 'grant', 'arrange'] |  
 | bip_39_word_space_1 | shine |  
 | bip_39_word_space_10 | shine make ostrich family sock crew note muffin worry trap |  

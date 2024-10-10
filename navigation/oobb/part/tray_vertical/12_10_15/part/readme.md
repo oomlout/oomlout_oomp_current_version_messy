@@ -122,6 +122,18 @@ clay
 civil
 unhappy
 check |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | tryalmostdistancesamplesauceclaycivilunhappycheckaccount |  
+| bip_39_word_no_space_11 | tryalmostdistancesamplesauceclaycivilunhappycheckaccountproperty |  
+| bip_39_word_no_space_12 | tryalmostdistancesamplesauceclaycivilunhappycheckaccountpropertyarm |  
+| bip_39_word_no_space_2 | tryalmost |  
+| bip_39_word_no_space_3 | tryalmostdistance |  
+| bip_39_word_no_space_4 | tryalmostdistancesample |  
+| bip_39_word_no_space_5 | tryalmostdistancesamplesauce |  
+| bip_39_word_no_space_6 | tryalmostdistancesamplesauceclay |  
+| bip_39_word_no_space_7 | tryalmostdistancesamplesauceclaycivil |  
+| bip_39_word_no_space_8 | tryalmostdistancesamplesauceclaycivilunhappy |  
+| bip_39_word_no_space_9 | tryalmostdistancesamplesauceclaycivilunhappycheck |  
 | bip_39_word_space_0 | ['try', 'almost', 'distance', 'sample', 'sauce', 'clay', 'civil', 'unhappy', 'check', 'account', 'property', 'arm'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try almost distance sample sauce clay civil unhappy check account |  

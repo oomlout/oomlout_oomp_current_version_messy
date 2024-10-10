@@ -122,6 +122,18 @@ verify
 retreat
 february
 badge |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentwastepatroloxygeneagerverifyretreatfebruarybadgepublic |  
+| bip_39_word_no_space_11 | silentwastepatroloxygeneagerverifyretreatfebruarybadgepublicvolume |  
+| bip_39_word_no_space_12 | silentwastepatroloxygeneagerverifyretreatfebruarybadgepublicvolumearch |  
+| bip_39_word_no_space_2 | silentwaste |  
+| bip_39_word_no_space_3 | silentwastepatrol |  
+| bip_39_word_no_space_4 | silentwastepatroloxygen |  
+| bip_39_word_no_space_5 | silentwastepatroloxygeneager |  
+| bip_39_word_no_space_6 | silentwastepatroloxygeneagerverify |  
+| bip_39_word_no_space_7 | silentwastepatroloxygeneagerverifyretreat |  
+| bip_39_word_no_space_8 | silentwastepatroloxygeneagerverifyretreatfebruary |  
+| bip_39_word_no_space_9 | silentwastepatroloxygeneagerverifyretreatfebruarybadge |  
 | bip_39_word_space_0 | ['silent', 'waste', 'patrol', 'oxygen', 'eager', 'verify', 'retreat', 'february', 'badge', 'public', 'volume', 'arch'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent waste patrol oxygen eager verify retreat february badge public |  

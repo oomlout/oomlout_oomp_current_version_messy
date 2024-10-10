@@ -122,6 +122,18 @@ crop
 put
 project
 slim |  
+| bip_39_word_no_space_1 | light |  
+| bip_39_word_no_space_10 | lightguardpredictdepartsoftcropputprojectslimcoral |  
+| bip_39_word_no_space_11 | lightguardpredictdepartsoftcropputprojectslimcoralelegant |  
+| bip_39_word_no_space_12 | lightguardpredictdepartsoftcropputprojectslimcoralelegantadd |  
+| bip_39_word_no_space_2 | lightguard |  
+| bip_39_word_no_space_3 | lightguardpredict |  
+| bip_39_word_no_space_4 | lightguardpredictdepart |  
+| bip_39_word_no_space_5 | lightguardpredictdepartsoft |  
+| bip_39_word_no_space_6 | lightguardpredictdepartsoftcrop |  
+| bip_39_word_no_space_7 | lightguardpredictdepartsoftcropput |  
+| bip_39_word_no_space_8 | lightguardpredictdepartsoftcropputproject |  
+| bip_39_word_no_space_9 | lightguardpredictdepartsoftcropputprojectslim |  
 | bip_39_word_space_0 | ['light', 'guard', 'predict', 'depart', 'soft', 'crop', 'put', 'project', 'slim', 'coral', 'elegant', 'add'] |  
 | bip_39_word_space_1 | light |  
 | bip_39_word_space_10 | light guard predict depart soft crop put project slim coral |  

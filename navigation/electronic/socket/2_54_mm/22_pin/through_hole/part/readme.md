@@ -122,6 +122,18 @@ olympic
 shy
 decade
 great |  
+| bip_39_word_no_space_1 | bag |  
+| bip_39_word_no_space_10 | bagloanpilotoutdoorgownolympicshydecadegreatseminar |  
+| bip_39_word_no_space_11 | bagloanpilotoutdoorgownolympicshydecadegreatseminarbuyer |  
+| bip_39_word_no_space_12 | bagloanpilotoutdoorgownolympicshydecadegreatseminarbuyeraudit |  
+| bip_39_word_no_space_2 | bagloan |  
+| bip_39_word_no_space_3 | bagloanpilot |  
+| bip_39_word_no_space_4 | bagloanpilotoutdoor |  
+| bip_39_word_no_space_5 | bagloanpilotoutdoorgown |  
+| bip_39_word_no_space_6 | bagloanpilotoutdoorgownolympic |  
+| bip_39_word_no_space_7 | bagloanpilotoutdoorgownolympicshy |  
+| bip_39_word_no_space_8 | bagloanpilotoutdoorgownolympicshydecade |  
+| bip_39_word_no_space_9 | bagloanpilotoutdoorgownolympicshydecadegreat |  
 | bip_39_word_space_0 | ['bag', 'loan', 'pilot', 'outdoor', 'gown', 'olympic', 'shy', 'decade', 'great', 'seminar', 'buyer', 'audit'] |  
 | bip_39_word_space_1 | bag |  
 | bip_39_word_space_10 | bag loan pilot outdoor gown olympic shy decade great seminar |  

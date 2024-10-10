@@ -122,6 +122,18 @@ begin
 pretty
 save
 subway |  
+| bip_39_word_no_space_1 | clutch |  
+| bip_39_word_no_space_10 | clutchpizzadilemmageneralremainbeginprettysavesubwayessay |  
+| bip_39_word_no_space_11 | clutchpizzadilemmageneralremainbeginprettysavesubwayessayclub |  
+| bip_39_word_no_space_12 | clutchpizzadilemmageneralremainbeginprettysavesubwayessayclubantique |  
+| bip_39_word_no_space_2 | clutchpizza |  
+| bip_39_word_no_space_3 | clutchpizzadilemma |  
+| bip_39_word_no_space_4 | clutchpizzadilemmageneral |  
+| bip_39_word_no_space_5 | clutchpizzadilemmageneralremain |  
+| bip_39_word_no_space_6 | clutchpizzadilemmageneralremainbegin |  
+| bip_39_word_no_space_7 | clutchpizzadilemmageneralremainbeginpretty |  
+| bip_39_word_no_space_8 | clutchpizzadilemmageneralremainbeginprettysave |  
+| bip_39_word_no_space_9 | clutchpizzadilemmageneralremainbeginprettysavesubway |  
 | bip_39_word_space_0 | ['clutch', 'pizza', 'dilemma', 'general', 'remain', 'begin', 'pretty', 'save', 'subway', 'essay', 'club', 'antique'] |  
 | bip_39_word_space_1 | clutch |  
 | bip_39_word_space_10 | clutch pizza dilemma general remain begin pretty save subway essay |  

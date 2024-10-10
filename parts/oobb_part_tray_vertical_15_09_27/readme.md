@@ -122,6 +122,18 @@ aware
 valley
 strong
 virtual |  
+| bip_39_word_no_space_1 | explain |  
+| bip_39_word_no_space_10 | explainfamousflatmarinevoiceawarevalleystrongvirtualbudget |  
+| bip_39_word_no_space_11 | explainfamousflatmarinevoiceawarevalleystrongvirtualbudgetspeed |  
+| bip_39_word_no_space_12 | explainfamousflatmarinevoiceawarevalleystrongvirtualbudgetspeedathlete |  
+| bip_39_word_no_space_2 | explainfamous |  
+| bip_39_word_no_space_3 | explainfamousflat |  
+| bip_39_word_no_space_4 | explainfamousflatmarine |  
+| bip_39_word_no_space_5 | explainfamousflatmarinevoice |  
+| bip_39_word_no_space_6 | explainfamousflatmarinevoiceaware |  
+| bip_39_word_no_space_7 | explainfamousflatmarinevoiceawarevalley |  
+| bip_39_word_no_space_8 | explainfamousflatmarinevoiceawarevalleystrong |  
+| bip_39_word_no_space_9 | explainfamousflatmarinevoiceawarevalleystrongvirtual |  
 | bip_39_word_space_0 | ['explain', 'famous', 'flat', 'marine', 'voice', 'aware', 'valley', 'strong', 'virtual', 'budget', 'speed', 'athlete'] |  
 | bip_39_word_space_1 | explain |  
 | bip_39_word_space_10 | explain famous flat marine voice aware valley strong virtual budget |  

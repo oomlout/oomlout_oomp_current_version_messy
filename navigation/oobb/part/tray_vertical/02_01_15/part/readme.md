@@ -122,6 +122,18 @@ glad
 patch
 arrange
 install |  
+| bip_39_word_no_space_1 | fly |  
+| bip_39_word_no_space_10 | flygoatpalmsuddenbalconygladpatcharrangeinstallcrime |  
+| bip_39_word_no_space_11 | flygoatpalmsuddenbalconygladpatcharrangeinstallcrimeswap |  
+| bip_39_word_no_space_12 | flygoatpalmsuddenbalconygladpatcharrangeinstallcrimeswapafraid |  
+| bip_39_word_no_space_2 | flygoat |  
+| bip_39_word_no_space_3 | flygoatpalm |  
+| bip_39_word_no_space_4 | flygoatpalmsudden |  
+| bip_39_word_no_space_5 | flygoatpalmsuddenbalcony |  
+| bip_39_word_no_space_6 | flygoatpalmsuddenbalconyglad |  
+| bip_39_word_no_space_7 | flygoatpalmsuddenbalconygladpatch |  
+| bip_39_word_no_space_8 | flygoatpalmsuddenbalconygladpatcharrange |  
+| bip_39_word_no_space_9 | flygoatpalmsuddenbalconygladpatcharrangeinstall |  
 | bip_39_word_space_0 | ['fly', 'goat', 'palm', 'sudden', 'balcony', 'glad', 'patch', 'arrange', 'install', 'crime', 'swap', 'afraid'] |  
 | bip_39_word_space_1 | fly |  
 | bip_39_word_space_10 | fly goat palm sudden balcony glad patch arrange install crime |  

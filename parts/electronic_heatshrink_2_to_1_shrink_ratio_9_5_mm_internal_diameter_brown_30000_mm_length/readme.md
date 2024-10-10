@@ -122,6 +122,18 @@ crime
 demand
 rely
 number |  
+| bip_39_word_no_space_1 | fury |  
+| bip_39_word_no_space_10 | furyelephantstruggledizzydiffercrimedemandrelynumbercherry |  
+| bip_39_word_no_space_11 | furyelephantstruggledizzydiffercrimedemandrelynumbercherrylamp |  
+| bip_39_word_no_space_12 | furyelephantstruggledizzydiffercrimedemandrelynumbercherrylampalmost |  
+| bip_39_word_no_space_2 | furyelephant |  
+| bip_39_word_no_space_3 | furyelephantstruggle |  
+| bip_39_word_no_space_4 | furyelephantstruggledizzy |  
+| bip_39_word_no_space_5 | furyelephantstruggledizzydiffer |  
+| bip_39_word_no_space_6 | furyelephantstruggledizzydiffercrime |  
+| bip_39_word_no_space_7 | furyelephantstruggledizzydiffercrimedemand |  
+| bip_39_word_no_space_8 | furyelephantstruggledizzydiffercrimedemandrely |  
+| bip_39_word_no_space_9 | furyelephantstruggledizzydiffercrimedemandrelynumber |  
 | bip_39_word_space_0 | ['fury', 'elephant', 'struggle', 'dizzy', 'differ', 'crime', 'demand', 'rely', 'number', 'cherry', 'lamp', 'almost'] |  
 | bip_39_word_space_1 | fury |  
 | bip_39_word_space_10 | fury elephant struggle dizzy differ crime demand rely number cherry |  

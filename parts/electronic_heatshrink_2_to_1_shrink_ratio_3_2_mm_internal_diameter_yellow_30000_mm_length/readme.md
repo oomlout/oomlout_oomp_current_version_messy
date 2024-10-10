@@ -122,6 +122,18 @@ immense
 usage
 later
 include |  
+| bip_39_word_no_space_1 | wink |  
+| bip_39_word_no_space_10 | winksailrecycleitemusageimmenseusagelaterincludecover |  
+| bip_39_word_no_space_11 | winksailrecycleitemusageimmenseusagelaterincludecovergesture |  
+| bip_39_word_no_space_12 | winksailrecycleitemusageimmenseusagelaterincludecovergestureabsent |  
+| bip_39_word_no_space_2 | winksail |  
+| bip_39_word_no_space_3 | winksailrecycle |  
+| bip_39_word_no_space_4 | winksailrecycleitem |  
+| bip_39_word_no_space_5 | winksailrecycleitemusage |  
+| bip_39_word_no_space_6 | winksailrecycleitemusageimmense |  
+| bip_39_word_no_space_7 | winksailrecycleitemusageimmenseusage |  
+| bip_39_word_no_space_8 | winksailrecycleitemusageimmenseusagelater |  
+| bip_39_word_no_space_9 | winksailrecycleitemusageimmenseusagelaterinclude |  
 | bip_39_word_space_0 | ['wink', 'sail', 'recycle', 'item', 'usage', 'immense', 'usage', 'later', 'include', 'cover', 'gesture', 'absent'] |  
 | bip_39_word_space_1 | wink |  
 | bip_39_word_space_10 | wink sail recycle item usage immense usage later include cover |  

@@ -122,6 +122,18 @@ traffic
 hard
 digital
 shrimp |  
+| bip_39_word_no_space_1 | vehicle |  
+| bip_39_word_no_space_10 | vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrime |  
+| bip_39_word_no_space_11 | vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrimerecycle |  
+| bip_39_word_no_space_12 | vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrimerecyclealbum |  
+| bip_39_word_no_space_2 | vehiclespawn |  
+| bip_39_word_no_space_3 | vehiclespawnsnap |  
+| bip_39_word_no_space_4 | vehiclespawnsnaphidden |  
+| bip_39_word_no_space_5 | vehiclespawnsnaphiddenpractice |  
+| bip_39_word_no_space_6 | vehiclespawnsnaphiddenpracticetraffic |  
+| bip_39_word_no_space_7 | vehiclespawnsnaphiddenpracticetraffichard |  
+| bip_39_word_no_space_8 | vehiclespawnsnaphiddenpracticetrafficharddigital |  
+| bip_39_word_no_space_9 | vehiclespawnsnaphiddenpracticetrafficharddigitalshrimp |  
 | bip_39_word_space_0 | ['vehicle', 'spawn', 'snap', 'hidden', 'practice', 'traffic', 'hard', 'digital', 'shrimp', 'crime', 'recycle', 'album'] |  
 | bip_39_word_space_1 | vehicle |  
 | bip_39_word_space_10 | vehicle spawn snap hidden practice traffic hard digital shrimp crime |  

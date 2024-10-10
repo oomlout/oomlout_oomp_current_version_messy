@@ -122,6 +122,18 @@ intact
 advice
 awkward
 clog |  
+| bip_39_word_no_space_1 | glove |  
+| bip_39_word_no_space_10 | glovevaporfoldroyaldashintactadviceawkwardclogzoo |  
+| bip_39_word_no_space_11 | glovevaporfoldroyaldashintactadviceawkwardclogzooblade |  
+| bip_39_word_no_space_12 | glovevaporfoldroyaldashintactadviceawkwardclogzoobladeapart |  
+| bip_39_word_no_space_2 | glovevapor |  
+| bip_39_word_no_space_3 | glovevaporfold |  
+| bip_39_word_no_space_4 | glovevaporfoldroyal |  
+| bip_39_word_no_space_5 | glovevaporfoldroyaldash |  
+| bip_39_word_no_space_6 | glovevaporfoldroyaldashintact |  
+| bip_39_word_no_space_7 | glovevaporfoldroyaldashintactadvice |  
+| bip_39_word_no_space_8 | glovevaporfoldroyaldashintactadviceawkward |  
+| bip_39_word_no_space_9 | glovevaporfoldroyaldashintactadviceawkwardclog |  
 | bip_39_word_space_0 | ['glove', 'vapor', 'fold', 'royal', 'dash', 'intact', 'advice', 'awkward', 'clog', 'zoo', 'blade', 'apart'] |  
 | bip_39_word_space_1 | glove |  
 | bip_39_word_space_10 | glove vapor fold royal dash intact advice awkward clog zoo |  

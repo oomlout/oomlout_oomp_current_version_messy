@@ -122,6 +122,18 @@ tone
 ozone
 romance
 math |  
+| bip_39_word_no_space_1 | typical |  
+| bip_39_word_no_space_10 | typicaldrasticartistinquirysunsettoneozoneromancemathcouple |  
+| bip_39_word_no_space_11 | typicaldrasticartistinquirysunsettoneozoneromancemathcoupledumb |  
+| bip_39_word_no_space_12 | typicaldrasticartistinquirysunsettoneozoneromancemathcoupledumbalpha |  
+| bip_39_word_no_space_2 | typicaldrastic |  
+| bip_39_word_no_space_3 | typicaldrasticartist |  
+| bip_39_word_no_space_4 | typicaldrasticartistinquiry |  
+| bip_39_word_no_space_5 | typicaldrasticartistinquirysunset |  
+| bip_39_word_no_space_6 | typicaldrasticartistinquirysunsettone |  
+| bip_39_word_no_space_7 | typicaldrasticartistinquirysunsettoneozone |  
+| bip_39_word_no_space_8 | typicaldrasticartistinquirysunsettoneozoneromance |  
+| bip_39_word_no_space_9 | typicaldrasticartistinquirysunsettoneozoneromancemath |  
 | bip_39_word_space_0 | ['typical', 'drastic', 'artist', 'inquiry', 'sunset', 'tone', 'ozone', 'romance', 'math', 'couple', 'dumb', 'alpha'] |  
 | bip_39_word_space_1 | typical |  
 | bip_39_word_space_10 | typical drastic artist inquiry sunset tone ozone romance math couple |  

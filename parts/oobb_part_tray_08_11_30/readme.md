@@ -122,6 +122,18 @@ saddle
 absent
 primary
 flush |  
+| bip_39_word_no_space_1 | swing |  
+| bip_39_word_no_space_10 | swingcapitaldrasticsentenceidentifysaddleabsentprimaryflushturtle |  
+| bip_39_word_no_space_11 | swingcapitaldrasticsentenceidentifysaddleabsentprimaryflushturtlebelt |  
+| bip_39_word_no_space_12 | swingcapitaldrasticsentenceidentifysaddleabsentprimaryflushturtlebeltalley |  
+| bip_39_word_no_space_2 | swingcapital |  
+| bip_39_word_no_space_3 | swingcapitaldrastic |  
+| bip_39_word_no_space_4 | swingcapitaldrasticsentence |  
+| bip_39_word_no_space_5 | swingcapitaldrasticsentenceidentify |  
+| bip_39_word_no_space_6 | swingcapitaldrasticsentenceidentifysaddle |  
+| bip_39_word_no_space_7 | swingcapitaldrasticsentenceidentifysaddleabsent |  
+| bip_39_word_no_space_8 | swingcapitaldrasticsentenceidentifysaddleabsentprimary |  
+| bip_39_word_no_space_9 | swingcapitaldrasticsentenceidentifysaddleabsentprimaryflush |  
 | bip_39_word_space_0 | ['swing', 'capital', 'drastic', 'sentence', 'identify', 'saddle', 'absent', 'primary', 'flush', 'turtle', 'belt', 'alley'] |  
 | bip_39_word_space_1 | swing |  
 | bip_39_word_space_10 | swing capital drastic sentence identify saddle absent primary flush turtle |  

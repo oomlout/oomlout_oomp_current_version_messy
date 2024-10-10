@@ -122,6 +122,18 @@ twin
 spend
 detail
 dance |  
+| bip_39_word_no_space_1 | minimum |  
+| bip_39_word_no_space_10 | minimumantiquescreenpaymenturbantwinspenddetaildancegospel |  
+| bip_39_word_no_space_11 | minimumantiquescreenpaymenturbantwinspenddetaildancegospelexercise |  
+| bip_39_word_no_space_12 | minimumantiquescreenpaymenturbantwinspenddetaildancegospelexercisealley |  
+| bip_39_word_no_space_2 | minimumantique |  
+| bip_39_word_no_space_3 | minimumantiquescreen |  
+| bip_39_word_no_space_4 | minimumantiquescreenpayment |  
+| bip_39_word_no_space_5 | minimumantiquescreenpaymenturban |  
+| bip_39_word_no_space_6 | minimumantiquescreenpaymenturbantwin |  
+| bip_39_word_no_space_7 | minimumantiquescreenpaymenturbantwinspend |  
+| bip_39_word_no_space_8 | minimumantiquescreenpaymenturbantwinspenddetail |  
+| bip_39_word_no_space_9 | minimumantiquescreenpaymenturbantwinspenddetaildance |  
 | bip_39_word_space_0 | ['minimum', 'antique', 'screen', 'payment', 'urban', 'twin', 'spend', 'detail', 'dance', 'gospel', 'exercise', 'alley'] |  
 | bip_39_word_space_1 | minimum |  
 | bip_39_word_space_10 | minimum antique screen payment urban twin spend detail dance gospel |  

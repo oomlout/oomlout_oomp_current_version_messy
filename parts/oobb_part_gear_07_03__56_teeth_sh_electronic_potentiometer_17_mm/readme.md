@@ -122,6 +122,18 @@ model
 wrist
 lock
 lesson |  
+| bip_39_word_no_space_1 | embark |  
+| bip_39_word_no_space_10 | embarkgreatcaughtimitatemanualmodelwristlocklessondefense |  
+| bip_39_word_no_space_11 | embarkgreatcaughtimitatemanualmodelwristlocklessondefensetask |  
+| bip_39_word_no_space_12 | embarkgreatcaughtimitatemanualmodelwristlocklessondefensetaskaction |  
+| bip_39_word_no_space_2 | embarkgreat |  
+| bip_39_word_no_space_3 | embarkgreatcaught |  
+| bip_39_word_no_space_4 | embarkgreatcaughtimitate |  
+| bip_39_word_no_space_5 | embarkgreatcaughtimitatemanual |  
+| bip_39_word_no_space_6 | embarkgreatcaughtimitatemanualmodel |  
+| bip_39_word_no_space_7 | embarkgreatcaughtimitatemanualmodelwrist |  
+| bip_39_word_no_space_8 | embarkgreatcaughtimitatemanualmodelwristlock |  
+| bip_39_word_no_space_9 | embarkgreatcaughtimitatemanualmodelwristlocklesson |  
 | bip_39_word_space_0 | ['embark', 'great', 'caught', 'imitate', 'manual', 'model', 'wrist', 'lock', 'lesson', 'defense', 'task', 'action'] |  
 | bip_39_word_space_1 | embark |  
 | bip_39_word_space_10 | embark great caught imitate manual model wrist lock lesson defense |  

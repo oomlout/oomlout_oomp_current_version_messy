@@ -122,6 +122,18 @@ equip
 walnut
 wealth
 identify |  
+| bip_39_word_no_space_1 | nation |  
+| bip_39_word_no_space_10 | nationobjectawfulozonemodifyequipwalnutwealthidentifyescape |  
+| bip_39_word_no_space_11 | nationobjectawfulozonemodifyequipwalnutwealthidentifyescapepermit |  
+| bip_39_word_no_space_12 | nationobjectawfulozonemodifyequipwalnutwealthidentifyescapepermitact |  
+| bip_39_word_no_space_2 | nationobject |  
+| bip_39_word_no_space_3 | nationobjectawful |  
+| bip_39_word_no_space_4 | nationobjectawfulozone |  
+| bip_39_word_no_space_5 | nationobjectawfulozonemodify |  
+| bip_39_word_no_space_6 | nationobjectawfulozonemodifyequip |  
+| bip_39_word_no_space_7 | nationobjectawfulozonemodifyequipwalnut |  
+| bip_39_word_no_space_8 | nationobjectawfulozonemodifyequipwalnutwealth |  
+| bip_39_word_no_space_9 | nationobjectawfulozonemodifyequipwalnutwealthidentify |  
 | bip_39_word_space_0 | ['nation', 'object', 'awful', 'ozone', 'modify', 'equip', 'walnut', 'wealth', 'identify', 'escape', 'permit', 'act'] |  
 | bip_39_word_space_1 | nation |  
 | bip_39_word_space_10 | nation object awful ozone modify equip walnut wealth identify escape |  

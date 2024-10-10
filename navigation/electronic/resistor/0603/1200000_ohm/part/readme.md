@@ -122,6 +122,18 @@ bright
 food
 soccer
 picnic |  
+| bip_39_word_no_space_1 | picture |  
+| bip_39_word_no_space_10 | picturemeasurecorrectchangeoxygenbrightfoodsoccerpicniclove |  
+| bip_39_word_no_space_11 | picturemeasurecorrectchangeoxygenbrightfoodsoccerpicniclovegrass |  
+| bip_39_word_no_space_12 | picturemeasurecorrectchangeoxygenbrightfoodsoccerpicniclovegrassart |  
+| bip_39_word_no_space_2 | picturemeasure |  
+| bip_39_word_no_space_3 | picturemeasurecorrect |  
+| bip_39_word_no_space_4 | picturemeasurecorrectchange |  
+| bip_39_word_no_space_5 | picturemeasurecorrectchangeoxygen |  
+| bip_39_word_no_space_6 | picturemeasurecorrectchangeoxygenbright |  
+| bip_39_word_no_space_7 | picturemeasurecorrectchangeoxygenbrightfood |  
+| bip_39_word_no_space_8 | picturemeasurecorrectchangeoxygenbrightfoodsoccer |  
+| bip_39_word_no_space_9 | picturemeasurecorrectchangeoxygenbrightfoodsoccerpicnic |  
 | bip_39_word_space_0 | ['picture', 'measure', 'correct', 'change', 'oxygen', 'bright', 'food', 'soccer', 'picnic', 'love', 'grass', 'art'] |  
 | bip_39_word_space_1 | picture |  
 | bip_39_word_space_10 | picture measure correct change oxygen bright food soccer picnic love |  

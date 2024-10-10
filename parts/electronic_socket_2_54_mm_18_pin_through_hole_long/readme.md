@@ -122,6 +122,18 @@ motion
 session
 goose
 force |  
+| bip_39_word_no_space_1 | lock |  
+| bip_39_word_no_space_10 | lockcageenjoypistolanalystmotionsessiongooseforcefoot |  
+| bip_39_word_no_space_11 | lockcageenjoypistolanalystmotionsessiongooseforcefootsorry |  
+| bip_39_word_no_space_12 | lockcageenjoypistolanalystmotionsessiongooseforcefootsorryabuse |  
+| bip_39_word_no_space_2 | lockcage |  
+| bip_39_word_no_space_3 | lockcageenjoy |  
+| bip_39_word_no_space_4 | lockcageenjoypistol |  
+| bip_39_word_no_space_5 | lockcageenjoypistolanalyst |  
+| bip_39_word_no_space_6 | lockcageenjoypistolanalystmotion |  
+| bip_39_word_no_space_7 | lockcageenjoypistolanalystmotionsession |  
+| bip_39_word_no_space_8 | lockcageenjoypistolanalystmotionsessiongoose |  
+| bip_39_word_no_space_9 | lockcageenjoypistolanalystmotionsessiongooseforce |  
 | bip_39_word_space_0 | ['lock', 'cage', 'enjoy', 'pistol', 'analyst', 'motion', 'session', 'goose', 'force', 'foot', 'sorry', 'abuse'] |  
 | bip_39_word_space_1 | lock |  
 | bip_39_word_space_10 | lock cage enjoy pistol analyst motion session goose force foot |  

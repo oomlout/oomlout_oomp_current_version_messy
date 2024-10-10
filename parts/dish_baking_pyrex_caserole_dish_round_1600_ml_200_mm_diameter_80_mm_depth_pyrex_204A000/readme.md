@@ -122,6 +122,18 @@ spray
 swear
 upgrade
 rent |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiquewarrioraddictstartpricesprayswearupgraderentmobile |  
+| bip_39_word_no_space_11 | antiquewarrioraddictstartpricesprayswearupgraderentmobilequestion |  
+| bip_39_word_no_space_12 | antiquewarrioraddictstartpricesprayswearupgraderentmobilequestionaddress |  
+| bip_39_word_no_space_2 | antiquewarrior |  
+| bip_39_word_no_space_3 | antiquewarrioraddict |  
+| bip_39_word_no_space_4 | antiquewarrioraddictstart |  
+| bip_39_word_no_space_5 | antiquewarrioraddictstartprice |  
+| bip_39_word_no_space_6 | antiquewarrioraddictstartpricespray |  
+| bip_39_word_no_space_7 | antiquewarrioraddictstartpricesprayswear |  
+| bip_39_word_no_space_8 | antiquewarrioraddictstartpricesprayswearupgrade |  
+| bip_39_word_no_space_9 | antiquewarrioraddictstartpricesprayswearupgraderent |  
 | bip_39_word_space_0 | ['antique', 'warrior', 'addict', 'start', 'price', 'spray', 'swear', 'upgrade', 'rent', 'mobile', 'question', 'address'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique warrior addict start price spray swear upgrade rent mobile |  

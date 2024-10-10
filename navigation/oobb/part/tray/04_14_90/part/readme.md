@@ -122,6 +122,18 @@ enjoy
 daring
 dawn
 shallow |  
+| bip_39_word_no_space_1 | bind |  
+| bip_39_word_no_space_10 | bindunhappymountainbulbmiseryenjoydaringdawnshallowdecline |  
+| bip_39_word_no_space_11 | bindunhappymountainbulbmiseryenjoydaringdawnshallowdeclinevelvet |  
+| bip_39_word_no_space_12 | bindunhappymountainbulbmiseryenjoydaringdawnshallowdeclinevelvetaffair |  
+| bip_39_word_no_space_2 | bindunhappy |  
+| bip_39_word_no_space_3 | bindunhappymountain |  
+| bip_39_word_no_space_4 | bindunhappymountainbulb |  
+| bip_39_word_no_space_5 | bindunhappymountainbulbmisery |  
+| bip_39_word_no_space_6 | bindunhappymountainbulbmiseryenjoy |  
+| bip_39_word_no_space_7 | bindunhappymountainbulbmiseryenjoydaring |  
+| bip_39_word_no_space_8 | bindunhappymountainbulbmiseryenjoydaringdawn |  
+| bip_39_word_no_space_9 | bindunhappymountainbulbmiseryenjoydaringdawnshallow |  
 | bip_39_word_space_0 | ['bind', 'unhappy', 'mountain', 'bulb', 'misery', 'enjoy', 'daring', 'dawn', 'shallow', 'decline', 'velvet', 'affair'] |  
 | bip_39_word_space_1 | bind |  
 | bip_39_word_space_10 | bind unhappy mountain bulb misery enjoy daring dawn shallow decline |  

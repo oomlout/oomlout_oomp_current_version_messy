@@ -122,6 +122,18 @@ husband
 kingdom
 ice
 nose |  
+| bip_39_word_no_space_1 | boss |  
+| bip_39_word_no_space_10 | bossdisplayfuelartworkartworkhusbandkingdomicenosebuffalo |  
+| bip_39_word_no_space_11 | bossdisplayfuelartworkartworkhusbandkingdomicenosebuffalocup |  
+| bip_39_word_no_space_12 | bossdisplayfuelartworkartworkhusbandkingdomicenosebuffalocuparctic |  
+| bip_39_word_no_space_2 | bossdisplay |  
+| bip_39_word_no_space_3 | bossdisplayfuel |  
+| bip_39_word_no_space_4 | bossdisplayfuelartwork |  
+| bip_39_word_no_space_5 | bossdisplayfuelartworkartwork |  
+| bip_39_word_no_space_6 | bossdisplayfuelartworkartworkhusband |  
+| bip_39_word_no_space_7 | bossdisplayfuelartworkartworkhusbandkingdom |  
+| bip_39_word_no_space_8 | bossdisplayfuelartworkartworkhusbandkingdomice |  
+| bip_39_word_no_space_9 | bossdisplayfuelartworkartworkhusbandkingdomicenose |  
 | bip_39_word_space_0 | ['boss', 'display', 'fuel', 'artwork', 'artwork', 'husband', 'kingdom', 'ice', 'nose', 'buffalo', 'cup', 'arctic'] |  
 | bip_39_word_space_1 | boss |  
 | bip_39_word_space_10 | boss display fuel artwork artwork husband kingdom ice nose buffalo |  

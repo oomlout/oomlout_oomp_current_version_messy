@@ -109,6 +109,17 @@ dose
 spring
 base
 vicious |  
+| bip_39_word_no_space_1 | broom |  
+| bip_39_word_no_space_10 | broomamongmazeexistgasdosespringbaseviciousunhappy |  
+| bip_39_word_no_space_11 | broomamongmazeexistgasdosespringbaseviciousunhappyoutput |  
+| bip_39_word_no_space_2 | broomamong |  
+| bip_39_word_no_space_3 | broomamongmaze |  
+| bip_39_word_no_space_4 | broomamongmazeexist |  
+| bip_39_word_no_space_5 | broomamongmazeexistgas |  
+| bip_39_word_no_space_6 | broomamongmazeexistgasdose |  
+| bip_39_word_no_space_7 | broomamongmazeexistgasdosespring |  
+| bip_39_word_no_space_8 | broomamongmazeexistgasdosespringbase |  
+| bip_39_word_no_space_9 | broomamongmazeexistgasdosespringbasevicious |  
 | bip_39_word_space_0 | ['broom', 'among', 'maze', 'exist', 'gas', 'dose', 'spring', 'base', 'vicious', 'unhappy', 'output'] |  
 | bip_39_word_space_1 | broom |  
 | bip_39_word_space_10 | broom among maze exist gas dose spring base vicious unhappy |  

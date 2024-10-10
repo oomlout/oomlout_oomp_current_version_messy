@@ -122,6 +122,18 @@ empower
 another
 tower
 price |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchcleanshallowpieceolympicempoweranothertowerpricesalmon |  
+| bip_39_word_no_space_11 | crouchcleanshallowpieceolympicempoweranothertowerpricesalmonsafe |  
+| bip_39_word_no_space_12 | crouchcleanshallowpieceolympicempoweranothertowerpricesalmonsafeamused |  
+| bip_39_word_no_space_2 | crouchclean |  
+| bip_39_word_no_space_3 | crouchcleanshallow |  
+| bip_39_word_no_space_4 | crouchcleanshallowpiece |  
+| bip_39_word_no_space_5 | crouchcleanshallowpieceolympic |  
+| bip_39_word_no_space_6 | crouchcleanshallowpieceolympicempower |  
+| bip_39_word_no_space_7 | crouchcleanshallowpieceolympicempoweranother |  
+| bip_39_word_no_space_8 | crouchcleanshallowpieceolympicempoweranothertower |  
+| bip_39_word_no_space_9 | crouchcleanshallowpieceolympicempoweranothertowerprice |  
 | bip_39_word_space_0 | ['crouch', 'clean', 'shallow', 'piece', 'olympic', 'empower', 'another', 'tower', 'price', 'salmon', 'safe', 'amused'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch clean shallow piece olympic empower another tower price salmon |  

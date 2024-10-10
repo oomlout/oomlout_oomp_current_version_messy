@@ -122,6 +122,18 @@ behind
 silent
 alpha
 bind |  
+| bip_39_word_no_space_1 | junior |  
+| bip_39_word_no_space_10 | juniorwageshinefeeendlessbehindsilentalphabindbusy |  
+| bip_39_word_no_space_11 | juniorwageshinefeeendlessbehindsilentalphabindbusyaspect |  
+| bip_39_word_no_space_12 | juniorwageshinefeeendlessbehindsilentalphabindbusyaspectarrest |  
+| bip_39_word_no_space_2 | juniorwage |  
+| bip_39_word_no_space_3 | juniorwageshine |  
+| bip_39_word_no_space_4 | juniorwageshinefee |  
+| bip_39_word_no_space_5 | juniorwageshinefeeendless |  
+| bip_39_word_no_space_6 | juniorwageshinefeeendlessbehind |  
+| bip_39_word_no_space_7 | juniorwageshinefeeendlessbehindsilent |  
+| bip_39_word_no_space_8 | juniorwageshinefeeendlessbehindsilentalpha |  
+| bip_39_word_no_space_9 | juniorwageshinefeeendlessbehindsilentalphabind |  
 | bip_39_word_space_0 | ['junior', 'wage', 'shine', 'fee', 'endless', 'behind', 'silent', 'alpha', 'bind', 'busy', 'aspect', 'arrest'] |  
 | bip_39_word_space_1 | junior |  
 | bip_39_word_space_10 | junior wage shine fee endless behind silent alpha bind busy |  

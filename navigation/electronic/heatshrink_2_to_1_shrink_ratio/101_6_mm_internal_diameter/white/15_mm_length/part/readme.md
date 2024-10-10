@@ -122,6 +122,18 @@ ahead
 remain
 bullet
 shaft |  
+| bip_39_word_no_space_1 | scale |  
+| bip_39_word_no_space_10 | scaleassumebenefitolivehiddenaheadremainbulletshaftenter |  
+| bip_39_word_no_space_11 | scaleassumebenefitolivehiddenaheadremainbulletshaftenterthought |  
+| bip_39_word_no_space_12 | scaleassumebenefitolivehiddenaheadremainbulletshaftenterthoughtarm |  
+| bip_39_word_no_space_2 | scaleassume |  
+| bip_39_word_no_space_3 | scaleassumebenefit |  
+| bip_39_word_no_space_4 | scaleassumebenefitolive |  
+| bip_39_word_no_space_5 | scaleassumebenefitolivehidden |  
+| bip_39_word_no_space_6 | scaleassumebenefitolivehiddenahead |  
+| bip_39_word_no_space_7 | scaleassumebenefitolivehiddenaheadremain |  
+| bip_39_word_no_space_8 | scaleassumebenefitolivehiddenaheadremainbullet |  
+| bip_39_word_no_space_9 | scaleassumebenefitolivehiddenaheadremainbulletshaft |  
 | bip_39_word_space_0 | ['scale', 'assume', 'benefit', 'olive', 'hidden', 'ahead', 'remain', 'bullet', 'shaft', 'enter', 'thought', 'arm'] |  
 | bip_39_word_space_1 | scale |  
 | bip_39_word_space_10 | scale assume benefit olive hidden ahead remain bullet shaft enter |  

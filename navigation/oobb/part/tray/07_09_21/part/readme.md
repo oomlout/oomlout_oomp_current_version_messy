@@ -122,6 +122,18 @@ item
 ski
 era
 build |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectsightswapstrikedivorceitemskierabuildfinal |  
+| bip_39_word_no_space_11 | selectsightswapstrikedivorceitemskierabuildfinalhollow |  
+| bip_39_word_no_space_12 | selectsightswapstrikedivorceitemskierabuildfinalhollowamong |  
+| bip_39_word_no_space_2 | selectsight |  
+| bip_39_word_no_space_3 | selectsightswap |  
+| bip_39_word_no_space_4 | selectsightswapstrike |  
+| bip_39_word_no_space_5 | selectsightswapstrikedivorce |  
+| bip_39_word_no_space_6 | selectsightswapstrikedivorceitem |  
+| bip_39_word_no_space_7 | selectsightswapstrikedivorceitemski |  
+| bip_39_word_no_space_8 | selectsightswapstrikedivorceitemskiera |  
+| bip_39_word_no_space_9 | selectsightswapstrikedivorceitemskierabuild |  
 | bip_39_word_space_0 | ['select', 'sight', 'swap', 'strike', 'divorce', 'item', 'ski', 'era', 'build', 'final', 'hollow', 'among'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select sight swap strike divorce item ski era build final |  

@@ -122,6 +122,18 @@ tree
 kangaroo
 guitar
 intact |  
+| bip_39_word_no_space_1 | police |  
+| bip_39_word_no_space_10 | policepathblastbrassstatetreekangarooguitarintactcompany |  
+| bip_39_word_no_space_11 | policepathblastbrassstatetreekangarooguitarintactcompanyladder |  
+| bip_39_word_no_space_12 | policepathblastbrassstatetreekangarooguitarintactcompanyladderartwork |  
+| bip_39_word_no_space_2 | policepath |  
+| bip_39_word_no_space_3 | policepathblast |  
+| bip_39_word_no_space_4 | policepathblastbrass |  
+| bip_39_word_no_space_5 | policepathblastbrassstate |  
+| bip_39_word_no_space_6 | policepathblastbrassstatetree |  
+| bip_39_word_no_space_7 | policepathblastbrassstatetreekangaroo |  
+| bip_39_word_no_space_8 | policepathblastbrassstatetreekangarooguitar |  
+| bip_39_word_no_space_9 | policepathblastbrassstatetreekangarooguitarintact |  
 | bip_39_word_space_0 | ['police', 'path', 'blast', 'brass', 'state', 'tree', 'kangaroo', 'guitar', 'intact', 'company', 'ladder', 'artwork'] |  
 | bip_39_word_space_1 | police |  
 | bip_39_word_space_10 | police path blast brass state tree kangaroo guitar intact company |  

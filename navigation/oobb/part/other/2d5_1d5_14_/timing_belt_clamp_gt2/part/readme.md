@@ -122,6 +122,18 @@ burden
 situate
 fantasy
 member |  
+| bip_39_word_no_space_1 | tuna |  
+| bip_39_word_no_space_10 | tunavocalshallowfacultysenseburdensituatefantasymembermyth |  
+| bip_39_word_no_space_11 | tunavocalshallowfacultysenseburdensituatefantasymembermythverb |  
+| bip_39_word_no_space_12 | tunavocalshallowfacultysenseburdensituatefantasymembermythverbarrive |  
+| bip_39_word_no_space_2 | tunavocal |  
+| bip_39_word_no_space_3 | tunavocalshallow |  
+| bip_39_word_no_space_4 | tunavocalshallowfaculty |  
+| bip_39_word_no_space_5 | tunavocalshallowfacultysense |  
+| bip_39_word_no_space_6 | tunavocalshallowfacultysenseburden |  
+| bip_39_word_no_space_7 | tunavocalshallowfacultysenseburdensituate |  
+| bip_39_word_no_space_8 | tunavocalshallowfacultysenseburdensituatefantasy |  
+| bip_39_word_no_space_9 | tunavocalshallowfacultysenseburdensituatefantasymember |  
 | bip_39_word_space_0 | ['tuna', 'vocal', 'shallow', 'faculty', 'sense', 'burden', 'situate', 'fantasy', 'member', 'myth', 'verb', 'arrive'] |  
 | bip_39_word_space_1 | tuna |  
 | bip_39_word_space_10 | tuna vocal shallow faculty sense burden situate fantasy member myth |  

@@ -122,6 +122,18 @@ health
 usual
 rib
 emotion |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtlevoyagecomicpeanutarmhealthusualribemotiongiant |  
+| bip_39_word_no_space_11 | turtlevoyagecomicpeanutarmhealthusualribemotiongiantallow |  
+| bip_39_word_no_space_12 | turtlevoyagecomicpeanutarmhealthusualribemotiongiantallowaisle |  
+| bip_39_word_no_space_2 | turtlevoyage |  
+| bip_39_word_no_space_3 | turtlevoyagecomic |  
+| bip_39_word_no_space_4 | turtlevoyagecomicpeanut |  
+| bip_39_word_no_space_5 | turtlevoyagecomicpeanutarm |  
+| bip_39_word_no_space_6 | turtlevoyagecomicpeanutarmhealth |  
+| bip_39_word_no_space_7 | turtlevoyagecomicpeanutarmhealthusual |  
+| bip_39_word_no_space_8 | turtlevoyagecomicpeanutarmhealthusualrib |  
+| bip_39_word_no_space_9 | turtlevoyagecomicpeanutarmhealthusualribemotion |  
 | bip_39_word_space_0 | ['turtle', 'voyage', 'comic', 'peanut', 'arm', 'health', 'usual', 'rib', 'emotion', 'giant', 'allow', 'aisle'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle voyage comic peanut arm health usual rib emotion giant |  

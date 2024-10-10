@@ -122,6 +122,18 @@ satoshi
 route
 stable
 review |  
+| bip_39_word_no_space_1 | exchange |  
+| bip_39_word_no_space_10 | exchangeechoduneordersodasatoshiroutestablereviewlawn |  
+| bip_39_word_no_space_11 | exchangeechoduneordersodasatoshiroutestablereviewlawnadjust |  
+| bip_39_word_no_space_12 | exchangeechoduneordersodasatoshiroutestablereviewlawnadjustanxiety |  
+| bip_39_word_no_space_2 | exchangeecho |  
+| bip_39_word_no_space_3 | exchangeechodune |  
+| bip_39_word_no_space_4 | exchangeechoduneorder |  
+| bip_39_word_no_space_5 | exchangeechoduneordersoda |  
+| bip_39_word_no_space_6 | exchangeechoduneordersodasatoshi |  
+| bip_39_word_no_space_7 | exchangeechoduneordersodasatoshiroute |  
+| bip_39_word_no_space_8 | exchangeechoduneordersodasatoshiroutestable |  
+| bip_39_word_no_space_9 | exchangeechoduneordersodasatoshiroutestablereview |  
 | bip_39_word_space_0 | ['exchange', 'echo', 'dune', 'order', 'soda', 'satoshi', 'route', 'stable', 'review', 'lawn', 'adjust', 'anxiety'] |  
 | bip_39_word_space_1 | exchange |  
 | bip_39_word_space_10 | exchange echo dune order soda satoshi route stable review lawn |  

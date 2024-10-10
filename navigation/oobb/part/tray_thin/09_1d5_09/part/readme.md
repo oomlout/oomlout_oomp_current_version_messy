@@ -122,6 +122,18 @@ glory
 inch
 already
 scan |  
+| bip_39_word_no_space_1 | photo |  
+| bip_39_word_no_space_10 | photonorthcreambalconyneckgloryinchalreadyscangain |  
+| bip_39_word_no_space_11 | photonorthcreambalconyneckgloryinchalreadyscangainswallow |  
+| bip_39_word_no_space_12 | photonorthcreambalconyneckgloryinchalreadyscangainswallowauction |  
+| bip_39_word_no_space_2 | photonorth |  
+| bip_39_word_no_space_3 | photonorthcream |  
+| bip_39_word_no_space_4 | photonorthcreambalcony |  
+| bip_39_word_no_space_5 | photonorthcreambalconyneck |  
+| bip_39_word_no_space_6 | photonorthcreambalconyneckglory |  
+| bip_39_word_no_space_7 | photonorthcreambalconyneckgloryinch |  
+| bip_39_word_no_space_8 | photonorthcreambalconyneckgloryinchalready |  
+| bip_39_word_no_space_9 | photonorthcreambalconyneckgloryinchalreadyscan |  
 | bip_39_word_space_0 | ['photo', 'north', 'cream', 'balcony', 'neck', 'glory', 'inch', 'already', 'scan', 'gain', 'swallow', 'auction'] |  
 | bip_39_word_space_1 | photo |  
 | bip_39_word_space_10 | photo north cream balcony neck glory inch already scan gain |  

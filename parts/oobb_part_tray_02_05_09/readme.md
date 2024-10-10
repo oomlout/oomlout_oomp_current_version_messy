@@ -122,6 +122,18 @@ special
 love
 craft
 pottery |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | provideholdtankcradletopicspeciallovecraftpotteryinspire |  
+| bip_39_word_no_space_11 | provideholdtankcradletopicspeciallovecraftpotteryinspireeconomy |  
+| bip_39_word_no_space_12 | provideholdtankcradletopicspeciallovecraftpotteryinspireeconomyarea |  
+| bip_39_word_no_space_2 | providehold |  
+| bip_39_word_no_space_3 | provideholdtank |  
+| bip_39_word_no_space_4 | provideholdtankcradle |  
+| bip_39_word_no_space_5 | provideholdtankcradletopic |  
+| bip_39_word_no_space_6 | provideholdtankcradletopicspecial |  
+| bip_39_word_no_space_7 | provideholdtankcradletopicspeciallove |  
+| bip_39_word_no_space_8 | provideholdtankcradletopicspeciallovecraft |  
+| bip_39_word_no_space_9 | provideholdtankcradletopicspeciallovecraftpottery |  
 | bip_39_word_space_0 | ['provide', 'hold', 'tank', 'cradle', 'topic', 'special', 'love', 'craft', 'pottery', 'inspire', 'economy', 'area'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide hold tank cradle topic special love craft pottery inspire |  

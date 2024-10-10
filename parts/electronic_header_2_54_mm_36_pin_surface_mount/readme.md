@@ -122,6 +122,18 @@ opinion
 gloom
 caution
 tissue |  
+| bip_39_word_no_space_1 | sleep |  
+| bip_39_word_no_space_10 | sleepdaughterwealthpatchbulletopiniongloomcautiontissuenotice |  
+| bip_39_word_no_space_11 | sleepdaughterwealthpatchbulletopiniongloomcautiontissuenoticeundo |  
+| bip_39_word_no_space_12 | sleepdaughterwealthpatchbulletopiniongloomcautiontissuenoticeundoanimal |  
+| bip_39_word_no_space_2 | sleepdaughter |  
+| bip_39_word_no_space_3 | sleepdaughterwealth |  
+| bip_39_word_no_space_4 | sleepdaughterwealthpatch |  
+| bip_39_word_no_space_5 | sleepdaughterwealthpatchbullet |  
+| bip_39_word_no_space_6 | sleepdaughterwealthpatchbulletopinion |  
+| bip_39_word_no_space_7 | sleepdaughterwealthpatchbulletopiniongloom |  
+| bip_39_word_no_space_8 | sleepdaughterwealthpatchbulletopiniongloomcaution |  
+| bip_39_word_no_space_9 | sleepdaughterwealthpatchbulletopiniongloomcautiontissue |  
 | bip_39_word_space_0 | ['sleep', 'daughter', 'wealth', 'patch', 'bullet', 'opinion', 'gloom', 'caution', 'tissue', 'notice', 'undo', 'animal'] |  
 | bip_39_word_space_1 | sleep |  
 | bip_39_word_space_10 | sleep daughter wealth patch bullet opinion gloom caution tissue notice |  

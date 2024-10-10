@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'sure
   candy
 
   boss'
+bip_39_word_no_space_1: sure
+bip_39_word_no_space_10: surecausetinyfalseglasspermitoccurcandybosssoft
+bip_39_word_no_space_11: surecausetinyfalseglasspermitoccurcandybosssoftaround
+bip_39_word_no_space_12: surecausetinyfalseglasspermitoccurcandybosssoftaroundanimal
+bip_39_word_no_space_2: surecause
+bip_39_word_no_space_3: surecausetiny
+bip_39_word_no_space_4: surecausetinyfalse
+bip_39_word_no_space_5: surecausetinyfalseglass
+bip_39_word_no_space_6: surecausetinyfalseglasspermit
+bip_39_word_no_space_7: surecausetinyfalseglasspermitoccur
+bip_39_word_no_space_8: surecausetinyfalseglasspermitoccurcandy
+bip_39_word_no_space_9: surecausetinyfalseglasspermitoccurcandyboss
 bip_39_word_space_0:
 - sure
 - cause

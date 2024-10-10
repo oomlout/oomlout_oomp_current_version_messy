@@ -122,6 +122,18 @@ side
 gym
 wine
 legal |  
+| bip_39_word_no_space_1 | problem |  
+| bip_39_word_no_space_10 | problemboxillnesswidepillsidegymwinelegalearn |  
+| bip_39_word_no_space_11 | problemboxillnesswidepillsidegymwinelegalearnlock |  
+| bip_39_word_no_space_12 | problemboxillnesswidepillsidegymwinelegalearnlockarrive |  
+| bip_39_word_no_space_2 | problembox |  
+| bip_39_word_no_space_3 | problemboxillness |  
+| bip_39_word_no_space_4 | problemboxillnesswide |  
+| bip_39_word_no_space_5 | problemboxillnesswidepill |  
+| bip_39_word_no_space_6 | problemboxillnesswidepillside |  
+| bip_39_word_no_space_7 | problemboxillnesswidepillsidegym |  
+| bip_39_word_no_space_8 | problemboxillnesswidepillsidegymwine |  
+| bip_39_word_no_space_9 | problemboxillnesswidepillsidegymwinelegal |  
 | bip_39_word_space_0 | ['problem', 'box', 'illness', 'wide', 'pill', 'side', 'gym', 'wine', 'legal', 'earn', 'lock', 'arrive'] |  
 | bip_39_word_space_1 | problem |  
 | bip_39_word_space_10 | problem box illness wide pill side gym wine legal earn |  

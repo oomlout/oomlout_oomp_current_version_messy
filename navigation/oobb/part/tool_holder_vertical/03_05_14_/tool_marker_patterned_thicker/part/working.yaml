@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'toss
   shadow
 
   door'
+bip_39_word_no_space_1: toss
+bip_39_word_no_space_10: tossmotionbrackettrafficmusicownheavyshadowdooractress
+bip_39_word_no_space_11: tossmotionbrackettrafficmusicownheavyshadowdooractressmimic
+bip_39_word_no_space_12: tossmotionbrackettrafficmusicownheavyshadowdooractressmimicartist
+bip_39_word_no_space_2: tossmotion
+bip_39_word_no_space_3: tossmotionbracket
+bip_39_word_no_space_4: tossmotionbrackettraffic
+bip_39_word_no_space_5: tossmotionbrackettrafficmusic
+bip_39_word_no_space_6: tossmotionbrackettrafficmusicown
+bip_39_word_no_space_7: tossmotionbrackettrafficmusicownheavy
+bip_39_word_no_space_8: tossmotionbrackettrafficmusicownheavyshadow
+bip_39_word_no_space_9: tossmotionbrackettrafficmusicownheavyshadowdoor
 bip_39_word_space_0:
 - toss
 - motion

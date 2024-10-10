@@ -122,6 +122,18 @@ giant
 achieve
 couple
 sunny |  
+| bip_39_word_no_space_1 | trend |  
+| bip_39_word_no_space_10 | trendsharerunwaycarbonmakegiantachievecouplesunnysix |  
+| bip_39_word_no_space_11 | trendsharerunwaycarbonmakegiantachievecouplesunnysixhair |  
+| bip_39_word_no_space_12 | trendsharerunwaycarbonmakegiantachievecouplesunnysixhairacquire |  
+| bip_39_word_no_space_2 | trendshare |  
+| bip_39_word_no_space_3 | trendsharerunway |  
+| bip_39_word_no_space_4 | trendsharerunwaycarbon |  
+| bip_39_word_no_space_5 | trendsharerunwaycarbonmake |  
+| bip_39_word_no_space_6 | trendsharerunwaycarbonmakegiant |  
+| bip_39_word_no_space_7 | trendsharerunwaycarbonmakegiantachieve |  
+| bip_39_word_no_space_8 | trendsharerunwaycarbonmakegiantachievecouple |  
+| bip_39_word_no_space_9 | trendsharerunwaycarbonmakegiantachievecouplesunny |  
 | bip_39_word_space_0 | ['trend', 'share', 'runway', 'carbon', 'make', 'giant', 'achieve', 'couple', 'sunny', 'six', 'hair', 'acquire'] |  
 | bip_39_word_space_1 | trend |  
 | bip_39_word_space_10 | trend share runway carbon make giant achieve couple sunny six |  

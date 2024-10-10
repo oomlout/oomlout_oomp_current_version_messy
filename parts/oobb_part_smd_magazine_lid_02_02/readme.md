@@ -122,6 +122,18 @@ bachelor
 evoke
 vocal
 clock |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | ruleuncoverphrasesmartjacketbachelorevokevocalclockreopen |  
+| bip_39_word_no_space_11 | ruleuncoverphrasesmartjacketbachelorevokevocalclockreopenreform |  
+| bip_39_word_no_space_12 | ruleuncoverphrasesmartjacketbachelorevokevocalclockreopenreformaction |  
+| bip_39_word_no_space_2 | ruleuncover |  
+| bip_39_word_no_space_3 | ruleuncoverphrase |  
+| bip_39_word_no_space_4 | ruleuncoverphrasesmart |  
+| bip_39_word_no_space_5 | ruleuncoverphrasesmartjacket |  
+| bip_39_word_no_space_6 | ruleuncoverphrasesmartjacketbachelor |  
+| bip_39_word_no_space_7 | ruleuncoverphrasesmartjacketbachelorevoke |  
+| bip_39_word_no_space_8 | ruleuncoverphrasesmartjacketbachelorevokevocal |  
+| bip_39_word_no_space_9 | ruleuncoverphrasesmartjacketbachelorevokevocalclock |  
 | bip_39_word_space_0 | ['rule', 'uncover', 'phrase', 'smart', 'jacket', 'bachelor', 'evoke', 'vocal', 'clock', 'reopen', 'reform', 'action'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule uncover phrase smart jacket bachelor evoke vocal clock reopen |  

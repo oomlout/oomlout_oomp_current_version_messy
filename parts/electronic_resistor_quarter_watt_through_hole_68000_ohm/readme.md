@@ -122,6 +122,18 @@ spring
 eye
 cinnamon
 swap |  
+| bip_39_word_no_space_1 | imitate |  
+| bip_39_word_no_space_10 | imitatenothingdemiseclarifyjaguarspringeyecinnamonswapalways |  
+| bip_39_word_no_space_11 | imitatenothingdemiseclarifyjaguarspringeyecinnamonswapalwaysassist |  
+| bip_39_word_no_space_12 | imitatenothingdemiseclarifyjaguarspringeyecinnamonswapalwaysassistasthma |  
+| bip_39_word_no_space_2 | imitatenothing |  
+| bip_39_word_no_space_3 | imitatenothingdemise |  
+| bip_39_word_no_space_4 | imitatenothingdemiseclarify |  
+| bip_39_word_no_space_5 | imitatenothingdemiseclarifyjaguar |  
+| bip_39_word_no_space_6 | imitatenothingdemiseclarifyjaguarspring |  
+| bip_39_word_no_space_7 | imitatenothingdemiseclarifyjaguarspringeye |  
+| bip_39_word_no_space_8 | imitatenothingdemiseclarifyjaguarspringeyecinnamon |  
+| bip_39_word_no_space_9 | imitatenothingdemiseclarifyjaguarspringeyecinnamonswap |  
 | bip_39_word_space_0 | ['imitate', 'nothing', 'demise', 'clarify', 'jaguar', 'spring', 'eye', 'cinnamon', 'swap', 'always', 'assist', 'asthma'] |  
 | bip_39_word_space_1 | imitate |  
 | bip_39_word_space_10 | imitate nothing demise clarify jaguar spring eye cinnamon swap always |  

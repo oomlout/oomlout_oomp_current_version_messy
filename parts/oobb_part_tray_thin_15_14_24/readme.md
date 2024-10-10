@@ -122,6 +122,18 @@ achieve
 hundred
 today
 movie |  
+| bip_39_word_no_space_1 | action |  
+| bip_39_word_no_space_10 | actioncrimemindnametipachievehundredtodaymoviestaff |  
+| bip_39_word_no_space_11 | actioncrimemindnametipachievehundredtodaymoviestafftraffic |  
+| bip_39_word_no_space_12 | actioncrimemindnametipachievehundredtodaymoviestafftrafficassist |  
+| bip_39_word_no_space_2 | actioncrime |  
+| bip_39_word_no_space_3 | actioncrimemind |  
+| bip_39_word_no_space_4 | actioncrimemindname |  
+| bip_39_word_no_space_5 | actioncrimemindnametip |  
+| bip_39_word_no_space_6 | actioncrimemindnametipachieve |  
+| bip_39_word_no_space_7 | actioncrimemindnametipachievehundred |  
+| bip_39_word_no_space_8 | actioncrimemindnametipachievehundredtoday |  
+| bip_39_word_no_space_9 | actioncrimemindnametipachievehundredtodaymovie |  
 | bip_39_word_space_0 | ['action', 'crime', 'mind', 'name', 'tip', 'achieve', 'hundred', 'today', 'movie', 'staff', 'traffic', 'assist'] |  
 | bip_39_word_space_1 | action |  
 | bip_39_word_space_10 | action crime mind name tip achieve hundred today movie staff |  

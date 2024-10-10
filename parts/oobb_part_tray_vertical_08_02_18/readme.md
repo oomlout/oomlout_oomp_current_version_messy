@@ -122,6 +122,18 @@ treat
 crunch
 dish
 sound |  
+| bip_39_word_no_space_1 | lock |  
+| bip_39_word_no_space_10 | lockswiftmerrycombinecartreatcrunchdishsoundshoe |  
+| bip_39_word_no_space_11 | lockswiftmerrycombinecartreatcrunchdishsoundshoeplay |  
+| bip_39_word_no_space_12 | lockswiftmerrycombinecartreatcrunchdishsoundshoeplayabuse |  
+| bip_39_word_no_space_2 | lockswift |  
+| bip_39_word_no_space_3 | lockswiftmerry |  
+| bip_39_word_no_space_4 | lockswiftmerrycombine |  
+| bip_39_word_no_space_5 | lockswiftmerrycombinecar |  
+| bip_39_word_no_space_6 | lockswiftmerrycombinecartreat |  
+| bip_39_word_no_space_7 | lockswiftmerrycombinecartreatcrunch |  
+| bip_39_word_no_space_8 | lockswiftmerrycombinecartreatcrunchdish |  
+| bip_39_word_no_space_9 | lockswiftmerrycombinecartreatcrunchdishsound |  
 | bip_39_word_space_0 | ['lock', 'swift', 'merry', 'combine', 'car', 'treat', 'crunch', 'dish', 'sound', 'shoe', 'play', 'abuse'] |  
 | bip_39_word_space_1 | lock |  
 | bip_39_word_space_10 | lock swift merry combine car treat crunch dish sound shoe |  

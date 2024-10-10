@@ -122,6 +122,18 @@ bleak
 wire
 earn
 catch |  
+| bip_39_word_no_space_1 | urge |  
+| bip_39_word_no_space_10 | urgemuseummadomitjacketbleakwireearncatchintact |  
+| bip_39_word_no_space_11 | urgemuseummadomitjacketbleakwireearncatchintactmore |  
+| bip_39_word_no_space_12 | urgemuseummadomitjacketbleakwireearncatchintactmoreassist |  
+| bip_39_word_no_space_2 | urgemuseum |  
+| bip_39_word_no_space_3 | urgemuseummad |  
+| bip_39_word_no_space_4 | urgemuseummadomit |  
+| bip_39_word_no_space_5 | urgemuseummadomitjacket |  
+| bip_39_word_no_space_6 | urgemuseummadomitjacketbleak |  
+| bip_39_word_no_space_7 | urgemuseummadomitjacketbleakwire |  
+| bip_39_word_no_space_8 | urgemuseummadomitjacketbleakwireearn |  
+| bip_39_word_no_space_9 | urgemuseummadomitjacketbleakwireearncatch |  
 | bip_39_word_space_0 | ['urge', 'museum', 'mad', 'omit', 'jacket', 'bleak', 'wire', 'earn', 'catch', 'intact', 'more', 'assist'] |  
 | bip_39_word_space_1 | urge |  
 | bip_39_word_space_10 | urge museum mad omit jacket bleak wire earn catch intact |  

@@ -122,6 +122,18 @@ alert
 song
 ocean
 vanish |  
+| bip_39_word_no_space_1 | cry |  
+| bip_39_word_no_space_10 | crycoverassumesodarandomalertsongoceanvanishname |  
+| bip_39_word_no_space_11 | crycoverassumesodarandomalertsongoceanvanishnamevarious |  
+| bip_39_word_no_space_12 | crycoverassumesodarandomalertsongoceanvanishnamevariousarena |  
+| bip_39_word_no_space_2 | crycover |  
+| bip_39_word_no_space_3 | crycoverassume |  
+| bip_39_word_no_space_4 | crycoverassumesoda |  
+| bip_39_word_no_space_5 | crycoverassumesodarandom |  
+| bip_39_word_no_space_6 | crycoverassumesodarandomalert |  
+| bip_39_word_no_space_7 | crycoverassumesodarandomalertsong |  
+| bip_39_word_no_space_8 | crycoverassumesodarandomalertsongocean |  
+| bip_39_word_no_space_9 | crycoverassumesodarandomalertsongoceanvanish |  
 | bip_39_word_space_0 | ['cry', 'cover', 'assume', 'soda', 'random', 'alert', 'song', 'ocean', 'vanish', 'name', 'various', 'arena'] |  
 | bip_39_word_space_1 | cry |  
 | bip_39_word_space_10 | cry cover assume soda random alert song ocean vanish name |  

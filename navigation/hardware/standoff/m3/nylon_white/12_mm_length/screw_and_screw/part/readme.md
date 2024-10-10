@@ -122,6 +122,18 @@ wet
 foot
 idea
 tribe |  
+| bip_39_word_no_space_1 | holiday |  
+| bip_39_word_no_space_10 | holidayyoungnutfarmgeneralwetfootideatribecost |  
+| bip_39_word_no_space_11 | holidayyoungnutfarmgeneralwetfootideatribecostdrip |  
+| bip_39_word_no_space_12 | holidayyoungnutfarmgeneralwetfootideatribecostdripactor |  
+| bip_39_word_no_space_2 | holidayyoung |  
+| bip_39_word_no_space_3 | holidayyoungnut |  
+| bip_39_word_no_space_4 | holidayyoungnutfarm |  
+| bip_39_word_no_space_5 | holidayyoungnutfarmgeneral |  
+| bip_39_word_no_space_6 | holidayyoungnutfarmgeneralwet |  
+| bip_39_word_no_space_7 | holidayyoungnutfarmgeneralwetfoot |  
+| bip_39_word_no_space_8 | holidayyoungnutfarmgeneralwetfootidea |  
+| bip_39_word_no_space_9 | holidayyoungnutfarmgeneralwetfootideatribe |  
 | bip_39_word_space_0 | ['holiday', 'young', 'nut', 'farm', 'general', 'wet', 'foot', 'idea', 'tribe', 'cost', 'drip', 'actor'] |  
 | bip_39_word_space_1 | holiday |  
 | bip_39_word_space_10 | holiday young nut farm general wet foot idea tribe cost |  

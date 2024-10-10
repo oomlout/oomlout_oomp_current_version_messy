@@ -122,6 +122,18 @@ upgrade
 glove
 city
 car |  
+| bip_39_word_no_space_1 | glimpse |  
+| bip_39_word_no_space_10 | glimpsehoodshoulderbodycriticupgradeglovecitycarresemble |  
+| bip_39_word_no_space_11 | glimpsehoodshoulderbodycriticupgradeglovecitycarresembleinsect |  
+| bip_39_word_no_space_12 | glimpsehoodshoulderbodycriticupgradeglovecitycarresembleinsectassume |  
+| bip_39_word_no_space_2 | glimpsehood |  
+| bip_39_word_no_space_3 | glimpsehoodshoulder |  
+| bip_39_word_no_space_4 | glimpsehoodshoulderbody |  
+| bip_39_word_no_space_5 | glimpsehoodshoulderbodycritic |  
+| bip_39_word_no_space_6 | glimpsehoodshoulderbodycriticupgrade |  
+| bip_39_word_no_space_7 | glimpsehoodshoulderbodycriticupgradeglove |  
+| bip_39_word_no_space_8 | glimpsehoodshoulderbodycriticupgradeglovecity |  
+| bip_39_word_no_space_9 | glimpsehoodshoulderbodycriticupgradeglovecitycar |  
 | bip_39_word_space_0 | ['glimpse', 'hood', 'shoulder', 'body', 'critic', 'upgrade', 'glove', 'city', 'car', 'resemble', 'insect', 'assume'] |  
 | bip_39_word_space_1 | glimpse |  
 | bip_39_word_space_10 | glimpse hood shoulder body critic upgrade glove city car resemble |  

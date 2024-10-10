@@ -122,6 +122,18 @@ police
 fantasy
 custom
 woman |  
+| bip_39_word_no_space_1 | marriage |  
+| bip_39_word_no_space_10 | marriagenephewenrichrivaleconomypolicefantasycustomwomangarbage |  
+| bip_39_word_no_space_11 | marriagenephewenrichrivaleconomypolicefantasycustomwomangarbagetip |  
+| bip_39_word_no_space_12 | marriagenephewenrichrivaleconomypolicefantasycustomwomangarbagetiparmy |  
+| bip_39_word_no_space_2 | marriagenephew |  
+| bip_39_word_no_space_3 | marriagenephewenrich |  
+| bip_39_word_no_space_4 | marriagenephewenrichrival |  
+| bip_39_word_no_space_5 | marriagenephewenrichrivaleconomy |  
+| bip_39_word_no_space_6 | marriagenephewenrichrivaleconomypolice |  
+| bip_39_word_no_space_7 | marriagenephewenrichrivaleconomypolicefantasy |  
+| bip_39_word_no_space_8 | marriagenephewenrichrivaleconomypolicefantasycustom |  
+| bip_39_word_no_space_9 | marriagenephewenrichrivaleconomypolicefantasycustomwoman |  
 | bip_39_word_space_0 | ['marriage', 'nephew', 'enrich', 'rival', 'economy', 'police', 'fantasy', 'custom', 'woman', 'garbage', 'tip', 'army'] |  
 | bip_39_word_space_1 | marriage |  
 | bip_39_word_space_10 | marriage nephew enrich rival economy police fantasy custom woman garbage |  

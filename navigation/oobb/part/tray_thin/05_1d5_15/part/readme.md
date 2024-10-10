@@ -122,6 +122,18 @@ tray
 plastic
 bird
 toilet |  
+| bip_39_word_no_space_1 | tunnel |  
+| bip_39_word_no_space_10 | tunnelbubbleearlycramarenatrayplasticbirdtoiletmusic |  
+| bip_39_word_no_space_11 | tunnelbubbleearlycramarenatrayplasticbirdtoiletmusicrender |  
+| bip_39_word_no_space_12 | tunnelbubbleearlycramarenatrayplasticbirdtoiletmusicrenderalter |  
+| bip_39_word_no_space_2 | tunnelbubble |  
+| bip_39_word_no_space_3 | tunnelbubbleearly |  
+| bip_39_word_no_space_4 | tunnelbubbleearlycram |  
+| bip_39_word_no_space_5 | tunnelbubbleearlycramarena |  
+| bip_39_word_no_space_6 | tunnelbubbleearlycramarenatray |  
+| bip_39_word_no_space_7 | tunnelbubbleearlycramarenatrayplastic |  
+| bip_39_word_no_space_8 | tunnelbubbleearlycramarenatrayplasticbird |  
+| bip_39_word_no_space_9 | tunnelbubbleearlycramarenatrayplasticbirdtoilet |  
 | bip_39_word_space_0 | ['tunnel', 'bubble', 'early', 'cram', 'arena', 'tray', 'plastic', 'bird', 'toilet', 'music', 'render', 'alter'] |  
 | bip_39_word_space_1 | tunnel |  
 | bip_39_word_space_10 | tunnel bubble early cram arena tray plastic bird toilet music |  

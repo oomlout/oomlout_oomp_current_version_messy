@@ -122,6 +122,18 @@ glide
 arena
 session
 curtain |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueteamslidecompanyrecycleglidearenasessioncurtainstrategy |  
+| bip_39_word_no_space_11 | issueteamslidecompanyrecycleglidearenasessioncurtainstrategytoe |  
+| bip_39_word_no_space_12 | issueteamslidecompanyrecycleglidearenasessioncurtainstrategytoeahead |  
+| bip_39_word_no_space_2 | issueteam |  
+| bip_39_word_no_space_3 | issueteamslide |  
+| bip_39_word_no_space_4 | issueteamslidecompany |  
+| bip_39_word_no_space_5 | issueteamslidecompanyrecycle |  
+| bip_39_word_no_space_6 | issueteamslidecompanyrecycleglide |  
+| bip_39_word_no_space_7 | issueteamslidecompanyrecycleglidearena |  
+| bip_39_word_no_space_8 | issueteamslidecompanyrecycleglidearenasession |  
+| bip_39_word_no_space_9 | issueteamslidecompanyrecycleglidearenasessioncurtain |  
 | bip_39_word_space_0 | ['issue', 'team', 'slide', 'company', 'recycle', 'glide', 'arena', 'session', 'curtain', 'strategy', 'toe', 'ahead'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue team slide company recycle glide arena session curtain strategy |  

@@ -122,6 +122,18 @@ average
 blast
 eyebrow
 code |  
+| bip_39_word_no_space_1 | blossom |  
+| bip_39_word_no_space_10 | blossompatrollegalgladartistaverageblasteyebrowcodepage |  
+| bip_39_word_no_space_11 | blossompatrollegalgladartistaverageblasteyebrowcodepageshadow |  
+| bip_39_word_no_space_12 | blossompatrollegalgladartistaverageblasteyebrowcodepageshadowattack |  
+| bip_39_word_no_space_2 | blossompatrol |  
+| bip_39_word_no_space_3 | blossompatrollegal |  
+| bip_39_word_no_space_4 | blossompatrollegalglad |  
+| bip_39_word_no_space_5 | blossompatrollegalgladartist |  
+| bip_39_word_no_space_6 | blossompatrollegalgladartistaverage |  
+| bip_39_word_no_space_7 | blossompatrollegalgladartistaverageblast |  
+| bip_39_word_no_space_8 | blossompatrollegalgladartistaverageblasteyebrow |  
+| bip_39_word_no_space_9 | blossompatrollegalgladartistaverageblasteyebrowcode |  
 | bip_39_word_space_0 | ['blossom', 'patrol', 'legal', 'glad', 'artist', 'average', 'blast', 'eyebrow', 'code', 'page', 'shadow', 'attack'] |  
 | bip_39_word_space_1 | blossom |  
 | bip_39_word_space_10 | blossom patrol legal glad artist average blast eyebrow code page |  

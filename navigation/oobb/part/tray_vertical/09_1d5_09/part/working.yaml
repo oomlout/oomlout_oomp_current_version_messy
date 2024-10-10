@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'erosion
   destroy
 
   list'
+bip_39_word_no_space_1: erosion
+bip_39_word_no_space_10: erosiontoematchflipbasicvisitfiguredestroylistcrawl
+bip_39_word_no_space_11: erosiontoematchflipbasicvisitfiguredestroylistcrawlsight
+bip_39_word_no_space_12: erosiontoematchflipbasicvisitfiguredestroylistcrawlsightargue
+bip_39_word_no_space_2: erosiontoe
+bip_39_word_no_space_3: erosiontoematch
+bip_39_word_no_space_4: erosiontoematchflip
+bip_39_word_no_space_5: erosiontoematchflipbasic
+bip_39_word_no_space_6: erosiontoematchflipbasicvisit
+bip_39_word_no_space_7: erosiontoematchflipbasicvisitfigure
+bip_39_word_no_space_8: erosiontoematchflipbasicvisitfiguredestroy
+bip_39_word_no_space_9: erosiontoematchflipbasicvisitfiguredestroylist
 bip_39_word_space_0:
 - erosion
 - toe

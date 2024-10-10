@@ -122,6 +122,18 @@ use
 lens
 machine
 garlic |  
+| bip_39_word_no_space_1 | wave |  
+| bip_39_word_no_space_10 | wavehollowfringedignityloungeuselensmachinegarlicwinter |  
+| bip_39_word_no_space_11 | wavehollowfringedignityloungeuselensmachinegarlicwinterunable |  
+| bip_39_word_no_space_12 | wavehollowfringedignityloungeuselensmachinegarlicwinterunableattitude |  
+| bip_39_word_no_space_2 | wavehollow |  
+| bip_39_word_no_space_3 | wavehollowfringe |  
+| bip_39_word_no_space_4 | wavehollowfringedignity |  
+| bip_39_word_no_space_5 | wavehollowfringedignitylounge |  
+| bip_39_word_no_space_6 | wavehollowfringedignityloungeuse |  
+| bip_39_word_no_space_7 | wavehollowfringedignityloungeuselens |  
+| bip_39_word_no_space_8 | wavehollowfringedignityloungeuselensmachine |  
+| bip_39_word_no_space_9 | wavehollowfringedignityloungeuselensmachinegarlic |  
 | bip_39_word_space_0 | ['wave', 'hollow', 'fringe', 'dignity', 'lounge', 'use', 'lens', 'machine', 'garlic', 'winter', 'unable', 'attitude'] |  
 | bip_39_word_space_1 | wave |  
 | bip_39_word_space_10 | wave hollow fringe dignity lounge use lens machine garlic winter |  

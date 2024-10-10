@@ -122,6 +122,18 @@ engine
 mystery
 blast
 noble |  
+| bip_39_word_no_space_1 | empower |  
+| bip_39_word_no_space_10 | empowerdisplayunfairpopularmixenginemysteryblastnoblegive |  
+| bip_39_word_no_space_11 | empowerdisplayunfairpopularmixenginemysteryblastnoblegivegreen |  
+| bip_39_word_no_space_12 | empowerdisplayunfairpopularmixenginemysteryblastnoblegivegreenaction |  
+| bip_39_word_no_space_2 | empowerdisplay |  
+| bip_39_word_no_space_3 | empowerdisplayunfair |  
+| bip_39_word_no_space_4 | empowerdisplayunfairpopular |  
+| bip_39_word_no_space_5 | empowerdisplayunfairpopularmix |  
+| bip_39_word_no_space_6 | empowerdisplayunfairpopularmixengine |  
+| bip_39_word_no_space_7 | empowerdisplayunfairpopularmixenginemystery |  
+| bip_39_word_no_space_8 | empowerdisplayunfairpopularmixenginemysteryblast |  
+| bip_39_word_no_space_9 | empowerdisplayunfairpopularmixenginemysteryblastnoble |  
 | bip_39_word_space_0 | ['empower', 'display', 'unfair', 'popular', 'mix', 'engine', 'mystery', 'blast', 'noble', 'give', 'green', 'action'] |  
 | bip_39_word_space_1 | empower |  
 | bip_39_word_space_10 | empower display unfair popular mix engine mystery blast noble give |  

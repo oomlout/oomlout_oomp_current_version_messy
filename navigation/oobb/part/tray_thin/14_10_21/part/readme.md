@@ -122,6 +122,18 @@ cousin
 math
 pair
 seminar |  
+| bip_39_word_no_space_1 | name |  
+| bip_39_word_no_space_10 | nametracksciencesponsorswingcousinmathpairseminararrest |  
+| bip_39_word_no_space_11 | nametracksciencesponsorswingcousinmathpairseminararrestready |  
+| bip_39_word_no_space_12 | nametracksciencesponsorswingcousinmathpairseminararrestreadyask |  
+| bip_39_word_no_space_2 | nametrack |  
+| bip_39_word_no_space_3 | nametrackscience |  
+| bip_39_word_no_space_4 | nametracksciencesponsor |  
+| bip_39_word_no_space_5 | nametracksciencesponsorswing |  
+| bip_39_word_no_space_6 | nametracksciencesponsorswingcousin |  
+| bip_39_word_no_space_7 | nametracksciencesponsorswingcousinmath |  
+| bip_39_word_no_space_8 | nametracksciencesponsorswingcousinmathpair |  
+| bip_39_word_no_space_9 | nametracksciencesponsorswingcousinmathpairseminar |  
 | bip_39_word_space_0 | ['name', 'track', 'science', 'sponsor', 'swing', 'cousin', 'math', 'pair', 'seminar', 'arrest', 'ready', 'ask'] |  
 | bip_39_word_space_1 | name |  
 | bip_39_word_space_10 | name track science sponsor swing cousin math pair seminar arrest |  

@@ -122,6 +122,18 @@ swing
 media
 grain
 warfare |  
+| bip_39_word_no_space_1 | oxygen |  
+| bip_39_word_no_space_10 | oxygenchickencrashradardemandswingmediagrainwarfareupset |  
+| bip_39_word_no_space_11 | oxygenchickencrashradardemandswingmediagrainwarfareupsetdesign |  
+| bip_39_word_no_space_12 | oxygenchickencrashradardemandswingmediagrainwarfareupsetdesignalone |  
+| bip_39_word_no_space_2 | oxygenchicken |  
+| bip_39_word_no_space_3 | oxygenchickencrash |  
+| bip_39_word_no_space_4 | oxygenchickencrashradar |  
+| bip_39_word_no_space_5 | oxygenchickencrashradardemand |  
+| bip_39_word_no_space_6 | oxygenchickencrashradardemandswing |  
+| bip_39_word_no_space_7 | oxygenchickencrashradardemandswingmedia |  
+| bip_39_word_no_space_8 | oxygenchickencrashradardemandswingmediagrain |  
+| bip_39_word_no_space_9 | oxygenchickencrashradardemandswingmediagrainwarfare |  
 | bip_39_word_space_0 | ['oxygen', 'chicken', 'crash', 'radar', 'demand', 'swing', 'media', 'grain', 'warfare', 'upset', 'design', 'alone'] |  
 | bip_39_word_space_1 | oxygen |  
 | bip_39_word_space_10 | oxygen chicken crash radar demand swing media grain warfare upset |  

@@ -122,6 +122,18 @@ climb
 donkey
 fame
 shed |  
+| bip_39_word_no_space_1 | visa |  
+| bip_39_word_no_space_10 | visalessontrialbidmilkclimbdonkeyfameshedgroup |  
+| bip_39_word_no_space_11 | visalessontrialbidmilkclimbdonkeyfameshedgroupimmense |  
+| bip_39_word_no_space_12 | visalessontrialbidmilkclimbdonkeyfameshedgroupimmenseannual |  
+| bip_39_word_no_space_2 | visalesson |  
+| bip_39_word_no_space_3 | visalessontrial |  
+| bip_39_word_no_space_4 | visalessontrialbid |  
+| bip_39_word_no_space_5 | visalessontrialbidmilk |  
+| bip_39_word_no_space_6 | visalessontrialbidmilkclimb |  
+| bip_39_word_no_space_7 | visalessontrialbidmilkclimbdonkey |  
+| bip_39_word_no_space_8 | visalessontrialbidmilkclimbdonkeyfame |  
+| bip_39_word_no_space_9 | visalessontrialbidmilkclimbdonkeyfameshed |  
 | bip_39_word_space_0 | ['visa', 'lesson', 'trial', 'bid', 'milk', 'climb', 'donkey', 'fame', 'shed', 'group', 'immense', 'annual'] |  
 | bip_39_word_space_1 | visa |  
 | bip_39_word_space_10 | visa lesson trial bid milk climb donkey fame shed group |  

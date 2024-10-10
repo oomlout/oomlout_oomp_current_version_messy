@@ -122,6 +122,18 @@ anger
 parade
 public
 switch |  
+| bip_39_word_no_space_1 | voice |  
+| bip_39_word_no_space_10 | voicerevealribbonbriefchatangerparadepublicswitchpeace |  
+| bip_39_word_no_space_11 | voicerevealribbonbriefchatangerparadepublicswitchpeacepowder |  
+| bip_39_word_no_space_12 | voicerevealribbonbriefchatangerparadepublicswitchpeacepowderactor |  
+| bip_39_word_no_space_2 | voicereveal |  
+| bip_39_word_no_space_3 | voicerevealribbon |  
+| bip_39_word_no_space_4 | voicerevealribbonbrief |  
+| bip_39_word_no_space_5 | voicerevealribbonbriefchat |  
+| bip_39_word_no_space_6 | voicerevealribbonbriefchatanger |  
+| bip_39_word_no_space_7 | voicerevealribbonbriefchatangerparade |  
+| bip_39_word_no_space_8 | voicerevealribbonbriefchatangerparadepublic |  
+| bip_39_word_no_space_9 | voicerevealribbonbriefchatangerparadepublicswitch |  
 | bip_39_word_space_0 | ['voice', 'reveal', 'ribbon', 'brief', 'chat', 'anger', 'parade', 'public', 'switch', 'peace', 'powder', 'actor'] |  
 | bip_39_word_space_1 | voice |  
 | bip_39_word_space_10 | voice reveal ribbon brief chat anger parade public switch peace |  

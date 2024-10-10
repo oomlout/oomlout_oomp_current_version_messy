@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'merge
   upset
 
   dial'
+bip_39_word_no_space_1: merge
+bip_39_word_no_space_10: mergeaboveverbdecreasebreadawfulchestupsetdialdetail
+bip_39_word_no_space_11: mergeaboveverbdecreasebreadawfulchestupsetdialdetailwindow
+bip_39_word_no_space_12: mergeaboveverbdecreasebreadawfulchestupsetdialdetailwindowaccount
+bip_39_word_no_space_2: mergeabove
+bip_39_word_no_space_3: mergeaboveverb
+bip_39_word_no_space_4: mergeaboveverbdecrease
+bip_39_word_no_space_5: mergeaboveverbdecreasebread
+bip_39_word_no_space_6: mergeaboveverbdecreasebreadawful
+bip_39_word_no_space_7: mergeaboveverbdecreasebreadawfulchest
+bip_39_word_no_space_8: mergeaboveverbdecreasebreadawfulchestupset
+bip_39_word_no_space_9: mergeaboveverbdecreasebreadawfulchestupsetdial
 bip_39_word_space_0:
 - merge
 - above

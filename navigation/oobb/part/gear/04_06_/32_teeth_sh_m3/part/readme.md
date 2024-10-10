@@ -122,6 +122,18 @@ host
 shine
 keen
 quiz |  
+| bip_39_word_no_space_1 | pave |  
+| bip_39_word_no_space_10 | pavebodyunderantiquetwentyhostshinekeenquizrival |  
+| bip_39_word_no_space_11 | pavebodyunderantiquetwentyhostshinekeenquizrivalcomic |  
+| bip_39_word_no_space_12 | pavebodyunderantiquetwentyhostshinekeenquizrivalcomicall |  
+| bip_39_word_no_space_2 | pavebody |  
+| bip_39_word_no_space_3 | pavebodyunder |  
+| bip_39_word_no_space_4 | pavebodyunderantique |  
+| bip_39_word_no_space_5 | pavebodyunderantiquetwenty |  
+| bip_39_word_no_space_6 | pavebodyunderantiquetwentyhost |  
+| bip_39_word_no_space_7 | pavebodyunderantiquetwentyhostshine |  
+| bip_39_word_no_space_8 | pavebodyunderantiquetwentyhostshinekeen |  
+| bip_39_word_no_space_9 | pavebodyunderantiquetwentyhostshinekeenquiz |  
 | bip_39_word_space_0 | ['pave', 'body', 'under', 'antique', 'twenty', 'host', 'shine', 'keen', 'quiz', 'rival', 'comic', 'all'] |  
 | bip_39_word_space_1 | pave |  
 | bip_39_word_space_10 | pave body under antique twenty host shine keen quiz rival |  

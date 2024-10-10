@@ -122,6 +122,18 @@ diagram
 record
 brush
 swamp |  
+| bip_39_word_no_space_1 | panther |  
+| bip_39_word_no_space_10 | pantherboilpunchlegpistoldiagramrecordbrushswampmoment |  
+| bip_39_word_no_space_11 | pantherboilpunchlegpistoldiagramrecordbrushswampmomentbase |  
+| bip_39_word_no_space_12 | pantherboilpunchlegpistoldiagramrecordbrushswampmomentbaseabsurd |  
+| bip_39_word_no_space_2 | pantherboil |  
+| bip_39_word_no_space_3 | pantherboilpunch |  
+| bip_39_word_no_space_4 | pantherboilpunchleg |  
+| bip_39_word_no_space_5 | pantherboilpunchlegpistol |  
+| bip_39_word_no_space_6 | pantherboilpunchlegpistoldiagram |  
+| bip_39_word_no_space_7 | pantherboilpunchlegpistoldiagramrecord |  
+| bip_39_word_no_space_8 | pantherboilpunchlegpistoldiagramrecordbrush |  
+| bip_39_word_no_space_9 | pantherboilpunchlegpistoldiagramrecordbrushswamp |  
 | bip_39_word_space_0 | ['panther', 'boil', 'punch', 'leg', 'pistol', 'diagram', 'record', 'brush', 'swamp', 'moment', 'base', 'absurd'] |  
 | bip_39_word_space_1 | panther |  
 | bip_39_word_space_10 | panther boil punch leg pistol diagram record brush swamp moment |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'album
   motor
 
   purpose'
+bip_39_word_no_space_1: album
+bip_39_word_no_space_10: albumdolphingridbiologyaimcubesnowmotorpurposefossil
+bip_39_word_no_space_11: albumdolphingridbiologyaimcubesnowmotorpurposefossilhelp
+bip_39_word_no_space_12: albumdolphingridbiologyaimcubesnowmotorpurposefossilhelpamazing
+bip_39_word_no_space_2: albumdolphin
+bip_39_word_no_space_3: albumdolphingrid
+bip_39_word_no_space_4: albumdolphingridbiology
+bip_39_word_no_space_5: albumdolphingridbiologyaim
+bip_39_word_no_space_6: albumdolphingridbiologyaimcube
+bip_39_word_no_space_7: albumdolphingridbiologyaimcubesnow
+bip_39_word_no_space_8: albumdolphingridbiologyaimcubesnowmotor
+bip_39_word_no_space_9: albumdolphingridbiologyaimcubesnowmotorpurpose
 bip_39_word_space_0:
 - album
 - dolphin

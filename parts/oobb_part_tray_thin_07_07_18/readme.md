@@ -122,6 +122,18 @@ gather
 brother
 fresh
 attend |  
+| bip_39_word_no_space_1 | fine |  
+| bip_39_word_no_space_10 | finevoidhawkfirstsecondgatherbrotherfreshattendbounce |  
+| bip_39_word_no_space_11 | finevoidhawkfirstsecondgatherbrotherfreshattendbouncesubmit |  
+| bip_39_word_no_space_12 | finevoidhawkfirstsecondgatherbrotherfreshattendbouncesubmitair |  
+| bip_39_word_no_space_2 | finevoid |  
+| bip_39_word_no_space_3 | finevoidhawk |  
+| bip_39_word_no_space_4 | finevoidhawkfirst |  
+| bip_39_word_no_space_5 | finevoidhawkfirstsecond |  
+| bip_39_word_no_space_6 | finevoidhawkfirstsecondgather |  
+| bip_39_word_no_space_7 | finevoidhawkfirstsecondgatherbrother |  
+| bip_39_word_no_space_8 | finevoidhawkfirstsecondgatherbrotherfresh |  
+| bip_39_word_no_space_9 | finevoidhawkfirstsecondgatherbrotherfreshattend |  
 | bip_39_word_space_0 | ['fine', 'void', 'hawk', 'first', 'second', 'gather', 'brother', 'fresh', 'attend', 'bounce', 'submit', 'air'] |  
 | bip_39_word_space_1 | fine |  
 | bip_39_word_space_10 | fine void hawk first second gather brother fresh attend bounce |  

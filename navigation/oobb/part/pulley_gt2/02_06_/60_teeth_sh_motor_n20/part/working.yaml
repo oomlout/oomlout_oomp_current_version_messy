@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fever
   faint
 
   sail'
+bip_39_word_no_space_1: fever
+bip_39_word_no_space_10: feverpolarpatientvotegifteggcanoefaintsailguide
+bip_39_word_no_space_11: feverpolarpatientvotegifteggcanoefaintsailguideeffort
+bip_39_word_no_space_12: feverpolarpatientvotegifteggcanoefaintsailguideeffortallow
+bip_39_word_no_space_2: feverpolar
+bip_39_word_no_space_3: feverpolarpatient
+bip_39_word_no_space_4: feverpolarpatientvote
+bip_39_word_no_space_5: feverpolarpatientvotegift
+bip_39_word_no_space_6: feverpolarpatientvotegiftegg
+bip_39_word_no_space_7: feverpolarpatientvotegifteggcanoe
+bip_39_word_no_space_8: feverpolarpatientvotegifteggcanoefaint
+bip_39_word_no_space_9: feverpolarpatientvotegifteggcanoefaintsail
 bip_39_word_space_0:
 - fever
 - polar

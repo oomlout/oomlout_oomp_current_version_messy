@@ -122,6 +122,18 @@ shoe
 parent
 village
 demand |  
+| bip_39_word_no_space_1 | quit |  
+| bip_39_word_no_space_10 | quitbroccoliactenactironshoeparentvillagedemandbrief |  
+| bip_39_word_no_space_11 | quitbroccoliactenactironshoeparentvillagedemandbriefsea |  
+| bip_39_word_no_space_12 | quitbroccoliactenactironshoeparentvillagedemandbriefseaaccount |  
+| bip_39_word_no_space_2 | quitbroccoli |  
+| bip_39_word_no_space_3 | quitbroccoliact |  
+| bip_39_word_no_space_4 | quitbroccoliactenact |  
+| bip_39_word_no_space_5 | quitbroccoliactenactiron |  
+| bip_39_word_no_space_6 | quitbroccoliactenactironshoe |  
+| bip_39_word_no_space_7 | quitbroccoliactenactironshoeparent |  
+| bip_39_word_no_space_8 | quitbroccoliactenactironshoeparentvillage |  
+| bip_39_word_no_space_9 | quitbroccoliactenactironshoeparentvillagedemand |  
 | bip_39_word_space_0 | ['quit', 'broccoli', 'act', 'enact', 'iron', 'shoe', 'parent', 'village', 'demand', 'brief', 'sea', 'account'] |  
 | bip_39_word_space_1 | quit |  
 | bip_39_word_space_10 | quit broccoli act enact iron shoe parent village demand brief |  

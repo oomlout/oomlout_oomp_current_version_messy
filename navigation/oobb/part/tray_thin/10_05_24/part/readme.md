@@ -122,6 +122,18 @@ oxygen
 tongue
 mind
 security |  
+| bip_39_word_no_space_1 | spoil |  
+| bip_39_word_no_space_10 | spoilfitnessleftbrassswimoxygentonguemindsecurityblack |  
+| bip_39_word_no_space_11 | spoilfitnessleftbrassswimoxygentonguemindsecurityblackresemble |  
+| bip_39_word_no_space_12 | spoilfitnessleftbrassswimoxygentonguemindsecurityblackresembleagain |  
+| bip_39_word_no_space_2 | spoilfitness |  
+| bip_39_word_no_space_3 | spoilfitnessleft |  
+| bip_39_word_no_space_4 | spoilfitnessleftbrass |  
+| bip_39_word_no_space_5 | spoilfitnessleftbrassswim |  
+| bip_39_word_no_space_6 | spoilfitnessleftbrassswimoxygen |  
+| bip_39_word_no_space_7 | spoilfitnessleftbrassswimoxygentongue |  
+| bip_39_word_no_space_8 | spoilfitnessleftbrassswimoxygentonguemind |  
+| bip_39_word_no_space_9 | spoilfitnessleftbrassswimoxygentonguemindsecurity |  
 | bip_39_word_space_0 | ['spoil', 'fitness', 'left', 'brass', 'swim', 'oxygen', 'tongue', 'mind', 'security', 'black', 'resemble', 'again'] |  
 | bip_39_word_space_1 | spoil |  
 | bip_39_word_space_10 | spoil fitness left brass swim oxygen tongue mind security black |  

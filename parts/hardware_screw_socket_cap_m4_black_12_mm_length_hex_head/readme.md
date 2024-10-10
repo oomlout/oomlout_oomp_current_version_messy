@@ -122,6 +122,18 @@ sea
 barrel
 topple
 carry |  
+| bip_39_word_no_space_1 | select |  
+| bip_39_word_no_space_10 | selectechosuperdiscoverlizardseabarreltopplecarrytruth |  
+| bip_39_word_no_space_11 | selectechosuperdiscoverlizardseabarreltopplecarrytruthunder |  
+| bip_39_word_no_space_12 | selectechosuperdiscoverlizardseabarreltopplecarrytruthunderartist |  
+| bip_39_word_no_space_2 | selectecho |  
+| bip_39_word_no_space_3 | selectechosuper |  
+| bip_39_word_no_space_4 | selectechosuperdiscover |  
+| bip_39_word_no_space_5 | selectechosuperdiscoverlizard |  
+| bip_39_word_no_space_6 | selectechosuperdiscoverlizardsea |  
+| bip_39_word_no_space_7 | selectechosuperdiscoverlizardseabarrel |  
+| bip_39_word_no_space_8 | selectechosuperdiscoverlizardseabarreltopple |  
+| bip_39_word_no_space_9 | selectechosuperdiscoverlizardseabarreltopplecarry |  
 | bip_39_word_space_0 | ['select', 'echo', 'super', 'discover', 'lizard', 'sea', 'barrel', 'topple', 'carry', 'truth', 'under', 'artist'] |  
 | bip_39_word_space_1 | select |  
 | bip_39_word_space_10 | select echo super discover lizard sea barrel topple carry truth |  

@@ -122,6 +122,18 @@ grunt
 unique
 bread
 element |  
+| bip_39_word_no_space_1 | describe |  
+| bip_39_word_no_space_10 | describemarbleenteroccurpromotegruntuniquebreadelementfantasy |  
+| bip_39_word_no_space_11 | describemarbleenteroccurpromotegruntuniquebreadelementfantasyenlist |  
+| bip_39_word_no_space_12 | describemarbleenteroccurpromotegruntuniquebreadelementfantasyenlistarrow |  
+| bip_39_word_no_space_2 | describemarble |  
+| bip_39_word_no_space_3 | describemarbleenter |  
+| bip_39_word_no_space_4 | describemarbleenteroccur |  
+| bip_39_word_no_space_5 | describemarbleenteroccurpromote |  
+| bip_39_word_no_space_6 | describemarbleenteroccurpromotegrunt |  
+| bip_39_word_no_space_7 | describemarbleenteroccurpromotegruntunique |  
+| bip_39_word_no_space_8 | describemarbleenteroccurpromotegruntuniquebread |  
+| bip_39_word_no_space_9 | describemarbleenteroccurpromotegruntuniquebreadelement |  
 | bip_39_word_space_0 | ['describe', 'marble', 'enter', 'occur', 'promote', 'grunt', 'unique', 'bread', 'element', 'fantasy', 'enlist', 'arrow'] |  
 | bip_39_word_space_1 | describe |  
 | bip_39_word_space_10 | describe marble enter occur promote grunt unique bread element fantasy |  

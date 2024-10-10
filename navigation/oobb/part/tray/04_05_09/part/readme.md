@@ -122,6 +122,18 @@ make
 hand
 dream
 sibling |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | graindigitaldisorderexpandhamstermakehanddreamsiblingoxygen |  
+| bip_39_word_no_space_11 | graindigitaldisorderexpandhamstermakehanddreamsiblingoxygenrubber |  
+| bip_39_word_no_space_12 | graindigitaldisorderexpandhamstermakehanddreamsiblingoxygenrubberarch |  
+| bip_39_word_no_space_2 | graindigital |  
+| bip_39_word_no_space_3 | graindigitaldisorder |  
+| bip_39_word_no_space_4 | graindigitaldisorderexpand |  
+| bip_39_word_no_space_5 | graindigitaldisorderexpandhamster |  
+| bip_39_word_no_space_6 | graindigitaldisorderexpandhamstermake |  
+| bip_39_word_no_space_7 | graindigitaldisorderexpandhamstermakehand |  
+| bip_39_word_no_space_8 | graindigitaldisorderexpandhamstermakehanddream |  
+| bip_39_word_no_space_9 | graindigitaldisorderexpandhamstermakehanddreamsibling |  
 | bip_39_word_space_0 | ['grain', 'digital', 'disorder', 'expand', 'hamster', 'make', 'hand', 'dream', 'sibling', 'oxygen', 'rubber', 'arch'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain digital disorder expand hamster make hand dream sibling oxygen |  

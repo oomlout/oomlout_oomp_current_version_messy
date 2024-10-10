@@ -122,6 +122,18 @@ other
 oil
 angle
 maximum |  
+| bip_39_word_no_space_1 | civil |  
+| bip_39_word_no_space_10 | civilsolartoplicenseupdateotheroilanglemaximumbrick |  
+| bip_39_word_no_space_11 | civilsolartoplicenseupdateotheroilanglemaximumbrickobtain |  
+| bip_39_word_no_space_12 | civilsolartoplicenseupdateotheroilanglemaximumbrickobtainabsurd |  
+| bip_39_word_no_space_2 | civilsolar |  
+| bip_39_word_no_space_3 | civilsolartop |  
+| bip_39_word_no_space_4 | civilsolartoplicense |  
+| bip_39_word_no_space_5 | civilsolartoplicenseupdate |  
+| bip_39_word_no_space_6 | civilsolartoplicenseupdateother |  
+| bip_39_word_no_space_7 | civilsolartoplicenseupdateotheroil |  
+| bip_39_word_no_space_8 | civilsolartoplicenseupdateotheroilangle |  
+| bip_39_word_no_space_9 | civilsolartoplicenseupdateotheroilanglemaximum |  
 | bip_39_word_space_0 | ['civil', 'solar', 'top', 'license', 'update', 'other', 'oil', 'angle', 'maximum', 'brick', 'obtain', 'absurd'] |  
 | bip_39_word_space_1 | civil |  
 | bip_39_word_space_10 | civil solar top license update other oil angle maximum brick |  

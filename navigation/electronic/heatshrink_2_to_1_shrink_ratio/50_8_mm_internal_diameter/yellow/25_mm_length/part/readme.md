@@ -122,6 +122,18 @@ comfort
 clerk
 yellow
 rally |  
+| bip_39_word_no_space_1 | humor |  
+| bip_39_word_no_space_10 | humorlistblamemachinedrivecomfortclerkyellowrallyamused |  
+| bip_39_word_no_space_11 | humorlistblamemachinedrivecomfortclerkyellowrallyamusedcanoe |  
+| bip_39_word_no_space_12 | humorlistblamemachinedrivecomfortclerkyellowrallyamusedcanoeanger |  
+| bip_39_word_no_space_2 | humorlist |  
+| bip_39_word_no_space_3 | humorlistblame |  
+| bip_39_word_no_space_4 | humorlistblamemachine |  
+| bip_39_word_no_space_5 | humorlistblamemachinedrive |  
+| bip_39_word_no_space_6 | humorlistblamemachinedrivecomfort |  
+| bip_39_word_no_space_7 | humorlistblamemachinedrivecomfortclerk |  
+| bip_39_word_no_space_8 | humorlistblamemachinedrivecomfortclerkyellow |  
+| bip_39_word_no_space_9 | humorlistblamemachinedrivecomfortclerkyellowrally |  
 | bip_39_word_space_0 | ['humor', 'list', 'blame', 'machine', 'drive', 'comfort', 'clerk', 'yellow', 'rally', 'amused', 'canoe', 'anger'] |  
 | bip_39_word_space_1 | humor |  
 | bip_39_word_space_10 | humor list blame machine drive comfort clerk yellow rally amused |  

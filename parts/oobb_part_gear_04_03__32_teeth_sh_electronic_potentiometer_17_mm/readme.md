@@ -122,6 +122,18 @@ half
 trouble
 melody
 warm |  
+| bip_39_word_no_space_1 | region |  
+| bip_39_word_no_space_10 | regionawakefortunescriptresourcehalftroublemelodywarmgather |  
+| bip_39_word_no_space_11 | regionawakefortunescriptresourcehalftroublemelodywarmgatherromance |  
+| bip_39_word_no_space_12 | regionawakefortunescriptresourcehalftroublemelodywarmgatherromanceasthma |  
+| bip_39_word_no_space_2 | regionawake |  
+| bip_39_word_no_space_3 | regionawakefortune |  
+| bip_39_word_no_space_4 | regionawakefortunescript |  
+| bip_39_word_no_space_5 | regionawakefortunescriptresource |  
+| bip_39_word_no_space_6 | regionawakefortunescriptresourcehalf |  
+| bip_39_word_no_space_7 | regionawakefortunescriptresourcehalftrouble |  
+| bip_39_word_no_space_8 | regionawakefortunescriptresourcehalftroublemelody |  
+| bip_39_word_no_space_9 | regionawakefortunescriptresourcehalftroublemelodywarm |  
 | bip_39_word_space_0 | ['region', 'awake', 'fortune', 'script', 'resource', 'half', 'trouble', 'melody', 'warm', 'gather', 'romance', 'asthma'] |  
 | bip_39_word_space_1 | region |  
 | bip_39_word_space_10 | region awake fortune script resource half trouble melody warm gather |  

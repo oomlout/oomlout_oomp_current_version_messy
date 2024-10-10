@@ -122,6 +122,18 @@ auction
 draw
 home
 genius |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousdecorateurgeawesomefurnaceauctiondrawhomegeniusrookie |  
+| bip_39_word_no_space_11 | viciousdecorateurgeawesomefurnaceauctiondrawhomegeniusrookiegarbage |  
+| bip_39_word_no_space_12 | viciousdecorateurgeawesomefurnaceauctiondrawhomegeniusrookiegarbageathlete |  
+| bip_39_word_no_space_2 | viciousdecorate |  
+| bip_39_word_no_space_3 | viciousdecorateurge |  
+| bip_39_word_no_space_4 | viciousdecorateurgeawesome |  
+| bip_39_word_no_space_5 | viciousdecorateurgeawesomefurnace |  
+| bip_39_word_no_space_6 | viciousdecorateurgeawesomefurnaceauction |  
+| bip_39_word_no_space_7 | viciousdecorateurgeawesomefurnaceauctiondraw |  
+| bip_39_word_no_space_8 | viciousdecorateurgeawesomefurnaceauctiondrawhome |  
+| bip_39_word_no_space_9 | viciousdecorateurgeawesomefurnaceauctiondrawhomegenius |  
 | bip_39_word_space_0 | ['vicious', 'decorate', 'urge', 'awesome', 'furnace', 'auction', 'draw', 'home', 'genius', 'rookie', 'garbage', 'athlete'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious decorate urge awesome furnace auction draw home genius rookie |  

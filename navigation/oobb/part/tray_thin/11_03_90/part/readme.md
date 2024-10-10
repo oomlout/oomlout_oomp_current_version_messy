@@ -122,6 +122,18 @@ reopen
 chaos
 oyster
 two |  
+| bip_39_word_no_space_1 | afraid |  
+| bip_39_word_no_space_10 | afraidgrapepioneerfrozenvotereopenchaosoystertwoenact |  
+| bip_39_word_no_space_11 | afraidgrapepioneerfrozenvotereopenchaosoystertwoenactnow |  
+| bip_39_word_no_space_12 | afraidgrapepioneerfrozenvotereopenchaosoystertwoenactnowamateur |  
+| bip_39_word_no_space_2 | afraidgrape |  
+| bip_39_word_no_space_3 | afraidgrapepioneer |  
+| bip_39_word_no_space_4 | afraidgrapepioneerfrozen |  
+| bip_39_word_no_space_5 | afraidgrapepioneerfrozenvote |  
+| bip_39_word_no_space_6 | afraidgrapepioneerfrozenvotereopen |  
+| bip_39_word_no_space_7 | afraidgrapepioneerfrozenvotereopenchaos |  
+| bip_39_word_no_space_8 | afraidgrapepioneerfrozenvotereopenchaosoyster |  
+| bip_39_word_no_space_9 | afraidgrapepioneerfrozenvotereopenchaosoystertwo |  
 | bip_39_word_space_0 | ['afraid', 'grape', 'pioneer', 'frozen', 'vote', 'reopen', 'chaos', 'oyster', 'two', 'enact', 'now', 'amateur'] |  
 | bip_39_word_space_1 | afraid |  
 | bip_39_word_space_10 | afraid grape pioneer frozen vote reopen chaos oyster two enact |  

@@ -122,6 +122,18 @@ thrive
 ribbon
 bulb
 moment |  
+| bip_39_word_no_space_1 | plate |  
+| bip_39_word_no_space_10 | platesniffspheretryhelmetthriveribbonbulbmomentplastic |  
+| bip_39_word_no_space_11 | platesniffspheretryhelmetthriveribbonbulbmomentplasticoften |  
+| bip_39_word_no_space_12 | platesniffspheretryhelmetthriveribbonbulbmomentplasticoftenadapt |  
+| bip_39_word_no_space_2 | platesniff |  
+| bip_39_word_no_space_3 | platesniffsphere |  
+| bip_39_word_no_space_4 | platesniffspheretry |  
+| bip_39_word_no_space_5 | platesniffspheretryhelmet |  
+| bip_39_word_no_space_6 | platesniffspheretryhelmetthrive |  
+| bip_39_word_no_space_7 | platesniffspheretryhelmetthriveribbon |  
+| bip_39_word_no_space_8 | platesniffspheretryhelmetthriveribbonbulb |  
+| bip_39_word_no_space_9 | platesniffspheretryhelmetthriveribbonbulbmoment |  
 | bip_39_word_space_0 | ['plate', 'sniff', 'sphere', 'try', 'helmet', 'thrive', 'ribbon', 'bulb', 'moment', 'plastic', 'often', 'adapt'] |  
 | bip_39_word_space_1 | plate |  
 | bip_39_word_space_10 | plate sniff sphere try helmet thrive ribbon bulb moment plastic |  

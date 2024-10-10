@@ -122,6 +122,18 @@ giggle
 shoe
 push
 census |  
+| bip_39_word_no_space_1 | arrange |  
+| bip_39_word_no_space_10 | arrangelatincomefueljargiggleshoepushcensusleisure |  
+| bip_39_word_no_space_11 | arrangelatincomefueljargiggleshoepushcensusleisuredrum |  
+| bip_39_word_no_space_12 | arrangelatincomefueljargiggleshoepushcensusleisuredrumalter |  
+| bip_39_word_no_space_2 | arrangelatin |  
+| bip_39_word_no_space_3 | arrangelatincome |  
+| bip_39_word_no_space_4 | arrangelatincomefuel |  
+| bip_39_word_no_space_5 | arrangelatincomefueljar |  
+| bip_39_word_no_space_6 | arrangelatincomefueljargiggle |  
+| bip_39_word_no_space_7 | arrangelatincomefueljargiggleshoe |  
+| bip_39_word_no_space_8 | arrangelatincomefueljargiggleshoepush |  
+| bip_39_word_no_space_9 | arrangelatincomefueljargiggleshoepushcensus |  
 | bip_39_word_space_0 | ['arrange', 'latin', 'come', 'fuel', 'jar', 'giggle', 'shoe', 'push', 'census', 'leisure', 'drum', 'alter'] |  
 | bip_39_word_space_1 | arrange |  
 | bip_39_word_space_10 | arrange latin come fuel jar giggle shoe push census leisure |  

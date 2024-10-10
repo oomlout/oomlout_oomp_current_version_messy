@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'twist
   wagon
 
   flight'
+bip_39_word_no_space_1: twist
+bip_39_word_no_space_10: twistfriendwantsaladdragonrebeltunnelwagonflightcity
+bip_39_word_no_space_11: twistfriendwantsaladdragonrebeltunnelwagonflightcityjourney
+bip_39_word_no_space_12: twistfriendwantsaladdragonrebeltunnelwagonflightcityjourneyarm
+bip_39_word_no_space_2: twistfriend
+bip_39_word_no_space_3: twistfriendwant
+bip_39_word_no_space_4: twistfriendwantsalad
+bip_39_word_no_space_5: twistfriendwantsaladdragon
+bip_39_word_no_space_6: twistfriendwantsaladdragonrebel
+bip_39_word_no_space_7: twistfriendwantsaladdragonrebeltunnel
+bip_39_word_no_space_8: twistfriendwantsaladdragonrebeltunnelwagon
+bip_39_word_no_space_9: twistfriendwantsaladdragonrebeltunnelwagonflight
 bip_39_word_space_0:
 - twist
 - friend

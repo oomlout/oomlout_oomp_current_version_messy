@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'badge
   vote
 
   mandate'
+bip_39_word_no_space_1: badge
+bip_39_word_no_space_10: badgenervecubebroomwagedogorientvotemandateblind
+bip_39_word_no_space_11: badgenervecubebroomwagedogorientvotemandateblindhour
+bip_39_word_no_space_12: badgenervecubebroomwagedogorientvotemandateblindhourapart
+bip_39_word_no_space_2: badgenerve
+bip_39_word_no_space_3: badgenervecube
+bip_39_word_no_space_4: badgenervecubebroom
+bip_39_word_no_space_5: badgenervecubebroomwage
+bip_39_word_no_space_6: badgenervecubebroomwagedog
+bip_39_word_no_space_7: badgenervecubebroomwagedogorient
+bip_39_word_no_space_8: badgenervecubebroomwagedogorientvote
+bip_39_word_no_space_9: badgenervecubebroomwagedogorientvotemandate
 bip_39_word_space_0:
 - badge
 - nerve

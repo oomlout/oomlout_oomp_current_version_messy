@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ankle
   want
 
   net'
+bip_39_word_no_space_1: ankle
+bip_39_word_no_space_10: anklerazorloadhurdleteachwelcomenicewantnetsuggest
+bip_39_word_no_space_11: anklerazorloadhurdleteachwelcomenicewantnetsuggestsimilar
+bip_39_word_no_space_12: anklerazorloadhurdleteachwelcomenicewantnetsuggestsimilararmed
+bip_39_word_no_space_2: anklerazor
+bip_39_word_no_space_3: anklerazorload
+bip_39_word_no_space_4: anklerazorloadhurdle
+bip_39_word_no_space_5: anklerazorloadhurdleteach
+bip_39_word_no_space_6: anklerazorloadhurdleteachwelcome
+bip_39_word_no_space_7: anklerazorloadhurdleteachwelcomenice
+bip_39_word_no_space_8: anklerazorloadhurdleteachwelcomenicewant
+bip_39_word_no_space_9: anklerazorloadhurdleteachwelcomenicewantnet
 bip_39_word_space_0:
 - ankle
 - razor

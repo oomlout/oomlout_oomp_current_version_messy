@@ -122,6 +122,18 @@ comfort
 opinion
 amount
 ghost |  
+| bip_39_word_no_space_1 | saddle |  
+| bip_39_word_no_space_10 | saddlegymgiraffeedgecaptaincomfortopinionamountghostclub |  
+| bip_39_word_no_space_11 | saddlegymgiraffeedgecaptaincomfortopinionamountghostclubsalad |  
+| bip_39_word_no_space_12 | saddlegymgiraffeedgecaptaincomfortopinionamountghostclubsaladaunt |  
+| bip_39_word_no_space_2 | saddlegym |  
+| bip_39_word_no_space_3 | saddlegymgiraffe |  
+| bip_39_word_no_space_4 | saddlegymgiraffeedge |  
+| bip_39_word_no_space_5 | saddlegymgiraffeedgecaptain |  
+| bip_39_word_no_space_6 | saddlegymgiraffeedgecaptaincomfort |  
+| bip_39_word_no_space_7 | saddlegymgiraffeedgecaptaincomfortopinion |  
+| bip_39_word_no_space_8 | saddlegymgiraffeedgecaptaincomfortopinionamount |  
+| bip_39_word_no_space_9 | saddlegymgiraffeedgecaptaincomfortopinionamountghost |  
 | bip_39_word_space_0 | ['saddle', 'gym', 'giraffe', 'edge', 'captain', 'comfort', 'opinion', 'amount', 'ghost', 'club', 'salad', 'aunt'] |  
 | bip_39_word_space_1 | saddle |  
 | bip_39_word_space_10 | saddle gym giraffe edge captain comfort opinion amount ghost club |  

@@ -122,6 +122,18 @@ egg
 post
 tomato
 carpet |  
+| bip_39_word_no_space_1 | entire |  
+| bip_39_word_no_space_10 | entiretermtraphobbycomforteggposttomatocarpetunit |  
+| bip_39_word_no_space_11 | entiretermtraphobbycomforteggposttomatocarpetunitsatoshi |  
+| bip_39_word_no_space_12 | entiretermtraphobbycomforteggposttomatocarpetunitsatoshiaspect |  
+| bip_39_word_no_space_2 | entireterm |  
+| bip_39_word_no_space_3 | entiretermtrap |  
+| bip_39_word_no_space_4 | entiretermtraphobby |  
+| bip_39_word_no_space_5 | entiretermtraphobbycomfort |  
+| bip_39_word_no_space_6 | entiretermtraphobbycomfortegg |  
+| bip_39_word_no_space_7 | entiretermtraphobbycomforteggpost |  
+| bip_39_word_no_space_8 | entiretermtraphobbycomforteggposttomato |  
+| bip_39_word_no_space_9 | entiretermtraphobbycomforteggposttomatocarpet |  
 | bip_39_word_space_0 | ['entire', 'term', 'trap', 'hobby', 'comfort', 'egg', 'post', 'tomato', 'carpet', 'unit', 'satoshi', 'aspect'] |  
 | bip_39_word_space_1 | entire |  
 | bip_39_word_space_10 | entire term trap hobby comfort egg post tomato carpet unit |  

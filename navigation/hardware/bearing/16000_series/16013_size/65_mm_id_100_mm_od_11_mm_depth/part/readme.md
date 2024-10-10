@@ -122,6 +122,18 @@ letter
 harbor
 toddler
 size |  
+| bip_39_word_no_space_1 | menu |  
+| bip_39_word_no_space_10 | menuflaggingerlyricsleaveletterharbortoddlersizeartwork |  
+| bip_39_word_no_space_11 | menuflaggingerlyricsleaveletterharbortoddlersizeartworkfield |  
+| bip_39_word_no_space_12 | menuflaggingerlyricsleaveletterharbortoddlersizeartworkfieldamong |  
+| bip_39_word_no_space_2 | menuflag |  
+| bip_39_word_no_space_3 | menuflagginger |  
+| bip_39_word_no_space_4 | menuflaggingerlyrics |  
+| bip_39_word_no_space_5 | menuflaggingerlyricsleave |  
+| bip_39_word_no_space_6 | menuflaggingerlyricsleaveletter |  
+| bip_39_word_no_space_7 | menuflaggingerlyricsleaveletterharbor |  
+| bip_39_word_no_space_8 | menuflaggingerlyricsleaveletterharbortoddler |  
+| bip_39_word_no_space_9 | menuflaggingerlyricsleaveletterharbortoddlersize |  
 | bip_39_word_space_0 | ['menu', 'flag', 'ginger', 'lyrics', 'leave', 'letter', 'harbor', 'toddler', 'size', 'artwork', 'field', 'among'] |  
 | bip_39_word_space_1 | menu |  
 | bip_39_word_space_10 | menu flag ginger lyrics leave letter harbor toddler size artwork |  

@@ -122,6 +122,18 @@ satoshi
 reject
 space
 symptom |  
+| bip_39_word_no_space_1 | bachelor |  
+| bip_39_word_no_space_10 | bachelorcousinorderconvincedraftsatoshirejectspacesymptomtail |  
+| bip_39_word_no_space_11 | bachelorcousinorderconvincedraftsatoshirejectspacesymptomtaillabel |  
+| bip_39_word_no_space_12 | bachelorcousinorderconvincedraftsatoshirejectspacesymptomtaillabelargue |  
+| bip_39_word_no_space_2 | bachelorcousin |  
+| bip_39_word_no_space_3 | bachelorcousinorder |  
+| bip_39_word_no_space_4 | bachelorcousinorderconvince |  
+| bip_39_word_no_space_5 | bachelorcousinorderconvincedraft |  
+| bip_39_word_no_space_6 | bachelorcousinorderconvincedraftsatoshi |  
+| bip_39_word_no_space_7 | bachelorcousinorderconvincedraftsatoshireject |  
+| bip_39_word_no_space_8 | bachelorcousinorderconvincedraftsatoshirejectspace |  
+| bip_39_word_no_space_9 | bachelorcousinorderconvincedraftsatoshirejectspacesymptom |  
 | bip_39_word_space_0 | ['bachelor', 'cousin', 'order', 'convince', 'draft', 'satoshi', 'reject', 'space', 'symptom', 'tail', 'label', 'argue'] |  
 | bip_39_word_space_1 | bachelor |  
 | bip_39_word_space_10 | bachelor cousin order convince draft satoshi reject space symptom tail |  

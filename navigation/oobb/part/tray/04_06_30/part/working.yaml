@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'there
   aim
 
   goose'
+bip_39_word_no_space_1: there
+bip_39_word_no_space_10: thereutilitypigprofitcrystalrecipepathaimgooselock
+bip_39_word_no_space_11: thereutilitypigprofitcrystalrecipepathaimgooselockburger
+bip_39_word_no_space_12: thereutilitypigprofitcrystalrecipepathaimgooselockburgerafford
+bip_39_word_no_space_2: thereutility
+bip_39_word_no_space_3: thereutilitypig
+bip_39_word_no_space_4: thereutilitypigprofit
+bip_39_word_no_space_5: thereutilitypigprofitcrystal
+bip_39_word_no_space_6: thereutilitypigprofitcrystalrecipe
+bip_39_word_no_space_7: thereutilitypigprofitcrystalrecipepath
+bip_39_word_no_space_8: thereutilitypigprofitcrystalrecipepathaim
+bip_39_word_no_space_9: thereutilitypigprofitcrystalrecipepathaimgoose
 bip_39_word_space_0:
 - there
 - utility

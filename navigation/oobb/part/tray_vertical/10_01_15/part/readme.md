@@ -122,6 +122,18 @@ liar
 inhale
 exotic
 property |  
+| bip_39_word_no_space_1 | recall |  
+| bip_39_word_no_space_10 | recallwhatdicesetupsoundliarinhaleexoticpropertyair |  
+| bip_39_word_no_space_11 | recallwhatdicesetupsoundliarinhaleexoticpropertyairexample |  
+| bip_39_word_no_space_12 | recallwhatdicesetupsoundliarinhaleexoticpropertyairexampleargue |  
+| bip_39_word_no_space_2 | recallwhat |  
+| bip_39_word_no_space_3 | recallwhatdice |  
+| bip_39_word_no_space_4 | recallwhatdicesetup |  
+| bip_39_word_no_space_5 | recallwhatdicesetupsound |  
+| bip_39_word_no_space_6 | recallwhatdicesetupsoundliar |  
+| bip_39_word_no_space_7 | recallwhatdicesetupsoundliarinhale |  
+| bip_39_word_no_space_8 | recallwhatdicesetupsoundliarinhaleexotic |  
+| bip_39_word_no_space_9 | recallwhatdicesetupsoundliarinhaleexoticproperty |  
 | bip_39_word_space_0 | ['recall', 'what', 'dice', 'setup', 'sound', 'liar', 'inhale', 'exotic', 'property', 'air', 'example', 'argue'] |  
 | bip_39_word_space_1 | recall |  
 | bip_39_word_space_10 | recall what dice setup sound liar inhale exotic property air |  

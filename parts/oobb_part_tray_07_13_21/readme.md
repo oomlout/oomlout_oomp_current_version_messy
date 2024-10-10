@@ -122,6 +122,18 @@ sort
 pigeon
 pretty
 follow |  
+| bip_39_word_no_space_1 | lecture |  
+| bip_39_word_no_space_10 | lecturesnapoceanaerobicbirdsortpigeonprettyfollowproject |  
+| bip_39_word_no_space_11 | lecturesnapoceanaerobicbirdsortpigeonprettyfollowprojectguilt |  
+| bip_39_word_no_space_12 | lecturesnapoceanaerobicbirdsortpigeonprettyfollowprojectguiltargue |  
+| bip_39_word_no_space_2 | lecturesnap |  
+| bip_39_word_no_space_3 | lecturesnapocean |  
+| bip_39_word_no_space_4 | lecturesnapoceanaerobic |  
+| bip_39_word_no_space_5 | lecturesnapoceanaerobicbird |  
+| bip_39_word_no_space_6 | lecturesnapoceanaerobicbirdsort |  
+| bip_39_word_no_space_7 | lecturesnapoceanaerobicbirdsortpigeon |  
+| bip_39_word_no_space_8 | lecturesnapoceanaerobicbirdsortpigeonpretty |  
+| bip_39_word_no_space_9 | lecturesnapoceanaerobicbirdsortpigeonprettyfollow |  
 | bip_39_word_space_0 | ['lecture', 'snap', 'ocean', 'aerobic', 'bird', 'sort', 'pigeon', 'pretty', 'follow', 'project', 'guilt', 'argue'] |  
 | bip_39_word_space_1 | lecture |  
 | bip_39_word_space_10 | lecture snap ocean aerobic bird sort pigeon pretty follow project |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stay
   rail
 
   amateur'
+bip_39_word_no_space_1: stay
+bip_39_word_no_space_10: stayringlumberswingturkeymenutailrailamateurball
+bip_39_word_no_space_11: stayringlumberswingturkeymenutailrailamateurballdentist
+bip_39_word_no_space_12: stayringlumberswingturkeymenutailrailamateurballdentistachieve
+bip_39_word_no_space_2: stayring
+bip_39_word_no_space_3: stayringlumber
+bip_39_word_no_space_4: stayringlumberswing
+bip_39_word_no_space_5: stayringlumberswingturkey
+bip_39_word_no_space_6: stayringlumberswingturkeymenu
+bip_39_word_no_space_7: stayringlumberswingturkeymenutail
+bip_39_word_no_space_8: stayringlumberswingturkeymenutailrail
+bip_39_word_no_space_9: stayringlumberswingturkeymenutailrailamateur
 bip_39_word_space_0:
 - stay
 - ring

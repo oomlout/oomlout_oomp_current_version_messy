@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soon
   north
 
   rose'
+bip_39_word_no_space_1: soon
+bip_39_word_no_space_10: soondangeraspectmomalmostlectureshellnorthroseclog
+bip_39_word_no_space_11: soondangeraspectmomalmostlectureshellnorthroseclogresist
+bip_39_word_no_space_12: soondangeraspectmomalmostlectureshellnorthroseclogresistattack
+bip_39_word_no_space_2: soondanger
+bip_39_word_no_space_3: soondangeraspect
+bip_39_word_no_space_4: soondangeraspectmom
+bip_39_word_no_space_5: soondangeraspectmomalmost
+bip_39_word_no_space_6: soondangeraspectmomalmostlecture
+bip_39_word_no_space_7: soondangeraspectmomalmostlectureshell
+bip_39_word_no_space_8: soondangeraspectmomalmostlectureshellnorth
+bip_39_word_no_space_9: soondangeraspectmomalmostlectureshellnorthrose
 bip_39_word_space_0:
 - soon
 - danger

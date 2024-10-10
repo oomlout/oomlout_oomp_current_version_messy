@@ -122,6 +122,18 @@ cheese
 ranch
 suggest
 often |  
+| bip_39_word_no_space_1 | broccoli |  
+| bip_39_word_no_space_10 | broccolitimberbalconydadcruisecheeseranchsuggestoftencrush |  
+| bip_39_word_no_space_11 | broccolitimberbalconydadcruisecheeseranchsuggestoftencrushtenant |  
+| bip_39_word_no_space_12 | broccolitimberbalconydadcruisecheeseranchsuggestoftencrushtenantarmor |  
+| bip_39_word_no_space_2 | broccolitimber |  
+| bip_39_word_no_space_3 | broccolitimberbalcony |  
+| bip_39_word_no_space_4 | broccolitimberbalconydad |  
+| bip_39_word_no_space_5 | broccolitimberbalconydadcruise |  
+| bip_39_word_no_space_6 | broccolitimberbalconydadcruisecheese |  
+| bip_39_word_no_space_7 | broccolitimberbalconydadcruisecheeseranch |  
+| bip_39_word_no_space_8 | broccolitimberbalconydadcruisecheeseranchsuggest |  
+| bip_39_word_no_space_9 | broccolitimberbalconydadcruisecheeseranchsuggestoften |  
 | bip_39_word_space_0 | ['broccoli', 'timber', 'balcony', 'dad', 'cruise', 'cheese', 'ranch', 'suggest', 'often', 'crush', 'tenant', 'armor'] |  
 | bip_39_word_space_1 | broccoli |  
 | bip_39_word_space_10 | broccoli timber balcony dad cruise cheese ranch suggest often crush |  

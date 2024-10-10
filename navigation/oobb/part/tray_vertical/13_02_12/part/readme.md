@@ -122,6 +122,18 @@ ability
 alert
 lyrics
 narrow |  
+| bip_39_word_no_space_1 | warrior |  
+| bip_39_word_no_space_10 | warriorlotterypuppyalphalinkabilityalertlyricsnarrowspecial |  
+| bip_39_word_no_space_11 | warriorlotterypuppyalphalinkabilityalertlyricsnarrowspecialpoem |  
+| bip_39_word_no_space_12 | warriorlotterypuppyalphalinkabilityalertlyricsnarrowspecialpoemassault |  
+| bip_39_word_no_space_2 | warriorlottery |  
+| bip_39_word_no_space_3 | warriorlotterypuppy |  
+| bip_39_word_no_space_4 | warriorlotterypuppyalpha |  
+| bip_39_word_no_space_5 | warriorlotterypuppyalphalink |  
+| bip_39_word_no_space_6 | warriorlotterypuppyalphalinkability |  
+| bip_39_word_no_space_7 | warriorlotterypuppyalphalinkabilityalert |  
+| bip_39_word_no_space_8 | warriorlotterypuppyalphalinkabilityalertlyrics |  
+| bip_39_word_no_space_9 | warriorlotterypuppyalphalinkabilityalertlyricsnarrow |  
 | bip_39_word_space_0 | ['warrior', 'lottery', 'puppy', 'alpha', 'link', 'ability', 'alert', 'lyrics', 'narrow', 'special', 'poem', 'assault'] |  
 | bip_39_word_space_1 | warrior |  
 | bip_39_word_space_10 | warrior lottery puppy alpha link ability alert lyrics narrow special |  

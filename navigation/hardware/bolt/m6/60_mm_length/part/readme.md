@@ -122,6 +122,18 @@ patrol
 type
 paddle
 tilt |  
+| bip_39_word_no_space_1 | panic |  
+| bip_39_word_no_space_10 | panicilltailedgemarinepatroltypepaddletiltsalon |  
+| bip_39_word_no_space_11 | panicilltailedgemarinepatroltypepaddletiltsalonleader |  
+| bip_39_word_no_space_12 | panicilltailedgemarinepatroltypepaddletiltsalonleaderachieve |  
+| bip_39_word_no_space_2 | panicill |  
+| bip_39_word_no_space_3 | panicilltail |  
+| bip_39_word_no_space_4 | panicilltailedge |  
+| bip_39_word_no_space_5 | panicilltailedgemarine |  
+| bip_39_word_no_space_6 | panicilltailedgemarinepatrol |  
+| bip_39_word_no_space_7 | panicilltailedgemarinepatroltype |  
+| bip_39_word_no_space_8 | panicilltailedgemarinepatroltypepaddle |  
+| bip_39_word_no_space_9 | panicilltailedgemarinepatroltypepaddletilt |  
 | bip_39_word_space_0 | ['panic', 'ill', 'tail', 'edge', 'marine', 'patrol', 'type', 'paddle', 'tilt', 'salon', 'leader', 'achieve'] |  
 | bip_39_word_space_1 | panic |  
 | bip_39_word_space_10 | panic ill tail edge marine patrol type paddle tilt salon |  

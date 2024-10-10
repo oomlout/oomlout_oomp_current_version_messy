@@ -122,6 +122,18 @@ cigar
 employ
 candy
 fringe |  
+| bip_39_word_no_space_1 | vapor |  
+| bip_39_word_no_space_10 | vaporcustombookfoldswallowcigaremploycandyfringevalve |  
+| bip_39_word_no_space_11 | vaporcustombookfoldswallowcigaremploycandyfringevalveelite |  
+| bip_39_word_no_space_12 | vaporcustombookfoldswallowcigaremploycandyfringevalveeliteanxiety |  
+| bip_39_word_no_space_2 | vaporcustom |  
+| bip_39_word_no_space_3 | vaporcustombook |  
+| bip_39_word_no_space_4 | vaporcustombookfold |  
+| bip_39_word_no_space_5 | vaporcustombookfoldswallow |  
+| bip_39_word_no_space_6 | vaporcustombookfoldswallowcigar |  
+| bip_39_word_no_space_7 | vaporcustombookfoldswallowcigaremploy |  
+| bip_39_word_no_space_8 | vaporcustombookfoldswallowcigaremploycandy |  
+| bip_39_word_no_space_9 | vaporcustombookfoldswallowcigaremploycandyfringe |  
 | bip_39_word_space_0 | ['vapor', 'custom', 'book', 'fold', 'swallow', 'cigar', 'employ', 'candy', 'fringe', 'valve', 'elite', 'anxiety'] |  
 | bip_39_word_space_1 | vapor |  
 | bip_39_word_space_10 | vapor custom book fold swallow cigar employ candy fringe valve |  

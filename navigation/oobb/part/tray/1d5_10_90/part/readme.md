@@ -122,6 +122,18 @@ shine
 body
 brass
 renew |  
+| bip_39_word_no_space_1 | supreme |  
+| bip_39_word_no_space_10 | supremeessaytrackgrassembodyshinebodybrassrenewvehicle |  
+| bip_39_word_no_space_11 | supremeessaytrackgrassembodyshinebodybrassrenewvehicledream |  
+| bip_39_word_no_space_12 | supremeessaytrackgrassembodyshinebodybrassrenewvehicledreamarena |  
+| bip_39_word_no_space_2 | supremeessay |  
+| bip_39_word_no_space_3 | supremeessaytrack |  
+| bip_39_word_no_space_4 | supremeessaytrackgrass |  
+| bip_39_word_no_space_5 | supremeessaytrackgrassembody |  
+| bip_39_word_no_space_6 | supremeessaytrackgrassembodyshine |  
+| bip_39_word_no_space_7 | supremeessaytrackgrassembodyshinebody |  
+| bip_39_word_no_space_8 | supremeessaytrackgrassembodyshinebodybrass |  
+| bip_39_word_no_space_9 | supremeessaytrackgrassembodyshinebodybrassrenew |  
 | bip_39_word_space_0 | ['supreme', 'essay', 'track', 'grass', 'embody', 'shine', 'body', 'brass', 'renew', 'vehicle', 'dream', 'arena'] |  
 | bip_39_word_space_1 | supreme |  
 | bip_39_word_space_10 | supreme essay track grass embody shine body brass renew vehicle |  

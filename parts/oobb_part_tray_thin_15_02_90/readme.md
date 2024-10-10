@@ -122,6 +122,18 @@ solar
 entire
 memory
 machine |  
+| bip_39_word_no_space_1 | brick |  
+| bip_39_word_no_space_10 | bricktruthpuritygaugesteelsolarentirememorymachineahead |  
+| bip_39_word_no_space_11 | bricktruthpuritygaugesteelsolarentirememorymachineaheaddune |  
+| bip_39_word_no_space_12 | bricktruthpuritygaugesteelsolarentirememorymachineaheadduneactress |  
+| bip_39_word_no_space_2 | bricktruth |  
+| bip_39_word_no_space_3 | bricktruthpurity |  
+| bip_39_word_no_space_4 | bricktruthpuritygauge |  
+| bip_39_word_no_space_5 | bricktruthpuritygaugesteel |  
+| bip_39_word_no_space_6 | bricktruthpuritygaugesteelsolar |  
+| bip_39_word_no_space_7 | bricktruthpuritygaugesteelsolarentire |  
+| bip_39_word_no_space_8 | bricktruthpuritygaugesteelsolarentirememory |  
+| bip_39_word_no_space_9 | bricktruthpuritygaugesteelsolarentirememorymachine |  
 | bip_39_word_space_0 | ['brick', 'truth', 'purity', 'gauge', 'steel', 'solar', 'entire', 'memory', 'machine', 'ahead', 'dune', 'actress'] |  
 | bip_39_word_space_1 | brick |  
 | bip_39_word_space_10 | brick truth purity gauge steel solar entire memory machine ahead |  

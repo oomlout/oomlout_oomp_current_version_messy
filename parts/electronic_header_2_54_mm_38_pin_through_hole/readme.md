@@ -122,6 +122,18 @@ fossil
 hedgehog
 reunion
 depth |  
+| bip_39_word_no_space_1 | rail |  
+| bip_39_word_no_space_10 | railravensharesoundmarketfossilhedgehogreuniondepthconduct |  
+| bip_39_word_no_space_11 | railravensharesoundmarketfossilhedgehogreuniondepthconductstool |  
+| bip_39_word_no_space_12 | railravensharesoundmarketfossilhedgehogreuniondepthconductstoolactor |  
+| bip_39_word_no_space_2 | railraven |  
+| bip_39_word_no_space_3 | railravenshare |  
+| bip_39_word_no_space_4 | railravensharesound |  
+| bip_39_word_no_space_5 | railravensharesoundmarket |  
+| bip_39_word_no_space_6 | railravensharesoundmarketfossil |  
+| bip_39_word_no_space_7 | railravensharesoundmarketfossilhedgehog |  
+| bip_39_word_no_space_8 | railravensharesoundmarketfossilhedgehogreunion |  
+| bip_39_word_no_space_9 | railravensharesoundmarketfossilhedgehogreuniondepth |  
 | bip_39_word_space_0 | ['rail', 'raven', 'share', 'sound', 'market', 'fossil', 'hedgehog', 'reunion', 'depth', 'conduct', 'stool', 'actor'] |  
 | bip_39_word_space_1 | rail |  
 | bip_39_word_space_10 | rail raven share sound market fossil hedgehog reunion depth conduct |  

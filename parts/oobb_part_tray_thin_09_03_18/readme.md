@@ -122,6 +122,18 @@ ceiling
 spread
 chief
 reflect |  
+| bip_39_word_no_space_1 | enable |  
+| bip_39_word_no_space_10 | enablewarriorconfirmlawtoolceilingspreadchiefreflectcement |  
+| bip_39_word_no_space_11 | enablewarriorconfirmlawtoolceilingspreadchiefreflectcementnotable |  
+| bip_39_word_no_space_12 | enablewarriorconfirmlawtoolceilingspreadchiefreflectcementnotableaddict |  
+| bip_39_word_no_space_2 | enablewarrior |  
+| bip_39_word_no_space_3 | enablewarriorconfirm |  
+| bip_39_word_no_space_4 | enablewarriorconfirmlaw |  
+| bip_39_word_no_space_5 | enablewarriorconfirmlawtool |  
+| bip_39_word_no_space_6 | enablewarriorconfirmlawtoolceiling |  
+| bip_39_word_no_space_7 | enablewarriorconfirmlawtoolceilingspread |  
+| bip_39_word_no_space_8 | enablewarriorconfirmlawtoolceilingspreadchief |  
+| bip_39_word_no_space_9 | enablewarriorconfirmlawtoolceilingspreadchiefreflect |  
 | bip_39_word_space_0 | ['enable', 'warrior', 'confirm', 'law', 'tool', 'ceiling', 'spread', 'chief', 'reflect', 'cement', 'notable', 'addict'] |  
 | bip_39_word_space_1 | enable |  
 | bip_39_word_space_10 | enable warrior confirm law tool ceiling spread chief reflect cement |  

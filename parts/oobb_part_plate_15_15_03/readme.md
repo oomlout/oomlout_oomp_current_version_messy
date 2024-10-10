@@ -122,6 +122,18 @@ very
 cattle
 either
 employ |  
+| bip_39_word_no_space_1 | cave |  
+| bip_39_word_no_space_10 | cavepagesugargrieftinyverycattleeitheremploypave |  
+| bip_39_word_no_space_11 | cavepagesugargrieftinyverycattleeitheremploypavecorrect |  
+| bip_39_word_no_space_12 | cavepagesugargrieftinyverycattleeitheremploypavecorrectankle |  
+| bip_39_word_no_space_2 | cavepage |  
+| bip_39_word_no_space_3 | cavepagesugar |  
+| bip_39_word_no_space_4 | cavepagesugargrief |  
+| bip_39_word_no_space_5 | cavepagesugargrieftiny |  
+| bip_39_word_no_space_6 | cavepagesugargrieftinyvery |  
+| bip_39_word_no_space_7 | cavepagesugargrieftinyverycattle |  
+| bip_39_word_no_space_8 | cavepagesugargrieftinyverycattleeither |  
+| bip_39_word_no_space_9 | cavepagesugargrieftinyverycattleeitheremploy |  
 | bip_39_word_space_0 | ['cave', 'page', 'sugar', 'grief', 'tiny', 'very', 'cattle', 'either', 'employ', 'pave', 'correct', 'ankle'] |  
 | bip_39_word_space_1 | cave |  
 | bip_39_word_space_10 | cave page sugar grief tiny very cattle either employ pave |  

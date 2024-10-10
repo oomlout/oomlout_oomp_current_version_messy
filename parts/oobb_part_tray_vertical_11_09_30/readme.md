@@ -122,6 +122,18 @@ genre
 popular
 long
 nose |  
+| bip_39_word_no_space_1 | catch |  
+| bip_39_word_no_space_10 | catchshaftsoftsamesoapgenrepopularlongnosemosquito |  
+| bip_39_word_no_space_11 | catchshaftsoftsamesoapgenrepopularlongnosemosquitoany |  
+| bip_39_word_no_space_12 | catchshaftsoftsamesoapgenrepopularlongnosemosquitoanyaction |  
+| bip_39_word_no_space_2 | catchshaft |  
+| bip_39_word_no_space_3 | catchshaftsoft |  
+| bip_39_word_no_space_4 | catchshaftsoftsame |  
+| bip_39_word_no_space_5 | catchshaftsoftsamesoap |  
+| bip_39_word_no_space_6 | catchshaftsoftsamesoapgenre |  
+| bip_39_word_no_space_7 | catchshaftsoftsamesoapgenrepopular |  
+| bip_39_word_no_space_8 | catchshaftsoftsamesoapgenrepopularlong |  
+| bip_39_word_no_space_9 | catchshaftsoftsamesoapgenrepopularlongnose |  
 | bip_39_word_space_0 | ['catch', 'shaft', 'soft', 'same', 'soap', 'genre', 'popular', 'long', 'nose', 'mosquito', 'any', 'action'] |  
 | bip_39_word_space_1 | catch |  
 | bip_39_word_space_10 | catch shaft soft same soap genre popular long nose mosquito |  

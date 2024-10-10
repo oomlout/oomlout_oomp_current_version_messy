@@ -122,6 +122,18 @@ run
 deliver
 outdoor
 genre |  
+| bip_39_word_no_space_1 | rare |  
+| bip_39_word_no_space_10 | rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronic |  
+| bip_39_word_no_space_11 | rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronicparent |  
+| bip_39_word_no_space_12 | rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronicparentafraid |  
+| bip_39_word_no_space_2 | rarecastle |  
+| bip_39_word_no_space_3 | rarecastlescout |  
+| bip_39_word_no_space_4 | rarecastlescoutadvice |  
+| bip_39_word_no_space_5 | rarecastlescoutadviceumbrella |  
+| bip_39_word_no_space_6 | rarecastlescoutadviceumbrellarun |  
+| bip_39_word_no_space_7 | rarecastlescoutadviceumbrellarundeliver |  
+| bip_39_word_no_space_8 | rarecastlescoutadviceumbrellarundeliveroutdoor |  
+| bip_39_word_no_space_9 | rarecastlescoutadviceumbrellarundeliveroutdoorgenre |  
 | bip_39_word_space_0 | ['rare', 'castle', 'scout', 'advice', 'umbrella', 'run', 'deliver', 'outdoor', 'genre', 'chronic', 'parent', 'afraid'] |  
 | bip_39_word_space_1 | rare |  
 | bip_39_word_space_10 | rare castle scout advice umbrella run deliver outdoor genre chronic |  

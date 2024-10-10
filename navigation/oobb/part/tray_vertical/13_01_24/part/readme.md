@@ -122,6 +122,18 @@ upper
 cinnamon
 satoshi
 palm |  
+| bip_39_word_no_space_1 | erosion |  
+| bip_39_word_no_space_10 | erosionsolidabilitysubjectniceuppercinnamonsatoshipalmsoft |  
+| bip_39_word_no_space_11 | erosionsolidabilitysubjectniceuppercinnamonsatoshipalmsoftsail |  
+| bip_39_word_no_space_12 | erosionsolidabilitysubjectniceuppercinnamonsatoshipalmsoftsailassault |  
+| bip_39_word_no_space_2 | erosionsolid |  
+| bip_39_word_no_space_3 | erosionsolidability |  
+| bip_39_word_no_space_4 | erosionsolidabilitysubject |  
+| bip_39_word_no_space_5 | erosionsolidabilitysubjectnice |  
+| bip_39_word_no_space_6 | erosionsolidabilitysubjectniceupper |  
+| bip_39_word_no_space_7 | erosionsolidabilitysubjectniceuppercinnamon |  
+| bip_39_word_no_space_8 | erosionsolidabilitysubjectniceuppercinnamonsatoshi |  
+| bip_39_word_no_space_9 | erosionsolidabilitysubjectniceuppercinnamonsatoshipalm |  
 | bip_39_word_space_0 | ['erosion', 'solid', 'ability', 'subject', 'nice', 'upper', 'cinnamon', 'satoshi', 'palm', 'soft', 'sail', 'assault'] |  
 | bip_39_word_space_1 | erosion |  
 | bip_39_word_space_10 | erosion solid ability subject nice upper cinnamon satoshi palm soft |  

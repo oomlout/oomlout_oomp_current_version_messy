@@ -122,6 +122,18 @@ coral
 funny
 together
 veteran |  
+| bip_39_word_no_space_1 | educate |  
+| bip_39_word_no_space_10 | educateenablegravitypassrightcoralfunnytogetherveterancarbon |  
+| bip_39_word_no_space_11 | educateenablegravitypassrightcoralfunnytogetherveterancarbonbreeze |  
+| bip_39_word_no_space_12 | educateenablegravitypassrightcoralfunnytogetherveterancarbonbreezeaugust |  
+| bip_39_word_no_space_2 | educateenable |  
+| bip_39_word_no_space_3 | educateenablegravity |  
+| bip_39_word_no_space_4 | educateenablegravitypass |  
+| bip_39_word_no_space_5 | educateenablegravitypassright |  
+| bip_39_word_no_space_6 | educateenablegravitypassrightcoral |  
+| bip_39_word_no_space_7 | educateenablegravitypassrightcoralfunny |  
+| bip_39_word_no_space_8 | educateenablegravitypassrightcoralfunnytogether |  
+| bip_39_word_no_space_9 | educateenablegravitypassrightcoralfunnytogetherveteran |  
 | bip_39_word_space_0 | ['educate', 'enable', 'gravity', 'pass', 'right', 'coral', 'funny', 'together', 'veteran', 'carbon', 'breeze', 'august'] |  
 | bip_39_word_space_1 | educate |  
 | bip_39_word_space_10 | educate enable gravity pass right coral funny together veteran carbon |  

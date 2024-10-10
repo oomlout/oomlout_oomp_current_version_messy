@@ -122,6 +122,18 @@ stool
 member
 neglect
 dutch |  
+| bip_39_word_no_space_1 | breeze |  
+| bip_39_word_no_space_10 | breezeruraltonguefrostagainstoolmemberneglectdutchsolid |  
+| bip_39_word_no_space_11 | breezeruraltonguefrostagainstoolmemberneglectdutchsolidfan |  
+| bip_39_word_no_space_12 | breezeruraltonguefrostagainstoolmemberneglectdutchsolidfanart |  
+| bip_39_word_no_space_2 | breezerural |  
+| bip_39_word_no_space_3 | breezeruraltongue |  
+| bip_39_word_no_space_4 | breezeruraltonguefrost |  
+| bip_39_word_no_space_5 | breezeruraltonguefrostagain |  
+| bip_39_word_no_space_6 | breezeruraltonguefrostagainstool |  
+| bip_39_word_no_space_7 | breezeruraltonguefrostagainstoolmember |  
+| bip_39_word_no_space_8 | breezeruraltonguefrostagainstoolmemberneglect |  
+| bip_39_word_no_space_9 | breezeruraltonguefrostagainstoolmemberneglectdutch |  
 | bip_39_word_space_0 | ['breeze', 'rural', 'tongue', 'frost', 'again', 'stool', 'member', 'neglect', 'dutch', 'solid', 'fan', 'art'] |  
 | bip_39_word_space_1 | breeze |  
 | bip_39_word_space_10 | breeze rural tongue frost again stool member neglect dutch solid |  

@@ -122,6 +122,18 @@ track
 fuel
 accuse
 element |  
+| bip_39_word_no_space_1 | version |  
+| bip_39_word_no_space_10 | versionpartywaitdisagreeshrimptrackfuelaccuseelementowner |  
+| bip_39_word_no_space_11 | versionpartywaitdisagreeshrimptrackfuelaccuseelementownerbeyond |  
+| bip_39_word_no_space_12 | versionpartywaitdisagreeshrimptrackfuelaccuseelementownerbeyondauthor |  
+| bip_39_word_no_space_2 | versionparty |  
+| bip_39_word_no_space_3 | versionpartywait |  
+| bip_39_word_no_space_4 | versionpartywaitdisagree |  
+| bip_39_word_no_space_5 | versionpartywaitdisagreeshrimp |  
+| bip_39_word_no_space_6 | versionpartywaitdisagreeshrimptrack |  
+| bip_39_word_no_space_7 | versionpartywaitdisagreeshrimptrackfuel |  
+| bip_39_word_no_space_8 | versionpartywaitdisagreeshrimptrackfuelaccuse |  
+| bip_39_word_no_space_9 | versionpartywaitdisagreeshrimptrackfuelaccuseelement |  
 | bip_39_word_space_0 | ['version', 'party', 'wait', 'disagree', 'shrimp', 'track', 'fuel', 'accuse', 'element', 'owner', 'beyond', 'author'] |  
 | bip_39_word_space_1 | version |  
 | bip_39_word_space_10 | version party wait disagree shrimp track fuel accuse element owner |  

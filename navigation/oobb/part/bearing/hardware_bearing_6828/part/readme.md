@@ -122,6 +122,18 @@ normal
 length
 orange
 loan |  
+| bip_39_word_no_space_1 | aunt |  
+| bip_39_word_no_space_10 | aunttoddlerartworklimitmorningnormallengthorangeloankick |  
+| bip_39_word_no_space_11 | aunttoddlerartworklimitmorningnormallengthorangeloankickyard |  
+| bip_39_word_no_space_12 | aunttoddlerartworklimitmorningnormallengthorangeloankickyardafford |  
+| bip_39_word_no_space_2 | aunttoddler |  
+| bip_39_word_no_space_3 | aunttoddlerartwork |  
+| bip_39_word_no_space_4 | aunttoddlerartworklimit |  
+| bip_39_word_no_space_5 | aunttoddlerartworklimitmorning |  
+| bip_39_word_no_space_6 | aunttoddlerartworklimitmorningnormal |  
+| bip_39_word_no_space_7 | aunttoddlerartworklimitmorningnormallength |  
+| bip_39_word_no_space_8 | aunttoddlerartworklimitmorningnormallengthorange |  
+| bip_39_word_no_space_9 | aunttoddlerartworklimitmorningnormallengthorangeloan |  
 | bip_39_word_space_0 | ['aunt', 'toddler', 'artwork', 'limit', 'morning', 'normal', 'length', 'orange', 'loan', 'kick', 'yard', 'afford'] |  
 | bip_39_word_space_1 | aunt |  
 | bip_39_word_space_10 | aunt toddler artwork limit morning normal length orange loan kick |  

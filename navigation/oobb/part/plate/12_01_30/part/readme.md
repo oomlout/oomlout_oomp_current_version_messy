@@ -122,6 +122,18 @@ swap
 later
 tank
 cash |  
+| bip_39_word_no_space_1 | drama |  
+| bip_39_word_no_space_10 | dramaboyelementpilotwireswaplatertankcashdutch |  
+| bip_39_word_no_space_11 | dramaboyelementpilotwireswaplatertankcashdutchelevator |  
+| bip_39_word_no_space_12 | dramaboyelementpilotwireswaplatertankcashdutchelevatorangry |  
+| bip_39_word_no_space_2 | dramaboy |  
+| bip_39_word_no_space_3 | dramaboyelement |  
+| bip_39_word_no_space_4 | dramaboyelementpilot |  
+| bip_39_word_no_space_5 | dramaboyelementpilotwire |  
+| bip_39_word_no_space_6 | dramaboyelementpilotwireswap |  
+| bip_39_word_no_space_7 | dramaboyelementpilotwireswaplater |  
+| bip_39_word_no_space_8 | dramaboyelementpilotwireswaplatertank |  
+| bip_39_word_no_space_9 | dramaboyelementpilotwireswaplatertankcash |  
 | bip_39_word_space_0 | ['drama', 'boy', 'element', 'pilot', 'wire', 'swap', 'later', 'tank', 'cash', 'dutch', 'elevator', 'angry'] |  
 | bip_39_word_space_1 | drama |  
 | bip_39_word_space_10 | drama boy element pilot wire swap later tank cash dutch |  

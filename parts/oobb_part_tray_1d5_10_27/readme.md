@@ -122,6 +122,18 @@ minimum
 glow
 rack
 explain |  
+| bip_39_word_no_space_1 | wall |  
+| bip_39_word_no_space_10 | wallbusyentryivoryadaptminimumglowrackexplainproject |  
+| bip_39_word_no_space_11 | wallbusyentryivoryadaptminimumglowrackexplainprojectapple |  
+| bip_39_word_no_space_12 | wallbusyentryivoryadaptminimumglowrackexplainprojectappleauthor |  
+| bip_39_word_no_space_2 | wallbusy |  
+| bip_39_word_no_space_3 | wallbusyentry |  
+| bip_39_word_no_space_4 | wallbusyentryivory |  
+| bip_39_word_no_space_5 | wallbusyentryivoryadapt |  
+| bip_39_word_no_space_6 | wallbusyentryivoryadaptminimum |  
+| bip_39_word_no_space_7 | wallbusyentryivoryadaptminimumglow |  
+| bip_39_word_no_space_8 | wallbusyentryivoryadaptminimumglowrack |  
+| bip_39_word_no_space_9 | wallbusyentryivoryadaptminimumglowrackexplain |  
 | bip_39_word_space_0 | ['wall', 'busy', 'entry', 'ivory', 'adapt', 'minimum', 'glow', 'rack', 'explain', 'project', 'apple', 'author'] |  
 | bip_39_word_space_1 | wall |  
 | bip_39_word_space_10 | wall busy entry ivory adapt minimum glow rack explain project |  

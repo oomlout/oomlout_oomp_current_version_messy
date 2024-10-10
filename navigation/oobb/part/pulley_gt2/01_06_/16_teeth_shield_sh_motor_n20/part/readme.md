@@ -122,6 +122,18 @@ fine
 base
 rack
 elephant |  
+| bip_39_word_no_space_1 | exhibit |  
+| bip_39_word_no_space_10 | exhibitmarketdialmusicshootfinebaserackelephantsecond |  
+| bip_39_word_no_space_11 | exhibitmarketdialmusicshootfinebaserackelephantsecondprotect |  
+| bip_39_word_no_space_12 | exhibitmarketdialmusicshootfinebaserackelephantsecondprotectalmost |  
+| bip_39_word_no_space_2 | exhibitmarket |  
+| bip_39_word_no_space_3 | exhibitmarketdial |  
+| bip_39_word_no_space_4 | exhibitmarketdialmusic |  
+| bip_39_word_no_space_5 | exhibitmarketdialmusicshoot |  
+| bip_39_word_no_space_6 | exhibitmarketdialmusicshootfine |  
+| bip_39_word_no_space_7 | exhibitmarketdialmusicshootfinebase |  
+| bip_39_word_no_space_8 | exhibitmarketdialmusicshootfinebaserack |  
+| bip_39_word_no_space_9 | exhibitmarketdialmusicshootfinebaserackelephant |  
 | bip_39_word_space_0 | ['exhibit', 'market', 'dial', 'music', 'shoot', 'fine', 'base', 'rack', 'elephant', 'second', 'protect', 'almost'] |  
 | bip_39_word_space_1 | exhibit |  
 | bip_39_word_space_10 | exhibit market dial music shoot fine base rack elephant second |  

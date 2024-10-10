@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'lift
   assist
 
   viable'
+bip_39_word_no_space_1: lift
+bip_39_word_no_space_10: liftfoldclerkpeacepizzaforumwreckassistviablewalk
+bip_39_word_no_space_11: liftfoldclerkpeacepizzaforumwreckassistviablewalktuition
+bip_39_word_no_space_12: liftfoldclerkpeacepizzaforumwreckassistviablewalktuitionasthma
+bip_39_word_no_space_2: liftfold
+bip_39_word_no_space_3: liftfoldclerk
+bip_39_word_no_space_4: liftfoldclerkpeace
+bip_39_word_no_space_5: liftfoldclerkpeacepizza
+bip_39_word_no_space_6: liftfoldclerkpeacepizzaforum
+bip_39_word_no_space_7: liftfoldclerkpeacepizzaforumwreck
+bip_39_word_no_space_8: liftfoldclerkpeacepizzaforumwreckassist
+bip_39_word_no_space_9: liftfoldclerkpeacepizzaforumwreckassistviable
 bip_39_word_space_0:
 - lift
 - fold

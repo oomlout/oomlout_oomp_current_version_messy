@@ -122,6 +122,18 @@ assault
 only
 tape
 fatigue |  
+| bip_39_word_no_space_1 | inspire |  
+| bip_39_word_no_space_10 | inspirecomfortwrestlepromotegridassaultonlytapefatigueafraid |  
+| bip_39_word_no_space_11 | inspirecomfortwrestlepromotegridassaultonlytapefatigueafraidmass |  
+| bip_39_word_no_space_12 | inspirecomfortwrestlepromotegridassaultonlytapefatigueafraidmassantenna |  
+| bip_39_word_no_space_2 | inspirecomfort |  
+| bip_39_word_no_space_3 | inspirecomfortwrestle |  
+| bip_39_word_no_space_4 | inspirecomfortwrestlepromote |  
+| bip_39_word_no_space_5 | inspirecomfortwrestlepromotegrid |  
+| bip_39_word_no_space_6 | inspirecomfortwrestlepromotegridassault |  
+| bip_39_word_no_space_7 | inspirecomfortwrestlepromotegridassaultonly |  
+| bip_39_word_no_space_8 | inspirecomfortwrestlepromotegridassaultonlytape |  
+| bip_39_word_no_space_9 | inspirecomfortwrestlepromotegridassaultonlytapefatigue |  
 | bip_39_word_space_0 | ['inspire', 'comfort', 'wrestle', 'promote', 'grid', 'assault', 'only', 'tape', 'fatigue', 'afraid', 'mass', 'antenna'] |  
 | bip_39_word_space_1 | inspire |  
 | bip_39_word_space_10 | inspire comfort wrestle promote grid assault only tape fatigue afraid |  

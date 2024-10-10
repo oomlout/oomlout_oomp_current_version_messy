@@ -122,6 +122,18 @@ whip
 cool
 tobacco
 one |  
+| bip_39_word_no_space_1 | volcano |  
+| bip_39_word_no_space_10 | volcanoenjoywalkimmensetogetherwhipcooltobaccoonefun |  
+| bip_39_word_no_space_11 | volcanoenjoywalkimmensetogetherwhipcooltobaccoonefunminimum |  
+| bip_39_word_no_space_12 | volcanoenjoywalkimmensetogetherwhipcooltobaccoonefunminimumacquire |  
+| bip_39_word_no_space_2 | volcanoenjoy |  
+| bip_39_word_no_space_3 | volcanoenjoywalk |  
+| bip_39_word_no_space_4 | volcanoenjoywalkimmense |  
+| bip_39_word_no_space_5 | volcanoenjoywalkimmensetogether |  
+| bip_39_word_no_space_6 | volcanoenjoywalkimmensetogetherwhip |  
+| bip_39_word_no_space_7 | volcanoenjoywalkimmensetogetherwhipcool |  
+| bip_39_word_no_space_8 | volcanoenjoywalkimmensetogetherwhipcooltobacco |  
+| bip_39_word_no_space_9 | volcanoenjoywalkimmensetogetherwhipcooltobaccoone |  
 | bip_39_word_space_0 | ['volcano', 'enjoy', 'walk', 'immense', 'together', 'whip', 'cool', 'tobacco', 'one', 'fun', 'minimum', 'acquire'] |  
 | bip_39_word_space_1 | volcano |  
 | bip_39_word_space_10 | volcano enjoy walk immense together whip cool tobacco one fun |  

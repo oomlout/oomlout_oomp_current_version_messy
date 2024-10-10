@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'garage
   noise
 
   armed'
+bip_39_word_no_space_1: garage
+bip_39_word_no_space_10: garageaimempoweraprilnegativefruitliarnoisearmedexpect
+bip_39_word_no_space_11: garageaimempoweraprilnegativefruitliarnoisearmedexpectarrest
+bip_39_word_no_space_12: garageaimempoweraprilnegativefruitliarnoisearmedexpectarrestaccuse
+bip_39_word_no_space_2: garageaim
+bip_39_word_no_space_3: garageaimempower
+bip_39_word_no_space_4: garageaimempowerapril
+bip_39_word_no_space_5: garageaimempoweraprilnegative
+bip_39_word_no_space_6: garageaimempoweraprilnegativefruit
+bip_39_word_no_space_7: garageaimempoweraprilnegativefruitliar
+bip_39_word_no_space_8: garageaimempoweraprilnegativefruitliarnoise
+bip_39_word_no_space_9: garageaimempoweraprilnegativefruitliarnoisearmed
 bip_39_word_space_0:
 - garage
 - aim

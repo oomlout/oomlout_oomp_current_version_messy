@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'early
   sauce
 
   wrap'
+bip_39_word_no_space_1: early
+bip_39_word_no_space_10: earlypullblessladynuclearcrushoctobersaucewrapdizzy
+bip_39_word_no_space_11: earlypullblessladynuclearcrushoctobersaucewrapdizzyclean
+bip_39_word_no_space_12: earlypullblessladynuclearcrushoctobersaucewrapdizzycleanaugust
+bip_39_word_no_space_2: earlypull
+bip_39_word_no_space_3: earlypullbless
+bip_39_word_no_space_4: earlypullblesslady
+bip_39_word_no_space_5: earlypullblessladynuclear
+bip_39_word_no_space_6: earlypullblessladynuclearcrush
+bip_39_word_no_space_7: earlypullblessladynuclearcrushoctober
+bip_39_word_no_space_8: earlypullblessladynuclearcrushoctobersauce
+bip_39_word_no_space_9: earlypullblessladynuclearcrushoctobersaucewrap
 bip_39_word_space_0:
 - early
 - pull

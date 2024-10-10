@@ -122,6 +122,18 @@ affair
 analyst
 stomach
 aunt |  
+| bip_39_word_no_space_1 | wisdom |  
+| bip_39_word_no_space_10 | wisdomteamloopconfirmdrumaffairanalyststomachauntticket |  
+| bip_39_word_no_space_11 | wisdomteamloopconfirmdrumaffairanalyststomachauntticketbadge |  
+| bip_39_word_no_space_12 | wisdomteamloopconfirmdrumaffairanalyststomachauntticketbadgeauthor |  
+| bip_39_word_no_space_2 | wisdomteam |  
+| bip_39_word_no_space_3 | wisdomteamloop |  
+| bip_39_word_no_space_4 | wisdomteamloopconfirm |  
+| bip_39_word_no_space_5 | wisdomteamloopconfirmdrum |  
+| bip_39_word_no_space_6 | wisdomteamloopconfirmdrumaffair |  
+| bip_39_word_no_space_7 | wisdomteamloopconfirmdrumaffairanalyst |  
+| bip_39_word_no_space_8 | wisdomteamloopconfirmdrumaffairanalyststomach |  
+| bip_39_word_no_space_9 | wisdomteamloopconfirmdrumaffairanalyststomachaunt |  
 | bip_39_word_space_0 | ['wisdom', 'team', 'loop', 'confirm', 'drum', 'affair', 'analyst', 'stomach', 'aunt', 'ticket', 'badge', 'author'] |  
 | bip_39_word_space_1 | wisdom |  
 | bip_39_word_space_10 | wisdom team loop confirm drum affair analyst stomach aunt ticket |  

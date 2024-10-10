@@ -122,6 +122,18 @@ timber
 tumble
 cycle
 rapid |  
+| bip_39_word_no_space_1 | frost |  
+| bip_39_word_no_space_10 | frostinflictstomachcitizenorchardtimbertumblecyclerapidpave |  
+| bip_39_word_no_space_11 | frostinflictstomachcitizenorchardtimbertumblecyclerapidpavefever |  
+| bip_39_word_no_space_12 | frostinflictstomachcitizenorchardtimbertumblecyclerapidpavefeverautumn |  
+| bip_39_word_no_space_2 | frostinflict |  
+| bip_39_word_no_space_3 | frostinflictstomach |  
+| bip_39_word_no_space_4 | frostinflictstomachcitizen |  
+| bip_39_word_no_space_5 | frostinflictstomachcitizenorchard |  
+| bip_39_word_no_space_6 | frostinflictstomachcitizenorchardtimber |  
+| bip_39_word_no_space_7 | frostinflictstomachcitizenorchardtimbertumble |  
+| bip_39_word_no_space_8 | frostinflictstomachcitizenorchardtimbertumblecycle |  
+| bip_39_word_no_space_9 | frostinflictstomachcitizenorchardtimbertumblecyclerapid |  
 | bip_39_word_space_0 | ['frost', 'inflict', 'stomach', 'citizen', 'orchard', 'timber', 'tumble', 'cycle', 'rapid', 'pave', 'fever', 'autumn'] |  
 | bip_39_word_space_1 | frost |  
 | bip_39_word_space_10 | frost inflict stomach citizen orchard timber tumble cycle rapid pave |  

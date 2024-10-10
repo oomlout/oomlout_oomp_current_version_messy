@@ -122,6 +122,18 @@ trip
 venue
 cable
 absent |  
+| bip_39_word_no_space_1 | claw |  
+| bip_39_word_no_space_10 | clawrackdesignloaddresstripvenuecableabsentunveil |  
+| bip_39_word_no_space_11 | clawrackdesignloaddresstripvenuecableabsentunveilearth |  
+| bip_39_word_no_space_12 | clawrackdesignloaddresstripvenuecableabsentunveilearthadapt |  
+| bip_39_word_no_space_2 | clawrack |  
+| bip_39_word_no_space_3 | clawrackdesign |  
+| bip_39_word_no_space_4 | clawrackdesignload |  
+| bip_39_word_no_space_5 | clawrackdesignloaddress |  
+| bip_39_word_no_space_6 | clawrackdesignloaddresstrip |  
+| bip_39_word_no_space_7 | clawrackdesignloaddresstripvenue |  
+| bip_39_word_no_space_8 | clawrackdesignloaddresstripvenuecable |  
+| bip_39_word_no_space_9 | clawrackdesignloaddresstripvenuecableabsent |  
 | bip_39_word_space_0 | ['claw', 'rack', 'design', 'load', 'dress', 'trip', 'venue', 'cable', 'absent', 'unveil', 'earth', 'adapt'] |  
 | bip_39_word_space_1 | claw |  
 | bip_39_word_space_10 | claw rack design load dress trip venue cable absent unveil |  

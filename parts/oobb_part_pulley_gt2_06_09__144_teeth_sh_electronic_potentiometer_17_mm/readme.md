@@ -122,6 +122,18 @@ sorry
 gossip
 menu
 uncover |  
+| bip_39_word_no_space_1 | puppy |  
+| bip_39_word_no_space_10 | puppycombinemembermorningparentsorrygossipmenuuncoverparent |  
+| bip_39_word_no_space_11 | puppycombinemembermorningparentsorrygossipmenuuncoverparenttoday |  
+| bip_39_word_no_space_12 | puppycombinemembermorningparentsorrygossipmenuuncoverparenttodayappear |  
+| bip_39_word_no_space_2 | puppycombine |  
+| bip_39_word_no_space_3 | puppycombinemember |  
+| bip_39_word_no_space_4 | puppycombinemembermorning |  
+| bip_39_word_no_space_5 | puppycombinemembermorningparent |  
+| bip_39_word_no_space_6 | puppycombinemembermorningparentsorry |  
+| bip_39_word_no_space_7 | puppycombinemembermorningparentsorrygossip |  
+| bip_39_word_no_space_8 | puppycombinemembermorningparentsorrygossipmenu |  
+| bip_39_word_no_space_9 | puppycombinemembermorningparentsorrygossipmenuuncover |  
 | bip_39_word_space_0 | ['puppy', 'combine', 'member', 'morning', 'parent', 'sorry', 'gossip', 'menu', 'uncover', 'parent', 'today', 'appear'] |  
 | bip_39_word_space_1 | puppy |  
 | bip_39_word_space_10 | puppy combine member morning parent sorry gossip menu uncover parent |  

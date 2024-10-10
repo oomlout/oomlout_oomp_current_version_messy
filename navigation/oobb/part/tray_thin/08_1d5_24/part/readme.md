@@ -122,6 +122,18 @@ web
 bicycle
 father
 alert |  
+| bip_39_word_no_space_1 | reveal |  
+| bip_39_word_no_space_10 | revealnotealmostemploytodaywebbicyclefatheralertdevelop |  
+| bip_39_word_no_space_11 | revealnotealmostemploytodaywebbicyclefatheralertdevelopship |  
+| bip_39_word_no_space_12 | revealnotealmostemploytodaywebbicyclefatheralertdevelopshiparmy |  
+| bip_39_word_no_space_2 | revealnote |  
+| bip_39_word_no_space_3 | revealnotealmost |  
+| bip_39_word_no_space_4 | revealnotealmostemploy |  
+| bip_39_word_no_space_5 | revealnotealmostemploytoday |  
+| bip_39_word_no_space_6 | revealnotealmostemploytodayweb |  
+| bip_39_word_no_space_7 | revealnotealmostemploytodaywebbicycle |  
+| bip_39_word_no_space_8 | revealnotealmostemploytodaywebbicyclefather |  
+| bip_39_word_no_space_9 | revealnotealmostemploytodaywebbicyclefatheralert |  
 | bip_39_word_space_0 | ['reveal', 'note', 'almost', 'employ', 'today', 'web', 'bicycle', 'father', 'alert', 'develop', 'ship', 'army'] |  
 | bip_39_word_space_1 | reveal |  
 | bip_39_word_space_10 | reveal note almost employ today web bicycle father alert develop |  

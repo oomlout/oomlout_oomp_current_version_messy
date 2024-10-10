@@ -122,6 +122,18 @@ bracket
 special
 bicycle
 round |  
+| bip_39_word_no_space_1 | cram |  
+| bip_39_word_no_space_10 | cramnetdressaprilhumblebracketspecialbicycleroundengage |  
+| bip_39_word_no_space_11 | cramnetdressaprilhumblebracketspecialbicycleroundengageadd |  
+| bip_39_word_no_space_12 | cramnetdressaprilhumblebracketspecialbicycleroundengageaddaround |  
+| bip_39_word_no_space_2 | cramnet |  
+| bip_39_word_no_space_3 | cramnetdress |  
+| bip_39_word_no_space_4 | cramnetdressapril |  
+| bip_39_word_no_space_5 | cramnetdressaprilhumble |  
+| bip_39_word_no_space_6 | cramnetdressaprilhumblebracket |  
+| bip_39_word_no_space_7 | cramnetdressaprilhumblebracketspecial |  
+| bip_39_word_no_space_8 | cramnetdressaprilhumblebracketspecialbicycle |  
+| bip_39_word_no_space_9 | cramnetdressaprilhumblebracketspecialbicycleround |  
 | bip_39_word_space_0 | ['cram', 'net', 'dress', 'april', 'humble', 'bracket', 'special', 'bicycle', 'round', 'engage', 'add', 'around'] |  
 | bip_39_word_space_1 | cram |  
 | bip_39_word_space_10 | cram net dress april humble bracket special bicycle round engage |  

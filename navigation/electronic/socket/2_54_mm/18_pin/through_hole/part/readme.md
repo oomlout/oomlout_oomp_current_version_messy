@@ -122,6 +122,18 @@ more
 tank
 judge
 stamp |  
+| bip_39_word_no_space_1 | dilemma |  
+| bip_39_word_no_space_10 | dilemmapizzaflipsituatetalentmoretankjudgestamplearn |  
+| bip_39_word_no_space_11 | dilemmapizzaflipsituatetalentmoretankjudgestamplearnembrace |  
+| bip_39_word_no_space_12 | dilemmapizzaflipsituatetalentmoretankjudgestamplearnembraceable |  
+| bip_39_word_no_space_2 | dilemmapizza |  
+| bip_39_word_no_space_3 | dilemmapizzaflip |  
+| bip_39_word_no_space_4 | dilemmapizzaflipsituate |  
+| bip_39_word_no_space_5 | dilemmapizzaflipsituatetalent |  
+| bip_39_word_no_space_6 | dilemmapizzaflipsituatetalentmore |  
+| bip_39_word_no_space_7 | dilemmapizzaflipsituatetalentmoretank |  
+| bip_39_word_no_space_8 | dilemmapizzaflipsituatetalentmoretankjudge |  
+| bip_39_word_no_space_9 | dilemmapizzaflipsituatetalentmoretankjudgestamp |  
 | bip_39_word_space_0 | ['dilemma', 'pizza', 'flip', 'situate', 'talent', 'more', 'tank', 'judge', 'stamp', 'learn', 'embrace', 'able'] |  
 | bip_39_word_space_1 | dilemma |  
 | bip_39_word_space_10 | dilemma pizza flip situate talent more tank judge stamp learn |  

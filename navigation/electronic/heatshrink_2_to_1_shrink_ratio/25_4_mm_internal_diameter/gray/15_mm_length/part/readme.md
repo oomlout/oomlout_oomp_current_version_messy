@@ -122,6 +122,18 @@ hand
 ugly
 sword
 suffer |  
+| bip_39_word_no_space_1 | legend |  
+| bip_39_word_no_space_10 | legendbenchsuggesthumanorphanhanduglyswordsuffersustain |  
+| bip_39_word_no_space_11 | legendbenchsuggesthumanorphanhanduglyswordsuffersustainpiece |  
+| bip_39_word_no_space_12 | legendbenchsuggesthumanorphanhanduglyswordsuffersustainpieceactor |  
+| bip_39_word_no_space_2 | legendbench |  
+| bip_39_word_no_space_3 | legendbenchsuggest |  
+| bip_39_word_no_space_4 | legendbenchsuggesthuman |  
+| bip_39_word_no_space_5 | legendbenchsuggesthumanorphan |  
+| bip_39_word_no_space_6 | legendbenchsuggesthumanorphanhand |  
+| bip_39_word_no_space_7 | legendbenchsuggesthumanorphanhandugly |  
+| bip_39_word_no_space_8 | legendbenchsuggesthumanorphanhanduglysword |  
+| bip_39_word_no_space_9 | legendbenchsuggesthumanorphanhanduglyswordsuffer |  
 | bip_39_word_space_0 | ['legend', 'bench', 'suggest', 'human', 'orphan', 'hand', 'ugly', 'sword', 'suffer', 'sustain', 'piece', 'actor'] |  
 | bip_39_word_space_1 | legend |  
 | bip_39_word_space_10 | legend bench suggest human orphan hand ugly sword suffer sustain |  

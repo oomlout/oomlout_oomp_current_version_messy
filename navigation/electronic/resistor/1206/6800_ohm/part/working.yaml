@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'solid
   chalk
 
   destroy'
+bip_39_word_no_space_1: solid
+bip_39_word_no_space_10: soliddecreasevannoiserememberzoorazorchalkdestroylong
+bip_39_word_no_space_11: soliddecreasevannoiserememberzoorazorchalkdestroylongjar
+bip_39_word_no_space_12: soliddecreasevannoiserememberzoorazorchalkdestroylongjarask
+bip_39_word_no_space_2: soliddecrease
+bip_39_word_no_space_3: soliddecreasevan
+bip_39_word_no_space_4: soliddecreasevannoise
+bip_39_word_no_space_5: soliddecreasevannoiseremember
+bip_39_word_no_space_6: soliddecreasevannoiserememberzoo
+bip_39_word_no_space_7: soliddecreasevannoiserememberzoorazor
+bip_39_word_no_space_8: soliddecreasevannoiserememberzoorazorchalk
+bip_39_word_no_space_9: soliddecreasevannoiserememberzoorazorchalkdestroy
 bip_39_word_space_0:
 - solid
 - decrease

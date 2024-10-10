@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'siren
   tank
 
   deputy'
+bip_39_word_no_space_1: siren
+bip_39_word_no_space_10: sirenlawpowerturnpostcivilgluetankdeputypoverty
+bip_39_word_no_space_11: sirenlawpowerturnpostcivilgluetankdeputypovertydocument
+bip_39_word_no_space_12: sirenlawpowerturnpostcivilgluetankdeputypovertydocumentanother
+bip_39_word_no_space_2: sirenlaw
+bip_39_word_no_space_3: sirenlawpower
+bip_39_word_no_space_4: sirenlawpowerturn
+bip_39_word_no_space_5: sirenlawpowerturnpost
+bip_39_word_no_space_6: sirenlawpowerturnpostcivil
+bip_39_word_no_space_7: sirenlawpowerturnpostcivilglue
+bip_39_word_no_space_8: sirenlawpowerturnpostcivilgluetank
+bip_39_word_no_space_9: sirenlawpowerturnpostcivilgluetankdeputy
 bip_39_word_space_0:
 - siren
 - law

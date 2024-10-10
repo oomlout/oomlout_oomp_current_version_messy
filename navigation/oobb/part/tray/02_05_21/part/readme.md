@@ -122,6 +122,18 @@ room
 rich
 dog
 picnic |  
+| bip_39_word_no_space_1 | album |  
+| bip_39_word_no_space_10 | albumacrosssquirreldrawalmostroomrichdogpicniclunch |  
+| bip_39_word_no_space_11 | albumacrosssquirreldrawalmostroomrichdogpicniclunchexact |  
+| bip_39_word_no_space_12 | albumacrosssquirreldrawalmostroomrichdogpicniclunchexactarea |  
+| bip_39_word_no_space_2 | albumacross |  
+| bip_39_word_no_space_3 | albumacrosssquirrel |  
+| bip_39_word_no_space_4 | albumacrosssquirreldraw |  
+| bip_39_word_no_space_5 | albumacrosssquirreldrawalmost |  
+| bip_39_word_no_space_6 | albumacrosssquirreldrawalmostroom |  
+| bip_39_word_no_space_7 | albumacrosssquirreldrawalmostroomrich |  
+| bip_39_word_no_space_8 | albumacrosssquirreldrawalmostroomrichdog |  
+| bip_39_word_no_space_9 | albumacrosssquirreldrawalmostroomrichdogpicnic |  
 | bip_39_word_space_0 | ['album', 'across', 'squirrel', 'draw', 'almost', 'room', 'rich', 'dog', 'picnic', 'lunch', 'exact', 'area'] |  
 | bip_39_word_space_1 | album |  
 | bip_39_word_space_10 | album across squirrel draw almost room rich dog picnic lunch |  

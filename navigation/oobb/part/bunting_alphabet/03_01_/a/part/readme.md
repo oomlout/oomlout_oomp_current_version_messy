@@ -122,6 +122,18 @@ empty
 blame
 bind
 trick |  
+| bip_39_word_no_space_1 | hurry |  
+| bip_39_word_no_space_10 | hurryboiljeanssqueezehighemptyblamebindtrickfinger |  
+| bip_39_word_no_space_11 | hurryboiljeanssqueezehighemptyblamebindtrickfingermonitor |  
+| bip_39_word_no_space_12 | hurryboiljeanssqueezehighemptyblamebindtrickfingermonitorappear |  
+| bip_39_word_no_space_2 | hurryboil |  
+| bip_39_word_no_space_3 | hurryboiljeans |  
+| bip_39_word_no_space_4 | hurryboiljeanssqueeze |  
+| bip_39_word_no_space_5 | hurryboiljeanssqueezehigh |  
+| bip_39_word_no_space_6 | hurryboiljeanssqueezehighempty |  
+| bip_39_word_no_space_7 | hurryboiljeanssqueezehighemptyblame |  
+| bip_39_word_no_space_8 | hurryboiljeanssqueezehighemptyblamebind |  
+| bip_39_word_no_space_9 | hurryboiljeanssqueezehighemptyblamebindtrick |  
 | bip_39_word_space_0 | ['hurry', 'boil', 'jeans', 'squeeze', 'high', 'empty', 'blame', 'bind', 'trick', 'finger', 'monitor', 'appear'] |  
 | bip_39_word_space_1 | hurry |  
 | bip_39_word_space_10 | hurry boil jeans squeeze high empty blame bind trick finger |  

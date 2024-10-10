@@ -122,6 +122,18 @@ protect
 member
 fire
 vault |  
+| bip_39_word_no_space_1 | arctic |  
+| bip_39_word_no_space_10 | arcticridetokenbalanceskirtprotectmemberfirevaultcourse |  
+| bip_39_word_no_space_11 | arcticridetokenbalanceskirtprotectmemberfirevaultcoursetreat |  
+| bip_39_word_no_space_12 | arcticridetokenbalanceskirtprotectmemberfirevaultcoursetreataccount |  
+| bip_39_word_no_space_2 | arcticride |  
+| bip_39_word_no_space_3 | arcticridetoken |  
+| bip_39_word_no_space_4 | arcticridetokenbalance |  
+| bip_39_word_no_space_5 | arcticridetokenbalanceskirt |  
+| bip_39_word_no_space_6 | arcticridetokenbalanceskirtprotect |  
+| bip_39_word_no_space_7 | arcticridetokenbalanceskirtprotectmember |  
+| bip_39_word_no_space_8 | arcticridetokenbalanceskirtprotectmemberfire |  
+| bip_39_word_no_space_9 | arcticridetokenbalanceskirtprotectmemberfirevault |  
 | bip_39_word_space_0 | ['arctic', 'ride', 'token', 'balance', 'skirt', 'protect', 'member', 'fire', 'vault', 'course', 'treat', 'account'] |  
 | bip_39_word_space_1 | arctic |  
 | bip_39_word_space_10 | arctic ride token balance skirt protect member fire vault course |  

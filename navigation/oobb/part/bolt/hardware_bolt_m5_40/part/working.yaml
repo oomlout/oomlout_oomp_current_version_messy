@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'venue
   sweet
 
   live'
+bip_39_word_no_space_1: venue
+bip_39_word_no_space_10: venuesinceavoidexcludeminuteusedcrewsweetlivefoil
+bip_39_word_no_space_11: venuesinceavoidexcludeminuteusedcrewsweetlivefoilpool
+bip_39_word_no_space_12: venuesinceavoidexcludeminuteusedcrewsweetlivefoilpoolarch
+bip_39_word_no_space_2: venuesince
+bip_39_word_no_space_3: venuesinceavoid
+bip_39_word_no_space_4: venuesinceavoidexclude
+bip_39_word_no_space_5: venuesinceavoidexcludeminute
+bip_39_word_no_space_6: venuesinceavoidexcludeminuteused
+bip_39_word_no_space_7: venuesinceavoidexcludeminuteusedcrew
+bip_39_word_no_space_8: venuesinceavoidexcludeminuteusedcrewsweet
+bip_39_word_no_space_9: venuesinceavoidexcludeminuteusedcrewsweetlive
 bip_39_word_space_0:
 - venue
 - since

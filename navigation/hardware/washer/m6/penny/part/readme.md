@@ -122,6 +122,18 @@ expose
 beauty
 three
 choice |  
+| bip_39_word_no_space_1 | engine |  
+| bip_39_word_no_space_10 | engineroyalawesomevocalmarginexposebeautythreechoicehave |  
+| bip_39_word_no_space_11 | engineroyalawesomevocalmarginexposebeautythreechoicehavetruly |  
+| bip_39_word_no_space_12 | engineroyalawesomevocalmarginexposebeautythreechoicehavetrulyarrest |  
+| bip_39_word_no_space_2 | engineroyal |  
+| bip_39_word_no_space_3 | engineroyalawesome |  
+| bip_39_word_no_space_4 | engineroyalawesomevocal |  
+| bip_39_word_no_space_5 | engineroyalawesomevocalmargin |  
+| bip_39_word_no_space_6 | engineroyalawesomevocalmarginexpose |  
+| bip_39_word_no_space_7 | engineroyalawesomevocalmarginexposebeauty |  
+| bip_39_word_no_space_8 | engineroyalawesomevocalmarginexposebeautythree |  
+| bip_39_word_no_space_9 | engineroyalawesomevocalmarginexposebeautythreechoice |  
 | bip_39_word_space_0 | ['engine', 'royal', 'awesome', 'vocal', 'margin', 'expose', 'beauty', 'three', 'choice', 'have', 'truly', 'arrest'] |  
 | bip_39_word_space_1 | engine |  
 | bip_39_word_space_10 | engine royal awesome vocal margin expose beauty three choice have |  

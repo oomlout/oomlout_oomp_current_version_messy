@@ -122,6 +122,18 @@ among
 engine
 try
 erode |  
+| bip_39_word_no_space_1 | mandate |  
+| bip_39_word_no_space_10 | mandatenormalbroccolicrazyfabricamongenginetryerodestable |  
+| bip_39_word_no_space_11 | mandatenormalbroccolicrazyfabricamongenginetryerodestablefrog |  
+| bip_39_word_no_space_12 | mandatenormalbroccolicrazyfabricamongenginetryerodestablefrogaffair |  
+| bip_39_word_no_space_2 | mandatenormal |  
+| bip_39_word_no_space_3 | mandatenormalbroccoli |  
+| bip_39_word_no_space_4 | mandatenormalbroccolicrazy |  
+| bip_39_word_no_space_5 | mandatenormalbroccolicrazyfabric |  
+| bip_39_word_no_space_6 | mandatenormalbroccolicrazyfabricamong |  
+| bip_39_word_no_space_7 | mandatenormalbroccolicrazyfabricamongengine |  
+| bip_39_word_no_space_8 | mandatenormalbroccolicrazyfabricamongenginetry |  
+| bip_39_word_no_space_9 | mandatenormalbroccolicrazyfabricamongenginetryerode |  
 | bip_39_word_space_0 | ['mandate', 'normal', 'broccoli', 'crazy', 'fabric', 'among', 'engine', 'try', 'erode', 'stable', 'frog', 'affair'] |  
 | bip_39_word_space_1 | mandate |  
 | bip_39_word_space_10 | mandate normal broccoli crazy fabric among engine try erode stable |  

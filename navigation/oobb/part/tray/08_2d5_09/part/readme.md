@@ -122,6 +122,18 @@ patch
 royal
 office
 knife |  
+| bip_39_word_no_space_1 | pepper |  
+| bip_39_word_no_space_10 | pepperinvolveflowergrantexpresspatchroyalofficeknifeblast |  
+| bip_39_word_no_space_11 | pepperinvolveflowergrantexpresspatchroyalofficeknifeblastexchange |  
+| bip_39_word_no_space_12 | pepperinvolveflowergrantexpresspatchroyalofficeknifeblastexchangearmor |  
+| bip_39_word_no_space_2 | pepperinvolve |  
+| bip_39_word_no_space_3 | pepperinvolveflower |  
+| bip_39_word_no_space_4 | pepperinvolveflowergrant |  
+| bip_39_word_no_space_5 | pepperinvolveflowergrantexpress |  
+| bip_39_word_no_space_6 | pepperinvolveflowergrantexpresspatch |  
+| bip_39_word_no_space_7 | pepperinvolveflowergrantexpresspatchroyal |  
+| bip_39_word_no_space_8 | pepperinvolveflowergrantexpresspatchroyaloffice |  
+| bip_39_word_no_space_9 | pepperinvolveflowergrantexpresspatchroyalofficeknife |  
 | bip_39_word_space_0 | ['pepper', 'involve', 'flower', 'grant', 'express', 'patch', 'royal', 'office', 'knife', 'blast', 'exchange', 'armor'] |  
 | bip_39_word_space_1 | pepper |  
 | bip_39_word_space_10 | pepper involve flower grant express patch royal office knife blast |  

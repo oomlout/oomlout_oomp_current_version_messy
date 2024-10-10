@@ -122,6 +122,18 @@ slight
 drama
 forest
 depend |  
+| bip_39_word_no_space_1 | wool |  
+| bip_39_word_no_space_10 | woolaccesschooseyoungpoliceslightdramaforestdependstuff |  
+| bip_39_word_no_space_11 | woolaccesschooseyoungpoliceslightdramaforestdependstuffsentence |  
+| bip_39_word_no_space_12 | woolaccesschooseyoungpoliceslightdramaforestdependstuffsentenceamused |  
+| bip_39_word_no_space_2 | woolaccess |  
+| bip_39_word_no_space_3 | woolaccesschoose |  
+| bip_39_word_no_space_4 | woolaccesschooseyoung |  
+| bip_39_word_no_space_5 | woolaccesschooseyoungpolice |  
+| bip_39_word_no_space_6 | woolaccesschooseyoungpoliceslight |  
+| bip_39_word_no_space_7 | woolaccesschooseyoungpoliceslightdrama |  
+| bip_39_word_no_space_8 | woolaccesschooseyoungpoliceslightdramaforest |  
+| bip_39_word_no_space_9 | woolaccesschooseyoungpoliceslightdramaforestdepend |  
 | bip_39_word_space_0 | ['wool', 'access', 'choose', 'young', 'police', 'slight', 'drama', 'forest', 'depend', 'stuff', 'sentence', 'amused'] |  
 | bip_39_word_space_1 | wool |  
 | bip_39_word_space_10 | wool access choose young police slight drama forest depend stuff |  

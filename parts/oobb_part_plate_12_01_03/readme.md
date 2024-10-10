@@ -122,6 +122,18 @@ junior
 best
 region
 letter |  
+| bip_39_word_no_space_1 | never |  
+| bip_39_word_no_space_10 | neverwidthlaterneitherbrainjuniorbestregionlettercable |  
+| bip_39_word_no_space_11 | neverwidthlaterneitherbrainjuniorbestregionlettercabledignity |  
+| bip_39_word_no_space_12 | neverwidthlaterneitherbrainjuniorbestregionlettercabledignityadjust |  
+| bip_39_word_no_space_2 | neverwidth |  
+| bip_39_word_no_space_3 | neverwidthlater |  
+| bip_39_word_no_space_4 | neverwidthlaterneither |  
+| bip_39_word_no_space_5 | neverwidthlaterneitherbrain |  
+| bip_39_word_no_space_6 | neverwidthlaterneitherbrainjunior |  
+| bip_39_word_no_space_7 | neverwidthlaterneitherbrainjuniorbest |  
+| bip_39_word_no_space_8 | neverwidthlaterneitherbrainjuniorbestregion |  
+| bip_39_word_no_space_9 | neverwidthlaterneitherbrainjuniorbestregionletter |  
 | bip_39_word_space_0 | ['never', 'width', 'later', 'neither', 'brain', 'junior', 'best', 'region', 'letter', 'cable', 'dignity', 'adjust'] |  
 | bip_39_word_space_1 | never |  
 | bip_39_word_space_10 | never width later neither brain junior best region letter cable |  

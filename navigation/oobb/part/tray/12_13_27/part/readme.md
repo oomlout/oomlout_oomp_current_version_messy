@@ -122,6 +122,18 @@ hope
 trip
 behave
 cheap |  
+| bip_39_word_no_space_1 | flight |  
+| bip_39_word_no_space_10 | flightbulkritualbeltnormalhopetripbehavecheapdose |  
+| bip_39_word_no_space_11 | flightbulkritualbeltnormalhopetripbehavecheapdosehockey |  
+| bip_39_word_no_space_12 | flightbulkritualbeltnormalhopetripbehavecheapdosehockeyapology |  
+| bip_39_word_no_space_2 | flightbulk |  
+| bip_39_word_no_space_3 | flightbulkritual |  
+| bip_39_word_no_space_4 | flightbulkritualbelt |  
+| bip_39_word_no_space_5 | flightbulkritualbeltnormal |  
+| bip_39_word_no_space_6 | flightbulkritualbeltnormalhope |  
+| bip_39_word_no_space_7 | flightbulkritualbeltnormalhopetrip |  
+| bip_39_word_no_space_8 | flightbulkritualbeltnormalhopetripbehave |  
+| bip_39_word_no_space_9 | flightbulkritualbeltnormalhopetripbehavecheap |  
 | bip_39_word_space_0 | ['flight', 'bulk', 'ritual', 'belt', 'normal', 'hope', 'trip', 'behave', 'cheap', 'dose', 'hockey', 'apology'] |  
 | bip_39_word_space_1 | flight |  
 | bip_39_word_space_10 | flight bulk ritual belt normal hope trip behave cheap dose |  

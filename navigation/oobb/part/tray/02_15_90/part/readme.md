@@ -122,6 +122,18 @@ over
 voice
 install
 moon |  
+| bip_39_word_no_space_1 | spice |  
+| bip_39_word_no_space_10 | spicefamescorpionconcertableovervoiceinstallmoonlaundry |  
+| bip_39_word_no_space_11 | spicefamescorpionconcertableovervoiceinstallmoonlaundryhawk |  
+| bip_39_word_no_space_12 | spicefamescorpionconcertableovervoiceinstallmoonlaundryhawkarmed |  
+| bip_39_word_no_space_2 | spicefame |  
+| bip_39_word_no_space_3 | spicefamescorpion |  
+| bip_39_word_no_space_4 | spicefamescorpionconcert |  
+| bip_39_word_no_space_5 | spicefamescorpionconcertable |  
+| bip_39_word_no_space_6 | spicefamescorpionconcertableover |  
+| bip_39_word_no_space_7 | spicefamescorpionconcertableovervoice |  
+| bip_39_word_no_space_8 | spicefamescorpionconcertableovervoiceinstall |  
+| bip_39_word_no_space_9 | spicefamescorpionconcertableovervoiceinstallmoon |  
 | bip_39_word_space_0 | ['spice', 'fame', 'scorpion', 'concert', 'able', 'over', 'voice', 'install', 'moon', 'laundry', 'hawk', 'armed'] |  
 | bip_39_word_space_1 | spice |  
 | bip_39_word_space_10 | spice fame scorpion concert able over voice install moon laundry |  

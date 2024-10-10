@@ -122,6 +122,18 @@ almost
 tape
 frog
 crowd |  
+| bip_39_word_no_space_1 | coyote |  
+| bip_39_word_no_space_10 | coyotecorrectalmostwindowtotalalmosttapefrogcrowdjelly |  
+| bip_39_word_no_space_11 | coyotecorrectalmostwindowtotalalmosttapefrogcrowdjellyelbow |  
+| bip_39_word_no_space_12 | coyotecorrectalmostwindowtotalalmosttapefrogcrowdjellyelbowantenna |  
+| bip_39_word_no_space_2 | coyotecorrect |  
+| bip_39_word_no_space_3 | coyotecorrectalmost |  
+| bip_39_word_no_space_4 | coyotecorrectalmostwindow |  
+| bip_39_word_no_space_5 | coyotecorrectalmostwindowtotal |  
+| bip_39_word_no_space_6 | coyotecorrectalmostwindowtotalalmost |  
+| bip_39_word_no_space_7 | coyotecorrectalmostwindowtotalalmosttape |  
+| bip_39_word_no_space_8 | coyotecorrectalmostwindowtotalalmosttapefrog |  
+| bip_39_word_no_space_9 | coyotecorrectalmostwindowtotalalmosttapefrogcrowd |  
 | bip_39_word_space_0 | ['coyote', 'correct', 'almost', 'window', 'total', 'almost', 'tape', 'frog', 'crowd', 'jelly', 'elbow', 'antenna'] |  
 | bip_39_word_space_1 | coyote |  
 | bip_39_word_space_10 | coyote correct almost window total almost tape frog crowd jelly |  

@@ -122,6 +122,18 @@ monkey
 climb
 unfair
 clown |  
+| bip_39_word_no_space_1 | mean |  
+| bip_39_word_no_space_10 | meanexchangepromotekingdomtrulymonkeyclimbunfairclownfence |  
+| bip_39_word_no_space_11 | meanexchangepromotekingdomtrulymonkeyclimbunfairclownfencecredit |  
+| bip_39_word_no_space_12 | meanexchangepromotekingdomtrulymonkeyclimbunfairclownfencecreditamateur |  
+| bip_39_word_no_space_2 | meanexchange |  
+| bip_39_word_no_space_3 | meanexchangepromote |  
+| bip_39_word_no_space_4 | meanexchangepromotekingdom |  
+| bip_39_word_no_space_5 | meanexchangepromotekingdomtruly |  
+| bip_39_word_no_space_6 | meanexchangepromotekingdomtrulymonkey |  
+| bip_39_word_no_space_7 | meanexchangepromotekingdomtrulymonkeyclimb |  
+| bip_39_word_no_space_8 | meanexchangepromotekingdomtrulymonkeyclimbunfair |  
+| bip_39_word_no_space_9 | meanexchangepromotekingdomtrulymonkeyclimbunfairclown |  
 | bip_39_word_space_0 | ['mean', 'exchange', 'promote', 'kingdom', 'truly', 'monkey', 'climb', 'unfair', 'clown', 'fence', 'credit', 'amateur'] |  
 | bip_39_word_space_1 | mean |  
 | bip_39_word_space_10 | mean exchange promote kingdom truly monkey climb unfair clown fence |  

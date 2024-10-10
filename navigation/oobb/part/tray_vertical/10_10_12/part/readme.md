@@ -122,6 +122,18 @@ reflect
 fade
 any
 hole |  
+| bip_39_word_no_space_1 | chicken |  
+| bip_39_word_no_space_10 | chickenclubjeansexhaustsegmentreflectfadeanyholecopy |  
+| bip_39_word_no_space_11 | chickenclubjeansexhaustsegmentreflectfadeanyholecopysoul |  
+| bip_39_word_no_space_12 | chickenclubjeansexhaustsegmentreflectfadeanyholecopysoulamateur |  
+| bip_39_word_no_space_2 | chickenclub |  
+| bip_39_word_no_space_3 | chickenclubjeans |  
+| bip_39_word_no_space_4 | chickenclubjeansexhaust |  
+| bip_39_word_no_space_5 | chickenclubjeansexhaustsegment |  
+| bip_39_word_no_space_6 | chickenclubjeansexhaustsegmentreflect |  
+| bip_39_word_no_space_7 | chickenclubjeansexhaustsegmentreflectfade |  
+| bip_39_word_no_space_8 | chickenclubjeansexhaustsegmentreflectfadeany |  
+| bip_39_word_no_space_9 | chickenclubjeansexhaustsegmentreflectfadeanyhole |  
 | bip_39_word_space_0 | ['chicken', 'club', 'jeans', 'exhaust', 'segment', 'reflect', 'fade', 'any', 'hole', 'copy', 'soul', 'amateur'] |  
 | bip_39_word_space_1 | chicken |  
 | bip_39_word_space_10 | chicken club jeans exhaust segment reflect fade any hole copy |  

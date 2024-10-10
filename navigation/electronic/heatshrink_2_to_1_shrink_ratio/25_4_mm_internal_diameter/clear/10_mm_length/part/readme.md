@@ -122,6 +122,18 @@ injury
 plastic
 coast
 eight |  
+| bip_39_word_no_space_1 | enjoy |  
+| bip_39_word_no_space_10 | enjoymissaroundsecondverifyinjuryplasticcoasteightgown |  
+| bip_39_word_no_space_11 | enjoymissaroundsecondverifyinjuryplasticcoasteightgownpeanut |  
+| bip_39_word_no_space_12 | enjoymissaroundsecondverifyinjuryplasticcoasteightgownpeanutalbum |  
+| bip_39_word_no_space_2 | enjoymiss |  
+| bip_39_word_no_space_3 | enjoymissaround |  
+| bip_39_word_no_space_4 | enjoymissaroundsecond |  
+| bip_39_word_no_space_5 | enjoymissaroundsecondverify |  
+| bip_39_word_no_space_6 | enjoymissaroundsecondverifyinjury |  
+| bip_39_word_no_space_7 | enjoymissaroundsecondverifyinjuryplastic |  
+| bip_39_word_no_space_8 | enjoymissaroundsecondverifyinjuryplasticcoast |  
+| bip_39_word_no_space_9 | enjoymissaroundsecondverifyinjuryplasticcoasteight |  
 | bip_39_word_space_0 | ['enjoy', 'miss', 'around', 'second', 'verify', 'injury', 'plastic', 'coast', 'eight', 'gown', 'peanut', 'album'] |  
 | bip_39_word_space_1 | enjoy |  
 | bip_39_word_space_10 | enjoy miss around second verify injury plastic coast eight gown |  

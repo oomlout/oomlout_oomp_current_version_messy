@@ -122,6 +122,18 @@ proof
 jar
 pyramid
 lawn |  
+| bip_39_word_no_space_1 | better |  
+| bip_39_word_no_space_10 | bettertokenprizecensusresponseproofjarpyramidlawnprovide |  
+| bip_39_word_no_space_11 | bettertokenprizecensusresponseproofjarpyramidlawnprovideclose |  
+| bip_39_word_no_space_12 | bettertokenprizecensusresponseproofjarpyramidlawnprovideclosearm |  
+| bip_39_word_no_space_2 | bettertoken |  
+| bip_39_word_no_space_3 | bettertokenprize |  
+| bip_39_word_no_space_4 | bettertokenprizecensus |  
+| bip_39_word_no_space_5 | bettertokenprizecensusresponse |  
+| bip_39_word_no_space_6 | bettertokenprizecensusresponseproof |  
+| bip_39_word_no_space_7 | bettertokenprizecensusresponseproofjar |  
+| bip_39_word_no_space_8 | bettertokenprizecensusresponseproofjarpyramid |  
+| bip_39_word_no_space_9 | bettertokenprizecensusresponseproofjarpyramidlawn |  
 | bip_39_word_space_0 | ['better', 'token', 'prize', 'census', 'response', 'proof', 'jar', 'pyramid', 'lawn', 'provide', 'close', 'arm'] |  
 | bip_39_word_space_1 | better |  
 | bip_39_word_space_10 | better token prize census response proof jar pyramid lawn provide |  

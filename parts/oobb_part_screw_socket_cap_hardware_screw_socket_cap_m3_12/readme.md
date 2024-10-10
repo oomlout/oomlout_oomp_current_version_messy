@@ -122,6 +122,18 @@ eyebrow
 major
 nominee
 hold |  
+| bip_39_word_no_space_1 | sick |  
+| bip_39_word_no_space_10 | sickflocktheyslowgingereyebrowmajornomineeholdgenius |  
+| bip_39_word_no_space_11 | sickflocktheyslowgingereyebrowmajornomineeholdgeniusship |  
+| bip_39_word_no_space_12 | sickflocktheyslowgingereyebrowmajornomineeholdgeniusshipaffair |  
+| bip_39_word_no_space_2 | sickflock |  
+| bip_39_word_no_space_3 | sickflockthey |  
+| bip_39_word_no_space_4 | sickflocktheyslow |  
+| bip_39_word_no_space_5 | sickflocktheyslowginger |  
+| bip_39_word_no_space_6 | sickflocktheyslowgingereyebrow |  
+| bip_39_word_no_space_7 | sickflocktheyslowgingereyebrowmajor |  
+| bip_39_word_no_space_8 | sickflocktheyslowgingereyebrowmajornominee |  
+| bip_39_word_no_space_9 | sickflocktheyslowgingereyebrowmajornomineehold |  
 | bip_39_word_space_0 | ['sick', 'flock', 'they', 'slow', 'ginger', 'eyebrow', 'major', 'nominee', 'hold', 'genius', 'ship', 'affair'] |  
 | bip_39_word_space_1 | sick |  
 | bip_39_word_space_10 | sick flock they slow ginger eyebrow major nominee hold genius |  

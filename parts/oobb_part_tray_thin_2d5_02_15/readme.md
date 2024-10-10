@@ -122,6 +122,18 @@ bomb
 sadness
 truck
 mosquito |  
+| bip_39_word_no_space_1 | use |  
+| bip_39_word_no_space_10 | useimposeluckyliveceilingbombsadnesstruckmosquitomotor |  
+| bip_39_word_no_space_11 | useimposeluckyliveceilingbombsadnesstruckmosquitomotorlist |  
+| bip_39_word_no_space_12 | useimposeluckyliveceilingbombsadnesstruckmosquitomotorlistactual |  
+| bip_39_word_no_space_2 | useimpose |  
+| bip_39_word_no_space_3 | useimposelucky |  
+| bip_39_word_no_space_4 | useimposeluckylive |  
+| bip_39_word_no_space_5 | useimposeluckyliveceiling |  
+| bip_39_word_no_space_6 | useimposeluckyliveceilingbomb |  
+| bip_39_word_no_space_7 | useimposeluckyliveceilingbombsadness |  
+| bip_39_word_no_space_8 | useimposeluckyliveceilingbombsadnesstruck |  
+| bip_39_word_no_space_9 | useimposeluckyliveceilingbombsadnesstruckmosquito |  
 | bip_39_word_space_0 | ['use', 'impose', 'lucky', 'live', 'ceiling', 'bomb', 'sadness', 'truck', 'mosquito', 'motor', 'list', 'actual'] |  
 | bip_39_word_space_1 | use |  
 | bip_39_word_space_10 | use impose lucky live ceiling bomb sadness truck mosquito motor |  

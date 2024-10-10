@@ -122,6 +122,18 @@ annual
 slim
 fury
 surge |  
+| bip_39_word_no_space_1 | april |  
+| bip_39_word_no_space_10 | aprilfatiguegroupcrackemptyannualslimfurysurgeinfant |  
+| bip_39_word_no_space_11 | aprilfatiguegroupcrackemptyannualslimfurysurgeinfantlamp |  
+| bip_39_word_no_space_12 | aprilfatiguegroupcrackemptyannualslimfurysurgeinfantlampargue |  
+| bip_39_word_no_space_2 | aprilfatigue |  
+| bip_39_word_no_space_3 | aprilfatiguegroup |  
+| bip_39_word_no_space_4 | aprilfatiguegroupcrack |  
+| bip_39_word_no_space_5 | aprilfatiguegroupcrackempty |  
+| bip_39_word_no_space_6 | aprilfatiguegroupcrackemptyannual |  
+| bip_39_word_no_space_7 | aprilfatiguegroupcrackemptyannualslim |  
+| bip_39_word_no_space_8 | aprilfatiguegroupcrackemptyannualslimfury |  
+| bip_39_word_no_space_9 | aprilfatiguegroupcrackemptyannualslimfurysurge |  
 | bip_39_word_space_0 | ['april', 'fatigue', 'group', 'crack', 'empty', 'annual', 'slim', 'fury', 'surge', 'infant', 'lamp', 'argue'] |  
 | bip_39_word_space_1 | april |  
 | bip_39_word_space_10 | april fatigue group crack empty annual slim fury surge infant |  

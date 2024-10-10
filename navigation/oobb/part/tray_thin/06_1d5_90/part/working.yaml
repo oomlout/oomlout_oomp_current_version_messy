@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'omit
   dust
 
   great'
+bip_39_word_no_space_1: omit
+bip_39_word_no_space_10: omitgentlebetweenguesstankfloorcountrydustgreatbonus
+bip_39_word_no_space_11: omitgentlebetweenguesstankfloorcountrydustgreatbonuszone
+bip_39_word_no_space_12: omitgentlebetweenguesstankfloorcountrydustgreatbonuszoneabsent
+bip_39_word_no_space_2: omitgentle
+bip_39_word_no_space_3: omitgentlebetween
+bip_39_word_no_space_4: omitgentlebetweenguess
+bip_39_word_no_space_5: omitgentlebetweenguesstank
+bip_39_word_no_space_6: omitgentlebetweenguesstankfloor
+bip_39_word_no_space_7: omitgentlebetweenguesstankfloorcountry
+bip_39_word_no_space_8: omitgentlebetweenguesstankfloorcountrydust
+bip_39_word_no_space_9: omitgentlebetweenguesstankfloorcountrydustgreat
 bip_39_word_space_0:
 - omit
 - gentle

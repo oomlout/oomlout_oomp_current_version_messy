@@ -122,6 +122,18 @@ skin
 decrease
 wool
 flower |  
+| bip_39_word_no_space_1 | proof |  
+| bip_39_word_no_space_10 | proofthereabsorbtopicreleaseskindecreasewoolflowertimber |  
+| bip_39_word_no_space_11 | proofthereabsorbtopicreleaseskindecreasewoolflowertimberfinal |  
+| bip_39_word_no_space_12 | proofthereabsorbtopicreleaseskindecreasewoolflowertimberfinalachieve |  
+| bip_39_word_no_space_2 | proofthere |  
+| bip_39_word_no_space_3 | proofthereabsorb |  
+| bip_39_word_no_space_4 | proofthereabsorbtopic |  
+| bip_39_word_no_space_5 | proofthereabsorbtopicrelease |  
+| bip_39_word_no_space_6 | proofthereabsorbtopicreleaseskin |  
+| bip_39_word_no_space_7 | proofthereabsorbtopicreleaseskindecrease |  
+| bip_39_word_no_space_8 | proofthereabsorbtopicreleaseskindecreasewool |  
+| bip_39_word_no_space_9 | proofthereabsorbtopicreleaseskindecreasewoolflower |  
 | bip_39_word_space_0 | ['proof', 'there', 'absorb', 'topic', 'release', 'skin', 'decrease', 'wool', 'flower', 'timber', 'final', 'achieve'] |  
 | bip_39_word_space_1 | proof |  
 | bip_39_word_space_10 | proof there absorb topic release skin decrease wool flower timber |  

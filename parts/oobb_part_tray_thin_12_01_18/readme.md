@@ -122,6 +122,18 @@ breeze
 hat
 super
 spread |  
+| bip_39_word_no_space_1 | umbrella |  
+| bip_39_word_no_space_10 | umbrellaanswerfeelrequirecanbreezehatsuperspreadcensus |  
+| bip_39_word_no_space_11 | umbrellaanswerfeelrequirecanbreezehatsuperspreadcensusreplace |  
+| bip_39_word_no_space_12 | umbrellaanswerfeelrequirecanbreezehatsuperspreadcensusreplacearmor |  
+| bip_39_word_no_space_2 | umbrellaanswer |  
+| bip_39_word_no_space_3 | umbrellaanswerfeel |  
+| bip_39_word_no_space_4 | umbrellaanswerfeelrequire |  
+| bip_39_word_no_space_5 | umbrellaanswerfeelrequirecan |  
+| bip_39_word_no_space_6 | umbrellaanswerfeelrequirecanbreeze |  
+| bip_39_word_no_space_7 | umbrellaanswerfeelrequirecanbreezehat |  
+| bip_39_word_no_space_8 | umbrellaanswerfeelrequirecanbreezehatsuper |  
+| bip_39_word_no_space_9 | umbrellaanswerfeelrequirecanbreezehatsuperspread |  
 | bip_39_word_space_0 | ['umbrella', 'answer', 'feel', 'require', 'can', 'breeze', 'hat', 'super', 'spread', 'census', 'replace', 'armor'] |  
 | bip_39_word_space_1 | umbrella |  
 | bip_39_word_space_10 | umbrella answer feel require can breeze hat super spread census |  

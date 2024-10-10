@@ -122,6 +122,18 @@ soon
 degree
 lounge
 similar |  
+| bip_39_word_no_space_1 | olympic |  
+| bip_39_word_no_space_10 | olympicremembertravelfoldblossomsoondegreeloungesimilarmargin |  
+| bip_39_word_no_space_11 | olympicremembertravelfoldblossomsoondegreeloungesimilarmargindespair |  
+| bip_39_word_no_space_12 | olympicremembertravelfoldblossomsoondegreeloungesimilarmargindespairalbum |  
+| bip_39_word_no_space_2 | olympicremember |  
+| bip_39_word_no_space_3 | olympicremembertravel |  
+| bip_39_word_no_space_4 | olympicremembertravelfold |  
+| bip_39_word_no_space_5 | olympicremembertravelfoldblossom |  
+| bip_39_word_no_space_6 | olympicremembertravelfoldblossomsoon |  
+| bip_39_word_no_space_7 | olympicremembertravelfoldblossomsoondegree |  
+| bip_39_word_no_space_8 | olympicremembertravelfoldblossomsoondegreelounge |  
+| bip_39_word_no_space_9 | olympicremembertravelfoldblossomsoondegreeloungesimilar |  
 | bip_39_word_space_0 | ['olympic', 'remember', 'travel', 'fold', 'blossom', 'soon', 'degree', 'lounge', 'similar', 'margin', 'despair', 'album'] |  
 | bip_39_word_space_1 | olympic |  
 | bip_39_word_space_10 | olympic remember travel fold blossom soon degree lounge similar margin |  

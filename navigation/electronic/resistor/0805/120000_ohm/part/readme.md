@@ -122,6 +122,18 @@ useless
 cinnamon
 rich
 vote |  
+| bip_39_word_no_space_1 | dance |  
+| bip_39_word_no_space_10 | dancedeparteggrocketsiegeuselesscinnamonrichvotewidth |  
+| bip_39_word_no_space_11 | dancedeparteggrocketsiegeuselesscinnamonrichvotewidthawful |  
+| bip_39_word_no_space_12 | dancedeparteggrocketsiegeuselesscinnamonrichvotewidthawfulappear |  
+| bip_39_word_no_space_2 | dancedepart |  
+| bip_39_word_no_space_3 | dancedepartegg |  
+| bip_39_word_no_space_4 | dancedeparteggrocket |  
+| bip_39_word_no_space_5 | dancedeparteggrocketsiege |  
+| bip_39_word_no_space_6 | dancedeparteggrocketsiegeuseless |  
+| bip_39_word_no_space_7 | dancedeparteggrocketsiegeuselesscinnamon |  
+| bip_39_word_no_space_8 | dancedeparteggrocketsiegeuselesscinnamonrich |  
+| bip_39_word_no_space_9 | dancedeparteggrocketsiegeuselesscinnamonrichvote |  
 | bip_39_word_space_0 | ['dance', 'depart', 'egg', 'rocket', 'siege', 'useless', 'cinnamon', 'rich', 'vote', 'width', 'awful', 'appear'] |  
 | bip_39_word_space_1 | dance |  
 | bip_39_word_space_10 | dance depart egg rocket siege useless cinnamon rich vote width |  

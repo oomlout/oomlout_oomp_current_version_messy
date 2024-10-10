@@ -122,6 +122,18 @@ lift
 stage
 disease
 quality |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joinhumanhumormapleblanketliftstagediseasequalitylife |  
+| bip_39_word_no_space_11 | joinhumanhumormapleblanketliftstagediseasequalitylifewaste |  
+| bip_39_word_no_space_12 | joinhumanhumormapleblanketliftstagediseasequalitylifewasteapart |  
+| bip_39_word_no_space_2 | joinhuman |  
+| bip_39_word_no_space_3 | joinhumanhumor |  
+| bip_39_word_no_space_4 | joinhumanhumormaple |  
+| bip_39_word_no_space_5 | joinhumanhumormapleblanket |  
+| bip_39_word_no_space_6 | joinhumanhumormapleblanketlift |  
+| bip_39_word_no_space_7 | joinhumanhumormapleblanketliftstage |  
+| bip_39_word_no_space_8 | joinhumanhumormapleblanketliftstagedisease |  
+| bip_39_word_no_space_9 | joinhumanhumormapleblanketliftstagediseasequality |  
 | bip_39_word_space_0 | ['join', 'human', 'humor', 'maple', 'blanket', 'lift', 'stage', 'disease', 'quality', 'life', 'waste', 'apart'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join human humor maple blanket lift stage disease quality life |  

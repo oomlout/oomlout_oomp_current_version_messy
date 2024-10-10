@@ -122,6 +122,18 @@ injury
 march
 brother
 remind |  
+| bip_39_word_no_space_1 | west |  
+| bip_39_word_no_space_10 | westexcluderescueedgewetinjurymarchbrotherremindactor |  
+| bip_39_word_no_space_11 | westexcluderescueedgewetinjurymarchbrotherremindactorbeauty |  
+| bip_39_word_no_space_12 | westexcluderescueedgewetinjurymarchbrotherremindactorbeautyangry |  
+| bip_39_word_no_space_2 | westexclude |  
+| bip_39_word_no_space_3 | westexcluderescue |  
+| bip_39_word_no_space_4 | westexcluderescueedge |  
+| bip_39_word_no_space_5 | westexcluderescueedgewet |  
+| bip_39_word_no_space_6 | westexcluderescueedgewetinjury |  
+| bip_39_word_no_space_7 | westexcluderescueedgewetinjurymarch |  
+| bip_39_word_no_space_8 | westexcluderescueedgewetinjurymarchbrother |  
+| bip_39_word_no_space_9 | westexcluderescueedgewetinjurymarchbrotherremind |  
 | bip_39_word_space_0 | ['west', 'exclude', 'rescue', 'edge', 'wet', 'injury', 'march', 'brother', 'remind', 'actor', 'beauty', 'angry'] |  
 | bip_39_word_space_1 | west |  
 | bip_39_word_space_10 | west exclude rescue edge wet injury march brother remind actor |  

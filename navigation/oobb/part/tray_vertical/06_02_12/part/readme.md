@@ -122,6 +122,18 @@ stable
 fire
 lounge
 plastic |  
+| bip_39_word_no_space_1 | bleak |  
+| bip_39_word_no_space_10 | bleakawkwardclusterbattleactorstablefireloungeplasticwalnut |  
+| bip_39_word_no_space_11 | bleakawkwardclusterbattleactorstablefireloungeplasticwalnuthover |  
+| bip_39_word_no_space_12 | bleakawkwardclusterbattleactorstablefireloungeplasticwalnuthoveranchor |  
+| bip_39_word_no_space_2 | bleakawkward |  
+| bip_39_word_no_space_3 | bleakawkwardcluster |  
+| bip_39_word_no_space_4 | bleakawkwardclusterbattle |  
+| bip_39_word_no_space_5 | bleakawkwardclusterbattleactor |  
+| bip_39_word_no_space_6 | bleakawkwardclusterbattleactorstable |  
+| bip_39_word_no_space_7 | bleakawkwardclusterbattleactorstablefire |  
+| bip_39_word_no_space_8 | bleakawkwardclusterbattleactorstablefirelounge |  
+| bip_39_word_no_space_9 | bleakawkwardclusterbattleactorstablefireloungeplastic |  
 | bip_39_word_space_0 | ['bleak', 'awkward', 'cluster', 'battle', 'actor', 'stable', 'fire', 'lounge', 'plastic', 'walnut', 'hover', 'anchor'] |  
 | bip_39_word_space_1 | bleak |  
 | bip_39_word_space_10 | bleak awkward cluster battle actor stable fire lounge plastic walnut |  

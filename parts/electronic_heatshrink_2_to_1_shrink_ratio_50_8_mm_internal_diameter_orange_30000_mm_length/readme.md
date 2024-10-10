@@ -122,6 +122,18 @@ fit
 school
 average
 enhance |  
+| bip_39_word_no_space_1 | truck |  
+| bip_39_word_no_space_10 | truckbidvoicetidemanagefitschoolaverageenhanceflip |  
+| bip_39_word_no_space_11 | truckbidvoicetidemanagefitschoolaverageenhanceflipprepare |  
+| bip_39_word_no_space_12 | truckbidvoicetidemanagefitschoolaverageenhanceflipprepareanimal |  
+| bip_39_word_no_space_2 | truckbid |  
+| bip_39_word_no_space_3 | truckbidvoice |  
+| bip_39_word_no_space_4 | truckbidvoicetide |  
+| bip_39_word_no_space_5 | truckbidvoicetidemanage |  
+| bip_39_word_no_space_6 | truckbidvoicetidemanagefit |  
+| bip_39_word_no_space_7 | truckbidvoicetidemanagefitschool |  
+| bip_39_word_no_space_8 | truckbidvoicetidemanagefitschoolaverage |  
+| bip_39_word_no_space_9 | truckbidvoicetidemanagefitschoolaverageenhance |  
 | bip_39_word_space_0 | ['truck', 'bid', 'voice', 'tide', 'manage', 'fit', 'school', 'average', 'enhance', 'flip', 'prepare', 'animal'] |  
 | bip_39_word_space_1 | truck |  
 | bip_39_word_space_10 | truck bid voice tide manage fit school average enhance flip |  

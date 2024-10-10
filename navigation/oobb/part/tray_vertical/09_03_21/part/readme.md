@@ -122,6 +122,18 @@ deny
 jar
 ugly
 category |  
+| bip_39_word_no_space_1 | deer |  
+| bip_39_word_no_space_10 | deerbenchfeejewelbattledenyjaruglycategorymoon |  
+| bip_39_word_no_space_11 | deerbenchfeejewelbattledenyjaruglycategorymoonaction |  
+| bip_39_word_no_space_12 | deerbenchfeejewelbattledenyjaruglycategorymoonactionathlete |  
+| bip_39_word_no_space_2 | deerbench |  
+| bip_39_word_no_space_3 | deerbenchfee |  
+| bip_39_word_no_space_4 | deerbenchfeejewel |  
+| bip_39_word_no_space_5 | deerbenchfeejewelbattle |  
+| bip_39_word_no_space_6 | deerbenchfeejewelbattledeny |  
+| bip_39_word_no_space_7 | deerbenchfeejewelbattledenyjar |  
+| bip_39_word_no_space_8 | deerbenchfeejewelbattledenyjarugly |  
+| bip_39_word_no_space_9 | deerbenchfeejewelbattledenyjaruglycategory |  
 | bip_39_word_space_0 | ['deer', 'bench', 'fee', 'jewel', 'battle', 'deny', 'jar', 'ugly', 'category', 'moon', 'action', 'athlete'] |  
 | bip_39_word_space_1 | deer |  
 | bip_39_word_space_10 | deer bench fee jewel battle deny jar ugly category moon |  

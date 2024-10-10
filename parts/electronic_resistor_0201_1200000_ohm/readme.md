@@ -122,6 +122,18 @@ source
 fancy
 curious
 cloth |  
+| bip_39_word_no_space_1 | logic |  
+| bip_39_word_no_space_10 | logicdryshedsubmitminorsourcefancycuriousclothlaptop |  
+| bip_39_word_no_space_11 | logicdryshedsubmitminorsourcefancycuriousclothlaptopwood |  
+| bip_39_word_no_space_12 | logicdryshedsubmitminorsourcefancycuriousclothlaptopwoodaddict |  
+| bip_39_word_no_space_2 | logicdry |  
+| bip_39_word_no_space_3 | logicdryshed |  
+| bip_39_word_no_space_4 | logicdryshedsubmit |  
+| bip_39_word_no_space_5 | logicdryshedsubmitminor |  
+| bip_39_word_no_space_6 | logicdryshedsubmitminorsource |  
+| bip_39_word_no_space_7 | logicdryshedsubmitminorsourcefancy |  
+| bip_39_word_no_space_8 | logicdryshedsubmitminorsourcefancycurious |  
+| bip_39_word_no_space_9 | logicdryshedsubmitminorsourcefancycuriouscloth |  
 | bip_39_word_space_0 | ['logic', 'dry', 'shed', 'submit', 'minor', 'source', 'fancy', 'curious', 'cloth', 'laptop', 'wood', 'addict'] |  
 | bip_39_word_space_1 | logic |  
 | bip_39_word_space_10 | logic dry shed submit minor source fancy curious cloth laptop |  

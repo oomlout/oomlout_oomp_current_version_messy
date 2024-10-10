@@ -122,6 +122,18 @@ connect
 joke
 abuse
 measure |  
+| bip_39_word_no_space_1 | assume |  
+| bip_39_word_no_space_10 | assumealcoholinnocentgreatglobeconnectjokeabusemeasurecheck |  
+| bip_39_word_no_space_11 | assumealcoholinnocentgreatglobeconnectjokeabusemeasurechecktheory |  
+| bip_39_word_no_space_12 | assumealcoholinnocentgreatglobeconnectjokeabusemeasurechecktheoryactress |  
+| bip_39_word_no_space_2 | assumealcohol |  
+| bip_39_word_no_space_3 | assumealcoholinnocent |  
+| bip_39_word_no_space_4 | assumealcoholinnocentgreat |  
+| bip_39_word_no_space_5 | assumealcoholinnocentgreatglobe |  
+| bip_39_word_no_space_6 | assumealcoholinnocentgreatglobeconnect |  
+| bip_39_word_no_space_7 | assumealcoholinnocentgreatglobeconnectjoke |  
+| bip_39_word_no_space_8 | assumealcoholinnocentgreatglobeconnectjokeabuse |  
+| bip_39_word_no_space_9 | assumealcoholinnocentgreatglobeconnectjokeabusemeasure |  
 | bip_39_word_space_0 | ['assume', 'alcohol', 'innocent', 'great', 'globe', 'connect', 'joke', 'abuse', 'measure', 'check', 'theory', 'actress'] |  
 | bip_39_word_space_1 | assume |  
 | bip_39_word_space_10 | assume alcohol innocent great globe connect joke abuse measure check |  

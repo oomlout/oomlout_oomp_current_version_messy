@@ -122,6 +122,18 @@ ordinary
 purchase
 appear
 high |  
+| bip_39_word_no_space_1 | avocado |  
+| bip_39_word_no_space_10 | avocadocerealforcenaivepanelordinarypurchaseappearhighmanage |  
+| bip_39_word_no_space_11 | avocadocerealforcenaivepanelordinarypurchaseappearhighmanageawake |  
+| bip_39_word_no_space_12 | avocadocerealforcenaivepanelordinarypurchaseappearhighmanageawakeancient |  
+| bip_39_word_no_space_2 | avocadocereal |  
+| bip_39_word_no_space_3 | avocadocerealforce |  
+| bip_39_word_no_space_4 | avocadocerealforcenaive |  
+| bip_39_word_no_space_5 | avocadocerealforcenaivepanel |  
+| bip_39_word_no_space_6 | avocadocerealforcenaivepanelordinary |  
+| bip_39_word_no_space_7 | avocadocerealforcenaivepanelordinarypurchase |  
+| bip_39_word_no_space_8 | avocadocerealforcenaivepanelordinarypurchaseappear |  
+| bip_39_word_no_space_9 | avocadocerealforcenaivepanelordinarypurchaseappearhigh |  
 | bip_39_word_space_0 | ['avocado', 'cereal', 'force', 'naive', 'panel', 'ordinary', 'purchase', 'appear', 'high', 'manage', 'awake', 'ancient'] |  
 | bip_39_word_space_1 | avocado |  
 | bip_39_word_space_10 | avocado cereal force naive panel ordinary purchase appear high manage |  

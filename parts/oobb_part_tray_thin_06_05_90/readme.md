@@ -122,6 +122,18 @@ letter
 under
 message
 social |  
+| bip_39_word_no_space_1 | recipe |  
+| bip_39_word_no_space_10 | recipeeleganttreepyramidmainletterundermessagesocialkid |  
+| bip_39_word_no_space_11 | recipeeleganttreepyramidmainletterundermessagesocialkidleg |  
+| bip_39_word_no_space_12 | recipeeleganttreepyramidmainletterundermessagesocialkidlegaffair |  
+| bip_39_word_no_space_2 | recipeelegant |  
+| bip_39_word_no_space_3 | recipeeleganttree |  
+| bip_39_word_no_space_4 | recipeeleganttreepyramid |  
+| bip_39_word_no_space_5 | recipeeleganttreepyramidmain |  
+| bip_39_word_no_space_6 | recipeeleganttreepyramidmainletter |  
+| bip_39_word_no_space_7 | recipeeleganttreepyramidmainletterunder |  
+| bip_39_word_no_space_8 | recipeeleganttreepyramidmainletterundermessage |  
+| bip_39_word_no_space_9 | recipeeleganttreepyramidmainletterundermessagesocial |  
 | bip_39_word_space_0 | ['recipe', 'elegant', 'tree', 'pyramid', 'main', 'letter', 'under', 'message', 'social', 'kid', 'leg', 'affair'] |  
 | bip_39_word_space_1 | recipe |  
 | bip_39_word_space_10 | recipe elegant tree pyramid main letter under message social kid |  

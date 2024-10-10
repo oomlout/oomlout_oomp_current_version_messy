@@ -122,6 +122,18 @@ enrich
 brief
 agent
 dynamic |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftwitnessfinecanalhiddenenrichbriefagentdynamicconcert |  
+| bip_39_word_no_space_11 | giftwitnessfinecanalhiddenenrichbriefagentdynamicconcertstaff |  
+| bip_39_word_no_space_12 | giftwitnessfinecanalhiddenenrichbriefagentdynamicconcertstaffalley |  
+| bip_39_word_no_space_2 | giftwitness |  
+| bip_39_word_no_space_3 | giftwitnessfine |  
+| bip_39_word_no_space_4 | giftwitnessfinecanal |  
+| bip_39_word_no_space_5 | giftwitnessfinecanalhidden |  
+| bip_39_word_no_space_6 | giftwitnessfinecanalhiddenenrich |  
+| bip_39_word_no_space_7 | giftwitnessfinecanalhiddenenrichbrief |  
+| bip_39_word_no_space_8 | giftwitnessfinecanalhiddenenrichbriefagent |  
+| bip_39_word_no_space_9 | giftwitnessfinecanalhiddenenrichbriefagentdynamic |  
 | bip_39_word_space_0 | ['gift', 'witness', 'fine', 'canal', 'hidden', 'enrich', 'brief', 'agent', 'dynamic', 'concert', 'staff', 'alley'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift witness fine canal hidden enrich brief agent dynamic concert |  

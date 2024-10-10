@@ -122,6 +122,18 @@ champion
 excess
 asthma
 shop |  
+| bip_39_word_no_space_1 | main |  
+| bip_39_word_no_space_10 | maindolphinbroomdetailgladchampionexcessasthmashopaudit |  
+| bip_39_word_no_space_11 | maindolphinbroomdetailgladchampionexcessasthmashopauditcactus |  
+| bip_39_word_no_space_12 | maindolphinbroomdetailgladchampionexcessasthmashopauditcactusalert |  
+| bip_39_word_no_space_2 | maindolphin |  
+| bip_39_word_no_space_3 | maindolphinbroom |  
+| bip_39_word_no_space_4 | maindolphinbroomdetail |  
+| bip_39_word_no_space_5 | maindolphinbroomdetailglad |  
+| bip_39_word_no_space_6 | maindolphinbroomdetailgladchampion |  
+| bip_39_word_no_space_7 | maindolphinbroomdetailgladchampionexcess |  
+| bip_39_word_no_space_8 | maindolphinbroomdetailgladchampionexcessasthma |  
+| bip_39_word_no_space_9 | maindolphinbroomdetailgladchampionexcessasthmashop |  
 | bip_39_word_space_0 | ['main', 'dolphin', 'broom', 'detail', 'glad', 'champion', 'excess', 'asthma', 'shop', 'audit', 'cactus', 'alert'] |  
 | bip_39_word_space_1 | main |  
 | bip_39_word_space_10 | main dolphin broom detail glad champion excess asthma shop audit |  

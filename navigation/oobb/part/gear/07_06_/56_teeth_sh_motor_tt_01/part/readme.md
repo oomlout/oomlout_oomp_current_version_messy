@@ -122,6 +122,18 @@ resource
 snow
 globe
 unveil |  
+| bip_39_word_no_space_1 | patch |  
+| bip_39_word_no_space_10 | patchecholenschoosefloatresourcesnowglobeunveilluxury |  
+| bip_39_word_no_space_11 | patchecholenschoosefloatresourcesnowglobeunveilluxurycup |  
+| bip_39_word_no_space_12 | patchecholenschoosefloatresourcesnowglobeunveilluxurycuparea |  
+| bip_39_word_no_space_2 | patchecho |  
+| bip_39_word_no_space_3 | patchecholens |  
+| bip_39_word_no_space_4 | patchecholenschoose |  
+| bip_39_word_no_space_5 | patchecholenschoosefloat |  
+| bip_39_word_no_space_6 | patchecholenschoosefloatresource |  
+| bip_39_word_no_space_7 | patchecholenschoosefloatresourcesnow |  
+| bip_39_word_no_space_8 | patchecholenschoosefloatresourcesnowglobe |  
+| bip_39_word_no_space_9 | patchecholenschoosefloatresourcesnowglobeunveil |  
 | bip_39_word_space_0 | ['patch', 'echo', 'lens', 'choose', 'float', 'resource', 'snow', 'globe', 'unveil', 'luxury', 'cup', 'area'] |  
 | bip_39_word_space_1 | patch |  
 | bip_39_word_space_10 | patch echo lens choose float resource snow globe unveil luxury |  

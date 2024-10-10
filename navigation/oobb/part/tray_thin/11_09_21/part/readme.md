@@ -122,6 +122,18 @@ muffin
 million
 find
 sentence |  
+| bip_39_word_no_space_1 | garbage |  
+| bip_39_word_no_space_10 | garbagepreventsoldierroadtogethermuffinmillionfindsentencecycle |  
+| bip_39_word_no_space_11 | garbagepreventsoldierroadtogethermuffinmillionfindsentencecyclezone |  
+| bip_39_word_no_space_12 | garbagepreventsoldierroadtogethermuffinmillionfindsentencecyclezoneadvice |  
+| bip_39_word_no_space_2 | garbageprevent |  
+| bip_39_word_no_space_3 | garbagepreventsoldier |  
+| bip_39_word_no_space_4 | garbagepreventsoldierroad |  
+| bip_39_word_no_space_5 | garbagepreventsoldierroadtogether |  
+| bip_39_word_no_space_6 | garbagepreventsoldierroadtogethermuffin |  
+| bip_39_word_no_space_7 | garbagepreventsoldierroadtogethermuffinmillion |  
+| bip_39_word_no_space_8 | garbagepreventsoldierroadtogethermuffinmillionfind |  
+| bip_39_word_no_space_9 | garbagepreventsoldierroadtogethermuffinmillionfindsentence |  
 | bip_39_word_space_0 | ['garbage', 'prevent', 'soldier', 'road', 'together', 'muffin', 'million', 'find', 'sentence', 'cycle', 'zone', 'advice'] |  
 | bip_39_word_space_1 | garbage |  
 | bip_39_word_space_10 | garbage prevent soldier road together muffin million find sentence cycle |  

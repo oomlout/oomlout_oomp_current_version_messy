@@ -122,6 +122,18 @@ anger
 dentist
 timber
 consider |  
+| bip_39_word_no_space_1 | tuition |  
+| bip_39_word_no_space_10 | tuitiondryneutralassumefortuneangerdentisttimberconsiderfood |  
+| bip_39_word_no_space_11 | tuitiondryneutralassumefortuneangerdentisttimberconsiderfoodflower |  
+| bip_39_word_no_space_12 | tuitiondryneutralassumefortuneangerdentisttimberconsiderfoodfloweract |  
+| bip_39_word_no_space_2 | tuitiondry |  
+| bip_39_word_no_space_3 | tuitiondryneutral |  
+| bip_39_word_no_space_4 | tuitiondryneutralassume |  
+| bip_39_word_no_space_5 | tuitiondryneutralassumefortune |  
+| bip_39_word_no_space_6 | tuitiondryneutralassumefortuneanger |  
+| bip_39_word_no_space_7 | tuitiondryneutralassumefortuneangerdentist |  
+| bip_39_word_no_space_8 | tuitiondryneutralassumefortuneangerdentisttimber |  
+| bip_39_word_no_space_9 | tuitiondryneutralassumefortuneangerdentisttimberconsider |  
 | bip_39_word_space_0 | ['tuition', 'dry', 'neutral', 'assume', 'fortune', 'anger', 'dentist', 'timber', 'consider', 'food', 'flower', 'act'] |  
 | bip_39_word_space_1 | tuition |  
 | bip_39_word_space_10 | tuition dry neutral assume fortune anger dentist timber consider food |  

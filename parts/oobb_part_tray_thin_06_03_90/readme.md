@@ -122,6 +122,18 @@ swear
 month
 velvet
 marine |  
+| bip_39_word_no_space_1 | chronic |  
+| bip_39_word_no_space_10 | chroniclecturefewcomesurroundswearmonthvelvetmarineroute |  
+| bip_39_word_no_space_11 | chroniclecturefewcomesurroundswearmonthvelvetmarineroutevisual |  
+| bip_39_word_no_space_12 | chroniclecturefewcomesurroundswearmonthvelvetmarineroutevisualartist |  
+| bip_39_word_no_space_2 | chroniclecture |  
+| bip_39_word_no_space_3 | chroniclecturefew |  
+| bip_39_word_no_space_4 | chroniclecturefewcome |  
+| bip_39_word_no_space_5 | chroniclecturefewcomesurround |  
+| bip_39_word_no_space_6 | chroniclecturefewcomesurroundswear |  
+| bip_39_word_no_space_7 | chroniclecturefewcomesurroundswearmonth |  
+| bip_39_word_no_space_8 | chroniclecturefewcomesurroundswearmonthvelvet |  
+| bip_39_word_no_space_9 | chroniclecturefewcomesurroundswearmonthvelvetmarine |  
 | bip_39_word_space_0 | ['chronic', 'lecture', 'few', 'come', 'surround', 'swear', 'month', 'velvet', 'marine', 'route', 'visual', 'artist'] |  
 | bip_39_word_space_1 | chronic |  
 | bip_39_word_space_10 | chronic lecture few come surround swear month velvet marine route |  

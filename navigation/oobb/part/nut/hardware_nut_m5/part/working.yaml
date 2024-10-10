@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pelican
   toddler
 
   icon'
+bip_39_word_no_space_1: pelican
+bip_39_word_no_space_10: pelicannovelawayrailroundbelieveusedtoddlericoncode
+bip_39_word_no_space_11: pelicannovelawayrailroundbelieveusedtoddlericoncodesplit
+bip_39_word_no_space_12: pelicannovelawayrailroundbelieveusedtoddlericoncodesplitadult
+bip_39_word_no_space_2: pelicannovel
+bip_39_word_no_space_3: pelicannovelaway
+bip_39_word_no_space_4: pelicannovelawayrail
+bip_39_word_no_space_5: pelicannovelawayrailround
+bip_39_word_no_space_6: pelicannovelawayrailroundbelieve
+bip_39_word_no_space_7: pelicannovelawayrailroundbelieveused
+bip_39_word_no_space_8: pelicannovelawayrailroundbelieveusedtoddler
+bip_39_word_no_space_9: pelicannovelawayrailroundbelieveusedtoddlericon
 bip_39_word_space_0:
 - pelican
 - novel

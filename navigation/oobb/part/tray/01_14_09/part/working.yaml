@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'moon
   desert
 
   surge'
+bip_39_word_no_space_1: moon
+bip_39_word_no_space_10: moonflowershrimpbelievepushreturnoptiondesertsurgefield
+bip_39_word_no_space_11: moonflowershrimpbelievepushreturnoptiondesertsurgefieldribbon
+bip_39_word_no_space_12: moonflowershrimpbelievepushreturnoptiondesertsurgefieldribbonaudit
+bip_39_word_no_space_2: moonflower
+bip_39_word_no_space_3: moonflowershrimp
+bip_39_word_no_space_4: moonflowershrimpbelieve
+bip_39_word_no_space_5: moonflowershrimpbelievepush
+bip_39_word_no_space_6: moonflowershrimpbelievepushreturn
+bip_39_word_no_space_7: moonflowershrimpbelievepushreturnoption
+bip_39_word_no_space_8: moonflowershrimpbelievepushreturnoptiondesert
+bip_39_word_no_space_9: moonflowershrimpbelievepushreturnoptiondesertsurge
 bip_39_word_space_0:
 - moon
 - flower

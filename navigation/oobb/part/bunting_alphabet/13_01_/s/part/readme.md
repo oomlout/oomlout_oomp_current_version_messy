@@ -122,6 +122,18 @@ summer
 swamp
 burger
 elephant |  
+| bip_39_word_no_space_1 | shoe |  
+| bip_39_word_no_space_10 | shoewinterlazynetlocksummerswampburgerelephantvendor |  
+| bip_39_word_no_space_11 | shoewinterlazynetlocksummerswampburgerelephantvendorfirst |  
+| bip_39_word_no_space_12 | shoewinterlazynetlocksummerswampburgerelephantvendorfirstalpha |  
+| bip_39_word_no_space_2 | shoewinter |  
+| bip_39_word_no_space_3 | shoewinterlazy |  
+| bip_39_word_no_space_4 | shoewinterlazynet |  
+| bip_39_word_no_space_5 | shoewinterlazynetlock |  
+| bip_39_word_no_space_6 | shoewinterlazynetlocksummer |  
+| bip_39_word_no_space_7 | shoewinterlazynetlocksummerswamp |  
+| bip_39_word_no_space_8 | shoewinterlazynetlocksummerswampburger |  
+| bip_39_word_no_space_9 | shoewinterlazynetlocksummerswampburgerelephant |  
 | bip_39_word_space_0 | ['shoe', 'winter', 'lazy', 'net', 'lock', 'summer', 'swamp', 'burger', 'elephant', 'vendor', 'first', 'alpha'] |  
 | bip_39_word_space_1 | shoe |  
 | bip_39_word_space_10 | shoe winter lazy net lock summer swamp burger elephant vendor |  

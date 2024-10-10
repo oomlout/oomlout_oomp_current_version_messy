@@ -122,6 +122,18 @@ book
 stomach
 among
 stereo |  
+| bip_39_word_no_space_1 | answer |  
+| bip_39_word_no_space_10 | answercleanfatalnerveviolinbookstomachamongstereoblush |  
+| bip_39_word_no_space_11 | answercleanfatalnerveviolinbookstomachamongstereoblushclog |  
+| bip_39_word_no_space_12 | answercleanfatalnerveviolinbookstomachamongstereoblushclogartwork |  
+| bip_39_word_no_space_2 | answerclean |  
+| bip_39_word_no_space_3 | answercleanfatal |  
+| bip_39_word_no_space_4 | answercleanfatalnerve |  
+| bip_39_word_no_space_5 | answercleanfatalnerveviolin |  
+| bip_39_word_no_space_6 | answercleanfatalnerveviolinbook |  
+| bip_39_word_no_space_7 | answercleanfatalnerveviolinbookstomach |  
+| bip_39_word_no_space_8 | answercleanfatalnerveviolinbookstomachamong |  
+| bip_39_word_no_space_9 | answercleanfatalnerveviolinbookstomachamongstereo |  
 | bip_39_word_space_0 | ['answer', 'clean', 'fatal', 'nerve', 'violin', 'book', 'stomach', 'among', 'stereo', 'blush', 'clog', 'artwork'] |  
 | bip_39_word_space_1 | answer |  
 | bip_39_word_space_10 | answer clean fatal nerve violin book stomach among stereo blush |  

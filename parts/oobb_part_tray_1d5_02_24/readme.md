@@ -122,6 +122,18 @@ entire
 luggage
 essence
 clog |  
+| bip_39_word_no_space_1 | inherit |  
+| bip_39_word_no_space_10 | inherithumanautooysteroccurentireluggageessenceclogarch |  
+| bip_39_word_no_space_11 | inherithumanautooysteroccurentireluggageessenceclogarchvessel |  
+| bip_39_word_no_space_12 | inherithumanautooysteroccurentireluggageessenceclogarchvesselahead |  
+| bip_39_word_no_space_2 | inherithuman |  
+| bip_39_word_no_space_3 | inherithumanauto |  
+| bip_39_word_no_space_4 | inherithumanautooyster |  
+| bip_39_word_no_space_5 | inherithumanautooysteroccur |  
+| bip_39_word_no_space_6 | inherithumanautooysteroccurentire |  
+| bip_39_word_no_space_7 | inherithumanautooysteroccurentireluggage |  
+| bip_39_word_no_space_8 | inherithumanautooysteroccurentireluggageessence |  
+| bip_39_word_no_space_9 | inherithumanautooysteroccurentireluggageessenceclog |  
 | bip_39_word_space_0 | ['inherit', 'human', 'auto', 'oyster', 'occur', 'entire', 'luggage', 'essence', 'clog', 'arch', 'vessel', 'ahead'] |  
 | bip_39_word_space_1 | inherit |  
 | bip_39_word_space_10 | inherit human auto oyster occur entire luggage essence clog arch |  

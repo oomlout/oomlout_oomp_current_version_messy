@@ -122,6 +122,18 @@ add
 episode
 device
 version |  
+| bip_39_word_no_space_1 | path |  
+| bip_39_word_no_space_10 | pathvotetrulythanksightaddepisodedeviceversionsquirrel |  
+| bip_39_word_no_space_11 | pathvotetrulythanksightaddepisodedeviceversionsquirrelramp |  
+| bip_39_word_no_space_12 | pathvotetrulythanksightaddepisodedeviceversionsquirrelrampamount |  
+| bip_39_word_no_space_2 | pathvote |  
+| bip_39_word_no_space_3 | pathvotetruly |  
+| bip_39_word_no_space_4 | pathvotetrulythank |  
+| bip_39_word_no_space_5 | pathvotetrulythanksight |  
+| bip_39_word_no_space_6 | pathvotetrulythanksightadd |  
+| bip_39_word_no_space_7 | pathvotetrulythanksightaddepisode |  
+| bip_39_word_no_space_8 | pathvotetrulythanksightaddepisodedevice |  
+| bip_39_word_no_space_9 | pathvotetrulythanksightaddepisodedeviceversion |  
 | bip_39_word_space_0 | ['path', 'vote', 'truly', 'thank', 'sight', 'add', 'episode', 'device', 'version', 'squirrel', 'ramp', 'amount'] |  
 | bip_39_word_space_1 | path |  
 | bip_39_word_space_10 | path vote truly thank sight add episode device version squirrel |  

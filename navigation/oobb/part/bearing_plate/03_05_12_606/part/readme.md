@@ -122,6 +122,18 @@ tone
 album
 witness
 doctor |  
+| bip_39_word_no_space_1 | maximum |  
+| bip_39_word_no_space_10 | maximumabstractdecadenegativestruggletonealbumwitnessdoctorborder |  
+| bip_39_word_no_space_11 | maximumabstractdecadenegativestruggletonealbumwitnessdoctorbordermotion |  
+| bip_39_word_no_space_12 | maximumabstractdecadenegativestruggletonealbumwitnessdoctorbordermotionadapt |  
+| bip_39_word_no_space_2 | maximumabstract |  
+| bip_39_word_no_space_3 | maximumabstractdecade |  
+| bip_39_word_no_space_4 | maximumabstractdecadenegative |  
+| bip_39_word_no_space_5 | maximumabstractdecadenegativestruggle |  
+| bip_39_word_no_space_6 | maximumabstractdecadenegativestruggletone |  
+| bip_39_word_no_space_7 | maximumabstractdecadenegativestruggletonealbum |  
+| bip_39_word_no_space_8 | maximumabstractdecadenegativestruggletonealbumwitness |  
+| bip_39_word_no_space_9 | maximumabstractdecadenegativestruggletonealbumwitnessdoctor |  
 | bip_39_word_space_0 | ['maximum', 'abstract', 'decade', 'negative', 'struggle', 'tone', 'album', 'witness', 'doctor', 'border', 'motion', 'adapt'] |  
 | bip_39_word_space_1 | maximum |  
 | bip_39_word_space_10 | maximum abstract decade negative struggle tone album witness doctor border |  

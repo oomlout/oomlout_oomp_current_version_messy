@@ -122,6 +122,18 @@ creek
 pelican
 soon
 early |  
+| bip_39_word_no_space_1 | embrace |  
+| bip_39_word_no_space_10 | embraceolivewonderguitarpizzacreekpelicansoonearlykind |  
+| bip_39_word_no_space_11 | embraceolivewonderguitarpizzacreekpelicansoonearlykindenforce |  
+| bip_39_word_no_space_12 | embraceolivewonderguitarpizzacreekpelicansoonearlykindenforceafford |  
+| bip_39_word_no_space_2 | embraceolive |  
+| bip_39_word_no_space_3 | embraceolivewonder |  
+| bip_39_word_no_space_4 | embraceolivewonderguitar |  
+| bip_39_word_no_space_5 | embraceolivewonderguitarpizza |  
+| bip_39_word_no_space_6 | embraceolivewonderguitarpizzacreek |  
+| bip_39_word_no_space_7 | embraceolivewonderguitarpizzacreekpelican |  
+| bip_39_word_no_space_8 | embraceolivewonderguitarpizzacreekpelicansoon |  
+| bip_39_word_no_space_9 | embraceolivewonderguitarpizzacreekpelicansoonearly |  
 | bip_39_word_space_0 | ['embrace', 'olive', 'wonder', 'guitar', 'pizza', 'creek', 'pelican', 'soon', 'early', 'kind', 'enforce', 'afford'] |  
 | bip_39_word_space_1 | embrace |  
 | bip_39_word_space_10 | embrace olive wonder guitar pizza creek pelican soon early kind |  

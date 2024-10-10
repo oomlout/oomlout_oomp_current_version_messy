@@ -122,6 +122,18 @@ intact
 token
 sheriff
 diet |  
+| bip_39_word_no_space_1 | reveal |  
+| bip_39_word_no_space_10 | revealantennagrassmotherleftintacttokensheriffdiethappy |  
+| bip_39_word_no_space_11 | revealantennagrassmotherleftintacttokensheriffdiethappymail |  
+| bip_39_word_no_space_12 | revealantennagrassmotherleftintacttokensheriffdiethappymailancient |  
+| bip_39_word_no_space_2 | revealantenna |  
+| bip_39_word_no_space_3 | revealantennagrass |  
+| bip_39_word_no_space_4 | revealantennagrassmother |  
+| bip_39_word_no_space_5 | revealantennagrassmotherleft |  
+| bip_39_word_no_space_6 | revealantennagrassmotherleftintact |  
+| bip_39_word_no_space_7 | revealantennagrassmotherleftintacttoken |  
+| bip_39_word_no_space_8 | revealantennagrassmotherleftintacttokensheriff |  
+| bip_39_word_no_space_9 | revealantennagrassmotherleftintacttokensheriffdiet |  
 | bip_39_word_space_0 | ['reveal', 'antenna', 'grass', 'mother', 'left', 'intact', 'token', 'sheriff', 'diet', 'happy', 'mail', 'ancient'] |  
 | bip_39_word_space_1 | reveal |  
 | bip_39_word_space_10 | reveal antenna grass mother left intact token sheriff diet happy |  

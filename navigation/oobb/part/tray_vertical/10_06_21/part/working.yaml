@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'choice
   banana
 
   churn'
+bip_39_word_no_space_1: choice
+bip_39_word_no_space_10: choicefragilemassfriendmailaugustgirlbananachurnpause
+bip_39_word_no_space_11: choicefragilemassfriendmailaugustgirlbananachurnpausepause
+bip_39_word_no_space_12: choicefragilemassfriendmailaugustgirlbananachurnpausepausearctic
+bip_39_word_no_space_2: choicefragile
+bip_39_word_no_space_3: choicefragilemass
+bip_39_word_no_space_4: choicefragilemassfriend
+bip_39_word_no_space_5: choicefragilemassfriendmail
+bip_39_word_no_space_6: choicefragilemassfriendmailaugust
+bip_39_word_no_space_7: choicefragilemassfriendmailaugustgirl
+bip_39_word_no_space_8: choicefragilemassfriendmailaugustgirlbanana
+bip_39_word_no_space_9: choicefragilemassfriendmailaugustgirlbananachurn
 bip_39_word_space_0:
 - choice
 - fragile

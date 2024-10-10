@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'soccer
   cause
 
   lamp'
+bip_39_word_no_space_1: soccer
+bip_39_word_no_space_10: socceroffplaytastedialfadepathcauselampbutter
+bip_39_word_no_space_11: socceroffplaytastedialfadepathcauselampbutterolive
+bip_39_word_no_space_12: socceroffplaytastedialfadepathcauselampbutteroliveathlete
+bip_39_word_no_space_2: socceroff
+bip_39_word_no_space_3: socceroffplay
+bip_39_word_no_space_4: socceroffplaytaste
+bip_39_word_no_space_5: socceroffplaytastedial
+bip_39_word_no_space_6: socceroffplaytastedialfade
+bip_39_word_no_space_7: socceroffplaytastedialfadepath
+bip_39_word_no_space_8: socceroffplaytastedialfadepathcause
+bip_39_word_no_space_9: socceroffplaytastedialfadepathcauselamp
 bip_39_word_space_0:
 - soccer
 - 'off'

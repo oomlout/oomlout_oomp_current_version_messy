@@ -122,6 +122,18 @@ illegal
 drastic
 position
 chuckle |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | seriesloanfallpatterntotalillegaldrasticpositionchuckletravel |  
+| bip_39_word_no_space_11 | seriesloanfallpatterntotalillegaldrasticpositionchuckletravelgrit |  
+| bip_39_word_no_space_12 | seriesloanfallpatterntotalillegaldrasticpositionchuckletravelgritabout |  
+| bip_39_word_no_space_2 | seriesloan |  
+| bip_39_word_no_space_3 | seriesloanfall |  
+| bip_39_word_no_space_4 | seriesloanfallpattern |  
+| bip_39_word_no_space_5 | seriesloanfallpatterntotal |  
+| bip_39_word_no_space_6 | seriesloanfallpatterntotalillegal |  
+| bip_39_word_no_space_7 | seriesloanfallpatterntotalillegaldrastic |  
+| bip_39_word_no_space_8 | seriesloanfallpatterntotalillegaldrasticposition |  
+| bip_39_word_no_space_9 | seriesloanfallpatterntotalillegaldrasticpositionchuckle |  
 | bip_39_word_space_0 | ['series', 'loan', 'fall', 'pattern', 'total', 'illegal', 'drastic', 'position', 'chuckle', 'travel', 'grit', 'about'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series loan fall pattern total illegal drastic position chuckle travel |  

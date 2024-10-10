@@ -122,6 +122,18 @@ shrug
 urge
 clay
 turtle |  
+| bip_39_word_no_space_1 | gain |  
+| bip_39_word_no_space_10 | gainthriveclickroastsightshrugurgeclayturtleflight |  
+| bip_39_word_no_space_11 | gainthriveclickroastsightshrugurgeclayturtleflightheight |  
+| bip_39_word_no_space_12 | gainthriveclickroastsightshrugurgeclayturtleflightheightafford |  
+| bip_39_word_no_space_2 | gainthrive |  
+| bip_39_word_no_space_3 | gainthriveclick |  
+| bip_39_word_no_space_4 | gainthriveclickroast |  
+| bip_39_word_no_space_5 | gainthriveclickroastsight |  
+| bip_39_word_no_space_6 | gainthriveclickroastsightshrug |  
+| bip_39_word_no_space_7 | gainthriveclickroastsightshrugurge |  
+| bip_39_word_no_space_8 | gainthriveclickroastsightshrugurgeclay |  
+| bip_39_word_no_space_9 | gainthriveclickroastsightshrugurgeclayturtle |  
 | bip_39_word_space_0 | ['gain', 'thrive', 'click', 'roast', 'sight', 'shrug', 'urge', 'clay', 'turtle', 'flight', 'height', 'afford'] |  
 | bip_39_word_space_1 | gain |  
 | bip_39_word_space_10 | gain thrive click roast sight shrug urge clay turtle flight |  

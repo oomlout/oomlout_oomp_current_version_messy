@@ -122,6 +122,18 @@ depend
 concert
 wrap
 math |  
+| bip_39_word_no_space_1 | van |  
+| bip_39_word_no_space_10 | vantownalleyshafthelpdependconcertwrapmathattack |  
+| bip_39_word_no_space_11 | vantownalleyshafthelpdependconcertwrapmathattackminimum |  
+| bip_39_word_no_space_12 | vantownalleyshafthelpdependconcertwrapmathattackminimumalter |  
+| bip_39_word_no_space_2 | vantown |  
+| bip_39_word_no_space_3 | vantownalley |  
+| bip_39_word_no_space_4 | vantownalleyshaft |  
+| bip_39_word_no_space_5 | vantownalleyshafthelp |  
+| bip_39_word_no_space_6 | vantownalleyshafthelpdepend |  
+| bip_39_word_no_space_7 | vantownalleyshafthelpdependconcert |  
+| bip_39_word_no_space_8 | vantownalleyshafthelpdependconcertwrap |  
+| bip_39_word_no_space_9 | vantownalleyshafthelpdependconcertwrapmath |  
 | bip_39_word_space_0 | ['van', 'town', 'alley', 'shaft', 'help', 'depend', 'concert', 'wrap', 'math', 'attack', 'minimum', 'alter'] |  
 | bip_39_word_space_1 | van |  
 | bip_39_word_space_10 | van town alley shaft help depend concert wrap math attack |  

@@ -122,6 +122,18 @@ success
 peasant
 prison
 sign |  
+| bip_39_word_no_space_1 | punch |  
+| bip_39_word_no_space_10 | punchsurveygracewhipfrostsuccesspeasantprisonsignpredict |  
+| bip_39_word_no_space_11 | punchsurveygracewhipfrostsuccesspeasantprisonsignpredictscan |  
+| bip_39_word_no_space_12 | punchsurveygracewhipfrostsuccesspeasantprisonsignpredictscanaudit |  
+| bip_39_word_no_space_2 | punchsurvey |  
+| bip_39_word_no_space_3 | punchsurveygrace |  
+| bip_39_word_no_space_4 | punchsurveygracewhip |  
+| bip_39_word_no_space_5 | punchsurveygracewhipfrost |  
+| bip_39_word_no_space_6 | punchsurveygracewhipfrostsuccess |  
+| bip_39_word_no_space_7 | punchsurveygracewhipfrostsuccesspeasant |  
+| bip_39_word_no_space_8 | punchsurveygracewhipfrostsuccesspeasantprison |  
+| bip_39_word_no_space_9 | punchsurveygracewhipfrostsuccesspeasantprisonsign |  
 | bip_39_word_space_0 | ['punch', 'survey', 'grace', 'whip', 'frost', 'success', 'peasant', 'prison', 'sign', 'predict', 'scan', 'audit'] |  
 | bip_39_word_space_1 | punch |  
 | bip_39_word_space_10 | punch survey grace whip frost success peasant prison sign predict |  

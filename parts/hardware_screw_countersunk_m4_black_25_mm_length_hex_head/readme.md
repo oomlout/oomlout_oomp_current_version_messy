@@ -122,6 +122,18 @@ dizzy
 print
 glide
 wheel |  
+| bip_39_word_no_space_1 | poem |  
+| bip_39_word_no_space_10 | poemmazeindoornovellabeldizzyprintglidewheeltry |  
+| bip_39_word_no_space_11 | poemmazeindoornovellabeldizzyprintglidewheeltrymosquito |  
+| bip_39_word_no_space_12 | poemmazeindoornovellabeldizzyprintglidewheeltrymosquitoartefact |  
+| bip_39_word_no_space_2 | poemmaze |  
+| bip_39_word_no_space_3 | poemmazeindoor |  
+| bip_39_word_no_space_4 | poemmazeindoornovel |  
+| bip_39_word_no_space_5 | poemmazeindoornovellabel |  
+| bip_39_word_no_space_6 | poemmazeindoornovellabeldizzy |  
+| bip_39_word_no_space_7 | poemmazeindoornovellabeldizzyprint |  
+| bip_39_word_no_space_8 | poemmazeindoornovellabeldizzyprintglide |  
+| bip_39_word_no_space_9 | poemmazeindoornovellabeldizzyprintglidewheel |  
 | bip_39_word_space_0 | ['poem', 'maze', 'indoor', 'novel', 'label', 'dizzy', 'print', 'glide', 'wheel', 'try', 'mosquito', 'artefact'] |  
 | bip_39_word_space_1 | poem |  
 | bip_39_word_space_10 | poem maze indoor novel label dizzy print glide wheel try |  

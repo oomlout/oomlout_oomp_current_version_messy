@@ -122,6 +122,18 @@ whale
 say
 offer
 gaze |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposeexcuseluggagesnakeinnerwhalesayoffergazeonce |  
+| bip_39_word_no_space_11 | imposeexcuseluggagesnakeinnerwhalesayoffergazeoncedry |  
+| bip_39_word_no_space_12 | imposeexcuseluggagesnakeinnerwhalesayoffergazeoncedryadult |  
+| bip_39_word_no_space_2 | imposeexcuse |  
+| bip_39_word_no_space_3 | imposeexcuseluggage |  
+| bip_39_word_no_space_4 | imposeexcuseluggagesnake |  
+| bip_39_word_no_space_5 | imposeexcuseluggagesnakeinner |  
+| bip_39_word_no_space_6 | imposeexcuseluggagesnakeinnerwhale |  
+| bip_39_word_no_space_7 | imposeexcuseluggagesnakeinnerwhalesay |  
+| bip_39_word_no_space_8 | imposeexcuseluggagesnakeinnerwhalesayoffer |  
+| bip_39_word_no_space_9 | imposeexcuseluggagesnakeinnerwhalesayoffergaze |  
 | bip_39_word_space_0 | ['impose', 'excuse', 'luggage', 'snake', 'inner', 'whale', 'say', 'offer', 'gaze', 'once', 'dry', 'adult'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose excuse luggage snake inner whale say offer gaze once |  

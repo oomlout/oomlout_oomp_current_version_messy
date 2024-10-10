@@ -122,6 +122,18 @@ manual
 warfare
 gorilla
 relief |  
+| bip_39_word_no_space_1 | margin |  
+| bip_39_word_no_space_10 | margingymerasefossilsecondmanualwarfaregorillareliefcolumn |  
+| bip_39_word_no_space_11 | margingymerasefossilsecondmanualwarfaregorillareliefcolumnsymptom |  
+| bip_39_word_no_space_12 | margingymerasefossilsecondmanualwarfaregorillareliefcolumnsymptomasset |  
+| bip_39_word_no_space_2 | margingym |  
+| bip_39_word_no_space_3 | margingymerase |  
+| bip_39_word_no_space_4 | margingymerasefossil |  
+| bip_39_word_no_space_5 | margingymerasefossilsecond |  
+| bip_39_word_no_space_6 | margingymerasefossilsecondmanual |  
+| bip_39_word_no_space_7 | margingymerasefossilsecondmanualwarfare |  
+| bip_39_word_no_space_8 | margingymerasefossilsecondmanualwarfaregorilla |  
+| bip_39_word_no_space_9 | margingymerasefossilsecondmanualwarfaregorillarelief |  
 | bip_39_word_space_0 | ['margin', 'gym', 'erase', 'fossil', 'second', 'manual', 'warfare', 'gorilla', 'relief', 'column', 'symptom', 'asset'] |  
 | bip_39_word_space_1 | margin |  
 | bip_39_word_space_10 | margin gym erase fossil second manual warfare gorilla relief column |  

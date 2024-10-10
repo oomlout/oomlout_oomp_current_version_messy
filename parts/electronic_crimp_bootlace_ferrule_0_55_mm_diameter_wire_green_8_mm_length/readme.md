@@ -122,6 +122,18 @@ gain
 oil
 flat
 exhaust |  
+| bip_39_word_no_space_1 | join |  
+| bip_39_word_no_space_10 | joinaccessriflevacantvalvegainoilflatexhausthand |  
+| bip_39_word_no_space_11 | joinaccessriflevacantvalvegainoilflatexhausthandunknown |  
+| bip_39_word_no_space_12 | joinaccessriflevacantvalvegainoilflatexhausthandunknownabuse |  
+| bip_39_word_no_space_2 | joinaccess |  
+| bip_39_word_no_space_3 | joinaccessrifle |  
+| bip_39_word_no_space_4 | joinaccessriflevacant |  
+| bip_39_word_no_space_5 | joinaccessriflevacantvalve |  
+| bip_39_word_no_space_6 | joinaccessriflevacantvalvegain |  
+| bip_39_word_no_space_7 | joinaccessriflevacantvalvegainoil |  
+| bip_39_word_no_space_8 | joinaccessriflevacantvalvegainoilflat |  
+| bip_39_word_no_space_9 | joinaccessriflevacantvalvegainoilflatexhaust |  
 | bip_39_word_space_0 | ['join', 'access', 'rifle', 'vacant', 'valve', 'gain', 'oil', 'flat', 'exhaust', 'hand', 'unknown', 'abuse'] |  
 | bip_39_word_space_1 | join |  
 | bip_39_word_space_10 | join access rifle vacant valve gain oil flat exhaust hand |  

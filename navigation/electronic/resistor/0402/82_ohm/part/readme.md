@@ -122,6 +122,18 @@ wrap
 avoid
 submit
 fresh |  
+| bip_39_word_no_space_1 | ignore |  
+| bip_39_word_no_space_10 | ignoreartistembodyhoverdutchwrapavoidsubmitfreshpioneer |  
+| bip_39_word_no_space_11 | ignoreartistembodyhoverdutchwrapavoidsubmitfreshpioneereight |  
+| bip_39_word_no_space_12 | ignoreartistembodyhoverdutchwrapavoidsubmitfreshpioneereightanswer |  
+| bip_39_word_no_space_2 | ignoreartist |  
+| bip_39_word_no_space_3 | ignoreartistembody |  
+| bip_39_word_no_space_4 | ignoreartistembodyhover |  
+| bip_39_word_no_space_5 | ignoreartistembodyhoverdutch |  
+| bip_39_word_no_space_6 | ignoreartistembodyhoverdutchwrap |  
+| bip_39_word_no_space_7 | ignoreartistembodyhoverdutchwrapavoid |  
+| bip_39_word_no_space_8 | ignoreartistembodyhoverdutchwrapavoidsubmit |  
+| bip_39_word_no_space_9 | ignoreartistembodyhoverdutchwrapavoidsubmitfresh |  
 | bip_39_word_space_0 | ['ignore', 'artist', 'embody', 'hover', 'dutch', 'wrap', 'avoid', 'submit', 'fresh', 'pioneer', 'eight', 'answer'] |  
 | bip_39_word_space_1 | ignore |  
 | bip_39_word_space_10 | ignore artist embody hover dutch wrap avoid submit fresh pioneer |  

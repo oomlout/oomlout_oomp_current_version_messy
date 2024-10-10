@@ -122,6 +122,18 @@ fiber
 paddle
 guide
 blanket |  
+| bip_39_word_no_space_1 | lava |  
+| bip_39_word_no_space_10 | lavaeconomyhundredalwaysresultfiberpaddleguideblanketunknown |  
+| bip_39_word_no_space_11 | lavaeconomyhundredalwaysresultfiberpaddleguideblanketunknownchapter |  
+| bip_39_word_no_space_12 | lavaeconomyhundredalwaysresultfiberpaddleguideblanketunknownchapteragree |  
+| bip_39_word_no_space_2 | lavaeconomy |  
+| bip_39_word_no_space_3 | lavaeconomyhundred |  
+| bip_39_word_no_space_4 | lavaeconomyhundredalways |  
+| bip_39_word_no_space_5 | lavaeconomyhundredalwaysresult |  
+| bip_39_word_no_space_6 | lavaeconomyhundredalwaysresultfiber |  
+| bip_39_word_no_space_7 | lavaeconomyhundredalwaysresultfiberpaddle |  
+| bip_39_word_no_space_8 | lavaeconomyhundredalwaysresultfiberpaddleguide |  
+| bip_39_word_no_space_9 | lavaeconomyhundredalwaysresultfiberpaddleguideblanket |  
 | bip_39_word_space_0 | ['lava', 'economy', 'hundred', 'always', 'result', 'fiber', 'paddle', 'guide', 'blanket', 'unknown', 'chapter', 'agree'] |  
 | bip_39_word_space_1 | lava |  
 | bip_39_word_space_10 | lava economy hundred always result fiber paddle guide blanket unknown |  

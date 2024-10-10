@@ -122,6 +122,18 @@ strike
 cupboard
 artist
 confirm |  
+| bip_39_word_no_space_1 | used |  
+| bip_39_word_no_space_10 | usedexistsuddenjoyendlessstrikecupboardartistconfirmlogic |  
+| bip_39_word_no_space_11 | usedexistsuddenjoyendlessstrikecupboardartistconfirmlogicabsurd |  
+| bip_39_word_no_space_12 | usedexistsuddenjoyendlessstrikecupboardartistconfirmlogicabsurdaction |  
+| bip_39_word_no_space_2 | usedexist |  
+| bip_39_word_no_space_3 | usedexistsudden |  
+| bip_39_word_no_space_4 | usedexistsuddenjoy |  
+| bip_39_word_no_space_5 | usedexistsuddenjoyendless |  
+| bip_39_word_no_space_6 | usedexistsuddenjoyendlessstrike |  
+| bip_39_word_no_space_7 | usedexistsuddenjoyendlessstrikecupboard |  
+| bip_39_word_no_space_8 | usedexistsuddenjoyendlessstrikecupboardartist |  
+| bip_39_word_no_space_9 | usedexistsuddenjoyendlessstrikecupboardartistconfirm |  
 | bip_39_word_space_0 | ['used', 'exist', 'sudden', 'joy', 'endless', 'strike', 'cupboard', 'artist', 'confirm', 'logic', 'absurd', 'action'] |  
 | bip_39_word_space_1 | used |  
 | bip_39_word_space_10 | used exist sudden joy endless strike cupboard artist confirm logic |  

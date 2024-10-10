@@ -122,6 +122,18 @@ donor
 fortune
 innocent
 fat |  
+| bip_39_word_no_space_1 | black |  
+| bip_39_word_no_space_10 | blackgruntimpulsejellyartefactdonorfortuneinnocentfatugly |  
+| bip_39_word_no_space_11 | blackgruntimpulsejellyartefactdonorfortuneinnocentfatuglychoice |  
+| bip_39_word_no_space_12 | blackgruntimpulsejellyartefactdonorfortuneinnocentfatuglychoicealien |  
+| bip_39_word_no_space_2 | blackgrunt |  
+| bip_39_word_no_space_3 | blackgruntimpulse |  
+| bip_39_word_no_space_4 | blackgruntimpulsejelly |  
+| bip_39_word_no_space_5 | blackgruntimpulsejellyartefact |  
+| bip_39_word_no_space_6 | blackgruntimpulsejellyartefactdonor |  
+| bip_39_word_no_space_7 | blackgruntimpulsejellyartefactdonorfortune |  
+| bip_39_word_no_space_8 | blackgruntimpulsejellyartefactdonorfortuneinnocent |  
+| bip_39_word_no_space_9 | blackgruntimpulsejellyartefactdonorfortuneinnocentfat |  
 | bip_39_word_space_0 | ['black', 'grunt', 'impulse', 'jelly', 'artefact', 'donor', 'fortune', 'innocent', 'fat', 'ugly', 'choice', 'alien'] |  
 | bip_39_word_space_1 | black |  
 | bip_39_word_space_10 | black grunt impulse jelly artefact donor fortune innocent fat ugly |  

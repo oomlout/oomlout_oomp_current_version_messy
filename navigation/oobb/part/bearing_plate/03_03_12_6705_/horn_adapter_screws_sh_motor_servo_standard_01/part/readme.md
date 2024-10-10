@@ -122,6 +122,18 @@ oblige
 hope
 already
 blind |  
+| bip_39_word_no_space_1 | mammal |  
+| bip_39_word_no_space_10 | mammalidlenormalbrotherbestobligehopealreadyblindtruly |  
+| bip_39_word_no_space_11 | mammalidlenormalbrotherbestobligehopealreadyblindtrulybecome |  
+| bip_39_word_no_space_12 | mammalidlenormalbrotherbestobligehopealreadyblindtrulybecomeassault |  
+| bip_39_word_no_space_2 | mammalidle |  
+| bip_39_word_no_space_3 | mammalidlenormal |  
+| bip_39_word_no_space_4 | mammalidlenormalbrother |  
+| bip_39_word_no_space_5 | mammalidlenormalbrotherbest |  
+| bip_39_word_no_space_6 | mammalidlenormalbrotherbestoblige |  
+| bip_39_word_no_space_7 | mammalidlenormalbrotherbestobligehope |  
+| bip_39_word_no_space_8 | mammalidlenormalbrotherbestobligehopealready |  
+| bip_39_word_no_space_9 | mammalidlenormalbrotherbestobligehopealreadyblind |  
 | bip_39_word_space_0 | ['mammal', 'idle', 'normal', 'brother', 'best', 'oblige', 'hope', 'already', 'blind', 'truly', 'become', 'assault'] |  
 | bip_39_word_space_1 | mammal |  
 | bip_39_word_space_10 | mammal idle normal brother best oblige hope already blind truly |  

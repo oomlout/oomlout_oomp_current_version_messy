@@ -122,6 +122,18 @@ network
 grow
 clap
 topple |  
+| bip_39_word_no_space_1 | foam |  
+| bip_39_word_no_space_10 | foamoperatwelvepushsunnynetworkgrowclaptopplecanyon |  
+| bip_39_word_no_space_11 | foamoperatwelvepushsunnynetworkgrowclaptopplecanyonbroccoli |  
+| bip_39_word_no_space_12 | foamoperatwelvepushsunnynetworkgrowclaptopplecanyonbroccoliapart |  
+| bip_39_word_no_space_2 | foamopera |  
+| bip_39_word_no_space_3 | foamoperatwelve |  
+| bip_39_word_no_space_4 | foamoperatwelvepush |  
+| bip_39_word_no_space_5 | foamoperatwelvepushsunny |  
+| bip_39_word_no_space_6 | foamoperatwelvepushsunnynetwork |  
+| bip_39_word_no_space_7 | foamoperatwelvepushsunnynetworkgrow |  
+| bip_39_word_no_space_8 | foamoperatwelvepushsunnynetworkgrowclap |  
+| bip_39_word_no_space_9 | foamoperatwelvepushsunnynetworkgrowclaptopple |  
 | bip_39_word_space_0 | ['foam', 'opera', 'twelve', 'push', 'sunny', 'network', 'grow', 'clap', 'topple', 'canyon', 'broccoli', 'apart'] |  
 | bip_39_word_space_1 | foam |  
 | bip_39_word_space_10 | foam opera twelve push sunny network grow clap topple canyon |  

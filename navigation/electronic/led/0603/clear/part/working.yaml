@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'upper
   slush
 
   giraffe'
+bip_39_word_no_space_1: upper
+bip_39_word_no_space_10: uppersituatemergedoveravendanceharvestslushgiraffepulp
+bip_39_word_no_space_11: uppersituatemergedoveravendanceharvestslushgiraffepulppatrol
+bip_39_word_no_space_12: uppersituatemergedoveravendanceharvestslushgiraffepulppatrolasthma
+bip_39_word_no_space_2: uppersituate
+bip_39_word_no_space_3: uppersituatemerge
+bip_39_word_no_space_4: uppersituatemergedove
+bip_39_word_no_space_5: uppersituatemergedoveraven
+bip_39_word_no_space_6: uppersituatemergedoveravendance
+bip_39_word_no_space_7: uppersituatemergedoveravendanceharvest
+bip_39_word_no_space_8: uppersituatemergedoveravendanceharvestslush
+bip_39_word_no_space_9: uppersituatemergedoveravendanceharvestslushgiraffe
 bip_39_word_space_0:
 - upper
 - situate

@@ -122,6 +122,18 @@ brisk
 fat
 pass
 despair |  
+| bip_39_word_no_space_1 | great |  
+| bip_39_word_no_space_10 | greatthenbasevesselawarebriskfatpassdespairstick |  
+| bip_39_word_no_space_11 | greatthenbasevesselawarebriskfatpassdespairstickapology |  
+| bip_39_word_no_space_12 | greatthenbasevesselawarebriskfatpassdespairstickapologyable |  
+| bip_39_word_no_space_2 | greatthen |  
+| bip_39_word_no_space_3 | greatthenbase |  
+| bip_39_word_no_space_4 | greatthenbasevessel |  
+| bip_39_word_no_space_5 | greatthenbasevesselaware |  
+| bip_39_word_no_space_6 | greatthenbasevesselawarebrisk |  
+| bip_39_word_no_space_7 | greatthenbasevesselawarebriskfat |  
+| bip_39_word_no_space_8 | greatthenbasevesselawarebriskfatpass |  
+| bip_39_word_no_space_9 | greatthenbasevesselawarebriskfatpassdespair |  
 | bip_39_word_space_0 | ['great', 'then', 'base', 'vessel', 'aware', 'brisk', 'fat', 'pass', 'despair', 'stick', 'apology', 'able'] |  
 | bip_39_word_space_1 | great |  
 | bip_39_word_space_10 | great then base vessel aware brisk fat pass despair stick |  

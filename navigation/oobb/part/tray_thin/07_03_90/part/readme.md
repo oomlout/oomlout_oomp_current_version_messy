@@ -122,6 +122,18 @@ action
 apology
 safe
 hundred |  
+| bip_39_word_no_space_1 | erode |  
+| bip_39_word_no_space_10 | erodeawarewhipmaximumlateractionapologysafehundredembrace |  
+| bip_39_word_no_space_11 | erodeawarewhipmaximumlateractionapologysafehundredembracevacant |  
+| bip_39_word_no_space_12 | erodeawarewhipmaximumlateractionapologysafehundredembracevacantangry |  
+| bip_39_word_no_space_2 | erodeaware |  
+| bip_39_word_no_space_3 | erodeawarewhip |  
+| bip_39_word_no_space_4 | erodeawarewhipmaximum |  
+| bip_39_word_no_space_5 | erodeawarewhipmaximumlater |  
+| bip_39_word_no_space_6 | erodeawarewhipmaximumlateraction |  
+| bip_39_word_no_space_7 | erodeawarewhipmaximumlateractionapology |  
+| bip_39_word_no_space_8 | erodeawarewhipmaximumlateractionapologysafe |  
+| bip_39_word_no_space_9 | erodeawarewhipmaximumlateractionapologysafehundred |  
 | bip_39_word_space_0 | ['erode', 'aware', 'whip', 'maximum', 'later', 'action', 'apology', 'safe', 'hundred', 'embrace', 'vacant', 'angry'] |  
 | bip_39_word_space_1 | erode |  
 | bip_39_word_space_10 | erode aware whip maximum later action apology safe hundred embrace |  

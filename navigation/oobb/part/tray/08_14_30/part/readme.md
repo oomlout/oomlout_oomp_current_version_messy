@@ -122,6 +122,18 @@ route
 lens
 retire
 upper |  
+| bip_39_word_no_space_1 | head |  
+| bip_39_word_no_space_10 | headrichluxuryviciouspanelroutelensretireupperturtle |  
+| bip_39_word_no_space_11 | headrichluxuryviciouspanelroutelensretireupperturtlekiss |  
+| bip_39_word_no_space_12 | headrichluxuryviciouspanelroutelensretireupperturtlekissaspect |  
+| bip_39_word_no_space_2 | headrich |  
+| bip_39_word_no_space_3 | headrichluxury |  
+| bip_39_word_no_space_4 | headrichluxuryvicious |  
+| bip_39_word_no_space_5 | headrichluxuryviciouspanel |  
+| bip_39_word_no_space_6 | headrichluxuryviciouspanelroute |  
+| bip_39_word_no_space_7 | headrichluxuryviciouspanelroutelens |  
+| bip_39_word_no_space_8 | headrichluxuryviciouspanelroutelensretire |  
+| bip_39_word_no_space_9 | headrichluxuryviciouspanelroutelensretireupper |  
 | bip_39_word_space_0 | ['head', 'rich', 'luxury', 'vicious', 'panel', 'route', 'lens', 'retire', 'upper', 'turtle', 'kiss', 'aspect'] |  
 | bip_39_word_space_1 | head |  
 | bip_39_word_space_10 | head rich luxury vicious panel route lens retire upper turtle |  

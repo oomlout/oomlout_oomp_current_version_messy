@@ -122,6 +122,18 @@ toy
 aspect
 hammer
 art |  
+| bip_39_word_no_space_1 | elite |  
+| bip_39_word_no_space_10 | eliteinstallswimscriptraccoontoyaspecthammerarttarget |  
+| bip_39_word_no_space_11 | eliteinstallswimscriptraccoontoyaspecthammerarttargetinherit |  
+| bip_39_word_no_space_12 | eliteinstallswimscriptraccoontoyaspecthammerarttargetinheritabout |  
+| bip_39_word_no_space_2 | eliteinstall |  
+| bip_39_word_no_space_3 | eliteinstallswim |  
+| bip_39_word_no_space_4 | eliteinstallswimscript |  
+| bip_39_word_no_space_5 | eliteinstallswimscriptraccoon |  
+| bip_39_word_no_space_6 | eliteinstallswimscriptraccoontoy |  
+| bip_39_word_no_space_7 | eliteinstallswimscriptraccoontoyaspect |  
+| bip_39_word_no_space_8 | eliteinstallswimscriptraccoontoyaspecthammer |  
+| bip_39_word_no_space_9 | eliteinstallswimscriptraccoontoyaspecthammerart |  
 | bip_39_word_space_0 | ['elite', 'install', 'swim', 'script', 'raccoon', 'toy', 'aspect', 'hammer', 'art', 'target', 'inherit', 'about'] |  
 | bip_39_word_space_1 | elite |  
 | bip_39_word_space_10 | elite install swim script raccoon toy aspect hammer art target |  

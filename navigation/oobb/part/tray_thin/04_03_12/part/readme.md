@@ -122,6 +122,18 @@ crowd
 robust
 mechanic
 humble |  
+| bip_39_word_no_space_1 | myself |  
+| bip_39_word_no_space_10 | myselfequalpanelnetglancecrowdrobustmechanichumbleretreat |  
+| bip_39_word_no_space_11 | myselfequalpanelnetglancecrowdrobustmechanichumbleretreatcable |  
+| bip_39_word_no_space_12 | myselfequalpanelnetglancecrowdrobustmechanichumbleretreatcableassume |  
+| bip_39_word_no_space_2 | myselfequal |  
+| bip_39_word_no_space_3 | myselfequalpanel |  
+| bip_39_word_no_space_4 | myselfequalpanelnet |  
+| bip_39_word_no_space_5 | myselfequalpanelnetglance |  
+| bip_39_word_no_space_6 | myselfequalpanelnetglancecrowd |  
+| bip_39_word_no_space_7 | myselfequalpanelnetglancecrowdrobust |  
+| bip_39_word_no_space_8 | myselfequalpanelnetglancecrowdrobustmechanic |  
+| bip_39_word_no_space_9 | myselfequalpanelnetglancecrowdrobustmechanichumble |  
 | bip_39_word_space_0 | ['myself', 'equal', 'panel', 'net', 'glance', 'crowd', 'robust', 'mechanic', 'humble', 'retreat', 'cable', 'assume'] |  
 | bip_39_word_space_1 | myself |  
 | bip_39_word_space_10 | myself equal panel net glance crowd robust mechanic humble retreat |  

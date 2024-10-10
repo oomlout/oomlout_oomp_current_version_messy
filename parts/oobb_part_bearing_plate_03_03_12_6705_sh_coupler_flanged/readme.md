@@ -122,6 +122,18 @@ awful
 pink
 best
 bean |  
+| bip_39_word_no_space_1 | series |  
+| bip_39_word_no_space_10 | seriesthememousereformsymbolawfulpinkbestbeanbamboo |  
+| bip_39_word_no_space_11 | seriesthememousereformsymbolawfulpinkbestbeanbambooorder |  
+| bip_39_word_no_space_12 | seriesthememousereformsymbolawfulpinkbestbeanbambooorderabuse |  
+| bip_39_word_no_space_2 | seriestheme |  
+| bip_39_word_no_space_3 | seriesthememouse |  
+| bip_39_word_no_space_4 | seriesthememousereform |  
+| bip_39_word_no_space_5 | seriesthememousereformsymbol |  
+| bip_39_word_no_space_6 | seriesthememousereformsymbolawful |  
+| bip_39_word_no_space_7 | seriesthememousereformsymbolawfulpink |  
+| bip_39_word_no_space_8 | seriesthememousereformsymbolawfulpinkbest |  
+| bip_39_word_no_space_9 | seriesthememousereformsymbolawfulpinkbestbean |  
 | bip_39_word_space_0 | ['series', 'theme', 'mouse', 'reform', 'symbol', 'awful', 'pink', 'best', 'bean', 'bamboo', 'order', 'abuse'] |  
 | bip_39_word_space_1 | series |  
 | bip_39_word_space_10 | series theme mouse reform symbol awful pink best bean bamboo |  

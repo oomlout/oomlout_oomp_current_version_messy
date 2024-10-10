@@ -122,6 +122,18 @@ gravity
 gain
 deposit
 bottom |  
+| bip_39_word_no_space_1 | scatter |  
+| bip_39_word_no_space_10 | scatterspecialbehindturkeyshortgravitygaindepositbottompelican |  
+| bip_39_word_no_space_11 | scatterspecialbehindturkeyshortgravitygaindepositbottompelicanservice |  
+| bip_39_word_no_space_12 | scatterspecialbehindturkeyshortgravitygaindepositbottompelicanserviceactor |  
+| bip_39_word_no_space_2 | scatterspecial |  
+| bip_39_word_no_space_3 | scatterspecialbehind |  
+| bip_39_word_no_space_4 | scatterspecialbehindturkey |  
+| bip_39_word_no_space_5 | scatterspecialbehindturkeyshort |  
+| bip_39_word_no_space_6 | scatterspecialbehindturkeyshortgravity |  
+| bip_39_word_no_space_7 | scatterspecialbehindturkeyshortgravitygain |  
+| bip_39_word_no_space_8 | scatterspecialbehindturkeyshortgravitygaindeposit |  
+| bip_39_word_no_space_9 | scatterspecialbehindturkeyshortgravitygaindepositbottom |  
 | bip_39_word_space_0 | ['scatter', 'special', 'behind', 'turkey', 'short', 'gravity', 'gain', 'deposit', 'bottom', 'pelican', 'service', 'actor'] |  
 | bip_39_word_space_1 | scatter |  
 | bip_39_word_space_10 | scatter special behind turkey short gravity gain deposit bottom pelican |  

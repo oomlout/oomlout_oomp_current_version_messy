@@ -122,6 +122,18 @@ giggle
 guilt
 human
 art |  
+| bip_39_word_no_space_1 | one |  
+| bip_39_word_no_space_10 | oneanchorshieldstaffmangiggleguilthumanartselect |  
+| bip_39_word_no_space_11 | oneanchorshieldstaffmangiggleguilthumanartselectlock |  
+| bip_39_word_no_space_12 | oneanchorshieldstaffmangiggleguilthumanartselectlockactress |  
+| bip_39_word_no_space_2 | oneanchor |  
+| bip_39_word_no_space_3 | oneanchorshield |  
+| bip_39_word_no_space_4 | oneanchorshieldstaff |  
+| bip_39_word_no_space_5 | oneanchorshieldstaffman |  
+| bip_39_word_no_space_6 | oneanchorshieldstaffmangiggle |  
+| bip_39_word_no_space_7 | oneanchorshieldstaffmangiggleguilt |  
+| bip_39_word_no_space_8 | oneanchorshieldstaffmangiggleguilthuman |  
+| bip_39_word_no_space_9 | oneanchorshieldstaffmangiggleguilthumanart |  
 | bip_39_word_space_0 | ['one', 'anchor', 'shield', 'staff', 'man', 'giggle', 'guilt', 'human', 'art', 'select', 'lock', 'actress'] |  
 | bip_39_word_space_1 | one |  
 | bip_39_word_space_10 | one anchor shield staff man giggle guilt human art select |  

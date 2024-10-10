@@ -122,6 +122,18 @@ near
 pigeon
 profit
 write |  
+| bip_39_word_no_space_1 | steak |  
+| bip_39_word_no_space_10 | steakupdateturtledamagetownnearpigeonprofitwritepigeon |  
+| bip_39_word_no_space_11 | steakupdateturtledamagetownnearpigeonprofitwritepigeonpond |  
+| bip_39_word_no_space_12 | steakupdateturtledamagetownnearpigeonprofitwritepigeonpondafraid |  
+| bip_39_word_no_space_2 | steakupdate |  
+| bip_39_word_no_space_3 | steakupdateturtle |  
+| bip_39_word_no_space_4 | steakupdateturtledamage |  
+| bip_39_word_no_space_5 | steakupdateturtledamagetown |  
+| bip_39_word_no_space_6 | steakupdateturtledamagetownnear |  
+| bip_39_word_no_space_7 | steakupdateturtledamagetownnearpigeon |  
+| bip_39_word_no_space_8 | steakupdateturtledamagetownnearpigeonprofit |  
+| bip_39_word_no_space_9 | steakupdateturtledamagetownnearpigeonprofitwrite |  
 | bip_39_word_space_0 | ['steak', 'update', 'turtle', 'damage', 'town', 'near', 'pigeon', 'profit', 'write', 'pigeon', 'pond', 'afraid'] |  
 | bip_39_word_space_1 | steak |  
 | bip_39_word_space_10 | steak update turtle damage town near pigeon profit write pigeon |  

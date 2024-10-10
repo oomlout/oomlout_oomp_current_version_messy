@@ -122,6 +122,18 @@ wrist
 liquid
 engine
 response |  
+| bip_39_word_no_space_1 | tissue |  
+| bip_39_word_no_space_10 | tissuerubberromanceabsentstreetwristliquidengineresponseconduct |  
+| bip_39_word_no_space_11 | tissuerubberromanceabsentstreetwristliquidengineresponseconducttruly |  
+| bip_39_word_no_space_12 | tissuerubberromanceabsentstreetwristliquidengineresponseconducttrulyanger |  
+| bip_39_word_no_space_2 | tissuerubber |  
+| bip_39_word_no_space_3 | tissuerubberromance |  
+| bip_39_word_no_space_4 | tissuerubberromanceabsent |  
+| bip_39_word_no_space_5 | tissuerubberromanceabsentstreet |  
+| bip_39_word_no_space_6 | tissuerubberromanceabsentstreetwrist |  
+| bip_39_word_no_space_7 | tissuerubberromanceabsentstreetwristliquid |  
+| bip_39_word_no_space_8 | tissuerubberromanceabsentstreetwristliquidengine |  
+| bip_39_word_no_space_9 | tissuerubberromanceabsentstreetwristliquidengineresponse |  
 | bip_39_word_space_0 | ['tissue', 'rubber', 'romance', 'absent', 'street', 'wrist', 'liquid', 'engine', 'response', 'conduct', 'truly', 'anger'] |  
 | bip_39_word_space_1 | tissue |  
 | bip_39_word_space_10 | tissue rubber romance absent street wrist liquid engine response conduct |  

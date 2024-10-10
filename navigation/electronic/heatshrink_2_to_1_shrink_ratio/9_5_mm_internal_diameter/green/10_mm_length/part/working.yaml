@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'ostrich
   winner
 
   poem'
+bip_39_word_no_space_1: ostrich
+bip_39_word_no_space_10: ostrichdrasticmenucreeklistitemlimbwinnerpoemproblem
+bip_39_word_no_space_11: ostrichdrasticmenucreeklistitemlimbwinnerpoemproblemfinger
+bip_39_word_no_space_12: ostrichdrasticmenucreeklistitemlimbwinnerpoemproblemfingerabsent
+bip_39_word_no_space_2: ostrichdrastic
+bip_39_word_no_space_3: ostrichdrasticmenu
+bip_39_word_no_space_4: ostrichdrasticmenucreek
+bip_39_word_no_space_5: ostrichdrasticmenucreeklist
+bip_39_word_no_space_6: ostrichdrasticmenucreeklistitem
+bip_39_word_no_space_7: ostrichdrasticmenucreeklistitemlimb
+bip_39_word_no_space_8: ostrichdrasticmenucreeklistitemlimbwinner
+bip_39_word_no_space_9: ostrichdrasticmenucreeklistitemlimbwinnerpoem
 bip_39_word_space_0:
 - ostrich
 - drastic

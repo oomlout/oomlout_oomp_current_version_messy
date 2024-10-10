@@ -122,6 +122,18 @@ supreme
 peanut
 define
 neutral |  
+| bip_39_word_no_space_1 | despair |  
+| bip_39_word_no_space_10 | despaireditsupremecoastfamesupremepeanutdefineneutralside |  
+| bip_39_word_no_space_11 | despaireditsupremecoastfamesupremepeanutdefineneutralsideglow |  
+| bip_39_word_no_space_12 | despaireditsupremecoastfamesupremepeanutdefineneutralsideglowacross |  
+| bip_39_word_no_space_2 | despairedit |  
+| bip_39_word_no_space_3 | despaireditsupreme |  
+| bip_39_word_no_space_4 | despaireditsupremecoast |  
+| bip_39_word_no_space_5 | despaireditsupremecoastfame |  
+| bip_39_word_no_space_6 | despaireditsupremecoastfamesupreme |  
+| bip_39_word_no_space_7 | despaireditsupremecoastfamesupremepeanut |  
+| bip_39_word_no_space_8 | despaireditsupremecoastfamesupremepeanutdefine |  
+| bip_39_word_no_space_9 | despaireditsupremecoastfamesupremepeanutdefineneutral |  
 | bip_39_word_space_0 | ['despair', 'edit', 'supreme', 'coast', 'fame', 'supreme', 'peanut', 'define', 'neutral', 'side', 'glow', 'across'] |  
 | bip_39_word_space_1 | despair |  
 | bip_39_word_space_10 | despair edit supreme coast fame supreme peanut define neutral side |  

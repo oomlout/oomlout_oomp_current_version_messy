@@ -122,6 +122,18 @@ extra
 recipe
 answer
 water |  
+| bip_39_word_no_space_1 | short |  
+| bip_39_word_no_space_10 | shortbasequizenlistattackextrarecipeanswerwatercar |  
+| bip_39_word_no_space_11 | shortbasequizenlistattackextrarecipeanswerwatercarwrap |  
+| bip_39_word_no_space_12 | shortbasequizenlistattackextrarecipeanswerwatercarwrapaccess |  
+| bip_39_word_no_space_2 | shortbase |  
+| bip_39_word_no_space_3 | shortbasequiz |  
+| bip_39_word_no_space_4 | shortbasequizenlist |  
+| bip_39_word_no_space_5 | shortbasequizenlistattack |  
+| bip_39_word_no_space_6 | shortbasequizenlistattackextra |  
+| bip_39_word_no_space_7 | shortbasequizenlistattackextrarecipe |  
+| bip_39_word_no_space_8 | shortbasequizenlistattackextrarecipeanswer |  
+| bip_39_word_no_space_9 | shortbasequizenlistattackextrarecipeanswerwater |  
 | bip_39_word_space_0 | ['short', 'base', 'quiz', 'enlist', 'attack', 'extra', 'recipe', 'answer', 'water', 'car', 'wrap', 'access'] |  
 | bip_39_word_space_1 | short |  
 | bip_39_word_space_10 | short base quiz enlist attack extra recipe answer water car |  

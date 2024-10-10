@@ -122,6 +122,18 @@ trap
 mansion
 enforce
 crazy |  
+| bip_39_word_no_space_1 | again |  
+| bip_39_word_no_space_10 | againmotherrapidveteranpacttrapmansionenforcecrazybar |  
+| bip_39_word_no_space_11 | againmotherrapidveteranpacttrapmansionenforcecrazybarfocus |  
+| bip_39_word_no_space_12 | againmotherrapidveteranpacttrapmansionenforcecrazybarfocusanger |  
+| bip_39_word_no_space_2 | againmother |  
+| bip_39_word_no_space_3 | againmotherrapid |  
+| bip_39_word_no_space_4 | againmotherrapidveteran |  
+| bip_39_word_no_space_5 | againmotherrapidveteranpact |  
+| bip_39_word_no_space_6 | againmotherrapidveteranpacttrap |  
+| bip_39_word_no_space_7 | againmotherrapidveteranpacttrapmansion |  
+| bip_39_word_no_space_8 | againmotherrapidveteranpacttrapmansionenforce |  
+| bip_39_word_no_space_9 | againmotherrapidveteranpacttrapmansionenforcecrazy |  
 | bip_39_word_space_0 | ['again', 'mother', 'rapid', 'veteran', 'pact', 'trap', 'mansion', 'enforce', 'crazy', 'bar', 'focus', 'anger'] |  
 | bip_39_word_space_1 | again |  
 | bip_39_word_space_10 | again mother rapid veteran pact trap mansion enforce crazy bar |  

@@ -122,6 +122,18 @@ angle
 above
 blouse
 donkey |  
+| bip_39_word_no_space_1 | large |  
+| bip_39_word_no_space_10 | largetoddlertrickpitchsuspectangleaboveblousedonkeyfloat |  
+| bip_39_word_no_space_11 | largetoddlertrickpitchsuspectangleaboveblousedonkeyfloatend |  
+| bip_39_word_no_space_12 | largetoddlertrickpitchsuspectangleaboveblousedonkeyfloatendalready |  
+| bip_39_word_no_space_2 | largetoddler |  
+| bip_39_word_no_space_3 | largetoddlertrick |  
+| bip_39_word_no_space_4 | largetoddlertrickpitch |  
+| bip_39_word_no_space_5 | largetoddlertrickpitchsuspect |  
+| bip_39_word_no_space_6 | largetoddlertrickpitchsuspectangle |  
+| bip_39_word_no_space_7 | largetoddlertrickpitchsuspectangleabove |  
+| bip_39_word_no_space_8 | largetoddlertrickpitchsuspectangleaboveblouse |  
+| bip_39_word_no_space_9 | largetoddlertrickpitchsuspectangleaboveblousedonkey |  
 | bip_39_word_space_0 | ['large', 'toddler', 'trick', 'pitch', 'suspect', 'angle', 'above', 'blouse', 'donkey', 'float', 'end', 'already'] |  
 | bip_39_word_space_1 | large |  
 | bip_39_word_space_10 | large toddler trick pitch suspect angle above blouse donkey float |  

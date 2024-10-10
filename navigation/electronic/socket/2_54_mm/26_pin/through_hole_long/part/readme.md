@@ -122,6 +122,18 @@ detect
 patrol
 joy
 love |  
+| bip_39_word_no_space_1 | uniform |  
+| bip_39_word_no_space_10 | uniformplanetbusnosesummerdetectpatroljoylovemorning |  
+| bip_39_word_no_space_11 | uniformplanetbusnosesummerdetectpatroljoylovemorninginstall |  
+| bip_39_word_no_space_12 | uniformplanetbusnosesummerdetectpatroljoylovemorninginstallapart |  
+| bip_39_word_no_space_2 | uniformplanet |  
+| bip_39_word_no_space_3 | uniformplanetbus |  
+| bip_39_word_no_space_4 | uniformplanetbusnose |  
+| bip_39_word_no_space_5 | uniformplanetbusnosesummer |  
+| bip_39_word_no_space_6 | uniformplanetbusnosesummerdetect |  
+| bip_39_word_no_space_7 | uniformplanetbusnosesummerdetectpatrol |  
+| bip_39_word_no_space_8 | uniformplanetbusnosesummerdetectpatroljoy |  
+| bip_39_word_no_space_9 | uniformplanetbusnosesummerdetectpatroljoylove |  
 | bip_39_word_space_0 | ['uniform', 'planet', 'bus', 'nose', 'summer', 'detect', 'patrol', 'joy', 'love', 'morning', 'install', 'apart'] |  
 | bip_39_word_space_1 | uniform |  
 | bip_39_word_space_10 | uniform planet bus nose summer detect patrol joy love morning |  

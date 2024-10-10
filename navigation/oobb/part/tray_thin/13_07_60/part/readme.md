@@ -122,6 +122,18 @@ twist
 raven
 renew
 symptom |  
+| bip_39_word_no_space_1 | margin |  
+| bip_39_word_no_space_10 | marginbreadechotaskarmortwistravenrenewsymptommechanic |  
+| bip_39_word_no_space_11 | marginbreadechotaskarmortwistravenrenewsymptommechanicgravity |  
+| bip_39_word_no_space_12 | marginbreadechotaskarmortwistravenrenewsymptommechanicgravityarmy |  
+| bip_39_word_no_space_2 | marginbread |  
+| bip_39_word_no_space_3 | marginbreadecho |  
+| bip_39_word_no_space_4 | marginbreadechotask |  
+| bip_39_word_no_space_5 | marginbreadechotaskarmor |  
+| bip_39_word_no_space_6 | marginbreadechotaskarmortwist |  
+| bip_39_word_no_space_7 | marginbreadechotaskarmortwistraven |  
+| bip_39_word_no_space_8 | marginbreadechotaskarmortwistravenrenew |  
+| bip_39_word_no_space_9 | marginbreadechotaskarmortwistravenrenewsymptom |  
 | bip_39_word_space_0 | ['margin', 'bread', 'echo', 'task', 'armor', 'twist', 'raven', 'renew', 'symptom', 'mechanic', 'gravity', 'army'] |  
 | bip_39_word_space_1 | margin |  
 | bip_39_word_space_10 | margin bread echo task armor twist raven renew symptom mechanic |  

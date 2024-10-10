@@ -122,6 +122,18 @@ whisper
 culture
 hidden
 ghost |  
+| bip_39_word_no_space_1 | neither |  
+| bip_39_word_no_space_10 | neitherbottomcamerawearcousinwhisperculturehiddenghosthorse |  
+| bip_39_word_no_space_11 | neitherbottomcamerawearcousinwhisperculturehiddenghosthorsetube |  
+| bip_39_word_no_space_12 | neitherbottomcamerawearcousinwhisperculturehiddenghosthorsetubeallow |  
+| bip_39_word_no_space_2 | neitherbottom |  
+| bip_39_word_no_space_3 | neitherbottomcamera |  
+| bip_39_word_no_space_4 | neitherbottomcamerawear |  
+| bip_39_word_no_space_5 | neitherbottomcamerawearcousin |  
+| bip_39_word_no_space_6 | neitherbottomcamerawearcousinwhisper |  
+| bip_39_word_no_space_7 | neitherbottomcamerawearcousinwhisperculture |  
+| bip_39_word_no_space_8 | neitherbottomcamerawearcousinwhisperculturehidden |  
+| bip_39_word_no_space_9 | neitherbottomcamerawearcousinwhisperculturehiddenghost |  
 | bip_39_word_space_0 | ['neither', 'bottom', 'camera', 'wear', 'cousin', 'whisper', 'culture', 'hidden', 'ghost', 'horse', 'tube', 'allow'] |  
 | bip_39_word_space_1 | neither |  
 | bip_39_word_space_10 | neither bottom camera wear cousin whisper culture hidden ghost horse |  

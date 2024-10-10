@@ -109,6 +109,17 @@ narrow
 wash
 firm
 cloth |  
+| bip_39_word_no_space_1 | pause |  
+| bip_39_word_no_space_10 | pauseromancewaspstrategypoetnarrowwashfirmclothsurge |  
+| bip_39_word_no_space_11 | pauseromancewaspstrategypoetnarrowwashfirmclothsurgerifle |  
+| bip_39_word_no_space_2 | pauseromance |  
+| bip_39_word_no_space_3 | pauseromancewasp |  
+| bip_39_word_no_space_4 | pauseromancewaspstrategy |  
+| bip_39_word_no_space_5 | pauseromancewaspstrategypoet |  
+| bip_39_word_no_space_6 | pauseromancewaspstrategypoetnarrow |  
+| bip_39_word_no_space_7 | pauseromancewaspstrategypoetnarrowwash |  
+| bip_39_word_no_space_8 | pauseromancewaspstrategypoetnarrowwashfirm |  
+| bip_39_word_no_space_9 | pauseromancewaspstrategypoetnarrowwashfirmcloth |  
 | bip_39_word_space_0 | ['pause', 'romance', 'wasp', 'strategy', 'poet', 'narrow', 'wash', 'firm', 'cloth', 'surge', 'rifle'] |  
 | bip_39_word_space_1 | pause |  
 | bip_39_word_space_10 | pause romance wasp strategy poet narrow wash firm cloth surge |  

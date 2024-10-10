@@ -122,6 +122,18 @@ arch
 inflict
 index
 vocal |  
+| bip_39_word_no_space_1 | artefact |  
+| bip_39_word_no_space_10 | artefactsunsetpipedawnhoverarchinflictindexvocalstumble |  
+| bip_39_word_no_space_11 | artefactsunsetpipedawnhoverarchinflictindexvocalstumbleyouth |  
+| bip_39_word_no_space_12 | artefactsunsetpipedawnhoverarchinflictindexvocalstumbleyouthacoustic |  
+| bip_39_word_no_space_2 | artefactsunset |  
+| bip_39_word_no_space_3 | artefactsunsetpipe |  
+| bip_39_word_no_space_4 | artefactsunsetpipedawn |  
+| bip_39_word_no_space_5 | artefactsunsetpipedawnhover |  
+| bip_39_word_no_space_6 | artefactsunsetpipedawnhoverarch |  
+| bip_39_word_no_space_7 | artefactsunsetpipedawnhoverarchinflict |  
+| bip_39_word_no_space_8 | artefactsunsetpipedawnhoverarchinflictindex |  
+| bip_39_word_no_space_9 | artefactsunsetpipedawnhoverarchinflictindexvocal |  
 | bip_39_word_space_0 | ['artefact', 'sunset', 'pipe', 'dawn', 'hover', 'arch', 'inflict', 'index', 'vocal', 'stumble', 'youth', 'acoustic'] |  
 | bip_39_word_space_1 | artefact |  
 | bip_39_word_space_10 | artefact sunset pipe dawn hover arch inflict index vocal stumble |  

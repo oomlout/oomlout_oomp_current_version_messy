@@ -122,6 +122,18 @@ mandate
 typical
 monitor
 bubble |  
+| bip_39_word_no_space_1 | famous |  
+| bip_39_word_no_space_10 | famousrhythmshedthrowrequiremandatetypicalmonitorbubbleuseless |  
+| bip_39_word_no_space_11 | famousrhythmshedthrowrequiremandatetypicalmonitorbubbleuselessfestival |  
+| bip_39_word_no_space_12 | famousrhythmshedthrowrequiremandatetypicalmonitorbubbleuselessfestivalacross |  
+| bip_39_word_no_space_2 | famousrhythm |  
+| bip_39_word_no_space_3 | famousrhythmshed |  
+| bip_39_word_no_space_4 | famousrhythmshedthrow |  
+| bip_39_word_no_space_5 | famousrhythmshedthrowrequire |  
+| bip_39_word_no_space_6 | famousrhythmshedthrowrequiremandate |  
+| bip_39_word_no_space_7 | famousrhythmshedthrowrequiremandatetypical |  
+| bip_39_word_no_space_8 | famousrhythmshedthrowrequiremandatetypicalmonitor |  
+| bip_39_word_no_space_9 | famousrhythmshedthrowrequiremandatetypicalmonitorbubble |  
 | bip_39_word_space_0 | ['famous', 'rhythm', 'shed', 'throw', 'require', 'mandate', 'typical', 'monitor', 'bubble', 'useless', 'festival', 'across'] |  
 | bip_39_word_space_1 | famous |  
 | bip_39_word_space_10 | famous rhythm shed throw require mandate typical monitor bubble useless |  

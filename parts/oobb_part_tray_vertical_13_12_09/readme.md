@@ -122,6 +122,18 @@ meadow
 pen
 fox
 limb |  
+| bip_39_word_no_space_1 | brisk |  
+| bip_39_word_no_space_10 | briskalreadysilkentiremeltmeadowpenfoxlimbhuge |  
+| bip_39_word_no_space_11 | briskalreadysilkentiremeltmeadowpenfoxlimbhugeduring |  
+| bip_39_word_no_space_12 | briskalreadysilkentiremeltmeadowpenfoxlimbhugeduringalcohol |  
+| bip_39_word_no_space_2 | briskalready |  
+| bip_39_word_no_space_3 | briskalreadysilk |  
+| bip_39_word_no_space_4 | briskalreadysilkentire |  
+| bip_39_word_no_space_5 | briskalreadysilkentiremelt |  
+| bip_39_word_no_space_6 | briskalreadysilkentiremeltmeadow |  
+| bip_39_word_no_space_7 | briskalreadysilkentiremeltmeadowpen |  
+| bip_39_word_no_space_8 | briskalreadysilkentiremeltmeadowpenfox |  
+| bip_39_word_no_space_9 | briskalreadysilkentiremeltmeadowpenfoxlimb |  
 | bip_39_word_space_0 | ['brisk', 'already', 'silk', 'entire', 'melt', 'meadow', 'pen', 'fox', 'limb', 'huge', 'during', 'alcohol'] |  
 | bip_39_word_space_1 | brisk |  
 | bip_39_word_space_10 | brisk already silk entire melt meadow pen fox limb huge |  

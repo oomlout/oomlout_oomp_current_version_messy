@@ -122,6 +122,18 @@ evidence
 city
 stamp
 animal |  
+| bip_39_word_no_space_1 | give |  
+| bip_39_word_no_space_10 | giveuncoverlikeenacttripevidencecitystampanimalcross |  
+| bip_39_word_no_space_11 | giveuncoverlikeenacttripevidencecitystampanimalcrossletter |  
+| bip_39_word_no_space_12 | giveuncoverlikeenacttripevidencecitystampanimalcrossletteradapt |  
+| bip_39_word_no_space_2 | giveuncover |  
+| bip_39_word_no_space_3 | giveuncoverlike |  
+| bip_39_word_no_space_4 | giveuncoverlikeenact |  
+| bip_39_word_no_space_5 | giveuncoverlikeenacttrip |  
+| bip_39_word_no_space_6 | giveuncoverlikeenacttripevidence |  
+| bip_39_word_no_space_7 | giveuncoverlikeenacttripevidencecity |  
+| bip_39_word_no_space_8 | giveuncoverlikeenacttripevidencecitystamp |  
+| bip_39_word_no_space_9 | giveuncoverlikeenacttripevidencecitystampanimal |  
 | bip_39_word_space_0 | ['give', 'uncover', 'like', 'enact', 'trip', 'evidence', 'city', 'stamp', 'animal', 'cross', 'letter', 'adapt'] |  
 | bip_39_word_space_1 | give |  
 | bip_39_word_space_10 | give uncover like enact trip evidence city stamp animal cross |  

@@ -122,6 +122,18 @@ clerk
 work
 match
 account |  
+| bip_39_word_no_space_1 | broccoli |  
+| bip_39_word_no_space_10 | broccoliaroundsearchmenumanageclerkworkmatchaccountcongress |  
+| bip_39_word_no_space_11 | broccoliaroundsearchmenumanageclerkworkmatchaccountcongressattitude |  
+| bip_39_word_no_space_12 | broccoliaroundsearchmenumanageclerkworkmatchaccountcongressattitudeahead |  
+| bip_39_word_no_space_2 | broccoliaround |  
+| bip_39_word_no_space_3 | broccoliaroundsearch |  
+| bip_39_word_no_space_4 | broccoliaroundsearchmenu |  
+| bip_39_word_no_space_5 | broccoliaroundsearchmenumanage |  
+| bip_39_word_no_space_6 | broccoliaroundsearchmenumanageclerk |  
+| bip_39_word_no_space_7 | broccoliaroundsearchmenumanageclerkwork |  
+| bip_39_word_no_space_8 | broccoliaroundsearchmenumanageclerkworkmatch |  
+| bip_39_word_no_space_9 | broccoliaroundsearchmenumanageclerkworkmatchaccount |  
 | bip_39_word_space_0 | ['broccoli', 'around', 'search', 'menu', 'manage', 'clerk', 'work', 'match', 'account', 'congress', 'attitude', 'ahead'] |  
 | bip_39_word_space_1 | broccoli |  
 | bip_39_word_space_10 | broccoli around search menu manage clerk work match account congress |  

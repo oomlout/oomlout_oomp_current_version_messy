@@ -122,6 +122,18 @@ before
 enforce
 fame
 auto |  
+| bip_39_word_no_space_1 | other |  
+| bip_39_word_no_space_10 | otherraccoonlawnspoontradebeforeenforcefameautohorn |  
+| bip_39_word_no_space_11 | otherraccoonlawnspoontradebeforeenforcefameautohornhat |  
+| bip_39_word_no_space_12 | otherraccoonlawnspoontradebeforeenforcefameautohornhatamount |  
+| bip_39_word_no_space_2 | otherraccoon |  
+| bip_39_word_no_space_3 | otherraccoonlawn |  
+| bip_39_word_no_space_4 | otherraccoonlawnspoon |  
+| bip_39_word_no_space_5 | otherraccoonlawnspoontrade |  
+| bip_39_word_no_space_6 | otherraccoonlawnspoontradebefore |  
+| bip_39_word_no_space_7 | otherraccoonlawnspoontradebeforeenforce |  
+| bip_39_word_no_space_8 | otherraccoonlawnspoontradebeforeenforcefame |  
+| bip_39_word_no_space_9 | otherraccoonlawnspoontradebeforeenforcefameauto |  
 | bip_39_word_space_0 | ['other', 'raccoon', 'lawn', 'spoon', 'trade', 'before', 'enforce', 'fame', 'auto', 'horn', 'hat', 'amount'] |  
 | bip_39_word_space_1 | other |  
 | bip_39_word_space_10 | other raccoon lawn spoon trade before enforce fame auto horn |  

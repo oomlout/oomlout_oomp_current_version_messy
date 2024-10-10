@@ -122,6 +122,18 @@ object
 country
 planet
 scrap |  
+| bip_39_word_no_space_1 | object |  
+| bip_39_word_no_space_10 | objectchiefspatialspatialmechanicobjectcountryplanetscrapbid |  
+| bip_39_word_no_space_11 | objectchiefspatialspatialmechanicobjectcountryplanetscrapbidtest |  
+| bip_39_word_no_space_12 | objectchiefspatialspatialmechanicobjectcountryplanetscrapbidtestattitude |  
+| bip_39_word_no_space_2 | objectchief |  
+| bip_39_word_no_space_3 | objectchiefspatial |  
+| bip_39_word_no_space_4 | objectchiefspatialspatial |  
+| bip_39_word_no_space_5 | objectchiefspatialspatialmechanic |  
+| bip_39_word_no_space_6 | objectchiefspatialspatialmechanicobject |  
+| bip_39_word_no_space_7 | objectchiefspatialspatialmechanicobjectcountry |  
+| bip_39_word_no_space_8 | objectchiefspatialspatialmechanicobjectcountryplanet |  
+| bip_39_word_no_space_9 | objectchiefspatialspatialmechanicobjectcountryplanetscrap |  
 | bip_39_word_space_0 | ['object', 'chief', 'spatial', 'spatial', 'mechanic', 'object', 'country', 'planet', 'scrap', 'bid', 'test', 'attitude'] |  
 | bip_39_word_space_1 | object |  
 | bip_39_word_space_10 | object chief spatial spatial mechanic object country planet scrap bid |  

@@ -122,6 +122,18 @@ resist
 flat
 estate
 dizzy |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programbachelormovieactionendlessresistflatestatedizzyhigh |  
+| bip_39_word_no_space_11 | programbachelormovieactionendlessresistflatestatedizzyhighvolume |  
+| bip_39_word_no_space_12 | programbachelormovieactionendlessresistflatestatedizzyhighvolumeadmit |  
+| bip_39_word_no_space_2 | programbachelor |  
+| bip_39_word_no_space_3 | programbachelormovie |  
+| bip_39_word_no_space_4 | programbachelormovieaction |  
+| bip_39_word_no_space_5 | programbachelormovieactionendless |  
+| bip_39_word_no_space_6 | programbachelormovieactionendlessresist |  
+| bip_39_word_no_space_7 | programbachelormovieactionendlessresistflat |  
+| bip_39_word_no_space_8 | programbachelormovieactionendlessresistflatestate |  
+| bip_39_word_no_space_9 | programbachelormovieactionendlessresistflatestatedizzy |  
 | bip_39_word_space_0 | ['program', 'bachelor', 'movie', 'action', 'endless', 'resist', 'flat', 'estate', 'dizzy', 'high', 'volume', 'admit'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program bachelor movie action endless resist flat estate dizzy high |  

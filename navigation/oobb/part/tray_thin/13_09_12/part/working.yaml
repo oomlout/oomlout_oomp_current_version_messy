@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'divide
   flush
 
   upper'
+bip_39_word_no_space_1: divide
+bip_39_word_no_space_10: dividemusclescoutwingpupilswapwheelflushuppermansion
+bip_39_word_no_space_11: dividemusclescoutwingpupilswapwheelflushuppermansionspike
+bip_39_word_no_space_12: dividemusclescoutwingpupilswapwheelflushuppermansionspikeapart
+bip_39_word_no_space_2: dividemuscle
+bip_39_word_no_space_3: dividemusclescout
+bip_39_word_no_space_4: dividemusclescoutwing
+bip_39_word_no_space_5: dividemusclescoutwingpupil
+bip_39_word_no_space_6: dividemusclescoutwingpupilswap
+bip_39_word_no_space_7: dividemusclescoutwingpupilswapwheel
+bip_39_word_no_space_8: dividemusclescoutwingpupilswapwheelflush
+bip_39_word_no_space_9: dividemusclescoutwingpupilswapwheelflushupper
 bip_39_word_space_0:
 - divide
 - muscle

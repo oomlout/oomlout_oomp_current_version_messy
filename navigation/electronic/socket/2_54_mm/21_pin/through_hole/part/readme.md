@@ -122,6 +122,18 @@ comfort
 whip
 urge
 duty |  
+| bip_39_word_no_space_1 | crater |  
+| bip_39_word_no_space_10 | craterbroccolieducatesandantiquecomfortwhipurgedutycalm |  
+| bip_39_word_no_space_11 | craterbroccolieducatesandantiquecomfortwhipurgedutycalmkid |  
+| bip_39_word_no_space_12 | craterbroccolieducatesandantiquecomfortwhipurgedutycalmkidarmy |  
+| bip_39_word_no_space_2 | craterbroccoli |  
+| bip_39_word_no_space_3 | craterbroccolieducate |  
+| bip_39_word_no_space_4 | craterbroccolieducatesand |  
+| bip_39_word_no_space_5 | craterbroccolieducatesandantique |  
+| bip_39_word_no_space_6 | craterbroccolieducatesandantiquecomfort |  
+| bip_39_word_no_space_7 | craterbroccolieducatesandantiquecomfortwhip |  
+| bip_39_word_no_space_8 | craterbroccolieducatesandantiquecomfortwhipurge |  
+| bip_39_word_no_space_9 | craterbroccolieducatesandantiquecomfortwhipurgeduty |  
 | bip_39_word_space_0 | ['crater', 'broccoli', 'educate', 'sand', 'antique', 'comfort', 'whip', 'urge', 'duty', 'calm', 'kid', 'army'] |  
 | bip_39_word_space_1 | crater |  
 | bip_39_word_space_10 | crater broccoli educate sand antique comfort whip urge duty calm |  

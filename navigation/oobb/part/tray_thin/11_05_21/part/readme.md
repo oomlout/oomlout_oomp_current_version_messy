@@ -122,6 +122,18 @@ they
 crop
 maid
 solve |  
+| bip_39_word_no_space_1 | vessel |  
+| bip_39_word_no_space_10 | vesselbuildcenturyiconincometheycropmaidsolverobust |  
+| bip_39_word_no_space_11 | vesselbuildcenturyiconincometheycropmaidsolverobustblack |  
+| bip_39_word_no_space_12 | vesselbuildcenturyiconincometheycropmaidsolverobustblackanalyst |  
+| bip_39_word_no_space_2 | vesselbuild |  
+| bip_39_word_no_space_3 | vesselbuildcentury |  
+| bip_39_word_no_space_4 | vesselbuildcenturyicon |  
+| bip_39_word_no_space_5 | vesselbuildcenturyiconincome |  
+| bip_39_word_no_space_6 | vesselbuildcenturyiconincomethey |  
+| bip_39_word_no_space_7 | vesselbuildcenturyiconincometheycrop |  
+| bip_39_word_no_space_8 | vesselbuildcenturyiconincometheycropmaid |  
+| bip_39_word_no_space_9 | vesselbuildcenturyiconincometheycropmaidsolve |  
 | bip_39_word_space_0 | ['vessel', 'build', 'century', 'icon', 'income', 'they', 'crop', 'maid', 'solve', 'robust', 'black', 'analyst'] |  
 | bip_39_word_space_1 | vessel |  
 | bip_39_word_space_10 | vessel build century icon income they crop maid solve robust |  

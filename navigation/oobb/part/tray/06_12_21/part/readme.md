@@ -122,6 +122,18 @@ start
 fold
 omit
 snap |  
+| bip_39_word_no_space_1 | improve |  
+| bip_39_word_no_space_10 | improvegruntcleverscaleflightstartfoldomitsnapscan |  
+| bip_39_word_no_space_11 | improvegruntcleverscaleflightstartfoldomitsnapscanguide |  
+| bip_39_word_no_space_12 | improvegruntcleverscaleflightstartfoldomitsnapscanguideabsent |  
+| bip_39_word_no_space_2 | improvegrunt |  
+| bip_39_word_no_space_3 | improvegruntclever |  
+| bip_39_word_no_space_4 | improvegruntcleverscale |  
+| bip_39_word_no_space_5 | improvegruntcleverscaleflight |  
+| bip_39_word_no_space_6 | improvegruntcleverscaleflightstart |  
+| bip_39_word_no_space_7 | improvegruntcleverscaleflightstartfold |  
+| bip_39_word_no_space_8 | improvegruntcleverscaleflightstartfoldomit |  
+| bip_39_word_no_space_9 | improvegruntcleverscaleflightstartfoldomitsnap |  
 | bip_39_word_space_0 | ['improve', 'grunt', 'clever', 'scale', 'flight', 'start', 'fold', 'omit', 'snap', 'scan', 'guide', 'absent'] |  
 | bip_39_word_space_1 | improve |  
 | bip_39_word_space_10 | improve grunt clever scale flight start fold omit snap scan |  

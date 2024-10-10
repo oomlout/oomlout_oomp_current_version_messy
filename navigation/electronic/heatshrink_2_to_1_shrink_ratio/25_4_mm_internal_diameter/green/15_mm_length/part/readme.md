@@ -122,6 +122,18 @@ mixture
 insane
 hawk
 control |  
+| bip_39_word_no_space_1 | silent |  
+| bip_39_word_no_space_10 | silentwagonabsurdalphasubjectmixtureinsanehawkcontrolwhere |  
+| bip_39_word_no_space_11 | silentwagonabsurdalphasubjectmixtureinsanehawkcontrolwhereimmune |  
+| bip_39_word_no_space_12 | silentwagonabsurdalphasubjectmixtureinsanehawkcontrolwhereimmunearound |  
+| bip_39_word_no_space_2 | silentwagon |  
+| bip_39_word_no_space_3 | silentwagonabsurd |  
+| bip_39_word_no_space_4 | silentwagonabsurdalpha |  
+| bip_39_word_no_space_5 | silentwagonabsurdalphasubject |  
+| bip_39_word_no_space_6 | silentwagonabsurdalphasubjectmixture |  
+| bip_39_word_no_space_7 | silentwagonabsurdalphasubjectmixtureinsane |  
+| bip_39_word_no_space_8 | silentwagonabsurdalphasubjectmixtureinsanehawk |  
+| bip_39_word_no_space_9 | silentwagonabsurdalphasubjectmixtureinsanehawkcontrol |  
 | bip_39_word_space_0 | ['silent', 'wagon', 'absurd', 'alpha', 'subject', 'mixture', 'insane', 'hawk', 'control', 'where', 'immune', 'around'] |  
 | bip_39_word_space_1 | silent |  
 | bip_39_word_space_10 | silent wagon absurd alpha subject mixture insane hawk control where |  

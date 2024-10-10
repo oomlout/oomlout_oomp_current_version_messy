@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'tumble
   key
 
   rude'
+bip_39_word_no_space_1: tumble
+bip_39_word_no_space_10: tumblehillrichfathersplitsmoothoffkeyrudealways
+bip_39_word_no_space_11: tumblehillrichfathersplitsmoothoffkeyrudealwaystennis
+bip_39_word_no_space_12: tumblehillrichfathersplitsmoothoffkeyrudealwaystennisabuse
+bip_39_word_no_space_2: tumblehill
+bip_39_word_no_space_3: tumblehillrich
+bip_39_word_no_space_4: tumblehillrichfather
+bip_39_word_no_space_5: tumblehillrichfathersplit
+bip_39_word_no_space_6: tumblehillrichfathersplitsmooth
+bip_39_word_no_space_7: tumblehillrichfathersplitsmoothoff
+bip_39_word_no_space_8: tumblehillrichfathersplitsmoothoffkey
+bip_39_word_no_space_9: tumblehillrichfathersplitsmoothoffkeyrude
 bip_39_word_space_0:
 - tumble
 - hill

@@ -122,6 +122,18 @@ border
 enlist
 trash
 shuffle |  
+| bip_39_word_no_space_1 | soul |  
+| bip_39_word_no_space_10 | soulvesselplacearguecombineborderenlisttrashshufflepave |  
+| bip_39_word_no_space_11 | soulvesselplacearguecombineborderenlisttrashshufflepavemarch |  
+| bip_39_word_no_space_12 | soulvesselplacearguecombineborderenlisttrashshufflepavemarchamateur |  
+| bip_39_word_no_space_2 | soulvessel |  
+| bip_39_word_no_space_3 | soulvesselplace |  
+| bip_39_word_no_space_4 | soulvesselplaceargue |  
+| bip_39_word_no_space_5 | soulvesselplacearguecombine |  
+| bip_39_word_no_space_6 | soulvesselplacearguecombineborder |  
+| bip_39_word_no_space_7 | soulvesselplacearguecombineborderenlist |  
+| bip_39_word_no_space_8 | soulvesselplacearguecombineborderenlisttrash |  
+| bip_39_word_no_space_9 | soulvesselplacearguecombineborderenlisttrashshuffle |  
 | bip_39_word_space_0 | ['soul', 'vessel', 'place', 'argue', 'combine', 'border', 'enlist', 'trash', 'shuffle', 'pave', 'march', 'amateur'] |  
 | bip_39_word_space_1 | soul |  
 | bip_39_word_space_10 | soul vessel place argue combine border enlist trash shuffle pave |  

@@ -122,6 +122,18 @@ early
 sea
 butter
 cheese |  
+| bip_39_word_no_space_1 | repair |  
+| bip_39_word_no_space_10 | repairantiquepelicanfictionshortearlyseabuttercheesestool |  
+| bip_39_word_no_space_11 | repairantiquepelicanfictionshortearlyseabuttercheesestoolten |  
+| bip_39_word_no_space_12 | repairantiquepelicanfictionshortearlyseabuttercheesestooltenair |  
+| bip_39_word_no_space_2 | repairantique |  
+| bip_39_word_no_space_3 | repairantiquepelican |  
+| bip_39_word_no_space_4 | repairantiquepelicanfiction |  
+| bip_39_word_no_space_5 | repairantiquepelicanfictionshort |  
+| bip_39_word_no_space_6 | repairantiquepelicanfictionshortearly |  
+| bip_39_word_no_space_7 | repairantiquepelicanfictionshortearlysea |  
+| bip_39_word_no_space_8 | repairantiquepelicanfictionshortearlyseabutter |  
+| bip_39_word_no_space_9 | repairantiquepelicanfictionshortearlyseabuttercheese |  
 | bip_39_word_space_0 | ['repair', 'antique', 'pelican', 'fiction', 'short', 'early', 'sea', 'butter', 'cheese', 'stool', 'ten', 'air'] |  
 | bip_39_word_space_1 | repair |  
 | bip_39_word_space_10 | repair antique pelican fiction short early sea butter cheese stool |  

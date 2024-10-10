@@ -122,6 +122,18 @@ poem
 shed
 car
 inhale |  
+| bip_39_word_no_space_1 | over |  
+| bip_39_word_no_space_10 | overunfoldaimunawaretrashpoemshedcarinhalerequire |  
+| bip_39_word_no_space_11 | overunfoldaimunawaretrashpoemshedcarinhalerequirevisa |  
+| bip_39_word_no_space_12 | overunfoldaimunawaretrashpoemshedcarinhalerequirevisaamazing |  
+| bip_39_word_no_space_2 | overunfold |  
+| bip_39_word_no_space_3 | overunfoldaim |  
+| bip_39_word_no_space_4 | overunfoldaimunaware |  
+| bip_39_word_no_space_5 | overunfoldaimunawaretrash |  
+| bip_39_word_no_space_6 | overunfoldaimunawaretrashpoem |  
+| bip_39_word_no_space_7 | overunfoldaimunawaretrashpoemshed |  
+| bip_39_word_no_space_8 | overunfoldaimunawaretrashpoemshedcar |  
+| bip_39_word_no_space_9 | overunfoldaimunawaretrashpoemshedcarinhale |  
 | bip_39_word_space_0 | ['over', 'unfold', 'aim', 'unaware', 'trash', 'poem', 'shed', 'car', 'inhale', 'require', 'visa', 'amazing'] |  
 | bip_39_word_space_1 | over |  
 | bip_39_word_space_10 | over unfold aim unaware trash poem shed car inhale require |  

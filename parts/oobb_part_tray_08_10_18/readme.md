@@ -122,6 +122,18 @@ inch
 shock
 wrist
 drive |  
+| bip_39_word_no_space_1 | father |  
+| bip_39_word_no_space_10 | fathertodayfalseorbitkissinchshockwristdrivelist |  
+| bip_39_word_no_space_11 | fathertodayfalseorbitkissinchshockwristdrivelistcentury |  
+| bip_39_word_no_space_12 | fathertodayfalseorbitkissinchshockwristdrivelistcenturyagain |  
+| bip_39_word_no_space_2 | fathertoday |  
+| bip_39_word_no_space_3 | fathertodayfalse |  
+| bip_39_word_no_space_4 | fathertodayfalseorbit |  
+| bip_39_word_no_space_5 | fathertodayfalseorbitkiss |  
+| bip_39_word_no_space_6 | fathertodayfalseorbitkissinch |  
+| bip_39_word_no_space_7 | fathertodayfalseorbitkissinchshock |  
+| bip_39_word_no_space_8 | fathertodayfalseorbitkissinchshockwrist |  
+| bip_39_word_no_space_9 | fathertodayfalseorbitkissinchshockwristdrive |  
 | bip_39_word_space_0 | ['father', 'today', 'false', 'orbit', 'kiss', 'inch', 'shock', 'wrist', 'drive', 'list', 'century', 'again'] |  
 | bip_39_word_space_1 | father |  
 | bip_39_word_space_10 | father today false orbit kiss inch shock wrist drive list |  

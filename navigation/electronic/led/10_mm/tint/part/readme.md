@@ -122,6 +122,18 @@ reward
 alpha
 bread
 alley |  
+| bip_39_word_no_space_1 | visit |  
+| bip_39_word_no_space_10 | visitgardenrailreceiveemployrewardalphabreadalleyoyster |  
+| bip_39_word_no_space_11 | visitgardenrailreceiveemployrewardalphabreadalleyoystergrape |  
+| bip_39_word_no_space_12 | visitgardenrailreceiveemployrewardalphabreadalleyoystergrapeapple |  
+| bip_39_word_no_space_2 | visitgarden |  
+| bip_39_word_no_space_3 | visitgardenrail |  
+| bip_39_word_no_space_4 | visitgardenrailreceive |  
+| bip_39_word_no_space_5 | visitgardenrailreceiveemploy |  
+| bip_39_word_no_space_6 | visitgardenrailreceiveemployreward |  
+| bip_39_word_no_space_7 | visitgardenrailreceiveemployrewardalpha |  
+| bip_39_word_no_space_8 | visitgardenrailreceiveemployrewardalphabread |  
+| bip_39_word_no_space_9 | visitgardenrailreceiveemployrewardalphabreadalley |  
 | bip_39_word_space_0 | ['visit', 'garden', 'rail', 'receive', 'employ', 'reward', 'alpha', 'bread', 'alley', 'oyster', 'grape', 'apple'] |  
 | bip_39_word_space_1 | visit |  
 | bip_39_word_space_10 | visit garden rail receive employ reward alpha bread alley oyster |  

@@ -122,6 +122,18 @@ relax
 number
 make
 amount |  
+| bip_39_word_no_space_1 | staff |  
+| bip_39_word_no_space_10 | staffduckreasontravelrivalrelaxnumbermakeamountreturn |  
+| bip_39_word_no_space_11 | staffduckreasontravelrivalrelaxnumbermakeamountreturndeny |  
+| bip_39_word_no_space_12 | staffduckreasontravelrivalrelaxnumbermakeamountreturndenyarch |  
+| bip_39_word_no_space_2 | staffduck |  
+| bip_39_word_no_space_3 | staffduckreason |  
+| bip_39_word_no_space_4 | staffduckreasontravel |  
+| bip_39_word_no_space_5 | staffduckreasontravelrival |  
+| bip_39_word_no_space_6 | staffduckreasontravelrivalrelax |  
+| bip_39_word_no_space_7 | staffduckreasontravelrivalrelaxnumber |  
+| bip_39_word_no_space_8 | staffduckreasontravelrivalrelaxnumbermake |  
+| bip_39_word_no_space_9 | staffduckreasontravelrivalrelaxnumbermakeamount |  
 | bip_39_word_space_0 | ['staff', 'duck', 'reason', 'travel', 'rival', 'relax', 'number', 'make', 'amount', 'return', 'deny', 'arch'] |  
 | bip_39_word_space_1 | staff |  
 | bip_39_word_space_10 | staff duck reason travel rival relax number make amount return |  

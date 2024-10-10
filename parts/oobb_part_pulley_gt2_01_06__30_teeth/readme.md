@@ -122,6 +122,18 @@ normal
 good
 evil
 scout |  
+| bip_39_word_no_space_1 | file |  
+| bip_39_word_no_space_10 | fileskilightwonderpledgenormalgoodevilscoutsystem |  
+| bip_39_word_no_space_11 | fileskilightwonderpledgenormalgoodevilscoutsystemreduce |  
+| bip_39_word_no_space_12 | fileskilightwonderpledgenormalgoodevilscoutsystemreduceabsent |  
+| bip_39_word_no_space_2 | fileski |  
+| bip_39_word_no_space_3 | fileskilight |  
+| bip_39_word_no_space_4 | fileskilightwonder |  
+| bip_39_word_no_space_5 | fileskilightwonderpledge |  
+| bip_39_word_no_space_6 | fileskilightwonderpledgenormal |  
+| bip_39_word_no_space_7 | fileskilightwonderpledgenormalgood |  
+| bip_39_word_no_space_8 | fileskilightwonderpledgenormalgoodevil |  
+| bip_39_word_no_space_9 | fileskilightwonderpledgenormalgoodevilscout |  
 | bip_39_word_space_0 | ['file', 'ski', 'light', 'wonder', 'pledge', 'normal', 'good', 'evil', 'scout', 'system', 'reduce', 'absent'] |  
 | bip_39_word_space_1 | file |  
 | bip_39_word_space_10 | file ski light wonder pledge normal good evil scout system |  

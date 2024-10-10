@@ -122,6 +122,18 @@ city
 ridge
 virtual
 caught |  
+| bip_39_word_no_space_1 | allow |  
+| bip_39_word_no_space_10 | allowfantasymusclemessageskicityridgevirtualcaughtmad |  
+| bip_39_word_no_space_11 | allowfantasymusclemessageskicityridgevirtualcaughtmadinclude |  
+| bip_39_word_no_space_12 | allowfantasymusclemessageskicityridgevirtualcaughtmadincludeaddress |  
+| bip_39_word_no_space_2 | allowfantasy |  
+| bip_39_word_no_space_3 | allowfantasymuscle |  
+| bip_39_word_no_space_4 | allowfantasymusclemessage |  
+| bip_39_word_no_space_5 | allowfantasymusclemessageski |  
+| bip_39_word_no_space_6 | allowfantasymusclemessageskicity |  
+| bip_39_word_no_space_7 | allowfantasymusclemessageskicityridge |  
+| bip_39_word_no_space_8 | allowfantasymusclemessageskicityridgevirtual |  
+| bip_39_word_no_space_9 | allowfantasymusclemessageskicityridgevirtualcaught |  
 | bip_39_word_space_0 | ['allow', 'fantasy', 'muscle', 'message', 'ski', 'city', 'ridge', 'virtual', 'caught', 'mad', 'include', 'address'] |  
 | bip_39_word_space_1 | allow |  
 | bip_39_word_space_10 | allow fantasy muscle message ski city ridge virtual caught mad |  

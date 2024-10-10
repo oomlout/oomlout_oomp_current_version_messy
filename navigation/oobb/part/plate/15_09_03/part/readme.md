@@ -122,6 +122,18 @@ man
 report
 thumb
 wait |  
+| bip_39_word_no_space_1 | sell |  
+| bip_39_word_no_space_10 | sellscripthollowelevatorluckymanreportthumbwaitcatch |  
+| bip_39_word_no_space_11 | sellscripthollowelevatorluckymanreportthumbwaitcatchtourist |  
+| bip_39_word_no_space_12 | sellscripthollowelevatorluckymanreportthumbwaitcatchtouristapology |  
+| bip_39_word_no_space_2 | sellscript |  
+| bip_39_word_no_space_3 | sellscripthollow |  
+| bip_39_word_no_space_4 | sellscripthollowelevator |  
+| bip_39_word_no_space_5 | sellscripthollowelevatorlucky |  
+| bip_39_word_no_space_6 | sellscripthollowelevatorluckyman |  
+| bip_39_word_no_space_7 | sellscripthollowelevatorluckymanreport |  
+| bip_39_word_no_space_8 | sellscripthollowelevatorluckymanreportthumb |  
+| bip_39_word_no_space_9 | sellscripthollowelevatorluckymanreportthumbwait |  
 | bip_39_word_space_0 | ['sell', 'script', 'hollow', 'elevator', 'lucky', 'man', 'report', 'thumb', 'wait', 'catch', 'tourist', 'apology'] |  
 | bip_39_word_space_1 | sell |  
 | bip_39_word_space_10 | sell script hollow elevator lucky man report thumb wait catch |  

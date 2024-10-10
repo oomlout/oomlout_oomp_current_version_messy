@@ -122,6 +122,18 @@ section
 since
 hospital
 dust |  
+| bip_39_word_no_space_1 | crazy |  
+| bip_39_word_no_space_10 | crazyfamepracticeroomsunsectionsincehospitaldustentire |  
+| bip_39_word_no_space_11 | crazyfamepracticeroomsunsectionsincehospitaldustentireimprove |  
+| bip_39_word_no_space_12 | crazyfamepracticeroomsunsectionsincehospitaldustentireimproveapril |  
+| bip_39_word_no_space_2 | crazyfame |  
+| bip_39_word_no_space_3 | crazyfamepractice |  
+| bip_39_word_no_space_4 | crazyfamepracticeroom |  
+| bip_39_word_no_space_5 | crazyfamepracticeroomsun |  
+| bip_39_word_no_space_6 | crazyfamepracticeroomsunsection |  
+| bip_39_word_no_space_7 | crazyfamepracticeroomsunsectionsince |  
+| bip_39_word_no_space_8 | crazyfamepracticeroomsunsectionsincehospital |  
+| bip_39_word_no_space_9 | crazyfamepracticeroomsunsectionsincehospitaldust |  
 | bip_39_word_space_0 | ['crazy', 'fame', 'practice', 'room', 'sun', 'section', 'since', 'hospital', 'dust', 'entire', 'improve', 'april'] |  
 | bip_39_word_space_1 | crazy |  
 | bip_39_word_space_10 | crazy fame practice room sun section since hospital dust entire |  

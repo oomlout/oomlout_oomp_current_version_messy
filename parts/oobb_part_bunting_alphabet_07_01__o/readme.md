@@ -122,6 +122,18 @@ stone
 raise
 window
 echo |  
+| bip_39_word_no_space_1 | head |  
+| bip_39_word_no_space_10 | headknifeinformeagerbehindstoneraisewindowechodiagram |  
+| bip_39_word_no_space_11 | headknifeinformeagerbehindstoneraisewindowechodiagramplease |  
+| bip_39_word_no_space_12 | headknifeinformeagerbehindstoneraisewindowechodiagrampleaseangle |  
+| bip_39_word_no_space_2 | headknife |  
+| bip_39_word_no_space_3 | headknifeinform |  
+| bip_39_word_no_space_4 | headknifeinformeager |  
+| bip_39_word_no_space_5 | headknifeinformeagerbehind |  
+| bip_39_word_no_space_6 | headknifeinformeagerbehindstone |  
+| bip_39_word_no_space_7 | headknifeinformeagerbehindstoneraise |  
+| bip_39_word_no_space_8 | headknifeinformeagerbehindstoneraisewindow |  
+| bip_39_word_no_space_9 | headknifeinformeagerbehindstoneraisewindowecho |  
 | bip_39_word_space_0 | ['head', 'knife', 'inform', 'eager', 'behind', 'stone', 'raise', 'window', 'echo', 'diagram', 'please', 'angle'] |  
 | bip_39_word_space_1 | head |  
 | bip_39_word_space_10 | head knife inform eager behind stone raise window echo diagram |  

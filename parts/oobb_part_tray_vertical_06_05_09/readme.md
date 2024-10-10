@@ -122,6 +122,18 @@ swim
 giraffe
 royal
 neither |  
+| bip_39_word_no_space_1 | turtle |  
+| bip_39_word_no_space_10 | turtleamateurunknownmembergadgetswimgirafferoyalneitherhire |  
+| bip_39_word_no_space_11 | turtleamateurunknownmembergadgetswimgirafferoyalneitherhirecalm |  
+| bip_39_word_no_space_12 | turtleamateurunknownmembergadgetswimgirafferoyalneitherhirecalmangry |  
+| bip_39_word_no_space_2 | turtleamateur |  
+| bip_39_word_no_space_3 | turtleamateurunknown |  
+| bip_39_word_no_space_4 | turtleamateurunknownmember |  
+| bip_39_word_no_space_5 | turtleamateurunknownmembergadget |  
+| bip_39_word_no_space_6 | turtleamateurunknownmembergadgetswim |  
+| bip_39_word_no_space_7 | turtleamateurunknownmembergadgetswimgiraffe |  
+| bip_39_word_no_space_8 | turtleamateurunknownmembergadgetswimgirafferoyal |  
+| bip_39_word_no_space_9 | turtleamateurunknownmembergadgetswimgirafferoyalneither |  
 | bip_39_word_space_0 | ['turtle', 'amateur', 'unknown', 'member', 'gadget', 'swim', 'giraffe', 'royal', 'neither', 'hire', 'calm', 'angry'] |  
 | bip_39_word_space_1 | turtle |  
 | bip_39_word_space_10 | turtle amateur unknown member gadget swim giraffe royal neither hire |  

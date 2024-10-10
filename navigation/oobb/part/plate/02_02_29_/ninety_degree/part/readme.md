@@ -122,6 +122,18 @@ raise
 diary
 ecology
 wrong |  
+| bip_39_word_no_space_1 | ethics |  
+| bip_39_word_no_space_10 | ethicsturnvelvetquizsixraisediaryecologywrongdecrease |  
+| bip_39_word_no_space_11 | ethicsturnvelvetquizsixraisediaryecologywrongdecreaseartist |  
+| bip_39_word_no_space_12 | ethicsturnvelvetquizsixraisediaryecologywrongdecreaseartistacid |  
+| bip_39_word_no_space_2 | ethicsturn |  
+| bip_39_word_no_space_3 | ethicsturnvelvet |  
+| bip_39_word_no_space_4 | ethicsturnvelvetquiz |  
+| bip_39_word_no_space_5 | ethicsturnvelvetquizsix |  
+| bip_39_word_no_space_6 | ethicsturnvelvetquizsixraise |  
+| bip_39_word_no_space_7 | ethicsturnvelvetquizsixraisediary |  
+| bip_39_word_no_space_8 | ethicsturnvelvetquizsixraisediaryecology |  
+| bip_39_word_no_space_9 | ethicsturnvelvetquizsixraisediaryecologywrong |  
 | bip_39_word_space_0 | ['ethics', 'turn', 'velvet', 'quiz', 'six', 'raise', 'diary', 'ecology', 'wrong', 'decrease', 'artist', 'acid'] |  
 | bip_39_word_space_1 | ethics |  
 | bip_39_word_space_10 | ethics turn velvet quiz six raise diary ecology wrong decrease |  

@@ -122,6 +122,18 @@ scan
 ensure
 behave
 fossil |  
+| bip_39_word_no_space_1 | check |  
+| bip_39_word_no_space_10 | checkworthgeniusrecycleenhancescanensurebehavefossilaccount |  
+| bip_39_word_no_space_11 | checkworthgeniusrecycleenhancescanensurebehavefossilaccountcertain |  
+| bip_39_word_no_space_12 | checkworthgeniusrecycleenhancescanensurebehavefossilaccountcertainabsent |  
+| bip_39_word_no_space_2 | checkworth |  
+| bip_39_word_no_space_3 | checkworthgenius |  
+| bip_39_word_no_space_4 | checkworthgeniusrecycle |  
+| bip_39_word_no_space_5 | checkworthgeniusrecycleenhance |  
+| bip_39_word_no_space_6 | checkworthgeniusrecycleenhancescan |  
+| bip_39_word_no_space_7 | checkworthgeniusrecycleenhancescanensure |  
+| bip_39_word_no_space_8 | checkworthgeniusrecycleenhancescanensurebehave |  
+| bip_39_word_no_space_9 | checkworthgeniusrecycleenhancescanensurebehavefossil |  
 | bip_39_word_space_0 | ['check', 'worth', 'genius', 'recycle', 'enhance', 'scan', 'ensure', 'behave', 'fossil', 'account', 'certain', 'absent'] |  
 | bip_39_word_space_1 | check |  
 | bip_39_word_space_10 | check worth genius recycle enhance scan ensure behave fossil account |  

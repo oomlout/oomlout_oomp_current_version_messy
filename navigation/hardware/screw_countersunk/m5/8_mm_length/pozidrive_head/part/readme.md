@@ -122,6 +122,18 @@ sell
 flash
 seek
 heavy |  
+| bip_39_word_no_space_1 | lady |  
+| bip_39_word_no_space_10 | ladyawaythreemirrormisssellflashseekheavysubject |  
+| bip_39_word_no_space_11 | ladyawaythreemirrormisssellflashseekheavysubjectvoyage |  
+| bip_39_word_no_space_12 | ladyawaythreemirrormisssellflashseekheavysubjectvoyageamazing |  
+| bip_39_word_no_space_2 | ladyaway |  
+| bip_39_word_no_space_3 | ladyawaythree |  
+| bip_39_word_no_space_4 | ladyawaythreemirror |  
+| bip_39_word_no_space_5 | ladyawaythreemirrormiss |  
+| bip_39_word_no_space_6 | ladyawaythreemirrormisssell |  
+| bip_39_word_no_space_7 | ladyawaythreemirrormisssellflash |  
+| bip_39_word_no_space_8 | ladyawaythreemirrormisssellflashseek |  
+| bip_39_word_no_space_9 | ladyawaythreemirrormisssellflashseekheavy |  
 | bip_39_word_space_0 | ['lady', 'away', 'three', 'mirror', 'miss', 'sell', 'flash', 'seek', 'heavy', 'subject', 'voyage', 'amazing'] |  
 | bip_39_word_space_1 | lady |  
 | bip_39_word_space_10 | lady away three mirror miss sell flash seek heavy subject |  

@@ -122,6 +122,18 @@ tiger
 miss
 easily
 grid |  
+| bip_39_word_no_space_1 | must |  
+| bip_39_word_no_space_10 | mustskillreflectcertainmeasuretigermisseasilygridlake |  
+| bip_39_word_no_space_11 | mustskillreflectcertainmeasuretigermisseasilygridlakeenjoy |  
+| bip_39_word_no_space_12 | mustskillreflectcertainmeasuretigermisseasilygridlakeenjoyarch |  
+| bip_39_word_no_space_2 | mustskill |  
+| bip_39_word_no_space_3 | mustskillreflect |  
+| bip_39_word_no_space_4 | mustskillreflectcertain |  
+| bip_39_word_no_space_5 | mustskillreflectcertainmeasure |  
+| bip_39_word_no_space_6 | mustskillreflectcertainmeasuretiger |  
+| bip_39_word_no_space_7 | mustskillreflectcertainmeasuretigermiss |  
+| bip_39_word_no_space_8 | mustskillreflectcertainmeasuretigermisseasily |  
+| bip_39_word_no_space_9 | mustskillreflectcertainmeasuretigermisseasilygrid |  
 | bip_39_word_space_0 | ['must', 'skill', 'reflect', 'certain', 'measure', 'tiger', 'miss', 'easily', 'grid', 'lake', 'enjoy', 'arch'] |  
 | bip_39_word_space_1 | must |  
 | bip_39_word_space_10 | must skill reflect certain measure tiger miss easily grid lake |  

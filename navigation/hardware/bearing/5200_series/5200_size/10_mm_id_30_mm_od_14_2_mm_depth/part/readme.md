@@ -122,6 +122,18 @@ job
 canal
 aware
 open |  
+| bip_39_word_no_space_1 | concert |  
+| bip_39_word_no_space_10 | concertsalondesertcarduckjobcanalawareopenmarriage |  
+| bip_39_word_no_space_11 | concertsalondesertcarduckjobcanalawareopenmarriageimage |  
+| bip_39_word_no_space_12 | concertsalondesertcarduckjobcanalawareopenmarriageimageathlete |  
+| bip_39_word_no_space_2 | concertsalon |  
+| bip_39_word_no_space_3 | concertsalondesert |  
+| bip_39_word_no_space_4 | concertsalondesertcar |  
+| bip_39_word_no_space_5 | concertsalondesertcarduck |  
+| bip_39_word_no_space_6 | concertsalondesertcarduckjob |  
+| bip_39_word_no_space_7 | concertsalondesertcarduckjobcanal |  
+| bip_39_word_no_space_8 | concertsalondesertcarduckjobcanalaware |  
+| bip_39_word_no_space_9 | concertsalondesertcarduckjobcanalawareopen |  
 | bip_39_word_space_0 | ['concert', 'salon', 'desert', 'car', 'duck', 'job', 'canal', 'aware', 'open', 'marriage', 'image', 'athlete'] |  
 | bip_39_word_space_1 | concert |  
 | bip_39_word_space_10 | concert salon desert car duck job canal aware open marriage |  

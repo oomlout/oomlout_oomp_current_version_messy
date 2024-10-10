@@ -122,6 +122,18 @@ nerve
 gym
 session
 friend |  
+| bip_39_word_no_space_1 | segment |  
+| bip_39_word_no_space_10 | segmentsparecausehungrygorillanervegymsessionfriendribbon |  
+| bip_39_word_no_space_11 | segmentsparecausehungrygorillanervegymsessionfriendribbonsuch |  
+| bip_39_word_no_space_12 | segmentsparecausehungrygorillanervegymsessionfriendribbonsuchanimal |  
+| bip_39_word_no_space_2 | segmentspare |  
+| bip_39_word_no_space_3 | segmentsparecause |  
+| bip_39_word_no_space_4 | segmentsparecausehungry |  
+| bip_39_word_no_space_5 | segmentsparecausehungrygorilla |  
+| bip_39_word_no_space_6 | segmentsparecausehungrygorillanerve |  
+| bip_39_word_no_space_7 | segmentsparecausehungrygorillanervegym |  
+| bip_39_word_no_space_8 | segmentsparecausehungrygorillanervegymsession |  
+| bip_39_word_no_space_9 | segmentsparecausehungrygorillanervegymsessionfriend |  
 | bip_39_word_space_0 | ['segment', 'spare', 'cause', 'hungry', 'gorilla', 'nerve', 'gym', 'session', 'friend', 'ribbon', 'such', 'animal'] |  
 | bip_39_word_space_1 | segment |  
 | bip_39_word_space_10 | segment spare cause hungry gorilla nerve gym session friend ribbon |  

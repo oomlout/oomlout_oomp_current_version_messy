@@ -122,6 +122,18 @@ feature
 attitude
 weapon
 labor |  
+| bip_39_word_no_space_1 | ribbon |  
+| bip_39_word_no_space_10 | ribbonborrowannualarrowstonefeatureattitudeweaponlaborflip |  
+| bip_39_word_no_space_11 | ribbonborrowannualarrowstonefeatureattitudeweaponlaborflippole |  
+| bip_39_word_no_space_12 | ribbonborrowannualarrowstonefeatureattitudeweaponlaborflippoleassume |  
+| bip_39_word_no_space_2 | ribbonborrow |  
+| bip_39_word_no_space_3 | ribbonborrowannual |  
+| bip_39_word_no_space_4 | ribbonborrowannualarrow |  
+| bip_39_word_no_space_5 | ribbonborrowannualarrowstone |  
+| bip_39_word_no_space_6 | ribbonborrowannualarrowstonefeature |  
+| bip_39_word_no_space_7 | ribbonborrowannualarrowstonefeatureattitude |  
+| bip_39_word_no_space_8 | ribbonborrowannualarrowstonefeatureattitudeweapon |  
+| bip_39_word_no_space_9 | ribbonborrowannualarrowstonefeatureattitudeweaponlabor |  
 | bip_39_word_space_0 | ['ribbon', 'borrow', 'annual', 'arrow', 'stone', 'feature', 'attitude', 'weapon', 'labor', 'flip', 'pole', 'assume'] |  
 | bip_39_word_space_1 | ribbon |  
 | bip_39_word_space_10 | ribbon borrow annual arrow stone feature attitude weapon labor flip |  

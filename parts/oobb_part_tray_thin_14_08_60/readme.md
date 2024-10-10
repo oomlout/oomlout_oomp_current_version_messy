@@ -122,6 +122,18 @@ wasp
 silk
 because
 throw |  
+| bip_39_word_no_space_1 | other |  
+| bip_39_word_no_space_10 | othervideoquitenterluggagewaspsilkbecausethrowbomb |  
+| bip_39_word_no_space_11 | othervideoquitenterluggagewaspsilkbecausethrowbombage |  
+| bip_39_word_no_space_12 | othervideoquitenterluggagewaspsilkbecausethrowbombagealien |  
+| bip_39_word_no_space_2 | othervideo |  
+| bip_39_word_no_space_3 | othervideoquit |  
+| bip_39_word_no_space_4 | othervideoquitenter |  
+| bip_39_word_no_space_5 | othervideoquitenterluggage |  
+| bip_39_word_no_space_6 | othervideoquitenterluggagewasp |  
+| bip_39_word_no_space_7 | othervideoquitenterluggagewaspsilk |  
+| bip_39_word_no_space_8 | othervideoquitenterluggagewaspsilkbecause |  
+| bip_39_word_no_space_9 | othervideoquitenterluggagewaspsilkbecausethrow |  
 | bip_39_word_space_0 | ['other', 'video', 'quit', 'enter', 'luggage', 'wasp', 'silk', 'because', 'throw', 'bomb', 'age', 'alien'] |  
 | bip_39_word_space_1 | other |  
 | bip_39_word_space_10 | other video quit enter luggage wasp silk because throw bomb |  

@@ -122,6 +122,18 @@ supply
 misery
 distance
 december |  
+| bip_39_word_no_space_1 | they |  
+| bip_39_word_no_space_10 | theyagainmanbroomsongsupplymiserydistancedecemberdesert |  
+| bip_39_word_no_space_11 | theyagainmanbroomsongsupplymiserydistancedecemberdesertstaff |  
+| bip_39_word_no_space_12 | theyagainmanbroomsongsupplymiserydistancedecemberdesertstaffacoustic |  
+| bip_39_word_no_space_2 | theyagain |  
+| bip_39_word_no_space_3 | theyagainman |  
+| bip_39_word_no_space_4 | theyagainmanbroom |  
+| bip_39_word_no_space_5 | theyagainmanbroomsong |  
+| bip_39_word_no_space_6 | theyagainmanbroomsongsupply |  
+| bip_39_word_no_space_7 | theyagainmanbroomsongsupplymisery |  
+| bip_39_word_no_space_8 | theyagainmanbroomsongsupplymiserydistance |  
+| bip_39_word_no_space_9 | theyagainmanbroomsongsupplymiserydistancedecember |  
 | bip_39_word_space_0 | ['they', 'again', 'man', 'broom', 'song', 'supply', 'misery', 'distance', 'december', 'desert', 'staff', 'acoustic'] |  
 | bip_39_word_space_1 | they |  
 | bip_39_word_space_10 | they again man broom song supply misery distance december desert |  

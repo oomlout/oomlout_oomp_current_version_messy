@@ -122,6 +122,18 @@ pig
 village
 surprise
 aim |  
+| bip_39_word_no_space_1 | physical |  
+| bip_39_word_no_space_10 | physicalvibrantskillliftartpigvillagesurpriseaimocean |  
+| bip_39_word_no_space_11 | physicalvibrantskillliftartpigvillagesurpriseaimoceanbelt |  
+| bip_39_word_no_space_12 | physicalvibrantskillliftartpigvillagesurpriseaimoceanbeltacid |  
+| bip_39_word_no_space_2 | physicalvibrant |  
+| bip_39_word_no_space_3 | physicalvibrantskill |  
+| bip_39_word_no_space_4 | physicalvibrantskilllift |  
+| bip_39_word_no_space_5 | physicalvibrantskillliftart |  
+| bip_39_word_no_space_6 | physicalvibrantskillliftartpig |  
+| bip_39_word_no_space_7 | physicalvibrantskillliftartpigvillage |  
+| bip_39_word_no_space_8 | physicalvibrantskillliftartpigvillagesurprise |  
+| bip_39_word_no_space_9 | physicalvibrantskillliftartpigvillagesurpriseaim |  
 | bip_39_word_space_0 | ['physical', 'vibrant', 'skill', 'lift', 'art', 'pig', 'village', 'surprise', 'aim', 'ocean', 'belt', 'acid'] |  
 | bip_39_word_space_1 | physical |  
 | bip_39_word_space_10 | physical vibrant skill lift art pig village surprise aim ocean |  

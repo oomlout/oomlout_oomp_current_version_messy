@@ -122,6 +122,18 @@ head
 harsh
 common
 express |  
+| bip_39_word_no_space_1 | cake |  
+| bip_39_word_no_space_10 | cakeleafvelvetbundlechickenheadharshcommonexpressicon |  
+| bip_39_word_no_space_11 | cakeleafvelvetbundlechickenheadharshcommonexpressiconcar |  
+| bip_39_word_no_space_12 | cakeleafvelvetbundlechickenheadharshcommonexpressiconcararrow |  
+| bip_39_word_no_space_2 | cakeleaf |  
+| bip_39_word_no_space_3 | cakeleafvelvet |  
+| bip_39_word_no_space_4 | cakeleafvelvetbundle |  
+| bip_39_word_no_space_5 | cakeleafvelvetbundlechicken |  
+| bip_39_word_no_space_6 | cakeleafvelvetbundlechickenhead |  
+| bip_39_word_no_space_7 | cakeleafvelvetbundlechickenheadharsh |  
+| bip_39_word_no_space_8 | cakeleafvelvetbundlechickenheadharshcommon |  
+| bip_39_word_no_space_9 | cakeleafvelvetbundlechickenheadharshcommonexpress |  
 | bip_39_word_space_0 | ['cake', 'leaf', 'velvet', 'bundle', 'chicken', 'head', 'harsh', 'common', 'express', 'icon', 'car', 'arrow'] |  
 | bip_39_word_space_1 | cake |  
 | bip_39_word_space_10 | cake leaf velvet bundle chicken head harsh common express icon |  

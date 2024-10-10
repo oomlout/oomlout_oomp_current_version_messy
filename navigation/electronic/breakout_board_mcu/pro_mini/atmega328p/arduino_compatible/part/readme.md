@@ -122,6 +122,18 @@ lend
 large
 rent
 build |  
+| bip_39_word_no_space_1 | spirit |  
+| bip_39_word_no_space_10 | spiritdietnervefixbirdlendlargerentbuildhurry |  
+| bip_39_word_no_space_11 | spiritdietnervefixbirdlendlargerentbuildhurrynormal |  
+| bip_39_word_no_space_12 | spiritdietnervefixbirdlendlargerentbuildhurrynormalasthma |  
+| bip_39_word_no_space_2 | spiritdiet |  
+| bip_39_word_no_space_3 | spiritdietnerve |  
+| bip_39_word_no_space_4 | spiritdietnervefix |  
+| bip_39_word_no_space_5 | spiritdietnervefixbird |  
+| bip_39_word_no_space_6 | spiritdietnervefixbirdlend |  
+| bip_39_word_no_space_7 | spiritdietnervefixbirdlendlarge |  
+| bip_39_word_no_space_8 | spiritdietnervefixbirdlendlargerent |  
+| bip_39_word_no_space_9 | spiritdietnervefixbirdlendlargerentbuild |  
 | bip_39_word_space_0 | ['spirit', 'diet', 'nerve', 'fix', 'bird', 'lend', 'large', 'rent', 'build', 'hurry', 'normal', 'asthma'] |  
 | bip_39_word_space_1 | spirit |  
 | bip_39_word_space_10 | spirit diet nerve fix bird lend large rent build hurry |  

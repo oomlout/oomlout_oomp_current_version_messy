@@ -122,6 +122,18 @@ damage
 beef
 rent
 fatal |  
+| bip_39_word_no_space_1 | salute |  
+| bip_39_word_no_space_10 | salutequotewheretrulyfinddamagebeefrentfatalvoice |  
+| bip_39_word_no_space_11 | salutequotewheretrulyfinddamagebeefrentfatalvoiceyou |  
+| bip_39_word_no_space_12 | salutequotewheretrulyfinddamagebeefrentfatalvoiceyouall |  
+| bip_39_word_no_space_2 | salutequote |  
+| bip_39_word_no_space_3 | salutequotewhere |  
+| bip_39_word_no_space_4 | salutequotewheretruly |  
+| bip_39_word_no_space_5 | salutequotewheretrulyfind |  
+| bip_39_word_no_space_6 | salutequotewheretrulyfinddamage |  
+| bip_39_word_no_space_7 | salutequotewheretrulyfinddamagebeef |  
+| bip_39_word_no_space_8 | salutequotewheretrulyfinddamagebeefrent |  
+| bip_39_word_no_space_9 | salutequotewheretrulyfinddamagebeefrentfatal |  
 | bip_39_word_space_0 | ['salute', 'quote', 'where', 'truly', 'find', 'damage', 'beef', 'rent', 'fatal', 'voice', 'you', 'all'] |  
 | bip_39_word_space_1 | salute |  
 | bip_39_word_space_10 | salute quote where truly find damage beef rent fatal voice |  

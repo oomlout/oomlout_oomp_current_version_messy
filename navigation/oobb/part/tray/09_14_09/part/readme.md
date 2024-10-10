@@ -122,6 +122,18 @@ hotel
 rose
 fitness
 message |  
+| bip_39_word_no_space_1 | pull |  
+| bip_39_word_no_space_10 | pullfestivalvacuumdutyculturehotelrosefitnessmessagesaddle |  
+| bip_39_word_no_space_11 | pullfestivalvacuumdutyculturehotelrosefitnessmessagesaddleafraid |  
+| bip_39_word_no_space_12 | pullfestivalvacuumdutyculturehotelrosefitnessmessagesaddleafraidaugust |  
+| bip_39_word_no_space_2 | pullfestival |  
+| bip_39_word_no_space_3 | pullfestivalvacuum |  
+| bip_39_word_no_space_4 | pullfestivalvacuumduty |  
+| bip_39_word_no_space_5 | pullfestivalvacuumdutyculture |  
+| bip_39_word_no_space_6 | pullfestivalvacuumdutyculturehotel |  
+| bip_39_word_no_space_7 | pullfestivalvacuumdutyculturehotelrose |  
+| bip_39_word_no_space_8 | pullfestivalvacuumdutyculturehotelrosefitness |  
+| bip_39_word_no_space_9 | pullfestivalvacuumdutyculturehotelrosefitnessmessage |  
 | bip_39_word_space_0 | ['pull', 'festival', 'vacuum', 'duty', 'culture', 'hotel', 'rose', 'fitness', 'message', 'saddle', 'afraid', 'august'] |  
 | bip_39_word_space_1 | pull |  
 | bip_39_word_space_10 | pull festival vacuum duty culture hotel rose fitness message saddle |  

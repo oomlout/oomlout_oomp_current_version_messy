@@ -122,6 +122,18 @@ flower
 entire
 style
 flight |  
+| bip_39_word_no_space_1 | issue |  
+| bip_39_word_no_space_10 | issueboardshrimpsciencedripflowerentirestyleflightunique |  
+| bip_39_word_no_space_11 | issueboardshrimpsciencedripflowerentirestyleflightuniquelearn |  
+| bip_39_word_no_space_12 | issueboardshrimpsciencedripflowerentirestyleflightuniquelearnattack |  
+| bip_39_word_no_space_2 | issueboard |  
+| bip_39_word_no_space_3 | issueboardshrimp |  
+| bip_39_word_no_space_4 | issueboardshrimpscience |  
+| bip_39_word_no_space_5 | issueboardshrimpsciencedrip |  
+| bip_39_word_no_space_6 | issueboardshrimpsciencedripflower |  
+| bip_39_word_no_space_7 | issueboardshrimpsciencedripflowerentire |  
+| bip_39_word_no_space_8 | issueboardshrimpsciencedripflowerentirestyle |  
+| bip_39_word_no_space_9 | issueboardshrimpsciencedripflowerentirestyleflight |  
 | bip_39_word_space_0 | ['issue', 'board', 'shrimp', 'science', 'drip', 'flower', 'entire', 'style', 'flight', 'unique', 'learn', 'attack'] |  
 | bip_39_word_space_1 | issue |  
 | bip_39_word_space_10 | issue board shrimp science drip flower entire style flight unique |  

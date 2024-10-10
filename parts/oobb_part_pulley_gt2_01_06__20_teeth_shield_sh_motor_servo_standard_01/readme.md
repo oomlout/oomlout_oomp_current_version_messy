@@ -122,6 +122,18 @@ wolf
 window
 accuse
 federal |  
+| bip_39_word_no_space_1 | loyal |  
+| bip_39_word_no_space_10 | loyalthunderwasprareunablewolfwindowaccusefederalcreek |  
+| bip_39_word_no_space_11 | loyalthunderwasprareunablewolfwindowaccusefederalcreekinspire |  
+| bip_39_word_no_space_12 | loyalthunderwasprareunablewolfwindowaccusefederalcreekinspireadapt |  
+| bip_39_word_no_space_2 | loyalthunder |  
+| bip_39_word_no_space_3 | loyalthunderwasp |  
+| bip_39_word_no_space_4 | loyalthunderwasprare |  
+| bip_39_word_no_space_5 | loyalthunderwasprareunable |  
+| bip_39_word_no_space_6 | loyalthunderwasprareunablewolf |  
+| bip_39_word_no_space_7 | loyalthunderwasprareunablewolfwindow |  
+| bip_39_word_no_space_8 | loyalthunderwasprareunablewolfwindowaccuse |  
+| bip_39_word_no_space_9 | loyalthunderwasprareunablewolfwindowaccusefederal |  
 | bip_39_word_space_0 | ['loyal', 'thunder', 'wasp', 'rare', 'unable', 'wolf', 'window', 'accuse', 'federal', 'creek', 'inspire', 'adapt'] |  
 | bip_39_word_space_1 | loyal |  
 | bip_39_word_space_10 | loyal thunder wasp rare unable wolf window accuse federal creek |  

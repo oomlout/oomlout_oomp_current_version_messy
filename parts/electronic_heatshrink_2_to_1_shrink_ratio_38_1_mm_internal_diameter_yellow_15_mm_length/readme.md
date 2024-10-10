@@ -122,6 +122,18 @@ walnut
 student
 bird
 early |  
+| bip_39_word_no_space_1 | guitar |  
+| bip_39_word_no_space_10 | guitarplacepredictclumpsandwalnutstudentbirdearlychapter |  
+| bip_39_word_no_space_11 | guitarplacepredictclumpsandwalnutstudentbirdearlychaptercupboard |  
+| bip_39_word_no_space_12 | guitarplacepredictclumpsandwalnutstudentbirdearlychaptercupboardall |  
+| bip_39_word_no_space_2 | guitarplace |  
+| bip_39_word_no_space_3 | guitarplacepredict |  
+| bip_39_word_no_space_4 | guitarplacepredictclump |  
+| bip_39_word_no_space_5 | guitarplacepredictclumpsand |  
+| bip_39_word_no_space_6 | guitarplacepredictclumpsandwalnut |  
+| bip_39_word_no_space_7 | guitarplacepredictclumpsandwalnutstudent |  
+| bip_39_word_no_space_8 | guitarplacepredictclumpsandwalnutstudentbird |  
+| bip_39_word_no_space_9 | guitarplacepredictclumpsandwalnutstudentbirdearly |  
 | bip_39_word_space_0 | ['guitar', 'place', 'predict', 'clump', 'sand', 'walnut', 'student', 'bird', 'early', 'chapter', 'cupboard', 'all'] |  
 | bip_39_word_space_1 | guitar |  
 | bip_39_word_space_10 | guitar place predict clump sand walnut student bird early chapter |  

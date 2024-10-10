@@ -122,6 +122,18 @@ shock
 obvious
 silver
 walnut |  
+| bip_39_word_no_space_1 | pride |  
+| bip_39_word_no_space_10 | prideinmateactionfitsugarshockobvioussilverwalnuttry |  
+| bip_39_word_no_space_11 | prideinmateactionfitsugarshockobvioussilverwalnuttryarrest |  
+| bip_39_word_no_space_12 | prideinmateactionfitsugarshockobvioussilverwalnuttryarrestabout |  
+| bip_39_word_no_space_2 | prideinmate |  
+| bip_39_word_no_space_3 | prideinmateaction |  
+| bip_39_word_no_space_4 | prideinmateactionfit |  
+| bip_39_word_no_space_5 | prideinmateactionfitsugar |  
+| bip_39_word_no_space_6 | prideinmateactionfitsugarshock |  
+| bip_39_word_no_space_7 | prideinmateactionfitsugarshockobvious |  
+| bip_39_word_no_space_8 | prideinmateactionfitsugarshockobvioussilver |  
+| bip_39_word_no_space_9 | prideinmateactionfitsugarshockobvioussilverwalnut |  
 | bip_39_word_space_0 | ['pride', 'inmate', 'action', 'fit', 'sugar', 'shock', 'obvious', 'silver', 'walnut', 'try', 'arrest', 'about'] |  
 | bip_39_word_space_1 | pride |  
 | bip_39_word_space_10 | pride inmate action fit sugar shock obvious silver walnut try |  

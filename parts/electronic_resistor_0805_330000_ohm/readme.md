@@ -122,6 +122,18 @@ worry
 absurd
 badge
 reflect |  
+| bip_39_word_no_space_1 | cage |  
+| bip_39_word_no_space_10 | cageincomeflowerglorygloomworryabsurdbadgereflectshift |  
+| bip_39_word_no_space_11 | cageincomeflowerglorygloomworryabsurdbadgereflectshifttrap |  
+| bip_39_word_no_space_12 | cageincomeflowerglorygloomworryabsurdbadgereflectshifttrapabstract |  
+| bip_39_word_no_space_2 | cageincome |  
+| bip_39_word_no_space_3 | cageincomeflower |  
+| bip_39_word_no_space_4 | cageincomeflowerglory |  
+| bip_39_word_no_space_5 | cageincomeflowerglorygloom |  
+| bip_39_word_no_space_6 | cageincomeflowerglorygloomworry |  
+| bip_39_word_no_space_7 | cageincomeflowerglorygloomworryabsurd |  
+| bip_39_word_no_space_8 | cageincomeflowerglorygloomworryabsurdbadge |  
+| bip_39_word_no_space_9 | cageincomeflowerglorygloomworryabsurdbadgereflect |  
 | bip_39_word_space_0 | ['cage', 'income', 'flower', 'glory', 'gloom', 'worry', 'absurd', 'badge', 'reflect', 'shift', 'trap', 'abstract'] |  
 | bip_39_word_space_1 | cage |  
 | bip_39_word_space_10 | cage income flower glory gloom worry absurd badge reflect shift |  

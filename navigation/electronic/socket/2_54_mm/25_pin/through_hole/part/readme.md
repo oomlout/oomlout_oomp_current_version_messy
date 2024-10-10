@@ -122,6 +122,18 @@ jump
 clown
 shoulder
 text |  
+| bip_39_word_no_space_1 | farm |  
+| bip_39_word_no_space_10 | farmcottongiggleliarhedgehogjumpclownshouldertexttuition |  
+| bip_39_word_no_space_11 | farmcottongiggleliarhedgehogjumpclownshouldertexttuitionvisual |  
+| bip_39_word_no_space_12 | farmcottongiggleliarhedgehogjumpclownshouldertexttuitionvisualairport |  
+| bip_39_word_no_space_2 | farmcotton |  
+| bip_39_word_no_space_3 | farmcottongiggle |  
+| bip_39_word_no_space_4 | farmcottongiggleliar |  
+| bip_39_word_no_space_5 | farmcottongiggleliarhedgehog |  
+| bip_39_word_no_space_6 | farmcottongiggleliarhedgehogjump |  
+| bip_39_word_no_space_7 | farmcottongiggleliarhedgehogjumpclown |  
+| bip_39_word_no_space_8 | farmcottongiggleliarhedgehogjumpclownshoulder |  
+| bip_39_word_no_space_9 | farmcottongiggleliarhedgehogjumpclownshouldertext |  
 | bip_39_word_space_0 | ['farm', 'cotton', 'giggle', 'liar', 'hedgehog', 'jump', 'clown', 'shoulder', 'text', 'tuition', 'visual', 'airport'] |  
 | bip_39_word_space_1 | farm |  
 | bip_39_word_space_10 | farm cotton giggle liar hedgehog jump clown shoulder text tuition |  

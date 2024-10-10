@@ -122,6 +122,18 @@ angry
 weapon
 buddy
 supreme |  
+| bip_39_word_no_space_1 | price |  
+| bip_39_word_no_space_10 | priceheavydeskventuredirectangryweaponbuddysupremelive |  
+| bip_39_word_no_space_11 | priceheavydeskventuredirectangryweaponbuddysupremelivedune |  
+| bip_39_word_no_space_12 | priceheavydeskventuredirectangryweaponbuddysupremeliveduneaverage |  
+| bip_39_word_no_space_2 | priceheavy |  
+| bip_39_word_no_space_3 | priceheavydesk |  
+| bip_39_word_no_space_4 | priceheavydeskventure |  
+| bip_39_word_no_space_5 | priceheavydeskventuredirect |  
+| bip_39_word_no_space_6 | priceheavydeskventuredirectangry |  
+| bip_39_word_no_space_7 | priceheavydeskventuredirectangryweapon |  
+| bip_39_word_no_space_8 | priceheavydeskventuredirectangryweaponbuddy |  
+| bip_39_word_no_space_9 | priceheavydeskventuredirectangryweaponbuddysupreme |  
 | bip_39_word_space_0 | ['price', 'heavy', 'desk', 'venture', 'direct', 'angry', 'weapon', 'buddy', 'supreme', 'live', 'dune', 'average'] |  
 | bip_39_word_space_1 | price |  
 | bip_39_word_space_10 | price heavy desk venture direct angry weapon buddy supreme live |  

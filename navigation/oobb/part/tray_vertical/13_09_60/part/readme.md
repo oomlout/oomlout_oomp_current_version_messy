@@ -122,6 +122,18 @@ depth
 climb
 helmet
 visit |  
+| bip_39_word_no_space_1 | estate |  
+| bip_39_word_no_space_10 | estatenosescrapritualinvitedepthclimbhelmetvisitdebate |  
+| bip_39_word_no_space_11 | estatenosescrapritualinvitedepthclimbhelmetvisitdebatecrater |  
+| bip_39_word_no_space_12 | estatenosescrapritualinvitedepthclimbhelmetvisitdebatecrateratom |  
+| bip_39_word_no_space_2 | estatenose |  
+| bip_39_word_no_space_3 | estatenosescrap |  
+| bip_39_word_no_space_4 | estatenosescrapritual |  
+| bip_39_word_no_space_5 | estatenosescrapritualinvite |  
+| bip_39_word_no_space_6 | estatenosescrapritualinvitedepth |  
+| bip_39_word_no_space_7 | estatenosescrapritualinvitedepthclimb |  
+| bip_39_word_no_space_8 | estatenosescrapritualinvitedepthclimbhelmet |  
+| bip_39_word_no_space_9 | estatenosescrapritualinvitedepthclimbhelmetvisit |  
 | bip_39_word_space_0 | ['estate', 'nose', 'scrap', 'ritual', 'invite', 'depth', 'climb', 'helmet', 'visit', 'debate', 'crater', 'atom'] |  
 | bip_39_word_space_1 | estate |  
 | bip_39_word_space_10 | estate nose scrap ritual invite depth climb helmet visit debate |  

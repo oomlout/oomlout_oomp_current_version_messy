@@ -122,6 +122,18 @@ forum
 soon
 tail
 crane |  
+| bip_39_word_no_space_1 | table |  
+| bip_39_word_no_space_10 | tableconnectlettercongressgoldforumsoontailcranesimple |  
+| bip_39_word_no_space_11 | tableconnectlettercongressgoldforumsoontailcranesimplealways |  
+| bip_39_word_no_space_12 | tableconnectlettercongressgoldforumsoontailcranesimplealwaysalso |  
+| bip_39_word_no_space_2 | tableconnect |  
+| bip_39_word_no_space_3 | tableconnectletter |  
+| bip_39_word_no_space_4 | tableconnectlettercongress |  
+| bip_39_word_no_space_5 | tableconnectlettercongressgold |  
+| bip_39_word_no_space_6 | tableconnectlettercongressgoldforum |  
+| bip_39_word_no_space_7 | tableconnectlettercongressgoldforumsoon |  
+| bip_39_word_no_space_8 | tableconnectlettercongressgoldforumsoontail |  
+| bip_39_word_no_space_9 | tableconnectlettercongressgoldforumsoontailcrane |  
 | bip_39_word_space_0 | ['table', 'connect', 'letter', 'congress', 'gold', 'forum', 'soon', 'tail', 'crane', 'simple', 'always', 'also'] |  
 | bip_39_word_space_1 | table |  
 | bip_39_word_space_10 | table connect letter congress gold forum soon tail crane simple |  

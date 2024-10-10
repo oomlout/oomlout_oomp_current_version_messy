@@ -122,6 +122,18 @@ tent
 benefit
 twenty
 cycle |  
+| bip_39_word_no_space_1 | fit |  
+| bip_39_word_no_space_10 | fitrudeaccessbraveskirttentbenefittwentycyclealien |  
+| bip_39_word_no_space_11 | fitrudeaccessbraveskirttentbenefittwentycyclealienclown |  
+| bip_39_word_no_space_12 | fitrudeaccessbraveskirttentbenefittwentycyclealienclownapart |  
+| bip_39_word_no_space_2 | fitrude |  
+| bip_39_word_no_space_3 | fitrudeaccess |  
+| bip_39_word_no_space_4 | fitrudeaccessbrave |  
+| bip_39_word_no_space_5 | fitrudeaccessbraveskirt |  
+| bip_39_word_no_space_6 | fitrudeaccessbraveskirttent |  
+| bip_39_word_no_space_7 | fitrudeaccessbraveskirttentbenefit |  
+| bip_39_word_no_space_8 | fitrudeaccessbraveskirttentbenefittwenty |  
+| bip_39_word_no_space_9 | fitrudeaccessbraveskirttentbenefittwentycycle |  
 | bip_39_word_space_0 | ['fit', 'rude', 'access', 'brave', 'skirt', 'tent', 'benefit', 'twenty', 'cycle', 'alien', 'clown', 'apart'] |  
 | bip_39_word_space_1 | fit |  
 | bip_39_word_space_10 | fit rude access brave skirt tent benefit twenty cycle alien |  

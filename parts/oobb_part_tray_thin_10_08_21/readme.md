@@ -122,6 +122,18 @@ episode
 noodle
 panther
 float |  
+| bip_39_word_no_space_1 | monster |  
+| bip_39_word_no_space_10 | monsteromitmodeltoyadvanceepisodenoodlepantherfloatbehave |  
+| bip_39_word_no_space_11 | monsteromitmodeltoyadvanceepisodenoodlepantherfloatbehavesilly |  
+| bip_39_word_no_space_12 | monsteromitmodeltoyadvanceepisodenoodlepantherfloatbehavesillyarea |  
+| bip_39_word_no_space_2 | monsteromit |  
+| bip_39_word_no_space_3 | monsteromitmodel |  
+| bip_39_word_no_space_4 | monsteromitmodeltoy |  
+| bip_39_word_no_space_5 | monsteromitmodeltoyadvance |  
+| bip_39_word_no_space_6 | monsteromitmodeltoyadvanceepisode |  
+| bip_39_word_no_space_7 | monsteromitmodeltoyadvanceepisodenoodle |  
+| bip_39_word_no_space_8 | monsteromitmodeltoyadvanceepisodenoodlepanther |  
+| bip_39_word_no_space_9 | monsteromitmodeltoyadvanceepisodenoodlepantherfloat |  
 | bip_39_word_space_0 | ['monster', 'omit', 'model', 'toy', 'advance', 'episode', 'noodle', 'panther', 'float', 'behave', 'silly', 'area'] |  
 | bip_39_word_space_1 | monster |  
 | bip_39_word_space_10 | monster omit model toy advance episode noodle panther float behave |  

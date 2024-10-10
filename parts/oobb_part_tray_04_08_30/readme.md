@@ -122,6 +122,18 @@ crush
 spend
 fire
 twist |  
+| bip_39_word_no_space_1 | misery |  
+| bip_39_word_no_space_10 | miserychoicegovernmodelcostcrushspendfiretwistestate |  
+| bip_39_word_no_space_11 | miserychoicegovernmodelcostcrushspendfiretwistestateability |  
+| bip_39_word_no_space_12 | miserychoicegovernmodelcostcrushspendfiretwistestateabilityaspect |  
+| bip_39_word_no_space_2 | miserychoice |  
+| bip_39_word_no_space_3 | miserychoicegovern |  
+| bip_39_word_no_space_4 | miserychoicegovernmodel |  
+| bip_39_word_no_space_5 | miserychoicegovernmodelcost |  
+| bip_39_word_no_space_6 | miserychoicegovernmodelcostcrush |  
+| bip_39_word_no_space_7 | miserychoicegovernmodelcostcrushspend |  
+| bip_39_word_no_space_8 | miserychoicegovernmodelcostcrushspendfire |  
+| bip_39_word_no_space_9 | miserychoicegovernmodelcostcrushspendfiretwist |  
 | bip_39_word_space_0 | ['misery', 'choice', 'govern', 'model', 'cost', 'crush', 'spend', 'fire', 'twist', 'estate', 'ability', 'aspect'] |  
 | bip_39_word_space_1 | misery |  
 | bip_39_word_space_10 | misery choice govern model cost crush spend fire twist estate |  

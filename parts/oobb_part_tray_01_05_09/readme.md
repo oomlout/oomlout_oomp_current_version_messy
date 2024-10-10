@@ -122,6 +122,18 @@ mouse
 scatter
 violin
 middle |  
+| bip_39_word_no_space_1 | weird |  
+| bip_39_word_no_space_10 | weirdcrawloilthankshockmousescatterviolinmiddlerisk |  
+| bip_39_word_no_space_11 | weirdcrawloilthankshockmousescatterviolinmiddlerisksituate |  
+| bip_39_word_no_space_12 | weirdcrawloilthankshockmousescatterviolinmiddlerisksituateamount |  
+| bip_39_word_no_space_2 | weirdcrawl |  
+| bip_39_word_no_space_3 | weirdcrawloil |  
+| bip_39_word_no_space_4 | weirdcrawloilthank |  
+| bip_39_word_no_space_5 | weirdcrawloilthankshock |  
+| bip_39_word_no_space_6 | weirdcrawloilthankshockmouse |  
+| bip_39_word_no_space_7 | weirdcrawloilthankshockmousescatter |  
+| bip_39_word_no_space_8 | weirdcrawloilthankshockmousescatterviolin |  
+| bip_39_word_no_space_9 | weirdcrawloilthankshockmousescatterviolinmiddle |  
 | bip_39_word_space_0 | ['weird', 'crawl', 'oil', 'thank', 'shock', 'mouse', 'scatter', 'violin', 'middle', 'risk', 'situate', 'amount'] |  
 | bip_39_word_space_1 | weird |  
 | bip_39_word_space_10 | weird crawl oil thank shock mouse scatter violin middle risk |  

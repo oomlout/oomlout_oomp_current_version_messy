@@ -122,6 +122,18 @@ just
 since
 plate
 cook |  
+| bip_39_word_no_space_1 | drastic |  
+| bip_39_word_no_space_10 | drasticelevatorcrystalsoldierretirejustsinceplatecookstem |  
+| bip_39_word_no_space_11 | drasticelevatorcrystalsoldierretirejustsinceplatecookstemelder |  
+| bip_39_word_no_space_12 | drasticelevatorcrystalsoldierretirejustsinceplatecookstemelderannounce |  
+| bip_39_word_no_space_2 | drasticelevator |  
+| bip_39_word_no_space_3 | drasticelevatorcrystal |  
+| bip_39_word_no_space_4 | drasticelevatorcrystalsoldier |  
+| bip_39_word_no_space_5 | drasticelevatorcrystalsoldierretire |  
+| bip_39_word_no_space_6 | drasticelevatorcrystalsoldierretirejust |  
+| bip_39_word_no_space_7 | drasticelevatorcrystalsoldierretirejustsince |  
+| bip_39_word_no_space_8 | drasticelevatorcrystalsoldierretirejustsinceplate |  
+| bip_39_word_no_space_9 | drasticelevatorcrystalsoldierretirejustsinceplatecook |  
 | bip_39_word_space_0 | ['drastic', 'elevator', 'crystal', 'soldier', 'retire', 'just', 'since', 'plate', 'cook', 'stem', 'elder', 'announce'] |  
 | bip_39_word_space_1 | drastic |  
 | bip_39_word_space_10 | drastic elevator crystal soldier retire just since plate cook stem |  

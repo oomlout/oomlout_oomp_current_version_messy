@@ -122,6 +122,18 @@ birth
 purse
 flush
 brain |  
+| bip_39_word_no_space_1 | arm |  
+| bip_39_word_no_space_10 | armremindtuitionfalsecertainbirthpurseflushbrainlift |  
+| bip_39_word_no_space_11 | armremindtuitionfalsecertainbirthpurseflushbrainliftpluck |  
+| bip_39_word_no_space_12 | armremindtuitionfalsecertainbirthpurseflushbrainliftpluckapprove |  
+| bip_39_word_no_space_2 | armremind |  
+| bip_39_word_no_space_3 | armremindtuition |  
+| bip_39_word_no_space_4 | armremindtuitionfalse |  
+| bip_39_word_no_space_5 | armremindtuitionfalsecertain |  
+| bip_39_word_no_space_6 | armremindtuitionfalsecertainbirth |  
+| bip_39_word_no_space_7 | armremindtuitionfalsecertainbirthpurse |  
+| bip_39_word_no_space_8 | armremindtuitionfalsecertainbirthpurseflush |  
+| bip_39_word_no_space_9 | armremindtuitionfalsecertainbirthpurseflushbrain |  
 | bip_39_word_space_0 | ['arm', 'remind', 'tuition', 'false', 'certain', 'birth', 'purse', 'flush', 'brain', 'lift', 'pluck', 'approve'] |  
 | bip_39_word_space_1 | arm |  
 | bip_39_word_space_10 | arm remind tuition false certain birth purse flush brain lift |  

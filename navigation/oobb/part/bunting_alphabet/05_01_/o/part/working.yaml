@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'egg
   glove
 
   gospel'
+bip_39_word_no_space_1: egg
+bip_39_word_no_space_10: eggtasteboardframedefenseuglyexpectglovegospelexcuse
+bip_39_word_no_space_11: eggtasteboardframedefenseuglyexpectglovegospelexcusemonster
+bip_39_word_no_space_12: eggtasteboardframedefenseuglyexpectglovegospelexcusemonsterabuse
+bip_39_word_no_space_2: eggtaste
+bip_39_word_no_space_3: eggtasteboard
+bip_39_word_no_space_4: eggtasteboardframe
+bip_39_word_no_space_5: eggtasteboardframedefense
+bip_39_word_no_space_6: eggtasteboardframedefenseugly
+bip_39_word_no_space_7: eggtasteboardframedefenseuglyexpect
+bip_39_word_no_space_8: eggtasteboardframedefenseuglyexpectglove
+bip_39_word_no_space_9: eggtasteboardframedefenseuglyexpectglovegospel
 bip_39_word_space_0:
 - egg
 - taste

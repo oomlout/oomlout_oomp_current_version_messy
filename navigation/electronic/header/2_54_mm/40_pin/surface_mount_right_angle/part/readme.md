@@ -122,6 +122,18 @@ attitude
 primary
 okay
 corn |  
+| bip_39_word_no_space_1 | grass |  
+| bip_39_word_no_space_10 | grassremovevacantcurrentmonkeyattitudeprimaryokaycornsoda |  
+| bip_39_word_no_space_11 | grassremovevacantcurrentmonkeyattitudeprimaryokaycornsodarookie |  
+| bip_39_word_no_space_12 | grassremovevacantcurrentmonkeyattitudeprimaryokaycornsodarookieactual |  
+| bip_39_word_no_space_2 | grassremove |  
+| bip_39_word_no_space_3 | grassremovevacant |  
+| bip_39_word_no_space_4 | grassremovevacantcurrent |  
+| bip_39_word_no_space_5 | grassremovevacantcurrentmonkey |  
+| bip_39_word_no_space_6 | grassremovevacantcurrentmonkeyattitude |  
+| bip_39_word_no_space_7 | grassremovevacantcurrentmonkeyattitudeprimary |  
+| bip_39_word_no_space_8 | grassremovevacantcurrentmonkeyattitudeprimaryokay |  
+| bip_39_word_no_space_9 | grassremovevacantcurrentmonkeyattitudeprimaryokaycorn |  
 | bip_39_word_space_0 | ['grass', 'remove', 'vacant', 'current', 'monkey', 'attitude', 'primary', 'okay', 'corn', 'soda', 'rookie', 'actual'] |  
 | bip_39_word_space_1 | grass |  
 | bip_39_word_space_10 | grass remove vacant current monkey attitude primary okay corn soda |  

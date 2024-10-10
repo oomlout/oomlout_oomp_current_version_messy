@@ -122,6 +122,18 @@ coral
 demise
 busy
 evoke |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderfanfinebadgegrantcoraldemisebusyevokeplastic |  
+| bip_39_word_no_space_11 | powderfanfinebadgegrantcoraldemisebusyevokeplasticglance |  
+| bip_39_word_no_space_12 | powderfanfinebadgegrantcoraldemisebusyevokeplasticglanceartwork |  
+| bip_39_word_no_space_2 | powderfan |  
+| bip_39_word_no_space_3 | powderfanfine |  
+| bip_39_word_no_space_4 | powderfanfinebadge |  
+| bip_39_word_no_space_5 | powderfanfinebadgegrant |  
+| bip_39_word_no_space_6 | powderfanfinebadgegrantcoral |  
+| bip_39_word_no_space_7 | powderfanfinebadgegrantcoraldemise |  
+| bip_39_word_no_space_8 | powderfanfinebadgegrantcoraldemisebusy |  
+| bip_39_word_no_space_9 | powderfanfinebadgegrantcoraldemisebusyevoke |  
 | bip_39_word_space_0 | ['powder', 'fan', 'fine', 'badge', 'grant', 'coral', 'demise', 'busy', 'evoke', 'plastic', 'glance', 'artwork'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder fan fine badge grant coral demise busy evoke plastic |  

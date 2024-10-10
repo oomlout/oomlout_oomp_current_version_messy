@@ -122,6 +122,18 @@ chef
 fence
 fancy
 strong |  
+| bip_39_word_no_space_1 | proud |  
+| bip_39_word_no_space_10 | proudinviteaxisadmitsupremecheffencefancystrongpeople |  
+| bip_39_word_no_space_11 | proudinviteaxisadmitsupremecheffencefancystrongpeoplefinish |  
+| bip_39_word_no_space_12 | proudinviteaxisadmitsupremecheffencefancystrongpeoplefinishaction |  
+| bip_39_word_no_space_2 | proudinvite |  
+| bip_39_word_no_space_3 | proudinviteaxis |  
+| bip_39_word_no_space_4 | proudinviteaxisadmit |  
+| bip_39_word_no_space_5 | proudinviteaxisadmitsupreme |  
+| bip_39_word_no_space_6 | proudinviteaxisadmitsupremechef |  
+| bip_39_word_no_space_7 | proudinviteaxisadmitsupremecheffence |  
+| bip_39_word_no_space_8 | proudinviteaxisadmitsupremecheffencefancy |  
+| bip_39_word_no_space_9 | proudinviteaxisadmitsupremecheffencefancystrong |  
 | bip_39_word_space_0 | ['proud', 'invite', 'axis', 'admit', 'supreme', 'chef', 'fence', 'fancy', 'strong', 'people', 'finish', 'action'] |  
 | bip_39_word_space_1 | proud |  
 | bip_39_word_space_10 | proud invite axis admit supreme chef fence fancy strong people |  

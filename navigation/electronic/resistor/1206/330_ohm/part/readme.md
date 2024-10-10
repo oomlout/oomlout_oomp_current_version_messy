@@ -122,6 +122,18 @@ wage
 sell
 subject
 rural |  
+| bip_39_word_no_space_1 | wheel |  
+| bip_39_word_no_space_10 | wheelforceoffpuritychoicewagesellsubjectrurallife |  
+| bip_39_word_no_space_11 | wheelforceoffpuritychoicewagesellsubjectrurallifelogic |  
+| bip_39_word_no_space_12 | wheelforceoffpuritychoicewagesellsubjectrurallifelogicaccount |  
+| bip_39_word_no_space_2 | wheelforce |  
+| bip_39_word_no_space_3 | wheelforceoff |  
+| bip_39_word_no_space_4 | wheelforceoffpurity |  
+| bip_39_word_no_space_5 | wheelforceoffpuritychoice |  
+| bip_39_word_no_space_6 | wheelforceoffpuritychoicewage |  
+| bip_39_word_no_space_7 | wheelforceoffpuritychoicewagesell |  
+| bip_39_word_no_space_8 | wheelforceoffpuritychoicewagesellsubject |  
+| bip_39_word_no_space_9 | wheelforceoffpuritychoicewagesellsubjectrural |  
 | bip_39_word_space_0 | ['wheel', 'force', 'off', 'purity', 'choice', 'wage', 'sell', 'subject', 'rural', 'life', 'logic', 'account'] |  
 | bip_39_word_space_1 | wheel |  
 | bip_39_word_space_10 | wheel force off purity choice wage sell subject rural life |  

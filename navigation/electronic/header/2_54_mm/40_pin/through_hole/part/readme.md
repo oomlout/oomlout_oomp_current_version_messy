@@ -122,6 +122,18 @@ melt
 car
 birth
 horse |  
+| bip_39_word_no_space_1 | consider |  
+| bip_39_word_no_space_10 | considersqueezewetmarchjacketmeltcarbirthhorseproperty |  
+| bip_39_word_no_space_11 | considersqueezewetmarchjacketmeltcarbirthhorsepropertyenroll |  
+| bip_39_word_no_space_12 | considersqueezewetmarchjacketmeltcarbirthhorsepropertyenrollarena |  
+| bip_39_word_no_space_2 | considersqueeze |  
+| bip_39_word_no_space_3 | considersqueezewet |  
+| bip_39_word_no_space_4 | considersqueezewetmarch |  
+| bip_39_word_no_space_5 | considersqueezewetmarchjacket |  
+| bip_39_word_no_space_6 | considersqueezewetmarchjacketmelt |  
+| bip_39_word_no_space_7 | considersqueezewetmarchjacketmeltcar |  
+| bip_39_word_no_space_8 | considersqueezewetmarchjacketmeltcarbirth |  
+| bip_39_word_no_space_9 | considersqueezewetmarchjacketmeltcarbirthhorse |  
 | bip_39_word_space_0 | ['consider', 'squeeze', 'wet', 'march', 'jacket', 'melt', 'car', 'birth', 'horse', 'property', 'enroll', 'arena'] |  
 | bip_39_word_space_1 | consider |  
 | bip_39_word_space_10 | consider squeeze wet march jacket melt car birth horse property |  

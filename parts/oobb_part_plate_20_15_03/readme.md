@@ -122,6 +122,18 @@ exhibit
 upon
 entire
 way |  
+| bip_39_word_no_space_1 | agree |  
+| bip_39_word_no_space_10 | agreelunchstudentfruitcableexhibituponentirewaysuch |  
+| bip_39_word_no_space_11 | agreelunchstudentfruitcableexhibituponentirewaysuchmountain |  
+| bip_39_word_no_space_12 | agreelunchstudentfruitcableexhibituponentirewaysuchmountainarmy |  
+| bip_39_word_no_space_2 | agreelunch |  
+| bip_39_word_no_space_3 | agreelunchstudent |  
+| bip_39_word_no_space_4 | agreelunchstudentfruit |  
+| bip_39_word_no_space_5 | agreelunchstudentfruitcable |  
+| bip_39_word_no_space_6 | agreelunchstudentfruitcableexhibit |  
+| bip_39_word_no_space_7 | agreelunchstudentfruitcableexhibitupon |  
+| bip_39_word_no_space_8 | agreelunchstudentfruitcableexhibituponentire |  
+| bip_39_word_no_space_9 | agreelunchstudentfruitcableexhibituponentireway |  
 | bip_39_word_space_0 | ['agree', 'lunch', 'student', 'fruit', 'cable', 'exhibit', 'upon', 'entire', 'way', 'such', 'mountain', 'army'] |  
 | bip_39_word_space_1 | agree |  
 | bip_39_word_space_10 | agree lunch student fruit cable exhibit upon entire way such |  

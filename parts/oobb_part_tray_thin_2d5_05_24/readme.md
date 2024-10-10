@@ -122,6 +122,18 @@ empower
 fuel
 island
 suspect |  
+| bip_39_word_no_space_1 | tower |  
+| bip_39_word_no_space_10 | towerfatheramateurarterodeempowerfuelislandsuspectdance |  
+| bip_39_word_no_space_11 | towerfatheramateurarterodeempowerfuelislandsuspectdancetraffic |  
+| bip_39_word_no_space_12 | towerfatheramateurarterodeempowerfuelislandsuspectdancetrafficabsurd |  
+| bip_39_word_no_space_2 | towerfather |  
+| bip_39_word_no_space_3 | towerfatheramateur |  
+| bip_39_word_no_space_4 | towerfatheramateurart |  
+| bip_39_word_no_space_5 | towerfatheramateurarterode |  
+| bip_39_word_no_space_6 | towerfatheramateurarterodeempower |  
+| bip_39_word_no_space_7 | towerfatheramateurarterodeempowerfuel |  
+| bip_39_word_no_space_8 | towerfatheramateurarterodeempowerfuelisland |  
+| bip_39_word_no_space_9 | towerfatheramateurarterodeempowerfuelislandsuspect |  
 | bip_39_word_space_0 | ['tower', 'father', 'amateur', 'art', 'erode', 'empower', 'fuel', 'island', 'suspect', 'dance', 'traffic', 'absurd'] |  
 | bip_39_word_space_1 | tower |  
 | bip_39_word_space_10 | tower father amateur art erode empower fuel island suspect dance |  

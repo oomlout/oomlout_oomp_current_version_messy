@@ -122,6 +122,18 @@ couple
 update
 media
 focus |  
+| bip_39_word_no_space_1 | attend |  
+| bip_39_word_no_space_10 | attendviolinjokeenrichmerrycoupleupdatemediafocusblush |  
+| bip_39_word_no_space_11 | attendviolinjokeenrichmerrycoupleupdatemediafocusblushhotel |  
+| bip_39_word_no_space_12 | attendviolinjokeenrichmerrycoupleupdatemediafocusblushhotelartefact |  
+| bip_39_word_no_space_2 | attendviolin |  
+| bip_39_word_no_space_3 | attendviolinjoke |  
+| bip_39_word_no_space_4 | attendviolinjokeenrich |  
+| bip_39_word_no_space_5 | attendviolinjokeenrichmerry |  
+| bip_39_word_no_space_6 | attendviolinjokeenrichmerrycouple |  
+| bip_39_word_no_space_7 | attendviolinjokeenrichmerrycoupleupdate |  
+| bip_39_word_no_space_8 | attendviolinjokeenrichmerrycoupleupdatemedia |  
+| bip_39_word_no_space_9 | attendviolinjokeenrichmerrycoupleupdatemediafocus |  
 | bip_39_word_space_0 | ['attend', 'violin', 'joke', 'enrich', 'merry', 'couple', 'update', 'media', 'focus', 'blush', 'hotel', 'artefact'] |  
 | bip_39_word_space_1 | attend |  
 | bip_39_word_space_10 | attend violin joke enrich merry couple update media focus blush |  

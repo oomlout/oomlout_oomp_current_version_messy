@@ -122,6 +122,18 @@ mean
 region
 bracket
 drop |  
+| bip_39_word_no_space_1 | echo |  
+| bip_39_word_no_space_10 | echosupremebirdghostsomeonemeanregionbracketdropnetwork |  
+| bip_39_word_no_space_11 | echosupremebirdghostsomeonemeanregionbracketdropnetworkstone |  
+| bip_39_word_no_space_12 | echosupremebirdghostsomeonemeanregionbracketdropnetworkstonealley |  
+| bip_39_word_no_space_2 | echosupreme |  
+| bip_39_word_no_space_3 | echosupremebird |  
+| bip_39_word_no_space_4 | echosupremebirdghost |  
+| bip_39_word_no_space_5 | echosupremebirdghostsomeone |  
+| bip_39_word_no_space_6 | echosupremebirdghostsomeonemean |  
+| bip_39_word_no_space_7 | echosupremebirdghostsomeonemeanregion |  
+| bip_39_word_no_space_8 | echosupremebirdghostsomeonemeanregionbracket |  
+| bip_39_word_no_space_9 | echosupremebirdghostsomeonemeanregionbracketdrop |  
 | bip_39_word_space_0 | ['echo', 'supreme', 'bird', 'ghost', 'someone', 'mean', 'region', 'bracket', 'drop', 'network', 'stone', 'alley'] |  
 | bip_39_word_space_1 | echo |  
 | bip_39_word_space_10 | echo supreme bird ghost someone mean region bracket drop network |  

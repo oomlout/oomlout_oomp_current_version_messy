@@ -124,6 +124,18 @@ simple
 vicious
 health
 beyond |  
+| bip_39_word_no_space_1 | print |  
+| bip_39_word_no_space_10 | printcaveoutputsincerecipesimplevicioushealthbeyondwalk |  
+| bip_39_word_no_space_11 | printcaveoutputsincerecipesimplevicioushealthbeyondwalklegal |  
+| bip_39_word_no_space_12 | printcaveoutputsincerecipesimplevicioushealthbeyondwalklegalaccident |  
+| bip_39_word_no_space_2 | printcave |  
+| bip_39_word_no_space_3 | printcaveoutput |  
+| bip_39_word_no_space_4 | printcaveoutputsince |  
+| bip_39_word_no_space_5 | printcaveoutputsincerecipe |  
+| bip_39_word_no_space_6 | printcaveoutputsincerecipesimple |  
+| bip_39_word_no_space_7 | printcaveoutputsincerecipesimplevicious |  
+| bip_39_word_no_space_8 | printcaveoutputsincerecipesimplevicioushealth |  
+| bip_39_word_no_space_9 | printcaveoutputsincerecipesimplevicioushealthbeyond |  
 | bip_39_word_space_0 | ['print', 'cave', 'output', 'since', 'recipe', 'simple', 'vicious', 'health', 'beyond', 'walk', 'legal', 'accident'] |  
 | bip_39_word_space_1 | print |  
 | bip_39_word_space_10 | print cave output since recipe simple vicious health beyond walk |  

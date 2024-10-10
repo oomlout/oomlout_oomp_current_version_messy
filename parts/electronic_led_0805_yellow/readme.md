@@ -122,6 +122,18 @@ parade
 private
 craft
 enemy |  
+| bip_39_word_no_space_1 | rigid |  
+| bip_39_word_no_space_10 | rigidcupboardillnesslionsnapparadeprivatecraftenemyrely |  
+| bip_39_word_no_space_11 | rigidcupboardillnesslionsnapparadeprivatecraftenemyrelyduck |  
+| bip_39_word_no_space_12 | rigidcupboardillnesslionsnapparadeprivatecraftenemyrelyduckalarm |  
+| bip_39_word_no_space_2 | rigidcupboard |  
+| bip_39_word_no_space_3 | rigidcupboardillness |  
+| bip_39_word_no_space_4 | rigidcupboardillnesslion |  
+| bip_39_word_no_space_5 | rigidcupboardillnesslionsnap |  
+| bip_39_word_no_space_6 | rigidcupboardillnesslionsnapparade |  
+| bip_39_word_no_space_7 | rigidcupboardillnesslionsnapparadeprivate |  
+| bip_39_word_no_space_8 | rigidcupboardillnesslionsnapparadeprivatecraft |  
+| bip_39_word_no_space_9 | rigidcupboardillnesslionsnapparadeprivatecraftenemy |  
 | bip_39_word_space_0 | ['rigid', 'cupboard', 'illness', 'lion', 'snap', 'parade', 'private', 'craft', 'enemy', 'rely', 'duck', 'alarm'] |  
 | bip_39_word_space_1 | rigid |  
 | bip_39_word_space_10 | rigid cupboard illness lion snap parade private craft enemy rely |  

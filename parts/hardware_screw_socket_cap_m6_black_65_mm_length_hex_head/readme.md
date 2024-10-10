@@ -122,6 +122,18 @@ remain
 cactus
 crater
 cushion |  
+| bip_39_word_no_space_1 | bid |  
+| bip_39_word_no_space_10 | bidbuffaloexpandrotateridgeremaincactuscratercushiontattoo |  
+| bip_39_word_no_space_11 | bidbuffaloexpandrotateridgeremaincactuscratercushiontattooconduct |  
+| bip_39_word_no_space_12 | bidbuffaloexpandrotateridgeremaincactuscratercushiontattooconductantenna |  
+| bip_39_word_no_space_2 | bidbuffalo |  
+| bip_39_word_no_space_3 | bidbuffaloexpand |  
+| bip_39_word_no_space_4 | bidbuffaloexpandrotate |  
+| bip_39_word_no_space_5 | bidbuffaloexpandrotateridge |  
+| bip_39_word_no_space_6 | bidbuffaloexpandrotateridgeremain |  
+| bip_39_word_no_space_7 | bidbuffaloexpandrotateridgeremaincactus |  
+| bip_39_word_no_space_8 | bidbuffaloexpandrotateridgeremaincactuscrater |  
+| bip_39_word_no_space_9 | bidbuffaloexpandrotateridgeremaincactuscratercushion |  
 | bip_39_word_space_0 | ['bid', 'buffalo', 'expand', 'rotate', 'ridge', 'remain', 'cactus', 'crater', 'cushion', 'tattoo', 'conduct', 'antenna'] |  
 | bip_39_word_space_1 | bid |  
 | bip_39_word_space_10 | bid buffalo expand rotate ridge remain cactus crater cushion tattoo |  

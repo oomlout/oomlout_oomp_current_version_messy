@@ -122,6 +122,18 @@ twin
 athlete
 someone
 win |  
+| bip_39_word_no_space_1 | dice |  
+| bip_39_word_no_space_10 | diceshellprintsituateswitchtwinathletesomeonewinamused |  
+| bip_39_word_no_space_11 | diceshellprintsituateswitchtwinathletesomeonewinamusedscrub |  
+| bip_39_word_no_space_12 | diceshellprintsituateswitchtwinathletesomeonewinamusedscrubassault |  
+| bip_39_word_no_space_2 | diceshell |  
+| bip_39_word_no_space_3 | diceshellprint |  
+| bip_39_word_no_space_4 | diceshellprintsituate |  
+| bip_39_word_no_space_5 | diceshellprintsituateswitch |  
+| bip_39_word_no_space_6 | diceshellprintsituateswitchtwin |  
+| bip_39_word_no_space_7 | diceshellprintsituateswitchtwinathlete |  
+| bip_39_word_no_space_8 | diceshellprintsituateswitchtwinathletesomeone |  
+| bip_39_word_no_space_9 | diceshellprintsituateswitchtwinathletesomeonewin |  
 | bip_39_word_space_0 | ['dice', 'shell', 'print', 'situate', 'switch', 'twin', 'athlete', 'someone', 'win', 'amused', 'scrub', 'assault'] |  
 | bip_39_word_space_1 | dice |  
 | bip_39_word_space_10 | dice shell print situate switch twin athlete someone win amused |  

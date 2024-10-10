@@ -122,6 +122,18 @@ bachelor
 occur
 team
 frown |  
+| bip_39_word_no_space_1 | elephant |  
+| bip_39_word_no_space_10 | elephantpenaltyrhythmwingchapterbacheloroccurteamfrownnose |  
+| bip_39_word_no_space_11 | elephantpenaltyrhythmwingchapterbacheloroccurteamfrownnosemain |  
+| bip_39_word_no_space_12 | elephantpenaltyrhythmwingchapterbacheloroccurteamfrownnosemainatom |  
+| bip_39_word_no_space_2 | elephantpenalty |  
+| bip_39_word_no_space_3 | elephantpenaltyrhythm |  
+| bip_39_word_no_space_4 | elephantpenaltyrhythmwing |  
+| bip_39_word_no_space_5 | elephantpenaltyrhythmwingchapter |  
+| bip_39_word_no_space_6 | elephantpenaltyrhythmwingchapterbachelor |  
+| bip_39_word_no_space_7 | elephantpenaltyrhythmwingchapterbacheloroccur |  
+| bip_39_word_no_space_8 | elephantpenaltyrhythmwingchapterbacheloroccurteam |  
+| bip_39_word_no_space_9 | elephantpenaltyrhythmwingchapterbacheloroccurteamfrown |  
 | bip_39_word_space_0 | ['elephant', 'penalty', 'rhythm', 'wing', 'chapter', 'bachelor', 'occur', 'team', 'frown', 'nose', 'main', 'atom'] |  
 | bip_39_word_space_1 | elephant |  
 | bip_39_word_space_10 | elephant penalty rhythm wing chapter bachelor occur team frown nose |  

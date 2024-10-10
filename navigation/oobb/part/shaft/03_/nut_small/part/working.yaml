@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blade
   mom
 
   latin'
+bip_39_word_no_space_1: blade
+bip_39_word_no_space_10: bladesteakgymdiettissuereflecttacklemomlatinlanguage
+bip_39_word_no_space_11: bladesteakgymdiettissuereflecttacklemomlatinlanguagemixture
+bip_39_word_no_space_12: bladesteakgymdiettissuereflecttacklemomlatinlanguagemixturearena
+bip_39_word_no_space_2: bladesteak
+bip_39_word_no_space_3: bladesteakgym
+bip_39_word_no_space_4: bladesteakgymdiet
+bip_39_word_no_space_5: bladesteakgymdiettissue
+bip_39_word_no_space_6: bladesteakgymdiettissuereflect
+bip_39_word_no_space_7: bladesteakgymdiettissuereflecttackle
+bip_39_word_no_space_8: bladesteakgymdiettissuereflecttacklemom
+bip_39_word_no_space_9: bladesteakgymdiettissuereflecttacklemomlatin
 bip_39_word_space_0:
 - blade
 - steak

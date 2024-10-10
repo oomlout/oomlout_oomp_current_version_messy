@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'blue
   corn
 
   risk'
+bip_39_word_no_space_1: blue
+bip_39_word_no_space_10: bluesupplymazeswimmarkettwentymonstercornriskdisorder
+bip_39_word_no_space_11: bluesupplymazeswimmarkettwentymonstercornriskdisorderboard
+bip_39_word_no_space_12: bluesupplymazeswimmarkettwentymonstercornriskdisorderboardarctic
+bip_39_word_no_space_2: bluesupply
+bip_39_word_no_space_3: bluesupplymaze
+bip_39_word_no_space_4: bluesupplymazeswim
+bip_39_word_no_space_5: bluesupplymazeswimmarket
+bip_39_word_no_space_6: bluesupplymazeswimmarkettwenty
+bip_39_word_no_space_7: bluesupplymazeswimmarkettwentymonster
+bip_39_word_no_space_8: bluesupplymazeswimmarkettwentymonstercorn
+bip_39_word_no_space_9: bluesupplymazeswimmarkettwentymonstercornrisk
 bip_39_word_space_0:
 - blue
 - supply

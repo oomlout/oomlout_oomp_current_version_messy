@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'injury
   excess
 
   motor'
+bip_39_word_no_space_1: injury
+bip_39_word_no_space_10: injurystocklionallclothrejectvendorexcessmotormixture
+bip_39_word_no_space_11: injurystocklionallclothrejectvendorexcessmotormixturetarget
+bip_39_word_no_space_12: injurystocklionallclothrejectvendorexcessmotormixturetargetafford
+bip_39_word_no_space_2: injurystock
+bip_39_word_no_space_3: injurystocklion
+bip_39_word_no_space_4: injurystocklionall
+bip_39_word_no_space_5: injurystocklionallcloth
+bip_39_word_no_space_6: injurystocklionallclothreject
+bip_39_word_no_space_7: injurystocklionallclothrejectvendor
+bip_39_word_no_space_8: injurystocklionallclothrejectvendorexcess
+bip_39_word_no_space_9: injurystocklionallclothrejectvendorexcessmotor
 bip_39_word_space_0:
 - injury
 - stock

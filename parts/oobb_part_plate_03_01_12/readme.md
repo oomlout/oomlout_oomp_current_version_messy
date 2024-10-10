@@ -122,6 +122,18 @@ run
 eager
 focus
 found |  
+| bip_39_word_no_space_1 | again |  
+| bip_39_word_no_space_10 | againhorsecasinosandcancelruneagerfocusfoundbuyer |  
+| bip_39_word_no_space_11 | againhorsecasinosandcancelruneagerfocusfoundbuyerperfect |  
+| bip_39_word_no_space_12 | againhorsecasinosandcancelruneagerfocusfoundbuyerperfectanimal |  
+| bip_39_word_no_space_2 | againhorse |  
+| bip_39_word_no_space_3 | againhorsecasino |  
+| bip_39_word_no_space_4 | againhorsecasinosand |  
+| bip_39_word_no_space_5 | againhorsecasinosandcancel |  
+| bip_39_word_no_space_6 | againhorsecasinosandcancelrun |  
+| bip_39_word_no_space_7 | againhorsecasinosandcancelruneager |  
+| bip_39_word_no_space_8 | againhorsecasinosandcancelruneagerfocus |  
+| bip_39_word_no_space_9 | againhorsecasinosandcancelruneagerfocusfound |  
 | bip_39_word_space_0 | ['again', 'horse', 'casino', 'sand', 'cancel', 'run', 'eager', 'focus', 'found', 'buyer', 'perfect', 'animal'] |  
 | bip_39_word_space_1 | again |  
 | bip_39_word_space_10 | again horse casino sand cancel run eager focus found buyer |  

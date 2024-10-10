@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'dog
   employ
 
   carbon'
+bip_39_word_no_space_1: dog
+bip_39_word_no_space_10: dogcreditsweartrueholidayfaultsuitemploycarbonpotato
+bip_39_word_no_space_11: dogcreditsweartrueholidayfaultsuitemploycarbonpotatoauto
+bip_39_word_no_space_12: dogcreditsweartrueholidayfaultsuitemploycarbonpotatoautoafraid
+bip_39_word_no_space_2: dogcredit
+bip_39_word_no_space_3: dogcreditswear
+bip_39_word_no_space_4: dogcreditsweartrue
+bip_39_word_no_space_5: dogcreditsweartrueholiday
+bip_39_word_no_space_6: dogcreditsweartrueholidayfault
+bip_39_word_no_space_7: dogcreditsweartrueholidayfaultsuit
+bip_39_word_no_space_8: dogcreditsweartrueholidayfaultsuitemploy
+bip_39_word_no_space_9: dogcreditsweartrueholidayfaultsuitemploycarbon
 bip_39_word_space_0:
 - dog
 - credit

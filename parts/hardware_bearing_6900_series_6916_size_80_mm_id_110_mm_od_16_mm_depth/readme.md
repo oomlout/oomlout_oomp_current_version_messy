@@ -122,6 +122,18 @@ physical
 meadow
 result
 armed |  
+| bip_39_word_no_space_1 | mass |  
+| bip_39_word_no_space_10 | massjoyhuntkiwilifephysicalmeadowresultarmedginger |  
+| bip_39_word_no_space_11 | massjoyhuntkiwilifephysicalmeadowresultarmedgingertarget |  
+| bip_39_word_no_space_12 | massjoyhuntkiwilifephysicalmeadowresultarmedgingertargetadmit |  
+| bip_39_word_no_space_2 | massjoy |  
+| bip_39_word_no_space_3 | massjoyhunt |  
+| bip_39_word_no_space_4 | massjoyhuntkiwi |  
+| bip_39_word_no_space_5 | massjoyhuntkiwilife |  
+| bip_39_word_no_space_6 | massjoyhuntkiwilifephysical |  
+| bip_39_word_no_space_7 | massjoyhuntkiwilifephysicalmeadow |  
+| bip_39_word_no_space_8 | massjoyhuntkiwilifephysicalmeadowresult |  
+| bip_39_word_no_space_9 | massjoyhuntkiwilifephysicalmeadowresultarmed |  
 | bip_39_word_space_0 | ['mass', 'joy', 'hunt', 'kiwi', 'life', 'physical', 'meadow', 'result', 'armed', 'ginger', 'target', 'admit'] |  
 | bip_39_word_space_1 | mass |  
 | bip_39_word_space_10 | mass joy hunt kiwi life physical meadow result armed ginger |  

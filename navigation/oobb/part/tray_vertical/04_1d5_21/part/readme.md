@@ -122,6 +122,18 @@ pudding
 enrich
 month
 chaos |  
+| bip_39_word_no_space_1 | wrestle |  
+| bip_39_word_no_space_10 | wrestlefunnyforkhintranchpuddingenrichmonthchaosmixed |  
+| bip_39_word_no_space_11 | wrestlefunnyforkhintranchpuddingenrichmonthchaosmixedbrief |  
+| bip_39_word_no_space_12 | wrestlefunnyforkhintranchpuddingenrichmonthchaosmixedbriefabuse |  
+| bip_39_word_no_space_2 | wrestlefunny |  
+| bip_39_word_no_space_3 | wrestlefunnyfork |  
+| bip_39_word_no_space_4 | wrestlefunnyforkhint |  
+| bip_39_word_no_space_5 | wrestlefunnyforkhintranch |  
+| bip_39_word_no_space_6 | wrestlefunnyforkhintranchpudding |  
+| bip_39_word_no_space_7 | wrestlefunnyforkhintranchpuddingenrich |  
+| bip_39_word_no_space_8 | wrestlefunnyforkhintranchpuddingenrichmonth |  
+| bip_39_word_no_space_9 | wrestlefunnyforkhintranchpuddingenrichmonthchaos |  
 | bip_39_word_space_0 | ['wrestle', 'funny', 'fork', 'hint', 'ranch', 'pudding', 'enrich', 'month', 'chaos', 'mixed', 'brief', 'abuse'] |  
 | bip_39_word_space_1 | wrestle |  
 | bip_39_word_space_10 | wrestle funny fork hint ranch pudding enrich month chaos mixed |  

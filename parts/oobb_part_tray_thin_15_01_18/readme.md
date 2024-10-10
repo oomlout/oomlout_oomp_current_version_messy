@@ -122,6 +122,18 @@ hurry
 buddy
 song
 silent |  
+| bip_39_word_no_space_1 | chalk |  
+| bip_39_word_no_space_10 | chalkprettyholidaycagelecturehurrybuddysongsilentspray |  
+| bip_39_word_no_space_11 | chalkprettyholidaycagelecturehurrybuddysongsilentsprayinstall |  
+| bip_39_word_no_space_12 | chalkprettyholidaycagelecturehurrybuddysongsilentsprayinstallarmed |  
+| bip_39_word_no_space_2 | chalkpretty |  
+| bip_39_word_no_space_3 | chalkprettyholiday |  
+| bip_39_word_no_space_4 | chalkprettyholidaycage |  
+| bip_39_word_no_space_5 | chalkprettyholidaycagelecture |  
+| bip_39_word_no_space_6 | chalkprettyholidaycagelecturehurry |  
+| bip_39_word_no_space_7 | chalkprettyholidaycagelecturehurrybuddy |  
+| bip_39_word_no_space_8 | chalkprettyholidaycagelecturehurrybuddysong |  
+| bip_39_word_no_space_9 | chalkprettyholidaycagelecturehurrybuddysongsilent |  
 | bip_39_word_space_0 | ['chalk', 'pretty', 'holiday', 'cage', 'lecture', 'hurry', 'buddy', 'song', 'silent', 'spray', 'install', 'armed'] |  
 | bip_39_word_space_1 | chalk |  
 | bip_39_word_space_10 | chalk pretty holiday cage lecture hurry buddy song silent spray |  

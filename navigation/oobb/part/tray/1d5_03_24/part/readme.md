@@ -122,6 +122,18 @@ tiger
 arrest
 pill
 fluid |  
+| bip_39_word_no_space_1 | describe |  
+| bip_39_word_no_space_10 | describevacuumgrassinsectcoppertigerarrestpillfluiddeer |  
+| bip_39_word_no_space_11 | describevacuumgrassinsectcoppertigerarrestpillfluiddeerhip |  
+| bip_39_word_no_space_12 | describevacuumgrassinsectcoppertigerarrestpillfluiddeerhipartwork |  
+| bip_39_word_no_space_2 | describevacuum |  
+| bip_39_word_no_space_3 | describevacuumgrass |  
+| bip_39_word_no_space_4 | describevacuumgrassinsect |  
+| bip_39_word_no_space_5 | describevacuumgrassinsectcopper |  
+| bip_39_word_no_space_6 | describevacuumgrassinsectcoppertiger |  
+| bip_39_word_no_space_7 | describevacuumgrassinsectcoppertigerarrest |  
+| bip_39_word_no_space_8 | describevacuumgrassinsectcoppertigerarrestpill |  
+| bip_39_word_no_space_9 | describevacuumgrassinsectcoppertigerarrestpillfluid |  
 | bip_39_word_space_0 | ['describe', 'vacuum', 'grass', 'insect', 'copper', 'tiger', 'arrest', 'pill', 'fluid', 'deer', 'hip', 'artwork'] |  
 | bip_39_word_space_1 | describe |  
 | bip_39_word_space_10 | describe vacuum grass insect copper tiger arrest pill fluid deer |  

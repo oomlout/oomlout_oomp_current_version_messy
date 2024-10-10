@@ -122,6 +122,18 @@ clean
 still
 merge
 pledge |  
+| bip_39_word_no_space_1 | term |  
+| bip_39_word_no_space_10 | termbehindmarriageidentifyvelvetcleanstillmergepledgevibrant |  
+| bip_39_word_no_space_11 | termbehindmarriageidentifyvelvetcleanstillmergepledgevibrantchef |  
+| bip_39_word_no_space_12 | termbehindmarriageidentifyvelvetcleanstillmergepledgevibrantchefair |  
+| bip_39_word_no_space_2 | termbehind |  
+| bip_39_word_no_space_3 | termbehindmarriage |  
+| bip_39_word_no_space_4 | termbehindmarriageidentify |  
+| bip_39_word_no_space_5 | termbehindmarriageidentifyvelvet |  
+| bip_39_word_no_space_6 | termbehindmarriageidentifyvelvetclean |  
+| bip_39_word_no_space_7 | termbehindmarriageidentifyvelvetcleanstill |  
+| bip_39_word_no_space_8 | termbehindmarriageidentifyvelvetcleanstillmerge |  
+| bip_39_word_no_space_9 | termbehindmarriageidentifyvelvetcleanstillmergepledge |  
 | bip_39_word_space_0 | ['term', 'behind', 'marriage', 'identify', 'velvet', 'clean', 'still', 'merge', 'pledge', 'vibrant', 'chef', 'air'] |  
 | bip_39_word_space_1 | term |  
 | bip_39_word_space_10 | term behind marriage identify velvet clean still merge pledge vibrant |  

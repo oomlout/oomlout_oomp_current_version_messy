@@ -122,6 +122,18 @@ method
 rain
 agree
 bachelor |  
+| bip_39_word_no_space_1 | roof |  
+| bip_39_word_no_space_10 | rooftrickgruntneglectsickmethodrainagreebachelortiny |  
+| bip_39_word_no_space_11 | rooftrickgruntneglectsickmethodrainagreebachelortinygate |  
+| bip_39_word_no_space_12 | rooftrickgruntneglectsickmethodrainagreebachelortinygateangle |  
+| bip_39_word_no_space_2 | rooftrick |  
+| bip_39_word_no_space_3 | rooftrickgrunt |  
+| bip_39_word_no_space_4 | rooftrickgruntneglect |  
+| bip_39_word_no_space_5 | rooftrickgruntneglectsick |  
+| bip_39_word_no_space_6 | rooftrickgruntneglectsickmethod |  
+| bip_39_word_no_space_7 | rooftrickgruntneglectsickmethodrain |  
+| bip_39_word_no_space_8 | rooftrickgruntneglectsickmethodrainagree |  
+| bip_39_word_no_space_9 | rooftrickgruntneglectsickmethodrainagreebachelor |  
 | bip_39_word_space_0 | ['roof', 'trick', 'grunt', 'neglect', 'sick', 'method', 'rain', 'agree', 'bachelor', 'tiny', 'gate', 'angle'] |  
 | bip_39_word_space_1 | roof |  
 | bip_39_word_space_10 | roof trick grunt neglect sick method rain agree bachelor tiny |  

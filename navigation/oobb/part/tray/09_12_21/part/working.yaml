@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'detect
   among
 
   civil'
+bip_39_word_no_space_1: detect
+bip_39_word_no_space_10: detectbuyerhumblediaryvoidtriggerriskamongcivillatin
+bip_39_word_no_space_11: detectbuyerhumblediaryvoidtriggerriskamongcivillatinchimney
+bip_39_word_no_space_12: detectbuyerhumblediaryvoidtriggerriskamongcivillatinchimneyarea
+bip_39_word_no_space_2: detectbuyer
+bip_39_word_no_space_3: detectbuyerhumble
+bip_39_word_no_space_4: detectbuyerhumblediary
+bip_39_word_no_space_5: detectbuyerhumblediaryvoid
+bip_39_word_no_space_6: detectbuyerhumblediaryvoidtrigger
+bip_39_word_no_space_7: detectbuyerhumblediaryvoidtriggerrisk
+bip_39_word_no_space_8: detectbuyerhumblediaryvoidtriggerriskamong
+bip_39_word_no_space_9: detectbuyerhumblediaryvoidtriggerriskamongcivil
 bip_39_word_space_0:
 - detect
 - buyer

@@ -122,6 +122,18 @@ hill
 laptop
 ritual
 guess |  
+| bip_39_word_no_space_1 | demise |  
+| bip_39_word_no_space_10 | demisecushionplayquestionwrestlehilllaptopritualguessspell |  
+| bip_39_word_no_space_11 | demisecushionplayquestionwrestlehilllaptopritualguessspellmother |  
+| bip_39_word_no_space_12 | demisecushionplayquestionwrestlehilllaptopritualguessspellmotheragree |  
+| bip_39_word_no_space_2 | demisecushion |  
+| bip_39_word_no_space_3 | demisecushionplay |  
+| bip_39_word_no_space_4 | demisecushionplayquestion |  
+| bip_39_word_no_space_5 | demisecushionplayquestionwrestle |  
+| bip_39_word_no_space_6 | demisecushionplayquestionwrestlehill |  
+| bip_39_word_no_space_7 | demisecushionplayquestionwrestlehilllaptop |  
+| bip_39_word_no_space_8 | demisecushionplayquestionwrestlehilllaptopritual |  
+| bip_39_word_no_space_9 | demisecushionplayquestionwrestlehilllaptopritualguess |  
 | bip_39_word_space_0 | ['demise', 'cushion', 'play', 'question', 'wrestle', 'hill', 'laptop', 'ritual', 'guess', 'spell', 'mother', 'agree'] |  
 | bip_39_word_space_1 | demise |  
 | bip_39_word_space_10 | demise cushion play question wrestle hill laptop ritual guess spell |  

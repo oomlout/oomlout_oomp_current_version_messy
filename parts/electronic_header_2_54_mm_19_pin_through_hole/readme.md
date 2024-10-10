@@ -122,6 +122,18 @@ soldier
 antenna
 disorder
 glimpse |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftrackdutystatesirensoldierantennadisorderglimpsefuture |  
+| bip_39_word_no_space_11 | giftrackdutystatesirensoldierantennadisorderglimpsefuturetennis |  
+| bip_39_word_no_space_12 | giftrackdutystatesirensoldierantennadisorderglimpsefuturetennisaccount |  
+| bip_39_word_no_space_2 | giftrack |  
+| bip_39_word_no_space_3 | giftrackduty |  
+| bip_39_word_no_space_4 | giftrackdutystate |  
+| bip_39_word_no_space_5 | giftrackdutystatesiren |  
+| bip_39_word_no_space_6 | giftrackdutystatesirensoldier |  
+| bip_39_word_no_space_7 | giftrackdutystatesirensoldierantenna |  
+| bip_39_word_no_space_8 | giftrackdutystatesirensoldierantennadisorder |  
+| bip_39_word_no_space_9 | giftrackdutystatesirensoldierantennadisorderglimpse |  
 | bip_39_word_space_0 | ['gift', 'rack', 'duty', 'state', 'siren', 'soldier', 'antenna', 'disorder', 'glimpse', 'future', 'tennis', 'account'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift rack duty state siren soldier antenna disorder glimpse future |  

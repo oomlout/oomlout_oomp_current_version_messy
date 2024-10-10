@@ -122,6 +122,18 @@ beef
 range
 pave
 model |  
+| bip_39_word_no_space_1 | cash |  
+| bip_39_word_no_space_10 | cashpeanutschoolorphanwhatbeefrangepavemodelkangaroo |  
+| bip_39_word_no_space_11 | cashpeanutschoolorphanwhatbeefrangepavemodelkangaroosolid |  
+| bip_39_word_no_space_12 | cashpeanutschoolorphanwhatbeefrangepavemodelkangaroosolidangry |  
+| bip_39_word_no_space_2 | cashpeanut |  
+| bip_39_word_no_space_3 | cashpeanutschool |  
+| bip_39_word_no_space_4 | cashpeanutschoolorphan |  
+| bip_39_word_no_space_5 | cashpeanutschoolorphanwhat |  
+| bip_39_word_no_space_6 | cashpeanutschoolorphanwhatbeef |  
+| bip_39_word_no_space_7 | cashpeanutschoolorphanwhatbeefrange |  
+| bip_39_word_no_space_8 | cashpeanutschoolorphanwhatbeefrangepave |  
+| bip_39_word_no_space_9 | cashpeanutschoolorphanwhatbeefrangepavemodel |  
 | bip_39_word_space_0 | ['cash', 'peanut', 'school', 'orphan', 'what', 'beef', 'range', 'pave', 'model', 'kangaroo', 'solid', 'angry'] |  
 | bip_39_word_space_1 | cash |  
 | bip_39_word_space_10 | cash peanut school orphan what beef range pave model kangaroo |  

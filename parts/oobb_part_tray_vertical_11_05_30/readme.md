@@ -122,6 +122,18 @@ lottery
 enact
 rabbit
 peanut |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietsciencesessionviolinbroccolilotteryenactrabbitpeanutpurity |  
+| bip_39_word_no_space_11 | dietsciencesessionviolinbroccolilotteryenactrabbitpeanutpuritysection |  
+| bip_39_word_no_space_12 | dietsciencesessionviolinbroccolilotteryenactrabbitpeanutpuritysectionassume |  
+| bip_39_word_no_space_2 | dietscience |  
+| bip_39_word_no_space_3 | dietsciencesession |  
+| bip_39_word_no_space_4 | dietsciencesessionviolin |  
+| bip_39_word_no_space_5 | dietsciencesessionviolinbroccoli |  
+| bip_39_word_no_space_6 | dietsciencesessionviolinbroccolilottery |  
+| bip_39_word_no_space_7 | dietsciencesessionviolinbroccolilotteryenact |  
+| bip_39_word_no_space_8 | dietsciencesessionviolinbroccolilotteryenactrabbit |  
+| bip_39_word_no_space_9 | dietsciencesessionviolinbroccolilotteryenactrabbitpeanut |  
 | bip_39_word_space_0 | ['diet', 'science', 'session', 'violin', 'broccoli', 'lottery', 'enact', 'rabbit', 'peanut', 'purity', 'section', 'assume'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet science session violin broccoli lottery enact rabbit peanut purity |  

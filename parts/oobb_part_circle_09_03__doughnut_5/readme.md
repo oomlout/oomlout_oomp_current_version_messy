@@ -122,6 +122,18 @@ put
 capital
 stereo
 point |  
+| bip_39_word_no_space_1 | citizen |  
+| bip_39_word_no_space_10 | citizenunfaircheapamazingaspectputcapitalstereopointshy |  
+| bip_39_word_no_space_11 | citizenunfaircheapamazingaspectputcapitalstereopointshyframe |  
+| bip_39_word_no_space_12 | citizenunfaircheapamazingaspectputcapitalstereopointshyframealone |  
+| bip_39_word_no_space_2 | citizenunfair |  
+| bip_39_word_no_space_3 | citizenunfaircheap |  
+| bip_39_word_no_space_4 | citizenunfaircheapamazing |  
+| bip_39_word_no_space_5 | citizenunfaircheapamazingaspect |  
+| bip_39_word_no_space_6 | citizenunfaircheapamazingaspectput |  
+| bip_39_word_no_space_7 | citizenunfaircheapamazingaspectputcapital |  
+| bip_39_word_no_space_8 | citizenunfaircheapamazingaspectputcapitalstereo |  
+| bip_39_word_no_space_9 | citizenunfaircheapamazingaspectputcapitalstereopoint |  
 | bip_39_word_space_0 | ['citizen', 'unfair', 'cheap', 'amazing', 'aspect', 'put', 'capital', 'stereo', 'point', 'shy', 'frame', 'alone'] |  
 | bip_39_word_space_1 | citizen |  
 | bip_39_word_space_10 | citizen unfair cheap amazing aspect put capital stereo point shy |  

@@ -122,6 +122,18 @@ cloth
 quality
 moral
 census |  
+| bip_39_word_no_space_1 | vanish |  
+| bip_39_word_no_space_10 | vanishsimplecomfortaffordcanclothqualitymoralcensusimpact |  
+| bip_39_word_no_space_11 | vanishsimplecomfortaffordcanclothqualitymoralcensusimpactmule |  
+| bip_39_word_no_space_12 | vanishsimplecomfortaffordcanclothqualitymoralcensusimpactmulearrow |  
+| bip_39_word_no_space_2 | vanishsimple |  
+| bip_39_word_no_space_3 | vanishsimplecomfort |  
+| bip_39_word_no_space_4 | vanishsimplecomfortafford |  
+| bip_39_word_no_space_5 | vanishsimplecomfortaffordcan |  
+| bip_39_word_no_space_6 | vanishsimplecomfortaffordcancloth |  
+| bip_39_word_no_space_7 | vanishsimplecomfortaffordcanclothquality |  
+| bip_39_word_no_space_8 | vanishsimplecomfortaffordcanclothqualitymoral |  
+| bip_39_word_no_space_9 | vanishsimplecomfortaffordcanclothqualitymoralcensus |  
 | bip_39_word_space_0 | ['vanish', 'simple', 'comfort', 'afford', 'can', 'cloth', 'quality', 'moral', 'census', 'impact', 'mule', 'arrow'] |  
 | bip_39_word_space_1 | vanish |  
 | bip_39_word_space_10 | vanish simple comfort afford can cloth quality moral census impact |  

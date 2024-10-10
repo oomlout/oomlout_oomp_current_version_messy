@@ -122,6 +122,18 @@ ensure
 filter
 alcohol
 tobacco |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltclutchactressregionfantasyensurefilteralcoholtobacconation |  
+| bip_39_word_no_space_11 | beltclutchactressregionfantasyensurefilteralcoholtobacconationsenior |  
+| bip_39_word_no_space_12 | beltclutchactressregionfantasyensurefilteralcoholtobacconationseniorapology |  
+| bip_39_word_no_space_2 | beltclutch |  
+| bip_39_word_no_space_3 | beltclutchactress |  
+| bip_39_word_no_space_4 | beltclutchactressregion |  
+| bip_39_word_no_space_5 | beltclutchactressregionfantasy |  
+| bip_39_word_no_space_6 | beltclutchactressregionfantasyensure |  
+| bip_39_word_no_space_7 | beltclutchactressregionfantasyensurefilter |  
+| bip_39_word_no_space_8 | beltclutchactressregionfantasyensurefilteralcohol |  
+| bip_39_word_no_space_9 | beltclutchactressregionfantasyensurefilteralcoholtobacco |  
 | bip_39_word_space_0 | ['belt', 'clutch', 'actress', 'region', 'fantasy', 'ensure', 'filter', 'alcohol', 'tobacco', 'nation', 'senior', 'apology'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt clutch actress region fantasy ensure filter alcohol tobacco nation |  

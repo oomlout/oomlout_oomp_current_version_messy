@@ -122,6 +122,18 @@ grab
 code
 roof
 cheap |  
+| bip_39_word_no_space_1 | crane |  
+| bip_39_word_no_space_10 | craneexercisefinalsevendaygrabcoderoofcheapposition |  
+| bip_39_word_no_space_11 | craneexercisefinalsevendaygrabcoderoofcheappositionchoose |  
+| bip_39_word_no_space_12 | craneexercisefinalsevendaygrabcoderoofcheappositionchooseamazing |  
+| bip_39_word_no_space_2 | craneexercise |  
+| bip_39_word_no_space_3 | craneexercisefinal |  
+| bip_39_word_no_space_4 | craneexercisefinalseven |  
+| bip_39_word_no_space_5 | craneexercisefinalsevenday |  
+| bip_39_word_no_space_6 | craneexercisefinalsevendaygrab |  
+| bip_39_word_no_space_7 | craneexercisefinalsevendaygrabcode |  
+| bip_39_word_no_space_8 | craneexercisefinalsevendaygrabcoderoof |  
+| bip_39_word_no_space_9 | craneexercisefinalsevendaygrabcoderoofcheap |  
 | bip_39_word_space_0 | ['crane', 'exercise', 'final', 'seven', 'day', 'grab', 'code', 'roof', 'cheap', 'position', 'choose', 'amazing'] |  
 | bip_39_word_space_1 | crane |  
 | bip_39_word_space_10 | crane exercise final seven day grab code roof cheap position |  

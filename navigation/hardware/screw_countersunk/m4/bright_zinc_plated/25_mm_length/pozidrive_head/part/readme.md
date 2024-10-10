@@ -122,6 +122,18 @@ skull
 tuition
 grocery
 lesson |  
+| bip_39_word_no_space_1 | better |  
+| bip_39_word_no_space_10 | betterdryfiscalanchortailskulltuitiongrocerylessonusual |  
+| bip_39_word_no_space_11 | betterdryfiscalanchortailskulltuitiongrocerylessonusualrecall |  
+| bip_39_word_no_space_12 | betterdryfiscalanchortailskulltuitiongrocerylessonusualrecallasthma |  
+| bip_39_word_no_space_2 | betterdry |  
+| bip_39_word_no_space_3 | betterdryfiscal |  
+| bip_39_word_no_space_4 | betterdryfiscalanchor |  
+| bip_39_word_no_space_5 | betterdryfiscalanchortail |  
+| bip_39_word_no_space_6 | betterdryfiscalanchortailskull |  
+| bip_39_word_no_space_7 | betterdryfiscalanchortailskulltuition |  
+| bip_39_word_no_space_8 | betterdryfiscalanchortailskulltuitiongrocery |  
+| bip_39_word_no_space_9 | betterdryfiscalanchortailskulltuitiongrocerylesson |  
 | bip_39_word_space_0 | ['better', 'dry', 'fiscal', 'anchor', 'tail', 'skull', 'tuition', 'grocery', 'lesson', 'usual', 'recall', 'asthma'] |  
 | bip_39_word_space_1 | better |  
 | bip_39_word_space_10 | better dry fiscal anchor tail skull tuition grocery lesson usual |  

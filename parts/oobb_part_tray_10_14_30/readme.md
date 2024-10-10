@@ -122,6 +122,18 @@ ethics
 coil
 toy
 snake |  
+| bip_39_word_no_space_1 | lemon |  
+| bip_39_word_no_space_10 | lemonfiscalmodifyowntideethicscoiltoysnakesmart |  
+| bip_39_word_no_space_11 | lemonfiscalmodifyowntideethicscoiltoysnakesmartindoor |  
+| bip_39_word_no_space_12 | lemonfiscalmodifyowntideethicscoiltoysnakesmartindooraccount |  
+| bip_39_word_no_space_2 | lemonfiscal |  
+| bip_39_word_no_space_3 | lemonfiscalmodify |  
+| bip_39_word_no_space_4 | lemonfiscalmodifyown |  
+| bip_39_word_no_space_5 | lemonfiscalmodifyowntide |  
+| bip_39_word_no_space_6 | lemonfiscalmodifyowntideethics |  
+| bip_39_word_no_space_7 | lemonfiscalmodifyowntideethicscoil |  
+| bip_39_word_no_space_8 | lemonfiscalmodifyowntideethicscoiltoy |  
+| bip_39_word_no_space_9 | lemonfiscalmodifyowntideethicscoiltoysnake |  
 | bip_39_word_space_0 | ['lemon', 'fiscal', 'modify', 'own', 'tide', 'ethics', 'coil', 'toy', 'snake', 'smart', 'indoor', 'account'] |  
 | bip_39_word_space_1 | lemon |  
 | bip_39_word_space_10 | lemon fiscal modify own tide ethics coil toy snake smart |  

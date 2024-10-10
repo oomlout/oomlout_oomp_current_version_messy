@@ -122,6 +122,18 @@ jazz
 symbol
 amateur
 polar |  
+| bip_39_word_no_space_1 | orphan |  
+| bip_39_word_no_space_10 | orphanswearcrazyskullscatterjazzsymbolamateurpolarwrap |  
+| bip_39_word_no_space_11 | orphanswearcrazyskullscatterjazzsymbolamateurpolarwrapany |  
+| bip_39_word_no_space_12 | orphanswearcrazyskullscatterjazzsymbolamateurpolarwrapanyarmor |  
+| bip_39_word_no_space_2 | orphanswear |  
+| bip_39_word_no_space_3 | orphanswearcrazy |  
+| bip_39_word_no_space_4 | orphanswearcrazyskull |  
+| bip_39_word_no_space_5 | orphanswearcrazyskullscatter |  
+| bip_39_word_no_space_6 | orphanswearcrazyskullscatterjazz |  
+| bip_39_word_no_space_7 | orphanswearcrazyskullscatterjazzsymbol |  
+| bip_39_word_no_space_8 | orphanswearcrazyskullscatterjazzsymbolamateur |  
+| bip_39_word_no_space_9 | orphanswearcrazyskullscatterjazzsymbolamateurpolar |  
 | bip_39_word_space_0 | ['orphan', 'swear', 'crazy', 'skull', 'scatter', 'jazz', 'symbol', 'amateur', 'polar', 'wrap', 'any', 'armor'] |  
 | bip_39_word_space_1 | orphan |  
 | bip_39_word_space_10 | orphan swear crazy skull scatter jazz symbol amateur polar wrap |  

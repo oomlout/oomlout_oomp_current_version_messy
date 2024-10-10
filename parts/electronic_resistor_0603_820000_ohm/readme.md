@@ -122,6 +122,18 @@ share
 daring
 illness
 mercy |  
+| bip_39_word_no_space_1 | gloom |  
+| bip_39_word_no_space_10 | gloomhighoxygenwiselicensesharedaringillnessmercyright |  
+| bip_39_word_no_space_11 | gloomhighoxygenwiselicensesharedaringillnessmercyrightproject |  
+| bip_39_word_no_space_12 | gloomhighoxygenwiselicensesharedaringillnessmercyrightprojectauto |  
+| bip_39_word_no_space_2 | gloomhigh |  
+| bip_39_word_no_space_3 | gloomhighoxygen |  
+| bip_39_word_no_space_4 | gloomhighoxygenwise |  
+| bip_39_word_no_space_5 | gloomhighoxygenwiselicense |  
+| bip_39_word_no_space_6 | gloomhighoxygenwiselicenseshare |  
+| bip_39_word_no_space_7 | gloomhighoxygenwiselicensesharedaring |  
+| bip_39_word_no_space_8 | gloomhighoxygenwiselicensesharedaringillness |  
+| bip_39_word_no_space_9 | gloomhighoxygenwiselicensesharedaringillnessmercy |  
 | bip_39_word_space_0 | ['gloom', 'high', 'oxygen', 'wise', 'license', 'share', 'daring', 'illness', 'mercy', 'right', 'project', 'auto'] |  
 | bip_39_word_space_1 | gloom |  
 | bip_39_word_space_10 | gloom high oxygen wise license share daring illness mercy right |  

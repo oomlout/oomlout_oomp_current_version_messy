@@ -122,6 +122,18 @@ layer
 desk
 into
 mule |  
+| bip_39_word_no_space_1 | tortoise |  
+| bip_39_word_no_space_10 | tortoisesorryyoungangerbutterlayerdeskintomulesenior |  
+| bip_39_word_no_space_11 | tortoisesorryyoungangerbutterlayerdeskintomuleseniorarrest |  
+| bip_39_word_no_space_12 | tortoisesorryyoungangerbutterlayerdeskintomuleseniorarrestathlete |  
+| bip_39_word_no_space_2 | tortoisesorry |  
+| bip_39_word_no_space_3 | tortoisesorryyoung |  
+| bip_39_word_no_space_4 | tortoisesorryyounganger |  
+| bip_39_word_no_space_5 | tortoisesorryyoungangerbutter |  
+| bip_39_word_no_space_6 | tortoisesorryyoungangerbutterlayer |  
+| bip_39_word_no_space_7 | tortoisesorryyoungangerbutterlayerdesk |  
+| bip_39_word_no_space_8 | tortoisesorryyoungangerbutterlayerdeskinto |  
+| bip_39_word_no_space_9 | tortoisesorryyoungangerbutterlayerdeskintomule |  
 | bip_39_word_space_0 | ['tortoise', 'sorry', 'young', 'anger', 'butter', 'layer', 'desk', 'into', 'mule', 'senior', 'arrest', 'athlete'] |  
 | bip_39_word_space_1 | tortoise |  
 | bip_39_word_space_10 | tortoise sorry young anger butter layer desk into mule senior |  

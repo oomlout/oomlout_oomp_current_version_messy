@@ -122,6 +122,18 @@ tornado
 before
 decorate
 jelly |  
+| bip_39_word_no_space_1 | nephew |  
+| bip_39_word_no_space_10 | nephewthrivepovertycoilearthtornadobeforedecoratejellynotice |  
+| bip_39_word_no_space_11 | nephewthrivepovertycoilearthtornadobeforedecoratejellynoticewasp |  
+| bip_39_word_no_space_12 | nephewthrivepovertycoilearthtornadobeforedecoratejellynoticewaspask |  
+| bip_39_word_no_space_2 | nephewthrive |  
+| bip_39_word_no_space_3 | nephewthrivepoverty |  
+| bip_39_word_no_space_4 | nephewthrivepovertycoil |  
+| bip_39_word_no_space_5 | nephewthrivepovertycoilearth |  
+| bip_39_word_no_space_6 | nephewthrivepovertycoilearthtornado |  
+| bip_39_word_no_space_7 | nephewthrivepovertycoilearthtornadobefore |  
+| bip_39_word_no_space_8 | nephewthrivepovertycoilearthtornadobeforedecorate |  
+| bip_39_word_no_space_9 | nephewthrivepovertycoilearthtornadobeforedecoratejelly |  
 | bip_39_word_space_0 | ['nephew', 'thrive', 'poverty', 'coil', 'earth', 'tornado', 'before', 'decorate', 'jelly', 'notice', 'wasp', 'ask'] |  
 | bip_39_word_space_1 | nephew |  
 | bip_39_word_space_10 | nephew thrive poverty coil earth tornado before decorate jelly notice |  

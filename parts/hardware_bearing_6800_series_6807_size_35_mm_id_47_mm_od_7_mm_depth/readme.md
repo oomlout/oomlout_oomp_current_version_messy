@@ -122,6 +122,18 @@ calm
 input
 mean
 jeans |  
+| bip_39_word_no_space_1 | gift |  
+| bip_39_word_no_space_10 | giftpagecollectswitchleadercalminputmeanjeanspromote |  
+| bip_39_word_no_space_11 | giftpagecollectswitchleadercalminputmeanjeanspromotecircle |  
+| bip_39_word_no_space_12 | giftpagecollectswitchleadercalminputmeanjeanspromotecircleauto |  
+| bip_39_word_no_space_2 | giftpage |  
+| bip_39_word_no_space_3 | giftpagecollect |  
+| bip_39_word_no_space_4 | giftpagecollectswitch |  
+| bip_39_word_no_space_5 | giftpagecollectswitchleader |  
+| bip_39_word_no_space_6 | giftpagecollectswitchleadercalm |  
+| bip_39_word_no_space_7 | giftpagecollectswitchleadercalminput |  
+| bip_39_word_no_space_8 | giftpagecollectswitchleadercalminputmean |  
+| bip_39_word_no_space_9 | giftpagecollectswitchleadercalminputmeanjeans |  
 | bip_39_word_space_0 | ['gift', 'page', 'collect', 'switch', 'leader', 'calm', 'input', 'mean', 'jeans', 'promote', 'circle', 'auto'] |  
 | bip_39_word_space_1 | gift |  
 | bip_39_word_space_10 | gift page collect switch leader calm input mean jeans promote |  

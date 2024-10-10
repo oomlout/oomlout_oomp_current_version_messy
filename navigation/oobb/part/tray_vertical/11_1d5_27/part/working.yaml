@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'bar
   mystery
 
   share'
+bip_39_word_no_space_1: bar
+bip_39_word_no_space_10: barcrumbletotalfixtrumpethardalienmysterysharewin
+bip_39_word_no_space_11: barcrumbletotalfixtrumpethardalienmysterysharewinwrist
+bip_39_word_no_space_12: barcrumbletotalfixtrumpethardalienmysterysharewinwristaccount
+bip_39_word_no_space_2: barcrumble
+bip_39_word_no_space_3: barcrumbletotal
+bip_39_word_no_space_4: barcrumbletotalfix
+bip_39_word_no_space_5: barcrumbletotalfixtrumpet
+bip_39_word_no_space_6: barcrumbletotalfixtrumpethard
+bip_39_word_no_space_7: barcrumbletotalfixtrumpethardalien
+bip_39_word_no_space_8: barcrumbletotalfixtrumpethardalienmystery
+bip_39_word_no_space_9: barcrumbletotalfixtrumpethardalienmysteryshare
 bip_39_word_space_0:
 - bar
 - crumble

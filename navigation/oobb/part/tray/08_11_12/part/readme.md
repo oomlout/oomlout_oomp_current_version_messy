@@ -122,6 +122,18 @@ force
 adjust
 insect
 open |  
+| bip_39_word_no_space_1 | shadow |  
+| bip_39_word_no_space_10 | shadowaroundquotelotterywaspforceadjustinsectopenjar |  
+| bip_39_word_no_space_11 | shadowaroundquotelotterywaspforceadjustinsectopenjarsight |  
+| bip_39_word_no_space_12 | shadowaroundquotelotterywaspforceadjustinsectopenjarsightapology |  
+| bip_39_word_no_space_2 | shadowaround |  
+| bip_39_word_no_space_3 | shadowaroundquote |  
+| bip_39_word_no_space_4 | shadowaroundquotelottery |  
+| bip_39_word_no_space_5 | shadowaroundquotelotterywasp |  
+| bip_39_word_no_space_6 | shadowaroundquotelotterywaspforce |  
+| bip_39_word_no_space_7 | shadowaroundquotelotterywaspforceadjust |  
+| bip_39_word_no_space_8 | shadowaroundquotelotterywaspforceadjustinsect |  
+| bip_39_word_no_space_9 | shadowaroundquotelotterywaspforceadjustinsectopen |  
 | bip_39_word_space_0 | ['shadow', 'around', 'quote', 'lottery', 'wasp', 'force', 'adjust', 'insect', 'open', 'jar', 'sight', 'apology'] |  
 | bip_39_word_space_1 | shadow |  
 | bip_39_word_space_10 | shadow around quote lottery wasp force adjust insect open jar |  

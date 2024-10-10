@@ -122,6 +122,18 @@ repair
 rescue
 reunion
 small |  
+| bip_39_word_no_space_1 | defense |  
+| bip_39_word_no_space_10 | defenseaffairraindrinkpullrepairrescuereunionsmallcurrent |  
+| bip_39_word_no_space_11 | defenseaffairraindrinkpullrepairrescuereunionsmallcurrentwear |  
+| bip_39_word_no_space_12 | defenseaffairraindrinkpullrepairrescuereunionsmallcurrentwearaccess |  
+| bip_39_word_no_space_2 | defenseaffair |  
+| bip_39_word_no_space_3 | defenseaffairrain |  
+| bip_39_word_no_space_4 | defenseaffairraindrink |  
+| bip_39_word_no_space_5 | defenseaffairraindrinkpull |  
+| bip_39_word_no_space_6 | defenseaffairraindrinkpullrepair |  
+| bip_39_word_no_space_7 | defenseaffairraindrinkpullrepairrescue |  
+| bip_39_word_no_space_8 | defenseaffairraindrinkpullrepairrescuereunion |  
+| bip_39_word_no_space_9 | defenseaffairraindrinkpullrepairrescuereunionsmall |  
 | bip_39_word_space_0 | ['defense', 'affair', 'rain', 'drink', 'pull', 'repair', 'rescue', 'reunion', 'small', 'current', 'wear', 'access'] |  
 | bip_39_word_space_1 | defense |  
 | bip_39_word_space_10 | defense affair rain drink pull repair rescue reunion small current |  

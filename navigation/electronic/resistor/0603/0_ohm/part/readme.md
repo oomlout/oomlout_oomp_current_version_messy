@@ -122,6 +122,18 @@ truck
 buddy
 lake
 wasp |  
+| bip_39_word_no_space_1 | obvious |  
+| bip_39_word_no_space_10 | obviousgiantassumegifthundredtruckbuddylakewaspupon |  
+| bip_39_word_no_space_11 | obviousgiantassumegifthundredtruckbuddylakewaspupondivide |  
+| bip_39_word_no_space_12 | obviousgiantassumegifthundredtruckbuddylakewaspupondivideaffair |  
+| bip_39_word_no_space_2 | obviousgiant |  
+| bip_39_word_no_space_3 | obviousgiantassume |  
+| bip_39_word_no_space_4 | obviousgiantassumegift |  
+| bip_39_word_no_space_5 | obviousgiantassumegifthundred |  
+| bip_39_word_no_space_6 | obviousgiantassumegifthundredtruck |  
+| bip_39_word_no_space_7 | obviousgiantassumegifthundredtruckbuddy |  
+| bip_39_word_no_space_8 | obviousgiantassumegifthundredtruckbuddylake |  
+| bip_39_word_no_space_9 | obviousgiantassumegifthundredtruckbuddylakewasp |  
 | bip_39_word_space_0 | ['obvious', 'giant', 'assume', 'gift', 'hundred', 'truck', 'buddy', 'lake', 'wasp', 'upon', 'divide', 'affair'] |  
 | bip_39_word_space_1 | obvious |  
 | bip_39_word_space_10 | obvious giant assume gift hundred truck buddy lake wasp upon |  

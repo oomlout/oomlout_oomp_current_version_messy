@@ -122,6 +122,18 @@ culture
 shine
 ozone
 armor |  
+| bip_39_word_no_space_1 | measure |  
+| bip_39_word_no_space_10 | measuremergeswapsnapnumbercultureshineozonearmorlimb |  
+| bip_39_word_no_space_11 | measuremergeswapsnapnumbercultureshineozonearmorlimblimb |  
+| bip_39_word_no_space_12 | measuremergeswapsnapnumbercultureshineozonearmorlimblimbabove |  
+| bip_39_word_no_space_2 | measuremerge |  
+| bip_39_word_no_space_3 | measuremergeswap |  
+| bip_39_word_no_space_4 | measuremergeswapsnap |  
+| bip_39_word_no_space_5 | measuremergeswapsnapnumber |  
+| bip_39_word_no_space_6 | measuremergeswapsnapnumberculture |  
+| bip_39_word_no_space_7 | measuremergeswapsnapnumbercultureshine |  
+| bip_39_word_no_space_8 | measuremergeswapsnapnumbercultureshineozone |  
+| bip_39_word_no_space_9 | measuremergeswapsnapnumbercultureshineozonearmor |  
 | bip_39_word_space_0 | ['measure', 'merge', 'swap', 'snap', 'number', 'culture', 'shine', 'ozone', 'armor', 'limb', 'limb', 'above'] |  
 | bip_39_word_space_1 | measure |  
 | bip_39_word_space_10 | measure merge swap snap number culture shine ozone armor limb |  

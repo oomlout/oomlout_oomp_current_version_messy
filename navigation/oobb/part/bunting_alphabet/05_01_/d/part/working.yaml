@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pass
   enforce
 
   worry'
+bip_39_word_no_space_1: pass
+bip_39_word_no_space_10: passfilerabbitgaragesleepdivorcehireenforceworrypudding
+bip_39_word_no_space_11: passfilerabbitgaragesleepdivorcehireenforceworrypuddingjewel
+bip_39_word_no_space_12: passfilerabbitgaragesleepdivorcehireenforceworrypuddingjewelannual
+bip_39_word_no_space_2: passfile
+bip_39_word_no_space_3: passfilerabbit
+bip_39_word_no_space_4: passfilerabbitgarage
+bip_39_word_no_space_5: passfilerabbitgaragesleep
+bip_39_word_no_space_6: passfilerabbitgaragesleepdivorce
+bip_39_word_no_space_7: passfilerabbitgaragesleepdivorcehire
+bip_39_word_no_space_8: passfilerabbitgaragesleepdivorcehireenforce
+bip_39_word_no_space_9: passfilerabbitgaragesleepdivorcehireenforceworry
 bip_39_word_space_0:
 - pass
 - file

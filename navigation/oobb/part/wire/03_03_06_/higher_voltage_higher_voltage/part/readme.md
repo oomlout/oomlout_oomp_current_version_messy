@@ -122,6 +122,18 @@ proud
 drift
 neglect
 industry |  
+| bip_39_word_no_space_1 | insane |  
+| bip_39_word_no_space_10 | insanesunnyparkdiaryappleprouddriftneglectindustryfarm |  
+| bip_39_word_no_space_11 | insanesunnyparkdiaryappleprouddriftneglectindustryfarmgiggle |  
+| bip_39_word_no_space_12 | insanesunnyparkdiaryappleprouddriftneglectindustryfarmgiggleadapt |  
+| bip_39_word_no_space_2 | insanesunny |  
+| bip_39_word_no_space_3 | insanesunnypark |  
+| bip_39_word_no_space_4 | insanesunnyparkdiary |  
+| bip_39_word_no_space_5 | insanesunnyparkdiaryapple |  
+| bip_39_word_no_space_6 | insanesunnyparkdiaryappleproud |  
+| bip_39_word_no_space_7 | insanesunnyparkdiaryappleprouddrift |  
+| bip_39_word_no_space_8 | insanesunnyparkdiaryappleprouddriftneglect |  
+| bip_39_word_no_space_9 | insanesunnyparkdiaryappleprouddriftneglectindustry |  
 | bip_39_word_space_0 | ['insane', 'sunny', 'park', 'diary', 'apple', 'proud', 'drift', 'neglect', 'industry', 'farm', 'giggle', 'adapt'] |  
 | bip_39_word_space_1 | insane |  
 | bip_39_word_space_10 | insane sunny park diary apple proud drift neglect industry farm |  

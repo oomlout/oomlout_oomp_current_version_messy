@@ -122,6 +122,18 @@ rely
 purity
 advance
 rate |  
+| bip_39_word_no_space_1 | man |  
+| bip_39_word_no_space_10 | manlemonvotetennispointrelypurityadvancerateclaw |  
+| bip_39_word_no_space_11 | manlemonvotetennispointrelypurityadvancerateclawcasino |  
+| bip_39_word_no_space_12 | manlemonvotetennispointrelypurityadvancerateclawcasinoaccident |  
+| bip_39_word_no_space_2 | manlemon |  
+| bip_39_word_no_space_3 | manlemonvote |  
+| bip_39_word_no_space_4 | manlemonvotetennis |  
+| bip_39_word_no_space_5 | manlemonvotetennispoint |  
+| bip_39_word_no_space_6 | manlemonvotetennispointrely |  
+| bip_39_word_no_space_7 | manlemonvotetennispointrelypurity |  
+| bip_39_word_no_space_8 | manlemonvotetennispointrelypurityadvance |  
+| bip_39_word_no_space_9 | manlemonvotetennispointrelypurityadvancerate |  
 | bip_39_word_space_0 | ['man', 'lemon', 'vote', 'tennis', 'point', 'rely', 'purity', 'advance', 'rate', 'claw', 'casino', 'accident'] |  
 | bip_39_word_space_1 | man |  
 | bip_39_word_space_10 | man lemon vote tennis point rely purity advance rate claw |  

@@ -122,6 +122,18 @@ like
 deny
 coach
 hurdle |  
+| bip_39_word_no_space_1 | connect |  
+| bip_39_word_no_space_10 | connectbroccoliretreatemergehockeylikedenycoachhurdlegrape |  
+| bip_39_word_no_space_11 | connectbroccoliretreatemergehockeylikedenycoachhurdlegrapecat |  
+| bip_39_word_no_space_12 | connectbroccoliretreatemergehockeylikedenycoachhurdlegrapecatagent |  
+| bip_39_word_no_space_2 | connectbroccoli |  
+| bip_39_word_no_space_3 | connectbroccoliretreat |  
+| bip_39_word_no_space_4 | connectbroccoliretreatemerge |  
+| bip_39_word_no_space_5 | connectbroccoliretreatemergehockey |  
+| bip_39_word_no_space_6 | connectbroccoliretreatemergehockeylike |  
+| bip_39_word_no_space_7 | connectbroccoliretreatemergehockeylikedeny |  
+| bip_39_word_no_space_8 | connectbroccoliretreatemergehockeylikedenycoach |  
+| bip_39_word_no_space_9 | connectbroccoliretreatemergehockeylikedenycoachhurdle |  
 | bip_39_word_space_0 | ['connect', 'broccoli', 'retreat', 'emerge', 'hockey', 'like', 'deny', 'coach', 'hurdle', 'grape', 'cat', 'agent'] |  
 | bip_39_word_space_1 | connect |  
 | bip_39_word_space_10 | connect broccoli retreat emerge hockey like deny coach hurdle grape |  

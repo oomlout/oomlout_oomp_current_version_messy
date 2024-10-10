@@ -122,6 +122,18 @@ advance
 knife
 lunar
 stove |  
+| bip_39_word_no_space_1 | auction |  
+| bip_39_word_no_space_10 | auctionstadiumschemesugarrenewadvanceknifelunarstovemirror |  
+| bip_39_word_no_space_11 | auctionstadiumschemesugarrenewadvanceknifelunarstovemirrorinner |  
+| bip_39_word_no_space_12 | auctionstadiumschemesugarrenewadvanceknifelunarstovemirrorinneraspect |  
+| bip_39_word_no_space_2 | auctionstadium |  
+| bip_39_word_no_space_3 | auctionstadiumscheme |  
+| bip_39_word_no_space_4 | auctionstadiumschemesugar |  
+| bip_39_word_no_space_5 | auctionstadiumschemesugarrenew |  
+| bip_39_word_no_space_6 | auctionstadiumschemesugarrenewadvance |  
+| bip_39_word_no_space_7 | auctionstadiumschemesugarrenewadvanceknife |  
+| bip_39_word_no_space_8 | auctionstadiumschemesugarrenewadvanceknifelunar |  
+| bip_39_word_no_space_9 | auctionstadiumschemesugarrenewadvanceknifelunarstove |  
 | bip_39_word_space_0 | ['auction', 'stadium', 'scheme', 'sugar', 'renew', 'advance', 'knife', 'lunar', 'stove', 'mirror', 'inner', 'aspect'] |  
 | bip_39_word_space_1 | auction |  
 | bip_39_word_space_10 | auction stadium scheme sugar renew advance knife lunar stove mirror |  

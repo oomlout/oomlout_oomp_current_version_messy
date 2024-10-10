@@ -122,6 +122,18 @@ achieve
 crouch
 have
 bitter |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlcornrequirefloattailachievecrouchhavebittertransfer |  
+| bip_39_word_no_space_11 | crawlcornrequirefloattailachievecrouchhavebittertransfersustain |  
+| bip_39_word_no_space_12 | crawlcornrequirefloattailachievecrouchhavebittertransfersustainanchor |  
+| bip_39_word_no_space_2 | crawlcorn |  
+| bip_39_word_no_space_3 | crawlcornrequire |  
+| bip_39_word_no_space_4 | crawlcornrequirefloat |  
+| bip_39_word_no_space_5 | crawlcornrequirefloattail |  
+| bip_39_word_no_space_6 | crawlcornrequirefloattailachieve |  
+| bip_39_word_no_space_7 | crawlcornrequirefloattailachievecrouch |  
+| bip_39_word_no_space_8 | crawlcornrequirefloattailachievecrouchhave |  
+| bip_39_word_no_space_9 | crawlcornrequirefloattailachievecrouchhavebitter |  
 | bip_39_word_space_0 | ['crawl', 'corn', 'require', 'float', 'tail', 'achieve', 'crouch', 'have', 'bitter', 'transfer', 'sustain', 'anchor'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl corn require float tail achieve crouch have bitter transfer |  

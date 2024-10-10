@@ -122,6 +122,18 @@ output
 scheme
 surge
 tube |  
+| bip_39_word_no_space_1 | travel |  
+| bip_39_word_no_space_10 | traveldancereadychimneyfebruaryoutputschemesurgetubethought |  
+| bip_39_word_no_space_11 | traveldancereadychimneyfebruaryoutputschemesurgetubethoughtfix |  
+| bip_39_word_no_space_12 | traveldancereadychimneyfebruaryoutputschemesurgetubethoughtfixasthma |  
+| bip_39_word_no_space_2 | traveldance |  
+| bip_39_word_no_space_3 | traveldanceready |  
+| bip_39_word_no_space_4 | traveldancereadychimney |  
+| bip_39_word_no_space_5 | traveldancereadychimneyfebruary |  
+| bip_39_word_no_space_6 | traveldancereadychimneyfebruaryoutput |  
+| bip_39_word_no_space_7 | traveldancereadychimneyfebruaryoutputscheme |  
+| bip_39_word_no_space_8 | traveldancereadychimneyfebruaryoutputschemesurge |  
+| bip_39_word_no_space_9 | traveldancereadychimneyfebruaryoutputschemesurgetube |  
 | bip_39_word_space_0 | ['travel', 'dance', 'ready', 'chimney', 'february', 'output', 'scheme', 'surge', 'tube', 'thought', 'fix', 'asthma'] |  
 | bip_39_word_space_1 | travel |  
 | bip_39_word_space_10 | travel dance ready chimney february output scheme surge tube thought |  

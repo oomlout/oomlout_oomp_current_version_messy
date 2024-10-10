@@ -122,6 +122,18 @@ debris
 rigid
 popular
 balcony |  
+| bip_39_word_no_space_1 | subject |  
+| bip_39_word_no_space_10 | subjectmountainspacepatrolfinddebrisrigidpopularbalconymother |  
+| bip_39_word_no_space_11 | subjectmountainspacepatrolfinddebrisrigidpopularbalconymotherwhip |  
+| bip_39_word_no_space_12 | subjectmountainspacepatrolfinddebrisrigidpopularbalconymotherwhipactor |  
+| bip_39_word_no_space_2 | subjectmountain |  
+| bip_39_word_no_space_3 | subjectmountainspace |  
+| bip_39_word_no_space_4 | subjectmountainspacepatrol |  
+| bip_39_word_no_space_5 | subjectmountainspacepatrolfind |  
+| bip_39_word_no_space_6 | subjectmountainspacepatrolfinddebris |  
+| bip_39_word_no_space_7 | subjectmountainspacepatrolfinddebrisrigid |  
+| bip_39_word_no_space_8 | subjectmountainspacepatrolfinddebrisrigidpopular |  
+| bip_39_word_no_space_9 | subjectmountainspacepatrolfinddebrisrigidpopularbalcony |  
 | bip_39_word_space_0 | ['subject', 'mountain', 'space', 'patrol', 'find', 'debris', 'rigid', 'popular', 'balcony', 'mother', 'whip', 'actor'] |  
 | bip_39_word_space_1 | subject |  
 | bip_39_word_space_10 | subject mountain space patrol find debris rigid popular balcony mother |  

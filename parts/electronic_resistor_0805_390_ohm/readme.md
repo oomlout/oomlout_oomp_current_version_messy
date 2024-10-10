@@ -122,6 +122,18 @@ sick
 twelve
 fatigue
 enable |  
+| bip_39_word_no_space_1 | belt |  
+| bip_39_word_no_space_10 | beltsupremegentlecheappumpkinsicktwelvefatigueenableparent |  
+| bip_39_word_no_space_11 | beltsupremegentlecheappumpkinsicktwelvefatigueenableparentvacuum |  
+| bip_39_word_no_space_12 | beltsupremegentlecheappumpkinsicktwelvefatigueenableparentvacuumair |  
+| bip_39_word_no_space_2 | beltsupreme |  
+| bip_39_word_no_space_3 | beltsupremegentle |  
+| bip_39_word_no_space_4 | beltsupremegentlecheap |  
+| bip_39_word_no_space_5 | beltsupremegentlecheappumpkin |  
+| bip_39_word_no_space_6 | beltsupremegentlecheappumpkinsick |  
+| bip_39_word_no_space_7 | beltsupremegentlecheappumpkinsicktwelve |  
+| bip_39_word_no_space_8 | beltsupremegentlecheappumpkinsicktwelvefatigue |  
+| bip_39_word_no_space_9 | beltsupremegentlecheappumpkinsicktwelvefatigueenable |  
 | bip_39_word_space_0 | ['belt', 'supreme', 'gentle', 'cheap', 'pumpkin', 'sick', 'twelve', 'fatigue', 'enable', 'parent', 'vacuum', 'air'] |  
 | bip_39_word_space_1 | belt |  
 | bip_39_word_space_10 | belt supreme gentle cheap pumpkin sick twelve fatigue enable parent |  

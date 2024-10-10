@@ -122,6 +122,18 @@ sadness
 rose
 foil
 despair |  
+| bip_39_word_no_space_1 | magnet |  
+| bip_39_word_no_space_10 | magnetlakeordinaryhalfsistersadnessrosefoildespairglory |  
+| bip_39_word_no_space_11 | magnetlakeordinaryhalfsistersadnessrosefoildespairglorycompany |  
+| bip_39_word_no_space_12 | magnetlakeordinaryhalfsistersadnessrosefoildespairglorycompanyavocado |  
+| bip_39_word_no_space_2 | magnetlake |  
+| bip_39_word_no_space_3 | magnetlakeordinary |  
+| bip_39_word_no_space_4 | magnetlakeordinaryhalf |  
+| bip_39_word_no_space_5 | magnetlakeordinaryhalfsister |  
+| bip_39_word_no_space_6 | magnetlakeordinaryhalfsistersadness |  
+| bip_39_word_no_space_7 | magnetlakeordinaryhalfsistersadnessrose |  
+| bip_39_word_no_space_8 | magnetlakeordinaryhalfsistersadnessrosefoil |  
+| bip_39_word_no_space_9 | magnetlakeordinaryhalfsistersadnessrosefoildespair |  
 | bip_39_word_space_0 | ['magnet', 'lake', 'ordinary', 'half', 'sister', 'sadness', 'rose', 'foil', 'despair', 'glory', 'company', 'avocado'] |  
 | bip_39_word_space_1 | magnet |  
 | bip_39_word_space_10 | magnet lake ordinary half sister sadness rose foil despair glory |  

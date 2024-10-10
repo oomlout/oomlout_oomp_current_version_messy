@@ -122,6 +122,18 @@ latin
 knock
 cricket
 improve |  
+| bip_39_word_no_space_1 | assume |  
+| bip_39_word_no_space_10 | assumecardfetchcraftstairslatinknockcricketimproveworld |  
+| bip_39_word_no_space_11 | assumecardfetchcraftstairslatinknockcricketimproveworldprison |  
+| bip_39_word_no_space_12 | assumecardfetchcraftstairslatinknockcricketimproveworldprisonacoustic |  
+| bip_39_word_no_space_2 | assumecard |  
+| bip_39_word_no_space_3 | assumecardfetch |  
+| bip_39_word_no_space_4 | assumecardfetchcraft |  
+| bip_39_word_no_space_5 | assumecardfetchcraftstairs |  
+| bip_39_word_no_space_6 | assumecardfetchcraftstairslatin |  
+| bip_39_word_no_space_7 | assumecardfetchcraftstairslatinknock |  
+| bip_39_word_no_space_8 | assumecardfetchcraftstairslatinknockcricket |  
+| bip_39_word_no_space_9 | assumecardfetchcraftstairslatinknockcricketimprove |  
 | bip_39_word_space_0 | ['assume', 'card', 'fetch', 'craft', 'stairs', 'latin', 'knock', 'cricket', 'improve', 'world', 'prison', 'acoustic'] |  
 | bip_39_word_space_1 | assume |  
 | bip_39_word_space_10 | assume card fetch craft stairs latin knock cricket improve world |  

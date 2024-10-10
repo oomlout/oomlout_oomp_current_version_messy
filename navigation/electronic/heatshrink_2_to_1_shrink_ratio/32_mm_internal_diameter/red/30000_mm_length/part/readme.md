@@ -122,6 +122,18 @@ blame
 olive
 speak
 clay |  
+| bip_39_word_no_space_1 | emerge |  
+| bip_39_word_no_space_10 | emergetotalbeefclinicarrowblameolivespeakclaymean |  
+| bip_39_word_no_space_11 | emergetotalbeefclinicarrowblameolivespeakclaymeanuphold |  
+| bip_39_word_no_space_12 | emergetotalbeefclinicarrowblameolivespeakclaymeanupholdattend |  
+| bip_39_word_no_space_2 | emergetotal |  
+| bip_39_word_no_space_3 | emergetotalbeef |  
+| bip_39_word_no_space_4 | emergetotalbeefclinic |  
+| bip_39_word_no_space_5 | emergetotalbeefclinicarrow |  
+| bip_39_word_no_space_6 | emergetotalbeefclinicarrowblame |  
+| bip_39_word_no_space_7 | emergetotalbeefclinicarrowblameolive |  
+| bip_39_word_no_space_8 | emergetotalbeefclinicarrowblameolivespeak |  
+| bip_39_word_no_space_9 | emergetotalbeefclinicarrowblameolivespeakclay |  
 | bip_39_word_space_0 | ['emerge', 'total', 'beef', 'clinic', 'arrow', 'blame', 'olive', 'speak', 'clay', 'mean', 'uphold', 'attend'] |  
 | bip_39_word_space_1 | emerge |  
 | bip_39_word_space_10 | emerge total beef clinic arrow blame olive speak clay mean |  

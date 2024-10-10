@@ -122,6 +122,18 @@ organ
 pluck
 license
 alley |  
+| bip_39_word_no_space_1 | bread |  
+| bip_39_word_no_space_10 | breadtilttwinwidthcivilorganplucklicensealleyfuture |  
+| bip_39_word_no_space_11 | breadtilttwinwidthcivilorganplucklicensealleyfuturesecond |  
+| bip_39_word_no_space_12 | breadtilttwinwidthcivilorganplucklicensealleyfuturesecondalert |  
+| bip_39_word_no_space_2 | breadtilt |  
+| bip_39_word_no_space_3 | breadtilttwin |  
+| bip_39_word_no_space_4 | breadtilttwinwidth |  
+| bip_39_word_no_space_5 | breadtilttwinwidthcivil |  
+| bip_39_word_no_space_6 | breadtilttwinwidthcivilorgan |  
+| bip_39_word_no_space_7 | breadtilttwinwidthcivilorganpluck |  
+| bip_39_word_no_space_8 | breadtilttwinwidthcivilorganplucklicense |  
+| bip_39_word_no_space_9 | breadtilttwinwidthcivilorganplucklicensealley |  
 | bip_39_word_space_0 | ['bread', 'tilt', 'twin', 'width', 'civil', 'organ', 'pluck', 'license', 'alley', 'future', 'second', 'alert'] |  
 | bip_39_word_space_1 | bread |  
 | bip_39_word_space_10 | bread tilt twin width civil organ pluck license alley future |  

@@ -122,6 +122,18 @@ cash
 helmet
 autumn
 fix |  
+| bip_39_word_no_space_1 | tragic |  
+| bip_39_word_no_space_10 | tragicdialreflectcropvisitcashhelmetautumnfixdawn |  
+| bip_39_word_no_space_11 | tragicdialreflectcropvisitcashhelmetautumnfixdawnthrow |  
+| bip_39_word_no_space_12 | tragicdialreflectcropvisitcashhelmetautumnfixdawnthrowadapt |  
+| bip_39_word_no_space_2 | tragicdial |  
+| bip_39_word_no_space_3 | tragicdialreflect |  
+| bip_39_word_no_space_4 | tragicdialreflectcrop |  
+| bip_39_word_no_space_5 | tragicdialreflectcropvisit |  
+| bip_39_word_no_space_6 | tragicdialreflectcropvisitcash |  
+| bip_39_word_no_space_7 | tragicdialreflectcropvisitcashhelmet |  
+| bip_39_word_no_space_8 | tragicdialreflectcropvisitcashhelmetautumn |  
+| bip_39_word_no_space_9 | tragicdialreflectcropvisitcashhelmetautumnfix |  
 | bip_39_word_space_0 | ['tragic', 'dial', 'reflect', 'crop', 'visit', 'cash', 'helmet', 'autumn', 'fix', 'dawn', 'throw', 'adapt'] |  
 | bip_39_word_space_1 | tragic |  
 | bip_39_word_space_10 | tragic dial reflect crop visit cash helmet autumn fix dawn |  

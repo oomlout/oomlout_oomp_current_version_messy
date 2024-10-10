@@ -122,6 +122,18 @@ couple
 work
 chapter
 cash |  
+| bip_39_word_no_space_1 | laugh |  
+| bip_39_word_no_space_10 | laughchiefaheadflooroftencoupleworkchaptercashdress |  
+| bip_39_word_no_space_11 | laughchiefaheadflooroftencoupleworkchaptercashdressfatal |  
+| bip_39_word_no_space_12 | laughchiefaheadflooroftencoupleworkchaptercashdressfatalability |  
+| bip_39_word_no_space_2 | laughchief |  
+| bip_39_word_no_space_3 | laughchiefahead |  
+| bip_39_word_no_space_4 | laughchiefaheadfloor |  
+| bip_39_word_no_space_5 | laughchiefaheadflooroften |  
+| bip_39_word_no_space_6 | laughchiefaheadflooroftencouple |  
+| bip_39_word_no_space_7 | laughchiefaheadflooroftencouplework |  
+| bip_39_word_no_space_8 | laughchiefaheadflooroftencoupleworkchapter |  
+| bip_39_word_no_space_9 | laughchiefaheadflooroftencoupleworkchaptercash |  
 | bip_39_word_space_0 | ['laugh', 'chief', 'ahead', 'floor', 'often', 'couple', 'work', 'chapter', 'cash', 'dress', 'fatal', 'ability'] |  
 | bip_39_word_space_1 | laugh |  
 | bip_39_word_space_10 | laugh chief ahead floor often couple work chapter cash dress |  

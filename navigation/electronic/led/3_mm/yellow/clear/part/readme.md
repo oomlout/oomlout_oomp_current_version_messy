@@ -122,6 +122,18 @@ real
 issue
 same
 video |  
+| bip_39_word_no_space_1 | february |  
+| bip_39_word_no_space_10 | februaryopinionstyledepartelderrealissuesamevideogas |  
+| bip_39_word_no_space_11 | februaryopinionstyledepartelderrealissuesamevideogasimmune |  
+| bip_39_word_no_space_12 | februaryopinionstyledepartelderrealissuesamevideogasimmuneanother |  
+| bip_39_word_no_space_2 | februaryopinion |  
+| bip_39_word_no_space_3 | februaryopinionstyle |  
+| bip_39_word_no_space_4 | februaryopinionstyledepart |  
+| bip_39_word_no_space_5 | februaryopinionstyledepartelder |  
+| bip_39_word_no_space_6 | februaryopinionstyledepartelderreal |  
+| bip_39_word_no_space_7 | februaryopinionstyledepartelderrealissue |  
+| bip_39_word_no_space_8 | februaryopinionstyledepartelderrealissuesame |  
+| bip_39_word_no_space_9 | februaryopinionstyledepartelderrealissuesamevideo |  
 | bip_39_word_space_0 | ['february', 'opinion', 'style', 'depart', 'elder', 'real', 'issue', 'same', 'video', 'gas', 'immune', 'another'] |  
 | bip_39_word_space_1 | february |  
 | bip_39_word_space_10 | february opinion style depart elder real issue same video gas |  

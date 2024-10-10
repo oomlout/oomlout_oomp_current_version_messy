@@ -122,6 +122,18 @@ jeans
 outdoor
 crush
 length |  
+| bip_39_word_no_space_1 | adjust |  
+| bip_39_word_no_space_10 | adjusttowercompanyforceintojeansoutdoorcrushlengthtube |  
+| bip_39_word_no_space_11 | adjusttowercompanyforceintojeansoutdoorcrushlengthtubedetail |  
+| bip_39_word_no_space_12 | adjusttowercompanyforceintojeansoutdoorcrushlengthtubedetailanxiety |  
+| bip_39_word_no_space_2 | adjusttower |  
+| bip_39_word_no_space_3 | adjusttowercompany |  
+| bip_39_word_no_space_4 | adjusttowercompanyforce |  
+| bip_39_word_no_space_5 | adjusttowercompanyforceinto |  
+| bip_39_word_no_space_6 | adjusttowercompanyforceintojeans |  
+| bip_39_word_no_space_7 | adjusttowercompanyforceintojeansoutdoor |  
+| bip_39_word_no_space_8 | adjusttowercompanyforceintojeansoutdoorcrush |  
+| bip_39_word_no_space_9 | adjusttowercompanyforceintojeansoutdoorcrushlength |  
 | bip_39_word_space_0 | ['adjust', 'tower', 'company', 'force', 'into', 'jeans', 'outdoor', 'crush', 'length', 'tube', 'detail', 'anxiety'] |  
 | bip_39_word_space_1 | adjust |  
 | bip_39_word_space_10 | adjust tower company force into jeans outdoor crush length tube |  

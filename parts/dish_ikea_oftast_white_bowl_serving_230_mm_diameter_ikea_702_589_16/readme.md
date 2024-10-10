@@ -122,6 +122,18 @@ claw
 shy
 thumb
 candy |  
+| bip_39_word_no_space_1 | cover |  
+| bip_39_word_no_space_10 | coveroxygenshopsouthsalmonclawshythumbcandybadge |  
+| bip_39_word_no_space_11 | coveroxygenshopsouthsalmonclawshythumbcandybadgenest |  
+| bip_39_word_no_space_12 | coveroxygenshopsouthsalmonclawshythumbcandybadgenestacquire |  
+| bip_39_word_no_space_2 | coveroxygen |  
+| bip_39_word_no_space_3 | coveroxygenshop |  
+| bip_39_word_no_space_4 | coveroxygenshopsouth |  
+| bip_39_word_no_space_5 | coveroxygenshopsouthsalmon |  
+| bip_39_word_no_space_6 | coveroxygenshopsouthsalmonclaw |  
+| bip_39_word_no_space_7 | coveroxygenshopsouthsalmonclawshy |  
+| bip_39_word_no_space_8 | coveroxygenshopsouthsalmonclawshythumb |  
+| bip_39_word_no_space_9 | coveroxygenshopsouthsalmonclawshythumbcandy |  
 | bip_39_word_space_0 | ['cover', 'oxygen', 'shop', 'south', 'salmon', 'claw', 'shy', 'thumb', 'candy', 'badge', 'nest', 'acquire'] |  
 | bip_39_word_space_1 | cover |  
 | bip_39_word_space_10 | cover oxygen shop south salmon claw shy thumb candy badge |  

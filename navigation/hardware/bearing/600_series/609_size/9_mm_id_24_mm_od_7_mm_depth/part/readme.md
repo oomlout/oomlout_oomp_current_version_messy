@@ -122,6 +122,18 @@ clip
 bachelor
 spare
 earn |  
+| bip_39_word_no_space_1 | chunk |  
+| bip_39_word_no_space_10 | chunkunablevitalphysicalreadyclipbachelorspareearnfriend |  
+| bip_39_word_no_space_11 | chunkunablevitalphysicalreadyclipbachelorspareearnfriendsilk |  
+| bip_39_word_no_space_12 | chunkunablevitalphysicalreadyclipbachelorspareearnfriendsilkaddress |  
+| bip_39_word_no_space_2 | chunkunable |  
+| bip_39_word_no_space_3 | chunkunablevital |  
+| bip_39_word_no_space_4 | chunkunablevitalphysical |  
+| bip_39_word_no_space_5 | chunkunablevitalphysicalready |  
+| bip_39_word_no_space_6 | chunkunablevitalphysicalreadyclip |  
+| bip_39_word_no_space_7 | chunkunablevitalphysicalreadyclipbachelor |  
+| bip_39_word_no_space_8 | chunkunablevitalphysicalreadyclipbachelorspare |  
+| bip_39_word_no_space_9 | chunkunablevitalphysicalreadyclipbachelorspareearn |  
 | bip_39_word_space_0 | ['chunk', 'unable', 'vital', 'physical', 'ready', 'clip', 'bachelor', 'spare', 'earn', 'friend', 'silk', 'address'] |  
 | bip_39_word_space_1 | chunk |  
 | bip_39_word_space_10 | chunk unable vital physical ready clip bachelor spare earn friend |  

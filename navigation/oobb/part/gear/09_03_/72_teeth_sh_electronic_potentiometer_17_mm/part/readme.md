@@ -122,6 +122,18 @@ cake
 travel
 foster
 into |  
+| bip_39_word_no_space_1 | dynamic |  
+| bip_39_word_no_space_10 | dynamicdilemmadepositmimicdoorcaketravelfosterintoboost |  
+| bip_39_word_no_space_11 | dynamicdilemmadepositmimicdoorcaketravelfosterintoboostgenuine |  
+| bip_39_word_no_space_12 | dynamicdilemmadepositmimicdoorcaketravelfosterintoboostgenuineapple |  
+| bip_39_word_no_space_2 | dynamicdilemma |  
+| bip_39_word_no_space_3 | dynamicdilemmadeposit |  
+| bip_39_word_no_space_4 | dynamicdilemmadepositmimic |  
+| bip_39_word_no_space_5 | dynamicdilemmadepositmimicdoor |  
+| bip_39_word_no_space_6 | dynamicdilemmadepositmimicdoorcake |  
+| bip_39_word_no_space_7 | dynamicdilemmadepositmimicdoorcaketravel |  
+| bip_39_word_no_space_8 | dynamicdilemmadepositmimicdoorcaketravelfoster |  
+| bip_39_word_no_space_9 | dynamicdilemmadepositmimicdoorcaketravelfosterinto |  
 | bip_39_word_space_0 | ['dynamic', 'dilemma', 'deposit', 'mimic', 'door', 'cake', 'travel', 'foster', 'into', 'boost', 'genuine', 'apple'] |  
 | bip_39_word_space_1 | dynamic |  
 | bip_39_word_space_10 | dynamic dilemma deposit mimic door cake travel foster into boost |  

@@ -122,6 +122,18 @@ question
 fold
 merit
 sadness |  
+| bip_39_word_no_space_1 | snow |  
+| bip_39_word_no_space_10 | snowinjuryimmunewoolweekendquestionfoldmeritsadnessslender |  
+| bip_39_word_no_space_11 | snowinjuryimmunewoolweekendquestionfoldmeritsadnessslendermule |  
+| bip_39_word_no_space_12 | snowinjuryimmunewoolweekendquestionfoldmeritsadnessslendermulealso |  
+| bip_39_word_no_space_2 | snowinjury |  
+| bip_39_word_no_space_3 | snowinjuryimmune |  
+| bip_39_word_no_space_4 | snowinjuryimmunewool |  
+| bip_39_word_no_space_5 | snowinjuryimmunewoolweekend |  
+| bip_39_word_no_space_6 | snowinjuryimmunewoolweekendquestion |  
+| bip_39_word_no_space_7 | snowinjuryimmunewoolweekendquestionfold |  
+| bip_39_word_no_space_8 | snowinjuryimmunewoolweekendquestionfoldmerit |  
+| bip_39_word_no_space_9 | snowinjuryimmunewoolweekendquestionfoldmeritsadness |  
 | bip_39_word_space_0 | ['snow', 'injury', 'immune', 'wool', 'weekend', 'question', 'fold', 'merit', 'sadness', 'slender', 'mule', 'also'] |  
 | bip_39_word_space_1 | snow |  
 | bip_39_word_space_10 | snow injury immune wool weekend question fold merit sadness slender |  

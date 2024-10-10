@@ -122,6 +122,18 @@ pass
 rapid
 glory
 spend |  
+| bip_39_word_no_space_1 | fee |  
+| bip_39_word_no_space_10 | feetokenwastedepthinspirepassrapidgloryspendclock |  
+| bip_39_word_no_space_11 | feetokenwastedepthinspirepassrapidgloryspendclocktable |  
+| bip_39_word_no_space_12 | feetokenwastedepthinspirepassrapidgloryspendclocktableannual |  
+| bip_39_word_no_space_2 | feetoken |  
+| bip_39_word_no_space_3 | feetokenwaste |  
+| bip_39_word_no_space_4 | feetokenwastedepth |  
+| bip_39_word_no_space_5 | feetokenwastedepthinspire |  
+| bip_39_word_no_space_6 | feetokenwastedepthinspirepass |  
+| bip_39_word_no_space_7 | feetokenwastedepthinspirepassrapid |  
+| bip_39_word_no_space_8 | feetokenwastedepthinspirepassrapidglory |  
+| bip_39_word_no_space_9 | feetokenwastedepthinspirepassrapidgloryspend |  
 | bip_39_word_space_0 | ['fee', 'token', 'waste', 'depth', 'inspire', 'pass', 'rapid', 'glory', 'spend', 'clock', 'table', 'annual'] |  
 | bip_39_word_space_1 | fee |  
 | bip_39_word_space_10 | fee token waste depth inspire pass rapid glory spend clock |  

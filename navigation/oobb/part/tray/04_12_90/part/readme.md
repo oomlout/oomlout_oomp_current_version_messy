@@ -122,6 +122,18 @@ term
 neither
 undo
 concert |  
+| bip_39_word_no_space_1 | now |  
+| bip_39_word_no_space_10 | nowbirthstrikepublicdumbtermneitherundoconcertelbow |  
+| bip_39_word_no_space_11 | nowbirthstrikepublicdumbtermneitherundoconcertelbowrude |  
+| bip_39_word_no_space_12 | nowbirthstrikepublicdumbtermneitherundoconcertelbowrudeaim |  
+| bip_39_word_no_space_2 | nowbirth |  
+| bip_39_word_no_space_3 | nowbirthstrike |  
+| bip_39_word_no_space_4 | nowbirthstrikepublic |  
+| bip_39_word_no_space_5 | nowbirthstrikepublicdumb |  
+| bip_39_word_no_space_6 | nowbirthstrikepublicdumbterm |  
+| bip_39_word_no_space_7 | nowbirthstrikepublicdumbtermneither |  
+| bip_39_word_no_space_8 | nowbirthstrikepublicdumbtermneitherundo |  
+| bip_39_word_no_space_9 | nowbirthstrikepublicdumbtermneitherundoconcert |  
 | bip_39_word_space_0 | ['now', 'birth', 'strike', 'public', 'dumb', 'term', 'neither', 'undo', 'concert', 'elbow', 'rude', 'aim'] |  
 | bip_39_word_space_1 | now |  
 | bip_39_word_space_10 | now birth strike public dumb term neither undo concert elbow |  

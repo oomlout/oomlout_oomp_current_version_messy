@@ -122,6 +122,18 @@ priority
 summer
 pass
 page |  
+| bip_39_word_no_space_1 | shallow |  
+| bip_39_word_no_space_10 | shallowwebstufforangewoodprioritysummerpasspagecurrent |  
+| bip_39_word_no_space_11 | shallowwebstufforangewoodprioritysummerpasspagecurrentorbit |  
+| bip_39_word_no_space_12 | shallowwebstufforangewoodprioritysummerpasspagecurrentorbitautumn |  
+| bip_39_word_no_space_2 | shallowweb |  
+| bip_39_word_no_space_3 | shallowwebstuff |  
+| bip_39_word_no_space_4 | shallowwebstufforange |  
+| bip_39_word_no_space_5 | shallowwebstufforangewood |  
+| bip_39_word_no_space_6 | shallowwebstufforangewoodpriority |  
+| bip_39_word_no_space_7 | shallowwebstufforangewoodprioritysummer |  
+| bip_39_word_no_space_8 | shallowwebstufforangewoodprioritysummerpass |  
+| bip_39_word_no_space_9 | shallowwebstufforangewoodprioritysummerpasspage |  
 | bip_39_word_space_0 | ['shallow', 'web', 'stuff', 'orange', 'wood', 'priority', 'summer', 'pass', 'page', 'current', 'orbit', 'autumn'] |  
 | bip_39_word_space_1 | shallow |  
 | bip_39_word_space_10 | shallow web stuff orange wood priority summer pass page current |  

@@ -122,6 +122,18 @@ mobile
 loan
 warm
 solution |  
+| bip_39_word_no_space_1 | enemy |  
+| bip_39_word_no_space_10 | enemybinddoublehumorsleepmobileloanwarmsolutionrace |  
+| bip_39_word_no_space_11 | enemybinddoublehumorsleepmobileloanwarmsolutionracerich |  
+| bip_39_word_no_space_12 | enemybinddoublehumorsleepmobileloanwarmsolutionracerichamazing |  
+| bip_39_word_no_space_2 | enemybind |  
+| bip_39_word_no_space_3 | enemybinddouble |  
+| bip_39_word_no_space_4 | enemybinddoublehumor |  
+| bip_39_word_no_space_5 | enemybinddoublehumorsleep |  
+| bip_39_word_no_space_6 | enemybinddoublehumorsleepmobile |  
+| bip_39_word_no_space_7 | enemybinddoublehumorsleepmobileloan |  
+| bip_39_word_no_space_8 | enemybinddoublehumorsleepmobileloanwarm |  
+| bip_39_word_no_space_9 | enemybinddoublehumorsleepmobileloanwarmsolution |  
 | bip_39_word_space_0 | ['enemy', 'bind', 'double', 'humor', 'sleep', 'mobile', 'loan', 'warm', 'solution', 'race', 'rich', 'amazing'] |  
 | bip_39_word_space_1 | enemy |  
 | bip_39_word_space_10 | enemy bind double humor sleep mobile loan warm solution race |  

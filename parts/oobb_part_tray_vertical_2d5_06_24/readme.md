@@ -122,6 +122,18 @@ client
 pluck
 unveil
 floor |  
+| bip_39_word_no_space_1 | rebuild |  
+| bip_39_word_no_space_10 | rebuilddollvanishnowbuyerclientpluckunveilfloortoddler |  
+| bip_39_word_no_space_11 | rebuilddollvanishnowbuyerclientpluckunveilfloortoddlerhawk |  
+| bip_39_word_no_space_12 | rebuilddollvanishnowbuyerclientpluckunveilfloortoddlerhawkart |  
+| bip_39_word_no_space_2 | rebuilddoll |  
+| bip_39_word_no_space_3 | rebuilddollvanish |  
+| bip_39_word_no_space_4 | rebuilddollvanishnow |  
+| bip_39_word_no_space_5 | rebuilddollvanishnowbuyer |  
+| bip_39_word_no_space_6 | rebuilddollvanishnowbuyerclient |  
+| bip_39_word_no_space_7 | rebuilddollvanishnowbuyerclientpluck |  
+| bip_39_word_no_space_8 | rebuilddollvanishnowbuyerclientpluckunveil |  
+| bip_39_word_no_space_9 | rebuilddollvanishnowbuyerclientpluckunveilfloor |  
 | bip_39_word_space_0 | ['rebuild', 'doll', 'vanish', 'now', 'buyer', 'client', 'pluck', 'unveil', 'floor', 'toddler', 'hawk', 'art'] |  
 | bip_39_word_space_1 | rebuild |  
 | bip_39_word_space_10 | rebuild doll vanish now buyer client pluck unveil floor toddler |  

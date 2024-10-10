@@ -122,6 +122,18 @@ loan
 regret
 helmet
 tuition |  
+| bip_39_word_no_space_1 | donate |  
+| bip_39_word_no_space_10 | donatefortunesorryhistoryscraploanregrethelmettuitionfemale |  
+| bip_39_word_no_space_11 | donatefortunesorryhistoryscraploanregrethelmettuitionfemalethere |  
+| bip_39_word_no_space_12 | donatefortunesorryhistoryscraploanregrethelmettuitionfemalethereaccess |  
+| bip_39_word_no_space_2 | donatefortune |  
+| bip_39_word_no_space_3 | donatefortunesorry |  
+| bip_39_word_no_space_4 | donatefortunesorryhistory |  
+| bip_39_word_no_space_5 | donatefortunesorryhistoryscrap |  
+| bip_39_word_no_space_6 | donatefortunesorryhistoryscraploan |  
+| bip_39_word_no_space_7 | donatefortunesorryhistoryscraploanregret |  
+| bip_39_word_no_space_8 | donatefortunesorryhistoryscraploanregrethelmet |  
+| bip_39_word_no_space_9 | donatefortunesorryhistoryscraploanregrethelmettuition |  
 | bip_39_word_space_0 | ['donate', 'fortune', 'sorry', 'history', 'scrap', 'loan', 'regret', 'helmet', 'tuition', 'female', 'there', 'access'] |  
 | bip_39_word_space_1 | donate |  
 | bip_39_word_space_10 | donate fortune sorry history scrap loan regret helmet tuition female |  

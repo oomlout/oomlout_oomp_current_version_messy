@@ -122,6 +122,18 @@ ramp
 car
 large
 follow |  
+| bip_39_word_no_space_1 | daring |  
+| bip_39_word_no_space_10 | daringbrownartefactdamagepullrampcarlargefollowimpulse |  
+| bip_39_word_no_space_11 | daringbrownartefactdamagepullrampcarlargefollowimpulsetoilet |  
+| bip_39_word_no_space_12 | daringbrownartefactdamagepullrampcarlargefollowimpulsetoiletasthma |  
+| bip_39_word_no_space_2 | daringbrown |  
+| bip_39_word_no_space_3 | daringbrownartefact |  
+| bip_39_word_no_space_4 | daringbrownartefactdamage |  
+| bip_39_word_no_space_5 | daringbrownartefactdamagepull |  
+| bip_39_word_no_space_6 | daringbrownartefactdamagepullramp |  
+| bip_39_word_no_space_7 | daringbrownartefactdamagepullrampcar |  
+| bip_39_word_no_space_8 | daringbrownartefactdamagepullrampcarlarge |  
+| bip_39_word_no_space_9 | daringbrownartefactdamagepullrampcarlargefollow |  
 | bip_39_word_space_0 | ['daring', 'brown', 'artefact', 'damage', 'pull', 'ramp', 'car', 'large', 'follow', 'impulse', 'toilet', 'asthma'] |  
 | bip_39_word_space_1 | daring |  
 | bip_39_word_space_10 | daring brown artefact damage pull ramp car large follow impulse |  

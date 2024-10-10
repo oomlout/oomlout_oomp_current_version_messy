@@ -122,6 +122,18 @@ spatial
 differ
 wear
 rain |  
+| bip_39_word_no_space_1 | vicious |  
+| bip_39_word_no_space_10 | viciousloanharshembarktrackspatialdifferwearrainmarket |  
+| bip_39_word_no_space_11 | viciousloanharshembarktrackspatialdifferwearrainmarketway |  
+| bip_39_word_no_space_12 | viciousloanharshembarktrackspatialdifferwearrainmarketwayangle |  
+| bip_39_word_no_space_2 | viciousloan |  
+| bip_39_word_no_space_3 | viciousloanharsh |  
+| bip_39_word_no_space_4 | viciousloanharshembark |  
+| bip_39_word_no_space_5 | viciousloanharshembarktrack |  
+| bip_39_word_no_space_6 | viciousloanharshembarktrackspatial |  
+| bip_39_word_no_space_7 | viciousloanharshembarktrackspatialdiffer |  
+| bip_39_word_no_space_8 | viciousloanharshembarktrackspatialdifferwear |  
+| bip_39_word_no_space_9 | viciousloanharshembarktrackspatialdifferwearrain |  
 | bip_39_word_space_0 | ['vicious', 'loan', 'harsh', 'embark', 'track', 'spatial', 'differ', 'wear', 'rain', 'market', 'way', 'angle'] |  
 | bip_39_word_space_1 | vicious |  
 | bip_39_word_space_10 | vicious loan harsh embark track spatial differ wear rain market |  

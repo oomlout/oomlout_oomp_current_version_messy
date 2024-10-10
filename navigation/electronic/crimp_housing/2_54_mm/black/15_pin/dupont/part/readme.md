@@ -122,6 +122,18 @@ gate
 where
 fault
 rain |  
+| bip_39_word_no_space_1 | wink |  
+| bip_39_word_no_space_10 | winkpanicchatlongtrulygatewherefaultrainreject |  
+| bip_39_word_no_space_11 | winkpanicchatlongtrulygatewherefaultrainrejectadvice |  
+| bip_39_word_no_space_12 | winkpanicchatlongtrulygatewherefaultrainrejectadviceassume |  
+| bip_39_word_no_space_2 | winkpanic |  
+| bip_39_word_no_space_3 | winkpanicchat |  
+| bip_39_word_no_space_4 | winkpanicchatlong |  
+| bip_39_word_no_space_5 | winkpanicchatlongtruly |  
+| bip_39_word_no_space_6 | winkpanicchatlongtrulygate |  
+| bip_39_word_no_space_7 | winkpanicchatlongtrulygatewhere |  
+| bip_39_word_no_space_8 | winkpanicchatlongtrulygatewherefault |  
+| bip_39_word_no_space_9 | winkpanicchatlongtrulygatewherefaultrain |  
 | bip_39_word_space_0 | ['wink', 'panic', 'chat', 'long', 'truly', 'gate', 'where', 'fault', 'rain', 'reject', 'advice', 'assume'] |  
 | bip_39_word_space_1 | wink |  
 | bip_39_word_space_10 | wink panic chat long truly gate where fault rain reject |  

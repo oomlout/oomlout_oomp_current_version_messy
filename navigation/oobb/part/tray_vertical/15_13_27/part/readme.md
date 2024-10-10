@@ -122,6 +122,18 @@ error
 tuna
 ranch
 claim |  
+| bip_39_word_no_space_1 | remove |  
+| bip_39_word_no_space_10 | removeadulteightembodydirecterrortunaranchclaimvoyage |  
+| bip_39_word_no_space_11 | removeadulteightembodydirecterrortunaranchclaimvoyagegarbage |  
+| bip_39_word_no_space_12 | removeadulteightembodydirecterrortunaranchclaimvoyagegarbageattract |  
+| bip_39_word_no_space_2 | removeadult |  
+| bip_39_word_no_space_3 | removeadulteight |  
+| bip_39_word_no_space_4 | removeadulteightembody |  
+| bip_39_word_no_space_5 | removeadulteightembodydirect |  
+| bip_39_word_no_space_6 | removeadulteightembodydirecterror |  
+| bip_39_word_no_space_7 | removeadulteightembodydirecterrortuna |  
+| bip_39_word_no_space_8 | removeadulteightembodydirecterrortunaranch |  
+| bip_39_word_no_space_9 | removeadulteightembodydirecterrortunaranchclaim |  
 | bip_39_word_space_0 | ['remove', 'adult', 'eight', 'embody', 'direct', 'error', 'tuna', 'ranch', 'claim', 'voyage', 'garbage', 'attract'] |  
 | bip_39_word_space_1 | remove |  
 | bip_39_word_space_10 | remove adult eight embody direct error tuna ranch claim voyage |  

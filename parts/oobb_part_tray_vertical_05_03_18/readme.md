@@ -122,6 +122,18 @@ choice
 blouse
 lesson
 faith |  
+| bip_39_word_no_space_1 | situate |  
+| bip_39_word_no_space_10 | situatedistancebrokenofferpatternchoiceblouselessonfaithdespair |  
+| bip_39_word_no_space_11 | situatedistancebrokenofferpatternchoiceblouselessonfaithdespairsystem |  
+| bip_39_word_no_space_12 | situatedistancebrokenofferpatternchoiceblouselessonfaithdespairsystemattract |  
+| bip_39_word_no_space_2 | situatedistance |  
+| bip_39_word_no_space_3 | situatedistancebroken |  
+| bip_39_word_no_space_4 | situatedistancebrokenoffer |  
+| bip_39_word_no_space_5 | situatedistancebrokenofferpattern |  
+| bip_39_word_no_space_6 | situatedistancebrokenofferpatternchoice |  
+| bip_39_word_no_space_7 | situatedistancebrokenofferpatternchoiceblouse |  
+| bip_39_word_no_space_8 | situatedistancebrokenofferpatternchoiceblouselesson |  
+| bip_39_word_no_space_9 | situatedistancebrokenofferpatternchoiceblouselessonfaith |  
 | bip_39_word_space_0 | ['situate', 'distance', 'broken', 'offer', 'pattern', 'choice', 'blouse', 'lesson', 'faith', 'despair', 'system', 'attract'] |  
 | bip_39_word_space_1 | situate |  
 | bip_39_word_space_10 | situate distance broken offer pattern choice blouse lesson faith despair |  

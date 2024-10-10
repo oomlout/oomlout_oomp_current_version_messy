@@ -122,6 +122,18 @@ craft
 marble
 flee
 theme |  
+| bip_39_word_no_space_1 | goat |  
+| bip_39_word_no_space_10 | goatunknowneragraceregretcraftmarblefleethemeupdate |  
+| bip_39_word_no_space_11 | goatunknowneragraceregretcraftmarblefleethemeupdatehost |  
+| bip_39_word_no_space_12 | goatunknowneragraceregretcraftmarblefleethemeupdatehostacid |  
+| bip_39_word_no_space_2 | goatunknown |  
+| bip_39_word_no_space_3 | goatunknownera |  
+| bip_39_word_no_space_4 | goatunknowneragrace |  
+| bip_39_word_no_space_5 | goatunknowneragraceregret |  
+| bip_39_word_no_space_6 | goatunknowneragraceregretcraft |  
+| bip_39_word_no_space_7 | goatunknowneragraceregretcraftmarble |  
+| bip_39_word_no_space_8 | goatunknowneragraceregretcraftmarbleflee |  
+| bip_39_word_no_space_9 | goatunknowneragraceregretcraftmarblefleetheme |  
 | bip_39_word_space_0 | ['goat', 'unknown', 'era', 'grace', 'regret', 'craft', 'marble', 'flee', 'theme', 'update', 'host', 'acid'] |  
 | bip_39_word_space_1 | goat |  
 | bip_39_word_space_10 | goat unknown era grace regret craft marble flee theme update |  

@@ -122,6 +122,18 @@ wrong
 spy
 verify
 liquid |  
+| bip_39_word_no_space_1 | program |  
+| bip_39_word_no_space_10 | programsmartindoormoveumbrellawrongspyverifyliquidwink |  
+| bip_39_word_no_space_11 | programsmartindoormoveumbrellawrongspyverifyliquidwinkblanket |  
+| bip_39_word_no_space_12 | programsmartindoormoveumbrellawrongspyverifyliquidwinkblanketaudit |  
+| bip_39_word_no_space_2 | programsmart |  
+| bip_39_word_no_space_3 | programsmartindoor |  
+| bip_39_word_no_space_4 | programsmartindoormove |  
+| bip_39_word_no_space_5 | programsmartindoormoveumbrella |  
+| bip_39_word_no_space_6 | programsmartindoormoveumbrellawrong |  
+| bip_39_word_no_space_7 | programsmartindoormoveumbrellawrongspy |  
+| bip_39_word_no_space_8 | programsmartindoormoveumbrellawrongspyverify |  
+| bip_39_word_no_space_9 | programsmartindoormoveumbrellawrongspyverifyliquid |  
 | bip_39_word_space_0 | ['program', 'smart', 'indoor', 'move', 'umbrella', 'wrong', 'spy', 'verify', 'liquid', 'wink', 'blanket', 'audit'] |  
 | bip_39_word_space_1 | program |  
 | bip_39_word_space_10 | program smart indoor move umbrella wrong spy verify liquid wink |  

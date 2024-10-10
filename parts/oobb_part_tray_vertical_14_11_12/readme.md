@@ -122,6 +122,18 @@ brown
 unable
 boring
 punch |  
+| bip_39_word_no_space_1 | skill |  
+| bip_39_word_no_space_10 | skillarrowdonatemailownerbrownunableboringpunchtoward |  
+| bip_39_word_no_space_11 | skillarrowdonatemailownerbrownunableboringpunchtowardcolor |  
+| bip_39_word_no_space_12 | skillarrowdonatemailownerbrownunableboringpunchtowardcoloraddress |  
+| bip_39_word_no_space_2 | skillarrow |  
+| bip_39_word_no_space_3 | skillarrowdonate |  
+| bip_39_word_no_space_4 | skillarrowdonatemail |  
+| bip_39_word_no_space_5 | skillarrowdonatemailowner |  
+| bip_39_word_no_space_6 | skillarrowdonatemailownerbrown |  
+| bip_39_word_no_space_7 | skillarrowdonatemailownerbrownunable |  
+| bip_39_word_no_space_8 | skillarrowdonatemailownerbrownunableboring |  
+| bip_39_word_no_space_9 | skillarrowdonatemailownerbrownunableboringpunch |  
 | bip_39_word_space_0 | ['skill', 'arrow', 'donate', 'mail', 'owner', 'brown', 'unable', 'boring', 'punch', 'toward', 'color', 'address'] |  
 | bip_39_word_space_1 | skill |  
 | bip_39_word_space_10 | skill arrow donate mail owner brown unable boring punch toward |  

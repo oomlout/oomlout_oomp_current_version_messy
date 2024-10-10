@@ -122,6 +122,18 @@ devote
 nominee
 refuse
 balcony |  
+| bip_39_word_no_space_1 | addict |  
+| bip_39_word_no_space_10 | addictfringedivertobjectfielddevotenomineerefusebalconyfragile |  
+| bip_39_word_no_space_11 | addictfringedivertobjectfielddevotenomineerefusebalconyfragileshort |  
+| bip_39_word_no_space_12 | addictfringedivertobjectfielddevotenomineerefusebalconyfragileshortanother |  
+| bip_39_word_no_space_2 | addictfringe |  
+| bip_39_word_no_space_3 | addictfringedivert |  
+| bip_39_word_no_space_4 | addictfringedivertobject |  
+| bip_39_word_no_space_5 | addictfringedivertobjectfield |  
+| bip_39_word_no_space_6 | addictfringedivertobjectfielddevote |  
+| bip_39_word_no_space_7 | addictfringedivertobjectfielddevotenominee |  
+| bip_39_word_no_space_8 | addictfringedivertobjectfielddevotenomineerefuse |  
+| bip_39_word_no_space_9 | addictfringedivertobjectfielddevotenomineerefusebalcony |  
 | bip_39_word_space_0 | ['addict', 'fringe', 'divert', 'object', 'field', 'devote', 'nominee', 'refuse', 'balcony', 'fragile', 'short', 'another'] |  
 | bip_39_word_space_1 | addict |  
 | bip_39_word_space_10 | addict fringe divert object field devote nominee refuse balcony fragile |  

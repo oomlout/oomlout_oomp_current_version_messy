@@ -122,6 +122,18 @@ cup
 lobster
 impulse
 uphold |  
+| bip_39_word_no_space_1 | cross |  
+| bip_39_word_no_space_10 | crossfixtraptaskhumblecuplobsterimpulseupholdfigure |  
+| bip_39_word_no_space_11 | crossfixtraptaskhumblecuplobsterimpulseupholdfigurehalf |  
+| bip_39_word_no_space_12 | crossfixtraptaskhumblecuplobsterimpulseupholdfigurehalfaccident |  
+| bip_39_word_no_space_2 | crossfix |  
+| bip_39_word_no_space_3 | crossfixtrap |  
+| bip_39_word_no_space_4 | crossfixtraptask |  
+| bip_39_word_no_space_5 | crossfixtraptaskhumble |  
+| bip_39_word_no_space_6 | crossfixtraptaskhumblecup |  
+| bip_39_word_no_space_7 | crossfixtraptaskhumblecuplobster |  
+| bip_39_word_no_space_8 | crossfixtraptaskhumblecuplobsterimpulse |  
+| bip_39_word_no_space_9 | crossfixtraptaskhumblecuplobsterimpulseuphold |  
 | bip_39_word_space_0 | ['cross', 'fix', 'trap', 'task', 'humble', 'cup', 'lobster', 'impulse', 'uphold', 'figure', 'half', 'accident'] |  
 | bip_39_word_space_1 | cross |  
 | bip_39_word_space_10 | cross fix trap task humble cup lobster impulse uphold figure |  

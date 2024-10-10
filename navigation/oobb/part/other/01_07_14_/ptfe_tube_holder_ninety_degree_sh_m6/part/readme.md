@@ -122,6 +122,18 @@ dumb
 change
 tattoo
 vapor |  
+| bip_39_word_no_space_1 | robot |  
+| bip_39_word_no_space_10 | robotmushroomdepartokaybenchdumbchangetattoovaporseason |  
+| bip_39_word_no_space_11 | robotmushroomdepartokaybenchdumbchangetattoovaporseasonexpand |  
+| bip_39_word_no_space_12 | robotmushroomdepartokaybenchdumbchangetattoovaporseasonexpandauction |  
+| bip_39_word_no_space_2 | robotmushroom |  
+| bip_39_word_no_space_3 | robotmushroomdepart |  
+| bip_39_word_no_space_4 | robotmushroomdepartokay |  
+| bip_39_word_no_space_5 | robotmushroomdepartokaybench |  
+| bip_39_word_no_space_6 | robotmushroomdepartokaybenchdumb |  
+| bip_39_word_no_space_7 | robotmushroomdepartokaybenchdumbchange |  
+| bip_39_word_no_space_8 | robotmushroomdepartokaybenchdumbchangetattoo |  
+| bip_39_word_no_space_9 | robotmushroomdepartokaybenchdumbchangetattoovapor |  
 | bip_39_word_space_0 | ['robot', 'mushroom', 'depart', 'okay', 'bench', 'dumb', 'change', 'tattoo', 'vapor', 'season', 'expand', 'auction'] |  
 | bip_39_word_space_1 | robot |  
 | bip_39_word_space_10 | robot mushroom depart okay bench dumb change tattoo vapor season |  

@@ -122,6 +122,18 @@ caution
 rib
 venue
 forward |  
+| bip_39_word_no_space_1 | item |  
+| bip_39_word_no_space_10 | itemsearchbridgeaspectmotorcautionribvenueforwardsort |  
+| bip_39_word_no_space_11 | itemsearchbridgeaspectmotorcautionribvenueforwardsortgospel |  
+| bip_39_word_no_space_12 | itemsearchbridgeaspectmotorcautionribvenueforwardsortgospelabstract |  
+| bip_39_word_no_space_2 | itemsearch |  
+| bip_39_word_no_space_3 | itemsearchbridge |  
+| bip_39_word_no_space_4 | itemsearchbridgeaspect |  
+| bip_39_word_no_space_5 | itemsearchbridgeaspectmotor |  
+| bip_39_word_no_space_6 | itemsearchbridgeaspectmotorcaution |  
+| bip_39_word_no_space_7 | itemsearchbridgeaspectmotorcautionrib |  
+| bip_39_word_no_space_8 | itemsearchbridgeaspectmotorcautionribvenue |  
+| bip_39_word_no_space_9 | itemsearchbridgeaspectmotorcautionribvenueforward |  
 | bip_39_word_space_0 | ['item', 'search', 'bridge', 'aspect', 'motor', 'caution', 'rib', 'venue', 'forward', 'sort', 'gospel', 'abstract'] |  
 | bip_39_word_space_1 | item |  
 | bip_39_word_space_10 | item search bridge aspect motor caution rib venue forward sort |  

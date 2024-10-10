@@ -122,6 +122,18 @@ camera
 shoe
 victory
 eagle |  
+| bip_39_word_no_space_1 | uncover |  
+| bip_39_word_no_space_10 | uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeef |  
+| bip_39_word_no_space_11 | uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeefpass |  
+| bip_39_word_no_space_12 | uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeefpassadult |  
+| bip_39_word_no_space_2 | uncoverjunior |  
+| bip_39_word_no_space_3 | uncoverjuniorwrist |  
+| bip_39_word_no_space_4 | uncoverjuniorwristsilver |  
+| bip_39_word_no_space_5 | uncoverjuniorwristsilverhotel |  
+| bip_39_word_no_space_6 | uncoverjuniorwristsilverhotelcamera |  
+| bip_39_word_no_space_7 | uncoverjuniorwristsilverhotelcamerashoe |  
+| bip_39_word_no_space_8 | uncoverjuniorwristsilverhotelcamerashoevictory |  
+| bip_39_word_no_space_9 | uncoverjuniorwristsilverhotelcamerashoevictoryeagle |  
 | bip_39_word_space_0 | ['uncover', 'junior', 'wrist', 'silver', 'hotel', 'camera', 'shoe', 'victory', 'eagle', 'beef', 'pass', 'adult'] |  
 | bip_39_word_space_1 | uncover |  
 | bip_39_word_space_10 | uncover junior wrist silver hotel camera shoe victory eagle beef |  

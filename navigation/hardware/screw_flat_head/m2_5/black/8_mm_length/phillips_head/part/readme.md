@@ -122,6 +122,18 @@ off
 alley
 fancy
 catalog |  
+| bip_39_word_no_space_1 | stone |  
+| bip_39_word_no_space_10 | stoneelementsaltmusicadmitoffalleyfancycatalogconsider |  
+| bip_39_word_no_space_11 | stoneelementsaltmusicadmitoffalleyfancycatalogconsidermonkey |  
+| bip_39_word_no_space_12 | stoneelementsaltmusicadmitoffalleyfancycatalogconsidermonkeyancient |  
+| bip_39_word_no_space_2 | stoneelement |  
+| bip_39_word_no_space_3 | stoneelementsalt |  
+| bip_39_word_no_space_4 | stoneelementsaltmusic |  
+| bip_39_word_no_space_5 | stoneelementsaltmusicadmit |  
+| bip_39_word_no_space_6 | stoneelementsaltmusicadmitoff |  
+| bip_39_word_no_space_7 | stoneelementsaltmusicadmitoffalley |  
+| bip_39_word_no_space_8 | stoneelementsaltmusicadmitoffalleyfancy |  
+| bip_39_word_no_space_9 | stoneelementsaltmusicadmitoffalleyfancycatalog |  
 | bip_39_word_space_0 | ['stone', 'element', 'salt', 'music', 'admit', 'off', 'alley', 'fancy', 'catalog', 'consider', 'monkey', 'ancient'] |  
 | bip_39_word_space_1 | stone |  
 | bip_39_word_space_10 | stone element salt music admit off alley fancy catalog consider |  

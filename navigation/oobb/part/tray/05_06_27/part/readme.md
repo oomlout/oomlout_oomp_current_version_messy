@@ -122,6 +122,18 @@ game
 insane
 shoe
 alter |  
+| bip_39_word_no_space_1 | girl |  
+| bip_39_word_no_space_10 | girlpreferexhaustorphanminimumgameinsaneshoealterfeel |  
+| bip_39_word_no_space_11 | girlpreferexhaustorphanminimumgameinsaneshoealterfeelsession |  
+| bip_39_word_no_space_12 | girlpreferexhaustorphanminimumgameinsaneshoealterfeelsessionartefact |  
+| bip_39_word_no_space_2 | girlprefer |  
+| bip_39_word_no_space_3 | girlpreferexhaust |  
+| bip_39_word_no_space_4 | girlpreferexhaustorphan |  
+| bip_39_word_no_space_5 | girlpreferexhaustorphanminimum |  
+| bip_39_word_no_space_6 | girlpreferexhaustorphanminimumgame |  
+| bip_39_word_no_space_7 | girlpreferexhaustorphanminimumgameinsane |  
+| bip_39_word_no_space_8 | girlpreferexhaustorphanminimumgameinsaneshoe |  
+| bip_39_word_no_space_9 | girlpreferexhaustorphanminimumgameinsaneshoealter |  
 | bip_39_word_space_0 | ['girl', 'prefer', 'exhaust', 'orphan', 'minimum', 'game', 'insane', 'shoe', 'alter', 'feel', 'session', 'artefact'] |  
 | bip_39_word_space_1 | girl |  
 | bip_39_word_space_10 | girl prefer exhaust orphan minimum game insane shoe alter feel |  

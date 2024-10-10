@@ -122,6 +122,18 @@ veteran
 service
 scatter
 cushion |  
+| bip_39_word_no_space_1 | seek |  
+| bip_39_word_no_space_10 | seekforwardstoolcampbrokenveteranservicescattercushiongarage |  
+| bip_39_word_no_space_11 | seekforwardstoolcampbrokenveteranservicescattercushiongaragediagram |  
+| bip_39_word_no_space_12 | seekforwardstoolcampbrokenveteranservicescattercushiongaragediagramagent |  
+| bip_39_word_no_space_2 | seekforward |  
+| bip_39_word_no_space_3 | seekforwardstool |  
+| bip_39_word_no_space_4 | seekforwardstoolcamp |  
+| bip_39_word_no_space_5 | seekforwardstoolcampbroken |  
+| bip_39_word_no_space_6 | seekforwardstoolcampbrokenveteran |  
+| bip_39_word_no_space_7 | seekforwardstoolcampbrokenveteranservice |  
+| bip_39_word_no_space_8 | seekforwardstoolcampbrokenveteranservicescatter |  
+| bip_39_word_no_space_9 | seekforwardstoolcampbrokenveteranservicescattercushion |  
 | bip_39_word_space_0 | ['seek', 'forward', 'stool', 'camp', 'broken', 'veteran', 'service', 'scatter', 'cushion', 'garage', 'diagram', 'agent'] |  
 | bip_39_word_space_1 | seek |  
 | bip_39_word_space_10 | seek forward stool camp broken veteran service scatter cushion garage |  

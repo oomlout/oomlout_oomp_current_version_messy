@@ -122,6 +122,18 @@ six
 start
 twelve
 wise |  
+| bip_39_word_no_space_1 | rug |  
+| bip_39_word_no_space_10 | rugexoticanothermotorkingdomsixstarttwelvewisedemand |  
+| bip_39_word_no_space_11 | rugexoticanothermotorkingdomsixstarttwelvewisedemandtomorrow |  
+| bip_39_word_no_space_12 | rugexoticanothermotorkingdomsixstarttwelvewisedemandtomorrowanalyst |  
+| bip_39_word_no_space_2 | rugexotic |  
+| bip_39_word_no_space_3 | rugexoticanother |  
+| bip_39_word_no_space_4 | rugexoticanothermotor |  
+| bip_39_word_no_space_5 | rugexoticanothermotorkingdom |  
+| bip_39_word_no_space_6 | rugexoticanothermotorkingdomsix |  
+| bip_39_word_no_space_7 | rugexoticanothermotorkingdomsixstart |  
+| bip_39_word_no_space_8 | rugexoticanothermotorkingdomsixstarttwelve |  
+| bip_39_word_no_space_9 | rugexoticanothermotorkingdomsixstarttwelvewise |  
 | bip_39_word_space_0 | ['rug', 'exotic', 'another', 'motor', 'kingdom', 'six', 'start', 'twelve', 'wise', 'demand', 'tomorrow', 'analyst'] |  
 | bip_39_word_space_1 | rug |  
 | bip_39_word_space_10 | rug exotic another motor kingdom six start twelve wise demand |  

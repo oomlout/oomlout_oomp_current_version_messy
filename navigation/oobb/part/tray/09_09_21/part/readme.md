@@ -122,6 +122,18 @@ cram
 spy
 require
 swing |  
+| bip_39_word_no_space_1 | universe |  
+| bip_39_word_no_space_10 | universesugarwomanfataloffcramspyrequireswingmaximum |  
+| bip_39_word_no_space_11 | universesugarwomanfataloffcramspyrequireswingmaximuminch |  
+| bip_39_word_no_space_12 | universesugarwomanfataloffcramspyrequireswingmaximuminchapril |  
+| bip_39_word_no_space_2 | universesugar |  
+| bip_39_word_no_space_3 | universesugarwoman |  
+| bip_39_word_no_space_4 | universesugarwomanfatal |  
+| bip_39_word_no_space_5 | universesugarwomanfataloff |  
+| bip_39_word_no_space_6 | universesugarwomanfataloffcram |  
+| bip_39_word_no_space_7 | universesugarwomanfataloffcramspy |  
+| bip_39_word_no_space_8 | universesugarwomanfataloffcramspyrequire |  
+| bip_39_word_no_space_9 | universesugarwomanfataloffcramspyrequireswing |  
 | bip_39_word_space_0 | ['universe', 'sugar', 'woman', 'fatal', 'off', 'cram', 'spy', 'require', 'swing', 'maximum', 'inch', 'april'] |  
 | bip_39_word_space_1 | universe |  
 | bip_39_word_space_10 | universe sugar woman fatal off cram spy require swing maximum |  

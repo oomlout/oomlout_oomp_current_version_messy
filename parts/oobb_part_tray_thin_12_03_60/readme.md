@@ -122,6 +122,18 @@ winner
 silk
 prepare
 enjoy |  
+| bip_39_word_no_space_1 | rapid |  
+| bip_39_word_no_space_10 | rapidawkwardvalvefaintmomwinnersilkprepareenjoyuseful |  
+| bip_39_word_no_space_11 | rapidawkwardvalvefaintmomwinnersilkprepareenjoyusefulalone |  
+| bip_39_word_no_space_12 | rapidawkwardvalvefaintmomwinnersilkprepareenjoyusefulaloneabstract |  
+| bip_39_word_no_space_2 | rapidawkward |  
+| bip_39_word_no_space_3 | rapidawkwardvalve |  
+| bip_39_word_no_space_4 | rapidawkwardvalvefaint |  
+| bip_39_word_no_space_5 | rapidawkwardvalvefaintmom |  
+| bip_39_word_no_space_6 | rapidawkwardvalvefaintmomwinner |  
+| bip_39_word_no_space_7 | rapidawkwardvalvefaintmomwinnersilk |  
+| bip_39_word_no_space_8 | rapidawkwardvalvefaintmomwinnersilkprepare |  
+| bip_39_word_no_space_9 | rapidawkwardvalvefaintmomwinnersilkprepareenjoy |  
 | bip_39_word_space_0 | ['rapid', 'awkward', 'valve', 'faint', 'mom', 'winner', 'silk', 'prepare', 'enjoy', 'useful', 'alone', 'abstract'] |  
 | bip_39_word_space_1 | rapid |  
 | bip_39_word_space_10 | rapid awkward valve faint mom winner silk prepare enjoy useful |  

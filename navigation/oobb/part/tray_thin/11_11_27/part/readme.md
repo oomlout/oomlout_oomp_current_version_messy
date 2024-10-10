@@ -122,6 +122,18 @@ enrich
 soft
 pass
 hope |  
+| bip_39_word_no_space_1 | behind |  
+| bip_39_word_no_space_10 | behindtokenbattletoilethelloenrichsoftpasshopesay |  
+| bip_39_word_no_space_11 | behindtokenbattletoilethelloenrichsoftpasshopesayclarify |  
+| bip_39_word_no_space_12 | behindtokenbattletoilethelloenrichsoftpasshopesayclarifyart |  
+| bip_39_word_no_space_2 | behindtoken |  
+| bip_39_word_no_space_3 | behindtokenbattle |  
+| bip_39_word_no_space_4 | behindtokenbattletoilet |  
+| bip_39_word_no_space_5 | behindtokenbattletoilethello |  
+| bip_39_word_no_space_6 | behindtokenbattletoilethelloenrich |  
+| bip_39_word_no_space_7 | behindtokenbattletoilethelloenrichsoft |  
+| bip_39_word_no_space_8 | behindtokenbattletoilethelloenrichsoftpass |  
+| bip_39_word_no_space_9 | behindtokenbattletoilethelloenrichsoftpasshope |  
 | bip_39_word_space_0 | ['behind', 'token', 'battle', 'toilet', 'hello', 'enrich', 'soft', 'pass', 'hope', 'say', 'clarify', 'art'] |  
 | bip_39_word_space_1 | behind |  
 | bip_39_word_space_10 | behind token battle toilet hello enrich soft pass hope say |  

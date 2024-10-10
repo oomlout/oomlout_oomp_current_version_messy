@@ -122,6 +122,18 @@ monitor
 vote
 bus
 elevator |  
+| bip_39_word_no_space_1 | provide |  
+| bip_39_word_no_space_10 | providelensvotemadusedmonitorvotebuselevatorbanner |  
+| bip_39_word_no_space_11 | providelensvotemadusedmonitorvotebuselevatorbannerdrop |  
+| bip_39_word_no_space_12 | providelensvotemadusedmonitorvotebuselevatorbannerdropapology |  
+| bip_39_word_no_space_2 | providelens |  
+| bip_39_word_no_space_3 | providelensvote |  
+| bip_39_word_no_space_4 | providelensvotemad |  
+| bip_39_word_no_space_5 | providelensvotemadused |  
+| bip_39_word_no_space_6 | providelensvotemadusedmonitor |  
+| bip_39_word_no_space_7 | providelensvotemadusedmonitorvote |  
+| bip_39_word_no_space_8 | providelensvotemadusedmonitorvotebus |  
+| bip_39_word_no_space_9 | providelensvotemadusedmonitorvotebuselevator |  
 | bip_39_word_space_0 | ['provide', 'lens', 'vote', 'mad', 'used', 'monitor', 'vote', 'bus', 'elevator', 'banner', 'drop', 'apology'] |  
 | bip_39_word_space_1 | provide |  
 | bip_39_word_space_10 | provide lens vote mad used monitor vote bus elevator banner |  

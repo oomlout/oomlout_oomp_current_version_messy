@@ -122,6 +122,18 @@ junior
 toward
 broom
 error |  
+| bip_39_word_no_space_1 | faint |  
+| bip_39_word_no_space_10 | faintinjuryradioeralovejuniortowardbroomerrorexile |  
+| bip_39_word_no_space_11 | faintinjuryradioeralovejuniortowardbroomerrorexilearmy |  
+| bip_39_word_no_space_12 | faintinjuryradioeralovejuniortowardbroomerrorexilearmyart |  
+| bip_39_word_no_space_2 | faintinjury |  
+| bip_39_word_no_space_3 | faintinjuryradio |  
+| bip_39_word_no_space_4 | faintinjuryradioera |  
+| bip_39_word_no_space_5 | faintinjuryradioeralove |  
+| bip_39_word_no_space_6 | faintinjuryradioeralovejunior |  
+| bip_39_word_no_space_7 | faintinjuryradioeralovejuniortoward |  
+| bip_39_word_no_space_8 | faintinjuryradioeralovejuniortowardbroom |  
+| bip_39_word_no_space_9 | faintinjuryradioeralovejuniortowardbroomerror |  
 | bip_39_word_space_0 | ['faint', 'injury', 'radio', 'era', 'love', 'junior', 'toward', 'broom', 'error', 'exile', 'army', 'art'] |  
 | bip_39_word_space_1 | faint |  
 | bip_39_word_space_10 | faint injury radio era love junior toward broom error exile |  

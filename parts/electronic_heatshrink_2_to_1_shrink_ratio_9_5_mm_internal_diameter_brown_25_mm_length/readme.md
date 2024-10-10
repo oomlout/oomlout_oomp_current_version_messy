@@ -122,6 +122,18 @@ method
 volcano
 action
 chat |  
+| bip_39_word_no_space_1 | intact |  
+| bip_39_word_no_space_10 | intactwifeuselessgazesecuritymethodvolcanoactionchatmistake |  
+| bip_39_word_no_space_11 | intactwifeuselessgazesecuritymethodvolcanoactionchatmistakecentury |  
+| bip_39_word_no_space_12 | intactwifeuselessgazesecuritymethodvolcanoactionchatmistakecenturyairport |  
+| bip_39_word_no_space_2 | intactwife |  
+| bip_39_word_no_space_3 | intactwifeuseless |  
+| bip_39_word_no_space_4 | intactwifeuselessgaze |  
+| bip_39_word_no_space_5 | intactwifeuselessgazesecurity |  
+| bip_39_word_no_space_6 | intactwifeuselessgazesecuritymethod |  
+| bip_39_word_no_space_7 | intactwifeuselessgazesecuritymethodvolcano |  
+| bip_39_word_no_space_8 | intactwifeuselessgazesecuritymethodvolcanoaction |  
+| bip_39_word_no_space_9 | intactwifeuselessgazesecuritymethodvolcanoactionchat |  
 | bip_39_word_space_0 | ['intact', 'wife', 'useless', 'gaze', 'security', 'method', 'volcano', 'action', 'chat', 'mistake', 'century', 'airport'] |  
 | bip_39_word_space_1 | intact |  
 | bip_39_word_space_10 | intact wife useless gaze security method volcano action chat mistake |  

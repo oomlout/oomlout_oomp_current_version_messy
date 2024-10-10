@@ -122,6 +122,18 @@ build
 patient
 blood
 antenna |  
+| bip_39_word_no_space_1 | negative |  
+| bip_39_word_no_space_10 | negativeextrapoemwalnutuponbuildpatientbloodantennadeny |  
+| bip_39_word_no_space_11 | negativeextrapoemwalnutuponbuildpatientbloodantennadenytrend |  
+| bip_39_word_no_space_12 | negativeextrapoemwalnutuponbuildpatientbloodantennadenytrendassault |  
+| bip_39_word_no_space_2 | negativeextra |  
+| bip_39_word_no_space_3 | negativeextrapoem |  
+| bip_39_word_no_space_4 | negativeextrapoemwalnut |  
+| bip_39_word_no_space_5 | negativeextrapoemwalnutupon |  
+| bip_39_word_no_space_6 | negativeextrapoemwalnutuponbuild |  
+| bip_39_word_no_space_7 | negativeextrapoemwalnutuponbuildpatient |  
+| bip_39_word_no_space_8 | negativeextrapoemwalnutuponbuildpatientblood |  
+| bip_39_word_no_space_9 | negativeextrapoemwalnutuponbuildpatientbloodantenna |  
 | bip_39_word_space_0 | ['negative', 'extra', 'poem', 'walnut', 'upon', 'build', 'patient', 'blood', 'antenna', 'deny', 'trend', 'assault'] |  
 | bip_39_word_space_1 | negative |  
 | bip_39_word_space_10 | negative extra poem walnut upon build patient blood antenna deny |  

@@ -122,6 +122,18 @@ enhance
 ball
 nation
 real |  
+| bip_39_word_no_space_1 | wrestle |  
+| bip_39_word_no_space_10 | wrestlewifeseriescanalleaderenhanceballnationrealdawn |  
+| bip_39_word_no_space_11 | wrestlewifeseriescanalleaderenhanceballnationrealdawnalmost |  
+| bip_39_word_no_space_12 | wrestlewifeseriescanalleaderenhanceballnationrealdawnalmostability |  
+| bip_39_word_no_space_2 | wrestlewife |  
+| bip_39_word_no_space_3 | wrestlewifeseries |  
+| bip_39_word_no_space_4 | wrestlewifeseriescanal |  
+| bip_39_word_no_space_5 | wrestlewifeseriescanalleader |  
+| bip_39_word_no_space_6 | wrestlewifeseriescanalleaderenhance |  
+| bip_39_word_no_space_7 | wrestlewifeseriescanalleaderenhanceball |  
+| bip_39_word_no_space_8 | wrestlewifeseriescanalleaderenhanceballnation |  
+| bip_39_word_no_space_9 | wrestlewifeseriescanalleaderenhanceballnationreal |  
 | bip_39_word_space_0 | ['wrestle', 'wife', 'series', 'canal', 'leader', 'enhance', 'ball', 'nation', 'real', 'dawn', 'almost', 'ability'] |  
 | bip_39_word_space_1 | wrestle |  
 | bip_39_word_space_10 | wrestle wife series canal leader enhance ball nation real dawn |  

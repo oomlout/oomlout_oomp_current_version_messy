@@ -122,6 +122,18 @@ topple
 snow
 taste
 member |  
+| bip_39_word_no_space_1 | picnic |  
+| bip_39_word_no_space_10 | picnicelephantslogancarbonruraltopplesnowtastememberdepth |  
+| bip_39_word_no_space_11 | picnicelephantslogancarbonruraltopplesnowtastememberdepthblade |  
+| bip_39_word_no_space_12 | picnicelephantslogancarbonruraltopplesnowtastememberdepthbladeanalyst |  
+| bip_39_word_no_space_2 | picnicelephant |  
+| bip_39_word_no_space_3 | picnicelephantslogan |  
+| bip_39_word_no_space_4 | picnicelephantslogancarbon |  
+| bip_39_word_no_space_5 | picnicelephantslogancarbonrural |  
+| bip_39_word_no_space_6 | picnicelephantslogancarbonruraltopple |  
+| bip_39_word_no_space_7 | picnicelephantslogancarbonruraltopplesnow |  
+| bip_39_word_no_space_8 | picnicelephantslogancarbonruraltopplesnowtaste |  
+| bip_39_word_no_space_9 | picnicelephantslogancarbonruraltopplesnowtastemember |  
 | bip_39_word_space_0 | ['picnic', 'elephant', 'slogan', 'carbon', 'rural', 'topple', 'snow', 'taste', 'member', 'depth', 'blade', 'analyst'] |  
 | bip_39_word_space_1 | picnic |  
 | bip_39_word_space_10 | picnic elephant slogan carbon rural topple snow taste member depth |  

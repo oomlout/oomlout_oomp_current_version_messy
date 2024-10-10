@@ -122,6 +122,18 @@ once
 zebra
 husband
 deny |  
+| bip_39_word_no_space_1 | impose |  
+| bip_39_word_no_space_10 | imposediscovergalaxyfuturefilmoncezebrahusbanddenyapril |  
+| bip_39_word_no_space_11 | imposediscovergalaxyfuturefilmoncezebrahusbanddenyaprilmuscle |  
+| bip_39_word_no_space_12 | imposediscovergalaxyfuturefilmoncezebrahusbanddenyaprilmuscleattend |  
+| bip_39_word_no_space_2 | imposediscover |  
+| bip_39_word_no_space_3 | imposediscovergalaxy |  
+| bip_39_word_no_space_4 | imposediscovergalaxyfuture |  
+| bip_39_word_no_space_5 | imposediscovergalaxyfuturefilm |  
+| bip_39_word_no_space_6 | imposediscovergalaxyfuturefilmonce |  
+| bip_39_word_no_space_7 | imposediscovergalaxyfuturefilmoncezebra |  
+| bip_39_word_no_space_8 | imposediscovergalaxyfuturefilmoncezebrahusband |  
+| bip_39_word_no_space_9 | imposediscovergalaxyfuturefilmoncezebrahusbanddeny |  
 | bip_39_word_space_0 | ['impose', 'discover', 'galaxy', 'future', 'film', 'once', 'zebra', 'husband', 'deny', 'april', 'muscle', 'attend'] |  
 | bip_39_word_space_1 | impose |  
 | bip_39_word_space_10 | impose discover galaxy future film once zebra husband deny april |  

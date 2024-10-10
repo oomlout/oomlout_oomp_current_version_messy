@@ -122,6 +122,18 @@ suit
 fox
 apart
 myth |  
+| bip_39_word_no_space_1 | submit |  
+| bip_39_word_no_space_10 | submitbananastairsbundleorbitsuitfoxapartmythempower |  
+| bip_39_word_no_space_11 | submitbananastairsbundleorbitsuitfoxapartmythempowerarrow |  
+| bip_39_word_no_space_12 | submitbananastairsbundleorbitsuitfoxapartmythempowerarrowanother |  
+| bip_39_word_no_space_2 | submitbanana |  
+| bip_39_word_no_space_3 | submitbananastairs |  
+| bip_39_word_no_space_4 | submitbananastairsbundle |  
+| bip_39_word_no_space_5 | submitbananastairsbundleorbit |  
+| bip_39_word_no_space_6 | submitbananastairsbundleorbitsuit |  
+| bip_39_word_no_space_7 | submitbananastairsbundleorbitsuitfox |  
+| bip_39_word_no_space_8 | submitbananastairsbundleorbitsuitfoxapart |  
+| bip_39_word_no_space_9 | submitbananastairsbundleorbitsuitfoxapartmyth |  
 | bip_39_word_space_0 | ['submit', 'banana', 'stairs', 'bundle', 'orbit', 'suit', 'fox', 'apart', 'myth', 'empower', 'arrow', 'another'] |  
 | bip_39_word_space_1 | submit |  
 | bip_39_word_space_10 | submit banana stairs bundle orbit suit fox apart myth empower |  

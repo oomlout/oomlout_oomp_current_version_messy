@@ -122,6 +122,18 @@ manual
 educate
 regret
 stove |  
+| bip_39_word_no_space_1 | gauge |  
+| bip_39_word_no_space_10 | gaugestairspotterymemberdecoratemanualeducateregretstovecity |  
+| bip_39_word_no_space_11 | gaugestairspotterymemberdecoratemanualeducateregretstovecityjar |  
+| bip_39_word_no_space_12 | gaugestairspotterymemberdecoratemanualeducateregretstovecityjararch |  
+| bip_39_word_no_space_2 | gaugestairs |  
+| bip_39_word_no_space_3 | gaugestairspottery |  
+| bip_39_word_no_space_4 | gaugestairspotterymember |  
+| bip_39_word_no_space_5 | gaugestairspotterymemberdecorate |  
+| bip_39_word_no_space_6 | gaugestairspotterymemberdecoratemanual |  
+| bip_39_word_no_space_7 | gaugestairspotterymemberdecoratemanualeducate |  
+| bip_39_word_no_space_8 | gaugestairspotterymemberdecoratemanualeducateregret |  
+| bip_39_word_no_space_9 | gaugestairspotterymemberdecoratemanualeducateregretstove |  
 | bip_39_word_space_0 | ['gauge', 'stairs', 'pottery', 'member', 'decorate', 'manual', 'educate', 'regret', 'stove', 'city', 'jar', 'arch'] |  
 | bip_39_word_space_1 | gauge |  
 | bip_39_word_space_10 | gauge stairs pottery member decorate manual educate regret stove city |  

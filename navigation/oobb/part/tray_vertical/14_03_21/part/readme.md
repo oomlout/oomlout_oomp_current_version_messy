@@ -122,6 +122,18 @@ cloth
 harbor
 lazy
 verb |  
+| bip_39_word_no_space_1 | girl |  
+| bip_39_word_no_space_10 | girlcattleinspirewavepoleclothharborlazyverbunder |  
+| bip_39_word_no_space_11 | girlcattleinspirewavepoleclothharborlazyverbunderfound |  
+| bip_39_word_no_space_12 | girlcattleinspirewavepoleclothharborlazyverbunderfoundaisle |  
+| bip_39_word_no_space_2 | girlcattle |  
+| bip_39_word_no_space_3 | girlcattleinspire |  
+| bip_39_word_no_space_4 | girlcattleinspirewave |  
+| bip_39_word_no_space_5 | girlcattleinspirewavepole |  
+| bip_39_word_no_space_6 | girlcattleinspirewavepolecloth |  
+| bip_39_word_no_space_7 | girlcattleinspirewavepoleclothharbor |  
+| bip_39_word_no_space_8 | girlcattleinspirewavepoleclothharborlazy |  
+| bip_39_word_no_space_9 | girlcattleinspirewavepoleclothharborlazyverb |  
 | bip_39_word_space_0 | ['girl', 'cattle', 'inspire', 'wave', 'pole', 'cloth', 'harbor', 'lazy', 'verb', 'under', 'found', 'aisle'] |  
 | bip_39_word_space_1 | girl |  
 | bip_39_word_space_10 | girl cattle inspire wave pole cloth harbor lazy verb under |  

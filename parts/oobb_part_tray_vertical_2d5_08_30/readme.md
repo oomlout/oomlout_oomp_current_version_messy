@@ -122,6 +122,18 @@ route
 corn
 squirrel
 dune |  
+| bip_39_word_no_space_1 | office |  
+| bip_39_word_no_space_10 | officeflashmaskpioneerbeltroutecornsquirreldunetrade |  
+| bip_39_word_no_space_11 | officeflashmaskpioneerbeltroutecornsquirreldunetradefinish |  
+| bip_39_word_no_space_12 | officeflashmaskpioneerbeltroutecornsquirreldunetradefinishadult |  
+| bip_39_word_no_space_2 | officeflash |  
+| bip_39_word_no_space_3 | officeflashmask |  
+| bip_39_word_no_space_4 | officeflashmaskpioneer |  
+| bip_39_word_no_space_5 | officeflashmaskpioneerbelt |  
+| bip_39_word_no_space_6 | officeflashmaskpioneerbeltroute |  
+| bip_39_word_no_space_7 | officeflashmaskpioneerbeltroutecorn |  
+| bip_39_word_no_space_8 | officeflashmaskpioneerbeltroutecornsquirrel |  
+| bip_39_word_no_space_9 | officeflashmaskpioneerbeltroutecornsquirreldune |  
 | bip_39_word_space_0 | ['office', 'flash', 'mask', 'pioneer', 'belt', 'route', 'corn', 'squirrel', 'dune', 'trade', 'finish', 'adult'] |  
 | bip_39_word_space_1 | office |  
 | bip_39_word_space_10 | office flash mask pioneer belt route corn squirrel dune trade |  

@@ -122,6 +122,18 @@ nest
 move
 bird
 citizen |  
+| bip_39_word_no_space_1 | rough |  
+| bip_39_word_no_space_10 | roughinformapologyspeakenternestmovebirdcitizenunique |  
+| bip_39_word_no_space_11 | roughinformapologyspeakenternestmovebirdcitizenuniquetreat |  
+| bip_39_word_no_space_12 | roughinformapologyspeakenternestmovebirdcitizenuniquetreatability |  
+| bip_39_word_no_space_2 | roughinform |  
+| bip_39_word_no_space_3 | roughinformapology |  
+| bip_39_word_no_space_4 | roughinformapologyspeak |  
+| bip_39_word_no_space_5 | roughinformapologyspeakenter |  
+| bip_39_word_no_space_6 | roughinformapologyspeakenternest |  
+| bip_39_word_no_space_7 | roughinformapologyspeakenternestmove |  
+| bip_39_word_no_space_8 | roughinformapologyspeakenternestmovebird |  
+| bip_39_word_no_space_9 | roughinformapologyspeakenternestmovebirdcitizen |  
 | bip_39_word_space_0 | ['rough', 'inform', 'apology', 'speak', 'enter', 'nest', 'move', 'bird', 'citizen', 'unique', 'treat', 'ability'] |  
 | bip_39_word_space_1 | rough |  
 | bip_39_word_space_10 | rough inform apology speak enter nest move bird citizen unique |  

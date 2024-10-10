@@ -122,6 +122,18 @@ circle
 rule
 ice
 pulp |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyeadmitawkwardpenaltysailcircleruleicepulpthere |  
+| bip_39_word_no_space_11 | eyeadmitawkwardpenaltysailcircleruleicepulptheremyself |  
+| bip_39_word_no_space_12 | eyeadmitawkwardpenaltysailcircleruleicepulptheremyselfact |  
+| bip_39_word_no_space_2 | eyeadmit |  
+| bip_39_word_no_space_3 | eyeadmitawkward |  
+| bip_39_word_no_space_4 | eyeadmitawkwardpenalty |  
+| bip_39_word_no_space_5 | eyeadmitawkwardpenaltysail |  
+| bip_39_word_no_space_6 | eyeadmitawkwardpenaltysailcircle |  
+| bip_39_word_no_space_7 | eyeadmitawkwardpenaltysailcirclerule |  
+| bip_39_word_no_space_8 | eyeadmitawkwardpenaltysailcircleruleice |  
+| bip_39_word_no_space_9 | eyeadmitawkwardpenaltysailcircleruleicepulp |  
 | bip_39_word_space_0 | ['eye', 'admit', 'awkward', 'penalty', 'sail', 'circle', 'rule', 'ice', 'pulp', 'there', 'myself', 'act'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye admit awkward penalty sail circle rule ice pulp there |  

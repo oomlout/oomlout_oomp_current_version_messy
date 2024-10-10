@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pupil
   net
 
   corn'
+bip_39_word_no_space_1: pupil
+bip_39_word_no_space_10: pupiltwentypracticetidelionringgingernetcornhabit
+bip_39_word_no_space_11: pupiltwentypracticetidelionringgingernetcornhabitsame
+bip_39_word_no_space_12: pupiltwentypracticetidelionringgingernetcornhabitsameamused
+bip_39_word_no_space_2: pupiltwenty
+bip_39_word_no_space_3: pupiltwentypractice
+bip_39_word_no_space_4: pupiltwentypracticetide
+bip_39_word_no_space_5: pupiltwentypracticetidelion
+bip_39_word_no_space_6: pupiltwentypracticetidelionring
+bip_39_word_no_space_7: pupiltwentypracticetidelionringginger
+bip_39_word_no_space_8: pupiltwentypracticetidelionringgingernet
+bip_39_word_no_space_9: pupiltwentypracticetidelionringgingernetcorn
 bip_39_word_space_0:
 - pupil
 - twenty

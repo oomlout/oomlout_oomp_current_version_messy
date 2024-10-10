@@ -122,6 +122,18 @@ heavy
 reduce
 visit
 beyond |  
+| bip_39_word_no_space_1 | direct |  
+| bip_39_word_no_space_10 | directdogdeclinerisklicenseheavyreducevisitbeyondclump |  
+| bip_39_word_no_space_11 | directdogdeclinerisklicenseheavyreducevisitbeyondclumpclick |  
+| bip_39_word_no_space_12 | directdogdeclinerisklicenseheavyreducevisitbeyondclumpclickafford |  
+| bip_39_word_no_space_2 | directdog |  
+| bip_39_word_no_space_3 | directdogdecline |  
+| bip_39_word_no_space_4 | directdogdeclinerisk |  
+| bip_39_word_no_space_5 | directdogdeclinerisklicense |  
+| bip_39_word_no_space_6 | directdogdeclinerisklicenseheavy |  
+| bip_39_word_no_space_7 | directdogdeclinerisklicenseheavyreduce |  
+| bip_39_word_no_space_8 | directdogdeclinerisklicenseheavyreducevisit |  
+| bip_39_word_no_space_9 | directdogdeclinerisklicenseheavyreducevisitbeyond |  
 | bip_39_word_space_0 | ['direct', 'dog', 'decline', 'risk', 'license', 'heavy', 'reduce', 'visit', 'beyond', 'clump', 'click', 'afford'] |  
 | bip_39_word_space_1 | direct |  
 | bip_39_word_space_10 | direct dog decline risk license heavy reduce visit beyond clump |  

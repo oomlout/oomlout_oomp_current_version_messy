@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'pair
   finish
 
   plastic'
+bip_39_word_no_space_1: pair
+bip_39_word_no_space_10: pairabsentsteakmatrixcloudsiblingentryfinishplasticleg
+bip_39_word_no_space_11: pairabsentsteakmatrixcloudsiblingentryfinishplasticlegelbow
+bip_39_word_no_space_12: pairabsentsteakmatrixcloudsiblingentryfinishplasticlegelbowany
+bip_39_word_no_space_2: pairabsent
+bip_39_word_no_space_3: pairabsentsteak
+bip_39_word_no_space_4: pairabsentsteakmatrix
+bip_39_word_no_space_5: pairabsentsteakmatrixcloud
+bip_39_word_no_space_6: pairabsentsteakmatrixcloudsibling
+bip_39_word_no_space_7: pairabsentsteakmatrixcloudsiblingentry
+bip_39_word_no_space_8: pairabsentsteakmatrixcloudsiblingentryfinish
+bip_39_word_no_space_9: pairabsentsteakmatrixcloudsiblingentryfinishplastic
 bip_39_word_space_0:
 - pair
 - absent

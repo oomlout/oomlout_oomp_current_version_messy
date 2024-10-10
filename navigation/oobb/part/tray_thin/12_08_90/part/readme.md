@@ -122,6 +122,18 @@ win
 layer
 drift
 flip |  
+| bip_39_word_no_space_1 | slogan |  
+| bip_39_word_no_space_10 | sloganmagicheightpicnicparadewinlayerdriftfliphub |  
+| bip_39_word_no_space_11 | sloganmagicheightpicnicparadewinlayerdriftfliphubmove |  
+| bip_39_word_no_space_12 | sloganmagicheightpicnicparadewinlayerdriftfliphubmoveactress |  
+| bip_39_word_no_space_2 | sloganmagic |  
+| bip_39_word_no_space_3 | sloganmagicheight |  
+| bip_39_word_no_space_4 | sloganmagicheightpicnic |  
+| bip_39_word_no_space_5 | sloganmagicheightpicnicparade |  
+| bip_39_word_no_space_6 | sloganmagicheightpicnicparadewin |  
+| bip_39_word_no_space_7 | sloganmagicheightpicnicparadewinlayer |  
+| bip_39_word_no_space_8 | sloganmagicheightpicnicparadewinlayerdrift |  
+| bip_39_word_no_space_9 | sloganmagicheightpicnicparadewinlayerdriftflip |  
 | bip_39_word_space_0 | ['slogan', 'magic', 'height', 'picnic', 'parade', 'win', 'layer', 'drift', 'flip', 'hub', 'move', 'actress'] |  
 | bip_39_word_space_1 | slogan |  
 | bip_39_word_space_10 | slogan magic height picnic parade win layer drift flip hub |  

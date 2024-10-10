@@ -122,6 +122,18 @@ season
 winter
 east
 noise |  
+| bip_39_word_no_space_1 | basic |  
+| bip_39_word_no_space_10 | basicsuitwarriorpumpkinelementseasonwintereastnoiseutility |  
+| bip_39_word_no_space_11 | basicsuitwarriorpumpkinelementseasonwintereastnoiseutilityflip |  
+| bip_39_word_no_space_12 | basicsuitwarriorpumpkinelementseasonwintereastnoiseutilityflipaffair |  
+| bip_39_word_no_space_2 | basicsuit |  
+| bip_39_word_no_space_3 | basicsuitwarrior |  
+| bip_39_word_no_space_4 | basicsuitwarriorpumpkin |  
+| bip_39_word_no_space_5 | basicsuitwarriorpumpkinelement |  
+| bip_39_word_no_space_6 | basicsuitwarriorpumpkinelementseason |  
+| bip_39_word_no_space_7 | basicsuitwarriorpumpkinelementseasonwinter |  
+| bip_39_word_no_space_8 | basicsuitwarriorpumpkinelementseasonwintereast |  
+| bip_39_word_no_space_9 | basicsuitwarriorpumpkinelementseasonwintereastnoise |  
 | bip_39_word_space_0 | ['basic', 'suit', 'warrior', 'pumpkin', 'element', 'season', 'winter', 'east', 'noise', 'utility', 'flip', 'affair'] |  
 | bip_39_word_space_1 | basic |  
 | bip_39_word_space_10 | basic suit warrior pumpkin element season winter east noise utility |  

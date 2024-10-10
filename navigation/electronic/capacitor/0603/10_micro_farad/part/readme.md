@@ -109,6 +109,17 @@ connect
 treat
 sunny
 shiver |  
+| bip_39_word_no_space_1 | aerobic |  
+| bip_39_word_no_space_10 | aerobicpioneerpotterywritefeverconnecttreatsunnyshiverequip |  
+| bip_39_word_no_space_11 | aerobicpioneerpotterywritefeverconnecttreatsunnyshiverequipspy |  
+| bip_39_word_no_space_2 | aerobicpioneer |  
+| bip_39_word_no_space_3 | aerobicpioneerpottery |  
+| bip_39_word_no_space_4 | aerobicpioneerpotterywrite |  
+| bip_39_word_no_space_5 | aerobicpioneerpotterywritefever |  
+| bip_39_word_no_space_6 | aerobicpioneerpotterywritefeverconnect |  
+| bip_39_word_no_space_7 | aerobicpioneerpotterywritefeverconnecttreat |  
+| bip_39_word_no_space_8 | aerobicpioneerpotterywritefeverconnecttreatsunny |  
+| bip_39_word_no_space_9 | aerobicpioneerpotterywritefeverconnecttreatsunnyshiver |  
 | bip_39_word_space_0 | ['aerobic', 'pioneer', 'pottery', 'write', 'fever', 'connect', 'treat', 'sunny', 'shiver', 'equip', 'spy'] |  
 | bip_39_word_space_1 | aerobic |  
 | bip_39_word_space_10 | aerobic pioneer pottery write fever connect treat sunny shiver equip |  

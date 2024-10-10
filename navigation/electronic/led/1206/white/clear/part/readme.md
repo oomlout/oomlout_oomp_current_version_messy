@@ -122,6 +122,18 @@ december
 confirm
 regular
 uncover |  
+| bip_39_word_no_space_1 | nature |  
+| bip_39_word_no_space_10 | naturecradlepauselabacousticdecemberconfirmregularuncoverstock |  
+| bip_39_word_no_space_11 | naturecradlepauselabacousticdecemberconfirmregularuncoverstockantenna |  
+| bip_39_word_no_space_12 | naturecradlepauselabacousticdecemberconfirmregularuncoverstockantennaamused |  
+| bip_39_word_no_space_2 | naturecradle |  
+| bip_39_word_no_space_3 | naturecradlepause |  
+| bip_39_word_no_space_4 | naturecradlepauselab |  
+| bip_39_word_no_space_5 | naturecradlepauselabacoustic |  
+| bip_39_word_no_space_6 | naturecradlepauselabacousticdecember |  
+| bip_39_word_no_space_7 | naturecradlepauselabacousticdecemberconfirm |  
+| bip_39_word_no_space_8 | naturecradlepauselabacousticdecemberconfirmregular |  
+| bip_39_word_no_space_9 | naturecradlepauselabacousticdecemberconfirmregularuncover |  
 | bip_39_word_space_0 | ['nature', 'cradle', 'pause', 'lab', 'acoustic', 'december', 'confirm', 'regular', 'uncover', 'stock', 'antenna', 'amused'] |  
 | bip_39_word_space_1 | nature |  
 | bip_39_word_space_10 | nature cradle pause lab acoustic december confirm regular uncover stock |  

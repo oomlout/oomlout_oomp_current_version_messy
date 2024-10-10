@@ -122,6 +122,18 @@ purpose
 shove
 orbit
 october |  
+| bip_39_word_no_space_1 | frown |  
+| bip_39_word_no_space_10 | frownlaughwifefrequentwisdompurposeshoveorbitoctoberpioneer |  
+| bip_39_word_no_space_11 | frownlaughwifefrequentwisdompurposeshoveorbitoctoberpioneerwin |  
+| bip_39_word_no_space_12 | frownlaughwifefrequentwisdompurposeshoveorbitoctoberpioneerwinarch |  
+| bip_39_word_no_space_2 | frownlaugh |  
+| bip_39_word_no_space_3 | frownlaughwife |  
+| bip_39_word_no_space_4 | frownlaughwifefrequent |  
+| bip_39_word_no_space_5 | frownlaughwifefrequentwisdom |  
+| bip_39_word_no_space_6 | frownlaughwifefrequentwisdompurpose |  
+| bip_39_word_no_space_7 | frownlaughwifefrequentwisdompurposeshove |  
+| bip_39_word_no_space_8 | frownlaughwifefrequentwisdompurposeshoveorbit |  
+| bip_39_word_no_space_9 | frownlaughwifefrequentwisdompurposeshoveorbitoctober |  
 | bip_39_word_space_0 | ['frown', 'laugh', 'wife', 'frequent', 'wisdom', 'purpose', 'shove', 'orbit', 'october', 'pioneer', 'win', 'arch'] |  
 | bip_39_word_space_1 | frown |  
 | bip_39_word_space_10 | frown laugh wife frequent wisdom purpose shove orbit october pioneer |  

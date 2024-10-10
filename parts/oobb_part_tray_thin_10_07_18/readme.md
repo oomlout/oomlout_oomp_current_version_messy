@@ -122,6 +122,18 @@ tenant
 black
 lottery
 cat |  
+| bip_39_word_no_space_1 | flat |  
+| bip_39_word_no_space_10 | flatdeergriefembracewheeltenantblacklotterycatbelieve |  
+| bip_39_word_no_space_11 | flatdeergriefembracewheeltenantblacklotterycatbelievehint |  
+| bip_39_word_no_space_12 | flatdeergriefembracewheeltenantblacklotterycatbelievehintamazing |  
+| bip_39_word_no_space_2 | flatdeer |  
+| bip_39_word_no_space_3 | flatdeergrief |  
+| bip_39_word_no_space_4 | flatdeergriefembrace |  
+| bip_39_word_no_space_5 | flatdeergriefembracewheel |  
+| bip_39_word_no_space_6 | flatdeergriefembracewheeltenant |  
+| bip_39_word_no_space_7 | flatdeergriefembracewheeltenantblack |  
+| bip_39_word_no_space_8 | flatdeergriefembracewheeltenantblacklottery |  
+| bip_39_word_no_space_9 | flatdeergriefembracewheeltenantblacklotterycat |  
 | bip_39_word_space_0 | ['flat', 'deer', 'grief', 'embrace', 'wheel', 'tenant', 'black', 'lottery', 'cat', 'believe', 'hint', 'amazing'] |  
 | bip_39_word_space_1 | flat |  
 | bip_39_word_space_10 | flat deer grief embrace wheel tenant black lottery cat believe |  

@@ -122,6 +122,18 @@ head
 romance
 street
 vivid |  
+| bip_39_word_no_space_1 | custom |  
+| bip_39_word_no_space_10 | customborrowaboutgruntgiveheadromancestreetvividearth |  
+| bip_39_word_no_space_11 | customborrowaboutgruntgiveheadromancestreetvividearthquiz |  
+| bip_39_word_no_space_12 | customborrowaboutgruntgiveheadromancestreetvividearthquizasset |  
+| bip_39_word_no_space_2 | customborrow |  
+| bip_39_word_no_space_3 | customborrowabout |  
+| bip_39_word_no_space_4 | customborrowaboutgrunt |  
+| bip_39_word_no_space_5 | customborrowaboutgruntgive |  
+| bip_39_word_no_space_6 | customborrowaboutgruntgivehead |  
+| bip_39_word_no_space_7 | customborrowaboutgruntgiveheadromance |  
+| bip_39_word_no_space_8 | customborrowaboutgruntgiveheadromancestreet |  
+| bip_39_word_no_space_9 | customborrowaboutgruntgiveheadromancestreetvivid |  
 | bip_39_word_space_0 | ['custom', 'borrow', 'about', 'grunt', 'give', 'head', 'romance', 'street', 'vivid', 'earth', 'quiz', 'asset'] |  
 | bip_39_word_space_1 | custom |  
 | bip_39_word_space_10 | custom borrow about grunt give head romance street vivid earth |  

@@ -122,6 +122,18 @@ error
 profit
 spirit
 decorate |  
+| bip_39_word_no_space_1 | aunt |  
+| bip_39_word_no_space_10 | auntinvitetankunhappyinitialerrorprofitspiritdecoratebook |  
+| bip_39_word_no_space_11 | auntinvitetankunhappyinitialerrorprofitspiritdecoratebookclip |  
+| bip_39_word_no_space_12 | auntinvitetankunhappyinitialerrorprofitspiritdecoratebookclipability |  
+| bip_39_word_no_space_2 | auntinvite |  
+| bip_39_word_no_space_3 | auntinvitetank |  
+| bip_39_word_no_space_4 | auntinvitetankunhappy |  
+| bip_39_word_no_space_5 | auntinvitetankunhappyinitial |  
+| bip_39_word_no_space_6 | auntinvitetankunhappyinitialerror |  
+| bip_39_word_no_space_7 | auntinvitetankunhappyinitialerrorprofit |  
+| bip_39_word_no_space_8 | auntinvitetankunhappyinitialerrorprofitspirit |  
+| bip_39_word_no_space_9 | auntinvitetankunhappyinitialerrorprofitspiritdecorate |  
 | bip_39_word_space_0 | ['aunt', 'invite', 'tank', 'unhappy', 'initial', 'error', 'profit', 'spirit', 'decorate', 'book', 'clip', 'ability'] |  
 | bip_39_word_space_1 | aunt |  
 | bip_39_word_space_10 | aunt invite tank unhappy initial error profit spirit decorate book |  

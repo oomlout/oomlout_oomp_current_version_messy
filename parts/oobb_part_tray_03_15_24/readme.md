@@ -122,6 +122,18 @@ anchor
 nuclear
 you
 ugly |  
+| bip_39_word_no_space_1 | liberty |  
+| bip_39_word_no_space_10 | libertystumbleenrollglideholdanchornuclearyouuglymaster |  
+| bip_39_word_no_space_11 | libertystumbleenrollglideholdanchornuclearyouuglymastermonth |  
+| bip_39_word_no_space_12 | libertystumbleenrollglideholdanchornuclearyouuglymastermonthaugust |  
+| bip_39_word_no_space_2 | libertystumble |  
+| bip_39_word_no_space_3 | libertystumbleenroll |  
+| bip_39_word_no_space_4 | libertystumbleenrollglide |  
+| bip_39_word_no_space_5 | libertystumbleenrollglidehold |  
+| bip_39_word_no_space_6 | libertystumbleenrollglideholdanchor |  
+| bip_39_word_no_space_7 | libertystumbleenrollglideholdanchornuclear |  
+| bip_39_word_no_space_8 | libertystumbleenrollglideholdanchornuclearyou |  
+| bip_39_word_no_space_9 | libertystumbleenrollglideholdanchornuclearyouugly |  
 | bip_39_word_space_0 | ['liberty', 'stumble', 'enroll', 'glide', 'hold', 'anchor', 'nuclear', 'you', 'ugly', 'master', 'month', 'august'] |  
 | bip_39_word_space_1 | liberty |  
 | bip_39_word_space_10 | liberty stumble enroll glide hold anchor nuclear you ugly master |  

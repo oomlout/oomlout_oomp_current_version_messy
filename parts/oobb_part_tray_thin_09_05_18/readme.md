@@ -122,6 +122,18 @@ render
 liquid
 economy
 uncover |  
+| bip_39_word_no_space_1 | noise |  
+| bip_39_word_no_space_10 | noisefosterachieveessenceleafrenderliquideconomyuncovertray |  
+| bip_39_word_no_space_11 | noisefosterachieveessenceleafrenderliquideconomyuncovertrayglide |  
+| bip_39_word_no_space_12 | noisefosterachieveessenceleafrenderliquideconomyuncovertrayglidealcohol |  
+| bip_39_word_no_space_2 | noisefoster |  
+| bip_39_word_no_space_3 | noisefosterachieve |  
+| bip_39_word_no_space_4 | noisefosterachieveessence |  
+| bip_39_word_no_space_5 | noisefosterachieveessenceleaf |  
+| bip_39_word_no_space_6 | noisefosterachieveessenceleafrender |  
+| bip_39_word_no_space_7 | noisefosterachieveessenceleafrenderliquid |  
+| bip_39_word_no_space_8 | noisefosterachieveessenceleafrenderliquideconomy |  
+| bip_39_word_no_space_9 | noisefosterachieveessenceleafrenderliquideconomyuncover |  
 | bip_39_word_space_0 | ['noise', 'foster', 'achieve', 'essence', 'leaf', 'render', 'liquid', 'economy', 'uncover', 'tray', 'glide', 'alcohol'] |  
 | bip_39_word_space_1 | noise |  
 | bip_39_word_space_10 | noise foster achieve essence leaf render liquid economy uncover tray |  

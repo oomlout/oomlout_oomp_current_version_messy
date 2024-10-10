@@ -122,6 +122,18 @@ bleak
 armor
 neutral
 option |  
+| bip_39_word_no_space_1 | chest |  
+| bip_39_word_no_space_10 | chestaffordskillmidnightmultiplybleakarmorneutraloptionicon |  
+| bip_39_word_no_space_11 | chestaffordskillmidnightmultiplybleakarmorneutraloptioniconeye |  
+| bip_39_word_no_space_12 | chestaffordskillmidnightmultiplybleakarmorneutraloptioniconeyeartwork |  
+| bip_39_word_no_space_2 | chestafford |  
+| bip_39_word_no_space_3 | chestaffordskill |  
+| bip_39_word_no_space_4 | chestaffordskillmidnight |  
+| bip_39_word_no_space_5 | chestaffordskillmidnightmultiply |  
+| bip_39_word_no_space_6 | chestaffordskillmidnightmultiplybleak |  
+| bip_39_word_no_space_7 | chestaffordskillmidnightmultiplybleakarmor |  
+| bip_39_word_no_space_8 | chestaffordskillmidnightmultiplybleakarmorneutral |  
+| bip_39_word_no_space_9 | chestaffordskillmidnightmultiplybleakarmorneutraloption |  
 | bip_39_word_space_0 | ['chest', 'afford', 'skill', 'midnight', 'multiply', 'bleak', 'armor', 'neutral', 'option', 'icon', 'eye', 'artwork'] |  
 | bip_39_word_space_1 | chest |  
 | bip_39_word_space_10 | chest afford skill midnight multiply bleak armor neutral option icon |  

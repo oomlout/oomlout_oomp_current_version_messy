@@ -122,6 +122,18 @@ immense
 bid
 slim
 neutral |  
+| bip_39_word_no_space_1 | theme |  
+| bip_39_word_no_space_10 | themehoteltoysuggestcultureimmensebidslimneutraladjust |  
+| bip_39_word_no_space_11 | themehoteltoysuggestcultureimmensebidslimneutraladjustsurround |  
+| bip_39_word_no_space_12 | themehoteltoysuggestcultureimmensebidslimneutraladjustsurroundactual |  
+| bip_39_word_no_space_2 | themehotel |  
+| bip_39_word_no_space_3 | themehoteltoy |  
+| bip_39_word_no_space_4 | themehoteltoysuggest |  
+| bip_39_word_no_space_5 | themehoteltoysuggestculture |  
+| bip_39_word_no_space_6 | themehoteltoysuggestcultureimmense |  
+| bip_39_word_no_space_7 | themehoteltoysuggestcultureimmensebid |  
+| bip_39_word_no_space_8 | themehoteltoysuggestcultureimmensebidslim |  
+| bip_39_word_no_space_9 | themehoteltoysuggestcultureimmensebidslimneutral |  
 | bip_39_word_space_0 | ['theme', 'hotel', 'toy', 'suggest', 'culture', 'immense', 'bid', 'slim', 'neutral', 'adjust', 'surround', 'actual'] |  
 | bip_39_word_space_1 | theme |  
 | bip_39_word_space_10 | theme hotel toy suggest culture immense bid slim neutral adjust |  

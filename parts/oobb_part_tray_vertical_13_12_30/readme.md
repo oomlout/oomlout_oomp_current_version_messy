@@ -122,6 +122,18 @@ resource
 glad
 blood
 strong |  
+| bip_39_word_no_space_1 | super |  
+| bip_39_word_no_space_10 | superharvestrampprocessgazeresourcegladbloodstrongthumb |  
+| bip_39_word_no_space_11 | superharvestrampprocessgazeresourcegladbloodstrongthumbready |  
+| bip_39_word_no_space_12 | superharvestrampprocessgazeresourcegladbloodstrongthumbreadyarmor |  
+| bip_39_word_no_space_2 | superharvest |  
+| bip_39_word_no_space_3 | superharvestramp |  
+| bip_39_word_no_space_4 | superharvestrampprocess |  
+| bip_39_word_no_space_5 | superharvestrampprocessgaze |  
+| bip_39_word_no_space_6 | superharvestrampprocessgazeresource |  
+| bip_39_word_no_space_7 | superharvestrampprocessgazeresourceglad |  
+| bip_39_word_no_space_8 | superharvestrampprocessgazeresourcegladblood |  
+| bip_39_word_no_space_9 | superharvestrampprocessgazeresourcegladbloodstrong |  
 | bip_39_word_space_0 | ['super', 'harvest', 'ramp', 'process', 'gaze', 'resource', 'glad', 'blood', 'strong', 'thumb', 'ready', 'armor'] |  
 | bip_39_word_space_1 | super |  
 | bip_39_word_space_10 | super harvest ramp process gaze resource glad blood strong thumb |  

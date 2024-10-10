@@ -122,6 +122,18 @@ oxygen
 logic
 before
 resist |  
+| bip_39_word_no_space_1 | pair |  
+| bip_39_word_no_space_10 | pairtophardenrollcultureoxygenlogicbeforeresistyard |  
+| bip_39_word_no_space_11 | pairtophardenrollcultureoxygenlogicbeforeresistyardoccur |  
+| bip_39_word_no_space_12 | pairtophardenrollcultureoxygenlogicbeforeresistyardoccuradvice |  
+| bip_39_word_no_space_2 | pairtop |  
+| bip_39_word_no_space_3 | pairtophard |  
+| bip_39_word_no_space_4 | pairtophardenroll |  
+| bip_39_word_no_space_5 | pairtophardenrollculture |  
+| bip_39_word_no_space_6 | pairtophardenrollcultureoxygen |  
+| bip_39_word_no_space_7 | pairtophardenrollcultureoxygenlogic |  
+| bip_39_word_no_space_8 | pairtophardenrollcultureoxygenlogicbefore |  
+| bip_39_word_no_space_9 | pairtophardenrollcultureoxygenlogicbeforeresist |  
 | bip_39_word_space_0 | ['pair', 'top', 'hard', 'enroll', 'culture', 'oxygen', 'logic', 'before', 'resist', 'yard', 'occur', 'advice'] |  
 | bip_39_word_space_1 | pair |  
 | bip_39_word_space_10 | pair top hard enroll culture oxygen logic before resist yard |  

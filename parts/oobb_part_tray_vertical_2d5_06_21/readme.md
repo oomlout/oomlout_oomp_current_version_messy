@@ -122,6 +122,18 @@ jacket
 glow
 exit
 million |  
+| bip_39_word_no_space_1 | try |  
+| bip_39_word_no_space_10 | trychargeverbeightensurejacketglowexitmillionframe |  
+| bip_39_word_no_space_11 | trychargeverbeightensurejacketglowexitmillionframetray |  
+| bip_39_word_no_space_12 | trychargeverbeightensurejacketglowexitmillionframetrayall |  
+| bip_39_word_no_space_2 | trycharge |  
+| bip_39_word_no_space_3 | trychargeverb |  
+| bip_39_word_no_space_4 | trychargeverbeight |  
+| bip_39_word_no_space_5 | trychargeverbeightensure |  
+| bip_39_word_no_space_6 | trychargeverbeightensurejacket |  
+| bip_39_word_no_space_7 | trychargeverbeightensurejacketglow |  
+| bip_39_word_no_space_8 | trychargeverbeightensurejacketglowexit |  
+| bip_39_word_no_space_9 | trychargeverbeightensurejacketglowexitmillion |  
 | bip_39_word_space_0 | ['try', 'charge', 'verb', 'eight', 'ensure', 'jacket', 'glow', 'exit', 'million', 'frame', 'tray', 'all'] |  
 | bip_39_word_space_1 | try |  
 | bip_39_word_space_10 | try charge verb eight ensure jacket glow exit million frame |  

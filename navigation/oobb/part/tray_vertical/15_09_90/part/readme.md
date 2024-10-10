@@ -122,6 +122,18 @@ fuel
 little
 shoe
 slice |  
+| bip_39_word_no_space_1 | manual |  
+| bip_39_word_no_space_10 | manualattendmodelexileversionfuellittleshoesliceshell |  
+| bip_39_word_no_space_11 | manualattendmodelexileversionfuellittleshoesliceshellglad |  
+| bip_39_word_no_space_12 | manualattendmodelexileversionfuellittleshoesliceshellgladadapt |  
+| bip_39_word_no_space_2 | manualattend |  
+| bip_39_word_no_space_3 | manualattendmodel |  
+| bip_39_word_no_space_4 | manualattendmodelexile |  
+| bip_39_word_no_space_5 | manualattendmodelexileversion |  
+| bip_39_word_no_space_6 | manualattendmodelexileversionfuel |  
+| bip_39_word_no_space_7 | manualattendmodelexileversionfuellittle |  
+| bip_39_word_no_space_8 | manualattendmodelexileversionfuellittleshoe |  
+| bip_39_word_no_space_9 | manualattendmodelexileversionfuellittleshoeslice |  
 | bip_39_word_space_0 | ['manual', 'attend', 'model', 'exile', 'version', 'fuel', 'little', 'shoe', 'slice', 'shell', 'glad', 'adapt'] |  
 | bip_39_word_space_1 | manual |  
 | bip_39_word_space_10 | manual attend model exile version fuel little shoe slice shell |  

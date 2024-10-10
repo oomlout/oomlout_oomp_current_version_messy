@@ -122,6 +122,18 @@ evolve
 tunnel
 scatter
 minor |  
+| bip_39_word_no_space_1 | daughter |  
+| bip_39_word_no_space_10 | daughterfoundobviousswarmpeasantevolvetunnelscatterminorspike |  
+| bip_39_word_no_space_11 | daughterfoundobviousswarmpeasantevolvetunnelscatterminorspikeroute |  
+| bip_39_word_no_space_12 | daughterfoundobviousswarmpeasantevolvetunnelscatterminorspikerouteaccuse |  
+| bip_39_word_no_space_2 | daughterfound |  
+| bip_39_word_no_space_3 | daughterfoundobvious |  
+| bip_39_word_no_space_4 | daughterfoundobviousswarm |  
+| bip_39_word_no_space_5 | daughterfoundobviousswarmpeasant |  
+| bip_39_word_no_space_6 | daughterfoundobviousswarmpeasantevolve |  
+| bip_39_word_no_space_7 | daughterfoundobviousswarmpeasantevolvetunnel |  
+| bip_39_word_no_space_8 | daughterfoundobviousswarmpeasantevolvetunnelscatter |  
+| bip_39_word_no_space_9 | daughterfoundobviousswarmpeasantevolvetunnelscatterminor |  
 | bip_39_word_space_0 | ['daughter', 'found', 'obvious', 'swarm', 'peasant', 'evolve', 'tunnel', 'scatter', 'minor', 'spike', 'route', 'accuse'] |  
 | bip_39_word_space_1 | daughter |  
 | bip_39_word_space_10 | daughter found obvious swarm peasant evolve tunnel scatter minor spike |  

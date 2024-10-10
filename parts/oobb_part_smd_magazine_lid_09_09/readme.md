@@ -122,6 +122,18 @@ secret
 predict
 tape
 draft |  
+| bip_39_word_no_space_1 | mammal |  
+| bip_39_word_no_space_10 | mammalchickenillnessexhibitbundlesecretpredicttapedrafthalf |  
+| bip_39_word_no_space_11 | mammalchickenillnessexhibitbundlesecretpredicttapedrafthalfattend |  
+| bip_39_word_no_space_12 | mammalchickenillnessexhibitbundlesecretpredicttapedrafthalfattendarmed |  
+| bip_39_word_no_space_2 | mammalchicken |  
+| bip_39_word_no_space_3 | mammalchickenillness |  
+| bip_39_word_no_space_4 | mammalchickenillnessexhibit |  
+| bip_39_word_no_space_5 | mammalchickenillnessexhibitbundle |  
+| bip_39_word_no_space_6 | mammalchickenillnessexhibitbundlesecret |  
+| bip_39_word_no_space_7 | mammalchickenillnessexhibitbundlesecretpredict |  
+| bip_39_word_no_space_8 | mammalchickenillnessexhibitbundlesecretpredicttape |  
+| bip_39_word_no_space_9 | mammalchickenillnessexhibitbundlesecretpredicttapedraft |  
 | bip_39_word_space_0 | ['mammal', 'chicken', 'illness', 'exhibit', 'bundle', 'secret', 'predict', 'tape', 'draft', 'half', 'attend', 'armed'] |  
 | bip_39_word_space_1 | mammal |  
 | bip_39_word_space_10 | mammal chicken illness exhibit bundle secret predict tape draft half |  

@@ -122,6 +122,18 @@ friend
 meadow
 north
 audit |  
+| bip_39_word_no_space_1 | way |  
+| bip_39_word_no_space_10 | wayexcesstradesurfacecheesefriendmeadownorthauditlamp |  
+| bip_39_word_no_space_11 | wayexcesstradesurfacecheesefriendmeadownorthauditlampskate |  
+| bip_39_word_no_space_12 | wayexcesstradesurfacecheesefriendmeadownorthauditlampskateassume |  
+| bip_39_word_no_space_2 | wayexcess |  
+| bip_39_word_no_space_3 | wayexcesstrade |  
+| bip_39_word_no_space_4 | wayexcesstradesurface |  
+| bip_39_word_no_space_5 | wayexcesstradesurfacecheese |  
+| bip_39_word_no_space_6 | wayexcesstradesurfacecheesefriend |  
+| bip_39_word_no_space_7 | wayexcesstradesurfacecheesefriendmeadow |  
+| bip_39_word_no_space_8 | wayexcesstradesurfacecheesefriendmeadownorth |  
+| bip_39_word_no_space_9 | wayexcesstradesurfacecheesefriendmeadownorthaudit |  
 | bip_39_word_space_0 | ['way', 'excess', 'trade', 'surface', 'cheese', 'friend', 'meadow', 'north', 'audit', 'lamp', 'skate', 'assume'] |  
 | bip_39_word_space_1 | way |  
 | bip_39_word_space_10 | way excess trade surface cheese friend meadow north audit lamp |  

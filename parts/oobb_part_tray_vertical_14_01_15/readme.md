@@ -122,6 +122,18 @@ jeans
 mercy
 whisper
 unfair |  
+| bip_39_word_no_space_1 | ceiling |  
+| bip_39_word_no_space_10 | ceilingtorchcramabsurdspiritjeansmercywhisperunfairdream |  
+| bip_39_word_no_space_11 | ceilingtorchcramabsurdspiritjeansmercywhisperunfairdreamgrid |  
+| bip_39_word_no_space_12 | ceilingtorchcramabsurdspiritjeansmercywhisperunfairdreamgridanger |  
+| bip_39_word_no_space_2 | ceilingtorch |  
+| bip_39_word_no_space_3 | ceilingtorchcram |  
+| bip_39_word_no_space_4 | ceilingtorchcramabsurd |  
+| bip_39_word_no_space_5 | ceilingtorchcramabsurdspirit |  
+| bip_39_word_no_space_6 | ceilingtorchcramabsurdspiritjeans |  
+| bip_39_word_no_space_7 | ceilingtorchcramabsurdspiritjeansmercy |  
+| bip_39_word_no_space_8 | ceilingtorchcramabsurdspiritjeansmercywhisper |  
+| bip_39_word_no_space_9 | ceilingtorchcramabsurdspiritjeansmercywhisperunfair |  
 | bip_39_word_space_0 | ['ceiling', 'torch', 'cram', 'absurd', 'spirit', 'jeans', 'mercy', 'whisper', 'unfair', 'dream', 'grid', 'anger'] |  
 | bip_39_word_space_1 | ceiling |  
 | bip_39_word_space_10 | ceiling torch cram absurd spirit jeans mercy whisper unfair dream |  

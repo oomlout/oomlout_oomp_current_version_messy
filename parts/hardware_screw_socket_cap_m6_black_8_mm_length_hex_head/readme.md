@@ -122,6 +122,18 @@ black
 picnic
 oven
 wine |  
+| bip_39_word_no_space_1 | bind |  
+| bip_39_word_no_space_10 | bindenemyramppumpkinunderblackpicnicovenwinelaw |  
+| bip_39_word_no_space_11 | bindenemyramppumpkinunderblackpicnicovenwinelawprogram |  
+| bip_39_word_no_space_12 | bindenemyramppumpkinunderblackpicnicovenwinelawprogramankle |  
+| bip_39_word_no_space_2 | bindenemy |  
+| bip_39_word_no_space_3 | bindenemyramp |  
+| bip_39_word_no_space_4 | bindenemyramppumpkin |  
+| bip_39_word_no_space_5 | bindenemyramppumpkinunder |  
+| bip_39_word_no_space_6 | bindenemyramppumpkinunderblack |  
+| bip_39_word_no_space_7 | bindenemyramppumpkinunderblackpicnic |  
+| bip_39_word_no_space_8 | bindenemyramppumpkinunderblackpicnicoven |  
+| bip_39_word_no_space_9 | bindenemyramppumpkinunderblackpicnicovenwine |  
 | bip_39_word_space_0 | ['bind', 'enemy', 'ramp', 'pumpkin', 'under', 'black', 'picnic', 'oven', 'wine', 'law', 'program', 'ankle'] |  
 | bip_39_word_space_1 | bind |  
 | bip_39_word_space_10 | bind enemy ramp pumpkin under black picnic oven wine law |  

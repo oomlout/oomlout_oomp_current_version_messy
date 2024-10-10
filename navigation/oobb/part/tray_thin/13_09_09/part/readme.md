@@ -122,6 +122,18 @@ speak
 before
 trade
 wage |  
+| bip_39_word_no_space_1 | chase |  
+| bip_39_word_no_space_10 | chaseportioncraftstagelabelspeakbeforetradewagebusy |  
+| bip_39_word_no_space_11 | chaseportioncraftstagelabelspeakbeforetradewagebusynoodle |  
+| bip_39_word_no_space_12 | chaseportioncraftstagelabelspeakbeforetradewagebusynoodleaddress |  
+| bip_39_word_no_space_2 | chaseportion |  
+| bip_39_word_no_space_3 | chaseportioncraft |  
+| bip_39_word_no_space_4 | chaseportioncraftstage |  
+| bip_39_word_no_space_5 | chaseportioncraftstagelabel |  
+| bip_39_word_no_space_6 | chaseportioncraftstagelabelspeak |  
+| bip_39_word_no_space_7 | chaseportioncraftstagelabelspeakbefore |  
+| bip_39_word_no_space_8 | chaseportioncraftstagelabelspeakbeforetrade |  
+| bip_39_word_no_space_9 | chaseportioncraftstagelabelspeakbeforetradewage |  
 | bip_39_word_space_0 | ['chase', 'portion', 'craft', 'stage', 'label', 'speak', 'before', 'trade', 'wage', 'busy', 'noodle', 'address'] |  
 | bip_39_word_space_1 | chase |  
 | bip_39_word_space_10 | chase portion craft stage label speak before trade wage busy |  

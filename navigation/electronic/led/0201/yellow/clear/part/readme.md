@@ -122,6 +122,18 @@ pulse
 warfare
 reason
 original |  
+| bip_39_word_no_space_1 | mother |  
+| bip_39_word_no_space_10 | motherdomainketchupjourneyshootpulsewarfarereasonoriginalswim |  
+| bip_39_word_no_space_11 | motherdomainketchupjourneyshootpulsewarfarereasonoriginalswimforget |  
+| bip_39_word_no_space_12 | motherdomainketchupjourneyshootpulsewarfarereasonoriginalswimforgetanimal |  
+| bip_39_word_no_space_2 | motherdomain |  
+| bip_39_word_no_space_3 | motherdomainketchup |  
+| bip_39_word_no_space_4 | motherdomainketchupjourney |  
+| bip_39_word_no_space_5 | motherdomainketchupjourneyshoot |  
+| bip_39_word_no_space_6 | motherdomainketchupjourneyshootpulse |  
+| bip_39_word_no_space_7 | motherdomainketchupjourneyshootpulsewarfare |  
+| bip_39_word_no_space_8 | motherdomainketchupjourneyshootpulsewarfarereason |  
+| bip_39_word_no_space_9 | motherdomainketchupjourneyshootpulsewarfarereasonoriginal |  
 | bip_39_word_space_0 | ['mother', 'domain', 'ketchup', 'journey', 'shoot', 'pulse', 'warfare', 'reason', 'original', 'swim', 'forget', 'animal'] |  
 | bip_39_word_space_1 | mother |  
 | bip_39_word_space_10 | mother domain ketchup journey shoot pulse warfare reason original swim |  

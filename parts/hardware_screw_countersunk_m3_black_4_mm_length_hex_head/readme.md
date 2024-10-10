@@ -122,6 +122,18 @@ fork
 neutral
 vacuum
 retire |  
+| bip_39_word_no_space_1 | leisure |  
+| bip_39_word_no_space_10 | leisurerequiretacklebetraydiagramforkneutralvacuumretirecrunch |  
+| bip_39_word_no_space_11 | leisurerequiretacklebetraydiagramforkneutralvacuumretirecrunchsoccer |  
+| bip_39_word_no_space_12 | leisurerequiretacklebetraydiagramforkneutralvacuumretirecrunchsocceracross |  
+| bip_39_word_no_space_2 | leisurerequire |  
+| bip_39_word_no_space_3 | leisurerequiretackle |  
+| bip_39_word_no_space_4 | leisurerequiretacklebetray |  
+| bip_39_word_no_space_5 | leisurerequiretacklebetraydiagram |  
+| bip_39_word_no_space_6 | leisurerequiretacklebetraydiagramfork |  
+| bip_39_word_no_space_7 | leisurerequiretacklebetraydiagramforkneutral |  
+| bip_39_word_no_space_8 | leisurerequiretacklebetraydiagramforkneutralvacuum |  
+| bip_39_word_no_space_9 | leisurerequiretacklebetraydiagramforkneutralvacuumretire |  
 | bip_39_word_space_0 | ['leisure', 'require', 'tackle', 'betray', 'diagram', 'fork', 'neutral', 'vacuum', 'retire', 'crunch', 'soccer', 'across'] |  
 | bip_39_word_space_1 | leisure |  
 | bip_39_word_space_10 | leisure require tackle betray diagram fork neutral vacuum retire crunch |  

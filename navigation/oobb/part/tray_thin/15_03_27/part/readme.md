@@ -122,6 +122,18 @@ pill
 lizard
 sea
 claw |  
+| bip_39_word_no_space_1 | abstract |  
+| bip_39_word_no_space_10 | abstractyardvehiclejunklaborpilllizardseaclawlimit |  
+| bip_39_word_no_space_11 | abstractyardvehiclejunklaborpilllizardseaclawlimitwinner |  
+| bip_39_word_no_space_12 | abstractyardvehiclejunklaborpilllizardseaclawlimitwinneract |  
+| bip_39_word_no_space_2 | abstractyard |  
+| bip_39_word_no_space_3 | abstractyardvehicle |  
+| bip_39_word_no_space_4 | abstractyardvehiclejunk |  
+| bip_39_word_no_space_5 | abstractyardvehiclejunklabor |  
+| bip_39_word_no_space_6 | abstractyardvehiclejunklaborpill |  
+| bip_39_word_no_space_7 | abstractyardvehiclejunklaborpilllizard |  
+| bip_39_word_no_space_8 | abstractyardvehiclejunklaborpilllizardsea |  
+| bip_39_word_no_space_9 | abstractyardvehiclejunklaborpilllizardseaclaw |  
 | bip_39_word_space_0 | ['abstract', 'yard', 'vehicle', 'junk', 'labor', 'pill', 'lizard', 'sea', 'claw', 'limit', 'winner', 'act'] |  
 | bip_39_word_space_1 | abstract |  
 | bip_39_word_space_10 | abstract yard vehicle junk labor pill lizard sea claw limit |  

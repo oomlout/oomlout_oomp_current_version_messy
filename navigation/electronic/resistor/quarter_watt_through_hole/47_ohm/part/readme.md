@@ -122,6 +122,18 @@ design
 fox
 zebra
 gain |  
+| bip_39_word_no_space_1 | enrich |  
+| bip_39_word_no_space_10 | enrichtitledrumglowphonedesignfoxzebragainpistol |  
+| bip_39_word_no_space_11 | enrichtitledrumglowphonedesignfoxzebragainpistolfabric |  
+| bip_39_word_no_space_12 | enrichtitledrumglowphonedesignfoxzebragainpistolfabricannual |  
+| bip_39_word_no_space_2 | enrichtitle |  
+| bip_39_word_no_space_3 | enrichtitledrum |  
+| bip_39_word_no_space_4 | enrichtitledrumglow |  
+| bip_39_word_no_space_5 | enrichtitledrumglowphone |  
+| bip_39_word_no_space_6 | enrichtitledrumglowphonedesign |  
+| bip_39_word_no_space_7 | enrichtitledrumglowphonedesignfox |  
+| bip_39_word_no_space_8 | enrichtitledrumglowphonedesignfoxzebra |  
+| bip_39_word_no_space_9 | enrichtitledrumglowphonedesignfoxzebragain |  
 | bip_39_word_space_0 | ['enrich', 'title', 'drum', 'glow', 'phone', 'design', 'fox', 'zebra', 'gain', 'pistol', 'fabric', 'annual'] |  
 | bip_39_word_space_1 | enrich |  
 | bip_39_word_space_10 | enrich title drum glow phone design fox zebra gain pistol |  

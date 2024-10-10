@@ -122,6 +122,18 @@ shed
 spell
 salt
 bleak |  
+| bip_39_word_no_space_1 | valve |  
+| bip_39_word_no_space_10 | valveplatetruecrewholeshedspellsaltbleaksuit |  
+| bip_39_word_no_space_11 | valveplatetruecrewholeshedspellsaltbleaksuitsalmon |  
+| bip_39_word_no_space_12 | valveplatetruecrewholeshedspellsaltbleaksuitsalmonagain |  
+| bip_39_word_no_space_2 | valveplate |  
+| bip_39_word_no_space_3 | valveplatetrue |  
+| bip_39_word_no_space_4 | valveplatetruecrew |  
+| bip_39_word_no_space_5 | valveplatetruecrewhole |  
+| bip_39_word_no_space_6 | valveplatetruecrewholeshed |  
+| bip_39_word_no_space_7 | valveplatetruecrewholeshedspell |  
+| bip_39_word_no_space_8 | valveplatetruecrewholeshedspellsalt |  
+| bip_39_word_no_space_9 | valveplatetruecrewholeshedspellsaltbleak |  
 | bip_39_word_space_0 | ['valve', 'plate', 'true', 'crew', 'hole', 'shed', 'spell', 'salt', 'bleak', 'suit', 'salmon', 'again'] |  
 | bip_39_word_space_1 | valve |  
 | bip_39_word_space_10 | valve plate true crew hole shed spell salt bleak suit |  

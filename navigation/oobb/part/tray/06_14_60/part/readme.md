@@ -122,6 +122,18 @@ boat
 sick
 series
 fuel |  
+| bip_39_word_no_space_1 | indoor |  
+| bip_39_word_no_space_10 | indoorartistgarbagereunionstableboatsickseriesfuelunique |  
+| bip_39_word_no_space_11 | indoorartistgarbagereunionstableboatsickseriesfueluniqueclinic |  
+| bip_39_word_no_space_12 | indoorartistgarbagereunionstableboatsickseriesfueluniqueclinicanalyst |  
+| bip_39_word_no_space_2 | indoorartist |  
+| bip_39_word_no_space_3 | indoorartistgarbage |  
+| bip_39_word_no_space_4 | indoorartistgarbagereunion |  
+| bip_39_word_no_space_5 | indoorartistgarbagereunionstable |  
+| bip_39_word_no_space_6 | indoorartistgarbagereunionstableboat |  
+| bip_39_word_no_space_7 | indoorartistgarbagereunionstableboatsick |  
+| bip_39_word_no_space_8 | indoorartistgarbagereunionstableboatsickseries |  
+| bip_39_word_no_space_9 | indoorartistgarbagereunionstableboatsickseriesfuel |  
 | bip_39_word_space_0 | ['indoor', 'artist', 'garbage', 'reunion', 'stable', 'boat', 'sick', 'series', 'fuel', 'unique', 'clinic', 'analyst'] |  
 | bip_39_word_space_1 | indoor |  
 | bip_39_word_space_10 | indoor artist garbage reunion stable boat sick series fuel unique |  

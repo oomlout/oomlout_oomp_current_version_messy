@@ -122,6 +122,18 @@ mix
 chicken
 left
 neck |  
+| bip_39_word_no_space_1 | crawl |  
+| bip_39_word_no_space_10 | crawlcarpetcoreremindfoilmixchickenleftneckeconomy |  
+| bip_39_word_no_space_11 | crawlcarpetcoreremindfoilmixchickenleftneckeconomyreplace |  
+| bip_39_word_no_space_12 | crawlcarpetcoreremindfoilmixchickenleftneckeconomyreplaceapple |  
+| bip_39_word_no_space_2 | crawlcarpet |  
+| bip_39_word_no_space_3 | crawlcarpetcore |  
+| bip_39_word_no_space_4 | crawlcarpetcoreremind |  
+| bip_39_word_no_space_5 | crawlcarpetcoreremindfoil |  
+| bip_39_word_no_space_6 | crawlcarpetcoreremindfoilmix |  
+| bip_39_word_no_space_7 | crawlcarpetcoreremindfoilmixchicken |  
+| bip_39_word_no_space_8 | crawlcarpetcoreremindfoilmixchickenleft |  
+| bip_39_word_no_space_9 | crawlcarpetcoreremindfoilmixchickenleftneck |  
 | bip_39_word_space_0 | ['crawl', 'carpet', 'core', 'remind', 'foil', 'mix', 'chicken', 'left', 'neck', 'economy', 'replace', 'apple'] |  
 | bip_39_word_space_1 | crawl |  
 | bip_39_word_space_10 | crawl carpet core remind foil mix chicken left neck economy |  

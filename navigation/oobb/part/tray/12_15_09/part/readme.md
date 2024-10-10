@@ -122,6 +122,18 @@ butter
 glue
 inmate
 device |  
+| bip_39_word_no_space_1 | feature |  
+| bip_39_word_no_space_10 | featuresickexpresstenantpeacebutterglueinmatedevicetired |  
+| bip_39_word_no_space_11 | featuresickexpresstenantpeacebutterglueinmatedevicetiredtribe |  
+| bip_39_word_no_space_12 | featuresickexpresstenantpeacebutterglueinmatedevicetiredtribeanalyst |  
+| bip_39_word_no_space_2 | featuresick |  
+| bip_39_word_no_space_3 | featuresickexpress |  
+| bip_39_word_no_space_4 | featuresickexpresstenant |  
+| bip_39_word_no_space_5 | featuresickexpresstenantpeace |  
+| bip_39_word_no_space_6 | featuresickexpresstenantpeacebutter |  
+| bip_39_word_no_space_7 | featuresickexpresstenantpeacebutterglue |  
+| bip_39_word_no_space_8 | featuresickexpresstenantpeacebutterglueinmate |  
+| bip_39_word_no_space_9 | featuresickexpresstenantpeacebutterglueinmatedevice |  
 | bip_39_word_space_0 | ['feature', 'sick', 'express', 'tenant', 'peace', 'butter', 'glue', 'inmate', 'device', 'tired', 'tribe', 'analyst'] |  
 | bip_39_word_space_1 | feature |  
 | bip_39_word_space_10 | feature sick express tenant peace butter glue inmate device tired |  

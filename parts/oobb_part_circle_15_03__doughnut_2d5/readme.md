@@ -122,6 +122,18 @@ august
 elite
 regular
 deny |  
+| bip_39_word_no_space_1 | mad |  
+| bip_39_word_no_space_10 | madshedcourseblurstudentaugusteliteregulardenyengine |  
+| bip_39_word_no_space_11 | madshedcourseblurstudentaugusteliteregulardenyengineknee |  
+| bip_39_word_no_space_12 | madshedcourseblurstudentaugusteliteregulardenyenginekneeable |  
+| bip_39_word_no_space_2 | madshed |  
+| bip_39_word_no_space_3 | madshedcourse |  
+| bip_39_word_no_space_4 | madshedcourseblur |  
+| bip_39_word_no_space_5 | madshedcourseblurstudent |  
+| bip_39_word_no_space_6 | madshedcourseblurstudentaugust |  
+| bip_39_word_no_space_7 | madshedcourseblurstudentaugustelite |  
+| bip_39_word_no_space_8 | madshedcourseblurstudentaugusteliteregular |  
+| bip_39_word_no_space_9 | madshedcourseblurstudentaugusteliteregulardeny |  
 | bip_39_word_space_0 | ['mad', 'shed', 'course', 'blur', 'student', 'august', 'elite', 'regular', 'deny', 'engine', 'knee', 'able'] |  
 | bip_39_word_space_1 | mad |  
 | bip_39_word_space_10 | mad shed course blur student august elite regular deny engine |  

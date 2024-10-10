@@ -122,6 +122,18 @@ lucky
 advice
 grocery
 unit |  
+| bip_39_word_no_space_1 | charge |  
+| bip_39_word_no_space_10 | chargeupgradeneckfileobligeluckyadvicegroceryunitbargain |  
+| bip_39_word_no_space_11 | chargeupgradeneckfileobligeluckyadvicegroceryunitbargainsuch |  
+| bip_39_word_no_space_12 | chargeupgradeneckfileobligeluckyadvicegroceryunitbargainsuchadmit |  
+| bip_39_word_no_space_2 | chargeupgrade |  
+| bip_39_word_no_space_3 | chargeupgradeneck |  
+| bip_39_word_no_space_4 | chargeupgradeneckfile |  
+| bip_39_word_no_space_5 | chargeupgradeneckfileoblige |  
+| bip_39_word_no_space_6 | chargeupgradeneckfileobligelucky |  
+| bip_39_word_no_space_7 | chargeupgradeneckfileobligeluckyadvice |  
+| bip_39_word_no_space_8 | chargeupgradeneckfileobligeluckyadvicegrocery |  
+| bip_39_word_no_space_9 | chargeupgradeneckfileobligeluckyadvicegroceryunit |  
 | bip_39_word_space_0 | ['charge', 'upgrade', 'neck', 'file', 'oblige', 'lucky', 'advice', 'grocery', 'unit', 'bargain', 'such', 'admit'] |  
 | bip_39_word_space_1 | charge |  
 | bip_39_word_space_10 | charge upgrade neck file oblige lucky advice grocery unit bargain |  

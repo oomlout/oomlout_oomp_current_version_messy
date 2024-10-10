@@ -122,6 +122,18 @@ travel
 caught
 enforce
 age |  
+| bip_39_word_no_space_1 | reward |  
+| bip_39_word_no_space_10 | rewardquestiondigitalaimsecrettravelcaughtenforceagedrastic |  
+| bip_39_word_no_space_11 | rewardquestiondigitalaimsecrettravelcaughtenforceagedrastichub |  
+| bip_39_word_no_space_12 | rewardquestiondigitalaimsecrettravelcaughtenforceagedrastichubamong |  
+| bip_39_word_no_space_2 | rewardquestion |  
+| bip_39_word_no_space_3 | rewardquestiondigital |  
+| bip_39_word_no_space_4 | rewardquestiondigitalaim |  
+| bip_39_word_no_space_5 | rewardquestiondigitalaimsecret |  
+| bip_39_word_no_space_6 | rewardquestiondigitalaimsecrettravel |  
+| bip_39_word_no_space_7 | rewardquestiondigitalaimsecrettravelcaught |  
+| bip_39_word_no_space_8 | rewardquestiondigitalaimsecrettravelcaughtenforce |  
+| bip_39_word_no_space_9 | rewardquestiondigitalaimsecrettravelcaughtenforceage |  
 | bip_39_word_space_0 | ['reward', 'question', 'digital', 'aim', 'secret', 'travel', 'caught', 'enforce', 'age', 'drastic', 'hub', 'among'] |  
 | bip_39_word_space_1 | reward |  
 | bip_39_word_space_10 | reward question digital aim secret travel caught enforce age drastic |  

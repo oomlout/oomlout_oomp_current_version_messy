@@ -122,6 +122,18 @@ remain
 guess
 often
 easily |  
+| bip_39_word_no_space_1 | day |  
+| bip_39_word_no_space_10 | dayopinionroadaheadangerremainguessofteneasilysolve |  
+| bip_39_word_no_space_11 | dayopinionroadaheadangerremainguessofteneasilysolvesomeone |  
+| bip_39_word_no_space_12 | dayopinionroadaheadangerremainguessofteneasilysolvesomeoneall |  
+| bip_39_word_no_space_2 | dayopinion |  
+| bip_39_word_no_space_3 | dayopinionroad |  
+| bip_39_word_no_space_4 | dayopinionroadahead |  
+| bip_39_word_no_space_5 | dayopinionroadaheadanger |  
+| bip_39_word_no_space_6 | dayopinionroadaheadangerremain |  
+| bip_39_word_no_space_7 | dayopinionroadaheadangerremainguess |  
+| bip_39_word_no_space_8 | dayopinionroadaheadangerremainguessoften |  
+| bip_39_word_no_space_9 | dayopinionroadaheadangerremainguessofteneasily |  
 | bip_39_word_space_0 | ['day', 'opinion', 'road', 'ahead', 'anger', 'remain', 'guess', 'often', 'easily', 'solve', 'someone', 'all'] |  
 | bip_39_word_space_1 | day |  
 | bip_39_word_space_10 | day opinion road ahead anger remain guess often easily solve |  

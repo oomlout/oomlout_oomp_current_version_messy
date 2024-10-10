@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'size
   fork
 
   stand'
+bip_39_word_no_space_1: size
+bip_39_word_no_space_10: sizeshortstephoverbannerzoowelcomeforkstandcolor
+bip_39_word_no_space_11: sizeshortstephoverbannerzoowelcomeforkstandcolorspecial
+bip_39_word_no_space_12: sizeshortstephoverbannerzoowelcomeforkstandcolorspecialarctic
+bip_39_word_no_space_2: sizeshort
+bip_39_word_no_space_3: sizeshortstep
+bip_39_word_no_space_4: sizeshortstephover
+bip_39_word_no_space_5: sizeshortstephoverbanner
+bip_39_word_no_space_6: sizeshortstephoverbannerzoo
+bip_39_word_no_space_7: sizeshortstephoverbannerzoowelcome
+bip_39_word_no_space_8: sizeshortstephoverbannerzoowelcomefork
+bip_39_word_no_space_9: sizeshortstephoverbannerzoowelcomeforkstand
 bip_39_word_space_0:
 - size
 - short

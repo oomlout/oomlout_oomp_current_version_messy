@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'scene
   notable
 
   train'
+bip_39_word_no_space_1: scene
+bip_39_word_no_space_10: scenerudetrimduneshellnaturesplitnotabletrainmatrix
+bip_39_word_no_space_11: scenerudetrimduneshellnaturesplitnotabletrainmatrixparent
+bip_39_word_no_space_12: scenerudetrimduneshellnaturesplitnotabletrainmatrixparentauto
+bip_39_word_no_space_2: scenerude
+bip_39_word_no_space_3: scenerudetrim
+bip_39_word_no_space_4: scenerudetrimdune
+bip_39_word_no_space_5: scenerudetrimduneshell
+bip_39_word_no_space_6: scenerudetrimduneshellnature
+bip_39_word_no_space_7: scenerudetrimduneshellnaturesplit
+bip_39_word_no_space_8: scenerudetrimduneshellnaturesplitnotable
+bip_39_word_no_space_9: scenerudetrimduneshellnaturesplitnotabletrain
 bip_39_word_space_0:
 - scene
 - rude

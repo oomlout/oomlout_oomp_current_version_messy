@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'boss
   theme
 
   steel'
+bip_39_word_no_space_1: boss
+bip_39_word_no_space_10: bosstoothboosttentbrokenfreshforumthemesteelsteel
+bip_39_word_no_space_11: bosstoothboosttentbrokenfreshforumthemesteelsteelcopy
+bip_39_word_no_space_12: bosstoothboosttentbrokenfreshforumthemesteelsteelcopyannounce
+bip_39_word_no_space_2: bosstooth
+bip_39_word_no_space_3: bosstoothboost
+bip_39_word_no_space_4: bosstoothboosttent
+bip_39_word_no_space_5: bosstoothboosttentbroken
+bip_39_word_no_space_6: bosstoothboosttentbrokenfresh
+bip_39_word_no_space_7: bosstoothboosttentbrokenfreshforum
+bip_39_word_no_space_8: bosstoothboosttentbrokenfreshforumtheme
+bip_39_word_no_space_9: bosstoothboosttentbrokenfreshforumthemesteel
 bip_39_word_space_0:
 - boss
 - tooth

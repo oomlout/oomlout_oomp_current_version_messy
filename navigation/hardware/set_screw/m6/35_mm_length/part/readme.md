@@ -122,6 +122,18 @@ solar
 punch
 arrange
 rebuild |  
+| bip_39_word_no_space_1 | inspire |  
+| bip_39_word_no_space_10 | inspirerememberridecouplestingsolarpuncharrangerebuildunlock |  
+| bip_39_word_no_space_11 | inspirerememberridecouplestingsolarpuncharrangerebuildunlockfetch |  
+| bip_39_word_no_space_12 | inspirerememberridecouplestingsolarpuncharrangerebuildunlockfetchangry |  
+| bip_39_word_no_space_2 | inspireremember |  
+| bip_39_word_no_space_3 | inspirerememberride |  
+| bip_39_word_no_space_4 | inspirerememberridecouple |  
+| bip_39_word_no_space_5 | inspirerememberridecouplesting |  
+| bip_39_word_no_space_6 | inspirerememberridecouplestingsolar |  
+| bip_39_word_no_space_7 | inspirerememberridecouplestingsolarpunch |  
+| bip_39_word_no_space_8 | inspirerememberridecouplestingsolarpuncharrange |  
+| bip_39_word_no_space_9 | inspirerememberridecouplestingsolarpuncharrangerebuild |  
 | bip_39_word_space_0 | ['inspire', 'remember', 'ride', 'couple', 'sting', 'solar', 'punch', 'arrange', 'rebuild', 'unlock', 'fetch', 'angry'] |  
 | bip_39_word_space_1 | inspire |  
 | bip_39_word_space_10 | inspire remember ride couple sting solar punch arrange rebuild unlock |  

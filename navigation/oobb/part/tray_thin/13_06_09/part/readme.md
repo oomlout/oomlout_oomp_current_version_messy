@@ -122,6 +122,18 @@ vintage
 rich
 capable
 thunder |  
+| bip_39_word_no_space_1 | profit |  
+| bip_39_word_no_space_10 | profitpalmhuntverifyunusualvintagerichcapablethunderrecord |  
+| bip_39_word_no_space_11 | profitpalmhuntverifyunusualvintagerichcapablethunderrecordwarm |  
+| bip_39_word_no_space_12 | profitpalmhuntverifyunusualvintagerichcapablethunderrecordwarmalbum |  
+| bip_39_word_no_space_2 | profitpalm |  
+| bip_39_word_no_space_3 | profitpalmhunt |  
+| bip_39_word_no_space_4 | profitpalmhuntverify |  
+| bip_39_word_no_space_5 | profitpalmhuntverifyunusual |  
+| bip_39_word_no_space_6 | profitpalmhuntverifyunusualvintage |  
+| bip_39_word_no_space_7 | profitpalmhuntverifyunusualvintagerich |  
+| bip_39_word_no_space_8 | profitpalmhuntverifyunusualvintagerichcapable |  
+| bip_39_word_no_space_9 | profitpalmhuntverifyunusualvintagerichcapablethunder |  
 | bip_39_word_space_0 | ['profit', 'palm', 'hunt', 'verify', 'unusual', 'vintage', 'rich', 'capable', 'thunder', 'record', 'warm', 'album'] |  
 | bip_39_word_space_1 | profit |  
 | bip_39_word_space_10 | profit palm hunt verify unusual vintage rich capable thunder record |  

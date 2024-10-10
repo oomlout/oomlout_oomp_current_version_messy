@@ -122,6 +122,18 @@ play
 surface
 kiss
 polar |  
+| bip_39_word_no_space_1 | frozen |  
+| bip_39_word_no_space_10 | frozenseasonlimitgeneralsaladplaysurfacekisspolarobey |  
+| bip_39_word_no_space_11 | frozenseasonlimitgeneralsaladplaysurfacekisspolarobeyalert |  
+| bip_39_word_no_space_12 | frozenseasonlimitgeneralsaladplaysurfacekisspolarobeyalertaddict |  
+| bip_39_word_no_space_2 | frozenseason |  
+| bip_39_word_no_space_3 | frozenseasonlimit |  
+| bip_39_word_no_space_4 | frozenseasonlimitgeneral |  
+| bip_39_word_no_space_5 | frozenseasonlimitgeneralsalad |  
+| bip_39_word_no_space_6 | frozenseasonlimitgeneralsaladplay |  
+| bip_39_word_no_space_7 | frozenseasonlimitgeneralsaladplaysurface |  
+| bip_39_word_no_space_8 | frozenseasonlimitgeneralsaladplaysurfacekiss |  
+| bip_39_word_no_space_9 | frozenseasonlimitgeneralsaladplaysurfacekisspolar |  
 | bip_39_word_space_0 | ['frozen', 'season', 'limit', 'general', 'salad', 'play', 'surface', 'kiss', 'polar', 'obey', 'alert', 'addict'] |  
 | bip_39_word_space_1 | frozen |  
 | bip_39_word_space_10 | frozen season limit general salad play surface kiss polar obey |  

@@ -122,6 +122,18 @@ spatial
 fruit
 ivory
 enlist |  
+| bip_39_word_no_space_1 | dolphin |  
+| bip_39_word_no_space_10 | dolphinnobletentrocketescapespatialfruitivoryenlisttwice |  
+| bip_39_word_no_space_11 | dolphinnobletentrocketescapespatialfruitivoryenlisttwicebrave |  
+| bip_39_word_no_space_12 | dolphinnobletentrocketescapespatialfruitivoryenlisttwicebraveair |  
+| bip_39_word_no_space_2 | dolphinnoble |  
+| bip_39_word_no_space_3 | dolphinnobletent |  
+| bip_39_word_no_space_4 | dolphinnobletentrocket |  
+| bip_39_word_no_space_5 | dolphinnobletentrocketescape |  
+| bip_39_word_no_space_6 | dolphinnobletentrocketescapespatial |  
+| bip_39_word_no_space_7 | dolphinnobletentrocketescapespatialfruit |  
+| bip_39_word_no_space_8 | dolphinnobletentrocketescapespatialfruitivory |  
+| bip_39_word_no_space_9 | dolphinnobletentrocketescapespatialfruitivoryenlist |  
 | bip_39_word_space_0 | ['dolphin', 'noble', 'tent', 'rocket', 'escape', 'spatial', 'fruit', 'ivory', 'enlist', 'twice', 'brave', 'air'] |  
 | bip_39_word_space_1 | dolphin |  
 | bip_39_word_space_10 | dolphin noble tent rocket escape spatial fruit ivory enlist twice |  

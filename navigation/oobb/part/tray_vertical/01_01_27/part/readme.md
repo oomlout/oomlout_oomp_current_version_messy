@@ -122,6 +122,18 @@ reform
 grass
 kid
 fiction |  
+| bip_39_word_no_space_1 | what |  
+| bip_39_word_no_space_10 | whatsymptomtiltmountainwordreformgrasskidfictionwrong |  
+| bip_39_word_no_space_11 | whatsymptomtiltmountainwordreformgrasskidfictionwrongexecute |  
+| bip_39_word_no_space_12 | whatsymptomtiltmountainwordreformgrasskidfictionwrongexecuteanalyst |  
+| bip_39_word_no_space_2 | whatsymptom |  
+| bip_39_word_no_space_3 | whatsymptomtilt |  
+| bip_39_word_no_space_4 | whatsymptomtiltmountain |  
+| bip_39_word_no_space_5 | whatsymptomtiltmountainword |  
+| bip_39_word_no_space_6 | whatsymptomtiltmountainwordreform |  
+| bip_39_word_no_space_7 | whatsymptomtiltmountainwordreformgrass |  
+| bip_39_word_no_space_8 | whatsymptomtiltmountainwordreformgrasskid |  
+| bip_39_word_no_space_9 | whatsymptomtiltmountainwordreformgrasskidfiction |  
 | bip_39_word_space_0 | ['what', 'symptom', 'tilt', 'mountain', 'word', 'reform', 'grass', 'kid', 'fiction', 'wrong', 'execute', 'analyst'] |  
 | bip_39_word_space_1 | what |  
 | bip_39_word_space_10 | what symptom tilt mountain word reform grass kid fiction wrong |  

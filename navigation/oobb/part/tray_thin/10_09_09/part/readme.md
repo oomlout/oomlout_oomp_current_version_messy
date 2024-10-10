@@ -122,6 +122,18 @@ muffin
 again
 castle
 follow |  
+| bip_39_word_no_space_1 | tent |  
+| bip_39_word_no_space_10 | tentsleepdicepredicthoneymuffinagaincastlefollowday |  
+| bip_39_word_no_space_11 | tentsleepdicepredicthoneymuffinagaincastlefollowdayslam |  
+| bip_39_word_no_space_12 | tentsleepdicepredicthoneymuffinagaincastlefollowdayslamattract |  
+| bip_39_word_no_space_2 | tentsleep |  
+| bip_39_word_no_space_3 | tentsleepdice |  
+| bip_39_word_no_space_4 | tentsleepdicepredict |  
+| bip_39_word_no_space_5 | tentsleepdicepredicthoney |  
+| bip_39_word_no_space_6 | tentsleepdicepredicthoneymuffin |  
+| bip_39_word_no_space_7 | tentsleepdicepredicthoneymuffinagain |  
+| bip_39_word_no_space_8 | tentsleepdicepredicthoneymuffinagaincastle |  
+| bip_39_word_no_space_9 | tentsleepdicepredicthoneymuffinagaincastlefollow |  
 | bip_39_word_space_0 | ['tent', 'sleep', 'dice', 'predict', 'honey', 'muffin', 'again', 'castle', 'follow', 'day', 'slam', 'attract'] |  
 | bip_39_word_space_1 | tent |  
 | bip_39_word_space_10 | tent sleep dice predict honey muffin again castle follow day |  

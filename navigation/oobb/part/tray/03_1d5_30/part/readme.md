@@ -122,6 +122,18 @@ into
 equal
 trap
 fade |  
+| bip_39_word_no_space_1 | powder |  
+| bip_39_word_no_space_10 | powderreleaselicenseexcessmotherintoequaltrapfadeburger |  
+| bip_39_word_no_space_11 | powderreleaselicenseexcessmotherintoequaltrapfadeburgerhorror |  
+| bip_39_word_no_space_12 | powderreleaselicenseexcessmotherintoequaltrapfadeburgerhorrorapart |  
+| bip_39_word_no_space_2 | powderrelease |  
+| bip_39_word_no_space_3 | powderreleaselicense |  
+| bip_39_word_no_space_4 | powderreleaselicenseexcess |  
+| bip_39_word_no_space_5 | powderreleaselicenseexcessmother |  
+| bip_39_word_no_space_6 | powderreleaselicenseexcessmotherinto |  
+| bip_39_word_no_space_7 | powderreleaselicenseexcessmotherintoequal |  
+| bip_39_word_no_space_8 | powderreleaselicenseexcessmotherintoequaltrap |  
+| bip_39_word_no_space_9 | powderreleaselicenseexcessmotherintoequaltrapfade |  
 | bip_39_word_space_0 | ['powder', 'release', 'license', 'excess', 'mother', 'into', 'equal', 'trap', 'fade', 'burger', 'horror', 'apart'] |  
 | bip_39_word_space_1 | powder |  
 | bip_39_word_space_10 | powder release license excess mother into equal trap fade burger |  

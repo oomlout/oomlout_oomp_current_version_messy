@@ -122,6 +122,18 @@ spirit
 embrace
 fitness
 filter |  
+| bip_39_word_no_space_1 | victory |  
+| bip_39_word_no_space_10 | victorysenseuselessswiftvirtualspiritembracefitnessfilterdrink |  
+| bip_39_word_no_space_11 | victorysenseuselessswiftvirtualspiritembracefitnessfilterdrinkobject |  
+| bip_39_word_no_space_12 | victorysenseuselessswiftvirtualspiritembracefitnessfilterdrinkobjectattack |  
+| bip_39_word_no_space_2 | victorysense |  
+| bip_39_word_no_space_3 | victorysenseuseless |  
+| bip_39_word_no_space_4 | victorysenseuselessswift |  
+| bip_39_word_no_space_5 | victorysenseuselessswiftvirtual |  
+| bip_39_word_no_space_6 | victorysenseuselessswiftvirtualspirit |  
+| bip_39_word_no_space_7 | victorysenseuselessswiftvirtualspiritembrace |  
+| bip_39_word_no_space_8 | victorysenseuselessswiftvirtualspiritembracefitness |  
+| bip_39_word_no_space_9 | victorysenseuselessswiftvirtualspiritembracefitnessfilter |  
 | bip_39_word_space_0 | ['victory', 'sense', 'useless', 'swift', 'virtual', 'spirit', 'embrace', 'fitness', 'filter', 'drink', 'object', 'attack'] |  
 | bip_39_word_space_1 | victory |  
 | bip_39_word_space_10 | victory sense useless swift virtual spirit embrace fitness filter drink |  

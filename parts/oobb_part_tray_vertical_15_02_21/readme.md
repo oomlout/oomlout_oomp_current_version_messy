@@ -122,6 +122,18 @@ vapor
 express
 pupil
 neither |  
+| bip_39_word_no_space_1 | relax |  
+| bip_39_word_no_space_10 | relaxhuntwrongchiefperfectvaporexpresspupilneitherengage |  
+| bip_39_word_no_space_11 | relaxhuntwrongchiefperfectvaporexpresspupilneitherengagebottom |  
+| bip_39_word_no_space_12 | relaxhuntwrongchiefperfectvaporexpresspupilneitherengagebottomamazing |  
+| bip_39_word_no_space_2 | relaxhunt |  
+| bip_39_word_no_space_3 | relaxhuntwrong |  
+| bip_39_word_no_space_4 | relaxhuntwrongchief |  
+| bip_39_word_no_space_5 | relaxhuntwrongchiefperfect |  
+| bip_39_word_no_space_6 | relaxhuntwrongchiefperfectvapor |  
+| bip_39_word_no_space_7 | relaxhuntwrongchiefperfectvaporexpress |  
+| bip_39_word_no_space_8 | relaxhuntwrongchiefperfectvaporexpresspupil |  
+| bip_39_word_no_space_9 | relaxhuntwrongchiefperfectvaporexpresspupilneither |  
 | bip_39_word_space_0 | ['relax', 'hunt', 'wrong', 'chief', 'perfect', 'vapor', 'express', 'pupil', 'neither', 'engage', 'bottom', 'amazing'] |  
 | bip_39_word_space_1 | relax |  
 | bip_39_word_space_10 | relax hunt wrong chief perfect vapor express pupil neither engage |  

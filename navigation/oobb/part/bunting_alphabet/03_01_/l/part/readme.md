@@ -122,6 +122,18 @@ pole
 window
 foster
 cycle |  
+| bip_39_word_no_space_1 | cattle |  
+| bip_39_word_no_space_10 | cattleorangeoniononlyrugpolewindowfostercycleunfold |  
+| bip_39_word_no_space_11 | cattleorangeoniononlyrugpolewindowfostercycleunfoldfiber |  
+| bip_39_word_no_space_12 | cattleorangeoniononlyrugpolewindowfostercycleunfoldfiberachieve |  
+| bip_39_word_no_space_2 | cattleorange |  
+| bip_39_word_no_space_3 | cattleorangeonion |  
+| bip_39_word_no_space_4 | cattleorangeoniononly |  
+| bip_39_word_no_space_5 | cattleorangeoniononlyrug |  
+| bip_39_word_no_space_6 | cattleorangeoniononlyrugpole |  
+| bip_39_word_no_space_7 | cattleorangeoniononlyrugpolewindow |  
+| bip_39_word_no_space_8 | cattleorangeoniononlyrugpolewindowfoster |  
+| bip_39_word_no_space_9 | cattleorangeoniononlyrugpolewindowfostercycle |  
 | bip_39_word_space_0 | ['cattle', 'orange', 'onion', 'only', 'rug', 'pole', 'window', 'foster', 'cycle', 'unfold', 'fiber', 'achieve'] |  
 | bip_39_word_space_1 | cattle |  
 | bip_39_word_space_10 | cattle orange onion only rug pole window foster cycle unfold |  

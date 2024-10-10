@@ -122,6 +122,18 @@ lens
 lumber
 casino
 drink |  
+| bip_39_word_no_space_1 | concert |  
+| bip_39_word_no_space_10 | concertoceanloanillnessmisslenslumbercasinodrinkinfant |  
+| bip_39_word_no_space_11 | concertoceanloanillnessmisslenslumbercasinodrinkinfantframe |  
+| bip_39_word_no_space_12 | concertoceanloanillnessmisslenslumbercasinodrinkinfantframeaccident |  
+| bip_39_word_no_space_2 | concertocean |  
+| bip_39_word_no_space_3 | concertoceanloan |  
+| bip_39_word_no_space_4 | concertoceanloanillness |  
+| bip_39_word_no_space_5 | concertoceanloanillnessmiss |  
+| bip_39_word_no_space_6 | concertoceanloanillnessmisslens |  
+| bip_39_word_no_space_7 | concertoceanloanillnessmisslenslumber |  
+| bip_39_word_no_space_8 | concertoceanloanillnessmisslenslumbercasino |  
+| bip_39_word_no_space_9 | concertoceanloanillnessmisslenslumbercasinodrink |  
 | bip_39_word_space_0 | ['concert', 'ocean', 'loan', 'illness', 'miss', 'lens', 'lumber', 'casino', 'drink', 'infant', 'frame', 'accident'] |  
 | bip_39_word_space_1 | concert |  
 | bip_39_word_space_10 | concert ocean loan illness miss lens lumber casino drink infant |  

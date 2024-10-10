@@ -122,6 +122,18 @@ frame
 reform
 cram
 tree |  
+| bip_39_word_no_space_1 | local |  
+| bip_39_word_no_space_10 | localskatestoryalleytrulyframereformcramtreezero |  
+| bip_39_word_no_space_11 | localskatestoryalleytrulyframereformcramtreezeromilk |  
+| bip_39_word_no_space_12 | localskatestoryalleytrulyframereformcramtreezeromilkamong |  
+| bip_39_word_no_space_2 | localskate |  
+| bip_39_word_no_space_3 | localskatestory |  
+| bip_39_word_no_space_4 | localskatestoryalley |  
+| bip_39_word_no_space_5 | localskatestoryalleytruly |  
+| bip_39_word_no_space_6 | localskatestoryalleytrulyframe |  
+| bip_39_word_no_space_7 | localskatestoryalleytrulyframereform |  
+| bip_39_word_no_space_8 | localskatestoryalleytrulyframereformcram |  
+| bip_39_word_no_space_9 | localskatestoryalleytrulyframereformcramtree |  
 | bip_39_word_space_0 | ['local', 'skate', 'story', 'alley', 'truly', 'frame', 'reform', 'cram', 'tree', 'zero', 'milk', 'among'] |  
 | bip_39_word_space_1 | local |  
 | bip_39_word_space_10 | local skate story alley truly frame reform cram tree zero |  

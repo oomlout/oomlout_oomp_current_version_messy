@@ -122,6 +122,18 @@ tip
 crawl
 barely
 huge |  
+| bip_39_word_no_space_1 | diet |  
+| bip_39_word_no_space_10 | dietsunclownvanishrailtipcrawlbarelyhugeoval |  
+| bip_39_word_no_space_11 | dietsunclownvanishrailtipcrawlbarelyhugeovalsteel |  
+| bip_39_word_no_space_12 | dietsunclownvanishrailtipcrawlbarelyhugeovalsteelassist |  
+| bip_39_word_no_space_2 | dietsun |  
+| bip_39_word_no_space_3 | dietsunclown |  
+| bip_39_word_no_space_4 | dietsunclownvanish |  
+| bip_39_word_no_space_5 | dietsunclownvanishrail |  
+| bip_39_word_no_space_6 | dietsunclownvanishrailtip |  
+| bip_39_word_no_space_7 | dietsunclownvanishrailtipcrawl |  
+| bip_39_word_no_space_8 | dietsunclownvanishrailtipcrawlbarely |  
+| bip_39_word_no_space_9 | dietsunclownvanishrailtipcrawlbarelyhuge |  
 | bip_39_word_space_0 | ['diet', 'sun', 'clown', 'vanish', 'rail', 'tip', 'crawl', 'barely', 'huge', 'oval', 'steel', 'assist'] |  
 | bip_39_word_space_1 | diet |  
 | bip_39_word_space_10 | diet sun clown vanish rail tip crawl barely huge oval |  

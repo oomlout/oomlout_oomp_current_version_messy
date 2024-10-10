@@ -122,6 +122,18 @@ income
 episode
 lift
 spin |  
+| bip_39_word_no_space_1 | glimpse |  
+| bip_39_word_no_space_10 | glimpsechaostagvisaamateurincomeepisodeliftspinmore |  
+| bip_39_word_no_space_11 | glimpsechaostagvisaamateurincomeepisodeliftspinmorespawn |  
+| bip_39_word_no_space_12 | glimpsechaostagvisaamateurincomeepisodeliftspinmorespawnacid |  
+| bip_39_word_no_space_2 | glimpsechaos |  
+| bip_39_word_no_space_3 | glimpsechaostag |  
+| bip_39_word_no_space_4 | glimpsechaostagvisa |  
+| bip_39_word_no_space_5 | glimpsechaostagvisaamateur |  
+| bip_39_word_no_space_6 | glimpsechaostagvisaamateurincome |  
+| bip_39_word_no_space_7 | glimpsechaostagvisaamateurincomeepisode |  
+| bip_39_word_no_space_8 | glimpsechaostagvisaamateurincomeepisodelift |  
+| bip_39_word_no_space_9 | glimpsechaostagvisaamateurincomeepisodeliftspin |  
 | bip_39_word_space_0 | ['glimpse', 'chaos', 'tag', 'visa', 'amateur', 'income', 'episode', 'lift', 'spin', 'more', 'spawn', 'acid'] |  
 | bip_39_word_space_1 | glimpse |  
 | bip_39_word_space_10 | glimpse chaos tag visa amateur income episode lift spin more |  

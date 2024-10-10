@@ -122,6 +122,18 @@ soda
 issue
 multiply
 digital |  
+| bip_39_word_no_space_1 | access |  
+| bip_39_word_no_space_10 | accessfuelprivatehandboostsodaissuemultiplydigitalwall |  
+| bip_39_word_no_space_11 | accessfuelprivatehandboostsodaissuemultiplydigitalwallcake |  
+| bip_39_word_no_space_12 | accessfuelprivatehandboostsodaissuemultiplydigitalwallcakeauction |  
+| bip_39_word_no_space_2 | accessfuel |  
+| bip_39_word_no_space_3 | accessfuelprivate |  
+| bip_39_word_no_space_4 | accessfuelprivatehand |  
+| bip_39_word_no_space_5 | accessfuelprivatehandboost |  
+| bip_39_word_no_space_6 | accessfuelprivatehandboostsoda |  
+| bip_39_word_no_space_7 | accessfuelprivatehandboostsodaissue |  
+| bip_39_word_no_space_8 | accessfuelprivatehandboostsodaissuemultiply |  
+| bip_39_word_no_space_9 | accessfuelprivatehandboostsodaissuemultiplydigital |  
 | bip_39_word_space_0 | ['access', 'fuel', 'private', 'hand', 'boost', 'soda', 'issue', 'multiply', 'digital', 'wall', 'cake', 'auction'] |  
 | bip_39_word_space_1 | access |  
 | bip_39_word_space_10 | access fuel private hand boost soda issue multiply digital wall |  

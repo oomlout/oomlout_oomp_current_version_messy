@@ -122,6 +122,18 @@ street
 truck
 arrange
 split |  
+| bip_39_word_no_space_1 | buffalo |  
+| bip_39_word_no_space_10 | buffalovacuumleisureseadieselstreettruckarrangesplittop |  
+| bip_39_word_no_space_11 | buffalovacuumleisureseadieselstreettruckarrangesplittopcheap |  
+| bip_39_word_no_space_12 | buffalovacuumleisureseadieselstreettruckarrangesplittopcheapassault |  
+| bip_39_word_no_space_2 | buffalovacuum |  
+| bip_39_word_no_space_3 | buffalovacuumleisure |  
+| bip_39_word_no_space_4 | buffalovacuumleisuresea |  
+| bip_39_word_no_space_5 | buffalovacuumleisureseadiesel |  
+| bip_39_word_no_space_6 | buffalovacuumleisureseadieselstreet |  
+| bip_39_word_no_space_7 | buffalovacuumleisureseadieselstreettruck |  
+| bip_39_word_no_space_8 | buffalovacuumleisureseadieselstreettruckarrange |  
+| bip_39_word_no_space_9 | buffalovacuumleisureseadieselstreettruckarrangesplit |  
 | bip_39_word_space_0 | ['buffalo', 'vacuum', 'leisure', 'sea', 'diesel', 'street', 'truck', 'arrange', 'split', 'top', 'cheap', 'assault'] |  
 | bip_39_word_space_1 | buffalo |  
 | bip_39_word_space_10 | buffalo vacuum leisure sea diesel street truck arrange split top |  

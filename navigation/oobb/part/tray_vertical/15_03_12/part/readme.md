@@ -122,6 +122,18 @@ three
 boring
 inspire
 dizzy |  
+| bip_39_word_no_space_1 | spatial |  
+| bip_39_word_no_space_10 | spatialrocketwisemodelcountrythreeboringinspiredizzycircle |  
+| bip_39_word_no_space_11 | spatialrocketwisemodelcountrythreeboringinspiredizzycirclecrystal |  
+| bip_39_word_no_space_12 | spatialrocketwisemodelcountrythreeboringinspiredizzycirclecrystalartwork |  
+| bip_39_word_no_space_2 | spatialrocket |  
+| bip_39_word_no_space_3 | spatialrocketwise |  
+| bip_39_word_no_space_4 | spatialrocketwisemodel |  
+| bip_39_word_no_space_5 | spatialrocketwisemodelcountry |  
+| bip_39_word_no_space_6 | spatialrocketwisemodelcountrythree |  
+| bip_39_word_no_space_7 | spatialrocketwisemodelcountrythreeboring |  
+| bip_39_word_no_space_8 | spatialrocketwisemodelcountrythreeboringinspire |  
+| bip_39_word_no_space_9 | spatialrocketwisemodelcountrythreeboringinspiredizzy |  
 | bip_39_word_space_0 | ['spatial', 'rocket', 'wise', 'model', 'country', 'three', 'boring', 'inspire', 'dizzy', 'circle', 'crystal', 'artwork'] |  
 | bip_39_word_space_1 | spatial |  
 | bip_39_word_space_10 | spatial rocket wise model country three boring inspire dizzy circle |  

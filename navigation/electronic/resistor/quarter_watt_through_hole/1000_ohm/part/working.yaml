@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'happy
   industry
 
   under'
+bip_39_word_no_space_1: happy
+bip_39_word_no_space_10: happysignupsettoeproudtowardsorryindustryundernoodle
+bip_39_word_no_space_11: happysignupsettoeproudtowardsorryindustryundernoodleanother
+bip_39_word_no_space_12: happysignupsettoeproudtowardsorryindustryundernoodleanotherabuse
+bip_39_word_no_space_2: happysign
+bip_39_word_no_space_3: happysignupset
+bip_39_word_no_space_4: happysignupsettoe
+bip_39_word_no_space_5: happysignupsettoeproud
+bip_39_word_no_space_6: happysignupsettoeproudtoward
+bip_39_word_no_space_7: happysignupsettoeproudtowardsorry
+bip_39_word_no_space_8: happysignupsettoeproudtowardsorryindustry
+bip_39_word_no_space_9: happysignupsettoeproudtowardsorryindustryunder
 bip_39_word_space_0:
 - happy
 - sign

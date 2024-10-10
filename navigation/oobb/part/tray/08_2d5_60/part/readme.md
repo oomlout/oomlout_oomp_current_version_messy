@@ -122,6 +122,18 @@ diet
 security
 urge
 clown |  
+| bip_39_word_no_space_1 | tuition |  
+| bip_39_word_no_space_10 | tuitionswallowodorthenshuffledietsecurityurgeclownfall |  
+| bip_39_word_no_space_11 | tuitionswallowodorthenshuffledietsecurityurgeclownfallunveil |  
+| bip_39_word_no_space_12 | tuitionswallowodorthenshuffledietsecurityurgeclownfallunveilanswer |  
+| bip_39_word_no_space_2 | tuitionswallow |  
+| bip_39_word_no_space_3 | tuitionswallowodor |  
+| bip_39_word_no_space_4 | tuitionswallowodorthen |  
+| bip_39_word_no_space_5 | tuitionswallowodorthenshuffle |  
+| bip_39_word_no_space_6 | tuitionswallowodorthenshufflediet |  
+| bip_39_word_no_space_7 | tuitionswallowodorthenshuffledietsecurity |  
+| bip_39_word_no_space_8 | tuitionswallowodorthenshuffledietsecurityurge |  
+| bip_39_word_no_space_9 | tuitionswallowodorthenshuffledietsecurityurgeclown |  
 | bip_39_word_space_0 | ['tuition', 'swallow', 'odor', 'then', 'shuffle', 'diet', 'security', 'urge', 'clown', 'fall', 'unveil', 'answer'] |  
 | bip_39_word_space_1 | tuition |  
 | bip_39_word_space_10 | tuition swallow odor then shuffle diet security urge clown fall |  

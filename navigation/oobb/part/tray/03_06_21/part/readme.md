@@ -122,6 +122,18 @@ twist
 curtain
 general
 subject |  
+| bip_39_word_no_space_1 | true |  
+| bip_39_word_no_space_10 | truetunafrontribbonradartwistcurtaingeneralsubjectwine |  
+| bip_39_word_no_space_11 | truetunafrontribbonradartwistcurtaingeneralsubjectwinestep |  
+| bip_39_word_no_space_12 | truetunafrontribbonradartwistcurtaingeneralsubjectwinestepadjust |  
+| bip_39_word_no_space_2 | truetuna |  
+| bip_39_word_no_space_3 | truetunafront |  
+| bip_39_word_no_space_4 | truetunafrontribbon |  
+| bip_39_word_no_space_5 | truetunafrontribbonradar |  
+| bip_39_word_no_space_6 | truetunafrontribbonradartwist |  
+| bip_39_word_no_space_7 | truetunafrontribbonradartwistcurtain |  
+| bip_39_word_no_space_8 | truetunafrontribbonradartwistcurtaingeneral |  
+| bip_39_word_no_space_9 | truetunafrontribbonradartwistcurtaingeneralsubject |  
 | bip_39_word_space_0 | ['true', 'tuna', 'front', 'ribbon', 'radar', 'twist', 'curtain', 'general', 'subject', 'wine', 'step', 'adjust'] |  
 | bip_39_word_space_1 | true |  
 | bip_39_word_space_10 | true tuna front ribbon radar twist curtain general subject wine |  

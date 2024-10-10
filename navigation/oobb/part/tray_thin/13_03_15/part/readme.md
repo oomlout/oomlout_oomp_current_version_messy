@@ -122,6 +122,18 @@ rescue
 race
 peanut
 sort |  
+| bip_39_word_no_space_1 | boat |  
+| bip_39_word_no_space_10 | boatairabstractfoldprotectrescueracepeanutsortdeposit |  
+| bip_39_word_no_space_11 | boatairabstractfoldprotectrescueracepeanutsortdepositexchange |  
+| bip_39_word_no_space_12 | boatairabstractfoldprotectrescueracepeanutsortdepositexchangeask |  
+| bip_39_word_no_space_2 | boatair |  
+| bip_39_word_no_space_3 | boatairabstract |  
+| bip_39_word_no_space_4 | boatairabstractfold |  
+| bip_39_word_no_space_5 | boatairabstractfoldprotect |  
+| bip_39_word_no_space_6 | boatairabstractfoldprotectrescue |  
+| bip_39_word_no_space_7 | boatairabstractfoldprotectrescuerace |  
+| bip_39_word_no_space_8 | boatairabstractfoldprotectrescueracepeanut |  
+| bip_39_word_no_space_9 | boatairabstractfoldprotectrescueracepeanutsort |  
 | bip_39_word_space_0 | ['boat', 'air', 'abstract', 'fold', 'protect', 'rescue', 'race', 'peanut', 'sort', 'deposit', 'exchange', 'ask'] |  
 | bip_39_word_space_1 | boat |  
 | bip_39_word_space_10 | boat air abstract fold protect rescue race peanut sort deposit |  

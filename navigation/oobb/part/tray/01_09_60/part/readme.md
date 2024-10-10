@@ -122,6 +122,18 @@ pupil
 umbrella
 electric
 atom |  
+| bip_39_word_no_space_1 | wrong |  
+| bip_39_word_no_space_10 | wrongmouselessonfirstcasinopupilumbrellaelectricatomtag |  
+| bip_39_word_no_space_11 | wrongmouselessonfirstcasinopupilumbrellaelectricatomtagcome |  
+| bip_39_word_no_space_12 | wrongmouselessonfirstcasinopupilumbrellaelectricatomtagcomeaverage |  
+| bip_39_word_no_space_2 | wrongmouse |  
+| bip_39_word_no_space_3 | wrongmouselesson |  
+| bip_39_word_no_space_4 | wrongmouselessonfirst |  
+| bip_39_word_no_space_5 | wrongmouselessonfirstcasino |  
+| bip_39_word_no_space_6 | wrongmouselessonfirstcasinopupil |  
+| bip_39_word_no_space_7 | wrongmouselessonfirstcasinopupilumbrella |  
+| bip_39_word_no_space_8 | wrongmouselessonfirstcasinopupilumbrellaelectric |  
+| bip_39_word_no_space_9 | wrongmouselessonfirstcasinopupilumbrellaelectricatom |  
 | bip_39_word_space_0 | ['wrong', 'mouse', 'lesson', 'first', 'casino', 'pupil', 'umbrella', 'electric', 'atom', 'tag', 'come', 'average'] |  
 | bip_39_word_space_1 | wrong |  
 | bip_39_word_space_10 | wrong mouse lesson first casino pupil umbrella electric atom tag |  

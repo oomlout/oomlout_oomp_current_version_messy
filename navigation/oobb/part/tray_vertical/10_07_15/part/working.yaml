@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'more
   cycle
 
   stomach'
+bip_39_word_no_space_1: more
+bip_39_word_no_space_10: morescanelsecautionspinrichroastcyclestomachshuffle
+bip_39_word_no_space_11: morescanelsecautionspinrichroastcyclestomachshuffleone
+bip_39_word_no_space_12: morescanelsecautionspinrichroastcyclestomachshuffleoneanger
+bip_39_word_no_space_2: morescan
+bip_39_word_no_space_3: morescanelse
+bip_39_word_no_space_4: morescanelsecaution
+bip_39_word_no_space_5: morescanelsecautionspin
+bip_39_word_no_space_6: morescanelsecautionspinrich
+bip_39_word_no_space_7: morescanelsecautionspinrichroast
+bip_39_word_no_space_8: morescanelsecautionspinrichroastcycle
+bip_39_word_no_space_9: morescanelsecautionspinrichroastcyclestomach
 bip_39_word_space_0:
 - more
 - scan

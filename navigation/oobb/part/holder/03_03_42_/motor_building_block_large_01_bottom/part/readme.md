@@ -122,6 +122,18 @@ arrange
 section
 enjoy
 moral |  
+| bip_39_word_no_space_1 | grace |  
+| bip_39_word_no_space_10 | gracespraylunarbindphonearrangesectionenjoymoralginger |  
+| bip_39_word_no_space_11 | gracespraylunarbindphonearrangesectionenjoymoralgingercream |  
+| bip_39_word_no_space_12 | gracespraylunarbindphonearrangesectionenjoymoralgingercreamactual |  
+| bip_39_word_no_space_2 | gracespray |  
+| bip_39_word_no_space_3 | gracespraylunar |  
+| bip_39_word_no_space_4 | gracespraylunarbind |  
+| bip_39_word_no_space_5 | gracespraylunarbindphone |  
+| bip_39_word_no_space_6 | gracespraylunarbindphonearrange |  
+| bip_39_word_no_space_7 | gracespraylunarbindphonearrangesection |  
+| bip_39_word_no_space_8 | gracespraylunarbindphonearrangesectionenjoy |  
+| bip_39_word_no_space_9 | gracespraylunarbindphonearrangesectionenjoymoral |  
 | bip_39_word_space_0 | ['grace', 'spray', 'lunar', 'bind', 'phone', 'arrange', 'section', 'enjoy', 'moral', 'ginger', 'cream', 'actual'] |  
 | bip_39_word_space_1 | grace |  
 | bip_39_word_space_10 | grace spray lunar bind phone arrange section enjoy moral ginger |  

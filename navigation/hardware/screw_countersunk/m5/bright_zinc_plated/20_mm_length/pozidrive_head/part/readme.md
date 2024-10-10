@@ -122,6 +122,18 @@ seed
 soup
 toast
 danger |  
+| bip_39_word_no_space_1 | runway |  
+| bip_39_word_no_space_10 | runwaypioneernoticesaltdutyseedsouptoastdangermonkey |  
+| bip_39_word_no_space_11 | runwaypioneernoticesaltdutyseedsouptoastdangermonkeysince |  
+| bip_39_word_no_space_12 | runwaypioneernoticesaltdutyseedsouptoastdangermonkeysinceacross |  
+| bip_39_word_no_space_2 | runwaypioneer |  
+| bip_39_word_no_space_3 | runwaypioneernotice |  
+| bip_39_word_no_space_4 | runwaypioneernoticesalt |  
+| bip_39_word_no_space_5 | runwaypioneernoticesaltduty |  
+| bip_39_word_no_space_6 | runwaypioneernoticesaltdutyseed |  
+| bip_39_word_no_space_7 | runwaypioneernoticesaltdutyseedsoup |  
+| bip_39_word_no_space_8 | runwaypioneernoticesaltdutyseedsouptoast |  
+| bip_39_word_no_space_9 | runwaypioneernoticesaltdutyseedsouptoastdanger |  
 | bip_39_word_space_0 | ['runway', 'pioneer', 'notice', 'salt', 'duty', 'seed', 'soup', 'toast', 'danger', 'monkey', 'since', 'across'] |  
 | bip_39_word_space_1 | runway |  
 | bip_39_word_space_10 | runway pioneer notice salt duty seed soup toast danger monkey |  

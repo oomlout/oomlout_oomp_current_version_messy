@@ -122,6 +122,18 @@ input
 practice
 argue
 current |  
+| bip_39_word_no_space_1 | wasp |  
+| bip_39_word_no_space_10 | waspcardbreadcategoryelevatorinputpracticearguecurrentcan |  
+| bip_39_word_no_space_11 | waspcardbreadcategoryelevatorinputpracticearguecurrentcansnake |  
+| bip_39_word_no_space_12 | waspcardbreadcategoryelevatorinputpracticearguecurrentcansnakeancient |  
+| bip_39_word_no_space_2 | waspcard |  
+| bip_39_word_no_space_3 | waspcardbread |  
+| bip_39_word_no_space_4 | waspcardbreadcategory |  
+| bip_39_word_no_space_5 | waspcardbreadcategoryelevator |  
+| bip_39_word_no_space_6 | waspcardbreadcategoryelevatorinput |  
+| bip_39_word_no_space_7 | waspcardbreadcategoryelevatorinputpractice |  
+| bip_39_word_no_space_8 | waspcardbreadcategoryelevatorinputpracticeargue |  
+| bip_39_word_no_space_9 | waspcardbreadcategoryelevatorinputpracticearguecurrent |  
 | bip_39_word_space_0 | ['wasp', 'card', 'bread', 'category', 'elevator', 'input', 'practice', 'argue', 'current', 'can', 'snake', 'ancient'] |  
 | bip_39_word_space_1 | wasp |  
 | bip_39_word_space_10 | wasp card bread category elevator input practice argue current can |  

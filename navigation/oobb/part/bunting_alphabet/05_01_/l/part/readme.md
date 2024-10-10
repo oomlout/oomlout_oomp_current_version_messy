@@ -122,6 +122,18 @@ melt
 medal
 fever
 easy |  
+| bip_39_word_no_space_1 | accuse |  
+| bip_39_word_no_space_10 | accuseopensuggestnosestablemeltmedalfevereasyindicate |  
+| bip_39_word_no_space_11 | accuseopensuggestnosestablemeltmedalfevereasyindicateglance |  
+| bip_39_word_no_space_12 | accuseopensuggestnosestablemeltmedalfevereasyindicateglanceannounce |  
+| bip_39_word_no_space_2 | accuseopen |  
+| bip_39_word_no_space_3 | accuseopensuggest |  
+| bip_39_word_no_space_4 | accuseopensuggestnose |  
+| bip_39_word_no_space_5 | accuseopensuggestnosestable |  
+| bip_39_word_no_space_6 | accuseopensuggestnosestablemelt |  
+| bip_39_word_no_space_7 | accuseopensuggestnosestablemeltmedal |  
+| bip_39_word_no_space_8 | accuseopensuggestnosestablemeltmedalfever |  
+| bip_39_word_no_space_9 | accuseopensuggestnosestablemeltmedalfevereasy |  
 | bip_39_word_space_0 | ['accuse', 'open', 'suggest', 'nose', 'stable', 'melt', 'medal', 'fever', 'easy', 'indicate', 'glance', 'announce'] |  
 | bip_39_word_space_1 | accuse |  
 | bip_39_word_space_10 | accuse open suggest nose stable melt medal fever easy indicate |  

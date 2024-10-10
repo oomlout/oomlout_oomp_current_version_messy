@@ -122,6 +122,18 @@ fun
 rate
 pill
 opinion |  
+| bip_39_word_no_space_1 | good |  
+| bip_39_word_no_space_10 | goodpianolistspiderridefunratepillopinioncustom |  
+| bip_39_word_no_space_11 | goodpianolistspiderridefunratepillopinioncustomchase |  
+| bip_39_word_no_space_12 | goodpianolistspiderridefunratepillopinioncustomchaseaspect |  
+| bip_39_word_no_space_2 | goodpiano |  
+| bip_39_word_no_space_3 | goodpianolist |  
+| bip_39_word_no_space_4 | goodpianolistspider |  
+| bip_39_word_no_space_5 | goodpianolistspiderride |  
+| bip_39_word_no_space_6 | goodpianolistspiderridefun |  
+| bip_39_word_no_space_7 | goodpianolistspiderridefunrate |  
+| bip_39_word_no_space_8 | goodpianolistspiderridefunratepill |  
+| bip_39_word_no_space_9 | goodpianolistspiderridefunratepillopinion |  
 | bip_39_word_space_0 | ['good', 'piano', 'list', 'spider', 'ride', 'fun', 'rate', 'pill', 'opinion', 'custom', 'chase', 'aspect'] |  
 | bip_39_word_space_1 | good |  
 | bip_39_word_space_10 | good piano list spider ride fun rate pill opinion custom |  

@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'adult
   elder
 
   field'
+bip_39_word_no_space_1: adult
+bip_39_word_no_space_10: adultalertmeritcomfortblastkingdomneckelderfieldallow
+bip_39_word_no_space_11: adultalertmeritcomfortblastkingdomneckelderfieldallowancient
+bip_39_word_no_space_12: adultalertmeritcomfortblastkingdomneckelderfieldallowancientartwork
+bip_39_word_no_space_2: adultalert
+bip_39_word_no_space_3: adultalertmerit
+bip_39_word_no_space_4: adultalertmeritcomfort
+bip_39_word_no_space_5: adultalertmeritcomfortblast
+bip_39_word_no_space_6: adultalertmeritcomfortblastkingdom
+bip_39_word_no_space_7: adultalertmeritcomfortblastkingdomneck
+bip_39_word_no_space_8: adultalertmeritcomfortblastkingdomneckelder
+bip_39_word_no_space_9: adultalertmeritcomfortblastkingdomneckelderfield
 bip_39_word_space_0:
 - adult
 - alert

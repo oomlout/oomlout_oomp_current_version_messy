@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'target
   hollow
 
   cereal'
+bip_39_word_no_space_1: target
+bip_39_word_no_space_10: targetwinetastefabricwishvocalachievehollowcerealdress
+bip_39_word_no_space_11: targetwinetastefabricwishvocalachievehollowcerealdressdecade
+bip_39_word_no_space_12: targetwinetastefabricwishvocalachievehollowcerealdressdecadeaugust
+bip_39_word_no_space_2: targetwine
+bip_39_word_no_space_3: targetwinetaste
+bip_39_word_no_space_4: targetwinetastefabric
+bip_39_word_no_space_5: targetwinetastefabricwish
+bip_39_word_no_space_6: targetwinetastefabricwishvocal
+bip_39_word_no_space_7: targetwinetastefabricwishvocalachieve
+bip_39_word_no_space_8: targetwinetastefabricwishvocalachievehollow
+bip_39_word_no_space_9: targetwinetastefabricwishvocalachievehollowcereal
 bip_39_word_space_0:
 - target
 - wine

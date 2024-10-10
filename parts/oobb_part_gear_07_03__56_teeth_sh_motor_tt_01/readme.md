@@ -122,6 +122,18 @@ absent
 fall
 real
 kite |  
+| bip_39_word_no_space_1 | spirit |  
+| bip_39_word_no_space_10 | spirituncoverfurypupillawabsentfallrealkitebread |  
+| bip_39_word_no_space_11 | spirituncoverfurypupillawabsentfallrealkitebreadelectric |  
+| bip_39_word_no_space_12 | spirituncoverfurypupillawabsentfallrealkitebreadelectricanchor |  
+| bip_39_word_no_space_2 | spirituncover |  
+| bip_39_word_no_space_3 | spirituncoverfury |  
+| bip_39_word_no_space_4 | spirituncoverfurypupil |  
+| bip_39_word_no_space_5 | spirituncoverfurypupillaw |  
+| bip_39_word_no_space_6 | spirituncoverfurypupillawabsent |  
+| bip_39_word_no_space_7 | spirituncoverfurypupillawabsentfall |  
+| bip_39_word_no_space_8 | spirituncoverfurypupillawabsentfallreal |  
+| bip_39_word_no_space_9 | spirituncoverfurypupillawabsentfallrealkite |  
 | bip_39_word_space_0 | ['spirit', 'uncover', 'fury', 'pupil', 'law', 'absent', 'fall', 'real', 'kite', 'bread', 'electric', 'anchor'] |  
 | bip_39_word_space_1 | spirit |  
 | bip_39_word_space_10 | spirit uncover fury pupil law absent fall real kite bread |  

@@ -122,6 +122,18 @@ engine
 mango
 rent
 great |  
+| bip_39_word_no_space_1 | reflect |  
+| bip_39_word_no_space_10 | reflectthereevolverevealwaitenginemangorentgreatknee |  
+| bip_39_word_no_space_11 | reflectthereevolverevealwaitenginemangorentgreatkneegloom |  
+| bip_39_word_no_space_12 | reflectthereevolverevealwaitenginemangorentgreatkneegloomabstract |  
+| bip_39_word_no_space_2 | reflectthere |  
+| bip_39_word_no_space_3 | reflectthereevolve |  
+| bip_39_word_no_space_4 | reflectthereevolvereveal |  
+| bip_39_word_no_space_5 | reflectthereevolverevealwait |  
+| bip_39_word_no_space_6 | reflectthereevolverevealwaitengine |  
+| bip_39_word_no_space_7 | reflectthereevolverevealwaitenginemango |  
+| bip_39_word_no_space_8 | reflectthereevolverevealwaitenginemangorent |  
+| bip_39_word_no_space_9 | reflectthereevolverevealwaitenginemangorentgreat |  
 | bip_39_word_space_0 | ['reflect', 'there', 'evolve', 'reveal', 'wait', 'engine', 'mango', 'rent', 'great', 'knee', 'gloom', 'abstract'] |  
 | bip_39_word_space_1 | reflect |  
 | bip_39_word_space_10 | reflect there evolve reveal wait engine mango rent great knee |  

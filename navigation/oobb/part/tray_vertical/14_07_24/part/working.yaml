@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'wide
   ordinary
 
   arrange'
+bip_39_word_no_space_1: wide
+bip_39_word_no_space_10: widecornrescuemanagehoodmirrorjellyordinaryarrangefee
+bip_39_word_no_space_11: widecornrescuemanagehoodmirrorjellyordinaryarrangefeechuckle
+bip_39_word_no_space_12: widecornrescuemanagehoodmirrorjellyordinaryarrangefeechucklearmy
+bip_39_word_no_space_2: widecorn
+bip_39_word_no_space_3: widecornrescue
+bip_39_word_no_space_4: widecornrescuemanage
+bip_39_word_no_space_5: widecornrescuemanagehood
+bip_39_word_no_space_6: widecornrescuemanagehoodmirror
+bip_39_word_no_space_7: widecornrescuemanagehoodmirrorjelly
+bip_39_word_no_space_8: widecornrescuemanagehoodmirrorjellyordinary
+bip_39_word_no_space_9: widecornrescuemanagehoodmirrorjellyordinaryarrange
 bip_39_word_space_0:
 - wide
 - corn

@@ -122,6 +122,18 @@ congress
 model
 earth
 waste |  
+| bip_39_word_no_space_1 | smooth |  
+| bip_39_word_no_space_10 | smootherasefeedwagepowercongressmodelearthwastebasic |  
+| bip_39_word_no_space_11 | smootherasefeedwagepowercongressmodelearthwastebasiccrop |  
+| bip_39_word_no_space_12 | smootherasefeedwagepowercongressmodelearthwastebasiccroparrow |  
+| bip_39_word_no_space_2 | smootherase |  
+| bip_39_word_no_space_3 | smootherasefeed |  
+| bip_39_word_no_space_4 | smootherasefeedwage |  
+| bip_39_word_no_space_5 | smootherasefeedwagepower |  
+| bip_39_word_no_space_6 | smootherasefeedwagepowercongress |  
+| bip_39_word_no_space_7 | smootherasefeedwagepowercongressmodel |  
+| bip_39_word_no_space_8 | smootherasefeedwagepowercongressmodelearth |  
+| bip_39_word_no_space_9 | smootherasefeedwagepowercongressmodelearthwaste |  
 | bip_39_word_space_0 | ['smooth', 'erase', 'feed', 'wage', 'power', 'congress', 'model', 'earth', 'waste', 'basic', 'crop', 'arrow'] |  
 | bip_39_word_space_1 | smooth |  
 | bip_39_word_space_10 | smooth erase feed wage power congress model earth waste basic |  

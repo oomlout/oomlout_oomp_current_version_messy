@@ -122,6 +122,18 @@ crop
 grief
 lift
 kangaroo |  
+| bip_39_word_no_space_1 | square |  
+| bip_39_word_no_space_10 | squarementionclaimmagiccruelcropgriefliftkangaroohungry |  
+| bip_39_word_no_space_11 | squarementionclaimmagiccruelcropgriefliftkangaroohungrytoast |  
+| bip_39_word_no_space_12 | squarementionclaimmagiccruelcropgriefliftkangaroohungrytoastalways |  
+| bip_39_word_no_space_2 | squaremention |  
+| bip_39_word_no_space_3 | squarementionclaim |  
+| bip_39_word_no_space_4 | squarementionclaimmagic |  
+| bip_39_word_no_space_5 | squarementionclaimmagiccruel |  
+| bip_39_word_no_space_6 | squarementionclaimmagiccruelcrop |  
+| bip_39_word_no_space_7 | squarementionclaimmagiccruelcropgrief |  
+| bip_39_word_no_space_8 | squarementionclaimmagiccruelcropgrieflift |  
+| bip_39_word_no_space_9 | squarementionclaimmagiccruelcropgriefliftkangaroo |  
 | bip_39_word_space_0 | ['square', 'mention', 'claim', 'magic', 'cruel', 'crop', 'grief', 'lift', 'kangaroo', 'hungry', 'toast', 'always'] |  
 | bip_39_word_space_1 | square |  
 | bip_39_word_space_10 | square mention claim magic cruel crop grief lift kangaroo hungry |  

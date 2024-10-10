@@ -122,6 +122,18 @@ minor
 rule
 unit
 science |  
+| bip_39_word_no_space_1 | kiss |  
+| bip_39_word_no_space_10 | kissemptyfineupsetotherminorruleunitsciencevocal |  
+| bip_39_word_no_space_11 | kissemptyfineupsetotherminorruleunitsciencevocalresist |  
+| bip_39_word_no_space_12 | kissemptyfineupsetotherminorruleunitsciencevocalresistabout |  
+| bip_39_word_no_space_2 | kissempty |  
+| bip_39_word_no_space_3 | kissemptyfine |  
+| bip_39_word_no_space_4 | kissemptyfineupset |  
+| bip_39_word_no_space_5 | kissemptyfineupsetother |  
+| bip_39_word_no_space_6 | kissemptyfineupsetotherminor |  
+| bip_39_word_no_space_7 | kissemptyfineupsetotherminorrule |  
+| bip_39_word_no_space_8 | kissemptyfineupsetotherminorruleunit |  
+| bip_39_word_no_space_9 | kissemptyfineupsetotherminorruleunitscience |  
 | bip_39_word_space_0 | ['kiss', 'empty', 'fine', 'upset', 'other', 'minor', 'rule', 'unit', 'science', 'vocal', 'resist', 'about'] |  
 | bip_39_word_space_1 | kiss |  
 | bip_39_word_space_10 | kiss empty fine upset other minor rule unit science vocal |  

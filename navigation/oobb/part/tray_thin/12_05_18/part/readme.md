@@ -122,6 +122,18 @@ science
 access
 apart
 toast |  
+| bip_39_word_no_space_1 | hurdle |  
+| bip_39_word_no_space_10 | hurdlefloordebateplanetpointscienceaccessaparttoastfemale |  
+| bip_39_word_no_space_11 | hurdlefloordebateplanetpointscienceaccessaparttoastfemalegive |  
+| bip_39_word_no_space_12 | hurdlefloordebateplanetpointscienceaccessaparttoastfemalegiveartist |  
+| bip_39_word_no_space_2 | hurdlefloor |  
+| bip_39_word_no_space_3 | hurdlefloordebate |  
+| bip_39_word_no_space_4 | hurdlefloordebateplanet |  
+| bip_39_word_no_space_5 | hurdlefloordebateplanetpoint |  
+| bip_39_word_no_space_6 | hurdlefloordebateplanetpointscience |  
+| bip_39_word_no_space_7 | hurdlefloordebateplanetpointscienceaccess |  
+| bip_39_word_no_space_8 | hurdlefloordebateplanetpointscienceaccessapart |  
+| bip_39_word_no_space_9 | hurdlefloordebateplanetpointscienceaccessaparttoast |  
 | bip_39_word_space_0 | ['hurdle', 'floor', 'debate', 'planet', 'point', 'science', 'access', 'apart', 'toast', 'female', 'give', 'artist'] |  
 | bip_39_word_space_1 | hurdle |  
 | bip_39_word_space_10 | hurdle floor debate planet point science access apart toast female |  

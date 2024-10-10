@@ -122,6 +122,18 @@ good
 describe
 valley
 weasel |  
+| bip_39_word_no_space_1 | hint |  
+| bip_39_word_no_space_10 | hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarlic |  
+| bip_39_word_no_space_11 | hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarliccanvas |  
+| bip_39_word_no_space_12 | hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarliccanvasabuse |  
+| bip_39_word_no_space_2 | hintwisdom |  
+| bip_39_word_no_space_3 | hintwisdomdinosaur |  
+| bip_39_word_no_space_4 | hintwisdomdinosaurartist |  
+| bip_39_word_no_space_5 | hintwisdomdinosaurartisttreat |  
+| bip_39_word_no_space_6 | hintwisdomdinosaurartisttreatgood |  
+| bip_39_word_no_space_7 | hintwisdomdinosaurartisttreatgooddescribe |  
+| bip_39_word_no_space_8 | hintwisdomdinosaurartisttreatgooddescribevalley |  
+| bip_39_word_no_space_9 | hintwisdomdinosaurartisttreatgooddescribevalleyweasel |  
 | bip_39_word_space_0 | ['hint', 'wisdom', 'dinosaur', 'artist', 'treat', 'good', 'describe', 'valley', 'weasel', 'garlic', 'canvas', 'abuse'] |  
 | bip_39_word_space_1 | hint |  
 | bip_39_word_space_10 | hint wisdom dinosaur artist treat good describe valley weasel garlic |  

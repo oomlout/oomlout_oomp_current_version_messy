@@ -122,6 +122,18 @@ vote
 tribe
 chief
 mom |  
+| bip_39_word_no_space_1 | situate |  
+| bip_39_word_no_space_10 | situateerapenaltygarlicostrichvotetribechiefmomcoyote |  
+| bip_39_word_no_space_11 | situateerapenaltygarlicostrichvotetribechiefmomcoyotequantum |  
+| bip_39_word_no_space_12 | situateerapenaltygarlicostrichvotetribechiefmomcoyotequantumalert |  
+| bip_39_word_no_space_2 | situateera |  
+| bip_39_word_no_space_3 | situateerapenalty |  
+| bip_39_word_no_space_4 | situateerapenaltygarlic |  
+| bip_39_word_no_space_5 | situateerapenaltygarlicostrich |  
+| bip_39_word_no_space_6 | situateerapenaltygarlicostrichvote |  
+| bip_39_word_no_space_7 | situateerapenaltygarlicostrichvotetribe |  
+| bip_39_word_no_space_8 | situateerapenaltygarlicostrichvotetribechief |  
+| bip_39_word_no_space_9 | situateerapenaltygarlicostrichvotetribechiefmom |  
 | bip_39_word_space_0 | ['situate', 'era', 'penalty', 'garlic', 'ostrich', 'vote', 'tribe', 'chief', 'mom', 'coyote', 'quantum', 'alert'] |  
 | bip_39_word_space_1 | situate |  
 | bip_39_word_space_10 | situate era penalty garlic ostrich vote tribe chief mom coyote |  

@@ -122,6 +122,18 @@ claw
 develop
 spend
 problem |  
+| bip_39_word_no_space_1 | task |  
+| bip_39_word_no_space_10 | taskblurjuiceamateurauthorclawdevelopspendproblemcube |  
+| bip_39_word_no_space_11 | taskblurjuiceamateurauthorclawdevelopspendproblemcubeinmate |  
+| bip_39_word_no_space_12 | taskblurjuiceamateurauthorclawdevelopspendproblemcubeinmateallow |  
+| bip_39_word_no_space_2 | taskblur |  
+| bip_39_word_no_space_3 | taskblurjuice |  
+| bip_39_word_no_space_4 | taskblurjuiceamateur |  
+| bip_39_word_no_space_5 | taskblurjuiceamateurauthor |  
+| bip_39_word_no_space_6 | taskblurjuiceamateurauthorclaw |  
+| bip_39_word_no_space_7 | taskblurjuiceamateurauthorclawdevelop |  
+| bip_39_word_no_space_8 | taskblurjuiceamateurauthorclawdevelopspend |  
+| bip_39_word_no_space_9 | taskblurjuiceamateurauthorclawdevelopspendproblem |  
 | bip_39_word_space_0 | ['task', 'blur', 'juice', 'amateur', 'author', 'claw', 'develop', 'spend', 'problem', 'cube', 'inmate', 'allow'] |  
 | bip_39_word_space_1 | task |  
 | bip_39_word_space_10 | task blur juice amateur author claw develop spend problem cube |  

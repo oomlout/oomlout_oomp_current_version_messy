@@ -122,6 +122,18 @@ ancient
 order
 fork
 bunker |  
+| bip_39_word_no_space_1 | metal |  
+| bip_39_word_no_space_10 | metalearndiagramaffairgalaxyancientorderforkbunkerthey |  
+| bip_39_word_no_space_11 | metalearndiagramaffairgalaxyancientorderforkbunkertheybenefit |  
+| bip_39_word_no_space_12 | metalearndiagramaffairgalaxyancientorderforkbunkertheybenefitapril |  
+| bip_39_word_no_space_2 | metalearn |  
+| bip_39_word_no_space_3 | metalearndiagram |  
+| bip_39_word_no_space_4 | metalearndiagramaffair |  
+| bip_39_word_no_space_5 | metalearndiagramaffairgalaxy |  
+| bip_39_word_no_space_6 | metalearndiagramaffairgalaxyancient |  
+| bip_39_word_no_space_7 | metalearndiagramaffairgalaxyancientorder |  
+| bip_39_word_no_space_8 | metalearndiagramaffairgalaxyancientorderfork |  
+| bip_39_word_no_space_9 | metalearndiagramaffairgalaxyancientorderforkbunker |  
 | bip_39_word_space_0 | ['metal', 'earn', 'diagram', 'affair', 'galaxy', 'ancient', 'order', 'fork', 'bunker', 'they', 'benefit', 'april'] |  
 | bip_39_word_space_1 | metal |  
 | bip_39_word_space_10 | metal earn diagram affair galaxy ancient order fork bunker they |  

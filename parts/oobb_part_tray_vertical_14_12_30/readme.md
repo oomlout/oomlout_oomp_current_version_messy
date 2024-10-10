@@ -122,6 +122,18 @@ extend
 citizen
 tree
 sweet |  
+| bip_39_word_no_space_1 | ill |  
+| bip_39_word_no_space_10 | illabuseannualeraseoneextendcitizentreesweetpumpkin |  
+| bip_39_word_no_space_11 | illabuseannualeraseoneextendcitizentreesweetpumpkinbanana |  
+| bip_39_word_no_space_12 | illabuseannualeraseoneextendcitizentreesweetpumpkinbananaartefact |  
+| bip_39_word_no_space_2 | illabuse |  
+| bip_39_word_no_space_3 | illabuseannual |  
+| bip_39_word_no_space_4 | illabuseannualerase |  
+| bip_39_word_no_space_5 | illabuseannualeraseone |  
+| bip_39_word_no_space_6 | illabuseannualeraseoneextend |  
+| bip_39_word_no_space_7 | illabuseannualeraseoneextendcitizen |  
+| bip_39_word_no_space_8 | illabuseannualeraseoneextendcitizentree |  
+| bip_39_word_no_space_9 | illabuseannualeraseoneextendcitizentreesweet |  
 | bip_39_word_space_0 | ['ill', 'abuse', 'annual', 'erase', 'one', 'extend', 'citizen', 'tree', 'sweet', 'pumpkin', 'banana', 'artefact'] |  
 | bip_39_word_space_1 | ill |  
 | bip_39_word_space_10 | ill abuse annual erase one extend citizen tree sweet pumpkin |  

@@ -122,6 +122,18 @@ govern
 ride
 siren
 neck |  
+| bip_39_word_no_space_1 | absent |  
+| bip_39_word_no_space_10 | absentnerveringriverfathergovernridesirenneckbelow |  
+| bip_39_word_no_space_11 | absentnerveringriverfathergovernridesirenneckbelowaround |  
+| bip_39_word_no_space_12 | absentnerveringriverfathergovernridesirenneckbelowaroundabsurd |  
+| bip_39_word_no_space_2 | absentnerve |  
+| bip_39_word_no_space_3 | absentnervering |  
+| bip_39_word_no_space_4 | absentnerveringriver |  
+| bip_39_word_no_space_5 | absentnerveringriverfather |  
+| bip_39_word_no_space_6 | absentnerveringriverfathergovern |  
+| bip_39_word_no_space_7 | absentnerveringriverfathergovernride |  
+| bip_39_word_no_space_8 | absentnerveringriverfathergovernridesiren |  
+| bip_39_word_no_space_9 | absentnerveringriverfathergovernridesirenneck |  
 | bip_39_word_space_0 | ['absent', 'nerve', 'ring', 'river', 'father', 'govern', 'ride', 'siren', 'neck', 'below', 'around', 'absurd'] |  
 | bip_39_word_space_1 | absent |  
 | bip_39_word_space_10 | absent nerve ring river father govern ride siren neck below |  

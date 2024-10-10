@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'vacant
   chest
 
   bitter'
+bip_39_word_no_space_1: vacant
+bip_39_word_no_space_10: vacantsalonboostmotionsaltdetailcrowdchestbittersunny
+bip_39_word_no_space_11: vacantsalonboostmotionsaltdetailcrowdchestbittersunnyblush
+bip_39_word_no_space_12: vacantsalonboostmotionsaltdetailcrowdchestbittersunnyblusharch
+bip_39_word_no_space_2: vacantsalon
+bip_39_word_no_space_3: vacantsalonboost
+bip_39_word_no_space_4: vacantsalonboostmotion
+bip_39_word_no_space_5: vacantsalonboostmotionsalt
+bip_39_word_no_space_6: vacantsalonboostmotionsaltdetail
+bip_39_word_no_space_7: vacantsalonboostmotionsaltdetailcrowd
+bip_39_word_no_space_8: vacantsalonboostmotionsaltdetailcrowdchest
+bip_39_word_no_space_9: vacantsalonboostmotionsaltdetailcrowdchestbitter
 bip_39_word_space_0:
 - vacant
 - salon

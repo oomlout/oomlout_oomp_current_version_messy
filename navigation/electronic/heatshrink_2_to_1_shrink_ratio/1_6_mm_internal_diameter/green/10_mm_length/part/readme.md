@@ -122,6 +122,18 @@ garage
 vendor
 fix
 warrior |  
+| bip_39_word_no_space_1 | before |  
+| bip_39_word_no_space_10 | beforemomneutralsnakelonggaragevendorfixwarriorpyramid |  
+| bip_39_word_no_space_11 | beforemomneutralsnakelonggaragevendorfixwarriorpyramidvicious |  
+| bip_39_word_no_space_12 | beforemomneutralsnakelonggaragevendorfixwarriorpyramidviciousadvance |  
+| bip_39_word_no_space_2 | beforemom |  
+| bip_39_word_no_space_3 | beforemomneutral |  
+| bip_39_word_no_space_4 | beforemomneutralsnake |  
+| bip_39_word_no_space_5 | beforemomneutralsnakelong |  
+| bip_39_word_no_space_6 | beforemomneutralsnakelonggarage |  
+| bip_39_word_no_space_7 | beforemomneutralsnakelonggaragevendor |  
+| bip_39_word_no_space_8 | beforemomneutralsnakelonggaragevendorfix |  
+| bip_39_word_no_space_9 | beforemomneutralsnakelonggaragevendorfixwarrior |  
 | bip_39_word_space_0 | ['before', 'mom', 'neutral', 'snake', 'long', 'garage', 'vendor', 'fix', 'warrior', 'pyramid', 'vicious', 'advance'] |  
 | bip_39_word_space_1 | before |  
 | bip_39_word_space_10 | before mom neutral snake long garage vendor fix warrior pyramid |  

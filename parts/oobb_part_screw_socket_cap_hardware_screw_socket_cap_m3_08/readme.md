@@ -122,6 +122,18 @@ immune
 cute
 together
 shoulder |  
+| bip_39_word_no_space_1 | rule |  
+| bip_39_word_no_space_10 | rulederiveimprovenothingscrubimmunecutetogethershoulderwall |  
+| bip_39_word_no_space_11 | rulederiveimprovenothingscrubimmunecutetogethershoulderwallgood |  
+| bip_39_word_no_space_12 | rulederiveimprovenothingscrubimmunecutetogethershoulderwallgoodafraid |  
+| bip_39_word_no_space_2 | rulederive |  
+| bip_39_word_no_space_3 | rulederiveimprove |  
+| bip_39_word_no_space_4 | rulederiveimprovenothing |  
+| bip_39_word_no_space_5 | rulederiveimprovenothingscrub |  
+| bip_39_word_no_space_6 | rulederiveimprovenothingscrubimmune |  
+| bip_39_word_no_space_7 | rulederiveimprovenothingscrubimmunecute |  
+| bip_39_word_no_space_8 | rulederiveimprovenothingscrubimmunecutetogether |  
+| bip_39_word_no_space_9 | rulederiveimprovenothingscrubimmunecutetogethershoulder |  
 | bip_39_word_space_0 | ['rule', 'derive', 'improve', 'nothing', 'scrub', 'immune', 'cute', 'together', 'shoulder', 'wall', 'good', 'afraid'] |  
 | bip_39_word_space_1 | rule |  
 | bip_39_word_space_10 | rule derive improve nothing scrub immune cute together shoulder wall |  

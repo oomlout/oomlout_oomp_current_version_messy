@@ -122,6 +122,18 @@ coast
 rescue
 grid
 ball |  
+| bip_39_word_no_space_1 | marriage |  
+| bip_39_word_no_space_10 | marriageaddressgiraffelegusedcoastrescuegridballinner |  
+| bip_39_word_no_space_11 | marriageaddressgiraffelegusedcoastrescuegridballinnerdentist |  
+| bip_39_word_no_space_12 | marriageaddressgiraffelegusedcoastrescuegridballinnerdentistaccuse |  
+| bip_39_word_no_space_2 | marriageaddress |  
+| bip_39_word_no_space_3 | marriageaddressgiraffe |  
+| bip_39_word_no_space_4 | marriageaddressgiraffeleg |  
+| bip_39_word_no_space_5 | marriageaddressgiraffelegused |  
+| bip_39_word_no_space_6 | marriageaddressgiraffelegusedcoast |  
+| bip_39_word_no_space_7 | marriageaddressgiraffelegusedcoastrescue |  
+| bip_39_word_no_space_8 | marriageaddressgiraffelegusedcoastrescuegrid |  
+| bip_39_word_no_space_9 | marriageaddressgiraffelegusedcoastrescuegridball |  
 | bip_39_word_space_0 | ['marriage', 'address', 'giraffe', 'leg', 'used', 'coast', 'rescue', 'grid', 'ball', 'inner', 'dentist', 'accuse'] |  
 | bip_39_word_space_1 | marriage |  
 | bip_39_word_space_10 | marriage address giraffe leg used coast rescue grid ball inner |  

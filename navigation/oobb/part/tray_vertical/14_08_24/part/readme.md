@@ -122,6 +122,18 @@ undo
 crater
 first
 talk |  
+| bip_39_word_no_space_1 | moment |  
+| bip_39_word_no_space_10 | momentsaddleknifecupboardbarrelundocraterfirsttalkexclude |  
+| bip_39_word_no_space_11 | momentsaddleknifecupboardbarrelundocraterfirsttalkexcludeadvance |  
+| bip_39_word_no_space_12 | momentsaddleknifecupboardbarrelundocraterfirsttalkexcludeadvancearmed |  
+| bip_39_word_no_space_2 | momentsaddle |  
+| bip_39_word_no_space_3 | momentsaddleknife |  
+| bip_39_word_no_space_4 | momentsaddleknifecupboard |  
+| bip_39_word_no_space_5 | momentsaddleknifecupboardbarrel |  
+| bip_39_word_no_space_6 | momentsaddleknifecupboardbarrelundo |  
+| bip_39_word_no_space_7 | momentsaddleknifecupboardbarrelundocrater |  
+| bip_39_word_no_space_8 | momentsaddleknifecupboardbarrelundocraterfirst |  
+| bip_39_word_no_space_9 | momentsaddleknifecupboardbarrelundocraterfirsttalk |  
 | bip_39_word_space_0 | ['moment', 'saddle', 'knife', 'cupboard', 'barrel', 'undo', 'crater', 'first', 'talk', 'exclude', 'advance', 'armed'] |  
 | bip_39_word_space_1 | moment |  
 | bip_39_word_space_10 | moment saddle knife cupboard barrel undo crater first talk exclude |  

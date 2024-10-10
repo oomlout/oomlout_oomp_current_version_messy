@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'venue
   enrich
 
   topic'
+bip_39_word_no_space_1: venue
+bip_39_word_no_space_10: venuefantasystorysetuppalacerungloryenrichtopicsuggest
+bip_39_word_no_space_11: venuefantasystorysetuppalacerungloryenrichtopicsuggestbegin
+bip_39_word_no_space_12: venuefantasystorysetuppalacerungloryenrichtopicsuggestbeginattitude
+bip_39_word_no_space_2: venuefantasy
+bip_39_word_no_space_3: venuefantasystory
+bip_39_word_no_space_4: venuefantasystorysetup
+bip_39_word_no_space_5: venuefantasystorysetuppalace
+bip_39_word_no_space_6: venuefantasystorysetuppalacerun
+bip_39_word_no_space_7: venuefantasystorysetuppalacerunglory
+bip_39_word_no_space_8: venuefantasystorysetuppalacerungloryenrich
+bip_39_word_no_space_9: venuefantasystorysetuppalacerungloryenrichtopic
 bip_39_word_space_0:
 - venue
 - fantasy

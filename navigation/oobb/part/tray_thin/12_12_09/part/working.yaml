@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'very
   dirt
 
   normal'
+bip_39_word_no_space_1: very
+bip_39_word_no_space_10: veryeducateutilityanklebirdphotorequiredirtnormalroof
+bip_39_word_no_space_11: veryeducateutilityanklebirdphotorequiredirtnormalrooffetch
+bip_39_word_no_space_12: veryeducateutilityanklebirdphotorequiredirtnormalrooffetchauto
+bip_39_word_no_space_2: veryeducate
+bip_39_word_no_space_3: veryeducateutility
+bip_39_word_no_space_4: veryeducateutilityankle
+bip_39_word_no_space_5: veryeducateutilityanklebird
+bip_39_word_no_space_6: veryeducateutilityanklebirdphoto
+bip_39_word_no_space_7: veryeducateutilityanklebirdphotorequire
+bip_39_word_no_space_8: veryeducateutilityanklebirdphotorequiredirt
+bip_39_word_no_space_9: veryeducateutilityanklebirdphotorequiredirtnormal
 bip_39_word_space_0:
 - very
 - educate

@@ -122,6 +122,18 @@ sister
 sick
 human
 skull |  
+| bip_39_word_no_space_1 | shock |  
+| bip_39_word_no_space_10 | shocktimejoyraccoongrainsistersickhumanskullevidence |  
+| bip_39_word_no_space_11 | shocktimejoyraccoongrainsistersickhumanskullevidencemix |  
+| bip_39_word_no_space_12 | shocktimejoyraccoongrainsistersickhumanskullevidencemixany |  
+| bip_39_word_no_space_2 | shocktime |  
+| bip_39_word_no_space_3 | shocktimejoy |  
+| bip_39_word_no_space_4 | shocktimejoyraccoon |  
+| bip_39_word_no_space_5 | shocktimejoyraccoongrain |  
+| bip_39_word_no_space_6 | shocktimejoyraccoongrainsister |  
+| bip_39_word_no_space_7 | shocktimejoyraccoongrainsistersick |  
+| bip_39_word_no_space_8 | shocktimejoyraccoongrainsistersickhuman |  
+| bip_39_word_no_space_9 | shocktimejoyraccoongrainsistersickhumanskull |  
 | bip_39_word_space_0 | ['shock', 'time', 'joy', 'raccoon', 'grain', 'sister', 'sick', 'human', 'skull', 'evidence', 'mix', 'any'] |  
 | bip_39_word_space_1 | shock |  
 | bip_39_word_space_10 | shock time joy raccoon grain sister sick human skull evidence |  

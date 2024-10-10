@@ -122,6 +122,18 @@ brother
 middle
 mixture
 lonely |  
+| bip_39_word_no_space_1 | monkey |  
+| bip_39_word_no_space_10 | monkeydrillsketchsurprisejuniorbrothermiddlemixturelonelyedge |  
+| bip_39_word_no_space_11 | monkeydrillsketchsurprisejuniorbrothermiddlemixturelonelyedgeseat |  
+| bip_39_word_no_space_12 | monkeydrillsketchsurprisejuniorbrothermiddlemixturelonelyedgeseatadvice |  
+| bip_39_word_no_space_2 | monkeydrill |  
+| bip_39_word_no_space_3 | monkeydrillsketch |  
+| bip_39_word_no_space_4 | monkeydrillsketchsurprise |  
+| bip_39_word_no_space_5 | monkeydrillsketchsurprisejunior |  
+| bip_39_word_no_space_6 | monkeydrillsketchsurprisejuniorbrother |  
+| bip_39_word_no_space_7 | monkeydrillsketchsurprisejuniorbrothermiddle |  
+| bip_39_word_no_space_8 | monkeydrillsketchsurprisejuniorbrothermiddlemixture |  
+| bip_39_word_no_space_9 | monkeydrillsketchsurprisejuniorbrothermiddlemixturelonely |  
 | bip_39_word_space_0 | ['monkey', 'drill', 'sketch', 'surprise', 'junior', 'brother', 'middle', 'mixture', 'lonely', 'edge', 'seat', 'advice'] |  
 | bip_39_word_space_1 | monkey |  
 | bip_39_word_space_10 | monkey drill sketch surprise junior brother middle mixture lonely edge |  

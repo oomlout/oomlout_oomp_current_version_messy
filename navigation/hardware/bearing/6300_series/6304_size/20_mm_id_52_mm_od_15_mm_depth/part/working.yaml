@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'syrup
   kid
 
   tunnel'
+bip_39_word_no_space_1: syrup
+bip_39_word_no_space_10: syrupsurroundidleraredynamicnewsinformkidtunnelcrew
+bip_39_word_no_space_11: syrupsurroundidleraredynamicnewsinformkidtunnelcrewlink
+bip_39_word_no_space_12: syrupsurroundidleraredynamicnewsinformkidtunnelcrewlinkacid
+bip_39_word_no_space_2: syrupsurround
+bip_39_word_no_space_3: syrupsurroundidle
+bip_39_word_no_space_4: syrupsurroundidlerare
+bip_39_word_no_space_5: syrupsurroundidleraredynamic
+bip_39_word_no_space_6: syrupsurroundidleraredynamicnews
+bip_39_word_no_space_7: syrupsurroundidleraredynamicnewsinform
+bip_39_word_no_space_8: syrupsurroundidleraredynamicnewsinformkid
+bip_39_word_no_space_9: syrupsurroundidleraredynamicnewsinformkidtunnel
 bip_39_word_space_0:
 - syrup
 - surround

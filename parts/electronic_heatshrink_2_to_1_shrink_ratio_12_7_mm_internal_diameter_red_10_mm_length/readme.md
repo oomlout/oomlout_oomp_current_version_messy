@@ -122,6 +122,18 @@ census
 cross
 whale
 radar |  
+| bip_39_word_no_space_1 | match |  
+| bip_39_word_no_space_10 | matchfarmpowderexistbleakcensuscrosswhaleradarput |  
+| bip_39_word_no_space_11 | matchfarmpowderexistbleakcensuscrosswhaleradarputdragon |  
+| bip_39_word_no_space_12 | matchfarmpowderexistbleakcensuscrosswhaleradarputdragonagain |  
+| bip_39_word_no_space_2 | matchfarm |  
+| bip_39_word_no_space_3 | matchfarmpowder |  
+| bip_39_word_no_space_4 | matchfarmpowderexist |  
+| bip_39_word_no_space_5 | matchfarmpowderexistbleak |  
+| bip_39_word_no_space_6 | matchfarmpowderexistbleakcensus |  
+| bip_39_word_no_space_7 | matchfarmpowderexistbleakcensuscross |  
+| bip_39_word_no_space_8 | matchfarmpowderexistbleakcensuscrosswhale |  
+| bip_39_word_no_space_9 | matchfarmpowderexistbleakcensuscrosswhaleradar |  
 | bip_39_word_space_0 | ['match', 'farm', 'powder', 'exist', 'bleak', 'census', 'cross', 'whale', 'radar', 'put', 'dragon', 'again'] |  
 | bip_39_word_space_1 | match |  
 | bip_39_word_space_10 | match farm powder exist bleak census cross whale radar put |  

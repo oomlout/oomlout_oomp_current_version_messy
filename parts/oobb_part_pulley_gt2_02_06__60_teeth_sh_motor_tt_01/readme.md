@@ -122,6 +122,18 @@ captain
 detect
 helmet
 session |  
+| bip_39_word_no_space_1 | ensure |  
+| bip_39_word_no_space_10 | ensureordinaryblindarmorconsidercaptaindetecthelmetsessionshrug |  
+| bip_39_word_no_space_11 | ensureordinaryblindarmorconsidercaptaindetecthelmetsessionshrugvehicle |  
+| bip_39_word_no_space_12 | ensureordinaryblindarmorconsidercaptaindetecthelmetsessionshrugvehicleabsorb |  
+| bip_39_word_no_space_2 | ensureordinary |  
+| bip_39_word_no_space_3 | ensureordinaryblind |  
+| bip_39_word_no_space_4 | ensureordinaryblindarmor |  
+| bip_39_word_no_space_5 | ensureordinaryblindarmorconsider |  
+| bip_39_word_no_space_6 | ensureordinaryblindarmorconsidercaptain |  
+| bip_39_word_no_space_7 | ensureordinaryblindarmorconsidercaptaindetect |  
+| bip_39_word_no_space_8 | ensureordinaryblindarmorconsidercaptaindetecthelmet |  
+| bip_39_word_no_space_9 | ensureordinaryblindarmorconsidercaptaindetecthelmetsession |  
 | bip_39_word_space_0 | ['ensure', 'ordinary', 'blind', 'armor', 'consider', 'captain', 'detect', 'helmet', 'session', 'shrug', 'vehicle', 'absorb'] |  
 | bip_39_word_space_1 | ensure |  
 | bip_39_word_space_10 | ensure ordinary blind armor consider captain detect helmet session shrug |  

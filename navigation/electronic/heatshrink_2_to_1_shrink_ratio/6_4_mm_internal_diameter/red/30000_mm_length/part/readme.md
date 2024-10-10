@@ -122,6 +122,18 @@ fame
 walnut
 decorate
 ship |  
+| bip_39_word_no_space_1 | antique |  
+| bip_39_word_no_space_10 | antiquenoodleprovidelionsixfamewalnutdecorateshipzero |  
+| bip_39_word_no_space_11 | antiquenoodleprovidelionsixfamewalnutdecorateshipzeroglide |  
+| bip_39_word_no_space_12 | antiquenoodleprovidelionsixfamewalnutdecorateshipzeroglideartist |  
+| bip_39_word_no_space_2 | antiquenoodle |  
+| bip_39_word_no_space_3 | antiquenoodleprovide |  
+| bip_39_word_no_space_4 | antiquenoodleprovidelion |  
+| bip_39_word_no_space_5 | antiquenoodleprovidelionsix |  
+| bip_39_word_no_space_6 | antiquenoodleprovidelionsixfame |  
+| bip_39_word_no_space_7 | antiquenoodleprovidelionsixfamewalnut |  
+| bip_39_word_no_space_8 | antiquenoodleprovidelionsixfamewalnutdecorate |  
+| bip_39_word_no_space_9 | antiquenoodleprovidelionsixfamewalnutdecorateship |  
 | bip_39_word_space_0 | ['antique', 'noodle', 'provide', 'lion', 'six', 'fame', 'walnut', 'decorate', 'ship', 'zero', 'glide', 'artist'] |  
 | bip_39_word_space_1 | antique |  
 | bip_39_word_space_10 | antique noodle provide lion six fame walnut decorate ship zero |  

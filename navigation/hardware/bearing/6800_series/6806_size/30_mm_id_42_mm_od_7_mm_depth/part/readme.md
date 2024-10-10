@@ -122,6 +122,18 @@ unfair
 item
 curtain
 shift |  
+| bip_39_word_no_space_1 | labor |  
+| bip_39_word_no_space_10 | laborintactfostertwelveadaptunfairitemcurtainshiftpelican |  
+| bip_39_word_no_space_11 | laborintactfostertwelveadaptunfairitemcurtainshiftpelicaneducate |  
+| bip_39_word_no_space_12 | laborintactfostertwelveadaptunfairitemcurtainshiftpelicaneducateassist |  
+| bip_39_word_no_space_2 | laborintact |  
+| bip_39_word_no_space_3 | laborintactfoster |  
+| bip_39_word_no_space_4 | laborintactfostertwelve |  
+| bip_39_word_no_space_5 | laborintactfostertwelveadapt |  
+| bip_39_word_no_space_6 | laborintactfostertwelveadaptunfair |  
+| bip_39_word_no_space_7 | laborintactfostertwelveadaptunfairitem |  
+| bip_39_word_no_space_8 | laborintactfostertwelveadaptunfairitemcurtain |  
+| bip_39_word_no_space_9 | laborintactfostertwelveadaptunfairitemcurtainshift |  
 | bip_39_word_space_0 | ['labor', 'intact', 'foster', 'twelve', 'adapt', 'unfair', 'item', 'curtain', 'shift', 'pelican', 'educate', 'assist'] |  
 | bip_39_word_space_1 | labor |  
 | bip_39_word_space_10 | labor intact foster twelve adapt unfair item curtain shift pelican |  

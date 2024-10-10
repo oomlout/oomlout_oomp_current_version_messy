@@ -122,6 +122,18 @@ tool
 never
 sleep
 style |  
+| bip_39_word_no_space_1 | episode |  
+| bip_39_word_no_space_10 | episodespeedwaydisplaystafftoolneversleepstylevenue |  
+| bip_39_word_no_space_11 | episodespeedwaydisplaystafftoolneversleepstylevenuestay |  
+| bip_39_word_no_space_12 | episodespeedwaydisplaystafftoolneversleepstylevenuestayact |  
+| bip_39_word_no_space_2 | episodespeed |  
+| bip_39_word_no_space_3 | episodespeedway |  
+| bip_39_word_no_space_4 | episodespeedwaydisplay |  
+| bip_39_word_no_space_5 | episodespeedwaydisplaystaff |  
+| bip_39_word_no_space_6 | episodespeedwaydisplaystafftool |  
+| bip_39_word_no_space_7 | episodespeedwaydisplaystafftoolnever |  
+| bip_39_word_no_space_8 | episodespeedwaydisplaystafftoolneversleep |  
+| bip_39_word_no_space_9 | episodespeedwaydisplaystafftoolneversleepstyle |  
 | bip_39_word_space_0 | ['episode', 'speed', 'way', 'display', 'staff', 'tool', 'never', 'sleep', 'style', 'venue', 'stay', 'act'] |  
 | bip_39_word_space_1 | episode |  
 | bip_39_word_space_10 | episode speed way display staff tool never sleep style venue |  

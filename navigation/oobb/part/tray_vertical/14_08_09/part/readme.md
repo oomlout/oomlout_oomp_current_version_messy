@@ -122,6 +122,18 @@ capable
 essay
 visit
 north |  
+| bip_39_word_no_space_1 | daughter |  
+| bip_39_word_no_space_10 | daughtercupboardverifycradletopplecapableessayvisitnorthwise |  
+| bip_39_word_no_space_11 | daughtercupboardverifycradletopplecapableessayvisitnorthwisepupil |  
+| bip_39_word_no_space_12 | daughtercupboardverifycradletopplecapableessayvisitnorthwisepupilair |  
+| bip_39_word_no_space_2 | daughtercupboard |  
+| bip_39_word_no_space_3 | daughtercupboardverify |  
+| bip_39_word_no_space_4 | daughtercupboardverifycradle |  
+| bip_39_word_no_space_5 | daughtercupboardverifycradletopple |  
+| bip_39_word_no_space_6 | daughtercupboardverifycradletopplecapable |  
+| bip_39_word_no_space_7 | daughtercupboardverifycradletopplecapableessay |  
+| bip_39_word_no_space_8 | daughtercupboardverifycradletopplecapableessayvisit |  
+| bip_39_word_no_space_9 | daughtercupboardverifycradletopplecapableessayvisitnorth |  
 | bip_39_word_space_0 | ['daughter', 'cupboard', 'verify', 'cradle', 'topple', 'capable', 'essay', 'visit', 'north', 'wise', 'pupil', 'air'] |  
 | bip_39_word_space_1 | daughter |  
 | bip_39_word_space_10 | daughter cupboard verify cradle topple capable essay visit north wise |  

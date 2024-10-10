@@ -122,6 +122,18 @@ soap
 test
 early
 auction |  
+| bip_39_word_no_space_1 | march |  
+| bip_39_word_no_space_10 | marchviableillegalinquiryindicatesoaptestearlyauctionarmy |  
+| bip_39_word_no_space_11 | marchviableillegalinquiryindicatesoaptestearlyauctionarmypave |  
+| bip_39_word_no_space_12 | marchviableillegalinquiryindicatesoaptestearlyauctionarmypaveassume |  
+| bip_39_word_no_space_2 | marchviable |  
+| bip_39_word_no_space_3 | marchviableillegal |  
+| bip_39_word_no_space_4 | marchviableillegalinquiry |  
+| bip_39_word_no_space_5 | marchviableillegalinquiryindicate |  
+| bip_39_word_no_space_6 | marchviableillegalinquiryindicatesoap |  
+| bip_39_word_no_space_7 | marchviableillegalinquiryindicatesoaptest |  
+| bip_39_word_no_space_8 | marchviableillegalinquiryindicatesoaptestearly |  
+| bip_39_word_no_space_9 | marchviableillegalinquiryindicatesoaptestearlyauction |  
 | bip_39_word_space_0 | ['march', 'viable', 'illegal', 'inquiry', 'indicate', 'soap', 'test', 'early', 'auction', 'army', 'pave', 'assume'] |  
 | bip_39_word_space_1 | march |  
 | bip_39_word_space_10 | march viable illegal inquiry indicate soap test early auction army |  

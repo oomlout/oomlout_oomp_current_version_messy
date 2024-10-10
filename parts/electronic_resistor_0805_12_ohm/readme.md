@@ -122,6 +122,18 @@ actual
 resist
 daring
 enrich |  
+| bip_39_word_no_space_1 | rice |  
+| bip_39_word_no_space_10 | ricepeasantaccountwireshockactualresistdaringenrichsomeone |  
+| bip_39_word_no_space_11 | ricepeasantaccountwireshockactualresistdaringenrichsomeonemountain |  
+| bip_39_word_no_space_12 | ricepeasantaccountwireshockactualresistdaringenrichsomeonemountainabove |  
+| bip_39_word_no_space_2 | ricepeasant |  
+| bip_39_word_no_space_3 | ricepeasantaccount |  
+| bip_39_word_no_space_4 | ricepeasantaccountwire |  
+| bip_39_word_no_space_5 | ricepeasantaccountwireshock |  
+| bip_39_word_no_space_6 | ricepeasantaccountwireshockactual |  
+| bip_39_word_no_space_7 | ricepeasantaccountwireshockactualresist |  
+| bip_39_word_no_space_8 | ricepeasantaccountwireshockactualresistdaring |  
+| bip_39_word_no_space_9 | ricepeasantaccountwireshockactualresistdaringenrich |  
 | bip_39_word_space_0 | ['rice', 'peasant', 'account', 'wire', 'shock', 'actual', 'resist', 'daring', 'enrich', 'someone', 'mountain', 'above'] |  
 | bip_39_word_space_1 | rice |  
 | bip_39_word_space_10 | rice peasant account wire shock actual resist daring enrich someone |  

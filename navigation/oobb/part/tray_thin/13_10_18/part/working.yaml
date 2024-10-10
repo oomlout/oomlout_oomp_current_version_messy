@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'fresh
   give
 
   quiz'
+bip_39_word_no_space_1: fresh
+bip_39_word_no_space_10: freshframechoicefatherartefactenablefinalgivequizminor
+bip_39_word_no_space_11: freshframechoicefatherartefactenablefinalgivequizminorinject
+bip_39_word_no_space_12: freshframechoicefatherartefactenablefinalgivequizminorinjectankle
+bip_39_word_no_space_2: freshframe
+bip_39_word_no_space_3: freshframechoice
+bip_39_word_no_space_4: freshframechoicefather
+bip_39_word_no_space_5: freshframechoicefatherartefact
+bip_39_word_no_space_6: freshframechoicefatherartefactenable
+bip_39_word_no_space_7: freshframechoicefatherartefactenablefinal
+bip_39_word_no_space_8: freshframechoicefatherartefactenablefinalgive
+bip_39_word_no_space_9: freshframechoicefatherartefactenablefinalgivequiz
 bip_39_word_space_0:
 - fresh
 - frame

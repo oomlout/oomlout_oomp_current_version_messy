@@ -122,6 +122,18 @@ cry
 make
 age
 output |  
+| bip_39_word_no_space_1 | lawsuit |  
+| bip_39_word_no_space_10 | lawsuitnotableyarddrillviciouscrymakeageoutputstamp |  
+| bip_39_word_no_space_11 | lawsuitnotableyarddrillviciouscrymakeageoutputstampload |  
+| bip_39_word_no_space_12 | lawsuitnotableyarddrillviciouscrymakeageoutputstamploadafraid |  
+| bip_39_word_no_space_2 | lawsuitnotable |  
+| bip_39_word_no_space_3 | lawsuitnotableyard |  
+| bip_39_word_no_space_4 | lawsuitnotableyarddrill |  
+| bip_39_word_no_space_5 | lawsuitnotableyarddrillvicious |  
+| bip_39_word_no_space_6 | lawsuitnotableyarddrillviciouscry |  
+| bip_39_word_no_space_7 | lawsuitnotableyarddrillviciouscrymake |  
+| bip_39_word_no_space_8 | lawsuitnotableyarddrillviciouscrymakeage |  
+| bip_39_word_no_space_9 | lawsuitnotableyarddrillviciouscrymakeageoutput |  
 | bip_39_word_space_0 | ['lawsuit', 'notable', 'yard', 'drill', 'vicious', 'cry', 'make', 'age', 'output', 'stamp', 'load', 'afraid'] |  
 | bip_39_word_space_1 | lawsuit |  
 | bip_39_word_space_10 | lawsuit notable yard drill vicious cry make age output stamp |  

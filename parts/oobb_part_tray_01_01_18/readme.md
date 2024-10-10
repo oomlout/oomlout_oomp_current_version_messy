@@ -122,6 +122,18 @@ hover
 cricket
 tornado
 expect |  
+| bip_39_word_no_space_1 | absent |  
+| bip_39_word_no_space_10 | absentagentmousenetislandhovercrickettornadoexpectadd |  
+| bip_39_word_no_space_11 | absentagentmousenetislandhovercrickettornadoexpectaddmelody |  
+| bip_39_word_no_space_12 | absentagentmousenetislandhovercrickettornadoexpectaddmelodyabout |  
+| bip_39_word_no_space_2 | absentagent |  
+| bip_39_word_no_space_3 | absentagentmouse |  
+| bip_39_word_no_space_4 | absentagentmousenet |  
+| bip_39_word_no_space_5 | absentagentmousenetisland |  
+| bip_39_word_no_space_6 | absentagentmousenetislandhover |  
+| bip_39_word_no_space_7 | absentagentmousenetislandhovercricket |  
+| bip_39_word_no_space_8 | absentagentmousenetislandhovercrickettornado |  
+| bip_39_word_no_space_9 | absentagentmousenetislandhovercrickettornadoexpect |  
 | bip_39_word_space_0 | ['absent', 'agent', 'mouse', 'net', 'island', 'hover', 'cricket', 'tornado', 'expect', 'add', 'melody', 'about'] |  
 | bip_39_word_space_1 | absent |  
 | bip_39_word_space_10 | absent agent mouse net island hover cricket tornado expect add |  

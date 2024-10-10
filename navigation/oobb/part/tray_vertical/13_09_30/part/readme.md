@@ -122,6 +122,18 @@ angry
 damp
 carbon
 police |  
+| bip_39_word_no_space_1 | math |  
+| bip_39_word_no_space_10 | mathflightinsectsharesliceangrydampcarbonpolicehip |  
+| bip_39_word_no_space_11 | mathflightinsectsharesliceangrydampcarbonpolicehipkit |  
+| bip_39_word_no_space_12 | mathflightinsectsharesliceangrydampcarbonpolicehipkitatom |  
+| bip_39_word_no_space_2 | mathflight |  
+| bip_39_word_no_space_3 | mathflightinsect |  
+| bip_39_word_no_space_4 | mathflightinsectshare |  
+| bip_39_word_no_space_5 | mathflightinsectshareslice |  
+| bip_39_word_no_space_6 | mathflightinsectsharesliceangry |  
+| bip_39_word_no_space_7 | mathflightinsectsharesliceangrydamp |  
+| bip_39_word_no_space_8 | mathflightinsectsharesliceangrydampcarbon |  
+| bip_39_word_no_space_9 | mathflightinsectsharesliceangrydampcarbonpolice |  
 | bip_39_word_space_0 | ['math', 'flight', 'insect', 'share', 'slice', 'angry', 'damp', 'carbon', 'police', 'hip', 'kit', 'atom'] |  
 | bip_39_word_space_1 | math |  
 | bip_39_word_space_10 | math flight insect share slice angry damp carbon police hip |  

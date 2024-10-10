@@ -122,6 +122,18 @@ outdoor
 two
 vintage
 danger |  
+| bip_39_word_no_space_1 | original |  
+| bip_39_word_no_space_10 | originalcountryfreshglanceliaroutdoortwovintagedangerremain |  
+| bip_39_word_no_space_11 | originalcountryfreshglanceliaroutdoortwovintagedangerremaincountry |  
+| bip_39_word_no_space_12 | originalcountryfreshglanceliaroutdoortwovintagedangerremaincountryaround |  
+| bip_39_word_no_space_2 | originalcountry |  
+| bip_39_word_no_space_3 | originalcountryfresh |  
+| bip_39_word_no_space_4 | originalcountryfreshglance |  
+| bip_39_word_no_space_5 | originalcountryfreshglanceliar |  
+| bip_39_word_no_space_6 | originalcountryfreshglanceliaroutdoor |  
+| bip_39_word_no_space_7 | originalcountryfreshglanceliaroutdoortwo |  
+| bip_39_word_no_space_8 | originalcountryfreshglanceliaroutdoortwovintage |  
+| bip_39_word_no_space_9 | originalcountryfreshglanceliaroutdoortwovintagedanger |  
 | bip_39_word_space_0 | ['original', 'country', 'fresh', 'glance', 'liar', 'outdoor', 'two', 'vintage', 'danger', 'remain', 'country', 'around'] |  
 | bip_39_word_space_1 | original |  
 | bip_39_word_space_10 | original country fresh glance liar outdoor two vintage danger remain |  

@@ -122,6 +122,18 @@ fiction
 fat
 ball
 brisk |  
+| bip_39_word_no_space_1 | jaguar |  
+| bip_39_word_no_space_10 | jaguarunawaredressdialswapfictionfatballbriskexit |  
+| bip_39_word_no_space_11 | jaguarunawaredressdialswapfictionfatballbriskexitsmart |  
+| bip_39_word_no_space_12 | jaguarunawaredressdialswapfictionfatballbriskexitsmartahead |  
+| bip_39_word_no_space_2 | jaguarunaware |  
+| bip_39_word_no_space_3 | jaguarunawaredress |  
+| bip_39_word_no_space_4 | jaguarunawaredressdial |  
+| bip_39_word_no_space_5 | jaguarunawaredressdialswap |  
+| bip_39_word_no_space_6 | jaguarunawaredressdialswapfiction |  
+| bip_39_word_no_space_7 | jaguarunawaredressdialswapfictionfat |  
+| bip_39_word_no_space_8 | jaguarunawaredressdialswapfictionfatball |  
+| bip_39_word_no_space_9 | jaguarunawaredressdialswapfictionfatballbrisk |  
 | bip_39_word_space_0 | ['jaguar', 'unaware', 'dress', 'dial', 'swap', 'fiction', 'fat', 'ball', 'brisk', 'exit', 'smart', 'ahead'] |  
 | bip_39_word_space_1 | jaguar |  
 | bip_39_word_space_10 | jaguar unaware dress dial swap fiction fat ball brisk exit |  

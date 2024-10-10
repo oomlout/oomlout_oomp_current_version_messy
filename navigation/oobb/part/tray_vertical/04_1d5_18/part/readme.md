@@ -122,6 +122,18 @@ skate
 foil
 catalog
 solid |  
+| bip_39_word_no_space_1 | edit |  
+| bip_39_word_no_space_10 | editappeartrumpetacquirecapitalskatefoilcatalogsolidgather |  
+| bip_39_word_no_space_11 | editappeartrumpetacquirecapitalskatefoilcatalogsolidgatherday |  
+| bip_39_word_no_space_12 | editappeartrumpetacquirecapitalskatefoilcatalogsolidgatherdayasthma |  
+| bip_39_word_no_space_2 | editappear |  
+| bip_39_word_no_space_3 | editappeartrumpet |  
+| bip_39_word_no_space_4 | editappeartrumpetacquire |  
+| bip_39_word_no_space_5 | editappeartrumpetacquirecapital |  
+| bip_39_word_no_space_6 | editappeartrumpetacquirecapitalskate |  
+| bip_39_word_no_space_7 | editappeartrumpetacquirecapitalskatefoil |  
+| bip_39_word_no_space_8 | editappeartrumpetacquirecapitalskatefoilcatalog |  
+| bip_39_word_no_space_9 | editappeartrumpetacquirecapitalskatefoilcatalogsolid |  
 | bip_39_word_space_0 | ['edit', 'appear', 'trumpet', 'acquire', 'capital', 'skate', 'foil', 'catalog', 'solid', 'gather', 'day', 'asthma'] |  
 | bip_39_word_space_1 | edit |  
 | bip_39_word_space_10 | edit appear trumpet acquire capital skate foil catalog solid gather |  

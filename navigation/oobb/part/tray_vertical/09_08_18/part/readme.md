@@ -122,6 +122,18 @@ hundred
 peace
 invest
 caught |  
+| bip_39_word_no_space_1 | unaware |  
+| bip_39_word_no_space_10 | unawaresickchargesteelshafthundredpeaceinvestcaughtinhale |  
+| bip_39_word_no_space_11 | unawaresickchargesteelshafthundredpeaceinvestcaughtinhaleglue |  
+| bip_39_word_no_space_12 | unawaresickchargesteelshafthundredpeaceinvestcaughtinhaleglueannual |  
+| bip_39_word_no_space_2 | unawaresick |  
+| bip_39_word_no_space_3 | unawaresickcharge |  
+| bip_39_word_no_space_4 | unawaresickchargesteel |  
+| bip_39_word_no_space_5 | unawaresickchargesteelshaft |  
+| bip_39_word_no_space_6 | unawaresickchargesteelshafthundred |  
+| bip_39_word_no_space_7 | unawaresickchargesteelshafthundredpeace |  
+| bip_39_word_no_space_8 | unawaresickchargesteelshafthundredpeaceinvest |  
+| bip_39_word_no_space_9 | unawaresickchargesteelshafthundredpeaceinvestcaught |  
 | bip_39_word_space_0 | ['unaware', 'sick', 'charge', 'steel', 'shaft', 'hundred', 'peace', 'invest', 'caught', 'inhale', 'glue', 'annual'] |  
 | bip_39_word_space_1 | unaware |  
 | bip_39_word_space_10 | unaware sick charge steel shaft hundred peace invest caught inhale |  

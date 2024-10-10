@@ -122,6 +122,18 @@ avoid
 carpet
 update
 choice |  
+| bip_39_word_no_space_1 | tourist |  
+| bip_39_word_no_space_10 | touristracesmilephysicalclutchavoidcarpetupdatechoicetube |  
+| bip_39_word_no_space_11 | touristracesmilephysicalclutchavoidcarpetupdatechoicetubefilter |  
+| bip_39_word_no_space_12 | touristracesmilephysicalclutchavoidcarpetupdatechoicetubefilteraccess |  
+| bip_39_word_no_space_2 | touristrace |  
+| bip_39_word_no_space_3 | touristracesmile |  
+| bip_39_word_no_space_4 | touristracesmilephysical |  
+| bip_39_word_no_space_5 | touristracesmilephysicalclutch |  
+| bip_39_word_no_space_6 | touristracesmilephysicalclutchavoid |  
+| bip_39_word_no_space_7 | touristracesmilephysicalclutchavoidcarpet |  
+| bip_39_word_no_space_8 | touristracesmilephysicalclutchavoidcarpetupdate |  
+| bip_39_word_no_space_9 | touristracesmilephysicalclutchavoidcarpetupdatechoice |  
 | bip_39_word_space_0 | ['tourist', 'race', 'smile', 'physical', 'clutch', 'avoid', 'carpet', 'update', 'choice', 'tube', 'filter', 'access'] |  
 | bip_39_word_space_1 | tourist |  
 | bip_39_word_space_10 | tourist race smile physical clutch avoid carpet update choice tube |  

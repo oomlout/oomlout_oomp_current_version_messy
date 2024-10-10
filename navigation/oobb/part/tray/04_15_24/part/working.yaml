@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'stove
   boss
 
   float'
+bip_39_word_no_space_1: stove
+bip_39_word_no_space_10: stoveissueownamazingtoddlerpeacecoralbossfloatsubmit
+bip_39_word_no_space_11: stoveissueownamazingtoddlerpeacecoralbossfloatsubmitcrouch
+bip_39_word_no_space_12: stoveissueownamazingtoddlerpeacecoralbossfloatsubmitcrouchabuse
+bip_39_word_no_space_2: stoveissue
+bip_39_word_no_space_3: stoveissueown
+bip_39_word_no_space_4: stoveissueownamazing
+bip_39_word_no_space_5: stoveissueownamazingtoddler
+bip_39_word_no_space_6: stoveissueownamazingtoddlerpeace
+bip_39_word_no_space_7: stoveissueownamazingtoddlerpeacecoral
+bip_39_word_no_space_8: stoveissueownamazingtoddlerpeacecoralboss
+bip_39_word_no_space_9: stoveissueownamazingtoddlerpeacecoralbossfloat
 bip_39_word_space_0:
 - stove
 - issue

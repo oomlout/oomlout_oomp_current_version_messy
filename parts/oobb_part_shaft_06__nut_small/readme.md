@@ -122,6 +122,18 @@ keep
 venture
 pepper
 error |  
+| bip_39_word_no_space_1 | grain |  
+| bip_39_word_no_space_10 | graincreditaimstruggleresultkeepventurepeppererrorgaze |  
+| bip_39_word_no_space_11 | graincreditaimstruggleresultkeepventurepeppererrorgazepaddle |  
+| bip_39_word_no_space_12 | graincreditaimstruggleresultkeepventurepeppererrorgazepaddleaspect |  
+| bip_39_word_no_space_2 | graincredit |  
+| bip_39_word_no_space_3 | graincreditaim |  
+| bip_39_word_no_space_4 | graincreditaimstruggle |  
+| bip_39_word_no_space_5 | graincreditaimstruggleresult |  
+| bip_39_word_no_space_6 | graincreditaimstruggleresultkeep |  
+| bip_39_word_no_space_7 | graincreditaimstruggleresultkeepventure |  
+| bip_39_word_no_space_8 | graincreditaimstruggleresultkeepventurepepper |  
+| bip_39_word_no_space_9 | graincreditaimstruggleresultkeepventurepeppererror |  
 | bip_39_word_space_0 | ['grain', 'credit', 'aim', 'struggle', 'result', 'keep', 'venture', 'pepper', 'error', 'gaze', 'paddle', 'aspect'] |  
 | bip_39_word_space_1 | grain |  
 | bip_39_word_space_10 | grain credit aim struggle result keep venture pepper error gaze |  

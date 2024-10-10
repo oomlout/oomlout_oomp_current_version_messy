@@ -130,6 +130,17 @@ bip_39_word_new_line9: 'judge
   photo
 
   recycle'
+bip_39_word_no_space_1: judge
+bip_39_word_no_space_10: judgeharborvotebreezewherefoxsavephotorecycletry
+bip_39_word_no_space_11: judgeharborvotebreezewherefoxsavephotorecycletrycraft
+bip_39_word_no_space_2: judgeharbor
+bip_39_word_no_space_3: judgeharborvote
+bip_39_word_no_space_4: judgeharborvotebreeze
+bip_39_word_no_space_5: judgeharborvotebreezewhere
+bip_39_word_no_space_6: judgeharborvotebreezewherefox
+bip_39_word_no_space_7: judgeharborvotebreezewherefoxsave
+bip_39_word_no_space_8: judgeharborvotebreezewherefoxsavephoto
+bip_39_word_no_space_9: judgeharborvotebreezewherefoxsavephotorecycle
 bip_39_word_space_0:
 - judge
 - harbor

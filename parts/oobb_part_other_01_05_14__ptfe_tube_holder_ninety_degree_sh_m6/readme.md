@@ -122,6 +122,18 @@ add
 follow
 spend
 bicycle |  
+| bip_39_word_no_space_1 | round |  
+| bip_39_word_no_space_10 | roundaddtrulygarliczebraaddfollowspendbicyclephoto |  
+| bip_39_word_no_space_11 | roundaddtrulygarliczebraaddfollowspendbicyclephototopple |  
+| bip_39_word_no_space_12 | roundaddtrulygarliczebraaddfollowspendbicyclephototoppleagree |  
+| bip_39_word_no_space_2 | roundadd |  
+| bip_39_word_no_space_3 | roundaddtruly |  
+| bip_39_word_no_space_4 | roundaddtrulygarlic |  
+| bip_39_word_no_space_5 | roundaddtrulygarliczebra |  
+| bip_39_word_no_space_6 | roundaddtrulygarliczebraadd |  
+| bip_39_word_no_space_7 | roundaddtrulygarliczebraaddfollow |  
+| bip_39_word_no_space_8 | roundaddtrulygarliczebraaddfollowspend |  
+| bip_39_word_no_space_9 | roundaddtrulygarliczebraaddfollowspendbicycle |  
 | bip_39_word_space_0 | ['round', 'add', 'truly', 'garlic', 'zebra', 'add', 'follow', 'spend', 'bicycle', 'photo', 'topple', 'agree'] |  
 | bip_39_word_space_1 | round |  
 | bip_39_word_space_10 | round add truly garlic zebra add follow spend bicycle photo |  

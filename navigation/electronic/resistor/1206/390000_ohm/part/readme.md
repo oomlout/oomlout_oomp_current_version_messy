@@ -122,6 +122,18 @@ assist
 human
 sponsor
 aisle |  
+| bip_39_word_no_space_1 | crouch |  
+| bip_39_word_no_space_10 | crouchdiscovertagthenbladeassisthumansponsoraisleselect |  
+| bip_39_word_no_space_11 | crouchdiscovertagthenbladeassisthumansponsoraisleselectfederal |  
+| bip_39_word_no_space_12 | crouchdiscovertagthenbladeassisthumansponsoraisleselectfederalarrange |  
+| bip_39_word_no_space_2 | crouchdiscover |  
+| bip_39_word_no_space_3 | crouchdiscovertag |  
+| bip_39_word_no_space_4 | crouchdiscovertagthen |  
+| bip_39_word_no_space_5 | crouchdiscovertagthenblade |  
+| bip_39_word_no_space_6 | crouchdiscovertagthenbladeassist |  
+| bip_39_word_no_space_7 | crouchdiscovertagthenbladeassisthuman |  
+| bip_39_word_no_space_8 | crouchdiscovertagthenbladeassisthumansponsor |  
+| bip_39_word_no_space_9 | crouchdiscovertagthenbladeassisthumansponsoraisle |  
 | bip_39_word_space_0 | ['crouch', 'discover', 'tag', 'then', 'blade', 'assist', 'human', 'sponsor', 'aisle', 'select', 'federal', 'arrange'] |  
 | bip_39_word_space_1 | crouch |  
 | bip_39_word_space_10 | crouch discover tag then blade assist human sponsor aisle select |  

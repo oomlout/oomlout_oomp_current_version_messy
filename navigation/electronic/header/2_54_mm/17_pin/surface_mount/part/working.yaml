@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'front
   talk
 
   author'
+bip_39_word_no_space_1: front
+bip_39_word_no_space_10: frontrailalphakiwibestfishpenaltytalkauthorbefore
+bip_39_word_no_space_11: frontrailalphakiwibestfishpenaltytalkauthorbeforesecret
+bip_39_word_no_space_12: frontrailalphakiwibestfishpenaltytalkauthorbeforesecretactual
+bip_39_word_no_space_2: frontrail
+bip_39_word_no_space_3: frontrailalpha
+bip_39_word_no_space_4: frontrailalphakiwi
+bip_39_word_no_space_5: frontrailalphakiwibest
+bip_39_word_no_space_6: frontrailalphakiwibestfish
+bip_39_word_no_space_7: frontrailalphakiwibestfishpenalty
+bip_39_word_no_space_8: frontrailalphakiwibestfishpenaltytalk
+bip_39_word_no_space_9: frontrailalphakiwibestfishpenaltytalkauthor
 bip_39_word_space_0:
 - front
 - rail

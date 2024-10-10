@@ -122,6 +122,18 @@ addict
 ship
 vanish
 switch |  
+| bip_39_word_no_space_1 | arena |  
+| bip_39_word_no_space_10 | arenatumbledosekissexplainaddictshipvanishswitchexit |  
+| bip_39_word_no_space_11 | arenatumbledosekissexplainaddictshipvanishswitchexitmechanic |  
+| bip_39_word_no_space_12 | arenatumbledosekissexplainaddictshipvanishswitchexitmechanicacross |  
+| bip_39_word_no_space_2 | arenatumble |  
+| bip_39_word_no_space_3 | arenatumbledose |  
+| bip_39_word_no_space_4 | arenatumbledosekiss |  
+| bip_39_word_no_space_5 | arenatumbledosekissexplain |  
+| bip_39_word_no_space_6 | arenatumbledosekissexplainaddict |  
+| bip_39_word_no_space_7 | arenatumbledosekissexplainaddictship |  
+| bip_39_word_no_space_8 | arenatumbledosekissexplainaddictshipvanish |  
+| bip_39_word_no_space_9 | arenatumbledosekissexplainaddictshipvanishswitch |  
 | bip_39_word_space_0 | ['arena', 'tumble', 'dose', 'kiss', 'explain', 'addict', 'ship', 'vanish', 'switch', 'exit', 'mechanic', 'across'] |  
 | bip_39_word_space_1 | arena |  
 | bip_39_word_space_10 | arena tumble dose kiss explain addict ship vanish switch exit |  

@@ -122,6 +122,18 @@ lava
 hard
 agree
 else |  
+| bip_39_word_no_space_1 | call |  
+| bip_39_word_no_space_10 | callscancoilimpulsegenuinelavahardagreeelseafford |  
+| bip_39_word_no_space_11 | callscancoilimpulsegenuinelavahardagreeelseaffordsad |  
+| bip_39_word_no_space_12 | callscancoilimpulsegenuinelavahardagreeelseaffordsadattack |  
+| bip_39_word_no_space_2 | callscan |  
+| bip_39_word_no_space_3 | callscancoil |  
+| bip_39_word_no_space_4 | callscancoilimpulse |  
+| bip_39_word_no_space_5 | callscancoilimpulsegenuine |  
+| bip_39_word_no_space_6 | callscancoilimpulsegenuinelava |  
+| bip_39_word_no_space_7 | callscancoilimpulsegenuinelavahard |  
+| bip_39_word_no_space_8 | callscancoilimpulsegenuinelavahardagree |  
+| bip_39_word_no_space_9 | callscancoilimpulsegenuinelavahardagreeelse |  
 | bip_39_word_space_0 | ['call', 'scan', 'coil', 'impulse', 'genuine', 'lava', 'hard', 'agree', 'else', 'afford', 'sad', 'attack'] |  
 | bip_39_word_space_1 | call |  
 | bip_39_word_space_10 | call scan coil impulse genuine lava hard agree else afford |  

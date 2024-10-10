@@ -122,6 +122,18 @@ amount
 receive
 option
 point |  
+| bip_39_word_no_space_1 | arena |  
+| bip_39_word_no_space_10 | arenacartvirusuniformtouristamountreceiveoptionpointill |  
+| bip_39_word_no_space_11 | arenacartvirusuniformtouristamountreceiveoptionpointillkingdom |  
+| bip_39_word_no_space_12 | arenacartvirusuniformtouristamountreceiveoptionpointillkingdomact |  
+| bip_39_word_no_space_2 | arenacart |  
+| bip_39_word_no_space_3 | arenacartvirus |  
+| bip_39_word_no_space_4 | arenacartvirusuniform |  
+| bip_39_word_no_space_5 | arenacartvirusuniformtourist |  
+| bip_39_word_no_space_6 | arenacartvirusuniformtouristamount |  
+| bip_39_word_no_space_7 | arenacartvirusuniformtouristamountreceive |  
+| bip_39_word_no_space_8 | arenacartvirusuniformtouristamountreceiveoption |  
+| bip_39_word_no_space_9 | arenacartvirusuniformtouristamountreceiveoptionpoint |  
 | bip_39_word_space_0 | ['arena', 'cart', 'virus', 'uniform', 'tourist', 'amount', 'receive', 'option', 'point', 'ill', 'kingdom', 'act'] |  
 | bip_39_word_space_1 | arena |  
 | bip_39_word_space_10 | arena cart virus uniform tourist amount receive option point ill |  

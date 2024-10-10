@@ -122,6 +122,18 @@ word
 secret
 observe
 clean |  
+| bip_39_word_no_space_1 | arena |  
+| bip_39_word_no_space_10 | arenashocksnapuniquequotewordsecretobservecleanmaximum |  
+| bip_39_word_no_space_11 | arenashocksnapuniquequotewordsecretobservecleanmaximumfriend |  
+| bip_39_word_no_space_12 | arenashocksnapuniquequotewordsecretobservecleanmaximumfriendaffair |  
+| bip_39_word_no_space_2 | arenashock |  
+| bip_39_word_no_space_3 | arenashocksnap |  
+| bip_39_word_no_space_4 | arenashocksnapunique |  
+| bip_39_word_no_space_5 | arenashocksnapuniquequote |  
+| bip_39_word_no_space_6 | arenashocksnapuniquequoteword |  
+| bip_39_word_no_space_7 | arenashocksnapuniquequotewordsecret |  
+| bip_39_word_no_space_8 | arenashocksnapuniquequotewordsecretobserve |  
+| bip_39_word_no_space_9 | arenashocksnapuniquequotewordsecretobserveclean |  
 | bip_39_word_space_0 | ['arena', 'shock', 'snap', 'unique', 'quote', 'word', 'secret', 'observe', 'clean', 'maximum', 'friend', 'affair'] |  
 | bip_39_word_space_1 | arena |  
 | bip_39_word_space_10 | arena shock snap unique quote word secret observe clean maximum |  

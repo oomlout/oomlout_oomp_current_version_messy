@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'add
   gift
 
   pumpkin'
+bip_39_word_no_space_1: add
+bip_39_word_no_space_10: addfossilaerobicwaittalkpullpuritygiftpumpkintry
+bip_39_word_no_space_11: addfossilaerobicwaittalkpullpuritygiftpumpkintrybulk
+bip_39_word_no_space_12: addfossilaerobicwaittalkpullpuritygiftpumpkintrybulkasthma
+bip_39_word_no_space_2: addfossil
+bip_39_word_no_space_3: addfossilaerobic
+bip_39_word_no_space_4: addfossilaerobicwait
+bip_39_word_no_space_5: addfossilaerobicwaittalk
+bip_39_word_no_space_6: addfossilaerobicwaittalkpull
+bip_39_word_no_space_7: addfossilaerobicwaittalkpullpurity
+bip_39_word_no_space_8: addfossilaerobicwaittalkpullpuritygift
+bip_39_word_no_space_9: addfossilaerobicwaittalkpullpuritygiftpumpkin
 bip_39_word_space_0:
 - add
 - fossil

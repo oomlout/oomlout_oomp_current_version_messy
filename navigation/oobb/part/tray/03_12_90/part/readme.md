@@ -122,6 +122,18 @@ inflict
 element
 pulp
 fat |  
+| bip_39_word_no_space_1 | then |  
+| bip_39_word_no_space_10 | thenbetraydunehiredisorderinflictelementpulpfatshield |  
+| bip_39_word_no_space_11 | thenbetraydunehiredisorderinflictelementpulpfatshieldgasp |  
+| bip_39_word_no_space_12 | thenbetraydunehiredisorderinflictelementpulpfatshieldgasparmy |  
+| bip_39_word_no_space_2 | thenbetray |  
+| bip_39_word_no_space_3 | thenbetraydune |  
+| bip_39_word_no_space_4 | thenbetraydunehire |  
+| bip_39_word_no_space_5 | thenbetraydunehiredisorder |  
+| bip_39_word_no_space_6 | thenbetraydunehiredisorderinflict |  
+| bip_39_word_no_space_7 | thenbetraydunehiredisorderinflictelement |  
+| bip_39_word_no_space_8 | thenbetraydunehiredisorderinflictelementpulp |  
+| bip_39_word_no_space_9 | thenbetraydunehiredisorderinflictelementpulpfat |  
 | bip_39_word_space_0 | ['then', 'betray', 'dune', 'hire', 'disorder', 'inflict', 'element', 'pulp', 'fat', 'shield', 'gasp', 'army'] |  
 | bip_39_word_space_1 | then |  
 | bip_39_word_space_10 | then betray dune hire disorder inflict element pulp fat shield |  

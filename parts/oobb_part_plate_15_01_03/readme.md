@@ -122,6 +122,18 @@ volcano
 boil
 breeze
 found |  
+| bip_39_word_no_space_1 | feel |  
+| bip_39_word_no_space_10 | feelstrongschemedrinkuselessvolcanoboilbreezefoundpact |  
+| bip_39_word_no_space_11 | feelstrongschemedrinkuselessvolcanoboilbreezefoundpactquick |  
+| bip_39_word_no_space_12 | feelstrongschemedrinkuselessvolcanoboilbreezefoundpactquickavocado |  
+| bip_39_word_no_space_2 | feelstrong |  
+| bip_39_word_no_space_3 | feelstrongscheme |  
+| bip_39_word_no_space_4 | feelstrongschemedrink |  
+| bip_39_word_no_space_5 | feelstrongschemedrinkuseless |  
+| bip_39_word_no_space_6 | feelstrongschemedrinkuselessvolcano |  
+| bip_39_word_no_space_7 | feelstrongschemedrinkuselessvolcanoboil |  
+| bip_39_word_no_space_8 | feelstrongschemedrinkuselessvolcanoboilbreeze |  
+| bip_39_word_no_space_9 | feelstrongschemedrinkuselessvolcanoboilbreezefound |  
 | bip_39_word_space_0 | ['feel', 'strong', 'scheme', 'drink', 'useless', 'volcano', 'boil', 'breeze', 'found', 'pact', 'quick', 'avocado'] |  
 | bip_39_word_space_1 | feel |  
 | bip_39_word_space_10 | feel strong scheme drink useless volcano boil breeze found pact |  

@@ -122,6 +122,18 @@ army
 math
 cube
 cliff |  
+| bip_39_word_no_space_1 | speak |  
+| bip_39_word_no_space_10 | speakfixfogslightvisaarmymathcubecliffwhale |  
+| bip_39_word_no_space_11 | speakfixfogslightvisaarmymathcubecliffwhalecradle |  
+| bip_39_word_no_space_12 | speakfixfogslightvisaarmymathcubecliffwhalecradleanger |  
+| bip_39_word_no_space_2 | speakfix |  
+| bip_39_word_no_space_3 | speakfixfog |  
+| bip_39_word_no_space_4 | speakfixfogslight |  
+| bip_39_word_no_space_5 | speakfixfogslightvisa |  
+| bip_39_word_no_space_6 | speakfixfogslightvisaarmy |  
+| bip_39_word_no_space_7 | speakfixfogslightvisaarmymath |  
+| bip_39_word_no_space_8 | speakfixfogslightvisaarmymathcube |  
+| bip_39_word_no_space_9 | speakfixfogslightvisaarmymathcubecliff |  
 | bip_39_word_space_0 | ['speak', 'fix', 'fog', 'slight', 'visa', 'army', 'math', 'cube', 'cliff', 'whale', 'cradle', 'anger'] |  
 | bip_39_word_space_1 | speak |  
 | bip_39_word_space_10 | speak fix fog slight visa army math cube cliff whale |  

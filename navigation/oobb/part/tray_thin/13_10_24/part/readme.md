@@ -122,6 +122,18 @@ arrive
 agree
 exchange
 shine |  
+| bip_39_word_no_space_1 | surround |  
+| bip_39_word_no_space_10 | surroundgoatutilitytortoisetornadoarriveagreeexchangeshinecrop |  
+| bip_39_word_no_space_11 | surroundgoatutilitytortoisetornadoarriveagreeexchangeshinecropquarter |  
+| bip_39_word_no_space_12 | surroundgoatutilitytortoisetornadoarriveagreeexchangeshinecropquarterall |  
+| bip_39_word_no_space_2 | surroundgoat |  
+| bip_39_word_no_space_3 | surroundgoatutility |  
+| bip_39_word_no_space_4 | surroundgoatutilitytortoise |  
+| bip_39_word_no_space_5 | surroundgoatutilitytortoisetornado |  
+| bip_39_word_no_space_6 | surroundgoatutilitytortoisetornadoarrive |  
+| bip_39_word_no_space_7 | surroundgoatutilitytortoisetornadoarriveagree |  
+| bip_39_word_no_space_8 | surroundgoatutilitytortoisetornadoarriveagreeexchange |  
+| bip_39_word_no_space_9 | surroundgoatutilitytortoisetornadoarriveagreeexchangeshine |  
 | bip_39_word_space_0 | ['surround', 'goat', 'utility', 'tortoise', 'tornado', 'arrive', 'agree', 'exchange', 'shine', 'crop', 'quarter', 'all'] |  
 | bip_39_word_space_1 | surround |  
 | bip_39_word_space_10 | surround goat utility tortoise tornado arrive agree exchange shine crop |  

@@ -122,6 +122,18 @@ ribbon
 swamp
 adult
 learn |  
+| bip_39_word_no_space_1 | feature |  
+| bip_39_word_no_space_10 | featurepizzaratepopularrecallribbonswampadultlearnsort |  
+| bip_39_word_no_space_11 | featurepizzaratepopularrecallribbonswampadultlearnsortnuclear |  
+| bip_39_word_no_space_12 | featurepizzaratepopularrecallribbonswampadultlearnsortnuclearatom |  
+| bip_39_word_no_space_2 | featurepizza |  
+| bip_39_word_no_space_3 | featurepizzarate |  
+| bip_39_word_no_space_4 | featurepizzaratepopular |  
+| bip_39_word_no_space_5 | featurepizzaratepopularrecall |  
+| bip_39_word_no_space_6 | featurepizzaratepopularrecallribbon |  
+| bip_39_word_no_space_7 | featurepizzaratepopularrecallribbonswamp |  
+| bip_39_word_no_space_8 | featurepizzaratepopularrecallribbonswampadult |  
+| bip_39_word_no_space_9 | featurepizzaratepopularrecallribbonswampadultlearn |  
 | bip_39_word_space_0 | ['feature', 'pizza', 'rate', 'popular', 'recall', 'ribbon', 'swamp', 'adult', 'learn', 'sort', 'nuclear', 'atom'] |  
 | bip_39_word_space_1 | feature |  
 | bip_39_word_space_10 | feature pizza rate popular recall ribbon swamp adult learn sort |  

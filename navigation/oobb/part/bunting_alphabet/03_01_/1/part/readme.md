@@ -122,6 +122,18 @@ waste
 admit
 debris
 ugly |  
+| bip_39_word_no_space_1 | member |  
+| bip_39_word_no_space_10 | membernaivecaseassaultexcludewasteadmitdebrisuglytoy |  
+| bip_39_word_no_space_11 | membernaivecaseassaultexcludewasteadmitdebrisuglytoythis |  
+| bip_39_word_no_space_12 | membernaivecaseassaultexcludewasteadmitdebrisuglytoythisapprove |  
+| bip_39_word_no_space_2 | membernaive |  
+| bip_39_word_no_space_3 | membernaivecase |  
+| bip_39_word_no_space_4 | membernaivecaseassault |  
+| bip_39_word_no_space_5 | membernaivecaseassaultexclude |  
+| bip_39_word_no_space_6 | membernaivecaseassaultexcludewaste |  
+| bip_39_word_no_space_7 | membernaivecaseassaultexcludewasteadmit |  
+| bip_39_word_no_space_8 | membernaivecaseassaultexcludewasteadmitdebris |  
+| bip_39_word_no_space_9 | membernaivecaseassaultexcludewasteadmitdebrisugly |  
 | bip_39_word_space_0 | ['member', 'naive', 'case', 'assault', 'exclude', 'waste', 'admit', 'debris', 'ugly', 'toy', 'this', 'approve'] |  
 | bip_39_word_space_1 | member |  
 | bip_39_word_space_10 | member naive case assault exclude waste admit debris ugly toy |  

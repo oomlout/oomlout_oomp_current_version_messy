@@ -122,6 +122,18 @@ bring
 april
 scheme
 celery |  
+| bip_39_word_no_space_1 | silver |  
+| bip_39_word_no_space_10 | silvermorevaguechargedolphinbringaprilschemecelerybench |  
+| bip_39_word_no_space_11 | silvermorevaguechargedolphinbringaprilschemecelerybenchbook |  
+| bip_39_word_no_space_12 | silvermorevaguechargedolphinbringaprilschemecelerybenchbookannounce |  
+| bip_39_word_no_space_2 | silvermore |  
+| bip_39_word_no_space_3 | silvermorevague |  
+| bip_39_word_no_space_4 | silvermorevaguecharge |  
+| bip_39_word_no_space_5 | silvermorevaguechargedolphin |  
+| bip_39_word_no_space_6 | silvermorevaguechargedolphinbring |  
+| bip_39_word_no_space_7 | silvermorevaguechargedolphinbringapril |  
+| bip_39_word_no_space_8 | silvermorevaguechargedolphinbringaprilscheme |  
+| bip_39_word_no_space_9 | silvermorevaguechargedolphinbringaprilschemecelery |  
 | bip_39_word_space_0 | ['silver', 'more', 'vague', 'charge', 'dolphin', 'bring', 'april', 'scheme', 'celery', 'bench', 'book', 'announce'] |  
 | bip_39_word_space_1 | silver |  
 | bip_39_word_space_10 | silver more vague charge dolphin bring april scheme celery bench |  

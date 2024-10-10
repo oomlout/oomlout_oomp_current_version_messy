@@ -122,6 +122,18 @@ minor
 mother
 ice
 case |  
+| bip_39_word_no_space_1 | melt |  
+| bip_39_word_no_space_10 | meltwarmsparespendclaimminormothericecasebeef |  
+| bip_39_word_no_space_11 | meltwarmsparespendclaimminormothericecasebeeffood |  
+| bip_39_word_no_space_12 | meltwarmsparespendclaimminormothericecasebeeffoodamount |  
+| bip_39_word_no_space_2 | meltwarm |  
+| bip_39_word_no_space_3 | meltwarmspare |  
+| bip_39_word_no_space_4 | meltwarmsparespend |  
+| bip_39_word_no_space_5 | meltwarmsparespendclaim |  
+| bip_39_word_no_space_6 | meltwarmsparespendclaimminor |  
+| bip_39_word_no_space_7 | meltwarmsparespendclaimminormother |  
+| bip_39_word_no_space_8 | meltwarmsparespendclaimminormotherice |  
+| bip_39_word_no_space_9 | meltwarmsparespendclaimminormothericecase |  
 | bip_39_word_space_0 | ['melt', 'warm', 'spare', 'spend', 'claim', 'minor', 'mother', 'ice', 'case', 'beef', 'food', 'amount'] |  
 | bip_39_word_space_1 | melt |  
 | bip_39_word_space_10 | melt warm spare spend claim minor mother ice case beef |  

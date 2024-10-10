@@ -122,6 +122,18 @@ fluid
 horn
 just
 weasel |  
+| bip_39_word_no_space_1 | grocery |  
+| bip_39_word_no_space_10 | groceryhistoryoaklyricsnuclearfluidhornjustweaseltest |  
+| bip_39_word_no_space_11 | groceryhistoryoaklyricsnuclearfluidhornjustweaseltestsummer |  
+| bip_39_word_no_space_12 | groceryhistoryoaklyricsnuclearfluidhornjustweaseltestsummeramateur |  
+| bip_39_word_no_space_2 | groceryhistory |  
+| bip_39_word_no_space_3 | groceryhistoryoak |  
+| bip_39_word_no_space_4 | groceryhistoryoaklyrics |  
+| bip_39_word_no_space_5 | groceryhistoryoaklyricsnuclear |  
+| bip_39_word_no_space_6 | groceryhistoryoaklyricsnuclearfluid |  
+| bip_39_word_no_space_7 | groceryhistoryoaklyricsnuclearfluidhorn |  
+| bip_39_word_no_space_8 | groceryhistoryoaklyricsnuclearfluidhornjust |  
+| bip_39_word_no_space_9 | groceryhistoryoaklyricsnuclearfluidhornjustweasel |  
 | bip_39_word_space_0 | ['grocery', 'history', 'oak', 'lyrics', 'nuclear', 'fluid', 'horn', 'just', 'weasel', 'test', 'summer', 'amateur'] |  
 | bip_39_word_space_1 | grocery |  
 | bip_39_word_space_10 | grocery history oak lyrics nuclear fluid horn just weasel test |  

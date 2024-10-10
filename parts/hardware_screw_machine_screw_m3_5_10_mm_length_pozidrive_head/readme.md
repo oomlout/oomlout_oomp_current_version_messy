@@ -122,6 +122,18 @@ tonight
 parrot
 thank
 clinic |  
+| bip_39_word_no_space_1 | prepare |  
+| bip_39_word_no_space_10 | preparerobustnoisecrewfencetonightparrotthankcliniccargo |  
+| bip_39_word_no_space_11 | preparerobustnoisecrewfencetonightparrotthankcliniccargoeasily |  
+| bip_39_word_no_space_12 | preparerobustnoisecrewfencetonightparrotthankcliniccargoeasilyattend |  
+| bip_39_word_no_space_2 | preparerobust |  
+| bip_39_word_no_space_3 | preparerobustnoise |  
+| bip_39_word_no_space_4 | preparerobustnoisecrew |  
+| bip_39_word_no_space_5 | preparerobustnoisecrewfence |  
+| bip_39_word_no_space_6 | preparerobustnoisecrewfencetonight |  
+| bip_39_word_no_space_7 | preparerobustnoisecrewfencetonightparrot |  
+| bip_39_word_no_space_8 | preparerobustnoisecrewfencetonightparrotthank |  
+| bip_39_word_no_space_9 | preparerobustnoisecrewfencetonightparrotthankclinic |  
 | bip_39_word_space_0 | ['prepare', 'robust', 'noise', 'crew', 'fence', 'tonight', 'parrot', 'thank', 'clinic', 'cargo', 'easily', 'attend'] |  
 | bip_39_word_space_1 | prepare |  
 | bip_39_word_space_10 | prepare robust noise crew fence tonight parrot thank clinic cargo |  

@@ -122,6 +122,18 @@ bacon
 vibrant
 junior
 honey |  
+| bip_39_word_no_space_1 | return |  
+| bip_39_word_no_space_10 | returnfebruaryvelvetautumnnotebaconvibrantjuniorhoneytooth |  
+| bip_39_word_no_space_11 | returnfebruaryvelvetautumnnotebaconvibrantjuniorhoneytoothpredict |  
+| bip_39_word_no_space_12 | returnfebruaryvelvetautumnnotebaconvibrantjuniorhoneytoothpredictauto |  
+| bip_39_word_no_space_2 | returnfebruary |  
+| bip_39_word_no_space_3 | returnfebruaryvelvet |  
+| bip_39_word_no_space_4 | returnfebruaryvelvetautumn |  
+| bip_39_word_no_space_5 | returnfebruaryvelvetautumnnote |  
+| bip_39_word_no_space_6 | returnfebruaryvelvetautumnnotebacon |  
+| bip_39_word_no_space_7 | returnfebruaryvelvetautumnnotebaconvibrant |  
+| bip_39_word_no_space_8 | returnfebruaryvelvetautumnnotebaconvibrantjunior |  
+| bip_39_word_no_space_9 | returnfebruaryvelvetautumnnotebaconvibrantjuniorhoney |  
 | bip_39_word_space_0 | ['return', 'february', 'velvet', 'autumn', 'note', 'bacon', 'vibrant', 'junior', 'honey', 'tooth', 'predict', 'auto'] |  
 | bip_39_word_space_1 | return |  
 | bip_39_word_space_10 | return february velvet autumn note bacon vibrant junior honey tooth |  

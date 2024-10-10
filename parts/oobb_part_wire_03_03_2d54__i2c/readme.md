@@ -122,6 +122,18 @@ travel
 riot
 gift
 truth |  
+| bip_39_word_no_space_1 | bone |  
+| bip_39_word_no_space_10 | bonetortoisefacestadiumskirttravelriotgifttruthtrip |  
+| bip_39_word_no_space_11 | bonetortoisefacestadiumskirttravelriotgifttruthtripmention |  
+| bip_39_word_no_space_12 | bonetortoisefacestadiumskirttravelriotgifttruthtripmentionadd |  
+| bip_39_word_no_space_2 | bonetortoise |  
+| bip_39_word_no_space_3 | bonetortoiseface |  
+| bip_39_word_no_space_4 | bonetortoisefacestadium |  
+| bip_39_word_no_space_5 | bonetortoisefacestadiumskirt |  
+| bip_39_word_no_space_6 | bonetortoisefacestadiumskirttravel |  
+| bip_39_word_no_space_7 | bonetortoisefacestadiumskirttravelriot |  
+| bip_39_word_no_space_8 | bonetortoisefacestadiumskirttravelriotgift |  
+| bip_39_word_no_space_9 | bonetortoisefacestadiumskirttravelriotgifttruth |  
 | bip_39_word_space_0 | ['bone', 'tortoise', 'face', 'stadium', 'skirt', 'travel', 'riot', 'gift', 'truth', 'trip', 'mention', 'add'] |  
 | bip_39_word_space_1 | bone |  
 | bip_39_word_space_10 | bone tortoise face stadium skirt travel riot gift truth trip |  

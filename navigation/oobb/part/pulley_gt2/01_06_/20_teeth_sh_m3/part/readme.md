@@ -122,6 +122,18 @@ retreat
 eagle
 shield
 safe |  
+| bip_39_word_no_space_1 | spin |  
+| bip_39_word_no_space_10 | spinrabbitalcohollizardcrashretreateagleshieldsafepepper |  
+| bip_39_word_no_space_11 | spinrabbitalcohollizardcrashretreateagleshieldsafepepperwealth |  
+| bip_39_word_no_space_12 | spinrabbitalcohollizardcrashretreateagleshieldsafepepperwealthassume |  
+| bip_39_word_no_space_2 | spinrabbit |  
+| bip_39_word_no_space_3 | spinrabbitalcohol |  
+| bip_39_word_no_space_4 | spinrabbitalcohollizard |  
+| bip_39_word_no_space_5 | spinrabbitalcohollizardcrash |  
+| bip_39_word_no_space_6 | spinrabbitalcohollizardcrashretreat |  
+| bip_39_word_no_space_7 | spinrabbitalcohollizardcrashretreateagle |  
+| bip_39_word_no_space_8 | spinrabbitalcohollizardcrashretreateagleshield |  
+| bip_39_word_no_space_9 | spinrabbitalcohollizardcrashretreateagleshieldsafe |  
 | bip_39_word_space_0 | ['spin', 'rabbit', 'alcohol', 'lizard', 'crash', 'retreat', 'eagle', 'shield', 'safe', 'pepper', 'wealth', 'assume'] |  
 | bip_39_word_space_1 | spin |  
 | bip_39_word_space_10 | spin rabbit alcohol lizard crash retreat eagle shield safe pepper |  

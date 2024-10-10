@@ -122,6 +122,18 @@ pond
 punch
 width
 load |  
+| bip_39_word_no_space_1 | best |  
+| bip_39_word_no_space_10 | bestorangecoconutradioglorypondpunchwidthloadtrend |  
+| bip_39_word_no_space_11 | bestorangecoconutradioglorypondpunchwidthloadtrendsimple |  
+| bip_39_word_no_space_12 | bestorangecoconutradioglorypondpunchwidthloadtrendsimpleattend |  
+| bip_39_word_no_space_2 | bestorange |  
+| bip_39_word_no_space_3 | bestorangecoconut |  
+| bip_39_word_no_space_4 | bestorangecoconutradio |  
+| bip_39_word_no_space_5 | bestorangecoconutradioglory |  
+| bip_39_word_no_space_6 | bestorangecoconutradioglorypond |  
+| bip_39_word_no_space_7 | bestorangecoconutradioglorypondpunch |  
+| bip_39_word_no_space_8 | bestorangecoconutradioglorypondpunchwidth |  
+| bip_39_word_no_space_9 | bestorangecoconutradioglorypondpunchwidthload |  
 | bip_39_word_space_0 | ['best', 'orange', 'coconut', 'radio', 'glory', 'pond', 'punch', 'width', 'load', 'trend', 'simple', 'attend'] |  
 | bip_39_word_space_1 | best |  
 | bip_39_word_space_10 | best orange coconut radio glory pond punch width load trend |  

@@ -122,6 +122,18 @@ ozone
 power
 spy
 coral |  
+| bip_39_word_no_space_1 | people |  
+| bip_39_word_no_space_10 | peoplebeanhappyantennaunitozonepowerspycoralgoddess |  
+| bip_39_word_no_space_11 | peoplebeanhappyantennaunitozonepowerspycoralgoddessknife |  
+| bip_39_word_no_space_12 | peoplebeanhappyantennaunitozonepowerspycoralgoddessknifeauction |  
+| bip_39_word_no_space_2 | peoplebean |  
+| bip_39_word_no_space_3 | peoplebeanhappy |  
+| bip_39_word_no_space_4 | peoplebeanhappyantenna |  
+| bip_39_word_no_space_5 | peoplebeanhappyantennaunit |  
+| bip_39_word_no_space_6 | peoplebeanhappyantennaunitozone |  
+| bip_39_word_no_space_7 | peoplebeanhappyantennaunitozonepower |  
+| bip_39_word_no_space_8 | peoplebeanhappyantennaunitozonepowerspy |  
+| bip_39_word_no_space_9 | peoplebeanhappyantennaunitozonepowerspycoral |  
 | bip_39_word_space_0 | ['people', 'bean', 'happy', 'antenna', 'unit', 'ozone', 'power', 'spy', 'coral', 'goddess', 'knife', 'auction'] |  
 | bip_39_word_space_1 | people |  
 | bip_39_word_space_10 | people bean happy antenna unit ozone power spy coral goddess |  

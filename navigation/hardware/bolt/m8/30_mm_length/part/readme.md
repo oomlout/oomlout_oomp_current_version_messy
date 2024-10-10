@@ -122,6 +122,18 @@ bag
 grid
 cube
 scheme |  
+| bip_39_word_no_space_1 | aspect |  
+| bip_39_word_no_space_10 | aspecttaskwritecubereplacebaggridcubeschemesquirrel |  
+| bip_39_word_no_space_11 | aspecttaskwritecubereplacebaggridcubeschemesquirrelridge |  
+| bip_39_word_no_space_12 | aspecttaskwritecubereplacebaggridcubeschemesquirrelridgeadd |  
+| bip_39_word_no_space_2 | aspecttask |  
+| bip_39_word_no_space_3 | aspecttaskwrite |  
+| bip_39_word_no_space_4 | aspecttaskwritecube |  
+| bip_39_word_no_space_5 | aspecttaskwritecubereplace |  
+| bip_39_word_no_space_6 | aspecttaskwritecubereplacebag |  
+| bip_39_word_no_space_7 | aspecttaskwritecubereplacebaggrid |  
+| bip_39_word_no_space_8 | aspecttaskwritecubereplacebaggridcube |  
+| bip_39_word_no_space_9 | aspecttaskwritecubereplacebaggridcubescheme |  
 | bip_39_word_space_0 | ['aspect', 'task', 'write', 'cube', 'replace', 'bag', 'grid', 'cube', 'scheme', 'squirrel', 'ridge', 'add'] |  
 | bip_39_word_space_1 | aspect |  
 | bip_39_word_space_10 | aspect task write cube replace bag grid cube scheme squirrel |  

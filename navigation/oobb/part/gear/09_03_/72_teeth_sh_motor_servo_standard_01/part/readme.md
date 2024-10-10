@@ -122,6 +122,18 @@ candy
 winner
 giggle
 jazz |  
+| bip_39_word_no_space_1 | loop |  
+| bip_39_word_no_space_10 | loopframesmallmentionpuddingcandywinnergigglejazzgeneral |  
+| bip_39_word_no_space_11 | loopframesmallmentionpuddingcandywinnergigglejazzgeneralviolin |  
+| bip_39_word_no_space_12 | loopframesmallmentionpuddingcandywinnergigglejazzgeneralviolinapart |  
+| bip_39_word_no_space_2 | loopframe |  
+| bip_39_word_no_space_3 | loopframesmall |  
+| bip_39_word_no_space_4 | loopframesmallmention |  
+| bip_39_word_no_space_5 | loopframesmallmentionpudding |  
+| bip_39_word_no_space_6 | loopframesmallmentionpuddingcandy |  
+| bip_39_word_no_space_7 | loopframesmallmentionpuddingcandywinner |  
+| bip_39_word_no_space_8 | loopframesmallmentionpuddingcandywinnergiggle |  
+| bip_39_word_no_space_9 | loopframesmallmentionpuddingcandywinnergigglejazz |  
 | bip_39_word_space_0 | ['loop', 'frame', 'small', 'mention', 'pudding', 'candy', 'winner', 'giggle', 'jazz', 'general', 'violin', 'apart'] |  
 | bip_39_word_space_1 | loop |  
 | bip_39_word_space_10 | loop frame small mention pudding candy winner giggle jazz general |  

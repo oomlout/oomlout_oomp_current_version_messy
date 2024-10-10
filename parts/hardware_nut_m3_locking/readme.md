@@ -122,6 +122,18 @@ indoor
 cat
 run
 sauce |  
+| bip_39_word_no_space_1 | luggage |  
+| bip_39_word_no_space_10 | luggagerhythmverbcablewhipindoorcatrunsaucemodify |  
+| bip_39_word_no_space_11 | luggagerhythmverbcablewhipindoorcatrunsaucemodifyimmune |  
+| bip_39_word_no_space_12 | luggagerhythmverbcablewhipindoorcatrunsaucemodifyimmuneaddict |  
+| bip_39_word_no_space_2 | luggagerhythm |  
+| bip_39_word_no_space_3 | luggagerhythmverb |  
+| bip_39_word_no_space_4 | luggagerhythmverbcable |  
+| bip_39_word_no_space_5 | luggagerhythmverbcablewhip |  
+| bip_39_word_no_space_6 | luggagerhythmverbcablewhipindoor |  
+| bip_39_word_no_space_7 | luggagerhythmverbcablewhipindoorcat |  
+| bip_39_word_no_space_8 | luggagerhythmverbcablewhipindoorcatrun |  
+| bip_39_word_no_space_9 | luggagerhythmverbcablewhipindoorcatrunsauce |  
 | bip_39_word_space_0 | ['luggage', 'rhythm', 'verb', 'cable', 'whip', 'indoor', 'cat', 'run', 'sauce', 'modify', 'immune', 'addict'] |  
 | bip_39_word_space_1 | luggage |  
 | bip_39_word_space_10 | luggage rhythm verb cable whip indoor cat run sauce modify |  

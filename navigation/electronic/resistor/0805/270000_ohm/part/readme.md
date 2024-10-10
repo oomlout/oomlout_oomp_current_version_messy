@@ -122,6 +122,18 @@ super
 toddler
 rescue
 genuine |  
+| bip_39_word_no_space_1 | night |  
+| bip_39_word_no_space_10 | nightyouthalreadymuletastesupertoddlerrescuegenuineshallow |  
+| bip_39_word_no_space_11 | nightyouthalreadymuletastesupertoddlerrescuegenuineshallowonly |  
+| bip_39_word_no_space_12 | nightyouthalreadymuletastesupertoddlerrescuegenuineshallowonlyathlete |  
+| bip_39_word_no_space_2 | nightyouth |  
+| bip_39_word_no_space_3 | nightyouthalready |  
+| bip_39_word_no_space_4 | nightyouthalreadymule |  
+| bip_39_word_no_space_5 | nightyouthalreadymuletaste |  
+| bip_39_word_no_space_6 | nightyouthalreadymuletastesuper |  
+| bip_39_word_no_space_7 | nightyouthalreadymuletastesupertoddler |  
+| bip_39_word_no_space_8 | nightyouthalreadymuletastesupertoddlerrescue |  
+| bip_39_word_no_space_9 | nightyouthalreadymuletastesupertoddlerrescuegenuine |  
 | bip_39_word_space_0 | ['night', 'youth', 'already', 'mule', 'taste', 'super', 'toddler', 'rescue', 'genuine', 'shallow', 'only', 'athlete'] |  
 | bip_39_word_space_1 | night |  
 | bip_39_word_space_10 | night youth already mule taste super toddler rescue genuine shallow |  

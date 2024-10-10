@@ -122,6 +122,18 @@ almost
 glow
 ankle
 crawl |  
+| bip_39_word_no_space_1 | divert |  
+| bip_39_word_no_space_10 | divertdadwrestlepoemhazardalmostglowanklecrawlcrew |  
+| bip_39_word_no_space_11 | divertdadwrestlepoemhazardalmostglowanklecrawlcrewcoach |  
+| bip_39_word_no_space_12 | divertdadwrestlepoemhazardalmostglowanklecrawlcrewcoachaction |  
+| bip_39_word_no_space_2 | divertdad |  
+| bip_39_word_no_space_3 | divertdadwrestle |  
+| bip_39_word_no_space_4 | divertdadwrestlepoem |  
+| bip_39_word_no_space_5 | divertdadwrestlepoemhazard |  
+| bip_39_word_no_space_6 | divertdadwrestlepoemhazardalmost |  
+| bip_39_word_no_space_7 | divertdadwrestlepoemhazardalmostglow |  
+| bip_39_word_no_space_8 | divertdadwrestlepoemhazardalmostglowankle |  
+| bip_39_word_no_space_9 | divertdadwrestlepoemhazardalmostglowanklecrawl |  
 | bip_39_word_space_0 | ['divert', 'dad', 'wrestle', 'poem', 'hazard', 'almost', 'glow', 'ankle', 'crawl', 'crew', 'coach', 'action'] |  
 | bip_39_word_space_1 | divert |  
 | bip_39_word_space_10 | divert dad wrestle poem hazard almost glow ankle crawl crew |  

@@ -122,6 +122,18 @@ innocent
 world
 volcano
 orphan |  
+| bip_39_word_no_space_1 | hole |  
+| bip_39_word_no_space_10 | holecrucialwisharrestfeverinnocentworldvolcanoorphanterm |  
+| bip_39_word_no_space_11 | holecrucialwisharrestfeverinnocentworldvolcanoorphantermdemise |  
+| bip_39_word_no_space_12 | holecrucialwisharrestfeverinnocentworldvolcanoorphantermdemisearmed |  
+| bip_39_word_no_space_2 | holecrucial |  
+| bip_39_word_no_space_3 | holecrucialwish |  
+| bip_39_word_no_space_4 | holecrucialwisharrest |  
+| bip_39_word_no_space_5 | holecrucialwisharrestfever |  
+| bip_39_word_no_space_6 | holecrucialwisharrestfeverinnocent |  
+| bip_39_word_no_space_7 | holecrucialwisharrestfeverinnocentworld |  
+| bip_39_word_no_space_8 | holecrucialwisharrestfeverinnocentworldvolcano |  
+| bip_39_word_no_space_9 | holecrucialwisharrestfeverinnocentworldvolcanoorphan |  
 | bip_39_word_space_0 | ['hole', 'crucial', 'wish', 'arrest', 'fever', 'innocent', 'world', 'volcano', 'orphan', 'term', 'demise', 'armed'] |  
 | bip_39_word_space_1 | hole |  
 | bip_39_word_space_10 | hole crucial wish arrest fever innocent world volcano orphan term |  

@@ -122,6 +122,18 @@ awesome
 trap
 clock
 food |  
+| bip_39_word_no_space_1 | old |  
+| bip_39_word_no_space_10 | oldnamefunnywingmakeawesometrapclockfoodentry |  
+| bip_39_word_no_space_11 | oldnamefunnywingmakeawesometrapclockfoodentrysatisfy |  
+| bip_39_word_no_space_12 | oldnamefunnywingmakeawesometrapclockfoodentrysatisfyactress |  
+| bip_39_word_no_space_2 | oldname |  
+| bip_39_word_no_space_3 | oldnamefunny |  
+| bip_39_word_no_space_4 | oldnamefunnywing |  
+| bip_39_word_no_space_5 | oldnamefunnywingmake |  
+| bip_39_word_no_space_6 | oldnamefunnywingmakeawesome |  
+| bip_39_word_no_space_7 | oldnamefunnywingmakeawesometrap |  
+| bip_39_word_no_space_8 | oldnamefunnywingmakeawesometrapclock |  
+| bip_39_word_no_space_9 | oldnamefunnywingmakeawesometrapclockfood |  
 | bip_39_word_space_0 | ['old', 'name', 'funny', 'wing', 'make', 'awesome', 'trap', 'clock', 'food', 'entry', 'satisfy', 'actress'] |  
 | bip_39_word_space_1 | old |  
 | bip_39_word_space_10 | old name funny wing make awesome trap clock food entry |  

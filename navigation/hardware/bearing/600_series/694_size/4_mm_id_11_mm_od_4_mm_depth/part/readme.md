@@ -122,6 +122,18 @@ plunge
 card
 shaft
 hedgehog |  
+| bip_39_word_no_space_1 | sustain |  
+| bip_39_word_no_space_10 | sustainsetupartistessenceroseplungecardshafthedgehogmention |  
+| bip_39_word_no_space_11 | sustainsetupartistessenceroseplungecardshafthedgehogmentionlesson |  
+| bip_39_word_no_space_12 | sustainsetupartistessenceroseplungecardshafthedgehogmentionlessonaisle |  
+| bip_39_word_no_space_2 | sustainsetup |  
+| bip_39_word_no_space_3 | sustainsetupartist |  
+| bip_39_word_no_space_4 | sustainsetupartistessence |  
+| bip_39_word_no_space_5 | sustainsetupartistessencerose |  
+| bip_39_word_no_space_6 | sustainsetupartistessenceroseplunge |  
+| bip_39_word_no_space_7 | sustainsetupartistessenceroseplungecard |  
+| bip_39_word_no_space_8 | sustainsetupartistessenceroseplungecardshaft |  
+| bip_39_word_no_space_9 | sustainsetupartistessenceroseplungecardshafthedgehog |  
 | bip_39_word_space_0 | ['sustain', 'setup', 'artist', 'essence', 'rose', 'plunge', 'card', 'shaft', 'hedgehog', 'mention', 'lesson', 'aisle'] |  
 | bip_39_word_space_1 | sustain |  
 | bip_39_word_space_10 | sustain setup artist essence rose plunge card shaft hedgehog mention |  

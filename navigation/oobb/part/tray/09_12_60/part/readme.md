@@ -122,6 +122,18 @@ weapon
 boost
 unfold
 lunch |  
+| bip_39_word_no_space_1 | deal |  
+| bip_39_word_no_space_10 | dealblindtanknevercycleweaponboostunfoldlunchquestion |  
+| bip_39_word_no_space_11 | dealblindtanknevercycleweaponboostunfoldlunchquestionshoe |  
+| bip_39_word_no_space_12 | dealblindtanknevercycleweaponboostunfoldlunchquestionshoeassume |  
+| bip_39_word_no_space_2 | dealblind |  
+| bip_39_word_no_space_3 | dealblindtank |  
+| bip_39_word_no_space_4 | dealblindtanknever |  
+| bip_39_word_no_space_5 | dealblindtanknevercycle |  
+| bip_39_word_no_space_6 | dealblindtanknevercycleweapon |  
+| bip_39_word_no_space_7 | dealblindtanknevercycleweaponboost |  
+| bip_39_word_no_space_8 | dealblindtanknevercycleweaponboostunfold |  
+| bip_39_word_no_space_9 | dealblindtanknevercycleweaponboostunfoldlunch |  
 | bip_39_word_space_0 | ['deal', 'blind', 'tank', 'never', 'cycle', 'weapon', 'boost', 'unfold', 'lunch', 'question', 'shoe', 'assume'] |  
 | bip_39_word_space_1 | deal |  
 | bip_39_word_space_10 | deal blind tank never cycle weapon boost unfold lunch question |  

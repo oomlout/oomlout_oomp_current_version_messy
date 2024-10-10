@@ -122,6 +122,18 @@ capital
 delay
 pottery
 wash |  
+| bip_39_word_no_space_1 | cigar |  
+| bip_39_word_no_space_10 | cigarconnectgenuinethumbliftcapitaldelaypotterywashfaint |  
+| bip_39_word_no_space_11 | cigarconnectgenuinethumbliftcapitaldelaypotterywashfaintfat |  
+| bip_39_word_no_space_12 | cigarconnectgenuinethumbliftcapitaldelaypotterywashfaintfatabout |  
+| bip_39_word_no_space_2 | cigarconnect |  
+| bip_39_word_no_space_3 | cigarconnectgenuine |  
+| bip_39_word_no_space_4 | cigarconnectgenuinethumb |  
+| bip_39_word_no_space_5 | cigarconnectgenuinethumblift |  
+| bip_39_word_no_space_6 | cigarconnectgenuinethumbliftcapital |  
+| bip_39_word_no_space_7 | cigarconnectgenuinethumbliftcapitaldelay |  
+| bip_39_word_no_space_8 | cigarconnectgenuinethumbliftcapitaldelaypottery |  
+| bip_39_word_no_space_9 | cigarconnectgenuinethumbliftcapitaldelaypotterywash |  
 | bip_39_word_space_0 | ['cigar', 'connect', 'genuine', 'thumb', 'lift', 'capital', 'delay', 'pottery', 'wash', 'faint', 'fat', 'about'] |  
 | bip_39_word_space_1 | cigar |  
 | bip_39_word_space_10 | cigar connect genuine thumb lift capital delay pottery wash faint |  

@@ -122,6 +122,18 @@ royal
 harvest
 thank
 caught |  
+| bip_39_word_no_space_1 | welcome |  
+| bip_39_word_no_space_10 | welcomechronicinformrugrecordroyalharvestthankcaughtpush |  
+| bip_39_word_no_space_11 | welcomechronicinformrugrecordroyalharvestthankcaughtpushinquiry |  
+| bip_39_word_no_space_12 | welcomechronicinformrugrecordroyalharvestthankcaughtpushinquiryacross |  
+| bip_39_word_no_space_2 | welcomechronic |  
+| bip_39_word_no_space_3 | welcomechronicinform |  
+| bip_39_word_no_space_4 | welcomechronicinformrug |  
+| bip_39_word_no_space_5 | welcomechronicinformrugrecord |  
+| bip_39_word_no_space_6 | welcomechronicinformrugrecordroyal |  
+| bip_39_word_no_space_7 | welcomechronicinformrugrecordroyalharvest |  
+| bip_39_word_no_space_8 | welcomechronicinformrugrecordroyalharvestthank |  
+| bip_39_word_no_space_9 | welcomechronicinformrugrecordroyalharvestthankcaught |  
 | bip_39_word_space_0 | ['welcome', 'chronic', 'inform', 'rug', 'record', 'royal', 'harvest', 'thank', 'caught', 'push', 'inquiry', 'across'] |  
 | bip_39_word_space_1 | welcome |  
 | bip_39_word_space_10 | welcome chronic inform rug record royal harvest thank caught push |  

@@ -122,6 +122,18 @@ goddess
 wood
 board
 team |  
+| bip_39_word_no_space_1 | enough |  
+| bip_39_word_no_space_10 | enoughbirthmyselfmaidraingoddesswoodboardteamscissors |  
+| bip_39_word_no_space_11 | enoughbirthmyselfmaidraingoddesswoodboardteamscissorsworld |  
+| bip_39_word_no_space_12 | enoughbirthmyselfmaidraingoddesswoodboardteamscissorsworldactual |  
+| bip_39_word_no_space_2 | enoughbirth |  
+| bip_39_word_no_space_3 | enoughbirthmyself |  
+| bip_39_word_no_space_4 | enoughbirthmyselfmaid |  
+| bip_39_word_no_space_5 | enoughbirthmyselfmaidrain |  
+| bip_39_word_no_space_6 | enoughbirthmyselfmaidraingoddess |  
+| bip_39_word_no_space_7 | enoughbirthmyselfmaidraingoddesswood |  
+| bip_39_word_no_space_8 | enoughbirthmyselfmaidraingoddesswoodboard |  
+| bip_39_word_no_space_9 | enoughbirthmyselfmaidraingoddesswoodboardteam |  
 | bip_39_word_space_0 | ['enough', 'birth', 'myself', 'maid', 'rain', 'goddess', 'wood', 'board', 'team', 'scissors', 'world', 'actual'] |  
 | bip_39_word_space_1 | enough |  
 | bip_39_word_space_10 | enough birth myself maid rain goddess wood board team scissors |  

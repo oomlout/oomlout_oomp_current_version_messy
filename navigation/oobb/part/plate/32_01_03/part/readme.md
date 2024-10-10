@@ -122,6 +122,18 @@ example
 engine
 grunt
 voyage |  
+| bip_39_word_no_space_1 | spider |  
+| bip_39_word_no_space_10 | spiderablekidneyspinshuffleexampleenginegruntvoyageexcuse |  
+| bip_39_word_no_space_11 | spiderablekidneyspinshuffleexampleenginegruntvoyageexcusemuscle |  
+| bip_39_word_no_space_12 | spiderablekidneyspinshuffleexampleenginegruntvoyageexcusemuscleanchor |  
+| bip_39_word_no_space_2 | spiderable |  
+| bip_39_word_no_space_3 | spiderablekidney |  
+| bip_39_word_no_space_4 | spiderablekidneyspin |  
+| bip_39_word_no_space_5 | spiderablekidneyspinshuffle |  
+| bip_39_word_no_space_6 | spiderablekidneyspinshuffleexample |  
+| bip_39_word_no_space_7 | spiderablekidneyspinshuffleexampleengine |  
+| bip_39_word_no_space_8 | spiderablekidneyspinshuffleexampleenginegrunt |  
+| bip_39_word_no_space_9 | spiderablekidneyspinshuffleexampleenginegruntvoyage |  
 | bip_39_word_space_0 | ['spider', 'able', 'kidney', 'spin', 'shuffle', 'example', 'engine', 'grunt', 'voyage', 'excuse', 'muscle', 'anchor'] |  
 | bip_39_word_space_1 | spider |  
 | bip_39_word_space_10 | spider able kidney spin shuffle example engine grunt voyage excuse |  

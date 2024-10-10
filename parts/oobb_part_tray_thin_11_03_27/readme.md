@@ -122,6 +122,18 @@ pass
 kit
 movie
 mail |  
+| bip_39_word_no_space_1 | lonely |  
+| bip_39_word_no_space_10 | lonelyundopianobelieveapplepasskitmoviemailonion |  
+| bip_39_word_no_space_11 | lonelyundopianobelieveapplepasskitmoviemailonionsize |  
+| bip_39_word_no_space_12 | lonelyundopianobelieveapplepasskitmoviemailonionsizealmost |  
+| bip_39_word_no_space_2 | lonelyundo |  
+| bip_39_word_no_space_3 | lonelyundopiano |  
+| bip_39_word_no_space_4 | lonelyundopianobelieve |  
+| bip_39_word_no_space_5 | lonelyundopianobelieveapple |  
+| bip_39_word_no_space_6 | lonelyundopianobelieveapplepass |  
+| bip_39_word_no_space_7 | lonelyundopianobelieveapplepasskit |  
+| bip_39_word_no_space_8 | lonelyundopianobelieveapplepasskitmovie |  
+| bip_39_word_no_space_9 | lonelyundopianobelieveapplepasskitmoviemail |  
 | bip_39_word_space_0 | ['lonely', 'undo', 'piano', 'believe', 'apple', 'pass', 'kit', 'movie', 'mail', 'onion', 'size', 'almost'] |  
 | bip_39_word_space_1 | lonely |  
 | bip_39_word_space_10 | lonely undo piano believe apple pass kit movie mail onion |  

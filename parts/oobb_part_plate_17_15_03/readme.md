@@ -122,6 +122,18 @@ code
 mouse
 machine
 supply |  
+| bip_39_word_no_space_1 | outer |  
+| bip_39_word_no_space_10 | outercabinshiverburdenrejectcodemousemachinesupplyboring |  
+| bip_39_word_no_space_11 | outercabinshiverburdenrejectcodemousemachinesupplyboringphone |  
+| bip_39_word_no_space_12 | outercabinshiverburdenrejectcodemousemachinesupplyboringphoneabstract |  
+| bip_39_word_no_space_2 | outercabin |  
+| bip_39_word_no_space_3 | outercabinshiver |  
+| bip_39_word_no_space_4 | outercabinshiverburden |  
+| bip_39_word_no_space_5 | outercabinshiverburdenreject |  
+| bip_39_word_no_space_6 | outercabinshiverburdenrejectcode |  
+| bip_39_word_no_space_7 | outercabinshiverburdenrejectcodemouse |  
+| bip_39_word_no_space_8 | outercabinshiverburdenrejectcodemousemachine |  
+| bip_39_word_no_space_9 | outercabinshiverburdenrejectcodemousemachinesupply |  
 | bip_39_word_space_0 | ['outer', 'cabin', 'shiver', 'burden', 'reject', 'code', 'mouse', 'machine', 'supply', 'boring', 'phone', 'abstract'] |  
 | bip_39_word_space_1 | outer |  
 | bip_39_word_space_10 | outer cabin shiver burden reject code mouse machine supply boring |  

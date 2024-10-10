@@ -122,6 +122,18 @@ later
 fantasy
 craft
 word |  
+| bip_39_word_no_space_1 | valley |  
+| bip_39_word_no_space_10 | valleybacondiesellovefashionlaterfantasycraftwordlumber |  
+| bip_39_word_no_space_11 | valleybacondiesellovefashionlaterfantasycraftwordlumbertoward |  
+| bip_39_word_no_space_12 | valleybacondiesellovefashionlaterfantasycraftwordlumbertowardamateur |  
+| bip_39_word_no_space_2 | valleybacon |  
+| bip_39_word_no_space_3 | valleybacondiesel |  
+| bip_39_word_no_space_4 | valleybacondiesellove |  
+| bip_39_word_no_space_5 | valleybacondiesellovefashion |  
+| bip_39_word_no_space_6 | valleybacondiesellovefashionlater |  
+| bip_39_word_no_space_7 | valleybacondiesellovefashionlaterfantasy |  
+| bip_39_word_no_space_8 | valleybacondiesellovefashionlaterfantasycraft |  
+| bip_39_word_no_space_9 | valleybacondiesellovefashionlaterfantasycraftword |  
 | bip_39_word_space_0 | ['valley', 'bacon', 'diesel', 'love', 'fashion', 'later', 'fantasy', 'craft', 'word', 'lumber', 'toward', 'amateur'] |  
 | bip_39_word_space_1 | valley |  
 | bip_39_word_space_10 | valley bacon diesel love fashion later fantasy craft word lumber |  

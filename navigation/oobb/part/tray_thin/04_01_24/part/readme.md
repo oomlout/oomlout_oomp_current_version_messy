@@ -122,6 +122,18 @@ proud
 neutral
 panel
 family |  
+| bip_39_word_no_space_1 | same |  
+| bip_39_word_no_space_10 | samehosttalkangryoperaproudneutralpanelfamilynoodle |  
+| bip_39_word_no_space_11 | samehosttalkangryoperaproudneutralpanelfamilynoodlekey |  
+| bip_39_word_no_space_12 | samehosttalkangryoperaproudneutralpanelfamilynoodlekeyaddress |  
+| bip_39_word_no_space_2 | samehost |  
+| bip_39_word_no_space_3 | samehosttalk |  
+| bip_39_word_no_space_4 | samehosttalkangry |  
+| bip_39_word_no_space_5 | samehosttalkangryopera |  
+| bip_39_word_no_space_6 | samehosttalkangryoperaproud |  
+| bip_39_word_no_space_7 | samehosttalkangryoperaproudneutral |  
+| bip_39_word_no_space_8 | samehosttalkangryoperaproudneutralpanel |  
+| bip_39_word_no_space_9 | samehosttalkangryoperaproudneutralpanelfamily |  
 | bip_39_word_space_0 | ['same', 'host', 'talk', 'angry', 'opera', 'proud', 'neutral', 'panel', 'family', 'noodle', 'key', 'address'] |  
 | bip_39_word_space_1 | same |  
 | bip_39_word_space_10 | same host talk angry opera proud neutral panel family noodle |  

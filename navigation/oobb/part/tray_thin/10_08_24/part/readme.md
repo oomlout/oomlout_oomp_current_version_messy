@@ -122,6 +122,18 @@ slush
 beef
 end
 jar |  
+| bip_39_word_no_space_1 | believe |  
+| bip_39_word_no_space_10 | believefaceconductshaftadaptslushbeefendjarembrace |  
+| bip_39_word_no_space_11 | believefaceconductshaftadaptslushbeefendjarembraceinject |  
+| bip_39_word_no_space_12 | believefaceconductshaftadaptslushbeefendjarembraceinjectalley |  
+| bip_39_word_no_space_2 | believeface |  
+| bip_39_word_no_space_3 | believefaceconduct |  
+| bip_39_word_no_space_4 | believefaceconductshaft |  
+| bip_39_word_no_space_5 | believefaceconductshaftadapt |  
+| bip_39_word_no_space_6 | believefaceconductshaftadaptslush |  
+| bip_39_word_no_space_7 | believefaceconductshaftadaptslushbeef |  
+| bip_39_word_no_space_8 | believefaceconductshaftadaptslushbeefend |  
+| bip_39_word_no_space_9 | believefaceconductshaftadaptslushbeefendjar |  
 | bip_39_word_space_0 | ['believe', 'face', 'conduct', 'shaft', 'adapt', 'slush', 'beef', 'end', 'jar', 'embrace', 'inject', 'alley'] |  
 | bip_39_word_space_1 | believe |  
 | bip_39_word_space_10 | believe face conduct shaft adapt slush beef end jar embrace |  

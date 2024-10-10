@@ -122,6 +122,18 @@ display
 crunch
 hedgehog
 alcohol |  
+| bip_39_word_no_space_1 | top |  
+| bip_39_word_no_space_10 | topsatisfywashtradelimbdisplaycrunchhedgehogalcoholflight |  
+| bip_39_word_no_space_11 | topsatisfywashtradelimbdisplaycrunchhedgehogalcoholflightshift |  
+| bip_39_word_no_space_12 | topsatisfywashtradelimbdisplaycrunchhedgehogalcoholflightshiftair |  
+| bip_39_word_no_space_2 | topsatisfy |  
+| bip_39_word_no_space_3 | topsatisfywash |  
+| bip_39_word_no_space_4 | topsatisfywashtrade |  
+| bip_39_word_no_space_5 | topsatisfywashtradelimb |  
+| bip_39_word_no_space_6 | topsatisfywashtradelimbdisplay |  
+| bip_39_word_no_space_7 | topsatisfywashtradelimbdisplaycrunch |  
+| bip_39_word_no_space_8 | topsatisfywashtradelimbdisplaycrunchhedgehog |  
+| bip_39_word_no_space_9 | topsatisfywashtradelimbdisplaycrunchhedgehogalcohol |  
 | bip_39_word_space_0 | ['top', 'satisfy', 'wash', 'trade', 'limb', 'display', 'crunch', 'hedgehog', 'alcohol', 'flight', 'shift', 'air'] |  
 | bip_39_word_space_1 | top |  
 | bip_39_word_space_10 | top satisfy wash trade limb display crunch hedgehog alcohol flight |  

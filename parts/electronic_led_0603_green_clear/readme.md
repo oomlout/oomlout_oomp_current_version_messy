@@ -122,6 +122,18 @@ viable
 crop
 shoot
 flame |  
+| bip_39_word_no_space_1 | sniff |  
+| bip_39_word_no_space_10 | sniffvenueemotionarrowsomeoneviablecropshootflamemean |  
+| bip_39_word_no_space_11 | sniffvenueemotionarrowsomeoneviablecropshootflamemeancome |  
+| bip_39_word_no_space_12 | sniffvenueemotionarrowsomeoneviablecropshootflamemeancomeantenna |  
+| bip_39_word_no_space_2 | sniffvenue |  
+| bip_39_word_no_space_3 | sniffvenueemotion |  
+| bip_39_word_no_space_4 | sniffvenueemotionarrow |  
+| bip_39_word_no_space_5 | sniffvenueemotionarrowsomeone |  
+| bip_39_word_no_space_6 | sniffvenueemotionarrowsomeoneviable |  
+| bip_39_word_no_space_7 | sniffvenueemotionarrowsomeoneviablecrop |  
+| bip_39_word_no_space_8 | sniffvenueemotionarrowsomeoneviablecropshoot |  
+| bip_39_word_no_space_9 | sniffvenueemotionarrowsomeoneviablecropshootflame |  
 | bip_39_word_space_0 | ['sniff', 'venue', 'emotion', 'arrow', 'someone', 'viable', 'crop', 'shoot', 'flame', 'mean', 'come', 'antenna'] |  
 | bip_39_word_space_1 | sniff |  
 | bip_39_word_space_10 | sniff venue emotion arrow someone viable crop shoot flame mean |  

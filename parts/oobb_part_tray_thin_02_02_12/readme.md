@@ -122,6 +122,18 @@ erase
 exact
 soda
 pony |  
+| bip_39_word_no_space_1 | term |  
+| bip_39_word_no_space_10 | termrecalllunarvehiclemarketeraseexactsodaponyartist |  
+| bip_39_word_no_space_11 | termrecalllunarvehiclemarketeraseexactsodaponyartistpower |  
+| bip_39_word_no_space_12 | termrecalllunarvehiclemarketeraseexactsodaponyartistpowerangle |  
+| bip_39_word_no_space_2 | termrecall |  
+| bip_39_word_no_space_3 | termrecalllunar |  
+| bip_39_word_no_space_4 | termrecalllunarvehicle |  
+| bip_39_word_no_space_5 | termrecalllunarvehiclemarket |  
+| bip_39_word_no_space_6 | termrecalllunarvehiclemarketerase |  
+| bip_39_word_no_space_7 | termrecalllunarvehiclemarketeraseexact |  
+| bip_39_word_no_space_8 | termrecalllunarvehiclemarketeraseexactsoda |  
+| bip_39_word_no_space_9 | termrecalllunarvehiclemarketeraseexactsodapony |  
 | bip_39_word_space_0 | ['term', 'recall', 'lunar', 'vehicle', 'market', 'erase', 'exact', 'soda', 'pony', 'artist', 'power', 'angle'] |  
 | bip_39_word_space_1 | term |  
 | bip_39_word_space_10 | term recall lunar vehicle market erase exact soda pony artist |  

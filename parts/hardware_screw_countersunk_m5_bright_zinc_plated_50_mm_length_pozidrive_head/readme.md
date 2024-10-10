@@ -122,6 +122,18 @@ symbol
 memory
 busy
 deal |  
+| bip_39_word_no_space_1 | stereo |  
+| bip_39_word_no_space_10 | stereosortsolarlinkgentlesymbolmemorybusydealpoverty |  
+| bip_39_word_no_space_11 | stereosortsolarlinkgentlesymbolmemorybusydealpovertysudden |  
+| bip_39_word_no_space_12 | stereosortsolarlinkgentlesymbolmemorybusydealpovertysuddenacross |  
+| bip_39_word_no_space_2 | stereosort |  
+| bip_39_word_no_space_3 | stereosortsolar |  
+| bip_39_word_no_space_4 | stereosortsolarlink |  
+| bip_39_word_no_space_5 | stereosortsolarlinkgentle |  
+| bip_39_word_no_space_6 | stereosortsolarlinkgentlesymbol |  
+| bip_39_word_no_space_7 | stereosortsolarlinkgentlesymbolmemory |  
+| bip_39_word_no_space_8 | stereosortsolarlinkgentlesymbolmemorybusy |  
+| bip_39_word_no_space_9 | stereosortsolarlinkgentlesymbolmemorybusydeal |  
 | bip_39_word_space_0 | ['stereo', 'sort', 'solar', 'link', 'gentle', 'symbol', 'memory', 'busy', 'deal', 'poverty', 'sudden', 'across'] |  
 | bip_39_word_space_1 | stereo |  
 | bip_39_word_space_10 | stereo sort solar link gentle symbol memory busy deal poverty |  

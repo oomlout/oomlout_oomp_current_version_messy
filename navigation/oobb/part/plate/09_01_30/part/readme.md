@@ -122,6 +122,18 @@ artwork
 devote
 mutual
 stand |  
+| bip_39_word_no_space_1 | inherit |  
+| bip_39_word_no_space_10 | inheritfeedsoapdisordernoteartworkdevotemutualstandhammer |  
+| bip_39_word_no_space_11 | inheritfeedsoapdisordernoteartworkdevotemutualstandhammercraft |  
+| bip_39_word_no_space_12 | inheritfeedsoapdisordernoteartworkdevotemutualstandhammercraftabsorb |  
+| bip_39_word_no_space_2 | inheritfeed |  
+| bip_39_word_no_space_3 | inheritfeedsoap |  
+| bip_39_word_no_space_4 | inheritfeedsoapdisorder |  
+| bip_39_word_no_space_5 | inheritfeedsoapdisordernote |  
+| bip_39_word_no_space_6 | inheritfeedsoapdisordernoteartwork |  
+| bip_39_word_no_space_7 | inheritfeedsoapdisordernoteartworkdevote |  
+| bip_39_word_no_space_8 | inheritfeedsoapdisordernoteartworkdevotemutual |  
+| bip_39_word_no_space_9 | inheritfeedsoapdisordernoteartworkdevotemutualstand |  
 | bip_39_word_space_0 | ['inherit', 'feed', 'soap', 'disorder', 'note', 'artwork', 'devote', 'mutual', 'stand', 'hammer', 'craft', 'absorb'] |  
 | bip_39_word_space_1 | inherit |  
 | bip_39_word_space_10 | inherit feed soap disorder note artwork devote mutual stand hammer |  

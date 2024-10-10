@@ -122,6 +122,18 @@ rare
 front
 orchard
 protect |  
+| bip_39_word_no_space_1 | into |  
+| bip_39_word_no_space_10 | intoselectfreshtwelveincreaserarefrontorchardprotecttenant |  
+| bip_39_word_no_space_11 | intoselectfreshtwelveincreaserarefrontorchardprotecttenantantenna |  
+| bip_39_word_no_space_12 | intoselectfreshtwelveincreaserarefrontorchardprotecttenantantennaalso |  
+| bip_39_word_no_space_2 | intoselect |  
+| bip_39_word_no_space_3 | intoselectfresh |  
+| bip_39_word_no_space_4 | intoselectfreshtwelve |  
+| bip_39_word_no_space_5 | intoselectfreshtwelveincrease |  
+| bip_39_word_no_space_6 | intoselectfreshtwelveincreaserare |  
+| bip_39_word_no_space_7 | intoselectfreshtwelveincreaserarefront |  
+| bip_39_word_no_space_8 | intoselectfreshtwelveincreaserarefrontorchard |  
+| bip_39_word_no_space_9 | intoselectfreshtwelveincreaserarefrontorchardprotect |  
 | bip_39_word_space_0 | ['into', 'select', 'fresh', 'twelve', 'increase', 'rare', 'front', 'orchard', 'protect', 'tenant', 'antenna', 'also'] |  
 | bip_39_word_space_1 | into |  
 | bip_39_word_space_10 | into select fresh twelve increase rare front orchard protect tenant |  

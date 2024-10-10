@@ -122,6 +122,18 @@ install
 field
 drink
 quantum |  
+| bip_39_word_no_space_1 | grit |  
+| bip_39_word_no_space_10 | gritheavyvalvemaiddecadeinstallfielddrinkquantumbattle |  
+| bip_39_word_no_space_11 | gritheavyvalvemaiddecadeinstallfielddrinkquantumbattlerain |  
+| bip_39_word_no_space_12 | gritheavyvalvemaiddecadeinstallfielddrinkquantumbattlerainaccount |  
+| bip_39_word_no_space_2 | gritheavy |  
+| bip_39_word_no_space_3 | gritheavyvalve |  
+| bip_39_word_no_space_4 | gritheavyvalvemaid |  
+| bip_39_word_no_space_5 | gritheavyvalvemaiddecade |  
+| bip_39_word_no_space_6 | gritheavyvalvemaiddecadeinstall |  
+| bip_39_word_no_space_7 | gritheavyvalvemaiddecadeinstallfield |  
+| bip_39_word_no_space_8 | gritheavyvalvemaiddecadeinstallfielddrink |  
+| bip_39_word_no_space_9 | gritheavyvalvemaiddecadeinstallfielddrinkquantum |  
 | bip_39_word_space_0 | ['grit', 'heavy', 'valve', 'maid', 'decade', 'install', 'field', 'drink', 'quantum', 'battle', 'rain', 'account'] |  
 | bip_39_word_space_1 | grit |  
 | bip_39_word_space_10 | grit heavy valve maid decade install field drink quantum battle |  

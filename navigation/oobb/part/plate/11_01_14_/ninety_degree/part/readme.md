@@ -122,6 +122,18 @@ entry
 mean
 wash
 topic |  
+| bip_39_word_no_space_1 | surprise |  
+| bip_39_word_no_space_10 | surprisedollideacanalimpulseentrymeanwashtopicfish |  
+| bip_39_word_no_space_11 | surprisedollideacanalimpulseentrymeanwashtopicfishsoda |  
+| bip_39_word_no_space_12 | surprisedollideacanalimpulseentrymeanwashtopicfishsodaangle |  
+| bip_39_word_no_space_2 | surprisedoll |  
+| bip_39_word_no_space_3 | surprisedollidea |  
+| bip_39_word_no_space_4 | surprisedollideacanal |  
+| bip_39_word_no_space_5 | surprisedollideacanalimpulse |  
+| bip_39_word_no_space_6 | surprisedollideacanalimpulseentry |  
+| bip_39_word_no_space_7 | surprisedollideacanalimpulseentrymean |  
+| bip_39_word_no_space_8 | surprisedollideacanalimpulseentrymeanwash |  
+| bip_39_word_no_space_9 | surprisedollideacanalimpulseentrymeanwashtopic |  
 | bip_39_word_space_0 | ['surprise', 'doll', 'idea', 'canal', 'impulse', 'entry', 'mean', 'wash', 'topic', 'fish', 'soda', 'angle'] |  
 | bip_39_word_space_1 | surprise |  
 | bip_39_word_space_10 | surprise doll idea canal impulse entry mean wash topic fish |  

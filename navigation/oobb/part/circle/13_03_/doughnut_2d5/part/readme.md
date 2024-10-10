@@ -122,6 +122,18 @@ matter
 link
 document
 else |  
+| bip_39_word_no_space_1 | noble |  
+| bip_39_word_no_space_10 | nobleactressfoundkitecarpetmatterlinkdocumentelseinput |  
+| bip_39_word_no_space_11 | nobleactressfoundkitecarpetmatterlinkdocumentelseinputtape |  
+| bip_39_word_no_space_12 | nobleactressfoundkitecarpetmatterlinkdocumentelseinputtapeadvance |  
+| bip_39_word_no_space_2 | nobleactress |  
+| bip_39_word_no_space_3 | nobleactressfound |  
+| bip_39_word_no_space_4 | nobleactressfoundkite |  
+| bip_39_word_no_space_5 | nobleactressfoundkitecarpet |  
+| bip_39_word_no_space_6 | nobleactressfoundkitecarpetmatter |  
+| bip_39_word_no_space_7 | nobleactressfoundkitecarpetmatterlink |  
+| bip_39_word_no_space_8 | nobleactressfoundkitecarpetmatterlinkdocument |  
+| bip_39_word_no_space_9 | nobleactressfoundkitecarpetmatterlinkdocumentelse |  
 | bip_39_word_space_0 | ['noble', 'actress', 'found', 'kite', 'carpet', 'matter', 'link', 'document', 'else', 'input', 'tape', 'advance'] |  
 | bip_39_word_space_1 | noble |  
 | bip_39_word_space_10 | noble actress found kite carpet matter link document else input |  

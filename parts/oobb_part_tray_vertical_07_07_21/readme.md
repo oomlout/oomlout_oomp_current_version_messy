@@ -122,6 +122,18 @@ nose
 initial
 nasty
 west |  
+| bip_39_word_no_space_1 | visit |  
+| bip_39_word_no_space_10 | visitcrunchgruntparadetorchnoseinitialnastywestupdate |  
+| bip_39_word_no_space_11 | visitcrunchgruntparadetorchnoseinitialnastywestupdatefound |  
+| bip_39_word_no_space_12 | visitcrunchgruntparadetorchnoseinitialnastywestupdatefoundamateur |  
+| bip_39_word_no_space_2 | visitcrunch |  
+| bip_39_word_no_space_3 | visitcrunchgrunt |  
+| bip_39_word_no_space_4 | visitcrunchgruntparade |  
+| bip_39_word_no_space_5 | visitcrunchgruntparadetorch |  
+| bip_39_word_no_space_6 | visitcrunchgruntparadetorchnose |  
+| bip_39_word_no_space_7 | visitcrunchgruntparadetorchnoseinitial |  
+| bip_39_word_no_space_8 | visitcrunchgruntparadetorchnoseinitialnasty |  
+| bip_39_word_no_space_9 | visitcrunchgruntparadetorchnoseinitialnastywest |  
 | bip_39_word_space_0 | ['visit', 'crunch', 'grunt', 'parade', 'torch', 'nose', 'initial', 'nasty', 'west', 'update', 'found', 'amateur'] |  
 | bip_39_word_space_1 | visit |  
 | bip_39_word_space_10 | visit crunch grunt parade torch nose initial nasty west update |  

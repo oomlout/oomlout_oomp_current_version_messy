@@ -122,6 +122,18 @@ solid
 december
 feed
 pottery |  
+| bip_39_word_no_space_1 | notice |  
+| bip_39_word_no_space_10 | noticerabbitfortunecrumblelatersoliddecemberfeedpotteryphone |  
+| bip_39_word_no_space_11 | noticerabbitfortunecrumblelatersoliddecemberfeedpotteryphonemonster |  
+| bip_39_word_no_space_12 | noticerabbitfortunecrumblelatersoliddecemberfeedpotteryphonemonsteraugust |  
+| bip_39_word_no_space_2 | noticerabbit |  
+| bip_39_word_no_space_3 | noticerabbitfortune |  
+| bip_39_word_no_space_4 | noticerabbitfortunecrumble |  
+| bip_39_word_no_space_5 | noticerabbitfortunecrumblelater |  
+| bip_39_word_no_space_6 | noticerabbitfortunecrumblelatersolid |  
+| bip_39_word_no_space_7 | noticerabbitfortunecrumblelatersoliddecember |  
+| bip_39_word_no_space_8 | noticerabbitfortunecrumblelatersoliddecemberfeed |  
+| bip_39_word_no_space_9 | noticerabbitfortunecrumblelatersoliddecemberfeedpottery |  
 | bip_39_word_space_0 | ['notice', 'rabbit', 'fortune', 'crumble', 'later', 'solid', 'december', 'feed', 'pottery', 'phone', 'monster', 'august'] |  
 | bip_39_word_space_1 | notice |  
 | bip_39_word_space_10 | notice rabbit fortune crumble later solid december feed pottery phone |  

@@ -122,6 +122,18 @@ victory
 good
 polar
 harvest |  
+| bip_39_word_no_space_1 | still |  
+| bip_39_word_no_space_10 | stilllockareareplaceswampvictorygoodpolarharvestagent |  
+| bip_39_word_no_space_11 | stilllockareareplaceswampvictorygoodpolarharvestagentwrestle |  
+| bip_39_word_no_space_12 | stilllockareareplaceswampvictorygoodpolarharvestagentwrestleaccident |  
+| bip_39_word_no_space_2 | stilllock |  
+| bip_39_word_no_space_3 | stilllockarea |  
+| bip_39_word_no_space_4 | stilllockareareplace |  
+| bip_39_word_no_space_5 | stilllockareareplaceswamp |  
+| bip_39_word_no_space_6 | stilllockareareplaceswampvictory |  
+| bip_39_word_no_space_7 | stilllockareareplaceswampvictorygood |  
+| bip_39_word_no_space_8 | stilllockareareplaceswampvictorygoodpolar |  
+| bip_39_word_no_space_9 | stilllockareareplaceswampvictorygoodpolarharvest |  
 | bip_39_word_space_0 | ['still', 'lock', 'area', 'replace', 'swamp', 'victory', 'good', 'polar', 'harvest', 'agent', 'wrestle', 'accident'] |  
 | bip_39_word_space_1 | still |  
 | bip_39_word_space_10 | still lock area replace swamp victory good polar harvest agent |  

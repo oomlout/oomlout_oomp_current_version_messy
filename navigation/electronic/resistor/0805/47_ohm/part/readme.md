@@ -122,6 +122,18 @@ puppy
 quick
 project
 old |  
+| bip_39_word_no_space_1 | coin |  
+| bip_39_word_no_space_10 | coingiantliftmerittownpuppyquickprojectoldfeed |  
+| bip_39_word_no_space_11 | coingiantliftmerittownpuppyquickprojectoldfeedflavor |  
+| bip_39_word_no_space_12 | coingiantliftmerittownpuppyquickprojectoldfeedflavorankle |  
+| bip_39_word_no_space_2 | coingiant |  
+| bip_39_word_no_space_3 | coingiantlift |  
+| bip_39_word_no_space_4 | coingiantliftmerit |  
+| bip_39_word_no_space_5 | coingiantliftmerittown |  
+| bip_39_word_no_space_6 | coingiantliftmerittownpuppy |  
+| bip_39_word_no_space_7 | coingiantliftmerittownpuppyquick |  
+| bip_39_word_no_space_8 | coingiantliftmerittownpuppyquickproject |  
+| bip_39_word_no_space_9 | coingiantliftmerittownpuppyquickprojectold |  
 | bip_39_word_space_0 | ['coin', 'giant', 'lift', 'merit', 'town', 'puppy', 'quick', 'project', 'old', 'feed', 'flavor', 'ankle'] |  
 | bip_39_word_space_1 | coin |  
 | bip_39_word_space_10 | coin giant lift merit town puppy quick project old feed |  

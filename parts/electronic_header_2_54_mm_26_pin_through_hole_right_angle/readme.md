@@ -122,6 +122,18 @@ rose
 bulk
 reflect
 acoustic |  
+| bip_39_word_no_space_1 | able |  
+| bip_39_word_no_space_10 | ablevoyagedutymixturetreatrosebulkreflectacousticmind |  
+| bip_39_word_no_space_11 | ablevoyagedutymixturetreatrosebulkreflectacousticmindnest |  
+| bip_39_word_no_space_12 | ablevoyagedutymixturetreatrosebulkreflectacousticmindnestamused |  
+| bip_39_word_no_space_2 | ablevoyage |  
+| bip_39_word_no_space_3 | ablevoyageduty |  
+| bip_39_word_no_space_4 | ablevoyagedutymixture |  
+| bip_39_word_no_space_5 | ablevoyagedutymixturetreat |  
+| bip_39_word_no_space_6 | ablevoyagedutymixturetreatrose |  
+| bip_39_word_no_space_7 | ablevoyagedutymixturetreatrosebulk |  
+| bip_39_word_no_space_8 | ablevoyagedutymixturetreatrosebulkreflect |  
+| bip_39_word_no_space_9 | ablevoyagedutymixturetreatrosebulkreflectacoustic |  
 | bip_39_word_space_0 | ['able', 'voyage', 'duty', 'mixture', 'treat', 'rose', 'bulk', 'reflect', 'acoustic', 'mind', 'nest', 'amused'] |  
 | bip_39_word_space_1 | able |  
 | bip_39_word_space_10 | able voyage duty mixture treat rose bulk reflect acoustic mind |  

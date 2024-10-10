@@ -122,6 +122,18 @@ cousin
 cushion
 large
 paper |  
+| bip_39_word_no_space_1 | minor |  
+| bip_39_word_no_space_10 | minorbroomcatalogmuchstatecousincushionlargepapertrip |  
+| bip_39_word_no_space_11 | minorbroomcatalogmuchstatecousincushionlargepapertripaffair |  
+| bip_39_word_no_space_12 | minorbroomcatalogmuchstatecousincushionlargepapertripaffairafford |  
+| bip_39_word_no_space_2 | minorbroom |  
+| bip_39_word_no_space_3 | minorbroomcatalog |  
+| bip_39_word_no_space_4 | minorbroomcatalogmuch |  
+| bip_39_word_no_space_5 | minorbroomcatalogmuchstate |  
+| bip_39_word_no_space_6 | minorbroomcatalogmuchstatecousin |  
+| bip_39_word_no_space_7 | minorbroomcatalogmuchstatecousincushion |  
+| bip_39_word_no_space_8 | minorbroomcatalogmuchstatecousincushionlarge |  
+| bip_39_word_no_space_9 | minorbroomcatalogmuchstatecousincushionlargepaper |  
 | bip_39_word_space_0 | ['minor', 'broom', 'catalog', 'much', 'state', 'cousin', 'cushion', 'large', 'paper', 'trip', 'affair', 'afford'] |  
 | bip_39_word_space_1 | minor |  
 | bip_39_word_space_10 | minor broom catalog much state cousin cushion large paper trip |  

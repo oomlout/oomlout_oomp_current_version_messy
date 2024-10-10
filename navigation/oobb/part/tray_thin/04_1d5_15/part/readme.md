@@ -122,6 +122,18 @@ enjoy
 become
 narrow
 used |  
+| bip_39_word_no_space_1 | option |  
+| bip_39_word_no_space_10 | optiondresserupthurdlenastyenjoybecomenarrowusedadjust |  
+| bip_39_word_no_space_11 | optiondresserupthurdlenastyenjoybecomenarrowusedadjustaim |  
+| bip_39_word_no_space_12 | optiondresserupthurdlenastyenjoybecomenarrowusedadjustaimalert |  
+| bip_39_word_no_space_2 | optiondress |  
+| bip_39_word_no_space_3 | optiondresserupt |  
+| bip_39_word_no_space_4 | optiondresserupthurdle |  
+| bip_39_word_no_space_5 | optiondresserupthurdlenasty |  
+| bip_39_word_no_space_6 | optiondresserupthurdlenastyenjoy |  
+| bip_39_word_no_space_7 | optiondresserupthurdlenastyenjoybecome |  
+| bip_39_word_no_space_8 | optiondresserupthurdlenastyenjoybecomenarrow |  
+| bip_39_word_no_space_9 | optiondresserupthurdlenastyenjoybecomenarrowused |  
 | bip_39_word_space_0 | ['option', 'dress', 'erupt', 'hurdle', 'nasty', 'enjoy', 'become', 'narrow', 'used', 'adjust', 'aim', 'alert'] |  
 | bip_39_word_space_1 | option |  
 | bip_39_word_space_10 | option dress erupt hurdle nasty enjoy become narrow used adjust |  

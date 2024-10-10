@@ -122,6 +122,18 @@ cute
 rule
 remind
 carbon |  
+| bip_39_word_no_space_1 | quit |  
+| bip_39_word_no_space_10 | quitbelievevillageritualfacecuteruleremindcarbonhidden |  
+| bip_39_word_no_space_11 | quitbelievevillageritualfacecuteruleremindcarbonhiddendraft |  
+| bip_39_word_no_space_12 | quitbelievevillageritualfacecuteruleremindcarbonhiddendraftamateur |  
+| bip_39_word_no_space_2 | quitbelieve |  
+| bip_39_word_no_space_3 | quitbelievevillage |  
+| bip_39_word_no_space_4 | quitbelievevillageritual |  
+| bip_39_word_no_space_5 | quitbelievevillageritualface |  
+| bip_39_word_no_space_6 | quitbelievevillageritualfacecute |  
+| bip_39_word_no_space_7 | quitbelievevillageritualfacecuterule |  
+| bip_39_word_no_space_8 | quitbelievevillageritualfacecuteruleremind |  
+| bip_39_word_no_space_9 | quitbelievevillageritualfacecuteruleremindcarbon |  
 | bip_39_word_space_0 | ['quit', 'believe', 'village', 'ritual', 'face', 'cute', 'rule', 'remind', 'carbon', 'hidden', 'draft', 'amateur'] |  
 | bip_39_word_space_1 | quit |  
 | bip_39_word_space_10 | quit believe village ritual face cute rule remind carbon hidden |  

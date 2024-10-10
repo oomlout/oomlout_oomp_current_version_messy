@@ -122,6 +122,18 @@ vivid
 taste
 hazard
 whale |  
+| bip_39_word_no_space_1 | banana |  
+| bip_39_word_no_space_10 | bananasickmuscletopchatvividtastehazardwhaleauction |  
+| bip_39_word_no_space_11 | bananasickmuscletopchatvividtastehazardwhaleauctionregret |  
+| bip_39_word_no_space_12 | bananasickmuscletopchatvividtastehazardwhaleauctionregretadvance |  
+| bip_39_word_no_space_2 | bananasick |  
+| bip_39_word_no_space_3 | bananasickmuscle |  
+| bip_39_word_no_space_4 | bananasickmuscletop |  
+| bip_39_word_no_space_5 | bananasickmuscletopchat |  
+| bip_39_word_no_space_6 | bananasickmuscletopchatvivid |  
+| bip_39_word_no_space_7 | bananasickmuscletopchatvividtaste |  
+| bip_39_word_no_space_8 | bananasickmuscletopchatvividtastehazard |  
+| bip_39_word_no_space_9 | bananasickmuscletopchatvividtastehazardwhale |  
 | bip_39_word_space_0 | ['banana', 'sick', 'muscle', 'top', 'chat', 'vivid', 'taste', 'hazard', 'whale', 'auction', 'regret', 'advance'] |  
 | bip_39_word_space_1 | banana |  
 | bip_39_word_space_10 | banana sick muscle top chat vivid taste hazard whale auction |  

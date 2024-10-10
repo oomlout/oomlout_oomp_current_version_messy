@@ -122,6 +122,18 @@ globe
 small
 update
 pride |  
+| bip_39_word_no_space_1 | region |  
+| bip_39_word_no_space_10 | regionorchardghostbodyfarmglobesmallupdatepridepiano |  
+| bip_39_word_no_space_11 | regionorchardghostbodyfarmglobesmallupdatepridepianosomeone |  
+| bip_39_word_no_space_12 | regionorchardghostbodyfarmglobesmallupdatepridepianosomeoneappear |  
+| bip_39_word_no_space_2 | regionorchard |  
+| bip_39_word_no_space_3 | regionorchardghost |  
+| bip_39_word_no_space_4 | regionorchardghostbody |  
+| bip_39_word_no_space_5 | regionorchardghostbodyfarm |  
+| bip_39_word_no_space_6 | regionorchardghostbodyfarmglobe |  
+| bip_39_word_no_space_7 | regionorchardghostbodyfarmglobesmall |  
+| bip_39_word_no_space_8 | regionorchardghostbodyfarmglobesmallupdate |  
+| bip_39_word_no_space_9 | regionorchardghostbodyfarmglobesmallupdatepride |  
 | bip_39_word_space_0 | ['region', 'orchard', 'ghost', 'body', 'farm', 'globe', 'small', 'update', 'pride', 'piano', 'someone', 'appear'] |  
 | bip_39_word_space_1 | region |  
 | bip_39_word_space_10 | region orchard ghost body farm globe small update pride piano |  

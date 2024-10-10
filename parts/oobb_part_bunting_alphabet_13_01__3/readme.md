@@ -122,6 +122,18 @@ flush
 you
 gown
 spring |  
+| bip_39_word_no_space_1 | meat |  
+| bip_39_word_no_space_10 | meatkneethreehotelmultiplyflushyougownspringchuckle |  
+| bip_39_word_no_space_11 | meatkneethreehotelmultiplyflushyougownspringchucklesoldier |  
+| bip_39_word_no_space_12 | meatkneethreehotelmultiplyflushyougownspringchucklesoldieractor |  
+| bip_39_word_no_space_2 | meatknee |  
+| bip_39_word_no_space_3 | meatkneethree |  
+| bip_39_word_no_space_4 | meatkneethreehotel |  
+| bip_39_word_no_space_5 | meatkneethreehotelmultiply |  
+| bip_39_word_no_space_6 | meatkneethreehotelmultiplyflush |  
+| bip_39_word_no_space_7 | meatkneethreehotelmultiplyflushyou |  
+| bip_39_word_no_space_8 | meatkneethreehotelmultiplyflushyougown |  
+| bip_39_word_no_space_9 | meatkneethreehotelmultiplyflushyougownspring |  
 | bip_39_word_space_0 | ['meat', 'knee', 'three', 'hotel', 'multiply', 'flush', 'you', 'gown', 'spring', 'chuckle', 'soldier', 'actor'] |  
 | bip_39_word_space_1 | meat |  
 | bip_39_word_space_10 | meat knee three hotel multiply flush you gown spring chuckle |  

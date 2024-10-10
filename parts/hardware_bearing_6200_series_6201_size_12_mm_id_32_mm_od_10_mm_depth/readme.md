@@ -122,6 +122,18 @@ rack
 resemble
 banana
 crunch |  
+| bip_39_word_no_space_1 | slam |  
+| bip_39_word_no_space_10 | slamnothingtubeexpectnotablerackresemblebananacrunchcentury |  
+| bip_39_word_no_space_11 | slamnothingtubeexpectnotablerackresemblebananacrunchcenturyfury |  
+| bip_39_word_no_space_12 | slamnothingtubeexpectnotablerackresemblebananacrunchcenturyfuryadapt |  
+| bip_39_word_no_space_2 | slamnothing |  
+| bip_39_word_no_space_3 | slamnothingtube |  
+| bip_39_word_no_space_4 | slamnothingtubeexpect |  
+| bip_39_word_no_space_5 | slamnothingtubeexpectnotable |  
+| bip_39_word_no_space_6 | slamnothingtubeexpectnotablerack |  
+| bip_39_word_no_space_7 | slamnothingtubeexpectnotablerackresemble |  
+| bip_39_word_no_space_8 | slamnothingtubeexpectnotablerackresemblebanana |  
+| bip_39_word_no_space_9 | slamnothingtubeexpectnotablerackresemblebananacrunch |  
 | bip_39_word_space_0 | ['slam', 'nothing', 'tube', 'expect', 'notable', 'rack', 'resemble', 'banana', 'crunch', 'century', 'fury', 'adapt'] |  
 | bip_39_word_space_1 | slam |  
 | bip_39_word_space_10 | slam nothing tube expect notable rack resemble banana crunch century |  

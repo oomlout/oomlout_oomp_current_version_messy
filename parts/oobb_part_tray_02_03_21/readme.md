@@ -122,6 +122,18 @@ inflict
 wreck
 salmon
 mesh |  
+| bip_39_word_no_space_1 | dawn |  
+| bip_39_word_no_space_10 | dawnsupercliffkissthereinflictwrecksalmonmeshmesh |  
+| bip_39_word_no_space_11 | dawnsupercliffkissthereinflictwrecksalmonmeshmeshpepper |  
+| bip_39_word_no_space_12 | dawnsupercliffkissthereinflictwrecksalmonmeshmeshpepperalready |  
+| bip_39_word_no_space_2 | dawnsuper |  
+| bip_39_word_no_space_3 | dawnsupercliff |  
+| bip_39_word_no_space_4 | dawnsupercliffkiss |  
+| bip_39_word_no_space_5 | dawnsupercliffkissthere |  
+| bip_39_word_no_space_6 | dawnsupercliffkissthereinflict |  
+| bip_39_word_no_space_7 | dawnsupercliffkissthereinflictwreck |  
+| bip_39_word_no_space_8 | dawnsupercliffkissthereinflictwrecksalmon |  
+| bip_39_word_no_space_9 | dawnsupercliffkissthereinflictwrecksalmonmesh |  
 | bip_39_word_space_0 | ['dawn', 'super', 'cliff', 'kiss', 'there', 'inflict', 'wreck', 'salmon', 'mesh', 'mesh', 'pepper', 'already'] |  
 | bip_39_word_space_1 | dawn |  
 | bip_39_word_space_10 | dawn super cliff kiss there inflict wreck salmon mesh mesh |  

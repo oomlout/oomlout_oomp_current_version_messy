@@ -122,6 +122,18 @@ sniff
 prosper
 daughter
 snake |  
+| bip_39_word_no_space_1 | palace |  
+| bip_39_word_no_space_10 | palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamous |  
+| bip_39_word_no_space_11 | palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamoussupply |  
+| bip_39_word_no_space_12 | palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamoussupplyalpha |  
+| bip_39_word_no_space_2 | palaceavoid |  
+| bip_39_word_no_space_3 | palaceavoidnotable |  
+| bip_39_word_no_space_4 | palaceavoidnotabletwist |  
+| bip_39_word_no_space_5 | palaceavoidnotabletwistexcite |  
+| bip_39_word_no_space_6 | palaceavoidnotabletwistexcitesniff |  
+| bip_39_word_no_space_7 | palaceavoidnotabletwistexcitesniffprosper |  
+| bip_39_word_no_space_8 | palaceavoidnotabletwistexcitesniffprosperdaughter |  
+| bip_39_word_no_space_9 | palaceavoidnotabletwistexcitesniffprosperdaughtersnake |  
 | bip_39_word_space_0 | ['palace', 'avoid', 'notable', 'twist', 'excite', 'sniff', 'prosper', 'daughter', 'snake', 'famous', 'supply', 'alpha'] |  
 | bip_39_word_space_1 | palace |  
 | bip_39_word_space_10 | palace avoid notable twist excite sniff prosper daughter snake famous |  

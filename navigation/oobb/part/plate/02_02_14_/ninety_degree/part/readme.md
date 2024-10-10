@@ -122,6 +122,18 @@ airport
 wasp
 foil
 able |  
+| bip_39_word_no_space_1 | syrup |  
+| bip_39_word_no_space_10 | syrupgreentotalunitpupilairportwaspfoilableend |  
+| bip_39_word_no_space_11 | syrupgreentotalunitpupilairportwaspfoilableendmixture |  
+| bip_39_word_no_space_12 | syrupgreentotalunitpupilairportwaspfoilableendmixtureadapt |  
+| bip_39_word_no_space_2 | syrupgreen |  
+| bip_39_word_no_space_3 | syrupgreentotal |  
+| bip_39_word_no_space_4 | syrupgreentotalunit |  
+| bip_39_word_no_space_5 | syrupgreentotalunitpupil |  
+| bip_39_word_no_space_6 | syrupgreentotalunitpupilairport |  
+| bip_39_word_no_space_7 | syrupgreentotalunitpupilairportwasp |  
+| bip_39_word_no_space_8 | syrupgreentotalunitpupilairportwaspfoil |  
+| bip_39_word_no_space_9 | syrupgreentotalunitpupilairportwaspfoilable |  
 | bip_39_word_space_0 | ['syrup', 'green', 'total', 'unit', 'pupil', 'airport', 'wasp', 'foil', 'able', 'end', 'mixture', 'adapt'] |  
 | bip_39_word_space_1 | syrup |  
 | bip_39_word_space_10 | syrup green total unit pupil airport wasp foil able end |  

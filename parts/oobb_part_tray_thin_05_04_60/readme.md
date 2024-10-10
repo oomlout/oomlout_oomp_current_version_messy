@@ -122,6 +122,18 @@ sudden
 wage
 leopard
 crawl |  
+| bip_39_word_no_space_1 | pupil |  
+| bip_39_word_no_space_10 | pupildoorcrystallocalsplitsuddenwageleopardcrawltable |  
+| bip_39_word_no_space_11 | pupildoorcrystallocalsplitsuddenwageleopardcrawltablewidth |  
+| bip_39_word_no_space_12 | pupildoorcrystallocalsplitsuddenwageleopardcrawltablewidthachieve |  
+| bip_39_word_no_space_2 | pupildoor |  
+| bip_39_word_no_space_3 | pupildoorcrystal |  
+| bip_39_word_no_space_4 | pupildoorcrystallocal |  
+| bip_39_word_no_space_5 | pupildoorcrystallocalsplit |  
+| bip_39_word_no_space_6 | pupildoorcrystallocalsplitsudden |  
+| bip_39_word_no_space_7 | pupildoorcrystallocalsplitsuddenwage |  
+| bip_39_word_no_space_8 | pupildoorcrystallocalsplitsuddenwageleopard |  
+| bip_39_word_no_space_9 | pupildoorcrystallocalsplitsuddenwageleopardcrawl |  
 | bip_39_word_space_0 | ['pupil', 'door', 'crystal', 'local', 'split', 'sudden', 'wage', 'leopard', 'crawl', 'table', 'width', 'achieve'] |  
 | bip_39_word_space_1 | pupil |  
 | bip_39_word_space_10 | pupil door crystal local split sudden wage leopard crawl table |  

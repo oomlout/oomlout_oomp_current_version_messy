@@ -122,6 +122,18 @@ someone
 give
 grief
 access |  
+| bip_39_word_no_space_1 | visual |  
+| bip_39_word_no_space_10 | visualfollowpatrolsparetopsomeonegivegriefaccessmodify |  
+| bip_39_word_no_space_11 | visualfollowpatrolsparetopsomeonegivegriefaccessmodifyturkey |  
+| bip_39_word_no_space_12 | visualfollowpatrolsparetopsomeonegivegriefaccessmodifyturkeyamong |  
+| bip_39_word_no_space_2 | visualfollow |  
+| bip_39_word_no_space_3 | visualfollowpatrol |  
+| bip_39_word_no_space_4 | visualfollowpatrolspare |  
+| bip_39_word_no_space_5 | visualfollowpatrolsparetop |  
+| bip_39_word_no_space_6 | visualfollowpatrolsparetopsomeone |  
+| bip_39_word_no_space_7 | visualfollowpatrolsparetopsomeonegive |  
+| bip_39_word_no_space_8 | visualfollowpatrolsparetopsomeonegivegrief |  
+| bip_39_word_no_space_9 | visualfollowpatrolsparetopsomeonegivegriefaccess |  
 | bip_39_word_space_0 | ['visual', 'follow', 'patrol', 'spare', 'top', 'someone', 'give', 'grief', 'access', 'modify', 'turkey', 'among'] |  
 | bip_39_word_space_1 | visual |  
 | bip_39_word_space_10 | visual follow patrol spare top someone give grief access modify |  

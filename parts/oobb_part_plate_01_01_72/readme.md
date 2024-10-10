@@ -122,6 +122,18 @@ valid
 excuse
 bunker
 blast |  
+| bip_39_word_no_space_1 | bar |  
+| bip_39_word_no_space_10 | barliftcontrolpricesocialvalidexcusebunkerblastrotate |  
+| bip_39_word_no_space_11 | barliftcontrolpricesocialvalidexcusebunkerblastrotatemoon |  
+| bip_39_word_no_space_12 | barliftcontrolpricesocialvalidexcusebunkerblastrotatemoonaspect |  
+| bip_39_word_no_space_2 | barlift |  
+| bip_39_word_no_space_3 | barliftcontrol |  
+| bip_39_word_no_space_4 | barliftcontrolprice |  
+| bip_39_word_no_space_5 | barliftcontrolpricesocial |  
+| bip_39_word_no_space_6 | barliftcontrolpricesocialvalid |  
+| bip_39_word_no_space_7 | barliftcontrolpricesocialvalidexcuse |  
+| bip_39_word_no_space_8 | barliftcontrolpricesocialvalidexcusebunker |  
+| bip_39_word_no_space_9 | barliftcontrolpricesocialvalidexcusebunkerblast |  
 | bip_39_word_space_0 | ['bar', 'lift', 'control', 'price', 'social', 'valid', 'excuse', 'bunker', 'blast', 'rotate', 'moon', 'aspect'] |  
 | bip_39_word_space_1 | bar |  
 | bip_39_word_space_10 | bar lift control price social valid excuse bunker blast rotate |  

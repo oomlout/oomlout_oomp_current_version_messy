@@ -122,6 +122,18 @@ era
 pet
 blame
 switch |  
+| bip_39_word_no_space_1 | common |  
+| bip_39_word_no_space_10 | commonnoticecupboardonionarterapetblameswitchpiano |  
+| bip_39_word_no_space_11 | commonnoticecupboardonionarterapetblameswitchpianotube |  
+| bip_39_word_no_space_12 | commonnoticecupboardonionarterapetblameswitchpianotubeassume |  
+| bip_39_word_no_space_2 | commonnotice |  
+| bip_39_word_no_space_3 | commonnoticecupboard |  
+| bip_39_word_no_space_4 | commonnoticecupboardonion |  
+| bip_39_word_no_space_5 | commonnoticecupboardonionart |  
+| bip_39_word_no_space_6 | commonnoticecupboardonionartera |  
+| bip_39_word_no_space_7 | commonnoticecupboardonionarterapet |  
+| bip_39_word_no_space_8 | commonnoticecupboardonionarterapetblame |  
+| bip_39_word_no_space_9 | commonnoticecupboardonionarterapetblameswitch |  
 | bip_39_word_space_0 | ['common', 'notice', 'cupboard', 'onion', 'art', 'era', 'pet', 'blame', 'switch', 'piano', 'tube', 'assume'] |  
 | bip_39_word_space_1 | common |  
 | bip_39_word_space_10 | common notice cupboard onion art era pet blame switch piano |  

@@ -122,6 +122,18 @@ announce
 elegant
 dish
 attitude |  
+| bip_39_word_no_space_1 | glimpse |  
+| bip_39_word_no_space_10 | glimpseclaimplanetneithercostannounceelegantdishattitudeslide |  
+| bip_39_word_no_space_11 | glimpseclaimplanetneithercostannounceelegantdishattitudeslideversion |  
+| bip_39_word_no_space_12 | glimpseclaimplanetneithercostannounceelegantdishattitudeslideversionaccount |  
+| bip_39_word_no_space_2 | glimpseclaim |  
+| bip_39_word_no_space_3 | glimpseclaimplanet |  
+| bip_39_word_no_space_4 | glimpseclaimplanetneither |  
+| bip_39_word_no_space_5 | glimpseclaimplanetneithercost |  
+| bip_39_word_no_space_6 | glimpseclaimplanetneithercostannounce |  
+| bip_39_word_no_space_7 | glimpseclaimplanetneithercostannounceelegant |  
+| bip_39_word_no_space_8 | glimpseclaimplanetneithercostannounceelegantdish |  
+| bip_39_word_no_space_9 | glimpseclaimplanetneithercostannounceelegantdishattitude |  
 | bip_39_word_space_0 | ['glimpse', 'claim', 'planet', 'neither', 'cost', 'announce', 'elegant', 'dish', 'attitude', 'slide', 'version', 'account'] |  
 | bip_39_word_space_1 | glimpse |  
 | bip_39_word_space_10 | glimpse claim planet neither cost announce elegant dish attitude slide |  

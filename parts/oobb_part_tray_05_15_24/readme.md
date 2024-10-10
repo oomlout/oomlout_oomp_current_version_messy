@@ -122,6 +122,18 @@ reward
 reveal
 dolphin
 history |  
+| bip_39_word_no_space_1 | hip |  
+| bip_39_word_no_space_10 | hipwidesockstrongcostrewardrevealdolphinhistoryera |  
+| bip_39_word_no_space_11 | hipwidesockstrongcostrewardrevealdolphinhistoryerabomb |  
+| bip_39_word_no_space_12 | hipwidesockstrongcostrewardrevealdolphinhistoryerabombadjust |  
+| bip_39_word_no_space_2 | hipwide |  
+| bip_39_word_no_space_3 | hipwidesock |  
+| bip_39_word_no_space_4 | hipwidesockstrong |  
+| bip_39_word_no_space_5 | hipwidesockstrongcost |  
+| bip_39_word_no_space_6 | hipwidesockstrongcostreward |  
+| bip_39_word_no_space_7 | hipwidesockstrongcostrewardreveal |  
+| bip_39_word_no_space_8 | hipwidesockstrongcostrewardrevealdolphin |  
+| bip_39_word_no_space_9 | hipwidesockstrongcostrewardrevealdolphinhistory |  
 | bip_39_word_space_0 | ['hip', 'wide', 'sock', 'strong', 'cost', 'reward', 'reveal', 'dolphin', 'history', 'era', 'bomb', 'adjust'] |  
 | bip_39_word_space_1 | hip |  
 | bip_39_word_space_10 | hip wide sock strong cost reward reveal dolphin history era |  

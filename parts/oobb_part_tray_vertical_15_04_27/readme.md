@@ -122,6 +122,18 @@ patrol
 work
 march
 just |  
+| bip_39_word_no_space_1 | pink |  
+| bip_39_word_no_space_10 | pinksatoshitheyspringacousticpatrolworkmarchjustaerobic |  
+| bip_39_word_no_space_11 | pinksatoshitheyspringacousticpatrolworkmarchjustaerobicapology |  
+| bip_39_word_no_space_12 | pinksatoshitheyspringacousticpatrolworkmarchjustaerobicapologyalien |  
+| bip_39_word_no_space_2 | pinksatoshi |  
+| bip_39_word_no_space_3 | pinksatoshithey |  
+| bip_39_word_no_space_4 | pinksatoshitheyspring |  
+| bip_39_word_no_space_5 | pinksatoshitheyspringacoustic |  
+| bip_39_word_no_space_6 | pinksatoshitheyspringacousticpatrol |  
+| bip_39_word_no_space_7 | pinksatoshitheyspringacousticpatrolwork |  
+| bip_39_word_no_space_8 | pinksatoshitheyspringacousticpatrolworkmarch |  
+| bip_39_word_no_space_9 | pinksatoshitheyspringacousticpatrolworkmarchjust |  
 | bip_39_word_space_0 | ['pink', 'satoshi', 'they', 'spring', 'acoustic', 'patrol', 'work', 'march', 'just', 'aerobic', 'apology', 'alien'] |  
 | bip_39_word_space_1 | pink |  
 | bip_39_word_space_10 | pink satoshi they spring acoustic patrol work march just aerobic |  

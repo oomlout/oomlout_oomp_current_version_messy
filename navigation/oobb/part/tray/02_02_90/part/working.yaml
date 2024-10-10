@@ -154,6 +154,18 @@ bip_39_word_new_line9: 'nation
   relief
 
   letter'
+bip_39_word_no_space_1: nation
+bip_39_word_no_space_10: nationskibuyerskirtpartyfabricremainreliefletterpark
+bip_39_word_no_space_11: nationskibuyerskirtpartyfabricremainreliefletterparkdisease
+bip_39_word_no_space_12: nationskibuyerskirtpartyfabricremainreliefletterparkdiseaseamateur
+bip_39_word_no_space_2: nationski
+bip_39_word_no_space_3: nationskibuyer
+bip_39_word_no_space_4: nationskibuyerskirt
+bip_39_word_no_space_5: nationskibuyerskirtparty
+bip_39_word_no_space_6: nationskibuyerskirtpartyfabric
+bip_39_word_no_space_7: nationskibuyerskirtpartyfabricremain
+bip_39_word_no_space_8: nationskibuyerskirtpartyfabricremainrelief
+bip_39_word_no_space_9: nationskibuyerskirtpartyfabricremainreliefletter
 bip_39_word_space_0:
 - nation
 - ski

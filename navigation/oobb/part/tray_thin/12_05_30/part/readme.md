@@ -122,6 +122,18 @@ fix
 fish
 before
 page |  
+| bip_39_word_no_space_1 | measure |  
+| bip_39_word_no_space_10 | measurehobbyenlistyellowcradlefixfishbeforepagenotice |  
+| bip_39_word_no_space_11 | measurehobbyenlistyellowcradlefixfishbeforepagenoticealbum |  
+| bip_39_word_no_space_12 | measurehobbyenlistyellowcradlefixfishbeforepagenoticealbumatom |  
+| bip_39_word_no_space_2 | measurehobby |  
+| bip_39_word_no_space_3 | measurehobbyenlist |  
+| bip_39_word_no_space_4 | measurehobbyenlistyellow |  
+| bip_39_word_no_space_5 | measurehobbyenlistyellowcradle |  
+| bip_39_word_no_space_6 | measurehobbyenlistyellowcradlefix |  
+| bip_39_word_no_space_7 | measurehobbyenlistyellowcradlefixfish |  
+| bip_39_word_no_space_8 | measurehobbyenlistyellowcradlefixfishbefore |  
+| bip_39_word_no_space_9 | measurehobbyenlistyellowcradlefixfishbeforepage |  
 | bip_39_word_space_0 | ['measure', 'hobby', 'enlist', 'yellow', 'cradle', 'fix', 'fish', 'before', 'page', 'notice', 'album', 'atom'] |  
 | bip_39_word_space_1 | measure |  
 | bip_39_word_space_10 | measure hobby enlist yellow cradle fix fish before page notice |  

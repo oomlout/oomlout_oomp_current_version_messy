@@ -122,6 +122,18 @@ close
 bone
 keen
 tiger |  
+| bip_39_word_no_space_1 | before |  
+| bip_39_word_no_space_10 | beforecovertuitionexecutetenantclosebonekeentigerjar |  
+| bip_39_word_no_space_11 | beforecovertuitionexecutetenantclosebonekeentigerjarinherit |  
+| bip_39_word_no_space_12 | beforecovertuitionexecutetenantclosebonekeentigerjarinheritanchor |  
+| bip_39_word_no_space_2 | beforecover |  
+| bip_39_word_no_space_3 | beforecovertuition |  
+| bip_39_word_no_space_4 | beforecovertuitionexecute |  
+| bip_39_word_no_space_5 | beforecovertuitionexecutetenant |  
+| bip_39_word_no_space_6 | beforecovertuitionexecutetenantclose |  
+| bip_39_word_no_space_7 | beforecovertuitionexecutetenantclosebone |  
+| bip_39_word_no_space_8 | beforecovertuitionexecutetenantclosebonekeen |  
+| bip_39_word_no_space_9 | beforecovertuitionexecutetenantclosebonekeentiger |  
 | bip_39_word_space_0 | ['before', 'cover', 'tuition', 'execute', 'tenant', 'close', 'bone', 'keen', 'tiger', 'jar', 'inherit', 'anchor'] |  
 | bip_39_word_space_1 | before |  
 | bip_39_word_space_10 | before cover tuition execute tenant close bone keen tiger jar |  

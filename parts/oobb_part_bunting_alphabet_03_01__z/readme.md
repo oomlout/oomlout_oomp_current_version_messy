@@ -122,6 +122,18 @@ season
 sort
 glare
 jelly |  
+| bip_39_word_no_space_1 | chronic |  
+| bip_39_word_no_space_10 | chronicvalleyexistswarmsuggestseasonsortglarejellygrunt |  
+| bip_39_word_no_space_11 | chronicvalleyexistswarmsuggestseasonsortglarejellygrunttrip |  
+| bip_39_word_no_space_12 | chronicvalleyexistswarmsuggestseasonsortglarejellygrunttripalone |  
+| bip_39_word_no_space_2 | chronicvalley |  
+| bip_39_word_no_space_3 | chronicvalleyexist |  
+| bip_39_word_no_space_4 | chronicvalleyexistswarm |  
+| bip_39_word_no_space_5 | chronicvalleyexistswarmsuggest |  
+| bip_39_word_no_space_6 | chronicvalleyexistswarmsuggestseason |  
+| bip_39_word_no_space_7 | chronicvalleyexistswarmsuggestseasonsort |  
+| bip_39_word_no_space_8 | chronicvalleyexistswarmsuggestseasonsortglare |  
+| bip_39_word_no_space_9 | chronicvalleyexistswarmsuggestseasonsortglarejelly |  
 | bip_39_word_space_0 | ['chronic', 'valley', 'exist', 'swarm', 'suggest', 'season', 'sort', 'glare', 'jelly', 'grunt', 'trip', 'alone'] |  
 | bip_39_word_space_1 | chronic |  
 | bip_39_word_space_10 | chronic valley exist swarm suggest season sort glare jelly grunt |  

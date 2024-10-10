@@ -122,6 +122,18 @@ shove
 border
 unique
 public |  
+| bip_39_word_no_space_1 | eye |  
+| bip_39_word_no_space_10 | eyespendsurfacewirejourneyshoveborderuniquepublicalready |  
+| bip_39_word_no_space_11 | eyespendsurfacewirejourneyshoveborderuniquepublicalreadydefy |  
+| bip_39_word_no_space_12 | eyespendsurfacewirejourneyshoveborderuniquepublicalreadydefyaunt |  
+| bip_39_word_no_space_2 | eyespend |  
+| bip_39_word_no_space_3 | eyespendsurface |  
+| bip_39_word_no_space_4 | eyespendsurfacewire |  
+| bip_39_word_no_space_5 | eyespendsurfacewirejourney |  
+| bip_39_word_no_space_6 | eyespendsurfacewirejourneyshove |  
+| bip_39_word_no_space_7 | eyespendsurfacewirejourneyshoveborder |  
+| bip_39_word_no_space_8 | eyespendsurfacewirejourneyshoveborderunique |  
+| bip_39_word_no_space_9 | eyespendsurfacewirejourneyshoveborderuniquepublic |  
 | bip_39_word_space_0 | ['eye', 'spend', 'surface', 'wire', 'journey', 'shove', 'border', 'unique', 'public', 'already', 'defy', 'aunt'] |  
 | bip_39_word_space_1 | eye |  
 | bip_39_word_space_10 | eye spend surface wire journey shove border unique public already |  
