@@ -1,23 +1,271 @@
+bip_39_word_new_br_1: eyebrow
+bip_39_word_new_br_10: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb
+bip_39_word_new_br_11: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey
+bip_39_word_new_br_12: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital<br>verb<br>journey<br>amazing
+bip_39_word_new_br_2: eyebrow<br>sunset
+bip_39_word_new_br_3: eyebrow<br>sunset<br>coyote
+bip_39_word_new_br_4: eyebrow<br>sunset<br>coyote<br>fruit
+bip_39_word_new_br_5: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder
+bip_39_word_new_br_6: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg
+bip_39_word_new_br_7: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance
+bip_39_word_new_br_8: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth
+bip_39_word_new_br_9: eyebrow<br>sunset<br>coyote<br>fruit<br>ladder<br>egg<br>glance<br>depth<br>hospital
+bip_39_word_new_line_1: eyebrow
+bip_39_word_new_line_10: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance
+
+  depth
+
+  hospital
+
+  verb'
+bip_39_word_new_line_11: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance
+
+  depth
+
+  hospital
+
+  verb
+
+  journey'
+bip_39_word_new_line_12: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance
+
+  depth
+
+  hospital
+
+  verb
+
+  journey
+
+  amazing'
+bip_39_word_new_line_2: 'eyebrow
+
+  sunset'
+bip_39_word_new_line_3: 'eyebrow
+
+  sunset
+
+  coyote'
+bip_39_word_new_line_4: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit'
+bip_39_word_new_line_5: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder'
+bip_39_word_new_line_6: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg'
+bip_39_word_new_line_7: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance'
+bip_39_word_new_line_8: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance
+
+  depth'
+bip_39_word_new_line_9: 'eyebrow
+
+  sunset
+
+  coyote
+
+  fruit
+
+  ladder
+
+  egg
+
+  glance
+
+  depth
+
+  hospital'
+bip_39_word_no_space_1: eyebrow
+bip_39_word_no_space_10: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverb
+bip_39_word_no_space_11: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverbjourney
+bip_39_word_no_space_12: eyebrowsunsetcoyotefruitladdereggglancedepthhospitalverbjourneyamazing
+bip_39_word_no_space_2: eyebrowsunset
+bip_39_word_no_space_3: eyebrowsunsetcoyote
+bip_39_word_no_space_4: eyebrowsunsetcoyotefruit
+bip_39_word_no_space_5: eyebrowsunsetcoyotefruitladder
+bip_39_word_no_space_6: eyebrowsunsetcoyotefruitladderegg
+bip_39_word_no_space_7: eyebrowsunsetcoyotefruitladdereggglance
+bip_39_word_no_space_8: eyebrowsunsetcoyotefruitladdereggglancedepth
+bip_39_word_no_space_9: eyebrowsunsetcoyotefruitladdereggglancedepthhospital
+bip_39_word_space_0:
+- eyebrow
+- sunset
+- coyote
+- fruit
+- ladder
+- egg
+- glance
+- depth
+- hospital
+- verb
+- journey
+- amazing
+bip_39_word_space_1: eyebrow
+bip_39_word_space_10: eyebrow sunset coyote fruit ladder egg glance depth hospital
+  verb
+bip_39_word_space_11: eyebrow sunset coyote fruit ladder egg glance depth hospital
+  verb journey
+bip_39_word_space_12: eyebrow sunset coyote fruit ladder egg glance depth hospital
+  verb journey amazing
+bip_39_word_space_2: eyebrow sunset
+bip_39_word_space_3: eyebrow sunset coyote
+bip_39_word_space_4: eyebrow sunset coyote fruit
+bip_39_word_space_5: eyebrow sunset coyote fruit ladder
+bip_39_word_space_6: eyebrow sunset coyote fruit ladder egg
+bip_39_word_space_7: eyebrow sunset coyote fruit ladder egg glance
+bip_39_word_space_8: eyebrow sunset coyote fruit ladder egg glance depth
+bip_39_word_space_9: eyebrow sunset coyote fruit ladder egg glance depth hospital
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 180_ohm
 description_main_capital: 180 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '180'
+description_main_length_4: '180_'
+description_main_length_5: 180_o
+description_main_length_6: 180_oh
+description_main_name: 180 Ohm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: '180'
+description_main_no_space_length_4: 180o
+description_main_no_space_length_5: 180oh
+description_main_no_space_length_6: 180ohm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: '180'
+description_main_no_space_upper_length_4: 180O
+description_main_no_space_upper_length_5: 180OH
+description_main_no_space_upper_length_6: 180OHM
 description_main_upper: 180_OHM
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '180'
+description_main_upper_length_4: '180_'
+description_main_upper_length_5: 180_O
+description_main_upper_length_6: 180_OH
 description_only_numbers: '180'
 description_only_numbers_short: '180'
 description_or_color: '180'
@@ -26,9 +274,10 @@ directory: parts/electronic_resistor_0402_180_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_180_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_180_ohm
 id: electronic_resistor_0402_180_ohm
 id_no_class: resistor_0402_180_ohm
+id_no_color: 180ohm
 id_no_size: 180_ohm
 id_no_type: 0402_180_ohm
 kicad_reference: R
@@ -37,6 +286,7 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -81,6 +331,7 @@ md5_6_alpha_upper: 4VI0S
 md5_6_upper: 7CF0FC
 name: Electronic Resistor 0402 180 Ohm
 name_no_class: Resistor 0402 180 Ohm
+name_no_color: 180Ohm
 name_no_size: 180 Ohm
 name_no_size_short: 180 Ohm
 name_no_type: 0402 180 Ohm
@@ -100,6 +351,7 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 short_code: r4o181
 short_code_upper: R4O181
@@ -107,9 +359,34 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
+size_name: '0402'
+size_no_space_length_1: '0'
+size_no_space_length_2: '04'
+size_no_space_length_3: '040'
+size_no_space_length_4: '0402'
+size_no_space_length_5: '0402'
+size_no_space_length_6: '0402'
+size_no_space_upper_length_1: '0'
+size_no_space_upper_length_2: '04'
+size_no_space_upper_length_3: '040'
+size_no_space_upper_length_4: '0402'
+size_no_space_upper_length_5: '0402'
+size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -122,4 +399,29 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

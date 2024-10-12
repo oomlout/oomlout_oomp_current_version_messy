@@ -1,23 +1,271 @@
+bip_39_word_new_br_1: favorite
+bip_39_word_new_br_10: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown<br>slim
+bip_39_word_new_br_11: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown<br>slim<br>rice
+bip_39_word_new_br_12: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown<br>slim<br>rice<br>alley
+bip_39_word_new_br_2: favorite<br>nuclear
+bip_39_word_new_br_3: favorite<br>nuclear<br>truly
+bip_39_word_new_br_4: favorite<br>nuclear<br>truly<br>unhappy
+bip_39_word_new_br_5: favorite<br>nuclear<br>truly<br>unhappy<br>hover
+bip_39_word_new_br_6: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur
+bip_39_word_new_br_7: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef
+bip_39_word_new_br_8: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice
+bip_39_word_new_br_9: favorite<br>nuclear<br>truly<br>unhappy<br>hover<br>dinosaur<br>chef<br>juice<br>gown
+bip_39_word_new_line_1: favorite
+bip_39_word_new_line_10: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef
+
+  juice
+
+  gown
+
+  slim'
+bip_39_word_new_line_11: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef
+
+  juice
+
+  gown
+
+  slim
+
+  rice'
+bip_39_word_new_line_12: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef
+
+  juice
+
+  gown
+
+  slim
+
+  rice
+
+  alley'
+bip_39_word_new_line_2: 'favorite
+
+  nuclear'
+bip_39_word_new_line_3: 'favorite
+
+  nuclear
+
+  truly'
+bip_39_word_new_line_4: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy'
+bip_39_word_new_line_5: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover'
+bip_39_word_new_line_6: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur'
+bip_39_word_new_line_7: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef'
+bip_39_word_new_line_8: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef
+
+  juice'
+bip_39_word_new_line_9: 'favorite
+
+  nuclear
+
+  truly
+
+  unhappy
+
+  hover
+
+  dinosaur
+
+  chef
+
+  juice
+
+  gown'
+bip_39_word_no_space_1: favorite
+bip_39_word_no_space_10: favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslim
+bip_39_word_no_space_11: favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslimrice
+bip_39_word_no_space_12: favoritenucleartrulyunhappyhoverdinosaurchefjuicegownslimricealley
+bip_39_word_no_space_2: favoritenuclear
+bip_39_word_no_space_3: favoritenucleartruly
+bip_39_word_no_space_4: favoritenucleartrulyunhappy
+bip_39_word_no_space_5: favoritenucleartrulyunhappyhover
+bip_39_word_no_space_6: favoritenucleartrulyunhappyhoverdinosaur
+bip_39_word_no_space_7: favoritenucleartrulyunhappyhoverdinosaurchef
+bip_39_word_no_space_8: favoritenucleartrulyunhappyhoverdinosaurchefjuice
+bip_39_word_no_space_9: favoritenucleartrulyunhappyhoverdinosaurchefjuicegown
+bip_39_word_space_0:
+- favorite
+- nuclear
+- truly
+- unhappy
+- hover
+- dinosaur
+- chef
+- juice
+- gown
+- slim
+- rice
+- alley
+bip_39_word_space_1: favorite
+bip_39_word_space_10: favorite nuclear truly unhappy hover dinosaur chef juice gown
+  slim
+bip_39_word_space_11: favorite nuclear truly unhappy hover dinosaur chef juice gown
+  slim rice
+bip_39_word_space_12: favorite nuclear truly unhappy hover dinosaur chef juice gown
+  slim rice alley
+bip_39_word_space_2: favorite nuclear
+bip_39_word_space_3: favorite nuclear truly
+bip_39_word_space_4: favorite nuclear truly unhappy
+bip_39_word_space_5: favorite nuclear truly unhappy hover
+bip_39_word_space_6: favorite nuclear truly unhappy hover dinosaur
+bip_39_word_space_7: favorite nuclear truly unhappy hover dinosaur chef
+bip_39_word_space_8: favorite nuclear truly unhappy hover dinosaur chef juice
+bip_39_word_space_9: favorite nuclear truly unhappy hover dinosaur chef juice gown
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 18_ohm
 description_main_capital: 18 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '18_'
+description_main_length_4: 18_o
+description_main_length_5: 18_oh
+description_main_length_6: 18_ohm
+description_main_name: 18 Ohm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: 18o
+description_main_no_space_length_4: 18oh
+description_main_no_space_length_5: 18ohm
+description_main_no_space_length_6: 18ohm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: 18O
+description_main_no_space_upper_length_4: 18OH
+description_main_no_space_upper_length_5: 18OHM
+description_main_no_space_upper_length_6: 18OHM
 description_main_upper: 18_OHM
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '18_'
+description_main_upper_length_4: 18_O
+description_main_upper_length_5: 18_OH
+description_main_upper_length_6: 18_OHM
 description_only_numbers: '18'
 description_only_numbers_short: '18'
 description_or_color: '18'
@@ -37,9 +285,10 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o180_electronic_resistor_1206_18_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_18_ohm
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_18_ohm
 id: electronic_resistor_1206_18_ohm
 id_no_class: resistor_1206_18_ohm
+id_no_color: 18ohm
 id_no_size: 18_ohm
 id_no_type: 1206_18_ohm
 kicad_reference: R
@@ -48,6 +297,7 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -92,6 +342,7 @@ md5_6_alpha_upper: 4448I
 md5_6_upper: '697272'
 name: Electronic Resistor 1206 18 Ohm
 name_no_class: Resistor 1206 18 Ohm
+name_no_color: 18Ohm
 name_no_size: 18 Ohm
 name_no_size_short: 18 Ohm
 name_no_type: 1206 18 Ohm
@@ -111,6 +362,7 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 short_code: r12o180
 short_code_upper: R12O180
@@ -118,9 +370,34 @@ size: '1206'
 size_capital: '1206'
 size_first_letter: '1'
 size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '12'
+size_length_3: '120'
+size_length_4: '1206'
+size_length_5: '1206'
+size_length_6: '1206'
+size_name: '1206'
+size_no_space_length_1: '1'
+size_no_space_length_2: '12'
+size_no_space_length_3: '120'
+size_no_space_length_4: '1206'
+size_no_space_length_5: '1206'
+size_no_space_length_6: '1206'
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '12'
+size_no_space_upper_length_3: '120'
+size_no_space_upper_length_4: '1206'
+size_no_space_upper_length_5: '1206'
+size_no_space_upper_length_6: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
 size_upper: '1206'
+size_upper_length_1: '1'
+size_upper_length_2: '12'
+size_upper_length_3: '120'
+size_upper_length_4: '1206'
+size_upper_length_5: '1206'
+size_upper_length_6: '1206'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -133,4 +410,29 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST
